@@ -1,0 +1,427 @@
+Sweet victory,
+Bitter outcome
+
+Fairness and effectiveness of the salary
+claims process at TADM and the ECT
+
+April 2026
+0. Contents                                                                  I. Executive summary
+
+I         Executive summary                                              2   This report examines how fair the salary claims process administered by the Ministry
+                                                                             of Manpower's Tripartite Alliance for Dispute Management (TADM) is in practice. It
+II        Background                                                     3   focuses particularly on whether legal victories translate into meaningful financial
+                                                                             outcomes for migrant workers who file salary claims. Whilst Singapore's salary claims
+     2.1  Justification for research                                     3   framework crucially provides a formal avenue for dispute resolution, this study finds
+                                                                             that significant gaps remain between legal recognition and material outcomes, due to
+     2.2  Overview of the process for salary disputes                    5   the high incidence of employer insolvency or abscondment.
+
+     2.3  Overview of the Security Bond mechanism                        7   The findings of this report draw from qualitative interviews conducted by the
+                                                                             researcher during her internship at Transient Workers Count Too (TWC2). The
+III       Research methods                                               8   researcher interviewed three groups of workers whose salary claims reached different
+                                                                             conclusions:
+     3.1  Research design and justification                              8
+                                                                             (1) workers who settled during mediation for less than the amount they had
+     3.2  Ethical considerations                                         9           initially claimed;
+
+IV        Findings                                                       9   (2) workers who obtained favourable rulings from the Employment Claims
+                                                                                     Tribunal (ECT) but received no payment due to employer bankruptcy or
+     4.1  Lack of enforcement                                            9           abscondment; and
+
+     4.2  Significant economic precarity                                 10  (3) workers who similarly obtained favourable ECT rulings and whose employers
+                                                                                     were also uncontactable or bankrupt, but who received partial or full
+     4.3  Security Bond provides partial protection                      11          compensation through the security bond insurance mechanism.
+
+V         Discussion and conclusion                                      12  By analysing outcomes across these groups, this report highlights how the practical
+                                                                             enforcement of legal victories through wage recovery shapes workers' experience of
+VI        Appendix                                                       14  fairness more than procedural access alone.
+
+ Transient Workers Count Too                           www.twc2.org.sg       The findings show that the unenforceability of Tribunal Orders (TOs) is a central
+                                                       info@twc2.org.sg      weakness of the current system. Many workers interviewed who had "won" their
+ Singapore                                                                   cases were ultimately unable to recover the full wages they were owed, as they lacked
+ © Transient Workers Count Too                         April 2026            the financial means to pursue enforcement and had limited access to institutional
+
+Sweet victory, Bitter outcome, April 2026                                                                                                                                  Page 2 of 14
+support. This enforcement gap not only undermines the practical value of legal rulings   such as the provision of interim financial support or broader
+but also influences workers' behaviour earlier in the claims process. Faced with         access to temporary work authorisation could significantly reduce the pressures
+prolonged unemployment and uncertainty, many workers described feeling pressure          faced by workers during ongoing salary disputes.
+to accept reduced settlements during the mediation stage, simply to secure some          Overall, this report concludes that while Singapore's salary claims system provides
+concrete payment and to return to work as quickly as possible.                           formal avenues for redress, its current design places much of the financial risk of
+                                                                                         enforcement on migrant workers themselves. Strengthening and expanding existing
+This report also finds that workers face significant hardship whilst their cases are     mechanisms, such as security bond insurance and the Change of Employer scheme
+ongoing. During this period, most workers are unable to work and earn an income,         would represent a pragmatic step towards ensuring that legal rights are not only
+and support from former employers is often minimal or entirely absent.                   recognised but meaningfully realised in practice.
+
+Even in the rare cases where workers eventually recovered the full amounts they were     II. Background
+owed, these sums were often insufficient to make up for months of lost income and
+the debt they accumulated during the claims process.                                     2.1 Justification for research
+
+Faced with the prospect of a long period of unemployment and the resulting               Salary-related employment disputes are one of the most common forms of labour
+opportunity cost, some workers are discouraged from engaging with the salary claims      conflict faced by low-income migrant workers in Singapore. The Ministry of Manpower
+process completely.                                                                      (MOM) provides a formal dispute resolution pathway through the Tripartite Alliance for
+                                                                                         Dispute Management (TADM) and the Employment Claims Tribunal (ECT). MOM
+Within the salary claims context, the security bond insurance mechanism emerged as       defines mediation as "a process that aims to help resolve disputes and assist both
+one of the few institutional tools capable of converting legal entitlements into actual  parties to arrive at a fair outcome based on legal and contractual obligations."1
+compensation. For eligible Work Permit holders, it was often the only reason they        Hence, this report aims to investigate how fair the salary claims process is in practice,
+received any payment after employer non-compliance. However, this report finds that      especially for workers whose employers refuse or are unable to comply with legal
+access to this mechanism remains partial and uneven. Furthermore, S-Pass holders         rulings. Here, we define `fairness' as the degree to which workers obtain the practical
+are completely excluded from security bond coverage, leaving them especially             outcomes they are entitled to. Thus, this report seeks to examine the extent to which
+vulnerable during salary disputes, as compared to Work Permit holders.
+                                                                                                                                                                                       Page 3 of 14
+Based on these findings, the report argues that improving fairness in the salary claims
+process requires strengthening mechanisms that support practical enforceability and
+income continuity during ongoing salary disputes. A policy reform which is both
+reasonably feasible and impactful, would be the extension of security bond insurance
+coverage to include S-Pass holders, as this would directly address the enforcement
+gap between S-Pass holders and Work Permit holders. In addition, modest measures
+
+1 https://www.tal.sg/tadm/mediation-guide-3#
+
+Sweet victory, Bitter outcome, April 2026
+legal recognition translates into meaningful wage recovery, and how actual or             Two migrant workers with salary claims consulting with their TWC2 case officers over
+expected outcomes from the salary claims process in turn shape the behaviours of          their evidence
+migrant workers.
+                                                                                        Against this backdrop, this report aims to assess how fair the TADM-administered
+This study focuses specifically on salary-related claims, which typically involve       salary claims process is, drawing on the lived experiences of migrant workers who
+unpaid basic salary, overtime pay, or notice pay. Although the salary claims            have navigated the system and obtained varying outcomes. By examining cases
+framework is designed to be accessible and efficient, an assessment of its              where workers settled for reduced amounts, obtained unenforceable Tribunal Orders,
+effectiveness must take into account not only procedural access, but also the           or received partial compensation through the security bond insurance mechanism,
+enforceability of legal rulings, as well as the material conditions faced by workers    this study seeks to identify structural gaps in the enforcement of salary claims. In
+during the dispute process. As such, fairness cannot be assessed solely by whether      doing so, it also considers which policy mechanisms could be strengthened or
+workers are able to file claims or obtain legal rulings but must also consider whether
+they are able to materially recover the wages they are owed and continue to meet
+their basic needs during the dispute resolution process.
+
+The motivation for this research emerged from the author's three-month internship
+with Transient Workers Count Too (TWC2), a non-governmental organisation which
+supports migrant workers facing employment disputes, most commonly salary or
+injury-related disputes. During this period, the author worked closely with workers
+navigating salary claims and witnessed firsthand the emotional and financial toll
+caused by the unenforceability of Tribunal Orders (TOs). Many workers expressed
+deep frustration and distress upon learning that a favourable legal outcome did not
+necessarily lead to wage recovery, particularly when employers had absconded or
+declared bankruptcy. These experiences highlighted a disconnect between formal
+legal pathways and workers' lived realities, thus prompting this further inquiry into
+how the salary claims system functions in practice.
+
+Sweet victory, Bitter outcome, April 2026                                               Page 4 of 14
+expanded to mitigate the economic and emotional harms faced by workers during            Transfer,3 getting a new job presents another set of difficulties
+ongoing salary disputes.                                                                 and many workers are not successful. 4
+
+2.2 Overview of the process for salary disputes                                          Additionally, the employer must provide food and housing for work permit holders.
+                                                                                         However, this is not applicable for S-Pass holders, who are not permitted to work
+The process of claiming unpaid salary occurs through the Ministry of Manpower's          during if they are on Special Passes, and whose (former) employers are also not
+(MOM) Tripartite Alliance for Dispute Management (TADM). It follows a structured         obliged to provide them with accommodation.
+pathway designed to encourage early resolution, provide mediation support, and, if
+necessary, escalate unresolved disputes to the Employment Claims Tribunals (ECT).        TWC2 assists clients by guiding them through each stage of the dispute resolution
+This process involves the claimant: the party who files a claim with TADM, and the       process to conclusion. This includes using our in-house salary calculation tool to
+respondent: the party whom the claim is filed against. Neither party is allowed to be    assist clients in calculating their claim amounts, as well as compiling the evidence
+represented by a lawyer during mediation.2                                               required to make a strong case.5
+
+The entire process, from e-Negotiation to ECT filing, usually takes six months or less.
+However, at any stage of the process, the worker can choose to accept the employer's
+offer, which would automatically close the case.
+
+Upon filing a claim, workers will typically find their work passes cancelled by the
+employer, often out of pique. Since they have an ongoing case, MOM will issue these
+workers with Special Passes, enabling them to legally stay in Singapore whilst the
+claim proceeds. Unless the worker prefers to go home rather than look for a new job in
+Singapore, the TADM Officer will generally issue the claimant with a `transfer letter'
+under the Change of Employer scheme (COE) if they are a work permit holder. This
+allows the worker to move to a new employer even whilst the salary claim process is
+ongoing, although, as described in the TWC2 research report The Rocky Road to a
+
+2 Ibid                                                                                   4 https://twc2.org.sg/2025/12/05/parliamentary-questions-september-2025-part-3-
+3 https://twc2.org.sg/2025/09/02/the-rocky-road-to-a-transfer/                           change-of-employer-letters/
+                                                                                         5 https://twc2.org.sg/what-we-do/social-work/
+Sweet victory, Bitter outcome, April 2026
+                                                                                                                                                                                       Page 5 of 14
+Claim Period                                                                              If the employee has already left employment, the claim must
+                                                                                          be filed within 6 months from their last date of employment. For example, if their last
+Under the Employment Claims Act, the claimant can only claim salary for a period of       date of employment was 1 Oct 2025, a claim must be filed by 1 April 2026. In this
+twelve months prior to the date of filing. For example, if a claim is filed on 1 October  case, the eligible claim period would be from 1 April 2025 to 1 October 2025,7 a period
+2025, the claimant can only claim their salary from 1 October 2024, and not for any       of only six months.
+period prior to that.6
+
+                                                                                          Salary Claim Stages
+
+                                                                                          Step 1: e-Negotiation
+
+                                                                                          Claimants begin the process by attempting to resolve the dispute privately via the
+                                                                                          TADM online platform:
+
+                                                                                              · The claimant logs in to the TADM website to initiate the process. If the claim
+                                                                                                  amount is known, a claim can be filed online for mediation directly. Otherwise,
+                                                                                                  the claimant must go down to the MOM office.
+
+6 https://www.tal.sg/tadm/mediation-guide-3#                                              7 Ibid
+Sweet victory, Bitter outcome, April 2026
+                                                                                                  Page 6 of 14
+    · If the claimant is a union member and the union files the claim on their behalf,     Step 3: File a claim with the Employment Claims Tribunals
+        they can claim for up to $30,000. Otherwise, they are subject to a claim limit of  (ECT)
+        $20,000, as is the case for most claimants. If the claimant is claiming an
+        amount exceeding $10,000, they must pay a filing fee of $20. For amounts               · TADM issues a Claim Referral Certificate, enabling the claimant to file a claim
+        below that, the filing fee is $10.                                                         via the ECT.
+
+    · A one-week e-Negotiation period commences, during which both parties are                 · The claimant has four weeks from receiving the certificate to register the
+        given the opportunity to attempt to reach a voluntary settlement on the TADM               unresolved claim online with the ECT, via the Community Justice and Tribunals
+        eService dashboard.                                                                        System (CJTS).
+
+Step 2: Online/In-person mediation                                                             · Legal representation is not permitted in ECT matters, and both claimants and
+                                                                                                   employers are expected to act on their own behalf.
+If e-Negotiation does not lead to an agreement, TADM arranges a mediation session:
+                                                                                               · Claimants who need access to computers can use the Business Centre at the
+    · A TADM employee is assigned as a mediator to facilitate either an online or in-              State Courts, or if assisted by TWC2, can attend their ECT hearings via Zoom
+        person mediation session.                                                                  using a computer in the TWC2 office.
+
+    · Both the claimant and employer are expected to attend this mediation session.        2.3 Overview of the Security Bond mechanism
+
+    · Mediation sessions can take up to three hours, and multiple sessions may be          In Singapore, employers hiring non-Malaysian Work Permit holders are required to
+        required. The mediation process typically takes around eight weeks to              purchase a security bond of $5,000 for each worker as a condition of their work
+        conclude.                                                                          permit.8 A security bond is a legally binding guarantee, issued by a bank or insurer in
+                                                                                           favour of the Ministry of Manpower ­ on condition that the employer complies with the
+    · If both parties can reach a settlement agreement during mediation, the salary        conditions of a Work Permit. This includes paying salaries on time, providing
+        claims process can conclude at this stage.                                         accommodation, and covering a worker's repatriation at the end of their employment.
+                                                                                           If an employer fails to meet these obligations through failing to pay wages, for
+However, if both parties fail to reach a settlement agreement during mediation, the        example, MOM may forfeit the bond and use the bond funds to compensate the
+dispute is then escalated to the Employment Claims Tribunal (ECT) of the State             worker or cover other liabilities.
+Courts.
+
+8 https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-                       Page 7 of 14
+worker/sector-specific-rules/security-bond
+Sweet victory, Bitter outcome, April 2026
+In the context of salary claims, the security bond can serve as an alternate           Group 1:  Workers who filed a salary claim but settled for a
+mechanism for wage recovery when an employer is insolvent, uncontactable, or                     lower amount than initially claimed.
+otherwise non-compliant. Workers whose employers have absconded or declared
+bankruptcy may receive compensation through the bond rather than directly from the     Group 2:  Workers whose cases proceeded to the Employment Claims Tribunals
+employer, as was the case for the workers in group 3 in the Appendix. However,                   (ECT), where they obtained a favourable tribunal order (TO) but received
+because the bond amount is capped at $5,000 per worker, its effectiveness is limited             none of the money owed.
+to smaller claim amounts. This mechanism of wage recovery thus cannot be applied
+to cases in which the salary claim exceeds $5,000. As a result, whilst the security    Group 3:  Workers who obtained an ECT tribunal order and received either partial
+bond does provide a vital safety net for some Work Permit holders, it does not fully             or full payment of the awarded salary
+address the enforceability gaps identified in this study.
+                                                                                       These categories allowed for comparison across different outcomes within the salary
+III. Research Methods                                                                  dispute resolution process.
+
+3.1 Research design and justification                                                  Recruitment and Interview Procedures
+
+This study draws on 17 qualitative, semi-structured interviews conducted with          All interviewees were current or former beneficiaries of Transient Workers Count Too
+migrant workers in Singapore. All participants were migrant workers who had            (TWC2). Participants were identified through the researcher's role as an intern at
+experienced salary disputes with their employers and had engaged with formal salary    TWC2, which provided access to workers who had ongoing or completed salary
+recovery mechanisms. The aim of the interviews was to understand workers'              claims. Interviews were conducted either:
+experiences navigating these processes and the outcomes they received.
+                                                                                           · In person at the TWC2 office,
+Participant Groups
+                                                                                           · In person at Dayspace, TWC2's shelter facility, or
+Workers were recruited into three groups based on the trajectory and outcome of their
+salary claims:                                                                             · Online via WhatsApp Call, in cases where workers had already returned to their
+                                                                                               countries of origin.
+
+                                                                                       All interviews were conducted individually using a semi-structured guide. This format
+                                                                                       allowed for consistency across interviews whilst enabling the content of each
+                                                                                       interview to be dynamically shaped by interviewees' answers, allowing them to
+                                                                                       expand on their experiences in greater depth.
+
+                                                                                       Where possible, interviews were conducted in English. In cases where interviewees
+                                                                                       did not have a sufficient grasp of English, in-house translators from Transient Workers
+                                                                                       Count Too (TWC2) assisted with interpretation.
+
+Sweet victory, Bitter outcome, April 2026                                                                                                            Page 8 of 14
+3.2 Ethical Considerations                                                              reflexivity as in some cases, prior involvement in workers'
+                                                                                        cases carried the risk of introducing preconceptions or biased narratives.
+Ethical considerations were particularly important given the vulnerability of the       To mitigate this, the author made conscious efforts to make interviews as open-ended
+interviewees and the ongoing nature of many cases. Prior to each interview, the         and worker-led as possible, allowing participants to define which aspects of their
+purpose of the research was explained, verbal consent was obtained, and                 experiences they wished to emphasise. Where possible, emerging observations were
+participants were informed that they could decline to answer any questions or           discussed informally with more experienced TWC2 staff in order to better
+withdraw at any point without consequence. Identifying details will be excluded or      contextualise individual accounts and reduce the risk of overgeneralisation based on
+anonymised to protect participants' confidentiality, and pseudonyms will be used        casework exposure. Care was taken to ensure that participation in the study did not
+where necessary.                                                                        interfere with casework support or create unrealistic expectations about legal
+                                                                                        outcomes. By remaining attentive to the power dynamics inherent in the researcher-
+Data Recording and Analysis                                                             participant relationship, this study sought to balance the benefits of insider access
+                                                                                        with a reflective research approach.
+During each interview, detailed written notes were taken. These notes form the
+primary data source for analysis. After data collection, the interview notes were       IV. Findings
+thematically coded, following an inductive approach. Codes were developed
+iteratively to identify recurring patterns, experiences, and concerns across the three  4.1 There is a critical lack of enforcement mechanisms for
+respondent groups. Themes emerging from this process were used to structure the         Tribunal Orders (TOs)
+findings of this report and highlight contrasts between different case outcomes.
+                                                                                        A key finding from the interviews was the practical unenforceability of Tribunal Orders
+Reflexivity                                                                             (TOs). Even when workers successfully obtained a legal ruling in their favour from the
+                                                                                        Employment Claims Tribunal (ECT), it remained almost impossible to enforce. Many
+This study was conducted while the author was interning as a caseworker at Transient    workers described situations in which their employers had either filed for bankruptcy
+Workers Count Too (TWC2). It is therefore crucial to acknowledge how the author's       or absconded; becoming uncontactable after the TO was issued. Hence, whilst the
+positionality shaped the research process and results obtained. On one hand, being      issuance of a TO formally recognises the legitimacy of a worker's claim, it does not
+embedded within TWC2 enabled easy access to workers who were navigating the             guarantee the recovery of owed wages, resulting in a legal victory which carries little
+salary claims process. Additionally, it may have facilitated trust-building with
+participants, allowing them to feel more comfortable sharing their experiences. On                                                                                                    Page 9 of 14
+the other hand, the author's dual role as caseworker and researcher required careful
+
+Sweet victory, Bitter outcome, April 2026
+material value. This highlights a critical gap between legal recognition and material        loans, placing significant strain on their families and even
+outcomes in salary cases, which results from a lack of enforcement mechanisms.               triggering conflict within their communities back home. Interviewees described
+                                                                                             feelings of distress and helplessness, with some reporting a fear of returning home
+None of the workers interviewed had the financial means to hire a private lawyer to          due to ongoing family disputes. These findings thus suggest that the weak
+pursue enforcement action independently. As such, once their employer failed to              enforcement mechanisms of salary disputes impact not just the individual worker,
+comply with the TO, their only option was to turn to institutional intermediaries such       but also their families in their home countries who rely on their remittances.
+as the Migrant Workers' Centre (MWC). However, we found that access to such
+support was uneven and constrained. Some workers were turned away despite                    4.2 Workers experience significant economic precarity while
+possessing valid TOs, due to MWC assessing the likelihood of successful wage                 waiting for case resolution
+recovery as being too low. This is exacerbated by our observation that MWC is facing
+increasing resource constraints, thus creating a need to prioritise cases with higher        Another major theme across interviews was that workers' vulnerability is further
+prospects of recovery. This thus creates a situation in which legal entitlement exists in    intensified while waiting for their cases to be resolved. During this period, workers are
+theory but is practically unenforceable for a substantial proportion of claimants.           generally prohibited from working, leaving them without a source of income for
+                                                                                             months at a time.
+The perceived impossibility of enforcement also significantly shapes workers'                For S-Pass holders, the situation was particularly precarious, as their employers are
+behaviour earlier in the dispute process. Workers in Group 1, who settled for amounts        not legally obliged to provide housing or food during an ongoing salary dispute, unlike
+lower than their original claims, frequently explained that they accepted reduced            Work Permit holders. Even amongst the Work Permit holders interviewed however, we
+settlements because they believed that pursuing the full amount would ultimately             found that the assistance they received was minimal; whilst accommodation was
+yield nothing. Interviewees frequently expressed that it was better to "take what they       mostly provided, food allowances were inconsistent and often insufficient. Several
+can get", prioritising certainty over fairness. In several cases, this logic was reinforced  workers described needing to skip meals or rely on ad hoc assistance from NGOs
+by TADM officers, who advised workers to accept lower settlements rather than risk           such as TWC2 to meet their basic needs. The inability to earn an income whilst
+winning a TO that could not be enforced. Whilst such advice may be pragmatic given           awaiting case resolution emerged as one of the most consistently cited hardships
+existing constraints, it underscores how systemic weaknesses effectively pressure            across interviews, as workers often described how this prolonged period of economic
+workers into compromising their legal entitlements.                                          insecurity and forced idleness robbed them of a sense of stability and dignity. Hence,
+                                                                                             this created an intense pressure for workers to resolve their cases as quickly as
+Beyond financial loss, the inability to enforce TOs has profound emotional and social        possible, even where it meant settling for a lower amount than they were initially
+consequences. Several interviewees recounted the emotional trajectory of feeling             owed ­ as was the case for most of the workers in group 1.
+initial relief and happiness upon receiving a TO, followed by the profound
+disappointment of realising that no meaningful action could be taken to recover their                                                                                                      Page 10 of 14
+owed wages. Many workers are the primary or sole breadwinners for their families,
+and have also taken on substantial loans ­ often with high interest rates ­ in order to
+pay the agency fees required to come to Singapore. Hence many interviewees
+described how the failure to recover their owed wages left them unable to repay these
+
+Sweet victory, Bitter outcome, April 2026
+Crucially, even in what might be considered "successful" cases where workers             financial relief and in most cases was the only reason they
+eventually received the full amount stated in their TO, as was the case for some of the  received any money at all after an employer absconded or declared bankruptcy.
+workers in group 3, we found that the financial impact of their prolonged                However, workers also noted that the amounts they received were often insufficient to
+unemployment was not fully mitigated. The wages recovered rarely compensated for         cover broader losses, such as the income foregone while they were unable to work
+the debt accumulated from months of lost wages and ongoing living expenses               during the claims process. As such, even where the security bond functioned as
+incurred during the dispute process. As a result, many remained in financial distress    intended, it still failed to fully address the economic harm experienced by workers.
+even after receiving payment. This challenges the assumption that full recovery of
+owed wages equates to financial justice, as it overlooks the opportunity costs and       More significantly, this mechanism is entirely unavailable to S-Pass holders, who,
+survival expenses borne by workers during the dispute process. Hence, this               since they are excluded from security bond coverage, occupy a particularly vulnerable
+underscores how procedural delays themselves can function as a form of economic          position within the labour migration regime. In theory, S-Pass holders are free to look
+harm.                                                                                    for subsequent employment even whilst a case is ongoing; in practice, other TWC2
+                                                                                         research reports have described a significant degree of prejudice amongst employers
+This urgency to return to work was also a crucial factor that drove workers in Group 1   against hiring workers who have filed claims against former employers. Moreover,
+to accept reduced settlements. For many, the prospect of continued unemployment          some S-Pass holders have skillsets or have job expectations (e.g. Bangladeshi-
+was more damaging than the sacrfice that comes with accepting a reduced amount           cuisine cook) for which there aren't many job openings. Additionally, as mentioned
+quickly. Workers repeatedly emphasised their responsibilities as primary or sole         previously, former employers of S-Pass holders are not legally obliged to provide them
+breadwinners, with families back home depending on remittances for daily expenses,       with housing and food during an ongoing salary dispute, unlike Work Permit holders.
+medical treatments, or debt repayment. The longer a case dragged on, the more            This multifaceted exclusion often places S-Pass holders with salary disputes in a
+acute this pressure became, ultimately outweighing the pursuit of full compensation.     markedly more precarious position than their Work Permit counterparts. Several S-
+This reflects a broader structural imbalance, as whilst employers can delay or evade     Pass holders interviewed expressed confusion and frustration at this disparity,
+payment with limited consequences, workers must bear the full cost of waiting.           especially when they observed other Work Permit holders in similar situations
+                                                                                         receiving partial compensation, housing, meal allowances and a pathway to new
+4.3 The Security Bond provides partial protection, however                               jobs.
+significant gaps remain
+                                                                                         These findings suggest that while the security bond mechanism is a step in the right
+The introduction of the security bond mechanism ­ otherwise known as ex-gratia           direction, it remains inadequate in protection. Expanding its eligibility to S-Pass
+payments ­ has represented a meaningful, albeit limited, attempt to mitigate the         holders or providing alternative forms of interim financial and employment support for
+consequences of employer non-compliance. Put simply, this mechanism allows Work          them, could substantially reduce their vulnerability during dispute resolution.
+Permit holders to receive compensation through their employer's insurance when
+wages go unpaid. For eligible Work Permit holders, this mechanism provided tangible                                                                                                    Page 11 of 14
+
+Sweet victory, Bitter outcome, April 2026
+V. Discussion and conclusion                                                            victory, many workers felt compelled to accept reduced
+                                                                                        settlements, prioritising certainty and immediacy over full and fair compensation.
+This report set out to assess how fair the salary claims process administered by MOM
+TADM is in practice, drawing on the lived experiences of migrant workers who            These findings also highlight how the dispute resolution process itself generates
+navigated the system. To capture variation in outcomes across the claims process,       significant economic harm. Workers are generally prohibited from working or unable
+the study focuses on three groups of workers whose salary disputes concluded in         to find work whilst their cases are ongoing. This leaves them without income and
+different ways. The first group comprised workers who reached an agreement with         dependent on limited support from employers or NGOs, racking up significant debt in
+their employers during the mediation stage but ultimately settled for amounts lower     the process.
+than what they had originally claimed. The second group consisted of workers who
+obtained favourable Tribunal Orders (TOs) from the Employment Claims Tribunal           At the same time, TWC2 case officers have expressed increasing concern over the
+(ECT) but received no payment because their employers had absconded or declared         lengthening period of time between a worker filing a salary claim and a hearing date at
+bankruptcy. The third group similarly obtained favourable TOs and experienced           the ECT. This may be the result of an increasing caseload at TADM and the ECT.
+employer abscondment or insolvency, but unlike the second group, received partial or    Whatever the reason, procedural delays further exacerbate the financial toll on
+full compensation through the security bond insurance mechanism.                        workers, on top of the stress they face.
+
+Our findings demonstrate that whilst TADM plays a crucial role in offering workers a    Although Work Permit holders with valid claims should be able to get permission from
+formal avenue to seek redress, fairness cannot be assessed solely on the basis of       TADM to switch employers through TADM's Change of Employer (COE) scheme,
+access to mediation or adjudication. Instead, an assessment of fairness must            actually landing a new job with a COE in hand is harder said than done, as described
+consider whether workers are able to meaningfully recover the full wages they are       in a TWC2 research report The Rocky Road to a Transfer.9 Likewise, although S-Pass
+owed, as well as how the process itself imposes economic and emotional costs on         holders are free to look for new jobs even while a claim is progress, success can be
+those seeking justice.                                                                  elusive. Placements are not always immediately available or the offered salary is too
+                                                                                        low.
+Across all three groups of workers interviewed, a central finding was the gap between
+legal recognition and material outcomes. For many workers, successfully obtaining a     Moreover, even when they can find possible new jobs, agents often demand
+Tribunal Order did not translate into actual wage recovery due to employer insolvency   substantial amounts in recruitment fees, amounts which quite often exceed the legal
+or abscondment. The absence of effective enforcement mechanisms, coupled with           maximum and yet agents demand such sums with impunity. Workers who had been
+workers' inability to afford private legal representation, rendered TOs practically     severely shortpaid or not paid ­ which was why they filed salary claims ­ would not
+unenforceable for almost all claimants. This enforcement gap not only undermines        have the cash in hand to pay such fees, making it even harder to switch to new jobs.
+the credibility of the adjudicatory process but also shapes workers' behaviour earlier
+in the claims process. Faced with the prospect of a practically unenforceable legal     As a result, a substantial number of workers who file salary claims remain
+                                                                                        unemployed and without income for extended periods. Pursuing a salary claim
+9 https://twc2.org.sg/2025/09/02/the-rocky-road-to-a-transfer/                          therefore frequently involves significant financial and emotional costs, placing
+
+Sweet victory, Bitter outcome, April 2026                                                                                                                                             Page 12 of 14
+workers under greater pressure to accept early, reduced settlements in order to free     dispute resolution process. One such reform could be to
+from anxiety and free to return to work as soon as possible. This pressure is felt       extend security bond insurance coverage to include S-Pass holders. Doing so would
+greatest among those workers, particularly migrant workers, who have the least by        directly address one enforcement gap identified in this study and also reduce the
+way of financial buffers. In effect, their access to full and fair compensation is       stark differences in outcome between Work Permit and S-Pass holders. This change
+compromised, and they are systemically disadvantaged.                                    would build on existing principles of employer responsibility, rather than introduce a
+                                                                                         major shift in policy. In addition, relatively modest measures could be introduced to
+Even in the rare cases where workers eventually recovered the full amounts they were     reduce hardship during the dispute process, such as expanded facilitation for moving
+owed, these sums were often insufficient to offset the income lost and subsistence       into new jobs, could significantly reduce the pressure on workers to settle
+costs incurred (often through borrowing from friends) during their prolonged             prematurely for less than they are owed. By reducing the financial costs of pursuing a
+unemployment.                                                                            claim, such measures would enable workers to make decisions based more on the
+                                                                                         strength of their case rather than economic desperation. Crucially, such reforms
+Crucially, in some cases, the opportunity cost of being unable to work may               would not weaken incentives for early settlement but rather help to ensure that
+discourage workers from engaging with the salary claims process completely,              settlements are genuinely voluntary instead of driven primarily by economic
+particularly when the likelihood of meaningful wage recovery is perceived to be low.     desperation.
+For them, the formal process laid out for salary claims has no meaning.
+                                                                                         Overall, this report demonstrates that whilst Singapore's salary claims system
+Within this context, the security bond insurance mechanism emerges as one of the         provides formal avenues for workers to seek redress, its current design places much
+few institutional features that can translate legal entitlements into material           of the financial risk and burden of enforcement on migrant workers themselves. A
+outcomes. For eligible Work Permit holders, it was often the only reason they received   system that recognises wage theft but cannot reliably enforce wage recovery risks
+any compensation after their employers failed to comply with the Tribunal Order.         reproducing injustice. Strengthening and expanding existing mechanisms, such as
+However, this study finds that the security bond remains an incomplete and uneven        security bond insurance, offers a practical way to narrow the gap between workers'
+solution. The amounts paid out rarely account for the broader economic losses            legal rights and their lived realities, allowing us to move closer to a salary claims
+workers incur during the claims process, and the exclusion of S-Pass holders leaves a    process that is not only procedurally fair, but substantively just.
+particularly vulnerable group with no comparable safety net.
+
+Taken together, these findings suggest that improving fairness within the salary claims
+process requires strengthening mechanisms in order to ensure that workers can both
+enforce their claims and also maintain some form of income generation during the
+
+Sweet victory, Bitter outcome, April 2026                                                Page 13 of 14
+VI. Appendix
+
+Anonymised profile of interviewees
+
+Pseudonym  Group  Permit                   Gender  Amount      Amount     When settlement was
+           1      Type                             Claimed     Received   received
+Yvonne            WP                       F       $1,500      $782       TADM mediation
+James                                      M       $2,400      $2,000     TADM mediation
+Ryan       1      WP                       M       $1,006.13   $800       TADM mediation
+Alice                                      F       $7,010.40   $5,625.79  TADM e-negotiation
+Shaun      1      WP                       M       $17,000     $0         N/A
+Isaac                                      M       $16,370.09  $0         N/A
+Steve      1      S Pass                   M       $22,070     $0         N/A
+Alan                                       M       $14,210     $0         N/A
+Nigel      2      S Pass                   M       $10,360.46  $0         N/A
+Mark                                       M       $3,538.51   $0         N/A
+Matthew    2      S Pass                   M       $11,146.47  $0         N/A
+Alex                                       M       $6,263.45   $4,000     Security bond insurance
+Adam       2      S Pass                   M       $3,200      $3,200     Security bond insurance
+Sam                                        M       $1,038      $1,038     Security bond insurance
+Joe        2      S Pass                   M       $2,200      $2,200     Security bond insurance
+
+           2      S Pass
+
+           2      WP
+
+           2      S-Pass
+
+           3      WP
+
+           3      WP
+
+           3      WP
+
+           3      WP
+
+Sweet victory, Bitter outcome, April 2026                                                          Page 14 of 14
+

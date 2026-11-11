@@ -1,0 +1,1263 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+<script defer src="data:text/javascript;base64,CnZhciBnZm9ybTtnZm9ybXx8KGRvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoImdmb3JtX21haW5fc2NyaXB0c19sb2FkZWQiLGZ1bmN0aW9uKCl7Z2Zvcm0uc2NyaXB0c0xvYWRlZD0hMH0pLGRvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoImdmb3JtL3RoZW1lL3NjcmlwdHNfbG9hZGVkIixmdW5jdGlvbigpe2dmb3JtLnRoZW1lU2NyaXB0c0xvYWRlZD0hMH0pLHdpbmRvdy5hZGRFdmVudExpc3RlbmVyKCJET01Db250ZW50TG9hZGVkIixmdW5jdGlvbigpe2dmb3JtLmRvbUxvYWRlZD0hMH0pLGdmb3JtPXtkb21Mb2FkZWQ6ITEsc2NyaXB0c0xvYWRlZDohMSx0aGVtZVNjcmlwdHNMb2FkZWQ6ITEsaXNGb3JtRWRpdG9yOigpPT4iZnVuY3Rpb24iPT10eXBlb2YgSW5pdGlhbGl6ZUVkaXRvcixjYWxsSWZMb2FkZWQ6ZnVuY3Rpb24obyl7cmV0dXJuISghZ2Zvcm0uZG9tTG9hZGVkfHwhZ2Zvcm0uc2NyaXB0c0xvYWRlZHx8IWdmb3JtLnRoZW1lU2NyaXB0c0xvYWRlZCYmIWdmb3JtLmlzRm9ybUVkaXRvcigpfHwoZ2Zvcm0uaXNGb3JtRWRpdG9yKCkmJmNvbnNvbGUud2FybigiVGhlIHVzZSBvZiBnZm9ybS5pbml0aWFsaXplT25Mb2FkZWQoKSBpcyBkZXByZWNhdGVkIGluIHRoZSBmb3JtIGVkaXRvciBjb250ZXh0IGFuZCB3aWxsIGJlIHJlbW92ZWQgaW4gR3Jhdml0eSBGb3JtcyAzLjEuIiksbygpLDApKX0saW5pdGlhbGl6ZU9uTG9hZGVkOmZ1bmN0aW9uKG8pe2dmb3JtLmNhbGxJZkxvYWRlZChvKXx8KGRvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoImdmb3JtX21haW5fc2NyaXB0c19sb2FkZWQiLCgpPT57Z2Zvcm0uc2NyaXB0c0xvYWRlZD0hMCxnZm9ybS5jYWxsSWZMb2FkZWQobyl9KSxkb2N1bWVudC5hZGRFdmVudExpc3RlbmVyKCJnZm9ybS90aGVtZS9zY3JpcHRzX2xvYWRlZCIsKCk9PntnZm9ybS50aGVtZVNjcmlwdHNMb2FkZWQ9ITAsZ2Zvcm0uY2FsbElmTG9hZGVkKG8pfSksd2luZG93LmFkZEV2ZW50TGlzdGVuZXIoIkRPTUNvbnRlbnRMb2FkZWQiLCgpPT57Z2Zvcm0uZG9tTG9hZGVkPSEwLGdmb3JtLmNhbGxJZkxvYWRlZChvKX0pKX0saG9va3M6e2FjdGlvbjp7fSxmaWx0ZXI6e319LGFkZEFjdGlvbjpmdW5jdGlvbihvLHIsZSx0KXtnZm9ybS5hZGRIb29rKCJhY3Rpb24iLG8scixlLHQpfSxhZGRGaWx0ZXI6ZnVuY3Rpb24obyxyLGUsdCl7Z2Zvcm0uYWRkSG9vaygiZmlsdGVyIixvLHIsZSx0KX0sZG9BY3Rpb246ZnVuY3Rpb24obyl7Z2Zvcm0uZG9Ib29rKCJhY3Rpb24iLG8sYXJndW1lbnRzKX0sYXBwbHlGaWx0ZXJzOmZ1bmN0aW9uKG8pe3JldHVybiBnZm9ybS5kb0hvb2soImZpbHRlciIsbyxhcmd1bWVudHMpfSxyZW1vdmVBY3Rpb246ZnVuY3Rpb24obyxyKXtnZm9ybS5yZW1vdmVIb29rKCJhY3Rpb24iLG8scil9LHJlbW92ZUZpbHRlcjpmdW5jdGlvbihvLHIsZSl7Z2Zvcm0ucmVtb3ZlSG9vaygiZmlsdGVyIixvLHIsZSl9LGFkZEhvb2s6ZnVuY3Rpb24obyxyLGUsdCxuKXtudWxsPT1nZm9ybS5ob29rc1tvXVtyXSYmKGdmb3JtLmhvb2tzW29dW3JdPVtdKTt2YXIgZD1nZm9ybS5ob29rc1tvXVtyXTtudWxsPT1uJiYobj1yKyJfIitkLmxlbmd0aCksZ2Zvcm0uaG9va3Nbb11bcl0ucHVzaCh7dGFnOm4sY2FsbGFibGU6ZSxwcmlvcml0eTp0PW51bGw9PXQ/MTA6dH0pfSxkb0hvb2s6ZnVuY3Rpb24ocixvLGUpe3ZhciB0O2lmKGU9QXJyYXkucHJvdG90eXBlLnNsaWNlLmNhbGwoZSwxKSxudWxsIT1nZm9ybS5ob29rc1tyXVtvXSYmKChvPWdmb3JtLmhvb2tzW3JdW29dKS5zb3J0KGZ1bmN0aW9uKG8scil7cmV0dXJuIG8ucHJpb3JpdHktci5wcmlvcml0eX0pLG8uZm9yRWFjaChmdW5jdGlvbihvKXsiZnVuY3Rpb24iIT10eXBlb2YodD1vLmNhbGxhYmxlKSYmKHQ9d2luZG93W3RdKSwiYWN0aW9uIj09cj90LmFwcGx5KG51bGwsZSk6ZVswXT10LmFwcGx5KG51bGwsZSl9KSksImZpbHRlciI9PXIpcmV0dXJuIGVbMF19LHJlbW92ZUhvb2s6ZnVuY3Rpb24obyxyLHQsbil7dmFyIGU7bnVsbCE9Z2Zvcm0uaG9va3Nbb11bcl0mJihlPShlPWdmb3JtLmhvb2tzW29dW3JdKS5maWx0ZXIoZnVuY3Rpb24obyxyLGUpe3JldHVybiEhKG51bGwhPW4mJm4hPW8udGFnfHxudWxsIT10JiZ0IT1vLnByaW9yaXR5KX0pLGdmb3JtLmhvb2tzW29dW3JdPWUpfX0pOwo="></script>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script>(function(h,o){h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};h._hjSettings={hjid:6453197,hjsv:6};var ev=['pointerdown','keydown','touchstart','scroll','mousemove'];function go(){ev.forEach(function(e){removeEventListener(e,go,{passive:true})});var r=o.createElement('script');r.async=1;r.src='https://static.hotjar.com/c/hotjar-'+h._hjSettings.hjid+'.js?sv='+h._hjSettings.hjsv;o.head.appendChild(r)}ev.forEach(function(e){addEventListener(e,go,{passive:true})})})(window,document);</script>
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<style id="rmg-lcp-css">.rmg-page-banner .rmg-slides:not(.slick-initialized){display:block}.rmg-page-banner .rmg-slides:not(.slick-initialized)>.rmg-slide~.rmg-slide{display:none}.fl-row-content-wrap:has(>picture>.rmg-banner-lcp){position:relative;background-image:none!important}.fl-row-content-wrap:has(>picture>.rmg-banner-lcp)>.fl-row-content{position:relative;z-index:1}</style>
+	
+	<!-- This site is optimized with the Yoast SEO Premium plugin v28.5 (Yoast SEO v28.8) - https://yoast.com/product/yoast-seo-premium-wordpress/ -->
+	<title>International Patient Services &#187; Raffles International Patients Centre</title><link rel="preload" href="https://www.rafflesmedicalgroup.com/wp-content/uploads/2023/05/raffles-medical-group-logo-2023.svg" as="image" fetchpriority="high"><link rel="preload" href="https://www.rafflesmedicalgroup.com/wp-content/uploads/2025/05/raffles-hospital-international-patient-centre.jpg" as="image" imagesrcset="https://www.rafflesmedicalgroup.com/wp-content/uploads/2025/05/raffles-hospital-international-patient-centre.jpg 1920w, https://www.rafflesmedicalgroup.com/wp-content/uploads/2025/05/raffles-hospital-international-patient-centre-720x405.jpg 720w, https://www.rafflesmedicalgroup.com/wp-content/uploads/2025/05/raffles-hospital-international-patient-centre-1280x720.jpg 1280w, https://www.rafflesmedicalgroup.com/wp-content/uploads/2025/05/raffles-hospital-international-patient-centre-768x432.jpg 768w, https://www.rafflesmedicalgroup.com/wp-content/uploads/2025/05/raffles-hospital-international-patient-centre-50x28.jpg 50w, https://www.rafflesmedicalgroup.com/wp-content/uploads/2025/05/raffles-hospital-international-patient-centre-1536x864.jpg 1536w, https://www.rafflesmedicalgroup.com/wp-content/uploads/2025/05/raffles-hospital-international-patient-centre-960x540.jpg 960w, https://www.rafflesmedicalgroup.com/wp-content/uploads/2025/05/raffles-hospital-international-patient-centre-640x360.jpg 640w, https://www.rafflesmedicalgroup.com/wp-content/uploads/2025/05/raffles-hospital-international-patient-centre-600x338.jpg 600w" imagesizes="100vw" fetchpriority="high"><link rel="preload" href="https://www.rafflesmedicalgroup.com/wp-content/cache/perfmatters/www.rafflesmedicalgroup.com/css/page-12486.used.css?ver=1793255569" as="style" /><link rel="stylesheet" id="perfmatters-used-css" href="https://www.rafflesmedicalgroup.com/wp-content/cache/perfmatters/www.rafflesmedicalgroup.com/css/page-12486.used.css?ver=1793255569" media="all" />
+	<meta name="description" content="Raffles IPC provides personalised care for international patients and tends to all non-medical needs during your stay." />
+	<link rel="canonical" href="https://www.rafflesmedicalgroup.com/services/hospital/international-patients/international-patient-services/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="International Patient Services" />
+	<meta property="og:description" content="Raffles IPC provides personalised care for international patients and tends to all non-medical needs during your stay." />
+	<meta property="og:url" content="https://www.rafflesmedicalgroup.com/services/hospital/international-patients/international-patient-services/" />
+	<meta property="og:site_name" content="Raffles Medical Group" />
+	<meta property="article:publisher" content="https://www.facebook.com/RafflesMedGrp" />
+	<meta property="article:modified_time" content="2025-05-08T09:32:15+00:00" />
+	<meta property="og:image" content="https://www.rafflesmedicalgroup.com/wp-content/uploads/2025/05/raffles-hospital-international-patient-centre.jpg" />
+	<meta property="og:image:width" content="1920" />
+	<meta property="og:image:height" content="1080" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@RafflesMedGrp" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="2 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/www.rafflesmedicalgroup.com\/services\/hospital\/international-patients\/international-patient-services\/","url":"https:\/\/www.rafflesmedicalgroup.com\/services\/hospital\/international-patients\/international-patient-services\/","name":"International Patient Services &#187; Raffles International Patients Centre","isPartOf":{"@id":"https:\/\/www.rafflesmedicalgroup.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/www.rafflesmedicalgroup.com\/services\/hospital\/international-patients\/international-patient-services\/#primaryimage"},"image":{"@id":"https:\/\/www.rafflesmedicalgroup.com\/services\/hospital\/international-patients\/international-patient-services\/#primaryimage"},"thumbnailUrl":"https:\/\/www.rafflesmedicalgroup.com\/wp-content\/uploads\/2025\/05\/raffles-hospital-international-patient-centre.jpg","datePublished":"2020-09-08T12:44:08+00:00","dateModified":"2025-05-08T09:32:15+00:00","description":"Raffles IPC provides personalised care for international patients and tends to all non-medical needs during your stay.","breadcrumb":{"@id":"https:\/\/www.rafflesmedicalgroup.com\/services\/hospital\/international-patients\/international-patient-services\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/www.rafflesmedicalgroup.com\/services\/hospital\/international-patients\/international-patient-services\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/www.rafflesmedicalgroup.com\/services\/hospital\/international-patients\/international-patient-services\/#primaryimage","url":"https:\/\/www.rafflesmedicalgroup.com\/wp-content\/uploads\/2025\/05\/raffles-hospital-international-patient-centre.jpg","contentUrl":"https:\/\/www.rafflesmedicalgroup.com\/wp-content\/uploads\/2025\/05\/raffles-hospital-international-patient-centre.jpg","width":1920,"height":1080,"caption":"raffles hospital international patient centre"},{"@type":"BreadcrumbList","@id":"https:\/\/www.rafflesmedicalgroup.com\/services\/hospital\/international-patients\/international-patient-services\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Raffles Medical Group","item":"https:\/\/www.rafflesmedicalgroup.com\/"},{"@type":"ListItem","position":2,"name":"Services","item":"https:\/\/www.rafflesmedicalgroup.com\/services\/"},{"@type":"ListItem","position":3,"name":"Hospital","item":"https:\/\/www.rafflesmedicalgroup.com\/services\/hospital\/"},{"@type":"ListItem","position":4,"name":"International Patients","item":"https:\/\/www.rafflesmedicalgroup.com\/services\/hospital\/international-patients\/"},{"@type":"ListItem","position":5,"name":"International Patient Services"}]},{"@type":"WebSite","@id":"https:\/\/www.rafflesmedicalgroup.com\/#website","url":"https:\/\/www.rafflesmedicalgroup.com\/","name":"Raffles Medical Group","description":"Singapore’s largest homegrown private healthcare provider.","publisher":{"@id":"https:\/\/www.rafflesmedicalgroup.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.rafflesmedicalgroup.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/www.rafflesmedicalgroup.com\/#organization","name":"Raffles Medical Group","url":"https:\/\/www.rafflesmedicalgroup.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/www.rafflesmedicalgroup.com\/#\/schema\/logo\/image\/","url":"https:\/\/www.rafflesmedicalgroup.com\/wp-content\/uploads\/2019\/12\/raffles-medical-group-logo-2x.png","contentUrl":"https:\/\/www.rafflesmedicalgroup.com\/wp-content\/uploads\/2019\/12\/raffles-medical-group-logo-2x.png","width":600,"height":61,"caption":"Raffles Medical Group"},"image":{"@id":"https:\/\/www.rafflesmedicalgroup.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.facebook.com\/RafflesMedGrp","https:\/\/x.com\/RafflesMedGrp","http:\/\/instagram.com\/RafflesMedGrp","https:\/\/sg.linkedin.com\/company\/raffles-medical-group","https:\/\/www.youtube.com\/user\/RafflesHospital"]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='preconnect' href='//www.googletagmanager.com' >
+<link rel='preconnect' href='//rafflessg.api.useinsider.com' >
+<link rel='preconnect' href='//www.google-analytics.com' >
+<link rel='preconnect' href='//www.gstatic.com' >
+<link rel='preconnect' href='//use.fontawesome.com' >
+<link rel='preconnect' href='//unpkg.com' >
+<link rel='preconnect' href='//script.crazyegg.com' >
+<link rel='dns-prefetch' href='//use.fontawesome.com'>
+<link rel='dns-prefetch' href='//rafflessg.api.useinsider.com'>
+<link rel='dns-prefetch' href='//www.google-analytics.com'>
+<link rel='dns-prefetch' href='//www.googletagmanager.com'>
+<link rel='dns-prefetch' href='//www.gstatic.com'>
+<link rel='dns-prefetch' href='//unpkg.com'>
+<link rel='dns-prefetch' href='//script.crazyegg.com'>
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='preconnect' href='//www.google-analytics.com' />
+<script defer src="data:text/javascript;base64,ZnVuY3Rpb24gY3BMb2FkQ1NTKGUsdCxuKXsidXNlIHN0cmljdCI7dmFyIGk9d2luZG93LmRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoImxpbmsiKSxvPXR8fHdpbmRvdy5kb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgic2NyaXB0IilbMF07cmV0dXJuIGkucmVsPSJzdHlsZXNoZWV0IixpLmhyZWY9ZSxpLm1lZGlhPSJvbmx5IHgiLG8ucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoaSxvKSxzZXRUaW1lb3V0KGZ1bmN0aW9uKCl7aS5tZWRpYT1ufHwiYWxsIn0pLGl9"></script><style>.cp-popup-container .cpro-overlay,.cp-popup-container .cp-popup-wrapper{opacity:0;visibility:hidden;display:none}</style>
+<link rel="stylesheet" id="font-awesome-official-css" media="all" integrity="sha384-twcuYPV86B3vvpwNhWJuaLdUSLF9+ttgM2A6M870UYXrOsxKfER2MKox5cirApyA" crossorigin="anonymous" data-pmdelayedstyle="https://www.rafflesmedicalgroup.com/wp-content/plugins/rmg-performance/vendor/fontawesome/css/all.css">
+<link rel="stylesheet" id="font-awesome-official-v4shim-css" media="all" integrity="sha384-RreHPODFsMyzCpG+dKnwxOSjmjkuPWWdYP8sLpBRoSd8qPNJwaxKGUdxhQOKwUc7" crossorigin="anonymous" data-pmdelayedstyle="https://www.rafflesmedicalgroup.com/wp-content/plugins/rmg-performance/vendor/fontawesome/css/v4-shims.css">
+<link rel='stylesheet' id='fl-builder-layout-12486-css' href='https://www.rafflesmedicalgroup.com/wp-content/uploads/bb-plugin/cache/12486-layout.css?ver=d3cdf8cf959571346d6860262cd0fe3a' media='all' />
+<script defer src="data:text/javascript;base64,ZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcignRE9NQ29udGVudExvYWRlZCcsIGZ1bmN0aW9uKGV2ZW50KSB7ICBpZiggdHlwZW9mIGNwTG9hZENTUyAhPT0gJ3VuZGVmaW5lZCcgKSB7IGNwTG9hZENTUygnaHR0cHM6Ly93d3cucmFmZmxlc21lZGljYWxncm91cC5jb20vd3AtY29udGVudC9wbHVnaW5zL2NvbnZlcnRwcm8vYXNzZXRzL21vZHVsZXMvY3NzL2NwLXBvcHVwLm1pbi5jc3M/dmVyPTEuOC4xMCcsIDAsICdhbGwnKTsgfSB9KTsg"></script>
+<link rel="stylesheet" id="ultimate-icons-css" media="all" data-pmdelayedstyle="https://www.rafflesmedicalgroup.com/wp-content/plugins/rmg-performance/vendor/ultimate-icons/style.css">
+<link rel="stylesheet" id="fl-builder-layout-bundle-dc8b727a7c8eceb31cafe50e1319fc8c-css" href="https://www.rafflesmedicalgroup.com/wp-content/cache/perfmatters/www.rafflesmedicalgroup.com/minify/7cb80e84bb9e.dc8b727a7c8eceb31cafe50e1319fc8c-layout-bundle.min.css?ver=2.11.2.1-1.6.1" media="all">
+<link rel="stylesheet" id="search-filter-plugin-styles-css" media="all" data-pmdelayedstyle="https://www.rafflesmedicalgroup.com/wp-content/plugins/search-filter-pro/public/assets/css/search-filter.min.css?ver=2.5.20">
+<link rel="stylesheet" id="parent-style-css" media="all" data-pmdelayedstyle="https://www.rafflesmedicalgroup.com/wp-content/cache/perfmatters/www.rafflesmedicalgroup.com/minify/dc1352b1cb6a.style.min.css?ver=7.1.4">
+<link rel="stylesheet" id="rmg-hkb-style-css" media="all" data-pmdelayedstyle="https://www.rafflesmedicalgroup.com/wp-content/themes/cb-rafflesmedical/css/rmg-hkb.css?ver=7.1.4">
+<link rel="stylesheet" id="hkb-style-css" media="all" data-pmdelayedstyle="https://www.rafflesmedicalgroup.com/wp-content/plugins/ht-knowledge-base/css/hkb-style.css?ver=4.8.0">
+<link rel="stylesheet" id="cb-base-css" media="all" data-pmdelayedstyle="https://www.rafflesmedicalgroup.com/wp-content/themes/cb-rafflesmedical/style.css?ver=1.0.2">
+<link rel="stylesheet" id="tablepress-default-css" media="all" data-pmdelayedstyle="https://www.rafflesmedicalgroup.com/wp-content/tablepress-combined.min.css?ver=106">
+<link rel="stylesheet" id="algolia-autocomplete-css" media="all" data-pmdelayedstyle="https://www.rafflesmedicalgroup.com/wp-content/cache/perfmatters/www.rafflesmedicalgroup.com/minify/bbf80106d65a.algolia-autocomplete.min.css?ver=3.0.1">
+<link rel="stylesheet" id="searchwp-forms-css" media="all" data-pmdelayedstyle="https://www.rafflesmedicalgroup.com/wp-content/plugins/searchwp/assets/css/frontend/search-forms.min.css?ver=4.6.1.1">
+<link rel='stylesheet' id='ubermenu-css' href='https://www.rafflesmedicalgroup.com/wp-content/plugins/ubermenu/pro/assets/css/ubermenu.min.css?ver=3.8.5' media='all' />
+<link rel="stylesheet" id="ubermenu-minimal-css" media="all" data-pmdelayedstyle="https://www.rafflesmedicalgroup.com/wp-content/cache/perfmatters/www.rafflesmedicalgroup.com/minify/4558b11507ff.minimal.min.css?ver=7.1.4">
+<link rel="stylesheet" id="ubermenu-grey-white-css" media="all" data-pmdelayedstyle="https://www.rafflesmedicalgroup.com/wp-content/cache/perfmatters/www.rafflesmedicalgroup.com/minify/a2040d1a4422.blackwhite.min.css?ver=7.1.4">
+<link rel="stylesheet" id="ubermenu-black-white-2-css" media="all" data-pmdelayedstyle="https://www.rafflesmedicalgroup.com/wp-content/cache/perfmatters/www.rafflesmedicalgroup.com/minify/00d9d8f1dd8e.blackwhite2.min.css?ver=7.1.4">
+<link rel='stylesheet' id='ubermenu-custom-generated-css' href='https://www.rafflesmedicalgroup.com/wp-content/uploads/ubermenu/custom-8ee3c3cc46f559038826cc1d1d71dc12.css' media='all' />
+<link rel="stylesheet" id="rmg-style-css" media="all" data-pmdelayedstyle="https://www.rafflesmedicalgroup.com/wp-content/themes/cb-rafflesmedical/style.css?ver=1787663568">
+<link rel='stylesheet' id='rmg-slick-css' href='https://www.rafflesmedicalgroup.com/wp-content/themes/cb-rafflesmedical/css/slick.min.css?ver=7.1.4' media='all' />
+<link rel="stylesheet" id="rmg-slick-theme-css" media="all" data-pmdelayedstyle="https://www.rafflesmedicalgroup.com/wp-content/themes/cb-rafflesmedical/css/slick-theme.min.css?ver=7.1.4">
+<link rel="stylesheet" id="rmg-fa-subset-css" media="all" data-pmdelayedstyle="https://www.rafflesmedicalgroup.com/wp-content/plugins/rmg-performance/vendor/fontawesome/css/subset.css?ver=1">
+<script id="jquery-core-js" src="https://www.rafflesmedicalgroup.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script data-wp-strategy="defer" defer id="stop-user-enumeration-js" src="https://www.rafflesmedicalgroup.com/wp-content/cache/perfmatters/www.rafflesmedicalgroup.com/minify/6857ed16327f.frontend.min.js?ver=1.7.10"></script>
+<script id="search-filter-pro-bb-js-extra" defer src="data:text/javascript;base64,CnZhciBTRlZDX0RBVEEgPSB7ImFqYXhfdXJsIjoiaHR0cHM6Ly93d3cucmFmZmxlc21lZGljYWxncm91cC5jb20vd3AtYWRtaW4vYWRtaW4tYWpheC5waHAiLCJob21lX3VybCI6Imh0dHBzOi8vd3d3LnJhZmZsZXNtZWRpY2FsZ3JvdXAuY29tLyJ9OwovLyMgc291cmNlVVJMPXNlYXJjaC1maWx0ZXItcHJvLWJiLWpzLWV4dHJhCg=="></script>
+<script id="search-filter-pro-bb-js" src="https://www.rafflesmedicalgroup.com/wp-content/cache/perfmatters/www.rafflesmedicalgroup.com/minify/b9520f319455.frontend.min.js?ver=1.4.2"></script>
+<script data-wp-strategy="defer" defer id="rmg-waypoints-sticky-js" src="https://www.rafflesmedicalgroup.com/wp-content/themes/cb-rafflesmedical/js/sticky.min.js?ver=1787663568"></script>
+<script data-wp-strategy="defer" defer id="rmg-slick-carousel-js" src="https://www.rafflesmedicalgroup.com/wp-content/themes/cb-rafflesmedical/js/slick.min.js?ver=1787663568"></script>
+<meta name="generator" content="Heroic FAQs v1.3.0" />
+<!-- HKB CSS Variables --><style>:root {--hkb-main-container-width: 1200px;--hkb-link-color: #008066;--hkb-link-color-hover: #008066;--hkb-header-style-bg: #eaf4f0;--hkb-header-style-graddir: 90deg;--hkb-header-style-grad1: #2358a1;--hkb-header-style-grad2: #2358a1;--hkb-header-text-color: #38383a;}</style><meta name="generator" content="Heroic Knowledge Base v4.8.0" />
+<!-- Stream WordPress user activity plugin v4.4.0 -->
+<!-- site-navigation-element Schema optimized by Schema Pro --><script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Services","url":"https://www.rafflesmedicalgroup.com/services/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"[Row]","url":"#ubermenu-row"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"[Column]","url":"#ubermenu-column"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Raffles24 Acute \u0026#038; Critical Care","url":"https://www.rafflesmedicalgroup.com/services/raffles24-acute-and-critical-care/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Hospital","url":"https://www.rafflesmedicalgroup.com/services/hospital/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Specialist Centres","url":"https://www.rafflesmedicalgroup.com/services/specialist-centres/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Family Medicine","url":"https://www.rafflesmedicalgroup.com/services/family-medicine/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Raffles Dental","url":"https://www.rafflesmedicalgroup.com/services/dental/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Chinese Medicine","url":"https://www.rafflesmedicalgroup.com/category/health-articles/chinese-medicine/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Health Screening","url":"https://www.rafflesmedicalgroup.com/services/health-screening/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Insurance","url":"https://www.raffleshealthinsurance.com/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Raffles HealthyLongevity","url":"https://www.rafflesmedicalgroup.com/raffles-healthy-longevity/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Raffles Health eStore","url":"https://www.raffleshealth.com/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Clinical Trials","url":"https://www.rafflesmedicalgroup.com/services/clinical-trials/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Government Schemes","url":"https://www.rafflesmedicalgroup.com/government-schemes/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Acute and Critical Care Collaboration (ACC)","url":"https://www.rafflesmedicalgroup.com/services/hospital/patients-visitors/acute-and-critical-care-collaboration-acc/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Baby Bonus","url":"https://www.rafflesmedicalgroup.com/government-schemes/baby-bonus/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"CHAS and Pioneer Generation Healthcare Assistance","url":"https://www.rafflesmedicalgroup.com/government-schemes/chas-pioneer-generation/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Government Schemes and Subsidies","url":"https://www.rafflesmedicalgroup.com/government-schemes/overview/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Healthier SG","url":"https://www.rafflesmedicalgroup.com/services/family-medicine/healthcare-assistance/healthier-sg/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Merdeka Generation Healthcare Assistance","url":"https://www.rafflesmedicalgroup.com/government-schemes/merdeka-generation/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Corporate Healthcare","url":"https://www.rafflesmedicalgroup.com/corporate-employee-health-benefits/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Training","url":"https://www.rafflesmedicalgroup.com/healthcare-institute/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"International","url":"https://www.rafflesmedicalgroup.com/international/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Medical Clinics \u0026#038; Services","url":"https://www.rafflesmedicalgroup.com/international/medical-clinics-services/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"China","url":"https://www.rafflesmedicalchina.com/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Beijing","url":"https://www.rafflesmedicalgroup.com/?page_id=6236"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Chongqing","url":"https://www.rafflesmedicalgroup.com/?page_id=9721"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Hong Kong","url":"https://www.rafflesmedicalgroup.com/international/medical-clinics-services/hong-kong/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Nanjing","url":"https://www.rafflesmedicalgroup.com/?page_id=9750"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Shanghai","url":"https://www.rafflesmedicalgroup.com/?page_id=9309"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Japan","url":"#"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Fukuoka (Hakata)","url":"https://www.raffles-hakata.com"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Osaka","url":"http://www.raffles-osaka.com/about/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Cambodia","url":"#"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Phnom Penh","url":"https://rafflesmedical.com.kh/en/our-clinics/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Vietnam","url":"#"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Hanoi","url":"https://rafflesmedical.vn/ja/raffles-medical-hanoi/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Ho Chi Minh City","url":"https://rafflesmedical.vn/en/raffles-medical-ho-chi-minh-city/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Vung Tau","url":"https://rafflesmedical.vn/en/raffles-medical-vung-tau/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Representative Offices","url":"https://www.rafflesmedicalgroup.com/services/hospital/international-patients/representative-offices/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Health Resources","url":"#"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Health Library","url":"#"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Health Articles","url":"https://www.rafflesmedicalgroup.com/health-resources/health-articles/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Health FAQ","url":"https://www.rafflesmedicalgroup.com/health-resources/health-articles/?_sft_category=health-faq"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Lifestyle Interview","url":"https://www.rafflesmedicalgroup.com/health-resources/health-articles/?_sft_category=lifestyle-interview"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"News Media","url":"https://www.rafflesmedicalgroup.com/health-resources/health-articles/?_sft_category=publications"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Videos","url":"https://www.rafflesmedicalgroup.com/health-resources/health-articles/?_sft_category=videos"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Health News","url":"https://www.rafflesmedicalgroup.com/health-resources/health-news/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Topics","url":"#"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Cancer","url":"https://www.rafflesmedicalgroup.com/health-resources/health-articles/?_sft_category=cancer"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Children","url":"https://www.rafflesmedicalgroup.com/health-resources/health-articles/?_sft_category=children"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Counselling / Mental Health","url":"https://www.rafflesmedicalgroup.com/category/health-articles/counselling-mental-health/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Covid-19","url":"https://www.rafflesmedicalgroup.com/category/health-articles/covid-19/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Dialysis","url":"https://www.rafflesmedicalgroup.com/category/health-articles/dialysis/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Dental","url":"https://www.rafflesmedicalgroup.com/category/health-articles/dental/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Diabetes \u0026amp; Endocrine","url":"https://www.rafflesmedicalgroup.com/category/health-articles/diabetes-endocrine/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":" ","url":"#"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Ear, Nose, Throat","url":"https://www.rafflesmedicalgroup.com/category/health-articles/ear-nose-throat/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Eye","url":"https://www.rafflesmedicalgroup.com/category/health-articles/eye/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Fertility","url":"https://www.rafflesmedicalgroup.com/category/health-articles/fertility/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Heart / Cardiology","url":"https://www.rafflesmedicalgroup.com/category/health-articles/heart-cardiology/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Internal Medicine","url":"https://www.rafflesmedicalgroup.com/category/health-articles/internal-medicine/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Neuroscience","url":"https://www.rafflesmedicalgroup.com/category/health-articles/neuroscience/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Nuclear Medicine","url":"https://www.rafflesmedicalgroup.com/category/health-articles/nuclear-medicine/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Orthopaedic","url":"https://www.rafflesmedicalgroup.com/category/health-articles/orthopaedic/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Pain Management","url":"https://www.rafflesmedicalgroup.com/category/health-articles/pain-management/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Rehabilitation","url":"https://www.rafflesmedicalgroup.com/category/health-articles/rehabilitation/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Skin \u0026amp; Aesthetics","url":"https://www.rafflesmedicalgroup.com/category/health-articles/skin-aesthetics/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Surgery","url":"https://www.rafflesmedicalgroup.com/category/health-articles/surgery/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Urology","url":"https://www.rafflesmedicalgroup.com/category/health-articles/urology/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Wellness","url":"https://www.rafflesmedicalgroup.com/category/health-articles/wellness/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Women","url":"https://www.rafflesmedicalgroup.com/category/health-articles/women/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Others","url":"https://www.rafflesmedicalgroup.com/category/health-articles/others/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Our Group","url":"https://www.rafflesmedicalgroup.com/our-group/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"About Us","url":"https://www.rafflesmedicalgroup.com/our-group/about-us/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Our Heritage","url":"https://www.rafflesmedicalgroup.com/our-group/about-us/our-heritage/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Vision \u0026#038; Philosophy","url":"https://www.rafflesmedicalgroup.com/our-group/about-us/vision-philosophy/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Corporate Fact Sheet","url":"https://www.rafflesmedicalgroup.com/our-group/about-us/corporate-fact-sheet/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Milestones","url":"https://www.rafflesmedicalgroup.com/our-group/about-us/milestones/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Awards","url":"https://www.rafflesmedicalgroup.com/our-group/about-us/awards/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Management","url":"https://www.rafflesmedicalgroup.com/our-group/about-us/management/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Board of Directors","url":"https://www.rafflesmedicalgroup.com/our-group/about-us/management/board-of-directors/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Senior Management","url":"https://www.rafflesmedicalgroup.com/our-group/about-us/management/senior-management/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Senior Physician Leaders","url":"https://www.rafflesmedicalgroup.com/our-group/about-us/management/senior-physician-leaders/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"News Room","url":"https://www.rafflesmedicalgroup.com/our-group/news-room/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Press Releases","url":"https://www.rafflesmedicalgroup.com/our-group/news-room/press-releases/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Company News","url":"https://www.rafflesmedicalgroup.com/our-group/news-room/company-news/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Media Contact","url":"https://www.rafflesmedicalgroup.com/our-group/news-room/media-contact/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Investor Relations","url":"https://www.rafflesmedicalgroup.com/investor-relations/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Careers at Raffles","url":"https://www.rafflesmedicalgroup.com/careers-at-raffles/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Contact Us","url":"https://www.rafflesmedicalgroup.com/our-group/contact-us/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Frequently Asked Questions (FAQS)","url":"https://www.rafflesmedicalgroup.com/faqs/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"[custom]","url":"#ubermenu-custom_content"}]}</script><!-- / site-navigation-element Schema optimized by Schema Pro -->	<!-- Google Tag Manager -->
+	<script type="pmdelayedscript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-NNZRQGH');</script>
+	<!-- End Google Tag Manager -->
+		<style>
+			.algolia-search-highlight {
+				background-color: #fffbcc;
+				border-radius: 2px;
+				font-style: normal;
+			}
+		</style>
+					<style id="wpsp-style-frontend"></style>
+			<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<meta name="apple-mobile-web-app-title" content="RMG" />
+<link rel="manifest" href="/site.webmanifest" /><link rel="icon" href="https://www.rafflesmedicalgroup.com/wp-content/uploads/2025/03/cropped-favicon@2x-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.rafflesmedicalgroup.com/wp-content/uploads/2025/03/cropped-favicon@2x-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.rafflesmedicalgroup.com/wp-content/uploads/2025/03/cropped-favicon@2x-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.rafflesmedicalgroup.com/wp-content/uploads/2025/03/cropped-favicon@2x-270x270.png" />
+<style id="wp-custom-css">
+* {
+	outline: 0!important;
+}
+
+@media screen and (max-width: 425px) {
+  .rmg-search input[type=search] {
+    margin-top: 0px;
+	}
+}
+
+.rmg-clinics .fl-post-grid {
+	margin-right: 0;
+}
+
+.rmg-infobox-sidebar .rmg-contact::before {
+	background: url(https://www.rafflesmedicalgroup.com/wp-content/uploads/2024/09/telephone.png) no-repeat;
+}
+	
+.uabb-blog-posts  .uabb-post-wrapper > .uabb-blog-posts-shadow {
+	background: inherit;
+}
+	
+@view-transition { 
+    navigation: auto; 
+}
+
+::view-transition-old(root),
+::view-transition-new(root) {
+	animation-duration: 0.35s;
+}
+
+.gravity-theme.ui-datepicker .ui-datepicker-header select {
+	padding-right: 22px!important;
+}
+
+.page-id-9291 {
+	.uabb-gf-style {
+		padding-inline: 0;
+	}
+	
+	#gform_wrapper_92 {
+		.ginput_container_select {
+			select {
+				appearance: auto;
+			}
+
+			&:after {
+				display: none;
+			}
+		}
+	}
+}
+@media (max-width: 640px) {
+	.page-id-9291 {
+		#gform_wrapper_92 {
+			.gfield_label {
+				margin-bottom: 10px;
+			}
+	
+			.gfield .medium,
+			.ginput_container_date input {
+				width: 100%;
+			}
+		}
+		
+		.gravity-theme.ui-datepicker {
+				max-width: calc(100vw - 40px);
+		}
+	}
+}
+
+a {
+	text-align
+}
+
+#archives-2,
+#categories-2 {
+	display: none;
+}
+
+a[class*="rmg-bt"],
+.nav-extras li a {
+	text-decoration: none;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.status-service-queue.show, .status-average.show {
+    display: inline-flex;
+}
+
+.status-average span {
+	margin-left: 4px;
+}
+
+#hkb .widget a.text-white {
+	color: #fff;
+}
+
+.searchandfilter .sf-field-search input[type="text"],
+.fl-node-5efd917dcbfac .uabb-gf-style input[type=email] {
+	  width: 100%;
+    border: 1px solid #e6e6e6;
+    border-radius: 5px;
+}
+
+.section-home-enquiry .gform_wrapper.gravity-theme .gform_footer button,
+.footer-cta a.fl-button {
+	  display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+    padding: 16px 32px;
+    background-color: #008066;
+    border-radius: 5px;
+    font-size: 16px;
+    line-height: 1.2em !important;
+    color: white;
+	border: none;
+	transition: all 0.5s ease-in-out;
+}
+
+.footer-cta a.fl-button .fl-button-text {
+	color: white;
+}
+
+.section-home-enquiry .gform_wrapper.gravity-theme .gform_footer button:hover,
+.footer-cta a.fl-button:hover {
+	background-color: #444f4d;
+}
+</style>
+<style>body .perfmatters-lazy-css-bg:not([data-ll-status=entered]),body .perfmatters-lazy-css-bg:not([data-ll-status=entered]) *,body .perfmatters-lazy-css-bg:not([data-ll-status=entered])::before,body .perfmatters-lazy-css-bg:not([data-ll-status=entered])::after,body .perfmatters-lazy-css-bg:not([data-ll-status=entered]) *::before,body .perfmatters-lazy-css-bg:not([data-ll-status=entered]) *::after{background-image:none!important;will-change:transform;transition:opacity 0.025s ease-in,transform 0.025s ease-in!important;}</style><link rel="stylesheet" id="fl-builder-wp-editor-css" media="all" data-pmdelayedstyle="https://www.rafflesmedicalgroup.com/wp-content/plugins/bb-plugin/css/build/wp-editor.bundle.min.css?ver=2.11.2.1">
+<link rel='stylesheet' id='cp-google-fonts-34889-css' href='https://www.rafflesmedicalgroup.com/wp-content/cache/perfmatters/www.rafflesmedicalgroup.com/fonts/0d4101cc20fa.google-fonts.min.css' media='all' />
+<link rel='stylesheet' id='cp-google-fonts-203614-css' href='https://www.rafflesmedicalgroup.com/wp-content/cache/perfmatters/www.rafflesmedicalgroup.com/fonts/30877d407229.google-fonts.min.css' media='all' />
+
+</head>
+<body class="wp-singular page-template-default page page-id-12486 page-child parent-pageid-12484 wp-theme-cb-base wp-child-theme-cb-rafflesmedical fl-builder fl-builder-2-11-2-1 fl-themer-1-6-1 fl-no-js wp-schema-pro-2.12.4 cp_aff_false fl-theme-builder-footer fl-theme-builder-footer-footer fl-theme-builder-part fl-theme-builder-part-service-hospital-sub-header fl-theme-builder-header fl-theme-builder-header-header-services">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NNZRQGH"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+<div class="fl-page">
+<header class="fl-builder-content fl-builder-content-2816 fl-builder-global-templates-locked" data-post-id="2816" data-type="header" data-sticky="1" data-sticky-on="" data-sticky-breakpoint="medium" data-shrink="1" data-overlay="0" data-overlay-bg="transparent" data-shrink-image-height="50px" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader"><div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5de5f8b676524 fl-row-default-height fl-row-align-center" data-node="5de5f8b676524">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5de5f8b676527 fl-col-group-equal-height fl-col-group-align-center fl-col-group-custom-width" data-node="5de5f8b676527">
+			<div class="fl-col fl-node-5f055dee7aa6e fl-col-bg-color fl-col-small fl-col-small-custom-width d-none-print" data-node="5f055dee7aa6e">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-uabb-advanced-menu fl-node-5f055e354a11b" data-node="5f055e354a11b">
+	<div class="fl-module-content fl-node-content">
+				<div class="uabb-creative-menu-mobile-toggle-container"><div class="uabb-creative-menu-mobile-toggle hamburger" tabindex="0"><div class="uabb-svg-container"><svg title="uabb-menu-toggle" version="1.1" class="hamburger-menu" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" viewBox="0 0 50 50">
+<rect class="uabb-hamburger-menu-top" width="50" height="10"/>
+<rect class="uabb-hamburger-menu-middle" y="20" width="50" height="10"/>
+<rect class="uabb-hamburger-menu-bottom" y="40" width="50" height="10"/>
+</svg>
+</div></div></div>			<div class="uabb-creative-menu
+			 uabb-creative-menu-accordion-collapse			off-canvas">
+				<div class="uabb-clear"></div>
+				<div class="uabb-off-canvas-menu uabb-menu-left"> <div class="uabb-menu-close-btn">×</div>						<ul id="menu-primary-navigation-off-canvas" class="menu uabb-creative-menu-horizontal uabb-toggle-none"><li id="menu-item-7841" class="rmg-search menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a><span class="menu-item-text"><form aria-label="Search" method="get" role="search" action="https://www.rafflesmedicalgroup.com/" title="Type and press Enter to search.">
+	<input aria-label="Search" type="search" class="fl-search-input form-control" name="s" placeholder="Type your Search and press Enter…" />
+</form>
+</span></a></li>
+<li id="menu-item-2552" class="menu-item menu-item-type-post_type_archive menu-item-object-service menu-item-has-children uabb-has-submenu uabb-creative-menu uabb-cm-style" aria-haspopup="true"><div class="uabb-has-submenu-container"><a><span class="menu-item-text">Services<span class="uabb-menu-toggle"></span></span></a></div>
+<ul class="sub-menu">
+	<li id="menu-item-2555" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/services/raffles24-acute-and-critical-care/"><span class="menu-item-text">Raffles24 Acute &#038; Critical Care</span></a></li>
+	<li id="menu-item-5679" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/services/hospital/"><span class="menu-item-text">Hospital</span></a></li>
+	<li id="menu-item-2557" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/services/specialist-centres/"><span class="menu-item-text">Specialist Centres</span></a></li>
+	<li id="menu-item-2558" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/services/family-medicine/"><span class="menu-item-text">Family Medicine</span></a></li>
+	<li id="menu-item-2560" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/services/dental/"><span class="menu-item-text">Raffles Dental</span></a></li>
+	<li id="menu-item-2561" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/services/chinese-medicine/"><span class="menu-item-text">Chinese Medicine</span></a></li>
+	<li id="menu-item-6383" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/services/health-screening/"><span class="menu-item-text">Health Screening</span></a></li>
+	<li id="menu-item-201869" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/raffles-healthy-longevity/"><span class="menu-item-text">Raffles HealthyLongevity</span></a></li>
+	<li id="menu-item-2565" class="menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a target="_blank" rel="noopener" href="https://www.raffleshealth.com/"><span class="menu-item-text">Raffles Health eStore</span></a></li>
+	<li id="menu-item-2566" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/services/clinical-trials/"><span class="menu-item-text">Clinical Trials</span></a></li>
+</ul>
+</li>
+<li id="menu-item-189573" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children uabb-has-submenu uabb-creative-menu uabb-cm-style" aria-haspopup="true"><div class="uabb-has-submenu-container"><a href="#"><span class="menu-item-text">Government Schemes<span class="uabb-menu-toggle"></span></span></a></div>
+<ul class="sub-menu">
+	<li id="menu-item-189780" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/services/family-medicine/healthcare-assistance/healthier-sg/"><span class="menu-item-text">Healthier SG</span></a></li>
+	<li id="menu-item-2570" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/government-schemes/overview/"><span class="menu-item-text">Government Schemes and Subsidies</span></a></li>
+	<li id="menu-item-2571" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/government-schemes/chas-pioneer-generation/"><span class="menu-item-text">CHAS and Pioneer Generation Healthcare Assistance</span></a></li>
+	<li id="menu-item-2572" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/government-schemes/baby-bonus/"><span class="menu-item-text">Baby Bonus</span></a></li>
+</ul>
+</li>
+<li id="menu-item-198417" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/corporate-employee-health-benefits/"><span class="menu-item-text">Corporate Healthcare</span></a></li>
+<li id="menu-item-2580" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/healthcare-institute/"><span class="menu-item-text">Healthcare Institute</span></a></li>
+<li id="menu-item-103957" class="menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a target="_blank" rel="noopener" href="https://www.raffleshealthinsurance.com/"><span class="menu-item-text">Insurance</span></a></li>
+<li id="menu-item-9104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children uabb-has-submenu uabb-creative-menu uabb-cm-style" aria-haspopup="true"><div class="uabb-has-submenu-container"><a href="#"><span class="menu-item-text">International<span class="uabb-menu-toggle"></span></span></a></div>
+<ul class="sub-menu">
+	<li id="menu-item-2585" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/international/medical-clinics-services/"><span class="menu-item-text">Medical Clinics &#038; Services</span></a></li>
+	<li id="menu-item-2586" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/services/hospital/international-patients/representative-offices/"><span class="menu-item-text">Representative Offices</span></a></li>
+</ul>
+</li>
+<li id="menu-item-2587" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children uabb-has-submenu uabb-creative-menu uabb-cm-style" aria-haspopup="true"><div class="uabb-has-submenu-container"><a href="#"><span class="menu-item-text">Health Resources<span class="uabb-menu-toggle"></span></span></a></div>
+<ul class="sub-menu">
+	<li id="menu-item-17628" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/health-resources/health-articles/"><span class="menu-item-text">Health Library</span></a></li>
+	<li id="menu-item-17630" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/health-resources/health-news/"><span class="menu-item-text">Health News</span></a></li>
+	<li id="menu-item-172732" class="menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/health-resources/health-news/"><span class="menu-item-text">Health News</span></a></li>
+</ul>
+</li>
+<li id="menu-item-9105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children uabb-has-submenu uabb-creative-menu uabb-cm-style" aria-haspopup="true"><div class="uabb-has-submenu-container"><a href="#"><span class="menu-item-text">Our Group<span class="uabb-menu-toggle"></span></span></a></div>
+<ul class="sub-menu">
+	<li id="menu-item-9106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children uabb-has-submenu uabb-creative-menu uabb-cm-style" aria-haspopup="true"><div class="uabb-has-submenu-container"><a href="#"><span class="menu-item-text">About Us<span class="uabb-menu-toggle"></span></span></a></div>
+	<ul class="sub-menu">
+		<li id="menu-item-2599" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/our-group/about-us/our-heritage/"><span class="menu-item-text">Our Heritage</span></a></li>
+		<li id="menu-item-2600" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/our-group/about-us/vision-philosophy/"><span class="menu-item-text">Vision &#038; Philosophy</span></a></li>
+		<li id="menu-item-2601" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/our-group/about-us/corporate-fact-sheet/"><span class="menu-item-text">Corporate Fact Sheet</span></a></li>
+		<li id="menu-item-2602" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/our-group/about-us/milestones/"><span class="menu-item-text">Milestones</span></a></li>
+		<li id="menu-item-9107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children uabb-has-submenu uabb-creative-menu uabb-cm-style" aria-haspopup="true"><div class="uabb-has-submenu-container"><a href="#"><span class="menu-item-text">Management<span class="uabb-menu-toggle"></span></span></a></div>
+		<ul class="sub-menu">
+			<li id="menu-item-2604" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/our-group/about-us/management/board-of-directors/"><span class="menu-item-text">Board of Directors</span></a></li>
+			<li id="menu-item-2605" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/our-group/about-us/management/senior-management/"><span class="menu-item-text">Senior Management</span></a></li>
+			<li id="menu-item-2606" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/our-group/about-us/management/senior-physician-leaders/"><span class="menu-item-text">Senior Physician Leaders</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item-2607" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/our-group/about-us/awards/"><span class="menu-item-text">Awards</span></a></li>
+		<li id="menu-item-183539" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/investor-relations/results-and-reports/sustainability-reports/"><span class="menu-item-text">Sustainability Reports</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-2617" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/investor-relations/"><span class="menu-item-text">Investor Relations</span></a></li>
+	<li id="menu-item-2618" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/our-group/careers-at-raffles/"><span class="menu-item-text">Careers at Raffles</span></a></li>
+	<li id="menu-item-2619" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/our-group/contact-us/"><span class="menu-item-text">Contact Us</span></a></li>
+	<li id="menu-item-194574" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/faqs/"><span class="menu-item-text">Frequently Asked Questions (FAQS)</span></a></li>
+</ul>
+</li>
+<li id="menu-item-172733" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children uabb-has-submenu uabb-creative-menu uabb-cm-style" aria-haspopup="true"><div class="uabb-has-submenu-container"><a href="#"><span class="menu-item-text">News Room<span class="uabb-menu-toggle"></span></span></a></div>
+<ul class="sub-menu">
+	<li id="menu-item-2613" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/our-group/news-room/press-releases/"><span class="menu-item-text">Press Releases</span></a></li>
+	<li id="menu-item-2614" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/our-group/news-room/company-news/"><span class="menu-item-text">Company News</span></a></li>
+	<li id="menu-item-2615" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/our-group/news-room/media-contact/"><span class="menu-item-text">Media Contact</span></a></li>
+</ul>
+</li>
+</ul>				</div>
+			</div>
+				</div>
+</div>
+</div>
+</div>
+			<div id="raffles-medical-group-services-logo" class="fl-col fl-node-5de5f8b676528 fl-col-bg-color fl-col-small fl-col-small-custom-width" data-node="5de5f8b676528">
+	<div class="fl-col-content fl-node-content"><div  class="fl-module fl-module-html fl-html fl-node-zkj2n1odmblr" data-node="zkj2n1odmblr">
+	<a href="https://www.rafflesmedicalgroup.com/">
+	<img decoding="async" src="https://www.rafflesmedicalgroup.com/wp-content/uploads/2024/04/raffles-medical-group-singapore-logo.svg" alt="Raffles Medical Group celebrates 50 years of caring for patients, customers and communities" style="width: 75%;"/></a>
+<a href="https://www.rafflesmedicalgroup.com/r50">
+<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Raffles Medical Group 50th Anniversary Logo" style="width: 12%;" class="perfmatters-lazy" data-src="https://www.rafflesmedicalgroup.com/wp-content/uploads/2026/07/Raffles-Medical-Group-R50-Logo.svg" />
+</a></div>
+</div>
+</div>
+			<div class="fl-col fl-node-5de5f8b676529 fl-col-bg-color fl-col-small fl-col-small-custom-width" data-node="5de5f8b676529">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-html fl-node-5ecdf02fb06f6 fl-visible-desktop fl-visible-large fl-visible-medium nav-extras" data-node="5ecdf02fb06f6">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	<ul class="group">
+    <li><a href="#" class="button" data-toggle="modal" data-target="#rmg-book-appointment-form" data-backdrop="true">Book an Appointment</a>
+    </li>
+    <li><a href="/raffles-connect/" class="icon-connect">Download</a></li>
+    <li><a href="https://www.raffleshealth.com" class="icon-store" rel="noopener" target="_blank">eStore</a></li>
+    <li>
+        <a href="#" class="icon-phone">Contact</a>
+        <ul class="contact-sub-menu">
+            <li><a href="tel:+6563111111">(+65) 6311 1111</a></li>
+            <li><a href="#" data-toggle="modal" data-target="#rmg-send-enquiry-form" data-backdrop="true">Make an Enquiry</a></li>
+        </ul>
+    </li>
+</ul></div>
+	</div>
+</div>
+<div class="fl-module fl-module-html fl-node-5f3299c8496b1 fl-visible-mobile nav-extras rmg-mobile" data-node="5f3299c8496b1">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	<ul class="group">
+    <li><a href="tel:+6563111111" class="button icon-phone"></a></li>
+</ul></div>
+	</div>
+</div>
+<div class="fl-module fl-module-html fl-node-5ef74161d3610 rmg-reveal-in-bb-edit" data-node="5ef74161d3610">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	<!-- BS Modal: Book Appointment form-->
+<div id="rmg-book-appointment-form" class="modal fade" role="dialog" data-backdrop="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body"></div>
+        </div>
+    </div>
+</div>
+
+<!-- BS Modal: Send Enquiry form-->
+<div id="rmg-send-enquiry-form" class="modal fade" role="dialog" data-backdrop="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body"></div>
+        </div>
+    </div>
+</div></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</header><div class="uabb-js-breakpoint" style="display: none;"></div><main id="fl-main-content" class="cb-content fl-page-content">
+	<div class="fl-builder-content fl-builder-content-5666 fl-builder-global-templates-locked" data-post-id="5666" data-type="part"><div id="bu-menu" class="fl-row fl-row-full-width fl-row-bg-none fl-node-5f1edc6147eea fl-row-default-height fl-row-align-center" data-node="5f1edc6147eea">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5f1edc613dd96 fl-col-group-equal-height fl-col-group-align-center" data-node="5f1edc613dd96">
+			<div class="fl-col fl-node-5f1edc613dd99 fl-col-bg-color fl-col-small" data-node="5f1edc613dd99">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-photo fl-node-5f1edc613dd9b" data-node="5f1edc613dd9b">
+	<div class="fl-module-content fl-node-content">
+		<div role="figure" class="fl-photo fl-photo-align-left" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<a href="https://www.rafflesmedicalgroup.com/services/hospital/" target="_self" itemprop="url">
+					<img decoding="async" class="fl-photo-img wp-image-2526 size-full perfmatters-lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='273'%20height='37'%20viewBox='0%200%20273%2037'%3E%3C/svg%3E" alt="logo-raffles-hospital" height="37" width="273" title="logo-raffles-hospital" itemprop="image" data-src="https://www.rafflesmedicalgroup.com/wp-content/uploads/2020/07/logo-raffles-hospital.png" />
+				</a>
+					</div>
+	</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-5f1edc613dd9a fl-col-bg-color" data-node="5f1edc613dd9a">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-html fl-node-5f1edc613dd9c" data-node="5f1edc613dd9c">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	
+<!-- UberMenu [Configuration:hospital] [Theme Loc:] [Integration:api] -->
+<a class="ubermenu-responsive-toggle ubermenu-responsive-toggle-hospital ubermenu-skin-minimal ubermenu-loc- ubermenu-responsive-toggle-content-align-center ubermenu-responsive-toggle-align-full ubermenu-responsive-toggle-icon-only " tabindex="0" data-ubermenu-target="ubermenu-hospital-323"   aria-label="Toggle Menu"><i class="fas fa-bars" ></i></a><nav id="ubermenu-hospital-323" class="ubermenu ubermenu-nojs ubermenu-hospital ubermenu-menu-323 ubermenu-responsive ubermenu-responsive-single-column ubermenu-responsive-single-column-subs ubermenu-responsive-992 ubermenu-responsive-collapse ubermenu-horizontal ubermenu-transition-shift ubermenu-trigger-hover_intent ubermenu-skin-minimal  ubermenu-bar-align-right ubermenu-items-align-center ubermenu-bar-inner-center ubermenu-disable-submenu-scroll ubermenu-sub-indicators ubermenu-retractors-responsive ubermenu-submenu-indicator-closes"><ul id="ubermenu-nav-hospital-323" class="ubermenu-nav" data-title="Service - Hospital"><li id="menu-item-11944" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-current-page-ancestor ubermenu-item-11944 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/hospital/" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Overview</span></a></li><li id="menu-item-5668" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-advanced-sub ubermenu-item-5668 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-mega" ><span class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">24-Hour Services</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></span><div  class="ubermenu-submenu ubermenu-submenu-id-5668 ubermenu-submenu-type-auto ubermenu-submenu-type-mega ubermenu-submenu-drop ubermenu-submenu-align-full_width"  ><ul class="ubermenu-row ubermenu-row-id-5657 ubermenu-autoclear"><li class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-has-children ubermenu-item-5658 ubermenu-item-level-2 ubermenu-column ubermenu-column-full ubermenu-has-submenu-stack ubermenu-item-type-column ubermenu-column-id-5658"><ul  class="ubermenu-submenu ubermenu-submenu-id-5658 ubermenu-submenu-type-stack"  ><li id="menu-item-5669" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5669 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-3 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/raffles24-acute-and-critical-care/"><span class="ubermenu-target-title ubermenu-target-text">Raffles24 Acute &#038; Critical Care</span></a></li><li id="menu-item-5670" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5670 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-3 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/raffles24-acute-and-critical-care/ambulance-services/"><span class="ubermenu-target-title ubermenu-target-text">Ambulance Services</span></a></li><li id="menu-item-5671" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5671 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-3 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/raffles24-acute-and-critical-care/hotel-house-and-ship-calls/"><span class="ubermenu-target-title ubermenu-target-text">Hotel / House and Ship Calls</span></a></li></ul></li></ul></div></li><li id="menu-item-5672" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5672 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/specialist-centres/" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Specialist Centres</span></a></li><li id="menu-item-12483" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-current-page-ancestor ubermenu-current-menu-ancestor ubermenu-current_page_ancestor ubermenu-item-has-children ubermenu-advanced-sub ubermenu-item-12483 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-mega" ><span class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Patients &#038; Visitors</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></span><div  class="ubermenu-submenu ubermenu-submenu-id-12483 ubermenu-submenu-type-auto ubermenu-submenu-type-mega ubermenu-submenu-drop ubermenu-submenu-align-full_width"  ><ul class="ubermenu-row ubermenu-row-id-5808 ubermenu-autoclear"><li class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-has-children ubermenu-advanced-sub ubermenu-item-5810 ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3 ubermenu-has-submenu-stack ubermenu-item-type-column ubermenu-column-id-5810"><div  class="ubermenu-submenu ubermenu-submenu-id-5810 ubermenu-submenu-type-stack"  ><ul class="ubermenu-row ubermenu-row-id-5810_auto_1 ubermenu-autoclear"><li id="menu-item-5698" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-has-children ubermenu-item-5698 ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-stack" ><span class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only"><span class="ubermenu-target-title ubermenu-target-text">Visitors</span></span><ul  class="ubermenu-submenu ubermenu-submenu-id-5698 ubermenu-submenu-type-auto ubermenu-submenu-type-stack ubermenu-submenu-padded"  ><li id="menu-item-5737" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5737 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-5 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/hospital/patients-visitors/visitors/visiting-guide/"><span class="ubermenu-target-title ubermenu-target-text">Visiting Guide</span></a></li><li id="menu-item-5736" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5736 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-5 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/hospital/patients-visitors/visitors/directory/"><span class="ubermenu-target-title ubermenu-target-text">Directory</span></a></li><li id="menu-item-5734" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5734 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-5 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/hospital/patients-visitors/visitors/food-retail-and-services/"><span class="ubermenu-target-title ubermenu-target-text">Food Retail and Services</span></a></li></ul></li></ul><ul class="ubermenu-row ubermenu-row-id-12780 ubermenu-autoclear"></ul><ul class="ubermenu-row ubermenu-row-id-5810_auto_2 ubermenu-autoclear"><li id="menu-item-5695" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5695 ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/hospital/patients-visitors/acute-and-critical-care-collaboration-acc/"><span class="ubermenu-target-title ubermenu-target-text">Acute and Critical Care Collaboration (ACC)</span></a></li></ul></div></li><li class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-current-menu-ancestor ubermenu-item-has-children ubermenu-item-11933 ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3 ubermenu-has-submenu-stack ubermenu-item-type-column ubermenu-column-id-11933"><ul  class="ubermenu-submenu ubermenu-submenu-id-11933 ubermenu-submenu-type-stack"  ><li id="menu-item-5697" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-current-page-ancestor ubermenu-current-menu-ancestor ubermenu-current-menu-parent ubermenu-current-page-parent ubermenu-current_page_parent ubermenu-current_page_ancestor ubermenu-item-has-children ubermenu-item-5697 ubermenu-item-header ubermenu-item-level-3 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-stack" ><span class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only"><span class="ubermenu-target-title ubermenu-target-text">Inpatient</span></span><ul  class="ubermenu-submenu ubermenu-submenu-id-5697 ubermenu-submenu-type-auto ubermenu-submenu-type-stack ubermenu-submenu-padded"  ><li id="menu-item-5755" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-current-menu-item ubermenu-page_item ubermenu-page-item-5738 ubermenu-current_page_item ubermenu-item-5755 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/hospital/patients-visitors/inpatient/your-hospital-stay/"><span class="ubermenu-target-title ubermenu-target-text">Your Hospital Stay</span></a></li><li id="menu-item-5754" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5754 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/hospital/patients-visitors/inpatient/ward-facilities/"><span class="ubermenu-target-title ubermenu-target-text">Ward Facilities</span></a></li><li id="menu-item-5753" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5753 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/hospital/patients-visitors/inpatient/your-family-friends/"><span class="ubermenu-target-title ubermenu-target-text">Your Family &#038; Friends</span></a></li><li id="menu-item-5752" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5752 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/hospital/patients-visitors/inpatient/discharge-going-home/"><span class="ubermenu-target-title ubermenu-target-text">Discharge &#038; Going Home</span></a></li><li id="menu-item-5751" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5751 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/hospital/patients-visitors/inpatient/patient-charter/"><span class="ubermenu-target-title ubermenu-target-text">Patient Charter</span></a></li></ul></li></ul></li><li class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-has-children ubermenu-item-11927 ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3 ubermenu-has-submenu-stack ubermenu-item-type-column ubermenu-column-id-11927"><ul  class="ubermenu-submenu ubermenu-submenu-id-11927 ubermenu-submenu-type-stack"  ><li id="menu-item-5696" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-has-children ubermenu-item-5696 ubermenu-item-header ubermenu-item-level-3 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-stack" ><span class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only"><span class="ubermenu-target-title ubermenu-target-text">Maternity</span></span><ul  class="ubermenu-submenu ubermenu-submenu-id-5696 ubermenu-submenu-type-auto ubermenu-submenu-type-stack ubermenu-submenu-padded"  ><li id="menu-item-5756" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5756 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/specialist-centres/women/services/maternity-services/maternity-tour/"><span class="ubermenu-target-title ubermenu-target-text">Maternity Tour</span></a></li><li id="menu-item-5761" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5761 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/hospital/patients-visitors/maternity/antenatal-care/"><span class="ubermenu-target-title ubermenu-target-text">Antenatal Care</span></a></li><li id="menu-item-5760" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5760 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/specialist-centres/women/services/maternity-services/maternity-delivery-at-raffles-hospital/"><span class="ubermenu-target-title ubermenu-target-text">Maternity Delivery at Raffles Hospital</span></a></li><li id="menu-item-5763" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5763 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/specialist-centres/women/services/maternity-services/post-delivery-care/"><span class="ubermenu-target-title ubermenu-target-text">Post Delivery Care</span></a></li><li id="menu-item-5790" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5790 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/hospital/patients-visitors/maternity/pregnancy-due-date-calculator/"><span class="ubermenu-target-title ubermenu-target-text">Pregnancy Due Date Calculator</span></a></li></ul></li></ul></li></ul></div></li><li id="menu-item-5661" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-advanced-sub ubermenu-item-5661 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-mega" ><span class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">More</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></span><div  class="ubermenu-submenu ubermenu-submenu-id-5661 ubermenu-submenu-type-auto ubermenu-submenu-type-mega ubermenu-submenu-drop ubermenu-submenu-align-full_width"  ><ul class="ubermenu-row ubermenu-row-id-11940 ubermenu-autoclear"><li class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-has-children ubermenu-item-12268 ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3 ubermenu-has-submenu-stack ubermenu-item-type-column ubermenu-column-id-12268"><ul  class="ubermenu-submenu ubermenu-submenu-id-12268 ubermenu-submenu-type-stack"  ><li id="menu-item-12489" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-has-children ubermenu-item-12489 ubermenu-item-header ubermenu-item-level-3 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-stack" ><span class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only"><span class="ubermenu-target-title ubermenu-target-text">International Patients</span></span><ul  class="ubermenu-submenu ubermenu-submenu-id-12489 ubermenu-submenu-type-auto ubermenu-submenu-type-stack ubermenu-submenu-padded"  ><li id="menu-item-12488" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-12488 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/hospital/international-patients/international-patient-services/"><span class="ubermenu-target-title ubermenu-target-text">International Patient Services</span></a></li><li id="menu-item-12497" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-12497 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/hospital/international-patients/faqs/"><span class="ubermenu-target-title ubermenu-target-text">FAQs</span></a></li><li id="menu-item-12494" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-12494 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/hospital/international-patients/representative-offices/"><span class="ubermenu-target-title ubermenu-target-text">Representative Offices</span></a></li></ul></li></ul></li><li class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-has-children ubermenu-item-11931 ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3 ubermenu-has-submenu-stack ubermenu-item-type-column ubermenu-column-id-11931"><ul  class="ubermenu-submenu ubermenu-submenu-id-11931 ubermenu-submenu-type-stack"  ><li id="menu-item-5694" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-has-children ubermenu-item-5694 ubermenu-item-header ubermenu-item-level-3 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-stack" ><span class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only"><span class="ubermenu-target-title ubermenu-target-text">Cost &#038; Financing</span></span><ul  class="ubermenu-submenu ubermenu-submenu-id-5694 ubermenu-submenu-type-stack ubermenu-submenu-padded"  ><li id="menu-item-5806" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5806 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/hospital/patients-visitors/what-will-it-cost/room-rates/"><span class="ubermenu-target-title ubermenu-target-text">Room Rates</span></a></li><li id="menu-item-5805" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5805 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/hospital/patients-visitors/what-will-it-cost/my-hospital-bill/"><span class="ubermenu-target-title ubermenu-target-text">My Hospital Bill</span></a></li><li id="menu-item-32702" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-32702 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/hospital/patients-visitors/what-will-it-cost/medisave-medishield-life-private-integrated-shield-plan/"><span class="ubermenu-target-title ubermenu-target-text">MediSave, MediShield Life &#038; Private Integrated Shield Plan</span></a></li><li id="menu-item-32696" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-32696 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/hospital/patients-visitors/what-will-it-cost/letter-of-guarantee/"><span class="ubermenu-target-title ubermenu-target-text">Letter of Guarantee</span></a></li><li id="menu-item-32697" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-32697 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/hospital/patients-visitors/what-will-it-cost/claims-after-discharge/"><span class="ubermenu-target-title ubermenu-target-text">Claims After Discharge</span></a></li></ul></li></ul></li><li class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-has-children ubermenu-item-5811 ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3 ubermenu-has-submenu-stack ubermenu-item-type-column ubermenu-column-id-5811"><ul  class="ubermenu-submenu ubermenu-submenu-id-5811 ubermenu-submenu-type-stack"  ><li id="menu-item-5788" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-has-children ubermenu-item-5788 ubermenu-item-header ubermenu-item-level-3 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-stack" ><span class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only"><span class="ubermenu-target-title ubermenu-target-text">About Raffles Hospital</span></span><ul  class="ubermenu-submenu ubermenu-submenu-id-5788 ubermenu-submenu-type-stack ubermenu-submenu-padded"  ><li id="menu-item-5787" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5787 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/hospital/about-raffles-hospital/about-us/"><span class="ubermenu-target-title ubermenu-target-text">About Us</span></a></li><li id="menu-item-5786" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5786 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/hospital/about-raffles-hospital/contact-us/"><span class="ubermenu-target-title ubermenu-target-text">Contact Us</span></a></li><li id="menu-item-5785" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5785 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.rafflesmedicalgroup.com/services/hospital/about-raffles-hospital/awards/"><span class="ubermenu-target-title ubermenu-target-text">Awards</span></a></li></ul></li></ul></li></ul></div></li><li id="menu-item-5663" class="rmg-search ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-5663 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-mega" data-ubermenu-trigger="click" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text"><i class="fas fa-search"></i></span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-submenu ubermenu-submenu-id-5663 ubermenu-submenu-type-auto ubermenu-submenu-type-mega ubermenu-submenu-drop ubermenu-submenu-align-full_width"  ><li id="menu-item-5664" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-5664 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-full" ><div class="ubermenu-content-block ubermenu-custom-content"><form aria-label="Search" method="get" role="search" action="https://www.rafflesmedicalgroup.com/" title="Type and press Enter to search.">
+	<input aria-label="Search" type="search" class="fl-search-input form-control" name="s" placeholder="Type your Search and press Enter…" />
+</form>
+</div></li></ul></li></ul></nav>
+<!-- End UberMenu -->
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5f0cc4813a05c fl-row-default-height fl-row-align-center fl-visible-desktop fl-visible-large breadcrumbs d-none-print" data-node="5f0cc4813a05c">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5ee37bd92ff4d" data-node="5ee37bd92ff4d">
+			<div class="fl-col fl-node-5ee37bd92ff50 fl-col-bg-color" data-node="5ee37bd92ff50">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-html fl-node-60a3b30dce84a" data-node="60a3b30dce84a">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	<span><span><a href="https://www.rafflesmedicalgroup.com/">Raffles Medical Group</a></span> » <span><a href="https://www.rafflesmedicalgroup.com/services/">Services</a></span> » <span><a href="https://www.rafflesmedicalgroup.com/services/hospital/">Hospital</a></span> » <span><a href="https://www.rafflesmedicalgroup.com/services/hospital/international-patients/">International Patients</a></span> » <span class="breadcrumb_last" aria-current="page"><strong>International Patient Services</strong></span></span></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</div><div class="uabb-js-breakpoint" style="display: none;"></div>						<article class="post-12486 page type-page status-publish has-post-thumbnail hentry">
+																			<div class="fl-builder-content fl-builder-content-12486 fl-builder-content-primary fl-builder-global-templates-locked" data-post-id="12486"><div class="fl-row fl-row-full-width fl-row-bg-photo fl-node-5f1efb983783c fl-row-custom-height fl-row-align-center fl-row-bg-overlay section-hero" data-node="5f1efb983783c">
+	<div class="fl-row-content-wrap">
+		<style>.fl-node-5f1efb983783c .rmg-banner-lcp{object-position:0% 35%}@media(max-width:1200px){.fl-node-5f1efb983783c .rmg-banner-lcp{object-position:0% 35%}}@media(max-width:992px){.fl-node-5f1efb983783c .rmg-banner-lcp{object-position:0% 35%}}@media(max-width:768px){.fl-node-5f1efb983783c .rmg-banner-lcp{object-position:0% 35%}}</style><img data-perfmatters-preload width="1920" height="1080" class="rmg-banner-lcp" src="https://www.rafflesmedicalgroup.com/wp-content/uploads/2025/05/raffles-hospital-international-patient-centre.jpg" srcset="https://www.rafflesmedicalgroup.com/wp-content/uploads/2025/05/raffles-hospital-international-patient-centre.jpg 1920w, https://www.rafflesmedicalgroup.com/wp-content/uploads/2025/05/raffles-hospital-international-patient-centre-720x405.jpg 720w, https://www.rafflesmedicalgroup.com/wp-content/uploads/2025/05/raffles-hospital-international-patient-centre-1280x720.jpg 1280w, https://www.rafflesmedicalgroup.com/wp-content/uploads/2025/05/raffles-hospital-international-patient-centre-768x432.jpg 768w, https://www.rafflesmedicalgroup.com/wp-content/uploads/2025/05/raffles-hospital-international-patient-centre-50x28.jpg 50w, https://www.rafflesmedicalgroup.com/wp-content/uploads/2025/05/raffles-hospital-international-patient-centre-1536x864.jpg 1536w, https://www.rafflesmedicalgroup.com/wp-content/uploads/2025/05/raffles-hospital-international-patient-centre-960x540.jpg 960w, https://www.rafflesmedicalgroup.com/wp-content/uploads/2025/05/raffles-hospital-international-patient-centre-640x360.jpg 640w, https://www.rafflesmedicalgroup.com/wp-content/uploads/2025/05/raffles-hospital-international-patient-centre-600x338.jpg 600w" sizes="100vw" alt fetchpriority="high" decoding="async">				<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5f1efb9837836" data-node="5f1efb9837836">
+			<div class="fl-col fl-node-5f1efb983783a fl-col-bg-color" data-node="5f1efb983783a">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-heading fl-node-5f1efb983783b" data-node="5f1efb983783b">
+	<div class="fl-module-content fl-node-content">
+		<h1 class="fl-heading">
+			<span class="fl-heading-text">International Patient Services</span>
+	</h1>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5f1efb9837846 fl-row-default-height fl-row-align-center" data-node="5f1efb9837846">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5f1efb983783f" data-node="5f1efb983783f">
+			<div class="fl-col fl-node-5f1efb9837840 fl-col-bg-color fl-col-has-cols" data-node="5f1efb9837840">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-5f1f0c98acdb6" data-node="5f1f0c98acdb6">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>Raffles Hospital earns a reputation for itself as the destination of choice among international patients. More than 35 per cent of Raffles Hospital’s patients are foreigners, comprising nationals from more than 100 countries.</p>
+<p>Located conveniently in the heart of Singapore, Raffles Hospital is a full service private hospital offering <a href="https://www.rafflesmedicalgroup.com/services/specialist-centres/">comprehensive specialist services</a> combined with advanced medical technology. Raffles Hospital aims to maintain Singapore’s leadership as a regional healthcare hub by providing more complex procedures such as neurovascular interventional procedures, targeted <a href="https://www.rafflesmedicalgroup.com/services/specialist-centres/cancer/">cancer treatments</a>, <a href="https://www.rafflesmedicalgroup.com/services/specialist-centres/heart/">heart surgeries</a>, <a href="https://www.rafflesmedicalgroup.com/services/specialist-centres/orthopaedic/">orthopaedic surgeries</a>, and <a href="https://www.rafflesmedicalgroup.com/services/specialist-centres/fertility/">fertility treatments</a>.</p>
+<p>The Raffles Hospital Group Practice Model of collaborative care also allows our staff <a href="https://www.rafflesmedicalgroup.com/services/specialist-centres/">medical specialists</a> to offer team-based care which is especially important for patients who have multiple medical conditions and require the care of more than one doctor. As a team, specialists diagnose and treat patients efficiently. At the same time, costs are kept low by not repeating consultations or examinations unnecessarily.</p>
+<p>Understanding how it feels to be ill and in a foreign land, Raffles Hospital has set up the Raffles International Patients Centre (Raffles IPC) to provide personalised care for our international patients and tend to all non-medical needs during the stay.</p>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-separator fl-node-5f1f0fd5b9b96" data-node="5f1f0fd5b9b96">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-separator"></div>
+	</div>
+</div>
+<div class="fl-module fl-module-heading fl-node-5f1f105fbfc89" data-node="5f1f105fbfc89">
+	<div class="fl-module-content fl-node-content">
+		<h2 class="fl-heading">
+			<span class="fl-heading-text">Services</span>
+	</h2>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-5f1f115b3efac" data-node="5f1f115b3efac">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<ul>
+<li>Medical enquiries and appointment-making,</li>
+<li>Medical translation and interpreter services,</li>
+<li>Medical evacuation and repatriation,</li>
+<li>Arrangement for accommodation in Singapore,</li>
+<li>Visa application and extension,</li>
+<li>Airport meeting and transfer service,</li>
+<li>Travel planning and visitor information,</li>
+<li>Secretarial support services,</li>
+<li>Concierge services.</li>
+</ul>
+<p>You can book an <a href="#" data-toggle="modal" data-target="#rmg-book-appointment-form" data-backdrop="true">appointment</a> online for COVID-19 PCR Swab Tests in Singapore.<br />
+Select "COVID-19 Test" to book an appointment.</p>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-button fl-node-60000beae0631" data-node="60000beae0631">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-button-wrap fl-button-width-auto fl-button-left"><a href="https://www.rafflesmedicalgroup.com/covid-19/covid-19-tests/" target="_self" class="fl-button"><span class="fl-button-text">For information on COVID-19 PCR Swab Test</span></a></div>	</div>
+</div>
+<div class="fl-module fl-module-separator fl-node-5f1f11500ddfb" data-node="5f1f11500ddfb">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-separator"></div>
+	</div>
+</div>
+<div class="fl-module fl-module-heading fl-node-5f1f17d5428b7" data-node="5f1f17d5428b7">
+	<div class="fl-module-content fl-node-content">
+		<h2 class="fl-heading">
+			<span class="fl-heading-text">Representative Offices</span>
+	</h2>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-5f1f17e8cf2e1" data-node="5f1f17e8cf2e1">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>Our <a href="https://www.rafflesmedicalgroup.com/international/representative-offices/">Representative Offices</a> are also able to assist patients and facilitate their visit to Singapore.</p>
+</div>
+	</div>
+</div>
+
+<div class="fl-col-group fl-node-5f60670e41c59 fl-col-group-nested" data-node="5f60670e41c59">
+			<div class="fl-col fl-node-5f60670e425f6 fl-col-bg-color fl-col-small" data-node="5f60670e425f6">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-5f606714cf656" data-node="5f606714cf656">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<ul>
+<li class="uabb-adv-accordion-button-label" tabindex="0">Cambodia</li>
+<li class="uabb-adv-accordion-button-label" tabindex="0">Bangladesh</li>
+<li class="uabb-adv-accordion-button-label" tabindex="0"><a href="http://www.raffleshospital.co.id">Indonesia</a></li>
+</ul>
+</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-5f60670e425f9 fl-col-bg-color fl-col-small" data-node="5f60670e425f9">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-5f60673143ea4" data-node="5f60673143ea4">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<ul>
+<li class="uabb-adv-accordion-button-label" tabindex="0">Myanmar</li>
+<li tabindex="0">Russia</li>
+<li tabindex="0"><a href="http://www.raffleshospital.vn">Vietnam</a></li>
+</ul>
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+</div>
+</div>
+			<div class="fl-col fl-node-5f1efb9837841 fl-col-bg-color fl-col-small fl-col-has-cols" data-node="5f1efb9837841">
+	<div class="fl-col-content fl-node-content">
+<div class="fl-col-group fl-node-5f1efb9837849 fl-col-group-nested" data-node="5f1efb9837849">
+			<div class="fl-col fl-node-5f1efb9837848 fl-col-bg-photo fl-col-bg-overlay fl-visible-desktop fl-visible-large fl-visible-medium rmg-infobox-sidebar rmg-book-appointment rmg-green-overlay" data-node="5f1efb9837848">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-html fl-node-5f338ab5f3286" data-node="5f338ab5f3286">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	<h3 class="rmg-title" style="color: white;">Contact Raffles
+
+
+
+
+
+
+Hospital
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</h3></div>
+	</div>
+</div>
+<div class="fl-module fl-module-html fl-node-5f504f4cef2c9" data-node="5f504f4cef2c9">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	<p class="rmg-contact" style="color: white;">
+
+
+
+
+
+<a href="tel:+6563111111">6311 1111</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-5ef73ea38c252" data-node="5ef73ea38c252">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>Make an enquiry if you require more information.</p>
+<p>Our staff will get back to you within 2 working days.</p>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-html fl-node-5ef73f1b0d19c" data-node="5ef73f1b0d19c">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	<a href="#" class="rmg-bt rmg-nega" data-toggle="modal" data-target="#rmg-send-enquiry-form" data-backdrop="true">Make an Enquiry</a></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</div><div class="uabb-js-breakpoint" style="display: none;"></div><span class="cp-load-after-post"></span>												</article>
+						</main>
+<footer class="fl-builder-content fl-builder-content-14 fl-builder-global-templates-locked" data-post-id="14" data-type="footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter"><div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5ed5f8c89b015 fl-row-default-height fl-row-align-center" data-node="5ed5f8c89b015">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5ed5f8c8a0507 fl-col-group-equal-height fl-col-group-align-top fl-col-group-custom-width" data-node="5ed5f8c8a0507">
+			<div class="fl-col fl-node-5ed5f8c8a066c fl-col-bg-color fl-col-small fl-col-small-custom-width fl-visible-desktop fl-visible-large" data-node="5ed5f8c8a066c">
+	<div class="fl-col-content fl-node-content"><h4  class="fl-module fl-module-heading fl-heading fl-heading-text fl-node-5ed5fa1bbd42e" data-node="5ed5fa1bbd42e">
+			Our Group	</h4>
+<div class="fl-module fl-module-uabb-advanced-menu fl-node-5ed5fb14e9483" data-node="5ed5fb14e9483">
+	<div class="fl-module-content fl-node-content">
+			<div class="uabb-creative-menu
+	 uabb-creative-menu-accordion-collapse	uabb-menu-default">
+					<div class="uabb-clear"></div>
+					<ul id="menu-footer-1-our-group" class="menu uabb-creative-menu-vertical uabb-toggle-none"><li id="menu-item-195475" class="menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/our-group/about-us/our-heritage/"><span class="menu-item-text">About Us</span></a></li>
+<li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/investor-relations/"><span class="menu-item-text">Investor Relations</span></a></li>
+<li id="menu-item-97416" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/our-group/news-room/press-releases/"><span class="menu-item-text">News Room</span></a></li>
+<li id="menu-item-97414" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/careers-at-raffles/"><span class="menu-item-text">Careers at Raffles</span></a></li>
+<li id="menu-item-147" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/our-group/contact-us/"><span class="menu-item-text">Contact Us</span></a></li>
+<li id="menu-item-194572" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/faqs/"><span class="menu-item-text">FAQs</span></a></li>
+</ul>	</div>
+
+		</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-5ed5f8c8a0672 fl-col-bg-color fl-col-small fl-col-small-custom-width fl-visible-desktop fl-visible-large" data-node="5ed5f8c8a0672">
+	<div class="fl-col-content fl-node-content"><h4  class="fl-module fl-module-heading fl-heading fl-heading-text fl-node-5ed5fa2fa30de" data-node="5ed5fa2fa30de">
+			Quick Links	</h4>
+<div class="fl-module fl-module-uabb-advanced-menu fl-node-5ed5fcd90119c" data-node="5ed5fcd90119c">
+	<div class="fl-module-content fl-node-content">
+			<div class="uabb-creative-menu
+	 uabb-creative-menu-accordion-collapse	uabb-menu-default">
+					<div class="uabb-clear"></div>
+					<ul id="menu-footer-2-quick-links" class="menu uabb-creative-menu-vertical uabb-toggle-none"><li id="menu-item-103942" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/#rmgservices"><span class="menu-item-text">Services</span></a></li>
+<li id="menu-item-97404" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/government-schemes/overview/"><span class="menu-item-text">Government Schemes</span></a></li>
+<li id="menu-item-151" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/healthcare-institute/"><span class="menu-item-text">Training</span></a></li>
+<li id="menu-item-97402" class="menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a target="_blank" rel="noopener" href="https://www.raffleshealthinsurance.com/"><span class="menu-item-text">Insurance</span></a></li>
+<li id="menu-item-97401" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/international/medical-clinics-services/"><span class="menu-item-text">International</span></a></li>
+<li id="menu-item-7270" class="menu-item menu-item-type-post_type_archive menu-item-object-clinic uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/clinic/"><span class="menu-item-text">Find a Clinic</span></a></li>
+<li id="menu-item-7271" class="menu-item menu-item-type-post_type_archive menu-item-object-doctor uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/doctor/"><span class="menu-item-text">Find a Doctor</span></a></li>
+</ul>	</div>
+
+		</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-5ed5f8c8a0675 fl-col-bg-color fl-col-small fl-col-small-custom-width fl-visible-desktop fl-visible-large" data-node="5ed5f8c8a0675">
+	<div class="fl-col-content fl-node-content"><h4  class="fl-module fl-module-heading fl-heading fl-heading-text fl-node-5ed5fa3d02ea7" data-node="5ed5fa3d02ea7">
+			Services	</h4>
+<div class="fl-module fl-module-uabb-advanced-menu fl-node-5ed5fce105e1f" data-node="5ed5fce105e1f">
+	<div class="fl-module-content fl-node-content">
+			<div class="uabb-creative-menu
+	 uabb-creative-menu-accordion-collapse	uabb-menu-default">
+					<div class="uabb-clear"></div>
+					<ul id="menu-footer-3-services" class="menu uabb-creative-menu-vertical uabb-toggle-none"><li id="menu-item-155" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/services/raffles24-acute-and-critical-care/"><span class="menu-item-text">Raffles24 Acute &#038; Critical Care</span></a></li>
+<li id="menu-item-17754" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/services/hospital/"><span class="menu-item-text">Hospital</span></a></li>
+<li id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/services/specialist-centres/"><span class="menu-item-text">Specialist Centres</span></a></li>
+<li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/services/family-medicine/"><span class="menu-item-text">Family Medicine</span></a></li>
+<li id="menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/services/dental/"><span class="menu-item-text">Raffles Dental</span></a></li>
+<li id="menu-item-160" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/services/chinese-medicine/"><span class="menu-item-text">Chinese Medicine</span></a></li>
+<li id="menu-item-161" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/services/health-screening/"><span class="menu-item-text">Health Screening</span></a></li>
+</ul>	</div>
+
+		</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-5ed5fd6d172da fl-col-bg-color fl-col-small fl-col-small-custom-width fl-visible-desktop fl-visible-large" data-node="5ed5fd6d172da">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-uabb-advanced-menu fl-node-5ed5fd6d1742b" data-node="5ed5fd6d1742b">
+	<div class="fl-module-content fl-node-content">
+			<div class="uabb-creative-menu
+	 uabb-creative-menu-accordion-collapse	uabb-menu-default">
+					<div class="uabb-clear"></div>
+					<ul id="menu-footer-4-services" class="menu uabb-creative-menu-vertical uabb-toggle-none"><li id="menu-item-201868" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/raffles-healthy-longevity/"><span class="menu-item-text">Raffles HealthyLongevity</span></a></li>
+<li id="menu-item-97399" class="menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a target="_blank" rel="noopener" href="https://www.raffleshealthinsurance.com/"><span class="menu-item-text">Insurance</span></a></li>
+<li id="menu-item-6313" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/?page_id=113"><span class="menu-item-text">Corporate Healthcare</span></a></li>
+<li id="menu-item-17755" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/healthcare-institute/"><span class="menu-item-text">Training</span></a></li>
+<li id="menu-item-2220" class="menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a target="_blank" rel="noopener" href="https://www.raffleshealth.com/"><span class="menu-item-text">Raffles Health eStore</span></a></li>
+<li id="menu-item-6311" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://www.rafflesmedicalgroup.com/services/clinical-trials/"><span class="menu-item-text">Clinical Trials</span></a></li>
+</ul>	</div>
+
+		</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-5ed5f8c8a0679 fl-col-bg-color fl-col-small fl-col-small-custom-width footer-contact-wrapper" data-node="5ed5f8c8a0679">
+	<div class="fl-col-content fl-node-content"><h4  class="fl-module fl-module-heading fl-heading fl-heading-text fl-node-5ed5fa4f042ca d-none-print" data-node="5ed5fa4f042ca">
+			Contact Us	</h4>
+<div  class="fl-module fl-module-html fl-html fl-node-5ed5feef2cf6f footer-contact" data-node="5ed5feef2cf6f">
+	<ul class="footer-patients d-none-print">
+    <li class="footer-contact-email"><a href="#" data-toggle="modal" data-target="#rmg-book-appointment-form" data-backdrop="true">Book an Appointment</a></li>
+    <li class="footer-contact-email"><a href="#" data-toggle="modal" data-target="#rmg-send-enquiry-form" data-backdrop="true">Make an Enquiry</a></li>
+</ul>
+
+<h5 class=" d-none-print"><a href="https://www.rafflesmedicalgroup.com/corporate-employee-benefits-healthcare/">Corporate Healthcare</a></h5>
+<h5 class=" d-none-print"><a href="https://www.rafflesmedicalgroup.com/raffles-medical-group-feedback/">Feedback</a></h5>
+<h5>Address:</h5>
+<ul>
+    <li class="footer-contact-address"><a href="https://goo.gl/maps/TQckwvgk6KCCTFzt8" target="_blank" rel="noreferrer noopener">Raffles Hospital<br />585 North Bridge Road<br />Singapore 188770</a></li>
+</ul></div>
+</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-zy4pc3nduh26" data-node="zy4pc3nduh26">
+			<div class="fl-col fl-node-8rf2bnus0ovd fl-col-bg-color fl-col-small" data-node="8rf2bnus0ovd">
+	<div class="fl-col-content fl-node-content"><figure class="fl-module fl-module-photo fl-photo fl-photo-align-left fl-node-v7zxj5fbqd21" data-node="v7zxj5fbqd21" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-svg">
+				<a href="https://www.rafflesmedicalgroup.com/r50" target="_self" itemprop="url">
+					<img decoding="async" class="fl-photo-img wp-image-202786 size-full perfmatters-lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="R50 Logo - Raffles Medical Group 50 year anniversary logo" title="R50 Logo - Raffles Medical Group 50 year anniversary logo" data-src="https://www.rafflesmedicalgroup.com/wp-content/uploads/2026/07/Raffles-Medical-Group-R50-logo-white.svg" />
+				</a>
+					</div>
+	</figure>
+</div>
+</div>
+			<div class="fl-col fl-node-pcyvg7ui6f3b fl-col-bg-color" data-node="pcyvg7ui6f3b">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-advanced-icon fl-node-5ed5f98f69550" data-node="5ed5f98f69550">
+	<div class="fl-module-content fl-node-content">
+		
+<div class="uabb-module-content adv-icon-wrap adv-icon-horizontal adv-icon-left">
+<a class="adv-icon-link adv-icon-1" href="https://www.facebook.com/RafflesMedGrp" target="_blank" rel="noopener nofollow" aria-label="Go to https://www.facebook.com/RafflesMedGrp"><div class="uabb-module-content uabb-imgicon-wrap">				<span class="uabb-icon-wrap">
+			<span class="uabb-icon">
+			<i class="ua-icon ua-icon-facebook-with-circle" aria-hidden="true"></i>
+			</span>
+		</span>
+	
+		</div></a><a class="adv-icon-link adv-icon-2" href="https://www.youtube.com/user/RafflesHospital" target="_blank" rel="noopener nofollow" aria-label="Go to https://www.youtube.com/user/RafflesHospital"><div class="uabb-module-content uabb-imgicon-wrap">				<span class="uabb-icon-wrap">
+			<span class="uabb-icon">
+			<i class="ua-icon ua-icon-youtube-with-circle" aria-hidden="true"></i>
+			</span>
+		</span>
+	
+		</div></a><a class="adv-icon-link adv-icon-3" href="https://sg.linkedin.com/company/raffles-medical-group" target="_blank" rel="noopener nofollow" aria-label="Go to https://sg.linkedin.com/company/raffles-medical-group"><div class="uabb-module-content uabb-imgicon-wrap">				<span class="uabb-icon-wrap">
+			<span class="uabb-icon">
+			<i class="ua-icon ua-icon-linkedin-with-circle" aria-hidden="true"></i>
+			</span>
+		</span>
+	
+		</div></a><a class="adv-icon-link adv-icon-4" href="https://www.instagram.com/RafflesMedGrp/" target="_blank" rel="noopener nofollow" aria-label="Go to https://www.instagram.com/RafflesMedGrp/"><div class="uabb-module-content uabb-imgicon-wrap">				<span class="uabb-icon-wrap">
+			<span class="uabb-icon">
+			<i class="ua-icon ua-icon-instagram-with-circle" aria-hidden="true"></i>
+			</span>
+		</span>
+	
+		</div></a></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-5ed5f8ce07689" data-node="5ed5f8ce07689">
+			<div class="fl-col fl-node-5ed5f8ce077c1 fl-col-bg-color" data-node="5ed5f8ce077c1">
+	<div class="fl-col-content fl-node-content"></div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5de5f9098e462 fl-row-default-height fl-row-align-center footer-mentions" data-node="5de5f9098e462">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5edf339df170c" data-node="5edf339df170c">
+			<div class="fl-col fl-node-5edf339df182d fl-col-bg-color" data-node="5edf339df182d">
+	<div class="fl-col-content fl-node-content"><div  class="fl-module fl-module-separator fl-node-5edf339df1665" data-node="5edf339df1665">
+	<div class="fl-separator"></div>
+</div>
+</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-5de5f9098e466 fl-col-group-equal-height fl-col-group-align-top fl-col-group-custom-width" data-node="5de5f9098e466">
+			<div class="fl-col fl-node-5de5f9098e467 fl-col-bg-color fl-col-small fl-col-small-custom-width" data-node="5de5f9098e467">
+	<div class="fl-col-content fl-node-content"><div  class="fl-module fl-module-rich-text fl-rich-text fl-node-5de5f9098e468" data-node="5de5f9098e468">
+	<p>Copyright © 2026 Raffles Medical Group. All Rights Reserved.</p>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-5de60e6adba98 fl-col-bg-color fl-col-small fl-col-small-custom-width" data-node="5de60e6adba98">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-menu fl-node-5ed5f7f81b246" data-node="5ed5f7f81b246">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-menu">
+		<div class="fl-clear"></div>
+	<nav aria-label="Navigation Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><ul id="menu-footer-terms" class="menu fl-menu-horizontal fl-toggle-none"><li id="menu-item-581" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.rafflesmedicalgroup.com/terms-conditions/">Terms &#038; Conditions</a></li></ul></nav></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5f34033c09bfb fl-row-default-height fl-row-align-center fl-visible-medium fl-visible-mobile footer-appointment-wrapper" data-node="5f34033c09bfb">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-full-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5f34033c18078" data-node="5f34033c18078">
+			<div class="fl-col fl-node-5f34033c181bc fl-col-bg-color fl-col-has-cols" data-node="5f34033c181bc">
+	<div class="fl-col-content fl-node-content">
+<div class="fl-col-group fl-node-5f36b78f83b54 fl-col-group-nested fl-col-group-custom-width" data-node="5f36b78f83b54">
+			<div class="fl-col fl-node-5f36b78f83c3f fl-col-bg-color fl-col-small fl-col-small-custom-width" data-node="5f36b78f83c3f">
+	<div class="fl-col-content fl-node-content"><div  class="fl-module fl-module-html fl-html fl-node-5f36b7a25883f rmg-center" data-node="5f36b7a25883f">
+	<a href="#" class="rmg-bt" data-toggle="modal" data-target="#rmg-send-enquiry-form" data-backdrop="true">Make an Enquiry</a></div>
+</div>
+</div>
+			<div class="fl-col fl-node-5f36b78f83c47 fl-col-bg-color fl-col-small fl-col-small-custom-width" data-node="5f36b78f83c47">
+	<div class="fl-col-content fl-node-content"><div  class="fl-module fl-module-html fl-html fl-node-5f33f43c3c071 rmg-center" data-node="5f33f43c3c071">
+	<a href="#" class="rmg-bt" data-toggle="modal" data-target="#rmg-book-appointment-form" data-backdrop="true">Book an Appointment</a></div>
+</div>
+</div>
+	</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</footer><div class="uabb-js-breakpoint" style="display: none;"></div></div><!-- .fl-page -->
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/cb-rafflesmedical/*","/wp-content/themes/cb-base/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+			<div class="cpro-onload  cp-popup-global  cp-custom-cls-manual_trigger_34889 "  data-class-id="34889" data-inactive-time='60' ></div>
+			
+		<div id="cp_popup_id_34889" class="cp-popup-container cp-popup-live-wrap cp_style_34889 cp-module-slide_in  " data-style="cp_style_34889" data-module-type="slide_in" data-class-id="34889" data-styleslug="suggestion-read-2-2">
+
+			
+			<div class="cp-popup-wrapper cp-auto  "  >
+				<div class="cp-popup  cpro-animate-container ">
+
+					
+				<input type='hidden' class='panel-settings' data-style_id= '34889' data-section='configure' value='{&quot;enable_custom_cookies&quot;:&quot;&quot;,&quot;enable_cookies_class&quot;:&quot;&quot;,&quot;enable_adblock_detection&quot;:&quot;&quot;,&quot;enable_visitors&quot;:&quot;&quot;,&quot;visitor_type&quot;:&quot;first-time&quot;,&quot;referrer_type&quot;:&quot;hide-from&quot;,&quot;target_rule_exclude_on_specifics_0&quot;:&quot;post-201175&quot;,&quot;hide_custom_cookies&quot;:&quot;&quot;,&quot;hide_cookies_class&quot;:&quot;&quot;,&quot;show_for_logged_in&quot;:&quot;1&quot;,&quot;hide_on_device&quot;:&quot;&quot;,&quot;cookies_enabled&quot;:&quot;1&quot;,&quot;conversion_cookie&quot;:&quot;30&quot;,&quot;closed_cookie&quot;:&quot;30&quot;,&quot;cookies_enabled_submit&quot;:&quot;&quot;,&quot;enable_cookies_class_submit&quot;:&quot;&quot;,&quot;conversion_cookie_submit&quot;:&quot;90&quot;,&quot;cookies_enabled_closed&quot;:&quot;&quot;,&quot;enable_cookies_class_closed&quot;:&quot;&quot;,&quot;closed_cookie_new&quot;:&quot;30&quot;}' ><input type='hidden' class='panel-rulesets' data-style_id= '34889' data-section='configure' value='[{&quot;name&quot;:&quot;Ruleset 1&quot;,&quot;autoload_on_duration&quot;:&quot;1&quot;,&quot;load_on_duration&quot;:&quot;5&quot;,&quot;modal_exit_intent&quot;:&quot;0&quot;,&quot;autoload_on_scroll&quot;:&quot;0&quot;,&quot;show_after_within_scroll_info&quot;:&quot;&quot;,&quot;load_after_scroll&quot;:&quot;50&quot;,&quot;close_after_scroll&quot;:&quot;90&quot;,&quot;inactivity&quot;:false,&quot;inactivity_link&quot;:&quot;&quot;,&quot;enable_after_post&quot;:false,&quot;enable_custom_scroll&quot;:false,&quot;enable_scroll_class&quot;:&quot;&quot;,&quot;on_scroll_txt&quot;:&quot;&quot;,&quot;show_cta_info&quot;:&quot;&quot;,&quot;enable_custom_cookies&quot;:false,&quot;enable_cookies_class&quot;:&quot;&quot;,&quot;on_cookie_txt&quot;:&quot;&quot;,&quot;hide_cta_link&quot;:&quot;&quot;,&quot;enable_adblock_detection&quot;:false,&quot;all_visitor_info&quot;:&quot;&quot;,&quot;enable_visitors&quot;:&quot;&quot;,&quot;visitor_type&quot;:&quot;first-time&quot;,&quot;enable_referrer&quot;:&quot;&quot;,&quot;referrer_type&quot;:&quot;hide-from&quot;,&quot;display_to&quot;:&quot;&quot;,&quot;hide_from&quot;:&quot;&quot;,&quot;enable_scheduler&quot;:false,&quot;enable_scheduler_txt&quot;:&quot;&quot;,&quot;start_date&quot;:&quot;&quot;,&quot;end_date&quot;:&quot;&quot;,&quot;custom_cls_text_head&quot;:&quot;&quot;,&quot;enable_custom_class&quot;:false,&quot;copy_link_code_button&quot;:&quot;Copy Link Code&quot;,&quot;copy_link_cls_code_button&quot;:&quot;&quot;,&quot;custom_class&quot;:&quot;&quot;,&quot;custom_cls_text&quot;:&quot;&quot;}]' ><style id='cp_popup_style_34889' type='text/css'>.cp_style_34889 .cp-popup-content {font-family:inherit;font-style:Normal;font-weight:Normal;}.cp_style_34889 .cp-popup-content{ border-style:none;border-color:#e1e1e1;border-width:1px 1px 1px 1px;border-radius:3px 3px 3px 3px;mobile-breakpoint:767;}.cp_style_34889 #panel-1-34889 .cp-target:hover { }.cp_style_34889 #panel-1-34889 { }.cp_style_34889 .cp-popup-content { width:380px;height:170px;background-color:rgba(255,255,255,0.01);background-blend-mode: overlay;background-repeat :no-repeat;background-position :left;background-size :cover;}@media ( max-width: 767px ) {.cp_style_34889 .cp-popup-content{ border-style:none;border-color:#e1e1e1;border-width:1px 1px 1px 1px;border-radius:3px 3px 3px 3px;mobile-breakpoint:767;}.cp_style_34889 #panel-1-34889 .cp-target:hover { }.cp_style_34889 #panel-1-34889 { }.cp_style_34889 .cp-popup-content { width:380px;height:170px;background-color:;background-blend-mode: overlay;background-repeat :no-repeat;background-position :center;background-size :contain;}}.cp_style_34889 #toggle-34889 .cp-target { }.cp_style_34889 #toggle-34889 .cp-target:hover { }.cp_style_34889 .cp-open-toggle{ font-size:16px;}.cp_style_34889 .cp-open-toggle{ color:#FFFFFF;}.cp_style_34889 .cp-open-toggle{ background-color:#000000;}.cp_style_34889 .cp-open-toggle{ }.cp_style_34889 .cp-open-toggle{ }.cp_style_34889 .cp-open-toggle{ }.cp_style_34889 .cp-open-toggle{ width:250px;}.cp_style_34889 .cp-open-toggle{ line-height:50px;height:50px;}.cp_style_34889 #toggle-34889 { }@media ( max-width: 767px ) {.cp_style_34889 #toggle-34889 .cp-target { }.cp_style_34889 #toggle-34889 .cp-target:hover { }.cp_style_34889 .cp-open-toggle{ font-size:15px;}.cp_style_34889 .cp-open-toggle{ color:#FFFFFF;}.cp_style_34889 .cp-open-toggle{ background-color:#000000;}.cp_style_34889 .cp-open-toggle{ }.cp_style_34889 .cp-open-toggle{ }.cp_style_34889 .cp-open-toggle{ }.cp_style_34889 .cp-open-toggle{ width:229px;}.cp_style_34889 .cp-open-toggle{ line-height:46px;height:46px;}.cp_style_34889 #toggle-34889 { }}.cp_style_34889 .cp-popup .cpro-form .cp-form-input-field{ font-family:inherit;font-style:inherit;font-weight:inherit;text-transform:none;font-size:13px;letter-spacing:0;text-align:left;color:#666;background-color:#fff;border-style:solid;border-width:1px 1px 1px 1px;border-radius:1px 1px 1px 1px;border-color:#bbb;active-border-color:#666;padding:0px 10px 0px 10px;}.cp_style_34889 #form_field-34889 .cp-target:hover { }.cp_style_34889 #form_field-34889 placeholder { color:#666;}.cp_style_34889 .cp-popup .cpro-form .cp-form-input-field input[type='radio'], .cp_style_34889 .cp-popup .cpro-form .cp-form-input-field input[type='checkbox'] {color:#666;background-color:#fff;}.cp_style_34889 .cp-popup .cpro-form .cp-form-input-field:focus {border-color: #666;}.cp_style_34889 .cp-popup .cpro-form .cp-form-input-field::-webkit-input-placeholder {color:#666;}.cp_style_34889 .cp-popup .cpro-form .cp-form-input-field::-moz-placeholder  {color:#666;}.cp_style_34889 .cp-popup .cpro-form .pika-lendar table tbody button:hover { background :#666;}.cp_style_34889 .cp-popup .cpro-form .pika-lendar table tbody .is-selected .pika-button { background :#666;box-shadow : inset 0 1px 3px #666;}.cp_style_34889 #form_field-34889 { }@media ( max-width: 767px ) {.cp_style_34889 .cp-popup .cpro-form .cp-form-input-field{ font-family:inherit;font-style:inherit;font-weight:inherit;text-transform:none;font-size:12px;letter-spacing:0;text-align:left;color:#666;background-color:#fff;border-style:solid;border-width:1px 1px 1px 1px;border-radius:1px 1px 1px 1px;border-color:#bbb;active-border-color:#666;padding:0px 10px 0px 10px;}.cp_style_34889 #form_field-34889 .cp-target:hover { }.cp_style_34889 #form_field-34889 placeholder { color:#666;}.cp_style_34889 .cp-popup .cpro-form .cp-form-input-field input[type='radio'], .cp_style_34889 .cp-popup .cpro-form .cp-form-input-field input[type='checkbox'] {color:#666;background-color:#fff;}.cp_style_34889 .cp-popup .cpro-form .cp-form-input-field:focus {border-color: #666;}.cp_style_34889 .cp-popup .cpro-form .cp-form-input-field::-webkit-input-placeholder {color:#666;}.cp_style_34889 .cp-popup .cpro-form .cp-form-input-field::-moz-placeholder  {color:#666;}.cp_style_34889 .cp-popup .cpro-form .pika-lendar table tbody button:hover { background :#666;}.cp_style_34889 .cp-popup .cpro-form .pika-lendar table tbody .is-selected .pika-button { background :#666;box-shadow : inset 0 1px 3px #666;}.cp_style_34889 #form_field-34889 { }}.cp_style_34889 #cp_button-0-34889 .cp-target { font-family:inherit;font-style:Inherit;font-weight:Inherit;font-size:16px;letter-spacing:0px;text-align:center;color:#ffffff;background:#4694da;width:226px;height:34px;padding:0px 15px 0px 15px;}.cp_style_34889 #cp_button-0-34889 .cp-target:hover { color:#fff;background:#4d4d4d7;}.cp_style_34889 #cp_button-0-34889 .cp-target { border-style:solid;}.cp_style_34889 #cp_button-0-34889 .cp-target ~ .cp-field-shadow { border-style:solid;}.cp_style_34889 #cp_button-0-34889 .cp-target { border-color:#1e73be;}.cp_style_34889 #cp_button-0-34889 .cp-target ~ .cp-field-shadow { border-color:#1e73be;}.cp_style_34889 #cp_button-0-34889 .cp-target { border-width:0px 0px 0px 0px;}.cp_style_34889 #cp_button-0-34889 .cp-target ~ .cp-field-shadow { border-width:0px 0px 0px 0px;}.cp_style_34889 #cp_button-0-34889 .cp-target { border-radius:0px 0px 0px 0px;}.cp_style_34889 #cp_button-0-34889 .cp-target ~ .cp-field-shadow { border-radius:0px 0px 0px 0px;}.cp_style_34889 #cp_button-0-34889 .cp-target > .cp-close-link { border-radius:0px 0px 0px 0px;}.cp_style_34889 #cp_button-0-34889 .cp-target > .cp-close-image { border-radius:0px 0px 0px 0px;}.cp_style_34889 #cp_button-0-34889 .cp-target { }.cp_style_34889 #cp_button-0-34889 .cp-target ~ .cp-field-shadow { }.cp_style_34889 #cp_button-0-34889 .cp-rotate-wrap{ transform:rotate( 0deg);}.cp_style_34889 #cp_button-0-34889 .cp-target:hover { border-color:#16A085;}.cp_style_34889 #cp_button-0-34889 .cp-target:hover ~ .cp-field-shadow { border-color:#16A085;}.cp_style_34889 #cp_button-0-34889 { left: 16px;top: 124px;z-index:5;}@media ( max-width: 767px ) {.cp_style_34889 #cp_button-0-34889 .cp-target { font-family:inherit;font-style:Inherit;font-weight:Inherit;font-size:16px;letter-spacing:0px;text-align:center;color:#ffffff;background:#4694da;width:197px;height:46px;padding:0px 15px 0px 15px;}.cp_style_34889 #cp_button-0-34889 .cp-target:hover { color:#fff;background:#4d4d4d7;}.cp_style_34889 #cp_button-0-34889 .cp-target { border-style:solid;}.cp_style_34889 #cp_button-0-34889 .cp-target ~ .cp-field-shadow { border-style:solid;}.cp_style_34889 #cp_button-0-34889 .cp-target { border-color:#1e73be;}.cp_style_34889 #cp_button-0-34889 .cp-target ~ .cp-field-shadow { border-color:#1e73be;}.cp_style_34889 #cp_button-0-34889 .cp-target { border-width:0px 0px 0px 0px;}.cp_style_34889 #cp_button-0-34889 .cp-target ~ .cp-field-shadow { border-width:0px 0px 0px 0px;}.cp_style_34889 #cp_button-0-34889 .cp-target { border-radius:0px 0px 0px 0px;}.cp_style_34889 #cp_button-0-34889 .cp-target ~ .cp-field-shadow { border-radius:0px 0px 0px 0px;}.cp_style_34889 #cp_button-0-34889 .cp-target > .cp-close-link { border-radius:0px 0px 0px 0px;}.cp_style_34889 #cp_button-0-34889 .cp-target > .cp-close-image { border-radius:0px 0px 0px 0px;}.cp_style_34889 #cp_button-0-34889 .cp-target { }.cp_style_34889 #cp_button-0-34889 .cp-target ~ .cp-field-shadow { }.cp_style_34889 #cp_button-0-34889 .cp-rotate-wrap{ transform:rotate( 0deg);}.cp_style_34889 #cp_button-0-34889 .cp-target:hover { border-color:#16A085;}.cp_style_34889 #cp_button-0-34889 .cp-target:hover ~ .cp-field-shadow { border-color:#16A085;}.cp_style_34889 #cp_button-0-34889 { left: 29px;top: 104px;z-index:5;}}.cp_style_34889 #cp_close_text-0-34889 .cp-target { text-align:center;width:60px;height:25px;}.cp_style_34889 #cp_close_text-0-34889 .cp-target:hover { }.cp_style_34889 #cp_close_text-0-34889 .cp-target .cp-close-link { }.cp_style_34889 #cp_close_text-0-34889 .cp-target .cp-close-link { font-family:inherit;font-style:Inherit;font-weight:Inherit;}.cp_style_34889 #cp_close_text-0-34889 .cp-target .cp-close-link { font-size:16px;}.cp_style_34889 #cp_close_text-0-34889 .cp-target .cp-close-link { line-height:1.5;}.cp_style_34889 #cp_close_text-0-34889 .cp-target .cp-close-link { letter-spacing:0px;}.cp_style_34889 #cp_close_text-0-34889 .cp-target .cp-close-link { color:#ffffff;}.cp_style_34889 #cp_close_text-0-34889 .cp-target { border-style:none;}.cp_style_34889 #cp_close_text-0-34889 .cp-target ~ .cp-field-shadow { border-style:none;}.cp_style_34889 #cp_close_text-0-34889 .cp-target { border-color:#757575;}.cp_style_34889 #cp_close_text-0-34889 .cp-target ~ .cp-field-shadow { border-color:#757575;}.cp_style_34889 #cp_close_text-0-34889 .cp-target { border-width:1px 1px 1px 1px;}.cp_style_34889 #cp_close_text-0-34889 .cp-target ~ .cp-field-shadow { border-width:1px 1px 1px 1px;}.cp_style_34889 #cp_close_text-0-34889 .cp-target { border-radius:0px 0px 0px 0px;}.cp_style_34889 #cp_close_text-0-34889 .cp-target ~ .cp-field-shadow { border-radius:0px 0px 0px 0px;}.cp_style_34889 #cp_close_text-0-34889 .cp-target > .cp-close-link { border-radius:0px 0px 0px 0px;}.cp_style_34889 #cp_close_text-0-34889 .cp-target > .cp-close-image { border-radius:0px 0px 0px 0px;}.cp_style_34889 #cp_close_text-0-34889 .cp-target { }.cp_style_34889 #cp_close_text-0-34889 .cp-target ~ .cp-field-shadow { }.cp_style_34889 #cp_close_text-0-34889 .cp-rotate-wrap{ transform:rotate( 0deg);}.cp_style_34889 #cp_close_text-0-34889 .cp-target:hover { }.cp_style_34889 #cp_close_text-0-34889 .cp-target:hover ~ .cp-field-shadow { }.cp_style_34889 #cp_close_text-0-34889 { left: 314.5px;top: 7px;z-index:7;}@media ( max-width: 767px ) {.cp_style_34889 #cp_close_text-0-34889 .cp-target { text-align:center;width:55px;height:23px;}.cp_style_34889 #cp_close_text-0-34889 .cp-target:hover { }.cp_style_34889 #cp_close_text-0-34889 .cp-target .cp-close-link { }.cp_style_34889 #cp_close_text-0-34889 .cp-target .cp-close-link { font-family:inherit;font-style:Inherit;font-weight:Inherit;}.cp_style_34889 #cp_close_text-0-34889 .cp-target .cp-close-link { font-size:13px;}.cp_style_34889 #cp_close_text-0-34889 .cp-target .cp-close-link { line-height:1.5;}.cp_style_34889 #cp_close_text-0-34889 .cp-target .cp-close-link { letter-spacing:0px;}.cp_style_34889 #cp_close_text-0-34889 .cp-target .cp-close-link { color:#ffffff;}.cp_style_34889 #cp_close_text-0-34889 .cp-target { border-style:none;}.cp_style_34889 #cp_close_text-0-34889 .cp-target ~ .cp-field-shadow { border-style:none;}.cp_style_34889 #cp_close_text-0-34889 .cp-target { border-color:#757575;}.cp_style_34889 #cp_close_text-0-34889 .cp-target ~ .cp-field-shadow { border-color:#757575;}.cp_style_34889 #cp_close_text-0-34889 .cp-target { border-width:1px 1px 1px 1px;}.cp_style_34889 #cp_close_text-0-34889 .cp-target ~ .cp-field-shadow { border-width:1px 1px 1px 1px;}.cp_style_34889 #cp_close_text-0-34889 .cp-target { border-radius:0px 0px 0px 0px;}.cp_style_34889 #cp_close_text-0-34889 .cp-target ~ .cp-field-shadow { border-radius:0px 0px 0px 0px;}.cp_style_34889 #cp_close_text-0-34889 .cp-target > .cp-close-link { border-radius:0px 0px 0px 0px;}.cp_style_34889 #cp_close_text-0-34889 .cp-target > .cp-close-image { border-radius:0px 0px 0px 0px;}.cp_style_34889 #cp_close_text-0-34889 .cp-target { }.cp_style_34889 #cp_close_text-0-34889 .cp-target ~ .cp-field-shadow { }.cp_style_34889 #cp_close_text-0-34889 .cp-rotate-wrap{ transform:rotate( 0deg);}.cp_style_34889 #cp_close_text-0-34889 .cp-target:hover { }.cp_style_34889 #cp_close_text-0-34889 .cp-target:hover ~ .cp-field-shadow { }.cp_style_34889 #cp_close_text-0-34889 { left: 320px;top: 7px;z-index:7;}}.cp_style_34889 #cp_sub_heading-1-34889 .cp-target { font-family:Open Sans;font-style:Normal;font-weight:Normal;font-size:14px;line-height:1.3;letter-spacing:1px;text-align:left;color:#ffffff;width:183px;height:102px;}.cp_style_34889 #cp_sub_heading-1-34889 .cp-target:hover { }.cp_style_34889 #cp_sub_heading-1-34889 .cp-rotate-wrap{ transform:rotate( 0deg);}.cp_style_34889 #cp_sub_heading-1-34889 { left: 18px;top: 23px;z-index:9;}@media ( max-width: 767px ) {.cp_style_34889 #cp_sub_heading-1-34889 .cp-target { font-family:Open Sans;font-style:Normal;font-weight:Normal;font-size:14px;line-height:1.3;letter-spacing:1px;text-align:center;color:#ffffff;width:219px;height:74px;}.cp_style_34889 #cp_sub_heading-1-34889 .cp-target:hover { }.cp_style_34889 #cp_sub_heading-1-34889 .cp-rotate-wrap{ transform:rotate( 0deg);}.cp_style_34889 #cp_sub_heading-1-34889 { left: 14px;top: 11.5px;z-index:9;}}@media ( max-width: 767px ) {.cp_style_34889 .cp-invisible-on-mobile {display: none !important;}}</style>
+					<div class="cp-popup-content cpro-active-step cp-img-lazy cp-bg-lazy cp-slide_in   bottom-center   cp-panel-1" data-entry-animation = "cp-fadeIn" data-cp-src="[&quot;203699|https://www.rafflesmedicalgroup.com/wp-content/uploads/2026/10/nov-the-clear-edition-popup-banner.jpg|full&quot;,&quot;203699|https://www.rafflesmedicalgroup.com/wp-content/uploads/2026/10/nov-the-clear-edition-popup-banner.jpg|full&quot;]" data-overlay-click ="1" data-title="Anniversary Package" data-module-type="slide_in"  data-step="1"  data-width="380" data-mobile-width="380" data-height="170" data-mobile-height="170" data-mobile-break-pt="767" data-popup-position="bottom center" data-mobile-responsive="yes">
+																				<input type='text' class='cpro-hp-field' name='cpro_hp_feedback_field_34889' value=''>
+							<div class="cpro-form-container">                             
+						<div id="cp_button-0-34889" class="cp-field-html-data   cpro_count_conversion cp-none" data-type="cp_button"   data-action="goto_url" data-step="1"   data-redirect="https://www.rafflesmedicalgroup.com/r50" data-redirect-target="_self"    >
+	<div class="cp-rotate-wrap"><button type="button" class=" cp-target cp-field-element cp-button cp-button-field"  data-success-message="Thank You for Subscribing!" data-get-param="false">LASIK Pre-assessment </button>
+	<div class="cp-btn-tooltip"></div>
+</div></div><div id="cp_close_text-0-34889" class="cp-field-html-data    cp-none" data-type="cp_close_text" data-field-title="Close Text" data-action="close" data-redirect="{{data-redirect}}"    >
+	<div class="cp-rotate-wrap">
+		<div class="cp-target cp-field-element cp-close-field {{extra-class}}" data-original-title="{{data-tip-title}}" name="cp_close_text-0">
+			<span class="cp-close-link ">Close</span>
+		</div>
+		<div class="cp-field-shadow"></div>
+		
+	</div>
+</div><div id="cp_sub_heading-1-34889" class="cp-field-html-data    cp-none cp_has_editor" data-type="cp_sub_heading" data-field-title="Subheading"     ><div class="cp-rotate-wrap"><div class="cp-target cp-field-element cp-sub-heading tinymce"  name="{{name}}"><p><strong>R50: The Clear Edition</strong></p>
+<p>Enjoy greater visual freedom with less reliance on spectacles or contact lenses.</p></div></div>
+</div>							</div>              
+														
+						</div><!-- .cp-popup-content -->
+						      
+		<input type="hidden" name="param[date]" value="8 November, 2026" />
+		<input type="hidden" name="action" value="cp_v2_notify_admin" />
+		<input type="hidden" name="style_id" value="34889" />
+						</div>
+							</div><!-- .cp-popup-wrapper -->
+			
+					</div><!-- Modal popup container -->
+						<div class="cpro-onload  cp-popup-global  cp-custom-cls-manual_trigger_203614 "  data-class-id="203614" data-inactive-time='60' ></div>
+			
+		<div id="cp_popup_id_203614" class="cp-popup-container cp-popup-live-wrap cp_style_203614 cp-module-info_bar  " data-style="cp_style_203614" data-module-type="info_bar" data-class-id="203614" data-styleslug="announcement">
+
+			
+			<div class="cp-popup-wrapper cp-auto  " data-scheduled = "true"data-timezone = "Asia/Singapore"data-tz-offset = "8"data-start-date = "10/20/2026 3:10 PM"data-end-date = "11/30/2026 11:55 PM" >
+				<div class="cp-popup  cpro-animate-container cp-top">
+
+											<div class="cpro-fs-overlay"></div>
+					
+				<input type='hidden' class='panel-settings' data-style_id= '203614' data-section='configure' value='{&quot;enable_custom_cookies&quot;:&quot;&quot;,&quot;enable_cookies_class&quot;:&quot;&quot;,&quot;enable_adblock_detection&quot;:&quot;0&quot;,&quot;enable_visitors&quot;:&quot;0&quot;,&quot;visitor_type&quot;:&quot;first-time&quot;,&quot;referrer_type&quot;:&quot;hide-from&quot;,&quot;hide_custom_cookies&quot;:&quot;&quot;,&quot;hide_cookies_class&quot;:&quot;&quot;,&quot;show_for_logged_in&quot;:&quot;1&quot;,&quot;hide_on_device&quot;:&quot;&quot;,&quot;cookies_enabled&quot;:&quot;1&quot;,&quot;conversion_cookie&quot;:&quot;90&quot;,&quot;closed_cookie&quot;:&quot;30&quot;,&quot;cookies_enabled_submit&quot;:&quot;&quot;,&quot;enable_cookies_class_submit&quot;:&quot;&quot;,&quot;conversion_cookie_submit&quot;:&quot;90&quot;,&quot;cookies_enabled_closed&quot;:&quot;&quot;,&quot;enable_cookies_class_closed&quot;:&quot;&quot;,&quot;closed_cookie_new&quot;:&quot;30&quot;}' ><input type='hidden' class='panel-rulesets' data-style_id= '203614' data-section='configure' value='[{&quot;name&quot;:&quot;Ruleset 1&quot;,&quot;autoload_on_duration&quot;:true,&quot;load_on_duration&quot;:&quot;1&quot;,&quot;autoload_on_no_page_visit&quot;:false,&quot;load_on_no_page_visit&quot;:1,&quot;load_on_page_visit_type&quot;:&quot;is-more-than&quot;,&quot;cp_show_note_page_view&quot;:&quot;&quot;,&quot;modal_exit_intent&quot;:false,&quot;autoload_on_scroll&quot;:&quot;0&quot;,&quot;show_after_within_scroll_info&quot;:&quot;&quot;,&quot;load_after_scroll&quot;:75,&quot;close_after_scroll&quot;:0,&quot;inactivity&quot;:false,&quot;inactivity_link&quot;:&quot;&quot;,&quot;enable_after_post&quot;:false,&quot;enable_custom_scroll&quot;:false,&quot;enable_scroll_class&quot;:&quot;&quot;,&quot;on_scroll_txt&quot;:&quot;&quot;,&quot;show_cta_info&quot;:&quot;&quot;,&quot;enable_custom_cookies&quot;:false,&quot;enable_cookies_class&quot;:&quot;&quot;,&quot;on_cookie_txt&quot;:&quot;&quot;,&quot;hide_cta_link&quot;:&quot;&quot;,&quot;enable_adblock_detection&quot;:&quot;0&quot;,&quot;all_visitor_info&quot;:&quot;&quot;,&quot;enable_visitors&quot;:&quot;0&quot;,&quot;visitor_type&quot;:&quot;first-time&quot;,&quot;enable_referrer&quot;:&quot;&quot;,&quot;referrer_type&quot;:&quot;hide-from&quot;,&quot;display_to&quot;:&quot;&quot;,&quot;hide_from&quot;:&quot;&quot;,&quot;enable_scheduler&quot;:&quot;1&quot;,&quot;enable_scheduler_txt&quot;:&quot;&quot;,&quot;start_date&quot;:&quot;10/20/2026 3:10 PM&quot;,&quot;end_date&quot;:&quot;11/30/2026 11:55 PM&quot;,&quot;custom_cls_text_head&quot;:&quot;&quot;,&quot;enable_custom_class&quot;:false,&quot;copy_link_code_button&quot;:&quot;Copy Link Code&quot;,&quot;copy_link_cls_code_button&quot;:&quot;&quot;,&quot;custom_class&quot;:&quot;&quot;,&quot;custom_cls_text&quot;:&quot;&quot;}]' ><style id='cp_popup_style_203614' type='text/css'>.cp_style_203614 .cp-popup-content {font-family:inherit;font-style:Normal;font-weight:Normal;}.cp_style_203614 .cp-popup{ background-color:#00876e;border-style:none;border-color:#e1e1e1;border-width:1px 1px 1px 1px;border-radius:0px 0px 0px 0px;toggle:0;}.cp_style_203614 #panel-1-203614 .cp-target:hover { }.cp_style_203614 #panel-1-203614 { }.cp_style_203614 .cp-popup-wrapper .cp-panel-content {max-width:800px;}.cp_style_203614 .cpro-fs-overlay{ }.cp_style_203614 .cp-popup-content { width:800px;height:135px;}@media ( max-width: 767px ) {.cp_style_203614 .cp-popup{ background-color:#00876e;border-style:none;border-color:#e1e1e1;border-width:1px 1px 1px 1px;border-radius:0px 0px 0px 0px;toggle:0;}.cp_style_203614 #panel-1-203614 .cp-target:hover { }.cp_style_203614 #panel-1-203614 { }.cp_style_203614 .cp-popup-wrapper .cp-panel-content {max-width:320px;}.cp_style_203614 .cpro-fs-overlay{ }.cp_style_203614 .cp-popup-content { width:320px;height:100px;}}.cp_style_203614 #toggle-203614 .cp-target { }.cp_style_203614 #toggle-203614 .cp-target:hover { }.cp_style_203614 .cp-open-infobar-toggle{ font-size:16px;}.cp_style_203614 .cp-open-infobar-toggle{ color:#fff;}.cp_style_203614 .cp-open-infobar-toggle{ background-color:#000;}.cp_style_203614 .cp-open-infobar-toggle{ }.cp_style_203614 .cp-open-infobar-toggle{ width:350px;}.cp_style_203614 .cp-open-infobar-toggle{ line-height:50px;height:50px;}.cp_style_203614 #toggle-203614 { }@media ( max-width: 767px ) {.cp_style_203614 #toggle-203614 .cp-target { }.cp_style_203614 #toggle-203614 .cp-target:hover { }.cp_style_203614 .cp-open-infobar-toggle{ font-size:6px;}.cp_style_203614 .cp-open-infobar-toggle{ color:#fff;}.cp_style_203614 .cp-open-infobar-toggle{ background-color:#000;}.cp_style_203614 .cp-open-infobar-toggle{ }.cp_style_203614 .cp-open-infobar-toggle{ width:400px;}.cp_style_203614 .cp-open-infobar-toggle{ line-height:20px;height:20px;}.cp_style_203614 #toggle-203614 { }}.cp_style_203614 .cp-popup .cpro-form .cp-form-input-field{ font-family:inherit;font-style:inherit;font-weight:inherit;font-size:13px;letter-spacing:0px;text-align:left;color:#666;background-color:#fff;border-style:solid;border-width:1px 1px 1px 1px;border-radius:1px 1px 1px 1px;border-color:#bbb;active-border-color:#666;padding:0px 10px 0px 10px;}.cp_style_203614 #form_field-203614 .cp-target:hover { }.cp_style_203614 #form_field-203614 placeholder { color:#666;}.cp_style_203614 .cp-popup .cpro-form .cp-form-input-field input[type='radio'], .cp_style_203614 .cp-popup .cpro-form .cp-form-input-field input[type='checkbox'] {color:#666;background-color:#fff;}.cp_style_203614 .cp-popup .cpro-form .cp-form-input-field:focus {border-color: #666;}.cp_style_203614 .cp-popup .cpro-form .cp-form-input-field::-webkit-input-placeholder {color:#666;}.cp_style_203614 .cp-popup .cpro-form .cp-form-input-field::-moz-placeholder  {color:#666;}.cp_style_203614 .cp-popup .cpro-form .pika-lendar table tbody button:hover { background :#666;}.cp_style_203614 .cp-popup .cpro-form .pika-lendar table tbody .is-selected .pika-button { background :#666;box-shadow : inset 0 1px 3px #666;}.cp_style_203614 #form_field-203614 { }@media ( max-width: 767px ) {.cp_style_203614 .cp-popup .cpro-form .cp-form-input-field{ font-family:inherit;font-style:inherit;font-weight:inherit;font-size:5px;letter-spacing:0px;text-align:left;color:#666;background-color:#fff;border-style:solid;border-width:1px 1px 1px 1px;border-radius:1px 1px 1px 1px;border-color:#bbb;active-border-color:#666;padding:0px 10px 0px 10px;}.cp_style_203614 #form_field-203614 .cp-target:hover { }.cp_style_203614 #form_field-203614 placeholder { color:#666;}.cp_style_203614 .cp-popup .cpro-form .cp-form-input-field input[type='radio'], .cp_style_203614 .cp-popup .cpro-form .cp-form-input-field input[type='checkbox'] {color:#666;background-color:#fff;}.cp_style_203614 .cp-popup .cpro-form .cp-form-input-field:focus {border-color: #666;}.cp_style_203614 .cp-popup .cpro-form .cp-form-input-field::-webkit-input-placeholder {color:#666;}.cp_style_203614 .cp-popup .cpro-form .cp-form-input-field::-moz-placeholder  {color:#666;}.cp_style_203614 .cp-popup .cpro-form .pika-lendar table tbody button:hover { background :#666;}.cp_style_203614 .cp-popup .cpro-form .pika-lendar table tbody .is-selected .pika-button { background :#666;box-shadow : inset 0 1px 3px #666;}.cp_style_203614 #form_field-203614 { }}.cp_style_203614 #cp_heading-1-203614 .cp-target { font-family:Open Sans;font-style:Inherit;font-weight:Inherit;font-size:18px;line-height:1.05;letter-spacing:0;text-align:left;color:#ffffff;width:377px;height:23px;}.cp_style_203614 #cp_heading-1-203614 .cp-target:hover { }.cp_style_203614 #cp_heading-1-203614 .cp-rotate-wrap{ transform:rotate( 0deg);}.cp_style_203614 #cp_heading-1-203614 { left: 23px;top: 23px;z-index:3;}@media ( max-width: 767px ) {.cp_style_203614 #cp_heading-1-203614 .cp-target { font-family:Open Sans;font-style:Inherit;font-weight:Inherit;font-size:11px;line-height:1.05;letter-spacing:0;text-align:left;color:#ffffff;width:254px;height:10px;}.cp_style_203614 #cp_heading-1-203614 .cp-target:hover { }.cp_style_203614 #cp_heading-1-203614 .cp-rotate-wrap{ transform:rotate( 0deg);}.cp_style_203614 #cp_heading-1-203614 { left: 9px;top: 13px;z-index:3;}}.cp_style_203614 #cp_paragraph-2-203614 .cp-target { font-family:inherit;font-style:Inherit;font-weight:Inherit;font-size:13px;line-height:1.6;letter-spacing:0px;text-align:left;color:#ffffff;width:541px;height:61px;}.cp_style_203614 #cp_paragraph-2-203614 .cp-target:hover { }.cp_style_203614 #cp_paragraph-2-203614 .cp-rotate-wrap{ transform:rotate( 0deg);}.cp_style_203614 #cp_paragraph-2-203614 { left: 23px;top: 50px;z-index:5;}@media ( max-width: 767px ) {.cp_style_203614 #cp_paragraph-2-203614 .cp-target { font-family:inherit;font-style:Inherit;font-weight:Inherit;font-size:10px;line-height:1.6;letter-spacing:0px;text-align:left;color:#ffffff;width:297px;height:71px;}.cp_style_203614 #cp_paragraph-2-203614 .cp-target:hover { }.cp_style_203614 #cp_paragraph-2-203614 .cp-rotate-wrap{ transform:rotate( 0deg);}.cp_style_203614 #cp_paragraph-2-203614 { left: 9px;top: 29px;z-index:5;}}.cp_style_203614 #cp_close_text-3-203614 .cp-target { text-align:center;width:60px;height:25px;}.cp_style_203614 #cp_close_text-3-203614 .cp-target:hover { }.cp_style_203614 #cp_close_text-3-203614 .cp-target .cp-close-link { }.cp_style_203614 #cp_close_text-3-203614 .cp-target .cp-close-link { font-family:Open Sans;font-style:700;font-weight:700;}.cp_style_203614 #cp_close_text-3-203614 .cp-target .cp-close-link { font-size:14px;}.cp_style_203614 #cp_close_text-3-203614 .cp-target .cp-close-link { line-height:1.5;}.cp_style_203614 #cp_close_text-3-203614 .cp-target .cp-close-link { letter-spacing:0px;}.cp_style_203614 #cp_close_text-3-203614 .cp-target .cp-close-link { color:#ffffff;}.cp_style_203614 #cp_close_text-3-203614 .cp-target { border-style:none;}.cp_style_203614 #cp_close_text-3-203614 .cp-target ~ .cp-field-shadow { border-style:none;}.cp_style_203614 #cp_close_text-3-203614 .cp-target { border-color:#757575;}.cp_style_203614 #cp_close_text-3-203614 .cp-target ~ .cp-field-shadow { border-color:#757575;}.cp_style_203614 #cp_close_text-3-203614 .cp-target { border-width:1px 1px 1px 1px;}.cp_style_203614 #cp_close_text-3-203614 .cp-target ~ .cp-field-shadow { border-width:1px 1px 1px 1px;}.cp_style_203614 #cp_close_text-3-203614 .cp-target { border-radius:0px 0px 0px 0px;}.cp_style_203614 #cp_close_text-3-203614 .cp-target ~ .cp-field-shadow { border-radius:0px 0px 0px 0px;}.cp_style_203614 #cp_close_text-3-203614 .cp-target > .cp-close-link { border-radius:0px 0px 0px 0px;}.cp_style_203614 #cp_close_text-3-203614 .cp-target > .cp-close-image { border-radius:0px 0px 0px 0px;}.cp_style_203614 #cp_close_text-3-203614 .cp-target { }.cp_style_203614 #cp_close_text-3-203614 .cp-target ~ .cp-field-shadow { }.cp_style_203614 #cp_close_text-3-203614 .cp-rotate-wrap{ transform:rotate( 0deg);}.cp_style_203614 #cp_close_text-3-203614 .cp-target:hover { }.cp_style_203614 #cp_close_text-3-203614 .cp-target:hover ~ .cp-field-shadow { }.cp_style_203614 #cp_close_text-3-203614 { left: 730px;top: 10px;z-index:6;}@media ( max-width: 767px ) {.cp_style_203614 #cp_close_text-3-203614 .cp-target { text-align:center;width:33px;height:14px;}.cp_style_203614 #cp_close_text-3-203614 .cp-target:hover { }.cp_style_203614 #cp_close_text-3-203614 .cp-target .cp-close-link { }.cp_style_203614 #cp_close_text-3-203614 .cp-target .cp-close-link { font-family:Open Sans;font-style:700;font-weight:700;}.cp_style_203614 #cp_close_text-3-203614 .cp-target .cp-close-link { font-size:10px;}.cp_style_203614 #cp_close_text-3-203614 .cp-target .cp-close-link { line-height:1.5;}.cp_style_203614 #cp_close_text-3-203614 .cp-target .cp-close-link { letter-spacing:0px;}.cp_style_203614 #cp_close_text-3-203614 .cp-target .cp-close-link { color:#ffffff;}.cp_style_203614 #cp_close_text-3-203614 .cp-target { border-style:none;}.cp_style_203614 #cp_close_text-3-203614 .cp-target ~ .cp-field-shadow { border-style:none;}.cp_style_203614 #cp_close_text-3-203614 .cp-target { border-color:#757575;}.cp_style_203614 #cp_close_text-3-203614 .cp-target ~ .cp-field-shadow { border-color:#757575;}.cp_style_203614 #cp_close_text-3-203614 .cp-target { border-width:1px 1px 1px 1px;}.cp_style_203614 #cp_close_text-3-203614 .cp-target ~ .cp-field-shadow { border-width:1px 1px 1px 1px;}.cp_style_203614 #cp_close_text-3-203614 .cp-target { border-radius:0px 0px 0px 0px;}.cp_style_203614 #cp_close_text-3-203614 .cp-target ~ .cp-field-shadow { border-radius:0px 0px 0px 0px;}.cp_style_203614 #cp_close_text-3-203614 .cp-target > .cp-close-link { border-radius:0px 0px 0px 0px;}.cp_style_203614 #cp_close_text-3-203614 .cp-target > .cp-close-image { border-radius:0px 0px 0px 0px;}.cp_style_203614 #cp_close_text-3-203614 .cp-target { }.cp_style_203614 #cp_close_text-3-203614 .cp-target ~ .cp-field-shadow { }.cp_style_203614 #cp_close_text-3-203614 .cp-rotate-wrap{ transform:rotate( 0deg);}.cp_style_203614 #cp_close_text-3-203614 .cp-target:hover { }.cp_style_203614 #cp_close_text-3-203614 .cp-target:hover ~ .cp-field-shadow { }.cp_style_203614 #cp_close_text-3-203614 { left: 319px;top: 5px;z-index:6;}}@media ( max-width: 767px ) {.cp_style_203614 .cp-invisible-on-mobile {display: none !important;}}</style>
+					<div class="cp-popup-content cpro-active-step  cp-info_bar cp-top     cp-panel-1" data-entry-animation = "cp-fadeIn"  data-overlay-click ="1" data-title="Announcement" data-module-type="info_bar"  data-step="1"  data-width="800" data-mobile-width="320" data-height="135" data-mobile-height="100" data-mobile-break-pt="767" data-popup-position="top" data-mobile-responsive="yes">
+																				<input type='text' class='cpro-hp-field' name='cpro_hp_feedback_field_203614' value=''>
+							<div class="cpro-form-container">                             
+						<div id="cp_heading-1-203614" class="cp-field-html-data    cp-none cp_has_editor" data-type="cp_heading"      ><div class="cp-rotate-wrap"><div class="cp-target cp-field-element cp-heading tinymce"  name="cp_heading-1"><p><strong>Beware of Doctor Impersonation Online</strong></p></div></div>
+</div><div id="cp_paragraph-2-203614" class="cp-field-html-data    cp-none cp_has_editor" data-type="cp_paragraph" data-field-title="Paragraph"      ><div class="cp-rotate-wrap"><div class="cp-target cp-field-element cp-paragraph tinymce"  name="{{name}}"><p>Scammers may pose as Raffles Medical Group doctors to sell medication on social media. Our doctors will not solicit medication purchases through personal social media accounts. Use our official channels and verify if in doubt.</p></div></div>
+</div><div id="cp_close_text-3-203614" class="cp-field-html-data    cp-none" data-type="cp_close_text" data-field-title="Close Text" data-action="close" data-redirect="{{data-redirect}}"    >
+	<div class="cp-rotate-wrap">
+		<div class="cp-target cp-field-element cp-close-field {{extra-class}}" data-original-title="{{data-tip-title}}" name="cp_close_text-3">
+			<span class="cp-close-link ">Close</span>
+		</div>
+		<div class="cp-field-shadow"></div>
+		
+	</div>
+</div>							</div>              
+														
+						</div><!-- .cp-popup-content -->
+						      
+		<input type="hidden" name="param[date]" value="8 November, 2026" />
+		<input type="hidden" name="action" value="cp_v2_notify_admin" />
+		<input type="hidden" name="style_id" value="203614" />
+						</div>
+							</div><!-- .cp-popup-wrapper -->
+			
+					</div><!-- Modal popup container -->
+			<script type="text/javascript" defer src="data:text/javascript;base64,dmFyIGFsZ29saWEgPSB7ImRlYnVnIjpmYWxzZSwiYXBwbGljYXRpb25faWQiOiI0QjZGVjFUR1pOIiwic2VhcmNoX2FwaV9rZXkiOiI2OTVjNWQ0Nzg3NTNhZmNlOWEwZWUwYjNlMjExYzljYyIsInBvd2VyZWRfYnlfZW5hYmxlZCI6ZmFsc2UsImluc2lnaHRzX2VuYWJsZWQiOmZhbHNlLCJzZWFyY2hfaGl0c19wZXJfcGFnZSI6IjEwIiwicXVlcnkiOiIiLCJpbmRpY2VzIjp7InNlYXJjaGFibGVfcG9zdHMiOnsibmFtZSI6IndwX3NlYXJjaGFibGVfcG9zdHMiLCJpZCI6InNlYXJjaGFibGVfcG9zdHMiLCJlbmFibGVkIjp0cnVlLCJyZXBsaWNhcyI6W119LCJwb3N0c19wb3N0Ijp7Im5hbWUiOiJ3cF9wb3N0c19wb3N0IiwiaWQiOiJwb3N0c19wb3N0IiwiZW5hYmxlZCI6dHJ1ZSwicmVwbGljYXMiOltdfSwicG9zdHNfcGFnZSI6eyJuYW1lIjoid3BfcG9zdHNfcGFnZSIsImlkIjoicG9zdHNfcGFnZSIsImVuYWJsZWQiOnRydWUsInJlcGxpY2FzIjpbXX0sInBvc3RzX2NsaW5pYyI6eyJuYW1lIjoid3BfcG9zdHNfY2xpbmljIiwiaWQiOiJwb3N0c19jbGluaWMiLCJlbmFibGVkIjp0cnVlLCJyZXBsaWNhcyI6W119LCJwb3N0c19kb2N0b3IiOnsibmFtZSI6IndwX3Bvc3RzX2RvY3RvciIsImlkIjoicG9zdHNfZG9jdG9yIiwiZW5hYmxlZCI6dHJ1ZSwicmVwbGljYXMiOltdfSwicG9zdHNfaHRfa2IiOnsibmFtZSI6IndwX3Bvc3RzX2h0X2tiIiwiaWQiOiJwb3N0c19odF9rYiIsImVuYWJsZWQiOnRydWUsInJlcGxpY2FzIjpbXX19LCJhdXRvY29tcGxldGUiOnsic291cmNlcyI6W3siaW5kZXhfaWQiOiJwb3N0c19kb2N0b3IiLCJpbmRleF9uYW1lIjoid3BfcG9zdHNfZG9jdG9yIiwibGFiZWwiOiJEb2N0b3JzIiwiYWRtaW5fbmFtZSI6IkRvY3RvcnMiLCJwb3NpdGlvbiI6MCwibWF4X3N1Z2dlc3Rpb25zIjo1LCJkZWJvdW5jZSI6MCwidG1wbF9zdWdnZXN0aW9uIjoiYXV0b2NvbXBsZXRlLXBvc3Qtc3VnZ2VzdGlvbiIsImVuYWJsZWQiOnRydWV9LHsiaW5kZXhfaWQiOiJwb3N0c19jbGluaWMiLCJpbmRleF9uYW1lIjoid3BfcG9zdHNfY2xpbmljIiwibGFiZWwiOiJDbGluaWNzIiwiYWRtaW5fbmFtZSI6IkNsaW5pY3MiLCJwb3NpdGlvbiI6MSwibWF4X3N1Z2dlc3Rpb25zIjo1LCJkZWJvdW5jZSI6MCwidG1wbF9zdWdnZXN0aW9uIjoiYXV0b2NvbXBsZXRlLXBvc3Qtc3VnZ2VzdGlvbiIsImVuYWJsZWQiOnRydWV9LHsiaW5kZXhfaWQiOiJwb3N0c19wYWdlIiwiaW5kZXhfbmFtZSI6IndwX3Bvc3RzX3BhZ2UiLCJsYWJlbCI6IlNlcnZpY2VzIiwiYWRtaW5fbmFtZSI6IlBhZ2VzIiwicG9zaXRpb24iOjIsIm1heF9zdWdnZXN0aW9ucyI6NSwiZGVib3VuY2UiOjAsInRtcGxfc3VnZ2VzdGlvbiI6ImF1dG9jb21wbGV0ZS1wb3N0LXN1Z2dlc3Rpb24iLCJlbmFibGVkIjp0cnVlfSx7ImluZGV4X2lkIjoicG9zdHNfcG9zdCIsImluZGV4X25hbWUiOiJ3cF9wb3N0c19wb3N0IiwibGFiZWwiOiJBcnRpY2xlcyIsImFkbWluX25hbWUiOiJQb3N0cyIsInBvc2l0aW9uIjozLCJtYXhfc3VnZ2VzdGlvbnMiOjUsImRlYm91bmNlIjowLCJ0bXBsX3N1Z2dlc3Rpb24iOiJhdXRvY29tcGxldGUtcG9zdC1zdWdnZXN0aW9uIiwiZW5hYmxlZCI6dHJ1ZX0seyJpbmRleF9pZCI6InBvc3RzX2h0X2tiIiwiaW5kZXhfbmFtZSI6IndwX3Bvc3RzX2h0X2tiIiwibGFiZWwiOiJGQVFzIiwiYWRtaW5fbmFtZSI6IkFydGljbGVzIiwicG9zaXRpb24iOjEwLCJtYXhfc3VnZ2VzdGlvbnMiOjUsImRlYm91bmNlIjowLCJ0bXBsX3N1Z2dlc3Rpb24iOiJhdXRvY29tcGxldGUtcG9zdC1zdWdnZXN0aW9uIiwiZW5hYmxlZCI6dHJ1ZX1dLCJpbnB1dF9zZWxlY3RvciI6ImlucHV0W25hbWU9J3MnXTpub3QoLm5vLWF1dG9jb21wbGV0ZSk6bm90KCNhZG1pbmJhci1zZWFyY2gpIiwiaW5wdXRfc2VsZWN0b3JfbW9kZXJuIjoiI2F1dG9jb21wbGV0ZSJ9fTs="></script>
+<script type="text/html" id="tmpl-autocomplete-header">
+	<div class="autocomplete-header">
+		<div class="autocomplete-header-title">{{{ data.label }}}</div>
+		<div class="clear"></div>
+	</div>
+</script>
+
+<script type="text/html" id="tmpl-autocomplete-post-suggestion">
+	<a class="suggestion-link" href="{{ data.permalink }}" title="{{ data.post_title }}">
+		<# if ( data.images.thumbnail ) { #>
+			<img class="suggestion-post-thumbnail" src="{{ data.images.thumbnail.url }}" alt="{{ data.post_title }}">
+		<# } #>
+		<div class="suggestion-post-attributes">
+			<span class="suggestion-post-title">
+				{{{ data._highlightResult.post_title.value }}}
+				<# if ( data.rmg_clinic_title ) { #>
+					- {{ data.rmg_clinic_title }}
+				<# } #>
+			</span>
+			<span class="suggestion-post-content">
+				<# if ( data.rmg_clinic_message || data.rmg_doctor_message ) { #>
+					{{ data.rmg_clinic_message }}
+					{{ data.rmg_doctor_message }}
+				<# } else { #>
+					{{{ data._snippetResult['content'].value }}}
+				<# } #>
+			</span>
+		</div>
+			</a>
+</script>
+
+<script type="text/html" id="tmpl-autocomplete-term-suggestion">
+	<a class="suggestion-link" href="{{ data.permalink }}" title="{{ data.name }}">
+		<svg viewBox="0 0 21 21" width="21" height="21">
+			<svg width="21" height="21" viewBox="0 0 21 21">
+				<path
+					d="M4.662 8.72l-1.23 1.23c-.682.682-.68 1.792.004 2.477l5.135 5.135c.7.693 1.8.688 2.48.005l1.23-1.23 5.35-5.346c.31-.31.54-.92.51-1.36l-.32-4.29c-.09-1.09-1.05-2.06-2.15-2.14l-4.3-.33c-.43-.03-1.05.2-1.36.51l-.79.8-2.27 2.28-2.28 2.27zm9.826-.98c.69 0 1.25-.56 1.25-1.25s-.56-1.25-1.25-1.25-1.25.56-1.25 1.25.56 1.25 1.25 1.25z"
+					fill-rule="evenodd"></path>
+			</svg>
+		</svg>
+		<span class="suggestion-post-title">{{{ data._highlightResult.name.value }}}</span>
+	</a>
+</script>
+
+<script type="text/html" id="tmpl-autocomplete-user-suggestion">
+	<a class="suggestion-link user-suggestion-link" href="{{ data.posts_url }}" title="{{ data.display_name }}">
+		<# if ( data.avatar_url ) { #>
+			<img class="suggestion-user-thumbnail" src="{{ data.avatar_url }}" alt="{{ data.display_name }}">
+		<# } #>
+		<span class="suggestion-post-title">{{{ data._highlightResult.display_name.value }}}</span>
+	</a>
+</script>
+
+<script type="text/html" id="tmpl-autocomplete-footer">
+	<div class="autocomplete-footer">
+		<div class="autocomplete-footer-branding">
+			<a href="#" class="algolia-powered-by-link" title="Algolia">
+				<svg width="150px" height="25px" viewBox="0 0 572 64"><path fill="#36395A" d="M16 48.3c-3.4 0-6.3-.6-8.7-1.7A12.4 12.4 0 0 1 1.9 42C.6 40 0 38 0 35.4h6.5a6.7 6.7 0 0 0 3.9 6c1.4.7 3.3 1.1 5.6 1.1 2.2 0 4-.3 5.4-1a7 7 0 0 0 3-2.4 6 6 0 0 0 1-3.4c0-1.5-.6-2.8-1.9-3.7-1.3-1-3.3-1.6-5.9-1.8l-4-.4c-3.7-.3-6.6-1.4-8.8-3.4a10 10 0 0 1-3.3-7.9c0-2.4.6-4.6 1.8-6.4a12 12 0 0 1 5-4.3c2.2-1 4.7-1.6 7.5-1.6s5.5.5 7.6 1.6a12 12 0 0 1 5 4.4c1.2 1.8 1.8 4 1.8 6.7h-6.5a6.4 6.4 0 0 0-3.5-5.9c-1-.6-2.6-1-4.4-1s-3.2.3-4.4 1c-1.1.6-2 1.4-2.6 2.4-.5 1-.8 2-.8 3.1a5 5 0 0 0 1.5 3.6c1 1 2.6 1.7 4.7 1.9l4 .3c2.8.2 5.2.8 7.2 1.8 2.1 1 3.7 2.2 4.9 3.8a9.7 9.7 0 0 1 1.7 5.8c0 2.5-.7 4.7-2 6.6a13 13 0 0 1-5.6 4.4c-2.4 1-5.2 1.6-8.4 1.6Zm35.6 0c-2.6 0-4.8-.4-6.7-1.3a13 13 0 0 1-4.7-3.5 17.1 17.1 0 0 1-3.6-10.4v-1c0-2 .3-3.8 1-5.6a13 13 0 0 1 7.3-8.3 15 15 0 0 1 6.3-1.4A13.2 13.2 0 0 1 64 24.3c1 2.2 1.6 4.6 1.6 7.2V34H39.4v-4.3h21.8l-1.8 2.2c0-2-.3-3.7-.9-5.1a7.3 7.3 0 0 0-2.7-3.4c-1.2-.7-2.7-1.1-4.6-1.1s-3.4.4-4.7 1.3a8 8 0 0 0-2.9 3.6c-.6 1.5-.9 3.3-.9 5.4 0 2 .3 3.7 1 5.3a7.9 7.9 0 0 0 2.8 3.7c1.3.8 3 1.3 5 1.3s3.8-.5 5.1-1.3c1.3-1 2.1-2 2.4-3.2h6a11.8 11.8 0 0 1-7 8.7 16 16 0 0 1-6.4 1.2ZM80 48c-2.2 0-4-.3-5.7-1a8.4 8.4 0 0 1-3.7-3.3 9.7 9.7 0 0 1-1.3-5.2c0-2 .5-3.8 1.5-5.2a9 9 0 0 1 4.3-3.1c1.8-.7 4-1 6.7-1H89v4.1h-7.5c-2 0-3.4.5-4.4 1.4-1 1-1.6 2.1-1.6 3.6s.5 2.7 1.6 3.6c1 1 2.5 1.4 4.4 1.4 1.1 0 2.2-.2 3.2-.7 1-.4 1.9-1 2.6-2 .6-1 1-2.4 1-4.2l1.7 2.1c-.2 2-.7 3.8-1.5 5.2a9 9 0 0 1-3.4 3.3 12 12 0 0 1-5.3 1Zm9.5-.7v-8.8h-1v-10c0-1.8-.5-3.2-1.4-4.1-1-1-2.4-1.4-4.2-1.4a142.9 142.9 0 0 0-10.2.4v-5.6a74.8 74.8 0 0 1 8.6-.4c3 0 5.5.4 7.5 1.2s3.4 2 4.4 3.6c1 1.7 1.4 4 1.4 6.7v18.4h-5Zm12.9 0V17.8h5v12.3h-.2c0-4.2 1-7.4 2.8-9.5a11 11 0 0 1 8.3-3.1h1v5.6h-2a9 9 0 0 0-6.3 2.2c-1.5 1.5-2.2 3.6-2.2 6.4v15.6h-6.4Zm34.4 1a15 15 0 0 1-6.6-1.3c-1.9-.9-3.4-2-4.7-3.5a15.5 15.5 0 0 1-2.7-5c-.6-1.7-1-3.6-1-5.4v-1c0-2 .4-3.8 1-5.6a15 15 0 0 1 2.8-4.9c1.3-1.5 2.8-2.6 4.6-3.5a16.4 16.4 0 0 1 13.3.2c2 1 3.5 2.3 4.8 4a12 12 0 0 1 2 6H144c-.2-1.6-1-3-2.2-4.1a7.5 7.5 0 0 0-5.2-1.7 8 8 0 0 0-4.7 1.3 8 8 0 0 0-2.8 3.6 13.8 13.8 0 0 0 0 10.3c.6 1.5 1.5 2.7 2.8 3.6s2.8 1.3 4.8 1.3c1.5 0 2.7-.2 3.8-.8a7 7 0 0 0 2.6-2c.7-1 1-2 1.2-3.2h6.2a11 11 0 0 1-2 6.2 15.1 15.1 0 0 1-11.8 5.5Zm19.7-1v-40h6.4V31h-1.3c0-3 .4-5.5 1.1-7.6a9.7 9.7 0 0 1 3.5-4.8A9.9 9.9 0 0 1 172 17h.3c3.5 0 6 1.1 7.9 3.5 1.7 2.3 2.6 5.7 2.6 10v16.8h-6.4V29.6c0-2.1-.6-3.8-1.8-5a6.4 6.4 0 0 0-4.8-1.8c-2 0-3.7.7-5 2a7.8 7.8 0 0 0-1.9 5.5v17h-6.4Zm63.8 1a12.2 12.2 0 0 1-10.9-6.2 19 19 0 0 1-1.8-7.3h1.4v12.5h-5.1v-40h6.4v19.8l-2 3.5c.2-3.1.8-5.7 1.9-7.7a11 11 0 0 1 4.4-4.5c1.8-1 3.9-1.5 6.1-1.5a13.4 13.4 0 0 1 12.8 9.1c.7 1.9 1 3.8 1 6v1c0 2.2-.3 4.1-1 6a13.6 13.6 0 0 1-13.2 9.4Zm-1.2-5.5a8.4 8.4 0 0 0 7.9-5c.7-1.5 1.1-3.3 1.1-5.3s-.4-3.8-1.1-5.3a8.7 8.7 0 0 0-3.2-3.6 9.6 9.6 0 0 0-9.2-.2 8.5 8.5 0 0 0-3.3 3.2c-.8 1.4-1.3 3-1.3 5v2.3a9 9 0 0 0 1.3 4.8 9 9 0 0 0 3.4 3c1.4.7 2.8 1 4.4 1Zm27.3 3.9-10-28.9h6.5l9.5 28.9h-6Zm-7.5 12.2v-5.7h4.9c1 0 2-.1 2.9-.4a4 4 0 0 0 2-1.4c.4-.7.9-1.6 1.2-2.7l8.6-30.9h6.2l-9.3 32.4a14 14 0 0 1-2.5 5 8.9 8.9 0 0 1-4 2.8c-1.5.6-3.4.9-5.6.9h-4.4Zm9-12.2v-5.2h6.4v5.2H248Z"></path><path fill="#003DFF" d="M534.4 9.1H528a.8.8 0 0 1-.7-.7V1.8c0-.4.2-.7.6-.8l6.5-1c.4 0 .8.2.9.6v7.8c0 .4-.4.7-.8.7zM428 35.2V.8c0-.5-.3-.8-.7-.8h-.2l-6.4 1c-.4 0-.7.4-.7.8v35c0 1.6 0 11.8 12.3 12.2.5 0 .8-.4.8-.8V43c0-.4-.3-.7-.6-.8-4.5-.5-4.5-6-4.5-7zm106.5-21.8H528c-.4 0-.7.4-.7.8v34c0 .4.3.8.7.8h6.5c.4 0 .8-.4.8-.8v-34c0-.5-.4-.8-.8-.8zm-17.7 21.8V.8c0-.5-.3-.8-.8-.8l-6.5 1c-.4 0-.7.4-.7.8v35c0 1.6 0 11.8 12.3 12.2.4 0 .8-.4.8-.8V43c0-.4-.3-.7-.7-.8-4.4-.5-4.4-6-4.4-7zm-22.2-20.6a16.5 16.5 0 0 1 8.6 9.3c.8 2.2 1.3 4.8 1.3 7.5a19.4 19.4 0 0 1-4.6 12.6 14.8 14.8 0 0 1-5.2 3.6c-2 .9-5.2 1.4-6.8 1.4a21 21 0 0 1-6.7-1.4 15.4 15.4 0 0 1-8.6-9.3 21.3 21.3 0 0 1 0-14.4 15.2 15.2 0 0 1 8.6-9.3c2-.8 4.3-1.2 6.7-1.2s4.6.4 6.7 1.2zm-6.7 27.6c2.7 0 4.7-1 6.2-3s2.2-4.3 2.2-7.8-.7-6.3-2.2-8.3-3.5-3-6.2-3-4.7 1-6.1 3c-1.5 2-2.2 4.8-2.2 8.3s.7 5.8 2.2 7.8 3.5 3 6.2 3zm-88.8-28.8c-6.2 0-11.7 3.3-14.8 8.2a18.6 18.6 0 0 0 4.8 25.2c1.8 1.2 4 1.8 6.2 1.7s.1 0 .1 0h.9c4.2-.7 8-4 9.1-8.1v7.4c0 .4.3.7.8.7h6.4a.7.7 0 0 0 .7-.7V14.2c0-.5-.3-.8-.7-.8h-13.5zm6.3 26.5a9.8 9.8 0 0 1-5.7 2h-.5a10 10 0 0 1-9.2-14c1.4-3.7 5-6.3 9-6.3h6.4v18.3zm152.3-26.5h13.5c.5 0 .8.3.8.7v33.7c0 .4-.3.7-.8.7h-6.4a.7.7 0 0 1-.8-.7v-7.4c-1.2 4-4.8 7.4-9 8h-.1a4.2 4.2 0 0 1-.5.1h-.9a10.3 10.3 0 0 1-7-2.6c-4-3.3-6.5-8.4-6.5-14.2 0-3.7 1-7.2 3-10 3-5 8.5-8.3 14.7-8.3zm.6 28.4c2.2-.1 4.2-.6 5.7-2V21.7h-6.3a9.8 9.8 0 0 0-9 6.4 10.2 10.2 0 0 0 9.1 13.9h.5zM452.8 13.4c-6.2 0-11.7 3.3-14.8 8.2a18.5 18.5 0 0 0 3.6 24.3 10.4 10.4 0 0 0 13 .6c2.2-1.5 3.8-3.7 4.5-6.1v7.8c0 2.8-.8 5-2.2 6.3-1.5 1.5-4 2.2-7.5 2.2l-6-.3c-.3 0-.7.2-.8.5l-1.6 5.5c-.1.4.1.8.5 1h.1c2.8.4 5.5.6 7 .6 6.3 0 11-1.4 14-4.1 2.7-2.5 4.2-6.3 4.5-11.4V14.2c0-.5-.4-.8-.8-.8h-13.5zm6.3 8.2v18.3a9.6 9.6 0 0 1-5.6 2h-1a10.3 10.3 0 0 1-8.8-14c1.4-3.7 5-6.3 9-6.3h6.4zM291 31.5A32 32 0 0 1 322.8 0h30.8c.6 0 1.2.5 1.2 1.2v61.5c0 1.1-1.3 1.7-2.2 1l-19.2-17a18 18 0 0 1-11 3.4 18.1 18.1 0 1 1 18.2-14.8c-.1.4-.5.7-.9.6-.1 0-.3 0-.4-.2l-3.8-3.4c-.4-.3-.6-.8-.7-1.4a12 12 0 1 0-2.4 8.3c.4-.4 1-.5 1.6-.2l14.7 13.1v-46H323a26 26 0 1 0 10 49.7c.8-.4 1.6-.2 2.3.3l3 2.7c.3.2.3.7 0 1l-.2.2a32 32 0 0 1-47.2-28.6z"></path></svg>
+			</a>
+		</div>
+	</div>
+</script>
+
+<script type="text/html" id="tmpl-autocomplete-empty">
+	<div class="autocomplete-empty">
+		No results matched your query 		<span class="empty-query">"{{ data.query }}"</span>
+	</div>
+</script>
+
+<script type="text/javascript">
+	window.addEventListener('load', function () {
+
+		/* Initialize Algolia client */
+		var client = algoliasearch( algolia.application_id, algolia.search_api_key );
+
+		/**
+		 * Algolia hits source method.
+		 *
+		 * This method defines a custom source to use with autocomplete.js.
+		 *
+		 * @param object $index Algolia index object.
+		 * @param object $params Options object to use in search.
+		 */
+		var algoliaHitsSource = function( index, params ) {
+			return function( query, callback ) {
+				index
+					.search( query, params )
+					.then( function( response ) {
+						callback( response.hits, response );
+					})
+					.catch( function( error ) {
+						callback( [] );
+					});
+			}
+		}
+
+		/* Setup autocomplete.js sources */
+		var sources = [];
+		algolia.autocomplete.sources.forEach( function( config, i ) {
+			var suggestion_template = wp.template( config[ 'tmpl_suggestion' ] );
+			sources.push( {
+				source: algoliaHitsSource( client.initIndex( config[ 'index_name' ] ), {
+					hitsPerPage: config[ 'max_suggestions' ],
+					attributesToSnippet: [
+						'rmg_doctor_message:10',
+						'content:10'
+					],
+					highlightPreTag: '__ais-highlight__',
+					highlightPostTag: '__/ais-highlight__'
+				} ),
+				debounce: config['debounce'],
+				templates: {
+					header: function () {
+						return wp.template( 'autocomplete-header' )( {
+							label: _.escape( config[ 'label' ] )
+						} );
+					},
+					suggestion: function ( hit ) {
+						if ( hit.escaped === true ) {
+							return suggestion_template( hit );
+						}
+						hit.escaped = true;
+
+						for ( var key in hit._highlightResult ) {
+							/* We do not deal with arrays. */
+							if ( typeof hit._highlightResult[ key ].value !== 'string' ) {
+								continue;
+							}
+							hit._highlightResult[ key ].value = _.escape( hit._highlightResult[ key ].value );
+							hit._highlightResult[ key ].value = hit._highlightResult[ key ].value.replace( /__ais-highlight__/g, '<em>' ).replace( /__\/ais-highlight__/g, '</em>' );
+						}
+
+						for ( var key in hit._snippetResult ) {
+							/* We do not deal with arrays. */
+							if ( typeof hit._snippetResult[ key ].value !== 'string' ) {
+								continue;
+							}
+
+							hit._snippetResult[ key ].value = _.escape( hit._snippetResult[ key ].value );
+							hit._snippetResult[ key ].value = hit._snippetResult[ key ].value.replace( /__ais-highlight__/g, '<em>' ).replace( /__\/ais-highlight__/g, '</em>' );
+						}
+
+						return suggestion_template( hit );
+					}
+				}
+			} );
+
+		} );
+
+		/* Setup dropdown menus */
+		document.querySelectorAll( algolia.autocomplete.input_selector ).forEach( function( element ) {
+
+			var config = {
+				debug: algolia.debug,
+				hint: false,
+				openOnFocus: true,
+				appendTo: 'body',
+				templates: {
+					empty: wp.template( 'autocomplete-empty' )
+				}
+			};
+
+			if ( algolia.powered_by_enabled ) {
+				config.templates.footer = wp.template( 'autocomplete-footer' );
+			}
+
+			/* Instantiate autocomplete.js */
+			var autocomplete = algoliaAutocomplete( element, config, sources )
+				.on( 'autocomplete:selected', function ( e, suggestion ) {
+					/* Redirect the user when we detect a suggestion selection. */
+					window.location.href = suggestion.permalink ?? suggestion.posts_url; // Users use the `posts_url` property instead of `permalink`.
+				} );
+
+			/* Force the dropdown to be re-drawn on scroll to handle fixed containers. */
+			window.addEventListener( 'scroll', function() {
+				if ( autocomplete.autocomplete.getWrapper().style.display === "block" ) {
+					autocomplete.autocomplete.close();
+					autocomplete.autocomplete.open();
+				}
+			} );
+		} );
+
+		var algoliaPoweredLink = document.querySelector( '.algolia-powered-by-link' );
+		if ( algoliaPoweredLink ) {
+			algoliaPoweredLink.addEventListener( 'click', function( e ) {
+				e.preventDefault();
+				window.location = "https://www.algolia.com/?utm_source=WordPress&utm_medium=extension&utm_content=" + window.location.hostname + "&utm_campaign=poweredby";
+			} );
+		}
+	});
+</script>
+<script id="fl-builder-layout-12486-js" src="https://www.rafflesmedicalgroup.com/wp-content/uploads/bb-plugin/cache/12486-layout.js?ver=ffe3e9d12e7850e2be7669b3745304bf" defer></script>
+<script id="afl-wc-utm-public-js-extra" defer src="data:text/javascript;base64,CnZhciBhZmxfd2NfdXRtX3B1YmxpYyA9IHsiYWpheF91cmwiOiJodHRwczovL3d3dy5yYWZmbGVzbWVkaWNhbGdyb3VwLmNvbS93cC1hZG1pbi9hZG1pbi1hamF4LnBocCIsImFjdGlvbiI6ImFmbF93Y191dG1fdmlldyIsIm5vbmNlIjoiIiwiY29va2llX3ByZWZpeCI6ImFmbF93Y191dG1fIiwiY29va2llX2V4cGlyeSI6eyJkYXlzIjo5MH0sImNvb2tpZV9yZW5ld2FsIjoiZm9yY2UiLCJjb29raWVfY29uc2VudF9jYXRlZ29yeSI6InN0YXRpc3RpY3MiLCJkb21haW5faW5mbyI6eyJkb21haW4iOiJ3d3cucmFmZmxlc21lZGljYWxncm91cC5jb20iLCJwYXRoIjoiLyJ9LCJsYXN0X3RvdWNoX3dpbmRvdyI6IjE4MDAiLCJ3cF9jb25zZW50X2FwaV9lbmFibGVkIjoiIiwidXNlcl9oYXNfYWN0aXZlX2F0dHJpYnV0aW9uIjoiMCJ9OwovLyMgc291cmNlVVJMPWFmbC13Yy11dG0tcHVibGljLWpzLWV4dHJhCg=="></script>
+<script id="afl-wc-utm-public-js" src="https://www.rafflesmedicalgroup.com/wp-content/plugins/afl-wc-utm/public/js/afl-wc-utm-public.min.js?ver=2.5.0" defer></script>
+<script id="imagesloaded-js" src="https://www.rafflesmedicalgroup.com/wp-content/plugins/bb-plugin/js/libs/jquery.imagesloaded.min.js?ver=2.11.2.1" defer></script>
+<script id="jquery-throttle-js" src="https://www.rafflesmedicalgroup.com/wp-content/plugins/bb-plugin/js/libs/jquery.ba-throttle-debounce.min.js?ver=2.11.2.1" defer></script>
+<script id="fl-builder-layout-bundle-050d9e2934328df79d69717503db9d0f-js" src="https://www.rafflesmedicalgroup.com/wp-content/uploads/bb-plugin/cache/050d9e2934328df79d69717503db9d0f-layout-bundle.js?ver=2.11.2.1-1.6.1" defer></script>
+<script id="cb-base-modal-js" src="https://www.rafflesmedicalgroup.com/wp-content/cache/perfmatters/www.rafflesmedicalgroup.com/minify/7f34748a77e9.modal-shim.min.js?ver=1.0.2" defer></script>
+<script id="wdt-custom-avada-js-js-extra" defer src="data:text/javascript;base64,CnZhciB3ZHRfYWpheF9vYmplY3QgPSB7ImFqYXh1cmwiOiJodHRwczovL3d3dy5yYWZmbGVzbWVkaWNhbGdyb3VwLmNvbS93cC1hZG1pbi9hZG1pbi1hamF4LnBocCJ9OwovLyMgc291cmNlVVJMPXdkdC1jdXN0b20tYXZhZGEtanMtanMtZXh0cmEK"></script>
+<script id="wdt-custom-avada-js-js" src="https://www.rafflesmedicalgroup.com/wp-content/cache/perfmatters/www.rafflesmedicalgroup.com/minify/d50a22580b02.wdt-custom-avada-js.min.js?ver=8.0.2" defer></script>
+<script id="gforms_recaptcha_recaptcha-js-extra" defer src="data:text/javascript;base64,CnZhciBnZm9ybXNfcmVjYXB0Y2hhX3JlY2FwdGNoYV9zdHJpbmdzID0geyJub25jZSI6ImUyN2FiYmYxODAiLCJkaXNjb25uZWN0IjoiRGlzY29ubmVjdGluZyIsImNoYW5nZV9jb25uZWN0aW9uX3R5cGUiOiJSZXNldHRpbmciLCJzcGlubmVyIjoiaHR0cHM6Ly93d3cucmFmZmxlc21lZGljYWxncm91cC5jb20vd3AtY29udGVudC9wbHVnaW5zL2dyYXZpdHlmb3Jtcy9pbWFnZXMvc3Bpbm5lci5zdmciLCJjb25uZWN0aW9uX3R5cGUiOiJjbGFzc2ljIiwiZGlzYWJsZV9iYWRnZSI6IiIsImNoYW5nZV9jb25uZWN0aW9uX3R5cGVfdGl0bGUiOiJDaGFuZ2UgQ29ubmVjdGlvbiBUeXBlIiwiY2hhbmdlX2Nvbm5lY3Rpb25fdHlwZV9tZXNzYWdlIjoiQ2hhbmdpbmcgdGhlIGNvbm5lY3Rpb24gdHlwZSB3aWxsIGRlbGV0ZSB5b3VyIGN1cnJlbnQgc2V0dGluZ3MuICBEbyB5b3Ugd2FudCB0byBwcm9jZWVkPyIsImRpc2Nvbm5lY3RfdGl0bGUiOiJEaXNjb25uZWN0IiwiZGlzY29ubmVjdF9tZXNzYWdlIjoiRGlzY29ubmVjdGluZyBmcm9tIHJlQ0FQVENIQSB3aWxsIGRlbGV0ZSB5b3VyIGN1cnJlbnQgc2V0dGluZ3MuICBEbyB5b3Ugd2FudCB0byBwcm9jZWVkPyIsInNpdGVfa2V5IjoiNkxlcTJmY2RBQUFBQUZfNkxYc3FjSWlvRmpsbFR5eWdmNkxuRjZkYiJ9OwovLyMgc291cmNlVVJMPWdmb3Jtc19yZWNhcHRjaGFfcmVjYXB0Y2hhLWpzLWV4dHJhCg=="></script>
+<script id="gforms_recaptcha_recaptcha-js" defer src="data:text/javascript;base64,KGZ1bmN0aW9uKHUpe3ZhciBwLHE9W107ZnVuY3Rpb24gbG9hZCgpe3JldHVybiBwfHwocD1uZXcgUHJvbWlzZShmdW5jdGlvbihvayl7dmFyIHM9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7cy5zcmM9dTtzLmFzeW5jPXRydWU7cy5vbmxvYWQ9ZnVuY3Rpb24oKXt2YXIgZz13aW5kb3cuZ3JlY2FwdGNoYTtnLnJlYWR5KGZ1bmN0aW9uKCl7cS5mb3JFYWNoKGZ1bmN0aW9uKGYpe2YoKX0pO3E9bnVsbDtvayhnKX0pfTtkb2N1bWVudC5oZWFkLmFwcGVuZENoaWxkKHMpfSkpfXdpbmRvdy5ncmVjYXB0Y2hhPXtyZWFkeTpmdW5jdGlvbihmKXtxP3EucHVzaChmKTpmKCl9LGV4ZWN1dGU6ZnVuY3Rpb24oayxvKXtyZXR1cm4gbG9hZCgpLnRoZW4oZnVuY3Rpb24oZyl7cmV0dXJuIGcuZXhlY3V0ZShrLG8pfSl9fTtmdW5jdGlvbiBnbyhlKXtpZihlLnRhcmdldC5jbG9zZXN0JiZlLnRhcmdldC5jbG9zZXN0KCIuZ2Zvcm1fd3JhcHBlciIpKXtsb2FkKCk7ZG9jdW1lbnQucmVtb3ZlRXZlbnRMaXN0ZW5lcigiZm9jdXNpbiIsZ28pfX1kb2N1bWVudC5hZGRFdmVudExpc3RlbmVyKCJmb2N1c2luIixnbyl9KSgiaHR0cHM6XC9cL3d3dy5nb29nbGUuY29tXC9yZWNhcHRjaGFcL2FwaS5qcz9yZW5kZXI9NkxlcTJmY2RBQUFBQUZfNkxYc3FjSWlvRmpsbFR5eWdmNkxuRjZkYiZ2ZXI9Mi4yLjMiKTs="></script>
+<script data-wp-strategy="defer" defer id="gforms_recaptcha_frontend-js" src="https://www.rafflesmedicalgroup.com/wp-content/plugins/gravityformsrecaptcha/js/frontend.min.js?ver=2.2.3"></script>
+<script id="underscore-js" src="https://www.rafflesmedicalgroup.com/wp-includes/js/underscore.min.js?ver=1.13.8" defer></script>
+<script id="wp-util-js-extra" defer src="data:text/javascript;base64,CnZhciBfd3BVdGlsU2V0dGluZ3MgPSB7ImFqYXgiOnsidXJsIjoiL3dwLWFkbWluL2FkbWluLWFqYXgucGhwIn19OwovLyMgc291cmNlVVJMPXdwLXV0aWwtanMtZXh0cmEK"></script>
+<script id="wp-util-js" src="https://www.rafflesmedicalgroup.com/wp-includes/js/wp-util.min.js?ver=7.1.4" defer></script>
+<script id="algolia-search-js" src="https://www.rafflesmedicalgroup.com/wp-content/plugins/wp-search-with-algolia/assets/algoliasearch/dist/algoliasearch-lite.umd.js?ver=3.0.1"></script>
+<script id="algolia-autocomplete-js" src="https://www.rafflesmedicalgroup.com/wp-content/plugins/wp-search-with-algolia/js/autocomplete.js/dist/autocomplete.min.js?ver=3.0.1" defer></script>
+<script id="algolia-autocomplete-noconflict-js" src="https://www.rafflesmedicalgroup.com/wp-content/plugins/wp-search-with-algolia/js/autocomplete-noconflict.js?ver=3.0.1" defer></script>
+<script id="perfmatters-lazy-load-js-before">
+window.lazyLoadOptions={elements_selector:"img[data-src],.perfmatters-lazy,.perfmatters-lazy-css-bg",thresholds:"320px 0px",class_loading:"pmloading",class_loaded:"pmloaded",callback_loaded:function(element){if(element.tagName==="IFRAME"){if(element.classList.contains("pmloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener("LazyLoad::Initialized",function(e){var lazyLoadInstance=e.detail.instance;var target=document.querySelector("body");var observer=new MutationObserver(function(mutations){lazyLoadInstance.update()});var config={childList:!0,subtree:!0};observer.observe(target,config);});
+//# sourceURL=perfmatters-lazy-load-js-before
+</script>
+<script id="perfmatters-lazy-load-js" async src="https://www.rafflesmedicalgroup.com/wp-content/plugins/perfmatters/js/lazyload.min.js?ver=2.6.9"></script>
+<script id="ubermenu-js-extra" defer src="data:text/javascript;base64,CnZhciB1YmVybWVudV9kYXRhID0geyJyZW1vdmVfY29uZmxpY3RzIjoib2ZmIiwicmVwb3NpdGlvbl9vbl9sb2FkIjoib2ZmIiwiaW50ZW50X2RlbGF5IjoiMzAwIiwiaW50ZW50X2ludGVydmFsIjoiMTAwIiwiaW50ZW50X3RocmVzaG9sZCI6IjciLCJzY3JvbGx0b19vZmZzZXQiOiI1MCIsInNjcm9sbHRvX2R1cmF0aW9uIjoiMTAwMCIsInJlc3BvbnNpdmVfYnJlYWtwb2ludCI6Ijk5MiIsImFjY2Vzc2libGUiOiJvbiIsIm1vYmlsZV9tZW51X2NvbGxhcHNlX29uX25hdmlnYXRlIjoib24iLCJyZXRyYWN0b3JfZGlzcGxheV9zdHJhdGVneSI6InJlc3BvbnNpdmUiLCJ0b3VjaF9vZmZfY2xvc2UiOiJvbiIsInN1Ym1lbnVfaW5kaWNhdG9yX2Nsb3NlX21vYmlsZSI6Im9uIiwiY29sbGFwc2VfYWZ0ZXJfc2Nyb2xsIjoib24iLCJ2IjoiMy44LjUiLCJjb25maWd1cmF0aW9ucyI6WyJwcmltYXJ5X25hdmlnYXRpb24iLCJzcGVjaWFsaXN0X2NlbnRyZXMiLCJpbnN1cmFuY2UiLCJkZW50YWwiLCJmYW1pbHlfbWVkaWNpbmUiLCJhY2NpZGVudF9lbWVyZ2VuY3kiLCJ3b21lbiIsImhlYWx0aF9zY3JlZW5pbmciLCJjYW5jZXIiLCJjaGlsZHJlbiIsImNvdW5zZWxsaW5nIiwiZGlhbHlzaXMiLCJkaWFiZXRlc19lbmRvY3JpbmUiLCJlYXJfbm9zZV90aHJvYXQiLCJleWUiLCJmZXJ0aWxpdHkiLCJoZWFydCIsImludGVybmFsX21lZGljaW5lIiwibmV1cm9zY2llbmNlIiwibnVjbGVhcl9tZWRpY2luZSIsIm9ydGhvcGFlZGljIiwicGFpbl9tYW5hZ2VtZW50IiwicmVoYWJpbGl0YXRpb24iLCJza2luX2Flc3RoZXRpY3MiLCJzdXJnZXJ5IiwidXJvbG9neSIsImhvc3BpdGFsIiwiY2FyZWVycyIsImNvcnBvcmF0ZSIsImludmVzdG9yLXJlbGF0aW9ucyIsImludGVybmF0aW9uYWxfY2xpbmljc19iZWlqaW5nIiwiaW50ZXJuYXRpb25hbF9jbGluaWNzX2hrIiwiaW50ZXJuYXRpb25hbF9jbGluaWNzX3NoYW5naGFpIiwiYWZtIiwiY292aWRfMTkiLCJnaHNpIiwicmFmZmxlc19jb25uZWN0IiwiaGVhbHRoY2FyZV9pbnN0aXR1dGUiLCJjb3Jwb3JhdGVfc3ViIiwiaGVhbHRoX3Jlc291cmNlcyIsIjE5YXNjIiwid2VsbG5lc3MtZXZlbnQiLCIiLCJyYWZmbGVzaG9zcGl0YWxzaW5nYXBvcmVjaGluZXNlIiwiNTB0aGFubml2IiwibWFpbiJdLCJhamF4X3VybCI6Imh0dHBzOi8vd3d3LnJhZmZsZXNtZWRpY2FsZ3JvdXAuY29tL3dwLWFkbWluL2FkbWluLWFqYXgucGhwIiwicGx1Z2luX3VybCI6Imh0dHBzOi8vd3d3LnJhZmZsZXNtZWRpY2FsZ3JvdXAuY29tL3dwLWNvbnRlbnQvcGx1Z2lucy91YmVybWVudS8iLCJkaXNhYmxlX21vYmlsZSI6Im9mZiIsInByZWZpeF9ib29zdCI6IiIsInVzZV9jb3JlX3N2Z3MiOiJvZmYiLCJhcmlhX3JvbGVfbmF2aWdhdGlvbiI6Im9mZiIsImFyaWFfbmF2X2xhYmVsIjoib2ZmIiwiYXJpYV9leHBhbmRlZCI6Im9mZiIsImFyaWFfaGFzcG9wdXAiOiJvZmYiLCJhcmlhX2hpZGRlbiI6Im9mZiIsImFyaWFfY29udHJvbHMiOiIiLCJhcmlhX3Jlc3BvbnNpdmVfdG9nZ2xlIjoib2ZmIiwiaWNvbl90YWciOiJpIiwiZXNjX2Nsb3NlX21vYmlsZSI6Im9uIiwia2V5Ym9hcmRfc3VibWVudV90cmlnZ2VyIjoiZW50ZXIiLCJ0aGVtZV9sb2NhdGlvbnMiOnsicHJpbWFyeSI6IlByaW1hcnkgTWVudSJ9fTsKLy8jIHNvdXJjZVVSTD11YmVybWVudS1qcy1leHRyYQo="></script>
+<script id="ubermenu-js" src="https://www.rafflesmedicalgroup.com/wp-content/plugins/ubermenu/assets/js/ubermenu.min.js?ver=3.8.5" defer></script>
+<script id="rmg-waypoints-js" src="https://www.rafflesmedicalgroup.com/wp-content/themes/cb-rafflesmedical/js/noframework.waypoints.min.js?ver=1787663568"></script>
+<script id="rmg-js-cookie-js" src="https://www.rafflesmedicalgroup.com/wp-content/themes/cb-rafflesmedical/js/js.cookie.min.js?ver=1787663568" defer></script>
+<script id="rmg-scripts-js" src="https://www.rafflesmedicalgroup.com/wp-content/cache/perfmatters/www.rafflesmedicalgroup.com/minify/1dba21db3951.scripts.min.js?ver=1787663568" defer></script>
+<script id="cp-popup-script-js-extra" defer src="data:text/javascript;base64,CnZhciBjcF9hamF4ID0geyJ1cmwiOiJodHRwczovL3d3dy5yYWZmbGVzbWVkaWNhbGdyb3VwLmNvbS93cC1hZG1pbi9hZG1pbi1hamF4LnBocCIsImFqYXhfbm9uY2UiOiJlMTQ4NjlmZGEyIiwiYXNzZXRzX3VybCI6Imh0dHBzOi8vd3d3LnJhZmZsZXNtZWRpY2FsZ3JvdXAuY29tL3dwLWNvbnRlbnQvcGx1Z2lucy9jb252ZXJ0cHJvL2Fzc2V0cy8iLCJub3RfY29ubmVjdGVkX3RvX21haWxlciI6IlRoaXMgZm9ybSBpcyBub3QgY29ubmVjdGVkIHdpdGggYW55IG1haWxlciBzZXJ2aWNlISBQbGVhc2UgY29udGFjdCB3ZWIgYWRtaW5pc3RyYXRvci4iLCJ0aW1lcl9sYWJlbHMiOiJZZWFycyxNb250aHMsV2Vla3MsRGF5cyxIb3VycyxNaW51dGVzLFNlY29uZHMiLCJ0aW1lcl9sYWJlbHNfc2luZ3VsYXIiOiJZZWFyLE1vbnRoLFdlZWssRGF5LEhvdXIsTWludXRlLFNlY29uZCIsImltYWdlX29uX3JlYWR5IjoiIiwiY3Byb19teF92YWxpZCI6IjAiLCJpbnZhbGlkX2VtYWlsX2lkIjoiSW52YWxpZCBFbWFpbCBBZGRyZXNzISJ9Owp2YXIgY3BfcHJvID0geyJpbmFjdGl2ZV90aW1lIjoiNjAifTsKdmFyIGNwX3Byb191cmxfY29va2llID0geyJkYXlzIjoiMzAifTsKdmFyIGNwX2dhX29iamVjdCA9IHsiZ2FfYXV0aF90eXBlIjoiZ3RtLWNvZGUiLCJnYV9jYXRlZ29yeV9uYW1lIjoiQ29udmVydCBQcm8iLCJnYV9ldmVudF9uYW1lIjoiQ09OVkVSVFBSTyJ9Owp2YXIgY3BfdjJfYWJfdGVzdHMgPSB7ImNwX3YyX2FiX3Rlc3RzX29iamVjdCI6W119OwovLyMgc291cmNlVVJMPWNwLXBvcHVwLXNjcmlwdC1qcy1leHRyYQo="></script>
+<script id="cp-popup-script-js" defer src="https://www.rafflesmedicalgroup.com/wp-content/plugins/convertpro/assets/modules/js/cp-popup.min.js?ver=1.8.10"></script>
+	
+			<script type="text/javascript" defer src="data:text/javascript;base64,CgoJCQkJalF1ZXJ5KGRvY3VtZW50KS5vbiggImNwX2FmdGVyX2Zvcm1fc3VibWl0IiwgZnVuY3Rpb24oIGUsIGVsZW1lbnQsIHJlc3BvbnNlCgkJCQkJLCBzdHlsZV9zbHVnICkgewoKCQkJCQlpZiggZmFsc2UgPT0gcmVzcG9uc2UuZGF0YS5lcnJvciApIHsKCgkJCQkJCWlmKCAndW5kZWZpbmVkJyAhPT0gdHlwZW9mIHJlc3BvbnNlLmRhdGFbJ2Nmb3hfZGF0YSddICApIHsKCQkJCQkJCXZhciBmb3JtX2RhdGEgPSBKU09OLnBhcnNlKCByZXNwb25zZS5kYXRhWydjZm94X2RhdGEnXSAgKTsKCgkJCQkJCQlmb3JtX2RhdGEub3ZlcndyaXRlX3RhZ3MgPSBmYWxzZTsKCgkJCQkJCQlpZiggJ3VuZGVmaW5lZCcgIT09IHR5cGVvZiBjb252ZXJ0Zm94ICkgewoJCQkJCQkJCWNvbnZlcnRmb3guaWRlbnRpZnkoIGZvcm1fZGF0YSApOwoJCQkJCQkJfQoJCQkJCQl9CgkJCQkJfQoKCQkJCX0pOwoKCgkJCQ=="></script>
+				<script type="text/javascript" defer src="data:text/javascript;base64,CiAgICBqUXVlcnkoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uKCQpIHsKICAgICAgICAkLmZuLm1vdmVJdCA9IGZ1bmN0aW9uKCl7CiAgICAgICAgICAgIHZhciAkd2luZG93ID0gJCh3aW5kb3cpOwogICAgICAgICAgICB2YXIgaW5zdGFuY2VzID0gW107CiAgICAgICAgICAgIAogICAgICAgICAgICAkKHRoaXMpLmVhY2goZnVuY3Rpb24oKXsKICAgICAgICAgICAgICAgIGluc3RhbmNlcy5wdXNoKG5ldyBtb3ZlSXRJdGVtKCQodGhpcykpKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIAogICAgICAgICAgICB3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcigic2Nyb2xsIiwgZnVuY3Rpb24oKXsKICAgICAgICAgICAgICAgIHZhciBzY3JvbGxUb3AgPSAkd2luZG93LnNjcm9sbFRvcCgpOwogICAgICAgICAgICAgICAgaW5zdGFuY2VzLmZvckVhY2goZnVuY3Rpb24oaW5zdCl7CiAgICAgICAgICAgICAgICAgICAgaW5zdC51cGRhdGUoc2Nyb2xsVG9wKTsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9LCB7cGFzc2l2ZTogdHJ1ZX0pOwogICAgICAgIH07CgogICAgICAgIHZhciBtb3ZlSXRJdGVtID0gZnVuY3Rpb24oZWwpewogICAgICAgICAgICB0aGlzLmVsID0gJChlbCk7CiAgICAgICAgICAgIHRoaXMuc3BlZWQgPSBwYXJzZUludCh0aGlzLmVsLmF0dHIoImRhdGEtc2Nyb2xsLXNwZWVkIikpOwogICAgICAgIH07CgogICAgICAgIG1vdmVJdEl0ZW0ucHJvdG90eXBlLnVwZGF0ZSA9IGZ1bmN0aW9uKHNjcm9sbFRvcCl7CiAgICAgICAgICAgIHRoaXMuZWwuY3NzKCJ0cmFuc2Zvcm0iLCAidHJhbnNsYXRlWSgiICsgLShzY3JvbGxUb3AgLyB0aGlzLnNwZWVkKSArICJweCkiKTsKICAgICAgICB9OwoKICAgICAgICAvLyBJbml0aWFsaXphdGlvbgogICAgICAgICQoJ1tkYXRhLXNjcm9sbC1zcGVlZF0nKS5tb3ZlSXQoKTsKICAgIH0pOwo="></script><script defer src="data:text/javascript;base64,alF1ZXJ5KCcudWFiYi1pbmZvYm94LXRleHQudWFiYi10ZXh0LWVkaXRvcjpjb250YWlucygiRW50ZXIgZGVzY3JpcHRpb24gdGV4dCBoZXJlLiBMb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCwgY29uc2VjdGV0dXIgYWRpcGlzY2luZy4gUXVvIGluY2lkdW50IHVsbGFtY28uIiknKS5oaWRlKCk="></script><script defer src="data:text/javascript;base64,KGZ1bmN0aW9uKCl7aWYoTWF0aC5yYW5kb20oKT4uMjV8fCEoJ1BlcmZvcm1hbmNlT2JzZXJ2ZXInIGluIHdpbmRvdyl8fCFQZXJmb3JtYW5jZU9ic2VydmVyLnN1cHBvcnRlZEVudHJ5VHlwZXN8fFBlcmZvcm1hbmNlT2JzZXJ2ZXIuc3VwcG9ydGVkRW50cnlUeXBlcy5pbmRleE9mKCdsYXlvdXQtc2hpZnQnKTwwKXJldHVybjt2YXIgTD1bXSxzZW50PTA7CmZ1bmN0aW9uIHNlbChuKXt2YXIgcD1bXTtmb3IodmFyIGk9MDtuJiZuLm5vZGVUeXBlPT09MSYmaTw0O2krKyxuPW4ucGFyZW50RWxlbWVudCl7dmFyIHM9bi50YWdOYW1lLnRvTG93ZXJDYXNlKCk7aWYobi5pZCl7cC51bnNoaWZ0KHMrJyMnK24uaWQpO2JyZWFrfXZhciBjPSh0eXBlb2Ygbi5jbGFzc05hbWU9PT0nc3RyaW5nJz9uLmNsYXNzTmFtZTonJykudHJpbSgpLnNwbGl0KC9ccysvKS5zbGljZSgwLDIpLmpvaW4oJy4nKTtwLnVuc2hpZnQoYz9zKycuJytjOnMpfXJldHVybiBwLmpvaW4oJz4nKX0KbmV3IFBlcmZvcm1hbmNlT2JzZXJ2ZXIoZnVuY3Rpb24obCl7bC5nZXRFbnRyaWVzKCkuZm9yRWFjaChmdW5jdGlvbihlKXtpZihlLmhhZFJlY2VudElucHV0fHxlLnZhbHVlPC4wMSlyZXR1cm47dmFyIHM9KGUuc291cmNlc3x8W10pLm1hcChmdW5jdGlvbih4KXtyZXR1cm4geC5ub2RlP3NlbCh4Lm5vZGUpOicnfSkuZmlsdGVyKEJvb2xlYW4pWzBdfHwnPyc7TC5wdXNoKHt2OitlLnZhbHVlLnRvRml4ZWQoNCksdDpNYXRoLnJvdW5kKGUuc3RhcnRUaW1lKSxzOnN9KX0pfSkub2JzZXJ2ZSh7dHlwZTonbGF5b3V0LXNoaWZ0JyxidWZmZXJlZDp0cnVlfSk7CmFkZEV2ZW50TGlzdGVuZXIoJ3Zpc2liaWxpdHljaGFuZ2UnLGZ1bmN0aW9uKCl7aWYoZG9jdW1lbnQudmlzaWJpbGl0eVN0YXRlIT09J2hpZGRlbid8fHNlbnR8fCFMLmxlbmd0aClyZXR1cm47c2VudD0xO0wuc29ydChmdW5jdGlvbihhLGIpe3JldHVybiBiLnYtYS52fSk7dmFyIGY9bmV3IEZvcm1EYXRhKCk7Zi5hcHBlbmQoJ2FjdGlvbicsJ3JtZ19jbHMnKTtmLmFwcGVuZCgnZCcsSlNPTi5zdHJpbmdpZnkoe3A6bG9jYXRpb24ucGF0aG5hbWUsdzppbm5lcldpZHRoLGU6TC5zbGljZSgwLDUpfSkpO25hdmlnYXRvci5zZW5kQmVhY29uKCJodHRwczpcL1wvd3d3LnJhZmZsZXNtZWRpY2FsZ3JvdXAuY29tXC93cC1hZG1pblwvYWRtaW4tYWpheC5waHAiLGYpfSl9KSgpOw=="></script>
+					<!-- This is minified version of cp-ga-front.js file located at convertpro-addon/analytics/assets/js/cp-ga-front.js if you want to make changes to this, edit cp-ga-front.js file, minify it and paste code here -->
+				<!-- Escaping not required, as it is hardcoded, not user-generated -->
+
+				<script type="text/javascript" defer src="data:text/javascript;base64,CgkJCQkhZnVuY3Rpb24oZSl7ZSh3aW5kb3cpLm9uKCJjcF9hZnRlcl9wb3B1cF9vcGVuIiwoZnVuY3Rpb24oZSx0LG8sbil7dmFyIGM9alF1ZXJ5KCcuY3AtcG9wdXAtY29udGFpbmVyW2RhdGEtc3R5bGU9ImNwX3N0eWxlXycrbisnIl0nKS5kYXRhKCJzdHlsZXNsdWciKTtjcFVwZGF0ZUltcHJlc3Npb25zKGMpfSkpLGNwVXBkYXRlSW1wcmVzc2lvbnM9ZnVuY3Rpb24oZSl7dmFyIHQ9Y3BfZ2Ffb2JqZWN0LmdhX2NhdGVnb3J5X25hbWU7Y3BDcmVhdGVHb29nbGVBbmFseXRpY0V2ZW50KHQsImltcHJlc3Npb24iLGUpfSxjcElzTW9kdWxlT25TY3JlZW49ZnVuY3Rpb24oZSl7dmFyIHQ9alF1ZXJ5KHdpbmRvdyksbz17dG9wOnQuc2Nyb2xsVG9wKCksbGVmdDp0LnNjcm9sbExlZnQoKX07by5yaWdodD1vLmxlZnQrdC53aWR0aCgpLG8uYm90dG9tPW8udG9wK3QuaGVpZ2h0KCk7dmFyIG49ZS5vZmZzZXQoKTtyZXR1cm4gbi5yaWdodD1uLmxlZnQrZS5vdXRlcldpZHRoKCksbi5ib3R0b209bi50b3ArZS5vdXRlckhlaWdodCgpLCEoby5yaWdodDxuLmxlZnR8fG8ubGVmdD5uLnJpZ2h0fHxvLmJvdHRvbTxuLnRvcHx8by50b3A+bi5ib3R0b20pfSxlKGRvY3VtZW50KS5vbigiY3BfYWZ0ZXJfZm9ybV9zdWJtaXQiLChmdW5jdGlvbihlLHQsbyxuKXtpZighMD09PW8uc3VjY2Vzcyl7dmFyIGM9Y3BfZ2Ffb2JqZWN0LmdhX2NhdGVnb3J5X25hbWU7Y3BDcmVhdGVHb29nbGVBbmFseXRpY0V2ZW50KGMsImNvbnZlcnNpb24iLG4pfX0pKSxjcENyZWF0ZUdvb2dsZUFuYWx5dGljRXZlbnQ9ZnVuY3Rpb24oZSx0LG8pe3ZhciBuPSJndGFnIjt2b2lkIDAhPT1jcF9nYV9vYmplY3QuZ2FfYXV0aF90eXBlJiYiZ3RtLWNvZGUiPT09Y3BfZ2Ffb2JqZWN0LmdhX2F1dGhfdHlwZSYmKG49Imd0bS1jb2RlIiksInVuZGVmaW5lZCIhPXR5cGVvZiBkYXRhTGF5ZXImJiJndG0tY29kZSI9PW4/ZGF0YUxheWVyLnB1c2goe2V2ZW50OmNwX2dhX29iamVjdC5nYV9ldmVudF9uYW1lLGV2ZW50Q2F0ZWdvcnk6ZSxldmVudEFjdGlvbjp0LGV2ZW50TGFiZWw6byxldmVudFZhbHVlOiIxIixub25JbnRlcmFjdGlvbjohMH0pOiJndGFnIj09biYmInVuZGVmaW5lZCIhPXR5cGVvZiBndGFnJiZndGFnKCJldmVudCIsdCx7ZXZlbnRfbGFiZWw6byxldmVudF9jYXRlZ29yeTplLG5vbl9pbnRlcmFjdGlvbjohMH0pfSxjcF90cmFja19pbmxpbmVfbW9kdWxlcz1mdW5jdGlvbigpe2pRdWVyeSgiLmNwLXBvcHVwLWNvbnRhaW5lci5jcC1tb2R1bGUtYmVmb3JlX2FmdGVyLCAuY3AtcG9wdXAtY29udGFpbmVyLmNwLW1vZHVsZS1pbmxpbmUsIC5jcC1wb3B1cC1jb250YWluZXIuY3AtbW9kdWxlLXdpZGdldCIpLmVhY2goKGZ1bmN0aW9uKCl7dmFyIGU9alF1ZXJ5KHRoaXMpO2UuZGF0YSgic3R5bGUiKS5yZXBsYWNlKCJjcF9zdHlsZV8iLCIiKTtpZihjcElzTW9kdWxlT25TY3JlZW4oZSkmJiFlLmhhc0NsYXNzKCJjcC1pbXByZXNzaW9uLWNvdW50ZWQiKSl7dmFyIHQ9ZS5kYXRhKCJzdHlsZXNsdWciKTtjcFVwZGF0ZUltcHJlc3Npb25zKHQpLGUuYWRkQ2xhc3MoImNwLWltcHJlc3Npb24tY291bnRlZCIpfX0pKX0sZShkb2N1bWVudCkucmVhZHkoKGZ1bmN0aW9uKCl7Y3BfdHJhY2tfaW5saW5lX21vZHVsZXMoKX0pKSxlKGRvY3VtZW50KS5vbigic2Nyb2xsIiwoZnVuY3Rpb24oZSl7Y3BfdHJhY2tfaW5saW5lX21vZHVsZXMoKX0pKX0oalF1ZXJ5KTsKCQkJCQ=="></script>
+							<script type="text/javascript" id="wpsp-script-frontend"></script>
+			<script id="perfmatters-delayed-scripts-js">(function(){window.pmDC=0;window.pmDT=15;if(window.pmDT){var e=setTimeout(d,window.pmDT*1e3)}const t=["keydown","mousedown","mousemove","wheel","touchmove","touchstart","touchend"];const n={normal:[],defer:[],async:[]};const o=[];const i=[];var r=false;var a="";window.pmIsClickPending=false;t.forEach(function(e){window.addEventListener(e,d,{passive:true})});if(window.pmDC){window.addEventListener("touchstart",b,{passive:true});window.addEventListener("mousedown",b)}function d(){if(typeof e!=="undefined"){clearTimeout(e)}t.forEach(function(e){window.removeEventListener(e,d,{passive:true})});if(document.readyState==="loading"){document.addEventListener("DOMContentLoaded",s)}else{s()}}async function s(){c();u();f();m();await w(n.normal);await w(n.defer);await w(n.async);await p();document.querySelectorAll("link[data-pmdelayedstyle]").forEach(function(e){e.setAttribute("href",e.getAttribute("data-pmdelayedstyle"))});window.dispatchEvent(new Event("perfmatters-allScriptsLoaded")),E().then(()=>{h()})}function c(){let o={};function e(t,e){function n(e){return o[t].delayedEvents.indexOf(e)>=0?"perfmatters-"+e:e}if(!o[t]){o[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},delayedEvents:[]};t.addEventListener=function(){arguments[0]=n(arguments[0]);o[t].originalFunctions.add.apply(t,arguments)};t.removeEventListener=function(){arguments[0]=n(arguments[0]);o[t].originalFunctions.remove.apply(t,arguments)}}o[t].delayedEvents.push(e)}function t(t,n){const e=t[n];Object.defineProperty(t,n,{get:!e?function(){}:e,set:function(e){t["perfmatters"+n]=e}})}e(document,"DOMContentLoaded");e(window,"DOMContentLoaded");e(window,"load");e(document,"readystatechange");t(document,"onreadystatechange");t(window,"onload")}function u(){let n=window.jQuery;Object.defineProperty(window,"jQuery",{get(){return n},set(t){if(t&&t.fn&&!o.includes(t)){t.fn.ready=t.fn.init.prototype.ready=function(e){if(r){e.bind(document)(t)}else{document.addEventListener("perfmatters-DOMContentLoaded",function(){e.bind(document)(t)})}};const e=t.fn.on;t.fn.on=t.fn.init.prototype.on=function(){if(this[0]===window){function t(e){e=e.split(" ");e=e.map(function(e){if(e==="load"||e.indexOf("load.")===0){return"perfmatters-jquery-load"}else{return e}});e=e.join(" ");return e}if(typeof arguments[0]=="string"||arguments[0]instanceof String){arguments[0]=t(arguments[0])}else if(typeof arguments[0]=="object"){Object.keys(arguments[0]).forEach(function(e){delete Object.assign(arguments[0],{[t(e)]:arguments[0][e]})[e]})}}return e.apply(this,arguments),this};o.push(t)}n=t}})}function f(){document.querySelectorAll("script[type=pmdelayedscript]").forEach(function(e){if(e.hasAttribute("src")){if(e.hasAttribute("defer")&&e.defer!==false){n.defer.push(e)}else if(e.hasAttribute("async")&&e.async!==false){n.async.push(e)}else{n.normal.push(e)}}else{n.normal.push(e)}})}function m(){var o=document.createDocumentFragment();[...n.normal,...n.defer,...n.async].forEach(function(e){var t=e.getAttribute("src");if(t){var n=document.createElement("link");n.href=t;if(e.getAttribute("data-perfmatters-type")=="module"){n.rel="modulepreload"}else{n.rel="preload";n.as="script"}o.appendChild(n)}});document.head.appendChild(o)}async function w(e){var t=e.shift();if(t){await l(t);return w(e)}return Promise.resolve()}async function l(t){await v();return new Promise(function(e){const n=document.createElement("script");[...t.attributes].forEach(function(e){let t=e.nodeName;if(t!=="type"){if(t==="data-perfmatters-type"){t="type"}n.setAttribute(t,e.nodeValue)}});if(t.hasAttribute("src")){n.addEventListener("load",e);n.addEventListener("error",e)}else{n.text=t.text;e()}t.parentNode?t.parentNode.replaceChild(n,t):e()})}async function p(){r=true;await v();document.dispatchEvent(new Event("perfmatters-DOMContentLoaded"));await v();window.dispatchEvent(new Event("perfmatters-DOMContentLoaded"));await v();document.dispatchEvent(new Event("perfmatters-readystatechange"));await v();if(document.perfmattersonreadystatechange){document.perfmattersonreadystatechange()}await v();window.dispatchEvent(new Event("perfmatters-load"));await v();if(window.perfmattersonload){window.perfmattersonload()}await v();o.forEach(function(e){e(window).trigger("perfmatters-jquery-load")})}async function v(){return new Promise(function(e){requestAnimationFrame(e)})}function h(){window.removeEventListener("touchstart",b,{passive:true});window.removeEventListener("mousedown",b);i.forEach(e=>{if(e.target.outerHTML===a){e.target.dispatchEvent(new MouseEvent("click",{view:e.view,bubbles:true,cancelable:true}))}})}function E(){return new Promise(e=>{window.pmIsClickPending?g=e:e()})}function y(){window.pmIsClickPending=true}function g(){window.pmIsClickPending=false}function L(e){e.target.removeEventListener("click",L);C(e.target,"pm-onclick","onclick");i.push(e),e.preventDefault();e.stopPropagation();e.stopImmediatePropagation();g()}function b(e){if(e.target.tagName!=="HTML"){if(!a){a=e.target.outerHTML}window.addEventListener("touchend",A);window.addEventListener("mouseup",A);window.addEventListener("touchmove",k,{passive:true});window.addEventListener("mousemove",k);e.target.addEventListener("click",L);C(e.target,"onclick","pm-onclick");y()}}function k(e){window.removeEventListener("touchend",A);window.removeEventListener("mouseup",A);window.removeEventListener("touchmove",k,{passive:true});window.removeEventListener("mousemove",k);e.target.removeEventListener("click",L);C(e.target,"pm-onclick","onclick");g()}function A(e){window.removeEventListener("touchend",A);window.removeEventListener("mouseup",A);window.removeEventListener("touchmove",k,{passive:true});window.removeEventListener("mousemove",k)}function C(e,t,n){if(e.hasAttribute&&e.hasAttribute(t)){event.target.setAttribute(n,event.target.getAttribute(t));event.target.removeAttribute(t)}}})();</script><script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1007850039" async></script></body>
+</html>
+
+<!-- Performance optimized by Redis Object Cache. Learn more: https://wprediscache.com -->
+
+<!--Cached using Nginx-Helper on 2026-11-08 23:53:42. It took 19 queries executed in 1.167 seconds.-->
+<!--Visit http://wordpress.org/extend/plugins/nginx-helper/faq/ for more details-->

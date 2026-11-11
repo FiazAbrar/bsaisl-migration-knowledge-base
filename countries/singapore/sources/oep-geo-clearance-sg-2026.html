@@ -1,0 +1,2167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="icon" type="image/x-icon" href="https://www.oep.gov.bd/asset/images/gov.png">
+    <meta name="_token" content="1hVBn9UQjD2u1rc8Fp3u6zIU2FVy5v7bIC8MoSKM" url="https://www.oep.gov.bd" />
+    <title>Division Wise Clearance</title>
+    <meta name="description" content="OEP-BMET is a trusted platform for overseas employment, manufacturer registration, and recruitment services.">
+    <meta name="keywords" content="OEP-BMET, Overseas Employment, Manufacturer Registration, Recruitment, BMET">
+    <meta name="author" content="OEP-BMET">
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://www.oep.gov.bd/asset/plugin/fontawesome-pro-6.5.1-web/css/all.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+    <link rel="stylesheet" href="https://www.oep.gov.bd/asset/css/main.css?v=2.6">
+    <!-- Toastr CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet">
+
+        <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.5.0/css/responsive.bootstrap5.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet"/>
+
+    <style>
+        /* === Filter Section === */
+        .form-label { font-weight: 600; margin-bottom: 4px; }
+        #filterBox {
+            background-color: #f9fafb;
+            border-radius: 8px;
+        }
+
+        .select2-container .select2-selection--single {
+            height: 38px;
+            padding: 5px;
+        }
+        .select2-container .select2-selection--multiple {
+            min-height: 38px;
+        }
+
+        /* === Table Styling === */
+        table.dataTable thead th {
+            background-color: #E6F4F1;
+            color: #06555C;
+            font-weight: 600;
+        }
+        table.dataTable tbody tr:hover {
+            background-color: #f1f8f9;
+        }
+        .table { font-size: 0.9rem; }
+
+        .dataTables_wrapper .dataTables_paginate .paginate_button {
+            padding: 0.2rem 0.2rem;
+        }
+
+        .page-item .page-link {
+            background: #fff;
+            color: #06555C;
+            border: 1px solid #06555C;
+            border-radius: 6px;
+            transition: all 0.2s ease-in-out;
+        }
+
+        /* Active (current page) and hover states */
+        .page-item.active .page-link,
+        .page-item .page-link:hover {
+            background: #06555C;
+            color: #fff;
+            border-color: #06555C;
+        }
+
+        /* Disabled buttons */
+        .page-item.disabled .page-link {
+            background: #e9ecef;
+            color: #6c757d;
+            border-color: #dee2e6;
+        }
+
+        .dataTables_filter input[type="search"] {
+            width: 300px !important;
+            max-width: 100%;
+            border: 1px solid #06555C;
+            border-radius: 6px;
+            padding: 6px 10px;
+        }
+
+        .table-responsive { overflow-x: auto; }
+        th, td { white-space: nowrap; }
+
+        @media (max-width: 768px) {
+            .dataTables_wrapper .dataTables_filter {
+                float: none;
+                text-align: left;
+            }
+        }
+    </style>
+    <!-- Custom CSS -->
+</head>
+<body >
+    <!-- Topbar -->
+    <div class="topbar">
+    <div class="container d-flex justify-content-between align-items-center">
+        <!-- Logo -->
+        <div>
+            <a href="https://www.oep.gov.bd">
+                <img src="https://www.oep.gov.bd/asset/images/gov-logo.png" alt="Logo" class="logo" width="150">
+                <span id="site-title" class="d-none d-lg-inline">Overseas Employment Platform</span>
+            </a>
+        </div>
+        <!-- Top-right Section -->
+        <div class="top-right">
+            <a href="https://admin.oep.gov.bd/admin/login" class="login-button">Admin Login</a>
+            <div class="language">
+                <i class="bi bi-globe"></i>
+                <select name="language" class="language_select" style="border: none;" onchange="window.location.href=this.value;">
+                    <option value="https://www.oep.gov.bd/language/bn" >বাংলা</option>
+                    <option value="https://www.oep.gov.bd/language/en" selected>English</option>
+                </select>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg">
+    <div class="container">
+        <!-- Navbar Toggler -->
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <!-- Navbar Links -->
+        <div class="collapse navbar-collapse justify-content-between" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item"><a class="nav-link" href="https://www.oep.gov.bd">Home</a>
+                </li>
+                <li class="nav-item"><a class="nav-link" href="https://www.oep.gov.bd/agencies">Agent List</a>
+                </li>
+                <!-- <li class="nav-item"><a class="nav-link" href="#">Organization</a></li>
+                <li class="nav-item"><a class="nav-link" href="#">Agent</a></li>
+                <li class="nav-item"><a class="nav-link" href="#">Job</a></li>
+                <li class="nav-item"><a class="nav-link" href="#">Notice</a></li> -->
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="jobDropdown" role="button"
+                       data-bs-toggle="dropdown" aria-expanded="false">
+                        Download
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="jobDropdown">
+                        <li><a class="dropdown-item"
+                               href="https://www.oep.gov.bd/pdo-certificate">PDO Certificate</a>
+                        </li>
+                        <li><a class="dropdown-item"
+                               href="https://www.oep.gov.bd/pdo-enrollment-card">PDO Enrollment Card</a>
+                        </li>
+
+
+
+                        <li><a class="dropdown-item"
+                               href="https://www.oep.gov.bd/employee-card">Employee Card</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="ReportMenu" role="button"
+                       data-bs-toggle="dropdown" aria-expanded="false">
+                        Reports
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="ReportMenu">
+                        <li>
+                            <a class="dropdown-item"
+                               href="https://www.oep.gov.bd/reports/country-clearance">Country Clearance</a>
+                        </li>
+                        <li>
+                            <a class="dropdown-item"
+                               href="https://www.oep.gov.bd/reports/geo-clearance-count">Division Wise Clearance</a>
+                        </li>
+
+
+
+
+                    </ul>
+                </li>
+                <li class="nav-item"><a class="nav-link" href="#footer">Contact</a></li>
+            </ul>
+            <!-- Right-aligned Date -->
+            <div class="date-info">
+                রবিবার ২৩শে কার্তিক ১৪৩৩ | Sunday 8th November 2026
+            </div>
+        </div>
+        <span id="site-title" class="d-lg-none">Overseas Employment Platform</span>
+    </div>
+</nav>
+
+    <!-- Main Content -->
+         <section class="my-5">
+        <div class="container">
+            <div class="card">
+                <div class="card-header pb-2">
+                    <h4 class="card-title mb-0">Division Wise Clearance</h4>
+                    <hr class="mt-3">
+                    <div class="rounded border p-3 mb-3" id="filterBox">
+                        <h6 class="fw-bold mb-3">Filter</h6>
+                        <form method="GET" action="https://www.oep.gov.bd/reports/geo-clearance-count">
+                            <div class="row g-3">
+                                <div class="col-md-3">
+                                    <label for="date_from" class="form-label">Approval Date From</label>
+                                    <input type="date" id="date_from" name="date_from" class="form-control"
+                                           value="2026-01-01">
+                                </div>
+                                <div class="col-md-3">
+                                    <label for="date_to" class="form-label">Approval Date To</label>
+
+                                    <input type="date" id="date_to" name="date_to" class="form-control"
+                                           value="2026-11-07">
+                                </div>
+                                <div class="col-md-3">
+                                    <label for="gender_id" class="form-label">Gender</label>
+                                    <select name="gender_id" id="gender_id" class="form-select">
+                                        <option value="">All</option>
+                                                                                    <option value="2"
+                                                >
+                                                Female
+                                            </option>
+                                                                                    <option value="1"
+                                                >
+                                                Male
+                                            </option>
+                                                                                    <option value="3"
+                                                >
+                                                Other
+                                            </option>
+                                                                            </select>
+                                </div>
+                                <div class="col-md-3">
+                                    <label for="division_name" class="form-label">Division</label>
+                                    <select id="division_name" name="division_name" class="select2 form-select">
+                                        <option value="">All</option>
+                                                                                    <option value="1"
+                                                >
+                                                Chattagram
+                                            </option>
+                                                                                    <option value="2"
+                                                >
+                                                Rajshahi
+                                            </option>
+                                                                                    <option value="3"
+                                                >
+                                                Khulna
+                                            </option>
+                                                                                    <option value="4"
+                                                >
+                                                Barisal
+                                            </option>
+                                                                                    <option value="5"
+                                                >
+                                                Sylhet
+                                            </option>
+                                                                                    <option value="6"
+                                                >
+                                                Dhaka
+                                            </option>
+                                                                                    <option value="7"
+                                                >
+                                                Rangpur
+                                            </option>
+                                                                                    <option value="8"
+                                                >
+                                                Mymensingh
+                                            </option>
+                                                                            </select>
+                                </div>
+                                <div class="col-md-3">
+                                    <label for="district_name" class="form-label">District</label>
+                                    <select id="district_name" name="district_name" class="select2 form-select">
+                                        <option value="">All</option>
+                                                                                    <option class="district-option division-1"
+                                                    value="1"
+                                                >
+                                                Comilla
+                                            </option>
+                                                                                    <option class="district-option division-264"
+                                                    value="320"
+                                                >
+                                                1235
+                                            </option>
+                                                                                    <option class="district-option division-265"
+                                                    value="321"
+                                                >
+                                                asacv
+                                            </option>
+                                                                                    <option class="district-option division-266"
+                                                    value="322"
+                                                >
+                                                BRASIL
+                                            </option>
+                                                                                    <option class="district-option division-267"
+                                                    value="323"
+                                                >
+                                                Ambia
+                                            </option>
+                                                                                    <option class="district-option division-268"
+                                                    value="324"
+                                                >
+                                                thalm
+                                            </option>
+                                                                                    <option class="district-option division-269"
+                                                    value="325"
+                                                >
+                                                Al Murabba
+                                            </option>
+                                                                                    <option class="district-option division-270"
+                                                    value="326"
+                                                >
+                                                sd
+                                            </option>
+                                                                                    <option class="district-option division-271"
+                                                    value="327"
+                                                >
+                                                ASE
+                                            </option>
+                                                                                    <option class="district-option division-272"
+                                                    value="328"
+                                                >
+                                                UITS
+                                            </option>
+                                                                                    <option class="district-option division-273"
+                                                    value="329"
+                                                >
+                                                Tampa
+                                            </option>
+                                                                                    <option class="district-option division-274"
+                                                    value="330"
+                                                >
+                                                TUYT
+                                            </option>
+                                                                                    <option class="district-option division-275"
+                                                    value="331"
+                                                >
+                                                Midview City
+                                            </option>
+                                                                                    <option class="district-option division-276"
+                                                    value="332"
+                                                >
+                                                tes1
+                                            </option>
+                                                                                    <option class="district-option division-277"
+                                                    value="333"
+                                                >
+                                                SHI NAEGI
+                                            </option>
+                                                                                    <option class="district-option division-278"
+                                                    value="334"
+                                                >
+                                                CENTRAL
+                                            </option>
+                                                                                    <option class="district-option division-279"
+                                                    value="335"
+                                                >
+                                                Shimo Karako
+                                            </option>
+                                                                                    <option class="district-option division-279"
+                                                    value="336"
+                                                >
+                                                Shimo Karako - 1906
+                                            </option>
+                                                                                    <option class="district-option division-280"
+                                                    value="337"
+                                                >
+                                                Selangor
+                                            </option>
+                                                                                    <option class="district-option division-269"
+                                                    value="338"
+                                                >
+                                                RIYADH
+                                            </option>
+                                                                                    <option class="district-option division-281"
+                                                    value="339"
+                                                >
+                                                DUBAI
+                                            </option>
+                                                                                    <option class="district-option division-282"
+                                                    value="340"
+                                                >
+                                                KUALA LAMPUR
+                                            </option>
+                                                                                    <option class="district-option division-283"
+                                                    value="341"
+                                                >
+                                                Gimpo-si
+                                            </option>
+                                                                                    <option class="district-option division-284"
+                                                    value="342"
+                                                >
+                                                Najma
+                                            </option>
+                                                                                    <option class="district-option division-280"
+                                                    value="343"
+                                                >
+                                                Klang
+                                            </option>
+                                                                                    <option class="district-option division-275"
+                                                    value="344"
+                                                >
+                                                Geylang Road
+                                            </option>
+                                                                                    <option class="district-option division-150"
+                                                    value="346"
+                                                >
+                                                Doha
+                                            </option>
+                                                                                    <option class="district-option division-277"
+                                                    value="347"
+                                                >
+                                                TOKIYO
+                                            </option>
+                                                                                    <option class="district-option division-287"
+                                                    value="348"
+                                                >
+                                                JEDDAH
+                                            </option>
+                                                                                    <option class="district-option division-289"
+                                                    value="349"
+                                                >
+                                                HAIL
+                                            </option>
+                                                                                    <option class="district-option division-290"
+                                                    value="350"
+                                                >
+                                                TABUK
+                                            </option>
+                                                                                    <option class="district-option division-275"
+                                                    value="351"
+                                                >
+                                                Chukang Central
+                                            </option>
+                                                                                    <option class="district-option division-287"
+                                                    value="352"
+                                                >
+                                                MAKKA
+                                            </option>
+                                                                                    <option class="district-option division-291"
+                                                    value="353"
+                                                >
+                                                HAMPSHIRE
+                                            </option>
+                                                                                    <option class="district-option division-293"
+                                                    value="354"
+                                                >
+                                                Urayasu
+                                            </option>
+                                                                                    <option class="district-option division-285"
+                                                    value="355"
+                                                >
+                                                Dammam
+                                            </option>
+                                                                                    <option class="district-option division-281"
+                                                    value="356"
+                                                >
+                                                Deira
+                                            </option>
+                                                                                    <option class="district-option division-294"
+                                                    value="357"
+                                                >
+                                                Buffalo
+                                            </option>
+                                                                                    <option class="district-option division-297"
+                                                    value="358"
+                                                >
+                                                Bistrita
+                                            </option>
+                                                                                    <option class="district-option division-298"
+                                                    value="360"
+                                                >
+                                                MUSCAT
+                                            </option>
+                                                                                    <option class="district-option division-299"
+                                                    value="361"
+                                                >
+                                                KHAMIS
+                                            </option>
+                                                                                    <option class="district-option division-300"
+                                                    value="362"
+                                                >
+                                                Kawasaki-city
+                                            </option>
+                                                                                    <option class="district-option division-1"
+                                                    value="2"
+                                                >
+                                                Feni
+                                            </option>
+                                                                                    <option class="district-option division-195"
+                                                    value="364"
+                                                >
+                                                Sharjah
+                                            </option>
+                                                                                    <option class="district-option division-1"
+                                                    value="3"
+                                                >
+                                                Brahmanbaria
+                                            </option>
+                                                                                    <option class="district-option division-1"
+                                                    value="4"
+                                                >
+                                                Rangamati
+                                            </option>
+                                                                                    <option class="district-option division-1"
+                                                    value="5"
+                                                >
+                                                Noakhali
+                                            </option>
+                                                                                    <option class="district-option division-1"
+                                                    value="6"
+                                                >
+                                                Chandpur
+                                            </option>
+                                                                                    <option class="district-option division-1"
+                                                    value="7"
+                                                >
+                                                Lakshmipur
+                                            </option>
+                                                                                    <option class="district-option division-1"
+                                                    value="8"
+                                                >
+                                                Chattogram
+                                            </option>
+                                                                                    <option class="district-option division-1"
+                                                    value="9"
+                                                >
+                                                Coxsbazar
+                                            </option>
+                                                                                    <option class="district-option division-1"
+                                                    value="10"
+                                                >
+                                                Khagrachhari
+                                            </option>
+                                                                                    <option class="district-option division-1"
+                                                    value="11"
+                                                >
+                                                Bandarban
+                                            </option>
+                                                                                    <option class="district-option division-2"
+                                                    value="12"
+                                                >
+                                                Sirajganj
+                                            </option>
+                                                                                    <option class="district-option division-2"
+                                                    value="13"
+                                                >
+                                                Pabna
+                                            </option>
+                                                                                    <option class="district-option division-2"
+                                                    value="14"
+                                                >
+                                                Bogura
+                                            </option>
+                                                                                    <option class="district-option division-2"
+                                                    value="15"
+                                                >
+                                                Rajshahi
+                                            </option>
+                                                                                    <option class="district-option division-2"
+                                                    value="16"
+                                                >
+                                                Natore
+                                            </option>
+                                                                                    <option class="district-option division-2"
+                                                    value="17"
+                                                >
+                                                Joypurhat
+                                            </option>
+                                                                                    <option class="district-option division-2"
+                                                    value="18"
+                                                >
+                                                Chapainawabganj
+                                            </option>
+                                                                                    <option class="district-option division-2"
+                                                    value="19"
+                                                >
+                                                Naogaon
+                                            </option>
+                                                                                    <option class="district-option division-3"
+                                                    value="20"
+                                                >
+                                                Jashore
+                                            </option>
+                                                                                    <option class="district-option division-3"
+                                                    value="21"
+                                                >
+                                                Satkhira
+                                            </option>
+                                                                                    <option class="district-option division-3"
+                                                    value="22"
+                                                >
+                                                Meherpur
+                                            </option>
+                                                                                    <option class="district-option division-3"
+                                                    value="23"
+                                                >
+                                                Narail
+                                            </option>
+                                                                                    <option class="district-option division-3"
+                                                    value="24"
+                                                >
+                                                Chuadanga
+                                            </option>
+                                                                                    <option class="district-option division-3"
+                                                    value="25"
+                                                >
+                                                Kushtia
+                                            </option>
+                                                                                    <option class="district-option division-3"
+                                                    value="26"
+                                                >
+                                                Magura
+                                            </option>
+                                                                                    <option class="district-option division-3"
+                                                    value="27"
+                                                >
+                                                Khulna
+                                            </option>
+                                                                                    <option class="district-option division-3"
+                                                    value="28"
+                                                >
+                                                Bagerhat
+                                            </option>
+                                                                                    <option class="district-option division-3"
+                                                    value="29"
+                                                >
+                                                Jhenaidah
+                                            </option>
+                                                                                    <option class="district-option division-4"
+                                                    value="30"
+                                                >
+                                                Jhalokati
+                                            </option>
+                                                                                    <option class="district-option division-4"
+                                                    value="31"
+                                                >
+                                                Patuakhali
+                                            </option>
+                                                                                    <option class="district-option division-4"
+                                                    value="32"
+                                                >
+                                                Pirojpur
+                                            </option>
+                                                                                    <option class="district-option division-4"
+                                                    value="33"
+                                                >
+                                                Barisal
+                                            </option>
+                                                                                    <option class="district-option division-4"
+                                                    value="34"
+                                                >
+                                                Bhola
+                                            </option>
+                                                                                    <option class="district-option division-4"
+                                                    value="35"
+                                                >
+                                                Barguna
+                                            </option>
+                                                                                    <option class="district-option division-5"
+                                                    value="36"
+                                                >
+                                                Sylhet
+                                            </option>
+                                                                                    <option class="district-option division-5"
+                                                    value="37"
+                                                >
+                                                Moulvibazar
+                                            </option>
+                                                                                    <option class="district-option division-5"
+                                                    value="38"
+                                                >
+                                                Habiganj
+                                            </option>
+                                                                                    <option class="district-option division-5"
+                                                    value="39"
+                                                >
+                                                Sunamganj
+                                            </option>
+                                                                                    <option class="district-option division-6"
+                                                    value="40"
+                                                >
+                                                Narsingdi
+                                            </option>
+                                                                                    <option class="district-option division-6"
+                                                    value="41"
+                                                >
+                                                Gazipur
+                                            </option>
+                                                                                    <option class="district-option division-6"
+                                                    value="42"
+                                                >
+                                                Shariatpur
+                                            </option>
+                                                                                    <option class="district-option division-6"
+                                                    value="43"
+                                                >
+                                                Narayanganj
+                                            </option>
+                                                                                    <option class="district-option division-6"
+                                                    value="44"
+                                                >
+                                                Tangail
+                                            </option>
+                                                                                    <option class="district-option division-6"
+                                                    value="45"
+                                                >
+                                                Kishoreganj
+                                            </option>
+                                                                                    <option class="district-option division-6"
+                                                    value="46"
+                                                >
+                                                Manikganj
+                                            </option>
+                                                                                    <option class="district-option division-6"
+                                                    value="47"
+                                                >
+                                                Dhaka
+                                            </option>
+                                                                                    <option class="district-option division-6"
+                                                    value="48"
+                                                >
+                                                Munshiganj
+                                            </option>
+                                                                                    <option class="district-option division-6"
+                                                    value="49"
+                                                >
+                                                Rajbari
+                                            </option>
+                                                                                    <option class="district-option division-6"
+                                                    value="50"
+                                                >
+                                                Madaripur
+                                            </option>
+                                                                                    <option class="district-option division-6"
+                                                    value="51"
+                                                >
+                                                Gopalganj
+                                            </option>
+                                                                                    <option class="district-option division-6"
+                                                    value="52"
+                                                >
+                                                Faridpur
+                                            </option>
+                                                                                    <option class="district-option division-7"
+                                                    value="53"
+                                                >
+                                                Panchagarh
+                                            </option>
+                                                                                    <option class="district-option division-7"
+                                                    value="54"
+                                                >
+                                                Dinajpur
+                                            </option>
+                                                                                    <option class="district-option division-7"
+                                                    value="55"
+                                                >
+                                                Lalmonirhat
+                                            </option>
+                                                                                    <option class="district-option division-7"
+                                                    value="56"
+                                                >
+                                                Nilphamari
+                                            </option>
+                                                                                    <option class="district-option division-7"
+                                                    value="57"
+                                                >
+                                                Gaibandha
+                                            </option>
+                                                                                    <option class="district-option division-7"
+                                                    value="58"
+                                                >
+                                                Thakurgaon
+                                            </option>
+                                                                                    <option class="district-option division-7"
+                                                    value="59"
+                                                >
+                                                Rangpur
+                                            </option>
+                                                                                    <option class="district-option division-7"
+                                                    value="60"
+                                                >
+                                                Kurigram
+                                            </option>
+                                                                                    <option class="district-option division-8"
+                                                    value="61"
+                                                >
+                                                Sherpur
+                                            </option>
+                                                                                    <option class="district-option division-8"
+                                                    value="62"
+                                                >
+                                                Mymensingh
+                                            </option>
+                                                                                    <option class="district-option division-8"
+                                                    value="63"
+                                                >
+                                                Jamalpur
+                                            </option>
+                                                                                    <option class="district-option division-8"
+                                                    value="64"
+                                                >
+                                                Netrokona
+                                            </option>
+                                                                            </select>
+                                </div>
+                                <div class="col-md-3">
+                                    <label for="country_name" class="form-label">Country</label>
+                                    <select id="country_name" name="country_name[]" class="select2 form-select" multiple>
+                                        
+                                                                                    <option value="213"
+                                                >
+                                                Cayman Islands
+                                            </option>
+                                                                                    <option value="92"
+                                                >
+                                                Kosovo
+                                            </option>
+                                                                                    <option value="43"
+                                                >
+                                                Cote d&#039;Ivoire
+                                            </option>
+                                                                                    <option value="206"
+                                                >
+                                                Ivory Coast
+                                            </option>
+                                                                                    <option value="207"
+                                                >
+                                                Cook Islands
+                                            </option>
+                                                                                    <option value="1"
+                                                >
+                                                Afghanistan
+                                            </option>
+                                                                                    <option value="211"
+                                                >
+                                                Turks &amp; Caicos Islands
+                                            </option>
+                                                                                    <option value="2"
+                                                >
+                                                Albania
+                                            </option>
+                                                                                    <option value="3"
+                                                >
+                                                Algeria
+                                            </option>
+                                                                                    <option value="4"
+                                                >
+                                                Andorra
+                                            </option>
+                                                                                    <option value="5"
+                                                >
+                                                Angola
+                                            </option>
+                                                                                    <option value="6"
+                                                >
+                                                Antigua and Barbuda
+                                            </option>
+                                                                                    <option value="7"
+                                                >
+                                                Argentina
+                                            </option>
+                                                                                    <option value="8"
+                                                >
+                                                Armenia
+                                            </option>
+                                                                                    <option value="9"
+                                                >
+                                                Australia
+                                            </option>
+                                                                                    <option value="10"
+                                                >
+                                                Austria
+                                            </option>
+                                                                                    <option value="11"
+                                                >
+                                                Azerbaijan
+                                            </option>
+                                                                                    <option value="12"
+                                                >
+                                                Bahamas
+                                            </option>
+                                                                                    <option value="13"
+                                                >
+                                                Bahrain
+                                            </option>
+                                                                                    <option value="15"
+                                                >
+                                                Barbados
+                                            </option>
+                                                                                    <option value="16"
+                                                >
+                                                Belarus
+                                            </option>
+                                                                                    <option value="17"
+                                                >
+                                                Belgium
+                                            </option>
+                                                                                    <option value="18"
+                                                >
+                                                Belize
+                                            </option>
+                                                                                    <option value="19"
+                                                >
+                                                Benin
+                                            </option>
+                                                                                    <option value="212"
+                                                >
+                                                Bermuda
+                                            </option>
+                                                                                    <option value="20"
+                                                >
+                                                Bhutan
+                                            </option>
+                                                                                    <option value="21"
+                                                >
+                                                Bolivia
+                                            </option>
+                                                                                    <option value="22"
+                                                >
+                                                Bosnia and Herzegovina
+                                            </option>
+                                                                                    <option value="23"
+                                                >
+                                                Botswana
+                                            </option>
+                                                                                    <option value="24"
+                                                >
+                                                Brazil
+                                            </option>
+                                                                                    <option value="25"
+                                                >
+                                                Brunei
+                                            </option>
+                                                                                    <option value="26"
+                                                >
+                                                Bulgaria
+                                            </option>
+                                                                                    <option value="27"
+                                                >
+                                                Burkina Faso
+                                            </option>
+                                                                                    <option value="28"
+                                                >
+                                                Burundi
+                                            </option>
+                                                                                    <option value="29"
+                                                >
+                                                Cabo Verde
+                                            </option>
+                                                                                    <option value="30"
+                                                >
+                                                Cambodia
+                                            </option>
+                                                                                    <option value="31"
+                                                >
+                                                Cameroon
+                                            </option>
+                                                                                    <option value="32"
+                                                >
+                                                Canada
+                                            </option>
+                                                                                    <option value="33"
+                                                >
+                                                Central African Republic (CAR)
+                                            </option>
+                                                                                    <option value="34"
+                                                >
+                                                Chad
+                                            </option>
+                                                                                    <option value="35"
+                                                >
+                                                Chile
+                                            </option>
+                                                                                    <option value="36"
+                                                >
+                                                China
+                                            </option>
+                                                                                    <option value="37"
+                                                >
+                                                Colombia
+                                            </option>
+                                                                                    <option value="38"
+                                                >
+                                                Comoros
+                                            </option>
+                                                                                    <option value="40"
+                                                >
+                                                Congo
+                                            </option>
+                                                                                    <option value="42"
+                                                >
+                                                Costa Rica
+                                            </option>
+                                                                                    <option value="44"
+                                                >
+                                                Croatia
+                                            </option>
+                                                                                    <option value="45"
+                                                >
+                                                Cuba
+                                            </option>
+                                                                                    <option value="46"
+                                                >
+                                                Cyprus
+                                            </option>
+                                                                                    <option value="47"
+                                                >
+                                                Czechia
+                                            </option>
+                                                                                    <option value="48"
+                                                >
+                                                Denmark
+                                            </option>
+                                                                                    <option value="49"
+                                                >
+                                                Djibouti
+                                            </option>
+                                                                                    <option value="50"
+                                                >
+                                                Dominica
+                                            </option>
+                                                                                    <option value="51"
+                                                >
+                                                Dominican Republic
+                                            </option>
+                                                                                    <option value="52"
+                                                >
+                                                Ecuador
+                                            </option>
+                                                                                    <option value="53"
+                                                >
+                                                Egypt
+                                            </option>
+                                                                                    <option value="54"
+                                                >
+                                                El Salvador
+                                            </option>
+                                                                                    <option value="55"
+                                                >
+                                                Equatorial Guinea
+                                            </option>
+                                                                                    <option value="56"
+                                                >
+                                                Eritrea
+                                            </option>
+                                                                                    <option value="57"
+                                                >
+                                                Estonia
+                                            </option>
+                                                                                    <option value="58"
+                                                >
+                                                Eswatini (formerly Swaziland)
+                                            </option>
+                                                                                    <option value="59"
+                                                >
+                                                Ethiopia
+                                            </option>
+                                                                                    <option value="60"
+                                                >
+                                                Fiji
+                                            </option>
+                                                                                    <option value="61"
+                                                >
+                                                Finland
+                                            </option>
+                                                                                    <option value="62"
+                                                >
+                                                France
+                                            </option>
+                                                                                    <option value="63"
+                                                >
+                                                Gabon
+                                            </option>
+                                                                                    <option value="64"
+                                                >
+                                                Gambia
+                                            </option>
+                                                                                    <option value="65"
+                                                >
+                                                Georgia
+                                            </option>
+                                                                                    <option value="66"
+                                                >
+                                                Germany
+                                            </option>
+                                                                                    <option value="68"
+                                                >
+                                                Ghana
+                                            </option>
+                                                                                    <option value="69"
+                                                >
+                                                Greece
+                                            </option>
+                                                                                    <option value="70"
+                                                >
+                                                Grenada
+                                            </option>
+                                                                                    <option value="71"
+                                                >
+                                                Guatemala
+                                            </option>
+                                                                                    <option value="72"
+                                                >
+                                                Guinea
+                                            </option>
+                                                                                    <option value="73"
+                                                >
+                                                Guinea-Bissau
+                                            </option>
+                                                                                    <option value="74"
+                                                >
+                                                Guyana
+                                            </option>
+                                                                                    <option value="75"
+                                                >
+                                                Haiti
+                                            </option>
+                                                                                    <option value="76"
+                                                >
+                                                Honduras
+                                            </option>
+                                                                                    <option value="210"
+                                                >
+                                                Hong Kong
+                                            </option>
+                                                                                    <option value="77"
+                                                >
+                                                Hungary
+                                            </option>
+                                                                                    <option value="78"
+                                                >
+                                                Iceland
+                                            </option>
+                                                                                    <option value="79"
+                                                >
+                                                India
+                                            </option>
+                                                                                    <option value="80"
+                                                >
+                                                Indonesia
+                                            </option>
+                                                                                    <option value="81"
+                                                >
+                                                Iran
+                                            </option>
+                                                                                    <option value="82"
+                                                >
+                                                Iraq
+                                            </option>
+                                                                                    <option value="83"
+                                                >
+                                                Ireland
+                                            </option>
+                                                                                    <option value="84"
+                                                >
+                                                Israel
+                                            </option>
+                                                                                    <option value="85"
+                                                >
+                                                Italy
+                                            </option>
+                                                                                    <option value="86"
+                                                >
+                                                Jamaica
+                                            </option>
+                                                                                    <option value="87"
+                                                >
+                                                Japan
+                                            </option>
+                                                                                    <option value="88"
+                                                >
+                                                Jordan
+                                            </option>
+                                                                                    <option value="89"
+                                                >
+                                                Kazakhstan
+                                            </option>
+                                                                                    <option value="90"
+                                                >
+                                                Kenya
+                                            </option>
+                                                                                    <option value="91"
+                                                >
+                                                Kiribati
+                                            </option>
+                                                                                    <option value="93"
+                                                >
+                                                Kuwait
+                                            </option>
+                                                                                    <option value="94"
+                                                >
+                                                Kyrgyzstan
+                                            </option>
+                                                                                    <option value="95"
+                                                >
+                                                Laos
+                                            </option>
+                                                                                    <option value="96"
+                                                >
+                                                Latvia
+                                            </option>
+                                                                                    <option value="97"
+                                                >
+                                                Lebanon
+                                            </option>
+                                                                                    <option value="98"
+                                                >
+                                                Lesotho
+                                            </option>
+                                                                                    <option value="99"
+                                                >
+                                                Liberia
+                                            </option>
+                                                                                    <option value="100"
+                                                >
+                                                Libya
+                                            </option>
+                                                                                    <option value="101"
+                                                >
+                                                Liechtenstein
+                                            </option>
+                                                                                    <option value="102"
+                                                >
+                                                Lithuania
+                                            </option>
+                                                                                    <option value="103"
+                                                >
+                                                Luxembourg
+                                            </option>
+                                                                                    <option value="209"
+                                                >
+                                                Macau
+                                            </option>
+                                                                                    <option value="104"
+                                                >
+                                                Madagascar
+                                            </option>
+                                                                                    <option value="105"
+                                                >
+                                                Malawi
+                                            </option>
+                                                                                    <option value="106"
+                                                >
+                                                Malaysia
+                                            </option>
+                                                                                    <option value="107"
+                                                >
+                                                Maldives
+                                            </option>
+                                                                                    <option value="108"
+                                                >
+                                                Mali
+                                            </option>
+                                                                                    <option value="109"
+                                                >
+                                                Malta
+                                            </option>
+                                                                                    <option value="110"
+                                                >
+                                                Marshall Islands
+                                            </option>
+                                                                                    <option value="111"
+                                                >
+                                                Mauritania
+                                            </option>
+                                                                                    <option value="112"
+                                                >
+                                                Mauritius
+                                            </option>
+                                                                                    <option value="113"
+                                                >
+                                                Mexico
+                                            </option>
+                                                                                    <option value="114"
+                                                >
+                                                Micronesia
+                                            </option>
+                                                                                    <option value="115"
+                                                >
+                                                Moldova
+                                            </option>
+                                                                                    <option value="116"
+                                                >
+                                                Monaco
+                                            </option>
+                                                                                    <option value="117"
+                                                >
+                                                Mongolia
+                                            </option>
+                                                                                    <option value="118"
+                                                >
+                                                Montenegro
+                                            </option>
+                                                                                    <option value="119"
+                                                >
+                                                Morocco
+                                            </option>
+                                                                                    <option value="120"
+                                                >
+                                                Mozambique
+                                            </option>
+                                                                                    <option value="121"
+                                                >
+                                                Myanmar (formerly Burma)
+                                            </option>
+                                                                                    <option value="122"
+                                                >
+                                                Namibia
+                                            </option>
+                                                                                    <option value="123"
+                                                >
+                                                Nauru
+                                            </option>
+                                                                                    <option value="124"
+                                                >
+                                                Nepal
+                                            </option>
+                                                                                    <option value="125"
+                                                >
+                                                Netherlands
+                                            </option>
+                                                                                    <option value="126"
+                                                >
+                                                New Zealand
+                                            </option>
+                                                                                    <option value="127"
+                                                >
+                                                Nicaragua
+                                            </option>
+                                                                                    <option value="128"
+                                                >
+                                                Niger
+                                            </option>
+                                                                                    <option value="129"
+                                                >
+                                                Nigeria
+                                            </option>
+                                                                                    <option value="130"
+                                                >
+                                                North Korea
+                                            </option>
+                                                                                    <option value="131"
+                                                >
+                                                North Macedonia (formerly Macedonia)
+                                            </option>
+                                                                                    <option value="132"
+                                                >
+                                                Norway
+                                            </option>
+                                                                                    <option value="133"
+                                                >
+                                                Oman
+                                            </option>
+                                                                                    <option value="134"
+                                                >
+                                                Pakistan
+                                            </option>
+                                                                                    <option value="135"
+                                                >
+                                                Palau
+                                            </option>
+                                                                                    <option value="136"
+                                                >
+                                                Palestine
+                                            </option>
+                                                                                    <option value="137"
+                                                >
+                                                Panama
+                                            </option>
+                                                                                    <option value="138"
+                                                >
+                                                Papua New Guinea
+                                            </option>
+                                                                                    <option value="139"
+                                                >
+                                                Paraguay
+                                            </option>
+                                                                                    <option value="140"
+                                                >
+                                                Peru
+                                            </option>
+                                                                                    <option value="141"
+                                                >
+                                                Philippines
+                                            </option>
+                                                                                    <option value="142"
+                                                >
+                                                Poland
+                                            </option>
+                                                                                    <option value="143"
+                                                >
+                                                Portugal
+                                            </option>
+                                                                                    <option value="144"
+                                                >
+                                                Qatar
+                                            </option>
+                                                                                    <option value="145"
+                                                >
+                                                Romania
+                                            </option>
+                                                                                    <option value="146"
+                                                >
+                                                Russian Federation
+                                            </option>
+                                                                                    <option value="147"
+                                                >
+                                                Rwanda
+                                            </option>
+                                                                                    <option value="148"
+                                                >
+                                                Saint Kitts and Nevis
+                                            </option>
+                                                                                    <option value="149"
+                                                >
+                                                Saint Lucia
+                                            </option>
+                                                                                    <option value="150"
+                                                >
+                                                Saint Vincent and the Grenadines
+                                            </option>
+                                                                                    <option value="151"
+                                                >
+                                                Samoa
+                                            </option>
+                                                                                    <option value="152"
+                                                >
+                                                San Marino
+                                            </option>
+                                                                                    <option value="153"
+                                                >
+                                                Sao Tome and Principe
+                                            </option>
+                                                                                    <option value="154"
+                                                >
+                                                Saudi Arabia
+                                            </option>
+                                                                                    <option value="155"
+                                                >
+                                                Senegal
+                                            </option>
+                                                                                    <option value="156"
+                                                >
+                                                Serbia
+                                            </option>
+                                                                                    <option value="157"
+                                                >
+                                                Seychelles
+                                            </option>
+                                                                                    <option value="158"
+                                                >
+                                                Sierra Leone
+                                            </option>
+                                                                                    <option value="159"
+                                                selected>
+                                                Singapore
+                                            </option>
+                                                                                    <option value="160"
+                                                >
+                                                Slovakia
+                                            </option>
+                                                                                    <option value="161"
+                                                >
+                                                Slovenia
+                                            </option>
+                                                                                    <option value="162"
+                                                >
+                                                Solomon Islands
+                                            </option>
+                                                                                    <option value="163"
+                                                >
+                                                Somalia
+                                            </option>
+                                                                                    <option value="164"
+                                                >
+                                                South Africa
+                                            </option>
+                                                                                    <option value="165"
+                                                >
+                                                South Korea
+                                            </option>
+                                                                                    <option value="166"
+                                                >
+                                                South Sudan
+                                            </option>
+                                                                                    <option value="167"
+                                                >
+                                                Spain
+                                            </option>
+                                                                                    <option value="168"
+                                                >
+                                                Sri Lanka
+                                            </option>
+                                                                                    <option value="169"
+                                                >
+                                                Sudan
+                                            </option>
+                                                                                    <option value="170"
+                                                >
+                                                Suriname
+                                            </option>
+                                                                                    <option value="171"
+                                                >
+                                                Sweden
+                                            </option>
+                                                                                    <option value="172"
+                                                >
+                                                Switzerland
+                                            </option>
+                                                                                    <option value="173"
+                                                >
+                                                Syria
+                                            </option>
+                                                                                    <option value="174"
+                                                >
+                                                Taiwan
+                                            </option>
+                                                                                    <option value="175"
+                                                >
+                                                Tajikistan
+                                            </option>
+                                                                                    <option value="176"
+                                                >
+                                                Tanzania
+                                            </option>
+                                                                                    <option value="177"
+                                                >
+                                                Thailand
+                                            </option>
+                                                                                    <option value="178"
+                                                >
+                                                Timor-Leste
+                                            </option>
+                                                                                    <option value="179"
+                                                >
+                                                Togo
+                                            </option>
+                                                                                    <option value="180"
+                                                >
+                                                Tonga
+                                            </option>
+                                                                                    <option value="181"
+                                                >
+                                                Trinidad and Tobago
+                                            </option>
+                                                                                    <option value="182"
+                                                >
+                                                Tunisia
+                                            </option>
+                                                                                    <option value="183"
+                                                >
+                                                Turkey
+                                            </option>
+                                                                                    <option value="184"
+                                                >
+                                                Turkmenistan
+                                            </option>
+                                                                                    <option value="185"
+                                                >
+                                                Tuvalu
+                                            </option>
+                                                                                    <option value="186"
+                                                >
+                                                Uganda
+                                            </option>
+                                                                                    <option value="187"
+                                                >
+                                                Ukraine
+                                            </option>
+                                                                                    <option value="188"
+                                                >
+                                                United Arab Emirates (UAE)
+                                            </option>
+                                                                                    <option value="189"
+                                                >
+                                                United Kingdom (UK)
+                                            </option>
+                                                                                    <option value="190"
+                                                >
+                                                United States of America (USA)
+                                            </option>
+                                                                                    <option value="191"
+                                                >
+                                                Uruguay
+                                            </option>
+                                                                                    <option value="192"
+                                                >
+                                                Uzbekistan
+                                            </option>
+                                                                                    <option value="193"
+                                                >
+                                                Vanuatu
+                                            </option>
+                                                                                    <option value="194"
+                                                >
+                                                Vatican City (Holy See)
+                                            </option>
+                                                                                    <option value="195"
+                                                >
+                                                Venezuela
+                                            </option>
+                                                                                    <option value="196"
+                                                >
+                                                Vietnam
+                                            </option>
+                                                                                    <option value="197"
+                                                >
+                                                Yemen
+                                            </option>
+                                                                                    <option value="198"
+                                                >
+                                                Zambia
+                                            </option>
+                                                                                    <option value="199"
+                                                >
+                                                Zimbabwe
+                                            </option>
+                                                                            </select>
+                                </div>
+                                <div class="col-md-3 d-flex align-items-end">
+                                    <button type="submit" class="btn btn-outline-secondary me-2">
+                                        <i class="fa-solid fa-magnifying-glass"></i> Search
+                                    </button>
+                                    <button type="submit" name="export" value="csv" class="btn btn-success">
+                                        <i class="fa-solid fa-download"></i> Export
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+                <!-- Table -->
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table id="geoTable" class="table table-bordered table-striped table-sm w-100 nowrap">
+                            <thead>
+                            <tr>
+                                <th>#SL</th>
+                                <th>Division</th>
+                                <th>District</th>
+                                <th>Total</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                                                                                                                        <tr>
+                                    <td>1</td>
+                                    <td>Dhaka</td>
+                                    <td>Tangail</td>
+                                    <td>10137</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>2</td>
+                                    <td>Dhaka</td>
+                                    <td>Munshiganj</td>
+                                    <td>4513</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>3</td>
+                                    <td>Chattagram</td>
+                                    <td>Comilla</td>
+                                    <td>3940</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>4</td>
+                                    <td>Khulna</td>
+                                    <td>Meherpur</td>
+                                    <td>2894</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>5</td>
+                                    <td>Dhaka</td>
+                                    <td>Gazipur</td>
+                                    <td>2634</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>6</td>
+                                    <td>Rajshahi</td>
+                                    <td>Pabna</td>
+                                    <td>2254</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>7</td>
+                                    <td>Chattagram</td>
+                                    <td>Chandpur</td>
+                                    <td>2082</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>8</td>
+                                    <td>Mymensingh</td>
+                                    <td>Jamalpur</td>
+                                    <td>2026</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>9</td>
+                                    <td>Dhaka</td>
+                                    <td>Dhaka</td>
+                                    <td>1883</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>10</td>
+                                    <td>Khulna</td>
+                                    <td>Kushtia</td>
+                                    <td>1859</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>11</td>
+                                    <td>Dhaka</td>
+                                    <td>Rajbari</td>
+                                    <td>1611</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>12</td>
+                                    <td>Dhaka</td>
+                                    <td>Narayanganj</td>
+                                    <td>1606</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>13</td>
+                                    <td>Mymensingh</td>
+                                    <td>Mymensingh</td>
+                                    <td>1553</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>14</td>
+                                    <td>Khulna</td>
+                                    <td>Jhenaidah</td>
+                                    <td>1529</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>15</td>
+                                    <td>Khulna</td>
+                                    <td>Jashore</td>
+                                    <td>1494</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>16</td>
+                                    <td>Chattagram</td>
+                                    <td>Brahmanbaria</td>
+                                    <td>1419</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>17</td>
+                                    <td>Dhaka</td>
+                                    <td>Manikganj</td>
+                                    <td>1354</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>18</td>
+                                    <td>Dhaka</td>
+                                    <td>Faridpur</td>
+                                    <td>1282</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>19</td>
+                                    <td>Khulna</td>
+                                    <td>Chuadanga</td>
+                                    <td>1274</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>20</td>
+                                    <td>Dhaka</td>
+                                    <td>Madaripur</td>
+                                    <td>1113</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>21</td>
+                                    <td>Dhaka</td>
+                                    <td>Narsingdi</td>
+                                    <td>1034</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>22</td>
+                                    <td>Rajshahi</td>
+                                    <td>Bogura</td>
+                                    <td>1019</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>23</td>
+                                    <td>Rajshahi</td>
+                                    <td>Sirajganj</td>
+                                    <td>1007</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>24</td>
+                                    <td>Dhaka</td>
+                                    <td>Kishoreganj</td>
+                                    <td>937</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>25</td>
+                                    <td>Dhaka</td>
+                                    <td>Shariatpur</td>
+                                    <td>850</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>26</td>
+                                    <td>Mymensingh</td>
+                                    <td>Sherpur</td>
+                                    <td>784</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>27</td>
+                                    <td>Dhaka</td>
+                                    <td>Gopalganj</td>
+                                    <td>770</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>28</td>
+                                    <td>Rajshahi</td>
+                                    <td>Rajshahi</td>
+                                    <td>727</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>29</td>
+                                    <td>Rajshahi</td>
+                                    <td>Naogaon</td>
+                                    <td>709</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>30</td>
+                                    <td>Mymensingh</td>
+                                    <td>Netrokona</td>
+                                    <td>703</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>31</td>
+                                    <td>Rangpur</td>
+                                    <td>Kurigram</td>
+                                    <td>672</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>32</td>
+                                    <td>Barisal</td>
+                                    <td>Barisal</td>
+                                    <td>671</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>33</td>
+                                    <td>Rajshahi</td>
+                                    <td>Natore</td>
+                                    <td>666</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>34</td>
+                                    <td>Barisal</td>
+                                    <td>Bhola</td>
+                                    <td>641</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>35</td>
+                                    <td>Khulna</td>
+                                    <td>Magura</td>
+                                    <td>636</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>36</td>
+                                    <td>Khulna</td>
+                                    <td>Khulna</td>
+                                    <td>594</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>37</td>
+                                    <td>Khulna</td>
+                                    <td>Narail</td>
+                                    <td>582</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>38</td>
+                                    <td>Khulna</td>
+                                    <td>Bagerhat</td>
+                                    <td>499</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>39</td>
+                                    <td>Rangpur</td>
+                                    <td>Nilphamari</td>
+                                    <td>407</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>40</td>
+                                    <td>Khulna</td>
+                                    <td>Satkhira</td>
+                                    <td>403</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>41</td>
+                                    <td>Chattagram</td>
+                                    <td>Lakshmipur</td>
+                                    <td>398</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>42</td>
+                                    <td>Rajshahi</td>
+                                    <td>Chapainawabganj</td>
+                                    <td>378</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>43</td>
+                                    <td>Chattagram</td>
+                                    <td>Noakhali</td>
+                                    <td>352</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>44</td>
+                                    <td>Rangpur</td>
+                                    <td>Rangpur</td>
+                                    <td>277</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>45</td>
+                                    <td>Rangpur</td>
+                                    <td>Dinajpur</td>
+                                    <td>277</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>46</td>
+                                    <td>Rangpur</td>
+                                    <td>Thakurgaon</td>
+                                    <td>248</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>47</td>
+                                    <td>Rangpur</td>
+                                    <td>Panchagarh</td>
+                                    <td>247</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>48</td>
+                                    <td>Rangpur</td>
+                                    <td>Gaibandha</td>
+                                    <td>221</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>49</td>
+                                    <td>Barisal</td>
+                                    <td>Patuakhali</td>
+                                    <td>162</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>50</td>
+                                    <td>Barisal</td>
+                                    <td>Pirojpur</td>
+                                    <td>161</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>51</td>
+                                    <td>Sylhet</td>
+                                    <td>Habiganj</td>
+                                    <td>154</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>52</td>
+                                    <td>Rajshahi</td>
+                                    <td>Joypurhat</td>
+                                    <td>149</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>53</td>
+                                    <td>Rangpur</td>
+                                    <td>Lalmonirhat</td>
+                                    <td>142</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>54</td>
+                                    <td>Barisal</td>
+                                    <td>Jhalokati</td>
+                                    <td>137</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>55</td>
+                                    <td>Barisal</td>
+                                    <td>Barguna</td>
+                                    <td>137</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>56</td>
+                                    <td>Chattagram</td>
+                                    <td>Chattogram</td>
+                                    <td>134</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>57</td>
+                                    <td>Sylhet</td>
+                                    <td>Sylhet</td>
+                                    <td>86</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>58</td>
+                                    <td>Chattagram</td>
+                                    <td>Feni</td>
+                                    <td>83</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>59</td>
+                                    <td>Sylhet</td>
+                                    <td>Sunamganj</td>
+                                    <td>45</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>60</td>
+                                    <td>Sylhet</td>
+                                    <td>Moulvibazar</td>
+                                    <td>30</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>61</td>
+                                    <td>Chattagram</td>
+                                    <td>Khagrachhari</td>
+                                    <td>29</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>62</td>
+                                    <td>Chattagram</td>
+                                    <td>Coxsbazar</td>
+                                    <td>19</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>63</td>
+                                    <td>Chattagram</td>
+                                    <td>Bandarban</td>
+                                    <td>15</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>64</td>
+                                    <td>Chattagram</td>
+                                    <td>Rangamati</td>
+                                    <td>7</td>
+                                </tr>
+                                                                                            <tr>
+                                    <td>65</td>
+                                    <td>Unknown</td>
+                                    <td>Unknown</td>
+                                    <td>1</td>
+                                </tr>
+                                                        </tbody>
+                        </table>
+                        <p class="mt-2 mb-0 text-end">Total: <b>66657</b></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer Section -->
+    <footer id="footer" class="footer mt-auto bg-light py-4 border-top"
+        style="background-image: url('https://www.oep.gov.bd/asset/images/bg/footer-v.png');
+           background-position: left 0px bottom;
+           background-repeat: no-repeat;">
+
+    <div style="background-image: url('https://www.oep.gov.bd/asset/images/bg/left-v.png');
+                background-position: left 0px center;
+                background-repeat: no-repeat;">
+        <div class="container">
+            <div class="row align-items-center">
+                <!-- Left Column -->
+                <div class="col-md-6 col-12 mb-3 text-center md:text-start">
+                    <p class="fw-bold">In planning and implementation</p>
+                    <div>
+                        <img src="https://www.oep.gov.bd/asset/images/bmet.png" alt="BMET Logo" class="footer-logo mx-2">
+                        <img src="https://www.oep.gov.bd/asset/images/gov.png" alt="Gov Logo" class="footer-logo me-2">
+                        <img src="https://www.oep.gov.bd/asset/images/ilo.png" alt="ILO Logo" class="footer-logo me-2">
+                        <img src="https://www.oep.gov.bd/asset/images/SupportedBySwitzer.png" alt="Switzer Logo" class="footer-logo">
+                    </div>
+                </div>
+
+                <!-- Right Column -->
+                <div class="col-md-6 col-12 mb-3 text-center md:text-end"
+                     style="background-image: url('https://www.oep.gov.bd/asset/images/bg/center-v.png'),
+                                               url('https://www.oep.gov.bd/asset/images/bg/right-v.png');
+                           background-position: left 0px center, right 0px center;
+                           background-repeat: no-repeat, no-repeat;">
+                    <p class="fw-bold">Hotline</p>
+                    <h3 class="fw-bold text-success">09614445271</h3>
+                    <p class="fw-bold d-none">Social communication</p>
+                    <div class="d-none">
+                        <a href="#" class="socal_icon text-dark me-2"><i class="fa-brands fa-facebook-f"></i></a>
+                        <a href="#" class="socal_icon text-dark me-2"><i class="fa-brands fa-x-twitter"></i></a>
+                        <a href="#" class="socal_icon text-dark me-2"><i class="fa-brands fa-linkedin-in"></i></a>
+                        <a href="#" class="socal_icon text-dark"><i class="fa-brands fa-youtube"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row mt-3">
+                <div class="copy_right col text-center">
+                    <p class="mb-0">
+                        Copyright © 2025 All Rights Reserved
+                        <a href="https://bmet.gov.bd" class="text-success fw-bold">
+                            BMET
+                        </a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+    <!-- Bootstrap Bundle JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    <!-- Toastr JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    <script src="https://www.oep.gov.bd/asset/js/js-manager.js"></script>
+    <script src="https://www.oep.gov.bd/asset/js/utility.js?v=2.6"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            
+            
+            
+                    });
+    </script>
+
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.5.0/js/dataTables.responsive.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.5.0/js/responsive.bootstrap5.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+
+    <script type="text/javascript">
+        $(window).on("load", function () {
+            $('#geoTable').DataTable({
+                responsive: true,
+                language: Object.assign({}, {"emptyTable":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","infoEmpty":"Showing 0 to 0 of 0 entries","infoFiltered":"(filtered from _MAX_ total entries)","lengthMenu":"Show _MENU_ entries","loadingRecords":"Loading...","processing":"Processing...","search":"Search:","zeroRecords":"No matching records found","paginate":{"first":"First","last":"Last","next":"Next","previous":"Previous"},"aria":{"sortAscending":": activate to sort column ascending","sortDescending":": activate to sort column descending"}}, {
+                    searchPlaceholder: "Search by Division or District"
+                }),
+                order: [[0, 'asc']],
+                columnDefs: [
+                    { targets: [0, 3], orderable: false },
+                    { targets: 0, responsivePriority: 1 },
+                    { targets: 1, responsivePriority: 2 },
+                    { targets: 2, responsivePriority: 3 },
+                    { targets: 3, responsivePriority: 4 }
+                ],
+                fnRowCallback: function (nRow, aData, iDisplayIndex, iDisplayIndexFull) {
+                    $("td:first", nRow).html(iDisplayIndexFull + 1);
+                    return nRow;
+                },
+            });
+
+            // Division -> District filter
+            const allDistricts = [{"id":1,"name":"Comilla","division_id":1},{"id":320,"name":"1235","division_id":264},{"id":321,"name":"asacv","division_id":265},{"id":322,"name":"BRASIL","division_id":266},{"id":323,"name":"Ambia","division_id":267},{"id":324,"name":"thalm","division_id":268},{"id":325,"name":"Al Murabba","division_id":269},{"id":326,"name":"sd","division_id":270},{"id":327,"name":"ASE","division_id":271},{"id":328,"name":"UITS","division_id":272},{"id":329,"name":"Tampa","division_id":273},{"id":330,"name":"TUYT","division_id":274},{"id":331,"name":"Midview City","division_id":275},{"id":332,"name":"tes1","division_id":276},{"id":333,"name":"SHI NAEGI","division_id":277},{"id":334,"name":"CENTRAL","division_id":278},{"id":335,"name":"Shimo Karako","division_id":279},{"id":336,"name":"Shimo Karako - 1906","division_id":279},{"id":337,"name":"Selangor","division_id":280},{"id":338,"name":"RIYADH","division_id":269},{"id":339,"name":"DUBAI","division_id":281},{"id":340,"name":"KUALA LAMPUR","division_id":282},{"id":341,"name":"Gimpo-si","division_id":283},{"id":342,"name":"Najma","division_id":284},{"id":343,"name":"Klang","division_id":280},{"id":344,"name":"Geylang Road","division_id":275},{"id":346,"name":"Doha","division_id":150},{"id":347,"name":"TOKIYO","division_id":277},{"id":348,"name":"JEDDAH","division_id":287},{"id":349,"name":"HAIL","division_id":289},{"id":350,"name":"TABUK","division_id":290},{"id":351,"name":"Chukang Central","division_id":275},{"id":352,"name":"MAKKA","division_id":287},{"id":353,"name":"HAMPSHIRE","division_id":291},{"id":354,"name":"Urayasu","division_id":293},{"id":355,"name":"Dammam","division_id":285},{"id":356,"name":"Deira","division_id":281},{"id":357,"name":"Buffalo","division_id":294},{"id":358,"name":"Bistrita","division_id":297},{"id":360,"name":"MUSCAT","division_id":298},{"id":361,"name":"KHAMIS","division_id":299},{"id":362,"name":"Kawasaki-city","division_id":300},{"id":2,"name":"Feni","division_id":1},{"id":364,"name":"Sharjah","division_id":195},{"id":3,"name":"Brahmanbaria","division_id":1},{"id":4,"name":"Rangamati","division_id":1},{"id":5,"name":"Noakhali","division_id":1},{"id":6,"name":"Chandpur","division_id":1},{"id":7,"name":"Lakshmipur","division_id":1},{"id":8,"name":"Chattogram","division_id":1},{"id":9,"name":"Coxsbazar","division_id":1},{"id":10,"name":"Khagrachhari","division_id":1},{"id":11,"name":"Bandarban","division_id":1},{"id":12,"name":"Sirajganj","division_id":2},{"id":13,"name":"Pabna","division_id":2},{"id":14,"name":"Bogura","division_id":2},{"id":15,"name":"Rajshahi","division_id":2},{"id":16,"name":"Natore","division_id":2},{"id":17,"name":"Joypurhat","division_id":2},{"id":18,"name":"Chapainawabganj","division_id":2},{"id":19,"name":"Naogaon","division_id":2},{"id":20,"name":"Jashore","division_id":3},{"id":21,"name":"Satkhira","division_id":3},{"id":22,"name":"Meherpur","division_id":3},{"id":23,"name":"Narail","division_id":3},{"id":24,"name":"Chuadanga","division_id":3},{"id":25,"name":"Kushtia","division_id":3},{"id":26,"name":"Magura","division_id":3},{"id":27,"name":"Khulna","division_id":3},{"id":28,"name":"Bagerhat","division_id":3},{"id":29,"name":"Jhenaidah","division_id":3},{"id":30,"name":"Jhalokati","division_id":4},{"id":31,"name":"Patuakhali","division_id":4},{"id":32,"name":"Pirojpur","division_id":4},{"id":33,"name":"Barisal","division_id":4},{"id":34,"name":"Bhola","division_id":4},{"id":35,"name":"Barguna","division_id":4},{"id":36,"name":"Sylhet","division_id":5},{"id":37,"name":"Moulvibazar","division_id":5},{"id":38,"name":"Habiganj","division_id":5},{"id":39,"name":"Sunamganj","division_id":5},{"id":40,"name":"Narsingdi","division_id":6},{"id":41,"name":"Gazipur","division_id":6},{"id":42,"name":"Shariatpur","division_id":6},{"id":43,"name":"Narayanganj","division_id":6},{"id":44,"name":"Tangail","division_id":6},{"id":45,"name":"Kishoreganj","division_id":6},{"id":46,"name":"Manikganj","division_id":6},{"id":47,"name":"Dhaka","division_id":6},{"id":48,"name":"Munshiganj","division_id":6},{"id":49,"name":"Rajbari","division_id":6},{"id":50,"name":"Madaripur","division_id":6},{"id":51,"name":"Gopalganj","division_id":6},{"id":52,"name":"Faridpur","division_id":6},{"id":53,"name":"Panchagarh","division_id":7},{"id":54,"name":"Dinajpur","division_id":7},{"id":55,"name":"Lalmonirhat","division_id":7},{"id":56,"name":"Nilphamari","division_id":7},{"id":57,"name":"Gaibandha","division_id":7},{"id":58,"name":"Thakurgaon","division_id":7},{"id":59,"name":"Rangpur","division_id":7},{"id":60,"name":"Kurigram","division_id":7},{"id":61,"name":"Sherpur","division_id":8},{"id":62,"name":"Mymensingh","division_id":8},{"id":63,"name":"Jamalpur","division_id":8},{"id":64,"name":"Netrokona","division_id":8}];
+            $('#division_name').on('change', function () {
+                const divisionId = $(this).val();
+                $('#district_name').empty().append(`<option value="">All</option>`);
+                allDistricts.forEach(d => {
+                    if (!divisionId || d.division_id == divisionId)
+                        $('#district_name').append(`<option value="${d.id}">${d.name}</option>`);
+                });
+            });
+
+            $('.select2').select2({
+                placeholder: "Select...",
+                allowClear: true,
+                width: '100%'
+            });
+        });
+    </script>
+</body>
+</html>

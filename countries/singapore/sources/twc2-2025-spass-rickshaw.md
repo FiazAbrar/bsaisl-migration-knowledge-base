@@ -1,0 +1,154 @@
+# Singapore opens S-Pass jobs to illiterate rickshaw pullers
+
+[webmaster](https://twc2.org.sg/author/webmaster/ "Posts by webmaster")2025-10-31T14:48:27+08:00November 21st, 2025\|[Articles](https://twc2.org.sg/category/articles/), [Stories](https://twc2.org.sg/category/articles/stories/)\|
+
+![](https://twc2.org.sg/wp-content/uploads/2025/11/rickshaw_0015_pv2.png "rickshaw_0015_pv2")
+
+*We are not implying that any of the five workers in this story were rickshaw pullers*
+
+Five Burmese men came to TWC2 seeking help in September 2025. Their work passes had been cancelled by their employers with no notice, only two or three months into their jobs. Furthermore, they only received a fraction of what they should have been paid.
+
+They were first-time construction workers hired for S-Pass positions and their situation reminded us of the case of **seven Bangladeshi workers,** also in S-Pass positions, in the Joy Engineering case (which we have written about in [Part 1](https://twc2.org.sg/2025/10/25/seven-joyless-workers-part-1/) and [Part 2](https://twc2.org.sg/2025/10/31/seven-joyless-workers-part-2/)). Yet, like the seven Bangladeshis, none of the Burmese had prior basic skills training before coming to Singapore. Like them too, the Burmese guys were promised high salaries (above \$3,000 per month) written into their In-Principle Approvals, salaries out of line with the market considering their lack of technical diplomas or experience.
+
+How did the Ministry of Manpower (MOM) approve these S-Pass applications? It’s a huge mystery and suggests a breakdown of the governance system.
+
+### Eligibility for S-Pass
+
+For years, TWC2 has understood S Pass eligibility criteria to include at least a diploma in the appropriate technical skill for the job in question. S Passes are meant for mid-level, skilled occupations.
+
+Yet when we asked the five Burmese workers what their trade qualifications were, they had none!
+
+On MOM’s website the page [Eligibility for S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass/eligibility) is often changed because the minimum salary has been going up over the years. Starting 1 September 2025, for example, it went up to \$3,300 per month. However, we were surprised to see that the minimum qualifications have been changed too; in fact it looks as if it’s been removed altogether.
+
+As at Septmember and October 2025 the page says: “Declaring qualifications is optional.”
+
+[![](https://twc2.org.sg/wp-content/uploads/2025/09/orangetab-triangle.png)](https://twc2.org.sg/wp-content/uploads/2025/09/orangetab-triangle.png)One aspect of this case has similarities with the controversy over travel booking portal Agoda’s retrenchment of about 50 employees which made the news in the third week of September 2025. The Agoda controversy was over a clause in the severance agreement that barred employees from seeking help from government agencies, or else lose their severance benefits. See these 17 September 2025 stories on Channel NewsAsia: [this one](https://www.channelnewsasia.com/singapore/agoda-layoff-retrenchment-staff-travel-agency-severance-package-5353771) and [this one](https://www.channelnewsasia.com/singapore/agoda-retrenchment-layoff-mom-ntuc-response-5354451).
+
+The Burmese workers had their work passes cancelled without any notice or forewarning. Naturally, they protested strongly to the agent who had originally placed them in their jobs, and the agent said she would help look for new jobs for them (at “\$22 per day”, which is roughly \$572/month). One or more of the men also mentioned that they were intending to make a report at the Ministry of Manpower (MOM), or have already done so. The agent then told the men in no uncertain terms that while they would have to attend any meeting when requested by MOM, they must not seek help from any other organisation. Otherwise, she would not look for new jobs for them.
+
+For good measure, the agent added a word of discouragement; she said that whatever they claimed as owed salary was not “guaranteed”. They would “not even receive \$1,000.”
+
+Here is a screenshot of [MOM’s page](https://www.mom.gov.sg/passes-and-permits/s-pass/eligibility), taken on 6 October 2025:
+
+![](https://twc2.org.sg/wp-content/uploads/2025/11/S-Pass_eligibility_2025.png "S-Pass_eligibility_2025")
+
+Compare what the above says with the same webpage from 25 May 2018 (imaged below). It clearly says that the criteria includes a degree or diploma, though a technical certification may be considered provided it followed at least one year of fulltime study.
+
+![](https://twc2.org.sg/wp-content/uploads/2025/11/S-Pass_eligibility_2018.png "S-Pass_eligibility_2018")
+
+Another archived copy of the page that we found from further back (16 May 2015) says the same. Indeed the minimum of a diploma had been in place for years.
+
+![](https://twc2.org.sg/wp-content/uploads/2025/11/S-Pass_eligibility_2015.png "S-Pass_eligibility_2015")
+
+In the footnotes, we demonstrate how third-party websites echoed the same understanding of MOM’s eligibility rules.
+
+### Now open to scamming
+
+A closer reading of the new (non)-criterion indicates that MOM has delegated to employers the responsibility for ensuring that employees have suitable qualifications.
+
+But what if employers’ standard for “suitable qualifications” is no qualification at all? In such an instance, even illiterate rickshaw drivers can qualify for S-Passes so long as employers tell MOM that the declared salary meets whatever is the minimum salary of the day.
+
+This silent loosening of MOM’s eligibility rules appears to be creating a huge opportunity for cheating and exploitation, going by these five workers’ cases. Employers are now able to dangle the prospect of fantastic salaries to prospective workers desperate for jobs but without the necessary qualifications. Workers in foreign countries cannot be expected to know what the prevailing market rates are for various types of jobs. For comparison, the typical first-time general construction worker hired legitimately on Work Permits might get about \$500 in monthly basic salary. How were the five Burmese workers who had never been to Singapore to know that the offered remuneration of \$3,200 to \$4,200 (the salaries varied among the five men) would be unrealistic for a basic general worker’s job, and therefore the job offer should be suspicious?
+
+Naturally, they wouldn’t know. And worse was to come. Based on these promised salaries, the recruitment fee (over \$6,000 each) seemed justifiable, being roughly two times the monthly salary. Recruitment costs have to be paid upfront unlike salaries which can be delayed and even, as would prove to be the case, defaulted upon altogether.
+
+After working for about three months, the men had only received a fraction for what they should have been paid. For example, one of the five Burmese workers (worker 16819) was supposed to have received about \$11,500 in basic pay and about \$8,300 in overtime pay for the months that he worked. But he only received slightly over \$2,000 or merely ten percent of what was due. The other four had similarly complaints.
+
+It’s almost no surprise to us that he wasn’t properly paid. What construction business can pull in so much revenue that they can afford such salaries to general labourers? The very fact that the men were hired on such unrealistic terms suggests that it was fishy from the beginning.
+
+### But why?
+
+What was the motive behind employing first-time, unskilled workers on S-Pass instead of a Work Permit? Lower-skilled workers, particularly where the market value of their jobs is below \$3,300 a month, are supposed to be on Work Permits. Short of the employer explaining himself, we can only speculate. Below we set out what might look like the pros and cons (with respect to the construction industry) from an employer’s perspective.
+
+**Work Permit**
+
+\$5,000 security bond: mandatory.
+
+Minimum qualification: SEC(K) basic construction skills certificate. Approved training centres in source countries are few, and they charge thousands of dollars, therefore the pool of available job applicants with such certificates is smaller; after spending all their money on training, job applicants may have little money to pay for the job.
+
+Monthly foreign worker levy for a basic skilled construction worker with SEC(K): \$950.
+
+Minimum salary: none.
+
+**S-Pass**
+
+\$5,000 security bond: not required.
+
+Minimum qualification: none.
+
+Monthly foreign worker levy: \$650.
+
+Minimum salary: \$3,300 per month.
+
+As one can see, there are several upsides to hiring foreign workers on S-Passes. The one downside is that there is a much higher minimum salary. However, it is only a downside if one intends to pay in the first place. It is not a factor to take into consideration if there is no intention to pay the promised and contracted salary.
+
+And then if the worker lodges a salary claim with the authorities, the employer can drag the claims process out until the worker gives up. Or, as we have seen in several cases, the employer can abscond altogether, leaving the worker with no viable options.
+
+### Policy conflict
+
+Over the years, MOM has carefully written into legislation various protections for Work Permit holders, recognising that they are a more vulnerable class of migrant workers. These are the key protections that are triggered when the worker files a claim and is put on a Special Pass:
+
+**Work Permit**
+
+When salary is not paid, the security bond can be seized, and the sum applied to compensate the worker.
+
+Employer must provide accommodation until the case is concluded and the worker is repatriated.
+
+Employer must provide meals until the case is concluded and the worker is repatriated.
+
+Employer must bear the cost of any needed medical treatment until the case is concluded and the worker is repatriated.
+
+Employer must bear the cost of repatriation.
+
+**S-Pass**
+
+No security bond to seize.
+
+No requirement for employer to provide accommodation.
+
+No requirement to provide meals.
+
+No requirement to bear the cost of medical treatment.
+
+Worker has to buy his own ticket home.
+
+Now that the same unskilled or low-skilled workers can be hired on S-Passes, the safety net carefully designed for the more vulnerable workers is rendered moot.
+
+Clearly, the tweak that MOM made to the eligibility rules for S Pass was very poorly considered. Maybe they wanted to give employers more flexibility, but the opportunity to scam workers into insincere employment is the “flexibility” that has resulted. Immediate action must be taken to close this loophole and employers engaging in such schemes must be severely punished to set the right example.
+
+![](https://twc2.org.sg/wp-content/uploads/2019/09/footnotes_2019.gif "footnotes_2019")
+
+In addition to searching for past versions of MOM’s webpage about S Passes, we did a search of third party sites that cited MOM’s rules and found several references to minimum educational requirements. At [https://www.rbcrca.com.sg/management/guide-to-singapore-s-pass-application](https://www.rbcrca.com.sg/management/guide-to-singapore-s-pass-application) is a page dating from around 2016 (accessed 22 September 2025) which says:
+
+![](https://twc2.org.sg/wp-content/uploads/2025/10/S-pass_criterai_historical_2c.png "S-pass_criterai_historical_2c")
+
+Then we found this from [https://heysara.sg/business-encyclopedia/s-pass/](https://heysara.sg/business-encyclopedia/s-pass/) which seems to be from 2020 or a little after, because it mentions a minimum salary of \$2,500 per month, and it was in October 2020 that the minimum salary was raised to that level.
+
+![](https://twc2.org.sg/wp-content/uploads/2025/10/S-pass_criterai_historical_3c.png "S-pass_criterai_historical_3c")
+
+Also, at [https://jwc.com.sg/resources/s-pass](https://jwc.com.sg/resources/s-pass) we find this page dated 11 November 2024 (accessed 22 September 2025):
+
+![](https://twc2.org.sg/wp-content/uploads/2025/10/S-pass_criterai_historical_1c.png "S-pass_criterai_historical_1c")
+
+16818, 16819, 16823, 16824, 16825.
+
+#### Share This Post With Others!
+
+[Facebook](https://www.facebook.com/sharer.php?u=https%3A%2F%2Ftwc2.org.sg%2F2025%2F11%2F21%2Fsingapore-opens-s-pass-jobs-to-illiterate-rickshaw-drivers%2F&t=Singapore%20opens%20S-Pass%20jobs%20to%20illiterate%20rickshaw%20pullers "Facebook")[X](https://twitter.com/share?url=https%3A%2F%2Ftwc2.org.sg%2F2025%2F11%2F21%2Fsingapore-opens-s-pass-jobs-to-illiterate-rickshaw-drivers%2F&text=Singapore%20opens%20S-Pass%20jobs%20to%20illiterate%20rickshaw%20pullers "X")[LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Ftwc2.org.sg%2F2025%2F11%2F21%2Fsingapore-opens-s-pass-jobs-to-illiterate-rickshaw-drivers%2F&title=Singapore%20opens%20S-Pass%20jobs%20to%20illiterate%20rickshaw%20pullers&summary=We%20are%20not%20implying%20that%20any%20of%20the%20five%20workers%20in%20this%20story%20were%20rickshaw%20pullers%20%20%0D%0A%0D%0AFive%20Burmese%20men%20came%20to%20TWC2%20seeking%20help%20in%20September%202025.%20Their%20work%20passes%20had%20been%20cancelled%20by%20their%20employers%20with%20no%20notice%2C%20only%20two%20or%20three%20months%20into%20th "LinkedIn")[WhatsApp](https://api.whatsapp.com/send?text=https%3A%2F%2Ftwc2.org.sg%2F2025%2F11%2F21%2Fsingapore-opens-s-pass-jobs-to-illiterate-rickshaw-drivers%2F "WhatsApp")[Pinterest](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Ftwc2.org.sg%2F2025%2F11%2F21%2Fsingapore-opens-s-pass-jobs-to-illiterate-rickshaw-drivers%2F&description=We%20are%20not%20implying%20that%20any%20of%20the%20five%20workers%20in%20this%20story%20were%20rickshaw%20pullers%20%20%0D%0A%0D%0AFive%20Burmese%20men%20came%20to%20TWC2%20seeking%20help%20in%20September%202025.%20Their%20work%20passes%20had%20been%20cancelled%20by%20their%20employers%20with%20no%20notice%2C%20only%20two%20or%20three%20months%20into%20their%20jobs.%20Furthermore%2C%20they%20only&media=https%3A%2F%2Ftwc2.org.sg%2Fwp-content%2Fuploads%2F2025%2F11%2Frickshaw_0015_pv2_ficon.png "Pinterest")[Email](/cdn-cgi/l/email-protection#bc83ded3d8c581d4c8c8cccf869393c8cbdf8e92d3cedb92cfdb938e8c8e89938d8d938e8d93cfd5d2dbddccd3ced991d3ccd9d2cf91cf91ccddcfcf91d6d3decf91c8d391d5d0d0d5c8d9ceddc8d991ced5dfd7cfd4ddcb91d8ced5cad9cecf939addd1cc87cfc9ded6d9dfc881efd5d2dbddccd3ced9998e8cd3ccd9d2cf998e8cef91ecddcfcf998e8cd6d3decf998e8cc8d3998e8cd5d0d0d5c8d9ceddc8d9998e8cced5dfd7cfd4ddcb998e8cccc9d0d0d9cecf "Email")
+
+#### Recent Posts
+
+- [Forced labour in Singapore – a scorecard](https://twc2.org.sg/2026/11/04/forced-labour-in-singapore-a-scorecard/) 4 November 2026
+- [Changi airport hit by Ministry of Manpower probe](https://twc2.org.sg/2026/11/03/changi-airport-hit-by-ministry-of-manpower-probe/) 3 November 2026
+- [Poor implementation of injury law leaves worker penniless](https://twc2.org.sg/2026/10/20/poor-implementation-of-injury-law-leaves-worker-penniless/) 20 October 2026
+- [Fantastic salary, easy job. What can go wrong?](https://twc2.org.sg/2026/10/15/fantastic-salary-easy-job-what-can-go-wrong/) 15 October 2026
+- [Shockingly low salaries in shipyards revealed by survey and casework data](https://twc2.org.sg/2026/10/12/shockingly-low-salaries-in-shipyards-revealed-by-survey-and-casework-data/) 12 October 2026
+- [Employer compels worker to sacrifice all his weekly rest days, pays him less than half his proper salary](https://twc2.org.sg/2026/10/09/employer-compels-worker-to-sacrifice-all-his-weekly-rest-days-pays-him-less-than-half-his-proper-salary/) 9 October 2026
+- [Very much needed: a centralised payslips portal](https://twc2.org.sg/2026/10/03/very-much-needed-a-centralised-payslips-portal/) 3 October 2026
+- [One month after starting work, employer reduces workers’ salaries by 26%](https://twc2.org.sg/2026/09/29/one-month-after-starting-work-employer-reduces-workers-salaries-by-26/) 29 September 2026
+- [Agent channelled recruitment fees through suspicious channels](https://twc2.org.sg/2026/09/23/agent-channelled-recruitment-fees-through-suspicious-channels/) 23 September 2026
+- [Government can require foreigners to remain in Singapore with no right to work, no income](https://twc2.org.sg/2026/09/15/government-can-require-foreigners-to-remain-in-singapore-with-no-right-to-work-no-income/) 15 September 2026
+
+#### Tags
+
+[Abuse & bullying](https://twc2.org.sg/tag/abuse-bullying/) [Accident reporting](https://twc2.org.sg/tag/accident-cover-up/) [Advocacy](https://twc2.org.sg/tag/advocacy/) [Criminal charges](https://twc2.org.sg/tag/criminal-charges/) [Domestic work](https://twc2.org.sg/tag/domestic/) [Donations](https://twc2.org.sg/tag/donations/) [Economics of migration](https://twc2.org.sg/tag/economics-of-migration/) [ECT](https://twc2.org.sg/tag/ect/) [Family](https://twc2.org.sg/tag/family/) [featured](https://twc2.org.sg/tag/featured/) [Food](https://twc2.org.sg/tag/food/) [Forced repatriation](https://twc2.org.sg/tag/forced-repatriation/) [Housing](https://twc2.org.sg/tag/housing/) [Illness](https://twc2.org.sg/tag/illness/) [International](https://twc2.org.sg/tag/international/) [Job mobility](https://twc2.org.sg/tag/job-mobility/) [Kickback](https://twc2.org.sg/tag/kickback/) [Labour court](https://twc2.org.sg/tag/labour-court/) [Labour relations](https://twc2.org.sg/tag/labour-relations/) [Laws & regulations](https://twc2.org.sg/tag/laws-regulations/) [Lawyers](https://twc2.org.sg/tag/lawyers/) [MC & light duty](https://twc2.org.sg/tag/mc-light-duty/) [MC wages](https://twc2.org.sg/tag/mc-wages/) [Media interest](https://twc2.org.sg/tag/media-interest/) [Medical costs](https://twc2.org.sg/tag/medical-costs/) [Medical interaction](https://twc2.org.sg/tag/medical-interaction/) [Medical treatment](https://twc2.org.sg/tag/medical-treatment/) [MOM processes](https://twc2.org.sg/tag/mom-processes/) [Placement agents & fees](https://twc2.org.sg/tag/placement-agents-fees/) [Police processes](https://twc2.org.sg/tag/police-processes/) [Politics and policies](https://twc2.org.sg/tag/politics-and-policies/) [Recruitment](https://twc2.org.sg/tag/recruitment/) [Rest day](https://twc2.org.sg/tag/rest-day/) [S-Pass](https://twc2.org.sg/tag/s-pass/) [Salary & deduction](https://twc2.org.sg/tag/salary-deduction/) [Society & socialisation](https://twc2.org.sg/tag/society-socialisation/) [Survey & statistics](https://twc2.org.sg/tag/survey-statistics/) [TADM](https://twc2.org.sg/tag/tadm/) [Trafficking](https://twc2.org.sg/tag/trafficking/) [Training](https://twc2.org.sg/tag/training/) [Transfer](https://twc2.org.sg/tag/transfer/) [Volunteers](https://twc2.org.sg/tag/volunteers/) [WICA & medical insurance](https://twc2.org.sg/tag/wica-medical-insurance/) [WICA validity](https://twc2.org.sg/tag/wica-validity/) [Work safety](https://twc2.org.sg/tag/work-safety/)

@@ -1,0 +1,19 @@
+Public Advisory Page Banner
+
+#### 
+
+# Application for Long-Term Immigration Facilities Through Commercial Entities or Consultants
+
+Last updated 06 Oct 2026
+
+ICA is aware of commercial entities or consultants who claim they are able to help applicants improve their success in obtaining long-term immigration facilities in Singapore, for example, Singapore Citizenship, Permanent Residence and Long-Term Immigration Passes.
+
+ICA does not support nor endorse the services offered by these commercial entities or consultants.
+
+ICA carefully assesses all applications for long-term immigration facilities.
+
+Applicants who choose to engage the services of commercial entities or consultants are advised to exercise caution.
+
+ICA shall not be responsible or held accountable in any way for any loss suffered arising from the engagement of services provided by these commercial entities or consultants.
+
+ICA does not regulate the advertising industry nor the immigration consultancy industry. Instead, companies that publish false or misleading advertisements about their services will be referred to the Advertising Standards Authority of Singapore (ASAS), who will investigate and take action on advertisements that breach the Singapore Code of Advertising Practice (SCAP).

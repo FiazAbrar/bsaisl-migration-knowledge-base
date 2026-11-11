@@ -1,0 +1,415 @@
+ 
+
+	How to file and serve an employment claim
+
+A Singapore Government Agency Website
+
+How to identify
+
+Official website links end with .gov.sg
+
+Government agencies communicate via .gov.sg websites (e.g. go.gov.sg/open).
+Trusted websites
+
+Secure websites use HTTPS
+
+Look for a
+ lock 
+()
+								or https:// as an added precaution. Share sensitive information only on official, secure websites.
+
+Who we are
+
+Discover the courts
+
+Hearing list
+
+Judgments
+
+Self-help guides
+
+News and Resources
+
+Services
+
+Contact
+
+Back
+
+Civil
+
+Small claims
+
+Civil claims
+
+Employment claims
+
+Protection from harassment
+
+Asynchronous Court Dispute Resolution (aCDR) Process for Negligence Claims
+
+View all 
+
+Family
+
+Family Quick Guide
+
+Divorce
+
+Protection against family violence
+
+Maintenance
+
+Adoption
+
+View all 
+
+Criminal
+
+Bail
+
+Charged with a traffic or regulatory offence
+
+Charged with a crime
+
+Criminal motions
+
+View all 
+
+Alternatives to Trial
+
+Mediation
+
+Conciliation
+
+Neutral evaluation
+
+Not sure where to start?
+
+Try our Guided Questionnaire (BETA)
+
+Note: To search for hearing details for a specific case, visit the 
+hearing list
+ page.
+
+Note: To search for hearing details for a specific case, visit the 
+hearing list
+ page.
+
+Scam advisory: Officers from the Singapore Courts will never ask you to transfer money or disclose bank log-in details over a phone call. Call the 24/7 ScamShield Helpline at 1799 if you are unsure if something is a scam. 
+Find out more.
+
+How to file and serve an employment claim
+
+Find out what documents you need to prepare and what steps to take when filing your employment claims.
+
+Before you file
+Before you file a claim, make sure you:
+Attend mediation at the 
+Tripartite Alliance for Dispute Management (TADM)
+.
+Receive a Claim Referral Certificate issued by the TADM mediator.
+Complete the 
+pre-filing assessment
+.
+Understand the 
+types of claims the Employment Claims Tribunals (ECT) can hear
+.
+Understand the 
+amounts you can claim for
+.
+Understand the 
+employment claims process
+.
+Understand the 
+orders the ECT can make
+.
+
+Tip
+
+All applications must be filed through the 
+Community Justice and Tribunals System (CJTS)
+. 
+If you need access to computers to respond to your claim, visit the 
+Business Centre at the State Courts, Level 2 during operating hours
+.
+
+Key facts
+If you are filing the claim, you are the
+ claimant
+.
+The other party is the
+ respondent
+.
+Refer to the following to find out about filing an employment claim.
+
+Note
+
+Lawyers are not allowed to represent parties in court for ECT matters.
+
+When to file
+Within 4 weeks after obtaining the Claim Referral Certificate from 
+TADM
+.
+When to serve
+Within 7 days of the date of filing of the claim.
+Filing fees
+S$30 per claim for claims amounting to S$10,000 or less.
+S$60 per claim for claims amounting to more than S$10,000.
+Filing conditions
+You cannot make a joint claim with other parties against the same respondent.
+You cannot file a salary-related claim and a wrongful dismissal claim together.
+The person or company against whom the claim is made must be residing, or have a registered office or place of business, in Singapore.
+How to apply
+Through the 
+Community Justice and Tribunals System (CJTS)
+.
+
+What you will need
+You should prepare a soft copy of the following in PDF format (where applicable) before you file:
+Your personal identification documents.        
+(For Singapore citizens or permanent residents) National Registration Identity Card (NRIC) or passport.
+(For foreign citizens) Passport and employment pass.
+(For company representatives) Latest ACRA profile, letter of authorisation and NRIC, passport or employment pass of representative.
+The claim referral certificate from 
+TADM
+ and the latest ACRA Profile of the employer.
+Other supporting documents for the claim (for example, employment contract pay slips, written record of key employment terms, time sheets or bank statements).        
+All supporting documents submitted must be in the English language. Otherwise, a certified translation for the documents must be provided.
+The particulars of the respondent.        
+You will need to provide the name, personal identification number and address of the respondent.
+How to file and serve
+You will need to follow these steps to file and serve your claim.
+
+Step 
+Result 
+1. File your claim
+
+Your claim is filed in 
+CJTS
+.
+2. Serve documents on the respondent
+
+The respondent is notified of your employment claim.
+3. File a declaration of service (DOS)
+
+Acknowledgement of service of claim to the respondent.
+
+When: within 
+4 weeks
+ of the date the Claim Referral Certificate is issued by TADM. 
+
+Log in to 
+CJTS
+. Under the 
+Online Applications tab
+, select 
+Claim Form
+ and follow the instructions.
+For detailed instructions, refer to the 
+CJTS user guide for filing employment disputes
+
+(PDF, 4784 KB)
+Choose your preferred case management conference (CMC) date and time. 
+The earliest CMC date available is within 3 - 4 weeks from the date your claim is filed.
+Choose the language or dialect you are comfortable with if you do not understand or speak English. The ECT will try to arrange for an interpreter of the language you have chosen for your ECT proceedings.
+Print a copy of the Notice of CMC. You will have to serve this document on the respondent within 
+7 days
+ after the date of filing of the claim.
+
+When: within 
+7 days
+ of the date of filing of the claim.
+
+You may serve the Notice of CMC on the respondent through one of the following ways:
+Service method 
+What it is 
+Personal Delivery 
+Delivering hard copies of the documents personally to the respondent. 
+Registered post 
+(if to an individual) Sending hard copies of the documents to the respondent's last known residential or registered address in an envelope addressed to them. 
+(if to a business entity) Sending hard copies of the documents to                    the respondent's ACRA registered address in an envelope addressed to them. 
+Others 
+Delivering the documents by any means (including fax or email) as directed by the ECT. 
+
+Note
+
+You may amend a claim if the claim has not been served on the respondent. If you have already served the claim on the respondent, you will not be able to make amendments unless you have obtained permission from the ECT.
+To make an amendment to your application, select 
+Request for Amendments
+ under the 
+Online Applications
+ tab on 
+CJTS
+. Upon the approval of your amendment application, you are required to serve the    case management conference notice (Claim Amendment) on the Respondent. Thereafter, you are required to file the Declaration of Service and attach the evidence of such service (e.g. evidence of the service by post) to the Declaration of Service.
+
+When: 
+within 4 weeks of the date of filing of the claim or before the date of the first CMC, whichever is earlier
+You must file a declaration of service (DOS) with proof of service after serving the Notice of CMC on the respondent.
+
+Example
+
+Examples of proof of service include a Singpost registered post slip or a form signed by the respondent to 
+acknowledge that they have received the documents from you.
+
+Log in to 
+CJTS
+. Under the 
+Online Applications
+ tab, select 
+Declaration of Service
+ and follow the instructions.
+For detailed instructions, refer to the 
+CJTS user guide for filing employment disputes
+
+(PDF, 4784 KB)
+
+After you file
+The respondent may respond to the claim you have filed against them in different ways. Refer to the following to understand what these ways are:
+
+If the respondent does not dispute the claim, they may choose to resolve it by 
+initiating online negotiation or mediation
+ on 
+CJTS
+.
+If a settlement is reached online:
+Parties may apply to have the agreed terms recorded as a consent order by selecting 
+Request for Order of Tribunal 
+in 
+CJTS
+, subject to the ECT's approval.
+You may then withdraw the claim by selecting 
+Withdrawal Request Form
+ in 
+CJTS
+. When a claim is withdrawn, the matter will be taken as concluded and there will be no further proceedings at the ECT.        
+If a settlement is not reached, or if an application for a consent order is not approved by the ECT, you will have to attend the CMC as stated in the Notice of CMC.
+
+If the respondent    does not agree with the claim, they may choose to file and serve a response on you within 
+7 days
+ of being served with your claim. 
+If the respondent is unable to file the Response, the respondent may wish to apply for a time extension    through the Online Module in the CJTS, and provide the reasons for the extension of time application.
+A response sets out the respondent's defence to your claim, which they will be relying on.
+
+If the respondent has an eligible claim against you, they may file a counterclaim. 
+A counterclaim can be filed only after you and the respondent have first gone through 
+mediation at TADM
+ in respect of the counterclaim.
+
+Need help?
+
+The information here is for general guidance as
+the courts do not provide legal advice. If you need further help, you may want to get independent legal advice. 
+
+Find out more
+
+Resources
+
+Refer to 
+The Employment Claims Tribunals Guide
+
+(PDF, 2.17 MB)
+. 
+
+Legislation associated with this topic includes:
+The Employment Claims Act 2016
+.
+The Employment Claims Rules 2017
+.
+The Employment Claims Regulations 2017
+.
+
+Refer to 
+Paragraph 142 of the State Courts Practice Directions
+ for employmentclaims.
+
+Go to 
+Step-by-step guide
+
+Step-by-step guide
+
+Understand employment claims
+
+Cases eligible for an employment claim
+
+File and serve an employment claim
+
+How to file and serve an employment claim
+
+Resolve the dispute online
+
+Settle a tribunal or protection from harassment dispute online: eNegotiation or eMediation
+
+Attend court
+
+Before going to court for an employment claim
+
+At your employment claims case management conference
+
+At your employment claims hearing
+
+File an application, if needed
+
+Appeal against an employment claims order
+
+Enforce an employment claims order
+
+Set aside an employment claims order made in your absence
+
+2021/07/23
+
+Share this page:
+
+Facebook
+
+X
+
+Email
+
+Print
+
+Singapore Courts
+
+Self-help guides
+Criminal
+Civil
+Family
+Alternatives to trial
+
+Information and services
+Hearing list
+Attending court
+Judgments
+Services
+Forms and fees
+Legal help and support
+Practice Directions
+Registrar's Circulars
+News and resources
+Legal professionals
+Useful links
+
+About Singapore Courts
+Who we are
+Join us
+Visit us
+Singapore Judicial College
+Singapore International Commercial Court
+
+Contact us
+Feedback
+Reach.gov.sg
+
+Report vulnerability
+Privacy Statement
+Terms of Use
+Sitemap
+Supported browser
+
+© 2026 Government of Singapore.
+Last updated on 
+02 June 2026
+2026/06/02
+.
+
+ 

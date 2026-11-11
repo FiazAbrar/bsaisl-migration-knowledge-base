@@ -1,0 +1,188 @@
+PAGE META: published_date: 2026-05-29 | og:published_date: 2026-05-29
+
+	Check work pass and application status
+
+You are using a version of browser which will not be supported after 27 May 2018. To continue to transact with MOM securely, please follow 
+these steps
+ to enable the Transport Layer Security (TLS) of your web browser, or upgrade to the latest version of your browser.
+
+Skip to main content 
+
+About us
+
+Work passes
+
+Employment practices
+
+Workplace safety and health
+
+                        More
+
+Statistics and publications
+
+eServices
+
+Calculators and self-assessment tools
+
+Forms
+
+Newsroom
+
+eServices
+
+    PH pay, COMPASS, Primary Care Plan, myMOM Portal, paying salary, annual leave
+
+        Due to maintenance, this eService won’t be available at 9:30 PM, Monday, 9 November 2026 to 12:30 AM, Tuesday, 10 November 2026.
+
+        Check work pass and application status
+
+    Check the status of a work pass application or the validity of a work pass. Work Permit holders can also check their salary information. No log in is required.
+
+Check work pass and application status
+
+                            Service is undergoing maintenance
+
+Availability
+
+                            24 hours
+
+MOM officers will 
+never
+ ask you to transfer money or disclose bank log-in details over a phone call or email. Find out more on how to 
+transact safely and securely
+. Call the 24/7 ScamShield Helpline on 
+1799
+ if you are unsure if something is a scam.
+
+This eService replaces the enquiry functions on:
+
+Work Permit Online (WPOL)
+
+Check Work Pass Status eService
+
+How do I check the status of my work pass application? 
+Show
+
+You may check the status of your work pass application by following the steps below:
+
+Go to 
+Check work pass and application status
+.
+
+Enter your date of birth followed by your FIN or passport number (travel document number).
+
+You will be able to view the status of your work pass applications made within the last 6 months.
+
+How do I check if my work pass is still valid?
+Show
+
+You can do either of the following:
+
+Set up your digital work pass in 
+SGWorkPass app
+ to view your latest work pass details.
+
+Go to 
+Check work pass and application status
+. Enter your date of birth followed by your FIN or passport number (travel document number).
+
+I am currently holding a work pass and have applied for employment with another employer.  Can I use the portal to enquire about the status of both my current work pass and the new work pass application?
+Show
+
+Yes, you can use the portal to enquire about the status of both your current work pass as well as the new work pass application. 
+
+I am a new work pass applicant and do not have an in-principle approval (IPA) or FIN. How do I check the status of my application?
+Show
+
+You can do so by carrying out the following steps:
+
+Go to 
+Check work pass and application status.
+
+Enter your date of birth and passport number (travel document number).
+
+Alternatively, you can ask your employer or employment agent for your IPA Letter that will contain your FIN.
+
+Can I view the application status or pass validity for a Dependant’s Pass / Long-Term Visit Pass / Training Employment Pass / Letter of Consent / EntrePass / Work Permit?
+Show
+
+Yes, you will be able to check the application status and pass validity for all work passes and long-term passes issued by MOM.
+
+When I try to retrieve information using my passport number, I received an error “Multiple results are found. Use FIN instead. If you do not have a FIN, find out from your employer or agent.” What does it mean?
+Show
+
+It means that the passport number you have provided is linked to more than 1 FIN. You need to provide a unique FIN to retrieve the correct record. Ask your employer or employment agent for your FIN, which can be found on your IPA letter. 
+
+Why am I unable to view some of my previous applications or work passes?
+Show
+
+The portal will not show the status of an application or a work pass that was cancelled or expired more than 6 months ago.        
+
+How can I check my salary information?
+Show
+
+This information is only available to Work Permit holders. 
+
+To see your salary information, enter the Date of Application (DOA) which can be found on your IPA. 
+
+If you are an existing Work Permit holder, check your current salary using the 
+SGWorkPass App
+.
+
+What should I do if the information on the portal and IPA is different?
+Show
+
+You can contact your employer or employment agent before coming to Singapore if the employment details (i.e. salary details and occupation) are different from what you were offered. You may reject the employment offer if you do not agree with the information found on the portal.      
+
+What if there is an error in the employment details (e.g. occupation, salary, name of employer)? 
+Show
+ Ask your employer or employment agent to update the information via our systems. Alternatively, you may 
+contact MOM
+.
+
+If you are a new applicant, please make sure the information is correct before leaving your home country/region. 
+
+Is the enquiry portal available in other languages?
+Show
+ Yes, the portal is available in 5 languages (English, Bengali, Chinese, Malay and Tamil).
+
+I am a landlord, property agent representing the landlord or a commercial service provider servicing work pass holders.  Can I use the enquiry portal to check the status of their work passes?
+Show
+ Yes. 
+
+If you need more employment information, you can also scan the digital QR code on the pass holder’s digital work pass or QR code on the pass holder’s card using the 
+SGWorkPass App
+.    
+
+Can I save and print the results obtained from the enquiry portal?
+Show
+ Yes, you can save the results as a PDF document and print it from your device. The date and time of enquiry will be stamped on it.   
+
+What is the purpose of the CAPTCHA check box?
+Show
+ CAPTCHA is a security measure to prevent unauthorised access to the pass holders’ information and harvesting of data.
+
+Why am I asked to give feedback at various points when using the enquiry portal?
+Show
+ It provides us with data to continuously improve our digital services for our citizens and business users. 
+
+The use of our work pass eServices is governed by these 
+Terms and Conditions
+.
+
+Share this page
+
+Share this page on facebook
+Tweet this page
+Email this page
+Print this page
+
+    Last Updated:
+    01 June 2026
+
+Information and Services
+
+Ministry of Manpower
+
+Social media
+

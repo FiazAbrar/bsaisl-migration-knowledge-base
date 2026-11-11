@@ -1,0 +1,115 @@
+1.  [Home](/)
+2.  [Newsroom](/newsroom/)
+3.  UPDATES ON LOCAL SITUATION, BORDER MEASURES FOR BANGLADESH, NEPAL, PAKISTAN, SRI LANKA, AND THAILAND AND PRECAUTIONARY MEASURES TO MINIMISE TRANSMISSION FROM TAN TOCK SENG HOSPITAL CLUSTER
+
+Press Releases
+
+# UPDATES ON LOCAL SITUATION, BORDER MEASURES FOR BANGLADESH, NEPAL, PAKISTAN, SRI LANKA, AND THAILAND AND PRECAUTIONARY MEASURES TO MINIMISE TRANSMISSION FROM TAN TOCK SENG HOSPITAL CLUSTER
+
+30 April 2021
+
+This article has been migrated from an earlier version of the site and may display formatting inconsistencies.
+
+        The Multi-Ministry Taskforce (MTF) has been closely monitoring the local and global COVID-19 situation, and will be taking decisive action to curb the COVID-19 infections in Singapore. 
+
+2.      We will further tighten our border measures given the sustained increase in cases reported in the regions around Bangladesh, Nepal, Pakistan and Sri Lanka. In addition, from **2 May 2021, 2359 hours**, travellers with recent travel history to Thailand will no longer be able to opt out of serving their 14-day Stay Home Notice (SHN) at dedicated SHN facilities.
+
+3.      Within the community in the past week, we have identified new clusters of infection linked to the Case 62517¹family cluster, at Tan Tock Seng Hospital (TTSH), and amongst recovered workers at the Westlite Woodlands Dormitory. The Ministry of Health (MOH) has worked with TTSH to implement strict containment measures, and will also be tightening safe management measures in the wider community to reduce the risk of transmission within the community. 
+
+4.       It is of utmost importance that everyone continues to be vigilant and take all necessary precautions against the spread of COVID-19 infections in Singapore. 
+
+**Restricting Travel from Bangladesh, Nepal, Pakistan and Sri Lanka**
+
+5.       Travellers with travel history to Bangladesh, Nepal, Pakistan and Sri Lanka within 14 days of their departure to Singapore are currently required to serve a 14-day SHN at dedicated SHN facilities². As there have been recent sharp increases in cases reported by Bangladesh, Nepal, Pakistan and Sri Lanka, we will further tighten our border measures with these countries:
+
+a.  From **1 May 2021, 2359 hours,** until further notice, **all long-term pass holders and short-term visitors with recent travel history (including transit) to Bangladesh, Nepal, Pakistan and Sri Lanka within the last 14 days will not be allowed entry into Singapore, or transit through Singapore.** This will also apply to all those who had obtained prior approval for entry into Singapore.
+
+b.  All travellers with recent travel history to Bangladesh, Nepal, Pakistan and Sri Lanka who have yet to complete their 14-day SHN by **2 May 2021, 2359 hours**³**,** will need to complete an additional 7-day SHN at dedicated SHN facilities. They will undergo COVID-19 Polymerase Chain Reaction (PCR) tests on-arrival⁴, on Day 14 of their SHN, and another test before the end of their 21-day SHN period.
+
+**Travellers from Thailand to serve 14-Day SHN at dedicated SHN facilities **
+
+6.      Given the increased risk of community spread in Thailand, all travellers entering Singapore from **2 May 2021, 2359 hours,** who have a travel history in the past 14 days to **Thailand** will be required to serve a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities. They will no longer be allowed to opt out of dedicated SHN facilities, even if they have obtained approval to opt-out earlier.
+
+7.      Travellers from Fiji and Vietnam are still allowed to apply to opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence, if they fulfil the following criteria: 
+
+a.  Travelled to no other country/region than above-mentioned countries⁵, in the last consecutive 14 days prior to entry; and 
+
+b.  Are occupying their place of residence (i.e. residential address) alone, or only with household members who are also persons serving SHN with the same travel history and duration of SHN. 
+
+COVID-19 PCR tests will continue to be administered before the end of the SHN. 
+
+**Update on Westlite Dormitory Cluster**
+
+8.        A total of 27 recovered workers were found to be positive for COVID-19. These cases were immediately isolated upon detection. Of the 27 cases, 20 cases have been assessed or preliminarily assessed to be shedding virus fragments of old infections, and five are likely to be cases of COVID-19 re-infection. Two more cases have been determined to be negative for COVID-19 upon re-testing. Of note, the five reinfection cases are roommates of Case 62181 and 62225. Close contacts of these cases in the dormitory and their workplace have been quarantined. Based on the assessment thus far, this suggests that most COVID-19 positive cases among recovered workers may be assessed to be old infections. 
+
+**Tighter Precautionary Measures to Ringfence Community Cluster at TTSH **
+
+9.       13 COVID-19 cases have been identified amongst staff and patients of TTSH. TTSH has taken immediate measures to lockdown the affected wards. All close contacts of the identified cases, including patients, visitors and staff who have been in the affected wards, have also been placed on quarantine. All TTSH staff and patients who were in TTSH Main Block Levels 3 to 13 from 18 to 28 April are being tested. TTSH has also stepped up clinical surveillance of all inpatients who may develop fever and ARI symptoms. This additional testing will enable us to draw out any hidden links. Movement of healthcare workers into TTSH will also be restricted⁶, including the suspension of all healthcare student postings at TTSH and non-essential trainings. 
+
+10.      To reduce spread from undetected cases in the community, **we will also close all public places visited by the cases during their likely infectious period for 2 days for cleaning, and to facilitate the testing of staff at the affected places for surveillance against further spread.** A full list of public places visited by the cases during their infectious periods can be found in [Annex A (opens in new tab)](https://isomer-user-content.by.gov.sg/3/e12d41e8-1fd1-4716-8855-f0be9fd55ee6/annex-a7b468b22aaea4bf7aaec3dad5040e830.pdf). 
+
+11.       We will carry out surveillance testing for patients who had been discharged from, and visitors to, TTSH on or after 18 April; as well as individuals who had been to or who work at the public places that the TTSH cluster cases had visited during their infectious period⁷. Healthcare institutions have also been reminded to closely monitor patients who were previously admitted at TTSH from 18 April. While close contacts of the confirmed cases who are at higher risk of infection have already been identified through contact-tracing, the Ministry of Health is offering tests to the aforementioned groups of individuals to pre-emptively mitigate any potential risk of wider, undetected community transmission. MOH advises all visitors and patients who were at TTSH since 18 April 2021 to monitor their health closely for 14 days from their date of visit. They are strongly encouraged to visit a Regional Screening Centre (RSC) or Public Health Preparedness Clinic (PHPC) for a government-funded swab test.
+
+12.      Starting from 3 May through 16 May 2021, these individuals may book an appointment for a COVID-19 PCR test at any of the “Swab and Send Home” (SASH) PHPCs islandwide (information on SASH clinics can be found at phpc.gov.sg), or walk in to one of the following four RSCs⁸: 
+
+a.  Former Da Qiao Primary School, 8 Ang Mo Kio Street 54, S(569185);\
+b.  Former Shuqun Secondary School, 450 Jurong East Street 21, S(609604);\
+c.  Former Coral Primary School, 20 Pasir Ris Street 51, S(518902);\
+d.  Former Bishan Park Secondary School, 2 Sin Ming Walk S(575565).
+
+13.        We strongly encourage all individuals in the identified groups to come forward for testing. Individuals will only need to bring along their photo identification, and inform the PHPC or RSC staff of the date and time they were at TTSH or the specified public places. The cost of these tests will be fully borne by the Government.
+
+**Remaining Vigilant in the Fight Against COVID-19**
+
+14.         Over the past week, we have seen an increase in the number of local cases, some of which are currently unlinked and have resulted in the formation of community clusters. We therefore have to move quickly to reduce the level of interactions in the community and break the chains of transmission. On 22 January 2021, MTF had announced that visitors to households would be capped at 8 unique visitors per day.  In addition, MTF had indicated that individuals should restrict themselves to at most two other households per day, during the Chinese New Year festive period. Going forward, all individuals should limit their overall number of social interactions, to not more than two per day, whether visiting another household or meeting with friends/ family members in a public place. The following additional measures will be implemented from **1 through 14 May 2021 (unless otherwise stated): **
+
+a.  *Malls and large standalone stores:* The occupancy limit will be reduced to one person per 10 sqm of Gross Floor Area (GFA), from one person per 8 sqm of GFA; \
+b.  *Popular malls (Lucky Plaza, Peninsula Plaza):* The odd and even date entry restrictions on Sundays will be reinstated⁹\
+c.  *Outdoor barbecue pits and campsites*: These will be closed to the public, and includes barbecue pits in parks, HDB estates, condominiums and country clubs. \
+d.  * Attractions:* With effect from 7 May 2021 through 14 May 2021, all attractions that have received MTI’s prior approval will be permitted to operate at 50% operating capacity, a reduction from 65%. 
+
+Further details will be released by the relevant sector leads shortly. 
+
+15.       It is crucial that all of us continue to remain vigilant to avoid an uncontrolled resurgence of community cases. Everyone should:
+
+a.  Avoid going to crowded places, and stay home where possible\
+b.  Limit social gatherings to 2 per day in total, whether to another household or in a public place \
+c.  Keep groups as small as possible\
+d.  Stick to a regular group of contacts \
+e.  Stay home when unwell, and see a doctor to get tested when sick and be vaccinated when it is offered to you
+
+16.        Employers should allow employees to work from home if they are able to do so. Employers should continue to stagger start times of employees who need to return to the workplace, and implement flexible working hours. Social gatherings at the workplace should also be avoided. Public agencies working in the Novena area such as the Ministry of Home Affairs and the Inland Revenue Authority of Singapore will be asking their staff to work from home where possible. These measures help lower transmission risks by reducing interactions at the workplace and in public places, including public transport.
+
+17.        Our recent community cases show that the risks of a COVID-19 outbreak remains high, even as we press ahead with vaccination. We will be stepping up enforcement efforts and will not hesitate to take action against breaches of the rules. We will continue to review the current suite of measures and will take further steps to tighten and significantly reduce the level of interactions in the community should transmission persist. 
+
+18.        We seek the cooperation of all Singaporeans to remain unified and disciplined in the fight against COVID-19. Together, we can look forward to a safer and healthier Singapore.\
+
+\
+
+------------------------------------------------------------------------
+
+\
+¹  Case 62517 is a 38 year-old male Singaporean who works as an Immigration & Checkpoints Authority Officer deployed at Changi Airport Terminal 1. He was confirmed to have COVID-19 infection on 27 April.
+
+² Travellers from Sri Lanka are also allowed to opt out to serve SHN at their place of residence if they fulfil the criteria: (i) travelled to no other country/region in the last 14 days and (ii) occupying their place of residence alone or with household members with same travel history and duration of SHN.
+
+³ Includes travellers who enter Singapore before 1 May 2021, 2359 hours.
+
+⁴ To expedite the COVID-19 PCR test at the airport, travellers are strongly encouraged to register and pre-pay for their on-arrival COVID-19 PCR test prior to departing for Singapore at https://safetravel.changiairport.com/.
+
+⁵ Including the following countries/regions: Australia, Brunei Darussalam, Hong Kong, Macao, Mainland China, New Zealand and Taiwan (correct as of 30 April 2021).
+
+\
+⁶ With the exception for doctors providing emergency and time-critical services or where there is limited number of doctors in the specialised area of care
+
+⁷ As reported in the MOH press release dated 29 April 2021 and in subsequent press releases.
+
+\
+⁸ Only asymptomatic individuals will be accepted at the RSCs. For individuals who are feeling ill (e.g. have a cough, fever or running nose), please see your doctor or visit a SASH PHPC instead. Individuals may also be redirected to their nearest SASH PHPC in the event that the RSCs are crowded. Opening hours for RSCs are 9am to 12pm, and 1pm to 4pm daily.
+
+\
+⁹  Those whose National Registration Identification Card (NRIC) or Foreign Identification Number (FIN) end in even digits (0,2,4,6,8) can only visit the two malls on even dates, whilst those whose NRIC/FIN numbers end in odd digits (1,3,5,7,9) can only visit on the odd dates.\
+
+\
+
+\

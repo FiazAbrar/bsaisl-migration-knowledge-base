@@ -1,0 +1,91 @@
+SOURCE: https://www.epassport.gov.bd/instructions/passport-fees | Firecrawl 2026-11-07 | page date: "Last updated: 12 July 2026" | excerpt: main content verbatim (inside-Bangladesh fee list included)
+
+# e-Passport Fees and Payment Options
+
+Last updated: 12 July 2026
+
+## e-Passport Payment
+
+### e-Passport fees can be paid in the following ways:
+
+**1. Online: Through "A-Challan**", **"DGePay" and "ShurjoPay" (Payment option: VISA, Master Card, American Express, bKash, Nagad, Rocket, Upay, Dmoney, OK Wallet, Bank Asia, BRAC Bank, EBL, City Bank, UCB, AB Bank, DBBL, Midland Bank, MBL Rainbow)**
+
+#### 2. Offline: Can be paid at any government or private banks through A-Challan
+
+**Note:**
+
+**Regular Delivery:** Within 15 Working days / 21 days from the biometric enrolment date.
+
+**Express Delivery:** Within 7 Working days / 10 days from the biometric enrolment date.
+
+**Super Express Delivery:** Within 2 Working days from the biometric enrolment date.
+
+### e-Passport fees for inside Bangladesh (Including 15% VAT)
+
+**e-Passport with 48 pages and 5 years validity**
+
+1. Regular delivery: TK 4,025
+2. Express delivery: TK 6,325
+3. Super Express delivery: TK 8,625
+
+**e-Passport with 48 pages and 10 years validity**
+
+1. Regular delivery: TK 5,750
+2. Express delivery: TK 8,050
+3. Super Express delivery: TK 10,350
+
+**e-Passport with 64 pages and 5 years validity**
+
+1. Regular delivery: TK 6,325
+2. Express delivery: TK 8,625
+3. Super Express delivery: TK 12,075
+
+**e-Passport with 64 pages and 10 years validity**
+
+1. Regular delivery: TK 8,050
+2. Express delivery: TK 10,350
+3. Super Express delivery: TK 13,800
+
+### e-Passport fees for Bangladesh Mission's General Applicants:
+
+**e-Passport with 48 pages and 5 years validity**
+
+1. Regular delivery : USD 100
+2. Express delivery : USD 150
+
+**e-Passport with 48 pages and 10 years validity**
+
+1. Regular delivery : USD 125
+2. Express delivery : USD 175
+
+**e-Passport with 64 pages and 5 years validity**
+
+1. Regular delivery : USD 150
+2. Express delivery : USD 200
+
+**e-Passport with 64 pages and 10 years validity**
+
+1. Regular delivery : USD 175
+2. Express delivery : USD 225
+
+### e-Passport fees for Bangladesh Mission's Labors and Students:
+
+**e-Passport with 48 pages and 5 years validity**
+
+1. Regular delivery : USD 30
+2. Express delivery : USD 45
+
+**e-Passport with 48 pages and 10 years validity**
+
+1. Regular delivery : USD 50
+2. Express delivery : USD 75
+
+**e-Passport with 64 pages and 5 years validity**
+
+1. Regular delivery : USD 150
+2. Express delivery : USD 200
+
+**e-Passport with 64 pages and 10 years validity**
+
+1. Regular delivery : USD 175
+2. Express delivery : USD 225

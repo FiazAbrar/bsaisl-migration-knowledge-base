@@ -1,0 +1,41 @@
+**Note:** The TADM eServices will be undergoing scheduled maintenance on 10 Nov 2026, from 7.15pm to 7.45pm. During this period, the TADM eServices and Chatbot will not be available. Thank you for your understanding.
+
+You may visit the [Ministry of Manpower](https://www.mom.gov.sg/) if you have general queries on the [Employment Act](https://www.mom.gov.sg/employment-practices/employment-act).
+
+**Note: **Use ["Ask TADM" chatbot](https://www.tal.sg/tadm?openWidgetDefault=yes) to get immediate answers, claim assessment, and to file your claim. It will offer to make an appointment, if needed.
+
+You may visit the [Ministry of Manpower](https://www.mom.gov.sg/) if you have general queries on the [Employment Act](https://www.mom.gov.sg/employment-practices/employment-act).
+
+-  [Home](https://www.tal.sg/tadm)
+-  [Resources](https://www.tal.sg/tadm/resources)
+- MOMTADM respond to WMP claims on alleged unfair treatment of a migrant worker
+
+# MOM-TADM Joint Statement in response to Workers Make Possible social media posts on the alleged unfair treatment of a migrant worker
+
+MOM-TADM Joint Statement in response to Workers Make Possible social media posts on the alleged unfair treatment of a migrant worker
+
+Fact Check
+
+**Attributed to MOM and TADM Spokespersons**
+
+We refer to the recent social media posts by Workers Make Possible dated 31 March 2026, which contained factual inaccuracies regarding the situation of a migrant worker, Mr Ali Md Kawsar, who faced salary arrears and repatriation following the termination of his employment.\
+\
+As Workers Make Possible did not verify the accuracy of their information pertaining to Mr Kawsar’s case with the Ministry of Manpower (MOM) and the Tripartite Alliance for Dispute Management (TADM), the content in their posts is misleading and undermines the MOM and TADM’s efforts to provide migrant workers with timely interventions and support.\
+\
+We would like to address the inaccuracies in the posts and clarify the facts below.\
+\
+On 31 December 2024, Mr Kawsar visited MOM to lodge a report against his former employer, Buildwerkz Builders Pte Ltd, for alleged salary arrears and unauthorised salary deduction. As his outstanding salary amount was not due yet, he was advised by the MOM officer to seek settlement of his outstanding salary with his employer before repatriation, and to seek further assistance from MOM if his salary issues remain unresolved.\
+\
+On 2 January 2025, Mr Kawsar filed a salary claim with TADM against his former employer. TADM assisted Mr Kawsar by issuing a Special Pass to allow him to remain in Singapore while his salary claim was being looked at. Contrary to Mr Kawsar’s claim, TADM had also issued a Change of Employer letter that allowed him to seek alternative employment, which he did not take up.\
+\
+As Mr Kawsar and his employer did not reach an agreement after three mediation sessions, his claim was referred to the Employment Claims Tribunals (ECT) for adjudication. The ECT ruled in his favour and his employer made full payment of his outstanding salary in September 2025.\
+\
+MOM also investigated Mr Kawsar’s complaint against his former employer. Enforcement action has been taken against the company for making unauthorised deductions of salaries without written consent.\
+\
+When the food quality issues were raised by Mr Kawsar, MOM had engaged his employer and the caterer to address the matter, and improvements were made to the quality of food accordingly. Since then, there has been no further feedback on food quality raised by Mr Kawsar.\
+\
+Despite having the opportunity to seek legal employment while pursuing his claims in Singapore, Mr Kawsar worked illegally from February to July 2025. The matter was brought to MOM’s attention, and we investigated Mr Kawsar for illegal employment. While the investigation was ongoing, MOM allowed him to take up a 6-month job under the Temporary Job Scheme (TJS), which he did in October 2025. In February 2026, enforcement action was taken against him for working illegally. He was nonetheless allowed to complete the TJS job that ended in end March 2026.\
+\
+MOM takes all complaints from workers seriously and will investigate breaches of employment laws where there is evidence of wrongdoing. Similarly, we take a firm stance on illegal employment practices. Work pass holders who engaged in illegal employment will have their work passes revoked and will be prohibited from seeking employment in Singapore.
+
+** **

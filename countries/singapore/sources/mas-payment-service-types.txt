@@ -1,0 +1,120 @@
+PAGE META: VIcurrentDateTime: 639298329802008105
+
+Types of Payment Services
+
+A Singapore Government Agency Website
+
+How to identify
+
+Official website links end with .gov.sg
+
+Government agencies communicate via .gov.sg websites (e.g. go.gov.sg/open). 
+Trusted websites 
+
+Secure websites use HTTPS
+
+ Look for a 
+lock
+ () or https:// as an added precaution. Share sensitive information only on official, secure websites.
+
+eServices
+
+MAS-Tx
+
+Directories
+
+Who We Are
+
+Contact Us
+
+Licensing for Payment Service Providers                    
+
+Types of Payment Services
+
+MAS regulates 7 types of payment services under the 
+Payment Services Act (PS Act)
+.
+
+Payment service providers must hold a licence to provide these payment services in Singapore, unless exempted: 
+
+Type of Payment Services
+
+Brief Description 
+
+Account issuance service
+
+Issuing a payment account, or any service relating to any operation required for operating such accounts. Examples include electronic wallets (e-wallets) or a stored-value card that can be used to pay at various merchants or to transfer funds to other parties.
+
+Domestic money transfer service
+
+Providing local funds transfer service in Singapore, which could include payment gateway services and payment kiosk services.
+
+Cross-border money transfer service
+
+Providing inbound or outbound remittance service in Singapore, as well as facilitating remittance between entities in different countries even if monies are not accepted or received in Singapore.
+
+Merchant acquisition service
+
+Providing the service of accepting and processing payment transactions for a merchant under a contract. This service usually includes the provision of a point-of-sale terminal or online payment gateway. Merchant acquirers may also be providing a money transfer service if they facilitate the transfer of funds.
+
+E-money issuance service
+
+Issuing e-money, which can be used for payment or fund transfers.
+
+Digital payment token service
+
+Buying or selling digital payment tokens (DPTs) (commonly known as cryptocurrencies)
+
+Providing a platform to allow persons to exchange DPTs
+
+Transmitting or arranging for the transmission of DPTs 
+
+Provision of custodian wallet services for DPTs
+
+Actively facilitating the buying or selling of DPTs without possession of monies or DPTs
+
+Money-changing service
+
+Buying or selling foreign currency notes.
+
+Note
+: You may refer to 
+Part 2 of the First Schedule of the PS Act
+
+ for more information on services that are not regulated payment services under the PS Act.
+
+You may also refer to the 
+FAQs on the Payment Service Act 
+for more information on the scope of payment services. 
+
+Previous
+
+Types of Licences                                
+
+Next
+
+Licensing Self-Check Tools                                
+
+      Monetary Authority of Singapore
+
+Subscribe to Updates
+
+Get notified whenever news and updates are posted on this website.
+
+Contact Us
+
+Report Vulnerability 
+
+|
+
+Privacy Statement
+
+|
+
+Terms of Use
+
+© 
+2026
+, Government of Singapore.
+Last updated on 10 Oct 2025
+
