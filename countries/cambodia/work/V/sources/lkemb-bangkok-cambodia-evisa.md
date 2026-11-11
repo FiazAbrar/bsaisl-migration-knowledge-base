@@ -1,0 +1,67 @@
+PAGE META: og:updated_time: 2024-08-06T03:41:09+01:00 \| article:published_time: 2023-07-31T04:50:05+01:00 \| article:modified_time: 2024-08-06T03:41:09+01:00
+
+[![The Embassy and Permanent Mission of the Democratic Socialist Republic of Sri Lanka Bangkok, Kingdom of Thailand](/wp-content/uploads/2023/09/embassy-sri-lanka.png)](https://bangkok.embassy.gov.lk/)
+
+ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජයේ තානාපති සහ නිත්‍ය නියෝජිත කාර්යාලය, බැංකොක්, තායිලන්ත රාජධානිය
+
+இலங்கை ஜனநாயக சோசலிச குடியரசின் தூதரகம் மற்றும் நிரந்தர வதிவிடம், பாங்கொக், தாய்லாந்து இராச்சியம்
+
+The Embassy and Permanent Mission of the Democratic Socialist Republic of Sri Lanka\
+Bangkok, Kingdom of Thailand
+
+Accredited to the Kingdom of Cambodia, Lao People’s Democratic Republic and\
+United Nations Economic and Social Commission for Asia and the Pacific (UNESCAP)
+
+[](https://www.unescap.org/)
+
+Select Page
+
+# **Cambodia e-Visa**
+
+Cambodia e-Visa or Electronic Visa has been introduced by Ministry of Foreign Affairs and International Cooperation in April 2006 to promote the Cambodia tourism industry. The website [www.evisa.gov.kh](https://www.evisa.gov.kh/) now serves as a platform for tourists to apply Cambodia tourist Visa online.
+
+**Step of how to apply e-Visa application**
+
+- Click on “Application” menu.
+- Security Verify, Enter the correct code which display in the box.
+- Application, Fill in personal info, passport detail and travel detail.
+- Review, Please review all your information before proceed to Payment.
+- Payment, Choose your payment method that you prefer.
+- Complete
+
+**Entry requirements and new COVID-19 quarantine requirements for all incoming travelers to Cambodia **
+
+[https://www.mfaic.gov.kh/covid-19](https://www.mfaic.gov.kh/covid-19)
+
+**For any clarification you may contact the Royal Embassy of Cambodia resident in New Delhi, India with concurrent accredited to Bangladesh, Sri Lanka, Pakistan, Iran and Nepal**
+
+Royal Embassy of Cambodia
+
+A-1/309, Safdarjung Enclave, New Delhi 110029
+
+Tel : +91 11 41717136 / 11 41717143
+
+Email : [camemb.ind@mfaic.gov.kh](mailto:camemb.ind@mfaic.gov.kh) 
+
+Welcome to The Embassy and Permanent Mission of the Democratic Socialist Republic of Sri Lanka, Bangkok, Kingdom of Thailand
+
+13th Floor, 75/6-7 Ocean Tower2 Soi 19, Sukhumvit Rd, Wattana, Bangkok 10110
+
+[](/contact-us/)
+
+Telephone Number: +66 2-105-4851
+
+Fax Number: +66 2-026-6390
+
+Embassy Working Hours: 9.00 a.m - 5.00 p.m (Monday to Friday)
+
+Visa & Consular hours: 9.00 a.m to 3.00 p.m
+
+- [Facebook](https://www.facebook.com/slemb.bangkok)
+- [X](https://twitter.com/SLinBangkok)
+
+Copyright © 2026. The Embassy and Permanent Mission of the Democratic Socialist Republic of Sri Lanka, Bangkok, Kingdom of Thailand.
+
+- [English](https://bangkok.embassy.gov.lk/visa-to-cambodia/ "Switch to English")
+- [ไทย (Thai)](https://bangkok.embassy.gov.lk/th/visa-to-cambodia/ "Switch to ไทย (Thai)")
+- [Khmer](https://bangkok.embassy.gov.lk/kh/visa-to-cambodia/ "Switch to Khmer")

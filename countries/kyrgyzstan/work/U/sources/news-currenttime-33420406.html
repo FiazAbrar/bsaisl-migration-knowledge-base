@@ -1,0 +1,1484 @@
+
+<!DOCTYPE html>
+<html lang="ru" dir="ltr" class="no-js">
+<head>
+        <link rel="stylesheet" href="/Content/responsive/RFE/ru-RU-TV/RFE-ru-RU-TV.css?&amp;av=0.0.0.0&amp;cb=395">
+<script src="https://tags.currenttime.tv/rferl-pangea/prod/utag.sync.js"></script><script type='text/javascript' src='https://www.youtube.com/iframe_api' async></script>            <link rel="manifest" href="/manifest.json">
+    <script type="text/javascript">
+        //a general 'js' detection, must be on top level in <head>, due to CSS performance
+        document.documentElement.className = "js";
+        var cacheBuster = "395";
+        var appBaseUrl = "/";
+        var imgEnhancerBreakpoints = [0, 144, 256, 408, 650, 1023, 1597];
+        var isLoggingEnabled = false;
+        var isPreviewPage = false;
+        var isLivePreviewPage = false;
+        var isForPdf = false;
+
+                var vjsLocalization = {
+                        "Play Video": "play",
+                        "Play": "play",
+                        "Pause": "pause",
+                        "Current Time": "",
+                        "Duration": "",
+                        "Remaining Time": "",
+                        "Mute": "volume",
+                        "Unmute": "volume",
+                        "LIVE": "Live",
+                        "Quality": "source switch"
+                };
+            
+        if (!isPreviewPage) {
+            window.RFE = window.RFE || {};
+            window.RFE.cacheEnabledByParam = window.location.href.indexOf('nocache=1') === -1;
+
+            const url = new URL(window.location.href);
+            const params = new URLSearchParams(url.search);
+
+            // Remove the 'nocache' parameter
+            params.delete('nocache');
+
+            // Update the URL without the 'nocache' parameter
+            url.search = params.toString();
+            window.history.replaceState(null, '', url.toString());
+        } else if (!isForPdf) {
+            window.addEventListener('load', function() {
+                const links = window.document.links;
+                for (let i = 0; i < links.length; i++) {
+                    links[i].href = '#';
+                    links[i].target = '_self';
+                }
+             })
+        }
+
+        // Iframe & Embed detection
+        var embedProperties = {};
+
+        try {
+            // Reliable way to check if we are in an iframe.
+            var isIframe = window.self !== window.top;
+            embedProperties.is_iframe = isIframe;
+
+            if (!isIframe) {
+                embedProperties.embed_context = "main";
+            } else {
+                // We are in an iframe. Let's try to access the parent.
+                // This access will only fail with strict cross-origin (without document.domain).
+                var parentLocation = window.top.location;
+
+                // The access succeeded. Now we explicitly compare the hostname.
+                if (window.location.hostname === parentLocation.hostname) {
+                    embedProperties.embed_context = "embed_self";
+                } else {
+                    // Hostname is different (e.g. different subdomain with document.domain)
+                    embedProperties.embed_context = "embed_cross";
+                }
+
+                // Since the access works, we can safely get the details.
+                embedProperties.url_parent = parentLocation.href;
+                embedProperties.title_parent = window.top.document.title;
+            }
+        } catch (err) {
+            // We are in an iframe, and an error occurred, probably due to cross-origin restrictions.
+            embedProperties.is_iframe = true;
+            embedProperties.embed_context = "embed_cross";
+
+            // We cannot access the properties of window.top.
+            // `document.referrer` can sometimes provide the URL of the parent page.
+            // It is not 100% reliable, but it is the best we can do in this situation.
+            embedProperties.url_parent = document.referrer || null;
+            embedProperties.title_parent = null; // We can't get to the title in a cross-origin scenario.
+        }
+
+var pwaEnabled = false;        var swCacheDisabled;
+    </script>
+    <meta charset="utf-8" />
+
+            <title>В Кыргызстане объявили рейды против мигрантов, нарушивших режим пребывания в стране</title>
+            <meta name="description" content="В Кыргызстане объявили рейды против мигрантов, нарушивших режим пребывания в стране, передает кыргызская служба Радио Свобода. Операция &quot;Нелегал&quot; стартует 10 июня, рассказали в Госкомитете нацбезопасности.&#xD;&#xA;До этой даты в Кыргызстане планируют провести информационную кампанию на иностранных..." />
+                <meta name="keywords" content="Новости, Новости Азии, Выбор редакции, Кыргызстан, мигранты, Кыргызстан, высылка, нарушение, нелегал, рейды, законодательство, депортации" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<meta name="robots" content="max-image-preview:large"><meta property="fb:app_id" content="1515255158729654" />
+<meta name="yandex-verification" content="183f27ca7d8cd167" /> <meta name="yandex-verification" content="8fcec95f849757a3" />
+
+        <link href="https://www.currenttime.tv/a/v-kyrgyzstane-obyavili-reydy-protiv-migrantov/33420406.html" rel="canonical" />
+
+        <meta name="apple-mobile-web-app-title" content="Настоящее Время" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+            <meta name="apple-itunes-app" content="app-id=1042221889, app-argument=//33420406.ltr" />
+<meta content="В Кыргызстане объявили рейды против мигрантов, нарушивших режим пребывания в стране" property="og:title"></meta>
+<meta content="В Кыргызстане объявили рейды против мигрантов, нарушивших режим пребывания в стране, передает кыргызская служба Радио Свобода. Операция &quot;Нелегал&quot; стартует 10 июня, рассказали в Госкомитете нацбезопасности.&#xD;&#xA;До этой даты в Кыргызстане планируют провести информационную кампанию на иностранных..." property="og:description"></meta>
+<meta content="article" property="og:type"></meta>
+<meta content="https://www.currenttime.tv/a/v-kyrgyzstane-obyavili-reydy-protiv-migrantov/33420406.html" property="og:url"></meta>
+<meta content="Настоящее Время" property="og:site_name"></meta>
+<meta content="https://www.facebook.com/currenttimetv" property="article:publisher"></meta>
+<meta content="https://gdb.currenttime.tv/cd948d04-7f49-4d7e-1c92-08dd8209f50d_cx8_cy11_cw79_w1200_h630.jpg" property="og:image"></meta>
+<meta content="1200" property="og:image:width"></meta>
+<meta content="630" property="og:image:height"></meta>
+<meta content="1515255158729654" property="fb:app_id"></meta>
+<meta content="Настоящее Время" name="Author"></meta>
+<meta content="summary_large_image" name="twitter:card"></meta>
+<meta content="@CurrentTimeTv" name="twitter:site"></meta>
+<meta content="https://gdb.currenttime.tv/cd948d04-7f49-4d7e-1c92-08dd8209f50d_cx8_cy11_cw79_w1200_h630.jpg" name="twitter:image"></meta>
+<meta content="В Кыргызстане объявили рейды против мигрантов, нарушивших режим пребывания в стране" name="twitter:title"></meta>
+<meta content="В Кыргызстане объявили рейды против мигрантов, нарушивших режим пребывания в стране, передает кыргызская служба Радио Свобода. Операция &quot;Нелегал&quot; стартует 10 июня, рассказали в Госкомитете нацбезопасности.&#xD;&#xA;До этой даты в Кыргызстане планируют провести информационную кампанию на иностранных..." name="twitter:description"></meta>
+                    <link rel="amphtml" href="https://www.currenttime.tv/amp/v-kyrgyzstane-obyavili-reydy-protiv-migrantov/33420406.html" />
+<script type="application/ld+json">{"articleSection":"Новости","isAccessibleForFree":true,"headline":"В Кыргызстане объявили рейды против мигрантов, нарушивших режим пребывания в стране","inLanguage":"ru-RU-TV","keywords":"Новости, Новости Азии, Выбор редакции, Кыргызстан, мигранты, Кыргызстан, высылка, нарушение, нелегал, рейды, законодательство, депортации","author":{"@type":"Person","url":"https://www.currenttime.tv/author/nastoyaschee-vremya/ymtyqv","description":"Статьи и новостные заметки авторов и редакторов Настоящего Времени","image":{"@type":"ImageObject","url":"https://gdb.rferl.org/57c789de-958d-43e4-a377-70b73b0829f3.jpg"},"name":"Настоящее Время"},"datePublished":"2025-05-21 13:16:28Z","dateModified":"2025-05-21 13:16:28Z","publisher":{"logo":{"width":512,"height":220,"@type":"ImageObject","url":"https://www.currenttime.tv/Content/responsive/RFE/ru-RU-TV/img/logo.png"},"@type":"NewsMediaOrganization","url":"https://www.currenttime.tv","sameAs":["http://facebook.com/currenttimetv","https://twitter.com/CurrentTimeTv","https://www.youtube.com/user/currenttimetv","https://www.instagram.com/currenttime.tv/","https://telegram.me/currenttime"],"name":"Настоящее Время","alternateName":""},"@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://www.currenttime.tv/a/v-kyrgyzstane-obyavili-reydy-protiv-migrantov/33420406.html","url":"https://www.currenttime.tv/a/v-kyrgyzstane-obyavili-reydy-protiv-migrantov/33420406.html","description":"В Кыргызстане объявили рейды против мигрантов, нарушивших режим пребывания в стране, передает кыргызская служба Радио Свобода. Операция \u0022Нелегал\u0022 стартует 10 июня, рассказали в Госкомитете нацбезопасности.\r\nДо этой даты в Кыргызстане планируют провести информационную кампанию на иностранных...","image":{"width":1200,"height":675,"@type":"ImageObject","url":"https://gdb.currenttime.tv/cd948d04-7f49-4d7e-1c92-08dd8209f50d_cx8_cy11_cw79_w1200_r1.jpg"},"name":"В Кыргызстане объявили рейды против мигрантов, нарушивших режим пребывания в стране"}</script>    <script src="/Scripts/responsive/infographics.bundle.min.js?&amp;av=0.0.0.0&amp;cb=395"></script>
+        <script src="/Scripts/responsive/dollardom.min.js?&amp;av=0.0.0.0&amp;cb=395"></script>
+        <script src="/Scripts/responsive/modules/commons.js?&amp;av=0.0.0.0&amp;cb=395"></script>
+        <script src="/Scripts/responsive/modules/app_code.js?&amp;av=0.0.0.0&amp;cb=395"></script>
+
+        <link rel="icon" type="image/svg+xml" href="/Content/responsive/RFE/ru-RU-TV/img/webApp/favicon.svg" />
+        <link rel="alternate icon" href="/Content/responsive/RFE/ru-RU-TV/img/webApp/favicon.ico" />
+            <link rel="mask-icon" color="#2d1996" href="/Content/responsive/RFE/ru-RU-TV/img/webApp/favicon_safari.svg" />
+        <link rel="apple-touch-icon" sizes="152x152" href="/Content/responsive/RFE/ru-RU-TV/img/webApp/ico-152x152.png" />
+        <link rel="apple-touch-icon" sizes="144x144" href="/Content/responsive/RFE/ru-RU-TV/img/webApp/ico-144x144.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="/Content/responsive/RFE/ru-RU-TV/img/webApp/ico-114x114.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="/Content/responsive/RFE/ru-RU-TV/img/webApp/ico-72x72.png" />
+        <link rel="apple-touch-icon-precomposed" href="/Content/responsive/RFE/ru-RU-TV/img/webApp/ico-57x57.png" />
+        <link rel="icon" sizes="192x192" href="/Content/responsive/RFE/ru-RU-TV/img/webApp/ico-192x192.png" />
+        <link rel="icon" sizes="128x128" href="/Content/responsive/RFE/ru-RU-TV/img/webApp/ico-128x128.png" />
+        <meta name="msapplication-TileColor" content="#ffffff" />
+        <meta name="msapplication-TileImage" content="/Content/responsive/RFE/ru-RU-TV/img/webApp/ico-144x144.png" />
+                <link rel="preload" href="/Content/responsive/fonts/Roboto-Condensed-Regular_v1.woff" type="font/woff" as="font" crossorigin="anonymous" />
+    <link rel="alternate" type="application/rss+xml" title="RFE/RL - Top Stories [RSS]" href="/api/" />
+    <link rel="sitemap" type="application/rss+xml" href="/sitemap.xml" />
+    
+    
+
+
+
+        <script type="text/javascript">
+            var analyticsData = Object.assign(embedProperties, {url:"https://www.currenttime.tv/a/v-kyrgyzstane-obyavili-reydy-protiv-migrantov/33420406.html",property_id:"525",article_uid:"33420406",page_title:"в кыргызстане объявили рейды против мигрантов, нарушивших режим пребывания в стране",page_type:"article",content_type:"article",subcontent_type:"article",last_modified:"2025-05-21 13:16:28Z",pub_datetime:"2025-05-21 13:16:28Z",pub_year:"2025",pub_month:"05",pub_day:"21",pub_hour:"13",pub_weekday:"wednesday",section:"новости",english_section:"news",byline:"настоящее время",categories:"news,news-asia,editors-choice,kyrgyzstan",tags:"мигранты;кыргызстан;высылка;нарушение;нелегал;рейды;законодательство;депортации",domain:"www.currenttime.tv",language:"russian",language_service:"current time tv russian",platform:"web",copied:"no",copied_article:"not set",copied_title:"not set",runs_js:"yes",cms_release:"8.50.0.0.395",enviro_type:"prod",slug:"v-kyrgyzstane-obyavili-reydy-protiv-migrantov",entity:"rfe-voa",short_language_service:"ru",platform_short:"w",page_name:"в кыргызстане объявили рейды против мигрантов, нарушивших режим пребывания в стране"});
+            // Push Analytics data as GTM message (without "event" attribute and before GTM initialization)
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push(analyticsData);
+        </script>
+        <script type="text/javascript" data-cookiecategory="analytics">
+
+            var gtmEventObject = {event: 'page_meta_ready'};window.dataLayer = window.dataLayer || [];window.dataLayer.push(gtmEventObject);
+            var renderGtm = "true";
+            if (renderGtm === "true") {
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WXZBPZ');
+            }
+        </script>
+</head>
+<body class=" nav-no-loaded cc_theme pg-article pg-article--single-column print-lay-article use-sticky-share nojs-images ">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXZBPZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>        <script type="text/javascript" data-cookiecategory="analytics">
+
+            var gtmEventObject = {event: 'page_meta_ready'};window.dataLayer = window.dataLayer || [];window.dataLayer.push(gtmEventObject);
+
+            var renderGtm = "true";
+            if (renderGtm === "true") {
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WXZBPZ');
+            }
+
+        </script>
+        <!--Analytics tag js version start-->
+            <script type="text/javascript" data-cookiecategory="analytics">
+                var utag_data = Object.assign({}, analyticsData, {pub_year:"2025",pub_month:"05",pub_day:"21",pub_hour:"13",pub_weekday:"wednesday"});
+if(typeof(TealiumTagFrom)==='function' && typeof(TealiumTagSearchKeyword)==='function') {
+var utag_from=TealiumTagFrom();var utag_searchKeyword=TealiumTagSearchKeyword();
+if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyword"]==null) utag_data["search_keyword"]=utag_searchKeyword;if(utag_from!=null && utag_from!=='') utag_data["from"]=TealiumTagFrom();}
+                if(window.top!== window.self&&utag_data.page_type==="snippet"){utag_data.page_type = 'iframe';}
+                try{if(window.top!==window.self&&window.self.location.hostname===window.top.location.hostname){utag_data.platform = 'self-embed';utag_data.platform_short = 'se';}}catch(e){if(window.top!==window.self&&window.self.location.search.includes("platformType=self-embed")){utag_data.platform = 'cross-promo';utag_data.platform_short = 'cp';}}
+                (function(a,b,c,d){    a="https://tags.currenttime.tv/rferl-pangea/prod/utag.js";    b=document;c="script";d=b.createElement(c);d.src=a;d.type="text/java"+c;d.async=true;    a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);    })();
+            </script>
+            <!--Analytics tag js version end-->
+<!-- Analytics tag management NoScript -->
+<noscript>
+<img style="position: absolute; border: none;" src="https://ssc.currenttime.tv/b/ss/bbgprod,bbgentityrferl/1/G.4--NS/1500255132?pageName=rfe-voa%3aru%3aw%3aarticle%3a%d0%92%20%d0%9a%d1%8b%d1%80%d0%b3%d1%8b%d0%b7%d1%81%d1%82%d0%b0%d0%bd%d0%b5%20%d0%be%d0%b1%d1%8a%d1%8f%d0%b2%d0%b8%d0%bb%d0%b8%20%d1%80%d0%b5%d0%b9%d0%b4%d1%8b%20%d0%bf%d1%80%d0%be%d1%82%d0%b8%d0%b2%20%d0%bc%d0%b8%d0%b3%d1%80%d0%b0%d0%bd%d1%82%d0%be%d0%b2%2c%20%d0%bd%d0%b0%d1%80%d1%83%d1%88%d0%b8%d0%b2%d1%88%d0%b8%d1%85%20%d1%80%d0%b5%d0%b6%d0%b8%d0%bc%20%d0%bf%d1%80%d0%b5%d0%b1%d1%8b%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f%20%d0%b2%20%d1%81%d1%82%d1%80%d0%b0%d0%bd%d0%b5&amp;c6=%d0%92%20%d0%9a%d1%8b%d1%80%d0%b3%d1%8b%d0%b7%d1%81%d1%82%d0%b0%d0%bd%d0%b5%20%d0%be%d0%b1%d1%8a%d1%8f%d0%b2%d0%b8%d0%bb%d0%b8%20%d1%80%d0%b5%d0%b9%d0%b4%d1%8b%20%d0%bf%d1%80%d0%be%d1%82%d0%b8%d0%b2%20%d0%bc%d0%b8%d0%b3%d1%80%d0%b0%d0%bd%d1%82%d0%be%d0%b2%2c%20%d0%bd%d0%b0%d1%80%d1%83%d1%88%d0%b8%d0%b2%d1%88%d0%b8%d1%85%20%d1%80%d0%b5%d0%b6%d0%b8%d0%bc%20%d0%bf%d1%80%d0%b5%d0%b1%d1%8b%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f%20%d0%b2%20%d1%81%d1%82%d1%80%d0%b0%d0%bd%d0%b5&amp;v36=8.50.0.0.395&amp;v6=D=c6&amp;g=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html&amp;c1=D=g&amp;v1=D=g&amp;events=event1,event52&amp;c16=current%20time%20tv%20russian&amp;v16=D=c16&amp;c5=news&amp;v5=D=c5&amp;ch=%d0%9d%d0%be%d0%b2%d0%be%d1%81%d1%82%d0%b8&amp;c15=russian&amp;v15=D=c15&amp;c4=article&amp;v4=D=c4&amp;c14=33420406&amp;v14=D=c14&amp;v20=no&amp;c17=web&amp;v17=D=c17&amp;mcorgid=518abc7455e462b97f000101%40adobeorg&amp;server=www.currenttime.tv&amp;pageType=D=c4&amp;ns=bbg&amp;v29=D=server&amp;v25=rfe&amp;v30=525&amp;v105=D=User-Agent " alt="analytics" width="1" height="1" /></noscript>
+<!-- End of Analytics tag management NoScript -->
+
+
+        <!--*** Accessibility links - For ScreenReaders only ***-->
+        <nav class="sr-only" aria-label="Ссылки">
+            <ul>
+                <li><a href="#content" data-disable-smooth-scroll="1">Перейти к контенту</a></li>
+                <li><a href="#navigation" data-disable-smooth-scroll="1">Перейти к навигации</a></li>
+                <li><a href="#txtHeaderSearch" data-disable-smooth-scroll="1">Перейти к поиску</a></li>
+            </ul>
+        </nav>
+
+
+
+
+
+<div dir="ltr">
+    <div id="page">
+            <aside>
+
+<div class="c-lightbox overlay-modal">
+    <div class="c-lightbox__intro">
+        <p class="c-lightbox__intro-title"></p>
+        <button class="btn btn--rounded c-lightbox__btn c-lightbox__intro-next" title="Вперед">
+            <span class="ico ico--rounded ico-chevron-right"></span>
+            <span class="sr-only">Вперед</span>
+        </button>
+    </div>
+    <div class="c-lightbox__nav">
+        <button class="btn btn--rounded c-lightbox__btn c-lightbox__btn--close" title="Закрыть">
+            <span class="ico ico--rounded ico-close"></span>
+            <span class="sr-only">Закрыть</span>
+        </button>
+        <button class="btn btn--rounded c-lightbox__btn c-lightbox__btn--prev" title="Назад">
+            <span class="ico ico--rounded ico-chevron-left"></span>
+            <span class="sr-only">Назад</span>
+        </button>
+        <button class="btn btn--rounded c-lightbox__btn c-lightbox__btn--next" title="Вперед">
+            <span class="ico ico--rounded ico-chevron-right"></span>
+            <span class="sr-only">Вперед</span>
+        </button>
+    </div>
+    <div class="c-lightbox__content-wrap">
+        <figure class="c-lightbox__content">
+            <span class="c-spinner c-spinner--lightbox">
+                <img src="/Content/responsive/img/player-spinner.png"
+                     alt="пожалуйста, подождите"
+                     title="пожалуйста, подождите" />
+            </span>
+            <div class="c-lightbox__img">
+                <div class="thumb">
+                    <img src="" alt="" />
+                </div>
+            </div>
+            <figcaption>
+                <div class="c-lightbox__info c-lightbox__info--foot">
+                    <span class="c-lightbox__counter"></span>
+                    <span class="caption c-lightbox__caption"></span>
+                </div>
+            </figcaption>
+        </figure>
+    </div>
+    <div class="hidden">
+        <div class="content-advisory__box content-advisory__box--lightbox">
+            <span class="content-advisory__box-text">Изображение содержит сцены насилия или жестокости, которые могут шокировать</span>
+            <button class="btn btn--transparent content-advisory__box-btn m-t-md" value="text" type="button">
+                <span class="btn__text">
+                    Click to reveal
+                </span>
+            </button>
+        </div>
+    </div>
+</div>
+
+<div class="print-dialogue">
+    <div class="container">
+        <p class="print-dialogue__title section-head">Что печатать:</p>
+        <div class="print-dialogue__opts">
+            <ul class="print-dialogue__opt-group">
+                <li class="form__group form__group--checkbox">
+                    <input class="form__check " id="checkboxImages" name="checkboxImages" type="checkbox" checked="checked" />
+                    <label for="checkboxImages" class="form__label m-t-md">Изображения</label>
+                </li>
+                <li class="form__group form__group--checkbox">
+                    <input class="form__check " id="checkboxMultimedia" name="checkboxMultimedia" type="checkbox" checked="checked" />
+                    <label for="checkboxMultimedia" class="form__label m-t-md">Мультимедиа</label>
+                </li>
+            </ul>
+            <ul class="print-dialogue__opt-group">
+                <li class="form__group form__group--checkbox">
+                    <input class="form__check " id="checkboxEmbedded" name="checkboxEmbedded" type="checkbox" checked="checked" />
+                    <label for="checkboxEmbedded" class="form__label m-t-md">Встраиваемый контент</label>
+                </li>
+                <li class="hidden">
+                    <input class="form__check " id="checkboxComments" name="checkboxComments" type="checkbox" />
+                    <label for="checkboxComments" class="form__label m-t-md"> </label>
+                </li>
+            </ul>
+        </div>
+        <div class="print-dialogue__buttons">
+            <button class="btn  btn--secondary close-button" type="button" title="Отменить">
+                <span class="btn__text ">Отменить</span>
+            </button>
+            <button class="btn  btn-cust-print m-l-sm" type="button" title="Печать">
+                <span class="btn__text ">Печать</span>
+            </button>
+        </div>
+    </div>
+</div>                
+<div class="ctc-message pos-fix">
+    <div class="ctc-message__inner">Ссылка скопирована в буфер обмена</div>
+</div>
+            </aside>
+
+
+<div class="hdr-20 hdr-20--big">
+    <div class="hdr-20__inner">
+        <div class="hdr-20__max pos-rel">
+            <div class="hdr-20__side hdr-20__side--primary d-flex">
+                <label data-for="main-menu-ctrl" data-switcher-trigger="true" data-switch-target="main-menu-ctrl" class="burger hdr-trigger pos-rel trans-trigger" data-trans-evt="click" data-trans-id="menu">
+                    <span class="ico ico-close hdr-trigger__ico hdr-trigger__ico--close burger__ico burger__ico--close"></span>
+                    <span class="ico ico-menu hdr-trigger__ico hdr-trigger__ico--open burger__ico burger__ico--open"></span>
+                        <span class="burger__label">МЕНЮ</span>
+                </label>
+                <div class="menu-pnl pos-fix trans-target" data-switch-target="main-menu-ctrl" data-trans-id="menu">
+                    <div class="menu-pnl__inner">
+                        <nav class="main-nav menu-pnl__item menu-pnl__item--first">
+                            <ul class="main-nav__list accordeon" data-analytics-tales="false" data-promo-name="link" data-location-name="nav,secnav">
+                                
+
+        <li class="main-nav__item">
+            <a class="main-nav__item-name main-nav__item-name--link" href="/news" title="Новости"  >Новости</a>
+        </li>
+
+        <li class="main-nav__item">
+            <a class="main-nav__item-name main-nav__item-name--link" href="/a/ukraine-war-front-reports/32281333.html" title="Репортажи с передовой"  >Репортажи с передовой</a>
+        </li>
+
+        <li class="main-nav__item">
+            <a class="main-nav__item-name main-nav__item-name--link" href="https://smarturl.click/13Qx5" title="БЕЗ VPN"  >БЕЗ VPN</a>
+        </li>
+
+        <li class="main-nav__item accordeon__item" data-switch-target="menu-item-1643">
+            <label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" data-switcher-trigger="true" data-for="menu-item-1643">
+                Программы
+                <span class="ico ico-chevron-down main-nav__chev"></span>
+            </label>
+            <div class="main-nav__sub-list">
+                
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/utro" title="Утро"  >Утро</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/glavnoe" title="Главное"  >Главное</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/baltic" title="Балтия" data-item-name="baltic" >Балтия</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/smotrivoba" title="Смотри в оба"  >Смотри в оба</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/facets_of_time" title="Грани времени" data-item-name="facets-of-time" >Грани времени</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/programs" title="Все программы"  >Все программы</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/schedule/tv.html#live-now" title="Расписание"  >Расписание</a>
+
+            </div>
+        </li>
+
+        <li class="main-nav__item">
+            <a class="main-nav__item-name main-nav__item-name--link" href="/doc" title="Реальное кино"  >Реальное кино</a>
+        </li>
+
+        <li class="main-nav__item accordeon__item" data-switch-target="menu-item-3179">
+            <label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" data-switcher-trigger="true" data-for="menu-item-3179">
+                Регионы
+                <span class="ico ico-chevron-down main-nav__chev"></span>
+            </label>
+            <div class="main-nav__sub-list">
+                
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/azerbaijan" title="Азербайджан"  >Азербайджан</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/armenia" title="Армения"  >Армения</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/belarus" title="Беларусь"  >Беларусь</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/georgia" title="Грузия"  >Грузия</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/kazakhstan" title="Казахстан"  >Казахстан</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/kyrgyzstan" title="Кыргызстан"  >Кыргызстан</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/latvia" title="Латвия"  >Латвия</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/lithuania" title="Литва"  >Литва</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/moldovanian" title="Молдова"  >Молдова</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/russia" title="Россия"  >Россия</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/tajikistan" title="Таджикистан"  >Таджикистан</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/turkmenistan" title="Туркменистан"  >Туркменистан</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/uzbekisnan" title="Узбекистан"  >Узбекистан</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/Ukraine" title="Украина"  >Украина</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/estonia" title="Эстония"  >Эстония</a>
+
+            </div>
+        </li>
+
+        <li class="main-nav__item">
+            <a class="main-nav__item-name main-nav__item-name--link" href="/longreads" title="Лонгриды"  >Лонгриды</a>
+        </li>
+
+        <li class="main-nav__item">
+            <a class="main-nav__item-name main-nav__item-name--link" href="/investigations" title="Расследования"  >Расследования</a>
+        </li>
+
+        <li class="main-nav__item accordeon__item" data-switch-target="menu-item-2908">
+            <label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" data-switcher-trigger="true" data-for="menu-item-2908">
+                Спецпроекты
+                <span class="ico ico-chevron-down main-nav__chev"></span>
+            </label>
+            <div class="main-nav__sub-list">
+                
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/a/our-liberty-documentary/33608027.html" title="За Нашу Свободу"  >За Нашу Свободу</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/tell-us" title="Расскажи" data-item-name="Tell us" >Расскажи</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/polit-prisoners" title="Политзеки"  >Политзеки</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/p/8414.html" title="Уничтожение &quot;Мемориала&quot;"  >Уничтожение &quot;Мемориала&quot;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/a/voices-of-kabul/31416882.html" title="Голоса из Кабула"  >Голоса из Кабула</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/ussr-collapse-30-years" title="30 лет распаду СССР"  >30 лет распаду СССР</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/runet" title="Холивар"  >Холивар</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/all-podcasts" title="Подкасты"  >Подкасты</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/projects" title="Все спецпроекты"  >Все спецпроекты</a>
+
+            </div>
+        </li>
+
+        <li class="main-nav__item accordeon__item" data-switch-target="menu-item-3178">
+            <label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" data-switcher-trigger="true" data-for="menu-item-3178">
+                Настоящее Время. Док
+                <span class="ico ico-chevron-down main-nav__chev"></span>
+            </label>
+            <div class="main-nav__sub-list">
+                
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/unknownrussia" title="Неизвестная Россия"  >Неизвестная Россия</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/person" title="Человек на карте"  >Человек на карте</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/asia-360" title="Азия 360°" data-item-name="asia-360" >Азия 360°</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="https://zona.currenttime.tv/" title="Азбука тюрьмы"  >Азбука тюрьмы</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/runet" title="Холивар. История рунета"  >Холивар. История рунета</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/doc" title="Все документальные проекты"  >Все документальные проекты</a>
+
+            </div>
+        </li>
+
+        <li class="main-nav__item">
+            <a class="main-nav__item-name main-nav__item-name--link" href="/semsorok" title="Рассылка 7:40"  >Рассылка 7:40</a>
+        </li>
+
+        <li class="main-nav__item">
+            <a class="main-nav__item-name main-nav__item-name--link" href="/about" title="О нас"  >О нас</a>
+        </li>
+
+        <li class="main-nav__item">
+            <a class="main-nav__item-name main-nav__item-name--link" href="/contact" title="Пишите нам"  >Пишите нам</a>
+        </li>
+
+
+
+                            </ul>
+                        </nav>
+                        
+
+
+
+
+                        
+                            <div class="menu-pnl__item menu-pnl__item--social">
+                                    <p class="menu-pnl__sub-head">Присоединяйтесь!</p>
+
+            <a href="https://telegram.me/currenttime" title="Follow us on Telegram" data-analytics-text="follow_on_telegram" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-telegram"  target="_blank" rel="noopener">
+                <span class="ico ico-telegram ico--rounded"></span>
+            </a>
+
+            <a href="https://www.youtube.com/user/currenttimetv" title="Follow us on Youtube" data-analytics-text="follow_on_youtube" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-youtube"  target="_blank" rel="noopener">
+                <span class="ico ico-youtube ico--rounded"></span>
+            </a>
+
+            <a href="http://facebook.com/currenttimetv" title="Follow us on Facebook" data-analytics-text="follow_on_facebook" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-facebook"  target="_blank" rel="noopener">
+                <span class="ico ico-facebook-alt ico--rounded"></span>
+            </a>
+
+            <a href="https://www.instagram.com/currenttime.tv/" title="Follow us on Instagram" data-analytics-text="follow_on_instagram" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-instagram"  target="_blank" rel="noopener">
+                <span class="ico ico-instagram ico--rounded"></span>
+            </a>
+
+            <a href="https://twitter.com/CurrentTimeTv" title="Follow us on X (Twitter)" data-analytics-text="follow_on_twitter" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-twitter"  target="_blank" rel="noopener">
+                <span class="ico ico-twitter ico--rounded"></span>
+            </a>
+
+                            </div>
+                    </div>
+                </div>
+                <label data-for="top-search-ctrl" data-switcher-trigger="true" data-switch-target="top-search-ctrl" class="top-srch-trigger hdr-trigger">
+                    <span class="ico ico-close hdr-trigger__ico hdr-trigger__ico--close top-srch-trigger__ico top-srch-trigger__ico--close"></span>
+                    <span class="ico ico-search hdr-trigger__ico hdr-trigger__ico--open top-srch-trigger__ico top-srch-trigger__ico--open"></span>
+                </label>
+                <div class="srch-top srch-top--in-header" data-switch-target="top-search-ctrl">
+                    <div class="container">
+                        
+<form action="/s" class="srch-top__form srch-top__form--in-header" id="form-topSearchHeader" method="get" role="search">    <label for="txtHeaderSearch" class="sr-only">Искать</label>
+    <input type="text" id="txtHeaderSearch" name="k" placeholder="текст для поиска..." accesskey="s" value="" class="srch-top__input analyticstag-event" onkeydown="if (event.keyCode === 13) { FireAnalyticsTagEventOnSearch('search', $dom.get('#txtHeaderSearch')[0].value) }" />
+    <button title="Искать" type="submit" class="btn btn--top-srch analyticstag-event" onclick="FireAnalyticsTagEventOnSearch('search', $dom.get('#txtHeaderSearch')[0].value) ">
+        <span class="ico ico-search"></span>
+    </button>
+</form>
+                    </div>
+                </div>
+                <a href="/" class="main-logo-link">
+                    <img src="/Content/responsive/RFE/ru-RU-TV/img/logo-compact.svg?cb=395" class="main-logo main-logo--comp" alt="site logo">
+                        <img src="/Content/responsive/RFE/ru-RU-TV/img/logo.svg?cb=395" class="main-logo main-logo--big" alt="site logo">
+                </a>
+            </div>
+            <div class="hdr-20__side hdr-20__side--secondary d-flex">
+                
+
+    <a href="https://telegram.me/currenttime" title="Telegram" class="hdr-20__secondary-item" data-item-name="custom1">
+        
+    <span class="ico-custom ico-custom--1 hdr-20__secondary-icon"></span>
+
+    </a>
+
+    <a href="/s" title="Искать" class="hdr-20__secondary-item hdr-20__secondary-item--search" data-item-name="search">
+        
+    <span class="ico ico-search hdr-20__secondary-icon hdr-20__secondary-icon--search"></span>
+
+    </a>
+
+
+
+                
+
+<div class="hdr-20__secondary-item live-b-drop">
+    <div class="live-b-drop__off">
+        <a href="/live/video/92" class="live-b-drop__link" title="Эфир" data-item-name="live">
+            <span class="badge badge--live-btn badge--live">
+                Эфир
+            </span>
+        </a>
+    </div>
+    <div class="live-b-drop__on hidden">
+        <label data-for="live-ctrl" data-switcher-trigger="true" data-switch-target="live-ctrl" class="live-b-drop__label pos-rel">
+            <span class="badge badge--live badge--live-btn">
+                Эфир
+            </span>
+            <span class="ico ico-close live-b-drop__label-ico live-b-drop__label-ico--close"></span>
+        </label>
+        <div class="live-b-drop__panel" id="targetLivePanelDiv" data-switch-target="live-ctrl"></div>
+    </div>
+</div>
+
+
+                <div class="srch-bottom">
+                    
+<form action="/s" class="srch-bottom__form d-flex" id="form-bottomSearch" method="get" role="search">    <label for="txtSearch" class="sr-only">Искать</label>
+    <input type="search" id="txtSearch" name="k" placeholder="текст для поиска..." accesskey="s" value="" class="srch-bottom__input analyticstag-event" onkeydown="if (event.keyCode === 13) { FireAnalyticsTagEventOnSearch('search', $dom.get('#txtSearch')[0].value) }" />
+    <button title="Искать" type="submit" class="btn btn--bottom-srch analyticstag-event" onclick="FireAnalyticsTagEventOnSearch('search', $dom.get('#txtSearch')[0].value) ">
+        <span class="ico ico-search"></span>
+    </button>
+</form>
+                </div>
+            </div>
+            <img src="/Content/responsive/RFE/ru-RU-TV/img/logo-print.gif?cb=395" class="logo-print" loading="lazy" alt="site logo">
+            <img src="/Content/responsive/RFE/ru-RU-TV/img/logo-print_color.png?cb=395" class="logo-print logo-print--color" loading="lazy" alt="site logo">
+        </div>
+    </div>
+</div>
+    <script>
+        if (document.body.className.indexOf('pg-home') > -1) {
+            var nav2In = document.querySelector('.hdr-20__inner');
+            var nav2Sec = document.querySelector('.hdr-20__side--secondary');
+            var secStyle = window.getComputedStyle(nav2Sec);
+            if (nav2In && window.pageYOffset < 150 && secStyle['position'] !== 'fixed') {
+                nav2In.classList.add('hdr-20__inner--big')
+            }
+        }
+    </script>
+
+
+
+<div class="c-hlights c-hlights--breaking c-hlights--no-item" data-hlight-display="mobile,desktop">
+    <div class="c-hlights__wrap container p-0">
+        <div class="c-hlights__nav">
+            <a role="button" href="#" title="Назад">
+                <span class="ico ico-chevron-backward m-0"></span>
+                <span class="sr-only">Назад</span>
+            </a>
+            <a role="button" href="#" title="Вперед">
+                <span class="ico ico-chevron-forward m-0"></span>
+                <span class="sr-only">Вперед</span>
+            </a>
+        </div>
+        <span class="c-hlights__label">
+            <span class="">Новость часа</span>
+            <span class="switcher-trigger">
+                <label data-for="more-less-1" data-switcher-trigger="true" class="switcher-trigger__label switcher-trigger__label--more p-b-0" title="Показать больше">
+                    <span class="ico ico-chevron-down"></span>
+                </label>
+                <label data-for="more-less-1" data-switcher-trigger="true" class="switcher-trigger__label switcher-trigger__label--less p-b-0" title="Свернуть описание">
+                    <span class="ico ico-chevron-up"></span>
+                </label>
+            </span>
+        </span>
+        <ul class="c-hlights__items switcher-target" data-switch-target="more-less-1">
+            
+        </ul>
+    </div>
+</div>
+
+
+
+        <div id="content">
+            
+
+    <main class="container">
+
+    <div class="hdr-container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1">
+                <div class="row">
+                    <div class="col-category col-xs-12 col-md-8 col-md-offset-2">
+
+
+<div class="category js-category">
+<a class="" href="/news">Новости</a></div></div>
+<div class="col-title col-xs-12 col-md-8 col-md-offset-2">
+
+    <h1 class="title pg-title">В Кыргызстане объявили рейды против мигрантов, нарушивших режим пребывания в стране</h1>
+</div>
+<div class="col-publishing-details col-xs-12 col-md-8 col-md-offset-2">
+
+<div class="publishing-details ">
+                <div class="links">
+                    <ul class="links__list">
+                            <li class="links__item">
+            <a class="links__item-link" href="/author/nastoyaschee-vremya/ymtyqv"  title="Настоящее Время">Настоящее Время</a>                            </li>
+                    </ul>
+                </div>
+        <div class="published">
+            <span class="date" >
+                    <time pubdate="pubdate" datetime="2025-05-21T16:16:28&#x2B;03:00">
+                        21 мая 2025 года  16:16 мск
+                    </time>
+            </span>
+        </div>
+</div>
+
+
+</div>
+<div class="col-xs-12 col-md-8 col-md-offset-2">
+
+<div class="col-article-tools pos-rel article-share">
+
+    <div class="share--box">
+                <div class="sticky-share-container" style="display:none">
+                    <div class="container">
+                        <a href="https://www.currenttime.tv" id="logo-sticky-share">&nbsp;</a>
+                        <div class="pg-title pg-title--sticky-share">
+                            В Кыргызстане объявили рейды против мигрантов, нарушивших режим пребывания в стране
+                        </div>
+                        <div class="sticked-nav-actions">
+                            <!--This part is for sticky navigation display-->
+                            <aside class="content-sharing js-content-sharing js-content-sharing--apply-sticky content-sharing--sticky" role="complementary" 
+                                   data-share-url="https://www.currenttime.tv/a/v-kyrgyzstane-obyavili-reydy-protiv-migrantov/33420406.html" data-share-title="В Кыргызстане объявили рейды против мигрантов, нарушивших режим пребывания в стране" data-share-text="">
+                                <div class="content-sharing__popover">
+                                    <p class="content-sharing__title">Поделиться</p>
+                                    <button class="btn btn--text-like content-sharing__close-btn">
+                                        <span class="ico ico-close ico--l"></span>
+                                    </button>
+            <ul class="content-sharing__list">
+                    <li class="content-sharing__item">
+                            <div class="ctc ">
+                                <input type="text" class="ctc__input" readonly="readonly">
+                                <a href="" class="content-sharing__link ctc__button">
+                                    <span class="ico ico-copy-link ico--rounded ico--s"></span>
+                                        <span class="content-sharing__link-text">Скопировать линк</span>
+                                </a>
+                            </div>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html"
+           data-analytics-text="share_on_facebook"
+           title="Facebook" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-facebook ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">Facebook</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://twitter.com/share?url=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html&amp;text=%d0%92&#x2B;%d0%9a%d1%8b%d1%80%d0%b3%d1%8b%d0%b7%d1%81%d1%82%d0%b0%d0%bd%d0%b5&#x2B;%d0%be%d0%b1%d1%8a%d1%8f%d0%b2%d0%b8%d0%bb%d0%b8&#x2B;%d1%80%d0%b5%d0%b9%d0%b4%d1%8b&#x2B;%d0%bf%d1%80%d0%be%d1%82%d0%b8%d0%b2&#x2B;%d0%bc%d0%b8%d0%b3%d1%80%d0%b0%d0%bd%d1%82%d0%be%d0%b2%2c&#x2B;%d0%bd%d0%b0%d1%80%d1%83%d1%88%d0%b8%d0%b2%d1%88%d0%b8%d1%85&#x2B;%d1%80%d0%b5%d0%b6%d0%b8%d0%bc&#x2B;%d0%bf%d1%80%d0%b5%d0%b1%d1%8b%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f&#x2B;%d0%b2&#x2B;%d1%81%d1%82%d1%80%d0%b0%d0%bd%d0%b5"
+           data-analytics-text="share_on_twitter"
+           title="X (Twitter)" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-twitter ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">X (Twitter)</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://telegram.me/share/url?url=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html"
+           data-analytics-text="share_on_telegram"
+           title="Telegram" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-telegram ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">Telegram</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-md-inline-block visible-lg-inline-block">
+        <a href="https://web.whatsapp.com/send?text=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html"
+           data-analytics-text="share_on_whatsapp_desktop"
+           title="WhatsApp" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-whatsapp ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">WhatsApp</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-xs-inline-block visible-sm-inline-block">
+        <a href="whatsapp://send?text=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html"
+           data-analytics-text="share_on_whatsapp"
+           title="WhatsApp" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-whatsapp ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">WhatsApp</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="mailto:?body=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html&amp;subject=В Кыргызстане объявили рейды против мигрантов, нарушивших режим пребывания в стране"
+           
+           title="Email" 
+           class="content-sharing__link ">
+            <span class="ico ico-email ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">Email</span>
+        </a>
+                    </li>
+
+            </ul>
+                                </div>
+                            </aside>
+                            <p class="buttons link-content-sharing p-0">
+                                <button class="btn btn--link btn-content-sharing p-t-0" value="text" role="Button" type="" title="Поделиться">
+                                    <span class="ico ico-share"></span>
+                                    <span class="btn__text">
+                                        Поделиться
+                                    </span>
+                                </button>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="links"  data-smart-link-api=https://smarturl.click/link?key=A4nq7KCbDoo7-Sqp1kcjoztd4bmmjswF6wAlR1_wPI8&amp;type=short&amp;url=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html>
+                        <aside class="content-sharing js-content-sharing " role="complementary" 
+                               data-share-url="https://www.currenttime.tv/a/v-kyrgyzstane-obyavili-reydy-protiv-migrantov/33420406.html" data-share-title="В Кыргызстане объявили рейды против мигрантов, нарушивших режим пребывания в стране" data-share-text="">
+                            <div class="content-sharing__popover">
+                                <p class="content-sharing__title">Поделиться</p>
+                                <button class="btn btn--text-like content-sharing__close-btn">
+                                    <span class="ico ico-close ico--l"></span>
+                                </button>
+            <ul class="content-sharing__list">
+                    <li class="content-sharing__item">
+                            <div class="ctc ">
+                                <input type="text" class="ctc__input" readonly="readonly">
+                                <a href="" class="content-sharing__link ctc__button">
+                                    <span class="ico ico-copy-link ico--rounded ico--l"></span>
+                                        <span class="content-sharing__link-text">Скопировать линк</span>
+                                </a>
+                            </div>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html"
+           data-analytics-text="share_on_facebook"
+           title="Facebook" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-facebook ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">Facebook</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://twitter.com/share?url=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html&amp;text=%d0%92&#x2B;%d0%9a%d1%8b%d1%80%d0%b3%d1%8b%d0%b7%d1%81%d1%82%d0%b0%d0%bd%d0%b5&#x2B;%d0%be%d0%b1%d1%8a%d1%8f%d0%b2%d0%b8%d0%bb%d0%b8&#x2B;%d1%80%d0%b5%d0%b9%d0%b4%d1%8b&#x2B;%d0%bf%d1%80%d0%be%d1%82%d0%b8%d0%b2&#x2B;%d0%bc%d0%b8%d0%b3%d1%80%d0%b0%d0%bd%d1%82%d0%be%d0%b2%2c&#x2B;%d0%bd%d0%b0%d1%80%d1%83%d1%88%d0%b8%d0%b2%d1%88%d0%b8%d1%85&#x2B;%d1%80%d0%b5%d0%b6%d0%b8%d0%bc&#x2B;%d0%bf%d1%80%d0%b5%d0%b1%d1%8b%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f&#x2B;%d0%b2&#x2B;%d1%81%d1%82%d1%80%d0%b0%d0%bd%d0%b5"
+           data-analytics-text="share_on_twitter"
+           title="X (Twitter)" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-twitter ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">X (Twitter)</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://telegram.me/share/url?url=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html"
+           data-analytics-text="share_on_telegram"
+           title="Telegram" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-telegram ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">Telegram</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-md-inline-block visible-lg-inline-block">
+        <a href="https://web.whatsapp.com/send?text=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html"
+           data-analytics-text="share_on_whatsapp_desktop"
+           title="WhatsApp" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-whatsapp ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">WhatsApp</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-xs-inline-block visible-sm-inline-block">
+        <a href="whatsapp://send?text=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html"
+           data-analytics-text="share_on_whatsapp"
+           title="WhatsApp" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-whatsapp ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">WhatsApp</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="mailto:?body=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html&amp;subject=В Кыргызстане объявили рейды против мигрантов, нарушивших режим пребывания в стране"
+           
+           title="Email" 
+           class="content-sharing__link ">
+            <span class="ico ico-email ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">Email</span>
+        </a>
+                    </li>
+
+            </ul>
+                            </div>
+                        </aside>
+                        <p class="buttons link-content-sharing p-0">
+                            <button class="btn btn--link btn-content-sharing p-t-0" value="text" role="Button" type="" title="Поделиться">
+                                <span class="ico ico-share"></span>
+                                <span class="btn__text">
+                                    Поделиться
+                                </span>
+                            </button>
+                        </p>
+                    <div class="buttons link-content-sharing p-0 ctc">
+    <div class="popover d-flex">
+        <input type="text" class="ctc__input" readonly="readonly">
+        <a class="btn btn--link btn-content-sharing ctc__button p-t-0 btn--smart-link" href="#" title="Поделиться без VPN">
+            <span class="ico ico-link"></span>
+            <span class="btn__text">Поделиться без VPN</span>
+        </a>
+        <span class="ico ico-info-filled m-l-sm smart-link-help"></span>
+        <div class="popover__holder">
+            <div class="popover__content">
+                <p>Эту ссылку можно отправить тем, у кого наш сайт заблокирован</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+                        <div class="buttons google-button p-0">
+                            <div class="d-flex prefer-google">
+                                <a href="https://www.google.com/preferences/source?q=https://www.currenttime.tv/" target="_blank" class="d-flex prefer-google__link">
+                                    <img class="prefer-google__icon" src="/Content/responsive/img/Google-G-logo.svg" height="16" width="16" />
+                                    <span class="prefer-google__text">Подпишитесь на нас в Google</span>
+                                </a>
+                            </div>
+                        </div>
+                </div>
+    </div>
+
+</div>
+</div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+<div class="body-container">
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-md-offset-2">
+                    <div id="article-content" class="content-floated-wrap fb-quotable">
+
+    <div class="wsw">
+
+<p>В Кыргызстане объявили рейды против мигрантов, нарушивших режим пребывания в стране, <a class="wsw__a" href="https://www.azattyk.org/a/33420309.html" target="_blank">передает</a> кыргызская служба Радио Свобода. Операция &quot;Нелегал&quot; стартует 10 июня, рассказали в Госкомитете нацбезопасности. </p><p style="text-align: start;">До этой даты в Кыргызстане планируют провести информационную кампанию на иностранных языках, а после начнутся проверки иностранных граждан, нарушивших режим пребывания. В операции примут участие все силовые структуры. В отношении нарушителей и приглашающих сторон будут применяться административные и уголовные меры.</p><p style="text-align: start;">По данным главы Государственного комитета национальной безопасности (ГКНБ) Камчыбека Ташиева, с начала года в Кыргызстан прибыли: </p><ul><li style="text-align: start;">более 61 тысячи туристов, </li><li style="text-align: start;">30 тысяч студентов, </li><li style="text-align: start;">12 тысяч официальных трудовых мигрантов </li><li style="text-align: start;">и 10 тысяч человек по другим категориям. </li></ul><p style="text-align: start;">При этом, по оценке ГКНБ, число нелегальных мигрантов в стране составляет около 5 тысяч.</p><p style="text-align: start;">&quot;Многие иностранцы и приглашающие организации злоупотребляют льготным и упрощенным порядком въезда в страну. Иностранцы приезжают в страну под видом потенциальных туристов и студентов, а по сути, работают нелегально. Юридические лица и иностранцы, уклоняясь от уплаты государственных пошлин, трудоустраивают нелегальных мигрантов (студентов и туристов), тем самым грубо нарушая требования действующего миграционного законодательства&quot;, – заявил глава ГКНБ.</p><p style="text-align: start;">Он также утверждает, что &quot;работодатели и вузы часто не продлевают визы, оставляя иностранцев с просроченными документами&quot;, а те, в свою очередь, &quot;нарушают общественный порядок и нормы поведения&quot;: &quot;злоупотребляют спиртными напитками, наркотическими средствами, ведут себя вызывающе и непристойно в общественных местах, в том числе по отношению к женскому полу, не соблюдают элементарные нормы уважения к традициям и культуре местного населения&quot;.</p>
+
+        <div data-owner-ct="Article" data-inline="False">
+        <div class="media-block also-read" >
+                <a href="/a/kyrgyzstantsy-o-tom-kak-ih-synovey-v-rossii-verbovali-na-voynu-bolshe-desyati-rebyat-otpravili-v-zhivyh-ostalsya-odin-ostalnye-pogibli-/33154894.html" target="_self" title="Кыргызстанцы – о том, как их сыновей в России вербовали на войну: &quot;Больше десяти ребят отправили, в живых остался один, остальные погибли&quot;&#xA0;" class="img-wrap img-wrap--size-3 also-read__img">
+                    <span class="thumb thumb16_9">
+                            <noscript class="nojs-img">
+                                <img src="https://gdb.currenttime.tv/189a1dff-8709-42a9-8361-0da9858eb2a0_cx8_cy18_cw91_w100_r1.jpg" alt="&quot;Позвонил и сказал: &quot;Все, назад пути нет, я еду&quot;. Кыргызстанцы рассказывают, как их живущих в России сыновей завербовали на войну">
+                            </noscript>
+                        <img data-src="https://gdb.currenttime.tv/189a1dff-8709-42a9-8361-0da9858eb2a0_cx8_cy18_cw91_w100_r1.jpg"  alt="&quot;Позвонил и сказал: &quot;Все, назад пути нет, я еду&quot;. Кыргызстанцы рассказывают, как их живущих в России сыновей завербовали на войну" />
+                    </span>
+                </a>
+            <div class="media-block__content also-read__body also-read__body--h">
+                <a href="/a/kyrgyzstantsy-o-tom-kak-ih-synovey-v-rossii-verbovali-na-voynu-bolshe-desyati-rebyat-otpravili-v-zhivyh-ostalsya-odin-ostalnye-pogibli-/33154894.html" target="_self" title="Кыргызстанцы – о том, как их сыновей в России вербовали на войну: &quot;Больше десяти ребят отправили, в живых остался один, остальные погибли&quot;&#xA0;">
+                    <span class="also-read__text--label">
+                        СМОТРИТЕ ТАКЖЕ:
+                    </span>
+                    <p class="media-block__title media-block__title--size-3 also-read__text p-0">
+                        Кыргызстанцы – о том, как их сыновей в России вербовали на войну: &quot;Больше десяти ребят отправили, в живых остался один, остальные погибли&quot;&#xA0;
+                    </p>
+                </a>
+            </div>
+        </div>
+        </div>
+
+<p style="text-align: start;">Ранее в этом месяце полиция Бишкека сообщила, что в рамках операции &quot;Нелегал&quot; выявила около 800 нарушений законодательства о трудоустройстве иностранцев в Кыргызстане, составлены административные протоколы на сумму более 3,6 миллиона сомов (более $41 тысячи). </p><p style="text-align: start;">За последние годы в Кыргызстане увеличилось число трудовых мигрантов из Индии, Пакистана и Бангладеш. Большинство из них работают в строительных, ремонтных и швейных мастерских.</p><p style="text-align: start;">На 2024 год кабинет министров утвердил квоту на приезд в Кыргызстан 25 тысяч иностранных граждан. По данным Министерства труда, социальной защиты и миграции, три тысячи из них не были использованы. Тем временем в высших учебных заведениях Кыргызстана обучаются более 70 тысяч иностранных студентов.</p>
+
+        <div data-owner-ct="Article" data-inline="False">
+        <div class="media-block also-read" >
+                <a href="/a/vse-moi-karty-zablokirovany-esli-otkroyu-druguyu-ee-tozhe-blokiruyut-kyrgyzstanka-ne-ponimaet-kak-okazalas-v-chernom-spiske-v-rossii/33378292.html" target="_self" title="&quot;Все мои карты заблокированы. Открою другую — ее тоже блокируют&quot;. Кыргызстанка не понимает, как оказалась в &quot;черном списке&quot; в России" class="img-wrap img-wrap--size-3 also-read__img">
+                    <span class="thumb thumb16_9">
+                            <noscript class="nojs-img">
+                                <img src="https://gdb.currenttime.tv/5A82AA0E-8F7B-40C6-A70C-A5EE9568EFF5_cx0_cy3_cw0_w100_r1.jpg" alt="История кыргызстанки: ее внесли в &quot;реестр контролируемых лиц&quot; в России и заблокировали ей все счета и карты">
+                            </noscript>
+                        <img data-src="https://gdb.currenttime.tv/5A82AA0E-8F7B-40C6-A70C-A5EE9568EFF5_cx0_cy3_cw0_w100_r1.jpg"  alt="История кыргызстанки: ее внесли в &quot;реестр контролируемых лиц&quot; в России и заблокировали ей все счета и карты" />
+                    </span>
+                </a>
+            <div class="media-block__content also-read__body also-read__body--h">
+                <a href="/a/vse-moi-karty-zablokirovany-esli-otkroyu-druguyu-ee-tozhe-blokiruyut-kyrgyzstanka-ne-ponimaet-kak-okazalas-v-chernom-spiske-v-rossii/33378292.html" target="_self" title="&quot;Все мои карты заблокированы. Открою другую — ее тоже блокируют&quot;. Кыргызстанка не понимает, как оказалась в &quot;черном списке&quot; в России">
+                    <span class="also-read__text--label">
+                        СМОТРИТЕ ТАКЖЕ:
+                    </span>
+                    <p class="media-block__title media-block__title--size-3 also-read__text p-0">
+                        &quot;Все мои карты заблокированы. Открою другую — ее тоже блокируют&quot;. Кыргызстанка не понимает, как оказалась в &quot;черном списке&quot; в России
+                    </p>
+                </a>
+            </div>
+        </div>
+        </div>
+
+<p><br /></p>
+
+    <div>
+        <div class="media-block also-read">
+            <span class="also-read__text--label">СМОТРИТЕ ТАКЖЕ:</span>
+                <div class="media-block__content package-list package-list--also-read">
+                    <a href="https://www.currenttime.tv/a/meksika-kyrgyzstantsi-posle-otmena-cbp-one-usa-trump-migranti-asia-mexico/33286001.html" target='_self'><p class="media-block__title media-block__title--size-3">Сотням мигрантов из Центральной Азии Трамп закрыл дорогу в США через Мексику: &quot;Взял билет обратно. Лучше вернуться, жить впроголодь&quot;</p></a>
+                </div>
+                <div class="media-block__content package-list package-list--also-read">
+                    <a href="https://www.currenttime.tv/a/iz-rf-2024-vydvorili-bolshe-80-tysyach-migrantov-eto-pochti-v-dva-raza-bolshe-chem-v-2023/33268247.html" target='_self'><p class="media-block__title media-block__title--size-3">Из России в 2024 году выдворили больше 80 тысяч мигрантов. Это почти в два раза больше, чем в 2023-м</p></a>
+                </div>
+                <div class="media-block__content package-list package-list--also-read">
+                    <a href="https://www.currenttime.tv/a/raznitsa-mezhdu-prezhney-rossiey-i-nyneshney-ogromnaya-kyrgyzstanets-kotoryy-byl-migrantom-v-moskve-snova-priehal-v-rf-i-uzhasnulsya/33237338.html" target='_self'><p class="media-block__title media-block__title--size-3">Кыргызстанец, который был мигрантом в Москве, снова приехал в РФ и ужаснулся: &quot;Разница между прежней Россией и нынешней – огромная&quot;</p></a>
+                </div>
+                <div class="media-block__content package-list package-list--also-read">
+                    <a href="https://www.currenttime.tv/a/bolee-sotni-taksistov-migrantov-iz-kyrgyzstana-stali-zhertvami-moshennikov-v-moskve-chto-proizoshlo-/33232169.html" target='_self'><p class="media-block__title media-block__title--size-3">&quot;После завершения платежей мою машину забрали&quot;. Более сотни таксистов-мигрантов в Москве стали жертвами мошенников </p></a>
+                </div>
+                <div class="media-block__content package-list package-list--also-read">
+                    <a href="https://www.currenttime.tv/a/muzhchin-silno-izbivayut-dubinkami-esli-dorogoy-telefon-ili-dengi-ih-otbirayut-migranty-rasskazyvayut-o-spetspriemnike-saharovo/33179426.html" target='_self'><p class="media-block__title media-block__title--size-3">&quot;Мужчин сильно избивают дубинками. Дорогой телефон или деньги отбирают&quot;. Мигранты рассказывают о спецприемнике &quot;Сахарово&quot; в Москве</p></a>
+                </div>
+                <div class="media-block__content package-list package-list--also-read">
+                    <a href="https://www.currenttime.tv/a/obeschayut-deneg-i-grazhdanstvo-no-po-faktu-obmanyvayut-na-voynu-popadayut-vse-bolshe-kyrgyzstantsev-kotorye-zhili-v-rossii/33170174.html" target='_self'><p class="media-block__title media-block__title--size-3">&quot;Обещают денег и гражданство, но по факту обманывают&quot;. На войну в Украину попадают все больше мигрантов, которые жили в России</p></a>
+                </div>
+                <div class="media-block__content package-list package-list--also-read">
+                    <a href="https://www.currenttime.tv/a/nelegalnye-migranty-v-rossii-ne-smogut-polzovatsya-bankami-upravlyat-transportom-zhenitsya/33125894.html" target='_self'><p class="media-block__title media-block__title--size-3">МВД: нелегальные мигранты в России не смогут пользоваться банками, управлять транспортом, жениться и оформлять детей в школы</p></a>
+                </div>
+        </div>
+    </div>
+    </div>
+
+                            <div class="footer-toolbar">
+                            
+    <div class="share--box">
+                <div class="sticky-share-container" style="display:none">
+                    <div class="container">
+                        <a href="https://www.currenttime.tv" id="logo-sticky-share">&nbsp;</a>
+                        <div class="pg-title pg-title--sticky-share">
+                            В Кыргызстане объявили рейды против мигрантов, нарушивших режим пребывания в стране
+                        </div>
+                        <div class="sticked-nav-actions">
+                            <!--This part is for sticky navigation display-->
+                            <aside class="content-sharing js-content-sharing js-content-sharing--apply-sticky content-sharing--sticky" role="complementary" 
+                                   data-share-url="https://www.currenttime.tv/a/v-kyrgyzstane-obyavili-reydy-protiv-migrantov/33420406.html" data-share-title="В Кыргызстане объявили рейды против мигрантов, нарушивших режим пребывания в стране" data-share-text="">
+                                <div class="content-sharing__popover">
+                                    <p class="content-sharing__title">Поделиться</p>
+                                    <button class="btn btn--text-like content-sharing__close-btn">
+                                        <span class="ico ico-close ico--l"></span>
+                                    </button>
+            <ul class="content-sharing__list">
+                    <li class="content-sharing__item">
+                            <div class="ctc ">
+                                <input type="text" class="ctc__input" readonly="readonly">
+                                <a href="" class="content-sharing__link ctc__button">
+                                    <span class="ico ico-copy-link ico--rounded ico--s"></span>
+                                        <span class="content-sharing__link-text">Скопировать линк</span>
+                                </a>
+                            </div>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html"
+           data-analytics-text="share_on_facebook"
+           title="Facebook" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-facebook ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">Facebook</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://twitter.com/share?url=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html&amp;text=%d0%92&#x2B;%d0%9a%d1%8b%d1%80%d0%b3%d1%8b%d0%b7%d1%81%d1%82%d0%b0%d0%bd%d0%b5&#x2B;%d0%be%d0%b1%d1%8a%d1%8f%d0%b2%d0%b8%d0%bb%d0%b8&#x2B;%d1%80%d0%b5%d0%b9%d0%b4%d1%8b&#x2B;%d0%bf%d1%80%d0%be%d1%82%d0%b8%d0%b2&#x2B;%d0%bc%d0%b8%d0%b3%d1%80%d0%b0%d0%bd%d1%82%d0%be%d0%b2%2c&#x2B;%d0%bd%d0%b0%d1%80%d1%83%d1%88%d0%b8%d0%b2%d1%88%d0%b8%d1%85&#x2B;%d1%80%d0%b5%d0%b6%d0%b8%d0%bc&#x2B;%d0%bf%d1%80%d0%b5%d0%b1%d1%8b%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f&#x2B;%d0%b2&#x2B;%d1%81%d1%82%d1%80%d0%b0%d0%bd%d0%b5"
+           data-analytics-text="share_on_twitter"
+           title="X (Twitter)" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-twitter ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">X (Twitter)</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://telegram.me/share/url?url=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html"
+           data-analytics-text="share_on_telegram"
+           title="Telegram" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-telegram ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">Telegram</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-md-inline-block visible-lg-inline-block">
+        <a href="https://web.whatsapp.com/send?text=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html"
+           data-analytics-text="share_on_whatsapp_desktop"
+           title="WhatsApp" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-whatsapp ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">WhatsApp</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-xs-inline-block visible-sm-inline-block">
+        <a href="whatsapp://send?text=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html"
+           data-analytics-text="share_on_whatsapp"
+           title="WhatsApp" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-whatsapp ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">WhatsApp</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="mailto:?body=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html&amp;subject=В Кыргызстане объявили рейды против мигрантов, нарушивших режим пребывания в стране"
+           
+           title="Email" 
+           class="content-sharing__link ">
+            <span class="ico ico-email ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">Email</span>
+        </a>
+                    </li>
+
+            </ul>
+                                </div>
+                            </aside>
+                            <p class="buttons link-content-sharing p-0">
+                                <button class="btn btn--link btn-content-sharing p-t-0" value="text" role="Button" type="" title="Поделиться">
+                                    <span class="ico ico-share"></span>
+                                    <span class="btn__text">
+                                        Поделиться
+                                    </span>
+                                </button>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="links"  data-smart-link-api=https://smarturl.click/link?key=A4nq7KCbDoo7-Sqp1kcjoztd4bmmjswF6wAlR1_wPI8&amp;type=short&amp;url=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html>
+                        <aside class="content-sharing js-content-sharing " role="complementary" 
+                               data-share-url="https://www.currenttime.tv/a/v-kyrgyzstane-obyavili-reydy-protiv-migrantov/33420406.html" data-share-title="В Кыргызстане объявили рейды против мигрантов, нарушивших режим пребывания в стране" data-share-text="">
+                            <div class="content-sharing__popover">
+                                <p class="content-sharing__title">Поделиться</p>
+                                <button class="btn btn--text-like content-sharing__close-btn">
+                                    <span class="ico ico-close ico--l"></span>
+                                </button>
+            <ul class="content-sharing__list">
+                    <li class="content-sharing__item">
+                            <div class="ctc ">
+                                <input type="text" class="ctc__input" readonly="readonly">
+                                <a href="" class="content-sharing__link ctc__button">
+                                    <span class="ico ico-copy-link ico--rounded ico--l"></span>
+                                        <span class="content-sharing__link-text">Скопировать линк</span>
+                                </a>
+                            </div>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html"
+           data-analytics-text="share_on_facebook"
+           title="Facebook" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-facebook ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">Facebook</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://twitter.com/share?url=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html&amp;text=%d0%92&#x2B;%d0%9a%d1%8b%d1%80%d0%b3%d1%8b%d0%b7%d1%81%d1%82%d0%b0%d0%bd%d0%b5&#x2B;%d0%be%d0%b1%d1%8a%d1%8f%d0%b2%d0%b8%d0%bb%d0%b8&#x2B;%d1%80%d0%b5%d0%b9%d0%b4%d1%8b&#x2B;%d0%bf%d1%80%d0%be%d1%82%d0%b8%d0%b2&#x2B;%d0%bc%d0%b8%d0%b3%d1%80%d0%b0%d0%bd%d1%82%d0%be%d0%b2%2c&#x2B;%d0%bd%d0%b0%d1%80%d1%83%d1%88%d0%b8%d0%b2%d1%88%d0%b8%d1%85&#x2B;%d1%80%d0%b5%d0%b6%d0%b8%d0%bc&#x2B;%d0%bf%d1%80%d0%b5%d0%b1%d1%8b%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f&#x2B;%d0%b2&#x2B;%d1%81%d1%82%d1%80%d0%b0%d0%bd%d0%b5"
+           data-analytics-text="share_on_twitter"
+           title="X (Twitter)" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-twitter ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">X (Twitter)</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://telegram.me/share/url?url=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html"
+           data-analytics-text="share_on_telegram"
+           title="Telegram" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-telegram ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">Telegram</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-md-inline-block visible-lg-inline-block">
+        <a href="https://web.whatsapp.com/send?text=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html"
+           data-analytics-text="share_on_whatsapp_desktop"
+           title="WhatsApp" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-whatsapp ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">WhatsApp</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-xs-inline-block visible-sm-inline-block">
+        <a href="whatsapp://send?text=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html"
+           data-analytics-text="share_on_whatsapp"
+           title="WhatsApp" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-whatsapp ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">WhatsApp</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="mailto:?body=https%3a%2f%2fwww.currenttime.tv%2fa%2fv-kyrgyzstane-obyavili-reydy-protiv-migrantov%2f33420406.html&amp;subject=В Кыргызстане объявили рейды против мигрантов, нарушивших режим пребывания в стране"
+           
+           title="Email" 
+           class="content-sharing__link ">
+            <span class="ico ico-email ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">Email</span>
+        </a>
+                    </li>
+
+            </ul>
+                            </div>
+                        </aside>
+                        <p class="buttons link-content-sharing p-0">
+                            <button class="btn btn--link btn-content-sharing p-t-0" value="text" role="Button" type="" title="Поделиться">
+                                <span class="ico ico-share"></span>
+                                <span class="btn__text">
+                                    Поделиться
+                                </span>
+                            </button>
+                        </p>
+                    <div class="buttons link-content-sharing p-0 ctc">
+    <div class="popover d-flex">
+        <input type="text" class="ctc__input" readonly="readonly">
+        <a class="btn btn--link btn-content-sharing ctc__button p-t-0 btn--smart-link" href="#" title="Поделиться без VPN">
+            <span class="ico ico-link"></span>
+            <span class="btn__text">Поделиться без VPN</span>
+        </a>
+        <span class="ico ico-info-filled m-l-sm smart-link-help"></span>
+        <div class="popover__holder">
+            <div class="popover__content">
+                <p>Эту ссылку можно отправить тем, у кого наш сайт заблокирован</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <aside class="content-sharing js-content-sharing follow-us" role="complementary">
+        <div class="content-sharing__popover">
+                <p class="content-sharing__title">Подпишитесь</p>
+            <button class="btn btn--text-like content-sharing__close-btn">
+                <span class="ico ico-close"></span>
+            </button>
+            <ul class="content-sharing__list link-content-sharing p-0">
+                            <li class="content-sharing__item ">
+                <a class="content-sharing__link " href="http://facebook.com/currenttimetv" title="Follow us on Facebook" data-analytics-text="follow_on_facebook"    target="_blank" rel="noopener">
+                    <span class="ico ico-facebook-alt ico--rounded"></span>
+                    <span class="content-sharing__link-text">Facebook</span>
+                </a>
+            </li>
+
+            <li class="content-sharing__item ">
+                <a class="content-sharing__link " href="https://twitter.com/CurrentTimeTv" title="Follow us on X (Twitter)" data-analytics-text="follow_on_twitter"    target="_blank" rel="noopener">
+                    <span class="ico ico-twitter ico--rounded"></span>
+                    <span class="content-sharing__link-text">X (Twitter)</span>
+                </a>
+            </li>
+
+            <li class="content-sharing__item ">
+                <a class="content-sharing__link " href="https://www.youtube.com/user/currenttimetv" title="Follow us on Youtube" data-analytics-text="follow_on_youtube"    target="_blank" rel="noopener">
+                    <span class="ico ico-youtube ico--rounded"></span>
+                    <span class="content-sharing__link-text">Youtube</span>
+                </a>
+            </li>
+
+            <li class="content-sharing__item ">
+                <a class="content-sharing__link " href="https://www.instagram.com/currenttime.tv/" title="Follow us on Instagram" data-analytics-text="follow_on_instagram"    target="_blank" rel="noopener">
+                    <span class="ico ico-instagram ico--rounded"></span>
+                    <span class="content-sharing__link-text">Instagram</span>
+                </a>
+            </li>
+
+
+            </ul>
+        </div>
+    </aside>
+    <p class="buttons link-content-sharing p-0">
+            <button class="btn btn--link btn-content-sharing p-t-0" value="text" role="Button" type="" title="Подпишитесь">
+            <span class="ico ico-bell"></span>
+            <span class="btn__text">
+                Подпишитесь
+            </span>
+        </button>
+    </p>
+
+<p class="link-print hidden-xs buttons p-0">
+    <button class="btn btn--link btn-print p-t-0" onclick="if (typeof FireAnalyticsTagEvent === 'function') {FireAnalyticsTagEvent({ on_page_event: 'print_story' });}return false" title="(CTRL&#x2B;P)">
+        <span class="ico ico-print"></span>
+        <span class="btn__text">Печать</span>
+    </button>
+</p>
+
+                </div>
+    </div>
+
+
+                            </div>
+
+        <ul class="authors-highlights">
+        </ul>
+
+
+    <nav class="article-categories" aria-label="Материал из разделов:">
+        <p class="section-head section-head--compact" aria-hidden="True">Материал из разделов:</p>
+        <ul class="article-categories__list">
+                <li class="article-categories__item">
+                    <a class="article-categories__link" href="/news">
+                        <span class="article-categories__text">Новости</span>
+                        </a>
+                </li>
+                <li class="article-categories__item">
+                    <a class="article-categories__link" href="/news-asia">
+                        <span class="article-categories__text">Новости Азии</span>
+                        </a>
+                </li>
+                <li class="article-categories__item">
+                    <a class="article-categories__link" href="/kyrgyzstan">
+                        <span class="article-categories__text">Кыргызстан</span>
+                        </a>
+                </li>
+        </ul>
+    </nav>
+                        
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>    </main>
+
+<a class="btn pos-abs p-0 lazy-scroll-load" data-ajax="true" data-ajax-cache="true" data-ajax-mode="replace" data-ajax-update="#ymla-section" data-ajax-url="/part/section/5/7166" href="/p/7166.html" loadonce="true" title="Смотрите далее">​</a>
+
+<div id="ymla-section" class="clear ymla-section"></div>
+
+
+
+        </div>
+
+
+
+<footer role="contentinfo">
+    <div id="foot" class="foot">
+        <div class="container">
+                <div class="foot-nav collapsed" id="foot-nav">
+                    <div class="menu">
+                        <ul class="items">
+                                <li class="socials block-socials">
+                                        <span class="handler" id="socials-handler">
+                                            Присоединяйтесь!
+                                        </span>
+                                    <div class="inner">
+                                        <ul class="subitems follow">
+                                                <li>
+            <a href="http://facebook.com/currenttimetv" title="Follow us on Facebook" data-analytics-text="follow_on_facebook" class="btn btn--rounded js-social-btn btn-facebook"  target="_blank" rel="noopener">
+                <span class="ico ico-facebook-alt ico--rounded"></span>
+            </a>
+    </li>
+
+    <li>
+            <a href="https://twitter.com/CurrentTimeTv" title="Follow us on X (Twitter)" data-analytics-text="follow_on_twitter" class="btn btn--rounded js-social-btn btn-twitter"  target="_blank" rel="noopener">
+                <span class="ico ico-twitter ico--rounded"></span>
+            </a>
+    </li>
+
+    <li>
+            <a href="https://www.youtube.com/user/currenttimetv" title="Follow us on Youtube" data-analytics-text="follow_on_youtube" class="btn btn--rounded js-social-btn btn-youtube"  target="_blank" rel="noopener">
+                <span class="ico ico-youtube ico--rounded"></span>
+            </a>
+    </li>
+
+    <li>
+            <a href="https://www.instagram.com/currenttime.tv/" title="Follow us on Instagram" data-analytics-text="follow_on_instagram" class="btn btn--rounded js-social-btn btn-instagram"  target="_blank" rel="noopener">
+                <span class="ico ico-instagram ico--rounded"></span>
+            </a>
+    </li>
+
+    <li>
+            <a href="https://telegram.me/currenttime" title="Follow us on Telegram" data-analytics-text="follow_on_telegram" class="btn btn--rounded js-social-btn btn-telegram"  target="_blank" rel="noopener">
+                <span class="ico ico-telegram ico--rounded"></span>
+            </a>
+    </li>
+
+    <li>
+            <a href="/rssfeeds" title="RSS" data-analytics-text="follow_on_rss" class="btn btn--rounded js-social-btn btn-rss" >
+                <span class="ico ico-rss ico--rounded"></span>
+            </a>
+    </li>
+
+    <li>
+            <a href="/all-podcasts" title="Подкасты" data-analytics-text="follow_on_podcast" class="btn btn--rounded js-social-btn btn-podcast" >
+                <span class="ico ico-podcast ico--rounded"></span>
+            </a>
+    </li>
+
+
+                                        </ul>
+                                    </div>
+                                </li>
+
+    <li class="block-primary collapsed collapsible item">
+            <span class="handler">
+                О НАС
+                <span title="close tab" class="ico ico-chevron-up"></span>
+                <span title="open tab" class="ico ico-chevron-down"></span>
+                <span title="add" class="ico ico-plus"></span>
+                <span title="remove" class="ico ico-minus"></span>
+            </span>
+            <div class="inner">
+                <ul class="subitems">
+                    
+    <li class="subitem">
+        <a class="handler" href="/about" title="О телеканале" >О телеканале</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="/a/28791625.html" title="Каталог программ" >Каталог программ</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="/block" title="Как обойти блокировку" >Как обойти блокировку</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="/p/4616.html" title="Мобильное приложение" >Мобильное приложение</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="/p/11540.html" title="Вакансия" >Вакансия</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="/p/5683.html" title="Напишите нам" >Напишите нам</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="/archive" title="Архив программ" target="_blank" rel="noopener">Архив программ</a>
+    </li>
+
+                </ul>
+            </div>
+    </li>
+
+    <li class="block-primary collapsed collapsible item">
+            <span class="handler">
+                КАК НАС СМОТРЕТЬ
+                <span title="close tab" class="ico ico-chevron-up"></span>
+                <span title="open tab" class="ico ico-chevron-down"></span>
+                <span title="add" class="ico ico-plus"></span>
+                <span title="remove" class="ico ico-minus"></span>
+            </span>
+            <div class="inner">
+                <ul class="subitems">
+                    
+    <li class="subitem">
+        <a class="handler" href="https://smarturl.click/13Qx5" title="Точка доступа" >Точка доступа</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="https://www.currenttime.tv/p/6464.html" title="У наших партнеров" >У наших партнеров</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="https://www.currenttime.tv/p/6462.html" title="По спутнику" >По спутнику</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="https://www.currenttime.tv/live/video/92" title="Онлайн" >Онлайн</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="https://www.youtube.com/watch?v=t9Ilev-uk4w" title="YouTube" >YouTube</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="https://www.currenttime.tv/schedule/tv/92#live-now" title="Расписание" >Расписание</a>
+    </li>
+
+                </ul>
+            </div>
+    </li>
+                        </ul>
+                    </div>
+                </div>
+            <div class="foot__item foot__item--copyrights">
+                <p class="copyright">© Настоящее Время. Все права защищены</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+    </div>
+</div>
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+if (!isPreviewPage) {
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+  OneSignalDeferred.push(function(OneSignal) {
+    OneSignal.init({
+      appId: "f9dc218b-5275-4e9e-9e8e-bac8ee0bbfa3",
+    });
+  });
+}
+</script>        <script defer src="/Scripts/responsive/serviceWorkerInstall.js?cb=395"></script>
+    <script type="text/javascript">
+
+        // opera mini - disable ico font
+        if (navigator.userAgent.match(/Opera Mini/i)) {
+            document.getElementsByTagName("body")[0].className += " can-not-ff";
+        }
+
+        // mobile browsers test
+        if (typeof RFE !== 'undefined' && RFE.isMobile) {
+            if (RFE.isMobile.any()) {
+                document.getElementsByTagName("body")[0].className += " is-mobile";
+            }
+            else {
+                document.getElementsByTagName("body")[0].className += " is-not-mobile";
+            }
+        }
+    </script>
+    <script src="/conf.js?x=395" type="text/javascript"></script>
+        <div class="responsive-indicator">
+            <div class="visible-xs-block">XS</div>
+            <div class="visible-sm-block">SM</div>
+            <div class="visible-md-block">MD</div>
+            <div class="visible-lg-block">LG</div>
+        </div>
+        <script type="text/javascript">
+            var bar_data = {
+  "apiId": "33420406",
+  "apiType": "1",
+  "isEmbedded": "0",
+  "culture": "ru-RU-TV",
+  "cookieName": "cmsLoggedIn",
+  "cookieDomain": "www.currenttime.tv"
+};
+        </script>
+    
+    
+
+
+
+    <div id="scriptLoaderTarget" style="display:none;contain:strict;"></div>
+
+</body>
+</html>
+

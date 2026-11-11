@@ -1,0 +1,747 @@
+<!doctype html>
+<html>
+<head>
+<title>В Кыргызстане запущена резидент-карта для иностранных граждан - АКИ-TV</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">
+<link rel="icon" href="//tv.akipress.org/ui-img/favicon.png" type="image/png">
+<meta name="description" content="В Министерстве иностранных дел представили резидент-карты для иностранных граждан."/><meta property="fb:app_id" content="1083136635061173"/><meta property="og:site_name" content="АКИ-TV"/>
+<meta property="og:type" content="article"/><meta property="og:title" content="В Кыргызстане запущена резидент-карта для иностранных граждан"/><meta property="og:description" content="В Министерстве иностранных дел представили резидент-карты для иностранных граждан."/><meta property="og:image" content="https://cdn-1.aki.kg/cdn-st-0/qgx/H/3804587.ba3612003126dab210d50259fc9b1a96.jpg"/><meta property="og:image:width" content="1000"/><meta property="og:image:height" content="563"/><link rel="canonical" href="https://tv.akipress.org/news:2383652"/><meta property="og:url" content="https://tv.akipress.org/news:2383652"/><meta name="robots" content="max-image-preview:large"/><script type="application/ld+json">{"@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https://tv.akipress.org/news:2383652"},"headline":"В Кыргызстане запущена резидент-карта для иностранных граждан","description":"В Министерстве иностранных дел представили резидент-карты для иностранных граждан.","image":["https://cdn-1.aki.kg/cdn-st-0/qgx/H/3804587.ba3612003126dab210d50259fc9b1a96.jpg"],"inLanguage":"ru","author":{"@type":"Organization","name":"АКИpress","url":"https://akipress.org/"},"publisher":{"@type":"Organization","name":"АКИpress","logo":{"@type":"ImageObject","url":"https://akipress.org/uiall-img/so_AKIPRESS.png"}},"datePublished":"2025-12-17T15:42:28+06:00","dateModified":"2025-12-17T15:42:28+06:00","articleSection":"Новости"}</script><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:url" content="https://tv.akipress.org/news:2383652"/><meta name="twitter:title" content="В Кыргызстане запущена резидент-карта для иностранных граждан"/><meta name="twitter:image:src" content="https://cdn-1.aki.kg/cdn-st-0/qgx/H/3804587.ba3612003126dab210d50259fc9b1a96.jpg"/><meta name="twitter:site" content="@akipress"/>
+<link rel="stylesheet" href="/ui-css/fontello/akitv.css">
+<link rel="stylesheet" href="/ui-css/fontello/animation.css">
+<link rel="stylesheet" href="/ui-css/fontello/animation.css"><!--[if IE 7]><link rel="stylesheet" href="/ui-css/fontello/akitv-ie7.css"><![endif]-->
+<link rel="stylesheet" type="text/css" href="/ui-css/custom.css?7">
+<link rel="stylesheet" type="text/css" href="/uiall-css/aki_social.css?2"/>
+<script src="//cdn-1.aki.kg/js/jquery-1.11.2.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="/uiall-js/aki_social.js?3" charset="utf-8"></script>
+<script type="text/javascript">
+$(function() {
+var navGroupsCont = $(".nav-groups-cont");
+var subNavItems = $(".sub-nav-items");
+function loadNavContent(className, classId) {
+	var rootCont = navGroupsCont;
+	if(classId > 3) {
+		rootCont = subNavItems;
+	}
+	var destinyCont = rootCont.children("."+className);
+	var destinationCont = destinyCont.children(".menu-items-cont");
+	if(destinyCont.hasClass("loading") || destinyCont.hasClass("loaded")) {
+		return;
+	}
+	var animLoad = destinyCont.children(".loading-anim");
+	destinyCont.addClass("loading");
+	$.ajax({
+		url: "/load_nav/",
+		type: "POST",
+		data: {block: className,classId: classId},
+		dataType: "html",
+		beforeSend: function() {
+			animLoad.show();
+			destinationCont.hide();
+		},
+		success: function(response) {
+			animLoad.hide();
+			destinyCont.removeClass("loading").addClass("loaded");
+			destinationCont.show().append(response);
+		}
+	});
+}
+$(".items-cont").children("li").not(".project-item").hover(function() {
+	if($(this).hasClass("no-dropdown")) {
+		$(".items-cont").children("li.active").not(".project-item").removeClass("active");
+		$(".header-block").removeClass("show");
+	} else {
+		if($(this).hasClass("active")) {
+			return;
+		}
+		navGroupsCont.children(".nav-group").removeClass("active");
+		var className = $(this).attr("data-class");
+		var classId = parseInt($(this).attr("data-class-id"));
+		$(".items-cont").children("li.active").not(".project-item").removeClass("active");
+		$(".header-block").addClass("show");
+		$(this).addClass("active");
+		$(".nav-groups-cont").children('.'+className).addClass("active");
+		if(!$(".project-item.active").is("LI")) {
+			$(".project-item:first,.sub-nav-group:first").addClass("active");
+		}
+		if(classId>3) {
+			className = $(".project-item.active").attr("data-class");
+			classId = $(".project-item.active").attr("data-class-id");
+		}
+		loadNavContent(className,classId);
+	}
+}, function(e) {
+	var currEl = $(e.relatedTarget);
+	if(!currEl.hasClass("menu-items-cont") && !currEl.hasClass("nav-group") && !currEl.hasClass("d-t")) {
+		$(".header-block").removeClass("show");
+		$(".items-cont").children("li.active").not(".project-item").removeClass("active");
+		$(".nav-group.active").removeClass("active");
+	}
+});
+$(".menu-items-cont,.nav-group").hover(function(){},function(e) {
+	var currEl = $(e.relatedTarget);
+	if((!currEl.is("LI") || !currEl.hasClass("active")) && !currEl.hasClass("d-t")) {
+		$(".header-block").removeClass("show");
+		$(".items-cont").children("li.active").not(".project-item").removeClass("active");
+		$(".nav-group.active").removeClass("active");
+	}
+});
+$(".project-item").hover(function() {
+	$(".project-item.active").removeClass("active");
+	$(this).addClass("active");
+	var className = $(this).attr("data-class");
+	var classId = parseInt($(this).attr("data-class-id"));
+	$(".sub-nav-group").removeClass("active");
+	$(".sub-nav-group."+className).addClass("active");
+	loadNavContent(className,classId);
+},function(e){
+	var currEl = $(e.relatedTarget);
+	if(!currEl.hasClass("d-t")) {
+		$(".project-item.active").removeClass("active");
+		$(".sub-nav-group").removeClass("active");
+	}
+});
+$(".header-block").hover(function(e) {},function() {
+	$(this).removeClass("show");
+	$(".items-cont").children("li.active").not(".project-item").removeClass("active");
+});
+$(".news-header-img").children("img[data-src]").each(function() {
+	$(this).attr("src", $(this).attr("data-src")).one("load", function() {
+		$(this).removeAttr("data-src");
+		$(this).parent().addClass("loaded");
+	});
+});
+$(".social-icons").hover(function() {
+	$(this).addClass("active");
+	$(".social-btn-wrapper").addClass("show");
+}, function(e) {
+	var currEl = $(e.relatedTarget);
+	if(!currEl.hasClass("social-btn-list-block")) {
+		$(this).removeClass("active");
+		$(".social-btn-wrapper").removeClass("show");
+	}
+});
+$(".social-btn-list-block").hover(function() {}, function(e) {
+	var currEl = $(e.relatedTarget);
+	if(!currEl.hasClass("social-icons")) {
+		$(".social-icons").removeClass("active");
+		$(".social-btn-wrapper").removeClass("show");
+	}
+});
+$(".search").click(function() {
+	$(this).parent().addClass("active");
+	$(".search-input").focus();
+});
+$(".cancel").click(function() {
+	$(this).parent().removeClass("active");
+	$(".search-input").blur();
+});
+var itemsLoading = false;
+var feedPage = 1;
+var bodyContainer = $("#body_container");
+$(window).scroll(function() {
+	if($(window).scrollTop() + $(window).height() >= $(document).height() - 100) {
+		var lastItemTimestamp = parseInt($("#last_item_timestamp").val());
+		var tag = '';
+		if($('#site_tag').is("input")) {
+			tag = $("#site_tag").val();
+		}
+		var search = '';
+		if($('#site_search').is("input")) {
+			search = $("#site_search").val();
+		}
+		if(!itemsLoading && lastItemTimestamp > 0) {
+			var loadingBlock = $(".more-button");
+			$.ajax({
+				url: "/load_content/",
+				type: "POST",
+				data: {timestamp:lastItemTimestamp,page:feedPage,tag:tag,search:search},
+				dataType: "html",
+				beforeSend: function() {
+					itemsLoading = true;
+					loadingBlock.addClass("show");
+				},
+				success: function(response) {
+					loadingBlock.removeClass("show");
+					$(".inner-content-section").children(".item:last").after(response);
+					itemsLoading = false;
+					feedPage++;
+				}
+			});
+		}
+	}
+	if($(document).scrollTop() > 500) {
+		$(".btn-back-to-top").addClass('show');
+	} else {
+		$(".btn-back-to-top").removeClass('show');
+	}
+	if($(window).scrollTop() > 0 && !bodyContainer.hasClass("scrolled") && !bodyContainer.hasClass("static-header")) {
+		bodyContainer.addClass("scrolled");
+	}
+	if($(window).scrollTop() == 0 && !bodyContainer.hasClass("static-header")) {
+		bodyContainer.removeClass("scrolled");
+	}
+});
+if($(window).scrollTop() > 0 && !bodyContainer.hasClass("scrolled") && !bodyContainer.hasClass("static-header")) {
+	bodyContainer.addClass("scrolled");
+}
+$(".visible-buttons").children("li.toggle").click(function() {
+	$(this).parent().parent().toggleClass("active");;
+	if($(this).parent().parent().hasClass("active")) {
+		$(this).children().removeClass("akitv-plus").addClass("akitv-minus");
+	} else {
+		$(this).children().removeClass("akitv-minus").addClass("akitv-plus");
+	}
+});
+$(".video-share").click(function(){
+	return false;
+});
+$(".video-embed").click(function(){
+	return false;
+});
+$('.search-form').submit(function() {
+	var searchText = $(this).children(".search-input").val();
+	if(searchText.length > 2) {
+		location.href = "/find:"+encodeURIComponent(searchText)+"/?place=akitv-top";
+	}
+	return false;
+});
+$('.menu-icon,.site-menu-placeholder').click(function() {
+	$("#body_container").toggleClass("menu-in");
+});
+$(".video-share-btn").click(function() {
+	$(".video-inner").addClass("active");
+	$(".video-share-"+$(this).attr("data-class")).toggleClass("show");
+	return false;
+});
+$(".video-share-shadow,.video-share-close").click(function() {
+	$(".video-inner").removeClass("active");
+	$(".video-share-field-block").removeClass("show");
+	return false;
+});
+$('.video-share-field').focus(function() {
+	$(this).select();
+});
+$('.btn-back-to-top').click(function() {
+	$('html,body').animate({
+		scrollTop: 0
+	}, 'slow');
+});
+$(".link-trigger,.family-trigger,.profile-trigger").hover(function() {
+	$(this).next().addClass("show");
+},function(e) {
+	var currEl = $(e.relatedTarget);
+	if(currEl.hasClass("show") && currEl.is("UL")) {
+		return;
+	}
+	$(this).next().removeClass("show");
+});
+$(".aki-tv-bar").children("section").children("ul").hover(function(){},function(e) {
+	var currEl = $(e.relatedTarget);
+	if(currEl.hasClass("link-trigger") || currEl.hasClass("family-trigger") || currEl.hasClass("profile-trigger")) {
+		return;
+	}
+	$(this).removeClass("show");
+});
+$(".auth-btn,.mobile-auth-btn").click(function() {
+	bodyContainer.removeClass("menu-in");
+	$("body").addClass("auth-section-collapsed");
+});
+$('.auth-shadow,.auth-close').click(function(e) {
+	$("body").removeClass("auth-section-collapsed");
+	e.preventDefault();
+	return false;
+});
+$(document).keydown(function(e){
+	if(parseInt(e.keyCode) === 27 && !$("body").hasClass("auth-section-collapsed")) {//Esc
+		$("body").removeClass("auth-section-collapsed");
+	}
+});
+$('.auth-modal').submit(function() {
+	if(!$('#mobile_stay_field').prop("checked")) {
+		$(this).append('<input type="checkbox" name="_ar" style="display:none;">');
+	}
+	$(this).submit();
+	return false;
+});
+function openChildList(el) {
+	if(!$(el).hasClass("open")) {
+		$(el).addClass("open");
+		$(el).next().addClass("open-child");
+	} else {
+		$(el).removeClass("open");
+		$(el).next().removeClass("open-child");
+	}
+}
+$(".mobile-profile").children("A").click(function() {
+	openChildList(this)
+});
+$(".mobile-items-cont").children(".no-link").click(function() {
+	openChildList(this);
+});
+});
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZMW4L3KL6T"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-ZMW4L3KL6T');
+</script>
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	//ga('create', 'UA-179005-26', 'akipress.org');
+	ga('create', 'UA-179005-26', 'auto');
+	ga('send', 'pageview');
+</script>
+<!-- Start Alexa Certify Javascript -->
+<!--<script type="text/javascript">
+	_atrk_opts = { atrk_acct:"rjg9l1aoqAD2em",
+		domain:"akipress.org",dynamic: true};
+	(function() { var as = document.createElement('script'); as.type =
+		'text/javascript'; as.async = true; as.src =
+		"https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s =
+		document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as,
+		s); })();
+</script>
+<noscript><img
+		src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=rjg9l1aoqAD2em"
+		style="display:none" height="1" width="1" alt="" /></noscript>-->
+<!-- End Alexa Certify Javascript -->
+<script async src='//online.akipress.org/cv2/?getjs&v1_3'></script>
+        <link rel='stylesheet' href='/uiall-css/aki_cast/2/css.css?1'>
+        <script type='text/javascript' src='/uiall-css/aki_cast/2/js.js?11'></script>
+        <link rel='stylesheet' type='text/css' href='/uiall-css/aki_gallery/aki_gallery.css?1'>
+        <script src='/uiall-css/aki_gallery/aki_gallery.js?13'></script>
+        </head>
+<body>
+<div id="body_container" class="static-header">
+	<div class="site-menu-placeholder">&nbsp;</div>
+	<nav class="site-menu">
+		<div class="mobile-auth-cont">
+			<a href="javascript:;" class="mobile-auth-btn">Вход</a>		</div>
+		<div class="search-cont">
+			<div class="site-icon akitv-search search"></div>
+			<form class="search-form">
+				<input type="search" class="search-input" name="mobile_search_input" placeholder="Поиск...">
+			</form>
+		</div>
+		<ul class="parent-list">
+			<section class="mobile-items-cont">
+																						<li class="parent-item no-children news"><a href="/cat:1">Новости</a></li>
+																								<li class="parent-item no-children sky"><a href="/cat:2">Sky</a></li>
+																								<li class="parent-item no-children live"><a href="/cat:3">Live</a></li>
+																																																																										<li class="parent-item no-link">Проекты</li>
+				<ul class="child-list category">
+																		<li class="parent-item no-children turmush"><a href="/cat:4">Турмуш</a></li>
+													<li class="parent-item no-children reporter"><a href="/cat:5">Репортер</a></li>
+													<li class="parent-item no-children svodka"><a href="/cat:6">Сводка</a></li>
+													<li class="parent-item no-children sport"><a href="/cat:7">Спорт</a></li>
+													<li class="parent-item no-children culture"><a href="/cat:8">Культура</a></li>
+															</ul>
+				<li class="parent-item no-children"><a href="/top">Популярное</a></li>
+				<li class="parent-item no-link">О нас</li>
+				<ul class="child-list about">
+					<li><a href="/about">О проекте</a></li><li><a href="/about#contacts">Контакты</a></li><li><a href="//reklama.akipress.org">Реклама</a></li>
+				</ul>
+				<li class="parent-item no-link">АКИpress</li>
+				<ul class="child-list projects">
+					<li><a href="//www.akipress.org">Портал</a></li>
+					<li><a href="//kg.akipress.org/cat:1">Политика</a></li>
+					<li><a href="//kg.akipress.org/cat:5">Общество</a></li>
+					<li><a href="//www.tazabek.kg">Tazabek</a></li>
+					<li><a href="//www.turmush.kg">Регионы</a></li>
+					<li><a href="//svodka.akipress.org">Сводка</a></li>
+					<li><a href="//reporter.akipress.org">Репортер</a></li>
+					<li><a href="//www.ca-news.org">Цент. Азия</a></li>
+					<li><a href="//culture.akipress.org">Культура</a></li>
+					<li><a href="//zdorovie.akipress.org">Здоровье</a></li>
+					<li><a href="//amart.kg/">aMart</a></li>
+					<li><a href="//doska.kg">Доска</a></li>
+					<li><a href="//www.yel.kg">Yel.kg</a></li>
+				</ul>
+			</section>
+		</ul>
+	</nav>
+	<section class="aki-tv-bar">
+		<section class="links">
+			<div class="link-trigger label">
+				<a href="javascript:;">О нас</a>
+			</div>
+			<ul><li><a href="/about">О проекте</a></li><li><a href="/about#contacts">Контакты</a></li><li><a href="//reklama.akipress.org">Реклама</a></li></ul>
+		</section>
+		<span class="kg-time">Вторник, 22:53, 10 Ноября 2026</span>
+		<section class="family">
+			<div class="family-trigger label">АКИpress</div>
+			<ul>
+				<li><a href="//www.akipress.org">Портал</a></li>
+				<li><a href="//kg.akipress.org/cat:1">Политика</a></li>
+				<li><a href="//kg.akipress.org/cat:5">Общество</a></li>
+				<li><a href="//www.tazabek.kg">Tazabek</a></li>
+				<li><a href="//www.turmush.kg">Регионы</a></li>
+				<li><a href="//svodka.akipress.org">Сводка</a></li>
+				<li><a href="//reporter.akipress.org">Репортер</a></li>
+				<li><a href="//www.ca-news.org">Цент. Азия</a></li>
+				<li><a href="//culture.akipress.org">Культура</a></li>
+				<li><a href="//zdorovie.akipress.org">Здоровье</a></li>
+				<li><a href="//amart.kg/">aMart</a></li>
+				<li><a href="//doska.kg">Доска</a></li>
+				<li><a href="//www.yel.kg">Yel.kg</a></li>
+			</ul>
+		</section>
+<a href="javascript:;" class="auth-btn">Вход</a>	</section>
+	<header class="header-block">
+		<div class="header-inner">
+			<button class="menu-icon">
+				<span class="sr-only">Раскрыть навигацию</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<div class="logo">
+				<a href="/" title="АКИ-TV">
+					<span></span>
+				</a>
+			</div>
+			<div class="nav-items-cont">
+				<nav class="nav-items main-nav">
+					<ul class="items-cont">
+	<li data-class-id="1" data-class="news" class="news"><a href="/cat:1">Новости</a></li><li data-class-id="2" data-class="sky" class="sky"><a href="/cat:2">Sky</a></li><li data-class-id="3" data-class="live" class="live no-dropdown"><a href="/cat:3">Live</a></li><li data-class-id="4" data-class="projects"><a href="#">Проекты</a></li><li data-class-id="0" data-class="top"><a href="/top">Популярное</a></li>
+					</ul>
+				</nav>
+			</div>
+			<div class="search-cont">
+				<button class="akitv-search akitv-icon search" type="button"></button>
+				<button class="akitv-cancel akitv-icon cancel" type="button"></button>
+				<div class="searchbox-cont">
+					<form class="search-form" accept-charset="utf-8">
+						<input class="search-input" type="text" name="search" title="поиск" dir="ltr" spellcheck="false">
+					</form>
+				</div>
+			</div>
+			<div class="social-icons">
+				<ul>
+					<!--<li class="google-plus"><a href="#" target="_blank" class="akitv-gplus"></a></li>-->
+					<li class="facebook"><a href="https://www.facebook.com/akipress" target="_blank" class="akitv-facebook"></a></li>
+					<li class="twitter"><a href="https://twitter.com/akipress" target="_blank" class="akitv-twitter"></a></li>
+					<!--<li class="tumblr"><a href="#" target="_blank" class="akitv-tumblr"></a></li>-->
+					<li class="subscribe"><a href="mailto:akipress@gmail.com" class="akitv-mail"></a></li>
+					<!--<li class="rss"><a href="#" target="_blank" class="akitv-rss"></a></li>-->
+					<li class="youtube"><a href="https://www.youtube.com/channel/UCNPxzbEkoNcydfLrRdTb-HA" target="_blank" class="akitv-youtube-play"></a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="header-drop-down">
+			<div class="nav-groups-cont d-t">
+				<div class="nav-group news">
+					<div class="menu-items-cont">
+
+					</div>
+					<div class="loading-anim akitv-spin4 animate-spin"></div>
+				</div>
+				<div class="nav-group sky">
+					<div class="menu-items-cont">
+
+					</div>
+					<div class="loading-anim akitv-spin4 animate-spin"></div>
+				</div>
+				<div class="nav-group live">
+					<div class="menu-items-cont">
+
+					</div>
+					<div class="loading-anim akitv-spin4 animate-spin"></div>
+				</div>
+				<div class="nav-group projects d-t">
+					<div class="sub-nav-items-cont d-t">
+						<ul class="items-cont">
+																						<li class="project-item" data-class-id="4" data-class="turmush"><a href="/cat:4">Турмуш</a></li>
+															<li class="project-item" data-class-id="5" data-class="reporter"><a href="/cat:5">Репортер</a></li>
+															<li class="project-item" data-class-id="6" data-class="svodka"><a href="/cat:6">Сводка</a></li>
+															<li class="project-item" data-class-id="7" data-class="sport"><a href="/cat:7">Спорт</a></li>
+															<li class="project-item" data-class-id="8" data-class="culture"><a href="/cat:8">Культура</a></li>
+																				</ul>
+					</div>
+					<div class="sub-nav-items d-t">
+																					<div class="sub-nav-group d-t turmush">
+									<div class="menu-items-cont">
+
+									</div>
+									<div class="loading-anim akitv-spin4 animate-spin"></div>
+								</div>
+															<div class="sub-nav-group d-t reporter">
+									<div class="menu-items-cont">
+
+									</div>
+									<div class="loading-anim akitv-spin4 animate-spin"></div>
+								</div>
+															<div class="sub-nav-group d-t svodka">
+									<div class="menu-items-cont">
+
+									</div>
+									<div class="loading-anim akitv-spin4 animate-spin"></div>
+								</div>
+															<div class="sub-nav-group d-t sport">
+									<div class="menu-items-cont">
+
+									</div>
+									<div class="loading-anim akitv-spin4 animate-spin"></div>
+								</div>
+															<div class="sub-nav-group d-t culture">
+									<div class="menu-items-cont">
+
+									</div>
+									<div class="loading-anim akitv-spin4 animate-spin"></div>
+								</div>
+																		</div>
+				</div>
+				<div class="nav-group top">
+					<div class="menu-items-cont">
+
+					</div>
+					<div class="loading-anim akitv-spin4 animate-spin"></div>
+				</div>
+			</div>
+			<div class="social-btn-wrapper">
+				<div class="social-btn-cont">
+					<ul class="social-btn-list-block">
+						<li class="facebook"><div class="fb-like" data-href="http://tv.akipress.org/" data-layout="standard" data-action="like" data-share="true"></div></li>
+						<li class="twitter"><a href="https://twitter.com/akipress" class="twitter-follow-button" data-show-count="true" data-lang="ru" data-size="large">Читать @akipress</a></li>
+						<li class="youtube"><div class="g-ytsubscribe" data-channelid="UCNPxzbEkoNcydfLrRdTb-HA" data-layout="default" data-count="default"></div></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</header>
+	<div class="header-placeholder">&nbsp;</div>
+	<div class="site-content">
+		<div class="page-cont videos-single-page-cont"><div class="video-wrapper">
+	<div class="video-inner">
+				
+    <div class='cg_container cg_container_783101 cast_group_elems_style1 cast_group_elems_783101' data-id='783101' data-cur='1' data-cnt='1'>
+      <div class='cg_full_close' data-id='783101' title='Закрыть: Esc'><div></div></div>
+      
+      <div class='cg_container_main cast_group_elems_783101_main'>
+            <div class='carousel-cell' style='width:100%;'>
+              
+              <div class='cast_elem_content'>
+                
+                <div class='cg_content_type_2'>
+                  <div style='position: absolute;top:0;left:0;bottom:0;right:0;overflow: hidden;'>
+                    
+              <iframe style='width: 100%;height: 100%;' src='https://www.youtube.com/embed/k0aDKgdbWes?modestbranding=1' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen' allowfullscreen webkitallowfullscreen></iframe>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+      
+    </div>
+    
+    <script>
+      castgal_init('.cast_group_elems_783101');
+    </script>
+  		</div>
+</div>
+<div class="page-inner-content">
+	<div class="page-inner-wrapped-content">
+		<div class="content-cont">
+			<div class="content">
+				<header class="content-header">
+					<div class="series-cont">
+						<ul><li><a href="/cat:1" class="news">Новости</a></li><li class="inner-view-number">Просмотров: 10015</li></ul>
+					</div>
+					<h1>В Кыргызстане запущена резидент-карта для иностранных граждан</h1>
+					<div class="meta-information"><span class="publish-time">дек 17, 2025</span></div>
+				</header>
+								<div class="rich-text full">
+                    					                                            										                    <div class="full-content"><p>В Министерстве иностранных дел представили резидент-карты для иностранных граждан. </p>
+<p>Резидент-карта Кыргызской Республики — это разрешение на временное пребывание иностранного гражданина или лица без гражданства на территории КР сроком до 1 года с правом последующего продления.</p>
+<p>Директор Консульского департамента МИД Сейтек Жумакадыр уулу сообщил, что за месяц выдано 1000 карт. </p>
+<p>По его информации, создано Единое окно, через которое квоты для иностранных граждан и визу можно получить в едином документе в электронном формате. Единый документ выдается сроком на 2 месяца, при продлении — выдается резидент-карта. </p>
+<p>При оформлении карты оплата тоже проводится онлайн, нет необходимости физического присутствия. По QR-коду, указанному на карте, можно получить информацию о сроках пребывания гражданина и другую информацию, также гражданину будет выдаваться ИНН. </p>
+<p>Резидент-карта также будет действовать как банковская карта, зарплата иностранного гражданина должна начисляться на эту карту. Это обеспечивает безопасность как самому гражданину, так и контроль государству, сказал директор.</p>
+<p> </p></div>
+									</div>
+			</div>
+			<div class="sidebar">
+				<section class="collapsible-share-widget">
+					<ul class="share-buttons">
+                        <li class="sharing-item facebook">
+							<a href="http://facebook.com/sharer.php?u=https://tv.akipress.org/news:2383652" target="_blank">
+								<span class="site-icon akitv-facebook"></span>
+							</a>
+						</li><li class="sharing-item twitter">
+							<a href="https://twitter.com/intent/tweet?text=%D0%92+%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD%D0%B5+%D0%B7%D0%B0%D0%BF%D1%83%D1%89%D0%B5%D0%BD%D0%B0+%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82-%D0%BA%D0%B0%D1%80%D1%82%D0%B0+%D0%B4%D0%BB%D1%8F+%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D1%85+%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD&url=https://tv.akipress.org/news:2383652&original_referer=https://tv.akipress.org/news:2383652" target="_blank">
+								<span class="site-icon akitv-twitter"></span>
+							</a>
+						</li><li class="sharing-item odnoklassniki">
+							<a href="http://ok.ru/dk?st.cmd=addShare&st._surl=https://tv.akipress.org/news:2383652">
+								<span class="site-icon akitv-odnoklassniki"></span>
+							</a>
+						</li><li class="sharing-item telegram">
+							<a href="https://t.me/share/url?url=https://tv.akipress.org/news:2383652" class="tgme_widget_share_btn">
+								<span class="site-icon ic-svg"><svg viewBox="0 0 24 24">
+    <path fill="currentColor" d="M9.78,18.65L10.06,14.42L17.74,7.5C18.08,7.19 17.67,7.04 17.22,7.31L7.74,13.3L3.64,12C2.76,11.75 2.75,11.14 3.84,10.7L19.81,4.54C20.54,4.21 21.24,4.72 20.96,5.84L18.24,18.65C18.05,19.56 17.5,19.78 16.74,19.36L12.6,16.3L10.61,18.23C10.38,18.46 10.19,18.65 9.78,18.65Z"></path>
+</svg></span>
+							</a>
+						</li><!--<li class="sharing-item vkontakte">
+							<a href="https://vk.com/share.php?url=&title=&image=&noparse=true">
+								<span class="site-icon akitv-vkontakte"></span>
+							</a>
+						</li>--><li class="sharing-item email">
+							<a href="mailto:akipress@gmail.com?body=%D0%92+%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD%D0%B5+%D0%B7%D0%B0%D0%BF%D1%83%D1%89%D0%B5%D0%BD%D0%B0+%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82-%D0%BA%D0%B0%D1%80%D1%82%D0%B0+%D0%B4%D0%BB%D1%8F+%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D1%85+%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD https://tv.akipress.org/news:2383652">
+								<span class="site-icon akitv-mail"></span>
+							</a>
+						</li>
+					</ul>
+				</section>
+				<div style="display:none;"><div id="fb-root"></div><script async defer crossorigin="anonymous" src="https://connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v10.0" nonce="FOKrbAYI"></script><div data-sharelang="ru" data-shareurl="https://tv.akipress.org/news:2383652" data-sharetitle="В Кыргызстане запущена резидент-карта для иностранных граждан" data-sharecnt="0" data-sharethumb="//cdn-1.aki.kg/cdn-st-0/qgx/H/3804587.ba3612003126dab210d50259fc9b1a96.jpg" class="share-aki-btns aki-show-mobile aki-visible-md aki-visible-lg small-aki-btns" data-fabv="v-2"><div class="fb-like-parent fb-lang-ru"><div class="fb-like" data-href="https://tv.akipress.org/news:2383652" data-layout="box_count" data-action="like" data-width="90" data-size="small" data-show-faces="false" data-share="false" data-colorscheme="dark"></div></div><div><div id="facebook_share_counter_block"><span>-</span></div><a href="javascript:void(0);" class="facebook_share_btn is-fontllo" id="facebook_share_btn"><i class="fontello-icon-facebook-1"></i><span>Поделиться</span></a></div><div><div id="twitter_share_counter_block" class="soc-counter"><span>-</span><div class="share-arrow-down"></div></div><a href="javascript:void(0);" id="twitter_share_btn" class="twitter_share_btn is-fontllo"><i class="fontello-icon-twitter"></i><span>Твиттер</span></a></div><div class="wa-share-block"><div id="wa_share_counter_block" class="soc-counter"><span>-</span><div class="share-arrow-down"></div></div><a href="https://api.whatsapp.com/send?text=https://tv.akipress.org/news:2383652" id="wa_share_btn" class="wa_share_btn is-fontllo"><i class="fontello-icon-whatsapp"></i><span>WhatsApp</span></a></div><div class="telegram-share-block"><div id="telegram_share_counter_block" class="soc-counter"><span>-</span></div>
+    <a href="https://t.me/share/url?url=https://tv.akipress.org/news:2383652" id="telegram_share_btn" class="telegram_share_btn tgme_widget_share_btn is-svg"><i class="ic-svg"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M9.78,18.65L10.06,14.42L17.74,7.5C18.08,7.19 17.67,7.04 17.22,7.31L7.74,13.3L3.64,12C2.76,11.75 2.75,11.14 3.84,10.7L19.81,4.54C20.54,4.21 21.24,4.72 20.96,5.84L18.24,18.65C18.05,19.56 17.5,19.78 16.74,19.36L12.6,16.3L10.61,18.23C10.38,18.46 10.19,18.65 9.78,18.65Z"/></svg></i><span>Телеграм</span></a></div></div>
+    <script>
+      function setCookie(name,value,tilltime) {
+          var expires = '';
+          if (tilltime) {
+              var date = (new Date(tilltime*1000)).toUTCString();
+              expires = '; expires=' +date;
+          }
+          document.cookie = name + '=' + (value || '')  + expires + '; path=/';
+      }
+      
+      </script></div>
+                <!--<button class="share-fab aki-visible-xs aki-visible-sm" id="aki_share_fab" data-url=""><span></span></button>-->
+				<section class="tags-cont">
+					<div class="tags">
+						<span>Темы: </span>					</div>
+				</section>
+			</div>
+		</div>
+		<section class="item-list top-videos-list">
+			<header class="list-header">
+				<h2>Популярное видео</h2>
+				<nav class="controls">
+					<div class="control left-arrow disabled">Предыдущий</div>
+					<div class="control right-arrow">Больше</div>
+					<div class="loading-cont"><div class="loading-anim akitv-spin4 animate-spin"></div></div>
+				</nav>
+			</header>
+			<div class="top-videos-loading"><div class="loading-anim akitv-spin4 animate-spin"></div></div>
+		</section>
+				<section id="comments" class="comments-wrapper">
+			<div class="comments-inner">
+				<div id="comm">
+					
+				</div>
+				<!--<div class="fb-comments" data-href="" data-width="640" data-numposts="10" data-colorscheme="light"></div>-->
+			</div>
+		</section>
+	</div>
+</div>
+<script type="text/javascript">
+$(function() {
+var contentCont = $(".content-cont");
+var contentBottom = contentCont.offset().top+contentCont.outerHeight();
+var topVideosLoaded = false;
+var topVideosLoading = false;
+var loadingAnim = $(".top-videos-loading");
+$(window).scroll(function() {
+	if(!topVideosLoaded && !topVideosLoading && ($(window).scrollTop()+$(window).height()) - 100 >= contentBottom) {
+		$.ajax({
+			url: "/load_content",
+			type: "POST",
+			data: {inner_top:true},
+			dataType: "html",
+			beforeSend: function() {
+				topVideosLoading = true;
+				loadingAnim.addClass("show");
+			},
+			success: function(response) {
+				topVideosLoaded = true;
+				topVideosLoading = false;
+				loadingAnim.removeClass("show").after(response);
+				$(".list-header").children(".controls").addClass("show");
+				var topListWidth = $(".top-videos-list").outerWidth() + parseFloat($(".page-inner-wrapped-content").css("padding-left"));
+				var topListSection = $(".top-videos-wrapper").children(".items-cont");
+				var topListItemWidth = $(".top-list-item:first").outerWidth() + parseFloat($(".top-list-item:first").css("margin-right"));
+				var visibleItemCnt = parseInt(topListWidth/topListItemWidth);
+				//var visibleItemCnt = topListWidth/topListItemWidth;
+				var slideStepWidth = topListItemWidth*visibleItemCnt;
+				var maxSlideStep = Math.ceil(($(".top-list-items").children(".top-list-item").length*topListItemWidth)/topListWidth);
+				var topListTransform = 0;
+				var currTopListStep = 1;
+				$(".controls").children(".control").click(function() {
+					if($(this).hasClass("right-arrow") && !$(this).hasClass("disabled")) {
+						if(topListTransform === 0) {
+							topListTransform = -slideStepWidth;
+						} else {
+							topListTransform = topListTransform - slideStepWidth;
+						}
+						topListSection.css("transform", "translateX("+topListTransform+"px)");
+						currTopListStep++;
+						if(currTopListStep == maxSlideStep) {
+							$(this).addClass("disabled");
+						}
+						$(this).prev().removeClass("disabled");
+					} else if($(this).hasClass("left-arrow") && !$(this).hasClass("disabled")) {
+						topListTransform = topListTransform + slideStepWidth;
+						topListSection.css("transform", "translateX("+topListTransform+"px)");
+						currTopListStep--;
+						if(currTopListStep == 1) {
+							$(this).addClass("disabled");
+						}
+						$(this).next().removeClass("disabled");
+					}
+				});
+			}
+		})
+	}
+});
+});
+</script>
+</div>
+</div>
+<div class="btn-back-to-top">
+	<span>&nbsp;</span>
+	<span>&nbsp;</span>
+</div>
+<div class="auth-section">
+	<div class="auth-shadow"></div>
+	<div class="auth-block">
+		<form class="auth-modal" action="/black.aki/regauth.php" method="post">
+			<input type="hidden" value="tv.akipress.org/" name="_import_redirect">
+			<h2>Вход в АКИpress<a href="javascript:;" class="akitv-cancel auth-close"></a></h2>
+			<div><input type="text" placeholder="Логин/E-mail" name="_am" class="auth-field"></div>
+			<div><input type="password" placeholder="Пароль" name="_ap" class="auth-field"></div>
+			<div>
+				<label for="mobile_stay_field" class="mobile-stay-label">
+					<input type="checkbox" id="mobile_stay_field" name="mr">
+					<span>Запомнить меня</span>
+				</label>
+				<a href="http://accounts.akipress.org/#forg" class="auth-forget"><span>Забыли пароль?</span></a>
+			</div>
+			<div><input type="submit" value="Войти" class="auth-login-btn"></div>
+			<div><span class="auth-or">или</span></div>
+			<div><a href="http://accounts.akipress.org/#reg" class="auth-reg">Зарегистрироваться</a></div>
+		</form>
+	</div>
+</div>
+<div id="fb-root"></div>
+<footer class="site-footer">
+	<ul><li>&copy;2026 АКИpress · 16+</li></ul>
+ <div class="editorial-rights" style="margin-top:8px;line-height:1.5;">Редакция вправе отредактировать присланный материал, не меняя его сути, и вправе не публиковать его без объяснения причин. <a href="https://akipress.org/dolbor/rules/" target="_blank" style="color:inherit;text-decoration:underline;">Правила публикации материалов</a></div>
+</footer>
+</div>
+<script>(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.5&appId=1083136635061173";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+<script src="https://apis.google.com/js/platform.js"></script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</body><script type='text/javascript' src='https://tv.akipress.org/.well-known/ddos-guard/check' async defer></script>
+</html>

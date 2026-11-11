@@ -1,0 +1,105 @@
+Technical Update
+
+January 2023
+
+Implementation on New Taxable Salary Thresholds
+
+(Instruction No. 017 MEF, dated 27 December 2022)
+
+Effective from 1 January 2023 onwards, the below new salary thresholds shall be implemented for salary
+payable to resident employees from January 2023 for determining their taxable salary subject to ToS at the
+progressive tax rate by tranche:
+
+No. Threshold of taxable salary subject to ToS Tax Tax Relief  Tax Payable
+
+                 (Riel)              Rate  (Riel)
+
+1 From        0  to      1,500,000   0%       0                nil
+                         2,000,000   5%    75,000              [Taxable salary x 5%]- 75,000
+2 From 1,500,001 to      8,500,000   10%
+                         12,500,000  15%
+3 From 2,000,001 to      12,500,000  20%   175,000 [Taxable salary x 10%]- 175,000
+
+4 From 8,500,001 to                        600,000 [Taxable salary x 15%]- 600,000
+
+5                over                      1,225,000 [Taxable salary x 20%]- 1,225,000
+
+For tax residents, the tax relief amounting to KHR150,000 per month for the spouse and for each dependent
+child shall be deducted from the gross salary of the employee to arrive at the taxable salary base. In addition,
+the benefits (e.g., transportation, meal, social security / welfare fund, health insurance, baby care and
+indemnity / severance pay) provided to employees-workers for fulfilling works as per Circular no. 011 MEF,
+dated 6 October 2016, shall also be deducted from the gross salary to arrive at the taxable salary base.
+
+Our comments
+
+It should be stressed that as per General Department of Taxation (GDT)'s practice, enterprises providing
+benefits as per Circular no. 011 must submit to the GDT a copy of their policy on such benefits for these to be
+eligible for such tax exemption. In this case, without such notification/approval from the GDT, there may be a
+risk that those benefits may be considered as part of taxable salary which may not be deducted from the gross
+salary to arrive at the taxable salary threshold. Meanwhile, taxpayers should also keep sufficient supporting
+documents on the claiming of tax reliefs for the spouse and dependent child in case these are requested by the
+GDT during tax audit events.
+
+                                                                                              1
+Extension of the Prepayment of Tax on Income (PToI) Suspension for the
+Textile and Garment Sector
+
+(Prakas No. 002, dated 6 January 2023)
+
+Prakas no. 002 further extends the 1% PToI suspension period for the textile and garment industry for
+another 3 years starting from 2023 to the end of 2025. The suspension is applicable to Qualified Investment
+Projects (QIPs) in the textile and garment industry, including enterprises producing textiles, garment,
+footwear, bag, handbag and hat for the purpose of export, whose income tax holiday (ITH) period already
+expired.
+
+Furthermore, qualified enterprises are required to comply with the following conditions:
+     · maintain proper accounting records as per the provisions of the Law on Taxation and the Provision of
+         the Law on Accounting which are in effect;
+     · declare and pay all other tax obligations by the stipulated deadline; and
+     · provide the annual independent audit report to the GDT.
+
+The GDT has the right to invalidate this temporary suspension and impose other penalties if enterprises fail to
+comply with the above conditions.
+
+Our comments:
+
+The textile and garment industry is one of the pillar industries sustaining Cambodia's economy. The extension
+of the 1% PToI suspension will provide some tax relief to this industry, whose operations were significantly
+impacted by the global pandemic. It should be noted, however, that the PToI suspension is only applicable to
+QIPs in the sector, and subject to the three conditions, including the timely submission of proper tax
+declarations, keeping of proper accounting records and providing the annual independent audit report to the
+GDT. As it is, qualified enterprises must ensure proper compliance with tax and regulatory obligations in
+Cambodia to benefit from said tax relief.
+
+As a committed tax advisor to our clients, we welcome any opportunity to discuss the relevance of the above
+matters to your business.
+
+Contact us
+
+Phnom Penh                                Michael Gordon                  Tan Mona                                                           So Dary
+
+PO Box 2352                               Senior Advisor,                 Partner                                                            Partner
+35th Floor, GIA Tower,                    Partner
+Sopheak Mongkul Street, Diamond Island,   T: +855 17 666 537 (ext. 7222)  T: +855 17 666 537 (ext. 7221)                                     T: +855 17 666 537 (ext. 7277)
+Sangkat Tonle Bassac, Khan Chomkarmon,    E: mgordon@kpmg.com.kh          E: tmona@kpmg.com.kh                                               E: daryso@kpmg.com.kh
+Phnom Penh, Kingdom of Cambodia
+                                          Nguon Socheata                  Song Kunthol
+T: +855 (17) 666 537 | +855 (81) 533 999
+E: kpmg@kpmg.com.kh                       Director                        Director
+
+                                          T: +855 17 666 537 (ext. 7217)  T: +855 17 666 537 (ext. 7202)
+                                          E: nsocheata@kpmg.com.kh        E: skunthol@kpmg.com.kh
+
+The information contained herein is of a general nature and is not intended to address the circumstances of any particular in dividual       Scan to visit our website: kpmg.com.kh
+or entity. Although we endeavor to provide accurate and timely information, there can be no guarantee that such information i s              Email: kpmg@kpmg.com.kh
+accurate as of the date it is received or that it will continue to be accurate in the future. No one should act on such information without
+appropriate professional advice after a thorough examination of the particular situation.
+
+© 2023 KPMG Cambodia Ltd., a Cambodian single member private limited company and a member firm of the KPMG global
+organization of independent member firms affiliated with KPMG International Limited, a private English company limited by
+guarantee. All rights reserved.
+
+The KPMG name and logo are trademarks used under license by the independent member firms of the KPMG global organization.
+
+                                                                                                                                                                             2
+

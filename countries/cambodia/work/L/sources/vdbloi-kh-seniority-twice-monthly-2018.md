@@ -1,0 +1,111 @@
+[Home](https://vdb-loi.com) » [Cambodia Publication](https://vdb-loi.com/kh_publications/) » Cambodia Legal Update: Mandatory changes for 2019 – Seniority payments and twice monthly pay for employees
+
+[](https://www.facebook.com/sharer.php?u=https://vdb-loi.com/kh_publications/cambodia-legal-update-mandatory-changes-for-2019-seniority-payments-and-twice-monthly-pay-for-employees/)
+
+[](https://twitter.com/home?status=Cambodia%20Legal%20Update:%20Mandatory%20changes%20for%202019%20–%20Seniority%20payments%20and%20twice%20monthly%20pay%20for%20employees-https://vdb-loi.com/kh_publications/cambodia-legal-update-mandatory-changes-for-2019-seniority-payments-and-twice-monthly-pay-for-employees/)
+
+[](https://www.linkedin.com/shareArticle?mini=true&url=https://vdb-loi.com/kh_publications/cambodia-legal-update-mandatory-changes-for-2019-seniority-payments-and-twice-monthly-pay-for-employees/&title=Cambodia%20Legal%20Update:%20Mandatory%20changes%20for%202019%20–%20Seniority%20payments%20and%20twice%20monthly%20pay%20for%20employees&summary=&source=)
+
+![Cambodia Legal Update: Mandatory changes for 2019 – Seniority payments and twice monthly pay for employees](https://vdb-loi.com/wp-content/uploads/2024/02/banner-new-phnomPenh3.webp)
+
+# Cambodia Legal Update: Mandatory changes for 2019 – Seniority payments and twice monthly pay for employees
+
+October 1, 2018
+
+## Seniority payment
+
+On 11 July 2018, the Labor Law was amended by Royal Decree (“**Labor Law Amendment**”), particularly Articles 89, 90, 91, 94, 110, 120, and 122. One notable amendment is the elimination of the “indemnity for dismissal”, which is equivalent to severance pay and paid upon employment termination only, and the introduction of the “seniority payment”.
+
+The seniority payment applies to unlimited duration contracts (“**UDCs**”) (employment contracts without a fixed end date) and must be paid to employees every six months; the payment is no longer tied to employment termination.
+
+The Labor Law Amendment does not provide clarification on several issues surrounding the seniority payment, including its retroactive effect. Assuming that it has retroactive effect, many questions were left unanswered, including:
+
+1.  How many years back does it apply?
+2.  Which year’s wage is used to calculate the payment?
+3.  Must the entire amount of the seniority payment for all prior years be paid in one lump sum?
+4.  What are the implications on past tax reporting and financial statements?
+
+In order to clarify these issues, the Ministry of Labor and Vocational Training (“**MLVT**”) issued Prakas No. 443 (“**Prakas 443**”) regarding seniority payments on 21 September 2018.
+
+According to Prakas 443, the seniority payment applies to UDCs only. Employees hired under a specific duration contract (an employment contract with a fixed start and end date) will not receive the seniority payment, but are entitled to severance pay, calculated at 5% of the wages the employee would have received during the length of the contract unless otherwise stated in the collective bargaining agreement.
+
+The seniority payment must be implemented from 2019 onwards, and also will have retroactive effect.
+
+The ongoing and retroactive payments are described below.
+
+### Ongoing payments from 2019 onwards
+
+As stated above, employers are no longer required to pay indemnity for dismissal; the seniority payment replaces it and must be paid every six months as follows:
+
+- 7.5 days of the employee’s wages and other fringe benefits, to be paid in June of each year; and
+- 7.5 days of an employee’s wages and other fringe benefits, to be paid in December of each year.
+
+Therefore, on a yearly basis, the total amount of the seniority payment is equal to 15 days of an employee’s wages and other fringe benefits, such as overtime, bonus, commission, profit sharing.
+
+For the first year of service, employees who work continuously for at least one but less than six months will be entitled to a seniority payment of 7.5 days. Employees who work for six months or more, will be considered to have worked for the entire year, and will be entitled to 15 days of seniority pay.
+
+### Retroactive payments (prior to 2019)
+
+Per Prakas 443, employers in the textile, garment, and footwear industries must make seniority payments* “in the amount of 30 days of the **total seniority payment** of the particular past year”*. We believe this is meant to be calculated as 30 days of the employee’s **total compensation ***(including wages and other fringe benefits)* for the particular year, and assume this will be corrected in future guidance from the MLVT. The payment is to be made in two installments (15 days to be paid in June of each year and the other 15 days in December of each year).
+
+Employers other than those in the textile, garment, and footwear industries must pay a total seniority payment of “*15 days of the **total seniority payment**  of the particular past year”*, following the same payment schedule as above. Again, we believe this is meant to be of the employee’s **total compensation ***(including wages and other fringe benefits)***.**
+
+Please note that in all cases, the seniority payment must be calculated based on an employee’s wages and other fringe benefits as allowed by the Labor Law, but must be capped at a maximum of six months of the employee’s actual average wage (excluding other fringe benefits) of each past year.  
+
+Please note that the seniority payment employees receive for 2019 onwards, and the payment they would have received before 2019 are separate, cumulative, and cannot be combined.
+
+In addition, employees who have resigned from employment are not entitled to receive unpaid retroactive payments.
+
+Apart from the above, ambiguity remains as to the exact formula for calculating the daily wage for the purpose of determining the seniority payment as no formula is provided in Prakas 443. Additionally, the Prakas does not speak to the penalty or consequence if an employer fails to comply with the seniority payment requirement, nor does it address the implications for past tax reporting and financial statements. Those are still open questions; we will keep you updated if any further information is forthcoming from the MLVT.     
+
+## Wage payment
+
+On 21 September 2018, the Ministry of Labor and Vocational Training issued Prakas No. 442 (“**Prakas 442**”) regarding the payment of wages to employees.
+
+According to Prakas 442, enterprises covered under the Labor Law must pay their employees twice a month as follows:
+
+- **First payment**: Must be made in the second week of the month and consist of 50% of the employee’s actual wages for the month
+- **Second payment**: Must be made in the fourth week of the month and consist of the remaining 50% of actual wages for the month, plus fringe benefits and other benefits the employee is entitled to each month
+
+This payment scheme must be implemented from **January 2019** onwards.
+
+Prakas 442 does not expressly spell out any fines or penalties for non-compliance. However, Article 365 of the Labor Law specifies a monetary fine of up to US\$600 for infractions of the Labor Law relating to wage payment. It is not clear from the wording of Article 365 whether the penalty applies as a single infraction on the employer or for each instance of the infraction (i.e. the number of employees for which the employer does not comply with the wage payment requirement). In practice, the level of penalty is determined at the sole discretion of the labor inspectors.
+
+If you have any questions about this alert, please contact me ([\[email protected\]](/cdn-cgi/l/email-protection#c5a9a0b0aba2ebb6a0aba285b3a1a7e8a9aaaceba6aaa8)) or Mr. Alex Larkin ([\[email protected\]](/cdn-cgi/l/email-protection#87e6ebe2ffa9ebe6f5eceee9c7f1e3e5aaebe8eea9e4e8ea)).
+
+*VDB Loi is a network of leading law and tax advisory firms with offices in Cambodia, Indonesia, Laos, Myanmar and Vietnam. We provide the highest quality solutions for transactions and taxation. Our general areas of practice are corporate, finance, licensing and disputes. Our principal specialized areas of practice are energy, infrastructure, real estate and construction, telecom, and taxation.*\
+\
+*You can find more information on our Cambodia office [here](http://localhost/offices/cambodia).*
+
+## KEYWORDS
+
+[Foreign employees](https://vdb-loi.com/kh_keywords/foreign-employees/), [Labor Law](https://vdb-loi.com/kh_keywords/labor-law/), [Ministry of Labor and Vocational Training (“MLVT”)](https://vdb-loi.com/kh_keywords/ministry-of-labor-and-vocational-training-mlvt/), [The Labor Law Amendment](https://vdb-loi.com/kh_keywords/the-labor-law-amendment/), [Wage payment](https://vdb-loi.com/kh_keywords/wage-payment/)
+
+## RELATED EXPERIENCES
+
+[Banking and Finance](https://vdb-loi.com/expertise/banking-and-finance/)
+
+[Corporate M&A](https://vdb-loi.com/expertise/corporate-ma/)
+
+[Disputes](https://vdb-loi.com/expertise/disputes/)
+
+[Energy and Infrastructure](https://vdb-loi.com/expertise/energy-and-infrastructure/)
+
+[Real Estate and Construction](https://vdb-loi.com/expertise/real-estate-and-construction/)
+
+[Taxation](https://vdb-loi.com/expertise/taxation/)
+
+[Telecommunications, Media and Technology](https://vdb-loi.com/expertise/telecommunications-media-and-technology/)
+
+## Related Articles
+
+- [Announcement on Launching the Verification QR Code on Certificate of Incorporation\
+  - August 30, 2024](https://vdb-loi.com/kh_publications/announcement-on-launching-the-verification-qr-code-on-certificate-of-incorporation/)
+- [The MOJ Continues its Digital Transformation with Digital Verification of ​Police Clearance Certificates\
+  - July 30, 2024](https://vdb-loi.com/kh_publications/the-moj-continues-its-digital-transformation-with-digital-verification-of-police-clearance-certificates/)
+- [Unfair Business Practices in Advertising and Sales Promotions\
+  - July 22, 2024](https://vdb-loi.com/kh_publications/unfair-business-practices-in-advertising-and-sales-promotions/)
+- [Transshipment at the Sihanoukville Autonomous Port\
+  - June 28, 2024](https://vdb-loi.com/kh_publications/transshipment-at-the-sihanoukville-autonomous-port/)
+- [The Ministry of Land Management, Urban Planning and Construction Officially Launches Online Public Services\
+  - May 3, 2024](https://vdb-loi.com/kh_publications/the-ministry-of-land-management-urban-planning-and-construction-officially-launches-online-public-services/)

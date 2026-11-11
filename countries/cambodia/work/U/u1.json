@@ -1,0 +1,1157 @@
+{
+"prefix": "U",
+"sources": [
+[
+"news-bdnews24-cambodia-overstay-fine-waiver-2026-09",
+"bdnews24.com",
+"38 Bangladeshis fly home from Cambodia, 1,800 more waiting",
+"no",
+"2026-09-04"
+],
+[
+"news-bdnews24-cambodia-detention-30-cleared-2026-10",
+"bdnews24.com",
+"30 Bangladeshis freed in Cambodia to return home Tuesday",
+"no",
+"2026-10-19"
+],
+[
+"news-fe-cambodia-deports-3000-2026",
+"The Financial Express (from bdnews24.com)",
+"Cyber scams: Cambodia deports over 3,000 Bangladeshis in 9 months",
+"no",
+"2026-10-28"
+],
+[
+"news-bdnews24-cambodia-deports-3000-2026-10",
+"bdnews24.com",
+"Cyber scams: Cambodia deports over 3,000 Bangladeshis in 9 months",
+"no",
+"2026-10-28"
+],
+[
+"news-thestar-cambodia-bangladeshis-2026-10",
+"The Star (The Daily Star/ANN)",
+"Bangladeshis lured by job offers and trafficked into scam compounds in Cambodia",
+"no",
+"2026-10-28"
+],
+[
+"law-kh-immigration-1994-wto",
+"National Assembly of Cambodia (Compendium of Cambodian Laws, hosted by WTO)",
+"Law on Immigration (adopted 26 August 1994), English translation",
+"yes",
+"1994-08-26"
+],
+[
+"law-kh-refugee-subdecree-224-2009",
+"Royal Government of Cambodia (unofficial translation hosted on UNHCR Refworld)",
+"Sub-Decree No. 224 on Procedure for Recognition as a Refugee or Providing Asylum Rights to Foreigners in the Kingdom of Cambodia",
+"yes",
+"2009-12-17"
+],
+[
+"news-bdnews24-cambodia-waiver-oct31-2026-10",
+"bdnews24.com",
+"Over 1,800 Bangladeshis 'stranded' in Cambodia, group seeks special flights for their return",
+"no",
+"2026-10-18"
+],
+[
+"news-bdnews24-cambodia-1796-stranded-2026-10",
+"bdnews24.com",
+"Families seek answers for 32 Bangladeshis caught in Cambodia's scam-centre web",
+"no",
+"2026-09-15"
+],
+[
+"news-bdnews24-cambodia-30-freed-2026-10-17",
+"bdnews24.com",
+"30 Bangladeshi workers released from Cambodian detention after scam centre ordeal",
+"no",
+"2026-10-17"
+],
+[
+"news-dailystarbn-cambodia-1800-oct31-2026",
+"The Daily Star (Bangla)",
+"Kambodiay protaronar phande atke 1800 Bangladeshi, samne 31 October-er somoysima",
+"no",
+"2026-10-18"
+],
+[
+"news-dailystarbn-cambodia-30-return-2026-10",
+"The Daily Star (Bangla)",
+"Kambodiay scam centre-e durbhog o atok thakar por deshe phirlen 30 Bangladeshi",
+"no",
+"2026-10-20"
+],
+[
+"news-rri-cambodia-waiver-indonesians-2026",
+"RRI (Radio Republik Indonesia)",
+"Cambodia Waives Overstay Fines, over 4,600 Indonesians Head Home",
+"no",
+"2026-04-21"
+],
+[
+"news-khaosod-sakaeo-11-bangladeshis-2026-07",
+"Khaosod English",
+"11 arrested after crossing border, fleeing alleged scam work",
+"no",
+"2026-07-06"
+],
+[
+"news-aseannow-bangladeshis-thai-border-cambodia",
+"ASEAN NOW",
+"Bangladeshis held crossing Thai border from Cambodia",
+"no",
+"2026-05-25"
+],
+[
+"news-khaosod-19-bangladeshis-fake-visa-2024",
+"Khaosod English",
+"19 Bangladeshis Paid High Price for Fake Visa Stamps Are Arrested",
+"no",
+"2024-01-24"
+],
+[
+"news-fe-thailand-21-bangladeshis-malaysia",
+"The Financial Express (from Bangkok Post)",
+"Thailand arrests 21 Bangladeshis en route to Malaysia over 'illegal entry'",
+"no",
+"2026-04-10"
+],
+[
+"news-bdnews24bn-thailand-malaysia-via-cambodia-2026-04",
+"bdnews24.com (Bangla)",
+"Oboidho obhibashon: Thailand-e resort theke 21 Bangladeshi atok",
+"no",
+"2026-04-10"
+],
+[
+"news-tbs-sold-in-cambodia-rab-2022",
+"The Business Standard",
+"Sold in Cambodia: Ring leader of smuggling racket, 2 others arrested",
+"no",
+"2022-09-06"
+],
+[
+"news-fmt-11-bangladeshis-sakaeo-2023",
+"Free Malaysia Today",
+"Thai cops nab 11 Bangladeshis bound for Malaysia in pickup truck",
+"no",
+"2023-12-11"
+],
+[
+"news-tbs-flawed-vetting-2026",
+"The Business Standard",
+"Scams, smuggling, battlefields: How flawed vetting sent our workers into harm's way",
+"no",
+"2026-07-11"
+],
+[
+"news-ann-177-vietnamese-blacklisted-2025",
+"Asia News Network (The Phnom Penh Post)",
+"177 Vietnamese nationals deported from Cambodia, blacklisted for 3-5 years",
+"no",
+"2025-02-11"
+],
+[
+"news-npr-cambodia-crackdown-new-crisis-2026-06",
+"NPR (via KPBS)",
+"Cambodia cracked down on scams costing Americans billions. It created a new crisis",
+"no",
+"2026-06-21"
+],
+[
+"ngo-gdp-cambodia-scam-victims-detention",
+"Global Detention Project",
+"Cambodia & Southeast Asia: Cyber Scam Trafficking Victims Facing Detention and Prosecution",
+"no",
+"2023-06-06"
+],
+[
+"news-thestar-cambodia-23760-deported-2026-11",
+"The Star (Bernama-Xinhua)",
+"Cambodia raids 972 scam sites, deports 23,760 foreigners",
+"no",
+"2026-11-07"
+],
+[
+"news-thestar-bati-predeportation-centre-2026-05",
+"The Star (The Phnom Penh Post/ANN)",
+"Nearly 1,000 scammers detained at former Takeo scam centre in Cambodia",
+"no",
+"2026-05-11"
+],
+[
+"news-ann-45000-deportations-h1-2026",
+"Asia News Network (The Phnom Penh Post)",
+"45,000 deportations from Cambodia between Jan-June 2026, more than previous entire decade",
+"no",
+"2026-07-16"
+],
+[
+"ngo-central-250000-deported",
+"CENTRAL (Center for Alliance of Labor and Human Rights)",
+"Over 250,000 Foreigners Involved in CyberScam Industry Deported Since 2025",
+"no",
+"undated"
+],
+[
+"news-dhakatribune-cambodia-border-conflict-assist-2025",
+"Dhaka Tribune",
+"Bangladesh to assist displaced nationals in Cambodia amid border conflict",
+"no",
+"2025-07-29"
+],
+[
+"news-dhakatribune-30-return-detention-2026-10",
+"Dhaka Tribune",
+"Thirty Bangladeshis return home after release from immigration detention in Cambodia",
+"no",
+"2026-10-20"
+],
+[
+"news-tbs-78-return-cambodia",
+"The Business Standard",
+"78 Bangladeshis return from Cambodia",
+"no",
+"2020-09-30"
+],
+[
+"news-tbs-bangkok-embassy-48-repatriated",
+"The Business Standard",
+"Bangladesh Embassy in Bangkok facilitated repatriation of 48 Bangladesh nationals",
+"no",
+"2020-11-18"
+],
+[
+"news-fe-bangkok-embassy-caution-five-countries",
+"The Financial Express (from bdnews24.com)",
+"Caution alert issued for Bangladeshis traveling to five countries",
+"no",
+"2024-11-23"
+],
+[
+"news-globalvoices-bangladeshi-cambodia-2026-09",
+"Global Voices",
+"Technology-facilitated trafficking: How Bangladeshi migrants become victims of recruitment in Cambodia",
+"no",
+"2026-09-22"
+],
+[
+"news-kathmandupost-dailystar-bangladeshi-cambodia-2026-07",
+"The Kathmandu Post (The Daily Star/ANN)",
+"How Bangladeshi jobseekers are trafficked into Cambodia's scam compounds",
+"no",
+"2026-07-16"
+],
+[
+"unhcr-cambodia-country-page",
+"UNHCR",
+"Cambodia (country page and Thailand multi-country office strategy)",
+"yes",
+"undated"
+],
+[
+"ngo-hrw-cambodia-refugee-subdecree-analysis-2010",
+"Human Rights Watch",
+"Cambodia: Preliminary Analysis of Refugee Sub-Decree",
+"no",
+"2010-03-19"
+]
+],
+"facts": [
+{
+"n": "news-bdnews24-cambodia-overstay-fine-waiver-2026-09",
+"c": "From 1 September 2026 the Cambodian government allowed foreigners who had overstayed to leave voluntarily without paying fines.",
+"q": "the Cambodian government began allowing foreigners staying beyond their permitted period to leave voluntarily without paying fines from Sept 1",
+"d": "2026-09-04",
+"s": "unofficial"
+},
+{
+"n": "news-bdnews24-cambodia-overstay-fine-waiver-2026-09",
+"c": "BRAC said around 1,800 Bangladeshis were still waiting to return from Cambodia in September 2026, after 583 came home in June.",
+"q": "around 1,800 Bangladeshis are still waiting to return after 583 came home from Cambodia in June",
+"d": "2026-09-04",
+"s": "unofficial"
+},
+{
+"n": "news-bdnews24-cambodia-overstay-fine-waiver-2026-09",
+"c": "BRAC's Migration Programme gave returnees from Cambodia emergency assistance, counselling and money to reach their homes.",
+"q": "BRAC’s Migration Programme provided the returnees with emergency assistance, counselling and financial support to help them reach their homes.",
+"d": "2026-09-04",
+"s": "unofficial"
+},
+{
+"n": "news-bdnews24-cambodia-overstay-fine-waiver-2026-09",
+"c": "Returnees told BRAC that Bangladeshis involved in trafficking in Cambodia intimidate and pressure victims trying to go home.",
+"q": "some Bangladeshis involved in human trafficking in Cambodia intimidate and pressure victims trying to return home",
+"d": "2026-09-04",
+"s": "unofficial"
+},
+{
+"n": "news-bdnews24-cambodia-1796-stranded-2026-10",
+"c": "In June 2026 Cambodia let foreigners who had overstayed their visas leave voluntarily without paying fines.",
+"q": "In June, Cambodia offered foreigners who had overstayed their visas a chance to leave voluntarily without paying fines.",
+"d": "2026-09-15",
+"s": "unofficial"
+},
+{
+"n": "news-bdnews24-cambodia-1796-stranded-2026-10",
+"c": "At the Bangladesh Embassy in Bangkok's request, Cambodia extended the fine-free departure period until 1 September 2026.",
+"q": "At the request of the Bangladesh embassy in Bangkok, Cambodia later extended the fine-free departure period until Sept 1.",
+"d": "2026-09-15",
+"s": "unofficial",
+"note": "Conflicts in wording with U0001 (waiver 'from Sept 1') and U0008 (waiver expiring 31 Oct): read together, fine-free windows ran in June-1 Sept and again from 1 Sept to 31 Oct 2026."
+},
+{
+"n": "news-bdnews24-cambodia-1796-stranded-2026-10",
+"c": "32 Bangladeshis with tickets home on 3 September 2026 were turned back at Phnom Penh airport during immigration clearance and taken to an immigration detention centre.",
+"q": "They were turned back from Phnom Penh airport while waiting for immigration clearance and were later taken to a Cambodian immigration detention centre.",
+"d": "2026-09-15",
+"s": "unofficial"
+},
+{
+"n": "news-bdnews24-cambodia-1796-stranded-2026-10",
+"c": "The Embassy's labour official said detainees at the immigration detention centre are not allowed phones and cannot contact their families.",
+"q": "They are not allowed to use phones there, so they cannot contact their families.",
+"d": "2026-09-15",
+"s": "unofficial"
+},
+{
+"n": "news-bdnews24-cambodia-1796-stranded-2026-10",
+"c": "The Embassy arranged through a local representative to send food to the 32 detainees.",
+"q": "The embassy, he said, had arranged through a local representative to send them food",
+"d": "2026-09-15",
+"s": "unofficial"
+},
+{
+"n": "news-bdnews24-cambodia-1796-stranded-2026-10",
+"c": "At least 1,796 Bangladeshis who registered with the Bangladesh Embassy in Bangkok during Cambodia's return window remained stranded in September 2026.",
+"q": "At least 1,796 Bangladeshis who had registered their names with the embassy in Bangkok during Cambodia’s return window remain stranded there.",
+"d": "2026-09-15",
+"s": "unofficial"
+},
+{
+"n": "news-bdnews24-cambodia-1796-stranded-2026-10",
+"c": "On the Embassy's instructions, many stranded Bangladeshis bought refundable air tickets while waiting to go home.",
+"q": "Following embassy instructions, many bought refundable air tickets while waiting to come home.",
+"d": "2026-09-15",
+"s": "unofficial"
+},
+{
+"n": "news-bdnews24-cambodia-1796-stranded-2026-10",
+"c": "The Embassy's labour official said Cambodian authorities interview people on the return list, and run detailed interviews when they find someone entered irregularly.",
+"q": "When the Cambodian authorities interview them, they sometimes find that they entered in a different, irregular way. Then they conduct quite detailed interviews.",
+"d": "2026-09-15",
+"s": "unofficial"
+},
+{
+"n": "news-bdnews24-cambodia-1796-stranded-2026-10",
+"c": "The wife of one stranded man said the broker who took him to Cambodia was preventing him from leaving.",
+"q": "His wife says the same broker is now preventing him from leaving Cambodia.",
+"d": "2026-09-15",
+"s": "unofficial"
+},
+{
+"n": "news-bdnews24-cambodia-1796-stranded-2026-10",
+"c": "A returnee said brokers' interference delayed his return by two months.",
+"q": "interference by brokers had delayed his return by another two months",
+"d": "2026-09-15",
+"s": "unofficial"
+},
+{
+"n": "news-bdnews24-cambodia-1796-stranded-2026-10",
+"c": "A returnee from Cambodia had his phone seized by CID at Dhaka airport.",
+"q": "his phone was seized by the Criminal Investigation Department (CID) at the airport",
+"d": "2026-09-15",
+"s": "unofficial"
+},
+{
+"n": "news-bdnews24-cambodia-1796-stranded-2026-10",
+"c": "Bangladesh has no embassy in Cambodia.",
+"q": "Bangladesh has no embassy in Cambodia.",
+"d": "2026-09-15",
+"s": "unofficial"
+},
+{
+"n": "news-bdnews24-cambodia-30-freed-2026-10-17",
+"c": "Bangladesh's mission in Bangkok handles consular affairs for Cambodia.",
+"q": "Bangladesh has no embassy in Cambodia, with its mission in Bangkok handling consular affairs for the country.",
+"d": "2026-10-17",
+"s": "unofficial"
+},
+{
+"n": "news-bdnews24-cambodia-30-freed-2026-10-17",
+"c": "Zahir Imam is First Secretary (Labour) at the Bangladesh Embassy in Bangkok.",
+"q": "Zahir Imam, first secretary (labour) at the Bangladesh Embassy in Bangkok",
+"d": "2026-10-17",
+"s": "unofficial"
+},
+{
+"n": "news-bdnews24-cambodia-30-freed-2026-10-17",
+"c": "The Wage Earners' Welfare Board asked the Bangladesh Embassy in Bangkok to secure the detainees' release after an application from Anirban Survivor Voice Foundation.",
+"q": "the board said it had received an application from Anirban Survivor Voice Foundation seeking assistance for the workers",
+"d": "2026-10-17",
+"s": "unofficial"
+},
+{
+"n": "news-bdnews24-cambodia-detention-30-cleared-2026-10",
+"c": "The 30 detained workers had registered to leave Cambodia when the government offered a return without fines.",
+"q": "When the Cambodian government offered an opportunity to return home without paying fines, they registered to leave the country.",
+"d": "2026-10-19",
+"s": "unofficial"
+},
+{
+"n": "news-bdnews24-cambodia-waiver-oct31-2026-10",
+"c": "Anirban Survivor Voice Foundation said Cambodia's visa-overstay fine waiver would expire on 31 October 2026.",
+"q": "before a visa-overstay fine waiver expires on Oct 31",
+"d": "2026-10-18",
+"s": "unofficial"
+},
+{
+"n": "news-bdnews24-cambodia-waiver-oct31-2026-10",
+"c": "The group said high airfares and administrative hurdles kept many Bangladeshis from leaving Cambodia despite the fine waiver.",
+"q": "high airfares and administrative hurdles were preventing many from returning",
+"d": "2026-10-18",
+"s": "unofficial"
+},
+{
+"n": "news-bdnews24-cambodia-waiver-oct31-2026-10",
+"c": "Anirban Survivor Voice Foundation's president is Al Amin Nayan.",
+"q": "said Al Amin Nayan, president of the foundation",
+"d": "2026-10-18",
+"s": "unofficial"
+},
+{
+"n": "news-dailystarbn-cambodia-1800-oct31-2026",
+"c": "Cambodian authorities interviewed Bangladeshis applying to return to check whether they were trafficking victims or linked to scam centres and trafficking networks.",
+"q": "দেশে ফেরার আবেদন করা বাংলাদেশিরা মানব পাচারের শিকার কি না, অথবা অনলাইন প্রতারণাকেন্দ্র ও মানব পাচার চক্রের সঙ্গে যুক্ত কি না, তা যাচাই করতে কম্বোডিয়ার কর্তৃপক্ষ তাদের সাক্ষাৎকার নিয়েছিল।",
+"d": "2026-10-18",
+"s": "unofficial"
+},
+{
+"n": "news-dailystarbn-cambodia-1800-oct31-2026",
+"c": "Those identified as trafficking victims were allowed to return home.",
+"q": "যাদের মানব পাচারের শিকার হিসেবে শনাক্ত করা হয়েছে, তাদের দেশে ফেরার অনুমতি দেওয়া হয়েছে।",
+"d": "2026-10-18",
+"s": "unofficial"
+},
+{
+"n": "news-dailystarbn-cambodia-1800-oct31-2026",
+"c": "In October 2026 this screening was paused, and the Bangladesh mission asked for it to restart.",
+"q": "এই যাচাইপ্রক্রিয়া আপাতত বন্ধ রয়েছে। আবার তা চালু করার জন্য বাংলাদেশ মিশন অনুরোধ জানিয়েছে।",
+"d": "2026-10-18",
+"s": "unofficial"
+},
+{
+"n": "news-dailystarbn-cambodia-1800-oct31-2026",
+"c": "Government figures put the Bangladeshis waiting to return from Cambodia at about 1,300 to 1,400 in October 2026.",
+"q": "সরকারি তথ্য অনুযায়ী, প্রায় ১ হাজার ৩০০ থেকে ১ হাজার ৪০০ বাংলাদেশি দেশে ফেরার অপেক্ষায় রয়েছেন।",
+"d": "2026-10-18",
+"s": "unofficial"
+},
+{
+"n": "news-dailystarbn-cambodia-1800-oct31-2026",
+"c": "Requests for help for 1,796 stranded Bangladeshis reached the Embassy by phone, email, in person and through expatriate Bangladeshis.",
+"q": "ফোনকল, ই-মেইল, সরাসরি আবেদন ও প্রবাসী বাংলাদেশিদের মাধ্যমে তাদের কাছে অনুরোধ এসেছে",
+"d": "2026-10-18",
+"s": "unofficial"
+},
+{
+"n": "news-dailystarbn-cambodia-1800-oct31-2026",
+"c": "A Manikganj man stuck in Cambodia for three and a half years said he bought tickets home two or three times and only lost money.",
+"q": "দু-তিনবার টিকিট কিনেছি, কিন্তু তাতে শুধু টাকাই খুইয়েছি।",
+"d": "2026-10-18",
+"s": "unofficial"
+},
+{
+"n": "news-dailystarbn-cambodia-30-return-2026-10",
+"c": "The 30 Bangladeshis released from detention bought their air tickets home at their own cost.",
+"q": "দেশে ফেরার জন্য বাংলাদেশিরা নিজ খরচে উড়োজাহাজের টিকিট কিনেছেন।",
+"d": "2026-10-20",
+"s": "unofficial"
+},
+{
+"n": "news-dailystarbn-cambodia-30-return-2026-10",
+"c": "The 30 were held for more than six weeks before reaching Dhaka.",
+"q": "ছয় সপ্তাহেরও বেশি সময় পর আজ তারা ঢাকায় ফিরেছেন।",
+"d": "2026-10-20",
+"s": "unofficial"
+},
+{
+"n": "news-dailystarbn-cambodia-30-return-2026-10",
+"c": "On their return, CID carried out forensic checks on the returnees and examined their phones and belongings.",
+"q": "দেশে ফেরার পর অপরাধ তদন্ত বিভাগ (সিআইডি) তাদের ফরেনসিক পরীক্ষা করেছে। তাদের মুঠোফোন ও অন্যান্য জিনিসপত্র পরীক্ষা করা হয়েছে।",
+"d": "2026-10-20",
+"s": "unofficial"
+},
+{
+"n": "news-bdnews24-cambodia-deports-3000-2026-10",
+"c": "In January to September 2026 Cambodia's immigration authorities deported 52,039 foreigners from 87 countries, including more than 3,000 Bangladeshis.",
+"q": "In the first nine months of 2026, Cambodia's immigration authorities have deported 52,039 foreign nationals from 87 countries, including more than 3,000 Bangladeshis",
+"d": "2026-10-28",
+"s": "unofficial"
+},
+{
+"n": "news-bdnews24-cambodia-deports-3000-2026-10",
+"c": "No figures show how many deported Bangladeshis were trafficking victims forced into scams.",
+"q": "no separate statistics have been published on how many of the deported Bangladeshis have been victims of human trafficking",
+"d": "2026-10-28",
+"s": "unofficial"
+},
+{
+"n": "news-thestar-cambodia-bangladeshis-2026-10",
+"c": "Cambodia's Ministry of Interior said 3,364 Bangladeshis were deported between 1 September 2023 and 13 September 2026, 852 of them linked to online scams.",
+"q": "Cambodian authorities deported 3,364 Bangladeshis between September 1, 2023, and September 13 this year, with 852 identified as linked to online scams, according to Cambodia’s Ministry of Interior.",
+"d": "2026-10-28",
+"s": "unofficial"
+},
+{
+"n": "news-thestar-cambodia-bangladeshis-2026-10",
+"c": "A returnee learned through Facebook that the Bangladesh embassy in Thailand had arranged a waiver of overstay fines, got the waiver, bought a ticket and flew home on 14 June 2026.",
+"q": "He later learnt through Facebook that the Bangladesh embassy in Thailand had arranged a waiver of overstay fines. He somehow obtained the waiver, bought a ticket and returned home on June 14 this year.",
+"d": "2026-10-28",
+"s": "unofficial"
+},
+{
+"n": "news-thestar-cambodia-bangladeshis-2026-10",
+"c": "Recruiters promised a returnee a one-year visa and work permit but never provided them, leaving him without legal status.",
+"q": "The recruiters had promised a one-year visa and work permit but never provided the documents, leaving him without legal immigration status.",
+"d": "2026-10-28",
+"s": "unofficial"
+},
+{
+"n": "news-thestar-cambodia-bangladeshis-2026-10",
+"c": "The same returnee was promised a data-entry job, but the invitation letter used to recruit him named construction work.",
+"q": "Although he had been promised a data entry job, the invitation letter used for his recruitment mentioned construction work.",
+"d": "2026-10-28",
+"s": "unofficial"
+},
+{
+"n": "news-ann-45000-deportations-h1-2026",
+"c": "GDI's Director General said Cambodia deported more than 45,000 foreigners in January to June 2026, not counting those who left voluntarily.",
+"q": "In the first six months of the year, not including those who left voluntarily, we have deported more than 45,000 individuals",
+"d": "2026-07-16",
+"s": "unofficial"
+},
+{
+"n": "news-ann-45000-deportations-h1-2026",
+"c": "GDI's Director General said those who refused the voluntary-departure window and were detained are permanently barred from re-entering Cambodia once deported.",
+"q": "those who refused to leave and have since been detained are facing the full force of the law. Once deported under these circumstances, they are permanently barred from re-entering Cambodia.",
+"d": "2026-07-16",
+"s": "unofficial"
+},
+{
+"n": "news-ann-45000-deportations-h1-2026",
+"c": "Sok Veasna is Director General of Cambodia's General Department of Immigration.",
+"q": "Sok Veasna, director-general of the General Department of Immigration (GDI)",
+"d": "2026-07-16",
+"s": "unofficial"
+},
+{
+"n": "news-ann-45000-deportations-h1-2026",
+"c": "GDI said many people slated for deportation lack documents.",
+"q": "a lack of documentation for many of the individuals slated for deportation",
+"d": "2026-07-16",
+"s": "unofficial"
+},
+{
+"n": "news-ann-177-vietnamese-blacklisted-2025",
+"c": "GDI's deputy director general said deportees for illegal entry and work are blacklisted from re-entering Cambodia for at least three to five years under Cambodian law.",
+"q": "we have already placed them on a blacklist, barring them from re-entering the Kingdom for at least three to five years",
+"d": "2025-02-11",
+"s": "unofficial"
+},
+{
+"n": "news-npr-cambodia-crackdown-new-crisis-2026-06",
+"c": "The Cambodian government requires overstayers to pay a fine of USD 10 a day, which can add up to thousands.",
+"q": "The Cambodian government has insisted that they pay fines for overstaying their visa, but those fines – $10 a day – can add up to thousands.",
+"d": "2026-06-21",
+"s": "unofficial"
+},
+{
+"n": "news-npr-cambodia-crackdown-new-crisis-2026-06",
+"c": "Embassies negotiate with Cambodia to waive overstay fines for their citizens, but the process is slow.",
+"q": "Embassies are working on behalf of their citizens to get the Cambodian government to waive the overstay fines, but the process is slow.",
+"d": "2026-06-21",
+"s": "unofficial"
+},
+{
+"n": "news-npr-cambodia-crackdown-new-crisis-2026-06",
+"c": "Cambodia has one shelter for trafficking victims, full in June 2026 with a waitlist of hundreds.",
+"q": "there is only one shelter for victims of trafficking in Cambodia that they can stay in, but it is full, with a waitlist of hundreds",
+"d": "2026-06-21",
+"s": "unofficial"
+},
+{
+"n": "news-npr-cambodia-crackdown-new-crisis-2026-06",
+"c": "A former scam worker said that in one detention facility free drinking water was available only one hour a day and otherwise cost USD 2.",
+"q": "free drinking water is available for only one hour a day and otherwise costs $2",
+"d": "2026-06-21",
+"s": "unofficial"
+},
+{
+"n": "news-npr-cambodia-crackdown-new-crisis-2026-06",
+"c": "Amnesty International said Cambodia treats people leaving scam compounds as irregular migrants and detains them without access to lawyers or embassies.",
+"q": "detaining them in substandard immigration detention facilities without access to lawyers or embassies",
+"d": "2026-06-21",
+"s": "unofficial"
+},
+{
+"n": "ngo-gdp-cambodia-scam-victims-detention",
+"c": "Cambodia runs official immigration detention centres in Phnom Penh and Sihanoukville.",
+"q": "Cambodia operates two such facilities, in Phnom Penh and Sihanoukville",
+"d": "2023-06-06",
+"s": "unofficial"
+},
+{
+"n": "ngo-gdp-cambodia-scam-victims-detention",
+"c": "Detainees in Cambodian immigration detention report officers demanding bribes to return phones, for a bed, bedding and fans, to deliver food and for release.",
+"q": "officers demanding bribes to return confiscated phones, to provide a bed, bedding, and fans, to deliver food, and to secure release",
+"d": "2023-06-06",
+"s": "unofficial"
+},
+{
+"n": "ngo-gdp-cambodia-scam-victims-detention",
+"c": "Immigration detainees in Cambodia may receive visitors.",
+"q": "Although detainees are permitted to receive visitors",
+"d": "2023-06-06",
+"s": "unofficial"
+},
+{
+"n": "news-thestar-bati-predeportation-centre-2026-05",
+"c": "994 foreigners suspected of involvement in online scams were placed in temporary detention at the new Bati Pre-Deportation Centre.",
+"q": "A group of 994 foreigners suspected of involvement in large-scale online scam operations have been placed in temporary detention at the Bati Pre-Deportation Centre for the first time",
+"d": "2026-05-11",
+"s": "unofficial"
+},
+{
+"n": "news-thestar-bati-predeportation-centre-2026-05",
+"c": "The detainees moved to the Bati centre included Bangladeshis.",
+"q": "Vietnam, Pakistan, Bangladesh, Nepal, India",
+"d": "2026-05-11",
+"s": "unofficial"
+},
+{
+"n": "news-thestar-bati-predeportation-centre-2026-05",
+"c": "The Bati Pre-Deportation Centre is the former Mango Park 2 scam site in Sopheakmit Residence, Lumpong commune, Bati district, Takeo province.",
+"q": "situated within the Sopheakmit Residence in Lumpong commune, Bati district, Takeo province",
+"d": "2026-05-11",
+"s": "unofficial"
+},
+{
+"n": "news-thestar-bati-predeportation-centre-2026-05",
+"c": "How long detainees stay at the Bati centre depends on their embassy, which must issue travel documents to those without passports.",
+"q": "the duration of their stay at the centre will depend on cooperation with their respective embassies, as some individuals do not possess passports",
+"d": "2026-05-11",
+"s": "unofficial"
+},
+{
+"n": "news-thestar-cambodia-23760-deported-2026-11",
+"c": "Cambodia's Commission for Combating Online Scams said 23,760 foreigners were repatriated and 972 scam operations raided between July 2025 and October 2026.",
+"q": "cracked down on 972 online scam operations and repatriated 23,760 foreigners between July 2025 and October 2026",
+"d": "2026-11-07",
+"s": "unofficial"
+},
+{
+"n": "ngo-central-250000-deported",
+"c": "From mid-January to 19 April 2026, 241,888 foreigners, Bangladeshis among them, left Cambodia voluntarily.",
+"q": "From mid-January this year to April 19, a total of 241,888 foreigners including Chinese, Vietnamese, Indonesian, Indian, Bangladeshi, and Pakistani nationals left Cambodia voluntarily.",
+"d": "undated",
+"s": "unofficial"
+},
+{
+"n": "news-rri-cambodia-waiver-indonesians-2026",
+"c": "For Indonesians, Cambodia's fine waiver spared daily fines of USD 10 and shortened deportation procedures that would otherwise take more than six months.",
+"q": "sparing citizens from daily fines of USD 10, and shortening deportation procedures that would otherwise take more than six months",
+"d": "2026-04-21",
+"s": "unofficial"
+},
+{
+"n": "news-rri-cambodia-waiver-indonesians-2026",
+"c": "Cambodia's Immigration told Indonesians granted waivers to buy tickets home by the end of April 2026.",
+"q": "instructed those granted waivers to purchase flight tickets back to Indonesia no later than the end of April 2026",
+"d": "2026-04-21",
+"s": "unofficial"
+},
+{
+"n": "news-rri-cambodia-waiver-indonesians-2026",
+"c": "Cambodia enacted an Anti-Cyber Scam Law on 7 April 2026 with fines up to USD 500,000 and life imprisonment for online fraud.",
+"q": "Anti-Cyber Scam Law on April 7, 2026, which imposes severe penalties -- including fines up to USD 500,000 and life imprisonment",
+"d": "2026-04-21",
+"s": "unofficial"
+},
+{
+"n": "news-kathmandupost-dailystar-bangladeshi-cambodia-2026-07",
+"c": "The Bangladesh embassy said around 4,000 to 4,500 Bangladeshis were overstaying in Cambodia in mid-2026, and many received travel passes to return.",
+"q": "around 4,000 to 4,500 Bangladeshis were overstaying in Cambodia, and many received travel passes to facilitate their return",
+"d": "2026-07-16",
+"s": "unofficial"
+},
+{
+"n": "news-kathmandupost-dailystar-bangladeshi-cambodia-2026-07",
+"c": "After Bangladesh tightened checks on travel to Cambodia, some recruiters allegedly used fake BMET cards or sent workers to Thailand as tourists before moving them to Cambodia.",
+"q": "some recruiters allegedly began using fake BMET cards or sending workers to Thailand as tourists before moving them to Cambodia",
+"d": "2026-07-16",
+"s": "unofficial"
+},
+{
+"n": "news-kathmandupost-dailystar-bangladeshi-cambodia-2026-07",
+"c": "A worker with BMET clearance found on arrival he had only a one-month visit visa.",
+"q": "He received BMET clearance. But after arriving in Cambodia, he discovered he had only a one-month visit visa.",
+"d": "2026-07-16",
+"s": "unofficial"
+},
+{
+"n": "news-kathmandupost-dailystar-bangladeshi-cambodia-2026-07",
+"c": "A worker promised an employment visa found on arrival he had only a tourist visa.",
+"q": "But after arriving, he discovered he had only a tourist visa.",
+"d": "2026-07-16",
+"s": "unofficial"
+},
+{
+"n": "news-globalvoices-bangladeshi-cambodia-2026-09",
+"c": "One returnee spent USD 2,266, including overstay penalties, to get home from Cambodia.",
+"q": "a returnee had to spend USD 2,266, including penalty fees for overstaying without a visa, to secure his journey back home",
+"d": "2026-09-22",
+"s": "unofficial"
+},
+{
+"n": "news-globalvoices-bangladeshi-cambodia-2026-09",
+"c": "One victim said his middlemen refused to extend his expired visa.",
+"q": "he had asked his middlemen to extend his expired visa and had been refused",
+"d": "2026-09-22",
+"s": "unofficial"
+},
+{
+"n": "news-tbs-flawed-vetting-2026",
+"c": "The owner of Fahim Recruiting Agency said some workers leave their employers for better-paid jobs and their original employers then refuse to take them back.",
+"q": "Some workers leave their assigned employers after hearing about higher-paying jobs elsewhere. When they later try to return, their original employers often refuse to take them back",
+"d": "2026-07-11",
+"s": "unofficial"
+},
+{
+"n": "news-tbs-sold-in-cambodia-rab-2022",
+"c": "In 2022 RAB said a trafficking gang sent Bangladeshis to Cambodia on tourist e-visas arranged with Bangladeshis living in Cambodia.",
+"q": "Cambodian tourist e-visas are made for them with the help of Cambodian expatriates Alim and Shariful",
+"d": "2022-09-06",
+"s": "unofficial"
+},
+{
+"n": "news-khaosod-19-bangladeshis-fake-visa-2024",
+"c": "Thai police said that since early 2023 Bangladeshis have been smuggled into Thailand via Cambodia.",
+"q": "Since the beginning of 2023, there has been a trend of Bangladeshis being smuggled into Thailand via Cambodia.",
+"d": "2024-01-24",
+"s": "unofficial"
+},
+{
+"n": "news-khaosod-19-bangladeshis-fake-visa-2024",
+"c": "Smuggled Bangladeshis are moved in stages from the Cambodian border to Bangkok and then to southern Thailand.",
+"q": "They are then taken in stages from the Cambodian border to Bangkok and the surrounding area before being taken to the southern region.",
+"d": "2024-01-24",
+"s": "unofficial"
+},
+{
+"n": "news-khaosod-19-bangladeshis-fake-visa-2024",
+"c": "In January 2024 Thai immigration police arrested 19 Bangladeshis at Taba Market, Tak Bai district, Narathiwat province.",
+"q": "Immigration Police has arrested 19 Bangladeshis after receiving a tip-off from the public that a person resembling a foreigner was seen at Taba Market in Che He sub-district of Tak Bai district, Narathiwat Province",
+"d": "2024-01-24",
+"s": "unofficial"
+},
+{
+"n": "news-khaosod-19-bangladeshis-fake-visa-2024",
+"c": "Bangladeshis in Cambodia had taken the 19 men's passports to get them fake Thai entry stamps for the trip to Malaysia.",
+"q": "Bangladeshis in Cambodia had arranged accommodation for them and taken their passports to have them stamped with Thai entry stamps so they could travel to Malaysia.",
+"d": "2024-01-24",
+"s": "unofficial"
+},
+{
+"n": "news-khaosod-19-bangladeshis-fake-visa-2024",
+"c": "The 19 paid Tk 4 to 5 lakh each for the stamps and the agents in Bangladesh.",
+"q": "The cost of stamping their passports with Thai entry stamps and paying the agents in Bangladesh amounted to 400,000 to 500,000 taka per person",
+"d": "2024-01-24",
+"s": "unofficial"
+},
+{
+"n": "news-khaosod-19-bangladeshis-fake-visa-2024",
+"c": "All 19 passports had irregular visa stickers, and Thai immigration had no travel records for them.",
+"q": "all 19 passports had visa stickers that were irregular",
+"d": "2024-01-24",
+"s": "unofficial"
+},
+{
+"n": "news-fmt-11-bangladeshis-sakaeo-2023",
+"c": "In December 2023, 11 Bangladeshis heading to Malaysia were caught after their pickup truck overturned in Sa Kaeo province.",
+"q": "Eleven Bangladeshis believed to be heading to Malaysia were nabbed by Thai police on Saturday after their pickup truck overturned in Sa Kaeo province",
+"d": "2023-12-11",
+"s": "unofficial"
+},
+{
+"n": "news-fmt-11-bangladeshis-sakaeo-2023",
+"c": "They had travelled from Bangladesh to Cambodia before crossing into Thailand illegally.",
+"q": "the group had travelled from Bangladesh to Cambodia before illegally crossing into Thailand via the pickup truck en route to Malaysia",
+"d": "2023-12-11",
+"s": "unofficial"
+},
+{
+"n": "news-fe-thailand-21-bangladeshis-malaysia",
+"c": "21 Bangladeshis were found hidden in a seaside resort in Chana, southern Thailand.",
+"q": "They were found hidden in a seaside resort in Chana on Wednesday early hours",
+"d": "2026-04-10",
+"s": "unofficial"
+},
+{
+"n": "news-fe-thailand-21-bangladeshis-malaysia",
+"c": "The 21 said they paid brokers Tk 7 lakh each for passage to Malaysia.",
+"q": "they had paid brokers Tk 700,000 each for passage to Malaysia",
+"d": "2026-04-10",
+"s": "unofficial"
+},
+{
+"n": "news-fe-thailand-21-bangladeshis-malaysia",
+"c": "They flew to Cambodia and crossed into Thailand on foot on 4 April 2026.",
+"q": "They first flew to Cambodia and then crossed into Thailand on foot on Apr 4",
+"d": "2026-04-10",
+"s": "unofficial"
+},
+{
+"n": "news-fe-thailand-21-bangladeshis-malaysia",
+"c": "The 21 were charged with illegal entry and stay.",
+"q": "was later charged with illegal entry and stay",
+"d": "2026-04-10",
+"s": "unofficial"
+},
+{
+"n": "news-bdnews24bn-thailand-malaysia-via-cambodia-2026-04",
+"c": "The resort owner had taken the migrants' phones.",
+"q": "তাদের দাবি, রিসোর্ট মালিক তাদের ফোনগুলো কেড়ে নিয়েছেন।",
+"d": "2026-04-10",
+"s": "unofficial"
+},
+{
+"n": "news-khaosod-sakaeo-11-bangladeshis-2026-07",
+"c": "Of 11 people caught crossing from Cambodia into Thailand in July 2026, seven were Bangladeshis, and none carried a passport or ID.",
+"q": "They were identified as seven Bangladeshi nationals, one Chinese national, two Vietnamese nationals and one Thai national. None of them were carrying a passport or other identification documents.",
+"d": "2026-07-06",
+"s": "unofficial"
+},
+{
+"n": "news-khaosod-sakaeo-11-bangladeshis-2026-07",
+"c": "They had worked about three months in Poipet and fled when Cambodian crackdowns on foreigners intensified.",
+"q": "Cambodian authorities had recently intensified crackdowns on foreign nationals, prompting them to flee their accommodation",
+"d": "2026-07-06",
+"s": "unofficial"
+},
+{
+"n": "news-khaosod-sakaeo-11-bangladeshis-2026-07",
+"c": "Each paid a smuggling network 8,000 baht, and three Cambodian guides walked them across from Poipet.",
+"q": "they each paid 8,000 baht to a human smuggling network to arrange their return to Thailand. They said they were driven from Poipet to the border before three Cambodian guides led them on foot through a natural crossing.",
+"d": "2026-07-06",
+"s": "unofficial"
+},
+{
+"n": "news-khaosod-sakaeo-11-bangladeshis-2026-07",
+"c": "The Cambodian guides escaped before the Thai authorities secured the area.",
+"q": "the guides escaped before authorities secured the area",
+"d": "2026-07-06",
+"s": "unofficial"
+},
+{
+"n": "news-aseannow-bangladeshis-thai-border-cambodia",
+"c": "Six Bangladeshis arrested crossing into Thailand had flown from Bangladesh to Sihanoukville and been taken by van to Phnom Penh in early January 2026.",
+"q": "they flew from Bangladesh to Sihanoukville International Airport before being transported by van to Phnom Penh in early January 2026",
+"d": "2026-05-25",
+"s": "unofficial"
+},
+{
+"n": "news-aseannow-bangladeshis-thai-border-cambodia",
+"c": "They said they worked about five months as labourers without pay.",
+"q": "they worked for around five months without receiving any payment",
+"d": "2026-05-25",
+"s": "unofficial"
+},
+{
+"n": "news-aseannow-bangladeshis-thai-border-cambodia",
+"c": "They walked more than two days from Phnom Penh to Poipet and crawled under the border fence, intending to reach the Bangladesh embassy for help going home.",
+"q": "The group then crawled under barbed-wire fencing from the Poipet side into Thailand, intending to travel to the Bangladesh embassy to seek assistance returning home.",
+"d": "2026-05-25",
+"s": "unofficial"
+},
+{
+"n": "news-aseannow-bangladeshis-thai-border-cambodia",
+"c": "The six were handed to Khlong Luek police in Sa Kaeo for legal proceedings.",
+"q": "Authorities later transferred all six to investigators at Khlong Luek Police Station in Sa Kaeo for further questioning and legal proceedings.",
+"d": "2026-05-25",
+"s": "unofficial"
+},
+{
+"n": "news-dhakatribune-cambodia-border-conflict-assist-2025",
+"c": "During the July 2025 Thailand-Cambodia fighting, the Bangladesh Embassy in Bangkok gave a hotline for Bangladeshis wanting to leave the border areas.",
+"q": "Those who wish to leave the affected areas have been requested to contact the embassy's hotline at +6681870843 for assistance.",
+"d": "2025-07-29",
+"s": "lead",
+"note": "Number appears to have a digit missing (Thai mobiles have 9 digits after +66); not for use without confirmation."
+},
+{
+"n": "news-dhakatribune-cambodia-border-conflict-assist-2025",
+"c": "Labour Counsellor Fahad Parvez Bosunia met displaced Bangladeshis in Phnom Penh in July 2025.",
+"q": "Labour Counsellor Fahad Parvez Bosunia met with the displaced Bangladeshis on Monday in Phnom Penh",
+"d": "2025-07-29",
+"s": "unofficial"
+},
+{
+"n": "news-tbs-78-return-cambodia",
+"c": "In 2020 the Ministry of Foreign Affairs arranged special flights home from Cambodia on a self-payment basis.",
+"q": "The ministry of foreign affairs of Bangladesh arranged this special flight on self-payment basis to repatriate stranded Bangladeshi nationals in Cambodia.",
+"d": "2020-09-30",
+"s": "unofficial"
+},
+{
+"n": "news-fe-bangkok-embassy-caution-five-countries",
+"c": "The Bangladesh Embassy in Thailand warned of job scams in Thailand, Myanmar, Laos, Vietnam and Cambodia.",
+"q": "The Bangladesh embassy in Thailand has warned citizens about job scams in Thailand, Myanmar, Laos, Vietnam, and Cambodia",
+"d": "2024-11-23",
+"s": "unofficial"
+},
+{
+"n": "law-kh-immigration-1994-wto",
+"c": "A foreigner who enters Cambodia clandestinely, by fraud or by other illegal means faces three to six months' prison, then expulsion.",
+"q": "Any alien who without authorization, entered the Kingdom of Cambodia clandestinely or fraud or by any other illegal means whatsoever, contrary to the provisions of this Law, shall be subjected to imprisonment for three to six months prior to his being expulsed out of the country.",
+"d": "1994-08-26",
+"s": "possibly-outdated"
+},
+{
+"n": "law-kh-immigration-1994-wto",
+"c": "Anyone who helps bring in or hide such illegal entrants gets the same sentence.",
+"q": "Shall be subjected to the same jail sentence, those who assisted, or helped concealing, in order to bring those illegal foreigners entered without authorization into the Kingdom of Cambodia.",
+"d": "1994-08-26",
+"s": "possibly-outdated"
+},
+{
+"n": "law-kh-immigration-1994-wto",
+"c": "Faking, altering or lending a resident card, work card or employment contract, or using one in another name, carries five to fifteen years' prison.",
+"q": "Anyone who scratches, erases, makes carbon copy, fakes, lends, or writes false name on the resident card, labor/working card, labor/employment contract, or uses those documents with a name different than his own, or files a fake application for these above documents, shall be subjected to imprisonment for a term of five (5) to fifteen (15) years.",
+"d": "1994-08-26",
+"s": "possibly-outdated"
+},
+{
+"n": "law-kh-immigration-1994-wto",
+"c": "The Minister of Interior may expel any foreigner working in Cambodia without a work card.",
+"q": "c. working in the Kingdom of Cambodia without a labor/working card.",
+"d": "1994-08-26",
+"s": "possibly-outdated"
+},
+{
+"n": "law-kh-immigration-1994-wto",
+"c": "The Minister of Interior shall expel every foreigner who entered Cambodia illegally.",
+"q": "The Minister of Interior shall expel from the Kingdom of Cambodia, every alien who entered illegally in the Kingdom of Cambodia.",
+"d": "1994-08-26",
+"s": "possibly-outdated"
+},
+{
+"n": "law-kh-immigration-1994-wto",
+"c": "An expulsion order takes effect at once, and the person may complain to a court within two months.",
+"q": "Decision for the expulsion must be carried out immediately from the date of signature of the Minister of Interior. The concerned person shall have rights to file complaint to the court within a period of two (2) months.",
+"d": "1994-08-26",
+"s": "possibly-outdated"
+},
+{
+"n": "law-kh-immigration-1994-wto",
+"c": "Expulsion is carried out within 7 days of the Minister's decision unless a court orders it suspended.",
+"q": "The expulsion shall be carried out within 7 days, after an official decision is made by the Minister of Interior; except when there is a court decision ordering the instant suspension of such implementation.",
+"d": "1994-08-26",
+"s": "possibly-outdated"
+},
+{
+"n": "law-kh-immigration-1994-wto",
+"c": "Breaking the registration, residence-card and exit-permit rules is fined 50,000 to 1,000,000 riel, and 1,000,001 to 2,000,000 riel for a repeat.",
+"q": "Shall be subjected to fines from 50,000 to 1,000,000 Riels, for those foreigners who breached the provisions of Articles 14, 15, 16, 17, 21 and 23 of this Law. In the event of repeated breaches, the fines shall be increased from 1,000,001 to 2,000,000 Riels.",
+"d": "1994-08-26",
+"s": "possibly-outdated"
+},
+{
+"n": "law-kh-immigration-1994-wto",
+"c": "Landlords and hosts must report any foreigner staying with them to the authorities within 24 hours.",
+"q": "Owners or occupyers of all types of place of abode shall inform the competent authority within 24 hours, of the presence of any immigrant or non-immigrant aliens.",
+"d": "1994-08-26",
+"s": "possibly-outdated"
+},
+{
+"n": "law-kh-refugee-subdecree-224-2009",
+"c": "A refugee under Cambodian law is someone outside his country owing to a well-founded fear of persecution for race, religion, nationality, membership of a particular social group or political opinion, who cannot or will not seek its protection.",
+"q": "is owing to well-founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group or political opinion",
+"d": "2009-12-17",
+"s": "possibly-outdated"
+},
+{
+"n": "law-kh-refugee-subdecree-224-2009",
+"c": "The Ministry of Interior decides refugee and asylum claims, through the Immigration Department.",
+"q": "The Ministry of Interior (MOI), is the competent institution to determine to grant or not to grant refugee status or asylum to foreigners in the Kingdom of Cambodia, under which the Immigration Department of the National Police Commissariat is its authority.",
+"d": "2009-12-17",
+"s": "possibly-outdated"
+},
+{
+"n": "law-kh-refugee-subdecree-224-2009",
+"c": "Any foreigner can apply for asylum to Cambodian officials by any appropriate means.",
+"q": "Any foreigner can apply for asylum with competent officials of the Kingdom of Cambodia by any means available deemed appropriate.",
+"d": "2009-12-17",
+"s": "possibly-outdated"
+},
+{
+"n": "law-kh-refugee-subdecree-224-2009",
+"c": "An applicant may stay only for the length of the procedure, on a free written authorisation: a visa in the passport or, without a passport, a letter signed by the Commissioner General of the National Police.",
+"q": "The competent officials of the MOI shall issue written authorization for preliminary stay, free of charge, either in the form of entry visa on the Applicant's passport or in absence of a passport or any travel document, an explanatory letter duly signed and sealed by the Commissioner General of the National Police.",
+"d": "2009-12-17",
+"s": "possibly-outdated"
+},
+{
+"n": "law-kh-refugee-subdecree-224-2009",
+"c": "Permission to stay lasts only as long as the refugee status procedure.",
+"q": "length of stay is limited to the duration of refugee status determination procedure",
+"d": "2009-12-17",
+"s": "possibly-outdated"
+},
+{
+"n": "law-kh-refugee-subdecree-224-2009",
+"c": "The applicant must complete, sign and return the application form within one week, giving in writing the reasons for fleeing.",
+"q": "complete, sign and submit the form to the competent officials within a period not exceeding one week",
+"d": "2009-12-17",
+"s": "possibly-outdated"
+},
+{
+"n": "law-kh-refugee-subdecree-224-2009",
+"c": "The interview takes place within 15 days of the form, before two Interior Ministry officials and one Foreign Ministry official, and is recorded.",
+"q": "A refugee status determination interview shall take place within 15 days upon receipt of the application form by two competent and qualified officials from the MOI and 1 official Ministry of Foreign Affairs and International Co-operation.",
+"d": "2009-12-17",
+"s": "possibly-outdated"
+},
+{
+"n": "law-kh-refugee-subdecree-224-2009",
+"c": "A written decision is due within 45 days of the interview, extendable to 90 days in total.",
+"q": "Within 45 days of the conclusion of the refugee status interview, a written decision shall be issued by the MOI. If the decision can not be issued within this time period due to the nature of the case, the competent officials of the MOI may extend the time period as appropriate, but not exceeding 90 days in total.",
+"d": "2009-12-17",
+"s": "possibly-outdated"
+},
+{
+"n": "law-kh-refugee-subdecree-224-2009",
+"c": "After a refusal the applicant may appeal once to the Immigration Department within 30 days, stating the grounds.",
+"q": "The Applicant may file an appeal with the Immigration Department for reconsideration of the decision within 30 days from the receipt of the adverse decision. The Applicant shall clearly specify the grounds upon which it is based. The Applicant shall be allowed to file only one appeal.",
+"d": "2009-12-17",
+"s": "possibly-outdated"
+},
+{
+"n": "law-kh-refugee-subdecree-224-2009",
+"c": "A new panel of three officers decides the appeal within 15 days.",
+"q": "The Immigration Department shall act on the appeal application within 15 days from the date of receipt thereof.",
+"d": "2009-12-17",
+"s": "possibly-outdated"
+},
+{
+"n": "law-kh-refugee-subdecree-224-2009",
+"c": "The appeal decision is final, and a refused applicant must leave Cambodia within 15 days.",
+"q": "Any decision concluded from the request for reconsideration will be final. The unsuccessful Applicant will have to leave the Kingdom of Cambodia within 15 days after the notification.",
+"d": "2009-12-17",
+"s": "possibly-outdated"
+},
+{
+"n": "law-kh-refugee-subdecree-224-2009",
+"c": "A claim based purely on economic needs or wanting better living conditions can be rejected immediately.",
+"q": "the Applicant shows that his or her application is only based purely on economic needs or just wishes to benefit from the better living conditions in the Kingdom of Cambodia",
+"d": "2009-12-17",
+"s": "possibly-outdated"
+},
+{
+"n": "law-kh-refugee-subdecree-224-2009",
+"c": "A claim is also rejected at once if the applicant does not cooperate in giving accurate information.",
+"q": "the Applicant does not cooperate with the competent official in clarifying accurate information regarding the application",
+"d": "2009-12-17",
+"s": "possibly-outdated"
+},
+{
+"n": "law-kh-refugee-subdecree-224-2009",
+"c": "The procedure stops if the applicant misses the interview twice without good reason.",
+"q": "The Applicant fails to attend the interview on two consecutive occasions without reasonable justification.",
+"d": "2009-12-17",
+"s": "possibly-outdated"
+},
+{
+"n": "law-kh-refugee-subdecree-224-2009",
+"c": "A qualified interpreter is provided free at every stage.",
+"q": "The Minister of the MOI shall provide a qualified interpreter free of charge in order to assist in each stage of the RSD process",
+"d": "2009-12-17",
+"s": "possibly-outdated"
+},
+{
+"n": "law-kh-refugee-subdecree-224-2009",
+"c": "A recognised refugee has the same rights as a legal immigrant, gets a resident card, and may work or run a business.",
+"q": "A refugee has right to work or to operate any kind of business in accordance with the laws and legal standard of the Kingdom of Cambodia.",
+"d": "2009-12-17",
+"s": "possibly-outdated"
+},
+{
+"n": "law-kh-refugee-subdecree-224-2009",
+"c": "Refugee status is cancelled if it was granted on false information or documents.",
+"q": "When it becomes evident that refugee status was granted on the basis of fraudulent information, document, or material which was willfully provided by the refugee",
+"d": "2009-12-17",
+"s": "possibly-outdated"
+},
+{
+"n": "law-kh-refugee-subdecree-224-2009",
+"c": "Asylum seekers can approach UNHCR through the Ministry of Interior at any time.",
+"q": "Asylum seekers can approach UNHCR through MOI at any time.",
+"d": "2009-12-17",
+"s": "possibly-outdated"
+},
+{
+"n": "unhcr-cambodia-country-page",
+"c": "UNHCR says Cambodia's General Department of Immigration oversees 26 refugees and 11 asylum seekers.",
+"q": "In Cambodia, UNHCR provides technical support to the General Department of Immigration, which oversees 26 refugees and 11 asylum-seekers of various nationalities.",
+"d": "undated",
+"s": "possibly-outdated"
+},
+{
+"n": "unhcr-cambodia-country-page",
+"c": "UNHCR says challenges remain in access to asylum and efficient case processing in Cambodia.",
+"q": "challenges remain in ensuring access to asylum and efficient case processing",
+"d": "undated",
+"s": "possibly-outdated"
+},
+{
+"n": "unhcr-cambodia-country-page",
+"c": "UNHCR has no programmes or staff in Cambodia; it is covered by the Thailand multi-country office.",
+"q": "UNHCR neither has programming nor staffing in place",
+"d": "undated",
+"s": "possibly-outdated"
+},
+{
+"n": "unhcr-cambodia-country-page",
+"c": "UNHCR's office covering Cambodia is in Bangkok: 3rd A Floor, United Nations Building, Rajdamnern Nok Avenue, Bangkok 10200.",
+"q": "3rd A Floor, United Nations Building., Rajdamnern Nok Avenue,, Bangkok 10200",
+"d": "undated",
+"s": "possibly-outdated"
+},
+{
+"n": "unhcr-cambodia-country-page",
+"c": "UNHCR Bangkok's phone is +66 2 288 2180 and email thaba@unhcr.org.",
+"q": "+66 2 288 2180 Email: thaba@unhcr.org",
+"d": "undated",
+"s": "possibly-outdated"
+},
+{
+"n": "ngo-hrw-cambodia-refugee-subdecree-analysis-2010",
+"c": "Human Rights Watch noted the sub-decree gives no right to a court appeal against refusal, and no sign an appeal stops removal.",
+"q": "The sub-decree provides no right to judicial appeal of a negative decision.",
+"d": "2010-03-19",
+"s": "unofficial"
+},
+{
+"n": "ngo-hrw-cambodia-refugee-subdecree-analysis-2010",
+"c": "Human Rights Watch said immediate rejection is a fast track with no appeal or review.",
+"q": "This appears to be a fast-track procedure without any right of appeal or review of the immediate rejection of the claim.",
+"d": "2010-03-19",
+"s": "unofficial"
+}
+]
+}

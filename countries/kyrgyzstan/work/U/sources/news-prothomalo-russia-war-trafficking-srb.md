@@ -1,0 +1,81 @@
+[](/)
+
+## ![en.prothomalo.com logo](https://media.prothomalo.com/prothomalo-bangla/2025-11-17/r8eiboew/palo-english.svg)
+
+[](/search)
+
+[](/api/auth/v1/oauth/authorize?client_id=811&response_type=code&redirect_uri=/api/auth/v1/oauth/token&callback_uri=/bangladesh/uvrhp22g3j)
+
+[](/search)
+
+Search
+
+[](https://epaper.prothomalo.com)
+
+#### ই-পেপার
+
+[বাংলা](https://www.prothomalo.com)
+
+[](/api/auth/v1/oauth/authorize?client_id=811&response_type=code&redirect_uri=/api/auth/v1/oauth/token&callback_uri=/bangladesh/uvrhp22g3j)
+
+[](/)
+
+## ![en.prothomalo.com logo](https://media.prothomalo.com/prothomalo-bangla/2025-11-17/r8eiboew/palo-english.svg)
+
+[Bangladesh](https://en.prothomalo.com/bangladesh)
+
+# Bangladeshis sent to Russia for jobs, used as 'prey' in war, 20 killed: SRB
+
+Staff Correspondent
+
+Dhaka
+
+Published: 14 Oct 2026, 10: 04
+
+[](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fen.prothomalo.com%2Fbangladesh%2Fuvrhp22g3j)[](https://twitter.com/intent/tweet?url=https%3A%2F%2Fen.prothomalo.com%2Fbangladesh%2Fuvrhp22g3j&text=Bangladeshis%20sent%20to%20Russia%20for%20jobs%2C%20used%20as%20'prey'%20in%20war%2C%2020%20killed%3A%20SRB&hashtags=)
+
+Commander of SRB-10 Battalion Md Asaduzzaman speaks at a press conference in Karwan Bazar, Dhaka, on Wednesday.Prothom Alo
+
+Thirty Bangladeshis went to Russia in search of jobs after being promised employment at construction companies.
+
+But upon arrival, their passports and mobile phones were confiscated, and they were handed over to the military.
+
+After 21 days of military training, they were deployed to the Russia-Ukraine war.
+
+The Special Response Battalion (SRB) has found that at least 20 Bangladeshis died in drone strikes there.
+
+A preliminary SRB investigation found that the Bangladeshis were sent to the battlefield as a kind of bait to identify enemy positions.
+
+When drones struck them, the attackers’ positions and distance could be determined.
+
+Additional Deputy Inspector General (DIG) Md Asaduzzaman, commander of SRB-10 Battalion, disclosed the information at a press conference in Karwan Bazar in the capital on Wednesday.
+
+Two people have been arrested in connection with the incident: Mizanur Rahman, 55, founder of Jabal-e-Noor International and one of the key figures in the human trafficking network, and Abu Taher, also known as Lentu.
+
+According to the SRB, the 30 Bangladeshis travelled to Russia on 7 May this year through three companies: Jabal-e-Noor, RS International and TS Group. Each was charged an average of around Tk 1 million on the promise of construction jobs. However, instead of providing the promised employment, the recruiters handed them over to the Russian military after they arrived. They were then sent to the battlefield following 21 days of training.
+
+“The people taken from Bangladesh were not fit for combat. They had no physical, military or tactical training suitable for warfare. So why were they deployed after just 21 days of training? What we have understood is that they were sent to the battlefield as a kind of bait to identify enemy positions. When the opposing side launches drone strikes against them, its positions can be identified,” Asaduzzaman said.
+
+The SRB said the Bangladeshis were deployed in three zones of the battlefield: the front, middle and rear. Seventeen were killed in drone strikes on the very first day. Three more deaths were reported at different times later. The battalion has provisionally confirmed the deaths of 20 of the 30 Bangladeshis.
+
+At the press conference, Asaduzzaman said two of the survivors had returned to Bangladesh with injuries. One of them, Rajan, said a drone strike on the battlefield broke his pelvis and left the lower half of his body paralysed. He managed to reach a camp by crawling on his chest for nearly four kilometres.
+
+Of the remaining eight, two are receiving treatment at a hospital in Moscow, while the other six are still on the battlefield.
+
+Asaduzzaman said the trafficking network involved not only Bangladeshis but also a Russian national named Igor and a Kyrgyz woman named Julia. Efforts are underway to gather information about them and conduct operations. The authorities are also trying to arrest another member of the network, Mostafizur.
+
+The SRB official said preliminary findings suggested that people from several countries had been recruited in a similar manner to fight in Russia’s war. From Bangladesh, recruits had come particularly from Gopalganj, Mymensingh, Narayanganj, Jamalpur, Pabna, Chapainawabganj, Faridpur, Rajbari and Gazipur.
+
+Asaduzzaman added that most of the victims came from poor families, and some had borrowed money to travel abroad. Many of their families have now received news of their loved ones’ deaths but have no opportunity to see the bodies or bring them home.
+
+He urged people to exercise caution when offered overseas jobs, particularly when making payments to recruiters, and to verify the legitimacy of the companies involved before travelling.
+
+[Follow the Google news channel to get Prothom Alo's latest news](https://news.google.com/publications/CAAqBwgKMOC2lwsw09-uAw?hl=en-US&gl=US&ceid=US%3Aen)
+
+Read more from [Bangladesh](https://en.prothomalo.com/bangladesh)
+
+- [Job](/topic/Job)
+- [Migrant Tragedies](/topic/migrant-tragedies)
+- [War](/topic/war)
+- [Special Response Battalion (SRB)](/topic/special-response-battalion-srb)
+- [Russia Ukraine War](/topic/russia-ukraine-war)

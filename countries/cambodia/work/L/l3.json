@@ -1,0 +1,11 @@
+{
+"prefix": "L",
+"facts": [
+{"n": "odc-kh-labour-law-1997-en", "c": "The Labour Law covers every employment contract performed in Cambodia, whatever the nationality of employer and worker or where the contract was signed (Art. 1)", "q": "regardless of where the contract was made and what the nationality and residences of the contracted parties are", "d": "1997-03-13", "s": "possibly-outdated"},
+{"n": "odc-kh-labour-law-1997-en", "c": "A 'worker' under the Labour Law is any person of any sex and nationality who has an employment contract for pay (Art. 3)", "q": "\"Workers\", in the sense of this law, are every person of all sex and nationality, who has signed an employment contract", "d": "1997-03-13", "s": "possibly-outdated"},
+{"n": "odc-kh-labour-law-1997-en", "c": "A foreigner may work only if he entered legally, holds a valid passport and a valid residence permit, and is fit for the job with no contagious disease (Art. 261)", "q": "These foreigners must have legally entered the Kingdom of Cambodia", "d": "1997-03-13", "s": "possibly-outdated"},
+{"n": "odc-kh-labour-law-1997-en", "c": "The employer must tell workers clearly the wage terms before they are assigned to a job and whenever they change (Art. 112)", "q": "The employer must take measures to inform the workers in a precise and easily comprehensible fashion of: a) The terms regarding wage that apply to the workers before they are assigned to a job", "d": "1997-03-13", "s": "possibly-outdated"},
+{"n": "odc-kh-labour-law-1997-en", "c": "Workers have the right, without distinction and without prior authorisation, to form and join unions of their choice (Art. 266)", "q": "Workers and employers have, without distinction whatsoever and prior authorization, the right to form professional organizations of their own choice", "d": "1997-03-13", "s": "possibly-outdated"},
+{"n": "odc-kh-labour-law-1997-en", "c": "Conciliation and arbitration under the Labour Law are free of charge (Art. 316)", "q": "The procedure for conciliation and arbitration shall be carried out free of charge.", "d": "1997-03-13", "s": "possibly-outdated"}
+]
+}

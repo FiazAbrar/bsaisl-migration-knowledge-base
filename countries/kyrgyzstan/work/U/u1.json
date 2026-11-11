@@ -1,0 +1,1338 @@
+{
+ "prefix": "U",
+ "sources": [
+  [
+   "news-dhakatribune-kyrgyzstan-180-repatriated-2025-09",
+   "Dhaka Tribune",
+   "180 Bangladeshis to be sent back from Kyrgyzstan",
+   "no",
+   "2025-09-08"
+  ],
+  [
+   "news-viewsbangladesh-kyrgyzstan-180-return-2025-09",
+   "Views Bangladesh",
+   "180 Bangladeshi migrant workers return from Kyrgyzstan",
+   "no",
+   "2025-09-10"
+  ],
+  [
+   "news-dailynewnation-kyrgyzstan-760112",
+   "The New Nation",
+   "180 return from Kyrgyzstan",
+   "no",
+   "2025-09-12"
+  ],
+  [
+   "news-tbsbangla-kyrgyzstan-388016",
+   "The Business Standard (Bangla)",
+   "Deshe phirlen Kirgizstane protaranar shikar 180 Bangladeshi (180 Bangladeshis defrauded in Kyrgyzstan return home)",
+   "no",
+   "2025-09-10"
+  ],
+  [
+   "news-banglatribune-kyrgyzstan-180-2025-09",
+   "Bangla Tribune",
+   "Kirgizstan theke pherot asbe 180 Bangladeshi (180 Bangladeshis to be returned from Kyrgyzstan)",
+   "no",
+   "2025-09-08"
+  ],
+  [
+   "news-tbs-kyrgyzstan-fraud-allegations",
+   "The Business Standard",
+   "Labour migration: Allegations of falling victims of fraud in Kyrgyzstan",
+   "no",
+   "2022-08-16"
+  ],
+  [
+   "news-dailystar-kyrgyzstan-illegal-trafficking-legal-means",
+   "The Daily Star",
+   "Illegal trafficking, legal means",
+   "no",
+   "2022-08-17"
+  ],
+  [
+   "news-dailystar-fake-job-kyrgyzstan-syndicate-held",
+   "The Daily Star",
+   "Fake job offer in Kyrgyzstan: 3 of a trafficking syndicate held",
+   "no",
+   "2024-05-07"
+  ],
+  [
+   "news-bdpratidin-sylhet-kyrgyzstan-europe-2023-05",
+   "Bangladesh Pratidin",
+   "Kirgizstane atke gelo Suranjiter Europe jawar swapno (Suranjit's dream of Europe stuck in Kyrgyzstan)",
+   "no",
+   "2023-05-06"
+  ],
+  [
+   "news-timesca-kyrgyzstan-round-up-illegal-migrants",
+   "The Times of Central Asia",
+   "Despite Labor Shortages, Kyrgyzstan Continues to Round-Up Undocumented Migrants",
+   "no",
+   "2024-08-12"
+  ],
+  [
+   "news-rferl-kyrgyzstan-mass-labor-migrant-fear",
+   "RFE/RL",
+   "Mass labor migration to Kyrgyzstan and fear of migrant workers (Bishkek unrest, May 2024)",
+   "no",
+   "2024-05-21"
+  ],
+  [
+   "news-timesca-woman-kept-foreigners-slave-labor",
+   "The Times of Central Asia",
+   "In Kyrgyzstan, a Woman Kept Foreigners in Slave Labor",
+   "no",
+   "2024-06-22"
+  ],
+  [
+   "news-economistkg-jalalabad-bangladesh-2024-07",
+   "Economist.kg",
+   "V Dzhalal-Abade zaderzhali grazhdan Bangladesh, pytavshikhsya nezakonno popast v Kyrgyzstan (Bangladeshis detained in Jalal-Abad trying to enter Kyrgyzstan illegally)",
+   "no",
+   "2024-07-03"
+  ],
+  [
+   "news-inform-kz-six-border-violators-deported",
+   "Kazinform",
+   "Shest narushiteley granitsy deportirovany iz Kazakhstana na pyat let (Six border violators expelled from Kazakhstan for five years)",
+   "no",
+   "2024-11-28"
+  ],
+  [
+   "news-24kg-kazakhstan-channel-organisers",
+   "24.kg",
+   "V Kazakhstane zaderzhany organizatory kanala nezakonnoy migratsii iz Kyrgyzstana (Organisers of an illegal migration channel from Kyrgyzstan detained in Kazakhstan)",
+   "no",
+   "2023-11-24"
+  ],
+  [
+   "news-caravan-kyrgyzstan-channel-32-bangladesh",
+   "Caravan.kz",
+   "V Kyrgyzstane vyyavlen mezhdunarodnyy kanal nezakonnoy migratsii (International illegal migration channel found in Kyrgyzstan)",
+   "no",
+   "2004-08-12"
+  ],
+  [
+   "news-economistkg-bishkek-64-pak-bd-2024-04",
+   "Economist.kg",
+   "V Bishkeke vyyavili 64 nelegalov iz Pakistana i Bangladesha (64 undocumented Pakistanis and Bangladeshis found in Bishkek, to be expelled)",
+   "no",
+   "2024-04-15"
+  ],
+  [
+   "news-economistkg-bishkek-site-46-2025-05",
+   "Economist.kg",
+   "Na stroyke v Bishkeke vyyavleny 46 nelegalov (46 undocumented workers found on a Bishkek building site)",
+   "no",
+   "2025-05-19"
+  ],
+  [
+   "news-akchabar-fake-visas-bangladesh-channel",
+   "Akchabar",
+   "The State Committee for National Security of the Kyrgyz Republic has shut down a channel for producing fake visas for migrants from Bangladesh",
+   "no",
+   "2025-05-20"
+  ],
+  [
+   "news-economistkg-fake-medical-certs-pak-bd-2026-03",
+   "Economist.kg",
+   "V Bishkeke nakryli kanal legalizatsii migrantov iz Pakistana i Bangladesh cherez fiktivnye medosmotry (Channel legalising Pakistani and Bangladeshi migrants through fake medical checks busted in Bishkek)",
+   "no",
+   "2026-03-18"
+  ],
+  [
+   "news-24kg-legalization-algorithm-2025-06",
+   "24.kg",
+   "Legalizatsiya inostrantsev v Kyrgyzstane. Algoritm deystviy (Legalisation of foreigners in Kyrgyzstan: what to do)",
+   "no",
+   "2025-06-03"
+  ],
+  [
+   "news-economistkg-decree-164-legalization-2025-05",
+   "Economist.kg",
+   "Sadyr Zhaparov podpisal ukaz o legalizatsii migrantov v KR (Japarov signs decree on legalising migrants)",
+   "no",
+   "2025-05-22"
+  ],
+  [
+   "news-economistkg-nelegal-2025-start",
+   "Economist.kg",
+   "V Kyrgyzstane startovala operatsiya Nelegal-2025 (Operation Illegal-2025 starts)",
+   "no",
+   "2025-06-11"
+  ],
+  [
+   "news-currenttime-33420406",
+   "Current Time (RFE/RL)",
+   "V Kyrgyzstane obyavili reydy protiv migrantov, narushivshikh rezhim prebyvaniya (Kyrgyzstan announces raids on migrants breaking stay rules)",
+   "no",
+   "2025-05-21"
+  ],
+  [
+   "news-24kg-issykkul-20-expelled-2026-06",
+   "24.kg",
+   "Iz Kyrgyzstana vydvorili 20 inostrantsev posle reydov na Issyk-Kule (20 foreigners expelled after Issyk-Kul raids)",
+   "no",
+   "2026-06-05"
+  ],
+  [
+   "news-economistkg-migrants-fined-8m-2026-06",
+   "Economist.kg",
+   "Migrantov v Kyrgyzstane oshtrafovali pochti na 8 mln somov (Migrants fined almost 8 million som)",
+   "no",
+   "2026-06-24"
+  ],
+  [
+   "news-economistkg-nelegal-2026-issykkul-303",
+   "Economist.kg",
+   "Nelegal-2026: na Issyk-Kule vyyavili 303 narushitelya (Illegal-2026: 303 violators found on Issyk-Kul)",
+   "no",
+   "2026-08-25"
+  ],
+  [
+   "news-economistkg-nelegal-october-2026",
+   "Economist.kg",
+   "V Kyrgyzstane za 10 dney reyda Nelegal vypisali shtrafy na 13.4 mln somov (13.4 million som in fines in 10 days of Illegal raids)",
+   "no",
+   "2026-10-20"
+  ],
+  [
+   "news-economistkg-new-migration-fines-2025-04",
+   "Economist.kg",
+   "V Kyrgyzstane ustanovleny novye shtrafy za migratsionnye narusheniya: spisok (New fines for migration violations: list)",
+   "no",
+   "2025-04-29"
+  ],
+  [
+   "news-kaktus-exit-without-fines-decree-233-2026",
+   "Kaktus.media (statement of the Ministry of Labour, Social Security and Migration)",
+   "S 1 iyulya migranty-narushiteli mogut pokinut Kyrgyzstan bez shtrafov (From 1 July migrants in breach can leave Kyrgyzstan without fines)",
+   "no",
+   "2026-07-01"
+  ],
+  [
+   "news-kaktus-green-corridor-foreigners-2026",
+   "Kaktus.media",
+   "Zhaparov vvel zelenyy koridor dlya inostrantsev. Chto eto takoe? (Japarov introduces a green corridor for foreigners)",
+   "no",
+   "2026-06-26"
+  ],
+  [
+   "news-kaktus-guvd-queue-foreigners-2026-07",
+   "Kaktus.media",
+   "U GUVD ochered iz inostrantsev, zhelayushchikh vyekhat iz Kyrgyzstana bez shtrafa (Queue of foreigners at Bishkek police HQ wanting to leave without a fine)",
+   "no",
+   "2026-07-02"
+  ],
+  [
+   "news-kaktus-mfa-why-legal-2026",
+   "Kaktus.media",
+   "V MID poyasnili, pochemu inostrantsam vygodno nakhoditsya v Kyrgyzstane legalno (MFA explains why it pays foreigners to stay legally)",
+   "no",
+   "2026-07-14"
+  ],
+  [
+   "news-24kg-mfa-explains-exit-without-fines-2026",
+   "24.kg",
+   "MID obyasnil, kak nelegalnye migranty mogut pokinut Kyrgyzstan bez shtrafov (MFA explains how undocumented migrants can leave without fines)",
+   "no",
+   "2026-06-26"
+  ],
+  [
+   "news-economistkg-voluntary-exit-no-fines-2026-07",
+   "Economist.kg",
+   "Kyrgyzstan obyavil mesyats dobrovolnogo vyezda dlya migrantov-narushiteley bez shtrafov (A month of voluntary exit without fines)",
+   "no",
+   "2026-07-01"
+  ],
+  [
+   "news-economistkg-manas-exit-visa-triple-2026-10",
+   "Economist.kg",
+   "Inostrantsy smogut oformit vyezdnuyu vizu v aeroportu Manas, no vtroe dorozhe (Exit visa at Manas airport at triple the fee)",
+   "no",
+   "2026-10-25"
+  ],
+  [
+   "news-economistkg-overstay-entry-ban-2026-09",
+   "Economist.kg",
+   "Prosrochivshim srok prebyvaniya inostrantsam ogranichat vezd v Kyrgyzstan (Overstayers to be refused re-entry)",
+   "no",
+   "2026-09-08"
+  ],
+  [
+   "news-24kg-entry-ban-terms-deputy-minister",
+   "24.kg",
+   "Vydvorenie Bolota Temirova. Zhurnalist ne smozhet vezzhat v Kyrgyzstan pyat let (Entry-ban terms stated by the Deputy Interior Minister)",
+   "no",
+   "2022-12-14"
+  ],
+  [
+   "news-economistkg-cis-illegal-migration-2026-10",
+   "Economist.kg",
+   "Kyrgyzstan predstavil stranam SNG mery po borbe s nezakonnoy migratsiey (Kyrgyzstan presents anti-illegal-migration measures to the CIS)",
+   "no",
+   "2026-10-26"
+  ],
+  [
+   "news-prothomalo-russia-war-trafficking-srb",
+   "Prothom Alo",
+   "Bangladeshis sent to Russia for jobs, used as 'prey' in war, 20 killed: SRB",
+   "no",
+   "2026-10-14"
+  ],
+  [
+   "usstate-tip-2025-kyrgyz-republic-ecoi",
+   "US Department of State (copy on ecoi.net)",
+   "2025 Trafficking in Persons Report: Kyrgyz Republic",
+   "no",
+   "2025-09-29"
+  ],
+  [
+   "unhcr-help-kyrgyzstan-asylum-info-ru",
+   "UNHCR Central Asia",
+   "Informatsiya dlya lits, ishchushchikh ubezhishche, i bezhentsev v Kyrgyzskoy Respublike (Information for asylum seekers and refugees in the Kyrgyz Republic)",
+   "yes",
+   "2026-09-25"
+  ],
+  [
+   "unhcr-factsheet-kyrgyz-republic-2025-09",
+   "UNHCR",
+   "Factsheet: National Office Kyrgyz Republic (figures as of 30 June 2025)",
+   "yes",
+   "2025-09-01"
+  ],
+  [
+   "news-economistkg-refugee-status-amendments-2026-09",
+   "Economist.kg",
+   "V Kyrgyzstane planiruyut izmenit poryadok predostavleniya statusa bezhentsa (Plan to change refugee status procedure)",
+   "no",
+   "2026-09-17"
+  ]
+ ],
+ "facts": [
+  {
+   "n": "news-dhakatribune-kyrgyzstan-180-repatriated-2025-09",
+   "c": "In September 2025 the Kyrgyz government sent home 180 Bangladeshis who had become irregular after travelling to Kyrgyzstan.",
+   "q": "The government of Kyrgyzstan is set to repatriate 180 Bangladeshi nationals who became irregular after travelling to the Central Asian country.",
+   "d": "2025-09-08",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-dhakatribune-kyrgyzstan-180-repatriated-2025-09",
+   "c": "The Bangladesh Embassy in Tashkent, Uzbekistan, was the Bangladesh mission handling the September 2025 return flight from Kyrgyzstan.",
+   "q": "According to the Bangladesh Embassy in Tashkent, Uzbekistan, the flight had initially been scheduled to depart on Monday but was later cancelled.",
+   "d": "2025-09-08",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-banglatribune-kyrgyzstan-180-2025-09",
+   "c": "The Kyrgyz government itself was sending the 180 irregular Bangladeshis back, by plane.",
+   "q": "মধ্য এশিয়ার দেশ কিরগিজস্তান গিয়ে অনিয়মিত হয়ে পড়া ১৮০ বাংলাদেশি নাগরিককে ফেরত পাঠাচ্ছে সে দেশের সরকার।",
+   "d": "2025-09-08",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-tbsbangla-kyrgyzstan-388016",
+   "c": "The 180 arrived at Dhaka's Hazrat Shahjalal airport on a special flight from Bishkek at 3:30 am on Wednesday 10 September 2025.",
+   "q": "বুধবার (১০ সেপ্টেম্বর) ভোর সাড়ে ৩টায় তারা বিশকেক থেকে বিশেষ ফ্লাইটে ঢাকার হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে পৌঁছান।",
+   "d": "2025-09-10",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-viewsbangladesh-kyrgyzstan-180-return-2025-09",
+   "c": "The 180 had gone to Kyrgyzstan lured by promises of high-paying garment and construction jobs and were left jobless and undocumented.",
+   "q": "They had travelled to Kyrgyzstan lured by promises of high-paying jobs in the garment and construction industries, only to be left jobless, undocumented, and vulnerable.",
+   "d": "2025-09-10",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-tbsbangla-kyrgyzstan-388016",
+   "c": "BRAC's Migration Programme said many of the 180 got no job or pay in Kyrgyzstan and became undocumented.",
+   "q": "সেখানে গিয়ে অনেকে কাজ পাননি, বেতন পাননি, হয়ে পড়েছেন নথিপত্রহীন।",
+   "d": "2025-09-10",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-tbsbangla-kyrgyzstan-388016",
+   "c": "BRAC said many of the returnees' families had to pay ransom.",
+   "q": "অনেক পরিবারের সদস্যকে মুক্তিপণও দিতে হয়েছে।",
+   "d": "2025-09-10",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-viewsbangladesh-kyrgyzstan-180-return-2025-09",
+   "c": "BRAC's Migration Programme gave the returnees emergency financial and humanitarian support at Dhaka airport, with the Foreign Ministry, the Expatriates' Welfare Ministry and the Civil Aviation Authority.",
+   "q": "BRAC Migration Programme, which provided emergency financial and humanitarian support at the airport",
+   "d": "2025-09-10",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-tbsbangla-kyrgyzstan-388016",
+   "c": "One returnee, from Lalmonirhat, reached Bishkek on 3 June 2024 for a welding job and his visa expired the day after he arrived.",
+   "q": "ওয়েল্ডিংয়ের কাজের আশায় তিনি ২০২৪ সালের ৩ জুন বিশকেক পৌঁছান। পৌঁছানোর পরদিনই তার ভিসার মেয়াদ শেষ হয়ে যায়।",
+   "d": "2025-09-10",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-tbsbangla-kyrgyzstan-388016",
+   "c": "He worked seven months without pay, was caught by the Kyrgyz authorities and served three months in jail before coming home.",
+   "q": "সাত মাস বিনা বেতনে কাজ করার পর কিরগিজ কর্তৃপক্ষের হাতে ধরা পড়েন। তিন মাস জেল খেটে তিনি দেশে ফিরেছেন।",
+   "d": "2025-09-10",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-tbsbangla-kyrgyzstan-388016",
+   "c": "A 21-year-old from Shariatpur paid a broker Tk 4.8 lakh on a promise of Europe; the broker took him first to Dubai, then to Bishkek on 19 May 2025, promising to take him on to Italy after some work.",
+   "q": "ইউরোপে পাঠানোর কথা বলে দালাল প্রথমে তাকে দুবাই নেয়। সেখান থেকে এ বছরের ১৯ মে বিশকেক পাঠানো হয়। প্রতিশ্রুতি ছিল কিছুদিন কাজের পর তাকে ইতালি নিয়ে যাওয়া হবে। এজন্য দালালকে ৪ লাখ ৮০ হাজার টাকা দেন তিনি।",
+   "d": "2025-09-10",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-tbsbangla-kyrgyzstan-388016",
+   "c": "Instead of Italy he spent 44 days in a Central Asian prison.",
+   "q": "কিন্তু শেষ পর্যন্ত মধ্য এশিয়ার কারাগারে ৪৪ দিন আটক থাকতে হয়েছে তাকে।",
+   "d": "2025-09-10",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-tbsbangla-kyrgyzstan-388016",
+   "c": "A worker from Kushtia, unpaid for four months, surrendered to the police himself and spent more than three months in prison.",
+   "q": "টানা চার মাস বেতন না পাওয়ায় তিনি নিজেই আইনশৃঙ্খলা বাহিনীর কাছে আত্মসমর্পণ করেন। তিন মাসের বেশি সময় কারাগারে থাকতে হয়েছে তাকে।",
+   "d": "2025-09-10",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-tbsbangla-kyrgyzstan-388016",
+   "c": "He said detainees were mistreated, including being made to stand in strong sun.",
+   "q": "কারাগারে তীব্র রোদে দাঁড় করিয়ে রাখাসহ নানাভাবে নির্যাতন করা হয়েছে তাদের।",
+   "d": "2025-09-10",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-tbsbangla-kyrgyzstan-388016",
+   "c": "The same Kushtia worker was injured at work in welding and got no help from the employer.",
+   "q": "ওয়েল্ডিংয়ের কাজ করতে গিয়ে দুর্ঘটনায় পড়লেও নিয়োগকর্তার কাছ থেকে কোনো সহায়তা পাননি।",
+   "d": "2025-09-10",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-dailystar-kyrgyzstan-illegal-trafficking-legal-means",
+   "c": "In the 2021-2022 case, workers promised Tk 55,000 a month for seven to eight hours of factory work were forced to work 17 to 18 hours for Tk 10,000.",
+   "q": "They were forced to work for 17 to 18 hours, for a monthly payment of Tk 10,000.",
+   "d": "2022-08-17",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-dailystar-kyrgyzstan-illegal-trafficking-legal-means",
+   "c": "They had been promised Tk 55,000 a month for seven to eight hours of factory work.",
+   "q": "paid a monthly salary of Tk 55,000 for working in factories for seven to eight hours",
+   "d": "2022-08-17",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-dailystar-kyrgyzstan-illegal-trafficking-legal-means",
+   "c": "A worker said he had a valid visa, a work permit and a BMET smart card.",
+   "q": "he had a valid visa, work permit and even a smart card issued by the Bureau of Manpower Employment and Training (BMET)",
+   "d": "2022-08-17",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-dailystar-kyrgyzstan-illegal-trafficking-legal-means",
+   "c": "The workers said the recruiting agency sold them to a garment factory owner in Kyrgyzstan for USD 8,300.",
+   "q": "the recruiting agency sold us for USD 8,300 to the garment factory owner there",
+   "d": "2022-08-17",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-dailystar-kyrgyzstan-illegal-trafficking-legal-means",
+   "c": "The factory owner said he would let them go home only if they paid him back.",
+   "q": "he will only allow that if we pay him back",
+   "d": "2022-08-17",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-dailystar-kyrgyzstan-illegal-trafficking-legal-means",
+   "c": "Their documents show they were sent as garment workers by M/S Makkah Madina Trade Int (RL-810) and M/S Al-Jabeen Establishment Ltd (RL-884).",
+   "q": "sent to Kyrgyzstan by M/S Makkah Madina Trade Int (RL no-810) and M/S Al-Jabeen Establishment Ltd (RL no-884) as garment workers",
+   "d": "2022-08-17",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-dailystar-kyrgyzstan-illegal-trafficking-legal-means",
+   "c": "Seven of them got home with the help of Rights Jashore and RMMRU (Refugee and Migratory Movements Research Unit).",
+   "q": "They managed to return last month with support from Rights Jashore and Refugee and Migratory Movements Research Unit (RMMRU).",
+   "d": "2022-08-17",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-dailystar-kyrgyzstan-illegal-trafficking-legal-means",
+   "c": "One returnee filed a case in a Kishoreganj court, which the district Detective Branch was investigating.",
+   "q": "A victim named Sajal Mia filed a case with a Kishoregnaj court after returning home a month ago. The case is now under investigation by the district's detective branch.",
+   "d": "2022-08-17",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-tbs-kyrgyzstan-fraud-allegations",
+   "c": "The workers said the broker took Tk 3.25 lakh per visa.",
+   "q": "Victims also claimed that the broker took Tk3.25 lakh for each visa.",
+   "d": "2022-08-16",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-tbs-kyrgyzstan-fraud-allegations",
+   "c": "The broker said he took no more than Tk 2.80 lakh from any of the 14.",
+   "q": "He also said he did not take more than Tk2.80 lakh from any of the 14.",
+   "d": "2022-08-16",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-tbs-kyrgyzstan-fraud-allegations",
+   "c": "A worker said the employer paid him Tk 10,000 in the first month and deducted Tk 7,000 of it, saying he had paid the broker to bring them from Bangladesh.",
+   "q": "in the first month, my employer gave me only TK10,000. On top of that, the employer deducted Tk7,000, saying that he paid money to the broker to bring us from Bangladesh",
+   "d": "2022-08-16",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-dailystar-fake-job-kyrgyzstan-syndicate-held",
+   "c": "In 2023-2024 a company called Jannat Trade International advertised on YouTube work visas for car washing in Kyrgyzstan.",
+   "q": "saw an advertisement on YouTube in December last year, that a company -- \"Jannat Trade International\" -- offers working visas for washing cars in Kyrgyzstan",
+   "d": "2024-05-07",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-dailystar-fake-job-kyrgyzstan-syndicate-held",
+   "c": "The advertised pay was Tk 60,000 to 65,000 a month.",
+   "q": "A monthly salary of Tk 60,000 to Tk 65,000 will be paid for the job",
+   "d": "2024-05-07",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-dailystar-fake-job-kyrgyzstan-syndicate-held",
+   "c": "The company asked Tk 5 lakh for the visa, ticket and BMET card.",
+   "q": "asked for Tk 5 lakh for the visa, plane ticket, and Bureau of Manpower, Employment and Training card",
+   "d": "2024-05-07",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-dailystar-fake-job-kyrgyzstan-syndicate-held",
+   "c": "At Dhaka airport, immigration found the papers were fake and sent three travellers back.",
+   "q": "the immigration official informed Sona Mia that the documents were fake",
+   "d": "2024-05-07",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-dailystar-fake-job-kyrgyzstan-syndicate-held",
+   "c": "CID said Jannat Trade International had no recruiting (manpower) or air-ticketing licence, only a tours and travel licence.",
+   "q": "Jannat Trade International has no manpower or even airline ticketing licence. The company just received tours and travel licence in November of last year",
+   "d": "2024-05-07",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-dailystar-fake-job-kyrgyzstan-syndicate-held",
+   "c": "The arrested owners admitted sending six people to Kyrgyzstan on 59-day tourist visas.",
+   "q": "they had sent six people to Kyrgyzstan on 59-day tourist visas",
+   "d": "2024-05-07",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-dailystar-fake-job-kyrgyzstan-syndicate-held",
+   "c": "None of the six got a job and they were stuck in Kyrgyzstan.",
+   "q": "But none of them got any jobs, and they are passing miserable days in Kyrgyzstan now.",
+   "d": "2024-05-07",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-dailystar-fake-job-kyrgyzstan-syndicate-held",
+   "c": "CID said Kyrgyzstan had become a popular trafficking route because it is seen as close to Europe.",
+   "q": "Kyrgyzstan has become a popular route for trafficking over the last year as it is a Central Asian country and very close to Europe",
+   "d": "2024-05-07",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-dailystar-fake-job-kyrgyzstan-syndicate-held",
+   "c": "The syndicate sent people through Dubai on visit visas and then on to Kyrgyzstan.",
+   "q": "The syndicate uses Dubai as transit on a visit visa and then sends people to Kirgizstan from there.",
+   "d": "2024-05-07",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-dailystar-fake-job-kyrgyzstan-syndicate-held",
+   "c": "CID said the syndicate takes no responsibility for people once they reach Kyrgyzstan.",
+   "q": "The syndicate does not take any responsibility afterwards",
+   "d": "2024-05-07",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-bdpratidin-sylhet-kyrgyzstan-europe-2023-05",
+   "c": "In 2023 a Sylhet broker took Tk 6 lakh from a young man to send him to Poland, took him to Kyrgyzstan, said he would get him a Ukraine visa, went to Dubai and disappeared.",
+   "q": "ইউরোপের পোল্যান্ড নেওয়ার কথা বলে রুহেল আহমদ নামের এক দালাল আমার কাছ থেকে ছয় লাখ টাকা নেয়। কিরগিজস্তানে নেয়ার পর তিনি ইউক্রেনের ভিসা লাগাবে বলে দুবাই চলে যান। এরপর থেকে রুহেল লাপাত্তা।",
+   "d": "2023-05-06",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-bdpratidin-sylhet-kyrgyzstan-europe-2023-05",
+   "c": "He flew home from Bishkek's Manas airport on Air Arabia to Sharjah, then to Dhaka.",
+   "q": "কিরগিজস্তানের রাজধানী বিসকেকের মানাস বিমানবন্দর থেকে গত শুক্রবার স্থানীয় সময় ভোর সাড়ে ৪টার দিকে এয়ার অ্যারাবিয়ার একটি ফ্লাইটে উড়াল দিয়ে সুরঞ্জিত সংযুক্ত আরব আমিরাতের শারজাহ বিমানবন্দরে এসে পৌঁছান",
+   "d": "2023-05-06",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-bdpratidin-sylhet-kyrgyzstan-europe-2023-05",
+   "c": "His family at home borrowed to buy his ticket back.",
+   "q": "দেশে থাকা পরিবারের লোকজনের কাছ থেকে ধার-দেনা করে বিমানের টিকেট করে দেশে আসেন এই যুবক।",
+   "d": "2023-05-06",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-bishkek-64-pak-bd-2024-04",
+   "c": "In April 2024 the GKNB found over 130 Pakistanis and Bangladeshis in Bishkek lodgings, 64 of them with expired visas and no registration.",
+   "q": "установлены более 130 иностранцев из Пакистана и Бангладеша, из которых 64 пребывают с истекшими сроками действия виз и без регистрационного учета",
+   "d": "2024-04-15",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-bishkek-64-pak-bd-2024-04",
+   "c": "They had come legally for jobs in catering, delivery, construction and sewing.",
+   "q": "иностранцы прибыли в страну легально с целью трудоустройства в сфере общепита, услуг доставки, строительства и швейного производства",
+   "d": "2024-04-15",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-bishkek-64-pak-bd-2024-04",
+   "c": "Most were not in demand because they lacked skills and pay was low.",
+   "q": "Однако большая часть из них оказались невостребованными из-за отсутствия квалификации и низкого размера оплаты труда.",
+   "d": "2024-04-15",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-bishkek-64-pak-bd-2024-04",
+   "c": "They were fined and, by law, are subject to expulsion.",
+   "q": "В отношении иностранных нарушителей составлены административные протоколы с соответствующим штрафом. Согласно законодательству, иностранцы подлежат выдворению из страны.",
+   "d": "2024-04-15",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-rferl-kyrgyzstan-mass-labor-migrant-fear",
+   "c": "In May 2024 the GKNB chairman Kamchybek Tashiev cited deportations of 1,000 Bangladeshis and 1,500 Pakistanis.",
+   "q": "despite deportations of 1,000 Bangladeshis and 1,500 Pakistanis",
+   "d": "2024-05-21",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-rferl-kyrgyzstan-mass-labor-migrant-fear",
+   "c": "Many South Asians were lured to Kyrgyzstan on ordinary visas with promises of work visas that never came.",
+   "q": "many South Asians had been lured to Kyrgyzstan on ordinary visas with the promise of further work visas that never materialized",
+   "d": "2024-05-21",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-rferl-kyrgyzstan-mass-labor-migrant-fear",
+   "c": "Such workers move from workshop to workshop without wages, and many have had their passports taken.",
+   "q": "So they move from one workshop to another, don't receive salaries, and say that they have fallen into slavery. A lot of them had their passports taken away and so cannot do anything",
+   "d": "2024-05-21",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-rferl-kyrgyzstan-mass-labor-migrant-fear",
+   "c": "A Bishkek facilitator found about 40 Bangladeshis abandoned by fellow Bangladeshis at one address; to get them visas they had to go to Uzbekistan and come back.",
+   "q": "They were brought here and abandoned by fellow citizens of Bangladesh. I arranged visas for about 25 or 30 of them. To achieve this, they had to go to Uzbekistan and then return",
+   "d": "2024-05-21",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-timesca-kyrgyzstan-round-up-illegal-migrants",
+   "c": "In August 2024 police raids in Bishkek detained 28 Bangladeshis, who were fined for working without valid documents.",
+   "q": "the detention of 28 Bangladeshi nationals, who face administrative penalties and were fined for working without valid documentation",
+   "d": "2024-08-12",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-timesca-woman-kept-foreigners-slave-labor",
+   "c": "In June 2024 a sewing-shop owner near Bishkek, with a district police officer, took South Asian workers' passports, withheld wages and threatened them with prison for illegal stay.",
+   "q": "confiscated passports from foreigners and intimidated them regularly, threatening to imprison them for an illegal stay on the territory of the Kyrgyz Republic",
+   "d": "2024-06-22",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-timesca-woman-kept-foreigners-slave-labor",
+   "c": "The owner and the police officer were detained.",
+   "q": "The owner of the sewing shop and a district police officer were detained and placed in a temporary detention center.",
+   "d": "2024-06-22",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-jalalabad-bangladesh-2024-07",
+   "c": "In June 2024 border guards in Jalal-Abad detained 11 Bangladeshis who had come to Uzbekistan as labour migrants on 8 June, found no work, and tried to cross into Kyrgyzstan away from official crossings.",
+   "q": "8 июня текущего года граждане Бангладеш прибыли в Узбекистан в качестве трудовых мигрантов, однако не смогли найти работу. Затем решили перебраться в Кыргызстан в обход официальных пунктов пропуска на госгранице.",
+   "d": "2024-07-03",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-jalalabad-bangladesh-2024-07",
+   "c": "A Kyrgyz citizen who organised the route was detained with them.",
+   "q": "Вместе с бангладешцами был задержан гражданин Кыргызстана, организовавший нелегальный маршрут миграции.",
+   "d": "2024-07-03",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-jalalabad-bangladesh-2024-07",
+   "c": "On 21 May 2024 in Bazar-Korgon (Jalal-Abad region) 46 Bangladeshis were detained for working illegally; the courts were deciding their deportation.",
+   "q": "задержаны 46 граждан Бангладеш, занимавшиеся нелегальной трудовой деятельностью на территории Кыргызстана",
+   "d": "2024-07-03",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-jalalabad-bangladesh-2024-07",
+   "c": "The courts decide on deportation of those detained.",
+   "q": "Вопрос об их депортации из КР рассматривают судебные органы.",
+   "d": "2024-07-03",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-inform-kz-six-border-violators-deported",
+   "c": "In June 2024 Bangladeshis without a visa crossed from Kyrgyzstan into Kazakhstan away from checkpoints, planning to work.",
+   "q": "Иностранцы без въездной визы пересекли границу Казахстана и Кыргызстана вне пунктов пропуска, планируя заниматься трудовой деятельностью.",
+   "d": "2024-11-28",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-inform-kz-six-border-violators-deported",
+   "c": "They crossed the whole of Kazakhstan and were caught at a border checkpoint in Kostanay region (on the Russian border).",
+   "q": "После этого они проехали через всю страну и были задержаны сотрудниками пограничной службы в пункте пропуска Костанайской области.",
+   "d": "2024-11-28",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-inform-kz-six-border-violators-deported",
+   "c": "A Kazakh court sentenced each to six months in prison and expulsion with a five-year ban.",
+   "q": "Каждому из подсудимых было назначено наказание в виде 6 месяцев лишения свободы с выдворением за пределы страны сроком на 5 лет.",
+   "d": "2024-11-28",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-24kg-kazakhstan-channel-organisers",
+   "c": "In November 2023 Kazakh prosecutors detained three organisers who smuggled 20 South Asians from Kyrgyzstan into Kazakhstan around border checkpoints.",
+   "q": "переправили из Кыргызстана в Казахстан 20 граждан Южной Азии в обход установленных пунктов пропуска государственной границы",
+   "d": "2023-11-24",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-caravan-kyrgyzstan-channel-32-bangladesh",
+   "c": "As early as 2004 Kyrgyz security detained 32 Bangladeshis in Bishkek and Chui region who hoped to get forged documents in Kyrgyzstan to transit through Kazakhstan and Russia to Europe.",
+   "q": "незаконные мигранты надеялись получить в Кыргызстане поддельные документы, чтобы следовать транзитом через Казахстан и Россию в страны Европы",
+   "d": "2004-08-12",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-caravan-kyrgyzstan-channel-32-bangladesh",
+   "c": "Each paid about USD 2,000 just to reach Bishkek, through a travel agency in Bangladesh.",
+   "q": "Расходы на дорогу до Бишкека для каждого нелегала составили примерно $2 тыс.",
+   "d": "2004-08-12",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-bishkek-site-46-2025-05",
+   "c": "In May 2025, 46 foreigners who had come on tourist visas were found working on a Bishkek building site; each was fined 10,000 som and a criminal case was opened against the organisers.",
+   "q": "все лица прибыли в Кыргызстан по туристическим визам и не имели права заниматься трудовой деятельностью",
+   "d": "2025-05-19",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-bishkek-site-46-2025-05",
+   "c": "Each of the 46 tourist-visa workers was fined 10,000 som.",
+   "q": "наложением штрафа в размере 10 тысяч сомов на каждого нарушителя",
+   "d": "2025-05-19",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-akchabar-fake-visas-bangladesh-channel",
+   "c": "In May 2025 the GKNB arrested a Bangladeshi who took USD 66,500 from fellow Bangladeshis in February 2025 for papers to stay legally and gave them forged permits.",
+   "q": "received $66,500 for producing fake documents allowing migrant workers to legally reside in Kyrgyzstan",
+   "d": "2025-05-20",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-akchabar-fake-visas-bangladesh-channel",
+   "c": "Officers seized more than 120 passports with expired documents.",
+   "q": "seized more than 120 passports with expired documents",
+   "d": "2025-05-20",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-akchabar-fake-visas-bangladesh-channel",
+   "c": "The GKNB told foreigners to use only the MFA's official electronic portal for permits.",
+   "q": "urges foreigners and organizations to strictly use the official electronic portal of the Ministry of Foreign Affairs of the Kyrgyz Republic to obtain permits",
+   "d": "2025-05-20",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-fake-medical-certs-pak-bd-2026-03",
+   "c": "In March 2026 the GKNB broke up a Bishkek scheme selling fake medical certificates (form 086) without any examination, used to extend the stay of mainly Pakistani and Bangladeshi migrants.",
+   "q": "В Бишкеке накрыли канал легализации мигрантов из Пакистана и Бангладеш через фиктивные медосмотры",
+   "d": "2026-03-18",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-fake-medical-certs-pak-bd-2026-03",
+   "c": "The certificates were form 086, sold without a real medical check.",
+   "q": "без фактического прохождения медосмотра",
+   "d": "2026-03-18",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-24kg-legalization-algorithm-2025-06",
+   "c": "Under a May 2025 presidential decree, foreigners could until 10 June 2025 legalise their stay without deportation or fines, or leave without paying overstay fines.",
+   "q": "до 10 июня 2025 года иностранные граждане и лица без гражданства имеют возможность легализовать свое пребывание без риска депортации и штрафов или добровольно покинуть территорию Кыргызской Республики без уплаты штрафов за нарушение порядка пребывания",
+   "d": "2025-06-03",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-nelegal-2025-start",
+   "c": "Operation Illegal-2025 (Nelegal-2025) began on 11 June 2025, after the grace period of Decree No. 164 of 22 May 2025.",
+   "q": "С 11 июня в Кыргызстане стартовала спецоперация «Нелегал-2025».",
+   "d": "2025-06-11",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-nelegal-2025-start",
+   "c": "Detained foreigners are taken to a filtration centre and handed to the Interior Ministry's Service for Combating Extremism and Illegal Migration.",
+   "q": "Задержанных иностранных граждан доставили в фильтрационный центр и передали сотрудникам Службы по противодействию экстремизму и незаконной миграции МВД КР.",
+   "d": "2025-06-11",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-nelegal-2025-start",
+   "c": "The GKNB called on employers and inviting parties to arrange the voluntary departure of foreigners staying illegally.",
+   "q": "ГКНБ призывает работодателей и приглашающие стороны принять меры по добровольному выезду иностранных граждан, находящихся в стране нелегально.",
+   "d": "2025-06-11",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-currenttime-33420406",
+   "c": "In May 2025 the GKNB estimated about 5,000 undocumented migrants in Kyrgyzstan.",
+   "q": "по оценке ГКНБ, число нелегальных мигрантов в стране составляет около 5 тысяч",
+   "d": "2025-05-21",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-currenttime-33420406",
+   "c": "The GKNB chairman said foreigners come as would-be tourists and students but in fact work illegally.",
+   "q": "Иностранцы приезжают в страну под видом потенциальных туристов и студентов, а по сути, работают нелегально.",
+   "d": "2025-05-21",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-currenttime-33420406",
+   "c": "He said employers and universities often do not extend visas, leaving foreigners with expired documents.",
+   "q": "работодатели и вузы часто не продлевают визы, оставляя иностранцев с просроченными документами",
+   "d": "2025-05-21",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-24kg-issykkul-20-expelled-2026-06",
+   "c": "In June 2026 raids in Issyk-Kul region under Operation Illegal-2026 found some Bangladeshis, Pakistanis, Chinese and Uzbeks working without permits.",
+   "q": "отдельные граждане Бангладеш, Пакистана, Китая и Узбекистана осуществляли трудовую деятельность на территории Кыргызстана без необходимых разрешительных документов",
+   "d": "2026-06-05",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-24kg-issykkul-20-expelled-2026-06",
+   "c": "16 Pakistanis and 4 Bangladeshis were expelled from Kyrgyzstan after those raids.",
+   "q": "из Кыргызстана выдворены 16 граждан Пакистана и 4 гражданина Бангладеш",
+   "d": "2026-06-05",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-migrants-fined-8m-2026-06",
+   "c": "In raids on 1-10 June 2026 (CSTO operation Illegal-2026) officers checked building sites and sewing workshops and wrote 922 reports against foreigners.",
+   "q": "Проверочные мероприятия прошли на строительных площадках, в швейных цехах и на других предприятиях, имеющих право нанимать иностранных работников.",
+   "d": "2026-06-24",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-migrants-fined-8m-2026-06",
+   "c": "922 reports were written against foreigners for breaking stay and work rules in those ten days.",
+   "q": "было составлено 922 протокола в отношении иностранных граждан за нарушение правил пребывания и осуществления трудовой деятельности",
+   "d": "2026-06-24",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-nelegal-2026-issykkul-303",
+   "c": "In August 2026 the GKNB warned that breaking entry, stay and registration rules or working without permits can lead to expulsion and a later entry ban.",
+   "q": "работа без необходимых разрешительных документов влечет ответственность вплоть до выдворения из страны и последующего ограничения на въезд",
+   "d": "2026-08-25",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-nelegal-2026-issykkul-303",
+   "c": "In 13-21 August 2026 raids in Issyk-Kul region found 303 foreigners staying illegally.",
+   "q": "выявили 303 иностранных граждан, незаконно находившихся на территории Кыргызстана",
+   "d": "2026-08-25",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-nelegal-october-2026",
+   "c": "On 1-10 October 2026 the GKNB and Interior Ministry wrote 1,487 administrative reports in Operation Illegal raids.",
+   "q": "ГКНБ и МВД Кыргызстана с 1 по 10 октября 2026 года составили 1 487 административных протоколов",
+   "d": "2026-10-20",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-nelegal-october-2026",
+   "c": "Fines in those ten days totalled 13,407,000 som.",
+   "q": "Общая сумма штрафов составила 13 млн 407 тысяч сомов",
+   "d": "2026-10-20",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-new-migration-fines-2025-04",
+   "c": "Law No. 80, signed 24 April 2025, raised fines in the Code of Offences for foreigners breaking stay rules or working without permits, up to 20,000 som.",
+   "q": "Штрафы для иностранных граждан — до 20 тысяч сомов",
+   "d": "2025-04-29",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-new-migration-fines-2025-04",
+   "c": "Fine for a foreigner overstaying or working without permits: up to 1 month, 5,500 som.",
+   "q": "до 1 месяца — 5.5 тысячи сомов;",
+   "d": "2025-04-29",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-new-migration-fines-2025-04",
+   "c": "1 to 3 months: 10,000 som.",
+   "q": "от 1 до 3 месяцев — 10 тысяч сомов;",
+   "d": "2025-04-29",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-new-migration-fines-2025-04",
+   "c": "3 to 6 months: 15,000 som.",
+   "q": "от 3 до 6 месяцев — 15 тысяч сомов;",
+   "d": "2025-04-29",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-new-migration-fines-2025-04",
+   "c": "6 to 12 months: 17,500 som.",
+   "q": "от 6 до 12 месяцев — 17.5 тысячи сомов;",
+   "d": "2025-04-29",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-new-migration-fines-2025-04",
+   "c": "Over 1 year: 20,000 som.",
+   "q": "более 1 года — 20 тысяч сомов.",
+   "d": "2025-04-29",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-new-migration-fines-2025-04",
+   "c": "Failing to fix a violation within 30 days of an order from the authority leads to expulsion.",
+   "q": "неисполнение предписания уполномоченного органа об устранении нарушений в течение 30 дней — выдворение",
+   "d": "2025-04-29",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-new-migration-fines-2025-04",
+   "c": "Expulsion is carried out even if the fine is not paid.",
+   "q": "даже в случае неуплаты штрафа мера выдворения подлежит исполнению",
+   "d": "2025-04-29",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-new-migration-fines-2025-04",
+   "c": "Breaking the purpose of entry (for example working on a tourist visa) or transit rules: 10,000 som.",
+   "q": "нарушение цели въезда или транзитного проезда — 10 тысяч сомов",
+   "d": "2025-04-29",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-kaktus-exit-without-fines-decree-233-2026",
+   "c": "The July 2026 voluntary-exit window was set by presidential decree No. 233 of 24 June 2026 and a Cabinet temporary regulation.",
+   "q": "указом президента Кыргызской Республики №233 от 24 июня 2026 года",
+   "d": "2026-07-01",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-voluntary-exit-no-fines-2026-07",
+   "c": "From 1 to 31 July 2026 foreigners in breach of migration law could leave Kyrgyzstan voluntarily without administrative penalties.",
+   "q": "С 1 по 31 июля 2026 года иностранные граждане и лица без гражданства, нарушившие миграционное законодательство Кыргызстана, смогут добровольно покинуть страну без применения отдельных мер административной ответственности",
+   "d": "2026-07-01",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-voluntary-exit-no-fines-2026-07",
+   "c": "To use it, a person went to the local Interior Ministry office for a decision, then applied for an exit visa on the e-Visa portal; no state fee was charged.",
+   "q": "Для участия необходимо обратиться в территориальное подразделение МВД, получить соответствующее решение, а затем оформить выездную визу через портал e-Visa. Государственная пошлина за оформление такой визы взиматься не будет.",
+   "d": "2026-07-01",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-voluntary-exit-no-fines-2026-07",
+   "c": "The window was not a legalisation of stay; only a way to leave without fines.",
+   "q": "временный порядок не означает легализацию пребывания в Кыргызстане",
+   "d": "2026-07-01",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-voluntary-exit-no-fines-2026-07",
+   "c": "It excluded people with criminal cases, court judgments in force, unpaid fines or tax debts.",
+   "q": "Мера не распространяется на иностранцев, в отношении которых возбуждены уголовные дела, имеются вступившие в законную силу судебные решения, неуплаченные штрафы или налоговые задолженности",
+   "d": "2026-07-01",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-kaktus-green-corridor-foreigners-2026",
+   "c": "The MFA said the application on the e-visa site must be made by the person himself, without third parties or intermediaries.",
+   "q": "необходимо самостоятельно (без участия третьих лиц и посредников) подать заявление на оформление выездной визы через официальный сайт электронной визы",
+   "d": "2026-06-26",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-kaktus-green-corridor-foreigners-2026",
+   "c": "The Interior Ministry office where the person is staying gives a letter needed for the exit visa.",
+   "q": "обратиться в территориальные подразделения органов внутренних дел по месту пребывания для получения письма, необходимого для оформления выездной визы",
+   "d": "2026-06-26",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-24kg-mfa-explains-exit-without-fines-2026",
+   "c": "MFA Consular Department WhatsApp for exit questions: +996 999 312 002.",
+   "q": "Консульский департамент Министерства иностранных дел Кыргызской Республики: WhatsApp: +996 999 312 002",
+   "d": "2026-06-26",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-24kg-mfa-explains-exit-without-fines-2026",
+   "c": "Interior Ministry phone lines for voluntary-exit questions included 0312266170 and 0312266165.",
+   "q": "Министерство внутренних дел Кыргызской Республики: 0312266170, 0312266165",
+   "d": "2026-06-26",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-kaktus-guvd-queue-foreigners-2026-07",
+   "c": "A certificate of no criminal record is needed to apply for an exit visa.",
+   "q": "Документ об отсутствии судимости необходим иностранным гражданам для подачи заявления на получение выездной визы.",
+   "d": "2026-07-02",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-kaktus-guvd-queue-foreigners-2026-07",
+   "c": "On 2 July 2026 foreigners queued outside the Main Directorate of Internal Affairs (GUVD) in Bishkek for that certificate, and none had been issued by midday.",
+   "q": "до обеда не было выдано ни одной справки",
+   "d": "2026-07-02",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-kaktus-mfa-why-legal-2026",
+   "c": "The MFA consular director said that outside the free window an exit visa costs almost 100,000 som plus an Interior Ministry violation report, about 120,000-130,000 som in all.",
+   "q": "выездная виза стоит почти 100 тыс. сомов, плюс МВД составляет протокол о нарушении миграционного законодательства. Совокупно иностранцам придется платить 120-130 тыс. сомов",
+   "d": "2026-07-14",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-kaktus-mfa-why-legal-2026",
+   "c": "About 500 people had obtained the free exit visa by 13 July 2026; the MFA expected about 5,000 to leave in the window.",
+   "q": "в рамках действующего \"зеленого коридора\" ожидается выезд порядка 5 тыс. человек. На 13 июля выездную визу оформили около 500 человек.",
+   "d": "2026-07-14",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-kaktus-mfa-why-legal-2026",
+   "c": "About half of work-visa holders are Chinese, followed by Pakistanis, Indians and Bangladeshis.",
+   "q": "Порядка 50% получивших рабочую визу - граждане Китая, затем следуют граждане Пакистана, Индии, Бангладеш.",
+   "d": "2026-07-14",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-kaktus-mfa-why-legal-2026",
+   "c": "The Foreign Minister said companies arrange the visas and either take foreigners out or pay to extend the visa.",
+   "q": "Они либо вывозят иностранцев, либо платят и продлевают визу",
+   "d": "2026-07-14",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-manas-exit-visa-triple-2026-10",
+   "c": "In October 2026 the MFA Consular Department said foreigners who overstayed can apply in advance for an exit visa through the MFA's electronic portal.",
+   "q": "Иностранные граждане, превысившие разрешенный срок пребывания в Кыргызстане, могут заранее оформить выездную визу через электронный портал МИД.",
+   "d": "2026-10-25",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-manas-exit-visa-triple-2026-10",
+   "c": "Only citizens of 67 states with a simplified stay regime can get the exit visa at Manas airport before departure; Bangladesh is not in the published list.",
+   "q": "Граждане 67 государств, в отношении которых действует упрощенный режим пребывания, при нарушении разрешенных сроков могут оформить выездную визу непосредственно перед вылетом из аэропорта «Манас».",
+   "d": "2026-10-25",
+   "s": "unofficial",
+   "note": "The article lists all 67; the 16 in Asia and the Middle East are Bahrain, Brunei, Vietnam, Israel, Indonesia, Qatar, Kuwait, UAE, Oman, Saudi Arabia, Singapore, Thailand, Turkey, Philippines, South Korea, Japan. Bangladesh is not listed."
+  },
+  {
+   "n": "news-economistkg-manas-exit-visa-triple-2026-10",
+   "c": "An exit visa at the airport is charged at the urgent rate, three times the visa fee.",
+   "q": "срочный тариф — в трехкратном размере установленного визового сбора",
+   "d": "2026-10-25",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-overstay-entry-ban-2026-09",
+   "c": "Cabinet resolution No. 602 of 7 September 2026: foreigners who overstayed will be refused re-entry under the visa-free regime, and the length of stay is calculated by the automated system EISUM.",
+   "q": "Срок пребывания иностранцев будет рассчитывать автоматизированная система ЕИСУМ.",
+   "d": "2026-09-08",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-overstay-entry-ban-2026-09",
+   "c": "Under resolution No. 602, overstayers will be refused re-entry under the visa-free regime but may apply for a residence permit.",
+   "q": "Иностранцам, превысившим установленный срок пребывания в Кыргызстане, будут отказывать в повторном въезде в рамках безвизового режима. При этом они смогут обратиться за оформлением вида на жительство.",
+   "d": "2026-09-08",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-24kg-entry-ban-terms-deputy-minister",
+   "c": "In December 2022 the Deputy Interior Minister said an entry ban for administrative violations lasts two years, for non-grave crimes five years, and for especially grave crimes up to life.",
+   "q": "запрет на выезд в Кыргызстан за административные нарушения действует два года, за нетяжкие преступления — пять лет, за особо тяжкие — до пожизненного срока",
+   "d": "2022-12-14",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-cis-illegal-migration-2026-10",
+   "c": "In March 2026 Kyrgyzstan ratified a readmission agreement with Belarus covering the return of people who break entry or stay rules.",
+   "q": "соглашение о реадмиссии с Беларусью. Документ регулирует возвращение лиц, нарушивших правила въезда или пребывания на территории двух государств.",
+   "d": "2026-10-26",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-cis-illegal-migration-2026-10",
+   "c": "Kyrgyzstan presented to the CIS its practice of organising the controlled departure of people who broke stay rules.",
+   "q": "контролируемого выезда лиц, нарушивших правила пребывания в Кыргызстане",
+   "d": "2026-10-26",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-prothomalo-russia-war-trafficking-srb",
+   "c": "30 Bangladeshis went to Russia on 7 May 2026 through Jabal-e-Noor, RS International and TS Group, each charged about Tk 10 lakh for promised construction jobs, and were handed to the Russian military.",
+   "q": "the 30 Bangladeshis travelled to Russia on 7 May this year through three companies: Jabal-e-Noor, RS International and TS Group. Each was charged an average of around Tk 1 million on the promise of construction jobs.",
+   "d": "2026-10-14",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-prothomalo-russia-war-trafficking-srb",
+   "c": "The SRB provisionally confirmed 20 of the 30 dead.",
+   "q": "The battalion has provisionally confirmed the deaths of 20 of the 30 Bangladeshis.",
+   "d": "2026-10-14",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-prothomalo-russia-war-trafficking-srb",
+   "c": "The network included a Russian named Igor and a Kyrgyz woman named Julia.",
+   "q": "the trafficking network involved not only Bangladeshis but also a Russian national named Igor and a Kyrgyz woman named Julia",
+   "d": "2026-10-14",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-prothomalo-russia-war-trafficking-srb",
+   "c": "On arrival their passports and phones were taken and they were handed to the military.",
+   "q": "upon arrival, their passports and mobile phones were confiscated, and they were handed over to the military",
+   "d": "2026-10-14",
+   "s": "unofficial"
+  },
+  {
+   "n": "usstate-tip-2025-kyrgyz-republic-ecoi",
+   "c": "The US 2025 TIP report kept Kyrgyzstan on the Tier 2 Watch List.",
+   "q": "the Kyrgyz Republic remained on Tier 2 Watch List for the second consecutive year",
+   "d": "2025-09-29",
+   "s": "unofficial"
+  },
+  {
+   "n": "usstate-tip-2025-kyrgyz-republic-ecoi",
+   "c": "Foreign trafficking victims are entitled to the same benefits as Kyrgyz citizens.",
+   "q": "Foreign victims were entitled to the same benefits as Kyrgyzstani citizens.",
+   "d": "2025-09-29",
+   "s": "unofficial"
+  },
+  {
+   "n": "usstate-tip-2025-kyrgyz-republic-ecoi",
+   "c": "Kyrgyzstan gives foreign trafficking victims no legal alternative to removal.",
+   "q": "The government did not provide legal alternatives to the removal of foreign victims to countries in which they would face hardship or retribution.",
+   "d": "2025-09-29",
+   "s": "unofficial"
+  },
+  {
+   "n": "usstate-tip-2025-kyrgyz-republic-ecoi",
+   "c": "Adult male trafficking victims are often sent to homeless shelters as there are no shelters for men.",
+   "q": "Adult male victims were often directed to homeless shelters due to the absence of shelters available for male victims.",
+   "d": "2025-09-29",
+   "s": "unofficial"
+  },
+  {
+   "n": "unhcr-help-kyrgyzstan-asylum-info-ru",
+   "c": "Kyrgyzstan is party to the 1951 Refugee Convention and its 1967 Protocol and has its own asylum law and procedure.",
+   "q": "Кыргызская Республика является участницей Конвенции о статусе беженцев 1951 года и Протокола к ней 1967 года, а также обладает национальным законодательством, регулирующим процедуры предоставления убежища.",
+   "d": "2026-09-25",
+   "s": "verified"
+  },
+  {
+   "n": "unhcr-help-kyrgyzstan-asylum-info-ru",
+   "c": "The Ministry of Labour, Social Security and Migration runs asylum; its Department for work with kairylmans (ethnic Kyrgyz returnees) and refugees decides refugee status.",
+   "q": "Определением статуса беженца и сопутствующими услугами занимается Отдел по работе с кайрылманами и беженцами.",
+   "d": "2026-09-25",
+   "s": "verified"
+  },
+  {
+   "n": "unhcr-help-kyrgyzstan-asylum-info-ru",
+   "c": "Asylum can be claimed inside the country or at an official border crossing (airport or land border).",
+   "q": "Вы можете подать ходатайство о предоставлении убежища в Кыргызской Республике, если вы находитесь внутри страны или на официальном пункте пропуска (в аэропорту или на сухопутной границе).",
+   "d": "2026-09-25",
+   "s": "verified"
+  },
+  {
+   "n": "unhcr-help-kyrgyzstan-asylum-info-ru",
+   "c": "The application must be written in Kyrgyz or Russian.",
+   "q": "Заявление должно быть написано на кыргызском или русском языке.",
+   "d": "2026-09-25",
+   "s": "verified"
+  },
+  {
+   "n": "unhcr-help-kyrgyzstan-asylum-info-ru",
+   "c": "The NGO Legal Clinic Adilet gives free legal and translation help with the application.",
+   "q": "вы можете получить бесплатную юридическую и переводческую помощь от НПО «Юридическая клиника “Адилет”»",
+   "d": "2026-09-25",
+   "s": "verified"
+  },
+  {
+   "n": "unhcr-help-kyrgyzstan-asylum-info-ru",
+   "c": "Applications go to the Ministry at 215 Tynystanov Street, Bishkek, tel. +996 312 62-13-93.",
+   "q": "Адрес: ул. Тыныстанова, 215, Бишкек",
+   "d": "2026-09-25",
+   "s": "verified"
+  },
+  {
+   "n": "unhcr-help-kyrgyzstan-asylum-info-ru",
+   "c": "Ministry asylum phone: +996 (312) 62-13-93.",
+   "q": "Тел.: +996 (312) 62-13-93",
+   "d": "2026-09-25",
+   "s": "verified"
+  },
+  {
+   "n": "unhcr-help-kyrgyzstan-asylum-info-ru",
+   "c": "Someone who entered irregularly is not punished for illegal entry if he applies to the authorities without delay.",
+   "q": "вас не накажут за незаконный въезд, если вы без промедления обратитесь в уполномоченные органы и подадите заявление о предоставлении убежища",
+   "d": "2026-09-25",
+   "s": "verified"
+  },
+  {
+   "n": "unhcr-help-kyrgyzstan-asylum-info-ru",
+   "c": "A registered applicant gets a certificate of registration of the refugee application, valid 3 months and renewed every 3 months until the final decision.",
+   "q": "Действительно 3 месяца.",
+   "d": "2026-09-25",
+   "s": "verified"
+  },
+  {
+   "n": "unhcr-help-kyrgyzstan-asylum-info-ru",
+   "c": "The certificate must be renewed every 3 months until a final decision.",
+   "q": "Должно продлеваться каждые 3 месяца до окончательного решения.",
+   "d": "2026-09-25",
+   "s": "verified"
+  },
+  {
+   "n": "unhcr-help-kyrgyzstan-asylum-info-ru",
+   "c": "The applicant must register his address at the local public service centre (TsON) within 5 working days.",
+   "q": "Обязывает вас зарегистрировать адрес проживания в местном Центре обслуживания населения (ЦОН) в течение 5 рабочих дней.",
+   "d": "2026-09-25",
+   "s": "verified"
+  },
+  {
+   "n": "unhcr-help-kyrgyzstan-asylum-info-ru",
+   "c": "After a refusal there are 3 months to appeal to a court, through district court, appeal court and Supreme Court.",
+   "q": "Если ваше заявление отклонено, у вас есть 3 месяца с момента получения решения, чтобы подать апелляцию в суд.",
+   "d": "2026-09-25",
+   "s": "verified"
+  },
+  {
+   "n": "unhcr-help-kyrgyzstan-asylum-info-ru",
+   "c": "If the final appeal fails and there is no other legal status, the person may have to leave.",
+   "q": "Если ваша финальная апелляция будет отклонена и у вас не будет иного правового статуса, вам может потребоваться покинуть страну.",
+   "d": "2026-09-25",
+   "s": "verified"
+  },
+  {
+   "n": "unhcr-help-kyrgyzstan-asylum-info-ru",
+   "c": "The asylum procedure is free at every stage.",
+   "q": "Проходить процедуру рассмотрения заявления бесплатно — на любом этапе госпошлины не взимаются.",
+   "d": "2026-09-25",
+   "s": "verified"
+  },
+  {
+   "n": "unhcr-help-kyrgyzstan-asylum-info-ru",
+   "c": "A recognised refugee may work without a separate permit.",
+   "q": "Право на труд без необходимости получения отдельного разрешения.",
+   "d": "2026-09-25",
+   "s": "verified"
+  },
+  {
+   "n": "unhcr-help-kyrgyzstan-asylum-info-ru",
+   "c": "After 3 years as a refugee a person can apply for Kyrgyz citizenship by a simplified procedure.",
+   "q": "После 3 лет проживания в статусе беженца вы можете подать заявление на получение гражданства Кыргызской Республики по упрощённой процедуре.",
+   "d": "2026-09-25",
+   "s": "verified"
+  },
+  {
+   "n": "unhcr-factsheet-kyrgyz-republic-2025-09",
+   "c": "As of 30 June 2025 the 2,186 refugees and asylum seekers in Kyrgyzstan included people from Afghanistan (524) and Syria (64).",
+   "q": "including from Afghanistan (524), Syria (64),",
+   "d": "2025-09-01",
+   "s": "possibly-outdated"
+  },
+  {
+   "n": "unhcr-factsheet-kyrgyz-republic-2025-09",
+   "c": "Total refugees and asylum seekers as of 30 June 2025: 2,186.",
+   "q": "2,186",
+   "d": "2025-09-01",
+   "s": "possibly-outdated"
+  },
+  {
+   "n": "unhcr-factsheet-kyrgyz-republic-2025-09",
+   "c": "They also included 55 people from Ukraine.",
+   "q": "and Ukraine (55).",
+   "d": "2025-09-01",
+   "s": "possibly-outdated"
+  },
+  {
+   "n": "unhcr-factsheet-kyrgyz-republic-2025-09",
+   "c": "168 refugees were recognised by the Kyrgyz state, and 117 by UNHCR under its mandate.",
+   "q": "(168 refugees recognised by the State)",
+   "d": "2025-09-01",
+   "s": "possibly-outdated"
+  },
+  {
+   "n": "unhcr-factsheet-kyrgyz-republic-2025-09",
+   "c": "117 people were recognised as refugees under UNHCR's mandate.",
+   "q": "mandate refugees (117 people recognised as",
+   "d": "2025-09-01",
+   "s": "possibly-outdated"
+  },
+  {
+   "n": "news-economistkg-refugee-status-amendments-2026-09",
+   "c": "In September 2026 the Ministry of Labour proposed refusing to register repeat refugee applications that bring no new circumstances.",
+   "q": "человеку ранее уже отказали в признании беженцем и при этом **не появились новые или вновь открывшиеся обстоятельства**",
+   "d": "2026-09-17",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-refugee-status-amendments-2026-09",
+   "c": "From 2022 to mid-2026 the migration authority received about 160 repeat applications from people already refused.",
+   "q": "с 2022 года по первое полугодие 2026 года в уполномоченный орган в сфере миграции поступило около **160 повторных ходатайств**",
+   "d": "2026-09-17",
+   "s": "unofficial"
+  },
+  {
+   "n": "news-economistkg-refugee-status-amendments-2026-09",
+   "c": "The Ministry says repeat applications let people with no other legal grounds stay longer.",
+   "q": "позволяет дольше оставаться в стране людям, у которых нет других законных оснований для пребывания",
+   "d": "2026-09-17",
+   "s": "unofficial"
+  }
+ ]
+}

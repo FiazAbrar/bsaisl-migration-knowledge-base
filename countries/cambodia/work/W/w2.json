@@ -1,0 +1,12 @@
+{"prefix": "W",
+"sources": [
+["tilleke-kh-fwcms-launch-2016", "Tilleke & Gibbins", "Cambodia: New Online Application for Foreigners to Obtain Work Permits (FWCMS launch, operator and certification fees)", "no", "2016-09-05"]
+],
+"facts": [
+{"n": "tilleke-kh-fwcms-launch-2016", "c": "E-Solution (Cambodia) Co., Ltd., the company operating FWCMS, charges a public service fee of USD 30 (KHR 122,500) per request for a new or extended work permit and employment card.", "q": "plus USD 30 (KHR 122,500) per request for a new or extended work permit and employment card", "d": "2016-09-05", "s": "possibly-outdated", "v": ["work-permit", "operator-fee", "USD 30 per new or extended permit (2016)"]},
+{"n": "tilleke-kh-fwcms-launch-2016", "c": "E-Solution charges USD 30 (KHR 122,500) per foreign-labour quota request.", "q": "public service fee of USD 30 (KHR 122,500) per quota request for foreign labor", "d": "2016-09-05", "s": "possibly-outdated"},
+{"n": "tilleke-kh-fwcms-launch-2016", "c": "All FWCMS fees are paid through the bank system, and E-Solution collects MLVT's official fees at the same time.", "q": "All fees must be paid through the bank system, and E-Solution will request and process the MOLVT’s official fees at the same time.", "d": "2016-09-05", "s": "possibly-outdated"},
+{"n": "tilleke-kh-fwcms-launch-2016", "c": "A health check certificate from a clinic of the worker's choice must be certified by the Department of Occupational Health and Safety for USD 5 (KHR 20,400).", "q": "it must be certified by the Department of Occupational Health and Safety for a fee of USD 5 (KHR 20,400)", "d": "2016-09-05", "s": "possibly-outdated"},
+{"n": "andersen-kh-labor-booklet-2025", "c": "A work permit application asks for the date of the worker's last Cambodian immigration exit stamp, except on a first arrival.", "q": "The date of their last Cambodian immigration exit stamp (not", "d": "2025-04-01", "s": "unofficial"},
+{"n": "andersen-kh-labor-booklet-2025", "c": "The quota request is made to MLVT between 1 September and 30 November each year; newly established entities can request at any time after incorporation.", "q": "be done at any time after the incorporation date.", "d": "2025-04-01", "s": "unofficial"}
+]}

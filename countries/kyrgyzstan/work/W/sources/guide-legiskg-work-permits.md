@@ -1,0 +1,279 @@
+# Work permits for foreigners in Kyrgyzstan
+
+Published: 9/3/2026 · Author: Legis Group
+
+![Work permits for foreigners in Kyrgyzstan](https://dzmhqwkkcirujkngnmhh.supabase.co/storage/v1/object/public/media/1788418752503-vaipge.png)
+
+We'll explore who needs a work permit, how employers can obtain one, and what timeframes to consider.
+
+Work Permits for Foreigners in Kyrgyzstan: A Step-by-Step Guide
+
+Planning to hire a foreign citizen in Kyrgyzstan? First, determine **whether they need a Unified Permit** , then check the quota, and only then proceed with the paperwork.
+
+Since May 1, 2026, a new procedure for processing documents for the residence and employment of foreign citizens has been in effect in Kyrgyzstan. The primary document for foreigners to work is **the Unified Permit** . It is issued electronically and combines a work visa, a permit to employ foreign labor, and a work permit.
+
+Below is a practical procedure.
+
+## Step 1: Check if a foreigner needs a Unified Permit
+
+### A single permit is required
+
+Most foreign citizens planning to work in Kyrgyzstan must obtain a Unified Permit.
+
+It confirms the right of a foreigner to carry out work activities and simultaneously contains information about the relevant work visa and permission to employ foreign labor.
+
+### A single permit is not required for EAEU citizens.
+
+Citizens of member states of the Eurasian Economic Union have the right to work in Kyrgyzstan **without obtaining a Unified Permit** on the basis of an employment or civil law contract concluded with an employer in cases provided for by law.
+
+The EAEU states include:
+
+- Russia;
+- Kazakhstan;
+- Belarus;
+- Armenia;
+- Kyrgyzstan.
+
+Therefore, for example, for a Russian citizen, the employment procedure differs from the procedure that applies to citizens of China, Turkey, India or the United Kingdom.
+
+**The first thing that needs to be established is the employee’s citizenship.**
+
+Step 2: Determine who will be the employer
+
+The employer may be a legal entity or an individual entrepreneur who legally operates in Kyrgyzstan.
+
+It is the employer who participates in the process of attracting foreign labor and uses the electronic portal to submit the necessary applications.
+
+The official eVisa portal explicitly states that **legal entities, sole proprietors, and foreign sole proprietors** must submit applications related to the employment of foreign labor and obtaining a Single Permit through the eVisa portal.
+
+Step 3: Check your quota
+
+The recruitment of foreign labor in Kyrgyzstan is linked to annually established quotas.
+
+Therefore, before hiring a specific foreign worker, it is necessary to verify whether the employer has the ability to hire a foreign worker within the established quota. The National Investment Agency also states that foreign labor is hired based on annually established quotas.
+
+### What is important to understand
+
+The quota applies not only to a foreigner's presence in Kyrgyzstan, but also to his or her employment.
+
+Therefore, the presence of a vacancy in itself does not mean that a foreign citizen can be immediately hired.
+
+The employer needs to check:
+
+**Is there a required quota → is the position suitable → is it possible to employ a specific foreign worker.**
+
+Employers' applications for quotas to attract foreign labor have been converted to electronic format.
+
+Step 4: Create a personal account on the eVisa portal
+
+The application process is carried out through the official e-visa portal of the Kyrgyz Republic:
+
+**evisa.e-gov.kg**
+
+The portal provides a separate personal account for applying for a Unified Permit.
+
+The official portal explicitly warns legal entities and sole proprietors: they must register a personal account and use it to submit applications for hiring foreign labor and obtaining a Unified Permit.
+
+The portal offers the following functions:
+
+- filing an application for a Unified Permit;
+- continuation of a previously started application;
+- checking the status of the application;
+- other electronic services.
+
+Step 5. Prepare documents
+
+The list of documents depends on the specific situation: the foreigner's citizenship, the basis for employment, the employer, and the type of document being issued.
+
+In general, it is necessary to prepare the following documents:
+
+**from the employer:**
+
+- information about the employer;
+- registration documents;
+- information about upcoming employment;
+- documents related to the recruitment of a foreign worker;
+- documents confirming the existence of appropriate grounds for attracting foreign labor.
+
+**from a foreign worker:**
+
+- valid passport;
+- photograph;
+- information required for obtaining permits;
+- additional documents depending on the specific category.
+
+When applying electronically, documents are uploaded through the appropriate portal.
+
+The official eVisa portal states that documents for visa procedures must be submitted with a translation into Kyrgyz or Russian, unless otherwise provided by the requirements of a specific procedure.
+
+Step 6: Apply for a Unified Permit
+
+After preparing the documents, the employer and foreign worker complete the required electronic submission procedure.
+
+The main change from May 1, 2026 is that it is no longer necessary to collect several separate permits under the old procedure.
+
+**A single resolution combines:**
+
+- work visa;
+- permission to employ foreign labor;
+- work permit.
+
+The document itself is issued electronically and has a QR code.
+
+Step 7: Wait for a decision
+
+After submission, the application is reviewed by the authorized bodies.
+
+In 2026, the option **of expedited processing of a** Unified Permit application for an additional fee will also be introduced. This is provided for by a new procedure that came into effect on May 1, 2026.
+
+Once approved, the electronic Unified Permit becomes available in the prescribed manner.
+
+Step 8. Check what exactly a foreigner is allowed to do
+
+Obtaining a document does not mean that a foreign citizen can work anywhere and for any employer.
+
+Permitting documents are issued within the framework of a specific procedure for attracting a foreign worker.
+
+Therefore, it is necessary to check the compliance:
+
+**foreign worker → employer → type of activity → position → permit validity period.**
+
+You can't rely on logic:
+
+"A foreigner has a work permit, which means he can work in any company."
+
+This is the wrong approach.
+
+The employer must comply with the conditions under which the permit was issued.
+
+Can a foreigner work without a permit?
+
+Yes, in some cases.
+
+The most important example is **citizens of EAEU countries** . A special procedure applies to them: a Unified Work Permit is not required for work in Kyrgyzstan.
+
+In addition, the legislation provides for certain categories of foreign citizens for whom a special procedure applies for carrying out work activities without a standard work permit.
+
+Therefore, before starting the procedure, it is necessary to determine not only the person’s citizenship, but also **the basis for his stay in Kyrgyzstan** .
+
+Important: A visa and a work permit are not the same thing.
+
+It is not enough for a foreigner to simply have the right to be on the territory of Kyrgyzstan.
+
+The right to stay and the right to work are different legal issues.
+
+The new procedure is aimed at uniting them within the framework of a Single Permit, but this does not mean that any visa automatically grants the right to work.
+
+For example, the official eVisa portal clearly states that some visa categories grant the right to stay, but **do not grant the right to work or engage in entrepreneurial activity** .
+
+Therefore, it is not possible to hire a foreigner solely on the basis that he has a valid visa or registration.
+
+What happens if I register a foreigner incorrectly?
+
+The employer is obliged to comply with the requirements of migration and labor legislation.
+
+Violations may lead to liability for the employer and the foreign citizen, as well as problems with the foreigner's stay in Kyrgyzstan.
+
+The situation is especially risky when a foreign citizen is actually working, but the necessary permits have not yet been issued.
+
+**You shouldn't first allow a foreigner to work and then try to legalize his documents.**
+
+The correct order is the opposite:
+
+**Check the basis → check the quota → prepare the necessary documents → only then allow them to start work.**
+
+Brief design scheme
+
+If a foreigner requires a Single Permit, the procedure is as follows:
+
+**1. Check the citizenship of a foreigner.**
+
+↓
+
+**2. Determine whether a Unified Permit is required.**
+
+↓
+
+**3. Check the possibility of attracting foreign labor and the quota.**
+
+↓
+
+**4. Prepare documents for the employer and employee.**
+
+↓
+
+**5. Register a personal account on eVisa.**
+
+↓
+
+**6. Submit your application online.**
+
+↓
+
+**7. Pay the required fees.**
+
+↓
+
+**8. Wait for the decision.**
+
+↓
+
+**9. Obtain an electronic Unified Permit.**
+
+↓
+
+**10. Only after all requirements have been met should a foreign citizen be allowed to work.**
+
+What an employer needs to know
+
+If you're planning to hire a foreigner in Kyrgyzstan, it's a good idea to check four things before signing an employment contract:
+
+**Citizenship **\
+It determines whether a Single Permit is required at all.
+
+**Reason for stay **\
+Visa, residence card and other documents have different legal consequences.
+
+**Quota **\
+Annual quotas are applied to attract foreign labor.
+
+**Position and employer **\
+The permit is issued within the framework of a specific procedure for attracting a foreign worker.
+
+We will help you register a foreign employee
+
+The process of registering a foreign worker involves more than just obtaining a single document. It's also necessary to correctly determine the foreigner's status, verify their employability, quota requirements, employer documents, and the application process.
+
+We can help you:
+
+- determine whether a foreigner requires a Unified Permit;
+- check the basis for his stay in Kyrgyzstan;
+- check the requirements for attracting foreign labor;
+- prepare the necessary documents;
+- organize the submission of an application through the electronic portal;
+- accompany the procedure for obtaining a Unified Permit;
+- check the documents of a foreign worker before hiring him.
+
+**Planning to hire a foreign national? It's better to check their documents before they start working, rather than after a problem arises.**
+
+*This material is current as of August 2026. Migration processing procedures, quotas, fees, and requirements for individual categories of foreign citizens are subject to change. Before applying, please check the requirements in effect on the date of application.*
+
+## Frequently asked questions
+
+### 
+
+### 
+
+### 
+
+### 
+
+## Related services
+
+[Immigration](/en/services/immigration)[Visas and invitations](/en/services/visas)[Employment law](/en/services/employment-law)
+
+## Related articles
+
+[How to register an LLC in Kyrgyzstan: step-by-step guide](/en/articles/kak-zaregistrirovat-osoo-v-kyrgyzstane-poshagovaya-instrukciya)[Sole Proprietorship or LLC: Which to Choose for Business in Kyrgyzstan?](/en/articles/ip-ili-osoo-chto-vybrat-dlya-biznesa-v-kyrgyzstane)
+
+## Need help with this?

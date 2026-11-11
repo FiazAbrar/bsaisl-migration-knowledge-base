@@ -1,0 +1,1496 @@
+
+<!DOCTYPE html>
+<html lang="ru" dir="ltr" class="no-js">
+<head>
+        <link rel="stylesheet" href="/Content/responsive/RFE/ru-KZ/RFE-ru-KZ.css?&amp;av=0.0.0.0&amp;cb=395">
+<script src="https://tags.azattyq.org/rferl-pangea/prod/utag.sync.js"></script><script type='text/javascript' src='https://www.youtube.com/iframe_api' async></script>            <link rel="manifest" href="/manifest.json">
+    <script type="text/javascript">
+        //a general 'js' detection, must be on top level in <head>, due to CSS performance
+        document.documentElement.className = "js";
+        var cacheBuster = "395";
+        var appBaseUrl = "/";
+        var imgEnhancerBreakpoints = [0, 144, 256, 408, 650, 1023, 1597];
+        var isLoggingEnabled = false;
+        var isPreviewPage = false;
+        var isLivePreviewPage = false;
+        var isForPdf = false;
+
+                var vjsLocalization = {
+                        "Play Video": "play",
+                        "Play": "play",
+                        "Pause": "pause",
+                        "Current Time": "",
+                        "Duration": "",
+                        "Remaining Time": "",
+                        "Mute": "volume",
+                        "Unmute": "volume",
+                        "LIVE": "Live",
+                        "Quality": "source switch"
+                };
+            
+        if (!isPreviewPage) {
+            window.RFE = window.RFE || {};
+            window.RFE.cacheEnabledByParam = window.location.href.indexOf('nocache=1') === -1;
+
+            const url = new URL(window.location.href);
+            const params = new URLSearchParams(url.search);
+
+            // Remove the 'nocache' parameter
+            params.delete('nocache');
+
+            // Update the URL without the 'nocache' parameter
+            url.search = params.toString();
+            window.history.replaceState(null, '', url.toString());
+        } else if (!isForPdf) {
+            window.addEventListener('load', function() {
+                const links = window.document.links;
+                for (let i = 0; i < links.length; i++) {
+                    links[i].href = '#';
+                    links[i].target = '_self';
+                }
+             })
+        }
+
+        // Iframe & Embed detection
+        var embedProperties = {};
+
+        try {
+            // Reliable way to check if we are in an iframe.
+            var isIframe = window.self !== window.top;
+            embedProperties.is_iframe = isIframe;
+
+            if (!isIframe) {
+                embedProperties.embed_context = "main";
+            } else {
+                // We are in an iframe. Let's try to access the parent.
+                // This access will only fail with strict cross-origin (without document.domain).
+                var parentLocation = window.top.location;
+
+                // The access succeeded. Now we explicitly compare the hostname.
+                if (window.location.hostname === parentLocation.hostname) {
+                    embedProperties.embed_context = "embed_self";
+                } else {
+                    // Hostname is different (e.g. different subdomain with document.domain)
+                    embedProperties.embed_context = "embed_cross";
+                }
+
+                // Since the access works, we can safely get the details.
+                embedProperties.url_parent = parentLocation.href;
+                embedProperties.title_parent = window.top.document.title;
+            }
+        } catch (err) {
+            // We are in an iframe, and an error occurred, probably due to cross-origin restrictions.
+            embedProperties.is_iframe = true;
+            embedProperties.embed_context = "embed_cross";
+
+            // We cannot access the properties of window.top.
+            // `document.referrer` can sometimes provide the URL of the parent page.
+            // It is not 100% reliable, but it is the best we can do in this situation.
+            embedProperties.url_parent = document.referrer || null;
+            embedProperties.title_parent = null; // We can't get to the title in a cross-origin scenario.
+        }
+
+var pwaEnabled = true;        var swCacheDisabled;
+    </script>
+    <meta charset="utf-8" />
+
+            <title>«Многих привезли обманным путем». Сможет ли Кыргызстан противостоять нелегальной миграции?</title>
+            <meta name="description" content="Правительство Кыргызстана увеличило на 50% квоту на привлечение иностранной рабочей силы в 2024 году." />
+                <meta name="keywords" content="Экономика, Архив Азаттыка Кыргызстан" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<meta name="robots" content="max-image-preview:large"><meta name="yandex-verification" content="b4983b94636388c5" />
+
+        <link href="https://www.azattyqasia.org/a/32937697.html" rel="canonical" />
+
+        <meta name="apple-mobile-web-app-title" content="Радио «Свободная Европа»/Радио «Свобода»" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+            <meta name="apple-itunes-app" content="app-id=475986784, app-argument=//32937697.ltr" />
+<meta content="«Многих привезли обманным путем». Сможет ли Кыргызстан противостоять нелегальной миграции?" property="og:title"></meta>
+<meta content="Правительство Кыргызстана увеличило на 50% квоту на привлечение иностранной рабочей силы в 2024 году." property="og:description"></meta>
+<meta content="article" property="og:type"></meta>
+<meta content="https://www.azattyqasia.org/a/32937697.html" property="og:url"></meta>
+<meta content="Радио Азаттык" property="og:site_name"></meta>
+<meta content="https://www.facebook.com/RadioAzattyq" property="article:publisher"></meta>
+<meta content="https://gdb.rferl.org/08670000-0a00-0242-e15e-08d9fdf39be0_w1200_h630.jpg" property="og:image"></meta>
+<meta content="1200" property="og:image:width"></meta>
+<meta content="630" property="og:image:height"></meta>
+<meta content="137980759673857" property="fb:app_id"></meta>
+<meta content="Кубатбек АЙБАШОВ" name="Author"></meta>
+<meta content="summary_large_image" name="twitter:card"></meta>
+<meta content="@Radio_Azattyk" name="twitter:site"></meta>
+<meta content="https://gdb.rferl.org/08670000-0a00-0242-e15e-08d9fdf39be0_w1200_h630.jpg" name="twitter:image"></meta>
+<meta content="«Многих привезли обманным путем». Сможет ли Кыргызстан противостоять нелегальной миграции?" name="twitter:title"></meta>
+<meta content="Правительство Кыргызстана увеличило на 50% квоту на привлечение иностранной рабочей силы в 2024 году." name="twitter:description"></meta>
+                    <link rel="amphtml" href="https://www.azattyqasia.org/amp/32937697.html" />
+<script type="application/ld+json">{"articleSection":"Экономика","isAccessibleForFree":true,"headline":"«Многих привезли обманным путем». Сможет ли Кыргызстан противостоять нелегальной миграции?","inLanguage":"ru-KZ","keywords":"Экономика, Архив Азаттыка Кыргызстан","author":{"@type":"Person","url":"https://www.azattyqasia.org/author/кубатбек-айбашов/ypykqv","description":"","image":{"@type":"ImageObject"},"name":"Кубатбек АЙБАШОВ"},"datePublished":"2024-05-08 06:10:20Z","dateModified":"2024-05-14 09:30:54Z","publisher":{"logo":{"width":512,"height":220,"@type":"ImageObject","url":"https://www.azattyqasia.org/Content/responsive/RFE/ru-KZ/img/logo.png"},"@type":"NewsMediaOrganization","url":"https://www.azattyqasia.org","sameAs":["https://www.youtube.com/@azattyqasia","https://www.instagram.com/currenttimeasia/","https://www.facebook.com/AzattyqAsia","http://t.me/azattyqasia","https://whatsapp.com/channel/0029VaCqWrHElagsGmKjZD1M","https://whatsapp.com/channel/0029VaCqWrHElagsGmKjZD1M"],"name":"Радио Азаттык","alternateName":""},"@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://www.azattyqasia.org/a/32937697.html","url":"https://www.azattyqasia.org/a/32937697.html","description":"Правительство Кыргызстана увеличило на 50% квоту на привлечение иностранной рабочей силы в 2024 году.","image":{"width":1200,"height":675,"@type":"ImageObject","url":"https://gdb.rferl.org/08670000-0a00-0242-e15e-08d9fdf39be0_w1200_r1.jpg"},"name":"«Многих привезли обманным путем». Сможет ли Кыргызстан противостоять нелегальной миграции?"}</script>    <script src="/Scripts/responsive/infographics.bundle.min.js?&amp;av=0.0.0.0&amp;cb=395"></script>
+        <script src="/Scripts/responsive/dollardom.min.js?&amp;av=0.0.0.0&amp;cb=395"></script>
+        <script src="/Scripts/responsive/modules/commons.js?&amp;av=0.0.0.0&amp;cb=395"></script>
+        <script src="/Scripts/responsive/modules/app_code.js?&amp;av=0.0.0.0&amp;cb=395"></script>
+
+        <link rel="icon" type="image/svg+xml" href="/Content/responsive/RFE/img/webApp/favicon.svg" />
+        <link rel="alternate icon" href="/Content/responsive/RFE/img/webApp/favicon.ico" />
+            <link rel="mask-icon" color="#ea6903" href="/Content/responsive/RFE/img/webApp/favicon_safari.svg" />
+        <link rel="apple-touch-icon" sizes="152x152" href="/Content/responsive/RFE/img/webApp/ico-152x152.png" />
+        <link rel="apple-touch-icon" sizes="144x144" href="/Content/responsive/RFE/img/webApp/ico-144x144.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="/Content/responsive/RFE/img/webApp/ico-114x114.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="/Content/responsive/RFE/img/webApp/ico-72x72.png" />
+        <link rel="apple-touch-icon-precomposed" href="/Content/responsive/RFE/img/webApp/ico-57x57.png" />
+        <link rel="icon" sizes="192x192" href="/Content/responsive/RFE/img/webApp/ico-192x192.png" />
+        <link rel="icon" sizes="128x128" href="/Content/responsive/RFE/img/webApp/ico-128x128.png" />
+        <meta name="msapplication-TileColor" content="#ffffff" />
+        <meta name="msapplication-TileImage" content="/Content/responsive/RFE/img/webApp/ico-144x144.png" />
+                <link rel="preload" href="/Content/responsive/fonts/Skolar-Lt_Cyrl_v2.4.woff" type="font/woff" as="font" crossorigin="anonymous" />
+    <link rel="alternate" type="application/rss+xml" title="RFE/RL - Top Stories [RSS]" href="/api/" />
+    <link rel="sitemap" type="application/rss+xml" href="/sitemap.xml" />
+    
+    
+
+
+
+        <script type="text/javascript">
+            var analyticsData = Object.assign(embedProperties, {url:"https://www.azattyqasia.org/a/32937697.html",property_id:"418",article_uid:"32937697",page_title:"«многих привезли обманным путем». сможет ли кыргызстан противостоять нелегальной миграции?",page_type:"article",content_type:"article",subcontent_type:"article",last_modified:"2024-05-14 09:30:54Z",pub_datetime:"2024-05-08 06:10:20Z",pub_year:"2024",pub_month:"05",pub_day:"08",pub_hour:"06",pub_weekday:"wednesday",section:"экономика",english_section:"kz-rus-economics",byline:"кубатбек айбашов",categories:"kz-rus-economics,ky_archive_in_russian_ru",domain:"www.azattyqasia.org",language:"russian",language_service:"rferl kazakh",platform:"web",copied:"no",copied_article:"not set",copied_title:"not set",runs_js:"yes",cms_release:"8.50.0.0.395",enviro_type:"prod",slug:"not set",entity:"rfe",short_language_service:"kaz",platform_short:"w",page_name:"«многих привезли обманным путем». сможет ли кыргызстан противостоять нелегальной миграции?"});
+            // Push Analytics data as GTM message (without "event" attribute and before GTM initialization)
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push(analyticsData);
+        </script>
+        <script type="text/javascript" data-cookiecategory="analytics">
+
+            var gtmEventObject = {event: 'page_meta_ready'};window.dataLayer = window.dataLayer || [];window.dataLayer.push(gtmEventObject);
+            var renderGtm = "true";
+            if (renderGtm === "true") {
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WXZBPZ');
+            }
+        </script>
+</head>
+<body class=" nav-no-loaded cc_theme pg-article pg-article--single-column print-lay-article use-sticky-share nojs-images ">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXZBPZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>        <script type="text/javascript" data-cookiecategory="analytics">
+
+            var gtmEventObject = {event: 'page_meta_ready'};window.dataLayer = window.dataLayer || [];window.dataLayer.push(gtmEventObject);
+
+            var renderGtm = "true";
+            if (renderGtm === "true") {
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WXZBPZ');
+            }
+
+        </script>
+        <!--Analytics tag js version start-->
+            <script type="text/javascript" data-cookiecategory="analytics">
+                var utag_data = Object.assign({}, analyticsData, {pub_year:"2024",pub_month:"05",pub_day:"08",pub_hour:"06",pub_weekday:"wednesday"});
+if(typeof(TealiumTagFrom)==='function' && typeof(TealiumTagSearchKeyword)==='function') {
+var utag_from=TealiumTagFrom();var utag_searchKeyword=TealiumTagSearchKeyword();
+if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyword"]==null) utag_data["search_keyword"]=utag_searchKeyword;if(utag_from!=null && utag_from!=='') utag_data["from"]=TealiumTagFrom();}
+                if(window.top!== window.self&&utag_data.page_type==="snippet"){utag_data.page_type = 'iframe';}
+                try{if(window.top!==window.self&&window.self.location.hostname===window.top.location.hostname){utag_data.platform = 'self-embed';utag_data.platform_short = 'se';}}catch(e){if(window.top!==window.self&&window.self.location.search.includes("platformType=self-embed")){utag_data.platform = 'cross-promo';utag_data.platform_short = 'cp';}}
+                (function(a,b,c,d){    a="https://tags.azattyq.org/rferl-pangea/prod/utag.js";    b=document;c="script";d=b.createElement(c);d.src=a;d.type="text/java"+c;d.async=true;    a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);    })();
+            </script>
+            <!--Analytics tag js version end-->
+<!-- Analytics tag management NoScript -->
+<noscript>
+<img style="position: absolute; border: none;" src="https://ssc.azattyq.org/b/ss/bbgprod,bbgentityrferl/1/G.4--NS/4128281?pageName=rfe%3akaz%3aw%3aarticle%3a%c2%ab%d0%9c%d0%bd%d0%be%d0%b3%d0%b8%d1%85%20%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d0%b7%d0%bb%d0%b8%20%d0%be%d0%b1%d0%bc%d0%b0%d0%bd%d0%bd%d1%8b%d0%bc%20%d0%bf%d1%83%d1%82%d0%b5%d0%bc%c2%bb.%20%d0%a1%d0%bc%d0%be%d0%b6%d0%b5%d1%82%20%d0%bb%d0%b8%20%d0%9a%d1%8b%d1%80%d0%b3%d1%8b%d0%b7%d1%81%d1%82%d0%b0%d0%bd%20%d0%bf%d1%80%d0%be%d1%82%d0%b8%d0%b2%d0%be%d1%81%d1%82%d0%be%d1%8f%d1%82%d1%8c%20%d0%bd%d0%b5%d0%bb%d0%b5%d0%b3%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b9%20%d0%bc%d0%b8%d0%b3%d1%80%d0%b0%d1%86%d0%b8%d0%b8%3f&amp;c6=%c2%ab%d0%9c%d0%bd%d0%be%d0%b3%d0%b8%d1%85%20%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d0%b7%d0%bb%d0%b8%20%d0%be%d0%b1%d0%bc%d0%b0%d0%bd%d0%bd%d1%8b%d0%bc%20%d0%bf%d1%83%d1%82%d0%b5%d0%bc%c2%bb.%20%d0%a1%d0%bc%d0%be%d0%b6%d0%b5%d1%82%20%d0%bb%d0%b8%20%d0%9a%d1%8b%d1%80%d0%b3%d1%8b%d0%b7%d1%81%d1%82%d0%b0%d0%bd%20%d0%bf%d1%80%d0%be%d1%82%d0%b8%d0%b2%d0%be%d1%81%d1%82%d0%be%d1%8f%d1%82%d1%8c%20%d0%bd%d0%b5%d0%bb%d0%b5%d0%b3%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b9%20%d0%bc%d0%b8%d0%b3%d1%80%d0%b0%d1%86%d0%b8%d0%b8%3f&amp;v36=8.50.0.0.395&amp;v6=D=c6&amp;g=https%3a%2f%2fwww.azattyqasia.org%2fa%2f32937697.html&amp;c1=D=g&amp;v1=D=g&amp;events=event1,event52&amp;c16=rferl%20kazakh&amp;v16=D=c16&amp;c5=kz-rus-economics&amp;v5=D=c5&amp;ch=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0&amp;c15=russian&amp;v15=D=c15&amp;c4=article&amp;v4=D=c4&amp;c14=32937697&amp;v14=D=c14&amp;v20=no&amp;c17=web&amp;v17=D=c17&amp;mcorgid=518abc7455e462b97f000101%40adobeorg&amp;server=www.azattyqasia.org&amp;pageType=D=c4&amp;ns=bbg&amp;v29=D=server&amp;v25=rfe&amp;v30=418&amp;v105=D=User-Agent " alt="analytics" width="1" height="1" /></noscript>
+<!-- End of Analytics tag management NoScript -->
+
+
+        <!--*** Accessibility links - For ScreenReaders only ***-->
+        <nav class="sr-only" aria-label="Доступность ссылок">
+            <ul>
+                <li><a href="#content" data-disable-smooth-scroll="1">Вернуться к основному содержанию</a></li>
+                <li><a href="#navigation" data-disable-smooth-scroll="1">Вернутся к главной навигации</a></li>
+                <li><a href="#txtHeaderSearch" data-disable-smooth-scroll="1">Вернутся к поиску</a></li>
+            </ul>
+        </nav>
+
+
+
+
+
+<div dir="ltr">
+    <div id="page">
+            <aside>
+
+<div class="c-lightbox overlay-modal">
+    <div class="c-lightbox__intro">
+        <p class="c-lightbox__intro-title"></p>
+        <button class="btn btn--rounded c-lightbox__btn c-lightbox__intro-next" title="Следующий">
+            <span class="ico ico--rounded ico-chevron-right"></span>
+            <span class="sr-only">Следующий</span>
+        </button>
+    </div>
+    <div class="c-lightbox__nav">
+        <button class="btn btn--rounded c-lightbox__btn c-lightbox__btn--close" title="Закрыть">
+            <span class="ico ico--rounded ico-close"></span>
+            <span class="sr-only">Закрыть</span>
+        </button>
+        <button class="btn btn--rounded c-lightbox__btn c-lightbox__btn--prev" title="Предыдущий">
+            <span class="ico ico--rounded ico-chevron-left"></span>
+            <span class="sr-only">Предыдущий</span>
+        </button>
+        <button class="btn btn--rounded c-lightbox__btn c-lightbox__btn--next" title="Следующий">
+            <span class="ico ico--rounded ico-chevron-right"></span>
+            <span class="sr-only">Следующий</span>
+        </button>
+    </div>
+    <div class="c-lightbox__content-wrap">
+        <figure class="c-lightbox__content">
+            <span class="c-spinner c-spinner--lightbox">
+                <img src="/Content/responsive/img/player-spinner.png"
+                     alt="please wait"
+                     title="please wait" />
+            </span>
+            <div class="c-lightbox__img">
+                <div class="thumb">
+                    <img src="" alt="" />
+                </div>
+            </div>
+            <figcaption>
+                <div class="c-lightbox__info c-lightbox__info--foot">
+                    <span class="c-lightbox__counter"></span>
+                    <span class="caption c-lightbox__caption"></span>
+                </div>
+            </figcaption>
+        </figure>
+    </div>
+    <div class="hidden">
+        <div class="content-advisory__box content-advisory__box--lightbox">
+            <span class="content-advisory__box-text">Эта фотография содержит контент, который может показаться оскорбительным или недопустимым.</span>
+            <button class="btn btn--transparent content-advisory__box-btn m-t-md" value="text" type="button">
+                <span class="btn__text">
+                    Кликните, чтобы посмотреть
+                </span>
+            </button>
+        </div>
+    </div>
+</div>
+
+<div class="print-dialogue">
+    <div class="container">
+        <p class="print-dialogue__title section-head">Print Options:</p>
+        <div class="print-dialogue__opts">
+            <ul class="print-dialogue__opt-group">
+                <li class="form__group form__group--checkbox">
+                    <input class="form__check " id="checkboxImages" name="checkboxImages" type="checkbox" checked="checked" />
+                    <label for="checkboxImages" class="form__label m-t-md">Images</label>
+                </li>
+                <li class="form__group form__group--checkbox">
+                    <input class="form__check " id="checkboxMultimedia" name="checkboxMultimedia" type="checkbox" checked="checked" />
+                    <label for="checkboxMultimedia" class="form__label m-t-md">Multimedia</label>
+                </li>
+            </ul>
+            <ul class="print-dialogue__opt-group">
+                <li class="form__group form__group--checkbox">
+                    <input class="form__check " id="checkboxEmbedded" name="checkboxEmbedded" type="checkbox" checked="checked" />
+                    <label for="checkboxEmbedded" class="form__label m-t-md">Embedded Content</label>
+                </li>
+                <li class="hidden">
+                    <input class="form__check " id="checkboxComments" name="checkboxComments" type="checkbox" />
+                    <label for="checkboxComments" class="form__label m-t-md"> Comments</label>
+                </li>
+            </ul>
+        </div>
+        <div class="print-dialogue__buttons">
+            <button class="btn  btn--secondary close-button" type="button" title="Cancel">
+                <span class="btn__text ">Cancel</span>
+            </button>
+            <button class="btn  btn-cust-print m-l-sm" type="button" title="Print">
+                <span class="btn__text ">Print</span>
+            </button>
+        </div>
+    </div>
+</div>                
+<div class="ctc-message pos-fix">
+    <div class="ctc-message__inner">Ссылка была скопирована</div>
+</div>
+            </aside>
+
+
+<div class="hdr-20 hdr-20--big">
+    <div class="hdr-20__inner">
+        <div class="hdr-20__max pos-rel">
+            <div class="hdr-20__side hdr-20__side--primary d-flex">
+                <label data-for="main-menu-ctrl" data-switcher-trigger="true" data-switch-target="main-menu-ctrl" class="burger hdr-trigger pos-rel trans-trigger" data-trans-evt="click" data-trans-id="menu">
+                    <span class="ico ico-close hdr-trigger__ico hdr-trigger__ico--close burger__ico burger__ico--close"></span>
+                    <span class="ico ico-menu hdr-trigger__ico hdr-trigger__ico--open burger__ico burger__ico--open"></span>
+                        <span class="burger__label">Быстрые ссылки</span>
+                </label>
+                <div class="menu-pnl pos-fix trans-target" data-switch-target="main-menu-ctrl" data-trans-id="menu">
+                    <div class="menu-pnl__inner">
+                        <nav class="main-nav menu-pnl__item menu-pnl__item--first">
+                            <ul class="main-nav__list accordeon" data-analytics-tales="false" data-promo-name="link" data-location-name="nav,secnav">
+                                
+
+        <li class="main-nav__item accordeon__item" data-switch-target="menu-item-598">
+            <label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" data-switcher-trigger="true" data-for="menu-item-598">
+                Центральная Азия
+                <span class="ico ico-chevron-down main-nav__chev"></span>
+            </label>
+            <div class="main-nav__sub-list">
+                
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/p/6951.html" title="Казахстан" data-item-name="kazakhstan-rus" >Казахстан</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/kyrgyzstan" title="Кыргызстан" data-item-name="Kyrgyzstan-rus" >Кыргызстан</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/uzbekistan" title="Узбекистан" data-item-name="uzbekistan-rus" >Узбекистан</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/tajikistan" title="Таджикистан" data-item-name="tajikistan-rus" >Таджикистан</a>
+
+            </div>
+        </li>
+
+        <li class="main-nav__item">
+            <a class="main-nav__item-name main-nav__item-name--link" href="/z/360" title="Новости" data-item-name="news-azattyq" >Новости</a>
+        </li>
+
+        <li class="main-nav__item">
+            <a class="main-nav__item-name main-nav__item-name--link" href="/z/22747" title="Война в Украине" data-item-name="war-in-ukraine" >Война в Украине</a>
+        </li>
+
+        <li class="main-nav__item accordeon__item" data-switch-target="menu-item-4683">
+            <label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" data-switcher-trigger="true" data-for="menu-item-4683">
+                На других языках
+                <span class="ico ico-chevron-down main-nav__chev"></span>
+            </label>
+            <div class="main-nav__sub-list">
+                
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="https://www.azattyq.org/" title="Қазақша"  target="_blank" rel="noopener">Қазақша</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="https://www.azattyk.org/" title="Кыргызча"  target="_blank" rel="noopener">Кыргызча</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="https://www.ozodlik.org/" title="Ўзбекча"  target="_blank" rel="noopener">Ўзбекча</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="https://www.ozodi.org/" title="Тоҷикӣ"  target="_blank" rel="noopener">Тоҷикӣ</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="https://www.azathabar.com/" title="Türkmençe"  target="_blank" rel="noopener">Türkmençe</a>
+
+            </div>
+        </li>
+
+
+
+                            </ul>
+                        </nav>
+                        
+
+
+
+
+                        
+                            <div class="menu-pnl__item menu-pnl__item--social">
+                                    <p class="menu-pnl__sub-head">Подпишитесь на нас в соцсетях</p>
+
+            <a href="https://www.facebook.com/AzattyqAsia" title="Follow us on Facebook" data-analytics-text="follow_on_facebook" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-facebook"  target="_blank" rel="noopener">
+                <span class="ico ico-facebook-alt ico--rounded"></span>
+            </a>
+
+            <a href="https://www.youtube.com/@azattyqasia" title="Follow us on Youtube" data-analytics-text="follow_on_youtube" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-youtube"  target="_blank" rel="noopener">
+                <span class="ico ico-youtube ico--rounded"></span>
+            </a>
+
+            <a href="https://www.instagram.com/currenttimeasia/" title="Follow us on Instagram" data-analytics-text="follow_on_instagram" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-instagram"  target="_blank" rel="noopener">
+                <span class="ico ico-instagram ico--rounded"></span>
+            </a>
+
+            <a href="http://t.me/azattyqasia" title="Follow us on Telegram" data-analytics-text="follow_on_telegram" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-telegram"  target="_blank" rel="noopener">
+                <span class="ico ico-telegram ico--rounded"></span>
+            </a>
+
+                            </div>
+                            <div class="menu-pnl__item">
+                                <a href="/navigation/allsites" class="menu-pnl__item-link">
+                                    <span class="ico ico-languages "></span>
+                                    Все сайты РСЕ/РС
+                                </a>
+                            </div>
+                    </div>
+                </div>
+                <label data-for="top-search-ctrl" data-switcher-trigger="true" data-switch-target="top-search-ctrl" class="top-srch-trigger hdr-trigger">
+                    <span class="ico ico-close hdr-trigger__ico hdr-trigger__ico--close top-srch-trigger__ico top-srch-trigger__ico--close"></span>
+                    <span class="ico ico-search hdr-trigger__ico hdr-trigger__ico--open top-srch-trigger__ico top-srch-trigger__ico--open"></span>
+                </label>
+                <div class="srch-top srch-top--in-header" data-switch-target="top-search-ctrl">
+                    <div class="container">
+                        
+<form action="/s" class="srch-top__form srch-top__form--in-header" id="form-topSearchHeader" method="get" role="search">    <label for="txtHeaderSearch" class="sr-only">Искать</label>
+    <input type="text" id="txtHeaderSearch" name="k" placeholder="Поиск" accesskey="s" value="" class="srch-top__input analyticstag-event" onkeydown="if (event.keyCode === 13) { FireAnalyticsTagEventOnSearch('search', $dom.get('#txtHeaderSearch')[0].value) }" />
+    <button title="Искать" type="submit" class="btn btn--top-srch analyticstag-event" onclick="FireAnalyticsTagEventOnSearch('search', $dom.get('#txtHeaderSearch')[0].value) ">
+        <span class="ico ico-search"></span>
+    </button>
+</form>
+                    </div>
+                </div>
+                <a href="/" class="main-logo-link">
+                    <img src="/Content/responsive/RFE/ru-KZ/img/logo-compact.svg?cb=395" class="main-logo main-logo--comp" alt="site logo">
+                        <img src="/Content/responsive/RFE/ru-KZ/img/logo.svg?cb=395" class="main-logo main-logo--big" alt="site logo">
+                </a>
+            </div>
+            <div class="hdr-20__side hdr-20__side--secondary d-flex">
+                
+
+    <a href="/multimedia" title="Мультимедиа" class="hdr-20__secondary-item" data-item-name="video">
+        
+    <span class="ico ico-video hdr-20__secondary-icon"></span>
+
+    </a>
+
+    <a href="/s" title="Искать" class="hdr-20__secondary-item hdr-20__secondary-item--search" data-item-name="search">
+        
+    <span class="ico ico-search hdr-20__secondary-icon hdr-20__secondary-icon--search"></span>
+
+    </a>
+
+
+
+                
+                <div class="srch-bottom">
+                    
+<form action="/s" class="srch-bottom__form d-flex" id="form-bottomSearch" method="get" role="search">    <label for="txtSearch" class="sr-only">Искать</label>
+    <input type="search" id="txtSearch" name="k" placeholder="Поиск" accesskey="s" value="" class="srch-bottom__input analyticstag-event" onkeydown="if (event.keyCode === 13) { FireAnalyticsTagEventOnSearch('search', $dom.get('#txtSearch')[0].value) }" />
+    <button title="Искать" type="submit" class="btn btn--bottom-srch analyticstag-event" onclick="FireAnalyticsTagEventOnSearch('search', $dom.get('#txtSearch')[0].value) ">
+        <span class="ico ico-search"></span>
+    </button>
+</form>
+                </div>
+            </div>
+            <img src="/Content/responsive/RFE/ru-KZ/img/logo-print.gif?cb=395" class="logo-print" loading="lazy" alt="site logo">
+            <img src="/Content/responsive/RFE/ru-KZ/img/logo-print_color.png?cb=395" class="logo-print logo-print--color" loading="lazy" alt="site logo">
+        </div>
+    </div>
+</div>
+    <script>
+        if (document.body.className.indexOf('pg-home') > -1) {
+            var nav2In = document.querySelector('.hdr-20__inner');
+            var nav2Sec = document.querySelector('.hdr-20__side--secondary');
+            var secStyle = window.getComputedStyle(nav2Sec);
+            if (nav2In && window.pageYOffset < 150 && secStyle['position'] !== 'fixed') {
+                nav2In.classList.add('hdr-20__inner--big')
+            }
+        }
+    </script>
+
+
+
+<div class="c-hlights c-hlights--breaking c-hlights--no-item" data-hlight-display="mobile,desktop">
+    <div class="c-hlights__wrap container p-0">
+        <div class="c-hlights__nav">
+            <a role="button" href="#" title="Предыдущий">
+                <span class="ico ico-chevron-backward m-0"></span>
+                <span class="sr-only">Предыдущий</span>
+            </a>
+            <a role="button" href="#" title="Следующий">
+                <span class="ico ico-chevron-forward m-0"></span>
+                <span class="sr-only">Следующий</span>
+            </a>
+        </div>
+        <span class="c-hlights__label">
+            <span class="">Срочные новости:</span>
+            <span class="switcher-trigger">
+                <label data-for="more-less-1" data-switcher-trigger="true" class="switcher-trigger__label switcher-trigger__label--more p-b-0" title="Показать больше">
+                    <span class="ico ico-chevron-down"></span>
+                </label>
+                <label data-for="more-less-1" data-switcher-trigger="true" class="switcher-trigger__label switcher-trigger__label--less p-b-0" title="Сократить текст">
+                    <span class="ico ico-chevron-up"></span>
+                </label>
+            </span>
+        </span>
+        <ul class="c-hlights__items switcher-target" data-switch-target="more-less-1">
+            
+        </ul>
+    </div>
+</div>
+
+
+
+        <div id="content">
+            
+
+    <main class="container">
+
+    <div class="hdr-container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1">
+                <div class="row">
+                    <div class="col-category col-xs-12 col-md-8 col-md-offset-2">
+
+
+<div class="category js-category">
+<a class="" href="/z/365">Экономика</a></div></div>
+<div class="col-title col-xs-12 col-md-8 col-md-offset-2">
+
+    <h1 class="title pg-title">«Многих привезли обманным путем». Сможет ли Кыргызстан противостоять нелегальной миграции?</h1>
+</div>
+<div class="col-publishing-details col-xs-12 col-md-8 col-md-offset-2">
+
+<div class="publishing-details ">
+                <div class="links">
+                    <ul class="links__list">
+                            <li class="links__item">
+            <a class="links__item-link" href="/author/кубатбек-айбашов/ypykqv"  title="Кубатбек АЙБАШОВ">Кубатбек АЙБАШОВ</a>                            </li>
+                    </ul>
+                </div>
+        <div class="published">
+            <span class="date" >
+                    <time pubdate="pubdate" datetime="2024-05-08T11:10:20&#x2B;05:00">
+                        8 мая 2024, 11:10
+                    </time>
+            </span>
+        </div>
+</div>
+
+
+</div>
+<div class="col-xs-12 col-md-8 col-md-offset-2">
+
+<div class="col-article-tools pos-rel article-share">
+
+    <div class="share--box">
+                <div class="sticky-share-container" style="display:none">
+                    <div class="container">
+                        <a href="https://www.azattyqasia.org" id="logo-sticky-share">&nbsp;</a>
+                        <div class="pg-title pg-title--sticky-share">
+                            «Многих привезли обманным путем». Сможет ли Кыргызстан противостоять нелегальной миграции?
+                        </div>
+                        <div class="sticked-nav-actions">
+                            <!--This part is for sticky navigation display-->
+                            <aside class="content-sharing js-content-sharing js-content-sharing--apply-sticky content-sharing--sticky" role="complementary" 
+                                   data-share-url="https://www.azattyqasia.org/a/32937697.html" data-share-title="«Многих привезли обманным путем». Сможет ли Кыргызстан противостоять нелегальной миграции?" data-share-text="Правительство Кыргызстана увеличило на 50% квоту на привлечение иностранной рабочей силы в 2024 году.">
+                                <div class="content-sharing__popover">
+                                    <p class="content-sharing__title">Поделиться</p>
+                                    <button class="btn btn--text-like content-sharing__close-btn">
+                                        <span class="ico ico-close ico--l"></span>
+                                    </button>
+            <ul class="content-sharing__list">
+                    <li class="content-sharing__item">
+                            <div class="ctc ">
+                                <input type="text" class="ctc__input" readonly="readonly">
+                                <a href="" class="content-sharing__link ctc__button">
+                                    <span class="ico ico-copy-link ico--rounded ico--s"></span>
+                                        <span class="content-sharing__link-text">Скопировать ссылку</span>
+                                </a>
+                            </div>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.azattyqasia.org%2fa%2f32937697.html"
+           data-analytics-text="share_on_facebook"
+           title="Facebook" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-facebook ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">Facebook</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://twitter.com/share?url=https%3a%2f%2fwww.azattyqasia.org%2fa%2f32937697.html&amp;text=%c2%ab%d0%9c%d0%bd%d0%be%d0%b3%d0%b8%d1%85&#x2B;%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d0%b7%d0%bb%d0%b8&#x2B;%d0%be%d0%b1%d0%bc%d0%b0%d0%bd%d0%bd%d1%8b%d0%bc&#x2B;%d0%bf%d1%83%d1%82%d0%b5%d0%bc%c2%bb.&#x2B;%d0%a1%d0%bc%d0%be%d0%b6%d0%b5%d1%82&#x2B;%d0%bb%d0%b8&#x2B;%d0%9a%d1%8b%d1%80%d0%b3%d1%8b%d0%b7%d1%81%d1%82%d0%b0%d0%bd&#x2B;%d0%bf%d1%80%d0%be%d1%82%d0%b8%d0%b2%d0%be%d1%81%d1%82%d0%be%d1%8f%d1%82%d1%8c&#x2B;%d0%bd%d0%b5%d0%bb%d0%b5%d0%b3%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b9&#x2B;%d0%bc%d0%b8%d0%b3%d1%80%d0%b0%d1%86%d0%b8%d0%b8%3f"
+           data-analytics-text="share_on_twitter"
+           title="X (Twitter)" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-twitter ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">X (Twitter)</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-xs-inline-block visible-sm-inline-block">
+        <a href="whatsapp://send?text=https%3a%2f%2fwww.azattyqasia.org%2fa%2f32937697.html"
+           data-analytics-text="share_on_whatsapp"
+           title="WhatsApp" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-whatsapp ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">WhatsApp</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="mailto:?body=https%3a%2f%2fwww.azattyqasia.org%2fa%2f32937697.html&amp;subject=«Многих привезли обманным путем». Сможет ли Кыргызстан противостоять нелегальной миграции?"
+           
+           title="Email" 
+           class="content-sharing__link ">
+            <span class="ico ico-email ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">Email</span>
+        </a>
+                    </li>
+
+            </ul>
+                                </div>
+                            </aside>
+                            <p class="buttons link-content-sharing p-0">
+                                <button class="btn btn--link btn-content-sharing p-t-0" value="text" role="Button" type="" title="Поделиться">
+                                    <span class="ico ico-share"></span>
+                                    <span class="btn__text">
+                                        Поделиться
+                                    </span>
+                                </button>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="links"  data-smart-link-api=https://smarturl.click/link?key=A4nq7KCbDoo7-Sqp1kcjoztd4bmmjswF6wAlR1_wPI8&amp;type=short&amp;url=https%3a%2f%2fwww.azattyqasia.org%2fa%2f32937697.html>
+                        <aside class="content-sharing js-content-sharing " role="complementary" 
+                               data-share-url="https://www.azattyqasia.org/a/32937697.html" data-share-title="«Многих привезли обманным путем». Сможет ли Кыргызстан противостоять нелегальной миграции?" data-share-text="Правительство Кыргызстана увеличило на 50% квоту на привлечение иностранной рабочей силы в 2024 году.">
+                            <div class="content-sharing__popover">
+                                <p class="content-sharing__title">Поделиться</p>
+                                <button class="btn btn--text-like content-sharing__close-btn">
+                                    <span class="ico ico-close ico--l"></span>
+                                </button>
+            <ul class="content-sharing__list">
+                    <li class="content-sharing__item">
+                            <div class="ctc ">
+                                <input type="text" class="ctc__input" readonly="readonly">
+                                <a href="" class="content-sharing__link ctc__button">
+                                    <span class="ico ico-copy-link ico--rounded ico--l"></span>
+                                        <span class="content-sharing__link-text">Скопировать ссылку</span>
+                                </a>
+                            </div>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.azattyqasia.org%2fa%2f32937697.html"
+           data-analytics-text="share_on_facebook"
+           title="Facebook" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-facebook ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">Facebook</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://twitter.com/share?url=https%3a%2f%2fwww.azattyqasia.org%2fa%2f32937697.html&amp;text=%c2%ab%d0%9c%d0%bd%d0%be%d0%b3%d0%b8%d1%85&#x2B;%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d0%b7%d0%bb%d0%b8&#x2B;%d0%be%d0%b1%d0%bc%d0%b0%d0%bd%d0%bd%d1%8b%d0%bc&#x2B;%d0%bf%d1%83%d1%82%d0%b5%d0%bc%c2%bb.&#x2B;%d0%a1%d0%bc%d0%be%d0%b6%d0%b5%d1%82&#x2B;%d0%bb%d0%b8&#x2B;%d0%9a%d1%8b%d1%80%d0%b3%d1%8b%d0%b7%d1%81%d1%82%d0%b0%d0%bd&#x2B;%d0%bf%d1%80%d0%be%d1%82%d0%b8%d0%b2%d0%be%d1%81%d1%82%d0%be%d1%8f%d1%82%d1%8c&#x2B;%d0%bd%d0%b5%d0%bb%d0%b5%d0%b3%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b9&#x2B;%d0%bc%d0%b8%d0%b3%d1%80%d0%b0%d1%86%d0%b8%d0%b8%3f"
+           data-analytics-text="share_on_twitter"
+           title="X (Twitter)" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-twitter ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">X (Twitter)</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-xs-inline-block visible-sm-inline-block">
+        <a href="whatsapp://send?text=https%3a%2f%2fwww.azattyqasia.org%2fa%2f32937697.html"
+           data-analytics-text="share_on_whatsapp"
+           title="WhatsApp" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-whatsapp ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">WhatsApp</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="mailto:?body=https%3a%2f%2fwww.azattyqasia.org%2fa%2f32937697.html&amp;subject=«Многих привезли обманным путем». Сможет ли Кыргызстан противостоять нелегальной миграции?"
+           
+           title="Email" 
+           class="content-sharing__link ">
+            <span class="ico ico-email ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">Email</span>
+        </a>
+                    </li>
+
+            </ul>
+                            </div>
+                        </aside>
+                        <p class="buttons link-content-sharing p-0">
+                            <button class="btn btn--link btn-content-sharing p-t-0" value="text" role="Button" type="" title="Поделиться">
+                                <span class="ico ico-share"></span>
+                                <span class="btn__text">
+                                    Поделиться
+                                </span>
+                            </button>
+                        </p>
+                    <div class="buttons link-content-sharing p-0 ctc">
+    <div class="popover d-flex">
+        <input type="text" class="ctc__input" readonly="readonly">
+        <a class="btn btn--link btn-content-sharing ctc__button p-t-0 btn--smart-link" href="#" title="Поделиться без VPN">
+            <span class="ico ico-link"></span>
+            <span class="btn__text">Поделиться без VPN</span>
+        </a>
+        <span class="ico ico-info-filled m-l-sm smart-link-help"></span>
+        <div class="popover__holder">
+            <div class="popover__content">
+                <p>Эта ссылка открывает доступ даже там, где сайт заблокирован</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+                        <div class="buttons google-button p-0">
+                            <div class="d-flex prefer-google">
+                                <a href=" https://www.google.com/preferences/source?q=https://www.azattyqasia.org" target="_blank" class="d-flex prefer-google__link">
+                                    <img class="prefer-google__icon" src="/Content/responsive/img/Google-G-logo.svg" height="16" width="16" />
+                                    <span class="prefer-google__text"> Сделать приоритетным в Google</span>
+                                </a>
+                            </div>
+                        </div>
+                </div>
+    </div>
+
+</div>
+</div>
+<div class="col-multimedia col-xs-12">
+
+<div class="cover-media">
+    <figure class="media-image js-media-expand">
+        <div class="img-wrap">
+            <div class="thumb thumb16_9">
+
+            <img src="https://gdb.rferl.org/08670000-0a00-0242-e15e-08d9fdf39be0_w250_r1_s.jpg" alt="Мигранты из Бангладеш в Кыргызстане. " />
+                                </div>
+        </div>
+            <figcaption>
+                <span class="caption">Мигранты из Бангладеш в Кыргызстане. </span>
+            </figcaption>
+    </figure>
+</div>
+
+</div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+<div class="body-container">
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-md-offset-2">
+
+<div class="intro intro--bold" >
+    <p >Правительство Кыргызстана увеличило на 50% квоту на привлечение иностранной рабочей силы в 2024 году.</p>
+</div>                    <div id="article-content" class="content-floated-wrap fb-quotable">
+
+    <div class="wsw">
+
+<p><strong>Общественность обсуждает рост числа трудовых мигрантов из Бангладеш, Пакистана и Индии. Сложившаяся ситуация объясняется нехваткой рабочей силы в строительной и швейной отраслях при высоком уровне безработицы в Кыргызстане. Эксперты же утверждают, что нелегальные мигранты из стран Южной Азии в стране не контролируются.</strong></p>
+
+<p><strong>Упкар,</strong> уроженец Индии и гражданин Великобритании, привозит специалистов из Индии для заведений общественного питания Бишкека.</p>
+
+<p>«Мы привозим поваров из Индии. Они приезжают с годовой рабочей визой. Я работаю не один, у нас есть бухгалтер-кыргызстанец, он помогает с документами. Директор компании – гражданин Индии. У бангладешцев и пакистанцев много проблем. Мы более двадцати лет работаем с индийскими поварами. С ними нет никаких проблем. Я замечаю, что много проблем с Бангладеш», – говорит Упкар.</p>
+
+<p>В то время как поток кыргызских мигрантов направлен в Россию, Южную Корею и Европу, увеличилось число иностранцев, ищущих работу в Кыргызстане. Поэтому квота на привлечение иностранной рабочей силы в Кыргызстан постоянно увеличивается.</p>
+
+<p>К 2024 году правительство увеличило квоту иностранных трудовых мигрантов до 25 тысяч. В прошлом году она была меньше на 50% или 16 610. По состоянию на апрель заявок было подано на 67% или 16 814 рабочих мест. 47% из них – из Бангладеш, 24% – из Пакистана и 16% – из Китая.</p>
+
+<h5 class="wsw__h5"><strong>Квота на привлечение иностранной рабочей силы в Кыргызстан</strong></h5>
+
+<p> </p>
+
+
+
+        <div class="clear"></div>
+        <div class="wsw__embed">
+            <div class="infgraphicsAttach" >
+                <script type="text/javascript">
+              
+                initInfographicsParams(
+                {
+                    params:[{"Name":"q","Value":"{\"url\":\"https://datawrapper.dwcdn.net/V38nW/1/\",\"title\":\"Квоты в Кыргызстане на иностранную рабочую силу \",\"id\":\"datawrapper-chart-V38nW\",\"aria\":\"Grouped Columns\"}","DefaultValue":"","HtmlEncode":false,"Type":"HTML"}],
+                    isMobile:true
+                });
+                </script>
+                <script>
+    (function (d) {
+        var thisScriptElement = d.currentScript;
+        
+        var containerElement = d.createElement('div');
+        containerElement.classList.add('DatawrapperSnippet');
+
+        thisScriptElement.parentNode.insertBefore(containerElement, thisScriptElement.nextSibling);
+
+        var data = JSON.parse(Infographics.Param.q);
+
+        var render = function () {
+            
+            var iframe = d.createElement("IFRAME");
+            iframe.src = data.url;
+            iframe.scrolling="no" 
+            iframe.frameborder=0 
+	    iframe.style="width: 0; min-width: 100% !important; border: none;"
+	    iframe.height=400
+            
+            // add iframe into container element
+            containerElement.appendChild(iframe);
+ 
+            var scriptE = d.createElement("script");
+            scriptE.type = 'text/javascript';
+            scriptE.innerHTML = `window.addEventListener("message", (function(e) {
+        if (void 0 !== e.data["datawrapper-height"]) {
+            var t = document.querySelectorAll("iframe");
+            for (var a in e.data["datawrapper-height"]) {
+                for (var r = 0; r < t.length; r++) {
+                    if (t[r].contentWindow === e.source) {
+                        t[r].style.height = e.data["datawrapper-height"][a] + "px"
+                    }
+                }
+            }
+        }
+    }));`;
+            containerElement.appendChild(scriptE);
+        };
+                 
+        // asynchronously call render function
+        if (d.readyState === "uninitialized" || d.readyState === "loading"){
+            window.addEventListener("load", render);
+        } else {
+            render();
+        }
+                            
+    })(document);
+</script>
+            </div>
+        </div>
+
+
+<p>По официальным данным, 63% квоты было выделено промышленной, строительной и транспортной отраслям. 13% горнодобывающей отрасли и 14% сфере услуг и торговле.</p>
+
+<p>Говорится, что в действительности количество работающих в Кыргызстане иностранных трудовых мигрантов значительно больше, чем предусмотрено квотами и официально зарегистрировано. Помимо квоты для трудовых мигрантов, тысячи людей имеют студенческие и бизнес-визы.</p>
+
+
+
+        <div data-owner-ct="Article" data-inline="False">
+        <div class="media-block also-read" >
+                <a href="/a/32828599.html" target="_self" title="«Планирую работать три года». Бангладешцы в швейных цехах Кыргызстана" class="img-wrap img-wrap--size-3 also-read__img">
+                    <span class="thumb thumb16_9">
+                            <noscript class="nojs-img">
+                                <img src="https://gdb.rferl.org/01000000-0aff-0242-8eaf-08dc31102cfc_cx11_cy0_cw74_w100_r1.jpg" alt="Мигранты из Бангладеш. ">
+                            </noscript>
+                        <img data-src="https://gdb.rferl.org/01000000-0aff-0242-8eaf-08dc31102cfc_cx11_cy0_cw74_w100_r1.jpg"  alt="Мигранты из Бангладеш. " />
+                    </span>
+                </a>
+            <div class="media-block__content also-read__body also-read__body--h">
+                <a href="/a/32828599.html" target="_self" title="«Планирую работать три года». Бангладешцы в швейных цехах Кыргызстана">
+                    <span class="also-read__text--label">
+                        ЧИТАЙТЕ ТАКЖЕ:
+                    </span>
+                    <p class="media-block__title media-block__title--size-3 also-read__text p-0">
+                        «Планирую работать три года». Бангладешцы в швейных цехах Кыргызстана
+                    </p>
+                </a>
+            </div>
+        </div>
+        </div>
+
+
+
+<h3 class="wsw__h3"><strong>В швейной отрасли стало больше иностранных рабочих</strong></h3>
+
+<p>Как показывают официальные и неофициальные данные, в стране много иностранцев, находящихся и нелегально. Большинство из них – граждане стран Южной Азии.</p>
+
+<p><strong>Нурзат Алимырзаева</strong>, владелица швейного цеха в Бишкеке приглашает на работу иностранных трудовых мигрантов. По ее словам, большинство иностранцев, занятых в швейной отрасли, – выходцы из Бангладеш, Индии и Пакистана.</p>
+
+<p>При этом она отметила, что не обходится и без мошенников, которые обещают посреднические услуги при проблемах с документами.</p>
+
+<p>«К нам приезжают индийцы и пакистанцы, из Бангладеш также едут. Если сравнивать, то выходцы из Бангладеш шьют хорошо и качественно, выходцы из Индии старательные и быстро учатся. Умеют они шить или нет, но они всеми средствами убеждают, что все будет хорошо, привозят их сюда, затем отбирают тех, кто умеет шить, а тех, кто не умеет оставляют без крыши над головой и без средств к существованию. Кыргызы увольняют их. Но они становятся жертвами мошенников, выходцев из их же страны. Они говорят «приезжай, я тебя устрою» и увеличивают число людей».</p>
+
+<p>Предпринимательница добавила, что в большинстве цехов, в которых знают о серьезной ответственности, не принимают на работу нелегалов.</p>
+
+<p>В середине апреля заместитель министра иностранных дел Кыргызстана <strong>Авазбек Атаханов</strong> посетил Бангладеш и выразил заинтересованность Бишкека в привлечении оттуда рабочей силы для экспортного производства.</p>
+
+<p>Представитель Бангладеш сообщил, что в Кыргызстане учатся около тысячи бенгальских студентов, и ожидается, что их число еще увеличится.</p>
+
+
+
+        <div data-owner-ct="Article" data-inline="False">
+        <div class="media-block also-read" >
+                <a href="/a/31737347.html" target="_self" title="Граждане Бангладеш заявили о трудовом рабстве в Бишкеке" class="img-wrap img-wrap--size-3 also-read__img">
+                    <span class="thumb thumb16_9">
+                            <noscript class="nojs-img">
+                                <img src="https://gdb.rferl.org/01f00000-0aff-0242-0031-08d9fdf39be5_cx0_cy10_cw0_w100_r1.jpg" alt="Граждане Бангладеш в Бишкеке.">
+                            </noscript>
+                        <img data-src="https://gdb.rferl.org/01f00000-0aff-0242-0031-08d9fdf39be5_cx0_cy10_cw0_w100_r1.jpg"  alt="Граждане Бангладеш в Бишкеке." />
+                    </span>
+                </a>
+            <div class="media-block__content also-read__body also-read__body--h">
+                <a href="/a/31737347.html" target="_self" title="Граждане Бангладеш заявили о трудовом рабстве в Бишкеке">
+                    <span class="also-read__text--label">
+                        ЧИТАЙТЕ ТАКЖЕ:
+                    </span>
+                    <p class="media-block__title media-block__title--size-3 also-read__text p-0">
+                        Граждане Бангладеш заявили о трудовом рабстве в Бишкеке
+                    </p>
+                </a>
+            </div>
+        </div>
+        </div>
+
+
+
+<h3 class="wsw__h3"><strong>«Идет работа по выявлению нелегальных мигрантов»</strong></h3>
+
+<p>По информации Министерства труда, социального обеспечения и миграции, для привлечения иностранных трудовых мигрантов, предприятия, которым необходима рабочая сила, подают электронную заявку и получают необходимую квоту. Если межведомственная комиссия, рассмотрев их, вынесет положительное решение, то иностранным мигрантам отправляется приглашения. На их основании выдается рабочая виза, и по прибытии в Кыргызстан они проходят медицинский осмотр, получают разрешение на работу, оплачивают государственную пошлину. На всю эту процедуру после выдачи квоты дается 90 дней. В случае задержки квота отменяется и выясняются причины.</p>
+
+<p><strong>Арлен Алиясов</strong>, начальник отдела по работе с иностранными гражданами данного министерства, сообщил, что в связи с растущим спросом на рабочую силу в строительной и швейной отраслях Кыргызстана, правительство в этом году увеличило квоту на трудовую миграцию. Он рассказал, что в последнее время ведется активная работа по выявлению нелегальных мигрантов:</p>
+
+<p>«В 2023 году утвержденная правительством квота составила 16 610 человек. В начале года перед представлением в правительство мы провели анализ. Дело в том, что сейчас на государственном уровне строится много объектов. Мы увеличили квоту до 25 тысяч из-за нехватки рабочей силы в строительной и швейной отраслях. Около 4000 выданных квот были отменены. У нас есть вся информация о том, какая фирма пригласила, в какую фирму взяли. Мы эти данные каждую неделю отправляем в МВД и ГКНБ. В рамках этой работы проводятся мероприятия под названием «Выявление незаконной миграции». Сейчас задерживается очень много незаконных мигрантов (нелегалов). Неделю назад МВД же разместили в интернете как арестовали пакистанцев, работающих в Glovo. Оказалось, что сто процентов из них находятся здесь по студенческой визе. Являются студентами, учатся здесь, а в свободное время работают. По нашему закону это запрещено, чтобы работать они должны заплатить госпошлину и получить разрешение на работу. С ними была проведена профилактическая работа. Они депортируют всех, у кого нет визы».</p>
+
+<p>По словам Алиясова, из-за увеличения иностранных мигрантов, особенно из Бангладеш, Пакистана и Индии, выдача квот временно приостановлена.</p>
+
+<p>Работа возобновится после выявления, депортации или регистрации всех, кто незаконно находится на территории страны.</p>
+
+<h3 class="wsw__h3"><strong>«В Кыргызстане много нелегальных мигрантов»</strong></h3>
+
+<p>В Кыргызстане также есть компании, которые занимаются тем, что привозят рабочих из-за границы. Они заключают предварительные договоры с предприятиями швейной и строительной отрасли, которым требуются рабочие, и помогают в привлечении рабочих тем, у кого есть на это законные основания и условия.</p>
+
+<p><strong>Нурислам Камбаров</strong> возглавляет одно из таких предприятий. Он привозит рабочих в основном из Бангладеш. Там у него есть партнер, который находит ему клиентов. Кроме того, пригласить своих знакомых и друзей предлагают бангладешцы, работающие в Кыргызстане.</p>
+
+<p>По словам Камбарова, есть лишь несколько компаний-посредников по привлечению на работу иностранцев, которые работают честно и на законных основаниях. Многие берут у иностранцев крупные суммы денег и оставляют их на улице после того, как привозят в Кыргызстан. Почти 70-80% из них не делают им визы и не устраивают на работу, а если и устраивают, то на работу с оплатой ниже обещанной.</p>
+
+<p><strong>Нурислам Камбаров</strong> рассказал, что есть много бангладешцев, которые были обмануты, приехали в Кыргызстан, но остались без визы и без работы, а теперь десятки и сотни человек живут в одном доме и ждут по 5-6 месяцев. Он отметил, что так как у них не осталось денег ни на оформление документов, ни на возвращение, то они не могут даже выйти на улицу:</p>
+
+<p>«Есть десятки мест, где их держат взаперти. В каждом месте по тридцать, пятьдесят, восемьдесят. У некоторых из них нет виз, переходят из одного цеха в другой, не могут получить зарплату, можно сказать, что они попали в рабство. Очень много людей, у которых забрали паспорта, и они не могут ничего сделать. Только сейчас шел со стороны улицы Орозбекова и встретил троих или четверых. Они рассказали, что по адресу Орозбекова, 158 проживает восемьдесят человек, нет ни работы, ни виз. Вы только представьте, уже сколько месяцев в одном доме находятся 80 человек. Как-то меня позвали на улицу Баха, 201 и попросили о помощи. Там находилось 35-40 человек, 5-6 я устроил на работу. Их сюда привезли и бросили сами же граждане Бангладеш. Я сделал визы примерно 25-30 людям, для этого они должны были выехать в Узбекистан и вернуться обратно».</p>
+
+<p>Нурислам рассказал, что недавно в аэропорту «Манас» познакомился с мигрантами из Бангладеш, летевшими в Ош. Позже они позвонили и сообщили, что в том месте, куда они прибыли, им не сделали визу, заперли, снизили обещанную зарплату с 500 долларов до 300 и заставляют работать, оказывая различное давление.</p>
+
+<p>По его словам, подобные звонки с просьбой о помощи он получает каждый день. Некоторым он оказывает поддержку в получении визы или работы, но он не может помочь всем. И ограничивается предупреждением: «Если я устрою вас на работу, то я совершу противозаконное действие, а я не могу на это пойти».</p>
+
+<p><strong>Нурислам Камбаров</strong> говорит, что бангладешцев в большинстве случаев обманом заманивают в Кыргызстан их же соотечественники:</p>
+
+<p>«Выслушивая проблемы каждого, уже наизусть знаем, у всех похожая история. Они сами не виноваты, что приехали сюда без визы или без работы. Возможно, виновной окажется сторона, взявшая на себя ответственность и привезшая их сюда? Наше правительство должно принять меры против таких людей. Я могу назвать вам и их имена, кто их привез, сколько людей они привезли, скольким людям не сделали визу, скольких людей не трудоустроили, где они их держат, у меня есть полная информация. На 70-80% я их всех знаю, потому что они звонят мне каждый день, рассказывают, если даже на улице встретят по дороге. Например, был такой Харис, его арестовали, дело человека по имени Шариф продолжается. Кроме того, есть люди по имени Асат и Али. Короче говоря, я могу назвать всех тех, кто привозил и подверг людей таким пыткам. Они привели сотни людей. Есть и наши граждане, с которыми они работают, Нурбек, Самат, еще двое-трое, но их немного. В основном сами граждане Бангладеш привезли их и оставили своих соотечественников в такой сложной ситуации».</p>
+
+<p>В Кыргызстане часто появляется информация о задержании нелегальных иностранных мигрантов или выявлении незаконных схем по их привлечению.</p>
+
+<p>В апреле правоохранительные органы заявили, что выявлены 37 иностранных граждан, незаконно находящихся в стране. Ранее в ГКНБ сообщили, что задержано более 130 мигрантов из Бангладеш и Пакистана. Выяснилось, что у 64 из них были просрочены миграционные документы.</p>
+
+<p>В первом квартале 2024 года выявлено 59 фактов нелегальной миграции. Заместитель министра внутренних дел Нурбек Абдиев сообщил, что по случаям незаконной миграции возбуждено 264 уголовных дела.</p>
+
+<p>Перевод с кыргызского, оригинал статьи <a class="wsw__a" href="https://www.azattyk.org/a/kyrgyzstan-myyzamsyz-migratsiyany-kantip-tyyat-/32935207.html">здесь </a></p>
+
+    </div>
+
+                            <div class="footer-toolbar">
+                            
+    <div class="share--box">
+                <div class="sticky-share-container" style="display:none">
+                    <div class="container">
+                        <a href="https://www.azattyqasia.org" id="logo-sticky-share">&nbsp;</a>
+                        <div class="pg-title pg-title--sticky-share">
+                            «Многих привезли обманным путем». Сможет ли Кыргызстан противостоять нелегальной миграции?
+                        </div>
+                        <div class="sticked-nav-actions">
+                            <!--This part is for sticky navigation display-->
+                            <aside class="content-sharing js-content-sharing js-content-sharing--apply-sticky content-sharing--sticky" role="complementary" 
+                                   data-share-url="https://www.azattyqasia.org/a/32937697.html" data-share-title="«Многих привезли обманным путем». Сможет ли Кыргызстан противостоять нелегальной миграции?" data-share-text="Правительство Кыргызстана увеличило на 50% квоту на привлечение иностранной рабочей силы в 2024 году.">
+                                <div class="content-sharing__popover">
+                                    <p class="content-sharing__title">Поделиться</p>
+                                    <button class="btn btn--text-like content-sharing__close-btn">
+                                        <span class="ico ico-close ico--l"></span>
+                                    </button>
+            <ul class="content-sharing__list">
+                    <li class="content-sharing__item">
+                            <div class="ctc ">
+                                <input type="text" class="ctc__input" readonly="readonly">
+                                <a href="" class="content-sharing__link ctc__button">
+                                    <span class="ico ico-copy-link ico--rounded ico--s"></span>
+                                        <span class="content-sharing__link-text">Скопировать ссылку</span>
+                                </a>
+                            </div>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.azattyqasia.org%2fa%2f32937697.html"
+           data-analytics-text="share_on_facebook"
+           title="Facebook" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-facebook ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">Facebook</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://twitter.com/share?url=https%3a%2f%2fwww.azattyqasia.org%2fa%2f32937697.html&amp;text=%c2%ab%d0%9c%d0%bd%d0%be%d0%b3%d0%b8%d1%85&#x2B;%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d0%b7%d0%bb%d0%b8&#x2B;%d0%be%d0%b1%d0%bc%d0%b0%d0%bd%d0%bd%d1%8b%d0%bc&#x2B;%d0%bf%d1%83%d1%82%d0%b5%d0%bc%c2%bb.&#x2B;%d0%a1%d0%bc%d0%be%d0%b6%d0%b5%d1%82&#x2B;%d0%bb%d0%b8&#x2B;%d0%9a%d1%8b%d1%80%d0%b3%d1%8b%d0%b7%d1%81%d1%82%d0%b0%d0%bd&#x2B;%d0%bf%d1%80%d0%be%d1%82%d0%b8%d0%b2%d0%be%d1%81%d1%82%d0%be%d1%8f%d1%82%d1%8c&#x2B;%d0%bd%d0%b5%d0%bb%d0%b5%d0%b3%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b9&#x2B;%d0%bc%d0%b8%d0%b3%d1%80%d0%b0%d1%86%d0%b8%d0%b8%3f"
+           data-analytics-text="share_on_twitter"
+           title="X (Twitter)" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-twitter ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">X (Twitter)</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-xs-inline-block visible-sm-inline-block">
+        <a href="whatsapp://send?text=https%3a%2f%2fwww.azattyqasia.org%2fa%2f32937697.html"
+           data-analytics-text="share_on_whatsapp"
+           title="WhatsApp" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-whatsapp ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">WhatsApp</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="mailto:?body=https%3a%2f%2fwww.azattyqasia.org%2fa%2f32937697.html&amp;subject=«Многих привезли обманным путем». Сможет ли Кыргызстан противостоять нелегальной миграции?"
+           
+           title="Email" 
+           class="content-sharing__link ">
+            <span class="ico ico-email ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">Email</span>
+        </a>
+                    </li>
+
+            </ul>
+                                </div>
+                            </aside>
+                            <p class="buttons link-content-sharing p-0">
+                                <button class="btn btn--link btn-content-sharing p-t-0" value="text" role="Button" type="" title="Поделиться">
+                                    <span class="ico ico-share"></span>
+                                    <span class="btn__text">
+                                        Поделиться
+                                    </span>
+                                </button>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="links"  data-smart-link-api=https://smarturl.click/link?key=A4nq7KCbDoo7-Sqp1kcjoztd4bmmjswF6wAlR1_wPI8&amp;type=short&amp;url=https%3a%2f%2fwww.azattyqasia.org%2fa%2f32937697.html>
+                        <aside class="content-sharing js-content-sharing " role="complementary" 
+                               data-share-url="https://www.azattyqasia.org/a/32937697.html" data-share-title="«Многих привезли обманным путем». Сможет ли Кыргызстан противостоять нелегальной миграции?" data-share-text="Правительство Кыргызстана увеличило на 50% квоту на привлечение иностранной рабочей силы в 2024 году.">
+                            <div class="content-sharing__popover">
+                                <p class="content-sharing__title">Поделиться</p>
+                                <button class="btn btn--text-like content-sharing__close-btn">
+                                    <span class="ico ico-close ico--l"></span>
+                                </button>
+            <ul class="content-sharing__list">
+                    <li class="content-sharing__item">
+                            <div class="ctc ">
+                                <input type="text" class="ctc__input" readonly="readonly">
+                                <a href="" class="content-sharing__link ctc__button">
+                                    <span class="ico ico-copy-link ico--rounded ico--l"></span>
+                                        <span class="content-sharing__link-text">Скопировать ссылку</span>
+                                </a>
+                            </div>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.azattyqasia.org%2fa%2f32937697.html"
+           data-analytics-text="share_on_facebook"
+           title="Facebook" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-facebook ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">Facebook</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://twitter.com/share?url=https%3a%2f%2fwww.azattyqasia.org%2fa%2f32937697.html&amp;text=%c2%ab%d0%9c%d0%bd%d0%be%d0%b3%d0%b8%d1%85&#x2B;%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d0%b7%d0%bb%d0%b8&#x2B;%d0%be%d0%b1%d0%bc%d0%b0%d0%bd%d0%bd%d1%8b%d0%bc&#x2B;%d0%bf%d1%83%d1%82%d0%b5%d0%bc%c2%bb.&#x2B;%d0%a1%d0%bc%d0%be%d0%b6%d0%b5%d1%82&#x2B;%d0%bb%d0%b8&#x2B;%d0%9a%d1%8b%d1%80%d0%b3%d1%8b%d0%b7%d1%81%d1%82%d0%b0%d0%bd&#x2B;%d0%bf%d1%80%d0%be%d1%82%d0%b8%d0%b2%d0%be%d1%81%d1%82%d0%be%d1%8f%d1%82%d1%8c&#x2B;%d0%bd%d0%b5%d0%bb%d0%b5%d0%b3%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b9&#x2B;%d0%bc%d0%b8%d0%b3%d1%80%d0%b0%d1%86%d0%b8%d0%b8%3f"
+           data-analytics-text="share_on_twitter"
+           title="X (Twitter)" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-twitter ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">X (Twitter)</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-xs-inline-block visible-sm-inline-block">
+        <a href="whatsapp://send?text=https%3a%2f%2fwww.azattyqasia.org%2fa%2f32937697.html"
+           data-analytics-text="share_on_whatsapp"
+           title="WhatsApp" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-whatsapp ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">WhatsApp</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="mailto:?body=https%3a%2f%2fwww.azattyqasia.org%2fa%2f32937697.html&amp;subject=«Многих привезли обманным путем». Сможет ли Кыргызстан противостоять нелегальной миграции?"
+           
+           title="Email" 
+           class="content-sharing__link ">
+            <span class="ico ico-email ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">Email</span>
+        </a>
+                    </li>
+
+            </ul>
+                            </div>
+                        </aside>
+                        <p class="buttons link-content-sharing p-0">
+                            <button class="btn btn--link btn-content-sharing p-t-0" value="text" role="Button" type="" title="Поделиться">
+                                <span class="ico ico-share"></span>
+                                <span class="btn__text">
+                                    Поделиться
+                                </span>
+                            </button>
+                        </p>
+                    <div class="buttons link-content-sharing p-0 ctc">
+    <div class="popover d-flex">
+        <input type="text" class="ctc__input" readonly="readonly">
+        <a class="btn btn--link btn-content-sharing ctc__button p-t-0 btn--smart-link" href="#" title="Поделиться без VPN">
+            <span class="ico ico-link"></span>
+            <span class="btn__text">Поделиться без VPN</span>
+        </a>
+        <span class="ico ico-info-filled m-l-sm smart-link-help"></span>
+        <div class="popover__holder">
+            <div class="popover__content">
+                <p>Эта ссылка открывает доступ даже там, где сайт заблокирован</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <aside class="content-sharing js-content-sharing follow-us" role="complementary">
+        <div class="content-sharing__popover">
+                <p class="content-sharing__title">Подпишитесь</p>
+            <button class="btn btn--text-like content-sharing__close-btn">
+                <span class="ico ico-close"></span>
+            </button>
+            <ul class="content-sharing__list link-content-sharing p-0">
+                            <li class="content-sharing__item ">
+                <a class="content-sharing__link " href="https://www.facebook.com/AzattyqAsia" title="Follow us on Facebook" data-analytics-text="follow_on_facebook"    target="_blank" rel="noopener">
+                    <span class="ico ico-facebook-alt ico--rounded"></span>
+                    <span class="content-sharing__link-text">Facebook</span>
+                </a>
+            </li>
+
+            <li class="content-sharing__item ">
+                <a class="content-sharing__link " href="https://x.com/RadioAzattyq" title="Follow us on X (Twitter)" data-analytics-text="follow_on_twitter"    target="_blank" rel="noopener">
+                    <span class="ico ico-twitter ico--rounded"></span>
+                    <span class="content-sharing__link-text">X (Twitter)</span>
+                </a>
+            </li>
+
+            <li class="content-sharing__item ">
+                <a class="content-sharing__link " href="https://www.youtube.com/@azattyqasia" title="Follow us on Youtube" data-analytics-text="follow_on_youtube"    target="_blank" rel="noopener">
+                    <span class="ico ico-youtube ico--rounded"></span>
+                    <span class="content-sharing__link-text">Youtube</span>
+                </a>
+            </li>
+
+            <li class="content-sharing__item ">
+                <a class="content-sharing__link " href="https://www.instagram.com/currenttimeasia/" title="Follow us on Instagram" data-analytics-text="follow_on_instagram"    target="_blank" rel="noopener">
+                    <span class="ico ico-instagram ico--rounded"></span>
+                    <span class="content-sharing__link-text">Instagram</span>
+                </a>
+            </li>
+
+
+            </ul>
+        </div>
+    </aside>
+    <p class="buttons link-content-sharing p-0">
+            <button class="btn btn--link btn-content-sharing p-t-0" value="text" role="Button" type="" title="Подпишитесь">
+            <span class="ico ico-bell"></span>
+            <span class="btn__text">
+                Подпишитесь
+            </span>
+        </button>
+    </p>
+
+<p class="link-print hidden-xs buttons p-0">
+    <button class="btn btn--link btn-print p-t-0" onclick="if (typeof FireAnalyticsTagEvent === 'function') {FireAnalyticsTagEvent({ on_page_event: 'print_story' });}return false" title="(CTRL&#x2B;P)">
+        <span class="ico ico-print"></span>
+        <span class="btn__text">Print</span>
+    </button>
+</p>
+
+                </div>
+    </div>
+
+
+                            </div>
+
+        <ul class="authors-highlights">
+        </ul>
+
+
+    <nav class="article-categories" aria-label="This item is part of">
+        <p class="section-head section-head--compact" aria-hidden="True">This item is part of</p>
+        <ul class="article-categories__list">
+                <li class="article-categories__item">
+                    <a class="article-categories__link" href="/z/365">
+                        <span class="article-categories__text">Экономика</span>
+                        </a>
+                </li>
+                <li class="article-categories__item">
+                    <a class="article-categories__link" href="/z/24074">
+                        <span class="article-categories__text">Архив Азаттыка Кыргызстан</span>
+                        </a>
+                </li>
+        </ul>
+    </nav>
+                        <div class="m-t-sm">
+
+    <div class="media-block-wrap">
+        <h2 class="section-head">Материалы по теме</h2>
+        <div class="row">
+            <ul>
+                
+    <li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+        <div class="media-block ">
+                <div class="media-block__content">
+                        <a href="/a/32786610.html" >
+        <h4 class="media-block__title media-block__title--size-4" title="«Мое имя трудно выговорить и все называли меня Джимми». Как живут индийцы в Бишкеке">
+            «Мое имя трудно выговорить и все называли меня Джимми». Как живут индийцы в Бишкеке
+        </h4>
+                        </a>
+                </div>
+        </div>
+    </li>
+
+
+    <li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+        <div class="media-block ">
+                <div class="media-block__content">
+                        <a href="/a/32217073.html" >
+        <h4 class="media-block__title media-block__title--size-4" title="Став «бизнесом», медицинское образование Кыргызстана потеряло в качестве? ">
+            Став «бизнесом», медицинское образование Кыргызстана потеряло в качестве? 
+        </h4>
+                        </a>
+                </div>
+        </div>
+    </li>
+
+
+    <li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+        <div class="media-block ">
+                <div class="media-block__content">
+                        <a href="/a/32020239.html" >
+        <h4 class="media-block__title media-block__title--size-4" title="Швейная отрасль: заказов много, но не хватает швей">
+            Швейная отрасль: заказов много, но не хватает швей
+        </h4>
+                        </a>
+                </div>
+        </div>
+    </li>
+
+
+    <li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+        <div class="media-block ">
+                <div class="media-block__content">
+                        <a href="/a/30567881.html" >
+        <h4 class="media-block__title media-block__title--size-4" title="В Ат-Баши предлагают ограничить даават">
+            В Ат-Баши предлагают ограничить даават
+        </h4>
+                        </a>
+                </div>
+        </div>
+    </li>
+
+
+            </ul>
+        </div>
+    </div>
+</div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>    </main>
+
+<a class="btn pos-abs p-0 lazy-scroll-load" data-ajax="true" data-ajax-cache="true" data-ajax-mode="replace" data-ajax-update="#ymla-section" data-ajax-url="/part/section/5/9523" href="/p/9523.html" loadonce="true" title="Вам будет интересно">​</a>
+
+<div id="ymla-section" class="clear ymla-section"></div>
+
+
+
+        </div>
+
+
+
+<footer role="contentinfo">
+    <div id="foot" class="foot">
+        <div class="container">
+                <div class="foot-nav collapsed" id="foot-nav">
+                    <div class="menu">
+                        <ul class="items">
+                                <li class="socials block-socials">
+                                        <span class="handler" id="socials-handler">
+                                            Подпишитесь на нас в соцсетях
+                                        </span>
+                                    <div class="inner">
+                                        <ul class="subitems follow">
+                                                <li>
+            <a href="https://www.youtube.com/@azattyqasia" title="Follow us on Youtube" data-analytics-text="follow_on_youtube" class="btn btn--rounded js-social-btn btn-youtube"  target="_blank" rel="noopener">
+                <span class="ico ico-youtube ico--rounded"></span>
+            </a>
+    </li>
+
+    <li>
+            <a href="https://www.instagram.com/currenttimeasia/" title="Follow us on Instagram" data-analytics-text="follow_on_instagram" class="btn btn--rounded js-social-btn btn-instagram"  target="_blank" rel="noopener">
+                <span class="ico ico-instagram ico--rounded"></span>
+            </a>
+    </li>
+
+    <li>
+            <a href="https://www.facebook.com/AzattyqAsia" title="Follow us on Facebook" data-analytics-text="follow_on_facebook" class="btn btn--rounded js-social-btn btn-facebook"  target="_blank" rel="noopener">
+                <span class="ico ico-facebook-alt ico--rounded"></span>
+            </a>
+    </li>
+
+    <li>
+            <a href="http://t.me/azattyqasia" title="Follow us on Telegram" data-analytics-text="follow_on_telegram" class="btn btn--rounded js-social-btn btn-telegram"  target="_blank" rel="noopener">
+                <span class="ico ico-telegram ico--rounded"></span>
+            </a>
+    </li>
+
+    <li>
+            <a href="https://whatsapp.com/channel/0029VaCqWrHElagsGmKjZD1M" title="Follow us on WhatsApp" data-analytics-text="follow_on_whatsapp" class="btn btn--rounded js-social-btn btn-whatsapp visible-xs-inline-block visible-sm-inline-block"  target="_blank" rel="noopener">
+                <span class="ico ico-whatsapp ico--rounded"></span>
+            </a>
+    </li>
+
+    <li>
+            <a href="https://whatsapp.com/channel/0029VaCqWrHElagsGmKjZD1M" title="Follow us on WhatsApp" data-analytics-text="follow_on_whatsapp_desktop" class="btn btn--rounded js-social-btn btn-whatsapp visible-md-inline-block visible-lg-inline-block"  target="_blank" rel="noopener">
+                <span class="ico ico-whatsapp ico--rounded"></span>
+            </a>
+    </li>
+
+    <li>
+            <a href="https://news.google.com/search?q=%D0%90%D0%B7%D0%B0%D1%82%D1%82%D1%8B%D0%BA%20%D0%90%D0%B7%D0%B8%D1%8F" title="Follow us on Google News" data-analytics-text="follow_on_google_news" class="btn btn--rounded js-social-btn btn-g-news"  target="_blank" rel="noopener">
+                <span class="ico ico-google-news ico--rounded"></span>
+            </a>
+    </li>
+
+    <li>
+            <a href="/rssfeeds" title="RSS" data-analytics-text="follow_on_rss" class="btn btn--rounded js-social-btn btn-rss" >
+                <span class="ico ico-rss ico--rounded"></span>
+            </a>
+    </li>
+
+
+                                        </ul>
+                                    </div>
+                                </li>
+
+    <li class="block-primary collapsed collapsible item">
+            <span class="handler">
+                Выходные данные
+                <span title="close tab" class="ico ico-chevron-up"></span>
+                <span title="open tab" class="ico ico-chevron-down"></span>
+                <span title="add" class="ico ico-plus"></span>
+                <span title="remove" class="ico ico-minus"></span>
+            </span>
+            <div class="inner">
+                <ul class="subitems">
+                    
+    <li class="subitem">
+        <a class="handler" href="/about-us" title="О нас" >О нас</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="/contact-us" title="Контакты" >Контакты</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="/p/8614.html" title="Как обойти блокировку?" >Как обойти блокировку?</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="/p/4470.html" title="Правила пользования" >Правила пользования</a>
+    </li>
+
+                </ul>
+            </div>
+    </li>
+
+    <li class="block-primary collapsed collapsible item">
+            <span class="handler">
+                Основные рубрики
+                <span title="close tab" class="ico ico-chevron-up"></span>
+                <span title="open tab" class="ico ico-chevron-down"></span>
+                <span title="add" class="ico ico-plus"></span>
+                <span title="remove" class="ico ico-minus"></span>
+            </span>
+            <div class="inner">
+                <ul class="subitems">
+                    
+    <li class="subitem">
+        <a class="handler" href="/z/360" title="Новости" >Новости</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="/p/6585.html" title="Центральная Азия" >Центральная Азия</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="/z/364" title="Политика" >Политика</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="/z/367" title="Социум" >Социум</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="/z/7649" title="Права человека" >Права человека</a>
+    </li>
+
+                </ul>
+            </div>
+    </li>
+
+    <li class="block-secondary collapsed collapsible item">
+            <span class="handler">
+                Страны региона
+                <span title="close tab" class="ico ico-chevron-up"></span>
+                <span title="open tab" class="ico ico-chevron-down"></span>
+                <span title="add" class="ico ico-plus"></span>
+                <span title="remove" class="ico ico-minus"></span>
+            </span>
+            <div class="inner">
+                <ul class="subitems">
+                    
+    <li class="subitem">
+        <a class="handler" href="/z/370" title="Казахстан" >Казахстан</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="/z/23725" title="Кыргызстан" >Кыргызстан</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="/z/23726" title="Таджикистан" >Таджикистан</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="/z/23728" title="Туркменистан" >Туркменистан</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="/z/23727" title="Узбекистан" >Узбекистан</a>
+    </li>
+
+                </ul>
+            </div>
+    </li>
+                        </ul>
+                    </div>
+                </div>
+            <div class="foot__item foot__item--copyrights">
+                <p class="copyright">Азаттык Азия © 2026 RFE/RL, Inc. | Все права защищены.</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+    </div>
+</div>
+        <script defer src="/Scripts/responsive/serviceWorkerInstall.js?cb=395"></script>
+    <script type="text/javascript">
+
+        // opera mini - disable ico font
+        if (navigator.userAgent.match(/Opera Mini/i)) {
+            document.getElementsByTagName("body")[0].className += " can-not-ff";
+        }
+
+        // mobile browsers test
+        if (typeof RFE !== 'undefined' && RFE.isMobile) {
+            if (RFE.isMobile.any()) {
+                document.getElementsByTagName("body")[0].className += " is-mobile";
+            }
+            else {
+                document.getElementsByTagName("body")[0].className += " is-not-mobile";
+            }
+        }
+    </script>
+    <script src="/conf.js?x=395" type="text/javascript"></script>
+        <div class="responsive-indicator">
+            <div class="visible-xs-block">XS</div>
+            <div class="visible-sm-block">SM</div>
+            <div class="visible-md-block">MD</div>
+            <div class="visible-lg-block">LG</div>
+        </div>
+        <script type="text/javascript">
+            var bar_data = {
+  "apiId": "32937697",
+  "apiType": "1",
+  "isEmbedded": "0",
+  "culture": "ru-KZ",
+  "cookieName": "cmsLoggedIn",
+  "cookieDomain": "www.azattyqasia.org"
+};
+        </script>
+    
+    
+
+
+
+    <div id="scriptLoaderTarget" style="display:none;contain:strict;"></div>
+
+</body>
+</html>
+

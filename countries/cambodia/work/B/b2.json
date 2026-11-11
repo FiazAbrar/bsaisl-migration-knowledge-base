@@ -1,0 +1,453 @@
+{
+"prefix": "B",
+"facts": [
+{
+"n": "oep-clearance-kh-2022",
+"c": "BMET cleared 368 workers for Cambodia in 2022 (OEP country-clearance report)",
+"q": "Cambodia all workers 2022: total_employee 368",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2023",
+"c": "BMET cleared 1,378 workers for Cambodia in 2023 (OEP country-clearance report)",
+"q": "Cambodia all workers 2023: total_employee 1378",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2024",
+"c": "BMET cleared 929 workers for Cambodia in 2024 (OEP country-clearance report)",
+"q": "Cambodia all workers 2024: total_employee 929",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2025",
+"c": "BMET cleared 12,263 workers for Cambodia in 2025 (OEP country-clearance report)",
+"q": "Cambodia all workers 2025: total_employee 12263",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2026",
+"c": "BMET cleared 3,700 workers for Cambodia from 1 January to 10 November 2026",
+"q": "Cambodia all workers 2026: total_employee 3700",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2022-women",
+"c": "BMET cleared 0 women for Cambodia in 2022",
+"q": "Cambodia women 2022: total_employee 0",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2023-women",
+"c": "BMET cleared 1 women for Cambodia in 2023",
+"q": "Cambodia women 2023: total_employee 1",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2024-women",
+"c": "BMET cleared 1 women for Cambodia in 2024",
+"q": "Cambodia women 2024: total_employee 1",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2025-women",
+"c": "BMET cleared 1 women for Cambodia in 2025",
+"q": "Cambodia women 2025: total_employee 1",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2026-women",
+"c": "BMET cleared 2 women for Cambodia from 1 January to 10 November 2026",
+"q": "Cambodia women 2026: total_employee 2",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2023-monthly",
+"c": "BMET cleared 429 workers for Cambodia in June 2023 (the 2023 peak month)",
+"q": "2023-06-01 to 2023-06-30: Cambodia total_employee 429",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2023-monthly",
+"c": "BMET cleared 0 workers for Cambodia in July 2023",
+"q": "2023-07-01 to 2023-07-31: Cambodia total_employee 0",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2023-monthly",
+"c": "BMET cleared 0 workers for Cambodia in September 2023",
+"q": "2023-09-01 to 2023-09-30: Cambodia total_employee 0",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2023-monthly",
+"c": "BMET cleared 0 workers for Cambodia in October 2023",
+"q": "2023-10-01 to 2023-10-31: Cambodia total_employee 0",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2024-monthly",
+"c": "BMET cleared 209 workers for Cambodia in January 2024 (the 2024 peak month)",
+"q": "2024-01-01 to 2024-01-31: Cambodia total_employee 209",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2024-monthly",
+"c": "BMET cleared 9 workers for Cambodia in July 2024",
+"q": "2024-07-01 to 2024-07-31: Cambodia total_employee 9",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2025-monthly",
+"c": "BMET cleared 116 workers for Cambodia in January 2025",
+"q": "2025-01-01 to 2025-01-31: Cambodia total_employee 116",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2025-monthly",
+"c": "BMET cleared 512 workers for Cambodia in August 2025",
+"q": "2025-08-01 to 2025-08-31: Cambodia total_employee 512",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2025-monthly",
+"c": "BMET cleared 1,469 workers for Cambodia in September 2025",
+"q": "2025-09-01 to 2025-09-30: Cambodia total_employee 1469",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2025-monthly",
+"c": "BMET cleared 3,235 workers for Cambodia in October 2025 (the all-time peak month)",
+"q": "2025-10-01 to 2025-10-31: Cambodia total_employee 3235",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2025-monthly",
+"c": "BMET cleared 2,469 workers for Cambodia in November 2025",
+"q": "2025-11-01 to 2025-11-30: Cambodia total_employee 2469",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2025-monthly",
+"c": "BMET cleared 2,550 workers for Cambodia in December 2025",
+"q": "2025-12-01 to 2025-12-31: Cambodia total_employee 2550",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2026-monthly",
+"c": "BMET cleared 2,223 workers for Cambodia in January 2026",
+"q": "2026-01-01 to 2026-01-31: Cambodia total_employee 2223",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2026-monthly",
+"c": "BMET cleared 674 workers for Cambodia in February 2026",
+"q": "2026-02-01 to 2026-02-28: Cambodia total_employee 674",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2026-monthly",
+"c": "BMET cleared 607 workers for Cambodia in March 2026",
+"q": "2026-03-01 to 2026-03-31: Cambodia total_employee 607",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2026-monthly",
+"c": "BMET cleared 102 workers for Cambodia in April 2026",
+"q": "2026-04-01 to 2026-04-30: Cambodia total_employee 102",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2026-monthly",
+"c": "BMET cleared 52 workers for Cambodia in May 2026",
+"q": "2026-05-01 to 2026-05-31: Cambodia total_employee 52",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2026-monthly",
+"c": "BMET cleared 2 workers for Cambodia in June 2026",
+"q": "2026-06-01 to 2026-06-30: Cambodia total_employee 2",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2026-monthly",
+"c": "BMET cleared 17 workers for Cambodia in July 2026",
+"q": "2026-07-01 to 2026-07-31: Cambodia total_employee 17",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2026-monthly",
+"c": "BMET cleared 16 workers for Cambodia in August 2026",
+"q": "2026-08-01 to 2026-08-31: Cambodia total_employee 16",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2026-monthly",
+"c": "BMET cleared 7 workers for Cambodia in September 2026",
+"q": "2026-09-01 to 2026-09-30: Cambodia total_employee 7",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2026-monthly",
+"c": "BMET cleared 0 workers for Cambodia in October 2026",
+"q": "2026-10-01 to 2026-10-31: Cambodia total_employee 0",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2026-monthly",
+"c": "BMET cleared no workers for Cambodia from 1 to 10 November 2026",
+"q": "2026-11-01 to 2026-11-10: Cambodia total_employee 0",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2023-by-job",
+"c": "947 Cambodia clearances in 2023 were recorded under the job title 'Worker'",
+"q": "Cambodia | Worker | 947",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2023-by-job",
+"c": "192 Cambodia clearances in 2023 were recorded under the job title 'Labour'",
+"q": "Cambodia | Labour | 192",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2023-by-job",
+"c": "120 Cambodia clearances in 2023 were recorded under the job title 'Construction Worker'",
+"q": "Cambodia | Construction Worker | 120",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2023-by-job",
+"c": "72 Cambodia clearances in 2023 were recorded under the job title 'Concrete Worker'",
+"q": "Cambodia | Concrete Worker | 72",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2024-by-job",
+"c": "445 Cambodia clearances in 2024 were recorded under the job title 'Worker'",
+"q": "Cambodia | Worker | 445",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2024-by-job",
+"c": "439 Cambodia clearances in 2024 were recorded under the job title 'Construction Worker'",
+"q": "Cambodia | Construction Worker | 439",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2025-by-job",
+"c": "3,428 Cambodia clearances in 2025 were recorded under the job title 'Construction Worker'",
+"q": "Cambodia | Construction Worker | 3428",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2025-by-job",
+"c": "2,849 Cambodia clearances in 2025 were recorded under the job title 'Construction Labour'",
+"q": "Cambodia | Construction Labour | 2849",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2025-by-job",
+"c": "1,456 Cambodia clearances in 2025 were recorded under the job title 'A Builder'",
+"q": "Cambodia | A Builder | 1456",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2025-by-job",
+"c": "1,081 Cambodia clearances in 2025 were recorded under the job title 'Building / Construction Helper'",
+"q": "Cambodia | Building / Construction Helper | 1081",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2025-by-job",
+"c": "678 Cambodia clearances in 2025 were recorded under the job title 'Cleaner'",
+"q": "Cambodia | Cleaner | 678",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2025-by-job",
+"c": "429 Cambodia clearances in 2025 were recorded under the job title 'A Casual Worker'",
+"q": "Cambodia | A Casual Worker | 429",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2025-by-job",
+"c": "388 Cambodia clearances in 2025 were recorded under the job title 'Production Manager'",
+"q": "Cambodia | Production Manager | 388",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2025-by-job",
+"c": "300 Cambodia clearances in 2025 were recorded under the job title 'Quality Controller'",
+"q": "Cambodia | Quality Controller | 300",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2025-by-job",
+"c": "250 Cambodia clearances in 2025 were recorded under the job title 'Concrete Foreman'",
+"q": "Cambodia | Concrete Foreman | 250",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2025-by-job",
+"c": "230 Cambodia clearances in 2025 were recorded under the job title 'Coiling machine operator'",
+"q": "Cambodia | Coiling machine operator | 230",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2025-by-job",
+"c": "30 Cambodia clearances in 2025 were recorded under the job title 'Interpreter'",
+"q": "Cambodia | Interpreter | 30",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2025-by-job",
+"c": "20 Cambodia clearances in 2025 were recorded under the job title 'Garment Production Manager'",
+"q": "Cambodia | Garment Production Manager | 20",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2025-by-job",
+"c": "24 Cambodia clearances in 2025 were recorded under the job title 'Farm Worker'",
+"q": "Cambodia | Farm Worker | 24",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2026-by-job",
+"c": "736 Cambodia clearances in 2026 (to 10 Nov) were recorded under the job title 'A Casual Worker'",
+"q": "Cambodia | A Casual Worker | 736",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2026-by-job",
+"c": "580 Cambodia clearances in 2026 (to 10 Nov) were recorded under the job title 'Farm Worker'",
+"q": "Cambodia | Farm Worker | 580",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2026-by-job",
+"c": "390 Cambodia clearances in 2026 (to 10 Nov) were recorded under the job title 'A Builder'",
+"q": "Cambodia | A Builder | 390",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2026-by-job",
+"c": "349 Cambodia clearances in 2026 (to 10 Nov) were recorded under the job title 'Building / Construction Helper'",
+"q": "Cambodia | Building / Construction Helper | 349",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2026-by-job",
+"c": "335 Cambodia clearances in 2026 (to 10 Nov) were recorded under the job title 'Pipe Fitting Labour'",
+"q": "Cambodia | Pipe Fitting Labour | 335",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2026-by-job",
+"c": "283 Cambodia clearances in 2026 (to 10 Nov) were recorded under the job title 'Construction Labour'",
+"q": "Cambodia | Construction Labour | 283",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2026-by-job",
+"c": "269 Cambodia clearances in 2026 (to 10 Nov) were recorded under the job title 'Cleaner'",
+"q": "Cambodia | Cleaner | 269",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2026-by-job",
+"c": "250 Cambodia clearances in 2026 (to 10 Nov) were recorded under the job title 'Agriculture Labour'",
+"q": "Cambodia | Agriculture Labour | 250",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2026-by-job",
+"c": "145 Cambodia clearances in 2026 (to 10 Nov) were recorded under the job title 'Production Manager'",
+"q": "Cambodia | Production Manager | 145",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2026-by-job",
+"c": "100 Cambodia clearances in 2026 (to 10 Nov) were recorded under the job title 'Drawing machine operator'",
+"q": "Cambodia | Drawing machine operator | 100",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2026-by-job",
+"c": "25 Cambodia clearances in 2026 (to 10 Nov) were recorded under the job title 'Agent'",
+"q": "Cambodia | Agent | 25",
+"d": "2026-11-11",
+"s": "verified"
+},
+{
+"n": "oep-clearance-kh-2025-by-job",
+"c": "OEP lists 35 job categories for Cambodia clearances in 2025",
+"q": "Sum of categories: 12263; categories listed: 35",
+"d": "2026-11-11",
+"s": "verified"
+}
+]
+}

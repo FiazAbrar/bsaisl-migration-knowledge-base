@@ -1,0 +1,238 @@
+
+
+Obtaining a work permit in the territory of the Kyrgyz Republic - The Ministry of Foreign Affairs of the Kyrgyz Republic
+
+Black and white mode
+
+Hide image
+
+А –
+
+А
+
+А +
+
+                    Regular version                
+
+                    Hide                
+
+кыр
+
+рус
+
+en
+
+                                version for the vissually impaired                            
+
+                                The Ministry of Foreign Affairs of the
+
+                                Kyrgyz Republic                            
+
+кыр
+
+рус
+
+en
+
+                                            version for the vissually impaired                                        
+
+Main site
+
+/
+
+Consular Services
+
+/
+
+Visa issues
+
+/
+
+Issues of extending visas to foreign nationals
+
+/
+
+Obtaining a work permit in the territory of the Kyrgyz Republic
+
+                            Obtaining a work permit in the territory of the Kyrgyz Republic                        
+
+19/01/2019
+
+To obtain a permit to attract foreign labor, applicants should contact the State Migration Service under the Government of the Kyrgyz Republic
+
+Step 1. To apply in person or through your authorized representative;
+
+Step 2. Registration of the application, issuance of a receipt for the acceptance of documents;
+
+Step 3. The meeting of the Interdepartmental Permitting Commission to consider applications to obtain a quota for attracting foreign labor;
+
+In case of a positive decision
+
+In case of a negative decision
+
+Step 4. Pay the state fee
+
+Step 4. Get a written notice of the decision taken, indicating the reason for the refusal within 5 business days
+.
+
+Step 5. Obtain a permit to attract foreign labor
+
+Services for receipt and consideration provided by the State Migration Service under the Government of the Kyrgyz Republic are free of charge.
+
+Consultations on issues of attracting foreign labor are carried out by employees of the Department for Work with Foreign Citizens of the State Migration Service under the Government of the Kyrgyz Republic by phone +996 312 30-11-17.
+
+A fee established by the Government of the Kyrgyz Republic (Decree No. 754 of the Government of the Kyrgyz Republic as of October 31, 2006) is charged for the issuance of permits.
+
+Obtaining a work permit by a foreign individual entrepreneur:
+
+Step 1. To file an application on the basis of a patent certified by the Tax Service of the Kyrgyz Republic with an advance payment of 3 months;
+
+Step 2. Registration of the application, issuance of a receipt for the acceptance of documents;
+
+Step 3. Submission of the original state duty payment slip for a work permit to the State Migration Service under the Government of the Kyrgyz Republic.
+
+Step 4. Obtaining a work permit.
+
+Services for receipt and consideration provided by the Migration Service are free of charge
+.
+
+Consultations on issues of attracting foreign labor are carried out by employees of the Department for Work with Foreign Citizens of the Service by phone 0312 301117
+.
+
+A fee established by the Government of the Kyrgyz Republic. (Decree No.754 of the Government of the Kyrgyz Republic as of October 31, 2006) is charged for the issuance of permits
+. 
+
+Note:
+
+The state duty for obtaining permits for labor activities is carried out after consideration of applications by the Interdepartmental Permitting Commission
+
+E-mail for applications and forms: 
+migration@ssm.gov.kg
+
+For enquiries, call: 0312 30-11-17
+
+Instructions on the Submission of Documents for Obtaining a Permit to Attract Foreign Labour in Electronic Form
+.
+
+General Provisions
+
+1.1. 
+This document has been developed in order to implement Order No. 21-
+ни
+ of the State Migration Service under the Government of the Kyrgyz Republic dated January 25, 2018, providing for the possibility of submitting documents to the State Migration Service under the Government of the Kyrgyz Republic (hereinafter referred to as the “SMS”) in electronic form via e-mail
+.
+
+1.2. 
+This document determines the procedure for preparing and sending documents in electronic form to the SMS for registration of work permits for foreign citizens on the territory of the Kyrgyz Republic, and also regulates the procedure for feedback between them
+.
+
+1.3. 
+In order to ensure compliance with the basic requirements of the legislation on electronic documents, the relationship between the Applicants and the SMS will be based on the use of electronic digital signature (EDS). Using EDS allows to regulate and establish the rights, duties and responsibilities of participants in legal relations arising in the field of electronic document management
+.
+
+Note: 
+EDS is issued by organizations that issue certificates of electronic signature verification keys for use in public information systems in accordance with the Law of the Kyrgyz Republic “On Electronic Digital Signatures” and by accredited certification centers.
+
+List of Accredited Certification Centres:
+
+ “
+InfoCOM» SE
+
+“UTR” LLC
+
+“
+DosTech
+”
+ LLC
+
+Preparation of Documents for Submission in Electronic Form
+
+2.1. 
+Documents are sent to the SMS through any email service (mail.ru, yandex.ru, gmail.com, yahoo.com, etc.), as well as through the use of corporate mail services
+.
+
+2.2. 
+To submit documents in electronic form, they must be converted into electronic form using scanning tools (electronic documents in the form of files with images of documents scanned from paper)
+.
+
+2.3. 
+All documents must be scanned in PDF format ensuring the preservation of all authentic signs, namely: a graphic signature of a person, a seal, an angular form stamp, outgoing number and date of application, etc
+.
+
+2.4. 
+Each single document must be scanned and uploaded into the document filing system as a separate file (documents containing several sheets are scanned into one file)
+.
+
+2.5. 
+The number of files should correspond to the number of documents submitted for consideration, and the name of the file should allow to identify the document and the number of pages in the document (for example: Employment Contract.3sheets.pdf)
+.
+
+2.6. 
+Scanning of images of documents is carried out taking into account the preservation of all authentic, namely: graphic signature of the person, seal, corner form stamp, outgoing number and date of application, etc
+.
+
+2.7. 
+In accordance with the Order of SMS, scans of the following documents are submitted for consideration
+:
+
+a) Documents for Obtaining a Permit to Attract and Use Foreign Labour:
+
+Application for the Attraction and Use of Foreign Labour on the form (of a standard pattern);
+
+Certificate of state registration (notarized copy);
+
+License to carry out activities with the relevant appendices (in the case of licensed activities);
+
+b) Documents for Obtaining a Work Permit (Personal cards):
+
+An application with personal data of a foreign worker on a form (of a standard pattern);
+
+A notarized translation of a copy of a passport of a foreign citizen with a valid visa (I, W1 category) or registration;
+
+A copy of the diploma (notarized translation) of education (in the field of education, medicine, pharmaceuticals and law);
+
+A medical certificate of a blood test for HIV - infection of an international standard (Republican AIDS Center in Bishkek, at: 8, Logvinenko Street, crosses Bokonbaev Street);
+
+Matte color photo cards with a corner on a white background (3x4 in size, JPEG format (resolution 300 dpi) 1 pcs.;
+
+2.8. 
+Files scanned from paper sent for consideration are signed with an electronic digital signature (EDS) of the Applicant, and encrypted with the SMS public key posted on the official website of the agency 
+www.ssm.gov.kg
+. The indicated files signed by EDS are packed into an archive file (hereinafter referred to as the transport container)
+.
+
+2.9. The created files are sent to the SMS to the email address (indicating “Foreign Labour – name of organization” in the subject line): migration@ssm.gov.kg.
+
+2.10. One application is sent in one letter (from one company). In the case of filing applications of several companies, it is necessary to send to the indicated e-mail address the corresponding number of letters, each of which should contain a complete set of documents.
+
+See the procedure for signing documents with EDS in another instruction.
+
+Feedback to the Applicant
+
+3.1. After sending the documents in electronic form, a message containing a unique number confirming the delivery of electronic documents to the SMS system is sent to the Sender’s address. The unique number must be saved (recorded, copied to a text editor, etc.).
+
+3.2. If a unique number is indicated in Clause 3.1 of this document when applying, the applicant will be able to receive information about the passage of electronic documents in SMS.
+
+3.2. If the transport container does not meet the requirements of the format-logical control established by the SMS, a message will be sent to the applicant by e-mail containing information about the non-compliance found. The transport container is not sent for further processing.
+
+3.3. Not later than the working day following the day of receipt of electronic documents when the documents are complete, the File (message) with a receipt on the acceptance of electronic documents is sent to the applicant by e-mail.
+
+3.4. The decision based on the results of the consideration is sent to the applicant by e-mail.
+
+This information was taken from the official website of the State Migration Service under the Government of the Kyrgyz Republic. You can find detailed information on the official website of the State Migration Service under the Government of the Kyrgyz Republic at the following link: 
+www.ssm.gov.kg/
+
+                                    The Ministry of Foreign Affairs of the
+
+                                    Kyrgyz Republic                                
+
+Helpline
+
+                +996 (312) 62-50-88            
+
+Hotline for Kyrgyzstan citizens abroad
+
+                +996 999 31-20-02 (Whatsapp)            
+
+                    © 2025 Официальный сайт МИД Кыргызской Республики. Все Права Защищены.                    
+

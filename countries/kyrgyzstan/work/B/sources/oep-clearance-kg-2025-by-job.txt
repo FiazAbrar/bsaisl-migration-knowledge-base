@@ -1,0 +1,64 @@
+# OEP country-clearance report, Kyrgyzstan (country_id 94), by job category, 2025-01-01 to 2025-12-31, queried 2026-11-10
+Sum of categories: 6652; categories listed: 60
+Kyrgyzstan | Worker | 2356
+Kyrgyzstan | Sewing Equipment Operator | 874
+Kyrgyzstan | A Casual Worker | 649
+Kyrgyzstan | Garments Worker | 646
+Kyrgyzstan | General Labour | 555
+Kyrgyzstan | Swing Line Checker | 522
+Kyrgyzstan | Operator | 282
+Kyrgyzstan | Tailor | 117
+Kyrgyzstan | Automatic Slitter Operator | 117
+Kyrgyzstan | Factory Worker | 63
+Kyrgyzstan | Labour | 57
+Kyrgyzstan | BMS Operator | 55
+Kyrgyzstan | Embroidery/Tailor | 46
+Kyrgyzstan | General/Unskilled Workers | 39
+Kyrgyzstan | Seamstress | 28
+Kyrgyzstan | Construction Worker | 26
+Kyrgyzstan | Sewing Operator(Female) | 25
+Kyrgyzstan | Swing operator | 24
+Kyrgyzstan | Machine Operator | 23
+Kyrgyzstan | Generator Labour | 19
+Kyrgyzstan | Agriculture Labour | 17
+Kyrgyzstan | Agent | 13
+Kyrgyzstan | ANY JOB | 11
+Kyrgyzstan | Coiling machine operator | 11
+Kyrgyzstan | 1st Commis(Kitchen) | 8
+Kyrgyzstan | Germents Manufacturing | 6
+Kyrgyzstan | Frameworker | 5
+Kyrgyzstan | Sewing line chef in charge | 4
+Kyrgyzstan | Orderly(Med) | 4
+Kyrgyzstan | Brick Worker | 4
+Kyrgyzstan | General Labour (Junior) | 3
+Kyrgyzstan | Auto Labour | 3
+Kyrgyzstan | CPE Operator | 3
+Kyrgyzstan | General Doctor | 2
+Kyrgyzstan | Core Worker | 2
+Kyrgyzstan | Garments Packer (Male) | 2
+Kyrgyzstan | Gas Worker | 2
+Kyrgyzstan | General/SemiSkill | 2
+Kyrgyzstan | Manager | 2
+Kyrgyzstan | Operator/Forklift truck | 2
+Kyrgyzstan | Teacher | 2
+Kyrgyzstan | Technician | 2
+Kyrgyzstan | Duct Worker | 2
+Kyrgyzstan | Orderly(CSU) | 1
+Kyrgyzstan | Skilled Worker | 1
+Kyrgyzstan | Swear | 1
+Kyrgyzstan | Loader | 1
+Kyrgyzstan | General Health Specialist | 1
+Kyrgyzstan | Coiling Machine Operator | 1
+Kyrgyzstan | Assistant Manager | 1
+Kyrgyzstan | Watchman | 1
+Kyrgyzstan | Welder Assistant | 1
+Kyrgyzstan | Cutter | 1
+Kyrgyzstan | Workshop Labour | 1
+Kyrgyzstan | General Assistant | 1
+Kyrgyzstan | Window & Glass factory assistant worker | 1
+Kyrgyzstan | Concrete Worker | 1
+Kyrgyzstan | Seaman | 1
+Kyrgyzstan | Sewer | 1
+Kyrgyzstan | Salesman | 1
+https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=200&approval_date_from=2025-01-01&approval_date_to=2025-12-31&country_id%5B%5D=94&gender_id=&all_skills=1
+{"success":true,"code":null,"payload":{"data":[{"country_id":94,"country_name":"Kyrgyzstan","total_employee":2356,"category_name":"Worker"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":874,"category_name":"Sewing Equipment Operator"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":649,"category_name":"A Casual Worker"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":646,"category_name":"Garments Worker"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":555,"category_name":"General Labour"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":522,"category_name":"Swing Line Checker"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":282,"category_name":"Operator"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":117,"category_name":"Tailor"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":117,"category_name":"Automatic Slitter Operator"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":63,"category_name":"Factory Worker"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":57,"category_name":"Labour"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":55,"category_name":"BMS Operator"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":46,"category_name":"Embroidery\/Tailor"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":39,"category_name":"General\/Unskilled Workers"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":28,"category_name":"Seamstress"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":26,"category_name":"Construction Worker"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":25,"category_name":"Sewing Operator(Female)"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":24,"category_name":"Swing operator"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":23,"category_name":"Machine Operator"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":19,"category_name":"Generator Labour"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":17,"category_name":"Agriculture Labour"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":13,"category_name":"Agent"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":11,"category_name":"ANY JOB"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":11,"category_name":"Coiling machine operator"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":8,"category_name":"1st Commis(Kitchen)"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":6,"category_name":"Germents Manufacturing"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":5,"category_name":"Frameworker"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":4,"category_name":"Sewing line chef in charge"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":4,"category_name":"Orderly(Med)"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":4,"category_name":"Brick Worker"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":3,"category_name":"General Labour (Junior)"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":3,"category_name":"Auto Labour"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":3,"category_name":"CPE Operator"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":2,"category_name":"General Doctor"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":2,"category_name":"Core Worker"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":2,"category_name":"Garments Packer (Male)"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":2,"category_name":"Gas Worker"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":2,"category_name":"General\/SemiSkill"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":2,"category_name":"Manager"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":2,"category_name":"Operator\/Forklift truck"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":2,"category_name":"Teacher"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":2,"category_name":"Technician"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":2,"category_name":"Duct Worker"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1,"category_name":"Orderly(CSU)"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1,"category_name":"Skilled Worker"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1,"category_name":"Swear"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1,"category_name":"Loader"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1,"category_name":"General Health Specialist"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1,"category_name":"Coiling Machine Operator"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1,"category_name":"Assistant Manager"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1,"category_name":"Watchman"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1,"category_name":"Welder Assistant"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1,"category_name":"Cutter"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1,"category_name":"Workshop Labour"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1,"category_name":"General Assistant"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1,"category_name":"Window & Glass factory assistant worker"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1,"category_name":"Concrete Worker"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1,"category_name":"Seaman"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1,"category_name":"Sewer"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1,"category_name":"Salesman"}],"recordsTotal":60,"recordsFiltered":60,"totalEmployee":6652},"type":"success","fade":false}

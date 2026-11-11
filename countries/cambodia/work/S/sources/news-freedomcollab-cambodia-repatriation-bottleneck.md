@@ -1,0 +1,213 @@
+[](/)
+
+- 
+
+  [WHO WE ARE](/about-us)
+  WHO WE ARE
+
+- 
+
+  Our work
+
+- 
+
+  [Latest](/latest)
+  Latest
+
+[PARTNER WITH US](mailto:contact@freedomcollaborative.org)
+
+Article
+
+/
+
+Asia
+
+/
+
+Trafficking for Forced Criminality
+
+# Addressing the Repatriation Bottleneck in Cambodia’s Cyber-Scam Response
+
+March 31, 2026
+
+8 min read
+
+![](https://cdn.prod.website-files.com/667176223287549441a4e0ad/6a27efcc243571aeec38841f_69ce2a1034dee5eada2c540c_Global-Newsletter-310426%20-%20Edited.jpg)
+
+### Drawing on frontline insights from civil society responders, Freedom Collaborative’s first [briefing paper](https://freedomcollaborative.app.box.com/s/qq7j3h3x5t6zfv6ca4chgr67xusti836) of the series examines how recent enforcement actions against cyber-scam compounds in Cambodia are reshaping the response landscape. While increased enforcement has enabled more individuals to leave exploitative environments, frontline insights reveal a more complex reality: response efforts are not keeping pace with conditions on the ground. What is emerging is not a protection gap in principle, but a capacity bottleneck in practice.
+
+------------------------------------------------------------------------
+
+Civil society partners estimate that thousands of individuals have exited scam compounds in recent months, including nationals from Southeast Asia, South Asia, and Africa. Practitioners report that African nationals now represent the largest group of those stranded without viable pathways for return.
+
+However, many individuals leaving exploitation are not formally identified as victims of trafficking. In the absence of consistent identification frameworks, they are instead classified as immigration violators or deportees. This has immediate consequences. Without victim status, individuals cannot access support from organizations such as the International Organization for Migration, including assistance for return travel, and are expected to arrange their own departure.
+
+At the same time, practitioners emphasize that current responses remain focused on the removal of foreign nationals, rather than their identification and protection as victims. As a result, enforcement gains are not consistently translating into protection outcomes.
+
+#### **Civil society as the de facto response system**
+
+As more individuals leave compounds, the burden of response is increasingly falling on civil society actors operating with limited resources. In many cases, these organizations are not simply supporting the system. They are the system.
+
+Survivors often exit without passports, financial resources, or legal status, and must rely on a small number of civil society organizations and individual responders to coordinate support. Practitioners describe managing large, multi-national caseloads while continuing to receive requests from individuals still inside compounds.
+
+With extremely limited formal shelter capacity available, many survivors are accommodated through informal arrangements or remain in precarious conditions, including on the streets, without consistent access to food, healthcare, or basic services. At the same time, responders report operating in an increasingly constrained environment, where individuals leaving compounds are sometimes treated as having engaged in criminal activity. This discourages assistance and complicates service provision.
+
+Coordination between authorities, embassies, and service providers remains fragmented, further limiting the ability to respond at scale.
+
+#### **Repatriation as the central bottleneck**
+
+Repatriation has emerged as the most significant barrier within the current response. Many survivors are required to arrange and fund their own return travel despite leaving exploitative environments without financial means. Governments are generally not covering repatriation costs, and no coordinated funding mechanism exists to support large-scale returns.
+
+Visa overstay waivers are often granted on a time-limited basis, in some cases requiring departure within days, creating urgent pressure. At the same time, flight availability remains limited and costs have increased significantly, with tickets to some destinations, particularly in Africa, exceeding \$2,000. These constraints make departure unattainable for many, even when documentation is secured.
+
+The impact is uneven. Survivors from countries such as Ghana, Uganda, and Kenya face limited consular support and few viable return pathways, while others, including nationals of Brazil, Ecuador, and the Philippines, have benefited from more coordinated repatriation efforts.
+
+#### **Displacement without disruption**
+
+Despite visible enforcement activity, there is limited evidence that criminal networks are being dismantled. Practitioners report continued adaptation, including the relocation of workers, infrastructure, and operations across the region. While individuals are leaving specific compounds, the broader system sustaining cyber-scam operations remains intact.
+
+This creates a structural challenge. Enforcement is generating exits from exploitation, but without corresponding investment in protection systems, many individuals are left stranded in uncertain conditions. In this context, exploitation risks being displaced rather than reduced.
+
+#### **Closing the gap between enforcement and protection**
+
+Addressing this bottleneck will require strengthening victim identification processes, expanding civil society response capacity, and establishing coordinated funding and logistical mechanisms for repatriation. Without these measures, enforcement efforts risk continuing to outpace protection systems, placing unsustainable pressure on frontline responders and limiting the overall effectiveness of the response.
+
+...
+
+[](#)
+
+[](#)
+
+[](#)
+
+[](#)
+
+[](#)
+
+[](#)
+
+## Cite Article
+
+Freedom Collaborative.
+
+(2026,June25).
+
+Addressing the Repatriation Bottleneck in Cambodia’s Cyber-Scam Response. https://freedomcollaborative.org/latest/addressing-the-repatriation-bottleneck-in-cambodias-cyber-scam-response
+
+[](#)
+
+Copy To Clipboard
+
+## Keep Reading
+
+[![](https://cdn.prod.website-files.com/667176223287549441a4e0ad/6ad9f6d2580452a5776f99b1_UNO%20City%20Vienna_UNTOC%20COP13.png)](#)
+
+[](/latest/at-untoc-cop13-freedom-collaborative-presents-new-briefing-on-the-expansion-of-scam-operations)
+
+At UNTOC COP13, Freedom Collaborative Presents New Briefing on the Expansion of Scam Operations
+
+October 22, 2026
+
+/
+
+Global
+
+/
+
+Trafficking for Forced Criminality
+
+[![](https://cdn.prod.website-files.com/667176223287549441a4e0ad/6ad9f8288fcaaf54ddd71ddd_OfficeCenter_BW.png)](#)
+
+[](/latest/the-indicators-are-familiar-the-visibility-is-not-identifying-forced-labour-in-online-scam-operations)
+
+The Indicators Are Familiar, the Visibility Is Not: Identifying Forced Labour in Online Scam Operations
+
+October 22, 2026
+
+/
+
+Global
+
+/
+
+Trafficking for Forced Criminality
+
+[![](https://cdn.prod.website-files.com/667176223287549441a4e0ad/6a6c716054cb89fa048d0f21_Cover_Page21.png)](#)
+
+[](/latest/helping-people-spot-deceptive-job-offers-before-trafficking-occurs)
+
+Helping People Spot Deceptive Job Offers Before Trafficking Occurs
+
+October 22, 2026
+
+/
+
+Global
+
+/
+
+Trafficking for Forced Criminality
+
+![](https://cdn.prod.website-files.com/667176223287549441a4e0ad/6ad9f6d2580452a5776f99b1_UNO%20City%20Vienna_UNTOC%20COP13.png)
+
+At UNTOC COP13, Freedom Collaborative Presents New Briefing on the Expansion of Scam Operations
+
+October 22, 2026
+
+/
+
+[Global](#)
+
+/
+
+[TATC](/privacy-terms)[Trafficking for Forced Criminality](#)
+
+![](https://cdn.prod.website-files.com/667176223287549441a4e0ad/6ad9f8288fcaaf54ddd71ddd_OfficeCenter_BW.png)
+
+The Indicators Are Familiar, the Visibility Is Not: Identifying Forced Labour in Online Scam Operations
+
+October 22, 2026
+
+/
+
+[Global](#)
+
+/
+
+[TATC](/privacy-terms)[Trafficking for Forced Criminality](#)
+
+## **Stay connected** by joining our global community, and together we’ll create more impactful and lasting strategies to prevent exploitation.
+
+### Get the latest news and stories from the sector in your inbox
+
+A global community of professionals and other activists focused on closing the gap between current response efforts and the real-world challenges of trafficking, forced labor, and exploitation.
+
+[](/about-us)
+
+FIND OUT MORE
+
+
+
+###### ©2026 Freedom Collaborative, Inc. is a 501(c)3 nonprofit
+
+###### /
+
+[Privacy & Terms](/privacy-terms)
+
+###### /
+
+[Compliance](/compliance)
+
+[Who we are](/about-us)
+
+###### /
+
+[Our team & Board](/about-us#team)
+
+###### /
+
+[latest](/latest)
+
+###### /
+
+[partner with us](mailto:%20contact@freedomcollaborative.org)

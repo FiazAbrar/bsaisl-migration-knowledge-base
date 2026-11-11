@@ -1,0 +1,9 @@
+{"prefix": "W",
+"sources": [
+["cambodiantr-mlvt-work-permit", "Cambodia National Trade Repository (Ministry of Economy and Finance)", "Guideline 003-15 on the Procedure to Apply for and Extend Foreign Work Permit and Foreign Employment Card", "yes", "2023-03-31"],
+["cambodiantr-mlvt-wp-fee-measure", "Cambodia National Trade Repository (Ministry of Economy and Finance)", "Measure: Fee requirement to Apply for and Extend Foreign Work Permit and Foreign Employment Card", "yes", "2023-03-31"]
+],
+"facts": [
+{"n": "cambodiantr-mlvt-work-permit", "c": "MLVT Guideline 003-15 sets the procedure to apply for and extend the foreign work permit and foreign employment card.", "q": "Procedure to apply for and extend foreign work permit and foreign employment card are stipulated in this guideline", "d": "2023-03-31", "s": "possibly-outdated"},
+{"n": "cambodiantr-mlvt-wp-fee-measure", "c": "The fees to apply for and extend the foreign work permit and foreign employment card are set in Guideline 003-15, in force from 26 January 2015.", "q": "Fee to apply for and extend foreign work permit and foreign employment card are stipulated in the guideline", "d": "2023-03-31", "s": "possibly-outdated", "note": "The repository lists the guideline as valid from 26/01/2015 but does not give the amounts; the guideline text itself was not found."}
+]}

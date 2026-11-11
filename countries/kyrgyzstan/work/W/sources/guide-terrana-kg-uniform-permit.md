@@ -1,0 +1,146 @@
+- [Visas to Kyrgyzstan](/visa/kyrgyzstan)[Work visa to Kyrgyzstan](/visa/kyrgyzstan/1123)
+
+Last updated 5 November 2026, 00:00 (UTC+0)
+
+# Work visa Uniform permit Kyrgyzstan
+
+Employment visa, Uniform permit, W visa, work permit, Entrepreneur visa
+
+## Check if the visa is available for your citizenship
+
+Citizenship
+
+## Work visa — what you need to know
+
+Intended for all foreigners planning to work in Kyrgyzstan as employees or as individual entrepreneurs. It is obtained online through the official e-visa portal. The employer or the applicant themselves (if they have individual entrepreneur status) registers in their 'Personal Account' and submits the application. For citizens of visa-exempt countries, the legislation provides the possibility to enter without a visa and then legally remain by obtaining the unified permit after arrival.
+
+Features
+
+- For employees, the process is initiated by the employer; for sole proprietors, by the applicant themselves
+
+- Annual quotas apply
+
+- The visa combines permission for entry, stay, and work
+
+- Family members must apply for separate documents
+
+Benefits
+
+- Issued online
+
+- Allows working for multiple employers simultaneously (up to 3)
+
+- Can be renewed annually
+
+- Path to permanent residency after 5 years of residence
+
+### Eligible individuals:
+
+- Worker
+- Employee
+- Entrepreneur
+- Businessman
+
+## How does this visa work?
+
+### 
+
+## 
+
+## 
+
+## 
+
+## 
+
+## 
+
+## 
+
+![sand time](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftime.04cba7e8.png&w=48&q=75)
+
+### Don’t postpone the application
+
+The visa is processed from 7 days to 10 days. Many people contact us 3–5 days before their trip, so start the process in advance
+
+## Verified visa specialists ready to help you get the right visa
+
+[](/specialists/visa/kyrgyzstan?visa_category=1123&purpose=2901)
+
+Find a specialist
+
+- 
+
+- 
+
+- 
+
+[](/specialists/visa/kyrgyzstan?visa_category=1123&purpose=2901)
+
+Find a specialist
+
+## How can you prove the basis for the visa?
+
+They clarify the purpose of the visit and future activities in the country
+
+## 
+
+## 
+
+## 
+
+## 
+
+## 
+
+## 
+
+## 
+
+## 
+
+## What must be prepared?
+
+Basic package — always required, regardless of the application conditions
+
+## 
+
+## 
+
+## 
+
+## What additional documents may be required?
+
+Documents required vary depending on individual circumstances, specific visa conditions, the place, and the method of application.
+
+## 
+
+\*Foreign official documents must be apostilled and legalized in accordance with the regulations of the country whose consular or diplomatic mission they are being submitted to. Additionally, they must be accompanied by a certified translation into the official language of that country or into English, unless otherwise specified by the mission's requirements.
+
+\*\*Prior to submitting the documents, it is strongly advised to verify the specific procedures and requirements with the relevant mission.
+
+## Are you eligible for this visa?
+
+- Clear purposes of the visit and documents confirming them, in accordance with the visa conditions.
+
+- Sufficient means to support oneself and their dependents for the duration of their stay in the country.
+
+- The applicant does not pose a threat to public order, internal security, public health or international relations of the country.
+
+## Official visa information
+
+### English international
+
+Category code
+
+Uniform permit
+
+Type of visa
+
+Work visa
+
+Category
+
+Work visa
+
+## 

@@ -1,0 +1,18 @@
+
+
+e-VISA
+
+×
+
+Notification
+
+Text in the modal-dialog Body
+
+Ok
+
+Log in to personal account 
+
+Information box
+
+To check the status of your application, continue an unfinished application, or expedite its processing, please enter your application reference number in the relevant box. If you do not know this number, you can find it in the e-mail message that we sent to you. It is an 8-symbol alphanumeric code.
+

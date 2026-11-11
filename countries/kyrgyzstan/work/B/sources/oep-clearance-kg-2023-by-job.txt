@@ -1,0 +1,30 @@
+# OEP country-clearance report, Kyrgyzstan (country_id 94), by job category, 2023-01-01 to 2023-12-31, queried 2026-11-10
+Sum of categories: 1713; categories listed: 26
+Kyrgyzstan | Worker | 954
+Kyrgyzstan | Garments Worker | 185
+Kyrgyzstan | Tailor | 122
+Kyrgyzstan | Swing Line Checker | 92
+Kyrgyzstan | Operator | 75
+Kyrgyzstan | Factory Worker | 62
+Kyrgyzstan | Private Service | 47
+Kyrgyzstan | Labour | 35
+Kyrgyzstan | Mason | 27
+Kyrgyzstan | Germents Manufacturing | 22
+Kyrgyzstan | Iron man | 21
+Kyrgyzstan | Food Server | 18
+Kyrgyzstan | Concrete Worker | 14
+Kyrgyzstan | Generator Labour | 7
+Kyrgyzstan | Sewing Operator(Female) | 7
+Kyrgyzstan | Machine Operator | 7
+Kyrgyzstan | Ceramic Mason | 6
+Kyrgyzstan | Chef/Cook | 4
+Kyrgyzstan | Kidney Specialist | 1
+Kyrgyzstan | Embroidery/Tailor | 1
+Kyrgyzstan | Director | 1
+Kyrgyzstan | Manager | 1
+Kyrgyzstan | Construction Worker | 1
+Kyrgyzstan | Teacher | 1
+Kyrgyzstan | Waiter | 1
+Kyrgyzstan | Cutter | 1
+https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=200&approval_date_from=2023-01-01&approval_date_to=2023-12-31&country_id%5B%5D=94&gender_id=&all_skills=1
+{"success":true,"code":null,"payload":{"data":[{"country_id":94,"country_name":"Kyrgyzstan","total_employee":954,"category_name":"Worker"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":185,"category_name":"Garments Worker"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":122,"category_name":"Tailor"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":92,"category_name":"Swing Line Checker"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":75,"category_name":"Operator"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":62,"category_name":"Factory Worker"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":47,"category_name":"Private Service"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":35,"category_name":"Labour"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":27,"category_name":"Mason"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":22,"category_name":"Germents Manufacturing"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":21,"category_name":"Iron man"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":18,"category_name":"Food Server"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":14,"category_name":"Concrete Worker"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":7,"category_name":"Generator Labour"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":7,"category_name":"Sewing Operator(Female)"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":7,"category_name":"Machine Operator"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":6,"category_name":"Ceramic Mason"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":4,"category_name":"Chef\/Cook"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1,"category_name":"Kidney Specialist"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1,"category_name":"Embroidery\/Tailor"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1,"category_name":"Director"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1,"category_name":"Manager"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1,"category_name":"Construction Worker"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1,"category_name":"Teacher"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1,"category_name":"Waiter"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1,"category_name":"Cutter"}],"recordsTotal":26,"recordsFiltered":26,"totalEmployee":1713},"type":"success","fade":false}

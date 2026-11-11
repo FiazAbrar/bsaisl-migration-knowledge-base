@@ -1,0 +1,15 @@
+{
+"prefix": "K",
+"sources": [
+ ["asean-kh-prakas-196-foreign-workers", "ASEAN Secretariat (GMAC unofficial translation of MLVT Prakas No. 196 KB/Kr.K)", "Prakas No. 196 on Use of Foreign Workforce (20 August 2014)", "no", "2014-08-20"],
+ ["acclime-kh-hiring-foreign-employees", "Acclime Cambodia", "Hiring foreign employees in Cambodia", "no", "2025-07-25"]
+],
+"facts": [
+ {"n": "asean-kh-prakas-196-foreign-workers", "c": "MLVT generally allows foreign workers up to 10% of a company's Cambodian workforce.", "q": "Vocational Training, in general, will permit the use of foreign workforce not exceeding 10% of the", "d": "2014-08-20", "s": "unofficial"},
+ {"n": "asean-kh-prakas-196-foreign-workers", "c": "Within the 10% cap, non-specialised foreign employees or workers are limited to 1% of the Cambodian workforce (office staff 3%, specialised 6%).", "q": "- Non-specialized employee or worker : 1 per cent", "d": "2014-08-20", "s": "unofficial"},
+ {"n": "asean-kh-prakas-196-foreign-workers", "c": "Employers must send next year's request for foreign workers to MLVT by the end of November each year.", "q": "Vocational Training by the end of November of each year.", "d": "2014-08-20", "s": "unofficial"},
+ {"n": "asean-kh-prakas-196-foreign-workers", "c": "Employers may recruit foreigners only as specialists, technicians or skilled workers for posts Cambodians cannot fill, with MLVT's written permission in advance.", "q": "enterprise/establishment may recruit foreigners who are specialists, technicians or professionally", "d": "2014-08-20", "s": "unofficial"},
+ {"n": "acclime-kh-hiring-foreign-employees", "c": "The work permit fee is the one set in Joint Prakas No. 335/20 between MLVT and the Ministry of Economy and Finance.", "q": "Pay the work permit fee as stated in the Joint Prakas between the MLVT and the Ministry of Economy and Finance (Joint Prakas No.335/20)", "d": "2025-07-25", "s": "unofficial"},
+ {"n": "acclime-kh-hiring-foreign-employees", "c": "A Joint Foreign Workforce Inspection Team (JFWIT) inspects companies' work permits and employment cards.", "q": "Cambodia established a Joint Foreign Workforce Inspection Team (JFWIT) to inspect companies’ compliance with the labour legislation.", "d": "2025-07-25", "s": "unofficial"}
+]
+}

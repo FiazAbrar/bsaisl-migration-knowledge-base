@@ -1,0 +1,183 @@
+L0001 minjust-kg-labour-code-2025 | The Labour Code and other labour laws apply to foreign citizens working in organisations in Kyr
+L0002 minjust-kg-labour-code-2025 | Forced labour (making someone work under threat of violence) is banned
+L0003 minjust-kg-labour-code-2025 | The employment contract must state the pay terms, including the wage rate or salary, extra paym
+L0004 minjust-kg-labour-code-2025 | The contract must also state the workplace, the job, the start date, the contract's duration an
+L0005 minjust-kg-labour-code-2025 | Contract terms can be changed only by agreement of both sides and in writing
+L0006 minjust-kg-labour-code-2025 | The contract is made in two copies signed by both sides; one copy is given to the worker
+L0007 minjust-kg-labour-code-2025 | A fixed-term contract may last at most 5 years
+L0008 minjust-kg-labour-code-2025 | If neither side ends a fixed-term contract when it expires and the worker keeps working, it bec
+L0009 minjust-kg-labour-code-2025 | The employer may not require work that is not in the contract
+L0010 minjust-kg-labour-code-2025 | A probation period must be written in the contract; without that clause there is no probation
+L0011 minjust-kg-labour-code-2025 | Probation may not exceed 3 months for ordinary workers
+L0012 minjust-kg-labour-code-2025 | Within 5 working days of a written request, the employer must give a current or former worker c
+L0013 minjust-kg-labour-code-2025 | A worker may resign from an open-ended or fixed-term contract by giving one month's written not
+L0014 minjust-kg-labour-code-2025 | If the employer has broken labour law or the contract, it must end the contract on the date the
+L0015 minjust-kg-labour-code-2025 | The employer's breach is established by the state labour supervision body, a trade union body o
+L0016 minjust-kg-labour-code-2025 | If a worker quits a fixed-term contract early without a valid reason, the employer may claim co
+L0017 minjust-kg-labour-code-2025 | A contract can be ended at any time by written agreement; the side that receives the written pr
+L0018 minjust-kg-labour-code-2025 | One gross breach allowing dismissal is absence from work for more than 3 hours in a row in a wo
+L0019 minjust-kg-labour-code-2025 | The employer may dismiss a worker who gave forged documents or knowingly false information when
+L0020 minjust-kg-labour-code-2025 | When the employer closes or cuts staff, it must warn the worker in writing, against signature, 
+L0021 minjust-kg-labour-code-2025 | During that notice the worker gets one free working day a week, with average pay, to look for w
+L0022 minjust-kg-labour-code-2025 | A worker may not be dismissed while on sick leave or on holiday, except when the organisation i
+L0023 minjust-kg-labour-code-2025 | On dismissal for closure or staff cuts, severance pay is at least two months' average pay
+L0024 minjust-kg-labour-code-2025 | Normal working time may not exceed 40 hours a week
+L0025 minjust-kg-labour-code-2025 | Heavy physical work and harmful or dangerous work: at most 36 hours a week
+L0026 minjust-kg-labour-code-2025 | Overtime is allowed only with the worker's written consent
+L0027 minjust-kg-labour-code-2025 | Overtime may not exceed 4 hours over 2 consecutive days per worker
+L0028 minjust-kg-labour-code-2025 | The employer must keep an exact record of each worker's overtime and tell the worker the hours 
+L0029 minjust-kg-labour-code-2025 | Overtime is paid at least 1.5 times for the first 2 hours and at least double after that
+L0030 minjust-kg-labour-code-2025 | Each hour of night work is paid at least 1.5 times
+L0031 minjust-kg-labour-code-2025 | A daily break for rest and meals of 30 minutes to 1 hour, not counted as working time
+L0032 minjust-kg-labour-code-2025 | 2 rest days a week on a 5-day week, 1 on a 6-day week
+L0033 minjust-kg-labour-code-2025 | Sunday is the general rest day
+L0034 minjust-kg-labour-code-2025 | Work on a rest day or non-working public holiday is paid at least double
+L0035 minjust-kg-labour-code-2025 | If the worker wishes, he can take another day off instead; the holiday work is then paid at the
+L0036 minjust-kg-labour-code-2025 | Eid al-Fitr (Orozo Ait) and Eid al-Adha (Kurman Ait) are non-working public holidays
+L0037 minjust-kg-labour-code-2025 | Paid annual leave is 28 calendar days
+L0038 minjust-kg-labour-code-2025 | Leave for the first year can be taken after 11 months' continuous work with the employer, or ea
+L0039 minjust-kg-labour-code-2025 | On leaving, the worker is paid for all unused leave days
+L0040 minjust-kg-labour-code-2025 | The right to pay for unused leave starts after at least one month of work
+L0041 minjust-kg-labour-code-2025 | Maternity leave is 70 calendar days before birth and 56 after (70 after a complicated birth or 
+L0042 minjust-kg-labour-code-2025 | Pay may not be below the legal minimum wage
+L0043 minjust-kg-labour-code-2025 | Wages are paid in money, in Kyrgyz som
+L0044 minjust-kg-labour-code-2025 | Paying wages in IOUs, receipts, food or goods coupons or similar substitutes for money is banne
+L0045 minjust-kg-labour-code-2025 | Wages must be paid by bank transfer, not cash, by companies and by individual entrepreneurs pay
+L0046 minjust-kg-labour-code-2025 | Wages are paid at least once a month
+L0047 minjust-kg-labour-code-2025 | When the contract ends, everything owed must be paid no later than the last working day
+L0048 minjust-kg-labour-code-2025 | For late wages, holiday pay or final pay, the employer must add 0.25% of the unpaid amount for 
+L0049 minjust-kg-labour-code-2025 | Wages a worker had not received when he died are paid to his family or dependants
+L0050 minjust-kg-labour-code-2025 | The dead worker's unpaid wages are paid within a week of the family giving the employer the doc
+L0051 minjust-kg-labour-code-2025 | Deductions from wages are allowed only in cases set by the Labour Code and other laws
+L0052 minjust-kg-labour-code-2025 | All deductions together may not exceed 20% of each wage payment (50% where a law allows)
+L0053 minjust-kg-labour-code-2025 | With each wage payment the employer must tell each worker in writing the parts of the wage, the
+L0054 minjust-kg-labour-code-2025 | During temporary inability to work (sickness) the employer pays a sickness benefit; its size is
+L0055 minjust-kg-labour-code-2025 | If a worker dies, the employer pays his family a funeral benefit
+L0056 minjust-kg-labour-code-2025 | The employer is liable for harm to a worker's health from injury or occupational disease linked
+L0057 minjust-kg-labour-code-2025 | Compensation for work injury covers lost earnings, additional expenses, a lump sum in set cases
+L0058 minjust-kg-labour-code-2025 | Even if the worker was careless, compensation for a work injury may not be refused entirely
+L0059 minjust-kg-labour-code-2025 | Disability or death from a work injury brings a one-off compensation of an amount set by the Ca
+L0060 minjust-kg-labour-code-2025 | Dependants of a worker killed at work receive his average monthly earnings minus his own share
+L0061 minjust-kg-labour-code-2025 | Children under 18 are presumed dependants without proof
+L0062 minjust-kg-labour-code-2025 | A worker may take a labour dispute to the enterprise's labour disputes commission, the state la
+L0063 minjust-kg-labour-code-2025 | Where the employer has no labour disputes commission, the dispute goes straight to the labour s
+L0064 minjust-kg-labour-code-2025 | A labour disputes commission must decide within 10 days of the worker's application
+L0065 minjust-kg-labour-code-2025 | From 1 January 2026, wages that were calculated but not paid are recovered through the notary p
+L0066 minjust-kg-labour-code-2025 | A worker must bring a dispute within 3 months of learning of the breach, or within 2 months of 
+L0067 minjust-kg-labour-code-2025 | The time limit for claiming unpaid wages is 3 years from when they were due
+L0068 minjust-kg-labour-code-2025 | The same time limits apply to complaints to the prosecutor's office and the labour supervision 
+L0069 minjust-kg-labour-code-2025 | The Prosecutor General and subordinate prosecutors supervise compliance with labour laws
+L0070 minjust-kg-labour-code-2025 | A worker's claim for compensation for harm to health from work goes directly to court
+L0071 minjust-kg-labour-code-2025 | A dispute over the employer refusing to draw up a work-accident report, or over its content, go
+L0072 minjust-kg-labour-code-2025 | Money claims found justified are paid in full
+L0073 minjust-kg-code-of-offences | Fines are set in calculation units (raschetnyi pokazatel, RP)
+L0074 minjust-kg-code-of-offences | A foreigner with no document giving the right to stay (visa, registration, residence permit, wo
+L0075 minjust-kg-code-of-offences | The same violation for 1 to 3 months: 100 RP
+L0076 minjust-kg-code-of-offences | For 3 to 6 months: 150 RP
+L0077 minjust-kg-code-of-offences | For 6 months to a year: 175 RP
+L0078 minjust-kg-code-of-offences | For over a year: 200 RP
+L0079 minjust-kg-code-of-offences | Staying for a purpose other than the one declared on entry, or breaking transit rules: 100 RP
+L0080 minjust-kg-code-of-offences | Not fixing a migration violation within 30 days of receiving the authority's written order lead
+L0081 minjust-kg-code-of-offences | Expulsion as a penalty is ordered by a court
+L0082 minjust-kg-code-of-offences | A foreigner who does not leave by the court's deadline is held in a special centre for as long 
+L0083 minjust-kg-code-of-offences | Expulsion is done by handing the person to the other country's authorities or by controlled dep
+L0084 minjust-kg-code-of-offences | Unpaid fines do not stop an expulsion being carried out
+L0085 minjust-kg-code-of-offences | The inviting or hosting person or company that fails to handle a foreigner's registration, pape
+L0086 minjust-kg-code-of-offences | For over a year the inviting or hosting party's fine is 125 RP (individual) or 300 RP (company)
+L0087 minjust-kg-code-of-offences | Breaking the rules on hiring and using foreign labour: fine of 200 RP for individuals, 650 RP f
+L0088 minjust-kg-code-of-offences | An employer who puts people to work without a written employment contract is fined 75 RP (indiv
+L0089 minjust-kg-code-of-offences | Taking a citizen's passport as security or otherwise unlawfully is fined 30 RP (individual) or 
+L0090 news-economistkg-migration-fines | Since the April 2025 amendment (Law No. 80), a foreigner without valid papers pays 5,500 som fo
+L0091 minjust-kg-law-external-migratio | Foreigners who work without the required permit are subject to expulsion
+L0092 minjust-kg-law-external-migratio | When a foreigner is fined, the police issue a written order to fix the violation; if it is not 
+L0093 minjust-kg-law-external-migratio | With expulsion the police or national security body impose a temporary entry ban
+L0094 minjust-kg-law-external-migratio | The entry ban after expulsion for an offence lasts 2 years
+L0095 minjust-kg-law-external-migratio | After serving a sentence for a crime, the entry ban is 5 years for less serious crimes, 10 year
+L0096 minjust-kg-law-external-migratio | Expulsion costs are paid by the expelled person, then by the inviting or hosting organisation o
+L0097 minjust-kg-law-external-migratio | No visa is issued to someone expelled with an entry ban until the ban ends
+L0098 minjust-kg-law-external-migratio | A visa is refused to someone who gave false information when applying for a visa, registration 
+L0099 minjust-kg-law-external-migratio | Unless agreed otherwise in writing, the hosting side bears the foreigner's financial support an
+L0100 minjust-kg-law-external-migratio | The inviting party must explain the foreigner's rights and duties and arrange registration, pap
+L0101 minjust-kg-law-external-migratio | A visa extended on the basis of employment is annulled when either side ends the employment
+L0102 minjust-kg-cabinet-decree-312-20 | Exit visa after overstaying up to 3 months: 17,500 som / USD 200 (consular fee table, som and U
+L0103 minjust-kg-cabinet-decree-312-20 | Exit visa after overstaying 3 months to 1 year: 96,250 som / USD 1,100
+L0104 minjust-kg-cabinet-decree-312-20 | Exit visa after overstaying 1 to 2 years: 192,500 som / USD 2,200, plus USD 1,100 for each furt
+L0105 minjust-kg-cabinet-decree-312-20 | Each further year of overstay adds USD 1,100 to the exit visa
+L0106 minjust-kg-cabinet-decree-312-20 | The Temporary Regulation on the Single Permit and resident card is in force until 31 December 2
+L0107 minjust-kg-single-permit-regulat | The Single Permit lapses when the employer closes, the contract ends or the contract is ended e
+L0108 minjust-kg-single-permit-regulat | The Single Permit cannot be passed to another employer, and the worker cannot be transferred to
+L0109 minjust-kg-single-permit-regulat | When the job ends, the worker has 30 days to leave the country on his own on the Single Permit
+L0110 minjust-kg-single-permit-regulat | After those 30 days the Single Permit is cancelled automatically
+L0111 minjust-kg-single-permit-regulat | The inviting employer must pay for the foreign worker's departure from Kyrgyzstan
+L0112 minjust-kg-single-permit-regulat | The employer must notify the Ministry of Foreign Affairs to cancel the Single Permit within 3 c
+L0113 minjust-kg-single-permit-regulat | An employer that does not pay for the worker's departure is put on the Register of Bad-Faith Em
+L0114 minjust-kg-single-permit-regulat | Other employers may not hire a foreign worker who left his previous employer's workplace withou
+L0115 minjust-kg-single-permit-regulat | The same employer may not re-hire a worker it reported to the police for leaving without notice
+L0116 minjust-kg-single-permit-regulat | The Register of Bad-Faith Employers, approved by order of the Ministry of Foreign Affairs, list
+L0117 minjust-kg-single-permit-regulat | Worsening working conditions is a ground for listing an employer on the Register
+L0118 minjust-kg-single-permit-regulat | A listed employer can be refused the online account for new Single Permits; it is removed from 
+L0119 minjust-kg-single-permit-regulat | The Single Permit is refused or cancelled if the worker stops working
+L0120 minjust-kg-single-permit-regulat | The Single Permit is also refused or cancelled for breaches of migration or tax law, including 
+L0121 minjust-kg-single-permit-regulat | The resident card is refused or cancelled when tax and social contributions go unpaid for 3 mon
+L0122 minjust-kg-single-permit-regulat | Reasons for refusing a Single Permit are not explained; a refusal or cancellation can be appeal
+L0123 minjust-kg-single-permit-regulat | An exit visa (type L) valid up to 10 days is issued to leave after overstaying, or after a visa
+L0124 minjust-kg-single-permit-regulat | People given an exit visa for these reasons are entered in a database of violators
+L0125 minjust-kg-single-permit-regulat | The exit visa is free when a court has ordered expulsion
+L0126 minjust-kg-single-permit-regulat | An emergency exit visa (type E), free, valid up to 10 days, is issued for serious illness or a 
+L0127 minjust-kg-single-permit-regulat | The employer pays a guarantee fee of 50 RP per foreign worker
+L0128 minjust-kg-single-permit-regulat | The guarantee fee funds controlled departure, expulsion or readmission of foreigners who have n
+L0129 minjust-kg-single-permit-regulat | The employer pays the foreign worker's wages to a bank card
+L0130 minjust-kg-single-permit-regulat | A foreign worker working for several organisations gets a resident card listing each, up to thr
+L0131 minjust-kg-single-permit-regulat | Police or national security can shorten a resident card for breaches of the rules of stay
+L0132 minjust-kg-criminal-code | Making, buying, keeping or carrying drugs for sale, or selling them: 5 to 8 years' prison with 
+L0133 minjust-kg-criminal-code | Drug crimes in a group or in large amounts: 8 to 12 years; especially large amounts or sale to 
+L0134 minjust-kg-criminal-code | Keeping or carrying drugs without intent to sell, in large amounts: fine of 1,000 to 2,000 RP o
+L0135 minjust-kg-criminal-code | Illegally crossing the state border: 1 to 3 years' corrective labour, a fine of 500 to 1,000 RP
+L0136 minjust-kg-criminal-code | Using a document you know is forged: fine of 500 to 1,000 RP or 2 to 5 years' prison
+L0137 ombudsman-kg-hotline115 | The Ombudsman also takes complaints on WhatsApp at (0999) 000-115
+L0138 ombudsman-kg-hotline115 | Complaints can also be made in person in writing at the Ombudsman's office or through ombudsman
+L0139 ombudsman-kg-hotline115 | The 115 hotline is aimed at everyone in closed institutions (such as detention) facing torture,
+L0140 wewb-3lakh-death-grant | The family of a worker who dies abroad gets a Tk 3 lakh grant from the Wage Earners' Welfare Bo
+L0141 wewb-3lakh-death-grant | The Tk 3 lakh grant is paid only if the worker dies in the country for which he got emigration 
+L0142 wewb-3lakh-death-grant | Documents: a family-members certificate on official pad from the Union Parishad chairman, mayor
+L0143 wewb-3lakh-death-grant | Documents: an indemnity, undertaking and power of attorney on Tk 400 non-judicial stamp paper
+L0144 wewb-3lakh-death-grant | Documents: a copy of the Bangladesh embassy's certificate (NOC) or the death certificate, and a
+L0145 wewb-body-transport-burial-35000 | At the three international airports' Probashi Kallyan desks, the family receiving a body is giv
+L0146 wewb-body-transport-burial-35000 | The Tk 35,000 cheque needs a heirs' certificate (warish sanad) from the Union Parishad chairman
+L0147 wewb-body-repatriation-help | To bring a body home, the Board takes the family's wishes, sends them to the embassy or high co
+L0148 wewb-body-repatriation-help | Probashi call centre: 16135 from Bangladesh (toll-free), +880 9610102030 from abroad
+L0149 wewb-injured-sick-grant | Workers who come home disabled or critically ill can get up to Tk 2 lakh for treatment from the
+L0150 wewb-injured-sick-grant | Only workers with BMET emigration clearance or Board membership are eligible
+L0151 wewb-injured-sick-grant | Apply within 1 year of returning, with medical reports and prescriptions, a bank statement, a c
+L0152 wewb-injured-sick-grant | A committee sees the worker on a WhatsApp video call before the Director General approves the h
+L0153 upension-benefits | Bangladesh's Universal Pension Scheme is open to Bangladeshi citizens aged 18 to 50
+L0154 upension-benefits | In the Probash scheme the migrant registers online in his own name, with no third person involv
+L0155 upension-benefits | Probash contributions are paid by debit or credit card into a set Sonali Bank account
+L0156 upension-benefits | A 2.5% incentive is added to Probash contributions paid from abroad in foreign currency
+L0157 upension-benefits | After 10 years' unbroken contributions, the monthly pension is paid automatically into the bank
+L0158 upension-benefits | If the contributor dies, all money paid in, with profit, goes to the nominee
+L0159 upension-benefits | Contributions for 3, 9 or 12 months can be paid at once
+L0160 upension-packages | Probash monthly contribution options: Tk 1,000, 2,000, 5,000, 7,500 or 10,000
+L0161 upension-packages | Tk 1,000 a month for 20 years gives an estimated pension of Tk 4,927 a month
+L0162 news-economistkg-minimum-wage-20 | The minimum wage was 2,865 som in 2025 and is 3,280 som a month in 2026
+L0163 news-economistkg-minimum-wage-20 | In October 2026 the government proposed raising the minimum wage to 9,800 som from 2027; parlia
+L0164 news-economistkg-labour-inspecto | In the first half of 2026 labour inspectors recovered 4.4 million som of unpaid wages for worke
+L0165 news-economistkg-labour-inspecti | Labour inspection is done by the Service for Control and Supervision of Labour Legislation unde
+L0166 news-economistkg-wage-delay-guid | A complaint is sent in writing to the labour inspection's local office where the employer is lo
+L0167 news-economistkg-wage-delay-guid | Complaints can be made through a public service centre (TsON) in the regions
+L0168 news-economistkg-wage-delay-guid | A complaint can be anonymous, but that may limit how deeply the employer is checked
+L0169 news-economistkg-wage-delay-guid | Evidence even without a contract: WhatsApp or Telegram messages, photos of documents, payment r
+L0170 news-economistkg-wage-delay-guid | The complaint should give the employer's name and address, the breach (for example wages for Ma
+L0171 news-economistkg-wage-delay-guid | After a complaint the inspection checks the employer's documents, may visit, issues an order to
+L0172 news-tbsbangla-kyrgyzstan-388016 | On 10 September 2025, 180 Bangladeshis who had gone to Kyrgyzstan for promised garment and cons
+L0173 news-tbsbangla-kyrgyzstan-388016 | BRAC said many got no work and no wages, became undocumented, some were badly abused, and many 
+L0174 news-tbsbangla-kyrgyzstan-388016 | A welder who arrived in Bishkek on 3 June 2024 found his visa expired the next day, worked seve
+L0175 news-tbsbangla-kyrgyzstan-388016 | A welder injured at work got no help from the employer, went four months unpaid, surrendered to
+L0176 news-tbsbangla-kyrgyzstan-388016 | BRAC said stranded migrants can get help by contacting its Migration Welfare Centre
+L0177 news-viewsbd-kyrgyzstan-180-retu | The injured welder had been working without a contract
+L0178 news-viewsbd-kyrgyzstan-180-retu | He said detainees were treated harshly, including being made to stand for hours in the sun
+L0179 news-tbs-kyrgyzstan-fraud-allega | Workers who went with a work visa in 2021 for a promised Tk 57,000 a month got Tk 10,000 in the
+L0180 news-tbs-kyrgyzstan-fraud-allega | After that the employer paid nothing more, and the workers say they were physically and mentall
+L0181 news-prothomalo-kyrgyzstan-retur | Garment workers promised Tk 52,000 a month were paid by the number of pieces sewn instead
+L0182 news-prothomalo-kyrgyzstan-retur | A Kyrgyz human rights organisation came forward to help rescue these workers
+L0183 news-prothomalo-kyrgyzstan-retur | Rights Jessore said BMET stalled on bringing the rest home although they had gone legally with 

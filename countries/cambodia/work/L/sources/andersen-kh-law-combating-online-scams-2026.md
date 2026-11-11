@@ -1,0 +1,152 @@
+PAGE META: og:updated_time: 2026-04-23T10:42:14+07:00 \| article:published_time: 2026-04-23T10:42:13+07:00 \| article:modified_time: 2026-04-23T10:42:14+07:00
+
+- [Home](https://kh.andersen.com/)
+- [About Us](https://kh.andersen.com/about-us/)
+- [Services](https://kh.andersen.com/services/)
+- [People](https://kh.andersen.com/our-people/)
+- [Publications](https://kh.andersen.com/publications/)
+- [News](https://kh.andersen.com/news/)
+- [Events](https://kh.andersen.com/events/)
+- [Offices](https://kh.andersen.com/offices/)
+- [Global Presence](https://kh.andersen.com/global-presence/)
+
+&nbsp;
+
+- [Podcast](https://kh.andersen.com/podcast/)
+- [Law Digest](https://kh.andersen.com/law-digest/law-digest-2026/)
+- [Downloads](https://kh.andersen.com/downloads/)
+- [Subscribe](https://kh.andersen.com/subscribe/)
+- [Career](https://kh.andersen.com/career/)
+- [Contact Us](https://kh.andersen.com/contact-us/)
+
+[Andersen Global](https://global.andersen.com)
+
+[Andersen Consulting](https://global.andersen.com/consulting)
+
+[![logo](https://kh.andersen.com/wp-content/themes/andersen2025/assets/img/logo@2x.webp)](https://kh.andersen.com)
+
+[ ](javascript:;)
+
+![](https://kh.andersen.com/wp-content/uploads/2026/04/banner-digital.webp)
+
+[Home](https://kh.andersen.com) [Publications](https://kh.andersen.com/publications) Cambodia Strengthens Legal Framework to Combat Online Scams
+
+Publications
+
+# Cambodia Strengthens Legal Framework to Combat Online Scams
+
+April 23, 2026
+
+On April 6, 2026, the Royal Government of Cambodia promulgated a Royal Decree announcing the Law on Combating Online Scams. As digital technology becomes increasingly integrated into daily life, criminal activities have also evolved. Online scams conducted through social media, the banking system, and digital platforms pose serious risks to individuals, businesses, and national security. This law establishes a structured legal framework to address these risks.
+
+## Purpose and scope
+
+The law aims to strengthen criminal measures against technology-enabled scams, safeguard the public, and promote both national and international cooperation. Its scope is broad. It applies not only to offenses committed in Cambodia but also to those involving Cambodian nationals abroad, as well as those committed against Cambodian victims, and crimes connected to Cambodia’s financial system. This ensures that offenders cannot evade liability by operating across borders.
+
+The law describes various types of online scam offenses and their penalties, as described below.
+
+## Technology-enabled scams
+
+The law defines technology-enabled scams as fraudulent acts carried out through technological systems to obtain funds, property, services, or legal obligations.
+
+Offenders are subject to 2 to 5 years of imprisonment and fines ranging from KHR200 million to KHR500 million. Where the offense involves an organized group or multiple victims, penalties increase to 5 to 10 years of imprisonment and fines ranging from KHR500 million to KHR1 billion.
+
+## Organizing or leading scam centers
+
+Anyone who organizes or leads a premises established as a technology-enabled scam center, whereby multiple persons operate individually or in groups or networks for the purpose of committing technology-enabled scams, is subject to 5 to 10 years of imprisonment and a fine ranging from KHR500 million to KHR1 billion.
+
+The same penalties apply to anyone who organizes or leads multiple premises interconnected as a network for such purposes, even without a centralized structure.
+
+Where the offense is committed with aggravating circumstances, including violence, unlawful detention, or any form of exploitation, the offender will be subject to 10 to 20 years of imprisonment and a fine of from KHR1 billion to KHR2 billion.
+
+Where the offense results in the death of one or more persons, the offender will be subject to a sentence of 15 years to life imprisonment
+
+## Recruiting or training for scam activities
+
+Anyone who recruits or trains others to participate in technology-enabled scams will be subject to 2 to 5 years of imprisonment and a fine ranging from KHR200 million to KHR500 million.
+
+Where the offense involves aggravating circumstances such as violence, torture, cruelty, involving abduction, unlawful detention or restraint, causing death, or where the offender knowingly recruits victims of trafficking, the penalty increases to 5 to 10 years of imprisonment and a fine of from KHR500 million to KHR1 billion.
+
+## Misuse of personal identification documents
+
+The unlawful collection or use of identity cards, passports, or other personal information documents for the purpose of facilitating online scams is punishable by 1 to 3 years of imprisonment and a fine ranging from KHR100 million to KHR300 million.
+
+Where committed by an organized group, the penalty increases to 3 to 5 years of imprisonment and a fine of from KHR300 million to KHR500 million.
+
+## Money laundering related to online scams
+
+Where a person cannot prove the lawful origin of assets linked to online scams, such conduct is treated as money laundering. Penalties apply in accordance with anti-money laundering laws, in addition to sanctions under this framework.
+
+## Additional penalties and liability
+
+In addition to imprisonment and fines, the court may impose additional measures, including confiscation of assets, seizure of property used in the commission of offenses, and closure of bank accounts or online platforms involved in scams.
+
+Legal entities may also be held criminally liable. Such entities will be subject to fines ranging from KHR1 billion to KHR30 billion or an amount equivalent to the value of the proceeds of the offense, along with additional sanctions.
+
+The strong punitive measures, including significant financial penalties, ensures serious consequences for offenders, removing the financial incentives behind online scams to make enforcement more effective.
+
+#### Our People
+
+![](https://kh.andersen.com/wp-content/uploads/2024/08/edwin-thumbnail.png)
+
+#### [Edwin Vanderbruggen](https://kh.andersen.com/our-people/edwin-vanderbruggen/)
+
+![](https://kh.andersen.com/wp-content/uploads/2024/08/jean-loi-thumbnail.png)
+
+#### [Jean Loi](https://kh.andersen.com/our-people/jean-loi/)
+
+![](https://kh.andersen.com/wp-content/uploads/2024/08/laysym-sim-thumbnail.png)
+
+#### [Laysym Sim](https://kh.andersen.com/our-people/laysym-sim/)
+
+[View More »](https://kh.andersen.com/our-people)
+
+#### Recent Publications
+
+#### Legal Release
+
+[Cambodia Requires Licensed Real Estate and Pawn Businesses to Appoint Compliance Executive Officers](https://kh.andersen.com/publications/cambodia-requires-licensed-real-estate-and-pawn-businesses-to-appoint-compliance-executive-officers/)
+
+#### Legal Release
+
+[Cambodia Suspends VAT on EV Charging Services](https://kh.andersen.com/publications/cambodia-suspends-vat-on-ev-charging-services/)
+
+#### Legal Release
+
+[Canadia Bank Added as an Online Payment Option for SETFO Fees](https://kh.andersen.com/publications/canadia-bank-added-as-an-online-payment-option-for-setfo-fees/)
+
+[View More »](https://kh.andersen.com/publications)
+
+#### Recent News
+
+![image](https://kh.andersen.com/wp-content/uploads/2026/10/banner-Edwin2-600x240.webp)
+
+Andersen Senior Partner Edwin Vanderbruggen, NUM iLAW Guest Lecturer on Building an International Career in Law
+
+[Read More »](https://kh.andersen.com/news/andersen-senior-partner-edwin-vanderbruggen-num-ilaw-guest-lecturer-on-building-an-international-career-in-law/)
+
+![image](https://kh.andersen.com/wp-content/uploads/2026/10/banner-award-600x240.webp)
+
+Recognised Across Asia-Pacific: 2026 Awards Shortlists
+
+[Read More »](https://kh.andersen.com/news/recognised-across-asia-pacific-2026-awards-shortlists/)
+
+![image](https://kh.andersen.com/wp-content/uploads/2026/10/banner-serc-600x240.webp)
+
+Andersen at the Annual Securities Conference 2026: Building Cambodia’s Capital Market Through Trust, Credibility and Reliable Information
+
+[Read More »](https://kh.andersen.com/news/andersen-at-the-annual-securities-conference-2026-building-cambodias-capital-market-through-trust-credibility-and-reliable-information/)
+
+[View More »](https://kh.andersen.com/news)
+
+![door](https://kh.andersen.com/wp-content/themes/andersen2025/assets/img/Door-White.webp)
+
+![Andersen](https://kh.andersen.com/wp-content/themes/andersen2025/assets/img/footer-logo.webp)
+
+- [](https://www.linkedin.com/company/andersen-cambodia/)
+- [](https://web.facebook.com/andersencambodia)
+
+Andersen in Cambodia is the Cambodian member firm of Andersen Global, a Swiss verein comprised of legally separate, independent member firms located throughout the world providing services under their own name or the brand "Andersen,” "Andersen Tax," or "Andersen Legal." Andersen Global does not provide any services and has no responsibility for any actions of the member firms, and the member firms have no responsibility for any actions of Andersen Global. Your use of this website is subject to the terms and conditions governing it. Please read these terms and conditions before using the website.
+
+- [Terms & Conditions](https://kh.andersen.com/terms-and-conditions)
+- [Privacy Policy](https://kh.andersen.com/privacy-policy)

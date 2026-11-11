@@ -1,0 +1,14 @@
+{
+"prefix": "W",
+"sources": [
+["news-kaktus-sim-registration-rules-2024", "Kaktus.media", "Новые правила регистрации SIM-карт в Кыргызстане. Ответы на популярные вопросы абонентов", "no", "2024-03-18"],
+["mfa-kg-obtaining-work-permit-en", "Ministry of Foreign Affairs of the Kyrgyz Republic", "Obtaining a work permit in the territory of the Kyrgyz Republic (Wayback copy, pre-2025 procedure)", "archived", "2025-09-18"]
+],
+"facts": [
+{"n":"news-kaktus-sim-registration-rules-2024","c":"A SIM card in Kyrgyzstan can be bought only with a passport, and the number is then registered to the passport online in the operator's app.","q":"SIM-карту, как и раньше, можно будет купить только с паспортом, только теперь зарегистрировать номер на себя можно будет онлайн в мобильном приложении любого сотового оператора","d":"2024-03-18","s":"unofficial"},
+{"n":"news-kaktus-sim-registration-rules-2024","c":"Until the number is registered to a passport, the SIM only allows calls to the operator and enough internet to download its app.","q":"До момента успешной регистрации номера с паспортом услуги связи на новом номере будут ограничены.","d":"2024-03-18","s":"unofficial"},
+{"n":"news-kaktus-sim-registration-rules-2024","c":"Those who cannot register online, or have a button phone, register at the operator's sales office with their passport.","q":"провести персонификацию номера помогут сотрудники операторов связи в офисах продаж и обслуживания. Приходить нужно обязательно с паспортом.","d":"2024-03-18","s":"unofficial"},
+{"n":"mfa-kg-obtaining-work-permit-en","c":"Under the pre-2025 system a work permit file needed an international-standard HIV blood test certificate from the Republican AIDS Center, 8 Logvinenko Street, Bishkek.","q":"A medical certificate of a blood test for HIV - infection of an international standard (Republican AIDS Center in Bishkek, at: 8, Logvinenko Street, crosses Bokonbaev Street);","d":"2025-09-18","s":"possibly-outdated","note":"Archived MFA page describing the State Migration Service procedure before the 2025 Single Permit; whether the Unified Permit still requires it is not confirmed"},
+{"n":"mfa-kg-obtaining-work-permit-en","c":"Under the pre-2025 system the worker's passport had to carry a work visa (category W1) or registration, with a notarised translation.","q":"A notarized translation of a copy of a passport of a foreign citizen with a valid visa (I, W1 category) or registration;","d":"2025-09-18","s":"possibly-outdated","note":"Pre-2025 procedure; replaced by the Unified Permit"}
+]
+}

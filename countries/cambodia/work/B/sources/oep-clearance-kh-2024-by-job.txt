@@ -1,0 +1,9 @@
+# OEP country-clearance report, Cambodia (country_id 30), by job category, 2024-01-01 to 2024-12-31, queried 2026-11-11
+Sum of categories: 929; categories listed: 5
+Cambodia | Worker | 445
+Cambodia | Construction Worker | 439
+Cambodia | Labour | 40
+Cambodia | Cleaner | 3
+Cambodia | Mason | 2
+https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=200&approval_date_from=2024-01-01&approval_date_to=2024-12-31&country_id%5B%5D=30&gender_id=&all_skills=1
+{"success":true,"code":null,"payload":{"data":[{"country_id":30,"country_name":"Cambodia","total_employee":445,"category_name":"Worker"},{"country_id":30,"country_name":"Cambodia","total_employee":439,"category_name":"Construction Worker"},{"country_id":30,"country_name":"Cambodia","total_employee":40,"category_name":"Labour"},{"country_id":30,"country_name":"Cambodia","total_employee":3,"category_name":"Cleaner"},{"country_id":30,"country_name":"Cambodia","total_employee":2,"category_name":"Mason"}],"recordsTotal":5,"recordsFiltered":5,"totalEmployee":929},"type":"success","fade":false}

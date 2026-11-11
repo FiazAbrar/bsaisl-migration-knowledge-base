@@ -1,0 +1,15 @@
+# OEP country-clearance report, Cambodia (country_id 30), by job category, 2023-01-01 to 2023-12-31, queried 2026-11-11
+Sum of categories: 1378; categories listed: 11
+Cambodia | Worker | 947
+Cambodia | Labour | 192
+Cambodia | Construction Worker | 120
+Cambodia | Concrete Worker | 72
+Cambodia | Private Service | 22
+Cambodia | General Labour | 12
+Cambodia | Technician | 9
+Cambodia | Helper | 1
+Cambodia | Scientist | 1
+Cambodia | Teacher | 1
+Cambodia | Generator Labour | 1
+https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=200&approval_date_from=2023-01-01&approval_date_to=2023-12-31&country_id%5B%5D=30&gender_id=&all_skills=1
+{"success":true,"code":null,"payload":{"data":[{"country_id":30,"country_name":"Cambodia","total_employee":947,"category_name":"Worker"},{"country_id":30,"country_name":"Cambodia","total_employee":192,"category_name":"Labour"},{"country_id":30,"country_name":"Cambodia","total_employee":120,"category_name":"Construction Worker"},{"country_id":30,"country_name":"Cambodia","total_employee":72,"category_name":"Concrete Worker"},{"country_id":30,"country_name":"Cambodia","total_employee":22,"category_name":"Private Service"},{"country_id":30,"country_name":"Cambodia","total_employee":12,"category_name":"General Labour"},{"country_id":30,"country_name":"Cambodia","total_employee":9,"category_name":"Technician"},{"country_id":30,"country_name":"Cambodia","total_employee":1,"category_name":"Helper"},{"country_id":30,"country_name":"Cambodia","total_employee":1,"category_name":"Scientist"},{"country_id":30,"country_name":"Cambodia","total_employee":1,"category_name":"Teacher"},{"country_id":30,"country_name":"Cambodia","total_employee":1,"category_name":"Generator Labour"}],"recordsTotal":11,"recordsFiltered":11,"totalEmployee":1378},"type":"success","fade":false}

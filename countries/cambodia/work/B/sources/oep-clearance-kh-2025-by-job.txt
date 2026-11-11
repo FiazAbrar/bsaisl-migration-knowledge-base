@@ -1,0 +1,39 @@
+# OEP country-clearance report, Cambodia (country_id 30), by job category, 2025-01-01 to 2025-12-31, queried 2026-11-11
+Sum of categories: 12263; categories listed: 35
+Cambodia | Construction Worker | 3428
+Cambodia | Construction Labour | 2849
+Cambodia | A Builder | 1456
+Cambodia | Building / Construction Helper | 1081
+Cambodia | Cleaner | 678
+Cambodia | A Casual Worker | 429
+Cambodia | Production Manager | 388
+Cambodia | Quality Controller | 300
+Cambodia | Helper | 260
+Cambodia | Concrete Foreman | 250
+Cambodia | Coiling machine operator | 230
+Cambodia | Pipe Fitting Labour | 165
+Cambodia | Assistant Mason | 103
+Cambodia | Carpenter | 100
+Cambodia | Civil Helpers/Labors | 75
+Cambodia | Coiling Machine Operator | 70
+Cambodia | AC Technician Central | 60
+Cambodia | Production  Operator | 50
+Cambodia | Interpreter | 30
+Cambodia | Construction Technician | 25
+Cambodia | Farm Worker | 24
+Cambodia | Heavy operation | 20
+Cambodia | Asst. Plaster Mason | 20
+Cambodia | Garment Production Manager | 20
+Cambodia | Carpenter (A Grade) | 20
+Cambodia | Assistant Electrician | 20
+Cambodia | Driver | 20
+Cambodia | Garbage Truck Driver | 20
+Cambodia | AC Technicain | 15
+Cambodia | All Round Foreman | 15
+Cambodia | Worker | 15
+Cambodia | Kitchen Worker | 10
+Cambodia | Plumber | 10
+Cambodia | Labour | 5
+Cambodia | General Labour | 2
+https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=200&approval_date_from=2025-01-01&approval_date_to=2025-12-31&country_id%5B%5D=30&gender_id=&all_skills=1
+{"success":true,"code":null,"payload":{"data":[{"country_id":30,"country_name":"Cambodia","total_employee":3428,"category_name":"Construction Worker"},{"country_id":30,"country_name":"Cambodia","total_employee":2849,"category_name":"Construction Labour"},{"country_id":30,"country_name":"Cambodia","total_employee":1456,"category_name":"A Builder"},{"country_id":30,"country_name":"Cambodia","total_employee":1081,"category_name":"Building \/ Construction Helper"},{"country_id":30,"country_name":"Cambodia","total_employee":678,"category_name":"Cleaner"},{"country_id":30,"country_name":"Cambodia","total_employee":429,"category_name":"A Casual Worker"},{"country_id":30,"country_name":"Cambodia","total_employee":388,"category_name":"Production Manager"},{"country_id":30,"country_name":"Cambodia","total_employee":300,"category_name":"Quality Controller"},{"country_id":30,"country_name":"Cambodia","total_employee":260,"category_name":"Helper"},{"country_id":30,"country_name":"Cambodia","total_employee":250,"category_name":"Concrete Foreman"},{"country_id":30,"country_name":"Cambodia","total_employee":230,"category_name":"Coiling machine operator"},{"country_id":30,"country_name":"Cambodia","total_employee":165,"category_name":"Pipe Fitting Labour"},{"country_id":30,"country_name":"Cambodia","total_employee":103,"category_name":"Assistant Mason"},{"country_id":30,"country_name":"Cambodia","total_employee":100,"category_name":"Carpenter"},{"country_id":30,"country_name":"Cambodia","total_employee":75,"category_name":"Civil Helpers\/Labors"},{"country_id":30,"country_name":"Cambodia","total_employee":70,"category_name":"Coiling Machine Operator"},{"country_id":30,"country_name":"Cambodia","total_employee":60,"category_name":"AC Technician Central"},{"country_id":30,"country_name":"Cambodia","total_employee":50,"category_name":"Production  Operator"},{"country_id":30,"country_name":"Cambodia","total_employee":30,"category_name":"Interpreter"},{"country_id":30,"country_name":"Cambodia","total_employee":25,"category_name":"Construction Technician"},{"country_id":30,"country_name":"Cambodia","total_employee":24,"category_name":"Farm Worker"},{"country_id":30,"country_name":"Cambodia","total_employee":20,"category_name":"Heavy operation"},{"country_id":30,"country_name":"Cambodia","total_employee":20,"category_name":"Asst. Plaster Mason"},{"country_id":30,"country_name":"Cambodia","total_employee":20,"category_name":"Garment Production Manager"},{"country_id":30,"country_name":"Cambodia","total_employee":20,"category_name":"Carpenter (A Grade)"},{"country_id":30,"country_name":"Cambodia","total_employee":20,"category_name":"Assistant Electrician"},{"country_id":30,"country_name":"Cambodia","total_employee":20,"category_name":"Driver"},{"country_id":30,"country_name":"Cambodia","total_employee":20,"category_name":"Garbage Truck Driver"},{"country_id":30,"country_name":"Cambodia","total_employee":15,"category_name":"AC Technicain"},{"country_id":30,"country_name":"Cambodia","total_employee":15,"category_name":"All Round Foreman"},{"country_id":30,"country_name":"Cambodia","total_employee":15,"category_name":"Worker"},{"country_id":30,"country_name":"Cambodia","total_employee":10,"category_name":"Kitchen Worker"},{"country_id":30,"country_name":"Cambodia","total_employee":10,"category_name":"Plumber"},{"country_id":30,"country_name":"Cambodia","total_employee":5,"category_name":"Labour"},{"country_id":30,"country_name":"Cambodia","total_employee":2,"category_name":"General Labour"}],"recordsTotal":35,"recordsFiltered":35,"totalEmployee":12263},"type":"success","fade":false}

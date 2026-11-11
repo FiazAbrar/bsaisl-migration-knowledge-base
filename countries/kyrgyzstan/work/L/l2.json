@@ -1,0 +1,12 @@
+{
+"prefix": "L",
+"sources": [],
+"facts": [
+{"n":"ombudsman-kg-hotline115","c":"People can contact the Ombudsman's (Akyikatchy's) office free on the short number 115","q":"Аппаратына 115 акысыз кыска номери боюнча кайрылсаңыз болот","d":"2026-03-24","s":"verified"},
+{"n":"minjust-kg-labour-code-2025","c":"Wages must be paid by bank transfer, not cash, by employers that are companies","q":"Выплата заработной платы должна производиться в безналичной форме","d":"2026-07-28","s":"verified"},
+{"n":"news-tbs-kyrgyzstan-fraud-allegations","c":"A worker who went on a work visa through a recruiting agency said he was promised Tk 57,000 a month","q":"I was supposed to be paid Tk57,000 a month","d":"2022-08-16","s":"unofficial"},
+{"n":"news-prothomalo-kyrgyzstan-returnees-abuse","c":"The broker told garment workers they would earn Tk 52,000 a month","q":"মাসে ৫২ হাজার টাকা পাওয়া যাবে","d":"2022-08-16","s":"unofficial"},
+{"n":"news-tbsbangla-kyrgyzstan-388016","c":"The 180 returned on a special flight from Bishkek on 10 September 2025","q":"বুধবার (১০ সেপ্টেম্বর) ভোর সাড়ে ৩টায় তারা বিশকেক থেকে বিশেষ ফ্লাইটে","d":"2025-09-10","s":"unofficial"},
+{"n":"news-tbsbangla-kyrgyzstan-388016","c":"One returnee arrived in Bishkek on 3 June 2024 for a welding job","q":"ওয়েল্ডিংয়ের কাজের আশায় তিনি ২০২৪ সালের ৩ জুন বিশকেক পৌঁছান","d":"2025-09-10","s":"unofficial"}
+]
+}

@@ -1,0 +1,59 @@
+name,url,access_date,http_status,content_type,method,files
+nbc-exchange-rate-2026-11-11,https://www.nbc.gov.kh/english/economic_research/exchange_rate.php,2026-11-11,200,text/html; charset=UTF-8,curl,nbc-exchange-rate-2026-11-11.html;nbc-exchange-rate-2026-11-11.md;nbc-exchange-rate-2026-11-11.txt
+bb-fx-rate-sheet-2026-11-11,https://www.bb.org.bd/econdata/exchange_rate/exchange_rate_11_11_2026.pdf,2026-11-11,200,application/pdf,curl,bb-fx-rate-sheet-2026-11-11.pdf;bb-fx-rate-sheet-2026-11-11.txt
+nbc-official-exchange-rate-2026-11-11-FAILED,https://www.nbc.gov.kh/download_files/economic_research/off_ex_rate_eng/oer_11-11-2026.pdf,2026-11-11,404,text/html; charset=utf-8,curl,
+nbc-official-cross-rate-2026-11-11-FAILED,https://www.nbc.gov.kh/download_files/economic_research/off_cro_rate_eng/ocr_11-11-26.pdf,2026-11-11,404,text/html; charset=utf-8,curl,
+nbc-exchange-rate-2026-11-11-fc,https://www.nbc.gov.kh/english/economic_research/exchange_rate.php,2026-11-11,200,,firecrawl,nbc-exchange-rate-2026-11-11-fc.md
+pwc-cambodia-individual-income-tax,https://taxsummaries.pwc.com/cambodia/individual/taxes-on-personal-income,2026-11-11,200,text/html; charset=utf-8,curl,pwc-cambodia-individual-income-tax.html;pwc-cambodia-individual-income-tax.md;pwc-cambodia-individual-income-tax.txt
+pwc-cambodia-individual-residence,https://taxsummaries.pwc.com/cambodia/individual/residence,2026-11-11,200,text/html; charset=utf-8,curl,pwc-cambodia-individual-residence.html;pwc-cambodia-individual-residence.md;pwc-cambodia-individual-residence.txt
+cambodia-airports-pnh-customs-FAILED,https://pnh.cambodia-airports.aero/en/node/288,2026-11-11,404,text/html; charset=utf-8,curl,
+cambodia-airports-kos-customs,https://kos.cambodia-airports.aero/customs-excise,2026-11-11,200,text/html; charset=utf-8,curl,cambodia-airports-kos-customs.html;cambodia-airports-kos-customs.md;cambodia-airports-kos-customs.txt
+gdt-kh-tax-on-salary-FAILED,https://www.tax.gov.kh/en/tax-on-salary,2026-11-11,404,text/html;charset=UTF-8,curl,
+odm-kh-law-on-foreign-exchange-1997,https://data.opendevelopmentmekong.net/dataset/1e0fde10-0a99-456b-9b31-6944c7731d77/resource/0e9aa7fe-aa14-487a-ba24-4f5b8d0fcb70/download/7489f11d-cbd1-4bf7-b05e-be43ab4d744a.pdf,2026-11-11,200,application/octet-stream,curl,odm-kh-law-on-foreign-exchange-1997.pdf;odm-kh-law-on-foreign-exchange-1997.txt
+bkash-remittance-mts-cambodia,https://www.bkash.com/en/products-services/remittance/money-transfer-service,2026-11-11,200,,firecrawl,bkash-remittance-mts-cambodia.md
+mof-budget-speech-2026-27,https://customs.gov.bd/files/BudgetSpeech_2026_2027_E.pdf,2026-11-11,200,,manual,mof-budget-speech-2026-27.pdf;mof-budget-speech-2026-27.txt
+hsia-customs,https://www.hsia.gov.bd/content-details/10/Customs,2026-11-11,200,,manual,hsia-customs.html;hsia-customs.md;hsia-customs.txt
+news-tbs-bfiu-14000-mfs-hundi,https://www.tbsnews.net/bangladesh/bfiu-freeze-14000-more-mfs-accounts-over-online-gambling-hundi-links-1505811,2026-11-11,200,,manual,news-tbs-bfiu-14000-mfs-hundi.html;news-tbs-bfiu-14000-mfs-hundi.md;news-tbs-bfiu-14000-mfs-hundi.txt
+nsd-wage-earner-development-bond,https://nationalsavings.gov.bd/pages/static-pages/6922dfd3933eb65569e242e9,2026-11-11,200,,manual,nsd-wage-earner-development-bond.html;nsd-wage-earner-development-bond.md;nsd-wage-earner-development-bond.txt
+bb-remittance-selected-country-monthly,https://www.bb.org.bd/en/index.php/econdata/wagermidtl,2026-11-11,200,,manual,bb-remittance-selected-country-monthly.md
+acleda-western-union-send-guide-FAILED,https://acledasecurities.com.kh/qr/toanchet-manual/western-union-send?h=1&l=eng,2026-11-11,404,text/html,curl,
+acleda-thunes-transfer-FAILED,https://acledasecurities.com.kh/kh/eng/ps_ftintltransfer_thunes,2026-11-11,404,text/html,curl,
+acleda-western-union-transfer-FAILED,https://acledasecurities.com.kh/kh/eng/ps_ftintltransfer_wu,2026-11-11,404,text/html,curl,
+acleda-moneygram-launch-2022-FAILED,https://www.acledasecurities.com.kh/kh/eng/md_ln20220615,2026-11-11,404,text/html,curl,
+acleda-thunes-brochure-FAILED,https://acledasecurities.com.kh/kh/assets/pdf_zip/brochure-thunes.pdf,2026-11-11,404,text/html,curl,
+aba-ria-mobile-transfers-FAILED,https://ababank.com/aba-mobile-app/transfers/aba-ria-mobile-transfers,2026-11-11,403,text/html; charset=UTF-8,curl,
+aba-moneygram-mobile-FAILED,https://www.ababank.com/aba-news/send-and-receive-moneygram-transfers-in-aba-mobile/,2026-11-11,403,text/html; charset=UTF-8,curl,
+aba-swift-mobile-transfers-FAILED,https://ababank.com/personal/money-transfers/outward-swift-mobile-transfers,2026-11-11,403,text/html; charset=UTF-8,curl,
+news-b2bcambodia-wing-international-transfers,https://b2b-cambodia.com/news/international-money-transfers-with-wing-bank,2026-11-11,200,text/html; charset=utf-8,curl,news-b2bcambodia-wing-international-transfers.html;news-b2bcambodia-wing-international-transfers.md;news-b2bcambodia-wing-international-transfers.txt
+acleda-intl-transfer-thunes,https://www.acledabank.com.kh/kh/eng/ps_ftintltransfer_thunes,2026-11-11,200,text/html; charset=UTF-8,curl,acleda-intl-transfer-thunes.html;acleda-intl-transfer-thunes.md;acleda-intl-transfer-thunes.txt
+acleda-intl-transfer-wu,https://www.acledabank.com.kh/kh/eng/ps_ftintltransfer_wu,2026-11-11,200,text/html; charset=UTF-8,curl,acleda-intl-transfer-wu.html;acleda-intl-transfer-wu.md;acleda-intl-transfer-wu.txt
+acleda-intl-transfer-mg,https://www.acledabank.com.kh/kh/eng/ps_ftintltransfer_mg,2026-11-11,200,text/html; charset=UTF-8,curl,acleda-intl-transfer-mg.html;acleda-intl-transfer-mg.md;acleda-intl-transfer-mg.txt
+acleda-intl-transfer-ria,https://www.acledabank.com.kh/kh/eng/ps_ftintltransfer_ria,2026-11-11,200,text/html; charset=UTF-8,curl,acleda-intl-transfer-ria.html;acleda-intl-transfer-ria.md;acleda-intl-transfer-ria.txt
+acleda-intl-transfer-swift,https://www.acledabank.com.kh/kh/eng/ps_ftintltransfer_swift,2026-11-11,200,text/html; charset=UTF-8,curl,acleda-intl-transfer-swift.html;acleda-intl-transfer-swift.md;acleda-intl-transfer-swift.txt
+acleda-thunes-send-manual,https://www.acledabank.com.kh/qr/toanchet-manual/thunes-send?l=eng,2026-11-11,200,text/html; charset=UTF-8,curl,acleda-thunes-send-manual.html;acleda-thunes-send-manual.md;acleda-thunes-send-manual.txt
+acleda-foreign-exchange,https://www.acledabank.com.kh/kh/eng/ps_cmforeignexchange?t=p,2026-11-11,200,text/html; charset=UTF-8,curl,acleda-foreign-exchange.html;acleda-foreign-exchange.md;acleda-foreign-exchange.txt
+acleda-thunes-brochure,https://www.acledabank.com.kh/kh/assets/pdf_zip/brochure-thunes.pdf,2026-11-11,200,application/pdf,curl,acleda-thunes-brochure.pdf;acleda-thunes-brochure.txt
+acleda-savings-account,https://www.acledabank.com.kh/kh/eng/ps_desavingacc?t=p,2026-11-11,200,text/html; charset=UTF-8,curl,acleda-savings-account.html;acleda-savings-account.md;acleda-savings-account.txt
+acleda-account-terms,https://www.acledabank.com.kh/qr/term-account?l=eng,2026-11-11,200,text/html; charset=UTF-8,curl,acleda-account-terms.html;acleda-account-terms.md;acleda-account-terms.txt
+acleda-mobile-app,https://www.acledabank.com.kh/kh/eng/ps_ebacledamobile,2026-11-11,200,text/html; charset=UTF-8,curl,acleda-mobile-app.html;acleda-mobile-app.md;acleda-mobile-app.txt
+aba-ria-mobile-transfers,https://www.ababank.com/aba-mobile-app/transfers/aba-ria-mobile-transfers,2026-11-11,200,,firecrawl,aba-ria-mobile-transfers.md
+aba-instant-account,https://www.ababank.com/aba-mobile-app/mobi-instant-account/,2026-11-11,200,,firecrawl,aba-instant-account.md
+wing-home,https://www.wingbank.com.kh/en/,2026-11-11,200,text/html; charset=UTF-8,curl,wing-home.html;wing-home.md;wing-home.txt
+wing-international-transfer-FAILED,https://www.wingbank.com.kh/en/personal/money-transfer/international-money-transfer/,2026-11-11,404,text/html; charset=UTF-8,curl,
+wing-world-transfer,https://www.wingbank.com.kh/en/personal/transfers-payments/world-transfer,2026-11-11,200,text/html; charset=UTF-8,curl,wing-world-transfer.html;wing-world-transfer.md;wing-world-transfer.txt
+wing-open-account,https://www.wingbank.com.kh/en/wing-bank-app/financial-services/open-your-wing-account,2026-11-11,200,text/html; charset=UTF-8,curl,wing-open-account.html;wing-open-account.md;wing-open-account.txt
+wing-transfer-partners,https://www.wingbank.com.kh/en/personal/transfers-payments/our-partners,2026-11-11,200,text/html; charset=UTF-8,curl,wing-transfer-partners.html;wing-transfer-partners.md;wing-transfer-partners.txt
+kpmg-kh-salary-tax-thresholds-2023,https://assets.kpmg.com/content/dam/kpmg/kh/pdf/technical-update/2023/en/implementation-on-new-taxable-salary-thresholds-and-extension-of-the-prepayment-of-tax-on-income-(PToI)-suspension-for-the-textile-and-garment-sector.pdf,2026-11-11,200,application/pdf,curl,kpmg-kh-salary-tax-thresholds-2023.pdf;kpmg-kh-salary-tax-thresholds-2023.txt
+pwc-cambodia-individual-tax-administration,https://taxsummaries.pwc.com/cambodia/individual/tax-administration,2026-11-11,200,text/html; charset=utf-8,curl,pwc-cambodia-individual-tax-administration.html;pwc-cambodia-individual-tax-administration.md;pwc-cambodia-individual-tax-administration.txt
+pwc-cambodia-individual-deductions,https://taxsummaries.pwc.com/cambodia/individual/deductions,2026-11-11,200,text/html; charset=utf-8,curl,pwc-cambodia-individual-deductions.html;pwc-cambodia-individual-deductions.md;pwc-cambodia-individual-deductions.txt
+news-cambodianess-minimum-wage-living-costs,https://cambodianess.com/article/cambodias-2-minimum-wage-increase-raises-concerns-over-rising-living-costs,2026-11-11,200,text/html; charset=UTF-8,curl,news-cambodianess-minimum-wage-living-costs.html;news-cambodianess-minimum-wage-living-costs.md;news-cambodianess-minimum-wage-living-costs.txt
+news-lepetitjournal-budget-phnom-penh-2026,https://lepetitjournal.com/vivre-au-cambodge/quel-budget-prevoir-pour-vivre-phnom-penh-en-2026-434366,2026-11-11,200,text/html; charset=utf-8,curl,news-lepetitjournal-budget-phnom-penh-2026.html;news-lepetitjournal-budget-phnom-penh-2026.md;news-lepetitjournal-budget-phnom-penh-2026.txt
+nbc-list-commercial-banks-FAILED,https://www.nbc.gov.kh/english/supervision/commercial_banks.php,2026-11-11,404,text/html; charset=utf-8,curl,
+nbc-list-payment-service-institutions-FAILED,https://www.nbc.gov.kh/english/supervision/payment_service.php,2026-11-11,404,text/html; charset=utf-8,curl,
+nbc-hotline-FAILED,https://www.nbc.gov.kh/english/about_the_bank/hotline.php,2026-11-11,404,text/html; charset=utf-8,curl,
+nbc-hotline,https://www.nbc.gov.kh/english/about_the_bank/hotline.php,2026-11-11,200,text/html; charset=UTF-8,wayback:20260514140401,nbc-hotline.html;nbc-hotline.md;nbc-hotline.txt
+tbs-why-hundi-2024,https://www.tbsnews.net/node/1011376,2026-11-11,200,,manual,tbs-why-hundi-2024.html;tbs-why-hundi-2024.md
+wu-kh-send-money-to-bangladesh-FAILED,https://www.westernunion.com/kh/en/send-money-to-bangladesh.html,2026-11-11,404,text/html,curl,
+news-transfi-cambodia-to-bangladesh,https://www.transfi.com/send-money/cambodia-to-bangladesh,2026-11-11,200,text/html; charset=utf-8,curl,news-transfi-cambodia-to-bangladesh.html;news-transfi-cambodia-to-bangladesh.md;news-transfi-cambodia-to-bangladesh.txt
+aba-current-account-FAILED,https://www.ababank.com/current-account/,2026-11-11,403,text/html; charset=UTF-8,curl,
+aba-current-account,https://www.ababank.com/current-account/,2026-11-11,200,,firecrawl,aba-current-account.md

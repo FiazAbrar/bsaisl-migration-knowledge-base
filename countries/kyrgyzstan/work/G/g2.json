@@ -1,0 +1,11 @@
+{
+"prefix": "G",
+"sources": [
+ ["nbkr-consumer-complaints-notice", "National Bank of the Kyrgyz Republic", "Notice to consumers of financial services: complaints about banks and other financial-credit organisations", "yes", "2022-03-07"]
+],
+"facts": [
+ {"n": "nbkr-consumer-complaints-notice", "c": "NBKR: a customer with a problem first complains in writing (by post or electronically) to the bank or other financial-credit organisation, giving full name, address, phone numbers and the substance, with supporting documents; the reply must be signed by the head of the organisation or branch and give clear reasons", "q": "В обращении (жалобе) необходимо указать ФИО потребителя, адрес и номера телефонов, суть обращения, в случае необходимости могут быть приложены документы, подтверждающие доводы потребителя.", "d": "2022-03-07", "s": "possibly-outdated", "note": "Same notice: 'Ответ на обращение (жалобу) потребителя должен быть подписан руководителем ФКО (филиала) и должен содержать четкое обоснование'."},
+ {"n": "nbkr-consumer-complaints-notice", "c": "NBKR: if the customer disagrees with, or gets no full answer from, the bank or financial organisation, they can complain to the National Bank or its regional offices, including by e-mail giving full name, phone, address and the substance, with copies of documents", "q": "Если потребитель не согласен или не получил исчерпывающего ответа от ФКО, то потребитель может обратится в Национальный банк Кыргызской Республики.", "d": "2022-03-07", "s": "possibly-outdated"},
+ {"n": "nbkr-consumer-complaints-notice", "c": "NBKR consumer-protection contacts (head office, Bishkek): public reception (0312) 61 04 86 (+996 312 61 04 86), also 0(555) 85 57 48, 0(770) 73 73 49, (0312) 61 52 78; e-mail mail@nbkr.kg; Osh office (03222) 48434", "q": "телефону общественной приемной Национального банка 996 312 61 04 86", "d": "2022-03-07", "s": "possibly-outdated", "note": "Table: 'Центральный аппарат Национального банка 0(555) 85 57 48 0(770) 73 73 49 (0312) 61 04 86 (0312) 61 52 78 mail@nbkr.kg'; 'Ошское управление (03222) 48434 (03222) 48375'."}
+]
+}
