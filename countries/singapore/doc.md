@@ -4,6 +4,38 @@ How to go to Singapore from Bangladesh, visa by visa, step by step, for Banglade
 
 S$ is the Singapore dollar; Tk is the Bangladeshi taka (1 lakh is Tk 100,000). S$1 is about Tk 97: Bangladesh Bank's cross rate on 19 October 2026 was S$1 = Tk 96.59 to 96.69, and taka figures in this doc are converted at that rate unless a source gives its own [L0001]. A Bangladesh passport holder needs a visa, or a work pass approval, before travelling to Singapore [V0001].
 
+## Start here
+
+If you have never been abroad, read this first. Every point is set out in full further down.
+
+### Can you go now?
+
+Yes. Singapore is open, and most Bangladeshis go as construction workers on a Work Permit, Singapore's pass for unskilled and semi-skilled foreign workers, which ties you to one employer [C0004, R0058, C0145]. A visit visa never lets you work [V0071].
+
+### Your first five steps
+
+1. Register on OEP, BMET's online system, at employee.oep.gov.bd (Work Permit, Step 1) [B0002].
+2. Get an e-passport: Tk 4,025 for 5 years, regular delivery (Work Permit, Step 2) [B0011].
+3. Take the skills test only at one of the five test centres approved by Singapore's Building and Construction Authority; the employer pays the test fee, capped at S$925 (Work Permit, Step 3) [R0154, R0148].
+4. Before you pay anyone, check your IPA, the approval letter that lets you fly, on MOM's free page service2.mom.gov.sg/workpass/enquiry, which is also in Bengali (Work Permit, Step 5) [R0237, R0242].
+5. Do the 3-day pre-departure orientation and get BMET clearance, the smart card, before you fly (Work Permit, Step 6) [B0029, B0039].
+
+### What it really costs
+
+The government's maximum is Tk 2,62,270, but first-time workers are asked for S$9,000 to 13,000 (about Tk 8.7 to 12.6 lakh), and some pay up to Tk 16 lakh [B0273, C0079, C0162, L0001]. Pay only into the agency's own bank account and keep every receipt [B0048].
+
+### Three scams to watch for
+
+- *An "approved" screenshot, then a different job:* check the IPA yourself before paying [R0266, R0237].
+- *A training centre that keeps your passport and keeps raising the price:* the test fee is the employer's to pay, not yours [R0206, R0148].
+- *A visit visa sold as a job:* working on one is illegal, and overstaying can bring jail and caning [V0071, C0182].
+
+### Who to call
+
+- In Bangladesh: Probash-Bondhu, 16135, free, or +8809610102030 from abroad [B0005, B0006].
+- In Singapore: the Migrant Workers' Centre helpline, 6536 2692, open 24 hours [E0129].
+- The Bangladesh High Commission's labour wing in Singapore: +65 6661 0298 [E0308, B0198, E0309].
+
 ## Background
 
 ### In one minute
