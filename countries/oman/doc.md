@@ -161,7 +161,7 @@ Before the suspension, many men arrived without a confirmed job and stayed joble
 
 ## Visas not open to Bangladeshis
 
-Everything outside the June 2024 exemptions is closed by the October 2023 suspension (see Is it open now) [V0070, V0072]. On 9 November 2026 ROP's online eligibility check offered a Bangladesh passport holder living outside the GCC only one visa he can get without a sponsor: the 33A Property Owner Visa, for someone who has bought a home in an approved tourist complex [V0046].
+Everything outside the June 2024 exemptions is closed by the October 2023 suspension (see "Is it open now, and who can go?") [V0070, V0072]. On 9 November 2026 ROP's online eligibility check offered a Bangladesh passport holder living outside the GCC only one visa he can get without a sponsor: the 33A Property Owner Visa, for someone who has bought a home in an approved tourist complex [V0046].
 
 These schemes exist but are closed to a Bangladesh passport holder, or open only in the narrow cases shown:
 
@@ -182,7 +182,7 @@ These schemes exist but are closed to a Bangladesh passport holder, or open only
 
 ## Work visa: company worker
 
-Since 31 October 2023 the ROP has issued no new visas to Bangladeshis outside the categories exempted in June 2024, and none of those is a low-skilled job (see Is it open now) [R0024, R0021, R0017]. The one opening for ordinary workers is the 5,000 farm-worker quota for members of Omani agricultural associations (Step 1), which the Bangladesh Embassy in Muscat said was not a general reopening [R0009, R0106]. BMET cleared 79 workers for Oman from 1 to 8 November 2026, 219 in October and none in April 2026, against about 10,000 Bangladeshis a month before the suspension [R0004, R0002, R0003, R0016].
+Since 31 October 2023 the ROP has issued no new visas to Bangladeshis outside the categories exempted in June 2024, and none of those is a low-skilled job (see "Is it open now, and who can go?") [R0024, R0021, R0017]. The one opening for ordinary workers is the 5,000 farm-worker quota for members of Omani agricultural associations (Step 1), which the Bangladesh Embassy in Muscat said was not a general reopening [R0009, R0106]. BMET cleared 79 workers for Oman from 1 to 8 November 2026, 219 in October and none in April 2026, against about 10,000 Bangladeshis a month before the suspension [R0004, R0002, R0003, R0016].
 
 So the steps below are written for the route as it works when a visa is issued: today that means an exempt profession or the farm-worker quota; for anyone else they describe the route as it worked before 31 October 2023 and will work if the suspension is lifted. The employer gets a labour authorisation from the MoL (Ministry of Labour) and the employment visa from the ROP; in Bangladesh the worker takes the Wafid medical (the Gulf states' pre-departure health check), the employer's papers are attested at the Bangladesh Embassy in Muscat, and BMET gives emigration clearance; in Oman the worker takes a second medical and gets a resident card [R0059, R0063, R0102, R0114, R0132, R0071, R0068].
 
@@ -951,7 +951,7 @@ One woman sent home in 2021 had become pregnant during abuse, was handed to the 
 
 ## Visit visa (tourist, family and friends)
 
-ROP issues every visit visa through its e-visa portal, evisa.rop.gov.om, where four kinds of visa are on offer: the unsponsored tourist visa, the sponsored tourist visa, the tourist visa for GCC residents and the express visa [V0107, V0025]. "Unsponsored" means the visitor applies alone; "sponsored" means a hotel, a licensed tour company or a relative resident in Oman applies for him and is responsible for him [V0042, V0080, V0014]. A Bangladeshi visitor cannot work on any of them (see Can you work?) [KD0074, KD0075].
+ROP issues every visit visa through its e-visa portal, evisa.rop.gov.om, where four kinds of visa are on offer: the unsponsored tourist visa, the sponsored tourist visa, the tourist visa for GCC residents and the express visa [V0107, V0025]. "Unsponsored" means the visitor applies alone; "sponsored" means a hotel, a licensed tour company or a relative resident in Oman applies for him and is responsible for him [V0042, V0080, V0014]. A Bangladeshi visitor cannot work on any of them (see "Can you work on a visit visa?") [KD0074, KD0075].
 
 What a Bangladeshi can get now depends on where he lives:
 
@@ -1091,7 +1091,7 @@ Health insurance is required of visa-free visitors [V0102].
 > **Need to know**
 > - Does ROP require health insurance for a Bangladeshi on a family or tourist visit visa, and which insurers are accepted? [V0102]
 
-### Can you work?
+### Can you work on a visit visa?
 
 No. A non-Omani may not start any work in Oman before getting a work permit, and the permit requires legal entry and a contract with a licensed employer [KD0074, KD0086]. A foreigner who works without a permit, or for anyone other than the employer authorised to employ him, faces 10 days to a month in prison and/or a fine of RO 1,000 to 2,000, cancellation of any permit, deportation and a ban from entering Oman [KD0075]. Since 31 October 2023 a tourist or visit visa can't be converted into a work visa inside Oman, for any nationality (see Visas not open to Bangladeshis) [V0070, V0097]. A sponsor who cannot produce his visitor, or say where he is, within a month of being asked is fined up to RO 500 [V0121].
 
@@ -1103,7 +1103,7 @@ Paying the fee does not guarantee a visa [V0037]. If ROP asks for more informati
 > - Does ROP give a reason for refusing a visit visa, and is there any appeal or wait before reapplying? [V0037]
 > - Is the fee refunded after a refusal? (the e-visa FAQ sends payment issues to the call centre) [V0041]
 
-### Scams
+### Scams on a visit visa
 
 #### A visit visa sold as a job
 
@@ -1156,7 +1156,7 @@ Costs RO 50; you must be outside Oman, hold no other valid visa and have a passp
 
 ### Scams
 
-A business or express visa sold with a job works like the visit visa sold as a job (see Visit visa, Scams): no visitor may work in Oman without a work permit, and since 31 October 2023 no visit visa can be converted into a work visa inside Oman [KD0074, V0070]. Giving false papers, such as a fake company invitation, to get any Oman visa is punished by 1 month to 3 years in prison and/or a fine of RO 100 to 500 [V0116, V0117].
+A business or express visa sold with a job works like the visit visa sold as a job (see Scams on a visit visa): no visitor may work in Oman without a work permit, and since 31 October 2023 no visit visa can be converted into a work visa inside Oman [KD0074, V0070]. Giving false papers, such as a fake company invitation, to get any Oman visa is punished by 1 month to 3 years in prison and/or a fine of RO 100 to 500 [V0116, V0117].
 
 > **Need to know**
 > - What business-visa scams are reported for Bangladeshis going to Oman, and what do brokers charge for a "business visa"? [V0072]
@@ -1238,7 +1238,7 @@ Muscat airport says a transit passenger may enter Oman if the stopover is at lea
 
 Ship crews joining or leaving a ship through an Omani airport get a Sailor's Transit Visa, requested by the ship's agent, for up to seven days [V0023].
 
-**Can you work?** No: a transit visa gives no right to work, and any work needs a work permit first (see Visit visa, Can you work?) [KD0074, KD0075].
+**Can you work?** No: a transit visa gives no right to work, and any work needs a work permit first (see "Can you work on a visit visa?") [KD0074, KD0075].
 
 **Where to get help:**
 - **Entry during a stopover:** ROP, +968 2451 8746 [V0155].
@@ -1254,7 +1254,7 @@ Ship crews joining or leaving a ship through an Omani airport get a Sailor's Tra
 
 Oman has a Patient Visa (type 35) for a short visit by someone with a medical problem; it is listed among the unsponsored visas, and ROP's e-visa eligibility check offers a Bangladeshi living outside the GCC no unsponsored visa except the 33A Property Owner Visa [V0009, V0046]. A sponsored Emergency Visa (type 30) allows a short visit in an emergency [V0018]. Patients are not among the categories exempted from the Bangladesh suspension in June 2024 [V0072].
 
-**Can you work?** No: any work needs a work permit first (see Visit visa, Can you work?) [KD0074, KD0075].
+**Can you work?** No: any work needs a work permit first (see "Can you work on a visit visa?") [KD0074, KD0075].
 
 **Where to get help:**
 - **Visa questions:** ROP e-visa call centre, 80080011 (toll-free in Oman) or +968 22848200, Info-OmaneVisa@rop.gov.om, 07:00 to 21:00 Oman time [V0041].

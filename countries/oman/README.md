@@ -124,9 +124,9 @@ RO is the Omani rial (1 rial is 1,000 baisa) <sup>[N1](#n1)</sup>; Tk is the Ban
   - [5.4 Route C: Sponsored tourist visa (tour company) for "high-income tourists"](#route-c-sponsored-tourist-visa-tour-company-for-high-income-tourists)
   - [5.5 At Muscat airport](#at-muscat-airport)
   - [5.6 Insurance](#insurance)
-  - [5.7 Can you work?](#can-you-work)
+  - [5.7 Can you work on a visit visa?](#can-you-work-on-a-visit-visa)
   - [5.8 If the visa is refused](#if-the-visa-is-refused)
-  - [5.9 Scams](#scams-2)
+  - [5.9 Scams on a visit visa](#scams-on-a-visit-visa)
     - [5.9.1 A visit visa sold as a job](#a-visit-visa-sold-as-a-job)
     - [5.9.2 Fake e-visas and fake documents](#fake-e-visas-and-fake-documents)
   - [5.10 Where to get help](#where-to-get-help)
@@ -134,7 +134,7 @@ RO is the Omani rial (1 rial is 1,000 baisa) <sup>[N1](#n1)</sup>; Tk is the Ban
   - [6.1 Express visa](#express-visa)
   - [6.2 Multiple-entry visit visa](#multiple-entry-visit-visa)
   - [6.3 Official visits and events](#official-visits-and-events)
-  - [6.4 Scams](#scams-3)
+  - [6.4 Scams](#scams-2)
   - [6.5 Where to get help](#where-to-get-help-1)
 - [7 Student visa](#student-visa)
   - [7.1 Step 1: Choose an institution licensed to take foreign students](#step-1-choose-an-institution-licensed-to-take-foreign-students)
@@ -143,8 +143,8 @@ RO is the Omani rial (1 rial is 1,000 baisa) <sup>[N1](#n1)</sup>; Tk is the Ban
   - [7.4 Step 4: Check and travel](#step-4-check-and-travel-1)
   - [7.5 How long you can stay](#how-long-you-can-stay-2)
   - [7.6 Family](#family)
-  - [7.7 Can you work?](#can-you-work-1)
-  - [7.8 Scams](#scams-4)
+  - [7.7 Can you work?](#can-you-work)
+  - [7.8 Scams](#scams-3)
   - [7.9 Where to get help](#where-to-get-help-2)
 - [8 Transit](#transit)
 - [9 Medical treatment visit](#medical-treatment-visit)
@@ -162,7 +162,7 @@ RO is the Omani rial (1 rial is 1,000 baisa) <sup>[N1](#n1)</sup>; Tk is the Ban
   - [10.7 Step 5: After you arrive](#step-5-after-you-arrive)
   - [10.8 Can a spouse work?](#can-a-spouse-work)
   - [10.9 If you change employer or lose the job](#if-you-change-employer-or-lose-the-job)
-  - [10.10 Scams](#scams-5)
+  - [10.10 Scams](#scams-4)
   - [10.11 Where to get help](#where-to-get-help-3)
 - [11 Investor and long-term residence](#investor-and-long-term-residence)
   - [11.1 Golden Residency (10 years)](#golden-residency-10-years)
@@ -171,7 +171,7 @@ RO is the Omani rial (1 rial is 1,000 baisa) <sup>[N1](#n1)</sup>; Tk is the Ban
   - [11.2 Investor visa and residence (older route)](#investor-visa-and-residence-older-route)
   - [11.3 Property-owner residence](#property-owner-residence)
   - [11.4 What is realistic for Bangladeshis](#what-is-realistic-for-bangladeshis)
-  - [11.5 Scams](#scams-6)
+  - [11.5 Scams](#scams-5)
   - [11.6 Where to get help](#where-to-get-help-4)
 - [12 Changing visa type](#changing-visa-type)
   - [12.1 Visit visa to work](#visit-visa-to-work)
@@ -411,7 +411,7 @@ Before the suspension, many men arrived without a confirmed job and stayed joble
 
 ## 2 Visas not open to Bangladeshis
 
-Everything outside the June 2024 exemptions is closed by the October 2023 suspension (see Is it open now) <sup>[N2 (2023)](#n2), [N3 (2024)](#n3)</sup>. On 9 November 2026 ROP's online eligibility check offered a Bangladesh passport holder living outside the GCC only one visa he can get without a sponsor: the 33A Property Owner Visa, for someone who has bought a home in an approved tourist complex <sup>[35](#o35)</sup>.
+Everything outside the June 2024 exemptions is closed by the October 2023 suspension (see ["Is it open now, and who can go?"](#is-it-open-now-and-who-can-go)) <sup>[N2 (2023)](#n2), [N3 (2024)](#n3)</sup>. On 9 November 2026 ROP's online eligibility check offered a Bangladesh passport holder living outside the GCC only one visa he can get without a sponsor: the 33A Property Owner Visa, for someone who has bought a home in an approved tourist complex <sup>[35](#o35)</sup>.
 
 These schemes exist but are closed to a Bangladesh passport holder, or open only in the narrow cases shown:
 
@@ -434,7 +434,7 @@ These schemes exist but are closed to a Bangladesh passport holder, or open only
 
 ## 3 Work visa: company worker
 
-Since 31 October 2023 the ROP has issued no new visas to Bangladeshis outside the categories exempted in June 2024, and none of those is a low-skilled job (see Is it open now) <sup>[N2 (2023)](#n2), [N3 (2024)](#n3), [N19 (2024)](#n19)</sup>. The one opening for ordinary workers is the 5,000 farm-worker quota for members of Omani agricultural associations ([Step 1: Check that your route is open](#step-1-check-that-your-route-is-open)), which the Bangladesh Embassy in Muscat said was not a general reopening <sup>[N4](#n4), [N30](#n30)</sup>. BMET cleared 79 workers for Oman from 1 to 8 November 2026, 219 in October and none in April 2026, against about 10,000 Bangladeshis a month before the suspension <sup>[45](#o45), [N19 (2024)](#n19)</sup>.
+Since 31 October 2023 the ROP has issued no new visas to Bangladeshis outside the categories exempted in June 2024, and none of those is a low-skilled job (see ["Is it open now, and who can go?"](#is-it-open-now-and-who-can-go)) <sup>[N2 (2023)](#n2), [N3 (2024)](#n3), [N19 (2024)](#n19)</sup>. The one opening for ordinary workers is the 5,000 farm-worker quota for members of Omani agricultural associations ([Step 1: Check that your route is open](#step-1-check-that-your-route-is-open)), which the Bangladesh Embassy in Muscat said was not a general reopening <sup>[N4](#n4), [N30](#n30)</sup>. BMET cleared 79 workers for Oman from 1 to 8 November 2026, 219 in October and none in April 2026, against about 10,000 Bangladeshis a month before the suspension <sup>[45](#o45), [N19 (2024)](#n19)</sup>.
 
 So the steps below are written for the route as it works when a visa is issued: today that means an exempt profession or the farm-worker quota; for anyone else they describe the route as it worked before 31 October 2023 and will work if the suspension is lifted. The employer gets a labour authorisation from the MoL (Ministry of Labour) and the employment visa from the ROP; in Bangladesh the worker takes the Wafid medical (the Gulf states' pre-departure health check), the employer's papers are attested at the Bangladesh Embassy in Muscat, and BMET gives emigration clearance; in Oman the worker takes a second medical and gets a resident card <sup>[46](#o46), [47](#o47), [48 (2023)](#o48), [49](#o49), [50](#o50), [51](#o51)</sup>.
 
@@ -1365,7 +1365,7 @@ One woman sent home in 2021 had become pregnant during abuse, was handed to the 
 
 ## 5 Visit visa (tourist, family and friends)
 
-ROP issues every visit visa through its e-visa portal, evisa.rop.gov.om, where four kinds of visa are on offer: the unsponsored tourist visa, the sponsored tourist visa, the tourist visa for GCC residents and the express visa <sup>[36](#o36), [88](#o88)</sup>. "Unsponsored" means the visitor applies alone; "sponsored" means a hotel, a licensed tour company or a relative resident in Oman applies for him and is responsible for him <sup>[82](#o82), [141](#o141), [43](#o43)</sup>. A Bangladeshi visitor cannot work on any of them (see [Can you work?](#can-you-work)) <sup>[8](#o8)</sup>.
+ROP issues every visit visa through its e-visa portal, evisa.rop.gov.om, where four kinds of visa are on offer: the unsponsored tourist visa, the sponsored tourist visa, the tourist visa for GCC residents and the express visa <sup>[36](#o36), [88](#o88)</sup>. "Unsponsored" means the visitor applies alone; "sponsored" means a hotel, a licensed tour company or a relative resident in Oman applies for him and is responsible for him <sup>[82](#o82), [141](#o141), [43](#o43)</sup>. A Bangladeshi visitor cannot work on any of them (see ["Can you work on a visit visa?"](#can-you-work-on-a-visit-visa)) <sup>[8](#o8)</sup>.
 
 What a Bangladeshi can get now depends on where he lives:
 
@@ -1535,9 +1535,9 @@ Health insurance is required of visa-free visitors <sup>[36](#o36)</sup>.
 > **Need to know**
 > - Does ROP require health insurance for a Bangladeshi on a family or tourist visit visa, and which insurers are accepted? <sup>[36](#o36)</sup>
 
-<a id="can-you-work"></a>
+<a id="can-you-work-on-a-visit-visa"></a>
 
-### 5.7 Can you work?
+### 5.7 Can you work on a visit visa?
 
 No. A non-Omani may not start any work in Oman before getting a work permit, and the permit requires legal entry and a contract with a licensed employer <sup>[8](#o8)</sup>. A foreigner who works without a permit, or for anyone other than the employer authorised to employ him, faces 10 days to a month in prison and/or a fine of RO 1,000 to 2,000, cancellation of any permit, deportation and a ban from entering Oman <sup>[8](#o8)</sup>. Since 31 October 2023 a tourist or visit visa can't be converted into a work visa inside Oman, for any nationality (see [Visas not open to Bangladeshis](#visas-not-open-to-bangladeshis)) <sup>[N2 (2023)](#n2), [N16 (2023)](#n16)</sup>. A sponsor who cannot produce his visitor, or say where he is, within a month of being asked is fined up to RO 500 <sup>[N62 (2021)](#n62)</sup>.
 
@@ -1551,9 +1551,9 @@ Paying the fee does not guarantee a visa <sup>[88](#o88)</sup>. If ROP asks for 
 > - Does ROP give a reason for refusing a visit visa, and is there any appeal or wait before reapplying? <sup>[88](#o88)</sup>
 > - Is the fee refunded after a refusal? (the e-visa FAQ sends payment issues to the call centre) <sup>[82](#o82)</sup>
 
-<a id="scams-2"></a>
+<a id="scams-on-a-visit-visa"></a>
 
-### 5.9 Scams
+### 5.9 Scams on a visit visa
 
 <a id="a-visit-visa-sold-as-a-job"></a>
 
@@ -1618,11 +1618,11 @@ Costs RO 50; you must be outside Oman, hold no other valid visa and have a passp
 > - Does ROP issue the express, business visit or multiple-entry visit visa to Bangladeshis now, through a sponsor's e-visa account or only through the Oman Embassy in Dhaka? <sup>[43](#o43), [N3 (2024)](#n3)</sup>
 > - What do the Business Visit Visa (type 5) and Business Man Visa (type 10) cost, and how long do they allow? <sup>[43](#o43)</sup>
 
-<a id="scams-3"></a>
+<a id="scams-2"></a>
 
 ### 6.4 Scams
 
-A business or express visa sold with a job works like the visit visa sold as a job (see Visit visa, Scams): no visitor may work in Oman without a work permit, and since 31 October 2023 no visit visa can be converted into a work visa inside Oman <sup>[8](#o8), [N2 (2023)](#n2)</sup>. Giving false papers, such as a fake company invitation, to get any Oman visa is punished by 1 month to 3 years in prison and/or a fine of RO 100 to 500 <sup>[N62 (2021)](#n62)</sup>.
+A business or express visa sold with a job works like the visit visa sold as a job (see [Scams on a visit visa](#scams-on-a-visit-visa)): no visitor may work in Oman without a work permit, and since 31 October 2023 no visit visa can be converted into a work visa inside Oman <sup>[8](#o8), [N2 (2023)](#n2)</sup>. Giving false papers, such as a fake company invitation, to get any Oman visa is punished by 1 month to 3 years in prison and/or a fine of RO 100 to 500 <sup>[N62 (2021)](#n62)</sup>.
 
 > **Need to know**
 > - What business-visa scams are reported for Bangladeshis going to Oman, and what do brokers charge for a "business visa"? <sup>[N3 (2024)](#n3)</sup>
@@ -1688,13 +1688,13 @@ The visa allows a stay of 1 to 2 years from entry, multiple entry, renewable whi
 
 Muscat College says a student can apply for a spouse and children under 21 to join; National University normally sponsors no family, and its students can't sponsor parents <sup>[N65 (2021)](#n65), [N64 (2024)](#n64)</sup>.
 
-<a id="can-you-work-1"></a>
+<a id="can-you-work"></a>
 
 ### 7.7 Can you work?
 
 No. National University says students may not work full-time or part-time on a student visa, except for a study-related internship with its no-objection letter <sup>[N64 (2024)](#n64)</sup>. Working without a permit carries the penalties under Visit visa, Can you work? <sup>[8](#o8)</sup>.
 
-<a id="scams-4"></a>
+<a id="scams-3"></a>
 
 ### 7.8 Scams
 
@@ -1728,7 +1728,7 @@ Muscat airport says a transit passenger may enter Oman if the stopover is at lea
 
 Ship crews joining or leaving a ship through an Omani airport get a Sailor's Transit Visa, requested by the ship's agent, for up to seven days <sup>[43](#o43)</sup>.
 
-**Can you work?** No: a transit visa gives no right to work, and any work needs a work permit first (see Visit visa, Can you work?) <sup>[8](#o8)</sup>.
+**Can you work?** No: a transit visa gives no right to work, and any work needs a work permit first (see ["Can you work on a visit visa?"](#can-you-work-on-a-visit-visa)) <sup>[8](#o8)</sup>.
 
 **Where to get help:**
 - **Entry during a stopover:** ROP, +968 2451 8746 <sup>[159](#o159)</sup>.
@@ -1746,7 +1746,7 @@ Ship crews joining or leaving a ship through an Omani airport get a Sailor's Tra
 
 Oman has a Patient Visa (type 35) for a short visit by someone with a medical problem; it is listed among the unsponsored visas, and ROP's e-visa eligibility check offers a Bangladeshi living outside the GCC no unsponsored visa except the 33A Property Owner Visa <sup>[38](#o38), [35](#o35)</sup>. A sponsored Emergency Visa (type 30) allows a short visit in an emergency <sup>[43](#o43)</sup>. Patients are not among the categories exempted from the Bangladesh suspension in June 2024 <sup>[N3 (2024)](#n3)</sup>.
 
-**Can you work?** No: any work needs a work permit first (see Visit visa, Can you work?) <sup>[8](#o8)</sup>.
+**Can you work?** No: any work needs a work permit first (see ["Can you work on a visit visa?"](#can-you-work-on-a-visit-visa)) <sup>[8](#o8)</sup>.
 
 **Where to get help:**
 - **Visa questions:** ROP e-visa call centre, 80080011 (toll-free in Oman) or +968 22848200, Info-OmaneVisa@rop.gov.om, 07:00 to 21:00 Oman time <sup>[82](#o82)</sup>.
@@ -1902,7 +1902,7 @@ When your residence moves to a new employer, your family's joining residence mov
 > **Need to know**
 > - How many days do dependants have to leave or change status after the sponsoring worker's residence is cancelled? <sup>[121](#o121)</sup>
 
-<a id="scams-5"></a>
+<a id="scams-4"></a>
 
 ### 10.10 Scams
 
@@ -1993,7 +1993,7 @@ Since June 2026 a foreigner who owns a real-estate unit, registered or still bei
 
 Every route above needs at least RO 200,000 invested, RO 4,000 a month in fixed income, or property bought in Oman <sup>[N68](#n68), [N74](#n74), [N72](#n72)</sup>. Legal residence in Oman comes only through work, investment or family <sup>[170](#o170)</sup>.
 
-<a id="scams-6"></a>
+<a id="scams-5"></a>
 
 ### 11.5 Scams
 
