@@ -405,7 +405,7 @@ What happens in practice: a former official of BAIRA (the Bangladesh Association
    > - Does ROP charge RO 5 a year for a resident card (Decision 157/2025), or still RO 6 for one year and RO 11 for two, as its resident-card page says [R0058, KB0056]?
 
 3. **Worker registration.** The employer must register your data with MoL; it is fined RO 10 a month from your arrival if late, up to RO 500 [KB0062, R0033].
-4. **Check it was done.** MoL's free "Check Your Employment Record in the Private Sector" service on gov.om shows which companies you are registered with [R0154]. If your labour or resident card is not done within a month, tell your direct boss, and call MoL on 80077000 [R0150, R0153]. You are entitled to a copy of your contract [R0152]. Your employer may keep your passport only with your written consent [KB0045].
+4. **Check it was done.** MoL's free "Check Your Employment Record in the Private Sector" service on gov.om shows which companies you are registered with [R0154]. If you do not know how to reach your workplace on arrival, call MoL on 80077000 or go to the Ministry of Labour [E0152]. If your labour or resident card is not done within a month, tell your direct boss, and call MoL on 80077000 [R0150, R0153]. You are entitled to a copy of your contract [R0152]. Your employer may keep your passport only with your written consent [KB0045].
 
    > **Need to know**
    > - Does the employment-record service open with a resident-card login only, or can a newly arrived worker use it?
@@ -492,7 +492,7 @@ The WPS (Wage Protection System, MOL's electronic check on salary transfers, und
 
 #### Housing, food and health care
 
-**Housing and food:** The Labour Law requires transport, suitable housing, meals and drinking water only from employers working in areas the Minister specifies [KC0039]. (cut)
+**Housing and food:** The Labour Law requires transport, suitable housing, meals and drinking water only from employers working in areas the Minister specifies [KC0039].
 
 > **Need to know**
 > - Which areas has the Minister specified under Article 58, and are there current housing standards for labour camps?
@@ -549,7 +549,7 @@ Overstay fines are paid before you leave on the ROP's online Exit Penalty Paymen
 
 #### Working for others and "free visas"
 
-You may work only for the employer that holds your work permit; another employer may use you only after MOL is told electronically and authorises it [KA0005]. A "free visa" (a work visa bought from a sponsor who has no real job for you, so you work for others) breaks this rule [C0101, KC0046]. A foreign worker who works without a permit or for someone other than his licensed employer faces 10 days to a month in prison and/or RO 1,000 to 2,000, loses his permit, and is deported at the employing party's expense and banned from entering Oman [KC0047, KC0046]. The employer who used him faces the same penalty, doubled if the worker had entered illegally or left his own employer [KC0047, KC0048]. The Minister can also deport a worker who breaks the labour rules, at the employer's expense, and ban his entry [KC0049]. Workers who leave their jobs without the employer's consent can be fined, deported or banned from coming back [E0241].
+You may work only for the employer that holds your work permit; another employer may use you only after MOL is told electronically and authorises it [KA0005]. A "free visa" (a work visa bought from a sponsor who has no real job for you, so you work for others) breaks this rule [C0101, KC0046]. A foreign worker who works without a permit or for someone other than his licensed employer faces 10 days to a month in prison and/or RO 1,000 to 2,000, loses his permit, and is deported at the employing party's expense and banned from entering Oman [KC0047, KC0046]. The employer who used him faces the same penalty, doubled if the worker had entered illegally or left his own employer [KC0047, KC0048]. The Minister can also deport a worker who breaks the labour rules, at the employer's expense, and ban his entry [KC0049]. Since December 2024 your employer may lend you to another establishment only with your consent, after you have worked at least six months for it, and not into a profession reserved for Omanis [E0182]. Workers who leave their jobs without the employer's consent can be fined, deported or banned from coming back [E0241].
 
 #### Leaving your job ("absconding")
 
@@ -583,13 +583,19 @@ In August 2026 police in Al Buraimi arrested an Asian man who sent money home fo
 > **Need to know**
 > - What penalty does the sender (not the operator) face for using hundi in Oman?
 
-#### Bribes
+#### Sex outside marriage
+
+Sex between a man and a woman without a marriage contract carries six months to three years in prison for both, and at least two years if either is married (see If the parents are not married) [P0138, P0139].
 
 Since June 2026 a private-sector worker who asks for or takes a reward to do (or not do) his job faces 1 to 3 years in prison and a fine at least equal to the amount [E0112].
 
 #### Crimes and deportation
 
 A foreigner finally convicted of a felony, or of a misdemeanour where the court orders it, is deported after serving the sentence [KC0078]. A final conviction for a felony, a crime of honour or trust, or a workplace offence also lets the employer dismiss you without notice or gratuity [KC0050]. The ROP's Inspector General can cancel a residence and deport someone who breaches public order or morals or has no visible lawful means of living [KC0078].
+
+> **Need to know**
+> - What does Oman's cybercrime law set as the penalty for posting about an employer, the government or religion on social media?
+> - Have Bangladeshi workers in Oman been jailed or deported for social-media posts?
 
 #### Bans on coming back
 
@@ -599,9 +605,9 @@ Anyone removed or deported goes on the list of people not wanted in Oman, and ca
 
 #### If you aren't paid
 
-Your wage is late if it is not in your bank account within 3 days of the end of the pay period [KC0015, KC0071]. If it is unpaid for more than 2 months in a row, you may leave the job without notice and keep all your rights, including the gratuity, after telling the employer [KC0057]. Every claim under the Labour Law lapses one year after it falls due [KC0061]. Workers' lawsuits under the Labour Law are free of court fees [KC0062].
+Your wage is late if it is not in your bank account within 3 days of the end of the pay period [KC0015, KC0071]. If it is unpaid for more than 2 months in a row, you may leave the job without notice and keep all your rights, including the gratuity, after telling the employer [KC0057]. Every claim under the Labour Law lapses one year after it falls due [KC0061]. Workers' lawsuits under the Labour Law are free of court fees [KC0062]. Your wages and dues come before all the employer's other debts, except maintenance a court has ordered [E0087].
 
-1. **Ask first.** Ask your manager for the wage; if he does not answer, go to MOL [E0155].
+1. **Ask first.** Ask your manager for the wage; if he does not answer, go to MOL [E0155]. An employer with 50 or more workers must have a complaints and grievances system approved by MOL [E0006].
 2. **Proof.** The employer must prove it paid [KC0017].
 3. **Complain to MOL.** Use MOL's "Record Labor Complaint" service (on gov.om or the MOL website): no documents and no fee are listed; you can track the complaint and ask to close it [E0138, E0140]. MOL's call centre is 80077000 [B0255].
 4. **The settlement stage.** Both sides are called; MOL tries to settle within 30 days of your request [E0139, E0115]. A settlement is written in a report signed by both sides, the MOL officer and a judge assigned to MOL, and can be enforced like a court order [KC0059].
@@ -672,7 +678,7 @@ MOL's 2025 amnesty let workers and employers cancel work-abandonment reports wit
 
 **No permission needed at the end of the contract:** Since 1 January 2021 your residence can move to another employer licensed to recruit once you show that your contract has ended or been terminated and the government has approved the new contract; your old employer's NOC (no-objection certificate) is no longer needed, and your family's residence moves with you if they meet the residence conditions [KC0080, KC0083]. MOL still has to approve the transfer [E0224]. Changing before the contract ends still needs the employer's agreement, and some employers demand illegal "release fees" for it [E0223, E0226].
 
-**Notice:** On an open-ended contract either side may end it for a legitimate reason with 30 days' written notice (15 days if you are not paid monthly); whoever skips notice pays the wage for the period [KC0066]. During the notice period you get 10 paid hours a week to look for a job [KC0067].
+**Notice:** On an open-ended contract either side may end it for a legitimate reason with 30 days' written notice (15 days if you are not paid monthly); whoever skips notice pays the wage for the period [KC0066]. During the notice period you get 10 paid hours a week to look for a job [KC0067]. The employer may also end your contract to replace you with an Omani in the same occupation under its Omanisation plan [E0042].
 
 **How the transfer is done:**
 
@@ -803,9 +809,11 @@ You'll need [D0149]:
 1. **Women: use one of the 21 approved agencies.** On 1 September 2025 the Ministry of Expatriates' Welfare approved 21 licensed agencies to send women domestic workers abroad [D0155]. Each deposits Tk 15 lakh with BMET, keeps at least one woman on its office staff, takes no migration cost from you and signs an undertaking that its licence can be cancelled if you are abused at work [D0156, D0158, D0157].
 2. **The 2016 guideline for Oman.** The Ministry of Expatriates' Welfare's guideline for Oman-bound housemaids, effective 16 October 2016, also has your legal guardian and the agency sign affidavits on Tk 300 stamp paper [D0185, D0188].
 3. **If an agency asks you for money,** complain to the BMET Director General with proof at BMET's complaint cell; it is free and decided within 30 working days [D0210].
+4. **From 1 January 2027, the Omani side must use an accredited agency.** An Omani recruitment office may then recruit only through foreign agencies accredited by their country's embassy in Oman and certified by Oman's Ministry of Foreign Affairs [D0098, D0072].
 
 > **Need to know**
 > - Which of the 21 approved agencies have Omani partner offices?
+> - Which Bangladeshi agencies has the Bangladesh Embassy in Muscat accredited for Omani recruitment offices under MD 390/2026, and where is that list published?
 
 ### Step 5: Check the job, the employer and the contract
 
@@ -852,7 +860,7 @@ You'll need [D0149]:
 
 **A shop job that turns out to be housework:** A woman who paid Tk 100,000 for a customer-service job in Oman found her visa said domestic worker [D0173]. Check the job title on the visa and job offer before you pay or fly [KD0052, D0173].
 
-**Social-media brokers:** Unregulated intermediaries on social media offer Omani families cheap domestic workers at a fraction of agency prices [D0203]. From 2027, only a licensed office may recruit a domestic worker [KD0039].
+**Social-media brokers:** Unregulated intermediaries on social media offer Omani families cheap domestic workers at a fraction of agency prices [D0203]. From 2027, only a licensed office may recruit a domestic worker [KD0039]. An employer may not advertise a domestic worker by religion or colour, or in a degrading way, to pass her to another employer [D0021].
 
 **"Release fees":** Employers and agents demand money before letting a worker leave or change employer; one agent told a Bangladeshi woman she owed him RO 200 [D0197, D0174]. The employer may take no money from you for recruiting or transferring you [KD0008].
 
@@ -899,7 +907,7 @@ An employer who breaks the regulation can be fined RO 50 to RO 500 per breach, f
 
 #### Complain in this order
 
-1. **MOL.** File a free "Record Labor Complaint" on Gov.om, with no documents; both sides are called, then it goes to a judge and court [D0207]. MOL tries to settle within 30 days, then refers it to court within 7 days; you pay no court fees [KD0073, KD0035]. Claim within a year of the money falling due [KD0073]. The recruitment office can also report your employer to MOL for you [KD0036]. MOL's call centre is 80077000 [KD0077, D0169].
+1. **MOL.** File a free "Record Labor Complaint" on Gov.om, with no documents; both sides are called, then it goes to a judge and court [D0207]. MOL tries to settle within 30 days, then refers it to court within 7 days; you pay no court fees [KD0073, KD0035]. Claim within a year of the money falling due [KD0073]. The recruitment office can also report your employer to MOL for you [KD0036]. From 1 January 2027, 5 or more proven complaints against a recruitment office in one month can get its licence suspended, and proven forced labour or trafficking gets it cancelled [D0115, D0116, D0072]. MOL's call centre is 80077000 [KD0077, D0169].
 2. **The Bangladesh Embassy in Muscat** [D0165, D0166, D0167, D0168]:
    - workers' problems: +968 24603514, 8:30 am to 4:30 pm
    - labour wing Counsellor: +968 2469 8440, +968 9941 3132, counselormuscat@probashi.gov.bd
@@ -1064,7 +1072,7 @@ Papers for the exempted categories must be duly attested to prove eligibility [V
 
 #### How long you can stay
 
-Three months, renewable for up to one more month [V0015]. Extending a visit visa costs RO 20 and needs a passport valid at least 6 months [V0088, V0089]. A stay of more than three months needs a residence visa (see Family joining visa) [V0120].
+Three months, renewable for up to one more month [V0015]. In an emergency or for humanitarian reasons, ROP's Director General can extend a visit visa further, by up to its original length, on documents [P0044]. Extending a visit visa costs RO 20 and needs a passport valid at least 6 months [V0088, V0089]. A stay of more than three months needs a residence visa (see Family joining visa) [V0120].
 
 ### Route C: Sponsored tourist visa (tour company) for "high-income tourists"
 
@@ -1114,7 +1122,7 @@ Bangladeshis seldom go to Oman as tourists, but many have gone on visit visas, a
 
 #### Fake e-visas and fake documents
 
-Check any visa on ROP's Track Your Application page (Route A, Step 3); a visa that doesn't show there isn't real [V0128]. ROP's official visa portal is evisa.rop.gov.om, and its fees are RO 5 to RO 30 for visit visas [V0107, V0052, V0081, V0091].
+Check any visa on ROP's Track Your Application page ("Visit visa (tourist, family and friends)", Step 3) [V0128]. ROP's official visa portal is evisa.rop.gov.om, and its fees are RO 5 to RO 30 for visit visas [V0107, V0052, V0081, V0091].
 
 **Tried by migrants:** giving false information or untrue documents (a fake bank statement, a fake relationship certificate, a fake hotel booking) to get any Oman visa is punished by 1 month to 3 years in prison and/or a fine of RO 100 to 500 [V0116, V0117]. A foreigner deported from Oman can't get an entry visa for two years [V0122].
 
@@ -1209,7 +1217,7 @@ Muscat College says a student can apply for a spouse and children under 21 to jo
 
 ### Can you work?
 
-No. National University says students may not work full-time or part-time on a student visa, except for a study-related internship with its no-objection letter [V0143]. Working without a permit carries prison, a fine and deportation (see "Can you work on a visit visa?") [KD0075].
+No. At National University, students may not work full-time or part-time on a student visa, except for a study-related internship with the university's no-objection letter [V0143]. Working without a permit carries prison, a fine and deportation (see "Can you work on a visit visa?") [KD0075].
 
 ### Scams
 
@@ -1374,7 +1382,7 @@ ROP wants the marriage certificate authenticated by Oman's Ministry of Foreign A
 
 ### Can a spouse work?
 
-ROP allows an employee to work only for his or her own sponsor [P0175]. The authority can convert a visa into a work visa inside Oman if the conditions are met and the fee is paid (see Changing visa type, "Family dependant to work") [P0032].
+ROP allows an employee to work only for his or her own sponsor [P0175]. The authority can convert the visas listed in Article 10 of the Executive Regulation of the Foreigners' Residence Law into a work visa inside Oman if the conditions are met and the fee is paid (see Changing visa type, "Family dependant to work") [P0032].
 
 ### If you change employer or lose the job
 
@@ -1417,11 +1425,10 @@ The Golden Residency, launched in Salalah on 31 August 2025 by the Ministry of C
 - a company employing 50 or more Omanis;
 - nomination as partner or senior professional by a company registered under the Foreign Investment Law.
 
-A separate 5-year retiree route is reported for people aged 60 or over with a fixed monthly income of at least RO 4,000, at least two years' past work in Oman and six months of Omani bank statements [P0146, P0149, P0153]. Naturalisation, which the Golden Residency does not lead to directly, needs at least 15 years' legal, continuous residence with no absence over 90 days in any year, and is granted only in rare cases [P0151, P0152].
+A separate 5-year retiree route is open to people aged 60 or over with a fixed monthly income of at least RO 4,000, at least two years' past work in Oman, six months of Omani bank statements and a title deed or lease in their own name [P0146, P0149, P0153]. Naturalisation, which the Golden Residency does not lead to directly, needs at least 15 years' legal, continuous residence with no absence over 90 days in any year, and is granted only in rare cases [P0151, P0152].
 
 > **Need to know**
 > - Does a 5-year tier (RO 250,000 investment, or the retiree route) still exist alongside the RO 200,000 10-year route launched in August 2025? [P0145, KE0001]
-(delete the bullet)
 
 Applicants are reported to need to be 21 or over, with a clean record, good health and proof of accommodation in Oman [P0150]. The residency covers first-degree family members with no limit on number or age, and the holder may employ up to three domestic workers and issue visit visas for relatives [KE0002, KE0003].
 
@@ -1429,7 +1436,7 @@ Applicants are reported to need to be 21 or over, with a clean record, good heal
 
 1. **Apply on the official portal,** omanresidence.gov.om (applications at portal.omanresidence.gov.om), which is run with the operator Migrate World; upload the documents and track the application there [P0142, P0144, P0165].
 2. **Pay the application fee,** reported as RO 551 for 10 years and RO 326 for 5 years, plus medical, insurance, attestation and translation costs [P0148].
-3. **Wait for review** by Invest Oman (which runs the programme under MOCIIP) and ROP, reported at three to six weeks for a complete file; then give biometrics at ROP and collect the card [P0150].
+3. **Wait for review** by Invest Oman (which runs the programme under MOCIIP) and ROP, typically three to six weeks for a complete file; then give biometrics at ROP and collect the card [P0150].
 
 Golden Residency gives no direct route to citizenship [P0152].
 
@@ -1473,7 +1480,7 @@ The Golden Residency needs at least RO 200,000 invested, the retiree route RO 4,
 
 ## Changing visa type
 
-ROP's Executive Regulation of the Foreigners' Residence Law lets the authority convert any entry visa into any visa followed by residence, including a work visa, if its conditions are met, under its rules and after the fee is paid [P0032]. Since 31 October 2023, ROP has suspended converting tourist and visit visas to work visas for all nationalities, so a visitor who gets a job must leave Oman, get the work visa and come back [P0112, P0114]. ROP allows a resident to work only for his or her own sponsor [P0175].
+ROP's Executive Regulation of the Foreigners' Residence Law lets the authority convert the entry visas listed in its Article 10 into any visa followed by residence, including a work visa, if its conditions are met, under its rules and after the fee is paid [P0032]. Since 31 October 2023, ROP has suspended converting tourist and visit visas to work visas for all nationalities, so a visitor who gets a job must leave Oman, get the work visa and come back [P0112, P0114]. ROP allows a resident to work only for his or her own sponsor [P0175].
 
 ### Visit visa to work
 
@@ -1481,7 +1488,7 @@ Not allowed inside Oman [P0112, P0114]. Leave, let the employer get the work vis
 
 ### Family dependant to work
 
-The authority can convert a family joining visa into a work visa inside Oman under the general conversion rule [P0032]. The October 2023 suspension covers all visitor visas, including tourist, dependent visitor and express visitor visas [P0112, P0114].
+The authority can convert the visas listed in Article 10 of the Executive Regulation of the Foreigners' Residence Law into a visa followed by residence, including a work visa, inside Oman if the conditions are met and the fee is paid [P0032]. The October 2023 suspension covers all visitor visas, including tourist, dependent visitor and express visitor visas [P0112, P0114].
 
 > **Need to know**
 > - Can a spouse on joining residence move to a work visa inside Oman in 2026, and what does ROP charge? [P0032, P0112]
@@ -1624,7 +1631,7 @@ You'll need:
    > **Need to know**
    > - Which exchange houses in Oman pay into Nagad wallets?
 
-3. **Know the cost: small transfers cost more.** Sending up to USD 200 from Oman cost 6.06% on average in January-March and 6.77% in April-June 2026, the highest of the ten countries it lists; the average across all amounts sent from Oman was 1.39% and 1.40% [B0251]. Across all countries that quarter, it cost 2.94% for up to USD 200, 0.94% for USD 201-500 and 0.50% above USD 500 [B0230].
+3. **Know the cost: small transfers cost more.** Sending up to USD 200 from Oman cost 6.06% on average in January-March and 6.77% in April-June 2026, the highest of the ten sending countries in Bangladesh Bank's table; the average across all amounts sent from Oman was 1.39% and 1.40% [B0251]. Across all countries in April-June 2026, it cost 2.94% for up to USD 200, 0.94% for USD 201-500 and 0.50% above USD 500 [B0230].
 4. **Send.** For bKash, go to a partner branch or agent with the receiver's bKash number and registered name and hand over the cash; up to Tk 2.5 lakh per transfer, as often as you like [B0232, B0233]. Banks in Bangladesh credit remittances within 3 days at most [B0004].
 5. **The family collects.** bKash money can be cashed out at BRAC Bank, City Bank and Q-Cash ATM booths for Tk 7 per thousand [B0234].
 
@@ -1707,7 +1714,7 @@ A Bangladeshi in Oman without a valid passport goes home on a Travel Permit (an 
 
 ### Amnesties and grace periods
 
-The Ministry of Labour's last grace period ran from 1 February 2025 and let people renew labour cards, cancel absconding ("work abandonment") reports, transfer workers' services and settle repatriation-ticket costs without penalties [B0178]. It waived fines and debts worth more than RO 60 million, including fines on labour cards expired and unused for over seven years and repatriation-ticket debts from 2017 and earlier [B0179]. Applications went through the Ministry of Labour's website and its approved service channels [B0180]. In the 2020 window, workers registered on the Ministry's website or at the nearest Sanad office (licensed government-services counters) [B0189]. Fines were waived only on condition of renewing the work permit and paying the next period's fees, cancelling the worker's service, transferring services, or paying the worker's repatriation ticket [B0183]. ROP ran a matching window: residents could renew residence or transfer employment without penalties for expired entry or residence permits, after Ministry of Labour verification, and those leaving Oman for good were exempted from fines on expired non-work visas [KF0003, KF0004]. The deadline, first 31 July 2025, was extended to 31 December 2025 as an "additional and final" grace period, with legal and administrative consequences promised after it [B0181, B0182, KF0005]. No requests after December 2025 were to be considered [B0184, E0251]. The same initiative cancelled work cards inactive for more than 10 years with no service requests [B0185]. In February 2026 Oman's labour minister said about RO 100 million in labour fines had been waived during 2025 [KF0002].(cut)
+The Ministry of Labour's last grace period ran from 1 February 2025 and let people renew labour cards, cancel absconding ("work abandonment") reports, transfer workers' services and settle repatriation-ticket costs without penalties [B0178]. It waived fines and debts worth more than RO 60 million, including fines on labour cards expired and unused for over seven years and repatriation-ticket debts from 2017 and earlier [B0179]. Applications went through the Ministry of Labour's website and its approved service channels [B0180]. In the 2020 window, workers registered on the Ministry's website or at the nearest Sanad office (licensed government-services counters) [B0189]. Fines were waived only on condition of renewing the work permit and paying the next period's fees, cancelling the worker's service, transferring services, or paying the worker's repatriation ticket [B0183]. ROP ran a matching window: residents could renew residence or transfer employment without penalties for expired entry or residence permits, after Ministry of Labour verification, and those leaving Oman for good were exempted from fines on expired non-work visas [KF0003, KF0004]. The deadline, first 31 July 2025, was extended to 31 December 2025 as an "additional and final" grace period, with legal and administrative consequences promised after it [B0181, B0182, KF0005]. No requests after December 2025 were to be considered [B0184, E0251]. The same initiative cancelled work cards inactive for more than 10 years with no service requests [B0185]. In February 2026 Oman's labour minister said about RO 100 million in labour fines had been waived during 2025 [KF0002].
 
 During the 2025 window, the Embassy planned a consular tour to Salalah for priority passport enrolment, with sign-up through an online form and a published serial list [B0196].
 
@@ -1727,7 +1734,7 @@ A close relative in Bangladesh can ask the Ministry of Expatriates' Welfare to h
 
 ### Step 1: Get a passport or Travel Permit
 
-In the 2020 exit window, the Embassy said a worker with a valid passport needed no Travel Permit, and one with an expired passport could renew it at the Embassy instead [B0190]. A labourer's new 48-page, 5-year passport at the Embassy costs RO 12.700, or RO 19.100 urgent [B0167].
+In Oman's 2020 fine-free exit window (15 November to 31 December 2020), the Embassy said a worker with a valid passport needed no Travel Permit, and one with an expired passport could renew it at the Embassy instead [B0190]. A labourer's new 48-page, 5-year passport at the Embassy costs RO 12.700, or RO 19.100 urgent [B0167]; a 10-year one costs RO 21.200, or RO 31.800 urgent [B0131].
 
 1. **Book.** Every Embassy service is booked: pay any fee first at Bank Muscat, then fill in the online form (forms.gle/CYHtStaaKWC1afwN6, also through amardutabashmuscat.org) and come on the schedule and serial number the Embassy publishes [B0152, B0129].
 2. **Pay by bank, never cash.** Since 1 December 2025 the Embassy takes no cash [B0155]. Pay at any Bank Muscat branch or by mobile app into the account for the service, writing the main part of your name and your passport number or OID (Omani resident card number) in the reference, and keep the yellow receipt [B0154, B0132]. A wrong account or wrong amount causes serious trouble [B0156].
