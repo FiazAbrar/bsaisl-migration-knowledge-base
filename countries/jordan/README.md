@@ -1018,7 +1018,7 @@ A replacement work permit card costs JD 10 <sup>[1](#o1)</sup>. Falsely reportin
 
 #### 3.10.4 Bringing your family
 
-Migrant garment workers are not allowed to bring their families or children to Jordan; for the general rules see Family residence <sup>[N49](#n49)</sup>. Having a baby in Jordan is under Having a child in Jordan, and why an asylum claim does not work is under Asylum <sup>[N57 (2019)](#n57), [N58 (2022)](#n58)</sup>.
+Migrant garment workers are not allowed to bring their families or children to Jordan; (for the general rules, see [Family residence](#family-residence-spouse-and-children-of-a-resident)) <sup>[N49](#n49)</sup>. Having a baby in Jordan is under Having a child in Jordan, and why an asylum claim does not work is under Asylum <sup>[N57 (2019)](#n57), [N58 (2022)](#n58)</sup>.
 
 <a id="what-can-get-you-jailed-or-deported"></a>
 
@@ -1034,7 +1034,7 @@ It is illegal to work without a permit, on a permit expired up to 90 days, for a
 
 #### 3.11.2 Overstaying
 
-Not renewing your residence permit within a month of expiry costs JD 3 a day, raised from JD 1.5 in 2025; for leaving with overstay fines see Going home without valid papers <sup>[N55](#n55), [N60](#n60)</sup>.
+Not renewing your residence permit within a month of expiry costs JD 3 a day, raised from JD 1.5 in 2025; (for leaving with overstay fines, see [Going home without valid papers](#going-home-without-valid-papers)) <sup>[N55](#n55), [N60](#n60)</sup>.
 
 <a id="absent-from-work"></a>
 
@@ -1136,7 +1136,7 @@ After several factory closures, including the Aseel factory, MOL, employers and 
 
 #### 3.12.2 If you are injured or fall ill
 
-In an emergency the factory must send you to a doctor or hospital at its expense <sup>[N39 (2023)](#n39)</sup>. Work-injury treatment and pay are covered by SSC; see [If a worker dies](#if-a-worker-dies), is injured or loses the job <sup>[62](#o62)</sup>. Sick leave is under Your rights at work <sup>[23](#o23)</sup>.
+In an emergency the factory must send you to a doctor or hospital at its expense <sup>[N39 (2023)](#n39)</sup>. Work-injury treatment and pay are covered by SSC (see [If a worker dies](#if-a-worker-dies), is injured or loses the job) <sup>[62](#o62)</sup>. Sick leave is under Your rights at work <sup>[23](#o23)</sup>.
 
 <a id="if-your-employer-reports-you-absent-absconding"></a>
 
@@ -1556,7 +1556,7 @@ Some sectors lock you in. Bakeries, domestic gas distribution, mechanical trades
 
 **Rules once you have it.** You may work only in the trade on the card, and cannot move into other sectors; you can leave this permit only for a one-year specialised-skills permit <sup>[2](#o2)</sup>. The final-departure and exit-and-return rules do not apply to you <sup>[2](#o2)</sup>.
 
-**Scams and help.** The free permit sold in Bangladesh is a scam (see [Done to workers](#done-to-workers-2)); for help see Where to get help <sup>[1](#o1)</sup>.
+**Scams and help.** The free permit sold in Bangladesh is a scam (see [Done to workers](#done-to-workers-2)); (for help, see [Where to get help](#where-to-get-help)) <sup>[1](#o1)</sup>.
 
 > **Need to know**
 > - Which entity has MOL appointed to receive free-permit applications in 2026, where is its office, and is it still issuing new free permits during the June 2026 recruitment suspension?
@@ -1707,7 +1707,7 @@ Overstaying a visit visa is fined JD 3 a day, and leaving with the fine unpaid c
 
 ### 6.8 Can you work?
 
-No. A non-Jordanian found working without a work permit, or in a job other than the one on his permit, is deported immediately, and the employer or homeowner is fined up to twice the permit's value <sup>[74](#o74)</sup>. For whether a visit visa can become a work visa, see Changing visa type <sup>[N6](#n6)</sup>.
+No. A non-Jordanian found working without a work permit, or in a job other than the one on his permit, is deported immediately, and the employer or homeowner is fined up to twice the permit's value <sup>[74](#o74)</sup>. (For whether a visit visa can become a work visa, see [Changing visa type](#changing-visa-type)) <sup>[N6](#n6)</sup>.
 
 <a id="if-the-visa-is-refused"></a>
 

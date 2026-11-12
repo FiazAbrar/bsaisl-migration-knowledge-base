@@ -1487,7 +1487,7 @@ Notice must be given in writing, by you or the employer; ask the employer to ack
 - **Sudden termination:** in the same company three workers were let go without warning within five months, one the day after falling ill <sup>[N45](#n45)</sup>. If you are dismissed without notice pay and do not dispute the reasons, claim salary in lieu of notice at TADM; if you dispute the dismissal, file a wrongful dismissal claim within 1 month of your last day <sup>[169](#o169), [167](#o167)</sup>.
 - **A higher salary on paper:** some employers declare a higher salary to MOM in the IPA than they pay; check the salary in SGWorkPass against your payslip and report any gap to MOM <sup>[121](#o121), [85](#o85)</sup>.
 - **No job on arrival:** in the "shell company" or "released worker" scam, the promised employer or job does not exist and you are told to find your own work, which is illegal; report it to MOM at once <sup>[121](#o121), [152 (2024)](#o152)</sup>.
-- **Being sent home before a claim:** see If your employer tries to send you home early <sup>[121](#o121)</sup>.
+- **Being sent home before a claim:** (see [If your employer tries to send you home early](#if-your-employer-tries-to-send-you-home-early)) <sup>[121](#o121)</sup>.
 
 <a id="s-pass"></a>
 
@@ -2322,7 +2322,7 @@ A PEI qualification is not automatically recognised in Singapore: employers and 
 
 ### 8.6 Step 4: Travel and complete formalities
 
-1. <a id="step-4-travel-and-complete-formalities-item-1"></a>**Arrive no earlier than 1 month before the course starts,** and show the IPA letter at immigration; it doesn't guarantee entry <sup>[284](#o284)</sup>. Submit the SG Arrival Card as for a visit (see Visit visa, [Step 5: The employer applies; check your IPA](#step-5-the-employer-applies-check-your-ipa)) <sup>[117](#o117)</sup>.
+1. <a id="step-4-travel-and-complete-formalities-item-1"></a>**Arrive no earlier than 1 month before the course starts,** and show the IPA letter at immigration; it doesn't guarantee entry <sup>[284](#o284)</sup>. Submit the SG Arrival Card as for a visit (see ["Visit visa (tourism, family and friends)"](#visit-visa-tourism-family-and-friends), [Step 5: Submit the SG Arrival Card](#step-5-submit-the-sg-arrival-card)) <sup>[117](#o117)</sup>.
 2. <a id="step-4-travel-and-complete-formalities-item-2"></a>**Check your visit pass expiry:** the IPA isn't an immigration pass, so extend the visit pass if formalities won't finish in time <sup>[284](#o284)</sup>.
 3. <a id="step-4-travel-and-complete-formalities-item-3"></a>**Enrol your biometrics in person** at the ICA Services Centre (book an e-Appointment with your FIN, the Foreign Identification Number, and the last three digits of the Application ID on page 1 of the IPA) or at an enrolment your school arranges; walk-ins without an appointment are turned away <sup>[284](#o284), [N77](#n77)</sup>.
 4. <a id="step-4-travel-and-complete-formalities-item-4"></a>**Download the digital Student's Pass from FileSG** (the government's document service), where it can also be verified <sup>[284](#o284)</sup>.
@@ -2455,7 +2455,7 @@ No: the visit pass for medical treatment carries the same ban on work as any vis
 
 ### 9.5 Scams
 
-Only an LOI from a hospital or doctor supports a medical visa, so a "medical visa" offered with a travel agency's letter will be refused <sup>[253](#o253)</sup>. Check any e-Visa on ICA's "Enquire Application Status" (see Visit visa, [Step 4: Get a real job offer](#step-4-get-a-real-job-offer)) <sup>[259](#o259)</sup>.
+Only an LOI from a hospital or doctor supports a medical visa, so a "medical visa" offered with a travel agency's letter will be refused <sup>[253](#o253)</sup>. Check any e-Visa on ICA's "Enquire Application Status" (see ["Visit visa (tourism, family and friends)"](#visit-visa-tourism-family-and-friends), [Step 4: Check the e-Visa is real and print it](#step-4-check-the-e-visa-is-real-and-print-it)) <sup>[259](#o259)</sup>.
 
 > **Need to know**
 > - What medical-tourism scams target Bangladeshi patients going to Singapore (fake hospital agents, inflated estimates, commission-paid "facilitators")?
@@ -2485,7 +2485,7 @@ You don't need a Singapore visa if you change planes at Changi without passing a
 
 - **Carrying a bag for someone:** on 29 July 2025 the Central Narcotics Bureau (CNB) arrested five foreign women in the transit area of Changi Terminal 4, after two were seen exchanging luggage, and found about 26.9 kg of cocaine hidden in stuffed toys <sup>[294](#o294)</sup>. Trafficking more than 30 g of cocaine can bring the mandatory death penalty, so never carry a packet whose contents you don't know <sup>[294](#o294), [61](#o61)</sup>.
 - **Someone else's passport:** Changi immigration caught two Bangladeshis travelling on Indian passports bought through an agent and sent them back to India, where they were arrested <sup>[N76 (2023)](#n76)</sup>. Biometric checks at Singapore's checkpoints catch people using more than one identity or someone else's <sup>[295 (2023)](#o295)</sup>.
-- **Paid "arrival card" sites:** if you must clear immigration, the SG Arrival Card is free on ICA's own site; look-alike sites charge a fee (see Visit visa, [Step 5: The employer applies; check your IPA](#step-5-the-employer-applies-check-your-ipa)) <sup>[117](#o117), [264](#o264)</sup>.
+- **Paid "arrival card" sites:** if you must clear immigration, the SG Arrival Card is free on ICA's own site; look-alike sites charge a fee (see ["Visit visa (tourism, family and friends)"](#visit-visa-tourism-family-and-friends), [Step 5: Submit the SG Arrival Card](#step-5-submit-the-sg-arrival-card)) <sup>[117](#o117), [264](#o264)</sup>.
 
 <a id="where-to-get-help-3"></a>
 
@@ -3244,7 +3244,7 @@ WEWB's death grant needs BMET emigration clearance or Board membership, and deat
 
 ### 19.2 If you are injured or fall ill
 
-1. <a id="if-you-are-injured-or-fall-ill-item-1"></a>**Treatment and compensation in Singapore.** Under Singapore's rules the employer arranges treatment for a worker hurt at work, and the High Commission contacts MOM or the company to help with hospital admission and legal compensation; for the work injury compensation claim itself, see If you are injured at work <sup>[5](#o5)</sup>.
+1. <a id="if-you-are-injured-or-fall-ill-item-1"></a>**Treatment and compensation in Singapore.** Under Singapore's rules the employer arranges treatment for a worker hurt at work, and the High Commission contacts MOM or the company to help with hospital admission and legal compensation; (for the work injury compensation claim itself, see [If you are injured at work](#if-you-are-injured-at-work)) <sup>[5](#o5)</sup>.
 2. <a id="if-you-are-injured-or-fall-ill-item-2"></a>**Going home sick or injured.** On the worker's or family's application, with proof of clearance or membership and a passport copy, WEWB asks the mission to bring the worker home and in special cases helps with hospital admission <sup>[375](#o375)</sup>. A free ambulance from Dhaka and Chattogram airports takes injured or sick returnees on request <sup>[376](#o376)</sup>.
 3. <a id="if-you-are-injured-or-fall-ill-item-3"></a>**Treatment aid in Bangladesh.** Returnees with clearance or membership can get up to Tk 2 lakh for treatment; apply within 1 year of return with medical reports and prescriptions, a bank statement, a copy of the arrival stamp and the passport <sup>[377](#o377)</sup>.
 4. <a id="if-you-are-injured-or-fall-ill-item-4"></a>**The insurance.** It pays 100% of Tk 10 lakh for total permanent disability, and for partial disability <sup>[112 (2024)](#o112), [61](#o61)</sup>:

@@ -661,7 +661,7 @@ A replacement work permit card costs JD 10 [KC0086, KC0087]. Falsely reporting y
 
 #### Bringing your family
 
-Migrant garment workers are not allowed to bring their families or children to Jordan; for the general rules see Family residence [H0078]. Having a baby in Jordan is under Having a child in Jordan, and why an asylum claim does not work is under Asylum [V0193, V0175].
+Migrant garment workers are not allowed to bring their families or children to Jordan; (for the general rules, see Family residence) [H0078]. Having a baby in Jordan is under Having a child in Jordan, and why an asylum claim does not work is under Asylum [V0193, V0175].
 
 ### What can get you jailed or deported
 
@@ -671,7 +671,7 @@ It is illegal to work without a permit, on a permit expired up to 90 days, for a
 
 #### Overstaying
 
-Not renewing your residence permit within a month of expiry costs JD 3 a day, raised from JD 1.5 in 2025; for leaving with overstay fines see Going home without valid papers [H0160, H0161].
+Not renewing your residence permit within a month of expiry costs JD 3 a day, raised from JD 1.5 in 2025; (for leaving with overstay fines, see Going home without valid papers) [H0160, H0161].
 
 #### Absent from work
 
@@ -751,7 +751,7 @@ After several factory closures, including the Aseel factory, MOL, employers and 
 
 #### If you are injured or fall ill
 
-In an emergency the factory must send you to a doctor or hospital at its expense [H0081]. Work-injury treatment and pay are covered by SSC; see If a worker dies, is injured or loses the job [H0098]. Sick leave is under Your rights at work [KC0025].
+In an emergency the factory must send you to a doctor or hospital at its expense [H0081]. Work-injury treatment and pay are covered by SSC (see If a worker dies, is injured or loses the job) [H0098]. Sick leave is under Your rights at work [KC0025].
 
 #### If your employer reports you absent ("absconding")
 
@@ -1093,7 +1093,7 @@ Some sectors lock you in. Bakeries, domestic gas distribution, mechanical trades
 
 **Rules once you have it.** You may work only in the trade on the card, and cannot move into other sectors; you can leave this permit only for a one-year specialised-skills permit [D0124, D0127]. The final-departure and exit-and-return rules do not apply to you [D0125].
 
-**Scams and help.** The free permit sold in Bangladesh is a scam (see Done to workers); for help see Where to get help [D0118].
+**Scams and help.** The free permit sold in Bangladesh is a scam (see Done to workers); (for help, see Where to get help) [D0118].
 
 > **Need to know**
 > - Which entity has MOL appointed to receive free-permit applications in 2026, where is its office, and is it still issuing new free permits during the June 2026 recruitment suspension?
@@ -1212,7 +1212,7 @@ Overstaying a visit visa is fined JD 3 a day, and leaving with the fine unpaid c
 
 ### Can you work?
 
-No. A non-Jordanian found working without a work permit, or in a job other than the one on his permit, is deported immediately, and the employer or homeowner is fined up to twice the permit's value [V0073, V0074]. For whether a visit visa can become a work visa, see Changing visa type [R0178].
+No. A non-Jordanian found working without a work permit, or in a job other than the one on his permit, is deported immediately, and the employer or homeowner is fined up to twice the permit's value [V0073, V0074]. (For whether a visit visa can become a work visa, see Changing visa type) [R0178].
 
 ### If the visa is refused
 

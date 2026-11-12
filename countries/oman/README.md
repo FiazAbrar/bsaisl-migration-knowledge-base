@@ -6,7 +6,7 @@ Sources checked up to 10 Nov 2026.
 
 How to go to Oman from Bangladesh, visa by visa, step by step, for Bangladesh passport holders, as of November 2026. A raised number such as 3 is an official source; N3 is a news, NGO (non-governmental organisation), research or guide source, listed under "Needs an official source"; a year, like N3 (2022), marks a source older than 2025. "Need to know" marks a point no source has yet confirmed. "You'll need:" lists what to have before starting a procedure.
 
-RO is the Omani rial (1 rial is 1,000 baisa) <sup>[N1](#n1)</sup>; Tk is the Bangladeshi taka (1 lakh is Tk 100,000). The rial is pegged at RO 0.3845 to the US dollar, and Bangladesh Bank's rate on 19 October 2026 was Tk 123.65 to the dollar, so RO 1 is about Tk 322 <sup>[1](#o1), [2](#o2)</sup>. Since 31 October 2023 Oman has issued no new visas to Bangladesh passport holders except in the exempt categories set out under Is it open now <sup>[N2 (2023)](#n2), [N3 (2024)](#n3)</sup>.
+RO is the Omani rial (1 rial is 1,000 baisa) <sup>[N1](#n1)</sup>; Tk is the Bangladeshi taka (1 lakh is Tk 100,000). The rial is pegged at RO 0.3845 to the US dollar, and Bangladesh Bank's rate on 19 October 2026 was Tk 123.65 to the dollar, so RO 1 is about Tk 322 <sup>[1](#o1), [2](#o2)</sup>. Since 31 October 2023 Oman has issued no new visas to Bangladesh passport holders except in the exempt categories set out under Is it open now, and who can go? <sup>[N2 (2023)](#n2), [N3 (2024)](#n3)</sup>.
 
 <a id="contents"></a>
 
@@ -232,7 +232,7 @@ RO is the Omani rial (1 rial is 1,000 baisa) <sup>[N1](#n1)</sup>; Tk is the Ban
 
 ### 1.1 In one minute
 
-Oman has been Bangladesh's third-largest destination since 2004, but since 31 October 2023 it has issued no new ordinary work visas to Bangladeshis: Royal Oman Police (ROP), which issues Oman's visas, suspended all new visas for them "till further notice" <sup>[3](#o3), [N2 (2023)](#n2)</sup>. BMET (the Bureau of Manpower, Employment and Training, the Bangladesh government body that registers and clears migrant workers) cleared 127,822 workers for Oman in 2023, then 357 in 2024, 671 in 2025 and 506 from 1 January to 8 November 2026 <sup>[4](#o4), [5](#o5), [6](#o6), [7](#o7)</sup>. Since June 2024 only family, professional (doctors, engineers, nurses, teachers, accountants), investor, official and some visitor visas are open, and in August 2026 a quota of 5,000 Bangladeshi farm workers was reported approved for members of Oman's farmers' associations <sup>[N3 (2024)](#n3), [N4](#n4)</sup>. Oman's labour minister promised in January 2026 that work visas would reopen within two months; in August 2026 the Bangladesh Embassy in Muscat called posts about Oman's labour market opening or "free visas" rumours, and in September 2026 Bangladesh's state minister for foreign affairs said visas for Bangladeshis remained restricted <sup>[N5](#n5), [N6](#n6), [N7](#n7)</sup>. When Oman was open, a job started as an Omani sponsor's Ministry of Labour authorisation to bring a foreign worker, and such authorisations were sold on as "free visas": workers paid Tk 2 to 3.5 lakh against a legal maximum of Tk 1,00,780 for a man, and some arrived to find no work <sup>[8](#o8), [N8 (2016)](#n8), [N9 (2021)](#n9), [N10 (2023)](#n10), [9 (2019)](#o9)</sup>. About 599,000 Bangladeshis still work in Oman, the largest foreign group, many on wages near RO 90 a month <sup>[10](#o10), [N9 (2021)](#n9)</sup>.
+Oman has taken the third-largest share of Bangladeshi workers since 2004, but since 31 October 2023 it has issued no new ordinary work visas to Bangladeshis: Royal Oman Police (ROP), which issues Oman's visas, suspended all new visas for them "till further notice" <sup>[3](#o3), [N2 (2023)](#n2)</sup>. BMET (the Bureau of Manpower, Employment and Training, the Bangladesh government body that registers and clears migrant workers) cleared 127,822 workers for Oman in 2023, then 357 in 2024, 671 in 2025 and 506 from 1 January to 8 November 2026 <sup>[4](#o4), [5](#o5), [6](#o6), [7](#o7)</sup>. Since June 2024 only family, professional (doctors, engineers, nurses, teachers, accountants), investor, official and some visitor visas are open, and in August 2026 a quota of 5,000 Bangladeshi farm workers was reported approved for members of Oman's farmers' associations <sup>[N3 (2024)](#n3), [N4](#n4)</sup>. Oman's labour minister promised in January 2026 that work visas would reopen within two months; in August 2026 the Bangladesh Embassy in Muscat called posts about Oman's labour market opening or "free visas" rumours, and in September 2026 Bangladesh's state minister for foreign affairs said visas for Bangladeshis remained restricted <sup>[N5](#n5), [N6](#n6), [N7](#n7)</sup>. When Oman was open, a job started as an Omani sponsor's Ministry of Labour authorisation to bring a foreign worker, and such authorisations were sold on as "free visas": workers paid Tk 2 to 3.5 lakh against a legal maximum of Tk 1,00,780 for a man, and some arrived to find no work <sup>[8](#o8), [N8 (2016)](#n8), [N9 (2021)](#n9), [N10 (2023)](#n10), [9 (2019)](#o9)</sup>. About 599,000 Bangladeshis still work in Oman, the largest foreign group, under a government-agreed minimum wage of RO 90 a month that is not rigorously enforced <sup>[10](#o10), [N9 (2021)](#n9)</sup>.
 
 <a id="is-it-open-now-and-who-can-go"></a>
 
@@ -252,8 +252,8 @@ Oman has been Bangladesh's third-largest destination since 2004, but since 31 Oc
 #### 1.2.2 What is open, and for whom
 
 - **Exempt categories (since June 2024).** Oman's embassy in Dhaka exempted family visas, visit visas for Bangladeshis living in another GCC (Gulf Cooperation Council) country, physicians, engineers, nurses, teachers, accountants, investors, all official visas and high-income tourists <sup>[N3 (2024)](#n3), [N12 (2024)](#n12)</sup>. The embassy takes these applications in Dhaka with attested papers and coordinates with ROP; it said processing takes one to four weeks <sup>[N3 (2024)](#n3)</sup>. Bangladesh's ambassador to Oman said in June 2026 that visas were open in 13 categories <sup>[N13](#n13)</sup>. The steps are under the visas that own them.
-- **Still closed.** New visas for general workers in construction, agriculture and services stayed closed through July 2026 <sup>[N13](#n13)</sup>, and in September 2026 airport immigration officers described Oman as suspending general worker visas and the recruitment of women domestic workers <sup>[N14](#n14)</sup>. Bangladeshi business owners in Oman said in July 2026 that the hiring ban had left restaurants, supermarkets, salons, farms and transport short of staff <sup>[N13](#n13)</sup>.
-- **Farm workers, 2026 quota.** On 6 August 2026 the Omani Agricultural Association's Al Dhahirah branch opened applications (9 to 20 August, at its office in Al Murtafa'a, Ibri) for registered farmers to recruit Bangladeshi farm workers, under MoL and ROP approvals <sup>[N4](#n4)</sup>. A Sanad (government-services) office owner said 5,000 workers were approved for members of farmers' associations across Oman, up to 330 per governorate or association <sup>[N4](#n4)</sup>. Farmers had to be paid-up association members (RO 25 a year) with a farm-holding certificate and a valid MoL work permit <sup>[N4](#n4)</sup>. The Bangladesh Embassy in Muscat said the notice covered only limited visas for farm work in the Al Dhahirah region and did not open the labour market <sup>[N6](#n6)</sup>. Farm labourers (208) and farm workers (33) are the largest groups in BMET's 2026 clearances for Oman <sup>[11](#o11)</sup>.
+- **Still closed.** New visas for general workers in construction, agriculture and services stayed closed through July 2026 <sup>[N13](#n13)</sup>, and in September 2026 Oman was still suspending general worker visas and the recruitment of women domestic workers <sup>[N14](#n14)</sup>. Bangladeshi business owners in Oman said in July 2026 that the hiring ban had left restaurants, supermarkets, salons, farms and transport short of staff <sup>[N13](#n13)</sup>.
+- **Farm workers, 2026 quota.** On 6 August 2026 the Omani Agricultural Association's Al Dhahirah branch opened applications (9 to 20 August, at its office in Al Murtafa'a, Ibri) for registered farmers to recruit Bangladeshi farm workers, under MoL and ROP approvals <sup>[N4](#n4)</sup>. A Sanad (government-services) office owner said 5,000 workers were approved for members of farmers' associations across Oman, up to 330 per governorate or association <sup>[N4](#n4)</sup>. Farmers had to be paid-up association members (RO 25 a year) with a farm-holding certificate and a valid MoL work permit <sup>[N4](#n4)</sup>. The Bangladesh Embassy in Muscat said the notice covered only limited visas for farm work in the Al Dhahirah region and did not open the labour market <sup>[N6](#n6)</sup>. Farm labourers (208) are the largest group in BMET's 2026 clearances for Oman, and farm workers (33) the fourth <sup>[11](#o11)</sup>.
 - **Farm and fishing workers, 2026 agreement.** On 9 September 2026 the state minister said Oman wants 5,000 farm workers and 5,000 fishermen and an agreement had been signed <sup>[N7](#n7), [N11](#n11)</sup>. A six-member MoL delegation then met Expatriates' Welfare Ministry officials in Dhaka; formalities must be completed before hiring starts, and an official of BOESL (the state-owned Bangladesh Overseas Employment and Services Ltd) said a top member of the Omani government will decide on reopening <sup>[N15](#n15)</sup>.
 
 > **Need to know**
@@ -272,10 +272,10 @@ ROP gave no reason <sup>[N10 (2023)](#n10)</sup>. What each side said:
 - **Bangladesh government, Nov 2023.** The foreign minister said traffickers had abused the route <sup>[N18 (2023)](#n18)</sup>.
 - **Bangladeshi press, May 2024.** The suspension was meant to stop traffickers exploiting Omani visas, deal with an oversupply of foreign workers and create jobs for Omanis <sup>[N19 (2024)](#n19)</sup>.
 
-The day before the suspension, 30 October 2023, the Bangladesh Embassy in Muscat began requiring workers' last three months' salary sheets before attesting a visa or agreement <sup>[N10 (2023)](#n10)</sup>. An Omani delegation had been in Dhaka on 11 to 14 October 2023 proposing two memoranda of understanding, including on illegal migration and trafficking <sup>[N10 (2023)](#n10)</sup>.
+The day before the suspension, 30 October 2023, the Bangladesh Embassy in Muscat began requiring workers' last three months' salary sheets before attesting a visa or agreement <sup>[N10 (2023)](#n10)</sup>. An Omani delegation had been in Dhaka on 11 to 14 October 2023 proposing two memoranda of understanding (MoUs), including on illegal migration and trafficking <sup>[N10 (2023)](#n10)</sup>.
 
 Since then:
-- **June 2024:** the exempt categories above opened <sup>[N3 (2024)](#n3), [N12 (2024)](#n12)</sup>.
+- **June 2024:** the exempt categories opened (see ["What is open, and for whom"](#what-is-open-and-for-whom)) <sup>[N3 (2024)](#n3), [N12 (2024)](#n12)</sup>.
 - **2025:** Oman let foreigners without valid papers regularise or leave without overstay fines until 31 July 2025, extended to 31 December 2025, through ROP offices <sup>[N20](#n20)</sup>.
 - **26 January 2026, Riyadh:** the labour minister told adviser Asif Nazrul work visas would reopen within two months; the adviser praised Oman for regularising undocumented Bangladeshis without fines and urged Oman to sign the already-finalised labour MoU <sup>[N5](#n5)</sup>.
 - **12 August 2026:** the Bangladesh Embassy in Muscat said Oman had made no announcement on recruiting Bangladeshi workers or opening its labour market <sup>[N6](#n6)</sup>.
@@ -306,15 +306,15 @@ From 2004 to May 2025, 1,653,744 workers went to Oman, 11.85% of all Bangladeshi
 
 Around the suspension, by month: July 2023 10,362; August 10,541; September 9,570; October 9,669; November 9,435; December 1,920; January 2024 301; February 0; March 0 <sup>[12](#o12), [13](#o13), [14](#o14), [15](#o15), [16](#o16), [17](#o17), [18](#o18), [19](#o19), [20](#o20)</sup>. Of the 671 cleared in 2025, 435 were cleared as "A Builder" <sup>[21](#o21)</sup>.
 
-*How many Bangladeshis are in Oman.* Oman's National Centre for Statistics and Information (NCSI) counted 599,070 Bangladeshi expatriate workers in September 2026, still the largest nationality, ahead of 529,810 Indians and 282,986 Pakistanis, out of 1,854,441 expatriate workers <sup>[10](#o10)</sup>. The count was 703,840 in mid-2023 and 637,152 in June 2024 <sup>[N10 (2023)](#n10), [N21](#n21)</sup>. Remittance from Oman rose from USD 1.66 billion in FY2024-25 to USD 2.05 billion in FY2025-26, Expatriates' Welfare Minister Ariful Haque Choudhury said <sup>[N22](#n22)</sup>.
+*How many Bangladeshis are in Oman.* Oman's National Centre for Statistics and Information (NCSI) counted 599,070 Bangladeshi expatriate workers in September 2026, still the largest nationality, ahead of 529,810 Indians and 282,986 Pakistanis, out of 1,854,441 expatriate workers <sup>[10](#o10)</sup>. The count was 703,840 in mid-2023 and 637,152 in June 2024 <sup>[N10 (2023)](#n10), [N21](#n21)</sup>. Remittance from Oman rose from USD 1.66 billion in FY2024-25 to USD 2.05 billion in FY2025-26 <sup>[N22](#n22)</sup>.
 
-*Against India, Pakistan and Nepal.* In the year to September 2026 the number of Bangladeshi workers in Oman fell 3.4% and Pakistanis 7.1%, while Indians rose 2.3% <sup>[10](#o10)</sup>; Egyptians rose 16.8% to 58,282 and Myanmar workers 3.0% to 38,518 <sup>[10](#o10)</sup>. Oman has cut intake from Pakistan too: Pakistan registered 91,570 workers for Oman over 2024-2026, but only 9,373 in 2025 and 607 in 2026 <sup>[N23](#n23)</sup>. India issued 33,482 emigration clearances for Oman in 2021-2024 <sup>[22 (2024)](#o22)</sup>. Nepal is a small sender: 1,508 Nepali workers went to Oman through recruitment agencies in 2022/23 <sup>[23](#o23)</sup>.
+*Against India, Pakistan and Nepal.* In the year to September 2026 the number of Bangladeshi workers in Oman fell 3.4% and Pakistanis 7.1%, while Indians rose 2.3% <sup>[10](#o10)</sup>; Egyptians rose 16.8% to 58,282 and Myanmar workers 3.0% to 38,518 <sup>[10](#o10)</sup>. Pakistani recruitment to Oman has fallen too: Pakistan registered 91,570 workers for Oman over 2024-2026, but only 9,373 in 2025 and 607 in 2026 <sup>[N23](#n23)</sup>. India issued 33,482 emigration clearances for Oman in 2021-2024 <sup>[22 (2024)](#o22)</sup>. Nepal is a small sender: 1,508 Nepali workers went to Oman through recruitment agencies in 2022/23 <sup>[23](#o23)</sup>.
 
 <a id="who-qualifies"></a>
 
 #### 1.2.5 Who qualifies
 
-The suspension, not age or skill, decides who can go now: only the exempt categories and the farm quota above <sup>[N3 (2024)](#n3), [N4](#n4)</sup>. Women were 6,636 of those cleared for Oman in 2023, then 56 in 2024, 5 in 2025 and 3 in 2026 to 8 November <sup>[24](#o24), [25](#o25), [26](#o26), [27](#o27)</sup>. Oman's Labour Law lets an employer recruit a foreigner only when no Omani has the qualifications for the job <sup>[8](#o8)</sup>.
+The suspension, not age or skill, decides who can go now: only the exempt categories and the farm quota (see ["What is open, and for whom"](#what-is-open-and-for-whom)) <sup>[N3 (2024)](#n3), [N4](#n4)</sup>. Women were 6,636 of those cleared for Oman in 2023, then 56 in 2024, 5 in 2025 and 3 in 2026 to 8 November <sup>[24](#o24), [25](#o25), [26](#o26), [27](#o27)</sup>. Oman's Labour Law lets an employer recruit a foreigner only when no Omani has the qualifications for the job <sup>[8](#o8)</sup>.
 
 > **Need to know**
 > - At what age does BMET clear a man for an Oman farm-worker visa in 2026, and is a skill test required?
@@ -323,7 +323,7 @@ The suspension, not age or skill, decides who can go now: only the exempt catego
 
 #### 1.2.6 Jobs reserved for Omanis
 
-Ministerial Decision 235/2022 bars non-Omanis from the 210 professions in its annex, and Decision 501/2024 added 39 more, numbered 211 to 249 <sup>[28 (2022)](#o28), [N24 (2022)](#n24), [29 (2024)](#o29), [N25 (2024)](#n25)</sup>. They include jobs Bangladeshis used to be sold:
+Ministerial Decision 235/2022 bars non-Omanis from the 210 professions in its annex, and Decision 501/2024 added 39 more, numbered 211 to 249 <sup>[28 (2022)](#o28), [N24 (2022)](#n24), [29 (2024)](#o29), [N25 (2024)](#n25)</sup>. They include:
 - guard, security guard, warehouse worker and farm tractor driver <sup>[28 (2022)](#o28)</sup>;
 - grocer, vegetable and fruit seller and street vendor <sup>[28 (2022)](#o28), [N24 (2022)](#n24)</sup>;
 - bus driver and general vehicle driver <sup>[28 (2022)](#o28)</sup>;
@@ -345,9 +345,9 @@ Clearances fell from 188,247 in 2016 to 72,504 in 2018, and to 21,071 in 2020 <s
 
 ### 1.3 How a job reaches you, and who takes a cut
 
-An Oman work visa starts as the Omani employer's MoL authorisation to bring a foreign worker, granted only if no Omani can do the job and the employer meets its Omanisation quota, and the employer pays a work permit fee by occupation class (RO 200, 250 or 300) <sup>[8](#o8), [30](#o30)</sup>. The choke point is that authorisation: whoever holds it, the sponsor (কফিল, kafeel), decides whose name goes on it, and diplomatic sources said Oman shut the corridor in 2023 because such approvals were misused to send workers with no job behind them <sup>[N18 (2023)](#n18)</sup>.
+An Oman work visa starts as the Omani employer's MoL authorisation to bring a foreign worker, granted only if no Omani can do the job and the employer meets its Omanisation quota, and the employer pays a work permit fee by occupation class (RO 200, 250 or 300) <sup>[8](#o8), [30](#o30)</sup>. The choke point is that authorisation, held by the Omani sponsor (kafeel), and diplomatic sources said Oman shut the corridor in 2023 because such approvals were misused to send workers with no job behind them <sup>[N18 (2023)](#n18)</sup>.
 
-*The free visa (ফ্রি ভিসা, আজাদ ভিসা).* The worker pays a sponsor a fee to work for other employers, and pays the sponsor again at each residence-card renewal <sup>[N8 (2016)](#n8), [N9 (2021)](#n9)</sup>. A Bangladesh labour attaché said an Omani caught doing this is fined 1,000 rials, and the author of an ILO (International Labour Organization) study found the practice widespread <sup>[N9 (2021)](#n9)</sup>. Working for anyone but your sponsor without MoL approval is illegal <sup>[8](#o8)</sup>.
+*The free visa.* The worker pays a sponsor a fee to work for other employers, and may pay the sponsor again when the residence card is renewed <sup>[N8 (2016)](#n8), [N9 (2021)](#n9)</sup>. A Bangladesh labour attaché said an Omani caught doing this is fined 1,000 rials, and the author of an ILO (International Labour Organization) study found the practice widespread <sup>[N9 (2021)](#n9)</sup>. Working for anyone but your sponsor without MoL approval is illegal <sup>[8](#o8)</sup>.
 
 *Down the chain.* A Bangladeshi in Muscat said in 2023 that Bangladeshi recruiters and brokers run the visa trade and employers issue demand letters (the employer's written request for workers) when they need nobody <sup>[N10 (2023)](#n10)</sup>. The secretary-general of BAIRA (the Bangladesh Association of International Recruiting Agencies) said in 2023 that 80% of Oman workers go individually, on visas arranged by family and friends <sup>[N10 (2023)](#n10)</sup>. Long-time migrants often act as recruiters: one woman paid her cousin in Salalah Tk 1.2 lakh for her visa, then recruited about ten maids herself <sup>[N9 (2021)](#n9)</sup>.
 
@@ -389,7 +389,7 @@ You can change employer without the old employer's NOC (no-objection certificate
 - **Quitting.** You can resign online on MoL's website with up to 30 days' notice <sup>[32](#o32)</sup>.
 - **Changing employer.** Since 1 January 2021 you need proof the contract has ended and a new employer with a licence to recruit <sup>[N28 (2020)](#n28)</sup>; before that, leaving without an NOC meant a two-year ban <sup>[N28 (2020)](#n28)</sup>. MoL's transfer service asks for the previous sponsor's approval, and the new employer must have a vacant licence <sup>[33](#o33)</sup>.
 - **Absconding reports.** After 7 days' absence the employer can file a desertion report, which protects the employer from fines; you can appeal online for free <sup>[31](#o31), [34](#o34)</sup>.
-- **Free visa.** The sponsor charges again for each residence-card renewal: one worker paid 610 rials, 550 of it to the sponsor <sup>[N9 (2021)](#n9)</sup>. A social worker told HRW (Human Rights Watch) that some sponsors keep free-visa workers' passports and secretly report them as absconders <sup>[N8 (2016)](#n8)</sup>.
+- **Free visa.** The sponsor may charge again at residence-card renewal: one worker paid 610 rials, 550 of it to the sponsor <sup>[N9 (2021)](#n9)</sup>. A social worker told HRW (Human Rights Watch) that some sponsors keep free-visa workers' passports and secretly report them as absconders <sup>[N8 (2016)](#n8)</sup>.
 
 <a id="what-goes-wrong-most-and-what-people-wrongly-believe"></a>
 
@@ -415,10 +415,10 @@ Everything outside the June 2024 exemptions is closed by the October 2023 suspen
 
 These schemes exist but are closed to a Bangladesh passport holder, or open only in the narrow cases shown:
 
-- **14-day visa-free entry:** visitors from more than 100 countries and regions may stay up to 14 days without a visa, if they show a passport valid 6 months, a return ticket, a confirmed hotel booking, health insurance and enough money <sup>[36](#o36)</sup>. Bangladesh is on neither ROP list: List 1 (80 countries that need no tourist visa at all) and List 2 (24 nationalities, including India, Bhutan and the Maldives, who qualify only with a valid US, Canada, Australia, UK, Japan or Schengen visa) <sup>[37](#o37), [36](#o36)</sup>. The 14-day stay can't be extended or changed into any residence visa <sup>[36](#o36)</sup>. A Bangladeshi spouse or child of an exempt national can enter with them under the same exemption <sup>[36](#o36)</sup>.
+- **14-day visa-free entry:** visitors from more than 100 countries and regions may stay up to 14 days without a visa, if they show a passport valid 6 months, a return ticket, a confirmed hotel booking, health insurance and enough money <sup>[36](#o36)</sup>. Bangladesh is on neither ROP list: List 1 (80 countries that need no tourist visa at all) and List 2 (24 nationalities, including India, Bhutan and the Maldives, who qualify only with a valid US, Canada, Australia, UK, Japan or Schengen visa or residence) <sup>[37](#o37), [36](#o36)</sup>. The 14-day stay can't be extended or changed into any residence visa <sup>[36](#o36)</sup>. A Bangladeshi spouse or child of an exempt national can enter with them under the same exemption <sup>[36](#o36)</sup>.
 - **Unsponsored Tourist Visit Visa (type 26, 10 days for RO 5 or 30 days for RO 20, applied for online by the visitor himself):** only for nationals of the countries ROP specifies; Indian nationals, for example, get it with a valid Schengen, US, UK, Canada, Australia or Japan visa, and Nepali spouses and children of eligible travellers get it too, but Bangladesh nationals are offered none of its forms <sup>[38](#o38), [39](#o39), [40](#o40), [35](#o35)</sup>. This is the visa Oman's Foreign Ministry calls the usual one for tourists <sup>[36](#o36)</sup>.
 - **One-year multiple-entry visit visa (type 36, RO 50, up to one month per stay):** only for nationals of designated countries; not offered to Bangladeshis <sup>[38](#o38), [41](#o41), [35](#o35)</sup>.
-- **Oman/Qatar and Dubai/Oman common visas (types 20 and 21):** only for the eligible nationalities that entered Qatar or Dubai first; not offered to Bangladeshis <sup>[38](#o38), [35](#o35)</sup>.
+- **Oman/Qatar and Dubai/Oman common visas (types 20 and 21):** only for eligible nationalities travelling to Oman and then straight to Qatar, or entering Oman straight from Dubai on a Dubai tourist visa; not offered to Bangladeshis <sup>[38](#o38), [35](#o35)</sup>.
 - **Unsponsored Patient Visa (type 35)** for someone with a medical problem: not offered to Bangladeshis (see [Medical treatment visit](#medical-treatment-visit)) <sup>[38](#o38), [35](#o35)</sup>.
 - **Truck Driver Visa (12B):** offered online to Pakistani, Indian and Nepali drivers, not to Bangladeshis <sup>[42](#o42), [39](#o39), [40](#o40), [35](#o35)</sup>.
 - **Changing a visit or tourist visa into a work visa inside Oman:** stopped for every nationality from 31 October 2023; a visitor who finds a job must leave and come back on a work visa, and for Bangladeshis the work visa itself is suspended (see [Background](#background)) <sup>[N2 (2023)](#n2), [N16 (2023)](#n16)</sup>.
@@ -451,7 +451,7 @@ So the steps below are written for the route as it works when a visa is issued: 
 
 #### 3.1.1 What Omani law says
 
-Under the Labour Law (Royal Decree 53/2023), only an MoL-licensed recruiter may recruit non-Omani workers, and it is prohibited to take any amount from the recruited worker for employing him <sup>[8](#o8)</sup>. Breaking this carries 10 days to a month in prison and/or a fine of RO 1,000 to 2,000, and the licence is cancelled or suspended for at least a year <sup>[8](#o8)</sup>. The employer pays the MoL fees for the labour authorisation and work permit: per worker RO 301 (category 1 occupations), RO 251 (category 2) or RO 201 (category 3), cut by 30% if the firm meets its Omanisation quota (the required share of Omani staff) and doubled if it does not ([Step 4: The employer gets the labour authorisation from MoL](#step-4-the-employer-gets-the-labour-authorisation-from-mol)) <sup>[52](#o52), [N31](#n31)</sup>. The ROP visa costs RO 20 <sup>[46](#o46)</sup>, the medical form in Oman RO 30 <sup>[50](#o50)</sup> and the resident card RO 5 a year <sup>[N32](#n32)</sup>.
+Under the Labour Law (Royal Decree 53/2023), only an MoL-licensed recruiter may recruit non-Omani workers, and it is prohibited to take any amount from the recruited worker for employing him <sup>[8](#o8)</sup>. Breaking this carries 10 days to a month in prison and/or a fine of RO 1,000 to 2,000, and the licence is cancelled or suspended for at least a year <sup>[8](#o8)</sup>. The employer pays the MoL fees for the labour authorisation and work permit: per worker RO 301 (category 1 occupations), RO 251 (category 2) or RO 201 (category 3), cut by 30% if the firm meets its Omanisation quota (the required share of Omani staff) and doubled if it does not ([Step 4: The employer gets the labour authorisation from MoL](#step-4-the-employer-gets-the-labour-authorisation-from-mol)) <sup>[52](#o52), [N31](#n31)</sup>. The ROP visa costs RO 20 <sup>[46](#o46)</sup>, the medical form in Oman RO 30 (RO 40 for a food handler) <sup>[50](#o50)</sup> and the resident card RO 5 a year <sup>[N32](#n32)</sup>.
 
 > **Need to know**
 > - Does the Labour Law's ban on taking "any amounts" from workers stop the employer itself, not only a recruiter, from recovering the MoL, ROP and medical fees from the worker <sup>[8](#o8)</sup>?
@@ -460,7 +460,7 @@ Under the Labour Law (Royal Decree 53/2023), only an MoL-licensed recruiter may 
 
 #### 3.1.2 The Bangladesh maximum
 
-The government-set migration cost for Oman is Tk 1,00,780, fixed by the Ministry in 2017, covering the air fare, passport, health fees and related costs <sup>[53 (2019)](#o53), [N33 (2018)](#n33)</sup>. On the posted Oman job orders the employer also pays food, housing, medical cover and the air ticket ([Step 3: Find a real job and check the papers](#step-3-find-a-real-job-and-check-the-papers)) <sup>[48 (2023)](#o48)</sup>.
+The government-set migration cost for Oman is Tk 1,00,780, fixed by the Ministry in 2017, covering the air fare, passport, health fees and related costs <sup>[53 (2019)](#o53), [N33 (2018)](#n33)</sup>. On the Galfar job orders BMET posted in 2023, the employer also provided food, housing, medical cover and the air ticket ([Step 3, item 2: Which agencies held Oman job orders](#step-3-find-a-real-job-and-check-the-papers-item-2)) <sup>[48 (2023)](#o48)</sup>.
 
 > **Need to know**
 > - Is the 2017 cap of Tk 1,00,780 for Oman still in force, or has a later order replaced it <sup>[53 (2019)](#o53)</sup>?
@@ -490,7 +490,7 @@ Pay the agency only through the bank, into the agency's own account, and keep ev
    > **Need to know**
    > - Where and how does a Bangladeshi engineer or nurse lodge an exempt-category work visa at the Oman Embassy in Dhaka, and what attestation does it want?
 
-2. <a id="step-1-check-that-your-route-is-open-item-2"></a>**Farm workers (the 5,000 quota).** Only Omani farm owners can apply, not you <sup>[N4](#n4)</sup>. In August 2026 the Omani Agricultural Association's Al Dhahirah branch took applications from members who had paid its RO 25 annual fee, with their farm-holding (hiyaza) certificate, ID card, a valid MoL work permit and their 2026/27 cultivation form, from 9 to 20 August at its office in Al Murtafa'a, Ibri <sup>[N4](#n4)</sup>. A Sanad office owner (Sanad offices are Oman's licensed government-services counters) told the Oman Observer that each governorate or association can recruit up to 330 workers within the 5,000 <sup>[N4](#n4)</sup>. An individual farm owner's MoL fee is RO 141 a worker for up to 3 workers and RO 241 for 4 or more <sup>[52](#o52)</sup>. The association's number is 99413998 <sup>[N4](#n4)</sup>.
+2. <a id="step-1-check-that-your-route-is-open-item-2"></a>**Farm workers (the 5,000 quota).** Only Omani farm owners can apply, not you <sup>[N4](#n4)</sup>. In August 2026 the Omani Agricultural Association's Al Dhahirah branch took applications from members who had paid its RO 25 annual fee, with their farm-holding (hiyaza) certificate, ID card, a valid MoL work permit and their 2026/27 cultivation form, from 9 to 20 August at its office in Al Murtafa'a, Ibri <sup>[N4](#n4)</sup>. A Sanad office owner (Sanad offices are Oman's licensed government-services counters) said each governorate or association can recruit up to 330 workers within the 5,000 <sup>[N4](#n4)</sup>. An individual farm owner's MoL fee is RO 141 a worker for up to 3 workers and RO 241 for 4 or more <sup>[52](#o52)</sup>. The association's number is 99413998 <sup>[N4](#n4)</sup>.
 3. <a id="step-1-check-that-your-route-is-open-item-3"></a>**Everyone else.** The Bangladesh Embassy in Muscat warned on 12 August 2026 against social-media claims that "Oman's labour market has opened", "mass visas have started" or "free visas are being given", and asked people not to pay anyone on that basis <sup>[N30](#n30)</sup>. Check any offer with the Embassy, the Ministry of Expatriates' Welfare, BMET or the Omani authorities <sup>[N30](#n30)</sup>.
 4. <a id="step-1-check-that-your-route-is-open-item-4"></a>**Age.** You must be at least 21 for an Oman employment visa <sup>[46](#o46), [55](#o55)</sup>.
 5. <a id="step-1-check-that-your-route-is-open-item-5"></a>**Omanisation.** An employer may recruit a non-Omani only if no Omani has the skills, it meets its Omanisation plan and quota, and the worker's skills are needed; some occupations are closed to non-Omanis, and MoL can suspend labour authorisations for others <sup>[8](#o8)</sup>. MoL also lists occupations that need a certificate to practise <sup>[8](#o8)</sup>.
@@ -581,7 +581,7 @@ Pay the agency only through the bank, into the agency's own account, and keep ev
    > - What papers does the Muscat labour wing need to attest a demand letter and power of attorney, what does it charge, and how long does it take?
    > - Can a worker in Bangladesh ask the labour wing to confirm a "BEM/04/010/..." block visa number <sup>[48 (2023)](#o48)</sup>?
 
-4. <a id="step-3-find-a-real-job-and-check-the-papers-item-4"></a>**Have BMET check the visa.** BMET checks job visas and demand letters free in 3 working days, but its online check covers Saudi Arabia, Qatar, Bahrain, Singapore and the UAE, not Oman <sup>[49](#o49)</sup>. Bring the visa and the passport page with the visa stamp to BMET in Dhaka or your DEMO <sup>[49](#o49), [54](#o54)</sup>.
+4. <a id="step-3-find-a-real-job-and-check-the-papers-item-4"></a>**Have BMET check the visa.** BMET checks job visas and demand letters free in 3 working days, but its online check covers Saudi Arabia, Qatar, Bahrain, Singapore and the UAE, not Oman <sup>[49](#o49)</sup>. Bring the visa and related papers to BMET in Dhaka or your DEMO <sup>[49](#o49), [54](#o54)</sup>.
 5. <a id="step-3-find-a-real-job-and-check-the-papers-item-5"></a>**If a relative or friend in Oman sends you a visa.** Only an employer resident in Oman can sponsor, and the visa is for one employer and one occupation, which must match the labour permit <sup>[82](#o82), [46](#o46)</sup>. Working for anyone other than the employer on your permit gets your permit cancelled, deportation and a ban on entering Oman <sup>[8](#o8)</sup>. A worker who got his own visa applies for BMET clearance himself ([Step 7: Orientation, BMET clearance, insurance, a loan and the flight](#step-7-orientation-bmet-clearance-insurance-a-loan-and-the-flight)) <sup>[49](#o49)</sup>.
 
    > **Need to know**
@@ -591,7 +591,7 @@ Pay the agency only through the bank, into the agency's own account, and keep ev
 
 ### 3.5 Step 4: The employer gets the labour authorisation from MoL
 
-1. <a id="step-4-the-employer-gets-the-labour-authorisation-from-mol-item-1"></a>**The employer applies to MoL** for a labour authorisation: MoL's written approval to bring a non-Omani worker for a named occupation, valid 24 months and not renewable <sup>[52](#o52)</sup>. MoL grants it only under the Omanisation conditions in [Step 1: Check that your route is open](#step-1-check-that-your-route-is-open) <sup>[8](#o8)</sup>.
+1. <a id="step-4-the-employer-gets-the-labour-authorisation-from-mol-item-1"></a>**The employer applies to MoL** for a labour authorisation: MoL's written approval to bring a non-Omani worker for a named occupation, valid 24 months and not renewable <sup>[52](#o52)</sup>. MoL grants it only under the Omanisation conditions ([Step 1, item 5: Omanisation](#step-1-check-that-your-route-is-open-item-5)) <sup>[8](#o8)</sup>.
 2. <a id="step-4-the-employer-gets-the-labour-authorisation-from-mol-item-2"></a>**The employer pays after approval:** RO 301, 251 or 201 per worker by occupation category, under Ministerial Decision 602/2025, in force since 15 February 2026 <sup>[52](#o52), [N31](#n31), [83](#o83)</sup>. The fee is refundable, or a new licence costs RO 1, if you fail the medical, if the ROP refuses the visa, or if the employer sends you home within 90 days <sup>[52](#o52), [N31](#n31)</sup>.
 3. <a id="step-4-the-employer-gets-the-labour-authorisation-from-mol-item-3"></a>**The contract.** It must be written in Arabic (or with an approved Arabic copy attached), in two copies, one for you, and approved by MoL; registering it costs the employer RO 1 <sup>[8](#o8), [N31](#n31)</sup>. A fixed-term contract may not exceed 5 years <sup>[8](#o8)</sup>. If there is no written contract you can prove your rights by any means <sup>[8](#o8)</sup>.
 
@@ -602,7 +602,7 @@ Pay the agency only through the bank, into the agency's own account, and keep ev
 
 ### 3.6 Step 5: The medical in Bangladesh (Wafid)
 
-1. <a id="step-5-the-medical-in-bangladesh-wafid-item-1"></a>**Book the slip.** The agency or you book on wafid.com (the Gulf Health Council's booking system, formerly GAMCA): tap "Book an Appointment", choose the country, the city and Oman as the travelling country, and pay by card; the centre is assigned by city <sup>[84](#o84)</sup>. A Standard booking costs USD 10; a Premium booking at USD 25 lets you choose the centre and date <sup>[85](#o85)</sup>. The booking, called the "slip", can be reprinted from "Print GCC slip" with your passport number and nationality <sup>[84](#o84)</sup>.
+1. <a id="step-5-the-medical-in-bangladesh-wafid-item-1"></a>**Book the slip.** The agency or you book on wafid.com (the Gulf Health Council's booking system, formerly GAMCA, the GCC Approved Medical Centres Association): tap "Book an Appointment", choose the country, the city and Oman as the travelling country, and pay by card; the centre is assigned by city <sup>[84](#o84)</sup>. A Standard booking costs USD 10; a Premium booking at USD 25 lets you choose the centre and date <sup>[85](#o85)</sup>. The booking, called the "slip", can be reprinted from "Print GCC slip" with your passport number and nationality <sup>[84](#o84)</sup>.
 2. <a id="step-5-the-medical-in-bangladesh-wafid-item-2"></a>**Pay the centre.** The whole medical should cost no more than Tk 8,500 to 9,000 <sup>[N35](#n35)</sup>; one worker paid Tk 8,500 at a Chattogram centre <sup>[N36](#n36)</sup>.
 3. <a id="step-5-the-medical-in-bangladesh-wafid-item-3"></a>**The result** appears within 26 days and is valid for 2 months for the visa <sup>[84](#o84), [86 (2021)](#o86)</sup>. Unfit conditions include HIV, hepatitis B and C, malaria, leprosy, abnormal chest X-rays including past TB, uncontrolled blood pressure or diabetes, and cancer <sup>[84](#o84)</sup>. If a valid report is already in the system, you can rebook only 2 months after it <sup>[84](#o84)</sup>. Complaints go to the Gulf Health Council within two weeks <sup>[86 (2021)](#o86)</sup>.
 4. <a id="step-5-the-medical-in-bangladesh-wafid-item-4"></a>**The employer attests it in Oman.** The employer attests your Wafid e-report on MoH's (Ministry of Health's) eHealth Portal for RO 2, which takes 5 minutes, and then completes the visa on the ROP site <sup>[47](#o47)</sup>.
@@ -615,7 +615,7 @@ What happens in practice: a former official of BAIRA (the Bangladesh Association
 
 1. <a id="step-6-the-employer-gets-the-employment-visa-from-the-rop-check-it-item-1"></a>**The employer's PRO** (public relations officer, the company's government clerk) applies on the ROP e-visa system after registering the company with the Directorate General of Passports and Residence <sup>[87](#o87)</sup>. The visa needs two 6x4 cm photos, your passport copy, the MoL labour permit and your medical certificate attested by MoH, plus a professional body's approval for teaching, religious, media and medical jobs <sup>[46](#o46)</sup>. If you worked in Oman and left less than two years ago, it also needs a release letter from your previous employer approved by the Directorate General of Passports and Residence <sup>[46](#o46)</sup>. It costs RO 20 <sup>[46](#o46)</sup>.
 2. <a id="step-6-the-employer-gets-the-employment-visa-from-the-rop-check-it-item-2"></a>**What you get.** An employment visa for a worker aged 21 or over holding an MoL work permit, valid for 2 years from stamping and multi-entry <sup>[55](#o55), [46](#o46)</sup>. Your gender and occupation must match the labour permit <sup>[46](#o46)</sup>.
-3. <a id="step-6-the-employer-gets-the-employment-visa-from-the-rop-check-it-item-3"></a>**Check it.** Only the sponsor can see the status, by logging in to its eVisa account ("Find Visa Application"), and it can reprint the approved visa as a PDF by passport number <sup>[88](#o88)</sup>. Ask the employer for that PDF, and call the ROP eVisa centre on +968 22848200 from Bangladesh (80080011 in Oman) or email Info-OmaneVisa@rop.gov.om <sup>[88](#o88)</sup>.
+3. <a id="step-6-the-employer-gets-the-employment-visa-from-the-rop-check-it-item-3"></a>**Check it.** The status shows in the eVisa account that made the application, the sponsor's, under "Find Visa Application", and the sponsor can reprint the approved visa as a PDF by passport number <sup>[88](#o88)</sup>. Ask the employer for that PDF, and call the ROP eVisa centre on +968 22848200 from Bangladesh (80080011 in Oman) or email Info-OmaneVisa@rop.gov.om <sup>[88](#o88)</sup>.
 
 4. <a id="step-6-the-employer-gets-the-employment-visa-from-the-rop-check-it-item-4"></a>**If it is refused.** ROP can reject any application without giving a reason <sup>[89](#o89)</sup>. The employer then gets back its MoL fee, or a new labour authorisation for RO 1 ([Step 4: The employer gets the labour authorisation from MoL](#step-4-the-employer-gets-the-labour-authorisation-from-mol)) <sup>[52](#o52), [N31](#n31)</sup>.
 
@@ -677,7 +677,7 @@ What happens in practice: a former official of BAIRA (the Bangladesh Association
 ### 3.9 Step 8: After you arrive
 
 1. <a id="step-8-after-you-arrive-item-1"></a>**The medical in Oman.** The employer gets your medical form on MoH's eHealth Portal or at a Sanad office for RO 30, or RO 40 for a food handler; it is valid for 30 days <sup>[50](#o50)</sup>. You show the QR code it generates at the nearest private medical centre that does labour screening <sup>[50](#o50)</sup>. The Ministry of Health re-examines every arriving worker, and a centre in Bangladesh that passed an unfit worker can be penalised <sup>[86 (2021)](#o86)</sup>. If you are found unfit on first arrival, MoL rules govern your return home and the employer can recover its fee <sup>[8](#o8), [52](#o52)</sup>.
-2. <a id="step-8-after-you-arrive-item-2"></a>**The resident card within 30 days.** Every resident must get a resident card from the ROP within 30 days of entry, in person, with the application form, the original passport and the medical form <sup>[51](#o51)</sup>. It costs RO 5 for each year of validity, up to 10 years, and RO 20 to replace; renew it within 30 days of expiry <sup>[N32](#n32)</sup>. The ROP page lists a fine of 10 for each month of delay <sup>[51](#o51)</sup>. MoL's guidance calls this card your "labour card" <sup>[98](#o98)</sup>.
+2. <a id="step-8-after-you-arrive-item-2"></a>**The resident card within 30 days.** Every resident must get a resident card from the ROP within 30 days of entry, in person, with the application form, the original passport and the medical form <sup>[51](#o51)</sup>. It costs RO 5 for each year of validity, up to 10 years, and RO 20 to replace; renew it within 30 days of expiry <sup>[N32](#n32)</sup>. Applying late is fined RO 10 for each month of delay <sup>[51](#o51)</sup>. MoL's guidance calls this card your "labour card" <sup>[98](#o98)</sup>.
 
    > **Need to know**
    > - Does ROP charge RO 5 a year for a resident card (Decision 157/2025), or still RO 6 for one year and RO 11 for two, as its resident-card page says <sup>[N32](#n32), [51](#o51)</sup>?
@@ -716,19 +716,19 @@ What happens in practice: a former official of BAIRA (the Bangladesh Association
 
 **"Oman is open" and "free visa" offers:** Social-media posts used the August 2026 farm-worker notice to claim that Oman had opened and was giving free visas; the Embassy said no such announcement had been made <sup>[N30](#n30)</sup>. A "free visa" is not a real visa type: Omani visas are issued for one job with one employer, and working for anyone else ends in deportation and an entry ban <sup>[N39 (2018)](#n39), [8](#o8)</sup>. In 2018 Oman detained more than 20,000 Bangladeshis for labour-law breaches with no valid papers <sup>[N39 (2018)](#n39)</sup>. **Spot it:** anyone selling an ordinary Oman work visa in 2026 outside an exempt profession or the farm quota ([Step 1: Check that your route is open](#step-1-check-that-your-route-is-open)) <sup>[N3 (2024)](#n3), [N4](#n4)</sup>.
 
-**Visit visa sold as a job:** Since 31 October 2023 a visit or tourist visa cannot be converted into a work visa inside Oman; you must leave and come back on a work visa <sup>[N2 (2023)](#n2)</sup>. **Spot it:** the paper says tourist, visit or express visa, not employment visa ([Step 6: The employer gets the employment visa from the ROP; check it](#step-6-the-employer-gets-the-employment-visa-from-the-rop-check-it)) <sup>[55](#o55)</sup>.
+**Visit visa sold as a job:** Since 31 October 2023 a visit or tourist visa cannot be converted into a work visa inside Oman; you must leave and come back on a work visa <sup>[N2 (2023)](#n2)</sup>. **Spot it:** the paper says tourist, visit or express visa, not employment visa ([Step 6: The employer gets the employment visa from the ROP; check it](#step-6-the-employer-gets-the-employment-visa-from-the-rop-check-it)) <sup>[55](#o55), [88](#o88)</sup>.
 
 **Fake or unchecked demand letters:** A real Oman demand letter carries the Embassy's attestation and the employer's power of attorney to the agency, and the permission letter shows the Embassy's block visa number <sup>[75 (2023)](#o75), [48 (2023)](#o48)</sup>. **Spot it:** check with the labour wing ([Step 3: Find a real job and check the papers](#step-3-find-a-real-job-and-check-the-papers)) and have BMET check the papers <sup>[80](#o80), [49](#o49)</sup>.
 
 **Fake or missing BMET clearance:** Airport welfare desks stopped 1,098 travellers with no or fake BMET clearance in 2023-24 <sup>[92 (2024)](#o92)</sup>. **Spot it:** check your smart card at portal.wewb.gov.bd/bmet-wewbm-check before you fly ([Step 7: Orientation, BMET clearance, insurance, a loan and the flight](#step-7-orientation-bmet-clearance-insurance-a-loan-and-the-flight)) <sup>[90](#o90)</sup>.
 
-**Medical-slip rackets:** An agency offered one worker a Tk 10,000 "standard" medical that could end in "unfit", or Tk 20,000 for a guaranteed "fit" <sup>[N35](#n35)</sup>. Syndicate-linked centres pre-book slots, take nearly 90% of referrals and charge Tk 25,000 to 30,000 for a guaranteed "fit" certificate <sup>[N35](#n35)</sup>. A worker who paid Tk 50,000 in Dhaka was certified fit after failing in Chattogram <sup>[N36](#n36)</sup>. Workers found unfit pay Tk 30,000 to 80,000 in bribes for a "fit" certificate, and because one "unfit" result can blacklist a worker for life, many contract a broker before the test to be passed <sup>[N36](#n36)</sup>. A "fit" bought this way fails on arrival: one worker who paid Tk 25,000 was found unfit in Saudi Arabia and deported <sup>[N35](#n35), [86 (2021)](#o86)</sup>. **Spot it:** book only on wafid.com ([Step 5: The medical in Bangladesh (Wafid)](#step-5-the-medical-in-bangladesh-wafid)) <sup>[84](#o84)</sup>.
+**Medical-slip rackets:** An agency offered one worker a Tk 10,000 "standard" medical that could end in "unfit", or Tk 20,000 for a guaranteed "fit" <sup>[N35](#n35)</sup>. Nearly 90% of referrals go to about 20 centres; syndicate-linked centres pre-book hundreds of slots and charge Tk 25,000 to 30,000 for a guaranteed "fit" certificate <sup>[N35](#n35)</sup>. A worker who paid Tk 50,000 in Dhaka was certified fit after failing in Chattogram <sup>[N36](#n36)</sup>. Workers found unfit pay Tk 30,000 to 80,000 in bribes for a "fit" certificate, and because one "unfit" result can blacklist a worker for life, many contract a broker before the test to be passed <sup>[N36](#n36)</sup>. A "fit" bought this way can fail on arrival: one worker who paid Tk 25,000 was found unfit in Saudi Arabia and deported <sup>[N35](#n35), [86 (2021)](#o86)</sup>. **Spot it:** book only on wafid.com ([Step 5: The medical in Bangladesh (Wafid)](#step-5-the-medical-in-bangladesh-wafid)) <sup>[84](#o84)</sup>.
 
 <a id="tried-by-workers"></a>
 
 #### 3.10.2 Tried by workers
 
-Buying a "fit" certificate does not hold: the Ministry of Health tests you again on arrival <sup>[86 (2021)](#o86)</sup>. Forged certificates or experience are grounds for MoL to send you home <sup>[8](#o8)</sup>. Working for someone other than your sponsor gets your permit cancelled and you deported and banned <sup>[8](#o8)</sup>.
+A bought "fit" certificate can be caught: the Ministry of Health tests you again on arrival <sup>[86 (2021)](#o86)</sup>. Forged certificates or experience are grounds for MoL to send you home <sup>[8](#o8)</sup>. Working for someone other than your sponsor gets your permit cancelled and you deported and banned <sup>[8](#o8)</sup>.
 
 <a id="your-rights-at-work"></a>
 
@@ -738,9 +738,9 @@ Buying a "fit" certificate does not hold: the Ministry of Health tests you again
 
 #### 3.11.1 Contract
 
-**Which law covers you:** Oman's Labour Law (Royal Decree 53/2023) covers all employers and workers except those whose work is governed by special laws or systems <sup>[8](#o8)</sup>. Domestic workers come under a separate regulation, Ministerial Decision 574/2025: see Work visa: domestic worker <sup>[N40](#n40)</sup>. Royal Decree 66/2026 (June 2026) repealed the Labour Law's Article 146 on workers taking bribes and moved that crime into the Penal Law <sup>[N41](#n41)</sup>. Any contract term, release or waiver that gives you less than the law is void, unless it is better for you <sup>[8](#o8)</sup>. The employer may not impose forced or compulsory labour <sup>[8](#o8)</sup>.
+**Which law covers you:** Oman's Labour Law (Royal Decree 53/2023) covers all employers and workers except those whose work is governed by special laws or systems <sup>[8](#o8)</sup>. Domestic workers come under a separate regulation, Ministerial Decision 574/2025 (see [Work visa: domestic worker](#work-visa-domestic-worker)) <sup>[N40](#n40)</sup>. Royal Decree 66/2026 (June 2026) repealed the Labour Law's Article 146 on workers taking bribes and moved that crime into the Penal Law <sup>[N41](#n41)</sup>. Any contract term that goes against the law is void unless it is better for you, and so is any release or waiver of your rights under the law <sup>[8](#o8)</sup>. The employer may not impose forced or compulsory labour <sup>[8](#o8)</sup>.
 
-**Your contract:** It must be in writing, in Arabic, in two copies, one for you and one for the employer; it may be in another language too, but an Arabic copy agreed by both sides must be attached, and the contract must be approved by the labour authority <sup>[102](#o102)</sup>. If there is no written contract you can prove your rights by any means <sup>[102](#o102)</sup>. It must state the employer, the establishment and the workplace address, your details, the type of work and its conditions, the period, the basic wage, allowances and benefits, the date the wage is paid, and the notice for not renewing it, which from the employer may not be less than a month <sup>[8](#o8)</sup>. A fixed-term contract lasts at most 5 years and can be renewed by agreement; renewals count towards your total service <sup>[8](#o8)</sup>. A contract becomes open-ended if it is not written, or if a fixed-term contract ends and both sides carry on without a new written agreement <sup>[8](#o8)</sup>. Employer rules and circulars must be in Arabic, and if another language is used too, only the Arabic counts <sup>[8](#o8)</sup>. Since December 2024 the employer must update the registered contract whenever your wage changes, so it shows your actual wage <sup>[103 (2024)](#o103)</sup>. MOL's (the Ministry of Labour's) leaflet for expatriates says you are entitled to a copy of your contract <sup>[98](#o98)</sup>.
+**Your contract:** It must be in writing, in Arabic, in two copies, one for you and one for the employer; it may be in another language too, but an Arabic copy agreed by both sides must be attached, and the contract must be approved by the labour authority <sup>[102](#o102)</sup>. If there is no written contract you can prove your rights by any means <sup>[102](#o102)</sup>. It must state the employer, the establishment and the workplace address, your details, the type of work and its conditions, the period, the basic wage, allowances and benefits, the date the wage is paid, and the notice for not renewing it, which from the employer may not be less than a month <sup>[8](#o8)</sup>. A fixed-term contract lasts at most 5 years and can be renewed by agreement; renewals count towards your total service <sup>[8](#o8)</sup>. A contract becomes open-ended if it is not written, or if a fixed-term contract ends and both sides carry on without a new written agreement <sup>[8](#o8)</sup>. Employer rules and circulars must be in Arabic, and if another language is used too, only the Arabic counts <sup>[8](#o8)</sup>. Since December 2024 the employer must update the registered contract whenever your wage changes, so it shows your actual wage <sup>[103 (2024)](#o103)</sup>. You are entitled to a copy of your contract <sup>[98](#o98)</sup>.
 
 The employer may not breach the contract or give you work that was not agreed, except temporarily to prevent or deal with an accident or in force majeure, or similar work that does not harm your rights <sup>[8](#o8)</sup>. Moving you to another worksite or another of its establishments needs your agreement and MOL's authorisation, at the employer's cost <sup>[8](#o8)</sup>.
 
@@ -757,7 +757,7 @@ The employer may not breach the contract or give you work that was not agreed, e
 
 **When and how you are paid:** Wages are paid in Omani rials unless another legal currency is agreed <sup>[8](#o8)</sup>. A monthly-paid worker must be paid at least once a month, on a working day, and in all cases within 3 days of the end of the pay period <sup>[8](#o8)</sup>. The employer is not cleared of the wage unless it is transferred to your account at a bank or financial institution licensed by the Central Bank of Oman, and it is the employer that must prove it paid <sup>[8](#o8)</sup>. Paying late breaks the law and carries a fine of RO 100 to 300 for each worker, doubled for a repeat; not paying into your bank account carries RO 500 to 1,000 for each worker, doubled for a repeat <sup>[8](#o8)</sup>.
 
-The WPS (Wage Protection System, MOL's electronic check on salary transfers, under Ministerial Decision 729/2024) requires the employer to transfer wages through it within 3 days of the end of the wage period <sup>[103 (2024)](#o103)</sup>. MOL required at least 75% of each company's workers to be paid through WPS from September 2025 wages and 90% from November 2025 wages <sup>[N43](#n43)</sup>. An employer that breaks the WPS rules can be warned, have new initial work permits stopped until it complies, and be fined RO 50 per worker, doubled for a repeat <sup>[103 (2024)](#o103)</sup>. The employer is excused from WPS for a worker in a labour dispute who has stopped work for over 30 days, a worker suspended for over 30 days for reasons not the employer's, a worker with a work-abandonment report approved more than 30 days ago, a new worker in his first 30 days and a worker on unpaid leave <sup>[103 (2024)](#o103)</sup>. Observers reported in 2025 that only 25% of private businesses were paying through WPS <sup>[N44](#n44)</sup>.
+The WPS (Wage Protection System, MOL's electronic check on salary transfers, under Ministerial Decision 729/2024) requires the employer to transfer wages through it within 3 days of the end of the wage period <sup>[103 (2024)](#o103)</sup>. MOL required at least 75% of each company's workers to be paid through WPS from September 2025 wages and 90% from November 2025 wages <sup>[N43](#n43)</sup>. An employer that breaks the WPS rules can be warned, have new initial work permits stopped until it complies, and be fined RO 50 per worker, doubled for a repeat <sup>[103 (2024)](#o103)</sup>. The employer is excused from WPS for a worker in a labour dispute who has stopped work for over 30 days, a worker suspended for over 30 days for reasons not the employer's, a worker with a work-abandonment report approved more than 30 days ago, a new worker in his first 30 days and a worker on unpaid leave <sup>[103 (2024)](#o103)</sup>. In 2025 only 25% of private businesses were successfully paying wages through WPS <sup>[N44](#n44)</sup>.
 
 > **Need to know**
 > - Is 100% WPS coverage now required, and from which month's wages?
@@ -769,7 +769,7 @@ The WPS (Wage Protection System, MOL's electronic check on salary transfers, und
 
 #### 3.11.3 Hours, rest and leave
 
-**Hours and overtime:** At most 8 actual hours a day and 40 a week, plus a daily hour for rest and food that does not count, and no more than 6 hours in a row; in Ramadan, Muslim workers work at most 6 hours a day or 30 a week <sup>[102](#o102)</sup>. The employer must post the schedule of hours and rest days where you can see it <sup>[8](#o8)</sup>. Overtime may bring the total to at most 12 hours a day and needs your consent; it is paid at your basic wage plus at least 25% for day hours and 50% for night hours (9 pm to 5 am), or with time off <sup>[102](#o102), [8](#o8)</sup>. Work on your rest day or an official holiday earns 100% of your daily basic wage on top of the day's wage, or a day off for each day worked <sup>[102](#o102)</sup>. Overtime without your consent is allowed only for stock-taking and accounts work (at most 15 days a year unless MOL allows more) or emergencies, and is then paid at basic wage plus 50% (day) or 75% (night), or 200% on rest days and holidays <sup>[8](#o8)</sup>. The Minister may exempt seasonal work and specified sectors from these limits <sup>[8](#o8)</sup>. In practice some migrant workers have been reported working more than 12 hours a day without a day off <sup>[N42 (2024)](#n42)</sup>.
+**Hours and overtime:** At most 8 actual hours a day and 40 a week, plus a daily hour for rest and food that does not count, and no more than 6 hours in a row; in Ramadan, Muslim workers work at most 6 hours a day or 30 a week <sup>[102](#o102)</sup>. The employer must post the schedule of hours and rest days where you can see it <sup>[8](#o8)</sup>. Overtime may bring the total to at most 12 hours a day and needs your consent; it is paid at your basic wage plus at least 25% for day hours and 50% for night hours (9 pm to 5 am), or with time off <sup>[102](#o102), [8](#o8)</sup>. Work on your rest day or an official holiday earns 100% of your daily basic wage on top of the day's wage, or a day off for each day worked <sup>[102](#o102)</sup>. Overtime without your consent is allowed only for stock-taking and accounts work (at most 15 days a year unless MOL allows more) or emergencies, and is then paid at basic wage plus 50% (day) or 75% (night), or 200% on rest days and holidays <sup>[8](#o8)</sup>. The Minister may exempt seasonal work and specified sectors from these limits <sup>[8](#o8)</sup>. In practice some migrant workers work more than 12 hours a day without a day off <sup>[N42 (2024)](#n42)</sup>.
 
 **Rest day and holidays:** At least 2 consecutive paid rest days a week, which cannot be taken away because you were absent <sup>[102](#o102)</sup>. You are paid your gross wage on official public holidays <sup>[8](#o8)</sup>.
 
@@ -788,23 +788,24 @@ The WPS (Wage Protection System, MOL's electronic check on salary transfers, und
 
 #### 3.11.4 Housing, food and health care
 
-**Housing and food:** The Labour Law requires transport, suitable housing, meals and drinking water only from employers working in areas the Minister specifies <sup>[8](#o8)</sup>. MOL's older leaflet for expatriates says the employer provides suitable food, accommodation and free medical treatment throughout the contract <sup>[98](#o98)</sup>.
+**Housing and food:** The Labour Law requires transport, suitable housing, meals and drinking water only from employers working in areas the Minister specifies <sup>[8](#o8)</sup>. (cut)
 
 > **Need to know**
 > - Which areas has the Minister specified under Article 58, and are there current housing standards for labour camps?
+> - Must every employer still give free food, housing and medical treatment for the whole contract, as MOL's older leaflet for expatriates says <sup>[98](#o98)</sup>?
 
 **Health care and insurance:** The employer must provide first aid, and a qualified nurse or a contracted health provider where more than 200 workers are in one place <sup>[8](#o8)</sup>. If you are treated in a government or private hospital and have no health insurance, the employer pays for treatment, medicine and the hospital stay <sup>[8](#o8)</sup>. Dhamani, the national health insurance platform run by the FSA (Financial Services Authority), started its pilot phase on 20 April 2025 <sup>[106](#o106)</sup>.
 
 > **Need to know**
 > - Is employer-paid health insurance now compulsory and enforced for expatriate company workers, from what date, and how does a worker check he is covered?
 
-**Work injury:** Work-injury and occupational-disease insurance under the Social Protection Law does not yet cover foreigners: Royal Decree 60/2025 put it back to five years after the law was issued in July 2023, that is July 2028 <sup>[107](#o107), [N46](#n46)</sup>. Until then, see [If you are injured or fall ill](#if-you-are-injured-or-fall-ill). MOL's leaflet says you are entitled to have your employer insure you against work accidents <sup>[98](#o98)</sup>.
+**Work injury:** Work-injury and occupational-disease insurance under the Social Protection Law does not yet cover foreigners: Royal Decree 60/2025 put it back to five years after the law was issued in July 2023, that is July 2028 <sup>[107](#o107), [N46](#n46)</sup>. Until then, see [If you are injured or fall ill](#if-you-are-injured-or-fall-ill). You are entitled to have your employer insure you against work accidents <sup>[98](#o98)</sup>.
 
 <a id="your-passport"></a>
 
 #### 3.11.5 Your passport
 
-The employer may not keep your passport or personal documents without your written consent <sup>[8](#o8)</sup>. Breaking this rule is punishable by a fine of RO 500 to 1,000 for each worker affected, doubled for a repeat <sup>[8](#o8)</sup>. If you hand in papers or certificates, the employer must give you a receipt <sup>[8](#o8)</sup>. In practice confiscation is widespread; many workers have their passport taken by the employer or agency at the airport <sup>[N44](#n44)</sup>. Complain to MOL as under If something goes wrong <sup>[108](#o108)</sup>.
+The employer may not keep your passport or personal documents without your written consent <sup>[8](#o8)</sup>. Breaking this rule is punishable by a fine of RO 500 to 1,000 for each worker affected, doubled for a repeat <sup>[8](#o8)</sup>. If you hand in papers or certificates, the employer must give you a receipt <sup>[8](#o8)</sup>. In practice confiscation is widespread; many workers have their passport taken by the employer or agency at the airport <sup>[N44](#n44)</sup>. Complain to MOL (see [If you aren't paid, item 3: Complain to MOL](#if-you-arent-paid-item-3)) <sup>[108](#o108)</sup>.
 
 <a id="end-of-service-gratuity"></a>
 
@@ -822,7 +823,7 @@ Your right to live in Oman is your residence (on a work visa valid for 2 years f
 
 #### 3.12.1 Validity and fees
 
-Since November 2025 a resident card can run up to 10 years, but only for categories the ROP's Director General sets; the fees are in [Step 8, item 2: The resident card within 30 days](#step-8-after-you-arrive-item-2) <sup>[110](#o110)</sup>. MOL's leaflet says the work licence, ID card and residence fees are paid by the employer as long as you are legally on the job <sup>[98](#o98)</sup>. The work permit itself is renewed by the employer when it has less than 90 days left and you are in Oman; it costs RO 300, 250 or 200 by occupation class plus a 5% Job Security Fund fee <sup>[30](#o30)</sup>. Since Ministerial Decision 602/2025, work permits run 24 months to match the residence <sup>[111](#o111)</sup>.
+Since November 2025 a resident card can run up to 10 years, but only for categories the ROP's Director General sets; the fees are in [Step 8, item 2: The resident card within 30 days](#step-8-after-you-arrive-item-2) <sup>[110](#o110)</sup>. The employer pays the work licence, ID card and residence fees as long as you are legally on the job <sup>[98](#o98)</sup>. The work permit itself is renewed by the employer when it has less than 90 days left and you are in Oman; it costs RO 300, 250 or 200 by occupation class plus a 5% Job Security Fund fee <sup>[30](#o30)</sup>. Since Ministerial Decision 602/2025, work permits run 24 months to match the residence <sup>[111](#o111)</sup>.
 
 > **Need to know**
 > - Which category and validity does an ordinary Bangladeshi company worker get under the 10-year rule?
@@ -831,7 +832,7 @@ Since November 2025 a resident card can run up to 10 years, but only for categor
 
 #### 3.12.2 Renewal
 
-The Foreigners' Residence Law says to apply to renew your residence 15 days before it ends, and renewal can be refused without reasons <sup>[112](#o112)</sup>. Renew the card within 30 days of its expiry <sup>[110](#o110)</sup>. Renewal is in person, with the expired card, the renewal form, the worker data form and medical test, a letter from the employer and your valid passport <sup>[113](#o113)</sup>. ROP's visa page fines a late residence renewal RO 50 a month <sup>[46](#o46)</sup>. Failing without good reason to apply to renew on time can bring 7 days to 3 months in prison and/or RO 10 to 500 <sup>[112](#o112)</sup>.
+Apply to renew your residence 15 days before it ends; renewal can be refused without reasons <sup>[112](#o112)</sup>. Renew the card within 30 days of its expiry <sup>[110](#o110)</sup>. Renewal is in person, with the expired card, the renewal form, the worker data form and medical test, a letter from the employer and your valid passport <sup>[113](#o113)</sup>. A late residence renewal is fined RO 50 a month <sup>[46](#o46)</sup>. Failing without good reason to apply to renew on time can bring 7 days to 3 months in prison and/or RO 10 to 500 <sup>[112](#o112)</sup>.
 
 > **Need to know**
 > - Who pays the RO 50-a-month fine when the employer let the residence lapse?
@@ -862,13 +863,13 @@ Overstay fines are paid before you leave on the ROP's online Exit Penalty Paymen
 
 #### 3.13.1 Working for others and "free visas"
 
-You may work only for the employer that holds your work permit; another employer may use you only after MOL is told electronically and authorises it <sup>[8](#o8)</sup>. A "free visa" (a work visa bought from a sponsor who has no real job for you, so you work for others) breaks this rule <sup>[8](#o8)</sup>. A foreign worker who works without a permit or for someone other than his licensed employer faces 10 days to a month in prison and/or RO 1,000 to 2,000, loses his permit, and is deported at the employing party's expense and banned from entering Oman <sup>[8](#o8)</sup>. The employer who used him faces the same penalty, doubled if the worker had entered illegally or left his own employer <sup>[8](#o8)</sup>. The Minister can also deport a worker who breaks the labour rules, at the employer's expense, and ban his entry <sup>[8](#o8)</sup>. Workers who left their jobs without the employer's consent have been fined, deported or banned from coming back <sup>[N42 (2024)](#n42)</sup>.
+You may work only for the employer that holds your work permit; another employer may use you only after MOL is told electronically and authorises it <sup>[8](#o8)</sup>. A "free visa" (a work visa bought from a sponsor who has no real job for you, so you work for others) breaks this rule <sup>[N8 (2016)](#n8), [8](#o8)</sup>. A foreign worker who works without a permit or for someone other than his licensed employer faces 10 days to a month in prison and/or RO 1,000 to 2,000, loses his permit, and is deported at the employing party's expense and banned from entering Oman <sup>[8](#o8)</sup>. The employer who used him faces the same penalty, doubled if the worker had entered illegally or left his own employer <sup>[8](#o8)</sup>. The Minister can also deport a worker who breaks the labour rules, at the employer's expense, and ban his entry <sup>[8](#o8)</sup>. Workers who leave their jobs without the employer's consent can be fined, deported or banned from coming back <sup>[N42 (2024)](#n42)</sup>.
 
 <a id="leaving-your-job-absconding"></a>
 
 #### 3.13.2 Leaving your job ("absconding")
 
-Being absent without a good reason for more than 7 days in a row, or 10 separate days in a year (after a written warning at 5 days), lets the employer dismiss you without notice or gratuity <sup>[8](#o8)</sup>. After 7 days it can also file a work-abandonment report: see If your employer reports you absent <sup>[31](#o31)</sup>.
+Being absent without a good reason for more than 7 days in a row, or 10 separate days in a year (after a written warning at 5 days), lets the employer dismiss you without notice or gratuity <sup>[8](#o8)</sup>. After 7 days it can also file a work-abandonment report (see [If your employer reports you absent](#if-your-employer-reports-you-absent-absconding)) <sup>[31](#o31)</sup>.
 
 <a id="late-papers-overstaying-and-false-papers"></a>
 
@@ -903,7 +904,7 @@ Workers may form a labour union to defend their rights <sup>[102](#o102)</sup>. 
 
 #### 3.13.7 Hundi (informal money transfer)
 
-In August 2026 police in Al Buraimi arrested an Asian man who sent money home for expatriate workers through unlicensed apps <sup>[N52](#n52)</sup>. Send money only through banks and licensed exchange houses: see [Sending money home](#sending-money-home).
+In August 2026 police in Al Buraimi arrested an Asian man who sent money home for expatriate workers through unlicensed apps <sup>[N52](#n52)</sup>. Licensed ways to send money are under Sending money home.
 
 > **Need to know**
 > - What penalty does the sender (not the operator) face for using hundi in Oman?
@@ -934,18 +935,18 @@ Anyone removed or deported goes on the list of people not wanted in Oman, and ca
 
 #### 3.14.1 If you aren't paid
 
-Your wage is late if it is not in your bank account within 3 days of the end of the pay period <sup>[8](#o8), [103 (2024)](#o103)</sup>. If it is unpaid for more than 2 months in a row, you may leave the job without notice and keep all your rights, including the gratuity, after telling the employer <sup>[8](#o8)</sup>. Every claim under the Labour Law lapses one year after it falls due, so act early <sup>[8](#o8)</sup>. Workers' lawsuits under the Labour Law are free of court fees <sup>[8](#o8)</sup>.
+Your wage is late if it is not in your bank account within 3 days of the end of the pay period <sup>[8](#o8), [103 (2024)](#o103)</sup>. If it is unpaid for more than 2 months in a row, you may leave the job without notice and keep all your rights, including the gratuity, after telling the employer <sup>[8](#o8)</sup>. Every claim under the Labour Law lapses one year after it falls due <sup>[8](#o8)</sup>. Workers' lawsuits under the Labour Law are free of court fees <sup>[8](#o8)</sup>.
 
-1. <a id="if-you-arent-paid-item-1"></a>**Ask first, in writing.** MOL's leaflet says to ask your manager, and if he does not answer, to go to MOL <sup>[98](#o98)</sup>.
-2. <a id="if-you-arent-paid-item-2"></a>**Collect proof.** Keep your contract, resident card, bank statements showing what was and was not paid, and any messages. The employer must prove it paid <sup>[8](#o8)</sup>.
+1. <a id="if-you-arent-paid-item-1"></a>**Ask first.** Ask your manager for the wage; if he does not answer, go to MOL <sup>[98](#o98)</sup>.
+2. <a id="if-you-arent-paid-item-2"></a>**Proof.** The employer must prove it paid <sup>[8](#o8)</sup>.
 3. <a id="if-you-arent-paid-item-3"></a>**Complain to MOL.** Use MOL's "Record Labor Complaint" service (on gov.om or the MOL website): no documents and no fee are listed; you can track the complaint and ask to close it <sup>[108](#o108)</sup>. MOL's call centre is 80077000 <sup>[102](#o102)</sup>.
 4. <a id="if-you-arent-paid-item-4"></a>**The settlement stage.** Both sides are called; MOL tries to settle within 30 days of your request <sup>[108](#o108), [102](#o102)</sup>. A settlement is written in a report signed by both sides, the MOL officer and a judge assigned to MOL, and can be enforced like a court order <sup>[8](#o8)</sup>.
 5. <a id="if-you-arent-paid-item-5"></a>**Court.** If there is no settlement, MOL sends the dispute to the court within 7 days of the last session, with a memo, your contract and the evidence <sup>[102](#o102), [8](#o8)</sup>. A lawsuit filed straight at the court without the MOL step is not admitted <sup>[8](#o8)</sup>.
 6. <a id="if-you-arent-paid-item-6"></a>**Stay for the case.** A worker who files a lawsuit for his dues may stay in Oman until it is decided <sup>[N29 (2023)](#n29)</sup>.
 7. <a id="if-you-arent-paid-item-7"></a>**Dismissed?** Complain to MOL within 30 days of being told <sup>[8](#o8)</sup>. Dismissal for complaining is unfair dismissal, unless the complaint was vexatious, and the court then orders reinstatement or 3 to 12 months' gross wage, plus gratuity, notice pay and insurance contributions <sup>[8](#o8)</sup>.
-8. <a id="if-you-arent-paid-item-8"></a>**The Embassy.** See Help from the Bangladesh Embassy below.
+8. <a id="if-you-arent-paid-item-8"></a>**The Embassy.** See Help from the Bangladesh Embassy in Muscat.
 
-In practice, observers report that MOL remedies are unpredictable and often slow, and that officials commonly side with employers <sup>[N44](#n44)</sup>.
+In practice, MOL remedies are unpredictable and often slow, and officials commonly side with employers <sup>[N44](#n44)</sup>.
 
 > **Need to know**
 > - How long do MOL settlement and the labour court take in practice for a Bangladeshi worker?
@@ -964,8 +965,8 @@ Until SPF work-injury cover reaches foreigners (July 2028), the employer pays fo
 
 #### 3.14.3 If you are abused or your passport is kept
 
-1. <a id="if-you-are-abused-or-your-passport-is-kept-item-1"></a>**MOL** for labour violations (complaint above) <sup>[108](#o108)</sup>.
-2. <a id="if-you-are-abused-or-your-passport-is-kept-item-2"></a>**The ROP** for assault or crime (emergency number 9999); ROP also runs the trafficking hotline, MOL a labour-violation hotline and the Ministry of Social Development (MOSD) a shelter hotline, all 24 hours, with Bengali speakers available on request <sup>[34](#o34), [N44](#n44)</sup>. Observers report unanswered calls and language problems <sup>[N44](#n44)</sup>.
+1. <a id="if-you-are-abused-or-your-passport-is-kept-item-1"></a>**MOL** for labour violations (see [If you aren't paid, item 3: Complain to MOL](#if-you-arent-paid-item-3)) <sup>[108](#o108)</sup>.
+2. <a id="if-you-are-abused-or-your-passport-is-kept-item-2"></a>**The ROP** for assault or crime (emergency number 9999); ROP also runs the trafficking hotline, MOL a labour-violation hotline and the Ministry of Social Development (MOSD) a shelter hotline, all 24 hours, with Bengali speakers available on request <sup>[34](#o34), [N44](#n44)</sup>. In practice calls go unanswered and language is a barrier <sup>[N44](#n44)</sup>.
 3. <a id="if-you-are-abused-or-your-passport-is-kept-item-3"></a>**OHRC (Oman Human Rights Commission)**, a government-funded commission that reports to the Sultan <sup>[N42 (2024)](#n42)</sup>: Al-Fardan Building, 4th Floor, Al Azaiba, Muscat, Sunday to Thursday 8:00 am to 2:30 pm; phone 24218900; WhatsApp 72221966; voice message on toll-free 1970 if you cannot write in Arabic or English; or the online form at ohrc.om <sup>[116](#o116)</sup>. Bring or attach your documents; you get a reference number to follow up <sup>[116](#o116)</sup>. OHRC cannot order anyone to act; it tries to settle cases with the authorities <sup>[116](#o116)</sup>.
 4. <a id="if-you-are-abused-or-your-passport-is-kept-item-4"></a>**Shelter.** MOSD runs a government shelter for up to 50 women, 30 men and 20 children who are victims of trafficking or abuse <sup>[N44](#n44)</sup>. It admits someone with an absconding charge only if he or she had already complained against the employer, and residents may go out only with a chaperone <sup>[N44](#n44)</sup>. Shelters for women are under Work visa: domestic worker.
 
@@ -980,14 +981,14 @@ Assault by the employer or a superior, or an immoral act against you, also lets 
 
 **What it is:** A work-abandonment ("desertion") report is filed by the employer on MOL's "File Desertion Report" service when a foreign worker has been absent for over 7 days; it protects the employer from legal responsibility and fines for the worker <sup>[31](#o31)</sup>. The employer must attach your pay statements and pays the price of your ticket home, plus work-permit fees if the permit has expired; it cannot be filed once your status is "departed" <sup>[31](#o31)</sup>. Once the report has been approved for more than 30 days, the employer no longer has to pay you through WPS <sup>[103 (2024)](#o103)</sup>.
 
-**What it can lead to:** An absconding charge is an "immigration block" that stops you leaving Oman until cleared <sup>[N44](#n44)</sup>. Workers who fled abusive employers have been arrested for absconding <sup>[N44](#n44)</sup>. Working for someone else meanwhile is the "free visa" offence above <sup>[8](#o8)</sup>.
+**What it can lead to:** An absconding charge is an "immigration block" that stops you leaving Oman until cleared <sup>[N44](#n44)</sup>. Workers who fled abusive employers have been arrested for absconding <sup>[N44](#n44)</sup>. Working for someone else meanwhile is the "free visa" offence (see [Working for others and "free visas"](#working-for-others-and-free-visas)) <sup>[8](#o8)</sup>.
 
 **Checking and clearing it:**
 
 1. <a id="if-your-employer-reports-you-absent-absconding-item-1"></a>**Check.** Log in to MOL's "Check Your Employment Record in the Private Sector" service (free, no documents) to see your record <sup>[99](#o99)</sup>.
 2. <a id="if-your-employer-reports-you-absent-absconding-item-2"></a>**Appeal.** Use MOL's "Appeal Against Desertion Report for Individuals" service, with supporting documents (pay slips, your complaint, proof you were at work), once the report has been approved <sup>[34](#o34)</sup>.
 3. <a id="if-your-employer-reports-you-absent-absconding-item-3"></a>**Complain first if you can.** If you left because of unpaid wages or abuse, file an MOL complaint before or as soon as you leave; the government shelter only takes people with absconding charges who had complained first <sup>[N44](#n44)</sup>.
-4. <a id="if-your-employer-reports-you-absent-absconding-item-4"></a>**Ask the Embassy's labour wing** (below).
+4. <a id="if-your-employer-reports-you-absent-absconding-item-4"></a>**Ask the Embassy's labour wing** (see [Help from the Bangladesh Embassy in Muscat](#help-from-the-bangladesh-embassy-in-muscat)).
 
 MOL's 2025 amnesty let workers and employers cancel work-abandonment reports without fines until 31 December 2025, and MOL said no applications would be taken after that date <sup>[N53](#n53)</sup>.
 
@@ -1019,7 +1020,7 @@ MOL's 2025 amnesty let workers and employers cancel work-abandonment reports wit
 
 **No permission needed at the end of the contract:** Since 1 January 2021 your residence can move to another employer licensed to recruit once you show that your contract has ended or been terminated and the government has approved the new contract; your old employer's NOC (no-objection certificate) is no longer needed, and your family's residence moves with you if they meet the residence conditions <sup>[118 (2020)](#o118), [119 (2021)](#o119)</sup>. MOL still has to approve the transfer <sup>[N44](#n44)</sup>. Changing before the contract ends still needs the employer's agreement, and some employers demand illegal "release fees" for it <sup>[N44](#n44)</sup>.
 
-**Notice:** On an open-ended contract either side may end it for a legitimate reason with 30 days' written notice (15 days if you are not paid monthly); whoever skips notice pays the wage for the period <sup>[8](#o8)</sup>. During the employer's notice you get 10 paid hours a week to look for a job <sup>[8](#o8)</sup>.
+**Notice:** On an open-ended contract either side may end it for a legitimate reason with 30 days' written notice (15 days if you are not paid monthly); whoever skips notice pays the wage for the period <sup>[8](#o8)</sup>. During the notice period you get 10 paid hours a week to look for a job <sup>[8](#o8)</sup>.
 
 **How the transfer is done:**
 
@@ -1037,7 +1038,7 @@ The law does not say how a worker who left after two months unpaid finds a new j
 
 #### 3.15.2 Resigning
 
-You can resign online on MOL's website: log in with your civil ID card or e-authenticated phone number, click "Add New Resignation Request", and give your details, the establishment's and the contract's; the resignation date can be at most 30 days ahead <sup>[32](#o32)</sup>. Your status then becomes "job seeker", and you can print the contract termination form; a pending resignation can be cancelled only with the employer's approval <sup>[32](#o32)</sup>. MOL's leaflet warns that resigning on the spot can leave you in an illegal situation <sup>[98](#o98)</sup>.
+You can resign online on MOL's website: log in with your civil ID card or e-authenticated phone number, click "Add New Resignation Request", and give your details, the establishment's and the contract's; the resignation date can be at most 30 days ahead <sup>[32](#o32)</sup>. Your status then becomes "job seeker", and you can print the contract termination form; a pending resignation can be cancelled only with the employer's approval <sup>[32](#o32)</sup>. Resigning on the spot can leave you in an illegal situation <sup>[98](#o98)</sup>.
 
 <a id="leaving-at-the-end-of-the-job"></a>
 
@@ -1052,14 +1053,14 @@ You can resign online on MOL's website: log in with your civil ID card or e-auth
 
 - **Release fees:** demanding money to let you go home or change job; families and labour-sending governments have paid employers up to US$3,900 per worker to get a worker home <sup>[N44](#n44)</sup>. Charging workers for recruitment is illegal <sup>[8](#o8)</sup>.
 - **Keeping you on the sponsorship** so you cannot leave until you pay <sup>[N44](#n44)</sup>.
-- **A false absconding report** to avoid paying dues: see If your employer reports you absent <sup>[31](#o31)</sup>.
+- **A desertion report:** the employer can report you absent through MOL's "File Desertion Report" service, which spares him legal responsibility and fines for your absence (see [If your employer reports you absent](#if-your-employer-reports-you-absent-absconding)) <sup>[31](#o31)</sup>.
 - **A signed waiver:** any release or waiver of your legal rights is void <sup>[8](#o8)</sup>.
 
 <a id="going-home-on-leave"></a>
 
 ### 3.16 Going home on leave
 
-Your annual leave is under Your rights at work <sup>[102](#o102)</sup>. You are entitled to a return ticket to Bangladesh for the leave agreed in your contract <sup>[8](#o8)</sup>. Do not stay away more than 6 months in a row, or your residence lapses <sup>[112](#o112)</sup>. Make sure your resident card and passport will still be valid when you come back <sup>[110](#o110), [98](#o98)</sup>.
+You get at least 30 days' paid annual leave a year (see [Your rights at work](#your-rights-at-work)) <sup>[102](#o102)</sup>. You are entitled to a return ticket to Bangladesh for the leave agreed in your contract <sup>[8](#o8)</sup>. Do not stay away more than 6 months in a row, or your residence lapses <sup>[112](#o112)</sup>. Make sure your resident card and passport will still be valid when you come back <sup>[110](#o110), [98](#o98)</sup>.
 
 > **Need to know**
 > - If the contract says nothing about leave tickets, must the employer still pay one?
@@ -1068,7 +1069,7 @@ Your annual leave is under Your rights at work <sup>[102](#o102)</sup>. You are 
 
 ### 3.17 Bringing your family
 
-A worker can bring a spouse and children under 21 on the family joining visa; who qualifies (the salary threshold is unsettled), the papers and the steps are under Family joining visa <sup>[121](#o121), [122](#o122), [N55 (2023)](#n55)</sup>.
+A worker can bring a spouse and children under 21 on the family joining visa; the salary threshold is unsettled (see [Family joining visa](#family-joining-visa-spouse-and-children)) <sup>[121](#o121), [122](#o122), [N55 (2023)](#n55)</sup>.
 
 <a id="work-visa-domestic-worker"></a>
 
@@ -1076,15 +1077,15 @@ A worker can bring a spouse and children under 21 on the family joining visa; wh
 
 Domestic work in Oman covers 12 jobs done for a household: housemaid, nanny, private (house) driver, gardener, farm worker, residential building guard, home health assistant, private nurse, home cook, camel herder, livestock herder and horse groom <sup>[123](#o123), [N40](#n40)</sup>. Since 13 October 2025, the day after its publication in the Official Gazette of 12 October, they have been governed by Ministerial Decision 574/2025, the Regulation on the Work of Domestic Workers and Those in Their Position, which replaced the 2004 rules (Ministerial Decision 189/2004) <sup>[123](#o123), [N40](#n40)</sup>. The Labour Law (Royal Decree 53/2023) does not apply to work governed by special rules, so domestic workers' rights come from MD 574/2025, which uses the Labour Law only for how disputes are settled <sup>[8](#o8), [123](#o123)</sup>. The rights it sets are a floor: any term that cuts or waives them is void <sup>[123](#o123)</sup>.
 
-**Is the route open from Bangladesh?** No, in practice. The Royal Oman Police (ROP) suspended all visa categories for Bangladeshis except official ones in October 2023, and the categories it exempted in June 2024 (family and GCC-resident visit visas, engineers, doctors, nurses, teachers, accountants, investors and high-income tourists) do not include domestic workers <sup>[N12 (2024)](#n12)</sup>. BMET (the Bureau of Manpower, Employment and Training) cleared 6,636 women for Oman in 2023, 560 of them in November and December, after the suspension; then 56 in 2024, 5 in 2025 and 3 from 1 January to 8 November 2026 <sup>[124 (2023)](#o124), [125 (2023)](#o125), [126 (2024)](#o126), [127](#o127), [128](#o128)</sup>. In August 2026 the Omani Agricultural Association's Al Dhahirah branch opened applications from its registered farmers to recruit Bangladeshi farm workers, under approvals from the Ministry of Labour and the ROP; a visa-services office owner said 5,000 workers had been approved across Oman <sup>[N4](#n4)</sup>. Farm work is one of the 12 domestic-work jobs; that opening is covered under the company work visa <sup>[123](#o123), [N40](#n40)</sup>.
+**Is the route open from Bangladesh?** No, in practice. The Royal Oman Police (ROP) suspended all visa categories for Bangladeshis except official ones in October 2023, and the categories it exempted in June 2024 (family and GCC-resident visit visas, engineers, doctors, nurses, teachers, accountants, investors and high-income tourists) do not include domestic workers <sup>[N12 (2024)](#n12)</sup>. BMET (the Bureau of Manpower, Employment and Training) cleared 6,636 women for Oman in 2023, 560 of them in November and December, after the suspension; then 56 in 2024, 5 in 2025 and 3 from 1 January to 8 November 2026 <sup>[124 (2023)](#o124), [125 (2023)](#o125), [126 (2024)](#o126), [127](#o127), [128](#o128)</sup>. In August 2026 the Omani Agricultural Association's Al Dhahirah branch opened applications from its registered farmers to recruit Bangladeshi farm workers, under approvals from the Ministry of Labour and the ROP; a Sanad (government-services) office owner said 5,000 workers had been approved across Oman <sup>[N4](#n4)</sup>. Farm work is one of the 12 domestic-work jobs <sup>[123](#o123), [N40](#n40)</sup>; that opening is covered under the company worker visa (see [Work visa: company worker](#work-visa-company-worker)).
 
 > **Need to know**
 > - Has Oman's Ministry of Labour or the ROP issued any Bangladeshi housemaid or house-driver visas since June 2024, and under which exemption?
 > - Do the reopened farm-worker visas come under MD 574/2025 (domestic workers) or the Labour Law?
 
-**How many went before the suspension.** Oman was the second-largest destination for Bangladeshi women after Saudi Arabia: 52,626 women went from 1991 to 2015, 16,980 in 2015 alone, 17,654 in 2019, 10,035 in 2021 and 15,759 in 2022 <sup>[N56 (2016)](#n56), [N9 (2021)](#n9), [N57 (2023)](#n57)</sup>. Of the 6,636 women cleared in 2023, 2,936 went as House Keeper, 1,702 as Servant, 1,199 as House Worker and 357 as Housekeeping Attendant <sup>[129 (2023)](#o129)</sup>. The districts sending most were Habiganj (561), Sunamganj (482), Dhaka (409) and Moulvibazar (329) <sup>[124 (2023)](#o124)</sup>.
+**How many went before the suspension.** Oman was the second-largest destination for Bangladeshi women in 2021 and 2022: 52,626 women had gone since 1991 by October 2016, 16,980 in 2015 alone, 17,654 in 2019, 10,035 in 2021 and 15,759 in 2022 <sup>[N56 (2016)](#n56), [N9 (2021)](#n9), [N57 (2023)](#n57)</sup>. Of the 6,636 women cleared in 2023, 2,936 went as House Keeper, 1,702 as Servant, 1,199 as House Worker and 357 as Housekeeping Attendant <sup>[129 (2023)](#o129)</sup>. The districts sending most were Habiganj (561), Sunamganj (482), Dhaka (409) and Moulvibazar (329) <sup>[124 (2023)](#o124)</sup>.
 
-**Men as domestic workers.** Men go as house drivers, cooks, gardeners and "servants" under the same regulation <sup>[123](#o123), [N40](#n40)</sup>. In 2023 BMET cleared 4,484 people for Oman as Servant (1,702 of them women), 3,662 as Private Service, 1,294 as Cook, 330 as Driver and 74 as Gardener, out of 127,822 in all <sup>[130 (2023)](#o130), [131 (2023)](#o131)</sup>.
+**Men as domestic workers.** The regulation covers private drivers, home cooks and gardeners as well as housemaids <sup>[123](#o123), [N40](#n40)</sup>. BMET's trade labels don't say whether a job is in a household; in 2023 it cleared 4,484 people for Oman as Servant (1,702 of them women), 3,662 as Private Service, 1,294 as Cook, 330 as Driver and 74 as Gardener, out of 127,822 in all <sup>[130 (2023)](#o130), [131 (2023)](#o131)</sup>.
 
 > **Need to know**
 > - Does Bangladesh set an age limit, test or licence rule for men going to Oman as house drivers?
@@ -1135,7 +1136,7 @@ Households with a disabled or elderly member who needs care, or on the Social Pr
 
 ### 4.3 Step 1: Check the route is really open
 
-1. <a id="step-1-check-the-route-is-really-open-item-1"></a>**Check BMET's numbers before paying anyone.** BMET cleared only 5 women for Oman in 2025 and 3 in 2026 to 8 November, so an offer of a housemaid job in Oman is not a normal open route <sup>[127](#o127), [128](#o128)</sup>.
+1. <a id="step-1-check-the-route-is-really-open-item-1"></a>**Check BMET's numbers before paying anyone.** BMET cleared only 5 women for Oman in 2025 and 3 in 2026 to 8 November in all jobs <sup>[127](#o127), [128](#o128)</sup>.
 2. <a id="step-1-check-the-route-is-really-open-item-2"></a>**Check the visa type is not visit or tourist.** Domestic worker visas are not among the categories open to Bangladeshis since June 2024 <sup>[N12 (2024)](#n12)</sup>.
 
 <a id="step-2-check-you-qualify"></a>
@@ -1188,7 +1189,7 @@ You'll need <sup>[137](#o137)</sup>:
    - the work and where it is done
    - hours and rest
    - the monthly wage and its payment date
-4. <a id="step-5-check-the-job-the-employer-and-the-contract-item-4"></a>**Embassy attestation.** Under the rules reported in December 2016 for hiring Bangladeshi housemaids from January 2017, the contract between you and the employer had to be attested by the Bangladesh Embassy in Oman, and the employer paid your travel and insurance <sup>[N59 (2016)](#n59)</sup>.
+4. <a id="step-5-check-the-job-the-employer-and-the-contract-item-4"></a>**Embassy attestation.** Under the rules for hiring Bangladeshi housemaids from January 2017, the contract between you and the employer had to be attested by the Bangladesh Embassy in Oman, and the employer paid your travel and insurance <sup>[N59 (2016)](#n59)</sup>.
 
 > **Need to know**
 > - Is the 2016 Oman housemaid guideline (RO 90 minimum, RO 1,000 sponsor income, embassy attestation) still in force, and has the minimum been raised?
@@ -1216,7 +1217,7 @@ You'll need <sup>[137](#o137)</sup>:
 
 ### 4.10 Step 8: After you arrive
 
-1. <a id="step-8-after-you-arrive-1-item-1"></a>**The first days.** The office houses and feeds you for the first 48 hours; the employer then takes you home and, within 30 days, completes your residence card, medical and work contract <sup>[135](#o135)</sup>.
+1. <a id="step-8-after-you-arrive-1-item-1"></a>**The first days.** From 1 January 2027, the office houses and feeds you for the first 48 hours; the employer then takes you home and, within 30 days, completes your residence card, medical and work contract <sup>[135](#o135)</sup>.
 2. <a id="step-8-after-you-arrive-1-item-2"></a>**Your passport.** Many workers say the employer or agency took their passport at the airport <sup>[N44](#n44)</sup>. The law lets them hold it only with your written consent <sup>[123](#o123), [135](#o135)</sup>.
 3. <a id="step-8-after-you-arrive-1-item-3"></a>**Your work permit.** You may not start work before MOL issues it <sup>[123](#o123)</sup>.
 4. <a id="step-8-after-you-arrive-1-item-4"></a>**Probation** is at most 15 days; either side can end the contract in it with 7 days' notice <sup>[123](#o123)</sup>.
@@ -1237,7 +1238,7 @@ You'll need <sup>[137](#o137)</sup>:
 
 **"Release fees":** Employers and agents demand money before letting a worker leave or change employer; one agent told a Bangladeshi woman she owed him RO 200 <sup>[N44](#n44), [N8 (2016)](#n8)</sup>. The employer may take no money from you for recruiting or transferring you <sup>[123](#o123)</sup>.
 
-**"Oman is open":** Offers of Oman housemaid visas are not a sign the route has reopened: only 3 women were cleared for Oman in 2026 to 8 November <sup>[128](#o128)</sup>.
+**"Oman is open":** Only 3 women, in all jobs, were cleared for Oman in 2026 to 8 November <sup>[128](#o128)</sup>.
 
 <a id="tried-by-workers-1"></a>
 
@@ -1327,7 +1328,7 @@ In the past, police returned some women to employers or agents, and some were be
 
 #### 4.13.3 Shelters
 
-1. <a id="shelters-item-1"></a>**Bangladesh safe homes.** The Wage Earners' Welfare Board (WEWB) lists a safe house in Oman <sup>[140](#o140)</sup>. An ILO study published in 2021 found the Embassy running two safe homes in Muscat with places for 60 women and paid an Omani law firm to fight cases while women stayed there <sup>[N9 (2021)](#n9)</sup>. Your family can ask for safe-house help free, directly at WEWB or through the district's DEMO (District Employment and Manpower Office); call 16135, or +8809610102030 from abroad <sup>[140](#o140)</sup>.
+1. <a id="shelters-item-1"></a>**Bangladesh safe homes.** The Wage Earners' Welfare Board (WEWB) lists a safe house in Oman <sup>[140](#o140)</sup>. The Embassy ran two safe homes in Muscat with places for 60 women and paid an Omani law firm to fight cases while women stayed there <sup>[N9 (2021)](#n9)</sup>. Your family can ask for safe-house help free, directly at WEWB or through the district's DEMO (District Employment and Manpower Office); call 16135, or +8809610102030 from abroad <sup>[140](#o140)</sup>.
 2. <a id="shelters-item-2"></a>**Oman's government shelter.** The Ministry of Social Development's shelter takes up to 50 women; residents leave only with a chaperone, and someone with an "absconding" charge is admitted only if she complained against the employer first <sup>[N44](#n44)</sup>.
 3. <a id="shelters-item-3"></a>**Trafficking hotlines.** The ROP's trafficking hotline, MOL's labour hotline and the shelter hotline run 24 hours, with Bengali speakers on request, though observers report unanswered calls <sup>[N44](#n44)</sup>.
 4. <a id="shelters-item-4"></a>**No NGO shelters.** There are no NGOs in Oman giving migrant women shelter <sup>[N9 (2021)](#n9)</sup>.
@@ -1365,7 +1366,7 @@ One woman sent home in 2021 had become pregnant during abuse, was handed to the 
 
 ## 5 Visit visa (tourist, family and friends)
 
-ROP issues every visit visa through its e-visa portal, evisa.rop.gov.om, where four kinds of visa are on offer: the unsponsored tourist visa, the sponsored tourist visa, the tourist visa for GCC residents and the express visa <sup>[36](#o36), [88](#o88)</sup>. "Unsponsored" means the visitor applies alone; "sponsored" means a hotel, a licensed tour company or a relative resident in Oman applies for him and is responsible for him <sup>[82](#o82), [141](#o141), [43](#o43)</sup>. A Bangladeshi visitor cannot work on any of them (see ["Can you work on a visit visa?"](#can-you-work-on-a-visit-visa)) <sup>[8](#o8)</sup>.
+ROP issues every visit visa through its e-visa portal, evisa.rop.gov.om, where four kinds of visa are on offer: the unsponsored tourist visa, the sponsored tourist visa, the tourist visa for GCC residents and the express visa <sup>[36](#o36), [88](#o88)</sup>. "Unsponsored" means the visitor applies alone; "sponsored" means a licensed tour company or a relative resident in Oman applies for him and is responsible for him <sup>[82](#o82), [141](#o141), [43](#o43)</sup>. A Bangladeshi visitor cannot work on any of them (see ["Can you work on a visit visa?"](#can-you-work-on-a-visit-visa)) <sup>[8](#o8)</sup>.
 
 What a Bangladeshi can get now depends on where he lives:
 
@@ -1417,7 +1418,7 @@ If your job is not on the list, you can still go on a **29B** if you travel with
 
 #### 5.2.2 Step 2: Apply on evisa.rop.gov.om
 
-1. <a id="step-2-apply-on-evisaropgovom-item-1"></a>**Register and log in** as a Tourist user <sup>[82](#o82)</sup>.
+1. <a id="step-2-apply-on-evisaropgovom-item-1"></a>**Register and log in** to the e-visa system <sup>[82](#o82)</sup>.
 2. <a id="step-2-apply-on-evisaropgovom-item-2"></a>**Choose the visa:** 29A (main traveller with an approved job) or 29B (companion) <sup>[88](#o88)</sup>.
 3. <a id="step-2-apply-on-evisaropgovom-item-3"></a>**Upload** a digital photo and a passport copy, each under 512 KB, and a copy of your GCC residence card <sup>[143](#o143), [88](#o88), [147](#o147)</sup>. A 29B applicant also uploads the main traveller's visa <sup>[145](#o145)</sup>. A 28B applicant uploads a photo, passport copy and residence card copy, proof of the family relationship (not needed if the names and passport details show it) and a copy of the GCC citizen's passport or ID card valid more than 6 months <sup>[146](#o146)</sup>.
 4. <a id="step-2-apply-on-evisaropgovom-item-4"></a>**Pay RO 5** online for a 29A or 29B; the 28B is free <sup>[143](#o143), [142](#o142)</sup>.
@@ -1438,7 +1439,7 @@ If your job is not on the list, you can still go on a **29B** if you travel with
 
 #### 5.2.4 How long you can stay
 
-- **29A and 29B:** 4 weeks; the applicant can extend once by 1 week himself, and any later extension only in person at what ROP calls a DGPCS office <sup>[143](#o143), [145](#o145)</sup>.
+- **29A and 29B:** 4 weeks; the applicant can extend once by 1 week himself, and any later extension only in person at an ROP office <sup>[143](#o143), [145](#o145)</sup>.
 - **28B:** one month, extendable once by one month <sup>[146](#o146)</sup>.
 - **Overstay:** RO 10 for each day on any of the three <sup>[143](#o143), [145](#o145), [146](#o146)</sup>.
 
@@ -1452,7 +1453,7 @@ A relative of an Omani citizen, or of a foreigner living in Oman, can be granted
 
 #### 5.3.1 Step 1: The sponsor checks he qualifies
 
-- His own spouse and children must live in Oman <sup>[149](#o149)</sup>.
+- "The sponsored individual's family (spouse and children)" must live in Oman <sup>[149](#o149)</sup>.
 - His employer must make or back the request <sup>[149](#o149)</sup>.
 
 > **Need to know**
@@ -1473,20 +1474,20 @@ You'll need <sup>[149](#o149)</sup>:
 - a copy of the sponsor's employment contract;
 - an application letter.
 
-Papers for the exempted categories must be duly attested to prove eligibility <sup>[N3 (2024)](#n3)</sup>. Since 16 February 2026 Bangladeshi documents can be attested by Oman electronically, without visiting the Omani mission, at www.omanpost.om/attestation-services <sup>[73](#o73)</sup>. For attestation in Bangladesh first, see [Family joining visa](#family-joining-visa-spouse-and-children), [Step 2: Apply on evisa.rop.gov.om](#step-2-apply-on-evisaropgovom).
+Papers for the exempted categories must be duly attested to prove eligibility <sup>[N3 (2024)](#n3)</sup>. Since 16 February 2026 Bangladeshi documents can be attested by Oman electronically, without visiting the Omani mission, at www.omanpost.om/attestation-services <sup>[73](#o73)</sup>. For attestation in Bangladesh first, see ["Family joining visa (spouse and children)"](#family-joining-visa-spouse-and-children), [Step 2: Attest the marriage and birth certificates](#step-2-attest-the-marriage-and-birth-certificates).
 
 <a id="step-3-the-sponsor-applies-and-pays"></a>
 
 #### 5.3.3 Step 3: The sponsor applies and pays
 
-1. <a id="step-3-the-sponsor-applies-and-pays-item-1"></a>**Apply online:** since April 2025 a resident can apply for sponsored visas himself on the e-visa portal using electronic authentication: he activates it with the chip (PKI key) in his Omani ID card and sets a PIN, then fills in the forms, uploads the documents, pays and tracks the application, without visiting an ROP service office <sup>[87](#o87)</sup>. Companies apply through their PRO (public relations officer) after registering with the Directorate General of Passports and Residence <sup>[87](#o87)</sup>.
+1. <a id="step-3-the-sponsor-applies-and-pays-item-1"></a>**Apply online:** since April 2025 an Omani ID card holder can apply for sponsored visas himself on the e-visa portal using electronic authentication: he activates it with the chip (PKI key) in his ID card and sets a PIN, then fills in the forms, uploads the documents, pays and tracks the application, without visiting an ROP service office <sup>[87](#o87)</sup>. Companies apply through their PRO (public relations officer) after registering with the Directorate General of Passports and Residence <sup>[87](#o87)</sup>.
 2. <a id="step-3-the-sponsor-applies-and-pays-item-2"></a>**Or through the Oman Embassy in Dhaka:** under the June 2024 note, the embassy receives and processes applications in the exempted categories and coordinates with ROP <sup>[N3 (2024)](#n3), [N12 (2024)](#n12)</sup>.
 3. <a id="step-3-the-sponsor-applies-and-pays-item-3"></a>**Pay RO 30** <sup>[149](#o149)</sup>.
 4. <a id="step-3-the-sponsor-applies-and-pays-item-4"></a>**Wait one to four weeks,** the processing time the embassy gave for exempted categories <sup>[N3 (2024)](#n3)</sup>.
 
 > **Need to know**
 > - Does ROP now accept a Bangladeshi family visit application online from the sponsor, or only through the Oman Embassy in Dhaka? <sup>[N3 (2024)](#n3), [87](#o87)</sup>
-> - What are the embassy's visa hours, fee and submission counter, and does VFS Global now take these applications? <sup>[150](#o150), [44](#o44)</sup>
+> - What are the embassy's visa hours, fee and submission counter, and does VFS Global (a private visa-application company) now take these applications? <sup>[150](#o150), [44](#o44)</sup>
 
 <a id="step-4-check-and-travel"></a>
 
@@ -1507,7 +1508,7 @@ Three months, renewable for up to one more month <sup>[43](#o43)</sup>. Extendin
 
 ### 5.4 Route C: Sponsored tourist visa (tour company) for "high-income tourists"
 
-A tour company licensed for tourism activities can sponsor a 30-day tourist visa, extendable for a similar period, for any nationality; it costs RO 5 for 10 days or RO 20 for 30 days <sup>[141](#o141)</sup>. Nationals of countries not on ROP's List 1, such as Bangladesh, must give extra documents <sup>[141](#o141), [37](#o37)</sup>. A sponsored tourist visa must be used within three months of issue <sup>[88](#o88)</sup>. The June 2024 exemption allows visas for "high-income tourists" only <sup>[N3 (2024)](#n3)</sup>. In May 2026 Oman's ambassador in Dhaka met VFS Global (a private visa-application company) to organise the processing of visa-exempt applications for business and tourism <sup>[150](#o150)</sup>.
+A tour company licensed for tourism activities can sponsor a 30-day tourist visa, extendable for a similar period, for any nationality; it costs RO 5 for 10 days or RO 20 for 30 days <sup>[141](#o141)</sup>. Nationals of countries not on ROP's List 1, such as Bangladesh, must give extra documents <sup>[141](#o141), [37](#o37)</sup>. A sponsored tourist visa must be used within three months of issue <sup>[88](#o88)</sup>. The June 2024 exemption allows visas for "high-income tourists" only <sup>[N3 (2024)](#n3)</sup>. In May 2026 Oman's ambassador in Dhaka discussed with VFS Global how to organise the processing of visa-exempt applications for business and tourism <sup>[150](#o150)</sup>.
 
 > **Need to know**
 > - What counts as a "high-income tourist" (bank balance, income, travel history)? <sup>[N3 (2024)](#n3)</sup>
@@ -1559,15 +1560,15 @@ Paying the fee does not guarantee a visa <sup>[88](#o88)</sup>. If ROP asks for 
 
 #### 5.9.1 A visit visa sold as a job
 
-Bangladeshis seldom go to Oman as tourists, but many have gone on visit visas, and many then found no work; how such routes end, in joblessness and trafficking towards Europe, is under What goes wrong most <sup>[N16 (2023)](#n16)</sup>.
+Bangladeshis seldom go to Oman as tourists, but many have gone on visit visas, and many then found no work, and some ended up trafficked towards Europe (see ["What goes wrong most, and what people wrongly believe"](#what-goes-wrong-most-and-what-people-wrongly-believe)) <sup>[N16 (2023)](#n16)</sup>.
 
-**How to spot it:** a "visit visa" or "family visa" that comes with a job, a promise to "convert" it after arrival, or a broker's fee of lakhs of taka. A visitor may not work, conversion has been stopped since 2023, and the visit visa itself costs RO 5 to RO 30 <sup>[8](#o8), [N16 (2023)](#n16), [143](#o143), [141](#o141), [149](#o149)</sup>. Any job in Oman needs a work permit first (see [Background](#background)) <sup>[8](#o8)</sup>.
+**How to spot it:** a "visit visa" or "family visa" that comes with a job, a promise to "convert" it after arrival, or a broker's fee far above the visa's own fee. A visitor may not work, conversion has been stopped since 2023, and the visit visa itself costs RO 5 to RO 30 <sup>[8](#o8), [N16 (2023)](#n16), [143](#o143), [141](#o141), [149](#o149)</sup>. Any job in Oman needs a work permit first (see [Background](#background)) <sup>[8](#o8)</sup>.
 
 <a id="fake-e-visas-and-fake-documents"></a>
 
 #### 5.9.2 Fake e-visas and fake documents
 
-Check any visa on ROP's Track Your Application page (Route A, [Step 3: Check the visa and travel](#step-3-check-the-visa-and-travel)); a visa that doesn't show there isn't real <sup>[148](#o148)</sup>. The only official portal is evisa.rop.gov.om, and its fees are RO 5 to RO 30 for visit visas <sup>[36](#o36), [143](#o143), [141](#o141), [149](#o149)</sup>.
+Check any visa on ROP's Track Your Application page (Route A, [Step 3: Check the visa and travel](#step-3-check-the-visa-and-travel)); a visa that doesn't show there isn't real <sup>[148](#o148)</sup>. ROP's official visa portal is evisa.rop.gov.om, and its fees are RO 5 to RO 30 for visit visas <sup>[36](#o36), [143](#o143), [141](#o141), [149](#o149)</sup>.
 
 **Tried by migrants:** giving false information or untrue documents (a fake bank statement, a fake relationship certificate, a fake hotel booking) to get any Oman visa is punished by 1 month to 3 years in prison and/or a fine of RO 100 to 500 <sup>[N62 (2021)](#n62)</sup>. A foreigner deported from Oman can't get an entry visa for two years <sup>[N62 (2021)](#n62)</sup>.
 
@@ -1594,7 +1595,7 @@ For businessmen, or holders of rare, high-level professions, at a local sponsor'
 1. <a id="express-visa-item-1"></a>**The Omani company applies** on the e-visa portal through its PRO, with your passport copy, your photo and its request letter <sup>[153](#o153), [87](#o87)</sup>.
 2. <a id="express-visa-item-2"></a>**You must be outside Oman,** hold no other valid Oman visa and have a passport valid at least 6 months <sup>[153](#o153)</sup>.
 3. <a id="express-visa-item-3"></a>**The fee is RO 30** <sup>[153](#o153)</sup>.
-4. <a id="express-visa-item-4"></a>**Check the visa** on ROP's Track Your Application page (Visit visa, Route A, [Step 3: Find a real job and check the papers](#step-3-find-a-real-job-and-check-the-papers)) <sup>[148](#o148)</sup>.
+4. <a id="express-visa-item-4"></a>**Check the visa** on ROP's Track Your Application page (["Visit visa (tourist, family and friends)"](#visit-visa-tourist-family-and-friends), [Step 3: Check the visa and travel](#step-3-check-the-visa-and-travel)) <sup>[148](#o148)</sup>.
 5. <a id="express-visa-item-5"></a>**Use it within one month** of issue; it is single entry <sup>[88](#o88), [43](#o43)</sup>.
 
 **Stay:** up to 3 weeks, extendable by 1 week <sup>[43](#o43)</sup>.
@@ -1612,7 +1613,7 @@ Costs RO 50; you must be outside Oman, hold no other valid visa and have a passp
 - **Official Visit Visa (type 7):** at the request of the government body you are visiting; three months, renewable for the same period <sup>[43](#o43)</sup>.
 - **Festivals Visa (type 22):** to take part in a festival or exhibition approved by the Ministry of Commerce and Industry <sup>[43](#o43)</sup>.
 
-**Can you work?** No: business visitors are bound by the work-permit rule under Visit visa, Can you work? <sup>[8](#o8)</sup>.
+**Can you work?** No: business visitors are bound by the work-permit rule (see ["Can you work on a visit visa?"](#can-you-work-on-a-visit-visa)) <sup>[8](#o8)</sup>.
 
 > **Need to know**
 > - Does ROP issue the express, business visit or multiple-entry visit visa to Bangladeshis now, through a sponsor's e-visa account or only through the Oman Embassy in Dhaka? <sup>[43](#o43), [N3 (2024)](#n3)</sup>
@@ -1674,7 +1675,7 @@ The fee is RO 30 <sup>[156](#o156)</sup>. Middle East College says the visa take
 
 ### 7.4 Step 4: Check and travel
 
-Check the visa on ROP's Track Your Application page (Visit visa, Route A, [Step 3: The institution applies to ROP](#step-3-the-institution-applies-to-rop)) <sup>[148](#o148)</sup>. Use it within 6 months of issue <sup>[155](#o155)</sup>.
+Check the visa on ROP's Track Your Application page (["Visit visa (tourist, family and friends)"](#visit-visa-tourist-family-and-friends), [Step 3: Check the visa and travel](#step-3-check-the-visa-and-travel)) <sup>[148](#o148)</sup>. Use it within 6 months of issue <sup>[155](#o155)</sup>.
 
 <a id="how-long-you-can-stay-2"></a>
 
@@ -1692,13 +1693,13 @@ Muscat College says a student can apply for a spouse and children under 21 to jo
 
 ### 7.7 Can you work?
 
-No. National University says students may not work full-time or part-time on a student visa, except for a study-related internship with its no-objection letter <sup>[N64 (2024)](#n64)</sup>. Working without a permit carries the penalties under Visit visa, Can you work? <sup>[8](#o8)</sup>.
+No. National University says students may not work full-time or part-time on a student visa, except for a study-related internship with its no-objection letter <sup>[N64 (2024)](#n64)</sup>. Working without a permit carries prison, a fine and deportation (see ["Can you work on a visit visa?"](#can-you-work-on-a-visit-visa)) <sup>[8](#o8)</sup>.
 
 <a id="scams-3"></a>
 
 ### 7.8 Scams
 
-Check that the institution is licensed by MoHERI, which handles complaints against private institutions <sup>[157](#o157)</sup>. A fee to an agent for a "student visa with a job" is a warning sign: students can't work <sup>[N64 (2024)](#n64)</sup>.
+Check that the institution is licensed by MoHERI, which handles complaints against private institutions <sup>[157](#o157)</sup>. A fee to an agent for a "student visa with a job" is a warning sign: no foreigner may work in Oman without a work permit <sup>[8](#o8), [N64 (2024)](#n64)</sup>.
 
 > **Need to know**
 > - What student-visa scams are reported for Bangladeshis going to Oman? <sup>[N64 (2024)](#n64)</sup>
@@ -1765,7 +1766,7 @@ Oman has a Patient Visa (type 35) for a short visit by someone with a medical pr
 
 A foreign worker living in Oman can bring a husband or wife and children under 21 on the Royal Oman Police (ROP) "joining relatives" (family joining) visa; the family member then lives in Oman on a residence that depends on the worker's own valid residence <sup>[121](#o121)</sup>. The employer asks for the visa with a letter taking responsibility for the family member <sup>[121](#o121)</sup>.
 
-**Is it open to Bangladeshis?** Yes. When Oman stopped issuing new visas to Bangladeshis on 31 October 2023, family visas were among the categories it exempted in June 2024, and a July 2026 Bangladeshi guide still lists family joining visas for Bangladeshis living in Oman as open <sup>[N3 (2024)](#n3), [N19 (2024)](#n19), [N66](#n66)</sup>. Applications from Bangladesh are handled with the Oman Embassy in Dhaka in coordination with ROP, need fully attested documents, and take one to four weeks <sup>[N3 (2024)](#n3)</sup>.
+**Is it open to Bangladeshis?** Yes. Oman stopped issuing new visas to Bangladeshis on 31 October 2023, but in June 2024 it exempted family visas, and family joining visas for Bangladeshis living in Oman were still open in July 2026 <sup>[N2 (2023)](#n2), [N3 (2024)](#n3), [N19 (2024)](#n19), [N66](#n66)</sup>. Applications from Bangladesh are handled with the Oman Embassy in Dhaka in coordination with ROP, need duly attested documents, and take one to four weeks <sup>[N3 (2024)](#n3)</sup>.
 
 > **Need to know**
 > - Does ROP still route a Bangladeshi family-joining application through the Oman Embassy in Dhaka in 2026, or does the employer apply in Oman like for other nationalities? <sup>[N3 (2024)](#n3)</sup>
@@ -1778,7 +1779,7 @@ A foreign worker living in Oman can bring a husband or wife and children under 2
 
 #### 10.1.1 The worker (sponsor)
 
-ROP's English family-joining page and its Arabic family-visa page say the worker must hold a senior job by the unified Gulf (GCC) job classification, rent housing in his own or his employer's name, and earn at least RO 600 a month <sup>[122](#o122), [161](#o161)</sup>. An ROP official said in February 2023 that the threshold had been cut from RO 350 to RO 150, and that the employer can also decide whether the worker may have his family with him <sup>[N55 (2023)](#n55)</sup>. ROP's service page on Gov.om (the government services portal), updated May 2026, and ROP's Arabic family-joining page list no salary threshold; Gov.om asks only for a valid passport, the worker's valid residence and a letter from the employer taking responsibility <sup>[121](#o121), [162](#o162)</sup>.
+The worker must hold a senior job by the unified Gulf (GCC) job classification and rent housing in his own or his employer's name <sup>[122](#o122), [161](#o161)</sup>. The minimum monthly salary has been given as RO 600, RO 150 or none <sup>[122](#o122), [N55 (2023)](#n55), [121](#o121), [162](#o162)</sup>. The employer can also decide whether the worker may have his family with him <sup>[N55 (2023)](#n55)</sup>. Gov.om (the government services portal) asks only for a valid passport, the worker's valid residence and a letter from the employer taking responsibility <sup>[121](#o121)</sup>.
 
 > **Need to know**
 > - What monthly salary does ROP actually apply in 2026 when a Bangladeshi worker sponsors his family: RO 150, RO 350, RO 600 or none? <sup>[122](#o122), [161](#o161), [162](#o162), [N55 (2023)](#n55)</sup>
@@ -1798,7 +1799,7 @@ ROP's English family-joining page and its Arabic family-visa page say the worker
 
 #### 10.1.3 Parents
 
-The family joining visa does not cover parents <sup>[121](#o121), [55](#o55)</sup>. ROP can, at its discretion, give a separate family visa (RO 30) for a worker's parents or siblings, on the employer's request and responsibility, if the worker's own spouse and children live in Oman <sup>[149](#o149), [55](#o55)</sup>. The employer applies with the relative's photo and passport copy, the worker's passport and resident card copies, proof of relationship, the employment contract and an application letter <sup>[149](#o149)</sup>. Parents can also come on the visit visa for relatives, requested by the employer on its responsibility: up to three months from entry plus one month's extension, single entry, RO 20 <sup>[163](#o163)</sup>. An investor, a property owner or a Golden Residency holder can bring parents on joining residence (see [Investor and long-term residence](#investor-and-long-term-residence)) <sup>[55](#o55), [N68](#n68)</sup>.
+The family joining visa does not cover parents <sup>[121](#o121), [55](#o55)</sup>. ROP can, at its discretion, give a separate family visa (RO 30) for a worker's parents or siblings, on the employer's request and responsibility, if "the sponsored individual's family (spouse and children)" lives in Oman <sup>[149](#o149), [55](#o55)</sup>. The employer applies with the relative's photo and passport copy, the worker's passport and resident card copies, proof of relationship, the employment contract and an application letter <sup>[149](#o149)</sup>. Parents can also come on the visit visa for relatives, requested by the employer on its responsibility: up to three months from entry plus one month's extension, single entry, RO 20 <sup>[163](#o163)</sup>. An investor, a property owner or a Golden Residency holder can bring parents on joining residence (see [Investor and long-term residence](#investor-and-long-term-residence)) <sup>[55](#o55), [N68](#n68)</sup>.
 
 > **Need to know**
 > - Is the family visa for a worker's parents followed by a residence card, and for how long, or is it only a visit? <sup>[149](#o149), [55](#o55)</sup>
@@ -1831,7 +1832,7 @@ The visa must be used to enter Oman within three months of issue <sup>[N67 (2019
 You'll need <sup>[121](#o121), [161](#o161), [122](#o122)</sup>:
 - a copy of your passport and your resident card;
 - each family member's passport copy, valid at least six months, and digital photos;
-- proof of relationship: the attested marriage certificate (nikahnama) for a spouse and the attested birth certificate for each child ([Step 2: Attest the marriage and birth certificates](#step-2-attest-the-marriage-and-birth-certificates));
+- proof of relationship, unless the names in the passports already show it <sup>[161](#o161)</sup>: for a spouse, the marriage certificate (nikahnama) attested by Oman's Ministry of Foreign Affairs ([Step 2: Attest the marriage and birth certificates](#step-2-attest-the-marriage-and-birth-certificates)) <sup>[122](#o122)</sup>; for a child, proof such as the birth certificate ([Step 2: Attest the marriage and birth certificates](#step-2-attest-the-marriage-and-birth-certificates));
 - a letter from your employer taking responsibility for the family member's visa;
 - a Ministry of Labour form showing your job title and salary, or six months of bank statements showing your salary transfers;
 - a copy of your house lease or another document showing where you live;
@@ -1862,7 +1863,7 @@ ROP wants the marriage certificate authenticated by Oman's Ministry of Foreign A
 
 ### 10.5 Step 3: The employer applies
 
-1. <a id="step-3-the-employer-applies-item-1"></a>**The employer or its authorised signatory submits ROP's electronic form,** typed in English for non-Arabs, with the papers from [Step 1: Gather the papers](#step-1-gather-the-papers) and the employer's authorised-signatory specimen <sup>[122](#o122), [161](#o161)</sup>. Gov.om lists the steps as submission, examination and issue <sup>[121](#o121)</sup>.
+1. <a id="step-3-the-employer-applies-item-1"></a>**The employer or its authorised signatory submits ROP's electronic form,** typed in English for non-Arabs, with the papers from [Step 1: Gather the papers](#step-1-gather-the-papers) and the employer's authorised-signatory specimen <sup>[122](#o122), [161](#o161)</sup>. The steps are submission, examination and issue <sup>[121](#o121)</sup>.
 2. <a id="step-3-the-employer-applies-item-2"></a>**Pay the RO 30 visa fee** <sup>[121](#o121)</sup>.
 3. <a id="step-3-the-employer-applies-item-3"></a>**Wait.** ROP may refuse any application without giving a reason <sup>[89](#o89)</sup>.
 
@@ -1873,7 +1874,7 @@ ROP wants the marriage certificate authenticated by Oman's Ministry of Foreign A
 
 ### 10.6 Step 4: Check the visa and travel
 
-1. <a id="step-4-check-the-visa-and-travel-item-1"></a>**Check the visa is real** with ROP's eVisa call centre: 80080011 inside Oman or +968 22848200 from abroad, or Info-omanevisa@rop.gov.om, 7 am to 9 pm <sup>[82](#o82)</sup>.
+1. <a id="step-4-check-the-visa-and-travel-item-1"></a>**Check the visa** in the sponsor's eVisa account under "Find Visa Application" <sup>[88](#o88)</sup>, or ask ROP's eVisa call centre: 80080011 inside Oman or +968 22848200 from abroad, or Info-omanevisa@rop.gov.om, 7 am to 9 pm <sup>[82](#o82)</sup>.
 2. <a id="step-4-check-the-visa-and-travel-item-2"></a>**Enter within three months of issue** <sup>[N67 (2019)](#n67)</sup>. A valid visa does not guarantee entry: the passport officer can refuse entry on public-interest grounds <sup>[89](#o89)</sup>.
 
 <a id="step-5-after-you-arrive"></a>
@@ -1891,7 +1892,7 @@ ROP wants the marriage certificate authenticated by Oman's Ministry of Foreign A
 
 ### 10.8 Can a spouse work?
 
-Not on the joining residence: ROP allows an employee to work only for his or her own sponsor <sup>[89](#o89)</sup>. The authority can convert a visa into a work visa inside Oman if the conditions are met and the fee is paid (see [Changing visa type](#changing-visa-type), "Family dependant to work") <sup>[N69 (2021)](#n69)</sup>.
+ROP allows an employee to work only for his or her own sponsor <sup>[89](#o89)</sup>. The authority can convert a visa into a work visa inside Oman if the conditions are met and the fee is paid (see [Changing visa type](#changing-visa-type), "Family dependant to work") <sup>[N69 (2021)](#n69)</sup>.
 
 <a id="if-you-change-employer-or-lose-the-job"></a>
 
@@ -1906,10 +1907,10 @@ When your residence moves to a new employer, your family's joining residence mov
 
 ### 10.10 Scams
 
-- **Fake nikahnamas.** Giving false information or forged documents to register a civil-status event in Oman is a crime punishable by prison, a fine of up to RO 500, or both <sup>[N71 (1999)](#n71)</sup>.
+- **Fake nikahnamas.** In 2026 immigration at Dhaka airport caught one spouse-visa approval letter in a husband's name used for five different women travelling to Oman on different passports <sup>[N14](#n14)</sup>. Giving false information or forged documents to register a civil-status event in Oman is a crime punishable by prison, a fine of up to RO 500, or both <sup>[N71 (1999)](#n71)</sup>.
 
   > **Need to know**
-  > - Are broker rings using fake nikahnamas to bring Bangladeshi women to Oman on family visas and then put them to work as domestic workers, as Facebook pages in Oman allege, and has ROP or the Embassy acted on it?
+  > - Are broker rings using fake nikahnamas to bring Bangladeshi women to Oman on family visas and then put them to work as domestic workers, and has ROP or the Embassy acted on it?
 
 - **Overcharging.** The government fee for the visa is RO 30 <sup>[121](#o121)</sup>.
 
@@ -1946,11 +1947,11 @@ The Golden Residency, launched in Salalah on 31 August 2025 by the Ministry of C
 - a company employing 50 or more Omanis;
 - nomination as partner or senior professional by a company registered under the Foreign Investment Law.
 
-A separate 5-year retiree route is reported for people aged 60 or over with a fixed monthly income of at least RO 4,000, at least two years' past work in Oman and six months of Omani bank statements <sup>[N74](#n74), [N75](#n75)</sup>. Another route is reported for people who have lived in Oman legally and continuously for at least 15 years, with no absence over 90 days in any year <sup>[N75](#n75)</sup>.
+A separate 5-year retiree route is reported for people aged 60 or over with a fixed monthly income of at least RO 4,000, at least two years' past work in Oman and six months of Omani bank statements <sup>[N74](#n74), [N75](#n75)</sup>. Naturalisation, which the Golden Residency does not lead to directly, needs at least 15 years' legal, continuous residence with no absence over 90 days in any year, and is granted only in rare cases <sup>[N75](#n75)</sup>.
 
 > **Need to know**
 > - Does a 5-year tier (RO 250,000 investment, or the retiree route) still exist alongside the RO 200,000 10-year route launched in August 2025? <sup>[N74](#n74), [N68](#n68)</sup>
-> - Does the 15-year long-residence route exist on the official portal, does it need any investment or income, and can a long-serving worker use it? <sup>[N75](#n75)</sup>
+(delete the bullet)
 
 Applicants are reported to need to be 21 or over, with a clean record, good health and proof of accommodation in Oman <sup>[N75](#n75)</sup>. The residency covers first-degree family members with no limit on number or age, and the holder may employ up to three domestic workers and issue visit visas for relatives <sup>[N68](#n68)</sup>.
 
@@ -1960,7 +1961,7 @@ Applicants are reported to need to be 21 or over, with a clean record, good heal
 
 1. <a id="how-to-apply-item-1"></a>**Apply on the official portal,** omanresidence.gov.om (applications at portal.omanresidence.gov.om), which is run with the operator Migrate World; upload the documents and track the application there <sup>[167](#o167), [N73](#n73)</sup>.
 2. <a id="how-to-apply-item-2"></a>**Pay the application fee,** reported as RO 551 for 10 years and RO 326 for 5 years, plus medical, insurance, attestation and translation costs <sup>[N75](#n75)</sup>.
-3. <a id="how-to-apply-item-3"></a>**Wait for review** by Invest Oman and ROP, reported at three to six weeks for a complete file; then give biometrics at ROP and collect the card <sup>[N75](#n75)</sup>.
+3. <a id="how-to-apply-item-3"></a>**Wait for review** by Invest Oman (which runs the programme under MOCIIP) and ROP, reported at three to six weeks for a complete file; then give biometrics at ROP and collect the card <sup>[N75](#n75)</sup>.
 
 Golden Residency gives no direct route to citizenship <sup>[N75](#n75)</sup>.
 
@@ -1976,7 +1977,7 @@ The investor visa is for a foreigner investing in Oman on a certificate from the
 - 5-year investor visa RO 300, renewed at RO 300 every three years;
 - spouse and first-degree relatives: RO 100 (10-year) or RO 50 (5-year), renewed at the same rate every three years.
 
-Investor-joining relatives are exempt from the age limit <sup>[N69 (2021)](#n69)</sup>. An investor who wants to live and work in his own company needs an MoL labour permit stamped "investor", the commercial register, Chamber of Commerce membership, and, for a Bangladeshi, a medical certificate attested by the Ministry of Health <sup>[168](#o168)</sup>. A foreigner planning to invest can also get a one-year multiple-entry visa, extendable, allowing stays of up to three months each time, with his spouse and children <sup>[N69 (2021)](#n69)</sup>.
+Investor-joining relatives are exempt from the age limit <sup>[N69 (2021)](#n69)</sup>. An investor who wants to live and work in his own company needs an MoL labour permit <sup>[168](#o168)</sup>. ROP's investor visa application needs the labour permit stamped "investor", the commercial register, Chamber of Commerce membership and, for a Bangladeshi, a medical certificate attested by the Ministry of Health; the investor must be 21 or over <sup>[168](#o168)</sup>. A foreigner planning to invest can also get a one-year multiple-entry visa, extendable, allowing stays of up to three months each time, with his spouse and children <sup>[N69 (2021)](#n69)</sup>.
 
 <a id="property-owner-residence"></a>
 
@@ -1991,13 +1992,13 @@ Since June 2026 a foreigner who owns a real-estate unit, registered or still bei
 
 ### 11.4 What is realistic for Bangladeshis
 
-Every route above needs at least RO 200,000 invested, RO 4,000 a month in fixed income, or property bought in Oman <sup>[N68](#n68), [N74](#n74), [N72](#n72)</sup>. Legal residence in Oman comes only through work, investment or family <sup>[170](#o170)</sup>.
+The Golden Residency needs at least RO 200,000 invested, the retiree route RO 4,000 a month in fixed income, and owner residence a property bought in Oman <sup>[N68](#n68), [N74](#n74), [N72](#n72)</sup>. Legal residence in Oman comes through work, investment or family <sup>[170](#o170)</sup>.
 
 <a id="scams-5"></a>
 
 ### 11.5 Scams
 
-- **Fake "investor visa" agents.** The only official application channel is the Golden Residency portal on the .gov.om domain, run with Migrate World <sup>[167](#o167), [N73](#n73)</sup>. The smallest investment route starts at RO 200,000 <sup>[N68](#n68)</sup>.
+- **Fake "investor visa" agents.** Golden Residency applications go through the official portal, omanresidence.gov.om, run with Migrate World <sup>[167](#o167), [N73](#n73)</sup>. The smallest investment route starts at RO 200,000 <sup>[N68](#n68)</sup>.
 
   > **Need to know**
   > - Which fake investor or "business visa" offers for Oman are reported in Bangladesh, and what do they cost?
@@ -2022,13 +2023,13 @@ ROP's Executive Regulation of the Foreigners' Residence Law lets the authority c
 
 ### 12.1 Visit visa to work
 
-Not allowed inside Oman <sup>[N3 (2024)](#n3), [N76 (2023)](#n76)</sup>. Leave, let the employer get the work visa (RO 20, under an MoL work permit whose profession and gender match the visa), and re-enter (see [Work visa: company worker](#work-visa-company-worker)) <sup>[171](#o171)</sup>. For a Bangladeshi this works only in a category exempt from the 2023 visa ban, such as doctor, engineer, nurse, teacher or accountant <sup>[N3 (2024)](#n3)</sup>. Overstaying a visit visa costs RO 10 a day <sup>[115](#o115)</sup>. A Bangladeshi guide warns that going on a visit visa to look for work risks fines and a ban <sup>[N66](#n66)</sup>.
+Not allowed inside Oman <sup>[N3 (2024)](#n3), [N76 (2023)](#n76)</sup>. Leave, let the employer get the work visa (RO 20, under an MoL work permit whose profession and gender match the visa), and re-enter (see [Work visa: company worker](#work-visa-company-worker)) <sup>[171](#o171)</sup>. For a Bangladeshi this works only in a category exempt from the 2023 visa ban, such as doctor, engineer, nurse, teacher or accountant <sup>[N3 (2024)](#n3)</sup>. Overstaying a visit visa costs RO 10 a day <sup>[115](#o115)</sup>. Going on a visit visa to look for work risks fines and a ban if caught <sup>[N66](#n66)</sup>.
 
 <a id="family-dependant-to-work"></a>
 
 ### 12.2 Family dependant to work
 
-The authority can convert a family joining visa into a work visa inside Oman under the general conversion rule <sup>[N69 (2021)](#n69)</sup>. The October 2023 suspension named tourist and visit visas <sup>[N3 (2024)](#n3)</sup>, but one adviser reported it also covering dependent visitor visas <sup>[N76 (2023)](#n76)</sup>.
+The authority can convert a family joining visa into a work visa inside Oman under the general conversion rule <sup>[N69 (2021)](#n69)</sup>. The October 2023 suspension covers all visitor visas, including tourist, dependent visitor and express visitor visas <sup>[N3 (2024)](#n3), [N76 (2023)](#n76)</sup>.
 
 > **Need to know**
 > - Can a spouse on joining residence move to a work visa inside Oman in 2026, and what does ROP charge? <sup>[N69 (2021)](#n69), [N3 (2024)](#n3)</sup>
@@ -2082,7 +2083,7 @@ Oman is not a party to the 1951 Refugee Convention or its 1967 Protocol and has 
 
 ### 13.2 UNHCR
 
-UNHCR (the UN refugee agency) counts 289 refugees and 414 asylum-seekers in Oman <sup>[170](#o170)</sup>. People registered with UNHCR stay under ordinary immigration law, and legal residence comes only through work, investment or family <sup>[170](#o170)</sup>.
+UNHCR (the UN refugee agency) counts 289 refugees and 414 asylum-seekers in Oman <sup>[170](#o170)</sup>. People registered with UNHCR stay under ordinary immigration law, and legal residence comes through work, investment or family <sup>[170](#o170)</sup>.
 
 > **Need to know**
 > - Where does UNHCR receive asylum-seekers for Oman, and does it have a staffed office in Muscat? <sup>[170](#o170)</sup>
@@ -2092,13 +2093,13 @@ UNHCR (the UN refugee agency) counts 289 refugees and 414 asylum-seekers in Oman
 
 ## 14 Having a child in Oman
 
-A child born in Oman to Bangladeshi parents is registered with ROP's Directorate General of Civil Status and, for Bangladeshi papers, with the Bangladesh Embassy in Muscat; it then needs a Bangladeshi passport and its own Omani residence (Steps 3 and 4) <sup>[172](#o172), [173](#o173), [166](#o166), [121](#o121)</sup>.
+A child born in Oman to Bangladeshi parents is registered with ROP's Directorate General of Civil Status and, for Bangladeshi papers, with the Bangladesh Embassy in Muscat; it then needs a Bangladeshi passport and its own Omani residence (see [Step 3: Get the baby a Bangladeshi e-passport](#step-3-get-the-baby-a-bangladeshi-e-passport): Get the baby a Bangladeshi e-passport; [Step 4: Get the baby's Omani residence](#step-4-get-the-babys-omani-residence): Get the baby's Omani residence) <sup>[172](#o172), [173](#o173), [166](#o166), [121](#o121)</sup>.
 
 <a id="step-1-register-the-birth-with-rop-and-get-the-omani-birth-certificate"></a>
 
 ### 14.1 Step 1: Register the birth with ROP and get the Omani birth certificate
 
-Registration needs the birth notice, the live-birth form <sup>[N71 (1999)](#n71), [174](#o174)</sup>.
+Registration needs the birth notice and the live-birth form <sup>[N71 (1999)](#n71), [174](#o174)</sup>.
 
 1. <a id="step-1-register-the-birth-with-rop-and-get-the-omani-birth-certificate-item-1"></a>**Report the birth within two weeks** to the civil registrar of ROP's Directorate General of Civil Status, on the set form with the live-birth form <sup>[N71 (1999)](#n71), [172](#o172)</sup>. The father reports it if present; then, in order, an adult relative present at the birth, an adult living with the mother, the doctor or midwife, the hospital director, the area's sheikh, and last the mother; no one else may report it <sup>[N71 (1999)](#n71)</sup>.
 2. <a id="step-1-register-the-birth-with-rop-and-get-the-omani-birth-certificate-item-2"></a>**Bring** the birth notice, both parents' identification papers and the original marriage contract, and appear in person <sup>[174](#o174), [172](#o172)</sup>. The report gives the baby's name and sex and each parent's name, civil number, nationality, religion, address and job <sup>[N71 (1999)](#n71)</sup>.
@@ -2116,7 +2117,7 @@ Registration is free within 45 days of birth and RO 2 after; corrections and cop
 1. <a id="step-2-register-the-birth-with-the-bangladesh-embassy-in-muscat-item-1"></a>**Apply on bdris.gov.bd** (Bangladesh's online birth registration system), linked from the Embassy's website; choose Bangladesh Embassy and Oman, Muscat as the registration office <sup>[173](#o173), [N79 (2022)](#n79)</sup>.
 2. <a id="step-2-register-the-birth-with-the-bangladesh-embassy-in-muscat-item-2"></a>**Enter the baby's name** in Bangla and in English capital letters, with the parents' birth-registration and NID numbers <sup>[N79 (2022)](#n79)</sup>.
 3. <a id="step-2-register-the-birth-with-the-bangladesh-embassy-in-muscat-item-3"></a>**Submit and print the form;** keep the application number to track it <sup>[N79 (2022)](#n79)</sup>.
-4. <a id="step-2-register-the-birth-with-the-bangladesh-embassy-in-muscat-item-4"></a>**If the baby is 46 days or older, pay RO 2** to the Embassy account "Birth and Death Registration Fee, Embassy of Bangladesh, Muscat", 0423006444760022, at any Bank Muscat branch or by online transfer; write your name and passport number or OID in the reference, keep the yellow receipt, and avoid ATM or cash-deposit machines <sup>[165](#o165), [81](#o81)</sup>. The Embassy takes no cash <sup>[81](#o81)</sup>.
+4. <a id="step-2-register-the-birth-with-the-bangladesh-embassy-in-muscat-item-4"></a>**If the baby is 46 days or older, pay RO 2** to the Embassy account "Birth and Death Registration Fee, Embassy of Bangladesh, Muscat", 0423006444760022, at any Bank Muscat branch or by online transfer; write the main part of your name and your passport number in the reference, keep the yellow receipt, and avoid ATM or cash-deposit machines <sup>[165](#o165), [81](#o81)</sup>. The Embassy takes no cash <sup>[81](#o81)</sup>.
 5. <a id="step-2-register-the-birth-with-the-bangladesh-embassy-in-muscat-item-5"></a>**Book a schedule and attend.** Book on amardutabashmuscat.org or the Embassy's online form (forms.gle/CYHtStaaKWC1afwN6) and come on the date given, about 15 days after the bdris application, with the printed form and the parents' passport copies <sup>[81](#o81), [164](#o164), [N79 (2022)](#n79)</sup>.
 
 > **Need to know**
@@ -2143,7 +2144,7 @@ At the Embassy, a 48-page 5-year e-passport costs RO 12.700 (RO 19.100 urgent) f
 
 ### 14.4 Step 4: Get the baby's Omani residence
 
-A child of a resident worker gets joining residence like any child under 21 (see [Family joining visa](#family-joining-visa-spouse-and-children)) <sup>[121](#o121), [89](#o89)</sup>. Children under 16 need no medical form <sup>[50](#o50)</sup>. The resident card costs RO 5 a year <sup>[N32](#n32)</sup>.
+A child of a resident worker gets joining residence like any child under 21 (see ["Family joining visa (spouse and children)"](#family-joining-visa-spouse-and-children)) <sup>[121](#o121), [89](#o89)</sup>. Children under 16 need no medical form <sup>[50](#o50)</sup>. The resident card costs RO 5 a year <sup>[N32](#n32)</sup>.
 
 > **Need to know**
 > - Within how many days of birth must a newborn's residence visa be issued, and what is the late fine? <sup>[122](#o122)</sup>
@@ -2187,7 +2188,7 @@ Your employer has paid your wage only once it is transferred into your own accou
 
 Bangladesh's government asks workers to send money only through legal channels, never hundi (informal transfer through unlicensed agents) <sup>[54](#o54)</sup>. Money sent through legal channels earns the receiver a 2.5% government cash incentive, sometimes with a further 2.5% from the bank, and the 2026-27 budget keeps the government incentive <sup>[N83](#n83), [176](#o176)</sup>.
 
-In Oman, nobody may carry out any financial activity without a CBO licence, and money services, including exchange and remittances, are a financial activity under the Banking Law of 2025 <sup>[177](#o177)</sup>. Doing it without a licence carries 3 months to 3 years in jail, a fine of RO 250 to 600 (RO is the Omani rial) for each day of the offence, or both, and the court closes the premises and confiscates the equipment <sup>[177](#o177)</sup>. Police enforce this against people who send money for other workers: in August 2026 Al Buraimi police arrested an Asian national for making international transfers through unlicensed apps for a group of expatriate workers in return for a fee <sup>[N84](#n84)</sup>.
+In Oman, nobody may carry out any financial activity without a CBO licence, and money services, including exchange and remittances, are a financial activity under the Banking Law of 2025 <sup>[177](#o177)</sup>. Doing it without a licence carries 3 months to 3 years in jail, a fine of RO 250 to 600 for each day of the offence, or both, and the court closes the premises and confiscates the equipment <sup>[177](#o177)</sup>. In August 2026 Al Buraimi police arrested an Asian national for making international transfers through unlicensed apps for a group of expatriate workers in return for a fee <sup>[N84](#n84)</sup>.
 
 You'll need:
 - For a bKash wallet: the receiver's bKash number and full name exactly as registered <sup>[N83](#n83)</sup>.
@@ -2203,7 +2204,7 @@ You'll need:
    > **Need to know**
    > - Which exchange houses in Oman pay into Nagad wallets?
 
-3. <a id="send-through-a-bank-or-licensed-exchange-house-never-hundi-item-3"></a>**Know the cost: small transfers cost more.** Bangladesh Bank's survey put the average cost of sending up to USD 200 from Oman at 6.06% in January-March and 6.77% in April-June 2026, the highest of the ten countries it lists; the average across all amounts sent from Oman was 1.39% and 1.40% <sup>[180](#o180)</sup>. Across all countries that quarter, it cost 2.94% for up to USD 200, 0.94% for USD 201-500 and 0.50% above USD 500 <sup>[180](#o180)</sup>.
+3. <a id="send-through-a-bank-or-licensed-exchange-house-never-hundi-item-3"></a>**Know the cost: small transfers cost more.** Sending up to USD 200 from Oman cost 6.06% on average in January-March and 6.77% in April-June 2026, the highest of the ten countries it lists; the average across all amounts sent from Oman was 1.39% and 1.40% <sup>[180](#o180)</sup>. Across all countries that quarter, it cost 2.94% for up to USD 200, 0.94% for USD 201-500 and 0.50% above USD 500 <sup>[180](#o180)</sup>.
 4. <a id="send-through-a-bank-or-licensed-exchange-house-never-hundi-item-4"></a>**Send.** For bKash, go to a partner branch or agent with the receiver's bKash number and registered name and hand over the cash; up to Tk 2.5 lakh per transfer, as often as you like <sup>[N83](#n83)</sup>. Banks in Bangladesh credit remittances within 3 days at most <sup>[178](#o178)</sup>.
 5. <a id="send-through-a-bank-or-licensed-exchange-house-never-hundi-item-5"></a>**The family collects.** bKash money can be cashed out at BRAC Bank, City Bank and Q-Cash ATM booths for Tk 7 per thousand <sup>[N83](#n83)</sup>.
 
@@ -2212,7 +2213,7 @@ You'll need:
 > - What does a hundi dealer in Oman pay per rial against the exchange houses' rate in 2026, and how do the "unlicensed apps" police arrest people for work?
 
 **If something goes wrong:**
-- bKash helpline: 16247, or +88-02-55663001 from a country not listed <sup>[N83](#n83)</sup>.
+- bKash helpline: 16247, or support@bkash.com <sup>[N83](#n83)</sup>.
 - Royal Oman Police (ROP) emergency line: 9999 <sup>[34](#o34)</sup>.
 
 <a id="money-from-oman-by-year"></a>
@@ -2229,7 +2230,7 @@ Workers in Oman sent USD 1,634.7 million home in the 2024-25 financial year and 
 
 #### 15.4.1 NRCTA (Non-Resident Convertible Taka Account)
 
-A taka savings, current or fixed-deposit account for Bangladeshis abroad, funded by remittances, at a scheduled bank's AD (Authorised Dealer, licensed for foreign exchange) branch or Offshore Banking Unit, under Bangladesh Bank's Circular 41 of 8 October 2026 <sup>[183](#o183)</sup>. A worker can open one before departure with no initial deposit, or during a visit home <sup>[183](#o183)</sup>. It earns market interest, and principal and interest can be sent abroad freely <sup>[183](#o183)</sup>. Banks may let someone in Bangladesh operate it under a power of attorney and may send the money to a non-resident nominee if the holder dies, and the account can be kept after coming home for good <sup>[183](#o183)</sup>. Banks may lend in taka against it, including to buy a home for your own use <sup>[183](#o183)</sup>. The trade-off: money sent into an NRCTA generally gets no 2.5% incentive unless specifically stated <sup>[183](#o183)</sup>.
+A taka savings, current or fixed-deposit account for Bangladeshis abroad, funded by remittances, at a scheduled bank's AD (Authorised Dealer, licensed for foreign exchange) branch or Offshore Banking Unit, under Bangladesh Bank's Circular 41 of 8 October 2026 <sup>[183](#o183)</sup>. A worker can open one before departure with no initial deposit, or during a visit home <sup>[183](#o183)</sup>. It earns market interest, and principal and interest can be sent abroad freely <sup>[183](#o183)</sup>. Banks may let someone in Bangladesh operate it under a power of attorney and may send the money to a non-resident nominee if the holder dies, and the account can be kept after coming home for good <sup>[183](#o183)</sup>. Banks may lend in taka against it, including to buy a home for your own use <sup>[183](#o183)</sup>. The trade-off: money sent into an NRCTA generally gets no 2.5% incentive unless specifically stated <sup>[183](#o183), [176](#o176)</sup>.
 
 <a id="wage-earner-development-bond-wedb"></a>
 
@@ -2292,7 +2293,7 @@ A Bangladeshi in Oman without a valid passport goes home on a Travel Permit (an 
 - **Criminal penalty.** Failing without an acceptable excuse to apply to renew your residence in time carries 7 days to 3 months in jail, a fine of RO 10 to 500, or both <sup>[N62 (2021)](#n62)</sup>. You must apply to renew 15 days before the residence expires, and renewal can be refused without reasons <sup>[N62 (2021)](#n62)</sup>. Not leaving after being told your renewal was refused carries 1 month to 3 years and RO 100 to 500 <sup>[N62 (2021)](#n62)</sup>. For the late-renewal offence and the others in articles 42 to 45 of the Foreigners' Residence Law, the Inspector General of Police and Customs may drop the case if you pay a settlement of no more than half the maximum fine <sup>[N62 (2021)](#n62)</sup>.
 - **Your employer's fines.** The employer pays the Ministry of Labour RO 10 a month for a late work-permit renewal, and RO 15 (an individual employer) or RO 20 (a company) a month for not correcting a worker's status, each capped at RO 500 per worker <sup>[N31](#n31), [111](#o111)</sup>. The status-correction fine runs until the worker leaves, is transferred, is reported absent, his death is registered or his visa changed <sup>[N31](#n31)</sup>. No fines run while a complaint for his dues, filed after the contract ended, awaits final judgment, while his passport is held by a government body or his embassy, or while he is in prison under a sentence <sup>[N31](#n31), [111](#o111)</sup>.
 - **Lost passport.** Report it at once to the nearest police station, and go to the competent authority yourself or through your sponsor within 24 hours; your residence ends if no replacement is shown within three months <sup>[N62 (2021)](#n62)</sup>.
-- **Kept from leaving.** A foreigner under an enforceable judgment, an arrest order or a court travel ban cannot leave until it is settled, and a creditor holding a court judgment can ask for a travel ban until the debt is paid <sup>[N62 (2021)](#n62)</sup>.
+- **Kept from leaving.** A foreigner under an enforceable judgment, an arrest order or a court travel ban cannot leave until it is settled, and a creditor holding a court judgment can ask for a travel ban until the debt is paid or a guarantor takes it on <sup>[N62 (2021)](#n62)</sup>.
 
 > **Need to know**
 > - Is the RO 20 a day on an expired residence visa capped, and how does it relate to ROP's RO 50 fine for a late residence-permit renewal <sup>[122](#o122)</sup>?
@@ -2302,7 +2303,7 @@ A Bangladeshi in Oman without a valid passport goes home on a Travel Permit (an 
 
 ### 16.2 Amnesties and grace periods
 
-The Ministry of Labour's last grace period ran from 1 February 2025 and let people renew labour cards, cancel absconding ("work abandonment") reports, transfer workers' services and settle repatriation-ticket costs without penalties <sup>[N88](#n88)</sup>. It waived fines and debts worth more than RO 60 million, including fines on labour cards expired and unused for over seven years and repatriation-ticket debts from 2017 and earlier <sup>[N88](#n88)</sup>. Applications went through the Ministry of Labour's website and its approved service channels <sup>[N88](#n88)</sup>. In the 2020 window, workers registered on the Ministry's website or at the nearest Sanad office (licensed government-services counters) <sup>[N87 (2020)](#n87)</sup>. Fines were waived only on condition of renewing the work permit and paying the next period's fees, cancelling the worker's service, transferring services, or paying the worker's repatriation ticket <sup>[N89](#n89)</sup>. ROP ran a matching window: residents could renew residence or transfer employment without penalties for expired entry or residence permits, after Ministry of Labour verification, and those leaving Oman for good were exempted from fines on expired non-work visas <sup>[N90](#n90)</sup>. The deadline, first 31 July 2025, was extended to 31 December 2025 as an "additional and final" grace period, with legal and administrative consequences promised after it <sup>[N91](#n91), [N90](#n90)</sup>. No requests after December 2025 were to be considered <sup>[N89](#n89), [N53](#n53)</sup>. The same initiative cancelled work cards inactive for more than 10 years with no service requests <sup>[N89](#n89)</sup>. In February 2026 Oman's labour minister said about RO 100 million in labour fines had been waived during 2025 <sup>[N92](#n92)</sup>. In January 2026 Bangladesh's expatriates' welfare adviser praised Oman's move to regularise undocumented Bangladeshis without fines <sup>[N5](#n5)</sup>.
+The Ministry of Labour's last grace period ran from 1 February 2025 and let people renew labour cards, cancel absconding ("work abandonment") reports, transfer workers' services and settle repatriation-ticket costs without penalties <sup>[N88](#n88)</sup>. It waived fines and debts worth more than RO 60 million, including fines on labour cards expired and unused for over seven years and repatriation-ticket debts from 2017 and earlier <sup>[N88](#n88)</sup>. Applications went through the Ministry of Labour's website and its approved service channels <sup>[N88](#n88)</sup>. In the 2020 window, workers registered on the Ministry's website or at the nearest Sanad office (licensed government-services counters) <sup>[N87 (2020)](#n87)</sup>. Fines were waived only on condition of renewing the work permit and paying the next period's fees, cancelling the worker's service, transferring services, or paying the worker's repatriation ticket <sup>[N89](#n89)</sup>. ROP ran a matching window: residents could renew residence or transfer employment without penalties for expired entry or residence permits, after Ministry of Labour verification, and those leaving Oman for good were exempted from fines on expired non-work visas <sup>[N90](#n90)</sup>. The deadline, first 31 July 2025, was extended to 31 December 2025 as an "additional and final" grace period, with legal and administrative consequences promised after it <sup>[N91](#n91), [N90](#n90)</sup>. No requests after December 2025 were to be considered <sup>[N89](#n89), [N53](#n53)</sup>. The same initiative cancelled work cards inactive for more than 10 years with no service requests <sup>[N89](#n89)</sup>. In February 2026 Oman's labour minister said about RO 100 million in labour fines had been waived during 2025 <sup>[N92](#n92)</sup>.(cut)
 
 During the 2025 window, the Embassy planned a consular tour to Salalah for priority passport enrolment, with sign-up through an online form and a published serial list <sup>[N93](#n93)</sup>.
 
@@ -2376,7 +2377,7 @@ A foreigner who was deported can be given an entry visa only after two years, an
 
 WEWB pays grants and helps with the migrant insurance for workers who left with BMET clearance or joined the Board <sup>[189](#o189), [93 (2024)](#o93)</sup>. The Embassy's Expatriate Service Cell handles body repatriation, legal help, accidents and illness <sup>[100](#o100)</sup>. Bangladesh's labour wings recovered Tk 127.6 crore (1 crore is Tk 10 million) in 1,852 cases of death compensation, wages and benefits in 2023-24 <sup>[92 (2024)](#o92)</sup>.
 
-Of 17,871 bodies of migrant workers brought home from July 2016 to June 2022, 1,893 came from Oman, against 5,666 from Saudi Arabia and 1,913 from the UAE <sup>[N95](#n95)</sup>. For comparison, 387 Indian nationals died in Oman in 2024 <sup>[22 (2024)](#o22)</sup>. From all countries, a record 5,038 bodies came home in 2025, after 4,813 in 2024 <sup>[N96](#n96), [N95](#n95)</sup>, and 4,060 from January to September 2026, more than 14 a day <sup>[N97](#n97)</sup>. In the first nine months of 2026, 66% came with "natural death" written as the cause <sup>[N97](#n97)</sup>. A regular worker's body comes home roughly on time, but an irregular worker's takes much longer <sup>[N97](#n97)</sup>.
+Of 17,871 bodies of migrant workers brought home from July 2016 to June 2022, 1,893 came from Oman, against 5,666 from Saudi Arabia and 1,913 from the UAE <sup>[N95](#n95)</sup>. For comparison, 387 Indian nationals died in Oman in 2024 up to late November <sup>[22 (2024)](#o22)</sup>. From all countries, a record 5,038 bodies came home in 2025, after 4,813 in 2024 <sup>[N96](#n96), [N95](#n95)</sup>, and 4,060 from January to September 2026, more than 14 a day <sup>[N97](#n97)</sup>. In the first nine months of 2026, 66% came with "natural death" written as the cause <sup>[N97](#n97)</sup>. A regular worker's body comes home roughly on time, but an irregular worker's takes much longer <sup>[N97](#n97)</sup>.
 
 > **Need to know**
 > - How many Bangladeshi workers died in Oman each year from 2023 to 2026, and of what causes?
@@ -2385,7 +2386,7 @@ Of 17,871 bodies of migrant workers brought home from July 2016 to June 2022, 1,
 
 ### 17.1 Check you are covered
 
-WEWB's death grant needs BMET emigration clearance or Board membership, and death in the country the clearance was for <sup>[189](#o189)</sup>. Workers with a BMET clearance card are members automatically; anyone can check at portal.wewb.gov.bd/bmet-wewbm-check <sup>[90](#o90)</sup>. A worker in Oman without clearance can join online at portal.wewb.gov.bd <sup>[90](#o90)</sup>; at the Embassy in Muscat, membership registration costs RO 22, paid into the Embassy's Welfare Account at Bank Muscat (0316006442800014) and booked like any other service <sup>[165](#o165)</sup>. Workers cleared on or after 12 March 2023 also have the JBC (Jiban Bima Corporation, the state life insurer) migrant insurance <sup>[54](#o54), [93 (2024)](#o93)</sup>.
+WEWB's death grant needs BMET emigration clearance or Board membership, and death in the country the clearance was for <sup>[189](#o189)</sup>. Workers with a BMET clearance card need no separate membership; anyone can check at portal.wewb.gov.bd/bmet-wewbm-check <sup>[90](#o90)</sup>. A worker in Oman without clearance can join online at portal.wewb.gov.bd <sup>[90](#o90)</sup>; at the Embassy in Muscat, membership registration costs RO 22, paid into the Embassy's Welfare Account at Bank Muscat (0316006442800014) and booked like any other service <sup>[165](#o165), [81](#o81)</sup>. Workers cleared on or after 12 March 2023 also have the JBC (Jiban Bima Corporation, the state life insurer) migrant insurance <sup>[54](#o54), [93 (2024)](#o93)</sup>.
 
 <a id="if-you-are-injured-or-fall-ill-1"></a>
 
@@ -2407,14 +2408,14 @@ WEWB's death grant needs BMET emigration clearance or Board membership, and deat
    - 15%: thumb, index or middle finger, or all toes.
    - 10%: ring or little finger, the big toe, any one other toe, or four toes including the big toe.
 
-   If the worker later dies, the death claim pays the sum insured minus what was paid for the partial disability <sup>[93 (2024)](#o93)</sup>. Claims go through WEWB to JBC, as in If a worker dies, step 8 <sup>[93 (2024)](#o93)</sup>.
+   If the worker later dies, the death claim pays the sum insured minus what was paid for the partial disability <sup>[93 (2024)](#o93)</sup>. Claims go through WEWB to JBC, as in [If a worker dies, item 10: The insurance: Tk 10 lakh](#if-a-worker-dies-item-10) <sup>[93 (2024)](#o93)</sup>.
 
 <a id="if-a-worker-dies"></a>
 
 ### 17.3 If a worker dies
 
 1. <a id="if-a-worker-dies-item-1"></a>**The sponsor reports the death.** Under Omani labour law the sponsor (the employer holding the worker's visa) is responsible for the body <sup>[193](#o193)</sup>. The sponsor tells the nearest police station and gets a Death Notification from the hospital, on which ROP's civil registration issues the death certificate <sup>[193](#o193)</sup>. In Muscat, ROP's Directorate General of Civil Status is across from the airport, beside Al Azaiba Police Station <sup>[194 (2024)](#o194)</sup>.
-2. <a id="if-a-worker-dies-item-2"></a>**The Embassy's NOC.** The body needs the deceased's embassy's no-objection letter (NOC) for autopsy, embalming, repatriation or local burial <sup>[194 (2024)](#o194)</sup>. Contact the Embassy's labour wing or the Expatriate Service Cell ([Contacts](#contacts)) <sup>[100](#o100), [80](#o80)</sup>. Death registration at the Embassy costs RO 2 <sup>[165](#o165)</sup>.
+2. <a id="if-a-worker-dies-item-2"></a>**The Embassy's NOC.** The body needs the deceased's embassy's no-objection letter (NOC) for autopsy, embalming or repatriation <sup>[194 (2024)](#o194)</sup>. Contact the Embassy's labour wing or the Expatriate Service Cell ([Contacts](#contacts)) <sup>[100](#o100), [80](#o80)</sup>. Death registration at the Embassy costs RO 2 <sup>[165](#o165)</sup>.
 
    > **Need to know**
    > - What papers does the Bangladesh Embassy in Muscat want before it issues the NOC, and how long does it take?
@@ -2489,7 +2490,7 @@ At Dhaka, Chattogram and Sylhet airports, WEWB's Probashi Kallyan (expatriate we
 
 ### 18.1 What you can bring home
 
-Bangladesh's Non-tourist Passenger Baggage Rules 2025 (SRO 261 of the National Board of Revenue, gazetted 3 June 2025) set what a returning migrant worker may bring <sup>[204](#o204)</sup>.
+Bangladesh's Non-tourist Passenger Baggage Rules 2025 (SRO 261, a Statutory Regulatory Order of the National Board of Revenue, gazetted 3 June 2025) set what a returning migrant worker may bring <sup>[204](#o204)</sup>.
 
 <a id="duty-free"></a>
 
@@ -2543,7 +2544,7 @@ Up to USD 10,000 in foreign currency comes in without declaring, and that amount
 
 ### 18.2 Support after return
 
-1. <a id="support-after-return-item-1"></a>**PKB rehabilitation loan.** Returnees starting a project can borrow up to Tk 50 lakh from PKB (Probashi Kallyan Bank, the state bank for migrants): up to Tk 3 lakh without collateral, Tk 3-5 lakh with collateral, above Tk 5 lakh against a registered mortgage; up to 10 years at 9% simple interest; decided within 15 working days <sup>[208](#o208)</sup>. Fees: 0.50% processing and 0.50% documentation, each at most Tk 15,000; no service charge <sup>[208](#o208)</sup>. In 2021 only about 2% of pandemic returnees got PKB's special reintegration loan; a study blamed lack of staff, poor promotion and a short grace period <sup>[N99 (2021)](#n99)</sup>, and a returnee said its many conditions put him off <sup>[N99 (2021)](#n99)</sup>.
+1. <a id="support-after-return-item-1"></a>**PKB rehabilitation loan.** Returnees starting a project can borrow up to Tk 50 lakh from PKB (Probashi Kallyan Bank, the state bank for migrants): up to Tk 3 lakh without collateral, Tk 3-5 lakh with collateral, above Tk 5 lakh against a registered mortgage; up to 10 years at 9% simple interest; decided within 15 working days <sup>[208](#o208)</sup>. Fees: 0.50% processing and 0.50% documentation, each at most Tk 15,000; no service charge <sup>[208](#o208)</sup>. In 2021 only about 2% of pandemic returnees got PKB's special reintegration loan, held back by too few PKB staff, poor promotion, a short grace period <sup>[N99 (2021)](#n99)</sup> and many conditions <sup>[N99 (2021)](#n99)</sup>.
 
    **You'll need** <sup>[208](#o208)</sup>:
    - The bank's free application form, at the branch in the project area.
@@ -2564,8 +2565,8 @@ Up to USD 10,000 in foreign currency comes in without declaring, and that amount
    > - Which RAISE services continue after June 2026 <sup>[209](#o209), [92 (2024)](#o92)</sup>?
 3. <a id="support-after-return-item-3"></a>**BRAC Migration Programme.** BRAC, a development organisation founded in Bangladesh in 1972, runs a Migration Programme that gives returnees airport help, counselling, help to start earning, and legal assistance <sup>[210](#o210), [211](#o211)</sup>.
 4. <a id="support-after-return-item-4"></a>**Children's scholarships.** WEWB pays scholarships to migrants' high-achieving children (Tk 27,500 a year at SSC level, Tk 34,000 at HSC level), and reserves 0.5% of HSC admission seats for them <sup>[92 (2024)](#o92)</sup>.
-5. <a id="support-after-return-item-5"></a>**If your family is threatened** or its property seized, apply to WEWB directly or through the expatriate welfare branch of the DC's office or the DEMO (District Employment and Manpower Office); WEWB writes to the local administration, such as the Deputy Commissioner or Superintendent of Police <sup>[212](#o212), [92 (2024)](#o92)</sup>.
-6. <a id="support-after-return-item-6"></a>**Savings.** An NRCTA can be kept after coming home for good, and Probash pension contributions can continue in taka ([Sending money home](#sending-money-home)) <sup>[183](#o183), [185](#o185)</sup>.
+5. <a id="support-after-return-item-5"></a>**If your family is threatened** or its property seized, apply to WEWB directly or through the expatriate welfare branch of the Deputy Commissioner's (district administrator's) office or the DEMO (District Employment and Manpower Office); WEWB writes to the local administration, such as the Deputy Commissioner or Superintendent of Police <sup>[212](#o212), [92 (2024)](#o92)</sup>.
+6. <a id="support-after-return-item-6"></a>**Savings.** An NRCTA can be kept after coming home for good, and Probash pension contributions can continue in taka ([Saving and pension in Bangladesh](#saving-and-pension-in-bangladesh)) <sup>[183](#o183), [185](#o185)</sup>.
 
 <a id="contacts"></a>
 
