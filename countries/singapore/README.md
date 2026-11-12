@@ -442,6 +442,10 @@ BCA also approves these centres to run training courses <sup>[10](#o10)</sup>. O
 - In September 2026 State Minister for Expatriates' Welfare Nurul Haque Nur said six companies in Singapore effectively monopolise recruitment and that workers are reportedly charged up to Tk 16 lakh where the cost should be about Tk 4 to 5 lakh; he said the government would summon the agencies and had discussed costs with BCA <sup>[N1](#n1)</sup>.
 - On 30 September 2026 the Ministry's secretary told workers at the High Commission that complaints against the "OTC-centred syndicate" of local agencies would be investigated <sup>[5](#o5)</sup>.
 
+> **Need to know**
+> - Which six companies in Singapore did the State Minister say monopolise recruitment, and are they the Singapore firms behind the five BCA test centres?
+> - Did the government summon the agencies after September 2026, and with what result?
+
 <a id="down-the-chain"></a>
 
 #### 1.3.4 Down the chain
@@ -460,7 +464,7 @@ A kickback is money an employer or his managers demand from a worker, with the t
 - *Lian Cheng Contracting.* Operations manager Derrick Ho was jailed 24 weeks in 2024 for taking S$1,500 for each one-year renewal (S$3,000 for two years) from 57 workers, nearly S$400,000 in all; the four worker-supervisors who collected for him were warned and barred from Singapore <sup>[N4 (2024)](#n4)</sup>. One worker paid about S$15,000 over 12 years and did not see his family in that time <sup>[N4 (2024)](#n4)</sup>.
 - *Weishen Industrial Services.* Loo Kim Huat, a director of its managing company WIS Holdings, was fined S$90,000, plus a S$42,000 penalty order, in July 2025 for collecting S$112,400 from 18 workers, S$900 to 7,000 each, to renew their passes, together with a former site manager, two conservancy workers and a Bangladesh-based agent; he repaid S$83,050 to the workers <sup>[28](#o28)</sup>.
 
-TWC2 says kickbacks were commonplace ten years ago and are fewer now, but that "churn" can bring employers the same money: the employer declines to renew and hires a new worker, whose agent fee, paid at home, is shared with the employer <sup>[N11](#n11), [N4 (2024)](#n4)</sup>. MOM says it will help a worker who reports a kickback change employer (see [Changing employer or leaving](#changing-employer-or-leaving)) <sup>[N11](#n11)</sup>.
+Kickbacks were commonplace ten years ago and are fewer now, but "churn" can bring employers the same money: the employer declines to renew and hires a new worker, whose agent fee, paid at home, is shared with the employer <sup>[N11](#n11), [N4 (2024)](#n4)</sup>. MOM helps a worker who reports a kickback to change employer (see [Changing employer or leaving](#changing-employer-or-leaving)) <sup>[N11](#n11)</sup>.
 
 <a id="the-weltec-case"></a>
 
@@ -537,7 +541,7 @@ You are tied to your employer for everything: the Work Permit lets you work only
 - **Entering.** The IPA names one company and one occupation, and the employer cannot move you to another <sup>[5](#o5)</sup>.
 - **Renewing.** The employer decides, and has priority to renew; from 2028 a new construction worker must also pass the SEC(K) in Singapore to be renewed <sup>[12](#o12), [13](#o13)</sup>. "Renewal money" is a crime (see [Kickbacks and renewal money](#kickbacks-and-renewal-money)) <sup>[28](#o28)</sup>.
 - **Quitting.** The employer cancels the permit within a week of your last day of notice, buys a one-way ticket for a flight within 14 days, and gives you a Special Pass to stay until then; you cannot work while you wait <sup>[6](#o6), [33](#o33)</sup>.
-- **Changing employer.** A new construction employer can hire you only with your current employer's consent, given within 7 days, unless your permit is 40 to 21 days from expiry <sup>[12](#o12)</sup>. A shipyard worker cannot move to another sector inside Singapore, and TWC2 says Seatrium, the largest shipyard operator, makes it hard to move between its contractors <sup>[N20](#n20)</sup>. MOM helps a worker who reports a kickback to change employer, and MWC helped the unpaid workers of 2026 apply to change employer (see [Changing employer or leaving](#changing-employer-or-leaving)) <sup>[N11](#n11), [N8](#n8)</sup>.
+- **Changing employer.** A new construction employer can hire you only with your current employer's consent, given within 7 days, unless your permit is 40 to 21 days from expiry <sup>[12](#o12)</sup>. A shipyard worker cannot move to another sector inside Singapore, and TWC2 says Seatrium, the largest shipyard operator, makes it hard to move between its contractors <sup>[N20](#n20)</sup>. MOM helps a worker who reports a kickback to change employer, and MWC is helping the unpaid workers of November 2026 apply to change employer, both those hired at the job fair and those who found new jobs on their own (see [Changing employer or leaving](#changing-employer-or-leaving)) <sup>[N11](#n11), [N8](#n8)</sup>.
 - **Leaving.** The employer must pay your ticket home whatever the reason the job ended <sup>[34 (2022)](#o34)</sup>.
 
 *Rules on your life.* You must live where the employer says, may not run a business, and may not marry a Singapore citizen or permanent resident without MOM's approval <sup>[6](#o6)</sup>. The employer pays a S$5,000 security bond for you and may not charge it to you; if the employer does not pay your salary, the bond can pay your arrears and flight home, but only up to about S$5,000 a worker <sup>[30](#o30), [N2](#n2)</sup>.
@@ -634,7 +638,7 @@ The Ministry set the total migration cost for Singapore at Tk 2,62,270 on 27 Jul
 
 #### 3.1.4 How to pay
 
-Pay the Bangladeshi agency only through the bank, into the agency's own bank account, and keep every receipt <sup>[61](#o61)</sup>. One worker whose training centre gave no receipts had no proof of what he paid (Work Permit, Scams) <sup>[N15 (2021)](#n15)</sup>.
+Pay the Bangladeshi agency only through the bank, into the agency's own bank account, and keep every receipt <sup>[61](#o61)</sup>. One worker whose training centre gave no receipts had no proof of what he paid (see [Scams](#scams)) <sup>[N15 (2021)](#n15)</sup>.
 
 <a id="step-1-check-you-qualify-and-which-jobs-are-open"></a>
 
@@ -1390,6 +1394,7 @@ Some people talk injured workers into withdrawing their WICA claim so that a law
 - **Passport or Work Permit card kept, salary cut, or work in another job:** report to MOM on 6438 5122 or at the MOM Services Centre, 1500 Bendemeer Road <sup>[121](#o121)</sup>. The employer must return your passport when you ask <sup>[141](#o141)</sup>.
 - **Bad housing:** report to MOM <sup>[121](#o121)</sup>.
 - **Kickbacks** (being made to pay to keep your job or renew your permit): report to MOM <sup>[121](#o121)</sup>.
+- **If you must stay in Singapore to help an investigation:** the investigating agency gives you a Special Pass, and you are generally allowed to work under the Temporary Job Scheme (TJS); you don't apply: you are told if you are eligible, and a new employer applies to MOM for a TJS work permit to hire you <sup>[180](#o180)</sup>. MOM refers eligible Special Pass holders who need help finding a job to employment agencies, and helps those who can't pay for their upkeep <sup>[181 (2024)](#o181), [180](#o180)</sup>.
 - **At any hour:** the MWC helpline 6536 2692, in about 10 languages, and HealthServe's crisis line +65 3129 5000 <sup>[N42 (2024)](#n42), [N38 (2021)](#n38)</sup>.
 
 <a id="if-your-employer-tries-to-send-you-home-early"></a>
@@ -1417,7 +1422,7 @@ Workers hearing this advice second-hand often fear that refusing to board will m
 - **TWC2 (Transient Workers Count Too):** 180B Bencoolen Street #09-01, The Bencoolen (office tower entrance), Singapore 189648; WhatsApp +65 6247 7001; office open 9.30am to 6pm Monday to Friday, but message first <sup>[N50](#n50)</sup>. Its Cuff Road Project in Farrer Park gives free meal cards to workers out of a job during a claim, used at 4 restaurants on weekday evenings and Saturday afternoons; it served 45,500 meals to 1,088 workers in 2025 <sup>[N44](#n44)</sup>.
 - **HealthServe:** 24-hour crisis helpline +65 3129 5000; clinic at 1 Lorong 23 Geylang, free for Special Pass holders <sup>[N38 (2021)](#n38)</sup>.
 - **ItsRainingRaincoats (IRR):** a charity offering free rides to the airport for Tuas residents flying home (Lakshmi, +65 9001 4936), a free store at 217 Henderson Road for male Work Permit holders (sign-up opens Sundays at 4pm), free dental and eye care, and luggage for home leave; contact it on Facebook <sup>[N51](#n51)</sup>.
-- **Bangladesh High Commission, Labour and Welfare Wing:** Jit Poh Building, #04-00 and #10-00, 19 Keppel Road, Singapore 089058; High Commission main line (65) 6255 0075 <sup>[180 (2022)](#o180), [181 (2022)](#o181)</sup>. The head of the wing, the Minister (Labour): +65 6661 0298 (office), +65 8725 2452 (mobile), counselorsg@probashi.gov.bd <sup>[182](#o182), [183](#o183)</sup>. First Secretary (Labour): +65 6661 0277 (office), +65 9670 4080 (mobile), fssg@probashi.gov.bd <sup>[182](#o182), [183](#o183)</sup>. Applications are taken 9.30am to 1pm on weekdays <sup>[184 (2022)](#o184)</sup>. Its listed welfare services include visits to companies, hospitals, dormitories and prisons, representation in the courts, and dispute settlement <sup>[184 (2022)](#o184)</sup>.
+- **Bangladesh High Commission, Labour and Welfare Wing:** Jit Poh Building, #04-00 and #10-00, 19 Keppel Road, Singapore 089058; High Commission main line (65) 6255 0075 <sup>[182 (2022)](#o182), [183 (2022)](#o183)</sup>. The head of the wing, the Minister (Labour): +65 6661 0298 (office), +65 8725 2452 (mobile), counselorsg@probashi.gov.bd <sup>[184](#o184), [185](#o185)</sup>. First Secretary (Labour): +65 6661 0277 (office), +65 9670 4080 (mobile), fssg@probashi.gov.bd <sup>[184](#o184), [185](#o185)</sup>. Applications are taken 9.30am to 1pm on weekdays <sup>[186 (2022)](#o186)</sup>. Its listed welfare services include visits to companies, hospitals, dormitories and prisons, representation in the courts, and dispute settlement <sup>[186 (2022)](#o186)</sup>.
 
 > **Need to know**
 > - What does the Bangladesh High Commission's labour wing actually do for a worker with an unpaid claim or a forced repatriation (visit the employer, write to MOM, give a shelter)?
@@ -1431,7 +1436,7 @@ Workers hearing this advice second-hand often fear that refusing to board will m
 
 #### 3.16.1 If you want to change employer
 
-You can move to a new employer without leaving Singapore only within your own sector, and only the new employer can apply <sup>[185](#o185), [12](#o12), [186](#o186)</sup>. Bangladesh is a Non-Traditional Source (NTS) country, and NTS workers are among those who can transfer <sup>[7](#o7), [12](#o12)</sup>. There are two ways:
+You can move to a new employer without leaving Singapore only within your own sector, and only the new employer can apply <sup>[187](#o187), [12](#o12), [188](#o188)</sup>. Bangladesh is a Non-Traditional Source (NTS) country, and NTS workers are among those who can transfer <sup>[7](#o7), [12](#o12)</sup>. There are two ways:
 
 - **With your current employer's consent, at any time** <sup>[12](#o12)</sup>:
   1. The new employer applies for a Work Permit for you; MOM sends your current employer an SMS or email <sup>[12](#o12)</sup>.
@@ -1439,7 +1444,7 @@ You can move to a new employer without leaving Singapore only within your own se
   3. Once approved, the new employer gets your new permit issued and the old one is cancelled automatically <sup>[12](#o12)</sup>.
   4. If your permit has less than 14 days left, the new employer must first get MOM's pre-approval, with a consent form signed by your current employer <sup>[12](#o12)</sup>.
 - **Without consent, only in the window 40 to 21 days before your permit expires** <sup>[12](#o12)</sup>:
-  1. The new employer applies (in manufacturing and services it must first get MOM's pre-approval) <sup>[12](#o12), [185](#o185)</sup>.
+  1. The new employer applies (in manufacturing and services it must first get MOM's pre-approval) <sup>[12](#o12), [187](#o187)</sup>.
   2. Your current employer is told and can keep you until the permit expires or is cancelled; it must still pay all salary owed for your time with it <sup>[12](#o12)</sup>.
   3. The new permit can be issued only after the old one ends, and the new employer must then get it issued quickly, or the approval is revoked and overstay fines may follow <sup>[12](#o12)</sup>.
 
@@ -1460,16 +1465,16 @@ Since July 2026 employers give transfer consent, cancel permits and request Spec
 
 #### 3.16.2 Resigning and notice
 
-Notice must be given in writing, by you or the employer; ask the employer to acknowledge your resignation in writing <sup>[187](#o187)</sup>. If your contract sets no notice period, it is 1 day if you have worked less than 26 weeks, 1 week up to 2 years, 2 weeks up to 5 years and 4 weeks after that <sup>[187](#o187)</sup>. The notice period must be the same for both sides <sup>[187](#o187)</sup>. You must serve it or pay salary in lieu of notice, unless both sides agree in writing to waive it <sup>[187](#o187)</sup>. If the employer makes you leave before your notice ends, it must pay you for the rest of the notice period <sup>[188](#o188)</sup>.
+Notice must be given in writing, by you or the employer; ask the employer to acknowledge your resignation in writing <sup>[189](#o189)</sup>. If your contract sets no notice period, it is 1 day if you have worked less than 26 weeks, 1 week up to 2 years, 2 weeks up to 5 years and 4 weeks after that <sup>[189](#o189)</sup>. The notice period must be the same for both sides <sup>[189](#o189)</sup>. You must serve it or pay salary in lieu of notice, unless both sides agree in writing to waive it <sup>[189](#o189)</sup>. If the employer makes you leave before your notice ends, it must pay you for the rest of the notice period <sup>[190](#o190)</sup>.
 
 <a id="leaving-at-the-end-of-the-job"></a>
 
 #### 3.16.3 Leaving at the end of the job
 
-1. <a id="leaving-at-the-end-of-the-job-item-1"></a>**Get your final pay.** Your final salary is due on your last day or within 3 working days of it, with pay for unused annual leave (unless you were dismissed for misconduct) <sup>[188](#o188), [187](#o187)</sup>. For tax clearance with IRAS (the Inland Revenue Authority of Singapore), which the employer should seek at least 1 month before your last day, it must hold back the money due to you, such as salary and leave pay, for up to 30 days after notifying IRAS <sup>[33](#o33), [122](#o122)</sup>.
+1. <a id="leaving-at-the-end-of-the-job-item-1"></a>**Get your final pay.** Your final salary is due on your last day or within 3 working days of it, with pay for unused annual leave (unless you were dismissed for misconduct) <sup>[190](#o190), [189](#o189)</sup>. For tax clearance with IRAS (the Inland Revenue Authority of Singapore), which the employer should seek at least 1 month before your last day, it must hold back the money due to you, such as salary and leave pay, for up to 30 days after notifying IRAS <sup>[33](#o33), [122](#o122)</sup>.
 2. <a id="leaving-at-the-end-of-the-job-item-2"></a>**Get notice of your departure.** The employer must give you reasonable notice of your repatriation and settle all salary owed before you leave <sup>[33](#o33), [123 (2020)](#o123)</sup>.
 3. <a id="leaving-at-the-end-of-the-job-item-3"></a>**Agree the journey in writing.** Before buying the ticket, the employer must agree with you in writing on connecting flights, layover hours and an allowance for the transit <sup>[33](#o33)</sup>.
-4. <a id="leaving-at-the-end-of-the-job-item-4"></a>**Get your ticket.** The employer pays your one-way ticket home with check-in baggage, departing within 14 days of the cancellation, and all connecting transport to the international airport nearest your hometown <sup>[33](#o33), [6](#o6)</sup>. It must pay however the job ended, even if you resigned <sup>[34 (2022)](#o34)</sup>. If you want to go elsewhere, you can agree it with the employer; if you can't agree, MOM decides <sup>[189](#o189), [123 (2020)](#o123)</sup>.
+4. <a id="leaving-at-the-end-of-the-job-item-4"></a>**Get your ticket.** The employer pays your one-way ticket home with check-in baggage, departing within 14 days of the cancellation, and all connecting transport to the international airport nearest your hometown <sup>[33](#o33), [6](#o6)</sup>. It must pay however the job ended, even if you resigned <sup>[34 (2022)](#o34)</sup>. If you want to go elsewhere, you can agree it with the employer; if you can't agree, MOM decides <sup>[191](#o191), [123 (2020)](#o123)</sup>.
 5. <a id="leaving-at-the-end-of-the-job-item-5"></a>**Get the Special Pass and leave in time.** The employer cancels your permit in the myMOM Portal and gives you the printed Special Pass; show it with your passport at the airport, and leave before it expires <sup>[33](#o33)</sup>.
 6. <a id="leaving-at-the-end-of-the-job-item-6"></a>**If you are still owed money,** file a TADM claim before you go (within 6 months of your last day) <sup>[167](#o167)</sup>; the employer cannot force you home while it owes you salary, and if you are taken to the airport, go to the ICA counter, as under If your employer tries to send you home early <sup>[121](#o121)</sup>.
 
@@ -1488,7 +1493,7 @@ Notice must be given in writing, by you or the employer; ask the employer to ack
 
 ## 4 S Pass
 
-The S Pass is the work pass for skilled workers, which MOM (the Ministry of Manpower) calls associate professionals and technicians, who may not meet the Employment Pass criteria; the employer applies, pays the fees and levy, and is limited by a quota <sup>[190](#o190), [191](#o191), [192](#o192), [193](#o193)</sup>. The job must pay at least S$3,300 a month now, and S$3,600 for new applications from 1 January 2027 <sup>[194](#o194), [191](#o191)</sup>. It lasts up to 2 years the first time and up to 3 years on renewal, and never beyond 1 month before your passport expires <sup>[191](#o191)</sup>. There were 177,300 S Pass holders in June 2026 <sup>[16](#o16)</sup>.
+The S Pass is the work pass for skilled workers, which MOM (the Ministry of Manpower) calls associate professionals and technicians, who may not meet the Employment Pass criteria; the employer applies, pays the fees and levy, and is limited by a quota <sup>[192](#o192), [193](#o193), [194](#o194), [195](#o195)</sup>. The job must pay at least S$3,300 a month now, and S$3,600 for new applications from 1 January 2027 <sup>[196](#o196), [193](#o193)</sup>. It lasts up to 2 years the first time and up to 3 years on renewal, and never beyond 1 month before your passport expires <sup>[193](#o193)</sup>. There were 177,300 S Pass holders in June 2026 <sup>[16](#o16)</sup>.
 
 <a id="who-can-get-it"></a>
 
@@ -1498,89 +1503,89 @@ The S Pass is the work pass for skilled workers, which MOM (the Ministry of Manp
 
 #### 4.1.1 Salary by age
 
-The minimum is set by age, against the top third of local associate professionals' and technicians' salaries <sup>[194](#o194)</sup>. From 1 January 2027 the higher figure applies to new applications, and to renewals of passes expiring from 1 January 2028 <sup>[191](#o191)</sup>.
+The minimum is set by age, against the top third of local associate professionals' and technicians' salaries <sup>[196](#o196)</sup>. From 1 January 2027 the higher figure applies to new applications, and to renewals of passes expiring from 1 January 2028 <sup>[193](#o193)</sup>.
 
 **All sectors except financial services** (now, then from 1 January 2027):
-- 23 or younger: S$3,300, then S$3,600 <sup>[194](#o194)</sup>
-- 30: S$3,777, then S$4,077 <sup>[194](#o194)</sup>
-- 35: S$4,118, then S$4,418 <sup>[194](#o194)</sup>
-- 40: S$4,459, then S$4,759 <sup>[194](#o194)</sup>
-- 45 or older: S$4,800, then S$5,100 <sup>[194](#o194)</sup>
+- 23 or younger: S$3,300, then S$3,600 <sup>[196](#o196)</sup>
+- 30: S$3,777, then S$4,077 <sup>[196](#o196)</sup>
+- 35: S$4,118, then S$4,418 <sup>[196](#o196)</sup>
+- 40: S$4,459, then S$4,759 <sup>[196](#o196)</sup>
+- 45 or older: S$4,800, then S$5,100 <sup>[196](#o196)</sup>
 
 **Financial services:**
-- 23 or younger: S$3,800, then S$4,000 <sup>[194](#o194)</sup>
-- 45 or older: S$5,650, then S$5,650 <sup>[194](#o194)</sup>
+- 23 or younger: S$3,800, then S$4,000 <sup>[196](#o196)</sup>
+- 45 or older: S$5,650, then S$5,650 <sup>[196](#o196)</sup>
 
 <a id="qualifications"></a>
 
 #### 4.1.2 Qualifications
 
-Declaring a diploma or degree is optional; if the employer declares one, the employer must make sure it is genuine and from an accredited institution on the form's list <sup>[194](#o194)</sup>. MOM's S Pass eligibility conditions are a job offer in Singapore and the qualifying salary for your age; the points-based COMPASS test is an Employment Pass requirement (see [Employment Pass](#employment-pass-ep)) <sup>[194](#o194), [195](#o195)</sup>. If MOM's Self-Assessment Tool (SAT, an online eligibility check for employers) says a candidate qualifies, the chance of approval is about 90% <sup>[194](#o194)</sup>.
+Declaring a diploma or degree is optional; if the employer declares one, the employer must make sure it is genuine and from an accredited institution on the form's list <sup>[196](#o196)</sup>. MOM's S Pass eligibility conditions are a job offer in Singapore and the qualifying salary for your age; the points-based COMPASS test is an Employment Pass requirement (see [Employment Pass](#employment-pass-ep)) <sup>[196](#o196), [197](#o197)</sup>. If MOM's Self-Assessment Tool (SAT, an online eligibility check for employers) says a candidate qualifies, the chance of approval is about 90% <sup>[196](#o196)</sup>.
 
 <a id="family"></a>
 
 #### 4.1.3 Family
 
-You can bring a spouse and children on a Dependant's Pass only if your fixed monthly salary is at least S$6,000 (see [Family passes](#family-passes)) <sup>[194](#o194)</sup>.
+You can bring a spouse and children on a Dependant's Pass only if your fixed monthly salary is at least S$6,000 (see [Family passes](#family-passes)) <sup>[196](#o196)</sup>.
 
 <a id="quota-levy-and-which-employers-can-hire"></a>
 
 ### 4.2 Quota, levy and which employers can hire
 
-- **Quota:** S Pass holders may be at most 10% of a services company's workforce, and 15% in construction, manufacturing, marine shipyard and process (petroleum, petrochemical, specialty chemical and pharmaceutical plants) <sup>[193](#o193), [50](#o50)</sup>. MOM counts the company's local employees from its CPF (Central Provident Fund, the national pension) account, averaged over the last 3 months, so the company must have a CPF account <sup>[193](#o193), [192](#o192)</sup>.
-- **Levy:** S$650 a month for every S Pass holder in every sector since 1 September 2025, paid by the employer from the day the pass is issued until it ends <sup>[193](#o193)</sup>.
-- **No security bond:** unlike a Work Permit, the employer posts no bond <sup>[196 (2024)](#o196)</sup>.
-- **Medical insurance:** the employer must buy cover of at least S$60,000 a year before the pass is issued or renewed, and can't pass the cost to you <sup>[197](#o197)</sup>. You can be asked to co-pay medical bills only up to 10% of your fixed monthly salary, for no more than 6 months in every 2 years, and only if your contract says so and you fully agree <sup>[197](#o197)</sup>.
-- **Primary Care Plan:** compulsory if you live in a dormitory for 7 or more workers or work in construction, marine shipyard or process <sup>[192](#o192)</sup>.
+- **Quota:** S Pass holders may be at most 10% of a services company's workforce, and 15% in construction, manufacturing, marine shipyard and process (petroleum, petrochemical, specialty chemical and pharmaceutical plants) <sup>[195](#o195), [50](#o50)</sup>. MOM counts the company's local employees from its CPF (Central Provident Fund, the national pension) account, averaged over the last 3 months, so the company must have a CPF account <sup>[195](#o195), [194](#o194)</sup>.
+- **Levy:** S$650 a month for every S Pass holder in every sector since 1 September 2025, paid by the employer from the day the pass is issued until it ends <sup>[195](#o195)</sup>.
+- **No security bond:** unlike a Work Permit, the employer posts no bond <sup>[198 (2024)](#o198)</sup>.
+- **Medical insurance:** the employer must buy cover of at least S$60,000 a year before the pass is issued or renewed, and can't pass the cost to you <sup>[199](#o199)</sup>. You can be asked to co-pay medical bills only up to 10% of your fixed monthly salary, for no more than 6 months in every 2 years, and only if your contract says so and you fully agree <sup>[199](#o199)</sup>.
+- **Primary Care Plan:** compulsory if you live in a dormitory for 7 or more workers or work in construction, marine shipyard or process <sup>[194](#o194)</sup>.
 
-For a construction employer, the S Pass levy of S$650 a month is lower than the S$900 levy for a basic-skilled Bangladeshi construction worker on a Work Permit, and the S Pass needs no bond or skills certificate <sup>[193](#o193), [7](#o7), [196 (2024)](#o196), [N52](#n52)</sup>. Only the S$3,300 minimum salary is higher <sup>[194](#o194)</sup>.
+For a construction employer, the S Pass levy of S$650 a month is lower than the S$900 levy for a basic-skilled Bangladeshi construction worker on a Work Permit, and the S Pass needs no bond or skills certificate <sup>[195](#o195), [7](#o7), [198 (2024)](#o198), [N52](#n52)</sup>. The S Pass minimum salary, S$3,300, is higher <sup>[196](#o196)</sup>.
 
 <a id="step-1-the-employer-advertises-the-job-on-mycareersfuture"></a>
 
 ### 4.3 Step 1: The employer advertises the job on MyCareersFuture
 
-Before applying, the employer must advertise on MyCareersFuture (the government job portal, mycareersfuture.gov.sg) and consider all candidates fairly, under the Fair Consideration Framework (FCF) <sup>[198](#o198)</sup>.
+Before applying, the employer must advertise on MyCareersFuture (the government job portal, mycareersfuture.gov.sg) and consider all candidates fairly, under the Fair Consideration Framework (FCF) <sup>[200](#o200)</sup>.
 
-- The advert stays open at least 14 consecutive days, where job seekers can view and apply <sup>[198](#o198)</sup>.
-- The job must match the occupation in the S Pass application, and the employer applying must be the one named in the advert <sup>[198](#o198)</sup>.
-- The salary range must be visible, no more than double from bottom to top, and contain the salary offered to you <sup>[198](#o198)</sup>.
-- The employer may not offer you the job during those 14 days <sup>[198](#o198)</sup>.
-- No advert is needed if the company has fewer than 10 employees or the job pays S$22,500 a month or more <sup>[198](#o198)</sup>.
+- The advert stays open at least 14 consecutive days, where job seekers can view and apply <sup>[200](#o200)</sup>.
+- The job must match the occupation in the S Pass application, and the employer applying must be the one named in the advert <sup>[200](#o200)</sup>.
+- The salary range must be visible, no more than double from bottom to top, and contain the salary offered to you <sup>[200](#o200)</sup>.
+- The employer may not offer you the job during those 14 days <sup>[200](#o200)</sup>.
+- No advert is needed if the company has fewer than 10 employees or the job pays S$22,500 a month or more <sup>[200](#o200)</sup>.
 
-**Check it:** search mycareersfuture.gov.sg for the employer's advert and compare the employer, occupation and salary with your offer <sup>[198](#o198)</sup>.
+**Check it:** search mycareersfuture.gov.sg for the employer's advert and compare the employer, occupation and salary with your offer <sup>[200](#o200)</sup>.
 
 <a id="step-2-give-your-consent-and-documents"></a>
 
 ### 4.4 Step 2: Give your consent and documents
 
-The employer must get your written consent and fill in MOM's candidate's form, which it can send you to complete <sup>[192](#o192)</sup>. You can be in Bangladesh while it applies <sup>[192](#o192)</sup>.
+The employer must get your written consent and fill in MOM's candidate's form, which it can send you to complete <sup>[194](#o194)</sup>. You can be in Bangladesh while it applies <sup>[194](#o194)</sup>.
 
 You'll need:
-- a passport valid at least 7 months <sup>[192](#o192)</sup>;
-- the passport's personal particulars page <sup>[199](#o199)</sup>;
-- if your name on the passport differs from your other papers, an explanation letter and supporting documents such as a deed poll <sup>[199](#o199)</sup>;
-- any diploma or degree you want declared, with an English translation in the same file if it is in Bangla <sup>[199](#o199), [194](#o194)</sup>.
+- a passport valid at least 7 months <sup>[194](#o194)</sup>;
+- the passport's personal particulars page <sup>[201](#o201)</sup>;
+- if your name on the passport differs from your other papers, an explanation letter and supporting documents such as a deed poll <sup>[201](#o201)</sup>;
+- any diploma or degree you want declared, with an English translation in the same file if it is in Bangla <sup>[201](#o201), [196](#o196)</sup>.
 
 <a id="step-3-the-employer-applies-and-pays-s105"></a>
 
 ### 4.5 Step 3: The employer applies and pays S$105
 
-1. The employer applies online on MOM's EP ([Employment Pass](#employment-pass-ep)) eService and can ask for you to be considered for both an Employment Pass and an S Pass <sup>[192](#o192)</sup>.
-2. It pays the S$105 application fee <sup>[192](#o192)</sup>.
-3. MOM decides or asks for more papers within 10 business days <sup>[192](#o192)</sup>.
+1. The employer applies online on MOM's EP ([Employment Pass](#employment-pass-ep)) eService and can ask for you to be considered for both an Employment Pass and an S Pass <sup>[194](#o194)</sup>.
+2. It pays the S$105 application fee <sup>[194](#o194)</sup>.
+3. MOM decides or asks for more papers within 10 business days <sup>[194](#o194)</sup>.
 
-**If refused:** only the employer or its authorised agent can appeal, within 3 months; MOM won't take an appeal from you <sup>[200](#o200)</sup>. 85% of appeals are decided within 6 weeks <sup>[200](#o200)</sup>.
+**If refused:** only the employer or its authorised agent can appeal, within 3 months; MOM won't take an appeal from you <sup>[202](#o202)</sup>. 85% of appeals are decided within 6 weeks <sup>[202](#o202)</sup>.
 
 <a id="step-4-get-and-check-the-ipa"></a>
 
 ### 4.6 Step 4: Get and check the IPA
 
-The IPA (in-principle approval) letter is a single-entry visa that gives you 60 days to enter Singapore and have the pass issued; it also says whether you need a medical check after arrival <sup>[192](#o192)</sup>.
+The IPA (in-principle approval) letter is a single-entry visa that gives you 60 days to enter Singapore and have the pass issued; it also says whether you need a medical check after arrival <sup>[194](#o194)</sup>.
 
 1. <a id="step-4-get-and-check-the-ipa-item-1"></a>**Check the application on MOM's site.** Go to MOM's "Check work pass and application status" page (service2.mom.gov.sg/workpass/enquiry, no login, also in Bengali), enter your date of birth and your passport number, or your FIN (foreign identification number) from the IPA <sup>[101](#o101)</sup>.
 2. <a id="step-4-get-and-check-the-ipa-item-2"></a>**Check the salary and job on the IPA itself.** The online check shows salary only for Work Permit holders; the IPA shows your fixed monthly salary and any fee paid to a Singapore employment agency, and an S Pass IPA names the job title <sup>[101](#o101), [29 (2024)](#o29), [N53](#n53)</sup>. Courts have enforced the IPA's terms as if they were the employment contract <sup>[N53](#n53)</sup>.
 3. <a id="step-4-get-and-check-the-ipa-item-3"></a>**If anything differs from what you were offered,** take it up with the employer before you fly; you may refuse the offer <sup>[101](#o101)</sup>.
-4. <a id="step-4-get-and-check-the-ipa-item-4"></a>**Don't fly before approval:** MOM won't extend a visit pass while a pass is pending <sup>[192](#o192)</sup>.
+4. <a id="step-4-get-and-check-the-ipa-item-4"></a>**Don't fly before approval:** MOM won't extend a visit pass while a pass is pending <sup>[194](#o194)</sup>.
 5. <a id="step-4-get-and-check-the-ipa-item-5"></a>**No IPA attestation:** the Bangladesh High Commission in Singapore has not attested IPAs since 18 April 2025 (Work Permit, [Step 6: Before you fly](#step-6-before-you-fly)) <sup>[106](#o106)</sup>.
 
 > **Need to know**
@@ -1590,17 +1595,17 @@ The IPA (in-principle approval) letter is a single-entry visa that gives you 60 
 
 ### 4.7 Step 5: Arrive, have the pass issued and get the card
 
-1. <a id="step-5-arrive-have-the-pass-issued-and-get-the-card-item-1"></a>**The employer buys your insurance** (and the Primary Care Plan if it applies) before the pass is issued <sup>[197](#o197), [192](#o192)</sup>.
-2. <a id="step-5-arrive-have-the-pass-issued-and-get-the-card-item-2"></a>**The employer has the pass issued while you are in Singapore,** within the IPA's 60 days, with the declaration form attached to the IPA, your medical examination form if the IPA asked for one, and a Singapore address that meets MOM's housing rules; it pays S$100 <sup>[192](#o192)</sup>.
-3. <a id="step-5-arrive-have-the-pass-issued-and-get-the-card-item-3"></a>**You and the employer get a notification letter by email,** valid for 1 month. It lets you start work and travel while you wait for the card <sup>[192](#o192)</sup>.
-4. <a id="step-5-arrive-have-the-pass-issued-and-get-the-card-item-4"></a>**Fingerprints and photo, if the letter says so,** within 1 week, by appointment at MOM Services Centre Hall C <sup>[192](#o192)</sup>. Bring your original passport, the appointment letter, the notification letter and a phone with a local number and the Singpass and SGWorkPass apps <sup>[192](#o192)</sup>.
-5. <a id="step-5-arrive-have-the-pass-issued-and-get-the-card-item-5"></a>**The card arrives within 5 working days** at the address given <sup>[192](#o192)</sup>. The SGWorkPass app shows your digital pass and its expiry date <sup>[192](#o192)</sup>.
+1. <a id="step-5-arrive-have-the-pass-issued-and-get-the-card-item-1"></a>**The employer buys your insurance** (and the Primary Care Plan if it applies) before the pass is issued <sup>[199](#o199), [194](#o194)</sup>.
+2. <a id="step-5-arrive-have-the-pass-issued-and-get-the-card-item-2"></a>**The employer has the pass issued while you are in Singapore,** within the IPA's 60 days, with the declaration form attached to the IPA, your medical examination form if the IPA asked for one, and a Singapore address that meets MOM's housing rules; it pays S$100 <sup>[194](#o194)</sup>.
+3. <a id="step-5-arrive-have-the-pass-issued-and-get-the-card-item-3"></a>**You and the employer get a notification letter by email,** valid for 1 month. It lets you start work and travel while you wait for the card <sup>[194](#o194)</sup>.
+4. <a id="step-5-arrive-have-the-pass-issued-and-get-the-card-item-4"></a>**Fingerprints and photo, if the letter says so,** within 1 week, by appointment at MOM Services Centre Hall C <sup>[194](#o194)</sup>. Bring your original passport, the appointment letter, the notification letter and a phone with a local number and the Singpass and SGWorkPass apps <sup>[194](#o194)</sup>.
+5. <a id="step-5-arrive-have-the-pass-issued-and-get-the-card-item-5"></a>**The card arrives within 5 working days** at the address given <sup>[194](#o194)</sup>. The SGWorkPass app shows your digital pass and its expiry date <sup>[194](#o194)</sup>.
 
 <a id="in-practice-s-pass-jobs-sold-to-workers-without-skills"></a>
 
 ### 4.8 In practice: S Pass jobs sold to workers without skills
 
-The S Pass no longer requires a qualification, and Singapore employers have put first-time Bangladeshi and Burmese workers with no trade skills on S Passes at S$3,200 to more than S$4,000 a month <sup>[194](#o194), [N52](#n52), [N54](#n54)</sup>. How these jobs are sold:
+The S Pass no longer requires a qualification, and Singapore employers have put first-time Bangladeshi and Burmese workers with no trade skills on S Passes at S$3,200 to more than S$4,000 a month <sup>[196](#o196), [N52](#n52), [N54](#n54)</sup>. How these jobs are sold:
 - Seven Bangladeshis paid the employers' family in Bogura ten lakh taka each for S Pass jobs at two related firms, Joy Engineering and Construction and Joy Construction and Engineering <sup>[N54](#n54), [N55](#n55)</sup>.
 - Four were moved to Work Permits at S$600 once they passed a basic skills course <sup>[N55](#n55)</sup>. Under a 2023 circular from MOM and the Building and Construction Authority, from 1 November 2023 S Pass construction workers in listed occupations, headed by supervisor and general foreman, can be moved to a Work Permit without that certificate if paid at least S$1,600 <sup>[N54](#n54)</sup>.
 - A Bangladeshi paid his cousin "twelve lakh" for a "Supervisor" S Pass at S$4,008, then carried materials and mixed cement for a labour-supply company <sup>[N53](#n53)</sup>.
@@ -1617,19 +1622,19 @@ Basic-skills courses cost S$5,000 to S$7,000 at Dhaka training centres and much 
 
 ### 4.9 Your rights at work
 
-- **The Employment Act** covers foreign employees on a contract of service <sup>[120](#o120)</sup>. Its Part 4 (rest days, hours of work and other conditions) covers manual workers earning up to S$4,500 basic and others up to S$2,600 <sup>[120](#o120)</sup>. So an S Pass holder doing manual work on up to S$4,500 basic is covered, and one who isn't a manual worker and earns over S$2,600 basic is not <sup>[120](#o120), [194](#o194)</sup>.
-- **Your own business:** an S Pass holder can't be a director or sole proprietor <sup>[201 (2024)](#o201)</sup>.
-- **Marriage:** you don't need MOM's approval to marry a Singaporean or PR (permanent resident) <sup>[202 (2024)](#o202)</sup>.
+- **The Employment Act** covers foreign employees on a contract of service <sup>[120](#o120)</sup>. Its Part 4 (rest days, hours of work and other conditions) covers manual workers earning up to S$4,500 basic and others up to S$2,600 <sup>[120](#o120)</sup>. So an S Pass holder doing manual work on up to S$4,500 basic is covered, and one who isn't a manual worker and earns over S$2,600 basic is not <sup>[120](#o120), [196](#o196)</sup>.
+- **Your own business:** an S Pass holder can't be a director or sole proprietor <sup>[203 (2024)](#o203)</sup>.
+- **Marriage:** you don't need MOM's approval to marry a Singaporean or PR (permanent resident) <sup>[204 (2024)](#o204)</sup>.
 - **Kickbacks** (money demanded from a worker for the job or taken back from the salary): collecting one is an offence punishable by a fine up to S$30,000, up to 2 years in jail, or both; S Pass workers face such demands too <sup>[28](#o28), [N11](#n11)</sup>.
 
 <a id="renewing-changing-employer-and-leaving"></a>
 
 ### 4.10 Renewing, changing employer and leaving
 
-- **Renewal:** the employer can apply from 6 months (180 days) before expiry <sup>[203](#o203)</sup>.
-- **Changing employer:** the new employer must apply for a new S Pass; you can't transfer the old one <sup>[191](#o191)</sup>.
-- **When the job ends:** the employer cancels the pass, which also cancels your family's passes <sup>[204](#o204)</sup>. It must seek tax clearance from IRAS (the tax authority) at least 1 month before your last day and buy your ticket home with check-in luggage unless you agree in writing to pay <sup>[204](#o204)</sup>. It can get you a Short-Term Visit Pass of up to 30 days to stay, but you can't work on it <sup>[204](#o204)</sup>.
-- **If you have left for good,** the employer must cancel the pass within 1 week of your departure <sup>[204](#o204)</sup>.
+- **Renewal:** the employer can apply from 6 months (180 days) before expiry <sup>[205](#o205)</sup>.
+- **Changing employer:** the new employer must apply for a new S Pass; you can't transfer the old one <sup>[193](#o193)</sup>.
+- **When the job ends:** the employer cancels the pass, which also cancels your family's passes <sup>[206](#o206)</sup>. It must seek tax clearance from IRAS (the tax authority) at least 1 month before your last day and buy your ticket home with check-in luggage unless you agree in writing to pay <sup>[206](#o206)</sup>. It can get you a Short-Term Visit Pass of up to 30 days to stay, but you can't work on it <sup>[206](#o206)</sup>.
+- **If you have left for good,** the employer must cancel the pass within 1 week of your departure <sup>[206](#o206)</sup>.
 
 <a id="if-you-arent-paid-1"></a>
 
@@ -1647,7 +1652,7 @@ Basic-skills courses cost S$5,000 to S$7,000 at Dhaka training centres and much 
 
 #### 4.12.1 Done to workers
 
-- **The "S Pass" that is really labour:** a high S Pass salary for a job with no skills required, sold for lakhs of taka (see [In practice: S Pass jobs sold to workers without skills](#in-practice-s-pass-jobs-sold-to-workers-without-skills)) <sup>[N52](#n52), [N54](#n54)</sup>. Check the employer's MyCareersFuture advert and the IPA (Steps 1 and 4) <sup>[198](#o198), [101](#o101)</sup>.
+- **The "S Pass" that is really labour:** a high S Pass salary for a job with no skills required, sold for lakhs of taka (see [In practice: S Pass jobs sold to workers without skills](#in-practice-s-pass-jobs-sold-to-workers-without-skills)) <sup>[N52](#n52), [N54](#n54)</sup>. Check the employer's MyCareersFuture advert and the IPA (Steps 1 and 4) <sup>[200](#o200), [101](#o101)</sup>.
 - **The downgrade:** the pass is switched to a Work Permit at a fraction of the salary once you are in Singapore <sup>[N55](#n55)</sup>.
 - **Fake calls from "MOM":** MOM never asks for money or bank log-ins <sup>[101](#o101)</sup>.
 
@@ -1655,21 +1660,21 @@ Basic-skills courses cost S$5,000 to S$7,000 at Dhaka training centres and much 
 
 #### 4.12.2 Tried by workers
 
-- **Fake diplomas and degrees:** a false declaration on a work pass application carries a fine up to S$20,000, up to 2 years in jail or both, and a permanent ban from working in Singapore <sup>[205 (2021)](#o205)</sup>. In the five years to 2021 MOM banned an average of 660 foreigners a year for fake qualifications <sup>[205 (2021)](#o205)</sup>. One S Pass holder jailed in 2021 had bought his forged degree through an agent for 40,000 rupees <sup>[N56 (2021)](#n56)</sup>.
+- **Fake diplomas and degrees:** a false declaration on a work pass application carries a fine up to S$20,000, up to 2 years in jail or both, and a permanent ban from working in Singapore <sup>[207 (2021)](#o207)</sup>. In the five years to 2021 MOM banned an average of 660 foreigners a year for fake qualifications <sup>[207 (2021)](#o207)</sup>. One S Pass holder jailed in 2021 had bought his forged degree through an agent for 40,000 rupees <sup>[N56 (2021)](#n56)</sup>.
 
 <a id="work-visa-domestic-worker-work-permit-for-migrant-domestic-workers"></a>
 
 ## 5 Work visa: domestic worker (Work Permit for migrant domestic workers)
 
-A Work Permit for a migrant domestic worker (MDW) lets a woman live and work as a helper for one Singapore household, doing only household chores at the address the employer declared to the Ministry of Manpower (MOM), Singapore's labour ministry <sup>[206](#o206), [207](#o207)</sup>. MDWs are not covered by Singapore's Employment Act, so no law fixes their working hours or public holidays; their protections are the Work Permit conditions in the Employment of Foreign Manpower (Work Passes) Regulations <sup>[208](#o208), [207](#o207)</sup>.
+A Work Permit for a migrant domestic worker (MDW) lets a woman live and work as a helper for one Singapore household, doing only household chores at the address the employer declared to the Ministry of Manpower (MOM), Singapore's labour ministry <sup>[208](#o208), [209](#o209)</sup>. MDWs are not covered by Singapore's Employment Act, so no law fixes their working hours or public holidays; their protections are the Work Permit conditions in the Employment of Foreign Manpower (Work Passes) Regulations <sup>[210](#o210), [209](#o209)</sup>.
 
-**Is the route open from Bangladesh?** Yes: Bangladesh is on the list of source countries MOM approves for MDWs <sup>[209 (2024)](#o209)</sup>. Very few women use it: Singapore had 323,800 MDWs in June 2026, while BMET (the Bureau of Manpower, Employment and Training) cleared 89 women for Singapore in 2024, 126 in 2025 and 145 from 1 January to 7 November 2026, for every kind of job, against 70,832 workers of both sexes in 2025 <sup>[16](#o16), [210](#o210), [4](#o4), [211](#o211), [20](#o20)</sup>. The High Commission of Bangladesh in Singapore lists the sectors where about 135,000 Bangladeshi workers are employed as marine, shipyard, process, conservancy, landscape and construction, with no mention of domestic work <sup>[5](#o5)</sup>. Its published sample of a "maid visa" it attested in April 2025 is a direct hire by a household, with no recruiting agency <sup>[212](#o212)</sup>.
+**Is the route open from Bangladesh?** Yes: Bangladesh is on the list of source countries MOM approves for MDWs <sup>[211 (2024)](#o211)</sup>. Very few women use it: Singapore had 323,800 MDWs in June 2026, while BMET (the Bureau of Manpower, Employment and Training) cleared 89 women for Singapore in 2024, 126 in 2025 and 145 from 1 January to 7 November 2026, for every kind of job, against 70,832 workers of both sexes in 2025 <sup>[16](#o16), [212](#o212), [4](#o4), [213](#o213), [20](#o20)</sup>. The High Commission of Bangladesh in Singapore lists the sectors where about 135,000 Bangladeshi workers are employed as marine, shipyard, process, conservancy, landscape and construction, with no mention of domestic work <sup>[5](#o5)</sup>. Its published sample of a "maid visa" it attested in April 2025 is a direct hire by a household, with no recruiting agency <sup>[214](#o214)</sup>.
 
 > **Need to know**
 > - How many of the women BMET clears for Singapore each year go as domestic workers?
 > - Which of the 21 agencies approved for women domestic workers ([Step 3: Find a real job](#step-3-find-a-real-job)) have sent helpers to Singapore since 2025?
 
-**Men cannot use this route:** the MDW Work Permit is for women only <sup>[209 (2024)](#o209)</sup>.
+**Men cannot use this route:** the MDW Work Permit is for women only <sup>[211 (2024)](#o211)</sup>.
 
 > **Need to know**
 > - Can a Singapore household employ a man from Bangladesh as a private driver, cook or gardener on any pass?
@@ -1679,17 +1684,17 @@ A Work Permit for a migrant domestic worker (MDW) lets a woman live and work as 
 ### 5.1 Who pays what
 
 **The household pays:**
-- S$35 to apply and S$35 when the permit is issued <sup>[213](#o213)</sup>
-- the S$5,000 security bond, a bank or insurer's guarantee that it may not make you pay <sup>[214](#o214)</sup>
-- medical insurance with a claim limit of at least S$60,000 a year and personal accident insurance of at least S$60,000, neither of which it may pass on to you <sup>[215](#o215)</sup>
-- the Settling-in Programme fee ([Step 7: Arrival, settling-in course, medical and your permit card](#step-7-arrival-settling-in-course-medical-and-your-permit-card)) <sup>[216](#o216)</sup>
-- the monthly levy, a charge for employing a foreigner: S$300 for a first helper, S$450 for each further helper, or S$60 for a family with a young child, an elderly member or a person with a disability; if the employer misses two months in a row, your permit is revoked the following month <sup>[217](#o217)</sup>
-- every medical exam MOM requires, including the six-monthly one, and all your medical costs <sup>[218](#o218), [219](#o219)</sup>
-- your ticket home, whenever you go, unless MOM permits otherwise <sup>[207](#o207)</sup>
+- S$35 to apply and S$35 when the permit is issued <sup>[215](#o215)</sup>
+- the S$5,000 security bond, a bank or insurer's guarantee that it may not make you pay <sup>[216](#o216)</sup>
+- medical insurance with a claim limit of at least S$60,000 a year and personal accident insurance of at least S$60,000, neither of which it may pass on to you <sup>[217](#o217)</sup>
+- the Settling-in Programme fee ([Step 7: Arrival, settling-in course, medical and your permit card](#step-7-arrival-settling-in-course-medical-and-your-permit-card)) <sup>[218](#o218)</sup>
+- the monthly levy, a charge for employing a foreigner: S$300 for a first helper, S$450 for each further helper, or S$60 for a family with a young child, an elderly member or a person with a disability; if the employer misses two months in a row, your permit is revoked the following month <sup>[219](#o219)</sup>
+- every medical exam MOM requires, including the six-monthly one, and all your medical costs <sup>[220](#o220), [221](#o221)</sup>
+- your ticket home, whenever you go, unless MOM permits otherwise <sup>[209](#o209)</sup>
 
-**What an agency may take from you.** A Singapore employment agency (EA) may charge you at most one month's salary for each year of your permit or contract, whichever is shorter, and never more than two months' salary <sup>[59](#o59)</sup>. That cap does not cover fees for costs incurred outside Singapore <sup>[59](#o59)</sup>. Your IPA letter (the in-principle approval MOM issues before you travel; [Step 4: Check the IPA letter and your contract](#step-4-check-the-ipa-letter-and-your-contract)) states what you owe a Singapore EA over a 2-year contract; in the High Commission's April 2025 sample it was S$0 <sup>[29 (2024)](#o29), [212](#o212)</sup>. The EA must give you a written receipt listing each part of any fee, and charging more than the cap is an offence you can report to MOM in confidence <sup>[59](#o59), [29 (2024)](#o29)</sup>. In Bangladesh, an agency approved to send women domestic workers may take no money from you for migration costs <sup>[220](#o220)</sup>. The household itself may not take money from an agency or anyone else for employing you <sup>[207](#o207)</sup>.
+**What an agency may take from you.** A Singapore employment agency (EA) may charge you at most one month's salary for each year of your permit or contract, whichever is shorter, and never more than two months' salary <sup>[59](#o59)</sup>. That cap does not cover fees for costs incurred outside Singapore <sup>[59](#o59)</sup>. Your IPA letter (the in-principle approval MOM issues before you travel; [Step 4: Check the IPA letter and your contract](#step-4-check-the-ipa-letter-and-your-contract)) states what you owe a Singapore EA over a 2-year contract; in the High Commission's April 2025 sample it was S$0 <sup>[29 (2024)](#o29), [214](#o214)</sup>. The EA must give you a written receipt listing each part of any fee, and charging more than the cap is an offence you can report to MOM in confidence <sup>[59](#o59), [29 (2024)](#o29)</sup>. In Bangladesh, an agency approved to send women domestic workers may take no money from you for migration costs <sup>[222](#o222)</sup>. The household itself may not take money from an agency or anyone else for employing you <sup>[209](#o209)</sup>.
 
-**The "placement loan".** Agency charges can reach a helper as a placement loan recovered from her salary <sup>[221 (2024)](#o221), [N57 (2014)](#n57)</sup>. The employer may deduct a fixed amount for it only if your contract states the amount, how long and how it is recovered <sup>[221 (2024)](#o221)</sup>. Otherwise you get the full salary declared to MOM, with nothing taken for medical costs, your ticket home or compulsory training <sup>[221 (2024)](#o221)</sup>. HOME (Humanitarian Organization for Migration Economics), a Singapore NGO, has found that helpers often learn of a higher fee only on arrival, with the contract swapped or signed after they reach the employer's home, and loans of up to 8 months' salary or more; agencies call it a loan to cover fees charged by agencies abroad <sup>[N57 (2014)](#n57)</sup>.
+**The "placement loan".** Agency charges can reach a helper as a placement loan recovered from her salary <sup>[223 (2024)](#o223), [N57 (2014)](#n57)</sup>. The employer may deduct a fixed amount for it only if your contract states the amount, how long and how it is recovered <sup>[223 (2024)](#o223)</sup>. Otherwise you get the full salary declared to MOM, with nothing taken for medical costs, your ticket home or compulsory training <sup>[223 (2024)](#o223)</sup>. HOME (Humanitarian Organization for Migration Economics), a Singapore NGO, has found that helpers often learn of a higher fee only on arrival, with the contract swapped or signed after they reach the employer's home, and loans of up to 8 months' salary or more; agencies call it a loan to cover fees charged by agencies abroad <sup>[N57 (2014)](#n57)</sup>.
 
 > **Need to know**
 > - How much placement loan do Singapore agencies deduct from a new Bangladeshi helper's salary, and over how many months?
@@ -1699,48 +1704,48 @@ A Work Permit for a migrant domestic worker (MDW) lets a woman live and work as 
 
 ### 5.2 How a household in Singapore hires
 
-1. <a id="how-a-household-in-singapore-hires-item-1"></a>**A first-time employer takes the Employers' Orientation Programme (EOP),** 3 hours, at least 2 working days before applying; it costs S$35 to S$76 in a classroom or S$29 to S$36 online <sup>[222](#o222)</sup>.
-2. <a id="how-a-household-in-singapore-hires-item-2"></a>**The employer must qualify:** 21 or older, not an undischarged bankrupt and mentally able to take responsibility; MOM also weighs the household's care needs and money <sup>[223](#o223)</sup>.
-3. <a id="how-a-household-in-singapore-hires-item-3"></a>**The employer, or an EA it authorises, applies** <sup>[213](#o213), [224 (2023)](#o224)</sup>. It first gets your written consent <sup>[213](#o213)</sup>, then submits your passport details and the family's particulars and income on MOM's online FDW eService (FDW, foreign domestic worker, is MOM's other term) (S$35, decided within 1 week unless MOM needs more information) or on a paper form (within 3 weeks in most cases) <sup>[213](#o213)</sup>. You must be outside Singapore while it is processed <sup>[209 (2024)](#o209)</sup>.
-4. <a id="how-a-household-in-singapore-hires-item-4"></a>**MOM emails the in-principle approval (IPA) letter,** the approval the employer sends you and you use as your visa <sup>[213](#o213), [212](#o212)</sup>.
-5. <a id="how-a-household-in-singapore-hires-item-5"></a>**MOM tells the employer to check with your embassy** for anything else you need to leave your country <sup>[213](#o213)</sup>. For Bangladesh, that is BMET clearance ([Step 5: BMET clearance](#step-5-bmet-clearance)) <sup>[102](#o102)</sup>.
-6. <a id="how-a-household-in-singapore-hires-item-6"></a>**If MOM rejects the application,** only the employer or the EA that applied can appeal, by pressing "Appeal" in FDW eService with up to 5 supporting documents, within 45 days of the application date but not on the same day; 90% of appeals are decided within 2 weeks <sup>[225](#o225)</sup>.
+1. <a id="how-a-household-in-singapore-hires-item-1"></a>**A first-time employer takes the Employers' Orientation Programme (EOP),** 3 hours, at least 2 working days before applying; it costs S$35 to S$76 in a classroom or S$29 to S$36 online <sup>[224](#o224)</sup>.
+2. <a id="how-a-household-in-singapore-hires-item-2"></a>**The employer must qualify:** 21 or older, not an undischarged bankrupt and mentally able to take responsibility; MOM also weighs the household's care needs and money <sup>[225](#o225)</sup>.
+3. <a id="how-a-household-in-singapore-hires-item-3"></a>**The employer, or an EA it authorises, applies** <sup>[215](#o215), [226 (2023)](#o226)</sup>. It first gets your written consent <sup>[215](#o215)</sup>, then submits your passport details and the family's particulars and income on MOM's online FDW eService (FDW, foreign domestic worker, is MOM's other term) (S$35, decided within 1 week unless MOM needs more information) or on a paper form (within 3 weeks in most cases) <sup>[215](#o215)</sup>. You must be outside Singapore while it is processed <sup>[211 (2024)](#o211)</sup>.
+4. <a id="how-a-household-in-singapore-hires-item-4"></a>**MOM emails the in-principle approval (IPA) letter,** the approval the employer sends you and you use as your visa <sup>[215](#o215), [214](#o214)</sup>.
+5. <a id="how-a-household-in-singapore-hires-item-5"></a>**MOM tells the employer to check with your embassy** for anything else you need to leave your country <sup>[215](#o215)</sup>. For Bangladesh, that is BMET clearance ([Step 5: BMET clearance](#step-5-bmet-clearance)) <sup>[102](#o102)</sup>.
+6. <a id="how-a-household-in-singapore-hires-item-6"></a>**If MOM rejects the application,** only the employer or the EA that applied can appeal, by pressing "Appeal" in FDW eService with up to 5 supporting documents, within 45 days of the application date but not on the same day; 90% of appeals are decided within 2 weeks <sup>[227](#o227)</sup>.
 
 <a id="step-1-check-you-qualify"></a>
 
 ### 5.3 Step 1: Check you qualify
 
-**Singapore's rules** <sup>[209 (2024)](#o209)</sup>:
+**Singapore's rules** <sup>[211 (2024)](#o211)</sup>:
 - a woman
 - aged 23 to under 50 when the employer applies
 - at least 8 years of formal education, with a recognised certificate
 - not related to the employer
 - outside Singapore during the application
 
-**The certificate.** For a first-time helper from Bangladesh, MOM recognises only the SSC (Secondary School Certificate) or the HSC (Higher Secondary Certificate) <sup>[226](#o226)</sup>. You hand in a photocopy before the Settling-in Programme, and MOM may send home a helper who cannot produce an acceptable certificate <sup>[226](#o226)</sup>.
+**The certificate.** For a first-time helper from Bangladesh, MOM recognises only the SSC (Secondary School Certificate) or the HSC (Higher Secondary Certificate) <sup>[228](#o228)</sup>. You hand in a photocopy before the Settling-in Programme, and MOM may send home a helper who cannot produce an acceptable certificate <sup>[228](#o228)</sup>.
 
-**Bangladesh's rules for women domestic workers** <sup>[227](#o227), [102](#o102)</sup>:
+**Bangladesh's rules for women domestic workers** <sup>[229](#o229), [102](#o102)</sup>:
 - aged 25 to 45 when you enrol in the housekeeping course (up to 50 for a woman returning from work abroad), and proof of age 25 to 45 for BMET clearance
 - to enrol in the course: not pregnant, youngest child at least 6, and no contagious or incurable disease
 
-Together, for a first-time helper, that leaves women aged 25 to 45 who have passed the SSC <sup>[209 (2024)](#o209), [227](#o227), [102](#o102), [226](#o226)</sup>. The housekeeping course asks only for class 5, so passing it does not make you eligible for Singapore <sup>[227](#o227), [226](#o226)</sup>.
+Together, for a first-time helper, that leaves women aged 25 to 45 who have passed the SSC <sup>[211 (2024)](#o211), [229](#o229), [102](#o102), [228](#o228)</sup>. The housekeeping course asks only for class 5, so passing it does not make you eligible for Singapore <sup>[229](#o229), [228](#o228)</sup>.
 
 <a id="step-2-register-on-oep-and-take-the-housekeeping-course"></a>
 
 ### 5.4 Step 2: Register on OEP and take the housekeeping course
 
 1. <a id="step-2-register-on-oep-and-take-the-housekeeping-course-item-1"></a>**Register on OEP** (the Overseas Employment Platform, BMET's online system) with your NID (national ID card), as in [Step 1: Check you qualify](#step-1-check-you-qualify): Check you qualify and which jobs are open, item 5, under the Work Permit route <sup>[61](#o61), [67](#o67)</sup>.
-2. <a id="step-2-register-on-oep-and-take-the-housekeeping-course-item-2"></a>**Take the housekeeping course.** It is a residential course of one month (24 working days) at a BMET Technical Training Centre (TTC), and it must stress the language of the destination country <sup>[227](#o227)</sup>.
+2. <a id="step-2-register-on-oep-and-take-the-housekeeping-course-item-2"></a>**Take the housekeeping course.** It is a residential course of one month (24 working days) at a BMET Technical Training Centre (TTC), and it must stress the language of the destination country <sup>[229](#o229)</sup>.
 
-   You'll need <sup>[227](#o227)</sup>:
+   You'll need <sup>[229](#o229)</sup>:
    - proof that you passed class 5
    - a no-objection letter from your legal guardian
    - a copy of your birth certificate, NID or passport
 
-   1. Apply online when BMET posts the admission notice, pay the set fee, and choose the centre and date <sup>[227](#o227)</sup>.
-   2. Bring the originals to the interview, where staff check you can read and write <sup>[227](#o227)</sup>.
-   3. Attend 90% of sessions and score 70% in the final 100-mark test <sup>[227](#o227)</sup>.
-   4. Download and print the certificate online <sup>[227](#o227)</sup>. It is valid 2 years for a first departure; if it is 2 to 3 years old you take a 3-day refresher, and after 3 years the full course again <sup>[227](#o227)</sup>.
+   1. Apply online when BMET posts the admission notice, pay the set fee, and choose the centre and date <sup>[229](#o229)</sup>.
+   2. Bring the originals to the interview, where staff check you can read and write <sup>[229](#o229)</sup>.
+   3. Attend 90% of sessions and score 70% in the final 100-mark test <sup>[229](#o229)</sup>.
+   4. Download and print the certificate online <sup>[229](#o229)</sup>. It is valid 2 years for a first departure; if it is 2 to 3 years old you take a 3-day refresher, and after 3 years the full course again <sup>[229](#o229)</sup>.
 
 > **Need to know**
 > - Does BMET require the housekeeping course for women going to Singapore as domestic workers?
@@ -1750,25 +1755,25 @@ Together, for a first-time helper, that leaves women aged 25 to 45 who have pass
 
 ### 5.5 Step 3: Find a real job
 
-1. <a id="step-3-find-a-real-job-item-1"></a>**Through an approved Bangladeshi agency.** On 1 September 2025 the Ministry of Expatriates' Welfare and Overseas Employment approved 21 licensed agencies to send women domestic workers abroad <sup>[220](#o220)</sup>. Each had to lodge a Tk 15 lakh deposit with BMET before sending anyone, and keep at least one woman on its office staff <sup>[220](#o220)</sup>. It may take no migration cost from you, and signs an undertaking that its licence can be cancelled if you are abused at work <sup>[220](#o220)</sup>.
-2. <a id="step-3-find-a-real-job-item-2"></a>**Directly from a household.** In the High Commission's April 2025 sample, the employer recruited directly, with no recruiting agency <sup>[212](#o212)</sup>.
+1. <a id="step-3-find-a-real-job-item-1"></a>**Through an approved Bangladeshi agency.** On 1 September 2025 the Ministry of Expatriates' Welfare and Overseas Employment approved 21 licensed agencies to send women domestic workers abroad <sup>[222](#o222)</sup>. Each had to lodge a Tk 15 lakh deposit with BMET before sending anyone, and keep at least one woman on its office staff <sup>[222](#o222)</sup>. It may take no migration cost from you, and signs an undertaking that its licence can be cancelled if you are abused at work <sup>[222](#o222)</sup>.
+2. <a id="step-3-find-a-real-job-item-2"></a>**Directly from a household.** In the High Commission's April 2025 sample, the employer recruited directly, with no recruiting agency <sup>[214](#o214)</sup>.
 3. <a id="step-3-find-a-real-job-item-3"></a>**Check the Singapore agency.** Search its name on MOM's EA Directory (service2.mom.gov.sg/eadirectory), which lists licensed agencies for domestic workers, their performance, and those "under revocation / suspension / surveillance" to avoid <sup>[94](#o94)</sup>. Every registered agency staff member carries a registration card with name, registration number and agency, which you can check against the directory <sup>[95 (2024)](#o95)</sup>. Unlicensed agencies may charge huge fees and not deliver the job <sup>[95 (2024)](#o95)</sup>.
-4. <a id="step-3-find-a-real-job-item-4"></a>**Never fly to Singapore to look for the job.** No Singapore agency may bring a worker in to seek work before the employer holds an IPA, and you must be outside Singapore while the permit is processed <sup>[59](#o59), [209 (2024)](#o209)</sup>.
+4. <a id="step-3-find-a-real-job-item-4"></a>**Never fly to Singapore to look for the job.** No Singapore agency may bring a worker in to seek work before the employer holds an IPA, and you must be outside Singapore while the permit is processed <sup>[59](#o59), [211 (2024)](#o211)</sup>.
 
 <a id="step-4-check-the-ipa-letter-and-your-contract"></a>
 
 ### 5.6 Step 4: Check the IPA letter and your contract
 
-1. <a id="step-4-check-the-ipa-letter-and-your-contract-item-1"></a>**Get the IPA letter before you fly.** The employer must make sure you receive your full copy at least 3 days before you leave for Singapore <sup>[123 (2020)](#o123)</sup>. You use the whole letter as your visa, and you show it to the immigration officer when you land <sup>[212](#o212), [213](#o213)</sup>.
-2. <a id="step-4-check-the-ipa-letter-and-your-contract-item-2"></a>**Check it line by line** <sup>[213](#o213), [212](#o212)</sup>:
+1. <a id="step-4-check-the-ipa-letter-and-your-contract-item-1"></a>**Get the IPA letter before you fly.** The employer must make sure you receive your full copy at least 3 days before you leave for Singapore <sup>[123 (2020)](#o123)</sup>. You use the whole letter as your visa, and you show it to the immigration officer when you land <sup>[214](#o214), [215](#o215)</sup>.
+2. <a id="step-4-check-the-ipa-letter-and-your-contract-item-2"></a>**Check it line by line** <sup>[215](#o215), [214](#o214)</sup>:
    - your name and passport number exactly as in your passport; an uncorrected error means you are refused entry
    - your basic monthly salary
    - the number of rest days a month, and what you are paid for each one you agree to work
    - the fees you owe a Singapore EA over a 2-year contract
 3. <a id="step-4-check-the-ipa-letter-and-your-contract-item-3"></a>**Check it on MOM's site.** On MOM's "Check work pass and application status" page (service2.mom.gov.sg/workpass/enquiry, also in Bengali), with no login, enter your date of birth and passport number, or the FIN (Singapore foreign identification number) printed on your IPA, to see the application <sup>[101](#o101)</sup>. Enter the date of application shown on the IPA to see the salary MOM has on record <sup>[101](#o101)</sup>. If the salary or job differs from what you were offered, raise it with the employer or agent before you travel; you may refuse the job <sup>[101](#o101)</sup>.
-4. <a id="step-4-check-the-ipa-letter-and-your-contract-item-4"></a>**Know what can change later.** You and the employer may agree in writing to change your rest days and salary <sup>[212](#o212)</sup>. The employer may cut your salary, or raise fixed monthly deductions above what it declared, only with your prior written agreement, and must tell MOM of a cut first; a raise need not be reported <sup>[123 (2020)](#o123), [228](#o228)</sup>.
-5. <a id="step-4-check-the-ipa-letter-and-your-contract-item-5"></a>**Read the contract.** A contract is encouraged, not required; MOM says it should cover salary, the placement loan, rest days a month, pay for a rest day worked, the notice period and pay in lieu of notice <sup>[208](#o208)</sup>. The sample contract the High Commission attested in April 2025 makes the helper buy her own ticket, and repay the visa cost, if she goes home within 2 years <sup>[212](#o212)</sup>. Under the Work Permit conditions the employer bears the cost of sending you home at any time unless MOM permits otherwise, and nothing may be deducted from your salary for it <sup>[207](#o207), [221 (2024)](#o221)</sup>.
-6. <a id="step-4-check-the-ipa-letter-and-your-contract-item-6"></a>**The safety agreement.** You, the employer and the EA sign an agreement on cleaning windows, in your own language; a first-time helper signs after the Settling-in Programme and before she starts work <sup>[208](#o208)</sup>. MOM publishes it in English with Bahasa Indonesia, Burmese, Khmer, Sinhalese, Tagalog, Tamil or Thai, with no Bengali version <sup>[208](#o208)</sup>.
+4. <a id="step-4-check-the-ipa-letter-and-your-contract-item-4"></a>**Know what can change later.** You and the employer may agree in writing to change your rest days and salary <sup>[214](#o214)</sup>. The employer may cut your salary, or raise fixed monthly deductions above what it declared, only with your prior written agreement, and must tell MOM of a cut first; a raise need not be reported <sup>[123 (2020)](#o123), [230](#o230)</sup>.
+5. <a id="step-4-check-the-ipa-letter-and-your-contract-item-5"></a>**Read the contract.** A contract is encouraged, not required; MOM says it should cover salary, the placement loan, rest days a month, pay for a rest day worked, the notice period and pay in lieu of notice <sup>[210](#o210)</sup>. The sample contract the High Commission attested in April 2025 makes the helper buy her own ticket, and repay the visa cost, if she goes home within 2 years <sup>[214](#o214)</sup>. Under the Work Permit conditions the employer bears the cost of sending you home at any time unless MOM permits otherwise, and nothing may be deducted from your salary for it <sup>[209](#o209), [223 (2024)](#o223)</sup>.
+6. <a id="step-4-check-the-ipa-letter-and-your-contract-item-6"></a>**The safety agreement.** You, the employer and the EA sign an agreement on cleaning windows, in your own language; a first-time helper signs after the Settling-in Programme and before she starts work <sup>[210](#o210)</sup>. MOM publishes it in English with Bahasa Indonesia, Burmese, Khmer, Sinhalese, Tagalog, Tamil or Thai, with no Bengali version <sup>[210](#o210)</sup>.
 
 > **Need to know**
 > - Which language version of the safety agreement do Bangladeshi helpers sign?
@@ -1777,7 +1782,7 @@ Together, for a first-time helper, that leaves women aged 25 to 45 who have pass
 
 ### 5.7 Step 5: BMET clearance
 
-1. <a id="step-5-bmet-clearance-item-1"></a>**High Commission attestation has been waived.** Since 18 April 2025 the High Commission of Bangladesh in Singapore no longer requires IPA letters to be attested, by a Ministry decision of 17 April 2025 <sup>[106](#o106)</sup>. Until then it attested "maid visas" too <sup>[184 (2022)](#o184)</sup>. Its published sample, attested in April 2025 and addressed to BMET's Director (Emigration & Protocol), covered <sup>[212](#o212)</sup>:
+1. <a id="step-5-bmet-clearance-item-1"></a>**High Commission attestation has been waived.** Since 18 April 2025 the High Commission of Bangladesh in Singapore no longer requires IPA letters to be attested, by a Ministry decision of 17 April 2025 <sup>[106](#o106)</sup>. Until then it attested "maid visas" too <sup>[186 (2022)](#o186)</sup>. Its published sample, attested in April 2025 and addressed to BMET's Director (Emigration & Protocol), covered <sup>[214](#o214)</sup>:
    - the IPA letter
    - the signed contract
    - the worker's bio-data sheet, with an emergency contact
@@ -1797,23 +1802,23 @@ Together, for a first-time helper, that leaves women aged 25 to 45 who have pass
 
 ### 5.8 Step 6: The household prepares for your arrival
 
-1. <a id="step-6-the-household-prepares-for-your-arrival-item-1"></a>**Security bond.** The employer buys the S$5,000 bond and makes sure it is in force on the day you land; if not, immigration refuses you entry and you are sent home <sup>[214](#o214)</sup>. The High Commission's April 2025 sample IPA asks for a bond valid for 26 months <sup>[212](#o212)</sup>. The employer prints the bond acknowledgement letter and sends you a copy <sup>[214](#o214)</sup>.
-2. <a id="step-6-the-household-prepares-for-your-arrival-item-2"></a>**Insurance:** medical and personal accident cover, as under "Who pays what" <sup>[215](#o215)</sup>.
-3. <a id="step-6-the-household-prepares-for-your-arrival-item-3"></a>**Measles:** if the household has children under 7 not fully vaccinated against measles, you must have measles immunity <sup>[229](#o229)</sup>.
-4. <a id="step-6-the-household-prepares-for-your-arrival-item-4"></a>**Settling-in Programme (SIP)** booking, if you are a first-time helper ([Step 7: Arrival, settling-in course, medical and your permit card](#step-7-arrival-settling-in-course-medical-and-your-permit-card)) <sup>[216](#o216)</sup>.
+1. <a id="step-6-the-household-prepares-for-your-arrival-item-1"></a>**Security bond.** The employer buys the S$5,000 bond and makes sure it is in force on the day you land; if not, immigration refuses you entry and you are sent home <sup>[216](#o216)</sup>. The High Commission's April 2025 sample IPA asks for a bond valid for 26 months <sup>[214](#o214)</sup>. The employer prints the bond acknowledgement letter and sends you a copy <sup>[216](#o216)</sup>.
+2. <a id="step-6-the-household-prepares-for-your-arrival-item-2"></a>**Insurance:** medical and personal accident cover, as under "Who pays what" <sup>[217](#o217)</sup>.
+3. <a id="step-6-the-household-prepares-for-your-arrival-item-3"></a>**Measles:** if the household has children under 7 not fully vaccinated against measles, you must have measles immunity <sup>[231](#o231)</sup>.
+4. <a id="step-6-the-household-prepares-for-your-arrival-item-4"></a>**Settling-in Programme (SIP)** booking, if you are a first-time helper ([Step 7: Arrival, settling-in course, medical and your permit card](#step-7-arrival-settling-in-course-medical-and-your-permit-card)) <sup>[218](#o218)</sup>.
 
 <a id="step-7-arrival-settling-in-course-medical-and-your-permit-card"></a>
 
 ### 5.9 Step 7: Arrival, settling-in course, medical and your permit card
 
-1. <a id="step-7-arrival-settling-in-course-medical-and-your-permit-card-item-1"></a>**At the airport,** show the IPA letter <sup>[213](#o213)</sup>.
-2. <a id="step-7-arrival-settling-in-course-medical-and-your-permit-card-item-2"></a>**Settling-in Programme.** A first-time helper, one who has never worked as a helper in Singapore, attends this one-day course within 7 days of arrival, not counting Sundays and public holidays, and not on the day she lands <sup>[209 (2024)](#o209), [216](#o216)</sup>. It covers living and working in Singapore, your employment conditions, working safely, and managing relationships and stress, in your own language <sup>[216](#o216)</sup>. For Bengali speakers, Absolute Kinetics runs English classes with a Bengali interpreter on Tuesdays, Thursdays and Saturdays, booked at least 2 days ahead, and Grace Management runs classes with the course translated into Bengali <sup>[N59](#n59), [N60](#n60)</sup>. Absolute Kinetics turns latecomers away <sup>[N59](#n59)</sup>. The employer pays: S$76.40 at Absolute Kinetics Consultancy, S$92.65 at Grace Management & Consultancy Services, or S$77.00 at NTUC LearningHub <sup>[216](#o216)</sup>. Bring the full IPA letter, your passport, a copy of your education certificate and a copy of the digital arrival card from ICA (the Immigration & Checkpoints Authority) <sup>[216](#o216)</sup>. You may start work only after it <sup>[216](#o216)</sup>. The programme replaced the English entry test that first-time helpers used to sit, from May 2012 <sup>[N61 (2012)](#n61)</sup>; MOM's current requirements for first-time helpers are the course and the education certificate <sup>[216](#o216), [226](#o226)</sup>.
-3. <a id="step-7-arrival-settling-in-course-medical-and-your-permit-card-item-3"></a>**Medical.** Within 2 weeks a Singapore-registered doctor tests you for tuberculosis, HIV, syphilis and malaria and checks you are fit to work; fail it and you are sent home <sup>[229](#o229)</sup>. The employer can ask the doctor for the report <sup>[229](#o229)</sup>.
-4. <a id="step-7-arrival-settling-in-course-medical-and-your-permit-card-item-4"></a>**The permit is issued.** Within 2 weeks of your arrival the employer requests it online, pays S$35 and prints the Temporary Work Permit <sup>[213](#o213)</sup>. It must give it to you: it lets you work, stay and travel until the card comes, and says whether you must register fingerprints <sup>[213](#o213)</sup>.
-5. <a id="step-7-arrival-settling-in-course-medical-and-your-permit-card-item-5"></a>**Fingerprints and photo, if required,** within 1 week at MOM Services Centre Hall C, by appointment <sup>[213](#o213)</sup>. Bring your passport, the appointment letter, the Temporary Work Permit and your phone with a Singapore number <sup>[213](#o213)</sup>. MOM registers you for Singpass (the government digital ID) and helps you set up the SGWorkPass app, which shows your digital work pass <sup>[213](#o213)</sup>.
-6. <a id="step-7-arrival-settling-in-course-medical-and-your-permit-card-item-6"></a>**Your card** is delivered 4 working days after registration <sup>[224 (2023)](#o224)</sup>. The employer must let you keep your permit; it may not hold it <sup>[207](#o207)</sup>.
-7. <a id="step-7-arrival-settling-in-course-medical-and-your-permit-card-item-7"></a>**A bank account.** The employer can apply for an account at POSB, a Singapore bank, for your salary when the permit is issued <sup>[213](#o213)</sup>.
-8. <a id="step-7-arrival-settling-in-course-medical-and-your-permit-card-item-8"></a>**In your first year, if you are a first-time helper,** MOM's partner, the Centre for Domestic Employees (CDE), a body set up by Singapore's trade union federation NTUC, interviews you twice, alone, in your first few months and again near the end of your first year, about your food, sleep, safety and rights; MOM sends your employer a letter and email, and the employer books the slot <sup>[230](#o230)</sup>. If you miss it your permit may be revoked <sup>[230](#o230)</sup>. The interviews are held at CDEConnect centres, such as Rex House, 73 Bukit Timah Road, near Little India MRT (metro) station <sup>[230](#o230), [N62](#n62)</sup>. Your EA must also check how you are settling in within 3 months <sup>[231 (2024)](#o231)</sup>.
+1. <a id="step-7-arrival-settling-in-course-medical-and-your-permit-card-item-1"></a>**At the airport,** show the IPA letter <sup>[215](#o215)</sup>.
+2. <a id="step-7-arrival-settling-in-course-medical-and-your-permit-card-item-2"></a>**Settling-in Programme.** A first-time helper, one who has never worked as a helper in Singapore, attends this one-day course within 7 days of arrival, not counting Sundays and public holidays, and not on the day she lands <sup>[211 (2024)](#o211), [218](#o218)</sup>. It covers living and working in Singapore, your employment conditions, working safely, and managing relationships and stress, in your own language <sup>[218](#o218)</sup>. For Bengali speakers, Absolute Kinetics runs English classes with a Bengali interpreter on Tuesdays, Thursdays and Saturdays, booked at least 2 days ahead, and Grace Management runs classes with the course translated into Bengali <sup>[N59](#n59), [N60](#n60)</sup>. Absolute Kinetics turns latecomers away <sup>[N59](#n59)</sup>. The employer pays: S$76.40 at Absolute Kinetics Consultancy, S$92.65 at Grace Management & Consultancy Services, or S$77.00 at NTUC LearningHub <sup>[218](#o218)</sup>. Bring the full IPA letter, your passport, a copy of your education certificate and a copy of the digital arrival card from ICA (the Immigration & Checkpoints Authority) <sup>[218](#o218)</sup>. You may start work only after it <sup>[218](#o218)</sup>. The programme replaced the English entry test that first-time helpers used to sit, from May 2012 <sup>[N61 (2012)](#n61)</sup>; MOM's current requirements for first-time helpers are the course and the education certificate <sup>[218](#o218), [228](#o228)</sup>.
+3. <a id="step-7-arrival-settling-in-course-medical-and-your-permit-card-item-3"></a>**Medical.** Within 2 weeks a Singapore-registered doctor tests you for tuberculosis, HIV, syphilis and malaria and checks you are fit to work; fail it and you are sent home <sup>[231](#o231)</sup>. The employer can ask the doctor for the report <sup>[231](#o231)</sup>.
+4. <a id="step-7-arrival-settling-in-course-medical-and-your-permit-card-item-4"></a>**The permit is issued.** Within 2 weeks of your arrival the employer requests it online, pays S$35 and prints the Temporary Work Permit <sup>[215](#o215)</sup>. It must give it to you: it lets you work, stay and travel until the card comes, and says whether you must register fingerprints <sup>[215](#o215)</sup>.
+5. <a id="step-7-arrival-settling-in-course-medical-and-your-permit-card-item-5"></a>**Fingerprints and photo, if required,** within 1 week at MOM Services Centre Hall C, by appointment <sup>[215](#o215)</sup>. Bring your passport, the appointment letter, the Temporary Work Permit and your phone with a Singapore number <sup>[215](#o215)</sup>. MOM registers you for Singpass (the government digital ID) and helps you set up the SGWorkPass app, which shows your digital work pass <sup>[215](#o215)</sup>.
+6. <a id="step-7-arrival-settling-in-course-medical-and-your-permit-card-item-6"></a>**Your card** is delivered 4 working days after registration <sup>[226 (2023)](#o226)</sup>. The employer must let you keep your permit; it may not hold it <sup>[209](#o209)</sup>.
+7. <a id="step-7-arrival-settling-in-course-medical-and-your-permit-card-item-7"></a>**A bank account.** The employer can apply for an account at POSB, a Singapore bank, for your salary when the permit is issued <sup>[215](#o215)</sup>.
+8. <a id="step-7-arrival-settling-in-course-medical-and-your-permit-card-item-8"></a>**In your first year, if you are a first-time helper,** MOM's partner, the Centre for Domestic Employees (CDE), a body set up by Singapore's trade union federation NTUC, interviews you twice, alone, in your first few months and again near the end of your first year, about your food, sleep, safety and rights; MOM sends your employer a letter and email, and the employer books the slot <sup>[232](#o232)</sup>. If you miss it your permit may be revoked <sup>[232](#o232)</sup>. The interviews are held at CDEConnect centres, such as Rex House, 73 Bukit Timah Road, near Little India MRT (metro) station <sup>[232](#o232), [N62](#n62)</sup>. Your EA must also check how you are settling in within 3 months <sup>[233 (2024)](#o233)</sup>.
 
 <a id="scams-2"></a>
 
@@ -1824,28 +1829,28 @@ Together, for a first-time helper, that leaves women aged 25 to 45 who have pass
 #### 5.10.1 Done to workers
 
 **Placement debt and "agency loan" deductions:** The trick is a fee bigger than agreed, revealed only after arrival, in a contract swapped or signed at the employer's home, when the worker has little choice but to accept <sup>[N57 (2014)](#n57)</sup>. The fee cap does not cover fees a Singapore EA charges for costs incurred outside Singapore <sup>[59](#o59)</sup>, and agencies call the extra a loan to pay agencies abroad <sup>[N57 (2014)](#n57)</sup>.
-- **How to spot it:** the IPA letter shows the fees you owe a Singapore EA, and MOM's status page shows your salary before you fly ([Step 4: Check the IPA letter and your contract](#step-4-check-the-ipa-letter-and-your-contract)) <sup>[212](#o212), [101](#o101)</sup>.
-- **What protects you:** a loan can be deducted only as a fixed amount stated in your contract, with its length and method <sup>[221 (2024)](#o221)</sup>; the EA must give an itemised receipt <sup>[59](#o59)</sup>; a Bangladeshi agency approved to send women domestic workers may take nothing for migration costs <sup>[220](#o220)</sup>.
+- **How to spot it:** the IPA letter shows the fees you owe a Singapore EA, and MOM's status page shows your salary before you fly ([Step 4: Check the IPA letter and your contract](#step-4-check-the-ipa-letter-and-your-contract)) <sup>[214](#o214), [101](#o101)</sup>.
+- **What protects you:** a loan can be deducted only as a fixed amount stated in your contract, with its length and method <sup>[223 (2024)](#o223)</sup>; the EA must give an itemised receipt <sup>[59](#o59)</sup>; a Bangladeshi agency approved to send women domestic workers may take nothing for migration costs <sup>[222](#o222)</sup>.
 - **Report overcharging** to MOM in confidence <sup>[29 (2024)](#o29)</sup>.
 
 **Loan sharks and money requests:** Helpers who borrow from unlicensed moneylenders lose their work pass and are barred from working in Singapore <sup>[N63](#n63)</sup>. MOM officers never ask you to transfer money or give bank log-in details; call the ScamShield Helpline, 1799, if unsure <sup>[101](#o101)</sup>.
 
-**Being sent to work somewhere else:** You may work only for your employer, only at the address declared to MOM, and only on household chores; sending you to work at another address or on non-domestic work is illegal deployment <sup>[206](#o206)</sup>. The employer can face a penalty of up to S$10,000 and a ban from employing helpers <sup>[206](#o206)</sup>. Caring for the employer's child or parent at a relative's home is allowed only with your written agreement, notice to MOM first, and without doing the full housework of both homes <sup>[206](#o206)</sup>.
+**Being sent to work somewhere else:** You may work only for your employer, only at the address declared to MOM, and only on household chores; sending you to work at another address or on non-domestic work is illegal deployment <sup>[208](#o208)</sup>. The employer can face a penalty of up to S$10,000 and a ban from employing helpers <sup>[208](#o208)</sup>. Caring for the employer's child or parent at a relative's home is allowed only with your written agreement, notice to MOM first, and without doing the full housework of both homes <sup>[208](#o208)</sup>.
 
 **Fake job offers and fake IPA letters:** Any IPA letter can be checked on MOM's status page with your date of birth and passport number before you pay anyone ([Step 4: Check the IPA letter and your contract](#step-4-check-the-ipa-letter-and-your-contract)) <sup>[101](#o101)</sup>; the wider fake-offer scams are under "Scams" in the Work Permit route.
 
 > **Need to know**
 > - Are Bangladeshi women being offered Singapore "maid" jobs on Facebook or by village brokers, and what do they pay?
 
-**Going on a visit visa to find work:** No Singapore EA may bring you in to look for a household before the employer holds an IPA, and you must be outside Singapore while the permit is processed ([Step 3: Find a real job](#step-3-find-a-real-job)) <sup>[59](#o59), [209 (2024)](#o209)</sup>.
+**Going on a visit visa to find work:** No Singapore EA may bring you in to look for a household before the employer holds an IPA, and you must be outside Singapore while the permit is processed ([Step 3: Find a real job](#step-3-find-a-real-job)) <sup>[59](#o59), [211 (2024)](#o211)</sup>.
 
-**A contract that makes you pay to go home:** The High Commission's April 2025 sample contract has the helper pay her own ticket, and repay the visa cost, if she leaves within 2 years; the Work Permit conditions put the cost of sending you home on the employer ([Step 4: Check the IPA letter and your contract](#step-4-check-the-ipa-letter-and-your-contract)) <sup>[212](#o212), [207](#o207)</sup>.
+**A contract that makes you pay to go home:** The High Commission's April 2025 sample contract has the helper pay her own ticket, and repay the visa cost, if she leaves within 2 years; the Work Permit conditions put the cost of sending you home on the employer ([Step 4: Check the IPA letter and your contract](#step-4-check-the-ipa-letter-and-your-contract)) <sup>[214](#o214), [209](#o209)</sup>.
 
 <a id="tried-by-workers-2"></a>
 
 #### 5.10.2 Tried by workers
 
-**Fake education certificates and false details:** MOM may ask you to show the certificates behind the education declared in your application, and a copy goes to the Settling-in Programme centre <sup>[212](#o212), [216](#o216)</sup>. A false declaration of any kind in a work pass application can bring a fine of up to S$20,000, up to 2 years' jail, or both, and a permanent ban from working in Singapore <sup>[205 (2021)](#o205)</sup>. When MOM detects a false qualification it rejects the application and bars the person for life; in the five years to 2021 it barred an average of 660 foreigners a year this way <sup>[205 (2021)](#o205)</sup>.
+**Fake education certificates and false details:** MOM may ask you to show the certificates behind the education declared in your application, and a copy goes to the Settling-in Programme centre <sup>[214](#o214), [218](#o218)</sup>. A false declaration of any kind in a work pass application can bring a fine of up to S$20,000, up to 2 years' jail, or both, and a permanent ban from working in Singapore <sup>[207 (2021)](#o207)</sup>. When MOM detects a false qualification it rejects the application and bars the person for life; in the five years to 2021 it barred an average of 660 foreigners a year this way <sup>[207 (2021)](#o207)</sup>.
 
 **A "sponsor" who lets you work outside:** In one scheme a household holds the helper's permit and pays only the levy, while she lives elsewhere and cleans for other homes; a Filipina who did this for 12 years, repaying most of the levy to her "sponsor", was jailed for 16 weeks, fined S$25,000 and barred from working in Singapore <sup>[N64](#n64)</sup>.
 
@@ -1861,23 +1866,23 @@ Together, for a first-time helper, that leaves women aged 25 to 45 who have pass
 
 #### 5.11.1 Pay
 
-There is no minimum salary <sup>[224 (2023)](#o224)</sup>. The High Commission's April 2025 sample IPA for a Bangladeshi helper shows a basic salary of S$600 a month <sup>[212](#o212)</sup>; starting salaries for helpers generally run S$550 to S$650 <sup>[N63](#n63)</sup>. You can see the salary MOM has on record on MOM's status page and, once working, in the SGWorkPass app <sup>[101](#o101)</sup>.
-- The employer pays every month, no later than 7 days after the end of the salary period <sup>[232 (2024)](#o232)</sup>.
-- It pays at least the salary declared to MOM, whether or not there is work <sup>[207](#o207)</sup>.
-- If you ask, it must pay into your bank account, which should not be a joint account with the employer <sup>[232 (2024)](#o232)</sup>.
-- If it pays cash, you both sign a record of each payment <sup>[232 (2024)](#o232)</sup>.
-- It must not keep your salary, your money, your bank book or your bank card, even if you ask it to <sup>[232 (2024)](#o232)</sup>.
+There is no minimum salary <sup>[226 (2023)](#o226)</sup>. The High Commission's April 2025 sample IPA for a Bangladeshi helper shows a basic salary of S$600 a month <sup>[214](#o214)</sup>; starting salaries for helpers generally run S$550 to S$650 <sup>[N63](#n63)</sup>. You can see the salary MOM has on record on MOM's status page and, once working, in the SGWorkPass app <sup>[101](#o101)</sup>.
+- The employer pays every month, no later than 7 days after the end of the salary period <sup>[234 (2024)](#o234)</sup>.
+- It pays at least the salary declared to MOM, whether or not there is work <sup>[209](#o209)</sup>.
+- If you ask, it must pay into your bank account, which should not be a joint account with the employer <sup>[234 (2024)](#o234)</sup>.
+- If it pays cash, you both sign a record of each payment <sup>[234 (2024)](#o234)</sup>.
+- It must not keep your salary, your money, your bank book or your bank card, even if you ask it to <sup>[234 (2024)](#o234)</sup>.
 
 <a id="rest-days-and-rest"></a>
 
 #### 5.11.2 Rest days and rest
 
-- One rest day a week, on a day you both agree <sup>[207](#o207)</sup>.
-- You may agree in writing beforehand to work a rest day, for a replacement day in the same month or at least one day's pay (your monthly pay divided by 26), paid on top of your salary with your next month's pay <sup>[207](#o207), [219](#o219)</sup>.
-- At least one rest day a month can never be swapped for money <sup>[219](#o219), [233 (2022)](#o233)</sup>.
-- It can be one full day or two half days, you can spend it at home, and it can be pushed back by up to one month <sup>[219](#o219)</sup>.
-- A new helper's first rest day must come within 30 days of starting work, unless you agree in writing to defer it <sup>[207](#o207)</sup>.
-- The employer must give you adequate rest every day, but no law sets your hours <sup>[207](#o207), [208](#o208)</sup>.
+- One rest day a week, on a day you both agree <sup>[209](#o209)</sup>.
+- You may agree in writing beforehand to work a rest day, for a replacement day in the same month or at least one day's pay (your monthly pay divided by 26), paid on top of your salary with your next month's pay <sup>[209](#o209), [221](#o221)</sup>.
+- At least one rest day a month can never be swapped for money <sup>[221](#o221), [235 (2022)](#o235)</sup>.
+- It can be one full day or two half days, you can spend it at home, and it can be pushed back by up to one month <sup>[221](#o221)</sup>.
+- A new helper's first rest day must come within 30 days of starting work, unless you agree in writing to defer it <sup>[209](#o209)</sup>.
+- The employer must give you adequate rest every day, but no law sets your hours <sup>[209](#o209), [210](#o210)</sup>.
 
 About 90 employers a year have been penalised since 2023 for denying the monthly rest day; the maximum is a S$10,000 fine, a year's jail or both <sup>[N67](#n67)</sup>. HOME reports helpers denied rest days, especially early in the contract, made to work much of their day off because no law says how long a rest day is, and working 12 to 18 hours a day <sup>[N68](#n68)</sup>.
 
@@ -1885,46 +1890,46 @@ About 90 employers a year have been penalised since 2023 for denying the monthly
 
 #### 5.11.3 Leave
 
-The Employment Act's rules on public holidays don't cover you <sup>[208](#o208)</sup>. Whether home leave is paid depends on your contract; a common practice is 14 days of paid home leave for every 2 years worked <sup>[234 (2024)](#o234)</sup>. Without a contract term, the employer need not pay you while you are on home leave <sup>[221 (2024)](#o221)</sup>.
+The Employment Act's rules on public holidays don't cover you <sup>[210](#o210)</sup>. Whether home leave is paid depends on your contract; a common practice is 14 days of paid home leave for every 2 years worked <sup>[236 (2024)](#o236)</sup>. Without a contract term, the employer need not pay you while you are on home leave <sup>[223 (2024)](#o223)</sup>.
 
 <a id="food-room-and-safety"></a>
 
 #### 5.11.4 Food, room and safety
 
-- Three meals a day, and no food you cannot eat for religious reasons <sup>[219](#o219)</sup>.
-- A mattress, pillow, blanket, toiletries, ventilation and a safe place to sleep <sup>[219](#o219)</sup>.
-- Never in the same room as an adult or teenage male <sup>[219](#o219)</sup>.
-- A separate room if possible, otherwise enough space and privacy <sup>[219](#o219)</sup>.
-- You must be told about any cameras, and there may be none where you sleep, change or wash <sup>[219](#o219)</sup>.
-- You may not clean the outside of a window above ground level (other than one facing a common corridor) unless it has a locked grille, you stay inside with only your arms beyond the ledge, and an adult supervises <sup>[207](#o207)</sup>.
+- Three meals a day, and no food you cannot eat for religious reasons <sup>[221](#o221)</sup>.
+- A mattress, pillow, blanket, toiletries, ventilation and a safe place to sleep <sup>[221](#o221)</sup>.
+- Never in the same room as an adult or teenage male <sup>[221](#o221)</sup>.
+- A separate room if possible, otherwise enough space and privacy <sup>[221](#o221)</sup>.
+- You must be told about any cameras, and there may be none where you sleep, change or wash <sup>[221](#o221)</sup>.
+- You may not clean the outside of a window above ground level (other than one facing a common corridor) unless it has a locked grille, you stay inside with only your arms beyond the ledge, and an adult supervises <sup>[209](#o209)</sup>.
 
 <a id="your-phone-passport-and-permit"></a>
 
 #### 5.11.5 Your phone, passport and permit
 
-No MOM rule sets your phone use; MOM's employer guidance calls the phone your personal property and says you should have access to it <sup>[N69](#n69), [235 (2024)](#o235)</sup>. HOME reports helpers whose phones were kept by the employer, or who could use them only half an hour on Sunday or late at night <sup>[N69](#n69)</sup>. The High Commission's April 2025 sample contract limits phone use to rest time <sup>[212](#o212)</sup>. Your employer should not keep your passport, and must not keep your Work Permit; an agency must hand your passport back to you as soon as it has found you a job <sup>[141](#o141), [207](#o207), [59](#o59)</sup>. HOME still sees many helpers whose passports and permits were taken, and who were not given their IPA letter or contract <sup>[N68](#n68)</sup>.
+No MOM rule sets your phone use; MOM's employer guidance calls the phone your personal property and says you should have access to it <sup>[N69](#n69), [237 (2024)](#o237)</sup>. HOME reports helpers whose phones were kept by the employer, or who could use them only half an hour on Sunday or late at night <sup>[N69](#n69)</sup>. The High Commission's April 2025 sample contract limits phone use to rest time <sup>[214](#o214)</sup>. Your employer should not keep your passport, and must not keep your Work Permit; an agency must hand your passport back to you as soon as it has found you a job <sup>[141](#o141), [209](#o209), [59](#o59)</sup>. HOME still sees many helpers whose passports and permits were taken, and who were not given their IPA letter or contract <sup>[N68](#n68)</sup>.
 
 <a id="health"></a>
 
 #### 5.11.6 Health
 
-- The employer pays all your medical costs, including hospital, and buys your insurance <sup>[219](#o219), [215](#o215)</sup>.
-- Every 6 months you take the six-monthly medical exam (6ME): pregnancy and syphilis tests each time, HIV every 2 years, TB once after 2 years, plus your weight (body mass index) and any visible signs of abuse <sup>[218](#o218)</sup>.
-- The employer pays for it, and should not be in the room <sup>[218](#o218)</sup>.
-- If you fail it, your permit is cancelled and you are sent home at once <sup>[218](#o218)</sup>.
-- From age 50 there is no 6ME, only a medical at renewal <sup>[218](#o218)</sup>.
+- The employer pays all your medical costs, including hospital, and buys your insurance <sup>[221](#o221), [217](#o217)</sup>.
+- Every 6 months you take the six-monthly medical exam (6ME): pregnancy and syphilis tests each time, HIV every 2 years, TB once after 2 years, plus your weight (body mass index) and any visible signs of abuse <sup>[220](#o220)</sup>.
+- The employer pays for it, and should not be in the room <sup>[220](#o220)</sup>.
+- If you fail it, your permit is cancelled and you are sent home at once <sup>[220](#o220)</sup>.
+- From age 50 there is no 6ME, only a medical at renewal <sup>[220](#o220)</sup>.
 
 <a id="pregnancy-and-marriage"></a>
 
 #### 5.11.7 Pregnancy and marriage
 
-You may not become pregnant or give birth in Singapore, during your permit or after it, unless you are already married to a Singapore citizen or permanent resident (PR) with approval <sup>[207](#o207)</sup>. You may not marry a citizen or PR, in Singapore or abroad, without MOM's prior approval, even after the permit ends <sup>[207](#o207)</sup>. The clinic, at your 6ME, or your employer must report a pregnancy to MOM <sup>[228](#o228)</sup>. Breaking these rules can end your right to work in Singapore and bar you from entering for a time <sup>[166](#o166)</sup>. How to apply to marry is under Family passes, Spouse of a Singapore citizen or PR, [Step 2: Register on OEP and take the housekeeping course](#step-2-register-on-oep-and-take-the-housekeeping-course) <sup>[166](#o166)</sup>.
+You may not become pregnant or give birth in Singapore, during your permit or after it, unless you are already married to a Singapore citizen or permanent resident (PR) with approval <sup>[209](#o209)</sup>. You may not marry a citizen or PR, in Singapore or abroad, without MOM's prior approval, even after the permit ends <sup>[209](#o209)</sup>. The clinic, at your 6ME, or your employer must report a pregnancy to MOM <sup>[230](#o230)</sup>. Breaking these rules can end your right to work in Singapore and bar you from entering for a time <sup>[166](#o166)</sup>. How to apply to marry is under Family passes, Spouse of a Singapore citizen or PR, [Step 2: Register on OEP and take the housekeeping course](#step-2-register-on-oep-and-take-the-housekeeping-course) <sup>[166](#o166)</sup>.
 
 <a id="abuse"></a>
 
 #### 5.11.8 Abuse
 
-Physical or sexual abuse, threats, neglect and anything that harms your health, safety or welfare are banned <sup>[207](#o207)</sup>. The police investigate abuse; a convicted employer and spouse are banned for life from employing a helper <sup>[236 (2024)](#o236)</sup>. Among helpers HOME assisted in 2025, the most common problems were verbal abuse (331), overwork (236), threats (227), confiscated documents (201), no full rest days (184) and food problems (184) <sup>[N68](#n68)</sup>.
+Physical or sexual abuse, threats, neglect and anything that harms your health, safety or welfare are banned <sup>[209](#o209)</sup>. The police investigate abuse; a convicted employer and spouse are banned for life from employing a helper <sup>[238 (2024)](#o238)</sup>. Among helpers HOME assisted in 2025, the most common problems were verbal abuse (331), overwork (236), threats (227), confiscated documents (201), no full rest days (184) and food problems (184) <sup>[N68](#n68)</sup>.
 
 <a id="if-something-goes-wrong-1"></a>
 
@@ -1934,13 +1939,13 @@ Physical or sexual abuse, threats, neglect and anything that harms your health, 
 
 #### 5.12.1 Who to call
 
-- **In danger:** police, 999 <sup>[237](#o237)</sup>.
-- **MOM's MDW Helpline:** 1800 339 5505, Monday to Friday, 8.30 am to 5.30 pm, only for helpers in distress <sup>[237](#o237)</sup>.
-- **CDE (Centre for Domestic Employees):** 24-hour helpline 1800 2255 233 <sup>[N70 (2023)](#n70)</sup>. Both lines give advice in helpers' own languages <sup>[231 (2024)](#o231)</sup>.
+- **In danger:** police, 999 <sup>[239](#o239)</sup>.
+- **MOM's MDW Helpline:** 1800 339 5505, Monday to Friday, 8.30 am to 5.30 pm, only for helpers in distress <sup>[239](#o239)</sup>.
+- **CDE (Centre for Domestic Employees):** 24-hour helpline 1800 2255 233 <sup>[N70 (2023)](#n70)</sup>. Both lines give advice in helpers' own languages <sup>[233 (2024)](#o233)</sup>.
 - **HOME:** Domestic Worker Helpline +65 9787 3122, by call, SMS or WhatsApp, 7 days a week; HOME gives shelter, food and legal help to abused domestic workers <sup>[N71](#n71), [N68](#n68)</sup>.
 - **FAST (Foreign Domestic Worker Association for Social Support and Training):** helpline 1800 3394 357, office 3 Chin Cheng Avenue, Singapore 429401 <sup>[N72](#n72)</sup>.
-- **MOM in person:** MOM Services Centre Hall A, 1500 Bendemeer Road, Singapore 339946, or MOM's online form for reporting unpaid salary, overwork or too little food <sup>[238](#o238)</sup>.
-- **High Commission of Bangladesh:** 19 Keppel Road, (65) 6255 0075, mission.singapore@mofa.gov.bd <sup>[180 (2022)](#o180)</sup>. Its labour wing: +65 6661 0298 (office) or +65 8725 2452 (mobile), counselorsg@probashi.gov.bd, or its First Secretary at fssg@probashi.gov.bd <sup>[183](#o183), [182](#o182)</sup>. It works complaints through MOM, the police, employers and NGOs such as TWC2 (Transient Workers Count Too), HOME, HealthServe (a migrant workers' health charity) and the Migrant Workers' Centre, and asks for written complaints with proof <sup>[5](#o5)</sup>. At its 2026 meetings workers raised costs and pay by word of mouth, but none had filed a written complaint with proof <sup>[5](#o5)</sup>.
+- **MOM in person:** MOM Services Centre Hall A, 1500 Bendemeer Road, Singapore 339946, or MOM's online form for reporting unpaid salary, overwork or too little food <sup>[240](#o240)</sup>.
+- **High Commission of Bangladesh:** 19 Keppel Road, (65) 6255 0075, mission.singapore@mofa.gov.bd <sup>[182 (2022)](#o182)</sup>. Its labour wing: +65 6661 0298 (office) or +65 8725 2452 (mobile), counselorsg@probashi.gov.bd, or its First Secretary at fssg@probashi.gov.bd <sup>[185](#o185), [184](#o184)</sup>. It works complaints through MOM, the police, employers and NGOs such as TWC2 (Transient Workers Count Too), HOME, HealthServe (a migrant workers' health charity) and the Migrant Workers' Centre, and asks for written complaints with proof <sup>[5](#o5)</sup>. At its 2026 meetings workers raised costs and pay by word of mouth, but none had filed a written complaint with proof <sup>[5](#o5)</sup>.
 
 **From Bangladesh,** you or a close relative can report harassment of a woman worker abroad to the Ministry of Expatriates' Welfare at aswelfare@probashi.gov.bd, with copies of your passport, smart card and residence permit and the agency's details; it is free and handled in 7 working days <sup>[99](#o99)</sup>.
 
@@ -1948,19 +1953,19 @@ Physical or sexual abuse, threats, neglect and anything that harms your health, 
 
 #### 5.12.2 What happens when you ask for help
 
-HOME's helplines took about 1,200 calls from domestic workers in 2025, and its shelter housed 501 women <sup>[N68](#n68)</sup>. Its staff first encourage a worker to settle the problem with the employer or agent, and refer her for casework and shelter if she is unsafe or cannot <sup>[N68](#n68)</sup>. Changing employer still depends on the current employer's consent: HOME reports helpers who asked to transfer and were sent home instead, with MOM leaving the decision to the employer; in one case MOM told a helper that, if she and the employer could not agree, she would be sent to her home country <sup>[N68](#n68)</sup>. HOME also reports that employers often threaten helpers with being sent home or "blacklisted" <sup>[N68](#n68)</sup>. A bad reference from an employer does not by itself bar you: in MOM's referee system, helpers face employment bans only if convicted of criminal offences <sup>[228](#o228)</sup>. MOM does bar helpers for borrowing from loan sharks, false qualifications and breaking the marriage and pregnancy rules (see [Scams](#scams-2); see [Pregnancy and marriage](#pregnancy-and-marriage)) <sup>[N63](#n63), [205 (2021)](#o205), [166](#o166)</sup>.
+HOME's helplines took about 1,200 calls from domestic workers in 2025, and its shelter housed 501 women <sup>[N68](#n68)</sup>. Its staff first encourage a worker to settle the problem with the employer or agent, and refer her for casework and shelter if she is unsafe or cannot <sup>[N68](#n68)</sup>. Changing employer still depends on the current employer's consent: HOME reports helpers who asked to transfer and were sent home instead, with MOM leaving the decision to the employer; in one case MOM told a helper that, if she and the employer could not agree, she would be sent to her home country <sup>[N68](#n68)</sup>. HOME also reports that employers often threaten helpers with being sent home or "blacklisted" <sup>[N68](#n68)</sup>. A bad reference from an employer does not by itself bar you: in MOM's referee system, helpers face employment bans only if convicted of criminal offences <sup>[230](#o230)</sup>. MOM does bar helpers for borrowing from loan sharks, false qualifications and breaking the marriage and pregnancy rules (see [Scams](#scams-2); see [Pregnancy and marriage](#pregnancy-and-marriage)) <sup>[N63](#n63), [207 (2021)](#o207), [166](#o166)</sup>.
 
 <a id="if-your-employer-reports-you-missing"></a>
 
 #### 5.12.3 If your employer reports you missing
 
-Within a week of finding you gone, the employer files a missing-person police report and cancels your permit <sup>[228](#o228)</sup>. If you are not found within a month of the cancellation, half of the S$5,000 bond is forfeited <sup>[228](#o228)</sup>.
+Within a week of finding you gone, the employer files a missing-person police report and cancels your permit <sup>[230](#o230)</sup>. If you are not found within a month of the cancellation, half of the S$5,000 bond is forfeited <sup>[230](#o230)</sup>.
 
 <a id="if-a-helper-dies"></a>
 
 #### 5.12.4 If a helper dies
 
-The employer pays for burial or cremation in Singapore or for sending the body home, as the family decides, returns her belongings and pays any money owed to her estate <sup>[207](#o207)</sup>. Her next of kin can claim compensation from the employer through the Ministry of Expatriates' Welfare (aswelfare@probashi.gov.bd), as under "If a worker dies" <sup>[99](#o99)</sup>.
+The employer pays for burial or cremation in Singapore or for sending the body home, as the family decides, returns her belongings and pays any money owed to her estate <sup>[209](#o209)</sup>. Her next of kin can claim compensation from the employer through the Ministry of Expatriates' Welfare (aswelfare@probashi.gov.bd), as under "If a worker dies" <sup>[99](#o99)</sup>.
 
 <a id="changing-employer-or-leaving-as-a-domestic-worker"></a>
 
@@ -1970,45 +1975,45 @@ The employer pays for burial or cremation in Singapore or for sending the body h
 
 #### 5.13.1 Changing employer
 
-1. <a id="changing-employer-item-1"></a>**Directly:** at least 30 days before your permit expires, the new employer checks you have done your 6ME and that your permit is valid for more than 30 days, then asks your current employer's consent online and applies <sup>[239 (2024)](#o239)</sup>. Your current employer approves the request online <sup>[239 (2024)](#o239)</sup>. You and the new employer sign a declaration form, and the new permit must be issued within 21 days of approval or before your current permit expires, whichever is earlier <sup>[239 (2024)](#o239)</sup>.
-2. <a id="changing-employer-item-2"></a>**Through an EA:** only if you agree <sup>[240](#o240)</sup>. The EA cancels your permit and then pays for your housing, food, medical treatment and S$60,000 medical insurance until you start with a new employer or leave <sup>[240](#o240)</sup>. If no employer is found before your Special Pass (the short pass that lets you stay after a permit is cancelled, up to 30 days) runs out, the EA pays your ticket home <sup>[240](#o240)</sup>. MOM can give an EA demerit points if it fails these duties <sup>[240](#o240)</sup>.
+1. <a id="changing-employer-item-1"></a>**Directly:** at least 30 days before your permit expires, the new employer checks you have done your 6ME and that your permit is valid for more than 30 days, then asks your current employer's consent online and applies <sup>[241 (2024)](#o241)</sup>. Your current employer approves the request online <sup>[241 (2024)](#o241)</sup>. You and the new employer sign a declaration form, and the new permit must be issued within 21 days of approval or before your current permit expires, whichever is earlier <sup>[241 (2024)](#o241)</sup>.
+2. <a id="changing-employer-item-2"></a>**Through an EA:** only if you agree <sup>[242](#o242)</sup>. The EA cancels your permit and then pays for your housing, food, medical treatment and S$60,000 medical insurance until you start with a new employer or leave <sup>[242](#o242)</sup>. If no employer is found before your Special Pass (the short pass that lets you stay after a permit is cancelled, up to 30 days) runs out, the EA pays your ticket home <sup>[242](#o242)</sup>. MOM can give an EA demerit points if it fails these duties <sup>[242](#o242)</sup>.
 
 <a id="ending-the-job"></a>
 
 #### 5.13.2 Ending the job
 
-Either side may end the contract with the notice the contract states, or pay salary instead of notice; you can both agree to waive it <sup>[208](#o208)</sup>. If an employer you were placed with by an EA ends your job within 6 months, other than at your request or when the contract ends, the EA must refund at least 50% of the fees you paid it, unless you ran away <sup>[59](#o59)</sup>. About 64% of helpers stay with an employer beyond 6 months; early endings are mostly down to mismatched expectations of the work and communication barriers <sup>[N67](#n67)</sup>.
+Either side may end the contract with the notice the contract states, or pay salary instead of notice; you can both agree to waive it <sup>[210](#o210)</sup>. If an employer you were placed with by an EA ends your job within 6 months, other than at your request or when the contract ends, the EA must refund at least 50% of the fees you paid it, unless you ran away <sup>[59](#o59)</sup>. About 64% of helpers stay with an employer beyond 6 months; early endings are mostly down to mismatched expectations of the work and communication barriers <sup>[N67](#n67)</sup>.
 
 <a id="leaving-singapore"></a>
 
 #### 5.13.3 Leaving Singapore
 
-1. The employer agrees your last working day with you and settles your salary and any other claims <sup>[241](#o241)</sup>.
-2. It agrees in writing your transit and the allowance for the journey, then buys your ticket, with check-in luggage, to an international airport in Bangladesh with reasonable access to your home town <sup>[242 (2024)](#o242), [207](#o207)</sup>.
-3. You leave within 2 weeks of the permit being cancelled, on a Special Pass the employer prints for you; you cannot work after cancellation <sup>[242 (2024)](#o242), [241](#o241)</sup>.
+1. The employer agrees your last working day with you and settles your salary and any other claims <sup>[243](#o243)</sup>.
+2. It agrees in writing your transit and the allowance for the journey, then buys your ticket, with check-in luggage, to an international airport in Bangladesh with reasonable access to your home town <sup>[244 (2024)](#o244), [209](#o209)</sup>.
+3. You leave within 2 weeks of the permit being cancelled, on a Special Pass the employer prints for you; you cannot work after cancellation <sup>[244 (2024)](#o244), [243](#o243)</sup>.
 
 <a id="renewing"></a>
 
 #### 5.13.4 Renewing
 
-MOM sends the employer a renewal letter about 8 weeks before the permit expires; each permit lasts up to 2 years, and from age 50 you can be renewed only until 60 <sup>[243](#o243), [224 (2023)](#o224), [209 (2024)](#o209)</sup>. Your passport's expiry no longer limits the permit <sup>[243](#o243)</sup>.
+MOM sends the employer a renewal letter about 8 weeks before the permit expires; each permit lasts up to 2 years, and from age 50 you can be renewed only until 60 <sup>[245](#o245), [226 (2023)](#o226), [211 (2024)](#o211)</sup>. Your passport's expiry no longer limits the permit <sup>[245](#o245)</sup>.
 
 <a id="home-leave"></a>
 
 #### 5.13.5 Home leave
 
-Take your passport and digital work pass or card to come back in <sup>[244](#o244)</sup>. Pay during leave is under "Leave" <sup>[234 (2024)](#o234)</sup>. MOM's guidance warns helpers not to carry goods for other people out of or into Singapore <sup>[234 (2024)](#o234)</sup>.
+Take your passport and digital work pass or card to come back in <sup>[246](#o246)</sup>. Pay during leave is under "Leave" <sup>[236 (2024)](#o236)</sup>. MOM's guidance warns helpers not to carry goods for other people out of or into Singapore <sup>[236 (2024)](#o236)</sup>.
 
 <a id="visit-visa-tourism-family-and-friends"></a>
 
 ## 6 Visit visa (tourism, family and friends)
 
-A Bangladeshi with an ordinary passport visiting Singapore as a tourist, to see family or friends, or for business needs an entry visa, applied for and approved before travelling (see [Visas not open to Bangladeshis](#visas-not-open-to-bangladeshis)) <sup>[41](#o41), [245](#o245)</sup>. The visa is only permission to travel and ask for entry: at Changi, ICA officers decide whether to let you in and for how many days, and a valid visa doesn't guarantee entry <sup>[41](#o41), [246](#o246)</sup>. The same visa covers social and business visits; Form 14A (the visa application form) asks which purpose applies <sup>[2](#o2), [247](#o247)</sup>. A visit pass doesn't allow work, apart from a few short activities MOM exempts (see [Can you work?](#can-you-work)) <sup>[38](#o38)</sup>.
+A Bangladeshi with an ordinary passport visiting Singapore as a tourist, to see family or friends, or for business needs an entry visa, applied for and approved before travelling (see [Visas not open to Bangladeshis](#visas-not-open-to-bangladeshis)) <sup>[41](#o41), [247](#o247)</sup>. The visa is only permission to travel and ask for entry: at Changi, ICA officers decide whether to let you in and for how many days, and a valid visa doesn't guarantee entry <sup>[41](#o41), [248](#o248)</sup>. The same visa covers social and business visits; Form 14A (the visa application form) asks which purpose applies <sup>[2](#o2), [249](#o249)</sup>. A visit pass doesn't allow work, apart from a few short activities MOM exempts (see [Can you work?](#can-you-work)) <sup>[38](#o38)</sup>.
 
 There are two ways to apply:
 
-- **Through an Authorised Visa Agent (AVA) in Dhaka:** the High Commission of Singapore in Dhaka takes applications only online through one of its AVAs, the travel agencies (and two medical firms) it has appointed <sup>[41](#o41), [248](#o248)</sup>. This is the route for anyone without a local contact in Singapore <sup>[248](#o248)</sup>.
-- **Through a local contact in Singapore:** a Singapore citizen or permanent resident (PR) aged 21 or over with a Singpass account (Singapore's government login) submits the application online on ICA's "Apply for Entry Visa" e-Service <sup>[2](#o2), [249](#o249)</sup>.
+- **Through an Authorised Visa Agent (AVA) in Dhaka:** the High Commission of Singapore in Dhaka takes applications only online through one of its AVAs, the travel agencies (and two medical firms) it has appointed <sup>[41](#o41), [250](#o250)</sup>. This is the route for anyone without a local contact in Singapore <sup>[250](#o250)</sup>.
+- **Through a local contact in Singapore:** a Singapore citizen or permanent resident (PR) aged 21 or over with a Singpass account (Singapore's government login) submits the application online on ICA's "Apply for Entry Visa" e-Service <sup>[2](#o2), [251](#o251)</sup>.
 
 <a id="cost-and-time"></a>
 
@@ -2021,7 +2026,7 @@ There are two ways to apply:
   > - Is there a cap on the AVA service charge set by the High Commission?
 
 - **Processing time:** at least 5 working days through the High Commission in Dhaka, excluding the day of submission, and longer for incomplete files or in peak periods <sup>[41](#o41)</sup>. Some applications take more than a month <sup>[N73](#n73)</sup>. Through a local contact in Singapore, ICA processes within 3 working days, excluding the day of submission, though some take longer <sup>[2](#o2)</sup>.
-- **Validity and entries:** ICA decides how long each visa is valid, so apply about 30 days before you travel <sup>[250](#o250), [2](#o2)</sup>. Form 14A lets you ask for a single, double, triple or multiple journey visa, but you may be given a single or double journey visa instead of the multiple journey visa you asked for <sup>[247](#o247), [251](#o251)</sup>. To ask for a longer validity, give the reason in the "Additional Information" field <sup>[252](#o252)</sup>. A visa's validity can't be extended and its type can't be changed; you apply again once it expires or is used <sup>[253](#o253)</sup>.
+- **Validity and entries:** ICA decides how long each visa is valid, so apply about 30 days before you travel <sup>[252](#o252), [2](#o2)</sup>. Form 14A lets you ask for a single, double, triple or multiple journey visa, but you may be given a single or double journey visa instead of the multiple journey visa you asked for <sup>[249](#o249), [253](#o253)</sup>. To ask for a longer validity, give the reason in the "Additional Information" field <sup>[254](#o254)</sup>. A visa's validity can't be extended and its type can't be changed; you apply again once it expires or is used <sup>[255](#o255)</sup>.
 
 <a id="step-1-find-a-local-contact-or-go-to-an-ava"></a>
 
@@ -2049,10 +2054,10 @@ There are two ways to apply:
 
 You'll need:
 
-- **Your passport,** valid at least 6 months from the day you arrive; with less, you can't apply <sup>[41](#o41), [254](#o254)</sup>.
+- **Your passport,** valid at least 6 months from the day you arrive; with less, you can't apply <sup>[41](#o41), [256](#o256)</sup>.
 - **A photocopy of the passport's bio-data page** <sup>[41](#o41)</sup>.
-- **Form 14A,** filled in and signed by you; the form is free from ICA's website <sup>[2](#o2), [247](#o247)</sup>. It asks for your occupation, annual income in Singapore dollars, the type of visa, the purpose, where you will stay in Singapore (a relative's or friend's home, or a hotel) with the full address, any country you lived in for a year or more in the last 5 years, and whether you have ever been refused entry, deported, convicted or prohibited from entering Singapore <sup>[247](#o247)</sup>. False or misleading answers can be prosecuted and any pass withdrawn <sup>[247](#o247)</sup>.
-- **Form V39A (the LOI),** signed by your local contact: an individual adds the NRIC (Singapore identity card) number, address, phone and email, and a company its UEN (Unique Entity Number, its registration number) and the signatory's name, NRIC and designation <sup>[255](#o255)</sup>.
+- **Form 14A,** filled in and signed by you; the form is free from ICA's website <sup>[2](#o2), [249](#o249)</sup>. It asks for your occupation, annual income in Singapore dollars, the type of visa, the purpose, where you will stay in Singapore (a relative's or friend's home, or a hotel) with the full address, any country you lived in for a year or more in the last 5 years, and whether you have ever been refused entry, deported, convicted or prohibited from entering Singapore <sup>[249](#o249)</sup>. False or misleading answers can be prosecuted and any pass withdrawn <sup>[249](#o249)</sup>.
+- **Form V39A (the LOI),** signed by your local contact: an individual adds the NRIC (Singapore identity card) number, address, phone and email, and a company its UEN (Unique Entity Number, its registration number) and the signatory's name, NRIC and designation <sup>[257](#o257)</sup>.
 - **A recent colour photo:** taken within 3 months, white background, matt or semi-matt, full face, face 25 to 35 mm from chin to crown; religious headgear is allowed if it doesn't hide the face <sup>[41](#o41)</sup>. Saimon Global asks for two <sup>[N73](#n73)</sup>.
 - **Supporting papers the AVA asks for:** Saimon Global asks for an air ticket booking, a hotel booking, and a bank statement with a solvency certificate <sup>[N73](#n73)</sup>. ICA can ask for more documents case by case <sup>[2](#o2)</sup>.
 - **Translations** of any document not in English, by the issuing country's embassy or a notary public, or a private translation attested by the embassy or notarised <sup>[2](#o2)</sup>.
@@ -2068,8 +2073,8 @@ You'll need:
 
 1. <a id="step-3-submit-at-the-ava-and-pay-item-1"></a>**Hand in the papers in person.** Saimon Global takes applications Sunday to Thursday, 9 am to 2 pm, and returns passports 9 am to 4 pm, at its Singapore Visa Application Center, Wali Center (3rd floor), House 74, Gulshan Avenue, Gulshan 1 <sup>[N73](#n73)</sup>.
 2. <a id="step-3-submit-at-the-ava-and-pay-item-2"></a>**Pay the visa fee in taka and the service charge** (see [Cost and time](#cost-and-time)); neither is refunded <sup>[N73](#n73), [2](#o2)</sup>.
-3. <a id="step-3-submit-at-the-ava-and-pay-item-3"></a>**Get the visa reference number** from the agent: you need it with your passport number to track the application and retrieve the e-Visa <sup>[256](#o256), [257](#o257)</sup>.
-4. <a id="step-3-submit-at-the-ava-and-pay-item-4"></a>**Wait at least 5 working days** <sup>[41](#o41)</sup>. If it is still pending after that, go back to the AVA, which is also your contact for any question about the application <sup>[251](#o251)</sup>.
+3. <a id="step-3-submit-at-the-ava-and-pay-item-3"></a>**Get the visa reference number** from the agent: you need it with your passport number to track the application and retrieve the e-Visa <sup>[258](#o258), [259](#o259)</sup>.
+4. <a id="step-3-submit-at-the-ava-and-pay-item-4"></a>**Wait at least 5 working days** <sup>[41](#o41)</sup>. If it is still pending after that, go back to the AVA, which is also your contact for any question about the application <sup>[253](#o253)</sup>.
 
 > **Need to know**
 > - What receipt does an AVA give (printed SAVE acknowledgement with the reference number, or only a money receipt)?
@@ -2079,17 +2084,17 @@ You'll need:
 
 ### 6.5 Step 4: Check the e-Visa is real and print it
 
-1. <a id="step-4-check-the-e-visa-is-real-and-print-it-item-1"></a>**Collect the e-Visa:** an approved visa is a PDF e-Visa, printed for you from SAVE by the AVA or your local contact <sup>[258](#o258), [2](#o2)</sup>.
-2. <a id="step-4-check-the-e-visa-is-real-and-print-it-item-2"></a>**Check it yourself** on ICA's e-Service: open "Enquire Application Status" at eservices.ica.gov.sg/esvclandingpage/save and enter the visa reference number and your passport number; a genuine e-Visa comes up there <sup>[257](#o257)</sup>. The validity is printed on it <sup>[259](#o259)</sup>. If you have no reference number, ask ICA through its online enquiry form (go.gov.sg/ica-visa-enquiry) with your name and passport number <sup>[259](#o259), [260](#o260)</sup>.
-3. <a id="step-4-check-the-e-visa-is-real-and-print-it-item-3"></a>**Print it and carry it:** airlines and Bangladesh's immigration at the departure airport are likely to ask for it <sup>[261](#o261)</sup>.
+1. <a id="step-4-check-the-e-visa-is-real-and-print-it-item-1"></a>**Collect the e-Visa:** an approved visa is a PDF e-Visa, printed for you from SAVE by the AVA or your local contact <sup>[260](#o260), [2](#o2)</sup>.
+2. <a id="step-4-check-the-e-visa-is-real-and-print-it-item-2"></a>**Check it yourself** on ICA's e-Service: open "Enquire Application Status" at eservices.ica.gov.sg/esvclandingpage/save and enter the visa reference number and your passport number; a genuine e-Visa comes up there <sup>[259](#o259)</sup>. The validity is printed on it <sup>[261](#o261)</sup>. If you have no reference number, ask ICA through its online enquiry form (go.gov.sg/ica-visa-enquiry) with your name and passport number <sup>[261](#o261), [262](#o262)</sup>.
+3. <a id="step-4-check-the-e-visa-is-real-and-print-it-item-3"></a>**Print it and carry it:** airlines and Bangladesh's immigration at the departure airport are likely to ask for it <sup>[263](#o263)</sup>.
 
 <a id="step-5-submit-the-sg-arrival-card"></a>
 
 ### 6.6 Step 5: Submit the SG Arrival Card
 
 1. <a id="step-5-submit-the-sg-arrival-card-item-1"></a>**Fill in the SG Arrival Card (SGAC)** within the 3 days before you arrive, counting the arrival day: arriving on 30 June, you can submit from 28 June <sup>[117](#o117)</sup>. It includes a health declaration, and it is not a visa <sup>[117](#o117), [45](#o45)</sup>.
-2. <a id="step-5-submit-the-sg-arrival-card-item-2"></a>**Use only ICA's own service:** eservices.ica.gov.sg/sgarrivalcard/ or the free MyICA app; it costs nothing <sup>[258](#o258), [117](#o117)</sup>. Some look-alike websites charge a "processing fee" for it, and official ICA addresses always contain ".ica.gov.sg" <sup>[262](#o262)</sup>.
-3. <a id="step-5-submit-the-sg-arrival-card-item-3"></a>**Give an email address you can open:** your e-Pass (electronic visit pass) will be sent there <sup>[263](#o263)</sup>. You receive an acknowledgement email and a DE number (Disembarkation/Embarkation number) <sup>[117](#o117), [258](#o258)</sup>.
+2. <a id="step-5-submit-the-sg-arrival-card-item-2"></a>**Use only ICA's own service:** eservices.ica.gov.sg/sgarrivalcard/ or the free MyICA app; it costs nothing <sup>[260](#o260), [117](#o117)</sup>. Some look-alike websites charge a "processing fee" for it, and official ICA addresses always contain ".ica.gov.sg" <sup>[264](#o264)</sup>.
+3. <a id="step-5-submit-the-sg-arrival-card-item-3"></a>**Give an email address you can open:** your e-Pass (electronic visit pass) will be sent there <sup>[265](#o265)</sup>. You receive an acknowledgement email and a DE number (Disembarkation/Embarkation number) <sup>[117](#o117), [260](#o260)</sup>.
 4. <a id="step-5-submit-the-sg-arrival-card-item-4"></a>**If your health changes after submitting,** update it with "Update SGAC"; a false declaration is an offence <sup>[117](#o117)</sup>.
 
 One submission can cover up to 3 trips <sup>[117](#o117)</sup>.
@@ -2098,7 +2103,7 @@ One submission can cover up to 3 trips <sup>[117](#o117)</sup>.
 
 ### 6.7 Step 6: Arrive at Changi
 
-At the immigration counter you show only your passport, as the SGAC is already on file; ICA officers then decide whether to admit you <sup>[117](#o117), [258](#o258)</sup>. They check the basic entry requirements <sup>[246](#o246)</sup>:
+At the immigration counter you show only your passport, as the SGAC is already on file; ICA officers then decide whether to admit you <sup>[117](#o117), [260](#o260)</sup>. They check the basic entry requirements <sup>[248](#o248)</sup>:
 
 - a passport valid at least 6 months;
 - the Singapore visa;
@@ -2106,20 +2111,20 @@ At the immigration counter you show only your passport, as the SGAC is already o
 - enough money for the stay;
 - a visa for your next country, if you are going on.
 
-Possession of the visa doesn't guarantee entry, and permission to enter is entirely at the officer's discretion <sup>[41](#o41), [247](#o247)</sup>.
+Possession of the visa doesn't guarantee entry, and permission to enter is entirely at the officer's discretion <sup>[41](#o41), [249](#o249)</sup>.
 
 > **Need to know**
 > - What amount of cash or card balance do Changi officers expect a Bangladeshi visitor to show?
 > - Do Changi officers ask Bangladeshi visitors to show the hotel booking or the host's address given on Form 14A?
 > - How often are Bangladeshi first-time visitors refused entry at Changi, and are they sent back on the same airline?
 
-After you clear immigration, the e-Pass arrives by email; it has no passport stamp and shows the number of days granted and your last day <sup>[263](#o263), [45](#o45)</sup>. If it doesn't arrive, check your spam folder or download it from the e-Pass Enquiry Portal (eservices.ica.gov.sg/sgarrivalcard/epassenquiry) with your DE number or passport details <sup>[264](#o264), [263](#o263)</sup>.
+After you clear immigration, the e-Pass arrives by email; it has no passport stamp and shows the number of days granted and your last day <sup>[265](#o265), [45](#o45)</sup>. If it doesn't arrive, check your spam folder or download it from the e-Pass Enquiry Portal (eservices.ica.gov.sg/sgarrivalcard/epassenquiry) with your DE number or passport details <sup>[266](#o266), [265](#o265)</sup>.
 
 <a id="how-long-you-can-stay"></a>
 
 ### 6.8 How long you can stay
 
-The officer at the checkpoint decides your stay, and the e-Pass shows it; it has nothing to do with how long your visa is valid <sup>[265](#o265), [45](#o45)</sup>. The pass ends on its last day or when you leave Singapore <sup>[265](#o265)</sup>.
+The officer at the checkpoint decides your stay, and the e-Pass shows it; it has nothing to do with how long your visa is valid <sup>[267](#o267), [45](#o45)</sup>. The pass ends on its last day or when you leave Singapore <sup>[267](#o267)</sup>.
 
 > **Need to know**
 > - How many days do Changi officers usually grant Bangladeshi tourists (14 or 30)?
@@ -2140,16 +2145,16 @@ ICA decides how long to extend, based on your reasons and whether you have Singa
 
 ### 6.9 Can you work?
 
-No. A visitor may not do any job, paid or unpaid, or any business, without a work pass, except the short activities MOM (the Ministry of Manpower) exempts (see [Business visit](#business-visit)) <sup>[38](#o38)</sup>. On Form 14A you sign an undertaking not to work, and the form warns that overstaying or working illegally can bring mandatory jail and caning <sup>[247](#o247)</sup>. Breaking the undertaking lets the Controller of Immigration cancel your pass and order you to leave within 24 hours <sup>[247](#o247)</sup>. An overstayer can be jailed up to six months and caned at least three strokes, or fined up to S$6,000, then deported and barred from returning <sup>[35](#o35)</sup>. In December 2025 ICA arrested three visitors in Jurong West whose social visit passes had expired and who were suspected of working illegally, and in 2020 it arrested four Bangladeshis doing cleaning work in private homes without valid passes <sup>[N75](#n75), [39 (2020)](#o39)</sup>. A Bangladeshi overstayer working at a Singapore minimart was jailed one month and caned three strokes, then deported and barred <sup>[35](#o35)</sup>.
+No. A visitor may not do any job, paid or unpaid, or any business, without a work pass, except the short activities MOM (the Ministry of Manpower) exempts (see [Business visit](#business-visit)) <sup>[38](#o38)</sup>. On Form 14A you sign an undertaking not to work, and the form warns that overstaying or working illegally can bring mandatory jail and caning <sup>[249](#o249)</sup>. Breaking the undertaking lets the Controller of Immigration cancel your pass and order you to leave within 24 hours <sup>[249](#o249)</sup>. An overstayer can be jailed up to six months and caned at least three strokes, or fined up to S$6,000, then deported and barred from returning <sup>[35](#o35)</sup>. In December 2025 ICA arrested three visitors in Jurong West whose social visit passes had expired and who were suspected of working illegally, and in 2020 it arrested four Bangladeshis doing cleaning work in private homes without valid passes <sup>[N75](#n75), [39 (2020)](#o39)</sup>. A Bangladeshi overstayer working at a Singapore minimart was jailed one month and caned three strokes, then deported and barred <sup>[35](#o35)</sup>.
 
 <a id="if-the-visa-is-refused"></a>
 
 ### 6.10 If the visa is refused
 
-Neither the High Commission nor ICA tells you why <sup>[251](#o251), [266](#o266)</sup>. You have two options:
+Neither the High Commission nor ICA tells you why <sup>[253](#o253), [268](#o268)</sup>. You have two options:
 
-- **Through the AVA:** ask it to submit an appeal for reassessment to the High Commission, which decides case by case <sup>[251](#o251)</sup>.
-- **Through your local contact:** within 1 month of the refusal, they send an appeal to ICA through its enquiry form (go.gov.sg/ica-visa-enquiry) with a copy of your passport bio-data page, their signed letter asking ICA to reconsider and why, any other supporting papers, and their NRIC date of issue <sup>[267](#o267)</sup>. An appeal generally takes 14 working days, and the result shows on "Enquire Application Status" <sup>[267](#o267)</sup>.
+- **Through the AVA:** ask it to submit an appeal for reassessment to the High Commission, which decides case by case <sup>[253](#o253)</sup>.
+- **Through your local contact:** within 1 month of the refusal, they send an appeal to ICA through its enquiry form (go.gov.sg/ica-visa-enquiry) with a copy of your passport bio-data page, their signed letter asking ICA to reconsider and why, any other supporting papers, and their NRIC date of issue <sup>[269](#o269)</sup>. An appeal generally takes 14 working days, and the result shows on "Enquire Application Status" <sup>[269](#o269)</sup>.
 
 > **Need to know**
 > - Does the AVA charge again for an appeal for reassessment, and how long does the High Commission take?
@@ -2163,7 +2168,7 @@ Neither the High Commission nor ICA tells you why <sup>[251](#o251), [266](#o266
 
 #### 6.11.1 A visit visa "with a job"
 
-A visit visa never lets you work, whatever a broker promises, and visitors caught working are arrested (see [Can you work?](#can-you-work)) <sup>[38](#o38), [247](#o247), [N75](#n75)</sup>. A job in Singapore needs a work pass, which the employer applies for (see [S Pass](#s-pass), and Employment Pass (EP)) <sup>[38](#o38), [268](#o268)</sup>.
+A visit visa never lets you work, whatever a broker promises, and visitors caught working are arrested (see [Can you work?](#can-you-work)) <sup>[38](#o38), [249](#o249), [N75](#n75)</sup>. A job in Singapore needs a work pass, which the employer applies for (see [S Pass](#s-pass), and Employment Pass (EP)) <sup>[38](#o38), [270](#o270)</sup>.
 
 > **Need to know**
 > - What do Dhaka brokers charge for a Singapore "visit visa with job" package in 2026, and how many Bangladeshis were refused entry or caught working on visit visas last year?
@@ -2172,22 +2177,22 @@ A visit visa never lets you work, whatever a broker promises, and visitors caugh
 
 #### 6.11.2 Fake e-Visas and fake agents
 
-Any e-Visa can be checked on ICA's "Enquire Application Status" with its reference number and your passport number ([Step 4: Check the e-Visa is real and print it](#step-4-check-the-e-visa-is-real-and-print-it)) <sup>[257](#o257)</sup>. Only the 22 AVAs listed in [Step 1: Find a local contact or go to an AVA](#step-1-find-a-local-contact-or-go-to-an-ava) can submit an application in Dhaka <sup>[41](#o41)</sup>. Fake websites copy ICA's look to steal personal details; real ICA addresses contain ".ica.gov.sg", and fake sites can be reported to Singapore Police on the anti-scam helpline 1800 722 6688 or at police.gov.sg/i-witness <sup>[262](#o262)</sup>. The SG Arrival Card is free; sites that charge for it are not ICA <sup>[117](#o117), [262](#o262)</sup>.
+Any e-Visa can be checked on ICA's "Enquire Application Status" with its reference number and your passport number ([Step 4: Check the e-Visa is real and print it](#step-4-check-the-e-visa-is-real-and-print-it)) <sup>[259](#o259)</sup>. Only the 22 AVAs listed in [Step 1: Find a local contact or go to an AVA](#step-1-find-a-local-contact-or-go-to-an-ava) can submit an application in Dhaka <sup>[41](#o41)</sup>. Fake websites copy ICA's look to steal personal details; real ICA addresses contain ".ica.gov.sg", and fake sites can be reported to Singapore Police on the anti-scam helpline 1800 722 6688 or at police.gov.sg/i-witness <sup>[264](#o264)</sup>. The SG Arrival Card is free; sites that charge for it are not ICA <sup>[117](#o117), [264](#o264)</sup>.
 
 <a id="scams-tried-by-travellers"></a>
 
 #### 6.11.3 Scams tried by travellers
 
-- **Lying on Form 14A,** for example hiding a past refusal or deportation, can be prosecuted <sup>[247](#o247)</sup>.
+- **Lying on Form 14A,** for example hiding a past refusal or deportation, can be prosecuted <sup>[249](#o249)</sup>.
 - **Travelling on another country's passport:** in 2023, Changi immigration caught two Bangladeshis using Indian passports bought through an agent and sent them back to India, where they were arrested <sup>[N76 (2023)](#n76)</sup>.
 
 <a id="where-to-get-help-on-a-visit-visa"></a>
 
 ### 6.12 Where to get help on a visit visa
 
-- **About a pending or refused application in Dhaka:** the AVA you applied through, which the High Commission names as the contact for applicants <sup>[251](#o251)</sup>.
-- **The High Commission of Singapore in Dhaka:** Ventura Avenue (5th floor), 8/B Gulshan Avenue (Bir Uttam Mir Showkat Sharak), Dhaka 1212; +880-2-222-280-404; singhc_dha@mfa.sg; Sunday to Thursday, 9 am to 5 pm; emergency +880-181-955-7146 <sup>[269](#o269)</sup>.
-- **About a visa, e-Visa or reference number:** ICA's online enquiry form, go.gov.sg/ica-visa-enquiry <sup>[260](#o260), [259](#o259)</sup>.
+- **About a pending or refused application in Dhaka:** the AVA you applied through, which the High Commission names as the contact for applicants <sup>[253](#o253)</sup>.
+- **The High Commission of Singapore in Dhaka:** Ventura Avenue (5th floor), 8/B Gulshan Avenue (Bir Uttam Mir Showkat Sharak), Dhaka 1212; +880-2-222-280-404; singhc_dha@mfa.sg; Sunday to Thursday, 9 am to 5 pm; emergency +880-181-955-7146 <sup>[271](#o271)</sup>.
+- **About a visa, e-Visa or reference number:** ICA's online enquiry form, go.gov.sg/ica-visa-enquiry <sup>[262](#o262), [261](#o261)</sup>.
 - **About an extension you can't submit online:** ICA's STVP enquiry form, go.gov.sg/ica-stvp-enquiry, with a screenshot of the error, your name, date of birth, passport number and contact number <sup>[38](#o38)</sup>.
 
 > **Need to know**
@@ -2197,14 +2202,14 @@ Any e-Visa can be checked on ICA's "Enquire Application Status" with its referen
 
 ## 7 Business visit
 
-A Bangladeshi coming for business meetings, negotiations, conferences or trade fairs applies for the same entry visa as a tourist, ticking "Business" as the purpose on Form 14A, through an AVA or through the Singapore company inviting them (see ["Visit visa (tourism, family and friends)"](#visit-visa-tourism-family-and-friends)) <sup>[2](#o2), [247](#o247), [41](#o41)</sup>. Cost, processing time, the SG Arrival Card, arrival, extension and appeal are as for the visit visa <sup>[41](#o41), [117](#o117), [267](#o267)</sup>.
+A Bangladeshi coming for business meetings, negotiations, conferences or trade fairs applies for the same entry visa as a tourist, ticking "Business" as the purpose on Form 14A, through an AVA or through the Singapore company inviting them (see ["Visit visa (tourism, family and friends)"](#visit-visa-tourism-family-and-friends)) <sup>[2](#o2), [249](#o249), [41](#o41)</sup>. Cost, processing time, the SG Arrival Card, arrival, extension and appeal are as for the visit visa <sup>[41](#o41), [117](#o117), [269](#o269)</sup>.
 
 <a id="what-is-different"></a>
 
 ### 7.1 What is different
 
-- **The LOI must come from a Singapore company or organisation,** signed by a Singapore citizen or PR aged 21 or over, and the company's local contact must be acting for that Singapore-registered business <sup>[41](#o41), [2](#o2)</sup>. On Form V39A the company gives its UEN and the signatory's name, NRIC and designation <sup>[255](#o255)</sup>. The High Commission doesn't accept a tourism agency's LOI for a business visa <sup>[251](#o251)</sup>.
-- **A company can apply for you from Singapore** on SAVE with its Corppass login (the business version of Singpass) <sup>[248](#o248), [2](#o2)</sup>.
+- **The LOI must come from a Singapore company or organisation,** signed by a Singapore citizen or PR aged 21 or over, and the company's local contact must be acting for that Singapore-registered business <sup>[41](#o41), [2](#o2)</sup>. On Form V39A the company gives its UEN and the signatory's name, NRIC and designation <sup>[257](#o257)</sup>. The High Commission doesn't accept a tourism agency's LOI for a business visa <sup>[253](#o253)</sup>.
+- **A company can apply for you from Singapore** on SAVE with its Corppass login (the business version of Singpass) <sup>[250](#o250), [2](#o2)</sup>.
 
 > **Need to know**
 > - What business papers do AVAs ask a Bangladeshi business visitor for (trade licence, company bank statement, visiting card, invitation from the Singapore company)?
@@ -2213,25 +2218,25 @@ A Bangladeshi coming for business meetings, negotiations, conferences or trade f
 
 ### 7.2 What you can and can't do
 
-You may, without telling MOM, attend company meetings, corporate retreats or meetings with business partners; attend study tours, training courses, workshops, seminars and conferences as a participant; and visit exhibitions as a trade visitor <sup>[270](#o270)</sup>. None of this may involve a contract of service or for service with a Singapore employer <sup>[270](#o270)</sup>.
+You may, without telling MOM, attend company meetings, corporate retreats or meetings with business partners; attend study tours, training courses, workshops, seminars and conferences as a participant; and visit exhibitions as a trade visitor <sup>[272](#o272)</sup>. None of this may involve a contract of service or for service with a Singapore employer <sup>[272](#o272)</sup>.
 
-Some short work is allowed only after you notify MOM: these are called Work Pass Exempt Activities (WPEA) <sup>[270](#o270)</sup>. Among them:
+Some short work is allowed only after you notify MOM: these are called Work Pass Exempt Activities (WPEA) <sup>[272](#o272)</sup>. Among them:
 
-- exhibiting at a trade fair, if registered with the organiser <sup>[270](#o270)</sup>;
-- speaking, moderating, facilitating or training at a seminar, conference or workshop whose main purpose is not selling and which is not religious, racial or political <sup>[270](#o270)</sup>;
-- commissioning or auditing new plant and equipment, or installing, repairing or maintaining machines, where the expertise isn't generally available in Singapore <sup>[270](#o270)</sup>.
+- exhibiting at a trade fair, if registered with the organiser <sup>[272](#o272)</sup>;
+- speaking, moderating, facilitating or training at a seminar, conference or workshop whose main purpose is not selling and which is not religious, racial or political <sup>[272](#o272)</sup>;
+- commissioning or auditing new plant and equipment, or installing, repairing or maintaining machines, where the expertise isn't generally available in Singapore <sup>[272](#o272)</sup>.
 
-These need a work pass instead: any on-the-job training; selling to the public, manufacturing goods for sale, renovation or carpentry; setting up or dismantling exhibition booths, cleaning and catering <sup>[270](#o270)</sup>. WPEA work is capped at 90 days in total in a calendar year, and ICA won't extend your visit pass so you can finish one <sup>[270](#o270)</sup>.
+These need a work pass instead: any on-the-job training; selling to the public, manufacturing goods for sale, renovation or carpentry; setting up or dismantling exhibition booths, cleaning and catering <sup>[272](#o272)</sup>. WPEA work is capped at 90 days in total in a calendar year, and ICA won't extend your visit pass so you can finish one <sup>[272](#o272)</sup>.
 
 <a id="notifying-mom"></a>
 
 #### 7.2.1 Notifying MOM
 
-1. <a id="notifying-mom-item-1"></a>**Arrive and get your visit pass** at immigration; you must already have been engaged for the activity before entering <sup>[271 (2024)](#o271), [270](#o270)</sup>.
-2. <a id="notifying-mom-item-2"></a>**Submit MOM's online e-notification before you start,** with your name and date of birth, passport number and expiry, D/E number, visit pass expiry date, the type of activity, its start and end dates, and the workplace address <sup>[271 (2024)](#o271)</sup>.
-3. <a id="notifying-mom-item-3"></a>**Print the acknowledgement letter** <sup>[271 (2024)](#o271)</sup>.
+1. <a id="notifying-mom-item-1"></a>**Arrive and get your visit pass** at immigration; you must already have been engaged for the activity before entering <sup>[273 (2024)](#o273), [272](#o272)</sup>.
+2. <a id="notifying-mom-item-2"></a>**Submit MOM's online e-notification before you start,** with your name and date of birth, passport number and expiry, D/E number, visit pass expiry date, the type of activity, its start and end dates, and the workplace address <sup>[273 (2024)](#o273)</sup>.
+3. <a id="notifying-mom-item-3"></a>**Print the acknowledgement letter** <sup>[273 (2024)](#o273)</sup>.
 
-Starting a WPEA without notifying MOM is an offence <sup>[271 (2024)](#o271)</sup>.
+Starting a WPEA without notifying MOM is an offence <sup>[273 (2024)](#o273)</sup>.
 
 <a id="scams-3"></a>
 
@@ -2246,7 +2251,7 @@ A business visit visa is not a work visa: any job beyond the activities above ne
 
 ### 7.4 Where to get help
 
-The contacts are those for the visit visa: the AVA for an application made in Dhaka, ICA's enquiry form (go.gov.sg/ica-visa-enquiry) for a visa or e-Visa question, and the High Commission in Dhaka (see [Where to get help on a visit visa](#where-to-get-help-on-a-visit-visa)) <sup>[251](#o251), [260](#o260), [269](#o269)</sup>.
+The contacts are those for the visit visa: the AVA for an application made in Dhaka, ICA's enquiry form (go.gov.sg/ica-visa-enquiry) for a visa or e-Visa question, and the High Commission in Dhaka (see [Where to get help on a visit visa](#where-to-get-help-on-a-visit-visa)) <sup>[253](#o253), [262](#o262), [271](#o271)</sup>.
 
 > **Need to know**
 > - Does MOM answer questions from foreign business visitors about whether an activity is work pass exempt, and through which channel?
@@ -2255,34 +2260,34 @@ The contacts are those for the visit visa: the AVA for an application made in Dh
 
 ## 8 Student visa (Student's Pass)
 
-A foreigner studying full-time in Singapore needs a Student's Pass from ICA; part-time, evening and weekend courses don't qualify <sup>[272](#o272)</sup>. The school accepts you first, but the pass is issued by ICA, and enrolling at a school doesn't guarantee one <sup>[273](#o273), [274](#o274)</sup>. You may not attend classes until you have it <sup>[274](#o274)</sup>. ICA rejects applicants who can't show they can support themselves during their studies <sup>[275 (2024)](#o275)</sup>.
+A foreigner studying full-time in Singapore needs a Student's Pass from ICA; part-time, evening and weekend courses don't qualify <sup>[274](#o274)</sup>. The school accepts you first, but the pass is issued by ICA, and enrolling at a school doesn't guarantee one <sup>[275](#o275), [276](#o276)</sup>. You may not attend classes until you have it <sup>[276](#o276)</sup>. ICA rejects applicants who can't show they can support themselves during their studies <sup>[277 (2024)](#o277)</sup>.
 
 <a id="which-schools-can-take-you"></a>
 
 ### 8.1 Which schools can take you
 
-- **Institutes of Higher Learning (IHLs):** the six autonomous universities (National University of Singapore (NUS), Nanyang Technological University (NTU), Singapore Management University, Singapore Institute of Technology, Singapore University of Social Sciences, Singapore University of Technology and Design); the five polytechnics (Nanyang, Ngee Ann, Republic, Singapore and Temasek); and six foreign institutes with local campuses (ESSEC, INSEAD, SP Jain School of Global Management, DigiPen, TUM Asia and Assas International School) <sup>[273](#o273)</sup>.
-- **Private Education Institutions (PEIs):** private schools must be registered with SWDA (the Skills and Workforce Development Agency, which regulates private schools), and only those holding EduTrust certification (SWDA's quality mark) may take foreign students; a PEI without EduTrust can't offer you a place <sup>[276](#o276), [277](#o277)</sup>. EduTrust checks a school's management and student protection, not its course content, and SWDA registers courses without endorsing them <sup>[276](#o276)</sup>.
+- **Institutes of Higher Learning (IHLs):** the six autonomous universities (National University of Singapore (NUS), Nanyang Technological University (NTU), Singapore Management University, Singapore Institute of Technology, Singapore University of Social Sciences, Singapore University of Technology and Design); the five polytechnics (Nanyang, Ngee Ann, Republic, Singapore and Temasek); and six foreign institutes with local campuses (ESSEC, INSEAD, SP Jain School of Global Management, DigiPen, TUM Asia and Assas International School) <sup>[275](#o275)</sup>.
+- **Private Education Institutions (PEIs):** private schools must be registered with SWDA (the Skills and Workforce Development Agency, which regulates private schools), and only those holding EduTrust certification (SWDA's quality mark) may take foreign students; a PEI without EduTrust can't offer you a place <sup>[278](#o278), [279](#o279)</sup>. EduTrust checks a school's management and student protection, not its course content, and SWDA registers courses without endorsing them <sup>[278](#o278)</sup>.
 
 <a id="check-a-private-school-before-paying"></a>
 
 #### 8.1.1 Check a private school before paying
 
-1. <a id="check-a-private-school-before-paying-item-1"></a>**Search the school and the exact course** on the PEI Listing at tpgateway.gov.sg (Resources > Information for Private Education Institutions > PEI Listing): type a keyword such as "Business", then tick the course level, "Full Time" and the EduTrust type (EduTrust Star, EduTrust or EduTrust Provisional) <sup>[278](#o278)</sup>. A PEI may not run a course longer than one month full-time and 50 hours without SWDA's permission, and the listing shows the permitted courses <sup>[278](#o278)</sup>.
-2. <a id="check-a-private-school-before-paying-item-2"></a>**Note the school's registration period, expiry date and record** <sup>[276](#o276)</sup>. SWDA publishes the schools it has warned, fined or cancelled on TPGateway, under "Enforcement Actions against PEIs and/or Managers"; past cases include managers fined for not refunding course money and cancelled registrations <sup>[279](#o279)</sup>.
-3. <a id="check-a-private-school-before-paying-item-3"></a>**Visit the premises, or have someone you trust do it** <sup>[276](#o276)</sup>.
-4. <a id="check-a-private-school-before-paying-item-4"></a>**If the course includes an internship or on-the-job training,** get in writing whether it is compulsory, what you must do to qualify, how long it lasts, what replaces it if it falls through, and the allowance <sup>[276](#o276)</sup>.
-5. <a id="check-a-private-school-before-paying-item-5"></a>**Check SWDA's alerts:** it has warned that "Singapore Business School" (sbs-online.world), selling Master's degrees online, is not a registered school <sup>[280](#o280)</sup>.
+1. <a id="check-a-private-school-before-paying-item-1"></a>**Search the school and the exact course** on the PEI Listing at tpgateway.gov.sg (Resources > Information for Private Education Institutions > PEI Listing): type a keyword such as "Business", then tick the course level, "Full Time" and the EduTrust type (EduTrust Star, EduTrust or EduTrust Provisional) <sup>[280](#o280)</sup>. A PEI may not run a course longer than one month full-time and 50 hours without SWDA's permission, and the listing shows the permitted courses <sup>[280](#o280)</sup>.
+2. <a id="check-a-private-school-before-paying-item-2"></a>**Note the school's registration period, expiry date and record** <sup>[278](#o278)</sup>. SWDA publishes the schools it has warned, fined or cancelled on TPGateway, under "Enforcement Actions against PEIs and/or Managers"; past cases include managers fined for not refunding course money and cancelled registrations <sup>[281](#o281)</sup>.
+3. <a id="check-a-private-school-before-paying-item-3"></a>**Visit the premises, or have someone you trust do it** <sup>[278](#o278)</sup>.
+4. <a id="check-a-private-school-before-paying-item-4"></a>**If the course includes an internship or on-the-job training,** get in writing whether it is compulsory, what you must do to qualify, how long it lasts, what replaces it if it falls through, and the allowance <sup>[278](#o278)</sup>.
+5. <a id="check-a-private-school-before-paying-item-5"></a>**Check SWDA's alerts:** it has warned that "Singapore Business School" (sbs-online.world), selling Master's degrees online, is not a registered school <sup>[282](#o282)</sup>.
 
-A PEI qualification is not automatically recognised in Singapore: employers and universities decide <sup>[274](#o274)</sup>. Private schools can close; fee protection schemes cover fees you have paid for teaching not yet given, or the school must finish teaching you or place you in another school <sup>[274](#o274)</sup>. There are no Singapore government scholarships or bursaries for international students at private schools <sup>[274](#o274)</sup>.
+A PEI qualification is not automatically recognised in Singapore: employers and universities decide <sup>[276](#o276)</sup>. Private schools can close; fee protection schemes cover fees you have paid for teaching not yet given, or the school must finish teaching you or place you in another school <sup>[276](#o276)</sup>. There are no Singapore government scholarships or bursaries for international students at private schools <sup>[276](#o276)</sup>.
 
 <a id="cost-and-time-1"></a>
 
 ### 8.2 Cost and time
 
-- **Fees to ICA:** S$45 processing fee on applying, not refunded if refused; then S$60 to issue the pass and S$30 for a Multiple Journey Visa <sup>[273](#o273), [277](#o277), [281](#o281), [282](#o282)</sup>.
-- **Processing:** within 2 weeks at an IHL for nationalities that need a visa, such as Bangladeshis; at a PEI, 2 weeks if it is EduTrust-certified, otherwise up to 1 month <sup>[273](#o273), [277](#o277)</sup>.
-- **Tuition:** in selected full-time diploma and degree courses at universities, polytechnics, ITE (the Institute of Technical Education) and arts institutions, international students can take the MOE (Ministry of Education) Tuition Grant and pay subsidised fees, but must then work full-time for a Singapore entity for 3 years after graduating (the "bond") <sup>[283](#o283), [284](#o284)</sup>. The grant never covers a PEI course, and SWDA doesn't regulate PEI fees <sup>[283](#o283), [274](#o274)</sup>.
+- **Fees to ICA:** S$45 processing fee on applying, not refunded if refused; then S$60 to issue the pass and S$30 for a Multiple Journey Visa <sup>[275](#o275), [279](#o279), [283](#o283), [284](#o284)</sup>.
+- **Processing:** within 2 weeks at an IHL for nationalities that need a visa, such as Bangladeshis; at a PEI, 2 weeks if it is EduTrust-certified, otherwise up to 1 month <sup>[275](#o275), [279](#o279)</sup>.
+- **Tuition:** in selected full-time diploma and degree courses at universities, polytechnics, ITE (the Institute of Technical Education) and arts institutions, international students can take the MOE (Ministry of Education) Tuition Grant and pay subsidised fees, but must then work full-time for a Singapore entity for 3 years after graduating (the "bond") <sup>[285](#o285), [286](#o286)</sup>. The grant never covers a PEI course, and SWDA doesn't regulate PEI fees <sup>[285](#o285), [276](#o276)</sup>.
 
 > **Need to know**
 > - What does a typical EduTrust PEI diploma cost a Bangladeshi student in 2026, and what do Dhaka consultants add on top?
@@ -2292,16 +2297,16 @@ A PEI qualification is not automatically recognised in Singapore: employers and 
 
 ### 8.3 Step 1: Get accepted and registered on SOLAR
 
-1. <a id="step-1-get-accepted-and-registered-on-solar-item-1"></a>**Apply to the school** directly or through an education agent <sup>[274](#o274)</sup>. At a PEI, read the student contract before signing: only what it says is enforceable, not an agent's promises, and if you don't understand English the school must explain it in your language <sup>[274](#o274)</sup>.
-2. <a id="step-1-get-accepted-and-registered-on-solar-item-2"></a>**Pay course fees to the school, never the agent,** and keep every receipt <sup>[274](#o274)</sup>. An agent may only take its own fee as set in its agent contract <sup>[274](#o274)</sup>. A PEI that isn't in a fee insurance or protection scheme may not take more than two months' fees in advance <sup>[276](#o276)</sup>.
+1. <a id="step-1-get-accepted-and-registered-on-solar-item-1"></a>**Apply to the school** directly or through an education agent <sup>[276](#o276)</sup>. At a PEI, read the student contract before signing: only what it says is enforceable, not an agent's promises, and if you don't understand English the school must explain it in your language <sup>[276](#o276)</sup>.
+2. <a id="step-1-get-accepted-and-registered-on-solar-item-2"></a>**Pay course fees to the school, never the agent,** and keep every receipt <sup>[276](#o276)</sup>. An agent may only take its own fee as set in its agent contract <sup>[276](#o276)</sup>. A PEI that isn't in a fee insurance or protection scheme may not take more than two months' fees in advance <sup>[278](#o278)</sup>.
 3. <a id="step-1-get-accepted-and-registered-on-solar-item-3"></a>**Wait for the school to register you on SOLAR** (ICA's Student's Pass Online Application and Registration system); the school sends you the registration details, called the Registration Acknowledgement Letter <sup>[N77](#n77), [N78](#n78)</sup>. ICA issues only one Student's Pass at a time: you may apply to several schools but accept only one offer <sup>[N77](#n77)</sup>.
 
 <a id="step-2-apply-for-the-students-pass"></a>
 
 ### 8.4 Step 2: Apply for the Student's Pass
 
-1. <a id="step-2-apply-for-the-students-pass-item-1"></a>**Apply 2 to 3 months before the course starts,** from Bangladesh: you don't need to be in Singapore, and ICA advises applying before you travel because you can't extend a visit pass while the application is pending <sup>[273](#o273)</sup>.
-2. <a id="step-2-apply-for-the-students-pass-item-2"></a>**Fill in eForm 16 on SOLAR** with your passport details, programme and start date, a Singapore address if you have one, and a reachable email <sup>[N78](#n78)</sup>. Write your full name exactly as in the passport, with no initials <sup>[N77](#n77)</sup>. Upload the signed Form 16, the photo and a clear image of the passport bio-data page by the deadline shown, or the draft is deleted; after submitting you can't change the form, and the "Withdraw" button cancels the application <sup>[N77](#n77)</sup>. Have ready your passport bio-data page, birth certificate if asked, the countries you have lived in, your education, jobs and how you will be supported, your family's details, and a photo taken within 3 months <sup>[273](#o273)</sup>. Documents not in English need official translations <sup>[2](#o2)</sup>.
+1. <a id="step-2-apply-for-the-students-pass-item-1"></a>**Apply 2 to 3 months before the course starts,** from Bangladesh: you don't need to be in Singapore, and ICA advises applying before you travel because you can't extend a visit pass while the application is pending <sup>[275](#o275)</sup>.
+2. <a id="step-2-apply-for-the-students-pass-item-2"></a>**Fill in eForm 16 on SOLAR** with your passport details, programme and start date, a Singapore address if you have one, and a reachable email <sup>[N78](#n78)</sup>. Write your full name exactly as in the passport, with no initials <sup>[N77](#n77)</sup>. Upload the signed Form 16, the photo and a clear image of the passport bio-data page by the deadline shown, or the draft is deleted; after submitting you can't change the form, and the "Withdraw" button cancels the application <sup>[N77](#n77)</sup>. Have ready your passport bio-data page, birth certificate if asked, the countries you have lived in, your education, jobs and how you will be supported, your family's details, and a photo taken within 3 months <sup>[275](#o275)</sup>. Documents not in English need official translations <sup>[2](#o2)</sup>.
 3. <a id="step-2-apply-for-the-students-pass-item-3"></a>**Pay S$45 within 7 days** by card or internet banking, or the application is withdrawn <sup>[N78](#n78)</sup>.
 4. <a id="step-2-apply-for-the-students-pass-item-4"></a>**Check the status** on SOLAR and your email, including spam; if ICA asks for more documents, upload them within 14 days or the application is withdrawn <sup>[N77](#n77)</sup>. If approved, print the outcome letter, which is the IPA <sup>[N78](#n78)</sup>.
 
@@ -2309,44 +2314,44 @@ A PEI qualification is not automatically recognised in Singapore: employers and 
 
 ### 8.5 Step 3: Receive the In-Principle Approval (IPA)
 
-1. <a id="step-3-receive-the-in-principle-approval-ipa-item-1"></a>**Print the IPA letter.** For Bangladeshis it also serves as a single-entry visa, so you don't apply for a visa separately <sup>[273](#o273), [N77](#n77), [N78](#n78)</sup>. If you want to change school before collecting the pass, you must apply again <sup>[272](#o272)</sup>.
-2. <a id="step-3-receive-the-in-principle-approval-ipa-item-2"></a>**Before the IPA expires,** log in to SOLAR, accept the Student's Pass terms and conditions, and do the medical examination if asked (courses of 6 months or more), uploading ICA's Medical Examination Report <sup>[282](#o282), [N78](#n78)</sup>. You can do the medical in Bangladesh with a registered doctor; the report needs the clinic's stamp, the doctor's name and an exam date within the last 3 months, and an incomplete report gets the IPA withdrawn <sup>[N77](#n77)</sup>.
-3. <a id="step-3-receive-the-in-principle-approval-ipa-item-3"></a>**Pay S$60 (and S$30 for a Multiple Journey Visa)** once SOLAR shows "Completed", by the deadline, or the application is withdrawn <sup>[282](#o282)</sup>.
+1. <a id="step-3-receive-the-in-principle-approval-ipa-item-1"></a>**Print the IPA letter.** For Bangladeshis it also serves as a single-entry visa, so you don't apply for a visa separately <sup>[275](#o275), [N77](#n77), [N78](#n78)</sup>. If you want to change school before collecting the pass, you must apply again <sup>[274](#o274)</sup>.
+2. <a id="step-3-receive-the-in-principle-approval-ipa-item-2"></a>**Before the IPA expires,** log in to SOLAR, accept the Student's Pass terms and conditions, and do the medical examination if asked (courses of 6 months or more), uploading ICA's Medical Examination Report <sup>[284](#o284), [N78](#n78)</sup>. You can do the medical in Bangladesh with a registered doctor; the report needs the clinic's stamp, the doctor's name and an exam date within the last 3 months, and an incomplete report gets the IPA withdrawn <sup>[N77](#n77)</sup>.
+3. <a id="step-3-receive-the-in-principle-approval-ipa-item-3"></a>**Pay S$60 (and S$30 for a Multiple Journey Visa)** once SOLAR shows "Completed", by the deadline, or the application is withdrawn <sup>[284](#o284)</sup>.
 
 <a id="step-4-travel-and-complete-formalities"></a>
 
 ### 8.6 Step 4: Travel and complete formalities
 
-1. <a id="step-4-travel-and-complete-formalities-item-1"></a>**Arrive no earlier than 1 month before the course starts,** and show the IPA letter at immigration; it doesn't guarantee entry <sup>[282](#o282)</sup>. Submit the SG Arrival Card as for a visit (see Visit visa, [Step 5: The employer applies; check your IPA](#step-5-the-employer-applies-check-your-ipa)) <sup>[117](#o117)</sup>.
-2. <a id="step-4-travel-and-complete-formalities-item-2"></a>**Check your visit pass expiry:** the IPA isn't an immigration pass, so extend the visit pass if formalities won't finish in time <sup>[282](#o282)</sup>.
-3. <a id="step-4-travel-and-complete-formalities-item-3"></a>**Enrol your biometrics in person** at the ICA Services Centre (book an e-Appointment with your FIN, the Foreign Identification Number, and the last three digits of the Application ID on page 1 of the IPA) or at an enrolment your school arranges; walk-ins without an appointment are turned away <sup>[282](#o282), [N77](#n77)</sup>.
-4. <a id="step-4-travel-and-complete-formalities-item-4"></a>**Download the digital Student's Pass from FileSG** (the government's document service), where it can also be verified <sup>[282](#o282)</sup>.
+1. <a id="step-4-travel-and-complete-formalities-item-1"></a>**Arrive no earlier than 1 month before the course starts,** and show the IPA letter at immigration; it doesn't guarantee entry <sup>[284](#o284)</sup>. Submit the SG Arrival Card as for a visit (see Visit visa, [Step 5: The employer applies; check your IPA](#step-5-the-employer-applies-check-your-ipa)) <sup>[117](#o117)</sup>.
+2. <a id="step-4-travel-and-complete-formalities-item-2"></a>**Check your visit pass expiry:** the IPA isn't an immigration pass, so extend the visit pass if formalities won't finish in time <sup>[284](#o284)</sup>.
+3. <a id="step-4-travel-and-complete-formalities-item-3"></a>**Enrol your biometrics in person** at the ICA Services Centre (book an e-Appointment with your FIN, the Foreign Identification Number, and the last three digits of the Application ID on page 1 of the IPA) or at an enrolment your school arranges; walk-ins without an appointment are turned away <sup>[284](#o284), [N77](#n77)</sup>.
+4. <a id="step-4-travel-and-complete-formalities-item-4"></a>**Download the digital Student's Pass from FileSG** (the government's document service), where it can also be verified <sup>[284](#o284)</sup>.
 
 <a id="can-you-work-1"></a>
 
 ### 8.7 Can you work?
 
-Only students of the institutions on MOM's lists may work <sup>[268](#o268), [274](#o274)</sup>:
+Only students of the institutions on MOM's lists may work <sup>[270](#o270), [276](#o276)</sup>:
 
-- **During vacations:** full-time students aged 14 or over at the listed institutions may work without a work pass or telling MOM, including while waiting for final results or convocation if that falls in the vacation <sup>[268](#o268)</sup>.
-- **During term:** students at a shorter list (the universities, polytechnics, ITE, LASALLE College of the Arts, Nanyang Academy of Fine Arts, University of the Arts Singapore, DigiPen, ESSEC, INSEAD, SP Jain, TUM Asia, EHL Campus (Singapore) and Sorbonne-Assas) may work up to 16 hours a week, or on an internship that counts towards graduation <sup>[268](#o268)</sup>.
-- **Students at other private schools may not work at all** <sup>[274](#o274)</sup>. Exchange students may not work either <sup>[268](#o268)</sup>.
+- **During vacations:** full-time students aged 14 or over at the listed institutions may work without a work pass or telling MOM, including while waiting for final results or convocation if that falls in the vacation <sup>[270](#o270)</sup>.
+- **During term:** students at a shorter list (the universities, polytechnics, ITE, LASALLE College of the Arts, Nanyang Academy of Fine Arts, University of the Arts Singapore, DigiPen, ESSEC, INSEAD, SP Jain, TUM Asia, EHL Campus (Singapore) and Sorbonne-Assas) may work up to 16 hours a week, or on an internship that counts towards graduation <sup>[270](#o270)</sup>.
+- **Students at other private schools may not work at all** <sup>[276](#o276)</sup>. Exchange students may not work either <sup>[270](#o270)</sup>.
 
-Working illegally on a Student's Pass can bring a fine of up to S$20,000, up to two years' jail, or both, then cancellation of the pass, deportation and a ban on working in Singapore <sup>[275 (2024)](#o275), [268](#o268)</sup>. Employers who hire them face fines of S$5,000 to S$30,000, up to 12 months' jail, or both <sup>[275 (2024)](#o275)</sup>. In 2023 MOM acted against 143 Student's Pass holders for illegal work <sup>[275 (2024)](#o275)</sup>.
+Working illegally on a Student's Pass can bring a fine of up to S$20,000, up to two years' jail, or both, then cancellation of the pass, deportation and a ban on working in Singapore <sup>[277 (2024)](#o277), [270](#o270)</sup>. Employers who hire them face fines of S$5,000 to S$30,000, up to 12 months' jail, or both <sup>[277 (2024)](#o277)</sup>. In 2023 MOM acted against 143 Student's Pass holders for illegal work <sup>[277 (2024)](#o277)</sup>.
 
 <a id="after-graduation"></a>
 
 ### 8.8 After graduation
 
-1. <a id="after-graduation-item-1"></a>**Cancel the Student's Pass** online, free, at least 3 working days before it expires (the school can do it), and surrender any physical card within 7 days of finishing <sup>[285](#o285)</sup>. You may then get a visit pass of up to 89 days <sup>[286](#o286)</sup>.
-2. <a id="after-graduation-item-2"></a>**To stay and look for a job,** graduates of an approved IHL (the six universities, five polytechnics, six foreign institutes, LASALLE College of the Arts and Nanyang Academy of Fine Arts) can apply for a 1-year, non-renewable Long-Term Visit Pass (LTVP), with no local sponsor <sup>[286](#o286), [287](#o287)</sup>. Apply online with a 400 x 514 pixel photo, your passport, and your certificates and transcripts; it costs S$45, then S$60 and S$30 at formalities, and takes up to 6 weeks <sup>[286](#o286)</sup>. Graduates of other private schools are not on the list <sup>[287](#o287)</sup>.
-3. <a id="after-graduation-item-3"></a>**To work,** your employer applies for a work pass (see [S Pass](#s-pass), and Employment Pass (EP)) <sup>[268](#o268)</sup>.
+1. <a id="after-graduation-item-1"></a>**Cancel the Student's Pass** online, free, at least 3 working days before it expires (the school can do it), and surrender any physical card within 7 days of finishing <sup>[287](#o287)</sup>. You may then get a visit pass of up to 89 days <sup>[288](#o288)</sup>.
+2. <a id="after-graduation-item-2"></a>**To stay and look for a job,** graduates of an approved IHL (the six universities, five polytechnics, six foreign institutes, LASALLE College of the Arts and Nanyang Academy of Fine Arts) can apply for a 1-year, non-renewable Long-Term Visit Pass (LTVP), with no local sponsor <sup>[288](#o288), [289](#o289)</sup>. Apply online with a 400 x 514 pixel photo, your passport, and your certificates and transcripts; it costs S$45, then S$60 and S$30 at formalities, and takes up to 6 weeks <sup>[288](#o288)</sup>. Graduates of other private schools are not on the list <sup>[289](#o289)</sup>.
+3. <a id="after-graduation-item-3"></a>**To work,** your employer applies for a work pass (see [S Pass](#s-pass), and Employment Pass (EP)) <sup>[270](#o270)</sup>.
 
 <a id="if-the-students-pass-is-refused"></a>
 
 ### 8.9 If the Student's Pass is refused
 
-ICA doesn't give reasons, and SWDA can't appeal for you <sup>[266](#o266), [274](#o274)</sup>. Tell your school, then appeal through ICA's enquiry form (go.gov.sg/ica-stp-enquiry) with your application reference number; appeals take about 4 weeks and the answer goes to you and the school <sup>[288](#o288)</sup>. Whether the school refunds your fees depends on the refund policy in your student contract <sup>[274](#o274)</sup>.
+ICA doesn't give reasons, and SWDA can't appeal for you <sup>[268](#o268), [276](#o276)</sup>. Tell your school, then appeal through ICA's enquiry form (go.gov.sg/ica-stp-enquiry) with your application reference number; appeals take about 4 weeks and the answer goes to you and the school <sup>[290](#o290)</sup>. Whether the school refunds your fees depends on the refund policy in your student contract <sup>[276](#o276)</sup>.
 
 <a id="scams-4"></a>
 
@@ -2356,7 +2361,7 @@ ICA doesn't give reasons, and SWDA can't appeal for you <sup>[266](#o266), [274]
 
 #### 8.10.1 A private school place sold as a way to a job
 
-PEI students may not work, and a student caught working risks jail, deportation and a ban <sup>[274](#o274), [275 (2024)](#o275)</sup>. Some private schools may act as fronts that channel people into low-wage jobs under the pretext of training <sup>[N79](#n79)</sup>. A related trick uses the Training Employment Pass, a 3-month trainee pass: in 2025 a Bangladeshi lost about S$15,000 to a Bangladeshi fixer already working in Singapore, was told the pass would later become a Work Permit, and ended up a day labourer threatened with death if he complained <sup>[N79](#n79), [N80](#n80)</sup>. Only employers can apply for that pass, and by 19 June 2025 MOM had received 120 reports of its abuse that year <sup>[N80](#n80), [N79](#n79)</sup>.
+PEI students may not work, and a student caught working risks jail, deportation and a ban <sup>[276](#o276), [277 (2024)](#o277)</sup>. Some private schools may act as fronts that channel people into low-wage jobs under the pretext of training <sup>[N79](#n79)</sup>. A related trick uses the Training Employment Pass, a 3-month trainee pass: in 2025 a Bangladeshi lost about S$15,000 to a Bangladeshi fixer already working in Singapore, was told the pass would later become a Work Permit, and ended up a day labourer threatened with death if he complained <sup>[N79](#n79), [N80](#n80)</sup>. Only employers can apply for that pass, and by 19 June 2025 MOM had received 120 reports of its abuse that year <sup>[N80](#n80), [N79](#n79)</sup>.
 
 > **Need to know**
 > - What do Dhaka consultancies charge for Singapore "work-based diploma" or "study and work" packages in 2026?
@@ -2366,34 +2371,34 @@ PEI students may not work, and a student caught working risks jail, deportation 
 
 #### 8.10.2 Dropping out
 
-If you leave or are removed from your private school, your Student's Pass is cancelled, and neither SWDA nor the government will extend it while you look for another school <sup>[274](#o274)</sup>. PEI students who change course or school must apply for a transfer at least 4 weeks before the new course starts <sup>[277](#o277)</sup>.
+If you leave or are removed from your private school, your Student's Pass is cancelled, and neither SWDA nor the government will extend it while you look for another school <sup>[276](#o276)</sup>. PEI students who change course or school must apply for a transfer at least 4 weeks before the new course starts <sup>[279](#o279)</sup>.
 
 <a id="unregistered-schools-and-fake-courses"></a>
 
 #### 8.10.3 Unregistered schools and fake courses
 
-Check the school and course on TPGateway before paying (see [Check a private school before paying](#check-a-private-school-before-paying)) <sup>[280](#o280)</sup>. If you paid an unregistered school, report it to the Singapore Police Force <sup>[280](#o280)</sup>.
+Check the school and course on TPGateway before paying (see [Check a private school before paying](#check-a-private-school-before-paying)) <sup>[282](#o282)</sup>. If you paid an unregistered school, report it to the Singapore Police Force <sup>[282](#o282)</sup>.
 
 <a id="agents-and-consultants"></a>
 
 #### 8.10.4 Agents and consultants
 
-An agent may not collect your course fees; pay the school <sup>[274](#o274)</sup>. ICA doesn't endorse consultants who claim they can improve your chances, and isn't responsible for money lost to them <sup>[289](#o289)</sup>.
+An agent may not collect your course fees; pay the school <sup>[276](#o276)</sup>. ICA doesn't endorse consultants who claim they can improve your chances, and isn't responsible for money lost to them <sup>[291](#o291)</sup>.
 
 <a id="your-passport"></a>
 
 #### 8.10.5 Your passport
 
-No one, including your school, may keep your passport; if a school refuses to return it, report it to the police <sup>[274](#o274)</sup>.
+No one, including your school, may keep your passport; if a school refuses to return it, report it to the police <sup>[276](#o276)</sup>.
 
 <a id="where-to-get-help-1"></a>
 
 ### 8.11 Where to get help
 
-- **A problem with a private school:** raise it with the school first, then complain to SWDA, which investigates breaches of the Private Education Act and refers contract disputes to the Singapore Mediation Centre, with arbitration next if mediation fails; schools must take part <sup>[290](#o290)</sup>. A documents-only arbitration ends with a written award within 60 days <sup>[290](#o290)</sup>.
-- **A clear fee refund of up to S$20,000:** the Small Claims Tribunals <sup>[290](#o290)</sup>.
-- **A Student's Pass problem:** ICA's enquiry form (go.gov.sg/ica-stp-enquiry) <sup>[288](#o288)</sup>.
-- **Contacting SWDA:** phone 6669 7932 (Monday to Friday, 8:30 am to 5:30 pm), or write through its Service Portal (service-portal.swda.gov.sg/s/feedback); office at 1 Paya Lebar Link, #08-08 PLQ 2 Paya Lebar Quarter, Singapore 408533 <sup>[291](#o291)</sup>.
+- **A problem with a private school:** raise it with the school first, then complain to SWDA, which investigates breaches of the Private Education Act and refers contract disputes to the Singapore Mediation Centre, with arbitration next if mediation fails; schools must take part <sup>[292](#o292)</sup>. A documents-only arbitration ends with a written award within 60 days <sup>[292](#o292)</sup>.
+- **A clear fee refund of up to S$20,000:** the Small Claims Tribunals <sup>[292](#o292)</sup>.
+- **A Student's Pass problem:** ICA's enquiry form (go.gov.sg/ica-stp-enquiry) <sup>[290](#o290)</sup>.
+- **Contacting SWDA:** phone 6669 7932 (Monday to Friday, 8:30 am to 5:30 pm), or write through its Service Portal (service-portal.swda.gov.sg/s/feedback); office at 1 Paya Lebar Link, #08-08 PLQ 2 Paya Lebar Quarter, Singapore 408533 <sup>[293](#o293)</sup>.
 
 > **Need to know**
 > - How long does SWDA take to act on a complaint from a private school student, and does it accept complaints from students who have already left Singapore?
@@ -2402,7 +2407,7 @@ No one, including your school, may keep your passport; if a school refuses to re
 
 ## 9 Medical treatment visit
 
-A patient going to Singapore for treatment, and anyone going with them, needs the same entry visa as a visitor (see ["Visit visa (tourism, family and friends)"](#visit-visa-tourism-family-and-friends)), and is given a short-term visit pass for medical treatment on arrival <sup>[41](#o41), [38](#o38)</sup>. The difference is the LOI: a medical visa needs an LOI from the medical side, meaning the hospital or doctor; one from a tourism agency is refused <sup>[251](#o251), [N81](#n81)</sup>.
+A patient going to Singapore for treatment, and anyone going with them, needs the same entry visa as a visitor (see ["Visit visa (tourism, family and friends)"](#visit-visa-tourism-family-and-friends)), and is given a short-term visit pass for medical treatment on arrival <sup>[41](#o41), [38](#o38)</sup>. The difference is the LOI: a medical visa needs an LOI from the medical side, meaning the hospital or doctor; one from a tourism agency is refused <sup>[253](#o253), [N81](#n81)</sup>.
 
 <a id="step-1-get-an-appointment-and-the-hospitals-supporting-letter"></a>
 
@@ -2422,8 +2427,8 @@ A patient going to Singapore for treatment, and anyone going with them, needs th
 
 ### 9.2 Step 2: Apply for the visa, for the patient and each companion
 
-1. <a id="step-2-apply-for-the-visa-for-the-patient-and-each-companion-item-1"></a>**Apply through an AVA,** with the papers in Visit visa, [Step 2: Apply for the visa, for the patient and each companion](#step-2-apply-for-the-visa-for-the-patient-and-each-companion), and the hospital's LOI in place of a personal one <sup>[41](#o41), [251](#o251)</sup>. Every traveller, companions included, needs their own passport and visa <sup>[45](#o45), [41](#o41)</sup>.
-2. <a id="step-2-apply-for-the-visa-for-the-patient-and-each-companion-item-2"></a>**Check and print each e-Visa** as in Visit visa, [Step 4: Get a real job offer](#step-4-get-a-real-job-offer) <sup>[257](#o257), [261](#o261)</sup>.
+1. <a id="step-2-apply-for-the-visa-for-the-patient-and-each-companion-item-1"></a>**Apply through an AVA,** with the papers in Visit visa, [Step 2: Apply for the visa, for the patient and each companion](#step-2-apply-for-the-visa-for-the-patient-and-each-companion), and the hospital's LOI in place of a personal one <sup>[41](#o41), [253](#o253)</sup>. Every traveller, companions included, needs their own passport and visa <sup>[45](#o45), [41](#o41)</sup>.
+2. <a id="step-2-apply-for-the-visa-for-the-patient-and-each-companion-item-2"></a>**Check and print each e-Visa** as in Visit visa, [Step 4: Get a real job offer](#step-4-get-a-real-job-offer) <sup>[259](#o259), [263](#o263)</sup>.
 
 > **Need to know**
 > - How many companions will the High Commission give visas to with one patient's hospital LOI, and must each be a named relative?
@@ -2450,7 +2455,7 @@ No: the visit pass for medical treatment carries the same ban on work as any vis
 
 ### 9.5 Scams
 
-Only an LOI from a hospital or doctor supports a medical visa, so a "medical visa" offered with a travel agency's letter will be refused <sup>[251](#o251)</sup>. Check any e-Visa on ICA's "Enquire Application Status" (see Visit visa, [Step 4: Get a real job offer](#step-4-get-a-real-job-offer)) <sup>[257](#o257)</sup>.
+Only an LOI from a hospital or doctor supports a medical visa, so a "medical visa" offered with a travel agency's letter will be refused <sup>[253](#o253)</sup>. Check any e-Visa on ICA's "Enquire Application Status" (see Visit visa, [Step 4: Get a real job offer](#step-4-get-a-real-job-offer)) <sup>[259](#o259)</sup>.
 
 > **Need to know**
 > - What medical-tourism scams target Bangladeshi patients going to Singapore (fake hospital agents, inflated estimates, commission-paid "facilitators")?
@@ -2460,7 +2465,7 @@ Only an LOI from a hospital or doctor supports a medical visa, so a "medical vis
 ### 9.6 Where to get help
 
 - **Appointments, the LOI and extensions:** the hospital's Dhaka office or international patients centre listed in [Step 1: Get an appointment and the hospital's supporting letter](#step-1-get-an-appointment-and-the-hospitals-supporting-letter) <sup>[41](#o41), [N83](#n83), [N84](#n84)</sup>.
-- **A pending or refused visa:** the AVA, or ICA's enquiry form (go.gov.sg/ica-visa-enquiry) <sup>[251](#o251), [260](#o260)</sup>.
+- **A pending or refused visa:** the AVA, or ICA's enquiry form (go.gov.sg/ica-visa-enquiry) <sup>[253](#o253), [262](#o262)</sup>.
 - **An extension you can't submit online:** ICA's STVP enquiry form, go.gov.sg/ica-stvp-enquiry <sup>[38](#o38)</sup>.
 
 <a id="transit"></a>
@@ -2478,9 +2483,9 @@ You don't need a Singapore visa if you change planes at Changi without passing a
 
 ### 10.1 Scams
 
-- **Carrying a bag for someone:** on 29 July 2025 the Central Narcotics Bureau (CNB) arrested five foreign women in the transit area of Changi Terminal 4, after two were seen exchanging luggage, and found about 26.9 kg of cocaine hidden in stuffed toys <sup>[292](#o292)</sup>. Trafficking more than 30 g of cocaine can bring the mandatory death penalty, so never carry a packet whose contents you don't know <sup>[292](#o292), [61](#o61)</sup>.
-- **Someone else's passport:** Changi immigration caught two Bangladeshis travelling on Indian passports bought through an agent and sent them back to India, where they were arrested <sup>[N76 (2023)](#n76)</sup>. Biometric checks at Singapore's checkpoints catch people using more than one identity or someone else's <sup>[293 (2023)](#o293)</sup>.
-- **Paid "arrival card" sites:** if you must clear immigration, the SG Arrival Card is free on ICA's own site; look-alike sites charge a fee (see Visit visa, [Step 5: The employer applies; check your IPA](#step-5-the-employer-applies-check-your-ipa)) <sup>[117](#o117), [262](#o262)</sup>.
+- **Carrying a bag for someone:** on 29 July 2025 the Central Narcotics Bureau (CNB) arrested five foreign women in the transit area of Changi Terminal 4, after two were seen exchanging luggage, and found about 26.9 kg of cocaine hidden in stuffed toys <sup>[294](#o294)</sup>. Trafficking more than 30 g of cocaine can bring the mandatory death penalty, so never carry a packet whose contents you don't know <sup>[294](#o294), [61](#o61)</sup>.
+- **Someone else's passport:** Changi immigration caught two Bangladeshis travelling on Indian passports bought through an agent and sent them back to India, where they were arrested <sup>[N76 (2023)](#n76)</sup>. Biometric checks at Singapore's checkpoints catch people using more than one identity or someone else's <sup>[295 (2023)](#o295)</sup>.
+- **Paid "arrival card" sites:** if you must clear immigration, the SG Arrival Card is free on ICA's own site; look-alike sites charge a fee (see Visit visa, [Step 5: The employer applies; check your IPA](#step-5-the-employer-applies-check-your-ipa)) <sup>[117](#o117), [264](#o264)</sup>.
 
 <a id="where-to-get-help-3"></a>
 
@@ -2488,13 +2493,13 @@ You don't need a Singapore visa if you change planes at Changi without passing a
 
 - **Before booking:** your airline, on whether you can stay in the transit area <sup>[46](#o46)</sup>.
 - **At Changi:** the Changi Experience Ambassador, +65 6595 6868 <sup>[N87](#n87)</sup>.
-- **If you are held or refused boarding:** the Bangladesh High Commission in Singapore, +65 6255 0075, mission.singapore@mofa.gov.bd (see [Contacts](#contacts)) <sup>[180 (2022)](#o180)</sup>.
+- **If you are held or refused boarding:** the Bangladesh High Commission in Singapore, +65 6255 0075, mission.singapore@mofa.gov.bd (see [Contacts](#contacts)) <sup>[182 (2022)](#o182)</sup>.
 
 <a id="employment-pass-ep"></a>
 
 ## 11 Employment Pass (EP)
 
-The Employment Pass is for professionals, managers, executives and technicians; the candidate must earn at least S$5,600 a month (S$6,000 for new applications from 1 January 2027), more with age, and pass COMPASS, a points test <sup>[294](#o294), [195](#o195)</sup>. The employer applies, and pays no levy and has no quota for EP holders <sup>[295](#o295)</sup>. It lasts up to 2 years the first time and up to 3 years on renewal <sup>[295](#o295)</sup>.
+The Employment Pass is for professionals, managers, executives and technicians; the candidate must earn at least S$5,600 a month (S$6,000 for new applications from 1 January 2027), more with age, and pass COMPASS, a points test <sup>[296](#o296), [197](#o197)</sup>. The employer applies, and pays no levy and has no quota for EP holders <sup>[297](#o297)</sup>. It lasts up to 2 years the first time and up to 3 years on renewal <sup>[297](#o297)</sup>.
 
 <a id="who-can-get-it-1"></a>
 
@@ -2504,53 +2509,53 @@ The Employment Pass is for professionals, managers, executives and technicians; 
 
 #### 11.1.1 Stage 1: the qualifying salary
 
-The salary is set by age; a candidate below it is refused whatever the points <sup>[195](#o195)</sup>. The higher figure applies to new applications from 1 January 2027 and renewals of passes expiring from 1 January 2028 <sup>[195](#o195)</sup>.
+The salary is set by age; a candidate below it is refused whatever the points <sup>[197](#o197)</sup>. The higher figure applies to new applications from 1 January 2027 and renewals of passes expiring from 1 January 2028 <sup>[197](#o197)</sup>.
 
 **All sectors except financial services** (now, then from 1 January 2027):
-- 23 or younger: S$5,600, then S$6,000 <sup>[195](#o195)</sup>
-- 30: S$7,223, then S$7,750 <sup>[195](#o195)</sup>
-- 35: S$8,382, then S$9,000 <sup>[195](#o195)</sup>
-- 40: S$9,541, then S$10,250 <sup>[195](#o195)</sup>
-- 45 or older: S$10,700, then S$11,500 <sup>[195](#o195)</sup>
+- 23 or younger: S$5,600, then S$6,000 <sup>[197](#o197)</sup>
+- 30: S$7,223, then S$7,750 <sup>[197](#o197)</sup>
+- 35: S$8,382, then S$9,000 <sup>[197](#o197)</sup>
+- 40: S$9,541, then S$10,250 <sup>[197](#o197)</sup>
+- 45 or older: S$10,700, then S$11,500 <sup>[197](#o197)</sup>
 
 **Financial services:**
-- 23 or younger: S$6,200, then S$6,600 <sup>[195](#o195)</sup>
-- 45 or older: S$11,800, then S$12,700 <sup>[195](#o195)</sup>
+- 23 or younger: S$6,200, then S$6,600 <sup>[197](#o197)</sup>
+- 45 or older: S$11,800, then S$12,700 <sup>[197](#o197)</sup>
 
 <a id="stage-2-compass"></a>
 
 #### 11.1.2 Stage 2: COMPASS
 
-COMPASS (the Complementarity Assessment Framework) scores the application, and it needs 40 points to pass <sup>[195](#o195)</sup>. The four main criteria give 0, 10 or 20 points each, and two bonuses add more <sup>[195](#o195)</sup>:
+COMPASS (the Complementarity Assessment Framework) scores the application, and it needs 40 points to pass <sup>[197](#o197)</sup>. The four main criteria give 0, 10 or 20 points each, and two bonuses add more <sup>[197](#o197)</sup>:
 
-- **C1 Salary**, against local professionals' salaries in the same sector: 20 points at the 90th percentile or above, 10 from the 65th, 0 below <sup>[195](#o195)</sup>.
-- **C2 Qualifications:** 20 for a degree-equivalent from a university in the top 100 of the QS World University Rankings, a highly reputed Asian university or a Singapore autonomous university; 10 for another qualification assessed as equal to a UK bachelor's degree; 0 for anything less, which shouldn't even be submitted <sup>[195](#o195)</sup>.
-- **C3 Diversity:** 20 if the candidate's nationality is under 5% of the firm's PMETs (professionals, managers, executives and technicians), 10 for 5% to under 25%, 0 for 25% or more <sup>[195](#o195)</sup>.
-- **C4 Support for local employment:** 20 if the firm's share of local PMETs is at or above its sector's median, 10 from the 20th percentile, 0 below <sup>[195](#o195)</sup>.
-- **Small firms:** with fewer than 25 PMETs, C3 and C4 each score 10 by default <sup>[195](#o195)</sup>.
-- **C5 Skills bonus:** for a job on the Shortage Occupation List, 20 if the candidate's nationality is under a third of the firm's PMETs, 10 if a third or more <sup>[195](#o195)</sup>.
-- **C6 Strategic Economic Priorities bonus:** 10 for firms in certain government programmes <sup>[195](#o195)</sup>.
+- **C1 Salary**, against local professionals' salaries in the same sector: 20 points at the 90th percentile or above, 10 from the 65th, 0 below <sup>[197](#o197)</sup>.
+- **C2 Qualifications:** 20 for a degree-equivalent from a university in the top 100 of the QS World University Rankings, a highly reputed Asian university or a Singapore autonomous university; 10 for another qualification assessed as equal to a UK bachelor's degree; 0 for anything less, which shouldn't even be submitted <sup>[197](#o197)</sup>.
+- **C3 Diversity:** 20 if the candidate's nationality is under 5% of the firm's PMETs (professionals, managers, executives and technicians), 10 for 5% to under 25%, 0 for 25% or more <sup>[197](#o197)</sup>.
+- **C4 Support for local employment:** 20 if the firm's share of local PMETs is at or above its sector's median, 10 from the 20th percentile, 0 below <sup>[197](#o197)</sup>.
+- **Small firms:** with fewer than 25 PMETs, C3 and C4 each score 10 by default <sup>[197](#o197)</sup>.
+- **C5 Skills bonus:** for a job on the Shortage Occupation List, 20 if the candidate's nationality is under a third of the firm's PMETs, 10 if a third or more <sup>[197](#o197)</sup>.
+- **C6 Strategic Economic Priorities bonus:** 10 for firms in certain government programmes <sup>[197](#o197)</sup>.
 
-A candidate with no degree can still pass with 40 points from the other criteria <sup>[195](#o195)</sup>. Candidates paid S$22,500 a month or more, overseas intra-corporate transferees and jobs of 1 month or less are exempt <sup>[195](#o195)</sup>. EPs expiring from 1 September 2024 must pass COMPASS again on renewal, and renewal is not guaranteed <sup>[296](#o296)</sup>.
+A candidate with no degree can still pass with 40 points from the other criteria <sup>[197](#o197)</sup>. Candidates paid S$22,500 a month or more, overseas intra-corporate transferees and jobs of 1 month or less are exempt <sup>[197](#o197)</sup>. EPs expiring from 1 September 2024 must pass COMPASS again on renewal, and renewal is not guaranteed <sup>[298](#o298)</sup>.
 
 <a id="step-1-the-employer-advertises-on-mycareersfuture"></a>
 
 ### 11.2 Step 1: The employer advertises on MyCareersFuture
 
-The rules are those for the S Pass, [Step 1: The employer advertises the job on MyCareersFuture](#step-1-the-employer-advertises-the-job-on-mycareersfuture): the employer advertises on MyCareersFuture for at least 14 consecutive days, and makes no job offer during that time <sup>[297](#o297)</sup>. The advert must be for the same occupation and the same employer as the EP application, and its salary range must include your salary <sup>[297](#o297)</sup>. The top of the range can't be more than twice the bottom: an advert starting at S$4,500 can't go above S$9,000 <sup>[297](#o297)</sup>. Any change to the advert means a new advert, open another 14 consecutive days, and an advert that closed or expired more than 3 months ago can't be used <sup>[297](#o297)</sup>.
+The rules are those for the S Pass, [Step 1: The employer advertises the job on MyCareersFuture](#step-1-the-employer-advertises-the-job-on-mycareersfuture): the employer advertises on MyCareersFuture for at least 14 consecutive days, and makes no job offer during that time <sup>[299](#o299)</sup>. The advert must be for the same occupation and the same employer as the EP application, and its salary range must include your salary <sup>[299](#o299)</sup>. The top of the range can't be more than twice the bottom: an advert starting at S$4,500 can't go above S$9,000 <sup>[299](#o299)</sup>. Any change to the advert means a new advert, open another 14 consecutive days, and an advert that closed or expired more than 3 months ago can't be used <sup>[299](#o299)</sup>.
 
 <a id="step-2-degree-verification"></a>
 
 ### 11.3 Step 2: Degree verification
 
-If the employer needs the C2 points, it must send verification proof with the certificate <sup>[195](#o195)</sup>. The employer must make sure the qualification is genuine and from an accredited institution; it is verified once per candidate <sup>[298](#o298)</sup>.
+If the employer needs the C2 points, it must send verification proof with the certificate <sup>[197](#o197)</sup>. The employer must make sure the qualification is genuine and from an accredited institution; it is verified once per candidate <sup>[300](#o300)</sup>.
 
 **MOM accepts only:**
-- a report from one of MOM's selected background screening companies, carrying an MOM verification reference number <sup>[298](#o298)</sup>;
-- a screenshot from an official verification portal that is in English, public and checkable by MOM <sup>[298](#o298)</sup>;
-- a background screening company's report where the university has no such portal <sup>[298](#o298)</sup>.
+- a report from one of MOM's selected background screening companies, carrying an MOM verification reference number <sup>[300](#o300)</sup>;
+- a screenshot from an official verification portal that is in English, public and checkable by MOM <sup>[300](#o300)</sup>;
+- a background screening company's report where the university has no such portal <sup>[300](#o300)</sup>.
 
-MOM does not accept the certificates themselves, notarised copies or letters from the school <sup>[298](#o298)</sup>.
+MOM does not accept the certificates themselves, notarised copies or letters from the school <sup>[300](#o300)</sup>.
 
 > **Need to know**
 > - Which Bangladeshi universities and boards have an English-language verification portal that MOM accepts?
@@ -2560,68 +2565,68 @@ MOM does not accept the certificates themselves, notarised copies or letters fro
 
 ### 11.4 Step 3: The employer applies
 
-1. The employer gets your written consent and the candidate's form, as for the S Pass ([S Pass](#s-pass), [Step 2: Give your consent and documents](#step-2-give-your-consent-and-documents)) <sup>[192](#o192)</sup>.
-2. It should not apply if MOM's Self-Assessment Tool says you don't qualify <sup>[299](#o299)</sup>.
-3. It applies on EP eService (MOM's online system for Employment Pass and family pass applications) and pays S$105; MOM decides or asks for more within 10 business days <sup>[299](#o299)</sup>.
-4. A company with no Singapore office applies through a local sponsor <sup>[295](#o295)</sup>.
+1. The employer gets your written consent and the candidate's form, as for the S Pass ([S Pass](#s-pass), [Step 2: Give your consent and documents](#step-2-give-your-consent-and-documents)) <sup>[194](#o194)</sup>.
+2. It should not apply if MOM's Self-Assessment Tool says you don't qualify <sup>[301](#o301)</sup>.
+3. It applies on EP eService (MOM's online system for Employment Pass and family pass applications) and pays S$105; MOM decides or asks for more within 10 business days <sup>[301](#o301)</sup>.
+4. A company with no Singapore office applies through a local sponsor <sup>[297](#o297)</sup>.
 
-**If refused:** only the employer or its agent can appeal, within 3 months; MOM takes no enquiries or appeals from the candidate <sup>[300](#o300)</sup>.
+**If refused:** only the employer or its agent can appeal, within 3 months; MOM takes no enquiries or appeals from the candidate <sup>[302](#o302)</sup>.
 
 <a id="step-4-ipa-arrival-and-the-card"></a>
 
 ### 11.5 Step 4: IPA, arrival and the card
 
-1. <a id="step-4-ipa-arrival-and-the-card-item-1"></a>**The IPA gives you 6 months** to enter Singapore and have the pass issued <sup>[299](#o299)</sup>. Check it on MOM's status page as in the S Pass, [Step 4: Get and check the IPA](#step-4-get-and-check-the-ipa) <sup>[101](#o101)</sup>.
-2. <a id="step-4-ipa-arrival-and-the-card-item-2"></a>**The employer has the pass issued** while you are in Singapore and pays S$225 (S$30 more for a Multiple Journey Visa) <sup>[299](#o299)</sup>.
-3. <a id="step-4-ipa-arrival-and-the-card-item-3"></a>**Fingerprints and photo, if required,** within 2 weeks, by appointment at the Employment Pass Services Centre (EPSC) <sup>[299](#o299)</sup>.
-4. <a id="step-4-ipa-arrival-and-the-card-item-4"></a>**Medical insurance** is the employer's choice for an EP <sup>[295](#o295)</sup>.
+1. <a id="step-4-ipa-arrival-and-the-card-item-1"></a>**The IPA gives you 6 months** to enter Singapore and have the pass issued <sup>[301](#o301)</sup>. Check it on MOM's status page as in the S Pass, [Step 4: Get and check the IPA](#step-4-get-and-check-the-ipa) <sup>[101](#o101)</sup>.
+2. <a id="step-4-ipa-arrival-and-the-card-item-2"></a>**The employer has the pass issued** while you are in Singapore and pays S$225 (S$30 more for a Multiple Journey Visa) <sup>[301](#o301)</sup>.
+3. <a id="step-4-ipa-arrival-and-the-card-item-3"></a>**Fingerprints and photo, if required,** within 2 weeks, by appointment at the Employment Pass Services Centre (EPSC) <sup>[301](#o301)</sup>.
+4. <a id="step-4-ipa-arrival-and-the-card-item-4"></a>**Medical insurance** is the employer's choice for an EP <sup>[297](#o297)</sup>.
 
 <a id="family-1"></a>
 
 ### 11.6 Family
 
-With a fixed monthly salary of at least S$6,000 you can bring a spouse and children; parents need S$12,000 (see [Family passes](#family-passes)) <sup>[301 (2024)](#o301)</sup>. You don't need MOM's approval to marry a Singaporean or PR <sup>[302 (2024)](#o302)</sup>.
+With a fixed monthly salary of at least S$6,000 you can bring a spouse and children; parents need S$12,000 (see [Family passes](#family-passes)) <sup>[303 (2024)](#o303)</sup>. You don't need MOM's approval to marry a Singaporean or PR <sup>[304 (2024)](#o304)</sup>.
 
 <a id="scams-on-an-employment-pass"></a>
 
 ### 11.7 Scams on an Employment Pass
 
-- **Fake or bought degrees:** the false-declaration penalties and lifetime ban are under S Pass, Scams <sup>[205 (2021)](#o205)</sup>. A certificate, a notarised copy or a school letter is never accepted as proof; only a screening company's report with an MOM reference number or an official portal check counts <sup>[298](#o298)</sup>.
+- **Fake or bought degrees:** the false-declaration penalties and lifetime ban are under S Pass, Scams <sup>[207 (2021)](#o207)</sup>. A certificate, a notarised copy or a school letter is never accepted as proof; only a screening company's report with an MOM reference number or an official portal check counts <sup>[300](#o300)</sup>.
 - **Callers posing as MOM:** MOM officers never ask you to transfer money or give bank log-in details; if unsure, call Singapore's ScamShield helpline, 1799 <sup>[101](#o101)</sup>.
 
 <a id="where-to-get-help-on-an-employment-pass"></a>
 
 ### 11.8 Where to get help on an Employment Pass
 
-MOM deals only with the employer, or the agent that applied, on an EP application <sup>[300](#o300)</sup>. You can check the status of the application or pass yourself on MOM's "Check work pass and application status" page with your date of birth and passport number, without logging in <sup>[101](#o101)</sup>.
+MOM deals only with the employer, or the agent that applied, on an EP application <sup>[302](#o302)</sup>. You can check the status of the application or pass yourself on MOM's "Check work pass and application status" page with your date of birth and passport number, without logging in <sup>[101](#o101)</sup>.
 
-- **In person:** MOM's Employment Pass Services Centre (EPSC), The Riverwalk, 20 Upper Circular Road, #04-01/02, Singapore 058416, Monday to Friday 8 am to 5.30 pm, by appointment <sup>[303](#o303), [299](#o299)</sup>.
-- **In writing:** MOM's online form "About Employment Pass, S Pass & other passes", on its Feedback and enquiries page (mom.gov.sg/contact-us/feedback-and-enquiries) <sup>[304](#o304)</sup>.
+- **In person:** MOM's Employment Pass Services Centre (EPSC), The Riverwalk, 20 Upper Circular Road, #04-01/02, Singapore 058416, Monday to Friday 8 am to 5.30 pm, by appointment <sup>[305](#o305), [301](#o301)</sup>.
+- **In writing:** MOM's online form "About Employment Pass, S Pass & other passes", on its Feedback and enquiries page (mom.gov.sg/contact-us/feedback-and-enquiries) <sup>[306](#o306)</sup>.
 
-The EPSC also issues the ONE Pass and the Tech.Pass <sup>[305](#o305), [306](#o306)</sup>.
+The EPSC also issues the Tech.Pass, and the ONE Pass for candidates without Singpass <sup>[307](#o307), [308](#o308)</sup>.
 
 <a id="one-pass-overseas-networks-and-expertise-pass"></a>
 
 ### 11.9 ONE Pass (Overseas Networks and Expertise Pass)
 
-For a fixed monthly salary of at least S$30,000 over the last 12 months, or a Singapore job at that salary, with an employer worth at least US$500 million on the market (or US$200 million revenue) <sup>[307](#o307)</sup>. People with outstanding achievements in sports, arts and culture, or academia and research can qualify without the salary <sup>[307](#o307)</sup>. You can apply yourself; it lasts up to 5 years, needs no new pass when you change jobs, and is exempt from COMPASS and the advertising rule <sup>[308](#o308)</sup>. Your spouse can work on a Letter of Consent (LOC, MOM's permission letter for some pass holders to work) <sup>[308](#o308)</sup>. An AI and Tech track opens on 28 January 2027 <sup>[308](#o308)</sup>.
+For a fixed monthly salary of at least S$30,000 over the last 12 months, or a Singapore job at that salary, with an employer worth at least US$500 million on the market (or US$200 million revenue) <sup>[309](#o309)</sup>. People with outstanding achievements in sports, arts and culture, or academia and research can qualify without the salary <sup>[309](#o309)</sup>. You can apply yourself; it lasts up to 5 years, needs no new pass when you change jobs, and is exempt from COMPASS and the advertising rule <sup>[310](#o310)</sup>. Your spouse can work on a Letter of Consent (LOC, MOM's permission letter for some pass holders to work) <sup>[310](#o310)</sup>. An AI and Tech track opens on 28 January 2027 <sup>[310](#o310)</sup>.
 
-- **Apply:** yourself, or through an appointed EA or an employer, on MOM's online ONE Pass application, paying S$105 by Visa or Mastercard <sup>[305](#o305)</sup>.
-- **Time:** within 4 weeks for most cases <sup>[305](#o305)</sup>.
-- **What you get:** an IPA, a single-entry visa giving you 6 months to enter and have the pass issued for S$225 (S$30 more for a Multiple Journey Visa), on EP eService if you have Singpass or by appointment at the EPSC if you don't <sup>[305](#o305)</sup>.
-- **If refused:** you, your EA or your employer can appeal online within 3 months; most appeals take 4 weeks <sup>[309 (2024)](#o309)</sup>.
-- **Scams and help:** no agent is needed, because you can apply yourself <sup>[305](#o305)</sup>; false declarations and the help channels are as for the Employment Pass (see [Scams on an Employment Pass](#scams-on-an-employment-pass); see [Where to get help on an Employment Pass](#where-to-get-help-on-an-employment-pass)) <sup>[205 (2021)](#o205), [303](#o303)</sup>.
+- **Apply:** yourself, or through an appointed EA or an employer, on MOM's online ONE Pass application, paying S$105 by Visa or Mastercard <sup>[307](#o307)</sup>.
+- **Time:** within 4 weeks for most cases <sup>[307](#o307)</sup>.
+- **What you get:** an IPA, a single-entry visa giving you 6 months to enter and have the pass issued for S$225 (S$30 more for a Multiple Journey Visa), on EP eService if you have Singpass or by appointment at the EPSC if you don't <sup>[307](#o307)</sup>.
+- **If refused:** you, your EA or your employer can appeal online within 3 months; most appeals take 4 weeks <sup>[311 (2024)](#o311)</sup>.
+- **Scams and help:** no agent is needed, because you can apply yourself <sup>[307](#o307)</sup>; false declarations and the help channels are as for the Employment Pass (see [Scams on an Employment Pass](#scams-on-an-employment-pass); see [Where to get help on an Employment Pass](#where-to-get-help-on-an-employment-pass)) <sup>[207 (2021)](#o207), [305](#o305)</sup>.
 
 <a id="entrepass"></a>
 
 ### 11.10 EntrePass
 
-For founders of a Singapore private limited company, registered with ACRA (the company registrar), that is venture-backed or owns innovative technology, in which you hold at least 30% <sup>[310](#o310)</sup>. One way in is having raised at least S$100,000 in a single funding round <sup>[310](#o310)</sup>. It is open to all nationalities, has no minimum salary, and lasts up to 1 year at first and at the first renewal, then up to 2 years per renewal <sup>[310](#o310), [311 (2024)](#o311)</sup>.
+For founders of a Singapore private limited company, registered with ACRA (the company registrar), that is venture-backed or owns innovative technology, in which you hold at least 30% <sup>[312](#o312)</sup>. One way in is having raised at least S$100,000 in a single funding round <sup>[312](#o312)</sup>. It is open to all nationalities, has no minimum salary, and lasts up to 1 year at first and at the first renewal, then up to 2 years per renewal <sup>[312](#o312), [313 (2024)](#o313)</sup>.
 
-- **Apply:** you apply yourself and pay S$105 <sup>[312](#o312)</sup>.
-- **Time:** within 6 weeks for most cases <sup>[312](#o312)</sup>.
-- **What you get:** an IPA giving you 6 months to enter and have the pass issued, for S$225 (S$30 more for a Multiple Journey Visa) <sup>[312](#o312)</sup>.
-- **Scams and help:** as for the Employment Pass (see [Scams on an Employment Pass](#scams-on-an-employment-pass); see [Where to get help on an Employment Pass](#where-to-get-help-on-an-employment-pass)) <sup>[205 (2021)](#o205), [303](#o303)</sup>.
+- **Apply:** you apply yourself and pay S$105 <sup>[314](#o314)</sup>.
+- **Time:** within 6 weeks for most cases <sup>[314](#o314)</sup>.
+- **What you get:** an IPA giving you 6 months to enter and have the pass issued, for S$225 (S$30 more for a Multiple Journey Visa) <sup>[314](#o314)</sup>.
+- **Scams and help:** as for the Employment Pass (see [Scams on an Employment Pass](#scams-on-an-employment-pass); see [Where to get help on an Employment Pass](#where-to-get-help-on-an-employment-pass)) <sup>[207 (2021)](#o207), [305](#o305)</sup>.
 
 > **Need to know**
 > - Can a rejected EntrePass be appealed, by whom and within what time?
@@ -2631,30 +2636,30 @@ For founders of a Singapore private limited company, registered with ACRA (the c
 
 ### 11.11 Personalised Employment Pass (PEP)
 
-For people earning at least S$22,500 a month <sup>[313 (2024)](#o313)</sup>. It lasts up to 3 years, is issued only once, and lets you stay 6 months between jobs; to keep it you must earn at least S$270,000 a year <sup>[314 (2024)](#o314), [313 (2024)](#o313)</sup>.
+For people earning at least S$22,500 a month <sup>[315 (2024)](#o315)</sup>. It lasts up to 3 years, is issued only once, and lets you stay 6 months between jobs; to keep it you must earn at least S$270,000 a year <sup>[316 (2024)](#o316), [315 (2024)](#o315)</sup>.
 
-- **Apply:** you apply yourself and pay S$105 <sup>[315](#o315)</sup>.
-- **Time:** within 6 weeks for most cases <sup>[315](#o315)</sup>.
-- **What you get:** an IPA giving you 6 months to enter and have the pass issued, for S$225 (S$30 more for a Multiple Journey Visa) <sup>[315](#o315)</sup>.
-- **If refused:** you or your authorised EA can appeal within 3 months; appeals take at least 8 weeks <sup>[316](#o316)</sup>.
-- **Scams and help:** as for the Employment Pass (see [Scams on an Employment Pass](#scams-on-an-employment-pass); see [Where to get help on an Employment Pass](#where-to-get-help-on-an-employment-pass)) <sup>[205 (2021)](#o205), [303](#o303)</sup>.
+- **Apply:** you apply yourself and pay S$105 <sup>[317](#o317)</sup>.
+- **Time:** within 6 weeks for most cases <sup>[317](#o317)</sup>.
+- **What you get:** an IPA giving you 6 months to enter and have the pass issued, for S$225 (S$30 more for a Multiple Journey Visa) <sup>[317](#o317)</sup>.
+- **If refused:** you or your authorised EA can appeal within 3 months; appeals take at least 8 weeks <sup>[318](#o318)</sup>.
+- **Scams and help:** as for the Employment Pass (see [Scams on an Employment Pass](#scams-on-an-employment-pass); see [Where to get help on an Employment Pass](#where-to-get-help-on-an-employment-pass)) <sup>[207 (2021)](#o207), [305](#o305)</sup>.
 
 <a id="techpass"></a>
 
 ### 11.12 Tech.Pass
 
-EDB (the Economic Development Board) and MOM stop taking new and renewal Tech.Pass applications on 28 January 2027, when the ONE Pass AI and Tech track replaces it <sup>[317](#o317)</sup>. Until then it needs a last salary of at least S$22,500 a month and 5 years in a leading role at a tech company worth at least US$500 million or with US$30 million raised; it lasts 2 years, renewable once <sup>[317](#o317)</sup>.
+EDB (the Economic Development Board) and MOM stop taking new and renewal Tech.Pass applications on 28 January 2027, when the ONE Pass AI and Tech track replaces it <sup>[319](#o319)</sup>. Until then it needs a last salary of at least S$22,500 a month and 5 years in a leading role at a tech company worth at least US$500 million or with US$30 million raised; it lasts 2 years, renewable once <sup>[319](#o319)</sup>.
 
-- **Apply:** yourself, with no job or employer needed: download EDB's Tech.Pass application form, sign it, and upload it with your passport page and supporting documents through EDB's FormSG submission form, paying S$105 (not refunded) by PayNow or card; new applications close at 23:59 on 27 January 2027 <sup>[306](#o306)</sup>.
-- **Time:** about 8 weeks once the documents are in order <sup>[306](#o306)</sup>.
-- **What you get:** MOM emails an IPA; the pass must be issued in person at the EPSC, by appointment, within 6 months, for S$225 (S$30 more for a Multiple Journey Visa), and the IPA cannot be extended <sup>[306](#o306)</sup>.
-- **Scams and help:** false declarations are as for the Employment Pass (see [Scams on an Employment Pass](#scams-on-an-employment-pass)); questions go to techpass@edb.gov.sg <sup>[205 (2021)](#o205), [306](#o306)</sup>.
+- **Apply:** yourself, with no job or employer needed: download EDB's Tech.Pass application form, sign it, and upload it with your passport page and supporting documents through EDB's FormSG submission form, paying S$105 (not refunded) by PayNow or card; new applications close at 23:59 on 27 January 2027 <sup>[308](#o308)</sup>.
+- **Time:** about 8 weeks once the documents are in order <sup>[308](#o308)</sup>.
+- **What you get:** MOM emails an IPA; the pass must be issued in person at the EPSC, by appointment, within 6 months, for S$225 (S$30 more for a Multiple Journey Visa), and the IPA cannot be extended <sup>[308](#o308)</sup>.
+- **Scams and help:** false declarations are as for the Employment Pass (see [Scams on an Employment Pass](#scams-on-an-employment-pass)); questions go to techpass@edb.gov.sg <sup>[207 (2021)](#o207), [308](#o308)</sup>.
 
 <a id="family-passes"></a>
 
 ## 12 Family passes
 
-Which pass a family member gets depends on who brings them: an EP or S Pass holder (MOM's Dependant's Pass or Long-Term Visit Pass), or a Singapore citizen or PR (ICA's Long-Term Visit Pass) <sup>[318](#o318), [319 (2024)](#o319), [320](#o320)</sup>. A Work Permit holder can't get passes for family at all <sup>[48](#o48)</sup>.
+Which pass a family member gets depends on who brings them: an EP or S Pass holder (MOM's Dependant's Pass or Long-Term Visit Pass), or a Singapore citizen or PR (ICA's Long-Term Visit Pass) <sup>[320](#o320), [321 (2024)](#o321), [322](#o322)</sup>. A Work Permit holder can't get passes for family at all <sup>[48](#o48)</sup>.
 
 <a id="family-of-ep-and-s-pass-holders"></a>
 
@@ -2664,31 +2669,31 @@ Which pass a family member gets depends on who brings them: an EP or S Pass hold
 
 #### 12.1.1 Who can come
 
-You must hold an EP or S Pass, earn a fixed monthly salary of at least S$6,000 (your own salary, not the household's), and be sponsored by an established Singapore-registered company, usually your employer <sup>[321 (2024)](#o321)</sup>.
+You must hold an EP or S Pass, earn a fixed monthly salary of at least S$6,000 (your own salary, not the household's), and be sponsored by an established Singapore-registered company, usually your employer <sup>[323 (2024)](#o323)</sup>.
 
-- **Dependant's Pass (DP):** your legally married spouse, and unmarried children under 21, including legally adopted children <sup>[322 (2024)](#o322), [321 (2024)](#o321)</sup>.
-- **Long-Term Visit Pass (LTVP) from MOM:** a common-law spouse, unmarried handicapped children 21 or older, and unmarried step-children under 21 <sup>[319 (2024)](#o319)</sup>.
-- **Parents (LTVP):** only if you earn at least S$12,000 a month <sup>[319 (2024)](#o319), [301 (2024)](#o301)</sup>.
+- **Dependant's Pass (DP):** your legally married spouse, and unmarried children under 21, including legally adopted children <sup>[324 (2024)](#o324), [323 (2024)](#o323)</sup>.
+- **Long-Term Visit Pass (LTVP) from MOM:** a common-law spouse, unmarried handicapped children 21 or older, and unmarried step-children under 21 <sup>[321 (2024)](#o321)</sup>.
+- **Parents (LTVP):** only if you earn at least S$12,000 a month <sup>[321 (2024)](#o321), [303 (2024)](#o303)</sup>.
 
-A DP lasts as long as your own pass, or less if the employer asks for less; cancelling an S Pass cancels the family's passes too <sup>[322 (2024)](#o322), [204](#o204)</sup>.
+A DP lasts as long as your own pass, or less if the employer asks for less; cancelling an S Pass cancels the family's passes too <sup>[324 (2024)](#o324), [206](#o206)</sup>.
 
 <a id="cost-and-time-2"></a>
 
 #### 12.1.2 Cost and time
 
-- Application: S$105 per person <sup>[323](#o323), [324](#o324)</sup>
-- Issue: S$225 per pass, plus S$30 for a Multiple Journey Visa if needed <sup>[323](#o323), [299](#o299)</sup>
-- Decision: within 3 weeks for most cases <sup>[323](#o323)</sup>
+- Application: S$105 per person <sup>[325](#o325), [326](#o326)</sup>
+- Issue: S$225 per pass, plus S$30 for a Multiple Journey Visa if needed <sup>[325](#o325), [301](#o301)</sup>
+- Decision: within 3 weeks for most cases <sup>[325](#o325)</sup>
 
-The employer can apply with your own pass or later, but if your S Pass is refused, the family fees are lost <sup>[323](#o323), [192](#o192)</sup>.
+The employer can apply with your own pass or later, but if your S Pass is refused, the family fees are lost <sup>[325](#o325), [194](#o194)</sup>.
 
-**If refused:** only your employer, or the authorised party that applied, can appeal a Dependant's Pass refusal, within 3 months; it takes at least 3 weeks <sup>[325 (2024)](#o325)</sup>.
+**If refused:** only your employer, or the authorised party that applied, can appeal a Dependant's Pass refusal, within 3 months; it takes at least 3 weeks <sup>[327 (2024)](#o327)</sup>.
 
 <a id="step-1-prepare-the-papers"></a>
 
 #### 12.1.3 Step 1: Prepare the papers
 
-You'll need <sup>[326](#o326)</sup>:
+You'll need <sup>[328](#o328)</sup>:
 - each person's passport particulars page;
 - for a spouse, the marriage certificate (for Muslims, the nikahnama);
 - for each child, the birth certificate naming both parents;
@@ -2699,56 +2704,56 @@ You'll need <sup>[326](#o326)</sup>:
 
 #### 12.1.4 Step 2: The employer applies
 
-Your employer applies on EP eService, one application per person, and pays S$105 each <sup>[323](#o323)</sup>. MOM says to bring family members in only once the pass is approved: they needn't be in Singapore when the employer applies, and MOM won't extend a visit pass that expires before the pass is issued <sup>[323](#o323)</sup>.
+Your employer applies on EP eService, one application per person, and pays S$105 each <sup>[325](#o325)</sup>. MOM says to bring family members in only once the pass is approved: they needn't be in Singapore when the employer applies, and MOM won't extend a visit pass that expires before the pass is issued <sup>[325](#o325)</sup>.
 
 <a id="step-3-travel-and-have-the-pass-issued"></a>
 
 #### 12.1.5 Step 3: Travel and have the pass issued
 
-The IPA letter is a pre-approved single-entry visa, valid 6 months for an EP holder's family and 2 months for an S Pass holder's <sup>[323](#o323)</sup>. Once they arrive, the employer has the pass issued (S$225) <sup>[323](#o323)</sup>. If asked to register fingerprints and photo, an EP holder's family goes to the Employment Pass Services Centre within 2 weeks of issue, and an S Pass holder's family to MOM Services Centre Hall C within 1 week <sup>[323](#o323)</sup>. Check the result on MOM's status page with date of birth and passport number <sup>[101](#o101)</sup>.
+The IPA letter is a pre-approved single-entry visa, valid 6 months for an EP holder's family and 2 months for an S Pass holder's <sup>[325](#o325)</sup>. Once they arrive, the employer has the pass issued (S$225) <sup>[325](#o325)</sup>. If asked to register fingerprints and photo, an EP holder's family goes to the Employment Pass Services Centre within 2 weeks of issue, and an S Pass holder's family to MOM Services Centre Hall C within 1 week <sup>[325](#o325)</sup>. Check the result on MOM's status page with date of birth and passport number <sup>[101](#o101)</sup>.
 
 <a id="can-they-work"></a>
 
 #### 12.1.6 Can they work?
 
-Since 1 May 2021 a DP holder can't work on a Letter of Consent (LOC; see ONE Pass (Overseas Networks and Expertise Pass)) <sup>[327 (2021)](#o327)</sup>. The employer must get them their own pass instead <sup>[328](#o328)</sup>:
-- an EP or S Pass, if they meet its rules on their own, after which the DP is cancelled <sup>[328](#o328)</sup>;
-- a DP-Work Permit, with no minimum salary, tied to the DP's validity and counted in the employer's Work Permit quota and levy <sup>[328](#o328)</sup>.
+Since 1 May 2021 a DP holder can't work on a Letter of Consent (LOC; see ONE Pass (Overseas Networks and Expertise Pass)) <sup>[329 (2021)](#o329)</sup>. The employer must get them their own pass instead <sup>[330](#o330)</sup>:
+- an EP or S Pass, if they meet its rules on their own, after which the DP is cancelled <sup>[330](#o330)</sup>;
+- a DP-Work Permit, with no minimum salary, tied to the DP's validity and counted in the employer's Work Permit quota and levy <sup>[330](#o330)</sup>.
 
-A DP holder may run their own business on a Letter of Consent and may volunteer unpaid for charity without a pass <sup>[328](#o328)</sup>.
+A DP holder may run their own business on a Letter of Consent and may volunteer unpaid for charity without a pass <sup>[330](#o330)</sup>.
 
 <a id="spouse-of-a-singapore-citizen-or-pr"></a>
 
 ### 12.2 Spouse of a Singapore citizen or PR
 
-A foreign spouse needs ICA's LTVP to live in Singapore, sponsored by the citizen or PR spouse after the marriage; marriage does not guarantee it <sup>[320](#o320)</sup>.
+A foreign spouse needs ICA's LTVP to live in Singapore, sponsored by the citizen or PR spouse after the marriage; marriage does not guarantee it <sup>[322](#o322)</sup>.
 
 <a id="cost-and-time-3"></a>
 
 #### 12.2.1 Cost and time
 
-- Application: S$45 <sup>[320](#o320)</sup>
-- Issue: S$60, plus S$30 for a Multiple Journey Visa <sup>[320](#o320)</sup>
-- Decision: within 6 months for a citizen's spouse, or 6 weeks with a Letter of Eligibility from the pre-marriage assessment; within 6 weeks for a PR's spouse <sup>[320](#o320), [329](#o329)</sup>
+- Application: S$45 <sup>[322](#o322)</sup>
+- Issue: S$60, plus S$30 for a Multiple Journey Visa <sup>[322](#o322)</sup>
+- Decision: within 6 months for a citizen's spouse, or 6 weeks with a Letter of Eligibility from the pre-marriage assessment; within 6 weeks for a PR's spouse <sup>[322](#o322), [331](#o331)</sup>
 
 <a id="step-1-before-marriage-take-the-pre-marriage-assessment-pmla"></a>
 
 #### 12.2.2 Step 1: Before marriage, take the pre-marriage assessment (PMLA)
 
-The Pre-Marriage LTVP Assessment (PMLA) is free and online, for a Singapore citizen and the non-resident (neither citizen nor PR) they plan to marry <sup>[330](#o330)</sup>.
+The Pre-Marriage LTVP Assessment (PMLA) is free and online, for a Singapore citizen and the non-resident (neither citizen nor PR) they plan to marry <sup>[332](#o332)</sup>.
 
-1. The citizen logs in with Singpass <sup>[330](#o330)</sup>.
-2. Together, in English, fill in the form within 7 days of starting it; it takes about 20 minutes and asks about income, education, home, travel and marital history, health and any criminal record <sup>[330](#o330)</sup>.
-3. Upload the intended spouse's passport, and for a current or former Work Permit holder, MOM's Letter of Approval for Marriage ([Step 2: The employer applies](#step-2-the-employer-applies)) <sup>[330](#o330)</sup>.
-4. ICA answers within 1 month <sup>[330](#o330)</sup>. A positive result is a Letter of Eligibility, valid 1 year; it is not a pass <sup>[330](#o330)</sup>.
+1. The citizen logs in with Singpass <sup>[332](#o332)</sup>.
+2. Together, in English, fill in the form within 7 days of starting it; it takes about 20 minutes and asks about income, education, home, travel and marital history, health and any criminal record <sup>[332](#o332)</sup>.
+3. Upload the intended spouse's passport, and for a current or former Work Permit holder, MOM's Letter of Approval for Marriage ([Step 2: The employer applies](#step-2-the-employer-applies)) <sup>[332](#o332)</sup>.
+4. ICA answers within 1 month <sup>[332](#o332)</sup>. A positive result is a Letter of Eligibility, valid 1 year; it is not a pass <sup>[332](#o332)</sup>.
 
-Any false statement voids the result <sup>[330](#o330)</sup>.
+Any false statement voids the result <sup>[332](#o332)</sup>.
 
 <a id="step-2-if-you-are-or-were-a-work-permit-holder-get-moms-approval-to-marry"></a>
 
 #### 12.2.3 Step 2: If you are or were a Work Permit holder, get MOM's approval to marry
 
-Anyone holding a Work Permit (including a Training Work Permit), and anyone whose last pass in Singapore was a Work Permit, needs MOM's approval before marrying a Singapore citizen or PR, for any kind of marriage (civil, religious or customary), in Singapore or abroad, even after the permit has ended <sup>[166](#o166), [320](#o320)</sup>. It is a condition of every Work Permit <sup>[207](#o207)</sup>. Approval isn't needed if you now hold, or last held, an EP or S Pass, or are now a citizen or PR <sup>[166](#o166)</sup>. You may register the marriage only after approval <sup>[331 (2024)](#o331)</sup>.
+Anyone holding a Work Permit (including a Training Work Permit), and anyone whose last pass in Singapore was a Work Permit, needs MOM's approval before marrying a Singapore citizen or PR, for any kind of marriage (civil, religious or customary), in Singapore or abroad, even after the permit has ended <sup>[166](#o166), [322](#o322)</sup>. It is a condition of every Work Permit <sup>[209](#o209)</sup>. Approval isn't needed if you now hold, or last held, an EP or S Pass, or are now a citizen or PR <sup>[166](#o166)</sup>. You may register the marriage only after approval <sup>[333 (2024)](#o333)</sup>.
 
 You'll need <sup>[166](#o166)</sup>:
 - MOM's declaration form, signed by both of you;
@@ -2760,7 +2765,7 @@ You'll need <sup>[166](#o166)</sup>:
 2. MOM emails the outcome within 4 weeks of getting everything <sup>[166](#o166)</sup>.
 3. Approval to marry doesn't give you the right to stay; ICA decides that through the LTVP <sup>[166](#o166)</sup>.
 
-About 8 in 10 Work Permit holders who applied in the five years to 2020 were approved <sup>[332 (2020)](#o332)</sup>.
+About 8 in 10 Work Permit holders who applied in the five years to 2020 were approved <sup>[334 (2020)](#o334)</sup>.
 
 **If you marry without approval:** MOM can withdraw your right to work in Singapore and bar you from entering for a period <sup>[166](#o166)</sup>.
 
@@ -2768,22 +2773,22 @@ About 8 in 10 Work Permit holders who applied in the five years to 2020 were app
 
 #### 12.2.4 Step 3: Apply for the LTVP after the marriage
 
-1. The Singaporean spouse logs in with Singpass and applies, attaching the Letter of Eligibility if you have one <sup>[320](#o320)</sup>.
-2. Use ICA's document checklist; Bangla documents need a translation by the Bangladesh embassy or a notary, or a private one attested by the embassy or notarised <sup>[320](#o320)</sup>.
-3. You needn't be in Singapore while it is processed, but either of you may be called for an interview <sup>[329](#o329)</sup>.
-4. If it is refused, appeal through ICA's online appeal service; it is free <sup>[333](#o333)</sup>.
+1. The Singaporean spouse logs in with Singpass and applies, attaching the Letter of Eligibility if you have one <sup>[322](#o322)</sup>.
+2. Use ICA's document checklist; Bangla documents need a translation by the Bangladesh embassy or a notary, or a private one attested by the embassy or notarised <sup>[322](#o322)</sup>.
+3. You needn't be in Singapore while it is processed, but either of you may be called for an interview <sup>[331](#o331)</sup>.
+4. If it is refused, appeal through ICA's online appeal service; it is free <sup>[335](#o335)</sup>.
 
 <a id="ltvp"></a>
 
 #### 12.2.5 LTVP+
 
-A citizen's foreign spouse may get the LTVP+, a longer and more secure pass, if they have at least one Singaporean child from the marriage or are pregnant; marriages of 3 years or more are generally viewed more favourably <sup>[320](#o320)</sup>.
+A citizen's foreign spouse may get the LTVP+, a longer and more secure pass, if they have at least one Singaporean child from the marriage or are pregnant; marriages of 3 years or more are generally viewed more favourably <sup>[322](#o322)</sup>.
 
 <a id="can-the-spouse-work"></a>
 
 #### 12.2.6 Can the spouse work?
 
-Yes, on a Letter of Consent once they have a job offer; the LTVP must have at least 3 months left and the employer applies <sup>[334](#o334), [335 (2024)](#o335), [320](#o320)</sup>. The 2021 change for Dependant's Pass holders does not apply to them <sup>[327 (2021)](#o327)</sup>. A PR's foreign spouse also needs this work authorisation before working <sup>[329](#o329)</sup>. When applying for or renewing the LTVP they can instead opt for a Pre-approved Letter of Consent (PLOC), which lets them work without a job offer first, except as journalists, editors, producers or in religious jobs <sup>[334](#o334)</sup>. Parents of citizens or PRs on an LTVP can work on a Work Permit <sup>[334](#o334)</sup>.
+Yes, on a Letter of Consent once they have a job offer; the LTVP must have at least 3 months left and the employer applies <sup>[336](#o336), [337 (2024)](#o337), [322](#o322)</sup>. The 2021 change for Dependant's Pass holders does not apply to them <sup>[329 (2021)](#o329)</sup>. A PR's foreign spouse also needs this work authorisation before working <sup>[331](#o331)</sup>. When applying for or renewing the LTVP they can instead opt for a Pre-approved Letter of Consent (PLOC), which lets them work without a job offer first, except as journalists, editors, producers or in religious jobs <sup>[336](#o336)</sup>. Parents of citizens or PRs on an LTVP can work on a Work Permit <sup>[336](#o336)</sup>.
 
 <a id="scams-7"></a>
 
@@ -2793,14 +2798,14 @@ Yes, on a Letter of Consent once they have a job offer; the LTVP must have at le
 
 #### 12.3.1 Done to migrants
 
-- **Immigration consultants:** ICA doesn't endorse firms that claim to improve your chances of a long-term pass, PR or citizenship, and takes no responsibility for money lost to them <sup>[289](#o289)</sup>.
+- **Immigration consultants:** ICA doesn't endorse firms that claim to improve your chances of a long-term pass, PR or citizenship, and takes no responsibility for money lost to them <sup>[291](#o291)</sup>.
 - **"Family visa" for a Work Permit holder:** there is no such pass; any offer of one is false <sup>[48](#o48)</sup>.
 
 <a id="tried-by-migrants"></a>
 
 #### 12.3.2 Tried by migrants
 
-- **Marriage of convenience (a sham marriage for a pass or a job):** punishable by a fine up to S$10,000, up to 10 years in jail, or both, for the couple and anyone who arranges it <sup>[336 (2019)](#o336), [337](#o337)</sup>. Even acting as a witness at a sham wedding has been prosecuted <sup>[337](#o337)</sup>. In one case each spouse got 6 months in jail <sup>[336 (2019)](#o336)</sup>. Report suspected cases to ICA on 1800-391 6150 <sup>[336 (2019)](#o336)</sup>.
+- **Marriage of convenience (a sham marriage for a pass or a job):** punishable by a fine up to S$10,000, up to 10 years in jail, or both, for the couple and anyone who arranges it <sup>[338 (2019)](#o338), [339](#o339)</sup>. Even acting as a witness at a sham wedding has been prosecuted <sup>[339](#o339)</sup>. In one case each spouse got 6 months in jail <sup>[338 (2019)](#o338)</sup>. Report suspected cases to ICA on 1800-391 6150 <sup>[338 (2019)](#o338)</sup>.
 
 > **Need to know**
 > - What does the High Commission or a Dhaka notary charge to translate and attest a nikahnama for an ICA or MOM application?
@@ -2809,34 +2814,34 @@ Yes, on a Letter of Consent once they have a job offer; the LTVP must have at le
 
 ### 12.4 Where to get help
 
-- **A Dependant's Pass or MOM LTVP:** the employer, which applies on EP eService; check the status yourself on MOM's "Check work pass and application status" page with date of birth and passport number <sup>[323](#o323), [101](#o101)</sup>.
-- **An ICA LTVP you can't complete or submit online:** ICA's LTVP enquiry form <sup>[320](#o320)</sup>.
+- **A Dependant's Pass or MOM LTVP:** the employer, which applies on EP eService; check the status yourself on MOM's "Check work pass and application status" page with date of birth and passport number <sup>[325](#o325), [101](#o101)</sup>.
+- **An ICA LTVP you can't complete or submit online:** ICA's LTVP enquiry form <sup>[322](#o322)</sup>.
 - **Approval to marry a citizen or PR:** MOM's online application form; MOM replies by email <sup>[166](#o166)</sup>.
-- **A suspected marriage of convenience:** ICA, 1800-391 6150 <sup>[336 (2019)](#o336)</sup>.
+- **A suspected marriage of convenience:** ICA, 1800-391 6150 <sup>[338 (2019)](#o338)</sup>.
 
 <a id="permanent-residence-and-citizenship"></a>
 
 ## 13 Permanent residence and citizenship
 
-A PR (permanent resident) may live in Singapore permanently, gets a blue identity card from age 15, and needs a valid Re-Entry Permit to travel abroad and return as a PR <sup>[338](#o338)</sup>. Every adult new citizen was a PR first <sup>[339](#o339)</sup>.
+A PR (permanent resident) may live in Singapore permanently, gets a blue identity card from age 15, and needs a valid Re-Entry Permit to travel abroad and return as a PR <sup>[340](#o340)</sup>. Every adult new citizen was a PR first <sup>[341](#o341)</sup>.
 
 <a id="who-can-apply-for-pr"></a>
 
 ### 13.1 Who can apply for PR
 
-- **EP and S Pass holders,** with no sponsor <sup>[338](#o338)</sup>.
-- **The spouse of a citizen or PR,** sponsored by the spouse <sup>[338](#o338)</sup>.
-- **Unmarried children under 21 of a citizen or PR,** sponsored by the parent <sup>[338](#o338)</sup>.
-- **Aged parents of a citizen,** sponsored by the citizen child <sup>[338](#o338)</sup>.
-- **Students** in Singapore who have passed a national exam or are in the Integrated Programme <sup>[338](#o338)</sup>.
+- **EP and S Pass holders,** with no sponsor <sup>[340](#o340)</sup>.
+- **The spouse of a citizen or PR,** sponsored by the spouse <sup>[340](#o340)</sup>.
+- **Unmarried children under 21 of a citizen or PR,** sponsored by the parent <sup>[340](#o340)</sup>.
+- **Aged parents of a citizen,** sponsored by the citizen child <sup>[340](#o340)</sup>.
+- **Students** in Singapore who have passed a national exam or are in the Integrated Programme <sup>[340](#o340)</sup>.
 
-Work Permit holders are not on the list: they can apply only after moving up to an S Pass or EP, or as the spouse of a citizen or PR, and a Work Permit holder needs MOM's approval to marry one (see [Family passes](#family-passes)) <sup>[338](#o338), [166](#o166)</sup>.
+Work Permit holders are not on the list: they can apply only after moving up to an S Pass or EP, or as the spouse of a citizen or PR, and a Work Permit holder needs MOM's approval to marry one (see [Family passes](#family-passes)) <sup>[340](#o340), [166](#o166)</sup>.
 
 <a id="realistic-chances"></a>
 
 ### 13.2 Realistic chances
 
-ICA weighs family ties to Singaporeans, economic contribution, qualifications, age, family profile and length of residence <sup>[338](#o338)</sup>. In 2025 Singapore granted 35,352 PRs and 25,094 citizenships, to all nationalities and categories together <sup>[339](#o339)</sup>.
+ICA weighs family ties to Singaporeans, economic contribution, qualifications, age, family profile and length of residence <sup>[340](#o340)</sup>. In 2025 Singapore granted 35,352 PRs and 25,094 citizenships, to all nationalities and categories together <sup>[341](#o341)</sup>.
 
 > **Need to know**
 > - How many Bangladeshis were granted PR in 2024 and 2025?
@@ -2846,37 +2851,37 @@ ICA weighs family ties to Singaporeans, economic contribution, qualifications, a
 
 ### 13.3 Cost and time
 
-- On applying: S$100 per applicant <sup>[338](#o338)</sup>
-- On approval: S$20 entry permit, S$50 five-year Re-Entry Permit, S$50 identity card <sup>[338](#o338)</sup>
-- Decision: generally within 6 months <sup>[338](#o338)</sup>
+- On applying: S$100 per applicant <sup>[340](#o340)</sup>
+- On approval: S$20 entry permit, S$50 five-year Re-Entry Permit, S$50 identity card <sup>[340](#o340)</sup>
+- Decision: generally within 6 months <sup>[340](#o340)</sup>
 
 <a id="step-1-gather-the-documents"></a>
 
 ### 13.4 Step 1: Gather the documents
 
-You'll need, from ICA's checklist (bring originals and official translations of anything not in English) <sup>[340](#o340), [338](#o338)</sup>:
+You'll need, from ICA's checklist (bring originals and official translations of anything not in English) <sup>[342](#o342), [340](#o340)</sup>:
 - a letter from your employer dated within 3 months of applying, stating occupation, start date and basic and gross monthly salary;
 - payslips for the last 6 months;
 - educational certificates and transcripts;
-- your passport <sup>[340](#o340)</sup>;
-- a recent colour digital photo, 400 x 514 pixels, on a white background <sup>[340](#o340)</sup>;
-- your birth certificate and, if married, your marriage certificate, unless the birth or marriage was registered in Singapore <sup>[340](#o340)</sup>.
+- your passport <sup>[342](#o342)</sup>;
+- a recent colour digital photo, 400 x 514 pixels, on a white background <sup>[342](#o342)</sup>;
+- your birth certificate and, if married, your marriage certificate, unless the birth or marriage was registered in Singapore <sup>[342](#o342)</sup>.
 
 <a id="step-2-apply-on-icas-e-pr-service"></a>
 
 ### 13.5 Step 2: Apply on ICA's e-PR service
 
-1. Log in with Singpass; as an EP or S Pass holder you fill in the form, make the declarations and submit it yourself <sup>[338](#o338)</sup>.
-2. Pay S$100 <sup>[338](#o338)</sup>.
-3. Follow the application online or on MyICA (ICA's portal); the outcome comes by email within about 6 months <sup>[338](#o338)</sup>.
+1. Log in with Singpass; as an EP or S Pass holder you fill in the form, make the declarations and submit it yourself <sup>[340](#o340)</sup>.
+2. Pay S$100 <sup>[340](#o340)</sup>.
+3. Follow the application online or on MyICA (ICA's portal); the outcome comes by email within about 6 months <sup>[340](#o340)</sup>.
 
 <a id="step-3-if-approved-complete-the-formalities"></a>
 
 ### 13.6 Step 3: If approved, complete the formalities
 
-The in-principle approval is not a pass: you must keep a valid pass, such as your work pass, while you complete the formalities, or you overstay <sup>[341](#o341)</sup>. Pay the issuance fees online, then download a letter saying whether you must go in person to the ICA Services Centre <sup>[338](#o338), [341](#o341)</sup>.
+The in-principle approval is not a pass: you must keep a valid pass, such as your work pass, while you complete the formalities, or you overstay <sup>[343](#o343)</sup>. Pay the issuance fees online, then download a letter saying whether you must go in person to the ICA Services Centre <sup>[340](#o340), [343](#o343)</sup>.
 
-**If refused:** appeal through ICA's online appeal service; it is free <sup>[333](#o333)</sup>.
+**If refused:** appeal through ICA's online appeal service; it is free <sup>[335](#o335)</sup>.
 
 > **Need to know**
 > - Where does a PR applicant send questions to ICA (enquiry form link, phone or counter at the ICA Services Centre)?
@@ -2885,25 +2890,25 @@ The in-principle approval is not a pass: you must keep a valid pass, such as you
 
 ### 13.7 National Service for sons
 
-Sons who become PRs as students or through their parents' sponsorship must do National Service (NS): they register at 16 and a half and are enlisted from 18, with no deferment for university <sup>[338](#o338)</sup>. Defaulting is punishable by a fine up to S$10,000, up to 3 years in jail, or both <sup>[338](#o338)</sup>. Giving up PR before finishing full-time NS damages the son's own future applications to work, study or live in Singapore, and the family's <sup>[338](#o338)</sup>. Questions go to the Central Manpower Base, 1800-3676767 in Singapore or +65 6567 6767 from abroad <sup>[338](#o338)</sup>.
+Sons who become PRs as students or through their parents' sponsorship must do National Service (NS): they register at 16 and a half and are enlisted from 18, with no deferment for university <sup>[340](#o340)</sup>. Defaulting is punishable by a fine up to S$10,000, up to 3 years in jail, or both <sup>[340](#o340)</sup>. Giving up PR before finishing full-time NS damages the son's own future applications to work, study or live in Singapore, and the family's <sup>[340](#o340)</sup>. Questions go to the Central Manpower Base, 1800-3676767 in Singapore or +65 6567 6767 from abroad <sup>[340](#o340)</sup>.
 
 <a id="citizenship"></a>
 
 ### 13.8 Citizenship
 
-A PR can apply after 2 years as a PR at age 21 or above, or after 2 years as a PR and 2 years married to a citizen <sup>[342](#o342)</sup>. The application fee is S$100, plus S$70 for the citizenship certificate and S$10 for the identity card if approved; ICA generally decides within 12 months, and approved applicants aged 16 to 60 must complete the Singapore Citizenship Journey programme <sup>[342](#o342)</sup>.
+A PR can apply after 2 years as a PR at age 21 or above, or after 2 years as a PR and 2 years married to a citizen <sup>[344](#o344)</sup>. The application fee is S$100, plus S$70 for the citizenship certificate and S$10 for the identity card if approved; ICA generally decides within 12 months, and approved applicants aged 16 to 60 must complete the Singapore Citizenship Journey programme <sup>[344](#o344)</sup>.
 
 <a id="scams-8"></a>
 
 ### 13.9 Scams
 
-ICA has no link with any agency claiming to be a Singapore immigration specialist or partner, and does not endorse consultants who promise better chances of PR or citizenship <sup>[338](#o338), [289](#o289)</sup>. Money paid to them is lost at your own risk <sup>[289](#o289)</sup>.
+ICA has no link with any agency claiming to be a Singapore immigration specialist or partner, and does not endorse consultants who promise better chances of PR or citizenship <sup>[340](#o340), [291](#o291)</sup>. Money paid to them is lost at your own risk <sup>[291](#o291)</sup>.
 
 <a id="changing-visa-type"></a>
 
 ## 14 Changing visa type
 
-In Singapore you don't convert one pass into another: the new employer applies for a new pass, and an old Work Permit is cancelled automatically when the new one is issued (a DP must be cancelled before a new EP or S Pass is issued) <sup>[191](#o191), [12](#o12), [328](#o328)</sup>.
+In Singapore you don't convert one pass into another: the new employer applies for a new pass, and an old Work Permit is cancelled automatically when the new one is issued (a DP must be cancelled before a new EP or S Pass is issued) <sup>[193](#o193), [12](#o12), [330](#o330)</sup>.
 
 <a id="visit-pass-to-a-job"></a>
 
@@ -2911,7 +2916,7 @@ In Singapore you don't convert one pass into another: the new employer applies f
 
 A visit pass is not a work pass: employing a foreigner without a valid work pass is an offence (a fine of S$5,000 to S$30,000, up to 1 year in jail, or both, for the employer), and a foreigner who works for himself without one faces up to S$20,000, 2 years in jail and a ban <sup>[153](#o153)</sup>.
 
-An employer can still apply for an S Pass or EP while you are in Bangladesh or in Singapore on a visit pass, and have it issued in Singapore using your visit pass details <sup>[192](#o192), [299](#o299)</sup>. But MOM says it cannot extend a candidate's visit pass, so employers should bring candidates in only once the pass is approved; you can start work only after the pass is issued and the notification letter comes <sup>[192](#o192), [299](#o299)</sup>.
+An employer can still apply for an S Pass or EP while you are in Bangladesh or in Singapore on a visit pass, and have it issued in Singapore using your visit pass details <sup>[194](#o194), [301](#o301)</sup>. But MOM says it cannot extend a candidate's visit pass, so employers should bring candidates in only once the pass is approved; you can start work only after the pass is issued and the notification letter comes <sup>[194](#o194), [301](#o301)</sup>.
 
 > **Need to know**
 > - Can an employer apply for a Bangladeshi's Work Permit while the worker is in Singapore on a visit pass, or must a first-time Bangladeshi Work Permit worker always enter on the IPA from Bangladesh?
@@ -2920,39 +2925,39 @@ An employer can still apply for an S Pass or EP while you are in Bangladesh or i
 
 ### 14.2 Student to work
 
-- **While studying:** a full-time Student's Pass holder at one of the institutions MOM lists may work up to 16 hours a week in term, and during vacations, without a work pass <sup>[268](#o268)</sup>.
-- **After graduating:** a graduate of an approved institute of higher learning (IHL: the local universities, polytechnics and other institutes on ICA's list) can apply for a 1-year LTVP, which can't be renewed, to stay and look for work after the Student's Pass ends; it costs S$45 to apply and S$60 to issue <sup>[286](#o286), [287](#o287)</sup>.
-- **The job:** the employer applies for an EP or S Pass in the normal way (see ["Employment Pass (EP)"](#employment-pass-ep); see [S Pass](#s-pass)) <sup>[294](#o294), [190](#o190)</sup>.
+- **While studying:** a full-time Student's Pass holder at one of the institutions MOM lists may work up to 16 hours a week in term, and during vacations, without a work pass <sup>[270](#o270)</sup>.
+- **After graduating:** a graduate of an approved institute of higher learning (IHL: the local universities, polytechnics and other institutes on ICA's list) can apply for a 1-year LTVP, which can't be renewed, to stay and look for work after the Student's Pass ends; it costs S$45 to apply and S$60 to issue <sup>[288](#o288), [289](#o289)</sup>.
+- **The job:** the employer applies for an EP or S Pass in the normal way (see ["Employment Pass (EP)"](#employment-pass-ep); see [S Pass](#s-pass)) <sup>[296](#o296), [192](#o192)</sup>.
 
 <a id="work-permit-to-s-pass-and-back"></a>
 
 ### 14.3 Work Permit to S Pass, and back
 
-The employer makes a new S Pass application and pays the fee again <sup>[343 (2024)](#o343)</sup>. The job must meet the S Pass salary, quota and advertising rules (see [S Pass](#s-pass)) <sup>[194](#o194), [190](#o190), [198](#o198)</sup>. Moving down works the same way: an S Pass construction worker can be moved to a Work Permit without the basic skills certificate if paid at least S$1,600, and earlier time on an EP, S Pass or Work Permit counts towards the higher-skilled (R1) levy grade <sup>[N54](#n54), [194](#o194)</sup>. Four construction workers were moved down from S Pass salaries of S$4,000 or more to Work Permit salaries of S$600 once they had paid for and passed a basic skills course (see [S Pass](#s-pass), Scams) <sup>[N55](#n55)</sup>.
+The employer makes a new S Pass application and pays the fee again <sup>[345 (2024)](#o345)</sup>. The job must meet the S Pass salary, quota and advertising rules (see [S Pass](#s-pass)) <sup>[196](#o196), [192](#o192), [200](#o200)</sup>. Moving down works the same way: an S Pass construction worker can be moved to a Work Permit without the basic skills certificate if paid at least S$1,600, and earlier time on an EP, S Pass or Work Permit counts towards the higher-skilled (R1) levy grade <sup>[N54](#n54), [196](#o196)</sup>. Four construction workers were moved down from S Pass salaries of S$4,000 or more to Work Permit salaries of S$600 once they had paid for and passed a basic skills course (see [S Pass](#s-pass), Scams) <sup>[N55](#n55)</sup>.
 
 <a id="work-permit-to-another-work-permit-changing-employer"></a>
 
 ### 14.4 Work Permit to another Work Permit (changing employer)
 
-The new employer applies for a new Work Permit, and only an employer in your own business sector can: with your current employer's consent at any time, or without it only when your permit is 40 to 21 days from expiry <sup>[12](#o12), [185](#o185)</sup>. The full steps are under Work Permit, "Changing employer or leaving" <sup>[12](#o12)</sup>.
+The new employer applies for a new Work Permit, and only an employer in your own business sector can: with your current employer's consent at any time, or without it only when your permit is 40 to 21 days from expiry <sup>[12](#o12), [187](#o187)</sup>. The full steps are under Work Permit, "Changing employer or leaving" <sup>[12](#o12)</sup>.
 
 <a id="s-pass-to-employment-pass"></a>
 
 ### 14.5 S Pass to Employment Pass
 
-The employer applies for an EP and must meet the EP salary, COMPASS and advertising rules; it can ask MOM to consider an application for both passes at once <sup>[195](#o195), [297](#o297), [192](#o192)</sup>.
+The employer applies for an EP and must meet the EP salary, COMPASS and advertising rules; it can ask MOM to consider an application for both passes at once <sup>[197](#o197), [299](#o299), [194](#o194)</sup>.
 
 <a id="dependants-pass-to-work"></a>
 
 ### 14.6 Dependant's Pass to work
 
-A DP holder works only on their own EP, S Pass or DP-Work Permit; see [Family passes](#family-passes), "Can they work?" <sup>[328](#o328), [327 (2021)](#o327)</sup>.
+A DP holder works only on their own EP, S Pass or DP-Work Permit; see [Family passes](#family-passes), "Can they work?" <sup>[330](#o330), [329 (2021)](#o329)</sup>.
 
 <a id="domestic-worker-to-another-job"></a>
 
 ### 14.7 Domestic worker to another job
 
-A domestic worker's Work Permit allows only household work at the approved addresses <sup>[207](#o207)</sup>. She can move to another household with her current employer's consent, requested by the new employer through MOM's FDW eService at least 30 days before her permit expires, after her 6-monthly medical examination <sup>[239 (2024)](#o239)</sup>.
+A domestic worker's Work Permit allows only household work at the approved addresses <sup>[209](#o209)</sup>. She can move to another household with her current employer's consent, requested by the new employer through MOM's FDW eService at least 30 days before her permit expires, after her 6-monthly medical examination <sup>[241 (2024)](#o241)</sup>.
 
 > **Need to know**
 > - Can a Bangladeshi domestic worker move to a non-domestic Work Permit (for example in construction or a shipyard) or an S Pass inside Singapore, and if so how?
@@ -2961,19 +2966,19 @@ A domestic worker's Work Permit allows only household work at the approved addre
 
 ## 15 Asylum
 
-Singapore has no asylum law or procedure, and says it is not in a position to accept anyone seeking political asylum or refugee status, regardless of ethnicity, place of origin or background <sup>[N88 (2020)](#n88), [344](#o344), [345](#o345), [346 (2023)](#o346)</sup>. It is not party to the 1951 Refugee Convention or its 1967 Protocol <sup>[N88 (2020)](#n88)</sup>.
+Singapore has no asylum law or procedure, and says it is not in a position to accept anyone seeking political asylum or refugee status, regardless of ethnicity, place of origin or background <sup>[N88 (2020)](#n88), [346](#o346), [347](#o347), [348 (2023)](#o348)</sup>. It is not party to the 1951 Refugee Convention or its 1967 Protocol <sup>[N88 (2020)](#n88)</sup>.
 
 <a id="what-unhcr-does"></a>
 
 ### 15.1 What UNHCR does
 
-UNHCR (the UN refugee agency) may register and assess asylum-seekers in Singapore remotely, but registration gives no legal status there <sup>[N88 (2020)](#n88)</sup>. Singapore says it will help such people leave safely for a third country, working with UNHCR where appropriate, and that it respects non-refoulement (not returning anyone to danger) <sup>[344](#o344)</sup>. On 30 July 2020 UNHCR had one refugee and one asylum-seeker case active in Singapore <sup>[N88 (2020)](#n88)</sup>.
+UNHCR (the UN refugee agency) may register and assess asylum-seekers in Singapore remotely, but registration gives no legal status there <sup>[N88 (2020)](#n88)</sup>. Singapore says it will help such people leave safely for a third country, working with UNHCR where appropriate, and that it respects non-refoulement (not returning anyone to danger) <sup>[346](#o346)</sup>. On 30 July 2020 UNHCR had one refugee and one asylum-seeker case active in Singapore <sup>[N88 (2020)](#n88)</sup>.
 
 <a id="what-happens-to-someone-who-claims-asylum"></a>
 
 ### 15.2 What happens to someone who claims asylum
 
-Asylum-seekers who enter or stay without a valid pass may be prosecuted and held in detention until they are deported, unless UNHCR is given access to them and a third country is found <sup>[N88 (2020)](#n88)</sup>. UNHCR recorded three cases in 2019-2020 of people refused entry to Singapore and deported without their need for protection being assessed <sup>[N88 (2020)](#n88)</sup>. Staying past the end of a pass is itself a criminal offence <sup>[204](#o204)</sup>. Injury and death cases are handled through MOM, the employer and the High Commission's labour wing (see [If a worker dies](#if-a-worker-dies), is injured or loses the job) <sup>[184 (2022)](#o184), [5](#o5)</sup>.
+Asylum-seekers who enter or stay without a valid pass may be prosecuted and held in detention until they are deported, unless UNHCR is given access to them and a third country is found <sup>[N88 (2020)](#n88)</sup>. UNHCR recorded three cases in 2019-2020 of people refused entry to Singapore and deported without their need for protection being assessed <sup>[N88 (2020)](#n88)</sup>. Staying past the end of a pass is itself a criminal offence <sup>[206](#o206)</sup>. Injury and death cases are handled through MOM, the employer and the High Commission's labour wing (see [If a worker dies](#if-a-worker-dies), is injured or loses the job) <sup>[186 (2022)](#o186), [5](#o5)</sup>.
 
 > **Need to know**
 > - Has any Bangladeshi been registered with UNHCR or resettled from Singapore since 2020?
@@ -2982,41 +2987,41 @@ Asylum-seekers who enter or stay without a valid pass may be prosecuted and held
 
 ## 16 Having a child in Singapore
 
-A baby born in Singapore to two Bangladeshi parents is not a Singapore citizen, because neither parent is a citizen <sup>[347](#o347)</sup>. The birth must still be registered in Singapore, the baby needs a Bangladeshi passport, and it can stay beyond 42 days only on a pass of its own <sup>[348](#o348), [349](#o349)</sup>.
+A baby born in Singapore to two Bangladeshi parents is not a Singapore citizen, because neither parent is a citizen <sup>[349](#o349)</sup>. The birth must still be registered in Singapore, the baby needs a Bangladeshi passport, and it can stay beyond 42 days only on a pass of its own <sup>[350](#o350), [351](#o351)</sup>.
 
 <a id="if-you-are-on-a-work-permit-or-are-a-domestic-worker"></a>
 
 ### 16.1 If you are on a Work Permit or are a domestic worker
 
-A woman on a Work Permit, including a domestic worker, must not become pregnant or give birth in Singapore, during or after her permit, unless she is already married to a Singapore citizen or PR with MOM's approval <sup>[207](#o207), [166](#o166)</sup>. This is a condition of the permit itself <sup>[207](#o207)</sup>. Employers must send workers for approved blood tests that can include pregnancy testing, and a domestic worker is tested for pregnancy every 6 months <sup>[207](#o207), [218](#o218)</sup>. The same rule is set out under Work Permit, "Marriage and pregnancy", and domestic worker, "Pregnancy and marriage" <sup>[166](#o166), [207](#o207)</sup>.
+A woman on a Work Permit, including a domestic worker, must not become pregnant or give birth in Singapore, during or after her permit, unless she is already married to a Singapore citizen or PR with MOM's approval <sup>[209](#o209), [166](#o166)</sup>. This is a condition of the permit itself <sup>[209](#o209)</sup>. Employers must send workers for approved blood tests that can include pregnancy testing, and a domestic worker is tested for pregnancy every 6 months <sup>[209](#o209), [220](#o220)</sup>. The same rule is set out under Work Permit, "Marriage and pregnancy", and domestic worker, "Pregnancy and marriage" <sup>[166](#o166), [209](#o209)</sup>.
 
-A woman visiting Singapore who is not married to a citizen or PR may give birth there only with an LTVP approved before her due date, sponsored by a citizen or PR aged 21 or over, with a letter from the Bangladesh High Commission confirming the baby will be Bangladeshi and get a travel document <sup>[350](#o350)</sup>.
+A woman visiting Singapore who is not married to a citizen or PR may give birth there only with an LTVP approved before her due date, sponsored by a citizen or PR aged 21 or over, with a letter from the Bangladesh High Commission confirming the baby will be Bangladeshi and get a travel document <sup>[352](#o352)</sup>.
 
 <a id="step-1-register-the-birth-with-ica-within-42-days"></a>
 
 ### 16.2 Step 1: Register the birth with ICA within 42 days
 
-All parents must register a birth in Singapore through LifeSG (the government app and website) within 42 days, whatever their pass or marital status; registering late risks a fine, jail or both <sup>[348](#o348)</sup>.
+All parents must register a birth in Singapore through LifeSG (the government app and website) within 42 days, whatever their pass or marital status; registering late risks a fine, jail or both <sup>[350](#o350)</sup>.
 
-You may be asked for <sup>[348](#o348)</sup>:
+You may be asked for <sup>[350](#o350)</sup>:
 - your marriage certificate (nikahnama) with an official English translation, if the marriage is not in your Singpass/MyInfo profile;
 - your passport biodata page, if you are a pass holder without Singpass.
 
-1. <a id="step-1-register-the-birth-with-ica-within-42-days-item-1"></a>**Log in:** parents holding a long-term pass (FIN holders) log in with Singpass on the LifeSG app or website; ICA also accepts registrations made with an email address <sup>[348](#o348)</sup>. For a hospital birth, the baby's sex and the date, time and place of birth are filled in automatically <sup>[348](#o348)</sup>.
-2. <a id="step-1-register-the-birth-with-ica-within-42-days-item-2"></a>**Enter the remaining details** and pay S$18 <sup>[348](#o348)</sup>. ICA usually registers the birth at once, or within 3 working days <sup>[348](#o348)</sup>.
-3. <a id="step-1-register-the-birth-with-ica-within-42-days-item-3"></a>**Download the digital birth certificate** from ICA's e-service within 90 days and save it; ICA no longer prints certificates <sup>[348](#o348)</sup>.
+1. <a id="step-1-register-the-birth-with-ica-within-42-days-item-1"></a>**Log in:** parents holding a long-term pass (FIN holders) log in with Singpass on the LifeSG app or website; ICA also accepts registrations made with an email address <sup>[350](#o350)</sup>. For a hospital birth, the baby's sex and the date, time and place of birth are filled in automatically <sup>[350](#o350)</sup>.
+2. <a id="step-1-register-the-birth-with-ica-within-42-days-item-2"></a>**Enter the remaining details** and pay S$18 <sup>[350](#o350)</sup>. ICA usually registers the birth at once, or within 3 working days <sup>[350](#o350)</sup>.
+3. <a id="step-1-register-the-birth-with-ica-within-42-days-item-3"></a>**Download the digital birth certificate** from ICA's e-service within 90 days and save it; ICA no longer prints certificates <sup>[350](#o350)</sup>.
 
-The baby gets a Special Pass valid 42 days from birth; its expiry date is on the Advisory Note with the certificate <sup>[348](#o348)</sup>.
+The baby gets a Special Pass valid 42 days from birth; its expiry date is on the Advisory Note with the certificate <sup>[350](#o350)</sup>.
 
 > **Need to know**
-> - Does the 14-calendar-day deadline on MOM's newborn page, for parents applying for the baby's Dependant's Pass, override ICA's 42 days <sup>[349](#o349), [348](#o348)</sup>?
+> - Does the 14-calendar-day deadline on MOM's newborn page, for parents applying for the baby's Dependant's Pass, override ICA's 42 days <sup>[351](#o351), [350](#o350)</sup>?
 > - Where on LifeSG does a parent with no Singpass (for example a Work Permit holder's wife on a visit pass) choose to register with an email address, and can it be done at ICA in person instead?
 
 <a id="step-2-register-the-birth-with-the-bangladesh-high-commission"></a>
 
 ### 16.3 Step 2: Register the birth with the Bangladesh High Commission
 
-The baby needs a Bangladeshi online birth registration certificate (BRC), in its English version, to get a passport <sup>[71](#o71), [351 (2022)](#o351)</sup>. The High Commission issues it: its newborn-passport notice asks for the online form filled in at www.lgd.gov.bd to get the baby's birth certificate from the High Commission <sup>[352 (2021)](#o352)</sup>. At a Bangladesh embassy abroad, registering a birth within 45 days is free, and later registration costs USD 1, paid in local currency <sup>[353](#o353)</sup>.
+The baby needs a Bangladeshi online birth registration certificate (BRC), in its English version, to get a passport <sup>[71](#o71), [353 (2022)](#o353)</sup>. The High Commission issues it: its newborn-passport notice asks for the online form filled in at www.lgd.gov.bd to get the baby's birth certificate from the High Commission <sup>[354 (2021)](#o354)</sup>. At a Bangladesh embassy abroad, registering a birth within 45 days is free, and later registration costs USD 1, paid in local currency <sup>[355](#o355)</sup>.
 
 > **Need to know**
 > - Is the online form for a birth abroad now filled in on bdris.gov.bd rather than www.lgd.gov.bd, and does the High Commission charge anything beyond the official fee?
@@ -3027,11 +3032,11 @@ The baby needs a Bangladeshi online birth registration certificate (BRC), in its
 
 ### 16.4 Step 3: Get the baby a Bangladeshi e-passport
 
-1. <a id="step-3-get-the-baby-a-bangladeshi-e-passport-item-1"></a>**Apply online** at epassport.gov.bd, entering the baby's birth registration certificate as its ID and the father's or mother's NID number <sup>[351 (2022)](#o351), [71](#o71)</sup>.
-2. <a id="step-3-get-the-baby-a-bangladeshi-e-passport-item-2"></a>**Go to the High Commission** (4th floor, Jit Poh Building, 19 Keppel Road) with the baby, on a weekday between 9 am and 12:30 pm, to enrol and pay by NETS <sup>[180 (2022)](#o180), [351 (2022)](#o351), [352 (2021)](#o352)</sup>.
-3. <a id="step-3-get-the-baby-a-bangladeshi-e-passport-item-3"></a>**Collect it in person** on a weekday between 2 pm and 4:30 pm, after the email saying it is ready <sup>[351 (2022)](#o351)</sup>.
+1. <a id="step-3-get-the-baby-a-bangladeshi-e-passport-item-1"></a>**Apply online** at epassport.gov.bd, entering the baby's birth registration certificate as its ID and the father's or mother's NID number <sup>[353 (2022)](#o353), [71](#o71)</sup>.
+2. <a id="step-3-get-the-baby-a-bangladeshi-e-passport-item-2"></a>**Go to the High Commission** (4th floor, Jit Poh Building, 19 Keppel Road) with the baby, on a weekday between 9 am and 12:30 pm, to enrol and pay by NETS <sup>[182 (2022)](#o182), [353 (2022)](#o353), [354 (2021)](#o354)</sup>.
+3. <a id="step-3-get-the-baby-a-bangladeshi-e-passport-item-3"></a>**Collect it in person** on a weekday between 2 pm and 4:30 pm, after the email saying it is ready <sup>[353 (2022)](#o353)</sup>.
 
-You'll need <sup>[351 (2022)](#o351), [352 (2021)](#o352), [71](#o71)</sup>:
+You'll need <sup>[353 (2022)](#o353), [354 (2021)](#o354), [71](#o71)</sup>:
 - the printed online application;
 - the baby's online birth registration certificate (English version), from [Step 2: Register the birth with the Bangladesh High Commission](#step-2-register-the-birth-with-the-bangladesh-high-commission);
 - a 3R-size lab-print photo of the baby on a grey background (required under age 6);
@@ -3039,7 +3044,7 @@ You'll need <sup>[351 (2022)](#o351), [352 (2021)](#o352), [71](#o71)</sup>:
 - the parents' passports (copies of pages 2 and 3), birth registration certificates or NIDs, and one photo of each parent;
 - the marriage certificate and nikahnama.
 
-**Fees:** a 48-page, 5-year e-passport costs S$154 regular or S$231 urgent at the High Commission's general rate <sup>[354 (2024)](#o354)</sup>. Bangladesh missions charge workers and students a lower rate, USD 30 regular or USD 45 express <sup>[72](#o72)</sup>.
+**Fees:** a 48-page, 5-year e-passport costs S$154 regular or S$231 urgent at the High Commission's general rate <sup>[356 (2024)](#o356)</sup>. Bangladesh missions charge workers and students a lower rate, USD 30 regular or USD 45 express <sup>[72](#o72)</sup>.
 
 > **Need to know**
 > - Does the High Commission in Singapore charge a worker's newborn the worker rate (USD 30) or the general rate (S$154)?
@@ -3049,11 +3054,11 @@ You'll need <sup>[351 (2022)](#o351), [352 (2021)](#o352), [71](#o71)</sup>:
 
 ### 16.5 Step 4: Get the baby a pass, or take it home
 
-**If you hold an EP or S Pass and earn at least S$6,000:** get the baby's passport from the High Commission ([Step 3: Get the baby a Bangladeshi e-passport](#step-3-get-the-baby-a-bangladeshi-e-passport)), and your employer applies for the baby's Dependant's Pass within 6 weeks of birth; most get an answer within 3 weeks <sup>[349](#o349), [194](#o194), [321 (2024)](#o321)</sup>. If the passport isn't ready, upload proof that you applied for it; the passport must be ready before the pass is issued <sup>[349](#o349)</sup>. If the Advisory Note is about to expire (within 7 days) and the passport still isn't ready, ask MOM to extend the Special Pass <sup>[349](#o349)</sup>.
+**If you hold an EP or S Pass and earn at least S$6,000:** get the baby's passport from the High Commission ([Step 3: Get the baby a Bangladeshi e-passport](#step-3-get-the-baby-a-bangladeshi-e-passport)), and your employer applies for the baby's Dependant's Pass within 6 weeks of birth; most get an answer within 3 weeks <sup>[351](#o351), [196](#o196), [323 (2024)](#o323)</sup>. If the passport isn't ready, upload proof that you applied for it; the passport must be ready before the pass is issued <sup>[351](#o351)</sup>. If the Advisory Note is about to expire (within 7 days) and the passport still isn't ready, ask MOM to extend the Special Pass <sup>[351](#o351)</sup>.
 
-**If you can't get a DP** (Work Permit, or S Pass under S$6,000): before day 42, apply to ICA, using its extension-of-stay form, for a visit pass or a longer Special Pass, or the baby must leave <sup>[349](#o349), [348](#o348), [321 (2024)](#o321)</sup>. If a DP is refused, MOM won't extend the Special Pass: the baby must leave before it expires unless ICA extends its stay <sup>[349](#o349)</sup>. Staying past 42 days without a pass is an offence under the Immigration Act <sup>[349](#o349)</sup>.
+**If you can't get a DP** (Work Permit, or S Pass under S$6,000): before day 42, apply to ICA, using its extension-of-stay form, for a visit pass or a longer Special Pass, or the baby must leave <sup>[351](#o351), [350](#o350), [323 (2024)](#o323)</sup>. If a DP is refused, MOM won't extend the Special Pass: the baby must leave before it expires unless ICA extends its stay <sup>[351](#o351)</sup>. Staying past 42 days without a pass is an offence under the Immigration Act <sup>[351](#o351)</sup>.
 
-**If one parent is a Singapore citizen:** a baby born in Singapore is a citizen by birth, and the foreign parent married to the citizen may then qualify for LTVP+ (see [Family passes](#family-passes)) <sup>[347](#o347), [320](#o320)</sup>.
+**If one parent is a Singapore citizen:** a baby born in Singapore is a citizen by birth, and the foreign parent married to the citizen may then qualify for LTVP+ (see [Family passes](#family-passes)) <sup>[349](#o349), [322](#o322)</sup>.
 
 <a id="sending-money-home"></a>
 
@@ -3075,19 +3080,19 @@ How salary must be paid is under Work Permit, Your rights at work, "When and how
 
 ### 17.2 Send through a bank or licensed remittance company, never hundi
 
-Bangladesh's government asks workers to send money only through legal channels, never hundi (informal transfer through unlicensed agents) <sup>[61](#o61)</sup>. Money sent through legal channels earns the receiver a 2.5% government cash incentive, sometimes with a further 2.5% from the bank, and the 2026-27 budget keeps the government incentive <sup>[N91](#n91), [355](#o355)</sup>.
+Bangladesh's government asks workers to send money only through legal channels, never hundi (informal transfer through unlicensed agents) <sup>[61](#o61)</sup>. Money sent through legal channels earns the receiver a 2.5% government cash incentive, sometimes with a further 2.5% from the bank, and the 2026-27 budget keeps the government incentive <sup>[N91](#n91), [357](#o357)</sup>.
 
-In Singapore, every remittance business needs a MAS licence under the Payment Services Act, unless exempted; the penalties for unlicensed remittance are under What can get you jailed or deported (see ["Money: hundi, moneylenders, bank accounts and SIM cards"](#money-hundi-moneylenders-bank-accounts-and-sim-cards)) <sup>[356](#o356), [162 (2024)](#o162)</sup>. Hundi in the dormitories is prosecuted: in September 2024 police charged a 38-year-old man who, from 2021 to 2023, collected cash from construction workers in a dormitory and had his family in Bangladesh pay out the taka (over S$118,000), and a 33-year-old Bangladeshi who ran the same scheme from 2020 to 2022 <sup>[162 (2024)](#o162)</sup>. In April 2026 two Indian men were charged after a 2025 police raid on Norris Road: remittances through one man's operations allegedly totalled more than S$38.6 million, police seized more than S$314,000 in cash and 30 ATM cards, and the other held 22 ATM cards belonging to other Indian nationals <sup>[163](#o163)</sup>. The police tell people to use only banks and remittance companies licensed by MAS, because unlicensed ones are not regulated <sup>[162 (2024)](#o162)</sup>.
+In Singapore, every remittance business needs a MAS licence under the Payment Services Act, unless exempted; the penalties for unlicensed remittance are under What can get you jailed or deported (see ["Money: hundi, moneylenders, bank accounts and SIM cards"](#money-hundi-moneylenders-bank-accounts-and-sim-cards)) <sup>[358](#o358), [162 (2024)](#o162)</sup>. Hundi in the dormitories is prosecuted: in September 2024 police charged a 38-year-old man who, from 2021 to 2023, collected cash from construction workers in a dormitory and had his family in Bangladesh pay out the taka (over S$118,000), and a 33-year-old Bangladeshi who ran the same scheme from 2020 to 2022 <sup>[162 (2024)](#o162)</sup>. In April 2026 two Indian men were charged after a 2025 police raid on Norris Road: remittances through one man's operations allegedly totalled more than S$38.6 million, police seized more than S$314,000 in cash and 30 ATM cards, and the other held 22 ATM cards belonging to other Indian nationals <sup>[163](#o163)</sup>. Only banks and remittance companies licensed by MAS are regulated; unlicensed ones are not <sup>[162 (2024)](#o162)</sup>.
 
 **Never lend, sell or "rent out" your bank account, ATM card or iBanking login:** letting anyone else use your POSB account is prohibited by the bank, and the penalties for money mules, up to caning, are under What can get you jailed or deported (see ["Money: hundi, moneylenders, bank accounts and SIM cards"](#money-hundi-moneylenders-bank-accounts-and-sim-cards)) <sup>[N90](#n90), [164](#o164)</sup>.
 
 You'll need:
 - For a bKash wallet: the receiver's bKash number and full name exactly as registered <sup>[N91](#n91)</sup>.
-- For a bank account: your own or a relative's account in Bangladesh <sup>[357](#o357)</sup>.
+- For a bank account: your own or a relative's account in Bangladesh <sup>[359](#o359)</sup>.
 
-1. <a id="send-through-a-bank-or-licensed-remittance-company-never-hundi-item-1"></a>**Check the company is licensed.** Open MAS's Financial Institutions Directory (eservices.mas.gov.sg/fid) and check the company is listed as a "Major Payment Institution" for "Cross-border Money Transfer Service"; 221 companies were listed in November 2026, each with its phone and address <sup>[358](#o358)</sup>. For example, Agrani Exchange House (of Agrani Bank) is listed at 5A Lembu Road, +65 6295 9731 <sup>[358](#o358), [359](#o359)</sup>. MAS says to check a company's contact details there if in doubt, because scammers pose as licensed firms <sup>[358](#o358)</sup>.
-2. <a id="send-through-a-bank-or-licensed-remittance-company-never-hundi-item-2"></a>**Choose the channel.** bKash's partners for sending from Singapore are Agrani Exchange, DBS Bank, NBL Singapore, Nium, Prime Exchange, SG QuickPay, Western Union, Dash, MoneyGram and Remitly <sup>[N91](#n91)</sup>. To send to a Nagad wallet, use a Nagad partner agent, bank or exchange house, including Western Union by agent, app or website; the receiver is told by SMS and gets the 2.5% incentive <sup>[N92](#n92)</sup>. To send straight into a bank account, use a bank or exchange house with a "drawing arrangement" with a Bangladeshi bank <sup>[357](#o357)</sup>.
-3. <a id="send-through-a-bank-or-licensed-remittance-company-never-hundi-item-3"></a>**Compare the cost.** In August 2025, sending S$260 (USD 200) to Bangladesh cost 6.54% on average: a S$4.95 fee plus a 4.64% exchange-rate margin, about S$17; sending S$645 (USD 500) cost 5.71% <sup>[359](#o359)</sup>. For S$260 <sup>[359](#o359)</sup>:
+1. <a id="send-through-a-bank-or-licensed-remittance-company-never-hundi-item-1"></a>**Check the company is licensed.** Open MAS's Financial Institutions Directory (eservices.mas.gov.sg/fid) and check the company is listed as a "Major Payment Institution" for "Cross-border Money Transfer Service"; 221 companies were listed in November 2026, each with its phone and address <sup>[360](#o360)</sup>. For example, Agrani Exchange House (of Agrani Bank) is listed at 5A Lembu Road, +65 6295 9731 <sup>[360](#o360), [361](#o361)</sup>. MAS says to check a company's contact details there if in doubt, because scammers pose as licensed firms <sup>[360](#o360)</sup>.
+2. <a id="send-through-a-bank-or-licensed-remittance-company-never-hundi-item-2"></a>**Choose the channel.** bKash's partners for sending from Singapore are Agrani Exchange, DBS Bank, NBL Singapore, Nium, Prime Exchange, SG QuickPay, Western Union, Dash, MoneyGram and Remitly <sup>[N91](#n91)</sup>. To send to a Nagad wallet, use a Nagad partner agent, bank or exchange house, including Western Union by agent, app or website; the receiver is told by SMS and gets the 2.5% incentive <sup>[N92](#n92)</sup>. To send straight into a bank account, use a bank or exchange house with a "drawing arrangement" with a Bangladeshi bank <sup>[359](#o359)</sup>.
+3. <a id="send-through-a-bank-or-licensed-remittance-company-never-hundi-item-3"></a>**Compare the cost.** In August 2025, sending S$260 (USD 200) to Bangladesh cost 6.54% on average: a S$4.95 fee plus a 4.64% exchange-rate margin, about S$17; sending S$645 (USD 500) cost 5.71% <sup>[361](#o361)</sup>. For S$260 <sup>[361](#o361)</sup>:
    - NBL Money Transfer: 3.37% (S$5 fee, 1.45% margin), cash, under an hour.
    - InstaReM: 4.39%, to a bank account, same day.
    - MoneyGram: 5.70%, by debit card.
@@ -3095,8 +3100,8 @@ You'll need:
    - Agrani Exchange House: 5.92%, under an hour.
    - Wise: 5.97%; Western Union: 6.14% in cash; Ample Transfer: 6.70%; Remitly: 8.19-8.55%.
 
-   Bangladesh Bank's own survey put the average cost from Singapore for up to USD 200 at 2.51% in January-March and 1.76% in April-June 2026 <sup>[360](#o360)</sup>.
-4. <a id="send-through-a-bank-or-licensed-remittance-company-never-hundi-item-4"></a>**Send.** For bKash, go to a partner branch or agent with the receiver's bKash number and registered name and hand over the cash; up to Tk 2.5 lakh per transfer, as often as you like <sup>[N91](#n91)</sup>. Banks in Bangladesh credit remittances within 3 days at most <sup>[357](#o357)</sup>.
+   Bangladesh Bank's own survey put the average cost from Singapore for up to USD 200 at 2.51% in January-March and 1.76% in April-June 2026 <sup>[362](#o362)</sup>.
+4. <a id="send-through-a-bank-or-licensed-remittance-company-never-hundi-item-4"></a>**Send.** For bKash, go to a partner branch or agent with the receiver's bKash number and registered name and hand over the cash; up to Tk 2.5 lakh per transfer, as often as you like <sup>[N91](#n91)</sup>. Banks in Bangladesh credit remittances within 3 days at most <sup>[359](#o359)</sup>.
 5. <a id="send-through-a-bank-or-licensed-remittance-company-never-hundi-item-5"></a>**The family collects.** bKash money can be cashed out at BRAC Bank, City Bank and Q-Cash ATM booths for Tk 7 per thousand <sup>[N91](#n91)</sup>.
 
 > **Need to know**
@@ -3105,7 +3110,7 @@ You'll need:
 
 **If something goes wrong:**
 - bKash helpline: 16247, or +88-02-55663001 from abroad <sup>[N91](#n91)</sup>.
-- Unlicensed remittance or a money-mule approach: the police hotline, 1800 255 0000 <sup>[361](#o361)</sup>.
+- Unlicensed remittance or a money-mule approach: the police hotline, 1800 255 0000 <sup>[363](#o363)</sup>.
 
 <a id="saving-and-pension-in-bangladesh"></a>
 
@@ -3115,61 +3120,61 @@ You'll need:
 
 #### 17.3.1 NRCTA (Non-Resident Convertible Taka Account)
 
-A taka savings, current or fixed-deposit account for Bangladeshis abroad, funded by remittances, at a scheduled bank's AD (Authorised Dealer, licensed for foreign exchange) branch or Offshore Banking Unit, under Bangladesh Bank's Circular 41 of 8 October 2026 <sup>[362](#o362)</sup>. A worker can open one before departure with no initial deposit, or during a visit home <sup>[362](#o362)</sup>. It earns market interest, and principal and interest can be sent abroad freely <sup>[362](#o362)</sup>. Banks may let someone in Bangladesh operate it under a power of attorney and may send the money to a non-resident nominee if the holder dies, and the account can be kept after coming home for good <sup>[362](#o362)</sup>. Banks may lend in taka against it, including to buy a home for your own use <sup>[362](#o362)</sup>. The trade-off: money sent into an NRCTA generally gets no 2.5% incentive unless specifically stated <sup>[362](#o362)</sup>.
+A taka savings, current or fixed-deposit account for Bangladeshis abroad, funded by remittances, at a scheduled bank's AD (Authorised Dealer, licensed for foreign exchange) branch or Offshore Banking Unit, under Bangladesh Bank's Circular 41 of 8 October 2026 <sup>[364](#o364)</sup>. A worker can open one before departure with no initial deposit, or during a visit home <sup>[364](#o364)</sup>. It earns market interest, and principal and interest can be sent abroad freely <sup>[364](#o364)</sup>. Banks may let someone in Bangladesh operate it under a power of attorney and may send the money to a non-resident nominee if the holder dies, and the account can be kept after coming home for good <sup>[364](#o364)</sup>. Banks may lend in taka against it, including to buy a home for your own use <sup>[364](#o364)</sup>. The trade-off: money sent into an NRCTA generally gets no 2.5% incentive unless specifically stated <sup>[364](#o364)</sup>.
 
 <a id="wage-earner-development-bond-wedb"></a>
 
 #### 17.3.2 Wage Earner Development Bond (WEDB)
 
-A 5-year government bond <sup>[363](#o363)</sup>.
-- Sizes: Tk 25,000, 50,000, 1 lakh, 2 lakh, 5 lakh, 10 lakh and 50 lakh <sup>[363](#o363)</sup>.
-- Where sold: Bangladesh Bank, any scheduled bank's AD branch, and abroad at branches of Bangladeshi banks, exchange houses and exchange companies <sup>[363](#o363)</sup>.
-- Who buys: a legal wage earner, in taka, with remittance sent through legal channels, in his own name or a named person's, with no ceiling <sup>[363](#o363)</sup>.
-- Profit at maturity, paid every six months: 12% for holdings up to Tk 15 lakh, 11% for Tk 15-30 lakh, 10% for Tk 30-50 lakh and 9% above <sup>[363](#o363)</sup>.
-- Cashing early pays less (up to Tk 15 lakh): 8.70% after 6-12 months, 9.45% after 12-18, 10.20% after 18-24 and 11.20% after 24-60 <sup>[363](#o363)</sup>.
-- Other terms: profit and investment are income-tax free; you can name a nominee and borrow against the bond; it has a 40-50% death-risk benefit; and the principal can be taken in US dollars <sup>[363](#o363)</sup>.
+A 5-year government bond <sup>[365](#o365)</sup>.
+- Sizes: Tk 25,000, 50,000, 1 lakh, 2 lakh, 5 lakh, 10 lakh and 50 lakh <sup>[365](#o365)</sup>.
+- Where sold: Bangladesh Bank, any scheduled bank's AD branch, and abroad at branches of Bangladeshi banks, exchange houses and exchange companies <sup>[365](#o365)</sup>.
+- Who buys: a legal wage earner, in taka, with remittance sent through legal channels, in his own name or a named person's, with no ceiling <sup>[365](#o365)</sup>.
+- Profit at maturity, paid every six months: 12% for holdings up to Tk 15 lakh, 11% for Tk 15-30 lakh, 10% for Tk 30-50 lakh and 9% above <sup>[365](#o365)</sup>.
+- Cashing early pays less (up to Tk 15 lakh): 8.70% after 6-12 months, 9.45% after 12-18, 10.20% after 18-24 and 11.20% after 24-60 <sup>[365](#o365)</sup>.
+- Other terms: profit and investment are income-tax free; you can name a nominee and borrow against the bond; it has a 40-50% death-risk benefit; and the principal can be taken in US dollars <sup>[365](#o365)</sup>.
 
 <a id="the-probash-universal-pension"></a>
 
 #### 17.3.3 The Probash universal pension
 
-The National Pension Authority's Universal Pension "Probash" scheme is for Bangladeshis working or living abroad: you pay in foreign currency and the pension is paid in taka <sup>[364](#o364)</sup>. You join at 18 to 50 with your NID or passport number; over 50 only under special consideration, paying 10 years without a break <sup>[365 (2024)](#o365)</sup>. You pay until 60, and the pension is paid for life <sup>[364](#o364)</sup>. The monthly contribution is Tk 1,000, 2,000, 5,000, 7,500 or 10,000 <sup>[366](#o366)</sup>.
+The National Pension Authority's Universal Pension "Probash" scheme is for Bangladeshis working or living abroad: you pay in foreign currency and the pension is paid in taka <sup>[366](#o366)</sup>. You join at 18 to 50 with your NID or passport number; over 50 only under special consideration, paying 10 years without a break <sup>[367 (2024)](#o367)</sup>. You pay until 60, and the pension is paid for life <sup>[366](#o366)</sup>. The monthly contribution is Tk 1,000, 2,000, 5,000, 7,500 or 10,000 <sup>[368](#o368)</sup>.
 
 > **Need to know**
-> - Is the Tk 1,000 contribution still offered, when the scheme's English brief lists only the other four <sup>[364](#o364)</sup>?
+> - Is the Tk 1,000 contribution still offered, when the scheme's English brief lists only the other four <sup>[366](#o366)</sup>?
 
-**What you get:** On the scheme's estimates, Tk 1,000 a month for 10 years gives about Tk 1,530 a month, and for 30 years about Tk 12,466 <sup>[366](#o366)</sup>. If you die, your nominee gets the pension until you would have turned 75; if you die before paying 10 years, the deposit comes back with profit <sup>[364](#o364)</sup>. You can borrow up to 50% of your deposit, repaid in up to 24 instalments, and the pension is income-tax free <sup>[364](#o364), [367](#o367)</sup>.
+**What you get:** On the scheme's estimates, Tk 1,000 a month for 10 years gives about Tk 1,530 a month, and for 30 years about Tk 12,466 <sup>[368](#o368)</sup>. If you die, your nominee gets the pension until you would have turned 75; if you die before paying 10 years, the deposit comes back with profit <sup>[366](#o366)</sup>. You can borrow up to 50% of your deposit, repaid in up to 24 instalments, and the pension is income-tax free <sup>[366](#o366), [369](#o369)</sup>.
 
 **The rules:**
 
-- No lump-sum withdrawal and no leaving before pension age <sup>[367](#o367)</sup>.
-- A late contribution has 1 month's grace, then a late fee of 1% a day <sup>[367](#o367)</sup>.
-- Never give anyone cash for contributions <sup>[367](#o367)</sup>.
-- From Singapore you pay in foreign currency, by credit or debit card, through an exchange house or banking channel, or from the Bangladesh account that receives your remittances, not in taka; contributions sent directly in foreign currency get a government incentive <sup>[365 (2024)](#o365), [367](#o367)</sup>.
-- Back home you can pay the same amount in taka, or change scheme <sup>[364](#o364)</sup>.
-- You can also open a Surakkha account (the scheme for self-employed and informal workers) for a spouse, parent or sibling aged 18 or over in Bangladesh and pay it in foreign currency, with that person's NID, bank account number and nominee details <sup>[366](#o366), [364](#o364)</sup>.
+- No lump-sum withdrawal and no leaving before pension age <sup>[369](#o369)</sup>.
+- A late contribution has 1 month's grace, then a late fee of 1% a day <sup>[369](#o369)</sup>.
+- Never give anyone cash for contributions <sup>[369](#o369)</sup>.
+- From Singapore you pay in foreign currency, by credit or debit card, through an exchange house or banking channel, or from the Bangladesh account that receives your remittances, not in taka; contributions sent directly in foreign currency get a government incentive <sup>[367 (2024)](#o367), [369](#o369)</sup>.
+- Back home you can pay the same amount in taka, or change scheme <sup>[366](#o366)</sup>.
+- You can also open a Surakkha account (the scheme for self-employed and informal workers) for a spouse, parent or sibling aged 18 or over in Bangladesh and pay it in foreign currency, with that person's NID, bank account number and nominee details <sup>[368](#o368), [366](#o366)</sup>.
 
-You'll need <sup>[365 (2024)](#o365)</sup>:
+You'll need <sup>[367 (2024)](#o367)</sup>:
 - Your NID number (or passport number).
 - Your Bangladesh bank account name, number and routing number.
 - Your nominee's ID number.
 
-1. <a id="the-probash-universal-pension-item-1"></a>**Register** at www.upension.gov.bd: click Registration, choose Probash, and type your NID or passport number, date of birth, mobile number and the captcha <sup>[365 (2024)](#o365)</sup>. Union Digital Centres (UDC, government service centres at union council level) help with registration <sup>[365 (2024)](#o365)</sup>.
-2. <a id="the-probash-universal-pension-item-2"></a>**Fill in** occupation, yearly income, permanent address, bank details, and the nominee's ID number, relationship and share; save, check and submit <sup>[365 (2024)](#o365)</sup>.
-3. <a id="the-probash-universal-pension-item-3"></a>**Pay** the first contribution, download the payment slip and keep the email with your pensioner ID <sup>[365 (2024)](#o365)</sup>.
-4. <a id="the-probash-universal-pension-item-4"></a>**Set a password** of at least 6 digits and print the pension ID card <sup>[365 (2024)](#o365)</sup>. If you registered with a passport, submit your NID once you have one <sup>[367](#o367)</sup>.
+1. <a id="the-probash-universal-pension-item-1"></a>**Register** at www.upension.gov.bd: click Registration, choose Probash, and type your NID or passport number, date of birth, mobile number and the captcha <sup>[367 (2024)](#o367)</sup>. Union Digital Centres (UDC, government service centres at union council level) help with registration <sup>[367 (2024)](#o367)</sup>.
+2. <a id="the-probash-universal-pension-item-2"></a>**Fill in** occupation, yearly income, permanent address, bank details, and the nominee's ID number, relationship and share; save, check and submit <sup>[367 (2024)](#o367)</sup>.
+3. <a id="the-probash-universal-pension-item-3"></a>**Pay** the first contribution, download the payment slip and keep the email with your pensioner ID <sup>[367 (2024)](#o367)</sup>.
+4. <a id="the-probash-universal-pension-item-4"></a>**Set a password** of at least 6 digits and print the pension ID card <sup>[367 (2024)](#o367)</sup>. If you registered with a passport, submit your NID once you have one <sup>[369](#o369)</sup>.
 
-**Help:** National Pension Authority, 43 Kakrail (4 Anjuman Mufidul Islam Road), Dhaka-1000; hotline 16131 or +88 09610 900800 (9 am-5 pm Bangladesh time); support@upension.gov.bd <sup>[364](#o364)</sup>.
+**Help:** National Pension Authority, 43 Kakrail (4 Anjuman Mufidul Islam Road), Dhaka-1000; hotline 16131 or +88 09610 900800 (9 am-5 pm Bangladesh time); support@upension.gov.bd <sup>[366](#o366)</sup>.
 
 <a id="going-home-without-valid-papers"></a>
 
 ## 18 Going home without valid papers
 
-Without a valid passport, a Bangladeshi in Singapore goes home on a Travel Permit (a one-way document for going back to Bangladesh) from the Bangladesh High Commission <sup>[368 (2022)](#o368)</sup>. Staying on after your pass expires or is cancelled is an offence, with the penalties under What can get you jailed or deported, "Overstaying" <sup>[36](#o36)</sup>.
+Without a valid passport, a Bangladeshi in Singapore goes home on a Travel Permit (a one-way document for going back to Bangladesh) from the Bangladesh High Commission <sup>[370 (2022)](#o370)</sup>. Staying on after your pass expires or is cancelled is an offence, with the penalties under What can get you jailed or deported, "Overstaying" <sup>[36](#o36)</sup>.
 
-ICA (the Immigration & Checkpoints Authority) says that, depending on how many days you overstayed, you get a composition fine (a fine paid instead of being charged) or are prosecuted in court <sup>[369 (2023)](#o369)</sup>. Overstayers who are caught are deported and barred from re-entering Singapore after their sentence or fine <sup>[370](#o370)</sup>. Working without a valid work pass adds a fine of up to S$20,000, up to 2 years' jail, or both, and a bar on working in Singapore <sup>[370](#o370)</sup>.
+ICA (the Immigration & Checkpoints Authority) says that, depending on how many days you overstayed, you get a composition fine (a fine paid instead of being charged) or are prosecuted in court <sup>[371 (2023)](#o371)</sup>. Overstayers who are caught are deported and barred from re-entering Singapore after their sentence or fine <sup>[372](#o372)</sup>. Working without a valid work pass adds a fine of up to S$20,000, up to 2 years' jail, or both, and a bar on working in Singapore <sup>[372](#o372)</sup>.
 
-In one case, a 26-year-old Bangladeshi stayed on after his Special Pass expired on 18 January 2021 and worked as a rice packer; ICA arrested him on 20 April 2021, and he got one month's jail and three strokes of the cane, then was deported and barred <sup>[35](#o35)</sup>. The Bangladeshi work-pass holder who employed him was jailed for 12 months in May 2026 <sup>[35](#o35)</sup>. Employing an overstayer, or recklessly or knowingly sheltering one, carries 6 months to 2 years' jail and a fine of up to S$6,000 <sup>[370](#o370)</sup>.
+In one case, a 26-year-old Bangladeshi stayed on after his Special Pass expired on 18 January 2021 and worked as a rice packer; ICA arrested him on 20 April 2021, and he got one month's jail and three strokes of the cane, then was deported and barred <sup>[35](#o35)</sup>. The Bangladeshi work-pass holder who employed him was jailed for 12 months in May 2026 <sup>[35](#o35)</sup>. Employing an overstayer, or recklessly or knowingly sheltering one, carries 6 months to 2 years' jail and a fine of up to S$6,000 <sup>[372](#o372)</sup>.
 
 <a id="help-from-bangladesh"></a>
 
@@ -3187,24 +3192,24 @@ A close relative in Bangladesh can ask the Ministry of Expatriates' Welfare to h
 
 With a valid passport, go to [Step 2: Report to ICA and fly home](#step-2-report-to-ica-and-fly-home). A new e-passport at a Bangladesh mission costs workers USD 30 regular or USD 45 express (48 pages, 5 years) <sup>[72](#o72)</sup>.
 
-You'll need <sup>[368 (2022)](#o368)</sup>:
+You'll need <sup>[370 (2022)](#o370)</sup>:
 - The application to the High Commissioner, marked Urgent or Regular, and the Annex-A form.
-- A letter from your company if you are on a Work Permit, or from MOM if you are on a Special Pass (the pass a worker is put on while, for example, his work injury claim is pending or he is helping an investigation) <sup>[176 (2024)](#o176), [371 (2024)](#o371)</sup>.
+- A letter from your company if you are on a Work Permit, or from MOM if you are on a Special Pass (the pass a worker is put on while, for example, his work injury claim is pending or he is helping an investigation) <sup>[176 (2024)](#o176), [181 (2024)](#o181)</sup>.
 - A police report if the passport was lost.
 - A photocopy of the expired, previous or lost passport (pages 2 and 3).
 - Two recent photos, 45 x 35 mm.
 
-1. <a id="step-1-get-a-passport-or-travel-permit-item-1"></a>**Fill in the form** addressed to the High Commissioner, attention First Secretary, Passport & Visa Wing <sup>[368 (2022)](#o368)</sup>. Annex-A asks for your full name, father's or husband's name, profession, present and permanent address (village, post office, police station, district), date and place of birth, height and gender <sup>[368 (2022)](#o368)</sup>.
-2. <a id="step-1-get-a-passport-or-travel-permit-item-2"></a>**Apply in person** at the High Commission, weekdays 9:30 am-12:30 pm; collection 2-4:30 pm <sup>[372 (2022)](#o372)</sup>. Pay at the counter by NETS only: S$40 urgent (1-3 working days) or S$20 regular (4-5 working days) <sup>[368 (2022)](#o368)</sup>.
+1. <a id="step-1-get-a-passport-or-travel-permit-item-1"></a>**Fill in the form** addressed to the High Commissioner, attention First Secretary, Passport & Visa Wing <sup>[370 (2022)](#o370)</sup>. Annex-A asks for your full name, father's or husband's name, profession, present and permanent address (village, post office, police station, district), date and place of birth, height and gender <sup>[370 (2022)](#o370)</sup>.
+2. <a id="step-1-get-a-passport-or-travel-permit-item-2"></a>**Apply in person** at the High Commission, weekdays 9:30 am-12:30 pm; collection 2-4:30 pm <sup>[373 (2022)](#o373)</sup>. Pay at the counter by NETS only: S$40 urgent (1-3 working days) or S$20 regular (4-5 working days) <sup>[370 (2022)](#o370)</sup>.
 
-**If it fails:** First Secretary (Passport), +65 6661 0280, mission.singapore@mofa.gov.bd <sup>[182](#o182)</sup>; Counsellor (Consular), +65 6661 0274, consular.bdhc.sg@mofa.gov.bd <sup>[182](#o182)</sup>.
+**If it fails:** First Secretary (Passport), +65 6661 0280, mission.singapore@mofa.gov.bd <sup>[184](#o184)</sup>; Counsellor (Consular), +65 6661 0274, consular.bdhc.sg@mofa.gov.bd <sup>[184](#o184)</sup>.
 
 <a id="step-2-report-to-ica-and-fly-home"></a>
 
 ### 18.3 Step 2: Report to ICA and fly home
 
 1. <a id="step-2-report-to-ica-and-fly-home-item-1"></a>**If ICA has kept you on a Special Pass** (for example as a witness in a case), report to ICA's repatriation branch for your flight home when the pass ends; not reporting breaks the pass conditions, and staying on after it expires is overstaying <sup>[N94](#n94)</sup>.
-2. <a id="step-2-report-to-ica-and-fly-home-item-2"></a>**If you have already overstayed,** you can turn yourself in to ICA's repatriation branch, but that does not stop prosecution: a 68-year-old woman who surrendered after overstaying for 19 years was sentenced in October 2026 to 6 months' jail and a S$2,000 fine in place of caning <sup>[N94](#n94)</sup>. ICA and the police visit overstayers' last known home and work addresses <sup>[293 (2023)](#o293)</sup>.
+2. <a id="step-2-report-to-ica-and-fly-home-item-2"></a>**If you have already overstayed,** you can turn yourself in to ICA's repatriation branch, but that does not stop prosecution: a 68-year-old woman who surrendered after overstaying for 19 years was sentenced in October 2026 to 6 months' jail and a S$2,000 fine in place of caning <sup>[N94](#n94)</sup>. ICA and the police visit overstayers' last known home and work addresses <sup>[295 (2023)](#o295)</sup>.
 3. <a id="step-2-report-to-ica-and-fly-home-item-3"></a>**The ticket.** For a Work Permit holder, the employer must pay the air ticket home whatever the reason the job ended <sup>[34 (2022)](#o34)</sup>. The Welfare Board also gives the Singapore labour wing money to send home stranded and detained workers: Tk 5 lakh in 2023-24 <sup>[111 (2024)](#o111)</sup>.
 
 > **Need to know**
@@ -3215,7 +3220,7 @@ You'll need <sup>[368 (2022)](#o368)</sup>:
 
 ### 18.4 Bans after you leave
 
-A deported overstayer is barred from re-entering Singapore <sup>[370](#o370)</sup>. Biometric checks at Singapore's checkpoints catch people using more than one identity or someone else's, and turn them away <sup>[293 (2023)](#o293)</sup>. Since 30 January 2026 ICA also sends airlines No-Boarding Directives, so a person barred from Singapore, or one who doesn't meet its entry requirements, is not let on a flight to Singapore <sup>[373](#o373)</sup>.
+A deported overstayer is barred from re-entering Singapore <sup>[372](#o372)</sup>. Biometric checks at Singapore's checkpoints catch people using more than one identity or someone else's, and turn them away <sup>[295 (2023)](#o295)</sup>. Since 30 January 2026 ICA also sends airlines No-Boarding Directives, so a person barred from Singapore, or one who doesn't meet its entry requirements, is not let on a flight to Singapore <sup>[374](#o374)</sup>.
 
 > **Need to know**
 > - How long does a re-entry bar last for an overstayer deported from Singapore, and can a new employer get an IPA for him later?
@@ -3224,7 +3229,7 @@ A deported overstayer is barred from re-entering Singapore <sup>[370](#o370)</su
 
 ## 19 If a worker dies, is injured or loses the job
 
-WEWB pays grants and helps with the migrant insurance for workers who left with BMET clearance or joined the Board <sup>[108](#o108), [112 (2024)](#o112)</sup>. The High Commission's labour wing settles death and compensation cases, working with the company, MOM, WEWB, a law firm and the next of kin <sup>[184 (2022)](#o184)</sup>. In 2023-24 WEWB paid out Tk 127.6 crore (1 crore is Tk 10 million) in death compensation, unpaid wages, insurance and service benefits that the labour wings recovered from employers abroad, for the families of 1,852 dead workers <sup>[111 (2024)](#o111)</sup>. From all countries, 4,745 bodies of migrant workers came home in 2023-24, between 323 and 470 a month <sup>[111 (2024)](#o111)</sup>, a record 5,038 in 2025 <sup>[N95](#n95)</sup>, and 4,060 from January to September 2026, more than 14 a day <sup>[N96](#n96)</sup>. In those nine months of 2026, 66% came with "natural death" written as the cause, and road, work, fire, fall and electric-shock accidents caused more than 16% <sup>[N96](#n96)</sup>. A regular worker's body comes home roughly on time, but an irregular worker's, without valid papers, takes a long time <sup>[N96](#n96)</sup>.
+WEWB pays grants and helps with the migrant insurance for workers who left with BMET clearance or joined the Board <sup>[108](#o108), [112 (2024)](#o112)</sup>. The High Commission's labour wing settles death and compensation cases, working with the company, MOM, WEWB, a law firm and the next of kin <sup>[186 (2022)](#o186)</sup>. In 2023-24 WEWB paid out Tk 127.6 crore (1 crore is Tk 10 million) in death compensation, unpaid wages, insurance and service benefits that the labour wings recovered from employers abroad, for the families of 1,852 dead workers <sup>[111 (2024)](#o111)</sup>. From all countries, 4,745 bodies of migrant workers came home in 2023-24, between 323 and 470 a month <sup>[111 (2024)](#o111)</sup>, a record 5,038 in 2025 <sup>[N95](#n95)</sup>, and 4,060 from January to September 2026, more than 14 a day <sup>[N96](#n96)</sup>. In those nine months of 2026, 66% came with "natural death" written as the cause, and road, work, fire, fall and electric-shock accidents caused more than 16% <sup>[N96](#n96)</sup>. A regular worker's body comes home roughly on time, but an irregular worker's, without valid papers, takes a long time <sup>[N96](#n96)</sup>.
 
 > **Need to know**
 > - How many Bangladeshi workers died in Singapore each year from 2023 to 2026, and of what causes?
@@ -3233,15 +3238,15 @@ WEWB pays grants and helps with the migrant insurance for workers who left with 
 
 ### 19.1 Check you are covered
 
-WEWB's death grant needs BMET emigration clearance or Board membership, and death in the country the clearance was for <sup>[108](#o108)</sup>. Workers with a BMET clearance card don't need to join the Board; anyone can check their clearance or membership at portal.wewb.gov.bd/bmet-wewbm-check <sup>[107](#o107)</sup>. A worker in Singapore without clearance can join online at portal.wewb.gov.bd, with a copy of the online application, the passport and proof of legal work (the Work Permit), for the equivalent of Tk 6,500 in Singapore dollars, life insurance included; the High Commission's labour wing verifies the application <sup>[107](#o107), [184 (2022)](#o184)</sup>. Workers cleared on or after 12 March 2023 also have the JBC (Jiban Bima Corporation) migrant insurance described in Work Permit, [Step 6, item 4: Know your insurance](#step-6-before-you-fly-item-4) <sup>[61](#o61), [112 (2024)](#o112)</sup>.
+WEWB's death grant needs BMET emigration clearance or Board membership, and death in the country the clearance was for <sup>[108](#o108)</sup>. Workers with a BMET clearance card don't need to join the Board; anyone can check their clearance or membership at portal.wewb.gov.bd/bmet-wewbm-check <sup>[107](#o107)</sup>. A worker in Singapore without clearance can join online at portal.wewb.gov.bd, with a copy of the online application, the passport and proof of legal work (the Work Permit), for the equivalent of Tk 6,500 in Singapore dollars, life insurance included; the High Commission's labour wing verifies the application <sup>[107](#o107), [186 (2022)](#o186)</sup>. Workers cleared on or after 12 March 2023 also have the JBC (Jiban Bima Corporation) migrant insurance described in Work Permit, [Step 6, item 4: Know your insurance](#step-6-before-you-fly-item-4) <sup>[61](#o61), [112 (2024)](#o112)</sup>.
 
 <a id="if-you-are-injured-or-fall-ill"></a>
 
 ### 19.2 If you are injured or fall ill
 
 1. <a id="if-you-are-injured-or-fall-ill-item-1"></a>**Treatment and compensation in Singapore.** Under Singapore's rules the employer arranges treatment for a worker hurt at work, and the High Commission contacts MOM or the company to help with hospital admission and legal compensation; for the work injury compensation claim itself, see If you are injured at work <sup>[5](#o5)</sup>.
-2. <a id="if-you-are-injured-or-fall-ill-item-2"></a>**Going home sick or injured.** On the worker's or family's application, with proof of clearance or membership and a passport copy, WEWB asks the mission to bring the worker home and in special cases helps with hospital admission <sup>[374](#o374)</sup>. A free ambulance from Dhaka and Chattogram airports takes injured or sick returnees on request <sup>[375](#o375)</sup>.
-3. <a id="if-you-are-injured-or-fall-ill-item-3"></a>**Treatment aid in Bangladesh.** Returnees with clearance or membership can get up to Tk 2 lakh for treatment; apply within 1 year of return with medical reports and prescriptions, a bank statement, a copy of the arrival stamp and the passport <sup>[376](#o376)</sup>.
+2. <a id="if-you-are-injured-or-fall-ill-item-2"></a>**Going home sick or injured.** On the worker's or family's application, with proof of clearance or membership and a passport copy, WEWB asks the mission to bring the worker home and in special cases helps with hospital admission <sup>[375](#o375)</sup>. A free ambulance from Dhaka and Chattogram airports takes injured or sick returnees on request <sup>[376](#o376)</sup>.
+3. <a id="if-you-are-injured-or-fall-ill-item-3"></a>**Treatment aid in Bangladesh.** Returnees with clearance or membership can get up to Tk 2 lakh for treatment; apply within 1 year of return with medical reports and prescriptions, a bank statement, a copy of the arrival stamp and the passport <sup>[377](#o377)</sup>.
 4. <a id="if-you-are-injured-or-fall-ill-item-4"></a>**The insurance.** It pays 100% of Tk 10 lakh for total permanent disability, and for partial disability <sup>[112 (2024)](#o112), [61](#o61)</sup>:
    - 90%: whole arm or leg.
    - 75%: arm at the elbow or leg below the knee.
@@ -3256,19 +3261,19 @@ WEWB's death grant needs BMET emigration clearance or Board membership, and deat
 
 ### 19.3 If a worker dies
 
-1. <a id="if-a-worker-dies-item-1"></a>**The employer usually pays to send the body home.** A dead worker's body is usually brought home at the employer's cost <sup>[111 (2024)](#o111)</sup>. For Work Permit holders, MOM makes the employer bear repatriation costs under the Employment of Foreign Manpower Regulations, whatever the circumstances, and sending the worker home is a condition of the employer's security bond, the S$5,000 bond it must buy for each non-Malaysian worker, which it cannot charge to the worker <sup>[34 (2022)](#o34), [189](#o189), [30](#o30)</sup>. If no employer can be found, it refuses, or the Bangladeshi community can't help, the Welfare Board pays to bring the body home, from money it gives the labour wings each year; the Singapore wing got Tk 1 lakh for this in 2023-24 <sup>[111 (2024)](#o111)</sup>.
+1. <a id="if-a-worker-dies-item-1"></a>**The employer usually pays to send the body home.** A dead worker's body is usually brought home at the employer's cost <sup>[111 (2024)](#o111)</sup>. For Work Permit holders, MOM makes the employer bear repatriation costs under the Employment of Foreign Manpower Regulations, whatever the circumstances, and sending the worker home is a condition of the employer's security bond, the S$5,000 bond it must buy for each non-Malaysian worker, which it cannot charge to the worker <sup>[34 (2022)](#o34), [191](#o191), [30](#o30)</sup>. If no employer can be found, it refuses, or the Bangladeshi community can't help, the Welfare Board pays to bring the body home, from money it gives the labour wings each year; the Singapore wing got Tk 1 lakh for this in 2023-24 <sup>[111 (2024)](#o111)</sup>.
 
    > **Need to know**
    > - Does MOM's repatriation duty cover embalming, the coffin and air freight of a body, and what does a casket company charge for Singapore to Dhaka?
-2. <a id="if-a-worker-dies-item-2"></a>**The employer authorises a casket company and the High Commission issues an NOC.** A No Objection Certificate (NOC) from the High Commission is required to send home the body of a worker who held a Work Permit or S Pass <sup>[377](#o377)</sup>. The papers <sup>[377](#o377)</sup>:
+2. <a id="if-a-worker-dies-item-2"></a>**The employer authorises a casket company and the High Commission issues an NOC.** A No Objection Certificate (NOC) from the High Commission is required to send home the body of a worker who held a Work Permit or S Pass <sup>[378](#o378)</sup>. The papers <sup>[378](#o378)</sup>:
    - Death certificate, NEA (National Environment Agency) certificate, embalming certificate and sealing-coffin certificate: original and 1 copy each.
    - Colour copies of the passport and Work Permit (2 each) and the FIN card, if any.
    - A letter from the last employer to the High Commission reporting the death and authorising a licensed casket company to arrange repatriation.
    - The flight booking confirmation.
 
-   If the death was accidental or work-related, add the police report; then give the name, colour NID or passport copy and phone of the family member receiving the body at Shahjalal airport, Dhaka, and the NOC is issued <sup>[377](#o377)</sup>. Labour and welfare wing: +65 6661 0279, 6255 0075, singaporelabourwing@yahoo.com.sg <sup>[377](#o377)</sup>.
-3. <a id="if-a-worker-dies-item-3"></a>**The family in Bangladesh can ask for help.** The family has to apply; if the worker left with BMET clearance or joined the Board through the mission, the Board pays to bring the body home, and if not, the family can still apply and the Board passes it to the Ministry, which pays from a yearly budget <sup>[N96](#n96)</sup>. WEWB takes the family's choice (body home or burial in Singapore) to the mission and follows the case until the body arrives, free <sup>[378](#o378), [379](#o379)</sup>. The Ministry also brings home the bodies of irregular, undocumented and destitute workers: the next of kin applies with what happened, the cause of death, proof of status (passport, work permit, smart card or foreign ID) and the death certificate; free, 7 working days <sup>[99](#o99)</sup>. Probash-Bondhu: 16135, +8809610102030 from abroad <sup>[70](#o70)</sup>.
-4. <a id="if-a-worker-dies-item-4"></a>**At the airport: Tk 35,000.** For every body that arrives, the airport welfare desk gives the family a Tk 35,000 cheque for transport and burial, free and at once, collectable within 3 months <sup>[380](#o380), [381](#o381)</sup>. A free ambulance from Dhaka and Chattogram airports is available on request <sup>[375](#o375)</sup>. You'll need <sup>[381](#o381), [380](#o380), [102](#o102)</sup>:
+   If the death was accidental or work-related, add the police report; then give the name, colour NID or passport copy and phone of the family member receiving the body at Shahjalal airport, Dhaka, and the NOC is issued <sup>[378](#o378)</sup>. Labour and welfare wing: +65 6661 0279, 6255 0075, singaporelabourwing@yahoo.com.sg <sup>[378](#o378)</sup>.
+3. <a id="if-a-worker-dies-item-3"></a>**The family in Bangladesh can ask for help.** The family has to apply; if the worker left with BMET clearance or joined the Board through the mission, the Board pays to bring the body home, and if not, the family can still apply and the Board passes it to the Ministry, which pays from a yearly budget <sup>[N96](#n96)</sup>. WEWB takes the family's choice (body home or burial in Singapore) to the mission and follows the case until the body arrives, free <sup>[379](#o379), [380](#o380)</sup>. The Ministry also brings home the bodies of irregular, undocumented and destitute workers: the next of kin applies with what happened, the cause of death, proof of status (passport, work permit, smart card or foreign ID) and the death certificate; free, 7 working days <sup>[99](#o99)</sup>. Probash-Bondhu: 16135, +8809610102030 from abroad <sup>[70](#o70)</sup>.
+4. <a id="if-a-worker-dies-item-4"></a>**At the airport: Tk 35,000.** For every body that arrives, the airport welfare desk gives the family a Tk 35,000 cheque for transport and burial, free and at once, collectable within 3 months <sup>[381](#o381), [382](#o382)</sup>. A free ambulance from Dhaka and Chattogram airports is available on request <sup>[376](#o376)</sup>. You'll need <sup>[382](#o382), [381](#o381), [102](#o102)</sup>:
    - The deceased's passport copy.
    - A heirship certificate from the local chairman or commissioner.
    - The NID of the wife, father or mother.
@@ -3284,8 +3289,8 @@ WEWB's death grant needs BMET emigration clearance or Board membership, and deat
    - A bank statement with the routing number.
    - Attested colour photos of each family member.
    - The deceased's passport copy.
-6. <a id="if-a-worker-dies-item-6"></a>**Compensation in Singapore.** For a work death the High Commission contacts the employer and the insurer to help the next of kin claim compensation under Singapore law <sup>[5](#o5)</sup>. Under WICA (the Work Injury Compensation Act), the lump sum for a death from an accident on or after 1 November 2025 is at least S$91,000 and at most S$269,000 <sup>[130](#o130)</sup>; for how it is claimed, see [If you are injured at work](#if-you-are-injured-at-work). WEWB's legal cell helps the heirs prepare a power of attorney; the family gives a family-members certificate, a Tk 400 non-judicial stamp undertaking, a bank statement with routing number and 2 colour photos of each heir <sup>[382](#o382)</sup>. The next of kin can also apply to the Ministry at aswelfare@probashi.gov.bd with proof of status, employer details and amounts owed; free; the Ministry writes to the mission and WEWB within 7 working days <sup>[99](#o99)</sup>.
-7. <a id="if-a-worker-dies-item-7"></a>**The insurance: Tk 10 lakh.** It pays 100% for natural death, and for accidental death during the cover or within 90 days after it ends <sup>[112 (2024)](#o112)</sup>. WEWB checks the claim papers and recommends to JBC, which pays WEWB <sup>[112 (2024)](#o112)</sup>; WEWB helps the family claim with proof of clearance or membership and a passport copy, free, on 16135 <sup>[383](#o383)</sup>.
+6. <a id="if-a-worker-dies-item-6"></a>**Compensation in Singapore.** For a work death the High Commission contacts the employer and the insurer to help the next of kin claim compensation under Singapore law <sup>[5](#o5)</sup>. Under WICA (the Work Injury Compensation Act), the lump sum for a death from an accident on or after 1 November 2025 is at least S$91,000 and at most S$269,000 <sup>[130](#o130)</sup>; for how it is claimed, see [If you are injured at work](#if-you-are-injured-at-work). WEWB's legal cell helps the heirs prepare a power of attorney; the family gives a family-members certificate, a Tk 400 non-judicial stamp undertaking, a bank statement with routing number and 2 colour photos of each heir <sup>[383](#o383)</sup>. The next of kin can also apply to the Ministry at aswelfare@probashi.gov.bd with proof of status, employer details and amounts owed; free; the Ministry writes to the mission and WEWB within 7 working days <sup>[99](#o99)</sup>.
+7. <a id="if-a-worker-dies-item-7"></a>**The insurance: Tk 10 lakh.** It pays 100% for natural death, and for accidental death during the cover or within 90 days after it ends <sup>[112 (2024)](#o112)</sup>. WEWB checks the claim papers and recommends to JBC, which pays WEWB <sup>[112 (2024)](#o112)</sup>; WEWB helps the family claim with proof of clearance or membership and a passport copy, free, on 16135 <sup>[384](#o384)</sup>.
 
    > **Need to know**
    > - What are JBC's official claim form, document list and exclusions <sup>[112 (2024)](#o112)</sup>?
@@ -3295,9 +3300,9 @@ WEWB's death grant needs BMET emigration clearance or Board membership, and deat
 
 ### 19.4 If you lose the job
 
-1. <a id="if-you-lose-the-job-item-1"></a>**In Singapore,** the employer must settle your salary and dues and pay your ticket home when the job ends (see [Leaving at the end of the job](#leaving-at-the-end-of-the-job)) <sup>[6](#o6)</sup>. When two companies went bankrupt in 2026 and Bangladeshi workers went unpaid, the High Commission met the workers on 8 July and took the case to MOM, which resolved it; on 11 August Bangladesh's foreign state minister thanked Singapore's manpower minister of state for the re-employment of about 250 Bangladeshi workers <sup>[5](#o5)</sup>. A worker kept in Singapore on a Special Pass to help an investigation is generally allowed to work under MOM's Temporary Job Scheme (TJS) while the case goes on <sup>[371 (2024)](#o371)</sup>.
+1. <a id="if-you-lose-the-job-item-1"></a>**In Singapore,** the employer must settle your salary and dues and pay your ticket home when the job ends (see [Leaving at the end of the job](#leaving-at-the-end-of-the-job)) <sup>[6](#o6)</sup>. When two companies went bankrupt in 2026 and Bangladeshi workers went unpaid, the High Commission met the workers on 8 July and took the case to MOM, which resolved it; on 11 August Bangladesh's foreign state minister thanked Singapore's manpower minister of state for the re-employment of about 250 Bangladeshi workers <sup>[5](#o5)</sup>. A worker kept in Singapore on a Special Pass to help an investigation is generally allowed to work under MOM's Temporary Job Scheme (TJS) while the case goes on <sup>[181 (2024)](#o181)</sup>.
 2. <a id="if-you-lose-the-job-item-2"></a>**From Bangladesh,** you or your family can apply to the Ministry about unpaid wages, allowances or insurance, with proof of status, the employer's name and address and the amounts owed; the Ministry writes to the mission or WEWB within 7 working days, free <sup>[99](#o99)</sup>.
-3. <a id="if-you-lose-the-job-item-3"></a>**Job-loss insurance.** Tk 50,000 if you lose the job and return within 6 months of going, but not if you went entirely at the employer's cost <sup>[112 (2024)](#o112), [61](#o61)</sup>. Claim through WEWB with proof of clearance or membership and a passport copy; free <sup>[383](#o383)</sup>.
+3. <a id="if-you-lose-the-job-item-3"></a>**Job-loss insurance.** Tk 50,000 if you lose the job and return within 6 months of going, but not if you went entirely at the employer's cost <sup>[112 (2024)](#o112), [61](#o61)</sup>. Claim through WEWB with proof of clearance or membership and a passport copy; free <sup>[384](#o384)</sup>.
 4. <a id="if-you-lose-the-job-item-4"></a>**If you can't get home,** a relative in Bangladesh can ask the Ministry for help ([Going home without valid papers](#going-home-without-valid-papers)) <sup>[99](#o99)</sup>.
 
 **If a claim stalls:**
@@ -3312,40 +3317,40 @@ WEWB's death grant needs BMET emigration clearance or Board membership, and deat
 At Dhaka, Chattogram and Sylhet airports, WEWB's Probashi Kallyan (expatriate welfare) desks meet returning workers <sup>[102](#o102)</sup>.
 
 1. <a id="coming-home-item-1"></a>**Before you leave Singapore.** The employer must cancel your Work Permit within 1 week after your last day of notice, pay your air ticket home with checked luggage, and settle your salary and other dues <sup>[6](#o6)</sup>. Withdraw or transfer your money and close your bank account (see [Your bank account in Singapore](#your-bank-account-in-singapore)) <sup>[N90](#n90)</sup>.
-2. <a id="coming-home-item-2"></a>**Carrying cash out of Singapore.** If you carry more than S$20,000 in cash (or the same in another currency), you must declare it online on Form NP 727 to the Singapore Police Force, whether it is yours or someone else's <sup>[384](#o384)</sup>. Submit it within 72 hours before departure through the e-727 e-Service, the MyICA app or the SG Arrival Card option, and keep the summary page and acknowledgement email to show ICA officers <sup>[384](#o384)</sup>. Not declaring carries a fine of up to S$50,000, up to 3 years' jail, or both, and the cash can be confiscated <sup>[384](#o384)</sup>.
-3. <a id="coming-home-item-3"></a>**At the airport in Bangladesh.** The welfare desks help with customs and lost luggage, send sick returnees to hospital by ambulance, arrange a stay at the Wage Earners' Centre, and take complaints from abused or cheated returnees <sup>[381](#o381)</sup>. Women back within 1 year after abuse or fraud get Tk 5,000 in cash <sup>[102](#o102)</sup>, and workers back because of war, disaster or lay-off can get financial help <sup>[381](#o381)</sup>. Desks:
-   - Dhaka: +88 02 8901040, mobile +880 1971 430203, welfaredesk@gmail.com <sup>[381](#o381)</sup>.
-   - Chattogram: +880 2333300957, mobile +880 1912542185, pkd.chattogram@wewb.gov.bd <sup>[381](#o381)</sup>.
-   - Sylhet: 01321158330, mobile 01973-898375, pkdsylhet@gmail.com <sup>[381](#o381)</sup>.
+2. <a id="coming-home-item-2"></a>**Carrying cash out of Singapore.** If you carry more than S$20,000 in cash (or the same in another currency), you must declare it online on Form NP 727 to the Singapore Police Force, whether it is yours or someone else's <sup>[385](#o385)</sup>. Submit it within 72 hours before departure through the e-727 e-Service, the MyICA app or the SG Arrival Card option, and keep the summary page and acknowledgement email to show ICA officers <sup>[385](#o385)</sup>. Not declaring carries a fine of up to S$50,000, up to 3 years' jail, or both, and the cash can be confiscated <sup>[385](#o385)</sup>.
+3. <a id="coming-home-item-3"></a>**At the airport in Bangladesh.** The welfare desks help with customs and lost luggage, send sick returnees to hospital by ambulance, arrange a stay at the Wage Earners' Centre, and take complaints from abused or cheated returnees <sup>[382](#o382)</sup>. Women back within 1 year after abuse or fraud get Tk 5,000 in cash <sup>[102](#o102)</sup>, and workers back because of war, disaster or lay-off can get financial help <sup>[382](#o382)</sup>. Desks:
+   - Dhaka: +88 02 8901040, mobile +880 1971 430203, welfaredesk@gmail.com <sup>[382](#o382)</sup>.
+   - Chattogram: +880 2333300957, mobile +880 1912542185, pkd.chattogram@wewb.gov.bd <sup>[382](#o382)</sup>.
+   - Sylhet: 01321158330, mobile 01973-898375, pkdsylhet@gmail.com <sup>[382](#o382)</sup>.
 
    > **Need to know**
-   > - Which desk numbers answer now, given that BMET's citizen charter gives Chattogram 01913631797, pkdctg@gmail.com, and Sylhet 01558277904 <sup>[102](#o102)</sup>, and WEWB's ambulance page gives Dhaka 01404 413388 <sup>[375](#o375)</sup>?
-4. <a id="coming-home-item-4"></a>**A place to stay.** The Wage Earners' Centre near Shahjalal airport (Lonjonipara, Borua, Khilkhet, Dhaka-1229): book at wec.wewb.gov.bd or in person with clearance or membership proof, a passport copy and an air ticket copy; Tk 100 admission and Tk 200 a night; 01310 350555, 01754 715720 <sup>[385](#o385)</sup>. The Probashi Lounge at Shahjalal airport gives free wifi, telephone, TV and printing, and food at up to 30% off, on clearance or membership proof <sup>[386](#o386)</sup>.
+   > - Which desk numbers answer now, given that BMET's citizen charter gives Chattogram 01913631797, pkdctg@gmail.com, and Sylhet 01558277904 <sup>[102](#o102)</sup>, and WEWB's ambulance page gives Dhaka 01404 413388 <sup>[376](#o376)</sup>?
+4. <a id="coming-home-item-4"></a>**A place to stay.** The Wage Earners' Centre near Shahjalal airport (Lonjonipara, Borua, Khilkhet, Dhaka-1229): book at wec.wewb.gov.bd or in person with clearance or membership proof, a passport copy and an air ticket copy; Tk 100 admission and Tk 200 a night; 01310 350555, 01754 715720 <sup>[386](#o386)</sup>. The Probashi Lounge at Shahjalal airport gives free wifi, telephone, TV and printing, and food at up to 30% off, on clearance or membership proof <sup>[387](#o387)</sup>.
 
 <a id="what-you-can-bring-home"></a>
 
 ### 20.1 What you can bring home
 
-Bangladesh's Non-tourist Passenger Baggage Rules 2025 (SRO 261, a statutory order of the National Board of Revenue, gazetted 3 June 2025) set what a returning migrant worker may bring <sup>[387](#o387)</sup>.
+Bangladesh's Non-tourist Passenger Baggage Rules 2025 (SRO 261, a statutory order of the National Board of Revenue, gazetted 3 June 2025) set what a returning migrant worker may bring <sup>[388](#o388)</sup>.
 
 <a id="duty-free"></a>
 
 #### 20.1.1 Duty-free
 
-- Baggage: a passenger aged 12 or over may bring up to 65 kg free of all duty and tax, plus up to 35 kg more of clothes, personal items, books and study materials <sup>[387](#o387)</sup>.
-- One of each <sup>[387](#o387)</sup>: a desktop or laptop (with one UPS, an uninterruptible power supply), printer, scanner, ordinary camera, oven or microwave, rice or pressure cooker, blender or juicer, sewing machine, fan, sports equipment, a TV up to 29 inches, a music system, one carpet up to 15 sq m and 1 carton (200) of cigarettes.
-- Phones: 2 used mobile phones and 1 new one, the new one only once a year <sup>[387](#o387), [388](#o388)</sup>.
-- Jewellery: declared gold and silver jewellery, once a year, no more than 12 pieces of one type <sup>[387](#o387)</sup>.
+- Baggage: a passenger aged 12 or over may bring up to 65 kg free of all duty and tax, plus up to 35 kg more of clothes, personal items, books and study materials <sup>[388](#o388)</sup>.
+- One of each <sup>[388](#o388)</sup>: a desktop or laptop (with one UPS, an uninterruptible power supply), printer, scanner, ordinary camera, oven or microwave, rice or pressure cooker, blender or juicer, sewing machine, fan, sports equipment, a TV up to 29 inches, a music system, one carpet up to 15 sq m and 1 carton (200) of cigarettes.
+- Phones: 2 used mobile phones and 1 new one, the new one only once a year <sup>[388](#o388), [389](#o389)</sup>.
+- Jewellery: declared gold and silver jewellery, once a year, no more than 12 pieces of one type <sup>[388](#o388)</sup>.
 
 > **Need to know**
-> - Is the jewellery allowance 100 g of gold or 200 g of silver in total, or 100 g of gold and 200 g of silver, when the Rules say both <sup>[387](#o387), [388](#o388)</sup>?
+> - Is the jewellery allowance 100 g of gold or 200 g of silver in total, or 100 g of gold and 200 g of silver, when the Rules say both <sup>[388](#o388), [389](#o389)</sup>?
 
 <a id="with-duty"></a>
 
 #### 20.1.2 With duty
 
-- Gold or silver bar, once a year, declared: one gold bar of up to 117 g (10 tola), at Tk 5,000 duty per 11.664 g, or a silver bar of up to 234 g (20 tola); anything over, or a hidden bar, is confiscated, and an undeclared bar can lead to arrest <sup>[387](#o387), [388](#o388)</sup>.
-- Bigger items, one of each <sup>[387](#o387)</sup>:
+- Gold or silver bar, once a year, declared: one gold bar of up to 117 g (10 tola), at Tk 5,000 duty per 11.664 g, or a silver bar of up to 234 g (20 tola); anything over, or a hidden bar, is confiscated, and an undeclared bar can lead to arrest <sup>[388](#o388), [389](#o389)</sup>.
+- Bigger items, one of each <sup>[388](#o388)</sup>:
   - TV 30-36 inches: Tk 10,000 (37-42 inches: Tk 20,000).
   - Refrigerator or deep freezer: Tk 5,000.
   - Window air conditioner: Tk 7,000.
@@ -3356,33 +3361,33 @@ Bangladesh's Non-tourist Passenger Baggage Rules 2025 (SRO 261, a statutory orde
 
 #### 20.1.3 Not allowed
 
-A Bangladeshi passport holder may not bring in any alcohol <sup>[387](#o387), [388](#o388)</sup>.
+A Bangladeshi passport holder may not bring in any alcohol <sup>[388](#o388), [389](#o389)</sup>.
 
 <a id="declaring"></a>
 
 #### 20.1.4 Declaring
 
-Every arriving passenger fills in the baggage declaration form (Schedule 1) or submits it online; with nothing dutiable you use the green channel, where up to 5% of bags are scanned at random <sup>[387](#o387)</sup>. If you could not declare by mistake or for another unavoidable reason, you can still declare on the Schedule 1 form to a customs officer of at least Assistant Commissioner rank within 30 days of arrival <sup>[387](#o387)</sup>.
+Every arriving passenger fills in the baggage declaration form (Schedule 1) or submits it online; with nothing dutiable you use the green channel, where up to 5% of bags are scanned at random <sup>[388](#o388)</sup>. If you could not declare by mistake or for another unavoidable reason, you can still declare on the Schedule 1 form to a customs officer of at least Assistant Commissioner rank within 30 days of arrival <sup>[388](#o388)</sup>.
 
 > **Need to know**
-> - Does Dhaka airport customs accept a late declaration after 7 days, when its page sets 7 days for declaring at the custom house next to the airport <sup>[388](#o388)</sup>?
+> - Does Dhaka airport customs accept a late declaration after 7 days, when its page sets 7 days for declaring at the custom house next to the airport <sup>[389](#o389)</sup>?
 
 <a id="money"></a>
 
 #### 20.1.5 Money
 
-Up to USD 10,000 in foreign currency comes in without declaring, and the same person can take it out again when going abroad; above it, declare on the FMJ (Foreign Money and Jewellery) form <sup>[389 (2020)](#o389), [388](#o388)</sup>. Up to Tk 5,000 in taka can be brought in or taken out without declaring <sup>[390](#o390)</sup>. Customs emergency line: +88 01319-056591 <sup>[388](#o388)</sup>.
+Up to USD 10,000 in foreign currency comes in without declaring, and the same person can take it out again when going abroad; above it, declare on the FMJ (Foreign Money and Jewellery) form <sup>[390 (2020)](#o390), [389](#o389)</sup>. Up to Tk 5,000 in taka can be brought in or taken out without declaring <sup>[391](#o391)</sup>. Customs emergency line: +88 01319-056591 <sup>[389](#o389)</sup>.
 
 > **Need to know**
-> - Do customs officers still apply USD 5,000, the figure on Bangladesh Customs' own Currency Regulations page <sup>[390](#o390)</sup>?
+> - Do customs officers still apply USD 5,000, the figure on Bangladesh Customs' own Currency Regulations page <sup>[391](#o391)</sup>?
 
 <a id="support-after-return"></a>
 
 ### 20.2 Support after return
 
-1. <a id="support-after-return-item-1"></a>**PKB rehabilitation loan.** Returnees starting a project can borrow up to Tk 50 lakh: up to Tk 3 lakh without collateral, Tk 3-5 lakh with collateral, above Tk 5 lakh against a registered mortgage; up to 10 years at 9% simple interest; decided within 15 working days <sup>[391](#o391)</sup>. Fees: 0.50% processing and 0.50% documentation, each at most Tk 15,000; no service charge <sup>[391](#o391)</sup>. By May 2021 only about 2% of pandemic returnees had got PKB's special reintegration loan; the reasons given were PKB's lack of staff, poor promotion, a very short grace period and the loan's many conditions <sup>[N98 (2021)](#n98)</sup>.
+1. <a id="support-after-return-item-1"></a>**PKB rehabilitation loan.** Returnees starting a project can borrow up to Tk 50 lakh: up to Tk 3 lakh without collateral, Tk 3-5 lakh with collateral, above Tk 5 lakh against a registered mortgage; up to 10 years at 9% simple interest; decided within 15 working days <sup>[392](#o392)</sup>. Fees: 0.50% processing and 0.50% documentation, each at most Tk 15,000; no service charge <sup>[392](#o392)</sup>. By May 2021 only about 2% of pandemic returnees had got PKB's special reintegration loan; the reasons given were PKB's lack of staff, poor promotion, a very short grace period and the loan's many conditions <sup>[N98 (2021)](#n98)</sup>.
 
-   **You'll need** <sup>[391](#o391)</sup>:
+   **You'll need** <sup>[392](#o392)</sup>:
    - The bank's free application form, at the branch in the project area.
    - 3 photos, passport, NID copy and an address certificate from the municipality or union council.
    - A guarantor (any person able to repay, such as a relative) with 2 photos, passport or NID copy, address certificate and a clean CIB report (Bangladesh Bank's credit record showing no unpaid loans).
@@ -3395,14 +3400,14 @@ Up to USD 10,000 in foreign currency comes in without declaring, and the same pe
    - Any training or experience certificates.
    - A declaration of other loans.
    - 3 signed MICR cheque leaves from an active account in the business's name, and 3 from one guarantor's account with its statement.
-2. <a id="support-after-return-item-2"></a>**WEWB reintegration help.** WEWB's World Bank-funded RAISE (Recovery and Advancement of Informal Sector Employment) project ran from July 2021 to June 2026, giving returnees cash incentives, help with self-employment and loans, counselling and training through district welfare centres <sup>[392](#o392), [111 (2024)](#o111)</sup>.
+2. <a id="support-after-return-item-2"></a>**WEWB reintegration help.** WEWB's World Bank-funded RAISE (Recovery and Advancement of Informal Sector Employment) project ran from July 2021 to June 2026, giving returnees cash incentives, help with self-employment and loans, counselling and training through district welfare centres <sup>[393](#o393), [111 (2024)](#o111)</sup>.
 
    > **Need to know**
-   > - Which RAISE services continue after June 2026 <sup>[392](#o392), [111 (2024)](#o111)</sup>?
-3. <a id="support-after-return-item-3"></a>**BRAC Migration Programme.** BRAC, a development organisation founded in Bangladesh in 1972, runs a Migration Programme that gives returnees airport help, counselling, help to start earning, and legal assistance <sup>[393](#o393), [394](#o394)</sup>.
+   > - Which RAISE services continue after June 2026 <sup>[393](#o393), [111 (2024)](#o111)</sup>?
+3. <a id="support-after-return-item-3"></a>**BRAC Migration Programme.** BRAC, a development organisation founded in Bangladesh in 1972, runs a Migration Programme that gives returnees airport help, counselling, help to start earning, and legal assistance <sup>[394](#o394), [395](#o395)</sup>.
 4. <a id="support-after-return-item-4"></a>**Children's scholarships.** WEWB pays scholarships to migrants' high-achieving children (Tk 27,500 a year at SSC level, Tk 34,000 at HSC level), reserves 0.5% of HSC admission seats for them, and pays disabled children Tk 1,000 a month for 5 years (at most 2 children per worker) <sup>[111 (2024)](#o111)</sup>.
-5. <a id="support-after-return-item-5"></a>**If your family is threatened** or its property seized, apply to WEWB directly or through the expatriate welfare branch of the district Deputy Commissioner's (DC's) office or the DEMO (district employment and manpower office); WEWB writes to the local administration, such as the Deputy Commissioner or Superintendent of Police <sup>[395](#o395), [111 (2024)](#o111)</sup>.
-6. <a id="support-after-return-item-6"></a>**Savings.** An NRCTA can be kept after coming home for good, and Probash pension contributions can continue in taka (see [Saving and pension in Bangladesh](#saving-and-pension-in-bangladesh)) <sup>[362](#o362), [364](#o364)</sup>.
+5. <a id="support-after-return-item-5"></a>**If your family is threatened** or its property seized, apply to WEWB directly or through the expatriate welfare branch of the district Deputy Commissioner's (DC's) office or the DEMO (district employment and manpower office); WEWB writes to the local administration, such as the Deputy Commissioner or Superintendent of Police <sup>[396](#o396), [111 (2024)](#o111)</sup>.
+6. <a id="support-after-return-item-6"></a>**Savings.** An NRCTA can be kept after coming home for good, and Probash pension contributions can continue in taka (see [Saving and pension in Bangladesh](#saving-and-pension-in-bangladesh)) <sup>[364](#o364), [366](#o366)</sup>.
 
 <a id="contacts"></a>
 
@@ -3412,12 +3417,12 @@ Up to USD 10,000 in foreign currency comes in without declaring, and the same pe
 
 ### 21.1 In Singapore
 
-- **Bangladesh High Commission:** Jit Poh Building, #04-00 and #10-00, 19 Keppel Road, Singapore 089058; +65 6255 0075; fax +65 6255 1824; mission.singapore@mofa.gov.bd; www.singapore.mofa.gov.bd; Facebook bdhc.sg <sup>[180 (2022)](#o180)</sup>. Open Monday-Friday 9 am-5 pm; consular applications 9:30 am-12:30 pm, collection 2-4:30 pm; welfare applications 9:30 am-1 pm <sup>[372 (2022)](#o372), [184 (2022)](#o184)</sup>. No cash: pay by NETS, credit card or FlashPay <sup>[372 (2022)](#o372)</sup>.
-- **Labour and welfare wing** (death cases, compensation, WEWB membership, visits to prisons, hospitals and dormitories) <sup>[184 (2022)](#o184)</sup>: +65 6661 0279, singaporelabourwing@yahoo.com.sg <sup>[377](#o377)</sup>; Minister (Labour), +65 6661 0298, counselorsg@probashi.gov.bd <sup>[182](#o182)</sup>; First Secretary, +65 6661 0277, fssg@probashi.gov.bd <sup>[182](#o182)</sup>.
-- **Consular and passport:** Counsellor (Consular), +65 6661 0274, consular.bdhc.sg@mofa.gov.bd <sup>[182](#o182)</sup>; First Secretary (Passport), +65 6661 0280 <sup>[182](#o182)</sup>.
-- **Emergencies:** police 999 (SMS 70999); ambulance and fire 995 (SMS 70995); police hotline for non-emergencies 1800 255 0000 <sup>[361](#o361), [396](#o396)</sup>. When calling 995, give the address or postal code, or the nearest lamp-post or bus-stop number <sup>[396](#o396)</sup>.
-- **MOM:** 6438 5122 <sup>[28](#o28)</sup>; domestic workers in distress, MDW helpline 1800 339 5505, Monday-Friday 8.30 am-5.30 pm <sup>[237](#o237)</sup>.
-- **ICA:** visa enquiries through its online form, go.gov.sg/ica-visa-enquiry <sup>[260](#o260)</sup>.
+- **Bangladesh High Commission:** Jit Poh Building, #04-00 and #10-00, 19 Keppel Road, Singapore 089058; +65 6255 0075; fax +65 6255 1824; mission.singapore@mofa.gov.bd; www.singapore.mofa.gov.bd; Facebook bdhc.sg <sup>[182 (2022)](#o182)</sup>. Open Monday-Friday 9 am-5 pm; consular applications 9:30 am-12:30 pm, collection 2-4:30 pm; welfare applications 9:30 am-1 pm <sup>[373 (2022)](#o373), [186 (2022)](#o186)</sup>. No cash: pay by NETS, credit card or FlashPay <sup>[373 (2022)](#o373)</sup>.
+- **Labour and welfare wing** (death cases, compensation, WEWB membership, visits to prisons, hospitals and dormitories) <sup>[186 (2022)](#o186)</sup>: +65 6661 0279, singaporelabourwing@yahoo.com.sg <sup>[378](#o378)</sup>; Minister (Labour), +65 6661 0298, counselorsg@probashi.gov.bd <sup>[184](#o184)</sup>; First Secretary, +65 6661 0277, fssg@probashi.gov.bd <sup>[184](#o184)</sup>.
+- **Consular and passport:** Counsellor (Consular), +65 6661 0274, consular.bdhc.sg@mofa.gov.bd <sup>[184](#o184)</sup>; First Secretary (Passport), +65 6661 0280 <sup>[184](#o184)</sup>.
+- **Emergencies:** police 999 (SMS 70999); ambulance and fire 995 (SMS 70995); police hotline for non-emergencies 1800 255 0000 <sup>[363](#o363), [397](#o397)</sup>. When calling 995, give the address or postal code, or the nearest lamp-post or bus-stop number <sup>[397](#o397)</sup>.
+- **MOM:** 6438 5122 <sup>[28](#o28)</sup>; domestic workers in distress, MDW helpline 1800 339 5505, Monday-Friday 8.30 am-5.30 pm <sup>[239](#o239)</sup>.
+- **ICA:** visa enquiries through its online form, go.gov.sg/ica-visa-enquiry <sup>[262](#o262)</sup>.
 - **MWC (Migrant Workers' Centre), 24-hour helpline:** 6536 2692, in about 10 languages <sup>[N42 (2024)](#n42)</sup>.
 - **Groups the High Commission works with on complaints:** MOM, the Singapore Police Force, TWC2 (Transient Workers Count Too), HOME (Humanitarian Organization for Migration Economics), HealthServe and MWC <sup>[5](#o5)</sup>.
 
@@ -3425,7 +3430,7 @@ Up to USD 10,000 in foreign currency comes in without declaring, and the same pe
 
 ### 21.2 Singapore's offices in Bangladesh
 
-- **High Commission of Singapore, Dhaka:** Ventura Avenue, 5th floor, 8/B Gulshan Avenue (Bir Uttam Mir Showkat Sharak), Dhaka 1212; +880-2-222-280-404; fax +880-2-222-283-666; singhc_dha@mfa.sg; Sunday-Thursday 9 am-5 pm; emergency +880-181-955-7146 <sup>[269](#o269)</sup>.
+- **High Commission of Singapore, Dhaka:** Ventura Avenue, 5th floor, 8/B Gulshan Avenue (Bir Uttam Mir Showkat Sharak), Dhaka 1212; +880-2-222-280-404; fax +880-2-222-283-666; singhc_dha@mfa.sg; Sunday-Thursday 9 am-5 pm; emergency +880-181-955-7146 <sup>[271](#o271)</sup>.
 - **Authorised visa agents:** visit-visa applications go online only through the High Commission's authorised visa agents in Dhaka, listed on its visa page (dhaka.mfa.gov.sg), in Gulshan, Banani, Motijheel, Banglamotor, Dhanmondi, Mirpur and Uttara; the fee is the taka equivalent of S$30 plus the agent's fee <sup>[41](#o41)</sup>.
 
 <a id="in-bangladesh"></a>
@@ -3435,7 +3440,7 @@ Up to USD 10,000 in foreign currency comes in without declaring, and the same pe
 - **Probash-Bondhu call centre (WEWB), 24/7:** 16135 toll free in Bangladesh, +8809610102030 from abroad <sup>[70](#o70)</sup>.
 - **WEWB:** membership check portal.wewb.gov.bd/bmet-wewbm-check <sup>[107](#o107)</sup>; complaints focal person, 02-222220976, ad.pro@wewb.gov.bd <sup>[111 (2024)](#o111)</sup>.
 - **Ministry of Expatriates' Welfare:**
-  - Complaint cell, for Bangladeshis abroad: minister.expat@gmail.com <sup>[397](#o397)</sup>.
+  - Complaint cell, for Bangladeshis abroad: minister.expat@gmail.com <sup>[398](#o398)</sup>.
   - Deaths and compensation: aswelfare@probashi.gov.bd <sup>[99](#o99)</sup>.
   - Agency complaints (enforcement branch): sasenforcement@probashi.gov.bd, 02-41030255 <sup>[99](#o99)</sup>.
   - Grievance officer: 02-41030224, 01712992086, adsadmin@probashi.gov.bd <sup>[99](#o99)</sup>.
@@ -3443,12 +3448,12 @@ Up to USD 10,000 in foreign currency comes in without declaring, and the same pe
 - **PKB:** helpline 16238, from abroad +880 9677-787878 <sup>[113](#o113)</sup>; loans department 01716-175560, migration@pkb.gov.bd <sup>[116](#o116)</sup>.
 - **JBC (migrant insurance):** Group Insurance Division, 02-223381423, gid@jbc.gov.bd <sup>[112 (2024)](#o112)</sup>.
 - **Airport welfare desks:**
-  - Dhaka: +88 02 8901040, +880 1971 430203, welfaredesk@gmail.com <sup>[381](#o381)</sup>.
-  - Chattogram: +880 2333300957, +880 1912542185, pkd.chattogram@wewb.gov.bd <sup>[381](#o381)</sup>.
-  - Sylhet: 01321158330, 01973-898375, pkdsylhet@gmail.com <sup>[381](#o381)</sup>.
-- **Wage Earners' Centre, Dhaka:** 01310 350555, 01754 715720 <sup>[385](#o385)</sup>.
-- **Shahjalal airport customs emergency:** +88 01319-056591 <sup>[388](#o388)</sup>.
-- **National Pension Authority:** 16131, +88 09610 900800, support@upension.gov.bd <sup>[364](#o364)</sup>.
+  - Dhaka: +88 02 8901040, +880 1971 430203, welfaredesk@gmail.com <sup>[382](#o382)</sup>.
+  - Chattogram: +880 2333300957, +880 1912542185, pkd.chattogram@wewb.gov.bd <sup>[382](#o382)</sup>.
+  - Sylhet: 01321158330, 01973-898375, pkdsylhet@gmail.com <sup>[382](#o382)</sup>.
+- **Wage Earners' Centre, Dhaka:** 01310 350555, 01754 715720 <sup>[386](#o386)</sup>.
+- **Shahjalal airport customs emergency:** +88 01319-056591 <sup>[389](#o389)</sup>.
+- **National Pension Authority:** 16131, +88 09610 900800, support@upension.gov.bd <sup>[366](#o366)</sup>.
 - **bKash:** 16247, or +88-02-55663001 from abroad <sup>[N91](#n91)</sup>.
 
 <a id="references"></a>
@@ -3638,224 +3643,225 @@ Up to USD 10,000 in foreign currency comes in without declaring, and the same pe
 177. <a id="o177"></a>Ministry of Manpower (MOM). [Apply for Special Pass for your Work Permit holder (form)](https://www.mom.gov.sg/-/media/mom/documents/services-forms/safety-health/apply-wic-special-pass-english.pdf). Accessed 8 Nov 2026. Undated: possibly outdated.
 178. <a id="o178"></a>Ministry of Manpower (MOM), 19 Oct 2021. [MOM's response to TWC2 article Even experienced workers have bound hands](https://www.mom.gov.sg/newsroom/fact-checks/2021/1019-mom-clarification-to-twc2-article). Accessed 8 Nov 2026. Possibly outdated.
 179. <a id="o179"></a>Ministry of Manpower (MOM), 14 Mar 2024. [Can my foreign employee leave Singapore before their work injury compensation claim is settled?](https://www.mom.gov.sg/faq/work-injury-compensation/can-my-foreign-employee-leave-singapore-before-their-work-injury-compensation-claim-is-settled). Accessed 8 Nov 2026. Possibly outdated.
-180. <a id="o180"></a>Bangladesh High Commission, Singapore, 28 Jul 2022. [Office Address and Phone Number](https://singapore.mofa.gov.bd/pages/static-pages/6952669735ce18e1c05aa370). Accessed 8 Nov 2026. Possibly outdated.
-181. <a id="o181"></a>Bangladesh High Commission, Singapore, 17 Oct 2022. [Letter of Authorization for attestation of IPAs (format, PDF)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-singapore-mofa/2024/12/a6f860cec1394754800b67edd96f1ea0.pdf). Accessed 8 Nov 2026. Possibly outdated.
-182. <a id="o182"></a>Bangladesh High Commission, Singapore. [Officers Profile](https://singapore.mofa.gov.bd/pages/officers-profile). Accessed 8 Nov 2026. Undated: possibly outdated.
-183. <a id="o183"></a>Ministry of Expatriates' Welfare and Overseas Employment, Bangladesh, 1 May 2025. [Labour wings (contact list)](https://probashi.gov.bd/pages/static-pages/694032df35ce18e1c0563b95). Accessed 8 Nov 2026. Possibly outdated.
-184. <a id="o184"></a>Bangladesh High Commission, Singapore, 17 Oct 2022. [Welfare services: General Information](https://singapore.mofa.gov.bd/pages/static-pages/695266b135ce18e1c05aad03). Accessed 8 Nov 2026. Possibly outdated.
-185. <a id="o185"></a>Ministry of Manpower (MOM), 28 Sep 2026. [Hiring an existing manufacturing or services worker](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules/hiring-an-existing-manufacturing-or-services-worker). Accessed 8 Nov 2026.
-186. <a id="o186"></a>Ministry of Manpower (MOM), 28 Sep 2026. [Work Permit: hiring an existing process worker](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules/hiring-existing-worker-in-process-sector). Accessed 8 Nov 2026.
-187. <a id="o187"></a>Ministry of Manpower (MOM). [Termination with notice](https://www.mom.gov.sg/employment-practices/termination-of-employment/termination-with-notice). Accessed 9 Nov 2026. Undated: possibly outdated.
-188. <a id="o188"></a>Ministry of Manpower (MOM), 27 Apr 2026. [I submitted my resignation letter, but my employer is now asking me to leave earlier. Am I entitled to notice pay?](https://www.mom.gov.sg/faq/termination/i-resigned-but-er-asked-me-to-leave-earlier-am-i-entitled-to-notice-pay-and-when-receive-salary). Accessed 9 Nov 2026.
-189. <a id="o189"></a>Ministry of Manpower (MOM), 19 Jul 2026. [My migrant worker and I disagree on the destination where the worker will be repatriated](https://www.mom.gov.sg/faq/work-permit-for-foreign-worker/my-foreign-worker-and-i-disagree-on-the-destination-where-the-worker-will-be-repatriated-can-i-get-help-to-resolve-the-dispute). Accessed 8 Nov 2026.
-190. <a id="o190"></a>Ministry of Manpower (MOM), 18 Sep 2026. [S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass). Accessed 8 Nov 2026.
-191. <a id="o191"></a>Ministry of Manpower (MOM), 4 Mar 2026. [Key facts on S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass/key-facts). Accessed 8 Nov 2026.
-192. <a id="o192"></a>Ministry of Manpower (MOM), 28 Aug 2026. [Apply for an S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass/apply-for-a-pass). Accessed 8 Nov 2026.
-193. <a id="o193"></a>Ministry of Manpower (MOM), 19 Feb 2026. [S Pass quota and levy requirements](https://www.mom.gov.sg/passes-and-permits/s-pass/quota-and-levy/levy-and-quota-requirements). Accessed 8 Nov 2026.
-194. <a id="o194"></a>Ministry of Manpower (MOM), 1 Sep 2026. [Eligibility for S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass/eligibility). Accessed 8 Nov 2026.
-195. <a id="o195"></a>Ministry of Manpower (MOM), 3 Nov 2026. [Eligibility for Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass/eligibility). Accessed 8 Nov 2026.
-196. <a id="o196"></a>Ministry of Manpower (MOM), 14 Mar 2024. [FAQ: Is a security bond required for S Pass holders?](https://www.mom.gov.sg/faq/s-pass/is-a-security-bond-required-for-s-pass-holders). Accessed 8 Nov 2026. Possibly outdated.
-197. <a id="o197"></a>Ministry of Manpower (MOM), 18 Sep 2026. [S Pass medical insurance requirements](https://www.mom.gov.sg/passes-and-permits/s-pass/medical-insurance). Accessed 8 Nov 2026.
-198. <a id="o198"></a>Ministry of Manpower (MOM), 20 Jan 2026. [Consider all candidates fairly before you apply for an S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass/consider-all-candidates-fairly). Accessed 8 Nov 2026.
-199. <a id="o199"></a>Ministry of Manpower (MOM), 18 May 2026. [Documents required for S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass/documents-required). Accessed 8 Nov 2026.
-200. <a id="o200"></a>Ministry of Manpower (MOM), 28 Apr 2026. [Appeal against a rejected S Pass application](https://www.mom.gov.sg/passes-and-permits/s-pass/appeal-against-a-rejected-application). Accessed 8 Nov 2026.
-201. <a id="o201"></a>Ministry of Manpower (MOM), 14 Mar 2024. [FAQ: Can I start my own business if I am on S Pass?](https://www.mom.gov.sg/faq/s-pass/can-i-start-my-own-business-if-i-am-on-s-pass). Accessed 8 Nov 2026. Possibly outdated.
-202. <a id="o202"></a>Ministry of Manpower (MOM), 14 Mar 2024. [FAQ: Do S Pass holders need to seek approval to marry a Singaporean or PR?](https://www.mom.gov.sg/faq/s-pass/do-s-pass-holders-need-to-seek-approval-to-marry-a-singaporean-or-permanent-resident). Accessed 8 Nov 2026. Possibly outdated.
-203. <a id="o203"></a>Ministry of Manpower (MOM), 1 Jan 2026. [Renew an S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass/renew-a-pass). Accessed 8 Nov 2026.
-204. <a id="o204"></a>Ministry of Manpower (MOM), 15 Sep 2025. [Cancel an S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass/cancel-a-pass). Accessed 8 Nov 2026. Possibly outdated.
-205. <a id="o205"></a>Ministry of Manpower (MOM), 27 Jul 2021. [Two work pass holders jailed for submitting false qualifications in work pass applications](https://www.mom.gov.sg/newsroom/press-releases/2021/0727---two-work-pass-holders-jailed-for-submitting-false-qualifications-in-work-pass-applications). Accessed 8 Nov 2026. Possibly outdated.
-206. <a id="o206"></a>Ministry of Manpower (MOM), Singapore, 23 Sep 2026. [Employment rules for migrant domestic workers (MDWs)](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/employment-rules). Accessed 8 Nov 2026.
-207. <a id="o207"></a>Attorney-General's Chambers, Singapore Statutes Online, 9 Nov 2026. [Employment of Foreign Manpower (Work Passes) Regulations 2012, Fourth Schedule (current version)](https://sso.agc.gov.sg/SL/EFMA1990-S569-2012?ProvIds=Sc4-#Sc4-). Accessed 8 Nov 2026.
-208. <a id="o208"></a>Ministry of Manpower (MOM), Singapore, 23 Apr 2026. [Contracts and safety agreement for migrant domestic worker](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/contracts-and-safety-agreement). Accessed 8 Nov 2026.
-209. <a id="o209"></a>Ministry of Manpower (MOM), Singapore, 14 Mar 2024. [Migrant domestic worker eligibility](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/fdw-eligibility). Accessed 8 Nov 2026. Possibly outdated.
-210. <a id="o210"></a>Bureau of Manpower, Employment and Training (BMET), Overseas Employment Platform. [Division-wise clearance: Singapore, women, 2024](https://www.oep.gov.bd/reports/geo-clearance-count?date_from=2024-01-01&date_to=2024-12-31&country_name%5B%5D=159&gender_id=2). Accessed 8 Nov 2026. Undated: possibly outdated.
-211. <a id="o211"></a>Bureau of Manpower, Employment and Training (BMET), Overseas Employment Platform, 7 Nov 2026. [Division-wise clearance: Singapore, women, 1 Jan to 7 Nov 2026](https://www.oep.gov.bd/reports/geo-clearance-count?date_from=2026-01-01&date_to=2026-11-07&country_name%5B%5D=159&gender_id=2). Accessed 8 Nov 2026.
-212. <a id="o212"></a>High Commission of Bangladesh, Singapore, 10 Apr 2025. [Maid visa attestation and employment contract between foreign domestic worker and employer (attested sample, redacted)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-singapore-mofa/2024/12/310caf04dd2d4e6da6a3a578ac2a8808.pdf). Accessed 8 Nov 2026. Possibly outdated.
-213. <a id="o213"></a>Ministry of Manpower (MOM), Singapore. [Apply for a Work Permit for migrant domestic worker (MDW)](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/apply-for-work-permit). Accessed 8 Nov 2026. Undated: possibly outdated.
-214. <a id="o214"></a>Ministry of Manpower (MOM), Singapore, 2 Feb 2026. [Security bond requirements for MDWs](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/security-bond). Accessed 8 Nov 2026.
-215. <a id="o215"></a>Ministry of Manpower (MOM), Singapore, 18 Sep 2026. [Insurance requirements for MDWs](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/insurance-requirements). Accessed 8 Nov 2026.
-216. <a id="o216"></a>Ministry of Manpower (MOM), Singapore, 1 Sep 2025. [Settling-in Programme (SIP) for first-time MDWs](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/settling-in-programme-sip). Accessed 8 Nov 2026. Possibly outdated.
-217. <a id="o217"></a>Ministry of Manpower (MOM), Singapore, 8 Jul 2026. [Paying levy for a migrant domestic worker (MDW)](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/foreign-domestic-worker-levy/paying-levy). Accessed 8 Nov 2026.
-218. <a id="o218"></a>Ministry of Manpower (MOM), Singapore, 23 Sep 2026. [Six-monthly medical examination (6ME) for MDWs](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/six-monthly-medical-examination). Accessed 8 Nov 2026.
-219. <a id="o219"></a>Ministry of Manpower (MOM), Singapore, 16 Jan 2026. [Rest days, health and well-being for migrant domestic workers](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/rest-days-and-well-being). Accessed 8 Nov 2026.
-220. <a id="o220"></a>Ministry of Expatriates' Welfare and Overseas Employment, 1 Sep 2025. [Approval of agencies to send women domestic workers, 1 Sep 2025 (Bangla)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-probashi/2024/12/8a41985149db47f88907870f3a49f02c.pdf). Accessed 8 Nov 2026. Possibly outdated.
-221. <a id="o221"></a>Ministry of Manpower (MOM), Singapore, 20 Mar 2024. [Paying your helper's salary on time and in full: Why it matters](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/publications-and-resources/living-with-a-migrant-domestic-worker/paying-your-helpers-salary-on-time-and-in-full). Accessed 9 Nov 2026. Possibly outdated.
-222. <a id="o222"></a>Ministry of Manpower (MOM), Singapore, 7 Aug 2026. [Employers' Orientation Programme (EOP)](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/employers-orientation-programme-eop). Accessed 8 Nov 2026.
-223. <a id="o223"></a>Ministry of Manpower (MOM), Singapore, 11 Mar 2026. [Employer requirements for hiring an MDW](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/employer-requirements). Accessed 8 Nov 2026.
-224. <a id="o224"></a>Ministry of Manpower (MOM), Singapore, 6 Oct 2023. [Key facts on Work Permit for MDW](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/key-facts). Accessed 8 Nov 2026. Possibly outdated.
-225. <a id="o225"></a>Ministry of Manpower, Singapore, 14 Nov 2025. [Appeal against a rejected Work Permit application (migrant domestic worker)](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/appeal-against-a-rejected-application). Accessed 10 Nov 2026.
-226. <a id="o226"></a>Ministry of Manpower (MOM), Singapore, 18 Jun 2026. [Educational Requirements for First-time Migrant Domestic Workers](https://www.mom.gov.sg/-/media/mom/documents/publications/educational-qualifications/educational-requirements-for-first-time-mdws.pdf). Accessed 9 Nov 2026.
-227. <a id="o227"></a>Ministry of Expatriates' Welfare and Overseas Employment, 26 Aug 2025. [Housekeeping Training Operation Policy (Revised) 2023, sent 26 Aug 2025 (Bangla)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-probashi/2024/12/e0eeac5e241d42ae9c371c106778d65a.pdf). Accessed 8 Nov 2026. Possibly outdated.
-228. <a id="o228"></a>Ministry of Manpower (MOM), Singapore. [Work Permit for MDWs: notify MOM](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/notify-mom-of-changes). Accessed 8 Nov 2026. Undated: possibly outdated.
-229. <a id="o229"></a>Ministry of Manpower (MOM), Singapore, 1 Sep 2025. [Pre-employment medical examination for MDWs](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/medical-examination). Accessed 8 Nov 2026. Possibly outdated.
-230. <a id="o230"></a>Ministry of Manpower (MOM), Singapore, 17 Aug 2026. [Migrant domestic worker interview](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/mdw-interview). Accessed 8 Nov 2026.
-231. <a id="o231"></a>Ministry of Manpower (MOM), Singapore, 16 Feb 2024. [Measures in place to support well-being of migrant domestic workers (press reply)](https://www.mom.gov.sg/newsroom/press-replies/2024/0216-well-being-mdws). Accessed 8 Nov 2026. Possibly outdated.
-232. <a id="o232"></a>Ministry of Manpower (MOM), Singapore, 14 Mar 2024. [Paying the salary of a foreign domestic worker](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/salary-guidelines). Accessed 8 Nov 2026. Possibly outdated.
-233. <a id="o233"></a>Ministry of Manpower (MOM), Singapore, 7 Oct 2022. [All migrant domestic workers to have one rest day a month that cannot be compensated away](https://www.mom.gov.sg/newsroom/press-releases/2022/1007-mandatory-rest-days-for-mdws). Accessed 8 Nov 2026. Possibly outdated.
-234. <a id="o234"></a>Ministry of Manpower (MOM), Singapore, 29 Aug 2024. [Ask Jaya: My MDW is asking for home leave](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/publications-and-resources/ask-jaya/my-mdw-is-asking-for-home-leave-is-there-anything-i-should-look-out-for). Accessed 9 Nov 2026. Possibly outdated.
-235. <a id="o235"></a>Ministry of Manpower (MOM), Singapore, 29 Aug 2024. [Ask Jaya: I want to give my MDW access to her phone](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/publications-and-resources/ask-jaya/i-want-to-give-my-mdw-access-to-her-phone). Accessed 8 Nov 2026. Possibly outdated.
-236. <a id="o236"></a>Ministry of Manpower (MOM), Singapore, 14 Mar 2024. [Abuse and ill-treatment of a foreign domestic worker](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/abuse-and-ill-treatment). Accessed 8 Nov 2026. Possibly outdated.
-237. <a id="o237"></a>Ministry of Manpower (MOM), Singapore, 16 Jul 2025. [I am a migrant domestic worker (MDW) in distress. Who can I call?](https://www.mom.gov.sg/faq/work-permit-for-fdw/i-am-an-mdw-in-distress). Accessed 8 Nov 2026. Possibly outdated.
-238. <a id="o238"></a>Ministry of Manpower (MOM), Singapore, 24 Apr 2025. [What should I do if an MDW has not been paid, is overworked or not given enough food?](https://www.mom.gov.sg/faq/work-permit-for-fdw/what-should-i-do-if-an-fdw-has-not-been-paid-is-overworked-or-not-given-enough-food). Accessed 8 Nov 2026. Possibly outdated.
-239. <a id="o239"></a>Ministry of Manpower (MOM), Singapore, 14 Mar 2024. [Transfer a migrant domestic worker (MDW) directly to a new employer](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/transfer-to-a-new-employer). Accessed 8 Nov 2026. Possibly outdated.
-240. <a id="o240"></a>Ministry of Manpower (MOM), Singapore, 13 Jul 2026. [Transfer an MDW to a new employer through an employment agency](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/transfer-to-new-employer-through-ea). Accessed 8 Nov 2026.
-241. <a id="o241"></a>Ministry of Manpower (MOM), Singapore, 3 Jul 2026. [Cancel a Work Permit for a migrant domestic worker (MDW)](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/cancel-a-work-permit). Accessed 8 Nov 2026.
-242. <a id="o242"></a>Ministry of Manpower (MOM), Singapore, 14 Mar 2024. [Sending a migrant domestic worker (MDW) home](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/sending-an-fdw-home). Accessed 8 Nov 2026. Possibly outdated.
-243. <a id="o243"></a>Ministry of Manpower (MOM), Singapore, 1 Jan 2026. [Renew a Work Permit for a migrant domestic worker (MDW)](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/renew-a-work-permit). Accessed 8 Nov 2026.
-244. <a id="o244"></a>Ministry of Manpower (MOM), Singapore, 28 Aug 2025. [Overseas leave for migrant domestic workers (MDWs)](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/overseas-leave-for-fdw). Accessed 8 Nov 2026. Possibly outdated.
-245. <a id="o245"></a>Immigration & Checkpoints Authority (ICA), AskGov. [Can I apply for a visa upon arrival at the checkpoint?](https://ask.gov.sg/ica/questions/clos83fvt01k55k0wmb7ui1lh). Accessed 9 Nov 2026. Undated: possibly outdated.
-246. <a id="o246"></a>Immigration & Checkpoints Authority (ICA), AskGov. [Is my entry to Singapore guaranteed with a valid visa?](https://ask.gov.sg/ica/questions/clos83fvy01mf5k0wu09z54te). Accessed 8 Nov 2026. Undated: possibly outdated.
-247. <a id="o247"></a>Immigration & Checkpoints Authority (ICA). [Form 14A: Application for Entry Visa (IMM 14A)](https://www.ica.gov.sg/docs/default-source/ica/forms/form14a.pdf). Accessed 8 Nov 2026. Undated: possibly outdated.
-248. <a id="o248"></a>Immigration & Checkpoints Authority (ICA), AskGov. [How do I apply for a Visa?](https://ask.gov.sg/ica/questions/cluhy6lf1008dshkrrh7lmk4k). Accessed 8 Nov 2026. Undated: possibly outdated.
-249. <a id="o249"></a>Immigration & Checkpoints Authority (ICA). [Apply for Entry Visa (SAVE e-Service landing page)](https://www.ica.gov.sg/application-status/entry-visa). Accessed 8 Nov 2026. Undated: possibly outdated.
-250. <a id="o250"></a>Immigration & Checkpoints Authority (ICA), AskGov. [What is the validity period of a Singapore Visa?](https://ask.gov.sg/ica/questions/clos83fw201ol5k0w6sf3u5ap). Accessed 8 Nov 2026. Undated: possibly outdated.
-251. <a id="o251"></a>High Commission of the Republic of Singapore in Dhaka (MFA Singapore), 1 Jan 2025. [Singapore Visa Application (Dhaka) Frequently Answered Questions](https://isomer-user-content.by.gov.sg/210/5e591a35-f570-4451-b262-8fffa025b406/Singapore%20Visa%20Application%20FAQ-%20Dhaka%2001012025.pdf). Accessed 8 Nov 2026. Possibly outdated.
-252. <a id="o252"></a>Immigration & Checkpoints Authority (ICA), AskGov. [How can I request for a longer validity of my visa?](https://ask.gov.sg/ica/questions/clos83fw201od5k0wt0w22jmq). Accessed 8 Nov 2026. Undated: possibly outdated.
-253. <a id="o253"></a>Immigration & Checkpoints Authority (ICA), AskGov. [How can I extend my Visa?](https://ask.gov.sg/ica/questions/clos83fw101ob5k0wdxuayzws). Accessed 8 Nov 2026. Undated: possibly outdated.
-254. <a id="o254"></a>Immigration & Checkpoints Authority (ICA), AskGov. [Can I apply for visa if my passport is less than 6 months?](https://ask.gov.sg/ica/questions/clos83fvw01lj5k0wp90sbtq5). Accessed 8 Nov 2026. Undated: possibly outdated.
-255. <a id="o255"></a>Immigration & Checkpoints Authority (ICA). [Form V39A: Letter of Introduction for Visa Application](https://www.ica.gov.sg/docs/default-source/ica/forms/formv39a.pdf). Accessed 8 Nov 2026. Undated: possibly outdated.
-256. <a id="o256"></a>Immigration & Checkpoints Authority (ICA), AskGov. [How do I check on the visa application status?](https://ask.gov.sg/ica/questions/clos83fvw01lp5k0wkos1sp7c). Accessed 8 Nov 2026. Undated: possibly outdated.
-257. <a id="o257"></a>Immigration & Checkpoints Authority (ICA), AskGov. [How do I check if the visa is genuine?](https://ask.gov.sg/ica/questions/clos83fvy01mr5k0wzdmsdazc). Accessed 8 Nov 2026. Undated: possibly outdated.
-258. <a id="o258"></a>Immigration & Checkpoints Authority (ICA), 9 Oct 2026. [Visiting Singapore (public advisory)](https://www.ica.gov.sg/about-ica/newsroom/public-advisories/visiting-singapore). Accessed 8 Nov 2026.
-259. <a id="o259"></a>Immigration & Checkpoints Authority (ICA), AskGov. [How do I check my visa validity?](https://ask.gov.sg/ica/questions/clos83fw201of5k0wsngh1loy). Accessed 8 Nov 2026. Undated: possibly outdated.
-260. <a id="o260"></a>Immigration & Checkpoints Authority (ICA), AskGov. [Who can I contact for Singapore visa-related matters?](https://ask.gov.sg/ica/questions/clos83fw001nr5k0wyouzhg3r). Accessed 8 Nov 2026. Undated: possibly outdated.
-261. <a id="o261"></a>Immigration & Checkpoints Authority (ICA), AskGov. [Do I have to retrieve or download and print the approved e-Visa to travel to Singapore?](https://ask.gov.sg/ica/questions/clqety23y00833k36wol32o4p). Accessed 8 Nov 2026. Undated: possibly outdated.
-262. <a id="o262"></a>Immigration & Checkpoints Authority (ICA), 20 Oct 2026. [Advisory on Fake or Misleading Websites](https://www.ica.gov.sg/about-ica/newsroom/public-advisories/advisory-on-fake-or-misleading-websites). Accessed 8 Nov 2026.
-263. <a id="o263"></a>Immigration & Checkpoints Authority (ICA), 3 Nov 2026. [Electronic Visit Pass (e-Pass) Retrieval for Short-Term Visitors](https://www.ica.gov.sg/information-and-e-services/entry-and-departure/entering-singapore/short-term-visit-pass/electronic-visit-pass-(e-pass)-retrieval-for-short-term-visitors). Accessed 8 Nov 2026.
-264. <a id="o264"></a>Immigration & Checkpoints Authority (ICA), AskGov. [What should I do if I did not receive my electronic Visit Pass (e-Pass) after I enter Singapore?](https://ask.gov.sg/ica/questions/clos83fv6018j5k0wy59bzkxq). Accessed 8 Nov 2026. Undated: possibly outdated.
-265. <a id="o265"></a>Immigration & Checkpoints Authority (ICA), AskGov, Oct 2026. [How many days can a foreign visitor stay in Singapore?](https://ask.gov.sg/ica/questions/qu5kas1u0l79dogt8c5o48un). Accessed 9 Nov 2026.
-266. <a id="o266"></a>Immigration & Checkpoints Authority (ICA), AskGov. [Why is my visa application rejected?](https://ask.gov.sg/ica/questions/clos83fvy01md5k0wce88a6r2). Accessed 9 Nov 2026. Undated: possibly outdated.
-267. <a id="o267"></a>Immigration & Checkpoints Authority (ICA), AskGov. [How do I appeal against my visa rejection?](https://ask.gov.sg/ica/questions/clos83fvx01mb5k0ww9yau2xd). Accessed 8 Nov 2026. Undated: possibly outdated.
-268. <a id="o268"></a>Ministry of Manpower (MOM), 11 May 2026. [Work pass exemption for foreign students](https://www.mom.gov.sg/passes-and-permits/work-pass-exemption-for-foreign-students). Accessed 8 Nov 2026.
-269. <a id="o269"></a>High Commission of the Republic of Singapore in Dhaka (MFA Singapore), 26 Feb 2026. [Contact us](https://dhaka.mfa.gov.sg/contact-us/). Accessed 9 Nov 2026.
-270. <a id="o270"></a>Ministry of Manpower (MOM), 29 Apr 2026. [Eligible activities for a work pass exemption](https://www.mom.gov.sg/passes-and-permits/work-pass-exempt-activities/eligible-activities). Accessed 8 Nov 2026.
-271. <a id="o271"></a>Ministry of Manpower (MOM), 14 Mar 2024. [Notify MOM for Work Pass Exempt Activities](https://www.mom.gov.sg/passes-and-permits/work-pass-exempt-activities/notify-mom-for-an-exemption). Accessed 9 Nov 2026. Possibly outdated.
-272. <a id="o272"></a>Immigration & Checkpoints Authority (ICA), 29 Oct 2026. [Student's Pass Application/Renewal](https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/student-s-pass/student's-pass-application-renewal). Accessed 8 Nov 2026.
-273. <a id="o273"></a>Immigration & Checkpoints Authority (ICA), 6 Nov 2026. [Student's Pass: Institutes of Higher Learning](https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/student-s-pass/student's-pass-application-renewal/institutes-of-higher-learning). Accessed 8 Nov 2026.
-274. <a id="o274"></a>Skills and Workforce Development Agency (SWDA). [Common Misconceptions (private education)](https://www.swda.gov.sg/home/skills-career-resources/private-education-resources/common-misconceptions). Accessed 8 Nov 2026. Undated: possibly outdated.
-275. <a id="o275"></a>Ministry of Home Affairs (MHA), 9 Sep 2024. [Written Reply to Parliamentary Question on Number of Students' Passes Issued to Foreign Students in 2023](https://www.mha.gov.sg/media-room/newsroom/written-reply-to-pq-on-number-of-students-passes-issued-to-foreign-students-in-2023/). Accessed 8 Nov 2026. Possibly outdated.
-276. <a id="o276"></a>Skills and Workforce Development Agency (SWDA). [Guide for Choosing a PEI](https://www.swda.gov.sg/home/skills-career-resources/private-education-resources/guide-for-choosing-a-pei). Accessed 8 Nov 2026. Undated: possibly outdated.
-277. <a id="o277"></a>Immigration & Checkpoints Authority (ICA), 6 Nov 2026. [Student's Pass: Approved Private Education Institutions](https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/student-s-pass/student's-pass-application-renewal/approved-private-education-institutions). Accessed 8 Nov 2026.
-278. <a id="o278"></a>Skills and Workforce Development Agency (SWDA), TPGateway. [PEI Listing](https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/pei-listing). Accessed 8 Nov 2026. Undated: possibly outdated.
-279. <a id="o279"></a>Skills and Workforce Development Agency (SWDA), TPGateway, 11 Sep 2026. [Enforcement Actions against PEIs and/or Managers](https://www.tpgateway.gov.sg/resources/regulation/enforcement-actions/enforcement-actions-against-peis-and-or-managers). Accessed 8 Nov 2026.
-280. <a id="o280"></a>Skills and Workforce Development Agency (SWDA). [Seen an ad by Singapore Business School (SBS)? Here's what you need to know](https://www.swda.gov.sg/home/skills-career-resources/private-education-resources/alerts-and-advisories). Accessed 8 Nov 2026. Undated: possibly outdated.
-281. <a id="o281"></a>Immigration & Checkpoints Authority (ICA), AskGov. [Can the Student's Pass processing fees be refunded if my application is not successful?](https://ask.gov.sg/ica/questions/clos83fvq01in5k0wr8a5lv4y). Accessed 8 Nov 2026. Undated: possibly outdated.
-282. <a id="o282"></a>Immigration & Checkpoints Authority (ICA), 6 Nov 2026. [Completion of Formalities and Issuance of Student's Pass](https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/student-s-pass/completion-of-formalities-and-issuance-of-student's-pass). Accessed 8 Nov 2026.
-283. <a id="o283"></a>Ministry of Education (MOE). [Tuition Grant Scheme: Overview](https://www.moe.gov.sg/financial-matters/tuition-grant-scheme/overview). Accessed 8 Nov 2026. Undated: possibly outdated.
-284. <a id="o284"></a>Ministry of Education (MOE), 23 Jun 2026. [Employment and pass matters (Tuition Grant)](https://www.moe.gov.sg/financial-matters/tuition-grant-scheme/employment). Accessed 8 Nov 2026.
-285. <a id="o285"></a>Immigration & Checkpoints Authority (ICA), 29 Oct 2026. [Student's Pass Cancellation](https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/student-s-pass/student's-pass-cancellation). Accessed 8 Nov 2026.
-286. <a id="o286"></a>Immigration & Checkpoints Authority (ICA), 29 Oct 2026. [Graduate from an Institute of Higher Learning Seeking Employment in Singapore](https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/long-term-visit-pass/long-term-visit-pass-application-renewal/graduate-from-an-institute-of-higher-learning-seeking-employment-in-singapore). Accessed 8 Nov 2026.
-287. <a id="o287"></a>Immigration & Checkpoints Authority (ICA), 30 Oct 2026. [List of Institutes of Higher Learning in Singapore](https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/long-term-visit-pass/long-term-visit-pass-application-renewal/graduate-from-an-institute-of-higher-learning-seeking-employment-in-singapore/list-of-institutes-of-higher-learning-in-singapore). Accessed 8 Nov 2026.
-288. <a id="o288"></a>Immigration & Checkpoints Authority (ICA), AskGov. [How can I appeal if my application for a Student's Pass is rejected?](https://ask.gov.sg/ica/questions/clos83fvd01bv5k0wgm5gjaun). Accessed 8 Nov 2026. Undated: possibly outdated.
-289. <a id="o289"></a>Immigration & Checkpoints Authority (ICA), 6 Oct 2026. [Application for Long-Term Immigration Facilities Through Commercial Entities or Consultants](https://www.ica.gov.sg/about-ica/newsroom/public-advisories/application-for-long-term-immigration-facilities-through-commercial-entities-or-consultants). Accessed 8 Nov 2026.
-290. <a id="o290"></a>Skills and Workforce Development Agency (SWDA), 25 Sep 2026. [Dispute Resolution (private schools)](https://www.swda.gov.sg/home/skills-career-resources/private-education-resources/dispute-resolution). Accessed 8 Nov 2026.
-291. <a id="o291"></a>Skills and Workforce Development Agency (SWDA). [Contact Us](https://www.swda.gov.sg/home/about-swda/contact-us). Accessed 9 Nov 2026. Undated: possibly outdated.
-292. <a id="o292"></a>Central Narcotics Bureau, Singapore, 31 Jul 2025. [Close to 27kg of cocaine seized at airport; five female foreign nationals in transit arrested for suspected drug trafficking](https://www.cnb.gov.sg/mediaroom/news/close-to-27kg-of-cocaine-seized-at-airport-five-female-foreign-nationals-in-transit-arrested-for-suspected-drug-trafficking/). Accessed 10 Nov 2026. Possibly outdated.
-293. <a id="o293"></a>Immigration & Checkpoints Authority (ICA), 9 Feb 2023. [Response to 'Law enforcement agencies must do better to deter overstaying' (The Straits Times, 9 February 2023)](https://www.ica.gov.sg/about-ica/news-and-publications/media-room/response-to-law-enforcement-agencies-must-do-better-to-deter-overstaying-(the-straits-times-9-february-2023)). Accessed 9 Nov 2026. Possibly outdated.
-294. <a id="o294"></a>Ministry of Manpower (MOM), 3 Nov 2026. [Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass). Accessed 8 Nov 2026.
-295. <a id="o295"></a>Ministry of Manpower (MOM), 4 May 2026. [Key facts on Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass/key-facts). Accessed 8 Nov 2026.
-296. <a id="o296"></a>Ministry of Manpower (MOM), 17 Aug 2026. [Renew an Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass/renew-a-pass). Accessed 8 Nov 2026.
-297. <a id="o297"></a>Ministry of Manpower (MOM), 5 Jan 2026. [Consider all candidates fairly before you apply for an Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass/consider-all-candidates-fairly). Accessed 8 Nov 2026.
-298. <a id="o298"></a>Ministry of Manpower (MOM), 18 May 2026. [Documents required for Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass/documents-required). Accessed 8 Nov 2026.
-299. <a id="o299"></a>Ministry of Manpower (MOM), 15 Jun 2026. [Apply for an Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass/apply-for-a-pass). Accessed 8 Nov 2026.
-300. <a id="o300"></a>Ministry of Manpower (MOM), 28 Apr 2026. [Appeal against a rejected Employment Pass application](https://www.mom.gov.sg/passes-and-permits/employment-pass/appeal-against-a-rejected-application). Accessed 8 Nov 2026.
-301. <a id="o301"></a>Ministry of Manpower (MOM), 24 Mar 2024. [Passes for families of Employment Pass holders](https://www.mom.gov.sg/passes-and-permits/employment-pass/passes-for-family). Accessed 8 Nov 2026. Possibly outdated.
-302. <a id="o302"></a>Ministry of Manpower (MOM), 14 Mar 2024. [FAQ: Do Employment Pass holders need to seek approval to marry a Singaporean or PR?](https://www.mom.gov.sg/faq/employment-pass/do-employment-pass-holders-need-to-seek-approval-to-marry-a-singaporean-or-permanent-resident). Accessed 8 Nov 2026. Possibly outdated.
-303. <a id="o303"></a>Ministry of Manpower, Singapore, 21 Sep 2026. [Service centre locations](https://www.mom.gov.sg/contact-us/locations). Accessed 10 Nov 2026.
-304. <a id="o304"></a>Ministry of Manpower, Singapore. [Feedback and enquiries](https://www.mom.gov.sg/contact-us/feedback-and-enquiries). Accessed 10 Nov 2026. Undated: possibly outdated.
-305. <a id="o305"></a>Ministry of Manpower, Singapore, 15 Sep 2025. [Apply for an Overseas Networks & Expertise Pass](https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass/apply-for-a-pass). Accessed 10 Nov 2026. Possibly outdated.
-306. <a id="o306"></a>Singapore Economic Development Board. [Tech.Pass - application & renewal](https://www.edb.gov.sg/en/how-we-help/incentives-and-facilitation/tech-pass/application-and-renewal). Accessed 10 Nov 2026. Undated: possibly outdated.
-307. <a id="o307"></a>Ministry of Manpower (MOM), 14 Sep 2026. [Eligibility for Overseas Networks & Expertise Pass](https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass/eligibility). Accessed 8 Nov 2026.
-308. <a id="o308"></a>Ministry of Manpower (MOM), 14 Sep 2026. [Key facts on Overseas Networks & Expertise Pass](https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass/key-facts). Accessed 8 Nov 2026.
-309. <a id="o309"></a>Ministry of Manpower, Singapore, 14 Mar 2024. [Appeal against a rejected Overseas Networks & Expertise Pass application](https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass/appeal-against-a-rejected-application). Accessed 10 Nov 2026. Possibly outdated.
-310. <a id="o310"></a>Ministry of Manpower (MOM), 14 Aug 2026. [Eligibility for EntrePass](https://www.mom.gov.sg/passes-and-permits/entrepass/eligibility). Accessed 8 Nov 2026.
-311. <a id="o311"></a>Ministry of Manpower (MOM), 19 Nov 2024. [Key facts for EntrePass](https://www.mom.gov.sg/passes-and-permits/entrepass/key-facts). Accessed 8 Nov 2026. Possibly outdated.
-312. <a id="o312"></a>Ministry of Manpower, Singapore, 7 Jul 2026. [Apply for an EntrePass](https://www.mom.gov.sg/passes-and-permits/entrepass/apply-for-a-pass). Accessed 10 Nov 2026.
-313. <a id="o313"></a>Ministry of Manpower (MOM), 27 Nov 2024. [Eligibility for Personalised Employment Pass](https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass/eligibility). Accessed 8 Nov 2026. Possibly outdated.
-314. <a id="o314"></a>Ministry of Manpower (MOM), 22 Mar 2024. [Key facts on Personalised Employment Pass](https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass/key-facts). Accessed 8 Nov 2026. Possibly outdated.
-315. <a id="o315"></a>Ministry of Manpower, Singapore, 27 Nov 2025. [Apply for a Personalised Employment Pass](https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass/apply-for-a-pass). Accessed 10 Nov 2026.
-316. <a id="o316"></a>Ministry of Manpower, Singapore. [Appeal against a rejected Personalised Employment Pass application](https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass/appeal-against-a-rejected-application). Accessed 10 Nov 2026. Undated: possibly outdated.
-317. <a id="o317"></a>Singapore Economic Development Board (EDB), 6 Nov 2026. [Tech.Pass](https://www.edb.gov.sg/en/how-we-help/incentives-and-facilitation/tech-pass). Accessed 8 Nov 2026.
-318. <a id="o318"></a>Ministry of Manpower (MOM), 9 Jul 2026. [Dependant's Pass](https://www.mom.gov.sg/passes-and-permits/dependants-pass). Accessed 8 Nov 2026.
-319. <a id="o319"></a>Ministry of Manpower (MOM), 14 Mar 2024. [Eligibility for Long-Term Visit Pass](https://www.mom.gov.sg/passes-and-permits/long-term-visit-pass/eligibility). Accessed 8 Nov 2026. Possibly outdated.
-320. <a id="o320"></a>Immigration & Checkpoints Authority (ICA), 29 Oct 2026. [Spouse of a Singapore Citizen (Long-Term Visit Pass)](https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/long-term-visit-pass/long-term-visit-pass-application-renewal/spouse-of-a-singapore-citizen). Accessed 8 Nov 2026.
-321. <a id="o321"></a>Ministry of Manpower (MOM), 14 Mar 2024. [Eligibility for Dependant's Pass](https://www.mom.gov.sg/passes-and-permits/dependants-pass/eligibility). Accessed 8 Nov 2026. Possibly outdated.
-322. <a id="o322"></a>Ministry of Manpower (MOM), 20 Nov 2024. [Key facts on Dependant's Pass](https://www.mom.gov.sg/passes-and-permits/dependants-pass/key-facts). Accessed 8 Nov 2026. Possibly outdated.
-323. <a id="o323"></a>Ministry of Manpower (MOM), 9 Jul 2026. [Apply for a Dependant's Pass](https://www.mom.gov.sg/passes-and-permits/dependants-pass/apply-for-a-pass). Accessed 8 Nov 2026.
-324. <a id="o324"></a>Ministry of Manpower (MOM), 15 Jun 2026. [Apply for a Long-Term Visit Pass](https://www.mom.gov.sg/passes-and-permits/long-term-visit-pass/apply-for-a-pass). Accessed 8 Nov 2026.
-325. <a id="o325"></a>Ministry of Manpower, Singapore, 14 Mar 2024. [Appeal a rejected Dependant's Pass application](https://www.mom.gov.sg/passes-and-permits/dependants-pass/appeal-a-rejected-application). Accessed 10 Nov 2026. Possibly outdated.
-326. <a id="o326"></a>Ministry of Manpower (MOM), 18 May 2026. [Documents required for Dependant's Pass](https://www.mom.gov.sg/passes-and-permits/dependants-pass/documents-required). Accessed 8 Nov 2026.
-327. <a id="o327"></a>Ministry of Manpower (MOM), 5 Apr 2021. [Written answer on Dependant's Pass holders working under a Letter of Consent (5 April 2021)](https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2021/0405-written-answer-by-minister-for-manpower-josephine-teo-on-dependent-pass-holders). Accessed 8 Nov 2026. Possibly outdated.
-328. <a id="o328"></a>Ministry of Manpower (MOM), 25 Mar 2026. [Working in Singapore (Dependant's Pass holders)](https://www.mom.gov.sg/passes-and-permits/dependants-pass/working-in-singapore). Accessed 8 Nov 2026.
-329. <a id="o329"></a>Immigration & Checkpoints Authority (ICA), 29 Oct 2026. [Spouse of a Singapore Permanent Resident (Long-Term Visit Pass)](https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/long-term-visit-pass/long-term-visit-pass-application-renewal/spouse-of-a-singapore-permanent-resident). Accessed 8 Nov 2026.
-330. <a id="o330"></a>Immigration & Checkpoints Authority (ICA), 27 Oct 2026. [Pre-Marriage Long-Term Visit Pass Assessment](https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/long-term-visit-pass/pre-marriage-long-term-visit-pass-assessment). Accessed 8 Nov 2026.
-331. <a id="o331"></a>Ministry of Manpower (MOM), 14 Mar 2024. [FAQ: My future spouse used to be a Work Permit holder. Do we still need approval to get married?](https://www.mom.gov.sg/faq/work-permit-for-foreign-worker/my-future-spouse-used-to-be-a-work-permit-holder-but-no-longer-works-in-singapore-do-we-still-need-approval-to-get-married). Accessed 8 Nov 2026. Possibly outdated.
-332. <a id="o332"></a>Ministry of Manpower (MOM), 2 Mar 2020. [Written answer on requiring Work Permit holders to seek approval to marry a Singapore citizen or PR (2 March 2020)](https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2020/0302-written-answer-by-mrs-josephine-teo-to-pq-on-requiring-wphs-to-seek-approval-to-marry-sc-or-spr). Accessed 8 Nov 2026. Possibly outdated.
-333. <a id="o333"></a>Immigration & Checkpoints Authority (ICA), 27 Oct 2026. [Appeals for Singapore Citizenship/Permanent Residence/Long-Term Visit Pass](https://www.ica.gov.sg/information-and-e-services/appeals/appeals-for-singapore-citizenship-permanent-residence-long-term-visit-pass). Accessed 8 Nov 2026.
-334. <a id="o334"></a>Ministry of Manpower (MOM), 9 Jan 2026. [Work passes for holders of Long-Term Visit Passes issued by ICA](https://www.mom.gov.sg/passes-and-permits/work-passes-for-holders-of-long-term-visit-passes-issued-by-ica). Accessed 8 Nov 2026.
-335. <a id="o335"></a>Ministry of Manpower (MOM), 14 Mar 2024. [Eligibility for Letter of Consent for ICA-issued LTVP/LTVP+ holders](https://www.mom.gov.sg/passes-and-permits/loc-for-ica-issued-ltvp-holders/eligibility). Accessed 8 Nov 2026. Possibly outdated.
-336. <a id="o336"></a>Immigration & Checkpoints Authority (ICA), 29 Jul 2019. [Male Singaporean and female Chinese national jailed for marriage of convenience offences](https://www.ica.gov.sg/about-ica/news-and-publications/media-room/male-singaporean-and-female-chinese-national-jailed-for-marriage-of-convenience-offences). Accessed 8 Nov 2026. Possibly outdated.
-337. <a id="o337"></a>State Courts of Singapore (eLitigation), 5 May 2026. [Public Prosecutor v (marriage of convenience) [2026] SGDC 158](https://www.elitigation.sg/gd/s/2026_SGDC_158). Accessed 8 Nov 2026.
-338. <a id="o338"></a>Immigration & Checkpoints Authority (ICA), 30 Oct 2026. [Permanent Residence Application](https://www.ica.gov.sg/information-and-e-services/citizenship-and-permanent-residence/permanent-residence/permanent-residence-application). Accessed 8 Nov 2026.
-339. <a id="o339"></a>National Population and Talent Division, Prime Minister's Office, Sep 2026. [Population in Brief 2026](https://isomer-user-content.by.gov.sg/520/b133d286-0768-4bd4-ac11-82d8dfd829ef/PIB%202026%20Report.pdf). Accessed 9 Nov 2026.
-340. <a id="o340"></a>Immigration & Checkpoints Authority (ICA). [Document Checklist for Permanent Residence](https://www.ica.gov.sg/docs/default-source/ica/ipses/pr-document-checklist.pdf). Accessed 9 Nov 2026. Undated: possibly outdated.
-341. <a id="o341"></a>Immigration & Checkpoints Authority (ICA), 6 Nov 2026. [Completion of Formalities for Permanent Residence](https://www.ica.gov.sg/information-and-e-services/citizenship-and-permanent-residence/permanent-residence/completion-of-formalities-for-permanent-residence). Accessed 8 Nov 2026.
-342. <a id="o342"></a>Immigration & Checkpoints Authority (ICA), 5 Nov 2026. [Singapore Citizenship Application](https://www.ica.gov.sg/information-and-e-services/citizenship-and-permanent-residence/citizenship/singapore-citizenship-application). Accessed 8 Nov 2026.
-343. <a id="o343"></a>Ministry of Manpower (MOM), 14 Mar 2024. [FAQ: Administrative fee when changing from Work Permit to S Pass or vice versa](https://www.mom.gov.sg/faq/s-pass/must-i-still-pay-the-administrative-fee-if-i-am-applying-to-change-from-a-work-permit-to-s-pass-or-vice-versa). Accessed 8 Nov 2026. Possibly outdated.
-344. <a id="o344"></a>Ministry of Home Affairs (MHA), AskGov, Jun 2026. [Does Singapore accept refugees or asylum seekers?](https://ask.gov.sg/mha/questions/cmqu6lhuh00i844011kpj3w7y). Accessed 8 Nov 2026.
-345. <a id="o345"></a>Ministry of Home Affairs (MHA), AskGov, Jun 2026. [May I seek asylum in Singapore?](https://ask.gov.sg/mha/questions/cmqu6lg9d00604401lpv7jriy). Accessed 8 Nov 2026.
-346. <a id="o346"></a>Permanent Mission of Singapore to the UN, New York (MFA), 14 Nov 2023. [Explanation of position after adoption of the resolution on UNHCR, Third Committee, 14 November 2023](https://newyork-un.mfa.gov.sg/mission-updates/third-committee/20231114-3-14-nov-2023/). Accessed 8 Nov 2026. Possibly outdated.
-347. <a id="o347"></a>Attorney-General's Chambers, Singapore Statutes Online. [Constitution of the Republic of Singapore, Article 121 (citizenship by birth)](https://sso.agc.gov.sg/Act/CONS1963?ProvIds=pr121-). Accessed 9 Nov 2026. Undated: possibly outdated.
-348. <a id="o348"></a>Immigration & Checkpoints Authority (ICA), 30 Oct 2026. [Birth Registration and Digital Birth Certificate Download](https://www.ica.gov.sg/information-and-e-services/birth-and-death/birth/birth-certificate/birth-registration-and-digital-birth-certificate-download). Accessed 8 Nov 2026.
-349. <a id="o349"></a>Ministry of Manpower (MOM), 11 Jun 2025. [Getting a Dependant's Pass for a newborn](https://www.mom.gov.sg/passes-and-permits/dependants-pass/getting-a-pass-for-a-newborn). Accessed 8 Nov 2026. Possibly outdated.
-350. <a id="o350"></a>Immigration & Checkpoints Authority (ICA), 6 Nov 2026. [Permission to Give Birth in Singapore for Visitors](https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/long-term-visit-pass/long-term-visit-pass-application-renewal/permission-to-give-birth-in-singapore-for-visitors). Accessed 8 Nov 2026.
-351. <a id="o351"></a>High Commission of Bangladesh, Singapore, 20 Oct 2022. [Procedures for e-Passport Application](https://singapore.mofa.gov.bd/pages/static-pages/6952669135ce18e1c05aa199). Accessed 8 Nov 2026. Possibly outdated.
-352. <a id="o352"></a>High Commission of Bangladesh, Singapore, 5 Nov 2021. [Rules for passport applications for newborn children (Bangla notice, PDF)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-singapore-mofa/2024/12/fc453052adbe4ca6b1251ea7f863aef1.pdf). Accessed 8 Nov 2026. Possibly outdated.
-353. <a id="o353"></a>Office of the Registrar General, Birth and Death Registration, Bangladesh, 3 Apr 2026. [Birth and death registration fees for Bangladesh embassies and consulates abroad (Form 15, Birth and Death Registration Rules 2018)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-orgbdr/2026/3/e3da78e0-cf31-49ca-9d71-3ce162f1ba9d.pdf). Accessed 9 Nov 2026.
-354. <a id="o354"></a>High Commission of Bangladesh, Singapore, 20 Aug 2024. [E-Passport Fee (local currency fees from 21 August 2024)](https://singapore.mofa.gov.bd/pages/static-pages/6952667135ce18e1c05a9219). Accessed 8 Nov 2026. Possibly outdated.
-355. <a id="o355"></a>Finance Division, Ministry of Finance, Bangladesh, 11 Jun 2026. [National Budget Speech 2026-27 (Bangla), 11 June 2026](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/5/c229ec5f-66f8-4a4c-9beb-1e2e2ba71bce.pdf). Accessed 8 Nov 2026.
-356. <a id="o356"></a>Monetary Authority of Singapore (MAS). [Types of Payment Services](https://www.mas.gov.sg/regulation/payments/licensing-for-payment-service-providers/types-of-payment-services). Accessed 9 Nov 2026. Undated: possibly outdated.
-357. <a id="o357"></a>Bangladesh Bank. [Inward Remittance Facilities: Search Exchange House (drawing arrangements)](https://www.bb.org.bd/en/index.php/investfacility/drawing). Accessed 8 Nov 2026. Undated: possibly outdated.
-358. <a id="o358"></a>Monetary Authority of Singapore (MAS). [Financial Institutions Directory: Major Payment Institutions, cross-border money transfer service](https://eservices.mas.gov.sg/fid/institution?sector=Payments&category=Major%20Payment%20Institution&activity=Cross-border%20Money%20Transfer%20Service). Accessed 9 Nov 2026. Undated: possibly outdated.
-359. <a id="o359"></a>World Bank (Remittance Prices Worldwide), 25 Aug 2025. [Sending money from Singapore to Bangladesh (data collected 19-25 Aug 2025)](https://remittanceprices.worldbank.org/corridor/SG/BD). Accessed 9 Nov 2026. Possibly outdated.
-360. <a id="o360"></a>Bangladesh Bank, 30 Jun 2026. [Wage earners' remittance cost, Jan-Jun 2026](https://www.bb.org.bd/econdata/remittance/remittance_cost.pdf). Accessed 8 Nov 2026.
-361. <a id="o361"></a>Government of Singapore (gov.sg), 21 Aug 2026. [Contact Us: emergency numbers](https://www.gov.sg/contact-us/). Accessed 9 Nov 2026.
-362. <a id="o362"></a>Bangladesh Bank, Foreign Exchange Policy Department-1, 8 Oct 2026. [FEPD-1 Circular No. 41: Opening and Operation of Non-Resident Convertible Taka Accounts (NRCTA)](https://www.bb.org.bd/mediaroom/circulars/fepd/oct082026fepd-141e.pdf). Accessed 8 Nov 2026.
-363. <a id="o363"></a>National Savings Directorate, Bangladesh, 6 Aug 2026. [Wage Earner Development Bond: terms and profit rates (transcription of PDF)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nationalsavings/2026/7/8a5b2fbf-b6aa-492f-a27d-b2e312910d45.pdf#transcription). Accessed 8 Nov 2026.
-364. <a id="o364"></a>National Pension Authority (Finance Division, Ministry of Finance, Bangladesh). [Universal Pension Scheme (English brief)](https://www.upension.gov.bd/Public/PensionBriefEn). Accessed 8 Nov 2026. Undated: possibly outdated.
-365. <a id="o365"></a>National Pension Authority (Finance Division, Ministry of Finance, Bangladesh), 10 Mar 2024. [Probash scheme flyer (image PDF, transcription)](https://www.upension.gov.bd/assets/public/download/flyer/Probash.pdf?v=10#transcription). Accessed 8 Nov 2026. Possibly outdated.
-366. <a id="o366"></a>National Pension Authority (Finance Division, Ministry of Finance, Bangladesh). [Schemes (Packages): Probash, Progoti, Surakkha, Samata (Bangla)](https://www.upension.gov.bd/Public/Packages). Accessed 8 Nov 2026. Undated: possibly outdated.
-367. <a id="o367"></a>National Pension Authority (Finance Division, Ministry of Finance, Bangladesh). [Help desk: frequently asked questions (Bangla)](https://www.upension.gov.bd/Public/HelpDesk). Accessed 8 Nov 2026. Undated: possibly outdated.
-368. <a id="o368"></a>Bangladesh High Commission, Singapore, 16 Nov 2022. [Application for Travel Permit (form and instructions, PDF)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-singapore-mofa/2024/12/12344b963a5b46c98e611e31ad87e9e1.pdf). Accessed 8 Nov 2026. Possibly outdated.
-369. <a id="o369"></a>Immigration & Checkpoints Authority (ICA), AskGov, 2023. [What will happen if I overstay in Singapore?](https://ask.gov.sg/ica/questions/clos83fvu01kh5k0w71sey268). Accessed 9 Nov 2026. Possibly outdated.
-370. <a id="o370"></a>Immigration & Checkpoints Authority (ICA), 16 Mar 2026. [11 Immigration Offenders Arrested in Joint ICA-MOM Operation](https://www.ica.gov.sg/about-ica/news-and-publications/media-room/11-immigration-offenders-arrested-in-joint-ica-mom-operation). Accessed 9 Nov 2026.
-371. <a id="o371"></a>Ministry of Manpower (MOM), 26 Jun 2024. [Response to TWC2 article on employment and accommodation of migrant workers on special passes](https://www.mom.gov.sg/newsroom/fact-checks/2024/response-to-twc2-article-on-employment-and-accommodation-of-mws-on-sps). Accessed 8 Nov 2026. Possibly outdated.
-372. <a id="o372"></a>Bangladesh High Commission, Singapore, 31 Aug 2022. [Consular services: General Information](https://singapore.mofa.gov.bd/pages/static-pages/695266b235ce18e1c05aad3e). Accessed 8 Nov 2026. Possibly outdated.
-373. <a id="o373"></a>Immigration & Checkpoints Authority (ICA), 28 Nov 2025. [ICA to Issue No-Boarding Directives from 30 January 2026](https://www.ica.gov.sg/about-ica/news-and-publications/media-room/ica-to-issue-no-boarding-directives-from-30-january-2026). Accessed 9 Nov 2026.
-374. <a id="o374"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Bringing home injured and sick workers (Bangla)](https://wewb.gov.bd/pages/static-pages/6922e05e933eb65569e26b8b). Accessed 8 Nov 2026.
-375. <a id="o375"></a>Wage Earners' Welfare Board, 16 Apr 2026. [Ambulance service (Bangla)](https://wewb.gov.bd/pages/static-pages/6922dc70933eb65569e10600). Accessed 8 Nov 2026.
-376. <a id="o376"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Financial help for injured/sick workers (Bangla)](https://wewb.gov.bd/pages/static-pages/6922ddb6933eb65569e15fa2). Accessed 8 Nov 2026.
-377. <a id="o377"></a>Bangladesh High Commission, Singapore (Labour and Welfare Wing), 7 May 2026. [Bringing Our Migrant Workers Home: NOC and Repatriation Process Explained (PDF)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-singapore-mofa/2026/4/e1047303-99a6-4e5e-9b4d-42ea5db9abca.pdf). Accessed 8 Nov 2026.
-378. <a id="o378"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Help bringing bodies home (Bangla)](https://wewb.gov.bd/pages/static-pages/6922e0ef933eb65569e293b2). Accessed 8 Nov 2026.
-379. <a id="o379"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Help with local burial abroad (Bangla)](https://wewb.gov.bd/pages/static-pages/6922db9e933eb65569e0b57c). Accessed 8 Nov 2026.
-380. <a id="o380"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Body transport and burial costs (Bangla)](https://wewb.gov.bd/pages/static-pages/6922e025933eb65569e25b2a). Accessed 8 Nov 2026.
-381. <a id="o381"></a>Wage Earners' Welfare Board, 9 Jun 2026. [Probashi Kallyan Desk services (Bangla)](https://wewb.gov.bd/pages/static-pages/6922ddc8933eb65569e163d9). Accessed 8 Nov 2026.
-382. <a id="o382"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Help recovering death compensation and dues (Bangla)](https://wewb.gov.bd/pages/static-pages/6922df5a933eb65569e2165e). Accessed 8 Nov 2026.
-383. <a id="o383"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Migrant worker insurance (Bangla)](https://wewb.gov.bd/pages/static-pages/6922dbcb933eb65569e0c955). Accessed 8 Nov 2026.
-384. <a id="o384"></a>Immigration & Checkpoints Authority (ICA), 27 Oct 2026. [Travelling with Cash](https://www.ica.gov.sg/information-and-e-services/entry-and-departure/immigration-and-clearance/travelling-with-cash). Accessed 9 Nov 2026.
-385. <a id="o385"></a>Wage Earners' Welfare Board, 29 Jan 2026. [Wage Earners' Centre (Bangla)](https://wewb.gov.bd/pages/static-pages/6922dec9933eb65569e1d5b5). Accessed 8 Nov 2026.
-386. <a id="o386"></a>Wage Earners' Welfare Board, 9 Jun 2026. [Probashi Lounge service (Bangla)](https://wewb.gov.bd/pages/static-pages/6922e01b933eb65569e2581d). Accessed 8 Nov 2026.
-387. <a id="o387"></a>National Board of Revenue (Customs), Bangladesh, 3 Jun 2025. [Non-tourist Passenger Baggage Rules 2025 (SRO 261-Ain/2025/71/Customs), Bangladesh Gazette 3 June 2025 (transcription)](https://nbr.gov.bd/uploads/sros/অপর্যটক_যাত্রী_ব্যাগেজ_বিধিমালা,_২০২৫.pdf#transcription). Accessed 8 Nov 2026. Possibly outdated.
-388. <a id="o388"></a>Hazrat Shahjalal International Airport (Customs). [Customs and baggage rules](https://www.hsia.gov.bd/content-details/10/Customs). Accessed 8 Nov 2026. Undated: possibly outdated.
-389. <a id="o389"></a>Bangladesh Bank, Foreign Exchange Policy Department, 3 Feb 2020. [FE Circular No. 06 (3 Feb 2020): Import and export of currency notes](https://www.bb.org.bd/mediaroom/circulars/fepd/feb032020fepd06e.pdf). Accessed 8 Nov 2026. Possibly outdated.
-390. <a id="o390"></a>Bangladesh Customs (National Board of Revenue). [Currency Regulations](https://bangladeshcustoms.gov.bd/trade_info/currency_regulations). Accessed 8 Nov 2026. Undated: possibly outdated.
-391. <a id="o391"></a>Probashi Kallyan Bank, 23 Sep 2026. [Rehabilitation loan (পুনর্বাসন ঋণ)](https://pkb.gov.bd/pages/static-pages/6922dc54933eb65569e0fc0d). Accessed 8 Nov 2026.
-392. <a id="o392"></a>Wage Earners' Welfare Board, 11 Mar 2026. [Ongoing projects (Bangla)](https://wewb.gov.bd/pages/static-pages/6922df5c933eb65569e217af). Accessed 8 Nov 2026.
-393. <a id="o393"></a>BRAC. [About us](https://www.brac.net/about-us). Accessed 8 Nov 2026. Undated: possibly outdated.
-394. <a id="o394"></a>BRAC. [Migration Programme](https://www.brac.net/program/migration/). Accessed 8 Nov 2026. Undated: possibly outdated.
-395. <a id="o395"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Legal help through local administration (Bangla)](https://wewb.gov.bd/pages/static-pages/6922dfee933eb65569e24b4d). Accessed 8 Nov 2026.
-396. <a id="o396"></a>Singapore Civil Defence Force (SCDF), 2026. [Emergency Medical Services (995)](https://www.scdf.gov.sg/home/about-scdf/emergency-medical-services). Accessed 9 Nov 2026.
-397. <a id="o397"></a>Ministry of Expatriates' Welfare and Overseas Employment, 22 Sep 2026. [প্রবাসী বাংলাদেশিদের জন্য বিশেষ বিজ্ঞপ্তি (special notice for expatriate Bangladeshis: complaint cell), 22 Sep 2026](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-probashi/2026/8/994572d2-66cf-45d2-abb8-4f85179e0e18.pdf). Accessed 8 Nov 2026.
+180. <a id="o180"></a>Ministry of Manpower (MOM), 7 Jan 2025. [Written Answer to PQ on foreign workers allowed to work under the Temporary Job Scheme](https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2025/0107-written-answer-to-pq-on-foreign-workers-who-applied-for-n-are-allowed-to-work-under-the-tjs). Accessed 8 Nov 2026. Possibly outdated.
+181. <a id="o181"></a>Ministry of Manpower (MOM), 26 Jun 2024. [Response to TWC2 article on employment and accommodation of migrant workers on special passes](https://www.mom.gov.sg/newsroom/fact-checks/2024/response-to-twc2-article-on-employment-and-accommodation-of-mws-on-sps). Accessed 8 Nov 2026. Possibly outdated.
+182. <a id="o182"></a>Bangladesh High Commission, Singapore, 28 Jul 2022. [Office Address and Phone Number](https://singapore.mofa.gov.bd/pages/static-pages/6952669735ce18e1c05aa370). Accessed 8 Nov 2026. Possibly outdated.
+183. <a id="o183"></a>Bangladesh High Commission, Singapore, 17 Oct 2022. [Letter of Authorization for attestation of IPAs (format, PDF)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-singapore-mofa/2024/12/a6f860cec1394754800b67edd96f1ea0.pdf). Accessed 8 Nov 2026. Possibly outdated.
+184. <a id="o184"></a>Bangladesh High Commission, Singapore. [Officers Profile](https://singapore.mofa.gov.bd/pages/officers-profile). Accessed 8 Nov 2026. Undated: possibly outdated.
+185. <a id="o185"></a>Ministry of Expatriates' Welfare and Overseas Employment, Bangladesh, 1 May 2025. [Labour wings (contact list)](https://probashi.gov.bd/pages/static-pages/694032df35ce18e1c0563b95). Accessed 8 Nov 2026. Possibly outdated.
+186. <a id="o186"></a>Bangladesh High Commission, Singapore, 17 Oct 2022. [Welfare services: General Information](https://singapore.mofa.gov.bd/pages/static-pages/695266b135ce18e1c05aad03). Accessed 8 Nov 2026. Possibly outdated.
+187. <a id="o187"></a>Ministry of Manpower (MOM), 28 Sep 2026. [Hiring an existing manufacturing or services worker](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules/hiring-an-existing-manufacturing-or-services-worker). Accessed 8 Nov 2026.
+188. <a id="o188"></a>Ministry of Manpower (MOM), 28 Sep 2026. [Work Permit: hiring an existing process worker](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules/hiring-existing-worker-in-process-sector). Accessed 8 Nov 2026.
+189. <a id="o189"></a>Ministry of Manpower (MOM). [Termination with notice](https://www.mom.gov.sg/employment-practices/termination-of-employment/termination-with-notice). Accessed 9 Nov 2026. Undated: possibly outdated.
+190. <a id="o190"></a>Ministry of Manpower (MOM), 27 Apr 2026. [I submitted my resignation letter, but my employer is now asking me to leave earlier. Am I entitled to notice pay?](https://www.mom.gov.sg/faq/termination/i-resigned-but-er-asked-me-to-leave-earlier-am-i-entitled-to-notice-pay-and-when-receive-salary). Accessed 9 Nov 2026.
+191. <a id="o191"></a>Ministry of Manpower (MOM), 19 Jul 2026. [My migrant worker and I disagree on the destination where the worker will be repatriated](https://www.mom.gov.sg/faq/work-permit-for-foreign-worker/my-foreign-worker-and-i-disagree-on-the-destination-where-the-worker-will-be-repatriated-can-i-get-help-to-resolve-the-dispute). Accessed 8 Nov 2026.
+192. <a id="o192"></a>Ministry of Manpower (MOM), 18 Sep 2026. [S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass). Accessed 8 Nov 2026.
+193. <a id="o193"></a>Ministry of Manpower (MOM), 4 Mar 2026. [Key facts on S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass/key-facts). Accessed 8 Nov 2026.
+194. <a id="o194"></a>Ministry of Manpower (MOM), 28 Aug 2026. [Apply for an S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass/apply-for-a-pass). Accessed 8 Nov 2026.
+195. <a id="o195"></a>Ministry of Manpower (MOM), 19 Feb 2026. [S Pass quota and levy requirements](https://www.mom.gov.sg/passes-and-permits/s-pass/quota-and-levy/levy-and-quota-requirements). Accessed 8 Nov 2026.
+196. <a id="o196"></a>Ministry of Manpower (MOM), 1 Sep 2026. [Eligibility for S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass/eligibility). Accessed 8 Nov 2026.
+197. <a id="o197"></a>Ministry of Manpower (MOM), 3 Nov 2026. [Eligibility for Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass/eligibility). Accessed 8 Nov 2026.
+198. <a id="o198"></a>Ministry of Manpower (MOM), 14 Mar 2024. [FAQ: Is a security bond required for S Pass holders?](https://www.mom.gov.sg/faq/s-pass/is-a-security-bond-required-for-s-pass-holders). Accessed 8 Nov 2026. Possibly outdated.
+199. <a id="o199"></a>Ministry of Manpower (MOM), 18 Sep 2026. [S Pass medical insurance requirements](https://www.mom.gov.sg/passes-and-permits/s-pass/medical-insurance). Accessed 8 Nov 2026.
+200. <a id="o200"></a>Ministry of Manpower (MOM), 20 Jan 2026. [Consider all candidates fairly before you apply for an S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass/consider-all-candidates-fairly). Accessed 8 Nov 2026.
+201. <a id="o201"></a>Ministry of Manpower (MOM), 18 May 2026. [Documents required for S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass/documents-required). Accessed 8 Nov 2026.
+202. <a id="o202"></a>Ministry of Manpower (MOM), 28 Apr 2026. [Appeal against a rejected S Pass application](https://www.mom.gov.sg/passes-and-permits/s-pass/appeal-against-a-rejected-application). Accessed 8 Nov 2026.
+203. <a id="o203"></a>Ministry of Manpower (MOM), 14 Mar 2024. [FAQ: Can I start my own business if I am on S Pass?](https://www.mom.gov.sg/faq/s-pass/can-i-start-my-own-business-if-i-am-on-s-pass). Accessed 8 Nov 2026. Possibly outdated.
+204. <a id="o204"></a>Ministry of Manpower (MOM), 14 Mar 2024. [FAQ: Do S Pass holders need to seek approval to marry a Singaporean or PR?](https://www.mom.gov.sg/faq/s-pass/do-s-pass-holders-need-to-seek-approval-to-marry-a-singaporean-or-permanent-resident). Accessed 8 Nov 2026. Possibly outdated.
+205. <a id="o205"></a>Ministry of Manpower (MOM), 1 Jan 2026. [Renew an S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass/renew-a-pass). Accessed 8 Nov 2026.
+206. <a id="o206"></a>Ministry of Manpower (MOM), 15 Sep 2025. [Cancel an S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass/cancel-a-pass). Accessed 8 Nov 2026. Possibly outdated.
+207. <a id="o207"></a>Ministry of Manpower (MOM), 27 Jul 2021. [Two work pass holders jailed for submitting false qualifications in work pass applications](https://www.mom.gov.sg/newsroom/press-releases/2021/0727---two-work-pass-holders-jailed-for-submitting-false-qualifications-in-work-pass-applications). Accessed 8 Nov 2026. Possibly outdated.
+208. <a id="o208"></a>Ministry of Manpower (MOM), Singapore, 23 Sep 2026. [Employment rules for migrant domestic workers (MDWs)](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/employment-rules). Accessed 8 Nov 2026.
+209. <a id="o209"></a>Attorney-General's Chambers, Singapore Statutes Online, 9 Nov 2026. [Employment of Foreign Manpower (Work Passes) Regulations 2012, Fourth Schedule (current version)](https://sso.agc.gov.sg/SL/EFMA1990-S569-2012?ProvIds=Sc4-#Sc4-). Accessed 8 Nov 2026.
+210. <a id="o210"></a>Ministry of Manpower (MOM), Singapore, 23 Apr 2026. [Contracts and safety agreement for migrant domestic worker](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/contracts-and-safety-agreement). Accessed 8 Nov 2026.
+211. <a id="o211"></a>Ministry of Manpower (MOM), Singapore, 14 Mar 2024. [Migrant domestic worker eligibility](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/fdw-eligibility). Accessed 8 Nov 2026. Possibly outdated.
+212. <a id="o212"></a>Bureau of Manpower, Employment and Training (BMET), Overseas Employment Platform. [Division-wise clearance: Singapore, women, 2024](https://www.oep.gov.bd/reports/geo-clearance-count?date_from=2024-01-01&date_to=2024-12-31&country_name%5B%5D=159&gender_id=2). Accessed 8 Nov 2026. Undated: possibly outdated.
+213. <a id="o213"></a>Bureau of Manpower, Employment and Training (BMET), Overseas Employment Platform, 7 Nov 2026. [Division-wise clearance: Singapore, women, 1 Jan to 7 Nov 2026](https://www.oep.gov.bd/reports/geo-clearance-count?date_from=2026-01-01&date_to=2026-11-07&country_name%5B%5D=159&gender_id=2). Accessed 8 Nov 2026.
+214. <a id="o214"></a>High Commission of Bangladesh, Singapore, 10 Apr 2025. [Maid visa attestation and employment contract between foreign domestic worker and employer (attested sample, redacted)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-singapore-mofa/2024/12/310caf04dd2d4e6da6a3a578ac2a8808.pdf). Accessed 8 Nov 2026. Possibly outdated.
+215. <a id="o215"></a>Ministry of Manpower (MOM), Singapore. [Apply for a Work Permit for migrant domestic worker (MDW)](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/apply-for-work-permit). Accessed 8 Nov 2026. Undated: possibly outdated.
+216. <a id="o216"></a>Ministry of Manpower (MOM), Singapore, 2 Feb 2026. [Security bond requirements for MDWs](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/security-bond). Accessed 8 Nov 2026.
+217. <a id="o217"></a>Ministry of Manpower (MOM), Singapore, 18 Sep 2026. [Insurance requirements for MDWs](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/insurance-requirements). Accessed 8 Nov 2026.
+218. <a id="o218"></a>Ministry of Manpower (MOM), Singapore, 1 Sep 2025. [Settling-in Programme (SIP) for first-time MDWs](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/settling-in-programme-sip). Accessed 8 Nov 2026. Possibly outdated.
+219. <a id="o219"></a>Ministry of Manpower (MOM), Singapore, 8 Jul 2026. [Paying levy for a migrant domestic worker (MDW)](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/foreign-domestic-worker-levy/paying-levy). Accessed 8 Nov 2026.
+220. <a id="o220"></a>Ministry of Manpower (MOM), Singapore, 23 Sep 2026. [Six-monthly medical examination (6ME) for MDWs](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/six-monthly-medical-examination). Accessed 8 Nov 2026.
+221. <a id="o221"></a>Ministry of Manpower (MOM), Singapore, 16 Jan 2026. [Rest days, health and well-being for migrant domestic workers](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/rest-days-and-well-being). Accessed 8 Nov 2026.
+222. <a id="o222"></a>Ministry of Expatriates' Welfare and Overseas Employment, 1 Sep 2025. [Approval of agencies to send women domestic workers, 1 Sep 2025 (Bangla)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-probashi/2024/12/8a41985149db47f88907870f3a49f02c.pdf). Accessed 8 Nov 2026. Possibly outdated.
+223. <a id="o223"></a>Ministry of Manpower (MOM), Singapore, 20 Mar 2024. [Paying your helper's salary on time and in full: Why it matters](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/publications-and-resources/living-with-a-migrant-domestic-worker/paying-your-helpers-salary-on-time-and-in-full). Accessed 9 Nov 2026. Possibly outdated.
+224. <a id="o224"></a>Ministry of Manpower (MOM), Singapore, 7 Aug 2026. [Employers' Orientation Programme (EOP)](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/employers-orientation-programme-eop). Accessed 8 Nov 2026.
+225. <a id="o225"></a>Ministry of Manpower (MOM), Singapore, 11 Mar 2026. [Employer requirements for hiring an MDW](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/employer-requirements). Accessed 8 Nov 2026.
+226. <a id="o226"></a>Ministry of Manpower (MOM), Singapore, 6 Oct 2023. [Key facts on Work Permit for MDW](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/key-facts). Accessed 8 Nov 2026. Possibly outdated.
+227. <a id="o227"></a>Ministry of Manpower, Singapore, 14 Nov 2025. [Appeal against a rejected Work Permit application (migrant domestic worker)](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/appeal-against-a-rejected-application). Accessed 10 Nov 2026.
+228. <a id="o228"></a>Ministry of Manpower (MOM), Singapore, 18 Jun 2026. [Educational Requirements for First-time Migrant Domestic Workers](https://www.mom.gov.sg/-/media/mom/documents/publications/educational-qualifications/educational-requirements-for-first-time-mdws.pdf). Accessed 9 Nov 2026.
+229. <a id="o229"></a>Ministry of Expatriates' Welfare and Overseas Employment, 26 Aug 2025. [Housekeeping Training Operation Policy (Revised) 2023, sent 26 Aug 2025 (Bangla)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-probashi/2024/12/e0eeac5e241d42ae9c371c106778d65a.pdf). Accessed 8 Nov 2026. Possibly outdated.
+230. <a id="o230"></a>Ministry of Manpower (MOM), Singapore. [Work Permit for MDWs: notify MOM](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/notify-mom-of-changes). Accessed 8 Nov 2026. Undated: possibly outdated.
+231. <a id="o231"></a>Ministry of Manpower (MOM), Singapore, 1 Sep 2025. [Pre-employment medical examination for MDWs](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/medical-examination). Accessed 8 Nov 2026. Possibly outdated.
+232. <a id="o232"></a>Ministry of Manpower (MOM), Singapore, 17 Aug 2026. [Migrant domestic worker interview](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/mdw-interview). Accessed 8 Nov 2026.
+233. <a id="o233"></a>Ministry of Manpower (MOM), Singapore, 16 Feb 2024. [Measures in place to support well-being of migrant domestic workers (press reply)](https://www.mom.gov.sg/newsroom/press-replies/2024/0216-well-being-mdws). Accessed 8 Nov 2026. Possibly outdated.
+234. <a id="o234"></a>Ministry of Manpower (MOM), Singapore, 14 Mar 2024. [Paying the salary of a foreign domestic worker](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/salary-guidelines). Accessed 8 Nov 2026. Possibly outdated.
+235. <a id="o235"></a>Ministry of Manpower (MOM), Singapore, 7 Oct 2022. [All migrant domestic workers to have one rest day a month that cannot be compensated away](https://www.mom.gov.sg/newsroom/press-releases/2022/1007-mandatory-rest-days-for-mdws). Accessed 8 Nov 2026. Possibly outdated.
+236. <a id="o236"></a>Ministry of Manpower (MOM), Singapore, 29 Aug 2024. [Ask Jaya: My MDW is asking for home leave](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/publications-and-resources/ask-jaya/my-mdw-is-asking-for-home-leave-is-there-anything-i-should-look-out-for). Accessed 9 Nov 2026. Possibly outdated.
+237. <a id="o237"></a>Ministry of Manpower (MOM), Singapore, 29 Aug 2024. [Ask Jaya: I want to give my MDW access to her phone](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/publications-and-resources/ask-jaya/i-want-to-give-my-mdw-access-to-her-phone). Accessed 8 Nov 2026. Possibly outdated.
+238. <a id="o238"></a>Ministry of Manpower (MOM), Singapore, 14 Mar 2024. [Abuse and ill-treatment of a foreign domestic worker](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/abuse-and-ill-treatment). Accessed 8 Nov 2026. Possibly outdated.
+239. <a id="o239"></a>Ministry of Manpower (MOM), Singapore, 16 Jul 2025. [I am a migrant domestic worker (MDW) in distress. Who can I call?](https://www.mom.gov.sg/faq/work-permit-for-fdw/i-am-an-mdw-in-distress). Accessed 8 Nov 2026. Possibly outdated.
+240. <a id="o240"></a>Ministry of Manpower (MOM), Singapore, 24 Apr 2025. [What should I do if an MDW has not been paid, is overworked or not given enough food?](https://www.mom.gov.sg/faq/work-permit-for-fdw/what-should-i-do-if-an-fdw-has-not-been-paid-is-overworked-or-not-given-enough-food). Accessed 8 Nov 2026. Possibly outdated.
+241. <a id="o241"></a>Ministry of Manpower (MOM), Singapore, 14 Mar 2024. [Transfer a migrant domestic worker (MDW) directly to a new employer](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/transfer-to-a-new-employer). Accessed 8 Nov 2026. Possibly outdated.
+242. <a id="o242"></a>Ministry of Manpower (MOM), Singapore, 13 Jul 2026. [Transfer an MDW to a new employer through an employment agency](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/transfer-to-new-employer-through-ea). Accessed 8 Nov 2026.
+243. <a id="o243"></a>Ministry of Manpower (MOM), Singapore, 3 Jul 2026. [Cancel a Work Permit for a migrant domestic worker (MDW)](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/cancel-a-work-permit). Accessed 8 Nov 2026.
+244. <a id="o244"></a>Ministry of Manpower (MOM), Singapore, 14 Mar 2024. [Sending a migrant domestic worker (MDW) home](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/sending-an-fdw-home). Accessed 8 Nov 2026. Possibly outdated.
+245. <a id="o245"></a>Ministry of Manpower (MOM), Singapore, 1 Jan 2026. [Renew a Work Permit for a migrant domestic worker (MDW)](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/renew-a-work-permit). Accessed 8 Nov 2026.
+246. <a id="o246"></a>Ministry of Manpower (MOM), Singapore, 28 Aug 2025. [Overseas leave for migrant domestic workers (MDWs)](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/overseas-leave-for-fdw). Accessed 8 Nov 2026. Possibly outdated.
+247. <a id="o247"></a>Immigration & Checkpoints Authority (ICA), AskGov. [Can I apply for a visa upon arrival at the checkpoint?](https://ask.gov.sg/ica/questions/clos83fvt01k55k0wmb7ui1lh). Accessed 9 Nov 2026. Undated: possibly outdated.
+248. <a id="o248"></a>Immigration & Checkpoints Authority (ICA), AskGov. [Is my entry to Singapore guaranteed with a valid visa?](https://ask.gov.sg/ica/questions/clos83fvy01mf5k0wu09z54te). Accessed 8 Nov 2026. Undated: possibly outdated.
+249. <a id="o249"></a>Immigration & Checkpoints Authority (ICA). [Form 14A: Application for Entry Visa (IMM 14A)](https://www.ica.gov.sg/docs/default-source/ica/forms/form14a.pdf). Accessed 8 Nov 2026. Undated: possibly outdated.
+250. <a id="o250"></a>Immigration & Checkpoints Authority (ICA), AskGov. [How do I apply for a Visa?](https://ask.gov.sg/ica/questions/cluhy6lf1008dshkrrh7lmk4k). Accessed 8 Nov 2026. Undated: possibly outdated.
+251. <a id="o251"></a>Immigration & Checkpoints Authority (ICA). [Apply for Entry Visa (SAVE e-Service landing page)](https://www.ica.gov.sg/application-status/entry-visa). Accessed 8 Nov 2026. Undated: possibly outdated.
+252. <a id="o252"></a>Immigration & Checkpoints Authority (ICA), AskGov. [What is the validity period of a Singapore Visa?](https://ask.gov.sg/ica/questions/clos83fw201ol5k0w6sf3u5ap). Accessed 8 Nov 2026. Undated: possibly outdated.
+253. <a id="o253"></a>High Commission of the Republic of Singapore in Dhaka (MFA Singapore), 1 Jan 2025. [Singapore Visa Application (Dhaka) Frequently Answered Questions](https://isomer-user-content.by.gov.sg/210/5e591a35-f570-4451-b262-8fffa025b406/Singapore%20Visa%20Application%20FAQ-%20Dhaka%2001012025.pdf). Accessed 8 Nov 2026. Possibly outdated.
+254. <a id="o254"></a>Immigration & Checkpoints Authority (ICA), AskGov. [How can I request for a longer validity of my visa?](https://ask.gov.sg/ica/questions/clos83fw201od5k0wt0w22jmq). Accessed 8 Nov 2026. Undated: possibly outdated.
+255. <a id="o255"></a>Immigration & Checkpoints Authority (ICA), AskGov. [How can I extend my Visa?](https://ask.gov.sg/ica/questions/clos83fw101ob5k0wdxuayzws). Accessed 8 Nov 2026. Undated: possibly outdated.
+256. <a id="o256"></a>Immigration & Checkpoints Authority (ICA), AskGov. [Can I apply for visa if my passport is less than 6 months?](https://ask.gov.sg/ica/questions/clos83fvw01lj5k0wp90sbtq5). Accessed 8 Nov 2026. Undated: possibly outdated.
+257. <a id="o257"></a>Immigration & Checkpoints Authority (ICA). [Form V39A: Letter of Introduction for Visa Application](https://www.ica.gov.sg/docs/default-source/ica/forms/formv39a.pdf). Accessed 8 Nov 2026. Undated: possibly outdated.
+258. <a id="o258"></a>Immigration & Checkpoints Authority (ICA), AskGov. [How do I check on the visa application status?](https://ask.gov.sg/ica/questions/clos83fvw01lp5k0wkos1sp7c). Accessed 8 Nov 2026. Undated: possibly outdated.
+259. <a id="o259"></a>Immigration & Checkpoints Authority (ICA), AskGov. [How do I check if the visa is genuine?](https://ask.gov.sg/ica/questions/clos83fvy01mr5k0wzdmsdazc). Accessed 8 Nov 2026. Undated: possibly outdated.
+260. <a id="o260"></a>Immigration & Checkpoints Authority (ICA), 9 Oct 2026. [Visiting Singapore (public advisory)](https://www.ica.gov.sg/about-ica/newsroom/public-advisories/visiting-singapore). Accessed 8 Nov 2026.
+261. <a id="o261"></a>Immigration & Checkpoints Authority (ICA), AskGov. [How do I check my visa validity?](https://ask.gov.sg/ica/questions/clos83fw201of5k0wsngh1loy). Accessed 8 Nov 2026. Undated: possibly outdated.
+262. <a id="o262"></a>Immigration & Checkpoints Authority (ICA), AskGov. [Who can I contact for Singapore visa-related matters?](https://ask.gov.sg/ica/questions/clos83fw001nr5k0wyouzhg3r). Accessed 8 Nov 2026. Undated: possibly outdated.
+263. <a id="o263"></a>Immigration & Checkpoints Authority (ICA), AskGov. [Do I have to retrieve or download and print the approved e-Visa to travel to Singapore?](https://ask.gov.sg/ica/questions/clqety23y00833k36wol32o4p). Accessed 8 Nov 2026. Undated: possibly outdated.
+264. <a id="o264"></a>Immigration & Checkpoints Authority (ICA), 20 Oct 2026. [Advisory on Fake or Misleading Websites](https://www.ica.gov.sg/about-ica/newsroom/public-advisories/advisory-on-fake-or-misleading-websites). Accessed 8 Nov 2026.
+265. <a id="o265"></a>Immigration & Checkpoints Authority (ICA), 3 Nov 2026. [Electronic Visit Pass (e-Pass) Retrieval for Short-Term Visitors](https://www.ica.gov.sg/information-and-e-services/entry-and-departure/entering-singapore/short-term-visit-pass/electronic-visit-pass-(e-pass)-retrieval-for-short-term-visitors). Accessed 8 Nov 2026.
+266. <a id="o266"></a>Immigration & Checkpoints Authority (ICA), AskGov. [What should I do if I did not receive my electronic Visit Pass (e-Pass) after I enter Singapore?](https://ask.gov.sg/ica/questions/clos83fv6018j5k0wy59bzkxq). Accessed 8 Nov 2026. Undated: possibly outdated.
+267. <a id="o267"></a>Immigration & Checkpoints Authority (ICA), AskGov, Oct 2026. [How many days can a foreign visitor stay in Singapore?](https://ask.gov.sg/ica/questions/qu5kas1u0l79dogt8c5o48un). Accessed 9 Nov 2026.
+268. <a id="o268"></a>Immigration & Checkpoints Authority (ICA), AskGov. [Why is my visa application rejected?](https://ask.gov.sg/ica/questions/clos83fvy01md5k0wce88a6r2). Accessed 9 Nov 2026. Undated: possibly outdated.
+269. <a id="o269"></a>Immigration & Checkpoints Authority (ICA), AskGov. [How do I appeal against my visa rejection?](https://ask.gov.sg/ica/questions/clos83fvx01mb5k0ww9yau2xd). Accessed 8 Nov 2026. Undated: possibly outdated.
+270. <a id="o270"></a>Ministry of Manpower (MOM), 11 May 2026. [Work pass exemption for foreign students](https://www.mom.gov.sg/passes-and-permits/work-pass-exemption-for-foreign-students). Accessed 8 Nov 2026.
+271. <a id="o271"></a>High Commission of the Republic of Singapore in Dhaka (MFA Singapore), 26 Feb 2026. [Contact us](https://dhaka.mfa.gov.sg/contact-us/). Accessed 9 Nov 2026.
+272. <a id="o272"></a>Ministry of Manpower (MOM), 29 Apr 2026. [Eligible activities for a work pass exemption](https://www.mom.gov.sg/passes-and-permits/work-pass-exempt-activities/eligible-activities). Accessed 8 Nov 2026.
+273. <a id="o273"></a>Ministry of Manpower (MOM), 14 Mar 2024. [Notify MOM for Work Pass Exempt Activities](https://www.mom.gov.sg/passes-and-permits/work-pass-exempt-activities/notify-mom-for-an-exemption). Accessed 9 Nov 2026. Possibly outdated.
+274. <a id="o274"></a>Immigration & Checkpoints Authority (ICA), 29 Oct 2026. [Student's Pass Application/Renewal](https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/student-s-pass/student's-pass-application-renewal). Accessed 8 Nov 2026.
+275. <a id="o275"></a>Immigration & Checkpoints Authority (ICA), 6 Nov 2026. [Student's Pass: Institutes of Higher Learning](https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/student-s-pass/student's-pass-application-renewal/institutes-of-higher-learning). Accessed 8 Nov 2026.
+276. <a id="o276"></a>Skills and Workforce Development Agency (SWDA). [Common Misconceptions (private education)](https://www.swda.gov.sg/home/skills-career-resources/private-education-resources/common-misconceptions). Accessed 8 Nov 2026. Undated: possibly outdated.
+277. <a id="o277"></a>Ministry of Home Affairs (MHA), 9 Sep 2024. [Written Reply to Parliamentary Question on Number of Students' Passes Issued to Foreign Students in 2023](https://www.mha.gov.sg/media-room/newsroom/written-reply-to-pq-on-number-of-students-passes-issued-to-foreign-students-in-2023/). Accessed 8 Nov 2026. Possibly outdated.
+278. <a id="o278"></a>Skills and Workforce Development Agency (SWDA). [Guide for Choosing a PEI](https://www.swda.gov.sg/home/skills-career-resources/private-education-resources/guide-for-choosing-a-pei). Accessed 8 Nov 2026. Undated: possibly outdated.
+279. <a id="o279"></a>Immigration & Checkpoints Authority (ICA), 6 Nov 2026. [Student's Pass: Approved Private Education Institutions](https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/student-s-pass/student's-pass-application-renewal/approved-private-education-institutions). Accessed 8 Nov 2026.
+280. <a id="o280"></a>Skills and Workforce Development Agency (SWDA), TPGateway. [PEI Listing](https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/pei-listing). Accessed 8 Nov 2026. Undated: possibly outdated.
+281. <a id="o281"></a>Skills and Workforce Development Agency (SWDA), TPGateway, 11 Sep 2026. [Enforcement Actions against PEIs and/or Managers](https://www.tpgateway.gov.sg/resources/regulation/enforcement-actions/enforcement-actions-against-peis-and-or-managers). Accessed 8 Nov 2026.
+282. <a id="o282"></a>Skills and Workforce Development Agency (SWDA). [Seen an ad by Singapore Business School (SBS)? Here's what you need to know](https://www.swda.gov.sg/home/skills-career-resources/private-education-resources/alerts-and-advisories). Accessed 8 Nov 2026. Undated: possibly outdated.
+283. <a id="o283"></a>Immigration & Checkpoints Authority (ICA), AskGov. [Can the Student's Pass processing fees be refunded if my application is not successful?](https://ask.gov.sg/ica/questions/clos83fvq01in5k0wr8a5lv4y). Accessed 8 Nov 2026. Undated: possibly outdated.
+284. <a id="o284"></a>Immigration & Checkpoints Authority (ICA), 6 Nov 2026. [Completion of Formalities and Issuance of Student's Pass](https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/student-s-pass/completion-of-formalities-and-issuance-of-student's-pass). Accessed 8 Nov 2026.
+285. <a id="o285"></a>Ministry of Education (MOE). [Tuition Grant Scheme: Overview](https://www.moe.gov.sg/financial-matters/tuition-grant-scheme/overview). Accessed 8 Nov 2026. Undated: possibly outdated.
+286. <a id="o286"></a>Ministry of Education (MOE), 23 Jun 2026. [Employment and pass matters (Tuition Grant)](https://www.moe.gov.sg/financial-matters/tuition-grant-scheme/employment). Accessed 8 Nov 2026.
+287. <a id="o287"></a>Immigration & Checkpoints Authority (ICA), 29 Oct 2026. [Student's Pass Cancellation](https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/student-s-pass/student's-pass-cancellation). Accessed 8 Nov 2026.
+288. <a id="o288"></a>Immigration & Checkpoints Authority (ICA), 29 Oct 2026. [Graduate from an Institute of Higher Learning Seeking Employment in Singapore](https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/long-term-visit-pass/long-term-visit-pass-application-renewal/graduate-from-an-institute-of-higher-learning-seeking-employment-in-singapore). Accessed 8 Nov 2026.
+289. <a id="o289"></a>Immigration & Checkpoints Authority (ICA), 30 Oct 2026. [List of Institutes of Higher Learning in Singapore](https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/long-term-visit-pass/long-term-visit-pass-application-renewal/graduate-from-an-institute-of-higher-learning-seeking-employment-in-singapore/list-of-institutes-of-higher-learning-in-singapore). Accessed 8 Nov 2026.
+290. <a id="o290"></a>Immigration & Checkpoints Authority (ICA), AskGov. [How can I appeal if my application for a Student's Pass is rejected?](https://ask.gov.sg/ica/questions/clos83fvd01bv5k0wgm5gjaun). Accessed 8 Nov 2026. Undated: possibly outdated.
+291. <a id="o291"></a>Immigration & Checkpoints Authority (ICA), 6 Oct 2026. [Application for Long-Term Immigration Facilities Through Commercial Entities or Consultants](https://www.ica.gov.sg/about-ica/newsroom/public-advisories/application-for-long-term-immigration-facilities-through-commercial-entities-or-consultants). Accessed 8 Nov 2026.
+292. <a id="o292"></a>Skills and Workforce Development Agency (SWDA), 25 Sep 2026. [Dispute Resolution (private schools)](https://www.swda.gov.sg/home/skills-career-resources/private-education-resources/dispute-resolution). Accessed 8 Nov 2026.
+293. <a id="o293"></a>Skills and Workforce Development Agency (SWDA). [Contact Us](https://www.swda.gov.sg/home/about-swda/contact-us). Accessed 9 Nov 2026. Undated: possibly outdated.
+294. <a id="o294"></a>Central Narcotics Bureau, Singapore, 31 Jul 2025. [Close to 27kg of cocaine seized at airport; five female foreign nationals in transit arrested for suspected drug trafficking](https://www.cnb.gov.sg/mediaroom/news/close-to-27kg-of-cocaine-seized-at-airport-five-female-foreign-nationals-in-transit-arrested-for-suspected-drug-trafficking/). Accessed 10 Nov 2026. Possibly outdated.
+295. <a id="o295"></a>Immigration & Checkpoints Authority (ICA), 9 Feb 2023. [Response to 'Law enforcement agencies must do better to deter overstaying' (The Straits Times, 9 February 2023)](https://www.ica.gov.sg/about-ica/news-and-publications/media-room/response-to-law-enforcement-agencies-must-do-better-to-deter-overstaying-(the-straits-times-9-february-2023)). Accessed 9 Nov 2026. Possibly outdated.
+296. <a id="o296"></a>Ministry of Manpower (MOM), 3 Nov 2026. [Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass). Accessed 8 Nov 2026.
+297. <a id="o297"></a>Ministry of Manpower (MOM), 4 May 2026. [Key facts on Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass/key-facts). Accessed 8 Nov 2026.
+298. <a id="o298"></a>Ministry of Manpower (MOM), 17 Aug 2026. [Renew an Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass/renew-a-pass). Accessed 8 Nov 2026.
+299. <a id="o299"></a>Ministry of Manpower (MOM), 5 Jan 2026. [Consider all candidates fairly before you apply for an Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass/consider-all-candidates-fairly). Accessed 8 Nov 2026.
+300. <a id="o300"></a>Ministry of Manpower (MOM), 18 May 2026. [Documents required for Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass/documents-required). Accessed 8 Nov 2026.
+301. <a id="o301"></a>Ministry of Manpower (MOM), 15 Jun 2026. [Apply for an Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass/apply-for-a-pass). Accessed 8 Nov 2026.
+302. <a id="o302"></a>Ministry of Manpower (MOM), 28 Apr 2026. [Appeal against a rejected Employment Pass application](https://www.mom.gov.sg/passes-and-permits/employment-pass/appeal-against-a-rejected-application). Accessed 8 Nov 2026.
+303. <a id="o303"></a>Ministry of Manpower (MOM), 24 Mar 2024. [Passes for families of Employment Pass holders](https://www.mom.gov.sg/passes-and-permits/employment-pass/passes-for-family). Accessed 8 Nov 2026. Possibly outdated.
+304. <a id="o304"></a>Ministry of Manpower (MOM), 14 Mar 2024. [FAQ: Do Employment Pass holders need to seek approval to marry a Singaporean or PR?](https://www.mom.gov.sg/faq/employment-pass/do-employment-pass-holders-need-to-seek-approval-to-marry-a-singaporean-or-permanent-resident). Accessed 8 Nov 2026. Possibly outdated.
+305. <a id="o305"></a>Ministry of Manpower, Singapore, 21 Sep 2026. [Service centre locations](https://www.mom.gov.sg/contact-us/locations). Accessed 10 Nov 2026.
+306. <a id="o306"></a>Ministry of Manpower, Singapore. [Feedback and enquiries](https://www.mom.gov.sg/contact-us/feedback-and-enquiries). Accessed 10 Nov 2026. Undated: possibly outdated.
+307. <a id="o307"></a>Ministry of Manpower, Singapore, 15 Sep 2025. [Apply for an Overseas Networks & Expertise Pass](https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass/apply-for-a-pass). Accessed 10 Nov 2026. Possibly outdated.
+308. <a id="o308"></a>Singapore Economic Development Board. [Tech.Pass - application & renewal](https://www.edb.gov.sg/en/how-we-help/incentives-and-facilitation/tech-pass/application-and-renewal). Accessed 10 Nov 2026. Undated: possibly outdated.
+309. <a id="o309"></a>Ministry of Manpower (MOM), 14 Sep 2026. [Eligibility for Overseas Networks & Expertise Pass](https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass/eligibility). Accessed 8 Nov 2026.
+310. <a id="o310"></a>Ministry of Manpower (MOM), 14 Sep 2026. [Key facts on Overseas Networks & Expertise Pass](https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass/key-facts). Accessed 8 Nov 2026.
+311. <a id="o311"></a>Ministry of Manpower, Singapore, 14 Mar 2024. [Appeal against a rejected Overseas Networks & Expertise Pass application](https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass/appeal-against-a-rejected-application). Accessed 10 Nov 2026. Possibly outdated.
+312. <a id="o312"></a>Ministry of Manpower (MOM), 14 Aug 2026. [Eligibility for EntrePass](https://www.mom.gov.sg/passes-and-permits/entrepass/eligibility). Accessed 8 Nov 2026.
+313. <a id="o313"></a>Ministry of Manpower (MOM), 19 Nov 2024. [Key facts for EntrePass](https://www.mom.gov.sg/passes-and-permits/entrepass/key-facts). Accessed 8 Nov 2026. Possibly outdated.
+314. <a id="o314"></a>Ministry of Manpower, Singapore, 7 Jul 2026. [Apply for an EntrePass](https://www.mom.gov.sg/passes-and-permits/entrepass/apply-for-a-pass). Accessed 10 Nov 2026.
+315. <a id="o315"></a>Ministry of Manpower (MOM), 27 Nov 2024. [Eligibility for Personalised Employment Pass](https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass/eligibility). Accessed 8 Nov 2026. Possibly outdated.
+316. <a id="o316"></a>Ministry of Manpower (MOM), 22 Mar 2024. [Key facts on Personalised Employment Pass](https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass/key-facts). Accessed 8 Nov 2026. Possibly outdated.
+317. <a id="o317"></a>Ministry of Manpower, Singapore, 27 Nov 2025. [Apply for a Personalised Employment Pass](https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass/apply-for-a-pass). Accessed 10 Nov 2026.
+318. <a id="o318"></a>Ministry of Manpower, Singapore. [Appeal against a rejected Personalised Employment Pass application](https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass/appeal-against-a-rejected-application). Accessed 10 Nov 2026. Undated: possibly outdated.
+319. <a id="o319"></a>Singapore Economic Development Board (EDB), 6 Nov 2026. [Tech.Pass](https://www.edb.gov.sg/en/how-we-help/incentives-and-facilitation/tech-pass). Accessed 8 Nov 2026.
+320. <a id="o320"></a>Ministry of Manpower (MOM), 9 Jul 2026. [Dependant's Pass](https://www.mom.gov.sg/passes-and-permits/dependants-pass). Accessed 8 Nov 2026.
+321. <a id="o321"></a>Ministry of Manpower (MOM), 14 Mar 2024. [Eligibility for Long-Term Visit Pass](https://www.mom.gov.sg/passes-and-permits/long-term-visit-pass/eligibility). Accessed 8 Nov 2026. Possibly outdated.
+322. <a id="o322"></a>Immigration & Checkpoints Authority (ICA), 29 Oct 2026. [Spouse of a Singapore Citizen (Long-Term Visit Pass)](https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/long-term-visit-pass/long-term-visit-pass-application-renewal/spouse-of-a-singapore-citizen). Accessed 8 Nov 2026.
+323. <a id="o323"></a>Ministry of Manpower (MOM), 14 Mar 2024. [Eligibility for Dependant's Pass](https://www.mom.gov.sg/passes-and-permits/dependants-pass/eligibility). Accessed 8 Nov 2026. Possibly outdated.
+324. <a id="o324"></a>Ministry of Manpower (MOM), 20 Nov 2024. [Key facts on Dependant's Pass](https://www.mom.gov.sg/passes-and-permits/dependants-pass/key-facts). Accessed 8 Nov 2026. Possibly outdated.
+325. <a id="o325"></a>Ministry of Manpower (MOM), 9 Jul 2026. [Apply for a Dependant's Pass](https://www.mom.gov.sg/passes-and-permits/dependants-pass/apply-for-a-pass). Accessed 8 Nov 2026.
+326. <a id="o326"></a>Ministry of Manpower (MOM), 15 Jun 2026. [Apply for a Long-Term Visit Pass](https://www.mom.gov.sg/passes-and-permits/long-term-visit-pass/apply-for-a-pass). Accessed 8 Nov 2026.
+327. <a id="o327"></a>Ministry of Manpower, Singapore, 14 Mar 2024. [Appeal a rejected Dependant's Pass application](https://www.mom.gov.sg/passes-and-permits/dependants-pass/appeal-a-rejected-application). Accessed 10 Nov 2026. Possibly outdated.
+328. <a id="o328"></a>Ministry of Manpower (MOM), 18 May 2026. [Documents required for Dependant's Pass](https://www.mom.gov.sg/passes-and-permits/dependants-pass/documents-required). Accessed 8 Nov 2026.
+329. <a id="o329"></a>Ministry of Manpower (MOM), 5 Apr 2021. [Written answer on Dependant's Pass holders working under a Letter of Consent (5 April 2021)](https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2021/0405-written-answer-by-minister-for-manpower-josephine-teo-on-dependent-pass-holders). Accessed 8 Nov 2026. Possibly outdated.
+330. <a id="o330"></a>Ministry of Manpower (MOM), 25 Mar 2026. [Working in Singapore (Dependant's Pass holders)](https://www.mom.gov.sg/passes-and-permits/dependants-pass/working-in-singapore). Accessed 8 Nov 2026.
+331. <a id="o331"></a>Immigration & Checkpoints Authority (ICA), 29 Oct 2026. [Spouse of a Singapore Permanent Resident (Long-Term Visit Pass)](https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/long-term-visit-pass/long-term-visit-pass-application-renewal/spouse-of-a-singapore-permanent-resident). Accessed 8 Nov 2026.
+332. <a id="o332"></a>Immigration & Checkpoints Authority (ICA), 27 Oct 2026. [Pre-Marriage Long-Term Visit Pass Assessment](https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/long-term-visit-pass/pre-marriage-long-term-visit-pass-assessment). Accessed 8 Nov 2026.
+333. <a id="o333"></a>Ministry of Manpower (MOM), 14 Mar 2024. [FAQ: My future spouse used to be a Work Permit holder. Do we still need approval to get married?](https://www.mom.gov.sg/faq/work-permit-for-foreign-worker/my-future-spouse-used-to-be-a-work-permit-holder-but-no-longer-works-in-singapore-do-we-still-need-approval-to-get-married). Accessed 8 Nov 2026. Possibly outdated.
+334. <a id="o334"></a>Ministry of Manpower (MOM), 2 Mar 2020. [Written answer on requiring Work Permit holders to seek approval to marry a Singapore citizen or PR (2 March 2020)](https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2020/0302-written-answer-by-mrs-josephine-teo-to-pq-on-requiring-wphs-to-seek-approval-to-marry-sc-or-spr). Accessed 8 Nov 2026. Possibly outdated.
+335. <a id="o335"></a>Immigration & Checkpoints Authority (ICA), 27 Oct 2026. [Appeals for Singapore Citizenship/Permanent Residence/Long-Term Visit Pass](https://www.ica.gov.sg/information-and-e-services/appeals/appeals-for-singapore-citizenship-permanent-residence-long-term-visit-pass). Accessed 8 Nov 2026.
+336. <a id="o336"></a>Ministry of Manpower (MOM), 9 Jan 2026. [Work passes for holders of Long-Term Visit Passes issued by ICA](https://www.mom.gov.sg/passes-and-permits/work-passes-for-holders-of-long-term-visit-passes-issued-by-ica). Accessed 8 Nov 2026.
+337. <a id="o337"></a>Ministry of Manpower (MOM), 14 Mar 2024. [Eligibility for Letter of Consent for ICA-issued LTVP/LTVP+ holders](https://www.mom.gov.sg/passes-and-permits/loc-for-ica-issued-ltvp-holders/eligibility). Accessed 8 Nov 2026. Possibly outdated.
+338. <a id="o338"></a>Immigration & Checkpoints Authority (ICA), 29 Jul 2019. [Male Singaporean and female Chinese national jailed for marriage of convenience offences](https://www.ica.gov.sg/about-ica/news-and-publications/media-room/male-singaporean-and-female-chinese-national-jailed-for-marriage-of-convenience-offences). Accessed 8 Nov 2026. Possibly outdated.
+339. <a id="o339"></a>State Courts of Singapore (eLitigation), 5 May 2026. [Public Prosecutor v (marriage of convenience) [2026] SGDC 158](https://www.elitigation.sg/gd/s/2026_SGDC_158). Accessed 8 Nov 2026.
+340. <a id="o340"></a>Immigration & Checkpoints Authority (ICA), 30 Oct 2026. [Permanent Residence Application](https://www.ica.gov.sg/information-and-e-services/citizenship-and-permanent-residence/permanent-residence/permanent-residence-application). Accessed 8 Nov 2026.
+341. <a id="o341"></a>National Population and Talent Division, Prime Minister's Office, Sep 2026. [Population in Brief 2026](https://isomer-user-content.by.gov.sg/520/b133d286-0768-4bd4-ac11-82d8dfd829ef/PIB%202026%20Report.pdf). Accessed 9 Nov 2026.
+342. <a id="o342"></a>Immigration & Checkpoints Authority (ICA). [Document Checklist for Permanent Residence](https://www.ica.gov.sg/docs/default-source/ica/ipses/pr-document-checklist.pdf). Accessed 9 Nov 2026. Undated: possibly outdated.
+343. <a id="o343"></a>Immigration & Checkpoints Authority (ICA), 6 Nov 2026. [Completion of Formalities for Permanent Residence](https://www.ica.gov.sg/information-and-e-services/citizenship-and-permanent-residence/permanent-residence/completion-of-formalities-for-permanent-residence). Accessed 8 Nov 2026.
+344. <a id="o344"></a>Immigration & Checkpoints Authority (ICA), 5 Nov 2026. [Singapore Citizenship Application](https://www.ica.gov.sg/information-and-e-services/citizenship-and-permanent-residence/citizenship/singapore-citizenship-application). Accessed 8 Nov 2026.
+345. <a id="o345"></a>Ministry of Manpower (MOM), 14 Mar 2024. [FAQ: Administrative fee when changing from Work Permit to S Pass or vice versa](https://www.mom.gov.sg/faq/s-pass/must-i-still-pay-the-administrative-fee-if-i-am-applying-to-change-from-a-work-permit-to-s-pass-or-vice-versa). Accessed 8 Nov 2026. Possibly outdated.
+346. <a id="o346"></a>Ministry of Home Affairs (MHA), AskGov, Jun 2026. [Does Singapore accept refugees or asylum seekers?](https://ask.gov.sg/mha/questions/cmqu6lhuh00i844011kpj3w7y). Accessed 8 Nov 2026.
+347. <a id="o347"></a>Ministry of Home Affairs (MHA), AskGov, Jun 2026. [May I seek asylum in Singapore?](https://ask.gov.sg/mha/questions/cmqu6lg9d00604401lpv7jriy). Accessed 8 Nov 2026.
+348. <a id="o348"></a>Permanent Mission of Singapore to the UN, New York (MFA), 14 Nov 2023. [Explanation of position after adoption of the resolution on UNHCR, Third Committee, 14 November 2023](https://newyork-un.mfa.gov.sg/mission-updates/third-committee/20231114-3-14-nov-2023/). Accessed 8 Nov 2026. Possibly outdated.
+349. <a id="o349"></a>Attorney-General's Chambers, Singapore Statutes Online. [Constitution of the Republic of Singapore, Article 121 (citizenship by birth)](https://sso.agc.gov.sg/Act/CONS1963?ProvIds=pr121-). Accessed 9 Nov 2026. Undated: possibly outdated.
+350. <a id="o350"></a>Immigration & Checkpoints Authority (ICA), 30 Oct 2026. [Birth Registration and Digital Birth Certificate Download](https://www.ica.gov.sg/information-and-e-services/birth-and-death/birth/birth-certificate/birth-registration-and-digital-birth-certificate-download). Accessed 8 Nov 2026.
+351. <a id="o351"></a>Ministry of Manpower (MOM), 11 Jun 2025. [Getting a Dependant's Pass for a newborn](https://www.mom.gov.sg/passes-and-permits/dependants-pass/getting-a-pass-for-a-newborn). Accessed 8 Nov 2026. Possibly outdated.
+352. <a id="o352"></a>Immigration & Checkpoints Authority (ICA), 6 Nov 2026. [Permission to Give Birth in Singapore for Visitors](https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/long-term-visit-pass/long-term-visit-pass-application-renewal/permission-to-give-birth-in-singapore-for-visitors). Accessed 8 Nov 2026.
+353. <a id="o353"></a>High Commission of Bangladesh, Singapore, 20 Oct 2022. [Procedures for e-Passport Application](https://singapore.mofa.gov.bd/pages/static-pages/6952669135ce18e1c05aa199). Accessed 8 Nov 2026. Possibly outdated.
+354. <a id="o354"></a>High Commission of Bangladesh, Singapore, 5 Nov 2021. [Rules for passport applications for newborn children (Bangla notice, PDF)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-singapore-mofa/2024/12/fc453052adbe4ca6b1251ea7f863aef1.pdf). Accessed 8 Nov 2026. Possibly outdated.
+355. <a id="o355"></a>Office of the Registrar General, Birth and Death Registration, Bangladesh, 3 Apr 2026. [Birth and death registration fees for Bangladesh embassies and consulates abroad (Form 15, Birth and Death Registration Rules 2018)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-orgbdr/2026/3/e3da78e0-cf31-49ca-9d71-3ce162f1ba9d.pdf). Accessed 9 Nov 2026.
+356. <a id="o356"></a>High Commission of Bangladesh, Singapore, 20 Aug 2024. [E-Passport Fee (local currency fees from 21 August 2024)](https://singapore.mofa.gov.bd/pages/static-pages/6952667135ce18e1c05a9219). Accessed 8 Nov 2026. Possibly outdated.
+357. <a id="o357"></a>Finance Division, Ministry of Finance, Bangladesh, 11 Jun 2026. [National Budget Speech 2026-27 (Bangla), 11 June 2026](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/5/c229ec5f-66f8-4a4c-9beb-1e2e2ba71bce.pdf). Accessed 8 Nov 2026.
+358. <a id="o358"></a>Monetary Authority of Singapore (MAS). [Types of Payment Services](https://www.mas.gov.sg/regulation/payments/licensing-for-payment-service-providers/types-of-payment-services). Accessed 9 Nov 2026. Undated: possibly outdated.
+359. <a id="o359"></a>Bangladesh Bank. [Inward Remittance Facilities: Search Exchange House (drawing arrangements)](https://www.bb.org.bd/en/index.php/investfacility/drawing). Accessed 8 Nov 2026. Undated: possibly outdated.
+360. <a id="o360"></a>Monetary Authority of Singapore (MAS). [Financial Institutions Directory: Major Payment Institutions, cross-border money transfer service](https://eservices.mas.gov.sg/fid/institution?sector=Payments&category=Major%20Payment%20Institution&activity=Cross-border%20Money%20Transfer%20Service). Accessed 9 Nov 2026. Undated: possibly outdated.
+361. <a id="o361"></a>World Bank (Remittance Prices Worldwide), 25 Aug 2025. [Sending money from Singapore to Bangladesh (data collected 19-25 Aug 2025)](https://remittanceprices.worldbank.org/corridor/SG/BD). Accessed 9 Nov 2026. Possibly outdated.
+362. <a id="o362"></a>Bangladesh Bank, 30 Jun 2026. [Wage earners' remittance cost, Jan-Jun 2026](https://www.bb.org.bd/econdata/remittance/remittance_cost.pdf). Accessed 8 Nov 2026.
+363. <a id="o363"></a>Government of Singapore (gov.sg), 21 Aug 2026. [Contact Us: emergency numbers](https://www.gov.sg/contact-us/). Accessed 9 Nov 2026.
+364. <a id="o364"></a>Bangladesh Bank, Foreign Exchange Policy Department-1, 8 Oct 2026. [FEPD-1 Circular No. 41: Opening and Operation of Non-Resident Convertible Taka Accounts (NRCTA)](https://www.bb.org.bd/mediaroom/circulars/fepd/oct082026fepd-141e.pdf). Accessed 8 Nov 2026.
+365. <a id="o365"></a>National Savings Directorate, Bangladesh, 6 Aug 2026. [Wage Earner Development Bond: terms and profit rates (transcription of PDF)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nationalsavings/2026/7/8a5b2fbf-b6aa-492f-a27d-b2e312910d45.pdf#transcription). Accessed 8 Nov 2026.
+366. <a id="o366"></a>National Pension Authority (Finance Division, Ministry of Finance, Bangladesh). [Universal Pension Scheme (English brief)](https://www.upension.gov.bd/Public/PensionBriefEn). Accessed 8 Nov 2026. Undated: possibly outdated.
+367. <a id="o367"></a>National Pension Authority (Finance Division, Ministry of Finance, Bangladesh), 10 Mar 2024. [Probash scheme flyer (image PDF, transcription)](https://www.upension.gov.bd/assets/public/download/flyer/Probash.pdf?v=10#transcription). Accessed 8 Nov 2026. Possibly outdated.
+368. <a id="o368"></a>National Pension Authority (Finance Division, Ministry of Finance, Bangladesh). [Schemes (Packages): Probash, Progoti, Surakkha, Samata (Bangla)](https://www.upension.gov.bd/Public/Packages). Accessed 8 Nov 2026. Undated: possibly outdated.
+369. <a id="o369"></a>National Pension Authority (Finance Division, Ministry of Finance, Bangladesh). [Help desk: frequently asked questions (Bangla)](https://www.upension.gov.bd/Public/HelpDesk). Accessed 8 Nov 2026. Undated: possibly outdated.
+370. <a id="o370"></a>Bangladesh High Commission, Singapore, 16 Nov 2022. [Application for Travel Permit (form and instructions, PDF)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-singapore-mofa/2024/12/12344b963a5b46c98e611e31ad87e9e1.pdf). Accessed 8 Nov 2026. Possibly outdated.
+371. <a id="o371"></a>Immigration & Checkpoints Authority (ICA), AskGov, 2023. [What will happen if I overstay in Singapore?](https://ask.gov.sg/ica/questions/clos83fvu01kh5k0w71sey268). Accessed 9 Nov 2026. Possibly outdated.
+372. <a id="o372"></a>Immigration & Checkpoints Authority (ICA), 16 Mar 2026. [11 Immigration Offenders Arrested in Joint ICA-MOM Operation](https://www.ica.gov.sg/about-ica/news-and-publications/media-room/11-immigration-offenders-arrested-in-joint-ica-mom-operation). Accessed 9 Nov 2026.
+373. <a id="o373"></a>Bangladesh High Commission, Singapore, 31 Aug 2022. [Consular services: General Information](https://singapore.mofa.gov.bd/pages/static-pages/695266b235ce18e1c05aad3e). Accessed 8 Nov 2026. Possibly outdated.
+374. <a id="o374"></a>Immigration & Checkpoints Authority (ICA), 28 Nov 2025. [ICA to Issue No-Boarding Directives from 30 January 2026](https://www.ica.gov.sg/about-ica/news-and-publications/media-room/ica-to-issue-no-boarding-directives-from-30-january-2026). Accessed 9 Nov 2026.
+375. <a id="o375"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Bringing home injured and sick workers (Bangla)](https://wewb.gov.bd/pages/static-pages/6922e05e933eb65569e26b8b). Accessed 8 Nov 2026.
+376. <a id="o376"></a>Wage Earners' Welfare Board, 16 Apr 2026. [Ambulance service (Bangla)](https://wewb.gov.bd/pages/static-pages/6922dc70933eb65569e10600). Accessed 8 Nov 2026.
+377. <a id="o377"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Financial help for injured/sick workers (Bangla)](https://wewb.gov.bd/pages/static-pages/6922ddb6933eb65569e15fa2). Accessed 8 Nov 2026.
+378. <a id="o378"></a>Bangladesh High Commission, Singapore (Labour and Welfare Wing), 7 May 2026. [Bringing Our Migrant Workers Home: NOC and Repatriation Process Explained (PDF)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-singapore-mofa/2026/4/e1047303-99a6-4e5e-9b4d-42ea5db9abca.pdf). Accessed 8 Nov 2026.
+379. <a id="o379"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Help bringing bodies home (Bangla)](https://wewb.gov.bd/pages/static-pages/6922e0ef933eb65569e293b2). Accessed 8 Nov 2026.
+380. <a id="o380"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Help with local burial abroad (Bangla)](https://wewb.gov.bd/pages/static-pages/6922db9e933eb65569e0b57c). Accessed 8 Nov 2026.
+381. <a id="o381"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Body transport and burial costs (Bangla)](https://wewb.gov.bd/pages/static-pages/6922e025933eb65569e25b2a). Accessed 8 Nov 2026.
+382. <a id="o382"></a>Wage Earners' Welfare Board, 9 Jun 2026. [Probashi Kallyan Desk services (Bangla)](https://wewb.gov.bd/pages/static-pages/6922ddc8933eb65569e163d9). Accessed 8 Nov 2026.
+383. <a id="o383"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Help recovering death compensation and dues (Bangla)](https://wewb.gov.bd/pages/static-pages/6922df5a933eb65569e2165e). Accessed 8 Nov 2026.
+384. <a id="o384"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Migrant worker insurance (Bangla)](https://wewb.gov.bd/pages/static-pages/6922dbcb933eb65569e0c955). Accessed 8 Nov 2026.
+385. <a id="o385"></a>Immigration & Checkpoints Authority (ICA), 27 Oct 2026. [Travelling with Cash](https://www.ica.gov.sg/information-and-e-services/entry-and-departure/immigration-and-clearance/travelling-with-cash). Accessed 9 Nov 2026.
+386. <a id="o386"></a>Wage Earners' Welfare Board, 29 Jan 2026. [Wage Earners' Centre (Bangla)](https://wewb.gov.bd/pages/static-pages/6922dec9933eb65569e1d5b5). Accessed 8 Nov 2026.
+387. <a id="o387"></a>Wage Earners' Welfare Board, 9 Jun 2026. [Probashi Lounge service (Bangla)](https://wewb.gov.bd/pages/static-pages/6922e01b933eb65569e2581d). Accessed 8 Nov 2026.
+388. <a id="o388"></a>National Board of Revenue (Customs), Bangladesh, 3 Jun 2025. [Non-tourist Passenger Baggage Rules 2025 (SRO 261-Ain/2025/71/Customs), Bangladesh Gazette 3 June 2025 (transcription)](https://nbr.gov.bd/uploads/sros/অপর্যটক_যাত্রী_ব্যাগেজ_বিধিমালা,_২০২৫.pdf#transcription). Accessed 8 Nov 2026. Possibly outdated.
+389. <a id="o389"></a>Hazrat Shahjalal International Airport (Customs). [Customs and baggage rules](https://www.hsia.gov.bd/content-details/10/Customs). Accessed 8 Nov 2026. Undated: possibly outdated.
+390. <a id="o390"></a>Bangladesh Bank, Foreign Exchange Policy Department, 3 Feb 2020. [FE Circular No. 06 (3 Feb 2020): Import and export of currency notes](https://www.bb.org.bd/mediaroom/circulars/fepd/feb032020fepd06e.pdf). Accessed 8 Nov 2026. Possibly outdated.
+391. <a id="o391"></a>Bangladesh Customs (National Board of Revenue). [Currency Regulations](https://bangladeshcustoms.gov.bd/trade_info/currency_regulations). Accessed 8 Nov 2026. Undated: possibly outdated.
+392. <a id="o392"></a>Probashi Kallyan Bank, 23 Sep 2026. [Rehabilitation loan (পুনর্বাসন ঋণ)](https://pkb.gov.bd/pages/static-pages/6922dc54933eb65569e0fc0d). Accessed 8 Nov 2026.
+393. <a id="o393"></a>Wage Earners' Welfare Board, 11 Mar 2026. [Ongoing projects (Bangla)](https://wewb.gov.bd/pages/static-pages/6922df5c933eb65569e217af). Accessed 8 Nov 2026.
+394. <a id="o394"></a>BRAC. [About us](https://www.brac.net/about-us). Accessed 8 Nov 2026. Undated: possibly outdated.
+395. <a id="o395"></a>BRAC. [Migration Programme](https://www.brac.net/program/migration/). Accessed 8 Nov 2026. Undated: possibly outdated.
+396. <a id="o396"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Legal help through local administration (Bangla)](https://wewb.gov.bd/pages/static-pages/6922dfee933eb65569e24b4d). Accessed 8 Nov 2026.
+397. <a id="o397"></a>Singapore Civil Defence Force (SCDF), 2026. [Emergency Medical Services (995)](https://www.scdf.gov.sg/home/about-scdf/emergency-medical-services). Accessed 9 Nov 2026.
+398. <a id="o398"></a>Ministry of Expatriates' Welfare and Overseas Employment, 22 Sep 2026. [প্রবাসী বাংলাদেশিদের জন্য বিশেষ বিজ্ঞপ্তি (special notice for expatriate Bangladeshis: complaint cell), 22 Sep 2026](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-probashi/2026/8/994572d2-66cf-45d2-abb8-4f85179e0e18.pdf). Accessed 8 Nov 2026.
 
 <a id="needs-an-official-source"></a>
 

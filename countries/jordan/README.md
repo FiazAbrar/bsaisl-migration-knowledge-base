@@ -360,7 +360,7 @@ MOL lets each sector recruit within quotas for Jordanian and foreign workers, an
 <a id="who-sells-and-how"></a>
 
 #### 1.3.2 Who sells, and how
-- **Brokers selling a place in BOESL's test.** A broker asked one woman Tk 1.3 lakh for a Jordan garment job through BOESL, then lowered it to Tk 65,000; a worker alleged that brokers bribe BOESL interviewers and tell their candidates to wear a set nail-polish colour <sup>[9 (2018)](#o9)</sup>. BOESL says it has no agents or sub-agents, chooses workers itself and takes no cash <sup>[8](#o8)</sup>.
+- **Brokers selling a place in BOESL's test.** A broker asked one woman Tk 1.3 lakh for a Jordan garment job through BOESL, then lowered it to Tk 65,000; a worker alleged that some brokers bribe BOESL interviewers and tell their candidates to wear a set nail-polish colour <sup>[9 (2018)](#o9)</sup>. BOESL says it has no agents or sub-agents, chooses workers itself and takes no cash <sup>[8](#o8)</sup>.
 - **Fake garment visas.** In June 2026 the police CID (Criminal Investigation Department) arrested three at Surah Travels and Traders in Uttar Badda, Dhaka, which had no recruiting licence, used the name and seal of Jerash Garments of Amman and took Tk 2 to 2.5 lakh a person <sup>[N7](#n7), [N24](#n24)</sup>. It came to light when the factory complained through the Bangladesh Embassy in Jordan <sup>[N24](#n24)</sup>.
 - **Private agencies with a real permission.** Al-Sourav Overseas' 2023 permission let it charge each man Tk 1,74,300, by cheque, bank draft or pay order, for a JD 125-a-month machine-operator job in Aqaba <sup>[11 (2023)](#o11)</sup>.
 - **Domestic work.** A Jordanian household recruits through an MOL-licensed office, whose guarantee for the worker lasts 90 days from her arrival <sup>[N12](#n12), [N25](#n25)</sup>. Women report paying Dhaka agencies Tk 20,000 to Tk 1,20,000 for Jordan housemaid jobs <sup>[N26](#n26), [N27](#n27)</sup>. A woman recruited by a fellow villager, who never knew which agency sent her, was taken from Amman airport and sold on a two-year "contract" to a man who sent women to hotels and houses (2020) <sup>[N8 (2020)](#n8)</sup>.
@@ -387,7 +387,7 @@ Through BOESL a garment worker should pay almost nothing, but most workers have 
 <a id="the-cap"></a>
 
 #### 1.4.1 The cap
-- **BOESL garment jobs.** In BOESL's November 2026 notice the company bears all costs; the worker pays Tk 200 for fingerprints and Tk 200 for PDO (pre-departure orientation), repaid by the company before departure <sup>[8](#o8)</sup>. A July 2026 notice also charged Tk 100 to apply online and Tk 1,000 for the medical <sup>[N29](#n29)</sup>.
+- **BOESL garment jobs.** In BOESL's November 2026 notice the company bears all costs; the worker pays Tk 200 for fingerprints and Tk 200 for PDO (pre-departure orientation), repaid by the company before departure <sup>[8](#o8)</sup>. For some highly skilled posts the worker bears extra cost <sup>[N13 (2022)](#n13)</sup>. A July 2026 notice also charged Tk 100 to apply online and Tk 1,000 for the medical <sup>[N29](#n29)</sup>.
 - **Private agency, men.** Tk 1,74,300 in Al-Sourav's 2023 permission <sup>[11 (2023)](#o11)</sup>.
 - **Women domestic workers.** The agencies the Ministry approved in September 2025 to send women domestic workers may take no migration cost from them <sup>[21](#o21)</sup>.
 
@@ -1190,12 +1190,13 @@ The old permit is cancelled at the labour office with both you and the employer 
 2. <a id="leaving-at-the-end-of-the-job-item-2"></a>**Papers:** on request the employer gives you a service certificate, certified by MOL, and returns any papers you deposited <sup>[23](#o23)</sup>.
 3. <a id="leaving-at-the-end-of-the-job-item-3"></a>**Ticket:** the employer pays your ticket home and must send you back and prove you left <sup>[N39 (2023)](#n39), [1](#o1)</sup>.
 4. <a id="leaving-at-the-end-of-the-job-item-4"></a>**Cancel the permit:** the permit is cancelled at the labour office with you and the employer present; the final departure (exit without return) document costs JD 10 <sup>[1](#o1)</sup>.
-5. <a id="leaving-at-the-end-of-the-job-item-5"></a>**Social security lump sum:** under MOL's rules SSC pays only after MOL stamps a no-objection, which costs JD 10; apply for it within 3 months of your permit expiring, or the full permit fee is charged first <sup>[1](#o1)</sup>. Holding the no-objection no longer stops you being issued a work permit in Jordan later <sup>[1](#o1)</sup>. During the 2026 regularisation period SSC also takes the claim online under "Permanent Departure from the Country with No Return", while you are still in Jordan, without a visit to MOL or prior approvals, with a form for having the money sent abroad <sup>[N65](#n65)</sup>.
+5. <a id="leaving-at-the-end-of-the-job-item-5"></a>**Social security lump sum:** under MOL's rules SSC pays only after MOL stamps a no-objection, which costs JD 10; apply for it within 3 months of your permit expiring, or the full permit fee is charged first <sup>[1](#o1)</sup>. Holding the no-objection no longer stops you being issued a work permit in Jordan later <sup>[1](#o1)</sup>. Migrant workers have been unable to withdraw their contributions without the employer's written consent <sup>[N33](#n33)</sup>. During the 2026 regularisation period SSC also takes the claim online under "Permanent Departure from the Country with No Return", while you are still in Jordan, without a visit to MOL or prior approvals, with a form for having the money sent abroad <sup>[N65](#n65)</sup>.
 6. <a id="leaving-at-the-end-of-the-job-item-6"></a>**Fines:** late-permit and overstay fines (see [How long you can stay](#how-long-you-can-stay)) are dealt with under Going home without valid papers; what you can bring home is under Coming home <sup>[1](#o1), [N55](#n55)</sup>.
 
 > **Need to know**
 > - Is the SSC online "permanent departure" claim still open after the 2026 regularisation period, and does it still skip MOL's no-objection?
 > - How long does SSC's transfer of the lump sum to a Bangladeshi bank take, and what does it cost?
+> - Does SSC or MOL still require the employer's written consent before a migrant worker can draw the lump sum, and what does a worker do if the employer refuses?
 
 **Employer tricks at the end of the job:**
 
@@ -1340,6 +1341,7 @@ For the first 90 days after the worker enters Jordan (or 30 days after she moves
    > - Where in Bangladesh is the pre-departure medical for Jordan done, and what does it cost?
    > - Does the Embassy attest housemaid visas or contracts for Jordan; with which papers, fee and processing time?
    > - If MOI refuses the visa or the household cancels it before travel, does the worker get back anything she paid, and can the refusal be appealed?
+   > - How long does a Jordan housemaid job take from the agency's selection to the flight?
 
 <a id="step-6-bmet-clearance-the-smart-card-and-a-loan"></a>
 
@@ -1752,14 +1754,16 @@ The decision comes by account, SMS or email <sup>[85](#o85)</sup>.
 
 In January 2025 MOI let foreign nationals living in a GCC country (the Gulf Cooperation Council: Saudi Arabia, the UAE, Qatar, Kuwait, Oman, Bahrain), the US, Canada, Australia, Japan, South Korea or any European country enter without prior approval if they hold a residence there valid at least four months, down from six <sup>[29](#o29)</sup>. For nationals who still need prior approval, the decision names only Arab nationals: those living in a country whose citizens need no approval are treated like that country's citizens, if their residence there is valid four months <sup>[29](#o29)</sup>. Before the change, Jordan's embassy in Japan told residents of Japan that the residence exception did not cover Bangladeshi passport holders, who still needed prior approval <sup>[30 (2022)](#o30)</sup>. MOI's own visit-visa rules still expect a Bangladeshi living in a third country to come through a host's application, attaching his residence there and his exit and re-entry visa <sup>[85](#o85)</sup>.
 
-Two other rules from the same decision:
+Other rules from the same decision:
 
 - **Schengen or US visa holders** may enter whether or not they have used that visa <sup>[29](#o29)</sup>.
+- **Five-year visa:** "eligible travellers" get a five-year multiple-entry visa at the border crossing, up to three months a visit, without prior security clearance <sup>[N90](#n90)</sup>.
 - **Domestic workers** who travel with a Jordanian employer living in the Gulf, or with a GCC-national employer, enter with the employer and get a three-month residence at the border <sup>[29](#o29)</sup>.
 
 > **Need to know**
 > - Can a Bangladeshi worker resident in Saudi Arabia or another GCC country enter Jordan without prior approval since 2025, or must a host still apply for a visit visa?
 > - Does the Schengen/US visa rule cover Bangladeshi passport holders?
+> - Who counts as an "eligible traveller" for the five-year border visa, and can a Bangladeshi passport holder get it?
 
 MOI's visit-visa rules cover a Bangladeshi living in the Gulf through a host's application, and working on that visa gets you deported <sup>[85](#o85), [74](#o74)</sup>.
 
@@ -1811,7 +1815,7 @@ No; see the visit visa <sup>[74](#o74)</sup>.
 
 ### 8.6 Religious visits
 
-Many people from restricted countries who work in the Gulf visit Jordan as pilgrims, including to the Baptism Site on the Jordan River <sup>[N90 (2021)](#n90)</sup>. Jordan's visa types include no pilgrimage visa, so they come on a tourist or visit visa <sup>[86](#o86), [90](#o90), [85](#o85)</sup>.
+Many people from restricted countries who work in the Gulf visit Jordan as pilgrims, including to the Baptism Site on the Jordan River <sup>[N91 (2021)](#n91)</sup>. Jordan's visa types include no pilgrimage visa, so they come on a tourist or visit visa <sup>[86](#o86), [90](#o90), [85](#o85)</sup>.
 
 <a id="scams-and-help"></a>
 
@@ -1970,34 +1974,34 @@ The charge is JD 2 per person, or JD 100 urgent for up to five (JD 15 each extra
 
 ## 13 Student visa and study residence
 
-Foreign students apply to Jordan's public universities only through the unified portal, studyinjordan.jo <sup>[N91](#n91), [N92 (2024)](#n92)</sup>. The university then applies to MOI for the visa and later the study residence; a student can't apply for the residence himself <sup>[97](#o97), [98](#o98)</sup>.
+Foreign students apply to Jordan's public universities only through the unified portal, studyinjordan.jo <sup>[N92](#n92), [N93 (2024)](#n93)</sup>. The university then applies to MOI for the visa and later the study residence; a student can't apply for the residence himself <sup>[97](#o97), [98](#o98)</sup>.
 
 <a id="who-can-apply-1"></a>
 
 ### 13.1 Who can apply
 
-- A secondary-school certificate with an equivalency from Jordan's Ministry of Education (or a document from the Bangladeshi authority), and an average of at least 50% <sup>[99 (2023)](#o99), [N92 (2024)](#n92)</sup>.
-- An admission (preliminary, conditional or final) from the university <sup>[N92 (2024)](#n92)</sup>.
+- A secondary-school certificate with an equivalency from Jordan's Ministry of Education (or a document from the Bangladeshi authority), and an average of at least 50% <sup>[99 (2023)](#o99), [N93 (2024)](#n93)</sup>.
+- An admission (preliminary, conditional or final) from the university <sup>[N93 (2024)](#n93)</sup>.
 
 <a id="cost-and-time-3"></a>
 
 ### 13.2 Cost and time
 
-- Portal application fee: JD 35, through eFawateercom <sup>[N92 (2024)](#n92)</sup>.
-- The university answers within 3 working days <sup>[N91](#n91)</sup>.
+- Portal application fee: JD 35, through eFawateercom <sup>[N93 (2024)](#n93)</sup>.
+- The university answers within 3 working days <sup>[N92](#n92)</sup>.
 - Study residence: JD 2, 14 working days <sup>[98](#o98)</sup>.
 
 > **Need to know**
-> - What are the tuition fees for international students at Jordanian public universities? (listed on studyinjordan.jo <sup>[N92 (2024)](#n92)</sup>)
+> - What are the tuition fees for international students at Jordanian public universities? (listed on studyinjordan.jo <sup>[N93 (2024)](#n93)</sup>)
 > - Do private universities admit Bangladeshis outside the portal?
 
 <a id="step-1-apply-on-studyinjordanjo"></a>
 
 ### 13.3 Step 1: Apply on studyinjordan.jo
 
-1. <a id="step-1-apply-on-studyinjordanjo-item-1"></a>**Get your HSC (Higher Secondary Certificate) equivalency** from Jordan's Ministry of Education <sup>[N92 (2024)](#n92)</sup>.
-2. <a id="step-1-apply-on-studyinjordanjo-item-2"></a>**Choose up to ten options** (universities and programmes) and upload your papers <sup>[N92 (2024)](#n92)</sup>.
-3. <a id="step-1-apply-on-studyinjordanjo-item-3"></a>**Pay JD 35** <sup>[N92 (2024)](#n92)</sup>.
+1. <a id="step-1-apply-on-studyinjordanjo-item-1"></a>**Get your HSC (Higher Secondary Certificate) equivalency** from Jordan's Ministry of Education <sup>[N93 (2024)](#n93)</sup>.
+2. <a id="step-1-apply-on-studyinjordanjo-item-2"></a>**Choose up to ten options** (universities and programmes) and upload your papers <sup>[N93 (2024)](#n93)</sup>.
+3. <a id="step-1-apply-on-studyinjordanjo-item-3"></a>**Pay JD 35** <sup>[N93 (2024)](#n93)</sup>.
 
 <a id="step-2-the-university-gets-your-visa"></a>
 
@@ -2019,13 +2023,13 @@ At the University of Jordan, for a restricted national, the expatriates office i
 
 ### 13.6 Can you work?
 
-No. Since 1 April 2025 any non-Jordanian student found working is deported, and the employer is fined at least JD 800 per student <sup>[N93](#n93)</sup>.
+No. Since 1 April 2025 any non-Jordanian student found working is deported, and the employer is fined at least JD 800 per student <sup>[N94](#n94)</sup>.
 
 <a id="scams-4"></a>
 
 ### 13.7 Scams
 
-Brokers used to charge international students large sums for admissions that were often fake; the portal requires no intermediary and no extra fee <sup>[N91](#n91), [N92 (2024)](#n92)</sup>.
+Brokers used to charge international students large sums for admissions that were often fake; the portal requires no intermediary and no extra fee <sup>[N92](#n92), [N93 (2024)](#n93)</sup>.
 
 <a id="where-to-get-help-1"></a>
 
@@ -2065,7 +2069,7 @@ Through the hospital or your own e-services account, as in Steps 1 and 3 of the 
 
 ### 14.3 Scams: claiming asylum on a medical visa
 
-Jordan has barred UNHCR (the UN refugee agency) from registering as an asylum seeker anyone who entered for treatment, and in 2015 deported Sudanese who had entered on medical visas (see [Asylum](#asylum)) <sup>[N58 (2022)](#n58), [N94 (2015)](#n94), [N95](#n95)</sup>.
+Jordan has barred UNHCR (the UN refugee agency) from registering as an asylum seeker anyone who entered for treatment, and in 2015 deported Sudanese who had entered on medical visas (see [Asylum](#asylum)) <sup>[N58 (2022)](#n58), [N95 (2015)](#n95), [N96](#n96)</sup>.
 
 <a id="investor-and-residence-by-investment"></a>
 
@@ -2091,13 +2095,13 @@ An annual residence without work needs a bank deposit of JD 20,000, or JD 10,000
 
 ### 15.3 Five-year residence through property
 
-Buying property worth at least JD 200,000, valued by the Department of Lands and Survey, gives a five-year residence; the property must be kept five years without sale or mortgage, cannot be bought from first- or second-degree relatives, and the application is due within 3 months of purchase <sup>[N96 (2024)](#n96)</sup>. The investor can then apply for his family <sup>[N96 (2024)](#n96)</sup>.
+Buying property worth at least JD 200,000, valued by the Department of Lands and Survey, gives a five-year residence; the property must be kept five years without sale or mortgage, cannot be bought from first- or second-degree relatives, and the application is due within 3 months of purchase <sup>[N97 (2024)](#n97)</sup>. The investor can then apply for his family <sup>[N97 (2024)](#n97)</sup>.
 
 <a id="citizenship-by-investment"></a>
 
 ### 15.4 Citizenship by investment
 
-One route is a USD 1,000,000 deposit in favour of the Ministry of Investment at the Central Bank for three years, without interest <sup>[N96 (2024)](#n96)</sup>.
+One route is a USD 1,000,000 deposit in favour of the Ministry of Investment at the Central Bank for three years, without interest <sup>[N97 (2024)](#n97)</sup>.
 
 > **Need to know**
 > - Which office handles the property and citizenship routes (Ministry of Investment, MOI), and what are the fees?
@@ -2151,7 +2155,7 @@ Until 1 December 2026, someone who came on a tourist, study or treatment visa an
 
 ### 17.3 Student to work
 
-Students may not work while studying <sup>[N93](#n93)</sup>.
+Students may not work while studying <sup>[N94](#n94)</sup>.
 
 > **Need to know**
 > - Can a Bangladeshi graduate of a Jordanian university get a work permit without leaving?
@@ -2172,7 +2176,7 @@ See Work visa: garment and factory worker, "Changing employer or leaving" <sup>[
 
 ## 18 Asylum
 
-A Bangladeshi who came to Jordan to work cannot register as an asylum seeker: since 23 January 2019, by a government decision, UNHCR may not register new asylum seekers, and the bar covers anyone who entered for work, tourism, study or medical treatment <sup>[N97](#n97), [N58 (2022)](#n58)</sup>. Jordan is not a party to the 1951 Refugee Convention and has no refugee law <sup>[N87 (2019)](#n87)</sup>.
+A Bangladeshi who came to Jordan to work cannot register as an asylum seeker: since 23 January 2019, by a government decision, UNHCR may not register new asylum seekers, and the bar covers anyone who entered for work, tourism, study or medical treatment <sup>[N98](#n98), [N58 (2022)](#n58)</sup>. Jordan is not a party to the 1951 Refugee Convention and has no refugee law <sup>[N87 (2019)](#n87)</sup>.
 
 <a id="why-it-doesnt-work"></a>
 
@@ -2180,7 +2184,7 @@ A Bangladeshi who came to Jordan to work cannot register as an asylum seeker: si
 
 - **No route to settle:** Jordan's 1998 agreement with UNHCR (amended 2014) only lets an asylum seeker stay while UNHCR decides; a recognised refugee must be resettled to a third country or go home <sup>[N87 (2019)](#n87)</sup>.
 - **Thousands are stuck:** UNHCR knew of 5,500 non-Syrians who wanted to register but could not since 2019; undocumented, many risk deportation <sup>[N58 (2022)](#n58)</sup>.
-- **Deportation:** in December 2015 Jordan detained about 800 Sudanese asylum seekers to deport them, saying asylum did not apply because they had entered for medical treatment; many of those deported held UNHCR papers <sup>[N94 (2015)](#n94), [N95](#n95)</sup>.
+- **Deportation:** in December 2015 Jordan detained about 800 Sudanese asylum seekers to deport them, saying asylum did not apply because they had entered for medical treatment; many of those deported held UNHCR papers <sup>[N95 (2015)](#n95), [N96](#n96)</sup>.
 - **Fines and bans continue:** even refugees registered with UNHCR were charged overstay fines, now JD 3 a day, and those who leave without paying can be barred for five years <sup>[N87 (2019)](#n87), [N18](#n18)</sup>.
 - **Arrest:** a foreigner not legally present can be arrested and deported unless registered with UNHCR <sup>[N87 (2019)](#n87)</sup>.
 
@@ -2191,23 +2195,23 @@ A Bangladeshi who came to Jordan to work cannot register as an asylum seeker: si
 
 ### 18.2 If you fear for your life at home
 
-UNHCR's services are free, and every registration service needs an appointment through its helpline, 06 400 8000; urban registration is at its Khalda centre in Amman <sup>[N97](#n97)</sup>. Leaving Jordan, including going home, can close a UNHCR file unless you hold an MOI exit and re-entry permit <sup>[N97](#n97)</sup>.
+UNHCR's services are free, and every registration service needs an appointment through its helpline, 06 400 8000; urban registration is at its Khalda centre in Amman <sup>[N98](#n98)</sup>. Leaving Jordan, including going home, can close a UNHCR file unless you hold an MOI exit and re-entry permit <sup>[N98](#n98)</sup>.
 
 <a id="having-a-child-in-jordan"></a>
 
 ## 19 Having a child in Jordan
 
-Jordanian nationality passes through a Jordanian father, so a baby of Bangladeshi parents born in Jordan needs a Jordanian birth certificate, Bangladeshi birth registration and passport, and a Jordanian residence <sup>[N98 (2016)](#n98), [N99](#n99), [103](#o103), [104](#o104)</sup>.
+Jordanian nationality passes through a Jordanian father, so a baby of Bangladeshi parents born in Jordan needs a Jordanian birth certificate, Bangladeshi birth registration and passport, and a Jordanian residence <sup>[N99 (2016)](#n99), [N100](#n100), [103](#o103), [104](#o104)</sup>.
 
 <a id="step-1-register-the-birth-with-the-civil-status-and-passports-department"></a>
 
 ### 19.1 Step 1: Register the birth with the Civil Status and Passports Department
 
-The Civil Status and Passports Department (CSPD, under MOI) registers every birth in Jordan <sup>[N99](#n99)</sup>.
+The Civil Status and Passports Department (CSPD, under MOI) registers every birth in Jordan <sup>[N100](#n100)</sup>.
 
-1. <a id="step-1-register-the-birth-with-the-civil-status-and-passports-department-item-1"></a>**Register within 30 days** of the birth at a CSPD office, if the parents are married <sup>[N99](#n99), [N98 (2016)](#n98)</sup>.
+1. <a id="step-1-register-the-birth-with-the-civil-status-and-passports-department-item-1"></a>**Register within 30 days** of the birth at a CSPD office, if the parents are married <sup>[N100](#n100), [N99 (2016)](#n99)</sup>.
 2. <a id="step-1-register-the-birth-with-the-civil-status-and-passports-department-item-2"></a>**Bring** your marriage certificate (nikahnama): officials demand a marriage certificate or family book and refuse those who can't give one <sup>[N57 (2019)](#n57)</sup>.
-3. <a id="step-1-register-the-birth-with-the-civil-status-and-passports-department-item-3"></a>**Pay** JD 1 for the certificate; registering late costs JD 10, and after a year needs a court order <sup>[N98 (2016)](#n98), [N99](#n99)</sup>. Certificates are in Arabic or English <sup>[N99](#n99)</sup>.
+3. <a id="step-1-register-the-birth-with-the-civil-status-and-passports-department-item-3"></a>**Pay** JD 1 for the certificate; registering late costs JD 10, and after a year needs a court order <sup>[N99 (2016)](#n99), [N100](#n100)</sup>. Certificates are in Arabic or English <sup>[N100](#n100)</sup>.
 
 > **Need to know**
 > - Must a Bangladeshi nikahnama be attested and translated before CSPD accepts it?
@@ -2254,14 +2258,14 @@ The sponsor applies on MOI's e-services to add the child to his annual residence
 
 ### 19.5 If the parents are not married, or the mother is undocumented
 
-Sex outside marriage (zina) is a crime in Jordan, prosecutable when a spouse or male guardian complains to the police <sup>[N57 (2019)](#n57)</sup>. Births to unmarried mothers have no registration deadline, but Jordan treats the child as illegitimate unless the parents marry and a court confirms paternity <sup>[N99](#n99)</sup>.
+Sex outside marriage (zina) is a crime in Jordan, prosecutable when a spouse or male guardian complains to the police <sup>[N57 (2019)](#n57)</sup>. Births to unmarried mothers have no registration deadline, but Jordan treats the child as illegitimate unless the parents marry and a court confirms paternity <sup>[N100](#n100)</sup>.
 
 What happens to migrant domestic workers:
 
-- **Detention after birth:** they are particularly at risk of detention and deportation if they give birth in a Jordanian hospital <sup>[N57 (2019)](#n57)</sup>. A Bangladeshi domestic worker was held in Juweideh women's prison for four and a half months for zina and gave birth there; the governor told her she would be released only if the father married her <sup>[N57 (2019)](#n57)</sup>.
-- **Separation:** detained workers risk being deported without their children, who are taken into state care by the PSD's Family Protection Department and the Ministry of Social Development, although no law requires it <sup>[N57 (2019)](#n57)</sup>. Adoption is not allowed in Jordan <sup>[N99](#n99)</sup>.
+- **Detention after birth:** they are particularly at risk of detention and deportation if they give birth in a Jordanian hospital <sup>[N57 (2019)](#n57)</sup>. Hospital staff are not obliged to report an unmarried pregnant woman over 18 unless rape is suspected, but in some hospitals a doctor may still tell the police <sup>[N57 (2019)](#n57)</sup>. A Bangladeshi domestic worker was held in Juweideh women's prison for four and a half months for zina and gave birth there; the governor told her she would be released only if the father married her <sup>[N57 (2019)](#n57)</sup>.
+- **Separation:** detained workers risk being deported without their children, who are taken into state care by the PSD's Family Protection Department and the Ministry of Social Development, although no law requires it <sup>[N57 (2019)](#n57)</sup>. Adoption is not allowed in Jordan <sup>[N100](#n100)</sup>.
 - **Home births and no papers:** Tamkeen knew of 20 cases in two years of unmarried domestic workers who gave birth at home and could not register the child without a marriage certificate <sup>[N57 (2019)](#n57)</sup>. An unregistered child cannot get health care or school and is in effect stateless <sup>[N57 (2019)](#n57)</sup>.
-- **After return:** a Bangladeshi woman back from Jordan could not register her daughter's birth in Bangladesh or enrol her in a government primary school <sup>[N100](#n100)</sup>.
+- **After return:** a Bangladeshi woman back from Jordan could not register her daughter's birth in Bangladesh or enrol her in a government primary school <sup>[N101](#n101)</sup>.
 
 A couple who want to marry in Jordan follow Marrying in Jordan (under Family residence) <sup>[94](#o94)</sup>.
 
@@ -2269,7 +2273,7 @@ A couple who want to marry in Jordan follow Marrying in Jordan (under Family res
 > - Does the Bangladesh Embassy register a baby born to an unmarried Bangladeshi mother, and with what papers?
 > - Can the Embassy issue a travel permit so mother and baby go home together?
 
-**Where to get help:** Tamkeen Fields for Aid, Madinah Street, Building 197, 3rd floor, offices 306-307, Amman; +962 6 553 9501; info@tamkeen-jo.org <sup>[N101](#n101)</sup>. The Bangladesh Embassy, as for the visit visa <sup>[89](#o89)</sup>.
+**Where to get help:** Tamkeen Fields for Aid, Madinah Street, Building 197, 3rd floor, offices 306-307, Amman; +962 6 553 9501; info@tamkeen-jo.org <sup>[N102](#n102)</sup>. The Bangladesh Embassy, as for the visit visa <sup>[89](#o89)</sup>.
 
 <a id="sending-money-home"></a>
 
@@ -2279,16 +2283,16 @@ A couple who want to marry in Jordan follow Marrying in Jordan (under Family res
 
 ### 20.1 Use a bank or licensed exchange house, never hundi
 
-In Jordan no one may run a money exchange business (dealing in foreign currency) without a final licence from the Board of the Central Bank of Jordan (CBJ), and a licensed exchange company may send and receive money transfers <sup>[106 (2015)](#o106)</sup>. Hundi (informal money transfer outside banks and licensed exchange houses) runs outside this licence; practising exchange business without a licence is punished with one month to one year in prison and a JD 3,000-20,000 fine, doubled for a repeat <sup>[106 (2015)](#o106)</sup>. Bangladesh Bank says that sending foreign currency outside the banking channel, by hundi or any other illegal route, is a punishable offence <sup>[N102 (2022)](#n102)</sup>. Bangladesh's Money Laundering Prevention Act 2012 counts keeping abroad money that could have been brought into Bangladesh as money smuggling, lists smuggling of local and foreign currency as an offence, and punishes money laundering with 4 to 12 years in prison and a fine of twice the money involved or up to Tk 10 lakh, whichever is more <sup>[107 (2012)](#o107)</sup>. Bangladesh's government asks workers to send money only through legal channels <sup>[39](#o39)</sup>.
+In Jordan no one may run a money exchange business (dealing in foreign currency) without a final licence from the Board of the Central Bank of Jordan (CBJ), and a licensed exchange company may send and receive money transfers <sup>[106 (2015)](#o106)</sup>. Hundi (informal money transfer outside banks and licensed exchange houses) runs outside this licence; practising exchange business without a licence is punished with one month to one year in prison and a JD 3,000-20,000 fine, doubled for a repeat <sup>[106 (2015)](#o106)</sup>. Bangladesh Bank says that sending foreign currency outside the banking channel, by hundi or any other illegal route, is a punishable offence <sup>[N103 (2022)](#n103)</sup>. Bangladesh's Money Laundering Prevention Act 2012 counts keeping abroad money that could have been brought into Bangladesh as money smuggling, lists smuggling of local and foreign currency as an offence, and punishes money laundering with 4 to 12 years in prison and a fine of twice the money involved or up to Tk 10 lakh, whichever is more <sup>[107 (2012)](#o107)</sup>. Bangladesh's government asks workers to send money only through legal channels <sup>[39](#o39)</sup>.
 
-People use hundi because it gives a better exchange rate and the family gets the money almost at once <sup>[N102 (2022)](#n102)</sup>. Money sent through a legal channel earns the receiver a 2.5% government cash incentive, sometimes with a further 2.5% from the bank, and the 2026-27 budget keeps the government incentive <sup>[108](#o108), [109](#o109)</sup>. Bangladesh Bank also acts at the receiving end: in 2022 it temporarily suspended the accounts of 480 mobile financial service agents over alleged hundi links, many of them bKash and Nagad agents <sup>[N102 (2022)](#n102)</sup>.
+People use hundi because it gives a better exchange rate and the family gets the money almost at once <sup>[N103 (2022)](#n103)</sup>. Money sent through a legal channel earns the receiver a 2.5% government cash incentive, sometimes with a further 2.5% from the bank, and the 2026-27 budget keeps the government incentive <sup>[108](#o108), [109](#o109)</sup>. Bangladesh Bank also acts at the receiving end: in 2022 it temporarily suspended the accounts of 480 mobile financial service agents over alleged hundi links, many of them bKash and Nagad agents <sup>[N103 (2022)](#n103)</sup>.
 
 You'll need:
 - For a bKash wallet: the receiver's bKash number and full name exactly as registered <sup>[108](#o108)</sup>.
 - For a bank account: your own or a relative's account in Bangladesh <sup>[110](#o110)</sup>.
 
 1. <a id="use-a-bank-or-licensed-exchange-house-never-hundi-item-1"></a>**Get your wage into your hands or your wallet.** About two-thirds of garment workers in Jordan are still paid in cash; the rest are paid into a bank account or an e-wallet (a mobile money account) <sup>[N41 (2021)](#n41)</sup>. Jordan's e-wallets work together through JoMoPay (the Jordan Mobile Payments Switch), and CliQ is Jordan's instant payment system between banks and wallets <sup>[N41 (2021)](#n41)</sup>. All migrant garment workers surveyed sent part of their wages home, 62% at least two-thirds every month, after cashing out their wages <sup>[N41 (2021)](#n41)</sup>.
-2. <a id="use-a-bank-or-licensed-exchange-house-never-hundi-item-2"></a>**Choose the channel.** To send straight into a bank account, use a bank or exchange house that has a "drawing arrangement" (a remittance agreement) with a Bangladeshi bank <sup>[110](#o110)</sup>. Dutch-Bangla Bank lists Al Alami Exchange in Jordan among its drawing-arrangement partners, and money sent by Western Union can be collected at any Dutch-Bangla Bank branch in Bangladesh <sup>[N103](#n103)</sup>. Through eFawateercom, a migrant can open a Western Union account, move money into it and send from it <sup>[N41 (2021)](#n41)</sup>. At one garment company an exchange-house representative comes to the dormitory, so workers can send money without going into town <sup>[N41 (2021)](#n41)</sup>.
+2. <a id="use-a-bank-or-licensed-exchange-house-never-hundi-item-2"></a>**Choose the channel.** To send straight into a bank account, use a bank or exchange house that has a "drawing arrangement" (a remittance agreement) with a Bangladeshi bank <sup>[110](#o110)</sup>. Dutch-Bangla Bank lists Al Alami Exchange in Jordan among its drawing-arrangement partners, and money sent by Western Union can be collected at any Dutch-Bangla Bank branch in Bangladesh <sup>[N104](#n104)</sup>. Through eFawateercom, a migrant can open a Western Union account, move money into it and send from it <sup>[N41 (2021)](#n41)</sup>. At one garment company an exchange-house representative comes to the dormitory, so workers can send money without going into town <sup>[N41 (2021)](#n41)</sup>.
 
    > **Need to know**
    > - Which other banks and exchange companies in Jordan have drawing arrangements with Bangladeshi banks or are bKash partners, and where does a worker see the CBJ's list of licensed exchange companies <sup>[106 (2015)](#o106)</sup>?
@@ -2300,7 +2304,7 @@ You'll need:
 4. <a id="use-a-bank-or-licensed-exchange-house-never-hundi-item-4"></a>**Send.** If your exchange house is a bKash partner, give the receiver's bKash number and full name as registered, and hand over the cash; up to Tk 2.5 lakh per transfer <sup>[108](#o108)</sup>. Banks in Bangladesh credit remittances within 3 days at most <sup>[110](#o110)</sup>.
 
 > **Need to know**
-> - Does money used to buy Wage Earner Development Bonds (see [Saving and pension in Bangladesh](#saving-and-pension-in-bangladesh)) or US Dollar bonds, freelancing income, gifts, trade payments or donations get the 2.5% incentive, when a bank's 2025 guide says not <sup>[N104](#n104)</sup>?
+> - Does money used to buy Wage Earner Development Bonds (see [Saving and pension in Bangladesh](#saving-and-pension-in-bangladesh)) or US Dollar bonds, freelancing income, gifts, trade payments or donations get the 2.5% incentive, when a bank's 2025 guide says not <sup>[N105](#n105)</sup>?
 
 **If something goes wrong:**
 - bKash helpline: 16247, or +88-02-55663001 from a country not listed <sup>[108](#o108)</sup>.
@@ -2369,7 +2373,7 @@ You'll need <sup>[115 (2024)](#o115)</sup>:
 
 ## 21 Going home without valid papers
 
-In Jordan the fine for staying without a valid residence permit is JD 90 a month, and JD 3 a day for part of a month; it is collected when you leave, and you cannot board until it is paid <sup>[N105](#n105), [N86](#n86), [118](#o118)</sup>. Working without a valid work permit, or for another employer or in another job than the permit names, gets a worker deported <sup>[23](#o23), [74](#o74), [N59](#n59)</sup>. Until 1 December 2026 a Cabinet decision lets workers in breach leave Jordan for good without paying past work-permit fees and fines; garment workers in the QIZs, development zones and free zones are left out (see [Going home without valid papers](#going-home-without-valid-papers), The 2026 regularisation) <sup>[N32](#n32), [24](#o24), [N31](#n31)</sup>.
+In Jordan the fine for staying without a valid residence permit is JD 90 a month, and JD 3 a day for part of a month; it is collected when you leave, and you cannot board until it is paid <sup>[N106](#n106), [N86](#n86), [118](#o118)</sup>. Working without a valid work permit, or for another employer or in another job than the permit names, gets a worker deported <sup>[23](#o23), [74](#o74), [N59](#n59)</sup>. Until 1 December 2026 a Cabinet decision lets workers in breach leave Jordan for good without paying past work-permit fees and fines; garment workers in the QIZs, development zones and free zones are left out (see [Going home without valid papers](#going-home-without-valid-papers), The 2026 regularisation) <sup>[N32](#n32), [24](#o24), [N31](#n31)</sup>.
 
 <a id="help-from-bangladesh"></a>
 
@@ -2387,14 +2391,14 @@ The family can also call WEWB's Probash-Bondhu call centre: 16135 in Bangladesh,
 
 ### 21.2 The 2026 regularisation
 
-Jordan's Cabinet decided on 8 June 2026, and the Labour Minister announced on 14 June, a period for workers of all nationalities in breach of the labour and residence laws to put their status right or leave, running to 30 September 2026 <sup>[N32](#n32), [N31](#n31)</sup>. On 6 October 2026 the Cabinet extended it to 1 December 2026 for workers in all sectors, domestic workers included, who came to Jordan to work and held a work permit before <sup>[N32](#n32)</sup>. MOL said about 49,000 workers in breach were registered with it; by 20 August it had issued or renewed about 64,000 work permits, and about 2,400 workers had left Jordan for good <sup>[N106](#n106), [N107](#n107)</sup>.
+Jordan's Cabinet decided on 8 June 2026, and the Labour Minister announced on 14 June, a period for workers of all nationalities in breach of the labour and residence laws to put their status right or leave, running to 30 September 2026 <sup>[N32](#n32), [N31](#n31)</sup>. On 6 October 2026 the Cabinet extended it to 1 December 2026 for workers in all sectors, domestic workers included, who came to Jordan to work and held a work permit before <sup>[N32](#n32)</sup>. The extension also applies in the Aqaba Special Economic Zone <sup>[N32](#n32)</sup>. MOL said about 49,000 workers in breach were registered with it; by 20 August it had issued or renewed about 64,000 work permits, and about 2,400 workers had left Jordan for good <sup>[N107](#n107), [N108](#n108)</sup>.
 
 **If you leave for good ("exit without return"):**
 - All work-permit fees and fines for past periods are waived up to the day you leave <sup>[24](#o24), [N31](#n31)</sup>.
 - 100% of residence overstay fines are waived, including for domestic workers, provided your file is settled <sup>[24](#o24)</sup>.
 - You can draw your SSC money directly (see [If you lose the job](#if-you-lose-the-job)) <sup>[N31](#n31)</sup>.
-- MOL said a worker who leaves in the period pays nothing and only has to buy a ticket and leave <sup>[N108](#n108)</sup>.
-- The cost: you cannot come back to Jordan for five years <sup>[N106](#n106)</sup>.
+- MOL said a worker who leaves in the period pays nothing and only has to buy a ticket and leave <sup>[N109](#n109)</sup>.
+- The cost: you cannot come back to Jordan for five years <sup>[N107](#n107)</sup>.
 
 **If you stay and regularise:**
 - 50% off the work-permit fees for all past periods, and 100% of late fines (for renewing an expired permit or moving employer) and residence overstay fines waived <sup>[24](#o24)</sup>.
@@ -2409,11 +2413,12 @@ Jordan's Cabinet decided on 8 June 2026, and the Labour Minister announced on 14
 > **Need to know**
 > - Can a garment worker from a QIZ factory whose permit lapsed less than two years ago use the exit-without-return waiver, given that the decision excludes the QIZ garment sector <sup>[N31](#n31), [24](#o24)</sup>?
 > - Does the October 2026 extension, which names workers "in all sectors", keep the exclusion of QIZ garment workers <sup>[N32](#n32), [N31](#n31)</sup>?
+> - Does the extension's coverage of the Aqaba Special Economic Zone include garment workers in Aqaba's factories <sup>[N32](#n32), [N31](#n31)</sup>?
 > - Which office does a worker go to, with which papers, to have the file "settled" before flying, and does the Embassy help <sup>[24](#o24)</sup>?
 
-**After the deadline:** the Cabinet decision provides for catching and deporting any worker who has not regularised after 1 January 2027, and from that date MOL puts an electronic deportation flag on every such worker <sup>[N32](#n32), [N59](#n59)</sup>. The flag blocks any renewal until all past fines and fees are paid in full, and an employer who then wants to keep the worker must apply to MOL and pay JD 5,000 to lift it <sup>[N106](#n106), [N109](#n109)</sup>. The flag bars entry to Jordan for 5 years <sup>[N108](#n108)</sup>.
+**After the deadline:** the Cabinet decision provides for catching and deporting any worker who has not regularised after 1 January 2027, and from that date MOL puts an electronic deportation flag on every such worker <sup>[N32](#n32), [N59](#n59)</sup>. The flag blocks any renewal until all past fines and fees are paid in full, and an employer who then wants to keep the worker must apply to MOL and pay JD 5,000 to lift it <sup>[N107](#n107), [N110](#n110)</sup>. The flag bars entry to Jordan for 5 years <sup>[N109](#n109)</sup>.
 
-**Scams:** on 2 June 2026, before the decision, the Embassy said it had no news of any general amnesty, told people not to believe false news or fraudulent campaigns, and told them to follow its website and Facebook page <sup>[N110](#n110)</sup>. When the decision came, the Embassy told workers to be careful of fraud and to come to the mission for help <sup>[N111](#n111)</sup>.
+**Scams:** on 2 June 2026, before the decision, the Embassy said it had no news of any general amnesty, told people not to believe false news or fraudulent campaigns, and told them to follow its website and Facebook page <sup>[N111](#n111)</sup>. When the decision came, the Embassy told workers to be careful of fraud and to come to the mission for help <sup>[N112](#n112)</sup>.
 
 <a id="step-1-get-a-passport-or-travel-permit"></a>
 
@@ -2430,7 +2435,7 @@ With a valid passport, go to [Step 2: Settle residence and work-permit fines](#s
 
 ### 21.4 Step 2: Settle residence and work-permit fines
 
-1. <a id="step-2-settle-residence-and-work-permit-fines-item-1"></a>**Know what you owe in residence fines.** A foreigner who entered legally but has no temporary residence permit, an overstayer, or an annual-permit holder who did not apply to renew within one month of expiry is fined JD 90 for each month, and JD 3 a day for part of a month <sup>[N105](#n105), [N86](#n86)</sup>. Law No. 2 of 2025, published in the Official Gazette on 3 April 2025 and in force 90 days later, doubled these from JD 45 and JD 1.5 <sup>[N105](#n105)</sup>. A foreigner staying more than two weeks must also register his address with the PSD or a police station, or pay a JD 200 fine <sup>[N105](#n105), [74](#o74)</sup>.
+1. <a id="step-2-settle-residence-and-work-permit-fines-item-1"></a>**Know what you owe in residence fines.** A foreigner who entered legally but has no temporary residence permit, an overstayer, or an annual-permit holder who did not apply to renew within one month of expiry is fined JD 90 for each month, and JD 3 a day for part of a month <sup>[N106](#n106), [N86](#n86)</sup>. Law No. 2 of 2025, published in the Official Gazette on 3 April 2025 and in force 90 days later, doubled these from JD 45 and JD 1.5 <sup>[N106](#n106)</sup>. A foreigner staying more than two weeks must also register his address with the PSD or a police station, or pay a JD 200 fine <sup>[N106](#n106), [74](#o74)</sup>.
 2. <a id="step-2-settle-residence-and-work-permit-fines-item-2"></a>**Know what you owe in work-permit fees.** If a past employer never got you a permit, you cannot draw your social security money on leaving until all past permit dues and the penalty are paid <sup>[N52 (2021)](#n52)</sup>.
 3. <a id="step-2-settle-residence-and-work-permit-fines-item-3"></a>**Use the waiver while it lasts.** Until 1 December 2026, leaving for good wipes these fees and fines (see [The 2026 regularisation](#the-2026-regularisation)) <sup>[24](#o24), [N32](#n32)</sup>.
 
@@ -2449,9 +2454,9 @@ With a valid passport, go to [Step 2: Settle residence and work-permit fines](#s
 
 ### 21.6 If you are detained
 
-Jordan's Minister of Interior can, on the PSD Director's recommendation, order any foreigner deported and detained until removal, without a court order <sup>[N18](#n18)</sup>. Jordan has no separate immigration detention centres: people are held in police stations and prisons, called Reform and Rehabilitation Centres <sup>[N18](#n18)</sup>. Bangladeshi women have been held at the Juweideh (Jwaideh) centre in Amman <sup>[N112 (2020)](#n112)</sup>. There is no time limit: the administrative governor decides case by case, and detention can last months or years <sup>[N18](#n18)</sup>. An appeal to the Administrative Court is possible but too costly for most without free legal aid <sup>[N18](#n18)</sup>.
+Jordan's Minister of Interior can, on the PSD Director's recommendation, order any foreigner deported and detained until removal, without a court order <sup>[N18](#n18)</sup>. Jordan has no separate immigration detention centres: people are held in police stations and prisons, called Reform and Rehabilitation Centres <sup>[N18](#n18)</sup>. Bangladeshi women have been held at the Juweideh (Jwaideh) centre in Amman <sup>[N113 (2020)](#n113)</sup>. There is no time limit: the administrative governor decides case by case, and detention can last months or years <sup>[N18](#n18)</sup>. An appeal to the Administrative Court is possible but too costly for most without free legal aid <sup>[N18](#n18)</sup>.
 
-In July 2020, 103 Bangladeshi women were held at Juweideh: 87 for administrative reasons, 2 for judicial reasons and 14 convicted <sup>[N112 (2020)](#n112)</sup>. Those held for administrative reasons were usually held 15-20 days while their papers to go home were completed <sup>[N112 (2020)](#n112)</sup>. The Ambassador has handed winter clothes and other necessities to women held there <sup>[120](#o120)</sup>. When MOL deports a worker caught working in breach of the Labour Law, the deportation is carried out at the expense of the employer he was caught working for <sup>[23](#o23)</sup>.
+In July 2020, 103 Bangladeshi women were held at Juweideh: 87 for administrative reasons, 2 for judicial reasons and 14 convicted <sup>[N113 (2020)](#n113)</sup>. Those held for administrative reasons were usually held 15-20 days while their papers to go home were completed <sup>[N113 (2020)](#n113)</sup>. The Ambassador has handed winter clothes and other necessities to women held there <sup>[120](#o120)</sup>. When MOL deports a worker caught working in breach of the Labour Law, the deportation is carried out at the expense of the employer he was caught working for <sup>[23](#o23)</sup>.
 
 > **Need to know**
 > - Who pays the ticket for a detained Bangladeshi deported under the Residence Law, or when no employer is found: the worker, the Embassy or WEWB?
@@ -2461,15 +2466,15 @@ In July 2020, 103 Bangladeshi women were held at Juweideh: 87 for administrative
 
 ### 21.7 Bans after you leave
 
-- **Leaving under the 2026 decision:** no return for five years <sup>[N106](#n106)</sup>.
-- **Deportation flag:** no entry for five years <sup>[N108](#n108)</sup>.
+- **Leaving under the 2026 decision:** no return for five years <sup>[N107](#n107)</sup>.
+- **Deportation flag:** no entry for five years <sup>[N109](#n109)</sup>.
 - **Deported under the Labour Law:** no one may recruit or employ you again in Jordan for at least five years from the deportation <sup>[23](#o23)</sup>.
 
 <a id="if-a-worker-dies-is-injured-or-loses-the-job"></a>
 
 ## 22 If a worker dies, is injured or loses the job
 
-Everyone aged 16 or over working under Jordan's Labour Law is covered by the SSC whatever their nationality, except workers whose relationship with the employer is irregular (casual) <sup>[22](#o22)</sup>. Work-injury cover includes accidents on the usual way to and from work, and the employer pays for it, at 2% of wages <sup>[22](#o22), [N113 (2023)](#n113)</sup>. WEWB pays grants and helps with the migrant insurance for workers who left with BMET clearance or joined the Board <sup>[121](#o121), [57 (2024)](#o57)</sup>. The Embassy's labour wing pursues compensation; Bangladesh's labour wings recovered Tk 127.6 crore (1 crore is Tk 10 million) in 1,852 cases of death compensation, wages and benefits in 2023-24 <sup>[64 (2024)](#o64)</sup>.
+Everyone aged 16 or over working under Jordan's Labour Law is covered by the SSC whatever their nationality, except workers whose relationship with the employer is irregular (casual) <sup>[22](#o22)</sup>. Work-injury cover includes accidents on the usual way to and from work, and the employer pays for it, at 2% of wages <sup>[22](#o22), [N114 (2023)](#n114)</sup>. WEWB pays grants and helps with the migrant insurance for workers who left with BMET clearance or joined the Board <sup>[121](#o121), [57 (2024)](#o57)</sup>. The Embassy's labour wing pursues compensation; Bangladesh's labour wings recovered Tk 127.6 crore (1 crore is Tk 10 million) in 1,852 cases of death compensation, wages and benefits in 2023-24 <sup>[64 (2024)](#o64)</sup>.
 
 <a id="check-you-are-covered"></a>
 
@@ -2486,10 +2491,10 @@ Everyone aged 16 or over working under Jordan's Labour Law is covered by the SSC
 
 ### 22.2 If you are injured or fall ill
 
-1. <a id="if-you-are-injured-or-fall-ill-1-item-1"></a>**Treatment.** After a work accident the employer must take you to a treatment provider the SSC approves, report injuries the SSC lists to the nearest police station within 48 hours, notify the SSC in writing with the first medical report within 14 working days, and inform MOL <sup>[22](#o22), [N113 (2023)](#n113), [N52 (2021)](#n52)</sup>. Most hospitals in Jordan are private and often ask for cash or a deposit first <sup>[118](#o118)</sup>.
+1. <a id="if-you-are-injured-or-fall-ill-1-item-1"></a>**Treatment.** After a work accident the employer must take you to a treatment provider the SSC approves, report injuries the SSC lists to the nearest police station within 48 hours, notify the SSC in writing with the first medical report within 14 working days, and inform MOL <sup>[22](#o22), [N114 (2023)](#n114), [N52 (2021)](#n52)</sup>. Most hospitals in Jordan are private and often ask for cash or a deposit first <sup>[118](#o118)</sup>.
 2. <a id="if-you-are-injured-or-fall-ill-1-item-2"></a>**If the employer does not report it,** you or your family can notify the SSC yourselves within four months of the injury; in the garment zones, report to the SSC office in the industrial zone <sup>[22](#o22), [N52 (2021)](#n52)</sup>. Keep every paper: receipts for the doctor, prescriptions, medicines, laboratory tests, hospital admission and transport to hospital <sup>[N52 (2021)](#n52)</sup>.
-3. <a id="if-you-are-injured-or-fall-ill-1-item-3"></a>**What the SSC pays.** The SSC covers treatment, hospital stay, transport to and from treatment and rehabilitation including artificial limbs, and pays a daily allowance of 75% of your insured daily wage while the injury keeps you off work, in hospital or at home on medical decision; the employer pays the first three days <sup>[22](#o22), [N113 (2023)](#n113)</sup>. If the injury happened because the employer broke safety rules, the employer must repay the SSC all the medical costs <sup>[22](#o22)</sup>.
-4. <a id="if-you-are-injured-or-fall-ill-1-item-4"></a>**Permanent injury.** SSC medical committees, a first-level one and an appeal one, assess the disability <sup>[N113 (2023)](#n113)</sup>. Total permanent disability (75% or more) gives a monthly pension of 75% of your insured wage, plus 25% if you need someone's help in daily life <sup>[22](#o22), [N113 (2023)](#n113)</sup>. Partial disability of 30% or more gives that share of the full pension; below 30%, a one-off payment of that share of the full pension times 36 months <sup>[22](#o22), [N113 (2023)](#n113)</sup>. As a non-Jordanian you can ask the SSC to replace the pension with a lump sum: the SSC lump sum or 36 months of the pension, whichever is more <sup>[22](#o22), [N113 (2023)](#n113)</sup>.
+3. <a id="if-you-are-injured-or-fall-ill-1-item-3"></a>**What the SSC pays.** The SSC covers treatment, hospital stay, transport to and from treatment and rehabilitation including artificial limbs, and pays a daily allowance of 75% of your insured daily wage while the injury keeps you off work, in hospital or at home on medical decision; the employer pays the first three days <sup>[22](#o22), [N114 (2023)](#n114)</sup>. If the injury happened because the employer broke safety rules, the employer must repay the SSC all the medical costs <sup>[22](#o22)</sup>.
+4. <a id="if-you-are-injured-or-fall-ill-1-item-4"></a>**Permanent injury.** SSC medical committees, a first-level one and an appeal one, assess the disability <sup>[N114 (2023)](#n114)</sup>. Total permanent disability (75% or more) gives a monthly pension of 75% of your insured wage, plus 25% if you need someone's help in daily life <sup>[22](#o22), [N114 (2023)](#n114)</sup>. Partial disability of 30% or more gives that share of the full pension; below 30%, a one-off payment of that share of the full pension times 36 months <sup>[22](#o22), [N114 (2023)](#n114)</sup>. As a non-Jordanian you can ask the SSC to replace the pension with a lump sum: the SSC lump sum or 36 months of the pension, whichever is more <sup>[22](#o22), [N114 (2023)](#n114)</sup>.
 
    > **Need to know**
    > - How does a worker who has gone home to Bangladesh apply to the SSC to swap a disability pension for the lump sum, and how is it paid <sup>[22](#o22)</sup>?
@@ -2510,8 +2515,8 @@ Everyone aged 16 or over working under Jordan's Labour Law is covered by the SSC
 
 ### 22.3 If a worker dies
 
-1. <a id="if-a-worker-dies-item-1"></a>**Call 911,** Jordan's emergency number, if the death happens outside hospital or in an accident <sup>[118](#o118)</sup>. After a suspicious death Jordan's National Institute of Forensic Medicine has done the autopsy, and the Embassy has waited for its final report before sending the body home <sup>[N114 (2018)](#n114)</sup>.
-2. <a id="if-a-worker-dies-item-2"></a>**Tell the Embassy and give the family's address.** In a 2016 case the family could not be told until the Embassy found the woman's identity papers and her home address <sup>[N115 (2016)](#n115)</sup>. The Embassy has a lawyer in Jordan who follows such cases <sup>[N114 (2018)](#n114)</sup>. Labour wing: +962-655-29192, mobile +962-7896-06415, fsamman@probashi.gov.bd <sup>[126](#o126)</sup>.
+1. <a id="if-a-worker-dies-item-1"></a>**Call 911,** Jordan's emergency number, if the death happens outside hospital or in an accident <sup>[118](#o118)</sup>. After a suspicious death Jordan's National Institute of Forensic Medicine has done the autopsy, and the Embassy has waited for its final report before sending the body home <sup>[N115 (2018)](#n115)</sup>.
+2. <a id="if-a-worker-dies-item-2"></a>**Tell the Embassy and give the family's address.** In a 2016 case the family could not be told until the Embassy found the woman's identity papers and her home address <sup>[N116 (2016)](#n116)</sup>. The Embassy has a lawyer in Jordan who follows such cases <sup>[N115 (2018)](#n115)</sup>. Labour wing: +962-655-29192, mobile +962-7896-06415, fsamman@probashi.gov.bd <sup>[126](#o126)</sup>.
 3. <a id="if-a-worker-dies-item-3"></a>**The employer pays to send the body home.** For a garment worker with a valid contract, the employer must inform the Embassy within 24 hours, pay to transport the body to Bangladesh, pay all the worker's dues to an authorised family member, and tell the family which papers it needs <sup>[N52 (2021)](#n52)</sup>.
 
    > **Need to know**
@@ -2537,7 +2542,7 @@ Everyone aged 16 or over working under Jordan's Labour Law is covered by the SSC
    - The deceased's passport copy.
 7. <a id="if-a-worker-dies-item-7"></a>**Money owed in Jordan.**
    - If the death was caused by work, the SSC pays the survivors a pension of 75% of the worker's insured wage, shared among those entitled (such as the widow, children and dependent parents), plus funeral expenses whose amount the SSC board sets <sup>[22](#o22), [131 (2018)](#o131)</sup>. Survivors of a non-Jordanian can ask instead for a lump sum (the SSC lump sum or 36 months of the pension, whichever is more), shared among the heirs <sup>[22](#o22)</sup>.
-   - The heirs can claim the worker's SSC lump sum within 10 years of the death, with the papers sent through the Embassy <sup>[N52 (2021)](#n52)</sup>. If the death gives no pension, the lump sum is 15% of the average monthly wage of the last 24 contributions for each month contributed <sup>[N113 (2023)](#n113)</sup>.
+   - The heirs can claim the worker's SSC lump sum within 10 years of the death, with the papers sent through the Embassy <sup>[N52 (2021)](#n52)</sup>. If the death gives no pension, the lump sum is 15% of the average monthly wage of the last 24 contributions for each month contributed <sup>[N114 (2023)](#n114)</sup>.
    - WEWB's legal cell helps the family prepare a power of attorney and claim death compensation, service benefits and dues; the family gives a family-members certificate, a Tk 400 non-judicial stamp undertaking, a bank statement with routing number and 2 colour photos of each heir <sup>[132](#o132)</sup>.
    - The next of kin can also apply to the Ministry at aswelfare@probashi.gov.bd with proof of status, the employer's details and the amounts owed; free; the Ministry writes to the Embassy and WEWB within 7 working days <sup>[65](#o65)</sup>.
 
@@ -2547,14 +2552,14 @@ Everyone aged 16 or over working under Jordan's Labour Law is covered by the SSC
 8. <a id="if-a-worker-dies-item-8"></a>**The insurance: Tk 10 lakh.** It pays 100% for natural death, and for accidental death during the cover or within 90 days after it ends <sup>[57 (2024)](#o57)</sup>. WEWB checks the claim papers and recommends to JBC, which pays WEWB <sup>[57 (2024)](#o57)</sup>; WEWB helps the family claim with proof of clearance or membership and a passport copy, free, on 16135 <sup>[133](#o133)</sup>.
 
    > **Need to know**
-   > - Must the family apply for the death payment, or does it reach the worker's bank account without an application, as a 2024 news report says <sup>[N116 (2024)](#n116)</sup>?
-   > - Does the insurance exclude suicide or self-harm within 6 months of cover, HIV/AIDS, dangerous sports, alcohol or drug addiction, war or riot, criminal attack and court execution, as the same report says <sup>[N116 (2024)](#n116)</sup>?
+   > - Must the family apply for the death payment, or does it reach the worker's bank account without an application, as a 2024 news report says <sup>[N117 (2024)](#n117)</sup>?
+   > - Does the insurance exclude suicide or self-harm within 6 months of cover, HIV/AIDS, dangerous sports, alcohol or drug addiction, war or riot, criminal attack and court execution, as the same report says <sup>[N117 (2024)](#n117)</sup>?
 
 <a id="what-happens-in-practice"></a>
 
 #### 22.3.1 What happens in practice
 
-In March 2016 a 33-year-old Bangladeshi domestic worker was reportedly killed by her employers in Irbid; the Embassy waited for the Jordanian investigation and her identity papers before it could tell her family and send her body home <sup>[N115 (2016)](#n115)</sup>. In February 2018 the Embassy's lawyer said a forensic autopsy found a domestic worker had taken her own life, and the Embassy waited for the final report to send her body home <sup>[N114 (2018)](#n114)</sup>.
+In March 2016 a 33-year-old Bangladeshi domestic worker was reportedly killed by her employers in Irbid; the Embassy waited for the Jordanian investigation and her identity papers before it could tell her family and send her body home <sup>[N116 (2016)](#n116)</sup>. In February 2018 the Embassy's lawyer said a forensic autopsy found a domestic worker had taken her own life, and the Embassy waited for the final report to send her body home <sup>[N115 (2018)](#n115)</sup>.
 
 > **Need to know**
 > - How many Bangladeshi bodies came home from Jordan in 2025-2026, and how long after the death did they arrive?
@@ -2565,7 +2570,7 @@ In March 2016 a 33-year-old Bangladeshi domestic worker was reportedly killed by
 
 1. <a id="if-you-lose-the-job-item-1"></a>**Your social security money.** At the end of a contract, or if either side ends it early, you get a lump sum from the SSC of 10% of your total insured wage for each year (12% after 120 monthly contributions, 15% from 216) <sup>[22](#o22), [N52 (2021)](#n52)</sup>. If you have drawn it once before, you can draw it again only after 24 months under the new contract, and not a third time before pension age <sup>[N52 (2021)](#n52)</sup>. If the employer never enrolled you in the SSC, it must pay you one month's last wage for each year worked <sup>[N52 (2021)](#n52)</sup>.
 2. <a id="if-you-lose-the-job-item-2"></a>**Claim it online before you fly.** During the 2026 regularisation period a worker leaving Jordan for good can apply online, while still in Jordan, under the SSC's "Permanent Departure from the Country with No Return" option, without going to MOL (otherwise MOL's no-objection is needed first, as in Work visa: garment and factory worker, Leaving at the end of the job, step 5); the form to have the money sent abroad is in the Forms and Applications section of the SSC website's electronic library, and you then follow the SMS instructions <sup>[N30](#n30), [1](#o1)</sup>.
-3. <a id="if-you-lose-the-job-item-3"></a>**If the factory closes or stops paying.** Garment factory owners deposit a bank guarantee with MOL, which MOL can cash to pay wages, dues and tickets home; the Garment Union or the labour office in the zone asks MOL to do it <sup>[N52 (2021)](#n52)</sup>. When Achilles Apparel laid off workers in December 2023, 454 Bangladeshi workers got their overdue wages and social security after the Embassy pressed the case with ministries and international organisations for 18 months <sup>[N117 (2024)](#n117)</sup>.
+3. <a id="if-you-lose-the-job-item-3"></a>**If the factory closes or stops paying.** Garment factory owners deposit a bank guarantee with MOL, which MOL can cash to pay wages, dues and tickets home; the Garment Union or the labour office in the zone asks MOL to do it <sup>[N52 (2021)](#n52)</sup>. When Achilles Apparel laid off workers in December 2023, 454 Bangladeshi workers got their overdue wages and social security after the Embassy pressed the case with ministries and international organisations for 18 months <sup>[N118 (2024)](#n118)</sup>.
 4. <a id="if-you-lose-the-job-item-4"></a>**Changing employer instead of going home:** see [Work visa: garment and factory worker](#work-visa-garment-and-factory-worker), Changing employer or leaving. Under the 2026 decision no clearance from the old employer is needed once the permit has expired <sup>[N31](#n31)</sup>.
 5. <a id="if-you-lose-the-job-item-5"></a>**Job-loss insurance.** Tk 50,000 if you went from 1 January 2023, lose the job and return within 6 months, but not if you went entirely at the employer's cost <sup>[122](#o122), [57 (2024)](#o57), [39](#o39)</sup>. Claim through WEWB with proof of clearance or membership and a passport copy; free <sup>[133](#o133)</sup>.
 6. <a id="if-you-lose-the-job-item-6"></a>**From Bangladesh,** you or your family can apply to the Ministry about unpaid wages, allowances or insurance, with the incident, proof of status and the employer's details <sup>[65](#o65)</sup>.
@@ -2581,7 +2586,7 @@ In March 2016 a 33-year-old Bangladeshi domestic worker was reportedly killed by
 
 At Dhaka, Chattogram and Sylhet airports, WEWB's Probashi Kallyan (expatriate welfare) desks meet returning workers <sup>[34](#o34)</sup>.
 
-1. <a id="coming-home-item-1"></a>**Leaving Jordan with cash.** Declare cash or cheques worth more than JD 10,000 to Jordan Customs on the declaration form, when arriving or leaving <sup>[N118 (2021)](#n118), [134 (2021)](#o134)</sup>.
+1. <a id="coming-home-item-1"></a>**Leaving Jordan with cash.** Declare cash or cheques worth more than JD 10,000 to Jordan Customs on the declaration form, when arriving or leaving <sup>[N119 (2021)](#n119), [134 (2021)](#o134)</sup>.
 2. <a id="coming-home-item-2"></a>**At the airport in Bangladesh.** The welfare desks help with customs and lost luggage, send sick returnees to hospital by ambulance, arrange a stay at the Wage Earners' Centre, and take complaints from abused or cheated returnees <sup>[129](#o129)</sup>. Women back within 1 year after abuse or fraud get Tk 5,000 in cash <sup>[34](#o34)</sup>, and workers back because of war, disaster or lay-off can get financial help <sup>[129](#o129)</sup>. Desks:
    - Dhaka: +88 02 8901040, mobile +880 1971 430203, welfaredesk@gmail.com <sup>[129](#o129)</sup>.
    - Chattogram: +880 2333300957, mobile +880 1912542185, pkd.chattogram@wewb.gov.bd <sup>[129](#o129)</sup>.
@@ -2649,7 +2654,7 @@ Up to USD 10,000 in foreign currency comes in without declaring, and that amount
 
 ### 23.2 Support after return
 
-1. <a id="support-after-return-item-1"></a>**PKB rehabilitation loan.** PKB lends returnees starting a project up to Tk 50 lakh: up to Tk 3 lakh without collateral, Tk 3-5 lakh with collateral, above Tk 5 lakh against a registered mortgage; up to 10 years at 9% simple interest; decided within 15 working days <sup>[141](#o141)</sup>. Fees: 0.50% processing and 0.50% documentation, each at most Tk 15,000; no service charge <sup>[141](#o141)</sup>. In 2021 only about 2% of pandemic returnees got PKB's special reintegration loan, which had a short grace period; one returnee was put off by its many conditions <sup>[N119 (2021)](#n119)</sup>.
+1. <a id="support-after-return-item-1"></a>**PKB rehabilitation loan.** PKB lends returnees starting a project up to Tk 50 lakh: up to Tk 3 lakh without collateral, Tk 3-5 lakh with collateral, above Tk 5 lakh against a registered mortgage; up to 10 years at 9% simple interest; decided within 15 working days <sup>[141](#o141)</sup>. Fees: 0.50% processing and 0.50% documentation, each at most Tk 15,000; no service charge <sup>[141](#o141)</sup>. In 2021 only about 2% of pandemic returnees got PKB's special reintegration loan, which had a short grace period; one returnee was put off by its many conditions <sup>[N120 (2021)](#n120)</sup>.
 
    **You'll need** <sup>[141](#o141)</sup>:
    - The bank's free application form, at the branch in the project area.
@@ -2687,10 +2692,10 @@ Up to USD 10,000 in foreign currency comes in without declaring, and that amount
 - **Bangladesh Embassy, Amman:** Ibrahim Al-Ghozlani Street, Villa 7, Um Uthaina, Amman; P.O. Box 5685, Amman 11183; +962 6 5529192-93; fax +962 6 5529194; mission.amman@mofa.gov.bd <sup>[119](#o119)</sup>. Consular services Sunday-Thursday 08:00-16:00, with a prayer and lunch break 13:00-14:00; closed Friday and Saturday <sup>[146 (2023)](#o146)</sup>. First Secretary Ummay Salma: +962 6 5529192 <sup>[147](#o147)</sup>. The Embassy holds consular tours to Irbid, Aqaba and Al Dulayl <sup>[105](#o105)</sup>.
 - **Embassy labour wing:** First Secretary (Labour), +962-655-29192, mobile +962-7896-06415, fsamman@probashi.gov.bd <sup>[126](#o126)</sup>.
 - **Emergency:** 911; for domestic violence or sexual assault, ask for the Family Protection Directorate (part of the police) <sup>[118](#o118)</sup>.
-- **MOL:** free line for work-permit and Labour Law questions 080022208; complaints and questions by WhatsApp 06-2221020 or 06-2221239; National Contact Centre 06-5008080, 24 hours; online complaints on the Hemayah platform, complaint.hemayeh.jo (keep the complaint number to follow it up); offices at 11 Issa Al-Naouri Street, Amman, Sunday-Thursday 8:30 am-3:30 pm <sup>[62](#o62), [72](#o72)</sup>. Interpreters for some Asian languages are not always available <sup>[N33](#n33)</sup>.
+- **MOL:** free line for work-permit and Labour Law questions 080022208; complaints and questions by WhatsApp 06-2221020 or 06-2221239; National Contact Centre 06-5008080, 24 hours; online complaints on the Hemayah platform, complaint.hemayeh.jo (keep the complaint number to follow it up); offices at 11 Issa Al-Naouri Street, Amman, Sunday-Thursday 8:30 am-3:30 pm <sup>[62](#o62), [72](#o72)</sup>. The labour-law line's numbers by mobile network: Zain 0796580666, Orange 0777580666, Umniah 0785602666; after 3:30 pm an answering machine takes complaints <sup>[N121](#n121)</sup>. Interpreters for some Asian languages are not always available <sup>[N33](#n33)</sup>.
 - **SSC:** check contributions and claim online at eservices.ssc.gov.jo <sup>[N52 (2021)](#n52), [N30](#n30)</sup>.
 - **Tamkeen Fields for Aid** (legal aid for migrant workers): Madinah Street, Building 197, 3rd floor, offices 306-307, Amman; +962 6 5539501; info@tamkeen-jo.org <sup>[N64](#n64)</sup>.
-- **ARDD Legal Aid** (legal advice and mediation): 064617477, Sunday-Thursday 9 am-6 pm <sup>[N120](#n120)</sup>.
+- **ARDD Legal Aid** (legal advice and mediation): 064617477, Sunday-Thursday 9 am-6 pm <sup>[N121](#n121)</sup>.
 - **Dar Karama shelter** (Ministry of Social Development, for trafficking victims): medical, psychological and legal help; it accepts people who come on their own and people not officially recognised as victims <sup>[N33](#n33)</sup>.
 
 > **Need to know**
@@ -2702,7 +2707,7 @@ Up to USD 10,000 in foreign currency comes in without declaring, and that amount
 
 ### 24.2 Jordan's offices for Bangladesh
 
-Jordan has no embassy in Dhaka; in 2020 Bangladesh asked it to open one <sup>[N121 (2020)](#n121)</sup>. A Bangladeshi does not apply for a Jordan visa at an embassy: Bangladesh is on MOI's "restricted" list, so the employer, host, tourism office or university applies to MOI inside Jordan, and visas are issued through MOI's e-services at eservices.moi.gov.jo <sup>[25](#o25), [32 (2023)](#o32), [90](#o90), [97](#o97)</sup>.
+Jordan has no embassy in Dhaka; in 2020 Bangladesh asked it to open one <sup>[N122 (2020)](#n122)</sup>. A Bangladeshi does not apply for a Jordan visa at an embassy: Bangladesh is on MOI's "restricted" list, so the employer, host, tourism office or university applies to MOI inside Jordan, and visas are issued through MOI's e-services at eservices.moi.gov.jo <sup>[25](#o25), [32 (2023)](#o32), [90](#o90), [97](#o97)</sup>.
 
 > **Need to know**
 > - Which Jordanian embassy covers Bangladesh: is it the one in New Delhi (N 14, Panchsheel Park; +91 11 2649 7030) <sup>[148](#o148)</sup>?
@@ -2723,7 +2728,7 @@ Jordan has no embassy in Dhaka; in 2020 Bangladesh asked it to open one <sup>[N1
 - **BOESL** (garment jobs in Jordan): Probashi Kallyan Bhaban (5th floor), 71-72 Eskaton Garden, Ramna, Dhaka-1000; +88-02-48319125, mobile +88-01765411653; info@boesl.gov.bd; Sunday to Thursday 9 am to 4 pm, except government holidays; Jordan notices at www.boesl.gov.bd <sup>[33](#o33), [149](#o149)</sup>.
 - **PKB:** loans department 01716-175560, migration@pkb.gov.bd <sup>[61](#o61)</sup>.
 - **JBC (migrant insurance):** Group Insurance Division, 24 Motijheel C/A, Dhaka-1000; 02-223381423, 41052772; gid@jbc.gov.bd <sup>[57 (2024)](#o57)</sup>.
-- **OKUP** (Ovibashi Karmi Unnayan Program, a migrant workers' organisation): helpline 01842773300; +88 02 223338137; okup.ent@gmail.com; 4th floor, 466 Sawdagar Garden, Dania Post Office Road, Dhaka-1236 <sup>[N122](#n122), [N123](#n123)</sup>.
+- **OKUP** (Ovibashi Karmi Unnayan Program, a migrant workers' organisation): helpline 01842773300; +88 02 223338137; okup.ent@gmail.com; 4th floor, 466 Sawdagar Garden, Dania Post Office Road, Dhaka-1236 <sup>[N123](#n123), [N124](#n124)</sup>.
 - **Airport welfare desks:**
   - Dhaka: +88 02 8901040, +880 1971 430203, welfaredesk@gmail.com <sup>[129](#o129)</sup>.
   - Chattogram: +880 2333300957, +880 1912542185, pkd.chattogram@wewb.gov.bd <sup>[129](#o129)</sup>.
@@ -2990,37 +2995,38 @@ These facts come only from news or third-party sources. Each needs an official s
 - <a id="n87"></a>N87. Norwegian Refugee Council (Johnston, Baslan, Kvittingen), 1 Apr 2019. [Realizing the rights of asylum seekers and refugees in Jordan from countries other than Syria](https://data.unhcr.org/ar/documents/download/71975). Accessed 9 Nov 2026. Possibly outdated.
 - <a id="n88"></a>N88. Jo24, 4 Apr 2016. [Interior allows entry of restricted nationalities, with conditions (Arabic)](https://jo24.net/post.php?id=162358). Accessed 9 Nov 2026. Possibly outdated.
 - <a id="n89"></a>N89. United News of Bangladesh, 15 Jun 2026. [Three arrested in Jordan recruitment scam](https://unb.com.bd/category/bangladesh/three-arrested-in-jordan-recruitment-scam/188279). Accessed 9 Nov 2026.
-- <a id="n90"></a>N90. Jordan News, 31 Oct 2021. [Interior Ministry relaxes visa restrictions for some nationalities to boost tourism](https://www.jordannews.jo/Section-109/News/Interior-Ministry-relaxes-visa-restrictions-for-some-nationalities-to-boost-tourism-9243). Accessed 9 Nov 2026. Possibly outdated.
-- <a id="n91"></a>N91. Jordan News, 9 Jul 2026. [1,600 International Students Apply to Jordanian Universities in One Month](https://www.jordannews.jo/Section-109/News/1-600-International-Students-Apply-to-Jordanian-Universities-in-One-Month-52901). Accessed 9 Nov 2026.
-- <a id="n92"></a>N92. Jordan News, 29 Dec 2024. [Unified e-portal launched to admit foreign students to study in Jordan](https://www.jordannews.jo/Section-109/News/Unified-e-portal-launched-to-admit-foreign-students-to-study-in-Jordan-38827). Accessed 9 Nov 2026. Possibly outdated.
-- <a id="n93"></a>N93. Jordan News, 16 Mar 2025. [Labor Ministry: Immediate Deportation for Any Non-Jordanian Student Found Working](https://www.jordannews.jo/Section-109/News/Labor-Ministry-Immediate-Deportation-for-Any-Non-Jordanian-Student-Found-Working-40351). Accessed 9 Nov 2026. Possibly outdated.
-- <a id="n94"></a>N94. Human Rights Watch, 16 Dec 2015. [Jordan: Deporting Sudanese Asylum Seekers](https://hrw.org/news/2015/12/16/jordan-deporting-sudanese-asylum-seekers). Accessed 9 Nov 2026. Possibly outdated.
-- <a id="n95"></a>N95. Refugee Law Initiative, University of London, 19 Dec 2025. [Ten years later: the impact of Sudanese deportations from Jordan](https://rli.blogs.sas.ac.uk/2025/12/19/ten-years-later-the-impact-of-sudanese-deportations-from-jordan/). Accessed 9 Nov 2026.
-- <a id="n96"></a>N96. Jordan Lawyer (law firm guide), 31 Dec 2024. [Safe Haven for Your Savings: Jordan Citizenship by Investment](https://jordan-lawyer.com/2024/12/31/safe-haven-for-your-savings-jordan-citizenship-by-investment/). Accessed 9 Nov 2026. Possibly outdated.
-- <a id="n97"></a>N97. UNHCR Jordan, 19 May 2026. [Registration - UNHCR Jordan](https://help.unhcr.org/jordan/en/helpful-services-unhcr/registration-unhcr/). Accessed 9 Nov 2026. Archived copy, Wayback Machine, 18 Jun 2026: [https://web.archive.org/web/20260618150604/https://help.unhcr.org/jordan/en/helpful-services-unhcr/registration-unhcr/](https://web.archive.org/web/20260618150604/https://help.unhcr.org/jordan/en/helpful-services-unhcr/registration-unhcr/).
-- <a id="n98"></a>N98. Immigration and Refugee Board of Canada (via ecoi.net), 1 May 2016. [Jordan: Whether a child born abroad to a Jordanian father is a Jordanian citizen](https://www.ecoi.net/en/document/1007367.html). Accessed 9 Nov 2026. Possibly outdated.
-- <a id="n99"></a>N99. UK Home Office / HM Passport Office, 22 Sep 2026. [Jordan: knowledge base profile](https://www.gov.uk/government/publications/jordan-knowledge-base-profile/jordan-knowledge-base-profile). Accessed 9 Nov 2026.
-- <a id="n100"></a>N100. Pressenza, 1 Oct 2026. [Children of Returned Migrant Mothers: Birth Registration and Education Halted Without Paternal Identity](https://www.pressenza.com/2026/10/children-of-returned-migrant-mothers-birth-registration-and-education-halted-without-paternal-identity/). Accessed 9 Nov 2026.
-- <a id="n101"></a>N101. Tamkeen Fields for Aid. [Contact us](https://www.tamkeen-jo.org/en/contact-us). Accessed 9 Nov 2026. Undated: possibly outdated.
-- <a id="n102"></a>N102. bdnews24.com, 17 Nov 2022. [Hundi in MFS: accounts of 480 agents suspended (Bangladesh Bank warning)](https://bangla.bdnews24.com/business/4m7x9zbdhw). Accessed 9 Nov 2026. Possibly outdated.
-- <a id="n103"></a>N103. Dutch-Bangla Bank PLC. [Remittance services for exchange houses (list of exchange companies and banks)](https://www.dutchbanglabank.com/services_company/remittance-exchange.html). Accessed 9 Nov 2026. Undated: possibly outdated.
-- <a id="n104"></a>N104. Mutual Trust Bank PLC, 14 May 2025. [Government Incentive on Wage Earners' Remittance](https://www.mutualtrustbank.com/government-incentive-on-wage-earners-remittance/). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n105"></a>N105. Hala Akhbar, 3 Apr 2025. [صدور تعديلات قانون الإقامة وشؤون الأجانب لسنة 2025 (Residence and Foreigners' Affairs amendment law 2025 published in the Official Gazette)](https://www.hala.jo/2025/04/03/صدور-تعديلات-قانون-الإقامة-وشؤون-الأج/). Accessed 9 Nov 2026. Possibly outdated.
-- <a id="n106"></a>N106. Al-Mamlaka TV, 8 Aug 2026. [Zyoud: 53 days left to regularise violating non-Jordanian workers, no extension](https://www.almamlakatv.com/news/206774-). Accessed 9 Nov 2026.
-- <a id="n107"></a>N107. Al-Mamlaka TV, 20 Aug 2026. [Ministry of Labour: 64,000 work permits issued and renewed since June 2026](https://www.almamlakatv.com/news/207764-). Accessed 9 Nov 2026.
-- <a id="n108"></a>N108. Al-Mamlaka TV, 11 Sep 2026. [17 days to regularise violating workers before deportation procedures begin](https://www.almamlakatv.com/news/209588-). Accessed 9 Nov 2026.
-- <a id="n109"></a>N109. Al-Mamlaka TV, 31 Aug 2026. [To avoid the deportation flag, Labour calls on violating workers to regularise](https://almamlakatv.com/news/208601-تجنبا-لإشارة-التسفير-العمل-تدعو-العمالة-المخالفة-لتصويب-أوضاعها). Accessed 9 Nov 2026.
-- <a id="n110"></a>N110. Bangla Tribune, 2 Jun 2026. [Jordan 'general amnesty announcement' a rumour: embassy](https://www.banglatribune.com/national/949558/%E0%A6%9C%E0%A6%B0%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%A8%E0%A7%87-%E2%80%98%E0%A6%B8%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A3-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%98%E0%A7%8B%E0%A6%B7%E0%A6%A3%E0%A6%BE%E2%80%99-%E0%A6%97%E0%A7%81%E0%A6%9C%E0%A6%AC-%E0%A6%A6%E0%A7%82%E0%A6%A4%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B8%C2%A0%C2%A0). Accessed 9 Nov 2026.
-- <a id="n111"></a>N111. New Age, 18 Jun 2026. [Jordan announces amnesty for undocumented Bangladeshis](https://www.newagebd.net/post/middle-east/303096/jordan-announces-amnesty-for-undocumented-bangladeshis). Accessed 9 Nov 2026.
-- <a id="n112"></a>N112. The Business Standard, 4 Jul 2020. [Embassy gift for detained Bangladeshis at Amman rehabilitation centre](https://www.tbsnews.net/bangladesh/embassy-gift-detained-bangladeshis-amman-rehabilitation-centre-101839). Accessed 9 Nov 2026. Possibly outdated.
-- <a id="n113"></a>N113. Jordan-Lawyer (legal information website), 20 Sep 2023. [قانون الضمان الاجتماعي مع كامل التعديلات (Social Security Law No. 1 of 2014)](https://jordan-lawyer.com/2013/09/08/jordan-social-welfare-law/). Accessed 9 Nov 2026. Possibly outdated.
-- <a id="n114"></a>N114. Jordan Times, 25 Feb 2018. [Autopsy report confirms Bangladeshi worker committed suicide](https://jordantimes.com/news/local/autopsy-report-confirms-bangladeshi-worker-committed-suicide’). Accessed 9 Nov 2026. Archived copy, Wayback Machine, 10 Oct 2018: [https://web.archive.org/web/20181010182444/http://www.jordantimes.com:80/news/local/autopsy-report-confirms-bangladeshi-worker-committed-suicide%E2%80%99](https://web.archive.org/web/20181010182444/http://www.jordantimes.com:80/news/local/autopsy-report-confirms-bangladeshi-worker-committed-suicide%E2%80%99). Possibly outdated.
-- <a id="n115"></a>N115. Jordan Times, 14 Mar 2016. [Bangladeshi embassy waiting for results of investigation into domestic helper's death](https://jordantimes.com/news/local/bangladeshi-embassy-waiting-results-investigation-domestic-helpers-death). Accessed 9 Nov 2026. Archived copy, Wayback Machine, 14 Apr 2016: [https://web.archive.org/web/20160414183322/http://www.jordantimes.com/news/local/bangladeshi-embassy-waiting-results-investigation-domestic-helpers-death](https://web.archive.org/web/20160414183322/http://www.jordantimes.com/news/local/bangladeshi-embassy-waiting-results-investigation-domestic-helpers-death). Possibly outdated.
-- <a id="n116"></a>N116. Prothom Alo, 22 Jan 2024. [প্রবাসে কেবল মৃত্যু হলেই বিমার টাকা সহজে পায় অভিবাসী কর্মী (Migrant workers easily get insurance money only when they die abroad)](https://www.prothomalo.com/bangladesh/e5seget393). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n117"></a>N117. Fibre2Fashion, Feb 2024. [Embassy helps 454 Bangladeshi RMG workers in Jordan get their dues](https://fibre2fashion.com/news/apparel-news/embassy-helps-454-bangladeshi-rmg-workers-in-jordan-get-their-dues-292835-newsdetails.htm). Accessed 9 Nov 2026. Possibly outdated.
-- <a id="n118"></a>N118. Jordan News, 26 Sep 2021. [Cash over JD10,000 must be declared, says Customs Department](https://jordannews.jo/Section-109/News/Cash-over-JD10-000-must-be-declared-says-Customs-Department-7656). Accessed 9 Nov 2026. Possibly outdated.
-- <a id="n119"></a>N119. The Business Standard, 2 Jun 2021. [Only 2% returnee migrants received reintegration loan](https://www.tbsnews.net/bangladesh/migration/only-2-returnee-migrants-received-reintegration-loan-254932). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n120"></a>N120. UNHCR Jordan (Help site), 19 May 2026. [Working in Jordan](https://help.unhcr.org/jordan/en/helpful-services-unhcr/working-in-jordan/). Accessed 9 Nov 2026. Archived copy, Wayback Machine, 15 Jun 2026: [https://web.archive.org/web/20260615084345/https://help.unhcr.org/jordan/en/helpful-services-unhcr/working-in-jordan/](https://web.archive.org/web/20260615084345/https://help.unhcr.org/jordan/en/helpful-services-unhcr/working-in-jordan/).
-- <a id="n121"></a>N121. Prothom Alo English (BSS), 20 Nov 2020. [Bangladesh urges Jordan to open embassy in Dhaka](https://en.prothomalo.com/bangladesh/bangladesh-urges-jordan-to-open-embassy-in-dhaka). Accessed 9 Nov 2026. Possibly outdated.
-- <a id="n122"></a>N122. OKUP. [Home page](https://okup.org.bd/). Accessed 9 Nov 2026. Undated: possibly outdated.
-- <a id="n123"></a>N123. OKUP, 2026. [Terms of reference (letterhead with contacts), 2026](https://hotjobs1.bdjobs.com/ovibashi-karmi-unnayan-program--okup-/ToR-52aa.pdf). Accessed 9 Nov 2026.
+- <a id="n90"></a>N90. The Jordan Times, 25 Mar 2025. [Interior Ministry introduces 'streamlined' entry measures to boost tourism, investment](https://jordantimes.com/node/383331). Accessed 9 Nov 2026. Archived copy, Wayback Machine, 25 Mar 2025: [https://web.archive.org/web/20250325194400/https://jordantimes.com/node/383331](https://web.archive.org/web/20250325194400/https://jordantimes.com/node/383331). Possibly outdated.
+- <a id="n91"></a>N91. Jordan News, 31 Oct 2021. [Interior Ministry relaxes visa restrictions for some nationalities to boost tourism](https://www.jordannews.jo/Section-109/News/Interior-Ministry-relaxes-visa-restrictions-for-some-nationalities-to-boost-tourism-9243). Accessed 9 Nov 2026. Possibly outdated.
+- <a id="n92"></a>N92. Jordan News, 9 Jul 2026. [1,600 International Students Apply to Jordanian Universities in One Month](https://www.jordannews.jo/Section-109/News/1-600-International-Students-Apply-to-Jordanian-Universities-in-One-Month-52901). Accessed 9 Nov 2026.
+- <a id="n93"></a>N93. Jordan News, 29 Dec 2024. [Unified e-portal launched to admit foreign students to study in Jordan](https://www.jordannews.jo/Section-109/News/Unified-e-portal-launched-to-admit-foreign-students-to-study-in-Jordan-38827). Accessed 9 Nov 2026. Possibly outdated.
+- <a id="n94"></a>N94. Jordan News, 16 Mar 2025. [Labor Ministry: Immediate Deportation for Any Non-Jordanian Student Found Working](https://www.jordannews.jo/Section-109/News/Labor-Ministry-Immediate-Deportation-for-Any-Non-Jordanian-Student-Found-Working-40351). Accessed 9 Nov 2026. Possibly outdated.
+- <a id="n95"></a>N95. Human Rights Watch, 16 Dec 2015. [Jordan: Deporting Sudanese Asylum Seekers](https://hrw.org/news/2015/12/16/jordan-deporting-sudanese-asylum-seekers). Accessed 9 Nov 2026. Possibly outdated.
+- <a id="n96"></a>N96. Refugee Law Initiative, University of London, 19 Dec 2025. [Ten years later: the impact of Sudanese deportations from Jordan](https://rli.blogs.sas.ac.uk/2025/12/19/ten-years-later-the-impact-of-sudanese-deportations-from-jordan/). Accessed 9 Nov 2026.
+- <a id="n97"></a>N97. Jordan Lawyer (law firm guide), 31 Dec 2024. [Safe Haven for Your Savings: Jordan Citizenship by Investment](https://jordan-lawyer.com/2024/12/31/safe-haven-for-your-savings-jordan-citizenship-by-investment/). Accessed 9 Nov 2026. Possibly outdated.
+- <a id="n98"></a>N98. UNHCR Jordan, 19 May 2026. [Registration - UNHCR Jordan](https://help.unhcr.org/jordan/en/helpful-services-unhcr/registration-unhcr/). Accessed 9 Nov 2026. Archived copy, Wayback Machine, 18 Jun 2026: [https://web.archive.org/web/20260618150604/https://help.unhcr.org/jordan/en/helpful-services-unhcr/registration-unhcr/](https://web.archive.org/web/20260618150604/https://help.unhcr.org/jordan/en/helpful-services-unhcr/registration-unhcr/).
+- <a id="n99"></a>N99. Immigration and Refugee Board of Canada (via ecoi.net), 1 May 2016. [Jordan: Whether a child born abroad to a Jordanian father is a Jordanian citizen](https://www.ecoi.net/en/document/1007367.html). Accessed 9 Nov 2026. Possibly outdated.
+- <a id="n100"></a>N100. UK Home Office / HM Passport Office, 22 Sep 2026. [Jordan: knowledge base profile](https://www.gov.uk/government/publications/jordan-knowledge-base-profile/jordan-knowledge-base-profile). Accessed 9 Nov 2026.
+- <a id="n101"></a>N101. Pressenza, 1 Oct 2026. [Children of Returned Migrant Mothers: Birth Registration and Education Halted Without Paternal Identity](https://www.pressenza.com/2026/10/children-of-returned-migrant-mothers-birth-registration-and-education-halted-without-paternal-identity/). Accessed 9 Nov 2026.
+- <a id="n102"></a>N102. Tamkeen Fields for Aid. [Contact us](https://www.tamkeen-jo.org/en/contact-us). Accessed 9 Nov 2026. Undated: possibly outdated.
+- <a id="n103"></a>N103. bdnews24.com, 17 Nov 2022. [Hundi in MFS: accounts of 480 agents suspended (Bangladesh Bank warning)](https://bangla.bdnews24.com/business/4m7x9zbdhw). Accessed 9 Nov 2026. Possibly outdated.
+- <a id="n104"></a>N104. Dutch-Bangla Bank PLC. [Remittance services for exchange houses (list of exchange companies and banks)](https://www.dutchbanglabank.com/services_company/remittance-exchange.html). Accessed 9 Nov 2026. Undated: possibly outdated.
+- <a id="n105"></a>N105. Mutual Trust Bank PLC, 14 May 2025. [Government Incentive on Wage Earners' Remittance](https://www.mutualtrustbank.com/government-incentive-on-wage-earners-remittance/). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n106"></a>N106. Hala Akhbar, 3 Apr 2025. [صدور تعديلات قانون الإقامة وشؤون الأجانب لسنة 2025 (Residence and Foreigners' Affairs amendment law 2025 published in the Official Gazette)](https://www.hala.jo/2025/04/03/صدور-تعديلات-قانون-الإقامة-وشؤون-الأج/). Accessed 9 Nov 2026. Possibly outdated.
+- <a id="n107"></a>N107. Al-Mamlaka TV, 8 Aug 2026. [Zyoud: 53 days left to regularise violating non-Jordanian workers, no extension](https://www.almamlakatv.com/news/206774-). Accessed 9 Nov 2026.
+- <a id="n108"></a>N108. Al-Mamlaka TV, 20 Aug 2026. [Ministry of Labour: 64,000 work permits issued and renewed since June 2026](https://www.almamlakatv.com/news/207764-). Accessed 9 Nov 2026.
+- <a id="n109"></a>N109. Al-Mamlaka TV, 11 Sep 2026. [17 days to regularise violating workers before deportation procedures begin](https://www.almamlakatv.com/news/209588-). Accessed 9 Nov 2026.
+- <a id="n110"></a>N110. Al-Mamlaka TV, 31 Aug 2026. [To avoid the deportation flag, Labour calls on violating workers to regularise](https://almamlakatv.com/news/208601-تجنبا-لإشارة-التسفير-العمل-تدعو-العمالة-المخالفة-لتصويب-أوضاعها). Accessed 9 Nov 2026.
+- <a id="n111"></a>N111. Bangla Tribune, 2 Jun 2026. [Jordan 'general amnesty announcement' a rumour: embassy](https://www.banglatribune.com/national/949558/%E0%A6%9C%E0%A6%B0%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%A8%E0%A7%87-%E2%80%98%E0%A6%B8%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A3-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%98%E0%A7%8B%E0%A6%B7%E0%A6%A3%E0%A6%BE%E2%80%99-%E0%A6%97%E0%A7%81%E0%A6%9C%E0%A6%AC-%E0%A6%A6%E0%A7%82%E0%A6%A4%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B8%C2%A0%C2%A0). Accessed 9 Nov 2026.
+- <a id="n112"></a>N112. New Age, 18 Jun 2026. [Jordan announces amnesty for undocumented Bangladeshis](https://www.newagebd.net/post/middle-east/303096/jordan-announces-amnesty-for-undocumented-bangladeshis). Accessed 9 Nov 2026.
+- <a id="n113"></a>N113. The Business Standard, 4 Jul 2020. [Embassy gift for detained Bangladeshis at Amman rehabilitation centre](https://www.tbsnews.net/bangladesh/embassy-gift-detained-bangladeshis-amman-rehabilitation-centre-101839). Accessed 9 Nov 2026. Possibly outdated.
+- <a id="n114"></a>N114. Jordan-Lawyer (legal information website), 20 Sep 2023. [قانون الضمان الاجتماعي مع كامل التعديلات (Social Security Law No. 1 of 2014)](https://jordan-lawyer.com/2013/09/08/jordan-social-welfare-law/). Accessed 9 Nov 2026. Possibly outdated.
+- <a id="n115"></a>N115. Jordan Times, 25 Feb 2018. [Autopsy report confirms Bangladeshi worker committed suicide](https://jordantimes.com/news/local/autopsy-report-confirms-bangladeshi-worker-committed-suicide’). Accessed 9 Nov 2026. Archived copy, Wayback Machine, 10 Oct 2018: [https://web.archive.org/web/20181010182444/http://www.jordantimes.com:80/news/local/autopsy-report-confirms-bangladeshi-worker-committed-suicide%E2%80%99](https://web.archive.org/web/20181010182444/http://www.jordantimes.com:80/news/local/autopsy-report-confirms-bangladeshi-worker-committed-suicide%E2%80%99). Possibly outdated.
+- <a id="n116"></a>N116. Jordan Times, 14 Mar 2016. [Bangladeshi embassy waiting for results of investigation into domestic helper's death](https://jordantimes.com/news/local/bangladeshi-embassy-waiting-results-investigation-domestic-helpers-death). Accessed 9 Nov 2026. Archived copy, Wayback Machine, 14 Apr 2016: [https://web.archive.org/web/20160414183322/http://www.jordantimes.com/news/local/bangladeshi-embassy-waiting-results-investigation-domestic-helpers-death](https://web.archive.org/web/20160414183322/http://www.jordantimes.com/news/local/bangladeshi-embassy-waiting-results-investigation-domestic-helpers-death). Possibly outdated.
+- <a id="n117"></a>N117. Prothom Alo, 22 Jan 2024. [প্রবাসে কেবল মৃত্যু হলেই বিমার টাকা সহজে পায় অভিবাসী কর্মী (Migrant workers easily get insurance money only when they die abroad)](https://www.prothomalo.com/bangladesh/e5seget393). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n118"></a>N118. Fibre2Fashion, Feb 2024. [Embassy helps 454 Bangladeshi RMG workers in Jordan get their dues](https://fibre2fashion.com/news/apparel-news/embassy-helps-454-bangladeshi-rmg-workers-in-jordan-get-their-dues-292835-newsdetails.htm). Accessed 9 Nov 2026. Possibly outdated.
+- <a id="n119"></a>N119. Jordan News, 26 Sep 2021. [Cash over JD10,000 must be declared, says Customs Department](https://jordannews.jo/Section-109/News/Cash-over-JD10-000-must-be-declared-says-Customs-Department-7656). Accessed 9 Nov 2026. Possibly outdated.
+- <a id="n120"></a>N120. The Business Standard, 2 Jun 2021. [Only 2% returnee migrants received reintegration loan](https://www.tbsnews.net/bangladesh/migration/only-2-returnee-migrants-received-reintegration-loan-254932). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n121"></a>N121. UNHCR Jordan (Help site), 19 May 2026. [Working in Jordan](https://help.unhcr.org/jordan/en/helpful-services-unhcr/working-in-jordan/). Accessed 9 Nov 2026. Archived copy, Wayback Machine, 15 Jun 2026: [https://web.archive.org/web/20260615084345/https://help.unhcr.org/jordan/en/helpful-services-unhcr/working-in-jordan/](https://web.archive.org/web/20260615084345/https://help.unhcr.org/jordan/en/helpful-services-unhcr/working-in-jordan/).
+- <a id="n122"></a>N122. Prothom Alo English (BSS), 20 Nov 2020. [Bangladesh urges Jordan to open embassy in Dhaka](https://en.prothomalo.com/bangladesh/bangladesh-urges-jordan-to-open-embassy-in-dhaka). Accessed 9 Nov 2026. Possibly outdated.
+- <a id="n123"></a>N123. OKUP. [Home page](https://okup.org.bd/). Accessed 9 Nov 2026. Undated: possibly outdated.
+- <a id="n124"></a>N124. OKUP, 2026. [Terms of reference (letterhead with contacts), 2026](https://hotjobs1.bdjobs.com/ovibashi-karmi-unnayan-program--okup-/ToR-52aa.pdf). Accessed 9 Nov 2026.

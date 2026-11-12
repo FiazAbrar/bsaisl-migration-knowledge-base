@@ -97,7 +97,7 @@ A Jordan garment job starts as a block of visas a factory gets within its quota 
 MOL lets each sector recruit within quotas for Jordanian and foreign workers, and garment factories may hire up to 75% of their workforce from abroad [A0111, A0049]. The factory's approved block appears in BMET's permission letter: for example block visa JO_1315, 125 visas issued on 21 April 2025 to Jerash Garments & Fashion Manufacturing in Amman, recruited by BOESL [A0102, A0101]. QIZ employers must keep an annual bank guarantee with MOL to secure workers' rights, and must send recruited workers home when the contract ends [A0110, A0109]. Each step, from the notice to the flight, is in Work visa: garment and factory worker [A0078].
 
 #### Who sells, and how
-- **Brokers selling a place in BOESL's test.** A broker asked one woman Tk 1.3 lakh for a Jordan garment job through BOESL, then lowered it to Tk 65,000; a worker alleged that brokers bribe BOESL interviewers and tell their candidates to wear a set nail-polish colour [A0104, A0087]. BOESL says it has no agents or sub-agents, chooses workers itself and takes no cash [A0074, A0075].
+- **Brokers selling a place in BOESL's test.** A broker asked one woman Tk 1.3 lakh for a Jordan garment job through BOESL, then lowered it to Tk 65,000; a worker alleged that some brokers bribe BOESL interviewers and tell their candidates to wear a set nail-polish colour [A0104, A0087]. BOESL says it has no agents or sub-agents, chooses workers itself and takes no cash [A0074, A0075].
 - **Fake garment visas.** In June 2026 the police CID (Criminal Investigation Department) arrested three at Surah Travels and Traders in Uttar Badda, Dhaka, which had no recruiting licence, used the name and seal of Jerash Garments of Amman and took Tk 2 to 2.5 lakh a person [A0156, A0157, A0160]. It came to light when the factory complained through the Bangladesh Embassy in Jordan [A0161].
 - **Private agencies with a real permission.** Al-Sourav Overseas' 2023 permission let it charge each man Tk 1,74,300, by cheque, bank draft or pay order, for a JD 125-a-month machine-operator job in Aqaba [A0084, A0085].
 - **Domestic work.** A Jordanian household recruits through an MOL-licensed office, whose guarantee for the worker lasts 90 days from her arrival [A0132, A0137]. Women report paying Dhaka agencies Tk 20,000 to Tk 1,20,000 for Jordan housemaid jobs [A0097, A0096, A0099]. A woman recruited by a fellow villager, who never knew which agency sent her, was taken from Amman airport and sold on a two-year "contract" to a man who sent women to hotels and houses (2020) [A0144, A0145].
@@ -118,7 +118,7 @@ MOL's free work permit for day labourers in farming, construction, loading and h
 Through BOESL a garment worker should pay almost nothing, but most workers have reported paying Tk 40,000 to 60,000 in all, some about Tk 80,000, and one broker asked Tk 65,000 for himself; she then earns at least JD 130 a month in cash plus food and a dormitory bed, more with overtime [A0071, A0089, A0104, A0023, A0058].
 
 #### The cap
-- **BOESL garment jobs.** In BOESL's November 2026 notice the company bears all costs; the worker pays Tk 200 for fingerprints and Tk 200 for PDO (pre-departure orientation), repaid by the company before departure [A0071]. A July 2026 notice also charged Tk 100 to apply online and Tk 1,000 for the medical [A0082, A0081].
+- **BOESL garment jobs.** In BOESL's November 2026 notice the company bears all costs; the worker pays Tk 200 for fingerprints and Tk 200 for PDO (pre-departure orientation), repaid by the company before departure [A0071]. For some highly skilled posts the worker bears extra cost [G0103]. A July 2026 notice also charged Tk 100 to apply online and Tk 1,000 for the medical [A0082, A0081].
 - **Private agency, men.** Tk 1,74,300 in Al-Sourav's 2023 permission [A0085].
 - **Women domestic workers.** The agencies the Ministry approved in September 2025 to send women domestic workers may take no migration cost from them [A0106].
 
@@ -795,12 +795,13 @@ The old permit is cancelled at the labour office with both you and the employer 
 2. **Papers:** on request the employer gives you a service certificate, certified by MOL, and returns any papers you deposited [KC0066, KC0067, KC0068].
 3. **Ticket:** the employer pays your ticket home and must send you back and prove you left [H0240, KC0089].
 4. **Cancel the permit:** the permit is cancelled at the labour office with you and the employer present; the final departure (exit without return) document costs JD 10 [KC0105, KC0086].
-5. **Social security lump sum:** under MOL's rules SSC pays only after MOL stamps a no-objection, which costs JD 10; apply for it within 3 months of your permit expiring, or the full permit fee is charged first [KC0095, KC0086, KC0094]. Holding the no-objection no longer stops you being issued a work permit in Jordan later [KC0096]. During the 2026 regularisation period SSC also takes the claim online under "Permanent Departure from the Country with No Return", while you are still in Jordan, without a visit to MOL or prior approvals, with a form for having the money sent abroad [H0102, H0101, H0104, H0103].
+5. **Social security lump sum:** under MOL's rules SSC pays only after MOL stamps a no-objection, which costs JD 10; apply for it within 3 months of your permit expiring, or the full permit fee is charged first [KC0095, KC0086, KC0094]. Holding the no-objection no longer stops you being issued a work permit in Jordan later [KC0096]. Migrant workers have been unable to withdraw their contributions without the employer's written consent [D0173]. During the 2026 regularisation period SSC also takes the claim online under "Permanent Departure from the Country with No Return", while you are still in Jordan, without a visit to MOL or prior approvals, with a form for having the money sent abroad [H0102, H0101, H0104, H0103].
 6. **Fines:** late-permit and overstay fines (see How long you can stay) are dealt with under Going home without valid papers; what you can bring home is under Coming home [KC0085, H0160].
 
 > **Need to know**
 > - Is the SSC online "permanent departure" claim still open after the 2026 regularisation period, and does it still skip MOL's no-objection?
 > - How long does SSC's transfer of the lump sum to a Bangladeshi bank take, and what does it cost?
+> - Does SSC or MOL still require the employer's written consent before a migrant worker can draw the lump sum, and what does a worker do if the employer refuses?
 
 **Employer tricks at the end of the job:**
 
@@ -927,6 +928,7 @@ For the first 90 days after the worker enters Jordan (or 30 days after she moves
    > - Where in Bangladesh is the pre-departure medical for Jordan done, and what does it cost?
    > - Does the Embassy attest housemaid visas or contracts for Jordan; with which papers, fee and processing time?
    > - If MOI refuses the visa or the household cancels it before travel, does the worker get back anything she paid, and can the refusal be appealed?
+   > - How long does a Jordan housemaid job take from the agency's selection to the flight?
 
 ### Step 6: BMET clearance, the smart card and a loan
 
@@ -1249,14 +1251,16 @@ The decision comes by account, SMS or email [V0037].
 
 In January 2025 MOI let foreign nationals living in a GCC country (the Gulf Cooperation Council: Saudi Arabia, the UAE, Qatar, Kuwait, Oman, Bahrain), the US, Canada, Australia, Japan, South Korea or any European country enter without prior approval if they hold a residence there valid at least four months, down from six [KE0006]. For nationals who still need prior approval, the decision names only Arab nationals: those living in a country whose citizens need no approval are treated like that country's citizens, if their residence there is valid four months [KE0007]. Before the change, Jordan's embassy in Japan told residents of Japan that the residence exception did not cover Bangladeshi passport holders, who still needed prior approval [KE0010]. MOI's own visit-visa rules still expect a Bangladeshi living in a third country to come through a host's application, attaching his residence there and his exit and re-entry visa [V0028, V0029].
 
-Two other rules from the same decision:
+Other rules from the same decision:
 
 - **Schengen or US visa holders** may enter whether or not they have used that visa [KE0008].
+- **Five-year visa:** "eligible travellers" get a five-year multiple-entry visa at the border crossing, up to three months a visit, without prior security clearance [V0019].
 - **Domestic workers** who travel with a Jordanian employer living in the Gulf, or with a GCC-national employer, enter with the employer and get a three-month residence at the border [KE0009].
 
 > **Need to know**
 > - Can a Bangladeshi worker resident in Saudi Arabia or another GCC country enter Jordan without prior approval since 2025, or must a host still apply for a visit visa?
 > - Does the Schengen/US visa rule cover Bangladeshi passport holders?
+> - Who counts as an "eligible traveller" for the five-year border visa, and can a Bangladeshi passport holder get it?
 
 MOI's visit-visa rules cover a Bangladeshi living in the Gulf through a host's application, and working on that visa gets you deported [V0023, V0028, V0073].
 
@@ -1643,7 +1647,7 @@ Sex outside marriage (zina) is a crime in Jordan, prosecutable when a spouse or 
 
 What happens to migrant domestic workers:
 
-- **Detention after birth:** they are particularly at risk of detention and deportation if they give birth in a Jordanian hospital [V0193]. A Bangladeshi domestic worker was held in Juweideh women's prison for four and a half months for zina and gave birth there; the governor told her she would be released only if the father married her [V0195, V0196].
+- **Detention after birth:** they are particularly at risk of detention and deportation if they give birth in a Jordanian hospital [V0193]. Hospital staff are not obliged to report an unmarried pregnant woman over 18 unless rape is suspected, but in some hospitals a doctor may still tell the police [V0203]. A Bangladeshi domestic worker was held in Juweideh women's prison for four and a half months for zina and gave birth there; the governor told her she would be released only if the father married her [V0195, V0196].
 - **Separation:** detained workers risk being deported without their children, who are taken into state care by the PSD's Family Protection Department and the Ministry of Social Development, although no law requires it [V0197, V0199, V0198]. Adoption is not allowed in Jordan [V0187].
 - **Home births and no papers:** Tamkeen knew of 20 cases in two years of unmarried domestic workers who gave birth at home and could not register the child without a marriage certificate [V0200]. An unregistered child cannot get health care or school and is in effect stateless [V0201].
 - **After return:** a Bangladeshi woman back from Jordan could not register her daughter's birth in Bangladesh or enrol her in a government primary school [V0205, V0204].
@@ -1754,7 +1758,7 @@ The family can also call WEWB's Probash-Bondhu call centre: 16135 in Bangladesh,
 
 ### The 2026 regularisation
 
-Jordan's Cabinet decided on 8 June 2026, and the Labour Minister announced on 14 June, a period for workers of all nationalities in breach of the labour and residence laws to put their status right or leave, running to 30 September 2026 [KF0001, R0152]. On 6 October 2026 the Cabinet extended it to 1 December 2026 for workers in all sectors, domestic workers included, who came to Jordan to work and held a work permit before [KF0001, KF0002]. MOL said about 49,000 workers in breach were registered with it; by 20 August it had issued or renewed about 64,000 work permits, and about 2,400 workers had left Jordan for good [R0166, R0170, R0169].
+Jordan's Cabinet decided on 8 June 2026, and the Labour Minister announced on 14 June, a period for workers of all nationalities in breach of the labour and residence laws to put their status right or leave, running to 30 September 2026 [KF0001, R0152]. On 6 October 2026 the Cabinet extended it to 1 December 2026 for workers in all sectors, domestic workers included, who came to Jordan to work and held a work permit before [KF0001, KF0002]. The extension also applies in the Aqaba Special Economic Zone [KF0005]. MOL said about 49,000 workers in breach were registered with it; by 20 August it had issued or renewed about 64,000 work permits, and about 2,400 workers had left Jordan for good [R0166, R0170, R0169].
 
 **If you leave for good ("exit without return"):**
 - All work-permit fees and fines for past periods are waived up to the day you leave [KA0004, R0158].
@@ -1776,6 +1780,7 @@ Jordan's Cabinet decided on 8 June 2026, and the Labour Minister announced on 14
 > **Need to know**
 > - Can a garment worker from a QIZ factory whose permit lapsed less than two years ago use the exit-without-return waiver, given that the decision excludes the QIZ garment sector [R0153, KA0004]?
 > - Does the October 2026 extension, which names workers "in all sectors", keep the exclusion of QIZ garment workers [KF0001, R0153]?
+> - Does the extension's coverage of the Aqaba Special Economic Zone include garment workers in Aqaba's factories [KF0005, R0153]?
 > - Which office does a worker go to, with which papers, to have the file "settled" before flying, and does the Embassy help [KF0009]?
 
 **After the deadline:** the Cabinet decision provides for catching and deporting any worker who has not regularised after 1 January 2027, and from that date MOL puts an electronic deportation flag on every such worker [KF0004, R0176]. The flag blocks any renewal until all past fines and fees are paid in full, and an employer who then wants to keep the worker must apply to MOL and pay JD 5,000 to lift it [R0168, R0174]. The flag bars entry to Jordan for 5 years [R0173].
@@ -2012,7 +2017,7 @@ Up to USD 10,000 in foreign currency comes in without declaring, and that amount
 - **Bangladesh Embassy, Amman:** Ibrahim Al-Ghozlani Street, Villa 7, Um Uthaina, Amman; P.O. Box 5685, Amman 11183; +962 6 5529192-93; fax +962 6 5529194; mission.amman@mofa.gov.bd [R0124, R0125]. Consular services Sunday-Thursday 08:00-16:00, with a prayer and lunch break 13:00-14:00; closed Friday and Saturday [R0126]. First Secretary Ummay Salma: +962 6 5529192 [R0127]. The Embassy holds consular tours to Irbid, Aqaba and Al Dulayl [V0222].
 - **Embassy labour wing:** First Secretary (Labour), +962-655-29192, mobile +962-7896-06415, fsamman@probashi.gov.bd [R0128].
 - **Emergency:** 911; for domestic violence or sexual assault, ask for the Family Protection Directorate (part of the police) [R0244, R0245].
-- **MOL:** free line for work-permit and Labour Law questions 080022208; complaints and questions by WhatsApp 06-2221020 or 06-2221239; National Contact Centre 06-5008080, 24 hours; online complaints on the Hemayah platform, complaint.hemayeh.jo (keep the complaint number to follow it up); offices at 11 Issa Al-Naouri Street, Amman, Sunday-Thursday 8:30 am-3:30 pm [H0195, H0192, H0191, H0190, H0193]. Interpreters for some Asian languages are not always available [R0253].
+- **MOL:** free line for work-permit and Labour Law questions 080022208; complaints and questions by WhatsApp 06-2221020 or 06-2221239; National Contact Centre 06-5008080, 24 hours; online complaints on the Hemayah platform, complaint.hemayeh.jo (keep the complaint number to follow it up); offices at 11 Issa Al-Naouri Street, Amman, Sunday-Thursday 8:30 am-3:30 pm [H0195, H0192, H0191, H0190, H0193]. The labour-law line's numbers by mobile network: Zain 0796580666, Orange 0777580666, Umniah 0785602666; after 3:30 pm an answering machine takes complaints [R0235, R0236]. Interpreters for some Asian languages are not always available [R0253].
 - **SSC:** check contributions and claim online at eservices.ssc.gov.jo [R0219, R0183].
 - **Tamkeen Fields for Aid** (legal aid for migrant workers): Madinah Street, Building 197, 3rd floor, offices 306-307, Amman; +962 6 5539501; info@tamkeen-jo.org [R0234].
 - **ARDD Legal Aid** (legal advice and mediation): 064617477, Sunday-Thursday 9 am-6 pm [R0237].

@@ -119,6 +119,10 @@ BCA also approves these centres to run training courses [C0043]. Only firms on B
 - In September 2026 State Minister for Expatriates' Welfare Nurul Haque Nur said six companies in Singapore effectively monopolise recruitment and that workers are reportedly charged up to Tk 16 lakh where the cost should be about Tk 4 to 5 lakh; he said the government would summon the agencies and had discussed costs with BCA [C0163, C0164].
 - On 30 September 2026 the Ministry's secretary told workers at the High Commission that complaints against the "OTC-centred syndicate" of local agencies would be investigated [C0135].
 
+> **Need to know**
+> - Which six companies in Singapore did the State Minister say monopolise recruitment, and are they the Singapore firms behind the five BCA test centres?
+> - Did the government summon the agencies after September 2026, and with what result?
+
 #### Down the chain
 
 Below the licensed chain sit private training centres, many advertising on Facebook with promises such as "train and get a Singapore job paying Tk 1 lakh" [C0114]. Some centres took Tk 38,000 to 40,000 at admission against a package of about Tk 6 lakh, kept the worker's passport, and demanded Tk 1.5 to 2 lakh more after the training or test; one centre's website now lists one-month courses at Tk 12,000 [C0109, C0110, C0111, C0194]. BMET's director of training said in 2021 that its 60 training centres train for a nominal fee, but workers go to private ones for lack of knowledge [C0113]. The "agent" a worker pays may be a friend, a contact at the training centre or an employee of the future employer [C0095]. From November 2025 TWC2 (Transient Workers Count Too, a Singapore migrant-worker charity) registered 114 unpaid Bangladeshi first-timers from three connected companies; most believed the bulk of what they paid went to their Singapore bosses, and one was told by his agent that his Tk 10 lakh had been handed to a boss [C0079, C0080, C0081]. Those three companies had no projects of their own and hired the men out to other firms as "supply workers" [C0082]. For later jobs about half of workers paid part or all of the fee to someone in Singapore, sometimes the employer himself [C0092]. Workers said in 2021 that Bangladeshis in Singapore trade visas, selling each for lakhs of taka [C0115].
@@ -133,7 +137,7 @@ A kickback is money an employer or his managers demand from a worker, with the t
 - *Lian Cheng Contracting.* Operations manager Derrick Ho was jailed 24 weeks in 2024 for taking S$1,500 for each one-year renewal (S$3,000 for two years) from 57 workers, nearly S$400,000 in all; the four worker-supervisors who collected for him were warned and barred from Singapore [C0085, C0086, C0087]. One worker paid about S$15,000 over 12 years and did not see his family in that time [C0088].
 - *Weishen Industrial Services.* Loo Kim Huat, a director of its managing company WIS Holdings, was fined S$90,000, plus a S$42,000 penalty order, in July 2025 for collecting S$112,400 from 18 workers, S$900 to 7,000 each, to renew their passes, together with a former site manager, two conservancy workers and a Bangladesh-based agent; he repaid S$83,050 to the workers [C0142, C0143, KA0005].
 
-TWC2 says kickbacks were commonplace ten years ago and are fewer now, but that "churn" can bring employers the same money: the employer declines to renew and hires a new worker, whose agent fee, paid at home, is shared with the employer [C0077, C0089]. MOM says it will help a worker who reports a kickback change employer (see Changing employer or leaving) [C0076].
+Kickbacks were commonplace ten years ago and are fewer now, but "churn" can bring employers the same money: the employer declines to renew and hires a new worker, whose agent fee, paid at home, is shared with the employer [C0077, C0089]. MOM helps a worker who reports a kickback to change employer (see Changing employer or leaving) [C0076].
 
 #### The Weltec case
 
@@ -194,7 +198,7 @@ You are tied to your employer for everything: the Work Permit lets you work only
 - **Entering.** The IPA names one company and one occupation, and the employer cannot move you to another [C0137].
 - **Renewing.** The employer decides, and has priority to renew; from 2028 a new construction worker must also pass the SEC(K) in Singapore to be renewed [C0155, C0037]. "Renewal money" is a crime (see Kickbacks and renewal money) [C0197].
 - **Quitting.** The employer cancels the permit within a week of your last day of notice, buys a one-way ticket for a flight within 14 days, and gives you a Special Pass to stay until then; you cannot work while you wait [C0146, C0156, C0157].
-- **Changing employer.** A new construction employer can hire you only with your current employer's consent, given within 7 days, unless your permit is 40 to 21 days from expiry [C0153, C0154]. A shipyard worker cannot move to another sector inside Singapore, and TWC2 says Seatrium, the largest shipyard operator, makes it hard to move between its contractors [C0188, C0187]. MOM helps a worker who reports a kickback to change employer, and MWC helped the unpaid workers of 2026 apply to change employer (see Changing employer or leaving) [C0076, C0019].
+- **Changing employer.** A new construction employer can hire you only with your current employer's consent, given within 7 days, unless your permit is 40 to 21 days from expiry [C0153, C0154]. A shipyard worker cannot move to another sector inside Singapore, and TWC2 says Seatrium, the largest shipyard operator, makes it hard to move between its contractors [C0188, C0187]. MOM helps a worker who reports a kickback to change employer, and MWC is helping the unpaid workers of November 2026 apply to change employer, both those hired at the job fair and those who found new jobs on their own (see Changing employer or leaving) [C0076, C0019].
 - **Leaving.** The employer must pay your ticket home whatever the reason the job ended [C0158].
 
 *Rules on your life.* You must live where the employer says, may not run a business, and may not marry a Singapore citizen or permanent resident without MOM's approval [C0147]. The employer pays a S$5,000 security bond for you and may not charge it to you; if the employer does not pay your salary, the bond can pay your arrears and flight home, but only up to about S$5,000 a worker [C0149, C0084].
@@ -275,7 +279,7 @@ The Ministry set the total migration cost for Singapore at Tk 2,62,270 on 27 Jul
 
 #### How to pay
 
-Pay the Bangladeshi agency only through the bank, into the agency's own bank account, and keep every receipt [B0048]. One worker whose training centre gave no receipts had no proof of what he paid (Work Permit, Scams) [R0210].
+Pay the Bangladeshi agency only through the bank, into the agency's own bank account, and keep every receipt [B0048]. One worker whose training centre gave no receipts had no proof of what he paid (see Scams) [R0210].
 
 ### Step 1: Check you qualify and which jobs are open
 
@@ -929,6 +933,7 @@ Some people talk injured workers into withdrawing their WICA claim so that a law
 - **Passport or Work Permit card kept, salary cut, or work in another job:** report to MOM on 6438 5122 or at the MOM Services Centre, 1500 Bendemeer Road [E0024, E0183]. The employer must return your passport when you ask [E0109].
 - **Bad housing:** report to MOM [E0079].
 - **Kickbacks** (being made to pay to keep your job or renew your permit): report to MOM [E0022].
+- **If you must stay in Singapore to help an investigation:** the investigating agency gives you a Special Pass, and you are generally allowed to work under the Temporary Job Scheme (TJS); you don't apply: you are told if you are eligible, and a new employer applies to MOM for a TJS work permit to hire you [E0287, E0288]. MOM refers eligible Special Pass holders who need help finding a job to employment agencies, and helps those who can't pay for their upkeep [E0290, E0289].
 - **At any hour:** the MWC helpline 6536 2692, in about 10 languages, and HealthServe's crisis line +65 3129 5000 [E0299, E0116].
 
 #### If your employer tries to send you home early
@@ -1046,7 +1051,7 @@ You can bring a spouse and children on a Dependant's Pass only if your fixed mon
 - **Medical insurance:** the employer must buy cover of at least S$60,000 a year before the pass is issued or renewed, and can't pass the cost to you [P0029, P0091]. You can be asked to co-pay medical bills only up to 10% of your fixed monthly salary, for no more than 6 months in every 2 years, and only if your contract says so and you fully agree [P0030, KD0003, KD0004].
 - **Primary Care Plan:** compulsory if you live in a dormitory for 7 or more workers or work in construction, marine shipyard or process [P0031].
 
-For a construction employer, the S Pass levy of S$650 a month is lower than the S$900 levy for a basic-skilled Bangladeshi construction worker on a Work Permit, and the S Pass needs no bond or skills certificate [P0090, R0007, P0028, P0114]. Only the S$3,300 minimum salary is higher [P0002].
+For a construction employer, the S Pass levy of S$650 a month is lower than the S$900 levy for a basic-skilled Bangladeshi construction worker on a Work Permit, and the S Pass needs no bond or skills certificate [P0090, R0007, P0028, P0114]. The S Pass minimum salary, S$3,300, is higher [P0002].
 
 ### Step 1: The employer advertises the job on MyCareersFuture
 
@@ -1897,7 +1902,7 @@ MOM deals only with the employer, or the agent that applied, on an EP applicatio
 - **In person:** MOM's Employment Pass Services Centre (EPSC), The Riverwalk, 20 Upper Circular Road, #04-01/02, Singapore 058416, Monday to Friday 8 am to 5.30 pm, by appointment [KG0030, KG0031, P0153].
 - **In writing:** MOM's online form "About Employment Pass, S Pass & other passes", on its Feedback and enquiries page (mom.gov.sg/contact-us/feedback-and-enquiries) [KG0032].
 
-The EPSC also issues the ONE Pass and the Tech.Pass [KG0006, KG0025].
+The EPSC also issues the Tech.Pass, and the ONE Pass for candidates without Singpass [KG0006, KG0025].
 
 ### ONE Pass (Overseas Networks and Expertise Pass)
 
@@ -2270,7 +2275,7 @@ How salary must be paid is under Work Permit, Your rights at work, "When and how
 
 Bangladesh's government asks workers to send money only through legal channels, never hundi (informal transfer through unlicensed agents) [B0070]. Money sent through legal channels earns the receiver a 2.5% government cash incentive, sometimes with a further 2.5% from the bank, and the 2026-27 budget keeps the government incentive [B0216, B0071].
 
-In Singapore, every remittance business needs a MAS licence under the Payment Services Act, unless exempted; the penalties for unlicensed remittance are under What can get you jailed or deported (see "Money: hundi, moneylenders, bank accounts and SIM cards") [B0246, B0250]. Hundi in the dormitories is prosecuted: in September 2024 police charged a 38-year-old man who, from 2021 to 2023, collected cash from construction workers in a dormitory and had his family in Bangladesh pay out the taka (over S$118,000), and a 33-year-old Bangladeshi who ran the same scheme from 2020 to 2022 [B0251, B0252]. In April 2026 two Indian men were charged after a 2025 police raid on Norris Road: remittances through one man's operations allegedly totalled more than S$38.6 million, police seized more than S$314,000 in cash and 30 ATM cards, and the other held 22 ATM cards belonging to other Indian nationals [B0254, B0255]. The police tell people to use only banks and remittance companies licensed by MAS, because unlicensed ones are not regulated [B0253].
+In Singapore, every remittance business needs a MAS licence under the Payment Services Act, unless exempted; the penalties for unlicensed remittance are under What can get you jailed or deported (see "Money: hundi, moneylenders, bank accounts and SIM cards") [B0246, B0250]. Hundi in the dormitories is prosecuted: in September 2024 police charged a 38-year-old man who, from 2021 to 2023, collected cash from construction workers in a dormitory and had his family in Bangladesh pay out the taka (over S$118,000), and a 33-year-old Bangladeshi who ran the same scheme from 2020 to 2022 [B0251, B0252]. In April 2026 two Indian men were charged after a 2025 police raid on Norris Road: remittances through one man's operations allegedly totalled more than S$38.6 million, police seized more than S$314,000 in cash and 30 ATM cards, and the other held 22 ATM cards belonging to other Indian nationals [B0254, B0255]. Only banks and remittance companies licensed by MAS are regulated; unlicensed ones are not [B0253].
 
 **Never lend, sell or "rent out" your bank account, ATM card or iBanking login:** letting anyone else use your POSB account is prohibited by the bank, and the penalties for money mules, up to caning, are under What can get you jailed or deported (see "Money: hundi, moneylenders, bank accounts and SIM cards") [B0244, B0258].
 
