@@ -6,38 +6,6 @@ JD is the Jordanian dinar; Tk is the Bangladeshi taka (1 lakh is Tk 100,000). Jo
 
 *Money in this doc.* JD 1 is about Tk 170, the rate BOESL (Bangladesh Overseas Employment and Services Ltd, the government-owned recruiting agency) uses in its 2026 Jordan notices [A0018]. The Central Bank of Jordan has kept the dinar fixed to the US dollar since 1995, at about JD 0.709 to USD 1 (so JD 1 is about USD 1.41), and Bangladesh Bank's rate on 19 October 2026 was USD 1 = Tk 123.65 [A0017, KA0001, A0016]. Amounts are given in the currency the source uses.
 
-## Start here
-
-If you have never been abroad, read this first. Every point is set out in full further down.
-
-### Can you go now?
-
-Yes, mainly as a woman garment worker. Of the 13,829 workers cleared for Jordan from 1 January to 8 November 2026, 12,784 were women [A0001, A0003]. Since 1 June 2026 Jordan takes new workers from abroad only for garment factories, homes, specialised skills and a few other cases [A0125, D0096]. Anyone caught working without a valid permit, or for a different employer, is deported [A0135].
-
-### Your first five steps
-
-1. Register on OEP, BMET's online system, at employee.oep.gov.bd (Work visa: garment and factory worker, Step 1) [G0158].
-2. Get an e-passport: Tk 4,025 for 5 years, regular delivery (Step 2) [G0130].
-3. Find a Jordan garment notice on BOESL's own website, boesl.gov.bd; BOESL, the government's recruiting agency, selects workers itself and takes no cash (Step 1) [G0106, A0074, A0075].
-4. Do the medical and fingerprints at BOESL and the 3-day pre-departure orientation (Step 4) [G0005, G0023, G0164].
-5. Get BMET clearance, the smart card, before you fly (Step 4) [G0144].
-
-### What it costs
-
-On BOESL's garment route the factory pays the costs: BOESL called for 5,000 women garment workers in March 2026 "at no cost" [A0078, A0071]. Fake "garment visas" sold by unlicensed travel agencies have cost people Tk 2 to 2.5 lakh [A0156].
-
-### Three scams to watch for
-
-- *A broker who sells you a place in BOESL's test:* one asked a woman for Tk 1.3 lakh and took Tk 65,000 [A0104].
-- *A "Jordan visa" from a travel agency in a real factory's name:* police arrested three people at one such agency in June 2026 [A0156].
-- *A housemaid job that turns into confinement:* one woman was taken from the airport and sold on a two-year "contract" [A0145].
-
-### Who to call
-
-- In Bangladesh: Probash-Bondhu, 16135, free, or +8809610102030 from abroad [G0119].
-- The Bangladesh Embassy in Amman: +962 6 5529192/3, mission.amman@mofa.gov.bd [D0149].
-- In Jordan: the Ministry of Labour's Hemayah complaint platform, complaint.hemayeh.jo [H0249].
-
 ## Background
 
 ### In one minute
@@ -562,79 +530,51 @@ Complain about an agency or a broker to BMET or the Ministry (below), and about 
 
 #### Done to workers
 
-##### Paying a broker to "get you into BOESL"
+**Paying a broker to "get you into BOESL":** BOESL's Jordan route costs a worker a few thousand taka [G0005, G0016], yet brokers (dalal) charge for it: in one case Tk 130,000, lowered to Tk 65,000 and borrowed from three people, for a woman who believed she could not pass BOESL's test without him [G0200, G0201, G0202]. A worker claimed some brokers bribe BOESL's interviewers and tell candidates to wear a certain nail-polish colour on a certain finger to be recognised [G0203, G0204]. Brokers tell clients to hide the deal from the factory [G0206]. Recruits say brokers run off with money and passports [G0093]. **Protection:** BOESL has no agents or sub-agents, takes no cash and charges nothing before final selection [G0018, G0010]; apply as in Step 1.
 
-BOESL's Jordan route costs a worker a few thousand taka [G0005, G0016], yet brokers (dalal) charge for it: in one case Tk 130,000, lowered to Tk 65,000 and borrowed from three people, for a woman who believed she could not pass BOESL's test without him [G0200, G0201, G0202]. A worker claimed some brokers bribe BOESL's interviewers and tell candidates to wear a certain nail-polish colour on a certain finger to be recognised [G0203, G0204]. Brokers tell clients to hide the deal from the factory [G0206]. Recruits say brokers run off with money and passports [G0093]. **Protection:** BOESL has no agents or sub-agents, takes no cash and charges nothing before final selection [G0018, G0010]; apply as in Step 1.
+**Touts at the test centres:** Women gather in Dhaka's Technical area for BOESL's free Jordan service, and cheats there took as much as Tk 5 to 10 lakh from many of them; in October 2026, 20 were arrested in Shyamoli and sentenced by a mobile court [G0214, G0113, G0215, G0114]. **Protection:** pay no one at the centre; BOESL says to avoid any transaction [G0027].
 
-##### Touts at the test centres
+**Fake Jordan factory jobs:** In June 2026 the CID arrested three people of Surah Travels and Traders, Uttar Badda, Dhaka, an unlicensed travel agency that advertised on Facebook, forged the name, logo and seal of Jerash Garments of Amman, and took Tk 2 to 2.5 lakh per person; 55 passports and contracts on stamp paper were seized [G0109, G0110, G0111, G0112]. The factory itself complained through the Embassy [G0111]. **Protection:** check the agency on OEP and the permission letter (Step 1, item 6); a real BOESL job is on boesl.gov.bd [G0120, G0106].
 
-Women gather in Dhaka's Technical area for BOESL's free Jordan service, and cheats there took as much as Tk 5 to 10 lakh from many of them; in October 2026, 20 were arrested in Shyamoli and sentenced by a mobile court [G0214, G0113, G0215, G0114]. **Protection:** pay no one at the centre; BOESL says to avoid any transaction [G0027].
+**Unlicensed agency, cancelled licence or unregistered broker:** Advertising overseas jobs without government or BMET approval is an offence [G0151]. An agency's OEP row can read "Cancelled" though its date is years ahead [G0123]. Only a registered sub-agent may collect workers for an agency [G0125, G0126]. **Protection:** check the agency and the broker as in Step 1, item 6 [G0120, G0127].
 
-##### Fake Jordan factory jobs
+**Wage lower than promised:** Women told at BOESL they would get JD 125 to 150 were paid JD 99 to 130; others were told about Tk 20,000 and got about Tk 15,000 [G0096, G0209]. **Protection:** read the contract and the BMET letter (Step 1, item 6; Step 4, item 4); complaints in Jordan are under If something goes wrong.
 
-In June 2026 the CID arrested three people of Surah Travels and Traders, Uttar Badda, Dhaka, an unlicensed travel agency that advertised on Facebook, forged the name, logo and seal of Jerash Garments of Amman, and took Tk 2 to 2.5 lakh per person; 55 passports and contracts on stamp paper were seized [G0109, G0110, G0111, G0112]. The factory itself complained through the Embassy [G0111]. **Protection:** check the agency on OEP and the permission letter (Step 1, item 6); a real BOESL job is on boesl.gov.bd [G0120, G0106].
-
-##### Unlicensed agency, cancelled licence or unregistered broker
-
-Advertising overseas jobs without government or BMET approval is an offence [G0151]. An agency's OEP row can read "Cancelled" though its date is years ahead [G0123]. Only a registered sub-agent may collect workers for an agency [G0125, G0126]. **Protection:** check the agency and the broker as in Step 1, item 6 [G0120, G0127].
-
-##### Wage lower than promised
-
-Women told at BOESL they would get JD 125 to 150 were paid JD 99 to 130; others were told about Tk 20,000 and got about Tk 15,000 [G0096, G0209]. **Protection:** read the contract and the BMET letter (Step 1, item 6; Step 4, item 4); complaints in Jordan are under If something goes wrong.
-
-##### Pregnancy tests
-
-New recruits have been pregnancy-tested, which Jordan's garment exporters asked the Embassy and BOESL to stop [G0079, G0080].
+**Pregnancy tests:** New recruits have been pregnancy-tested, which Jordan's garment exporters asked the Embassy and BOESL to stop [G0079, G0080].
 
 > **Need to know**
 > - Is a pregnancy test still part of the Bangladesh medical for Jordan in 2026?
 
-##### Loans at crushing interest
-
-Recruits borrowed at up to Tk 100 a day, or Tk 200 per thousand [G0095]. **Protection:** PKB's loan at 9% a year (Step 5) [G0181].
+**Loans at crushing interest:** Recruits borrowed at up to Tk 100 a day, or Tk 200 per thousand [G0095]. **Protection:** PKB's loan at 9% a year (Step 5) [G0181].
 
 #### Tried by workers
 
-##### A changed age on the passport
+**A changed age on the passport:** BOESL's notices take women aged 20 to 39, depending on the notice, and Jordan's recruitment age for migrant workers is 18 [G0025, G0002, G0086]. One woman was 16 when she arrived after changing the age on her passport, and another paid a Tk 10,000 bribe for her passport because she looked young [G0208, G0207]. In 2024 Better Work found three suspected child-labour cases, all with falsified dates of birth in the passport, and reported them to MOL [G0084]. Getting a visa or work permit by illegal means is a crime in Bangladesh [G0152].
 
-BOESL's notices take women aged 20 to 39, depending on the notice, and Jordan's recruitment age for migrant workers is 18 [G0025, G0002, G0086]. One woman was 16 when she arrived after changing the age on her passport, and another paid a Tk 10,000 bribe for her passport because she looked young [G0208, G0207]. In 2024 Better Work found three suspected child-labour cases, all with falsified dates of birth in the passport, and reported them to MOL [G0084]. Getting a visa or work permit by illegal means is a crime in Bangladesh [G0152].
-
-##### A second passport or a hidden court case
-
-BOESL asks you to bring all your passports if you have more than one, and rejects anyone with a case in Bangladesh or Jordan [G0004, G0021].
+**A second passport or a hidden court case:** BOESL asks you to bring all your passports if you have more than one, and rejects anyone with a case in Bangladesh or Jordan [G0004, G0021].
 
 ### Your rights at work
 
 #### Contract
 
-##### Which law covers you
+**Which law covers you:** Jordan's Labour Law (Law No. 8 of 1996, as amended) applies to all workers and employers except public servants and municipal employees; agricultural workers and domestic workers, cooks and gardeners fall under a separate regulation (see Work visa: domestic worker) [KC0001, KC0002]. Any clause in which you give up a right the law gives you is void [KC0003]. Garment factories are also bound by the sector's collective bargaining agreement (CBA, a written agreement on pay and conditions between employers' associations and the union), which covers every worker in a covered factory whether or not they joined the union [H0004, H0016].
 
-Jordan's Labour Law (Law No. 8 of 1996, as amended) applies to all workers and employers except public servants and municipal employees; agricultural workers and domestic workers, cooks and gardeners fall under a separate regulation (see Work visa: domestic worker) [KC0001, KC0002]. Any clause in which you give up a right the law gives you is void [KC0003]. Garment factories are also bound by the sector's collective bargaining agreement (CBA, a written agreement on pay and conditions between employers' associations and the union), which covers every worker in a covered factory whether or not they joined the union [H0004, H0016].
-
-##### Your contract
-
-The law requires a further copy of the contract in a foreign language for a worker who is not of an Arab nationality [KC0004]. Garment factories use the Unified Work Contract for Migrant Workers, issued by the Jordan Garments, Accessories & Textiles Exporters Association, the Association of Owners of Factories, Workshops and Garments and the garment workers' union [H0007]. It is made in Arabic and a language you choose, in three copies: one for you, one for the employer and one kept by MOL for your work permit [H0006]. It runs 3 years from the day you arrive, and the employer pays for your residence and work permits [H0008, H0009]. You pay no fee to anyone for the job or travel except the official costs in Bangladesh (see the steps for this visa) [H0045]. The employer may move you to another of its branches in Jordan with one week's written notice, without cutting your pay [H0010]. Probation lasts at most 3 months at no less than the minimum wage, and during it the employer may end your job without notice or end-of-service pay [KC0005, KC0006].
+**Your contract:** The law requires a further copy of the contract in a foreign language for a worker who is not of an Arab nationality [KC0004]. Garment factories use the Unified Work Contract for Migrant Workers, issued by the Jordan Garments, Accessories & Textiles Exporters Association, the Association of Owners of Factories, Workshops and Garments and the garment workers' union [H0007]. It is made in Arabic and a language you choose, in three copies: one for you, one for the employer and one kept by MOL for your work permit [H0006]. It runs 3 years from the day you arrive, and the employer pays for your residence and work permits [H0008, H0009]. You pay no fee to anyone for the job or travel except the official costs in Bangladesh (see the steps for this visa) [H0045]. The employer may move you to another of its branches in Jordan with one week's written notice, without cutting your pay [H0010]. Probation lasts at most 3 months at no less than the minimum wage, and during it the employer may end your job without notice or end-of-service pay [KC0005, KC0006].
 
 #### Pay and deductions
 
-##### Minimum wage
-
-The national minimum wage of JD 290 a month, in force from 1 January 2025 to 31 December 2027, does not apply to garment workers, whose minimum is set by the sector CBA [KC0113, H0013, H0014]. The 2025 CBA set it at JD 230 from 1 January 2025 [H0015]. For migrant workers this is split into at least JD 130 cash and JD 100 "in kind" for accommodation and food [H0019]. Migrant workers already on JD 230 or more were excluded from the 2025 rise, while Jordanian workers on JD 230-400 got a one-off JD 10 seniority bonus in 2025 and, from 1 January 2026, JD 5 more after one year's service [H0020, H0021]. The union signed the 2025 CBA without consulting its members [H0022]. In practice JD 100 is taken from the JD 230 automatically, and of the January 2025 rise of JD 10 only JD 5 reached workers' cash pay [H0023, H0024]. An employer paying below the minimum is fined JD 500-1,000 per case and must pay the difference; the fine doubles on each repeat [H0026, KC0007].
+**Minimum wage:** The national minimum wage of JD 290 a month, in force from 1 January 2025 to 31 December 2027, does not apply to garment workers, whose minimum is set by the sector CBA [KC0113, H0013, H0014]. The 2025 CBA set it at JD 230 from 1 January 2025 [H0015]. For migrant workers this is split into at least JD 130 cash and JD 100 "in kind" for accommodation and food [H0019]. Migrant workers already on JD 230 or more were excluded from the 2025 rise, while Jordanian workers on JD 230-400 got a one-off JD 10 seniority bonus in 2025 and, from 1 January 2026, JD 5 more after one year's service [H0020, H0021]. The union signed the 2025 CBA without consulting its members [H0022]. In practice JD 100 is taken from the JD 230 automatically, and of the January 2025 rise of JD 10 only JD 5 reached workers' cash pay [H0023, H0024]. An employer paying below the minimum is fined JD 500-1,000 per case and must pay the difference; the fine doubles on each repeat [H0026, KC0007].
 
 > **Need to know**
 > - What do Bangladeshi garment workers actually take home a month in 2026, with overtime, after the JD 100 food-and-housing deduction?
 > - Is the JD 100 in-kind deduction still the figure in 2026, or has a later CBA changed it?
 
-##### When and how you are paid
-
-Wages and overtime must be paid within 7 days of falling due [KC0008]. Under the unified contract the employer pays in cash or by bank or electronic transfer, as agreed with you [H0030]. With each payment you get a payslip showing wage, allowances, deductions and overtime hours and pay, in a language you understand [H0031, H0032]. Signing a wage sheet or receipt does not waive your right to any higher amount owed [KC0009]. If the factory has to stop work for a while for a reason beyond its control, you get full pay for the first 10 days in a year and half pay after that, up to 60 paid days a year [KC0069].
+**When and how you are paid:** Wages and overtime must be paid within 7 days of falling due [KC0008]. Under the unified contract the employer pays in cash or by bank or electronic transfer, as agreed with you [H0030]. With each payment you get a payslip showing wage, allowances, deductions and overtime hours and pay, in a language you understand [H0031, H0032]. Signing a wage sheet or receipt does not waive your right to any higher amount owed [KC0009]. If the factory has to stop work for a while for a reason beyond its control, you get full pay for the first 10 days in a year and half pay after that, up to 60 paid days a year [KC0069].
 
 > **Need to know**
 > - Does any MOL decision require garment wages to be paid electronically (bank account or e-wallet)?
 
-##### Deductions
-
-The employer may deduct only [KC0010, KC0011, H0042]:
+**Deductions:** The employer may deduct only [KC0010, KC0011, H0042]:
 - advances, at most 10% of the wage per instalment;
 - money paid to you by mistake;
 - your social security share (7.5% of the wage);
@@ -647,18 +587,14 @@ A fine is allowed only for an offence on the penalty list the Minister of Labour
 
 #### Hours, rest and leave
 
-##### Hours and overtime
+**Hours and overtime:** At most 8 hours a day and 48 a week, not counting meal and rest breaks [KC0016]. Overtime needs your consent and is paid at least 125% of your normal hourly wage; the unified contract says it is optional [KC0017, H0049]. The Labour Law sets no daily or weekly overtime limit, but the CBA caps overtime at 4 hours a day, which means at most 12 hours a day and 72 a week over six days [H0254, H0050]. In 2024, 54% of assessed factories broke that cap, and migrant workers averaged 59 hours a week against 41 for Jordanians [H0051, H0052]. At Fine Apparel, workers reported staying until 10pm or midnight but being paid for at most three hours' overtime [H0053].
 
-At most 8 hours a day and 48 a week, not counting meal and rest breaks [KC0016]. Overtime needs your consent and is paid at least 125% of your normal hourly wage; the unified contract says it is optional [KC0017, H0049]. The Labour Law sets no daily or weekly overtime limit, but the CBA caps overtime at 4 hours a day, which means at most 12 hours a day and 72 a week over six days [H0254, H0050]. In 2024, 54% of assessed factories broke that cap, and migrant workers averaged 59 hours a week against 41 for Jordanians [H0051, H0052]. At Fine Apparel, workers reported staying until 10pm or midnight but being paid for at most three hours' overtime [H0053].
-
-##### Rest day and public holidays
-
-Friday is the weekly rest day, on full pay, unless the work needs another fixed day [KC0019, KC0020, H0055]. Work on your rest day, a religious feast or an official holiday is paid at least 150% of your normal wage [KC0018].
+**Rest day and public holidays:** Friday is the weekly rest day, on full pay, unless the work needs another fixed day [KC0019, KC0020, H0055]. Work on your rest day, a religious feast or an official holiday is paid at least 150% of your normal wage [KC0018].
 
 > **Need to know**
 > - Which official and religious holidays must garment factories give with pay, and does the factory or MOL announce them each year?
 
-##### Leave
+**Leave:**
 
 - **Annual leave:** 14 days on full pay a year, 21 after 5 continuous years with the same employer; weekly rest days and holidays don't count [KC0021]. The employer may not refuse your request, and leave you have not taken is paid in cash when the job ends; you can't sign it away [KC0022, KC0023, KC0024].
 - **Sick leave:** 14 days a year on full pay with a report from the factory's approved doctor, plus 14 more on full pay if you are in hospital; factories with more than 20 workers use a medical committee to approve reports [KC0025]. If the factory has no approved doctor, a report from any licensed doctor or clinic is accepted [H0061].
@@ -666,25 +602,19 @@ Friday is the weekly rest day, on full pay, unless the work needs another fixed 
 - **Paternity:** 3 days on full pay [KC0026].
 - **Hajj:** 14 days on full pay, once, after 5 continuous years with the employer [KC0027].
 
-##### Heat
-
-MOL's heat-wave guidance covers open-air sites in direct sun at peak hours, where the employer may move the hours to morning or evening [H0068, H0069]. In 2024, 20% of assessed garment factories' dormitories were not adequately protected against heat or properly ventilated [H0070].
+**Heat:** MOL's heat-wave guidance covers open-air sites in direct sun at peak hours, where the employer may move the hours to morning or evening [H0068, H0069]. In 2024, 20% of assessed garment factories' dormitories were not adequately protected against heat or properly ventilated [H0070].
 
 > **Need to know**
 > - Is there a binding MOL rule on maximum temperature or cooling in factory halls and worker dormitories?
 
 #### Housing, food and health care
 
-##### Housing and food
-
-Garment factories must house all their migrant workers, mostly in dormitories [H0071]. The unified contract gives you three adequate meals a day, shared housing that meets Jordan's standards, and free transport if the dorm is 1 km or more from the factory [H0033, H0034]. In 2024, 66% of assessed factories broke the accommodation rules; the main failures were cleanliness and cooking space, which forces workers to cook in their rooms [H0072, H0073]. Researchers describe rooms of 8 to 10 workers, a gate shut by a security guard at the 10pm curfew, and employer-appointed dorm leaders who report on workers [H0074, H0075, H0076]. Women have been sent home for breaking curfew, for a relationship with a man or after being accused of theft [H0076]. One Bangladeshi worker who had JD 95 a month taken for board and lodging cooked her own food because she found the canteen food poor [H0025].
+**Housing and food:** Garment factories must house all their migrant workers, mostly in dormitories [H0071]. The unified contract gives you three adequate meals a day, shared housing that meets Jordan's standards, and free transport if the dorm is 1 km or more from the factory [H0033, H0034]. In 2024, 66% of assessed factories broke the accommodation rules; the main failures were cleanliness and cooking space, which forces workers to cook in their rooms [H0072, H0073]. Researchers describe rooms of 8 to 10 workers, a gate shut by a security guard at the 10pm curfew, and employer-appointed dorm leaders who report on workers [H0074, H0075, H0076]. Women have been sent home for breaking curfew, for a relationship with a man or after being accused of theft [H0076]. One Bangladeshi worker who had JD 95 a month taken for board and lodging cooked her own food because she found the canteen food poor [H0025].
 
 > **Need to know**
 > - What are MOL's binding dormitory standards (space per worker, beds, toilets, kitchens), and where does a worker report a bad dorm?
 
-##### Health care
-
-The employer arranges your medical checks, and in an emergency the factory's medical staff must send you to a specialist or hospital at the employer's expense [H0081]. The 2025 CBA requires a medical unit at the factory as the Labour Law sets out, and MOL says this care covers migrant workers [H0082, H0017]. The CBA also obliges the employer to refer you to a psychological care centre if you ask [H0083].
+**Health care:** The employer arranges your medical checks, and in an emergency the factory's medical staff must send you to a specialist or hospital at the employer's expense [H0081]. The 2025 CBA requires a medical unit at the factory as the Labour Law sets out, and MOL says this care covers migrant workers [H0082, H0017]. The CBA also obliges the employer to refer you to a psychological care centre if you ask [H0083].
 
 > **Need to know**
 > - Must garment employers give migrant workers health insurance, and which hospital treats them for illness that is not a work injury?
@@ -825,13 +755,9 @@ In an emergency the factory must send you to a doctor or hospital at its expense
 
 #### If your employer reports you absent ("absconding")
 
-##### What it is
+**What it is:** An absconding report (in Arabic tableegh firar, a "runaway" report) is filed by the employer with MOL when a worker leaves the job [KC0097]. The employer must first file it at a police directorate or security centre and bring the stamped report, and may file only if it has paid all your social security contributions [KC0099, KC0100]. It may not file one in the last two months of your work permit [KC0101]. Garment factories are exempt from the 10% cap on how many workers an employer may report [KC0102].
 
-An absconding report (in Arabic tableegh firar, a "runaway" report) is filed by the employer with MOL when a worker leaves the job [KC0097]. The employer must first file it at a police directorate or security centre and bring the stamped report, and may file only if it has paid all your social security contributions [KC0099, KC0100]. It may not file one in the last two months of your work permit [KC0101]. Garment factories are exempt from the 10% cap on how many workers an employer may report [KC0102].
-
-##### What it can lead to
-
-MOL deports a worker it finds has left their employer, with a ban of at least 5 years [KC0037, KC0039]. Separately, more than 10 days' unexplained absence lets the employer dismiss you without notice [KC0061]. If the report turns out to be false, the employer is blocked from all MOL permits and you are given a permit with another employer [KC0103, KC0104].
+**What it can lead to:** MOL deports a worker it finds has left their employer, with a ban of at least 5 years [KC0037, KC0039]. Separately, more than 10 days' unexplained absence lets the employer dismiss you without notice [KC0061]. If the report turns out to be false, the employer is blocked from all MOL permits and you are given a permit with another employer [KC0103, KC0104].
 
 1. **If you leave for one of the legal reasons** (assault, harassment, a pay cut, or the employer ignoring an MOL notice), tell MOL within two weeks through Hemayah or the numbers above, and keep the complaint number [KC0056, H0190].
 2. **If your employer ended your job,** tell the labour directorate that issued your permit at once; otherwise you can't get a permit with any other employer [KC0098].
@@ -859,13 +785,9 @@ The old permit is cancelled at the labour office with both you and the employer 
 > - Do QIZ garment factories apply the six-month rule, or do the QIZ instructions set their own?
 > - How often does a garment factory actually release a Bangladeshi worker to another factory?
 
-##### Notice
+**Notice:** On an open-ended contract either side gives at least one month's written notice [KC0063]. The unified contract is fixed-term (3 years): if you leave early without one of the legal reasons under If something goes wrong, the employer can claim up to half a month's wage for each month left, and pays only part of your ticket home in proportion to the time you worked [H0008, KC0065, H0241].
 
-On an open-ended contract either side gives at least one month's written notice [KC0063]. The unified contract is fixed-term (3 years): if you leave early without one of the legal reasons under If something goes wrong, the employer can claim up to half a month's wage for each month left, and pays only part of your ticket home in proportion to the time you worked [H0008, KC0065, H0241].
-
-##### If it is blocked
-
-Researchers say the system in practice makes it impossible for garment workers to change employer during their 3 years, and the ILO has urged changing the CBA so they can [H0079, H0230]. If you are owed pay or are abused, use the steps under If something goes wrong; the legal reasons let you leave without notice and keep your rights [KC0056].
+**If it is blocked:** Researchers say the system in practice makes it impossible for garment workers to change employer during their 3 years, and the ILO has urged changing the CBA so they can [H0079, H0230]. If you are owed pay or are abused, use the steps under If something goes wrong; the legal reasons let you leave without notice and keep your rights [KC0056].
 
 #### Leaving at the end of the job
 
@@ -880,7 +802,7 @@ Researchers say the system in practice makes it impossible for garment workers t
 > - Is the SSC online "permanent departure" claim still open after the 2026 regularisation period, and does it still skip MOL's no-objection?
 > - How long does SSC's transfer of the lump sum to a Bangladeshi bank take, and what does it cost?
 
-##### Employer tricks at the end of the job
+**Employer tricks at the end of the job:**
 
 - Being made to "resign" and sent home before a valid 3-year contract ends [H0231].
 - Termination papers not in your language, and final settlements wrong or missing [H0232].
@@ -1025,21 +947,13 @@ For the first 90 days after the worker enters Jordan (or 30 days after she moves
 
 #### Done to workers
 
-##### The "housekeeping job" that is trafficking
+**The "housekeeping job" that is trafficking:** A village broker promised Nazma Begum a JD 250 housekeeping job in Jordan; in Amman she was taken from the airport, held captive and "sold" on a two-year contract to a man who sent the women in his house to hotels for sex work [D0184, D0186]. Her family went to Ain o Salish Kendra, which wrote to the foreign ministry and the ambassador, and the Embassy rescued her [D0187]. Recruitment to Jordan runs largely through unlicensed rural brokers [D0189, D0195].
 
-A village broker promised Nazma Begum a JD 250 housekeeping job in Jordan; in Amman she was taken from the airport, held captive and "sold" on a two-year contract to a man who sent the women in his house to hotels for sex work [D0184, D0186]. Her family went to Ain o Salish Kendra, which wrote to the foreign ministry and the ambassador, and the Embassy rescued her [D0187]. Recruitment to Jordan runs largely through unlicensed rural brokers [D0189, D0195].
+**The false passport age:** A 15-year-old girl whose passport said she was 27 was sent to Jordan as a housemaid through a registered agency, MH International, in 2017, and was repeatedly raped there [D0190]. Recruiting a worker under the agreed age, or with forged papers, can cost a Jordanian office its licence for good [D0056, D0057, KD0010].
 
-##### The false passport age
+**Being hired out to other houses:** Domestic workers complain of being made to work in other homes without pay [D0154]. An office may not send a worker to do daily work or to work for anyone but the household, and making her work by the day or seizing her wages can cost it its licence for good [D0049, D0058, KD0010].
 
-A 15-year-old girl whose passport said she was 27 was sent to Jordan as a housemaid through a registered agency, MH International, in 2017, and was repeatedly raped there [D0190]. Recruiting a worker under the agreed age, or with forged papers, can cost a Jordanian office its licence for good [D0056, D0057, KD0010].
-
-##### Being hired out to other houses
-
-Domestic workers complain of being made to work in other homes without pay [D0154]. An office may not send a worker to do daily work or to work for anyone but the household, and making her work by the day or seizing her wages can cost it its licence for good [D0049, D0058, KD0010].
-
-##### Unlicensed recruiters and fake job adverts
-
-MOL tells households to check its website before using an office, to avoid fake recruiters' adverts [D0196]. In Bangladesh, the unlicensed Surah Travels and Traders sold Jordan jobs in a Jordanian company's name for Tk 2 to 2.5 lakh a person (see Work visa: garment and factory worker, Scams, Fake Jordan factory jobs) [D0211]. Some agencies take money for residence and work permits without processing them, leaving workers undocumented and liable for overstay fines [D0223].
+**Unlicensed recruiters and fake job adverts:** MOL tells households to check its website before using an office, to avoid fake recruiters' adverts [D0196]. In Bangladesh, the unlicensed Surah Travels and Traders sold Jordan jobs in a Jordanian company's name for Tk 2 to 2.5 lakh a person (see Work visa: garment and factory worker, Scams, Fake Jordan factory jobs) [D0211]. Some agencies take money for residence and work permits without processing them, leaving workers undocumented and liable for overstay fines [D0223].
 
 #### Tried by workers
 
@@ -1209,13 +1123,9 @@ There is no route from Bangladesh into these sectors now (see Is it open now?) [
 
 #### Done to workers
 
-##### The "free visa" or free permit sold in Bangladesh
+**The "free visa" or free permit sold in Bangladesh:** A "free visa" is a visa you pay a broker for that is tied to no real job and no legal right to work [D0212]. In Jordan the same thing is a bought permit: workers are led to believe it lets them work anywhere, but not working for the sponsor in the permit's sector is grounds for deportation [D0215]. One worker paid JD 2,600 and never met his employer; another paid JD 3,100 and the broker kept his passport until he repaid [D0217, D0216]. MOL has seen workers pay around JD 2,000 to come and be left without a job or permit [D0229]. The real free permit cannot be bought from Bangladesh at all: it is issued only to workers already in Jordan [D0118].
 
-A "free visa" is a visa you pay a broker for that is tied to no real job and no legal right to work [D0212]. In Jordan the same thing is a bought permit: workers are led to believe it lets them work anywhere, but not working for the sponsor in the permit's sector is grounds for deportation [D0215]. One worker paid JD 2,600 and never met his employer; another paid JD 3,100 and the broker kept his passport until he repaid [D0217, D0216]. MOL has seen workers pay around JD 2,000 to come and be left without a job or permit [D0229]. The real free permit cannot be bought from Bangladesh at all: it is issued only to workers already in Jordan [D0118].
-
-##### Fake Jordan jobs
-
-Unlicensed outfits sell fake Jordan jobs, as Surah Travels and Traders did for Tk 2 to 2.5 lakh a person (see Work visa: garment and factory worker, Scams, Fake Jordan factory jobs) [D0211]. Agencies may also take permit money and not process it [D0223].
+**Fake Jordan jobs:** Unlicensed outfits sell fake Jordan jobs, as Surah Travels and Traders did for Tk 2 to 2.5 lakh a person (see Work visa: garment and factory worker, Scams, Fake Jordan factory jobs) [D0211]. Agencies may also take permit money and not process it [D0223].
 
 #### Tried by workers
 
@@ -1805,11 +1715,9 @@ The National Pension Authority's Universal Pension "Probash" scheme is for Bangl
 > **Need to know**
 > - Is the Tk 1,000 contribution still offered, when the scheme's English brief lists only the other four [R0020]?
 
-##### What you get
+**What you get:** On the scheme's estimates, Tk 1,000 a month for 10 years gives about Tk 1,530 a month, and for 30 years about Tk 12,466 [R0019]. If you die, your nominee gets the pension until you would have turned 75; if you die before paying 10 years, the deposit comes back with profit [R0018]. You can borrow up to 50% of your deposit, repaid in up to 24 instalments, and the pension is income-tax free [R0018, R0021].
 
-On the scheme's estimates, Tk 1,000 a month for 10 years gives about Tk 1,530 a month, and for 30 years about Tk 12,466 [R0019]. If you die, your nominee gets the pension until you would have turned 75; if you die before paying 10 years, the deposit comes back with profit [R0018]. You can borrow up to 50% of your deposit, repaid in up to 24 instalments, and the pension is income-tax free [R0018, R0021].
-
-##### The rules
+**The rules:**
 
 - No lump-sum withdrawal and no leaving before pension age [R0021].
 - A late contribution has 1 month's grace, then a late fee of 1% a day [R0021].

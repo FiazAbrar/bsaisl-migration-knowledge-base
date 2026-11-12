@@ -4,38 +4,6 @@ How to go to Singapore from Bangladesh, visa by visa, step by step, for Banglade
 
 S$ is the Singapore dollar; Tk is the Bangladeshi taka (1 lakh is Tk 100,000). S$1 is about Tk 97: Bangladesh Bank's cross rate on 19 October 2026 was S$1 = Tk 96.59 to 96.69, and taka figures in this doc are converted at that rate unless a source gives its own [L0001]. A Bangladesh passport holder needs a visa, or a work pass approval, before travelling to Singapore [V0001].
 
-## Start here
-
-If you have never been abroad, read this first. Every point is set out in full further down.
-
-### Can you go now?
-
-Yes. Singapore is open, and most Bangladeshis go as construction workers on a Work Permit, Singapore's pass for unskilled and semi-skilled foreign workers, which ties you to one employer [C0004, R0058, C0145]. A visit visa never lets you work [V0071].
-
-### Your first five steps
-
-1. Register on OEP, BMET's online system, at employee.oep.gov.bd (Work Permit, Step 1) [B0002].
-2. Get an e-passport: Tk 4,025 for 5 years, regular delivery (Work Permit, Step 2) [B0011].
-3. Take the skills test only at one of the five test centres approved by Singapore's Building and Construction Authority; the employer pays the test fee, capped at S$925 (Work Permit, Step 3) [R0154, R0148].
-4. Before you pay anyone, check your IPA, the approval letter that lets you fly, on MOM's free page service2.mom.gov.sg/workpass/enquiry, which is also in Bengali (Work Permit, Step 5) [R0237, R0242].
-5. Do the 3-day pre-departure orientation and get BMET clearance, the smart card, before you fly (Work Permit, Step 6) [B0029, B0039].
-
-### What it really costs
-
-The government's maximum is Tk 2,62,270, but first-time workers are asked for S$9,000 to 13,000 (about Tk 8.7 to 12.6 lakh), and some pay up to Tk 16 lakh [B0273, C0079, C0162, L0001]. Pay only into the agency's own bank account and keep every receipt [B0048].
-
-### Three scams to watch for
-
-- *An "approved" screenshot, then a different job:* check the IPA yourself before paying [R0266, R0237].
-- *A training centre that keeps your passport and keeps raising the price:* the test fee is the employer's to pay, not yours [R0206, R0148].
-- *A visit visa sold as a job:* working on one is illegal, and overstaying can bring jail and caning [V0071, C0182].
-
-### Who to call
-
-- In Bangladesh: Probash-Bondhu, 16135, free, or +8809610102030 from abroad [B0005, B0006].
-- In Singapore: the Migrant Workers' Centre helpline, 6536 2692, open 24 hours [E0129].
-- The Bangladesh High Commission's labour wing in Singapore: +65 6661 0298 [E0308, B0198, E0309].
-
 ## Background
 
 ### In one minute
@@ -622,41 +590,23 @@ Construction workers must then take the Construction Safety Orientation Course (
 
 #### Done to workers
 
-##### Fake agent who "applies for your IPA"
+**Fake agent who "applies for your IPA":** A person in Singapore says he works for a licensed EA and asks your relative there to send your details and pay into his bank account for an IPA; in 2026 a Bangladeshi construction worker was jailed 13 months and 3 weeks for taking over S$35,000 from 17 workers this way [R0261, R0262]. Victims came through a friend's introduction [R0263]. **Spot it:** only an employer or its EA can apply, and a construction worker cannot [R0050, R0262]; check the EA and its staff card on the EA Directory (Step 4) [R0253].
 
-A person in Singapore says he works for a licensed EA and asks your relative there to send your details and pay into his bank account for an IPA; in 2026 a Bangladeshi construction worker was jailed 13 months and 3 weeks for taking over S$35,000 from 17 workers this way [R0261, R0262]. Victims came through a friend's introduction [R0263]. **Spot it:** only an employer or its EA can apply, and a construction worker cannot [R0050, R0262]; check the EA and its staff card on the EA Directory (Step 4) [R0253].
+**"Approved" screenshot, then a different IPA:** In 2026 an overseas agent sent a worker promised a hotel job in Singapore a screenshot showing her pass "approved", took her money, and only then sent an IPA with a different job and a lower salary, saying the promised job was still hers [R0266]. **Spot it:** check the application yourself on MOM's portal before paying, and refuse an IPA that differs from the offer (Step 5) [R0237, R0240].
 
-##### "Approved" screenshot, then a different IPA
+**Lower salary on the IPA than agreed:** TWC2 has seen employers agree a salary with the worker but declare less to MOM, so the IPA shows the lower figure [R0276]. In MOM's 2024 survey 2.5% of workers were paid less than their IPA salary [R0278]. **Spot it:** read the salary lines and compare them with MOM's record (Step 5, items 3 and 4) [R0239].
 
-In 2026 an overseas agent sent a worker promised a hotel job in Singapore a screenshot showing her pass "approved", took her money, and only then sent an IPA with a different job and a lower salary, saying the promised job was still hers [R0266]. **Spot it:** check the application yourself on MOM's portal before paying, and refuse an IPA that differs from the offer (Step 5) [R0237, R0240].
+**Fake security bond or a cancelled IPA:** In the same 2026 case the agent then sent a PDF "security bond"; no one met the worker at the airport, the IPA was cancelled, and the employer said it had not paid the bond and the document was forged [R0267]. Once an IPA is cancelled you cannot work [R0101]. **Spot it:** the employer buys the bond from a bank or insurer [R0094]; ask the employer for MOM's acknowledgement letter (Step 6) [R0097].
 
-##### Lower salary on the IPA than agreed
+**Fake work permits and "training fees":** In 2026 a man in Singapore allegedly took over S$14,000 from six Indian workers for non-existent work permits, gave them forged MOM documents, said "MOM rules have changed", charged five of them S$854 each for a "training course" and asked for bank deposits [R0270, R0271]. **Spot it:** training and medical checks in Singapore are the employer's cost (Who pays what) [R0180]; check the FIN on any IPA you are sent on MOM's portal (Step 5), as the victims' contact did, finding that the FINs did not exist [KB0005].
 
-TWC2 has seen employers agree a salary with the worker but declare less to MOM, so the IPA shows the lower figure [R0276]. In MOM's 2024 survey 2.5% of workers were paid less than their IPA salary [R0278]. **Spot it:** read the salary lines and compare them with MOM's record (Step 5, items 3 and 4) [R0239].
+**Training centre that holds your passport and moves the price:** Workers have reported centres that promise a Singapore job for a fixed price, keep the passport, demand lakhs more after training, or fail a worker on purpose until they have a visa for him; three workers said at least Tk 7 to 8 lakh was extracted from them beyond the deal and they still did not get the promised job [R0206, R0207, R0209]. **Spot it:** test fees are the employer's to pay and capped (Step 3) [R0148, R0188]; the worker given no receipts had no proof of what he paid [R0210].
 
-##### Fake security bond or a cancelled IPA
+**"Train with us, earn Tk 1 lakh a month" adverts:** Facebook pages advertise Singapore training with jobs at Tk 1 lakh a month, and most of their phone numbers are switched off [R0211]. Publishing a job-abroad advertisement without the government's or BMET's prior approval is itself an offence in Bangladesh: up to 1 year's jail and a fine of at least Tk 50,000 [KG0053]. **Spot it:** only BCA-appointed OTCs give the test (Step 3) [R0142]; in TWC2's 2026 survey, Bangladeshis in their first 2 years averaged S$526 a month (about Tk 51,000) [R0223, L0001].
 
-In the same 2026 case the agent then sent a PDF "security bond"; no one met the worker at the airport, the IPA was cancelled, and the employer said it had not paid the bond and the document was forged [R0267]. Once an IPA is cancelled you cannot work [R0101]. **Spot it:** the employer buys the bond from a bank or insurer [R0094]; ask the employer for MOM's acknowledgement letter (Step 6) [R0097].
+**Kickbacks to keep or renew your job:** Your boss or supervisor asks for money to renew your permit [R0183]. It is an offence (Step 4, "If a relative or friend") [R0182]; call MOM on 6438 5122 [R0185].
 
-##### Fake work permits and "training fees"
-
-In 2026 a man in Singapore allegedly took over S$14,000 from six Indian workers for non-existent work permits, gave them forged MOM documents, said "MOM rules have changed", charged five of them S$854 each for a "training course" and asked for bank deposits [R0270, R0271]. **Spot it:** training and medical checks in Singapore are the employer's cost (Who pays what) [R0180]; check the FIN on any IPA you are sent on MOM's portal (Step 5), as the victims' contact did, finding that the FINs did not exist [KB0005].
-
-##### Training centre that holds your passport and moves the price
-
-Workers have reported centres that promise a Singapore job for a fixed price, keep the passport, demand lakhs more after training, or fail a worker on purpose until they have a visa for him; three workers said at least Tk 7 to 8 lakh was extracted from them beyond the deal and they still did not get the promised job [R0206, R0207, R0209]. **Spot it:** test fees are the employer's to pay and capped (Step 3) [R0148, R0188]; the worker given no receipts had no proof of what he paid [R0210].
-
-##### "Train with us, earn Tk 1 lakh a month" adverts
-
-Facebook pages advertise Singapore training with jobs at Tk 1 lakh a month, and most of their phone numbers are switched off [R0211]. Publishing a job-abroad advertisement without the government's or BMET's prior approval is itself an offence in Bangladesh: up to 1 year's jail and a fine of at least Tk 50,000 [KG0053]. **Spot it:** only BCA-appointed OTCs give the test (Step 3) [R0142]; in TWC2's 2026 survey, Bangladeshis in their first 2 years averaged S$526 a month (about Tk 51,000) [R0223, L0001].
-
-##### Kickbacks to keep or renew your job
-
-Your boss or supervisor asks for money to renew your permit [R0183]. It is an offence (Step 4, "If a relative or friend") [R0182]; call MOM on 6438 5122 [R0185].
-
-##### Phantom-worker companies
-
-In March 2026 MOM arrested 10 people, among them directors and employees of five construction companies that allegedly paid CPF (Central Provident Fund, Singapore's pension scheme) contributions to "phantom" local workers to raise their quota for foreign workers [R0264].
+**Phantom-worker companies:** In March 2026 MOM arrested 10 people, among them directors and employees of five construction companies that allegedly paid CPF (Central Provident Fund, Singapore's pension scheme) contributions to "phantom" local workers to raise their quota for foreign workers [R0264].
 
 > **Need to know**
 > - What happened to the workers of the five construction companies in MOM's March 2026 phantom-worker case?
@@ -672,11 +622,9 @@ False declarations in a work pass application carry a fine of up to S$20,000, up
 
 #### Contract and which law covers you
 
-##### Which laws apply
+**Which laws apply:** Two laws protect a Work Permit holder [E0001, E0002]. The Employment Act, Singapore's main labour law, covers local and foreign employees who work under a contract of service [E0001]. The Employment of Foreign Manpower Act (EFMA) also covers every work pass holder and sets out the employer's responsibilities and obligations in employing foreigners [E0002]. Part 4 of the Employment Act, which sets hours, rest days and overtime, covers a "workman" (someone whose work is mainly manual labour, such as a construction worker, cleaner, labourer, machine operator or lorry driver) earning a basic salary of S$4,500 a month or less [E0048, E0003].
 
-Two laws protect a Work Permit holder [E0001, E0002]. The Employment Act, Singapore's main labour law, covers local and foreign employees who work under a contract of service [E0001]. The Employment of Foreign Manpower Act (EFMA) also covers every work pass holder and sets out the employer's responsibilities and obligations in employing foreigners [E0002]. Part 4 of the Employment Act, which sets hours, rest days and overtime, covers a "workman" (someone whose work is mainly manual labour, such as a construction worker, cleaner, labourer, machine operator or lorry driver) earning a basic salary of S$4,500 a month or less [E0048, E0003].
-
-##### Your papers
+**Your papers:**
 
 - **The IPA letter.** The In-Principle Approval (IPA) letter that MOM (the Ministry of Manpower) issues before you travel (see Step 5) states your employer, job, basic and fixed monthly salary, fixed allowances, monthly deductions and housing [KC0002]; the employer must keep to it and cannot change it without your permission [E0004]. Keep a copy for the whole job, and go to MOM if your salary is cut without your written consent [E0130, E0131].
 - **Key Employment Terms (KETs).** The employer must give you your main terms in writing: salary, pay date, overtime, working hours, rest days, leave and medical benefits [E0005].
@@ -685,11 +633,9 @@ Two laws protect a Work Permit holder [E0001, E0002]. The Employment Act, Singap
 
 #### Pay and deductions
 
-##### No minimum wage: the IPA salary is your wage
+**No minimum wage: the IPA salary is your wage:** Singapore has no minimum wage [E0007]. What protects you is the salary in your IPA: the employer must pay a Work Permit holder the fixed monthly salary it declared to MOM [E0008], and must pay at least that amount even when there is no work, except while you are on no-pay leave outside Singapore [E0009]. It cannot lower your basic salary or fixed allowances, or add or raise deductions, without your written consent and without first telling MOM [E0016]. Employers pay no CPF (Central Provident Fund, Singapore's pension scheme) for Work Permit holders, so nothing should be deducted for it [E0012].
 
-Singapore has no minimum wage [E0007]. What protects you is the salary in your IPA: the employer must pay a Work Permit holder the fixed monthly salary it declared to MOM [E0008], and must pay at least that amount even when there is no work, except while you are on no-pay leave outside Singapore [E0009]. It cannot lower your basic salary or fixed allowances, or add or raise deductions, without your written consent and without first telling MOM [E0016]. Employers pay no CPF (Central Provident Fund, Singapore's pension scheme) for Work Permit holders, so nothing should be deducted for it [E0012].
-
-##### When and how you are paid
+**When and how you are paid:**
 
 - **Salary:** at least once a month, no later than 7 days after the end of the month [E0010].
 - **Overtime pay:** within 14 days after the end of the salary period [E0049].
@@ -698,9 +644,7 @@ Singapore has no minimum wage [E0007]. What protects you is the salary in your I
 
 Never sign blank papers, payment vouchers or payslips you don't understand or disagree with; if the employer asks you to, go to MOM [E0015].
 
-##### What may and may not be deducted
-
-The employer may never deduct, under any circumstances [E0017, E0018]:
+**What may and may not be deducted:** The employer may never deduct, under any circumstances [E0017, E0018]:
 - money as a condition of employing you or keeping you on;
 - the cost of renewing your work pass;
 - the security bond (a S$5,000 guarantee the employer must buy for each non-Malaysian worker) [E0173];
@@ -721,7 +665,7 @@ If your salary is cut without your consent, call MOM on 6438 5122 or go to the M
 
 #### Hours, rest and leave
 
-##### Hours and overtime
+**Hours and overtime:**
 
 - **Normal hours:** up to 8 hours a day or 44 a week if you work more than 5 days a week; up to 9 hours a day or 44 a week if you work 5 days or fewer [E0027, E0028].
 - **Breaks:** you are generally not required to work more than 6 hours in a row without a break [E0029].
@@ -729,38 +673,28 @@ If your salary is cut without your consent, call MOM on 6438 5122 or go to the M
 - **Limits:** no more than 12 hours of work a day, except in emergencies such as an accident or urgent work on machinery [E0032], or up to 14 hours if the employer has an overtime exemption from MOM [KC0003]; and no more than 72 overtime hours a month unless the employer has an exemption [E0033].
 - **Records:** the employer must record your overtime; check the record and sign only if it is right [E0034]. Keep your payslips and time sheets [E0132].
 
-##### Rest day and public holidays
+**Rest day and public holidays:**
 
 - **Rest day:** 1 a week, unpaid [E0051, E0035]; no more than 12 days may pass between two rest days [E0052]. The employer cannot make you work on it except in exceptional circumstances [E0036].
 - **Rest-day work at the employer's request:** 1 day's salary for up to half a normal day, 2 days' salary for more than half, and 2 days' salary plus overtime pay beyond the normal day [E0037].
 - **Public holidays:** 11 paid holidays a year [E0053]; work on one earns an extra day's salary at the basic rate [E0038]. If a holiday falls on your rest day, the next working day is a paid holiday [E0040]. Being absent without reason on the working day before or after a holiday loses the holiday pay [E0039].
 
-##### Annual leave
+**Annual leave:** Paid annual leave starts after 3 months with the employer [E0041]: 7 days in the first year, rising by one day each year to 14 days from the eighth year [E0042].
 
-Paid annual leave starts after 3 months with the employer [E0041]: 7 days in the first year, rising by one day each year to 14 days from the eighth year [E0042].
-
-##### Sick leave and hospitalisation leave
-
-After 3 months with the employer you get paid outpatient sick leave and paid hospitalisation leave [E0043]. The yearly entitlement grows with service: 5 days outpatient and 15 days hospitalisation after 3 months, 8 and 30 after 4 months, 11 and 45 after 5 months, and 14 and 60 from 6 months, the 60 days including the 14 [E0045, E0044]. To be paid you need a medical certificate (MC) from a registered doctor or dentist, and you must tell the employer within 48 hours of being absent [E0047, E0046]. Sick leave after a work accident is paid under different rules, set out under If you are injured at work [E0326, E0327].
+**Sick leave and hospitalisation leave:** After 3 months with the employer you get paid outpatient sick leave and paid hospitalisation leave [E0043]. The yearly entitlement grows with service: 5 days outpatient and 15 days hospitalisation after 3 months, 8 and 30 after 4 months, 11 and 45 after 5 months, and 14 and 60 from 6 months, the 60 days including the 14 [E0045, E0044]. To be paid you need a medical certificate (MC) from a registered doctor or dentist, and you must tell the employer within 48 hours of being absent [E0047, E0046]. Sick leave after a work accident is paid under different rules, set out under If you are injured at work [E0326, E0327].
 
 #### Medical care
 
-##### Who pays
+**Who pays:** The employer must let you see a doctor and pays your medical bills [E0062]. Get an MC and a receipt for every visit, give them to the employer and keep a photo of each [E0063]. If the employer refuses to arrange or pay for treatment, report it to MOM on 6438 5122 [E0064].
 
-The employer must let you see a doctor and pays your medical bills [E0062]. Get an MC and a receipt for every visit, give them to the employer and keep a photo of each [E0063]. If the employer refuses to arrange or pay for treatment, report it to MOM on 6438 5122 [E0064].
-
-##### The medical insurance your employer must buy
-
-The employer must buy medical insurance covering inpatient care and day surgery of at least S$60,000 a year for each Work Permit holder, including for illness that has nothing to do with work [E0054, E0056]. You pay nothing for it [E0055]. For bills above S$15,000 the insurer pays 75% and the employer 25% [E0057], and for policies starting from 1 July 2025 the insurer pays the hospital directly once the claim is accepted [E0058].
+**The medical insurance your employer must buy:** The employer must buy medical insurance covering inpatient care and day surgery of at least S$60,000 a year for each Work Permit holder, including for illness that has nothing to do with work [E0054, E0056]. You pay nothing for it [E0055]. For bills above S$15,000 the insurer pays 75% and the employer 25% [E0057], and for policies starting from 1 July 2025 the insurer pays the hospital directly once the claim is accepted [E0058].
 
 The only cost you can be asked to share is a co-payment of hospital bills, and only if all of these hold [E0059, E0060, E0061]:
 - it is no more than 10% of your fixed monthly salary a month;
 - it lasts no more than 6 months in every 2 years of employment;
 - it is written in your employment contract or collective agreement and you agreed to it.
 
-##### The Primary Care Plan (PCP)
-
-The PCP is a yearly plan the employer must buy for you if you live in a dormitory for 7 or more workers or work in the Construction, Marine shipyard or Process (CMP) sectors, before your Work Permit is issued or renewed [E0065, E0066, E0067]. It covers [E0068, E0069, E0070, E0071]:
+**The Primary Care Plan (PCP):** The PCP is a yearly plan the employer must buy for you if you live in a dormitory for 7 or more workers or work in the Construction, Marine shipyard or Process (CMP) sectors, before your Work Permit is issued or renewed [E0065, E0066, E0067]. It covers [E0068, E0069, E0070, E0071]:
 - unlimited consultations for illnesses such as fever, flu, high blood pressure and diabetes;
 - one basic health screening a year;
 - telemedicine (a video call with a doctor) and medicine delivery;
@@ -770,13 +704,9 @@ You pay S$5 per clinic visit and S$2 per telemedicine consultation [E0073]. PCP 
 
 #### Housing
 
-##### Your right to decent housing
+**Your right to decent housing:** The employer must give you acceptable housing [E0078]. You must live at the address the employer registered with MOM and tell the employer if you move, or your work pass can be revoked [E0080]. Report overcrowding, poor sanitation or ventilation, pests or unrepaired facilities to MOM on 6438 5122 [E0079]; in a dormitory you can also report defects to the operator in the free DormWatch app, which keeps MOM informed [E0081].
 
-The employer must give you acceptable housing [E0078]. You must live at the address the employer registered with MOM and tell the employer if you move, or your work pass can be revoked [E0080]. Report overcrowding, poor sanitation or ventilation, pests or unrepaired facilities to MOM on 6438 5122 [E0079]; in a dormitory you can also report defects to the operator in the free DormWatch app, which keeps MOM informed [E0081].
-
-##### Dormitories
-
-Dormitories are licensed under the Foreign Employee Dormitories Act (FEDA); about 1,600 are licensed, and only 30% meet the New Dormitory Standards (NDS) with 12 or fewer people per room [E0086]. The other 70% are older dormitories that typically put 12 to 16 people in a room [E0087]. FEDA-licensed dormitories must give each resident a bed and a lockable cabinet, and Wi-Fi in common and living areas [E0095, E0096].
+**Dormitories:** Dormitories are licensed under the Foreign Employee Dormitories Act (FEDA); about 1,600 are licensed, and only 30% meet the New Dormitory Standards (NDS) with 12 or fewer people per room [E0086]. The other 70% are older dormitories that typically put 12 to 16 people in a room [E0087]. FEDA-licensed dormitories must give each resident a bed and a lockable cabinet, and Wi-Fi in common and living areas [E0095, E0096].
 
 The standards are being raised in stages:
 - **Older dormitories (today):** no limit on people per room, at least 3.5 square metres per person on average, and one toilet, shower, sink and urinal per 15 residents [E0383, E0089, E0090].
@@ -784,9 +714,7 @@ The standards are being raised in stages:
 - **By 2040, the NDS:** no more than 12 per room, at least 1 metre between beds and at least 4.2 square metres per person [E0088, E0383, E0089].
 - **A relaxation from 1 January 2027 to 31 January 2030:** NDS dormitories may go down to 3.6 square metres per person and up to 14 per room, but the 1 metre between beds stays [E0092, E0093, E0094].
 
-##### Other housing
-
-You may also be housed in a private home, such as a condominium, landed house or shophouse unit [E0082]. An HDB (Housing and Development Board, public housing) flat is open to a non-Malaysian Work Permit holder only in the services sector, or as a rented bedroom (not a whole flat) in manufacturing, so not to construction, marine shipyard or process workers [KC0004, KC0005]. Private homes are capped at 6 unrelated occupants, and whole HDB flats of 3 rooms or more at 6 occupants; from 22 January 2024 to 31 December 2028 the cap is 8 for 4-room or bigger HDB flats and for private homes of 90 square metres or more with URA (Urban Redevelopment Authority) approval [E0082, E0083]. In an HDB flat, you can check in HDB's eService that the owner has registered you as a tenant [E0084]. If there are cameras, you must be told where they are, and they must not be in bathrooms or sleeping areas [E0085].
+**Other housing:** You may also be housed in a private home, such as a condominium, landed house or shophouse unit [E0082]. An HDB (Housing and Development Board, public housing) flat is open to a non-Malaysian Work Permit holder only in the services sector, or as a rented bedroom (not a whole flat) in manufacturing, so not to construction, marine shipyard or process workers [KC0004, KC0005]. Private homes are capped at 6 unrelated occupants, and whole HDB flats of 3 rooms or more at 6 occupants; from 22 January 2024 to 31 December 2028 the cap is 8 for 4-room or bigger HDB flats and for private homes of 90 square metres or more with URA (Urban Redevelopment Authority) approval [E0082, E0083]. In an HDB flat, you can check in HDB's eService that the owner has registered you as a tenant [E0084]. If there are cameras, you must be told where they are, and they must not be in bathrooms or sleeping areas [E0085].
 
 #### Transport to work (lorry rides)
 
@@ -1360,53 +1288,33 @@ Together, for a first-time helper, that leaves women aged 25 to 45 who have pass
 
 #### Done to workers
 
-##### Placement debt and "agency loan" deductions
-
-The trick is a fee bigger than agreed, revealed only after arrival, in a contract swapped or signed at the employer's home, when the worker has little choice but to accept [D0217, D0281]. The fee cap does not cover fees a Singapore EA charges for costs incurred outside Singapore [D0151], and agencies call the extra a loan to pay agencies abroad [D0218].
+**Placement debt and "agency loan" deductions:** The trick is a fee bigger than agreed, revealed only after arrival, in a contract swapped or signed at the employer's home, when the worker has little choice but to accept [D0217, D0281]. The fee cap does not cover fees a Singapore EA charges for costs incurred outside Singapore [D0151], and agencies call the extra a loan to pay agencies abroad [D0218].
 - **How to spot it:** the IPA letter shows the fees you owe a Singapore EA, and MOM's status page shows your salary before you fly (Step 4) [D0164, D0224].
 - **What protects you:** a loan can be deducted only as a fixed amount stated in your contract, with its length and method [D0213]; the EA must give an itemised receipt [D0152]; a Bangladeshi agency approved to send women domestic workers may take nothing for migration costs [D0023].
 - **Report overcharging** to MOM in confidence [D0262].
 
-##### Loan sharks and money requests
+**Loan sharks and money requests:** MOM says helpers who borrow from unlicensed moneylenders lose their work pass and are barred from working in Singapore [D0221]. MOM officers never ask you to transfer money or give bank log-in details; call the ScamShield Helpline, 1799, if unsure [D0227].
 
-MOM says helpers who borrow from unlicensed moneylenders lose their work pass and are barred from working in Singapore [D0221]. MOM officers never ask you to transfer money or give bank log-in details; call the ScamShield Helpline, 1799, if unsure [D0227].
+**Being sent to work somewhere else:** You may work only for your employer, only at the address declared to MOM, and only on household chores; sending you to work at another address or on non-domestic work is illegal deployment [D0125, D0126, D0282]. The employer can face a penalty of up to S$10,000 and a ban from employing helpers [D0147]. Caring for the employer's child or parent at a relative's home is allowed only with your written agreement, notice to MOM first, and without doing the full housework of both homes [D0127].
 
-##### Being sent to work somewhere else
-
-You may work only for your employer, only at the address declared to MOM, and only on household chores; sending you to work at another address or on non-domestic work is illegal deployment [D0125, D0126, D0282]. The employer can face a penalty of up to S$10,000 and a ban from employing helpers [D0147]. Caring for the employer's child or parent at a relative's home is allowed only with your written agreement, notice to MOM first, and without doing the full housework of both homes [D0127].
-
-##### Fake job offers and fake IPA letters
-
-Any IPA letter can be checked on MOM's status page with your date of birth and passport number before you pay anyone (Step 4) [D0222]; the wider fake-offer scams are under "Scams" in the Work Permit route.
+**Fake job offers and fake IPA letters:** Any IPA letter can be checked on MOM's status page with your date of birth and passport number before you pay anyone (Step 4) [D0222]; the wider fake-offer scams are under "Scams" in the Work Permit route.
 
 > **Need to know**
 > - Are Bangladeshi women being offered Singapore "maid" jobs on Facebook or by village brokers, and what do they pay?
 
-##### Going on a visit visa to find work
+**Going on a visit visa to find work:** No Singapore EA may bring you in to look for a household before the employer holds an IPA, and you must be outside Singapore while the permit is processed (Step 3) [D0155, D0005].
 
-No Singapore EA may bring you in to look for a household before the employer holds an IPA, and you must be outside Singapore while the permit is processed (Step 3) [D0155, D0005].
-
-##### A contract that makes you pay to go home
-
-The High Commission's April 2025 sample contract has the helper pay her own ticket, and repay the visa cost, if she leaves within 2 years; the Work Permit conditions put the cost of sending you home on the employer (Step 4) [D0169, D0170, D0173].
+**A contract that makes you pay to go home:** The High Commission's April 2025 sample contract has the helper pay her own ticket, and repay the visa cost, if she leaves within 2 years; the Work Permit conditions put the cost of sending you home on the employer (Step 4) [D0169, D0170, D0173].
 
 #### Tried by workers
 
-##### Fake education certificates and false details
+**Fake education certificates and false details:** MOM may ask you to show the certificates behind the education declared in your application, and a copy goes to the Settling-in Programme centre [D0167, D0065]. A false declaration of any kind in a work pass application can bring a fine of up to S$20,000, up to 2 years' jail, or both, and a permanent ban from working in Singapore [D0228]. When MOM detects a false qualification it rejects the application and bars the person for life; in the five years to 2021 it barred an average of 660 foreigners a year this way [D0230, D0229].
 
-MOM may ask you to show the certificates behind the education declared in your application, and a copy goes to the Settling-in Programme centre [D0167, D0065]. A false declaration of any kind in a work pass application can bring a fine of up to S$20,000, up to 2 years' jail, or both, and a permanent ban from working in Singapore [D0228]. When MOM detects a false qualification it rejects the application and bars the person for life; in the five years to 2021 it barred an average of 660 foreigners a year this way [D0230, D0229].
+**A "sponsor" who lets you work outside:** In one scheme a household holds the helper's permit and pays only the levy, while she lives elsewhere and cleans for other homes; a Filipina who did this for 12 years, repaying most of the levy to her "sponsor", was jailed for 16 weeks, fined S$25,000 and barred from working in Singapore [D0234, D0235, D0236].
 
-##### A "sponsor" who lets you work outside
+**Part-time cleaning on rest days:** Cleaning for other homes on your day off is working without a valid work pass: up to 2 years' jail, a S$20,000 fine or both [D0231]. In 2025 a helper who cleaned two homes on her rest days was fined S$13,000 after MOM received a tip-off [D0232, D0233].
 
-In one scheme a household holds the helper's permit and pays only the levy, while she lives elsewhere and cleans for other homes; a Filipina who did this for 12 years, repaying most of the levy to her "sponsor", was jailed for 16 weeks, fined S$25,000 and barred from working in Singapore [D0234, D0235, D0236].
-
-##### Part-time cleaning on rest days
-
-Cleaning for other homes on your day off is working without a valid work pass: up to 2 years' jail, a S$20,000 fine or both [D0231]. In 2025 a helper who cleaned two homes on her rest days was fined S$13,000 after MOM received a tip-off [D0232, D0233].
-
-##### Bogus employers
-
-A recruiter who matched 27 foreigners with 21 bogus "employers" to get domestic worker permits was jailed for 16 months; the workers were prosecuted, sent home and permanently barred [D0266, D0267].
+**Bogus employers:** A recruiter who matched 27 foreigners with 21 bogus "employers" to get domestic worker permits was jailed for 16 months; the workers were prosecuted, sent home and permanently barred [D0266, D0267].
 
 ### Your rights at work
 
@@ -2415,11 +2323,9 @@ The National Pension Authority's Universal Pension "Probash" scheme is for Bangl
 > **Need to know**
 > - Is the Tk 1,000 contribution still offered, when the scheme's English brief lists only the other four [B0090]?
 
-##### What you get
+**What you get:** On the scheme's estimates, Tk 1,000 a month for 10 years gives about Tk 1,530 a month, and for 30 years about Tk 12,466 [B0091]. If you die, your nominee gets the pension until you would have turned 75; if you die before paying 10 years, the deposit comes back with profit [B0093]. You can borrow up to 50% of your deposit, repaid in up to 24 instalments, and the pension is income-tax free [B0093, B0099].
 
-On the scheme's estimates, Tk 1,000 a month for 10 years gives about Tk 1,530 a month, and for 30 years about Tk 12,466 [B0091]. If you die, your nominee gets the pension until you would have turned 75; if you die before paying 10 years, the deposit comes back with profit [B0093]. You can borrow up to 50% of your deposit, repaid in up to 24 instalments, and the pension is income-tax free [B0093, B0099].
-
-##### The rules
+**The rules:**
 
 - No lump-sum withdrawal and no leaving before pension age [B0099].
 - A late contribution has 1 month's grace, then a late fee of 1% a day [B0099].

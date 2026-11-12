@@ -4,38 +4,6 @@ How to go to Oman from Bangladesh, visa by visa, step by step, for Bangladesh pa
 
 RO is the Omani rial (1 rial is 1,000 baisa) [KA0003]; Tk is the Bangladeshi taka (1 lakh is Tk 100,000). The rial is pegged at RO 0.3845 to the US dollar, and Bangladesh Bank's rate on 19 October 2026 was Tk 123.65 to the dollar, so RO 1 is about Tk 322 [KA0002, KA0001]. Since 31 October 2023 Oman has issued no new visas to Bangladesh passport holders except in the exempt categories set out under Is it open now [R0024, R0021].
 
-## Start here
-
-If you have never been abroad, read this first. Every point is set out in full further down.
-
-### Can you go now?
-
-For most people, no. Since 31 October 2023 Oman has issued no new ordinary work visas to Bangladeshis [C0030]. Only family, professional (doctors, engineers, nurses, teachers, accountants), investor, official and some visitor visas are open, and in 2026 a quota of 5,000 farm workers was approved for Omani farmers to hire [C0032, C0045]. In August 2026 the Bangladesh Embassy in Muscat said Oman had made no announcement on recruiting Bangladeshi workers and that "free visa" claims were rumours [C0069]. Don't pay anyone who says Oman is open.
-
-### If your category is open: first steps
-
-1. Check that your category is really open (Work visa: company worker, Step 1) [C0032].
-2. Register on OEP, BMET's online system, at employee.oep.gov.bd (Step 2) [KB0001].
-3. Get an e-passport: Tk 4,025 for 5 years, regular delivery (Step 2) [KB0011].
-4. Book the Wafid medical, the Gulf states' health check, on wafid.com; the whole medical should cost no more than Tk 8,500 to 9,000 (Step 5) [R0092, R0086].
-5. Do the 3-day pre-departure orientation and get BMET clearance, the smart card, before you fly (Step 7) [KB0024, R0126].
-
-### What it costs
-
-The government's maximum for a man going to Oman is Tk 1,00,780; workers have paid Tk 1.8 to 3.5 lakh [C0105, C0092, C0050]. Pay only into the agency's own bank account and keep every receipt [R0139].
-
-### Three scams to watch for
-
-- *"Oman is open again" or a "free visa" for sale:* the Embassy calls these rumours [C0069].
-- *A visit visa you can "change to a work visa there":* Oman has banned this for everyone since 31 October 2023 [C0030, C0031].
-- *A medical centre that declares you unfit until you pay:* centres are reported to demand a bribe for a "fit" report [R0083].
-
-### Who to call
-
-- In Bangladesh: Probash-Bondhu, 16135, toll-free [R0127].
-- The Bangladesh Embassy in Muscat: Expatriate Service Cell on WhatsApp +968 91980621; for emergencies only, +968 91997852 [B0165, B0144].
-- In Oman: the Ministry of Labour, 80077000; police and ambulance, 9999 [R0153, B0257].
-
 ## Background
 
 ### In one minute
@@ -462,25 +430,15 @@ What happens in practice: a former official of BAIRA (the Bangladesh Association
 
 #### Done to workers
 
-##### "Oman is open" and "free visa" offers
+**"Oman is open" and "free visa" offers:** Social-media posts used the August 2026 farm-worker notice to claim that Oman had opened and was giving free visas; the Embassy said no such announcement had been made [R0106, R0108]. A "free visa" is not a real visa type: Omani visas are issued for one job with one employer, and working for anyone else ends in deportation and an entry ban [R0156, KB0043]. In 2018 Oman detained more than 20,000 Bangladeshis for labour-law breaches with no valid papers [R0157]. **Spot it:** anyone selling an ordinary Oman work visa in 2026 outside an exempt profession or the farm quota (Step 1) [R0021, R0009].
 
-Social-media posts used the August 2026 farm-worker notice to claim that Oman had opened and was giving free visas; the Embassy said no such announcement had been made [R0106, R0108]. A "free visa" is not a real visa type: Omani visas are issued for one job with one employer, and working for anyone else ends in deportation and an entry ban [R0156, KB0043]. In 2018 Oman detained more than 20,000 Bangladeshis for labour-law breaches with no valid papers [R0157]. **Spot it:** anyone selling an ordinary Oman work visa in 2026 outside an exempt profession or the farm quota (Step 1) [R0021, R0009].
+**Visit visa sold as a job:** Since 31 October 2023 a visit or tourist visa cannot be converted into a work visa inside Oman; you must leave and come back on a work visa [R0024, R0020]. **Spot it:** the paper says tourist, visit or express visa, not employment visa (Step 6) [R0067].
 
-##### Visit visa sold as a job
+**Fake or unchecked demand letters:** A real Oman demand letter carries the Embassy's attestation and the employer's power of attorney to the agency, and the permission letter shows the Embassy's block visa number [R0119, R0120, R0114]. **Spot it:** check with the labour wing (Step 3) and have BMET check the papers [R0110, R0133].
 
-Since 31 October 2023 a visit or tourist visa cannot be converted into a work visa inside Oman; you must leave and come back on a work visa [R0024, R0020]. **Spot it:** the paper says tourist, visit or express visa, not employment visa (Step 6) [R0067].
+**Fake or missing BMET clearance:** Airport welfare desks stopped 1,098 travellers with no or fake BMET clearance in 2023-24 [KB0026]. **Spot it:** check your smart card at portal.wewb.gov.bd/bmet-wewbm-check before you fly (Step 7) [B0037].
 
-##### Fake or unchecked demand letters
-
-A real Oman demand letter carries the Embassy's attestation and the employer's power of attorney to the agency, and the permission letter shows the Embassy's block visa number [R0119, R0120, R0114]. **Spot it:** check with the labour wing (Step 3) and have BMET check the papers [R0110, R0133].
-
-##### Fake or missing BMET clearance
-
-Airport welfare desks stopped 1,098 travellers with no or fake BMET clearance in 2023-24 [KB0026]. **Spot it:** check your smart card at portal.wewb.gov.bd/bmet-wewbm-check before you fly (Step 7) [B0037].
-
-##### Medical-slip rackets
-
-An agency offered one worker a Tk 10,000 "standard" medical that could end in "unfit", or Tk 20,000 for a guaranteed "fit" [R0087]. Syndicate-linked centres pre-book slots, take nearly 90% of referrals and charge Tk 25,000 to 30,000 for a guaranteed "fit" certificate [R0089, R0090]. A worker who paid Tk 50,000 in Dhaka was certified fit after failing in Chattogram [R0084]. Workers found unfit pay Tk 30,000 to 80,000 in bribes for a "fit" certificate, and because one "unfit" result can blacklist a worker for life, many contract a broker before the test to be passed [R0080, R0082]. A "fit" bought this way fails on arrival: one worker who paid Tk 25,000 was found unfit in Saudi Arabia and deported [R0088, R0098]. **Spot it:** book only on wafid.com (Step 5) [R0092].
+**Medical-slip rackets:** An agency offered one worker a Tk 10,000 "standard" medical that could end in "unfit", or Tk 20,000 for a guaranteed "fit" [R0087]. Syndicate-linked centres pre-book slots, take nearly 90% of referrals and charge Tk 25,000 to 30,000 for a guaranteed "fit" certificate [R0089, R0090]. A worker who paid Tk 50,000 in Dhaka was certified fit after failing in Chattogram [R0084]. Workers found unfit pay Tk 30,000 to 80,000 in bribes for a "fit" certificate, and because one "unfit" result can blacklist a worker for life, many contract a broker before the test to be passed [R0080, R0082]. A "fit" bought this way fails on arrival: one worker who paid Tk 25,000 was found unfit in Saudi Arabia and deported [R0088, R0098]. **Spot it:** book only on wafid.com (Step 5) [R0092].
 
 #### Tried by workers
 
@@ -490,32 +448,22 @@ Buying a "fit" certificate does not hold: the Ministry of Health tests you again
 
 #### Contract
 
-##### Which law covers you
+**Which law covers you:** Oman's Labour Law (Royal Decree 53/2023) covers all employers and workers except those whose work is governed by special laws or systems [KC0001]. Domestic workers come under a separate regulation, Ministerial Decision 574/2025: see Work visa: domestic worker [D0008]. Royal Decree 66/2026 (June 2026) repealed the Labour Law's Article 146 on workers taking bribes and moved that crime into the Penal Law [E0111]. Any contract term, release or waiver that gives you less than the law is void, unless it is better for you [KC0002]. The employer may not impose forced or compulsory labour [KC0003].
 
-Oman's Labour Law (Royal Decree 53/2023) covers all employers and workers except those whose work is governed by special laws or systems [KC0001]. Domestic workers come under a separate regulation, Ministerial Decision 574/2025: see Work visa: domestic worker [D0008]. Royal Decree 66/2026 (June 2026) repealed the Labour Law's Article 146 on workers taking bribes and moved that crime into the Penal Law [E0111]. Any contract term, release or waiver that gives you less than the law is void, unless it is better for you [KC0002]. The employer may not impose forced or compulsory labour [KC0003].
-
-##### Your contract
-
-It must be in writing, in Arabic, in two copies, one for you and one for the employer; it may be in another language too, but an Arabic copy agreed by both sides must be attached, and the contract must be approved by the labour authority [E0022]. If there is no written contract you can prove your rights by any means [E0022]. It must state the employer, the establishment and the workplace address, your details, the type of work and its conditions, the period, the basic wage, allowances and benefits, the date the wage is paid, and the notice for not renewing it, which from the employer may not be less than a month [KC0007, KC0006]. A fixed-term contract lasts at most 5 years and can be renewed by agreement; renewals count towards your total service [KC0008]. A contract becomes open-ended if it is not written, or if a fixed-term contract ends and both sides carry on without a new written agreement [KC0009]. Employer rules and circulars must be in Arabic, and if another language is used too, only the Arabic counts [KC0005]. Since December 2024 the employer must update the registered contract whenever your wage changes, so it shows your actual wage [KC0072]. MOL's (the Ministry of Labour's) leaflet for expatriates says you are entitled to a copy of your contract [E0156].
+**Your contract:** It must be in writing, in Arabic, in two copies, one for you and one for the employer; it may be in another language too, but an Arabic copy agreed by both sides must be attached, and the contract must be approved by the labour authority [E0022]. If there is no written contract you can prove your rights by any means [E0022]. It must state the employer, the establishment and the workplace address, your details, the type of work and its conditions, the period, the basic wage, allowances and benefits, the date the wage is paid, and the notice for not renewing it, which from the employer may not be less than a month [KC0007, KC0006]. A fixed-term contract lasts at most 5 years and can be renewed by agreement; renewals count towards your total service [KC0008]. A contract becomes open-ended if it is not written, or if a fixed-term contract ends and both sides carry on without a new written agreement [KC0009]. Employer rules and circulars must be in Arabic, and if another language is used too, only the Arabic counts [KC0005]. Since December 2024 the employer must update the registered contract whenever your wage changes, so it shows your actual wage [KC0072]. MOL's (the Ministry of Labour's) leaflet for expatriates says you are entitled to a copy of your contract [E0156].
 
 The employer may not breach the contract or give you work that was not agreed, except temporarily to prevent or deal with an accident or in force majeure, or similar work that does not harm your rights [KC0010]. Moving you to another worksite or another of its establishments needs your agreement and MOL's authorisation, at the employer's cost [KC0011].
 
 > **Need to know**
 > - Can a worker download his registered contract from MOL's portal, as in Qatar, and how?
 
-##### Probation
-
-At most 3 months if you are paid monthly, 2 months otherwise, and only once with the same employer [E0028]. If you pass, it counts as service [KC0012]. Either side may end the contract during probation if it is not working out, with at least 7 days' notice [E0029].
+**Probation:** At most 3 months if you are paid monthly, 2 months otherwise, and only once with the same employer [E0028]. If you pass, it counts as service [KC0012]. Either side may end the contract during probation if it is not working out, with at least 7 days' notice [E0029].
 
 #### Pay and deductions
 
-##### Minimum wage
+**Minimum wage:** Oman's minimum wage applies to citizens, not to foreign workers, so your pay is the basic wage and allowances written in your contract [E0238, KC0006].
 
-Oman's minimum wage applies to citizens, not to foreign workers, so your pay is the basic wage and allowances written in your contract [E0238, KC0006].
-
-##### When and how you are paid
-
-Wages are paid in Omani rials unless another legal currency is agreed [KC0013]. A monthly-paid worker must be paid at least once a month, on a working day, and in all cases within 3 days of the end of the pay period [KC0014, KC0015]. The employer is not cleared of the wage unless it is transferred to your account at a bank or financial institution licensed by the Central Bank of Oman, and it is the employer that must prove it paid [KC0016, KC0017]. Paying late breaks the law and carries a fine of RO 100 to 300 for each worker, doubled for a repeat; not paying into your bank account carries RO 500 to 1,000 for each worker, doubled for a repeat [KC0042, KC0041].
+**When and how you are paid:** Wages are paid in Omani rials unless another legal currency is agreed [KC0013]. A monthly-paid worker must be paid at least once a month, on a working day, and in all cases within 3 days of the end of the pay period [KC0014, KC0015]. The employer is not cleared of the wage unless it is transferred to your account at a bank or financial institution licensed by the Central Bank of Oman, and it is the employer that must prove it paid [KC0016, KC0017]. Paying late breaks the law and carries a fine of RO 100 to 300 for each worker, doubled for a repeat; not paying into your bank account carries RO 500 to 1,000 for each worker, doubled for a repeat [KC0042, KC0041].
 
 The WPS (Wage Protection System, MOL's electronic check on salary transfers, under Ministerial Decision 729/2024) requires the employer to transfer wages through it within 3 days of the end of the wage period [KC0071]. MOL required at least 75% of each company's workers to be paid through WPS from September 2025 wages and 90% from November 2025 wages [E0181]. An employer that breaks the WPS rules can be warned, have new initial work permits stopped until it complies, and be fined RO 50 per worker, doubled for a repeat [KC0074]. The employer is excused from WPS for a worker in a labour dispute who has stopped work for over 30 days, a worker suspended for over 30 days for reasons not the employer's, a worker with a work-abandonment report approved more than 30 days ago, a new worker in his first 30 days and a worker on unpaid leave [KC0073]. Observers reported in 2025 that only 25% of private businesses were paying through WPS [E0229].
 
@@ -523,58 +471,38 @@ The WPS (Wage Protection System, MOL's electronic check on salary transfers, und
 > - Is 100% WPS coverage now required, and from which month's wages?
 > - Can a worker see his own WPS salary record in an MOL or bank app?
 
-##### Deductions
-
-Wages may be withheld only up to one quarter, for court-ordered maintenance or sums you owe the government or the employer [KC0018]. Loan repayments may not exceed what was agreed, and the employer may not charge interest on loans or advances [KC0019]. For damage you cause deliberately, the employer may, after an investigation and telling you, deduct the cost at up to 25% of your monthly wage; you can complain to MOL within 30 days [KC0020]. A disciplinary fine may not exceed 5 days' wage a month for each violation, and no penalty may be imposed without telling you in writing and hearing your defence [KC0021, KC0022]. You cannot be forced to buy food or goods from the employer or particular shops [KC0023], and nothing may be charged or deducted for safety equipment and protection [KC0024]. You cannot be moved from monthly pay to daily, weekly, piece or hourly pay without your written consent [KC0025]. Pay may not be cut for time off to answer a written summons to a court, the Public Prosecution or another authority [KC0026]. Charging a worker anything for recruiting him is banned (see Who pays what) [KA0006].
+**Deductions:** Wages may be withheld only up to one quarter, for court-ordered maintenance or sums you owe the government or the employer [KC0018]. Loan repayments may not exceed what was agreed, and the employer may not charge interest on loans or advances [KC0019]. For damage you cause deliberately, the employer may, after an investigation and telling you, deduct the cost at up to 25% of your monthly wage; you can complain to MOL within 30 days [KC0020]. A disciplinary fine may not exceed 5 days' wage a month for each violation, and no penalty may be imposed without telling you in writing and hearing your defence [KC0021, KC0022]. You cannot be forced to buy food or goods from the employer or particular shops [KC0023], and nothing may be charged or deducted for safety equipment and protection [KC0024]. You cannot be moved from monthly pay to daily, weekly, piece or hourly pay without your written consent [KC0025]. Pay may not be cut for time off to answer a written summons to a court, the Public Prosecution or another authority [KC0026]. Charging a worker anything for recruiting him is banned (see Who pays what) [KA0006].
 
 #### Hours, rest and leave
 
-##### Hours and overtime
+**Hours and overtime:** At most 8 actual hours a day and 40 a week, plus a daily hour for rest and food that does not count, and no more than 6 hours in a row; in Ramadan, Muslim workers work at most 6 hours a day or 30 a week [E0056, E0057]. The employer must post the schedule of hours and rest days where you can see it [KC0027]. Overtime may bring the total to at most 12 hours a day and needs your consent; it is paid at your basic wage plus at least 25% for day hours and 50% for night hours (9 pm to 5 am), or with time off [E0059, E0060, KC0028]. Work on your rest day or an official holiday earns 100% of your daily basic wage on top of the day's wage, or a day off for each day worked [E0059]. Overtime without your consent is allowed only for stock-taking and accounts work (at most 15 days a year unless MOL allows more) or emergencies, and is then paid at basic wage plus 50% (day) or 75% (night), or 200% on rest days and holidays [KC0029, KC0030]. The Minister may exempt seasonal work and specified sectors from these limits [KC0031]. In practice some migrant workers have been reported working more than 12 hours a day without a day off [E0240].
 
-At most 8 actual hours a day and 40 a week, plus a daily hour for rest and food that does not count, and no more than 6 hours in a row; in Ramadan, Muslim workers work at most 6 hours a day or 30 a week [E0056, E0057]. The employer must post the schedule of hours and rest days where you can see it [KC0027]. Overtime may bring the total to at most 12 hours a day and needs your consent; it is paid at your basic wage plus at least 25% for day hours and 50% for night hours (9 pm to 5 am), or with time off [E0059, E0060, KC0028]. Work on your rest day or an official holiday earns 100% of your daily basic wage on top of the day's wage, or a day off for each day worked [E0059]. Overtime without your consent is allowed only for stock-taking and accounts work (at most 15 days a year unless MOL allows more) or emergencies, and is then paid at basic wage plus 50% (day) or 75% (night), or 200% on rest days and holidays [KC0029, KC0030]. The Minister may exempt seasonal work and specified sectors from these limits [KC0031]. In practice some migrant workers have been reported working more than 12 hours a day without a day off [E0240].
+**Rest day and holidays:** At least 2 consecutive paid rest days a week, which cannot be taken away because you were absent [E0065]. You are paid your gross wage on official public holidays [KC0032].
 
-##### Rest day and holidays
+**Annual leave:** At least 30 days a year on your gross wage, taken after at least 6 months' service; you can carry over up to 30 unused days [E0067]. The employer may postpone your leave by up to 6 months for work reasons, but you must take at least 30 days once every 2 years [KC0035]. You may not give up your leave, and any balance left when the job ends is paid at your gross wage [KC0034, KC0036]. You are entitled to a return ticket home for the leave agreed in your contract (see Going home on leave) [KC0033]. An employer that denies rest days, annual leave, holiday pay, sick leave or special leave can be fined RO 100 to 300 for each worker [KC0042].
 
-At least 2 consecutive paid rest days a week, which cannot be taken away because you were absent [E0065]. You are paid your gross wage on official public holidays [KC0032].
+**Sick leave:** Up to 182 days a year: days 1 to 21 at 100% of your gross wage, days 22 to 35 at 75%, days 36 to 70 at 50%, days 71 to 182 at 35% [E0075]. From 19 July 2026 sick and other leave is insured for expatriates by the SPF (Social Protection Fund, Oman's social insurance agency): the employer pays the first 7 days in full, keeps paying the allowance and claims it back from the Fund [E0219, E0217, E0218]. If illness keeps you off work for at least 3 months in a year after sick and annual leave are used up, the contract ends [KC0037]. In practice employers have cancelled the contracts of seriously sick or injured foreign workers [E0239].
 
-##### Annual leave
+**Other paid leave:** 7 days' paternity leave, 3 days for your marriage, 3 days for the death of a parent, grandparent, brother or sister, 2 days for an uncle or aunt, 10 days for your wife or a child, 15 days for Hajj once after a year's service, and 98 days' maternity leave; you must show proof [E0077]. Maternity leave has been insured by the SPF for expatriate company and government workers since 19 July 2024, but not for domestic workers [E0213].
 
-At least 30 days a year on your gross wage, taken after at least 6 months' service; you can carry over up to 30 unused days [E0067]. The employer may postpone your leave by up to 6 months for work reasons, but you must take at least 30 days once every 2 years [KC0035]. You may not give up your leave, and any balance left when the job ends is paid at your gross wage [KC0034, KC0036]. You are entitled to a return ticket home for the leave agreed in your contract (see Going home on leave) [KC0033]. An employer that denies rest days, annual leave, holiday pay, sick leave or special leave can be fined RO 100 to 300 for each worker [KC0042].
-
-##### Sick leave
-
-Up to 182 days a year: days 1 to 21 at 100% of your gross wage, days 22 to 35 at 75%, days 36 to 70 at 50%, days 71 to 182 at 35% [E0075]. From 19 July 2026 sick and other leave is insured for expatriates by the SPF (Social Protection Fund, Oman's social insurance agency): the employer pays the first 7 days in full, keeps paying the allowance and claims it back from the Fund [E0219, E0217, E0218]. If illness keeps you off work for at least 3 months in a year after sick and annual leave are used up, the contract ends [KC0037]. In practice employers have cancelled the contracts of seriously sick or injured foreign workers [E0239].
-
-##### Other paid leave
-
-7 days' paternity leave, 3 days for your marriage, 3 days for the death of a parent, grandparent, brother or sister, 2 days for an uncle or aunt, 10 days for your wife or a child, 15 days for Hajj once after a year's service, and 98 days' maternity leave; you must show proof [E0077]. Maternity leave has been insured by the SPF for expatriate company and government workers since 19 July 2024, but not for domestic workers [E0213].
-
-##### Heat: the midday ban
-
-From 1 June to 31 August, work at construction sites and other open workplaces in the sun must stop between 12:30 pm and 3:30 pm [E0169, E0174]. An employer that needs to work then must get an MOL permit and provide enough cold drinking water, an enclosed, furnished, air-conditioned rest area near the site, cool washing water and an air-conditioned bus [E0169, E0170, E0171, E0172]. In June 2026 MOL sent inspection teams nationwide, and officials said violators face fines of RO 500 to 1,000 plus administrative penalties [E0173]. MOL acts on safety reports from workers and the public, and its "Safe Summer" heatstroke guidance is given in Bengali among other languages [E0176, E0175]. Where there is imminent danger, MOL must close the workplace or stop the equipment until the danger ends [KC0038].
+**Heat: the midday ban:** From 1 June to 31 August, work at construction sites and other open workplaces in the sun must stop between 12:30 pm and 3:30 pm [E0169, E0174]. An employer that needs to work then must get an MOL permit and provide enough cold drinking water, an enclosed, furnished, air-conditioned rest area near the site, cool washing water and an air-conditioned bus [E0169, E0170, E0171, E0172]. In June 2026 MOL sent inspection teams nationwide, and officials said violators face fines of RO 500 to 1,000 plus administrative penalties [E0173]. MOL acts on safety reports from workers and the public, and its "Safe Summer" heatstroke guidance is given in Bengali among other languages [E0176, E0175]. Where there is imminent danger, MOL must close the workplace or stop the equipment until the danger ends [KC0038].
 
 > **Need to know**
 > - What is the number or app for a worker to report a midday-ban breach?
 
 #### Housing, food and health care
 
-##### Housing and food
-
-The Labour Law requires transport, suitable housing, meals and drinking water only from employers working in areas the Minister specifies [KC0039]. MOL's older leaflet for expatriates says the employer provides suitable food, accommodation and free medical treatment throughout the contract [E0157].
+**Housing and food:** The Labour Law requires transport, suitable housing, meals and drinking water only from employers working in areas the Minister specifies [KC0039]. MOL's older leaflet for expatriates says the employer provides suitable food, accommodation and free medical treatment throughout the contract [E0157].
 
 > **Need to know**
 > - Which areas has the Minister specified under Article 58, and are there current housing standards for labour camps?
 
-##### Health care and insurance
-
-The employer must provide first aid, and a qualified nurse or a contracted health provider where more than 200 workers are in one place [KC0040]. If you are treated in a government or private hospital and have no health insurance, the employer pays for treatment, medicine and the hospital stay [KC0040]. Dhamani, the national health insurance platform run by the FSA (Financial Services Authority), started its pilot phase on 20 April 2025 [E0243].
+**Health care and insurance:** The employer must provide first aid, and a qualified nurse or a contracted health provider where more than 200 workers are in one place [KC0040]. If you are treated in a government or private hospital and have no health insurance, the employer pays for treatment, medicine and the hospital stay [KC0040]. Dhamani, the national health insurance platform run by the FSA (Financial Services Authority), started its pilot phase on 20 April 2025 [E0243].
 
 > **Need to know**
 > - Is employer-paid health insurance now compulsory and enforced for expatriate company workers, from what date, and how does a worker check he is covered?
 
-##### Work injury
-
-Work-injury and occupational-disease insurance under the Social Protection Law does not yet cover foreigners: Royal Decree 60/2025 put it back to five years after the law was issued in July 2023, that is July 2028 [KF0001, E0211]. Until then, see If you are injured or fall ill. MOL's leaflet says you are entitled to have your employer insure you against work accidents [E0158].
+**Work injury:** Work-injury and occupational-disease insurance under the Social Protection Law does not yet cover foreigners: Royal Decree 60/2025 put it back to five years after the law was issued in July 2023, that is July 2028 [KF0001, E0211]. Until then, see If you are injured or fall ill. MOL's leaflet says you are entitled to have your employer insure you against work accidents [E0158].
 
 #### Your passport
 
@@ -708,15 +636,11 @@ Assault by the employer or a superior, or an immoral act against you, also lets 
 
 #### If your employer reports you absent ("absconding")
 
-##### What it is
+**What it is:** A work-abandonment ("desertion") report is filed by the employer on MOL's "File Desertion Report" service when a foreign worker has been absent for over 7 days; it protects the employer from legal responsibility and fines for the worker [E0144]. The employer must attach your pay statements and pays the price of your ticket home, plus work-permit fees if the permit has expired; it cannot be filed once your status is "departed" [E0145, E0146, E0147]. Once the report has been approved for more than 30 days, the employer no longer has to pay you through WPS [KC0073].
 
-A work-abandonment ("desertion") report is filed by the employer on MOL's "File Desertion Report" service when a foreign worker has been absent for over 7 days; it protects the employer from legal responsibility and fines for the worker [E0144]. The employer must attach your pay statements and pays the price of your ticket home, plus work-permit fees if the permit has expired; it cannot be filed once your status is "departed" [E0145, E0146, E0147]. Once the report has been approved for more than 30 days, the employer no longer has to pay you through WPS [KC0073].
+**What it can lead to:** An absconding charge is an "immigration block" that stops you leaving Oman until cleared [E0227]. Workers who fled abusive employers have been arrested for absconding [E0236]. Working for someone else meanwhile is the "free visa" offence above [KC0046].
 
-##### What it can lead to
-
-An absconding charge is an "immigration block" that stops you leaving Oman until cleared [E0227]. Workers who fled abusive employers have been arrested for absconding [E0236]. Working for someone else meanwhile is the "free visa" offence above [KC0046].
-
-##### Checking and clearing it
+**Checking and clearing it:**
 
 1. **Check.** Log in to MOL's "Check Your Employment Record in the Private Sector" service (free, no documents) to see your record [E0128].
 2. **Appeal.** Use MOL's "Appeal Against Desertion Report for Individuals" service, with supporting documents (pay slips, your complaint, proof you were at work), once the report has been approved [E0141, E0142, E0143].
@@ -745,15 +669,11 @@ MOL's 2025 amnesty let workers and employers cancel work-abandonment reports wit
 
 #### If you want to change employer
 
-##### No permission needed at the end of the contract
+**No permission needed at the end of the contract:** Since 1 January 2021 your residence can move to another employer licensed to recruit once you show that your contract has ended or been terminated and the government has approved the new contract; your old employer's NOC (no-objection certificate) is no longer needed, and your family's residence moves with you if they meet the residence conditions [KC0080, KC0083]. MOL still has to approve the transfer [E0224]. Changing before the contract ends still needs the employer's agreement, and some employers demand illegal "release fees" for it [E0223, E0226].
 
-Since 1 January 2021 your residence can move to another employer licensed to recruit once you show that your contract has ended or been terminated and the government has approved the new contract; your old employer's NOC (no-objection certificate) is no longer needed, and your family's residence moves with you if they meet the residence conditions [KC0080, KC0083]. MOL still has to approve the transfer [E0224]. Changing before the contract ends still needs the employer's agreement, and some employers demand illegal "release fees" for it [E0223, E0226].
+**Notice:** On an open-ended contract either side may end it for a legitimate reason with 30 days' written notice (15 days if you are not paid monthly); whoever skips notice pays the wage for the period [KC0066]. During the employer's notice you get 10 paid hours a week to look for a job [KC0067].
 
-##### Notice
-
-On an open-ended contract either side may end it for a legitimate reason with 30 days' written notice (15 days if you are not paid monthly); whoever skips notice pays the wage for the period [KC0066]. During the employer's notice you get 10 paid hours a week to look for a job [KC0067].
-
-##### How the transfer is done
+**How the transfer is done:**
 
 1. **The new employer** must have a vacant recruitment licence for your job; you must be actively employed [E0136].
 2. **MOL transfer:** the request is registered on MOL's "Transfer Non-Omani Workers Services", approved by the previous sponsor and then the new one, and the form is issued; the processing fee is RO 5 [E0133, E0134, E0137].
@@ -776,7 +696,7 @@ You can resign online on MOL's website: log in with your civil ID card or e-auth
 3. **Clear fines and blocks.** Overstay fines are paid on ROP's Exit Penalty Payment service [E0191]. An absconding charge, unpaid fines, or not being removed from the employer's sponsorship blocks departure [E0227].
 4. **If you are still owed money,** file at MOL before you go; you may stay until your court case is decided [E0015].
 
-##### Employer tricks at the end of the job
+**Employer tricks at the end of the job:**
 
 - **Release fees:** demanding money to let you go home or change job; families and labour-sending governments have paid employers up to US$3,900 per worker to get a worker home [E0226]. Charging workers for recruitment is illegal [KA0006].
 - **Keeping you on the sponsorship** so you cannot leave until you pay [E0227].
@@ -927,25 +847,15 @@ You'll need [D0149]:
 
 #### Done to workers
 
-##### Sold through the UAE
+**Sold through the UAE:** Women recruited for UAE jobs have been taken across the Al Ain–Buraimi border into Oman, where embassies cannot track them [D0170]. Agencies in Al Ain and Buraimi supply Omani employers who come on Fridays [D0171]. One Bangladeshi woman who paid an agent RO 300 for a UAE job was "sold" to an Omani man who demanded RO 1,560 before he would let her go [D0172]. Traffickers still recruit with promises of shop jobs in Dubai and then move workers to Oman, and some workers come on tourist visas or via the UAE, outside their own government's checks [D0201, D0202].
 
-Women recruited for UAE jobs have been taken across the Al Ain–Buraimi border into Oman, where embassies cannot track them [D0170]. Agencies in Al Ain and Buraimi supply Omani employers who come on Fridays [D0171]. One Bangladeshi woman who paid an agent RO 300 for a UAE job was "sold" to an Omani man who demanded RO 1,560 before he would let her go [D0172]. Traffickers still recruit with promises of shop jobs in Dubai and then move workers to Oman, and some workers come on tourist visas or via the UAE, outside their own government's checks [D0201, D0202].
+**A shop job that turns out to be housework:** A woman who paid Tk 100,000 for a customer-service job in Oman found her visa said domestic worker [D0173]. Check the job title on the visa and job offer before you pay or fly [KD0052, D0173].
 
-##### A shop job that turns out to be housework
+**Social-media brokers:** Unregulated intermediaries on social media offer Omani families cheap domestic workers at a fraction of agency prices [D0203]. From 2027, only a licensed office may recruit a domestic worker [KD0039].
 
-A woman who paid Tk 100,000 for a customer-service job in Oman found her visa said domestic worker [D0173]. Check the job title on the visa and job offer before you pay or fly [KD0052, D0173].
+**"Release fees":** Employers and agents demand money before letting a worker leave or change employer; one agent told a Bangladeshi woman she owed him RO 200 [D0197, D0174]. The employer may take no money from you for recruiting or transferring you [KD0008].
 
-##### Social-media brokers
-
-Unregulated intermediaries on social media offer Omani families cheap domestic workers at a fraction of agency prices [D0203]. From 2027, only a licensed office may recruit a domestic worker [KD0039].
-
-##### "Release fees"
-
-Employers and agents demand money before letting a worker leave or change employer; one agent told a Bangladeshi woman she owed him RO 200 [D0197, D0174]. The employer may take no money from you for recruiting or transferring you [KD0008].
-
-##### "Oman is open"
-
-Offers of Oman housemaid visas are not a sign the route has reopened: only 3 women were cleared for Oman in 2026 to 8 November [D0006].
+**"Oman is open":** Offers of Oman housemaid visas are not a sign the route has reopened: only 3 women were cleared for Oman in 2026 to 8 November [D0006].
 
 #### Tried by workers
 
@@ -1755,11 +1665,9 @@ The National Pension Authority's Universal Pension "Probash" scheme is for Bangl
 > **Need to know**
 > - Is the Tk 1,000 contribution still offered, when the scheme's English brief lists only the other four [B0024]?
 
-##### What you get
+**What you get:** On the scheme's estimates, Tk 1,000 a month for 10 years gives about Tk 1,530 a month, and for 30 years about Tk 12,466 [B0023]. If you die, your nominee gets the pension until you would have turned 75; if you die before paying 10 years, the deposit comes back with profit [B0022]. You can borrow up to 50% of your deposit, repaid in up to 24 instalments, and the pension is income-tax free [B0022, B0025].
 
-On the scheme's estimates, Tk 1,000 a month for 10 years gives about Tk 1,530 a month, and for 30 years about Tk 12,466 [B0023]. If you die, your nominee gets the pension until you would have turned 75; if you die before paying 10 years, the deposit comes back with profit [B0022]. You can borrow up to 50% of your deposit, repaid in up to 24 instalments, and the pension is income-tax free [B0022, B0025].
-
-##### The rules
+**The rules:**
 
 - No lump-sum withdrawal and no leaving before pension age [B0025].
 - A late contribution has 1 month's grace, then a late fee of 1% a day [B0025].
