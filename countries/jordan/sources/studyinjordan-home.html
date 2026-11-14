@@ -1,0 +1,1379 @@
+
+
+<!DOCTYPE html>
+<html dir="rtl" lang="ar">
+<head><meta charset="utf-8" /><title>
+	وزارة التربية والتعليم وتنمية الموارد البشرية - مديرية شؤون الطلبة الوافدين
+</title><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, user-scalable=yes" /><link rel="stylesheet" href="assets/css/style.css" />
+
+            <!-- Bootstrap RTL -->
+        
+        <link rel="icon" type="image/x-icon" href="assets/images/favicon.ico" /><link href="assets/Accessibility_tools/css/bootstrap.rtl.min.css" rel="stylesheet" /><link href="assets/Accessibility_tools/css/bootstrap-grid.rtl.min.css" rel="stylesheet" /><link href="assets/Accessibility_tools/css/accessibility.css" rel="stylesheet" />
+            <style>
+        *{
+            direction:rtl !important;
+        }
+
+
+
+           </style>
+
+    <style>
+        /* Reset */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            overflow-x: hidden;
+            font-family: "Tahoma", Arial, sans-serif;
+        }
+
+        /* Hero + video */
+        .hero {
+            position: relative;
+            height: 100vh;
+            min-height: 600px;
+            overflow: hidden;
+        }
+
+        .video-container {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+        }
+
+        .video-background {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        /* Top navigation */
+        .top-nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 50px;
+            backdrop-filter: blur(10px);
+            z-index: 1001;
+        }
+
+        .nav-logo img {
+            height: 80px;
+            width: auto;
+        }
+
+        .nav-links {
+            display: flex;
+            align-items: center;
+            gap: 30px;
+            position: relative;
+            flex-wrap: wrap;
+        }
+
+            .nav-links a {
+                text-decoration: none;
+                color: #fff !important;
+                padding: 10px 15px;
+                font-weight: bold;
+                font-size: 16px;
+                transition: 0.3s;
+                cursor: pointer;
+                white-space: nowrap;
+            }
+
+                .nav-links a:hover {
+                    color: #c2a472;
+                    transform: translateY(-2px);
+                }
+
+        /* Dropdowns */
+        .dropdown {
+            position: relative;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            right: 0;
+            top: 100%;
+            background: #937d56;
+            min-width: 200px;
+            border-radius: 8px;
+            box-shadow: 0 6px 15px rgba(0,0,0,0.3);
+            flex-direction: column;
+            z-index: 1000;
+        }
+
+            .dropdown-content a {
+                padding: 12px 18px;
+                color: #fff;
+                text-decoration: none;
+                display: block;
+                font-weight: normal;
+                font-size: 16px;
+                transition: 0.3s;
+            }
+
+                .dropdown-content a:hover {
+                    background: #a00000;
+                    padding-right: 25px;
+                }
+
+        .dropdown.show .dropdown-content {
+            display: flex;
+        }
+
+        /* Hamburger */
+        .hamburger {
+            display: none;
+            flex-direction: column;
+            gap: 5px;
+            cursor: pointer;
+            padding: 10px;
+            z-index: 1002;
+        }
+
+            .hamburger div {
+                width: 30px;
+                height: 3px;
+                background: #fff;
+                transition: 0.3s;
+            }
+
+            .hamburger.active div:nth-child(1) {
+                transform: rotate(45deg) translate(8px,8px);
+            }
+
+            .hamburger.active div:nth-child(2) {
+                opacity: 0;
+            }
+
+            .hamburger.active div:nth-child(3) {
+                transform: rotate(-45deg) translate(8px,-8px);
+            }
+
+        /* Overlay for mobile */
+        .nav-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0,0,0,0.5);
+            z-index: 1000;
+        }
+
+            .nav-overlay.show {
+                display: block;
+            }
+
+        /* Buttons */
+        .buttons-container {
+            position: absolute;
+            top: 700px;
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: 1000;
+            text-align: center;
+            display: flex;
+            gap: 30px;
+            flex-wrap: wrap;
+        }
+
+        .main-btn {
+            display: inline-block;
+            color: #fff !important;
+            padding: 22px 45px;
+            font-size: 26px;
+            font-weight: bold;
+            text-decoration: none;
+            border-radius: 40px;
+            box-shadow: 0 12px 35px rgba(0,0,0,0.6);
+            transition: 0.5s;
+            min-width: 220px;
+        }
+
+        .apply-btn {
+            background: linear-gradient(135deg,#800000,#a0000070);
+        }
+
+        .majors-btn {
+            background: linear-gradient(135deg, #937d56, #c2a4722b);
+        }
+
+
+        .main-btn:hover {
+            y transform: scale(1.1);
+            box-shadow: 0 18px 45px rgba(0,0,0,0.8);
+        }
+
+        /* Footer */
+        .site-footer {
+            background: #800000;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .footer-bottom {
+            font-size: 14px;
+        }
+
+            .footer-bottom p {
+                margin: 0;
+            }
+
+        /* Social & QR */
+
+
+        .qr-code {
+            position: fixed; /* anchor to viewport */
+            top: 50%; /* move to middle vertically */
+            left: 50%; /* move to middle horizontally */
+            transform: translate(-50%, -50%); /* true centering */
+            background: #fff;
+            border: 3px solid #c2a472;
+            border-radius: 20px;
+            padding: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            text-align: center;
+            max-width: 200px;
+            display: none;
+        }
+
+            .qr-code.active {
+                display: block;
+            }
+
+        .qr-image {
+            width: 150px;
+            height: 150px;
+            border-radius: 12px;
+            margin-bottom: 12px;
+        }
+
+        .qr-text {
+            color: #800000;
+            font-weight: bold;
+            font-size: 14px;
+            margin-bottom: 8px;
+        }
+
+        .qr-subtext {
+            color: #666;
+            font-size: 12px;
+            line-height: 1.4;
+        }
+
+        .qr-close {
+            position: absolute;
+            top: 8px;
+            left: 8px;
+            color: white;
+            border: none;
+            width: 25px;
+            height: 25px;
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+        }
+
+
+        /* Floating socials */
+        .social-floats {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .social-float, .whatsapp-float {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+            .social-float img, .whatsapp-float img {
+                width: 30px;
+                height: 30px;
+            }
+
+        /* Responsive breakpoints */
+        @media (max-width:1024px) {
+            .top-nav {
+                padding: 12px 30px;
+            }
+
+            .nav-logo img {
+                height: 70px;
+            }
+
+            .buttons-container {
+                top: 550px;
+                gap: 25px;
+            }
+
+            .main-btn {
+                font-size: 24px;
+                min-width: 200px;
+            }
+        }
+
+        @media (max-width:768px) {
+            .top-nav {
+                padding: 10px 15px;
+                flex-wrap: wrap;
+                background: rgba(0,0,0,0.5);
+            }
+
+            .nav-logo img {
+                height: 60px;
+            }
+
+            .hamburger {
+                display: flex;
+            }
+
+            .nav-links {
+                position: fixed;
+                top: 0;
+                right: -100%;
+                width: 80%;
+                max-width: 350px;
+                height: 100vh;
+                background: linear-gradient(180deg,#800000 0%,#600000 100%);
+                flex-direction: column;
+                flex-wrap: nowrap;
+                align-items: flex-start;
+                padding: 80px 20px 20px;
+                transition: right 0.4s ease;
+                overflow-y: auto;
+                box-shadow: -5px 0 15px rgba(0,0,0,0.3);
+            }
+
+                .nav-links.show {
+                    right: 0;
+                }
+
+                .nav-links a {
+                    width: 100%;
+                    font-size: 16px !important;
+                    padding: 15px 20px;
+                    border-bottom: 1px solid rgba(255,255,255,0.1);
+                }
+
+            .dropdown-content {
+                position: static;
+                width: 100%;
+                background: rgba(0,0,0,0.2);
+                box-shadow: none;
+            }
+
+            .buttons-container {
+                position: relative;
+                top: auto;
+                transform: none;
+                margin-top: 60vh;
+                gap: 15px;
+            }
+
+            .main-btn {
+                font-size: 20px;
+                min-width: 100%;
+            }
+        }
+
+        @media (max-width:480px) {
+            .nav-logo img {
+                height: 50px;
+            }
+
+            .nav-links {
+                width: 85%;
+                padding: 70px 15px 15px;
+            }
+
+                .nav-links a {
+                    font-size: 16px !important;
+                    padding: 12px 15px;
+                }
+
+            .buttons-container {
+                margin-top: 55vh;
+                gap: 12px;
+            }
+
+            .main-btn {
+                font-size: 18px;
+                border-radius: 30px;
+            }
+
+            .qr-code {
+                max-width: 150px;
+            }
+
+            .qr-image {
+                width: 110px;
+                height: 110px;
+            }
+
+            .footer-bottom {
+                font-size: 11px;
+            }
+        }
+
+        @media (min-width:1400px) {
+            .buttons-container {
+                top: 800px;
+                gap: 40px;
+            }
+
+            .main-btn {
+                font-size: 28px;
+                min-width: 250px;
+            }
+        }
+
+        /* Larger social floats */
+        .social-floats {
+            display: flex;
+            flex-direction: column;
+            gap: 20px; /* more spacing between icons */
+        }
+
+        .social-float {
+            width: 90px; /* bigger circle */
+            height: 90px;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+            cursor: pointer;
+            transition: 0.3s ease;
+        }
+
+            .social-float img {
+                width: 50px; /* bigger icon inside */
+                height: 50px;
+            }
+
+        img {
+            width: 50px;
+        }
+
+        .nav-overlay.show {
+            z-index: -999 !important;
+        }
+
+        /* Base buttons container */
+        .buttons-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+            flex-wrap: wrap; /* allow wrapping on small screens */
+            margin: 30px auto;
+            padding: 0 15px;
+            max-width: 100%;
+            text-align: center;
+        }
+
+        /* Base button style */
+        .main-btn {
+            display: inline-block;
+            color: #fff;
+            padding: 18px 35px;
+            font-size: 22px;
+            font-weight: bold;
+            text-decoration: none;
+            border-radius: 40px;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.4);
+            transition: all 0.3s ease;
+            min-width: 200px;
+            text-align: center;
+        }
+
+
+
+            /* Hover effect */
+            .main-btn:hover {
+                transform: scale(1.05);
+                box-shadow: 0 12px 35px rgba(0,0,0,0.6);
+            }
+
+        /* Tablet screens */
+        @media (max-width: 1024px) {
+            .main-btn {
+                font-size: 20px;
+                padding: 16px 28px;
+                min-width: 180px;
+            }
+        }
+
+        /* Mobile screens */
+        @media (max-width: 768px) {
+            .buttons-container {
+                flex-direction: column; /* stack vertically */
+                gap: 15px;
+            }
+
+
+            .main-btn {
+                width: 100%; /* full width buttons */
+                max-width: 100%;
+                font-size: 18px;
+                padding: 14px 20px;
+            }
+
+            video {
+            }
+        }
+
+        /* Very small screens */
+        @media (max-width: 480px) {
+            .main-btn {
+                font-size: 16px;
+                padding: 10px 13px;
+                border-radius: 30px;
+                max-width: 270px;
+                height: 47px;
+                font-family: 'FFShamelSansBook', Arial, sans-serif;
+            }
+        }
+
+
+        .social-qr-container {
+            position: fixed; /* anchor to viewport */
+            bottom: 120px; /* distance from bottom */
+            right: 20px; /* distance from right */
+            z-index: 2000; /* higher than nav (navOverlay is 1000) */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+        }
+
+        /* Fade-out effect on focus */
+        .social-floats a img:hover,
+        .social-floats a:active,
+        .whatsapp-float:focus,
+        .whatsapp-float:active,
+        .qr-trigger:focus,
+        .qr-trigger:active {
+        }
+
+        a img:hover {
+            transform: scale(1.05);
+            box-shadow: 0 12px 35px rgba(0, 0, 0, 0.6);
+        }
+
+        /* ===== styles for nested sub-dropdown (هيئة تنشيط السياحة) ===== */
+        .sub-dropdown {
+            position: relative;
+        }
+
+        .sub-dropdown-toggle {
+            display: flex !important;
+            justify-content: space-between;
+            align-items: center;
+            cursor: pointer;
+            padding: 12px 18px !important;
+            color: #fff !important;
+            font-weight: normal !important;
+            font-size: 16px !important;
+            transition: 0.3s;
+            white-space: nowrap;
+        }
+
+        .sub-dropdown-toggle:hover {
+            background: #a00000;
+            padding-right: 25px !important;
+        }
+
+        .sub-arrow {
+            font-size: 12px;
+            margin-right: 8px;
+            transition: transform 0.3s;
+            display: inline-block;
+        }
+
+        .sub-dropdown.show .sub-arrow {
+            transform: rotate(90deg);
+        }
+
+        .sub-dropdown-content {
+            display: none;
+            position: absolute;
+            right: 100%;
+            top: 0;
+            background: #937d56;
+            min-width: 220px;
+            border-radius: 8px;
+            box-shadow: 0 6px 15px rgba(0,0,0,0.3);
+            flex-direction: column;
+            z-index: 1100;
+        }
+
+        .sub-dropdown.show .sub-dropdown-content {
+            display: flex;
+        }
+
+        .sub-dropdown-content a {
+            padding: 12px 18px !important;
+            color: #fff !important;
+            text-decoration: none;
+            display: block !important;
+            font-weight: normal !important;
+            font-size: 16px !important;
+            transition: 0.3s;
+        }
+
+        .sub-dropdown-content a:hover {
+            background: #a00000;
+            padding-right: 25px !important;
+        }
+
+        /* Mobile: sub-dropdown appears below instead of to the left */
+        @media (max-width: 768px) {
+            .sub-dropdown-content {
+                position: static;
+                right: auto;
+                top: auto;
+                width: 100%;
+                background: rgba(0,0,0,0.15);
+                box-shadow: none;
+                border-radius: 0;
+                padding-right: 15px;
+            }
+        }
+        /* ===== end nested sub-dropdown styles ===== */
+    </style>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P62NKTHCKM"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-P62NKTHCKM');
+</script>
+    
+
+
+</head>
+<body>
+    <form name="form1" method="post" action="./" id="form1">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="bp6/fPpaIeyNXkh03yf8OGXOxpabFjmvJDgAgKRsVdxrxfbouiY2lNGRpQui6NyUFJuMR7eeSHRg6JLdFfivDhXALkaqD/PfndDgwKzjbxk=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="lZ1U2fWt3yBLgnNvDeqpwVDmK9NqyOsumds4RpuqBzemc/auZAItxyEOkKuHcF+BLPK9F2UWJZA8UwUHfa/xXLCSo5hYn2ApLapq0/fGnaWpmZcmuqVFcZVEWav2IzYPio/lFoZbcqYlLz/TX9rNrg==" />
+</div>
+                
+
+            
+   <div style="top: 961px; left: 524px;" class="uw-s10-reading-guide uw-exception-class d-none">
+    <div class="uw-s10-reading-guide__arrow"></div>
+</div>
+<div id="uwexceptionclass1" class="uw-exception-class d-none" style="position: fixed !important; z-index: 2147483647 !important; width: 100% !important; background: rgba(0, 0, 0, 0.5) none repeat scroll 0% 0% !important; top: 0px; height: 285px;">
+    <div style="width: 100% !important; height: 8px !important; position: absolute !important; background: rgb(0, 44, 176) none repeat scroll 0% 0%; bottom: 0px;" class="uw-exception-class"></div>
+</div>
+<div id="uwexceptionclass2" class="uw-exception-class d-none" style="position: fixed !important; z-index: 2147483647 !important; width: 100% !important; background: rgba(0, 0, 0, 0.5) none repeat scroll 0% 0% !important; bottom: 0px; height: 47px;">
+    <div style="width: 100% !important; height: 8px !important; position: absolute !important; background: rgb(0, 205, 136) none repeat scroll 0% 0%; top: 0px;" class="uw-exception-class"></div>
+</div>
+
+<main class="userway-widget-container p5 userway_overflow modal" id="accessibilityMenu">
+    <div id="userway" class="userway userway-menu-app p5" style="visibility: visible;">
+        <div class="widget accessibility-menu">
+            <div class="widget-header-wrapper flex-box light-head" style="background: #333c47 !important">
+                <div class="widget-header flex-box">
+                    <div class="title" style="padding-top: 3px;">
+                        <h6 style="margin-bottom: 3px !important">بحاجة الى مساعدة؟</h6>
+                        <p>
+                            لتعديل موقع الويب وفقًا لاحتياجات الوصول الخاصة بك، حدد خيارًا واحدًا أو أكثر أدناه
+                        </p>
+                    </div>
+                    <button type="button" class="widget-close-btn" alt="أغلاق">
+                        <span class="focus-outline" alt="أغلاق"></span>
+                    </button>
+                </div>
+
+            </div>
+            <div class="widget-body scroll-wrapper">
+                <div class="widget-content">
+                    <div>
+                        <div class="widget-form no-top-padding no-bottom-padding actions-wrapper-main">
+                            <div class="actions-wrapper actions-wrapper__gridF">
+                                <div class="ally-action-item step-0 ally-action-item__ready">
+                                    <div role="button" tabindex="0" class="action ally-action visual" data-uw-reader-content="Press enter to enable enhanced contrast" aria-pressed="false">
+                                        <a id="contrast1" onclick="switchVisible()" style="display: block">
+                                            <div class="action__inner ">
+                                                <div>
+                                                    <img src="./assets/Images/contrast.png" alt="ضوء التباين" />
+                                                    <br />
+                                                    ضوء التباين
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <a id="contrast2" onclick="invertColors()" style="display: none; text-decoration: none">
+                                            <div class="action__inner ">
+                                                <img src="./assets/Images/InvertColors.png" alt="التباين المعكوس" />
+                                                التباين المعكوس
+                                                <div class="acc-dash mt-1"></div>
+                                            </div>
+                                        </a>
+                                        <a id="contrast3" onclick="darkcontrast()" style="display: none">
+                                            <div class="action__inner ">
+                                                <img src="./assets/Images/DarkContrast.png" alt="التباين المظلم" />
+                                                التباين المظلم
+                                                <div class="d-flex flex-row justify-contetn-between">
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <a id="contrast4" onclick="desaturate()" style="display: none">
+                                            <div class="action__inner ">
+                                                <img src="./assets/Images/Desaturate.png" alt="تشبع منخفض" />
+                                                تشبع منخفض
+                                                <div class="d-flex flex-row justify-contetn-between">
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="ally-action-item step-0 ally-action-item__ready">
+                                    <a id="highlightlinks" onclick="addHighlightLink()" style="display: block">
+                                        <div role="button" tabindex="0" class="action ally-action" data-uw-reader-content="Press enter to highlight links" aria-pressed="false">
+                                            <div class="action__inner">
+                                                <img src="./assets/Images/HighLightLink.png" alt="تحديد الروابط" />
+                                                تحديد الروابط
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a id="highlightlinks2" onclick="addHighlightLink2()" style="display: none">
+                                        <div role="button" tabindex="0" class="action ally-action" data-uw-reader-content="Press enter to highlight links" aria-pressed="false">
+                                            <div class="action__inner">
+                                                <img src="./assets/Images/HighLightLink.png" alt="تحديد الروابط" />
+                                                تحديد الروابط
+                                                <div class="acc-dash me-1 mt-1"></div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="ally-action-item step-0 ally-action-item__ready">
+                                    <div role="button" tabindex="0" class="action ally-action" data-uw-reader-content="Press enter to enable Bigger text" aria-pressed="false">
+                                        <a id="textSpacing1" onclick="textSpacing1()" style="display: block">
+                                            <div class="action__inner ">
+                                                <img src="./assets/Images/TextSpacing.png" alt="ضبط تباعد الاحرف" />
+                                                ضبط تباعد الاحرف
+                                            </div>
+                                        </a>
+                                        <a id="textSpacing2" onclick="textSpacing2()" style="display: none">
+                                            <div class="action__inner ">
+                                                <img src="./assets/Images/TextSpacing.png" alt="تباعد بسيط" />
+                                                تباعد بسيط
+                                                <div class="acc-dash me-1 mt-1"></div>
+                                            </div>
+                                        </a>
+                                        <a id="textSpacing3" onclick="textSpacing3()" style="display: none">
+                                            <div class="action__inner">
+                                                <img src="./assets/Images/TextSpacing.png" alt="تباعد متوسط" />
+                                                تباعد متوسط
+                                                <div class="d-flex flex-row justify-contetn-between">
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <a id="textSpacing4" onclick="textSpacing4()" style="display: none">
+                                            <div class="action__inner">
+                                                <img src="./assets/Images/TextSpacing.png" alt="تباعد شديد" />
+                                                تباعد شديد
+                                                <div class="d-flex flex-row justify-contetn-between">
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="ally-action-item step-0 ally-action-item__ready">
+                                    <div role="button" tabindex="0" class="action ally-action" data-uw-reader-content="Press enter to increase text spacing" aria-pressed="false">
+                                        <a id="biggerText1" onclick="biggerText1()" style="display: block">
+                                            <div class="action__inner ">
+                                                <img src="./assets/Images/FontSize.png" alt="حجم الخط" />
+                                                حجم الخط
+                                            </div>
+                                        </a>
+                                        <a id="biggerText2" onclick="biggerText2()" style="display: none">
+                                            <div class="action__inner ">
+                                                <img src="./assets/Images/FontSize.png" alt="تكبير حجم الخط" />
+                                                أ
+                                                <div class="acc-dash me-1 mt-1"></div>
+                                            </div>
+                                        </a>
+                                        <a id="biggerText3" onclick="biggerText3()" style="display: none">
+                                            <div class="action__inner">
+                                                <img src="./assets/Images/FontSize.png" alt="تكبير حجم الخط" />
+                                                أ+
+                                                <div class="d-flex flex-row justify-contetn-between">
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <a id="biggerText4" onclick="biggerText4()" style="display: none">
+                                            <div class="action__inner">
+                                                <img src="./assets/Images/FontSize.png" alt="تكبير حجم الخط" />
+                                                أ++
+                                                <div class="d-flex flex-row justify-contetn-between">
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="ally-action-item step-0 ally-action-item__ready">
+                                    <div role="button" tabindex="0" class="action ally-action" data-uw-reader-content="Press enter to enable Dyslexia Friendly font" aria-pressed="false">
+                                        <a id="dyslexiaFriendly" onclick="dyslexiaFriendly()" style="display: block">
+                                            <div class="action__inner ">
+                                                <img src="./assets/Images/FontType.png" alt="نوع الخط" />
+                                                نوع الخط
+                                            </div>
+                                        </a>
+                                        <a id="dyslexiaFriendly2" onclick="dyslexiaFriendly2()" style="display: none">
+                                            <div class="action__inner ">
+                                                <img src="./assets/Images/FontType.png" alt="خط قابل للقرأه" />
+                                                خط قابل للقرأه
+                                                <div class="acc-dash me-1 mt-1"></div>
+                                            </div>
+                                        </a>
+                                        <a id="legibleFonts" onclick="legibleFonts()" style="display: none">
+                                            <div class="action__inner ">
+                                                <img src="./assets/Images/FontType.png" alt="الخط الواضح" />
+                                                الخط الواضح
+                                                <div class="d-flex flex-row justify-contetn-between">
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="ally-action-item step-0 ally-action-item__ready d-none d-lg-block d-xl-block">
+                                    <div role="button" tabindex="0" class="action ally-action" data-uw-reader-content="Press enter to enable enhanced cursor" aria-pressed="false">
+                                        <a id="cursor1" onclick="cursor1()" style="display: block">
+                                            <div class="action__inner ">
+                                                <img src="./assets/Images/Cursor.png" alt="القراءة" />
+                                                القراءة
+                                            </div>
+                                        </a>
+                                        <a id="cursor2" onclick="cursor2()" style="display: none">
+                                            <div class="action__inner ">
+                                                <img src="./assets/Images/Cursor.png" alt="مؤشر كبير" />
+                                                مؤشر كبير
+                                                <div class="acc-dash me-1 mt-1"></div>
+                                            </div>
+                                        </a>
+                                        <a id="cursor3" onclick="cursor3()" style="display: none">
+                                            <div class="action__inner">
+                                                <img src="./assets/Images/Cursor.png" alt="مؤشر القراءة" />
+                                                مؤشر القراءة
+                                                <div class="d-flex flex-row justify-contetn-between">
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <a id="cursor4" onclick="cursor4()" style="display: none">
+                                            <div class="action__inner">
+                                                <img src="./assets/Images/Cursor.png" alt="دليل القراءة" />
+                                                دليل القراءة
+                                                <div class="d-flex flex-row justify-contetn-between">
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="ally-action-item step-0 ally-action-item__ready">
+                                    <div role="button" tabindex="0" class="action ally-action" data-uw-reader-content="Press enter to increase line height" aria-pressed="false">
+                                        <a id="lineHeight1" onclick="lineHeight1()" style="display: block">
+                                            <div class="action__inner ">
+                                                <img src="./assets/Images/LineHeight.png" alt="ارتفاع الخط" />
+                                                ارتفاع الخط
+                                            </div>
+                                        </a>
+                                        <a id="lineHeight2" onclick="lineHeight2()" style="display: none">
+                                            <div class="action__inner ">
+                                                <img src="./assets/Images/LineHeight.png" alt="ارتفاع الخط(0.75)" />
+                                                ارتفاع الخط(0.75)
+                                                <div class="acc-dash me-1 mt-1"></div>
+                                            </div>
+                                        </a>
+                                        <a id="lineHeight3" onclick="lineHeight3()" style="display: none">
+                                            <div class="action__inner ">
+                                                <img src="./assets/Images/LineHeight.png" alt="ارتفاع الخط(1.75)" />
+                                                ارتفاع الخط(1.75)
+                                                <div class="d-flex flex-row justify-contetn-between">
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <a id="lineHeight4" onclick="lineHeight4()" style="display: none">
+                                            <div class="action__inner ">
+                                                <img src="./assets/Images/LineHeight.png" alt="ارتفاع الخط(2)" />
+                                                ارتفاع الخط(2)
+                                                <div class="d-flex flex-row justify-contetn-between">
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="ally-action-item step-0 ally-action-item__ready">
+                                    <div role="button" tabindex="0" class="action ally-action" data-uw-reader-content="Press enter to change text align" aria-pressed="false">
+                                        <a id="textAlign1" onclick="textAlign1()" style="display: block">
+                                            <div class="action__inner ">
+                                                <img src="./assets/Images/AlignRight.png" alt="محاذاة النص" />
+                                                محاذاة النص
+                                            </div>
+                                        </a>
+                                        <a id="textAlign2" onclick="textAlign2()" style="display: none">
+                                            <div class="action__inner ">
+                                                <img src="./assets/Images/AlignRight.png" alt="محاذاة لليمين" />
+                                                محاذاة لليمين
+                                                <div class="acc-dash me-1 mt-1"></div>
+                                            </div>
+                                        </a>
+                                        <a id="textAlign3" onclick="textAlign3()" style="display: none">
+                                            <div class="action__inner ">
+                                                <img src="./assets/Images/AlignLeft.png" alt="محاذاة لليسار" />
+                                                محاذاة لليسار
+                                                <div class="d-flex flex-row justify-contetn-between">
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <a id="textAlign4" onclick="textAlign4()" style="display: none">
+                                            <div class="action__inner ">
+                                                <img src="./assets/Images/AlignCenter.png" alt="محاذاة الوسط" />
+                                                محاذاة الوسط
+                                                <div class="d-flex flex-row justify-contetn-between">
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <a id="textAlign5" onclick="textAlign5()" style="display: none">
+                                            <div class="action__inner ">
+                                                <img src="./assets/Images/AlignJustify.png" alt="ملأ السطر" />
+                                                ملأ السطر
+                                                <div class="d-flex flex-row justify-contetn-between">
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                    <div class="acc-dash me-1 mt-1"></div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="ally-action-item step-0 ally-action-item__ready">
+                                    <div role="button" tabindex="0" class="action ally-action" data-uw-reader-content="Press enter to change text align" aria-pressed="false">
+                                        <a id="speaker"  style="display: block">
+                                            <div class="action__inner ">
+                                                <img src="./assets/Images/speaker.png" alt="القارئ الصوتي" width="20" />
+                                                القارئ الصوتي
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div ui-view=""></div>
+                </div>
+            </div>
+            <div class="menu-footer">
+                <a class="btn btn-primary btn-reset" onclick="ResetAll()">
+                    اعادة الضبط
+                </a>
+            </div>
+        </div>
+    </div>
+</main>
+
+
+        <div class="nav-overlay" id="navOverlay" onclick="closeMenu()"></div>
+
+        <header class="hero">
+            <div class="video-container">
+                <video autoplay loop muted preload="auto" class="video-background">
+                    <source type="video/mp4" />
+                    متصفحك لا يدعم تشغيل الفيديو.  
+                </video>
+            </div>
+
+            <!-- Navigation -->
+            
+            <nav class="top-nav" role="navigation" aria-label="Main Menus">
+    <div class="nav-logo">
+        <img src="assets/img/Logo1.png" alt="Ministry Logo" />
+    </div>
+
+                <!-- Hamburger -->
+                <div class="hamburger" id="hamburger" onclick="toggleMenu()">
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                </div>
+
+                <!-- Overlay for mobile -->
+                <div class="nav-overlay " id="navOverlay" onclick="closeMenu()"></div>
+
+                <!-- Nav links -->
+                <div class="nav-links" id="navLinks">
+                    <a href="Default.aspx" onclick="closeMenu()">الرئيسية</a>
+                    <a href="Why.aspx" onclick="closeMenu()">لماذا الأردن</a>
+                    <a href="WhyJordan.aspx" onclick="closeMenu()">لماذا التعليم في الأردن</a>
+
+                    <!-- Dropdown: تعرف على الأردن -->
+                    <div class="dropdown" id="KnowDropdown">
+                        <a href="javascript:void(0)" onclick="toggleDropdown('KnowDropdown')">تعرَّف على الأردن ▼</a>
+                        <div class="dropdown-content">
+                            <a href="Zone.aspx" onclick="closeMenu()">خارطة الأردن</a>
+                            <a href="division.aspx" onclick="closeMenu()">التقسيم الإداري للأردن</a>
+                            <a href="Travel.aspx" onclick="closeMenu()">الدخول إلى الأردن</a>
+                        </div>
+                    </div>
+
+                    <!-- Dropdown: التعليم العالي -->
+                    <div class="dropdown" id="helpDropdown">
+                        <a href="javascript:void(0)" onclick="toggleDropdown('helpDropdown')">التعليم العالي في الأردن ▼</a>
+                        <div class="dropdown-content">
+                            
+                            
+                            <a href="Principles.aspx" target="_blank" onclick="closeMenu()">السياسة العامة لقبول الطلبة الوافدين</a>
+                            <a href="Degrees.aspx" onclick="closeMenu()">الدرجات العلمية</a>
+                            <a href="Marks.aspx" onclick="closeMenu()">نظام العلامات</a>
+                            <a href="UnivCategory.aspx" onclick="closeMenu()">مؤسسات التعليم العالي الأردنية</a>
+                            <a href="MajorsSearch.aspx" onclick="closeMenu()">التخصصات في الجامعات</a>
+                            <a href="Register.aspx" onclick="closeMenu()">الالتحاق بمؤسسات التعليم العالي</a>
+                        </div>
+                    </div>
+
+                    <!-- Dropdown: وزارة السياحة والاثار -->
+                    <div class="dropdown" id="TourDropdown">
+                        <a href="javascript:void(0)" onclick="toggleDropdown('TourDropdown')">وزارة السياحة والاثار ▼</a>
+                        <div class="dropdown-content">
+                            <!-- الفرعي 1: برنامج أردننا جنة -->
+                            <a href="jannah.aspx" onclick="closeMenu()">برنامج أردننا جنة</a>
+
+                            <!-- الفرعي 2: هيئة تنشيط السياحة (nested sub-dropdown) -->
+                            <div class="sub-dropdown" id="subTourDropdown">
+                                <a class="sub-dropdown-toggle" href="javascript:void(0)" onclick="toggleSubDropdown('subTourDropdown', event)">
+                                    هيئة تنشيط السياحة
+                                    <span class="sub-arrow">◄</span>
+                                </a>
+                                <div class="sub-dropdown-content">
+                                    <a href="Tourism.aspx" onclick="closeMenu()">تعريف بهيئة تنشيط السياحة</a>
+                                    <a href="EduTourism.aspx" onclick="closeMenu()">وحدة السياحة التعليمية</a>
+                                    <a href="Calendar.aspx" onclick="closeMenu()">منصة Calendar.jo أجندة فعاليات الأردن</a>
+                                    <a href="AliaAirport.aspx" onclick="closeMenu()">مكتب السياحة التعليمية في مطار الملكة علياء الدولي</a>
+                                    <a href="Places.aspx" onclick="closeMenu()">أماكن سياحية في الأردن</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Dropdown: المساعدة -->
+                    <div class="dropdown" id="helpDropdown1">
+                        <a href="javascript:void(0)" onclick="toggleDropdown('helpDropdown1')">المساعدة ▼</a>
+                        <div class="dropdown-content">
+                            <a href="About.aspx" onclick="closeMenu()">من نحن</a>
+                            <a href="Contact.aspx" onclick="closeMenu()">تواصل معنا</a>
+                            <a href="FaqAr.aspx" onclick="closeMenu()">الأسئلة الأكثر تكرارًا</a>
+                            <a href="Relative.aspx" onclick="closeMenu()">مواقع ذات صلة</a>
+                            <a href="https://www.youtube.com/watch?v=bZ___0LBDwQ" target="_blank" onclick="closeMenu()">فيديو توضيحي</a>
+                        </div>
+                    </div>
+
+                    <a href="Announcements.aspx" onclick="closeMenu()">اعلانات</a>
+
+                    <!-- Language switch -->
+                    <div>
+                        
+                        <a id="btnEnglish" href="javascript:__doPostBack(&#39;btnEnglish&#39;,&#39;&#39;)">
+    <img src="assets/img/Lang/En2.png" style="width:50px; height:50px;" alt="English" />
+                        </a>
+                    </div>
+
+                    <!-- Social QR + Social Floats -->
+
+                </div>
+
+
+            </nav>
+
+            <!-- Buttons -->
+            <div class="d-flex justify-content-center flex-wrap gap-3 my-4 ">
+                <a href="MajorsSearch.aspx" class="main-btn majors-btn">تعرف على البرامج الأكاديمية
+                </a>
+                <a href="https://studyinjordan.jo/isajordanapp2026/" class="main-btn apply-btn">تــــقــــديـــم طــــلـــب
+                </a>
+            </div>
+            <div class="qr-code " id="qrCode">
+                <button class="qr-close" onclick="closeQRCode()">×</button>
+                <img src="assets/img/qrcode.png" alt="QR Code للموقع" class="qr-image" />
+                <div class="qr-text">مسح رمز QR</div>
+                <div class="qr-subtext">لزيارة موقعنا بسرعة و سهولة</div>
+            </div>
+        </header>
+
+        <!-- Footer -->
+
+        <footer class="site-footer">
+            <div class="footer-bottom text-center">
+                <!-- Social QR + Social Floats row (top) -->
+                <div class="d-flex justify-content-center align-items-center flex-wrap gap-2 mb-3">
+                    <!-- QR trigger -->
+                    <div class="qr-trigger" onclick="toggleQRCode()">
+                        <img src="assets/img/qrcode.png" alt="QR Code" />
+                    </div>
+
+                    <!-- Social icons -->
+                    <a href="https://www.facebook.com/StudyinjordanISA" target="_blank" class="facebook-float">
+                        <img src="assets/img/Facebook.png" alt="Facebook" />
+                    </a>
+                    <a href="https://www.instagram.com/studyinj0rdan" target="_blank" class="Instagram-float">
+                        <img src="assets/img/Instagram.png" alt="Instagram" />
+                    </a>
+                    <a href="https://www.youtube.com/@StudyInJordan" target="_blank" class="Youtube-float">
+                        <img src="assets/img/Youtube.png" alt="YouTube" />
+                    </a>
+                    <a href="https://wa.me/962781111185" target="_blank" class="">
+                        <img src="assets/img/Whatsapp.png" alt="WhatsApp" />
+                    </a>
+                </div>
+
+                <!-- Paragraph row (bottom) -->
+                <p class="fw-bold mt-3 mb-0">
+                    © 2026 وزارة التربية والتعليم وتنمية الموارد البشرية :: وحدة تنسيق القبول الموحد
+                </p>
+
+            </div>
+        </footer>
+
+    </form>
+
+
+
+    
+                                                        <a id="lnkAccessibility" class="access-icon">
+
+    <img class="acc-image" style="  width: 100px !important;z-index:9990;" src="./assets/Images/accessibilityAR.png" alt="امكانية الوصول" />
+
+</a>
+
+    <script src="assets/Accessibility_tools/js/jquery.min.js"></script>
+
+<script src="assets/Accessibility_tools/js/accessibility.js"></script>
+
+
+
+    <script>
+        function toggleDropdown(id, e) {
+            const dropdown = document.getElementById(id);
+        const dropdowns = document.getElementsByClassName("dropdown");
+
+        // إغلاق جميع القوائم الأخرى
+        for (let i = 0; i < dropdowns.length; i++) {
+                if (dropdowns[i].id !== id) {
+            dropdowns[i].classList.remove("show");
+                }
+            }
+
+        // فتح/إغلاق القائمة المطلوبة
+        dropdown.classList.toggle("show");
+
+        // منع الانتقال للرابط
+        if (e) {
+            e.preventDefault();
+        e.stopPropagation();
+            }
+        return false;
+        }
+
+        function toggleSubDropdown(id, e) {
+            if (e) {
+            e.preventDefault();
+        e.stopPropagation();
+            }
+        const subDropdown = document.getElementById(id);
+        subDropdown.classList.toggle("show");
+        return false;
+        }
+
+        function toggleQRCode() {
+            const qrCode = document.getElementById('qrCode');
+        qrCode.classList.toggle('active');
+        }
+
+        function closeQRCode() {
+            const qrCode = document.getElementById('qrCode');
+        qrCode.classList.remove('active');
+        }
+
+        function toggleMenu() {
+            const navLinks = document.getElementById("navLinks");
+        const hamburger = document.getElementById("hamburger");
+        const overlay = document.getElementById("navOverlay");
+
+        navLinks.classList.toggle("show");
+        hamburger.classList.toggle("active");
+        overlay.classList.toggle("show");
+
+        // منع التمرير عندما تكون القائمة مفتوحة
+        document.body.style.overflow = navLinks.classList.contains("show") ? "hidden" : "auto";
+        }
+
+        function closeMenu() {
+            const navLinks = document.getElementById("navLinks");
+        const hamburger = document.getElementById("hamburger");
+        const overlay = document.getElementById("navOverlay");
+
+        navLinks.classList.remove("show");
+        hamburger.classList.remove("active");
+        overlay.classList.remove("show");
+        document.body.style.overflow = "auto";
+        }
+
+        // Close QR if clicking outside
+        document.addEventListener('click', function (e) {
+            const qrCode = document.getElementById('qrCode');
+        const qrTrigger = document.querySelector('.qr-trigger');
+        if (qrCode && qrTrigger && qrCode.classList.contains('active')) {
+                if (!qrCode.contains(e.target) && !qrTrigger.contains(e.target)) {
+            closeQRCode();
+                }
+            }
+        });
+
+        // Close dropdowns if clicking outside
+        document.addEventListener('click', function (e) {
+            if (!e.target.closest('.dropdown')) {
+                const dropdowns = document.getElementsByClassName("dropdown");
+        for (let i = 0; i < dropdowns.length; i++) {
+            dropdowns[i].classList.remove("show");
+                }
+            }
+        // Close sub-dropdowns if clicking outside
+        if (!e.target.closest('.sub-dropdown')) {
+                const subDropdowns = document.getElementsByClassName("sub-dropdown");
+        for (let i = 0; i < subDropdowns.length; i++) {
+            subDropdowns[i].classList.remove("show");
+                }
+            }
+        });
+
+        // Close menu on resize back to desktop
+        window.addEventListener('resize', function () {
+            if (window.innerWidth > 768) {
+            closeMenu();
+            }
+        });
+
+
+
+        document.addEventListener('DOMContentLoaded', function () {
+            const video = document.querySelector('.video-background');
+        const mediaQuery = window.matchMedia('(max-width: 768px)');
+
+        function handleVideoSource(e) {
+                const newSrc = e.matches ? 'assets/videos/ArabicMOB.mp4' : 'assets/videos/ARABICVRold.mp4';
+
+
+        if (video.getAttribute('src') !== newSrc) {
+            video.pause();
+        video.setAttribute('src', newSrc);
+        video.load();
+        video.play();
+                }
+            }
+
+        // 1. Run once on initial load
+        handleVideoSource(mediaQuery);
+
+        // 2. Add listener for future resize/rotation changes
+        mediaQuery.addEventListener('change', handleVideoSource);
+        });
+
+        // Ensure video plays inline on mobile
+        document.addEventListener('DOMContentLoaded', function () {
+            const video = document.querySelector('.video-background');
+        if (video && window.innerWidth <= 768) {
+            video.setAttribute('playsinline', '');
+        video.setAttribute('webkit-playsinline', '');
+            }
+        });
+    </script>
+
+</body>
+</html>

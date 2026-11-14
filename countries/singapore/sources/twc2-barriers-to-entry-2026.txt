@@ -1,0 +1,762 @@
+Barriers to entry
+
+Access to justice for migrant workers in
+Singapore
+April 2026
+0. Contents                                                                            I. Introduction
+
+I     Introduction                                                                 2   Singapore's economy is built on the sweat of its migrant workers. Yet it is no
+                                                                                       surprise that migrants often face exploitation and abuse. In recognising the
+II    The current justice system                                                   3   dignity of migrant workers, it is important for them to be able to seek redress
+                                                                                       for any wrongs committed against them especially wrongs spelled out in
+III   Barrier: Unclear about available avenues                                     4   legislation. This study delves into access to justice: what legal avenues do
+                                                                                       migrant workers have, what obstacles they face, and what Singapore can do
+IV    Barrier: Control over evidence                                               4   about it. The focus would predominantly be on salary claims ­ where the
+                                                                                       employer owes the worker unpaid salary ­ these being the bulk of the issues
+V     Barrier: Inability to understand and utilise one's evidence                  8   that migrant workers come to TWC2 to seek help with.
+
+VI    Barrier: Translation costs                                                   8   This report by a TWC2 volunteer ­ a fresh law graduate ­ was developed in the
+                                                                                       fourth quarter of 2025. It begins by explaining the main avenue workers have
+VII   Barrier: Contract substitution                                               9   to access justice ­ mainly the TADM/ECT system. This avenue is the same for
+                                                                                       local and foreign employees, so long as they come under the Employment
+VIII  Barrier: Limited defences in law against exploiting power                    10  Act. The latter condition mans, however, that domestic workers are excluded.
+                                                                                       The main body of this report discusses the many barriers that workers face in
+      imbalance                                                                        accessing justice and offer recommendations. Finally, there are some general
+                                                                                       concluding thoughts.
+IX    Barrier: Economic realities                                                  15
+                                                                                       To build this report, eighteen cases were reviewed and the migrant workers at
+X     Barrier: Enforcement of court orders                                         18  the centre of those cases were interviewed. They were at different stages of
+                                                                                       the legal process, with some at such an early stage they had not even filed
+XI    Conclusion                                                                   19  their complaint when the research volunteer first met them. Most had
+                                                                                       grievances over salary. The volunteer also sat in on a couple of hearings of the
+XII   Appendix                                                                     20  Employment Claims Tribunal as a registered Community Courts and Tribunals
+                                                                                       (CCT) Friend. Brief notes about their individual situations are recorded in the
+Transient Workers Count Too                     www.twc2.org.sg                        Appendix.
+                                                info@twc2.org.sg
+Singapore                                                                                                                                                                                        Page 2 of 26
+                                                April 2026
+© Transient Workers Count Too
+
+Barriers to entry: Access to justice for migrant workers in Singapore, April 2026
+II. The current justice system                                                     dismissal disputes between employers and employees.4
+                                                                                   Neither party (employers or employees) are permitted to engage a lawyer to
+Currently, outstanding salary claims are resolved via a two-stage process.         represent it before the ECT. The worker has to present his own case before the
+                                                                                   court,5 while the employer, if it is a company as often is the case, can appoint
+First, the worker lodges his claim through the Tripartite Alliance for Dispute     a representative.
+Management (TADM) portal. This would commence the dispute resolution               Currently, companies can appoint in-house lawyers as their representatives,
+process. Workers and their employers would undergo an e-negotiation                and this loophole has been flagged recently in the press. 6
+process where the parties are strongly encouraged to reach an amicable             It is important to note that there is a one year limitation period for claims to be
+settlement within five working days.1                                              filed at TADM. Past that period, the claims can no longer be filed.7
+                                                                                   Alternatively, workers can file their claim before the other courts such as the
+If the parties fail to reach a settlement (often the case), the process moves on   Magistrate Courts, or the District Courts.
+to mediation. A TADM mediator, who is a neutral third party, serves to help
+parties resolve the dispute. At the mediation session(s), parties again try to     5 SG Courts, "Before going to court for an employment claim". Access at:
+resolve the dispute amicably. If successful, parties sign a settlement             https://www.judiciary.gov.sg/civil/before-going-to-court-employment-claim
+agreement, and this agreement can be registered as a court order. However, if      6 TWC2, "Letter in the Straits Times: Improve access to justice at the Employment
+parties fail to reach a settlement, the mediator issues a Claim Referral           Claims Tribunal". Access at: https://twc2.org.sg/2026/01/07/letter-in-the-straits-
+Certificate.2                                                                      times-improve-access-to-justice-at-the-employment-claims-tribunal/
+                                                                                   7 "Managing employment disputes at Tripartite Alliance for Dispute Management
+With this Claim Referral Certificate, the worker can choose to file his claim      (TADM)". Access at: https://www.mom.gov.sg/employment-practices/managing-
+before the Employment Claims Tribunal (ECT).3 The ECT is part of the State         employment-disputes
+Courts of Singapore and has jurisdiction to hear salary-related and wrongful
+                                                                                                                                                                                             Page 3 of 26
+1 TADM, "What can I expect after I file my claim". Access at:
+https://www.tal.sg/tadm/faqs/mediation/process-on-tadm-odr-
+portal#:~:text=What%20can%20I%20expect%20after,an%20in%2Dperson%20medi
+ation%20session.
+2 Ibid.
+3 TADM, "When will a Claim Referral Certificate be issued". Access at:
+https://www.tal.sg/tadm/faqs/mediation/issue-crc-without-in-person-mediation
+4 SG Courts, "File an employment claim". Access at:
+https://www.judiciary.gov.sg/civil/file-employment-claim
+
+Barriers to entry: Access to justice for migrant workers in Singapore, April 2026
+III. Barrier: Unclear about available avenues                                      Agent without a license under the Employment Agencies
+                                                                                   Act and then let MOM carry out their own investigation.11
+A clear pattern that emerged from interviewing the sampled workers was that        While the respondent did attempt to complain to MOM, it was dismissed
+they did not know what their legal rights were and what avenues existed for        quickly because of how he framed his complaint.12 He had complained that
+redress.                                                                           the fraudster had cheated him of his money, a complaint which was quickly
+                                                                                   dismissed, and unsurprisingly since cheating is not obviously within MOM's
+One respondent shared that he did not know about TADM as a forum to                purview. He should have focused on the fact that the party was doing agency
+resolve disputes.8 Fortunately, it seems that through word of mouth or social      business without an employment agency licence, which is a criminal offence
+media, these workers have come to know of organisations such as TWC2 that          under the Employment Act.
+can help workers navigate the legal system.9 These organisations should be
+able to help workers bridge that gap.                                              IV. Barrier: Control over evidence
+
+Relatedly, owing to a lack of knowledge of the legal system and the law,           It can be difficult for migrants to prove that their employers did not pay their
+workers (acting without the benefit of assistance from TWC2 or other               salaries as the employers have a great degree of control over the
+organisations) may also lack tact when enforcing their legal rights.               documentation needed as evidence.
+Considerations include:                                                            Evidentially speaking, there are two aspects to a salary claim:
+                                                                                   4.1 proving how much the employer is to pay the employee and
+    · How should they frame their claim on the facts?                              4.2 proving how much the employer actually paid the employee.
+    · Where should they make their claim?
+    · Is it worthwhile to make their claim?
+
+One respondent had made a case before the Small Claims Tribunal to sue a
+person for impersonating as an employment agency managing director.10
+However, a far less costly option would be for the respondent to complain to
+the Ministry of Manpower (MOM) about impersonation of an Employment
+
+8 See Appendix, Respondent 12.                                                     11 S 6 Employment Agencies Act 1958; MOM, "Report an Employment Act violation".
+9 See Appendix, Respondent 12.                                                     Access at: https://www.mom.gov.sg/eservices/services/report-an-employment-act-
+10 See Appendix, Respondent 8.                                                     violation.
+                                                                                   12 See Appendix, Respondent 8.
+Barriers to entry: Access to justice for migrant workers in Singapore, April 2026
+                                                                                                                                                                                             Page 4 of 26
+4.1 Proving how much the employer is to pay the                                    At least, in these instances, workers may have
+                                                                                   photographic copies of physical time cards, despite all their defects. Some
+employee                                                                           worksites have adopted digital clock-in systems, e.g. using thumbprints or
+                                                                                   face scans, and the data resides only on the employer's digital storage media;
+Timecards are usually needed for workers to prove the number of hours they         workers have no access to the data, and when they wish to file a salary claim,
+worked and accordingly how much in overtime, rest day and public holiday           nothing in hand to prove that they worked whatever hours.
+salary they are owed. Timecards are used to track the clock-in and clock-out
+timings of the workers, and these are usually filled up by the supervisors,        4.2 Proving how much the employer actually paid the
+occasionally, by managers or bosses.
+                                                                                   employee
+Unfortunately, there is no standardised format for these timecards which can
+make it difficult to interpret what is written.                                    Proving that an employee was duly paid his salary is not generally an issue for
+                                                                                   workers housed in large dormitories. This is because, under law, employers
+For instance, one timecard stated the start time and end time to be "8.00" and     are obliged to pay these workers via bank transfer. These bank records provide
+"17.00" respectively, and the figure "+2" is written in the adjacent column.13     concrete proof of the amounts actually transferred into employees' accounts.
+An ordinary reader might interpret the worker to have worked from 8 am to 5
+pm, with a 1 hour lunch break in between, because those figures are stated         However, for those workers who are not housed in large dormitories ­ and
+as the start and end times. However, the worker actually worked an additional      many migrant workers in the service and related industries are not ­
+2 hours as reflected by the "+2" figure in the adjacent column, which would        employers can opt to pay salaries in cash, which almost always creates
+entitle him to overtime pay.14                                                     evidential problems. When the mode of payment is in cash, there is simply no
+                                                                                   objective bank transfer record to rely on. Instead, pay slips, which by their very
+Timecards can also omit key information. For example, on one time card, it         nature are documents issued by employers, will be a key piece of evidence.
+was not clear the pay was attributable to work done on which day; only the
+total amount of pay was stated.15 Further, the writing on some of these cards
+can be smudged or downright illegible, making it impossible to read what is
+written.16
+
+13 See Appendix, Respondent 10.                                                    15 See Appendix, Respondent 13.
+14 See Appendix, Respondent 10.                                                    16 See Appendix, Respondent 3.
+
+Barriers to entry: Access to justice for migrant workers in Singapore, April 2026                                   Page 5 of 26
+A variety of problems ensue:                                                       If the payslip has been forged very skilfully, it would take a
+                                                                                   handwriting expert to show that the signature was indeed forged. It is simply
+a. Some employers do not issue any pay slip at all, even though this is a          too costly, and disproportionate to the claim amount ­ migrant worker
+    requirement set out by the Ministry of Manpower, and the absence of pay        salaries being so low that even several months' unpaid salary may not add up
+    slips make it difficult to prove whether payment has been made.                to much in absolute dollar terms ­ to engage a handwriting expert.
+
+b. Some employers make workers sign blank payment vouchers while giving            4.3 The idea of control
+    out a cash payment. The worker would understand that he either takes the
+    cash and signs the blank form or if he refuses to sign, he would not get the   The point here is this: the evidence the employee needs to furnish for a salary
+    cash at all. Unsurprisingly, some workers buckle and sign. This will create    claim is generally under the control of the employer. This is further
+    problems down the road when the worker asserts that he was not paid his        complicated by the fact that workers often lack the knowledge of what kind of
+    correct salary, for the employer would have written whatever he wished         evidence they need to keep when they believe they have not been properly
+    onto the pre-signed payment voucher.                                           paid, in the months leading up to actually filing a claim.19 The employers may
+                                                                                   choose to withhold key documentation if the workers do not explicitly ask
+c. Worse, the employer may forge the employee's signature on a payslip or          them for it. But even if workers do have such knowledge, they may feel afraid
+    payment voucher when later pressed by TADM or the ECT to show that the         to ask the employers for proper documentation because they are afraid the
+    employee had been paid, when in fact no payment was made.                      employer may be angered by this, and consequently cancel their work permits
+                                                                                   and deport them back to their home country.20 One Respondent shared that
+One respondent shared that his employer had provided the ECT with salary           he really wants to work in Singapore, and is afraid that if he brings a claim, he
+slips with the Respondent's forged signature to prove that the respondent had      will anger his employer and will never be allowed back in Singapore ever
+in fact received payment.17 Unfortunately, because the respondent could not        again.21
+prove that the signature on the payslips were forged, he could not prove to the
+ECT that employer failed to pay the respondent his salary.18
+
+17 See Appendix, Respondent 4.                                                     20 Farwin A, Low A, Howard N, " `My young life, finished already?': a qualitative study
+18 See Appendix, Respondent 4.                                                     of embedded social stressors and their effects on mental health of low-wage male
+19 International Labour Organization, "Justice without borders: Access to labour   migrant workers in Singapore" ("My young life"), at p 8.
+justice for migrant workers through cross-border litigation" ("Justice across      21 See Appendix, Respondent 17.
+borders"), at p 28. Access at: https://www.ilo.org/sites/default/files/2024-
+12/Standard%20publication_Justice%20Across%20Borders_EN_web__0.pdf                                                                                                                           Page 6 of 26
+
+Barriers to entry: Access to justice for migrant workers in Singapore, April 2026
+While workers have an avenue to compel employers to produce the                                                                                                  Two workers attend to
+documentation under MOM's itemised pay slip rules,22 or via the disclosure                                                                                       the evidence they will
+process before the ECT, employers could well forge documents to suit their                                                                                       need. One searches
+own purposes.23                                                                                                                                                  his phone for useful
+                                                                                                                                                                 evidence, the other
+4.4 Recommendation                                                                                                                                               takes a photo of his In-
+                                                                                                                                                                 principle Approval
+While it may not be a full solution in itself, an evidential presumption could be                                                                                document and sends
+implemented to shift the burden of proof from the worker to the employer; this                                                                                   the image to his Case
+is entirely justifiable since the employer is the one who controls the evidence.                                                                                 Officer at TWC2.
+When the worker has not been provided with pay slips documenting wages
+paid, which is required under national labour law, the burden of proof should      that early stage, the amount owed remains
+be shifted to the employer to show the worker has been paid.24                     undetermined for lack of comprehensive evidence. This can help filter out
+It has been suggested before Singapore Parliament that the evidential burden       frivolous claims.
+should be shifted to the employer in respect of workplace discrimination           However, making this change would require a review of the present TADM-ECT
+cases, recognising the employer is the one who controls the evidence.25 The        process because the Claim Referral Certificate that TADM issues to enable a
+current parliamentary stance seems to be against the shifting of evidentiary       case to go before the ECT requires a precise statement of the claim amount.
+burdens because of concerns that it would lead to employers facing frivolous
+accusations.26                                                                     25 Parliamentary Debates, "Workplace Fairness (Dispute Resolution) Bill". See
+Such a concern can be resolved by the presumption only applying once the           speech by Mr Chua Kheng Wee Louis. Access at:
+worker establishes a prima facie case of salary being owed to him, even if, at     https://sprs.parl.gov.sg/search/#/sprs3topic?reportid=bill-766.
+                                                                                   26 Parliamentary Debates, "Workplace Fairness (Dispute Resolution) Bill". See
+22 MOM, " Itemised pay slips". Access at: https://www.mom.gov.sg/employment-       speech by Dr Tan See Leng. Access at:
+practices/salary/itemised-payslips.                                                https://sprs.parl.gov.sg/search/#/sprs3topic?reportid=bill-765.
+23 For examples, see Appendix, Respondent 4 and Respondent 10.
+24 "Justice across borders, at p 55.                                                                                                                                                         Page 7 of 26
+
+Barriers to entry: Access to justice for migrant workers in Singapore, April 2026
+V. Barrier: Inability to understand and                                              VI. Barrier: Translation costs
+
+utilise one's evidence                                                               A related concern is that where key evidence is in the worker's own native
+                                                                                     tongue, in order to submit it to court, it has to be translated. Unfortunately, the
+Even if workers do manage to get the requisite evidence to support a salary          Singapore courts only provides translation services for documents if the
+claim, they may not understand their own evidence.                                   language is is Chinese, Tamil, and Malay.31 Other organizations such as the
+                                                                                     High Commissioner of Bangladesh could possibly help to translate those
+Singapore's justice system is generally adversarial; the judge relies on the         documents. But if that is not possible as well, the worker would have to hire
+evidence presented by the parties.27 The judge does not on his own initiative        an external certified translator. This could cost a lot of money especially if it
+make inquiries or seek evidence.28                                                   involves translating a video, which might not make it worthwhile to do so.
+                                                                                     One Respondent wanted to submit a video in Bengali as evidence.32 He was
+It is therefore especially important for the worker to understand his evidence,      unaware that he had to approach an external certified translator to translate
+because the worker has to be the one presenting his own case before the ECT,         the video and translated the document himself. When he found out that the
+and cannot rely on an advocate to do so on his behalf. If the worker does not        translation service can cost hundreds of dollars for a mere three-minute
+understand the document himself, he is unlikely to utilise those documents to        video, he was shocked.
+cogently argue his case when he could have a valid claim.
+                                                                                     30 See Appendix, Respondent 3.
+For example, one respondent claims that he worked more than eight hours a            31 SG Courts, "Arrange for Translation of Court Documents". Access at:
+day which entitles him to overtime pay.29 However, that was not made out on          https://www.judiciary.gov.sg/services/translation-court-documents.
+the evidence. According to the time card, the worker worked only 8 hours,            32 See Appendix, Respondent 8
+which disentitles him from overtime.30 Yet, the worker continued to insist that
+he worked more than eight hours, a claim that would not be taken seriously by                                                                                                                  Page 8 of 26
+the TADM officer, let alone the ECT. The worker would have a much better
+case by pleading that he was not paid his full basic salary for the past month
+because there is more evidence to back that argument since he could prove
+using his timecard that he had worked that month.
+
+27 Johan Ding, "Singapore's Informal Justice Experience: Evaluating the practice of
+Small claims Tribunals" 2024 Sing L Rev 41, at p 137.
+28 ibid.
+29 See Appendix, Respondent 3.
+
+Barriers to entry: Access to justice for migrant workers in Singapore, April 2026
+VII. Barrier: Contract substitution                                                  7.1 Pressure to sign substituted contract
+
+Contract substitution could make it even more difficult for workers to claim         Unfortunately, upon arriving in Singapore, some workers face pressure to sign
+the salaries they were originally promised because there is another contract         a written agreement that has terms that differ from those in the original
+the worker signed, often with a much lower salary (alongside other                   agreement. At times, the worker does not even understand the terms of this
+unfavourable terms). Contract substitution refers to the changing of the terms       new contract because it is in a different language,34 and might not even have
+of employment from what the worker had originally agreed to, executed when           the time to properly read the new contract before their signature and/or
+the worker is in a vulnerable position and his or her ability to exercise free-will  thumbprint is demanded. One respondent shared that his employer had
+consent is restricted.                                                               coaxed him into thinking that signing this contract was a mere formality and
+                                                                                     the original agreement still held.35 Such signed substituted contracts pose
+Typically, the original contract the worker agreed to is concluded informally ­      huge obstacles to workers' salary claims, especially when the workers have
+via oral communication over phone or Whatsapp.33 Unfortunately, if it was            no proof of the original agreements that had been concluded informally.
+concluded informally, proving the existence of this contract can be rather
+difficult.                                                                           Migrant workers' inability to resist demands to sign substituting contracts is a
+                                                                                     result of the huge recruitment fees most would have paid substantial fees to
+Sometimes the terms of that original contract are reflected in the In-principle      get jobs in Singapore.36 Many would have taken on debt to pay these agent
+Approval (IPA) document issued by the Ministry of Manpower upon approval of          fees, among other financial commitments (to support their dependants) they
+the employer's application for a work pass for the foreigner. However, the           have back home.37 Thus, there is great pressure for them to do whatever it
+details in the IPA are not cast in stone; they can be superseded by new terms        takes to retain the job, including signing whatever papers the employer hands
+or a new contract provided the employer can show that the employee had               them. This leaves them vulnerable to exploitation by the employer ­ getting
+consented to any degradation of the terms of employment in the new                   them to sign a new contract that negates the terms originally agreed to.
+contract. This is a low bar as explained below (Pressure to sign...)
+
+On the other hand, the substituted contract, which the worker is made to sign
+after he has arrived in Singapore, is in writing and is more detailed.
+
+33 For example, see Appendix, Respondent 16.                                         35 See Appendix, Respondent 16
+34 Research on Migrant Workers' Rights-Based Standard Employment Contract for        36 Standard Employment Contract at p 16.
+Domestic Work in ASEAN ("Standard Employment Contract"), at p 16.                    37 My young life, at p 8.
+
+Barriers to entry: Access to justice for migrant workers in Singapore, April 2026                                              Page 9 of 26
+VIII. Barrier: Limited defences in law                                             The difficulty in succeeding under the doctrine of
+                                                                                   unconscionability lies in proving the first element of infirmity. Infirmity could
+against exploiting power imbalance                                                 be physical, mental and/or emotional in nature. However, not every infirmity
+                                                                                   would be sufficient to meet this requirement. It has to be an infirmity of
+Under Singapore law, the avenues to set aside such a contract at law are           sufficient gravity to have acutely affected the worker's ability to safeguard his
+rather limited. This is because contract law favours the principle of freedom of   own interests.43 This is an incredibly high threshold to satisfy.
+contract. Courts generally would not rewrite the parties' agreement for them
+even when it is inequitable.38 The onus is on the person to read the contract      For migrant workers, many of them likely face emotional and mental
+carefully before deciding whether to sign it or not.39 It generally does not       infirmities. In a study conducted by SMU, the main drivers of emotional
+matter whether, due to the lopsided bargaining power between parties, one          distress among workers include the threat of deportation from employers and
+party dictates the terms to the disadvantage of the other. Inequality of           having to pay the agent fee debt.44
+bargaining power is a well-accepted facet of the modern commercial world.
+Nonetheless, in some cases where the employer exploits the imbalanced              Analysing the few case precedents with a migrant worker-employer context,
+power dynamic of the employer-worker relationship which results in an              courts rarely found that the first element of infirmity had been satisfied. The
+improvident bargain, the doctrine of unconscionability could operate to set        large amount of agency fees that were paid to secure the job along with the
+aside such contracts. However, the bar to invoke this doctrine is rather high.     fear of being unable to pay back the loan were not found to be of sufficient
+To invoke this doctrine, first, the worker has to show that he was suffering from  gravity to affect the worker's ability to safeguard his own interests per se. It
+an infirmity.40 Second, the employer must have exploited the infirmity to          seems that the key determinant of whether the first element is satisfied is
+procure the transaction.41 If both these elements are proven, it is for the        whether the worker understood the nature of his job in Singapore before
+employer to prove that the transaction was fair, just and reasonable. 42           coming to Singapore.45
+
+38 Sun Electric Pte ltd v Menvra Solutions Pte Ltd [2021] SGHC 101 at [45]         An employer can get away with asking a worker to sign a substituted contract
+39 Ong Keh Choo v Paul Huntington Bernardo [2020] SGCA 69 at [65]                  with different terms from that originally agreed upon so long as, before the
+40 BOM v BOK [2018] SGCA 83 at [142]                                               worker left to work in Singapore, the employer clarified that the nature of the
+41 Ibid.
+42 Ibid.                                                                           43 Nelosn Enonchong, "THE STATE OF THE DOCTRINE OF UNCONSCIONABILITY IN
+                                                                                   SINGAPORE" [2021] SJL 100 at 114.
+Barriers to entry: Access to justice for migrant workers in Singapore, April 2026  44 Access at: https://news.smu.edu.sg/news/2015/11/04/smu-study-reveals-
+                                                                                   challenges-and-emotional-distress-faced-migrant-workers-singapore
+                                                                                   45 Built TL Construction v Hossan Taslim ECT/10697/2025 (Unreported decision) at
+                                                                                   [8].
+
+                                                                                                                                                                                             Page 10 of 26
+work would differ from what was originally agreed upon. If the worker upon         was experiencing was of sufficient gravity that hindered
+hearing the clarification nevertheless chose to come to Singapore to take on       his ability to conserve his own interests.50
+the job, the infirmity did not affect his ability to safeguard his interests. The
+huge agency fee incurred, while painful, did not affect the worker's ability to    Unfortunately to do so, there needs to be clear documentation that the
+understand the agreement he was entering into.46                                   employer or its agent had misrepresented the nature of the job to the worker.
+                                                                                   In that above-mentioned case, the worker had specifically requested the
+Conversely, if the employer fails to make such a clarification, and in reliance    employer's agent to give him greater assurance that the job would not involve
+on the original promise, the worker comes to Singapore only to be asked to         physically strenuous activities.51 In response, he was given a Letter of Intent in
+take on a job that is different from what was originally agreed upon, one ECT      the employer's name that he had been offered a position of a floor painter.52
+case has held that emotional infirmity can be of sufficient gravity for the        Additionally, the advertisement for the floor painter position which also
+"substituted contract" to be set aside.                                            included the employer's name stated the job to be a floor painter role. It was
+                                                                                   reasonable for the worker to expect to be offered a floor painter role.53
+In that case, the worker specifically sought a job that would not involve
+carrying heavy loads as that would aggravate his existing back-related             However, in many other cases, evidence of the misrepresentation may not be
+injuries.47 Because he believed a floor painter job would not involve carrying     available. Representations regarding the nature of the job may be made orally.
+such loads, he agreed to take on the job, only to be told upon coming to           Other workers may not seek written assurances from the employer about the
+Singapore that he was being placed in a role involving reinforced steel bars       nature of the job. Without such evidence, the ECT would not likely find that
+("rebar"), which is a physically strenuous role.48 Had he been told that he was    infirmity had occurred.
+being employed as a rebar worker, the worker would never have agreed to
+come to Singapore to take on the job. But given that he already paid a             The doctrine of economic duress can be another avenue to set aside a
+significant sum of agency fees to secure this role, he felt he had no choice but   substituted contract. This doctrine applies where the worker can show that
+to take on the role.49 The court found that the emotional distress the worker      the employer exerted pressure directed at the compulsion of his will, such
+                                                                                   pressure was illegitimate, and that but for the pressure he would not have
+46 Ibid.                                                                           signed the contract.54
+47 Built TL Construction Pte Ltd v Ohidujjaman Mohammad ECT/10174/2025
+(Unreported Decision) at [7].                                                      50 Id, at [76].
+48 Id, [28].                                                                       51 Id, at [9].
+49 Id, at [29]                                                                     52 Id, at [10].
+                                                                                   53 Id, at [71].
+Barriers to entry: Access to justice for migrant workers in Singapore, April 2026  54 Oon Swee Gek v Violet Oon [2024] SGHC 13 at [60]
+
+                                                                                                                                        Page 11 of 26
+It is important to emphasise yet again that just because there is an unequal       the line between illegitimate pressure and commercial
+relationship between the employer and worker does not mean that pressure is        pressure can be very thin. If the employer threatens to terminate the contract
+exerted nor that the pressure is illegitimate. A plea of economic duress would     with the worker which could result in him being sent back to his home country
+only succeed in exceptional circumstances, where the employer used his             if he does not agree to a longer notice period than what was originally agreed
+superior bargaining position in an illegitimate manner.55                          upon, that might not amount to illegitimate pressure if, owing to the short
+                                                                                   supply of workers, that is the only course open to the employer. However, if
+This presents two hurdles to the worker. First, he needs to show exactly what      the employer decided to increase the notice period for a reason other than an
+kind of pressure the employer had exerted on him in order to get him to sign       opportunistic desire to exploit the counter party's vulnerability for financial
+the contract.56 The worker cannot just point to there being an unequal             gain, that is more likely to be seen as legitimate. But how would a worker be
+bargaining power between him and the employer, or a feeling that he has to         able to demonstrate what private motives the employer had?
+take on the job.
+                                                                                   Lastly, it should be stated that it would be unlikely that a worker can succeed
+From the respondents interviewed, we hear that around the time that the            in setting aside a contract by relying on the ground that he failed to read and
+workers are asked to sign substituted contracts, there is no threat that is        understand the substituted contract. If a worker, assuming that the document
+made by the employers as to what would happen if the workers do not sign.          reflected the original agreement, or failing to seek clarification from the
+An employer would just hand the worker a contract and ask him to sign it.57        employer where he did not understand the details in it, still chose to sign the
+The employer may give certain reassurances that the contract reflects what         substituted contract without reading it, that contract will likely be regarded as
+had been originally agreed upon.58 While that could amount to                      binding by the court. It does not matter that the employer had previously
+misrepresentation, that does not amount to pressure.                               misrepresented certain terms in the contract that induced the worker to enter
+                                                                                   into the contract ­ it was for the worker to properly read the contract and
+Nevertheless, workers feel pressured. Because they would typically have paid       clarify any doubts.
+a lot in agency fees, and/or they have huge financial commitments back
+home, they would feel they had no choice but to accept the contract.59             57 For example, see Appendix, Respondent 10, Respondent 14, Respondent 16
+                                                                                   58 See Appendix, Respondent 14.
+Secondly, under this doctrine of economic duress, the pressure asserted            59 See Appendix, Respondent 14; "Vital yet Vulnerable. Mental and emotional health
+needs to be illegitimate as opposed to mere commercial pressure. However,          of South Asian Migrant workers in Singapore", at p 44.
+
+55 Singapore Law Watch, Chapter 8, "The Law of Contract", at 8.11.3 Access at:                                                                                                               Page 12 of 26
+https://www.singaporelawwatch.sg/About-Singapore-Law/Commercial-Law
+56 Built-TL Construction Pte Ltd v Fahim Mohammad ECT/10711/2025 &
+ECT/10721/2025 (Unreported decision) at [9].
+
+Barriers to entry: Access to justice for migrant workers in Singapore, April 2026
+8.1 Recommendation                                                                 One example of a worker not understanding the legal
+                                                                                   significance of the IPA ­ a uniquely Singaporean document which no foreigner
+The solution can be found in treaties such as the ILO Domestic Workers             can have prior experience with ­ was this: The respondent thought the figure
+Convention, 2011 No 189 (Convention No 189), albeit that applies to                of $550 in the IPA was the foreign worker levy when it was his basic salary.61
+domestic workers rather than migrants. Article 8 specifies that the employer is    When he came to Singapore, he was surprised that his basic salary was $550
+to give the worker the written form of the employment contract/offer prior to      instead of the $1600 he had agreed with the employer over the phone.62
+the worker leaving their home country. This contract is to be enforceable in
+the country of employment. Ideally, the contract should be in the worker's         8.2 Failing to challenge the salary terms in the IPA
+own native language, so that he can understand the terms.
+                                                                                   It is true that in disputes over salary, IPAs can serve as an important piece of
+There are reasons for Singapore to adopt such a principle. Under the ASEAN         evidence.63 When applying for work permits, employers are obliged to state
+Consensus, which Singapore is a party to, as a receiving state where migrants      key salary terms that are offered to prospective Work Permit holders and
+are working in, Singapore is to take necessary measures to prevent abuses          these are stated in the IPA. This is to ensure the prospective worker
+and exploitation of migrant workers.60 Second, having such a measure               understands the terms of employment before deciding to come to Singapore.
+supports the Singapore Government's rationale of ensuring the worker               Employers would be guilty of false declaration if the details they entered into
+understands the terms and conditions of employment before deciding                 the IPA application differed from what had been agreed with the prospective
+whether to come to work in Singapore. Rather than having an In-principle           employee.
+Approval letter (IPA) which the worker may not even understand as to whether
+it is supposed to reflect the terms of the contract, it is far more effective to   However, prospective workers who have never been to Singapore, and even
+provide the worker with the actual copy of the employment contract. In any         those who have before, would not know that employers are supposed to be
+case, IPAs are silent on several facets of the employment relationship such as     truthful in the IPA declaration. The bureaucratic culture in their home
+annual leave and notice periods, and are therefore inadequate substitutes for      countries may be far more lax, and they may assume that Singapore operates
+a proper contract.                                                                 likewise.
+
+60 "Asean Consensus on the Protection and Promotion of the rights of migrant       63 " In-principle approval letters can be evidence of foreign workers' rightful pay:
+workers", Chapter 6, at Para 30 .                                                  Judge" Access at:
+61 See Appendix, Respondent 16.                                                    https://www.straitstimes.com/singapore/manpower/in-principle-approval-letters-
+62 Ibid.                                                                           can-be-evidence-of-foreign-workers-rightful-pay.
+
+Barriers to entry: Access to justice for migrant workers in Singapore, April 2026                                                                                                            Page 13 of 26
+There have been cases where prospective employees have noticed that the            9.1 Retaliation and repatriation
+salary details in the IPA were different (lower) from what had been verbally
+agreed, but when employers and agents explained that the submitted details         From our interviews, we heard that even though many workers had a valid
+were merely to get around some arcane rule in Singapore and assured                claim, they did not dare file a complaint. According to an interview
+workers that their verbal agreements would still be honoured, the workers          participant, a widespread fear is that of losing their jobs.64 Another
+relied on those explanations and assurances, and decided to come to                respondent essentially said the same, though he put it differently: he was
+Singapore to take up the jobs.                                                     afraid that he would be repatriated to his home country.65 This is unsurprising;
+Unfortunately, the worker and employer would then be said to have agreed on        we commonly hear from workers that their employers are quick to issue
+the terms stated in the IPA. If a substituted contract is then signed, and this    threats of work permit cancellation and repatriation in response to any
+substituted contract has terms that align with the IPA, this alignment would       complaint about unpaid salary, poor living conditions or onerous work
+factor very strongly in dismissing the worker's salary claim.                      hours.66
+
+IX. Barrier: Economic realities                                                    It may seem counter-intuitive for a worker to remain on the job even when not
+                                                                                   paid, but reality has many shades. Some workers might be getting their basic
+Even when avenues for redress are available, however insufficient, there are       salaries or some part of their basic salaries, but every month there is
+many other considerations a worker needs to work through before he is ready        persistent short-payment, e.g. for overtime hours. Filing a claim would be like
+to use those avenues.                                                              jumping from a pan into the fire; the employer would cancel the permit and
+                                                                                   even the partial payment each month would cease. Other workers are misled
+64 Appendix , Respondent 10, Respondent 14, Respondent 16                          by their supervisors or bosses that the financial difficulty that the company is
+65 Appendix, Respondent 5                                                          in is only temporary; as soon as the main contractor pays their subcontracting
+                                                                                   company, workers will get their full salaries. Even if workers have doubts how
+Barriers to entry: Access to justice for migrant workers in Singapore, April 2026  genuine such assurances are, to file a claim and thus precipitate the loss of
+                                                                                   the job would a crossing a bridge of no return.
+
+                                                                                   The economic realities these workers face make them desperate to cling on to
+                                                                                   their current jobs, especially in light of the debt they have taken on to fund
+                                                                                   their recruitment fees. An SMU study found that the obligation to pay agent
+
+                                                                                   66 Harrigan N, Chiu Y & Amirrudin A, "Threat of Deportation as Proximal Social
+                                                                                   Determinant of Mental Health Amongst Migrant Workers" , at p 4.
+
+                                                                                                                                                                                             Page 14 of 26
+fees, along with the fear of repatriation, are common causes of emotional          period, workers have reported that they took the first job
+distress among migrant workers.67                                                  they could find even if the salary was lower than the previous job.
+
+What further exacerbates the situation is that the Ministry of Manpower's          Workers nearing the 14-day expiry of their COEs can request an extension, but
+policy to give workers with valid employment claims a chance to switch             this is entirely discretionary on the ministry official's part, and it is unclear in
+employers without first being repatriated means much less than meets the           practice how many extensions MOM actually approves.72
+eye.
+                                                                                   The unfortunate reality is that since there is a one-year time bar for claims to
+The permission to look for a new job takes the form of a Change of Employer        be brought before TADM, if workers hold back filing a complaint until after a
+(COE) letter.68 However, in practice, the COE letter only has a validity of 14     year has passed since the cause of action accrued, they face an
+days, meaning the worker has an extremely short time frame to secure               uncomfortable choice: either they forgo the part of their claim relating to
+alternative employment in Singapore. In practice, 65% of Work Permit holders       months that are more than a year old, or (if they want to claim for all the
+who had received Change of Employer letters (COEs) were successful in              months) they can no longer rely on the low cost dispute resolution
+finding new jobs, but beneath this statistic there is much room for                mechanism found in TADM and instead have to sue via common law which is
+improvement.69 A large part of the difficulty in finding a new job may be due to   far more expensive.
+the widely-reported stigma amongst employers against workers holding these
+COE letters ­ they are seen as troublesome to deal with.70 Employers may           9.2 Recommendation
+also fear that in taking on a worker who has experience in using avenues of
+redress, they may be opening a Pandora's Box, emboldening their existing           The key would be to allow workers to switch employers more easily such that
+employees should there be grievances in future.71 Workers know that they           workers will be less afraid of being deported if they file a complaint. One way
+face stigma. Desperate to avoid repatriation at the end of the 14-day validity     to incentivise employers to employ workers holding COE letters can be
+                                                                                   implemented by MOM prioritising the approval of the work permit of such
+67 Vital yet vulnerable, at p 25.
+68 TWC2, "The Rocky Road to a Transfer" . Access at:                               70 TWC2, "The Rocky Road to a transfer" at p 7. Access at: https://twc2.org.sg/wp-
+https://twc2.org.sg/2025/09/02/the-rocky-road-to-a-transfer/                       content/uploads/2025/07/the_rocky_road_to_a_transfer_2025_pv5.pdf
+69 Access at: https://twc2.org.sg/2025/12/05/parliamentary-questions-september-    71 Ibid.
+2025-part-3-change-of-employer-letters/                                            72 Access at: https://www.mom.gov.sg/newsroom/parliament-questions-and-
+                                                                                   replies/2023/1003-written-answer-to-pq-on-migrant-workers-involved-in-tadm-
+Barriers to entry: Access to justice for migrant workers in Singapore, April 2026  cases#:~:text=To%20ask%20the%20Minister%20for,extension%20to%20remain%20
+                                                                                   in%20Singapore.
+
+                                                                                                                                                                                             Page 15 of 26
+                                                                                                       workers. This would spur employers who
+                                                                                                       are in need of labour within a short timeframe to employ
+                                                                                                       workers with COE letters.
+
+                                                                                                       It is also important to change the perception employers have
+                                                                                                       about workers that hold COE letters- given they have worked
+                                                                                                       in Singapore for a period of time, they have gained certain
+                                                                                                       valuable skills and expertise that could serve them well in
+                                                                                                       similar roles.
+
+Around 68 migrant workers from a single company filed salary claims in late 2025. TWC2's case officer  9.3 Lack of sustenance while fighting the
+(standing, beige T-shirt) briefs about 40 men from the group about the claim process that lies ahead.
+                                                                                                       claim
+
+                                                                                                       A related issue is that for claimants who used to hold S
+                                                                                                       passes and Employment Passes (including Training
+                                                                                                       Employment Passes), and are placed on Special Passes after
+                                                                                                       they have filed claims, there is no obligation for their ex-
+                                                                                                       employers to provide sustenance support to them. This is
+                                                                                                       unlike the rules, written in by-law, that require ex-employers
+                                                                                                       of Work Permit to provide them with food, accommodation
+                                                                                                       and healthcare (if necessary) until the case is resolved and
+                                                                                                       repatriated or the worker has found a new job under COE73.
+                                                                                                       This obligation is also clearly stated in the application form
+                                                                                                       that employers have to fill in to apply for a Special Pass for a
+                                                                                                       Work Permit holder.74 Given that it takes weeks and often
+
+73 Employment of Foreign Manpower (Work Passes) Regulations 2012, Fourth           74 Access at: https://www.mom.gov.sg/-/media/mom/documents/services-
+Schedule, Part III, S 16.                                                          forms/safety-health/apply-wic-special-pass-english.pdf.
+
+Barriers to entry: Access to justice for migrant workers in Singapore, April 2026                                                                                                            Page 16 of 26
+months to process an employment claim, this provision is necessary; there          9.4 Recommendation
+needs to be a safety net that ensures the worker's basic needs are met during
+this period for them to properly fight the case.                                   It is proposed that regardless of the type of pass the workers hold, employers
+                                                                                   have an obligation to care for the food, accommodation and medical
+Yet it is not applicable in cases where the migrant worker was formerly on an S    expenses of the worker if the worker can make out a prima facie case that
+Pass or an Employment Pass, even if the pass category was fraudulently             during his entire period of employment or during the past twelve months of
+applied for (i.e. when the worker was really hired for a low-skill and low-wage    employment, whichever is shorter, the worker received less than the
+job) and compounded by non-payment of salary. Such workers, after filing           minimum salary of an S Pass holder.
+claims, discover that they have to provide for themselves for the duration of
+their case, and without the right to get a new job.                                The logic is that if a worker received a salary that did not meet the minimum
+                                                                                   salary of an S Pass holder ­ which is currently $3,300 per month77 ­ he would
+One respondent on a Training Employment Pass mentioned that while in               in reality be in the same financial situation as a Work Permit holder. Therefore,
+employment, the arrangement with his employer was that the employer would          the safety net designed for Work Permit holders should justifiably apply to
+find housing for him, but the respondent would have to pay rent out of his own     him.
+pocket.75 That was not an issue as the employer provided the respondent was
+provided with food and housing allowance. However, after the employer              Inescapably, this calls for some flexibility in interpretation and a sympathetic
+terminated the employment relationship upon finding out the respondent filed       reading of the prima facie threshold, but the principle should be for MOM to
+a claim against them, the allowance ceased and the respondent faced                adopt a substance over form approach, ensuring those who really struggle to
+financial difficulties in paying the rent.76                                       have their basic needs met without a job at least are cared for in the interim
+                                                                                   period while their employment claims are in the midst of being resolved.
+
+75 See Appendix, Respondent 2.                                                     77 Accessed on 9 Feb 2026 at: https://www.mom.gov.sg/passes-and-permits/s-
+76 See Appendix Respondent 2.                                                      pass/eligibility
+
+Barriers to entry: Access to justice for migrant workers in Singapore, April 2026                                                                                                            Page 17 of 26
+X. Barrier: Enforcement of court orders                                            The current enforcement process is too complex, too
+                                                                                   lengthy and too expensive for a migrant worker who is likely to earn a menial
+Unfortunately, even if the worker succeeds in his claim before the ECT and the     wage to rely upon.
+Tribunal issues an order, the employer might not automatically pay the
+ordered amount (owed salary). The employee has to separately initiate              10.1 Recommendation
+enforcement proceedings against the employer to compel the employer to
+pay the judgement sum.                                                             One possible solution would be mandatory wage insurance. Employers of
+                                                                                   both local and foreign workers should be required to purchase an insurance
+Enforcing a judgement is a complex process. The worker will first have to          policy that underwrites any liability to pay court orders related to employment
+apply for an enforcement order in Form 38, and this enforcement order is to        claims, subject to a cap, perhaps $20,000 or $30,000 ­ the same maxima for
+be supported by affidavit in accordance with Order 22 Rule 2 of the Rules of       ECT cases.
+Court 2021. This is certainly beyond the knowledge of any layperson, let alone
+the worker.                                                                        This idea is not novel since currently employers are obliged to buy a security
+                                                                                   bond for all non-Malaysian Work Permit holders.81 This bond would be
+Additionally, a substantial sum needs to be forked out to commence                 forfeited if the employer breaches any of the Work Permit or security bond
+enforcement proceedings. Sealing an enforcement order costs $155.78 Filing a       conditions, which includes the need to pay the worker any outstanding
+summons for an enforcement order costs $50.79 Then there are filing costs of       salaries upon termination of the employment relationship.82 If the employer
+$1 per page, with there being a minimum fee of $10 per affidavit. The costs of     fails to pay the outstanding salary, the monies in the security bond can be
+enforcing the judgement may be too high relative to the judgement sum for it       utilised to pay the worker his salary that is owed.
+to be worthwhile.80
+                                                                                   Unfortunately, the security bond avenue is not available to many groups of
+Ultimately, even if the worker initiates the enforcement proceedings, he might     workers, including Malaysian Work Permit holders and holders of S Passes
+not be able to claim his unpaid salary for the employer. If the company is         and Employment Passes simple because these employers are not required to
+unable to pay up, or has dissipated the assets, the worker only has a paper        provide a security bond. The ceiling ($5,000) is also too low. It would be a
+judgement.
+
+78 Fourth Schedule of the Rules of Court 2021.                                     81 MOM, "Work Permit conditions". Access at: https://www.mom.gov.sg/passes-and-
+79 ibid.                                                                           permits/work-permit-for-foreign-worker/sector-specific-rules/work-permit-
+80 ibid.                                                                           conditions.
+                                                                                   82 Ibid.
+Barriers to entry: Access to justice for migrant workers in Singapore, April 2026
+                                                                                                                                                                                             Page 18 of 26
+cleaner solution to have an across-the-board wage insurance scheme for all         are particularly needed in Singapore's landscape to
+employees.                                                                         address some of these problems.
+                                                                                   TWC2 has long advocated a radical remake of the recruitment system to
+XI. Conclusion                                                                     eliminate high agency fees. Freed from debt, workers will find it easier to
+                                                                                   assert their right to contracted salary. Making it easier for workers to switch to
+The current TADM-ECT system provides a relatively low cost and quick               new employers without need to obtain consent from the existing employer will
+manner for workers to file employment claims, compared to normal trial.            also go a long way. Making it easier too for workers on Special Passes to find
+Nonetheless, there remains many obstacles preventing workers from                  new jobs, especially in the face of stigma, is another step that will help. Issues
+accessing justice. The current system can be too complex and may entail, in        of sustenance for workers originally on S Passes or Employment Passes need
+practice, too significant a cost for workers to seek recourse. Employers also      to be addressed. A mandatory wage insurance scheme would prevent court
+have significant control over the key evidence and information workers need        orders from being worthless pieces of paper.
+in order to properly prove their claim, potentially creating an inherent bias in   There is a lot that needs to be done.
+the system. Courts are also reluctant to set aside substituted contracts, with
+the underlying current of the law being one of upholding freedom of contract                                                                                                                 Page 19 of 26
+to ensure commercial certainty, which operates against disadvantaged
+groups like migrant workers.
+We also cannot ignore the fact that the justice system does not operate in a
+vacuum. The economic realities migrants face can pose significant obstacles
+to workers bringing a claim. Unfortunately, these realities could deter them
+from filing a claim because they could lose the job that they had obtained at
+great expense and would naturally want to keep as long as possible.
+What has emerged in this review of access to justice for migrant workers is
+that the legal system as it is cannot be the complete solution. While some
+changes in the current system and the law are needed, extra-legal solutions
+
+Barriers to entry: Access to justice for migrant workers in Singapore, April 2026
+XII. Appendix                                                                          · Respondent was not paid the salary owed ­ on
+                                                                                            the IPA it states his salary is $3000, but he was paid $2000. This may
+Respondent 1: 819P Bangladeshi male                                                         be difficult to prove because he was paid in cash (fortunately he has a
+Completed the mediation part of TADM process and is now going to argue his                  payslip proving he was shortchanged). The rule for bank transfers only
+case before the ECT. Did his first case management conference. Hearing is in                apply to workers living in dormitories, but he stayed in a HDB in Pasir
+2 weeks.                                                                                    Ris
+Contract substitution ­ upon arriving in SG, respondent was made to sign a
+contract different from the one he had agreed upon with the agent from Staff           · Not giving adequate rest ­ supposed to be 1 week 1 day off ­ violation.
+Me, which incorporated various disadvantageous terms. He was pressured to                   However, in his case, he was given only 2 days off for every 1 month
+sign because if he did not he would be deported from SG and he was aware of                 off.
+the huge amount of agent fees he has paid to get this job. Contract
+substitutions occur because international conventions on human trafficking             · Who pays the salary ­ Micro2000 Services (employer stated on the
+that SG is a party to is not fully incorporated into our domestic laws, a                   IPA) or Great Solutions Pte Ltd (the actual employer)?
+contract substitution is a key indicator that human trafficking is occurring
+Court documents and submissions are something migrant workers cannot do                · Housing ­ the arrangement is that the employer would find a house for
+by themselves ­ a lawyer from TWC2 had to sit down with him, think of the                   him, but the Respondent now pays the rent out of his own pocket.
+arguments to run, make the bundle of documents, and also run through with                   Struggling to pay the rent now that the employer has terminated the
+him what to say before the magistrate. Without such expertise, migrant                      employment contract.
+workers will find it very difficult to navigate the ECT process.
+                                                                                   Respondent 3: Burmese male
+Respondent 2: Burmese male
+On a TEP, one meant for executives/ specialists, but in fact he was a              IPA states basic salary as $1600. But pay slip written differently ­ stating the
+dishwasher (workman).                                                              basic salary to be $1620 and $1650. The inconsistency in the amount of basic
+Issues the Respondent faces:                                                       salary makes it difficult to compute the overtime pay.
+
+Barriers to entry: Access to justice for migrant workers in Singapore, April 2026  Respondent was paid in cash for the past 4 months, was not paid the last
+                                                                                   month he worked. Wants to claim overtime pay.
+
+                                                                                   But does not understand his documents/ cannot explain his time card
+                                                                                   properly. He insists he works 3 and a half hours, even though on the timecard,
+                                                                                   there is a 5 hour block between his first shift and second shift. Altogether,
+                                                                                   according to his timecard, he worked only 8 hours.
+
+                                                                                                                                                                                             Page 20 of 26
+Evidence is also not properly documented ­ missing times in the timecard           His work permit has been terminated. He is under a
+that is needed to compute the hours worked, or that the timecard was               special pass. Upon cancelling the work permit, the employer has a
+smudged, or stamp is illegible. Respondent did not bring this up to the            responsibility to provide dormitory, food and cover any medical expenses until
+employer for fear of getting into trouble.                                         he is repatriated.
+                                                                                   As his salary is paid via bank transfer, there was clear proof that his employer
+Respondent 4: 091T Bangladeshi male                                                did not pay him the salary he is owed.
+
+Respondent filed a salary claim in March. Had the first TADM meeting in April.     Respondent 6: 902M Bangladeshi male
+Case went before the ECT. Respondent represented himself with minimal              Has a work injury claim. His previous company did not pay for his hospital bill,
+assistance with TWC2, which only did the paperwork for him.                        and until now it still has not paid him.
+                                                                                   Unfortunately, with the accident date being on 12 Nov 2023, he cannot make
+Employer alleged for the last 7 months, she had paid the respondent in cash.       an injury claim under WICA ­ the time bar is 1 year, which has since lapsed.
+She gave "proof" of this by showing salary slips with the respondent's forged      The worker did not complain about this until much later because the boss
+signature (which she submitted to the ECT). Before the ECT, the court ordered      promised that he will pay him and did not want him to see a doctor because
+employer to pay the respondent $4195. The reason is because the respondent         that would alert MOM. The worker was also scared that he will lose his job.
+could not prove that the signature on the payslips were forged and therefore
+could not prove that the employer did not pay the $9000 in salary.                 Respondent 7: 734P Burmese male
+                                                                                   He has a salary claim to make to TADM, this is so he can request for a transfer
+After receiving the court judgement that ordered the employer to pay the           letter later on.
+respondent the salary he is owed, the employer did not pay the respondent.         However, he does not understand his own payslip and has trouble computing
+The respondent came to TWC2 to ask how to initiate enforcement                     the salary to claim.
+proceedings against the employer to compel her to pay the judgement sum.
+
+Respondent 5: 524T Bangladeshi male
+
+Worker who stays at the dormitory, has a salary claim. Tomorrow will be his
+first meeting with a TADM officer.
+
+Barriers to entry: Access to justice for migrant workers in Singapore, April 2026  Page 21 of 26
+Respondent 8: 850K Bangladeshi male                                                Costs of hiring a translator ­ unfortunately, the court only
+                                                                                   provides translation services for documents if the language is Chinese, Tamil,
+Respondent has both a employment claim for basic salary, and also a small          Malay. For other languages, barring other organisations (e.g. High
+claims tribunal against a Bangladeshi called Kokhan who impersonated as an         Commissioner of Bangladesh) offering translation services the respondent
+employment agency's managing director, promising that if payment was               needs to hire an external certified translator. That is not cheap where videos
+made, he would be able to secure S Passes as well as high-paying jobs in SG        are involved. A 3-minute video could easily cost hundreds of dollars. He was
+for his friends.                                                                   shocked by the huge cost of translation.
+
+In total, his friends wired the respondent $17,000 which was paid to Kokhan in     Doesn't know how to frame his claim to his advantage ­ rather than
+exchange for his services.                                                         approaching the small claims tribunal, a far less costly route could be to file a
+                                                                                   complaint with MOM such that they take investigative action. Unfortunately,
+Kokhan actually applied IPAs for S passes for his friends, but after               while the Respondent did complain to MOM, he framed it was "I want my
+Respondent wired the money to Kokhan, now Kokhan cancelled the S passes,           money back" that was dismissed quickly, rather than framing it as a criminal
+and said he did not know of any such company offering the high paying              violation of the Employment Act for impersonating as an Employment Agent
+positions (that he had promised previously)                                        without license.
+
+Respondent is now attempting to recover the $17,000 from Kokhan before the         Respondent 9: 968L Bangladeshi male
+Small Claims Tribunal
+                                                                                   Respondent has an unpaid salary claim ­ filing an online complaint on MOM.
+His material evidence for his claim are: (1) a namecard Kokhan gave him
+showing that he is managing director of an agency Called Nur-A recruiting          Respondent did not understand his evidence, his claim was inconsistent with
+agencies Ltd and (2) video recordings of Kokhan saying that as the company is      the evidence. Respondent claims that he was owed 2 times his normal pay
+not doing well, it can no longer offer the high-paying positions Kohhan had        because he was asked to work on a rest day. However, that was not made out
+earlier promised. This video is in Bengali, lasting 3 minutes.                     on the timecards.
+
+Respondent does not understand that evidence in Bengali has to be                  Additionally, key evidence for the salary claim was missing. Specifically, the
+translated by a certified translator, and it is to be submitted as a CD, along     payslips for the months of August and September were missing. Without that
+with a transcript ­ for videos in particular, the transcript needs to be time-     evidence, the worker cannot show that there was no payment made during
+stamped. The Respondent does not know of such requirements, translated             those months.
+the video himself (without the appropriate timestamps) and uploaded it on
+the court website. Unlikely to be accepted by the court
+
+Barriers to entry: Access to justice for migrant workers in Singapore, April 2026  Page 22 of 26
+Respondent 10: 574P Bangladeshi male                                               Respondent 11: 040X Bangladeshi male
+
+Employer did not pay the Respondent his overtime pay. Salary was paid in           Respondent has a salary claim that went through TADM mediation but has not
+cash. Because the worker does not live in a dormitory, it is not mandated to       been resolved.
+pay salary via bank transfer.
+                                                                                   He now approaches TWC2 to assist him in his claim before the ECT.
+Timecard is sometimes ineligible unclear, inconsistently formatted- affecting
+salary calculations. Supervisor wrote the incorrect timings in the card- he        However, he does not understand his own case, expecting TWC2 to craft the
+wrote "04.30" when it is supposed to be 4.30 PM. The timings are                   claim for him. Neither does he understand the documents he produced. Each
+inconsistently formatted - sometimes in 12 hour format, other times in 24          document he produced claims different amounts of salary ranging from 1134
+hour format. Various unintelligible scrawls on the card ­ hard to make out         to 3476. It is unclear how much salary he is owed.
+what he is writing. Additionally, the records are at times unclear. While the
+start and end times stated are 8:00 to 17:00, the respondent has actually          He also did not bring sufficient evidence ­ particularly he did not bring the
+worked beyond 17:00. This is shown by another column that states the               bank statements to prove that the employer did not pay him.
+additional hours the worker worked e.g. +2, +3. But it is not apparent looking
+at the card that this meant overtime hours. A normal reader will simply            Respondent 12: 354M Bangladeshi male
+assume the worker worked from 8 am to 5 pm.
+                                                                                   Respondent has a salary claim. He claimed that over 3 years, the boss paid
+The respondent has difficulty proving the employer did not pay his salary.         him less than what was promised.
+because payment is in cash, difficult to prove whether there was no payment
+made. The only evidence so far is the Respondent's own calculations in the         Only can claim for overdue salary from sept 2024 onwards because of the 1
+notebook he brought. What he needs are the payslips. The company refused           year bar under the TADM dispute resolution mechanism.
+to give the respondent payslips even though he requested.
+                                                                                   Fear of losing job + did not understand how to enforce his rights led him to file
+Currently, under MOM rules, because a complaint is made, the employer has          the complaint late. Respondent saw how his other colleague complained to
+to give the payslips. Still, it is possible the company can forge the payslips,    the boss, with the boss saying that he either takes the lower salary or go
+and even forge his signature.                                                      home. The Respondent does not want to be deported and continued to be
+                                                                                   employed in SG.
+Signing documents that he did not understand: the respondent was also
+asked by the supervisor to sign papers he did not understand.                      Respondent also was not aware of the TADM process, and became aware of
+                                                                                   justice org like TWC2 from a Facebook ad that is able to help him.
+
+Barriers to entry: Access to justice for migrant workers in Singapore, April 2026  Page 23 of 26
+Missing evidence ­ employer did not give him his time card for 3 months            actually when he got to SG, he signed a different contract
+November 2024 to Jan 2025. Making it difficult to calculate the salary owed        with a much lower salary $810. There was also a new term regarding the
+over those months.                                                                 notice period ­ 3 months.
+                                                                                   He nonetheless signed because he had already spent a lot of money to get
+Respondent 13: 693T Bangladeshi male                                               here, did not want to be sent back.
+Respondent claiming unpaid salary. Respondent's employer wanted to cut             After that, the manager asked him to work as a general worker rather than a
+costs ­ told respondent that he either go back to his home country or find         supervisor, which he refused.
+another employer. Did not want to pay respondent the salary owed.                  Eventually he resigned.
+Respondent wanted to ask for a transfer letter to change employer , and came       Evidential issue ­ to prove that the agreed upon salary is $1800, the whatsapp
+to know TWC2 through a friend. TWC2 advised respondent to ask for a                correspondence with the employer and her husband (who acted as the
+transfer letter, to transfer to another employer. Now respondent is filling a      recruitment agent) was impt- but that was deleted by the employer, who had
+case at TADM for the unpaid salary, to have greater leverage to ask for a          asked to check the Respondent's phone. Later he found those were deleted.
+transfer letter.                                                                   The IPA shows the salary is $810 ­ so it will be difficult to show otherwise
+Evidential issues: employer did not issue the respondent with time cards           Before coming to Singapore, he asked the recruitment agent as to why the IPA
+between Oct 2024 to Apr 2025 ­ as a result it is difficult to prove the            salary was different from the salary that was agreed upon. He was told that he
+Respondent had worked overtime and was thereby entitled to overtime pay. It        would be paid the original salary that was agreed upon rather than the figure
+is clear employer has the records of the number of hours Respondent had            in the IPA.
+worked stored on his computer ­ respondent took a picture of it. But it is
+difficult to verify the authenticity of the evidence.                              Respondent 15: 783M Bangladeshi male
+The payslip was also unclear ­ while it did provide the total amount payable, it   Respondent had an altercation with another worker. The employer decided to
+did not provide a detailed breakdown as to how this amount was calculated.         punish the respondent by sending him back to his home country and also
+                                                                                   reducing his salary by $2000.
+Respondent 14: 528R Bangladeshi male                                               The respondent felt that this was unfair and wanted to make a salary claim,
+Case involved Contract substitution. Employer promised the respondent that         and seek a transfer letter to change employers.
+he would be a supervisor and would be paid $1800 for the first 2 months. But
+                                                                                                                                                                                             Page 24 of 26
+Barriers to entry: Access to justice for migrant workers in Singapore, April 2026
+Timecard provides weak support for salary claim. Not written on the card           Respondent 17: 513T Bangladeshi male
+what time the Respondent started work and ended work. To make matters
+worse, the Respondent does not end work at the same time. Supervisor only          Respondent's work pass suddenly cut for no apparent reason, scheduled to
+wrote the amount due per day, but did not write the start and end time.            leave SG on a flight tomorrow. But wishes to stay in SG. Was advised to make
+                                                                                   a salary claim so as to be issued a Special Pass to be able to stay in Singapore
+Respondent 16: 036K Burmese male                                                   in the meantime.
+
+Respondent was promised over the phone by the boss of the construction             He has been receiving pay via bank transfer. Unclear whether he is paid the
+company that he would be paid $1600.                                               right amount ­ because aside from the last month, for all other months no
+                                                                                   payslips and timecards were given to calculate the right pay.
+IPA stated basic salary of $550. Respondent mistook that amount as the levy
+for foreign workers, and at the very least was a document that was of no           Fear of angering employer makes it hard to produce proper documentation ­
+significance to him.                                                               he had asked his employer on numerous occasions for the time card to be
+                                                                                   able to calculate the salary owed, but each time the employer got very angry.
+Contract substitution: contract he signed in SG: states basic salary of $550       For fear of getting into further trouble, he did not press the issue further. "You
+and fixed allowance for overtime at $750. Fixed monthly amenities deduction.       say, he say" kind of case.
+Notice of 1 month before one can terminate
+                                                                                   Respondent 18: 658K Bangladeshi male
+Respondent was not given an opportunity to even read the contract ­ there
+was no meeting of minds and arguably a contract was not even formed. The           Respondent is making a salary claim before the Employment Claim tribunal
+boss just wanted him to immediately sign the contract, saying that it was a
+mere formality and there was nothing to look at.                                   Unfortunately, no time cards or payslips given to the respondent. While the
+                                                                                   respondent he has maintained his own records on his phone, his phone was
+In truth, in the payslips ­ the respondent was paid $400 (based on daily rate      allegedly stolen by the employer and the Respondent had deleted those
+calculation, it is consistent with the basic pay of $550). Allowance that          records.
+exceeds more than the overtime he worked was given ­ e.g. $600.
+                                                                                   So he wants to rely on the electronic records and time logs that is held by the
+Unfortunately, it was still less than the $1600 promised, and without proof of     main contractor
+that agreement, the respondent could not claim the amount allegedly owed to
+him.                                                                               The subcontractor (which employed him) allegedly furnished false time logs
+                                                                                   to the court.
+
+Barriers to entry: Access to justice for migrant workers in Singapore, April 2026  Page 25 of 26
+Now respondent is asking for the main contractor to furnish the electronic
+records to prove his claim - and ask for the main contractor to appear before
+the ECT to prove that the electronic records are accurate. Main contractor is
+not cooperating.
+
+Barriers to entry: Access to justice for migrant workers in Singapore, April 2026  Page 26 of 26
+

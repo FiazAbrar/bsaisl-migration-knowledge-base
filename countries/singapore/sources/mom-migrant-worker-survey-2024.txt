@@ -1,0 +1,716 @@
+Migrant Worker Experience and Employer Survey 2024
+                        Report on Findings
+
+                     Manpower Research and Statistics Department
+                                              Singapore
+
+                                             August 2025
+COPYRIGHT NOTICE
+
+REPORT ON MIGRANT WORKER EXPERIENCE
+AND EMPLOYER SURVEY 2024
+
+© Manpower Research and Statistics Department
+Ministry of Manpower
+Republic of Singapore
+
+All rights reserved. Further reproduction of this material
+is prohibited without the written permission of the
+copyright holder. Application to reproduce any part of this
+publication should be addressed to:
+
+Director
+Manpower Research and Statistics Department
+Ministry of Manpower
+18 Havelock Road #05-01
+Singapore 059764
+Republic of Singapore
+
+Email: mom_rsd@mom.gov.sg
+
+Please cite the source as "MRSD, MOM" when you
+extract and use the information/data from the publication.
+                                                             MISSION
+
+                                                        To provide timely and reliable
+                                         national statistical information on the labour market
+                   to facilitate informed decision-making within the government and community-at-large
+
+Statistical activities conducted by the Manpower Research and Statistics Department (MRSD) are
+governed by the provisions of the Statistics Act 1973 (2020 Revised Edition). The Act guarantees the
+confidentiality of information collected from individuals and companies. It spells out the legislative
+authority and responsibility of the Director, Manpower Research and Statistics Department.
+Statistics compiled and disseminated by the MRSD adhere to international standards on official statistics
+set by the International Labour Organisation and International Monetary Fund.
+As part of MRSD's continued commitment to deliver accurate and relevant statistics on the labour market,
+our data collection processes have undergone an assessment by Ernst and Young Advisory Pte. Ltd.
+For insights on the labour market, visit us at stats.mom.gov.sg.
+For data requests and queries pertaining to our reports, reach out to us at mom_rsd@mom.gov.sg.
+                                          Contents
+
+Highlights ............................................................................................................................ 1
+1 Introduction.................................................................................................................. 2
+Migrant Workers.................................................................................................................. 3
+2 Singapore as a Work Destination ............................................................................... 3
+
+   2.1 Satisfaction with working and living in Singapore................................................... 3
+   2.2 Future intentions.................................................................................................... 3
+   2.3 Recommending Singapore as a work destination .................................................. 4
+3 Pre-employment Experiences ..................................................................................... 6
+   3.1 In-Principle Approval (IPA) letter ............................................................................ 6
+   3.2 Receiving the salary amount as stated in the IPA letter.......................................... 7
+4 In-employment Experiences ....................................................................................... 7
+   4.1 Mode of salary payment ........................................................................................ 7
+   4.2 Retention of personal documents .......................................................................... 8
+   4.3 Food arrangements ............................................................................................... 9
+5 Channels of Assistance and Information ................................................................. 10
+   5.1 Channels of assistance for work injury................................................................. 10
+   5.2 Sources of information about employment rights ................................................. 10
+6 Perception of MOM and Workplace Conditions........................................................11
+Employers of Migrant Workers ........................................................................................ 12
+7 Overall Satisfaction and Retention Levels ............................................................... 12
+   7.1 Satisfaction with quality of migrant workers ......................................................... 12
+   7.2 Retention of migrant workers ............................................................................... 12
+8 Recruitment Experience ............................................................................................ 13
+   8.1 Channels of sourcing for migrant workers ............................................................ 13
+   8.2 Services employers engaged employment agents for.......................................... 13
+9 Retention Benefits ..................................................................................................... 14
+10 Medical Insurance and Training................................................................................ 14
+   10.1 Medical insurance coverage ................................................................................ 14
+   10.2 Provision of additional training ............................................................................. 15
+11 Perceptions on Access and Skills of Migrant Workers ........................................... 16
+   11.1 Access and skills of migrant workers ................................................................... 16
+                                         Highlights
+
+Migrant workers' satisfaction with both their working and living conditions continued to improve.
+In 2024, 95.3% of workers were satisfied with working and living in Singapore, an improvement
+from 2018 (86.3%) and it is the highest level recorded since the survey began in 2011.1 96.7%
+of workers in 2024 indicated they would continue working in Singapore or return in the future,
+an increase from 91.9% in 2018. This reflects continued confidence in Singapore as a
+preferred destination for work.
+
+92.3% of migrant workers would recommend Singapore as a work destination, up from 84.0%
+in 2018. The top reasons cited in 2024 were a safe working environment (84.4%), high salary
+(71.2%), and adequate worker protection (65.2%). 97.0% of workers agreed that the Ministry
+of Manpower (MOM) has been effective in protecting them and 97.0% also agreed that their
+working conditions were safe, up from around 87% in 2018 for both indicators.
+
+92.0% of workers received their salaries digitally. In addition, 90.1% of workers reported
+receiving their In-Principle Approval (IPA) letter before commencing work, and 91.5% received
+salaries consistent with their IPA. In terms of daily living, a majority of workers (88.5%) reported
+that their current food arrangements ­ typically either cooking their own meals or buying food
+from stalls ­ matched their preferences, suggesting employers' responsiveness to worker
+preferences.
+
+Migrant workers have high trust in MOM as well as their employer. 99.5% of workers said they
+would approach their supervisors or employers in the event of a work injury. 89.3% of workers
+found it easy to approach MOM on employment-related matters. Additionally, employers
+(60.3%) and MOM (45.0%) are workers' top preferred channels for receiving information about
+employment rights.
+
+From the employers' perspective2, sentiments toward the migrant workforce are generally
+positive. 70.8% of employers expressed satisfaction with the quality of their workers, and 75.2%
+of employers renewed the work permits of more than 80% of their workers on average. This
+points to a stable employment relationship. Employers are also proactive in retaining workers
+as 88.8% of employers would offer benefits to encourage workers to stay and 80.6% provided
+additional training to upskill their workers. These demonstrate commitment to maintaining a
+skilled migrant workforce.
+
+However, access to skilled labour remained a concern. While nearly half (47.5%) of employers
+felt they had good access to migrant workers overall, only 27.3% said it was easy to find
+migrant workers with the relevant skills. These findings suggest there is room for improvement
+to enable employers to hire higher-skilled workers, particularly in more specialised roles.
+
+1 Where comparable data have been collected from past surveys of migrant workers conducted in 2011, 2014
+and/or 2018, comparisons with previous survey findings are included in this report.
+2 The data pertain to 2024 - this was the inaugural run of the survey with employers of migrant workers.
+
+                                                                                                                          1
+1 Introduction
+
+1.1 This report analyses the experience of migrant workers in Singapore, and employers'
+           perspectives on hiring and managing their migrant workforce3. It is based on surveys
+           conducted by the Manpower Research and Statistics Department,4 covering:
+
+           a. Migrant workers' overall satisfaction with working in Singapore; pre-employment
+                  and in-employment experience; preferred channels of assistance and
+                  information; and perceptions of the Ministry of Manpower (MOM) and their
+                  workplaces.
+
+           b. Employers' overall satisfaction with migrant workers; experience with the
+                  recruitment of migrant workers; and perceptions on access to and skills of
+                  migrant workers.
+
+1.2 To ensure that the survey results can be generalised to the migrant worker population
+           and the employers that hire them, the survey samples were selected randomly from
+           sampling frames designed to be representative of the population profiles of migrant
+           workers (including sectors in which the workers were employed and the nationalities
+           of the workers) and employers of migrant workers in Singapore (including sectors
+           which they were based in and the number of migrant workers they employ).
+
+3 For this report, "migrant workers" refer to non-domestic Work Permit (WP) Holders and "employers" refer to the
+firms that employ them.
+4 Where comparable data have been collected from past surveys on migrant workers conducted in 2011, 2014,
+and/or 2018, comparisons with previous survey findings are included in this report. For the survey on employers,
+this is the first run of the study.
+
+                                                                                                                          2
+Migrant Workers
+
+2      Singapore as a Work Destination
+
+2.1 Satisfaction with working and living in Singapore
+
+2.1.1  In 2024, 95.3% of migrant workers indicated that they were satisfied with working and
+       living in Singapore, which was an increase from 86.3% in 2018 (Chart 1). This is also
+       the highest level recorded since the survey began in 2011. This suggests that working
+       and living conditions have improved.
+
+       Chart 1: "Overall, I am satisfied with working and living in Singapore."
+
+       90.6%           87.7%            86.3%                95.3%
+
+       4.2%      5.2%  9.5%   2.8%      9.4%           4.3%  4.4%                0.4%
+       2011            2014             2018                 2024
+
+       Very Dissatisfied / Dissatisfied Neutral Very Satisfied / Satisfied
+
+2.2 Future intentions
+
+2.2.1  Most migrant workers planned to continue working in Singapore. When asked about
+       their plans after their current contracts expire, 96.7% of migrant workers said they
+       planned to continue working in Singapore ­ either with their current employer, a new
+       employer or return to Singapore for employment in the future. This is an increase from
+       91.9% in 2018 (Chart 2). This suggests continued confidence in Singapore as a
+       preferred destination for work.
+
+                                                                                       3
+       Chart 2: "What are your plans when your current contract expires?"
+
+              80.2%                  2018 2024
+       71.7%
+
+                     13.3%           6.9% 6.5%  5.0% 2.4%
+                              10.0%
+
+                                                             1.7% 0.7%    0.5% 0.0%
+
+       Continue Go home first Continue            Go home    Go home first Work in another
+                                                permanently
+       working in and come back working in                   and work in   country
+
+Singapore with to Singapore to Singapore with                another country immediately
+
+       my current    work later a new employer               later
+
+       employer
+
+2.3 Recommending Singapore as a work destination
+
+2.3.1  Most migrant workers would recommend Singapore as a place to work, and this
+       sentiment has grown stronger. In 2024, 92.3% of migrant workers indicated that they
+       would recommend Singapore to their friends and relatives as a place to work, higher
+       than the 84.0% in 2018 (Chart 3).
+
+                                                                                     4
+Chart 3: "Would you recommend your friends and relatives to work in Singapore?"
+
+                                       Will not recommend Will recommend
+
+       84.0%                             92.3%
+
+       16.0%                             7.7%
+        2018                             2024
+
+2.3.2  A safe working environment, high salary, and worker protection were the top reasons
+       migrant workers would recommend Singapore as a place to work in 2024. A safe
+       working environment was the most cited reason, with 84.4% of migrant workers
+       highlighting this aspect. High salary was the second most important reason,
+       mentioned by 71.2% of migrant workers. Workers being protected here was the third
+       most important reason, with 65.2% of migrant workers citing this. Table 1 shows the
+       top 5 reasons.
+
+       Table 1: "Why would you recommend your friends and relatives to work in
+                                                        Singapore?"
+
+       Reasons most cited                       2024
+       [multiple selections allowed]
+       The working environment is safe.         84.4%
+       The salary here is high.                 71.2%
+       Workers are protected here.              65.2%
+       The living conditions are good.          46.0%
+       The jobs here are stable.                44.1%
+
+                                                                                 5
+3  Pre-employment Experiences
+
+3.1 In-Principle Approval (IPA) letter5
+
+3.1.1 A majority of migrant workers received their In-Principle Approval (IPA) letters from
+           MOM before commencing work (Chart 4).
+
+   Chart 4: "Did you receive an in-principle approval (IPA) letter for your current job?"
+
+                                                                No Yes
+
+   84.6%                                 90.1%
+
+   15.4%                                 9.9%
+    2018                                  2024
+
+5 An IPA letter is issued by the MOM's Work Pass Division upon a successful application of a Work Permit by an
+employer.
+
+                                                                                                                          6
+3.2 Receiving the salary amount as stated in the IPA letter
+
+3.2.1  Among migrant workers who received an IPA letter, a majority went on to receive a
+       monthly salary that matched the salary amount stated in the IPA letter. In 2024, 91.5%
+       of migrant workers reported receiving the same salary amount as stated in their IPA
+       letter, which is largely consistent with results in 2018 (92.7%) (Chart 5).
+
+       Chart 5: "Did you receive the salary amount as stated in your IPA letter?"
+
+                                     2018 2024
+
+       92.7% 91.5%
+
+                                     4.8% 6.0%               2.5% 2.5%
+
+       Yes, received same as what No, received higher than what No, received lower than what
+
+       was stated                    was stated              was stated
+
+4      In-employment Experiences
+
+4.1 Mode of salary payment
+
+4.1.1  A majority of migrant workers receive their salaries digitally. In 2024, 92.0% of migrant
+       workers had their salary credited directly into their Singapore bank account (Chart 6).
+       The high adoption of digital salary payments offers migrant workers greater financial
+       security, easier record-keeping, and improved access to banking services.
+
+       Chart 6: "How does your employer usually pay you your salary?"
+
+            92.0%
+
+       Credited into my       5.2%       1.4%                 1.3%
+       Singapore Bank       By Cash  By Cheque               Others
+
+            Account
+
+                                                                                   7
+4.2 Retention of personal documents
+
+4.2.1 The proportion of migrant workers who kept their own passports increased, from
+           38.8% in 2018 to 68.4% in 2024 (Chart 7).
+
+                      Chart 7: "Who keeps your passport?"
+
+                                          2018 2024
+
+              68.4%
+
+                         59.8%
+
+       38.9%
+
+                                31.0%
+
+                                                       1.2% 0.5%     0.1% 0.1%
+                                                                        Others
+       I keep my own     My supervisor /          My agent / agency
+          passport.
+                         employer / HR keeps it.       keeps it.
+
+4.2.2  Among migrant workers who did not keep their own passports, most were returned
+       their passports upon request. In 2024, 83.3% of migrant workers who asked for their
+       passports had it returned to them, an increase from 70.4% in 2018 (Chart 8).
+
+Chart 8: "Have your passport been returned to you when you asked for them?"
+
+                                     2018 2024
+
+                  83.3%
+       70.4%
+
+                                     10.4%                        19.2% 14.9%
+                                                 1.8%
+
+              Yes                         No           I have never asked for my
+
+                                                                     passport.
+
+                                                                                  8
+4.3 Food arrangements
+
+4.3.1  The most common food arrangements amongst migrant workers in 2024 were self-
+       cooked meals (43.4%) and purchasing food directly from food stalls (39.7%).
+       Employer-catered food (13.1%) was the third most common arrangement (Chart 9).
+
+Chart 9: "What is your main food arrangement for meals when you are working?"
+
+       43.4%   39.7%
+
+                              13.1%
+
+                                     3.6%                      0.1%              0.1%
+
+I cook my own   I buy food     My employer I order food        I order food  I order food
+      food.    directly from  caters food for from a caterer.  from another    from my
+                food stalls.
+                                     me.                         worker or   supervisor.
+                                                                 friends or
+                                                                 relatives.
+
+4.3.2  88.5% of migrant workers indicated that their current food arrangement was also their
+       preferred choice, suggesting employers' responsiveness to worker preferences
+       (Chart 10).
+
+Chart 10: Proportion of migrant workers who indicated that their current food
+                arrangement is their preferred arrangement for meals at work
+
+                              88.5%  Preferred arrangement
+                                                given
+                              11.5%
+                              2024   Alternative arrangement
+                                                 given
+
+                                                                                           9
+5      Channels of Assistance and Information
+
+5.1 Channels of assistance for work injury
+
+5.1.1  In 2024, almost all migrant workers (99.5%) indicated that they would approach their
+       supervisor or employer for help in the event of a work injury. Other choices were less
+       common, such as approaching friends/ relatives, MOM, embassies and Non-
+       Government Organisations (NGOs) (Chart 11).
+
+       Chart 11: "If you suffer a work injury, who would you approach for help?
+                                     (Multiple selections allowed)"
+
+                99.5%
+
+       Supervisor/    5.2%     3.8%              1.6%   0.0%               0.0%
+        employer               MOM             Embassy  NGOs
+                    Friends/                                             Others in
+                    relatives                                         home country
+
+5.2 Sources of information about employment rights
+
+5.2.1  Migrant workers primarily preferred receiving information about employment rights
+       through their employers (60.3%) or from MOM (45.0%), indicating reliance on both
+       immediate and official sources (Chart 12).
+
+Chart 12: "How do you prefer to receive general information about your employment
+                                       rights? (Multiple selections allowed)"
+
+       60.3%
+
+                    45.0%
+
+                               11.3%           8.0%
+
+                                                        2.5%           1.0%
+                                                                       NGOs
+       Through my   MOM        Through social Newsletter, Employment
+        employer
+                               media           posters agencies/agent
+
+                                                                                 10
+6      Perception of MOM and Workplace Conditions
+
+6.1.1  In 2024, majority of migrant workers indicated that (i) MOM was effective in protecting
+       foreign workers (97.0%, up from 87.0% in 2018); (ii) their working conditions were
+       safe (97.0%, up from 87.1%); and (iii) it was easy to approach MOM for employment-
+       related issues (89.3%, up from 82.8%).
+
+6.1.2 94.0% of migrant workers also expressed satisfaction working for their current
+           employers (Chart 13).
+
+       Chart 13: Migrant Workers' Perception of MOM and Their Workplaces, 2024
+
+                    Strongly Disagree / Disagree Neutral Strongly Agree / Agree
+
+       97.0%                  97.0%      89.3%                           94.0%
+
+       2.3% 0.7%              2.3% 0.7%  8.4% 2.2%                       5.0% 1.0%
+
+       MOM has done well      The working It is easy to approach I am satisfied working
+       in protecting foreign
+                              conditions at my MOM for any issues for my current
+              workers.
+                              workplace are safe. related to my current  employer.
+
+                                         employment.
+
+                                                                                         11
+Employers of Migrant Workers
+
+7      Overall Satisfaction and Retention Levels
+
+7.1 Satisfaction with quality of migrant workers
+
+7.1.1 Majority (70.8%) of employers reported being satisfied with the quality of their migrant
+           workers, suggesting generally positive sentiments toward the workers (Chart 14).
+          Chart 14: Employers' Satisfaction with Quality of Their Migrant Workers
+
+       70.8%                        Very Satisfied / Satisfied
+
+                                    Neutral
+
+       27.8%                        Very Dissatisfied / Dissatisfied
+       2024
+                              1.4%
+
+7.2 Retention of migrant workers
+
+7.2.1  3 in 4 employers reported that they retained more than 80% of their migrant workers
+       through the renewal of their Work Permit contracts (Chart 15). This points to a stable
+       employment relationship.
+
+   Chart 15: Proportion of Employers by Average Retention Rate of Their Migrant
+                                                          Workers
+
+       75.2%
+
+                                    12.2%                  12.6%
+                                                        60% or less
+       More than 80%                Between 61% to 80%
+
+                                                                                 12
+8      Recruitment Experience
+
+8.1 Channels of sourcing for migrant workers
+
+8.1.1  Employment agencies or agents in Singapore were the most common channel used
+       by employers to recruit migrant workers, with 56.2% of employers engaging their
+       services. 45.8% followed word-of-mouth recommendations from other migrant
+       workers. Among the 28.8% of employers who indicated "Others", most identified
+       online job portals as a recruitment method used (Chart 16).
+
+       Chart 16: Employers' Use of Channels to Recruit Migrant Workers
+
+       56.2%
+
+              45.8%
+
+                                          28.8%
+
+                                                  18.9%
+
+                                                                     6.9%             4.3%
+
+     Employment Word-of-mouth             Others   Word-of-mouth     Direct sourcing  Employment
+   agency/agent in recommendation                 recommendation        from other    agency/agent
+                                                                        countries
+      Singapore from other migrant                        from                          overseas
+                                 workers          relatives/friends
+
+8.2 Services employers engaged employment agents for
+
+8.2.1  For employers who had engaged overseas employment agencies or agents, 95.4%
+       utilised these agencies/agents for sourcing prospective workers. Other common
+       services employers use overseas agencies/agents for include skills testing of workers
+       and arrangement of workers' transportation (Table 2).
+
+       Table 2: Services that Employers Engaged Overseas-based Employment
+                                       Agencies/Agents For, 2024
+
+       Sourcing of migrant workers                                                    2024
+       Conducting/arranging interviews of migrant workers                             95.4%
+       Application of work permits (including pre-departure arrangements)             48.5%
+       Skills testing of migrant workers                                              28.8%
+       Arranging transport for migrant workers                                        27.0%
+                                                                                      10.2%
+
+                                                                                             13
+9      Retention Benefits
+
+9.1.1  Employers were proactive in retaining workers, with nearly 9 in 10 employers (88.8%)
+       reporting that they would offer benefits to encourage migrant workers to continue
+       working for the firm.
+
+9.1.2 Salary increment (81.7%) was the most common benefit that employers would offer
+           to encourage retention, followed by promotion opportunities (37.5%) (Table 3).
+
+       Table 3: Types of Retention Benefits Employers Would Offer, 2024
+
+       Salary increment                    2024
+       Promotion opportunities             81.7%
+                                           37.5%
+
+       One-time contract-extension bonus   9.6%
+       Additional paid work opportunities  7.0%
+       Additional monthly rest days        5.5%
+
+10 Medical Insurance and Training
+
+10.1 Medical insurance coverage
+
+10.1.1 Majority (81.7%) of employers agreed that the amount of medical insurance coverage
+           stipulated by MOM was sufficient for their migrant workers (Chart 17).
+
+  Chart 17: Employers' Views on Adequacy of Medical Insurance Coverage Stipulated
+                                              by MOM for Migrant Workers
+
+       81.7%                               Strongly Agree / Agree
+                                           Neutral
+                                           Strongly Disagree / Disagree
+
+       16.3%                    2.0%
+       2024
+
+                                                                         14
+10.2 Provision of additional training6
+
+10.2.1 Majority (80.6%) of employers reported providing additional training for their migrant
+           workers beyond mandatory training requirements. This demonstrates employers'
+           commitment to maintaining a skilled migrant workforce.
+
+10.2.2 Job-specific core competencies, offered by 68.8% of employers, were the most
+           common type of additional training provided. This was followed by safety and first-aid
+           courses, which were provided by 39.6% of employers (Table 4).
+
+Table 4: Types of Additional Training Provided by Employers, 2024
+
+Job-specific core competencies                   2024
+Safety, first-aid courses                        68.8%
+Upskilling courses required to attain R1 status  39.6%
+Supervisory/Leadership courses                   12.7%
+ISO, quality, standards-related courses          12.7%
+                                                 12.1%
+
+6 Additional training refers to training over and above those required by the sector (e.g., compulsory safety
+courses in the Construction sector) or mandatory to perform a job role (e.g., food safety course for food handler).
+
+                                                                                                                        15
+11 Perceptions on Access and Skills of Migrant Workers
+
+11.1 Access and skills of migrant workers
+
+11.1.1 While nearly half (47.5%) of employers agreed that access to migrant workers in
+           Singapore was good, only 27.3% of employers found it easy to find migrant workers
+           with the relevant skills (Chart 18). This suggests there is room for improvement to
+           enable employers to hire higher-skilled workers, particularly in more specialised roles.
+
+         Chart 18: Employers' Perception on Access and Skills of Migrant Workers
+
+                   27.3%
+
+47.5%
+
+                   40.8%                                   Strongly Agree / Agree
+                                                           Neutral
+38.3%                                                      Strongly Disagree / Disagree
+
+                   31.9%
+
+14.2%
+
+Access to migrant workers is Easy to find migrant workers
+
+good in Singapore  with necessary skills
+
+                                                                                         16
+                                                                                                                  Annex
+
+                   SURVEY COVERAGE & METHODOLOGY
+
+Introduction
+The Migrant Worker Experience and Employer Survey 2024 was conducted by the Manpower
+Research and Statistics Department of the Ministry of Manpower under the Statistics Act 1973
+(2020 Revised Edition). The survey was conducted in 2024 to both migrant workers and
+employers of migrant workers.
+Objective
+The survey was conducted to collect comprehensive information on the experience of migrant
+workers in Singapore, and employers' perspectives on hiring and managing their migrant
+workforce.
+Coverage
+The survey on migrant workers covered a total of 3,020 migrant workers who hold non-
+domestic work permits, of whom 2,825 or 89.1% responded to the survey.
+The survey on employers covered a total of 2,580 firms employing migrant workers, of which
+2,212 firms or 85.7% responded to the survey.
+
+Methodology
+The survey on migrant workers was a self-administered survey in English or the native
+language of the respondent. In cases where the respondent requested for assistance to
+understand the question, the interviewers explained the questions to the respondent.
+For the survey on employers, respondents submitted their returns online, by post or by email,
+with clarifications made either over the phone or via email.
+
+                                                                                                                        17
+                           FEEDBACK FORM
+
+Report Title: Migrant Worker Experience and Employer Survey 2024
+
+1. How would you rate this report in terms of:        Excellent Good Average Poor
+
+          a) Relevance to your work
+          b) Providing useful insights on prevailing
+
+               labour market trends/development
+          c) Ease of understanding
+
+2. Which area(s) of the report do you find most useful? Please provide reasons.
+
+3. How do you find the length of the report?
+
+             Too detailed  Just right                 Too brief
+
+                                                      Excellent Good Average Poor
+
+4. Overall, how would you rate this report?
+
+5. What additional information (if any) would you like us to include in our future issues?
+
+6. Any other comments or suggestions you wish to bring to our attention?
+
+                           Thank you for your valuable feedback
+
+Name of Officer:                                      Designation:
+
+Department:
+
+                                Please return the above to:
+                                             Director
+
+                  Manpower Research and Statistics Department
+                                     Ministry of Manpower
+
+                                  18 Havelock Road #05-01
+                                      Singapore 059764
+
+                                   Republic of Singapore
+                                        Fax: 6317 1804
+
+                              Email: mom_rsd@mom.gov.sg
+
+                                                                                            18
+       OTHER RELEASES
+
+Title                                               Date of Release
+
+UPCOMING ...                                        08-12 Sep 2025*
+                                                    30-31 Oct 2025*
+Labour Market Report Second Quarter 2025            24-28 Nov 2025*
+Labour Market Advance Release Third Quarter 2025    08-12 Dec 2025*
+Labour Force In Singapore Advance Release 2025
+Labour Market Report Third Quarter 2025
+
+PAST ...                                            21 Aug 2025
+                                                    30 Jul 2025
+Migrant Worker Experience and Employer Survey 2024  27 Jun 2025
+Labour Market Advance Release Second Quarter 2025   28 May 2025
+Labour Market Report First Quarter 2025             28 Apr 2025
+Report on Wage Practices 2024                       28 Mar 2025
+Labour Market Advance Release First Quarter 2025    19 Mar 2025
+Job Vacancies 2024                                  27 Jan 2025
+Labour Market Report Fourth Quarter 2024
+Labour Force In Singapore 2024
+
+More releases are available online @ https://stats.mom.gov.sg
+You may also subscribe to our email alert for the latest releases
+
+*The actual date of release will be indicated at least a week before the scheduled publication date.
+

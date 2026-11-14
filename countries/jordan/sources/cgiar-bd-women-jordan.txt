@@ -1,0 +1,1832 @@
+                   IFPRI Discussion Paper 2186
+
+                              May 2023
+
+
+
+Bangladeshi Women’s Experiences and Vulnerabilities in Jordan’s
+                      Garment Sector
+
+
+
+
+                          Gabriella Nassif
+
+                 Muhammad Mahbubul Islam Bhuiyan
+
+                              Md Zahir
+
+                        Sawsan Abdulrahim
+
+                           Claudia Ringler
+
+
+
+
+                 Natural Resources & Resilience Unit
+INTERNATIONAL FOOD POLICY RESEARCH INSTITUTE
+The International Food Policy Research Institute (IFPRI), a CGIAR Research Center established in 1975,
+provides research-based policy solutions to sustainably reduce poverty and end hunger and malnutrition.
+IFPRI’s strategic research aims to foster a climate-resilient and sustainable food supply; promote healthy
+diets and nutrition for all; build inclusive and efficient markets, trade systems, and food industries;
+transform agricultural and rural economies; and strengthen institutions and governance. Gender is
+integrated in all the Institute’s work. Partnerships, communications, capacity strengthening, and data and
+knowledge management are essential components to translate IFPRI’s research from action to impact.
+The Institute’s regional and country programs play a critical role in responding to demand for food policy
+research and in delivering holistic support for country-led development. IFPRI collaborates with partners
+around the world.
+
+
+
+
+AUTHORS
+Gabriella Nassif (genassif@gmail.com) is an independent consultant based in Lebanon.
+Muhammad Mahbubul Islam Bhuiyan (founder@cqr.org.bd) is Director of Operations at the Centre for
+Qualitative Research, Dhaka, Bangladesh.
+Md Zahir (zahir@cqr.org.bd) is a Research Analyst at the Centre for Qualitative Research, Dhaka,
+Bangladesh.
+Sawsan Abdulrahim (sawsan.abdulrahim@gmail.com) is Associate Professor of Public Health in the
+Faculty of Health Sciences at the American University of Beirut.
+Claudia Ringler (c.ringler@cgiar.org) is Director of the Natural Resources & Resilience Unit of the
+Transformation Strategies Department at the International Food Policy Research Institute (IFPRI),
+Washington, DC.
+
+
+
+
+Notices
+
+1
+ IFPRI Discussion Papers contain preliminary material and research results and are circulated in order to stimulate discussion and
+critical comment. They have not been subject to a formal external review via IFPRI’s Publications Review Committee. Any opinions
+stated herein are those of the author(s) and are not necessarily representative of or endorsed by IFPRI.
+
+2
+ The boundaries and names shown and the designations used on the map(s) herein do not imply official endorsement or
+acceptance by the International Food Policy Research Institute (IFPRI) or its partners and contributors.
+
+3
+  Copyright remains with the authors. The authors are free to proceed, without further IFPRI permission, to publish this paper, or any
+revised version of it, in outlets such as journals, books, and other publications.
+Abstract
+
+Jordan’s garment sector employs a large number of women migrants from South Asia who face
+various challenges and vulnerabilities in their work environment. The COVID-19 pandemic has
+further exacerbated some of these vulnerabilities, leading to income losses. However, little
+information is available about this migration corridor. This study implemented qualitative phone
+survey interviews with returnee women migrants in Bangladesh to identify interventions that the
+organizations, such as the International Labor Organization and other actors supporting women’s
+safe migration could undertake to reduce women’s vulnerabilities in migration. The study
+identified networks of discipline and power, the perception of appropriate behavior at work and
+beyond and racialization as key areas that mediate vulnerabilities of women. We recommend
+increasing awareness of conditions at Jordan’s garment sector as part of pre-departure training,
+which is supported by the main recruitment practice of garment workers through BOESL in the
+country. Awareness raising includes information on the role of the Al Hassan Workers’ Center as
+well as on the role of the embassy of Bangladesh in Jordan. A second recommendation is to
+translate contractual documents into Bengali so that women migrants can better understand work
+conditions, including salaries. The final recommendation focuses on the need to continue
+research on the uneven power dynamics in Jordan’s garment sector to support dismantling
+networks of discrimination and power and racialization of the work environment.
+
+
+
+
+                                                                                              iii
+Acknowledgments
+
+This study was undertaken as part of the Gender-Sensitive Risks and Options Assessment for
+Decision-Making (ROAD) to support Work-in-Freedom Phase 2 (WiF-2) project coordinated by
+the International Food Policy Research Institute. Funding for this research was received by the
+Centre of Excellence for Development Impact and Learning, supported by UK aid from the UK
+Government. The authors would like to thank the women migrants from Bangladesh who had
+returned from working in Jordan’s garment sector for sharing their experiences with us.
+
+
+
+
+                                                                                             iv
+Acronyms
+
+American University Beirut                                      AUB
+Bangladesh Overseas Employment and Services Limited             BOESL
+Better Work Jordan                                              BWJ
+Collective Bargaining Agreement                                 CBA
+Gender Based Violence                                           GBV
+International Finance Corporation                               IFC
+International Food Policy Research Institute                    IFPRI
+International Labor Organization / International Labor Office   ILO
+International Trade Association                                 ITA
+Ministry of Labor (Jordan)                                      MoL
+Qualifying Industrial Zone                                      QIZ
+Gender-Sensitive Risks and Options Assessment for Decision      ROAD
+Making
+Standard Unified Contract                                       SUC
+U.S.-Israel Free Trade Agreement                                USIFTA
+Work in Freedom phase 2                                         WiF-2
+
+
+
+
+                                                                         v
+                                             1.       Introduction
+
+1.1 Jordan’s garment sector
+        The Jordanian garment sector was established following US Presidential Proclamation
+6955, an amendment to the US-Israel Free Trade Agreement (USIFTA), in 1996, which set up
+qualifying industrial zones (QIZ) in Jordan, the West Bank, and the Gaza Strip (ITA 2023). This
+was later followed by a free trade agreement with the United States signed in 2010, which would
+jumpstart the industry and set in motion the creation of more than 10 additional zones. These
+zones, according to a US Congressional Report (CRS 2013, p. 2), are “primarily funded by Asian
+investment and predominately populated by gust workers from Asian countries.” In 2020, the
+International Labor Organization (ILO) reported, based on 2018 estimates, on the existence of 84
+factories in Jordan, which collectively employ between 73,000 and 77,000 workers, the majority
+of whom are migrant workers. The successes of the industry played a critical role in Jordan’s
+economy, with QIZ exports reaching US$1.69 billion dollars in 2017.
+        Importantly, most workers in the garment industry in Jordan are migrant women, with
+Jordanian women filling around 20 percent of these jobs (Friedrich-Ebert-Stiftung 2013). Low
+women’s labor force participation rates in Jordan, the locations of the factories far from urban
+centers; popular depictions of garment labor as “low status and low job satisfaction”, and
+potential company “preferences” for workers of certain nationalities are all, to various degrees,
+responsible for the low numbers of Jordanian women in the garment sector (Kolben 2019).
+Excessive work hours of up to 14 hours a day with overtime that would be difficult to maintain
+for Jordanian women with nearby families as well as substantially lower real cash wages of
+migrant workers compared to Jordanian workers are additional arguments that have contributed
+to most factories being staffed by migrants. According to ILO (2022), the real cash wages of
+migrant workers were only slightly more than half of real wages of Jordanian citizen’s wages
+during 2013 to 2022 and real wages have been slightly declining. In 2020, the Ministry of Labor
+(MoL) of Jordan documented 220,000 registered migrant workers, the majority of whom were
+Bangladeshi workers. 1 Of these, approximately 62,000 migrant workers were registered as
+employed with the garment sector in 2021, with Bangladeshi workers accounting for the majority
+of workers. According to the ILO, at least 69 percent of all garment workers in Jordan are
+women, a reflection of the fact that “employers generally perceive women as causing fewer
+problems because they are less inclined to go on strike and file complaints” (ILO 2017, 7).
+Sewing is, moreover, a work activity traditionally associated with women and many women
+working in the sector in Jordan had prior work experience from Bangladesh’s garment sector.
+        Beginning in the early 2000s, an increasing number of reports concerning worker
+exploitation and maltreatment within the garment industry emerged, most notably the Global
+Solidarity Center’s 2005 report (American Center for International Labor Solidarity 2005). The
+report detailed highly exploitative practices, with employers confiscating workers’ passports and
+national ID papers; withholding wages from foreign workers, who are legally banned from
+forming unions under Jordanian law; employer practices of threatening and physically abusing
+workers, with many women workers complaining about sexual assault and harassment, including
+rape; and the abuse of work hours, with workers reporting that “they’re becoming mentally
+
+1
+ While this number is considered a drop from previous years, it is largely attributed to the effects of the COVID-19
+pandemic. Better Work Jordan, “Annual Report 2022: An Industry and Compliance Review” (Geneva: International
+Labour Office; International Finance Corporation, 2022), https://betterwork.org/wp-
+content/uploads/2022/04/English-BWJ-Annual-Report-2022.pdf.
+
+
+                                                                                                                   1
+disoriented from starting [work] early and working late into the night, seven days a week, with
+only a few days off a month.” (NPR, 2006) 2 The Solidarity Center report also noted that beyond
+withholding of wages, many workers were not being paid the minimum wage at the time, which
+was reported to be $135 a month even though they were forced to report that they were being
+paid that amount. Reports of child labor and labor trafficking were rampant, and eventually
+forced the US Government to place Jordan on its List of Goods Produced by Child Labor or
+Forced Labor in 2009. The status of worker abuses in the garment sector led to the creation of
+the Better Work Jordan (BWJ) program in 2009, in partnership with the ILO and the
+International Finance Corporation (IFC). The program “aims to improve working conditions and
+respect of labor rights for workers” in the garment industry in Jordan and to “boost the
+competitiveness of apparel businesses” in the country (BWJ 2023). The outcomes of BWJ have
+been dramatic; by 2016, the country was removed from the US List of Goods Produced by Child
+Labor or Forced Labor and, according to the BWJ 2022 annual report, an independent
+assessment done by Tufts University produced strong evidence that BWJ programming is
+directly tied to the lower rates of labor trafficking in Jordan (BWJ 2022).
+
+1.2 Status of Migrant Garment Workers in Jordan
+        Today, migrant garment workers are governed by law No. 24 of 1973 on Residence and
+Foreigners’ Affairs, which codifies the kafala, or visa sponsorship system. Under the kafala
+system, workers’ residency and work permits are directly tied to their employer, an arrangement
+that can place workers at a significant disadvantage (ILO 2017). Workers are similarly restricted
+by laws that make it difficult, and in some cases nearly impossible for them to switch or leave
+their current jobs without receiving the approval of their current employers (Afrin 2019).
+Further, Jordanian work permits are only issued for one-year periods, while garment worker
+contracts are regularly signed for periods of at least three years or more, putting significant
+pressure on workers to ensure that their employers pay for and renew their work and residency
+permits on time (ILO 2017).
+        In Jordan, the use of private recruitment agencies to recruit garment sector migrant
+workers in prohibited by law. Thus, the recruitment of workers generally takes place through
+government and other recruitment agencies located in the country of origin. As BWJ has noted,
+the formalization of the recruitment process in Bangladesh has resulted in the fact that most
+Bangladeshi migrants working in Jordan today have gone through Bangladesh Overseas
+Employment and Services Limited (BOESL), a state-run recruitment agency, which has helped
+to lower the prevalence of labor trafficking (BWJ 2022; Rashid and Watson 2017). Through
+BOESL, workers frequently sign contracts for a period of three years, which often include in-
+kind wage deductions for food and lodging, which is provided by the company, as many of the
+workers interviewed for this study confirmed. Thus, although the minimum wage for the garment
+industry in Jordan today is 220 Jordanian Dinars a month, salary deductions result in a monthly
+income of approximately 125 JD (equivalent to US$176 on Dec 31/2022) or less (ILO 2022).
+The lowered salary total contributes to a largely predatory model of work hours and payment:
+Because workers receive low salaries, they are “incentivized” to work the overtime hours offered
+by companies. However, as many workers have noted, these overtime hours are not optional,
+especially if the worker has not met their daily production quotas (Afrin 2019; ILO 2022, 27).
+Intense workload demands and pressures have created an environment where rampant verbal
+
+2
+ “Jordan Accused of Harboring Sweatshop Factories,” National Public Radio, June 26, 2006,
+https://www.npr.org/2006/06/26/5510902/jordan-accused-of-harboring-sweatshop-factories.
+
+
+                                                                                               2
+abuse of employees is commonplace. BWJ has also reported high instances of discrimination and
+gender discrimination, as well as the prevalence of sexual harassment of women workers (BWJ
+2022; ILO 2022).
+         Migrant garment workers also have limited access to the array of social and labor
+protections that citizen workers have. The social security deductions that migrant workers pay
+are one critical example: Although 21.75 percent of their total wages are deducted under the
+Jordanian Social Security Act for social security, migrant workers’ low salary contributions
+disqualify them from their entitlements at the end of their employment period. 3 Amidst these
+restrictions, the 2013 Collective Bargaining Agreement (CBA) provided important advancements
+and protections for worker wages, work hours, overtime and bonus payments, and the equal
+treatment of all workers (Afrin 2019). The CBA would later lead to the creation of a standard
+unified contract (SUC) in 2015. However, workers’ access to unions and other forms of
+collective bargaining remains limited and non-compliance on the part of employers is prevalent.
+For example, although migrants can gain union membership, unions can only be led by a
+Jordanian national. Migrant workers cannot compete in trade union elections, nor can they
+choose their representatives (ILO 2022). The creation of unions is also limited to one workers’
+union per sector, according to Jordanian Law (Article 98(d) of Law 8 of 1996). Further, as the
+ILO has recently noted, union activities in the sector and in Jordan more broadly are heavily
+centralized, and often “heavily borrow” from Jordanian labor law rather than “contradicting” or
+challenging it (ILO 2022, 42). Further, migrant workers’ access to advocacy organizations such
+as the Al Hassan Workers’ Center, a center located in the Al Hassan industrial zone, is often
+limited by the location of the factory and a lack of awareness (ILO 2022).
+
+
+
+
+3
+  According to the Jordanian Social Security Act Article 70B, contributions of 120 JD or less from employees limits
+a worker’s entitlement at the time of leaving to only 10 percent of the accumulated wage totals that they have
+contributed during their time in Jordan. As ILO (2022) notes, this means that “as most migrant garment workers are
+only employed on three-year contracts…the worker foregoes 11.75 percent, or 25.85 dinars [120 JD per month
+salary] each month of what is actually part of their earned wage.”
+
+
+                                                                                                                  3
+                                           2. Methodology
+
+        Under the “Gender-Sensitive Risks and Options Assessment for Decision Making
+(ROAD) to Support Work in Freedom Phase 2 (WiF-2),” the International Food Policy Research
+Institute (IFPRI), in collaboration with the American University of Beirut (AUB) and the Center
+for Qualitative Research in Bangladesh, implemented a phone survey with women returnees
+from work in Jordan’s garment sector. The aim of the study was to understand key vulnerabilities
+experienced by short-term women migrants from Bangladesh who worked in Jordan’s garment
+industry. The study also focused on the vulnerabilities experienced by migrants as a result of the
+COVID-19 pandemic and the role of freedom of association organizations, such as the Al Hassan
+Workers’ Center supported by WiF-2, in reducing these vulnerabilities.
+        The phone survey built on an earlier phone survey conducted under the same overall
+project, which reached approximately 700 potential and current migrant workers, including
+around 80 returnees from Jordan’s garment sector who gave consent to be contacted for a second
+interview at a later date. Consequently, the recruitment for this study started with the list of
+phone numbers of those 80 participants who provided consent to be contacted a second time
+during that first survey. These 80 returnees were contacted in a random order; recruitment ended
+after 26 interviews had been conducted. All phone survey participants were compensated with
+100 Taka, or approximately one dollar, which is the same amount that was provided during the
+previous phone survey. The study received ethical approval from the institutional review board
+of IFPRI. The identities of all interviewees have been anonymized to ensure their privacy. After
+completing data analyses, all personally identifying information was deleted.
+        All interviews were conducted by the Center for Qualitative Research in Bangladesh in
+Bengali between October and December 2022. Interviews lasted, on average, between 40 and 75
+minutes and were scheduled according to the time preferences of the interviewee. Upon
+receiving interviewees’ consent, all interviews were recorded in Bengali, and later transcribed
+into English.
+
+2.1     Limitations and Sample Representativeness
+        Several key restrictions to data collection made it difficult to speak with a larger number
+of Bangladeshi returnee migrants from the garment sector in Jordan. First, the broader culture of
+silence, as discussed in the findings and analysis section, discouraged workers from speaking
+with interviewees. This was especially true with respect to the workers targeted for this study, as
+they had already been interviewed by research staff, as mentioned above, during a previous
+round of interviews. Second, it is important to note that the study team did attempt to conduct
+focus group discussions with Bangladeshi workers at factories in Jordan. However, various
+issues ultimately made it difficult to speak with workers on site, including but not limited to
+worker fears of company reprisal, the impossibility of exclusion of workers with management
+responsibilities and workers’ extensive work hours, which often extended over all days of the
+week. These difficulties forced the study team to reevaluate their approach, which ultimately led
+to the decision to conduct phone interviews with returnee migrants in Bangladesh.
+        In spite of these difficulties, the team was able to conduct 26 in-depth phone interviews
+with returnee labor migrants in Bangladesh. These 26 migrants were selected randomly from a
+larger pool of returnee migrants based on data collected during an earlier phone survey. While a
+larger number of interviews might be expected in order to claim that the data are representative,
+it is important to note that the study team identified that data saturation had been reached relative
+
+
+
+                                                                                                    4
+to the interviews conducted. Data saturation, according to Saunders et al. (2017) references the
+point at which “no new codes occur in the data,” and the same patterns and codes continue to
+emerge (p. 1895). The data collected for this study consistently produced the same codes, as the
+majority of workers responded similarly to the questions posed by interviewees. It cannot be
+assumed, therefore, that more interviews would necessarily yield different results because of
+larger population size. Data saturation was compounded by researchers’ concerns about the
+ethical principles of ‘Do No Harm’, especially considering that migrant women workers are
+considered a vulnerable and high-risk research population (Burgess-Proctor, 2015). Given that
+data saturation had already been reached, the desire to keep interviewing workers in the hopes of
+finding “new” data had to be balanced with the potential benefits that interviewing a larger
+number of workers might have produced (Ellsberg and Heise, 2005).
+        Data analysis was conducted through several rounds of coding. The first round of coding
+and data analysis was conducted by the Center for Qualitative Research in Bangladesh. The
+center developed a list of primary codes, and later identified emerging themes and subthemes
+that emerged from the data. A second round of independent analysis was done manually by the
+lead author as well as digitally using NVIVO qualitative software. The final questionnaire is
+provided in Annex A and the list of codes in Annex B.
+        Several important challenges and limitations affected this study, including the modality
+of the survey (over the phone). Phone interactions prevent researchers from examining
+behavioral and non-verbal cues during an interview, which are all beneficial for interviewers and
+later data analysis. Phone calls can be interpreted as banal or casual, which can in turn affect the
+ways that respondents react to certain questions posed by the interviewee and can detract from
+the overall quality of the discussion. Further, phone calls can seem distant or “far away,” causing
+workers to identify interviewers’ aims or goals as disingenuous. One worker was asked why she
+was seemingly “angry” with the interviewer; she responded that the last time she had spoken
+with someone as part of a phone survey, she felt that “nothing happened” or was produced by the
+discussion. In other words, the worker felt unsure about the benefits that she would receive from
+participating in another research project.
+        Moreover, phone conversations might be overheard by other household members and can
+be difficult for workers to receive in private, making it hard for interviewers and interviewees to
+discuss sensitive topics. As one interviewee noted during her interview, she “could not talk about
+these things,” in other words, issues of worker harassment or assault, because her family was
+nearby and would “get angry” if they heard her discussing these things. To identify challenges of
+potentially being overheard by other family members and lack of privacy, we added the
+speakerphone module proposed by Alvi et al. (2022) and identified the preferred time for the
+phone interviewed in a pre-call, as proposed by Gupta and Saini (2020). Other logistical
+problems arise from phone surveys, including background noise and activity near the worker that
+might distract them during the call or, in some instances, prevented them from finishing the
+interview. Poor phone connectivity frequently impacted the quality of the data and interrupted
+workers while they were responding to certain questions, which also disrupted the overall flow
+of the phone survey.
+        Finally, the overall culture of surveillance in the garment industry coupled with the
+highly exploitative nature of migrant work in this industry has created a culture of silence among
+workers. The fear of reprisal for speaking out about issues should not be dismissed, even after
+workers have returned state that things are fine in the factories where they worked. This is not to
+suggest that workers need someone to speak out “for” them or on their behalf; rather, this is a
+
+
+
+                                                                                                   5
+reminder of the ways that workers are desperate to ensure that they are not seen as
+troublemakers, which might prevent them for gaining access to future work. This might explain
+why many workers reported only having “heard of” or witnessed workplace violations from afar,
+rather than witnessing or experiencing such issues first-hand.
+        The next section presents key findings, followed by an analysis of larger themes that
+emerged from the data. The paper concludes with a set of recommendations and a brief
+conclusion.
+
+
+
+
+                                                                                            6
+                                           3. Findings
+
+3.1 Participant demographics
+        All survey participants identified as Muslim women, with ages ranging from 18 to 52
+years. Many workers reported having worked in the garment industry in Bangladesh before
+traveling abroad to Jordan, with one worker reporting that she had worked in Mauritius and
+several other countries before traveling to Jordan to work in the garment industry. While the
+range of time that participants had lived and worked in Jordan varied, most spent between less
+than one year to three years in Jordan, which aligns with the three-year contract period. A
+handful of workers reported having to return home to Bangladesh for myriad reasons related to
+COVID-19, which disrupted or prematurely ended their hopes of staying the duration of the three
+years.
+        Respondents had generally completed primary education (14 respondents). Of the
+remaining participants, six could only sign their names, five had finished secondary schooling,
+and one worker had completed higher secondary education. The majority of workers were
+currently or had been married; five workers reported being single. When asked about household
+dynamics, the majority of workers reported their husbands as the head of the household, or the
+person with the power to take final decisions. Interestingly, however, many workers reported
+themselves as the primary earners in the family. This was especially true for workers during their
+time abroad in Jordan.
+
+3.2 Reasons for Migrating
+“Everyone goes [to Jordan] to earn money, to stand on their own feet.”
+        Reasons for migration largely centered on financial need, but also included pressure from
+family or household members, problematic family or household dynamics, and, in a handful of
+cases, personal incentives to better their own futures. Based on respondents’ answers, it was
+clear that working in the garment industry in Bangladesh made it very difficult for workers to
+save money for the future, which was a key issue driving women to work abroad. Several
+workers noted that it was “impossible” to save money in Bangladesh because companies do not
+allow overtime, whereas in Jordan, “overtime was required.” Further, as one worker put it, “in
+Jordan, I have no family, so I can do overtime. In Bangladesh, I have to go home and take care of
+family after work, you see?” Other workers identified the additional costs of living in
+Bangladesh as making it difficult to save money. As one worker pointed out, “after spending on
+my children’s education, home rent, and other costs, I could not [spend] anything.” Another
+worker noted something similar:
+
+       “I cannot keep the money [I make in Bangladesh], there are different expenses like
+       medical expenses. On the contrary, in Jordan, if I get sick, the company looks after me.
+       Overall, I can save money in Jordan, but I cannot save in Bangladesh.”
+
+Another worker reported that, prior to migrating,
+
+       “Three or four of my neighbors, who work [in Jordan], told me about the process. They
+       told me, “Why are you struggling here?” Come [to] Jordan. You can make more money.
+       And you know, sister? It is hard to save money when working here in Bangladesh. But it
+       is quite easy abroad.”
+
+
+
+                                                                                                  7
+       Family and household dynamics were also a key determinant in migrants’ choices to go
+abroad for work. In the majority of cases, a family member’s illness and subsequent need for
+medication and treatment forced workers to move abroad in order to afford these items. Others
+decided to leave to work abroad as a result of having taken out large loans to afford specialized
+medication and care for their family members. As one worker explained in detail:
+
+        “There were some problems in my family. My sister was ill. Our family’s condition was
+        so bad. My father needed regular medicine. My mother was also sick. To manage
+        everything, I faced problems. That’s why I decided to go abroad. After that, I treated my
+        mother. I also [paid for] my father’s treatment, but I could not save him [and] he died.”
+
+        In a handful of cases, issues of domestic abuse and violence surfaced as a reason for
+leaving the household to work abroad, although descriptions of these incidences were
+ambiguous, and workers generally felt uncomfortable discussing the subject.
+        A disruption in family income—either the main breadwinner lost their job, or the income
+of the breadwinner decreased—made it necessary for them to migrate. As one worker noted, her
+husband’s income alone was no longer enough to support them and their new baby daughter.
+Another worker noted that her husband’s earnings were “no longer enough for our children’s
+education” costs, making it necessary for her to go abroad for work. Similarly, one respondent
+noted that:
+
+        “Yes, sister. After my father’s death, we had no earning male members in the family. My
+        brother is too young to work. And he is not even that able to work. So, after my father’s
+        death, I had to go. Before his death, he was the breadwinner.”
+
+        Relatedly, several workers reported wanting to migrate to Jordan for work to save money
+for future investments, including their children’s education as well as buying a home for their
+families. One worker reported that she wanted to “explore what [she] could do” in Jordan for
+their family: “I told [my husband] we have a future, and it could be better if I went abroad.” She
+knew that going abroad would give her the jump start that she and her husband needed to provide
+a better life for their daughter and any other future children they might decide to have.
+        Many respondents noted that saving money was also possible in Jordan because of the
+higher salaries and the ability to work overtime. “Salary is high there [Jordan], salary is low here
+[Bangladesh]” reported one respondent, while another worker verified that not only were salaries
+low in Bangladesh, but there was no chance for a salary increase. Another worker noted:
+
+        “Actually, I couldn't make enough money in Bangladesh, but I had the potential to make
+        money in Jordan. I could make up to 15-20 [thousand Taka]; it depended on overtime. If I
+        couldn't work overtime, I used to make 15,000 per month, but if I could work overtime, I
+        used to make 20,000 monthly.” 4
+
+
+
+
+4
+  As of February 26, 2023, 1 Bangladeshi Taka was equivalent to 0.0066 Jordanian Dinar. According to this
+respondent, she was able to make approximately 99.47JD a month without overtime, and 132.62JD with overtime.
+
+
+                                                                                                               8
+3.3 Community and family reactions to migration
+         Family and community reactions to women’s migration for work varied. While some
+respondents generalized reactions to women’s migration for work, one important distinction
+emerged between responses from “villagers,” or non-urban communities, and those in the cities.
+As one respondent noted, “most girls in our area go abroad,” so negative reactions “don’t happen
+here.” She continued, saying that “villagers do not like a girl who comes from abroad. Don’t you
+understand what a village girl going abroad means to them?” Instead, in the city, “everyone
+knows we [women] work.” One respondent explained that “public perception of migrant workers
+is very negative” and that “people [in Bangladesh] do not like migrant workers.” She also
+pointed to the differences in peoples’ reactions in the villages and in urban areas, noting that “in
+the village, people refuse to accept any girl as a sister-in-law if she works in garments,” either in
+Dhaka or abroad. Another worker explained in detail that “many boys or men don’t want to
+marry those migrant single girls. They say that ‘this migrant girl has gone out of the country [so]
+this girl is bad; who will marry this girl?”
+         In almost all cases, rhetoric surrounding “bad” migrant women and girls was linked to
+issues of gender and sexuality, and the gendered apprehensions that women would step outside
+of their socially acceptable roles. This might include, for example, spending time with men who
+are not from the woman’s family, engaging in sexual activities, or simply being out in public
+alone. As one respondent noted, “people comment that girls live together with boys after going
+abroad,” while another noted that “many people say that if girls go abroad, they get worse. They
+do contract marriage and other things…people make many bad comments [about them].” These
+gendered anxieties were present in workers’ own responses, which articulated that the newfound
+“freedom” experienced by women and girls abroad—because, for example, their families and
+communities are not there to directly surveil them—leads to this “bad” behavior. Many of the
+women interviewed for this study, however, fought back against the idea that they themselves
+would become “bad” girls; they saw this “bad” behavior as a personal failure of the women and
+girls, rather than a constructed issue tied to gender norms. Most workers identified with the
+belief that if they behave well, then they will be treated well and vice versa. As one woman
+noted, “abroad is not bad. Those who say being abroad is terrible are [not good people].”
+Another worker noted that she “convinced” her family to allow her to travel abroad by arguing
+with them that she “could not judge if she did not go [to Jordan] first.” “I believed in Allah, and I
+decided to go there,” she continued, eventually with the support of her family. Other women
+convinced their families by appealing to their reason, noting that “security is better abroad than
+in Bangladesh [and that] there is no chaos abroad,” and that, ultimately, working abroad would
+allow them to better their family’s financial standing.
+
+3.4 Recruitment
+Process
+       Most workers reported that they were recruited via formal government channels,
+something that almost all respondents reported as a “better option” than private agencies or
+brokers, who often requested recruitment fees to make a profit. As one worker noted at length:
+
+       “Yes, if [women] communicated directly [with] the [BOESL] office, if they do not go to
+       any broker, that’s great. If you communicate with the office directly, there is no
+       possibility of spending money uselessly. You do not need to spend extra money. Brokers
+       run away along with workers’ money, passport, and other things. These [things] happen.
+
+
+
+                                                                                                   9
+       If you go through the office, you can go without any tension. You have 100 percent
+       surety. Nobody will ask for extra money in the office. Suppose you have submitted
+       30,000 TK in the office, you have a record of that money. There is no way to lose your
+       money. I think it’s best to follow the BOESL procedure.”
+
+         Other workers supported this claim, noting that BOESL “does everything” for the
+workers, which ensures that the worker does not make any mistakes during the recruitment
+process. Another worker stressed that, when asked about bettering the recruitment system for
+future workers, “I always say one thing. Most people make the mistake when they go to a broker.
+The brokers request a lot of money. Without going to the brokers, if you go to the office, and get
+your needs met, it is the best.” One worker even noted that she had heard that “there are a lot of
+problems in private [broker] procedures,” including “police harassment” of workers; knowing
+this, she “followed the government procedure” to avoid any possible issues. However, awareness
+about BOESL is not universal. As one returnee worker noted: “My neighbor suggested to go to
+the Jordan through a broker. They also went via a middleman. We didn't know that we could go
+without money. But now, we know that.”
+         Importantly, almost all respondents noted that they learned about garment factory work in
+Jordan, and the immigration process itself, through close friends and relatives, community
+members, and even co-workers at their previous jobs in Bangladesh. It was frequently through
+these personal connections that workers were able to start the immigration process, as many did
+not have any knowledge about the process prior to migrating. Most workers’ journeys began
+with BOESL, the government-owned and operated recruitment agency, as the Jordanian legal
+framework prohibits private recruitment agencies in Jordan. As a result of the overall slow
+formalization of the recruitment process for garment workers coming from Bangladesh to Jordan
+and beyond, Jordan now requires that workers have an authenticated certificate with them upon
+arrival that ensures that they were recruited by a licensed recruitment agency in the worker’s
+country of origin, among other stipulations (ILO 2017).
+         Most workers began their recruitment office by visiting the BOESL office for an
+interview; “after passing [the interview], we were sent to the technical,” noted one worker.
+“There, I had an interview for six days.” These interviews, or “technicals,” as many workers
+called them, included testing for sewing skills and teaching them additional sewing methods and
+other tasks that would be required of them in Jordan, as well as briefing them on the living
+arrangements and other important items that they would need to be aware of once they arrived in
+Jordan. Upon passing the interviews, workers waited a certain amount of time until their visas
+were issued, and they were cleared to travel. The duration of the recruitment process varied, with
+most workers noting that the process took approximately three months, while others mentioned
+waiting nearly six months before receiving their visas.
+         BOESL provides pre-departure training; several recommendations on improving such
+trainings have been provided in the past. Asis and Agunias (2012) find evidence of inconsistent
+or poor implementation of these trainings. Curricula have been criticized for being very general
+and not sector-, country- or gender-specific and for not providing enough information on support
+channels and migrants’ legal rights (Frantz 2014). Rashid and Watson (2017) suggest interactive
+sessions as well as systematizing BOESL’s information sessions to better address experiences,
+concerns and rights of migrant workers. They argue, moreover, that orientation materials need to
+include perspectives from ‘migrant-centered’ support networks, inclusive of trade unions and
+civil society organizations, and returnee migrant workers in both origin and destination countries.
+
+
+                                                                                                10
+Improved curricula and accessibility would improve interest in and ability to participate,
+avoiding that aspiring migrants pay off someone for avoiding attendance. Finally, Regmi et al.
+(2019) call for inclusion of mental health awareness as part of pre-departure training, particularly
+to aid with issues like isolation, work stress and potential employer abuse without support from
+the family.
+Fees and Debt Bondage
+        On average, most workers reported spending between 40,000 and 60,000 Bangladeshi
+Takas (TK) (equivalent to US$405 and US$607, respectively, using the average December 2022
+exchange rate) over the course of the recruitment process, with some workers reportedly
+spending around 80,000 TK (equivalent to US$809, using December 2022 exchange rate).
+Workers were required to spend money on several items, including the costs to secure or renew
+their passports, costs of medical examinations and a urine test, finger printing at the BOESL
+offices, and the costs of shopping for personal items before leaving. Variations in recruitment
+fees were often linked to the type of recruitment process that the worker was using, in other
+words, whether they were using BOESL or if they were going through a private broker. Relative
+to the BOESL recruitment process, many workers noted that much of the recruitment costs they
+spent were deposited into a bank account and later returned to them. 5 Workers were also largely
+aware that more recently, in 2022, the government of Bangladesh had significantly lowered the
+fees necessary to travel abroad for work, from around 80,000 TK to 30,000 TK. 6
+        These costs often pushed workers into debt prior to leaving Bangladesh. Workers are then
+obligated to stay and work until they can pay off their loans, in a system known as debt bondage
+(see also Toppa, 2017). Under debt bondage, workers do not have the opportunity to opt out of
+contractual obligations and in many cases, are forced to work longer than originally stated in
+their work contracts under fear of retribution for these debts once they return home. Loans taken
+out from brokers themselves were the most problematic, with one worker noting, “[the broker]
+sent me with his money. He helped me a lot [but] I will not be able to pay his debt in my whole
+life.” Other workers took out loans and paid in installments through remittances sent back during
+their time in Jordan. However, interest payments on these loans were often high, with some
+workers reporting interest rates as high as 100TK a day. These rates often kept workers in debt
+for longer periods of time, and in some cases forced workers to depend on other sources of
+financial support. As one worker noted, she was forced to seek support from several different
+sources, after which she still had to take out a small loan in order to cover the entire recruitment
+cost:
+
+         “I sold my necklace and two pairs of earrings. Yes, two chains and two pairs of earrings,
+         I sold them. Then I took help from someone—I paid [BOESL] the money for my
+         passport. Then when I was ready to go [to Jordan], I did some shopping [but] I did not
+         have any money, so I borrowed from my mother 40,000 TK. Then I went to Jordan.”
+
+5
+  This fee is referred to as a “bank draft,” which workers must deposit into a new account, where their salaries will
+eventually be transferred. These costs were refunded once the worker had been abroad for a certain period of time,
+generally one to three months (ILO 2018). ILO, “Recruitment Experiences of South Asian Migrant Workers in
+Jordan’s Garment Industry,” Fundamental Principles and Rights at Work (FUNDAMENTALS) (Geneva:
+International Labour Organization, 2018), https://www.ilo.org/wcmsp5/groups/public/---ed_norm/---
+ipec/documents/publication/wcms_638703.pdf.
+6
+  See also: Arab Times Online, “Bangladesh Cuts Labor Fees for Migrant Workers,” December 4, 2022,
+https://www.arabtimesonline.com/news/bangladesh-cuts-labor-fees-for-migrant-workers/.
+
+
+                                                                                                                    11
+Another worker complained that “some lenders charge 200 TK [of interest] per thousand” Taka
+[that is 20 percent], which forced her to supplement her remittances with money earned from
+selling “gold ornaments” from her family.
+
+3.4 Salary and Overtime
+         As mentioned previously, the promise of higher salaries for garment workers in Jordan
+drew the majority of respondents to the country for work. Additionally, the higher salaries
+“justified” the high recruitment costs, as workers felt confident that they would be able to pay
+back recruitment and any other loans they might have during their time abroad. Interestingly,
+several workers confirmed that the salaries promised to them by BOESL and in the contractual
+documents they signed before leaving Bangladesh were often higher than the actual salaries that
+they finally received in Jordan. Workers reported that they were told during BOESL trainings
+that they would receive between JD 125 and JD 150, when in reality they received between JD
+99 and JD 130 (approx. TK 15,000–20,000). The differences between actual and promised
+salaries varied according to company, with one worker reporting that her company was known
+by all workers in garment factories in Jordan as a company that paid significantly lower salaries
+than others. Other workers reported that the “lower” salaries were not really low, but were a
+reflection of a salary without overtime pay. “When we [workers] questioned them about it,”
+noted one worker about the lower salaries, “they [management] said that we would get it when
+we worked overtime.” Another worker provided more details:
+
+       “I got less than what they said to me [before leaving]. I got 115 JD; but what this means
+       is that with overtime, the amount [could be] 35 JD more than the 115 JD that they said.
+       So, it was possible to make more.“
+
+On average, although their contracts under Jordanian law stipulate that workers can work a
+maximum of eight hours a day, most workers reported working 11 to 12-hour days, beginning as
+early as 7:00 A.M. Workers were then allotted half-hour breaks for lunch, with a short 15-minute
+break in the morning and in the afternoon for breakfast and tea. With overtime added on, workers
+often found themselves working more than 14 hours per day. One worker reported the following:
+
+        “[Schedules] depend on the working system [and day]. Suppose today is the delivery
+       [day] for work. We would work until 8:00 or 9:00 P.M., even 10 P.M.”
+
+Another interviewee noted that she had heard from friends that in other companies, workers
+might even work until 12:00 A.M. if they had not met their production quotas.
+        However, overtime wages were not an option for many workers, as they felt obligated to
+work in order to increase the low base salaries. Other workers confirmed this, with one woman
+explaining that the company promised them that “when you start to work overtime, you will get
+20,000 TK. And from the [second] month, we got to work overtime.” Some workers, however,
+were not as lucky: “With overtime, we received about 16,000–17,000 TK,” noted one worker,
+while another worker reported making only 15,000–16,000 TK that could increase to 20,000 TK
+if she worked overtime. One respondent reported that “opportunities” for overtime were not
+always available in her company: “If I fulfilled the [production] targets, I would be able to earn a
+lot of money. We used to get [these] opportunities sometimes. We did not get it every month.”
+
+
+
+                                                                                                 12
+        It is also worth mentioning that some workers reported that a small amount of their
+monthly salary was deducted by the company as “social money,” which can loosely be translated
+to social security fees. In Jordan, Social Security Law No. 1 of 2014, which applies to all
+workers irrespective of nationality, is deducted from workers’ monthly salaries, to cover
+insurances “against work injuries, insurance against old-age, maternity insurance, insurance
+against unemployment, and health employment”(ILO 2017, p. 13). The monthly contribution to
+social security for a garment worker is approximately 6.25 percent of the worker’s total wages.
+While workers did not specify that “social money” was used to cover work-related insurances,
+many workers did report that this “social money” was sometimes returned to them once they left
+Jordan, while others reported that the deducted money went towards other company costs
+including airfare, which is paid by the company for first-time migrants.
+        Finally, some workers acknowledged that there were both monetary bonuses and days off
+provided by some companies. One worker reported the following: “If you attend [work] without
+absenting a single day in a month, you will get 500 TK as an attendance bonus.” Another worker
+similarly reported that “we would get [a] bonus if the production [was] good.” Additionally,
+workers reported receiving time off for holidays, in particular Eid. However, it was unclear
+whether this was paid time off.
+
+Language challenges
+       Many interviewees noted that their lack of knowledge of other languages hindered them
+from communicating and understanding the work conditions. As one worker noted “
+
+       “As I cannot read and write what is written in the contract paper, we don’t know exactly
+       what our salary will be, overtime, working hours, and leave issues and those should be
+       written there, but I am confused about what I learned and experienced there (in Jordan).”
+
+Another interviewee similarly noted:
+
+       “It was written in the agreement how much I would get for the overtime. But if we do 10
+       hours of overtime, they will be given 5 hours of takas. There was no option to talk about
+       anything there. The agreement did not show to us. And even so, I don't know how to
+       read; I don't know anything and did not notice so much. The agreement was written in
+       English, and they did not read it to us later.”
+
+Workers also noted that the language and literacy barriers affected their income. As one
+interviewee noted “I could not do overtime for one year because I could not understand their
+language.” It also affected their ability to relate problems they faced. As one worker noted:
+
+       “I didn’t know their language as most people speak Arabic there, sometimes English. So,
+       it was very tough for me to communicate with my superior.”
+
+Another interviewee noted: “I didn’t understand their languages like Sri Lankan, Arabic
+and Hindi. So, I never could share my problems to my supervisor”.
+
+
+
+
+                                                                                              13
+3.5 Workplace environment
+Work pressure
+       All of the workers interviewed for this report cited that “work pressure is high” in Jordan,
+with one woman noting that “with a salary of thirty thousand Takas, there is no time to urinate.”
+Workers reported that there was pressure for each worker to meet a certain production target
+every day; if they did not meet this target, they were subject to “scolding” and “sometimes
+yelling” at the hands of the factory floor supervisor. Some workers reported that their daily
+schedules were contingent on completing these targets, as one worker noted:
+
+       “They tell us a sequence, such as you will complete this number to that number. After
+       that, you can leave for the day. Suppose my duty time is 7.00 am to 6.00 pm, but I have
+       completed at 3.00 pm; I can come back home at 3.00 pm.”
+
+Another worker claimed that “if I failed to supply the production [targets] on time, they scolded
+us in their chambers. It sometimes happened.” Worker accounts of “punishment” on the factory
+floor varied, however. Some workers said that punishment “never happened” to them; some
+workers claimed that they had only heard about past events of punishment taking place; while
+some workers did report that punishment happened, especially if workers were unable to meet
+the daily assigned targets. Some workers noted that you were “not allowed to leave [if] the target
+was incomplete,” and one women noted that “Many girls I have seen did not get time to take
+food to fulfill the target,” while others reported that “if you are bad at your work and [are] less
+producti[ve], they will take you to the General Manager’s room.” But, she stressed, you were not
+“punished” by the General Manager; rather, they explained to you what needed to change:
+
+       “They [General Manager] will ask you to increase your production. They will help you
+       understand where you are doing making mistakes, how to produce more, etc. They will
+       send you back [to the factory floor] after saying these things…No, there was not any
+       punishment.”
+
+She continued noting that:
+
+       “No, [they do not] scold. They used to talk a bit angrily at first. They will get angry when
+       you make a mistake, which is normal because they are liable to the owner. They have to
+       get the production done.”
+
+Another worker reported that supervisors and managers would “shout” in their languages “which
+we [workers from Bangladesh] didn’t understand. Then we used to cry about that.” Other
+workers reported supervisors using more exploitative practices when work targets were not met:
+
+       “Yes, we were bound as there is no freedom [in Jordan] like in Bangladesh. They
+       [managers] used to shout and so on. They threaten that they will [keep] us to work
+       without pay or [will not] allow us to leave the workplace…which is also practiced in
+       Bangladesh.”
+
+
+
+
+                                                                                                 14
+Other workers noted that the pressure “was immense” and that managers “didn’t understand that
+everyone couldn’t take the same pressure.” “They would ask you to work at any cost,” noted one
+worker, “even if your relative dies.” Yet another study participant noted:
+
+       “We had a director who behaved badly with girls. Moreover, if any girl could not
+       understand the task or deliver the target, he abused her verbally and threatened to send
+       back her to Bangladesh. Moreover, he did not provide any task to them for 1 or 2 months,
+       and without pay they had to live there.”
+
+Sick Leave
+       However, workers consistently reported that companies covered the costs of medicines
+and seeing the doctor unless the problem escalated, and the worker needed to be treated off
+campus at a local hospital. Some workers noted that the companies they worked for were
+“helpful” if they were sick:
+
+       “No, they do not pressure [workers to return to work if sick]. If someone is sick, there are
+       doctors; if the doctors see [that] someone [is] sick, they let her go home to rest.”
+
+The worker continued, noting that:
+
+       “There are medical services in the company. If the treatment is available in the
+       company’s medical facility, they used to provide that. If the treatment is not available in
+       the company’s medical service, they used to send [the worker] outside [the campus] for
+       the treatment. If someone used to have a personal problem, they took treatment from
+       outside.”
+
+Again, she notes that “mild ailments” were treated, and paid for by the company itself. Another
+worker reported that:
+
+       “The company used to bear the expense [of sick leave]. Suppose you got sick while
+       working, the company looks after the matter. If the medical cost is in the range of the
+       company, they bear the cost. If it is seen that [the worker] needs a lot of money, the
+       company provides an amount of money, approximately 30,000 to 40,000 TK, and sends
+       her [back] to Bangladesh.”
+
+Any remaining costs would then be the responsibility of the worker upon her return to
+Bangladesh. Other workers verified this and claimed that companies would cover approximately
+50 percent of the larger medical costs accrued by sick workers. Workers noted that the
+company’s medical team tried their best to “solve” all health issues on campus and would only
+send workers to off-campus clinics and hospitals in severe cases.
+
+After-work hours: Living arrangements and activities
+         After finishing their workday, respondents noted that workers were required to return
+home to their dormitories. Once there, women showered, cleaned, and cooked, among other
+activities. Some went out shopping at the local markets in the city, where they picked up food
+items that were not available at the companies, who provided food to workers. Workers’
+
+
+
+                                                                                                 15
+opinions about food were mixed, with some arguing that the “food arrangement was good. Two
+days a week, they used to serve chicken. Two days a week, they used to serve beef. They served
+eggs every day of the week.” Overall, companies were responsible for providing food to workers
+and a small kitchen on each dormitory floor for workers to cook their own food. However, the
+majority of respondents noted that “we couldn’t eat the food provided by the company [even
+though] they gave us food properly.” As one worker noted:
+
+       “Food was arranged by the company. One could cook independently if anyone is not
+       eager to take the company’s food. Not everyone liked their food. My sister and I were
+       there. My sister used to eat their food, but I didn’t. I only took their rice, cooked
+       vegetables, and other items by myself.”
+
+Many workers ultimately preferred to cook their own meals, using the stoves provided to them
+by the company.
+
+       "It would have been better for us if they gave us an extra 50/60 takas for the meal so that
+       we would have cooked and eaten ourselves. It would be good for us and all those who
+       will go to or stay in Jordan. Many girls know that they deducted money from their salary
+       for food."
+
+Two respondents relayed stories that companies apparently had mixed the food they provided
+with medicines to “reduce sexual desires”, and one worker reported to this to the “leader” but
+noted that she was not taken seriously.
+
+“I only ate the company food,” one worker noted, “when I didn’t have any money. After getting
+a salary, I bought eggs, lentils, potatoes, oil, and onion.” As one worker noted, many workers
+visited local markets to stock up on food items that they preferred:
+
+       “There were roadside markets like Bangladesh, and I bought from there weekly. When I
+       first went there, it was available once a week. After two years, it started to set up daily.
+       Besides, there were grocery shops at our house, and everything was available there.”
+
+The ability to cook their own food, however, was often dampened by the long lines that
+developed “everywhere; [there was a] queue for cooking, queue for bathing, there was nothing
+but queues,” noted one worker. Another worker noted that “everything abroad is [queue]-based.
+You will find [queues] everywhere.” Workers regularly found themselves waiting in line to get
+access to the stoves in order to cook their meals (one respondent noted there were approximately
+26 stoves for 1000 workers), and would rush to get to the showers early in the morning “before
+there was a long line.” While it was unclear how many workers lived on each floor of the
+company’s dormitories, workers noted that on average, rooms accommodated up to 8–10
+women, who each slept in single bunk beds. Each worker had a small locker available, where she
+was able to store some of her personal belongings. Women’s dormitories were separate from
+men’s, who were housed in a different building altogether. Entertainment options, like television,
+were unavailable in most workers’ rooms unless workers bought one themselves. Instead, one
+worker reported that her company provided “fans” and “quilts” for the rooms. Largely, workers
+relied on their mobile phones as a “source of recreation,” one worker noted; workers paid their
+
+
+
+                                                                                                  16
+cell phone bills, as these were not covered by the companies. However, one worker did report
+that in her company, a “hall room” existed that functioned as a community gathering room:
+
+       “There was a hall room. It was a big room. People would walk from there. Where you
+       could watch television, sound box…bat-ball, badminton, etc. Everyone used to go there
+       on Fridays. It was a place for dancing and singing. These were for our entertainment. The
+       facilities were so good.”
+
+        On holidays, companies frequently treated workers to special meals and time off. For
+example, one worker noted that “they used to serve special dishes on Friday. It is a must.”
+“During different festivals like Eid and Bengali New Year,” noted one worker, “[the company]
+used to provide special dishes for the workers.” “Yes,” another worker recalled, “we celebrated
+special occasions. They gave us good food on special occasions, such as biriyani. Also, they
+served us cakes.” Others reported companies setting up “arranged programs” or field trips on
+holidays, taking busloads of workers to see special sites and locations across Jordan. As one
+worker remembered:
+
+       “The company was arranging picnics on these days [holidays]. They decorated the picnic
+       bus and took us to the Nile River, an apple farm, a shrine, and many other places. They
+       will take you to picnics if you give money, just like Bangladeshi garments. They fill the
+       whole bus with people and go for picnics.”
+
+3.6 Working During COVID-19
+         Several workers reported working in Jordan during COVID-19 and, in particular, during
+the first year of the pandemic and government-enforced lockdowns in Jordan. As one worker
+detailed:
+
+       “Suddenly, we started to hear the word “Corona” from everyone. But we had no idea
+       what it was. One day, at five o’clock in the morning, our house leader, aunty, came and
+       started knocking on the door. I opened the door, and after opening the door, she said,
+       “None of you will go to the office until you get my further instructions.” Your office is
+       closed. I asked her, “Why, aunty?” She said, “This was because of Corona.” You'll start
+       going to the office after my next instruction. The office was closed for almost 15 days.”
+
+She continued on, recalling their return to work and the re-opening of the company:
+
+       “When the factory reopened after 15 days, they gave us masks and hand sanitizer after we
+       went in line. We used to go to queues where we maintained a one-hand gap; it was the
+       same in all companies then. Hand sanitizer was given every two hours so we wouldn't get
+       infected with the virus. Two masks were given; we wore one before lunch and the other
+       after lunch.”
+
+During this time, workers experienced many difficulties, some of which varied from company to
+company. Others noted that their families were “creating pressure” for them to return, especially
+in the face of the COVID-19 pandemic:
+
+
+
+
+                                                                                               17
+        “Initially, I did not want to [return] due to my poverty. But my husband and daughters
+        pressured me to return because I was afraid of Corona[virus]. My daughters said to me,
+        “if you die, we will not be able to see you.” My husband started quarreling with me
+        before that and told me to return. Then I resigned from my work.”
+
+Workers’ reports of working in Jordan during the COVID-19 pandemic focused primarily on
+salaries and were varied: While some workers received their full salaries during lockdown
+periods when the company was closed, others were paid only half their salaries or, in the worst
+instances, were not paid any salary at all.
+
+One worker reported that workers organized, herself included, to protest her company’s
+withholding of three months of salary from workers on account of the pandemic and their
+inability to work at full capacity.
+
+        “For example, our salary has been withheld for three months due to the coronavirus. So,
+        we had to send our salary to our hometown. For instance, we have parents; please give us
+        our salary. So, some would stay in front of the office, some would remain in the street,
+        and the police would come. They later asked what the problem was. People say they
+        don’t give salaries. Later they would say that they would pay the compensation, then
+        provide a date, then pay the wages within that date.”
+
+In all cases, however, most workers noted that the companies did continue to provide for
+workers’ living arrangements and food. A few, however, noted that their companies did
+eventually withdraw money from their pre-COVID salaries to pay for food and lodging when the
+company was forced to stop its work due to government enforced lockdowns. Other workers
+reported that companies only paid half of their normal salaries.
+         Interviewees reported on the stresses of living in the dormitories during the pandemic,
+where movement was highly restricted in order to prevent workers from contracting the virus.
+Some workers even reported leaving as soon as it was possible, in other words, once the first
+government enforced lockdown in Jordan was lifted and travel was permitted once again. While
+many workers reported receiving the original COVID-19 vaccine, 7 they equally noted that many
+people they had known had contracted the virus while working in Jordan. Other workers reported
+that companies did provide COVID-19 testing and screening for workers. As one worker noted,
+“those who tested positive were taken to separate rooms and [were given] their treatment there.”
+         Meanwhile, the findings suggest that the levels of strictness in relation to COVID-19
+protocols depended largely on the factory supervisors and administrators. As one woman noted:
+
+        [W]e couldn’t go to the market and [were] bound in the room. We [had to] keep a
+        distance of four hands [between each other]. [The boss] was so strict that none could get
+        in touch with anyone. We followed the rules and wore masks…They didn’t even allow
+        me to go outside…Everyone had to stay in their bed and rooms. We followed the
+        guidelines.”
+
+
+
+7
+ Based on worker interview transcripts, it is unclear which vaccine workers received (e.g., Pfizer or Moderna
+vaccine) and how many doses of the vaccine they received.
+
+
+                                                                                                                18
+Several workers also reported facing strict social distancing requirements during the first few
+months of the pandemic, while others noted that they were delayed while trying to return to
+Bangladesh because of the COVID-19 pandemic.
+
+3.7 Returning to Bangladesh
+        Workers reported myriad reasons for returning home to Bangladesh from Jordan; among
+these, family pressures and changes in household dynamics were predominant. Shifts in the care
+responsibilities also prompted workers to return home. In several instances, workers reported that
+their husbands and family members, who were tasked with caring for their children in their
+absence, were “creating pressure [for them] to come back” to take care of these children. For one
+worker, the death of her husband meant that her young son was now in the sole care of her
+mother, who told her “I’m alone and cannot take care of your son alone. I need you here.” This
+prompted the worker to sever her contractual obligations and return home. Several workers
+reported that their husbands, in particular, put pressure on them to return. In one case, a worker
+reported that her husband had threatened to marry a second woman if she did not return. Others
+reported familial pressures related to marriage, with two workers reporting that they returned
+home to get married under the pressure of their families. In another case, a returnee migrant
+reported that
+
+       “when I went to the cabin [of the superior] to give him the reports, Sir told me that he
+       wanted to marry me. When I didn't accept his offer, he put me under a lot of work
+       pressure. That is why I was forced to leave the job and return to Bangladesh.”
+
+        Many workers reported that upon returning to Bangladesh, they once again found
+themselves under financial strain. Although some managed to make important gains, like buying
+land or a house for their families, their unemployment in Bangladesh caused them to go through
+any savings they had earned while working in Jordan. As one worker reported: “Yes, all of it
+[savings] got spent. I had to bear my father’s medical and children’s educational expenses…I
+was able to buy land in Dhaka. I have nothing else.” Similarly, the workers who reported
+returning to Bangladesh due to illness also faced financial difficulties as they paid for their own
+medical treatments. As one worker reported, “I [would] not [have] come back” if it were not for
+her illness, “I was good [in Jordan].”
+
+
+
+
+                                                                                                  19
+                                            4. Analysis
+
+4.1 Factory floor discipline
+Networks of discipline and power: Camp bosses, supervisors, and house leaders
+         Discipline emerged across all of the completed interviews as an important issue, both on
+the factory floor and in the after-work hours spent at the women’s dormitories. The notion of
+discipline has been a key focus of study in feminist research on women workers, in particular
+women workers in the Global South. In these studies, it is important to note that discipline does
+not emerge primarily through exceptional moments of violence—for example, a supervisor
+beating a worker—but, rather, through the more banal acts of everyday life in the factory. As
+noted by Ong (1987), Wright (2006) and Mezzadri (2016), the discursive and material practices
+through which workers are constructed—not only by their supervisors, but by their coworkers,
+their governments, their families, and their broader communities—all contribute to the very
+systems of power that control and discipline workers. From the responses gathered for this
+report, it is clear that discipline, including the self-discipline of workers, emerged in relation to
+the discursive positioning of “good” and “bad” workers. It was clear that being a “good”
+worker—which has both gendered and racialized dynamics, as will be discussed below—was
+key to being treated well by company superiors and, overall, experiencing a “good,” in other
+words a safe and productive, time abroad. In workers’ minds, being “good” was an individual
+choice: “good” girls made “good” decisions to work hard, to respect their supervisors’ wishes,
+and to maintain a “good” reputation while abroad. As one worker noted, supervisors and other
+company representatives were “good to you if you were good to them.” If workers met their
+production targets and behaved well during after-work hours, they would be able to do their
+work “without any problems,” as another worker noted.
+         But self-discipline, of course, did not evolve in a silo. Instead, while only a handful of
+workers reported direct instances of violence used as a disciplinary tactic—although, this might
+be attributed to a fear of retribution for speaking up—all of the workers who participated in this
+study reported several levels of supervisors, all company employees, who formed a constant
+source of surveillance over workers. Workers had various names for these employees, from
+“house leader” to on-site supervisors, including “line supervisions,” a “camp boss,” and others.
+Still others highlighted a “Sir,” most commonly a man from another country, on the factory
+floor, who was tasked with fielding workers’ complaints and concerns, if they had any.
+Companies also reportedly housed their own doctors and medical staff, as well as a medical
+clinic, where workers would go to treat most illnesses unless they needed to go to a hospital to
+receive more serious treatment. House leaders lived with workers, and “took care of” the workers
+living in the dormitory. As one respondent noted, her female house leader “checked if [anything]
+needed changing, like a damaged light or fan.” The house leader also “took care [of us] if any of
+us got sick or were required to go to the hospital.”
+         The high volume of supervisors has several important effects on workers’ self-
+disciplining. First, with so many supervisors attending to different aspects of workers’ lives in
+Jordan—floor managers for factory floor problems, a house leader for issues with living
+arrangements, a doctor and a clinic for health issues, among others—workers are always under
+the “care” of different managers and supervisors. This effectively works to deflect and de-
+escalate workers’ concerns, as they are constantly (re-)routed to a different manager each time
+they have a problem. In other words, workers do not have a formal, singular complaint
+
+
+
+
+                                                                                                  20
+mechanism at work; instead, they are pushed around between different supervisors to lodge their
+complaints. As one worker noted:
+
+       “If we talk to the upper group, they say they will deal with it, and after some time, they
+       make excuses and force us to go back to our work again. You will never get justice.”
+
+The second effect that such a high volume of supervisors has on workers is that it presents the
+company as an omnipresent force: No matter where workers are, they are under the surveillance
+of a company representative. If workers were sick, they visited a company doctor; if workers had
+an issue on the factory floor, they spoke with the floor manager; and if workers had a problem
+with their living arrangements, they spoke to a house leader, another company representative
+who lived with the workers in their dormitories. As one worker noted,
+
+       “Suppose, I am facing a problem. I used to share my problem with the officer from
+       Bangladesh that I am facing. The officer used to share the problem with the
+       administration. They used to try their best to solve the problem…There is a “Sir” from
+       Bangladesh who is educated. He can explain my problems [to] the administration and he
+       can tell us the solution given by the company.”
+
+This effect was reinforced by the fact that company representatives, as well as recruitment
+agencies in Bangladesh, frequently told workers that they should “focus on the work.” As one
+worker noted,
+
+       “They [managers] told [workers] that [Jordan] was not a place to roam but a place to
+       work. They advised us that we had left our children in Bangladesh [and therefore] should
+       focus only on work. As we get a seven-day holiday, we should do [only] housework,
+       sleep and care for our health. They counsel us in this way.”
+
+Managers and supervisors also “helped” workers in important ways to become more productive,
+as many interviewees reported. One woman relayed the following story, which happened after
+she had gotten in trouble for failing to meet her production quotas several days in a row after
+arriving in Jordan:
+
+       “Yes, I told that Bangladeshi [supervisor] who was there for our help. I told him that I
+       needed time to learn [and that] once I get adjusted, my work speed will boost. And the
+       Bangladeshi told them [factory managers]. Then, I was told that the office had
+       reconsidered my issue and asked me to try to increase my work speed gradually.”
+
+In this instance, the supervisor intervened on the worker’s behalf to protect the worker from
+possibly being sent back to Bangladesh or from being denied a day’s wages. However, this type
+of “help” must be nuanced by the fact that, as one interviewee noted, “they [supervisors] work
+here and face the same situation.” What this worker is highlighting is that supervisors are under
+similar pressures to meet performance indicators; when these indicators are not met, they
+similarly face certain types of punishment. Thus, to “help” a worker is in their best interests,
+insofar as better worker performance translates into better treatment for them as supervisors.
+
+
+
+
+                                                                                                    21
+Supervisors did not have much power, this worker noted: “They [supervisors] can only ask if we
+had problems or if we’re not doing fine.”
+        This culture of surveillance also helped to discipline workers on the factory floor. All
+respondents reported feeling significant amounts of “pressure” to meet their work targets and to
+perform according to their supervisor’s wishes. In particular, workers were aware that if issues
+arose, they risked being sent home to their dormitories or worse, sent home to Bangladesh; in
+both cases, workers lost potential wages. For this reason, one worker noted, “nobody misbehaves
+here [because] if someone misbehaves, they [managers] tell her to stay at home.” One worker
+reported the following:
+
+       “I heard about a company that if any employee cannot deliver the target, the company
+       cut[s] money from [their] overtime. In [relation to] this issue, the girls do not protest
+       because they fear to be marked. If they get marked, the company searches her mistakes
+       more.”
+
+Being “marked” meant that you were a “bad” worker, and “bad” workers were at risk for being
+denied their daily wages or even sent home to Bangladesh. In this way, the use of the term “bad”
+discursively disciplined workers to behave while at work. “Bad” workers were “shamed,”
+according to one worker, who remembered a strategy employed by the factory floor supervisor
+that made workers who did not meet their targets remain standing while other workers were
+allowed to sit down. “Is [this] not a shame? It is a matter of [humiliating] any worker standing,
+because supervisors and other workers look at her. The reason is, she failed to submit work [on
+time].” Worse, “bad” work was used as an excuse by company supervisors and bosses to put
+certain workers under even higher levels of surveillance and scrutiny. In some cases, this might
+mean that “she [the worker] might be pressured to return” home, as one worker noted. While
+some workers recognized the unfair power dynamics at play in these incidences between workers
+and supervisors, others reinforced the “good” versus “bad” worker narrative through self-
+discipline. As one worker responded to questions about worker punishment on the factory floor,
+“If the failure is mine, I should be humble,” she noted, implying that any mistake made is her
+fault alone, and could not be blamed on structural issues or the pressures from the company to
+meet high targets each day.
+         The fears of losing wages or being sent back to Bangladesh ultimately helped to
+perpetuate a culture of silence among workers, who were unwilling to speak up against the
+company for fear that they might be sent home. As one worker noted, “no one wanted to open
+[their] mouth” during meetings with welfare officers inquiring about the status of their
+workplace and living environments. Several respondents confirmed this belief, noting that even
+though this was “not said by the company,” in other words, supervisors did not expressly
+prohibit workers from speaking against the company, it was “known that she will face a lot of
+pressure if [she] speaks.” One worker remembers that during her time as a supervisor, she was
+told that “if there is any problem [with workers], we will discuss it with ourselves, but you will
+say nothing in front of the workers.” Another worker noted that she had friends whose monthly
+salaries had been cut because they spoke up against the company or agitated for better wages.
+She remembers that some workers “had their passports seized” or were sent away “overnight” so
+that they barely had time to say goodbye to anyone or even to collect their personal items. This
+culture of fear also made it difficult for workers to seek any help from those outside the
+company, including the Al Hassan Workers’ Center (supported by WiF-2), which several
+
+
+
+                                                                                                   22
+workers had heard about but whose services they had never used. The embassy of Bangladesh
+was seen as an alternative support entity that was barely used. While not all workers were aware
+that there was an embassy, others noted that the embassy could be accessed when a worker had
+died to arrange for return to Bangladesh, when a worker had fled from the company and other,
+severe workplace incidents.
+        Relatedly, as one worker noted, this culture of fear made it difficult to organize: “But if
+only one person opens their mouth, it won’t have any effect if everyone [else] doesn’t [also]
+open their mouth.” Instead, what happens is that only a few people complain and “they are
+force[d] to quit” because of the “company’s power.”
+        Further contributing to this culture of silence was the understanding that workers were
+replaceable and “disposable” (Wright 2006). The notion of “disposability” has been a longtime
+focus of feminist theorists in studies of factory work around the world; “disposability” refers to
+the ways that workers are discursively and materially disciplined into cheapened labor that is
+easily replaceable. Workers’ disposability was reinforced by the fact that companies, according
+to one respondent, could quickly “replace” workers that misbehaved or worse, were the victims
+of crimes. One woman relayed a particularly disturbing story of two women factory floor
+workers from Bangladesh who had died as a result of a boiler explosion. When other workers
+noticed the absence of these women and pressed the company to respond, the company avoided
+their questions and simply hired new workers. “They hid many dead bodies this way,” she notes;
+the company constantly tried to “convince” workers that nothing was wrong, and that no one was
+missing, by simply hiring newly recruited workers to fill their place.
+
+4.2 Individual Responsibility and Being a “Good Girl”
+Individual “Choice” and Sexual Relations in Jordan
+        Answers to questions about gender-based violence (GBV) in Jordan among factory
+workers were tied up with gendered expectations of Bangladeshi women and how they should
+behave while living in a foreign country. Many workers were ambiguous in their answers to
+whether GBV occurred during their time in Jordan, commonly noting that “it happens.” When
+pressed further, workers laid blame at the individual or micro-level, noting that “naughty girls”
+are just that: naughty by choice. During her recruitment process, one worker remembered:
+
+       “They [the company] asked us to go directly to our rooms after work and insisted that we
+       not go out. They warned that the boys out there were not good. So, whether we stay good
+       or not is up to us. If you are good, then the world is good.”
+
+Another respondent replied that male supervisors had misbehaved in the past, “but it was on the
+girls. Those who gave access, it happened to them only,” implying that only the “bad” or
+“naughty” girls experienced any type of gendered violence or manipulation at work. “It will be
+the girl’s fault if it happens,” noted another respondent. “Good or bad, it is up to you,” another
+worker noted, implying that individual choice seemed, in her opinion, to underlie instances of
+consensual and non-consensual sexual interactions. Other workers seemed to approach the issue
+of sexual relations with neutrality, noting that to “misbehave means that there is both good and
+bad everywhere” and that “there was no force…nobody can force it.” In other words, this
+respondent did not agree that sexual violence occurred, again implying that individual choice
+was at the base of all sexual interactions between women workers from Bangladesh and those
+they met in Jordan. Speaking about women who form long-term relationships with men in
+
+
+
+                                                                                                    23
+Jordan, one interviewee noted that “if someone does not want to be good, I am unable to make
+her good. Am I able to make her good? If she chooses to do this, it is her wish.”
+         Several workers noted that it was the lack of community pressure and norms that gave
+women a false sense of freedom: As one worker noted, “naughty” or “bad” women who have
+experienced GBV or other types of “misbehavior” “think that [because] they have gone abroad,
+they have the freedom to do everything. They do not fear Allah.” Relatedly, one worker noted
+that “If women walk around in hijab, they are more respected.”
+         Many workers stressed that “problems” often arose between Bangladeshi women and
+Jordanian men, with several workers identifying viral news stories of Bangladeshi women
+workers who had disappeared or were abducted while in Jordan. In one of the worst stories, a
+worker reported that, following an affair between a Bangladeshi worker and a Jordanian man, the
+woman was later murdered. One worker reported that prior to arriving in Jordan, she had begun
+to hear rumors about the dangers of Jordanian men from a friend: “She was saying that here [in
+Jordan] the [Jordanian men] pick up the beautiful girls, rape them, and throw them in the
+mountains. I was more and more afraid when I heard this.” One worker reported that she and her
+fellow workers knew that “If you [Jordanian] do something to a [Bangladeshi] girl, the police
+don’t keep any proof,” or evidence of the crime. Several workers reported of improvements;
+incidences of sexual violence happened “a lot before, but no longer now,” as one woman
+reported.
+         While these beliefs were the norm among interviewees, one respondent offered a more
+nuanced approach to the sexual and gendered relations between Bangladeshi women and
+Jordanian men. The Bangladeshi women working abroad experience a freedom they had never
+before experienced: She noted that in Bangladesh, physical and other types of relationships are
+“hidden,” while in Jordan, “it is not the case.” “There,” she notes, “you can have a relationship,
+which means having a habibi.” Here, she uses the Arabic term habibi to signal a love interest or
+relationship. “This is your option, you choose.” She highlighted the temporality of these
+relationships, noting that “you [women] are not recognized as habibi after you come back to your
+country or your family.” For women that chose to take up relations with either Jordanian men or
+even other men working in the factory, they would spend “two or three hours” with their habibi
+after work until curfew, when they were required to return to their dormitories because, as she
+notes, if you were locked out you risked being returned to Bangladesh. In this way, she “lived”
+with her partner: after work, she would “come home,” to her partner’s house or dormitory, cook,
+and later return to her own dormitory.
+         Tellingly, when asked about the “advantages” of having such a relationship in Jordan, the
+respondent pointed to the lack of familial responsibilities as a key driver. “He [habibi] sees you
+as single; he does not see your family.” More importantly, “the family does not see that you are
+walking around with a boy.” These relationships, as she describes them, seem to provide a brief
+respite from the gendered familial responsibilities that define her life in Bangladesh. In her story,
+“freedom” is more than simply running around as a “naughty” or “bad” girl; it is evidence of the
+strict family and gendered expectations set on married women in Bangladesh.
+
+“If you are good, they are good to you”: “Good” and “bad” workers in Jordan
+        Notions of “good” and “bad” were also evident in the ways that respondents described
+the community of workers from Bangladesh in Jordan more generally. Several respondents
+highlighted the “bad” nature of workers in Bangladesh relative to how they treated each other
+within the community. When asked about the different demographics of workers in garment
+
+
+
+                                                                                                  24
+factories in Jordan, respondents noted that workers from Bangladesh, along with Nepali and Sri
+Lankan workers, outnumbered other ethnicities. However, as one respondent noted, “we from
+Bangladesh spoil everything.” She even noted that her own “good” work behavior was evidenced
+by how co-workers from other countries, in particular her supervisors, spoke about her: “Many
+people would tell me that I am not from Bangladesh; I am like Indian girls, like Nepalese…It
+means that Bangladeshi women had established a bad reputation,” she noted. Similarly, one
+worker noted the following:
+
+       “To be honest, Bangladeshis are not good. But foreigners are really good. Bangladeshis
+       were jealous of each other. Is that not true, sister? Bangladeshi girls are not that good of
+       people. But foreigners are nice.”
+
+         Another worker reported that Bangladeshi women not only make more mistakes but
+gossip more about each other: “It does not seem that we’re in a distant land or that we’re all like
+sisters, or something like that,” she reported, implying that competition and disagreements
+between Bangladeshi women workers was often rife. “When girls first go there,” noted another
+worker, “they are very good, very quiet. [But] they change day by day...Garment [work] is bad”
+for these women because of the effects it has on them. Several other workers noted that
+Bangladeshi workers tended to “quarrel” with each other, “did not smile,” and caused other types
+of issues: “Everyone was good,” noted one worker, “better than our Bangladeshi workers.”
+         Notions of “good” and “bad” workers also emerged in discussions about discipline and
+punishment on the factory floor and in the living quarters by company staff. Most workers
+insisted, however, that “if you are good, then good will happen to you” and that only those who
+made “bad choices” were subject to more severe forms of punishment, including being sent back
+to Bangladesh. One respondent described the relationship with her supervisors thusly:
+
+       “For example, if I ask my children to do something, they do not comply. What would
+       happen then? There might be an issue. It happened sometimes [at work], but they
+       [supervisors] used to say sorry to us after some moments. They also asked us whether we
+       were disappointed with him and requested not to continue with that feeling. That was
+       usual and might happen in the workplace.”
+
+When probed for more details about whether “scolding” happened, the respondent noted that:
+
+       “No such thing happened there [Jordan]. As I said, one might get angry if she needs to
+       explain a thing multiple times. Wouldn’t I become angry if I were required to present an
+       item several times to my children? They also got angry, but after half an hour they said
+       sorry to us. It might happen in the workplace.”
+
+Supervisors were frequently described as “good” people who were only there to “help” workers.
+As one respondent noted, supervisors discussed “official issues” with workers; in particular, she
+remembers her Bangladeshi supervisor discussing “how to behave with others, maintain personal
+hygiene and the workload” during one such training on “official issues.” “If you can do the task,”
+one worker noted, “it is good for them [supervisors].” In this way, being a “good” worker was
+seen as important for establishing good relationships with supervisors and co-workers, and for
+ensuring that you were treated well during your time at the factory.
+
+
+
+                                                                                                  25
+4.3 Racialization
+        While the majority of respondents claimed that there were no “issues,” or personal
+problems and quarreling, between workers of different nationalities, racialization emerged in the
+anecdotes of several workers. Here, the term racialization is used to signify processes of
+difference-making, and how communities are established and created as fundamentally different
+from one another (Gilmore 2002, 2007). As a process, racialization is both material and
+discursive, and ultimately affects how people perceive different communities and their treatment
+within the larger system. In workers’ responses, differentiation between communities of workers
+occurred along national lines, and sometimes religious, and was reinforced through workers’
+living and working arrangements, as well as their treatment by supervisors of different
+nationalities.
+        Living arrangements were organized “naturally,” according to nationality:
+overwhelmingly, Bangladeshi workers lived and worked alongside other workers from
+Bangladesh, while Sri Lankan and Indian workers, for example, also lived and worked in similar
+quarters. The organization of living arrangements specifically was both tolerated and understood
+by the respondents, who noted that living with non-Bangladeshi workers was difficult: “They eat
+different foods, they do different things,” noted one worker. One worker even replied that “it was
+not possible to live with the Nepalese…their living style was foreign and challenging for us to
+adjust to.” Relatedly, some workers pinned issues of cleanliness onto certain communities of
+work. For example, one Bangladeshi worker who experienced bed bugs complained that the bugs
+“continued to return even [though] they sprayed pest-control medicine” in her room. She
+reasoned that:
+
+       “Of course, we cleaned. But there were so many people [in the dormitories]; they cooked
+       and kept wet clothes in the room. So, there were always bed bugs. Maybe bed bugs are all
+       over their country…Some girls cooked a lot and were very dirty. Maybe something was
+       wrong with their country. Otherwise, why don’t we have this many bed bugs in
+       Bangladesh?”
+
+        In contrast, some of the respondents felt that other communities “did not like Bangladeshi
+people or Bangladeshi food.” As one worker reported, other workers would “say that they get a
+terrible smell from Bangladeshi people.” “They,” these other workers, “did not want to maintain
+a social relationship with us,” she noted, “they did not like how we bathed [and] they did not
+allow Muslims to sit in front of their gate.” As well, Bangladeshi workers themselves sometimes
+reinforced and maintained boundaries between themselves and other nationals. As one worker
+noted, “among the Bangladeshi workers, some workers were arrogant. They used to not talk with
+others [different nationalities] and say that everybody is not the same.”
+        While workers claimed there was no “discrimination” between workers of different
+nationalities, tensions often emerged between supervisors and workers of different nationalities.
+In many instances, racialization took place through the relationships between workers and
+supervisors of different nationalities, with some workers reporting that supervisors sometimes
+favored workers of their same nationality. As one worker commented on at length:
+
+       “As the manager was Sri Lankan, they [Sri Lankan workers] used to have many
+       advantages. In some cases, they highlighted that Sri Lankan workers are performing
+
+
+
+                                                                                               26
+       better, and Bangladeshi workers are performing poorly. They used to insult Bangladeshi
+       workers more than Sri Lankan workers. They would insult us but be proud of their [Sri
+       Lankan] girls…The supervisor insults me a lot. They say, “Sri Lankan girls are
+       submitting the targets, why are you unable to submit?”
+
+Other workers noted that Bangladeshi workers were more frequently “scolded” than other
+workers. These power dynamics intersected with higher pay, with many respondents identifying
+that Sri Lankans and Indians “had privilege and superiority” over Bangladeshi workers. When
+pressed to elaborate on these privileges, one worker noted that “they used to get a higher salary”
+and that they were treated better by factory owners and other higher-ups. Interestingly, these
+higher salaries did not seem to bother workers when they spoke about the “good work” that
+supervisors and bosses generally did, as discussed in the previous section. Rather, they pointed to
+higher salaries as problematic primarily when associating supervisors and bosses with one
+specific nationality and their specific treatment of Bangladeshi workers in general.
+        Relatedly, racialization occurred between factory floor workers and Jordanian workers,
+who, according to one worker, “used to sit idle and work only in the presence of supervisors.”
+This, she reasoned, was because “they were native, so they were more powerful” than
+Bangladeshi and other migrant workers. Another interviewee noted “As a citizen of Jordan, they
+came to the office at 7 AM and continued till 4 PM. They did not do the fixed 2 hours overtime,
+which was mandatory for the migrant workers.”
+
+
+
+
+                                                                                                27
+                                         5. Conclusions
+
+        Bangladeshi women migrants in the Jordanian garment sector face numerous
+vulnerabilities. These are exacerbated by the strict surveillance that companies and company
+employees reinforce over employees as well as each other. These uneven power dynamics are
+coupled by the regulatory framework that further exploits workers (the kafala system): workers
+face difficulties leaving their employers of their own free will and are beholden to their
+employers for renewed residency and work permits. Further, workplace demands in the form of
+daily production quotas place large amounts of stress on workers, especially those workers who
+have incurred large debts resulting from their migration.
+        Our study finding suggest that these conditions dramatically increase vulnerabilities that
+migrant women workers experience in Jordan’s garment sector. Upon learning their “real”
+salaries upon their arrival to Jordan—which are much lower than the salaries written in their
+contracts—most workers find themselves “incentivized” to work overtime hours and to meet
+these production quotas. Women workers revealed that they felt they did not have a choice
+regarding this overtime; overtime was essential to generate income and was also expected by
+factory management.
+        Alongside these low salaries, many workers were also unable to access their social
+security wages upon leaving the garment sector and were frequently unaware that they were able
+to participate in collective bargaining.
+        We also note the strict company surveillance that encouraged a culture of silence among
+workers. If workers did choose to lodge a complaint these were “dealt with” by a company
+employee; while many workers felt that this was a good arrangement, it is important to mention
+that internal responses to worker complaints might not have the workers’ best interests in mind,
+as their overall goal is to support the company and to ensure its success and productivity.
+        Relatedly, many workers did not feel it was necessary to seek out the support of outside
+advocacy organizations, such as the Al Hassan Workers’ Center supported by the ILO.
+Moreover, only a small handful of interviewees reported knowledge about the center; most
+workers, unfortunately, were unaware that such an organization existed and that it catered to the
+needs of migrant workers.
+        Based on our findings, several important recommendations can be made to strengthen
+migrant workers’ rights in the garment sector in Jordan and equally, to strengthen research on the
+status of migrant workers in the industry in the future.
+
+   1. Create awareness-raising and organizing opportunities for workers before they
+      leave Bangladesh. An important entry point for working with migrant workers in the
+      garment industry in Jordan is before they leave Bangladesh. As almost all of the workers
+      interviewed for this study reported, they received a brief training session from BOESL
+      about what they should expect when they arrive in Jordan, before they left the country.
+      However, workers reported that what they learned in these sessions did not accurately
+      reflect the working arrangements and environments that they would experience once they
+      arrived in Jordan. Ideally, workers should be given training and awareness-raising
+      sessions about important issues, such as union organizing, sexual and workplace
+      harassment, and workers’ rights in Jordan, during these BOESL trainings as well.
+      Reaching workers at this point, prior to their departure, is critical because it will give
+
+
+
+
+                                                                                               28
+   them the knowledge to ask for and demand their rights, as well as the knowledge of
+   advocacy organizations that can support them, while they are in Jordan.
+
+2. Translate contractual documents. Contracts are usually in Arabic or English language,
+   which migrant workers do not read or adequately understand. Having contracts available
+   in languages that migrant workers can read or that a fellow migrant worker can read to
+   them in case of illiteracy can reduce frustrations and misunderstandings between workers
+   and employers, such as on level of salaries.
+
+3. Invest in awareness-raising of supporting actors and actor networks. Broadly,
+   workers articulated a very limited knowledge about organizations, including the Al
+   Hassan Workers’ Center, that advocate for migrant workers in Jordan. And not everyone
+   was aware of support services provided by the embassy of Bangladesh. It is critical that
+   workers know about the existence of such centers: Only one interviewee had knowledge
+   about Al Hassan’s worker training programs and social activities. In the context of the
+   strict company surveillance that workers live with in Jordan, it is also highly concerning
+   that workers felt that they “did not need” the support of an entity such as the Workers’
+   Center, as one interviewee noted. Again, this is not to suggest that workers are unable to
+   articulate their own needs; however, it is important to remember that the culture of
+   silence and a possible fear of retribution for speaking out about violations of workers’
+   rights might be causing workers to turn away from advocacy centers like Al Hassan for
+   fear that they might be targeted or punished for interacting with the organization.
+
+4. Continue to research uneven power dynamics and relations in the garment industry
+   in Jordan. As many interviewees noted, discrimination does not only happen between
+   workers and company employees of different nationalities or gender, but also within
+   communities. However, the continued focus on inter-community or male versus female
+   discrimination in research conducted by both local and international organizations reifies
+   certain social boundaries that are not helpful in explaining how such discrimination
+   works on the ground. In other words, it is important to use a feminist approach to racial
+   and gender discrimination that foregrounds and analyzes how social differences such as
+   race and gender are exploited by certain individuals or groups to gain power. Within the
+   context of the garment sector in Jordan, the strict company surveillance and the high-
+   pressure work environment puts both migrant workers and their supervisors in highly
+   exploitative positions, as one worker noted: “they [supervisors] are the same as us. They
+   can’t change anything.” Thus, to effectively challenge discrimination, researchers must
+   focus on properly documenting and analyzing how discrimination works in this context.
+
+
+
+
+                                                                                           29
+References
+
+Afrin, N. 2019. 'I Wish I Would Never Have to Wake up Again’: Material Conditions and
+Psychological Well-Being of Bangladeshi Women Garment Workers in Jordan”. The Global
+Alliance Against Traffic in Women (GAATW).
+
+Alvi, M.F., P. Barooah, S. Gupta, R.S. Meinzen-Dick, and C. Ringler. 2022. Hello, can you hear
+me? Impact of speakerphones on phone survey responses. IFPRI Discussion Paper 2123.
+Washington, DC: International Food Policy Research Institute.
+https://doi.org/10.2499/p15738coll2.135926
+
+American Center for International Labor Solidarity. 2005. Justice for All: The Struggle for
+Worker Rights in Jordan. Washington DC: Solidarity Center.
+https://www.solidaritycenter.org/wp-content/uploads/2014/12/Jordan-JFA.pdf.
+
+Asis, M.M. and D.R. Agunias. 2012. Strengthening pre-departure orientation programmes in
+Indonesia, Nepal and the Philippines.
+
+Burgess-Proctor, A. 2015. Methodological and Ethical Issues in Feminist Research with Abused
+Women: Reflections on Participants’ Vulnerability and Empowerment. Women’s Studies
+International Forum 48: 124–134. https://doi.org/ 10.1016/j.wsif.2014.10.014
+
+BWJ (Better Work Jordan). 2023. “About Us.” https://betterwork.org/about-us/the-programme/.
+
+BWJ (Better Work Jordan). 2022. Annual Report 2022: An Industry and Compliance Review.
+
+CRS (Congressional Research Service). 2013. “Qualifying Industrial Zones (QIZs) in Jordan and
+Egypt: Background and Issues for Congress,” August 23.
+
+Ellsberg, M., and L. Heise. 2005. Researching violence against women: A practical guide for
+researchers and activists. Washington, DC: World Health Organization, PATH.
+
+Frantz, E. 2014. Breaking the Isolation: Access to Information and Media among Migrant
+Domestic Workers in Jordan and Lebanon. New York: Open Society Foundations.
+
+Friedrich-Ebert-Stiftung. 2013. The Future of Jordan’s Qualified Industrial Zones: (QIZs).
+Amman: Friedrich-Ebert-Stiftung.
+
+Gilmore, R.W. 2002. Fatal Couplings of Power and Difference: Notes on Racism and
+Geography,” The Professional Geographer 54, no. 1 (2002): 15–24;
+
+Gilmore, R.W. 2007. Golden Gulag: Prisons, Surplus, Crisis, and Opposition in Globalizing
+California, American Crossroads 21. Berkeley: University of California Press.
+
+Gupta, S. and S. Saini. 2020. Not just a call away: Issues faced during phone surveys of women
+in India and Nepal. Washington, DC: International Food Policy Research Institute.
+http://view.ceros.com/ifpri/a-phone-call-away-web/p/1
+
+                                                                                              30
+ILO (International Labor Organization). 2022. Industrial relations in the ready-made garment
+sector in Jordan, Geneva and Beirut: ILO. https://www.ilo.org/wcmsp5/groups/public/---
+ed_norm/---ipec/documents/publication/wcms_858644.pdf.
+
+ILO. 2018. Recruitment Experiences of South Asian Migrant Workers in Jordan’s Garment
+Industry. Fundamental Principles and Rights at Work (FUNDAMENTALS). Geneva: ILO.
+https://www.ilo.org/wcmsp5/groups/public/---ed_norm/---
+ipec/documents/publication/wcms_638703.pdf.
+
+ILO. 2017. Migrant Domestic and Garment Workers in Jordan. Geneva: ILO.
+
+International Trade Administration. 2023. “Qualifying Industrial Zones – Jordan.” trade.gov/qiz-
+jordan
+
+Kolben, K. 2019. The Jordanian Garment Industry and Better Work. Discussion Paper
+(International Labour Organization (ILO). Accessed at: https://betterwork.org/wp-
+content/uploads/2020/01/DP34.pdf
+
+Mezzadri, A. 2016. Class, Gender and the Sweatshop: On the Nexus between Labour
+Commodification and Exploitation. Third World Quarterly 37(10): 1877–1900,
+https://doi.org/10.1080/01436597.2016.1180239
+
+NPR (National Public Radio). 2005. “Jordan Accused of Harboring Sweatshop Factories,”
+National Public Radio, June 26, 2006, https://www.npr.org/2006/06/26/5510902/jordan-accused-
+of-harboring-sweatshop-factories.
+
+Ong, A. 1987. Spirits of Resistance and Capitalist Discipline: Factory Women in Malaysia.
+State University of New York Press.
+
+Rashid, S. R., and S. K. Watson. 2017. Assessment of BOESL Recruitment Practices from
+Bangladesh to Jordan. Dhaka: ILO.
+
+Regmi, P. R., N. Aryal, E. van Teijlingen, et al. 2020. “Nepali Migrant Workers and the Need for
+Pre-Departure Training on Mental Health: A Qualitative Study.” Journal of Immigrant and
+Minority Health 22: 973–981. doi:https://doi.org/10.1007/s10903-019-
+
+Sanders, B., Sim, J., et al. 2018. Saturation in Qualitative Research: Exploring its
+Conceptualization and Operationalization. Quality & Quantity 52: 1893–1907.
+https://doi.org/10.1007/s11135-017-0574-8
+
+Toppa, S. 2017. “Photo Essay: Migrant Workers in Jordan’s Garment Industry,” Carnegie
+Middle East Center, January 5, 2017, https://carnegie-mec.org/sada/66598.
+
+Wright, M.W. 2007. Disposable Women and Other Myths of Global Capitalism. New York:
+Routledge.
+
+
+
+                                                                                               31
+Annex A
+Questionnaire
+
+1. What were your reasons for emigrating to Jordan to work?
+   • Probe on decision-making process – individual versus family decision.
+   • Probe on financial reasons to send money back to parents/children or to build a house.
+
+2. Describe to me how you were recruited to work in Jordan.
+      a. Where did you work in Jordan (which factory)?
+      b. For how long (how many years/months)?
+      c. When did you travel to Jordan and return to your country?
+      d. What were your work responsibilities?
+   • Probe the mode of recruitment through government offices versus informal recruiters.
+   • Probe whether participants paid recruitment fees in their country of origin.
+   • Is any loan taken to go to Jordan? From whom – NGOs/Relatives/other sources?
+
+3. What were your experiences after you arrived in Jordan and started working? Describe what
+   happened before and after you began working.
+   • Probe whether expectations matched reality.
+   • Probe whether she was promised things related to wages or work conditions that did not
+      materialize.
+
+4. Tell me about your work conditions.
+       a. Describe a typical day at work.
+       b. What about on your days off? What did you do during your time/day off from work?
+   • Probe housing conditions and salary deductions for housing.
+   • Probe wages, number of hours of work per day, and work tasks in detail.
+
+5. Tell me about your housing conditions.
+       a. Living arrangements
+       b. Food
+       c. Health services
+
+6. Now, let’s talk about your relationship with your work supervisors when you worked in
+   Jordan. Describe to me who the supervisors were (nationality, gender), their responsibilities
+   and work hours, character, and supervision style.
+
+7. How about relationships between workers?
+     a. Let’s first talk about social relations. In what ways do you and other workers interact
+         with each other during and after work hours?
+     b. Where did you use to socialize (probe on meeting or attending activities at the Al
+         Hassan Workers Center)?
+   • Probe on social interactions like parties and cooking.
+   • Probe social interactions between workers from different national backgrounds.
+
+
+
+
+                                                                                               32
+8. How has Covid-19 affected your migration experience?
+   • Probe on whether COVID-19 reduced the participant’s and other workers’ ability to
+     communicate with each other.
+   • Probe on whether employers did not pay workers during lockdowns and work
+     interruptions.
+   • Probe on whether participant and workers in general experienced more abuse and
+     exploitation during/because of COVID-19.
+
+9. When you were in Jordan, did workers organize amongst themselves on work-related issues
+   or rights? Describe to me a situation when workers organized to improve their housing, work
+   conditions and rights, or wages, whether you were involved in these efforts or not.
+   • Probe on whether workers were members of a workers’ union.
+   • Probe on whether organizing took place across national backgrounds.
+
+10. Describe to me a situation when you were (or someone you know was) subjected to unfair
+    treatment or punished for asking for improved work conditions or other rights. Where did
+    workers go in these situations? What did they expect to see happen?
+    • Probe on the involvement of the workers’ centers in protecting workers’ rights.
+    • Probe on whether workers were connected to these centers and sought them out for
+        support when needed.
+
+11. Are you familiar with the Work-in-Freedom Program that the ILO is implementing in South
+    Asian countries as well as in Jordan?
+    • Probe on activities in countries of origin that participants were involved in and what
+       difference Work in Freedom made in terms of agency over the migration process
+
+12. What do you think programs such as the Work-in-Freedom should do to help migrant
+    garment workers in Jordan and improve their living and working conditions?
+
+13. When was your last return (Since 2019)?
+      a. From where?
+      b. How / Who helped?
+      c. Why did you come back?
+      d. Who took the decision to come back?
+    • Probe: COVID impact on return
+
+14. Differences between Bangladesh and Jordan RMG Sector?
+        a. Working environments
+        b. Payments
+        c. Working hours
+        d. Skill set that you learned from Jordan
+
+15. Tell me a little about where you live now (in Bangladesh) and what you do?
+    • Probe on family life and work (whether the participant works or not and where).
+
+
+
+
+                                                                                               33
+16. What are experiences after returning to Bangladesh? How are they treating you?
+      a. From family
+      b. From community
+      c. From industry (if joined to RMG sector again)
+
+17. Do you want to go again to Jordan as an immigrant worker? If yes/no, why?
+
+18. What needs to be changed to go there again?
+      a. Recruitment process? (In Bangladesh/Jordan)
+      b. Initial money to go there?
+      c. Housing, Salary deduction etc.
+      d. Reduce exploitation/violence (Physical, Mental, sexual, …Etc.)?
+
+
+
+
+                                                                                     34
+Annex B
+Codes
+
+After-work Activities
+Age
+Al-Hassan Worker's Center
+Arab Workers
+Camp Boss - Demographics
+Camp Boss - What They Do
+Camp Boss or Supervisor - Behavior
+Care Dynamics at Home (in worker's absences)
+Coming Home - Marital Status
+Community Dynamics in Jordan
+Contract Marriage (in Jordan)
+Contractual Agreements
+COVID-19 - Salary
+COVID-19 - Worker Treatment
+Crimes - Committed Against Workers
+Demographics - Work History
+Demographics - Work History in Bangladesh
+Duration of Stay in Jordan
+Education
+Emotional Response - Upon Arrival
+Emotions in Jordan
+Factory Discipline
+Factory Location
+Factory Name(s)
+Factory Owner Demographics + Info
+Family Members
+Family, Community Reactions to Migration
+Feelings about Jordan
+GBV - Complaint Mechanisms
+
+
+
+                                               35
+GBV - Harassment
+GBV - Why Does it Happen
+Gender Issues - Relationships
+Gender Issues - Women Migrants
+Home Village + District
+House Leader - Demographics
+House Leader - Roles
+Household Dynamics
+Household Income - Primary Earner
+Individual Responsibility
+Inter-worker Relations
+Job Post
+Leaving Jordan - Emotions
+Leaving Jordan - Reasons
+Leaving or Running Away from Company
+Living Arrangements
+Living Arrangements - Company Treatment
+Living Arrangements - Food + Cooking
+Living Arrangements - Living Costs
+Manager - Demographics
+Marital Status
+Meals
+Migration Networks
+Overtime
+Post-Migration Process - Visa Renewal
+Pre-migration - Making the Decision to Migrate
+Pre-Migration Process
+Pre-Migration Process - Duration of Process
+Pre-migration process, debt + loans
+Pre-migration process, recruitment fees
+Promotions
+
+
+
+                                                 36
+Public Perception of Immigrants - Bangladesh
+Racial Dynamics
+Reason for Migrating - Financial
+Reasons for Migrating - Domestic Issues
+Reasons for Migrating - Family Pressures
+Reasons for Migrating - Info from Other People
+Reasons for Migrating - Personal
+Reasons for Migrating - Savings + Income
+Recruitment Preferences
+Religion
+Remittances
+Remittances - How did they use it
+Returning Home - Complications
+Returning Home - Economic Standing
+Returning Home - Family Needs + Demands
+Returning Home - Feelings about
+Returning Home - Work Status
+Returning to Jordan for Work - Reasons
+Salary
+Salary - Social Security
+Sick Leave
+Supervisor - Behavior
+Supervisor - Demographics
+Supervisor - What they do
+Travel to Jordan
+Work in Other Countries
+Work Responsibilities
+Work Schedule - Daily
+Work Targets
+Work Welfare - Auditing
+Worker Bonuses + Time Off
+
+
+
+                                                 37
+Worker Communications - Languages
+Worker Demographics
+Worker Organizing
+Worker Relations - Issues Between Workers
+Worker Support - Complaint Mechanisms
+Worker Treatment - At Work
+Worker Treatment - in Bangladesh
+Worker Treatment - Problems at Work (Work Pressures)
+Worker Treatment - Transparency
+
+
+
+
+                                                       38
+                           ALL IFPRI DISCUSSION PAPERS
+
+
+                           All discussion papers are available here
+
+                           They can be downloaded free of charge
+
+
+
+
+INTERNATIONAL FOOD POLICY RESEARCH INSTITUTE
+www.ifpri.org
+
+IFPRI HEADQUARTERS
+1201 Eye Street, NW
+Washington, DC 20005 USA
+Tel.: +1-202-862-5600
+Fax: +1-202-862-5606
+Email: ifpri@cgiar.org
+

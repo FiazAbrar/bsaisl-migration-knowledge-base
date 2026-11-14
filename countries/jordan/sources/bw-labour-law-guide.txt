@@ -1,0 +1,1690 @@
+Jordan
+
+                 1
+2
+Copyright © International Labour Organization (ILO) and International Finance Corporation (IFC) 2013
+First published 2013
+
+Publications of the ILO enjoy copyright under Protocol 2 of the Universal Copyright Convention. Nevertheless, short excerpts
+from them may be reproduced without authorization, on condition that the source is indicated. For rights of reproduction
+or translation, application should be made to the ILO, acting on behalf of both organizations: ILO Publications (Rights and
+Permissions), International Labour Office, CH-1211 Geneva 22, Switzerland, or by email: pubdroit@ilo.org. The IFC and ILO
+welcome such applications.
+Libraries, institutions and other users registered with reproduction rights organizations may make copies in accordance with
+the licences issued to them for this purpose. Visit www.ifrro.org to find the reproduction rights organization in your country.
+
+Better Work Jordan: Guide to Jordanian labour law for the garment industry / International Labour Office; International Finance
+Corporation. - Geneva: ILO, 2013
+
+(print) ISSN 2227-9539
+(online) ISSN 2227-9547
+
+International Labour Office; International Finance Corporation
+clothing industry / textile industry / working conditions / workers rights / labour legislation / ILO Convention / international
+labour standards / comment / application / Jordan
+
+          ILO Cataloguing in Publication Data
+
+The designations employed in this, which are in conformity with United Nations practice, and the presentation of material
+therein do not imply the expression of any opinion whatsoever on the part of the IFC or ILO concerning the legal status of any
+country, area or territory or of its authorities, or concerning the delimitation of its frontiers.
+
+The responsibility for opinions expressed in signed articles, studies and other contributions rests solely with their authors, and
+publication does not constitute an endorsement by the IFC or ILO of the opinions expressed in them.
+
+Reference to names of firms and commercial products and processes does not imply their endorsement by the IFC or ILO, and
+any failure to mention a particular firm, commercial product or process is not a sign of disapproval.
+
+ILO publications can be obtained through major booksellers or ILO local offices in many countries, or direct from ILO Publications,
+International Labour Office, CH-1211 Geneva 22, Switzerland. Catalogues or lists of new publications are available free of charge
+from the above address, or by email: pubvente@ilo.org
+
+Visit our website: www.ilo.org/publns
+ FUNDING
+ Better Work Jordan is a partnership between the International Labour Organization (ILO) and the International Finance
+ Corporation (IFC). The Jordan program is funded by the United States Agency for International Development (USAID)
+ and the Hashemite Kingdom of Jordan's Ministry of Labour.
+ ACKNOWLEDGEMENTS
+ Better Work Jordan would like to express thanks to the Ministry of Labour, in particular His Excellency Professor Nidal
+ Katamine, Minister of Labour and Minister of Transport; Mr. Hamadeh Abu Nijmeh, Secretary General; Mr. Adnan
+ Rababa, Head of Inspection Directorate and Labour Affairs; Mr. Ibrahim Saudi, Head of the Legal Department; and Mr.
+ Fayez Al Jbour, also from the Legal Department.
+ Edited by
+ Phillip Fishman, Program Manager, Better Work Jordan
+ Tareq Abu Qaoud, Technical Officer, Assistant Program Manager, Better Work Jordan
+ Anne Ziebarth, Technical Officer, Better Work Global
+ Emily Hylton, Independent Consultant
+ Design & Layout
+ Dabrix.com
+
+Better Work Jordan
+P.O. Box 831201, Amman 11183 Jordan
+Tel: (+962) 6 592 5778, Fax: (+962) 6 592 5779
+Email: jordan@betterwork.org, Website: www.betterwork.org/jordan
+
+    4
+5
+PREFACE
+
+Better Work Jordan is a partnership program between the International Labour
+Organisation (ILO) and International Finance Corporation (IFC). The program began
+conducting assessment and advisory services in 2008. The purpose of this program
+is to promote competitiveness in Jordan's garment industry by enhancing economic
+performance at the enterprise level and improving compliance with Jordanian labour
+law and international conventions on Fundamental Principles and Rights at Work. The
+program has a Project Advisory Committee (PAC) including representatives from the
+government of Jordan as well as labour and employer organizations.
+The Better Work program builds a mechanism for social dialogue and effective
+workplace cooperation as a basis for sustainable development. To achieve this,
+employers and employees must have full knowledge of their rights and responsibilities
+regulated by law. Therefore, the dissemination of information pertaining to labour
+legislation to relevant stakeholders is indispensable.
+This guide was prepared by Better Work Jordan with the aim to provide basic
+information regarding Jordanian labour law in an easily-understandable way for
+different readers. We hope this publication will be an effective contribution for building
+social compliance, harmonious labour relations, friendly working environments, and
+offer benefits to enterprises as well as to society.
+April 2013
+Minister of Labour and Minister of Transport
+
+His Excellency Professor Nidal Katamine
+
+  6
+FOREWORD
+
+Better Work Jordan has produced this guide with the aim of helping employers, workers,
+international buyers, and other stakeholders better understand the obligations and
+rights stipulated under Jordanian labour law. The guide integrates the major sources
+of Jordanian labour law into one easy-to-use booklet.
+For each subject area the key elements of the law are explained - not in technical legal
+language, but in plain language that is more easily understood. The sources of the law
+that are relevant to each area are listed so that actual legal texts can be referred to if
+desired.
+The guide covers the most important legal aspects of the Jordanian labour law as
+amended up through 2010, in addition to regulations, instructions, and decisions
+relating to the textile sector. The guide also touches on the statutes related to Social
+Security, Income, and Sales Tax and the instructions required by the Public Health Act
+No. 47 of 2008, which is applicable to all workers working in the textile sector in Jordan.
+This guide reflects the standards set by national law. However, for the fundamental
+rights at work (freedom of association and collective bargaining, the elimination
+of forced labour, the abolition of child labour, and the elimination of employment
+discrimination), Better Work Jordan assesses compliance in accordance with the ILO's
+core labour standards. Accordingly, Better Work Jordan's assessment standards for
+fundamental rights vary from the guide in areas where national law differs from
+international standards.
+Better Work Jordan is pleased to have worked in cooperation with the Jordanian
+government in producing this publication. We see it as an important contribution to
+maintaining labour standards and increasing good employment opportunities in the
+country.
+
+Phillip Fishman
+Program Manager
+Better Work Jordan
+
+                                                                                                                                                          7
+Table of Contents
+
+1 MINIMUM WORKING AGE                                                                10
+
+1.1 CHILD LABOUR1.1.1 LEGAL AGE FOR WORK                                             10
+
+1.1.2 PROTECTION OF YOUNG WORKERS                                                    10
+
+1.1.3 DOCUMENTATION Of YOUNG WORKERS                                                 11
+
+2 TRADE UNIONS                                                                       12
+
+2.1 FREEDOM TO FORM AND JOIN A TRADE UNION                                           12
+
+2.2 TRADE UNION OPERATIONS AND FACILITIES                                            13
+
+2.3 PROHIBITION AGAINST INTERFERENCE IN TRADE UNION OR EMPLOYER ASSOCIATION AFFAIRS  13
+
+2.4 PROHIBITION AGAINST ANTI-UNION DISCRIMINATION                                    13
+
+3 COLLECTIVE LABOUR CONTRACTS                                                        14
+
+3.1 DEFINITION                                                                       14
+
+3.2 CONTENT, REGISTRATION AND PUBLICATION                                            14
+
+3.3 APPLICABILITY OF COLLECTIVE EMPLOYMENT CONTRACTS                                 14
+
+3.4 DURATION, MODIFICATION AND TERMINATION OF COLLECTIVE EMPLOYMENT CONTRACTS        15
+
+4 LABOUR DISPUTES                                                                    16
+
+4.1 INDIVIDUAL LABOUR DISPUTES                                                       16
+
+4.2 COLLECTIVE LABOUR DISPUTES                                                       16
+
+4.2.1 CONCILIATION BY THE MINISTRY OF LABOUR                                         16
+
+4.2.2 RESOLUTION BY THE LABOUR COURT                                                 16
+
+4.3 STRIKES AND LOCKOUTS                                                             17
+
+4.3.1 STRIKES                                                                        17
+
+4.3.2 LOCKOUTS                                                                       17
+
+5 DISCRIMINATION                                                                     18
+
+5.1 EMPLOYMENT OF WORKERS WITH DISABILITIES                                          18
+
+6 FORCED LABOUR                                                                      19
+
+6.1 COERCIVE WORK                                                                    19
+
+7 CONTRACTS AND HUMAN RESOURCES                                                      20
+
+7.1 RECRUITMENT                                                                      20
+
+7.1.1 PRIORITY FOR JORDANIAN WORKFORCE                                               20
+
+7.1.2 EMPLOYMENT OF NON-JORDANIAN WORKERS                                            20
+
+7.1.3 CONDITIONS AND PROCEDURES FOR EMPLOYING NON-JORDANIAN WORKERS                  20
+
+7.1.4 WORK PERMIT FEES                                                               21
+
+7.2 EMPLOYMENT CONTRACTS                                                             21
+
+7.2.1 COLLECTIVE EMPLOYMENT CONTRACTS                                                21
+
+7.2.2 LIMITED PERIOD AND UNLIMITED PERIOD EMPLOYMENT CONTRACTS                       22
+
+7.2.3 PROBATION                                                                      22
+
+7.2.4 TRAINING WORKERS                                                               22
+
+7.2.4.1 ORGANIZATION OF THE TRAINING CONTRACT                                        22
+
+7.2.4.2 TRAINING CONTRACT TERMS                                                      22
+
+7.2.4.3 TERMINATION OF THE TRAINING CONTRACT                                         23
+
+7.2.5 WORK THAT IS LIMITED IN DURATION                                               23
+
+7.2.5.1 CASUAL WORK                                                                  23
+
+7.2.5.2 TEMPORARY WORK                                                               23
+
+7.3 BYLAWS                                                                           23
+
+7.4 DISCIPLINARY PROCEEDURES                                                         24
+
+7.5 TERMINATION OF THE EMPLOYMENT CONTRACT                                           24
+
+7.5.1 ARBITRARY AND ILLEGAL TERMINATION                                              24
+
+7.5.2 NOTICE OF TERMINATION                                                          25
+
+8
+7.5.3 SUSPENSIONS OR LAYOFFS DUE TO ECONOMIC OR TECHNICAL CONDITIONS  26
+
+7.5.4 TERMINATION PAYMENTS                                            26
+
+8 WAGES AND BENEFITS                                                  27
+
+8.1 MINIMUM WAGE                                                      27
+
+8.2 OTHER ALLOWANCES                                                  28
+
+8.3 DEDUCTIONS FROM THE WORKER'S WAGE                                 28
+
+8.4 DISCIPLINARY FINES                                                28
+
+8.5 DEDUCTIONS FROM WAGES                                             29
+
+8.5.1 INCOME TAX                                                      29
+
+8.6 OVERTIME WAGES                                                    29
+
+8.7 PAID LEAVE                                                        29
+
+8.7.1 PAID HOLIDAYS                                                   29
+
+8.7.2 PAID ANNUAL LEAVE                                               30
+
+8.7.3 SPECIAL LEAVE                                                   30
+
+8.7.4 SICK LEAVE                                                      30
+
+8.7.5 MATERNITY LEAVE                                                 31
+
+8.7.6 BREASTFEEDING BREAKS                                            31
+
+8.8 SOCIAL SECURITY                                                   31
+
+9 OCCUPATIONAL SAFETY AND HEALTH (OSH)                                32
+
+9.1 GENERAL PROVISIONS                                                32
+
+9.1.1 SAFETY AND HEALTH SUPERVISORS COMMITTEES                        32
+
+9.2 WORK-RELATED INJURIES                                             33
+
+9.2.1 EMPLOYER'S DUTIES AFTER AN ACCIDENT                             33
+
+9.2.2 INDEMNITY FOR WORK-RELATED INJURIES                             33
+
+9.2.2.1 IN THE EVENT OF DEATH OR TOTAL DISABILITY                     33
+
+9.2.2.2 IN THE EVENT OF TEMPORARY DISABILITY                          33
+
+9.2.2.3 IN THE EVENT OF PERMANENT PARTIAL DISABILITY                  34
+
+9.2.2.4 IN THE EVENT OF MORE THAN ONE INJURY                          34
+
+9.3 HEALTH SERVICES AND FIRST AID                                     34
+
+9.3.1 MEDICAL UNITS AND STAFF                                         34
+
+9.3.2. MEDICAL EXAMINATION                                            34
+
+9.3.3 FIRST AID                                                       34
+
+9.4 WELFARE FACILITIES                                                35
+
+9.4.1 EMPLOYER-PROVIDED CHILD CARE                                    35
+
+9.5 NOISE                                                             35
+
+9.6 LIGHTING                                                          36
+
+9.7 HEAVY LIFTING                                                     36
+
+9.8 PROTECTION FOR PREGNANT AND BREASTFEEDING WOMEN                   36
+
+9.9 PERSONAL PROTECTIVE EQUIIPMENT (PPE)                              37
+
+9.10 ELECTRICAL SAFETY                                                37
+
+9.11 MACHINE SAFETY                                                   37
+
+9.12 CHEMICALS AND HAZARDOUS SUBSTANCES                               38
+
+9.13 EMPLOYER-PROVIDED ACCOMMODATION                                  39
+
+10 WORKING HOURS AND REST TIMES                                       40
+
+10.1 REGULAR WORKING HOURS10.2 WEEKLY REST DAYS                       40
+
+10.2 WEEKLY REST DAYS                                                 40
+
+10.3 OVERTIME                                                         40
+
+10.3.1 VOLUNTARY AND MANDATORY OVERTIME                               40
+
+10.4 LIMITS ON WORKING HOURS FOR WOMEN                                40
+
+11 ADDITIONAL INSTRUCTIONS RELATED TO THE GARMENT INDUSTRY            41
+
+11.1 THE GOLDEN LIST                                                  41
+
+11.2 BETTER WORK PROGRAMME (JORDAN)                                   41
+
+                                                                      9
+    MINIMUM WORKING AGE
+
+1.1 CHILD LABOUR                                                                            MINIMUM AGE CONVENTION
+                                                                                            NO. 138 OF 1973 (C138)
+Jordan has ratified the two core ILO conventions addressing child labour: the Minimum
+Age Convention No. 138 of 1973 (C138) and the Worst Forms of Child Labour Convention        WORST FORMS OF CHILD
+No. 182 of 1999 (C182).                                                                     LABOUR CONVENTION NO.
+                                                                                            182 OF 1999 (C182)
+
+1.1.1 LEGAL AGE FOR WORK                                                                    LABOUR LAW ART 73
+The minimum age for work in Jordan is 16 years.
+
+1.1.2 PROTECTION OF YOUNG WORKERS
+
+Minors (workers under age 18) may not work for more than six hours per day, and they        LABOUR LAW ARTS 74-75
+must have a one hour break after every four hours of work. Minors may not work between
+8:00 pm and 6:00 am or during religious holidays, official holidays, and weekends.          SPECIAL DECISION IN
+                                                                                            RESPECT OF HAZARDOUS,
+To ensure the protection of young workers' health, safety, and morals, minors are           HARD OR HEALTH DAMAGING
+prohibited from a number of activities, including some that may arise in a garment          WORKS FOR MINORS, 2011
+factory setting:
+
+· work with inflammable materials
+· activities that cannot be carried out without wearing personal protection equipment
+
+     to prevent direct hazard
+· security guard activities
+· activities that require dealing with exposed machinery parts that are not protected
+
+     with special guards
+· activities that require handling conveyor belts, cranes, and machinery with rotary,
+
+     sharp, moving, cutting, or cogged parts
+· activities that require the operation of self-moving machines
+· activities that require exposure to traffic hazards or that require driving any piece of
+
+     equipment, or products carrier
+· operation of cranes at factories
+· work in confined places
+· activities that require severe physical effort such as loading and unloading
+· activities that would result in exposure to electrical hazards such as dealing with
+
+     electric power generators
+· activities that require exposure to dust, fiber, fumes, and smoke
+· activities that require exposure to organic dust such as cotton, linen, and textile
+
+     industry
+· activities that require exposure to noise exceeding 85 dB
+· activities that require exposure to vibrations and shaking, and
+· activities that require exposure to extreme temperature or direct sun rays.
+
+10
+1.1.3 DOCUMENTATION Of YOUNG WORKERS
+
+When employing a worker between 16 and 18 years of age, the following documents        LABOUR LAW ART 76
+are required:
+                                                                                       DECISION ON RECORDS
+· a certified copy of the minor's birth certificate                                    EMPLOYERS MUST KEEP OF
+· a certificate of health fitness to perform the required work, issued by a competent  16 OCT 2002 ART 2
+
+     physician and certified by the Ministry of Health, and
+· written consent of the minor's guardian.
+
+These documents must be kept in the worker's employment file together with
+information on the worker's home address, date of employment, the work to be
+performed, wages, and leave.
+
+                                                                                                               11
+    TRADE UNIONS
+
+Trade unions are formed to:                                                                LABOUR LAW ARTS 98-100
+
+· protect the interests of workers and defend their rights at work
+· improve labour relations and conditions and terms of employment, including by
+
+     engaging in collective bargaining and concluding collective agreements
+· contribute to avoiding and resolving collective and individual disputes
+· serve as a representative for workers in labour, economic and social affairs
+
+     institutions
+· raise economic, social, occupational and cultural awareness among workers and
+
+     enhance their participation in decision-making, and
+· provide health and social services, as well as other necessary facilities to members.
+
+Trade unions and employer associations may not be established to carry out activities
+that are based on race, religion or sectarianism.
+
+All trade unions in Jordan fall under the General Confederation of Jordanian Trade
+Unions.
+
+2.1 FREEDOM TO FORM AND JOIN A TRADE UNION
+
+Workers in every profession are entitled to establish a trade union for their profession,  LABOUR LAW ARTS 97, 98
+and to join the union if they satisfy the membership requirements. The employer may
+not prevent workers from joining a union.                                                  1999 DECISION CLASSIFYING
+                                                                                           PROFESSIONS AND
+Workers in the textile, garment, and clothing industries are authorized to establish one   INDUSTRIES WHOSE
+sectoral level trade union to represent them.                                              WORKERS ARE ENTITLED TO
+                                                                                           ESTABLISH ASSOCIATIONS
+Under Jordanian law, fifty founding members working in the same or similar occupations
+are required to form a trade union. Founding members must:
+
+· be Jordanian
+· be at least 21 years of age, and
+· not have been convicted of a misdemeanour involving moral turpitude or dishonest
+
+     conduct, or have been convicted of a criminal offence.
+
+Members must be at least 18 years of age.
+
+12
+2.2 TRADE UNION OPERATIONS AND FACILITIES
+
+The Tripartite Committee of Labour Affairs is responsible for establishing conditions       LABOUR LAW ARTS 107 - 108
+and criteria to enable trade union representatives to carry out their functions, including
+conditions for reduced working hours to allow for part time or full time trade union
+work, as well as material facilities.
+
+2.3 PROHIBITION AGAINST INTERFERENCE IN TRADE UNION OR EMPLOYER ASSOCIATION AFFAIRS
+
+Trade unions and employer associations are prohibited from interfering directly or          LABOUR LAW ART 97
+indirectly in each other's affairs, including interference in the other's organization,
+management and operations.
+
+2.4 PROHIBITION AGAINST ANTI-UNION DISCRIMINATION
+
+The employer may not condition employment on a worker's joining, not joining, or            LABOUR LAW ARTS 97, 108
+withdrawing from a union. The employer may not ask a worker to disengage from
+a union and may not prejudice a worker's rights based on union membership or
+participation in union activities outside working hours.
+
+Employers also are prohibited from taking action against trade union representatives
+on account of their union activities. If an employer is found to have taken such action,
+the labour inspector will issue a warning to eliminate the violation within seven days. If
+the violation persists, the worker can seek damages in court. In the event of wrongful
+dismissal, the court may order that the worker be reinstated with back payment of
+wages during period that work was interrupted. If the worker cannot be reinstated for
+reasons relating to the employer, the worker is entitled to compensation amounting to
+between 6-12 months' wages, in addition to compensation for unfair dismissal and any
+other entitlements.
+
+                                                                                                                     13
+    COLLECTIVE LABOUR CONTRACTS
+
+3.1 DEFINITION
+
+Collective employment contracts outline the terms and conditions of work between a           LABOUR LAW ARTS 2, 39-44
+group of workers or a trade union with the employer or employers' association.
+
+3.2 CONTENT, REGISTRATION AND PUBLICATION
+
+A copy of a collective employment contract must be filed with the Ministry of Labour for     LABOUR LAW ARTS 39, 42 (A)
+recording in a special register. In addition, collective contracts must be published in the
+Official Gazette and posted on a special notice board at the workplace.
+
+Collective employment contracts must:
+
+· identify the parties subject to the contract
+· state the matters agreed to, including terms and conditions of work and the
+
+     organization of labour relations
+· indicate the contract's effective dates
+· describe the procedures for amending the contract, and
+· include a guarantee that the contract's implementation will be monitored by a
+
+     committee that has the power to settle disputes. The committee is made up of
+     representatives of the parties to the contract, with an equal number of employer
+     and worker representatives serving as members.
+
+3.3 APPLICABILITY OF COLLECTIVE EMPLOYMENT CONTRACTS
+
+Collective employment contracts are binding on:                                              LABOUR LAW ART 42(B)
+
+· employers who are covered under the terms of the collective contract, as well as
+     their legal successors, heirs, and those to whom the enterprise has been transferred
+
+· workers who are covered under the terms of the collective contract
+· workers at an enterprise that is subject to a collective employment contract,
+
+     including workers who are not trade union members, and
+· workers at an enterprise that is subject to a collective employment contract, and
+
+     who are employed under individual employment contracts that are less favourable
+     to them than the collective employment contract.
+
+Provisions in individual employment contracts that are less favourable to workers than
+those in an applicable collective employment contract are considered invalid.
+
+14
+3.4 DURATION, MODIFICATION AND TERMINATION OF COLLECTIVE EMPLOYMENT CONTRACTS
+
+Collective employment contracts can be limited or unlimited in duration. If the duration    LABOUR LAW ARTS 40, 41
+is specified, the term must not exceed two years.
+
+Starting two years after an indefinite term collective contract has been in effect, either
+party may request:
+
+· to terminate the contract upon one month's notice, or
+· to modify the contract in whole or in part. Modifications should be agreed to within
+
+     one month after the request is made.
+
+The party requesting termination or modification should provide a copy of the request
+to the Ministry.
+
+If negotiations are underway to renew, extend, or amend a collective employment
+contract when it expires or is terminated, the contract remains valid throughout the
+negotiations for a period not exceeding six months. If no agreement is reached within
+six months, the collective contract is considered invalid.
+
+The termination of a collective employment agreement does not authorize the employer
+to violate the rights that workers acquired under the contract.
+
+                                                                                                                    15
+    LABOUR DISPUTES
+
+There are two types of labour disputes ­ individual and collective. The Wages
+Authority oversees all disputes related to wages.
+
+4.1 INDIVIDUAL LABOUR DISPUTES
+
+The Magistrate Court tries individual labour disputes of all types not related to wages.    LABOUR LAW ART 137
+Complaints should be considered within three months of filing. Labour cases are exempt
+from court fees the first time they are filed.
+
+4.2 COLLECTIVE LABOUR DISPUTES
+
+A collective labour dispute is a disagreement between a trade union and the employer        LABOUR LAW ARTS
+or employers' association regarding the application or interpretation of a collective work  2, 132, 134
+contract or the circumstances and conditions of work. While a dispute is being settled,
+the employer may not change workers' conditions of employment, dismiss any worker
+without prior written permission from the authority settling the dispute, or lock out
+workers, and workers may not go on strike.
+
+4.2.1 CONCILIATION BY THE MINISTRY OF LABOUR
+
+In the event of a collective dispute, a conciliation officer from the Ministry of Labour    LABOUR LAW ARTS 120- 124
+attempts to mediate the dispute.
+
+If the dispute cannot be settled within 21 days, it is referred to a conciliation board
+consisting of a president appointed by the Minister and two or more representatives
+chosen in equal number by each party to the dispute. The conciliation board must
+attempt to settle the dispute within 21 days of referral. If the dispute is settled, the
+conciliation report should be published in a local newspaper. If no settlement is reached,
+the Minister of Labour refers the dispute to a Labour Court.
+
+4.2.2 RESOLUTION BY THE LABOUR COURT                                                        LABOUR LAW ARTS 124, 128,
+                                                                                            130, 131
+The Labour Court consists of three judges appointed by the Judicial Council to settle the
+dispute. The court is required to review the case within seven days of referral, and issue
+a decision within 30 days. The decision is not subject to appeal, and must be published
+in a local newspaper.
+
+The decision of the Labour Court shall apply to:
+
+· the parties to the dispute
+· the employer and any successors, and
+· any workers who were employed at the workplace during the dispute period and all
+
+     workers employed after the decision.
+
+16
+4.3 STRIKES AND LOCKOUTS                                                                      LABOUR LAW ARTS 134-136
+4.3.1 STRIKES                                                                                 1998 REGULATION
+                                                                                              ON CONDITIONS AND
+A strike is a stoppage of work by a group of workers due to a labour dispute.                 PROCEDURES FOR STRIKE
+                                                                                              AND LOCKOUT
+Workers must notify the employer in writing 14 days before going on strike. The notice
+must be signed by the workers or the trade union, and must include the subject of the
+dispute and the intended strike date. The notice should be presented directly to the
+employer, or sent by registered mail if that is not possible. If sent by mail, the notice is
+considered delivered seven days after it was mailed.
+
+A copy of the notice also must be sent directly and by hand to the Labour Directorate.
+
+Workers cannot go on strike while dispute proceedings are pending. In addition, they
+may not go on strike to address issues that are covered in a valid dispute settlement or
+award.
+
+4.3.2 LOCKOUTS                                                                                LABOUR LAW ARTS 134-136
+
+A lockout is a total or partial closure of the establishment, or a stoppage of work           1998 REGULATION
+initiated by the employer. Before initiating a lockout, the employer must give 14 days'       ON CONDITIONS AND
+written notice to the workers and the Labour Directorate. The notice must be delivered        PROCEDURES FOR STRIKE
+to the workers or the trade union, or, if that is not possible, posted prominently in the     AND LOCKOUT
+workplace.
+
+The employer cannot initiate a lockout while dispute proceedings are pending.
+
+                                                                                                                       17
+    DISCRIMINATION
+
+Article 6 of the Jordanian Constitution provides that all Jordanians are equal before the  JORDANIAN CONSTITUTION
+law, and prohibits discrimination on grounds of race, language or religion. Article 23 of  ARTS 6, 23
+the Constitution requires that workers receive wages based on the quantity and quality
+of their work.                                                                             EQUAL RMUNERATION
+                                                                                           CONVENTION NO. 100 OF
+Jordan has ratified the two core ILO conventions addressing discrimination in respect      1951 (C100)
+of employment and occupation: the Equal Remuneration Convention No. 100 of 1951
+(C100) and the Discrimination (Employment and Occupation) Convention No. 111 of            DISCRIMINATION
+1958 (C111).                                                                               (EMPLOYMENT AND
+                                                                                           OCCUPATION) CONVENTION
+The Jordanian Labour Law protects women from discrimination during pregnancy and           NO. 111 OF 1958 (C111)
+while on maternity leave. Employers may not terminate women starting from the sixth
+month of pregnancy or during maternity leave.                                              LABOUR LAW ART 27
+
+5.1 EMPLOYMENT OF WORKERS WITH DISABILITIES                                                LABOUR LAW ART 13
+
+The employer must employ at least one disabled worker in a workplace with 25-50            RIGHTS OF DISABLED
+workers. If a workplace has more than 50 workers, at least 4% of the workers must be       PERSONS LAW ART 4C
+disabled.
+
+18
+FORCED LABOUR
+
+Forced labour is work exacted under threat of penalty which the worker has not freely       ANTI HUMAN TRAFFICKING
+consented to perform.                                                                       LAW NO 9 OF 2009 ART 3
+
+Forced labour is a crime under Jordanian law. The Anti Human Trafficking Law prohibits      LABOUR LAW ART 17
+recruiting or receiving people to exploit them through forced labour by means of
+intimidation, force, violence, deception, fraud, abuse of power, or taking advantage of     FORCED LABOUR
+vulnerability. For workers under age 18, the means used are not considered.                 CONVENTION NO.29 OF 1930
+                                                                                            (C29)
+Jordanian law also includes measures that aim to ensure that migrant workers employed
+in Jordan have not paid unauthorized fees or been subject to deceptive hiring practices     ABOLITION OF FORCED
+(see 7.1.3.). Workers are not required to perform work that is markedly different from the  LABOUR CONVENTION NO.
+type of work agreed in the contract of employment, except when necessary to prevent         105 OF 1957 (C105)
+an accident or carry out related repairs, or in cases of force majeure.
+
+Jordan has ratified the two core ILO conventions that aim to suppress forced labour:
+the Forced Labour Convention No.29 of 1930 (C29) and the Abolition of Forced Labour
+Convention No. 105 of 1957 (C105).
+
+6.1 COERCIVE WORK
+
+Employers may not force workers to work involuntarily or under threat, fraud or coercion,   LABOUR LAW ART 77 (B, C)
+including by withholding their passports. Employers and any accomplices who do so are
+subject to a fine of 500-1000 JD, which is doubled for repeat offences.
+
+                                                                                                                      19
+    CONTRACTS AND HUMAN RESOURCES
+
+7.1 RECRUITMENT
+
+During the first month of every year, the employer must notify the Ministry of Labour         LABOUR LAW ART 8
+in writing of the number of workers and the jobs, wages, and starting dates for each
+worker. The employer must maintain records on workers and trainees for inspection
+and monitoring.
+
+7.1.1 PRIORITY FOR JORDANIAN WORKFORCE
+
+Non-Jordanian workers may be employed only when they have qualifications that are             LABOUR LAW ART 12
+not available in the Jordanian work force, or when there are not enough Jordanian
+workers to meet the need.
+
+7.1.2 EMPLOYMENT OF NON-JORDANIAN WORKERS
+
+Non-Jordanian workers must obtain a one-year, renewable work permit from the                  LABOUR LAW ART 12
+Ministry of Labour. The permit authorizes the worker to work for a particular employer
+in a specific occupation. If a worker is working for a different employer or doing different
+work from that authorized in the permit, the permit is not valid. If the Minister of Labour
+issues a decision to expel a non-Jordanian worker for not having a valid work permit, the
+employer must cover the cost of the worker's return trip.
+
+7.1.3 CONDITIONS AND PROCEDURES FOR EMPLOYING NON-JORDANIAN WORKERS
+
+A committee within the Ministry of Labour specializes in approving or rejecting the work      INSTRUCTIONS FOR
+permit applications of non-Jordanian workers. The requirements vary depending on              CONDITIONS AND
+whether the worker will be employed in a Qualified Industrial Zone (QIZ) or not. In all       PROCEDURES FOR
+cases, a fee must be paid, and workers must be subscribed to Social Security.                 RECRUITMENT OF NON-
+                                                                                              JORDANIAN WORKERS OF
+Employers seeking to employ non-Jordanian workers in the QIZs must take steps to              2012
+ensure that the workers they recruit understand the terms and conditions of employment,
+that they are recruited through a licensed agency, and that they have not paid any            INSTRUCTIONS FOR
+unauthorized fees. Along with their work permit application, employers in the QIZs must       CONDITIONS AND
+submit a certificate authenticated by the worker's embassy stating that the worker has        PROCEDURES FOR
+been recruited through a licensed recruitment agency and that s/he has not paid any           RECRUITMENT OF NON-
+fees along with a certified copy of the job announcement published in a newspaper in          JORDANIAN WORKERS IN
+the worker's home country outlining the terms and conditions of employment.                   THE QUALIFIED INDUSTRIAL
+                                                                                              ZONES OF 2007
+The employer also must include the following documents with the application:
+· the company's registration certificate
+· the company's valid vocational licence
+· a certificate with the names of the authorized signatories issued by the Ministry of
+
+     Industry and Trade, and
+· duly notarized lease contract or proof of ownership of the company.
+
+When renewing work permits or recruiting additional non-Jordanian workers, the
+employer must submit a report from the Employment Directorate at the Ministry
+outlining the steps taken to gradually replace their foreign workforce with Jordanian
+workers.
+
+20
+7.1.4 WORK PERMIT FEES
+
+The Ministry of Labour collects work permit fees from employers who employ non-           WORK PERMIT FEE
+Jordanian workers in the Qualified Industrial Zones as follows:                           REGULATIONS FOR NON-
+                                                                                          JORDANIAN WORKERS NO. 36
+· 150 JD per worker for the first three years of operation                                OF 1997, ART. 3
+· 175 JD per worker for the fourth year onwards
+
+7.2 EMPLOYMENT CONTRACTS
+
+An employment contract is an agreement between the worker and the employer to             LABOUR LAW ARTS
+organize work in return for a wage payable to the worker. The employment contract         2, 4, 15, 45
+may be for a limited period or it may be an unlimited period contract (see 7.2.2.).
+
+The employment contract should contain the terms and conditions of employment,
+such as:
+
+· the period of employment
+· the hours, location, and scope of work
+· the worker's wage and benefits, and
+· procedures for resigning from work.
+
+An employment contract may be in writing or verbal, but written contracts are
+recommended in order to minimize misunderstandings and to provide proof in the
+event of a dispute.
+
+Written contracts should be in Arabic, with copies provided for both the employer and
+worker. If a worker does not understand Arabic, a copy of the contract must be organized
+in the worker's language.
+
+Workers may not waive any of their rights under the Labour Law. Any waiver of rights by
+a worker is considered invalid. For example, an agreement by workers to waive the right
+to annual leave would be considered invalid.
+
+If any law, decision, or agreement grants workers rights greater than those provided
+under the Labour Law, the employer is required to grant those additional rights.
+
+7.2.1 COLLECTIVE EMPLOYMENT CONTRACTS
+
+A collective employment contract is a written agreement that organizes terms and          LABOUR LAW ARTS 2, 39-44
+conditions of employment between the employer or the employers' association and a
+group of workers or the trade union. For more information about collective employment
+contracts, please refer to Chapter 3 of this guide.
+
+                                                                                                                    21
+7.2.2 LIMITED PERIOD AND UNLIMITED PERIOD EMPLOYMENT CONTRACTS
+
+Jordanian Labour Law provides for two types of employment contracts:                       LABOUR LAW ART 15
+
+· Limited Period Employment Contracts, which expire at the end of their term
+· Unlimited Period Employment Contracts, which do not expire on a specified date
+
+If a worker on a limited period contract continues to work past the contract's expiration
+date (and the employer allows this), the contract is considered to be renewed as an
+unlimited period contract.
+
+7.2.3 PROBATION
+
+Workers may be subject to a probation period so the employer can assess their skills. A    LABOUR LAW ART 35
+probation period should not exceed three months, during which time the worker must
+be paid at least the minimum wage.
+
+7.2.4 TRAINING WORKERS
+7.2.4.1 ORGANIZATION OF THE TRAINING CONTRACT
+
+A vocational training contract may be organized in line with conditions determined by      LABOUR LAW ART 36
+the Vocational Training Corporation. The contract must be in writing and the trainer
+must have sufficient qualifications and experience in the field. The enterprise must also
+have suitable conditions for training. If the trainee is a minor, the parent or guardian
+must enter into the contract on the minor's behalf.
+
+7.2.4.2 TRAINING CONTRACT TERMS
+
+The training contract must specify the term, successive stages, and the wages to be paid   LABOUR LAW ART 37
+to the trainee at each stage. The wage at the final stage must be at least the minimum
+wage paid for similar work, and cannot be determined on per-piece or production basis.
+
+22
+7.2.4.3 TERMINATION OF THE TRAINING CONTRACT
+
+The training contract may be terminated at the request of the employer or the trainee if:  LABOUR LAW ART 38
+
+· either party violates the Labour Law
+· either party does not perform the contractual duties
+· it becomes impossible to implement the conditions of the contract for reasons
+
+     beyond the control of either party
+· the employer relocates the training location to a place not specified in the contract,
+
+     making it difficult for the trainee to attend the training, or
+· the trainee's participation would threaten his/her safety or health, as confirmed
+
+     by a report from the Labour Inspector or a medical report issued by an approved
+     medical committee.
+
+7.2.5 WORK THAT IS LIMITED IN DURATION
+7.2.5.1 CASUAL WORK
+
+Work carried out to handle short-term contingent needs is considered casual work if it     LABOUR LAW ART 2
+can be completed within three months.
+
+  Example: A worker is hired for a week to load finished goods in order to meet a
+  shipping deadline.
+
+7.2.5.2 TEMPORARY WORK                                                                     LABOUR LAW ART 2
+Work that is by nature limited in duration is considered temporary work.
+
+Example: A worker is hired to replace another worker who is on maternity leave.
+
+7.3 BYLAWS
+
+Every employer with 10 or more workers must organize bylaws that are consistent with       LABOUR LAW ART 55
+the Labour Law. They must be made available to all workers as well as to the inspectors
+of the Ministry of Labour.                                                                 JORDANIAN COURT OF
+                                                                                           CASSATION DECISION NO.
+Bylaws must specify:                                                                       2209/2005 DATED 27/12/2005
+
+· working hours
+· daily and weekly breaks
+· work rules, disciplinary procedures, and sanctions, and
+· other matters relevant to the nature of the work.
+
+Bylaws must be approved by the Ministry of Labour.
+
+                                                                                                              23
+7.4 DISCIPLINARY PROCEEDURES
+
+The employer may take disciplinary measures against the worker if the worker violates    LABOUR LAW ARTS 48, 55
+the work instructions or the bylaws. However, the employer cannot impose penalties on
+the worker that are inhumane or in violation of the law.
+
+Disciplinary measures are subject to the following limitations:
+
+· the employer must include a list of the disciplinary measures in the company's
+     bylaws, which must be approved by the Ministry of Labour
+
+· if workers are subject to wage deductions or suspensions from work, these may not
+     exceed three days' wages or workdays in a month
+
+· employers must give workers a chance to defend themselves before imposing a
+     penalty
+
+· workers may object to the labour inspector within one week of being notified of a
+     penalty, and
+
+· the employer must take disciplinary measures within 15 days of the misconduct.
+
+7.5 TERMINATION OF THE EMPLOYMENT CONTRACT
+
+The employment contract ends when:                                                       LABOUR LAW ART 21
+· the term of the agreement expires, or the work contracted for is completed
+· the worker dies or is not able to perform the work (as certified in a medical report)
+· the employer and worker agree to terminate the contract, or
+· the worker reaches pensionable age under the social security law.
+
+7.5.1 ARBITRARY AND ILLEGAL TERMINATION                                                  LABOUR LAW ARTS
+                                                                                         24, 25, 27, 97
+The law prohibits dismissal of workers:
+                                                                                         LABOUR LAW ARTS
+· for bringing a complaint against the employer to the competent authority               23, 28, 29, 35
+· if they are pregnant (from the sixth month onwards)
+· while absent from work during annual leave, maternity leave, sick leave, leave
+
+     granted for training or education, pilgrimage, required service in the military or
+     reserves, or agreed leave to perform union work, or
+· based on trade union membership or participation in trade union activities.
+
+If the employer terminates the worker illegally, the law provides that:
+
+· the worker can file a claim in court within 60 days of the dismissal
+· if the court finds that the dismissal was arbitrary and in violation of the law, the
+
+     employer may be required to reinstate the worker or pay the worker compensation
+     equal to half a month's wage for every year of service (minimum of two months'
+     wages), as well as payment in lieu of notice and other legal entitlements, and
+· the compensation is calculated based on the last wage received by the worker.
+
+24
+7.5.2 NOTICE OF TERMINATION
+
+To terminate an unlimited period employment contract, the worker or employer must           LABOUR LAW ARTS
+give the other party at least one month's written notice. The notice may be withdrawn       23, 28, 29, 35
+if both parties agree.
+
+The employer may dismiss the worker during the notice period, or require the worker to
+continue working except during the last seven days of the notice period. In either case,
+the worker is entitled to full wages during the notice period.
+
+If the worker chooses to stop working during the notice period, the worker is not entitled
+to wages for the days not worked.
+
+The employer may dismiss the worker without notice if the worker:
+
+· is on probation
+· submits false documents
+· does not fulfil the obligations of the employment contract
+· commits an error that results in significant material loss to the employer, as long as
+
+     the employer notifies the competent authorities of the incident within five days of
+     its occurrence
+· violates the company's bylaws despite two written warnings
+· has more than 20 total days or more than 10 consecutive days of unexcused
+     absences within a year, as long as the dismissal is preceded by a written notice
+     sent by registered mail to the worker's address and published once in a local daily
+     newspaper
+· divulges work secrets
+· is convicted of a crime or misdemeanour of violating indecency or public morals, or
+· is intoxicated or under the influence of drugs at work, or has committed an indecent
+     act at the workplace, or beats or humiliates another person during work.
+
+Workers may resign without notice if:
+
+· the employer requires the worker do to work that significantly differs from that
+     agreed to in the employment contract
+
+· the worker's job requires relocation that is not provided for under the contract
+· the worker is placed in a lower grade than what was agreed upon
+· the worker's wage is reduced illegally
+· the employer or his representative assaults or humiliates the worker
+· continuing work would threaten the worker's health, based on a medical report
+
+     from a competent authority, or
+· the employer does not implement the labour law, and has been notified of this by
+
+     the competent authority.
+
+                                                                                                             25
+7.5.3 SUSPENSIONS OR LAYOFFS DUE TO ECONOMIC OR TECHNICAL CONDITIONS
+
+If economic or technical circumstances compel an employer to reduce or cease                 LABOUR LAW ART 31
+operations, resulting in the suspension or termination of unlimited employment
+contracts, the following must occur:
+
+· before taking any action, the employer must inform the Minister of Labour in
+     writing, demonstrating the need for the action
+
+· the Minister must form a committee with representatives of workers, the employer
+     and the Ministry to verify the validity of the employer's measures and provide
+     recommendations within 15 days
+
+· the Minister must make a decision regarding the employer's measures within seven
+     days of the committee's report
+
+· any affected person may, within 10 days of being notified of the Minister's decision,
+     challenge the decision before the Court of Appeals, which must decide the issue
+     within one month
+
+· workers may resume work within one year from the date of leaving if the work
+     returns to its normal status, and
+
+· any worker who has been suspended due to reduction or closure may leave the job
+     without notice and maintain all legal rights upon the termination of service.
+
+7.5.4 TERMINATION PAYMENTS
+
+Termination payments vary depending on the type of contract, the reasons for                 LABOUR LAW ARTS
+termination, and the duration of employment. All workers are entitled to compensation        26, 29, 32, 33, 35, 63
+for unused accrued annual leave when they resign or are terminated.
+
+Workers on unlimited duration contracts are entitled to the following payments upon
+termination:
+
+· Those workers who are not covered by the Social Security Law receive one month's
+     salary for every year they worked, and a pro-rata payment for fractions of a year. For
+     basic wage workers, the payment is calculated based on the last wage received. For
+     piece rate workers, the payment is calculated based on the average monthly wage
+     received during the 12 months before termination, or the average during their total
+     period of service if they have not yet worked a full year.
+
+· Workers covered by special savings, pension or other funds receive any allowances
+     that they are entitled to from these funds.
+
+· All workers are entitled to any other entitlements provided for under the
+     employment contract.
+
+If the employer terminates a worker before the expiration of an unlimited duration
+contract, the worker is entitled to all outstanding wages and benefits. The same rule
+applies if the worker terminates the contract for any of the reasons for which prior notice
+is not required (see 7.5.2.).
+
+The employer may claim damages from the worker in court if the worker terminates a
+fixed duration contract prematurely for other reasons, but the damages cannot exceed
+one half of the worker's monthly wage for every month remaining in the term of the
+contract.
+
+Workers on probation are not entitled to termination benefits.
+
+26
+WAGES AND BENEFITS
+
+A wage is given by the employer to the worker in return for assigned work. Wages          LABOUR LAW ARTS 2, 45, 46
+should be specified in the employment contract so workers are informed of the wage.
+The wage should be estimated according to the type of work or the current standard for    LEGISLATIVE OPINION
+the profession. If there is a dispute over wages, the court will estimate an appropriate  COUNCIL DECISION NO. 5 OF
+wage according to the Labour Law.                                                         2003
+
+Workers' wages may be determined either by:                                               JORDANIAN COURT OF
+                                                                                          CASSATION DECISION NO.
+· time: based on an hourly, weekly, or monthly wage, or                                   1242/2011, DATED 20/9/2011
+· piece: based on the worker's production quantity.
+
+The wage also may be determined by a combination of time and piece. In this case, the
+base wage increases as the worker's production increases.
+
+  Example: A workers' daily salary is 8 JD, plus an additional 0.08 JD for every piece
+  produced about 100 in a day
+
+The wage may be paid in cash or in kind. Wages include all entitlements provided for
+under the law, employment contract, or bylaws, such as:
+
+· cash or in kind housing allowance
+· allowances for Fridays and official holidays
+· medical allowance (medical insurance)
+· life insurance allowance
+· technical, specialist, and liability allowance
+· monthly or annual allowances, and
+· food allowances.
+
+Wages must be paid within seven days of becoming due, and workers must sign to state
+receipt of the wage. Employers must prove that all workers have received their wages.
+
+8.1 MINIMUM WAGE
+
+Workers must be paid at least the minimum wage, which is determined by the Tripartite     LABOUR LAW ARTS 52, 53
+Committee for Labour Affairs formed through the Ministry of Labour. The minimum
+wage for Jordanian workers as of 1/2/2012 is 190 JD per month. The minimum wage for       TRIPARTITE COMMITTEE FOR
+non-Jordanian workers in the garment sector is 110 JD per month.                          LABOUR AFFAIRS DECISION
+                                                                                          OF 31/12/2011
+
+                                                                                          TRIPARTITE COMMITTEE FOR
+                                                                                          LABOUR AFFAIRS DECISION
+                                                                                          OF 15/2/2012
+
+                                                                                          27
+8.2 OTHER ALLOWANCES
+
+A one-time allowance must be provided for non-Jordanian workers who work for an            TRIPARTITE COMMITTEE FOR
+extended period of time with the same employer:                                            LABOUR AFFAIRS DECISION
+                                                                                           OF 31/12/2011
+· workers with one year of service as of 1 February 2012 receive a monthly allowance
+     of 5 JD                                                                               TRIPARTITE COMMITTEE FOR
+                                                                                           LABOUR AFFAIRS DECISION
+· workers with two years of service as of 1 February 2012 receive a monthly allowance      OF 15/2/2012
+     of 10 JD
+
+· workers with three years of service as of 1 February 2012 receive a monthly
+     allowance of 15 JD
+
+· workers with four years or more years of service as of 1 February 2012 receive a
+     monthly allowance of 20 JD
+
+These allowances are applied only once (they do not increase yearly), and they do not
+apply to workers whose wages exceed 110 JD.
+
+8.3 DEDUCTIONS FROM THE WORKER'S WAGE
+
+The employer cannot deduct amounts from the worker's wage except for:                      LABOUR LAW ART 47
+
+· recovery of loans or advances made by the employer (any single deduction may not
+     exceed 10% of the worker's wage)
+
+· adjustment of overpaid wages
+· legally required contributions to Social Security
+· workers' subscriptions to provident funds
+· housing provided by the employer
+· debts settled through a court ruling, or
+· amounts imposed on workers for violations under the bylaws, or for destroying the
+
+     employer's tools or equipment.
+
+8.4 DISCIPLINARY FINES
+
+The employer may not impose fines on workers other than those provided for in the          LABOUR LAW ARTS 48-49
+bylaws and approved by the Ministry of Labour. The following regulations also apply:
+                                                                                           DECISION CONCERNING THE
+· no fine or suspension may exceed three days' wages per month                             FINES IMPOSED ON WORKERS
+· workers may object to the Labour Inspector within one week of being notified of a        OF 2002
+
+     fine
+· no fine can be imposed more than 15 days after the date of the violation
+· prior to deducting a worker's wages for damage to the employer's tools or
+
+     equipment, it must be proven that the damage resulted from the worker's fault or
+     failure to follow instructions, and
+· deductions for damage to tools and equipment cannot exceed five days' wages per
+     month.
+
+  Example: If it is proven that a worker was at fault for destroying a tool valued at 200
+  JD and the worker's daily wage is 10 JD, the employer can deduct a maximum of 50
+  JD per month for four months.
+
+A committee must be formed at each workplace to allocate the funds generated by
+disciplinary fines paid by workers.
+
+28
+8.5 DEDUCTIONS FROM WAGES
+8.5.1 INCOME TAX
+
+Any income earned in Jordan is subject to income tax, including income earned by non-   TEMPORARY INCOME TAX
+residents.                                                                              LAW NO. 28 OF 2009 ARTS 3, 9
+
+Workers residing in Jordan who make less than 12,000 JD annually are exempt from
+taxes.
+
+8.6 OVERTIME WAGES
+
+Overtime must be paid as follows:                                                       LABOUR LAW ART 59
+
+· 125% of normal wages for all ordinary overtime hours worked
+· 150% of normal wages for all overtime hours worked on weekly rest days, religious
+
+     feasts, and public holidays
+
+These wage premiums also apply to piece rate workers.
+
+Overtime calculations are made as follows:
+
+Overtime  =  Actual Wage             X      125% or         X     Number of
+  Wage         per Hour                      150%              Overtime Hours
+
+8.7 PAID LEAVE
+8.7.1 PAID HOLIDAYS
+
+Workers must be paid on their weekly holiday (normally Friday) as well as on official   LABOUR LAW ARTS 59, 60
+holidays specified by the Council of Ministers, such as the main Islamic holidays, the
+Gregorian New Year, Independence Day, and Labour Day.
+
+Period       Notes                               Occasions        Date
+                                     New Year's Day            1 January
+One day  As per the Gregorian
+         Calendar
+
+One day  As per the Gregorian        International Labour Day  1 May
+         Calendar
+
+One day  As per the Gregorian        Kingdom's Independence Day 25 May
+         Calendar
+
+One day  As per the Gregorian        Christmas Day             25 December
+         Calendar                    Prophet's Birth             12 Rabie I
+                                     Hajj Holiday               10 Dul Hija
+One day As per the Hijri Calendar    Eid Al Fitr                1 Shawwal
+                                     The Hijra New Year         1 Muharam
+Five days As per the Hijri Calendar
+
+Four     As per the Hijri Calendar
+days
+
+One day As per the Hijri Calendar
+
+                                                                                                                29
+8.7.2 PAID ANNUAL LEAVE
+
+Workers are entitled to at least 14 days of fully paid annual leave off from work each year.  LABOUR LAW ART
+Workers who have worked with the same employer for five years or longer are entitled          61, 63, 64
+to at least 21 days of annual leave. Those who have worked for less than one year are
+entitled to paid leave calculated in proportion to the period of employment for that
+year. Weekly rest days and official holidays are not counted as annual leave, even if they
+fall within the leave period.
+
+The Labour Law does not expressly allow or prohibit payment in lieu of time off for
+annual leave. However, workers may not waive their right to annual leave. Workers
+whose service ends without having used all their accrued annual leave must be paid
+wages for the unused leave days.
+
+During the first month of the year, the employer may schedule workers' leave, taking
+workers'interests into consideration. The employer may agree with a worker to postpone
+annual leave to the following year. In that case, the worker must use the delayed leave
+during the following year, and the employer cannot decline worker's request to use the
+leave.
+
+8.7.3 SPECIAL LEAVE
+
+Workers are entitled to an additional 14 days of paid leave per year if they:                 LABOUR LAW ARTS
+                                                                                              66, 68
+· participate in a labour education course approved by the Ministry of Labour or the
+     General Federation of Trade Unions, or
+
+· go on pilgrimage (only once during their period of employment, after 5 years of
+     continuous service).
+
+Workers are entitled to four months' unpaid leave if they enrol in an officially recognized
+institute, college or university.
+
+Workers also are entitled to up to two years' unpaid leave to accompany their spouse in
+the event of relocation within or outside Jordan.
+
+8.7.4 SICK LEAVE
+
+Workers are entitled to 14 days' paid leave each year for medical reasons, so long as         LABOUR LAW ART 65
+they provide a report from a physician approved by the employer. The leave may be
+extended for an additional 14 days if the worker is hospitalized or based on a report
+from a medical committee approved by the employer.
+
+30
+8.7.5 MATERNITY LEAVE
+
+Women workers are entitled to 10 weeks fully paid maternity leave, six weeks of which      LABOUR LAW ARTS 67, 70
+must occur after delivery. An enterprise employing 10 or more workers must allow
+women to take up to one year of unpaid leave post-delivery, so long as they do not work    SOCIAL SECURITY LAW ART
+for another employer during that time.                                                     44
+
+Maternity leave may be paid by social insurance if the worker has been covered by social
+insurance for at least 9 months preceding the entitlement.
+
+8.7.6 BREASTFEEDING BREAKS
+
+During the first year after giving birth, women workers may take up to one paid hour off   LABOUR LAW ART 71
+per day to breastfeed their babies.
+
+8.8 SOCIAL SECURITY                                                                        SOCIAL SECURITY LAW OF
+                                                                                           2010 ARTS
+Workers who are subject to the Labour Law are also subject to Social Security, regardless  4, 24, 29, 42, 45, 48, 59
+of nationality or type or term of employment contract, so long as the worker is paid
+at least minimum wage. Overtime payments or the value of meals are not subject to
+deductions for Social Security.
+
+                                                                                                                      31
+    OCCUPATIONAL SAFETY AND HEALTH (OSH)
+
+9.1 GENERAL PROVISIONS
+
+In order to ensure the occupational safety and health of workers, the employer must:  LABOUR LAW ARTS 78, 80, 85
+
+· protect workers from work-related accidents and illnesses
+· prior to employment, inform workers about work-related hazards and necessary
+
+     precautions
+· provide workers with necessary personal protective equipment (PPE), such as
+
+     goggles, aprons, masks, gloves, and/or footwear
+· guide workers in the use and maintenance of PPE, and
+· protect workers from fire hazards.
+
+Workers are not required to pay any costs for these measures.
+
+9.1.1 SAFETY AND HEALTH SUPERVISORS COMMITTEES
+
+Every corporation must form a committee of staff specialized in OSH corresponding to  REGULATION NO. 7 OF 1998
+the number of workers:                                                                ON FORMING COMMITTEES
+                                                                                      AND SUPERVISORS OF OSH
+OSH Committee  Full-Time   Specialist                            No. of Workers
+               Technician  Supervisor                                                 2002 SPECIAL DECISION
+         -                                                           20 ­ 50          FOR ENTITIES AND LEVEL
+         1          1            -                                  51 ­ 200          OF TRAINING OF OSH
+         1          1            -                                  201 ­ 500         SUPERVISORS ART 8
+         1          2           1                                  501 ­ 1000
+                    3           2                                                     LABOUR LAW ART 85
+
+Any company with more than 1000 employees must also              An OSH Committee must be formed in enterprises with more
+employ two technicians and one supervisor for each additional    than 50 workers. The committee members include:
+1000 employees.                                                  · the company director, who presides over the committee
+                                                                 · the OSH Supervisor
+The specialist supervisor and the OSH technician must            · equal numbers of department heads and worker
+be approved by the Ministry of Labour. Final approval is
+contingent upon passing the course for accreditation of OSH           representatives from all production departments, and
+Supervisors.                                                     · the company doctor.
+
+OSH Supervisors report directly to the company director and      The director must notify the Ministry of Labour of the names
+must be trained according to the responsibilities and nature of  of the committee members when it is formed, and when the
+the work performed. The Supervisor:                              membership changes.
+· prepares OSH rules and OSH programmes at the workplace
+· periodically inspects the workplace, including to ensure       The OSH Committee:
+                                                                 · discusses workplace accidents and injuries, and measures
+     that workers are protected through PPE or machine
+     safeguards                                                       taken to prevent them
+· records information on work-related accidents and              · discusses activities carried out by the OSH Supervisor
+     illnesses; prepares reports that outline measures to        · educates the workforce on OSH, and
+     prevent future accidents; submits reports to the Ministry   · considers OSH related proposals submitted by workers.
+     every three months
+· ensures adequate means for fire protection, first aid          The OSH Committee must meet at least once a month.
+     materials and transport to medical facilities; monitors     Meetings must be attended by the majority of members,
+     workplace organization and cleanliness, and                 including either the president or vice-president. Committee
+· prepares OSH training programmes for workers, and OSH          meeting notes must be recorded in writing and placed in a
+     advice on production machinery and materials.               location accessible to all.
+
+32
+9.2 WORK-RELATED INJURIES
+
+A work-related injury is one that results from an accident that:                             LABOUR LAW ARTS 2, 86
+· occurred during the worker's performance of work
+· developed over time due to the nature of the work, or
+· occurred while the worker was travelling to or from work.
+
+Work-related diseases are outlined in Table 1 annexed to the Labour Law and work-
+related injuries are outlined in Table 2.
+
+The Jordanian Labour Law's provisions related to work injuries and illnesses apply to
+workers who are not covered under Social Security.
+
+9.2.1 EMPLOYER'S DUTIES AFTER AN ACCIDENT
+
+If a work-related accident hinders the worker's ability to continue working, the employer    LABOUR LAW ART 87
+must arrange and pay for the injured worker to be transported to a hospital or medical
+centre, and must report the incident to the authorities within 48 hours.
+
+9.2.2 INDEMNITY FOR WORK-RELATED INJURIES
+
+A worker who suffers a work-related injury may not claim compensation beyond that            LABOUR LAW ARTS
+provided for by law, unless the injury was due to the fault of the employer.                 88, 89, 91
+
+In the event of a work-related illness, the worker must submit a medical report in order
+to be entitled to compensation. Compensation is determined based on the most recent
+wage received, or based on the average earnings during the 6 months preceding the
+injury for piece rate workers.
+
+9.2.2.1 IN THE EVENT OF DEATH OR TOTAL DISABILITY
+
+If a work-related injury results in the death or total disability of a worker, the employer  LABOUR LAW ART 90 (A)
+must pay 1200 working days' wages, in an amount between 2000-5000 JD.
+
+9.2.2.2 IN THE EVENT OF TEMPORARY DISABILITY
+
+In the event of temporary disability, the worker is entitled to payment in the amount of:    LABOUR LAW ART 90(B)
+
+· 75% of the worker's daily wage if treated outside the hospital, or
+· 65% of the worker's daily wage if treated at an approved medical center.
+
+Payment is provided during the period of treatment, which is determined based on a
+medical report.
+
+                                                                                                                    33
+9.2.2.3 IN THE EVENT OF PERMANENT PARTIAL DISABILITY
+
+In the event of permanent partial disability, the injured worker must be compensated     LABOUR LAW ART 90 (C)
+according to the disability rate provided for under Schedule 2 of the Labour Law.
+
+9.2.2.4 IN THE EVENT OF MORE THAN ONE INJURY
+
+If a worker sustains more than one injury, the worker must be compensated for every      LABOUR LAW ART 90 (D)
+injury according to the law, as long as the total compensation does not exceed the
+amount payable in the event of total disability.
+
+9.3 HEALTH SERVICES AND FIRST AID
+9.3.1 MEDICAL UNITS AND STAFF
+
+Employers employing more than 50 workers must appoint doctors and nurses                 REGULATION NO. 42 OF 1998
+corresponding to the number of workers at the workplace. Factories with less than 50     ON PROTECTIVE MEDICAL
+workers can share a physician and a nurse.                                               CARE AND TREATMENT FOR
+                                                                                         WORKERS ART 7
+
+No. of Workers  Medical Unit  Nurse  Full-Time        Part-Time
+                                     Physician        Physician
+     50 ­ 100          -        1
+   101 ­ 500           1        2         -                1
+   501 ­ 1000          1        3         1                -
+1001 and above         1        4         2                -
+                                          3                -
+
+9.3.2. MEDICAL EXAMINATION                                                               1998 INSTRUCTIONS
+                                                                                         FOR WORKERS MEDICAL
+A medical examination must be conducted once a year for workers employed the textile,    EXAMINATION ART 4(C)
+garment, and clothing industries.
+
+9.3.3 FIRST AID                                                                          1997 DECISION ON MEDICAL
+                                                                                         AID MEANS AND DEVICES
+The employer must provide first aid supplies that are sufficient for the nature of work  FOR WORKERS
+and the number of workers. The supplies must be kept in an accessible location and
+include:
+· fever and pain medication, burn ointment and Vaseline
+· gauze, assorted bandages, cotton, adhesive tape, and ace bandages
+· disinfectant / white alcohol, hydrogen peroxide, and iodine
+· tweezers, scissors, medical gloves
+
+34
+9.4 WELFARE FACILITIES
+
+The employer must provide a break room where workers can rest and eat that:                  1998 INSTRUCTIONS FOR
+                                                                                             PROTECTION OF WORKERS
+· is well lit, ventilated, quiet, and painted in a light colour                              AND ESTABLISHMENTS FROM
+· has appropriate furniture (tables, chairs, clock)                                          WORKPLACE HAZARDS
+· is clean and pest-free, and has window screens and waste bins
+· is equipped with fire extinguishers and an emergency exit that is separate from the
+
+     main entrance to the room
+· has an air-conditioned hall if possible with a preferable temperature of 22ºC
+· has level, anti-slip floors, and doors that open in both directions
+· is easily accessible, and
+· is located apart from work areas where hazardous substances are used
+
+Washrooms should be located away from the break room, and should be fitted with:
+
+· sinks with hot and cold water, hand soap and a means for drying hands
+· anti-slip floors
+
+Workers also should be provided changing rooms that have individual lockers with
+keys to safely store their clothes and personal belongings. The changing room must be
+separate from the break room and toilets.
+
+9.4.1 EMPLOYER-PROVIDED CHILD CARE
+
+An enterprise that employs 20 or more women must provide child care during work              LABOUR LAW ART 72
+time for the children under four years of age, if there are 10 or more children in that age
+group.
+
+9.5 NOISE
+
+Employers are required to protect workers from exposure to noise. Exposure should not        1998 INSTRUCTIONS FOR
+exceed the following:                                                                        PROTECTION OF WORKERS
+                                                                                             AND ESTABLISHMENTS FROM
+Noise Intensity in dB   Allowed Exposure by Hours per Day                                    WORKPLACE HAZARDS
+           80                               16
+           85                                8
+           90                                4
+           95                                2
+          100                                1
+          105                                ½
+          110                                ¼
+          115                               1/8
+
+Workers who are exposed to noise above permitted levels must be provided with ear
+plugs and hearing protection devices.
+
+                                                                                                                35
+9.6 LIGHTING                                                                                  1998 INSTRUCTIONS FOR
+                                                                                              PROTECTING WORKERS AND
+Employers must provide appropriate natural or artificial lighting as follows:                 ESTABLISHMENTS FROM
+· light should be evenly distributed                                                          WORKPLACE HAZARDS
+· windows must be clean and unobstructed
+· workplace light levels should be at least 20 candles/square feet, and
+· glare should be avoided.
+
+9.7 HEAVY LIFTING
+
+Heavy lifting should be done by machines whenever possible. The following limits apply:       1998 INSTRUCTIONS FOR
+                                                                                              PROTECTION OF WORKERS
+For Men:                                                                                      AND ESTABLISHMENTS FROM
+              Age                                                                             WORKPLACE HAZARDS
+
+   Interrupted Lifting/kg  16- 18  19- 20  21- 25  26- 50                      50 and
+   Continuous Lifting/kg     20      25      30      23                        above
+                             15      18      20      15
+                                                                                 17
+
+                                                                                 11
+
+For Women:                 16- 18  19- 20  21- 25  26- 50                      50 and
+              Age            12      15      17      14                        above
+                              8      10      12      10
+   Interrupted Lifting/kg                                                        11
+   Continuous Lifting/kg
+                                                                                  7
+
+9.8 PROTECTION FOR PREGNANT AND BREASTFEEDING WOMEN                                           MINISTER OF LABOUR
+                                                                                              DECISION IN RESPECT TO
+In Jordan, pregnant and breastfeeding women may not engage in:                                ACTIVITIES AND TIMES
+· work that requires exposure to fumes or smoke from any petroleum derivatives, or            DURING WHICH IT IS
+· work that requires exposure to ethylene in tinting, or sulphur dioxide in artificial silk.  PROHIBITED TO EMPLOY
+                                                                                              WOMEN, 2010
+
+36
+9.9 PERSONAL PROTECTIVE EQUIIPMENT (PPE)
+
+Workers must be provided with goggles to protect them from visible light rays, sparks,    INSTRUCTIONS FOR
+and ultra violet rays.                                                                    PROTECTING WORKERS
+                                                                                          AND ENTERPRISES FROM
+Workers exposed to noise above allowable levels must be provided with ear plugs and       WORKPLACE HAZARDS
+protective hearing devices.
+
+Workers exposed to gases, dust, or fumes above approved limits must be provided with
+cotton or filtration masks that cover the mouth and nose.
+
+Workers whose hands are exposed to risks must be provided with:
+
+· gloves lined with leather/cotton for protection from mechanical injuries
+· leather gloves lined with an intermediate layer of metal for protection from sharp
+
+     surfaces, knives, or other cutting tools, and/or
+· plastic gloves for protection hazardous substances.
+
+9.10 ELECTRICAL SAFETY                                                                    REGULATION NO 43 OF
+                                                                                          1998 ON PROTECTION AND
+Electric devices, machines, cables, wires, connections, or switches must comply with      SAFETY FROM EQUIPMENT,
+required specifications and be properly installed and maintained by competent             INDUSTRIAL MACHINES AND
+technicians.                                                                              JOB SITES
+
+Electrical machines, equipment, devices, cables and wires must be grounded and have       REGULATION NO 43 OF
+insulated circuit breakers that are easily accessible in emergencies.                     1998 ON PROTECTION AND
+                                                                                          SAFETY FROM EQUIPMENT,
+Insulated flooring must be placed in front of and behind electrical distribution panels.  INDUSTRIAL MACHINES AND
+                                                                                          JOB SITES
+Cables, wires, and electric connections must be tested regularly to prevent short-
+circuiting and avoid sudden hazards such as fire or electric shock.
+
+9.11 MACHINE SAFETY
+
+The employer must protect workers from hazardous machinery and jobsites.
+
+Barriers must be placed around hazardous machines and equipment, including cutting
+machines, weaving machines, moving belts, gears, and chains.
+
+                                                                                                                37
+9.12 CHEMICALS AND HAZARDOUS SUBSTANCES
+
+The employer must take precautions and measures for the safety and protection from        REGULATION NO 43 OF
+chemical hazards as follows:                                                              1998 ON PROTECTION AND
+                                                                                          SAFETY FROM EQUIPMENT,
+· limit hazardous chemical materials such as gases, dust, liquids, or acids to the        INDUSTRIAL MACHINES AND
+     permitted levels and protect workers from exposure to these materials                JOB SITES
+
+· ensure that workplaces have good ventilation through the use of exhaust fans or an
+     industrial ventilation system, in accordance with the health conditions determined
+     by the Directorate of Safety, Vocational Health, and Environment of the Ministry of
+     Labour
+
+· provide personal protection equipment needed for work in the chemical industries
+     including filtration masks, proper shoes, helmets, gloves, work uniforms, leather
+     jackets, and goggles
+
+· provide appropriate warehouses to store finished and raw chemical materials
+     separately through a safe process
+
+· designate locations separate from the workplaces for industrial processes and
+     machinery that produce harmful fumes, dust, or gases; these locations must be
+     equipped with the necessary protection to guarantee that such materials do not
+     spread into the work environment, and
+
+· label every chemical material with its common name, chemical composition, trade
+     name, method of handling, storage process, hazards, hazard prevention, and any
+     other necessary information.
+
+38
+9.13 EMPLOYER-PROVIDED ACCOMMODATION
+
+Employer-provided housing must:                                                        INSTRUCTION NO. 1 OF 2011
+· be located at least 500 meters from the factory                                      FOR PREVENTION OF HEALTH
+· include sanitary facilities as well as sleeping, sitting, cooking, and eating areas  HAZARDS RESULTING FROM
+· not be used for work or storage of raw materials or finished products                HOUSING UNITS OF LABOUR
+· be clearly identified with a nameplate or signboard, and                             CAMPS
+· have a supervisor knowledgeable in OSH appointed for each unit.
+
+Sleeping rooms must:                                            Housing facilities should include:
+
+· be at least 2.8 meters in height, with at least 3.5 square ·                     at least one washing machine for every 20 workers as
+                                                                                   well as clothes lines for drying
+meters per worker                                                                  proper drainage systems and covers for floor drains
+                                                                                   sound walls and floors
+· not hold more than eight workers per room                     ·                  good ventilation and lighting, with at least some natural
+· be equipped with a bed for each worker that is at least ·                        light
+30 cm off the ground and at least 70 cm away from other ·                          screens on windows
+                                                                                   secure storage for workers' valuables
+beds on all sides (bunk beds are acceptable if they safety                         safe heating
+                                                                                   safe electric installations, connections, and plugs with
+requirements), and                                              ·                  covers for electric boxes
+                                                                                   clean, sealed tanks to supply at least 60 L of safe water
+· have a cabinet for every worker in the room, and cabinets ·                      daily per worker
+                                                                ·                  wastewater discharge to the public wastewater system
+or shelves for shoes in the corridors on each floor.                               or an approved septic tank
+                                                                                   garbage disposal containers that are emptied at least
+                                                                ·                  daily
+                                                                                   clean premises free from garbage and still water
+Cooking inside the sleeping areas is not allowed.                                  an accessible, adequately stocked first aid box
+                                                                                ·  fire fighting equipment, posted evacuation plans and
+                                                                                   emergency contact information and instructions, and
+Dormitory kitchens must have:                                                      separate storage for gas cylinders.
+
+· ceramic tile walls of at least two meters in height           ·
+
+· potable water and sinks for washing up                        ·
+· cabinets and a refrigerator for food storage
+· cooking facilities and exhaust fan(s)                         ·
+· pest control measures                                         ·
+· covered dumpsters                                             ·
+
+Kitchen staff must possess a valid health certificate.          ·
+
+Sanitary facilities must:
+
+· have ceramic tile walls
+· be located at least 30 meters from the sleeping quarters,
+
+     and at least 4.5 meters from the kitchen / dining room
+· have at least one sink and toilet for every eight workers,
+
+     one urinal for every 15 workers, and one shower for every
+     10 workers
+· have adequate waste disposal containers, and
+· have cold and hot water.
+
+                                                                                                    39
+0   WORKING HOURS AND REST TIMES
+
+10.1 REGULAR WORKING HOURS
+
+Regular working hours are those worked at regular pay (pre-overtime hours). Normally,        LABOUR LAW ART 56
+working hours should not exceed eight hours per day, 48 hours per week. However, up
+to 11 hours per day is acceptable so long as the total regular hours do not exceed 48
+hours per week. Time taken for rest periods or meals is not included in work hours.
+
+10.2 WEEKLY REST DAYS
+
+Workers are entitled to at least one day of rest per week, which falls on Friday unless      LABOUR LAW ART 60
+the nature of the work requires otherwise. With the employer's consent, workers may
+accumulate weekly rest days so long as they are used within the same month.
+
+10.3 OVERTIME
+10.3.1 VOLUNTARY AND MANDATORY OVERTIME
+
+Normally, workers should give consent to work beyond regular working hours. However,         LABOUR LAW ARTS 57, 59
+the employer can require workers to work overtime in order to conduct yearly inventory,
+finalize the budget, close accounts, prepare for a sales period, avoid loss of goods, or to
+receive, deliver, or transfer specific material.
+
+10.4 LIMITS ON WORKING HOURS FOR WOMEN                                                       MINISTER OF LABOUR
+                                                                                             DECISION IN RESPECT TO
+Under Jordanian law, women may not work between 10:00 pm and 06:00 am. Exceptions            ACTIVITIES AND TIMES
+require a decision from the Minister of Labour.                                              DURING WHICH IT IS
+The rest period for women must be at least 10 hours between each working day.                PROHIBITED TO EMPLOY
+                                                                                             WOMEN, 2010
+
+40
+ADDITIONAL INSTRUCTIONS RELATED TO
+THE GARMENT INDUSTRY
+
+11.1 THE GOLDEN LIST
+
+In June 2006, a joint apparel industry-government code of practice known as the Golden       2007 INSTRUCTIONS
+List was developed to encourage enhanced employer compliance with Jordanian labour           FOR PRINCIPLES AND
+laws and international standards. Golden List criteria pertain to wages, hours of work,      CRITERIA FOR APPROVING
+OSH, treatment of migrant workers, and recruitment of Jordanian nationals.                   CORPORATIONS FOR THE
+                                                                                             GOLDEN LIST REGARDING
+The Ministry of Labour determines whether a company meets the Golden List criteria.          TRAINING AND EMPLOYMENT
+Companies are not eligible if they are found to violate human rights through child           OF THE TRAINEES OF THE
+labour, coercive work, human trafficking, physical abuse, sexual harassment, or other        NATIONAL EMPLOYMENT
+human rights violations.                                                                     AND TRAINING COMPANY
+
+Incentives offered to Golden List companies include:
+
+· exemption from the bank guarantee required to employ migrant workers, and
+· permission to transfer migrant workers with their consent at no cost between
+
+     companies on the Golden List (the transfer must approved by the Ministry of Labour
+     and the worker must remain in the profession designated in his/her work permit).
+
+11.2 BETTER WORK PROGRAMME (JORDAN)
+
+Companies are required to participate in the ILO/IFC Better Work Jordan programme if         2010 INSTRUCTIONS
+they:                                                                                        FOR OBLIGING CERTAIN
+                                                                                             CATEGORIES OF READY-MADE
+· export directly to the USA                                                                 GARMENTS MANUFACTURING
+· sub-contract for companies that export directly to the USA                                 COMPANIES TO PARTICIPATE
+· export directly to Israel, or                                                              IN THE BETTER WORK
+· sub-contract for companies that export directly to Israel.                                 PROGRAMME (JORDAN) OF
+                                                                                             THE ILO AND IFC
+The Minister issues a list every six months identifying the factories in Jordan that must
+participate in the Better Work programme.
+
+The Ministry pays a portion of subscription fees for companies enrolled in the Better
+Work programme:
+
+· 50% for the first year
+· 35% for the second year, and
+· 20% for the third year.
+
+Companies that exclusively employ Jordanian labour are 100% exempted from the
+subscription fees for three years. The Minister has the authority to amend subsidy rates
+if there is a change in the subscription fees or if otherwise necessary.
+
+Factories are required to register with the Better Work programme and pay the
+subscription fees within four weeks from the date their name appears on the list of
+participating factories published by the Minister. Factories that fail to do so are subject
+to a fine ranging from 50-100 JD. The fine is re-imposed if the company continues to
+avoid registration or payment.
+
+                                                                                             41
+42
+

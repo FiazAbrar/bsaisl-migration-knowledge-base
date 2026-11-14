@@ -1,0 +1,359 @@
+PAGE META: og:updated_time: 2023-10-16T00:51:26+03:00 \| article:published_time: 2023-10-16T00:50:30+03:00 \| article:modified_time: 2023-10-16T00:51:26+03:00
+
+[Skip to main content](#main-content)
+
+- [Facebook](#)
+- [Tweet](#)
+- [Digg it](#)
+- [Delicious](#)
+- [Plus Share](#)
+- [WhatsApp](#)
+- [![Printer Friendly and PDF](http://www.jordantimes.com/sites/all/modules/printfriendly/images/pf-icon.gif)](# "Printer Friendly and PDF")
+
+- [Login](/ajax_register/login/nojs "Login")
+- [Create new account](/ajax_register/register/nojs "Create new account")
+
+[Read JT PDF Version](/read-pdf-list)
+
+## Search form
+
+Search
+
+- 
+
+- [Arabic Press](/sections/38)
+- [What's On](/static/whats)
+- [About Us](/static/about-us)
+- [Contact us](/form/contact-us)
+- [Advertise](/static/advertise)
+
+[![](/sites/all/themes/jtimes/images/jordan_times_logo.svg)](/ "Home")
+
+## Weather, Amman
+
+![](//openweathermap.org/img/w/50d.png)
+
+Today, October 22, 2023
+
+29 c^(°) / haze
+
+## M
+
+- [Home](/)
+- [Local](/news/local)
+- [Region](/news/region)
+- [World](/news/world)
+- [Business](/news/business)
+- [Sports](/news/sports)
+- [Features](/news/features)
+- [Opinion](/opinion)
+- [Letters](/news/letters)
+- [Biz Club](/sections/36)
+
+[](https://www.facebook.com/thejordantimes) [](https://twitter.com/jordantimes) [](https://www.youtube.com/thejordantimes) [](https://play.google.com/store/apps/details?id=dot.jo.jordantimes&hl=en) [](https://itunes.apple.com/jo/app/jordan-times/id669486537?mt=8)
+
+## You are here
+
+[Home](/) » [Local](/news/local) » Egyptian labourers wither under weight of  ‘work permit trade’
+
+# Egyptian labourers wither under weight of  ‘work permit trade’
+
+Sponsorship or ‘kafala’ system places significant amount of power in hands of employers of foreign workers, say activists
+
+By Mays Ibrahim Mustafa - Oct 16,2023 - Last updated at Oct 16,2023
+
+![](https://jordantimes.com/sites/default/files/styles/news_inner/public/3-Mays-Labour-1.png?itok=qP4fxAEo)
+
+Day labourers wait for employers in Amman in this recent photo (Photo by Mays Ibrahim Mustafa)
+
+AMMAN — It is five o’clock in the morning, scores of Egyptian day labourers begin to fill a well-known pick-up spot near the Sweileh circle. Among them is Mustafa, he stands ready with his tools in one hand and his cigarette in the other, letting out smoke into the pitch-black morning as he waits for an employer to roll by and hire him, for any job.
+
+An hour later, a pickup truck stops nearby looking for hires, and at least 15 workers are seen gathering around it, ready to strike quick deals in hopes of landing a job that suffices their daily bread, and maybe leaves them enough to send to their families back in Egypt. However, many go home empty-handed. 
+
+These workers are hired to perform a variety of jobs in exchange for a daily wage, such as laying concrete, removing leftover construction materials, painting a kitchen, or repairing a leak. 
+
+“It’s tough; over the past two months, I haven’t been able to send my family, who I came here for, any money due to the scarcity of jobs,” said Mustafa, who’s the main provider for his three daughters, wife, parents and two sisters. 
+
+Mustafa had contemplated going back to Egypt; “but the situation is much worse there. My livelihood is here; with the currency difference, I can send my family around 5,000 Egyptian pounds a month when work is good”. 
+
+The 35-year-old lives in a studio apartment in Amman, with 10 other Egyptian workers who share the rent cost, each paying JD20 per month. Most Egyptian labourers in Jordan opt for this lifestyle in order to save as much money as possible.
+
+“I only worked for four days in September,” Kareem, another day labourer, says as he waits patiently for a job that might never come. 
+
+The goal is to get JD20 to JD30 for a day’s work, but Kareem recalls times when he was not paid at all after completing the job. The majority of these foreign day-labourers have permits in sectors they don’t work in or don’t have permits at all. This illegal status can make them more vulnerable to exploitation.
+
+Kareem came to Jordan in 2013 after purchasing a work permit in the construction sector from a broker, known as a “simsar” in Arabic, for JD900 and he currently bears the cost of renewing it every year for JD1,200. 
+
+This illegal exchange is part of a widespread phenomenon known as “work permit trade”. The trade is facilitated through brokers, who sell Egyptians employer-specific work permits in order to be able to come work in Jordan for prices that can reach up to JD3,000.
+
+In 2022, the cost of an employer-specific work permit for foreign labour was reduced from JD400 to JD350 in all sectors, except the garment sector, for which permit fees were increased from JD175 to JD225. 
+
+These sums are to be paid by employers of foreign labour to the Ministry of Labour. The Jordanian law prohibits recruitment agencies and employers of foreign workers from charging them any recruitment fees. 
+
+When workers get their permits through “brokers” and arrive in Jordan, they end up looking for a job on their own, which is illegal. The Jordan Times spoke with a number of Egyptians, who underwent this process to come work in Jordan. Many said that they were led to believe that the permit allows them to work wherever they want. 
+
+However, not working for their declared employer (sponsor) or in their designated sector on the work permit constitutes grounds for deportation.
+
+ 
+
+‘Work permit trade’ traps foreign labour in modern-day slavery  
+
+ 
+
+Many Egyptian workers in Jordan are buried with debt just to afford the cost of their work permits, forcing them to use most of their earnings in order to pay back the money they borrowed.
+
+Mohammad, 33, came to Jordan in October 2021, after purchasing a contract in construction from a “broker” for JD3,100. He currently works illegally for a dry-cleaner. 
+
+He spent over 10 months paying the cost of the work permit for the broker, who kept Mohammed’s passport to ensure he repays him. 
+
+Article 23/2 of the Jordanian Passport Law No. 2 of 1969 stipulates that whoever is found possessing a passport or travel document illegally shall be punished with imprisonment for no less than six months and no more than three years, a fine equal to no less than JD500 and no more than JD1,000, or both. 
+
+“My salary is JD400. I give an intermediary JD300 every month, send my family the rest and borrow money from friends or do other work on the side to afford living here,” he told The Jordan Times. 
+
+Twenty-four-year-old Saeed purchased a work permit in construction to come work in Jordan in May 2022, paying JD2,600. He claimed that he never met his employer. An intermediary handed him the work permit and said that he will have to find work on his own. 
+
+“The permit has expired, and I still haven’t paid back the money I borrowed to get it,” he said, noting that it is hard to land a “good” job without a permit, as most employers don’t want to risk being fined.
+
+If a non-Jordanian worker is caught working without a permit or with a permit that has expired over three months ago, or working for someone other than his or her declared employer, the worker is deported and prevented from re-entering Jordan for a period of five years. Both the current employer and the employer designated on the permit are fined no less than JD800, according to a statement sent to The Jordan Times by the Ministry of Labour.
+
+Saeed, a father of a newborn baby he is yet to meet, has chosen to remain illegally in Jordan after his work permit has ended in order to be able to afford paying back his debt. He currently works at an on-the-road coffee kiosk in return for a daily wage of JD11. 
+
+“I work anything for any amount of money, but I am scared all the time; I risk being caught and deported every time I leave the apartment,” he said. 
+
+ 
+
+Power imbalances in ‘kafala’ system 
+
+ 
+
+Director of the Phenix Centre for Economics and Informatics Studies (PCEIS) Ahmad Awad noted that the sponsorship or “kafala” system places a significant amount of power in the hands of employers of foreign workers, increasing their vulnerability to exploitation and trafficking by preventing them from changing their designated employer without acquiring a letter of release from that same employer. 
+
+Jordan ratified two International Labour Organization (ILO) conventions central to combating forced labour, including the Forced Labour Conventions No. 29 of 1930 and the Abolition of Forced Labour Convention No. 105 of 1957. Moreover, Jordan’s 2009 Law on the Prevention of Trafficking in Human Beings also criminalises forced labour.  
+
+Jordan also ratified the International Covenant on Economic, Social and Cultural Rights (1966), which recognises the right to “just and favourable” working conditions. However, it has not ratified the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families (1990).
+
+Zaki, a father of six, came to Jordan with a permit in construction and worked for his designated sponsor for seven years. The 32-year-old received a salary of JD300 per month, and paid his sponsor JD700 per year to renew his permit, which cost JD400 at the time. 
+
+“I worked like a slave, sometimes for 16 hours a day,” he told The Jordan Times, alleging that he was exposed to constant “verbal” abuse from his employer. Zaki also said that when he tried to leave his job and find another employer, his sponsor refused to give him a letter of release. 
+
+“I felt like he owned me; I couldn’t step foot outside the country to visit my family without his blessing,” he said. 
+
+The “kafala” system ties a foreign worker’s immigration and legal residency status to an individual sponsor, thus a worker cannot leave the country without written permission from his sponsor. Some Egyptian workers interviewed by The Jordan Times said that their sponsors asked for money in return for giving them release letters or time off.
+
+The spokesperson for the Ministry of Labour Mohammed Zyoud told The Jordan Times that the main purpose of the sponsorship system is to regulate the labour market, ensuring that imported foreign labour work under the provisions of the labour law at the sectors they were hired for. 
+
+The sponsorship system has been deployed to hire foreign labour in Jordan for over 50 years, which up until today remains “largely unregulated”; this indicates that this system has been ineffective, Awad argued in an interview with The Jordan Times.
+
+The construction worker Zaki was only able to switch employers when the Ministry of Labour announced a period for the legalisation and regularisation of the status of non-Jordanian workers in 2021. 
+
+This period allowed a foreign worker to transfer to a new employer without obtaining a clearance from the previous employer upon the expiration or cancellation of the work. It also exempted non-Jordanian workers from fines related to overstaying their annual work visas while exempting employers of foreign labour from all owed fines and fees.
+
+The most recent legalisation and regularisation period for foreign labour was between February and May 2023. Zyoud explained that it applied only to workers who entered Jordan before 2021 and didn’t include workers in agriculture, to “ensure the availability of labour in that sector”. That period also didn’t offer exemptions from fines or previous fees.
+
+There are currently 269,274 valid work permits for non-Jordanians, of which 124,974 are for Egyptian workers, mainly in sectors of agriculture, construction, as well as loading and unloading. The majority of violations registered by the Ministry of Labour in sectors of agriculture and construction are related to employing foreign labour with an expired work permit, or no permit at all, according to Zyoud.
+
+ 
+
+Agriculture and construction sectors, ‘largely unorganised’
+
+ 
+
+Zaki, who did not receive health insurance or a social security subscription, recounted enduring a work injury with his first sponsor on a construction site. “A glass pane fell on my hand, almost costing me two fingers, and I had to go back to Egypt to receive treatment, because I couldn’t afford it in Jordan,” he said. 
+
+Most workers in construction and agriculture work are day-labourers, who do not enjoy health insurance, social security benefits, vacation days, or health and safety standards at the workplace, according to Awad. 
+
+Jordanian NGO Tamkeen for Legal Aid and Human Rights has received 91 complaints from Egyptian workers in Jordan between January 2022 and September 2023, specifically the complaints were from construction (37) and agricultural workers (23), respectively. 
+
+Tamkeen’s report, made available to The Jordan Times, showed that the registered complaints were related to unpaid wages (46), social security subscriptions (29), unpaid overtime work (28), wrongful dismissal from work (20), and the confiscation of personal documents (18). There were also a number of complaints from workers who suffered insults, defamation, physical abuse, and work injuries. 
+
+Yaser entered Jordan in 2018 through a work permit in agriculture. He works for his designated employer at a farm at the Jordan Valley, some 80 kilometres from the capital, Amman. He is paid JD250 per month and his employer deducts the annual fees for his permit from his salary. 
+
+Yasser wakes up every day at 5am in a modest room with one bathroom, where he lives with six other workers, each with a designated corner to sleep in. His work at the farm begins at 6am. 
+
+Yasser is allowed to enjoy a 15-minute breakfast break at around 9am. Then he heads back to work until 12 noon. After an hour-long break, he continues to work until sunset hours. He noted that his daily work hours sometimes exceed 12 hours. 
+
+Yasser does not have health insurance or social security benefits. He also is not provided with any protective clothing or specialised safety equipment, such as gloves, boots or a hat. Work at the Jordan Valley is particularly tiring due to its climate, as day temperatures can reach as high as 45°C. 
+
+The 46-year-old views that his employer is “fair”. “I only had to pay the value of the permit determined by the ministry, and he gives me my vacation days without asking for any money in return,” he said, comparing his situation with fellow Egyptian workers.
+
+“The agricultural sector employs an estimated 1.3 billion workers worldwide, that is half of the world’s labour force. In terms of fatalities, injuries and work-related ill-health, it is one of the three most hazardous sectors of activity (along with construction and mining),” according to the ILO, which estimates that at least 170,000 agricultural workers are fatally injured each year. 
+
+In an interview with The Jordan Times last August, President of the General Association for Workers in Agriculture, Water and Food Industries, Bushra Salman, said that four Egyptian agricultural workers who were forced to work at 2pm at the Jordan Valley suffered from heat strokes during a heat wave impacting the Kingdom.
+
+These workers were transported to the hospital and received treatment at their own expense since they lacked health insurance or social security coverage.
+
+In an attempt to regulate the agricultural sector, the Ministry of Labour issued the Agricultural Workers Regulation No.19 of 2021, consisting of 17 articles that preserve the rights of workers in the sector without discrimination and ensure their coverage under the social insurance per the Social Security Law in place. The regulation was applied after its publication in the Official Gazette on May 2.
+
+Article 15 of the bylaw excludes agricultural workers whose employers retain three workers or less from a number of labour rights contained in the provisions of the law, related to work hours, overtime pay, vacation days as well as official holidays and paid sick days.
+
+Rate
+
+[up](/news/local/egyptian-labourers-wither-under-weight-%C2%A0-%E2%80%98work-permit-trade%E2%80%99?rate=8uyiCqK2-GtlRcCgEiphWsowEcInvk2UnHimByaN78k "up")
+
+25 users have voted, including you.
+
+- [![Printer Friendly and PDF](https://jordantimes.com/sites/all/modules/lazyloader/image_placeholder.gif)](http://www.printfriendly.com/print?url=https%3A//jordantimes.com/news/local/egyptian-labourers-wither-under-weight-%25C2%25A0-%25E2%2580%2598work-permit-trade%25E2%2580%2599 "Printer Friendly and PDF")
+
+## Related Articles
+
+\
+
+## Opinion
+
+Editorial
+
+[No place is safe in Gaza](/opinion/editorial/no-place-safe-gaza)
+
+Saturday 14 October 2023
+
+[![](https://jordantimes.com/sites/default/files/styles/thumbnail/public/avatar.png?itok=n3EdaoF2)](/opinion/shehab-al-makahleh/palestinian-israeli-conflict-%E2%80%94-stark-reality-check)
+
+[The Palestinian-Israeli conflict — a stark reality check](/opinion/shehab-al-makahleh/palestinian-israeli-conflict-%E2%80%94-stark-reality-check)
+
+Oct 21, 2023
+
+[![](https://jordantimes.com/sites/default/files/styles/thumbnail/public/avatar.png?itok=n3EdaoF2)](/opinion/wafa-abu-khadra/double-standards-unveiled)
+
+[Double standards unveiled](/opinion/wafa-abu-khadra/double-standards-unveiled)
+
+Oct 21, 2023
+
+[![](https://jordantimes.com/sites/default/files/styles/thumbnail/public/Bio_Ayoub-Abu-Dayyeh.png?itok=KlaBl6tz)](/opinion/ayoub-abu-dayyeh/negative-impact-mining)
+
+[The negative impact of mining](/opinion/ayoub-abu-dayyeh/negative-impact-mining)
+
+Oct 21, 2023
+
+[![](https://jordantimes.com/sites/default/files/styles/thumbnail/public/avatar.png?itok=n3EdaoF2)](/opinion/joshua-castellino/roots-global-water-crisis)
+
+[The roots of the global water crisis](/opinion/joshua-castellino/roots-global-water-crisis)
+
+Oct 19, 2023
+
+- Popular
+- Rated
+- Commented
+
+[The negative impact of mining](/opinion/ayoub-abu-dayyeh/negative-impact-mining)
+
+Oct 21, 2023
+
+[The Palestinian-Israeli conflict — a stark reality check](/opinion/shehab-al-makahleh/palestinian-israeli-conflict-%E2%80%94-stark-reality-check)
+
+Oct 21, 2023
+
+[Double standards unveiled](/opinion/wafa-abu-khadra/double-standards-unveiled)
+
+Oct 21, 2023
+
+[The roots of the global water crisis](/opinion/joshua-castellino/roots-global-water-crisis)
+
+Oct 19, 2023
+
+[![](https://jordantimes.com/sites/default/files/styles/section_left_col/public/2-JMA.png?itok=zu914Cf9)](/news/local/jma-says-field-hospital-gaza-works-healthcare-system-verge-collapse)
+
+[JMA says field hospital for Gaza in the works as healthcare system on verge of collapse](/news/local/jma-says-field-hospital-gaza-works-healthcare-system-verge-collapse)
+
+Oct 22, 2023
+
+[![](https://jordantimes.com/sites/default/files/styles/section_left_col/public/13-doctors.png?itok=2q49kqpK)](/news/local/jordanian-american-physicians-association-raises-1-million-12-hours-gaza)
+
+[Jordanian American Physicians Association raises \$1 million in 12 hours for Gaza](/news/local/jordanian-american-physicians-association-raises-1-million-12-hours-gaza)
+
+Oct 22, 2023
+
+[![](https://jordantimes.com/sites/default/files/styles/section_left_col/public/2gaza_1.png?itok=fVjJpTmX)](/news/region/first-20-aid-trucks-enter-besieged%C2%A0gaza%C2%A0-egypt)
+
+[First of 20 aid trucks enter besieged Gaza from Egypt](/news/region/first-20-aid-trucks-enter-besieged%C2%A0gaza%C2%A0-egypt)
+
+Oct 22, 2023
+
+[![](https://jordantimes.com/sites/default/files/styles/section_left_col/public/UK_40.png?itok=iKNAiq2q)](/news/world/storm%C2%A0babet%C2%A0triggers-flooding-power-cuts-northern-europe)
+
+[Storm Babet triggers flooding, power cuts in northern Europe](/news/world/storm%C2%A0babet%C2%A0triggers-flooding-power-cuts-northern-europe)
+
+Oct 21, 2023
+
+## Newsletter
+
+Get top stories and blog posts emailed to you each day.
+
+E-mail \*
+
+## Videos
+
+[](/news/business-club/china-matters%E2%80%99-features-reviving-chinese-legend-middle-east-readers)
+
+![](/sites/all/modules/lazyloader/image_placeholder.gif)
+
+[China Matters’ Features: Reviving Chinese Legend for Middle East Readers](/news/business-club/china-matters%E2%80%99-features-reviving-chinese-legend-middle-east-readers)
+
+[](/news/local/water-situation-critical-jordan)
+
+![](/sites/all/modules/lazyloader/image_placeholder.gif)
+
+[Water situation critical in Jordan](/news/local/water-situation-critical-jordan)
+
+[](/news/local/100-glorious-years)
+
+![](/sites/all/modules/lazyloader/image_placeholder.gif)
+
+[100 Glorious Years](/news/local/100-glorious-years)
+
+[](/news/local/royal-guards)
+
+![](/sites/all/modules/lazyloader/image_placeholder.gif)
+
+[The Royal Guards](/news/local/royal-guards)
+
+[](/news/local/royal-highlights-2020)
+
+![](/sites/all/modules/lazyloader/image_placeholder.gif)
+
+[Royal highlights of 2020](/news/local/royal-highlights-2020)
+
+[](/news/local/royal-visit)
+
+![](/sites/all/modules/lazyloader/image_placeholder.gif)
+
+[Royal Visit](/news/local/royal-visit)
+
+## The Jordan Times
+
+The Jordan Times is an independent English-language daily published by the Jordan Press Foundationsince October 26, 1975. The Jordan Press Foundation is a shareholding company listed on the Amman Stock Exchange.
+
+## Pages
+
+- [About us](/static/about-us)
+- [Contact Us](/form/contact-us)
+- [Advertise](/static/advertise)
+- [What's On](/static/whats)
+
+## Sections
+
+- [Local](/news/local)
+- [Region](/news/region)
+- [World](/news/world)
+- [Business](/news/business)
+- [2015](http://144.76.118.231/news/2015)
+
+## Sections2
+
+- [Sports](/news/sports)
+- [Features](/news/features)
+- [Opinion](/opinion)
+- [Letters](/news/letters)
+
+## Contact us
+
+To send your articles , please do email : [\[email protected\]](/cdn-cgi/l/email-protection#88edece1fce7fac8e2e7faece9e6fce1e5edfba6ebe7e5)
+
+call us : +962 6 5600-800
+
+ext. 2392
+
+[](https://www.facebook.com/thejordantimes) [](https://twitter.com/jordantimes) [](https://www.youtube.com/thejordantimes) [](https://play.google.com/store/apps/details?id=dot.jo.jordantimes&hl=en) [](https://itunes.apple.com/jo/app/jordan-times/id669486537?mt=8)
+
+Copyright © 2023 The Jordan News. All Rights Reserved.Powered By: [AccuSolutions](http://www.accusolutions.net "AccuSolutions Amman Jordan Web Design and Mobile Applicaiton Development") [Web Development & Mobile Applications](http://www.accusolutions.net "AccuSolutions Amman Jordan Web Design and Mobile Applicaiton Development")
+
+[![PDF](https://jordantimes.com/sites/default/files/styles/pdf_icon/public/PDF_Img/jt_a6d4505071a0318b0ee595df068c2841_0.jpg?itok=vbcEtzKg)](/read-pdf/370587)
