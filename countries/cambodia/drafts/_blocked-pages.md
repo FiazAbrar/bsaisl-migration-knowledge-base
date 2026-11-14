@@ -2,11 +2,13 @@
 
 Save every file into `countries/cambodia/manual/` (NOT `sources/`). Keep the real extension: PDF, "Save page as" HTML, or a dated screenshot (PNG). Skip anything you can't get and tell me which. Pages that need a CAPTCHA or bot check (evisa.gov.kh) are fine for you to open as a normal visitor.
 
+Retrieved by me in your Chrome (11 Nov, evening): the Embassy of Bangladesh Bangkok's Facebook notice of 17 April 2026 (Phnom Penh consular camp, Travel Pass and waiver applications); two Honorary Consulate of Bangladesh in Cambodia Facebook posts of 5 May 2026 (waiver completed for 1,500-1,600; contacts); the Rising BD story (Cambodia IS on the Ministry's 4 November list); MFAIC's visa exemption matrix of 20 October 2026 (no exemption for ordinary Bangladeshi passports) and its fee table (e-visa USD 36, tourist USD 30, business USD 35). Still not found anywhere: whether the waiver was extended after 31 October 2026; a GDI fee table; the MLVT fee order; the salary-tax page (tax.gov.kh shows an empty article); Business & Human Rights and Phnom Penh Post pages (the browser extension is not allowed on those sites).
+
 ## Priority 1: decides what stranded workers do now
 
 1. **The 2026 overstay-fine waiver**: did it end on 31 October 2026 or was it extended? Look on the GDI's Facebook page (https://www.facebook.com/GDIOfficial, posts May to November 2026) and the Bangladesh Embassy Bangkok's Facebook page (posts on Cambodia waiver registration, June and September 2026) → screenshots `gdi-kh-overstay-waiver-2026-<yyyy-mm-dd>.png`, `bdemb-bangkok-fb-cambodia-waiver-<yyyy-mm-dd>.png`
-2. **Ministry of Expatriates' Welfare letter of 4 November 2026** on the 12 countries that need its approval before BMET clearance (is Cambodia on it?): probashi.gov.bd notices or BMET's notice board → `probashi-12-countries-approval-2026-11-04.pdf`. Or the Rising BD story https://www.risingbd.com/national/news/669509 → `news-risingbd-12-countries-clearance.html`
-3. **Visa on arrival for Bangladeshis**: https://www.mfaic.gov.kh/page/visa-on-arrival (which nationalities can't get one) → `mfaic-kh-visa-on-arrival.html`; and the e-visa site https://www.evisa.gov.kh: screenshot the nationality list showing whether Bangladesh can choose a tourist (T) visa, plus the fee page → `evisa-kh-tourist-bangladesh.png`, `evisa-kh-fees.png`
+2. (Partly done: Rising BD lists Cambodia.) **Ministry of Expatriates' Welfare letter of 4 November 2026** on the 12 countries that need its approval before BMET clearance (is Cambodia on it?): probashi.gov.bd notices or BMET's notice board → `probashi-12-countries-approval-2026-11-04.pdf`. Or the Rising BD story https://www.risingbd.com/national/news/669509 → `news-risingbd-12-countries-clearance.html`
+3. (Partly done: no visa exemption for ordinary passports; visa on arrival still unclear.) **Visa on arrival for Bangladeshis**: https://www.mfaic.gov.kh/page/visa-on-arrival (which nationalities can't get one) → `mfaic-kh-visa-on-arrival.html`; and the e-visa site https://www.evisa.gov.kh: screenshot the nationality list showing whether Bangladesh can choose a tourist (T) visa, plus the fee page → `evisa-kh-tourist-bangladesh.png`, `evisa-kh-fees.png`
 
 ## Priority 2: official fees
 
@@ -16,8 +18,8 @@ Save every file into `countries/cambodia/manual/` (NOT `sources/`). Keep the rea
 
 ## Priority 3: Bangladesh side and cases
 
-7. **Bangladesh Embassy Bangkok press release** on the four bodies repatriated from Cambodia (Bangla, "বাংলাদেশ দূতাবাস ব্যাংককের উদ্যোগে কম্বোডিয়ায় মৃত্যুবরণকারী ৪ ...") from https://bangkok.mofa.gov.bd/pages/press-releases → `bdemb-bangkok-cambodia-bodies-repatriated.html`
-8. **The Embassy's urgent notice of 29 July 2025** to Bangladeshis in Cambodia (same press-releases page) → `bdemb-bangkok-cambodia-urgent-notice-2025-07.pdf`
+7. **Bangladesh Embassy Bangkok press release** (not on the press-release page any more) on the four bodies repatriated from Cambodia (Bangla, "বাংলাদেশ দূতাবাস ব্যাংককের উদ্যোগে কম্বোডিয়ায় মৃত্যুবরণকারী ৪ ...") from https://bangkok.mofa.gov.bd/pages/press-releases → `bdemb-bangkok-cambodia-bodies-repatriated.html`
+8. (Done: already logged.) **The Embassy's urgent notice of 29 July 2025** to Bangladeshis in Cambodia (same press-releases page) → `bdemb-bangkok-cambodia-urgent-notice-2025-07.pdf`
 9. **BRAC Migration study on Cambodia returnees (2026)**: the report PDF behind the "98% found no job, 90% forced into scams" figures → `brac-cambodia-returnee-study-2026.pdf`
 10. **Business & Human Rights Resource Centre (2020)**, 100+ Bangladeshis in forced labour on a construction site: https://www.business-humanrights.org/en/cambodia-bangladesh-an-investigative-report-reveals-that-over-100-bangladeshi-workers-works-under-forced-labour-conditions-in-a-construction-sector-in-cambodia → `ngo-bhrrc-kh-construction-forced-labour-2020.html`
 11. **Phnom Penh Post**, Bangladeshis detained in Banteay Meanchey: https://www.phnompenhpost.com/national/bangladeshis-detained-banteay-meanchey → `news-ppp-bangladeshis-detained-banteay-meanchey.html`
