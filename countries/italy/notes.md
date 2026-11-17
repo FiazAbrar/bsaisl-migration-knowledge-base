@@ -310,3 +310,5 @@ Still blocked: interno.gov.it ("Access Denied" even in your Chrome), VFS ("40320
 - 162 facts logged from the team's second batch (Q 4, QA 56, QB 58, QC 44); 85 edits applied to doc.md; the Milan Consulate certificates were made a list.
 - Independent check of the changed lines: round 1 (4 verifiers, 91 lines) 20 failures, round 2 7, round 3 2, round 4 2, round 5 0.
 - 29 cross-references to "Work visa: Decreto Flussi worker (non-seasonal)", Step N are written with the section name in quotes: build.py's prefix regex rejects a name ending in ")", so unquoted ones linked to the citing section's own Step N (6 were wrong). A fix in tools/build.py would help every country.
+
+- 2026-11-17, insurance start date conflict: WEWB notice (ZZ0001, Jan 2026) says cover is for workers going from 1 January 2023; BMET's safe-migration leaflet (B0131, undated) says from 12 March 2023 (the date the JBC contract was signed; the JBC leaflet says the contract is effective from 1 January 2023). The doc follows the newer WEWB notice and asks the question as a Need to know.

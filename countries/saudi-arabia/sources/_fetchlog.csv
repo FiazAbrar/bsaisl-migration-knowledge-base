@@ -621,3 +621,7 @@ sg-house-worker-levy-2023,https://saudigazette.com.sa/article/632275,2026-11-08,
 argaam-dw-levy-over4-FAILED,https://www.argaam.com/en/article/articledetail/id/1541471,2026-11-08,202,text/html; charset=UTF-8,curl,
 palo-visa-expired-350-crore-FAILED,https://www.prothomalo.com/bangladesh/কর্মীর-ঘাড়ে-৩৫০-কোটি-টাকার-বোঝা,2026-11-08,000,,curl,
 palo-visa-expired-350-crore-FAILED,https://www.prothomalo.com/bangladesh/%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80%E0%A6%B0-%E0%A6%98%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A7%87-%E0%A7%A9%E0%A7%AB%E0%A7%A6-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%9D%E0%A6%BE,2026-11-08,000,,curl,
+wewb-insurance-image-2026-01,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-wewb/2026/1/765079f5-04a8-4db9-ad33-031a1ba2d2eb.jpg,2026-11-07,200,,curl,wewb-insurance-image-2026-01.html;wewb-insurance-image-2026-01.jpg;wewb-insurance-image-2026-01.md
+nlaso-helpline-16699,https://nlaso.gov.bd/pages/static-pages/69ca4e8234fc363bf320ca55,2026-11-09,200,,manual,nlaso-helpline-16699.html;nlaso-helpline-16699.md;nlaso-helpline-16699.txt
+nlaso-home,https://nlaso.gov.bd/,2026-11-07,200,text/html; charset=utf-8,curl,nlaso-home.html;nlaso-home.md
+wewb-membership,https://wewb.gov.bd/pages/static-pages/6922decd933eb65569e1d77d,2026-11-06,200,text/html; charset=utf-8,curl,wewb-membership.html;wewb-membership.md

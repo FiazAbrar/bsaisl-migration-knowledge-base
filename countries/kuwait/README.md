@@ -298,7 +298,7 @@ The Bangladesh Embassy's Labour Wing checks the salary in the work permit agains
 
 - **The arrest:** Kuwait's Criminal Investigation Department arrested Mohammad Shahid Islam "Kazi" Papul, then a Bangladeshi MP, on 6 June 2020 on charges of human trafficking, money laundering and bribing officials, for bringing workers to Kuwait through a cleaning company he managed <sup>[N47 (2024)](#n47), [N48 (2020)](#n48), [N49 (2021)](#n49), [N50 (2020)](#n50)</sup>.
 - **The sentences:** the top appeals court gave him seven years, a fine reported as KD 2.7 million, and deportation in November 2021; an Interior Ministry undersecretary, a manpower director and the head of PAM were jailed in the same case <sup>[N49 (2021)](#n49), [N51 (2021)](#n51)</sup>.
-- **The Bangladesh side:** court sources said the agency Job Bank International (RL1183) sent people to Kuwait on Kazi Badrul's orders, to be received by Papul's company Marafie Kuwaitia, and the ring recruited through brokers across the country at Tk 5-7 lakh each; the agency is still listed Active on BMET's licence list, valid to 31 December 2031 <sup>[N52 (2020)](#n52), [29](#o29)</sup>.
+- **The Bangladesh side:** court sources said the agency Job Bank International (RL1183) sent people to Kuwait on orders from Papul's side, to be received by Papul's company Marafie Kuwaitia, and the ring recruited through brokers across the country at Tk 5-7 lakh each; the agency is still listed Active on BMET's licence list, valid to 31 December 2031 <sup>[N52 (2020)](#n52), [29](#o29)</sup>.
 
 > **Need to know**
 > - Has Job Bank International (RL1183) been charged, suspended or cleared in Bangladesh since 2020?
@@ -376,7 +376,7 @@ Workers already in Kuwait are not covered, and employers may pay more <sup>[N39]
 
 #### 1.4.6 What goes unpaid
 
-- **Paper employers:** about 10,000 small companies had not paid foreign workers for months in October 2026, and the Interior Minister set the 20th of each month as the payment deadline (see [If you aren't paid](#if-you-arent-paid)) <sup>[N2](#n2)</sup>.
+- **Paper employers:** about 10,000 small companies had not paid foreign workers for months in October 2026 (see [If you aren't paid](#if-you-arent-paid)) <sup>[N2](#n2)</sup>.
 - **Large contractors too:** in July 2019 about 4,000 mostly Asian workers of a Kuwait Oil Company contractor protested at four months' unpaid pay, and some had become illegal because the company had not renewed their residence <sup>[N53 (2019)](#n53)</sup>.
 - **No work at all:** a cleaner who went in 2018 sat eight months in the company barracks without work, borrowing for food <sup>[N35 (2023)](#n35)</sup>.
 
@@ -525,7 +525,7 @@ Article 18 is the work visa for company jobs in Kuwait's private sector ("Visa N
      - private-contract skilled jobs (AC and auto mechanic, barber, driver, waiter, mason, electrician, plumber, painter, steel fixer, welder, machine operator, tailor and others) KD 150; chef KD 250 <sup>[10](#o10)</sup>.
    - **A contract of at least 2 years.** Before attestation the company signs a certificate on a contract of at least 2 years, the wage scale and the workers' benefits <sup>[N65](#n65)</sup>.
 
-   **Check it is real:** a job offer below these minimums, or a contract shorter than 2 years, should not have passed the Embassy <sup>[N66](#n66), [N65](#n65), [9](#o9)</sup>. How to check the visa itself is in [Step 5: Medical check and checking your visa is real](#step-5-medical-check-and-checking-your-visa-is-real): Medical check and checking your visa is real <sup>[5](#o5)</sup>.
+   **Check it is real:** a job offer below these minimums, or a contract shorter than 2 years, should not have passed the Embassy <sup>[N66](#n66), [N65](#n65), [9](#o9)</sup>. How to check the visa itself is in [Step 5: Medical check and checking your visa is real](#step-5-medical-check-and-checking-your-visa-is-real) <sup>[5](#o5)</sup>.
 
 6. <a id="step-1-find-a-real-job-item-6"></a>**Know the cap, and pay late, by bank.** The Embassy says the government's maximum for Kuwait is Tk 1,06,780, and taking more is a punishable offence <sup>[N14](#n14)</sup>. Each permission letter sets its own, often lower, maximum: Tk 44,370 to Tk 1,05,000 in the 2024-2025 letters <sup>[15 (2024)](#o15), [30](#o30), [31](#o31)</sup>. The employer bears the Kuwait-side levy and airfare <sup>[15 (2024)](#o15)</sup>. Your own costs come on top: the passport ([Step 4, item 1: Get an e-passport](#step-4-passport-police-clearance-and-certificates-item-1)) and BMET's welfare fee, insurance, clearance fee and source tax ([Step 6, item 3: Get BMET clearance (the smart card)](#step-6-orientation-bmet-clearance-and-the-flight-item-3)) <sup>[48](#o48), [49](#o49), [46](#o46), [5](#o5)</sup>. The agency may take its money only once your visa and flight are confirmed, by cheque, bank draft or pay order into its bank account; keep the receipts <sup>[15 (2024)](#o15), [46](#o46)</sup>.
 
@@ -602,7 +602,7 @@ This happens in Kuwait, between the employer, PAM and MOI (the Ministry of Inter
    1. Register at [pcc.police.gov.bd](https://pcc.police.gov.bd/), log in and click "Apply" <sup>[59](#o59)</sup>.
    2. Fill in your personal details and your present and permanent addresses; police verify you at the present address <sup>[59](#o59)</sup>.
    3. Upload the scanned documents <sup>[59](#o59)</sup>.
-   4. Track it by SMS: "PCC S <reference>" to 26969; collect it with your passport or application copy, or send someone with an attested authorisation letter <sup>[59](#o59)</sup>.
+   4. Track it by SMS: "PCC S \<reference\>" to 26969; collect it with your passport or application copy, or send someone with an attested authorisation letter <sup>[59](#o59)</sup>.
 
    **If it fails:** helpdesk Sunday to Thursday, 9 am to 5 pm, 01320001824, 01320001825, help.pcc@police.gov.bd <sup>[59](#o59)</sup>.
 
@@ -654,7 +654,7 @@ This happens in Kuwait, between the employer, PAM and MOI (the Ministry of Inter
 ### 3.6 Step 6: Orientation, BMET clearance and the flight
 
 1. <a id="step-6-orientation-bmet-clearance-and-the-flight-item-1"></a>**Do the pre-departure orientation (PDO), 3 days.** It is compulsory, at one of 70 BMET institutes; pay against a money receipt (Tk 200 at Feni TTC; pay no more) <sup>[5](#o5), [65](#o65)</sup>. Download the certificate at training.oep.gov.bd/pdo-certificate: type your passport or NID number and the captcha <sup>[66](#o66)</sup>.
-2. <a id="step-6-orientation-bmet-clearance-and-the-flight-item-2"></a>**Check the contract once more** against [Step 2: The job offer and contract](#step-2-the-job-offer-and-contract): The job offer and contract <sup>[55 (2021)](#o55), [15 (2024)](#o15)</sup>.
+2. <a id="step-6-orientation-bmet-clearance-and-the-flight-item-2"></a>**Check the contract once more** against [Step 2: The job offer and contract](#step-2-the-job-offer-and-contract) <sup>[55 (2021)](#o55), [15 (2024)](#o15)</sup>.
 3. <a id="step-6-orientation-bmet-clearance-and-the-flight-item-3"></a>**Get BMET clearance (the smart card).** For a group visa the agency applies to BMET's emigration branch with the visa copy, the attested contract, your attested registration copy, a Tk 300 stamp undertaking, the pay order for the welfare fee and the source-tax challan; BMET clears within 3 working days of the visa <sup>[5](#o5)</sup>.
 
    Your costs:
@@ -745,7 +745,7 @@ You have two months from entry to finish the residence procedures below; otherwi
 
 - **The "free visa" (ফ্রি ভিসা, আজাদ ভিসা):** no such visa exists in Kuwait law; a ring in Bangladesh uses the word to sell visas for lakhs of taka, and workers find on arrival a visa tied to a sponsor with no guaranteed job <sup>[N59](#n59)</sup>. Bangladesh's ambassador met community groups in May 2025 to warn against it <sup>[N59](#n59)</sup>.
 - **The bought single visa:** an activist told bdnews24 (July 2025) that agents sell a single visa for up to KD 2,000 (about Tk 8 lakh), and workers who went in May and June 2025 paid Tk 6.5 to 7 lakh <sup>[N91](#n91)</sup>. The Embassy says buying or selling a visa is a crime for both giver and taker <sup>[N14](#n14)</sup>.
-- **The fake or unpaid visa:** the company says on arrival that the visa is fake or not fully paid, and demands money from the broker or sends the worker home (how to check is in [Step 5: Medical check and checking your visa is real](#step-5-medical-check-and-checking-your-visa-is-real): Medical check and checking your visa is real) <sup>[N34](#n34)</sup>.
+- **The fake or unpaid visa:** the company says on arrival that the visa is fake or not fully paid, and demands money from the broker or sends the worker home (how to check is in [Step 5: Medical check and checking your visa is real](#step-5-medical-check-and-checking-your-visa-is-real)) <sup>[N34](#n34)</sup>.
 - **The short contract:** an employer blacklisted by the Embassy was accused of bringing workers on 3- to 6-month contracts after taking Tk 3 to 4 lakh from each ([Step 1, item 3: Through a recruiting agency: find an agency with a Kuwait job order, then check its permission letter](#step-1-find-a-real-job-item-3)) <sup>[N65](#n65)</sup>.
 - **The processing overcharge:** the Kuwait-Embassy-authorised processing agencies in Dhaka were accused in early 2025 of taking USD 150-300 (Tk 17,000-35,000) per visa against an official fee of Tk 6,270 <sup>[N34](#n34)</sup>.
 - **The visit visa sold as a job:** brokers send people on tourist or visit visas with false job promises <sup>[70](#o70)</sup>. A visit visa holder may not work and must leave when the visit ends (see Visit visas (tourist, family, business)) <sup>[71](#o71)</sup>.
@@ -804,7 +804,7 @@ The Private Sector Labour Law (Law 6 of 2010) covers private-sector workers, who
 #### 3.9.3 Pay and deductions
 
 - **Minimum wage:** KD 75 a month in the private sector (PAM Decision 14 of 2017), for contracts and work permits made or renewed since then <sup>[N94 (2017)](#n94)</sup>. Since 1 August 2025 the Bangladesh Embassy in Kuwait also refuses to attest a new visa paying less than its own minimums for an 8-hour day: KD 90 for unskilled cleaners and general labourers, KD 120 for a driver on a government contract, and KD 150 for most skilled trades on a private contract (see [What the job pays](#what-the-job-pays)) <sup>[9](#o9), [10](#o10)</sup>.
-- **When:** at least once a month, and no more than seven days late <sup>[35](#o35)</sup>. PAM's Director General said in October 2026 that salaries must be paid before the 7th of the following month <sup>[N95](#n95)</sup>.
+- **When:** at least once a month, and no more than seven days late <sup>[35](#o35)</sup>.
 - **How:** into your own account at a bank in Kuwait; cash is allowed only in a new worker's first two months <sup>[35](#o35), [N95](#n95)</sup>. An employer that doesn't pay through the bank can be fined up to the total it owes and must still pay <sup>[35](#o35)</sup>. Since February 2026 PAM's monitoring system detects a short or missing salary deposit, suspends the company's file and sends you the reason and amount through the Sahel app (the government's app for residence and labour services) <sup>[N96](#n96), [N95](#n95)</sup>.
 - **Which salary counts:** regular allowances count as wage, and your dues are worked out on your last salary <sup>[35](#o35)</sup>.
 - **Deductions:** at most 10% of the wage to repay a loan from the employer, with no interest, and all debt deductions together at most 25% <sup>[35](#o35)</sup>. Penalty deductions may not exceed five days' wage a month, and you may be punished only after being told in writing and heard <sup>[35](#o35)</sup>.
@@ -813,6 +813,7 @@ The Private Sector Labour Law (Law 6 of 2010) covers private-sector workers, who
 
 > **Need to know**
 > - Has Kuwait raised the KD 75 private-sector minimum since 2017 (Law 6/2010 requires a review at least every five years) <sup>[35](#o35)</sup>?
+> - Which monthly pay deadline does PAM enforce: the 20th, announced by the Interior Minister in October 2026, or before the 7th of the following month, announced by PAM's Director General the same month <sup>[N2](#n2), [N95](#n95)</sup>?
 
 <a id="hours-rest-and-leave"></a>
 
@@ -906,8 +907,8 @@ You can stay as long as your employer keeps your work permit and residence valid
 Your residence (iqama) is recorded on your Civil ID card, issued by PACI (the Public Authority for Civil Information) <sup>[N1](#n1)</sup>. It is granted under your work permit, and you can't move it to another employer without PAM's permission (see [Changing employer or leaving](#changing-employer-or-leaving)) <sup>[N1](#n1)</sup>.
 
 1. <a id="your-residence-permit-item-1"></a>**Check your Civil ID shows your residence and its expiry date** <sup>[N1](#n1)</sup>.
-2. <a id="your-residence-permit-item-2"></a>**Check your fingerprints are enrolled** in Sahel (see [Step 7: After arrival](#step-7-after-arrival): After arrival, item 3) <sup>[N80](#n80)</sup>.
-3. <a id="your-residence-permit-item-3"></a>**If your residence expires or is cancelled,** call Residency Affairs on 25582960, 25582961, 97288200 or 97288211, or go to your governorate's Residency Affairs office, called Jawazat (see [Step 7: After arrival](#step-7-after-arrival): After arrival, item 7) <sup>[64](#o64), [69](#o69)</sup>.
+2. <a id="your-residence-permit-item-2"></a>**Check your fingerprints are enrolled** in Sahel (see [Step 7, item 3: Give your fingerprints](#step-7-after-arrival-item-3)) <sup>[N80](#n80)</sup>.
+3. <a id="your-residence-permit-item-3"></a>**If your residence expires or is cancelled,** call Residency Affairs on 25582960, 25582961, 97288200 or 97288211, or go to your governorate's Residency Affairs office, called Jawazat (see [Step 7, item 7: Know the Residency Affairs offices](#step-7-after-arrival-item-7)) <sup>[64](#o64), [69](#o69)</sup>.
 4. <a id="your-residence-permit-item-4"></a>**If you are trafficked or held against your will,** call MOI's Public Moral Protection and Anti-Human Trafficking department on 25589648, 25589655 or 25589696 <sup>[64](#o64)</sup>.
 
 > **Need to know**
@@ -1564,7 +1565,7 @@ Each family member must finish these within two months of arrival <sup>[79](#o79
 
 - The family's residence is tied to its purpose and ends when your own job-based residence ends <sup>[79](#o79)</sup>.
 - Renewal needs the form signed by you, 2 photos, your Civil ID copy, the original passport, the health insurance certificate, a recent attested school certificate for children over 20, and a copy of the wife's valid residence for the children <sup>[90](#o90), [96](#o96)</sup>.
-- If your salary falls below KD 800 the family can be ordered home (see Family visa (dependants), [Step 4: Apply in Kuwait](#step-4-apply-in-kuwait): Apply in Kuwait) <sup>[N160](#n160)</sup>.
+- If your salary falls below KD 800 the family can be ordered home (see Family visa (dependants), [Step 4: Apply in Kuwait](#step-4-apply-in-kuwait)) <sup>[N160](#n160)</sup>.
 - A family member who stays outside Kuwait more than six months loses the residence unless an absence permit is bought, at KD 5 a month (see [How long you can stay](#how-long-you-can-stay)) <sup>[79](#o79)</sup>.
 
 > **Need to know**
@@ -1671,7 +1672,7 @@ You'll need:
 - that document in Arabic, or translated into Arabic by an authorised translation office <sup>[N170](#n170), [N171](#n171)</sup>;
 - a colour face photo, under 12 months old, 40 mm high by 30 mm wide, on a plain white or light grey background, as a JPEG file under 2 MB <sup>[36](#o36)</sup>.
 
-For attesting Bangladeshi birth and marriage certificates, see [Step 2: The family in Bangladesh sends the papers](#step-2-the-family-in-bangladesh-sends-the-papers): Attest the marriage and birth certificates in Bangladesh <sup>[94](#o94)</sup>.
+For attesting Bangladeshi birth and marriage certificates, see [Step 2: Attest the marriage and birth certificates in Bangladesh](#step-2-attest-the-marriage-and-birth-certificates-in-bangladesh) <sup>[94](#o94)</sup>.
 
 > **Need to know**
 > - Does the family visit application need the Bangladeshi birth or marriage certificate attested (MOFA in Dhaka, Kuwait Embassy in Dhaka), or only an Arabic translation done in Kuwait?
@@ -1725,7 +1726,7 @@ You'll need <sup>[36](#o36)</sup>:
 - for GCC residents, a copy of the GCC residence permit, showing the profession <sup>[36](#o36), [N171](#n171)</sup>;
 - a confirmed travel ticket <sup>[36](#o36)</sup>;
 - a hotel reservation <sup>[36](#o36)</sup>;
-- a recent face photo (rules in Family visit visa, [Step 2: The family in Bangladesh sends the papers](#step-2-the-family-in-bangladesh-sends-the-papers): The family in Bangladesh sends the papers) <sup>[36](#o36)</sup>.
+- a recent face photo (rules in Family visit visa, [Step 2: The family in Bangladesh sends the papers](#step-2-the-family-in-bangladesh-sends-the-papers)) <sup>[36](#o36)</sup>.
 
 1. <a id="tourist-visa-item-1"></a>**Register on kuwaitvisa.moi.gov.kw** and activate the account by email <sup>[36](#o36)</sup>.
 2. <a id="tourist-visa-item-2"></a>**Choose "Tourist", select your nationality and say which visa or residence permit you hold;** if the portal says you are not eligible, you cannot apply online <sup>[36](#o36), [14](#o14)</sup>.
@@ -1882,7 +1883,7 @@ A baby born in Kuwait needs four things, in this order: a Kuwaiti birth certific
 
 ### 13.1 Step 1: Get the Kuwaiti birth certificate
 
-You'll need: the marriage certificate, attested and translated into Arabic (see [Step 2: Register the birth with the Bangladesh Embassy](#step-2-register-the-birth-with-the-bangladesh-embassy): Attest the marriage and birth certificates in Bangladesh) <sup>[N127](#n127)</sup>.
+You'll need: the marriage certificate, attested and translated into Arabic (see [Step 2: Attest the marriage and birth certificates in Bangladesh](#step-2-attest-the-marriage-and-birth-certificates-in-bangladesh)) <sup>[N127](#n127)</sup>.
 
 1. <a id="step-1-get-the-kuwaiti-birth-certificate-item-1"></a>**Register the birth at the Ministry of Health** and get the birth certificate <sup>[N127](#n127)</sup>.
 2. <a id="step-1-get-the-kuwaiti-birth-certificate-item-2"></a>**Have it attested by Kuwait's Ministry of Foreign Affairs** <sup>[N127](#n127), [95](#o95)</sup>.
@@ -1941,7 +1942,7 @@ Fees for a 48-page passport <sup>[101](#o101)</sup>:
 
 Under Article 57 of the Private Sector Labour Law (Law 6/2010), an employer with five or more workers must pay wages into each worker's bank account and send proof to PAM (the Public Authority for Manpower, Kuwait's labour authority) <sup>[N86](#n86)</sup>. PAM checks salary transfers every month; a company that pays late can have its PAM file suspended, which stops it hiring until it pays or enters the legal reason for any unpaid salary in PAM's Ashal system (its online portal for employers), and the suspension lifts automatically once it pays <sup>[N86](#n86), [N185](#n185)</sup>. A suspended file does not stop existing workers renewing their permits or transferring to another employer <sup>[N185](#n185)</sup>. Since 28 September 2026 the CBK's Kuwait Wage Payment System (KWPS) carries private-sector wage transfers through local banks, and PAM uses it to watch employers in real time and catch unpaid wages early <sup>[105](#o105)</sup>.
 
-Since January 2025 the CBK has told banks to open accounts for every customer, including low-paid, craft and domestic workers, and not to refuse anyone for a low salary; banks must open these "worker accounts" on request but do not advertise them (Work visa: private-sector worker (Article 18), [Step 7: After arrival](#step-7-after-arrival): After arrival) <sup>[N186](#n186)</sup>.
+Since January 2025 the CBK has told banks to open accounts for every customer, including low-paid, craft and domestic workers, and not to refuse anyone for a low salary; banks must open these "worker accounts" on request but do not advertise them (Work visa: private-sector worker (Article 18), [Step 7: After arrival](#step-7-after-arrival)) <sup>[N186](#n186)</sup>.
 
 > **Need to know**
 > - Which Kuwaiti banks open salary accounts for Article 18 workers earning KD 75-120 in 2026, with what minimum balance and monthly fee?
@@ -2140,7 +2141,7 @@ Deportation can come before a wage case is settled: in July 2025, 127 Bangladesh
 
 ## 17 If a worker dies, is injured or loses the job
 
-Bangladesh's Wage Earners' Welfare Board pays Tk 1 lakh to bring home and treat an injured or sick worker and Tk 3 lakh to the family of a worker who dies abroad <sup>[111](#o111)</sup>. A worker who came without a BMET card can get this cover with a Welfare Board card from the Embassy (see [Help from the Bangladesh Embassy in Kuwait](#help-from-the-bangladesh-embassy-in-kuwait)) <sup>[111](#o111)</sup>.
+Bangladesh's Wage Earners' Welfare Board pays up to Tk 2 lakh to treat a worker who comes home injured or sick <sup>[111](#o111)</sup> and Tk 3 lakh to the family of a worker who dies abroad <sup>[112](#o112)</sup>. A worker who came without a BMET card can get this cover with a Welfare Board card from the Embassy (see [Help from the Bangladesh Embassy in Kuwait](#help-from-the-bangladesh-embassy-in-kuwait)) <sup>[112](#o112)</sup>.
 
 <a id="if-you-are-injured-at-work"></a>
 
@@ -2168,17 +2169,17 @@ The contract ends on the worker's death, and his heirs are owed full end-of-serv
 
 #### 17.2.1 Steps in Kuwait after a death
 
-1. <a id="steps-in-kuwait-after-a-death-item-1"></a>**The NOC for the body.** The Embassy issues a free NOC (no-objection certificate) for sending the body home, the same day once the death certificate is available <sup>[112](#o112)</sup>.
-2. <a id="steps-in-kuwait-after-a-death-item-2"></a>**Who pays for the body.** The employer pays; if there is no employer, or the sponsor (kafeel) cannot be found, or the worker had no iqama, the Embassy pays the full cost <sup>[112](#o112), [N214 (2024)](#n214)</sup>. The visa attestation contract the sponsor signs at the Embassy makes him send the body home at his own cost <sup>[84](#o84)</sup>.
-3. <a id="steps-in-kuwait-after-a-death-item-3"></a>**Compensation for an accidental death.** The heirs give the Embassy a power of attorney; the Embassy's lawyer pursues the case and the money goes through the Embassy to the Welfare Board, which pays the heirs <sup>[113](#o113)</sup>.
+1. <a id="steps-in-kuwait-after-a-death-item-1"></a>**The NOC for the body.** The Embassy issues a free NOC (no-objection certificate) for sending the body home, the same day once the death certificate is available <sup>[113](#o113)</sup>.
+2. <a id="steps-in-kuwait-after-a-death-item-2"></a>**Who pays for the body.** The employer pays; if there is no employer, or the sponsor (kafeel) cannot be found, or the worker had no iqama, the Embassy pays the full cost <sup>[113](#o113), [N214 (2024)](#n214)</sup>. The visa attestation contract the sponsor signs at the Embassy makes him send the body home at his own cost <sup>[84](#o84)</sup>.
+3. <a id="steps-in-kuwait-after-a-death-item-3"></a>**Compensation for an accidental death.** The heirs give the Embassy a power of attorney; the Embassy's lawyer pursues the case and the money goes through the Embassy to the Welfare Board, which pays the heirs <sup>[114](#o114)</sup>.
 
 <a id="steps-in-bangladesh-after-a-death"></a>
 
 #### 17.2.2 Steps in Bangladesh after a death
 
-1. <a id="steps-in-bangladesh-after-a-death-item-1"></a>**Claim from the employer through the Ministry of Expatriates' Welfare:** the next of kin applies to aswelfare@probashi.gov.bd with proof of being next of kin, the employer's details and the amounts owed, and the Ministry writes to the Embassy <sup>[114](#o114)</sup>.
-2. <a id="steps-in-bangladesh-after-a-death-item-2"></a>**Receive the body.** A free ambulance takes the body from Dhaka or Chattogram airport on request (see [Coming home](#coming-home)) <sup>[115](#o115)</sup>.
-3. <a id="steps-in-bangladesh-after-a-death-item-3"></a>**Claim the Welfare Board's Tk 3 lakh** <sup>[111](#o111)</sup>.
+1. <a id="steps-in-bangladesh-after-a-death-item-1"></a>**Claim from the employer through the Ministry of Expatriates' Welfare:** the next of kin applies to aswelfare@probashi.gov.bd with proof of being next of kin, the employer's details and the amounts owed, and the Ministry writes to the Embassy <sup>[115](#o115)</sup>.
+2. <a id="steps-in-bangladesh-after-a-death-item-2"></a>**Receive the body.** A free ambulance takes the body from Dhaka or Chattogram airport on request (see [Coming home](#coming-home)) <sup>[116](#o116)</sup>.
+3. <a id="steps-in-bangladesh-after-a-death-item-3"></a>**Claim the Welfare Board's Tk 3 lakh** <sup>[112](#o112)</sup>.
 
 > **Need to know**
 > - What are the Kuwait-side steps for a body (police report, Ministry of Health death certificate, General Department of Criminal Evidence, residence cancellation, cargo), and how long do they take in 2026?
@@ -2203,24 +2204,24 @@ The contract ends on the worker's death, and his heirs are owed full end-of-serv
 - **Get the exit permit:** an Article 18 worker needs one for every trip (see [Going home on leave](#going-home-on-leave)) <sup>[N215](#n215)</sup>.
 - **Flights can stop at short notice.** Kuwait's airspace was closed from 28 February to 23 April 2026 and again from 18 July 2026 after Iranian attacks; save the Embassy's emergency hotlines (see [Contacts in Kuwait](#contacts-in-kuwait)) <sup>[N15](#n15), [N32](#n32), [N33](#n33)</sup>.
 - **Leaving Kuwait with cash and gold.** Declare cash of KD 3,000 (about Tk 12.1 lakh) or more, in any currency, and all gold in any form to customs before leaving <sup>[N216](#n216), [1](#o1)</sup>. Since February 2026 cash over KD 3,000 can be declared in advance on Sahel, which issues a notice that customs checks at the airport <sup>[N217](#n217)</sup>. Not declaring gold can lead to arrest or confiscation <sup>[N218](#n218)</sup>. Carry watches, jewellery and costly electronics in hand luggage with their receipts <sup>[N216](#n216)</sup>.
-- **Household goods: get a TR certificate.** A Bangladeshi leaving Kuwait for good applies to the Embassy's Labour Wing for a TR (transfer of residence) certificate under NBR's SRO 165 of 2000 to bring household goods home; the form is free at the Embassy reception and on its website <sup>[116](#o116)</sup>.
-- **Customs in Bangladesh** (passenger baggage rules, SRO 261 of 2 June 2025) <sup>[117](#o117)</sup>:
-  - Duty-free: one item from the duty-free list, such as a laptop, a television up to 29 inches, a microwave, a sewing machine or 100 g of gold and 200 g of silver jewellery (no more than 12 pieces of one type) <sup>[117](#o117)</sup>.
-  - Phones: 2 used phones, plus 1 new phone once a year <sup>[117](#o117)</sup>.
-  - Gold bar: once a year, one declared bar of up to 117 g (10 tola), at Tk 5,000 duty per 11.664 g; more is confiscated, and undeclared gold means arrest and a criminal case <sup>[117](#o117)</sup>.
-  - No alcohol on a Bangladeshi passport, and goods brought to sell are seized <sup>[117](#o117)</sup>.
-  - Cash: declare more than USD 10,000 (about Tk 12.4 lakh) on the FMJ form <sup>[117](#o117), [3](#o3)</sup>.
-  - Baggage sent separately: declare it on the Schedule-1 form handed out on the plane, or at the customs house next to the airport within 7 days <sup>[117](#o117)</sup>.
-  - Help at Dhaka airport customs: +88 01319-056591; airport hotline 13600 <sup>[117](#o117)</sup>.
+- **Household goods: get a TR certificate.** A Bangladeshi leaving Kuwait for good applies to the Embassy's Labour Wing for a TR (transfer of residence) certificate under NBR's SRO 165 of 2000 to bring household goods home; the form is free at the Embassy reception and on its website <sup>[117](#o117)</sup>.
+- **Customs in Bangladesh** (passenger baggage rules, SRO 261 of 2 June 2025) <sup>[118](#o118)</sup>:
+  - Duty-free: one item from the duty-free list, such as a laptop, a television up to 29 inches, a microwave, a sewing machine or 100 g of gold and 200 g of silver jewellery (no more than 12 pieces of one type) <sup>[118](#o118)</sup>.
+  - Phones: 2 used phones, plus 1 new phone once a year <sup>[118](#o118)</sup>.
+  - Gold bar: once a year, one declared bar of up to 117 g (10 tola), at Tk 5,000 duty per 11.664 g; more is confiscated, and undeclared gold means arrest and a criminal case <sup>[118](#o118)</sup>.
+  - No alcohol on a Bangladeshi passport, and goods brought to sell are seized <sup>[118](#o118)</sup>.
+  - Cash: declare more than USD 10,000 (about Tk 12.4 lakh) on the FMJ form <sup>[118](#o118), [3](#o3)</sup>.
+  - Baggage sent separately: declare it on the Schedule-1 form handed out on the plane, or at the customs house next to the airport within 7 days <sup>[118](#o118)</sup>.
+  - Help at Dhaka airport customs: +88 01319-056591; airport hotline 13600 <sup>[118](#o118)</sup>.
 
   > **Need to know**
   > - Does Dhaka customs apply the "one item from the list" limit, so that a worker bringing a TV and 100 g of gold pays duty on one of them, and what does a TR certificate add?
 
-- **Airport help.** The Welfare Board's desks at Dhaka, Chattogram and Sylhet airports help returnees, take complaints of abuse or cheating, and give women returning within a year after abuse or fraud Tk 5,000 cash <sup>[118](#o118), [5](#o5)</sup>. A free ambulance takes injured, sick or dead workers from Dhaka and Chattogram airports: Dhaka desk +8802 8901040, 01404 413388; Chattogram 01913631797; Sylhet desk 01558277904 <sup>[115](#o115), [5](#o5)</sup>.
-- **A place to stay.** The Wage Earners' Centre (Lonjonipara, Borua, Khilkhet, Dhaka-1229, near Shahjalal airport): Tk 100 admission, Tk 200 a night; book at wec.wewb.gov.bd or in person with proof of BMET clearance or Welfare Board membership, a passport copy and the ticket; 01310 350555, 01754 715720 (24 hours) <sup>[119](#o119)</sup>. The Probashi Lounge at Shahjalal airport gives free wifi and phone calls and food at up to 30% off with the same proof <sup>[120](#o120)</sup>.
-- **Legal help for your family at home,** such as protecting its property: apply to the Welfare Board directly, through the Deputy Commissioner's expatriate welfare branch or the DEMO (District Employment and Manpower Office) <sup>[121](#o121)</sup>.
-- **Business loan:** Probashi Kallyan Bank's (PKB, the government bank for migrants) rehabilitation loan, up to Tk 50 lakh (Tk 3 lakh without collateral), 9% over up to 10 years, at the branch for the project's area with a trade licence and tax return papers; fees 0.5% processing (max Tk 15,000) and 0.5% documentation <sup>[122](#o122)</sup>.
-- **BRAC** gives returnees airport help, counselling, money or materials to restart earning, and legal help <sup>[123](#o123)</sup>.
+- **Airport help.** The Welfare Board's desks at Dhaka, Chattogram and Sylhet airports help returnees, take complaints of abuse or cheating, and give women returning within a year after abuse or fraud Tk 5,000 cash <sup>[119](#o119), [5](#o5)</sup>. A free ambulance takes injured, sick or dead workers from Dhaka and Chattogram airports: Dhaka desk +8802 8901040, 01404 413388; Chattogram 01913631797; Sylhet desk 01558277904 <sup>[116](#o116), [5](#o5)</sup>.
+- **A place to stay.** The Wage Earners' Centre (Lonjonipara, Borua, Khilkhet, Dhaka-1229, near Shahjalal airport): Tk 100 admission, Tk 200 a night; book at wec.wewb.gov.bd or in person with proof of BMET clearance or Welfare Board membership, a passport copy and the ticket; 01310 350555, 01754 715720 (24 hours) <sup>[120](#o120)</sup>. The Probashi Lounge at Shahjalal airport gives free wifi and phone calls and food at up to 30% off with the same proof <sup>[121](#o121)</sup>.
+- **Legal help for your family at home,** such as protecting its property: apply to the Welfare Board directly, through the Deputy Commissioner's expatriate welfare branch or the DEMO (District Employment and Manpower Office) <sup>[122](#o122)</sup>.
+- **Business loan:** Probashi Kallyan Bank's (PKB, the government bank for migrants) rehabilitation loan, up to Tk 50 lakh (Tk 3 lakh without collateral), 9% over up to 10 years, at the branch for the project's area with a trade licence and tax return papers; fees 0.5% processing (max Tk 15,000) and 0.5% documentation <sup>[123](#o123)</sup>.
+- **BRAC** gives returnees airport help, counselling, money or materials to restart earning, and legal help <sup>[124](#o124)</sup>.
 
 <a id="contacts"></a>
 
@@ -2232,26 +2233,27 @@ The contract ends on the worker's death, and his heirs are owed full end-of-serv
 
 1. <a id="help-from-the-bangladesh-embassy-in-kuwait-item-1"></a>**Labour Wing advice and complaints.** Any Bangladeshi worker can get advice and help from the Labour Wing and give it written complaints to forward to Bangladesh; for a labour dispute it points workers to PAM, in person or online (see [If you aren't paid](#if-you-arent-paid)) <sup>[7](#o7)</sup>.
 2. <a id="help-from-the-bangladesh-embassy-in-kuwait-item-2"></a>**Monthly public hearing (gono shunani)** on the second Sunday of each month at the Embassy <sup>[N214 (2024)](#n214)</sup>.
-3. <a id="help-from-the-bangladesh-embassy-in-kuwait-item-3"></a>**Get a Welfare Board card if you came without a BMET card.** It covers help freeing detained workers and bringing them home, Tk 1 lakh to bring home and treat an injured or sick worker, Tk 3 lakh to the family of a worker who dies, and legal help through the Labour Wing <sup>[111](#o111)</sup>. People under 18 or over 65 can't register <sup>[111](#o111)</sup>.
-   1. Apply online at portal.wewb.gov.bd/login and print the form <sup>[111](#o111)</sup>.
-   2. Attach copies of your passport and Civil ID and a colour photo, and hand it in at Room 13 <sup>[111](#o111)</sup>.
-   3. Pay KD 17 (about Tk 6,850) at counter 4; the card is ready in 7 working days <sup>[111](#o111), [1](#o1)</sup>.
-   A lost card can be downloaded from wewb.gov.bd with your passport number, or a duplicate requested from the Labour Wing <sup>[111](#o111)</sup>.
-4. <a id="help-from-the-bangladesh-embassy-in-kuwait-item-4"></a>**Renew your passport.** E-passport fees for workers (labourer, driver, cook, painter, cleaner), 48 pages: KD 9.500 regular or 14.000 urgent for 5 years; KD 15.500 or 23.500 for 10 years <sup>[101](#o101)</sup>. Professionals pay KD 31.000 or 46.500 for 5 years and KD 38.500 or 54.000 for 10 years <sup>[101](#o101)</sup>. Come in person with a copy of the old passport and your Civil ID, pay cash at the counter, give biometrics and keep the delivery slip; passports are handed out 2 to 4 pm against the old passport and the slip, and lists of new passports are posted on the Embassy's Facebook page <sup>[124 (2022)](#o124), [N214 (2024)](#n214)</sup>.
+3. <a id="help-from-the-bangladesh-embassy-in-kuwait-item-3"></a>**Get a Welfare Board card if you came without a BMET card.** It covers help freeing detained workers and bringing them home, Tk 1 lakh to bring home and treat an injured, sick or disabled worker, Tk 3 lakh to the family of a worker who dies, and legal help through the Labour Wing <sup>[112](#o112)</sup>. People under 18 or over 65 can't register <sup>[112](#o112)</sup>.
+   1. Apply online at portal.wewb.gov.bd/login and print the form <sup>[112](#o112)</sup>.
+   2. Attach copies of your passport and Civil ID and a colour photo, and hand it in at Room 13 <sup>[112](#o112)</sup>.
+   3. Pay KD 17 (about Tk 6,850) at counter 4; the card is ready in 7 working days <sup>[112](#o112), [1](#o1)</sup>.
+   A lost card can be downloaded from wewb.gov.bd with your passport number, or a duplicate requested from the Labour Wing <sup>[112](#o112)</sup>.
+4. <a id="help-from-the-bangladesh-embassy-in-kuwait-item-4"></a>**Renew your passport.** E-passport fees for workers (labourer, driver, cook, painter, cleaner), 48 pages: KD 9.500 regular or 14.000 urgent for 5 years; KD 15.500 or 23.500 for 10 years <sup>[101](#o101)</sup>. Professionals pay KD 31.000 or 46.500 for 5 years and KD 38.500 or 54.000 for 10 years <sup>[101](#o101)</sup>. Come in person with a copy of the old passport and your Civil ID, pay cash at the counter, give biometrics and keep the delivery slip; passports are handed out 2 to 4 pm against the old passport and the slip, and lists of new passports are posted on the Embassy's Facebook page <sup>[125 (2022)](#o125), [N214 (2024)](#n214)</sup>.
 5. <a id="help-from-the-bangladesh-embassy-in-kuwait-item-5"></a>**If you are detained.** Embassy staff visit the deportation centres and the Central Jail, issue travel permits and help send detained Bangladeshis home (see [Going home without valid papers](#going-home-without-valid-papers)) <sup>[110](#o110)</sup>.
 6. <a id="help-from-the-bangladesh-embassy-in-kuwait-item-6"></a>**If you are sick in hospital.** On request of the hospital or relatives, the Embassy gives money to send sick Bangladeshis home <sup>[110](#o110)</sup>.
-7. <a id="help-from-the-bangladesh-embassy-in-kuwait-item-7"></a>**Power of attorney for land or money at home.** Sign it in person before the consular officer (the Embassy doesn't draft it); bring the original and a copy, 2 photos each of the giver and receiver, proof of Bangladeshi nationality and a Civil ID copy; KD 3.250 (6.250 urgent) <sup>[125](#o125), [126](#o126)</sup>.
+7. <a id="help-from-the-bangladesh-embassy-in-kuwait-item-7"></a>**Power of attorney for land or money at home.** Sign it in person before the consular officer (the Embassy doesn't draft it); bring the original and a copy, 2 photos each of the giver and receiver, proof of Bangladeshi nationality and a Civil ID copy; KD 3.250 (6.250 urgent) <sup>[126](#o126), [127](#o127)</sup>.
 
 > **Need to know**
 > - Does the Labour Wing answer WhatsApp messages, and on which number?
+> - Does a Welfare Board card holder get the Embassy page's Tk 1 lakh for bringing home and treatment <sup>[112](#o112)</sup> as well as, or instead of, the Board's up to Tk 2 lakh for treatment after return <sup>[111](#o111)</sup>?
 
 <a id="contacts-in-kuwait"></a>
 
 ### 19.2 Contacts in Kuwait
 
-- **Bangladesh Embassy:** Messila, Block 7, Street 16, Villa 91 and 93; P.O. Box 26607, Safat 13084; +965 23900913; mission.kuwait@mofa.gov.bd <sup>[97](#o97), [127](#o127)</sup>. Sunday to Thursday 8 am to 4 pm; attestation counters 8 am to 2 pm <sup>[128 (2022)](#o128), [16](#o16)</sup>.
-  - Labour Wing: Counsellor Md. Shoaib-ul-Islam Tarafder; +965 23910920; labourwing.kuwaitemb.bd@gmail.com <sup>[129](#o129), [130](#o130)</sup>.
-  - Passport and Visa Wing: First Secretary Mohammad Atiqul Mamun; +965 23901007 <sup>[129](#o129), [130](#o130)</sup>.
+- **Bangladesh Embassy:** Messila, Block 7, Street 16, Villa 91 and 93; P.O. Box 26607, Safat 13084; +965 23900913; mission.kuwait@mofa.gov.bd <sup>[97](#o97), [128](#o128)</sup>. Sunday to Thursday 8 am to 4 pm; attestation counters 8 am to 2 pm <sup>[129 (2022)](#o129), [16](#o16)</sup>.
+  - Labour Wing: Counsellor Md. Shoaib-ul-Islam Tarafder; +965 23910920; labourwing.kuwaitemb.bd@gmail.com <sup>[130](#o130), [131](#o131)</sup>.
+  - Passport and Visa Wing: First Secretary Mohammad Atiqul Mamun; +965 23901007 <sup>[130](#o130), [131](#o131)</sup>.
   - Emergency hotlines (September 2026): +965 69920013, +965 66516404, +965 50895161 <sup>[N33](#n33)</sup>.
 - **Sonali Bank representative office** (bank accounts, Wage Earner Development Bonds, remittance complaints): +965 65762097, sbro.kuwait@sonalibank.com.bd <sup>[109](#o109)</sup>.
 - **PAM:** hotline 103, answered 10:30 am to 1:30 pm, the same hours its offices take visitors <sup>[N143](#n143)</sup>. Domestic workers: Domestic Labour Office, Rumaithiya, Block 7, Street 78, behind the main co-operative society <sup>[82](#o82)</sup>.
@@ -2267,7 +2269,7 @@ The contract ends on the worker's death, and his heirs are owed full end-of-serv
 
 - **Probashi call centre (Welfare Board), 24 hours:** 16135, +8809610102030 from abroad <sup>[72](#o72)</sup>.
 - **BMET (Bureau of Manpower, Employment and Training):** 89/2 Kakrail, Dhaka-1000 <sup>[47 (2021)](#o47)</sup>; Director (Emigration) +8802222222415, 01711-135901, diremi@bmet.gov.bd <sup>[5](#o5)</sup>; OEP (Overseas Employment Platform) hotline 09614445271 <sup>[40](#o40)</sup>.
-- **Ministry of Expatriates' Welfare and Welfare Board:** Probashi Kallyan Bhaban, 71-72 Old Elephant Road, Eskaton Garden, Dhaka <sup>[131](#o131), [132](#o132)</sup>; deaths and compensation aswelfare@probashi.gov.bd <sup>[114](#o114)</sup>; grievance officer adsadmin@probashi.gov.bd, 02-41030224 <sup>[114](#o114)</sup>.
+- **Ministry of Expatriates' Welfare and Welfare Board:** Probashi Kallyan Bhaban, 71-72 Old Elephant Road, Eskaton Garden, Dhaka <sup>[132](#o132), [133](#o133)</sup>; deaths and compensation aswelfare@probashi.gov.bd <sup>[115](#o115)</sup>; grievance officer adsadmin@probashi.gov.bd, 02-41030224 <sup>[115](#o115)</sup>.
 - **PKB:** 16238, +880 9677-787878 <sup>[51](#o51)</sup>.
 - **Legal aid:** 16699 <sup>[73](#o73)</sup>.
 - **Passport helpline:** 16445 <sup>[58 (2023)](#o58)</sup>.
@@ -2393,28 +2395,29 @@ The contract ends on the worker's death, and his heirs are owed full end-of-serv
 108. <a id="o108"></a>Department of National Savings, Bangladesh, 14 Apr 2026. [Wage Earner Development Bond](https://nationalsavings.gov.bd/pages/static-pages/6922dfd3933eb65569e242e9). Accessed 9 Nov 2026.
 109. <a id="o109"></a>Embassy of Bangladesh, Kuwait, 1 Apr 2026. [Sonali Bank Representative Office](https://kuwait.mofa.gov.bd/pages/static-pages/6952669b35ce18e1c05aa51c). Accessed 9 Nov 2026.
 110. <a id="o110"></a>Embassy of Bangladesh, Kuwait, 24 Aug 2025. [Visit of Deportation Centers, Central Jail and Hospitals](https://kuwait.mofa.gov.bd/pages/static-pages/6952667235ce18e1c05a9271). Accessed 9 Nov 2026. Possibly outdated.
-111. <a id="o111"></a>Embassy of Bangladesh, Kuwait, 30 Sep 2026. [Wage Earner Welfare Membership Card (Expatriate Welfare Card)](https://kuwait.mofa.gov.bd/pages/static-pages/6952667335ce18e1c05a932d). Accessed 9 Nov 2026.
-112. <a id="o112"></a>Embassy of Bangladesh, Kuwait, 24 Aug 2025. [Repatriation of Dead Body](https://kuwait.mofa.gov.bd/pages/static-pages/6952668a35ce18e1c05a9e65). Accessed 9 Nov 2026. Possibly outdated.
-113. <a id="o113"></a>Embassy of Bangladesh, Kuwait, 24 Aug 2025. [Recovery of Death Compensation](https://kuwait.mofa.gov.bd/pages/static-pages/6952668f35ce18e1c05aa0d0). Accessed 9 Nov 2026. Possibly outdated.
-114. <a id="o114"></a>Ministry of Expatriates' Welfare and Overseas Employment, Aug 2026. [Citizen Charter (Bangla), undated (uploaded 2026/8)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-probashi/2026/8/31a84167-1243-425e-b460-b8b3da81009e.pdf). Accessed 9 Nov 2026.
-115. <a id="o115"></a>Wage Earners' Welfare Board, 16 Apr 2026. [Ambulance service (Bangla)](https://wewb.gov.bd/pages/static-pages/6922dc70933eb65569e10600). Accessed 9 Nov 2026.
-116. <a id="o116"></a>Embassy of Bangladesh, Kuwait, 24 Sep 2025. [TR certificate notice, forms and rules (24 September 2025)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kuwait-mofa/2024/12/2c5072a236574f25a14402fe2bcda3fb.pdf). Accessed 9 Nov 2026. Possibly outdated.
-117. <a id="o117"></a>Hazrat Shahjalal International Airport (Customs House, Dhaka). [Customs, HSIA (baggage rules for passengers)](https://www.hsia.gov.bd/content-details/10/Customs). Accessed 9 Nov 2026. Undated: possibly outdated.
-118. <a id="o118"></a>Wage Earners' Welfare Board, 9 Jun 2026. [Probashi Kallyan Desk services (Bangla)](https://wewb.gov.bd/pages/static-pages/6922ddc8933eb65569e163d9). Accessed 9 Nov 2026.
-119. <a id="o119"></a>Wage Earners' Welfare Board, 29 Jan 2026. [Wage Earners' Centre (Bangla)](https://wewb.gov.bd/pages/static-pages/6922dec9933eb65569e1d5b5). Accessed 9 Nov 2026.
-120. <a id="o120"></a>Wage Earners' Welfare Board, 9 Jun 2026. [Probashi Lounge service (Bangla)](https://wewb.gov.bd/pages/static-pages/6922e01b933eb65569e2581d). Accessed 9 Nov 2026.
-121. <a id="o121"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Legal help through local administration (Bangla)](https://wewb.gov.bd/pages/static-pages/6922dfee933eb65569e24b4d). Accessed 9 Nov 2026.
-122. <a id="o122"></a>Probashi Kallyan Bank, 23 Sep 2026. [Rehabilitation loan](https://pkb.gov.bd/pages/static-pages/6922dc54933eb65569e0fc0d). Accessed 9 Nov 2026.
-123. <a id="o123"></a>BRAC. [Migration Programme](https://www.brac.net/program/migration/). Accessed 9 Nov 2026. Undated: possibly outdated.
-124. <a id="o124"></a>Embassy of Bangladesh, Kuwait, 17 Jul 2022. [MRP Reissue](https://kuwait.mofa.gov.bd/pages/static-pages/6952668835ce18e1c05a9dbb). Accessed 9 Nov 2026. Possibly outdated.
-125. <a id="o125"></a>Embassy of Bangladesh, Kuwait, 30 Aug 2025. [Endorsement of Power of Attorney](https://kuwait.mofa.gov.bd/pages/static-pages/6952668435ce18e1c05a9be6). Accessed 9 Nov 2026. Possibly outdated.
-126. <a id="o126"></a>Embassy of Bangladesh, Kuwait. [Fees of Other Consular Services](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kuwait-mofa/2024/12/adccc970474c4a7b9b47a51ba9e1209d.pdf). Accessed 9 Nov 2026. Undated: possibly outdated.
-127. <a id="o127"></a>Embassy of Bangladesh, Kuwait, 18 Oct 2026. [Notice: Embassy closed 20-21 October 2026](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kuwait-mofa/2026/9/be459a09-8717-45e0-99cd-aa4ba62c093c.jpg). Accessed 9 Nov 2026.
-128. <a id="o128"></a>Embassy of Bangladesh, Kuwait, 19 Jul 2022. [Office Hours](https://kuwait.mofa.gov.bd/pages/static-pages/6952669135ce18e1c05aa1a2). Accessed 9 Nov 2026. Possibly outdated.
-129. <a id="o129"></a>Embassy of Bangladesh, Kuwait, 9 Nov 2026. [Officers Profile](https://kuwait.mofa.gov.bd/pages/officers-profile). Accessed 9 Nov 2026.
-130. <a id="o130"></a>Embassy of Bangladesh, Kuwait, 9 Dec 2025. [Wing-wise Contact List](https://kuwait.mofa.gov.bd/pages/static-pages/695266a835ce18e1c05aa9c1). Accessed 9 Nov 2026.
-131. <a id="o131"></a>Ministry of Expatriates' Welfare and Overseas Employment, 1 May 2025. [Office address](https://probashi.gov.bd/pages/static-pages/694032ef35ce18e1c05646cf). Accessed 9 Nov 2026. Possibly outdated.
-132. <a id="o132"></a>Wage Earners' Welfare Board, 16 Sep 2026. [Citizen's Charter (Bangla)](https://wewb.gov.bd/pages/office-citizen-charters). Accessed 9 Nov 2026.
+111. <a id="o111"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Financial help for injured/sick workers (Bangla)](https://wewb.gov.bd/pages/static-pages/6922ddb6933eb65569e15fa2). Accessed 7 Nov 2026.
+112. <a id="o112"></a>Embassy of Bangladesh, Kuwait, 30 Sep 2026. [Wage Earner Welfare Membership Card (Expatriate Welfare Card)](https://kuwait.mofa.gov.bd/pages/static-pages/6952667335ce18e1c05a932d). Accessed 9 Nov 2026.
+113. <a id="o113"></a>Embassy of Bangladesh, Kuwait, 24 Aug 2025. [Repatriation of Dead Body](https://kuwait.mofa.gov.bd/pages/static-pages/6952668a35ce18e1c05a9e65). Accessed 9 Nov 2026. Possibly outdated.
+114. <a id="o114"></a>Embassy of Bangladesh, Kuwait, 24 Aug 2025. [Recovery of Death Compensation](https://kuwait.mofa.gov.bd/pages/static-pages/6952668f35ce18e1c05aa0d0). Accessed 9 Nov 2026. Possibly outdated.
+115. <a id="o115"></a>Ministry of Expatriates' Welfare and Overseas Employment, Aug 2026. [Citizen Charter (Bangla), undated (uploaded 2026/8)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-probashi/2026/8/31a84167-1243-425e-b460-b8b3da81009e.pdf). Accessed 9 Nov 2026.
+116. <a id="o116"></a>Wage Earners' Welfare Board, 16 Apr 2026. [Ambulance service (Bangla)](https://wewb.gov.bd/pages/static-pages/6922dc70933eb65569e10600). Accessed 9 Nov 2026.
+117. <a id="o117"></a>Embassy of Bangladesh, Kuwait, 24 Sep 2025. [TR certificate notice, forms and rules (24 September 2025)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kuwait-mofa/2024/12/2c5072a236574f25a14402fe2bcda3fb.pdf). Accessed 9 Nov 2026. Possibly outdated.
+118. <a id="o118"></a>Hazrat Shahjalal International Airport (Customs House, Dhaka). [Customs, HSIA (baggage rules for passengers)](https://www.hsia.gov.bd/content-details/10/Customs). Accessed 9 Nov 2026. Undated: possibly outdated.
+119. <a id="o119"></a>Wage Earners' Welfare Board, 9 Jun 2026. [Probashi Kallyan Desk services (Bangla)](https://wewb.gov.bd/pages/static-pages/6922ddc8933eb65569e163d9). Accessed 9 Nov 2026.
+120. <a id="o120"></a>Wage Earners' Welfare Board, 29 Jan 2026. [Wage Earners' Centre (Bangla)](https://wewb.gov.bd/pages/static-pages/6922dec9933eb65569e1d5b5). Accessed 9 Nov 2026.
+121. <a id="o121"></a>Wage Earners' Welfare Board, 9 Jun 2026. [Probashi Lounge service (Bangla)](https://wewb.gov.bd/pages/static-pages/6922e01b933eb65569e2581d). Accessed 9 Nov 2026.
+122. <a id="o122"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Legal help through local administration (Bangla)](https://wewb.gov.bd/pages/static-pages/6922dfee933eb65569e24b4d). Accessed 9 Nov 2026.
+123. <a id="o123"></a>Probashi Kallyan Bank, 23 Sep 2026. [Rehabilitation loan](https://pkb.gov.bd/pages/static-pages/6922dc54933eb65569e0fc0d). Accessed 9 Nov 2026.
+124. <a id="o124"></a>BRAC. [Migration Programme](https://www.brac.net/program/migration/). Accessed 9 Nov 2026. Undated: possibly outdated.
+125. <a id="o125"></a>Embassy of Bangladesh, Kuwait, 17 Jul 2022. [MRP Reissue](https://kuwait.mofa.gov.bd/pages/static-pages/6952668835ce18e1c05a9dbb). Accessed 9 Nov 2026. Possibly outdated.
+126. <a id="o126"></a>Embassy of Bangladesh, Kuwait, 30 Aug 2025. [Endorsement of Power of Attorney](https://kuwait.mofa.gov.bd/pages/static-pages/6952668435ce18e1c05a9be6). Accessed 9 Nov 2026. Possibly outdated.
+127. <a id="o127"></a>Embassy of Bangladesh, Kuwait. [Fees of Other Consular Services](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kuwait-mofa/2024/12/adccc970474c4a7b9b47a51ba9e1209d.pdf). Accessed 9 Nov 2026. Undated: possibly outdated.
+128. <a id="o128"></a>Embassy of Bangladesh, Kuwait, 18 Oct 2026. [Notice: Embassy closed 20-21 October 2026](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kuwait-mofa/2026/9/be459a09-8717-45e0-99cd-aa4ba62c093c.jpg). Accessed 9 Nov 2026.
+129. <a id="o129"></a>Embassy of Bangladesh, Kuwait, 19 Jul 2022. [Office Hours](https://kuwait.mofa.gov.bd/pages/static-pages/6952669135ce18e1c05aa1a2). Accessed 9 Nov 2026. Possibly outdated.
+130. <a id="o130"></a>Embassy of Bangladesh, Kuwait, 9 Nov 2026. [Officers Profile](https://kuwait.mofa.gov.bd/pages/officers-profile). Accessed 9 Nov 2026.
+131. <a id="o131"></a>Embassy of Bangladesh, Kuwait, 9 Dec 2025. [Wing-wise Contact List](https://kuwait.mofa.gov.bd/pages/static-pages/695266a835ce18e1c05aa9c1). Accessed 9 Nov 2026.
+132. <a id="o132"></a>Ministry of Expatriates' Welfare and Overseas Employment, 1 May 2025. [Office address](https://probashi.gov.bd/pages/static-pages/694032ef35ce18e1c05646cf). Accessed 9 Nov 2026. Possibly outdated.
+133. <a id="o133"></a>Wage Earners' Welfare Board, 16 Sep 2026. [Citizen's Charter (Bangla)](https://wewb.gov.bd/pages/office-citizen-charters). Accessed 9 Nov 2026.
 
 <a id="needs-an-official-source"></a>
 

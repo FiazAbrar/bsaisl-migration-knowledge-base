@@ -136,7 +136,7 @@ Merged from the per-topic research files in `drafts/` (8 November 2026). Fact id
 - TIP 2025: forced labour of South Asian women in domestic service; tourist/work visa misuse for sex trafficking at spas; immediate deportation of women found at venues (F0087-F0090). TIP 2022: rise in Bangladeshi women on tourist visas for commercial sex (F0091).
 
 **Conflicts.**
-- Women domestic worker agencies order: the transcription header (copied from UAE/Qatar folders) reads "০১ সেপ্টেম্বর ২০২৫", but the Bangla date is 17 Bhadra 1431, which is 2024, and the file sits in an "office-probashi/2024/12" folder. I logged it as 1 September 2024 (F0109, possibly-outdated). UAE D0212 says 2024; Qatar E0037 says 2025. The lead should fix one way across countries.
+- Women domestic worker agencies order: RESOLVED 2026-11-17, dated 1 September 2025: typed date 01 September 2025, signature date 01/09/25 on p.2, PDF CreationDate 2025-09-04; the Bangla year 1431 is a typo for 1432 (17 Bhadra 1432 = 1 Sep 2025); the /2024/12/ URL folder is only the storage path (checked 2026-11-17). (Earlier note, superseded by the line above: I logged it as 1 September 2024 (F0109, possibly-outdated). UAE D0212 says 2024; Qatar E0037 says 2025. The lead should fix one way across countries.)
 - Housekeeping training age: the 2023 policy says 25-45 (F0114); UAE notes a 2024 GCC curriculum with 25-40. Not used beyond the policy.
 - Immigration Act Annex prices the Dependant Visa at MVR 750 "for every three months" (text layout ambiguous); the website gives a flat MVR 750 (F0007). Left as Need to know.
 
@@ -818,7 +818,7 @@ Few Bangladeshis do domestic work in the Maldives: a 2023 survey by RMMRU (Refug
 - TIP 2025: forced labour of South Asian women in domestic service; tourist/work visa misuse for sex trafficking at spas; immediate deportation of women found at venues (F0087-F0090). TIP 2022: rise in Bangladeshi women on tourist visas for commercial sex (F0091).
 
 **Conflicts.**
-- Women domestic worker agencies order: the transcription header (copied from UAE/Qatar folders) reads "০১ সেপ্টেম্বর ২০২৫", but the Bangla date is 17 Bhadra 1431, which is 2024, and the file sits in an "office-probashi/2024/12" folder. I logged it as 1 September 2024 (F0109, possibly-outdated). UAE D0212 says 2024; Qatar E0037 says 2025. The lead should fix one way across countries.
+- Women domestic worker agencies order: RESOLVED 2026-11-17, dated 1 September 2025: typed date 01 September 2025, signature date 01/09/25 on p.2, PDF CreationDate 2025-09-04; the Bangla year 1431 is a typo for 1432 (17 Bhadra 1432 = 1 Sep 2025); the /2024/12/ URL folder is only the storage path (checked 2026-11-17). (Earlier note, superseded by the line above: I logged it as 1 September 2024 (F0109, possibly-outdated). UAE D0212 says 2024; Qatar E0037 says 2025. The lead should fix one way across countries.)
 - Housekeeping training age: the 2023 policy says 25-45 (F0114); UAE notes a 2024 GCC curriculum with 25-40. Not used beyond the policy.
 - Immigration Act Annex prices the Dependant Visa at MVR 750 "for every three months" (text layout ambiguous); the website gives a flat MVR 750 (F0007). Left as Need to know.
 

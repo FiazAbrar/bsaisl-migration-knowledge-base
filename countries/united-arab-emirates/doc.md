@@ -34,13 +34,14 @@ Mostly closed. New work and visit visas for Bangladeshis have been restricted si
 
 #### The channels
 
-- **A named employer recruiting through a licensed agency:** the main route in 2026, mostly bulk recruitment of low-skilled workers [N0090, N0092]. Dubai Taxi's 2026 drive runs through three agencies, Al Anas Overseas, VIP Global and M Bahar Overseas, with screening at the Bangladesh-Korea Technical Training Centre from 18 May 2026 [N0078, N0077]. How to find and check such a job order is under Work visa: company worker, Step 1, item 3.
+- **A named employer recruiting through a licensed agency:** the main route in 2026, mostly bulk recruitment of low-skilled workers [N0090, N0092]. Dubai Taxi's 2026 drive went through three agencies, Al Anas Overseas, VIP Global and M Bahar Overseas, with screening at the Bangladesh-Korea Technical Training Centre from 18 May 2026 [N0078, N0077]. How to find and check such a job order is under Work visa: company worker, Step 1, item 3.
 - **A visa found by a relative in the UAE:** the most common route before 2024; workers say it is safer than agents [N0117, N0125]. Employment visas for Bangladeshis have been restricted since July 2024 (see "Is it open now, and who can go?") [N0098].
 - **Partner or investor visa:** a residence visa tied to a trade licence, sold as a way in when labour visas closed; working for anyone else on it is illegal (see "Free visa, partner visa, company visa") [N0107, N0108].
 - **Government-to-government, for domestic workers only:** Bangladesh and the UAE signed an MoU (memorandum of understanding, a government-to-government agreement) in April 2018 on recruiting domestic workers, covering 19 job categories (see Work visa: domestic worker) [MB0030, MA0014].
 
 > **Need to know**
 > - Is there any government channel for UAE company jobs in 2026, through BOESL (Bangladesh Overseas Employment and Services Limited, the state recruiting agency) or a government-to-government agreement?
+> - Is Dubai Taxi's 2026 recruitment still taking Bangladeshis, and through which agencies?
 
 #### Who qualifies
 
@@ -258,7 +259,7 @@ There are two routes: a visa found by a relative in the UAE (Step 1, item 5), th
    - **AVR Bangladesh (RL1135, Active):** 10 letters, 3,171 posts [UA0001, UA0007].
    - **Al-Anas Overseas (RL2735, Active):** 6 letters, 2,765 posts [UA0001, UA0006]. One of the three agencies in Dubai Taxi's 2026 driver hiring (see "The channels") [N0078].
    - **Visa International (RL0963, Active):** 4 letters, 1,965 posts [UA0001, UA0016].
-   - **Al Saad Labour Supply (RL0939, Active):** 2 letters, 1,645 posts [UA0001, UA0004]. Red flag: it has the same OEP office phone (01711891957) and holding (7014 Islambagh, Badda) as Matco, and BAIRA lists its proprietor as Farhana Kadir Rahman, whom BSS names as Matco's chairman and Asian TV (January 2026) as Kiron's wife [UA0004, UA0013, UA0020, UA0018, UA0019].
+   - **Al Saad Labour Supply (RL0939, Active):** 2 letters, 1,645 posts [UA0001, UA0004]. Red flag: it has the same OEP office phone (01711891957) and holding (7014 Islambagh, Badda) as Matco, and its proprietor on BAIRA's list is, per BSS, Matco's chairman and, per Asian TV (January 2026), Kiron's wife [UA0004, UA0013, UA0020, UA0018, UA0019].
    - **Meum Overseas (RL0528, Active):** 3 letters, 1,532 posts [UA0001, UA0014].
    - **Navira Limited (RL0712, Active):** 4 letters, 1,491 posts, among them the Transguard letter earlier in this item [UA0001, UA0015, B0001]. Red flag: in September 2025 the ACC (Anti-Corruption Commission) filed a case against the owners of Navira and 12 other agencies over human trafficking to Malaysia, accused in the ACC charge sheet of forming a syndicate and charging workers nearly five times the government rate [UA0023, UA0024].
    - **Al Sourav Overseas (RL1028, Active):** 4 letters, 1,155 posts [UA0001, UA0005].
@@ -269,15 +270,13 @@ There are two routes: a visa found by a relative in the UAE (Step 1, item 5), th
    > - Which of these agencies place workers in the promised UAE job at no more than the letter's maximum fee?
    > - How does a worker apply to an agency holding a UAE job order: at its office, through its brokers, or online?
 
-   Internal (team only, not public): all 43 agencies, with each one's licence, letters for other countries and cited flags, are in the team's [agencies list](https://github.com/FiazAbrar/bsaisl-migration-knowledge-base/tree/main/agencies).
-
    **Check the letter.** You'll need: the agency's RL number and the employer's name [B0001].
 
    1. Open [bmet.gov.bd/pages/miscellaneous-infos](https://bmet.gov.bd/pages/miscellaneous-infos) and search your agency's RL number, then "আমিরাত" and "Dubai" [B0001, B0002].
    2. Open the PDF and compare the employer, job, pay and maximum fee with what you were told [B0004, B0007].
    3. Check the Consulate attestation number on the letter (it starts "BCG/DUBAI(LWW)") matches your demand letter [B0003, B0014].
 
-   This check rarely works for a UAE job: BMET stopped posting letters in December 2025, the posted UAE letters cover about a fifth of the 159,109 workers BMET cleared for the UAE in 2023 to 2025, and a search by country name finds only two, so search by your agency's RL number [UA0001, UA0002, N0084, N0135, N0136, B0001, B0002]. On 8 November 2026, a search for "আমিরাত" or "Dubai" finds only the August 2023 and August 2025 letters because most letters are titled only by memo and RL number, with no country; the agencies with the most posts are listed in this item, and all 43 are in the team's internal agencies list [B0001, B0002, UA0003, UA0001]. A visa a relative found (Step 1, item 5) may have no letter at all.
+   This check rarely works for a UAE job: BMET stopped posting letters in December 2025, the posted UAE letters cover about a fifth of the 159,109 workers BMET cleared for the UAE in 2023 to 2025, and a search by country name finds only two, so search by your agency's RL number [UA0001, UA0002, N0084, N0135, N0136, B0001, B0002]. On 8 November 2026, a search for "আমিরাত" or "Dubai" finds only the August 2023 and August 2025 letters because most letters are titled only by memo and RL number, with no country; the agencies with the most posts are listed in this item [B0001, B0002, UA0003, UA0001]. A visa a relative found (Step 1, item 5) may have no letter at all.
 
    > **Need to know**
    > - Where does BMET publish permission letters for the 23,044 workers cleared for the UAE in 2026 [B0110]?
@@ -929,7 +928,7 @@ The certificate is valid 2 years for a first departure; between 2 and 3 years yo
 
 ### Step 3: Get the job through a licensed agency at both ends
 
-1. **Bangladesh side.** Only agencies the ministry has approved may send women domestic workers [D0221, D0212]. Each must lodge a Tk 15 lakh FDR (fixed deposit) security with BMET, employ at least one woman in its office, take **no migration cost** from the woman, and sign an undertaking that its licence can be cancelled if she is abused [D0213, D0215, D0214]. The ministry's order of 1 September 2024 approved 21 agencies, including Metak Al Madina Overseas (RL-2480), Just Recruiting (RL-2702), Tehjib Overseas (RL-1664), Raj International (RL-1523), Swapnasiri International (RL-2035) and Duranta Air International (RL-1876) [D0216]. These Bangladesh-side rules (approved agencies, zero cost) are written for women domestic workers [D0212, D0214].
+1. **Bangladesh side.** Only agencies the ministry has approved may send women domestic workers [D0221, D0212]. Each must lodge a Tk 15 lakh FDR (fixed deposit) security with BMET, employ at least one woman in its office, take **no migration cost** from the woman, and sign an undertaking that its licence can be cancelled if she is abused [D0213, D0215, D0214]. The ministry's order of 1 September 2025 approved 21 agencies on these conditions [ZZ0002, D0212, D0213]. The list of the 21 is in the order, a PDF in Bangla: [the ministry's order](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-probashi/2024/12/8a41985149db47f88907870f3a49f02c.pdf) [D0212]. These Bangladesh-side rules (approved agencies, zero cost) are written for women domestic workers [D0212, D0214].
 2. **UAE side.** Recruiting domestic workers without a MOHRE licence is a crime: up to a year in prison and/or a fine of AED 200,000 to 1,000,000 [D0006, D0055]. A licensed office may deal only with licensed agencies abroad and must follow the MoU with the sending country [D0066, D0091]. The UAE-side rules (licensed offices, no fees; items 2 and 3) cover every domestic worker, men included [D0006, D0009].
 
    **Check it is real:** ask for the UAE office's trade licence number, then search Services, Enquiry services, "Company Information" on mohre.gov.ae [D0134]; MOHRE's list of licensed offices is under Services, Authorised Service Centres [D0127]. For the Bangladesh agency's RL number, see Work visa: company worker, Step 1, item 3.
@@ -945,7 +944,7 @@ The certificate is valid 2 years for a first departure; between 2 and 3 years yo
 > **Need to know**
 > - Which Bangladeshi agencies may send men as house drivers, cooks or gardeners, and does the zero-cost rule cover them?
 > - Which of the 21 approved agencies actually sent women to the UAE in 2025-26?
-> - Does the MoU's list of approved Bangladeshi agencies still apply, and where are it and the ministry's full list of the 21 agencies approved in September 2024 published for workers?
+> - Under the 2018 MoU, may any BMET-licensed agency send domestic workers to the UAE, or only the 21 approved for women in September 2025?
 
 ### Step 4: See the job offer and contract before you sign
 
@@ -985,7 +984,7 @@ The employer or office does the residence steps (Step 5, item 1) within 60 days 
 
 **Check it is real:**
 
-1. **The Bangladeshi agency** must be one of the agencies the ministry approved for women domestic workers (21 in September 2024; see Step 3, item 1) [D0212, D0216].
+1. **The Bangladeshi agency** must be one of the agencies the ministry approved for women domestic workers (21 in September 2025; see Step 3, item 1) [D0212, D0216].
 2. **The UAE office:** call MOHRE on 80060, choose your language, press 2 (domestic workers), choose to speak to a staff member and ask whether the office is licensed; or on mohre.gov.ae open Services > Enquiry services > Company Information and enter the licence number [D0134]. MOHRE also lists licensed offices under Services > Authorised Service Centres [D0127].
 3. **The visa:** have BMET check it (see Step 4, item 4) [D0219].
 
@@ -2056,7 +2055,7 @@ These steps are for the family in Bangladesh. The Dubai Consulate handled 213 bo
 7. **UAE compensation and dues.** When the mission reports that compensation, unpaid wages or end-of-service benefits may be due, the Welfare Board asks the family for a power of attorney and papers (with free help from its legal cell), sends them to the mission and follows the case; it pays the heirs within 60 working days of having the papers and the money [G0028, G0029]. The Abu Dhabi labour wing recovers death compensation from courts, companies and sponsors [G0112]. The family can also write to the Ministry, aswelfare@probashi.gov.bd, which writes to the mission and the Board within 7 working days [G0037].
 
    > **Need to know**
-   > - Is any compensation paid to the families of Bangladeshis killed in the UAE by the 2026 Iranian strikes, such as the water-delivery driver Ahmad Ali [G0135]?
+   > - Is any compensation paid to the families of Bangladeshis killed in the UAE by the 2026 Iranian strikes, such as a water-delivery driver [G0135]?
 
 ### If you lose the job
 

@@ -40,7 +40,7 @@ The minister hopes the first flights under the restart leave in December [YD0005
 
 Malaysia has agreed only in principle to take 10,000 workers at zero cost, the first through BOESL (Bangladesh Overseas Employment and Services Ltd, the government-owned recruiting agency), and no cost cap is set for private agencies (see The cap) [Z0146, Z0154, U0043, YD0007, YA0066]. The minister says these workers will pay nothing and be picked by online lottery from applicants registered on OEP, through BOESL circulars such as its 5 November call for 112 men at DHL Supply Chain (Malaysia), which took applications from 6 to 8 November (Step 1, item 1; Step 1, item 3) [YD0006, W0004, W0001, W0002]. Anyone selling a "zero-cost" or "BOESL" place is selling something the government says is free (Step 1, item 3) [YD0006, W0020].
 
-The government contradicts itself on what "zero cost" means. The Ministry says the 10,000 go free of all migration costs including airfare, and the minister says not a single taka [Z0154, YD0006]. The state minister, Nurul Haque Nur, said in late October that they would still pay the airfare, the medical and a small BOESL service charge, and put the cost at Tk 1.55 to 1.60 lakh a worker [YD0008, U0043]. The DHL circular itself says zero-cost [W0001]. Employers have begun filing demand letters (চাহিদাপত্র, job orders) through FWCMS (Foreign Workers Centralised Management System, Malaysia's online visa system) [YD0011]. The Bangladesh-Malaysia MoU (memorandum of understanding) ends on 31 December 2026; the minister says a new one will be signed that day and wants every licensed agency allowed in [Z0156, YA0068, YA0067].
+The government contradicts itself on what "zero cost" means. The Ministry says the 10,000 go free of all migration costs including airfare, and the minister says not a single taka [Z0154, YD0006]. The state minister, Nurul Haque Nur, said in late October that they would still pay the airfare, the medical and a small BOESL service charge, and put the cost at Tk 1.55 to 1.60 lakh a worker [YD0008, U0043]. The DHL circular itself says zero-cost [W0001]. Employers have begun filing demand letters (চাহিদাপত্র, job orders) through FWCMS (Foreign Workers Centralised Management System, Malaysia's online visa system) [YD0011]. The Bangladesh-Malaysia MoU (memorandum of understanding) runs to 31 December 2026; on 5 November 2026 the minister said a new one would be signed on 31 December and wants every licensed agency allowed in [Z0156, YA0068, YA0067].
 
 > **Need to know**
 > - Do zero-cost workers still pay the airfare, the medical and a small BOESL service charge, as the state minister said in late October [YD0008]?
@@ -328,7 +328,10 @@ How the job order passes from the employer through the agencies to you is in Bac
 
 **On paper the employer pays almost everything; in practice workers have paid lakhs.**
 
-**The employer** pays the levy, the visa, the pass and a deposit [W0054]. Under the Bangladesh-Malaysia MoU in force until 31 December 2026 the employer also pays all Malaysian-side costs, including your airfare both ways, and BMET clears you only once that is ensured (Step 6, item 4) [W0028, R0009, Z0156, W0036]. What the new MoU will set from 1 January 2027 is not known, and whether zero-cost BOESL workers pay their own airfare is disputed (see Status) [Z0156, YD0008].
+**The employer** pays the levy, the visa, the pass and a deposit [W0054]. Under the Bangladesh-Malaysia MoU (valid to 31 December 2026) the employer also pays all Malaysian-side costs, including your airfare both ways, and BMET clears you only once that is ensured (Step 6, item 4) [W0028, R0009, Z0156, W0036]. What the new MoU will set from 1 January 2027 is not known, and whether zero-cost BOESL workers pay their own airfare is disputed (see Status) [Z0156, YD0008].
+
+> **Need to know**
+> - Was a new MoU signed on 31 December 2026, and does it keep the rule that the employer pays all Malaysian-side costs?
 
 **The worker** pays the Bangladesh-side fees, each in the step that owns it [R0008]:
 
@@ -452,7 +455,7 @@ Whatever the route, the checks that tell a real job from a fake are Step 1, item
    The eight, and anything reported about them:
 
    - **General Trading Company (RL0320)** and **Rifa International (RL0693):** among 57 agencies the ACC asked BMET about on 23 July 2026, in a case alleging illegal wealth from trafficking women abroad with forged documents [YC0005, YC0006, YC0018, YC0019].
-   - **United Gulf Services (RL1036):** owned by the wife of Abdul Hai, whose Greenland Overseas was in the earlier syndicate (Prothom Alo, September 2026) [YC0004, YC0020]; Greenland's owners are among those the ACC charged in September 2025 over Malaysia fees [YC0007].
+   - **United Gulf Services (RL1036):** Prothom Alo (September 2026) reports its owner is the wife of an owner of Greenland Overseas, which was in the earlier syndicate [YC0004, YC0020]; Greenland's owners are among those the ACC charged in September 2025 over Malaysia fees [YC0007].
    - **The Anchor Care Global Migration and Consultant (RL1765):** 11 of the 371 workers it had cleared went to Malaysia [YC0003, YC0021].
    - **Al-Shupto Overseas (RL0580)**, **Brothers Trading & Contracting (RL0671)**, **Country Employment Agency (RL1197)** and **Neighbour Associates (RL0746)**: nothing reported against them [YC0002, YC0022, YC0023, YC0024, YC0025].
 
@@ -1558,7 +1561,10 @@ Go in person with an institution representative to IMI's Student Pass Unit at he
 
 ### Bringing your family
 
-A Bangladeshi bachelor's student can't bring family: the Student Pass rules give dependants only to master's and PhD students [S0008, S0038]. Immigration's Long-Term Social Visit Pass page separately lists a category for close family of a foreign student without naming a study level [C0019]; no source says whether it is open to a bachelor's student's family.
+A Bangladeshi bachelor's student can't bring family: the Student Pass rules give dependants only to master's and PhD students [S0008, S0038]. Immigration's Long-Term Social Visit Pass page separately lists a category for close family of a foreign student without naming a study level [C0019].
+
+> **Need to know**
+> - Can the spouse or child of a bachelor's student get the Long-Term Social Visit Pass for a foreign student's close family?
 
 A master's or PhD student may bring a spouse, children under 18, disabled children of any age, parents and parents-in-law; dependants may not work [S0008, S0009, S0011]. The institution applies on STARS [S0021, O0064]. You'll need:
 
@@ -2502,7 +2508,10 @@ Bangladesh Bank controls money leaving Bangladesh [Z0103].
 
 ## DE Rantau Nomad Pass
 
-New applications are closed until 30 November 2026 and reopen on 1 December 2026 [E0099]. The pass is for remote workers and freelancers paid from outside Malaysia, run by MDEC (the Malaysia Digital Economy Corporation), for all nationalities except Israel, main applicant over 18 [E0084]. Minimum income: USD 36,000 a year in tech, USD 60,000 otherwise [E0085, E0098].
+New applications were paused from 1 to 30 November 2026, to resume on 1 December 2026 [E0099]. The pass is for remote workers and freelancers paid from outside Malaysia, run by MDEC (the Malaysia Digital Economy Corporation), for all nationalities except Israel, main applicant over 18 [E0084]. Minimum income: USD 36,000 a year in tech, USD 60,000 otherwise [E0085, E0098].
+
+> **Need to know**
+> - Did DE Rantau applications reopen on 1 December 2026, and what changed?
 
 **Family** [E0087]:
 

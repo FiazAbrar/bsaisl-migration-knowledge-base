@@ -477,8 +477,6 @@ There are two ways in: a licensed Bangladeshi agency selects you from BMET's dat
    > **Need to know**
    > - What did Bonanza's 2024-25 Urban Hospitality recruits actually pay, including any broker's cut?
 
-   Every agency's licence, letters for other countries and cited flags are in the shared Recruiting agencies list (`agencies/README.md`).
-
 4. **Check the job, the demand letter and the employer.** A real Qatar job starts with the employer: MOL approves the recruitment, MOI issues the visa, and the Bangladesh Embassy in Doha attests the demand letter [W0023, W0046]. The papers can still be faked: workers report paying agencies Tk 3 to 4.2 lakh for Qatar construction, garment and electrician jobs; three got a fake contract letter, two of them didn't get the promised job or pay, and the electrician got the job and pay promised [A0015, A0016, A0017].
 
    You'll need [W0073, W0046, W0047, W0024]:
@@ -776,16 +774,15 @@ Qatari government websites end in gov.qa; look-alikes such as gov-qa.com are use
    3. **Fees:**
       - welfare fee: Tk 5,500 from 1 October 2026 [B0055];
       - insurance premium: Tk 1,000, once [B0056];
-      - clearance fee: Tk 250 per worker [B0051];
-      - source income tax: Tk 400 (single visa, not attested) or Tk 250 (attested), and Tk 1,200 (skilled) or Tk 800 (unskilled) on a group visa [B0051];
-      - smart card fee: listed as Tk 250 for workers who got the visa themselves [B0053, B0050].
+      - clearance (smart card) fee: Tk 250 per worker, on either route [B0051, B0053, B0050];
+      - source income tax: Tk 400 (single visa, not attested) or Tk 250 (attested), and Tk 1,200 (skilled) or Tk 800 (unskilled) on a group visa [B0051].
 
       > **Need to know**
       > - Did the insurance premium change with the welfare fee rise [B0162]?
 
    **Check it is real** at portal.wewb.gov.bd/bmet-wewbm-check [B0066]. Welfare desks at Dhaka, Chattogram and Sylhet airports check smart cards before departure [B0061]. **If it goes wrong:** BMET's Director (Emigration), +8802222222415, 01711-135901, diremi@bmet.gov.bd; then the Additional Director General (Employment), 02-48321949, adgemp@bmet.gov.bd [B0054]; then the ladder in If the agency cheats you, item 7 [B0018].
 
-4. **Know your insurance.** Workers who leave with BMET clearance on or after 12 March 2023 are insured by Jiban Bima Corporation (JBC, which insures migrant workers under a contract with the Welfare Board, effective 1 January 2023) for Tk 10 lakh, for 5 years from the smart card's date, for workers aged 18 to 55, for the one-time Tk 1,000 [B0056, H0049]. It pays on death, permanent disability, and job loss with return within 6 months of going (job loss is not covered for a worker who went entirely at the employer's cost); what it pays and how to claim are under If a worker dies, is injured or loses the job (If a worker dies, item 7; If you are injured or fall ill, item 5) [H0050, H0051, B0057]. You can download your insurance certificate from JBC's e-service [H0052].
+4. **Know your insurance.** Workers who leave with BMET clearance from 1 January 2023 are insured by Jiban Bima Corporation (JBC, which insures migrant workers under a contract with the Welfare Board) for Tk 10 lakh, for workers aged 18 to 55, for the one-time Tk 1,000 [H0049]; the cover lasts 5 years from the smart card's date [B0056]. It pays on death, permanent disability, and job loss with return within 6 months of going (job loss is not covered for a worker who went entirely at the employer's cost); what it pays and how to claim are under If a worker dies, is injured or loses the job (If a worker dies, item 7; If you are injured or fall ill, item 5) [H0050, H0051, B0057]. You can download your insurance certificate from JBC's e-service [H0052].
 
 5. **If you need a loan,** PKB lends up to Tk 3 lakh at 9% simple interest a year, repaid in equal monthly instalments over up to 3 years including a grace period, and decides within 7 working days of complete papers [B0036, B0039]. Women migrants have a separate loan on the same terms [B0040]. You must be 18 to 60 and not in default on any loan, and you and your guarantors must live permanently in the branch's area [B0032]. A worker going back on a re-entry visa can also borrow, adding proof of remitting through legal channels, proof of employment abroad and a statement of migration costs [B0033, B0034].
 
@@ -2783,7 +2780,7 @@ Qatar's Labour Law makes the employer pay the worker's dues, compensation for wo
 
 ### Check you are covered
 
-WEWB's death grant needs BMET emigration clearance or Board membership, and death in the country the clearance was for [B0070, B0071]. Workers with a BMET clearance card are members automatically [B0142, B0066]. Check your clearance or membership at portal.wewb.gov.bd/bmet-wewbm-check; if you left without clearance, join from Qatar (see Welfare Board sign-up if you left without BMET clearance) [B0066, B0065]. Workers cleared on or after 12 March 2023 also have the JBC migrant insurance (Work visa: company worker, Step 6, item 4) [B0056, H0049].
+WEWB's death grant needs BMET emigration clearance or Board membership, and death in the country the clearance was for [B0070, B0071]. Workers with a BMET clearance card are members automatically [B0142, B0066]. Check your clearance or membership at portal.wewb.gov.bd/bmet-wewbm-check; if you left without clearance, join from Qatar (see Welfare Board sign-up if you left without BMET clearance) [B0066, B0065]. Workers cleared from 1 January 2023 also have the JBC migrant insurance (Work visa: company worker, Step 6, item 4) [H0049].
 
 ### If you are injured or fall ill
 

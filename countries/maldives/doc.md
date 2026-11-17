@@ -204,7 +204,7 @@ Most Bangladeshi workers arrive legally and then lose their status: over 70% ent
 
 - **Tourist visa to work:** brokers use the visa on arrival for Bangladeshi tourists to send workers without the High Commission's attestation; those workers are being identified [N0096]. Some land via Kuala Lumpur, Chennai or Malé holding what they think is a 12-month work visa but is a 3-month tourist visa [N0070].
 - **Leaving the permit employer:** the employer files a missing report; the worker can be detained and deported with little chance to put his case [N0076, N0088]. The way back is the company withdrawing the report or a Labour Relations Authority letter (see If your employer reports you absconded) [N0120].
-- **How it ends:** 12,552 people were deported between 17 November 2023 and 13 June 2026, and the government aims to remove the rest by 17 November 2026 (see Going home without valid papers) [U0037, U0035].
+- **How it ends:** 12,552 people were deported between 17 November 2023 and 13 June 2026, and in July 2026 the government's stated aim was to deport the rest before 17 November 2026 (see Going home without valid papers) [U0037, U0035].
 
 ## Work visa: company worker (construction, resort, shop)
 
@@ -236,8 +236,6 @@ Every Bangladeshi worker goes the same way: a Maldivian employer with a quota ge
    - **ZM Tours and Travels (RL1287, Active):** 100 posts (May 2024): construction labourers for Sanken Overseas Maldives (Pvt) Ltd at USD 250 a month; 8 hours a day, 48 a week; the same benefits; airfare both ways free; the agency may take at most Tk 95,000 [MA0012, MA0006, B0155, B0160, B0159].
    - **BOESL (RL0147, Active):** 76 posts (June 2024): doctors for the Maldives Ministry of Health (Step 1, item 4) [MA0009, MA0007, B0156]. Red flags: the same July 2026 Gazipur Kontho report lists BOESL among the 57 agencies in the ACC inquiry, an inquiry, not a charge [MA0014]; and an ILO (International Labour Organization) study of Jordan garment jobs records one woman who paid a broker to get through BOESL's selection and a worker's allegation that brokers bribe BOESL interviewers [MA0015, MA0016].
    - **North East Overseas (RL2199, Active):** 30 posts (23 May 2024) for Duplex Private Limited; labourers USD 300, carpenters, masons and bar benders USD 350 [MA0013, MA0005, B0154].
-
-   Every agency's licence, letters for other countries and cited flags are in the shared Recruiting agencies list, in the knowledge base's [agencies folder](https://github.com/FiazAbrar/bsaisl-migration-knowledge-base/tree/main/agencies).
 
 2. **Check that the demand letter is attested by the High Commission in Malé.** A Maldives demand letter is attested by the Labour Welfare Wing of the Bangladesh High Commission in Malé [B0118]. The employer first registers at [employer.oep.gov.bd/employer/registration](https://employer.oep.gov.bd/employer/registration) [B0086]. It then brings the Labour Wing [B0118, B0119]:
 
@@ -1041,7 +1039,7 @@ Few Bangladeshis do domestic work in the Maldives: a 2023 survey by RMMRU (Refug
 
 ### Step 2: Go only through an approved agency
 
-1. **Use an agency the Ministry of Expatriates' Welfare has approved to send women domestic workers.** One ministry order approved the applications of 21 licensed agencies, on conditions; it approves that batch and does not say no other agency is approved [F0109]. The order is dated 17 Bhadra 1431, which is 1 September 2024; its Gregorian date is printed as 2025, but the file sits in a December 2024 folder on the Ministry's site [F0109]. It names the 21 with their RL (recruiting licence) numbers [MB0017]:
+1. **Use an agency the Ministry of Expatriates' Welfare has approved to send women domestic workers.** One ministry order approved the applications of 21 licensed agencies, on conditions; it approves that batch and does not say no other agency is approved [F0109]. The order is dated 1 September 2025 [ZZ0001]. It names the 21 with their RL (recruiting licence) numbers [MB0017]:
 
    Methaq Al Madina Overseas (RL2480), Just Recruiting Ltd (RL2702), Tehzeeb Overseas Ltd (RL1664), Raz International (RL1523), Nabawi Trading International (RL2482), Rubel Enterprise (RL2159), Darul Falah Overseas (RL2047), Al Iradat Ltd (RL2098), Z Zahan International (RL1863), Shwapno Shiri International (RL2035), Al Grand Sultan Overseas (RL1582), Safin Overseas Ltd (RL2542), Al-Toyab International Ltd (RL1603), BKN Overseas (RL1980), Zaara Dynamic Trade Overseas Ltd (RL0497), MRJ Global Ltd (RL2160), Mujib Travels and Tourism Ltd (RL992), Nabadwip Overseas Ltd (RL1546), Al Hashem Air International (RL1639), Green Hope International (RL1930), Duronto Air International Ltd (RL1876) [MB0017].
 
@@ -1452,7 +1450,7 @@ What does exist is narrower:
 A child born in the Maldives to two Bangladeshi parents does not become Maldivian: citizenship comes only from a Maldivian parent [F0059]. The child must be registered both in the Maldives and with Bangladesh [F0063, F0068].
 
 1. **Register the birth with the island or city council within 7 days** [F0063]. The health worker or attendant who delivered the baby fills in the birth form, and the council must register the birth within a week of the application [F0065, F0066]. The duty is on the parents, and missing the 7 days brings a MVR 10,000 fine [F0067, F0064]. The law is the Birth and Death Registration Act (Law No. 23/2022) [F0062].
-2. **Register the child as a Bangladeshi at the High Commission in Malé.** Bangladesh's Births and Deaths Registration Act 2004 requires a Bangladeshi born abroad to be registered with a Bangladesh mission [F0068]. At the High Commission in Kuala Lumpur the child and both parents must come in person with the local birth certificate attested by that country's foreign ministry, both parents' passport copies, the attested marriage certificate, the online application form and two photos [F0069, F0070]. Then apply for the child's passport at the High Commission (High Commission services, item 1) [F0068, B0104].
+2. **Register the child as a Bangladeshi at the High Commission in Malé.** Bangladesh's Births and Deaths Registration Act 2004 requires a Bangladeshi born abroad to be registered with a Bangladesh mission [F0068]. For comparison, the Bangladesh High Commission in Kuala Lumpur, Malaysia, asks the child and both parents to come in person with the local birth certificate attested by the foreign ministry of the country of birth, both parents' passport copies, the attested marriage certificate, the online application form and two photos [F0069, F0070]. Then apply for the child's passport at the High Commission (High Commission services, item 1) [F0068, B0104].
 3. **Get the child a visa.** A child under 18 can get a Dependent Visa only if a parent holds a professional-category work visa (see Dependent visa) [F0002, F0001].
 
 > **Need to know**
@@ -1594,7 +1592,10 @@ Report either to the High Commission or the Maldives Police as under "Work visa:
 - **Who is caught.** Raids target businesses, food courts and markets; Bangladeshis are mainly detained for running businesses on a work visa [U0123, U0036, U0045]. Locals can report workers anonymously on the "Immigration Watch" website [U0050]. In April 2026 police handed 38 Bangladeshi men to Immigration for deportation over drugs and gambling [U0046].
 - **Phase three, 9 May 2026.** More than 200 Immigration and 100 police officers swept 26 zones of Malé, detained 254 people and gave notices to 44 Maldivian employers [U0133, U0040, U0041]. Those detained are deported at the earliest opportunity [U0042].
 - **Since then.** Raids detained 27 of 88 workers checked at the Malé West Harbour food courts, 12 of 20 in Hulhumalé in June, 20 of 55 at Hulhumalé's Rashu Market and 13 of 426 in Greater Malé in September 2026 [U0036, U0044, U0045, U0043].
-- **Numbers.** 12,552 people were deported between 17 November 2023 and 13 June 2026 [U0037]. The government aims to finish removing violators by 17 November 2026 [U0035].
+- **Numbers.** 12,552 people were deported between 17 November 2023 and 13 June 2026 [U0037]. In July 2026 the government said it aimed to deport violators before 17 November 2026, and that the joint Police and Immigration operations would continue for six more months [U0035, ZZ0002].
+
+> **Need to know**
+> - How many were deported by 17 November 2026, and have the operations continued into 2027?
 
 ## Going home without valid papers
 
@@ -1681,7 +1682,7 @@ Under the Occupational Safety and Health Act (in force since July 2024), a worke
 6. **Wages and dues:** all money owed must be paid within 7 days of the job ending [L0065].
 7. **Pension savings,** if the worker was a member: the heirs claim from the Maldives Pension Administration Office with a court judgment or order from Bangladesh naming the heirs [L0176].
 
-**In practice:** 45 Bangladeshis died in the Maldives in the first half of 2026, 10 of them undocumented; eight died in 10 days in July and August 2026, and five died in a fire on Dhigurah Island in March 2026 [U0121, L0170, L0172]. When Bangladeshi WAMCO worker Ameen Mia, 24, went missing on Thilafushi landfill in January 2026, no missing person report was filed for two days, and he was found dead under garbage [L0167, L0168].
+**In practice:** 45 Bangladeshis died in the Maldives in the first half of 2026, 10 of them undocumented; eight died in 10 days in July and August 2026, and five died in a fire on Dhigurah Island in March 2026 [U0121, L0170, L0172]. When a 24-year-old Bangladeshi WAMCO worker went missing on Thilafushi landfill in January 2026, no missing person report was filed for two days, and he was found dead under garbage [L0167, L0168].
 
 > **Need to know**
 > - Does Regulation 2025/R-120 still make the employer tell the family and the High Commission, pay for burial or send the body home?

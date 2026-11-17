@@ -97,7 +97,7 @@ The Bangladesh Embassy's Labour Wing checks the salary in the work permit agains
 
 - **The arrest:** Kuwait's Criminal Investigation Department arrested Mohammad Shahid Islam "Kazi" Papul, then a Bangladeshi MP, on 6 June 2020 on charges of human trafficking, money laundering and bribing officials, for bringing workers to Kuwait through a cleaning company he managed [N0100, N0048, N0044, N0050].
 - **The sentences:** the top appeals court gave him seven years, a fine reported as KD 2.7 million, and deportation in November 2021; an Interior Ministry undersecretary, a manpower director and the head of PAM were jailed in the same case [N0042, N0046, N0043, N0047].
-- **The Bangladesh side:** court sources said the agency Job Bank International (RL1183) sent people to Kuwait on Kazi Badrul's orders, to be received by Papul's company Marafie Kuwaitia, and the ring recruited through brokers across the country at Tk 5-7 lakh each; the agency is still listed Active on BMET's licence list, valid to 31 December 2031 [N0051, N0052, N0093].
+- **The Bangladesh side:** court sources said the agency Job Bank International (RL1183) sent people to Kuwait on orders from Papul's side, to be received by Papul's company Marafie Kuwaitia, and the ring recruited through brokers across the country at Tk 5-7 lakh each; the agency is still listed Active on BMET's licence list, valid to 31 December 2031 [N0051, N0052, N0093].
 
 > **Need to know**
 > - Has Job Bank International (RL1183) been charged, suspended or cleared in Bangladesh since 2020?
@@ -159,7 +159,7 @@ Workers already in Kuwait are not covered, and employers may pay more [B0187, M0
 
 #### What goes unpaid
 
-- **Paper employers:** about 10,000 small companies had not paid foreign workers for months in October 2026, and the Interior Minister set the 20th of each month as the payment deadline (see If you aren't paid) [N0080, N0081].
+- **Paper employers:** about 10,000 small companies had not paid foreign workers for months in October 2026 (see If you aren't paid) [N0080].
 - **Large contractors too:** in July 2019 about 4,000 mostly Asian workers of a Kuwait Oil Company contractor protested at four months' unpaid pay, and some had become illegal because the company had not renewed their residence [N0084].
 - **No work at all:** a cleaner who went in 2018 sat eight months in the company barracks without work, borrowing for food [N0073].
 
@@ -541,7 +541,7 @@ The Private Sector Labour Law (Law 6 of 2010) covers private-sector workers, who
 #### Pay and deductions
 
 - **Minimum wage:** KD 75 a month in the private sector (PAM Decision 14 of 2017), for contracts and work permits made or renewed since then [L0424, L0425]. Since 1 August 2025 the Bangladesh Embassy in Kuwait also refuses to attest a new visa paying less than its own minimums for an 8-hour day: KD 90 for unskilled cleaners and general labourers, KD 120 for a driver on a government contract, and KD 150 for most skilled trades on a private contract (see What the job pays) [M0014, M0018, M0019, M0020, M0021, M0022].
-- **When:** at least once a month, and no more than seven days late [L0036, L0035]. PAM's Director General said in October 2026 that salaries must be paid before the 7th of the following month [L0229].
+- **When:** at least once a month, and no more than seven days late [L0036, L0035].
 - **How:** into your own account at a bank in Kuwait; cash is allowed only in a new worker's first two months [L0037, L0351]. An employer that doesn't pay through the bank can be fined up to the total it owes and must still pay [L0075]. Since February 2026 PAM's monitoring system detects a short or missing salary deposit, suspends the company's file and sends you the reason and amount through the Sahel app (the government's app for residence and labour services) [L0355, L0352].
 - **Which salary counts:** regular allowances count as wage, and your dues are worked out on your last salary [L0034, L0042].
 - **Deductions:** at most 10% of the wage to repay a loan from the employer, with no interest, and all debt deductions together at most 25% [L0038, L0039]. Penalty deductions may not exceed five days' wage a month, and you may be punished only after being told in writing and heard [L0012, L0122].
@@ -550,6 +550,7 @@ The Private Sector Labour Law (Law 6 of 2010) covers private-sector workers, who
 
 > **Need to know**
 > - Has Kuwait raised the KD 75 private-sector minimum since 2017 (Law 6/2010 requires a review at least every five years) [L0086]?
+> - Which monthly pay deadline does PAM enforce: the 20th, announced by the Interior Minister in October 2026, or before the 7th of the following month, announced by PAM's Director General the same month [N0081, L0229]?
 
 #### Hours, rest and leave
 
@@ -1655,7 +1656,7 @@ Deportation can come before a wage case is settled: in July 2025, 127 Bangladesh
 
 ## If a worker dies, is injured or loses the job
 
-Bangladesh's Wage Earners' Welfare Board pays Tk 1 lakh to bring home and treat an injured or sick worker and Tk 3 lakh to the family of a worker who dies abroad [B0130, B0131]. A worker who came without a BMET card can get this cover with a Welfare Board card from the Embassy (see Help from the Bangladesh Embassy in Kuwait) [B0120].
+Bangladesh's Wage Earners' Welfare Board pays up to Tk 2 lakh to treat a worker who comes home injured or sick [ZZ0001] and Tk 3 lakh to the family of a worker who dies abroad [B0131]. A worker who came without a BMET card can get this cover with a Welfare Board card from the Embassy (see Help from the Bangladesh Embassy in Kuwait) [B0120].
 
 ### If you are injured at work
 
@@ -1731,7 +1732,7 @@ The contract ends on the worker's death, and his heirs are owed full end-of-serv
 
 1. **Labour Wing advice and complaints.** Any Bangladeshi worker can get advice and help from the Labour Wing and give it written complaints to forward to Bangladesh; for a labour dispute it points workers to PAM, in person or online (see If you aren't paid) [B0134, B0135, B0136].
 2. **Monthly public hearing (gono shunani)** on the second Sunday of each month at the Embassy [B0205].
-3. **Get a Welfare Board card if you came without a BMET card.** It covers help freeing detained workers and bringing them home, Tk 1 lakh to bring home and treat an injured or sick worker, Tk 3 lakh to the family of a worker who dies, and legal help through the Labour Wing [B0132, B0130, B0131, B0133]. People under 18 or over 65 can't register [B0121].
+3. **Get a Welfare Board card if you came without a BMET card.** It covers help freeing detained workers and bringing them home, Tk 1 lakh to bring home and treat an injured, sick or disabled worker, Tk 3 lakh to the family of a worker who dies, and legal help through the Labour Wing [B0132, B0130, B0131, B0133]. People under 18 or over 65 can't register [B0121].
    1. Apply online at portal.wewb.gov.bd/login and print the form [B0120, B0123].
    2. Attach copies of your passport and Civil ID and a colour photo, and hand it in at Room 13 [B0124, B0122].
    3. Pay KD 17 (about Tk 6,850) at counter 4; the card is ready in 7 working days [B0125, B0127, B0126, G0002].
@@ -1743,6 +1744,7 @@ The contract ends on the worker's death, and his heirs are owed full end-of-serv
 
 > **Need to know**
 > - Does the Labour Wing answer WhatsApp messages, and on which number?
+> - Does a Welfare Board card holder get the Embassy page's Tk 1 lakh for bringing home and treatment [B0130] as well as, or instead of, the Board's up to Tk 2 lakh for treatment after return [ZZ0001]?
 
 ### Contacts in Kuwait
 

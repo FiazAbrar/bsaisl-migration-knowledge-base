@@ -539,16 +539,15 @@ Ask for a copy of the security bond acknowledgement letter, which MOM tells empl
    3. **Fees:**
       - welfare fee: Tk 5,500 from 1 October 2026 [B0034];
       - insurance premium: Tk 1,000, once [B0031];
-      - clearance fee: Tk 250 per worker [B0035];
-      - source income tax: Tk 400 (single visa, not attested) or Tk 250 (attested), and Tk 1,200 (skilled) or Tk 800 (unskilled) on a group visa [B0035];
-      - smart card fee: Tk 250 for workers who got the visa themselves [B0036, B0033].
+      - clearance (smart card) fee: Tk 250 per worker, on either route [B0035, B0036, B0033];
+      - source income tax: Tk 400 (single visa, not attested) or Tk 250 (attested), and Tk 1,200 (skilled) or Tk 800 (unskilled) on a group visa [B0035].
 
       > **Need to know**
       > - Did the insurance premium change with the welfare fee rise [B0038]?
 
    **Check it is real** at portal.wewb.gov.bd/bmet-wewbm-check [B0039]. Welfare desks at Dhaka, Chattogram and Sylhet airports check smart cards before departure [B0041]; in 2023-24 they checked 1,391,988 and stopped 1,098 travellers with no or fake clearance [B0172]. **If it goes wrong:** BMET's Director (Emigration), +8802222222415, 01711-135901, diremi@bmet.gov.bd; then the Additional Director General (Employment), 02-48321949, adgemp@bmet.gov.bd [B0042]; complaints against an agency go by application with proof to BMET's Director General, free, 30 working days [B0044].
 
-4. **Know your insurance.** Workers who leave with BMET clearance on or after 12 March 2023 are insured by Jiban Bima Corporation (JBC), under its contract with the Welfare Board, for Tk 10 lakh, for 5 years from the smart card's date, for workers aged 18 to 55, for the one-time Tk 1,000 [B0031, B0050]. It pays on death, permanent disability, and job loss with return within 6 months of going (job loss is not covered for a worker who went entirely at the employer's cost); what it pays and how to claim are under If a worker dies, is injured or loses the job [B0051, B0052, B0053]. You can download your insurance certificate from JBC's e-service [B0054].
+4. **Know your insurance.** Workers who leave with BMET clearance from 1 January 2023 are insured by Jiban Bima Corporation (JBC), under its contract with the Welfare Board, for Tk 10 lakh, for workers aged 18 to 55, for the one-time Tk 1,000 [B0050]; the cover lasts 5 years from the smart card's date [B0031]. It pays on death, permanent disability, and job loss with return within 6 months of going (job loss is not covered for a worker who went entirely at the employer's cost); what it pays and how to claim are under If a worker dies, is injured or loses the job [B0051, B0052, B0053]. You can download your insurance certificate from JBC's e-service [B0054].
 
 5. **If you need a loan,** PKB (Probashi Kallyan Bank, the government bank for migrant workers) lends up to Tk 3 lakh at 9% simple interest a year, repaid in equal monthly instalments over up to 3 years including a grace period, and decides within 7 working days of complete papers [B0056, B0057]. Women migrants have a separate loan on the same terms [B0058]. You must be 18 to 60 and not in default on any loan, and you and your guarantors must live permanently in the branch's area [B0059]. A worker going back on a re-entry visa can also borrow, adding proof of remitting through legal channels, proof of employment abroad and a statement of migration costs [B0060, B0061].
 
@@ -808,7 +807,7 @@ Employers must manage heat stress for outdoor work, using the WBGT (Wet Bulb Glo
 - **New arrivals:** workers new to Singapore, or back from more than a week's leave, must be eased into the heat over at least 7 days [E0100].
 - **Water:** from WBGT 31°C, drink at least every hour, about 300ml an hour or more [E0101].
 - **Rest:** at WBGT 32°C or more, heavy outdoor work must stop for at least 10 minutes every hour; at 33°C or more, at least 15 minutes every hour, longer as it gets hotter [E0098, E0099].
-- **From 1 December 2026:** employers must also run heat-stress training, provide cool drinking water near the work area, keep cold water, ice packs or water spray ready for emergencies, and give clothing suited to the heat [E0103, E0104, E0105, E0106, E0107].
+- **Enhanced measures, in force from 1 December 2026:** employers must also run heat-stress training, provide cool drinking water near the work area, keep cold water, ice packs or water spray ready for emergencies, and give clothing suited to the heat [E0103, E0104, E0105, E0106, E0107].
 
 Employers must report work-related heat illness to MOM [E0108]. Unsafe workplace conditions can be reported to MOM or to the Migrant Workers' Centre on 6536 2692 [E0125].
 
@@ -2498,7 +2497,7 @@ WEWB pays grants and helps with the migrant insurance for workers who left with 
 
 ### Check you are covered
 
-WEWB's death grant needs BMET emigration clearance or Board membership, and death in the country the clearance was for [B0106, B0107]. Workers with a BMET clearance card don't need to join the Board; anyone can check their clearance or membership at portal.wewb.gov.bd/bmet-wewbm-check [B0039]. A worker in Singapore without clearance can join online at portal.wewb.gov.bd, with a copy of the online application, the passport and proof of legal work (the Work Permit), for the equivalent of Tk 6,500 in Singapore dollars, life insurance included; the High Commission's labour wing verifies the application [B0040, B0183]. Workers cleared on or after 12 March 2023 also have the JBC (Jiban Bima Corporation) migrant insurance described in Work Permit, Step 6, item 4 [B0031, B0050].
+WEWB's death grant needs BMET emigration clearance or Board membership, and death in the country the clearance was for [B0106, B0107]. Workers with a BMET clearance card don't need to join the Board; anyone can check their clearance or membership at portal.wewb.gov.bd/bmet-wewbm-check [B0039]. A worker in Singapore without clearance can join online at portal.wewb.gov.bd, with a copy of the online application, the passport and proof of legal work (the Work Permit), for the equivalent of Tk 6,500 in Singapore dollars, life insurance included; the High Commission's labour wing verifies the application [B0040, B0183]. Workers cleared from 1 January 2023 also have the JBC (Jiban Bima Corporation) migrant insurance described in Work Permit, Step 6, item 4 [B0050].
 
 ### If you are injured or fall ill
 

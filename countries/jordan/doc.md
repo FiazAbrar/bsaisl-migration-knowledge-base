@@ -333,7 +333,7 @@ The government may fix by order the most a worker pays to go abroad [G0129]. Wha
    > **Need to know**
    > - Which TTCs run a sewing machine operation course, and does BOESL treat that certificate as passing its own test [G0009]?
 
-3. **Find a BOESL Jordan notice.** BOESL posts every notice on boesl.gov.bd [G0106]; Jordan garment notices are filed as "জর্ডানে কর্মসংস্থান সংক্রান্ত নোটিশ" (Jordan employment notice) [G0029]. In November 2026 the open Jordan notices were for five factories: Sana Garments, United Creation, Mas Al Safi, Prestige Apparel and Tusker Apparel [G0028]. A real notice gives:
+3. **Find a BOESL Jordan notice.** BOESL posts every notice on boesl.gov.bd [G0106]; Jordan garment notices are filed as "জর্ডানে কর্মসংস্থান সংক্রান্ত নোটিশ" (Jordan employment notice) [G0029]. BOESL's Jordan notices of November 2026 were for five factories: Sana Garments, United Creation, Mas Al Safi, Prestige Apparel and Tusker Apparel [G0028]. A real notice gives:
    - the factory, the post and the number of posts: for example 28 sewing machine operators for Sana Garments, 25 for Prestige Apparel, 100 machine operators for Mas Al Safi [G0001, G0015, KB0001];
    - the monthly basic pay: JD 130, or USD 183.35 to 183.43 [G0012, G0015, KB0001, G0001, G0022];
    - who may apply: women aged 20-35 (21-39 on some), with an NID, and nobody with a court case in Bangladesh or Jordan [G0025, KB0002, G0002, G0004];
@@ -352,7 +352,7 @@ The government may fix by order the most a worker pays to go abroad [G0129]. Wha
    > **Need to know**
    > - While the portal is closed, do walk-in candidates at the Friday tests need any application or receipt?
 
-5. **Go to the test.** All five November 2026 notices set the interview and test for Friday 13 November 2026, by 8 am, at the Mohila (women's) TTC, Darus-Salam Road, Mirpur, Dhaka-1216 [G0006, G0014, KB0008, KB0007, KB0004]; the March 2026 call ran tests every Friday at 7 am from 3 April at the Bangladesh-Korea TTC and the Mohila TTC, Mirpur [G0026]. Representatives of the Jordanian factories take the interviews [G0102].
+5. **Go to the test.** Each notice sets the test date, time and place; the five November 2026 notices set it for Friday 13 November 2026, by 8 am, at the Mohila (women's) TTC, Darus-Salam Road, Mirpur, Dhaka-1216 [G0006, G0014, KB0008, KB0007, KB0004]; the March 2026 call ran tests every Friday at 7 am from 3 April at the Bangladesh-Korea TTC and the Mohila TTC, Mirpur [G0026]. Representatives of the Jordanian factories take the interviews [G0102].
 
    Bring [G0007, G0006, G0021, KB0004, G0008, G0015]:
    - 4 colour passport-size photos, with a white background on most notices;
@@ -365,6 +365,9 @@ The government may fix by order the most a worker pays to go abroad [G0129]. Wha
    No CV is needed [G0019]. You must pass the trade test [G0008]. Recruits describe the BOESL interview, then several days at "the technical" (a sewing test and briefing, six days for one woman) [G0089]; some are thrown by how fast the test centre's machines run [G0205]. From test to visa most waited about three months, some nearly six [G0090].
 
    **For questions:** BOESL, 02-48319125, 02-48317515, 02-58311838, or Probash Bondhu, 16135 [G0006]; BOESL's office is on the 5th floor of Probashi Kallyan Bhaban, 71-72 Eskaton Garden, Ramna, Dhaka-1000, info@boesl.gov.bd, Sunday to Thursday 9 am to 4 pm [G0011].
+
+   > **Need to know**
+   > - Has BOESL posted a new Jordan garment notice or test date since 13 November 2026?
 
 6. **If a private agency offers the job, check the agency and the job order.**
    1. Check its licence on OEP's agency list, www.oep.gov.bd/agencies (free): find the row with its RL number and read the License Status (Active, Expired, Cancelled, Suspended or Server Locked) [G0120, G0122]. A real row reads, for example, "RL2434, BTS OVERSEAS LIMITED, … Active, 02/May/2029" [G0121]. A licence can show "Cancelled" while its validity date is years ahead, and recruiting on a cancelled licence carries 1 to 2 years' prison [G0123, G0124].
@@ -643,7 +646,7 @@ The employer may deduct only [KC0010, KC0011, H0042]:
 - debts ordered by a court;
 - fines and damages within the limits below.
 
-A fine is allowed only for an offence on the penalty list the Minister of Labour has approved, may not exceed 3 days' wage a month, and you must be heard first [KC0014, KC0012]. You can object to the labour inspector within one week of being told of a fine [KC0013]. Deductions for tools or products you lost or damaged by your fault may not exceed 5 days' wage a month [KC0015]. In 2024, 29% of assessed garment factories broke the wage-information and deduction rules, mostly by deducting the daycare allowance from working mothers who were absent [H0043]. At Fine Apparel, a factory run by the Needle Craft group, a 21-year-old Bangladeshi worker, Tureza Akter, was reportedly fined many times for missing excessive targets before she died by suicide; the factory's buyers include Under Armour, Columbia Sportswear and American Eagle Outfitters [H0044, KG0006].
+A fine is allowed only for an offence on the penalty list the Minister of Labour has approved, may not exceed 3 days' wage a month, and you must be heard first [KC0014, KC0012]. You can object to the labour inspector within one week of being told of a fine [KC0013]. Deductions for tools or products you lost or damaged by your fault may not exceed 5 days' wage a month [KC0015]. In 2024, 29% of assessed garment factories broke the wage-information and deduction rules, mostly by deducting the daycare allowance from working mothers who were absent [H0043]. At Fine Apparel, a factory run by the Needle Craft group, a 21-year-old Bangladeshi worker was reportedly fined many times for missing excessive targets before she died by suicide; the factory's buyers include Under Armour, Columbia Sportswear and American Eagle Outfitters [H0044, KG0006].
 
 #### Hours, rest and leave
 
@@ -749,7 +752,7 @@ Being absent without good reason for more than 10 days in a row, or more than 20
 
 #### Strikes and protests
 
-A strike needs at least 14 days' written notice to the employer, and is banned while the dispute is before MOL's conciliation or the labour court [KC0041, KC0042]. A worker in a banned strike is fined at least JD 50 for the first day and JD 5 a day after, and loses pay for those days [KC0043]. After Tureza Akter's death, Fine Apparel workers struck despite the law, and the company agreed to sack the supervisor and two managers they named [H0167, H0168]. After stoppages or strikes, managements have kept paperwork showing that workers "resigned" [H0186, H0187].
+A strike needs at least 14 days' written notice to the employer, and is banned while the dispute is before MOL's conciliation or the labour court [KC0041, KC0042]. A worker in a banned strike is fined at least JD 50 for the first day and JD 5 a day after, and loses pay for those days [KC0043]. After a 21-year-old Bangladeshi worker who had reportedly been fined many times at Fine Apparel took her own life, its workers struck despite the law [H0044, H0167], and the company agreed to sack the supervisor and two male managers [H0168]. After stoppages or strikes, managements have kept paperwork showing that workers "resigned" [H0186, H0187].
 
 #### Drugs and alcohol
 
@@ -903,7 +906,7 @@ Domestic workers are housemaids, cooks, gardeners, patient companions and the li
 
 The worker pays nothing in Jordan: the recruitment office and the household may not take any money from the worker or deduct recruitment costs from her wage, and the office may not work with any party that charges workers for jobs in Jordan [D0054, D0055]. MOL sets the total recruitment cost for each nationality, covering the work-permit fee, tickets, the office's fee and the medical tests in both countries, and an office may not charge the household more [D0052]. For a Bangladeshi worker MOL's figure is JD 2,200, or JD 1,700 when the household is exempt from the work-permit fee [D0005, D0006]. A household charged more can report the office to MOL's Domestic Workers Directorate, in Ministry building no. 3, Abdali, Amman [D0198, KD0005]. The household also pays the residence and work permits every year, the ticket to Jordan, and a ticket home once the worker has served at least two years [D0023, D0028].
 
-In Bangladesh an agency approved to send women domestic workers may take no migration cost from them, and signs a pledge saying so [D0082, D0084]. In practice women still pay village brokers: Nazma Begum of Moheshpur, Jhenaidah, paid brokers Tk 50,000, borrowed from relatives and neighbours, for a Jordan housekeeping job [D0185].
+In Bangladesh an agency approved to send women domestic workers may take no migration cost from them, and signs a pledge saying so [D0082, D0084]. In practice women still pay village brokers: a woman from Jhenaidah paid brokers Tk 50,000, borrowed from relatives and neighbours, for a Jordan housekeeping job [D0185].
 
 > **Need to know**
 > - What does a Bangladeshi woman actually pay a broker for a Jordan housemaid job in 2026?
@@ -989,7 +992,7 @@ For the first 90 days after the worker enters Jordan (or 30 days after she moves
 1. **The contract.** It must be on MOL's approved form, in Arabic and a language you understand, in four copies: one each for you, the household, MOL and the office [D0022].
 2. **The workplace.** You work only in the household's own home, and only the household head and immediate family may give you orders [D0025]. The office may not use you for daily labour or send you to work for anyone else [D0049].
 3. **How long.** The recruitment contract runs two years, and the household renews your work and residence permits every year [D0009, D0023].
-4. **The pay.** Your monthly wage must be paid within seven days of falling due, and you and the household each keep proof of payment [D0024]. Housemaids' pay is reported at USD 200 to 500 a month, and Nazma Begum was promised JD 250 [D0197, D0184].
+4. **The pay.** Your monthly wage must be paid within seven days of falling due, and you and the household each keep proof of payment [D0024]. Housemaids' pay is reported at USD 200 to 500 a month, and one woman was promised JD 250 [D0197, D0184].
 5. **The office.** Ask the agency for the Jordanian office's name and check it is "active" on MOL's list at www.mol.gov.jo (expatriate labour portal) [D0014].
 
    > **Need to know**
@@ -1027,7 +1030,7 @@ For the first 90 days after the worker enters Jordan (or 30 days after she moves
 
 ##### The "housekeeping job" that is trafficking
 
-A village broker promised Nazma Begum a JD 250 housekeeping job in Jordan; in Amman she was taken from the airport, held captive and "sold" on a two-year contract to a man who sent the women in his house to hotels for sex work [D0184, D0186]. Her family went to Ain o Salish Kendra, which wrote to the foreign ministry and the ambassador, and the Embassy rescued her [D0187]. Recruitment to Jordan runs largely through unlicensed rural brokers [D0189, D0195].
+A village broker promised a woman a JD 250 housekeeping job in Jordan; in Amman she was taken from the airport, held captive and "sold" on a two-year contract to a man who sent the women in his house to hotels for sex work [D0184, D0186]. Her family went to Ain o Salish Kendra, which wrote to the foreign ministry and the ambassador, and the Embassy rescued her [D0187]. Recruitment to Jordan runs largely through unlicensed rural brokers [D0189, D0195].
 
 ##### The false passport age
 
@@ -1844,9 +1847,12 @@ A close relative in Bangladesh can ask the Ministry of Expatriates' Welfare and 
 
 The family can also call WEWB's Probash-Bondhu call centre: 16135 in Bangladesh, +8809610102030 from abroad, 24 hours [R0042].
 
-### The 2026 regularisation: leaving free before 1 December 2026
+### The 2026 regularisation
 
 Jordan's Cabinet decided on 8 June 2026, and the Labour Minister announced on 14 June, a period for workers of all nationalities in breach of the labour and residence laws to put their status right or leave, running to 30 September 2026 [KF0001, R0152]. On 6 October 2026 the Cabinet extended it to 1 December 2026 for workers in all sectors, domestic workers included, who came to Jordan to work and held a work permit before [KF0001, KF0002]. MOL said about 49,000 workers in breach were registered with it; by 20 August it had issued or renewed about 64,000 work permits, and about 2,400 workers had left Jordan for good [R0166, R0170, R0169].
+
+> **Need to know**
+> - Did the Cabinet extend the regularisation past 1 December 2026, or did the 1 January 2027 deportation flag take effect?
 
 **If you leave for good ("exit without return"):**
 - All work-permit fees and fines for past periods are waived up to the day you leave [KA0004, R0158].
@@ -1887,7 +1893,7 @@ With a valid passport, go to Step 2. A new e-passport at a Bangladesh mission co
 
 1. **Know what you owe in residence fines.** A foreigner who entered legally but has no temporary residence permit, an overstayer, or an annual-permit holder who did not apply to renew within one month of expiry is fined JD 90 for each month, and JD 3 a day for part of a month [KF0007, R0145, R0146]. Law No. 2 of 2025, published in the Official Gazette on 3 April 2025 and in force 90 days later, doubled these from JD 45 and JD 1.5 [KF0006, KF0007]. A foreigner staying more than two weeks must also register his address with the PSD or a police station, or pay a JD 200 fine [KF0008, R0148, R0149].
 2. **Know what you owe in work-permit fees.** If a past employer never got you a permit, you cannot draw your social security money on leaving until all past permit dues and the penalty are paid [R0196].
-3. **Use the waiver while it lasts.** Until 1 December 2026, leaving for good wipes these fees and fines, as above [KA0004, KF0009, KF0001].
+3. **Use the waiver if it is still open.** Under the 2026 regularisation, open to 1 December 2026, leaving for good wipes these fees and fines (see The 2026 regularisation) [KA0004, KF0009, KF0001].
 
 ### Step 3: Check for fines and travel bans before the airport
 

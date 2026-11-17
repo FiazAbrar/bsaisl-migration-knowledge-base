@@ -57,7 +57,9 @@ def load_sources():
             flag = ""
         wb = WB.get(stem)
         arch = f" Archived copy, Wayback Machine, {nice(wb['archive_date'])}: [{wb['archive_url']}]({wb['archive_url']})." if wb else ""
-        return f"{s['publisher']}{', ' + date if date else ''}. [{s['title']}]({s['url']}). Accessed {acc}.{arch}{flag}"
+        # No url: the address is dead or now serves something harmful, so name the page without linking it.
+        title = f"[{s['title']}]({s['url']})" if s["url"].strip() else s["title"]
+        return f"{s['publisher']}{', ' + date if date else ''}. {title}. Accessed {acc}.{arch}{flag}"
 
     def resolve(key, errors):
         """fact id -> (source key, official?, year tag, reference text)"""
@@ -86,6 +88,9 @@ def main():
     if not os.path.exists("doc.md"):
         sys.exit("no doc.md here; run this from inside a country folder")
     text = open("doc.md", encoding="utf-8").read()
+    # "<reference number>" is not HTML: escape it, or pandoc and GitHub drop it as an unknown tag.
+    text = re.sub(r"<(?!/?(?:a|sup|sub|br|span|div|img|details|summary|kbd)\b)(?![a-z]+:)([^<>\n]{1,60})>",
+                  r"\<\1\>", text)
     country = re.match(r"# ([^:\n]+)", text).group(1).strip()
     pat, resolve = load_sources()
 
@@ -222,16 +227,40 @@ def main():
                     if h0:
                         sec_ = h0["n"]
                         break
-            h = next((h for h in by_sec.get(sec_, []) if re.match(rf"Step {m.group(1)}\b", h["text"])), None) \
-                or next((h for h in heads if not h["ref"] and re.match(rf"Step {m.group(1)}\b", h["text"])), None)
+            # "Step 3: Get a Travel Permit": the writer already gave the step's title. Link the step with that
+            # exact title (it may sit under another visa) and swallow the title, so it isn't printed twice.
+            rest, used_title, item, sub = m.string[m.end():], 0, m.group(2), m.group(3) or ""
+            if item is None and rest.startswith(": "):
+                titled = [h for h in heads if not h["ref"] and re.match(rf"Step {m.group(1)}: ", h["text"])
+                          and rest[2:].lower().startswith(h["text"].split(": ", 1)[1].lower())]
+                if titled:
+                    best = max(len(h["text"]) for h in titled)
+                    titled = [h for h in titled if len(h["text"]) == best]
+                    h = next((h for h in titled if h2_of[h["n"]] == sec_), None) \
+                        or next((h for h in titled if h2_of[h["n"]] == sec), None) or titled[0]
+                    used_title = 2 + len(h["text"].split(": ", 1)[1])
+                    mi = re.match(r", item (\d+)((?:\.\d+)*)\b", rest[used_title:])
+                    if mi:
+                        item, sub = mi.group(1), mi.group(2)
+                        used_title += mi.end()
+            if not used_title:
+                h = next((h for h in by_sec.get(sec_, []) if re.match(rf"Step {m.group(1)}\b", h["text"])), None) \
+                    or next((h for h in heads if not h["ref"] and re.match(rf"Step {m.group(1)}\b", h["text"])), None)
             if not h:
-                return m.group(0)
-            if m.group(2) and (h["id"], m.group(2)) in items:
-                aid, label = items[(h["id"], m.group(2))]
-                return f"[Step {m.group(1)}, item {m.group(2)}{m.group(3) or ''}: {label}](#{aid})"
-            title = h["text"] if m.group(2) is None else f"Step {m.group(1)}, item {m.group(2)}"
-            return f"[{title}](#{h['id']})"
-        seg = re.sub(r"\bStep (\d+)(?:, item (\d+)((?:\.\d+)*))?\b", step, seg)
+                return m.group(0), 0
+            if item and (h["id"], item) in items:
+                aid, label = items[(h["id"], item)]
+                return f"[Step {m.group(1)}, item {item}{sub}: {label}](#{aid})", used_title
+            title = h["text"] if item is None else f"Step {m.group(1)}, item {item}"
+            return f"[{title}](#{h['id']})", used_title
+        out, last = [], 0
+        for m in re.finditer(r"\bStep (\d+)(?:, item (\d+)((?:\.\d+)*))?\b", seg):
+            if m.start() < last:
+                continue  # inside a title already swallowed
+            txt, used_title = step(m)
+            out += [seg[last:m.start()], txt]
+            last = m.end() + used_title
+        seg = "".join(out) + seg[last:]
         def named_item(m):
             hid = find(m.group(1), sec)
             if hid and (hid, m.group(2)) not in items:
@@ -289,7 +318,9 @@ def main():
     open("README.md", "w", encoding="utf-8").write(re.sub(r"\[\]\{#(\w+)\}", r'<a id="\1"></a>', render(True)))
 
     docx = f"{country}.docx"
-    subprocess.run(["pandoc", "pandoc.md", "-o", docx], check=True)
+    # doc.md often starts a list right under its lead-in line ("You'll need:"); GitHub reads that as a list,
+    # pandoc's markdown only with this extension.
+    subprocess.run(["pandoc", "-f", "markdown+lists_without_preceding_blankline", "pandoc.md", "-o", docx], check=True)
     # pandoc uses "–" for nested bullets; make every level "•".
     tmp = docx + ".tmp"
     with zipfile.ZipFile(docx) as zin, zipfile.ZipFile(tmp, "w", zipfile.ZIP_DEFLATED) as zout:

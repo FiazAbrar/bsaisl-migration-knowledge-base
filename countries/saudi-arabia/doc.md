@@ -20,7 +20,7 @@ Open as of 7 November 2026, but disrupted (see Current situation), and still the
 
 #### Current situation
 
-As of 7 November 2026 (re-check by 7 December 2026): open, but two shocks hit this year. In February 2026 the Saudi labour ministry cancelled thousands of visa applications filed for jobs that didn't exist, and visas that had appeared on the Saudi system disappeared [E0127, B0079]. The Iran war and Houthi attacks on Saudi airports have cancelled over 1,000 flights since February; Biman flies Dhaka-Dammam daily from 7 November, Dhaka-Riyadh stays suspended, and Riyadh-bound workers go via Jeddah or Madinah [E0130, SH0007, SH0008, SH0009]. Workers holding visas have been stranded in Bangladesh by the flight cuts, and agencies have rushed to fly them before the visas expire (see When to pay, when to fly, and Hajj-season pauses) [E0130, SH0009]. In October 2026 Bangladesh was discussing with Saudi Arabia extending or renewing the stranded workers' visas [SG0036].
+As of 7 November 2026: open, but two shocks hit this year. In February 2026 the Saudi labour ministry cancelled thousands of visa applications filed for jobs that didn't exist, and visas that had appeared on the Saudi system disappeared [E0127, B0079]. The Iran war and Houthi attacks on Saudi airports have cancelled over 1,000 flights since February; Biman flies Dhaka-Dammam daily from 7 November, Dhaka-Riyadh stays suspended, and Riyadh-bound workers go via Jeddah or Madinah [E0130, SH0007, SH0008, SH0009]. Workers holding visas have been stranded in Bangladesh by the flight cuts, and agencies have rushed to fly them before the visas expire (see When to pay, when to fly, and Hajj-season pauses) [E0130, SH0009]. In October 2026 Bangladesh was discussing with Saudi Arabia extending or renewing the stranded workers' visas [SG0036].
 
 > **Need to know**
 > - Has Saudi Arabia agreed to extend the visas of workers stranded in Bangladesh?
@@ -353,7 +353,7 @@ You find a job in one of two ways: ask licensed agencies what Saudi jobs they ha
    - **A.J. International (RL1304, Active):** 26 letters, 2,755 workers [SC0001, SC0004].
    - **Bashundhara Employment Services (RL1064, Active):** 12 letters, 2,090 workers [SC0001, SC0005].
    - **Amco Enterprise (RL1537, Active):** 28 letters, 1,933 workers [SC0001, SC0006].
-   - **United Gulf Services (RL1036, Active):** 23 letters, 1,850 workers [SC0001, SC0007]. Red flag: Prothom Alo (September 2026) reports it is on Malaysia's 2026 list of 25 agencies and is owned by the wife of Abdul Hai, whose Greenland Overseas was in the earlier Malaysia syndicate; no allegation is made against United Gulf itself [SC0014].
+   - **United Gulf Services (RL1036, Active):** 23 letters, 1,850 workers [SC0001, SC0007]. Red flag: Prothom Alo (September 2026) reports it is on Malaysia's 2026 list of 25 agencies and is owned by the wife of an owner of Greenland Overseas, which was in the earlier Malaysia syndicate; no allegation is made against United Gulf itself [SC0014].
    - **Bonanza Overseas (RL0579, Active, +88028881118):** 21 letters, 1,642 workers [SC0001, A0090]. The only one with outside evidence of fair recruitment: it was the Bangladeshi agency in an ILO-backed fair recruitment pilot for construction jobs in Qatar (2018-2021), not Saudi Arabia [A0096, A0097]. BMET capped its cost at Tk 58,610 per worker in one Saudi letter [A0019].
    - **Azam Overseas (RL0535, Active):** 10 letters, 1,221 workers [SC0001, SC0008].
 
@@ -893,7 +893,7 @@ Support: 920000105, support@qiwa.sa [B0174].
 
 #### Welfare Board sign-up if you left without BMET clearance
 
-**If you came without BMET clearance,** join the Welfare Board from Saudi Arabia to get its insurance and help: apply at [portal.wewb.gov.bd](https://portal.wewb.gov.bd/) with your passport and proof you work legally; the embassy labour wing processes it and you pay the Tk 5,500 welfare fee in riyals [E0020, B0100, B0099].
+**If you came without BMET clearance,** join the Welfare Board from Saudi Arabia to get its insurance and help: apply at [portal.wewb.gov.bd](https://portal.wewb.gov.bd/) with your passport and proof you work legally; the embassy labour wing processes it and you pay the riyal equivalent of Tk 6,500, life insurance included [ZZ0022, ZZ0023, ZZ0021].
 
 > **Need to know**
 > - How much in riyals does the labour wing now charge for Welfare Board membership?
@@ -1196,11 +1196,11 @@ You'll need:
 > - How do you follow up a paper complaint?
 > - Does IOM in Dhaka take up individual complaints (the ILO doesn't [C0123])?
 
-**If the relative cheats you, get free legal advice on 16430 before going to the thana (police station)** [RC0027]. The law reaches the relative, but it can reach you too. Section 31 of the Overseas Employment and Migrants Act 2013 (OEMA) makes it a crime for any person, not only an agency, to take money with a false promise of a job abroad or to keep a migrant's passport or visa: up to 5 years and a fine of at least Tk 1 lakh [RC0009, RC0002, RC0001]. These offences are cognisable, non-bailable and can't be settled privately [RC0010]. But section 33 makes buying or selling a visa inside Bangladesh an offence for any person, 2 to 7 years' rigorous imprisonment and at least Tk 3 lakh, so a worker who paid for a visa can be accused too, and the seller will say so [RA0011, RA0008].
+**If the relative cheats you, call the government legal aid helpline 16699 before going to the thana (police station)** [ZZ0019]. The law reaches the relative, but it can reach you too. Section 31 of the Overseas Employment and Migrants Act 2013 (OEMA) makes it a crime for any person, not only an agency, to take money with a false promise of a job abroad or to keep a migrant's passport or visa: up to 5 years and a fine of at least Tk 1 lakh [RC0009, RC0002, RC0001]. These offences are cognisable, non-bailable and can't be settled privately [RC0010]. But section 33 makes buying or selling a visa inside Bangladesh an offence for any person, 2 to 7 years' rigorous imprisonment and at least Tk 3 lakh, so a worker who paid for a visa can be accused too, and the seller will say so [RA0011, RA0008].
 
 All of these routes can run at once:
 
-- **Free legal help first.** OEMA gives people cheated in the name of migration a right to legal aid [RC0008]. Call 16430, free in office hours (from abroad +880 9123 16430), or apply at the District Legal Aid Office in the district judge court building, which also mediates fraud and money disputes free for people earning up to Tk 1 lakh a year [RC0027, RC0028, RC0029, RC0030]. OKUP, 01842773300, helps families file cases [A0046].
+- **Free legal help first.** OEMA gives people cheated in the name of migration a right to legal aid [RC0008]. Call the government legal aid helpline 16699 (from abroad +8809612316699) [ZZ0019, ZZ0020], or apply at the District Legal Aid Office in the district judge court building [RC0027], which also mediates fraud and money disputes free for people earning up to Tk 1 lakh a year [RC0029, RC0030]. OKUP, 01842773300, helps families file cases [A0046].
 - **Name the people in Bangladesh who took the money.** When the relative lives in Saudi Arabia, his family at home usually received the payment, as with the Banshkhali man's wife and the Bishwanath family [RA0031, RC0019]. Complain against each person named on the bank and bKash records, not only the man abroad [RA0032].
 - **Village salish (সালিস) or the Union Parishad chairman.** Most families go here first, and it rarely returns the money: in Natore a salish ordered the man to repay Tk 1 lakh to each family, a fraction of what they paid, and he ignored it; in Bishwanath the accused ignored three notices, and the chairman certified the victims to go to court [RC0053, RC0020]. BRAC's migration programme runs social arbitration instead, where volunteers and local leaders press the broker to repay [RC0022, RC0023].
 - **Village court (গ্রাম আদালত)** at the Union Parishad, for money owed under an agreement, receipt or other document, up to Tk 3 lakh since 2024: apply on Form 1 with a Tk 20 fee [RC0024, RC0025, RC0026].
@@ -1474,7 +1474,7 @@ Hajj visas are issued only within Bangladesh's yearly quota, through the Ministr
 2. **Primary registration:** deposit Tk 3.5 lakh [D0102].
    - Government package: at any Sonali Bank branch with a voucher [D0104].
    - Private package: into the agency's account shown on the Hajj portal [D0104].
-3. **Final registration:** pay the rest by the deadline (10 December 2026 for Hajj 2027) [D0103]. 2027 government packages cost Tk 5,05,648 to Tk 6,15,263, the private standard package Tk 5,13,648 [D0107, D0108].
+3. **Final registration:** pay the rest by the final-registration deadline the ministry sets; for Hajj 2027 it is 10 December 2026 [D0103]. 2027 government packages cost Tk 5,05,648 to Tk 6,15,263, the private standard package Tk 5,13,648 [D0107, D0108].
 4. **Give the agency your passport and registration certificate, and do biometrics** in Saudi Visa Bio [D0098].
 5. **Collect passport, ticket, visa, ID card and luggage tags** before the flight [D0101].
 
@@ -1975,7 +1975,7 @@ People picked up in raids have usually been held one to two weeks in a deportati
   - 2 passport-size colour photos of each heir.
 
   Send them to the Board; it is free and pays into the account, with an SMS, within 60 working days of complete papers [E0015], though families often have to chase it repeatedly [E0092].
-- **Tk 10 lakh life insurance,** for workers who left with BMET clearance from 12 March 2023, covering 5 years from the BMET card's issue [E0044]. No application if the body comes home; if buried in Saudi Arabia or died after returning, apply at [portal.wewb.gov.bd](https://portal.wewb.gov.bd/) or the Board with the BMET card and passport copy; free, paid within 30 working days [E0013]. Claims recorded as suicide are often rejected. Middlemen offer to speed up payouts for a large cut; the claim is free and needs no middleman [E0097, E0098].
+- **Tk 10 lakh life insurance,** for workers who left with BMET clearance from 1 January 2023, covering 5 years from the BMET card's issue [ZZ0018]. No application if the body comes home; if buried in Saudi Arabia or died after returning, apply at [portal.wewb.gov.bd](https://portal.wewb.gov.bd/) or the Board with the BMET card and passport copy; free, paid within 30 working days [E0013]. Claims recorded as suicide are often rejected. Middlemen offer to speed up payouts for a large cut; the claim is free and needs no middleman [E0097, E0098].
 - **Compensation and unpaid wages from Saudi Arabia.** With the heirs' power of attorney, the embassy pursues them in Saudi courts and sends the money through BMET [E0032]. The Board tells the family when compensation is possible; the family prepares a power of attorney (the Board's legal cell helps) and the same four papers as for the grant; the Board pays heirs within 60 working days of receiving the money, free [E0016]. A relative can also email the ministry (aswelfare@probashi.gov.bd) with proof of migrant status, the employer's name and full address and what is owed; it instructs the embassy and Board within 7 working days, free [E0003].
 - **GOSI work-death compensation.** For a work-injury death, GOSI's work-injury insurance (who it covers: Injured or ill) pays the family 84 times the average monthly wage registered with it, plus repatriation [E0157, E0158, E0159]. Claim at a GOSI office (toll-free 199044), or from Bangladesh through the embassy with a power of attorney, as for compensation and unpaid wages above [E0161, E0162, E0032, E0016].
 

@@ -394,13 +394,12 @@ What happens in practice: a former official of BAIRA (the Bangladesh Association
    3. **Fees:**
       - welfare fee: Tk 5,500 from 1 October 2026 [R0136];
       - insurance premium: Tk 1,000, once [R0137];
-      - clearance fee: Tk 250 per worker [R0130];
-      - source income tax: Tk 400 (single visa, not attested) or Tk 250 (attested), and Tk 1,200 (skilled) or Tk 800 (unskilled) on a group visa [R0130];
-      - smart card fee: Tk 250 [R0131].
+      - clearance (smart card) fee: Tk 250 per worker, on either route [R0130, R0131];
+      - source income tax: Tk 400 (single visa, not attested) or Tk 250 (attested), and Tk 1,200 (skilled) or Tk 800 (unskilled) on a group visa [R0130].
 
    **Check it is real** at portal.wewb.gov.bd/bmet-wewbm-check [B0037]. Welfare desks at Dhaka, Chattogram and Sylhet airports check smart cards before departure [B0077]; in 2023-24 they stopped 1,098 travellers with no or fake clearance [KB0026]. **If it goes wrong:** BMET Director (Emigration), +8802222222415, 01711-135901, diremi@bmet.gov.bd; then the Additional Director General (Employment), 02-48321949, adgemp@bmet.gov.bd [R0134, B0122].
 
-3. **Know your insurance.** Jiban Bima Corporation (JBC, the state insurer) insures workers who leave with BMET clearance on or after 12 March 2023, for Tk 10 lakh, for 5 years, for workers aged 18 to 55, for the one-time Tk 1,000 [R0137, B0040]. It pays Tk 50,000 if you lose the job and return within 6 months of going, except to workers who went entirely at the employer's cost [B0068, R0125].
+3. **Know your insurance.** Jiban Bima Corporation (JBC, the state insurer) insures workers who leave with BMET clearance from 1 January 2023, for Tk 10 lakh, for 5 years, for workers aged 18 to 55, for the one-time Tk 1,000 [B0040]. It pays Tk 50,000 if you lose the job and return within 6 months of going, except to workers who went entirely at the employer's cost [B0068, R0125].
 4. **If you need a loan,** PKB (Probashi Kallyan Bank, the government bank for migrant workers) lends up to Tk 3 lakh at 9% simple interest a year, repaid in equal monthly instalments over up to 3 years including a grace period; the service time is 7 working days [R0142, KB0027]. Women migrants have a separate loan on the same terms [D0144]. You must be 18 to 60 and not in default on any loan, and you and your guarantors must live permanently in the branch's area [R0143, KB0028]. A worker going back on a re-entry visa also gives proof of remitting through legal channels, proof of employment abroad and a statement of migration costs [KB0030].
 
    You'll need [KB0029]:
@@ -846,7 +845,7 @@ Households with a disabled or elderly member who needs care, or on the Social Pr
 **Temporary permits.** From 2027 an office may also bring workers before a household is found, on a 180-day temporary permit costing RO 26 [KD0045, KD0044]. While she waits it pays her 60% of the offered wage for the first 60 days and 100% after that, with free lodging, food and health care [KD0046]. She can be tried for 7 days in a home, for at most 28 days and 4 households in all, and gets a free ticket home if her 180 days run out or her trials pass 28 days [KD0048, KD0047].
 
 > **Need to know**
-> - Under the 2011 office regulation in force until 31 December 2026, may an Omani household still hire a Bangladeshi housemaid directly, without an office?
+> - Until MD 390/2026 replaces the 2011 office regulation on 1 January 2027, may an Omani household hire a Bangladeshi housemaid directly, without an office?
 > - Where does MOL publish its list of licensed recruitment offices?
 
 ### Step 1: Check the route is really open
@@ -1211,7 +1210,7 @@ Check any visa on ROP's Track Your Application page (Route A, Step 3); a visa th
 
 - **Visa questions and payment problems:** ROP e-visa call centre, 80080011 (toll-free in Oman) or +968 22848200, Info-OmaneVisa@rop.gov.om, 07:00 to 21:00 Oman time [V0041].
 - **Exempted-category applications from Bangladesh:** Embassy of the Sultanate of Oman, Plot No. 1, Road No. 68, Dhaka; dhaka@fm.gov.om; +880 2-984 0398 or +880 2-984 0332 [V0112, V0113, V0114].
-- **In trouble in Oman:** Embassy of Bangladesh, Way 3052, Building 4207, Shatti Al Qurum, Muscat; mission.muscat@mofa.gov.bd; +968 24698336, 24698098, 24634798 or 2469 8789 [V0149, V0150].
+- **In trouble in Oman:** Embassy of Bangladesh, Way 3052, Building 4207, Shatti Al Qurum, Muscat; mission.muscat@mofa.gov.bd; +968 24698336, 24698098 or 24634798 [V0149, V0150].
 
 ## Business visit
 
@@ -1486,7 +1485,7 @@ When your residence moves to a new employer, your family's joining residence mov
 
 ### Where to get help
 
-- **The Bangladesh Embassy in Muscat,** Villa 3126 A-B, Way 3040, Shati Al Qurum, Sunday to Thursday 8 am to 4 pm, for attesting documents (RO 3.900 for the first five pages) and advice; book on amardutabashmuscat.org [P0101, P0102, P0099].
+- **The Bangladesh Embassy in Muscat** (address and phones in Contacts, see In Oman), Sunday to Thursday 8 am to 4 pm, for attesting documents (RO 3.900 for the first five pages) and advice; book on amardutabashmuscat.org [P0101, P0102, P0099].
 - **The Embassy's Expatriate Service Cell:** WhatsApp +968 91980621 (text or voice message only), consularmuscat@gmail.com; emergency line +968 91997852 [P0103].
 
 ## Investor and long-term residence
@@ -1867,7 +1866,7 @@ Of 17,871 bodies of migrant workers brought home from July 2016 to June 2022, 1,
 
 ### Check you are covered
 
-WEWB's death grant needs BMET emigration clearance or Board membership, and death in the country the clearance was for [B0035, B0036]. Workers with a BMET clearance card are members automatically; anyone can check at portal.wewb.gov.bd/bmet-wewbm-check [B0037]. A worker in Oman without clearance can join online at portal.wewb.gov.bd [B0038]; at the Embassy in Muscat, membership registration costs RO 22, paid into the Embassy's Welfare Account at Bank Muscat (0316006442800014) and booked like any other service [B0137, B0138]. Workers cleared on or after 12 March 2023 also have the JBC (Jiban Bima Corporation, the state life insurer) migrant insurance [B0039, B0040].
+WEWB's death grant needs BMET emigration clearance or Board membership, and death in the country the clearance was for [B0035, B0036]. Workers with a BMET clearance card are members automatically; anyone can check at portal.wewb.gov.bd/bmet-wewbm-check [B0037]. A worker in Oman without clearance can join online at portal.wewb.gov.bd [B0038]; at the Embassy in Muscat, membership registration costs RO 22, paid into the Embassy's Welfare Account at Bank Muscat (0316006442800014) and booked like any other service [B0137, B0138]. Workers cleared from 1 January 2023 also have the JBC (Jiban Bima Corporation, the state life insurer) migrant insurance [B0040].
 
 ### If you are injured or fall ill
 

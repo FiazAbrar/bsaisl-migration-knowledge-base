@@ -210,3 +210,5 @@ Save every file into `countries/kyrgyzstan/manual/` (NOT `sources/`). Keep the r
 17. **BMDC Eligibility Certificate notice of 10 Feb 2026** (scanned PDF): https://www.bmdc.org.bd/upl/doc/news/iCqLeVnNmDcT.pdf → `bmdc-eligibility-certificate-notice-2026.pdf`
 18. **BMDC Act 2020**: https://www.bmdc.org.bd/docs/bmdc_act_2020.pdf → `bmdc-act-2020.pdf`
 19. **Kyrgyz Ministry of Health: list of accredited medical universities (2026)** and order No. 912 of 3 Aug 2026 (med.kg or gov.kg) → `moh-kg-medical-accreditation-2026.pdf`
+
+- 2026-11-17, insurance start date conflict: WEWB notice (ZZ0001, Jan 2026) says cover is for workers going from 1 January 2023; BMET's safe-migration leaflet (B0010, undated) says from 12 March 2023 (the date the JBC contract was signed; the JBC leaflet says the contract is effective from 1 January 2023). The doc follows the newer WEWB notice and asks the question as a Need to know.

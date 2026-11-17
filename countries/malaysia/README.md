@@ -265,7 +265,7 @@ The minister hopes the first flights under the restart leave in December <sup>[N
 
 Malaysia has agreed only in principle to take 10,000 workers at zero cost, the first through BOESL (Bangladesh Overseas Employment and Services Ltd, the government-owned recruiting agency), and no cost cap is set for private agencies (see [The cap](#the-cap)) <sup>[7](#o7), [14](#o14), [N19](#n19), [N4](#n4), [N20](#n20)</sup>. The minister says these workers will pay nothing and be picked by online lottery from applicants registered on OEP, through BOESL circulars such as its 5 November call for 112 men at DHL Supply Chain (Malaysia), which took applications from 6 to 8 November ([Step 1, item 1: Register on the Overseas Employment Platform (OEP)](#step-1-find-a-real-job-item-1); [Step 1, item 3: Apply for government (BOESL) jobs](#step-1-find-a-real-job-item-3)) <sup>[N4](#n4), [9](#o9)</sup>. Anyone selling a "zero-cost" or "BOESL" place is selling something the government says is free ([Step 1, item 3: Apply for government (BOESL) jobs](#step-1-find-a-real-job-item-3)) <sup>[N4](#n4), [15](#o15)</sup>.
 
-The government contradicts itself on what "zero cost" means. The Ministry says the 10,000 go free of all migration costs including airfare, and the minister says not a single taka <sup>[14](#o14), [N4](#n4)</sup>. The state minister, Nurul Haque Nur, said in late October that they would still pay the airfare, the medical and a small BOESL service charge, and put the cost at Tk 1.55 to 1.60 lakh a worker <sup>[N21](#n21), [N19](#n19)</sup>. The DHL circular itself says zero-cost <sup>[9](#o9)</sup>. Employers have begun filing demand letters (চাহিদাপত্র, job orders) through FWCMS (Foreign Workers Centralised Management System, Malaysia's online visa system) <sup>[N21](#n21)</sup>. The Bangladesh-Malaysia MoU (memorandum of understanding) ends on 31 December 2026; the minister says a new one will be signed that day and wants every licensed agency allowed in <sup>[14](#o14), [N20](#n20)</sup>.
+The government contradicts itself on what "zero cost" means. The Ministry says the 10,000 go free of all migration costs including airfare, and the minister says not a single taka <sup>[14](#o14), [N4](#n4)</sup>. The state minister, Nurul Haque Nur, said in late October that they would still pay the airfare, the medical and a small BOESL service charge, and put the cost at Tk 1.55 to 1.60 lakh a worker <sup>[N21](#n21), [N19](#n19)</sup>. The DHL circular itself says zero-cost <sup>[9](#o9)</sup>. Employers have begun filing demand letters (চাহিদাপত্র, job orders) through FWCMS (Foreign Workers Centralised Management System, Malaysia's online visa system) <sup>[N21](#n21)</sup>. The Bangladesh-Malaysia MoU (memorandum of understanding) runs to 31 December 2026; on 5 November 2026 the minister said a new one would be signed on 31 December and wants every licensed agency allowed in <sup>[14](#o14), [N20](#n20)</sup>.
 
 > **Need to know**
 > - Do zero-cost workers still pay the airfare, the medical and a small BOESL service charge, as the state minister said in late October <sup>[N21](#n21)</sup>?
@@ -619,7 +619,10 @@ How the job order passes from the employer through the agencies to you is in Bac
 
 **On paper the employer pays almost everything; in practice workers have paid lakhs.**
 
-**The employer** pays the levy, the visa, the pass and a deposit <sup>[10](#o10)</sup>. Under the Bangladesh-Malaysia MoU in force until 31 December 2026 the employer also pays all Malaysian-side costs, including your airfare both ways, and BMET clears you only once that is ensured ([Step 6, item 4: The ticket](#step-6-orientation-bmet-clearance-and-the-flight-item-4)) <sup>[30](#o30), [11 (2022)](#o11), [14](#o14), [29 (2024)](#o29)</sup>. What the new MoU will set from 1 January 2027 is not known, and whether zero-cost BOESL workers pay their own airfare is disputed (see [Status](#status)) <sup>[14](#o14), [N21](#n21)</sup>.
+**The employer** pays the levy, the visa, the pass and a deposit <sup>[10](#o10)</sup>. Under the Bangladesh-Malaysia MoU (valid to 31 December 2026) the employer also pays all Malaysian-side costs, including your airfare both ways, and BMET clears you only once that is ensured ([Step 6, item 4: The ticket](#step-6-orientation-bmet-clearance-and-the-flight-item-4)) <sup>[30](#o30), [11 (2022)](#o11), [14](#o14), [29 (2024)](#o29)</sup>. What the new MoU will set from 1 January 2027 is not known, and whether zero-cost BOESL workers pay their own airfare is disputed (see [Status](#status)) <sup>[14](#o14), [N21](#n21)</sup>.
+
+> **Need to know**
+> - Was a new MoU signed on 31 December 2026, and does it keep the rule that the employer pays all Malaysian-side costs?
 
 **The worker** pays the Bangladesh-side fees, each in the step that owns it <sup>[11 (2022)](#o11)</sup>:
 
@@ -745,7 +748,7 @@ Whatever the route, the checks that tell a real job from a fake are [Step 1: Fin
    The eight, and anything reported about them:
 
    - **General Trading Company (RL0320)** and **Rifa International (RL0693):** among 57 agencies the ACC asked BMET about on 23 July 2026, in a case alleging illegal wealth from trafficking women abroad with forged documents <sup>[N6](#n6), [85](#o85)</sup>.
-   - **United Gulf Services (RL1036):** owned by the wife of Abdul Hai, whose Greenland Overseas was in the earlier syndicate (Prothom Alo, September 2026) <sup>[N6](#n6), [85](#o85)</sup>; Greenland's owners are among those the ACC charged in September 2025 over Malaysia fees <sup>[N119](#n119)</sup>.
+   - **United Gulf Services (RL1036):** Prothom Alo (September 2026) reports its owner is the wife of an owner of Greenland Overseas, which was in the earlier syndicate <sup>[N6](#n6), [85](#o85)</sup>; Greenland's owners are among those the ACC charged in September 2025 over Malaysia fees <sup>[N119](#n119)</sup>.
    - **The Anchor Care Global Migration and Consultant (RL1765):** 11 of the 371 workers it had cleared went to Malaysia <sup>[N6](#n6), [85](#o85)</sup>.
    - **Al-Shupto Overseas (RL0580)**, **Brothers Trading & Contracting (RL0671)**, **Country Employment Agency (RL1197)** and **Neighbour Associates (RL0746)**: nothing reported against them <sup>[N6](#n6), [85](#o85)</sup>.
 
@@ -1947,7 +1950,10 @@ Go in person with an institution representative to IMI's Student Pass Unit at he
 
 ### 5.8 Bringing your family
 
-A Bangladeshi bachelor's student can't bring family: the Student Pass rules give dependants only to master's and PhD students <sup>[52](#o52), [53](#o53)</sup>. Immigration's Long-Term Social Visit Pass page separately lists a category for close family of a foreign student without naming a study level <sup>[196](#o196)</sup>; no source says whether it is open to a bachelor's student's family.
+A Bangladeshi bachelor's student can't bring family: the Student Pass rules give dependants only to master's and PhD students <sup>[52](#o52), [53](#o53)</sup>. Immigration's Long-Term Social Visit Pass page separately lists a category for close family of a foreign student without naming a study level <sup>[196](#o196)</sup>.
+
+> **Need to know**
+> - Can the spouse or child of a bachelor's student get the Long-Term Social Visit Pass for a foreign student's close family?
 
 A master's or PhD student may bring a spouse, children under 18, disabled children of any age, parents and parents-in-law; dependants may not work <sup>[52](#o52)</sup>. The institution applies on STARS <sup>[52](#o52), [53](#o53)</sup>. You'll need:
 
@@ -2695,7 +2701,7 @@ Only the employer can appeal, within 14 days; otherwise it can claim 75% of the 
 
 ### 12.9 Scams
 
-Fake passes are sold; check yours as in [Step 4: Check your visa is real](#step-4-check-your-visa-is-real-1): Check your visa is real <sup>[N183](#n183)</sup>. If cheated, use the route under [Family visit sponsored by a Malaysian citizen (VDR), Scams](#scams-3) <sup>[219](#o219), [220](#o220)</sup>. False statements and using another's pass are offences (see [Tourist visa (social visit), Tried by travellers](#tried-by-travellers)) <sup>[39 (2006)](#o39)</sup>.
+Fake passes are sold; check yours as in [Step 4: Check your visa is real](#step-4-check-your-visa-is-real-1) <sup>[N183](#n183)</sup>. If cheated, use the route under [Family visit sponsored by a Malaysian citizen (VDR), Scams](#scams-3) <sup>[219](#o219), [220](#o220)</sup>. False statements and using another's pass are offences (see [Tourist visa (social visit), Tried by travellers](#tried-by-travellers)) <sup>[39 (2006)](#o39)</sup>.
 
 <a id="family-passes"></a>
 
@@ -3045,7 +3051,10 @@ Bangladesh Bank controls money leaving Bangladesh <sup>[271](#o271)</sup>.
 
 ## 15 DE Rantau Nomad Pass
 
-New applications are closed until 30 November 2026 and reopen on 1 December 2026 <sup>[278](#o278)</sup>. The pass is for remote workers and freelancers paid from outside Malaysia, run by MDEC (the Malaysia Digital Economy Corporation), for all nationalities except Israel, main applicant over 18 <sup>[279](#o279)</sup>. Minimum income: USD 36,000 a year in tech, USD 60,000 otherwise <sup>[279](#o279), [280](#o280)</sup>.
+New applications were paused from 1 to 30 November 2026, to resume on 1 December 2026 <sup>[278](#o278)</sup>. The pass is for remote workers and freelancers paid from outside Malaysia, run by MDEC (the Malaysia Digital Economy Corporation), for all nationalities except Israel, main applicant over 18 <sup>[279](#o279)</sup>. Minimum income: USD 36,000 a year in tech, USD 60,000 otherwise <sup>[279](#o279), [280](#o280)</sup>.
+
+> **Need to know**
+> - Did DE Rantau applications reopen on 1 December 2026, and what changed?
 
 **Family** <sup>[279](#o279)</sup>:
 
@@ -4330,7 +4339,7 @@ These facts come only from news or third-party sources. Each needs an official s
 - <a id="n25"></a>N25. Asia News Network (The Daily Star), 5 Oct 2026. [Zero-cost Malaysia jobs for 10,000 Bangladeshi workers](https://asianews.network/?p=305693). Accessed 6 Nov 2026.
 - <a id="n26"></a>N26. The Daily Star, 31 Aug 2026. [Bangladesh and Malaysia must break the recruitment syndicate's grip (opinion)](https://www.thedailystar.net/opinion/views/news/bangladesh-and-malaysia-must-break-the-recruitment-syndicates-grip-4260541). Accessed 7 Nov 2026.
 - <a id="n27"></a>N27. CNA, 6 Nov 2024. [Bangladesh asks Malaysia to arrest and extradite 2 businessmen over alleged migrant worker trafficking and extortion](https://www.channelnewsasia.com/asia/malaysia-bestinet-aminul-islam-migrant-workers-bangladesh-anwar-4729621). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n28"></a>N28. The Business Standard, 15 Nov 2025. [After losing lakhs to 'syndicate', left-behind workers paying again for Malaysia](https://www.tbsnews.net/bangladesh/after-losing-lakhs-syndicate-left-behind-workers-paying-again-malaysia-1285771). Accessed 8 Nov 2026.
+- <a id="n28"></a>N28. The Business Standard, 15 Nov 2025. [After losing lakhs to 'syndicate', left-behind workers paying again for Malaysia](https://www.tbsnews.net/bangladesh/after-losing-lakhs-syndicate-left-behind-workers-paying-again-malaysia-1285771). Accessed 8 Nov 2026. Possibly outdated.
 - <a id="n29"></a>N29. The New Nation, 10 Dec 2025. [Interim govt fails reopening Malaysian labour market](https://dailynewnation.com/?p=787943). Accessed 6 Nov 2026.
 - <a id="n30"></a>N30. Dhaka Tribune, 25 Nov 2025. [First flight of 60 left-behind workers to depart for Malaysia Tuesday](https://www.dhakatribune.com/bangladesh/397276/first-flight-of-60-left-behind-workers-to-depart). Accessed 8 Nov 2026.
 - <a id="n31"></a>N31. The Daily Star, 11 Aug 2025. [Human trafficking charges: CID clears ex-minister, secy after KL's request](https://www.thedailystar.net/news/bangladesh/news/human-trafficking-charges-cid-clears-ex-minister-secy-after-kls-request). Accessed 7 Nov 2026. Possibly outdated.

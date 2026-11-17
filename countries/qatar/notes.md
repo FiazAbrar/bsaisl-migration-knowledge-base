@@ -890,7 +890,7 @@ Conflicts, research narration and facts cut as detail when the doc was rewritten
 
 ### Step 6
 - Insurance payouts (100% death/total disability, partial-disability shares, Tk 50,000 job loss unless the employer paid all costs) [H0049, H0050, H0051, B0057] and claim process (WEWB checks, JBC pays WEWB) [H0052]: kept in "If a worker dies, is injured or loses the job".
-- Insurance start: B0056 (BMET leaflet: clearance on or after 12 March 2023), H0049 (contract of 12 March 2023, effective 1 January 2023), B0058 (WEWB: from 1 January 2023), B0059 (conflict row). Doc states both dates as the decision requires.
+- Insurance start: B0056 (BMET leaflet: clearance on or after 12 March 2023), H0049 (contract of 12 March 2023, effective 1 January 2023), B0058 (WEWB: from 1 January 2023), B0059 (conflict row). Doc states both dates as the decision requires. Updated 2026-11-17: the doc now states 1 January 2023 (H0049, the insurer's own leaflet, and B0058, WEWB) and cites B0056 only for the 5-year term.
 
 ### Step 7 / Your rights at work
 - L0168, W0083 (2021 Embassy FAQ, names ADLSA): offices and addresses may be outdated; Need to know added.
@@ -3626,3 +3626,5 @@ Citation-precision or wording points found in the final independent check and no
 - doc.md line 1446: the Need to know about special approval for agencies sending men cites E0037. E0037 now covers only the Tk 15 lakh deposit, so the citation is loose. This line was not changed in this diff.
 - doc.md lines 518 and 571: the rewording ('which appear in print'; 'The reports cited here are from 2019') matches QK0002/QH0027/QK0001 and QH0035/QH0036. All quotes were found and dates are consistent; no problem.
 - All 46 new facts (ZY0001-ZY0025, ZZ0001-ZZ0021) and the edited rows E0037/E0038 were checked against the saved transcription and oep-agencies-list.md with whitespace and Unicode NFC normalised, and every quote was found. The RL-to-name pairs match the OEP rows. ZZ0010 স্বপ্নসিঁড়ি matches SHWAPNO SHIRI by RL2035. The claim that the approval names no destination country is supported: the letter says only বিদেশে, abroad. The .txt copy of the letter is empty, so the quotes are found only in the .transcription.md.
+
+- 2026-11-17, BMET clearance fee: the citizen charter lists one Tk 250 per route: "ইমিগ্রেশন ক্লিয়ারেন্স ফি (একক ও দলীয় বহির্গমন): কর্মী প্রতি ২৫০" on the agency route (its papers include a pay order for "কল্যাণ ফি ও স্মার্ট কার্ড ফি"), and "স্মার্ট সার্টিফিকেট ফি ২৫০" on the own-visa route. The doc used to list both as separate fees, which read as Tk 500; it now gives one Tk 250 "on either route". This merge is our reading of the charter. Dhaka Tribune (Dec 2024) reported the smart card fee abolished; unresolved.
