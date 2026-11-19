@@ -1,0 +1,486 @@
+                Labour Force Framework, Brunei Darussalam, 2025                     Persons
+                                Aged 18 years and over
+
+                                    Working Age
+                                     Population
+
+                                2024 = 346,000
+                                2025 = 348,700
+
+ Labour Force                                                 Outside Labour Force
+
+2024 = 233,200                                                  2024 = 112,800
+2025 = 232,000                                                  2025 = 116,700
+
+    Employed                Unemployed
+
+2024 = 222,300             2024 = 10,900
+2025 = 220,400             2025 = 11,600
+
+        Labour Force                                          Employment to     Unemployment
+Participation Rate (LFPR)                                     Population Ratio      Rate (UER)
+
+    2024 = 67.4%                                               2024 = 64.2%       2024 = 4.7%
+    2025 = 66.5%                                               2025 = 63.2%       2025 = 5.0%
+
+Notes: Data may not add up to the total due to the rounding.                    Source: Department of Economic Planning and Statistics (DEPS)
+                Labour Force Framework, Brunei Darussalam, 2025                     Persons
+                                Aged 15 years and over
+
+                                      Working Age
+                                        Population
+
+                                  2024 = 364,800
+                                  2025 = 367,800
+
+ Labour Force                                                 Outside Labour Force
+
+2024 = 233,800                                                  2024 = 131,000
+2025 = 232,600                                                  2025 = 135,200
+
+    Employed                Unemployed
+
+2024 = 222,700             2024 = 11,100
+2025 = 220,800             2025 = 11,800
+
+        Labour Force                                          Employment to     Unemployment
+Participation Rate (LFPR)                                     Population Ratio      Rate (UER)
+
+    2024 = 64.1%                                               2024 = 61.0%      2024 = 4.8%
+    2025 = 63.2%                                              2025 = 60.0%       2025 = 5.1%
+
+Notes: Data may not add up to the total due to the rounding.                    Source: Department of Economic Planning and Statistics (DEPS)
+                             Introduction
+
+The Department of Economic Planning and Statistics (JPES) conducted the Labour Force Survey
+(LFS) 2025 from 3 to 30 November 2025. The main objective of the LFS 2025 was to collect
+latest information on the size, structure, distribution and characteristics of the labour force,
+employment, unemployment and other economic characteristics of the population, which will
+be used to assist in the planning, research, policy-making and management concerning the
+labour force in the country.
+
+The survey covered about 3,200 households using stratified, clustered, and two-stage sampling
+design. The data from the selected households were extrapolated according to the sampling
+weights and calibrated to represent the total population living in regular households in Brunei
+Darussalam.
+
+This Preliminary Report of the Labour Force Survey (LFS) 2025 presents the findings of the
+main indicators of LFS 2025 on economic activity of the population of Brunei Darussalam in
+2025, which provide information on the status of economic activity of the population, labour
+force participation rate and unemployment. It provides information on the labour force
+profile for population aged 18 years and over, taking into account the accepted definition
+of working age in Brunei Darussalam. Information on the labour force profile for
+population aged 15 years and over is also provided as a reference and recommendation from
+International Labour Organization (ILO).
+
+The collection and compilation of labour statistics for Brunei Darussalam through the Labour
+Force Survey (LFS) 2025 are in line with the international standards, adopted by
+the 21st International Conference of Labour Statisticians (21st ICLS) in 2023.
+
+More detailed information on the labour force such as employment status, types of
+economic activity, occupation, employment sector and income from employment will be
+released in the detailed Report of the Labour Force Survey (LFS) 2025.
+
+                                                                                                                                 1
+                             Key Findings
+
+Working Age Population and Labour Force
+
+In 2025, the working age population (aged 18 years and over) was 348,700 persons, comprising
+187,900 males (53.9 per cent) and 160,800 females (46.1 per cent).
+Out of this working age population, 66.5 per cent (232,000 persons) were in the labour force
+and the remaining 33.5 per cent (116,700 persons) were outside labour force.
+The labour force participation rate decreased from 67.4 per cent in 2024 to 66.5 per cent in
+2025. This decrease was due to a decrease in the number of employed persons, particularly in
+the Government sector.
+The labour force participation rate for males (74.6 per cent) being higher than females (57.1
+percent) by 17.5 per cent.
+
+Employed
+
+In 2025, the total number of employed persons decreased by 0.9 per cent (1,900 persons) to
+220,400 persons compared to 222,300 persons in 2024.
+The employed person in 2025 comprising 134,600 males (61.1 per cent) and 85,800 females
+(38.9 per cent).
+The majority of employed persons were local workers, totaling of 156,300 persons (70.9 per
+cent), while non-local workers accounted for 64,100 (29.1 per cent).
+
+                                                                                                                                 2
+Unemployed
+
+Out of the total population aged 18 years and over, around 11,600 persons were not working
+and actively looking for a job (unemployed), consisting of 6,000 females (51.7 per cent) and
+5,600 males (48.3 per cent).
+The unemployment rate in 2025 was 5.0 per cent compared to 4.7 per cent in 2024. While the
+youth unemployment rate for persons aged 18 to 24 years old was 18.0 per cent, the rate for
+females (24.2 per cent) was higher compared to males (14.5 per cent).
+
+Outside Labour Force
+
+The total number of persons in the outside labour force was 116,700 persons, including 47,700
+males (40.9 per cent) and 69,000 females (59.1 per cent).
+
+                                                                                                                                 3
+Technical Notes
+
+https://deps.mofe.gov.bn  info.statistics@jpes.gov.bn  statistics.jpes
+                           Technical Notes
+
+Concepts and Definitions
+
+The main concepts and definitions used in the survey are as follows:
+
+A household is defined as a group of persons who live together and make common provision
+for food and other essentials for living. The people in the group may be related or unrelated or
+a combination of both. A household may consist of only one person or several persons.
+
+This refers to the week preceding the date of the survey interview.
+
+a) Local persons are the persons in relation to the immigration laws of the country. The
+    categories are:
+    i) Brunei citizens, i.e. holder of Brunei Darussalam yellow identity card;
+    ii) Permanent resident, i.e. holder of Brunei Darussalam purple identity card.
+
+b) Non-local persons are the persons in relation to the immigration laws of the country which
+    are Temporary resident, i.e. holder of Brunei Darussalam green identity card; and Others.
+
+Persons in the working age population consist of working age population aged 15 years and
+over; and 18 years and over. Working age population 15 years and over is according to the
+recommendations of the International Labour Organization (ILO). While working age
+population 18 years and over is the accepted definition of working age in Brunei Darussalam.
+
+Persons in the labour force are those who were either employed or looking for job
+(unemployed) during the reference period.
+
+                                                                                                                                 4
+The starting point of the international standards on statistics of work, employment and labour
+underutilization is the concept of work defined as:
+ "Any activity performed by persons of any sex and age to produce goods or to provide
+
+    services for use by others or for own use" in line with the General production boundary
+    defined in the System of National Accounts 2008.
+ Work is defined "irrespective of its formal or informal character or the legality of the
+    activity."
+ It excludes "activities not involving production of goods or services (begging, stealing), self-
+    care (personal grooming, hygiene) and activities that cannot be performed by another
+    person on one's own behalf (sleeping, learning, own recreation)."
+
+The international standards recognize different forms of work:
+ Own-use production work (production of goods and services for own final use); -
+
+    employment (work performed for others in exchange for pay or profit);
+ unpaid trainee work (work performed for others without pay to acquire workplace
+
+    experience or skills);
+ volunteer work (non-compulsory work performed for others without pay); and - other
+
+    forms of work (not defined at this time by the international standards, e.g., community
+    work by prisoners, ordered by court or similar authority).
+
+Employment is a particular form of work. Persons in employment are defined as all those with
+working age population, during a short reference period, who were engaged in any
+activity to produce goods or provide services for pay or profit. It excludes persons
+engaged wholly in activities to produce goods or services for own final use such as producing
+agricultural, fishing and gathering products for own-consumption or cleaning,
+decorating, gardening and maintaining one's own dwelling or premises, durables and
+other goods.
+
+Persons in employment comprise:
+    employed persons "at work," i.e., who worked in a job for at least one hour; and
+    employed persons "not at work" due to temporary absence from a job, or to working-
+        time arrangements (such as shift work, flexi-time and compensatory leave for overtime).
+
+                                                                                                                                 5
+Persons in unemployment are defined as all those with working age population during the
+reference period who:
+a) were not in employment;
+b) carried out activities to seek employment during a specified recent period; and
+c) were currently available to take up employment given a job opportunity.
+
+The definition of unemployment provides an exception in the case of future starters. They are
+considered as unemployed even if they did not carry out activities to seek employment during
+the specified recent period, criterion (b) as long as they satisfy the availability condition.
+
+Persons in the outside labour force are those who were not working, did not have job and were
+not actively seeking for work during the reference period.
+
+Persons who are categorised as outside labour force include homemakers, students,
+pensioners and others such as disabled persons.
+
+Labour force participation rate is the ratio of labour force population to the total working age
+
+population.
+
+                         
+              =   100
+
+where
+
+       LFPR is the labour force participation rate
+
+       LF    is the total labour force population
+
+       WAP is the total working age population
+
+                                                                                                  6
+Employment to population ratio is the ratio of the employed population to the working age
+
+population.
+
+                       
+              =   100
+
+where
+
+       ER    is the employment to population ratio
+
+       E     is the total employed population
+
+       WAP is the total working age population
+
+Unemployment rate is the proportion of the unemployed population of the total labour force
+
+population.
+
+                                       
+               =                          100
+                  
+
+where
+
+       UR    is the unemployment rate
+
+       U     Is the unemployment population
+
+       LF    is the total labour force population
+
+Individual figures are independently rounded to the nearest whole number; hence the group
+totals may not always equal to the sum of the individual figures.
+
+                                                                                            7
+Appendix Tables
+
+https://deps.mofe.gov.bn  info.statistics@jpes.gov.bn  statistics.jpes
+Table 1a: Labour Market Indicator aged 18 years and over by Sex, 2024 and 2025
+
+Labour Market Indicator                                           Total       2024       Female   Total        2025       Female
+                                                                              Male                             Male
+Number                                                                                            348,700
+Working Age Population                                            346,000     183,900    162,100               187,900 160,800
+(aged 18 years and over)                                                                          232,000
+Labour Force                                                      233,200     139,500     93,700  116,700      140,200       91,800
+Outside Labour Force                                              112,800      44,500     68,300  220,400       47,700       69,000
+
+Employed                                                          222,300 133,700        88,600    20,500      134,600       85,800
+       Age Group                                                                                  196,000
+              18 ­ 24                                              19,700      12,500     7,200                 13,600        6,900
+              25 ­ 64                                             198,400     118,600    79,800      3,900     118,500       77,500
+              65 and over                                                                          11,600
+                                                                     4,200       2,600    1,600                   2,500       1,400
+                                                                                                     4,500
+Unemployed                                                        10,900      5,800      5,100       7,100        5,600       6,000
+       Age Group
+              18 ­ 24                                              4,400      2,400      2,000              -  2,300         2,200
+              25 ­ 64                                              6,500      3,400      3,100                 3,300         3,800
+              65 and over
+                                                                         0          -         0                      -             -
+
+Percentage (%)                                                    100.0       53.2       46.8     100.0        53.9          46.1
+Working Age Population
+(aged 18 years and over)                                          100.0       59.8       40.2     100.0        60.4          39.6
+Labour Force
+                                                                  67.4        75.9       57.8     66.5         74.6          57.1
+       Labour Force Participation Rate
+Outside Labour Force                                              100.0       39.5       60.5     100.0        40.9          59.1
+
+Employed                                                          100.0       60.1       39.9     100.0        61.1          38.9
+       Employment to Population Ratio
+       Age Group                                                  64.2        72.7       54.7     63.2         71.6          53.4
+              18 ­ 24
+              25 ­ 64                                                    8.9        9.3  8.1      9.3          10.1          8.0
+              65 and over
+                                                                  89.2        88.7       90.1     88.9         88.0          90.3
+Unemployed
+       Unemployed Rate                                                   1.9        1.9  1.8      1.8                1.9     1.6
+       Youth Unemployment Rate
+       Age Group                                                  100.0       53.2       46.8     100.0        48.3          51.7
+              18 ­ 24
+              25 ­ 64                                                    4.7        4.2  5.4      5.0                4.0     6.5
+              65 and over
+                                                                  18.3        16.1       22.6     18.0         14.5          24.2
+Notes: Data may not add up to the total due to the rounding.
+                                                                  40.4        41.4       39.2     38.8         41.1          36.7
+Notations:
+            - Nil                                                 59.6        58.6       60.8     61.2         58.9          63.3
+            0 Below Unit
+                                                                         0.0        -    0.0      -                  -            -
+
+Source: Preliminary Report of the Labour Force Survey (LFS) 2025                                                          8
+Table 1b: Labour Market Indicator aged 18 years and over by Local and Non-local, 2024 and 2025
+
+Labour Market Indicator                                           Total     2024      Non-local     Total     2025        Non-local
+                                                                            Local                             Local
+Number
+Working Age Population                                            346,000   272,500   73,500 348,700 276,500                 72,200
+(aged 18 years and over)
+Labour Force                                                      233,200   169,100   64,100        232,000   167,800        64,200
+Outside Labour Force                                              112,800   103,400    9,400        116,700   108,700         8,000
+
+Employed                                                          222,300 158,400     63,900 220,400 156,300                 64,100
+       Age Group
+              18 ­ 24                                              19,700    14,700    5,000         20,500    16,300         4,200
+              25 ­ 64                                             198,400   140,200   58,200        196,000   136,800        59,200
+              65 and over
+                                                                     4,200     3,500      700          3,900     3,300           600
+
+Unemployed                                                        10,900 10,700       200 11,600 11,500                      100
+       Age Group
+              18 ­ 24                                             4,400     4,300     100           4,500     4,500                  -
+              25 ­ 64
+              65 and over                                         6,500     6,400     100           7,100     7,000          100
+
+                                                                         0         0             -         -         -               -
+
+Percentage (%)                                                    100.0     78.8      21.2          100.0     79.3           20.7
+Working Age Population
+(aged 18 years and over)                                          100.0     72.5      27.5          100.0     72.3           27.7
+Labour Force                                                       67.4     62.1      87.2           66.5
+                                                                            91.7                              60.7           88.9
+       Labour Force Participation Rate                            100.0     71.3       8.3          100.0
+Outside Labour Force                                              100.0     58.1      28.7          100.0     93.1           6.9
+                                                                                      86.9
+Employed                                                           64.2      9.3                     63.2     70.9           29.1
+       Employment to Population Ratio                                       88.5       7.8
+       Age Group                                                     8.9              91.1             9.3    56.5           88.8
+              18 ­ 24                                              89.2      2.2                     88.9
+              25 ­ 64                                                       98.2       1.1                    10.4           6.6
+              65 and over                                            1.9               1.8             1.8
+                                                                  100.0      6.3       0.3          100.0     87.5           92.4
+Unemployed                                                                  22.6       2.0
+       Unemployed Rate                                               4.7                               5.0           2.1     0.9
+       Youth Unemployment Rate                                     18.3     40.2      50.0           18.0
+       Age Group                                                            59.8      50.0                    99.1           0.9
+              18 ­ 24                                              40.4                              38.8
+              25 ­ 64                                              59.6      0.0          -          61.2            6.9     0.2
+              65 and over
+                                                                     0.0                                  -   21.6                   -
+Notes: Data may not add up to the total due to the rounding.
+Notations:                                                                                                    39.1                   -
+
+            - Nil                                                                                             60.9           100.0
+            0 Below Unit
+                                                                                                                     -               -
+
+Source: Preliminary Report of the Labour Force Survey (LFS) 2025                                                          9
+Table 2a: Labour Market Indicator aged 15 years and over by Sex, 2024 and 2025
+
+Labour Market Indicator                                           Total       2024       Female   Total        2025       Female
+                                                                              Male                             Male
+Number                                                                                            367,800
+Working Age Population                                            364,800     194,000    170,800               198,000 169,800
+(aged 15 years and over)                                                                          232,600
+Labour Force                                                      233,800     139,700     94,100  135,200      140,600    92,000
+Outside Labour Force                                              131,000      54,300     76,700  220,800       57,400    77,800
+
+Employed                                                          222,700 133,800        88,900    20,900      134,800    86,000
+       Age Group                                                                                  196,000
+              15 ­ 24                                              20,100      12,600     7,500                 13,800     7,100
+              25 ­ 64                                             198,400     118,600    79,800      3,900     118,500    77,500
+              65 and over                                                                          11,800
+                                                                     4,200       2,600    1,600                   2,500    1,400
+                                                                                                     4,700
+Unemployed                                                        11,100      5,900      5,200       7,100        5,800    6,000
+       Age Group
+              15 ­ 24                                              4,600      2,500      2,200              -  2,500          2,200
+              25 ­ 64                                              6,500      3,400      3,100                 3,300          3,800
+              65 and over
+                                                                         0          -         0                      -              -
+
+Percentage (%)                                                    100.0       53.2       46.8     100.0        53.8           46.2
+Working Age Population
+(aged 15 years and over)                                          100.0       59.8       40.2     100.0        60.4           39.6
+Labour Force
+                                                                  64.1        72.0       55.1     63.2         71.0           54.2
+       Labour Force Participation Rate
+Outside Labour Force                                              100.0       41.5       58.5     100.0        42.5           57.5
+
+Employed                                                          100.0       60.1       39.9     100.0        61.1           38.9
+       Employment to Population Ratio
+       Age Group                                                  61.0        69.0       52.0     60.0         68.1           50.6
+              15 ­ 24
+              25 ­ 64                                                    9.0        9.4  8.4      9.5          10.2           8.3
+              65 and over
+                                                                  89.1        88.6       89.8     88.8         87.9           90.1
+Unemployed
+       Unemployed Rate                                                   1.9        1.9  1.8      1.8                1.9      1.6
+       Youth Unemployment Rate
+       Age Group                                                  100.0       53.2       46.8     100.0        49.2           50.8
+              15 ­ 24
+              25 ­ 64                                                    4.8        4.2  5.5      5.1                4.1      6.5
+              65 and over
+                                                                  18.5        16.6       22.7     18.4         15.3           23.7
+Notes: Data may not add up to the total due to the rounding.
+Notations:                                                        41.4        42.4       42.3     39.8         43.1           36.7
+
+            - Nil                                                 58.6        57.6       59.6     60.2         56.9           63.3
+            0 Below Unit
+                                                                         0.0        -    0.0      -                  -            -
+
+Source: Preliminary Report of the Labour Force Survey (LFS) 2025                                                          10
+Table 2b: Labour Market Indicator aged 15 years and over by Local and Non-local, 2024 and 2025
+
+Labour Market Indicator                                           Total     2024      Non-local     Total     2025        Non-local
+                                                                            Local                             Local
+Number
+Working Age Population                                            364,800   289,500   75,300 367,800 295,000              72,800
+(aged 15 years and over)
+Labour Force                                                      233,800   169,800   64,100        232,600   168,400     64,200
+Outside Labour Force                                              131,000   119,700   11,200        135,200   126,600      8,600
+
+Employed                                                          222,700 158,800     63,900 220,800 156,700              64,100
+       Age Group
+              15 ­ 24                                              20,100    15,100    5,000         20,900    16,700      4,200
+              25 ­ 64                                             198,400   140,200   58,200        196,000   136,800     59,200
+              65 and over
+                                                                     4,200     3,500      700          3,900     3,300        600
+
+Unemployed                                                        11,100 10,900       200 11,800 11,700                       100
+       Age Group
+              15 ­ 24                                             4,600     4,500     100           4,700     4,700                  -
+              25 ­ 64
+              65 and over                                         6,500     6,400     100           7,100     7,000           100
+
+                                                                         0         0             -         -         -               -
+
+Percentage (%)                                                    100.0     79.4      20.6          100.0     80.2            19.8
+Working Age Population
+(aged 15 years and over)                                          100.0     72.6      27.4          100.0     72.4            27.6
+Labour Force                                                       64.1     58.7      85.1           63.2
+                                                                            91.4                              57.1            88.2
+       Labour Force Participation Rate                            100.0     71.3       8.5          100.0
+Outside Labour Force                                              100.0     54.9      28.7          100.0     93.6            6.4
+                                                                                      84.9
+Employed                                                           61.0      9.5                     60.0     71.0            29.0
+       Employment to Population Ratio                                       88.3       7.8
+       Age Group                                                     9.0              91.1             9.5    53.1            88.0
+              15 ­ 24                                              89.1      2.2                     88.8
+              25 ­ 64                                                       98.2       1.1                    10.7            6.6
+              65 and over                                            1.9               1.8             1.8
+                                                                  100.0      6.4       0.3          100.0     87.3            92.4
+Unemployed                                                                  23.0       2.0
+       Unemployed Rate                                               4.8                               5.1           2.1      0.9
+       Youth Unemployment Rate                                     18.5     41.3      50.0           18.4
+       Age Group                                                            58.7      50.0                    99.2            0.8
+              15 ­ 24                                              41.4                              39.8
+              25 ­ 64                                              58.6      0.0          -          60.2            6.9      0.2
+              65 and over
+                                                                     0.0                                  -   22.0                   -
+Notes: Data may not add up to the total due to the rounding.
+Notations:                                                                                                    40.2                   -
+
+            - Nil                                                                                             59.8            100.0
+            0 Below Unit
+                                                                                                                     -               -
+
+Source: Preliminary Report of the Labour Force Survey (LFS) 2025                                                          11
+

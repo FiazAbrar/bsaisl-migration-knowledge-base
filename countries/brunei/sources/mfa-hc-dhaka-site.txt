@@ -1,0 +1,232 @@
+
+
+	Home 
+	- 
+	Home
+
+	Turn on more accessible mode
+
+	Turn off more accessible mode
+
+	Skip Ribbon Commands
+
+	Skip to main content
+
+	Turn off Animations
+
+	Turn on Animations
+
+SharePoint
+
+Sign In
+
+Follow
+
+Home
+Currently selected
+
+About Brunei
+Chancery
+Consular Services
+Gallery
+e-Register
+
+			Home
+
+Home
+Currently selected
+Notebook
+Documents
+Tasks
+Calendar
+Recent
+
+Drop Off Library
+Announcement
+examination result form2
+ER Form
+Examination Result Form
+
+Page not found
+Page not found
+Site Contents
+
+Site Contents
+
+	​WELCOME TO HIGH COMMISSION OF
+BRUNEI DARUSSALAM IN DHAKA
+BANGLADESH
+
+​ 
+
+​​Announcement
+
+Date
+
+Title
+
+There are no items to show in this view of the "Announcement" list.
+Follow
+javascript: SP.SOD.executeFunc('followingcommon.js', 'FollowDoc', function() { FollowDoc('{ListId}', {ItemId}); });
+0x0
+0x0
+ContentType
+0x01
+1100
+Compliance Details
+javascript:if (typeof CalloutManager !== 'undefined' && Boolean(CalloutManager) && Boolean(CalloutManager.closeAll)) CalloutManager.closeAll(); commonShowModalDialog('{SiteUrl}'+ 
+            '/_layouts/15/itemexpiration.aspx' 
+            +'?ID={ItemId}&List={ListId}', 'center:1;dialogHeight:500px;dialogWidth:500px;resizable:yes;status:no;location:no;menubar:no;help:no', function GotoPageAfterClose(pageid){if(pageid == 'hold') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+ 
+            '/_layouts/15/hold.aspx' 
+            +'?ID={ItemId}&List={ListId}');  return false;} if(pageid == 'audit') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+
+            '/_layouts/15/Reporting.aspx'
+            +'?Category=Auditing&backtype=item&ID={ItemId}&List={ListId}'); return false;} if(pageid == 'config') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+
+            '/_layouts/15/expirationconfig.aspx'
+            +'?ID={ItemId}&List={ListId}'); return false;}}, null);
+0x0
+0x1
+ContentType
+0x01
+898
+Document Set Version History
+/_layouts/15/images/versions.gif?rev=40
+javascript:SP.UI.ModalDialog.ShowPopupDialog('{SiteUrl}'+ 
+                '/_layouts/15/DocSetVersions.aspx'
+                + '?List={ListId}&ID={ItemId}')
+0x0
+0x0
+ContentType
+0x0120D520
+330
+Send To other location
+/_layouts/15/images/sendOtherLoc.gif?rev=40
+javascript:GoToPage('{SiteUrl}' +
+                '/_layouts/15/docsetsend.aspx' 
+                + '?List={ListId}&ID={ItemId}')
+0x0
+0x0
+ContentType
+0x0120D520
+350
+
+​​News
+
+Date
+
+Title
+
+15/06/2022
+KEBERANGKATAN NEGARA KEBAWAH DULI YANG MAHA MULIA PADUKA SERI BAGINDA SULTAN HAJI HASSANAL BOLKIAH MU’IZZADDIN WADDAULAH, SULTAN DAN YANG DIPERTUAN NEGARA BRUNEI DARUSSALAM KE DHAKA, REPUBLIK RAKYAT BANGLADESH SELAMA DUA HARI 15 HINGGA 16 OKTOBER 2022
+06/05/2018
+LAWATAN DATO SERI PADUKA HAJI ERYWAN PEHIN DATU PEKERMA JAYA HAJI MOHD YUSOF MENTERI HAL EHWAL LUAR NEGERI DAN PERDAGANGAN II KE PEJABAT SJT NBD, DHAKA
+21/04/2018
+ASEAN DHAKA COMMITTEE (ADC) FAMILY DAY 2018
+22/02/2018
+RESEPSI HARI KEBANGSAAN NEGARA BRUNEI DARUSSALAM KE-34 KEDIAMAN RASMI PESURUHJAYA TINGGI PADA 22 FEB 2018
+04/10/2017
+HIS MAJESTY GOLDEN JUBILEE CELEBRATION 
+1 - 5
+Follow
+javascript: SP.SOD.executeFunc('followingcommon.js', 'FollowDoc', function() { FollowDoc('{ListId}', {ItemId}); });
+0x0
+0x0
+ContentType
+0x01
+1100
+Compliance Details
+javascript:if (typeof CalloutManager !== 'undefined' && Boolean(CalloutManager) && Boolean(CalloutManager.closeAll)) CalloutManager.closeAll(); commonShowModalDialog('{SiteUrl}'+ 
+            '/_layouts/15/itemexpiration.aspx' 
+            +'?ID={ItemId}&List={ListId}', 'center:1;dialogHeight:500px;dialogWidth:500px;resizable:yes;status:no;location:no;menubar:no;help:no', function GotoPageAfterClose(pageid){if(pageid == 'hold') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+ 
+            '/_layouts/15/hold.aspx' 
+            +'?ID={ItemId}&List={ListId}');  return false;} if(pageid == 'audit') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+
+            '/_layouts/15/Reporting.aspx'
+            +'?Category=Auditing&backtype=item&ID={ItemId}&List={ListId}'); return false;} if(pageid == 'config') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+
+            '/_layouts/15/expirationconfig.aspx'
+            +'?ID={ItemId}&List={ListId}'); return false;}}, null);
+0x0
+0x1
+ContentType
+0x01
+898
+Document Set Version History
+/_layouts/15/images/versions.gif?rev=40
+javascript:SP.UI.ModalDialog.ShowPopupDialog('{SiteUrl}'+ 
+                '/_layouts/15/DocSetVersions.aspx'
+                + '?List={ListId}&ID={ItemId}')
+0x0
+0x0
+ContentType
+0x0120D520
+330
+Send To other location
+/_layouts/15/images/sendOtherLoc.gif?rev=40
+javascript:GoToPage('{SiteUrl}' +
+                '/_layouts/15/docsetsend.aspx' 
+                + '?List={ListId}&ID={ItemId}')
+0x0
+0x0
+ContentType
+0x0120D520
+350
+
+Working Hours
+Sunday - Thursday
+8.30 am – 1.00 pm 
+2.00 pm – 4.30 pm 
+Ramadhan Working Hours
+Sunday - Thursday
+9.00 am – 3.00 pm 
+Time Difference with Brunei Darussalam:
+-2 hours 
+Public Holidays​
+
+ ​
+
+ Contact
+​
+ Hotline
++8801727964584​​
+
+ ​ 
+
+ Chancery Address:
+
+​High Commission of Brunei Darussalam
+
+House No.26, Road No. 6,​
+
+Baridhara, Dhaka-1212,​
+
+PEOPLE'S REPUBLIC OF BANGLADESH.
+
+Tel:
+
+Fax:
+
+Email:
+
++(880-2) 5881-3304
++(880-2) 2222-61837
+
++(880-2) 2222-87921
+
+dhaka.bangladesh@mfa.gov.bn
+bruhcomm@bruneihcbd.com
+consular@bruneihcbd.com
+
+					LINKS
+
+Working in Brunei
+
+Studying in Brunei
+
+Business in Brunei
+
+Link of Interest
+
+Head of Mission
+
+​  
+Copyright 
+© Sep 2018 | Ministry of Foreign Affairs. All rights reserved​
+

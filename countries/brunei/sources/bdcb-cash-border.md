@@ -1,0 +1,60 @@
+1.  [Home](https://www.bdcb.gov.bn)
+2.  [AML/CFT](https://www.bdcb.gov.bn/aml-cft)
+3.  Carrying Cash or Bearer Negotiable Instrument (BNI) Across the Border
+
+## Carrying Cash or Bearer Negotiable Instrument (BNI) Across the Border
+
+![icon](https://www.bdcb.gov.bn/img/amlcft/cash/1.png "Definitions of Physical Currency and Bearer Negotiable Instrument")
+
+### Definitions of Physical Currency and Bearer Negotiable Instrument
+
+- Physical Currency
+  - Notes and coins (either from Brunei Darussalam or other countries) recognized as legal tender for business, distribution, and are commonly used as a means of exchange within the issuing country.
+- Bearer Negotiable Instrument (BNI)
+  - A traveller’s cheque; or
+  - Any negotiable instrument that is in bearer form, endorsed without any restriction, made out to a fictitious payee or otherwise in such form that title thereto passes upon delivery; and negotiable instrument that has been signed but with the payee’s name omitted.
+
+###### Implementation of the reporting requirement
+
+Cash couriers are widely known for being used as a major means of moving physical funds across borders either to finance illegal activities or to launder ill-gotten profits. The implementation of the declaration system is part of Brunei Darussalam’s initiative to combat transnational crime, money laundering and terrorism financing. This is also in line with international practices and standards recommended by the Financial Action Task Force (FATF), an inter-governmental body that develops and promotes policies to combat money laundering and terrorism financing.
+
+Any individual who is sending Physical Currency and Bearer Negotiable Instrument (CBNI) out of Brunei or receiving CBNI from outside of Brunei and the CBNI amounts to BND 15,000 (or its equivalent in a foreign currency) or more shall be obliged to make a declaration to the Financial Intelligence Unit (FIU), BDCB.
+
+There are no restrictions on the type or amount of CBNI which may be moved into or out of Brunei Darussalam as long as the person gives a full and accurate report.
+
+There are two types of CBNI Declaration reports.
+
+| Types | More Information | Download Report |
+|----|----|----|
+| Reporting of CBNI for Travellers or Cash Couriers | If you are travelling in or out to Brunei carrying CBNI | [S37 CBNI FORM](https://www.bdcb.gov.bn/docs/amlcft/S37-CBNI-FORM.pdf) |
+| Reporting of CBNI by Cargo, Courier and Postal Service or any other means | If you are sending CBNI out of Brunei of Receiving CBNI from outside of Brunei | [S39 CBNI FORM](https://www.bdcb.gov.bn/docs/amlcft/S39-CBNI-FORM.pdf) |
+
+###### Reporting of CBNI for Travellers or Cash Couriers
+
+Any person that plans to carry Physical Currency or Bearer Negotiable Instrument (CBNI) amounting to BND 15,000 or more (or its equivalent in a foreign currency) into or out of Brunei Darussalam, is required to complete a CBNI declaration report and submit it to the Customs Officer or the Immigrations Officer at the border control post.
+
+For incoming travellers, you may hand the CBNI report to the Customs Officer at respective checkpoints. For departing travellers, you would need to submit your CBNI report to the Immigration Officer before departing Brunei Darussalam.
+
+###### Reporting of CBNI by Cargo, Courier and Postal Server or any other means
+
+Any person that plans to send or receive Physical Currency or Bearer Negotiable Instrument (CBNI) amounting to BND 15,000 or more (or its equivalent in a foreign currency) by cargo, courier, postal service or any other means, is required to complete a CBNI declaration report and submit it to the Financial Intelligence Unit (FIU), BDCB.
+
+Legal persons including companies, corporate bodies, foundations, partnerships or associations are also required to declare.
+
+A full and accurate report has to be submitted to the Financial Intelligence Unit (FIU) within 5 business days upon receiving or submitting CBNI.
+
+Submit the completed report to the following address during working hours:
+
+![icon](https://www.bdcb.gov.bn/img/contactus/address.png)
+
+Financial Intelligence Unit\
+Brunei Darussalam Central Bank\
+Level 7, Ministry of Finance Building,\
+Commonwealth Drive, BB3910\
+Brunei Darussalam
+
+A scanned copy of this report can be sent to fiu\[at\]bdcb\[dot\]gov\[dot\]bn
+
+###### Penalty for not declaring CBNI when crossing the border or providing a false or incomplete report
+
+Failure to give a full and accurate report may be subject to a fine not exceeding BND 50,000, imprisonment for a term not exceeding 3 years, or both.

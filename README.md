@@ -16,6 +16,7 @@ Countries:
 - [Jordan](countries/jordan/) (draft, under review)
 - [South Korea](countries/south-korea/) (draft, under review)
 - [Japan](countries/japan/) (draft, under review)
+- [Brunei](countries/brunei/) (draft, under review)
 
 For all countries:
 

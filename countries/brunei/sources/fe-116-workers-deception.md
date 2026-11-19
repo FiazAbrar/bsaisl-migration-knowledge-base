@@ -1,0 +1,36 @@
+![logo](https://thefinancialexpress.com.bd/img/logo.png)
+
+# 116 BD workers in Brunei seek govt help after deception
+
+#### They lost over Tk 60m by sending remittance through Western Union
+
+------------------------------------------------------------------------
+
+FE REPORT \| Friday, 20 September 2024
+
+------------------------------------------------------------------------
+
+\
+Bangladeshi expatriates working in Brunei filed complaints at the Bangladesh High Commission located in the foreign country, saying that 116 workers have been deceived when they sent remittance through Western Union (WU), and seek government intervention to help them for a refund.\
+The workers sent Bruneian Dollar (BND) 0.72 million (over Tk 60 million) to Bangladesh through Remittance @ Seconds, an agent of the global money transfer service WU, from July 31 to August 27, said a press statement, issued by the Bangladesh High Commission in Brunei's capital Bandar Seri Begawan on Thursday.\
+Without depositing their money, the WU agent office gave fake receipts and the workers have lodged complaints at the high commission in this regard, according to the press statement.\
+A female Filipino employee of the agent office, Nazwa, allegedly emblazed it without depositing the money, and no information is available as to the individual's whereabouts since August 28.\
+Talking to the FE, Tanmoy Majumdar, counselor (political) and head of chancery at the Bangladesh mission in Brunei, said they had a meeting with Brunei Darussalam Central Bank, and the Remittance @ Seconds on this issue.\
+They also sent letter to the foreign and state ministries to that country in this matter, he said.\
+They learned from the agent office the Filipino employee had left for Philippines, and legal proceedings in this regard were ongoing.\
+However, no assurance has been received from the WU yet on whether the workers will get their money back or not, Tanmoy Majumdar added.\
+About 20,000 Bangladeshis are staying in Brunei, and boosting the country's foreign exchange reserve by sending their hard-earned money home.\
+Bangladeshi Expatriates from Brunei sent remittances of US\$74.2 million to home in the financial year 2023-24. They usually sent money through banks or licensed remittance houses, according to the Bangladesh Bank data.\
+WU is a popular exchange house among the Bangladeshi expatriates in Brunei, the statement said.\
+If the workers do not get remedy on this issue, they might lose interests sending remittance via official channels, it added.\
+Expatriates are visiting the mission office everyday hopping to get a solution.
+
+*[\[email protected\]](/cdn-cgi/l/email-protection)*
+
+### Editor : Shamsul Huq Zahid
+
+Published by Syed Nasim Manzur for International Publications Limited from Tropicana Tower (4th floor), 45, Topkhana Road, GPO Box : 2526 Dhaka- 1000 and printed by him The Transcraft Limited, 229, Tejgaon Industrial Area, Dhaka-1208.
+
+Telephone : PABX : 9553550 (Hunting), 9513814, 7172017 and 7172012 Fax : 880-2-9567049
+
+Email : [\[email protected\]](/cdn-cgi/l/email-protection#b2d7d6dbc6ddc0f2c6dad7d4dbdcd3dcd1dbd3ded7cac2c0d7c1c19cd1dddf9cd0d6), [\[email protected\]](/cdn-cgi/l/email-protection#5432312c2426312727626c143339353d387a373b39)

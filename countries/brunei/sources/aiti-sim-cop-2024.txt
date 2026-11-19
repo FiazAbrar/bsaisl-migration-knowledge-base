@@ -1,0 +1,210 @@
+                TELECOMMUNICATIONS ORDER, 2001
+
+CODE OF PRACTICE FOR THE REGISTRATION OF MOBILE PREPAID
+            SUBSCRIBER IDENTITY MODULE (SIM) CARDS
+
+       (MOBILE PREPAID SIM CARDS REGISTRATION CODE)
+
+      REVISION RECORD  EFFECTIVE DATE
+1 First issue          4 September 2024
+
+COPYRIGHT NOTICE
+© AITI, 2024. This document is the property of the Authority for Info-communications Technology
+Industry of Brunei Darussalam ("AITI"), a body corporate with perpetual succession with its address at
+B13 and B14, Simpang 32-5, Jalan Berakas, Kampung Anggerek Desa, Brunei Darussalam. It must not be
+copied, used or reproduced for any other purpose other than for which it is supplied, without the
+expressed written consent of AITI.
+
+DISCLAIMER
+The information contained in this document does not constitute legal advice and should not be treated
+as such. AITI disclaims any responsibility or liability for any use or misuse of this document by any person
+and makes no representation or warranty, express or implied, as to the accuracy or sustainability of the
+information to any third party.
+                                             TABLE OF CONTENTS
+1. PRELIMINARY ...........................................................................................................................2
+1.1. Citation and commencement ......................................................................................................2
+1.2. Purpose of the Code ....................................................................................................................2
+1.3. Definitions....................................................................................................................................2
+1.4. Legal Effect of the Code...............................................................................................................2
+1.5. Application of the Code to Mobile Service Providers..................................................................3
+1.6. Modification of provisions...........................................................................................................3
+2. REGISTRATION OF MOBILE PREPAID SUBSCRIBER IDENTITY MODULE (SIM) CARDS.....................3
+2.1. Compulsory Recording of Subscriber Details ..............................................................................3
+2.2. Age Eligibility ...............................................................................................................................3
+2.3. Documents Required for Registration.........................................................................................4
+2.4. Use of Online or Electronic Registration Platform ......................................................................4
+3. COMPLIANCE ............................................................................................................................4
+3.1. Authorised resellers.....................................................................................................................4
+3.2. Non-compliance...........................................................................................................................5
+
+                                                                                                                 Page 1 of 5
+                                          TELECOMMUNICATIONS ORDER, 2001
+
+  CODE OF PRACTICE FOR THE REGISTRATION OF MOBILE PREPAID SUBSCRIBER IDENTITY MODULE (SIM) CARDS
+                                    (MOBILE PREPAID SIM CARDS REGISTRATION CODE)
+
+In exercise of the powers conferred by Section 26(1) of the Telecommunications Order 2001, the Authority for
+Info-communications Technology Industry of Brunei Darussalam ("Authority") hereby issues the following
+Code of Practice.
+
+1. PRELIMINARY
+
+1.1. Citation and commencement
+
+         This Code of Practice may be cited as the Code of Practice for the Registration of Mobile Prepaid
+         Subscriber Identity Module (SIM) Cards, also referred to as the Mobile Prepaid SIM Cards Registration
+         Code ("the Code"). The Code shall commence on a date to be appointed by the Authority.
+
+1.2. Purpose of the Code
+
+         The purpose of this Code is to ensure accurate subscriber records and safeguarding subscribers by
+         preventing SIM cards from being fraudulently registered and used under their names.
+
+1.3. Definitions
+
+         In this Code, unless the context otherwise requires ­
+
+         1.3.1. "AITI Order, 2001" means the Authority for Info-communications Technology Industry of
+                   Brunei Darussalam Order, 2001.
+
+         1.3.2. "Authority" means the Authority for Info-communications Technology Industry of Brunei
+                   Darussalam (also known by the acronym AITI) established by Section 3 of the AITI Order, 2001.
+
+         1.3.3. "Mobile Service Provider(s)" means a licensee that is granted a licence under Section 5 of the
+                   Telecommunications Order 2001 and engaged in the provision of public mobile
+                   telecommunications services.
+
+1.4. Legal Effect of the Code
+
+         1.4.1. Mobile Service Providers must comply with all provisions in this Code.
+
+         1.4.2. The obligations contained in this Code are in addition to those contained in the
+                   Telecommunications Order, 2001, as well as any other regulations, licences, codes of practice
+                   or standard of performance, advisory guidelines or directions issued by the Authority.
+
+         1.4.3. To the extent that any provision of this Code is inconsistent with the provisions of the AITI
+                   Order, 2001, and/or the Telecommunications Order, 2001, the provisions of the AITI Order,
+                   2001 or the Telecommunications Order, 2001 shall prevail.
+
+         1.4.4. To the extent that this Code is inconsistent with the provision of any other codes of practice or
+                   standard of performance or licence terms and conditions issued by the Authority in relation to
+
+                                                                                                                    Page 2 of 5
+                   the same, whether currently in force or implemented in the future, the terms of this Code shall
+                   prevail.
+
+         1.4.5. If any provision of this Code is held to be unlawful, all other provisions will remain in full force
+                   and effect.
+
+1.5. Application of the Code to Mobile Service Providers
+
+         Unless otherwise stated, the provisions of the Mobile Prepaid SIM Cards Registration Code shall apply
+         to all Mobile Service Providers in Brunei Darussalam.
+
+1.6. Modification of provisions
+
+         1.6.1. The Authority, where appropriate, will modify the provisions of this Code to reflect changes
+                   made in other ancillary regulations, the adoption of new best practices and technology
+                   advancement.
+
+         1.6.2. This Code may be modified by the Authority pursuant to periodic review or on its own initiative
+                   at any time. The Authority may conduct consultations prior to adopting such modifications.
+
+2. REGISTRATION OF MOBILE PREPAID SUBSCRIBER IDENTITY MODULE (SIM) CARDS
+
+2.1. Compulsory Recording of Subscriber Details
+
+2.1.1. Mobile Service Providers shall maintain accurate records of mobile prepaid SIM card users or
+         subscribers. This shall contain, at the very least, personal details (including full name, IC
+         number and address) for accurate identification of the user or subscriber.
+
+2.1.2. Registration can be done either by physical attendance (in person) at the respective Mobile
+         Service Provider's or authorised resellers' storefront or online through electronic platforms
+         maintained by the respective Mobile Service Providers.
+
+2.1.3.  Mobile Service Providers shall require subscribers to notify them of a change in ownership of
+        any mobile prepaid SIM card registered under the subscriber's name. Mobile Service Providers
+        shall update the records of the existing subscriber and new subscriber and register the mobile
+        prepaid SIM card under the new subscriber's name. In the case where the existing subscriber
+        of a mobile prepaid SIM card cannot be contacted, the Mobile Service Provider shall obtain
+        information, documentation or any data that serves as evidence of ownership transfer from
+        the existing subscriber of that mobile prepaid SIM card to the new subscriber.
+
+2.2. Age Eligibility
+
+2.2.1. Mobile Service Providers shall ensure that subscribers of mobile prepaid SIM cards are at least
+         twelve (12) years old and possess a valid national identity card.
+
+2.2.2.  For subscribers under twelve (12) years old ("child subscriber"), Mobile Service Providers shall
+        ensure that the parent or legal guardian of the child subscriber registers the mobile prepaid
+        SIM card under the parent or legal guardian's name and lists down the child subscriber as the
+        user.
+
+                                                                          Page 3 of 5
+2.3. Documents Required for Registration
+
+2.3.1. Brunei Citizens and Permanent Residents:
+
+        2.3.1.1. Valid original yellow identity cards; or
+        2.3.1.2. Valid original Brunei Military or Police Personnel identity cards; or
+        2.3.1.3. Valid original purple identity cards for permanent residents.
+
+2.3.2. Foreign Workers:
+
+        2.3.2.1. Valid original green identity card; or
+        2.3.2.2. Valid original passport and employment pass.
+
+2.3.3. Visitors/Tourists:
+
+        2.3.3.1. Valid original passport from their country of origin.
+
+2.3.4. Local Businesses:
+
+        2.3.4.1. Letter of authorisation from the business owner(s).
+        2.3.4.2. Registered Company: Form X and Notice of Situation of Registered Office.
+        2.3.4.3. Sole Proprietors or Partnerships: Form 16 & 17.
+
+2.4. Use of Online or Electronic Registration Platform
+
+2.4.1. Mobile Service Providers must ensure that their online or electronic registration platforms are
+         able to perform the following functions:
+
+        2.4.1.1. Identification: Collection of user or subscriber information; and
+
+        2.4.1.2. Verification: Ensuring that the user or subscriber information provided belongs to
+                    the user or subscriber either by:
+
+               a) Capturing images or videos of the user or subscriber via recording or sighting
+                     sufficient documents of the user or subscriber to attribute such information to
+                     a particular user or subscriber; or
+
+               b) Adopting biometric technology to scrutinise users or subscribers virtually, in
+                     real-time.
+
+2.4.2.  Prior to implementation of online or electronic registration platforms, Mobile Service Providers
+        are required to submit details of the proposed online or electronic registration platform and
+        its processes and demonstrate it to the Authority for approval to ensure compliance with the
+        requirements in this Code.
+
+3. COMPLIANCE
+
+3.1. Authorised resellers
+
+3.1.1. Mobile Service Providers shall furnish a list of its authorised resellers of mobile prepaid SIM
+         cards to the Authority.
+
+                                                                                        Page 4 of 5
+3.1.2. Mobile Service Providers and authorised resellers shall ensure compliance with the
+         requirements of this Code.
+
+3.2. Non-compliance
+
+3.2.1.  In the case of any non-compliance to the Code, the Authority may suspend or cancel the Mobile
+        Service Provider's licence in whole or in part, reduce the period for which the licence is in force,
+        or impose a financial penalty of such amounts to be determined by the Authority in accordance
+        to Section 8 of the Telecommunications Order, 2001.
+
+                     [END OF DOCUMENT]
+
+                                        Page 5 of 5
+

@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<script nonce="Vy47fln3ARPQNRAcWKJNkOQRwnmm7wk4xuA8BAPY">
+    (function () {
+        function onImageError(img) {
+            if (img.hasAttribute('data-remove-on-error')) img.remove();
+            else if (img.hasAttribute('data-hide-on-error')) img.style.visibility = 'hidden';
+        }
+        // "error" doesn't bubble, so listen in the capture phase; images that failed before this ran are caught on load
+        document.addEventListener('error', function (e) {
+            if (e.target instanceof HTMLImageElement) onImageError(e.target);
+        }, true);
+        document.addEventListener('DOMContentLoaded', function () {
+            document.querySelectorAll('img[data-remove-on-error], img[data-hide-on-error]').forEach(function (img) {
+                if (img.complete && img.naturalWidth === 0) onImageError(img);
+            });
+        });
+        document.addEventListener('click', function (e) {
+            if (e.target.closest('[data-history-back]')) {
+                e.preventDefault();
+                history.back();
+            }
+        });
+        document.addEventListener('change', function (e) {
+            if (e.target.matches('select[data-navigate-on-change]')) window.location.href = e.target.value;
+        });
+        document.addEventListener('keydown', function (e) {
+            if (e.target.matches('[data-letters-only]') && !/[A-Za-z\s]/i.test(e.key)) e.preventDefault();
+        });
+        document.addEventListener('submit', function (e) {
+            if (e.target.matches('form[data-no-submit]')) e.preventDefault();
+        });
+    })();
+</script>
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.bunny.net">
+<link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet">
+<!-- Styles -->
+<style>
+    /* ! tailwindcss v3.2.4 | MIT License | https://tailwindcss.com */*,::after,::before{box-sizing:border-box;border-width:0;border-style:solid;border-color:#e5e7eb}::after,::before{--tw-content:''}html{line-height:1.5;-webkit-text-size-adjust:100%;-moz-tab-size:4;tab-size:4;font-family:Figtree, sans-serif;font-feature-settings:normal}body{margin:0;line-height:inherit}hr{height:0;color:inherit;border-top-width:1px}abbr:where([title]){-webkit-text-decoration:underline dotted;text-decoration:underline dotted}h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit}a{color:inherit;text-decoration:inherit}b,strong{font-weight:bolder}code,kbd,pre,samp{font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}table{text-indent:0;border-color:inherit;border-collapse:collapse}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;font-weight:inherit;line-height:inherit;color:inherit;margin:0;padding:0}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button;background-color:transparent;background-image:none}:-moz-focusring{outline:auto}:-moz-ui-invalid{box-shadow:none}progress{vertical-align:baseline}::-webkit-inner-spin-button,::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}summary{display:list-item}blockquote,dd,dl,figure,h1,h2,h3,h4,h5,h6,hr,p,pre{margin:0}fieldset{margin:0;padding:0}legend{padding:0}menu,ol,ul{list-style:none;margin:0;padding:0}textarea{resize:vertical}input::placeholder,textarea::placeholder{opacity:1;color:#9ca3af}[role=button],button{cursor:pointer}:disabled{cursor:default}audio,canvas,embed,iframe,img,object,svg,video{display:block;vertical-align:middle}img,video{max-width:100%;height:auto}[hidden]{display:none}*, ::before, ::after{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgb(59 130 246 / 0.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: }::-webkit-backdrop{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgb(59 130 246 / 0.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: }::backdrop{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgb(59 130 246 / 0.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: }.relative{position:relative}.mx-auto{margin-left:auto;margin-right:auto}.mx-6{margin-left:1.5rem;margin-right:1.5rem}.ml-4{margin-left:1rem}.mt-16{margin-top:4rem}.mt-6{margin-top:1.5rem}.mt-4{margin-top:1rem}.-mt-px{margin-top:-1px}.mr-1{margin-right:0.25rem}.flex{display:flex}.inline-flex{display:inline-flex}.grid{display:grid}.h-16{height:4rem}.h-7{height:1.75rem}.h-6{height:1.5rem}.h-5{height:1.25rem}.min-h-screen{min-height:100vh}.w-auto{width:auto}.w-16{width:4rem}.w-7{width:1.75rem}.w-6{width:1.5rem}.w-5{width:1.25rem}.max-w-7xl{max-width:80rem}.shrink-0{flex-shrink:0}.scale-100{--tw-scale-x:1;--tw-scale-y:1;transform:translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.grid-cols-1{grid-template-columns:repeat(1, minmax(0, 1fr))}.items-center{align-items:center}.justify-center{justify-content:center}.gap-6{gap:1.5rem}.gap-4{gap:1rem}.self-center{align-self:center}.rounded-lg{border-radius:0.5rem}.rounded-full{border-radius:9999px}.bg-gray-100{--tw-bg-opacity:1;background-color:rgb(243 244 246 / var(--tw-bg-opacity))}.bg-white{--tw-bg-opacity:1;background-color:rgb(255 255 255 / var(--tw-bg-opacity))}.bg-red-50{--tw-bg-opacity:1;background-color:rgb(254 242 242 / var(--tw-bg-opacity))}.bg-dots-darker{background-image:url("data:image/svg+xml,%3Csvg width='30' height='30' viewBox='0 0 30 30' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1.22676 0C1.91374 0 2.45351 0.539773 2.45351 1.22676C2.45351 1.91374 1.91374 2.45351 1.22676 2.45351C0.539773 2.45351 0 1.91374 0 1.22676C0 0.539773 0.539773 0 1.22676 0Z' fill='rgba(0,0,0,0.07)'/%3E%3C/svg%3E")}.from-gray-700\/50{--tw-gradient-from:rgb(55 65 81 / 0.5);--tw-gradient-to:rgb(55 65 81 / 0);--tw-gradient-stops:var(--tw-gradient-from), var(--tw-gradient-to)}.via-transparent{--tw-gradient-to:rgb(0 0 0 / 0);--tw-gradient-stops:var(--tw-gradient-from), transparent, var(--tw-gradient-to)}.bg-center{background-position:center}.stroke-red-500{stroke:#ef4444}.stroke-gray-400{stroke:#9ca3af}.p-6{padding:1.5rem}.px-6{padding-left:1.5rem;padding-right:1.5rem}.text-center{text-align:center}.text-right{text-align:right}.text-xl{font-size:1.25rem;line-height:1.75rem}.text-sm{font-size:0.875rem;line-height:1.25rem}.font-semibold{font-weight:600}.leading-relaxed{line-height:1.625}.text-gray-600{--tw-text-opacity:1;color:rgb(75 85 99 / var(--tw-text-opacity))}.text-gray-900{--tw-text-opacity:1;color:rgb(17 24 39 / var(--tw-text-opacity))}.text-gray-500{--tw-text-opacity:1;color:rgb(107 114 128 / var(--tw-text-opacity))}.underline{-webkit-text-decoration-line:underline;text-decoration-line:underline}.antialiased{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.shadow-2xl{--tw-shadow:0 25px 50px -12px rgb(0 0 0 / 0.25);--tw-shadow-colored:0 25px 50px -12px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.shadow-gray-500\/20{--tw-shadow-color:rgb(107 114 128 / 0.2);--tw-shadow:var(--tw-shadow-colored)}.transition-all{transition-property:all;transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);transition-duration:150ms}.selection\:bg-red-500 *::selection{--tw-bg-opacity:1;background-color:rgb(239 68 68 / var(--tw-bg-opacity))}.selection\:text-white *::selection{--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity))}.selection\:bg-red-500::selection{--tw-bg-opacity:1;background-color:rgb(239 68 68 / var(--tw-bg-opacity))}.selection\:text-white::selection{--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity))}.hover\:text-gray-900:hover{--tw-text-opacity:1;color:rgb(17 24 39 / var(--tw-text-opacity))}.hover\:text-gray-700:hover{--tw-text-opacity:1;color:rgb(55 65 81 / var(--tw-text-opacity))}.focus\:rounded-sm:focus{border-radius:0.125rem}.focus\:outline:focus{outline-style:solid}.focus\:outline-2:focus{outline-width:2px}.focus\:outline-red-500:focus{outline-color:#ef4444}.group:hover .group-hover\:stroke-gray-600{stroke:#4b5563}.z-10{z-index: 10}@media (prefers-reduced-motion: no-preference){.motion-safe\:hover\:scale-\[1\.01\]:hover{--tw-scale-x:1.01;--tw-scale-y:1.01;transform:translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}}@media (prefers-color-scheme: dark){.dark\:bg-gray-900{--tw-bg-opacity:1;background-color:rgb(17 24 39 / var(--tw-bg-opacity))}.dark\:bg-gray-800\/50{background-color:rgb(31 41 55 / 0.5)}.dark\:bg-red-800\/20{background-color:rgb(153 27 27 / 0.2)}.dark\:bg-dots-lighter{background-image:url("data:image/svg+xml,%3Csvg width='30' height='30' viewBox='0 0 30 30' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1.22676 0C1.91374 0 2.45351 0.539773 2.45351 1.22676C2.45351 1.91374 1.91374 2.45351 1.22676 2.45351C0.539773 2.45351 0 1.91374 0 1.22676C0 0.539773 0.539773 0 1.22676 0Z' fill='rgba(255,255,255,0.07)'/%3E%3C/svg%3E")}.dark\:bg-gradient-to-bl{background-image:linear-gradient(to bottom left, var(--tw-gradient-stops))}.dark\:stroke-gray-600{stroke:#4b5563}.dark\:text-gray-400{--tw-text-opacity:1;color:rgb(156 163 175 / var(--tw-text-opacity))}.dark\:text-white{--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity))}.dark\:shadow-none{--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.dark\:ring-1{--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);box-shadow:var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000)}.dark\:ring-inset{--tw-ring-inset:inset}.dark\:ring-white\/5{--tw-ring-color:rgb(255 255 255 / 0.05)}.dark\:hover\:text-white:hover{--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity))}.group:hover .dark\:group-hover\:stroke-gray-400{stroke:#9ca3af}}@media (min-width: 640px){.sm\:fixed{position:fixed}.sm\:top-0{top:0px}.sm\:right-0{right:0px}.sm\:ml-0{margin-left:0px}.sm\:flex{display:flex}.sm\:items-center{align-items:center}.sm\:justify-center{justify-content:center}.sm\:justify-between{justify-content:space-between}.sm\:text-left{text-align:left}.sm\:text-right{text-align:right}}@media (min-width: 768px){.md\:grid-cols-2{grid-template-columns:repeat(2, minmax(0, 1fr))}}@media (min-width: 1024px){.lg\:gap-8{gap:2rem}.lg\:p-8{padding:2rem}}
+</style>
+
+<script nonce="Vy47fln3ARPQNRAcWKJNkOQRwnmm7wk4xuA8BAPY" src="https://brms.boesl.gov.bd/assets/js/jquery.min.js"></script>
+<script nonce="Vy47fln3ARPQNRAcWKJNkOQRwnmm7wk4xuA8BAPY" src="https://brms.boesl.gov.bd/assets/js/main.js"></script>
+
+<script nonce="Vy47fln3ARPQNRAcWKJNkOQRwnmm7wk4xuA8BAPY" src="https://brms.boesl.gov.bd/assets/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+<link href="https://brms.boesl.gov.bd/assets/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+<script nonce="Vy47fln3ARPQNRAcWKJNkOQRwnmm7wk4xuA8BAPY" src="https://brms.boesl.gov.bd/assets/js/toastr.min.js"></script>
+<link href="https://brms.boesl.gov.bd/assets/css/toastr.min.css" rel="stylesheet">
+
+
+<link href="https://brms.boesl.gov.bd/assets/css/main.css?v=1793528564" rel="stylesheet">
+<link href="https://brms.boesl.gov.bd/assets/css/admin-theme.css?v=1793528564" rel="stylesheet">
+
+<style>
+    .loading-ui {
+        position: relative;
+    }
+    .loading-ui::after {
+        content: " ";
+        display: block;
+        position: absolute;
+        width: 64px;
+        height: 64px;
+        margin-top: -32px;
+        margin-left: -32px;
+        top: 152px;
+        left: 50%;
+        border-radius: 50%;
+        border: 8px solid var(--bs-primary);
+        border-top-color: transparent;
+        border-bottom-color: transparent;
+        animation: lds-dual-ring 1.2s linear infinite;
+    }
+    .loading-ui.loading-centered::after {
+        top: 50%;
+    }
+    .loading-ui.loading-small::after {
+        animation: lds-dual-ring-small 1.2s linear infinite;
+    }
+    .loading-ui.loading-hidden>*,
+    .loading-ui.loading-hidden~.loading-hidden>* {
+        visibility: hidden;
+        opacity: 0;
+        transform: scale(0);
+        pointer-events: none;
+    }
+    .loading-ui.btn {
+        color: transparent;
+    }
+    .loading-ui.btn::after {
+        top: 50%;
+        border-width: 3px;
+        border-left-color: #fff;
+        border-right-color: #fff;
+        width: 20px;
+        height: 20px;
+        margin-top: -10px;
+        margin-left: -10px;
+    }
+    .modal-footer.loading-ui {
+        padding: 35px;
+    }
+    .modal-footer.loading-ui::after {
+        top: 50%;
+        border-width: 4px;
+        width: 30px;
+        height: 30px;
+        margin-top: -15px;
+        margin-left: -15px;
+    }
+    .datatable-container.loading-ui>* {
+        opacity: 0;
+        pointer-events: none;
+        transform: scale(0);
+    }
+    .datatable-container.loading-ui::after {
+        top: 80px;
+    }
+    .modal-footer.loading-ui .btn {
+        display: none;
+    }
+    .modal-footer.loading-ui>form {
+        display: none;
+    }
+    @keyframes lds-dual-ring {
+        0% {
+            transform: rotate(0deg);
+        }
+        100% {
+            transform: rotate(360deg);
+        }
+    }
+    @keyframes lds-dual-ring-small {
+        0% {
+            transform: rotate(0deg) scale(0.5);
+        }
+        100% {
+            transform: rotate(360deg) scale(0.5);
+        }
+    }
+</style>
+    <title>BOESL - Home</title>
+    <link rel="icon" href="https://brms.boesl.gov.bd/assets/images/logo_big.png" type="image/png">
+    <style>
+    </style>
+    <style>
+.home-menu {
+    font-weight: bold;
+}
+</style>
+</head>
+<body class="antialiased">
+<div class="">
+    
+<div class="hero-section" style="background-image: url(https://brms.boesl.gov.bd/assets/images/banner.jpg);">
+    <div class="hero-overlay"></div>
+    <div class="container hero-inner">
+        <header class="site-header site-header-transparent">
+    <div class="container">
+        <nav class="site-navbar">
+            <a href="https://brms.boesl.gov.bd" class="site-brand">
+                <img src="https://brms.boesl.gov.bd/assets/images/logo_big.png" alt="BOESL" class="site-brand-logo">
+            </a>
+
+            <button class="site-nav-toggle" type="button" id="siteNavToggle" aria-controls="siteNavCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+
+            <div class="site-nav-collapse" id="siteNavCollapse">
+                <ul class="site-nav-links">
+                    <li><a href="#about_boesl" class="site-nav-link">About BOESL</a></li>
+                    <li><a href="/#jobs_top" class="site-nav-link">Start Applying</a></li>
+                    <li><a href="#contact_us" class="site-nav-link">Contact Us</a></li>
+                </ul>
+
+                <div class="site-nav-actions">
+                                            <a href="https://brms.boesl.gov.bd/login" class="btn site-btn-login">Log In</a>
+                        <a href="https://brms.boesl.gov.bd/registration" class="btn btn-primary site-btn-register">Register</a>
+                                        <span class="btn-group site-lang-toggle">
+    <a href="https://brms.boesl.gov.bd/change-lang" class="btn ">BN</a>
+    <a href="https://brms.boesl.gov.bd/change-lang" class="btn active shut-off">EN</a>
+</span>
+
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>
+
+        <div class="row align-items-center hero-content">
+            <div class="col-md-2 d-flex flex-column justify-content-center">
+                <img class="d-block mx-auto mb-4 hero-emblem" src="https://brms.boesl.gov.bd/assets/images/gov_image.png" alt="">
+            </div>
+            <div class="col-md-8 px-4 py-5 text-center">
+                <span class="hero-badge">“BOESL ensures ethical, safe and affordable immigration”</span>
+                <h1 class="hero-title">Bangladesh Overseas Employment and Services Ltd. (BOESL)</h1>
+                <p class="hero-subtitle">(Ministry of Expatriate Welfare and Foreign Employment)</p>
+                <div class="hero-actions">
+                    <a href="/#jobs_top" class="btn btn-primary hero-btn-primary">Start Applying</a>
+                    <a href="/#about_boesl" class="btn hero-btn-outline">Learn More</a>
+                </div>
+            </div>
+            <div class="col-md-2 d-flex flex-column justify-content-center">
+                <img class="d-block mx-auto mb-4 hero-emblem" src="https://brms.boesl.gov.bd/assets/images/logo_big.png" alt="">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="container mt-16 flex-grow-0" id="jobs_top">
+    <div class="row">
+        <div class="col-md-6">
+            <h2 class="fw-bold">Foreign Recruitment</h2>
+        </div>
+        
+        <div class="col-md-6 d-none">
+            <div class="form-range"></div>
+            <select name="sector" class="form-select" aria-label="sector select">
+                <option value="0" selected>Sector</option>
+                                    <option value="1">Textile / Germents</option>
+                                    <option value="2">Brunei Job Sector</option>
+                                    <option value="3">Fiji Different job sectors</option>
+                                    <option value="4">Construction</option>
+                                    <option value="5">Painter</option>
+                                    <option value="6">Foreman</option>
+                                    <option value="7">Carpenter</option>
+                                    <option value="8">General Worker</option>
+                                    <option value="9">Shipbuilding</option>
+                                    <option value="10">Mobile Technician</option>
+                                    <option value="11">Shop Laborer</option>
+                                    <option value="12">Kitchen and restaurant</option>
+                                    <option value="13">glass fabricator</option>
+                                    <option value="14">Machinery-Mechanic</option>
+                                    <option value="15">Driving</option>
+                                    <option value="16">Technician</option>
+                                    <option value="17">MASON</option>
+                                    <option value="18">Welding</option>
+                                    <option value="19">Molding</option>
+                                    <option value="20">FIsheries</option>
+                                    <option value="21">Care Giver</option>
+                                    <option value="22">Russia</option>
+                                    <option value="23">Domestic Helper</option>
+                                    <option value="24">Special UBT</option>
+                                    <option value="25">Sanitaryware Production Worker</option>
+                                    <option value="26">Seasonal Worker in South Korea</option>
+                                    <option value="27">Moulding</option>
+                                    <option value="28">Machine Operator</option>
+                                    <option value="29">Female Factory Worker</option>
+                                    <option value="30">Construction Labourer</option>
+                                    <option value="31">Aircond Technician</option>
+                                    <option value="32">Pekerja</option>
+                                    <option value="33">Plumber</option>
+                                    <option value="34">Draftman</option>
+                                    <option value="35">Welder</option>
+                                    <option value="36">Electrician</option>
+                                    <option value="37">Driver Class 3</option>
+                                    <option value="38">Truck Driver</option>
+                                    <option value="39">Heavy Vehicle Driver</option>
+                                    <option value="40">Supervisor</option>
+                                    <option value="41">Operator</option>
+                                    <option value="42">Construction Worker</option>
+                                    <option value="43">Buruh AM</option>
+                                    <option value="44">Grass Cutter</option>
+                                    <option value="45">General Labourer</option>
+                                    <option value="46">Labourer</option>
+                                    <option value="47">Factory Workers (Sweater Helper)</option>
+                                    <option value="48">Swing Machine Operator (Female)</option>
+                                    <option value="49">Swing Machine Operator (Male)</option>
+                                    <option value="50">West Ban Auto Mouth Close Kansai Operator</option>
+                                    <option value="51">Production Executive</option>
+                            </select>
+            <select name="country" class="form-select ms-3" aria-label="country select">
+                <option value="0" selected>Country</option>
+                                    <option value="1">Jordan</option>
+                                    <option value="2">Turkiye</option>
+                                    <option value="3">FIJI</option>
+                                    <option value="4">Brunei</option>
+                                    <option value="5">JAPAN</option>
+                                    <option value="6">RUSSIA</option>
+                                    <option value="7">South Korea</option>
+                                    <option value="8">Iraq</option>
+                                    <option value="9">Kuwait</option>
+                                    <option value="10">Hong Kong</option>
+                                    <option value="11">Germany</option>
+                                    <option value="12">Monoglia</option>
+                                    <option value="13">Singapore</option>
+                            </select>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+<div class="container">
+    <div class="row mt-5 loading-hidden" id="job_cards_container" style="min-height:320px;">
+            </div>
+</div>
+
+<div class="">
+    <div class="container mt-16 p-5 rounded" style="background:#1987540D;" id="how_to_apply">
+        <div class="row fw-bold text-center">
+            <div class="col-md-4 p-5">
+                <p>Step 1</p>
+                <img src="https://brms.boesl.gov.bd/assets/icons/clipboard_pencil_green.svg" class="d-inline-block my-4">
+                <p>Register for free</p>
+                <p class="text-sm fw-medium">Add required information to your profile by registering on Boesl platform</p>
+            </div>
+            <div class="col-md-4 p-5">
+                <p>Step 2</p>
+                <img src="https://brms.boesl.gov.bd/assets/icons/clipboard_checked_green.svg" class="d-inline-block my-4">
+                <p>Apply at the desired time</p>
+                <p class="text-sm fw-medium">Select your desired job from overseas recruitment and submit the application by providing required information</p>
+            </div>
+            <div class="col-md-4 p-5">
+                <p>Step 3</p>
+                <img src="https://brms.boesl.gov.bd/assets/icons/file_checked_green.svg" class="d-inline-block my-4">
+                <p>Know the latest status of the application</p>
+                <p class="text-sm fw-medium">You can see the current status of the application and all updates of the application will reach your email and phone</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container mt-16">
+    <div class="text-center mb-5">
+        <h3 class="fw-bold">Tutorial</h3>
+        <p class="fw-medium text-gray-500">How you can apply for jobs</p>
+    </div>
+    <div class="row fw-bold">
+                <div class="col-md-3">
+            <a href="https://www.youtube.com/watch?v=IyW9q9Gpfas" target="_blank" class="text-decoration-none text-black">
+                
+                <div class="video-card" style="background-image:url('https://brms.boesl.gov.bd/uploads/public/photo/gallery/tx1qG8B81w95T2rsy5IiC8tWWJUefBcbO1NGX506.jpg')"><img src="https://brms.boesl.gov.bd/assets/icons/play_green.svg"></div>
+                <p>The Ministry of Expatriate Welfare and Foreign Employment supports expatriates at home and abroad</p>
+            </a>
+        </div>
+                <div class="col-md-3">
+            <a href="https://www.youtube.com/watch?v=jptvIn4cSXQ" target="_blank" class="text-decoration-none text-black">
+                
+                <div class="video-card" style="background-image:url('https://brms.boesl.gov.bd/uploads/public/photo/gallery/8rFf4eqDmrDrEYX1XawoB2Q1kgAELzgpmuftyUOb.jpg')"><img src="https://brms.boesl.gov.bd/assets/icons/play_green.svg"></div>
+                <p>Before going abroad, learn the language of the respective country and appropriate work. Go abroad knowing details about work</p>
+            </a>
+        </div>
+                <div class="col-md-3">
+            <a href="https://www.youtube.com/watch?v=KaknSE61QBc" target="_blank" class="text-decoration-none text-black">
+                
+                <div class="video-card" style="background-image:url('https://brms.boesl.gov.bd/uploads/public/photo/gallery/geUo7YOM8fgUOpZBhjnDR5YchEx3KaFaTZlVwnMi.jpg')"><img src="https://brms.boesl.gov.bd/assets/icons/play_green.svg"></div>
+                <p>If you send money in a legitimate way, you will get incentives, the country will move forward with sweat money</p>
+            </a>
+        </div>
+                <div class="col-md-3">
+            <a href="https://www.youtube.com/watch?v=xa05IrXY6LQ" target="_blank" class="text-decoration-none text-black">
+                
+                <div class="video-card" style="background-image:url('https://brms.boesl.gov.bd/uploads/public/photo/gallery/kQ9se6Sv0LWyHhOM8Bp15nt2WShVPlOy2YNQyxnJ.jpg')"><img src="https://brms.boesl.gov.bd/assets/icons/play_green.svg"></div>
+                <p>BRMS Application Process</p>
+            </a>
+        </div>
+            </div>
+    <div class="text-center d-flex justify-center mt-3">
+        
+    </div>
+</div>
+<div class="bg-light mt-16 py-5">
+    <div class="container py-5">
+        <div class="text-center py-5">
+            <h3 class="fw-bold">Gallery</h3>
+            <p class="fw-medium text-gray-500">Our proud Bangladeshi making a life in foreign land</p>
+        </div>
+        <div class="row fw-bold">
+                        <div class="col-md-3">
+                <a href="https://brms.boesl.gov.bd/uploads/public/photo/gallery/hrgnhRyJwwTmeEEBVsH0P8p0SdqrjGXgIczUMlfR.jpg" target="_blank" class="text-decoration-none text-black">
+                    
+                    <div class="video-card" style="background-image:url('https://brms.boesl.gov.bd/uploads/public/photo/gallery/hrgnhRyJwwTmeEEBVsH0P8p0SdqrjGXgIczUMlfR.jpg')"></div>
+                </a>
+            </div>
+                        <div class="col-md-3">
+                <a href="https://brms.boesl.gov.bd/uploads/public/photo/gallery/nD3cYvPNIJvadeazu3gISo1k0TeoQV1gZkxQfXDT.jpg" target="_blank" class="text-decoration-none text-black">
+                    
+                    <div class="video-card" style="background-image:url('https://brms.boesl.gov.bd/uploads/public/photo/gallery/nD3cYvPNIJvadeazu3gISo1k0TeoQV1gZkxQfXDT.jpg')"></div>
+                </a>
+            </div>
+                        <div class="col-md-3">
+                <a href="https://brms.boesl.gov.bd/uploads/public/photo/gallery/5IRKqj3FChRF2PP6Ju0mADI1vLk4TEeomulr169B.jpg" target="_blank" class="text-decoration-none text-black">
+                    
+                    <div class="video-card" style="background-image:url('https://brms.boesl.gov.bd/uploads/public/photo/gallery/5IRKqj3FChRF2PP6Ju0mADI1vLk4TEeomulr169B.jpg')"></div>
+                </a>
+            </div>
+                        <div class="col-md-3">
+                <a href="https://brms.boesl.gov.bd/uploads/public/photo/gallery/6YlQsb6fo7qjvf4Rg1M5jnzjX17Xqh9iKxmkHBFh.jpg" target="_blank" class="text-decoration-none text-black">
+                    
+                    <div class="video-card" style="background-image:url('https://brms.boesl.gov.bd/uploads/public/photo/gallery/6YlQsb6fo7qjvf4Rg1M5jnzjX17Xqh9iKxmkHBFh.jpg')"></div>
+                </a>
+            </div>
+                        <div class="col-md-3">
+                <a href="https://brms.boesl.gov.bd/uploads/public/photo/gallery/G9E26bq3LakSyAhdcfgyFH8BnxBrbymjh7tUo5Yi.jpg" target="_blank" class="text-decoration-none text-black">
+                    
+                    <div class="video-card" style="background-image:url('https://brms.boesl.gov.bd/uploads/public/photo/gallery/G9E26bq3LakSyAhdcfgyFH8BnxBrbymjh7tUo5Yi.jpg')"></div>
+                </a>
+            </div>
+                        <div class="col-md-3">
+                <a href="https://brms.boesl.gov.bd/uploads/public/photo/gallery/AF7P13UXsbz6UQmCcTFi3OCiYAx1oJ5X8VS5siyL.jpg" target="_blank" class="text-decoration-none text-black">
+                    
+                    <div class="video-card" style="background-image:url('https://brms.boesl.gov.bd/uploads/public/photo/gallery/AF7P13UXsbz6UQmCcTFi3OCiYAx1oJ5X8VS5siyL.jpg')"></div>
+                </a>
+            </div>
+                        <div class="col-md-3">
+                <a href="https://brms.boesl.gov.bd/uploads/public/photo/gallery/1pWBhuw3CGkoWVv8C4cfoYMDamy6rfGJliBNKaO6.jpg" target="_blank" class="text-decoration-none text-black">
+                    
+                    <div class="video-card" style="background-image:url('https://brms.boesl.gov.bd/uploads/public/photo/gallery/1pWBhuw3CGkoWVv8C4cfoYMDamy6rfGJliBNKaO6.jpg')"></div>
+                </a>
+            </div>
+                        <div class="col-md-3">
+                <a href="https://brms.boesl.gov.bd/uploads/public/photo/gallery/gejM6aivXrPY5bpvWiZgJkSYwBRMffqqJ05DpVPJ.jpg" target="_blank" class="text-decoration-none text-black">
+                    
+                    <div class="video-card" style="background-image:url('https://brms.boesl.gov.bd/uploads/public/photo/gallery/gejM6aivXrPY5bpvWiZgJkSYwBRMffqqJ05DpVPJ.jpg')"></div>
+                </a>
+            </div>
+                        <div class="col-md-3">
+                <a href="https://brms.boesl.gov.bd/uploads/public/photo/gallery/MfvcwmT3End5WBXgyH29L4Po4X8S1aV6gHBiQW2B.jpg" target="_blank" class="text-decoration-none text-black">
+                    
+                    <div class="video-card" style="background-image:url('https://brms.boesl.gov.bd/uploads/public/photo/gallery/MfvcwmT3End5WBXgyH29L4Po4X8S1aV6gHBiQW2B.jpg')"></div>
+                </a>
+            </div>
+                    </div>
+    </div>
+</div>
+    <footer class="site-footer">
+    <div class="container">
+        <div class="row site-footer-top">
+            <div class="col-md-4 mb-4 mb-md-0">
+                <a href="https://brms.boesl.gov.bd" class="site-footer-brand">
+                    <img src="https://brms.boesl.gov.bd/assets/images/logo_big.png" alt="BOESL" height="54" width="45">
+                    <span class="site-footer-brand-text">
+                        BOESL
+                        <small>Bangladesh Overseas Employment and Services Ltd.</small>
+                    </span>
+                </a>
+                <p class="site-footer-tagline">BOESL ensures ethical, safe and affordable immigration</p>
+            </div>
+            <div class="col-md-5 mb-4 mb-md-0" id="contact_us">
+                <h6 class="site-footer-heading">Office address</h6>
+                                <p class="site-footer-text">71-72 Eskaton Garden, Pravasi Kalyan Bhawan (4th Floor), Ramna,<br>Dhaka-1000, Bangladesh</p>
+            </div>
+            <div class="col-md-3">
+                <h6 class="site-footer-heading">Contact</h6>
+                <p class="site-footer-text"><img src="https://brms.boesl.gov.bd/assets/icons/call_bubble.svg" class="label-icon align-middle">01765411653</p>
+                <p class="site-footer-text"><img src="https://brms.boesl.gov.bd/assets/icons/globe.svg" class="label-icon align-middle"> www.boesl.gov.bd</p>
+                <p class="site-footer-text"><img src="https://brms.boesl.gov.bd/assets/icons/mail.svg" class="label-icon align-middle"> info@boesl.gov.bd</p>
+            </div>
+        </div>
+        <div class="site-footer-bottom">
+            <p class="mb-0">Copyright @2024, All rights reserved by BOESL.</p>
+        </div>
+    </div>
+</footer>
+</div>
+    <script nonce="Vy47fln3ARPQNRAcWKJNkOQRwnmm7wk4xuA8BAPY">
+        function englishToBanglaDate(currentDate) {
+            let shouldTranslate = false;
+            let engDATE = ['1','2','3','4','5','6','7','8','9','0','January','February','March','April',
+                'May','June','July','August','September','October','November','December','Saturday','Sunday',
+                'Monday','Tuesday','Wednesday','Thursday','Friday'];
+            let bangDATE = ['১','২','৩','৪','৫','৬','৭','৮','৯','০','জানুয়ারী','ফেব্রুয়ারী','মার্চ','এপ্রিল','মে',
+                'জুন','জুলাই','আগস্ট','সেপ্টেম্বর','অক্টোবর','নভেম্বর','ডিসেম্বর','শনিবার','রবিবার','সোমবার','মঙ্গলবার','বুধবার','বৃহস্পতিবার','শুক্রবার'
+            ];
+            let convertedDate = currentDate + '';
+            if (shouldTranslate) engDATE.forEach((v,i) => {
+                convertedDate = convertedDate.replaceAll(v,bangDATE[i])
+            })
+            return convertedDate;
+        }
+    </script>
+    <script nonce="Vy47fln3ARPQNRAcWKJNkOQRwnmm7wk4xuA8BAPY">
+        document.getElementById('siteNavToggle').addEventListener('click', function () {
+            var collapse = document.getElementById('siteNavCollapse');
+            var isOpen = collapse.classList.toggle('open');
+            this.classList.toggle('open', isOpen);
+            this.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+        });
+    </script>
+</body>
+</html>
