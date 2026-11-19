@@ -1,0 +1,241 @@
+ Supporting Estimated Calculation of Severance Pay
+
+EPS Mobile Service App Manual
+
+                     2015. 10.
+
+                                               Foreign Workforce Insurance & Training
+                                                   Team of Foreign Workforce Bureau
+Table of Contents
+
+. Enrolling in EPS & Downloading the App ······· 1
+
+. How to use EPS Mobile······························2
+
+       1. Logging in & Selecting Workplace Size ·································· 3
+       2. Query on Expected Payout of Departure Guarantee Insurance ········· 4
+       3. Estimated Calculations of Severance Pay and Differences ········· 5
+
+. Additional Notes······························· 6
+. Enrolling in EPS & Downloading the App
+
+                       < EPS Mobile App Process>
+
+ Enrollment            Download the App              Open and Run the App
+
+Enroll as an EPS user         Download the EPS      Open and Run the EPS
+   and authenticate     App from App Store                        App
+          identity
+                            or Google Play Store
+
+ Enrolling in the Employment Permit System as a User
+
+ Download the App
+
+ (Android) `Go to Google Play Store  `Search for EPS   Install
+
+the App  Installation Complete
+
+ Go to Google             Download the               Installation
+    Play Store                     App                 Complete
+
+                                                  
+
+ (iOS) `Open App Store  `Search for EPS  `Install the App 
+
+Installation Complete
+
+ Enroll in EPS            Download the               Installation
+                                   App                 Complete
+
+                                                  
+. How to Use EPS Mobile
+
+ The Mobile App Service was developed to assist in the estimation of
+
+     severance pay of foreign workers who have already left or expecting to
+     leave employment.
+
+ If the user is not aware of his wage amount, employment period, size of
+
+     the workplace (under four people or five or more), an accurate estimate
+     cannot be provided in addition to creating differences in the severance
+     pay balances.
+      - Therefore, it is recommended that the employer calculate the severance
+     pay using the labor contract, wage statements, and other supporting
+     documents with the worker
+ Should a dispute arise over the amount of the severance pay, the
+     exact amount must be calculated with the assistance from the
+     local Employment & Labor offices.
+
+                           < Using the EPS Mobile Service >
+
+ Logging in &                Query Expected         Estimation of
+Selecting Workplace
+Size                        Payout Amount of       Severance Pay and
+                            Departure Guarantee    Differences
+After logging in, select    Insurance
+the workplace size
+(Under 4 People, 5          Query on Expected      Estimation of Severance
+people or more)
+                            Payout Amount of       Pay and Differences
+
+                            Departure Guarantee    (Severance Pay ­
+                            Insurance based on     Insurance Premium
+
+                            (Estimated) Date of    Payout Amount
+
+                            Termination            (Expected))
+
+                                                 
+1. Logging in & Selecting Workplace Size
+
+  After logging into the mobile web service, select the size of the workplace
+    Query Expected Payout Amount of the Departure Guarantee Insurance 
+    Conduct Estimation of Severance Pay and Differences
+
+* In accordance with Article 8 of the Guarantee of Workers' Retirement
+   Benefits Act, owners of workplaces with 4 workers or less must disburse
+   severance payments effective on December 1, 2010.
+
+* In addition, in accordance with Annex Article 8 of the same Act, the
+   employer must provide 50% of the severance pay between December 1,
+   2010 to December 31, 2012, and must provide 100% of the severance pay
+   starting January 1, 2013.
+                                < Selecting Workplace Size >
+
+  "" is the location of the example
+ Step 1: Log into EPS (Please refer to attachment 1 for enrollment procedure)
+
+     Upon logging in, the language will automatically change for foreign workers
+ Step 2: Click on EPS Severance Pay Estimation
+ Step 3: Depending on the size of the Workplace, choose between "Under 4
+
+     people" and "5 People or more"
+* To change the workplace size, return to the main screen and reselect the
+
+     workplace size.
+     Then, move to the "Query Departure Guarantee Insurance Expected
+     Payout"
+
+                                       <Picture 1> Main Screen
+
+                                            
+2. Querying Expected Payout of the Departure Guarantee Insurance
+
+  The employer or the foreign worker can query the concerned worker's
+     expected payout amount of the Departure Guarantee Insurance at end of
+     (expected) employment or expiration of residency using the following
+     steps.
+
+< Querying the Expected Payout Amount of Departure Guarantee Insurance >
+   "" is the location of the example
+
+  Step 1 (Foreign Worker) ­ Select the Workplace where the worker was
+
+      employed
+  (Employer) Select "Foreign Worker (Expected Payout Amount Query)
+  Step 2: Enter the (Estimated) Date of Termination and click "calculate"
+
+ * The Date of (Estimated)Termination must be entered by the
+      worker personally. If there were any employment changes
+      reported, the dates on which the changes were reported will be
+      available. The dates will be filled in automatically upon clicking.
+
+  Step 3: The Expected Payout Amount of the Departure Guarantee
+
+      Insurance will be queried.
+   Move on to the "Severance Pay Estimation" screen
+
+<Picture 2> Query the Expected Payout Amount of Departure
+                               Guarantee Insurance
+
+<Foreigner>  <Employer>
+3. Estimation of the Severance Pay and Differences
+
+ The employer or the foreign worker can use the following method to check the
+   expected severance pay amount by inputting the total wage amount and the date
+   (or an estimated date) of termination.
+
+ The difference amount of the severance pay will be automatically calculated once
+   the "Recipient," and "Severance Pay Calculation" steps are successfully completed.
+
+                     < Estimating the Severance Pay Balance>
+
+ Difference = Severance Pay ­ Expected Payout of the Departure Guarantee Insurance
+
+                            < Calculating the Severance Pay>
+
+  "" is the location of the example
+ Step 1: (Foreign Worker) ­ Select the workplace where the worker was employed
+
+                Employer: Select "Foreign Worker (Foreign Workers to be queried)
+ Step 2: At the Workplace screen, enter the Employment Period
+* The start of the employment period is the start date specified on the standard
+
+    labor contract. The termination date may already be in place if it was recorded
+    as an employment status change, and can be edited.
+* If the employment period was less than one year, an Alert window will appear, stating
+    that the worker is ineligible for severance pay.
+ Step 3: Enter the last three months' wage amount by month prior to termination
+
+ Step 4: Click on the "Calculate Amount" button.
+
+< Picture 3: Calculating Severance Pay and Differences >
+
+< Foreign Worker >  < Employer >
+. Additional Notes
+
+ Completing an Approximate Calculation of the Severance Pay
+
+    The foreign worker must query expected payout of the departure guarantee
+       insurance and calculate severance pay from workplaces from which the worker
+       has already left or plans to leave.
+
+   - The severance pay amount will change upon the total wage and employment
+       period inputted in the system. Please review "Attachment 2 ­ Additional Notes
+       for Calculating Severance Pay." The worker must enter one's wage and
+       employment period correctly.
+
+    The difference must be requested from the employer after calculating it by
+       deducting the Expected Payout Amount of the Departure Guarantee Insurance
+       from the Severance Pay.
+
+    To avoid any pay related disputes, it is recommended that both the employer
+       and the worker calculate the severance pay together using supporting documents
+       such as the labor contract and pay statements.
+
+ Confirming the Difference of Severance Pay with Both Parties &
+Process for Reclaiming Rights
+
+    The foreign worker must submit the expected payout amount of Departure
+       Guarantee Insurance, severance pay and differences, and the calculations
+       proving the amounts to the employer; the worker must request the disbursement
+       of the severance pay.
+
+    If the foreign worker requests disbursement of the difference, the employer can
+       query the payout amount of Departure Guarantee Insurance, severance pay, and
+       the difference of the worker on the EPS mobile service.
+
+   - If there is a difference, the employer must pay the worker the entire amount of
+       the difference before his/her departure/termination.
+
+   * With the enforcement of the revised Act on Foreign Workers' Employment, etc. on
+       July 29, 2014, the payout amount of the departure guarantee insurance is
+       disbursed after the worker's departure, but the difference of the severance pay
+       can be collected in Korea.
+
+    Should the employer refuse to pay the difference, the foreign worker can petition
+       or sue the employer at the local Employment Labor office.
+
+ Requesting the Departure Guarantee Insurance Payout and
+Receiving It
+
+    The foreign worker will request the payment with the insurance provider. Within
+       14 days of the departure, the amount will be wired to the worker's overseas bank
+       account.
+
+    However, if the foreign worker selected "Receive Cash Payment at the Airport" on
+       the application, one can redeem the payment at the Currency Exchange after
+       passing through immigration.
+

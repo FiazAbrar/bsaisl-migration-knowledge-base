@@ -1,0 +1,249 @@
+  Financial
+Transactions
+ 
+
+   This information is drafted as of 2026 07 15 .
+[ Financial Transactions ]
+
+ This content provides legal information on essential matters for financial transactions
+ in Korea, such as opening bank accounts, issuance of credit and debit cards,
+ international remittance, and foreign currency exchange.
+
+                                                                     2/8
+ 
+
+ Financial Transactions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+ 1. Financial Transactions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+    1.1. Financial Transactions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+        1.1.1. Financial Transactions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+                                                                     3/8
+ 
+1. Financial Transactions
+1.1. Financial Transactions
+1.1.1. Financial Transactions
+
+           Opening a bank account (creating a passbook)
+               Opening a bank account
+
+       - Foreign nationals are allowed to open deposit accounts or money trust accounts in
+           Korea to deposit foreign currency or Korean won for various financial purposes
+           (Article 2-6-2(1) of Foreign Exchange Transactions Regulations).
+               Required documents
+
+       - The following documents may be required to open an account. Specific
+           document requirements may vary depending on the bank or type of
+           account, so it is advised to check with each bank branch or website (
+           Guidelines for Bank Account Opening by Foreign Nationals).
+
+                                                                     4/8
+ 
+
+   Category                                          Type
+
+Identification                 Alien registration card (residence card),
+                               passport, national ID from home country, etc.
+
+                               (For salary deposit)
+
+Proof of purpose of financial  Certificate of employment, receipt for wage and
+               transaction     salary income tax withholding, certificate of
+                               health insurance qualification (for employee
+                               insured), proof of income statement, employment
+                               agreement, etc.
+
+                               (For part-time wage deposit)
+
+ If not submitted, only a      Copy of employer's business registration,
+  transaction account with     employment agreement, payslip, etc.
+  limited withdrawals and
+  transfers may be opened.     (For business funding)
+
+                               Business-related transaction contracts, payslips
+                               from clients, etc.
+
+                               (For other purposes)
+
+                               Objective documents with the capacity to confirm
+                               the stated purpose of the transaction
+
+                               (If listed as a resident of Korea)
+
+                               Alien registration card (residence card),
+                               certificate of residence, domestic resident
+                               card, documents proving stay of at least 183
+                               days (e.g., immigration records), etc.
+
+Documents for reporting        (If listed as a foreign resident on ID
+
+financial information under tax verification form)
+   treaties
+
+                                Foreign taxpayer ID, overseas address, and
+                               international contact number (required)
+
+                               Certificate of residence issued by the
+                               government of the account holder's jurisdiction
+                               of residence
+
+Method of opening an account
+
+- You may open an account by visiting a bank branch or via mobile app depending on
+    the bank.
+
+    Overseas remittance
+
+Designating a foreign exchange bank
+
+- For overseas remittance, foreign nationals must designate a foreign exchange bank
+    falling under the following categories (Subparagraph 3 of Article 10-11(1),
+
+                                     5/8
+ 
+
+           Subparagraph 3 of Article 4-4(1) and Article 4-4(2) of Foreign Exchange
+           Transactions Regulations).
+
+                             Designation of Foreign Exchange Bank for Overseas Remittance
+            Income from employment or freelance work in Korea
+
+            Social insurance, benefits, and pensions paid from Korea
+
+            Funds up to USD 50,000 per year
+               Overseas remittance limits
+
+      - Foreign nationals may remit up to USD 50,000 per year through their designated
+           foreign exchange bank without submitting any supporting documents (Article 4-4(2)
+           of Foreign Exchange Transactions Regulations).
+
+      - However, if the amount exceeds USD 50,000 per year or falls under the following
+           categories, remittance is allowed only with submission of documents proving the
+           source of funds (Subparagraphs 1, 2, 3, and 7 of Article 4-4(1) of Foreign
+           Exchange Transactions Regulations).
+                                      Overseas Remittance Requiring Supporting Documents
+            Within the scope of foreign means of payment brought in or wired from abroad.
+              For foreign non-residents, this applies only to foreign means of payment
+              brought in or wired after the most recent entry.
+
+            Within the scope reported to the Governor of the Bank of Korea as foreign
+              means of payment transactions pursuant to Foreign Exchange Transactions
+              Regulations
+
+            Income from employment or freelance work in Korea
+
+            Social insurance, benefits, and pensions received from Korea
+
+            Funds recognized for overseas payment under Chapter 7 (Capital Transactions)
+              or Chapter 9 (Direct Investment and Real Estate Acquisition) of Foreign
+              Exchange Transactions Regulations
+
+           (Examples of supporting documents) Certificate of foreign exchange purchase,
+           foreign means of payment transaction receipt, payslip, income statement,
+           insurance payment receipt, etc.
+
+           Definition of "foreign means of payment"
+
+                                                                     6/8
+ 
+
+          - "Foreign means of payment" refer to foreign currency, payment instruments
+             denominated in foreign currency, or any payment means usable abroad regardless
+             of denomination (Subparagraph 4 of Article 3(1) of Foreign Exchange
+             Transactions Act).
+
+Reporting to the National Tax Service and Korea Customs Service
+
+- If the remittance exceeds USD 10,000 per transaction, it will be reported to the
+    National Tax Service and Korea Customs Service (Subparagraph 3 of Article 4-8(1)
+    and Subparagraph 5 of Article 4-8(2) of Foreign Exchange Transactions
+    Regulations).
+
+    Issuance of credit and debit cards
+
+Comparison of credit and debit cards
+
+- A credit card allows payment first and settlement later, while a debit
+    card deducts the payment amount immediately from the linked bank
+    account. The differences are outlined below (Financial Supervisory Service -
+    Financial Consumer Protection - Financial Life Guide - Credit Card Guide).
+
+          Category              Credit Card              Debit Card
+Accepting merchants    Credit card merchants   Credit card merchants
+                       Credit card companies   Credit card companies
+     Issuing entity                           Within account balance
+       Credit limit     Within credit limit   Immediate at the time of
+                          Monthly on a fixed
+           Payment             billing date                purchase
+
+Installments and cash             Available            Not available
+           advance
+                                  Available               Available
+ Transportation card
+           feature
+
+Issuance of credit and debit cards
+
+- To issue a credit card, the applicant's residency status, employment, assets, and
+    financial transaction history in Korea are considered. Therefore, it may be
+    difficult for foreigners without employment to obtain a credit card. It is
+    recommended to confirm card eligibility with your bank or card issuer (page 64
+    of Guidebook on Financial Life for Foreigners).
+
+- Debit cards are generally issued together with bankbooks at the time of account
+    opening (page 63 of Guidebook on Financial Life for Foreigners).
+
+    Currency exchange
+
+Exchanging Korean won to foreign currency
+
+- You can exchange up to USD 10,000 equivalent without submitting supporting
+    documents (Article 6-2(3) of Foreign Exchange Transactions Regulations).
+
+                                    7/8
+ 
+
+Category                                             Requirement
+
+Up to USD                         No supporting documents required
+ 10,000
+           Supporting documents (e.g., certificate of foreign exchange
+ Over USD                                      purchase) required
+ 10,000
+
+- Even if no documents are required for exchanging up to USD 10,000, you must bring
+    your passport as the foreign exchange bank must record the exchange on your
+    passport (main sentence of Article 2-3(2) of Foreign Exchange Transactions
+    Regulations).
+
+   · However, for exchanges of KRW 1 million or less, you may exchange without a
+      passport (proviso to Article 2-3(2) of Foreign Exchange Transactions
+      Regulations).
+
+        Exchanging foreign currency to Korean won
+
+- If the amount exceeds USD 20,000 equivalent, documents proving the source of the
+    foreign currency (e.g., foreign exchange transaction certificate) must be
+    submitted (Subparagraph 1 of Article 2-2(1) of Foreign Exchange Transactions
+    Regulations).
+
+        Reporting to the National Tax Service and Korea Customs Service
+
+- If the exchanged amount exceeds USD 10,000 per transaction, it will be reported to
+    the National Tax Service and Korea Customs Service (Article 2-2(2) and Article 2-
+    3(5) of Foreign Exchange Transactions Regulations).
+
+ For more detailed information on financial transactions for foreigners, refer
+
+to Guidebook on Financial Life for Foreigners, available in 8 languages
+
+at  the    Financial  Supervisory              Service's  E-Financial
+
+Education Center (https://www.fss.or.kr/edu).
+
+ Many banks now operate foreigner-specialized branches with weekend hours and
+    multilingual staff, and offer language-specific call centers and banking
+    services. Please visit each bank's website for further details.
+
+                      8/8
+

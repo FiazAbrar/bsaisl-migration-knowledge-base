@@ -1,0 +1,307 @@
+[GO TO CONTENT](#container) [GO TO MAIN MENU](#main-gnb) [GO TO FOOTER](#krds-footer)
+
+This website is the official e-government website of the Republic of Korea.
+
+- - [ FACEBOOK ](https://www.facebook.com/embassyofkorea.canada "new window")
+  - [ YOUTUBE ](https://www.youtube.com/user/koreanembassycanada "new window")
+  - [ X ](http://www.twitter.com/koremb_canada "new window")
+
+- Current Language **English**
+
+  - [한국어 (Korean) ](/ca-ko/index.do "Go to Page")
+  - [English ](# "Go to Page")
+  - [Français (French) ](/ca-fr/index.do "Go to Page")
+
+- - [ RSS ](/ca-ko/wpge/m_24141/contents.do "new window")
+  - [ Ministry of Foreign Affairs, REPUBLIC OF KOREA ROK MOFA ](https://www.mofa.go.kr/ "new window")
+
+## [**Embassy of the Republic of Korea to Canada**](/ca-en/index.do)
+
+# 
+
+## Notice \[B-2\] Visa Free Entry for Transfer Passengers
+
+DATE  
+2025-12-30
+
+**FILE**
+
+- [![Transit Visa-Free.png fileDownload](/common-embd/images/common/icon_file_png.png) Transit Visa-Free.png](javascript:f_down('./down.do?brd_id=11458&seq=727682&data_tp=A&file_seq=1');)
+
+Please note that the Embassy can only provide general information regarding B-2 visa-free entry as received from the Ministry of Justice of the Republic of Korea, and does not offer consultations on the eligibility for B-2 visa-free entry based on individual itineraries, flight schedules, nationality, or visa status.
+
+\
+
+If you have any questions regarding this program, please contact the Korean Immigration Office to check your eligiblity (+82-2-2100-1345)
+
+\
+
+1. ﻿Visa Free Entry for Third Country Transit Passengers﻿﻿\
+
+\
+
+ㅇ The Korean Government resumption of the Tourist in Transit(B2) from Apr. 30th. 2023.\
+  - For Non-Canada citizens (e.g. China, Mongolia, Vietnam, Philippines, India, etc), Tourists in transit to
+
+    another country via Korea, can visit Korea without a visa for up to 30 days.
+
+\
+
+ㅇ This program is ONLY applicable if a foreigner goes from the country of origin to the country of
+
+    origin or to the country of final destination via the Republic of Korea.
+
+  - If you visit only Korea from the country of departure and return to the country of departure, you must get
+
+    a visa.\
+
+\
+
+ㅇ Immigration Type and Duration of Stay\
+  - B2, Max 30 days.
+
+\
+
+ㅇ Countries that are not eligible for this program\
+  - The Nationalities of these countries must require a visa before entering Korea even having a Canada
+
+    permanent residency or visa.\
+     \*Syria, Sudan, Iran, Cuba, Kosovo, Palestine, Afghanistan, Iraq, Nigeria, Ghana, Yemen, Gambia, Senegal, Bangladesh, Kirzik, Pakistan, Somalia, Uzbekistan, Nepal, Cameroon, Sri Lanka, Myanmar, Egypt
+
+\
+
+ㅇ Eligibility\
+\
+
+   1) A person who holds a valid visa  (including permanent residency) of Canada, the United States
+
+       (including Guam and Saipan), New Zealand, and Australia
+
+\
+
+   2) A Person who holds a valid visa (including permanent residency) of the 32 European countries\*\
+       \*Greece, Netherlands, Norway, Denmark, Germany, Latvia, Romania, Luxembourg, Lithuania, Liechtenstein, Malta, Belgium,
+
+          Bulgaria, Cyprus, Sweden, Switzerland, Spain, Slovakia, Slovenia, Iceland, Ireland, Estonia, England, Austria, Italy, Czech
+
+          Republic, Croatia, Portugal, Poland, France, Finland, Hungary   
+
+        ※ The visa of the above country is recognized only when it is attached in the form of a sticker on the passport
+
+\
+
+      - However, in Australia, if the validity is confirmed in the Australian immigration authority visa 
+
+        information verification system, it is recognized even if it is not a sticker type.\
+\
+
+   3) A person who holds a flight ticket reserved for departure flights within a 30-day period and has no
+
+       illegal facts, such as an unlawful stay in the relevant country\
+\
+
+   4) A person who has never been denied entry to the Republic of Korea within three years of the date of
+
+       entry\
+\
+
+   5) A person who has not received a fine of at least KRW 5 million or deportation due to illegal stay, other
+
+       criminal matters, etc\
+\
+
+   6) A person who stays in a third transfer country other than the Republic of Korea within three days\
+      \*Except for returning to the origin (third country transfer station) via Korea
+
+﻿\
+
+ㅇ Example of the possible cases (Based on Canada)\
+  \*Non-Canada citizens like China, Philippines, India, Indonesia, and Vietnam, etc. who hold a Canada permanent\
+
+    residency or visa
+
+\
+
+   1) Departing from Canada (A) going to the Home country (C) or the third country (D) via Korea (B), or
+
+       vice versa.\
+\
+
+      e.g.   Canada (A) → Korea (B) → Home Country (C) / \[Possible\]\
+               Home Country (C) → Korea (B) → Canada (A) / \[Possible\]\
+               Canada (A) → Korea (B) → Third Country (D) / \[Possible\]\
+               Third country (D) →  Korea (B) → Canada (A) / \[Possible\]
+
+\
+
+   2) Departing from Canada (A) going to the Home country (C) via Korea (B) and the third country (D), or
+
+       vice versa.
+
+     \*You must stay within 3 days in a country that transits before entering Korea, and if you stay more than that, you
+
+       cannot enter Korea.
+
+\
+
+      e.g.   Canada (A) → Korea (B) → Third Country (D) → Home Country (C) / \[Possible\]
+
+               Home Country (C) → Third country (D, stay within 3 days) → Korea (B) → Canada (A) / \[Possible\]
+
+               Canada (A) → Third country (D, stay within 3 days) → Korea (B) → Home Country (C) / \[Possible\]
+
+               Home Country (C) → Korea (B) → Third Country (D) → Canada (A) / \[Possible\]
+
+               Canada (A) → Home Country (C, stay within 3 days) → Korea (B) → Canada (A) / \[Possible\]
+
+﻿\
+
+ㅇ Example of the impossible cases (Based on Canada)\
+  \*Non-Canada citizens like China, Philippines, India, Indonesia, and Vietnam, etc. who hold a Canada permanent
+
+    residency or visa
+
+﻿
+
+   1) Departing from Canada (A) passing through Korea (B), returning to Canada (A), and then returning to
+
+       the Home country (C) or a third country (D), or vice versa.﻿\
+\
+
+      e.g.   Canada (A) → Korea (B) → USA (A) → Home Country (C) / \[Impossible\]
+
+               Home Country (C) → Korea (B) → Home Country (C) → Canada (A) / \[Impossible\]
+
+               Canada (A) → Korea (B) → Canada (A) → Third Country (D) / \[Impossible\]
+
+               Home Country (C) → Korea (B) → Home Country (C) → Third Country (D) / \[Impossible\]
+
+               Canada (A) → Home Country (C) → Korea (B) → Home Country (C) / \[Impossible\]
+
+\
+
+   2) Not possible if you stay for more than 3 days in a country that transit before entering Korea﻿
+
+\
+
+      e.g.   Europe (E) → Third country (D, stay more than 3 days) → Korea (B) → Canada (A) / \[Impossible\]
+
+              Europe (E) → Third country (D, stay more than 3 days) → Korea (B) → Third country (D) / \[Impossible\]
+
+              Canada (A) → Home Country (C, stay for more than 3 days) → Korea (B) → Canada (A) / \[Impossible\]
+
+\
+
+ㅇ If you have any questions regarding this program, please contact the Korean Immigration
+
+    Office. (+82-2-2100-1345)
+
+\
+
+\
+
+\
+
+2. ﻿Visa Free Entry for Transfer Passengers at Incheon Airport (May 15)
+
+\
+
+  □ Eligibility (excluding nationals of 23 countries that are not granted visa free entry to Jeju)
+
+\
+
+    ◦ Foreigners, besides those eligible for visa free entry for third country transit passengers, who are
+
+      transferring at Incheon Airport bound for the country of origin or a third country and participating in the
+
+      Transit Tourism Program\*
+
+\
+
+       \* Tour program operated by the airport for foreigners, approved by relevant organizations including 
+
+          the Ministry of Justice, Ministry of Culture, Sports and Tourism, Incheon Airport Corporation and 
+
+          Korea Airports Corporation
+
+\
+
+  □ Conditions for Visa Free Entry    
+
+\
+
+    ◦ Hold a flight ticket for transfer departing within 72 hours after entry, stays in the metropolitan area, 
+
+      and agree to the operation of transit tour guides\*
+
+\
+
+      \* Person who performs the duty related to general transfer passengers of Incheon Airport, Jeju transfer
+
+         group tourists, Chinese group tourists with Japanese group visa, and is a member of a transit tour
+
+         guide operation organization  
+
+\
+
+    ◦ Considering the travel itinerary, those who are deemed a risk of non-compliance to the Transit Tourism
+
+      Program may be denied entry
+
+\
+
+  □ Visa Status and Period of Stay: Tourist/Transit (B-2), within 3 days
+
+\
+
+\
+
+\
+
+\
+
+[List](./list.do?page=1&srchFr=&srchTo=&srchWord=&srchTp=&multi_itm_seq=0&itm_seq_1=0&itm_seq_2=0&company_cd=&company_nm=)
+
+![loading](/images/egovframework/cms/loading/ajax-loader.gif)
+
+**Embassy of the Republic of Korea to Canada**
+
+150 Boteler Street, Ottawa, Ontario, Canada (K1N 5A6)
+
+- Tel : +1-613-244-5010 \| Hours of Operation : Monday – Friday 09:00am-12:00pm, 1:00pm-5:00pm
+
+[Organization and Telephone Numbers ](https://www.mofa.go.kr/eng/wpge/m_5746/contents.do)
+
+[FACEBOOK ](https://www.facebook.com/mofakr.kr "FACEBOOK new window") [INSTAGRAM ](https://www.instagram.com/mofa_kr/ "INSTAGRAM new window") [YOUTUBE ](https://www.youtube.com/user/MOFAKorea "YOUTUBE new window") [X ](https://x.com/mofa_kr "X new window")
+
+[**Privacy Guidelines**](https://www.mofa.go.kr/eng/wpge/m_5802/contents.do)
+
+The Korean version is the official version of all news content.
+
+© Ministry of Foreign Affairs. All rights reserved.
+
+Ministry of Foreign Affairs, REPUBLIC OF KOREA This is the Ministry of Foreign Affairs website.
+
+### Total Search
+
+Please enter a search term.
+
+### Embassy Popup window
+
+Don't show again today
+
+### View All Embassy Popup
+
+### Emergency contact
+
+**ESTABLISHMENT OF DIPLOMATIC RELATIONS Jan. 14, 1963**
+
+### 'Notice Board' View All
+
+### 'Major Policies' View All
+
+### 'Bottom Banner' View All
+
+### ROK Missions Overseas
+
+### Foreign Missons in ROK

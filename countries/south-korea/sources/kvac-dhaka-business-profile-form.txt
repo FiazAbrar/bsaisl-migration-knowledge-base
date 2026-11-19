@@ -1,0 +1,18 @@
+                      Business Profile Form
+
+Company Name          Describe in Detail
+Type of Business
+
+Year of Registration  Name                           Contact Number
+  (Establishment)
+
+  Partners (if any)
+
+No. of Employees      Last 1 Year         Rs __________________
+     Turnover         Last 3 Year         Rs __________________
+     Tax Paid         Last 1 Year         Rs __________________
+                      Last 3 Year         Rs __________________
+        Etc.
+
+Submitted by Name                         Signature
+

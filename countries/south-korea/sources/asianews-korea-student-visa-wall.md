@@ -1,0 +1,47 @@
+In this photo, taken on September 25, 2024, members of a K-drama tour group pose in front of popular filming location Yonsei University in Seoul. PHOTO: AFP
+
+January 16, 2026
+
+**SEOUL** – More than 1 in 10 student visa holders in South Korea were in the country illegally in 2024, according to a new study, raising concerns over whether the government’s drive to attract foreign students is translating into stable, long-term stays.
+
+The study said an unrealistic visa system played a key role in the number of students who overstayed or remained after their visas were canceled.
+
+A study published in the Korea Journal of International Migration found that 34,267 of Korea’s 263,775 international students were in violation of their visas at the end of 2024, a fivefold increase from 6,782 in 2014.
+
+Their share of total student visa holders was down from the peak, as the number of students rose, the number of visa breaches fell, and some ended their illegal stays. It had risen sharply from below 5 percent in 2016 to a peak of 15.7 percent in 2022, before declining to 11.6 percent in 2024.
+
+As of 2024, nearly 70 percent of international students on degree-seeking visas who were staying illegally were from Vietnam, followed by Uzbekistan at 13 percent, Mongolia at 6.9 percent and China at 3.4 percent.
+
+The concentration was even more pronounced among students on language training visas who also much more likely to breach their visa conditions. Vietnamese nationals made up 88.9 percent of illegal overstays among holders of D-4 visas, according to the study.
+
+This means 9,580 of the 179,581 students who entered the country on visas for degree programs were in the country illegally, compared with 24,687 of the 85,173 students who arrived on language training visas.
+
+Kim Gyu-chan, an associate professor of multicultural studies at Gangneung Wonju National University who led the study, said the figures point to a deterioration in both the stability and quality of international students’ stay in Korea over the past decade.
+
+Kim attributed the trend in part to what he described as restrictive regulations and limited visa options that make it difficult for international students to remain in the country after graduation, leading them to overstay their visas.
+
+“The core process of settling, which is to obtain a skilled workforce visa (E-1 to E-7), not only requires students to find a job connected to their field of study and obtain a certain salary, but also requires employers to hold specific qualifications,” Kim said.
+
+“Realistically, this makes it difficult for humanities or social science majors to obtain, while acting as an obstacle for those wanting to work at small and medium-sized businesses.”
+
+The findings come as the government steps up efforts to attract more foreign students.
+
+The Ministry of Education has set a target of hosting 300,000 international students under its Study Korea 3.0 initiative announced in 2023, while the Ministry of Justice has positioned international students as potential talent under its fourth basic immigration policy plan, which seeks both expanded inflows and settlement support.
+
+Yet the study suggests that regulatory bottlenecks are undermining those goals, pushing some students into overstaying rather than transitioning to legal settlement.
+
+Kim said this reflects a broader policy failure in treating international students as a temporary stopgap, rather than a long-term settlement group and human resource.
+
+“Like Germany and Japan, Korea needs to position international student policy as a core strategy for national talent acquisition and immigration, and redesign its systems accordingly,” he said.
+
+Kim also called for the creation of an integrated platform that links international student data held separately by the Justice Ministry, the Education Ministry and universities in real time, arguing that tracking graduates’ career paths would improve the effectiveness of related policies.
+
+He added that the government could consider offering incentives, such as additional points in state funding programs, to universities that operate dedicated career centers for international students.
+
+- [Education](https://asianews.network/tag/education/)
+- [Geopolitics](https://asianews.network/tag/geopolitics/)
+- [Policy Matters](https://asianews.network/tag/policy-matters/)
+- [Society](https://asianews.network/tag/society/)
+- [South Korea](https://asianews.network/tag/south-korea/)
+- [The Korea Herald](https://asianews.network/tag/the-korea-herald/)
+- [Vietnam](https://asianews.network/tag/vietnam/)

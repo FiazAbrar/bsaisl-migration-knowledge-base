@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<title>코리아넷뉴스 - 오늘부터 온라인 사전 신고로 불법체류 외국인 자진출국 돕는다 | 문화체육관광부 한국문화원</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+<meta name="format-detection" content="telephone=no, address=no, email=no">
+<meta name="description" content="전 세계 35개 재외한국문화원(Korean Cultural Center)을 통해 한국문화의 매력을 알리고 해외에 다양한 교류 활동과 아름다운 한국문화를 만나볼 수 있습니다." />
+<meta name="keywords" content="한국문화원, 한국문화홍보, 해외문화홍보, 재외문화원, 재외한국문화원, Korean Cultural Center, 문화원, 해외한국문화원, 해외홍보" />
+
+<meta property="og:type" content="website"/>
+<meta property="og:title" content="문화체육관광부 한국문화원" />
+<meta property="og:description" content="전 세계 35개 재외한국문화원(Korean Cultural Center)을 통해 한국문화의 매력을 알리고 해외에 다양한 교류 활동과 아름다운 한국문화를 만나볼 수 있습니다." />
+<link rel="icon" sizes="64x64" href="/images/layout/kocis_favicon.png">
+<link rel="stylesheet" href="/css/common.css?v=20260706">
+<link rel="stylesheet" href="/css/layout.css?v=20260706">
+<link rel="stylesheet" href="/css/sub.css?v=20260706" />
+<link rel="stylesheet" href="/css/slick.css">
+<link rel="stylesheet" href="/css/slick-theme.css">
+<link rel="stylesheet" href="/css/swiper.min.css">
+<link rel="stylesheet" href="/css/xeicon.min.css">
+<link rel="stylesheet" href="/css/lightslider.css" media="screen,print">
+
+<script src="/js/jquery-1.12.4.min.js"></script>
+<script src="/js/swiper-bundle.min.js"></script>
+<script src="/js/layout.js?v=20260706"></script>
+<script src="/js/sub.js?v=20260706"></script>
+<script src="/js/slick.js"></script>
+<script src="/js/lightslider.js"></script>
+
+<script type="text/javascript">
+		$(document).ready(function() {
+			$("#content-slider").lightSlider({
+				/* loop : true, */
+				keyPress : true
+			});
+			$('#image-gallery').lightSlider({
+				gallery : true,
+				item : 1,
+				/* thumbItem : 9, */
+				slideMargin : 0,
+				/* speed : 500, */
+				auto : false,
+				/* loop : true, */
+				onSliderLoad : function() {
+					$('#image-gallery').removeClass('cS-hidden');
+				}
+			});
+		});
+	</script>
+</head>
+<body>
+	<script type="text/javascript">
+	function goList(){
+	    $('#frm').submit();
+	}
+</script>
+<form action="/koreanet.do" id="frm" name="frm" method="post">
+	<input type="hidden" id="catecode" name="cateCode" value="">
+	<input type="hidden" id="regcode" name="regcode" value="">
+	<input type="hidden" id="totalCount" name="totalCount" value="0">
+	<input type="hidden" id="page" name="page" value="1">
+	<input type="hidden" id="pageSize" name="pageSize" value="10">
+	<input type="hidden" id="searchType" name="searchType" value="">
+	<input type="hidden" id="searchText" name="searchText" value="">
+	<input type="hidden" id="searchCondition" name="searchCondition" value="1">
+</form>
+
+<!-- wrap start -->
+	<div id="wrap">
+
+		<!-- Skip link start -->
+		<div id="skip-go">
+			<p>바로가기</p>
+			<ul>
+				<li><a href="#contents">본문 내용 바로가기</a></li>
+				<li><a href="#nav">주 메뉴 바로가기</a></li>
+			</ul>
+		</div>
+		<!-- Skip link end -->
+		
+		<script type="text/javascript">
+	//통합검색
+	function allSearchList(frm){
+		var frm = $("form#" + frm);
+		var searchWord = frm.find('input[name=searchText]').val();
+		searchWord = searchWord.split("=").join("");
+		searchWord = searchWord.split("<").join("&lt;");
+		searchWord = searchWord.split(">").join("&gt;");
+		searchWord = searchWord.split("\"").join("&quot;");
+		if (searchWord.length >= 2) {
+			frm.action = "/search.do";
+			frm.submit();
+		} else {
+			alert("검색어를 두 글자 이상 입력해주세요.");
+			frm.find('input[name=searchText]').focus();
+		}
+	}
+</script>
+<div class="top_line_bnr">
+	<div class="top_link_wrap">
+		<div class="inner">
+			<input type="hidden" name="isinternal3" value="N">
+			<input type="hidden" name="isinternal2" value="N">
+			<div class="top_flag_wrap"><p class="top_flag_in"><img src="/images/layout/header_flag.png" alt="태극기">이 누리집은 대한민국 공식 전자정부 누리집입니다.</p></div>
+		</div>
+	</div>
+</div>
+
+<!-- header start -->
+<div class="header_wrap subNav">
+	<!-- header_inner start -->
+	<div class="header_inner">
+		<h1 class="mi"><a href="/" title="문화체육관광부 한국문화원 메인 화면으로 이동"><img src="/images/layout/kocis_logo2025.svg" alt="문화체육관광부 한국문화원"></a></h1>
+		<!-- nav start -->
+		<nav id="nav">
+			<ul>
+				<li >
+							<a href="/introduction.do" class="gnbList" title="재외한국문화원의 소개 페이지로 이동">재외한국문화원</a><div class="dropdown">
+								<a href="/introduction.do" title="소개 페이지로 이동">소개</a>	<a href="/history.do" title="연혁 페이지로 이동">연혁</a>	<a href="/gallery.do" title="사진으로 보는 50주년 페이지로 이동">사진으로 보는 50주년</a>	</div>
+						</li>
+					<li >
+							<a href="/kocc.do?searchType=menu0023" class="gnbList" title="재외한국문화원 소식의 활동 페이지로 이동">재외한국문화원 소식</a><div class="dropdown">
+								<a href="/kocc.do?searchType=menu0023" title="활동 페이지로 이동">활동</a>	<a href="/recruitmentNoti.do" title="채용 페이지로 이동">채용</a>	<a href="/biddingNoti.do" title="입찰 페이지로 이동">입찰</a>	</div>
+						</li>
+					<li >
+							<a href="/kocc.do?searchType=menu0150" class="gnbList" title="해외문화동향의 전체동향 페이지로 이동">해외문화동향</a><div class="dropdown">
+								<a href="/kocc.do?searchType=menu0150" title="전체동향 페이지로 이동">전체동향</a>	<a href="/kocc/list.do?ctrcode=CTR0076&searchType=menu0150" title="아시아/태평양 페이지로 이동">아시아/태평양</a>
+											<a href="/kocc/list.do?ctrcode=CTR0004&searchType=menu0150" title="미주 페이지로 이동">미주</a>
+											<a href="/kocc/list.do?ctrcode=CTR0009&searchType=menu0150" title="유럽 페이지로 이동">유럽</a>
+											<a href="/kocc/list.do?ctrcode=CTR0014&searchType=menu0150" title="중동/아프리카 페이지로 이동">중동/아프리카</a>
+										</div>
+						</li>
+					<li class="on">
+							<a href="/koreanet.do" class="gnbList" title="한국홍보자료의 코리아넷뉴스 페이지로 이동">한국홍보자료</a><div class="dropdown">
+								<a href="/koreanet.do" title="코리아넷뉴스 페이지로 이동">코리아넷뉴스</a>	<a href="/webzineKorea.do" title="월간 KOREA 페이지로 이동">월간 KOREA</a>	<a href="/promotionVideo.do" title="동영상 페이지로 이동">동영상</a>	<a href="/promotionPR.do" title="간행물 페이지로 이동">간행물</a>	</div>
+						</li>
+					</ul>
+		</nav>
+		<!-- nav end -->
+
+		<!-- util-wrap start -->
+		<div class="util-wrap">
+			<button class="search-btn depthCon" name="toggle-control"><img src="/images/layout/icon_search.png" alt=""><span class="sr-only">통합검색 열기</span></button>
+			<!-- search open start -->
+			<form name="sform" id="sform1" method="get" action="/search.do">
+				<div class="searchArea">
+					<div class="searchWrap">
+						<div class="searchTit">SEARCH</div>
+						<div class="searchSection">
+							<div class="searchCon">
+								<input type="text" name="searchText" title="검색어 입력" placeholder="검색어를 입력해주세요.">
+								<div class="searchConBtn"><button onclick="allSearchList('sform1');return false;"><img src="/images/layout/icon_search.png" alt=""><span class="sr-only">검색하기</span></button></div>
+							</div>
+						</div>
+					</div>
+					<div class="searchDimed"></div>
+				</div>
+			</form>
+			<button class="search-btn posi_vari" name="toggle-control" style="display: none;"><img src="/images/layout/icon_close.png" alt=""><span class="sr-only">통합검색 닫기</span></button>
+			<!-- search open end -->
+			
+			<!-- mobile-gnb -->
+			<div class="mobile-gnb">
+				<a href="/sitemap.do" class="sitemap pc_rw"> <!-- 사이트맵 경로 -->
+					<span></span><span></span><span></span>
+					<span class="sr-only">사이트맵</span>
+				</a>
+				<button type="button" class="trigger mo_rw"> <!-- 햄버거 메뉴 -->
+					<span></span><span></span><span></span>
+					<span class="sr-only">모바일 전체메뉴</span>
+				</button>
+
+				<!-- mobile-gnb start -->
+				<div class="modal-gnb">
+					<div class="mo_gnb">
+						<ul>
+							<li>
+										<a href="#none" class="mo_title" title="한국홍보자료의 코리아넷뉴스 페이지로 이동">재외한국문화원</a>	<div class="mo_list">
+											<a href="/introduction.do" title="소개 페이지로 이동">소개</a>	<a href="/history.do" title="연혁 페이지로 이동">연혁</a>	<a href="/gallery.do" title="사진으로 보는 50주년 페이지로 이동">사진으로 보는 50주년</a>	</div>
+									</li>
+								<li>
+										<a href="#none" class="mo_title" title="재외한국문화원 하위 메뉴 열기">재외한국문화원 소식</a>	<div class="mo_list">
+											<a href="/kocc.do?searchType=menu0023" title="활동 페이지로 이동">활동</a>	<a href="/recruitmentNoti.do" title="채용 페이지로 이동">채용</a>	<a href="/biddingNoti.do" title="입찰 페이지로 이동">입찰</a>	</div>
+									</li>
+								<li>
+										<a href="#none" class="mo_title" title="해외문화동향 하위 메뉴 열기">해외문화동향</a>	<div class="mo_list">
+											<a href="/kocc.do?searchType=menu0150" title="전체동향 페이지로 이동">전체동향</a>	<a href="/kocc/list.do?ctrcode=CTR0076&searchType=menu0150" title="아시아/태평양 페이지로 이동">아시아/태평양</a>
+														<a href="/kocc/list.do?ctrcode=CTR0004&searchType=menu0150" title="미주 페이지로 이동">미주</a>
+														<a href="/kocc/list.do?ctrcode=CTR0009&searchType=menu0150" title="유럽 페이지로 이동">유럽</a>
+														<a href="/kocc/list.do?ctrcode=CTR0014&searchType=menu0150" title="중동/아프리카 페이지로 이동">중동/아프리카</a>
+													</div>
+									</li>
+								<li>
+										<a href="#none" class="mo_title" title="한국홍보자료 하위 메뉴 열기">한국홍보자료</a>	<div class="mo_list">
+											<a href="/koreanet.do" title="코리아넷뉴스 페이지로 이동">코리아넷뉴스</a>	<a href="/webzineKorea.do" title="월간 KOREA 페이지로 이동">월간 KOREA</a>	<a href="/promotionVideo.do" title="동영상 페이지로 이동">동영상</a>	<a href="/promotionPR.do" title="간행물 페이지로 이동">간행물</a>	</div>
+									</li>
+								</ul>
+					</div>
+				</div>
+				<!-- modal-gnb end -->
+			</div>
+			<!-- mobile-gnb end -->
+		</div>
+		<!-- util-wrap end -->
+	</div>
+	<!-- header_inner end -->
+</div>
+<!-- header end --><!-- subheroArea start -->
+		<div class="subheroArea">
+			<!-- breadcrumb start -->
+<div class="breadcrumb">
+	<ol>
+		<li class="home"><a href="/"><span class="IR">홈으로 이동</span></a></li>
+		<li><a href="/koreanet.do">한국홍보자료</a></li>
+						<li><a href="/koreanet.do">코리아넷뉴스</a></li>
+						</ol>
+</div>
+<!-- breadcrumb end -->
+
+<link rel="image_src" href="/CONTENTS/menu0026/lang001/listImage/1608092993183.jpg">
+<script type="text/javascript">
+	function printContentHome() {
+		window.open("/print.do","print","toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=780,height=700");
+	}
+	
+	function copyURL() {
+		
+		var _input = document.createElement("input");
+		document.body.appendChild(_input);
+		_input.value = location.href;
+		_input.select();
+		document.execCommand("copy");
+		document.body.removeChild(_input);
+		alert("URL을 복사하였습니다.");
+	}
+	
+	function snsShare() {
+	    if ($('.snsLinkBox').css('display') == 'block') 
+	    {
+	        $('.snsLinkBox').css('display', 'none');
+	    }else{
+	        $('.snsLinkBox').css('display', 'inline-block');
+	    }
+	}
+	
+	//현재 페이지 URL
+	function getCurrentUrl() {
+		return encodeURIComponent(window.location.href);
+	}
+
+	//X에 공유하기
+	function shareOnX() {
+		const url = getCurrentUrl();
+		
+		const shareUrl = `https://twitter.com/share?url=` + url;
+		window.open(shareUrl, '_blank');
+	}
+
+	//페이스북에 공유하기
+	function shareOnFacebook() {
+		const url = getCurrentUrl();
+		const shareUrl = `https://www.facebook.com/sharer/sharer.php?u=` + url;
+		window.open(shareUrl, '_blank');
+	}
+</script>
+
+<div class="sharing">
+	<ul>
+		<li>
+			<button type="button" title="공유하기" onclick="snsShare()" class="btnShare"><span class="hide">SNS 공유</span></button>
+			<div class="snsLinkBox" style="display: none;">
+				<a class="btnTwitter" href="javascript:void(0);" onclick="shareOnX()" title="X(엑스) 새 창 열림"><span class="sr-only">X</span></a>
+				<a class="btnFacebook" href="javascript:void(0);" onclick="shareOnFacebook()" title="페이스북 새 창 열림"><span class="sr-only">페이스북</span></a>
+				</div>
+		</li>
+		<li>
+			<button type="button" class="btnLink" onclick="copyURL();return false;" title="주소복사"><span class="hide">주소복사</span></button>
+		</li>
+		<li>
+			<button type="button" class="btnPrint" onclick="printContentHome();" title="인쇄 새 창 열림" ><span class="hide">인쇄하기</span></button>
+		</li>
+		</ul>
+</div>
+
+<h2>코리아넷뉴스</h2>
+		</div>
+		<!-- subheroArea end -->
+		
+		<!-- contents start -->
+		<div id="contents">
+
+			<!-- wrapper start -->
+			<div class="wrapper">
+				
+				<!-- bbsView start -->
+				<article class="bbsView">
+					
+					<div class="viewHeader">
+						<div class="viewInfo galleryInfo" id="viewDate">
+							<dl>
+								<dt>게시일</dt>
+								<dd>2020.12.16</dd>
+							</dl>
+						</div>
+						<h3 id="viewTitle">
+							오늘부터 온라인 사전 신고로 불법체류 외국인 자진출국 돕는다</h3>
+					</div>
+					
+					<div class="viewCon" id="viewContent">
+						<div class="figCenter" style="width: 800px" name="imgFig"><img width="800" title="" style="border: 0px solid rgb(0, 0, 0); border-image: none; vertical-align: baseline" alt="▲ 법무부가 코로나바이러스감염증-19(코로나19) 확산을 막고 국내 불법체류 외국인의 자진출국을 돕기 위해 ‘온라인 사전신고제’를 16일부터 시행한다. 사진은 지난 4월 민원 업무를 보기 위해 서울출입국∙외국인청을 찾은 외국인들의 모습. 법무부" src="/CONTENTS/editImage/20201216105807553_GYNY5WRG.jpg" />
+<p class="figcaption" id="captionId">▲ 법무부가 코로나바이러스감염증-19(코로나19) 확산을 막고 국내 불법체류 외국인의 자진출국을 돕기 위해 ‘온라인 사전신고제’를 16일부터 시행한다. 사진은 지난 4월 민원 업무를 보기 위해 서울출입국∙외국인청을 찾은 외국인들의 모습. 법무부</p></div><br />
+<p id="whoAmI">박혜리 기자 hrhr@korea.kr </p><br />16일부터 자진출국을 원하는 불법체류 외국인들이 온라인을 통해서도 사전신고를 할 수 있게 된다. <br /><br />법무부는 이날 코로나바이러스감염증-19(코로나19) 확산 방지를 위해 국내 불법체류 외국인들을 대상으로 ‘온라인 사전신고제’를 실시한다고 밝혔다. <br /><br />온라인 자진출국 사전신고는 출국 3~15일 전까지 하이코리아(<a href="https://www.hikorea.go.kr/Main.pt?locale=kr" target="_blank">www.hikorea.go.kr</a>) 홈페이지에 접속해 인적사항, 출국예정일 등의 정보가 입력된 자진출국신고서를 출력하고 출국 당일 이용하는 공항·항만에 4시간 전까지 도착해 여권 및 항공권 사본과 함께 제출하면 된다.<br /><br />지금까지는 자진출국을 위해 불법체류 외국인들이 출국 3일 전까지 체류지 출입국·외국인청을 직접 방문해 사전신고 및 사범심사를 받고 출국 당일 공항·항만 출입국·외국인청에서 범죄 수배 여부 확인 절차를 거쳐야만 했다. <br /><br />온라인 사전신고제는 항공편이 미리 예약된 경우만 신청 가능하며 출국 전 본국이나 항공사에서 요구하는 유전자검사(PCR) 음성확인서 등 필요한 서류는 각자 준비해야 한다. 이후 범죄경력 조회를 받고 부과받은 범칙금을 납부하면 바로 출국할 수 있다. <br /><br />위변조여권 행사자, 신원불일치자, 밀입국자, 형사처벌을 받은 전력이 있는 외국인들은 온라인 사전신고 대상에서 제외된다. 온라인 사전신고제 이용이 어려운 사람을 위해 법무부는 기존의 방문신고제도 운영한다. <br /><br />법무부는 “연말연시를 맞아 감염 확산 위험을 차단하기 위해 외국인 밀집시설에 대한 특별 순찰 및 방역점검·계도를 적극적으로 시행할 계획”이라고 밝혔다.<br /></div>
+					
+					<div class="viewAdd">
+			<div>
+				&middot; 코리아넷 뉴스의 저작권 정책은 코리아넷(02-2125-3501)으로 문의하여 주시기 바랍니다. 
+			</div>
+		</div>
+	<div class="viewControl">
+						<ul>
+							<li class="prev">
+								<a href="/koreanet/view.do?seq=1036796&amp;page=1&amp;pageSize=10&amp;photoPageSize=6&amp;totalCount=0&amp;searchType=null&amp;searchText=&amp;searchCondition=1&amp;cateCode=">
+											<strong>이전글</strong>
+											<p>
+												문 대통령, 바이든 당선인에게 축하 서한···&quot;한반도 비핵화·평화정착 위해 협력 기대&quot;</p>
+										</a>
+									</li>
+							<li class="next">
+								<a href="/koreanet/view.do?seq=1036802&amp;page=1&amp;pageSize=10&amp;photoPageSize=6&amp;totalCount=0&amp;searchType=null&amp;searchText=&amp;searchCondition=1&amp;cateCode=">
+											<strong>다음글</strong>
+											<p>
+												한·미 통화스와프 계약 6개월 재연장···"코로나19 불확실성 선제 대응"</p>
+										</a>
+									</li>
+						</ul>
+					</div>
+
+					<div class="btnWrap">
+						<button class="btnList" onclick="javascript:goList();" title="목록으로 이동">목록</button>
+					</div>
+
+				</article>
+				<!-- bbsView end -->
+
+				<div class="poll">
+		<div class="question">열람하신 정보에 만족하십니까?</div>
+			<div class="select">
+				<ul>
+					<li>
+							<input type="radio" id="surveyResult5" name="surveyResult" value="5"><label for="surveyResult5">매우만족</label>
+						</li>
+					<li>
+							<input type="radio" id="surveyResult4" name="surveyResult" value="4"><label for="surveyResult4">만족</label>
+						</li>
+					<li>
+							<input type="radio" id="surveyResult3" name="surveyResult" value="3"><label for="surveyResult3">보통</label>
+						</li>
+					<li>
+							<input type="radio" id="surveyResult2" name="surveyResult" value="2"><label for="surveyResult2">불만</label>
+						</li>
+					<li>
+							<input type="radio" id="surveyResult1" name="surveyResult" value="1"><label for="surveyResult1">매우불만족</label>
+						</li>
+					</ul>
+				<div class="btnPoll">
+					<button onclick="javascript:goSurvey('1','1');" title="평가하기">확인</button>
+				</div>
+			</div>
+		</div>
+<script type="text/javascript">
+	function goSurvey(surveyIdx, val){
+		var checkVal = "";
+        var menuCode = "menu0026"; //소스코드 보안약점 진단 결과 수정 20231108 by SHKIM
+        var seq = "1036797"; //소스코드 보안약점 진단 결과 수정 20231108 by SHKIM
+		if(val == '1'){
+			checkVal = $("input[name='surveyResult']:checked").val();
+			if(checkVal == "" || checkVal == null){
+				alert("답변을 체크해주세요.");
+				return;
+			}
+		}else{
+			checkVal = $("#surveyResult").val();
+			if(checkVal == "" || checkVal == null){
+				alert("답변을 입력해주세요.");
+				return;
+			}
+		}
+		
+		$.ajax({
+			type:'POST',
+			url:"/surveySend.do",
+			data:{
+				process:'send',
+				menuCode:menuCode,
+				surveyIdx:surveyIdx,
+				checkVal:checkVal,
+				gubun:val,
+				seq:seq
+			},
+			//dataType:"text",
+			success: function(result){
+				if(result == "Y"){
+					alert("만족도 조사에 참여해주셔서 감사합니다.\n소중한 자료로 쓰겠습니다.");
+				}else if (result == "N"){
+					alert("이미 민족도 평가에 참여하셨습니다.");	
+				}else {
+					alert("잘못된 접근입니다.");
+				}				
+			}
+		});		
+	}
+</script>
+
+</div>
+			<!-- wrapper end -->
+
+		</div>
+		<!-- contents end -->
+		
+		<!-- footer start -->
+<footer id="footerWrap">
+	<div class="footerLink footer-kcc">
+		<ul class="footer-kcc-list">
+			<li class="kcc-list-dep1">
+				<strong class="kcc-tit">아시아/태평양<i class="icon icon-arrow-right-up"></i></strong>
+				<ul>
+					<li><a href="https://my.korean-culture.org/ko" target="_blank" title="주말레이시아한국문화원 누리집 새 창 열림"><span>말레이시아</span></a></li>
+					<li><a href="https://vietnam.korean-culture.org/ko" target="_blank" title="주베트남한국문화원 누리집 새 창 열림"><span>베트남</span></a></li>
+					<li><a href="https://india.korean-culture.org/ko" target="_blank" title="주인도한국문화원 누리집 새 창 열림"><span>인도</span></a></li>
+					<li><a href="https://id.korean-culture.org/ko" target="_blank" title="주인도네시아한국문화원 누리집 새 창 열림"><span>인도네시아</span></a></li>
+					<li><a href="https://www.koreanculture.jp/korean/index.php" target="_blank" title="주일한국문화원 누리집 새 창 열림"><span>일본 - 도쿄</span></a></li>
+					<li><a href="https://www.k-culture.jp/korean/index.php" target="_blank" title="주오사카한국문화원 누리집 새 창 열림"><span>일본 - 오사카</span></a></li>
+					<li><a href="https://china.korean-culture.org/ko" target="_blank" title="주중한국문화원 누리집 새 창 열림"><span>중국 - 베이징</span></a></li>
+					<li><a href="https://sh.korean-culture.org/ko" target="_blank" title="주상하이한국문화원 누리집 새 창 열림"><span>중국 - 상하이</span></a></li>
+					<li><a href="https://hk.korean-culture.org/ko" target="_blank" title="주홍콩한국문화원 누리집 새 창 열림"><span>중국 - 홍콩</span></a></li>
+					<li><a href="https://thailand.korean-culture.org/ko" target="_blank" title="주태국한국문화원 누리집 새 창 열림"><span>태국</span></a></li>
+					<li><a href="https://phil.korean-culture.org/ko" target="_blank" title="주필리핀한국문화원 누리집 새 창 열림"><span>필리핀</span></a></li>
+					<li><a href="https://kaz.korean-culture.org/ko" target="_blank" title="주카자흐스탄한국문화원 누리집 새 창 열림"><span>카자흐스탄</span></a></li>
+					<li><a href="https://au.korean-culture.org/ko" target="_blank" title="주시드니한국문화원 누리집 새 창 열림"><span>호주</span></a></li>
+				</ul>
+			</li>
+			<li class="kcc-list-dep1">
+				<strong class="kcc-tit">미주<i class="icon icon-arrow-right-up"></i></strong>
+				<ul>
+					<li><a href="https://kr.koreanculture.org" target="_blank" title="주뉴욕한국문화원 누리집 새 창 열림"><span>미국 - 뉴욕</span></a></li>
+					<li><a href="https://la.korean-culture.org/ko" target="_blank" title="주로스앤젤레스한국문화원 누리집 새 창 열림"><span>미국 - 로스앤젤레스</span></a></li>
+					<li><a href="https://washingtondc.korean-culture.org/ko" target="_blank" title="주워싱턴한국문화원 누리집 새 창 열림"><span>미국 - 워싱턴</span></a></li>
+					<li><a href="https://mexico.korean-culture.org/ko" target="_blank" title="주멕시코한국문화원 누리집 새 창 열림"><span>멕시코</span></a></li>
+					<li><a href="https://brazil.korean-culture.org/ko" target="_blank" title="주브라질한국문화원 누리집 새 창 열림"><span>브라질</span></a></li>
+					<li><a href="https://argentina.korean-culture.org/ko" target="_blank" title="주아르헨티나한국문화원 누리집 새 창 열림"><span>아르헨티나</span></a></li>
+					<li><a href="https://canada.korean-culture.org/ko" target="_blank" title="주캐나다한국문화원 누리집 새 창 열림"><span>캐나다</span></a></li>
+				</ul>
+			</li>
+			<li class="kcc-list-dep1">
+				<strong class="kcc-tit">유럽<i class="icon icon-arrow-right-up"></i></strong>
+				<ul>
+					<li><a href="https://germany.korean-culture.org/ko" target="_blank" title="주독일한국문화원 누리집 새 창 열림"><span>독일</span></a></li>
+					<li><a href="https://russia.korean-culture.org/ko" target="_blank" title="주러시아한국문화원 누리집 새 창 열림"><span>러시아</span></a></li>
+					<li><a href="https://brussels.korean-culture.org/ko" target="_blank" title="주벨기에한국문화원 누리집 새 창 열림"><span>벨기에</span></a></li>
+					<li><a href="https://sweden.korean-culture.org/ko" target="_blank" title="주스웨덴한국문화원 누리집 새 창 열림"><span>스웨덴</span></a></li>
+					<li><a href="https://spain.korean-culture.org/ko" target="_blank" title="주스페인한국문화원 누리집 새 창 열림"><span>스페인</span></a></li>
+					<li><a href="https://uk.korean-culture.org/ko" target="_blank" title="주영한국문화원 누리집 새 창 열림"><span>영국</span></a></li>
+					<li><a href="https://vienna.korean-culture.org/ko" target="_blank" title="주오스트리아한국문화원 누리집 새 창 열림"><span>오스트리아</span></a></li>
+					<li><a href="https://italia.korean-culture.org/ko" target="_blank" title="주이탈리아한국문화원 누리집 새 창 열림"><span>이탈리아</span></a></li>
+					<li><a href="https://pl.korean-culture.org/ko" target="_blank" title="주폴란드한국문화원 누리집 새 창 열림"><span>폴란드</span></a></li>
+					<li><a href="https://www.coree-culture.org/?lang=ko" target="_blank" title="주프랑스한국문화원 누리집 새 창 열림"><span>프랑스</span></a></li>
+					<li><a href="https://hungary.korean-culture.org/ko" target="_blank" title="주헝가리한국문화원 누리집 새 창 열림"><span>헝가리</span></a></li>
+				</ul>
+			</li>
+			<li class="kcc-list-dep1">
+				<strong class="kcc-tit">중동/아프리카<i class="icon icon-arrow-right-up"></i></strong>
+				<ul>
+					<li><a href="https://ngr.korean-culture.org/ko" target="_blank" title="주나이지리아한국문화원 누리집 새 창 열림"><span>나이지리아</span></a></li>
+					<li><a href="https://sa.korean-culture.org/ko" target="_blank" title="주남아공한국문화원 누리집 새 창 열림"><span>남아프리카공화국</span></a></li>
+					<li><a href="https://uae.korean-culture.org/ko" target="_blank" title="주아랍에미리트한국문화원 누리집 새 창 열림"><span>아랍에미리트</span></a></li>
+					<li><a href="https://egypt.korean-culture.org/ko" target="_blank" title="주이집트한국문화원 누리집 새 창 열림"><span>이집트</span></a></li>
+					<li><a href="https://tr.korean-culture.org/ko" target="_blank" title="주튀르키예한국문화원 누리집 새 창 열림"><span>튀르키예공화국</span></a></li>
+				</ul>
+			</li>
+		</ul>
+		<span class="bg-txt">Korean Cultural Center</span>
+	</div>
+	
+	<div class="footerInfo">
+		<div class="infoTxt">
+			<div class="footer-logo"><img src="/images/layout/kocis_logo2025.svg" alt="문화체육관광부 한국문화원"></div>
+			<p class="footer-adress">30119 세종특별자치시 갈매로 408 정부세종청사 14-1동 문화체육관광부 <span class="footer-tel">대표전화: 044-203-2000, 팩스: 044-203-3447</span> <span class="footer-copy">Copyright © Ministry of Culture, Sports and Tourism</span></p>
+		</div>
+		<div class="infoLink">
+			<ul class="footer-link">
+				<li><a href="https://www.mcst.go.kr/kor/s_etc/privacy/privacyGuide.jsp" target="_blank" title="새창열림" class="bold-txt">개인정보처리방침</a></li>
+				<li><a href="https://www.mcst.go.kr/kor/s_etc/copyright/copyrightGuide.jsp" target="_blank" title="새창열림">저작권정책</a></li>
+				<li><a href="/rssService.do">RSS</a></li>
+				<li>
+					<div class="related-tox">
+						<button type="button" class="related-tit" title="관련사이트 열기">관련사이트</button>
+						<div class="related-list">
+							<ul>
+								<li><a href="https://www.mcst.go.kr/" target="_blank" title="새창열림">문화체육관광부</a></li>
+								<li><a href="https://www.youtube.com/GatewayToKorea" target="_blank" title="새창열림">코리아넷 유튜브</a></li>
+								<li><a href="https://www.kociscenter.kr/" target="_blank" title="새창열림">코시스센터</a></li>
+								<li><a href="https://www.factsaboutkorea.go.kr/" target="_blank" title="새창열림">한국바로알림</a></li>
+							</ul>
+						</div>
+						</div>
+				</li>
+			</ul>
+			<ul class="footer-mark">
+				<li><a href="https://www.kogl.or.kr/info/introduce.do" target="_blank" title="새창열림"><img src="/images/layout/footer_mi_open.png" alt="OPEN 공공저작물 자유이용허락"></a></li>
+				</ul>
+		</div>
+	</div>
+	<!-- footerInfo end -->
+</footer>
+<!-- footer end -->
+
+<!-- topButton start -->
+<button class="to-top-btn main-on" id="back-top">
+	<i class="xi-arrow-top"></i>
+	<span class="sr-only">페이지 최상단으로 이동</span>
+</button>
+<!-- topButton end -->
+
+<script type="text/javascript">
+function addAccessibilityTitles() {
+	// 제목 추출: #viewTitle 안의 텍스트
+	const viewTitleEl = document.querySelector('#viewTitle');
+	const viewTitleText = viewTitleEl ? viewTitleEl.textContent.trim() : '';
+
+	// contents 안의 링크 처리
+	const editorContents = document.querySelectorAll('div#contents');
+	editorContents.forEach(container => {
+		// (a) target="_blank"인 링크에 title="새창열림" 추가
+		const links = container.querySelectorAll('a[target="_blank"]');
+		links.forEach(link => {
+			if (!link.hasAttribute('title') || link.getAttribute('title').trim() === '') {
+				link.setAttribute('title', '새창열림');
+			}
+			
+			//rel 속성 추가 또는 병합
+			const existingRel = link.getAttribute('rel') || '';
+			const relValues = new Set(existingRel.split(/\s+/).filter(Boolean));
+			relValues.add('noopener');
+			relValues.add('noreferrer');
+			link.setAttribute('rel', Array.from(relValues).join(' '));
+		});
+
+		// (b) iframe에 title이 없으면 viewTitle 텍스트로 설정
+		const iframes = container.querySelectorAll('iframe');
+		iframes.forEach(frame => {
+			if (!frame.hasAttribute('title') || frame.getAttribute('title').trim() === '') {
+				if (viewTitleText) {
+					frame.setAttribute('title', viewTitleText);
+				}
+			}
+		});
+	});
+}
+
+// 실행
+addAccessibilityTitles();
+</script>
+</div>
+	<!-- wrap end -->
+</body>
+</html>
+

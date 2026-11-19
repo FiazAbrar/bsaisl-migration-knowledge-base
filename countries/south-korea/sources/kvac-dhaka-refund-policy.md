@@ -1,0 +1,95 @@
+##### [ Home ](index.html)  *arrow_forward* [ Refund Policy ](refund-policy.html) 
+
+# Refund Policy
+
+#### **VFS Global’s Refund Policy**
+
+This policy ( **“Refund Policy”** or **“Policy”**) applies only to Services fees and Value-Added Services Fees collected by VFS Global. This Policy does not apply to visa fees and legalization fees which are paid for the visa of the country for which the Applicant wishes to apply. Visa fees and legalisation fees are subject to the discretion of the respective visa issuing government.
+
+It is important that Applicants read this Refund Policy carefully. Applicants should familiarise themselves with the terms of this Refund Policy, prior to purchasing any services from VFS Global. By using the services offered by VFS an Applicant has read, understood, and agreed to VFS Global’s Refund Policy.
+
+#### **Definitions**
+
+**“Applicant”** means any person applying for a visa or any person requesting and/or purchasing the Services and or Value-Added Services.
+
+**“Application”** means an application form duly completed and submitted to VFS Global by the Applicant or their authorised representative for the provision of Services and or Value-Added Services.
+
+**“Government”** means the relevant government issuing a visa.
+
+**"Issuer"** means the bank or entity who has issued the Applicant’s credit or debit card.
+
+**"Refund Eligibility Criteria"** means the criteria stated herein section.
+
+**"Refund Request Form"** means the VFS Global’s form with requested information and supporting documents to request a refund which may be completed and submitted online.
+
+**"Service Fees”:** means the fees payable by the Applicant for the Services purchased in accordance with the Services Terms and Conditions.
+
+**"Services” ":** means visa processing services, which are offered by VFS Global.
+
+**"Transaction Charges"** means any fees levied by a bank or financial institution or entity for processing a valid refund request to the Applicant.
+
+**“Value Added Services”** means the all the optional value-added services or additional services, or premium services purchased by an Applicant which are offered on VFS Global’s website
+
+**“Value Added Services Fee”** means the fees payable by the Applicant for Value Added Services purchased in accordance with VFS Global’s Website Terms and Conditions
+
+**VFS Global”** means VF Worldwide Holdings Ltd. or any of its subsidiaries, associate or affiliate or group companies
+
+**“Visa Fees”** means the fees charged by the relevant government for issuing a visa to an Applicant
+
+**"Website"** means the VFS Global website
+
+**"Website Terms and Conditions"** means the terms and conditions applicable to and posted on VFS Global’s Website.
+
+#### **General Refund Conditions**
+
+1.  The applicants are responsible to visit the VFS Global website to access the Refund Policy.
+
+2.  The Service Fee and or Value-Added Services Fees may be refundable subject to the terms herein and provided that the Applicant has paid for the Services and or Value-Added Services. The Applicant may request a Refund only in accordance with the Refund Eligibility Criteria.
+
+3.  The Refund Policy shall be governed by the applicable local laws in the country where the Services are being provided to the Applicant.
+
+4.  Refunds of Service Fees and Value-Added Services Fees will only be considered where the Applicant complies with the Refund Eligibility Criteria. If the Applicant fails to meet any of the Refund Eligibility Criteria, VFS Global shall have the right in its sole discretion to decline the request for a Refund.
+
+5.  To apply for a refund, the Applicant must properly and fully complete and submit a Refund Request Form together with all supporting documents online. Click [here](https://vfsforms.mioot.com/forms/VRT/) for the form
+
+6.  VFS Global may process the Applicant’s Refund Request as soon as reasonably practicable. Response times may vary depending on the mode of payment and reasons for a refund request for the Service Fees or Value-Added Services Fee. VFS Global may notify the Applicant of the outcome of the request in accordance with the timelines set out in the Refund Processing Timelines.
+
+7.  By completing and submitting the Refund Request Form, the payment of a refund of the Service Fees is not guaranteed. The refund may be approved or rejected by VFS Global in its discretion.
+
+8.  Any Transaction Charges or loss due to exchange rate fluctuation or bank charges or administrative fees which may be levied for processing a refund of Service Fees or Value-Added Services Fees shall be borne solely by the Applicant and shall be deducted by VFS Global from the amount to be refunded.
+
+9.  GST / VAT / similar such indirect taxes, if any, charged on the Service Fees and Value-Added Services Fees may be refunded, subject to applicable tax laws.
+
+#### **Refund Eligibility Criteria**
+
+The Services must be cancelled at least 2 business days prior to the date scheduled for an appointment for a visa and proof of the cancellation must be submitted together with the Refund Request Form. All requests for Refunds shall only be accepted and considered if a Refund Request Form is submitted online by an Applicant within 30 days from the date of the cancellation of the Applicant’s appointment for a visa. Refunds shall be subject to the terms herein including VFS Global’s data retention obligations to the respective Government.
+
+If the Applicant has been charged more than once for the same services or the Applicant has paid a sum in excess and the Applicant can provide proof of such excess charge, the Applicant may be entitled to claim a refund on the terms herein.
+
+Requests for refunds or cancellation of a Service shall not be accepted and no refunds shall be given where:
+
+1.  the Applicant has partially used the Service.
+
+2.  the Applicant has missed their appointment on the scheduled date and is not entitled to an alternative appointment on the same application.
+
+3.  the Applicant is delayed for their appointment and there is no other alternative time available on the same day.
+
+4.  the Applicant’s application cannot be accepted on the appointment day due to an incomplete application or missing documents or a submission for an incorrect visa category and the Applicant is not entitled to an alternative appointment.
+
+5.  the Applicant decides not to proceed with their application.
+
+6.  the Applicant does not cancel their appointment within the time periods stated herein.
+
+7.  the Applicant is unable to proceed with the appointment as the Applicant has selected the Visa Application Center location incorrectly
+
+#### **Refund Processing Timeline:**
+
+A Refund of Service Fees or Value-Added Services Fee may be processed within fifteen (15) working days from the date of notifying the Applicant of the refund decision.
+
+#### **Receiving Your Refund**
+
+Refunds will be processed using the same mode of payment made for the Services or Value-Added Services. For example, if payment was made with a credit or debit card, the refund will also be made to the same credit or debit card.
+
+If VFS is unable to process a refund by the same mode by which payment was made, then VFS Global shall notify the Applicant of the alternate mode of payment for processing such Refund.
+
+In case of payments made by debit or credit card, the date by which Refund amount shall be credited to the Applicant’s card shall depend on the card issuer.

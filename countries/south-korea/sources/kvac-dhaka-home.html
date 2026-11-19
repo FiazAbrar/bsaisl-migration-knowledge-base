@@ -1,0 +1,635 @@
+<html>
+
+<head>
+  <title>Welcome to Republic of Korea Visa Application centre</title>
+  <meta data-n-head="1" charset="utf-8" />
+  <meta data-n-head="1" data-hid="description" name="description" content="VFS Global" />
+  <link data-n-head="1" rel="icon" type="image/x-icon" href="assets/images/vfs-global-logo-short.png" />
+  <link data-n-head="1" rel="icon" type="image/x-icon" href="assets/images/favicon.png" />
+  <link data-n-head="1" rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons" />
+  <link data-n-head="1" rel="stylesheet" type="text/css"
+    href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&amp;display=swap" />
+  <link data-n-head="1" rel="stylesheet" type="text/css"
+    href="https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css" />
+  <style type="text/css">
+    h1[data-v-111c1622] {
+      font-size: 20px;
+    }
+  </style>
+  <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
+
+  <style>
+    /* Homepage appointment notice popup */
+    .appointment-notice-overlay {
+      position: fixed;
+      inset: 0;
+      z-index: 99999;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      background: rgba(18, 25, 35, 0.48);
+      -webkit-backdrop-filter: blur(7px);
+      backdrop-filter: blur(7px);
+      opacity: 1;
+      visibility: visible;
+      transition: opacity 220ms ease, visibility 220ms ease;
+    }
+
+    .appointment-notice-overlay.is-hidden {
+      opacity: 0;
+      visibility: hidden;
+      pointer-events: none;
+    }
+
+    .appointment-notice-modal {
+      position: relative;
+      width: min(100%, 520px);
+      padding: 28px 30px 24px;
+      border: 1px solid rgba(255, 255, 255, 0.72);
+      border-radius: 10px;
+      background: rgba(255, 255, 255, 0.96);
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.24);
+      color: #30343b;
+      transform: translateY(0);
+      transition: transform 220ms ease;
+    }
+
+    .appointment-notice-overlay.is-hidden .appointment-notice-modal {
+      transform: translateY(8px);
+    }
+
+    .appointment-notice-heading {
+      margin: 0;
+      padding: 0 48px 18px 0;
+      color: #252a31;
+      font-size: 22px;
+      font-weight: 600;
+      line-height: 1.35;
+    }
+
+    .appointment-notice-divider {
+      height: 1px;
+      margin: 0 0 20px;
+      border: 0;
+      background: #e6e8eb;
+    }
+
+    .appointment-notice-message {
+      margin: 0 0 26px;
+      color: #424750;
+      font-size: 16px;
+      line-height: 1.75;
+    }
+
+    .appointment-notice-close {
+      position: absolute;
+      top: 18px;
+      right: 18px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 38px;
+      height: 38px;
+      padding: 0;
+      border: 1px solid #e7e7e7;
+      border-radius: 6px;
+      background: #f5f6f7;
+      color: #3b4148;
+      font-family: Arial, sans-serif;
+      font-size: 25px;
+      line-height: 1;
+      cursor: pointer;
+      transition: background-color 180ms ease, border-color 180ms ease, color 180ms ease;
+    }
+
+    /* .appointment-notice-close:hover,
+    .appointment-notice-close:focus-visible {
+      border-color: #f26722;
+      background: #f26722;
+      color: #fff;
+      outline: none;
+    } */
+    .appointment-notice-close:hover {
+      border-color: #f26722;
+      background: #f26722;
+      color: #fff;
+    }
+
+    .appointment-notice-close:focus-visible {
+      outline: 2px solid rgba(242, 103, 34, 0.35);
+      outline-offset: 2px;
+    }
+
+    .appointment-notice-actions {
+      display: flex;
+      justify-content: flex-end;
+    }
+
+    .appointment-notice-ok {
+      min-width: 94px;
+      padding: 11px 24px;
+      border: 1px solid #f26722;
+      border-radius: 5px;
+      background: #f26722;
+      color: #fff;
+      font-size: 15px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: background-color 180ms ease, border-color 180ms ease;
+    }
+
+    .appointment-notice-ok:hover,
+    .appointment-notice-ok:focus-visible {
+      border-color: #d95312;
+      background: #d95312;
+      outline: 2px solid rgba(242, 103, 34, 0.25);
+      outline-offset: 2px;
+    }
+
+    body.appointment-notice-open {
+      overflow: hidden;
+    }
+
+    @media (max-width: 575px) {
+      .appointment-notice-overlay {
+        padding: 16px;
+      }
+
+      .appointment-notice-modal {
+        padding: 24px 20px 20px;
+      }
+
+      .appointment-notice-heading {
+        padding-right: 42px;
+        font-size: 20px;
+      }
+
+      .appointment-notice-close {
+        top: 14px;
+        right: 14px;
+        width: 34px;
+        height: 34px;
+      }
+
+      .appointment-notice-message {
+        font-size: 15px;
+        line-height: 1.65;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+
+      .appointment-notice-overlay,
+      .appointment-notice-modal,
+      .appointment-notice-close,
+      .appointment-notice-ok {
+        transition: none;
+      }
+    }
+  </style>
+
+</head>
+
+<body>
+  <div id="__nuxt">
+    <div id="__layout">
+      <div dir="ltr" class="">
+        <div class="full-widht-header">
+          <div class="container p-0">
+            <div class="row">
+              <div class="col-10 pt-2 pb-1">
+                <a href="index.html" class="no-anchor nuxt-link-exact-active nuxt-link-active">
+                  <img src="assets/images/c4819f5.png" alt="vfs-global-logo" class="logo-height" />
+                </a>
+              </div>
+              <div class="col-2 text-right pt-2 pb-2">
+                <div class="language-selector-select-item">
+                  <div id="dropdown-1" class="dropdown b-dropdown my-2 bg-white language-dropdown btn-group">
+                    <!---->
+                    <button id="dropdown-1__BV_toggle_" aria-haspopup="true" aria-expanded="false" type="button"
+                      class="btn dropdown-toggle btn-outline-language" onclick="showlanguage()">
+                      English
+                    </button>
+                    <ul role="menu" tabindex="-1" aria-labelledby="dropdown-1__BV_toggle_" class="dropdown-menu"
+                      id="language">
+                      <li role="presentation">
+                        <a role="menuitem" target="_self" href="#" class="dropdown-item">
+                          English
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <!---->
+              </div>
+            </div>
+          </div>
+          <div class="cstm-navbar">
+            <!---->
+            <div>
+              <div class="container py-0 px-0 mb-1 navigation-menus logo-select full-widht-header nav-menu">
+                <div class="d-flex py-15">
+                  <div class="menu-contain nav-hover">
+                    <a href="index.html"
+                      class="text-decoration-none h-100 position-relative d-block nuxt-link-exact-active nuxt-link-active">
+                      Home
+                    </a>
+                  </div>
+                  <div title="Apply for a visa" class="menu-contain nav-hover">
+                    <a href="apply-visa.html" class="text-decoration-none h-100 position-relative d-block">
+                      Apply for a visa
+                    </a>
+                  </div>
+                  <div title="Book an appointment" class="menu-contain nav-hover">
+                    <a href="schedule-an-appointment.html" class="text-decoration-none h-100 position-relative d-block">
+                      Book an appointment
+                    </a>
+                  </div>
+                  <div title="Attend a centre" class="menu-contain nav-hover">
+                    <a href="attend-centre.html" class="text-decoration-none h-100 position-relative d-block">
+                      Attend a centre
+                    </a>
+                  </div>
+                  <div title="Additional Services" class="menu-contain nav-hover">
+                    <a href="additional-services.html" class="text-decoration-none h-100 position-relative d-block">
+                      Additional Services
+                    </a>
+                  </div>
+                  <div title="Track your application" class="menu-contain nav-hover">
+                    <a href="track-application.html" class="text-decoration-none h-100 position-relative d-block">
+                      Track your application
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="mobile-width-header bg-white sticky-top">
+          <!---->
+          <div class="container-fluid">
+            <div class="row col-12 m-auto px-0">
+              <div class="w-80">
+                <a href="index.html" class="no-anchor nuxt-link-exact-active nuxt-link-active">
+                  <img src="assets/images/c4819f5.png" alt="vfs-global-logo" class="vfs-global-logo" />
+                </a>
+              </div>
+              <div class="w-20 m-auto">
+                <button data-target="#navbarsExampleDefault" data-toggle="collapse" aria-expanded="true"
+                  class="float-right navbar-toggler" onclick="showMobileMenu()">
+                  <span class="line"></span>
+                  <span class="line"></span>
+                  <span class="line" style="margin-bottom: 0px"></span>
+                </button>
+              </div>
+            </div>
+            <div class="row mob-menu-box" style="display: none" id="mobile-menu">
+              <div class="mobile-menu-list">
+                <a href="index.html"
+                  class="text-decoration-none nuxt-link-exact-active nuxt-link-active"><span>Home</span></a>
+              </div>
+              <div class="mobile-menu-list">
+                <a href="apply-visa.html" class="text-decoration-none"><span>Apply for a visa</span></a>
+              </div>
+              <div class="mobile-menu-list">
+                <a href="schedule-an-appointment.html" class="text-decoration-none"><span>Book an appointment</span></a>
+              </div>
+              <div class="mobile-menu-list">
+                <a href="attend-centre.html" class="text-decoration-none"><span>Attend a centre</span></a>
+              </div>
+              <div class="mobile-menu-list">
+                <a href="additional-services.html" class="text-decoration-none"><span>Additional Services</span></a>
+              </div>
+              <div class="mobile-menu-list">
+                <a href="track-application.html" class="text-decoration-none"><span>Track your application</span></a>
+              </div>
+              <div class="col text-right language">
+                <div class="pt-11">
+                  <div id="dropdown-1" class="dropdown b-dropdown m-2 language-dropdown show btn-group">
+                    <!----><button id="dropdown-1__BV_toggle_" aria-haspopup="true" aria-expanded="true" type="button"
+                      class="btn dropdown-toggle btn-outline-language" onclick="showlanguagemobile()">
+                      English
+                    </button>
+                    <ul id="languagemobile" role="menu" tabindex="-1" aria-labelledby="dropdown-1__BV_toggle_"
+                      class="dropdown-menu" style="
+                          position: absolute;
+                          will-change: transform;
+                          top: 0px;
+                          left: 0px;
+                          transform: translate3d(0px, 38px, 0px);
+                        " x-placement="bottom-start">
+                      <li role="presentation">
+                        <a role="menuitem" target="_self" href="#" class="dropdown-item">
+                          English
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <main class="v-content" data-booted="true" style="padding: 0px">
+          <div class="v-content__wrap">
+            <div data-v-543529b2="" iv="" class="page-component">
+              <div data-v-543529b2="" class="nav-content">
+                <div data-v-543529b2="" class="bg-overlay">
+                  <div data-v-543529b2="" class="container row-rep">
+                    <div data-v-543529b2="" class="row container pb-0">
+                      <div data-v-543529b2="" class="renderer-content">
+                        <h1>Welcome to Korea Visa application Centre</h1>
+                        <h3>
+                          <u>We are the official partner of the Consulate
+                            General of the Republic of Korea in Bangladesh.</u>
+                        </h3>
+                        <p></p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div data-v-543529b2="" class="container call-action-index">
+                <div data-v-543529b2="" class="row custom-card">
+                  <div class="col-12 col-md d-flex custom-border-card align-items-stretch py-4 px-3">
+                    <div class="w-100 d-flex flex-column">
+                      <p>Apply for a visa</p>
+                      <h5 class="color-62707c pb-5 w-wrap-anywhere">
+                        Find information and begin your application
+                      </h5>
+                      <a href="apply-visa.html" class="cta-link navigate-btn btn-first clearfix d-flex"
+                        referrerpolicy="no-referrer-when-downgrade">
+                        <span class="text-initial w-100">Start now</span>
+                        <svg viewBox="0 0 16 16" width="1em" height="1em" focusable="false" role="img" alt="icon"
+                          xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi-play-fill mt-1 b-icon bi"
+                          style="">
+                          <g>
+                            <path
+                              d="M11.596 8.697l-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 010 1.393z">
+                            </path>
+                          </g>
+                        </svg>
+                      </a>
+                    </div>
+                  </div>
+                  <div class="col-12 col-md d-flex custom-border-card align-items-stretch py-4 px-3">
+                    <div class="w-100 d-flex flex-column">
+                      <p>Book an appointment</p>
+                      <h5 class="color-62707c pb-5 w-wrap-anywhere">
+                        Schedule your appointment with us
+                      </h5>
+                      <a href="schedule-an-appointment.html" class="cta-link navigate-btn btn-first clearfix d-flex"
+                        referrerpolicy="no-referrer-when-downgrade">
+                        <span class="text-initial w-100">Book now</span>
+                        <svg viewBox="0 0 16 16" width="1em" height="1em" focusable="false" role="img" alt="icon"
+                          xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi-play-fill mt-1 b-icon bi"
+                          style="">
+                          <g>
+                            <path
+                              d="M11.596 8.697l-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 010 1.393z">
+                            </path>
+                          </g>
+                        </svg>
+                      </a>
+                    </div>
+                  </div>
+                  <div class="col-12 col-md d-flex custom-border-card align-items-stretch py-4 px-3">
+                    <div class="w-100 d-flex flex-column">
+                      <p>Find a center</p>
+                      <h5 class="color-62707c pb-5 w-wrap-anywhere">
+                        Information about your local center
+                      </h5>
+                      <a href="attend-centre.html" class="cta-link navigate-btn btn-first clearfix d-flex"
+                        referrerpolicy="no-referrer-when-downgrade">
+                        <span class="text-initial w-100">Find now</span>
+                        <svg viewBox="0 0 16 16" width="1em" height="1em" focusable="false" role="img" alt="icon"
+                          xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi-play-fill mt-1 b-icon bi"
+                          style="">
+                          <g>
+                            <path
+                              d="M11.596 8.697l-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 010 1.393z">
+                            </path>
+                          </g>
+                        </svg>
+                      </a>
+                    </div>
+                  </div>
+                  <div class="col-12 col-md d-flex custom-border-card align-items-stretch py-4 px-3">
+                    <div class="w-100 d-flex flex-column">
+                      <p>Premium services</p>
+                      <h5 class="color-62707c pb-5 w-wrap-anywhere">
+                        Enjoy a faster, more convenient and more luxurious
+                        application
+                      </h5>
+                      <a href="additional-services.html" class="cta-link navigate-btn btn-first clearfix d-flex"
+                        referrerpolicy="no-referrer-when-downgrade">
+                        <span class="text-initial w-100">View services</span>
+                        <svg viewBox="0 0 16 16" width="1em" height="1em" focusable="false" role="img" alt="icon"
+                          xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi-play-fill mt-1 b-icon bi"
+                          style="">
+                          <g>
+                            <path
+                              d="M11.596 8.697l-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 010 1.393z">
+                            </path>
+                          </g>
+                        </svg>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!---->
+              <!---->
+              <div data-v-543529b2="" class="container mt-5 row-rep">
+                <div data-v-543529b2="" class="row container pt-11 pb-1">
+                  <h2 data-v-543529b2="">News</h2>
+                </div>
+
+                <div data-v-543529b2="" class="news-li row pb-11 container pt-0">
+                  <div data-v-543529b2="" class="w-100">
+                    <!-- <h5 data-v-543529b2="" class="news-date">22 June 2023</h5> -->
+                    <div data-v-543529b2="" class="renderer-content">
+                      <p><strong>Important Notice for Visa Applicants:</strong></p>
+                      <ul>
+                        <li>
+                          <p>Applicants who obtain an appointment but fail to submit their application on the
+                            scheduled date will not be eligible to book another appointment within one month. Applicants
+                            who cancel before the scheduled date are not affected.</p>
+                        </li>
+                        <li>
+                          <p>Appointment slots will be opened weekly, every Monday between 9:00 AM to 10:00 AM, for the
+                            following week's submissions (except on government or official holidays). Please check our
+                            website regularly, as additional slots are released daily during the same time period.&nbsp;
+                          </p>
+                        </li>
+                        <li>
+                          <p>Applicants who have a Visa Issuance Confirmation (VIC) but do not have an appointment can
+                            apply without any restriction. Please visit KVAC for submission according to the queue
+                            sequence. Required documents: 2-page VIC application form (different from the normal form),
+                            TB test report within 3 months, criminal certificate within 3 months, and a photo.</p>
+                        </li>
+                        <li>
+                          <p>Applicants with official invitations from Korean Government organizations, Major companies
+                            of Korea: Samsung, LG, Hyundai, Youngone etc. only. International organizations, or for
+                            Bangladesh Government official visits may submit applications without an appointment, in
+                            Consultation with the Embassy.</p>
+                        </li>
+                        <li>
+                          <p>KVAC may accept a limited number of applicants without appointments on a first-come,
+                            first-served basis against daily no-shows, subject to available capacity. (Submission Time:
+                            Between 2pm to 2.30pm)</p>
+                        </li>
+                        <li>
+                          <p>Applicants whose visa was rejected are advised to reapply at least 3 months later.
+                            Reapplying earlier is possible, but the chance of approval is low.</p>
+                        </li>
+                        <li>
+                          <p>Foreign nationals applying for a Korean visa from Bangladesh must provide details of valid
+                            Bangladeshi visas held within the past two years, as per Embassy guidelines.</p>
+                        </li>
+                      </ul>
+                      <p><strong>Note</strong><strong>:</strong> Our operation will remain open on <strong>31 October
+                          (Saturday) only</strong>, and appointment slots will be released accordingly.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!---->
+            </div>
+            <!---->
+          </div>
+        </main>
+        <footer class="v-footer v-sheet v-sheet--tile theme--light" data-booted="true">
+          <div class="container py-0 px-0 footer-con">
+            <div class="navigation-footer1 text-justify w-100">
+              <div class="mobile-footer">
+                <a href="about-vfs.html" class="no-anchor"> About Us </a>
+              </div>
+              <div class="mobile-footer">
+                <a href="contact-us.html" class="no-anchor"> Contact us </a>
+              </div>
+              <div class="mobile-footer">
+                <a href="refund-policy.html" class="no-anchor">
+                  Refund Policy
+                </a>
+              </div>
+            </div>
+            <div class="navigation-footer2 d-flex flex-wrap">
+              <div class="mobile-footer color-62707c">
+                <a href="disclaimer.html" class="no-anchor"> Disclaimer </a>
+              </div>
+              <div class="mobile-footer color-62707c">
+                <a href="terms-and-condition.html" class="no-anchor">
+                  Terms &amp; Conditions
+                </a>
+              </div>
+              <div class="mobile-footer color-62707c">
+                <a href="cookie-policy.html" class="no-anchor">
+                  Cookie Policy
+                </a>
+              </div>
+              <div class="mobile-footer color-62707c">
+                <a href="privacy-policy.html" class="no-anchor">
+                  Privacy Policy
+                </a>
+              </div>
+            </div>
+            <div class="d-flex flex-wrap">
+              <div class="copyright-footer">
+                © 2023 VFS Global Group. All Rights Reserved. ISO 23026
+                compliant.
+                <span>Our websites are created for viewing on modern browsers;
+                  Internet Explorer users please upgrade.</span>
+                <!---->
+              </div>
+            </div>
+          </div>
+        </footer>
+      </div>
+    </div>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
+  <script type="text/javascript" src="assets/js/custom.js"></script>
+
+  <!-- Appointment notice popup: this code is included on the homepage only. -->
+  <div id="appointment-notice-overlay" class="appointment-notice-overlay" role="presentation" aria-hidden="false">
+    <section class="appointment-notice-modal" role="dialog" aria-modal="true"
+      aria-labelledby="appointment-notice-heading" aria-describedby="appointment-notice-message">
+      <button type="button" class="appointment-notice-close" id="appointment-notice-close"
+        aria-label="Close notice">&times;</button>
+
+      <h2 class="appointment-notice-heading" id="appointment-notice-heading">
+        Announcement
+      </h2>
+
+      <hr class="appointment-notice-divider" />
+
+      <p class="appointment-notice-message" id="appointment-notice-message">
+        Appointment slots will be opened weekly, every Monday between 9:00 AM to 10:00 AM, for the following week's
+        submissions (except on government or official holidays). Please check our website regularly, as additional slots
+        are released daily during the same time period.
+      </p>
+      <p> <br> <strong>Note: For the 3rd week of November only, slots will be released on Tuesday instead of Monday.</strong>
+      </p>
+
+      <div class="appointment-notice-actions">
+        <button type="button" class="appointment-notice-ok" id="appointment-notice-ok">
+          OK
+        </button>
+      </div>
+    </section>
+  </div>
+
+  <script>
+    (function () {
+      "use strict";
+
+      var overlay = document.getElementById("appointment-notice-overlay");
+      var closeButton = document.getElementById("appointment-notice-close");
+      var okButton = document.getElementById("appointment-notice-ok");
+
+      if (!overlay || !closeButton || !okButton) return;
+
+      function closeNotice() {
+        // Move focus away from the popup before hiding it
+        if (overlay.contains(document.activeElement)) {
+          document.activeElement.blur();
+        }
+
+        // Hide the popup
+        overlay.classList.add("is-hidden");
+        overlay.setAttribute("aria-hidden", "true");
+
+        // Restore page scrolling
+        document.body.classList.remove("appointment-notice-open");
+      }
+
+      // Lock page scrolling while the popup is open
+      document.body.classList.add("appointment-notice-open");
+
+      // Close when clicking the X icon or OK button
+      closeButton.addEventListener("click", closeNotice);
+      okButton.addEventListener("click", closeNotice);
+
+      // Close when pressing Escape
+      document.addEventListener("keydown", function (event) {
+        if (
+          event.key === "Escape" &&
+          !overlay.classList.contains("is-hidden")
+        ) {
+          closeNotice();
+        }
+      });
+
+      // Focus the close icon when the popup opens
+      closeButton.focus();
+    })();
+  </script>
+
+</body>
+
+</html>

@@ -1,0 +1,182 @@
+[GO TO CONTENT](#container) [GO TO MAIN MENU](#main-gnb) [GO TO FOOTER](#krds-footer)
+
+This website is the official e-government website of the Republic of Korea.
+
+- - [ FACEBOOK ](https://www.facebook.com/profile.php?id=61558977977076 "new window")
+  - [ YOUTUBE ](https://www.youtube.com/channel/UCF_smPd0OUkFQ0d-dPlZgMA?view_as=subscriber "new window")
+
+- Current Language **English**
+
+  - [한국어 (Korean) ](/bd-ko/index.do "Go to Page")
+  - [English ](# "Go to Page")
+
+- - [ RSS ](/bd-ko/wpge/m_24122/contents.do "new window")
+  - [ Ministry of Foreign Affairs, REPUBLIC OF KOREA ROK MOFA ](https://www.mofa.go.kr/ "new window")
+
+## [**Embassy of the Republic of Korea in People's Republic of Bangladesh**](/bd-en/index.do)
+
+# 
+
+## Announcement on the Official Launch of the Korea Visa Application Center and Visa Application Procedures
+
+DATE  
+2026-08-27
+
+Announcement on the Official Launch of the Korea Visa Application Center and Visa Application Procedures
+
+\
+
+The Embassy of the Republic of Korea in Bangladesh would like to inform the public of the official launch of the Korea Visa Application Center and the visa application procedures as follows.
+
+\
+
+## 1. Official Launch of the Korea Visa Application Center
+
+ㅇ The Korea Visa Application Center, Dhaka, Bangladesh will officially commence operations on September 2, 
+
+    2026 (Wednesday).
+
+ㅇ Following the official launch of the Visa Application Center, visa application submission and passport collection for
+
+    general visas will be handled exclusively through the Visa Application Center.
+
+ㅇ The Embassy will continue to accept applications and handle passport collection only for diplomatic and official 
+
+    visas that are required to be submitted directly to the Embassy.
+
+ㅇ The location and operating hours of the Visa Application Center are as follows:
+
+- ● Official Name: Korea Visa Application Center, Dhaka, Bangladesh
+
+- ● Address: 2F B&T Nehaleeya Tower / Plot 80, Block B, Kemal Ataturk Avenue, Dhaka 1213, Bangladesh
+
+- ● Operating Hours: Sunday–Thursday, 09:00–16:00
+
+- ● Holidays: Same as the holidays of the Embassy of the Republic of Korea in Bangladesh
+
+- ● Website: [https://www.visaforkorea-bd.com/schedule-an-appointment.html](https://www.visaforkorea-bd.com/schedule-an-appointment.html)
+
+- ● Contact: +880 9606777156 / info.korea.BD@vfshelpline.com
+
+\
+
+## 2. Visa Application Procedures
+
+Applicants for general visas are requested to follow the procedures below when applying through the Visa Application Center.
+
+\
+
+   ① Check the Visa Type
+
+Check the appropriate visa type and application requirements according to the purpose of your visit.
+
+\
+
+   ② Prepare Your Visa Application
+
+Complete the visa application form and prepare all required supporting documents.
+
+\
+
+   ③ Book an Appointment
+
+ Select the Visa Application Center and make an appointment through the Visa Application Center website.
+
+\* Each visa applicant must make an individual appointment. Multiple applicants, including family members or members of a group, cannot submit their visa applications under a single appointment. Each applicant must make a separate appointment and visit the Visa Application Center individually.
+
+\
+
+   ④ Check and Pay the Fees
+
+ Check and pay the applicable visa fee and Visa Application Center service fee.
+
+\* VFS Service Fee: BDT 2,150 per application
+
+\* During the initial approximately two-week period following the opening of the Visa Application Center, the VFS service fee must be paid in cash at the Visa Application Center. Thereafter, the fee must be paid online in advance.
+
+\
+
+   ⑤ Visit the Visa Application Center and Submit Your Application
+
+Visit the Visa Application Center at your scheduled appointment time, pay the visa fee, and submit your visa application form and supporting documents.
+
+\* Visa Fee: USD 40 / USD 60 / USD 70 / USD 90, depending on the visa type and period of stay, payable in the equivalent amount in local currency.
+
+\* Visa fees are non-refundable in cases such as visa refusal, cancellation of the application, or issuance of a single-entry visa instead of a multiple-entry visa.
+
+\
+
+   ⑥ Track Your Visa Application
+
+Applicants may check the status of their visa application through the application tracking service available on the Visa Application Center website.
+
+\
+
+   ⑦ Collect Your Passport
+
+After the visa assessment has been completed, visit the Visa Application Center to collect your passport as instructed.
+
+\
+
+※ The Visa Application Center does not make decisions regarding the issuance of visas. The decision to issue or refuse a visa is made by the Embassy of the Republic of Korea in Bangladesh.
+
+\
+
+## 3. Other Information
+
+ㅇ Notarization and Police Clearance Certificate-related services will continue to be handled by the Embassy as before.
+
+ㅇ During the initial period of operation of the Visa Application Center, demand for appointment slots may be high. Applicants are therefore advised to make their appointments in advance.
+
+ㅇ Applicants are advised to check the Visa Application Center website for the latest information regarding appointment availability and other services.
+
+\
+
+The Embassy of the Republic of Korea in Bangladesh will continue to make every effort to enhance the convenience of visa applicants and provide smooth and efficient visa-related services through the launch of the Visa Application Center.
+
+[List](./list.do?page=1&srchFr=&srchTo=&srchWord=&srchTp=&multi_itm_seq=0&itm_seq_1=0&itm_seq_2=0&company_cd=&company_nm=)
+
+![loading](/images/egovframework/cms/loading/ajax-loader.gif)
+
+**Embassy of the Republic of Korea in People's Republic of Bangladesh**
+
+Embassy of the Republic of Korea 4 Madani Avenue Baridhara, Dhaka-1212 Bangladesh
+
+- Tel : (+8802) 5881-2088~90 \| Hours of Operation : 09:00~12:30, 13:30~17:00\
+  (Sunday~Thursday)
+
+[Organization and Telephone Numbers ](https://www.mofa.go.kr/eng/wpge/m_5746/contents.do)
+
+[FACEBOOK ](https://www.facebook.com/mofakr.kr "FACEBOOK new window") [INSTAGRAM ](https://www.instagram.com/mofa_kr/ "INSTAGRAM new window") [YOUTUBE ](https://www.youtube.com/user/MOFAKorea "YOUTUBE new window") [X ](https://x.com/mofa_kr "X new window")
+
+[**Privacy Guidelines**](https://www.mofa.go.kr/eng/wpge/m_5802/contents.do)
+
+The Korean version is the official version of all news content.
+
+© Ministry of Foreign Affairs. All rights reserved.
+
+Ministry of Foreign Affairs, REPUBLIC OF KOREA This is the Ministry of Foreign Affairs website.
+
+### Total Search
+
+Please enter a search term.
+
+### Embassy Popup window
+
+Don't show again today
+
+### View All Embassy Popup
+
+### Emergency contact
+
+**CONTACT** (Office Time) +880-2-5881-2088-90\
+
+### 'Notice Board' View All
+
+### 'Major Policies' View All
+
+### 'Bottom Banner' View All
+
+### ROK Missions Overseas
+
+### Foreign Missons in ROK

@@ -1,0 +1,4586 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="Content-type" content="text/html;charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes">
+	<meta property="og:image" content="https://www.korea.net/upload/content/image/204f89b09b924ba1b2b825a5c9a20334_20250711130830.jpg" />
+	<meta name="Cache-Control" content="public" /> 
+<meta name="author" content="Korean Culture and Information Service (KOCIS)" /> 
+<meta name="bingbot" content="noodp" /> 
+<meta name="copyright" content="Copyright(C) 1999-2016 KOCIS. All rights reserved." /> 
+<meta name="description" content="The minimum hourly wage for next year has been set at KRW 10,320, up 2.9% from this year's." /><meta name="keywords" content="minimum wage, Minimum Wage Council, payment, employment, economy, Minimum Wage Act, Ministry of Employment and Labor" /> 
+
+	<title>Council sets minimum hourly wage in 2026 at KRW 10,320 : Korea.net : The official website of the Republic of Korea</title>
+	
+	
+	
+
+
+ 
+
+
+<!-- all css -->
+<link rel="stylesheet" href="/css/common/print_content.css" media="print" />
+<link rel="stylesheet" href="/css/magnific-popup.min.css" />
+<link rel="stylesheet" href="/renewal2024/css/import.css">
+
+
+
+<!--  main css -->
+<link rel="stylesheet" href="/renewal2024/css/main.css">
+
+<!-- sub css -->
+<link rel="stylesheet" href="/renewal2024/css/contents.css">
+
+
+<link rel="stylesheet" href="/renewal2024/css/K-InfoHub.css">
+ 
+
+<!--  all script -->
+
+<script src="/js/common/jquery-3.7.1.min.js"></script>
+<script src="/renewal2024/js/jquery-ui.1.14.1.js"></script>
+<script src="/js/common/jquery-migrate-1.4.1.js"></script>
+<script src="/js/common/jquery.stylish-select.js"></script>
+<script src="/js/common/jquery.easing.1.4.1.js"></script>
+<script src="/renewal2024/js/jquery.modal.js"></script>
+<script src="/js/common/menu_model1.js"></script>
+<script src="/js/common/menu_model2.js"></script>
+<script src="/js/common/commonUtil.js"></script>
+<script src="/renewal2024/js/swiper-bundle.min.js"></script>
+<script src="/interKorean3/js/jquery.magnific-popup.min.js"></script>
+
+<!-- - custem script -->
+<script src="/renewal2024/js/ui.common.js"></script>
+<script src="/js/common/stat.js"></script>
+<script src="/js/common/print.js"></script>
+<script src="/js/common/font.js"></script>
+<script src="/js/common/navtext.js"></script>
+<script src="/js/common/header.js"></script>
+
+<script src="/renewal2024/js/header.js"></script>
+<script src="/renewal2024/js/main.js"></script>
+<script src="/renewal2024/js/sub.js"></script>
+
+<script type="text/javascript">
+/* check mobile 
+if (1 > location.href.indexOf("?mobile")) {
+	var mobileKeyWords = new Array('iPhone', 'iPod', 'BlackBerry', 'Android', 'Windows CE', 'LG', 'MOT', 'SAMSUNG', 'SonyEricsson');
+	for (var word in mobileKeyWords) {
+		if (navigator.userAgent.match(mobileKeyWords[word]) != null) {
+			if (720 > screen.width) {
+				location.href = "http://m.korea.net/english";
+				break;
+			}
+		}
+	}
+}
+*/
+var isMobile = false;
+$(document).ready(function() {
+	
+	$('a[id^=mainTopLogo]').on('click',function(e){
+		e.stopImmediatePropagation();
+		var pId = $(this).attr('id');
+		pId = pId.split('_');
+		var idx = pId[1];
+		var value = $('#mainUrl_'+idx).val();
+		window.open(value);
+		
+	});
+	$('a[id^=fnSlider1_] *').on('click',function(e){
+		e.stopImmediatePropagation();
+		var browse = navigator.userAgent.toLowerCase();
+		var value = $(this).parents('a[id^=fnSlider1_]').attr("data-link");
+		var su = value.indexOf('youtu');
+			/* if(sbval == 'youtu.be'){ */
+			if(su != -1){
+				if((navigator.appName == 'Netscape'&& browse.indexOf('trident')!= -1) || (browse.indexOf('msie')!= -1)){
+					//window.open('https://www.youtube.com/user/GatewayToKorea');
+					window.open(value);
+				}else{
+					window.open(value);
+				}
+			}else{
+				location.href = value;
+			}
+	});
+
+	$('a[id^=fnSlider2_] *').on('click',function(e){
+		e.stopImmediatePropagation();
+		e.returnValue = false;		
+		var browse = navigator.userAgent.toLowerCase();
+		var value = $(this).parents('a[id^=fnSlider2_]').attr("data-link");
+		var su = value.indexOf('youtu');		
+			/* if(sbval == 'youtu.be'){ */
+			if(su != -1){
+				if((navigator.appName == 'Netscape'&& browse.indexOf('trident')!= -1) || (browse.indexOf('msie')!= -1)){
+					//window.open('https://www.youtube.com/user/GatewayToKorea');
+					window.open(value);
+				}else{
+					window.open(value);
+				}
+			}else{
+				location.href = value;
+			}	
+		
+	});
+	
+	$("#sideSearchValue").on('keydown',function(key) {
+	//$("#sideSearchValue").keydown(function(key) {
+		if (key.keyCode == 13) {
+			var keyword = this.value;
+			this.value = "";
+			searchTopic(keyword);
+		}
+	});
+	
+	
+	if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+		isMobile = true;
+	}
+	// 2021-12-22 MICHAEL 모바일 TOP 버튼 안되는 버그로 인한 기능 추가 
+	$('.quick-menu .iconset.ico-top').on('click',function(i){
+		if(isMobile){
+			document.body.scrollTop = 0;
+		}
+	});
+});
+
+
+function bannerChk(num){
+	var browse = navigator.userAgent.toLowerCase();
+	var value = num.value;
+	
+	var su = value.indexOf('youtu');
+		/* if(sbval == 'youtu.be'){ */
+		if(su != -1){
+			if((navigator.appName == 'Netscape'&& browse.indexOf('trident')!= -1) || (browse.indexOf('msie')!= -1)){
+				window.open('https://www.youtube.com/user/GatewayToKorea');			
+			}else{
+				window.open(value);
+			}
+		}else{
+			window.open(value);
+		}
+	
+
+}
+function youtubopen(data) {
+	
+	$.magnificPopup.open({
+		items: {src:'https://www.youtube.com/watch?v='+data},
+		type: 'iframe',
+		mainClass: 'mfp-fade',
+		removalDelay: 160,
+		preloader: false,
+		fixedContentPos: false,
+		closeMarkup: '<button type="button" class="mfp-close mfp-logo tBtn"></button><button type="button" class="mfp-close tBtn">Close</button><div class="mfp-close cBtn" aria-hidden="true"><i class="xi-close"></i></div>',
+		autoFocusLast: true,
+		iframe: {
+			markup: '<div class="mfp-iframe-scaler"><div class="mfp-close"></div><iframe class="mfp-iframe" frameborder="0" title="youtube player" allowfullscreen></iframe></div><figcaption><div class="mfp-bottom-bar" style="top:110%"><div class="mfp-title"><div style="line-height:150%;">Due to the YouTube\'s in-house policy, some versions of Explorer do not support the YouTube live function. To see the live video feed please use an alternate browser.</div></div></div></div></figcaption>',
+			patterns: {
+				youtube: {
+					index: 'youtube.com/',
+					id: 'v=',
+					src: '//www.youtube.com/embed/%id%?autoplay=1&rel=0'
+					}
+				},
+			srcAction: 'iframe_src',
+			}
+	});
+}
+function bannerClick( bannerId ){
+	$.ajax({
+		type:'POST',
+		url: '/koreanet/eventBanner',
+		data:{'bannerId': bannerId}
+	});
+}
+function hitCountTopLogo( topLogoId ){ // 탑 로고 클릭시 뷰카운트 누적 2022-04-06 추가
+	$.ajax({
+		type: 'POST',
+		url: '/koreanet/hitCountTopLogo',
+		data:{'topLogoId' : topLogoId}
+		});
+}
+function hitCountMobileTopLogo( topLogoId ){ // 탑 로고 클릭시 뷰카운트 누적(모바일) 2022-04-06 추가
+	$.ajax({
+		type: 'POST',
+		url: '/koreanet/hitCountMobileTopLogo',
+		data:{'topLogoId' : topLogoId}
+		});
+}
+function hotTopicsClick( hotTopicsId ){
+	$.ajax({
+		type:'POST',
+		url: '/koreanet/viewCountStat',
+		data:{
+			'contentId': hotTopicsId,
+			'isMobile' : isMobile,
+			'type':'hotTopics'
+		}
+	});
+}
+function topicToSearch(node,hotTopicsId){
+	if(hotTopicsId != ''){
+		hotTopicsClick(hotTopicsId);
+	}	
+	searchTopic($.trim($(node).text()));
+}
+function searchTopic(hotTopics) {
+	$('#main_srch #unifiedSearchValue').val($.trim(hotTopics));
+	document.getElementById("main_srch").submit();
+}
+function fnSearch(){
+	var s = $("#sideSearchValue");
+	if(s.hasClass("open")){
+		var keyword = $.trim(s.val());
+		s.val("");
+		searchTopic(keyword);
+	} else {
+		s.toggleClass("open");
+	}
+	return false;
+}
+function fnCopyUrl() {
+	var copy = document.createElement("textarea");
+	document.body.appendChild(copy);
+	var data = document.getElementById("urlCopy").value;
+	data = data.replaceAll('&amp;','&');
+	copy.value = data;
+	copy.select();
+	document.execCommand("copy");
+	document.body.removeChild(copy);
+	//alert("The web address for this text has been copied.");
+	alert("The web address for this text has been copied.");
+}
+
+//jquery 3.7.1 부터  $(window).load(function(){}) => $(window).on('load',function(){}) 으로 변경
+//$(window).load(function() {
+$(window).on('load',function(){
+	/* LIVE */
+	$.ajax({
+		type:'POST',
+		url:'/koreanet/getCodeList',
+		data:{
+			codeId : "A180400",
+			useYn : "Y"
+			},
+		success:function(data){
+				if(0==data.count){
+					return;
+				}
+				youtubopen(data.list[0].CODE_NM);
+			},
+		error:function(){}
+	});
+	/* window.open("http://www.dev-korea.net:8280/view/popup/koreaResponse/view.jsp?locale=english", "_pop", "width=300,height=440"); */
+});
+</script>
+
+<script type="text/javascript">
+/* jquery 3.7.1 부터  $(window).load(function(){}) => $(window).on('load',function(){}) 으로 변경  */
+$(window).on('load',function(){
+//$(window).load(function(){
+	$.ajax({
+		type:'POST',
+		url: '/koreanet/logStat',
+		data:{
+			'categoryId': '3',
+			'statDiv':'category'
+		}
+	});
+	
+	
+		$.ajax({
+			type:'POST',
+			url: '/koreanet/logStat',
+			data:{
+				'contentId': '274970',
+				'categoryId': '3',
+				'statDiv':'content'
+			}
+		});
+		
+		// Overseas 제외, Overseas는 overseasView.jsp에 따로 /koreanet/viewCountStat를 실행한다.
+		/*var path = window.location.pathname;
+		var os = "Overseas";
+		
+		if(path.indexOf(os) == -1){
+			$.ajax({
+				type:'POST',
+				url: '/koreanet/viewCountStat',
+				data:{
+					'contentId': '274970',
+					'type':'A050101'
+				}
+			});
+		}*/
+		
+	
+	
+	$('#Attached_file').click(function(){
+		$.ajax({
+			type:'POST',
+			url: '/koreanet/logStat',
+			data:{
+				'contentId': '274970',
+				'categoryId': '3',
+				'statDiv':'file'
+			}
+		});
+	});
+	
+	//cookie option
+	document.cookie = "Name=Value;httpOnly";
+	
+});	
+
+function copy_url() {
+	var urlText  = $.trim($('#urlCopy').text());
+	var IE = (document.all) ? true : false;
+	if (IE) {
+			window.clipboardData.setData("Text", urlText);
+			alert("The web address for this text has been copied.");
+	} else {
+		temp = prompt("Ctrl+C를 눌러 클립보드로 복사하세요.", urlText);
+	};
+};
+
+function pdfDown(){
+	$.ajax({
+		type:'POST',
+		url: '/koreanet/logStat',
+		data:{
+			'contentId': '274970',
+			'categoryId': '3',
+			'statDiv':'pdf'
+		}
+	});
+};
+
+function epubDown(){
+	$.ajax({
+		type:'POST',
+		url: '/koreanet/logStat',
+		data:{
+			'contentId': '274970',
+			'categoryId': '3',
+			'statDiv':'epub'
+		}
+	});
+};
+
+function ebookClick(){
+	$.ajax({
+		type:'POST',
+		url: '/koreanet/logStat',
+		data:{
+			'contentId': '274970',
+			'categoryId': '3',
+			'statDiv':'ebook'
+		}
+	});
+	$.ajax({
+		type:'POST',
+		url: '/koreanet/viewCountStat',
+		data:{
+			'contentId': '274970',
+			'type' : 'ebook'
+		}
+	});
+};
+
+function videoDown(){
+	$.ajax({
+		type:'POST',
+		url: '/koreanet/logStat',
+		data:{
+			'contentId': '274970',
+			'categoryId': '3',
+			'statDiv':'video'
+		}
+	});
+};
+
+function searchKeyword( searchWord ){
+	var searchFrm = "<form id='searchFrm' name='searchFrm' method='post' action='/Others/search'>";
+	searchFrm += "<input type='hidden' name='unifiedSearchValue' id='unifiedSearchValue' value='" + searchWord +"'></input>";
+	searchFrm += "<input type='hidden' name='Tab' id='Tab' value='ALL'></input>";
+	searchFrm += "<input type='hidden' name='startCount' id='startCount' value='0'></input>";
+	searchFrm += "</form>";
+	
+	$('body').append( searchFrm );
+	$('#searchFrm').submit();
+}
+
+function searchValue( searchWord ){
+	var searchFrm = "<form id='searchFrm' name='searchFrm' method='post' action='/Others/search'>";
+	searchFrm += "<input type='hidden' name='unifiedSearchValue' id='unifiedSearchValue' value='" + searchWord +"'></input>";
+	searchFrm += "<input type='hidden' name='Tab' id='Tab' value='ALL'></input>";
+	searchFrm += "<input type='hidden' name='startCount' id='startCount' value='0'></input>";
+	searchFrm += "</form>";
+	
+	$('body').append( searchFrm );
+	$('#searchFrm').submit();
+}
+-->
+
+/* 에디터픽 조회수 체크 */
+function hitCountEditPickCount(mainPageId){ // 에디터픽 클릭시 뷰카운트 누적 2026-01 추가
+	$.ajax({
+		type: 'POST',
+		url: '/koreanet/editPickCount.do',
+		data:{'mainPageId' : mainPageId}
+	});
+}
+
+function hitCountEditPickCountMobile(mainPageId){ //에디터픽 클릭시 뷰카운트 누적(모바일) 2026-01 추가
+	$.ajax({
+		type: 'POST',
+		url: '/koreanet/editPickCountMobile.do',
+		data:{'mainPageId' : mainPageId}
+	});
+}
+
+/** 
+ * 에디터픽 조회수 체크  페이지 이동 
+ * 구버전의 경우 브라우저에 따라, 이벤트 발생전에 페이지를 이동하여 카운트가 되지 안는 문제가 있음
+ * 카운트 후 페이지 이동이 가능하게 수정
+ */ 
+function hitCountEditPickCount2(moveUrl, target, mainPageId){
+	$.ajax({
+		type: 'POST',
+		url: '/koreanet/editPickCount.do',	// 에디터픽 클릭시 뷰카운트 누적
+		data:{'mainPageId' : mainPageId},
+		success: function(data){
+			if(target != '_blank'){
+				location.href = moveUrl;		
+			}else{
+				window.open(moveUrl,'_blank'); // 새창 이동
+			}
+		},
+		error: function(data){
+			if(moveUrl == null || moveUrl.trim() == ''){
+				moveUrl = '/';
+			}
+			location.href = moveUrl;
+		}
+	});
+}
+
+function hitCountEditPickCountMobile2(moveUrl, target, mainPageId){
+	$.ajax({
+		type: 'POST',
+		url: '/koreanet/editPickCountMobile.do', // 에디터픽 클릭시 뷰카운트 누적
+		data:{'mainPageId' : mainPageId},
+		success: function(data){
+			if(target != '_blank'){
+				location.href = moveUrl;		
+			}else{
+				window.open(moveUrl,'_blank'); // 새창 이동
+			}
+		},
+		error: function(data){
+			if(moveUrl == null || moveUrl.trim() == ''){
+				moveUrl = '/';
+			}
+			location.href = moveUrl;
+		}
+	});
+}
+</script>
+	
+<script type="text/javascript">
+//<![CDATA[ 
+	function contentView( linkURL, articleId, listQueryString, flag ){
+		var attr = "";
+		attr = '/view?articleId='+articleId;
+
+		var listParam = listQueryString.split("&");
+		
+		for( var num=0; num < listParam.length; num++ ){
+			var paramArr = listParam[ num ].split("=");
+			if (paramArr[0]=='subId')
+			{
+				attr = attr+'&subId='+paramArr[1];
+			}
+			else if (paramArr[0]=='affairId')
+			{
+				attr = attr+'&affairId='+paramArr[1];
+			}
+			else if (paramArr[0]=='lgroupId')
+			{
+				attr = attr+'&lgroupId='+paramArr[1];
+			}
+			else if (paramArr[0]!='')
+			{
+				attr = attr+'&'+paramArr[0]+'='+paramArr[1];
+			}
+		}
+		
+		if( flag ){
+			attr = attr+'&flag='+flag;
+		}
+	
+		$('#viewFrm').attr('action',linkURL + attr);	
+		$('#viewFrm').submit();
+	}
+	
+	function searchKeyword( searchWord ){
+		var searchFrm = "<form id='searchFrm' name='searchFrm' method='post' action='/Others/search'>";
+		searchFrm += "<input type='hidden' name='unifiedSearchValue' id='unifiedSearchValue' value='" + searchWord +"'></input>";
+		searchFrm += "<input type='hidden' name='Tab' id='Tab' value='ALL'></input>";
+		searchFrm += "<input type='hidden' name='startCount' id='startCount' value='0'></input>";
+		searchFrm += "</form>";
+		
+		var path = window.location.pathname;
+		var firstPath = path.split('/')[1];
+		if(firstPath === 'K-InfoHub'){
+			var relatedKeyword = window.open('', "relatedKeyword");
+			relatedKeyword.document.write("<html><body>" + searchFrm + "</body></html>");
+			relatedKeyword.document.getElementById("searchFrm").submit();
+		} else {
+			$('body').append( searchFrm );	
+			$('#searchFrm').submit();
+		}
+	}	
+	
+	function searchKInfoHubKeyword( searchWord, selectHeadwordCd ){
+		var searchFrm = "<form id='kInfoSearchFrm' name='kInfoSearchFrm' method='get' action='/K-InfoHub/search'>";
+		searchFrm += "<input type='hidden' name='unifiedSearchValue' id='unifiedSearchValue' value='" + searchWord +"'></input>";
+		searchFrm += "<input type='hidden' name='selectHeadwordCd' id='selectHeadwordCd' value='" + selectHeadwordCd +"'></input>";
+		searchFrm += "<input type='hidden' name='startCount' id='startCount' value='0'></input>";
+		searchFrm += "</form>";
+	
+		$('body').append( searchFrm );	
+		$('#kInfoSearchFrm').submit();
+	}
+//]]>
+</script>
+<form id="viewFrm" name="viewFrm" method="post" action="/NewsFocus/Policies"></form>
+
+	
+	
+	
+
+<script type="text/javascript">var switchTo5x=false;</script>
+
+<!-- 2021.02.08 카카오톡 공유하기 코드 -->
+<!-- <script type="text/javascript" src="https://developers.kakao.com/sdk/js/kakao.min.js"></script>-->
+<script type="text/javascript" src="/renewal2024/js/kakao.min.js"></script>
+<script type='text/javascript'>
+	Kakao.init('7837115b2fc6d2d04aae7f12dee61d5d');  // 고유 JavaScript Key ※삭제 금지※ ★모바일 과 웹  JavaScript Key는 다름★
+ 	function shareKakao() {
+		
+		/* 이미지  */
+		var image = $('meta[property="og:image"]').attr('content');
+		if(image == undefined){
+			var image = "https://www.korea.net/upload/content/editImage/20200229113807771_SBVFB9YY.png?param"
+		}else{
+			var image = $('meta[property="og:image"]').attr('content');
+		}
+		
+		/* 타이틀 */
+		var title = $('meta[property="og:title"]').attr('content');
+		if(title == undefined){
+			var title = $(document).find("title").text();
+		}else{
+			var title = $('meta[property="og:title"]').attr('content');
+		}
+		
+		/* 
+		       ★TemplateId List(PC)★ 
+		   English : 47744, Chinese : 47820, Japanese : 47821, 
+		   Arabic : 47822, Spanish : 47823, Russian : 47824, 
+		   French : 47825, German : 47826, Vietnamese : 47828 
+		   Local : 47830 
+		*/
+		
+		var locale = 'english';
+		var english = 47744; 
+		var chinese = 47820; 
+	    var japanese = 47821; 
+		var arabic = 47822; 
+		var spanish = 47823;
+		var russian = 47824; 
+		var french = 47825; 
+		var german = 47826; 
+		var vietnamese = 47828;
+		var indonesian = 75434; 
+// 		var local = 47830;
+		
+		var TempleCode = "";
+		     if(locale == 'english'){
+		    	  TempleCode = english;
+		     }else if(locale == 'chinese'){
+		    	  TempleCode = chinese;
+		     }else if(locale == 'japanese'){
+		    	  TempleCode = japanese;
+		     }else if(locale == 'arabic'){
+		   		  TempleCode = arabic;
+		     }else if(locale == 'spanish'){
+		    	  TempleCode = spanish;
+		     }else if(locale == 'russian'){
+		    	  TempleCode = russian;
+		     }else if(locale == 'french'){
+		    	  TempleCode = french;
+		     }else if(locale == 'german'){
+		    	  TempleCode = german;
+		     }else if(locale == 'vietnamese'){
+		    	  TempleCode = vietnamese;
+		     }else if(locale == 'indonesian'){
+		    	  TempleCode = indonesian;
+		     }
+		     
+		/* 커스텀 공유하기  */
+		 Kakao.Link.sendCustom({
+		      templateId: TempleCode, // PC는 도메인이달라 9개 각기 locale로 걸러서 설정해야함
+		      templateArgs: {
+		        'title':  'Policies',
+		        'description' : title,
+		        'image' : image,
+		        'path': window.location.pathname + window.location.search
+		      }, //templateArgs
+		    }); //Kakao.Link.sendCustom
+		
+// 		/* 공유하기  */
+// 		Kakao.Link.sendDefault({
+//  			  objectType: 'feed',           	// Type : Feed
+//  			  content: {
+// 	  			    title : 'Policies', // Text : 큰 검은색  글자 
+// 	  			    description : title,        // Text : 작은 회색 글자
+// 	 			    imageUrl : image,         
+//  			    link: {
+//  			      		webUrl: window.location.href, 
+//  			    		mobileWebUrl: window.location.href
+//  			    },  //Link
+//  			  },  //Content
+// //  			  buttons: [
+// // 		 			    {
+// // 		 			      title: '웹으로 이동',
+// // 		 			      link: {
+// // 		 			       webUrl: window.location.href,
+// // 		 			       mobileWebUrl: window.location.href
+// // 		 			      },
+// // 		 			    },  //웹으로 이동 버튼
+// // 		 			    { 
+// // 		 			      title: '모바일로 이동',
+// // 		 			      link: {
+// // 		 			        mobileWebUrl: window.location.href, 
+// // 		 			        webUrl: window.location.href  
+// // 		 			      },
+// // 		 			    },  //모바일로 이동 버튼
+// //  				  	   ]  //버튼
+//  					}); //Kakao.Link.sendDefault 
+ 				}; //shareKakao 
+ 				
+ 			// Facebook	
+			function shareOnFacebook(url) {
+		 		if(url == null || url == ""){
+		 			url = window.location.href;
+					url = encodeURIComponent(url);
+		 		}
+				window.open("https://www.facebook.com/sharer.php?u=" + url, 'sharer', 'toolbar=0,status=0,width=548,height=325');	
+			}
+
+			// X(구 twitter )		
+			function shareOnTwitter(url) {
+				if(url == null || url == ""){
+		 			url = window.location.href;
+					url = encodeURIComponent(url);
+		 		}
+				
+				var twitterUrl = $('meta[name="twitter:url"]').attr('content');
+				if(twitterUrl == undefined || twitterUrl == "" ){
+					$("head").append('<meta name="twitter:url" content="' + url + '">');
+				}
+				
+				var card = $('meta[name="twitter:image"]').attr('content');
+				if(card == undefined || card == "" ){
+					$("head").append('<meta name="twitter:card" content="summary_large_image">');
+				}
+				
+				/* 이미지  */
+				var image = $('meta[name="twitter:image"]').attr('content');
+				if(image == undefined){
+					var image = $('meta[property="og:image"]').attr('content');
+					$("head").append('<meta name="twitter:image" content="'+image+'">');
+				}
+				
+				/* 타이틀 */
+				var title = $('meta[name="twitter:title"]').attr('content');
+				if(title == undefined || title == ""){
+					title = $(document).find("title").text();
+					$("head").append('<meta name="twitter:title" content="' + title + '">');
+				}
+				
+				/* 설명 */
+				var description = $('meta[name="twitter:description"]').attr('content');
+				if(description == undefined || description == "" ){
+					description = $('meta[name="description"]').attr('content');
+					$("head").append('<meta name="twitter:description" content="'+ description +'">');
+				}
+				
+				
+				// $("head").append('<meta name="twitter:card" content="summary_large_image">');
+				// $("head").append('<meta name="twitter:title" content="' + title + '">');
+				// $("head").append('<meta name="twitter:description" content="'+ description +'">');
+				// $("head").append('<meta name="twitter:image" content="'+image+'">');
+				
+				
+			  	window.open("https://twitter.com/intent/tweet?url=" + url + "&text=" + title, 'sharer', 'toolbar=0,status=0,width=548,height=325');
+			}
+
+			// 버튼 클릭 이벤트 핸들러
+			/* document.getElementById('facebook-share-button').addEventListener('click', function() {
+			  	shareOnFacebook('https://example.com/content-url');
+			});
+
+			document.getElementById('twitter-share-button').addEventListener('click', function() {
+			  	shareOnTwitter('https://example.com/content-url');
+			}); */
+</script>
+
+
+	
+	<!--[if IE 6]>
+	<style type="text/css">html {filter:expression(document.execCommand("BackgroundImageCache", false, true));}</style>
+	<script type="text/javascript" src="/js/common/DD_belatedPNG_0.0.7a-min.js"></script>
+	<script type="text/javascript">DD_belatedPNG.fix('h1, h2, h3, h4, h5, h6, div, p, ul, ol, dl, dt, dd, li, a, span, strong, img');</script>
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/lightslider.css" media="screen,print" />
+	<script type="text/javascript" src="/js/lightslider/lightslider.js"></script>
+	<script type="text/javascript">
+	$(window).on('load',function() {
+		$("#content-slider").lightSlider({
+			loop : true,
+			keyPress : true
+		});
+		$('#image-gallery').lightSlider({
+			gallery : true,
+			item : 1,
+			thumbItem : 9,
+			slideMargin : 0,
+			speed : 500,
+			auto : false,
+			loop : true,
+			onSliderLoad : function() {
+				$('#image-gallery').removeClass('cS-hidden');
+			}
+		});
+	});
+	</script>
+</head>
+<body class="english">
+	<div class="skip">
+		<a href="#contents">Skip to contents</a>
+	</div>
+	<div id="wrap">
+		
+		
+
+
+
+	
+
+<header class="box-header">
+	
+
+
+
+	
+	
+
+
+	
+	
+
+<nav class="main-inner">
+	
+		
+			<div class="logo">
+				<a href="/" target="_self" title="Korea.net" onclick="javascript:hitCountTopLogo(159)">
+					<img src="/upload/banner/logo/12a3679796874ac4a0460af6d816a9c9_20251106135800.svg" alt="Korea.net" ">
+				</a>
+			</div>
+		
+	
+	
+	
+	<div class="m-logo">
+		
+			
+				<a href="/" target="_self" title="Korea.net" onclick="javascript:hitCountMobileTopLogo(159)">
+					<img src="/upload/banner/logo/c4a904ef03214e2395f99b5a201ae47f_20251208143757.svg" alt="Korea.net" ">
+				</a>
+			
+		
+	</div>
+	<div class="menubar">
+		<div class="menu-btn">
+			<img src="/renewal2024/images/ico_menu.svg" alt="menu-btn">
+		</div>
+		<div class="side-bar">
+			<div class="close-btn"><img src="/renewal2024/images/ico_close.svg" alt="menu close"></div>
+			<div class="search-wrap">
+				<form id="main_srch" name="main_srch" action="/Others/search" method="post">
+					<input type="hidden" id="unifiedSearchValue" name="unifiedSearchValue" value="">
+					<input type="text" id="sideSearchValue" tabindex="0" name="sideSearchValue" value="" title="search value" placeholder="Search">
+					<button type="button" class="btn-search" onclick="fnSearch();"><i class="iconset ico-search"></i></button>
+				</form>
+			</div>
+			
+			<div class="menu">
+				
+					
+					
+						
+							<div class="item">
+								<a href="#" pId="2" class="sub-btn" title="NEWS FOCUS">NEWS FOCUS<i class="fas fa-angle-right dropdown"></i></a>
+								<div class="sub-menu">
+									
+										
+											
+											
+												
+												
+													<a href="/NewsFocus/policies" class="sub-item">Policies</a>
+												
+											
+										
+									
+										
+											
+											
+												
+												
+													<a href="/NewsFocus/Business" class="sub-item">Business</a>
+												
+											
+										
+									
+										
+											
+											
+												
+												
+													<a href="/NewsFocus/Sci-Tech" class="sub-item">Sci/Tech</a>
+												
+											
+										
+									
+										
+											
+											
+												
+												
+													<a href="/NewsFocus/Society" class="sub-item">Society</a>
+												
+											
+										
+									
+										
+											
+											
+												
+												
+													<a href="/NewsFocus/Culture" class="sub-item">Culture</a>
+												
+											
+										
+									
+										
+											
+											
+												
+												
+													<a href="/NewsFocus/FoodTravel" class="sub-item">Food/Travel</a>
+												
+											
+										
+									
+										
+											
+											
+												
+												
+													<a href="/NewsFocus/Sports" class="sub-item">Sports</a>
+												
+											
+										
+									
+										
+											
+											
+												
+												
+													<a href="/NewsFocus/People" class="sub-item">People</a>
+												
+											
+										
+									
+										
+											
+											
+												
+												
+													<a href="/NewsFocus/Opinion" class="sub-item">Opinion</a>
+												
+											
+										
+									
+										
+											
+											
+												
+												
+													<a href="/NewsFocus/Korea_in_photos" class="sub-item">Korea in photos</a>
+												
+											
+										
+									
+										
+											
+											
+												
+												
+													<a href="/NewsFocus/HonoraryReporters" class="sub-item">Honorary Reporters</a>
+												
+											
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+								</div>
+							</div>
+						
+						
+						
+						
+						
+						
+						
+						
+						
+					
+					
+					
+						
+							
+							<div class="item">
+								<a href="#" pId="12" class="sub-btn" title="ABOUT KOREA">ABOUT KOREA<i class="fas fa-angle-right dropdown"></i></a>
+								<div class="sub-menu">
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+											
+											
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+											
+												
+												
+													<a href="/AboutKorea/OverviewofKorea" class="sub-item">Overview of Korea</a>
+												
+											
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+								</div>
+							</div>
+						
+						
+						
+						
+						
+						
+						
+						
+					
+					
+					
+						
+						
+						
+							<div class="item">
+								<a href="#" pId="64" class="sub-btn" title="EVENTS">EVENTS<i class="fas fa-angle-right dropdown"></i></a>
+								<div class="sub-menu">
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+											
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+											
+												
+												
+													<a href="https://www.talktalkkorea.or.kr/" class="sub-item" target="_blank" >Talk Talk Korea</a>
+												
+											
+										
+									
+										
+											
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+											
+												
+												
+													<a href="/Events/Festivals" class="sub-item"  >Festivals</a>
+												
+											
+										
+									
+										
+											
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+											
+												
+												
+													<a href="/Events/Exhibitions" class="sub-item"  >Exhibitions</a>
+												
+											
+										
+									
+										
+											
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+											
+												
+												
+													<a href="/Events/Performances" class="sub-item"  >Performances</a>
+												
+											
+										
+									
+										
+											
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+											
+												
+												
+													<a href="/Events/Overseas" class="sub-item"  >Overseas</a>
+												
+											
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+								</div>
+							</div>
+						
+						
+						
+						
+						
+						
+						
+					
+					
+					
+						
+						
+						
+						
+							<div class="item">
+								<a href="#" pId="71" class="sub-btn" title="RESOURCES">RESOURCES<i class="fas fa-angle-right dropdown"></i></a>
+								<div class="sub-menu">
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+											
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+											
+												
+												
+													<a href="/Resources/Publications" class="sub-item">Publications</a>
+												
+											
+										
+									
+										
+											
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+											
+												
+												
+													<a href="/Resources/KOREA-Magazines" class="sub-item">KOREA Magazines</a>
+												
+											
+										
+									
+										
+											
+											
+												
+													
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+											
+												
+												
+													<a href="/Resources/Multimedia/Video" class="sub-item">Video</a>
+												
+											
+										
+									
+										
+											
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+											
+												
+												
+													<a href="/Resources/Newsletter" class="sub-item">Newsletter</a>
+												
+											
+										
+									
+										
+											
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+											
+												
+												
+													<a href="/Resources/Website-Directory" class="sub-item">Website Directory</a>
+												
+											
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+								</div>
+							</div>
+						
+						
+						
+						
+						
+						
+					
+					
+					
+						
+						
+						
+						
+							
+							<div class="item">
+								<a href="#" pId="97" class="sub-btn" title="GOVERNMENT">GOVERNMENT<i class="fas fa-angle-right dropdown"></i></a>
+								<div class="sub-menu">
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+											
+											
+												
+											
+												
+													
+												
+											
+												
+													
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+											
+												
+													<a href="#" class="sub-item sub-menu3dth-toggle">Administration<i class="fas fa-angle-right dropdown"></i></a>
+													<div class="sub-menu2 sub-menu3dth">
+														
+															
+														
+															
+																<a href="/Government/Administration/President-Lee-Jae-Myung">President Lee Jae Myung</a>
+															
+														
+															
+																<a href="/Government/Administration/Cabinet">Cabinet</a>
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+													</div>
+												
+												
+											
+										
+									
+										
+											
+											
+												
+											
+												
+											
+												
+											
+												
+													
+												
+											
+												
+													
+												
+											
+												
+													
+												
+											
+												
+													
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+											
+												
+													<a href="#" class="sub-item sub-menu3dth-toggle">Issue Focus<i class="fas fa-angle-right dropdown"></i></a>
+													<div class="sub-menu2 sub-menu3dth">
+														
+															
+														
+															
+														
+															
+														
+															
+																<a href="/Government/Current-Affairs/National-Affairs">National Affairs</a>
+															
+														
+															
+																<a href="/Government/Current-Affairs/Foreign-Affairs">Foreign Affairs</a>
+															
+														
+															
+																<a href="/Government/Current-Affairs/International-Events">International Events</a>
+															
+														
+															
+																<a href="/Government/Current-Affairs/Korean-Wave">K-Culture</a>
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+													</div>
+												
+												
+											
+										
+									
+										
+											
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+													
+												
+											
+												
+													
+												
+											
+												
+													
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+											
+												
+													<a href="#" class="sub-item sub-menu3dth-toggle">Briefing Room<i class="fas fa-angle-right dropdown"></i></a>
+													<div class="sub-menu2 sub-menu3dth">
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+																<a href="/Government/Briefing-Room/Press-Releases">Press Releases</a>
+															
+														
+															
+																<a href="/Government/Briefing-Room/Presidential-Speeches">Presidential Speeches</a>
+															
+														
+															
+																<a href="/Government/Briefing-Room/Summit-Diplomacy">Summit Diplomacy</a>
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+													</div>
+												
+												
+											
+										
+									
+										
+											
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+													
+												
+											
+												
+													
+												
+											
+												
+													
+												
+											
+												
+													
+												
+											
+												
+													
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+											
+												
+													<a href="#" class="sub-item sub-menu3dth-toggle">Constitution and Government<i class="fas fa-angle-right dropdown"></i></a>
+													<div class="sub-menu2 sub-menu3dth">
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+																<a href="/Government/Constitution-and-Government/Constitution">Constitution of Korea</a>
+															
+														
+															
+																<a href="/Government/Constitution-and-Government/Executive-Legislature-and-Judiciary">Executive, Legislature, and Judiciary</a>
+															
+														
+															
+																<a href="/Government/Constitution-and-Government/Independent-Organizations">Independent Organizations</a>
+															
+														
+															
+																<a href="/Government/Constitution-and-Government/Local-Governments">Local Government</a>
+															
+														
+															
+																<a href="/Government/Constitution-and-Government/International-Relations">International Relations</a>
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+													</div>
+												
+												
+											
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+								</div>
+							</div>
+						
+						
+						
+						
+						
+					
+					
+					
+						
+						
+						
+						
+						
+							
+							<div class="item">
+								<a href="/K-InfoHub" pId="345" class="sub-btn" title="K-INFO HUB">K-INFO HUB</a>
+							</div>
+						
+						
+						
+						
+					
+					
+					
+						
+						
+						
+						
+						
+						
+						 
+							<div class="item">
+								<a href="#" pId="119" class="sub-btn" title="ABOUT US">ABOUT US<i class="fas fa-angle-right dropdown"></i></a>
+								<div class="sub-menu">
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+											
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+											
+												
+												
+													<a href="/AboutUs/KOCIS" class="sub-item">Korea.net</a>
+												
+											
+										
+									
+										
+											
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+													
+												
+											
+												
+													
+												
+											
+												
+											
+												
+											
+												
+											
+											
+												
+													<a href="#" class="sub-item sub-menu3dth-toggle">Overseas Korea Centers<i class="fas fa-angle-right dropdown"></i></a>
+													<div class="sub-menu2 sub-menu3dth">
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+																<a href="/AboutUs/Overseas-Korea-Centers/Korean-Cultural-Centers">Korean Cultural Centers</a>
+															
+														
+															
+																<a href="/AboutUs/Overseas-Korea-Centers/Culture-and-Information-Officers">Culture and Information Officers</a>
+															
+														
+															
+														
+															
+														
+															
+														
+													</div>
+												
+												
+											
+										
+									
+										
+											
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+											
+												
+												
+													<a href="/AboutUs/Ministry-of-Culture-Sports-and-Tourism" class="sub-item">Ministry of Culture, Sports and Tourism</a>
+												
+											
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+								</div>
+							</div>
+						
+						
+						
+					
+					
+					
+						
+						
+						
+						
+						
+						
+						
+						 
+							<div class="item">
+								<a href="#" pId="125" class="sub-btn" title="OTHERS">OTHERS<i class="fas fa-angle-right dropdown"></i></a>
+								<div class="sub-menu">
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+											
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+											
+												
+												
+													
+													<a href="/Others/Sitemap" class="sub-item">Sitemap</a>
+												
+											
+										
+									
+										
+											
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+											
+												
+												
+													
+													<a href="/Others/Privacy-Policy" class="sub-item">Privacy Policy</a>
+												
+											
+										
+									
+										
+											
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+													
+												
+											
+												
+													
+												
+											
+												
+													
+												
+											
+											
+												
+													<a href="#" class="sub-item sub-menu3dth-toggle">Subscribe to Korea.net<i class="fas fa-angle-right dropdown"></i></a>
+													<div class="sub-menu2 sub-menu3dth">
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+														
+															
+																<a href="/Others/Subscribe-to-Koreanet/Newsletter-Service">Newsletter</a>
+															
+														
+															
+																<a href="/Others/Subscribe-to-Koreanet/KOREA-Webzine">Webzine KOREA</a>
+															
+														
+															
+																<a href="/Others/Subscribe-to-Koreanet/RSS-Service">RSS</a>
+															
+														
+													</div>
+												
+												
+											
+										
+									
+										
+											
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+											
+												
+												
+													
+													<a href="/Others/Notice" class="sub-item">Notice</a>
+												
+											
+										
+									
+										
+											
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+												
+											
+											
+												
+												
+													
+													<a href="/Others/search" class="sub-item">KOREA.NET Search</a>
+												
+											
+										
+									
+										
+									
+								</div>
+							</div>
+						
+						
+					
+					
+					
+						
+						
+						
+						
+						
+						
+						
+						
+						
+					
+				
+ 			</div>
+			<div class="social">
+			<ul>
+				<li class="ico_flickr"><a href="https://www.flickr.com/photos/koreanet" target="_blank" alt="flickr" title="Opening a new window">flickr</a></li>
+				<li class="ico_facebook"><a href="https://www.facebook.com/KoreaClickers"  target="_blank"  alt="facebook" title="Opening a new window">facebook</a></li>
+				<li class="ico_insta"><a href="https://www.instagram.com/koreanet_official" target="_blank" alt="instagram"  title="Opening a new window">instagram</a></li>
+				<li class="ico_youtube"><a href="https://www.youtube.com/user/GatewayToKorea" target="_blank" alt="youtube"  title="Opening a new window">youtube</a></li>
+			</ul>
+		</div>
+	</div>
+	
+		<div class="menu">
+			<ul>
+					
+					
+						
+						
+							
+								<li><a href="/NewsFocus/policies" title="News Focus">News Focus</a></li>
+							
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+							
+								<li><a href="/AboutKorea/OverviewofKorea" title="About Korea">About Korea</a></li>
+							
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+							
+								<li><a href="/Events/Festivals" title="Events">Events</a></li>
+							
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+							
+								<li><a href="/Resources/Publications" title="Resources">Resources</a></li>
+							
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+							
+								<li><a href="/Government/Administration/President-Lee-Jae-Myung" title="Government">Government</a></li>
+							
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+							
+								<li><a href="/K-InfoHub" title="K-Info Hub">K-Info Hub</a></li>
+							
+						
+					
+					
+					
+						
+						
+							
+								<li><a href="/AboutUs/KOCIS" title="About Us">About Us</a></li>
+							
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+							
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+					
+					
+					
+						
+						
+							
+						
+					
+					
+					
+						
+						
+					
+				
+			</ul>
+		</div>
+		
+		<div class="menu_left">
+			<div class="search-btn">
+				<a href="/Others/search">
+					<!-- <img src="/renewal2024/images/ico_search.svg" alt="menu-search" onclick="location.href='/Others/search'; return false;"> -->
+					<img src="/renewal2024/images/ico_search.svg" alt="menu-search">
+				</a>
+			</div>
+			<div class="language-wrap"> 
+				<button type="button" class="focus-language">
+					<!-- <span class="sr-only">EN</span> -->
+					EN
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				</button>
+				<div class="lang-wrap">
+					<div class="close-btn2"><img src="/renewal2024/images/ico_close.svg" alt="menu close"></div>
+					<div class="set-language">
+						<ul class="lang-list">
+							
+							<li class="on"><a href="https://www.korea.net">English</a></li>
+							<li class="ce "><a href="https://chinese.korea.net">中文</a></li>
+							<li class="ar "><a href="https://arabic.korea.net">العربية</a></li>
+							<li class=""><a href="https://spanish.korea.net">Español</a></li>
+							<li class=""><a href="https://russian.korea.net">Pусский</a></li>
+							<li class=""><a href="https://french.korea.net">Français</a></li>
+							<li class=""><a href="https://german.korea.net">Deutsch</a></li>
+							<li class="ja "><a href="https://japanese.korea.net">日本語</a></li>
+							<li class=""><a href="https://vietnamese.korea.net">Tiếng Việt</a></li>
+							<li class=""><a href="https://indonesian.korea.net">Indonesian</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</nav>	
+
+</header>
+		
+		
+		
+		
+
+
+
+<div class="breadcrumbs-wrap">
+	<div class="breadcrumbs">
+		<ul>
+			<li class="home" onclick="location.href='/'">home</li>
+			
+				<li><a href="/NewsFocus/policies">News Focus</a></li>
+			
+			
+				<li class="depth-select depth-select-dept2">
+					
+
+
+
+
+
+
+
+
+
+
+
+	<a href="" class="btn-sel-on btn-sel-on-dept2 default-on">Policies</a>
+	
+	<div class="depth-list depth-list-dept2">
+		
+		<ul>
+		
+			
+				<li class='active'>
+					<a href="/NewsFocus/policies"	>
+					Policies</a>
+				</li>
+			
+				<li >
+					<a href="/NewsFocus/Business"	>
+					Business</a>
+				</li>
+			
+				<li >
+					<a href="/NewsFocus/Sci-Tech"	>
+					Sci/Tech</a>
+				</li>
+			
+				<li >
+					<a href="/NewsFocus/Society"	>
+					Society</a>
+				</li>
+			
+				<li >
+					<a href="/NewsFocus/Culture"	>
+					Culture</a>
+				</li>
+			
+				<li >
+					<a href="/NewsFocus/FoodTravel"	>
+					Food/Travel</a>
+				</li>
+			
+				<li >
+					<a href="/NewsFocus/Sports"	>
+					Sports</a>
+				</li>
+			
+				<li >
+					<a href="/NewsFocus/People"	>
+					People</a>
+				</li>
+			
+				<li >
+					<a href="/NewsFocus/Opinion"	>
+					Opinion</a>
+				</li>
+			
+				<li >
+					<a href="/NewsFocus/Korea_in_photos"	>
+					Korea in photos</a>
+				</li>
+			
+				<li >
+					<a href="/NewsFocus/HonoraryReporters"	>
+					Honorary Reporters</a>
+				</li>
+			
+					
+		</ul>
+				
+	</div>
+
+
+	
+				</li>
+			
+			
+		</ul>
+	</div>
+</div>
+				
+
+		
+		<div id="container" class="no-left">
+			<div class="inner">
+				
+				<div class="contents">
+					<div class="inner">
+						<!-- contents -->
+						<div class="contents">
+							<div class="detail-post">
+								<div class="d-post-tit-wrap mb-inner">
+									<div class="d-post-tit">
+										<p class="page-head">Policies</p>
+										<h2 class="tit" id="print_title">Council sets minimum hourly wage in 2026 at KRW 10,320</h2>
+										<p class="date">Jul 11, 2025</p>
+										<div class="others-function">
+											<ul>
+	<li class="only-pc"><a href="javascript:void(0)" onclick="printStat('3','274970');printContentHome();"><i class="iconset ico-share-print"></i></a></li>
+	
+		
+		
+			
+			<li class="share-twitter"><a href="javascript:shareOnTwitter()" title="Opening a new window"><span class='st_twitter' displayText=''></span></a></li>
+			<li class="share-facebook"><a href="javascript:shareOnFacebook()" title="Opening a new window"><span class='st_facebook' displayText=''></span></a></li>
+			<li><a href="javascript:shareKakao()" title="Opening a new window"><i class="iconset ico-share-kakao"></i></a></li>
+			
+			<li><a href="#none" onclick="urlCopyStat('3','274970');fnCopyUrl();"><i class="iconset ico-share-copy"></i></a></li>
+		
+	
+</ul>
+<script>
+	$(document).ready(function (){
+		//var share_objs = $(".share-email, .share-sharethis, .share-twitter, .share-facebook"); sharethis ì¤ë¥ë¡ ìì ì£¼ì
+		// var share_objs = $(".share-email, .share-twitter, .share-facebook"); 
+		var share_objs = $(".share-email");
+		share_objs.hide();
+
+		/*
+		var interval = setInterval(function tick() {
+			if(changeshare("share-email", "ico-share-mail") && changeshare("share-sharethis", "ico-share") && changeshare("share-twitter", "ico-share-twitter") && changeshare("share-facebook", "ico-share-facebook")){
+				share_objs.show();
+				clearInterval(interval);				
+			}
+		}, 100);
+		*/
+		/*
+		var interval = setInterval(function tick() {
+			
+			if(changeshare("share-email", "ico-share-mail") && changeshare("share-twitter", "ico-share-twitter") && changeshare("share-facebook", "ico-share-facebook")){
+				share_objs.show();
+				clearInterval(interval);				
+			}
+		}, 100);
+		*/
+		var interval = setInterval(function tick() {
+			if(changeshare("share-twitter", "ico-share-twitter") && changeshare("share-facebook", "ico-share-facebook")){
+				share_objs.show();
+				clearInterval(interval);				
+			}
+		}, 100);
+
+		//
+		function changeshare(tname, cname){
+			var result = true;
+			//set
+			$("."+tname+" > a").html('<i class="iconset '+cname+'"></i>');
+			
+			//check1
+			if($("."+tname+" > a").html() != '<i class="iconset '+cname+'"></i>'){
+				result = false;
+			}
+			//check2
+			if($("."+tname+" > a").html() == undefined){
+				result = false;
+			}
+			return result;
+		}
+	});
+</script>
+										</div>
+									</div>
+								</div>
+								
+								
+								<div class="post-half">
+									
+									<div id="postMainCont" class="post-main-cont">
+										<div class="post-util">
+											<div class="util-list">
+												<div class="txt-size-ctrl">
+													<ul>
+														<li><button type="button" class="" onclick="javascript:increaseFont('content_text_ALLBOX');">A+</button></li>
+														<li><button type="button" class="" onclick="javascript:resetFont('content_text_ALLBOX', 16);">A</button></li>
+														<li><button type="button" class="" onclick="javascript:decreaseFont('content_text_ALLBOX');">A-</button></li>
+													</ul>
+												</div>
+												<div class="others-function">
+													<ul>
+	<li class="only-pc"><a href="javascript:void(0)" onclick="printStat('3','274970');printContentHome();"><i class="iconset ico-share-print"></i></a></li>
+	
+		
+		
+			
+			<li class="share-twitter"><a href="javascript:shareOnTwitter()" title="Opening a new window"><span class='st_twitter' displayText=''></span></a></li>
+			<li class="share-facebook"><a href="javascript:shareOnFacebook()" title="Opening a new window"><span class='st_facebook' displayText=''></span></a></li>
+			<li><a href="javascript:shareKakao()" title="Opening a new window"><i class="iconset ico-share-kakao"></i></a></li>
+			
+			<li><a href="#none" onclick="urlCopyStat('3','274970');fnCopyUrl();"><i class="iconset ico-share-copy"></i></a></li>
+		
+	
+</ul>
+<script>
+	$(document).ready(function (){
+		//var share_objs = $(".share-email, .share-sharethis, .share-twitter, .share-facebook"); sharethis ì¤ë¥ë¡ ìì ì£¼ì
+		// var share_objs = $(".share-email, .share-twitter, .share-facebook"); 
+		var share_objs = $(".share-email");
+		share_objs.hide();
+
+		/*
+		var interval = setInterval(function tick() {
+			if(changeshare("share-email", "ico-share-mail") && changeshare("share-sharethis", "ico-share") && changeshare("share-twitter", "ico-share-twitter") && changeshare("share-facebook", "ico-share-facebook")){
+				share_objs.show();
+				clearInterval(interval);				
+			}
+		}, 100);
+		*/
+		/*
+		var interval = setInterval(function tick() {
+			
+			if(changeshare("share-email", "ico-share-mail") && changeshare("share-twitter", "ico-share-twitter") && changeshare("share-facebook", "ico-share-facebook")){
+				share_objs.show();
+				clearInterval(interval);				
+			}
+		}, 100);
+		*/
+		var interval = setInterval(function tick() {
+			if(changeshare("share-twitter", "ico-share-twitter") && changeshare("share-facebook", "ico-share-facebook")){
+				share_objs.show();
+				clearInterval(interval);				
+			}
+		}, 100);
+
+		//
+		function changeshare(tname, cname){
+			var result = true;
+			//set
+			$("."+tname+" > a").html('<i class="iconset '+cname+'"></i>');
+			
+			//check1
+			if($("."+tname+" > a").html() != '<i class="iconset '+cname+'"></i>'){
+				result = false;
+			}
+			//check2
+			if($("."+tname+" > a").html() == undefined){
+				result = false;
+			}
+			return result;
+		}
+	});
+</script>
+												</div>
+											</div>
+											<div class="util-btn">
+												<div class="al-list"> <!-- anotherLanguage -->
+													
+														<div class="txt-another-lang">
+															<a href="" class="lang-ctrl"><span class="sr-only">View this article in another language</span></a>
+															<div class="lang-wrap-inner">
+																<div class="lang-top">
+																	<button type="button" class="btn-close-lang2"><i class="iconset ico-language"></i>
+																		<span>Language</span>
+																	</button>
+																</div>
+																<div class="lang-bot">
+																	<ul class="lang-list">
+																		
+																			
+																			
+																				
+																					
+																				
+																					
+																				
+																					
+																				
+																					
+																				
+																					
+																				
+																					
+																				
+																					
+																				
+																					
+																				
+																					
+																						<li id="A020110"><a href="javascript:anotherLanguage('korean','274945')">한국어</a></li>
+																					
+																				
+																					
+																				
+																			
+																		
+																		
+																			
+																				
+																					
+																						
+																							<li class="on"  id="A020101">
+																								<a href="javascript:anotherLanguage('english','274970')">
+																									
+																										English
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																								</a>
+																							</li>
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																				
+																				
+																			
+																		
+																			
+																				
+																					
+																						
+																					
+																						
+																							<li  id="A020102">
+																								<a href="javascript:anotherLanguage('japanese','274971')">
+																									
+																										
+																										日本語
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																								</a>
+																							</li>
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																				
+																				
+																			
+																		
+																			
+																				
+																					
+																						
+																					
+																						
+																					
+																						
+																							<li  id="A020103">
+																								<a href="javascript:anotherLanguage('chinese','274972')">
+																									
+																										
+																										
+																										中文
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																								</a>
+																							</li>
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																				
+																				
+																			
+																		
+																			
+																				
+																				
+																					
+																						
+																						
+																						
+																						<li class="off" id="A020104"><span>العربية</span></li>
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																				
+																			
+																		
+																			
+																				
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																							<li  id="A020105">
+																								<a href="javascript:anotherLanguage('spanish','274974')">
+																									
+																										
+																										
+																										
+																										
+																										Español
+																										
+																										
+																										
+																										
+																										
+																										
+																								</a>
+																							</li>
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																				
+																				
+																			
+																		
+																			
+																				
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																							<li  id="A020106">
+																								<a href="javascript:anotherLanguage('french','274975')">
+																									
+																										
+																										
+																										
+																										
+																										
+																										Français
+																										
+																										
+																										
+																										
+																										
+																								</a>
+																							</li>
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																				
+																				
+																			
+																		
+																			
+																				
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																							<li  id="A020107">
+																								<a href="javascript:anotherLanguage('german','274976')">
+																									
+																										
+																										
+																										
+																										
+																										
+																										
+																										Deutsch
+																										
+																										
+																										
+																										
+																								</a>
+																							</li>
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																				
+																				
+																			
+																		
+																			
+																				
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																							<li  id="A020108">
+																								<a href="javascript:anotherLanguage('russian','274977')">
+																									
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										Pусский
+																										
+																										
+																										
+																								</a>
+																							</li>
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																				
+																				
+																			
+																		
+																			
+																				
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																							<li  id="A020109">
+																								<a href="javascript:anotherLanguage('vietnamese','274978')">
+																									
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										Tiếng Việt
+																										
+																										
+																								</a>
+																							</li>
+																						
+																					
+																						
+																					
+																						
+																					
+																				
+																				
+																			
+																		
+																			
+																				
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																					
+																						
+																							<li  id="A020117">
+																								<a href="javascript:anotherLanguage('indonesian','274979')">
+																									
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										Indonesian
+																										
+																								</a>
+																							</li>
+																						
+																					
+																				
+																				
+																			
+																		
+																	</ul>
+																</div>
+															</div>
+														</div>	<!-- txt-another-lang End -->
+													
+												</div> <!-- anotherLanguage End -->
+											</div>
+										</div>	<!-- post-util End -->
+										<div class="post-txt">
+											<div id="content_text_ALLBOX">
+												<div class="figCenter" style="width: 800px;" name="imgFig"><img src="/upload/content/editImage/20250711130657756_N5NV78G3.jpg" title="" alt="Members of the Minimum Wage Council representing public interests, management and labor on July 10 take a group photo at the council's 12th plenary meeting at Government Complex-Sejong in Sejong. (Yonhap News)" style="vertical-align: baseline; border: 0px solid rgb(0, 0, 0);">
+<p class="figcaption" id="captionId">Members of the Minimum Wage Council representing public interests, management and labor on July 10 take a group photo at the council's 12th plenary meeting at Government Complex-Sejong in Sejong. (Yonhap News)</p></div>
+<p><br></p>
+<p><br>
+<span style="font-style: italic;">By Lee Dasom</span><br>
+<br>
+The minimum hourly wage for next year has been set at KRW 10,320, up 2.9% from this year's.<br>
+<br>
+The Minimum Wage Council on July 10 decided this at its 12th plenary meeting at Government Complex-Sejong in Sejong through consensus among council members representing labor, management and public interests. This is the first time since 2008 for the wage to be set through agreement.<br>
+<br>
+The 2026 hourly minimum wage is up KRW 290 from this year's KRW 10,030, which translates to average monthly pay of KRW 2,156,880 based on 209 work hours.<br>
+<br>
+The council said an estimated 782,000 workers will be affected by the wage hike based on an employment status survey by job type, or an impact rate of 4.5%, and 2,904,000 according to a supplementary study on the economically active population (13.1%).<br>
+<br>
+Based on the Minimum Wage Act, the council submits the resolution on the wage level to the Ministry of Employment and Labor, which will finalize and announce the sum by Aug. 5. The new wage will take effect on Jan. 1.<br>
+<br>
+dlektha0319@korea.kr</p>
+											</div>
+										</div><!-- post-txt -->
+										
+										
+										
+
+
+
+
+
+<div class="tags-wrap">
+	<h3 class="tit">Tags</h3>
+	<div id="tag_links">
+		<ul>
+			<li><a href="#" onclick="javascript:searchKeyword('minimum wage')">minimum wage</a></li><li><a href="#" onclick="javascript:searchKeyword('Minimum Wage Council')"> Minimum Wage Council</a></li><li><a href="#" onclick="javascript:searchKeyword('payment')"> payment</a></li><li><a href="#" onclick="javascript:searchKeyword('employment')"> employment</a></li><li><a href="#" onclick="javascript:searchKeyword('economy')"> economy</a></li><li><a href="#" onclick="javascript:searchKeyword('Minimum Wage Act')"> Minimum Wage Act</a></li><li><a href="#" onclick="javascript:searchKeyword('Ministry of Employment and Labor')"> Ministry of Employment and Labor</a></li>
+		</ul>
+	</div>
+</div>
+
+<script>
+function goSearch(keyword){
+  $('#unifiedSearchValue2').val(unescape(keyword));
+  $('#reSearch').submit();
+}
+
+function setOnclick(obj){
+  if(obj.match(/\'/g).length > 2 ){
+    var str = escape(obj.substring(obj.indexOf("'")+1,obj.lastIndexOf("'")));
+    var onclick = 'javascript:goSearch("' + str + '")';
+    return onclick;
+  }
+} 
+/* 고도화 전 */
+
+$('.textbox a').each(function(i){
+  $(this).attr("onclick",setOnclick($(this).attr("onclick")));
+});
+
+/* 고도화 이후 - a태그 중복 퍼블 수정에 따라 선택자 변경 필요 */
+// $('.tags-wrap ul a').each(function(i){
+$('.tags-wrap ul li a').each(function(i){
+  $(this).attr("onclick",setOnclick($(this).attr("onclick")));
+});
+</script>
+<form id="reSearch" name="reSearch" action="/Others/search" method="post">
+  <input type="hidden" id="unifiedSearchValue2" name="unifiedSearchValue" value=""/>
+</form>
+										
+										
+										
+										
+										<!-- button-group -->
+										<div class="button-group a-c">
+											
+												
+													
+												
+												
+    											
+											<a href="/NewsFocus/policies" class="button navy large">List</a>
+										</div>
+										<!--// button-group -->
+										
+										
+									</div>
+									<div class="right-cont" id="mostPopularDiv"></div>
+								</div>
+							</div>
+						</div>
+						<!--// contents -->
+						
+						
+
+
+
+
+<div class="quick-menu2">
+	<div>
+		<ul>
+			<li><a href="https://www.youtube.com/user/GatewayToKorea/live" class="ico_live" target="_blank" title="Opening a new window">Korea.net Live</a></li>
+			<li><a href="https://www.kocis.go.kr/eng/webzine/index.html"  class="ico_webzine2"target="_blank" title="Opening a new window"a>Korea Webzine</a></li>
+		</ul>
+	</div>
+	<div class="social">
+		<ul>
+			<li class="ico_flickr"><a href="https://www.flickr.com/photos/koreanet" target="_blank" alt="flickr" title="Opening a new window">flickr</a></li>
+			<li class="ico_facebook"><a href="https://www.facebook.com/KoreaClickers"  target="_blank"  alt="facebook" title="Opening a new window">facebook</a></li>
+			<li class="ico_insta"><a href="https://www.instagram.com/koreanet_official" target="_blank" alt="instagram"  title="Opening a new window">instagram</a></li>
+			<li class="ico_youtube"><a href="https://www.youtube.com/user/GatewayToKorea" target="_blank" alt="youtube"  title="Opening a new window">youtube</a></li>
+		</ul>
+	</div>
+	<div>
+		<ul>
+			<li class="top"><a href="#">Top</a></li>
+		</ul>
+	</div>
+</div>
+						
+					</div>
+				</div>
+				
+			</div>
+		</div>
+		
+		
+		
+
+
+
+
+<footer class="box-footer">
+	<div class="main-inner">
+		<div class="foot-top">
+			<div class="subscribe-list">
+			<h2>subscribe</h2>
+				<ul>
+					<li class="ico_app"><a href="/Others/Subscribe-to-Koreanet/Newsletter-Service">Newsletter</a></li>
+					<li class="ico_app"><a href="/Others/Subscribe-to-Koreanet/KOREA-Webzine">Webzine Korea</a></li>
+				</ul>
+			</div>
+			
+			<div class="link-list">
+			<h2>related</h2>
+				<ul>
+					
+						<li><a href="https://www.factsaboutkorea.go.kr/" target="_org" title="Facts:Korea">Facts:Korea</a></li>
+					
+						<li><a href="https://www.talktalkkorea.or.kr/" target="_org" title="talk talk korea">talk talk korea</a></li>
+					
+						<li><a href="https://en.president.go.kr/eng/index.do" target="_org" title="CHEONG WA DAE">CHEONG WA DAE</a></li>
+					
+						<li><a href="http://www.mcst.go.kr/english/index.jsp" target="_org" title="MCST">MCST</a></li>
+					
+				</ul>
+			</div>
+			
+			<div class="quick">
+			<h2>Social</h2>
+				<ul>
+					<li class="ico_flickr">
+						<a href="https://www.flickr.com/photos/koreanet" target="_blank" title="Opening a new window">
+							<i><img src="/renewal2024/images/ico_flickr.svg" alt=""></i><span>flickr</span>
+						</a>
+					</li>
+					<li class="ico_facebook">
+						<a href="https://www.facebook.com/KoreaClickers" target="_blank" title="Opening a new window">
+							<i><img src="/renewal2024/images/ico_facebook.svg" alt=""></i><span>facebook</span>
+						</a>
+					</li>
+					<li class="ico_instagram">
+						<a href="https://www.instagram.com/koreanet_official" target="_blank" title="Opening a new window">
+							<i><img src="/renewal2024/images/ico_insta.svg" alt=""></i><span>instagram</span>
+						</a>
+					</li>
+					<li class="ico_youtube">
+						<a href="https://www.youtube.com/user/GatewayToKorea" target="_blank" title="Opening a new window">
+							<i><img src="/renewal2024/images/ico_youtube.svg" alt=""></i><span>youtube</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+			
+			<div class="set-language">
+				<h2>language</h2>
+				<ul class="lang-list">
+					
+					<li class=" on"><a href="https://www.korea.net">English</a></li>
+					<li class="ce "><a href="https://chinese.korea.net">中文</a></li>
+					<li class="ar "><a href="https://arabic.korea.net">العربية</a></li>
+					<li class=""><a href="https://spanish.korea.net">Español</a></li>
+					<li class=""><a href="https://russian.korea.net">Pусский</a></li>
+					<li class=""><a href="https://french.korea.net">Français</a></li>
+					<li class=""><a href="https://german.korea.net">Deutsch</a></li>
+					<li class="ja "><a href="https://japanese.korea.net">日本語</a></li>
+					<li class=""><a href="https://vietnamese.korea.net">Tiếng Việt</a></li>
+					<li class=""><a href="https://indonesian.korea.net">Indonesian</a></li>
+				</ul>
+			</div>
+		</div>
+		
+		<div class="foot_bootom">
+			<div class="Copyright">
+				<div class="foot-logo">KOREA.net</div>
+				<div class="copy">Copyright © Ministry of Culture, Sports and Tourism</div>
+			</div>
+			<div class="policy">
+				<ul class="policy-list">
+					<li><a href="/AboutUs/KOCIS#koreanetContectUs" title="CONTACT US">CONTACT US</a></li>
+					<li><a href="/Others/Privacy-Policy" class="second" title="PRIVACY POLICY">PRIVACY POLICY</a></li>
+					<li><a href="/Others/Site-Guide" title="SITE GUIDE">SITE GUIDE</a></li>
+					<li><a href="/Others/Sitemap" title="SITEMAP">SITEMAP</a></li>
+					<li><a href="/Others/Subscribe-to-Koreanet/RSS-Service" title="RSS">RSS</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</footer>
+
+<input type="hidden" id="urlCopy" value="http://www.korea.net/NewsFocus/policies/view?articleId=274970"/>
+
+
+<!-- 뷰져블 트래킹 코드 -->
+<script type="text/javascript">
+(function(w, d, a){
+    w.__beusablerumclient__ = {
+        load : function(src){
+            var b = d.createElement("script");
+            b.src = src; b.async=true; b.type = "text/javascript";
+            d.getElementsByTagName("head")[0].appendChild(b);
+        }
+    };w.__beusablerumclient__.load(a + "?url=" + encodeURIComponent(d.URL));
+})(window, document, "//rum.beusable.net/load/b260213e091603u381");
+</script>
+		
+	</div>
+<script type="text/javascript">
+$(document).ready(function() {
+	$.ajax({
+		type: "GET",
+		url: "/koreanet/mostPopular.json",
+		success: function(data) {
+			var html = '';
+			if(data.cnt > 0 && data.issueListCnt > 0){
+				html += '<h3 class="tit">Most popular</h3>';
+				html += '<ol class="round-num">';
+				for(var i = 0;  i<data.cnt; i++){
+					html += '<li>';
+					html += '<em class="number">'+(i+1)+'</em>';
+					html += '<a href="'+data.list[i].URL+'">'+data.list[i].TITLE.replace("&amp;apos;","'")+'</a>';
+					html += '</li>';
+				}
+				html += '</ol>';
+				html += '<div class="only-pc mt40">';
+				html += '	<h3 class="tit">Issue Focus</h3>';
+				html += '	<div class="post-img">';
+				for(var i = 0;  i<data.issueListCnt; i++){
+					html += '<a href="'+data.issueList[i].URL+'">';
+					html += '	<img src="'+data.issueList[i].IMAGE_PATH+'" alt="'+data.issueList[i].TITLE.replace('\"','')+'">';
+					html += '	<p class="mb-inner img-txt">'+data.issueList[i].TITLE+'</p>';
+					html += '</a>';
+				}
+				
+				html += '</div>';
+				html += '</div>';
+			}
+			$('#mostPopularDiv').append(html);
+			
+			if(data.cnt == 0 && data.issueListCn == 0){
+				$('#postMainCont').addClass('no-right');
+			}
+		},
+		error : function(request,e){
+			console.log("code:"+request.status+"\n"+"message:"+request.responseText+"\n"+"error:"+e);
+		}
+	});
+});
+//<![CDATA[ 
+// LOG CUSTOM INSERT !
+$(function(){
+	$.ajax({
+		type:'POST',
+		url: '/koreanet/logStat',
+		data:{
+			'contentId': '274970',
+			'categoryId': '3',
+			'statDiv':'content'
+		}
+	});
+	
+	// 조회수 증가
+	/* $.ajax({
+		type:'POST',
+		url: '/koreanet/viewCountStat',
+		data:{
+			'contentId': '274970',
+			'isMobile' : isMobile,
+			'type':'A050101'
+		}
+	}); */
+
+	let koreanId = '';
+	
+	if(koreanId != null && koreanId != ''){
+		anotherLanguage("korean", koreanId);
+	}else{
+		//변경 된 뷰카운트 증가
+		contentViewCount('274970','A020101');
+	}
+});
+
+function anotherLanguage(lang,articleId){
+	$.ajax({
+		url : "/AnotherLanguage.json?articleId=" + articleId + "&lang=" + lang,
+		dataType:'json',
+		success : function(data){
+			if(data.anotherLanguage == null){
+				if("english" == "english"){
+					location.href = "https://www.korea.net/";
+				}else{
+					location.href = "https://english.korea.net/";
+				}
+			}
+			let json = data.anotherLanguage;
+			
+			$(".lang-bot > .lang-list").find(".on").each(function(){
+				$(this).removeClass("on");
+			});
+			$("#" + json.languageId).addClass("on");
+			
+			/* 
+				A020102 일본어
+				A020103 중국어
+				A020104 아랍어
+			 */
+			if(json.languageId == "A020102" || json.languageId == "A020103" || json.languageId == "A020104"){
+				$("#print_title").removeClass();
+				$("#print_title").addClass("tit " + json.languageId);
+				
+				$("#content_text_ALLBOX").removeClass();
+				$("#content_text_ALLBOX").addClass("ALLBOX " + json.languageId);
+			}else{
+				$("#print_title").removeClass();
+				$("#print_title").addClass("tit");
+				
+				$("#content_text_ALLBOX").removeClass();
+			}
+			
+			$("#print_title").html(json.title);
+			$("#content_text_ALLBOX").html(json.description);
+
+			if($('#image-gallery').length > 0){
+				setTimeout(function(){
+					$('#image-gallery').lightSlider({
+						gallery : true,
+						item : 1,
+						thumbItem : 9,
+						slideMargin : 0,
+						speed : 500,
+						auto : false,
+						loop : true,
+						onSliderLoad : function() {
+							$('#image-gallery').removeClass('cS-hidden');
+						}
+					});
+				}, 300)
+			}
+			
+			contentViewCount(articleId, json.languageId);
+		},
+		error : function(request,e){
+			console.log("code:"+request.status+"\n"+"message:"+request.responseText+"\n"+"error:"+e);
+		}
+	});
+}
+
+function contentViewCount(contentId, anotherLanguageId){
+	$.ajax({
+		type:'POST',
+		url: '/koreanet/viewCountStat',
+		data:{
+			'contentId': contentId,
+			'isMobile' : isMobile,
+			'anotherLanguageId' : anotherLanguageId,
+			'type':'A050101'
+		}
+	});
+}
+//]]>
+</script>
+</body>
+</html>

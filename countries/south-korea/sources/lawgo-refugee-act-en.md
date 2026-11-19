@@ -1,0 +1,319 @@
+###### ㅇ This English translation of the legislation is provided by the Korea Legislation Research Institute solely for the purpose of facilitating understanding of Korean laws. It does not have any legal authority or official effect and may not reflect the most recent amendments.
+
+## REFUGEE ACT
+
+\[Enforcement Date 20. Dec, 2016.\] \[Act No.14408, 20. Dec, 2016., Partial Amendment\]
+
+[법무부 (난민과) , 02-2110-4160](javascript:void(0) "팝업으로 이동")
+
+CHAPTER I GENERAL PROVISIONS
+
+Article 1 (Purpose) The purpose of this Act is to prescribe matters concerning the status, treatment, etc. of refugees in accordance with the 1951 Convention Relating to the Status of Refugees (hereinafter referred to as the "Refugee Convention") and the 1967 Protocol Relating to the Status of Refugees (hereinafter referred to as the "Refugee Protocol").
+
+Article 2 (Definitions) The terms used in this Act shall be defined as follows:
+
+1\. The term "refugee" means a foreigner who is unable or does not desire to receive protection from the nation of his/her nationality in well-grounded fear that he/she is likely to be persecuted based on race, religion, nationality, the status of a member of a specific social group, or political opinion, or a stateless foreigner who is unable or does not desire to return to the nation in which he/she resided before entering the Republic of Korea (hereinafter referred to as "nation of settlement") in such fear;
+
+2\. The term "person recognized as a refugee" (hereinafter referred to as "recognized refugee") means a foreigner recognized as a refugee under this Act;
+
+3\. The term "person granted a humanitarian stay permit (hereinafter referred to as "humanitarian sojourner") means a foreigner granted a stay permit from the Minister of Justice as prescribed by Presidential Decree as a person who has rational grounds for recognizing that his/her life, personal liberty, etc. is very likely to be infringed by torture, other inhumane treatment or punishment or other events even though he/she does not fall under subparagraph 1;
+
+4\. The term "person who has applied for refugee status" (hereinafter referred to as "refugee applicant") means a person who falls under any of the following as a foreigner who has applied for refugee status to the Republic of Korea:
+
+\(a\) A person whose application for refugee status is being screened;
+
+\(b\) A person for whom the period for raising an objection or the period for filing an administrative appeal or administrative litigation has not yet expired after being subject to a decision of non-recognition of refugee status or a decision of dismissal of an objection to a decision of non-recognition of refugee status;
+
+\(c\) A person for whom an administrative appeal or administration litigation against a decision of non-recognition of refugee status is under way;
+
+5\. The term "refugee desiring re-settlement" means a foreigner who desires to settle in the Republic of Korea among refugees outside the Republic of Korea;
+
+6\. The term "foreigner" means a person without the nationality of the Republic of Korea.
+
+Article 3 (Prohibition of Compulsory Repatriation) No recognized refugee, humanitarian sojourner, nor refugee applicant shall be repatriated compulsorily against his/her will under Article 39 of the Refugee Convention and Article 3 of the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment.
+
+Article 4 (Application of Other Acts) Except as otherwise provided for in this Act, the status and treatment of recognized refugees, humanitarian sojourners, and refugee applicants shall be governed by the Immigration Act.
+
+CHAPTER II APPLICATION, SCREENING, ETC. FOR REFUGEE STATUS
+
+Article 5 (Application for Refugee Status) (1) Any person who intends to obtain refugee status as a foreigner within the Republic of Korea may apply for refugee status with the Minister of Justice. In such cases, the foreigner shall submit a written application for refugee status to the head of the local immigration office or foreigner-related office.  \<Amended by Act No. 12421, Mar. 18, 2014\>
+
+\(2\) Where filing an application under paragraph (1), the following documents shall be submitted:
+
+1\. A passport or a certificate of foreigner registration: Provided, That where it is impossible to present such, a written explanatory statement thereon;
+
+2\. Where there are materials, such as reference documents for refugee status screening, such materials.
+
+\(3\) An application for refugee status shall be filed in writing: Provided, That where the applicant does not know how to write or is unable to complete an application form on the grounds of disabilities, etc., the public official who receives the application shall complete the application form and write down his/her name or affix his/her name and seal together with the applicant.
+
+\(4\) An immigration control official shall positively help foreigners who inquire about applying for refugee status or express their will to apply therefor.
+
+\(5\) Where the Minister of Justice receives an application for refugee status, he/she shall issue a certificate of receipt to the applicant immediately.
+
+\(6\) A refugee applicant may stay in the Republic of Korea until a decision of recognition or non-recognition of refugee status is made final and conclusive (where an administrative appeal or administrative litigation against a decision of non-recognition of refugee status is under way, until such procedures are complete).
+
+\(7\) Matters necessary for detailed methods, procedures, etc. of application for refugee status other than those provided for in paragraphs (1) through (6) shall be prescribed by Ordinance of the Ministry of Justice.
+
+Article 6 (Application Filed at Ports of Entry and Departure) (1) Where a foreigner intends to apply for refugee status when undergoing an entry inspection, he/she shall submit an application for refugee status to the head of the local immigration office or foreigner-related office having jurisdiction over the port of entry and departure prescribed by the Immigration Act. \<Amended by Act No. 12421, Mar. 18, 2014\>
+
+\(2\) The head of a local immigration office or foreigner-related office may allow a person who has submitted an application for refugee status at the port of entry and departure under paragraph (1) at a specific place in the port of entry and departure within seven days.  \<Amended by Act No. 12421, Mar. 18, 2014\>
+
+\(3\) The Minister of Justice shall decide whether to refer to refugee status screening for a person who has submitted an application for refugee status under paragraph (1) within seven days from the date on which the application is submitted, and where he/she fails to decide within such period, he/she shall permit such applicant to enter.
+
+\(4\) Basic food, clothing, and shelter shall be provided to refugee applicants at ports of entry and departure for the period prescribed in paragraph (2) as prescribed by Presidential Decree.
+
+\(5\) Necessary matters, such as procedures for application for refugee status at ports of entry and departure, other than those provided for in paragraphs (1) through (4), shall be prescribed by Presidential Decree.
+
+Article 7 (Posting of Matters Necessary for Application for Refugee Status) (1) The heads of local immigration offices and foreigner-related offices shall keep documents necessary for application for refugee status at the local immigration offices, foreigner-related offices, and ports of entry and departure under their jurisdiction and post methods of receipt, rights of refugee applicants and other necessary matters prescribed by this Act (including posting by electronic methods, such as the Internet) to enable anyone to read such posting.  \<Amended by Act No. 12421, Mar. 18, 2014\>
+
+\(2\) Detailed methods for keeping documents and posting prescribed in paragraph (1) shall be prescribed by Ordinance of the Ministry of Justice.
+
+Article 8 (Refugee Status Screening) (1) The head of a local immigration office or foreigner-related office who has received an application for refugee status under Article 5 shall interview the refugee applicant and conduct a fact-finding investigation without delay, and shall report to the Minister of Justice by attaching the results thereof to the application for refugee status.  \<Amended by Act No. 12421, Mar. 18, 2014\>
+
+\(2\) Where requested by a refugee applicant, a public official having the same gender as that of the refugee applicant shall interview the refugee applicant.
+
+\(3\) The head of a local immigration office or foreigner-related office may, if necessary, audio or video record interviews: Provided, That where requested by a refugee applicant, he/she shall not refuse to audio or video record.  \<Amended by Act No. 12421, Mar. 18, 2014\>
+
+\(4\) The Minister of Justice shall place refugee screening officers to take full charge of interview, fact-finding investigation, etc. at local immigration offices and foreigner-related offices. Matters concerning the qualifications of and duties conducted by refugee screening officers shall be prescribed by Presidential Decree.  \<Amended by Act No. 12421, Mar. 18, 2014\>
+
+\(5\) The Minister of Justice may omit part of the screening procedure prescribed in paragraph (1) for refugee applicants in any of the following cases:
+
+1\. Where a refugee applicant applies for refugee status while concealing facts, such as submitting fabricated documents or making a false statement;
+
+2\. Where a person who has failed to be recognized as a refugee or a person whose refugee status has been cancelled under Article 22 applies for refugee status again without grave circumstantial changes;
+
+3\. Where a foreigner who has resided in the Republic of Korea for at least one year applies for refugee status on the verge of the expiration of the period of stay or a foreigner subject to expulsion applies for refugee status for the purpose of postponing the execution thereof.
+
+\(6\) A refugee applicant shall respond to refugee screening in good faith. Where a refugee applicant fails to appear at least three consecutive times in spite of a request for appearance for an interview, etc., the Minister of Justice may terminate the refugee status screening.
+
+Article 9 (Collection of Materials Favorable to Refugee Applicants) The Minister of Justice shall utilize materials even favorable to refugee applicants as materials for screening by actively collecting such materials.
+
+Article 10 (Fact-Finding Investigation) (1) The Minister of Justice may, if necessary to decide to recognize refugee status, or to cancel or withdraw refugee status prescribed in Article 22, have the public officials in charge of refugees of the Ministry of Justice or refugee screening officers of local immigration offices or foreigner-related offices investigate such fact.  \<Amended by Act No. 12421, Mar. 18, 2014\>
+
+\(2\) If necessary to conduct an investigation prescribed in paragraph (1), refugee applicants or other relevant persons may be requested to appear for questioning or to submit materials, such as documents.
+
+\(3\) Where a public official in charge of refugees or a refugee screening officer completes a fact-finding investigation concerning the recognition of refugee status, cancellation and withdrawal of refugee status, etc. under paragraph (1), the head of the division in charge of refugees of the Ministry of Justice or the heads of local immigration offices or foreigner-related offices shall report the details thereof to the Minister of Justice without delay.  \<Amended by Act No. 12421, Mar. 18, 2014\>
+
+Article 11 (Cooperation of Relevant Administrative Agencies, etc.) (1) The Minister of Justice may, if necessary for refugee status screening, request the heads of relevant administrative agencies or the heads of local governments (hereinafter referred to as the "heads of relevant agencies") or the heads of related organizations to render cooperation in terms of submission of materials, fact-finding investigation, etc.
+
+\(2\) No head of any relevant agency nor the head of any related organization requested to render cooperation under paragraph (1) shall refuse such request without good cause.
+
+Article 12 (Right to Receive Assistance from Attorneys-at-Law) A refugee applicant shall have a right to receive assistance from attorneys-at-law.
+
+Article 13 (Accompanied by Trusted Persons) A refugee screening officer may, when requested by a refugee applicant, allow the refugee applicant to accompany trusted persons within the scope not impairing the fairness of the interview.
+
+Article 14 (Interpretation) Where a refugee applicant is unable to express his/her will in Korean sufficiently, the Minister of Justice may have an interpreter with a specific qualification prescribed by Presidential Decree interpret in the course of interview.
+
+Article 15 (Confirmation of Refugee Interview Protocols) Where a refugee applicant is unable to understand the matters written in a refugee interview protocol, the refugee screening officer shall provide the refugee applicant with interpretation and translation in a language the refugee applicant can understand after the refugee interview is terminated so as to enable the refugee applicant to confirm such matters.
+
+Article 16 (Reading and Reproduction of Materials, etc.) (1) A refugee applicant may request the reading or reproduction of the materials he/she has submitted and refugee interview protocols.
+
+\(2\) Where there is a request for reading or reproduction prescribed in paragraph (1), the immigration control official shall comply therewith without delay: Provided, That he/she may restrict reading or reproduction where there are obvious reasons to recognize that the fairness of screening is likely to be substantially impaired.
+
+\(3\) Detailed methods and procedures for reading and reproduction prescribed in paragraph (1) shall be prescribed by Presidential Decree.
+
+Article 17 (Prohibition of Disclosure of Personal Information, etc.) (1) No person shall disclose the addresses, names, ages, occupations, and appearances of a refugee applicant and of persons accompanying him/her at an interview under Article 13 and other personal information, pictures, etc. by which a refugee applicant, etc. is specifically identifiable, nor divulge such things to other persons: Provided, That cases where the person in question agrees shall be exceptional.
+
+\(2\) No person shall publish the personal information, pictures, etc. of refugee applicants, etc. prescribed in paragraph (1) in publications nor release such things through broadcast media or information and communication networks without the consent of the refugee applicants, etc.
+
+\(3\) No information on application for refugee status shall be provided to the home country of the applicant.
+
+Article 18 (Recognition, etc. of Refugee Status) (1) Where the Minister of Justice deems that an application for refugee status is well-grounded, he/she shall decide that the refugee applicant is recognized as a refugee and issue a certificate of recognition of refugee status to the refugee applicant.
+
+\(2\) Where the Minister of Justice makes a decision on an application for refugee status that the refugee applicant does not constitute a refugee, he/she shall deliver a notice of decision of non-recognition of refugee status to the refugee applicant by including the grounds therefor and the message that the refugee applicant may raise an objection within 30 days therein.
+
+\(3\) A notice of decision of non-recognition of refugee status prescribed in paragraph (2) shall include the grounds of the decision (including judgements on the factual and legal claims of refugee applicants), and deadline, methods, etc. for raising an objection.
+
+\(4\) A decision of recognition of refugee status, etc. prescribed in paragraph (1) or (2) shall be rendered within six months from the date on which an application for refugee status is received: Provided, That under unavoidable circumstances, such period may be extended within the scope of six months.
+
+\(5\) A period extended under the proviso to paragraph (4) shall be notified to the refugee applicant seven days before the former period ends.
+
+\(6\) A certificate of recognition of refugee status prescribed in paragraph (1) and a notice of decision of non-recognition of refugee status prescribed in paragraph (2) shall be issued to the refugee applicant or the proxy thereof through the head of the local immigration office or foreigner-related office, or served thereon under Article 14 of the Administrative Procedures Act.  \<Amended by Act No. 12421, Mar. 18, 2014\>
+
+Article 19 (Restriction on Recognition of Refugee Status) Where the Minister of Justice has sufficient grounds to recognize that a refugee applicant falls under any of the following cases even in recognition that the refugee applicant constitutes a refugee, he/she may make a decision of non-recognition of refugee status, notwithstanding Article 18 (1):
+
+1\. Where a refugee applicant is currently provided with protection or aid by organizations or agencies of the United Nations other than the United Nations Refugee Agency: Provided, That cases where the provision of such protection or aids is suspended for some reason without the final resolution of the status of the person who currently receives such protection or aids in accordance with the relevant resolution adopted at a general assembly of the United Nations shall be excluded;
+
+2\. Where a refugee applicant has committed a crime against world peace, war crime, or crime against humanity prescribed by international treaties or generally-approved international regulations;
+
+3\. Where a refugee applicant has committed a grave non-political crime outside the Republic of Korea before entering the Republic of Korea;
+
+4\. Where a refugee applicant has committed an act against the objectives and principles of the United Nations.
+
+Article 20 (Detention for Identification) (1) Where it is obvious that a refugee applicant has intentionally damaged his/her identification card, such as a passport, or has exercised a false identification card in an attempt to obtain refugee status by concealing his/her identification, the immigration control official may detain such refugee applicant after obtaining a detention order from the head of the local immigration office or foreigner-related office under Article 51 of the Immigration Act for the confirmation of the identification of such refugee applicant.  \<Amended by Act No. 12421, Mar. 18, 2014\>
+
+\(2\) Where the identification of a person under detention under paragraph (1) is confirmed or the identification of such person is not confirmed within ten days, such detention shall be lifted immediately: Provided, That where confirmation of identification is delayed due to unavoidable causes, the head of a local immigration office or foreigner-related office may extend the detention by up to ten days.  \<Amended by Act No. 12421, Mar. 18, 2014\>
+
+Article 21 (Objections) (1) A person subject to a decision of non-recognition of refugee status under Article 18 (2) or 19 or a person whose refugee status is cancelled or withdrawn under Article 22 may raise an objection to the Minister of Justice within 30 days from the date on which he/she is notified thereof. In such cases, he/she shall submit an objection accompanied by materials explaining the grounds therefor to the head of the local immigration office or foreigner-related office.  \<Amended by Act No. 12421, Mar. 18, 2014\>
+
+\(2\) Where an objection is raised under paragraph (1), no administrative appeal prescribed by the Administrative Appeals Act shall be filed.
+
+\(3\) Where the Minister of Justice receives an objection under paragraph (1), he/she shall refer to the Refugee Committee prescribed in Article 25 therefor without delay.
+
+\(4\) The Refugee Committee prescribed in Article 25 may conduct a fact-finding investigation directly or through refugee investigators prescribed in Article 27.
+
+\(5\) Detailed matters concerning procedures for deliberation by the Refugee Committee shall be prescribed by Presidential Decree.
+
+\(6\) The Minister of Justice shall decide whether to recognize refugee status under Article 18 through deliberation by the Refugee Committee.
+
+\(7\) The Minister of Justice shall make a decision on an objection within six months from the date of receipt of the objection: Provided, That where he/she is unable to make a decision on an objection within such period due to unavoidable causes, he/she may extend such period by up to six months.
+
+\(8\) Where the period of deliberation on an objection is extended under the proviso to paragraph (7), it shall be notified to the refugee applicant at least seven days before the expiration of such period.
+
+Article 22 (Cancellation, etc. of Decision to Recognize Refugee Status) (1) Where a decision to recognize refugee status is found to have been made by submitting false documents, delivering false statements, or concealing facts, the Minister of Justice may cancel refugee status.
+
+\(2\) Where a recognized refugee falls within any of the following cases, the Minister of Justice may withdraw the decision to recognize refugee status:
+
+1\. Where a refugee applicant receives protection from a nation of his/her nationality again;
+
+2\. Where a refugee applicant reinstates his/her nationality voluntarily after losing his/her nationality;
+
+3\. Where a refugee applicant is under the protection of a nation of the nationality he/she has newly acquired;
+
+4\. Where a refugee applicant resettles in the nation in which he/she resides of his/her free will after leaving such nation or staying outside such nation in fear of persecution;
+
+5\. Where a refugee applicant becomes unable to refuse protection from a nation of his/her nationality any more due to cessation of the causes which were the major grounds for the decision to recognize refugee status;
+
+6\. Where a refugee applicant is able to return to the former nation of his/her permanent settlement due to cessation of the cause of stateless person by which he/she became an eligible refugee.
+
+\(3\) Where the Minister of Justice cancels or withdraws a decision to recognize refugee status under paragraph (1) or (2), he/she shall prepare a notice of cancellation of refugee status or a notice of withdrawal of refugee status including the grounds therefor and a message that an objection may be raised within 30 days therein. In such cases, Article 18 (6) shall apply mutatis mutandis to methods of notification.
+
+Article 23 (Non-Disclosure of Deliberation) The Refugee Committee or a court may, if necessary for the safety of a refuge applicant or for the family, etc. thereof, make a decision of non-disclosure of deliberation or review upon the request of the refugee applicant or by authority.
+
+Article 24 (Accommodation of Refugees Desiring Resettlement) (1) The Minister of Justice may permit the settlement of refugees desiring resettlement in Korea through the deliberation of the Foreigners' Policy Committee prescribed in Article 8 of the Framework Act on Treatment of Foreigners Residing in the Republic of Korea on the major matters of refugees desiring resettlement, such as accommodation or non-accommodation, size, and origin. In such cases, a settlement permit shall be deemed recognition of refugee status prescribed in Article 18 (1).
+
+\(2\) Requirements, procedures, etc. for permission for settlement in Korea prescribed in paragraph (1) and other detailed matters shall be prescribed by Presidential Decree.
+
+CHAPTER III REFUGEE COMMITTEE, ETC.
+
+Article 25 (Establishment and Organization of Refugee Committee) (1) In order to deliberate on objections prescribed in Article 21, the Refugee Committee shall be established in the Ministry of Justice (hereinafter referred to as the "Committee").
+
+\(2\) The Committee shall be comprised of not more than 15 members, including one Chairperson.
+
+\(3\) The Committee may have sub-committees.
+
+Article 26 (Appointment of Members) (1) The members of the Committee shall be appointed or commissioned by the Minister of Justice among persons who fall under any of the following:
+
+1\. A person qualified as an attorney-at-law;
+
+2\. A person who is or was in the position of at least associate professor teaching jurisprudence at school prescribed in subparagraph 1 or 3 of Article 2 of the Higher Education Act;
+
+3\. A person who is or was a public official of at least Grade IV in charge of refugee-related affairs;
+
+4\. A person with professional knowledge and experience with refugees.
+
+\(2\) The Chairperson of the Committee shall be appointed by the Minister of Justice among the members of the Committee.
+
+\(3\) The term of office of members shall be three years, and they may be re-appointed.
+
+Article 27 (Refugee Investigators) (1) The Committee shall appoint refugee investigators.
+
+\(2\) A refugee investigator shall conduct investigations concerning objections and handle other administrative affairs of the Committee under the direction of the Chairperson.
+
+Article 28 (Operation of Refugee Committee) Matters necessary for the operation, etc. of the Committee other than those provided for in Articles 25 through 27 shall be prescribed by Ordinance of the Ministry of Justice.
+
+Article 29 (Exchanges and Cooperation with UN Refugee Agency) (1) Where the UN Refugee Agency requests statistical data and other materials on the following matters, the Minister of Justice shall cooperate:
+
+1\. The status of recognized refugees and refugee applicants;
+
+2\. The situation of implementation by the Refugee Convention and the Refugee Protocol;
+
+3\. Refugee-related statutes (including prior announcement of legislation).
+
+\(2\) The Minister of Justice shall, when requested by the UN Refugee Agency or refugee applicants, cooperate to enable the UN Refugee Agency to conduct the following acts:
+
+1\. Interviewing refugee applicants;
+
+2\. Participating in the interviews of refugee applicants;
+
+3\. Presenting opinions on application for refugee status and objections.
+
+\(3\) The Minister of Justice and the Refugee Committee shall provide the UN Refugee Agency with convenience so that it can smoothly conduct the duty to check the situation of implementation of the Refugee Convention and the Refugee Protocol.
+
+CHAPTER IV TREATMENT OF RECOGNIZED REFUGEES, ETC.
+
+SECTION 1 Treatment of Recognized Refugees
+
+Article 30 (Treatment of Recognized Refugees) (1) Notwithstanding other Acts, a recognized refugee residing in the Republic of Korea shall be treated in accordance with the Refugee Convention.
+
+\(2\) The State and local governments shall formulae and implement policies, adjust relevant statutes, support relevant ministries and offices, and take necessary measures for the treatment of refugees.
+
+Article 31 (Social Security) Notwithstanding Article 8 of the Framework Act on Social Security, etc., a foreigner staying in Korea after becoming a recognized refugee shall be covered by social security at the same level as that of the citizens of the Republic of Korea.
+
+Article 32 (Basic Living Security) Notwithstanding Article 5-2 of the National Basic Living Security Act, a foreigner staying in Korea after becoming a recognized refugee shall receive the protection prescribed in Articles 7 through 15 of the same Act upon the request of the relevant person.
+
+Article 33 (Assurance of Education) (1) Where a recognized refugee or his/her child is a minor under the Civil Act, he/she shall receive the same elementary education and secondary education as the Korean people.
+
+\(2\) The Minister of Justice may support recognized refugees to receive necessary education in consideration of their age, learning ability, educational conditions, etc. as prescribed by Presidential Decree.
+
+Article 34 (Social Adaptation Education, etc.) (1) The Minister of Justice may implement social adaptation education, such as teaching the Korean language, for recognized refugees as prescribed by Presidential Decree.
+
+\(2\) The Minister of Justice may, if desired by recognized refugees, support the recognized refugees to receive vocational training as prescribed by Presidential Decree.
+
+Article 35 (Recognition of School Career) A recognized refugee may obtain the recognition of a school career equivalent to the degree of school education he/she has completed in foreign nations as prescribed by Presidential Decree.
+
+Article 36 (Recognition of Qualifications) A recognized refugee may obtain recognition of a qualification equivalent to or part of the qualification he/she acquired in a foreign nation as prescribed by the relevant statutes.
+
+Article 37 (Permission for Entry of Spouses, etc.) (1) Where a spouse or a minor child of a recognized refugee applies for entry, the Minister of Justice shall permit such entry unless it falls under Article 11 of the Immigration Act.
+
+\(2\) The scope of spouses and minors prescribed in paragraph (1) shall be governed by the Civil Act.
+
+Article 38 (Exclusion from Application of Reciprocity for Recognized Refugees) Notwithstanding other Acts, reciprocity shall not apply to recognized refugees.
+
+SECTION 2 Treatment of Humanitarian Sojourners
+
+Article 39 (Treatment of Humanitarian Sojourners) The Minister of Justice may permit recruiting of humanitarian sojourners.
+
+SECTION 3 Treatment of Refugee Applicants
+
+Article 40 (Subsidization of Living Costs, etc.) (1) The Minister of Justice may subsidize the living costs, etc. of refugee applicants as prescribed by Presidential Decree.
+
+\(2\) Where six moths have passed from the date on which refugee status is applied, the Minister of Justice may permit the refugee applicant to obtain a job as prescribed by Presidential Decree.
+
+Article 41 (Provision of Residential Facilities) (1) The Minister of Justice may install and operate residential facilities in which refugee applicants will reside as prescribed by Presidential Decree.
+
+\(2\) Matters necessary for the operation, etc. of residential facilities prescribed in paragraph (1) shall be prescribed by Presidential Decree.
+
+Article 42 (Provision of Medical Services) The Minister of Justice may provide refugee applicants with medical services as prescribed by Presidential Decree.
+
+Article 43 (Assurance of Education) A refugee applicant and a minor foreigner of his/her family may receive the same level of elementary education and secondary education as that of the Korean people.
+
+Article 44 (Restriction on Treatment of Specific Refugee Applicants) In cases of refugee applicants who fall under Article 2 (4) (c) or 8 (5) 2 or 3, part of the treatment prescribed in Articles 40 (1) and 41 through 43 may be restricted as prescribed by Presidential Decree.
+
+CHAPTER V SUPPLEMENTARY PROVISIONS
+
+Article 45 (Operation, etc. of Refugee Support Facilities) (1) In order to conduct the duties, etc. prescribed in Articles 34, 41, and 42 efficiently, the Minister of Justice may install and operate refugee support facilities.
+
+\(2\) The Minister of Justice may, when necessary, entrust part of the duties prescribed in paragraph (1) to civilians.
+
+\(3\) Matters necessary for persons eligible to use, operation and management, civil entrustment, etc. of refugee support facilities shall be prescribed by Presidential Decree.
+
+Article 46 (Delegation of Authority) The Minister of Justice may delegate part of the authority prescribed by this Act to the heads of local immigration offices and foreigner-related offices as prescribed by Presidential Decree.  \<Amended by Act No. 12421, Mar. 18, 2014\>
+
+Article 46-2 (Legal Fiction in Application of Penalty Provisions to Public Officials) Members who are not public officials among the members of the Refugee Committee (including sub-committees) prescribed in Article 25 shall be considered as public officials in the application of Articles 127 and 129 through 132 of the Criminal Act.
+
+\[This Article Wholly Amended by Act No. 14408, Dec. 20, 2016\]
+
+CHAPTER VI PENALTY PROVISIONS
+
+Article 47 (Penalty Provisions) A person who falls under any of the followings shall be punished by imprisonment with labor for not more than one year or by a fine not exceeding ten million won:
+
+1\. A person who violates Article 17;
+
+2\. A person who becomes a recognized refugee or obtains a humanitarian stay permit after submitting false documents, making false statements, or concealing facts.
+
+\
+
+[![부칙](/images/button/btn_cocl.gif)](#AJAX) [ ADDENDA \<Act No. 12421,  Mar. 18,  2014\>](#AJAX)
+
+Article 1 (Enforcement Date) 
+
+This Act shall enter into force three months after the date of its promulgation.
+
+Articles 2 and 3 Omitted.
+
+[![부칙](/images/button/btn_dot.gif)](#AJAX) [ ADDENDUM \<Act No. 14408,  Dec. 20,  2016\>](#AJAX)
+
+This Act shall enter into force on the date of its promulgation.
+
+\

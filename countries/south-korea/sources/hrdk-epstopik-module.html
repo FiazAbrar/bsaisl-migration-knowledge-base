@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html lang="ko">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+<link rel="stylesheet" type="text/css" href="/epstopik/css/home/style_eng.css" />
+<link rel="stylesheet" type="text/css" href="/epstopik/css/home/ddsmoothmenu_eng.css" />
+<script type="text/javascript" src="/epstopik/js/home/ddsmoothmenu_eng.js"></script>
+<script type="text/javascript" src="/epstopik/js/home/common.js"></script>
+
+<script src="/epstopik/js/home/new/jquery-3.5.1.min.js"></script>
+<script src="/epstopik/js/home/new/bootstrap.min.js"></script>
+<script src="/epstopik/js/home/new/slick.min.js"></script>
+<link rel="stylesheet" href="/epstopik/css/home/new/style.css">
+<link rel="stylesheet" href="/epstopik/css/home/new/bootstrap.min.css">
+<link rel="stylesheet" href="/epstopik/css/home/new/slick.css">
+<link rel="stylesheet" href="/epstopik/css/home/new/slick-theme.css">
+<link type="text/css" rel="stylesheet" href="/epstopik/css/home/new/responsive.css">
+
+
+<script type="text/javascript" src="/epstopik/js/home/follower.js"></script>
+
+<script type="text/javascript" src="/epstopik/js/validMsg.js"></script>
+<script type="text/javascript" src="/epstopik/js/valid.js"></script>
+
+<!-- WebLight Code - Begin -->
+<script type="text/javascript" src="/epstopik/js/wlcollector.js"></script>
+<script type="text/javascript" src="/epstopik/js/UserScriptConf.js"></script>
+<script type="text/javascript" src="/epstopik/js/home/new/responsive.js"></script>
+<!-- WebLight Code - End --> 
+
+
+
+
+
+<script>
+	var resultMessage = "";
+	if( resultMessage != "" ) alert( resultMessage.replace(/&#034;/g, '"').replace(/&#039;/g, "'") );
+	
+	var popClose = "";
+	if(popClose == "close"){
+		self.close();
+	}
+</script>
+
+
+<script>
+	/*
+	 * objForm : form객체
+	 * name : 값이 설정된 field명. yyyy-MM-dd 포맷.
+	 * validName : 별도 format으로 validation체크가 필요한 경우에 설정된 field명. yyyyMMdd 포맷.
+	 */
+	function comboProc( req, objTarget )
+	{
+		var xmlData = trim(req.responseText);
+		var dom = getXmlDom(xmlData);
+		var xml = dom.getRootElement();
+
+		objTarget.options.length = 1;
+		
+		var arrDataNode = xml.getElementsByTagName("item").length > 0 ? xml.getElementsByTagName("item") : null;
+		var lenDataNode = arrDataNode != null ? arrDataNode.length : 0;
+		if( lenDataNode > 0 )
+		{	
+			for( var i = 0 ; i < lenDataNode ; i++ )
+			{
+				var label = dom.getCDataValue(arrDataNode[i], "label");
+				var value = dom.getCDataValue(arrDataNode[i], "value");
+				objTarget.options[i+1] = new Option(label, value);
+				objTarget.options[i+1].setAttribute("reserve1", dom.getCDataValue(arrDataNode[i], "reserve1"));
+				objTarget.options[i+1].setAttribute("reserve2", dom.getCDataValue(arrDataNode[i], "reserve2"));
+				objTarget.options[i+1].setAttribute("reserve3", dom.getCDataValue(arrDataNode[i], "reserve3"));
+				objTarget.options[i+1].setAttribute("reserve4", dom.getCDataValue(arrDataNode[i], "reserve4"));
+			}
+		}
+	}
+
+	function layoutOnLoad()
+	{
+		// 에러 메시지의 [&quot;],[+] 제거
+		var objContent = document.getElementById("contentWrap");
+		if(objContent){
+			var errs = objContent.getElementsByTagName("span");
+			var len = errs.length;
+			for( var i = 0 ; i < len ; i++ )
+			{
+				var o = errs[i];
+				if(o.getAttribute("id") != null){
+					if( !isEmpty(o.getAttribute("id")) && o.getAttribute("id").indexOf(".errors") > 0 )
+					{
+						o.innerHTML = o.innerHTML.replace("&quot;+", "").replace("+&quot;", "");
+					}
+				}
+			}
+			objContent.style.display = "";
+		}
+		if( typeof preOnLoad == "function" ) preOnLoad();
+	}
+
+	onload = layoutOnLoad;
+	
+	/** 오른쪽 소스막기*/
+	  $(document).ready(function(){
+		 document.onkeydown = function(){
+		 if(event.srcElement.type != "text" && event.srcElement.type != "textarea"){
+			
+		 	  if(event.ctrlKey && (event.keyCode == 78 || event.keyCode == 82)){
+		 		 return false;
+		 	  }
+		  }
+	   }
+	   document.ondragstart = function(){
+	  		if(event.srcElement.type != "text" && event.srcElement.type != "textarea"){
+		 		return false;
+			 }
+	    }
+	   document.onselectstart = function(){
+	  		if(event.srcElement.type != "text" && event.srcElement.type != "textarea"){
+		 		return false;
+		 	}
+	    }
+	   document.oncontextmenu = function(){
+	    	if(event.srcElement.type != "text" && event.srcElement.type != "textarea"){
+		 		return false;
+			}
+	    }
+	 }); 
+</script>
+
+<title>한국어 CBT 메인페이지 </title>
+
+</head>
+<body class="responsivePage">
+<a name="top"></a>
+
+<div id="containerWrap">
+	<div id="headerWrap">
+		<div class="header">
+	<!-- header -->
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	ddsmoothmenu.init({
+		mainmenuid      : "smoothmenu1"				// Menu Div Id
+		, orientation   : "h"						// h(세로형), v(가로형)
+		, classname     : "ddsmoothmenu"			// Menu Div Class
+		, contentsource : "markup"					// "markup" or ["container_id", "path_to_menu_file"]
+		//, customtheme   : ["#1c5a80", "#18374a"]	// 다양한 색을 적용하고 싶을때 색값을 지정하세요
+	});
+	
+	// 상단 메뉴 Tab키 접근 시 Focus 관련 처리
+	function fn_GnbOutFocus() {
+		$("[class*='gnb']").trigger("mouseout");
+	}
+	
+	function fn_GnbOnFocus(obj) {
+		fn_GnbOutFocus();
+		$(".gnb" + obj).trigger("mouseover");
+	}
+</script>
+<header>
+	<!-- HOME | SITEMAP | KOREAN -->
+	<div class="header__ header-top-box">
+		<div class="container">
+			<div class="header-top-box__ row justify-content-end">
+				<div class="header-top-box__ col-3">
+					<span class="home-span">
+						<a href="/epstopik/home/index/index.do">HOME</a>
+					</span>
+					<span class="line-span line01">|</span>
+					<span class="site-map-span">
+						<a href="/epstopik/home/site/siteMap.do?lang=en">SITEMAP</a>
+					</span>
+					<span class="line-span line02">|</span>
+					<span class="select-span">
+						<a href="/epstopik/home/main/mainPage.do?lang=ko">KOREAN</a>
+					</span>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- 상단 메뉴 -->
+	<div class="header-menu-box">
+		<nav class="header-menu-box__ navbar navbar-expand-lg">
+			<div class="header-menu-box__ container">
+				<a href="/epstopik/home/main/mainPage.do?lang=en" class="header-menu-box__ navbar-brand">
+					<img src="/epstopik/images/home/new/eng/logo.png" alt="logo-img" onfocus="fn_GnbOutFocus();">
+				</a>
+				<button type="button" id="mobileGnbOpen" class="mobile-gnb-open" aria-controls="smoothmenu1" aria-expanded="false" aria-label="전체메뉴 열기">
+					<span class="bar"></span>
+					<span class="bar"></span>
+					<span class="bar"></span>
+				</button>
+				<div id="smoothmenu1" class="ddsmoothmenu eader-menu-box__ collapse navbar-collapse justify-content-start">
+					<div class="mobile-gnb-head">
+						<strong class="mobile-gnb-title">전체메뉴</strong>
+						<button type="button" id="mobileGnbClose" class="mobile-gnb-close" aria-label="전체메뉴 닫기">&#215;</button>
+						<div class="mobile-gnb-util">
+							<a href="/epstopik/home/index/index.do">HOME</a>
+							<a href="/epstopik/home/site/siteMap.do?lang=en">SITEMAP</a>
+							<a href="/epstopik/home/main/mainPage.do?lang=ko">KOREAN</a>
+						</div>
+					</div>
+					<ul class="header-menu-box__ navbar-nav menu-nav">
+						<li class="header-menu-box__ nav-item">
+							<a href="/epstopik/abot/exam/selectTopikDesc.do?lang=en" class="header-menu-box__ nav-link gnb01" onfocus="fn_GnbOnFocus('01');">EPS-TOPIK</a>
+							<ul>
+								<li><a href="/epstopik/abot/exam/selectTopikDesc.do?lang=en">What is EPS-TOPIK?</a></li>
+								<li><a href="/epstopik/abot/exam/selectTopikDescSpecial.do?lang=en">Special EPS-TOPIK</a></li>
+								<li><a href="/epstopik/abot/exam/selectStandardDesc.do?lang=en">Testing Module</a></li>
+								<li><a href="/epstopik/abot/exam/selectGuideDesc.do?lang=en">Application Form</a></li>
+								<li><a href="/epstopik/abot/exam/selectSechduleDescList.do?lang=en">Schedule</a></li>
+								<li><a href="/epstopik/abot/exam/sechduleGuideList.do?lang=en">Announcement of Test Date</a></li>
+								<li><a href="/epstopik/abot/exam/selectRuleDesc.do?lang=en">Punishment of Wrongdoer</a></li>
+								<li><a href="/epstopik/pass/candidate/selectChart.do?lang=en">Chart</a></li>
+							</ul>
+						</li>
+						<li class="header-menu-box__ nav-item">
+							<a href="/epstopik/recp/guide/selectVisitGuideDesc.do?lang=en" class="header-menu-box__ nav-link gnb02" onfocus="fn_GnbOnFocus('02');">Registration by Visiting</a>
+							<ul>
+								<li><a href="/epstopik/recp/guide/selectVisitGuideDesc.do?lang=en">Registration by Visiting</a></li>
+								<li><a href="/epstopik/recp/guide/onlineRecptionDesc.do?lang=en">Registration by On-Line</a></li>
+								<li><a href="/epstopik/recp/guide/selectCancelGuideDesc.do?lang=en">Cancellation/Refund</a></li>
+								<li><a href="/epstopik/recp/guide/selectReceptionGuideList.do?lang=en">Information Office</a></li>
+								<li><a href="/epstopik/recp/guide/selectTestsiteGuideList.do?lang=en">Test Center</a></li>
+								<li><a href="/epstopik/recp/guide/onlineReceptionContents.do?lang=en">CBT Registration Search</a></li>
+							</ul>
+						</li>
+						<li class="header-menu-box__ nav-item">
+							<a href="/epstopik/pass/candidate/functionalLevelCandidateList.do?lang=en" class="header-menu-box__ nav-link gnb03" onfocus="fn_GnbOnFocus('03');">Passer's list</a>
+							<ul>
+								<li><a href="/epstopik/pass/candidate/functionalLevelCandidateList.do?lang=en">Candidates for skills test</a></li>
+								<li><a href="/epstopik/pass/candidate/sucessCandidateList.do?lang=en">Passer's list</a></li>
+								<li><a href="/epstopik/pass/candidate/sucessPointReportList.do?lang=en">See Candidates for skills</a></li>
+								<li><a href="/epstopik/pass/candidate/sucessReportList.do?lang=en">See exam results</a></li>
+							</ul>
+						</li>
+						<li class="header-menu-box__ nav-item">
+							<a href="/epstopik/book/std/standarTextDesc.do?lang=en" class="header-menu-box__ nav-link gnb04" onfocus="fn_GnbOnFocus('04');">Support Korean Learning</a>
+							<ul>
+								<li><a href="/epstopik/book/std/standarTextDesc.do?lang=en">Textbook for EPS-TOPIK</a></li>
+								<li><a href="/epstopik/book/pub/publicbookDesc.do?lang=en">Open Test</a></li>
+								<li><a href="/epstopik/book/self/selfStudy.do?lang=en">Self-study Text Book</a></li>
+							</ul>
+						</li>
+						<li class="header-menu-box__ nav-item">
+							<a href="/epstopik/skill/SkillTest.do?lang=en" class="header-menu-box__ nav-link gnb05" onfocus="fn_GnbOnFocus('05');">Support Skill Test</a>
+							<ul>
+								<li><a href="/epstopik/skill/SkillTest.do?lang=en">Skill Test(2nd Round)</a></li>
+								<li><a href="/epstopik/skill/SkillBook.do?lang=en">Learning Materials</a></li>
+							</ul>
+						</li>
+						<li class="header-menu-box__ nav-item">
+							<a href="/epstopik/diagnosis/competencyDesc.do?lang=en" class="header-menu-box__ nav-link gnb06" onfocus="fn_GnbOnFocus('06');">Self-Diagnosis</a>
+							<ul>
+								<li><a href="/epstopik/diagnosis/competencyDesc.do?lang=en">Competency Self-Tool</a></li>
+								<li><a href="/epstopik/diagnosis/colorVisionDesc.do?lang=en">Color Vision Self-Test</a></li>
+							</ul>
+						</li>
+						<li class="header-menu-box__ nav-item">
+							<a href="/epstopik/cust/aid/NoticeList.do?lang=en" class="header-menu-box__ nav-link gnb07" onfocus="fn_GnbOnFocus('07');">Customer Service</a>
+							<ul>
+								<li><a href="/epstopik/cust/aid/NoticeList.do?lang=en">Notice</a></li>
+								<li><a href="/epstopik/cust/aid/FaqList.do?lang=en">FAQ</a></li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+				<div class="header-another-menu-box navbar-collapse justify-content-end">
+					<ul class="header-menu-box__ navbar-nav another-menu justify-content-end">
+						<li class="header-menu-box__ nav-item btn-li">
+							<a href="/epstopik/recp/guide/selectVisitGuideDesc.do?lang=en" class="header-menu-box__ nav-link btn-li" onfocus="fn_GnbOutFocus();">Registration</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+	</div>
+	<div id="mobileMenuDim" class="mobile-menu-dim" aria-hidden="true"></div>
+</header>
+<!-- EPS-TOPIK -->
+
+
+
+	<div id="visWrap">
+		<img src="/epstopik/images/home/new/sub_img1_Eng.png">
+	</div>
+	<div class="location">
+		<img src="/epstopik/images/home/icon_home.gif" align="absmiddle">
+		<span>Home > EPS-TOPIK > Testing Module</span>
+	</div>
+
+
+
+
+
+
+
+
+<!-- Registration -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Passer's list -->
+
+
+
+
+
+
+
+
+<!-- Support Korean -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Support Skill Test -->
+
+
+<!-- Self-Diagnosis -->
+
+
+
+
+<!-- Customer Service -->
+
+
+
+
+		  </div>
+	</div>
+	
+	<!-- body -->
+	<div id="bodyWrap">
+
+		<div id="leftWrap">
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	// snb on
+	function snbOn(value, snbSize) {
+		for(z=1;z<=snbSize;z++) {
+			if(z == value) {
+				document.getElementById("snb" + z).classList.add("on");
+			}
+			else {
+				document.getElementById("snb" + z).classList.remove("on");
+			}
+		}
+	}
+	
+	// sub off
+	function snbOff(value, snbSize) {
+		for(z=1;z<=snbSize;z++) {
+			if(z == value) {
+				document.getElementById("snb" + z).classList.add("on");
+			}
+			else {
+				document.getElementById("snb" + z).classList.remove("on");
+			}
+		}
+	}
+	
+	// 한국어능력시험 체험하기
+	function Fullscreen(theURL) {
+		window.open(theURL, "", "width=" + screen.width + ", height=" + screen.height + ", fullscreen=yes");
+	}
+</script>
+<!-- 시험안내 -->
+
+	
+	
+	
+		<button type="button" id="mobileLnbOpen" class="mobile-lnb-open" aria-controls="snb" aria-expanded="false">
+			<span class="mobile-lnb-section">EPS-TOPIK</span>
+			<span class="mobile-lnb-current">Testing Module</span>
+		</button>
+		<script type="text/javascript">
+			var snbNum  = 3;
+			var snbSize = 8;
+		</script>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<div id="snb" class="snb">
+		<div class="snb_title">
+			<p>EPS-TOPIK</p>
+		</div>
+		<dl>
+			<dd><a href="/epstopik/abot/exam/selectTopikDesc.do?lang=en"        id="snb1" onmouseover="snbOn(1, snbSize);" onmouseout="snbOff(snbNum, snbSize);">What is EPS-TOPIK?</a></dd>
+			<dd><a href="/epstopik/abot/exam/selectTopikDescSpecial.do?lang=en" id="snb2" onmouseover="snbOn(2, snbSize);" onmouseout="snbOff(snbNum, snbSize);">Special EPS-TOPIK</a></dd>
+			<dd><a href="/epstopik/abot/exam/selectStandardDesc.do?lang=en"     id="snb3" onmouseover="snbOn(3, snbSize);" onmouseout="snbOff(snbNum, snbSize);">Testing Module</a></dd>
+			<dd><a href="/epstopik/abot/exam/selectGuideDesc.do?lang=en"        id="snb4" onmouseover="snbOn(4, snbSize);" onmouseout="snbOff(snbNum, snbSize);">Application Form</a></dd>
+			<dd><a href="/epstopik/abot/exam/selectSechduleDescList.do?lang=en" id="snb5" onmouseover="snbOn(5, snbSize);" onmouseout="snbOff(snbNum, snbSize);">Schedule</a></dd>
+			<dd><a href="/epstopik/abot/exam/sechduleGuideList.do?lang=en"      id="snb6" onmouseover="snbOn(6, snbSize);" onmouseout="snbOff(snbNum, snbSize);">Announcement of Test Date</a></dd>
+			<dd><a href="/epstopik/abot/exam/selectRuleDesc.do?lang=en"         id="snb7" onmouseover="snbOn(7, snbSize);" onmouseout="snbOff(snbNum, snbSize);">Punishment of Wrongdoer</a></dd>
+			<dd><a href="/epstopik/pass/candidate/selectChart.do?lang=en"       id="snb8" onmouseover="snbOn(8, snbSize);" onmouseout="snbOff(snbNum, snbSize);">Stats</a></dd>
+		</dl>
+	</div>
+	
+	<script type="text/javascript">
+		snbOn(snbNum, snbSize);
+	</script>
+
+<!-- 원서접수 -->
+
+<!-- 합격자발표 -->
+
+<!-- 한국어학습지원 -->
+
+<!-- 기능학습지원 -->
+
+<!-- 자가진단 -->
+
+<!-- 고객센터 -->
+
+<!-- 사이드 배너 -->
+<div class="bnrSide">
+	<dl>
+		<dd>
+			<a href="/epstopik/book/self/ebookIndex.do?lang=en" class="side1">E-Book</a>
+		</dd>
+		<dd>
+			<a href="javascript:Fullscreen('/epstopik/home/experience/examinee_screen.do?lang=en')" class="side2">Experience</a>
+		</dd>
+	</dl>
+</div>	
+		
+		</div>
+		
+		<!-- content -->
+		<div id="contentWrap">
+			<div class="sub_title"><span></span></div>
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h1>Testing Module</h1>
+<div class="paragraph">
+	<ul>
+		<li>Criteria of Korean Language Test (Reading section)</li>
+	</ul>
+	<table class="tableType">
+		<colgroup>
+			<col width="16%">
+			<col width="17%">
+			<col width="16%">
+			<col width="17%">
+			<col width="16%">
+			<col width="17%">
+		</colgroup>
+		<tr>
+			<th>Test content</th>
+			<td class="left" colspan="5">
+				1. Korean Language competence<br />
+				2. understanding of Korean culture<br />
+				3. occupational safety and health
+			</td>
+		</tr>
+		<tr>
+			<th>Reading section<br />test area</th>
+			<td class="left" colspan="5">Description of object and situation, vocabulary and grammar, practical data information, expository writing comprehension and safety sign and matter on occupational safety</td>
+		</tr>
+		<tr>
+			<th>Examination method</th>
+			<td>4 Multiple choice</td>
+			<th>Number of question</th>
+			<td>20 questions</td>
+			<th>Time</th>
+			<td>25 minutes</td>
+		</tr>
+	</table>
+	<table class="tableType mt_10">
+		<colgroup>
+			<col width="33%">
+			<col width="33%">
+			<col width="33%">
+		</colgroup>
+		<thead>
+			<tr>
+				<th>Detail section</th>
+				<th>Main criteria</th>
+				<th>Sub criteria</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td class="left top">
+					<ul>
+						<li>Selecting correct sentence with seeing painting and picture to assess understanding of object and situation.</li>
+					</ul>
+				</td>
+				<td class="left top">
+					<ul>
+						<li>Object and situation description (occupational safety, including work related content)</li>
+					</ul>
+				</td>
+				<td class="left top">
+					<ul>
+						<li>Selecting correct sentence with seeing painting and picture</li>
+					</ul>
+				</td>
+			</tr>
+			<tr>
+				<td class="left top">
+					<ul>
+						<li>The ability to select vocabulary and sentence could fit into a blank space and use of sentence and grammar in the context on the assumption of understanding sentence.</li>
+					</ul>
+				</td>
+				<td class="left top">
+					<ul>
+						<li>Vocabulary and grammar (occupational safety, and work related content)</li>
+					</ul>
+				</td>
+				<td class="left top">
+					<ul>
+						<li>selecting vocabulary and sentence could fit into a blank space</li>
+					</ul>
+				</td>
+			</tr>
+			<tr>
+				<td class="left top">
+					<ul>
+						<li>Assessment on understanding of various sings used in every day life and working environment such as traffic sign, directional sign, occupational safety sign (prevention of disaster through understanding sign regarding occupational safety)</li>
+					</ul>
+				</td>
+				<td class="left top">
+					<ul>
+						<li>Practical data information (occupational safety, and work related content)</li>
+					</ul>
+				</td>
+				<td class="left top">
+					<ul>
+						<li>Understanding of information on various signs</li>
+						<li>Understanding of occupational sign</li>
+					</ul>
+				</td>
+			</tr>
+			<tr>
+				<td class="left top">
+					<ul>
+						<li>Assessment on understanding of the content of Job advertisement and machinery manual and Korean culture</li>
+					</ul>
+				</td>
+				<td class="left top">
+					<ul>
+						<li>Comprehension (occupational safety, work, and Korean culture related content)</li>
+					</ul>
+				</td>
+				<td class="left top">
+					<ul>
+						<li>Selecting painting with reading the description (painting on occupational safety)</li>
+						<li>Answer after reading description</li>
+					</ul>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div class="paragraph">
+	<ul>
+		<li>Criteria of Korean Language Test (Listening section)</li>
+	</ul>
+	<table class="tableType">
+		<colgroup>
+			<col width="16%">
+			<col width="17%">
+			<col width="16%">
+			<col width="17%">
+			<col width="16%">
+			<col width="17%">
+		</colgroup>
+		<tr>
+			<th>Test content</th>
+			<td class="left" colspan="5">
+				1. Korean Language competence<br />
+				2. understanding of Korean culture<br />
+				3. occupational safety and health
+			</td>
+		</tr>
+		<tr>
+			<th>Listening section<br />test area</th>
+			<td class="left" colspan="5">Candidates choose a correct answer after listening the recording. The content of recoding is consist of sound and noting in word and sentence, and description, conversation, and story(including occupational safety) about visual materials such as photo and picture.</td>
+		</tr>
+		<tr>
+			<th>Examination method</th>
+			<td>Listening record<br />4 Multiple choice</td>
+			<th>Number of question</th>
+			<td>20 questions</td>
+			<th>Time</th>
+			<td>25 minutes</td>
+		</tr>
+	</table>
+	<table class="tableType mt_10">
+		<colgroup>
+			<col width="33%">
+			<col width="33%">
+			<col width="33%">
+		</colgroup>
+		<thead>
+			<tr>
+				<th>Detail section</th>
+				<th>Main criteria</th>
+				<th>Sub criteria</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td class="left top">
+					<ul>
+						<li>Assessment on pronouncing the liaison and number in the Korean phonological structure of word and sentence</li>
+					</ul>
+				</td>
+				<td class="left top">
+					<ul>
+						<li>Sound and noting</li>
+					</ul>
+				</td>
+				<td class="left top">
+					<ul>
+						<li>Word</li>
+						<li>Sentence</li>
+						<li>Number</li>
+					</ul>
+				</td>
+			</tr>
+			<tr>
+				<td class="left top">
+					<ul>
+						<li>Assessment on command of Korean using visual material such as photo and picture.</li>
+					</ul>
+				</td>
+				<td class="left top">
+					<ul>
+						<li>Visual material (occupational safety, including work related content)</li>
+					</ul>
+				</td>
+				<td class="left top">
+					<ul>
+						<li>Selecting exact description on photo and picture</li>
+						<li>Selecting correct picture after listening conversation and sentence</li>
+					</ul>
+				</td>
+			</tr>
+			<tr>
+				<td class="left top">
+					<ul>
+						<li>Assessment on ability of solving problem after candidate will listen to the lively conversation for daily life (assessment of basic comprehension and managing ability)</li>
+					</ul>
+				</td>
+				<td class="left top">
+					<ul>
+						<li>Conversation (occupational safety, and work related content)</li>
+					</ul>
+				</td>
+				<td class="left top">
+					<ul>
+						<li>Selecting most appropriate content for next sentence after listening to a conversation between two people (Greeting, everyday life, and work related content)</li>
+					</ul>
+				</td>
+			</tr>
+			<tr>
+				<td class="left top">
+					<ul>
+						<li>Assessment on comprehension of detail and overall context after listening to a conversation between two people.</li>
+					</ul>
+				</td>
+				<td class="left top">
+					<ul>
+						<li>Conversation and story (occupational safety, work, and Korean culture related content)</li>
+					</ul>
+				</td>
+				<td class="left top">
+					<ul>
+						<li>Comprehension of the content after listening a conversation between two people)</li>
+						<li>Comprehension of the content after listening a story</li>
+					</ul>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+		</div>
+		
+	</div>	
+	
+
+<!-- footer -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- footer start -->
+    <footer>
+        <div class="container">
+            <div class="footer-top-box">
+                <div class="row justify-content-lg-start">
+                    <div class="col-2">                        
+                        <a href="/epstopik/home/main/mainPage.do?lang=en" class="on">
+                        	<img src="/epstopik/images/home/new/eng/footer-logo.png" alt="eps-topik 로고 이미지" />
+                        </a>
+                    </div>
+                    <div class="col-4">
+                        <span class="sitemap-span">
+                            <a href="/epstopik/home/site/siteMap.do?lang=en">
+                                Site map
+                            </a>
+                        </span>
+                        <span class="line-span">|</span>
+                        <span class="custmer-span">
+                            <a href="/epstopik/cust/aid/NoticeList.do?lang=en">
+                                Customer center
+                            </a>
+                        </span>
+                    </div>
+                    <div class="col-6 text-end">
+						<a href="http://www.hrdkorea.or.kr/" target="_blank" title="[새창]"><img src="/epstopik/images/home/new/eng/footer-icon1.png" alt="HRDK 한국산업인력공단 로고 새창" align="absmiddle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+						<a href="http://www.moel.go.kr/" target="_blank" title="[새창]"><img src="/epstopik/images/home/new/eng/footer-icon2.png" alt="고용노동부로고 새창" align="absmiddle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+						<a href="http://www.moj.go.kr/" target="_blank" title="[새창]"><img src="/epstopik/images/home/new/eng/footer-icon3.png" alt="법무부로고 새창" align="absmiddle"/></a>
+                        <a href="http://www.webwatch.or.kr/Situation/WA_Situation.html?MenuCD=110" target="_blank" title="[새창]" >
+                        	<img src="/epstopik/images/home/new/eng/footer-icon5.png" title="국가 공인 인증기관 : 웹와치 새창" alt="과학기술정보통신부 WEB ACCESSIBILITY 마크(웹 접근성 품질인증마크) 새창" class="footer-icon04">
+                        </a>
+                        <a href="#"  title="[새창]" style="cursor: pointer;" onclick="window.open('http://www.hrdkorea.or.kr/main/popup/openPop.html', 'popup', 'width=950,height=800,top=150,left=150,scrollbars=yes'); return false;" target="_blank">
+                        	<img src="/epstopik/images/home/new/eng/footer-icon4.png" alt="한국산업인력공단 반부패 청렴기반 로고 새창" class="footer-icon05">
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom-box">
+                <div class="row">
+                    <div class="col-12">
+                        <p class="fw-bold">우)44538 울산광역시 중구 종가로 345 한국산업인력공단</p>
+                        <p>Copyright(c)2009.all right reserved. Human Resources Development Service of Korea</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- footer end -->
+</div>
+</body>
+</html>

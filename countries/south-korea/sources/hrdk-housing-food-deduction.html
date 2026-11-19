@@ -1,0 +1,774 @@
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ko">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+
+<meta name="description" content="직업능력개발, 국가자격, 외국인고용, 해외취업, 숙련기술, 국가직무능력표준, 일학습병행제" />
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						<!-- 전북지사 -->
+							
+							
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+					
+<meta property="og:title" content="HRDK 한국산업인력 전북지사" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="HRDK 한국산업인력 전북지사" />
+<meta property="og:url" content="https://www.hrdkorea.or.kr/" />
+<meta property="og:image" content="https://hrdc.hrdkorea.or.kr/hrdc/image/new/main1.png" />
+<meta property="og:description" content="HRDK 한국산업인력, 전국민과 평생을 함께하는 고용 역량 파트너입니다." />
+
+<meta name="twitter:title" content="HRDK 한국산업인력 전북지사" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.hrdkorea.or.kr/" />
+<meta name="twitter:image" content="https://hrdc.hrdkorea.or.kr/hrdc/image/new/main1.png" />
+<meta name="twitter:description" content="HRDK 한국산업인력, 전국민과 평생을 함께하는 고용 역량 파트너입니다." />
+
+<meta name="title" content="HRDK 한국산업인력 전북지사" />
+<meta name="author" content="https://www.hrdkorea.or.kr/" />
+<meta name="description" content="HRDK 한국산업인력, 전국민과 평생을 함께하는 고용 역량 파트너입니다." />
+<meta name="keywords" content="HRDK, 한국산업인력, 전북지사, 능력개발, 능력평가, 국가직무능력표준, NCS" />
+<meta name="format-detection" content="telephone=no" />
+
+
+
+
+
+
+
+
+<title>한국산업인력공단 전북지사</title>
+
+
+
+
+<link rel="icon" href="/hrdc/image/new/favicon_32_blue.ico" sizes="32x32" />
+<link rel="apple-touch-icon" href="/hrdc/design5/images/favicon_180_icon.ico" sizes="180x180" />
+<link rel="stylesheet" type="text/css" href="/hrdc/common/css/jquery-ui.css" />
+<link rel="stylesheet" type="text/css" href="/hrdc/common/css/branch_common.css" />
+<link rel="stylesheet" type="text/css" href="/hrdc/common/css/branch_sub.css" />
+<script type="text/javascript" src="/hrdc/common/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="/hrdc/common/js/branch.js"></script>
+<script type="text/javascript" src="/hrdc/common/js/branch_navi.js"></script>
+<script type="text/javascript" src="/hrdc/common/js/jquery-ui.js"></script>
+</head>
+
+<script type="text/javascript">
+// g-pin popup url
+var gpinUrl = '/crms/G-PIN/TestRequest.jsp';
+
+// 처리결과 메세지
+var _richMessage			= '??????';
+if (!_richMessage.search(/^\?\?\?/) && _richMessage.search(/\?\?\?$/) > -1) _richMessage = null;
+
+// voice 띄우기
+//var domain		= 'http://dev.voice.hrdkorea.or.kr/voice';
+//var voiceUrl	= '/mainGen.odc?method=generate&d_idx=1';
+//-->
+
+	function fnToptMove(blogSeq, quickCategorySeq, categoryDivisionNo) {
+		var frm = document.BlogPostMoveForm;
+
+		$("#blogSeq").val(blogSeq);
+		$("#postCategorySeq").val(quickCategorySeq);
+		$("#categoryDivisionNo").val(categoryDivisionNo);
+
+		frm.target = "_self";
+		frm.action = "/hrdc/post/BlogPostListForm.hrd";
+		frm.submit();
+	}
+
+	function fnLeftMove(categoryGroup, blogSeq, postCategorySeq, categoryDivisionNo, categoryLink) {
+		var frm = document.BlogPostMoveForm;
+
+		$("#categoryGroup").val(categoryGroup);
+		$("#blogSeq").val(blogSeq);
+		$("#postCategorySeq").val(postCategorySeq);
+		$("#categoryDivisionNo").val(categoryDivisionNo);
+		$("#categoryLink").val(categoryLink);
+
+		if(categoryGroup == "LNK") {
+			frm.target = "_blank";
+		} else {
+			frm.target = "_self";
+		}
+
+		if(categoryGroup == "BOD") {
+			frm.action = "/hrdc/post/BlogPostListForm.hrd";
+		} else if(categoryGroup == "LNK") {
+			//frm.action = categoryLink;
+
+			//20240925 수정 - 카카오지도에서 POST 요청은 차단하기 때문에 팝업으로 처리 (GET으로 처리하는 경우 불필요한 파라미터로 인해 지도 위치 안찍힘)
+			//버튼을 눌러서 실행되는 팝업창은 브라우저의 팝업 차단 설정과 무관함
+			var pop = window.open('');
+			pop.location.href = categoryLink;
+
+			return false; //frm submit 방지
+		} else if(categoryGroup == "POL") {
+			frm.action = "/hrdc/poll/BlogPollMainAction.hrd";
+		}
+
+		frm.submit();
+	}
+</script>
+
+<body>
+	<div class="sub">
+		<header>
+		    <div>
+		      <div id="topMenuSet">
+		        <div class="inner">
+		          <p id="topTitle">
+		          	전 국민과 평생을 함께하는 고용 역량 파트너
+		          	<strong>
+		          		<img class="imgWidth_auto imgIcon" src="/hrdc/image/new/icon_map.png" alt="지도이미지" />
+		          		전북지사
+		          	</strong> 입니다.
+		          	<img id="topImg" src="/hrdc/image/new/jeonbuk_CHA.jpg" alt="전북지사" />
+		          </p>
+		          <ul id="topMenu">
+		         	
+		       			<li>
+		       				<a style="cursor:pointer;" onclick="fnLeftMove('BOD', '159', '938', '1', '');">
+	         					<span>인사말</span>
+	         				</a>
+		       			</li>
+		       		
+		       			<li>
+		       				<a style="cursor:pointer;" onclick="fnLeftMove('LNK', '159', '4309', '1', 'https://map.kakao.com/?eX=518178&amp;eY=657131&amp;eName=전북지사');">
+	         					<span>공단 오시는 길</span>
+	         				</a>
+		       			</li>
+		       		
+		       			<li>
+		       				<a style="cursor:pointer;" onclick="fnLeftMove('BOD', '159', '1391', '3', '');">
+	         					<span>시험장 안내</span>
+	         				</a>
+		       			</li>
+		       		
+		          </ul>
+		        </div>
+		      </div>
+		      <nav>
+		        <div class="inner">
+		          <h1>
+		          	<a href="/hrdc/jeonbuk">
+		          		<span class="blind">한국산업인력공단 전북지사</span>
+		          		<img id="mLogoImg" src="/hrdc/image/new/jeonbuk_BI.jpg" alt="전북지사" />
+		          		<img id="mtopImg" class="mobile" src="/hrdc/image/new/jeonbuk_CHA.jpg" alt="전북지사" />
+		          	</a>
+		          </h1>
+		          <ul id="gnb2">
+		          	<!-- 2021.12.08 퍼블요청중 (추후 작업예정) -->
+		            <!-- <li id="zoom"><button><span class="blind">검색</span></button></li>
+		            <li id="totalMenu" class="mobile">
+		              <button href="#" class="menu-trigger">
+		                <span class="blind">전체메뉴</span>
+		                <span></span>
+		                <span></span>
+		                <span></span>
+		              </button>
+		            </li> -->
+		          </ul>
+		          <ul id="gnb">
+					
+						
+							
+								
+							
+							
+							
+							
+						
+						<li id="agency">
+							<a style="cursor:pointer;" onclick="fnToptMove('159', '938', '1');">
+								기관소개
+							</a>
+						</li>
+					
+						
+							
+							
+								
+							
+							
+							
+						
+						<li id="business">
+							<a style="cursor:pointer;" onclick="fnToptMove('159', '2071', '2');">
+								주요사업
+							</a>
+						</li>
+					
+						
+							
+							
+							
+								
+							
+							
+						
+						<li id="exam">
+							<a style="cursor:pointer;" onclick="fnToptMove('159', '5200', '3');">
+								자격시험
+							</a>
+						</li>
+					
+						
+							
+							
+							
+							
+								
+							
+						
+						<li id="community">
+							<a style="cursor:pointer;" onclick="fnToptMove('159', '5106', '4');">
+								알림마당
+							</a>
+						</li>
+					
+		          </ul>
+		        </div>
+		      </nav>
+		    </div>
+	    </header>
+
+		<nav class="subNav">
+		   <ul class="subGNB desktop1280">
+		     <li class="menuViewBtn">
+		     	<span>
+		      	
+		       	
+		       
+		       	
+		       
+		       	
+		       
+		      </span>
+		       <ul class="subGNBD2">
+		       	
+		       		
+		       			<!-- 단일메뉴 -->
+		       				<li class="subM  ">
+		         			<span>
+		         				<a style="cursor:pointer;" onclick="fnLeftMove('BOD', '159', '938', '1', '');">
+		         					<span>인사말</span>
+		         				</a>
+		         			</span>
+		         		</li>
+		       			
+		       			
+		       		
+				  
+		       		
+		       			<!-- 단일메뉴 -->
+		       				<li class="subM  ">
+		         			<span>
+		         				<a style="cursor:pointer;" onclick="fnLeftMove('LNK', '159', '1629', '1', 'https://www.hrdkorea.or.kr/4/1/2/1?k=-1&amp;parDeptId=010014222');">
+		         					<span>조직 및 직원안내</span>
+		         				</a>
+		         			</span>
+		         		</li>
+		       			
+		       			
+		       		
+				  
+		       		
+		       			<!-- 단일메뉴 -->
+		       				<li class="subM  ">
+		         			<span>
+		         				<a style="cursor:pointer;" onclick="fnLeftMove('LNK', '159', '4309', '1', 'https://map.kakao.com/?eX=518178&amp;eY=657131&amp;eName=전북지사');">
+		         					<span>공단 오시는 길</span>
+		         				</a>
+		         			</span>
+		         		</li>
+		       			
+		       			
+		       		
+				  
+		       </ul>
+		     </li>
+		   </ul>
+
+		   <form name="BlogPostMoveForm" id="searchSet" action="" method="post">
+		     	<input type="hidden" name="categoryGroup" id="categoryGroup" value="" />
+		     	<input type="hidden" name="blogSeq" id="blogSeq" value="" />
+		     	<input type="hidden" name="postCategorySeq" id="postCategorySeq" value="" />
+		     	<input type="hidden" name="categoryDivisionNo" id="categoryDivisionNo" value="" />
+		     	<input type="hidden" name="categoryLink" id="categoryLink" value="" />
+			</form>
+
+		   <div id="subNavBottom">
+		     <a id="csBtn" class="desktop1280" href="#none">고객센터 1644-8000</a>
+		     <a id="qnetBtn" class="desktop1280" href="http://www.q-net.or.kr/" target="_blank">Q-NET 바로가기</a>
+		     <ul class="desktop1280" id="snsSet">
+		       <li><a href="https://www.facebook.com/hrdkorea2020/" target="_blank"><span class="blind">facebook</span></a></li>
+		       <li><a href="https://twitter.com/hrdkorea2020?lang=ko" target="_blank"><span class="blind">twitter</span></a></li>
+		       <li><a href="https://www.instagram.com/hrdkorea_official/" target="_blank"><span class="blind">instagram</span></a></li>
+		       <li><a href="https://www.youtube.com/user/HRDKorea" target="_blank"><span class="blind">youtube</span></a></li>
+		     </ul>
+		   </div>
+
+		 </nav>
+
+		
+
+
+
+
+
+
+
+	
+	
+	<script type='text/javascript'>
+		var today = parseInt('Thu Nov 19 16:08:29 KST 2026');
+		var strday = parseInt('20220328'); //20240425 추가
+		var endday = parseInt('20301231');
+		/*if(today > endday){
+			alert('게시기한이 지난게시물입니다');
+			window.location.href='http://jeonbuk.hrdkorea.or.kr';
+		}*/
+
+		if(strday > today || today > endday){ //20240425 수정
+			//alert("올바르지 않은 접근입니다.");
+			alert("게시기간이 아닌 게시물입니다.");
+			history.back(-1);
+		}
+	</script>
+
+
+
+
+<script type='text/javascript' src="/hrdc/js/richapp/RichEdit.js"></script>
+<script type='text/javascript'>
+//컨텐츠 보기 Iframe Top code
+var _richEditPreviewTop	= '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="ko"><head><meta http-equiv="Content-Type" content="text/html; charset=euc-kr" /><meta http-equiv="Content-Script-Type" content="text/javascript" /><meta http-equiv="Content-Style-Type" content="text/css" /><base href="http://hrdc.hrdkorea.or.kr"/><link rel="stylesheet" type="text/css" href="/hrdc/common/css/import.css"/></head><body width="100%" onLoad="parent.passiveResize()"><div style="width:100%; float:left; padding-bottom:0px;">';
+// 컨텐츠 보기 Iframe Bottom code
+var _richEditPreviewBottom	= '</div></body></html>';
+</script>
+<script type="text/javascript">
+	function commentInsert(form) {
+		if($('#commentContent').val() == '') {
+			alert('댓글 내용을 입력해주십시오');
+			return false;
+		}
+
+		if(confirm("저장하시겠습니까?")) {
+			return true;
+		} else {
+			return false;
+		}
+	}
+
+	function commentUpdate(form) {
+		if($('#commentContent_modify').val() == '') {
+			alert('댓글 내용을 입력해주십시오');
+			return false;
+		}
+
+		if(confirm("저장하시겠습니까?")) {
+			return true;
+		} else {
+			return false;
+		}
+	}
+
+	var idCount='0';
+
+	function setComment(seq, id) {
+		var val = $('#commentContent_' + id).val();
+		$('#commentContent_modify').val(val);
+		$('#postCommentSeq').val(seq);
+	}
+
+	function playModify(seq,id) {
+		if(document.getElementById('list_comment_' + id).style.display == 'block') {
+			$('#list_comment_' + id).css({"display" : "none"});
+			$('#modify_comment_' + id).css({"display" : "block"});
+
+			for(var i = 0; i <= idCount; i++) {
+				if(i != id) {
+					$('#list_comment_' + i).css({"display" : "block"});
+					$('#modify_comment_' + i).css({"display" : "none"});
+				}
+			}
+
+			setComment(seq, id);
+		} else if(document.getElementById('list_comment_' + id).style.display == 'none') {
+			$('#list_comment_' + id).css({"display" : "block"});
+			$('#modify_comment_' + id).css({"display" : "none"});
+		}
+	}
+
+	function deleteComment(blogSeq,userSeq,userName,postSeq,postCommentSeq) {
+		if(confirm("삭제하시겠습니까?")) {
+			window.location.href = "/hrdc/post/BlogPostCommentDeleteAction.hrd?blogSeq="+blogSeq+"&userSeq="+userSeq+"&userName="+userName+"&postSeq="+postSeq+"&postCommentSeq="+postCommentSeq;
+		}
+	}
+
+	function blogPostDelete(postSeq,postCategorySeq) {
+		if(confirm("삭제하시겠습니까?")) {
+			window.location.href="/hrdc/post/BlogPostDeleteAction.hrd?postSeq="+postSeq+"&postCategorySeq="+postCategorySeq;
+		}
+	}
+
+	function saveClipboard(postSeq) {
+		var val='https://hrdc.hrdkorea.or.kr/hrdc/' + postSeq;
+		var agent = navigator.userAgent.toLowerCase();
+
+		//IE
+		if((navigator.appName == 'Netscape' && agent.indexOf('trident') != -1) || (agent.indexOf("msie") != -1)) {
+			window.clipboardData.setData('Text', val);
+			alert('포스트의 주소가 복사되었습니다. 게시판이나 메신저창에서 ctrl+V를 눌러보세요.');
+		} else { //IE 그외
+			temp = prompt("Ctrl+C를 눌러 포스트의 주소를 복사하세요.", val);
+		}
+	}
+
+	function resizeFrm(iframeObj){
+		var innerBody = iframeObj.contentWindow.document.body;
+		var innerHeight = innerBody.scrollHeight + (innerBody.offsetHeight - innerBody.clientHeight);
+		var innerWidth = innerBody.scrollWidth + (innerBody.offsetWidth - innerBody.clientWidth);
+		iframeObj.style.height = innerHeight;
+		iframeObj.style.width = innerWidth;
+	}
+
+	function postAppraiseAction(cmd) {
+		if(confirm("등록하시겠습니까?")) {
+			if(cmd == 'desktop') {
+				$("#appraisePoint").val($("input[name='appraisePointRadio']:checked").val());
+			} else if(cmd == 'mobile') {
+				$("#appraisePoint").val($("select[name='appraisePointSelect']").val());
+			}
+
+			document.appraise.submit();
+		} else {
+			return false;
+		}
+	}
+	//추전하기
+	function recommend(postSeq) {
+		if(confirm("추천 하시겠습니까?")) {
+			$.post("/hrdc/post/BlogPostRecommendUpdateAction.hrd",
+			{postSeq :postSeq	},
+			 function(data){
+				alert('추천되었습니다');
+			});
+		} else {
+			return false;
+		}
+	}
+	function fnPrint() {
+		var content = document.getElementById("printDiv").innerHTML;
+
+		var win = null;
+	    win = window.open();
+	    self.focus();
+	    win.document.open();
+	    win.document.write('<link rel="stylesheet" type="text/css" href="/hrdc/common/css/branch_common.css" />');
+	    win.document.write('<link rel="stylesheet" type="text/css" href="/hrdc/common/css/branch_sub.css" />');
+	    win.document.write(content);
+	    win.document.close();
+	    win.print();
+	    win.close();
+
+		/*
+		$('#gnb,#header,#nav,#copyright,#left,#title,#bmenu,#etc').hide();
+		$('#contents').addClass('f_left');
+		$('#wrap').addClass('bgclear');
+		print();
+		$('#wrap').removeClass('bgclear');
+		$('#contents').removeClass('f_left');
+		$('#gnb,#header,#nav,#copyright,#left,#title,#bmenu,#etc').show();
+		*/
+	}
+
+	function fnListPage() {
+		var frm = document.BlogPostViewForm;
+
+		frm.target = "_self";
+		frm.action = "/hrdc/post/BlogPostListForm.hrd"
+		frm.submit();
+	}
+</script>
+<!-- DATE 포멧 변환  -->
+
+
+
+<!-- DATE 포멧 변환  -->
+
+<section id="printDiv" class="subInner subContentSet">
+	<ul class="subTopMenu">
+        <li id="prevPage"><a href="javascript:void(0)"><span class="blind">이전 페이지로</span></a></li>
+        
+        	
+        
+        	
+        
+        	
+        
+   	 </ul>
+
+	<h2>외국인고용지원</h2>
+
+    <div id="textPlus" style="visibility:hidden;" class="sub_inner desktop1280">화면설정
+    	<button id="plusBtn"><span class="blind">텍스트확대</span></button>
+        <button id="minusBtn"><span class="blind">텍스트확대</span></button>
+	</div>
+
+	<!-- <div class="sub_inner right desktop printSet">
+			<button class="print1" onclick="fnPrint()">인쇄하기</button>
+		</div> -->
+
+    <div class="sub_inner">
+    	<div class="title_ copy_ mobile">
+    		<button class="btn1" onclick="saveClipboard('185230')">주소복사</button>
+    		<button class="btn1" onclick="recommend('185230');">게시글추천</button>
+    	</div> <!-- 12월 9일 수정 -->
+
+        <div class="boardGrid boardFlex serveyGridWrite2 serveyVeiw marginBottom0">
+            <div class="title common borderTop">제목</div>
+            <div class="title_ borderTop borderNo">
+            	
+				외국인근로자 숙식비용 공제 안내
+            </div>
+        </div>
+        <div class="boardGrid marginBottom0 marginTop0">
+
+	        <!-- 지부지사블로그만 게시기간으로 보여준다 -->
+            	<div class="title common">게시물 제공기간</div>
+            	<div class="title2_">
+            		
+						
+							2022.03.28 ~ 2030.12.31
+						
+						
+					
+            	</div>
+            	<div class="title common">게시물 보존기간</div>
+            	<div class="title2_ borderRight">
+            		
+						
+						
+							2030.12.31
+						
+					
+            	</div>
+            
+            <div class="title common desktop borderBottom">주소 복사 및 추천</div>
+            <div class="title_ copy_ desktop">
+            	<button class="btn1" onclick="saveClipboard('185230')">주소복사</button>
+            	
+            		<button class="btn1" onclick="recommend('185230');">게시글추천</button>
+               	
+            </div>
+        </div>
+        <div class="boardGrid boardFlex serveyGridWrite2 serveyVeiw marginBottom20">
+            <div class="title common borderBottom">첨부파일</div>
+            <div class="title_ file borderBottom">
+            	
+                   	
+                   		<p>
+                   			<img src="/hrdc/image/new/icon_file.png" alt="file down">
+	                    	<a href="https://hrdc.hrdkorea.or.kr/hrdc/download/downloadFile.hrd?attachSeq=556758" target="_blank">숙식비+공제동의서.zip</a>&nbsp;
+	                    </p>
+					
+				
+            </div>
+        </div>
+        <div class="content">
+            <div class="se-contents" style="line-height: 1.2; font-family: Arial, Helvetica, sans-serif; font-size: 11pt;"><p style="margin: 0px; text-align: center; display: block; -ms-word-wrap: break-word;"><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 20pt; font-weight: bold;">외국인근로자 숙식비용 공제 안내</span></p><p style="margin: 4px 0px 4px 44.8px; text-indent: -44.8px; display: block; -ms-word-wrap: break-word;"><span class="se-zws-run" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;"><br></span></p><p style="margin: 4px 0px 4px 44.8px; text-indent: -44.8px; display: block; -ms-word-wrap: break-word;"><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">전북지사 관할 외국인고용사업장 사업주 및 업무담당자께서는&nbsp;</span></p><p style="margin: 4px 0px 4px 44.8px; text-indent: -44.8px; display: block; -ms-word-wrap: break-word;"><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">공제동의서를&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">아래의 내용을 참고하여&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">작성해주시길 바랍니다.&nbsp;</span></p><p style="margin: 4px 0px 4px 44.8px; text-indent: -44.8px; display: block; -ms-word-wrap: break-word;"><span class="se-zws-run" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;"><br></span></p><p style="margin: 4px 0px 4px 44.8px; text-indent: -44.8px; display: block; -ms-word-wrap: break-word;"><span class="se-zws-run" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;"><br></span></p><p class="0" style="text-indent: -53.73px; margin-top: 4px; margin-bottom: 4px; margin-left: 53.73px;"><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">○&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">숙식비는 원칙적으로&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">사업주가 부담할 의무는 없으며</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">,&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">숙식을&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">제공할 경우&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">근로자에게 합리적 수준으로 징수 가능</span></p><p class="0" style="text-indent: -59.19px; margin-top: 4px; margin-bottom: 4px; margin-left: 59.19px;"><span class="se-zws-run" lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;"><br></span></p><p class="0" style="text-indent: -59.19px; margin-top: 4px; margin-bottom: 4px; margin-left: 59.19px;"><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">-</span><span lang="EN-US" style="font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">이러한 경우&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">당사자 간 다툼 방지</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">를 위해</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">근로계약서에&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">근로자&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">부담액</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">,</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">숙식제공 형태 등을 명시</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">하는 것이 바람직</span></p><p style="text-indent: -56.8px; margin-top: 4px; margin-bottom: 4px; margin-left: 56.8px;"><span class="se-zws-run" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;"><br></span></p><p style="text-indent: -56.8px; margin-top: 4px; margin-bottom: 4px; margin-left: 56.8px;"><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">○&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">사업주가&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">숙식을 제공할 경우 근로자의 비용 부담이&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">과도하지&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">않도</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">록</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">아래의 상한을 준수하도록 지도함</span></p><p class="0" style="text-indent: -50px; margin-top: 4px; margin-bottom: 4px; margin-left: 50px;"><span class="se-zws-run" lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;"><br></span></p><p class="0" style="text-indent: -50px; margin-top: 4px; margin-bottom: 4px; margin-left: 50px;"><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">-&nbsp;</span><span style="font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">숙소</span><span style="font-family: KoPub바탕체 Light; font-size: 15pt;">와&nbsp;</span><span style="font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">식사</span><span style="font-family: KoPub바탕체 Light; font-size: 15pt;">를&nbsp;</span><span style="font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">모두 제공</span><span style="font-family: KoPub바탕체 Light; font-size: 15pt;">하는 경우</span></p><table style="border: 3px currentColor; width: 613.01px; vertical-align: text-bottom; border-collapse: collapse; table-layout: fixed;" data-template-id="0"><colgroup><col style="width: 307px;"><col style="width: 307px;"></colgroup><tbody><tr style="height: 35.57px;"><td style="background: rgb(204, 204, 204); border-width: 0.37px 0.37px 3px 3px; border-style: solid solid double none; border-color: rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0) currentColor; padding: 1.88px 6.8px; width: 306.5px; vertical-align: middle;"><p class="0" style="text-align: center; line-height: 130%; -ms-word-break: keep-all;"><span style="font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">아파트</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">,&nbsp;</span><span style="font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">단독주택</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">,&nbsp;</span><span style="font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">연립</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">&#8228;</span><span style="font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">다세대 주택 또는 이에 준하는 시설</span></p></td><td style="background: rgb(204, 204, 204); border-width: 0.37px 3px 3px 0.37px; border-style: solid none double solid; border-color: rgb(0, 0, 0) currentColor rgb(0, 0, 0) rgb(0, 0, 0); padding: 1.88px 6.8px; width: 306.5px; vertical-align: middle;"><p class="0" style="text-align: center; line-height: 130%; -ms-word-break: keep-all;"><span style="font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">그 밖의 임시 주거시설</span></p></td></tr><tr style="height: 29.97px;"><td style="border-width: 3px 0.37px 0.37px 3px; border-style: double solid solid none; border-color: rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0) currentColor; padding: 1.88px 6.8px; width: 306.5px; vertical-align: middle;"><p class="0" style="text-align: center; line-height: 130%; -ms-word-break: keep-all;"><span style="font-family: 한양중고딕; font-size: 13pt;">상한액</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">:&nbsp;</span><span style="font-family: 한양중고딕; font-size: 13pt;">월 통상임금</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; vertical-align: super;">*</span><span style="font-family: 한양중고딕; font-size: 13pt;">의&nbsp;</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">20%</span></p></td><td style="border-width: 3px 3px 0.37px 0.37px; border-style: double none solid solid; border-color: rgb(0, 0, 0) currentColor rgb(0, 0, 0) rgb(0, 0, 0); padding: 1.88px 6.8px; width: 306.5px; vertical-align: middle;"><p class="0" style="text-align: center; line-height: 130%; -ms-word-break: keep-all;"><span style="font-family: 한양중고딕; font-size: 13pt;">상한액</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">:&nbsp;</span><span style="font-family: 한양중고딕; font-size: 13pt;">월 통상임금의&nbsp;</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">13%</span></p></td></tr></tbody></table><p class="0" style="text-indent: -53.06px; margin-top: 4px; margin-bottom: 4px; margin-left: 53.06px;"><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">-&nbsp;</span><span style="font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">숙소만 제공</span><span style="font-family: KoPub바탕체 Light; font-size: 15pt;">하는 경우</span></p><table style="border: 3px currentColor; width: 613.01px; vertical-align: text-bottom; border-collapse: collapse; table-layout: fixed;" data-template-id="0"><colgroup><col style="width: 307px;"><col style="width: 307px;"></colgroup><tbody><tr style="height: 40.14px;"><td style="background: rgb(204, 204, 204); border-width: 0.37px 0.37px 3px 3px; border-style: solid solid double none; border-color: rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0) currentColor; padding: 1.88px 6.8px; width: 306.5px; vertical-align: middle;"><p class="0" style="text-align: center; line-height: 125%; -ms-word-break: keep-all;"><span style="font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">아파트</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">,&nbsp;</span><span style="font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">단독주택</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">,&nbsp;</span><span style="font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">연립</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">&#8228;</span><span style="font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">다세대 주택 또는 이에 준하는 시설</span></p></td><td style="background: rgb(204, 204, 204); border-width: 0.37px 3px 3px 0.37px; border-style: solid none double solid; border-color: rgb(0, 0, 0) currentColor rgb(0, 0, 0) rgb(0, 0, 0); padding: 1.88px 6.8px; width: 306.5px; vertical-align: middle;"><p class="0" style="text-align: center; line-height: 125%; -ms-word-break: keep-all;"><span style="font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">그 밖의 임시 주거시설</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">*</span></p></td></tr><tr style="height: 35.63px;"><td style="border-width: 3px 0.37px 0.37px 3px; border-style: double solid solid none; border-color: rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0) currentColor; padding: 1.88px 6.8px; width: 306.5px; vertical-align: middle;"><p class="0" style="text-align: center; line-height: 125%; -ms-word-break: keep-all;"><span style="font-family: 한양중고딕; font-size: 13pt;">상한액</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">:&nbsp;</span><span style="font-family: 한양중고딕; font-size: 13pt;">월 통상임금의&nbsp;</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">15%</span></p></td><td style="border-width: 3px 3px 0.37px 0.37px; border-style: double none solid solid; border-color: rgb(0, 0, 0) currentColor rgb(0, 0, 0) rgb(0, 0, 0); padding: 1.88px 6.8px; width: 306.5px; vertical-align: middle;"><p class="0" style="text-align: center; line-height: 125%; -ms-word-break: keep-all;"><span style="font-family: 한양중고딕; font-size: 13pt;">상한액</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">:&nbsp;</span><span style="font-family: 한양중고딕; font-size: 13pt;">월 통상임금의&nbsp;</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">8%</span></p></td></tr></tbody></table><table style="border: 3px currentColor; width: 656.02px; vertical-align: text-bottom; border-collapse: collapse; table-layout: fixed;" data-template-id="0"><colgroup><col style="width: 235px;"><col style="width: 205px;"><col style="width: 217px;"></colgroup><tbody><tr style="height: 13.21px;"><td style="border-width: 3px 3px 1.13px; border-style: none none solid; border-color: currentColor currentColor rgb(0, 0, 0); padding: 1.88px 6.8px; width: 234.69px; vertical-align: middle;"><p class="0" style="line-height: 130%; letter-spacing: 0px; font-size: 3pt;"><span style="letter-spacing: 0px; font-family: 휴먼명조; font-size: 3pt;">&nbsp;</span></p></td><td style="padding: 1.88px 6.8px; border: 3px currentColor; width: 204.82px; vertical-align: middle;" rowspan="2"><p class="0" style="text-align: justify; line-height: 110%; -ms-text-justify: distribute-all-lines;"><span lang="EN-US" style="letter-spacing: 2px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;"><</span><span style="letter-spacing: 2px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">작성예시</span><span lang="EN-US" style="letter-spacing: 2px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">></span></p></td><td style="border-width: 3px 3px 1.13px; border-style: none none solid; border-color: currentColor currentColor rgb(0, 0, 0); padding: 1.88px 6.8px; width: 216.5px; vertical-align: middle;"><p class="0" style="line-height: 130%; letter-spacing: 0px; font-size: 3pt;"><span style="letter-spacing: 0px; font-family: 휴먼명조; font-size: 3pt;">&nbsp;</span></p></td></tr><tr style="height: 7.61px;"><td style="border-width: 1.13px 3px 3px 1.13px; border-style: solid none none solid; border-color: rgb(0, 0, 0) currentColor currentColor rgb(0, 0, 0); padding: 1.88px 6.8px; width: 234.69px; vertical-align: middle;"><p class="0" style="line-height: 130%; letter-spacing: 0px; font-size: 3pt;"><span style="letter-spacing: 0px; font-family: 휴먼명조; font-size: 3pt;">&nbsp;</span></p></td><td style="border-width: 1.13px 1.13px 3px 3px; border-style: solid solid none none; border-color: rgb(0, 0, 0) rgb(0, 0, 0) currentColor currentColor; padding: 1.88px 6.8px; width: 216.5px; vertical-align: middle;"><p class="0" style="line-height: 130%; letter-spacing: 0px; font-size: 3pt;"><span style="letter-spacing: 0px; font-family: 휴먼명조; font-size: 3pt;">&nbsp;</span></p></td></tr><tr style="height: 259.66px;"><td style="border-width: 3px 1.13px 1.13px; border-style: none solid solid; border-color: currentColor rgb(0, 0, 0) rgb(0, 0, 0); padding: 1.88px 6.8px; width: 656.02px; vertical-align: top;" colspan="3"><p class="0" style="line-height: 135%; text-indent: -27.33px; margin-top: 13.33px; margin-right: 6.66px; margin-left: 61.33px;"><span style="letter-spacing: 1px; font-family: 명조; font-size: 13pt; font-weight: bold;">&#61558;&nbsp;</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">150</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">만원의 월급을 받는 근로자에게 아파트를 숙소로 제공하는&nbsp;</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">대가로</span><span lang="EN-US" style="letter-spacing: 1px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">&nbsp;</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">월&nbsp;</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">15</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">만원을</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">,&nbsp;</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">조식</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">&#8228;</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">중식</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">&#8228;</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">석식에 대한 대가로 월&nbsp;</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">5</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">만원을 받</span><span style="letter-spacing: -1px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">는 경우</span></p><p class="0" style="line-height: 135%; text-indent: -69.73px; margin-top: 13.33px; margin-right: 6.66px; margin-left: 146.13px;"><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">1)&nbsp;</span><span style="font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">숙박시설 제공</span></p><p class="0" style="line-height: 135%; text-indent: -69.73px; margin-top: 4px; margin-right: 6.66px; margin-left: 146.13px;"><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">-&nbsp;</span><span style="font-family: 한양중고딕; font-size: 13pt;">숙박시설 제공 여부</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">:&nbsp;</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">〔√</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">]&nbsp;</span><span style="font-family: 한양중고딕; font-size: 13pt;">제공</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">,&nbsp;</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">〔&nbsp;</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">]&nbsp;</span><span style="font-family: 한양중고딕; font-size: 13pt;">미제공</span></p><p class="0" style="line-height: 135%; text-indent: -49.6px; margin-top: 2.66px; margin-right: 6.66px; margin-left: 105.73px;"><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">·&nbsp;</span><span style="letter-spacing: -1px; font-family: 한양중고딕; font-size: 13pt;">제공 시</span><span lang="EN-US" style="letter-spacing: -1px; font-family: 한양중고딕; font-size: 13pt;">,&nbsp;</span><span style="letter-spacing: -1px; font-family: 한양중고딕; font-size: 13pt;">숙박시설의 유형</span><span lang="EN-US" style="letter-spacing: -1px; font-family: 한양중고딕; font-size: 13pt;">:&nbsp;</span><span style="letter-spacing: -1px; font-family: 한양중고딕; font-size: 13pt;">〔√</span><span lang="EN-US" style="letter-spacing: -1px; font-family: 한양중고딕; font-size: 13pt;">]&nbsp;</span><span style="letter-spacing: -1px; font-family: 한양중고딕; font-size: 13pt;">아파트</span><span lang="EN-US" style="letter-spacing: -1px; font-family: 한양중고딕; font-size: 13pt;">,&nbsp;</span><span style="letter-spacing: -1px; font-family: 한양중고딕; font-size: 13pt;">〔&nbsp;</span><span lang="EN-US" style="letter-spacing: -1px; font-family: 한양중고딕; font-size: 13pt;">]&nbsp;</span><span style="letter-spacing: -1px; font-family: 한양중고딕; font-size: 13pt;">단독주택</span><span lang="EN-US" style="letter-spacing: -1px; font-family: 한양중고딕; font-size: 13pt;">,&nbsp;</span><span style="letter-spacing: -1px; font-family: 한양중고딕; font-size: 13pt;">〔&nbsp;</span><span lang="EN-US" style="letter-spacing: -1px; font-family: 한양중고딕; font-size: 13pt;">]</span><span style="letter-spacing: -1px; font-family: 한양중고딕; font-size: 13pt;">연립</span><span style="letter-spacing: -1px; font-family: 한양중고딕; font-size: 13pt;">ㆍ</span><span style="letter-spacing: -1px; font-family: 한양중고딕; font-size: 13pt;">다세대</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">&nbsp;</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">주</span><span style="letter-spacing: -1px; font-family: 한양중고딕; font-size: 13pt;">택</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">,&nbsp;</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">〔&nbsp;</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">]&nbsp;</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">아파</span><span style="letter-spacing: -1px; font-family: 한양중고딕; font-size: 13pt;">트 또는 주택에 준하는 시설</span><span lang="EN-US" style="letter-spacing: -1px; font-family: 한양중고딕; font-size: 13pt;">,&nbsp;</span><span style="letter-spacing: -1px; font-family: 한양중고딕; font-size: 13pt;">〔&nbsp;</span><span lang="EN-US" style="letter-spacing: -1px; font-family: 한양중고딕; font-size: 13pt;">]&nbsp;</span><span style="letter-spacing: -1px; font-family: 한양중고딕; font-size: 13pt;">그 밖의 임시 주거시설</span></p><p class="0" style="line-height: 135%; text-indent: -69.73px; margin-top: 4px; margin-right: 6.66px; margin-left: 146.13px;"><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">-&nbsp;</span><span style="font-family: 한양중고딕; font-size: 13pt;">근로자 부담</span><span style="font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">금액</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">:&nbsp;</span><span style="font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">월&nbsp;</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">15</span><span style="font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">만원</span></p><p class="0" style="line-height: 135%; text-indent: -69.73px; margin-top: 13.33px; margin-right: 6.66px; margin-left: 146.13px;"><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">2)&nbsp;</span><span style="font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">식사 제공</span></p><p class="0" style="line-height: 135%; text-indent: -69.73px; margin-top: 4px; margin-right: 6.66px; margin-left: 146.13px;"><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">-&nbsp;</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">식사 제공 여부</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">:&nbsp;</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">제공</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">([</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">√</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">]</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">조식&nbsp;</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">[</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">√</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">]</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">중식&nbsp;</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">[</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">√</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">]</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">석식</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">)</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">, [ ]</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">미제공</span></p><p class="0" style="line-height: 135%; text-indent: -69.73px; margin-top: 4px; margin-right: 6.66px; margin-left: 146.13px;"><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">-&nbsp;</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">근로자 부담</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">금액</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">:&nbsp;</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">월&nbsp;</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">5</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">만원</span></p><p class="0" style="line-height: 135%; text-indent: -49.6px; margin-top: 6.66px; margin-right: 6.66px; margin-left: 105.73px;"><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">☞&nbsp;</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">월 상한금액&nbsp;</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">30</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">만원</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">(150</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">만원</span><span lang="EN-US" style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt;">×20%)</span><span style="letter-spacing: 0px; font-family: 한양중고딕; font-size: 13pt; font-weight: bold;">의 범위에서 근로자에게 숙식비용을 부담하게 할 수 있음</span></p></td></tr></tbody></table><p><br></p><p style="text-indent: -52.4px; margin-top: 4px; margin-bottom: 4px; margin-left: 52.4px;"><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">○</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">사업주는 표준근로계약서에 기재된 금액의 범위에서&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">숙</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">식비를 징수</span><span lang="EN-US" style="font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">&nbsp;</span><span style="font-family: KoPub바탕체 Light; font-size: 15pt;">할 수 있음</span></p><p class="0" style="text-indent: -64.26px; margin-top: 4px; margin-bottom: 4px; margin-left: 64.26px;"><span class="se-zws-run" lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;"><br></span></p><p class="0" style="text-indent: -64.26px; margin-top: 4px; margin-bottom: 4px; margin-left: 64.26px;"><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">-&nbsp;</span><span style="font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">숙식비</span><span style="font-family: KoPub바탕체 Light; font-size: 15pt;">는 근로자에게&nbsp;</span><span style="font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">임금 지급 후 사후 징수</span><span style="font-family: KoPub바탕체 Light; font-size: 15pt;">하거나</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">,&nbsp;</span><span style="font-family: KoPub바탕체 Light; font-size: 15pt;">적법</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">한&nbsp;</span><span style="font-family: KoPub바탕체 Light; font-size: 15pt;">절차를</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">거</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">친 경우&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">사전 공제</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">할 수 있음</span></p><p class="0" style="text-indent: -50.66px; margin-top: 4px; margin-bottom: 4px; margin-left: 50.66px;"><span class="se-zws-run" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;"><br></span></p><p class="0" style="text-indent: -50.66px; margin-top: 4px; margin-bottom: 4px; margin-left: 50.66px;"><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">○</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">다만</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">,&nbsp;</span><span style="font-family: KoPub바탕체 Light; font-size: 15pt;">사업주가&nbsp;</span><span style="font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">임금에서 숙식비용을 사전&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">공제하는 경우</span></p><p class="0" style="text-indent: -57.73px; margin-top: 4px; margin-bottom: 4px; margin-left: 57.73px;"><span class="se-zws-run" lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;"><br></span></p><p class="0" style="text-indent: -57.73px; margin-top: 4px; margin-bottom: 4px; margin-left: 57.73px;"><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">-&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">근로자가 공제액 등을 명확히 이해할 수 있도록&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">붙임과&nbsp;</span><span style="font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">같이</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">자국어로 된 별도의 서면동의서</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">*</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">(</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">지방관서 비치</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">)</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">를</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">제출받아야 함</span></p><p class="0" style="text-indent: -71.6px; margin-top: 4px; margin-bottom: 4px; margin-left: 71.6px;"><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">*&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">대법원은&nbsp;</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">“</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">근로자의&nbsp;</span><span style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 13pt;">자유로운&nbsp;</span><span style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 13pt;">의</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">사</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">에</span><span lang="EN-US" style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 13pt;">&nbsp;</span><span style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 13pt;">터 잡아 이루어진 것</span><span style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 13pt;">이라</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">고&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">인</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">정할&nbsp;</span><span style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 13pt;">만한&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">합리적인</span><span lang="EN-US" style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 13pt;">&nbsp;</span><span style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 13pt;">이유가&nbsp;</span><span style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 13pt;">객</span><span style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 13pt;">관적으로 존재하는</span><span lang="EN-US" style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 13pt;">&nbsp;</span><span style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 13pt;">때에는&nbsp;</span><span style="letter-spacing: 3px; font-family: KoPub바탕체 Light; font-size: 13pt;">임금전</span><span style="letter-spacing: 3px; font-family: KoPub바탕체 Light; font-size: 13pt;">액</span><span style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 13pt;">지급의 원</span><span style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 13pt;">칙에 위</span><span style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 13pt;">반되지 않는다</span><span lang="EN-US" style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 13pt;">’</span><span style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 13pt;">고 판시</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">(2001. 10.23,&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">대법&nbsp;</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">2001</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">다</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">25184)</span></p><p class="0" style="text-indent: -55.73px; margin-top: 4px; margin-bottom: 4px; margin-left: 55.73px;"><span class="se-zws-run" lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;"><br></span></p><p class="0" style="text-indent: -55.73px; margin-top: 4px; margin-bottom: 4px; margin-left: 55.73px;"><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">-&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">근로계약서에 기재된&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">숙식정보</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">(</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">숙소 유형</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">,&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">부담액 등</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">)</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">기준으로</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">공제동의서가 작성되어야 효력을 인정</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">받을 수 있음</span></p><p class="0" style="text-indent: -50.66px; margin-top: 4px; margin-bottom: 4px; margin-left: 50.66px;"><span class="se-zws-run" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;"><br></span></p><p class="0" style="text-indent: -50.66px; margin-top: 4px; margin-bottom: 4px; margin-left: 50.66px;"><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">○&nbsp;</span><span style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 15pt;">근로계약서상</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">&nbsp;</span><span style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 15pt;">숙식정</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">보</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">와 공제동의서상 공제금액이 상</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">이하여&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">숙식비 관련 분쟁이 발생할 경우</span></p><p class="0" style="text-indent: -58.26px; margin-top: 4px; margin-bottom: 4px; margin-left: 58.26px;"><span class="se-zws-run" lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;"><br></span></p><p class="0" style="text-indent: -58.26px; margin-top: 4px; margin-bottom: 4px; margin-left: 58.26px;"><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">-&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">근로기준법상 임금체불</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">(</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">임금 전액불 지급 원칙 위반</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">)</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">소지가 있음</span></p><p style="text-indent: -63.6px; margin-top: 4px; margin-bottom: 4px; margin-left: 63.6px;"><span class="se-zws-run" lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;"><br></span></p><p style="text-indent: -63.6px; margin-top: 4px; margin-bottom: 4px; margin-left: 63.6px;"><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">-&nbsp;</span><span style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">민사상 손해배상의 책임</span><span lang="EN-US" style="letter-spacing: 2px; font-family: KoPub바탕체 Light; font-size: 13pt;">(</span><span style="letter-spacing: 2px; font-family: KoPub바탕체 Light; font-size: 13pt;">근로</span><span style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 13pt;">계</span><span style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 13pt;">약서상 기재 금액과 실제&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">부담액의 차이</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 13pt;">)</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">도 발생할 수 있</span><span style="font-family: KoPub바탕체 Light; font-size: 15pt;">음</span></p><p style="text-indent: -56.93px; margin-top: 4px; margin-bottom: 4px; margin-left: 56.93px;"><span class="se-zws-run" style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 15pt;"><br></span></p><p style="text-indent: -56.93px; margin-top: 4px; margin-bottom: 4px; margin-left: 56.93px;"><span style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 15pt;">○</span><span lang="EN-US" style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">숙박비 징수 상한액</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">은&nbsp;</span><span style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 15pt;">건물임대료 등 고정비용을 기준으로</span><span lang="EN-US" style="letter-spacing: 2px; font-family: KoPub바탕체 Light; font-size: 15pt;">&nbsp;</span><span style="letter-spacing: 2px; font-family: KoPub바탕체 Light; font-size: 15pt;">제시</span><span style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 15pt;">된 것</span><span style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 15pt;">이므로</span></p><p class="0" style="text-indent: -72.66px; margin-top: 4px; margin-bottom: 4px; margin-left: 72.66px;"><span class="se-zws-run" lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;"><br></span></p><p class="0" style="text-indent: -72.66px; margin-top: 4px; margin-bottom: 4px; margin-left: 72.66px;"><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">-</span><span lang="EN-US" style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">&nbsp;</span><span style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">냉</span><span lang="EN-US" style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">·</span><span style="letter-spacing: 1px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">난방비</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">등 계절적으로 변동이 있거나</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">,&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">전기요금</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">·</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">인</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">터</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">넷</span><span lang="EN-US" style="font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">사용료</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">등 실제 이용에 따라 부과되는 비용은 포함되지 않음</span></p><p class="0" style="text-indent: -50px; margin-top: 4px; margin-bottom: 4px; margin-left: 50px;"><span class="se-zws-run" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;"><br></span></p><p class="0" style="text-indent: -50px; margin-top: 4px; margin-bottom: 4px; margin-left: 50px;"><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">○</span><span lang="EN-US" style="font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">근로자에게 쌀</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">,&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">부식 등을 현물로 제공하는 경우</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">,&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">시장</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">가격으로</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">환가한&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">금액을 표준근로계약서에 기재할 수 있음</span></p><p class="0" style="text-indent: -53.6px; margin-top: 4px; margin-bottom: 4px; margin-left: 53.6px;"><span class="se-zws-run" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;"><br></span></p><p class="0" style="text-indent: -53.6px; margin-top: 4px; margin-bottom: 4px; margin-left: 53.6px;"><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">○</span><span lang="EN-US" style="font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">근로자에게 제공하는 숙소가 비닐하우스</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">,&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">컨테이너 등 임시&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">주</span><span style="font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">거시</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">설인 경우도&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">숙박비 공제는 가능함</span></p><p class="0" style="text-indent: -68.93px; margin-top: 4px; margin-bottom: 4px; margin-left: 68.93px;"><span class="se-zws-run" lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;"><br></span></p><p class="0" style="text-indent: -68.93px; margin-top: 4px; margin-bottom: 4px; margin-left: 68.93px;"><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">-&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">다만</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">,&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">숙박비 공제금액</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">은 당사자 간 충분하게&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">협의</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">하여&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">사회</span><span style="font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">통념상 인정될만한 수준의 금액</span><span style="font-family: KoPub바탕체 Light; font-size: 15pt;">으로 정해야 할 것임</span></p><p class="0" style="text-indent: -54.66px; margin-top: 4px; margin-bottom: 4px; margin-left: 54.66px;"><span class="se-zws-run" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;"><br></span></p><p class="0" style="text-indent: -54.66px; margin-top: 4px; margin-bottom: 4px; margin-left: 54.66px;"><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">○&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">임시 주거시설의 경우에도 최소한 세면실</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">&#8228;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">화장실을 숙소&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">내에</span><span lang="EN-US" style="font-family: KoPub바탕체 Light; font-size: 15pt;">&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">또는 주변에 갖추어야 하고&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">남녀를 같은 방에 거주하게 해서는 안 됨</span></p><p class="0" style="text-indent: -49.33px; margin-top: 4px; margin-bottom: 4px; margin-left: 49.33px;"><span class="se-zws-run" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;"><br></span></p><p class="0" style="text-indent: -49.33px; margin-top: 4px; margin-bottom: 4px; margin-left: 49.33px;"><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">○&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">가스비</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">,&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">전기요금</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">,&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">냉</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">·</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;">난방비 등 매월 변동될 수 있어&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">사전에</span><span lang="EN-US" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">확정할 수</span><span lang="EN-US" style="font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">&nbsp;</span><span style="font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">없는 비용의 경우 사후 정산</span><span style="font-family: KoPub바탕체 Light; font-size: 15pt;">하도록 함</span></p><p class="0" style="font-size: 13pt; font-weight: bold; margin-top: 4px; margin-bottom: 4px;"><span style="font-family: KoPub돋움체_Pro Bold; font-size: 13pt; font-weight: bold;">&nbsp;</span></p><p class="0" style="margin: 4px 0px 4px 44.8px; text-indent: -44.8px; display: block; -ms-word-wrap: break-word;"><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">해당 외국인근로자의 모국어에 해당하는 공제동의서 양식을 받아 기입 후,</span></p><p class="0" style="margin: 4px 0px 4px 44.8px; text-indent: -44.8px; display: block; -ms-word-wrap: break-word;"><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">근로자의 서명을 받아 사업장에&nbsp;</span><span style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt; font-weight: bold;">상시 비치하십시오. &nbsp;</span></p><p class="0" style="text-indent: -53.73px; margin-top: 4px; margin-bottom: 4px; margin-left: 17.73px;"><span class="se-zws-run" style="letter-spacing: 0px; font-family: KoPub바탕체 Light; font-size: 15pt;"><br></span></p><p style="margin: 0px;"><br></p><p style="margin: 0px;"><br></p><p style="margin: 0px;"><br></p></div>
+        </div>
+    </div>
+
+	
+	    <div id="survey" class="survey sub_inner">
+		    <div class="box1 desktop">
+			    <h3>CONTACT US</h3>
+			</div>
+			<form name="appraise" action="/hrdc/post/BlogPostAppraiseAction.hrd" method="post" onsubmit="return false;" class="box2">
+	            <input type="hidden" name="answer_id" value=""/>
+	            <input type="hidden" name="blogSeq" value="159"/>
+	            <input type="hidden" name="postSeq" value="185230"/>
+	            <input type="hidden" name="appraisePoint" id="appraisePoint" value=""/>
+	            <input type="hidden" name="postCategorySeq" id="postCategorySeq" value="" >
+				<input type="hidden" name="pageNo" id="pageNo" value="" >
+				<input type="hidden" name="categoryDivisionNo" id="categoryDivisionNo" value="" >
+				<input type="hidden" name="searchText" id="searchText" value="" >
+				<input type="hidden" name="searchCode" id="searchCode" value="" >
+
+	            
+	            	
+	            	
+	            		<p>페이지에서 제공하는 정보에 대해 만족하십니까?</p>
+		    			<select name="appraisePointSelect" class="mobile">
+					        <option value="5" selected="selected">매우 만족</option>
+					        <option value="4">만족</option>
+					        <option value="3">보통</option>
+					        <option value="2">불만</option>
+					        <option value="1">매우 불만</option>
+					    </select>
+
+					    <div class="desktop">
+					        <label class="radio"><input type="radio" name="appraisePointRadio" checked="checked" value="5">매우 만족</label>
+					        <label class="radio"><input type="radio" name="appraisePointRadio" value="4">만족</label>
+					        <label class="radio"><input type="radio" name="appraisePointRadio" value="3">보통</label>
+					        <label class="radio"><input type="radio" name="appraisePointRadio" value="2">불만</label>
+					        <label class="radio"><input type="radio" name="appraisePointRadio" value="1">매우 불만</label>
+					    </div>
+
+					    <div class="desktop" id="satisfactionSet">
+					        <input type="text" name="appraiseOption" placeholder="만족도 평가를 직접 입력해주세요.">
+					        <input type="submit" onclick="postAppraiseAction('desktop');" value="확인">
+					    </div>
+					    <div class="mobile" id="satisfactionSet">
+					        <input type="text" name="appraiseOption" placeholder="만족도 평가를 직접 입력해주세요.">
+					        <input type="submit" onclick="postAppraiseAction('mobile');" value="확인">
+					    </div>
+	            	
+	            
+
+			</form>
+		</div>
+	
+
+	<div class="sub_inner right">
+    	<a href="#none;" onclick="fnListPage();" class="btn2">목록</a>
+	</div>
+
+    <form name="BlogPostViewForm" id="searchSet" action="" method="post">
+       	<input type="hidden" name="blogSeq" id="blogSeq" value="" >
+		<input type="hidden" name="postCategorySeq" id="postCategorySeq" value="" >
+		<input type="hidden" name="pageNo" id="pageNo" value="" >
+		<input type="hidden" name="categoryDivisionNo" id="categoryDivisionNo" value="" >
+		<input type="hidden" name="searchText" id="searchText" value="" >
+		<input type="hidden" name="searchCode" id="searchCode" value="" >
+	</form>
+
+  </section>
+
+
+	</div>
+
+	<footer>
+		<div id="footMenuSet">
+			<div class="inner">
+		      	<ul id="footMenu1">
+		        	<li><a target="_blank" href="https://www.hrdkorea.or.kr/ksh/1/2/1">개인보호정책</a></li>
+		        	<li><a target="_blank" href="https://www.hrdkorea.or.kr/ksh/1/3/2">저작권보호정책</a></li>
+		        	<li class="desktop_inlineBlock"><a target="_blank" href="https://www.hrdkorea.or.kr/ksh/1/1/1">뷰어다운로드</a></li>
+					
+					
+		      	</ul>
+		      	<div id="footMenu2">
+		      		<!-- 2021.12.08 퍼블요청중 (추후 작업예정) -->
+		        	<!-- <a id="branch" class="desktop_inlineBlock" href="#">전국 지역본부 지사 확인하기</a> -->
+		        	<a id="webwatch" href="http://www.webwatch.or.kr/Situation/WA_Situation.html?MenuCD=110" target="_blank"><span class="blind">웹접근성 우수사이트</span></a>
+		      	</div>
+		    </div>
+		</div>
+		<div class="inner" id="addressSet">
+		    <h2>
+		    	<a href="#none"><span class="blind">한국산업인력공단 전북지사</span></a>
+		    	<img src="/hrdc/image/new/jeonbuk_BI_FT.png" alt="HRDK 전북지사 한국산업인력공단" />
+		    </h2>
+		    <address>
+		    	
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					<!-- 전북지사 -->
+						
+						
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				
+		      	<span class="t1">주소<span class="desktop_inlineBlock">: </span><br class="mobile"> 전북 전주시 덕진구 유상로 69 (팔복동) (우)54852</span>
+		      	<span class="mobile">전화</span>
+		      	<span class="t2">전화: 063-210-9200</span>
+		      	
+		    </address>
+		</div>
+	</footer>
+
+</body>
+</html>

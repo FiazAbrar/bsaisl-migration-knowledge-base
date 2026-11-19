@@ -1,0 +1,6 @@
+SOURCE: https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-boesl/2024/12/2cc8b23a6f5e4953992b8bb02c055cf6.pdf | scanned table "Category wise Migration cost of BOESL", linked from BOESL page "কর্মী প্রেরণে বোয়েসেলের সার্ভিস চার্জ" (https://boesl.gov.bd/pages/static-pages/6922db6a933eb65569e0a043); first remark "Approved by Board meeting No-288, 28.10.22" | no text layer; South Korea row transcribed by hand 2026-11-19 from the rendered page (enlarged 3x)
+
+Category wise Migration cost of BOESL
+Columns: SL | Applicable Country | Category | Total Migration Cost in BDT/$ | Proposed Total Migration Cost | Service Charge BDT | VAT (Service Charge * 15%) | Wage Earners Welfare Fee BDT | Pre Exit Processing & Training (PEPT) Fee (Including Training Material & Food) BDT | Insurance Fee BDT | Smart Card Fee BDT | Medical & mygrams Fee BDT | Immigration Clearance BDT | PDO & Fingerprint BDT | Endorsement Fee/Visa Processing Fee BDT | Data Entry BDT | Remarks
+5 | South Korea | EPS | 240$ | 240$ | 22,560/- | 3,384/- | 3,500/- | 2,000/- | 490/- | 250/- | - | 800/- | - | 5,400/- | 200/- | Need Approval by Board
+1 | Kuwait | Professional | 87,340/- | 52850/- | 39,400/- | 5,910/- | 3,500/- | 3,000/- | 490/- | 250/- | - | - | - | - | 300/- | Approved by Board meeting No-288,28.10.22

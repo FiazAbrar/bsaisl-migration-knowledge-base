@@ -1,0 +1,663 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Foreign Seasonal Workers | Easy to Find, Practical Law</title>
+
+    
+    
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Title" content="Easy to Find, Practical Law" />
+<meta name="description" content="The easy legal information service, toward conveniences for business and the people" />
+<meta name="keywords" content="Easy Law, Pracitcal Law, Life Laws, Ministry of Government Legislation, MOLEG" />
+<meta name="Claasification" content="Easy to Find, Practical Law, Life Laws, Laws" />
+<meta name="robots" content="index, follow" />
+<meta name="author" content="Ministry of Government Legislation" />
+<meta property="og:title" content="Easy to Find, Practical Law"/>
+<meta property="og:description" content="Foreign Seasonal Workers"/>
+<meta property="og:image" content="http://www.easylaw.go.kr/CSM/images/layout/gnb_logo.png"/>
+
+    
+    
+<link rel="stylesheet" type="text/css" href="/CSM/css/layout.css?v260514" />
+    
+
+<script type="text/javascript" src="/common/js/jquery-1.7.2.min.js" ></script>
+<script type="text/javascript" src="/CSM/js/csmCommon.js" ></script>
+<script type="text/javascript" src="/common/js/jquery.jListbox.js" ></script>
+<script type="text/javascript" src="/CSM/js/csmCookie.js" ></script>
+<script type="text/javascript" src="/CSM/js/cookie.jquery.js"></script>
+<script type="text/javascript" language="javascript" src="/common/js/jquery.dotdotdot.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var csmSeq = 2319; 
+var ua  = navigator.userAgent.toLowerCase();
+
+function isIE(){
+	if(ua.indexOf("MSIE")>0 || ua.indexOf("like gecko")>0) {
+		return true; 
+	} else { 
+		return false;
+	}
+}
+
+//화면로드
+jQuery(document).ready(function () {
+    $("#lang_jumpmenu").jListbox2();
+    $("#livingareas").jListbox();
+    
+    $("#alivingareas_jlb").attr("href", "#" + $("#livingareas").attr("id"));
+    $("#alang_jumpmenu_jlb2").attr("href", "#" + $("#lang_jumpmenu").attr("id"));
+    
+    //선택한 언어명으로 타이틀명 변경
+ //   $("#titleNm").text($("#lang_jumpmenu option:selected").text());
+    var langCd = $("#lang_jumpmenu option:selected").val();
+
+    if (langCd  == '700101') {$("#titleNm").text("ENGLISH");}
+    if (langCd  == '700102') {$("#titleNm").text("CHINESE");}
+    if (langCd  == '700103') {$("#titleNm").text("ARABIC");}
+    if (langCd  == '700104') {$("#titleNm").text("VIETNAMESE");}
+    if (langCd  == '700105') {$("#titleNm").text("INDONESIAN");}
+    if (langCd  == '700106') {$("#titleNm").text("THAI");}
+    if (langCd  == '700107') {$("#titleNm").text("JAPANESE");}
+    if (langCd  == '700108') {$("#titleNm").text("UZBEK");}
+    if (langCd  == '700109') {$("#titleNm").text("MONGOLIAN");}
+    if (langCd  == '700110') {$("#titleNm").text("BENGALI");}
+    if (langCd  == '700111') {$("#titleNm").text("NEPALI");}
+    if (langCd  == '700112') {$("#titleNm").text("KHMER");}
+
+
+    var langCd = $("#langCd").attr('value');
+    var ccfNo = $("#ccfNo").attr('value');
+    var cciNo = $("#cciNo").attr('value');
+    var cnpClsNo = $("#cnpClsNo").attr('value');
+    
+    //메뉴 상태 유지를 위해 쿠기 조회
+    arrMenuShowHideCookie = getCookie('csmArrMenuShowHide');
+    
+    selectCciNo(ccfNo,cciNo);
+    csmOvCnpRetrieve(langCd, ccfNo,cciNo,cnpClsNo);
+    
+    //메뉴 상태 쿠키값을 화면에 적용
+    var tmpMenuShowHide = arrMenuShowHideCookie.split(',');
+    $.each(tmpMenuShowHide,function(idx,value){
+    	if (value.substring(9,12) == csmSeq ) arrMenuShowHide.push(value);
+    });
+    
+    if ('open' == getCookie('csmMenuAllOpenClose')) //메뉴가 all open 인경우 계속 유지
+    {
+    	csmTreeOpen();
+    }else
+    {
+    	getMenuShowHideCookie(); //이전 메뉴 상태 적용	
+    }
+    
+    //My Navigation
+    addMyNaviMul("700101_" + csmSeq+"_"+ccfNo+"_"+cciNo+"_"+cnpClsNo);
+
+    if("700101" != langCd && "700105" != langCd && "700104" != langCd && "700111" != langCd && "700109" != langCd && "700103" != langCd && "700106" != langCd){
+    	//$(".lnb_wrap > .body").css("white-space","break-word");
+	    $(".lnb_wrap > .body").css("word-wrap","break-word");
+	    if("700110" != langCd && "700112" != langCd) {
+		   	$(".lnb_wrap > .body").css("word-break","break-all");
+	    }
+    }
+});
+
+//만족도 조사 쿠키값 저장
+function SatisfactionCookie(sCmsSeq){
+    $.cookie('csmCookie', sCmsSeq);
+}
+
+var chkShowHide; 
+var menuSelCciNo;
+var setMenuShowHide;
+var arrMenuShowHide = [];
+var arrMenuShowHideCookie;
+
+//현재 메뉴 상태를 큐키에 저장
+function setMenuShowHideCookie(setMenuShowHide){
+    var chkSH = setMenuShowHide.substring(0,4);
+    var menuNo = setMenuShowHide.substring(4,setMenuShowHide.length);
+
+    //hide 일때 배열에서 제거
+    if ('hide' == chkSH){
+    	arrMenuShowHide = $.grep(arrMenuShowHide,function(value){
+    		return value != 'show' + menuNo;
+    	});
+    }
+	
+	if ('show' == chkSH){
+		 arrMenuShowHide.push(setMenuShowHide);
+	}
+	setCookie('csmArrMenuShowHide',arrMenuShowHide,1);
+}
+
+//페이지 로딩시에 쿠키값 호출하여 메뉴 상태 처리
+function getMenuShowHideCookie(){
+	$.each(arrMenuShowHide,function(idx,value){         
+	    
+	    var csmMenuArr = value.replace('show#cci','').split('_');
+	    var menuCsmSeq = csmMenuArr[1];
+	    var menuCcfNo  = csmMenuArr[2];
+	    var menuCciNo  = csmMenuArr[3];
+	      
+	    if (menuCsmSeq != csmSeq) return;
+	    
+	    $("#cci_"+menuCsmSeq + "_" + menuCcfNo + "_" + menuCciNo).parent("li").each(function(index) {
+	          if($(this).attr('class') == 'menu3'){
+	              $(".menu3").children("div").each(function(index) {
+	                  if("cci_" + menuCsmSeq +"_"+menuCcfNo+"_"+menuCciNo == $(this).attr('id') ){
+	                      if($(this).parent("li").attr('class') == "menu3"){
+	                          $(this).parent("li").attr('class','menu3_on');
+	                          $(this).attr('class','text blueS_text');
+	                      }
+	                  }
+	              });
+	              
+	              $(".menu4").children("div").each(function(index) {
+	                  if($(this).attr('id').indexOf("cnpcls_"+menuCsmSeq +"_"+menuCcfNo+"_"+menuCciNo) > -1 ){
+	                      $(this).parent("li").attr('style','display:block');
+	                      $(this).attr('class','textline blackS_text');
+	                  }
+	              });
+
+	              $(".menu4_on").children("div").each(function(index) {
+	                  if($(this).attr('id').indexOf("cnpcls_"+menuCsmSeq +"_"+menuCcfNo+"_"+menuCciNo) > -1 ){
+	                      $(".menu4_on").attr('style','display:block');
+	                  }
+	              });
+	          }
+	    });
+	  });
+}
+
+//트리 메뉴 전체 상태 쿠키저장
+function setTreeOpenClose(status){
+	setCookie('csmMenuAllOpenClose',status,1);
+}
+
+//관심항목 클릭시 관심규정(활성화/비활성화)
+function selectCciNo(ccfNo,cciNo){
+	menuSelCciNo = "#cci_"+csmSeq + "_" + ccfNo + "_" + cciNo;
+	$("#cci_"+csmSeq + "_" + ccfNo + "_" + cciNo).parent("li").each(function(index) {
+		chkShowHide = 'show';
+    	if($(this).attr('class') == 'menu3'){
+            $(".menu3").children("div").each(function(index) {
+                if("cci_" + csmSeq +"_"+ccfNo+"_"+cciNo == $(this).attr('id') ){
+                    if($(this).parent("li").attr('class') == "menu3"){
+                        $(this).parent("li").attr('class','menu3_on');
+                        $(this).attr('class','text blueS_text');
+                    }
+                }
+            });
+            
+            $(".menu4").children("div").each(function(index) {
+                if($(this).attr('id').indexOf("cnpcls_"+csmSeq +"_"+ccfNo+"_"+cciNo) > -1 ){
+                    $(this).parent("li").attr('style','display:block');
+                    $(this).attr('class','textline blackS_text');
+                }
+            });
+
+            $(".menu4_on").children("div").each(function(index) {
+                if($(this).attr('id').indexOf("cnpcls_"+csmSeq +"_"+ccfNo+"_"+cciNo) > -1 ){
+                    $(".menu4_on").attr('style','display:block');
+                }
+            });
+                                  
+        }else{
+        	chkShowHide = 'hide';
+        	$(".menu3_on").children("div").each(function(index) {
+                 if("cci_"+csmSeq +"_"+ccfNo+"_"+cciNo == $(this).attr('id') ){
+                     if($(this).parent("li").attr('class') == "menu3_on"){
+                         $(this).parent("li").attr('class','menu3');
+                         $(this).attr('class','text grayL_text');
+                     }
+                 }
+             });
+             $(".menu4").children("div").each(function(index) {
+                 if($(this).attr('id').indexOf("cnpcls_" + csmSeq +"_"+ccfNo+"_"+cciNo) > -1 ){
+                     $(this).parent("li").attr('style','display:none');
+                     $(this).attr('class','textline grayL_text"');
+                 }
+             });
+
+             $(".menu4_on").children("div").each(function(index) {
+                 if($(this).attr('id').indexOf("cnpcls_" + csmSeq +"_"+ccfNo+"_"+cciNo) > -1 ){
+                	 $(".menu4_on").attr('style','display:none');
+                 }
+             });                                
+        }
+    }); 
+	
+	setMenuShowHide = chkShowHide + menuSelCciNo;
+	setMenuShowHideCookie(setMenuShowHide);
+}
+
+//생활분야 트리 ALL OPEN
+function csmTreeOpen(){
+    $(".menu3").children("div").each(function(index) {
+        $(this).parent("li").attr('class','menu3_on');
+        $(this).attr('class','text blueS_text');
+    });
+    
+    $(".menu4").children("div").each(function(index) {
+        $(this).parent("li").attr('style','display:block');
+        $(this).attr('class','textline blackS_text');
+    });
+
+    $(".menu4_on").children("div").each(function(index) {
+        $(this).parent("li").attr('style','display:block');
+    });
+    setTreeOpenClose('open');
+}
+
+//생활분야 트리 ALL CLOSE
+function csmTreeClose(){
+    $(".menu3_on").children("div").each(function(index) {
+        $(this).parent("li").attr('class','menu3');
+        $(this).attr('class','text grayL_text');
+    });
+    
+    $(".menu4").children("div").each(function(index) {
+        $(this).parent("li").attr('style','display:none');
+        $(this).attr('class','textline grayL_text"');
+    });
+
+    $(".menu4_on").children("div").each(function(index) {
+        $(this).parent("li").attr('style','display:none');
+    });   
+    setTreeOpenClose('close');
+}
+
+//생활분야 트리(MAX,MINI)
+function maxMinView(){
+	var langCd = $("#langCd").attr('value');
+	if($(".max").attr('class') == 'max'){
+	    $(".max").attr('class','mini');
+	    $(".lnb_mini").attr('class','lnb_max');
+	}else{
+		$(".mini").attr('class','max');
+		$(".lnb_max").attr('class','lnb_mini');
+	}
+}
+
+//생활분야 관심규정 본문조회
+function csmOvCnpRetrieve(langCd, ccfNo,cciNo,cnpClsNo){
+    var seq = "cnpcls_" + csmSeq + "_" + ccfNo + "_" + cciNo + "_" +cnpClsNo;
+	$(".menu4_on").attr('class','menu4');
+    $("div[id="+seq+"]").parent('li').attr('class','menu4_on');
+    
+    $.ajax({
+        url:"CsmOvCnpRetrieveUsingAJax.laf",
+        data: {'langCd':langCd, 'csmSeq':csmSeq , 'ccfNo':ccfNo,'cciNo':cciNo ,'cnpClsNo':cnpClsNo},
+        type:'POST',
+        dataType:'html',
+        timeout : 150000,
+        success: function(response){
+        
+            $("#csmOv").html(response);
+
+            if("700101" != langCd && "700105" != langCd && "700104" != langCd && "700111" != langCd && "700109" != langCd && "700103" != langCd && "700106" != langCd){
+            	$(".text_wrap").css("word-wrap","break-word");
+				if ("700110" != langCd && "700112" != langCd){
+            		$(".text_wrap").css("word-break","break-all");
+            	}
+            }
+        }
+    });
+}
+
+/* Print Page */
+function fovPrint(){
+    window.open('/CSM/CsmOvPrint.laf?langCd=700101','print','toolbar=no,width=780,height=800,location=no,resizable=no,status=no,menubar=no,scrollbars=yes');
+}
+
+/* Send Email */
+function fovEmail(){
+    window.open('/CSM/CsmOvMailSendPre.laf','sendMail','scrollbars=no,toolbar=no,resizable=no,status=no,menubar=no,width=600,height=328');
+} 
+
+//]]>
+
+</script>
+</head>
+<body>
+<div id="skip_navi">
+    <ul>
+        <li><a href="#header_top">go search</a></li>
+        <li><a href="#container_top">go contents</a></li>
+    </ul>
+</div>
+<div class="wrap">
+
+
+
+<div class="header" id="header_top"><!-- 25 -->
+    <div class="gnb">
+        <div class="logo" title="Easy to Find, Practical Law"><a href="/CSM/Main.laf">Easy to Find, Practical Law</a></div>
+        <form name="searchForm" id="searchForm" method="post" action="/CSM/MainSearchResult.laf" onsubmit="mainSearch();return false;">
+        <input type="hidden" name="secName" id="sSecName" value="" />
+        <input type="hidden" name="part1" id="sPart1" value="" />
+        <input type="hidden" name="detailFlag" id="sDetailFlag" value="" />
+        <input type="hidden" name="curPage" id="sCurPage" value="" />
+        <input type="hidden" name="outMax" id="sOutMax" value="" />
+        <div class="top_search">
+            <ul>
+                <li class="input_line">
+                	<label for="txtUnScSct">
+	                	<input type="text" id="txtUnScSct" name="txtUnScSct" title="search" class="input303" />
+                	</label>
+                </li>
+                <li class="but_line">
+                	<input onclick="mainSearch();" type="button" value="SEARCH" class="top_but" title="search" />
+                </li>
+                <li class="clear"></li>
+            </ul>
+        </div>
+        </form>
+        <div class="menubar">
+            <ul>
+                <li class="mynavigationhistory" title="MYNAVIGATIONHISTORY"><a href="/CSM/MyNavigationRetrieve.laf">MY NAVIGATION HISTORY</a></li>
+                <li class="mobile" title="MOBILE"><a href="http://m.easylaw.go.kr/MOM" target="_blank">MOBILE</a></li>
+                <li class="korean" title="KOREAN"><a href="http://www.easylaw.go.kr/CSP/" target="_blank">KOREAN</a></li>
+                <li class="sitemap" title="SITEMAP"><a href="/CSM/CsmSiteMap.laf">SITEMAP</a></li>
+                <li class="clear"></li>
+            </ul>
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+
+<div class="container" id="container_top">
+<!-- 실 컨텐츠 -->
+<div class="bodyLsc">
+<!-- h1 타이틀바 -->
+    <div class="h1_title_bar"><h1 id="titleNm"></h1>
+    <div class="lang_jump">
+        <input type="hidden" id="langCd" name="langCd" value="700101" />
+        <input type="hidden" id="csmSeq" name="csmSeq" value="2319" />
+        <input type="hidden" id="ccfNo" name="ccfNo" value="1" />
+        <input type="hidden" id="cciNo" name="cciNo" value="1" />
+        <input type="hidden" id="cnpClsNo" name="cnpClsNo" value="1" />
+        <label for="lang_jumpmenu">
+	        <select name="lang_jumpmenu" id="lang_jumpmenu" title="language jump menu" onchange="fn_jumpLanguage(value);">
+				<option value="700103" >العربية (Arabic)</option>
+                <option value="700110" >বাংলা (Bengali)</option>
+                <option value="700112" >ភាសាខ្មែរ (Khmer)</option>
+                <option value="700102" >中文 (Chinese)</option>
+                <option value="700101" selected="selected">English (English)</option>
+                <option value="700105" >Bahasa Indonesia (Indonesian)</option>
+                <option value="700107" >日本語 (Japanese)</option>
+                <option value="700109" >Монгол хэл (Mongolian)</option>
+                <option value="700111" >नेपाली (Nepali)</option>
+                <option value="700106" >ภาษาไทย (Thai)</option>
+                <option value="700108" >Oʻzbek tili (Uzbek)</option>
+                <option value="700104" >Tiếng Việt (Vietnamese)</option>
+                
+                
+	        </select>  
+	 	</label>
+    </div>
+    <a href="/CSM/Main.laf"><img src="/CSM/images/common/ico/ico_home.png" alt="home" class="nav"/></a>
+    <div class="clear"></div>
+    </div>
+    
+	
+
+<!-- lnb_mini 시작 -->
+<div class="lnb_mini">
+    
+        
+        
+           <div class="lnb_wrap">
+        
+    
+    <!-- 메뉴 타이틀 영역 -->
+        <div class="head">
+            <ul>
+                <li class="lnb_butline"><div class="max" title="max"><a href="javascript:maxMinView();">max</a></div></li>
+                <li class="clear"></li>
+                <li class="lnb_titleline">Foreign Seasonal Workers</li>
+            </ul>
+        </div>
+        <!-- 메뉴 바디 영역 시작-->
+        <div class="body">
+                <div class="box_but2 view_banner_area">
+                <ul>
+                
+                </ul>
+                </div>
+            <div class="body_butline">
+            <ul>
+                <!-- 목차 전체보기 / 전체닫기 -->
+                <li class="close" title="close"><a href="javascript:csmTreeClose();">close</a> </li>
+                <li class="open" title="open"><a href="javascript:csmTreeOpen();">open</a> </li>
+                <li class="clear"></li>
+            </ul>
+        </div>
+        <!-- 메뉴1세트 시작 -->
+        <div class="menu1_box">
+            <ul>
+                
+                    
+                        
+                        
+                        
+                    
+                
+                    
+                        
+               				<li class="menu2">
+	                 			<a href="SubCnpclsCmd.laf?csmSeq=2319&amp;ccfNo=1&amp;cciNo=1&amp;cnpClsNo=1" onclick="return false;" >   
+	                 				Foreign Seasonal Workers
+	                 			</a>
+               				</li> 
+                        
+                        
+                        
+                    
+                
+                    
+                        
+                        
+                       		<li class="menu3" onclick="javascript:selectCciNo('1','1');" >
+	                            <div class="text grayL_text" id="cci_2319_1_1">
+		                       		<a href="SubCnpclsCmd.laf?csmSeq=2319&amp;ccfNo=1&amp;cciNo=1&amp;cnpClsNo=1" onclick="return false;" >   
+	                            		Foreign Seasonal Workers
+		                            </a>
+	                            </div>
+                            </li> 
+                        
+                        
+                    
+                
+                    
+                        
+                        
+                        
+                        <li class="menu4" style="display: none;">
+                            <div class="textline grayL_text" id="cnpcls_2319_1_1_1" >
+                                <a href="SubCnpclsCmd.laf?csmSeq=2319&amp;ccfNo=1&amp;cciNo=1&amp;cnpClsNo=1" >Foreign Seasonal Workers</a>
+                            </div>
+                        </li>
+                        
+                    
+                               
+            </ul>
+        </div>
+        <!-- 메뉴1세트 끝 -->
+        </div>
+        <!-- 메뉴 바디 영역 끝-->
+    </div>
+</div>
+<!-- lnb_mini 끝 -->
+    
+    
+    <div class="contents">
+        <div id="csmOv">
+	    </div>     
+	        <div class="sub_topbar">
+	            <div title="top"><a href="#header_top">top</a></div>
+	        </div>
+		
+
+		
+    </div>
+    
+    <div class="clear"></div>
+</div>
+
+
+
+<div class="sideR">
+    <ul>
+        <li>
+            <div class="livingareas">
+            	<label for="livingareas">
+		            <select name="livingareas" id="livingareas" title="Living Areas" onchange="fn_moveLivingAreas(value);">
+		                <option value="" selected="selected">Living Areas</option>
+		                
+		                	<option value="3012">Victims of Domestic Violence</option>
+		                
+		                	<option value="3107">Civil Litigation and Dispute Resolution</option>
+		                
+		                	<option value="2329">Franchising (Franchise Agreements)</option>
+		                
+		                	<option value="2497">Tax Benefits for Foreign Nationals</option>
+		                
+		                	<option value="2326">Child Rearing</option>
+		                
+		                	<option value="2494">Child Education</option>
+		                
+		                	<option value="2333">Alimony and Equitable Distribution </option>
+		                
+		                	<option value="2491">Custody and Parental Authority</option>
+		                
+		                	<option value="2332">Using a Foreign Driver’s License</option>
+		                
+		                	<option value="2496">Obtaining a Driver’s License</option>
+		                
+		                	<option value="2564">Startup Support</option>
+		                
+		                	<option value="2495">Lease (Lump-sum Deposit Lease) Agreements</option>
+		                
+		                	<option value="2493">Support for Persons with Disabilities</option>
+		                
+		                	<option value="2330">Support for Single-Parent Families</option>
+		                
+		                	<option value="2319">Foreign Seasonal Workers</option>
+		                
+		                	<option value="2498">Industrial Accident Compensation (For Occupational Injuries)</option>
+		                
+		                	<option value="2331">Using Public Transportation</option>
+		                
+		                	<option value="2500">Financial Transactions</option>
+		                
+		                	<option value="2328">Childbirth Support</option>
+		                
+		                	<option value="2499">Acquisition of Real Estate (Housing, Land)</option>
+		                
+		                	<option value="2325">Employment of Foreign Workers</option>
+		                
+		                	<option value="2492">Extension of Stay and Change of Status of Stay</option>
+		                
+		                	<option value="2808">Subscribing to Four Major Social Insurance Programs</option>
+		                
+		                	<option value="2802">National Health Insurance (Self-employed Insured and Employee Insured)</option>
+		                
+		                	<option value="2806">National Basic Living Security</option>
+		                
+		                	<option value="2799">Acquisition of Nationality by Naturalization</option>
+		                
+		                	<option value="2805">Permanent Residency</option>
+		                
+		                	<option value="2807">Native Instructors</option>
+		                
+		                	<option value="2804">Restaurant Opening</option>
+		                
+		                	<option value="2800">Wage Arrears (Unpaid Wages)</option>
+		                
+		                	<option value="2803">Housing Lease Deposit Refunds</option>
+		                
+		                	<option value="2801">Prevention of Voice Phishing</option>
+		                
+		                	<option value="2933">Handling of Traffic Accidents and Liability</option>
+		                
+		                	<option value="2950">Persons with Multiple Nationalities</option>
+		                
+		                	<option value="2971">Victims of Secondhand Transactions</option>
+		                
+		            </select>  
+            	</label>
+            </div>
+        </li>
+        <li class="skybanner_bookmark" title="My Search Bookmark"><a href="/CSM/BookmarkRetrieve.laf">bookMark</a></li>
+        <li class="skybanner_history" title="My Navigation History"><a href="/CSM/MyNavigationRetrieve.laf">history</a></li>
+        <li class="skybanner_customized" title="Customized">
+            <a href="/CSM/CustLsiSrvRetrieve.laf?langCd=700101" class="btnCus1">다국어 맞춤형 법령정보</a>
+            <a href="/CSM/CustLsiSrvRetrieve.laf?langCd=700102" class="btnCus2">다국어 맞춤형 법령정보</a>
+        </li>
+    </ul>
+</div>
+
+</div>
+<div class="clear"></div>
+
+
+
+
+<div class="footer">
+    <div class="footer_bg">
+        <div class="fl ft_logo">Ministry of Government Legislation</div>
+        <div class="ft_box fl">
+            <ul class="img_box">
+                <li class="privacyguidelines" title="Privacy Policy"><a href="/CSM/CsmPrivacyGuidelines.laf">Privacy Policy</a></li>
+                <li class="introduction" title="Introduction"><a href="/CSM/CsmIntroduction.laf">Introduction</a></li>
+                <li class="search" title="Search"><a href="/CSM/CsmSearchDetail.laf">Search</a></li>
+            </ul>
+            <div class="adr">
+                <p>Government Complex-sejong, 20 Doum 5-ro, Government Complex-Sejong, Sejong-si 30102, Republic of Korea </p>
+			    <p>Tel : (82)-(44)-200-6900</p>
+			    <p>Copyright(c) 1997-2023 Korea Ministry of Government Legislation. All right reserved.</p>
+            </div>
+        </div>
+        <div class="fr img_qr">모바일바로가기 정보무늬</div>
+    </div>
+</div>
+
+</div>
+</body>
+</html>

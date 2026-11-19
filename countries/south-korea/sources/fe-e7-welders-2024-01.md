@@ -1,0 +1,37 @@
+![logo](https://thefinancialexpress.com.bd/img/logo.png)
+
+# 24 skilled workers fly to S Korea with E-7 jobs today
+
+FE REPORT \| Tuesday, 30 January 2024
+
+------------------------------------------------------------------------
+
+\
+A total of 24 workers are scheduled to fly to South Korea with E-7 category jobs today (Tuesday), while four others will go there in the first week of February.\
+On the other hand, 150 workers are in the pipeline to depart for Korea this year, according to recruiters.\
+Hanwha Ocean, a shipbuilding company, has hired the workers for welding works through RRC Human Resources Service Ltd, a Bangladeshi private recruitment agency.\
+RRC managing director Alamgir Kabir said they completed all the procedure of sending 28 workers to Korea.\
+Twenty-four workers will fly on Tuesday and four others on February 07, he told the FE.\
+"Some 150 workers are in the pipeline. Hopefully, they would be employed by this year for the Korean job market."\
+South Korea hires skilled manpower from different countries under E-7 category.\
+Bangladesh has so far sent 76 workers under this category. Of them, 36 workers went to Korea through the RRC.\
+According to Mr Kabir, the RCC is the lone recruiter that is sending E-7 workers to Korea.\
+"Last year, we sent 36 welders for Samsung Heavy Industries," he added.\
+"Two to five years of work experience is required to get these jobs, but those with 10 to 12 years of experience get preference," cited Mr Kabir.\
+Korea needs welders, masons, carpenters, pipe fitters and scaffolders among 40 types of work. It also requires BSc and diploma engineers and architects.\
+In Korea, a skilled worker earns a monthly salary of around Tk 250,000. Migration cost is two months salaries, which is equivalent to around Tk 500,000 each.\
+Saleh Ahmed Mujaffor, director general of the Bureau of Manpower Employment and Training (BMET), was present as the chief guest at a reception for workers going to Korea.\
+He suggested that recruiters send more skilled workers abroad. "We are also working to increase skilled workers to send abroad."\
+The BMET DG advised the workers to follow the Korean rules and regulations.\
+The country mainly sends E-9 category or semi-skilled workers to Korea through an employment permit system.\
+The Bangladesh Overseas Employment and Services Limited (BOESL) has sent a total of 32,000 semi-skilled workers to the market since 2008.
+
+*[\[email protected\]](/cdn-cgi/l/email-protection)*
+
+### Editor : Shamsul Huq Zahid
+
+Published by Syed Nasim Manzur for International Publications Limited from Tropicana Tower (4th floor), 45, Topkhana Road, GPO Box : 2526 Dhaka- 1000 and printed by him The Transcraft Limited, 229, Tejgaon Industrial Area, Dhaka-1208.
+
+Telephone : PABX : 9553550 (Hunting), 9513814, 7172017 and 7172012 Fax : 880-2-9567049
+
+Email : [\[email protected\]](/cdn-cgi/l/email-protection#2c49484558435e6c5844494a45424d424f454d4049545c5e495f5f024f4341024e48), [\[email protected\]](/cdn-cgi/l/email-protection#197f7c61696b7c6a6a2f21597e74787075377a7674)

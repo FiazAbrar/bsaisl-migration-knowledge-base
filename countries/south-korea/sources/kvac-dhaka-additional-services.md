@@ -1,0 +1,117 @@
+##### [ Home ](index.html)  *arrow_forward* [ Additional Services ](additional-services.html) 
+
+# Additional Services
+
+**Our value-added services are optional and come at an additional cost. They have no bearing on expediting your visa process or favourable decision-making.**
+
+[]()
+
+[]()
+
+### 
+
+| Optional Service Price (Per Applicant) | BDT   |
+|----------------------------------------|-------|
+| Photocopy (1st 4 pages)                | 60    |
+| Printing (1st 3 Pages)                 | 110   |
+| Photograph (4 Copies)                  | 480   |
+| Courier Service                        | 1,464 |
+| SMS Service                            | 301   |
+| Form Filling                           | 1,056 |
+| Premium Lounge                         | 7,076 |
+
+ 
+
+**Photograph (4 copies)**
+
+**Description:**
+
+Support your application with high-quality personal photographs.
+
+Want to ensure that your photos meet the required standards, or forget to bring an image of your own? Not to worry!
+
+Our friendly staff available to photograph you during your visit to the Visa Application Centre - ensuring that you have a photograph that meets the quality standards required for visa submission. It’s quick, affordable and easy - and our staff can handle it all for you.
+
+**Photocopy (1st 4 pages)**
+
+**Description:**
+
+Save time and protect your valuable original documents with our Photocopying service.
+
+The quality of your photocopied documents is extremely important to your application, and with our Photocopying service, you can be sure that your documents are ready for your visa application.
+
+We offer fast, high-powered machines working on top-quality paper at our Visa Application Centre.
+
+It’s fast, easy and affordable.
+
+This service can be availed at the Visa Application Centre during your visit.
+
+**SMS**
+
+**Description:**
+
+Stay up to date on the progress of your application, with regular SMS updates.
+
+The SMS service keeps you in the loop at all times - sending an automated message to your mobile phone at key stages of the application process.
+
+Which means no needless worry, no long periods of uncertainty, and no wondering about the status of your application.
+
+**Please note:**
+
+These updates are currently only available in English.
+
+**Form Filling**
+
+**Description:**
+
+Our team will help you successfully complete your paperwork at the Visa Application Centre.
+
+Our staff will guide you through the process from start to finish, explaining the questions, and recording your answers.
+
+**Please note:**
+
+We cannot answer questions on your behalf or fill in answers based on assumptions.
+
+This service is only available in selected Centres.
+
+**Printing Service (1st 3 pages)**
+
+**Description:**
+
+Support your visa application with high-quality printed documents.
+
+Whether you need an application form or a supporting document, we offer high-quality printing services at our Visa Application Centre.
+
+Our top-quality inks and papers ensure that your application is clear, legible and fit for submission - meeting the exacting standards required for your visa application.
+
+This service can be availed at the Visa Application Centre during your visit.
+
+**Courier Service**
+
+**Description:**
+
+Get your documents delivered quickly and directly to your home or office.
+
+Safe, fast and convenient - we’ll arrange the return of your documents and passports directly to you, at a time and location of your choosing.
+
+Save time and travel costs, with no need to arrange multiple visits to the Visa Application Centre.
+
+**Premium Lounge**
+
+**Description:**
+
+For a more personalized service at the Visa Application Centre, you can purchase access to our Premium Lounge. You can also purchase this service during your visit to our Visa Application Centre at any given time, simply by informing a staff member.
+
+This service includes:
+
+- Direct access to a Premium Service counter where our staff will verify the documents provided, and take payment in a single location
+
+- Cold and hot beverages available at your disposal
+
+- A dedicated team member assisting during the submission process
+
+- Printing, Photocopy and SMS
+
+- The option of submitting any missing documents before 14:00 the same day
+
+This service does not guarantee the right to obtain a visa, nor faster processing of your visa application by the Mission. Using the Premium Lounge service does not guarantee the success of your visa application or affect the service standard.

@@ -1,0 +1,858 @@
+<html>
+
+<head>
+  <title>Dhaka | vfsglobal</title>
+  <meta data-n-head="1" charset="utf-8">
+  <meta data-n-head="1" data-hid="description" name="description" content="VFS Global">
+  <link data-n-head="1" rel="icon" type="image/x-icon" href="assets/images/vfs-global-logo-short.png">
+    <link data-n-head="1" rel="icon" type="image/x-icon" href="assets/images/favicon.png">
+  <link data-n-head="1" rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons">
+  <link data-n-head="1" rel="stylesheet" type="text/css"
+    href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&amp;display=swap">
+  <link data-n-head="1" rel="stylesheet" type="text/css"
+    href="https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css">
+  <style type="text/css">
+    h1[data-v-111c1622] {
+      font-size: 20px
+    }
+  </style>
+  <link rel="stylesheet" href="assets/css/style.css" type="text/css">
+  <style>
+    .ul-rightbar {
+      list-style: none;
+    }
+
+    .ul-rightbar .active {
+      color: var(--brand-orange);
+    }
+
+    .ul-rightbar li {
+      padding: 0.3rem 0;
+    }
+
+    .links {
+      cursor: pointer;
+    }
+
+    .link-text {
+      padding: 0 0 0.6rem;
+      margin-right: 1rem;
+    }
+
+    .link-text a {
+      color: #000;
+    }
+
+    .link-text a:hover {
+      text-decoration: none;
+    }
+
+    .animatefortoppadding {
+      padding-top: 28px;
+      transform: scale(1);
+      transition: all .15s ease;
+    }
+
+    section {
+      margin-top: 80px;
+      margin-bottom: 80px;
+    }
+
+    #section_1 {
+      scroll-margin-top: 80px;
+    }
+
+    #section_2,
+    #section_3,
+    #section_4,
+    #section_5,
+    #section_6,
+    #section_7 {
+      scroll-margin-top: 150px;
+    }
+
+    .margintop {
+      margin-top: 150px;
+    }
+
+    .container.row-rep span h2 {
+      margin-bottom: 2rem;
+      margin-top: 2rem
+    }
+
+    .container.row-rep span h3 {
+      margin-bottom: 1.5rem !important;
+      margin-top: 3rem
+    }
+
+    .container.row-rep span ul {
+      margin-bottom: 2rem;
+      margin-top: 2rem
+    }
+
+    .container.pl-0.pr-0 h2 {
+      margin-top: 5rem;
+      margin-bottom: 2rem
+    }
+
+    .container.pl-0.pr-0 ul {
+      margin-bottom: 2rem;
+      margin-top: 2rem
+    }
+
+    .view-link {
+      text-decoration: underline;
+      color: var(--brand-orange) !important
+    }
+
+    .diplay-grid {
+      display: grid
+    }
+
+    .sticky-menu {
+      padding: 12px 0 1px
+    }
+
+    @media (min-width:992px) {
+      .sticky-menu {
+        max-width: 960px;
+        margin: 0 auto;
+        padding-left: 0;
+        padding-right: 0
+      }
+    }
+
+    @media (min-width:1200px) {
+      .sticky-menu {
+        max-width: 1140px
+      }
+    }
+
+    .navigation-menus-attend {
+      top: 57px
+    }
+
+    .navigation-menus-attend,
+    .navigation-menus-attend-extened {
+      opacity: 0;
+      position: fixed;
+      left: 0;
+      right: 0;
+      background: #fff;
+      z-index: 1;
+      border-bottom: 1px solid #e0e5ea;
+      border-top: 1px solid #e0e5ea;
+      margin: 0 -15px
+    }
+
+    .navigation-menus-attend-extened {
+      top: 141px
+    }
+
+    @media (max-width:991.9px) {
+
+      .navigation-menus-attend,
+      .navigation-menus-attend-extened {
+        top: 68px
+      }
+    }
+
+    .display-top {
+      z-index: 9;
+      opacity: 1
+    }
+
+    .notop {
+      z-index: 0;
+      opacity: 0
+    }
+
+    .active-there {
+      border-bottom: 4px solid var(--brand-orange)
+    }
+
+    nav {
+      position: fixed;
+      top: 0;
+      right: 0;
+      width: 10em
+    }
+
+    section {
+      margin-top: 80px;
+      margin-bottom: 80px
+    }
+
+    .ul-attend {
+      overflow-y: auto;
+      list-style: none;
+      display: flex;
+      padding-left: 0
+    }
+
+    .ul-attend::-webkit-scrollbar {
+      width: 1em
+    }
+
+    .link-text {
+      padding: 0 0 .6rem;
+      margin-right: 1rem
+    }
+
+    .ul-rightbar {
+      list-style: none
+    }
+
+    .links {
+      cursor: pointer
+    }
+
+    .ul-rightbar li {
+      padding: .3rem 0
+    }
+
+    .ul-rightbar .active {
+      color: var(--brand-orange)
+    }
+
+    .ul-attend .active .link-text {
+      border-bottom: 4px solid var(--brand-orange);
+      display: flex
+    }
+
+    .animatefortoppadding {
+      padding-top: 28px;
+      transform: scale(1);
+      transition: all .15s ease
+    }
+
+    .ul-rightbar :hover {
+      color: var(--brand-orange) !important
+    }
+
+    .container.what-to-bring div ul li p {
+      font-size: 16px !important;
+      color: #62707c
+    }
+
+    .container.row-rep.what-to-bring div>ul {
+      list-style-type: none;
+      margin-bottom: 5rem;
+      margin-top: 5rem
+    }
+
+    .container.row-rep.what-to-bring div>ul li {
+      padding-left: 2rem
+    }
+
+    .container.row-rep.what-to-bring div>ul li:before {
+      width: 24px;
+      height: 32px;
+      content: " ";
+      position: absolute;
+      background: url("data:image/svg+xml;utf8,<?xml version='1.0' encoding='utf-8'?><svg width='18' height='18' viewBox='0 0 1792 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1671 566q0 40-28 68l-724 724-136 136q-28 28-68 28t-68-28l-136-136-362-362q-28-28-28-68t28-68l136-136q28-28 68-28t68 28l294 295 656-657q28-28 68-28t68 28l136 136q28 28 28 68z'/></svg>") no-repeat;
+      -webkit-filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);
+      filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);
+      background-size: 100% 100%
+    }
+
+    @media (min-width:992px) {
+      [dir=ltr] .container.row-rep.what-to-bring div>ul li:before {
+        margin-left: -54px
+      }
+
+      [dir=rtl] .container.row-rep.what-to-bring div>ul li:before {
+        margin-right: -54px
+      }
+    }
+
+    @media (max-width:991.9px) {
+      .ul-attend {
+        padding-left: 23px !important
+      }
+
+      [dir=ltr] .container.row-rep.what-to-bring div>ul li:before {
+        margin-left: -35px
+      }
+
+      [dir=rtl] .container.row-rep.what-to-bring div>ul li:before {
+        margin-right: -35px
+      }
+    }
+
+    .ul-attend li a {
+      color: #000;
+      text-decoration: none;
+    }
+
+    .hidediv {
+      display: none;
+    }
+
+    .showdiv {
+      display: block;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="__nuxt">
+    <!---->
+    <div id="__layout">
+      <div dir="ltr" class="">
+        <div class="full-widht-header">
+          <div class="container p-0">
+            <div class="row">
+              <div class="col-10 pt-2 pb-1">
+                <a href="index.html" class="no-anchor nuxt-link-active">
+                  <img src="assets/images/c4819f5.png" alt="vfs-global-logo" class="logo-height">
+                </a>
+              </div>
+              <div class="col-2 text-right pt-2 pb-2">
+                <div class="language-selector-select-item">
+                  <div id="dropdown-1" class="dropdown b-dropdown my-2 bg-white language-dropdown btn-group">
+                    <!---->
+                    <button id="dropdown-1__BV_toggle_" aria-haspopup="true" aria-expanded="false" type="button"
+                      class="btn dropdown-toggle btn-outline-language" onclick="showlanguage()">English</button>
+                    <ul role="menu" tabindex="-1" aria-labelledby="dropdown-1__BV_toggle_" class="dropdown-menu"
+                      id="language">
+                      <li role="presentation">
+                        <a role="menuitem" target="_self" href="#" class="dropdown-item"> English </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <!---->
+              </div>
+            </div>
+          </div>
+          <div class="cstm-navbar">
+            <!---->
+            <div>
+              <div class="container py-0 px-0 mb-1 navigation-menus logo-select full-widht-header nav-menu">
+                <div class="d-flex py-15">
+                  <div class="menu-contain nav-hover">
+                    <a href="index.html" class="text-decoration-none h-100 position-relative d-block"> Home </a>
+                  </div>
+                  <div title="Apply for a visa" class="menu-contain nav-hover">
+                    <a href="apply-visa.html" class="text-decoration-none h-100 position-relative d-block"> Apply for a
+                      visa </a>
+                  </div>
+                  <div title="Book an appointment" class="menu-contain nav-hover">
+                    <a href="schedule-an-appointment.html" class="text-decoration-none h-100 position-relative d-block">
+                      Book an appointment </a>
+                  </div>
+                  <div title="Attend a centre" class="menu-contain nav-hover">
+                    <a href="attend-centre.html"
+                      class="text-decoration-none h-100 position-relative d-block nuxt-link-exact-active nuxt-link-active">
+                      Attend a centre </a>
+                  </div>
+                  <div title="Additional Services" class="menu-contain nav-hover">
+                    <a href="additional-services.html" class="text-decoration-none h-100 position-relative d-block">
+                      Additional Services </a>
+                  </div>
+                  <div title="Track your application" class="menu-contain nav-hover">
+                    <a href="track-application.html" class="text-decoration-none h-100 position-relative d-block"> Track
+                      your application </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="mobile-width-header bg-white sticky-top">
+          <!---->
+          <div class="container-fluid">
+            <div class="row col-12 m-auto px-0">
+              <div class="w-80">
+                <a href="index.html" class="no-anchor nuxt-link-exact-active nuxt-link-active">
+                  <img src="assets/images/c4819f5.png" alt="vfs-global-logo" class="vfs-global-logo">
+                </a>
+              </div>
+              <div class="w-20 m-auto">
+                <button data-target="#navbarsExampleDefault" data-toggle="collapse" aria-expanded="true"
+                  class="float-right navbar-toggler" onclick="showMobileMenu()">
+                  <span class="line"></span>
+                  <span class="line"></span>
+                  <span class="line" style="margin-bottom: 0px;"></span>
+                </button>
+              </div>
+            </div>
+            <div class="row mob-menu-box" style="display: none;" id="mobile-menu">
+              <div class="mobile-menu-list"><a href="index.html"
+                  class="text-decoration-none nuxt-link-exact-active nuxt-link-active"><span>Home</span></a></div>
+              <div class="mobile-menu-list"><a href="apply-visa.html" class="text-decoration-none"><span>Apply for a
+                    visa</span></a></div>
+              <div class="mobile-menu-list"><a href="schedule-an-appointment.html"
+                  class="text-decoration-none"><span>Book an appointment</span></a></div>
+              <div class="mobile-menu-list"><a href="attend-centre.html" class="text-decoration-none"><span>Attend a
+                    centre</span></a></div>
+              <div class="mobile-menu-list"><a href="additional-services.html"
+                  class="text-decoration-none"><span>Additional Services</span></a></div>
+              <div class="mobile-menu-list"><a href="track-application.html" class="text-decoration-none"><span>Track
+                    your application</span></a></div>
+              <div class="col text-right language">
+                <div class="pt-11">
+                  <div id="dropdown-1" class="dropdown b-dropdown m-2 language-dropdown show btn-group"><!----><button
+                      id="dropdown-1__BV_toggle_" aria-haspopup="true" aria-expanded="true" type="button"
+                      class="btn dropdown-toggle btn-outline-language" onclick="showlanguagemobile()">English</button>
+                    <ul id="languagemobile" role="menu" tabindex="-1" aria-labelledby="dropdown-1__BV_toggle_"
+                      class="dropdown-menu"
+                      style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 38px, 0px);"
+                      x-placement="bottom-start">
+                      <li role="presentation"><a role="menuitem" target="_self" href="#" class="dropdown-item">
+                          English
+                        </a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <main class="v-content" data-booted="true" style="padding: 0px;">
+          <div class="v-content__wrap">
+            <div class="page-component">
+              <div class="navigation-menus-attend" style="top: 58px;">
+                <div class="sticky-menu">
+                  <ul class="ul-attend pl-0 mb-0">
+                    <li id="linkTop" class="links d-flex"><a href="#section_1"><span
+                          class="link-text text-nowrap">Dhaka</span></a></li>
+                    <li id="linkAbout" class="links d-flex"><a href="#section_2"><span
+                          class="link-text text-nowrap">Address</span></a></li>
+                    <li id="linkServices" class="links d-flex"><a href="#section_3"><span
+                          class="link-text text-nowrap">Opening hours</span></a></li>
+                    <li id="linkClients" class="links d-flex"><a href="#section_4"><span
+                          class="link-text text-nowrap">Opening days</span></a></li>
+                    <li id="linkContact" class="links d-flex"><a href="#section_5"><span
+                          class="link-text text-nowrap">Things you need to know</span></a></li>
+                    <li id="link6" class="links d-flex"><a href="#section_6"><span
+                          class="link-text text-nowrap">Accessibility</span></a></li>
+                    <li id="link7" class="links d-flex"><a href="#section_7"><span
+                          class="link-text text-nowrap">Security regulations</span></a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="breadcrumb-only scroll-no-width">
+                <div data-v-3acd0df7="" class="container lift-breadcrumb">
+                  <div data-v-3acd0df7="" class="row container pb-1 pt-2">
+                    <h5 data-v-3acd0df7="">
+                      <a data-v-3acd0df7="" href="index.html" class="nuxt-link-active">
+                        <span data-v-3acd0df7="" class="mr-1 lift_bread_home"> Home </span>
+                      </a>
+                      <span data-v-3acd0df7="">
+                        <i data-v-3acd0df7="" aria-hidden="true"
+                          class="v-icon notranslate mr-1 material-icons theme--light"
+                          style="font-size: 16px;">arrow_forward</i>
+                        <a data-v-3acd0df7="" href="attend-centre.html" class="border-0 nuxt-link-active">
+                          <!---->
+                          <span data-v-3acd0df7="" class="mr-1 lift_bread_home lift_bread_home"> Attend a centre </span>
+                        </a>
+                      </span>
+                      <span data-v-3acd0df7="">
+                        <i data-v-3acd0df7="" aria-hidden="true"
+                          class="v-icon notranslate mr-1 material-icons theme--light"
+                          style="font-size: 16px;">arrow_forward</i>
+                        <a data-v-3acd0df7="" href="Dhaka.html"
+                          class="border-0 nuxt-link-exact-active nuxt-link-active">
+                          <span data-v-3acd0df7="" class="lift_bread_home_invert text-dark"> Dhaka </span>
+                          <!---->
+                        </a>
+                      </span>
+                    </h5>
+                  </div>
+                </div>
+              </div>
+              <div class="container row-rep">
+                <div class="row">
+                  <div class="col-lg-3 order-lg-2">
+                    <div>
+                      <a target="_blank" href="schedule-an-appointment.html"
+                        class="btn btn-block btn-first mt-5 custom-nuxt-btn mb-5">
+                        <span class="mr-3">Book now</span>
+                        <svg viewBox="0 0 16 16" width="1em" height="1em" focusable="false" role="img" alt="icon"
+                          xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi-arrow-right b-icon bi"
+                          style="">
+                          <g>
+                            <path fill-rule="evenodd"
+                              d="M10.146 4.646a.5.5 0 01.708 0l3 3a.5.5 0 010 .708l-3 3a.5.5 0 01-.708-.708L12.793 8l-2.647-2.646a.5.5 0 010-.708z"
+                              clip-rule="evenodd"></path>
+                            <path fill-rule="evenodd" d="M2 8a.5.5 0 01.5-.5H13a.5.5 0 010 1H2.5A.5.5 0 012 8z"
+                              clip-rule="evenodd"></path>
+                          </g>
+                        </svg>
+                      </a>
+                      <!---->
+                      <ul class="ul-rightbar pl-0">
+                        <li id="linkTop" class="links">
+                          <span class="link-text"><a href="#section_1">Dhaka</a></span>
+                        </li>
+                        <li id="linkAbout" class="links">
+                          <span class="link-text"><a href="#section_2">Address</a></span>
+                        </li>
+                        <li id="linkServices" class="links">
+                          <span class="link-text"><a href="#section_3">Opening hours</a></span>
+                        </li>
+                        <li id="linkClients" class="links">
+                          <span class="link-text"><a href="#section_4">Opening days</a></span>
+                        </li>
+                        <li id="linkContact" class="links">
+                          <span class="link-text"><a href="#section_5">Things you need to know</a></span>
+                        </li>
+                        <li id="link6" class="links">
+                          <span class="link-text"><a href="#section_6">Accessibility</a></span>
+                        </li>
+                        <li id="link7" class="links">
+                          <span class="link-text"><a href="#section_7">Security regulations</a></span>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="col-lg-9 order-lg-1">
+                    <section id="section_1" class="attend-section mt-0 animatefortoppadding">
+                      <h2>Dhaka</h2>
+                      <div class="renderer-content">
+                        <p>Korea Visa Application centre has an additional fee requirement</p>
+                        <!-- <p>Service Fee: 2150 BDT </p> -->
+                         <p>VFS Service Charge: BDT 2150.</p>
+                        <p>Mode of Payment: Cash</p>
+                      </div>
+                    </section>
+                    <section id="section_2" class="attend-section">
+                      <h2> Address</h2>
+                      <div class="row">
+                        <div class="col-12 col-lg">
+                          <div class="font-size18">
+                            <div class="renderer-content">
+                              <p>B&T Nehaleeya Tower (2nd floor), Plot-80, Block- B, Kemal Ataturk Avenue, Banani, Dhaka
+                                , Bangladesh</p>
+                            </div>
+                            <!-- <div>
+                            <a target="_blank" href="https://maps.app.goo.gl/kh2iuNBftF597Ziy5" class="view-link">
+                              <h5 class=" mt-7"> View on Google maps -&gt; </h5>
+                            </a>
+                          </div> -->
+                          </div>
+                        </div>
+                        <div class="col-12 col-lg">
+                          <!---->
+                          <div>
+                            <iframe
+                              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3650.683180163873!2d90.40233909999999!3d23.794293699999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c7003b9cf54d%3A0x366d499d0b194a2a!2sB%26T%20Nehaleeya%20Tower!5e0!3m2!1sen!2sin!4v1782873904391!5m2!1sen!2sin"
+                              width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"
+                              referrerpolicy="strict-origin-when-cross-origin"></iframe>
+                          </div>
+                        </div>
+                      </div>
+                    </section>
+                    <section id="section_3" class="attend-section">
+                      <h2>Opening hours</h2>
+                      <!---->
+                      <div class="row">
+                        <div class="col">
+                          <div class="v-data-table w-100 theme--light">
+                            <div class="v-data-table__wrapper">
+                              <table>
+                                <thead>
+                                  <tr></tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td class="attend-center-td"> Applications can be submitted </td>
+                                    <td class="attend-center-td"> Sunday to Thursday </td>
+                                    <td class="attend-center-td"> 09:00 - 14:00 </td>
+                                  </tr>
+
+                                  <tr>
+                                    <td class="attend-center-td"> Passport Collection </td>
+                                    <td class="attend-center-td"> Sunday to Thursday </td>
+                                    <td class="attend-center-td"> 14:00 - 16:00 </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </section>
+                    <section id="section_4" class="attend-section mb-0">
+                      <h2>Opening days</h2>
+                      <div class="row">
+                        <div class="col">
+                          <div class="renderer-content">
+                            <p>
+                              <a href="assets/pdfs/KVAC_ Holiday List for 2026- Updated.pdf" target="_blank">View Public
+                                Holidays and Closures</a>
+                            </p>
+                          </div>
+                          <!---->
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </div>
+              </div>
+              <div class="container row-rep">
+                <section id="section_5" class="attend-section mt-0">
+                  <h2>Things you need to know</h2>
+                  <div class="row">
+                    <div class="col">
+                      <div class="renderer-content">
+                        <p>Essential information before your visit</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="px-4">
+                    <div class="row custom-card">
+                      <div class="col-12 col-md d-flex custom-border-card align-items-stretch py-4 px-3">
+                        <div class="w-100 d-flex flex-column">
+                          <p>At the centre</p>
+                          <h5 class="color-62707c pb-5 w-wrap-anywhere"> Find out what happens when you Attend a centre
+                          </h5>
+                          <a href="what-happens-at-centre.html" class="cta-link navigate-btn btn-first clearfix d-flex"
+                            referrerpolicy="no-referrer-when-downgrade">
+                            <span class="text-initial w-100">Learn more</span>
+                            <svg viewBox="0 0 16 16" width="1em" height="1em" focusable="false" role="img" alt="icon"
+                              xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi-play-fill mt-1 b-icon bi"
+                              style="">
+                              <g>
+                                <path
+                                  d="M11.596 8.697l-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 010 1.393z">
+                                </path>
+                              </g>
+                            </svg>
+                          </a>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md d-flex custom-border-card align-items-stretch py-4 px-3">
+                        <div class="w-100 d-flex flex-column">
+                          <p>What to bring with you</p>
+                          <h5 class="color-62707c pb-5 w-wrap-anywhere"> What to bring on the day of your appointment
+                          </h5>
+                          <a href="what-to-bring.html" class="cta-link navigate-btn btn-first clearfix d-flex"
+                            referrerpolicy="no-referrer-when-downgrade">
+                            <span class="text-initial w-100">Learn more</span>
+                            <svg viewBox="0 0 16 16" width="1em" height="1em" focusable="false" role="img" alt="icon"
+                              xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi-play-fill mt-1 b-icon bi"
+                              style="">
+                              <g>
+                                <path
+                                  d="M11.596 8.697l-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 010 1.393z">
+                                </path>
+                              </g>
+                            </svg>
+                          </a>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md d-flex custom-border-card align-items-stretch py-4 px-3">
+                        <div class="w-100 d-flex flex-column">
+                          <p>Book an appointment</p>
+                          <h5 class="color-62707c pb-5 w-wrap-anywhere"> Schedule your appointment with us </h5>
+                          <a href="schedule-an-appointment.html" class="cta-link navigate-btn btn-first clearfix d-flex"
+                            referrerpolicy="no-referrer-when-downgrade">
+                            <span class="text-initial w-100">Book now</span>
+                            <svg viewBox="0 0 16 16" width="1em" height="1em" focusable="false" role="img" alt="icon"
+                              xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi-play-fill mt-1 b-icon bi"
+                              style="">
+                              <g>
+                                <path
+                                  d="M11.596 8.697l-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 010 1.393z">
+                                </path>
+                              </g>
+                            </svg>
+                          </a>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md d-flex custom-border-card align-items-stretch py-4 px-3">
+                        <div class="w-100 d-flex flex-column">
+                          <p>Premium services</p>
+                          <h5 class="color-62707c pb-5 w-wrap-anywhere"> Enjoy a faster, more convenient and more
+                            luxurious application </h5>
+                          <a href="additional-services.html" class="cta-link navigate-btn btn-first clearfix d-flex"
+                            referrerpolicy="no-referrer-when-downgrade">
+                            <span class="text-initial w-100">View services</span>
+                            <svg viewBox="0 0 16 16" width="1em" height="1em" focusable="false" role="img" alt="icon"
+                              xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi-play-fill mt-1 b-icon bi"
+                              style="">
+                              <g>
+                                <path
+                                  d="M11.596 8.697l-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 010 1.393z">
+                                </path>
+                              </g>
+                            </svg>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                <section id="section_6" class="col-lg-9 order-lg-1 attend-section">
+                  <h2>Accessibility</h2>
+                  <div class="row">
+                    <div class="col">
+                      <div class="renderer-content">
+                        <p>The Visa Application centre have access ramps for wheelchairs. Customers who have a
+                          disability or need assistance are encouraged to bring someone to assist them throughout the
+                          application process. Lifts are also accessible when necessary. Please note that our staff will
+                          be available to assist any customers with special needs.</p>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                <section id="section_7" class="col-lg-9 order-lg-1 attend-section mb-0">
+                  <h2>Security regulations</h2>
+                  <div class="row">
+                    <div class="col">
+                      <div class="renderer-content">
+                        <p>Please note that access to the Visa Application centre is restricted to visa applicants only.
+                          The only exceptions to this policy are:</p>
+                        <ol>
+                          <li>
+                            <p>Children less than 18 years of age need to be accompanied by a parent or guardian.</p>
+                          </li>
+                          <li>
+                            <p>Elderly or disabled applicants or those with medical condition who may require assistance
+                              in order to submit their applications should advise the security staff on arrival at the
+                              Visa Application centre.</p>
+                          </li>
+                          <li>
+                            <p>Mobile phones are permitted in the Visa Application centre, but they must be switched to
+                              silent mode and put away when you are being served at the counter.</p>
+                          </li>
+                        </ol>
+                        <p>Under no circumstances is photography, filming or audio recording permitted inside the Visa
+                          Application centre.</p>
+                        <p>Only one airline cabin size bag 45 cm x 30 cm x 20 cm (18” x 12” x 8”) per applicant is
+                          permitted in the Visa Application centre. Larger bags cannot be taken into the Visa
+                          Application centre and must be stored elsewhere.</p>
+                        <p>For security reasons the following items will not be permitted inside the Visa Application
+                          centre.</p>
+                        <ul>
+                          <li>
+                            <p>All battery operated or electronic items such cameras, tablets, audio/video cassettes,
+                              compact discs, MP3s, floppies, laptops, or portable music players, hard disk drive (HDDs),
+                              pen/ thumb drives, spy devices, audio recorders, or other devices which can hinder the
+                              centre’s functioning.</p>
+                          </li>
+                          <li>
+                            <p>Sealed envelopes or packages.</p>
+                          </li>
+                          <li>
+                            <p>Any inflammable item such as matchboxes/ lighters/ electric cigarettes /fuel.</p>
+                          </li>
+                          <li>
+                            <p>Any sharp objects such as scissors, pen knives or nail filers.</p>
+                          </li>
+                          <li>
+                            <p>Bags and personal belongings of applicants, except for small hand bags.</p>
+                          </li>
+                          <li>
+                            <p>Food and drink items.</p>
+                          </li>
+                          <li>
+                            <p>Weapons, weapon - like objects or explosive material of any kind.</p>
+                          </li>
+                          <li>
+                            <p>Other items may be prohibited based on security staff discretion.</p>
+                          </li>
+                        </ul>
+                        <p>
+                          <strong>Please note:&nbsp;</strong>The Visa Application centre is unable to store prohibited
+                          items. Applicants should make other arrangements to store these belongings before they enter
+                          the Visa Application centre.
+                        </p>
+                        <p>All Visa Application centres are under 24 hours CCTV surveillance. The images are constantly
+                          recorded for the purposes of crime prevention, detection and public safety.</p>
+                        <p>In the interest of safety and security, we reserve the right to conduct random bag searches
+                          of applicants and visitors.</p>
+                        <p>Our staff have the right to work without fear of abuse or intimidation. Threatening or
+                          abusive words or behaviour&nbsp;towards our staff will not be tolerated under any
+                          circumstances.</p>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+            <!---->
+          </div>
+        </main>
+        <footer class="v-footer v-sheet v-sheet--tile theme--light" data-booted="true">
+          <div class="container py-0 px-0 footer-con">
+            <div class="navigation-footer1 text-justify w-100">
+              <div class="mobile-footer">
+                <a href="about-vfs.html" class="no-anchor"> About Us </a>
+              </div>
+              <div class="mobile-footer">
+                <a href="contact-us.html" class="no-anchor"> Contact us </a>
+              </div>
+              <div class="mobile-footer">
+                <a href="refund-policy.html" class="no-anchor"> Refund Policy </a>
+              </div>
+            </div>
+            <div class="navigation-footer2 d-flex flex-wrap">
+              <div class="mobile-footer color-62707c">
+                <a href="disclaimer.html" class="no-anchor"> Disclaimer </a>
+              </div>
+              <div class="mobile-footer color-62707c">
+                <a href="terms-and-condition.html" class="no-anchor"> Terms &amp; Conditions </a>
+              </div>
+              <div class="mobile-footer color-62707c">
+                <a href="cookie-policy.html" class="no-anchor"> Cookie Policy </a>
+              </div>
+              <div class="mobile-footer color-62707c">
+                <a href="privacy-policy.html" class="no-anchor"> Privacy Policy </a>
+              </div>
+            </div>
+            <div class="d-flex flex-wrap">
+              <div class="copyright-footer"> © 2023 VFS Global Group. All Rights Reserved. ISO 23026 compliant.
+                <span>Our websites are created for viewing on modern browsers; Internet Explorer users please
+                  upgrade.</span>
+                <!---->
+              </div>
+            </div>
+          </div>
+        </footer>
+      </div>
+    </div>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
+  <script type="text/javascript" src="assets/js/custom.js"></script>
+  <script type="text/javascript">
+
+    var addClassOnScroll = function () {
+      var windowTop = $(window).scrollTop();
+      $('section[id]').each(function (index, elem) {
+        var offsetTop = $(elem).offset().top;
+        var outerHeight = $(this).outerHeight(true);
+
+        if (windowTop > (offsetTop - 250)) {
+          var elemId = $(elem).attr('id');
+          $("ul.ul-attend li a.active").removeClass('active');
+          $("ul.ul-attend li a[href='#" + elemId + "']").addClass('active');
+        }
+      });
+    };
+
+    $(window).scroll(function () {
+      if ($(this).scrollTop() > 80) {
+        $('.navigation-menus-attend').addClass('display-top');
+        addClassOnScroll();
+        $('section').addClass('margintop');
+        $('.order-lg-2').addClass('hidediv');
+      } else {
+        $('.navigation-menus-attend').removeClass('display-top');
+        $('section').removeClass('margintop');
+        $('.order-lg-2').removeClass('hidediv');
+      }
+    });
+
+
+
+  </script>
+</body>
+
+</html>

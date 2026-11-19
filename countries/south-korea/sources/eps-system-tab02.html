@@ -1,0 +1,1992 @@
+
+
+
+
+
+
+
+<script type="text/javascript" src='/js/egovframework/com/cmm/showModalDialog.js'></script>
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<title>외국인고용관리시스템 - 고용24</title>
+<link rel="stylesheet" type="text/css" href="/comm/css/kr/newcss/common.css" />
+<link rel="stylesheet" type="text/css" href="/comm/css/kr/newcss/data.css?ver=20250110" />
+<link rel="stylesheet" type="text/css" href="/comm/css/kr/new/button.css" />
+<!-- css common // 기존 사이트 css임-->
+<link rel="stylesheet" href="/comm/css/kr/newcss/main_new.css?ver=20250922" />
+<link rel="stylesheet" href="/comm/css/kr/newcss/gnb.css" />
+<script src="/comm/js/jquery-3.6.1.min.js"></script>
+<script src="/comm/js/gnb.js"></script> <!-- js gnb -->
+<link href="/comm/js/slick.css" rel="stylesheet">
+<!-- css visual slider -->
+<script src="/comm/js/slick.min.js"></script> <!-- js visual slider -->
+<script src="/comm/js/noticetab.js"></script> <!-- js noticetab -->
+<link rel="stylesheet" type="text/css" href="/comm/css/kr/newcss/button.css" />
+<script type="text/javascript" src="/comm/js/jquery.jui.min.js" charset="utf-8" ></script>
+<script type="text/javascript" src="/comm/js/kr/common.js"></script>
+<script type="text/javascript" src="/comm/js/string.js"></script>
+<script type="text/javascript" src="/comm/js/gVariable.js?v=0.1"></script>
+<script type="text/javascript" src="/comm/js/message.js"></script>
+<script type="text/javascript" src="/comm/js/common.js?v=0.1"></script>
+<script type="text/javascript" src="/comm/js/before_docs.js"></script>
+<style type="text/css">
+.print_area {
+	width:1000px;
+	position:relative; 
+	margin:0 auto;
+}
+.btn_print {
+	width: 40px;
+	height: 40px;
+	top:-5px;
+	right:0;
+	position:absolute;
+	cursor: pointer;
+}
+#container {
+	margin-bottom:100px; !important;
+}
+@media print {
+	footer, 
+	#sub_container, 
+	#quick, 
+	#lnb {
+		display: none !important;
+	}
+	#container{
+		margin-left:0 !important;
+	}
+	#contents {
+		top: 0;
+		left: 0 !important;
+		visibility: visible;
+		overflow:visible !important;
+		display: block;
+		padding:0 !important;
+		position: absolute;		
+		width: 100%;
+		height:auto !important;
+		margin:0 !important;
+		margin-left:0 !important;
+		max-height:none !important;
+	}
+}
+</style>
+<script type="text/javascript">
+
+//글자 크기 변경
+let curZoom = Number(getCookie("epsZoom") || 1);
+function setFontSize(){
+    var sizeP = document.getElementById("sizeP");
+    var sizeR = document.getElementById("sizeR");
+    var sizeM = document.getElementById("sizeM");
+    var bodyObj = document.getElementsByTagName('body')[0];
+    var minZoom = 0.5;
+    var maxZoom = 1.3;
+    
+    sizeP.onclick=function(){
+        curZoom = (curZoom || document.body.style.zoom || 1) + 0.05;
+        if(curZoom > maxZoom) {
+            alert('확대 가능한 최대 크기는 ' +Math.round(maxZoom*100)+ '%입니다. \n더 큰 확대를 원하실 경우 브라우저의 확대/축소 기능을 사용 바랍니다. 사용키 : ctrl +/-');
+            return;
+        } else {
+            bodyObj.style.zoom = curZoom;
+            setCookie("epsZoom", curZoom , 1);
+        }
+    }
+
+    sizeR.onclick=function(){
+        curZoom = 1;
+        bodyObj.style.zoom = curZoom;
+        setCookie("epsZoom", curZoom , 1);
+    }
+
+    sizeM.onclick=function(){
+        curZoom = (curZoom || document.body.style.zoom || 1) - 0.05;
+        if(curZoom < minZoom) {
+            alert('축소 가능한 최소 크기는 ' +Math.round(curZoom*100)+ '%입니다. \n더 큰 확대를 원하실 경우 브라우저의 확대/축소 기능을 사용 바랍니다. 사용키 : ctrl +/-');
+            return;
+        } else {
+            bodyObj.style.zoom = curZoom;
+            setCookie("epsZoom", curZoom , 1);
+        }
+    }
+}
+
+if (window.addEventListener){
+    window.addEventListener("load", setFontSize, false);
+}
+else if (window.attachEvent){
+    window.attachEvent("onload", setFontSize);
+}
+
+//이부분부터  수정할 필요 없습니다.
+function getCookie(name) {
+    var Found = false
+    var start, end
+    var i = 0
+    while(i <= document.cookie.length) {
+        start = i
+        end = start + name.length
+    
+        if (document.cookie.substring(start, end) == name) {
+            Found = true;
+            break;
+        }
+        i++
+    }
+
+    if (Found == true) {
+        start = end + 1;
+        end = document.cookie.indexOf(";", start);
+        if(end < start) end = document.cookie.length;
+        return document.cookie.substring(start, end);
+    }
+    return "";
+}
+
+function setCookie(name, value, expiredays){
+    var todayDate = new Date();
+    todayDate.setDate( todayDate.getDate() + expiredays );
+    document.cookie = name + "=" + escape( value ) + "; path=/; expires=" + todayDate.toGMTString() + ";";
+}
+
+
+// 화면이동
+function fncGoURL(url) {
+    location.href = url;
+}
+
+//로그인 페이지로 이동
+function fncMoveLoginPage() {
+	location.href = '/eo/UserLoginM.eo';
+}
+
+//로그아웃
+function fncLogout() {
+	if(confirm('로그아웃 하시겠습니까?')) {
+		location.href = '/eo/UserLogoutU.eo';
+		//location.replace('/eo/UserLogoutU.eo');
+	}
+}
+
+//마이페이지로 이동
+function fncMoveMyPage() {
+ 	let custSeCd = "";  
+	if(custSeCd.indexOf("801") == 0) {
+		location.href = '/eo/UserPwdCheck.eo?numberCheck=2';
+	}
+}
+
+//top 메뉴 중 미승인 가입자 url 컨트롤
+function goMenuUrl(url, approveYn, level){
+
+	if(false){
+		// 로그인 상태이지만 미승인 가입자일 경우
+		if(true){
+			alert("※ 외국인근로자 고용 등에 관한 법률 시행령 제31조의 2(고유식별정보의 처리)에 따라 해당 메뉴를 이용하기 위해서는 반드시 신원인증이 필요합니다.");
+			return false;
+		}else if(document.URL.indexOf("OnLineEppAdocCM.eo") > 0 && level != 1){
+			cfOpen("550", "500","1","/eo/pageLeavePopupR.eo?nextUrl="+url+"&approveYn="+approveYn,"pop","status=0,menubar=0,toolbar=0,scrollbars=yes");
+			return false;
+		}else{
+			location.href=url;
+		}
+	}else{
+		location.href=url;
+	}
+}
+
+// 질문/답변 클릭시 e-고객센터로 이동확인창
+function qnaMove(){
+
+	if(confirm("고용허가제 문의는 e-고객센터를 통하여 문의바랍니다.\n(확인 : e-고객센터 연락처, 취소 : 질문및답변으로 이동)")){
+			//window.open("https://minwon.moel.go.kr");
+			//fncGoURL("/eo/QnALst.eo?bbsCd=03007");
+			alert("법령 및 제도 문의 : 1350(유료)");
+		}else{
+			fncGoURL("/eo/VocQnaRecentlyLst.eo?gubun=recently");
+		}
+}
+
+// ebook 도움말 관련 function
+function fncOpenHelp(param){
+	var text	= "";
+	text		= param;
+	cfOpen("720", '700', 2, "/eo/MenuHelpR.eo?a="+text, "helpWin", "scrollbars=yes", "");
+}
+//온라인동영상 도움말 관련 function
+function fncOpenOnlineHelp(param){
+	var text	= "";
+	text		= param;
+	cfOpen("800", '520', 2, "/eo/MenuHelpOnlineR.eo?a="+text, "helpWin", "scrollbars=yes", "");
+}
+//하이코리아 이동확인창
+function fncMoveHikorea(){
+	if(confirm("하이코리아 외국인근로자(H-2, E-9) 통합고용변동신고 메뉴로 통합되었습니다.\n하이코리아로 이동합니다.")){
+		window.open("http://www.hikorea.go.kr/pt/CvlapplInfoDetailR_kr.pt?cvlapplCd=12700000005&amp;locale=ko");
+	}
+}
+
+//접수번호/사업장번호를 변경하여 세션에 저장
+function fncChangeRecvBplcNo() {
+	var frm = document.mainForm;
+
+	frm.action = "/eo/UserChangeNo.eo";
+	frm.submit();
+}
+//회원가입 페이지로 이동
+function fncMoveJoinMemberPage() {
+	location.href = '/eo/UserAuthYnRM.eo';
+}
+
+//사업장 조회 팝업 표시
+function fncBplcSrch(lginId){
+	cfOpen(700, 550, 3, "/eo/BplcSrchPopR.eo", "BplcSrchPop", "", "", "");
+}
+
+//메인화면으로 이동
+function fncMoveIndexPage(approveYn,level){
+	var frm = document.mainForm;
+
+	if(false){
+		// 로그인 상태이지만 미승인 가입자일 경우
+		if(true){
+			alert("※ 외국인근로자 고용 등에 관한 법률 시행령 제31조의 2(고유식별정보의 처리)에 따라 해당 메뉴를 이용하기 위해서는 반드시 신원인증이 필요합니다.");
+			return false;
+		}else if(document.URL.indexOf("OnLineEppAdocCM.eo") > 0 && level != 1){
+			cfOpen("550", "500","1","/eo/pageLeavePopupR.eo?nextUrl=/eo/main.eo&approveYn="+approveYn,"pop","status=0,menubar=0,toolbar=0,scrollbars=yes");
+			return false;
+		}else{
+			frm.action = "/eo/main.eo";
+			frm.submit();
+		}
+	}else{
+		frm.action = "/eo/main.eo";
+		frm.submit();
+	}
+}
+
+
+/* 2017.07.10 웹접근성 조치*/
+//jQuery object 가 없다면 head에 script 생성
+if( typeof jQuery == 'undefined'){
+	var script = document.createElement('script');
+	script.type = "text/javascript";
+	script.src = "/comm/js/jquery-1.4.2.js";
+	document.getElementsByTagName('head')[0].appendChild(script);
+}
+//화면 onload
+$(function(){
+	
+	//PC, 모바일 구분 2024-08-08 추가
+	var isMobile = /iPhone|iPad|iPod|Android|webOS|BlackBerry|IEMobile|OperaMini/i.test(navigator.userAgent);
+	$(".mobileChk").click(function() {	//고용24 링크 클릭이벤트
+		if(isMobile) { 	//모바일이면 이동 X
+			alert("모바일 서비스는 지원하지 않습니다. PC로 고용24 홈페이지(www.work24.go.kr) 접속해주시기 바랍니다.");
+			return false;
+		}
+	});
+});
+
+$(document).on("click keypress touchstart", ".btn_print", function(e){
+	var frm = document.mainForm;
+	var orgZoom = document.body.style.zoom;
+	frm.style.display = "none";
+	document.body.style.zoom = "100%"
+	window.print();	
+	frm.style.display = "";
+	document.body.style.zoom = orgZoom;
+});
+</script>
+</head>
+<body>
+<script type="text/javascript">
+document.body.style.zoom = curZoom;
+</script>
+<div id="wrap">
+    <form name="mainForm" method="post" action="/eo/main.eo">
+        <input type="hidden" name="recvBplcNo" />
+        <input type="hidden" name="resBusirNo" />
+        <input type="hidden" name="orgCd" />
+        <input type="hidden" name="lginId" value =""/>
+        <input type="hidden" name="callBackFunc" value=""/>
+    <ul id="skip">
+        <li><a href="#contents">본문 바로가기</a></li>
+        <li><a href="#lnb">서브메뉴 바로가기</a></li>
+    </ul>
+    
+    <div class="nuri"><p>이 누리집은 대한민국 공식 전자정부 누리집입니다.</p></div>
+    <!-- s:메인상단팝업 -->
+    <div id="main_top_popup">
+        <div>
+            <div class="con_text">사업주 고용허가서비스는 더 나은 서비스 제공을 위해 고용24로 통합했습니다.<br>
+                온라인 고용서비스 통합포털 <strong>고용24(www.work24.go.kr)</strong>를 만나보세요. </div>
+            <div class="con_link"><a href="https://www.work24.go.kr/ep/a/a/0001/hpepaa0001m30bplc.do?redirectUrl=%2Fa%2Fa%2F0001%2Fhpepaa0001m30bplcPost.do&programMenuIdentification=EBG020000500026&menuPurpSecd=EBM00&currentMenuId=EBG020000500001&postType=bplcPost.do" target="_blank" title="새창열림">고용24 이동하기</a></div>
+            <button onclick="document.getElementById('main_top_popup').style.display='none'" class="btn_close" title="고용24 이동하기 레이어  창 닫기">&times;</button>
+        </div>
+    </div>
+    <!-- s:header -->
+    
+<header>
+        <div class="header_top">
+            <h1><a href="#" onclick="fncMoveIndexPage()"><img src="/comm/images/main_new/logo.jpg" alt="EPS(Employment Permit System)"/></a><a href="https://www.work24.go.kr/cm/main.do"  target="_blank" title="고용24 새창열림"><img src="/comm/images/main_new/logo2.jpg" alt="고용24"/></a></h1>
+            <ul>
+            
+                <li><a href="/eo/UserAuthYnRM.eo" onclick="fncMoveJoinMemberPage();">외국인 회원가입(sign up)</a></li>
+                <li><a href="/eo/UserLoginM.eo" onclick="fncMoveLoginPage();">외국인 로그인</a></li>
+			            
+                <li><a href="/eo/sitemap.eo">사이트맵</a></li>
+                <li><a href="#wrap" onclick="bookmarksite('EPS', 'https://www.eps.go.kr');return false;" >즐겨찾기</a></li>
+                <li class="zoom_btn">
+                    <button class="zoomin" type="button" id="sizeP" title="글자크기 확대">글자크기 확대</button>
+                    <button class="zoomout" type="button" id="sizeM" title="글자크기 축소">글자크기 축소</button>
+                    <button class="zoomreset" type="button" id="sizeR" title="글자크기 초기화">글자크기 초기화</button>
+                </li>
+            </ul>
+            <a href="#sitemap" class="all_menu_hide" id="all_menu_hide" onclick="document.getElementById('sitemap').style.display='block'; document.getElementById('sitemap').querySelector('.btn_close').focus(); return false;" title="전체메뉴 열림">전체메뉴</a>
+            <div id="gnavi_btn"><a href="#gnavi" class="hx-com-menu">메뉴보기</a></div>
+            <!--모바일메뉴 숨김처리함-->
+
+        </div>
+
+        <!-- s:gnavi:gmenu -->
+        <nav>
+            
+<div id="gnavibox">
+	<ul>
+	    <li class="gnavi"> <a href="/eo/kr/frnr/index.eo">일반외국인서비스</a>
+	        <div class="ly_center ">
+	            <ul>
+	                <li class="mnavi"><a href="/eo/EmptEduHistR.eo?frnr=20101">취업교육이력조회</a></li>
+	                <li class="mnavi"><a href="/eo/FrnwCappLstR.eo?frnr=20101">민원신청진행현황</a></li>
+	                <li class="mnavi"><a href="/eo/BplcChgHistR.eo?frnr=20101">사업장변동이력조회</a></li>
+	                <li class="mnavi"><a href="https://epstopik.hrdkorea.or.kr" target="_blank" title="한국어능력시험 새창 열림">한국어능력시험</a></li>
+	                <li class="mnavi"><a href="https://eps.hrdkorea.or.kr/e9/user/jobMatching/jobRecruit.do?method=recruitList" target="_blank" title="귀국근로자 취업알선 새창 열림">귀국근로자 취업알선</a></li>
+	                <li class="mnavi"><a href="/eo/FrnwInsExptRocAmtR.eo?frnr=20101">퇴직금차액산정지원</a></li>
+	                <li class="mnavi"><a href="/eo/FrnrCarrWcrtIssuR.eo?frnr=20101">경력증명서발급신청</a></li>
+	                <li class="mnavi"><a href="/eo/InsJoinPsttLstR.eo?frnr=20101">보험가입 내역</a></li>
+	                <li class="mnavi"><a href="/eo/WrkConPsttLstR.eo?frnr=20101">근로계약 현황</a></li>
+	                
+				        <li class="mnavi"><a href="javascript:alert('신청기간이 종료되었습니다.');">계절근로신청</a></li>
+				    
+				    <li class="mnavi"><a href="/eo/BplcChgApplR.eo?frnr=20101">사업장변경신청</a></li>
+				    <li class="mnavi"><a href="/eo/DepartureReportR.eo?frnr=20101">출국예정신고</a></li>
+				    <li class="mnavi"><a href="/eo/SeekCondBplcHistR.eo?frnr=20101">알선사업장 이력조회</a></li>
+				</ul>
+			</div>
+        </li>
+        <li class="gnavi"> <a href="/eo/kr/frnr/index02.eo">특례외국인서비스</a>
+            <div class="ly_center ">
+                <ul>
+                    <li class="mnavi"><a href="/eo/EmptEduHistR.eo?frnr=20102">취업교육이력조회</a></li>
+                    <li class="mnavi"><a href="/eo/FrnwCappLstR.eo?frnr=20102">민원신청진행현황</a></li>
+                    <li class="mnavi"><a href="/eo/BplcChgHistR.eo?frnr=20102">사업장변동이력조회</a></li>
+                    <li class="mnavi"><a href="/eo/SwkBplcLstR.eo">특례구인사업장조회</a></li>
+                    <li class="mnavi"><a href="/eo/SeekCondBplcLstR.eo">알선장출력요청</a></li>
+                    <li class="mnavi"><a href="/eo/EmptEduH2RsltLstR.eo">건설업 취업증명서 조회</a></li>
+                    <li class="mnavi"><a href="https://eps.hrdkorea.or.kr/h2/empProcess/empEdu.do" target="_blank" title="취업교육신청 새창 열림">취업교육신청</a></li>
+                    <li class="mnavi"><a href="/eo/FrnwInsExptRocAmtR.eo?frnr=20102">퇴직금차액산정지원</a></li>
+                    <li class="mnavi"><a href="/eo/InsJoinPsttLstR.eo?frnr=20102">보험가입 내역</a></li>
+                    <li class="mnavi"><a href="/eo/WrkConPsttLstR.eo?frnr=20102">근로계약 현황</a></li>
+                    <li class="mnavi"><a href="/eo/SeekCondBplcHistR.eo?frnr=20102">알선사업장 이력조회</a></li>
+                </ul>
+            </div>
+        </li>
+        <li class="gnavi"> <a href="/eo/EmployPerSystem.eo">고용허가제정보</a>
+            <div class="ly_center ">
+                <ul>
+                    <li class="mnavi"><a href="/eo/EmployPerSystem.eo?tabGb=01">고용허가제</a></li>
+                    <li class="mnavi"><a href="/eo/EmployJobProc.eo?tabGb=01">고용취업절차</a></li>
+                    <li class="mnavi"><a href="/eo/ScoreInfo.eo?tabGb=01">점수제</a></li>
+                    <li class="mnavi"><a href="/eo/BusiPsttOutInfoM.eo">출국준비 안내</a></li>
+                </ul>
+            </div>
+        </li>
+        <li class="gnavi"> <a href="javascript:void(0);">자료실</a>
+            <div class="ly_center ">
+                <ul>
+                    <li class="mnavi"><a href="/eo/FormDataLst.eo">업무별서식</a></li>
+                </ul>
+            </div>
+        </li>
+        <li class="gnavi"> <a href="/eo/CustCentLst.eo">고객센터</a>
+            <div class="ly_center ">
+                <ul>
+                    <li class="mnavi"><a href="/eo/NotiLst.eo">공지사항</a></li>
+                    <li class="mnavi"><a href="/eo/MyConsultLst.eo">나의상담내역</a></li>
+                    
+                    <li class="mnavi"><a href="/eo/VocFaqLst.eo">자주 묻는 질문</a></li>
+                    
+                    <li class="mnavi"><a href="/eo/IdPasswordSrchRM.eo">외국인 ID/PW 찾기</a></li>
+                    
+                    <li class="mnavi"><a href="/eo/OrgInfoLst.eo">유관기관 찾기</a></li>
+                    <li class="mnavi"><a href="/eo/VocIndivInfoLstR.eo">개인정보 처리요구</a></li>
+                </ul>
+            </div>
+        </li>
+    </ul>
+</div>
+            <!-- e:gnavibox -->
+        </nav>
+        <!-- e:gnavi -->
+
+        <!-- s:전체메뉴팝업레이어 -->
+        <div id="sitemap" class="overlay_popup">
+            
+<div class="overlay_guide sitemap">
+    <button onclick="document.getElementById('sitemap').style.display='none'; document.getElementById('all_menu_hide').focus(); return false;" class="btn_close" aria-label="전체메뉴 레이어 닫기">&times;</button>
+    <div class="overlay_content">
+        <dl>
+            <dt><a href="/eo/kr/frnr/index.eo">일반외국인서비스</a></dt>
+            <dd><a href="/eo/EmptEduHistR.eo?frnr=20101">취업교육이력조회</a></dd>
+            <dd><a href="/eo/FrnwCappLstR.eo?frnr=20101">민원신청진행현황</a></dd>
+            <dd><a href="/eo/BplcChgHistR.eo?frnr=20101">사업장변동이력조회</a></dd>
+            <dd><a href="https://epstopik.hrdkorea.or.kr" target="_blank" title="한국어능력시험 새창 알림">한국어능력시험</a></dd>
+            <dd><a href="https://eps.hrdkorea.or.kr/e9/user/jobMatching/jobRecruit.do?method=recruitList" target="_blank" title="귀국근로자 취업알선 새창 알림">귀국근로자 취업알선</a></dd>
+            <dd><a href="/eo/FrnwInsExptRocAmtR.eo?frnr=20101">퇴직금차액산정지원</a></dd>
+            <dd><a href="/eo/FrnrCarrWcrtIssuR.eo?frnr=20101">경력증명서발급신청</a></dd>
+            <dd><a href="/eo/InsJoinPsttLstR.eo?frnr=20101">보험가입 내역</a></dd>
+            <dd><a href="/eo/WrkConPsttLstR.eo?frnr=20101">근로계약 현황</a></dd>
+            
+                <dd><a href="javascript:alert('신청기간이 종료되었습니다.');">계절근로신청</a></dd>
+            
+            <dd><a href="/eo/BplcChgApplR.eo?frnr=20101">사업장변경신청</a></dd>
+            <dd><a href="/eo/DepartureReportR.eo?frnr=20101">출국예정신고</a></dd>
+        </dl>
+        <dl>
+            <dt><a href="/eo/kr/frnr/index02.eo">특례외국인서비스</a></dt>
+            <dd><a href="/eo/EmptEduHistR.eo?frnr=20102">취업교육이력조회</a></dd>
+            <dd><a href="/eo/FrnwCappLstR.eo?frnr=20102">민원신청진행현황</a></dd>
+            <dd><a href="/eo/BplcChgHistR.eo?frnr=20102">사업장변동이력조회</a></dd>
+            <dd><a href="/eo/SwkBplcLstR.eo">특례구인사업장조회</a></dd>
+            <dd><a href="/eo/SeekCondBplcLstR.eo">알선장출력요청</a></dd>
+            <dd><a href="/eo/EmptEduH2RsltLstR.eo">건설업 취업증명서 조회</a></dd>
+            <dd><a href="https://eps.hrdkorea.or.kr/h2/empProcess/empEdu.do" target="_blank" title="취업교육신청 새창 알림">취업교육신청</a></dd>
+            <dd><a href="/eo/FrnwInsExptRocAmtR.eo?frnr=20102">퇴직금차액산정지원</a></dd>
+            <dd><a href="/eo/InsJoinPsttLstR.eo?frnr=20102">보험가입 내역</a></dd>
+            <dd><a href="/eo/WrkConPsttLstR.eo?frnr=20102">근로계약 현황</a></dd>
+        </dl>
+        <dl>
+            <dt><a href="/eo/EmployPerSystem.eo">고용허가제정보</a></dt>
+            <dd><a href="/eo/EmployPerSystem.eo?tabGb=01">고용허가제</a></dd>
+            <dd><a href="/eo/EmployJobProc.eo?tabGb=01">고용취업절차</a></dd>
+            <dd><a href="/eo/ScoreInfo.eo?tabGb=01">점수제</a></dd>
+            <dd><a href="/eo/BusiPsttOutInfoM.eo">출국 준비 안내</a></dd>
+        </dl>
+        <dl>
+            <dt><a href="/eo/FormDataLst.eo">자료실</a></dt>
+            <dd><a href="/eo/FormDataLst.eo">업무별서식</a></dd>
+        </dl>
+        <dl>
+            <dt><a href="/eo/CustCentLst.eo">고객센터</a></dt>
+            <dd><a href="/eo/NotiLst.eo">공지사항</a></dd>
+            <dd><a href="/eo/MyConsultLst.eo">나의상담내역</a></dd>
+            
+            <dd><a href="/eo/VocFaqLst.eo">자주 묻는 질문</a></dd>
+            
+            <dd><a href="/eo/IdPasswordSrchRM.eo">외국인 ID/PW 찾기</a></dd>
+            
+            <dd><a href="/eo/OrgInfoLst.eo">유관기관 찾기</a></dd>
+            <dd><a href="/eo/VocIndivInfoLstR.eo">개인정보 처리요구</a></dd>
+        </dl>
+    </div>
+</div>
+        </div>
+
+
+    </header>
+    <!-- e:header -->
+    </form>
+
+<div id="sub_container">
+	<div class="print_area">
+		<button class="btn_print"><img src="/comm/img/kr/user/print_img.png" alt="출력" width="40" height="40" border="0" title="Show on Screen" /></button>
+	</div>
+</div>	
+<!--s:container 서브 레이아웃 시작 -->
+<div id="container">
+
+
+
+
+
+
+<script type="text/javascript" src="/comm/js/kr/menu_new.js" charset="utf-8" ></script>
+
+<script type="text/javascript">
+var natNm = "";
+$(document).ready(function(){
+	/*********************************************************************************************
+	[REQ-PD-F-0003] 2017-11-21 ADD - START
+	[REQ-PD-F-0004] 2017-11-21 ADD - START
+	국가선택 콤보박스 특례외국인/일반외국인 목록 다르게 보이도록 분기
+	*********************************************************************************************/
+	if($("input[name='frnrSeCd']").val()=="20101" || $("input[name='frnrSeCd']").val()==""){
+		if($("#nation option").size() == 0){
+			var str = "";
+			if(natNm == 'kr'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+			$("#nation").append('<option value="kr" ' + str + '>Korea</option>');
+			if(natNm == 'chs'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+			$("#nation").append('<option value="chs" ' + str + '>China(简体)</option>');
+			if(natNm == 'cht'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+			$("#nation").append('<option value="cht" ' + str + '>China(傳統)</option>');
+			if(natNm == 'th'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+			$("#nation").append('<option value="th" ' + str + '>Thailand</option>');
+			if(natNm == 'in'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+			$("#nation").append('<option value="in" ' + str+ '>Indonesia</option>');
+			if(natNm == 'vi'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+			$("#nation").append('<option value="vi" ' + str+ '>Vietnam</option>');
+			if(natNm == 'ph'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+			$("#nation").append('<option value="ph" ' + str+ '>Philippines</option>');
+			if(natNm == 'mo'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+			$("#nation").append('<option value="mo" ' + str+ '>Mongolia</option>');
+			if(natNm == 'ca'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+			$("#nation").append('<option value="ca" ' + str+ '>Cambodia</option>');
+			if(natNm == 'pa'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+			$("#nation").append('<option value="pa" ' + str+ '>Pakistan</option>');
+			if(natNm == 'bd'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+			$("#nation").append('<option value="bd" ' + str+ '>Bangladesh</option>');
+			if(natNm == 'np'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+			$("#nation").append('<option value="np" ' + str+ '>Nepal</option>');
+			if(natNm == 'my'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+			$("#nation").append('<option value="my" ' + str+ '>Myanmar</option>');
+			if(natNm == 'uz'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+			$("#nation").append('<option value="uz" ' + str+ '>Uzbekistan</option>');
+			if(natNm == 'sl'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+			$("#nation").append('<option value="sl" ' + str+ '>SriLanka</option>');
+			if(natNm == 'do'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+			$("#nation").append('<option value="do" ' + str+ '>Timor-Leste</option>');
+			if(natNm == 'kz'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+			$("#nation").append('<option value="kz" ' + str+ '>Kyrgyzstan</option>');
+
+			/* [REQ-PD-F-0003] 국가검색에 라오스어 추가 ADD - Start */
+			if(natNm == 'lo'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+			$("#nation").append('<option value="lo" ' + str+ '>Laos</option>');
+			/* [REQ-PD-F-0003] ADD - End */
+		}
+	}else if($("input[name='frnrSeCd']").val()=="20101" || $("input[name='frnrSeCd']").val()==""){
+		if($("#nation option").size() == 0){
+			var str = "";
+			if(natNm == 'kr'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+			$("#nation").append('<option value="kr" ' + str + '>Korea</option>');
+			if(natNm == 'chs'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+			$("#nation").append('<option value="ru" ' + str + '>Russia</option>');
+			if(natNm == 'ru'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+			$("#nation").append('<option value="chs" ' + str + '>China(简体)</option>');
+			if(natNm == 'cht'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+			$("#nation").append('<option value="cht" ' + str + '>China(傳統)</option>');
+			if(natNm == 'th'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+		}
+	} else {
+		if($("#nation option").size() == 0){
+			var str = "";
+			if(natNm == 'kr'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+			$("#nation").append('<option value="kr" ' + str + '>Korea</option>');
+			/* [REQ-PD-F-0003] 국가검색에 라오스어 추가 ADD - Start */
+			if(natNm == 'ru'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+			$("#nation").append('<option value="ru" ' + str+ '>Russia</option>');
+			/* [REQ-PD-F-0003] ADD - End */
+			if(natNm == 'chs'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+			$("#nation").append('<option value="chs" ' + str + '>China(简体)</option>');
+			if(natNm == 'cht'){
+				str = "selected";
+			}else{
+				str = "";
+			}
+			$("#nation").append('<option value="cht" ' + str + '>China(傳統)</option>');
+		}
+	}
+});
+</script>
+<!--s:sub_menu 서브메뉴 -->
+<div id="lnb" class="employment">
+	<h2>고용허가제정보</h2>
+	<ul>
+		<li>
+			<a href="/eo/EmployPerSystem.eo?tabGb=01">고용허가제</a>
+			<ul>
+				<li><a href="/eo/EmployPerSystem.eo?tabGb=01">고용허가제의의와 현황</a></li>
+				<li><a href="/eo/EmployPerSystem.eo?tabGb=02">연도별 도입쿼터 안내</a></li>
+				<li><a href="/eo/EmployPerSystem.eo?tabGb=03">운영조직</a></li>
+				<li><a href="/eo/EmployPerSystem.eo?tabGb=04">허용업종소개</a></li>
+				<li><a href="/eo/EmployPerSystem.eo?tabGb=05">사업장규모별구인인원소개</a></li>
+				<li><a href="/eo/EmployPerSystem.eo?tabGb=06">각종보험가입및혜택</a></li>
+			</ul>
+		</li>
+		<li>
+			<a href="/eo/EmployJobProc.eo">고용취업절차</a>
+			<ul>
+				<li><a href="/eo/EmployJobProc.eo?tabGb=01">사업주</a></li>
+				<li><a href="/eo/EmployJobProc.eo?tabGb=06">일반외국인</a></li>
+				<li><a href="/eo/EmployJobProc.eo?tabGb=07">특례외국인</a></li>
+			</ul>
+		</li>
+		<li>
+			<a href="/eo/ScoreInfo.eo?tabGb=01">점수제</a>
+			<ul>
+				<li><a href="/eo/ScoreInfo.eo?tabGb=01">배정계획</a></li>
+				<li><a href="/eo/ScoreInfo.eo?tabGb=02">점수제배정절차</a></li>
+				<li><a href="/eo/ScoreInfo.eo?tabGb=03">점수제평가지표</a></li>
+				<li><a href="/eo/ScoreInfo.eo?tabGb=04">유의사항</a></li>
+			</ul>
+		</li>
+		<li class=last >
+			<a href="/eo/BusiPsttOutInfoM.eo">출국준비 안내</a>
+		</li>
+		
+	</ul>
+	<script type="text/javascript">
+	<!--
+		window.initialSubMenu	= [0,1];
+	//-->
+	</script>
+	<button>원격지원시스템</button>
+</div>
+<!--e:sub_menu -->
+<!--s:content 컨텐츠 시작 -->
+
+<script type="text/javascript">top.document.title="연도별 도입쿼터 안내 | 외국인 고용 관리시스템";</script>
+<script type="text/javascript">
+<!--
+natNm = "en";
+var win = null;
+
+function AreaPrintAll(printThis){
+  win = window.open();
+  self.focus();
+  win.document.open();
+  win.document.write ('<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">');
+  win.document.write ('<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">');
+  win.document.write ('<head>');
+  win.document.write ('<link rel="stylesheet" type="text/css" href="/comm/css/kr/new/layout.css"/>');
+  win.document.write ('</head>');
+  win.document.write ('<body>');
+  win.document.write (printThis);
+  win.document.write ('</body></html>');
+  win.document.close();
+  win.print();
+  win.close();
+}
+
+
+//tab 이동
+function fncMoveTab(tabGb){
+	var natNm 	= "en";
+	document.location.href = "/eo/EmployPerSystem.eo?natNm="+natNm+"&tabGb="+tabGb;
+}
+
+//다국어페이지이동
+function fncMoveService(){
+	var tabGb 	= "02";
+	document.location.href = "/eo/EmployPerSystem.eo?natNm="+$("#nation").val()+"&tabGb="+tabGb;
+}
+//-->
+
+/*
+ * 2017.07.07 웹접근성 조치
+ * select#nation 태그를 바라보는 label 태그 for 알맞게 수정
+ */
+ // jQuery object 가 없다면 head에 script 생성
+if( typeof jQuery == 'undefined'){
+	var script = document.createElement('script');
+	script.type = "text/javascript";
+	script.src = "/comm/js/jquery-1.4.2.js";
+	document.getElementsByTagName('head')[0].appendChild(script);
+}
+
+//화면 onload
+$(function(){
+	// target 이 될 p 태그 찾기
+	var trgetLabelTagObj = $("div#contents div.srch_box p > label[for='select_country']");
+
+	// laber for 속성을 nation으로 수정
+	trgetLabelTagObj.attr('for', 'nation');
+
+	$("div#contents div.srch_box > select#nation").attr("title", trgetLabelTagObj.text());
+});
+
+</script>
+
+<input type="hidden" name="frnrSeCd" id="frnrSeCd" value="">
+<!-- [REQ-PD-F-0015] 연도별 도입쿼터 안내 Start -->
+<div id='contents' class='snb'>
+<p id='location'>Home > 고용허가제 정보 > 고용허가제 > 연도별 도입쿼터 안내</p><!-- //현재위치 -->
+<h3><img alt='고용허가제' src='/comm/images/kr/sub/h3_02.gif'></h3><!-- 국가선택 -->
+<script type='text/javascript'>
+
+		/*
+		if(urlname.indexOf(&apos;UserBasicInfoC.jsp&apos;) > 0){
+			$(&apos;#nation&apos;).attr(&apos;disabled&apos; , true);
+			$(&apos;#nationSrchBtn&apos;).remove();
+		}
+		*/
+	/* }
+}); */
+</script>
+
+<div class='srch_box'><!-- <form> -->
+<p><label for='select_country'>국가선택 :</label></p><select id='nation' name='nation'></select><button onclick='fncMoveService();' id='nationSrchBtn'>Search</button> <!-- </form> --></div>
+<h4 class='typeE'>연도별 도입쿼터 안내</h4><!-- 컨텐츠 영역 Start-->
+<div class='subBox'>
+<p><img alt='고용허가제도는 외국인근로자의 체계적인 도입, 관리를 통하여 중소기업의 인력난 완화와 국민경제의 균형있는 발전에 기여하고 있습니다.' src='/comm/images/kr/sub/txt_history.gif'></p>
+<ul class='tab'>
+<li><a href='javascript:fncMoveTab(&apos;01&apos;);'><img alt='고용허가제의 의의와 연혁' src='/comm/images/kr/sub/tab01.gif'></a></li>
+<li><a href='javascript:fncMoveTab(&apos;02&apos;);' title='선택됨'><img alt='연도별 도입쿼터 안내' src='/comm/images/kr/sub/tab02_on.gif'></a></li>
+<li><a href='javascript:fncMoveTab(&apos;03&apos;);'><img alt='운영조직' src='/comm/images/kr/sub/tab03.gif'></a></li>
+<li><a href='javascript:fncMoveTab(&apos;04&apos;);'><img alt='허용업종소개' src='/comm/images/kr/sub/tab06.gif'></a></li>
+<li><a href='javascript:fncMoveTab(&apos;05&apos;);'><img alt='사업장규모별구인인원소개' src='/comm/images/kr/sub/tab04.gif'></a></li>
+<li><a href='javascript:fncMoveTab(&apos;06&apos;);'><img alt='각종보험 및 가입혜택' src='/comm/images/kr/sub/tab05.gif'></a></li></ul><!-- Button -->
+<div class='right'><a href='javascript:AreaPrintAll(document.getElementById(&apos;print&apos;).innerHTML);' title='새창'><img alt='프린트' src='/comm/images/kr/btn_print.gif'></a></div><!-- //Button -->
+<div id='print'>
+<h4 class='typeE'>연도별 도입쿼터 안내</h4><!-- 컨텐츠 영역 Start-->
+<h5 class='typeF f_left'>도입 근로자의 체류자격별ㆍ업종별 배분 </h5><span class='f_right'>(단위:명)</span> <br class='clear'><!-- Board List Start -->
+
+
+<h5 class='year'>2024년</h5>
+<div class='tableF'>
+<table>
+<caption>2024년 도입 근로자의 체류자격별,업종(제조업, 건설업, 서비스업, 농축산업, 어업)별 배분</caption>
+<colgroup>
+<col width='100'>
+<col>
+<col></colgroup>
+<thead>
+<tr>
+<th scope='col'>구분 </th>
+<th scope='col'>인원</th>
+<th scope='col'>제조업</th>
+<th scope='col'>조선업</th>
+<th scope='col'>건설업</th>
+<th scope='col'>서비스업</th>
+<th scope='col'>농축산업</th>
+<th scope='col'>어업</th></tr></thead>
+<tbody>
+<tr>
+<td>일반(E-9)</td>
+<td>143,530[123,530 + α(20,000)]</td>
+<td>77,440 + α</td>
+<td>5,000 + α</td>
+<td>5,440 + α</td>
+<td>12,970 + α</td>
+<td>14,030 + α</td>
+<td>8,650 + α</td>
+</tr>
+<tr>
+<td>재입국 취업자</td>
+<td>21,470</td>
+<td>17,560</td>
+<td>0</td>
+<td>560</td>
+<td>30</td>
+<td>1,970</td>
+<td>1,350</td>
+</tr>
+<tr>
+<td><strong>총계</strong></td>
+<td><strong>165,000[145,000 + α(20,000)]</strong></td>
+<td><strong>95,000 + α</strong></td>
+<td><strong>5,000 + α</strong></td>
+<td><strong>6,000 + α</strong></td>
+<td><strong>13,000 + α</strong></td>
+<td><strong>16,000 + α</strong></td>
+<td><strong>10,000 + α</strong></td>
+</tr></tbody></table></div><!--//2024년도 -->
+
+
+<h5 class='year'>2023년</h5>
+<div class='tableF'>
+<table>
+<caption>2023년 도입 근로자의 체류자격별,업종(제조업, 건설업, 서비스업, 농축산업, 어업)별 배분</caption>
+<colgroup>
+<col width='100'>
+<col>
+<col></colgroup>
+<thead>
+<tr>
+<th scope='col'>구분 </th>
+<th scope='col'>인원</th>
+<th scope='col'>제조업</th>
+<th scope='col'>조선</th>
+<th scope='col'>건설업</th>
+<th scope='col'>서비스업</th>
+<th scope='col'>농축산업</th>
+<th scope='col'>어업</th></tr></thead>
+<tbody>
+<tr>
+<td>일반(E-9)</td>
+<td>98,970[88,470 + α(10,500)]</td>
+<td>62,370 + α</td>
+<td>2,340 + α</td>
+<td>3,210 + α</td>
+<td>2,830 + α</td>
+<td>10,850 + α</td>
+<td>6,870 + α</td>
+
+</tr>
+<tr>
+<td>재입국 취업자</td>
+<td>21,030</td>
+<td>16,731</td>
+<td>0</td>
+<td>409</td>
+<td>40</td>
+<td>3,100</td>
+<td>750</td></tr>
+<tr>
+<td><strong>총계</strong></td>
+<td><strong>120,000[109,500 + α(10,500)]</strong></td>
+<td><strong>79,101 + α</strong></td>
+<td><strong>2,340 + α</strong></td>
+<td><strong>3,619 + α</strong></td>
+<td><strong>2,870 + α</strong></td>
+<td><strong>13,950 + α</strong></td>
+<td><strong>7,620 + α</strong></td>
+</tr>
+</tbody></table></div><!--//2023년도 -->
+
+
+<h5 class='year'>2022년</h5>
+<div class='tableF'>
+<table>
+<caption>2022년 도입 근로자의 체류자격별,업종(제조업, 건설업, 서비스업, 농축산업, 어업)별 배분</caption>
+<colgroup>
+<col width='100'>
+<col>
+<col></colgroup>
+<thead>
+<tr>
+<th scope='col'>구분 </th>
+<th scope='col'>인원</th>
+<th scope='col'>제조업</th>
+<th scope='col'>건설업</th>
+<th scope='col'>서비스업</th>
+<th scope='col'>농축산업</th>
+<th scope='col'>어업</th></tr></thead>
+<tbody>
+<tr>
+<td>일반(E-9)</td>
+<td>45,530[44,530 + α(1,000)]</td>
+<td>31,080 + α</td>
+<td>2,750 + α</td>
+<td>90 + α</td>
+<td>6,810 + α</td>
+<td>3,800 + α</td></tr>
+<tr>
+<td>재입국 취업자</td>
+<td>23,470</td>
+<td>20,220</td>
+<td>10</td>
+<td>10</td>
+<td>2,420</td>
+<td>810</td></tr>
+<tr>
+<td><strong>총계</strong></td>
+<td><strong>69,000[68,000 + α(1,000)]</strong></td>
+<td><strong>51,300 + α</strong></td>
+<td><strong>2,760 + α</strong></td>
+<td><strong>100 + α</strong></td>
+<td><strong>9,230 + α</strong></td>
+<td><strong>4,610 + α</strong></td></tr></tbody></table></div>
+<!--//2022년도 -->
+
+
+<h5 class='year'>2021년</h5>
+<div class='tableF'>
+<table>
+<caption>2021년 도입 근로자의 체류자격별,업종(제조업, 건설업, 서비스업, 농축산업, 어업)별 배분</caption>
+<colgroup>
+<col width='100'>
+<col>
+<col></colgroup>
+<thead>
+<tr>
+<th scope='col'>구분 </th>
+<th scope='col'>인원</th>
+<th scope='col'>제조업</th>
+<th scope='col'>건설업</th>
+<th scope='col'>서비스업</th>
+<th scope='col'>농축산업</th>
+<th scope='col'>어업</th></tr></thead>
+<tbody>
+<tr>
+<td>일반(E-9)</td>
+<td>40,000[37,000 + α(3,000)]</td>
+<td>27,400 + α</td>
+<td>1,780 + α</td>
+<td>80 + α</td>
+<td>5,090 + α</td>
+<td>2,650 + α</td></tr>
+<tr>
+<td>재입국 취업자</td>
+<td>12,000</td>
+<td>10,300</td>
+<td>20</td>
+<td>20</td>
+<td>1,310</td>
+<td>350</td></tr>
+<tr>
+<td><strong>총계</strong></td>
+<td><strong>52,000[49,000 + α(3,000)]</strong></td>
+<td><strong>37,700 + α</strong></td>
+<td><strong>1,800 + α</strong></td>
+<td><strong>100 + α</strong></td>
+<td><strong>6,400 + α</strong></td>
+<td><strong>3,000 + α</strong></td></tr></tbody></table></div><!--//2021년도 -->
+<h5 class='year'>2020년</h5>
+<div class='tableF'>
+<table>
+<caption>2020년 도입 근로자의 체류자격별,업종(제조업, 건설업, 서비스업, 농축산업, 어업)별 배분</caption>
+<colgroup>
+<col width='100'>
+<col>
+<col></colgroup>
+<thead>
+<tr>
+<th scope='col'>구분 </th>
+<th scope='col'>인원</th>
+<th scope='col'>제조업</th>
+<th scope='col'>건설업</th>
+<th scope='col'>서비스업</th>
+<th scope='col'>농축산업</th>
+<th scope='col'>어업</th></tr></thead>
+<tbody>
+<tr>
+<td>일반(E-9)</td>
+<td>44,000[40,500 + α(3,500)]</td>
+<td>30,130 + α</td>
+<td>2,280 + α</td>
+<td>90 + α</td>
+<td>5,300 + α</td>
+<td>2,700 + α</td></tr>
+<tr>
+<td>재입국 취업자</td>
+<td>12,000</td>
+<td>10,570</td>
+<td>20</td>
+<td>10</td>
+<td>1,100</td>
+<td>300</td></tr>
+<tr>
+<td><strong>총계</strong></td>
+<td><strong>56,000[52,500 + α(3,500)]</strong></td>
+<td><strong>40,700 + α</strong></td>
+<td><strong>2,300 + α</strong></td>
+<td><strong>100 + α</strong></td>
+<td><strong>6,400 + α</strong></td>
+<td><strong>3,000 + α</strong></td></tr></tbody></table></div><!-- //2020년도 -->
+<h5 class='year'>2019년</h5>
+<div class='tableF'>
+<table>
+<caption>2019년 도입 근로자의 체류자격별,업종(제조업, 건설업, 서비스업, 농축산업, 어업)별 배분</caption>
+<colgroup>
+<col width='100'>
+<col>
+<col></colgroup>
+<thead>
+<tr>
+<th scope='col'>구분 </th>
+<th scope='col'>인원</th>
+<th scope='col'>제조업</th>
+<th scope='col'>건설업</th>
+<th scope='col'>서비스업</th>
+<th scope='col'>농축산업</th>
+<th scope='col'>어업</th></tr></thead>
+<tbody>
+<tr>
+<td>일반(E-9)</td>
+<td>43,000[39,000 + α(4,000)]</td>
+<td>28,880 + α</td>
+<td>2,280 + α</td>
+<td>90 + α</td>
+<td>5,450 + α</td>
+<td>2,300 + α</td></tr>
+<tr>
+<td>재입국 취업자</td>
+<td>13,000</td>
+<td>11,820</td>
+<td>20</td>
+<td>10</td>
+<td>950</td>
+<td>200</td></tr>
+<tr>
+<td><strong>총계</strong></td>
+<td><strong>56,000[52,000 + α(4,000)]</strong></td>
+<td><strong>40,700 + α</strong></td>
+<td><strong>2,300 + α</strong></td>
+<td><strong>100 + α</strong></td>
+<td><strong>6,400 + α</strong></td>
+<td><strong>2,500 + α</strong></td></tr></tbody></table></div><!-- //2019년도 -->
+<h5 class='year'>2018년</h5>
+<div class='tableF'>
+<table>
+<caption>2018년 도입 근로자의 체류자격별,업종(제조업, 건설업, 서비스업, 농축산업, 어업)별 배분</caption>
+<colgroup>
+<col width='100'>
+<col>
+<col></colgroup>
+<thead>
+<tr>
+<th scope='col'>구분 </th>
+<th scope='col'>인원</th>
+<th scope='col'>제조업</th>
+<th scope='col'>건설업</th>
+<th scope='col'>서비스업</th>
+<th scope='col'>농축산업</th>
+<th scope='col'>어업</th></tr></thead>
+<tbody>
+<tr>
+<td>일반(E-9)</td>
+<td>45,000[43,000 + α(2,000)]</td>
+<td>32,250 + α</td>
+<td>2,390 + α</td>
+<td>90 + α</td>
+<td>5,870 + α</td>
+<td>2,400 + α</td></tr>
+<tr>
+<td>재입국 취업자</td>
+<td>11,000</td>
+<td>10,050</td>
+<td>10</td>
+<td>10</td>
+<td>730</td>
+<td>200</td></tr>
+<tr>
+<td><strong>총계</strong></td>
+<td><strong>56,000[54,000 + α(2,000)]</strong></td>
+<td><strong>42,300 + α</strong></td>
+<td><strong>2,400 + α</strong></td>
+<td><strong>100 + α</strong></td>
+<td><strong>6,600 + α</strong></td>
+<td><strong>2,600 + α</strong></td></tr></tbody></table></div><!-- //2018년도 -->
+<h5 class='year'>2017년</h5>
+<div class='tableF'>
+<table>
+<caption>2017년 도입 근로자의 체류자격별,업종(제조업, 건설업, 서비스업, 농축산업, 어업)별 배분</caption>
+<colgroup>
+<col width='100'>
+<col>
+<col></colgroup>
+<thead>
+<tr>
+<th scope='col'>구분 </th>
+<th scope='col'>인원</th>
+<th scope='col'>제조업</th>
+<th scope='col'>건설업</th>
+<th scope='col'>서비스업</th>
+<th scope='col'>농축산업</th>
+<th scope='col'>어업</th></tr></thead>
+<tbody>
+<tr>
+<td>일반(E-9)</td>
+<td>43,000[41,000 + α(2,000)]</td>
+<td>30,200 + α</td>
+<td>2,390 + α</td>
+<td>90 + α</td>
+<td>5,870 + α</td>
+<td>2,450 + α</td></tr>
+<tr>
+<td>재입국 취업자</td>
+<td>13,000</td>
+<td>12,100</td>
+<td>10</td>
+<td>10</td>
+<td>730</td>
+<td>150</td></tr>
+<tr>
+<td><strong>총계</strong></td>
+<td><strong>56,000[54,000 + α(2,000)]</strong></td>
+<td><strong>42,300 + α</strong></td>
+<td><strong>2,400 + α</strong></td>
+<td><strong>100 + α</strong></td>
+<td><strong>6,600 + α</strong></td>
+<td><strong>2,600 + α</strong></td></tr></tbody></table></div><!-- //2017년도 --><!-- 2016년도-->
+<h5 class='year'>2016년</h5>
+<div class='tableF'>
+<table>
+<caption>2016년 도입 근로자의 체류자격별,업종(제조업, 건설업, 서비스업, 농축산업, 어업)별 배분</caption>
+<colgroup>
+<col width='100'>
+<col>
+<col></colgroup>
+<thead>
+<tr>
+<th scope='col'>구분 </th>
+<th scope='col'>인원</th>
+<th scope='col'>제조업</th>
+<th scope='col'>건설업</th>
+<th scope='col'>서비스업</th>
+<th scope='col'>농축산업</th>
+<th scope='col'>어업</th></tr></thead>
+<tbody>
+<tr>
+<td>일반(E-9)</td>
+<td>46,000[44,000 + α(2,000)]</td>
+<td>33,200 + α</td>
+<td>2,450 + α</td>
+<td>90 + α</td>
+<td>5,900 + α</td>
+<td>2,360 + α</td></tr>
+<tr>
+<td>재입국 취업자</td>
+<td>12,000</td>
+<td>11,000</td>
+<td>50</td>
+<td>10</td>
+<td>700</td>
+<td>240</td></tr>
+<tr>
+<td><strong>총계</strong></td>
+<td><strong>58,000[56,000 + α(2,000)]</strong></td>
+<td><strong>44,200 + α</strong></td>
+<td><strong>2,500 + α</strong></td>
+<td><strong>100 + α</strong></td>
+<td><strong>6,600 + α</strong></td>
+<td><strong>2,600 + α</strong></td></tr></tbody></table></div><!-- //2016년도 --><!-- 2015년도-->
+<h5 class='year'>2015년</h5>
+<div class='tableF'>
+<table>
+<caption>2015년 도입 근로자의 체류자격별,업종(제조업, 건설업, 서비스업, 농축산업, 어업)별 배분</caption>
+<colgroup>
+<col width='100'>
+<col>
+<col></colgroup>
+<thead>
+<tr>
+<th scope='col'>구분 </th>
+<th scope='col'>인원</th>
+<th scope='col'>제조업</th>
+<th scope='col'>건설업</th>
+<th scope='col'>서비스업</th>
+<th scope='col'>농축산업</th>
+<th scope='col'>어업</th></tr></thead>
+<tbody>
+<tr>
+<td>일반(E-9)</td>
+<td>45,000[43,100 + α(1,900)]</td>
+<td>32,890 + α</td>
+<td>2,280 + α</td>
+<td>90 + α</td>
+<td>5,650 + α</td>
+<td>2,190 + α</td></tr>
+<tr>
+<td>재입국 취업자</td>
+<td>10,000</td>
+<td>9,510</td>
+<td>20</td>
+<td>10</td>
+<td>350</td>
+<td>110</td></tr>
+<tr>
+<td><strong>총계</strong></td>
+<td><strong>55,000[53,100 + α(1,900)]</strong></td>
+<td><strong>42,400 + α</strong></td>
+<td><strong>2,300 + α</strong></td>
+<td><strong>100 + α</strong></td>
+<td><strong>6,000 + α</strong></td>
+<td><strong>2,300 + α</strong></td></tr></tbody></table></div><!-- //2015년도 --><!-- 2014년도-->
+<h5 class='year'>2014년</h5>
+<div class='tableF'>
+<table>
+<caption>2014년 도입 근로자의 체류자격별,업종(제조업, 건설업, 서비스업, 농축산업, 어업)별 배분</caption>
+<colgroup>
+<col width='100'>
+<col>
+<col></colgroup>
+<thead>
+<tr>
+<th scope='col'>구분 </th>
+<th scope='col'>인원</th>
+<th scope='col'>제조업</th>
+<th scope='col'>건설업</th>
+<th scope='col'>서비스업</th>
+<th scope='col'>농축산업</th>
+<th scope='col'>어업</th></tr></thead>
+<tbody>
+<tr>
+<td>일반(E-9)</td>
+<td>47,400</td>
+<td>36,950</td>
+<td>2,320</td>
+<td>90</td>
+<td>5,850</td>
+<td>2,190</td></tr>
+<tr>
+<td>동포(H-2)</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td></tr>
+<tr>
+<td>재입국 취업자</td>
+<td>5,600</td>
+<td>5,300</td>
+<td>30</td>
+<td>10</td>
+<td>150</td>
+<td>110</td></tr>
+<tr>
+<td><strong>총계</strong></td>
+<td><strong>53,000</strong></td>
+<td><strong>42,250</strong></td>
+<td><strong>2,350</strong></td>
+<td><strong>100</strong></td>
+<td><strong>6,000</strong></td>
+<td><strong>2,300</strong></td></tr></tbody></table></div><!-- //2014년도 --><!-- 2013년도-->
+<h5 class='year'>2013년</h5>
+<div class='tableF'>
+<table>
+<caption>2013년 도입 근로자의 체류자격별,업종(제조업, 건설업, 서비스업, 농축산업, 어업) 별 배분</caption>
+<colgroup>
+<col width='100'>
+<col>
+<col></colgroup>
+<thead>
+<tr>
+<th scope='col'>구분 </th>
+<th scope='col'>인원</th>
+<th scope='col'>제조업</th>
+<th scope='col'>건설업</th>
+<th scope='col'>서비스업</th>
+<th scope='col'>농축산업</th>
+<th scope='col'>어업</th></tr></thead>
+<tbody>
+<tr>
+<td>일반(E-9)</td>
+<td>52,000</td>
+<td>42,600</td>
+<td>1,560</td>
+<td>90</td>
+<td>5,600</td>
+<td>2,150</td></tr>
+<tr>
+<td>동포(H-2)</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td></tr>
+<tr>
+<td>재입국 취업자</td>
+<td>10,000</td>
+<td>9,400</td>
+<td>40</td>
+<td>10</td>
+<td>400</td>
+<td>150</td></tr>
+<tr>
+<td><strong>총계</strong></td>
+<td><strong>62,000</strong></td>
+<td><strong>52,000</strong></td>
+<td><strong>1,600</strong></td>
+<td><strong>100</strong></td>
+<td><strong>6,000</strong></td>
+<td><strong>2,300</strong></td></tr></tbody></table></div><!-- //2013년도 -->
+<!-- 2012년도-->
+<h5 class='year'>2012년</h5>
+<div class='tableF'>
+<table>
+<caption>2012년 도입 근로자의 체류자격별, 업종(제조업, 건설업, 서비스업, 농축산업, 어업) 별 배분</caption>
+<colgroup>
+<col width='100'>
+<col width='80'>
+<col></colgroup>
+<thead>
+<tr>
+<th rowspan='2' scope='col'>구분 </th>
+<th rowspan='2' scope='col'>인원</th>
+<th colspan='2' scope='col'>제조업</th>
+<th colspan='2' scope='col'>건설업</th>
+<th colspan='2' scope='col'>서비스업</th>
+<th colspan='2' scope='col'>농축산업</th>
+<th colspan='2' scope='col'>어업</th></tr>
+<tr>
+<th scope='col'>상반기</th>
+<th scope='col'>하반기</th>
+<th scope='col'>상반기</th>
+<th scope='col'>하반기</th>
+<th scope='col'>상반기</th>
+<th scope='col'>하반기</th>
+<th scope='col'>상반기</th>
+<th scope='col'>하반기</th>
+<th scope='col'>상반기</th>
+<th scope='col'>하반기</th></tr></thead>
+<tbody>
+<tr>
+<td>일반(E-9)</td>
+<td>46,000</td>
+<td>25,000</td>
+<td>14,100</td>
+<td>1,000</td>
+<td>300</td>
+<td>100</td>
+<td>30</td>
+<td>2,700</td>
+<td>1,150</td>
+<td>900</td>
+<td>720</td></tr>
+<tr>
+<td>동포(H-2)</td>
+<td>0</td>
+<td colspan='2'>0</td>
+<td colspan='2'>0</td>
+<td colspan='2'>0</td>
+<td colspan='2'>0</td>
+<td colspan='2'>0</td></tr>
+<tr>
+<td>재입국 취업자</td>
+<td>11,000</td>
+<td colspan='2'>9,900</td>
+<td colspan='2'>300</td>
+<td colspan='2'>20</td>
+<td colspan='2'>650</td>
+<td colspan='2'>130</td></tr>
+<tr>
+<td><strong>총계</strong></td>
+<td><strong>57,000</strong></td>
+<td colspan='2'><strong>49,000</strong></td>
+<td colspan='2'><strong>1,600</strong></td>
+<td colspan='2'><strong>150</strong></td>
+<td colspan='2'><strong>4,500</strong></td>
+<td colspan='2'><strong>1,750</strong></td></tr></tbody></table></div><!-- //2012년도 -->
+<!-- 2011년도-->
+<h5 class='year'>2011년</h5>
+<div class='tableF'>
+<table>
+<caption>2011년 도입 근로자의 체류자격별, 업종(제조업, 건설업, 서비스업, 농축산업, 어업) 별 배분</caption>
+<colgroup>
+<col width='70'>
+<col>
+<col></colgroup>
+<thead>
+<tr>
+<th scope='col'>구분 </th>
+<th scope='col'>인원</th>
+<th scope='col'>제조업</th>
+<th scope='col'>건설업</th>
+<th scope='col'>서비스업</th>
+<th scope='col'>농축산업</th>
+<th scope='col'>어업</th></tr></thead>
+<tbody>
+<tr>
+<td>일반(E-9)</td>
+<td>48,000</td>
+<td>40,000</td>
+<td>1,600</td>
+<td>150</td>
+<td>4,500</td>
+<td>1,750</td></tr>
+<tr>
+<td>동포(H-2)</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td></tr>
+<tr>
+<td><strong>총계</strong></td>
+<td><strong>48,000</strong></td>
+<td><strong>40,000</strong></td>
+<td><strong>1,600</strong></td>
+<td><strong>150</strong></td>
+<td><strong>4,500</strong></td>
+<td><strong>1,750</strong></td></tr></tbody></table></div><!-- //2011년도 -->
+<!-- 2010년도-->
+<h5 class='year'>2010년</h5>
+<div class='tableF'>
+<table>
+<caption>2010년 도입 근로자의 체류자격별, 업종(제조업, 건설업, 서비스업, 농축산업, 어업)별 배분</caption>
+<colgroup>
+<col width='70'>
+<col>
+<col></colgroup>
+<tbody>
+<tr>
+<th scope='col'>구분 </th>
+<th scope='col'>인원</th>
+<th scope='col'>제조업</th>
+<th scope='col'>건설업</th>
+<th scope='col'>서비스업</th>
+<th scope='col'>농축산업</th>
+<th scope='col'>어업</th></tr>
+<tr>
+<td>일반(E-9)</td>
+<td>34,000</td>
+<td>28,100</td>
+<td>1,600</td>
+<td>100</td>
+<td>3,100</td>
+<td>1,100</td></tr>
+<tr>
+<td>동포(H-2)</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td></tr>
+<tr>
+<td><strong>총계</strong></td>
+<td><strong>34,000</strong></td>
+<td><strong>28,100</strong></td>
+<td><strong>1,600</strong></td>
+<td><strong>100</strong></td>
+<td><strong>3,100</strong></td>
+<td><strong>1,100</strong></td></tr></tbody></table></div><!-- //2010년도 -->
+<!-- 2009년도 -->
+<h5 class='year'>2009년</h5>
+<div class='tableF'>
+<table>
+<caption>2009년 도입 근로자의 체류자격별,업종(제조업, 건설업, 서비스업, 농축산업, 어업) 별 배분</caption>
+<colgroup>
+<col width='70'>
+<col>
+<col></colgroup>
+<thead>
+<tr>
+<th scope='col'>구분 </th>
+<th scope='col'>인원</th>
+<th scope='col'>제조업</th>
+<th scope='col'>건설업</th>
+<th scope='col'>서비스업</th>
+<th scope='col'>농축산업</th>
+<th scope='col'>어업</th></tr></thead>
+<tbody>
+<tr>
+<td>일반(E-9)</td>
+<td>17,000</td>
+<td>13,000</td>
+<td>2,000</td>
+<td>100</td>
+<td>1,000</td>
+<td>900</td></tr>
+<tr>
+<td>동포(H-2)</td>
+<td>17,000</td>
+<td>10,000</td>
+<td>0</td>
+<td>5,900</td>
+<td>1,000</td>
+<td>100</td></tr>
+<tr>
+<td><strong>총계</strong></td>
+<td><strong>34,000</strong></td>
+<td><strong>23,000</strong></td>
+<td><strong>2,000</strong></td>
+<td><strong>6,000</strong></td>
+<td><strong>2,000</strong></td>
+<td><strong>1,000</strong></td></tr></tbody></table></div><!-- //2009년도 -->
+<!-- 2008년도 -->
+<h5 class='year'>2008년</h5>
+<div class='tableF'>
+<table>
+<caption>2008년 도입 근로자의 체류자격별, 업종(제조업, 건설업, 서비스업, 농축산업, 어업)별 배분</caption>
+<colgroup>
+<col width='70'>
+<col>
+<col>
+<col>
+<col width='70'>
+<col width='90'>
+<col width='70'>
+<col>
+<col>
+<col width='70'></colgroup>
+<thead>
+<tr>
+<th rowspan='2' scope='col'>구분 </th>
+<th rowspan='2' scope='col'>계</th>
+<th rowspan='2' scope='col'>제조업</th>
+<th rowspan='2' scope='col'>건설업</th>
+<th colspan='3' scope='col'>서비스업</th>
+<th rowspan='2' scope='col'>농축산업</th>
+<th colspan='2' scope='col'>어업</th></tr>
+<tr>
+<th scope='col'>냉장ㆍ냉동
+창고업</th>
+<th scope='col'>재생용 재료수집 및 판매업(폐차업)</th>
+<th scope='col'>관광 호텔업</th>
+<th scope='col'>연근해어업</th>
+<th scope='col'>양식어업 및 어업관련
+서비스업</th></tr></thead>
+<tbody>
+<tr>
+<td>일반</td>
+<td>72,000</td>
+<td>60,800</td>
+<td>6,000</td>
+<td>100</td>
+<td>100</td>
+<td>200</td>
+<td>4,000</td>
+<td>600</td>
+<td>200</td></tr>
+<tr>
+<td>특례</td>
+<td>60,000</td>
+<td>16,000</td>
+<td>12,000</td>
+<td colspan='3'>30,600</td>
+<td>1,000</td>
+<td>200</td>
+<td>200</td></tr>
+<tr>
+<td><strong>총계</strong></td>
+<td><strong>132,000</strong></td>
+<td><strong>76,800</strong></td>
+<td><strong>18,000</strong></td>
+<td colspan='3'><strong>31,000</strong></td>
+<td><strong>5,000</strong></td>
+<td><strong>800</strong></td>
+<td><strong>400</strong></td></tr></tbody></table></div><!-- //2008년도 -->
+<!-- 2007년도 -->
+<h5 class='year'>2007년</h5>
+<div class='tableF'>
+<table>
+<caption>2007년 도입 근로자의 체류자격별, 업종(제조업, 건설업, 서비스업, 농축산업, 어업)별 배분</caption>
+<colgroup>
+<col width='70'>
+<col>
+<col>
+<col>
+<col width='70'>
+<col width='90'>
+<col>
+<col>
+<col width='70'></colgroup>
+<thead>
+<tr>
+<th rowspan='2' scope='col'>구분 </th>
+<th rowspan='2' scope='col'>계</th>
+<th rowspan='2' scope='col'>제조업</th>
+<th rowspan='2' scope='col'>건설업</th>
+<th colspan='2' scope='col'>서비스업</th>
+<th rowspan='2' scope='col'>농축산업</th>
+<th colspan='2' scope='col'>어업</th></tr>
+<tr>
+<th scope='col'>냉장ㆍ냉동
+창고업</th>
+<th scope='col'>재생용 재료수집 및 판매업(폐차업)</th>
+<th scope='col'>연근해어업</th>
+<th scope='col'>양식어업 및 어업관련
+서비스업</th></tr></thead>
+<tbody>
+<tr>
+<td>일반</td>
+<td>49,600</td>
+<td>42,100</td>
+<td>4,400</td>
+<td>100</td>
+<td>100</td>
+<td>1,900</td>
+<td>800</td>
+<td>200</td></tr>
+<tr>
+<td>특례</td>
+<td>60,000</td>
+<td>27,200</td>
+<td>10,500</td>
+<td colspan='2'>20,400</td>
+<td>1,700</td>
+<td>100</td>
+<td>100</td></tr>
+<tr>
+<td><strong>총계</strong></td>
+<td><strong>109,600</strong></td>
+<td><strong>69,300</strong></td>
+<td><strong>14,900</strong></td>
+<td colspan='2'><strong>20,600</strong></td>
+<td><strong>3,600</strong></td>
+<td><strong>900</strong></td>
+<td><strong>300</strong></td></tr></tbody></table></div><!-- //2007년도 -->
+<!-- 2006년도 -->
+<h5 class='year'>2006년</h5>
+<div class='tableF'>
+<table>
+<caption>2006년 도입 근로자의 체류자격별, 업종(제조업, 건설업, 서비스업, 농축산업, 어업) 별 배분</caption>
+<colgroup>
+<col width='70'>
+<col>
+<col>
+<col>
+<col>
+<col></colgroup>
+<thead>
+<tr>
+<th rowspan='2' scope='col'>업종별</th>
+<th rowspan='2' scope='col'>총계</th>
+<th colspan='3' scope='col'>서비스업</th>
+<th rowspan='2' scope='col'>산업연수제</th></tr>
+<tr>
+<th scope='col'>소계</th>
+<th scope='col'>일반</th>
+<th scope='col'>특례</th></tr></thead>
+<tbody>
+<tr>
+<td>제조업</td>
+<td>69,000</td>
+<td>43,700</td>
+<td>30,600</td>
+<td>13,100</td>
+<td>25,300</td></tr>
+<tr>
+<td>건설업</td>
+<td>10,300</td>
+<td>5,700</td>
+<td>100</td>
+<td>5,600</td>
+<td>4,600</td></tr>
+<tr>
+<td>서비스업</td>
+<td>18,900</td>
+<td>18,900</td>
+<td>250</td>
+<td>18,650</td>
+<td>-</td></tr>
+<tr>
+<td>농축산업</td>
+<td>2,500</td>
+<td>2,000</td>
+<td>1,500</td>
+<td>500</td>
+<td>500</td></tr>
+<tr>
+<td>어업</td>
+<td>4,300</td>
+<td>2,500</td>
+<td>2,300</td>
+<td>200</td>
+<td>1,800</td></tr>
+<tr>
+<td><strong>총계</strong></td>
+<td><strong>105,000</strong></td>
+<td><strong>72,800</strong></td>
+<td><strong>34,750</strong></td>
+<td><strong>38,050</strong></td>
+<td><strong>32,200</strong></td></tr></tbody></table></div><!-- //2006년도 -->
+<!-- 2005년도 -->
+<h5 class='year'>2005년</h5>
+<div class='tableF'>
+<table>
+<caption>2005년 도입 근로자의 체류자격별,업종(제조업, 건설업, 서비스업, 농축산업) 별 배분</caption>
+<colgroup>
+<col width='70'>
+<col width='100'>
+<col>
+<col>
+<col>
+<col></colgroup>
+<thead>
+<tr>
+<th colspan='2' scope='col'>계</th>
+<th scope='col'>제조업</th>
+<th scope='col'>건설업</th>
+<th scope='col'>서비스업</th>
+<th scope='col'>농축산업</th></tr></thead>
+<tbody>
+<tr>
+<td rowspan='2'>18,000</td>
+<td>일반</td>
+<td>12,000</td>
+<td>1,000</td>
+<td>300
+(냉장ㆍ냉동창고업)</td>
+<td>1,000</td></tr>
+<tr>
+<td>특례
+(외국국적동포)</td>
+<td>-</td>
+<td>2,000</td>
+<td>1,700
+(기타)</td>
+<td>-</td></tr></tbody></table></div><!-- //2005년도 -->
+<!-- 2004년도 -->
+<h5 class='year'>2004년</h5>
+<p><strong class='point'>2004년에 신규 도입되는 외국인력 규모는 총79천명</strong>
+(제조업 40천명, 건설업 26천명, 서비스업 4천명, 농축산업 4천명, 연근해어업 5천명)</p>
+<div class='tableF'>
+<table>
+<caption>2004년 도입 근로자의 체류자격별, 업종(제조업, 건설업, 서비스업, 농축산업) 별 배분</caption>
+<colgroup>
+<col width='70'>
+<col width='100'>
+<col>
+<col>
+<col>
+<col></colgroup>
+<thead>
+<tr>
+<th colspan='2' scope='row'>계</th>
+<th scope='row'>제조업</th>
+<th scope='row'>건설업</th>
+<th scope='row'>서비스업</th>
+<th scope='row'>농축산업</th></tr></thead>
+<tbody>
+<tr>
+<td rowspan='2'>41,000</td>
+<td>일반</td>
+<td>17,000</td>
+<td>6,000</td>
+<td>0</td>
+<td>27 ,000</td></tr>
+<tr>
+<td>특례
+(취업관리제)</td>
+<td>-</td>
+<td>12,000</td>
+<td>4,000
+(기타)</td>
+<td>-</td></tr></tbody></table></div></div>
+<p>※ 나머지 외국인력(38천명)은 산업연수제를 통해 도입</p><!-- //2004년도 --><!-- Board List End --></div></div>
+
+<!-- // [REQ-PD-F-0015] 연도별 도입쿼터 안내 End -->
+
+<!-- [REQ-PD-F-0015] DEL-Start -->
+
+<!-- [REQ-PD-F-0015] DEL-End -->
+
+﻿﻿
+<!--e:content -->
+<!--s:quick -->
+<div id="quick">
+    <h2>QUICK MENU</h2>
+    <dl>        
+        <dt class="customer">고객센터</dt>
+        <dd><a href="/eo/VocFaqLst.eo">자주묻는질문</a></dd>
+        <dd><a href="/eo/MyConsultLst.eo">나의상담내역</a></dd>
+        
+    </dl>
+</div>
+<!--e:quick -->
+
+<script type="text/javascript" defer="defer">
+    var keylog = "";
+
+    function fncHandleRequest(xmlHttp, executeFunction) {
+        return function() {
+            if(xmlHttp.readyState == 4) {
+                if(xmlHttp.status == 200) {
+                    executeFunction(xmlHttp.responseXML);
+                }
+            }
+        }
+    }
+
+    function fncRslt(xmlDoc) {
+        var rsltData = xmlDoc.getElementsByTagName("SINGLE");
+
+        if(rsltData != null && rsltData.length > 0) {
+            if(rsltData[0].getElementsByTagName("cnt").length > 0) {
+                alert(rsltData[0].getElementsByTagName("time")[0].firstChild.nodeValue + "\n" +
+                      "loop : " + rsltData[0].getElementsByTagName("cnt")[0].firstChild.nodeValue);
+            }
+        }else{
+            alert("fail!");
+        }
+    }
+    //WA마크
+    function fncWAPop() {
+        var w = 555;
+        var h = 810;
+        var leftPosition = (screen.width - w) / 2;
+        var topPosition = (screen.height - h) / 2;
+        var win = window.open("/comm/pop/wamark.eo", "new", "width=" + w + ", height=" + h + ", left=" + leftPosition + ", top=" + topPosition + ", resizable=no, scrollbars=no;");
+        win.focus();
+    }
+    
+  //메뉴 강조 
+    function fnc_impactMenu(){
+        gnavi = -1;
+        if($('#lnb').length == 1) {
+            leftClass = $('#lnb').attr("class");
+            if(leftClass === 'e9') {
+                gnavi = 1;
+            } else if(leftClass === 'h2') {
+                gnavi = 2;
+            } else if(leftClass === 'employment') {
+                gnavi = 3;
+            } else if(leftClass === 'library') {
+                gnavi = 4;
+            } else if(leftClass === 'customer') {
+                gnavi = 5;
+            }
+        }
+        if(gnavi > 0) {
+	        $('#gnavibox .gnavi:nth-child('+gnavi+')').addClass("on");
+	        const selectAlink = Array.from($('#gnavibox .gnavi:nth-child('+gnavi+')')[0].children).filter(c => c.nodeName === 'A').at(0);
+	        $(selectAlink).attr("title", "선택됨");
+	        const gnavim = Object.values($('#gnavibox .gnavi:nth-child('+gnavi+').on div ul li')).find(function(li) {
+	        	return $(li).text().trim() === $('#lnb.'+leftClass+' ul > li.active > a:first' ).text().trim();
+	        });
+	        
+	        if(gnavim){
+	        	$(gnavim).addClass("on");	
+	        }
+        }
+    }
+
+    setTimeout(() => {
+    	fnc_impactMenu();
+	}, 200);
+</script>
+</div><!--e:container -->
+</div><!--e:sub_container -->
+<footer>
+        <div class="footin">
+            <div class="foot_logo">
+                <a href="http://www.moel.go.kr" target="_blank" title="새창열림"><img src="/comm/img/kr/main_new/foot_logo01.gif" alt="고용노동부"></a>
+                <a href="http://www.keis.or.kr" target="_blank" title="새창열림" class="keis"><img src="/comm/img/kr/main_new/foot_logo02.gif" alt="한국고용정보원"></a>
+            </div>
+            <div class="familysite">
+                <ul>
+                    <li><a href="https://www.keis.or.kr/keis/ko/bbs/270/list.do" target="_blank" title="새창열림" class="active"><strong>개인정보처리방침</strong></a></li>
+                    <li><a href="https://www.keis.or.kr/keis/ko/conts/269/web.do" target="_blank" title="새창열림"><strong>저작권정책</strong></a></li>
+                    <li><a href="/eo/eps_intro.eo">EPS소개</a></li>
+                    <li class="viewer"> 뷰어다운로드&nbsp;
+                        <a href="http://www.hancom.com/downLoad.downPU.do?mcd=002" target="_blank" title="한글뷰어다운로드 새창열림"><img src="/comm/img/kr/main_new/ico_hwp.gif" alt="한글뷰어다운로드"></a>
+                        
+                        <a href="http://get.adobe.com/kr/reader/" target="_blank" title="PDF뷰어다운로드 새창열림"><img src="/comm/img/kr/main_new/ico_pdf.gif" alt="PDF뷰어다운로드"></a>
+                    </li>
+                </ul>
+
+                <address>
+                    27740 충청북도 음성군 맹동면 태정로 6 한국고용정보원
+                    <p>홈페이지 전산 이용 문의 : Tel. 1577-7114 (유료, 한국고용정보원 고객상담센터 평일 09:00~18:00)</p>
+                    <p> 고용·노동 분야 제도 문의 : 국번없이 Tel. 1350 (유료, 고용노동부 고객상담센터 평일 09:00~18:00)</p>
+                </address>
+                <p class="copyright">Copyright ⓒ 2013 고용노동부 All Rights Reserved.</p>
+
+            </div>
+
+            <div class="bnb">
+                <img src="/comm/img/kr/main_new/wa_mark_2026.png" width="88" alt="과학기술정보통신부 WA(WEB접근성) 품질인증 마크, 웹와치(WebWatch) 2026.10.17 ~ 2027.10.16" title="WA 품질인증 마크, 웹와치(WebWatch) 2026.10.17 ~ 2027.10.16"/>
+                <a href="https://apps.apple.com/kr/app/외국인고용관리/id702045889" target="_blank" title="새창열림"><img src="/comm/img/kr/main_new/qr_iphone.gif" alt="외국인고용관리APP(앱 스토어)다운로드 QR 코드 - 아이폰"></a>
+                <a href="https://play.google.com/store/apps/details?id=kr.go.eps.m" target="_blank" title="새창열림"><img src="/comm/img/kr/main_new/qr_android.gif" alt="외국인고용관리APP(구글플레이스토어)다운로드 QR 코드 - 안드로이드"></a>
+            </div>
+            <!-- /bnb -->
+        </div>
+        <!-- e:footin -->
+    </footer>
+</div><!--e:sub_container -->
+</div>
+<!-- e:wrap -->
+</body>
+</html>

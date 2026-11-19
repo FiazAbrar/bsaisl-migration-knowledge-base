@@ -1,0 +1,132 @@
+[GO TO CONTENT](#container) [GO TO MAIN MENU](#main-gnb) [GO TO FOOTER](#krds-footer)
+
+This website is the official e-government website of the Republic of Korea.
+
+- - [ FACEBOOK ](https://www.facebook.com/profile.php?id=61558977977076 "new window")
+  - [ YOUTUBE ](https://www.youtube.com/channel/UCF_smPd0OUkFQ0d-dPlZgMA?view_as=subscriber "new window")
+
+- Current Language **English**
+
+  - [한국어 (Korean) ](/bd-ko/index.do "Go to Page")
+  - [English ](# "Go to Page")
+
+- - [ RSS ](/bd-ko/wpge/m_24122/contents.do "new window")
+  - [ Ministry of Foreign Affairs, REPUBLIC OF KOREA ROK MOFA ](https://www.mofa.go.kr/ "new window")
+
+## [**Embassy of the Republic of Korea in People's Republic of Bangladesh**](/bd-en/index.do)
+
+# 
+
+## \[Notice\] Important Information for Applicants to Korean Universities
+
+DATE  
+2026-07-24
+
+Recently, due to the suspension of operations and ongoing bankruptcy proceedings of Shin Gyeongju University, some Bangladeshi students who applied to the university have experienced difficulties in obtaining a Certificate of Admission and a Confirmation of Visa Issuance, or in receiving refunds of tuition fees already paid.
+
+ 
+
+In this regard, the Embassy of the Republic of Korea in Bangladesh would like to provide the following guidance to Bangladeshi students who are preparing to study in Korea.
+
+ 
+
+1. The selection of and application to a university are the student’s own decision and responsibility
+
+ㅇ Before applying to a Korean university, students are strongly advised to carefully verify the university’s financial condition, operational status, eligibility to recruit international students, academic programmes, and tuition refund policies. Students should not rely solely on information provided by education consultants or recruitment agencies. They should directly confirm all admission and enrolment-related matters through the university’s official website or the relevant university office.
+
+ 
+
+2. Agreements with universities or education agencies are private civil contracts
+
+ㅇ Contracts concluded between students and universities or education agencies, including matters relating to service fees, tuition payments, and refunds, are, in principle, civil matters that must be resolved between the parties concerned. The Embassy of the Republic of Korea in Bangladesh does not recommend, guarantee, endorse, or arrange admission to any particular university or education agency. The Embassy has no authority to intervene in or mediate contractual or financial disputes between students and universities or education agencies.
+
+ 
+
+3. Please verify the following before paying tuition fees or service charges
+
+ ㅇ Before making any payment, students are advised to confirm the following:
+
+\
+
+ - Whether an official Certificate of Admission has been issued in the name of the university;
+
+ - The exact amount of tuition fees and service charges, and the correct bank account for payment;
+
+ - Refund conditions in the event of cancellation of enrolment or visa refusal;
+
+ - The expected refund processing period and any applicable deductions;
+
+ - Whether the education agency is properly registered and the terms stated in the contract;
+
+ - Whether the university is operating normally and is authorised to recruit international students.
+
+ - Students should retain all relevant documents, including contracts, payment receipts, emails, and text messages,
+
+    in case a dispute arises.
+
+ 
+
+4. Admission and tuition refund matters should be addressed directly with the university or education agency
+
+ㅇ Questions concerning the suspension of university operations, non-issuance of a Certificate of Admission, non-issuance of a Confirmation of Visa Issuance, or delays in tuition refunds should be addressed directly to the relevant university or education agency.
+
+ 
+
+Where necessary, students may seek information on appropriate remedies from the relevant authorities in the Republic of Korea or consult a qualified legal professional.
+
+ 
+
+All students planning to study in Korea are strongly advised to carefully assess the reliability of the university and education agency, as well as the contractual terms and refund policies, before submitting an application or making any payment.
+
+ 
+
+Embassy of the Republic of Korea in Bangladesh
+
+\
+
+[List](./list.do?page=1&srchFr=&srchTo=&srchWord=&srchTp=&multi_itm_seq=0&itm_seq_1=0&itm_seq_2=0&company_cd=&company_nm=)
+
+![loading](/images/egovframework/cms/loading/ajax-loader.gif)
+
+**Embassy of the Republic of Korea in People's Republic of Bangladesh**
+
+Embassy of the Republic of Korea 4 Madani Avenue Baridhara, Dhaka-1212 Bangladesh
+
+- Tel : (+8802) 5881-2088~90 \| Hours of Operation : 09:00~12:30, 13:30~17:00\
+  (Sunday~Thursday)
+
+[Organization and Telephone Numbers ](https://www.mofa.go.kr/eng/wpge/m_5746/contents.do)
+
+[FACEBOOK ](https://www.facebook.com/mofakr.kr "FACEBOOK new window") [INSTAGRAM ](https://www.instagram.com/mofa_kr/ "INSTAGRAM new window") [YOUTUBE ](https://www.youtube.com/user/MOFAKorea "YOUTUBE new window") [X ](https://x.com/mofa_kr "X new window")
+
+[**Privacy Guidelines**](https://www.mofa.go.kr/eng/wpge/m_5802/contents.do)
+
+The Korean version is the official version of all news content.
+
+© Ministry of Foreign Affairs. All rights reserved.
+
+Ministry of Foreign Affairs, REPUBLIC OF KOREA This is the Ministry of Foreign Affairs website.
+
+### Total Search
+
+Please enter a search term.
+
+### Embassy Popup window
+
+Don't show again today
+
+### View All Embassy Popup
+
+### Emergency contact
+
+**CONTACT** (Office Time) +880-2-5881-2088-90\
+
+### 'Notice Board' View All
+
+### 'Major Policies' View All
+
+### 'Bottom Banner' View All
+
+### ROK Missions Overseas
+
+### Foreign Missons in ROK

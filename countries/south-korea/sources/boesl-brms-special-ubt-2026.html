@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<script nonce="jscq9pFubcNGanzXtJoUBiWrvdjMpuQ5RVI9IUej">
+    (function () {
+        function onImageError(img) {
+            if (img.hasAttribute('data-remove-on-error')) img.remove();
+            else if (img.hasAttribute('data-hide-on-error')) img.style.visibility = 'hidden';
+        }
+        // "error" doesn't bubble, so listen in the capture phase; images that failed before this ran are caught on load
+        document.addEventListener('error', function (e) {
+            if (e.target instanceof HTMLImageElement) onImageError(e.target);
+        }, true);
+        document.addEventListener('DOMContentLoaded', function () {
+            document.querySelectorAll('img[data-remove-on-error], img[data-hide-on-error]').forEach(function (img) {
+                if (img.complete && img.naturalWidth === 0) onImageError(img);
+            });
+        });
+        document.addEventListener('click', function (e) {
+            if (e.target.closest('[data-history-back]')) {
+                e.preventDefault();
+                history.back();
+            }
+        });
+        document.addEventListener('change', function (e) {
+            if (e.target.matches('select[data-navigate-on-change]')) window.location.href = e.target.value;
+        });
+        document.addEventListener('keydown', function (e) {
+            if (e.target.matches('[data-letters-only]') && !/[A-Za-z\s]/i.test(e.key)) e.preventDefault();
+        });
+        document.addEventListener('submit', function (e) {
+            if (e.target.matches('form[data-no-submit]')) e.preventDefault();
+        });
+    })();
+</script>
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.bunny.net">
+<link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet">
+<!-- Styles -->
+<style>
+    /* ! tailwindcss v3.2.4 | MIT License | https://tailwindcss.com */*,::after,::before{box-sizing:border-box;border-width:0;border-style:solid;border-color:#e5e7eb}::after,::before{--tw-content:''}html{line-height:1.5;-webkit-text-size-adjust:100%;-moz-tab-size:4;tab-size:4;font-family:Figtree, sans-serif;font-feature-settings:normal}body{margin:0;line-height:inherit}hr{height:0;color:inherit;border-top-width:1px}abbr:where([title]){-webkit-text-decoration:underline dotted;text-decoration:underline dotted}h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit}a{color:inherit;text-decoration:inherit}b,strong{font-weight:bolder}code,kbd,pre,samp{font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}table{text-indent:0;border-color:inherit;border-collapse:collapse}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;font-weight:inherit;line-height:inherit;color:inherit;margin:0;padding:0}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button;background-color:transparent;background-image:none}:-moz-focusring{outline:auto}:-moz-ui-invalid{box-shadow:none}progress{vertical-align:baseline}::-webkit-inner-spin-button,::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}summary{display:list-item}blockquote,dd,dl,figure,h1,h2,h3,h4,h5,h6,hr,p,pre{margin:0}fieldset{margin:0;padding:0}legend{padding:0}menu,ol,ul{list-style:none;margin:0;padding:0}textarea{resize:vertical}input::placeholder,textarea::placeholder{opacity:1;color:#9ca3af}[role=button],button{cursor:pointer}:disabled{cursor:default}audio,canvas,embed,iframe,img,object,svg,video{display:block;vertical-align:middle}img,video{max-width:100%;height:auto}[hidden]{display:none}*, ::before, ::after{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgb(59 130 246 / 0.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: }::-webkit-backdrop{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgb(59 130 246 / 0.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: }::backdrop{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgb(59 130 246 / 0.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: }.relative{position:relative}.mx-auto{margin-left:auto;margin-right:auto}.mx-6{margin-left:1.5rem;margin-right:1.5rem}.ml-4{margin-left:1rem}.mt-16{margin-top:4rem}.mt-6{margin-top:1.5rem}.mt-4{margin-top:1rem}.-mt-px{margin-top:-1px}.mr-1{margin-right:0.25rem}.flex{display:flex}.inline-flex{display:inline-flex}.grid{display:grid}.h-16{height:4rem}.h-7{height:1.75rem}.h-6{height:1.5rem}.h-5{height:1.25rem}.min-h-screen{min-height:100vh}.w-auto{width:auto}.w-16{width:4rem}.w-7{width:1.75rem}.w-6{width:1.5rem}.w-5{width:1.25rem}.max-w-7xl{max-width:80rem}.shrink-0{flex-shrink:0}.scale-100{--tw-scale-x:1;--tw-scale-y:1;transform:translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.grid-cols-1{grid-template-columns:repeat(1, minmax(0, 1fr))}.items-center{align-items:center}.justify-center{justify-content:center}.gap-6{gap:1.5rem}.gap-4{gap:1rem}.self-center{align-self:center}.rounded-lg{border-radius:0.5rem}.rounded-full{border-radius:9999px}.bg-gray-100{--tw-bg-opacity:1;background-color:rgb(243 244 246 / var(--tw-bg-opacity))}.bg-white{--tw-bg-opacity:1;background-color:rgb(255 255 255 / var(--tw-bg-opacity))}.bg-red-50{--tw-bg-opacity:1;background-color:rgb(254 242 242 / var(--tw-bg-opacity))}.bg-dots-darker{background-image:url("data:image/svg+xml,%3Csvg width='30' height='30' viewBox='0 0 30 30' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1.22676 0C1.91374 0 2.45351 0.539773 2.45351 1.22676C2.45351 1.91374 1.91374 2.45351 1.22676 2.45351C0.539773 2.45351 0 1.91374 0 1.22676C0 0.539773 0.539773 0 1.22676 0Z' fill='rgba(0,0,0,0.07)'/%3E%3C/svg%3E")}.from-gray-700\/50{--tw-gradient-from:rgb(55 65 81 / 0.5);--tw-gradient-to:rgb(55 65 81 / 0);--tw-gradient-stops:var(--tw-gradient-from), var(--tw-gradient-to)}.via-transparent{--tw-gradient-to:rgb(0 0 0 / 0);--tw-gradient-stops:var(--tw-gradient-from), transparent, var(--tw-gradient-to)}.bg-center{background-position:center}.stroke-red-500{stroke:#ef4444}.stroke-gray-400{stroke:#9ca3af}.p-6{padding:1.5rem}.px-6{padding-left:1.5rem;padding-right:1.5rem}.text-center{text-align:center}.text-right{text-align:right}.text-xl{font-size:1.25rem;line-height:1.75rem}.text-sm{font-size:0.875rem;line-height:1.25rem}.font-semibold{font-weight:600}.leading-relaxed{line-height:1.625}.text-gray-600{--tw-text-opacity:1;color:rgb(75 85 99 / var(--tw-text-opacity))}.text-gray-900{--tw-text-opacity:1;color:rgb(17 24 39 / var(--tw-text-opacity))}.text-gray-500{--tw-text-opacity:1;color:rgb(107 114 128 / var(--tw-text-opacity))}.underline{-webkit-text-decoration-line:underline;text-decoration-line:underline}.antialiased{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.shadow-2xl{--tw-shadow:0 25px 50px -12px rgb(0 0 0 / 0.25);--tw-shadow-colored:0 25px 50px -12px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.shadow-gray-500\/20{--tw-shadow-color:rgb(107 114 128 / 0.2);--tw-shadow:var(--tw-shadow-colored)}.transition-all{transition-property:all;transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);transition-duration:150ms}.selection\:bg-red-500 *::selection{--tw-bg-opacity:1;background-color:rgb(239 68 68 / var(--tw-bg-opacity))}.selection\:text-white *::selection{--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity))}.selection\:bg-red-500::selection{--tw-bg-opacity:1;background-color:rgb(239 68 68 / var(--tw-bg-opacity))}.selection\:text-white::selection{--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity))}.hover\:text-gray-900:hover{--tw-text-opacity:1;color:rgb(17 24 39 / var(--tw-text-opacity))}.hover\:text-gray-700:hover{--tw-text-opacity:1;color:rgb(55 65 81 / var(--tw-text-opacity))}.focus\:rounded-sm:focus{border-radius:0.125rem}.focus\:outline:focus{outline-style:solid}.focus\:outline-2:focus{outline-width:2px}.focus\:outline-red-500:focus{outline-color:#ef4444}.group:hover .group-hover\:stroke-gray-600{stroke:#4b5563}.z-10{z-index: 10}@media (prefers-reduced-motion: no-preference){.motion-safe\:hover\:scale-\[1\.01\]:hover{--tw-scale-x:1.01;--tw-scale-y:1.01;transform:translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}}@media (prefers-color-scheme: dark){.dark\:bg-gray-900{--tw-bg-opacity:1;background-color:rgb(17 24 39 / var(--tw-bg-opacity))}.dark\:bg-gray-800\/50{background-color:rgb(31 41 55 / 0.5)}.dark\:bg-red-800\/20{background-color:rgb(153 27 27 / 0.2)}.dark\:bg-dots-lighter{background-image:url("data:image/svg+xml,%3Csvg width='30' height='30' viewBox='0 0 30 30' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1.22676 0C1.91374 0 2.45351 0.539773 2.45351 1.22676C2.45351 1.91374 1.91374 2.45351 1.22676 2.45351C0.539773 2.45351 0 1.91374 0 1.22676C0 0.539773 0.539773 0 1.22676 0Z' fill='rgba(255,255,255,0.07)'/%3E%3C/svg%3E")}.dark\:bg-gradient-to-bl{background-image:linear-gradient(to bottom left, var(--tw-gradient-stops))}.dark\:stroke-gray-600{stroke:#4b5563}.dark\:text-gray-400{--tw-text-opacity:1;color:rgb(156 163 175 / var(--tw-text-opacity))}.dark\:text-white{--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity))}.dark\:shadow-none{--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.dark\:ring-1{--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);box-shadow:var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000)}.dark\:ring-inset{--tw-ring-inset:inset}.dark\:ring-white\/5{--tw-ring-color:rgb(255 255 255 / 0.05)}.dark\:hover\:text-white:hover{--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity))}.group:hover .dark\:group-hover\:stroke-gray-400{stroke:#9ca3af}}@media (min-width: 640px){.sm\:fixed{position:fixed}.sm\:top-0{top:0px}.sm\:right-0{right:0px}.sm\:ml-0{margin-left:0px}.sm\:flex{display:flex}.sm\:items-center{align-items:center}.sm\:justify-center{justify-content:center}.sm\:justify-between{justify-content:space-between}.sm\:text-left{text-align:left}.sm\:text-right{text-align:right}}@media (min-width: 768px){.md\:grid-cols-2{grid-template-columns:repeat(2, minmax(0, 1fr))}}@media (min-width: 1024px){.lg\:gap-8{gap:2rem}.lg\:p-8{padding:2rem}}
+</style>
+
+<script nonce="jscq9pFubcNGanzXtJoUBiWrvdjMpuQ5RVI9IUej" src="https://brms.boesl.gov.bd/assets/js/jquery.min.js"></script>
+<script nonce="jscq9pFubcNGanzXtJoUBiWrvdjMpuQ5RVI9IUej" src="https://brms.boesl.gov.bd/assets/js/main.js"></script>
+
+<script nonce="jscq9pFubcNGanzXtJoUBiWrvdjMpuQ5RVI9IUej" src="https://brms.boesl.gov.bd/assets/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+<link href="https://brms.boesl.gov.bd/assets/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+<script nonce="jscq9pFubcNGanzXtJoUBiWrvdjMpuQ5RVI9IUej" src="https://brms.boesl.gov.bd/assets/js/toastr.min.js"></script>
+<link href="https://brms.boesl.gov.bd/assets/css/toastr.min.css" rel="stylesheet">
+
+
+<link href="https://brms.boesl.gov.bd/assets/css/main.css?v=1793528564" rel="stylesheet">
+<link href="https://brms.boesl.gov.bd/assets/css/admin-theme.css?v=1793528564" rel="stylesheet">
+
+<style>
+    .loading-ui {
+        position: relative;
+    }
+    .loading-ui::after {
+        content: " ";
+        display: block;
+        position: absolute;
+        width: 64px;
+        height: 64px;
+        margin-top: -32px;
+        margin-left: -32px;
+        top: 152px;
+        left: 50%;
+        border-radius: 50%;
+        border: 8px solid var(--bs-primary);
+        border-top-color: transparent;
+        border-bottom-color: transparent;
+        animation: lds-dual-ring 1.2s linear infinite;
+    }
+    .loading-ui.loading-centered::after {
+        top: 50%;
+    }
+    .loading-ui.loading-small::after {
+        animation: lds-dual-ring-small 1.2s linear infinite;
+    }
+    .loading-ui.loading-hidden>*,
+    .loading-ui.loading-hidden~.loading-hidden>* {
+        visibility: hidden;
+        opacity: 0;
+        transform: scale(0);
+        pointer-events: none;
+    }
+    .loading-ui.btn {
+        color: transparent;
+    }
+    .loading-ui.btn::after {
+        top: 50%;
+        border-width: 3px;
+        border-left-color: #fff;
+        border-right-color: #fff;
+        width: 20px;
+        height: 20px;
+        margin-top: -10px;
+        margin-left: -10px;
+    }
+    .modal-footer.loading-ui {
+        padding: 35px;
+    }
+    .modal-footer.loading-ui::after {
+        top: 50%;
+        border-width: 4px;
+        width: 30px;
+        height: 30px;
+        margin-top: -15px;
+        margin-left: -15px;
+    }
+    .datatable-container.loading-ui>* {
+        opacity: 0;
+        pointer-events: none;
+        transform: scale(0);
+    }
+    .datatable-container.loading-ui::after {
+        top: 80px;
+    }
+    .modal-footer.loading-ui .btn {
+        display: none;
+    }
+    .modal-footer.loading-ui>form {
+        display: none;
+    }
+    @keyframes lds-dual-ring {
+        0% {
+            transform: rotate(0deg);
+        }
+        100% {
+            transform: rotate(360deg);
+        }
+    }
+    @keyframes lds-dual-ring-small {
+        0% {
+            transform: rotate(0deg) scale(0.5);
+        }
+        100% {
+            transform: rotate(360deg) scale(0.5);
+        }
+    }
+</style>
+    <title>BOESL - Job</title>
+    <link rel="icon" href="https://brms.boesl.gov.bd/assets/images/logo_big.png" type="image/png">
+    <meta name="csrf-token" content="0o93B51t0TzBk3NAIDLNfXhyu9igH7Go1HzOJric">
+    <style>
+    </style>
+        <style>
+        .jd-hero {
+            background-color: #eef5f1;
+            background-size: cover;
+            background-position: center bottom;
+            padding: 22px 0 28px;
+            border-bottom: 1px solid #e3ebe6;
+        }
+
+        .jd-back {
+            display: inline-block;
+            color: #2a332e;
+            text-decoration: none;
+            font-weight: 500;
+            margin-bottom: 14px;
+        }
+
+        .jd-back:hover {
+            color: var(--bs-primary);
+        }
+
+        .jd-head {
+            display: flex;
+            align-items: center;
+            gap: 22px;
+            background: rgba(255, 255, 255, 0.92);
+            border: 1px solid #e3ebe6;
+            border-radius: 18px;
+            padding: 22px 24px;
+            box-shadow: 0 10px 30px rgba(22, 36, 29, 0.06);
+        }
+
+        .jd-thumb {
+            flex: 0 0 auto;
+            width: 96px;
+            height: 96px;
+            border-radius: 14px;
+            object-fit: cover;
+            background: #f3f6f4;
+            border: 1px solid #e6ecea;
+        }
+
+        .jd-head-text {
+            flex: 1 1 auto;
+            min-width: 0;
+        }
+
+        .jd-status {
+            display: inline-block;
+            font-size: 0.78rem;
+            font-weight: 600;
+            border-radius: 999px;
+            padding: 4px 12px;
+            margin-bottom: 8px;
+        }
+
+        .jd-status.is-open {
+            background: #e7f5ec;
+            color: #157347;
+        }
+
+        .jd-status.is-soon {
+            background: #fff4dc;
+            color: #9a6200;
+        }
+
+        .jd-status.is-closed {
+            background: #f1f3f2;
+            color: #6c7873;
+        }
+
+        .jd-title {
+            font-size: 1.6rem;
+            font-weight: 700;
+            color: #16241d;
+            margin: 0 0 6px;
+            overflow-wrap: anywhere;
+        }
+
+        .jd-company {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            color: #4d5a54;
+            font-weight: 500;
+        }
+
+        .jd-cta {
+            flex: 0 0 auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .jd-apply {
+            padding: 12px 34px;
+            font-weight: 600;
+            border-radius: 12px;
+            white-space: nowrap;
+        }
+
+        .jd-apply.is-disabled {
+            background: #e9ecea;
+            color: #6c7873;
+            cursor: not-allowed;
+        }
+
+        .jd-cta-note {
+            max-width: 220px;
+            text-align: center;
+            font-size: 0.78rem;
+            color: #6c7873;
+        }
+
+        .jd-body {
+            padding-top: 28px;
+            padding-bottom: 48px;
+        }
+
+        .jd-card {
+            background: #fff;
+            border: 1px solid #e6ecea;
+            border-radius: 18px;
+            padding: 22px 24px;
+            margin-bottom: 24px;
+            box-shadow: 0 6px 22px rgba(22, 36, 29, 0.04);
+        }
+
+        .jd-card-title {
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: #16241d;
+            margin-bottom: 18px;
+        }
+
+        .jd-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+            gap: 14px;
+        }
+
+        .jd-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+            background: #f8faf9;
+            border: 1px solid #eef1f0;
+            border-radius: 14px;
+            padding: 14px 16px;
+        }
+
+        .jd-item-icon {
+            flex: 0 0 auto;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 40px;
+            height: 40px;
+            border-radius: 12px;
+            background: #e7f5ec;
+            color: var(--bs-primary);
+        }
+
+        .jd-item-text {
+            min-width: 0;
+        }
+
+        .jd-item-label {
+            font-size: 0.78rem;
+            color: #6c7873;
+            margin-bottom: 2px;
+        }
+
+        .jd-item-value {
+            font-weight: 600;
+            color: #16241d;
+            overflow-wrap: anywhere;
+        }
+
+        .jd-item-sub {
+            font-size: 0.8rem;
+            color: #6c7873;
+        }
+
+        .jd-card-head {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 12px;
+            margin-bottom: 16px;
+        }
+
+        .jd-card-actions {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .jd-btn-outline {
+            border: 1px solid #cfe3d8;
+            color: var(--bs-primary);
+            background: #fff;
+            border-radius: 10px;
+            padding: 7px 14px;
+            font-size: 0.88rem;
+            font-weight: 600;
+        }
+
+        .jd-btn-outline:hover {
+            background: #eef7f2;
+            color: var(--bs-primary);
+        }
+
+        .jd-pdf {
+            border: 1px solid #e6ecea;
+            border-radius: 12px;
+            overflow: hidden;
+            background: #f3f6f4;
+        }
+
+        .jd-pdf iframe {
+            display: block;
+            width: 100%;
+            height: 85vh;
+            min-height: 560px;
+            border: 0;
+        }
+
+        .jd-pdf-note {
+            font-size: 0.8rem;
+            color: #8b948f;
+            margin: 10px 0 0;
+        }
+
+        @media (max-width: 767px) {
+            .jd-head {
+                flex-wrap: wrap;
+                gap: 14px;
+                padding: 18px;
+            }
+
+            .jd-thumb {
+                width: 72px;
+                height: 72px;
+            }
+
+            .jd-head-text {
+                flex-basis: calc(100% - 90px);
+            }
+
+            .jd-title {
+                font-size: 1.25rem;
+            }
+
+            .jd-cta {
+                flex-basis: 100%;
+            }
+
+            .jd-apply {
+                width: 100%;
+            }
+
+            .jd-card {
+                padding: 18px 16px;
+            }
+
+            .jd-grid {
+                grid-template-columns: 1fr 1fr;
+                gap: 10px;
+            }
+
+            .jd-item {
+                flex-direction: column;
+                gap: 8px;
+                padding: 12px;
+            }
+
+            .jd-item-icon {
+                width: 34px;
+                height: 34px;
+            }
+
+            .jd-pdf iframe {
+                height: 70vh;
+                min-height: 420px;
+            }
+        }
+    </style>
+</head>
+<body class="antialiased">
+<div class="">
+
+    <header class="site-header ">
+    <div class="container">
+        <nav class="site-navbar">
+            <a href="https://brms.boesl.gov.bd" class="site-brand">
+                <img src="https://brms.boesl.gov.bd/assets/images/logo_big.png" alt="BOESL" class="site-brand-logo">
+            </a>
+
+            <button class="site-nav-toggle" type="button" id="siteNavToggle" aria-controls="siteNavCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+
+            <div class="site-nav-collapse" id="siteNavCollapse">
+                <ul class="site-nav-links">
+                    <li><a href="#about_boesl" class="site-nav-link">About BOESL</a></li>
+                    <li><a href="/#jobs_top" class="site-nav-link">Start Applying</a></li>
+                    <li><a href="#contact_us" class="site-nav-link">Contact Us</a></li>
+                </ul>
+
+                <div class="site-nav-actions">
+                                            <a href="https://brms.boesl.gov.bd/login" class="btn site-btn-login">Log In</a>
+                        <a href="https://brms.boesl.gov.bd/registration" class="btn btn-primary site-btn-register">Register</a>
+                                        <span class="btn-group site-lang-toggle">
+    <a href="https://brms.boesl.gov.bd/change-lang" class="btn ">BN</a>
+    <a href="https://brms.boesl.gov.bd/change-lang" class="btn active shut-off">EN</a>
+</span>
+
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>
+
+        <div class="jd-hero" style="background-image:url('https://brms.boesl.gov.bd/assets/images/cover.jpg');">
+        <div class="container">
+            <a href="https://brms.boesl.gov.bd" class="jd-back">&larr; Back</a>
+
+            <div class="jd-head">
+                <img src="https://brms.boesl.gov.bd/uploads/public/photo/thumbnail/default.jpeg" alt="" class="jd-thumb" data-hide-on-error>
+                <div class="jd-head-text">
+                    <span class="jd-status is-closed">
+                                                    Applications closed
+                                            </span>
+                    <h1 class="jd-title">Special UBT Registration (Without Re-Settlement)</h1>
+                                            <div class="jd-company"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 21h18"/><path d="M5 21V7l8-4v18"/><path d="M19 21V11l-6-4"/><path d="M9 9v.01M9 12v.01M9 15v.01M9 18v.01"/></svg> Special UBT</div>
+                                    </div>
+                <div class="jd-cta">
+                                            <span class="btn jd-apply is-disabled" aria-disabled="true">Applications closed</span>
+                                    </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container jd-body">
+        <section class="jd-card">
+            <h2 class="jd-card-title">Job details</h2>
+            <div class="jd-grid">
+                                    <div class="jd-item">
+                        <span class="jd-item-icon"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 21h18"/><path d="M5 21V7l8-4v18"/><path d="M19 21V11l-6-4"/><path d="M9 9v.01M9 12v.01M9 15v.01M9 18v.01"/></svg></span>
+                        <div class="jd-item-text">
+                            <div class="jd-item-label">Company</div>
+                            <div class="jd-item-value">Special UBT</div>
+                                                    </div>
+                    </div>
+                                    <div class="jd-item">
+                        <span class="jd-item-icon"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-12a7 7 0 0 1 14 0c0 5.8-7 12-7 12z"/><circle cx="12" cy="9" r="2.5"/></svg></span>
+                        <div class="jd-item-text">
+                            <div class="jd-item-label">Country</div>
+                            <div class="jd-item-value">South Korea</div>
+                                                    </div>
+                    </div>
+                                    <div class="jd-item">
+                        <span class="jd-item-icon"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/><path d="M3 13h18"/></svg></span>
+                        <div class="jd-item-text">
+                            <div class="jd-item-label">Sector</div>
+                            <div class="jd-item-value">Special UBT</div>
+                                                    </div>
+                    </div>
+                                    <div class="jd-item">
+                        <span class="jd-item-icon"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="18" height="17" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg></span>
+                        <div class="jd-item-text">
+                            <div class="jd-item-label">Closing date</div>
+                            <div class="jd-item-value">11 March 2026</div>
+                                                            <div class="jd-item-sub">03:00 PM</div>
+                                                    </div>
+                    </div>
+                                    <div class="jd-item">
+                        <span class="jd-item-icon"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="6" width="20" height="13" rx="2"/><circle cx="12" cy="12.5" r="2.5"/><path d="M6 12.5h.01M18 12.5h.01"/></svg></span>
+                        <div class="jd-item-text">
+                            <div class="jd-item-label">Application fee</div>
+                            <div class="jd-item-value">৳3,916</div>
+                                                    </div>
+                    </div>
+                            </div>
+        </section>
+
+        <section class="jd-card">
+            <div class="jd-card-head">
+                <h2 class="jd-card-title mb-0">Job circular</h2>
+                <div class="jd-card-actions">
+                    <a href="https://brms.boesl.gov.bd/uploads/public/document/job_post/SfpYXSH3e2HnFcvdczleaGAch3rwUHXwmCfAaKSP.pdf" target="_blank" rel="noopener" class="btn jd-btn-outline">Open in new tab</a>
+                    <a href="https://brms.boesl.gov.bd/uploads/public/document/job_post/SfpYXSH3e2HnFcvdczleaGAch3rwUHXwmCfAaKSP.pdf" download class="btn jd-btn-outline">Download</a>
+                </div>
+            </div>
+            <div class="jd-pdf">
+                <iframe src="https://brms.boesl.gov.bd/uploads/public/document/job_post/SfpYXSH3e2HnFcvdczleaGAch3rwUHXwmCfAaKSP.pdf" title="Job circular"></iframe>
+            </div>
+            <p class="jd-pdf-note">If the circular does not show here, open it in a new tab.</p>
+        </section>
+    </div>
+    <footer class="site-footer">
+    <div class="container">
+        <div class="row site-footer-top">
+            <div class="col-md-4 mb-4 mb-md-0">
+                <a href="https://brms.boesl.gov.bd" class="site-footer-brand">
+                    <img src="https://brms.boesl.gov.bd/assets/images/logo_big.png" alt="BOESL" height="54" width="45">
+                    <span class="site-footer-brand-text">
+                        BOESL
+                        <small>Bangladesh Overseas Employment and Services Ltd.</small>
+                    </span>
+                </a>
+                <p class="site-footer-tagline">BOESL ensures ethical, safe and affordable immigration</p>
+            </div>
+            <div class="col-md-5 mb-4 mb-md-0" id="contact_us">
+                <h6 class="site-footer-heading">Office address</h6>
+                                <p class="site-footer-text">71-72 Eskaton Garden, Pravasi Kalyan Bhawan (4th Floor), Ramna,<br>Dhaka-1000, Bangladesh</p>
+            </div>
+            <div class="col-md-3">
+                <h6 class="site-footer-heading">Contact</h6>
+                <p class="site-footer-text"><img src="https://brms.boesl.gov.bd/assets/icons/call_bubble.svg" class="label-icon align-middle">01765411653</p>
+                <p class="site-footer-text"><img src="https://brms.boesl.gov.bd/assets/icons/globe.svg" class="label-icon align-middle"> www.boesl.gov.bd</p>
+                <p class="site-footer-text"><img src="https://brms.boesl.gov.bd/assets/icons/mail.svg" class="label-icon align-middle"> info@boesl.gov.bd</p>
+            </div>
+        </div>
+        <div class="site-footer-bottom">
+            <p class="mb-0">Copyright @2024, All rights reserved by BOESL.</p>
+        </div>
+    </div>
+</footer>
+</div>
+    <script nonce="jscq9pFubcNGanzXtJoUBiWrvdjMpuQ5RVI9IUej">
+        function englishToBanglaDate(currentDate) {
+            let shouldTranslate = false;
+            let engDATE = ['1','2','3','4','5','6','7','8','9','0','January','February','March','April',
+                'May','June','July','August','September','October','November','December','Saturday','Sunday',
+                'Monday','Tuesday','Wednesday','Thursday','Friday'];
+            let bangDATE = ['১','২','৩','৪','৫','৬','৭','৮','৯','০','জানুয়ারী','ফেব্রুয়ারী','মার্চ','এপ্রিল','মে',
+                'জুন','জুলাই','আগস্ট','সেপ্টেম্বর','অক্টোবর','নভেম্বর','ডিসেম্বর','শনিবার','রবিবার','সোমবার','মঙ্গলবার','বুধবার','বৃহস্পতিবার','শুক্রবার'
+            ];
+            let convertedDate = currentDate + '';
+            if (shouldTranslate) engDATE.forEach((v,i) => {
+                convertedDate = convertedDate.replaceAll(v,bangDATE[i])
+            })
+            return convertedDate;
+        }
+    </script>
+    <script nonce="jscq9pFubcNGanzXtJoUBiWrvdjMpuQ5RVI9IUej">
+        document.getElementById('siteNavToggle').addEventListener('click', function () {
+            var collapse = document.getElementById('siteNavCollapse');
+            var isOpen = collapse.classList.toggle('open');
+            this.classList.toggle('open', isOpen);
+            this.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+        });
+    </script>
+</body>
+</html>
