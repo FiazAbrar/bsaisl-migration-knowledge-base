@@ -1,0 +1,32 @@
+OEP (BMET) Country Clearance report, all countries, approval_date_from 2026-01-01 approval_date_to 2026-11-07, all skills; JSON endpoint https://www.oep.gov.bd/reports/country-clearance (fetched 2026-11-08). Country totals summed from category rows.
+totalEmployee (all countries): 626601
+rank 1 | Saudi Arabia | total 334770
+rank 2 | Singapore | total 66657
+rank 3 | Qatar | total 53646
+rank 4 | Maldives | total 32408
+rank 5 | Kuwait | total 27774
+rank 6 | United Arab Emirates (UAE) | total 23044
+rank 7 | Jordan | total 13819
+rank 8 | Italy | total 8549
+rank 9 | Portugal | total 7146
+rank 10 | Iraq | total 4850
+rank 11 | Laos | total 4003
+rank 12 | Cambodia | total 3700
+rank 13 | Serbia | total 3598
+rank 14 | Russian Federation | total 3332
+rank 15 | Lebanon | total 3302
+rank 16 | Mauritius | total 3097
+rank 17 | Fiji | total 3063
+rank 18 | Belarus | total 2675
+rank 19 | Cyprus | total 2472
+rank 20 | Mongolia | total 2232
+rank 21 | Congo | total 1965
+rank 22 | Vietnam | total 1965
+rank 23 | Japan | total 1863
+rank 24 | Brunei | total 1726
+rank 25 | Greece | total 1655
+rank 26 | Malaysia | total 1592
+rank 27 | North Macedonia (formerly Macedonia) | total 1585
+rank 28 | South Korea | total 1342
+rank 29 | Seychelles | total 1197
+rank 30 | Romania | total 1146

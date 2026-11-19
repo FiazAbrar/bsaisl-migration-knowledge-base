@@ -1,0 +1,156 @@
+[Back to articles](https://statewatch.org/articles/)
+
+Analyses
+
+# The commodification of migrant labour in Europe and the Western Balkans
+
+![Collage of a street in Serbia with campaign signs for Alexander Vucic, and Vucic sitting at a conference table with other men in suits](https://statewatch.org/wp-content/uploads/2026/08/20260804-Migrant-labour-in-the-western-balkans-1024x512.png)
+
+European migration policy supports mobility so long as it bolsters European states’ economies, but not enough to let people settle. The result is an exploitative system, cloaked in bureaucratic language, that denies migrant workers their rights. This system can be seen ever more clearly across the Balkans.
+
+Date
+
+4 August 2026
+
+Author
+
+[Stevan Tatalović](https://statewatch.org/person/stevan-tatalovic/)
+
+Institution
+
+European Union (EU)
+
+Topics
+
+[Borders and frontiers](https://statewatch.org/focus-area/borders-and-frontiers/)
+
+Region
+
+Balkans Europe
+
+[LinkedIn](#) [Mastodon](#) [Bluesky](#) [Email](#)
+
+![Collage of a street in Serbia with campaign signs for Alexander Vucic, and Vucic sitting at a conference table with other men in suits](https://statewatch.org/wp-content/uploads/2026/08/20260804-Migrant-labour-in-the-western-balkans-1024x512.png)
+
+European migration policy supports mobility so long as it bolsters European states’ economies, but not enough to let people settle. The result is an exploitative system, cloaked in bureaucratic language, that denies migrant workers their rights. This system can be seen ever more clearly across the Balkans.
+
+## Summary:
+
+- ‘Circular labour mobility schemes’ managed by development agencies and private consultancies are putting more people into precarious and exploitative positions.
+- These systems see people brought into European countries – often after they pay significant up-front costs – to fill labour vacancies with minimal protections and visas tied to their employment.
+- People are often denied the chance to settle and their ability to access their rights limited.
+- The Balkans have increasingly benefitted from such circular labour schemes—yet local reporting of worker abuse and discrimination shows clearly how exploitation is built into the system.
+
+## A work permit is not a right
+
+Across Europe, migration policy is moving in two different directions at once.
+
+On the one hand, governments speak of labour shortages and the need for migrant workers. They propose legal pathways and talent partnerships to fill that need.
+
+On the other hand, political attention remains focused on [deportations](https://www.dw.com/en/eu-reaches-deal-on-return-hubs-for-rejected-asylum-seekers/a-77383177) and preventing movement. This includes expanding deportation mechanisms and facilitating the transfer of rejected asylum seekers to so-called “return hubs” outside the European Union.
+
+In both cases, migration is being treated as a matter of management, containment and circulation rather than settlement and inclusion. A person is welcomed when they are economically useful but are otherwise treated as disposable.    
+
+This contradiction is especially visible in the Western Balkans. Here, migration governance has undergone a quiet but profound transformation. A region once defined by transit and border control is increasingly being reorganised around labour mobility. Serbia, Bosnia and Herzegovina, Albania and their neighbours are no longer expected only to contain migration, but to manage it as a source of labour.
+
+**The border has not disappeared; it has been transformed. It has become recruitment agencies, work permits, digital registration systems and employer-sponsored visas.**
+
+Consider an ordinary story. Omar, a young Egyptian man, arrived in Serbia after responding to a job advertisement.
+
+To secure the opportunity, however, he first had to make an investment of his own. In these cases, costs quickly build up:
+
+- recruitment fees;
+- administrative costs;
+- travel expenses;
+- medical examinations;
+- document translations; and
+- intermediary charges
+
+For many, the total cost can reach several thousand euros. This may be an impossible amount to pay without borrowing money, selling family assets or spending years of savings. Some people take out informal loans with significant interest.
+
+For Omar, he was able to take the position only after taking on debt guaranteed by his sister. Upon arrival, he found himself performing exhausting agricultural labour and living in degrading conditions that led to a serious workplace injury. In response, he says he was denied medical assistance and expelled from the farm. He told Serbian media outlet N1:
+
+“It is like slavery…They force you to work twelve or fifteen hours a day because the loan hangs over your head.”
+
+His work permit had allowed him to enter Serbia. It did not protect him from exploitation.
+
+His is a familiar story. By the time people arrive in Serbia, they carry debt, expectation and significant risk. Recent investigations in Serbia have documented how some workers recruited from Egypt, Sri Lanka and elsewhere borrowed between €2,500 and €3,500 simply to secure jobs that promised legal migration.
+
+From there, many arrive expecting one job and discover another. Wages are lower than anticipated. Housing is overcrowded. Contracts are unreliable. It is a life of extreme precarity.
+
+Most importantly, their legal status often depends on employment. Lose the job and the right to remain may disappear with it.
+
+## The paradox of migration management    
+
+Throughout 2025 and 2026, institutions like the International Organisation for Migration, the German GIZ development agency and the International Centre for Migration Policy Development supported the labour migration cycle in a number of ways. They’ve developed a growing landscape of conferences, policy initiatives, ‘technical assistance programmes’, pilot projects and governance reforms. These programmes promoted the central pillars of regional migration governance, including:
+
+- labour mobility;
+- skills partnerships;
+- circular migration;
+- ethical recruitment;
+- digital migration management; and
+- labour market integration.
+
+Often presented as neutral, evidence-based responses to demographic and economic challenges, these initiatives also play a political role. They encourage governments with limited administrative capacities and constrained public budgets to align themselves with evolving EU migration priorities. These struggling governments are pushed into such alignment with promises of externally funded expertise, policy advice and technical support.
+
+These strategies also promote solutions that sound ideal:
+
+- reducing exploitation;
+- facilitating legal migration;
+- improving labour standards;
+- strengthening institutional capacity; and
+- expanding regular pathways.
+
+Indeed, this is precisely how contemporary migration governance often legitimises itself: through a language of technical solutions, administrative efficiency and policy goals that seem self-evident.
+
+To question these initiatives can therefore appear unreasonable. Yet it is worth looking more closely.
+
+The issue is not any single project, conference, policy brief or technical intervention. The issue is the cumulative effect of an entire system that treats migration as a problem of management rather than a question of rights, power and inequality. As migration is transformed into a series of technical challenges, deeper political questions tend to recede from view. *Who benefits from labour mobility? Why are workers leaving in the first place? What forms of dependency are being created? And why do legal pathways so often leave people excluded?*
+
+The result of all of this is a paradox. The migration governance system grows ever more sophisticated, yet many of the people within its grasp experience increasing uncertainty. Workers remain tied to employers, dependent on recruiters, vulnerable to dismissal and often excluded from long-term residence and social membership. Governance expands, but security does not necessarily follow.
+
+This shift has occurred while many of the protection challenges that justified a decade of intervention remain unresolved. Pushbacks continue. Asylum recognition rates remain extremely low. Unaccompanied children frequently avoid formal systems. Across the region, migrants continue to rely on informal networks rather than institutional protection.
+
+Nothing illustrates all of this more clearly than the obsession with what is known as ‘secondary movement’.
+
+Let’s say the Egyptian worker recruited to Serbia follows every rule. He obtains documents, enters legally and fills a labour shortage. Yet after several months, he hears about better wages and stronger protections elsewhere. Friends have moved to Italy. Others have reached Germany or France.
+
+So, he does what workers have always done. He follows the opportunity.
+
+From his perspective, this decision is entirely rational. From the perspective of migration governance, it has become a problem. The same mobility celebrated when filling labour shortages suddenly becomes a threat when directed elsewhere. The objective, it turns out, is not mobility itself but *managed* mobility: movement that is predictable, measurable, and economically useful.
+
+In this scenario, the ‘good migrant’ is mobile enough to satisfy labour demand but not enough to choose a different destination.
+
+This contradiction generates a constant search for new governance solutions. Yet decades of migration research suggest that mobility decisions are shaped by factors that no governance architecture can fully control: wages, working conditions, family networks, housing, legal status, discrimination and prospects.
+
+When migrants continue moving despite new interventions, the response is often not to question the underlying assumptions but to develop new projects, new coordination mechanisms, and new management tools.
+
+Secondary movement has become more than a policy concern. It has become a justification for an expanding migration management industry.
+
+## The reality of migrant labour inequality
+
+If labour migration is the ‘success story’ policymakers increasingly claim it to be, then labour conditions should occupy the centre of the conversation. Instead, discussions often focus on mobility rather than work itself.
+
+A revealing example emerged from reporting by the Italian publication [*Italpassion* on conditions at the Stellantis factory in Kragujevac, Serbia](https://www.italpassion.fr/en/stellantis/stellantis-an-italian-worker-at-the-fiat-factory-in-serbia-testifies-that-everyone-is-paid-from-600-e-to-2000-e-depending-on-their-country-of-origin/#:~:text=A%20testimony%20gathered%20by%20the,electric%20and%20internal%20combustion%20versions.). According to testimony, workers performing similar tasks received significantly different levels of compensation depending on their nationality and contractual status.
+
+Whether exceptional or representative, the account raises uncomfortable questions. What happens when labour migration reproduces inequalities based on nationality?
+
+Throughout the Western Balkans, employers frequently complain about labour shortages. Yet shortages do not emerge in isolation. They are shaped by wages, working conditions and labour protections. Hundreds of thousands of workers left the region not simply because opportunities existed elsewhere but because conditions at home were inadequate.
+
+Labour migration governance offers a convenient solution. Instead of improving wages, recruitment horizons expand. Workers are sought from further away. New mobility programmes are developed. Vacancies are filled.
+
+From a governance perspective, this is success. From a labour perspective, the question remains unresolved. Is the objective to solve labour shortages, or to solve them without changing the conditions that created them?
+
+This is not an argument against migration. It is an argument for rights.
+
+Residence permits tied to employers, dependence on recruiters, uncertain legal status and limited access to remedies all weaken workers’ bargaining power. In such circumstances, mobility becomes a tool for sustained oppression rather than a pathway for individual autonomy.
+
+## Alternative models and resistance
+
+In June, migrant workers and labour rights activists in Serbia publicly presented the work of the Trade Union of Migrant Workers in Formation. This is an initiative aimed at creating a safe space for foreign workers to organise, exchange information and collectively advocate for their rights. Several people consulted for this article highlighted the importance of independent worker organising. They emphasised that many of the challenges discussed here, from unequal treatment and precarious employment to dependence on employers and limited access to remedies, cannot be addressed through migration governance frameworks alone.
+
+The emergence of the Trade Union of Migrant Workers works to change the subject of the conversation. Migration governance increasingly speaks about labour mobility, skills matching and human capital. Trade unionism speaks about wages, bargaining power, housing and workplace rights. One governs the circulation of labour capacity; the other defends the people whose labour circulates.
+
+As David Harvey reminds us, capitalism depends upon the circulation of labour. Whether that circulation produces exploitation or dignity depends not on the efficiency of migration governance, but on the political power workers possess once they arrive. A work permit may authorise employment. It cannot substitute for rights.    
+
+*Image credits: Collage by Statewatch includes modified versions of “[EPP Helsinki Congress in Finland, 7-8 November 2018](https://www.flickr.com/photos/eppofficial/45045617344)” by [European People’s Party](https://www.flickr.com/photos/eppofficial/), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en)*; *and a photo of a Serbian street by Dan Shoolar / [BVMN](https://borderviolence.eu/)*

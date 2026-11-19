@@ -1,0 +1,2206 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="theme-color" content="#073d35">
+    <title>
+      Immigration Police | Bangladesh
+    </title>
+    <style>
+      :root {
+        --green:#073d35;
+        --green2:#0b594b;
+        --lime:#d8ef82;
+        --red:#e3443b;
+        --ink:#172622;
+        --muted:#64736e;
+        --paper:#f5f7f2;
+        --line:#e1e8e1;
+        --white:#fff;
+        --serif:Georgia,'Times New Roman',serif;
+        --sans:Inter,ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif
+      }
+      * {
+        box-sizing:border-box
+      }
+      html {
+        scroll-behavior:smooth
+      }
+      body {
+        margin:0;
+        background:var(--paper);
+        color:var(--ink);
+        font-family:var(--sans);
+        font-size:15px
+      }
+      a {
+        color:inherit;
+        text-decoration:none
+      }
+      button {
+        font:inherit
+      }
+      .topline {
+        height:36px;
+        background:#062f2a;
+        color:#d9e5dc;
+        font-size:11px;
+        letter-spacing:.04em
+      }
+      .wrap {
+        width:min(1200px,calc(100% - 48px));
+        margin:auto
+      }
+      .topline .wrap {
+        display:flex;
+        justify-content:space-between;
+        align-items:center;
+        height:100%
+      }
+      .toplinks {
+        display:flex;
+        gap:22px
+      }
+      .flagdot {
+        display:inline-flex;
+        align-items:center;
+        gap:8px
+      }
+      .flag {
+        width:19px;
+        height:12px;
+        background:#006a4e;
+        display:inline-grid;
+        place-items:center
+      }
+      .flag:after {
+        content:'';
+        width:6px;
+        height:6px;
+        background:#f42a41;
+        border-radius:50%
+      }
+      .header {
+        background:#fff;
+        border-bottom:1px solid var(--line);
+        position:sticky;
+        top:0;
+        z-index:10
+      }
+      .headmain {
+        height:86px;
+        display:flex;
+        align-items:center;
+        justify-content:space-between;
+        gap:28px
+      }
+      .brand {
+        display:flex;
+        align-items:center;
+        gap:13px;
+        min-width:290px
+      }
+      .crest {
+        width:48px;
+        height:48px;
+        border:1px solid #d5e4d7;
+        border-radius:50%;
+        display:grid;
+        place-items:center;
+        color:var(--green);
+        background:radial-gradient(circle,#f5f8ee 0 54%,#e6f0e1 55%);
+        position:relative
+      }
+      .crest svg {
+        width:28px
+      }
+      .brand-name {
+        font-size:15px;
+        font-weight:760;
+        letter-spacing:.01em;
+        line-height:1.2
+      }
+      .brand-sub {
+        font-size:11px;
+        color:var(--muted);
+        margin-top:4px
+      }
+      .nav {
+        display:flex;
+        align-items:center;
+        gap:25px;
+        font-size:13px;
+        font-weight:620;
+        height:100%
+      }
+      .nav a {
+        height:100%;
+        display:flex;
+        align-items:center;
+        position:relative
+      }
+      .nav a:hover:after,.nav a.active:after {
+        content:'';
+        height:3px;
+        position:absolute;
+        bottom:0;
+        left:0;
+        right:0;
+        background:var(--red)
+      }
+      .head-actions {
+        display:flex;
+        align-items:center;
+        gap:12px
+      }
+      .searchbtn,.menu-btn {
+        border:1px solid var(--line);
+        background:#fff;
+        width:42px;
+        height:42px;
+        border-radius:50%;
+        display:grid;
+        place-items:center;
+        cursor:pointer;
+        color:var(--green)
+      }
+      .menu-btn {
+        display:none
+      }
+      .signin {
+        background:var(--green);
+        color:white;
+        border:0;
+        padding:13px 18px;
+        border-radius:3px;
+        font-size:12px;
+        font-weight:700;
+        cursor:pointer
+      }
+      .signin:hover {
+        background:var(--green2)
+      }
+      .hero {
+        background:var(--green);
+        color:#fff;
+        min-height:495px;
+        position:relative;
+        overflow:hidden
+      }
+      .hero:before {
+        content:'';
+        position:absolute;
+        inset:0;
+        background:radial-gradient(ellipse at 87% 46%,rgba(91,145,115,.34),transparent 35%),linear-gradient(110deg,#073d35 0%,#073d35 48%,#0d4c40 100%)
+      }
+      .hero:after {
+        content:'';
+        position:absolute;
+        width:600px;
+        height:600px;
+        border:1px solid rgba(219,240,205,.13);
+        border-radius:50%;
+        right:-160px;
+        top:-35px;
+        box-shadow:0 0 0 42px rgba(255,255,255,.025),0 0 0 90px rgba(255,255,255,.02)
+      }
+      .hero-grid {
+        position:relative;
+        z-index:1;
+        display:grid;
+        grid-template-columns:1fr 1.02fr;
+        align-items:center;
+        min-height:495px;
+        gap:35px
+      }
+      .hero-copy {
+        padding:58px 0
+      }
+      .eyebrow {
+        font-size:11px;
+        letter-spacing:.17em;
+        text-transform:uppercase;
+        color:var(--lime);
+        font-weight:720;
+        display:flex;
+        align-items:center;
+        gap:10px
+      }
+      .eyebrow:before {
+        content:'';
+        width:26px;
+        height:2px;
+        background:var(--red)
+      }
+      h1 {
+        font:500 clamp(42px,5.2vw,68px)/1.02 var(--serif);
+        letter-spacing:-.035em;
+        margin:22px 0 18px;
+        max-width:610px
+      }
+      .hero-copy p {
+        font-size:16px;
+        line-height:1.72;
+        color:#d7e6dd;
+        max-width:500px;
+        margin:0 0 27px
+      }
+      .hero-cta {
+        display:flex;
+        gap:12px;
+        align-items:center
+      }
+      .btn-primary {
+        padding:15px 19px;
+        background:var(--lime);
+        color:#17362e;
+        font-weight:750;
+        border:0;
+        border-radius:3px;
+        font-size:12px;
+        cursor:pointer
+      }
+      .btn-ghost {
+        padding:14px 18px;
+        border:1px solid rgba(255,255,255,.42);
+        color:#fff;
+        border-radius:3px;
+        font-size:12px;
+        font-weight:650
+      }
+      .hero-art {
+        height:420px;
+        position:relative;
+        align-self:end;
+        display:flex;
+        align-items:flex-end;
+        justify-content:center
+      }
+      .terminal {
+        position:absolute;
+        bottom:0;
+        right:4%;
+        width:95%;
+        height:310px;
+        background:linear-gradient(150deg,rgba(199,225,205,.16),rgba(41,94,73,.55));
+        border:1px solid rgba(231,242,230,.19);
+        clip-path:polygon(12% 0,100% 14%,100% 100%,0 100%,0 18%);
+        overflow:hidden
+      }
+      .terminal:before {
+        content:'';
+        position:absolute;
+        top:72px;
+        left:-2%;
+        right:-2%;
+        height:2px;
+        background:rgba(219,238,221,.6);
+        transform:rotate(8deg)
+      }
+      .terminal:after {
+        content:'';
+        position:absolute;
+        left:9%;
+        right:6%;
+        top:106px;
+        height:100%;
+        background:repeating-linear-gradient(90deg,transparent 0 54px,rgba(219,239,223,.34) 55px 57px,transparent 58px 94px);
+        border-top:1px solid rgba(219,239,223,.42)
+      }
+      .plane {
+        position:absolute;
+        z-index:2;
+        right:8%;
+        top:18px;
+        width:72%;
+        filter:drop-shadow(0 16px 20px rgba(0,0,0,.2))
+      }
+      .plane img {
+        display:block;
+        width:100%;
+        height:auto
+      }
+      .hero-stamp {
+        position:absolute;
+        z-index:3;
+        left:3%;
+        bottom:41px;
+        background:#fff;
+        color:var(--green);
+        padding:16px 19px;
+        box-shadow:0 12px 28px #032c2545;
+        transform:rotate(-3deg);
+        min-width:180px
+      }
+      .hero-stamp b {
+        display:block;
+        font:600 21px var(--serif)
+      }
+      .hero-stamp span {
+        font-size:9px;
+        text-transform:uppercase;
+        letter-spacing:.13em;
+        color:#697a70
+      }
+      .stamp-icon {
+        position:absolute;
+        right:13px;
+        top:13px;
+        color:var(--red);
+        font-size:19px
+      }
+      .airline {
+        position:absolute;
+        z-index:2;
+        bottom:17px;
+        left:19%;
+        right:1%;
+        height:4px;
+        background:linear-gradient(90deg,transparent,rgba(215,239,205,.8),transparent);
+        transform:rotate(-7deg)
+      }
+      .notice {
+        background:#fff;
+        border-bottom:1px solid var(--line)
+      }
+      .notice .wrap {
+        display:flex;
+        align-items:center;
+        gap:14px;
+        min-height:58px
+      }
+      .notice-tag {
+        background:#fce9e5;
+        color:#aa3029;
+        font-size:10px;
+        text-transform:uppercase;
+        letter-spacing:.1em;
+        font-weight:800;
+        padding:7px 9px;
+        white-space:nowrap
+      }
+      .notice-text {
+        font-size:12px;
+        color:#3e5049;
+        flex:1
+      }
+      .notice-text strong {
+        color:var(--ink)
+      }
+      .notice a {
+        font-size:12px;
+        font-weight:700;
+        color:var(--green);
+        white-space:nowrap
+      }
+      .section {
+        padding:76px 0
+      }
+      .section-head {
+        display:flex;
+        justify-content:space-between;
+        align-items:end;
+        margin-bottom:28px
+      }
+      .kicker {
+        font-size:10px;
+        text-transform:uppercase;
+        letter-spacing:.17em;
+        color:#638373;
+        font-weight:760
+      }
+      .section h2 {
+        font:500 38px/1.12 var(--serif);
+        letter-spacing:-.025em;
+        margin:10px 0 0;
+        color:#17372f
+      }
+      .section-intro {
+        max-width:410px;
+        font-size:13px;
+        line-height:1.65;
+        color:var(--muted);
+        margin:0
+      }
+      .service-grid {
+        display:grid;
+        grid-template-columns:repeat(4,1fr);
+        gap:14px
+      }
+      .service-card {
+        background:#fff;
+        border:1px solid var(--line);
+        padding:23px 21px 20px;
+        min-height:196px;
+        position:relative;
+        transition:.2s
+      }
+      .service-card:hover {
+        transform:translateY(-4px);
+        border-color:#a6c2ae;
+        box-shadow:0 14px 30px #16382b0d
+      }
+      .icon {
+        width:40px;
+        height:40px;
+        border-radius:50%;
+        background:#edf4e9;
+        color:var(--green2);
+        display:grid;
+        place-items:center;
+        margin-bottom:22px
+      }
+      .icon svg {
+        width:20px;
+        height:20px
+      }
+      .service-card h3 {
+        font-size:15px;
+        margin:0 0 8px
+      }
+      .service-card p {
+        font-size:12px;
+        line-height:1.55;
+        color:var(--muted);
+        margin:0;
+        max-width:225px
+      }
+      .arrow {
+        position:absolute;
+        right:20px;
+        bottom:21px;
+        color:#618070;
+        font-size:17px
+      }
+      .audience {
+        padding:0 0 76px
+      }
+      .audience-panel {
+        background:#e9efe5;
+        padding:31px;
+        display:grid;
+        grid-template-columns:1.05fr 2.2fr;
+        align-items:center;
+        gap:22px
+      }
+      .audience-panel h2 {
+        font:500 28px var(--serif);
+        margin:0;
+        color:var(--green)
+      }
+      .audience-panel p {
+        font-size:12px;
+        color:#607069;
+        margin:7px 0 0
+      }
+      .audience-links {
+        display:grid;
+        grid-template-columns:repeat(4,1fr);
+        gap:10px
+      }
+      .audience-link {
+        background:#fff;
+        padding:18px 14px;
+        border:1px solid #dce5da;
+        font-size:12px;
+        font-weight:700;
+        display:flex;
+        align-items:center;
+        justify-content:space-between;
+        gap:8px
+      }
+      .audience-link:hover {
+        border-color:#8aa996
+      }
+      .audience-link span {
+        font-size:17px;
+        color:var(--red)
+      }
+      .feature {
+        padding:0 0 78px
+      }
+      .feature-panel {
+        display:grid;
+        grid-template-columns:1fr 1fr;
+        background:#0b4b40;
+        color:white;
+        min-height:290px;
+        overflow:hidden
+      }
+      .feature-copy {
+        padding:39px 43px
+      }
+      .feature-copy .kicker {
+        color:var(--lime)
+      }
+      .feature-copy h2 {
+        font:500 34px/1.12 var(--serif);
+        color:#fff;
+        margin:12px 0
+      }
+      .feature-copy p {
+        font-size:13px;
+        line-height:1.65;
+        color:#d2e2d8;
+        max-width:400px
+      }
+      .feature-copy a {
+        display:inline-flex;
+        margin-top:8px;
+        color:var(--lime);
+        font-size:12px;
+        font-weight:700;
+        border-bottom:1px solid #a1bc8e;
+        padding-bottom:5px
+      }
+      .feature-art {
+        position:relative;
+        background:linear-gradient(120deg,#164f43,#2d705b);
+        min-height:290px;
+        overflow:hidden
+      }
+      .feature-art:before {
+        content:'';
+        position:absolute;
+        width:350px;
+        height:350px;
+        border:1px solid #a9d0ad66;
+        border-radius:50%;
+        top:-20px;
+        left:17%;
+        box-shadow:0 0 0 26px #a9d0ad14,0 0 0 65px #a9d0ad0d
+      }
+      .mapshape {
+        position:absolute;
+        inset:20px 0 0 10%;
+        opacity:.9
+      }
+      .mapshape svg {
+        height:100%;
+        width:100%
+      }
+      .stats {
+        position:absolute;
+        right:23px;
+        bottom:23px;
+        background:#f2f6ed;
+        color:var(--green);
+        padding:15px 20px;
+        min-width:145px
+      }
+      .stats b {
+        font:500 27px var(--serif);
+        display:block
+      }
+      .stats span {
+        font-size:9px;
+        text-transform:uppercase;
+        letter-spacing:.1em
+      }
+      .ports {
+        background:#fff
+      }
+      .ports .wrap {
+        padding-top:72px;
+        padding-bottom:74px
+      }
+      .port-grid {
+        display:grid;
+        grid-template-columns:repeat(3,1fr);
+        gap:14px;
+        margin-top:28px
+      }
+      .port {
+        padding:21px;
+        border:1px solid var(--line);
+        display:grid;
+        grid-template-columns:42px 1fr auto;
+        align-items:center;
+        gap:14px
+      }
+      .port .port-icon {
+        height:42px;
+        width:42px;
+        border-radius:50%;
+        background:#edf3ec;
+        color:var(--green);
+        display:grid;
+        place-items:center;
+        font-size:18px
+      }
+      .port h3 {
+        font-size:14px;
+        margin:0 0 5px
+      }
+      .port p {
+        font-size:11px;
+        color:var(--muted);
+        margin:0
+      }
+      .port a {
+        font-size:18px;
+        color:#6d8978
+      }
+      .updates {
+        padding:76px 0
+      }
+      .news-grid {
+        display:grid;
+        grid-template-columns:1.2fr 1fr 1fr;
+        gap:15px;
+        margin-top:29px
+      }
+      .news {
+        background:#fff;
+        border:1px solid var(--line);
+        padding:22px;
+        min-height:185px;
+        display:flex;
+        flex-direction:column
+      }
+      .news .date {
+        font-size:10px;
+        color:#718379;
+        text-transform:uppercase;
+        letter-spacing:.1em
+      }
+      .news h3 {
+        font:500 20px/1.25 var(--serif);
+        margin:14px 0 auto;
+        color:#1d3d34
+      }
+      .news a {
+        font-size:11px;
+        color:var(--green2);
+        font-weight:750;
+        margin-top:18px
+      }
+      .footer {
+        background:#062f2a;
+        color:#dbe8df;
+        padding:52px 0 20px
+      }
+      .foot-top {
+        display:grid;
+        grid-template-columns:1.2fr 2fr;
+        gap:80px;
+        padding-bottom:45px
+      }
+      .foot-brand {
+        display:flex;
+        align-items:center;
+        gap:12px
+      }
+      .foot-brand .crest {
+        background:#e5efe3
+      }
+      .foot-brand b {
+        font-size:14px
+      }
+      .foot-brand p {
+        font-size:11px;
+        color:#aec2b5;
+        line-height:1.55;
+        max-width:300px;
+        margin:19px 0
+      }
+      .foot-cols {
+        display:grid;
+        grid-template-columns:repeat(3,1fr);
+        gap:25px
+      }
+      .foot-cols h4 {
+        font-size:11px;
+        color:#d9ef9b;
+        text-transform:uppercase;
+        letter-spacing:.12em;
+        margin:0 0 15px
+      }
+      .foot-cols a {
+        display:block;
+        font-size:11px;
+        color:#c0d1c6;
+        margin:11px 0
+      }
+      .foot-bottom {
+        border-top:1px solid #ffffff24;
+        padding-top:17px;
+        display:flex;
+        justify-content:space-between;
+        font-size:10px;
+        color:#99b2a4
+      }
+      .prototype {
+        font-size:10px;
+        border:1px solid #ffffff30;
+        padding:7px 10px;
+        color:#c9d9ce
+      }
+      .search-panel {
+        display:none;
+        position:absolute;
+        top:86px;
+        right:max(24px,calc((100vw - 1200px)/2));
+        width:min(390px,calc(100vw - 30px));
+        background:white;
+        padding:18px;
+        box-shadow:0 12px 35px #132b2240;
+        border:1px solid var(--line)
+      }
+      .search-panel.open {
+        display:block
+      }
+      .search-panel input {
+        width:100%;
+        padding:13px;
+        border:1px solid #cfdbd1;
+        outline-color:var(--green)
+      }
+      .mobile-nav {
+        display:none
+      }
+      .bilingual {
+        font-family:var(--sans)
+      }
+      @media(max-width:980px) {
+        .nav {
+          gap:15px
+        }
+        .brand {
+          min-width:230px
+        }
+        .service-grid {
+          grid-template-columns:repeat(2,1fr)
+        }
+        .audience-panel {
+          grid-template-columns:1fr
+        }
+        .hero-grid {
+          grid-template-columns:1fr 1fr
+        }
+        .hero-art {
+          height:360px
+        }
+        .audience-links {
+          grid-template-columns:repeat(4,1fr)
+        }
+      }
+      @media(max-width:720px) {
+        .wrap {
+          width:calc(100% - 34px)
+        }
+        .toplinks {
+          display:none
+        }
+        .headmain {
+          height:72px
+        }
+        .brand {
+          min-width:auto
+        }
+        .brand-name {
+          font-size:13px
+        }
+        .brand-sub {
+          font-size:10px
+        }
+        .crest {
+          width:42px;
+          height:42px
+        }
+        .nav,.signin {
+          display:none
+        }
+        .menu-btn {
+          display:grid
+        }
+        .head-actions {
+          margin-left:auto
+        }
+        .search-panel {
+          top:72px;
+          right:14px
+        }
+        .mobile-nav {
+          position:absolute;
+          top:72px;
+          left:0;
+          right:0;
+          background:white;
+          padding:8px 20px 18px;
+          box-shadow:0 15px 20px #173c2b22
+        }
+        .mobile-nav.open {
+          display:block
+        }
+        .mobile-nav a {
+          display:block;
+          padding:13px 4px;
+          border-bottom:1px solid var(--line);
+          font-size:13px;
+          font-weight:650
+        }
+        .hero-grid {
+          grid-template-columns:1fr;
+          min-height:auto;
+          gap:0
+        }
+        .hero-copy {
+          padding:48px 0 14px
+        }
+        .hero h1 {
+          font-size:47px
+        }
+        .hero-copy p {
+          font-size:14px
+        }
+        .hero-art {
+          height:280px;
+          margin:0 -10px
+        }
+        .terminal {
+          height:200px
+        }
+        .plane {
+          top:2px
+        }
+        .hero-stamp {
+          bottom:22px;
+          left:6%;
+          padding:12px 14px
+        }
+        .hero-stamp b {
+          font-size:17px
+        }
+        .notice .wrap {
+          align-items:flex-start;
+          padding:13px 0;
+          flex-wrap:wrap;
+          gap:9px
+        }
+        .notice-text {
+          flex-basis:calc(100% - 105px);
+          line-height:1.45
+        }
+        .notice a {
+          margin-left:auto
+        }
+        .section {
+          padding:55px 0
+        }
+        .section-head {
+          display:block
+        }
+        .section-intro {
+          margin-top:12px
+        }
+        .section h2 {
+          font-size:32px
+        }
+        .service-grid {
+          gap:10px
+        }
+        .service-card {
+          padding:17px;
+          min-height:185px
+        }
+        .icon {
+          margin-bottom:17px
+        }
+        .audience {
+          padding-bottom:55px
+        }
+        .audience-panel {
+          padding:23px 18px
+        }
+        .audience-links {
+          grid-template-columns:repeat(2,1fr)
+        }
+        .feature {
+          padding-bottom:55px
+        }
+        .feature-panel {
+          grid-template-columns:1fr
+        }
+        .feature-copy {
+          padding:30px 25px
+        }
+        .feature-art {
+          min-height:230px
+        }
+        .ports .wrap {
+          padding-top:55px;
+          padding-bottom:55px
+        }
+        .port-grid {
+          grid-template-columns:1fr
+        }
+        .news-grid {
+          grid-template-columns:1fr
+        }
+        .news {
+          min-height:155px
+        }
+        .updates {
+          padding:55px 0
+        }
+        .foot-top {
+          grid-template-columns:1fr;
+          gap:34px
+        }
+        .foot-cols {
+          gap:10px
+        }
+        .foot-bottom {
+          gap:15px;
+          flex-direction:column
+        }
+        .prototype {
+          align-self:flex-start
+        }
+      }
+      @media(max-width:390px) {
+        .hero h1 {
+          font-size:40px
+        }
+        .hero-cta {
+          align-items:stretch;
+          flex-direction:column
+        }
+        .hero-cta a {
+          text-align:center
+        }
+        .audience-links {
+          grid-template-columns:1fr 1fr
+        }
+        .service-card h3 {
+          font-size:14px
+        }
+        .service-card p {
+          font-size:11px
+        }
+      }
+      .digital-services {
+        padding:28px 0 8px;
+        background:#f5f7f2
+      }
+      .digital-service-grid {
+        display:grid;
+        grid-template-columns:repeat(3,1fr);
+        gap:14px
+      }
+      .digital-banner {
+        min-height:172px;
+        padding:22px 23px;
+        display:flex;
+        flex-direction:column;
+        align-items:flex-start;
+        justify-content:space-between;
+        position:relative;
+        overflow:hidden;
+        color:#fff;
+        background:#0b594b
+      }
+      .digital-banner:nth-child(2) {
+        background:#e8eee2;
+        color:#17372f
+      }
+      .digital-banner:nth-child(3) {
+        background:#103d35
+      }
+      .digital-banner:after {
+        content:'';
+        position:absolute;
+        width:170px;
+        height:170px;
+        border:1px solid currentColor;
+        border-radius:50%;
+        right:-65px;
+        top:-65px;
+        opacity:.12;
+        box-shadow:0 0 0 20px currentColor,0 0 0 42px currentColor
+      }
+      .digital-label {
+        font-size:9px;
+        text-transform:uppercase;
+        letter-spacing:.14em;
+        font-weight:800;
+        opacity:.78
+      }
+      .digital-banner h3 {
+        font:500 24px/1.1 var(--serif);
+        margin:8px 0 6px;
+        position:relative;
+        z-index:1
+      }
+      .digital-banner p {
+        font-size:11px;
+        line-height:1.5;
+        margin:0;
+        max-width:260px;
+        opacity:.82;
+        position:relative;
+        z-index:1
+      }
+      .digital-banner a {
+        font-size:11px;
+        font-weight:800;
+        margin-top:17px;
+        padding:9px 12px;
+        background:var(--lime);
+        color:#17372f;
+        position:relative;
+        z-index:1
+      }
+      .digital-banner:nth-child(2) a {
+        background:var(--green);
+        color:#fff
+      }
+      .digital-banner:hover a {
+        transform:translateY(-2px)
+      }
+      @media(max-width:720px) {
+        .digital-service-grid {
+          grid-template-columns:1fr
+        }
+        .digital-banner {
+          min-height:150px;
+          padding:20px
+        }
+      }
+      /* Final visual refinement */
+      :root {
+        --green:#0b3b31;
+        --green2:#145646;
+        --lime:#d1b66b;
+        --red:#c83d36;
+        --ink:#1b2c26;
+        --muted:#64746d;
+        --paper:#f6f6f1;
+        --line:#e1e5dc
+      }
+      body {
+        background:var(--paper);
+        color:var(--ink);
+        letter-spacing:.002em
+      }
+      .topline {
+        background:#082e28
+      }
+      .header {
+        box-shadow:0 3px 16px rgba(20,48,37,.045)
+      }
+      .crest {
+        box-shadow:inset 0 0 0 3px #ffffffaa
+      }
+      .nav {
+        gap:27px
+      }
+      .nav a {
+        transition:color .18s ease
+      }
+      .nav a:hover {
+        color:var(--green2)
+      }
+      .hero {
+        background:#0b3b31
+      }
+      .hero:before {
+        background:radial-gradient(ellipse at 83% 42%,rgba(121,160,117,.29),transparent 36%),linear-gradient(112deg,#0b3b31 0%,#0b3b31 48%,#124b3d 100%)
+      }
+      .hero:after {
+        border-color:rgba(226,212,164,.15)
+      }
+      .eyebrow {
+        color:#e1cc8e
+      }
+      .btn-primary {
+        background:#d8c17c;
+        color:#17362e;
+        border-radius:4px;
+        box-shadow:0 5px 14px rgba(3,25,20,.16);
+        transition:transform .18s ease,background .18s ease
+      }
+      .btn-primary:hover {
+        background:#e5d297;
+        transform:translateY(-2px)
+      }
+      .btn-ghost {
+        border-radius:4px;
+        transition:background .18s ease,border-color .18s ease
+      }
+      .btn-ghost:hover {
+        background:#ffffff12;
+        border-color:#fff
+      }
+      .hero-stamp {
+        border-top:3px solid var(--red);
+        box-shadow:0 15px 35px #032c2545
+      }
+      .notice {
+        box-shadow:0 2px 8px rgba(21,54,41,.025)
+      }
+      .notice-tag {
+        background:#f7e9e4;
+        color:#9c342e
+      }
+      .section h2 {
+        color:#153b31
+      }
+      .service-card {
+        border-radius:5px;
+        box-shadow:0 4px 13px rgba(19,47,35,.025);
+        transition:transform .22s ease,border-color .22s ease,box-shadow .22s ease
+      }
+      .service-card:hover {
+        transform:translateY(-4px);
+        border-color:#aabca7;
+        box-shadow:0 16px 30px rgba(19,47,35,.09)
+      }
+      .icon {
+        background:#edf1e7;
+        color:#145646
+      }
+      .audience-panel {
+        background:#ecefe6;
+        border:1px solid #e1e6dc;
+        border-radius:6px
+      }
+      .audience-link {
+        border-radius:4px;
+        transition:transform .18s ease,border-color .18s ease,box-shadow .18s ease
+      }
+      .audience-link:hover {
+        transform:translateY(-2px);
+        border-color:#9dae99;
+        box-shadow:0 7px 17px rgba(19,47,35,.06)
+      }
+      .feature-panel {
+        border-radius:6px;
+        box-shadow:0 15px 35px rgba(13,54,43,.12)
+      }
+      .feature-copy .kicker {
+        color:#e0cc8e
+      }
+      .feature-art {
+        background:linear-gradient(125deg,#164a3e,#2a6754)
+      }
+      .stats {
+        border-left:3px solid var(--red);
+        box-shadow:0 8px 22px rgba(4,36,28,.14)
+      }
+      .port {
+        border-radius:5px;
+        transition:border-color .18s ease,box-shadow .18s ease,transform .18s ease
+      }
+      .port:hover {
+        border-color:#b4c3ad;
+        box-shadow:0 9px 21px rgba(19,47,35,.06);
+        transform:translateY(-2px)
+      }
+      .news {
+        border-radius:5px;
+        transition:transform .18s ease,box-shadow .18s ease
+      }
+      .news:hover {
+        transform:translateY(-3px);
+        box-shadow:0 12px 26px rgba(19,47,35,.07)
+      }
+      .digital-banner {
+        border-radius:5px;
+        box-shadow:0 8px 20px rgba(14,48,37,.055);
+        transition:transform .2s ease,box-shadow .2s ease
+      }
+      .digital-banner:hover {
+        transform:translateY(-3px);
+        box-shadow:0 14px 28px rgba(14,48,37,.12)
+      }
+      .digital-banner:nth-child(2) {
+        background:#ecefe6;
+        color:#19392f
+      }
+      .digital-banner:nth-child(3) {
+        background:#153f35
+      }
+      .digital-banner a {
+        border-radius:3px;
+        transition:transform .18s ease,background .18s ease
+      }
+      .digital-banner a:hover {
+        background:#e3d093
+      }
+      .footer {
+        background:#082f29
+      }
+      .foot-cols h4 {
+        color:#ddca8c
+      }
+      .prototype {
+        border-radius:3px
+      }
+      a:focus-visible,button:focus-visible,input:focus-visible {
+        outline:3px solid #cdb56f;
+        outline-offset:3px
+      }
+      html {
+        scroll-padding-top:100px
+      }
+      @media(max-width:720px) {
+        html {
+          scroll-padding-top:80px
+        }
+        .digital-service-grid {
+          gap:11px
+        }
+        .hero-stamp {
+          transform:rotate(-2deg)
+        }
+        .section h2 {
+          line-height:1.14
+        }
+        .feature-panel,.audience-panel {
+          border-radius:5px
+        }
+      }
+      @media(prefers-reduced-motion:reduce) {
+        *,*::before,*::after {
+          scroll-behavior:auto!important;
+          transition:none!important
+        }
+      }
+      .system-portals {
+        padding:40px 0 18px;
+        background:#fff
+      }
+      .system-portals .section-head {
+        margin-bottom:23px
+      }
+      .system-portals .digital-banner h3 {
+        font-size:21px;
+        max-width:320px
+      }
+      .system-portals .digital-banner {
+        min-height:190px
+      }
+      .public-info {
+        padding:30px 0 14px;
+        background:#f6f6f1
+      }
+      .public-info-card {
+        position:relative;
+        display:flex;
+        align-items:center;
+        gap:20px;
+        padding:25px 30px;
+        background:linear-gradient(110deg,#082f29,#145646);
+        color:#fff;
+        border-radius:6px;
+        overflow:hidden;
+        box-shadow:0 12px 28px rgba(14,48,37,.11)
+      }
+      .public-info-card:after {
+        content:'';
+        position:absolute;
+        width:240px;
+        height:240px;
+        border:1px solid rgba(225,204,142,.22);
+        border-radius:50%;
+        right:8%;
+        top:-150px;
+        box-shadow:0 0 0 25px rgba(225,204,142,.045),0 0 0 55px rgba(225,204,142,.035)
+      }
+      .public-info-mark {
+        width:42px;
+        height:42px;
+        flex:0 0 42px;
+        border:1px solid #d1b66b;
+        border-radius:50%;
+        display:grid;
+        place-items:center;
+        color:#e0cc8e;
+        font:600 23px var(--serif)
+      }
+      .public-info-copy {
+        flex:1;
+        position:relative;
+        z-index:1
+      }
+      .public-info-copy .digital-label {
+        color:#e0cc8e
+      }
+      .public-info-copy h2 {
+        font:500 26px/1.25 var(--sans);
+        margin:7px 0 4px;
+        color:#fff
+      }
+      .public-info-copy p {
+        font-size:12px;
+        line-height:1.55;
+        color:#d3e2d9;
+        margin:0
+      }
+      .public-info-card>a {
+        position:relative;
+        z-index:1;
+        display:inline-flex;
+        align-items:center;
+        gap:12px;
+        padding:12px 16px;
+        background:#d8c17c;
+        color:#17362e;
+        border-radius:4px;
+        font-size:12px;
+        font-weight:800;
+        white-space:nowrap;
+        transition:transform .18s ease,background .18s ease
+      }
+      .public-info-card>a:hover {
+        transform:translateY(-2px);
+        background:#e5d297
+      }
+      @media(max-width:720px) {
+        .public-info {
+          padding:20px 0 5px
+        }
+        .public-info-card {
+          align-items:flex-start;
+          flex-wrap:wrap;
+          padding:22px 19px;
+          gap:14px
+        }
+        .public-info-mark {
+          width:36px;
+          height:36px;
+          flex-basis:36px
+        }
+        .public-info-copy {
+          width:calc(100% - 50px);
+          flex:auto
+        }
+        .public-info-copy h2 {
+          font-size:21px
+        }
+        .public-info-card>a {
+          margin-left:50px
+        }
+      }
+      .official-logo {
+        display: block;
+        width: 52px;
+        height: 52px;
+        object-fit: contain;
+        border-radius: 50%;
+        background: #fff;
+        border: 1px solid #d5e4d7;
+        box-shadow: 0 0 0 3px #ffffffaa;
+      }
+      .foot-brand .official-logo {
+        width: 54px;
+        height: 54px;
+      }
+      @media(max-width:720px) {
+        .official-logo {
+          width: 44px;
+          height: 44px;
+        }
+        .foot-brand .official-logo {
+          width: 48px;
+          height: 48px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="topline">
+      <div class="wrap">
+        <div class="flagdot">
+          <span class="flag">
+          </span>
+          Government of the People’s Republic of Bangladesh
+        </div>
+        <div class="toplinks">
+          <a href="https://www.police.gov.bd/" target="_blank" rel="noopener noreferrer">
+            Bangladesh Police ↗
+          </a>
+          <a href="https://www.moha.gov.bd/" target="_blank" rel="noopener noreferrer">
+            Ministry of Home Affairs ↗
+          </a>
+          <a href="https://specialbranch.gov.bd/" target="_blank" rel="noopener noreferrer">
+            Special Branch(SB)
+          </a>
+        </div>
+      </div>
+    </div>
+    <header class="header">
+      <div class="wrap headmain">
+        <a class="brand" href="#home" aria-label="Immigration Police home">
+          <img class="official-logo" src="https://immi.specialbranch.gov.bd/assets/images/special-branch-logo.jpg" alt="Special Branch, Bangladesh Police logo">
+          <span>
+            <span class="brand-name">
+              IMMIGRATION POLICE
+            </span>
+            <span class="brand-sub">
+              Bangladesh Police · Special Branch
+            </span>
+          </span>
+        </a>
+        <nav class="nav">
+          <a class="active" href="#home">
+            Home
+          </a>
+          <a href="#services">
+            Services
+          </a>
+          <a href="#travellers">
+            Travel information
+          </a>
+          <a href="#checkpoints">
+            Checkpoints
+          </a>
+          <a href="#about">
+            About us
+          </a>
+        </nav>
+        <div class="head-actions">
+          <button class="searchbtn" aria-label="Search" id="searchToggle">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+              <circle cx="10.8" cy="10.8" r="6.8"/>
+              <path d="m16 16 5 5"/>
+            </svg>
+          </button>
+          <a class="signin" href="#online-services">
+            Online services ↗
+          </a>
+          <button class="menu-btn" id="menuToggle" aria-label="Open menu">
+            ☰
+          </button>
+        </div>
+      </div>
+      <div class="search-panel" id="searchPanel">
+        <input id="searchInput" placeholder="Search services and information…" aria-label="Search services and information">
+      </div>
+      <nav class="mobile-nav" id="mobileNav">
+        <a href="#home">
+          Home
+        </a>
+        <a href="#services">
+          Services
+        </a>
+        <a href="#travellers">
+          Travel information
+        </a>
+        <a href="#checkpoints">
+          Checkpoints
+        </a>
+        <a href="#about">
+          About us
+        </a>
+        <a href="#online-services">
+          Online services ↗
+        </a>
+      </nav>
+    </header>
+    <main id="home">
+      <section class="hero">
+        <div class="wrap hero-grid">
+          <div class="hero-copy">
+            <div class="eyebrow">
+              Safe, secured and fastest immigration service
+            </div>
+            <h1>
+              Welcome to
+              <br>
+              Bangladesh.
+            </h1>
+            <p>
+              Clear, reliable immigration information for every traveller. Prepare for your journey with confidence and reach the right service before you travel.
+            </p>
+            <div class="hero-cta">
+              <a class="btn-primary" href="#travellers">
+                Plan your journey
+                <span>
+                  ↗
+                </span>
+              </a>
+              <a class="btn-ghost" href="#online-services">
+                Explore online services
+              </a>
+            </div>
+          </div>
+          <div class="hero-art" aria-hidden="true">
+            <div class="plane">
+  <img src="https://immi.specialbranch.gov.bd/assets/images/airplane-png.png" alt="Biman Bangladesh Airlines aircraft in flight">
+</div>
+            <div class="terminal">
+            </div>
+            <div class="airline">
+            </div>
+            <div class="hero-stamp">
+              <span class="stamp-icon">
+                ✳
+              </span>
+              <b>
+                Have a Safe Journey
+              </b>
+              <span>
+                Your journey starts here
+              </span>
+            </div>
+          </div>
+        </div>
+      </section>
+      <div class="notice">
+        <div class="wrap">
+          <span class="notice-tag">
+            Travel notice
+          </span>
+          <div class="notice-text">
+            <strong>
+              Before you travel:
+            </strong>
+            Check passport validity, visa requirements and your departure documents.
+          </div>
+          <a href="https://immi.specialbranch.gov.bd/" target="_blank" rel="noopener noreferrer">
+            View guidance ↗
+          </a>
+        </div>
+      </div>
+      <section class="digital-services" id="online-services" aria-label="Online travel cards">
+        <div class="wrap">
+          <div class="digital-service-grid">
+            <article class="digital-banner">
+              <div>
+                <div class="digital-label">
+                  Arriving in Bangladesh
+                </div>
+                <h3>
+                  e-Arrival Card
+                </h3>
+                <p>
+                  Complete your arrival information online before your journey.
+                </p>
+              </div>
+              <a href="https://edcard.specialbranch.gov.bd/foreigner/register" target="_blank" rel="noopener noreferrer">
+                Complete e-Arrival Card ↗
+              </a>
+            </article>
+            <article class="digital-banner">
+              <div>
+                <div class="digital-label">
+                  Leaving Bangladesh
+                </div>
+                <h3>
+                  e-Departure Card
+                </h3>
+                <p>
+                  Submit your departure details through the online service.
+                </p>
+              </div>
+              <a href="https://edcard.specialbranch.gov.bd/foreigner/departure" target="_blank" rel="noopener noreferrer">
+                Complete e-Departure Card ↗
+              </a>
+            </article>
+            <article class="digital-banner">
+              <div>
+                <div class="digital-label">
+                  Visa service
+                </div>
+                <h3>
+                  Visa on Arrival
+                </h3>
+                <p>
+                  Start an online Visa on Arrival application.
+                </p>
+              </div>
+              <a href="https://voa.specialbranch.gov.bd/register/new" target="_blank" rel="noopener noreferrer">
+                Apply for Visa on Arrival ↗
+              </a>
+            </article>
+          </div>
+        </div>
+      </section>
+      <section class="system-portals" aria-labelledby="system-portals-title">
+        <div class="wrap">
+          <div class="section-head">
+            <div>
+              <div class="kicker">
+                Special Branch platforms
+              </div>
+              <h2 id="system-portals-title">
+                Management systems
+              </h2>
+            </div>
+            <p class="section-intro">
+              Quick links to the Special Branch management system portals.
+            </p>
+          </div>
+          <div class="digital-service-grid">
+            <article class="digital-banner">
+              <div>
+                <div class="digital-label">
+                  Student information
+                </div>
+                <h3>
+                  Foreign Student Information Management System (FSIMS)
+                </h3>
+                <p>
+                  A testament to international scholars weaving their dreams into reality across the campuses of Bangladesh.
+                </p>
+              </div>
+              <a href="https://fsims.specialbranch.gov.bd/admin/login" target="_blank" rel="noopener noreferrer">
+                Open FSIMS portal ↗
+              </a>
+            </article>
+            <article class="digital-banner">
+              <div>
+                <div class="digital-label">
+                  Hotel management
+                </div>
+                <h3>
+                  Hotel Management System (HMS)
+                </h3>
+                <p>
+                  A comprehensive registry of international guests currently visiting from abroad.
+                </p>
+              </div>
+              <a href="https://hms.specialbranch.gov.bd/admin/login" target="_blank" rel="noopener noreferrer">
+                Open HMS portal ↗
+              </a>
+            </article>
+            <article class="digital-banner">
+              <div>
+                <div class="digital-label">
+                  Offload management
+                </div>
+                <h3>
+                  Offload Management System
+                </h3>
+                <p>
+                  A seamless online platform for settling offloads, designed to save passengers valuable time and reduced administrative delays."
+                </p>
+              </div>
+              <a href="https://ofms.specialbranch.gov.bd/admin/login" target="_blank" rel="noopener noreferrer">
+                Open OFMS portal ↗
+              </a>
+            </article>
+          </div>
+        </div>
+      </section>
+      <section class="public-info" aria-label="Public information">
+        <div class="wrap">
+          <div class="public-info-card">
+            <div class="public-info-mark" aria-hidden="true">
+              !
+            </div>
+            <div class="public-info-copy">
+              <span class="digital-label">
+               -দেশের আইন-শৃঙ্খলা রক্ষায় তথ্য প্রদান করুন-
+              </span>
+              <h2>
+                <a href="https://specialbranch.gov.bd/informations/view" target="_blank" rel="noopener noreferrer">
+                তথ্য দিয়ে দেশের নিরাপত্তায় অংশ নিন </a>
+              </h2>
+              <p>
+                আপনার গোপনীয়তা সংরক্ষিত থাকবে । 
+              </p>
+            </div>
+            <a href="https://specialbranch.gov.bd/informations/view" target="_blank" rel="noopener noreferrer">
+              তথ্য দিন
+              <span aria-hidden="true">
+                ↗
+              </span>
+            </a>
+          </div>
+        </div>
+      </section>
+      <section class="section" id="services">
+        <div class="wrap">
+          <div class="section-head">
+            <div>
+              <div class="kicker">
+                At your service
+              </div>
+              <h2>
+                What do you need today?
+              </h2>
+            </div>
+            <p class="section-intro">
+              Find immigration services and trusted information for visitors, Bangladeshi citizens and residents.
+            </p>
+          </div>
+          <div class="service-grid">
+            <a class="service-card" href="https://voa.specialbranch.gov.bd/login" target="_blank" rel="noopener noreferrer">
+              <div class="icon">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7">
+                  <path d="M4 20h16M6 20V8l6-4 6 4v12M9 12h6m-6 4h6"/>
+                </svg>
+              </div>
+              <h3>
+                Visa on Arrival
+              </h3>
+              <p>
+                Review eligibility and access the official online application.
+              </p>
+              <span class="arrow">
+                ↗
+              </span>
+            </a>
+            <a class="service-card" href="https://immi.specialbranch.gov.bd/" target="_blank" rel="noopener noreferrer">
+              <div class="icon">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7">
+                  <circle cx="12" cy="8" r="4"/>
+                  <path d="M4 21c.4-4.2 3.2-6.5 8-6.5s7.6 2.3 8 6.5"/>
+                </svg>
+              </div>
+              <h3>
+                Hello SB
+              </h3>
+              <p>
+                Android app for Foreigners’ services and so on.
+              </p>
+              <span class="arrow">
+                ↗
+              </span>
+            </a>
+            <a class="service-card" href="https://specialbranch.gov.bd/uploads/hello-sb-app.apk" target="_blank" rel="noopener noreferrer">
+              <div class="icon">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7">
+                  <path d="M4 5h16v14H4zM8 9h8M8 13h5"/>
+                  <path d="m14 17 2 2 4-5"/>
+                </svg>
+              </div>
+              <h3>
+                Forms &amp; applications
+              </h3>
+              <p>
+                Access visa forms, passport enquiries and immigration applications.
+              </p>
+              <span class="arrow">
+                ↗
+              </span>
+            </a>
+            <a class="service-card" href="https://immi.specialbranch.gov.bd/Contact_us" target="_blank" rel="noopener noreferrer">
+              <div class="icon">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7">
+                  <path d="M12 22s8-4.4 8-12V5l-8-3-8 3v5c0 7.6 8 12 8 12Z"/>
+                  <path d="M12 8v5m0 3h.01"/>
+                </svg>
+              </div>
+              <h3>
+                Get help
+              </h3>
+              <p>
+                Contact immigration offices and find important support numbers.
+              </p>
+              <span class="arrow">
+                ↗
+              </span>
+            </a>
+          </div>
+        </div>
+      </section>
+      <section class="audience" id="travellers">
+        <div class="wrap">
+          <div class="audience-panel">
+            <div>
+              <h2>
+                Choose your travel profile
+              </h2>
+              <p>
+                Start with the information most relevant to your journey.
+              </p>
+            </div>
+            <div class="audience-links">
+              <a class="audience-link" href="https://immi.specialbranch.gov.bd/" target="_blank" rel="noopener noreferrer">
+                Visitors
+                <span>
+                  ↗
+                </span>
+              </a>
+              <a class="audience-link" href="https://immi.specialbranch.gov.bd/" target="_blank" rel="noopener noreferrer">
+                Bangladeshi citizens
+                <span>
+                  ↗
+                </span>
+              </a>
+              <a class="audience-link" href="https://immi.specialbranch.gov.bd/" target="_blank" rel="noopener noreferrer">
+                Foreign residents
+                <span>
+                  ↗
+                </span>
+              </a>
+              <a class="audience-link" href="https://immi.specialbranch.gov.bd/" target="_blank" rel="noopener noreferrer">
+                Airlines &amp; agents
+                <span>
+                  ↗
+                </span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="feature" id="about">
+        <div class="wrap">
+          <div class="feature-panel">
+            <div class="feature-copy">
+              <div class="kicker">
+                Our responsibility
+              </div>
+              <h2>
+                Facilitating movement.
+                <br>
+                Protecting our borders.
+              </h2>
+              <p>
+                Immigration services are provided by the Special Branch of Bangladesh Police. Our officers support lawful travel and help safeguard the country at ports of entry.
+              </p>
+              <a href="https://immi.specialbranch.gov.bd/About_Us" target="_blank" rel="noopener noreferrer">
+                Learn about Immigration Police ↗
+              </a>
+            </div>
+            <div class="feature-art" aria-hidden="true">
+              <div class="mapshape">
+                <svg viewBox="0 0 430 300" fill="none">
+                                  <path d="
+                                    M 303 222.9 L 303.5 243.6 L 305.3 252.7 L 302.8 254.2 L 301 249.3 L 296.1 248.9 L 293.1 245
+                                    L 291.6 246.9 L 289.7 247 L 287.4 252 L 287.3 257.3 L 290.8 262.2 L 290.7 267.4 L 293.2 276
+                                    L 287.7 264.6 L 282.5 258.2 L 282.2 252 L 278.6 245.9 L 279.7 243.9 L 281.1 243.7 L 280
+                                    240.7 L 281.8 237.4 L 281.5 234.6 L 279.8 237 L 279.8 234.6 L 278.9 235.3 L 278.4 234.2 L
+                                    280 230.8 L 276.4 231 L 278.4 226.9 L 277.1 227.9 L 275.2 216.1 L 274.1 217 L 273.1 214.3 L
+                                    274.1 211.4 L 272.9 208.9 L 275.5 207.6 L 276.8 203.8 L 275.6 206.4 L 272.2 209.1 L 273.6
+                                    211.3 L 272.1 211.8 L 270.3 204.4 L 267.7 199.1 L 262.7 192 L 259.3 189.4 L 260.4 183.3 L
+                                    257.5 187.7 L 257.4 189.7 L 254.8 188.8 L 255.3 190.2 L 252.6 190.4 L 254.2 191.1 L 253.6
+                                    192.1 L 248.3 190.9 L 249 192.1 L 247.8 192.7 L 251.6 194.5 L 249.1 198.7 L 244.7 198.7 L
+                                    241.9 192.7 L 242.7 196.8 L 238.9 196.9 L 236.3 192.8 L 234.8 192.7 L 233.1 190.2 L 230.1
+                                    181.7 L 226.7 176.4 L 228.1 167.7 L 227.9 165.4 L 225.9 164.5 L 225.5 159.9 L 226.8 158.3 L
+                                    230 157.8 L 230 156.3 L 228.6 155.4 L 229.2 157.4 L 225.8 158.1 L 225.2 155.1 L 226.8 153.6
+                                    L 226 153.2 L 223.4 155 L 220.6 154.2 L 224.6 156.1 L 223.6 162.7 L 211.7 159.7 L 218.8
+                                    165.2 L 224.3 166.5 L 225.9 169.3 L 224.4 175.7 L 223.9 174.4 L 219.6 176.8 L 223.1 183.6 L
+                                    220.6 184.1 L 219.1 187.7 L 218 188 L 218.4 189.1 L 216.6 189.4 L 219 190.6 L 220.1 189.9 L
+                                    221.3 191.6 L 222.1 195.8 L 220 197.2 L 219.3 200.9 L 220.5 197.3 L 222.5 197 L 225.8 202 L
+                                    225 201.7 L 226 208.5 L 223.8 213.3 L 221.6 214.4 L 219.6 218.5 L 218 218.3 L 217.2 217.6 L
+                                    218.5 213.5 L 217.4 209.6 L 218.2 214.4 L 212.7 228.1 L 209.2 230.5 L 205.6 229.3 L 206.9
+                                    224.9 L 204.6 228.3 L 202.9 227.9 L 203.3 224.4 L 206.1 219.7 L 208.4 217.1 L 210.4 216.7 L
+                                    211.3 214.6 L 211.2 213.5 L 210 216.3 L 207.8 217.2 L 203.5 222.6 L 201.8 222 L 205 215 L
+                                    204 215.3 L 201.3 220.1 L 201.3 222.6 L 199.4 222.1 L 197.1 210.2 L 202.4 201 L 198.8 205.2
+                                    L 197 204.1 L 197.3 207.3 L 195.6 210.5 L 196.9 218.1 L 194 218.7 L 196 220.5 L 197.3 226.9
+                                    L 193.6 229.3 L 192.8 228.6 L 190.6 229.3 L 188.7 228.4 L 188.1 225.2 L 187 227.6 L 190.2
+                                    231.2 L 189 232.7 L 186.1 232.3 L 185.8 234.8 L 183.8 232.5 L 183.4 230 L 186.5 217.1 L 185
+                                    213.3 L 187.3 207.6 L 184.3 213.2 L 185.5 217.1 L 183.6 222.6 L 183.8 218.2 L 181.4 209.4 L
+                                    181.4 217.6 L 182.1 216.1 L 183.1 218.5 L 182 221 L 183.2 223.6 L 181 228 L 181 231.4 L
+                                    178.7 234.1 L 177.2 233 L 177.9 226.2 L 176.6 223.2 L 176.7 226.6 L 174.6 230.2 L 173.9
+                                    229.6 L 173.5 234.9 L 174.4 235.8 L 172.5 237.2 L 171 236.8 L 170.1 230.1 L 168.8 231.1 L
+                                    166.9 229.9 L 165.8 225.7 L 166.3 222 L 165 219.2 L 165.7 214.5 L 163.1 209.8 L 161.6 199.4
+                                    L 159.9 198.5 L 161 196.9 L 159.1 190.3 L 160.6 185.7 L 158.6 184.3 L 156.4 180.2 L 156.9
+                                    176 L 161.2 170.5 L 150.9 168.4 L 150.4 166.6 L 153.7 158.2 L 151.7 159.1 L 144.8 151.8 L
+                                    146.2 142.5 L 149.1 141.9 L 151.5 139.6 L 151 136.5 L 152 134.7 L 150 132.8 L 150.1 129.7 L
+                                    152.8 127.2 L 152.5 124.1 L 149.4 121.9 L 148.4 123.8 L 142.2 122.8 L 127.8 114.9 L 126.7
+                                    110.7 L 124.4 108.7 L 125.6 104 L 129.1 100.2 L 128 97.1 L 131.5 95.9 L 133.1 98.6 L 136.2
+                                    98.9 L 140.2 91.3 L 140.8 85.4 L 145.5 86.2 L 148.4 85.3 L 154.3 86.6 L 155.6 85.1 L 159.8
+                                    86.3 L 160 83.7 L 162.2 81.3 L 156.6 79.3 L 154.9 76.6 L 155.5 73.9 L 153.8 72 L 152.6 71.6
+                                    L 149.7 73.7 L 144.3 72.1 L 140.2 68.2 L 140 65.5 L 133.7 59.7 L 132.5 59.1 L 128.5 60.3 L
+                                    127 57.9 L 126.5 54.6 L 129.5 49.4 L 130 44.7 L 136.3 41.5 L 136.7 38.6 L 140.5 35.2 L 143.1
+                                    35.6 L 141.6 31.3 L 137.4 30 L 136.7 31.5 L 135.9 30.8 L 138.6 24 L 139.7 27.4 L 149.3 32.9
+                                    L 151.5 36.6 L 148.9 38.9 L 149.6 39.4 L 152.9 38.2 L 155.9 41 L 157.9 38.8 L 161.8 41.1 L
+                                    163.5 40.7 L 164.3 40.1 L 163.1 38 L 162 38.2 L 158.5 34.2 L 160.4 31.9 L 164.5 34.4 L 166.8
+                                    36.7 L 165.5 38.4 L 167.4 44.4 L 175.9 50.8 L 181.8 50.8 L 184 52.4 L 186.7 47.6 L 185 47 L
+                                    186.4 45.5 L 184.8 44.6 L 186.8 43.7 L 186.8 41.3 L 188.4 41.2 L 188.5 43.8 L 190.9 44.5 L
+                                    192.4 49.3 L 195.2 51.6 L 193.8 52.9 L 195.5 53.6 L 193.5 58.6 L 195.5 66.3 L 193.9 77.5 L
+                                    194.9 81.3 L 198.4 80.8 L 216.3 87.1 L 226.4 86.2 L 234.2 87.4 L 250.4 84.9 L 258.1 87.6 L
+                                    263.4 86.7 L 266.2 88.2 L 269.8 86.4 L 281.7 85.7 L 292.3 90.3 L 299.4 96.6 L 299.1 99.4 L
+                                    295.3 100.5 L 291.8 98.2 L 289.1 98.2 L 289.6 103 L 286.8 112.4 L 284.7 114.3 L 284.6 119 L
+                                    282.9 120.5 L 278.4 120.3 L 279.3 122.8 L 276.5 121.9 L 275.6 129.6 L 274.3 129.7 L 272.8
+                                    126.9 L 269.9 126.3 L 269.9 129.3 L 268.8 130.2 L 265.9 127.1 L 264 132.2 L 255.4 132.1 L
+                                    254.5 136.5 L 251.9 136.8 L 249.7 140.3 L 249.2 146.1 L 246.4 148.3 L 248.1 150.5 L 246.7
+                                    151.2 L 246.7 153 L 252.4 163.9 L 251.6 165.1 L 253.5 174.8 L 255.7 176.5 L 255.1 169.6 L
+                                    256.6 167.9 L 259.4 171.3 L 261.7 179.4 L 264.2 181.5 L 265.4 180.1 L 268.9 179.4 L 272.4
+                                    175.3 L 270.3 167.5 L 273.3 162 L 278.1 158 L 277.4 148.2 L 281.1 151.8 L 286.3 147.8 L 288
+                                    151.4 L 289.1 148.9 L 290.6 148.9 L 290.3 153.1 L 294.1 164 L 293.2 171.8 L 294.5 182.3 L
+                                    297.1 184.7 L 297.7 189.3 L 299.8 192.2 L 303 214.8 L 301.5 216.5 L 303 222.9 Z M 277.9
+                                    232.3 L 279.8 238.7 L 279.2 242.4 L 275.6 244.2 L 274.7 233.7 L 275.4 232.5 L 276.4 233 L
+                                    276 235.5 L 276.5 231.7 L 277.9 231.4 L 277.9 232.3 Z M 167.3 231.4 L 167.9 233.9 L 164.8
+                                    230.8 L 164.5 225.5 L 167.3 231.4 Z M 276 227.7 L 273.8 233.7 L 273.8 227.3 L 275.2 224.9 L
+                                    276 227.7 Z M 225.2 222.6 L 225.8 224.6 L 221.7 227.9 L 222.8 227.3 L 222.4 224.6 L 225.2
+                                    222.6 Z M 215 224.6 L 217.4 222 L 214.6 228.7 L 215 224.6 Z M 217.2 219.9 L 215.3 223.2 L
+                                    217.2 219.9 Z M 219 220.2 L 221 223 L 218.3 226.2 L 217.4 224.6 L 219 220.2 Z M 223.3 219.3
+                                    L 220.9 220.5 L 221.7 217.9 L 226 215 L 223.9 221 L 222.3 222.2 L 221.7 221 L 223.3 219.3 Z
+                                    M 238.9 213.2 L 239.5 215.8 L 238.4 217 L 238.9 213.2 Z M 240.3 214 L 240.5 210.9 L 240.3
+                                    214 Z M 239.3 212.3 L 240.3 206.4 L 241 209.1 L 239.3 212.3 Z M 247 206.7 L 248.5 212.2 L
+                                    246.7 215.7 L 243.7 218.1 L 242.1 217.9 L 241.4 217 L 243.5 213.8 L 244.1 205.3 L 247 206.7
+                                    Z M 226.3 203.8 L 225.6 202.8 L 227.8 205.7 L 227.1 208.8 L 226.3 203.8 Z M 227.4 203.8 L
+                                    227.6 201.3 L 227.4 203.8 Z M 247.4 200.4 L 249 199.9 L 249.1 201.8 L 245.6 202.2 L 247.4
+                                    200.4 Z M 259.5 196.9 L 263 201.5 L 263 204.8 L 261.1 205 L 258.7 202.6 L 257.8 199.5 L
+                                    259.5 196.9 Z M 233 200.8 L 235.5 203.4 L 234.8 214.4 L 232.4 218.7 L 227.4 222.2 L 228.7
+                                    217.6 L 226.5 220.8 L 225.6 220.1 L 228.9 205.8 L 227.4 198.5 L 223.9 196.2 L 225.3 188.8 L
+                                    227.5 188.3 L 233 200.8 Z M 227.3 185.6 L 228.6 187.4 L 225.1 187.1 L 222.8 189 L 222.4
+                                    191.5 L 219.8 189.1 L 220.5 184.9 L 225.2 184.2 L 227.3 185.6 Z M 228.1 181.2 L 226.8 181.2
+                                    L 228.1 182.7 L 226.9 182.5 L 225.5 180.9 L 222.5 181.2 L 221.9 180.2 L 225 177.7 L 228.1
+                                    181.2 Z M 222 176.2 L 220.4 178.8 L 219.8 176.5 L 222 176.2 Z M 222.5 165.4 L 221.1 165.5 L
+                                    218.8 162.7 L 223.1 164.2 L 225 166.2 L 222.5 165.4 Z
+                                  " fill="#d1b66b" fill-opacity=".16" stroke="#e0cc8e" stroke-width="2.1" stroke-linejoin="round" fill-rule="evenodd"/>
+                                  <circle cx="218.1" cy="144.5" r="10" stroke="#e3443b" stroke-opacity=".7" stroke-width="1.5"/>
+                                  <circle cx="218.1" cy="144.5" r="4.5" fill="#e3443b"/>
+                                </svg>
+              </div>
+              <div class="stats">
+                <b>
+                  3 gateways
+                </b>
+                <span>
+                  Air · land · sea
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="ports" id="checkpoints">
+        <div class="wrap">
+          <div class="section-head">
+            <div>
+              <div class="kicker">
+                Across Bangladesh
+              </div>
+              <h2>
+                Immigration checkpoints
+              </h2>
+            </div>
+            <p class="section-intro">
+              Immigration services operate at designated air, land and sea ports. Check with your carrier for your specific route.
+            </p>
+          </div>
+          <div class="port-grid">
+            <div class="port">
+              <div class="port-icon">
+                ✈
+              </div>
+              <div>
+                <h3>
+                  Airports
+                </h3>
+                <p>
+                  Dhaka · Chattogram · Sylhet and more
+                </p>
+              </div>
+              <a href="https://immi.specialbranch.gov.bd/Contact_us" target="_blank" rel="noopener noreferrer">
+                ↗
+              </a>
+            </div>
+            <div class="port">
+              <div class="port-icon">
+                ⌖
+              </div>
+              <div>
+                <h3>
+                  Land ports
+                </h3>
+                <p>
+                  Including Benapole and other crossings
+                </p>
+              </div>
+              <a href="https://immi.specialbranch.gov.bd/Contact_us" target="_blank" rel="noopener noreferrer">
+                ↗
+              </a>
+            </div>
+            <div class="port">
+              <div class="port-icon">
+                ⚓
+              </div>
+              <div>
+                <h3>
+                  Sea ports
+                </h3>
+                <p>
+                  Chattogram, Mongla and designated ports
+                </p>
+              </div>
+              <a href="https://immi.specialbranch.gov.bd/Contact_us" target="_blank" rel="noopener noreferrer">
+                ↗
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="updates">
+        <div class="wrap">
+          <div class="section-head">
+            <div>
+              <div class="kicker">
+                Stay informed
+              </div>
+              <h2>
+                Notices &amp; updates
+              </h2>
+            </div>
+            <a href="https://specialbranch.gov.bd/nodes/notices" style="font-size:12px;font-weight:700;color:#0b594b" target="_blank" rel="noopener noreferrer">
+              All official notices ↗
+            </a>
+          </div>
+          <div class="news-grid">
+            <article class="news">
+              <div class="date">
+                Official information
+              </div>
+              <h3>
+                Prepare your travel documents before arriving at the checkpoint.
+              </h3>
+              <a href="https://immi.specialbranch.gov.bd/" target="_blank" rel="noopener noreferrer">
+                Travel guidance ↗
+              </a>
+            </article>
+            <article class="news">
+              <div class="date">
+                Online service
+              </div>
+              <h3>
+                Visa on Arrival application and eligibility information.
+              </h3>
+              <a href="https://voa.specialbranch.gov.bd/login" target="_blank" rel="noopener noreferrer">
+                Visit VOA portal ↗
+              </a>
+            </article>
+            <article class="news">
+              <div class="date">
+                Public support
+              </div>
+              <h3>
+                Need assistance? Find immigration office contacts.
+              </h3>
+              <a href="https://immi.specialbranch.gov.bd/Contact_us" target="_blank" rel="noopener noreferrer">
+                Contact directory ↗
+              </a>
+            </article>
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer class="footer">
+      <div class="wrap">
+        <div class="foot-top">
+          <div>
+            <div class="foot-brand">
+              <img class="official-logo" src="https://immi.specialbranch.gov.bd/assets/images/special-branch-logo.jpg" alt="Special Branch, Bangladesh Police logo">
+              <b>
+                IMMIGRATION POLICE
+                <br>
+                Bangladesh
+              </b>
+            </div>
+            <p>
+             Immigration Police, Special Branch
+              <br>
+              Bangladesh Police
+            </p>
+          </div>
+          <div class="foot-cols">
+            <div>
+              <h4>
+                Traveller services
+              </h4>
+              <a href="https://immi.specialbranch.gov.bd/" target="_blank" rel="noopener noreferrer">
+                Visa information
+              </a>
+              <a href="https://immi.specialbranch.gov.bd/" target="_blank" rel="noopener noreferrer">
+                Foreigners’ registration
+              </a>
+              <a href="https://immi.specialbranch.gov.bd/" target="_blank" rel="noopener noreferrer">
+                Forms &amp; applications
+              </a>
+            </div>
+            <div>
+              <h4>
+                Information
+              </h4>
+              <a href="https://immi.specialbranch.gov.bd/About_Us" target="_blank" rel="noopener noreferrer">
+                About us
+              </a>
+              <a href="https://immi.specialbranch.gov.bd/" target="_blank" rel="noopener noreferrer">
+                Rules &amp; procedures
+              </a>
+              <a href="https://immi.specialbranch.gov.bd/Contact_us" target="_blank" rel="noopener noreferrer">
+                Contact directory
+              </a>
+            </div>
+            <div>
+              <h4>
+                Useful links
+              </h4>
+              <a href="https://www.police.gov.bd/" target="_blank" rel="noopener noreferrer">
+                Bangladesh Police
+              </a>
+              <a href="https://www.moha.gov.bd/" target="_blank" rel="noopener noreferrer">
+                Ministry of Home Affairs
+              </a>
+              <a href="https://dip.gov.bd/" target="_blank" rel="noopener noreferrer">
+                Immigration &amp; Passports
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="foot-bottom">
+          <span>
+            © Government of the People’s Republic of Bangladesh
+          </span>
+          <span>
+            Privacy · Accessibility · Sitemap
+          </span>
+          <span class="prototype">
+            Design concept · ICT Wing, Special Branch
+          </span>
+        </div>
+      </div>
+    </footer>
+    <script>
+      const searchToggle = document.getElementById('searchToggle');
+      const searchPanel = document.getElementById('searchPanel');
+      const searchInput = document.getElementById('searchInput');
+      const menuToggle = document.getElementById('menuToggle');
+      const mobileNav = document.getElementById('mobileNav');
+
+      searchToggle.addEventListener('click', () => {
+        searchPanel.classList.toggle('open');
+        if (searchPanel.classList.contains('open')) searchInput.focus();
+      });
+
+      menuToggle.addEventListener('click', () => {
+        mobileNav.classList.toggle('open');
+      });
+
+      document.addEventListener('keydown', (event) => {
+        if (event.key === 'Escape') {
+          searchPanel.classList.remove('open');
+          mobileNav.classList.remove('open');
+        }
+      });
+
+      searchInput.addEventListener('keydown', (event) => {
+        if (event.key === 'Enter') {
+          const query = searchInput.value.toLowerCase();
+          const target = query.includes('visa')
+            ? 'services'
+            : query.includes('port')
+              ? 'checkpoints'
+              : query.includes('travel')
+                ? 'travellers'
+                : 'services';
+          document.getElementById(target).scrollIntoView();
+          searchPanel.classList.remove('open');
+        }
+      });
+
+      mobileNav.querySelectorAll('a').forEach((link) => {
+        link.addEventListener('click', () => {
+          mobileNav.classList.remove('open');
+        });
+      });
+    </script>
+  </body>
+</html>
+
+
+
+
+
+
+

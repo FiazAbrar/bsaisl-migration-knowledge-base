@@ -1,0 +1,63 @@
+[← Front Page](/)
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld2JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUtaWNvbiBsdWNpZGUgbHVjaWRlLXR3aXR0ZXIiPjwhLS1bLS0+PCEtLS0tPjxwYXRoIGQ9Ik0yMiA0cy0uNyAyLjEtMiAzLjRjMS42IDEwLTkuNCAxNy4zLTE4IDExLjYgMi4yLjEgNC40LS42IDYtMkMzIDE1LjUuNSA5LjYgMyA1YzIuMiAyLjYgNS42IDQuMSA5IDQtLjktNC4yIDQtNi42IDctMy44IDEuMSAwIDMtMS4yIDMtMS4yeiI+PCEtLS0tPjwvcGF0aD48IS0tLS0+PCEtLV0tLT48IS0tLS0+PCEtLS0tPjwvc3ZnPg==)
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld2JveD0iMCAwIDIwIDIwIiBjbGFzcz0iZmlsbC1jdXJyZW50Ij48ZyBpZD0iUGFnZS0xIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIj48ZyBpZD0iRHJpYmJibGUtTGlnaHQtUHJldmlldyIgZmlsbD0iY3VycmVudENvbG9yIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMzAwIC03NTk5KSI+PGcgaWQ9Imljb25zIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1NiAxNjApIj48cGF0aCBpZD0id2hhdHNhcHAtWyMxMjhdIiBkPSJNMjU5LjgyMSA3NDUzLjEyMWMtLjI0MS42ODItMS4xOTkgMS4yNDctMS45NjMgMS40MTItLjUyMy4xMS0xLjIwNS4xOTktMy41MDMtLjc1NC0yLjU4MS0xLjA2OS02LjE2NS00Ljg3OC02LjE2NS03LjQxMyAwLTEuMjkuNzQ0LTIuNzkzIDIuMDQ1LTIuNzkzLjYyNiAwIC43NjQuMDEyLjk3LjUwNy4yNDEuNTgyLjgyOSAyLjAxNi44OTkgMi4xNjMuMjg5LjYwMy0uMjk0Ljk1Ni0uNzE3IDEuNDgyLS4xMzUuMTU4LS4yODguMzI5LS4xMTcuNjIzLjE3LjI4OC43NTggMS4yNDYgMS42MjIgMi4wMTUgMS4xMTYuOTk1IDIuMDIxIDEuMzEyIDIuMzQ1IDEuNDQ3LjI0MS4xLjUyOS4wNzcuNzA1LS4xMTEuMjIzLS4yNDEuNS0uNjQxLjc4Mi0xLjAzNS4xOTktLjI4My40NTItLjMxOC43MTctLjIxOC4xNzkuMDYyIDIuNDU0IDEuMTE5IDIuNTUgMS4yODguMDcxLjEyMy4wNzEuNzA1LS4xNyAxLjM4N00yNTQuMDAyIDc0MzloLS4wMDVjLTUuNTEzIDAtOS45OTcgNC40ODUtOS45OTcgMTAgMCAyLjE4Ny43MDUgNC4yMTUgMS45MDQgNS44NmwtMS4yNDYgMy43MTcgMy44NDMtMS4yMjlhOS45MiA5LjkyIDAgMCAwIDUuNTAxIDEuNjUyYzUuNTEzIDAgOS45OTgtNC40ODUgOS45OTgtMTBzLTQuNDg1LTEwLTkuOTk4LTEwIiAvPjwvZz48L2c+PC9nPjwvc3ZnPg==)
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld2JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUtaWNvbiBsdWNpZGUgbHVjaWRlLWZhY2Vib29rIj48IS0tWy0tPjwhLS0tLT48cGF0aCBkPSJNMTggMmgtM2E1IDUgMCAwIDAtNSA1djNIN3Y0aDN2OGg0di04aDNsMS00aC00VjdhMSAxIDAgMCAxIDEtMWgzeiI+PCEtLS0tPjwvcGF0aD48IS0tLS0+PCEtLV0tLT48IS0tLS0+PCEtLS0tPjwvc3ZnPg==)
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld2JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUtaWNvbiBsdWNpZGUgbHVjaWRlLWxpbmstMiBoLTQgdy00Ij48IS0tWy0tPjwhLS0tLT48cGF0aCBkPSJNOSAxN0g3QTUgNSAwIDAgMSA3IDdoMiI+PCEtLS0tPjwvcGF0aD48IS0tLS0+PCEtLS0tPjxwYXRoIGQ9Ik0xNSA3aDJhNSA1IDAgMSAxIDAgMTBoLTIiPjwhLS0tLT48L3BhdGg+PCEtLS0tPjwhLS0tLT48bGluZSB4MT0iOCIgeDI9IjE2IiB5MT0iMTIiIHkyPSIxMiI+PCEtLS0tPjwvbGluZT48IS0tLS0+PCEtLV0tLT48IS0tLS0+PCEtLS0tPjwvc3ZnPg==)
+
+Labour & Policy
+
+# Migrant Repatriation Programme 2.0 to be Implemented until April 2026
+
+Home Minister Saifuddin Nasution Ismail announces an initiative to allow undocumented migrants to return home without facing persecution.
+
+Published 14 September 2025 • Updated 27 October 2025
+
+M
+
+Written by [Migrant Times Team](/columnist/migrant-times-team)
+
+![blur fallback](/_app/immutable/assets/blur-placeholder.C4yQSMA8.jpg) ![Migrant Repatriation Programme 2.0 to be Implemented until April 2026](https://media.migrantimes.com/uploads/news/webp/1758310717261_1758182308473_1758008759392_hilmi-alwan-_AAmoPxPL2I-unsplash.webp)
+
+**KUALA LUMPUR -** The Malaysian government has launched the Migrant Repatriation Programme 2.0 (PRM 2.0), allowing undocumented migrants to return home voluntarily without facing legal consequences. The programme runs from 19 May 2024, to 30 April 2026.
+
+PRM 2.0 follows the conclusion of the Labour Recalibration Programme, which ended on 31 December 2023, and is being implemented throughout Peninsular Malaysia and Labuan.
+
+Home Minister Saifuddin Nasution Ismail stated that undocumented migrants will face compound fines of RM500 for entering or staying without valid documents, RM500 for overstaying, and RM300 for breaching pass conditions.
+
+He added, “All stakeholders surrounding migrants are encouraged to spread the news, as early participation is crucial to avoid congestion, with deadlines nearing.”
+
+While it is meant for undocumented migrants to return without persecution, the programme is not open to those blacklisted by the immigration department, individuals with arrest warrants, or those wanted by the authorities. 
+
+Saifuddin said the Immigration Department will intensify enforcement against undocumented migrants nationwide, describing it as the “year of enforcement.” 
+
+The operations will be carried out through a joint effort with agencies including the police, People’s Volunteer Corps (Rela), the National Registration Department and local authorities.
+
+He also warned that employers will face stern action if they continue to hire or shelter undocumented workers. Offenders risk fines of up to RM50,000 per worker, a maximum of five years’ imprisonment, and up to six strokes of the cane upon conviction.
+
+\#Migrant Repatriation Programme 2.0\#Undocumented Migrants\#Malaysian Immigration\#Migrant Workers\#Migrant Rights
+
+### Reader Conversation
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld2JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUtaWNvbiBsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIGgtNCB3LTQiPjwhLS1bLS0+PCEtLS0tPjxwYXRoIGQ9Ik0yLjk5MiAxNi4zNDJhMiAyIDAgMCAxIC4wOTQgMS4xNjdsLTEuMDY1IDMuMjlhMSAxIDAgMCAwIDEuMjM2IDEuMTY4bDMuNDEzLS45OThhMiAyIDAgMCAxIDEuMDk5LjA5MiAxMCAxMCAwIDEgMC00Ljc3Ny00LjcxOSI+PCEtLS0tPjwvcGF0aD48IS0tLS0+PCEtLV0tLT48IS0tLS0+PCEtLS0tPjwvc3ZnPg==) Comments
+
+THE DISPATCH
+
+## Stay Informed Across Borders
+
+Weekly field reporting, accountability investigations, and regional migration policy analysis delivered directly to your inbox every Thursday.
+
+Email address
+
+Subscribe
+
+CONTRIBUTIONS & PITCHES
+
+## Contribute to Migrant Times
+
+We commission reporting, investigative manuscripts, data analyses, and first-person dispatches from journalists, researchers, students, and community advocates across Asia Pacific.
+
+[Pitch a Story →](/contact#pitch)

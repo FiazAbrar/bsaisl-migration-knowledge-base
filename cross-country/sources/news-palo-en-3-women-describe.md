@@ -1,0 +1,106 @@
+[](/)
+
+## ![en.prothomalo.com logo](https://media.prothomalo.com/prothomalo-bangla/2025-11-17/r8eiboew/palo-english.svg)
+
+[](/search)
+
+[](/api/auth/v1/oauth/authorize?client_id=811&response_type=code&redirect_uri=/api/auth/v1/oauth/token&callback_uri=/bangladesh/ckil8ucz6b)
+
+[](/search)
+
+Search
+
+[](https://epaper.prothomalo.com)
+
+#### ই-পেপার
+
+[বাংলা](https://www.prothomalo.com)
+
+[](/api/auth/v1/oauth/authorize?client_id=811&response_type=code&redirect_uri=/api/auth/v1/oauth/token&callback_uri=/bangladesh/ckil8ucz6b)
+
+[](/)
+
+## ![en.prothomalo.com logo](https://media.prothomalo.com/prothomalo-bangla/2025-11-17/r8eiboew/palo-english.svg)
+
+[Bangladesh](https://en.prothomalo.com/bangladesh)
+
+## Statements to Police
+
+# 3 women barred from travelling abroad describe what happened at the airport
+
+Staff Correspondent
+
+Dhaka
+
+Updated: 09 Oct 2026, 10: 42
+
+[](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fen.prothomalo.com%2Fbangladesh%2Fckil8ucz6b)[](https://twitter.com/intent/tweet?url=https%3A%2F%2Fen.prothomalo.com%2Fbangladesh%2Fckil8ucz6b&text=3%20women%20barred%20from%20travelling%20abroad%20describe%20what%20happened%20at%20the%20airport&hashtags=)
+
+Three women have alleged that immigration police at the airport called their parents to ask about their travel plans and professions, and made “indecent” remarks about their clothing, financial means and personal matters.
+
+One of the women said an immigration police officer told her that unmarried women were not allowed to travel abroad alone.
+
+The three bachelor women, who were prevented from travelling abroad, made these statements to the police on Thursday. On 8 August, they went to Hazrat Shahjalal International Airport with valid passports, visas or entry permits, and air tickets to travel to Nepal. However, they were stopped from travelling.
+
+In response, they lodged a complaint with the additional inspector general of police on 30 August, seeking an investigation and action against those involved. After receiving no response, the three women filed a writ petition with the High Court.
+
+Following an initial hearing on the petition, the court issued a rule and an order on 29 September, directing the authorities to dispose of the complaint the women had submitted to the additional inspector general of police.
+
+Ishrat Hasan, the lawyer representing the three women, told Prothom Alo that, following the High Court order, the women were served notices asking them to appear on Thursday to give statements and be questioned as part of the process of disposing of their complaint.
+
+A three-member committee has been formed to investigate the allegations. The women were questioned at the relevant office in Rajarbagh. They gave statements, and the recording of statement and questioning lasted around six hours.
+
+## 'They were travelling to Nepal with their families’ consent’
+
+One of the women stated in her testimony that she had been associated with the Bangladesh International Mediation Society (BIMS), an organisation working in mediation, since 2025. She said they planned to visit Nepal because BIMS had a representative there. They prepared for the trip after obtaining their families’ consent.
+
+She said they were taken to an office while heading towards the terminal after collecting their boarding passes. She alleged that they were subjected to inappropriate behaviour from the outset. Officers made various offensive remarks about the photograph on her student ID card. Because the photograph showed her wearing a hijab, one officer allegedly said, “You dress differently at different times.”
+
+The officer then called her father to ask about her travel plans. According to her statement, he told her father, “Keep track of what your daughter does. How can a farmer’s daughter afford to travel abroad?”
+
+The young woman said she left the office afterwards. She alleged that the incident left her father traumatised. Subsequently, on 17 August, her father was involved in an accident and later died.
+
+## ‘You are being stopped because you are not married’
+
+Another woman stated that she had been working as a trainer and treasurer at BIMS since 2023. According to her account, she went to the airport on 8 August with two colleagues to travel to Nepal.
+
+After collecting their boarding passes, they entered the terminal and submitted their passports and other documents for verification at a desk. They were then moved to an adjacent desk before all three women were taken to an office.
+
+She said the police officers in the office kept her to one side and questioned the other two women. At one point, an officer called the father of one of the women and asked her to step outside.
+
+The woman alleged that they had valid travel documents, but officers asked irrelevant questions without properly checking them. She also said officers made inappropriate remarks after seeing the details of a Nepali person in their hotel booking.
+
+Later, a police officer called out their names. The women thought this meant they would finally be allowed to travel. She asked the officer where they were being taken. He replied that the three of them would be escorted out through the arrivals terminal.
+
+When they asked why they were being sent out, the officer allegedly said they were not being allowed to travel because they were unmarried.
+
+The woman said they were not given any written document when they were escorted out. Even outside, she repeatedly insisted that they would not leave the terminal premises. The officer then allegedly warned them that they would face problems if they stayed there.
+
+## ‘Offensive remarks were made’
+
+A third woman, who also works at BIMS, stated that she had entered the terminal on 8 August after following the required procedures and collecting her boarding pass. She was then taken from the terminal to an office, where officers asked to see her student ID card and told her to call her university’s dean.
+
+She questioned whether it was appropriate to call the dean. An officer present then told her that he could contact his own superior if necessary, and asked why she could not call the dean.
+
+The woman stated that she had travelled to the airport with all the required valid documents, including her boarding pass, passport, hotel booking and dollar endorsement. She alleged that officers questioned the source of the money for her trip and made offensive remarks. The police later retained her passport.
+
+She further alleged that the officers called their parents on mobile phones to ask whether they knew their daughters were travelling abroad. They also asked about the women’s professions. According to her statement, the officers made various offensive remarks about their clothing and passports.
+
+## Questions asked during police questioning
+
+On Thursday, the three women were asked whether they had received an invitation to meet Nepal’s chief justice. They replied that their purpose was to travel. As BIMS has a branch in Nepal, they had informally discussed meeting Nepal’s chief justice and attending a dinner with him through Simran, the local coordinator, during their visit.
+
+Asked whether they had hotel bookings in Nepal and return tickets, the three women said they did.
+
+They were also asked whether they had no-objection certificates (NOCs) from the organisations where they were interning. The women replied that NOCs were not required in their cases.
+
+[Follow the Google news channel to get Prothom Alo's latest news](https://news.google.com/publications/CAAqBwgKMOC2lwsw09-uAw?hl=en-US&gl=US&ceid=US%3Aen)
+
+Read more from [Bangladesh](https://en.prothomalo.com/bangladesh)
+
+- [Gender](/topic/Gender)
+- [Gender Equality](/topic/Gender-Equality)
+- [Women](/topic/Women)
+- [Hazrat Shahjalal International Airport](/topic/hazrat-shahjalal-international-airport)
+- [Travel](/topic/travel)
+- [Police](/topic/Police)

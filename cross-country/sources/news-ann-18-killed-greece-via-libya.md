@@ -1,0 +1,58 @@
+At least 18 Bangladeshi migration hopefuls died while attempting to cross the Mediterranean Sea in a bid to reach Greece via Libya through a risky illegal route. PHOTO: SCREENGRAB/THE DAILY STAR
+
+March 30, 2026
+
+**DHAKA** – At least 18 Bangladeshi migration hopefuls died while attempting to cross the Mediterranean Sea in a bid to reach Greece via Libya through a risky illegal route.
+
+Talking to The Daily Star, State Minister for Expatriates’ Welfare and Overseas Employment Md Nurul Haque Nur confirmed the deaths and described the incident as “very sad and unexpected”.
+
+Several others were rescued alive, the state minister further said. “Those who were rescued alive have been taken either to hospitals or detention centres (in Greece),” he said.
+
+“The Bangladesh mission is trying to contact the Greek Coast Guard and relevant authorities to gather details about the victims and survivors,” the state minister added.
+
+He said the government, along with the International Organization for Migration, is also trying to provide support and explore ways to bring back the bodies and assist the survivors.
+
+“We always say that human life cannot be measured by money or wealth,” Nur said.
+
+He said the government has long been carrying out awareness programmes in areas from where people often attempt such dangerous journeys.
+
+The state minister said, these campaigns are meant to warn people that such routes carry grave risks to life and also harm the country’s image abroad, as undocumented migration creates pressure in destination countries.
+
+“But if they still go illegally of their own will, there is not much we can do,” he said.
+
+The minister said the government’s legal scope for intervention remains limited because the migrants did not use formal channels.
+
+He also alleged that trafficking networks often abandon weak or sick passengers during sea crossings and in many cases, bodies are thrown into the water.
+
+The state minister said the fate of the bodies and the survivors now largely depends on rescue efforts and the response of the authorities in that country.
+
+The embassy is seeking permission to meet the survivors and determine what support can be provided.
+
+**Survivour account**
+
+In a video circulating on social media, a survivor claimed that 43 people were on board a small boat, including 38 Bangladeshis and five Sudanese nationals.
+
+The men had left home hoping to reach Europe and improve their families’ fortunes, he said.
+
+Of the 38 Bangladeshis, 18 died during the journey, the survivor claimed.
+
+He alleged that the group had been promised passage on a bigger boat, but was instead put on a smaller one. He also claimed they were given no satellite phone, GPS device, or any means of communication during the journey.
+
+Describing the ordeal, the man heard saying that the bodies of those who died began decomposing in the salt water and were later thrown into the sea.
+
+He also named several alleged brokers and traffickers, claiming that many of them were from Sylhet.
+
+According to his account, some of the migrants had spent around three months in camps in Libya before starting the sea journey from a “Game Ghar”.
+
+“Game Ghar” (translated as “game house” or “game room”) is an euphemistic, deceptive term used by transnational human trafficking syndicates in Libya to describe detention centers where Bangladeshi migrants are held, tortured, and extorted for ransom.
+
+The boat had departed on March 21 from Tobruk, a port city in eastern Libya, bound for Greece.
+
+The Greek coastguard, citing survivors, late Friday said 26 people, including a woman and a minor, were rescued by a European border agency vessel off the island of Crete.
+
+- [Accident](https://asianews.network/tag/accident/)
+- [Bangladesh](https://asianews.network/tag/bangladesh/)
+- [Court and Crime](https://asianews.network/tag/court-and-crime/)
+- [Greece](https://asianews.network/tag/greece/)
+- [Society](https://asianews.network/tag/society/)
+- [The Daily Star](https://asianews.network/tag/the-daily-star/)

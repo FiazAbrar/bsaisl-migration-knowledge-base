@@ -18,6 +18,7 @@ Countries:
 For all countries:
 
 - [Recruiting agencies](agencies/): the most active licensed agencies, by country, with cited red flags
+- [Going abroad from Bangladesh](cross-country/): frequently asked questions, dalal scams, departure bottlenecks (offloading, airport checks, bribes, deportation) and illegal routes, across all countries
 
 Each country folder has the same files:
 

@@ -1,0 +1,2061 @@
+1  ANNUAL REPORT 2025 ­ JORDAN
+
+JORDAN
+
+Annual Report 2025
+
+An Industry and Compliance Review
+
+Reporting Period: Jan 2024 ­ Jan 2025
+2  ANNUAL REPORT 2025 ­ JORDAN
+
+Table of Contents
+
+List of Abbreviations ................................................................................................................................................................3
+Preface: Fifteen Years of Better Work Jordan .............................................................................................................. 4
+Executive Summary ................................................................................................................................................................ 6
+Looking Ahead: Leveraging Evaluation Insights for Future Impact ...................................................................... 8
+Fifteen Years of Better Work Jordan ................................................................................................................................ 9
+Introduction ...............................................................................................................................................................................10
+
+   Country Context ............................................................................................................................................................ 10
+   Legislative Updates....................................................................................................................................................... 11
+   2025 Collective Bargaining Agreement ..................................................................................................................... 12
+Promoting Well-being and Inclusion ................................................................................................................................16
+   Mental Health Programme .......................................................................................................................................... 16
+   Disability Inclusion ........................................................................................................................................................ 17
+Advancing Compliance in Jordan's Garment Sector .................................................................................................19
+   A Retrospective Review of Earlier Years ..................................................................................................................... 19
+   Key Achievements in Improving Labour Standards and Working Conditions ..................................................... 19
+2024 in Focus: Compliance Assessment Results and Key Findings ...................................................................25
+Better Work Jordan's Responsive Mechanism............................................................................................................36
+   Factory Level Interventions ......................................................................................................................................... 36
+   Training and Workshops .............................................................................................................................................. 36
+   Advancing Training through Digitalization ............................................................................................................... 37
+   Factory Ambassador Program .................................................................................................................................... 38
+National Level Interventions..............................................................................................................................................38
+Annexes .....................................................................................................................................................................................46
+3       ANNUAL REPORT 2025 ­ JORDAN
+
+List of Abbreviations
+
+ARDD    Arab Renaissance for Democracy and Development
+BOESL   Bangladesh Overseas Employment and Services Limited
+BWJ     Better Work Jordan
+CAT     Compliance Assessment Tool
+CBA     Collective Bargaining Agreement
+CP      Compliance Point
+EMV     Economic Modernization Vision
+EU      European Union
+FAP     Factory Ambassador Programme
+FLA     Fair Labour Association
+FoA     Freedom of Association
+FTA     Free Trade Agreement
+GoJ     Government of Jordan
+GFJTU   General Federation of Jordanian Trade Unions
+IFC     International Finance Corporation
+ILO     International Labour Organization
+JCI     Jordan Chamber of Industry
+JD      Jordanian Dinar
+J-GATE  Jordan Garment, Accessories & Textiles Exporters' Association
+JTGCU   General Trade Union of Workers in Textile, Garment and Clothing Industries
+MoH     Ministry of Health
+MoL     Ministry of Labour
+OSH     Occupational Safety and Health
+SOPs    Standard Operating Procedures
+PAC     Project Advisory Committee
+RoO     Rules of Origin
+SSC     Social Security Corporation
+TVPRA   Trafficking Victims Protection Reauthorization Act
+ULC     Union Labour Committee
+USAID   U.S. Agency for International Development
+USDOL   U.S. Department of Labor
+USJFTA  United States Jordan Free Trade Agreement
+ZTP     Zero-Tolerance Protocol
+4  ANNUAL REPORT 2025 ­ JORDAN
+
+Preface: Fifteen Years of Better Work Jordan
+
+Better Work Jordan (BWJ) was established in 2008 at the request of the Government of Jordan
+(GoJ) and the U.S. government in response to widespread labour rights violations in the country's
+garment sector. Since its inception, Better Work Jordan has worked in close collaboration with the
+Government of Jordan, employers' and workers' organizations, development partners, international
+brands and retailers, to promote decent work and strengthen competitiveness in the sector. Over
+the past seventeen years, the programme has contributed to meaningful improvements in working
+conditions, social dialogue, and labour market governance. As of 22 June 2025, BWJ has paused its
+operations due to a cut in funding.
+
+While Better Work operations are currently paused, the ILO is in ongoing discussions with
+constituents and stakeholders and remains committed to supporting the sector and is engaging in
+dialogue on potential opportunities for future collaboration. Better Work continues to strive for an
+export-oriented garment sector in Jordan that lifts people out of poverty, empowers women, and
+drives business competitiveness and inclusive economic growth.
+
+In 2010, Better Work Jordan was made mandatory for all garment factories exporting under the
+United States Jordan Free Trade Agreement (USJFTA). Over the years, the programme has worked to
+strengthen the capacity of tripartite constituents ­ government, workers, and employers ­ to fulfil
+their mandates in promoting decent work outcomes. BWJ has driven tangible improvement in
+occupational safety and health, human resource management, gender representation, social
+dialogue, and migrant workers' rights. It has played a key role in supporting sectoral stakeholders in
+negotiating multiple Collective Bargaining Agreements (CBAs) ­ a significant milestone in the
+development of industrial relations in Jordan. In 2016, garments produced in Jordan were removed
+from the TVPRA list, with the programme's contributions recognised as a key factor in this decision.
+
+In 2018, Better Work Jordan expanded its reach beyond the garment industry to include factories in
+the plastics, chemicals, and engineering sectors ­ industries that can export to the European Union
+(EU) under the Relaxed Rules of Origin (RoO) framework. This expansion aligned with Jordan's
+broader economic diversification goals and positioned BWJ as a model for labour reform in other
+industries.
+
+As a first for Better Work, Better Work Jordan successfully tested an innovative labour inspection
+secondment programme to build the capacity of labour inspectors to conduct high quality
+inspections. As its mandate has grown, BWJ became more than a factory-level compliance
+5  ANNUAL REPORT 2025 ­ JORDAN
+
+programme. It evolved into a broader development initiative supporting structural reform,
+institutional capacity building, and multi-stakeholder collaboration.
+
+In 2022, the programme entered its fourth strategic phase, with a renewed focus on national
+ownership and long-term sustainability. Phase IV prioritised strengthening the capacity for national
+stakeholders ­ government, employers' and workers' representatives ­ to take the lead in monitoring
+and improving working conditions. It also supported stronger labour market institutions, inclusive
+economic growth, and the use of data-driven approaches to inform policy and interventions.
+
+During its tenure, Better Work Jordan made important strides in improving working conditions and
+industrial relations in the country's manufacturing sector, with a focus on the garment industry. Over
+this period, the total value of Jordanian garment exports doubled, and the number of jobs created in
+the sector increased significantly despite the challenging operating environment in the region. At
+close, the programme had 97 participating factories, of which five were non-garment factories in the
+plastics, chemical and engineering sectors, reaching 26 brands and retailers.
+
+Better Work Jordan worked to build on its achievements while simultaneously equipping the tripartite
+constituents to take a leading role in supporting and advancing these achievements. With migrants
+comprising a large majority of garment workers in Jordan, BWJ encouraged stakeholders to uphold
+migrant workers' rights by tackling the issues of pay discrimination, living conditions in worker
+dormitories and deficient recruitment processes.
+
+In recent years, Better Work Jordan has also worked with other technical teams within the ILO,
+including experts on occupational safety and health, to equip Ministry of Labor (MoL) inspectors with
+the skills, tools, and knowledge to undertake factory assessments using Better Work methodology.
+This initiative resulted in the creation of a Better Work Unit at the MoL tasked with conducting joint
+inspections with Better Work Jordan staff in the garment, chemical and engineering industries.
+6  ANNUAL REPORT 2025 ­ JORDAN
+
+Executive Summary
+
+After the launch of the programme in 2008, factory operations began in 2010. In its fifteen years of
+operation, Better Work Jordan has continued to drive improvements in working conditions and
+industrial relations across Jordan's garment industry. Over this period, the industry's export value
+has more than doubled, reaching US$ 2.4 billion in 2024, and employment has grown to more than
+84,000 workers, with women comprising three-quarters of the workforce. At close, BWJ works with
+97 participating factories, including non-garment factories in the plastics, chemical, and engineering
+sectors, reaching 26 global brands and retailers.
+
+Considerable progress has been made in key areas of compliance. Forced labour practices, once
+widespread in the sector, have been largely eradicated. Unified contracts are now applied sector-
+wide, and all factories adhere to the sector-specific minimum wage. Recruitment practices have also
+improved, with reduced pregnancy testing and lower incidence of recruitment fees for migrant
+workers. BWJ has also advanced efforts to reduce workplace discrimination, address sexual
+harassment, foster a more supportive environment for female workers, including working mothers,
+and promote women's leadership.
+
+Building on this foundation, BWJ has increasingly moved beyond the factory level interventions to
+address systemic challenges shaping working conditions across the sector. Guided by its Phase IV
+strategy, the programme increasingly focused on working closely with national stakeholders to
+strengthen institutional frameworks for decent work. By building the capacity of national
+constituents and supporting them to take greater ownership, BWJ aims for long-lasting
+improvements and more resilient, rights-based employment practices across the sector.
+
+In 2024, this long arc of progress was tested by a combination of operational, geopolitical, and
+reputational challenges. The ongoing conflict in Gaza and disruptions in Red Sea shipping routes
+placed significant pressure on supply chains and impacted production timelines across Jordan's
+export sectors. While the local garment industry demonstrated resilience, recording a 24 per cent
+increase in export value, these gains were accompanied by rising scrutiny. High-profile cases
+involving illegal retention of workers' documents and tragic suicides triggered public concern,
+particularly around the treatment of migrant workers. BWJ's factory assessments also revealed a
+concerning increase in Zero Tolerance Protocol (ZTP) violations, including forced labour, sexual
+harassment, and unlawful termination, pointed to risks in grievance handling, investigation, and law
+enforcement.
+
+The year also brought significant policy developments. A revised national minimum wage of
+Jordanian Dinar (JD) 290 was introduced in 2024; however, the garment sector was excluded from
+this decision, prompting negotiations of a new sectoral Collective Bargaining Agreement (CBA). The
+7  ANNUAL REPORT 2025 ­ JORDAN
+
+new CBA set the minimum wage for all workers at the garment sector to be JD 230, updated transport
+allowances and several other clauses. However, the negotiation process did not fully adhere to the
+principles of social dialogue or negotiating with workers' representatives in different factories and
+geographical areas, raising concerns about transparency and workers' representation.
+
+BWJ's assessments in 2024 captured both the scope of progress and the fragility of certain gains.
+Reports of forced labour increased, particularly concerning the confiscation of personal documents
+and bonded labour. CBA implementation remained inconsistent, with widespread factory-level non-
+compliance, particularly on overtime, mental health provisions, and health clinic requirements.
+Improvement in recruitment practices slowed under stricter assessment criteria, which flagged
+continued third-party involvement in problematic practices, even where factories were not directly
+engaged in violations. While non-compliance rose compared to 2023, rates remain well below pre-
+2021 levels. Sexual harassment and verbal abuse remained persistent concerns, with multiple cases
+identified in different factories. Excessive working hours also continued to be a challenge, particularly
+during peak production periods.
+
+In 2024, Better Work Jordan intensified its efforts to promote well-being in the workplace. The Mental
+Health Project expanded to 48 factories across all major industrial zones, covering 78 per cent of the
+garment workforce. The third edition of BWJ's Mental Health and Well-being Policy was launched,
+which catalysed a renewed factory-level commitment, and BWJ continued to support implementation
+through monthly follow-up visits. The importance of this work was highlighted by a rise in critical
+incidents, which brought additional international attention to mental health challenges in the sector.
+In response, BWJ engaged factory management in targeted discussion and conveyed a dedicated
+seminar with senior stakeholders to explore a collaborative approach to suicide prevention.
+
+Beyond mental health, BWJ delivered trainings on other pressing priorities. To strengthen grievance
+redress, the programme delivered a dedicated training for factory HR and compliance officers on
+implementing the sector's grievance Standard Operating Procedures (SOPs) in daily operations. To
+facilitate more transparent recruitment and smoother onboarding ­ especially for migrant workers
+­ BWJ launched a multilingual induction package, offering practical information on life and work in
+Jordan, including rights, responsibilities, and available support systems. In parallel, the programme
+rolled out its digital training modules on topics such as sexual harassment prevention and
+supervisory skills, which were delivered via WhatsApp and adapted to multiple languages, enabling
+broader, more flexible access to learning. The Factory Ambassador Programme (FAP) also continued
+to grow, reaching 41 factories and 83 per cent of the sector's workforce, and remains a key tool for
+fostering shared ownership of compliance.
+
+BWJ further advanced the implementation of its Phase IV strategy through stronger institutional
+engagement. At the national level, the programme supported the MoL, employer organizations, and
+8  ANNUAL REPORT 2025 ­ JORDAN
+
+the trade union through targeted training, on-the-job coaching, and capacity building. Throughout
+2024, labour inspectors independently conducted almost half of factory assessments. BWJ also
+supported the development of the first-ever business plan for Jordan Garment, Accessories & Textiles
+Exporters' Association (J-GATE), and helped the union to expand its field presence by training new
+representatives to strengthen worker engagement and increase factory-level visibility.
+
+A major priority in 2024 was fostering stronger sectoral collaboration. BWJ supported the formation
+of a tripartite-technical committee to draw lessons on recent factory closures and develop preventive
+measures. To assist the committee, BWJ also appointed a legal advisor to prepare a legal study on
+existing cases and endorsed the development of an early warning system to help prevent future
+disruptions and protect workers' rights. Serious labour rights violations were identified in several
+small-sized factories operating in Aqaba ­ including forced labour, excessive recruitment fees, weak
+collective bargaining, and high worker turnover driven by low wages ­ which spurred coordinated
+action. At BWJ's 53rd Project Advisory Committee (PAC) meeting, the union committed to a structured
+workplan to raise worker awareness, improve access to grievance mechanisms, and ensure
+interpretation support for migrant workers. BWJ also organized a legal awareness session for local
+stakeholders, highlighting the importance of regulatory compliance and protections for workers. At
+the global level, BWJ deepened its coordination with international buyers through regular strategy
+calls to align responses to sector-wide risks and foster constructive dialogue.
+
+Finally, Better Work Jordan expanded its research and analytical capacity to better target persistent
+issues. Using advanced statistical methods, the programme integrated its survey and assessment
+data to identify underlying drivers of issues such as verbal abuse, sexual harassment, long working
+hours, mental health risks, grievance obstacles, and social dialogue challenges. These analytical
+advances revealed important links between workplace well-being and factors such as grievance
+system effectiveness, trust in management, and gender-based inequality, allowing BWJ to move
+beyond surface-level symptoms to tackle root causes more effectively.
+
+Looking Ahead: Leveraging Evaluation Insights for
+Future Impact
+
+As BWJ pauses its operations in the context of recent funding cuts, a comprehensive evaluation is
+being conducted to assess the effectiveness, relevance, and impact of its interventions. The findings
+from this evaluation will provide valuable insights into the programme's successes and areas for
+improvement, offering guidance for future planning of similar initiatives and projects. These insights
+will help inform strategies for addressing sectoral challenges, optimizing resource allocation, and
+strengthening partnerships, ensuring that future efforts continue to advance labour rights and
+improve working conditions in the garment sector.
+
+The results of this evaluation will be available on the ILO website, offering a resource for stakeholders
+to draw upon in the planning of future activities.
+9  ANNUAL REPORT 2025 ­ JORDAN
+
+   Fifteen Years of Better Work Jordan
+
+   Number of participating factories
+
+                                2009  2025
+
+   20 factories                       97 factories
+
+   Garment export worth               2024
+          2009
+
+   $836 million                       $2.4 billion
+
+   Workers in registered factories
+
+   2009                               2024
+
+   43,000 workers                     84,600 workers
+     56% women                          75% women
+
+   International buyers               2025
+     2009
+
+   10 international buyers            20 international buyers
+10  ANNUAL REPORT 2025 ­ JORDAN
+
+Introduction
+
+Better Work Jordan is a partnership between the ILO and the IFC. The ILO flagship programme brings
+together stakeholders from all levels of the global garment manufacturing industry to improve
+working conditions, enhance respect for labour rights, and boost competitiveness. BWJ was
+established in 2008 at the request of the Government of Jordan and the US government. BWJ
+regularly prepares public reports synthesising industry updates and highlighting non-compliance
+findings and trends to increase transparency and to communicate observations to a wider audience.
+As the garment sector in Jordan has matured, BWJ and its stakeholders have moved beyond
+compliance with existing laws, regulations, and international labour standards to tackle gaps in laws
+and regulations through sectoral policies. This is BWJ's Sixteenth Annual Report.
+
+The report is structured as follows: the Introduction provides an overview of the country context, the
+garment and non-garment sectors covered by BWJ with an emphasis on developments in 2024. The
+Compliance Overview gives an overview of the progress made in addressing compliance gaps over
+BWJ's 15 years of operation, while also identifying persistent challenges in the sector. Its subsequent
+section 2024 in Focus presents key findings and analysis based on non-compliance issues identified
+in 76 factory assessment reports. The section on Better Work Jordan's Responsive Mechanisms outlines
+BWJ's interventions at the factory, national, and global levels, with a focus on activities and priorities
+in 2024. It also details BWJ's collaboration with key stakeholders in the sector and presents the most
+recent research findings. Lastly, the Reflection and Looking Ahead section highlights lessons learned
+over BWJ's fifteen-year journey and outlines priorities for the continued advancement of Jordan's
+garment sector.
+
+Country Context
+
+Jordan is a middle-income country with a population of 11.7million. The economy of Jordan is among
+the smallest in the Middle East, with insufficient supplies of water, oil, and other natural resources.
+The structural limitations contribute to the government's heavy reliance on foreign assistance and
+creates persistent economic vulnerabilities, including a high unemployment rate, budget and trade
+deficits, and rising public debt.
+
+Over the past five years, the country's fragile economic situation has been further strained by a series
+of external shocks, beginning with the onset of the COVID-19 pandemic in 2020. The pandemic
+triggered widespread disruptions to key sectors such as tourism, trade, and manufacturing.
+Restrictions on movement, global supply chain breakdowns, and reduced international demands had
+direct consequences for the garment sector, resulting in suspended production, cancelled orders,
+and economic hardship for both enterprises and workers.
+
+The brief economic recovery that followed was quickly offset by new challenges. The war in Ukraine
+in 2022 caused a spike in global energy and food prices, placing additional pressure on household
+budgets and increasing production costs across industries. More recently, the ongoing conflict in
+11  ANNUAL REPORT 2025 ­ JORDAN
+
+Gaza has had additional ripple effects on regional trade, investor confidence, and consumer
+spending, further clouding the country's economic outlook. Meanwhile, by late 2023 and into 2024,
+instability in the Red Sea had disrupted major international shipping routes, delaying the import of
+raw materials and raising freight costs ­ adding yet another layer of difficulty for Jordan's
+manufacturing and export-oriented sectors, including its garment industry, which depends heavily
+on timely inputs and competitive export logistics.
+
+Despite these ongoing challenges, Jordan's economy has shown signs of resilience. In 2024, the real
+GDP of the country grew by 2.5 per cent, and total exports increased by 3.8 per cent. The leather and
+garment sector played a significant role in this recovery, recording a 24 per cent growth in exports.
+
+Legislative Updates
+
+New Workplace Safety and Health Regulations and Instructions: In 2023, the MoL introduced
+three important regulations aimed at enhancing OSH standards in workplaces. These regulations
+address the prevention of occupational hazards, the provision of preventive and curative medical
+care for workers, and the formation of OSH committees along with the appointments of dedicated
+supervisors at workplace. To facilitate their implementation, the MoL also issued supporting
+instructions on risk assessment, classification of economic activity based on risk levels, and
+identification of workplace hazards alongside the necessary preventive measures. Further guidance
+was published to ensure safe working conditions for pregnant and breastfeeding women, persons
+with disabilities, and night-shift workers.
+
+Although these regulations took effect in 2023, BWJ incorporated them into its assessment tools in
+2024. In the same year, the MoL issued four additional decisions concerning workplace OSH
+practices, including reporting procedures for accidents and occupational diseases, standards for first
+aid and medical units, requirements for institutional OSH policies, and the types of OSH records
+employers must maintain - all of which BWJ used to evaluate factory compliance in 2024. Together,
+these legal developments represent a significant step toward strengthening institutional
+accountability and worker protection across the sector.
+
+Minimum Wage Decision: In December 2024, the Labour Tripartite Committee approved an
+increase in the national minimum wage for private sector workers, raising from JD 260 to 290,
+effective January 2025. However, the garment sector, along with non-Jordanian domestic workers,
+were excluded from the decision. For the garment sector, the Tripartite Labour Affairs Committee
+retained the sectoral minimum wage of 220 JOD, in line with the provisions of the 2023 collective
+bargaining agreement and referred the matter to the sector's social partners to determine wage
+adjustments through subsequent bipartite negotiations. In response, the parties concluded a new
+collective bargaining agreement in early 2025, supplemented by an annex specifying the
+implementation modalities.
+12  ANNUAL REPORT 2025 ­ JORDAN
+
+2025 Collective Bargaining Agreement
+
+The 2025 Collective Bargaining Agreement (CBA) introduces several key amendments to the terms
+established in the 2023 agreement. One of the most significant changes is the adjustment of the
+minimum wage for all workers in the sector. Under the 2025 CBA, the minimum wage for all
+workers is set at JD 230 per month including seniority bonus. For migrant workers, this amount
+is divided into two components: a minimum of JD 130 in cash as take-home wage and JD 100 as
+in-kind (covering accommodation and food). This reflects an overall increase of JD 10 per month
+for both Jordanian and migrant workers.
+
+Importantly, the 2025 CBA was initially concluded without adhering to social dialogue processes
+between employers and workers' organizations. The union signed the agreement without consulting
+with their members, raising concerns about transparency and worker representation. Furthermore,
+the new CBA contained ambiguous terms and clauses that may lead to misinterpretations and
+potential discrimination among workers related to wages. In response, a "clarification" was issued
+as an annex to the agreement.
+
+The annex provides that Jordanian workers, whose current salaries are between JD 230 JD ­ 400, are
+entitled to a JD 10 as seniority bonus to be added to their 2025 wage for one time during the year
+2025. Starting on 1 January 2026, workers who have completed one year of service from their hiring
+date will be entitled to an additional JD 5 wage increase. However, migrant workers earning JD 230
+or more, are excluded from any rise in pay, leading to a wage disparity between migrant and
+Jordanian workers. While Jordanian workers benefited from a wage increase, migrant workers
+remain at the same wage level, raising concerns about wage discrimination.
+
+The 2025 agreement further includes provisions to support women's participation in the sector.
+Employers must now comply with existing regulations related to institutional nursery alternatives.
+This follows the 2023 guidelines, but it is now explicitly incorporated into the CBA.
+
+Changes to occupational safety and health requirements are also featured in the new CBA, where
+employers are mandated to provide a medical unit in accordance with the Labour Law, replacing the
+health clinics stipulation in the 2023 agreement. This revision may impact the scope and quality of
+healthcare services available to workers.
+
+Finally, the 2025 CBA increases the transportation allowance for Jordanian workers from JD 15 to JD
+25 per month, but only when employers are unable to provide safe transportation. While this reflects
+a change in the transportation policy, it may still leave gaps for workers in certain areas.
+
+Industry Updates
+
+The Jordanian economy benefits from several free trade agreements. The most important agreement
+for the garment sector is the US-Jordan Free Trade Agreement (USJFTA) which was signed in 2000
+and went into full effect in 2010. The USJFTA allows Jordan to gain preferential duty and quota-free
+13  ANNUAL REPORT 2025 ­ JORDAN
+
+access to the US market. The Jordanian garment industry has been one of the primary beneficiaries
+of this agreement.
+
+BWJ primarily worked with the exporting garment industry in Jordan. While the following sections
+focus on the exporting garment industry, it is useful to contrast this sector with two other groups.
+First, there are many small and medium enterprises (SMEs) that produce garments but do not export
+their products and are, therefore, not part of the Better Work programme. While there are many of
+these factories, they are relatively small and employ around five per cent of the garment sector
+workforce. Second, BWJ has expanded its services to non-garment factories that export to the EU
+under the relaxed rules of origin.
+
+Garment Industry
+
+The garment industry in Jordan is primarily driven by large exporting factories that export to the US
+under the USJFTA. By the time of reporting, the exporting garment employed some 84,100 workers.
+Migrant workers accounted for three-quarters of the workforce, most of whom are from South Asia
+and typically work in Jordan on two- to three-year contracts, often with the option for renewal. Over
+half of all migrant workers are from Bangladesh, followed by those from India, Sri Lanka, Nepal, and
+Myanmar. The sector also employs around 450 Syrian workers. Jordanian workers make up the
+remaining 25 per cent of the workforce. The majority of workers are women ­ more than 75 per cent
+of the production workforce ­ while men continue to dominate management roles.
+
+The sector has weathered multiple shocks in recent years. Following a 15 per cent drop in exports in
+2020 due to the impact of the pandemic, the industry began a modest recovery in 2021, followed by
+a strong rebound in 2022. This momentum was interrupted in 2023, driven primarily by weak global
+demand and the outbreak of the Gaza conflict, leading to a 12 per cent decline in exports.
+Nonetheless, the sector showed its ability to recover. In 2024, exports surged by 24 per cent, reaching
+a record high of US$2.4 billion, as shown in Figure 1 below. While these fluctuations highlight the
+sector's vulnerability to external shocks, it also reflects its ability to rebound quickly. Despite the
+recent growth, the garment industry's share of total national exports has declined ­ from 28 per cent
+in 2019, to 20 per cent in 2024. The US continues to be a major export market for Jordan, with 21 per
+cent of all exports going to the US, although this has also dropped in recent years.
+14                ANNUAL REPORT 2025 ­ JORDAN
+
+Figure 1: Jordan garment exports
+
+                  3,000
+
+    USD, million  2,500                                             2,414
+                  2,000
+                                                      2,202
+
+                         1,975                               1,939
+
+                                               1,811
+
+                                  1,671
+
+                  1,500
+
+                  1,000
+
+                         2019     2020         2021   2022   2023   2024
+
+Source: Department of Statistics, Government of Jordan
+
+Alongside its economic contributions, the sector continues to face challenges related to working
+conditions and labour rights. A particularly high-profile case that surfaced in late 2023 drew national
+and international attention, with media reports and video footage alleging illegal retention of
+workers. The incident raised serious concerns globally and cast a spotlight on systemic risks within
+the industry. In early 2024, further unsettling developments emerged, following reports of worker
+abuse and suicides. These events have underscored the vulnerability of migrant workers and posed
+significant reputational risks for the sector. At the same time, BWJ documented 14 zero-tolerance
+labour violations throughout 2024, up from three cases in 2023. These included incidents
+reported to the MoL under the mutual MoU, particularly concerning forced labour, sexual
+harassment and verbal abuse, and unlawful termination. The cases were identified during factory
+assessment visits and through the BWJ team, who engaged with migrant workers after working
+hours. Together, these issues point to the urgent need for more effective labour inspections,
+stronger enforcement of labour laws, improved grievance mechanisms that are accessible to all
+workers, and more robust protection systems that ensure both worker safety and accountability
+across the sector.
+
+In response, the ILO dispatched a senior official to lead a comprehensive internal assessment. The
+mission sought to develop a sustainability roadmap that addresses challenges at the factory,
+sectoral, and national levels. As part of the mission, the ILO consulted a broad range of stakeholders,
+including the Ministry of Labour, Ministry of Industry, Trade and Supply, Ministry of Investment,
+Ministry of Interior, the General Federation of Jordanian Trade Unions (GFJTU), the General Trade
+Union for Workers in Textile, Garment and Clothing Industries (JTGCU, or the union), the National
+Centre for Human Rights, and civil society organizations, such as Tamkeen. These discussions
+focused on identifying the root causes of sectoral issues and gathering recommendations for
+constructive changes. Box 1 highlights the key findings and recommendations from the assessment.
+15  ANNUAL REPORT 2025 ­ JORDAN
+
+Box 1. Realizing the Economic Modernization Vision in Jordan's ready-made garment
+sector
+
+The ready-made garment (RMG) sector in Jordan is central to the country's export economy and employment
+strategy under the Economic Modernization Vision (EMV). While the sector holds potential for expansion and
+transformation, it continues to face structural and institutional challenges that must be addressed to ensure
+inclusive, sustainable growth. The ILO identifies several key problem areas and proposes recommendations
+and interventions, including:
+
+Industrial Development: Establish a high-level inter-agency task force to lead EMV implementation, with
+clearly defined roles and communication channels. Incorporate labour compliance into national strategies.
+Promote diversification by aligning production with EU sustainability standards.
+
+Employment: Phase out the sector-specific minimum wage and and improve working conditions.
+Strengthen the vocational training systems and incentivize private providers to deliver tailored, accessible
+training. Expand access to childcare and transport, and launch targeted campaigns to promote garment
+sector jobs to Jordanians.
+
+Labour Inspection Services: Improve coordination, establish clear inspection protocols, and conduct
+regular training for inspectors. Strengthen response mechanisms to violations and ensure transparent
+communication with the employers, workers, and other stakeholders.
+
+Dispute Prevention and Resolution System: Institutionalize fair, accessible grievance mechanisms at the
+factory level through the CBA. Enhance the Hemayeh platform's accessibility and establish protections for
+workers who file complaints. Formalize the Workers Centre's role in dispute resolution.
+
+Migrant Worker Mobility: Amend the CBA and relevant policies to allow migrant workers to change
+employers and leave Jordan with full dues if obligations are met, reducing dependency and improving
+protection.
+
+Collective Bargaining Agreement: Improve migrant worker representation in CBA negotiations. Revise the
+CBA to support fair wages, clear employer obligations, and migrant worker mobility. Use the CBA as a
+mechanism to formalize key compliance and mobility provisions.
+
+Better Work Jordan and Workers Centre: Align BWJ's Phase IV strategy with EMV priorities and expand
+support for factory-level due diligence. Clarify and strengthen the Workers Centre's role in grievance
+handling and develop a sustainable model for its expansion and long-term funding.
+
+Mental Health: Integrate mental health services into national plans and introduce health access points in
+industrial zones. Expand awareness and training for both workers and supervisors, and establish clear
+referral systems for support and crisis response.
+
+Transparency: Develop and implement a transparency and communications plan to clearly convey sector
+priorities, timelines, and responsibilities to all stakeholders, including buyers, workers, employers, and
+government entities.
+
+Source: ILO Report: Economic Modernization Vision: Ready-made garment sector goals- The promise of change.
+Unpublished.
+16  ANNUAL REPORT 2025 ­ JORDAN
+
+Non-garment Industry
+
+Better Work Jordan expanded to several non-garment sectors ­ chemical, engineering, and plastic ­
+in 2018 to monitor working conditions in factories exporting to the EU under the relaxed Rules of
+Origin (RoO). Better Work Jordan collaborated with the MoL, the Ministry of Industry, Trade and
+Supply (MoITS) and the EU delegation to Jordan to develop inspection instructions to help Jordanian
+companies exporting under this scheme abide by the country's labour laws and meet international
+labour standards. The programme delivers advisory and assessment services to these sectors
+through a collaborative inspection committee alongside the MoL.
+
+By the time of reporting, 24 factories are registered with Better Work Jordan under the RoO scheme,
+with 12 of them are non-garment factories. In 2024, five non-garment factories were assessed by
+BWJ. These factories ranged in size from 45 to 140 workers and employ a total of 420 workers, of
+whom 130 are Syrians. Unlike in garment factories, most workers in non-garment factories are men
+(84 per cent). Jordanians make up the majority of the workforce, with Syrian workers at 31 per cent
+of the workforce.
+
+The assessment found that the main areas of non-compliance in these non-garment factories fall
+under the OSH cluster, mostly related to chemicals and hazardous substances management,
+emergency preparedness, and health services and first aids. While early evidence suggests that
+participation in the programme can lead to improvements in compliance, such progress largely relies
+on the willingness of factory management to implement changes and engage constructively with
+workers. In the garment sector, factory managers are often motivated to improve working conditions
+due in part to pressure from international buyers. However, this incentive is largely absent in non-
+garment factories, where few international buys are sourcing. Consequently, there has been slow
+progress in closing compliance gaps.
+
+Promoting Well-being and Inclusion
+
+Mental Health Programme
+
+In 2024, BWJ continued to expand the reach and impact of its Mental Health Project. The project
+extended its coverage to include factories in Aqaba industrial zone, increasing its footprint to 14
+factories across four major industrial zones in the country. At the time of reporting, the mental health
+project covered 48 factories employing approximately 61,000 workers with diverse nationalities and
+backgrounds, representing 78 per cent of the total workforce in Jordan's garment industry.
+
+As part of its efforts, BWJ launched the third edition of its Mental Health and Well-being Policy at an
+industrial seminar held in April 2024. This policy serves as a practical guide for garment factory
+employers to improve worker well-being and support mental health at the workplace. It outlines the
+needs, multilevel interventions, roles and responsibilities, and implementation guidelines,
+17  ANNUAL REPORT 2025 ­ JORDAN
+
+complemented by annexes that facilitate factory-level adoption. The seminar brought together 49
+participants (38 women) from 26 garment factories--collectively employing approximately 79 per
+cent of the sector's workforce--alongside representatives from the MoL. During the session, factory
+representatives began drafting action plans to roll out the policy in their respective factories. BWJ
+followed up with monthly factory visits to participating factories, offering tailored guidance and
+practical support. The policy aims to contribute to broader programme objectives while promoting a
+sustainable, factory-owned approach to worker well-being that extends beyond the life of the project.
+
+The urgency of BWJ's mental health work was underscored by a rise in critical incidents in the last
+year. Since the beginning of 2024, BWJ documented 13 critical cases in the sector, including two
+suicides and 11 suicide attempts. These cases, which attracted international media attention, led to
+the growing focus on mental health challenges in Jordan's garment sector. In response, with the
+support of BWJ mental health project, several factories took proactive steps by appointing
+psychologists, counsellors, and mental health focal points. While these measures reflect a growing
+awareness, gaps and needs remain severe and more attention need to be given to workers' mental
+health.
+
+As part of its efforts to continuously expand project's outreach, Better Work Jordan has worked to
+strengthen the involvement of key sector stakeholders, with a focus on factory leadership. As part of
+its monthly factory visits, BWJ requested meetings with senior management to ensure that decision-
+makers are directly engaged in shaping mental health strategies. In September, BWJ organized a
+seminar on suicide prevention targeted specifically at major investors and factory senior
+management, highlighting the importance of prioritizing mental health in the workplace and the
+need for collective, sustained efforts to address this issue. For more details about the seminar, see
+Factory Level Interventions.
+
+In parallel, the mental health project also sought to deepen engagement with international actors to
+strengthen the sector-wide response. Quarterly meetings with all buyers, alongside targeted
+discussions with brands, were held, focusing on emerging mental health concerns and offered
+recommendations for improving worker well-being. In October, in collaboration with the Fair Labor
+Association (FLA) and Adidas, BWJ delivered two trainings on Effective Internal Monitoring for Labour
+and OSH Compliance -- one for factory personnel and another for labour inspectors. As part of the
+trainings, BWJ led targeted sessions on mental health at work and psychosocial risks management,
+emphasizing the growing relevance of mental health and the importance of integrating it into
+broader compliance frameworks.
+
+Disability Inclusion
+
+In 2024, BWJ strengthened its support of promoting inclusive workplaces, with a focus on persons
+with disabilities and workers facing intersecting forms of discrimination. Key efforts focused on
+institutional engagement and targeted follow-up with factories that had participated in the disability
+inclusion Training of Trainers, delivered in collaboration with the Phenix Center.
+18  ANNUAL REPORT 2025 ­ JORDAN
+
+Participating factories had begun embedding inclusive values into internal systems and taken
+concrete steps to align recruitment, evaluation, and workplace practices with national disability
+inclusion standards. Progress was also evident in human resource policies, including the adoption of
+inclusive job criteria, the integration of reasonable accommodation language into hiring procedures,
+and increased internal awareness on non-discrimination principles. Although full infrastructural
+accessibility remains a long-term goal, several factories initiated upgrades to improve the physical
+work environment to support greater mobility and ease of access for workers with disabilities.
+
+These factory-level outcomes were further supported by the sector's first dedicated assessment on
+the employment of workers with disabilities. Drawing on its findings, the programme developed and
+disseminated practical Guidelines for Employers, offering clear, actionable steps to advance inclusive
+employment in the garment sector.
+19           ANNUAL REPORT 2025 ­ JORDAN
+
+Advancing Compliance in Jordan's Garment Sector
+
+A Retrospective Review of Earlier Years
+
+Over its fifteen years of operation, BWJ has played a vital role in improving working conditions and
+promoting compliance with national labour laws and international labour standards in Jordan's
+garment sector. While significant progress has been made in reducing some of the most critical
+violations, persistent gaps remain in key areas, underscoring the need for continued attention and
+sector-wide collaboration.
+
+Key Achievements in Improving Labour Standards and Working Conditions
+
+Forced labour has been systematically reduced across the sector, particularly regarding
+coercion. Under the Kafala system, it was once common for factories to restrict workers' freedom of
+movement. In 2009, two-third of factories were cited for non-compliance with this. Since the launch
+of BWJ, the programme has consistently worked to address this issue. By the end of Phase I (2008­
+2013), no cases of restricted movement were reported. Nonetheless, coercion has not been entirely
+eliminated. It continues to appear in the form of unlawful confiscation of workers' personal
+documents by some factory management, although such cases remain limited (see Figure 2).
+
+Figure 2. Non-compliance rate on coercion (2009-2024)
+
+    NC rate  80% 73%
+
+             60%                           8%              1%    5%
+                                          2014            2019  2024
+             40%
+                                                Year
+             20%
+
+              0%
+                      2009
+
+                  (Base-line)
+
+                                                Coercion
+
+Significant progress has been made in the area of compensation practice, particularly
+concerning wage information, use and deduction. BWJ's first compliance report found that the
+majority (73 per cent) of assessed factories did not properly inform workers about their wages due
+to complex payroll systems and language barriers. Over time, BWJ supported factories through its
+advisory services to adopt simpler and more transparent wage systems. A significant step was the
+introduction of mandatory payslips under the CBA, requiring employers to provide clear wage
+statements in a language understood by workers. By 2023, non-compliance on wage information,
+20           ANNUAL REPORT 2025 ­ JORDAN
+
+use and deduction had dropped to just 10 per cent. However, this figure rose to 29 per cent in 2024,
+largely due to inappropriate deduction from daycare allowance when working mothers were absent
+(see Figure 3).
+
+Figure 3. Non-compliance rate on wage information, use and deduction (2009-2024)
+
+    NC rate  80% 73%                                                47%
+
+             60%                          39%
+
+             40%                          2014                      2019  29%
+                                                                          2024
+             20%
+                                                Year
+              0%
+                      2009
+
+                  (Base-line)
+
+                               Wage Information, Use and Deduction
+
+Recruitment practices for migrant workers have also improved, particularly regarding
+pregnancy testing and recruitment fees. Following stakeholder discussions at the 2016 Buyers'
+Forum and the PAC meeting in April 2018, stronger accountability measures were introduced. In
+2019, BWJ began citing factories as non-compliant if newly recruited workers had undergone
+pregnancy testing or paid recruitment fees, regardless of factory policy. This led to a spike in non-
+compliance findings, with 51 per cent of factories cited non-compliance for pregnancy testing and 25
+per cent for recruitment fees.
+
+In response, stakeholders collaborated to address the issue. At the sectoral level, J-GATE formally
+requested the Bangladesh Embassy and Bangladesh Overseas Employment and Services Limited
+(BOESL) to end these practices. At the factory level, many employers revised contracts with
+recruitment agencies to explicitly prohibit pregnancy testing and fee charging. As a result, non-
+compliance dropped significantly: by 2024, 18 per cent of factories were cited for non-compliance
+with pregnancy testing, while just 11 per cent were cited for recruitment fees (see Figure 4).
+21                ANNUAL REPORT 2025 ­ JORDAN
+
+Figure 4. Non-compliance rate on recruitment practices (2012-2024)
+
+             0.6                                      51%
+
+    NC rate  0.4          47%
+
+                     36%                                                14%  18%
+             0.2
+                                                      25%
+
+             0                                                          10%  11%
+
+                  2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+
+                                                Year
+
+                               Pregnancy tests        Recruitment fees
+
+Persistent Gaps Requiring Continued Attention and Actions
+
+Occupational Safety and Health (OSH) compliance has remained the largest cluster of
+compliance gaps since the inception of BWJ in 2009, with workers accommodation consistently
+ranking among the highest areas of non-compliance. In 2009, 87 per cent of factories failed to
+meet accommodation standards, often due to inadequate space, ventilation, privacy, and sanitation.
+By 2019, driven by reputational pressures and increased engagement from BWJ and brand partners,
+some employers had made concerted efforts to upgrade accommodation facilities, leading to a
+decline in non-compliance from 87 per cent to 70 per cent. Nevertheless, key issues such as
+overcrowding, poor sanitation, and limited emergency preparedness remained prevalent.
+
+In 2024, the overall non-compliance on worker accommodation stood at 66 per cent (see Figure 5).
+While notable progress has been made in addressing space-related issues, with only 13 per cent of
+factories falling short of minimum space standards, sanitation is still a critical issue, with 37 per cent
+of factories failing to meet basic hygiene requirements.
+22           ANNUAL REPORT 2025 ­ JORDAN
+
+Figure 5. Non-compliance rate on workers accommodation (2009-2024)
+
+    NC rate  100% 87%                     80%
+              80%
+                                                       70%          66%
+              60%                                                   2024
+                                 2014                  2019
+              40%
+                                               Year
+              20%
+
+                0%
+                        2009
+
+                    (Base-line)
+
+                                 Worker Accommodation
+
+Long working hours is another persistent issue in the sector. The non-compliance figures for
+working hours were not dramatically high in the past, primarily due to gaps in the national law.
+Historically, Jordanian law imposed no clear limits on daily or weekly overtime, allowing excessive
+hours if workers gave consent. As a result, excessive working hours were common and often
+normalized, with high daily production targets and pressure on workers to meet them. Additionally,
+many migrant workers prefer to work longer hours due to the strong link between their earnings
+and hours worked. i , ii Data gathered through assessments show that while Jordanian workers
+average fewer than 42 hours per week, migrant workers average over 58 hours.iii
+
+The 2022 CBA introduced a cap on maximum working hours at four hours of overtime per day. This
+equates to 12 hours per day and 72 hours per week over a six-day work week. BWJ began monitoring
+compliance with this provision in 2023, when 27 per cent of factories were non-compliant. Notably,
+this was during a year of relatively low order volumes due to external factors. By 2024, as demand
+rebounded, the non-compliance rate for maximum working hours rose significantly to 53 per cent
+(see Figure 6).
+23           ANNUAL REPORT 2025 ­ JORDAN
+
+Figure 6. Non-compliance rate on working time (2009-2024)
+
+    NC rate  0.6                                                                 53%
+                     40%
+                             34%
+             0.4
+                                                                            27%  16%
+             0.2
+                             2014                                      5%        2023 2024
+               0                                                      2019
+                    2009                                   Regular Hours
+
+                (Base-line)
+
+                                          Year
+
+                             Maximum overtime
+
+Garment workers in Jordan continue to face violence and harassment in the workplace, with
+verbal abuse being one of the most widespread and persistent issues on production floors.
+High production pressure and tight deadlines often lead to shouting, public scolding, and demeaning
+language from supervisors, particularly when workers fall short of targets or make mistakes. The
+initial BWJ assessments in earlier years showed 33 per cent of factories engaged in such practices.
+While the issue appeared to decline over time, in 2024, non-compliance in this area resurged, with
+47 per cent of factories found to have ongoing verbal abuse (see Figure 7). Workers also shared their
+hesitancy to file complaints, citing fear of retaliation and a lack of trust in available reporting channels
+especially within the factory.
+
+Sexual harassment is a significant concern, though it is harder to identify and report through
+assessment visits. Cultural and educational differences can shape how workers perceive such
+behaviour and influence their willingness to report it. While only two cases were formally
+documented through compliance assessments over the years, BWJ became aware of three more
+incidents in 2024 alone, through alternative reporting channels. Acknowledging the limitation of
+standard assessments in uncovering these issues, BWJ also relies on annual surveys of workers,
+supervisors, and managers as a key tool for identifying and triangulating information related to
+sexual harassment. According to these surveys, more than 18 per cent of workers have reported
+concerns about sexual harassment in the workplace over the years. BWJ continues to seek to explore
+different approaches, including efforts to strengthen the grievance channels that allows workers to
+report such incidents safely and confidentially.
+24           ANNUAL REPORT 2025 ­ JORDAN
+
+Figure 7. Non-compliance rate on violence and harassment (2010-2024)
+
+    NC rate  60%
+
+                                                                                             47%
+
+             40%
+                       29%
+
+             20%            *  17%                                 22%
+                                                                   2019
+                      0%       2014                                                   1%       1%
+             0%                                                                        2022  2024
+
+                     2010
+
+                                          Year
+
+                               Bully, harassment, and humiliation  Sexual harassment
+
+*: data unavailable for the 2011 NC rate on bully, harassment and humiliation.
+
+Finally, workers' voice and representation continue to pose significant challenges in the sector.
+Jordan has not ratified ILO Convention No. 87 on Freedom of Association and Protection of the Right
+to Organize, and under the current legal framework, only a single trade union structure is permitted.
+Consequently, all factories assessed by BWJ have consistently been found non-compliant with
+requirement on Freedom of Association.
+
+At the factory level, BWJ has supported the establishment of Union-Labour committees (ULCs) in all
+participating factories. However, not all ULCs are functioning effectively. According to BWJ's annual
+workers survey, approximately 7 per cent of workers have expressed doubts about the effectiveness
+of their ULCs, while another 20 per cent reported being unfamiliar with the committees altogether.
+Additionally, more than a quarter of surveyed workers said they did not feel comfortable
+approaching ULC members or trade union representatives to raise workplace concerns or resolve
+conflicts.
+
+This reluctance was echoed in 2024 factory assessments, where workers ­ particularly those who had
+experienced verbal abuse ­ reported being unwilling to seek help from with ULCs due to fear of
+retaliation. (See Contract and Human Resources for details.) Taken together, these findings highlight
+persistent concerns about the accessibility and effectiveness of current workers' representation
+mechanisms in the sector.
+25  ANNUAL REPORT 2025 ­ JORDAN
+
+2024 in Focus: Compliance Assessment Results and Key
+Findings
+
+The following section presents the key findings from the compliance assessment between January
+2024 and January 20251, shedding light on areas of considerable progress as well as persistent gaps
+that must be addressed to safeguard workers' rights and foster sustainable development in the
+sector.
+
+Figure 8 summarises the percentage of factories found in non-compliance with at least one question
+within each of the 38 compliance points (CPs) under eight clusters for the 76 garment factories
+assessed in 2024. A discussion of these findings and detailed observations for a subset of compliance
+areas follows.
+
+1 All assessments were initially planned for 2024; however, due to delays at four factories, their assessments were postponed to
+January 2025. For consistency, they are referred to as 2024 assessments throughout this report.
+26                                     ANNUAL REPORT 2025 ­ JORDAN
+
+Figure 8. Non-compliance rate by Compliance Point, 2024 assessment cycle
+
+    Discriminatio Child  Labour                                                    Child Labourers      1%
+                                       Documentation and Protection of Young Workers                    1%
+                         n                                                                              0%
+                                                  Hazardous Work and other Worst Forms                  26%
+    Forced                                                                                     Gender   50%
+       Labour                                                                                           0%
+                                                                                     Other Grounds      0%
+Freedom of                                                                         Race and Origin      3%
+   Association and                                               Religion and Political Opinion         5%
+                                                                                    Bonded Labour       0%
+       Collective                                                                                       0%
+          Bargaining                                                                        Coercion    80%
+                                                                  Forced Labour and Overtime            100%
+    Occupational Safety and                                                                             1%
+       Health                                                                         Prison Labour     0%
+                                                                            Collective Bargaining       9%
+                         Compensation                                      Freedom to Associate         12%
+                                                               Interference and Discrimination          42%
+    Contracts and                                                                                       78%
+       Working Human                                                                           Strikes  79%
+                                                                                 Union Operations       46%
+           Time Resources                           Chemicals and Hazardous Substances                  66%
+                                                                      Emergency Preparedness            57%
+                                                                 Health Services and First Aid          34%
+                                                                   OSH Management Systems               8%
+                                                                                  Welfare Facilities    1%
+                                                                        Worker Accommodation            9%
+                                                                                Worker Protection       7%
+                                                                            Working Environment         7%
+                                                                              Method of Payment         29%
+                                                        Minimum Wages/Piece Rate Wages                  14%
+                                                                                  Overtime Wages        51%
+                                                                                                        30%
+                                                                                          Paid Leave    26%
+                                                          Social Security and Other Benefits            9%
+                                                     Wage Information, Use and Deduction                53%
+                                                                                                        16%
+                                                                         Contracting Procedures
+                                                           Dialogue, Discipline and Disputes
+
+                                                                          Employment Contracts
+                                                                                         Termination
+                                                                                                Leave
+                                                                                            Overtime
+
+                                                                                     Regular Hours
+
+                                                                                                        0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+
+                                       Non-compliance rate (n=76)
+
+Child Labour
+
+According to the Jordanian Labour Law, the legal minimum age for employment is 16. Workers under
+18 are considered juveniles and may legally work in factories but only within a limited range of tasks
+and hours. Although not explicitly stated, the law applies to both Jordanian and non-Jordanian
+workers. The recruitment of migrant workers under 18 is treated as human trafficking under the
+rules of the Anti-Trafficking Unit. Additionally, employing children under 16 is a zero-tolerance issue
+27  ANNUAL REPORT 2025 ­ JORDAN
+
+under BWJ's agreement with the Ministry of Labour (MoL), and such cases must be reported for
+follow-up by relevant authorities.
+
+The overall non-compliance rate under child labour has remained relatively stable over the past three
+years ­ around 1 per cent. During the current reporting period, BWJ identified three suspicious
+cases of child labour. Two incidents were found in the same factory, through regular assessment
+visits. Additionally, a separate case of child labour was identified through an advisory visit to another
+factory in 2024. In all these cases, the workers' passports contained falsified dates of birth. Following
+BWJ's Zero-Tolerance Protocol (ZTP), these cases were reported to the MoL.
+
+Discrimination
+
+Freedom from discrimination is a fundamental human right. ILO Discrimination (Employment and
+Occupation) Convention No. 111, 1958 defines discrimination as any distinction, exclusion or
+preference made on the basis of prohibited grounds (i.e., race, colour, sex, religion, political opinion,
+national extraction or social origin), which has the effect of nullifying or impairing equal opportunity
+or treatment in employment and occupation.iv The Convention also allows for countries to identify
+additional grounds for discrimination requiring protection.
+
+Non-compliances under Discrimination rose significantly in 2024. Similar to the previous year,
+these non-compliances are related to the CPs Gender (26 per cent) and Other Grounds (50 per
+cent). The overall non-compliance rates for discrimination based on Gender and Other Grounds have
+risen by some 14 and 34 percentage points from the previous year, respectively.
+
+The primary driver of gender-related non-compliance in 2024 was the practice of conducting
+pregnancy tests on female workers. Fourteen factories (18 per cent) were cited, compared to just
+three in the previous year. All identified cases involved migrant women; no Jordanian workers were
+found to have undergone such tests. In most cases, factories did not mandate the tests and provided
+documentation showing they explicitly instructed recruitment agencies that pregnancy tests were
+not required as a condition of employment. BWJ recorded these cases as non-compliance whenever
+workers were found to have undergone such tests. Despite the increase in 2024 compared to 2023,
+the overall incidence of pregnancy testing remains significantly lower than levels recorded prior to
+2021.
+
+Sexual harassment is a persistent issue in the sector. However, such cases are usually difficult to
+detect and substantiate during the standard two-day assessment visits. In 2024, one factory was
+cited non-compliant for sexual harassment of workers. Additional incidents were brought to
+BWJ's attention outside the regular assessment process ­ through direct reports from workers
+to BWJ or MoL, and during advisory visits conducted by the trade union ­ across three factories.
+As these cases were identified outside the assessment visits, they are not reflected as non-
+compliance findings in the assessment report. In response, BWJ worked with the MoL, the trade
+union, buyers, and the affected workers to seek appropriate remedies. Measures included
+terminating and deporting perpetrators, pursuing legal proceedings resulting in legal action against
+them, supporting victims in resuming work if desired, and imposing sanctions on factories. For more
+information on BWJ's interventions on sexual harassment, see Factory Level Interventions.
+28  ANNUAL REPORT 2025 ­ JORDAN
+
+Under Other Grounds of discrimination, 38 factories (50 per cent) did not comply with legal
+requirements with regards to the hiring of workers with disabilities. It is worth noting that legal
+requirements for the employment of disabled workers are quite stringent in Jordan. While all
+factories cited employed disabled workers, they either did not meet the quota set by the MoL or
+failed to provide the required Ministry of Health (MoH) documentation verifying the workers'
+disability status. In the last year, BWJ has taken steps to go beyond the quota system for persons
+with disabilities to monitor whether they are being effectively included in the sector. For a broader
+discussion of BWJ's work on disability inclusion, see Promoting Well-being and Inclusion.
+
+Forced Labour
+
+Forced labour used to be an endemic problem in the garment industry in Jordan, mainly driven by
+the Kafala system, which ties the migrant workers to their employer with limited opportunities to
+switch employers or leave the country without repercussions. Over the last decade, the sector has
+made substantial progress in reducing both the frequency and severity of such cases.
+
+In the last three years, non-compliance against forced labour had been limited to not more than
+three cases per year. However, in 2024, the programme recorded a rise in forced labour
+incidents, with six cases of non-compliance identified across five BWJ factories involving
+various forms of forced labour. These included two factories with cases of passport confiscation,
+one with bonded labour, one with both passport confiscation and bonded labour, and one additional
+factory with denial of contract termination. All cases were identified as zero-tolerance issues and
+reported to the MoL.
+
+BWJ noticed that half of these forced labour cases occurred in Aqaba region, particularly in some
+smaller factories. Alongside these incidents, the programme saw other labour rights issues in the
+region, such as high recruitment fees, weak collective bargaining, low wages, and high worker
+turnover. These conditions have contributed to instability, with some migrant workers seeking
+informal employment outside the sector.
+
+To address these concerns, the 53rd PAC meeting was held in Aqaba on December 8, 2024, where key
+stakeholders came together to discuss compliance with labour standards, recruitment practices, and
+migrant workers' freedom of movement. The union committed to developing a work plan to raise
+awareness about workers' rights, enhance grievance reporting systems, and improve access to
+effective communication channels, including interpreters to bridge language barriers. BWJ also
+facilitated an awareness-raising session for stakeholders, focusing on the legal and regulatory
+frameworks governing the sector, while emphasizing the need for stronger worker protections and
+improved industry compliance.
+
+Freedom of Association & Collective Bargaining
+
+Jordan has yet to ratify ILO Convention No. 87 on the Freedom of Association and Protection of
+the Right to Organize. The Jordanian Labour Law stipulates a single trade union structure, which
+29  ANNUAL REPORT 2025 ­ JORDAN
+
+restricts workers from forming unions of their choosing, therefore, all factories assessed continue
+to be non-compliant on workers' ability to freely form and join unions.
+
+In 2024, a new area of non-compliance emerged related to the question "Does the employer require
+workers to join a union?" Previously, factories were deemed compliant if workers had signed a union
+membership form along with their unified contract. However, in 2024, BWJ applied a more rigorous
+standard. Under the new approach, factories were found non-compliant if workers did not fully
+understand that they had the choice to either join or not join the union when signing the contract.
+Based on this stricter interpretation, 74 per cent of assessed factories were found non-compliant on
+this issue.
+
+Stakeholders in Jordan have successfully ratified a series of sector-wide CBAs that set industry
+standards relating to wages, working conditions and industrial relations. Factories in this report were
+assessed against the 2022 CBA and 2023 CBA. In the 2024 assessment cycle, 80 per cent of
+factories failed to implement at least one of the provisions of the CBA, up from 71 per cent in
+2023. As in the previous year, the most common areas of non-compliance included exceeding
+maximum overtime hours per day, the absence or inadequate on-site health clinics, and failure to
+meet the CBA provisions related to mental health.
+
+Occupational Safety and Health
+
+Occupational Safety and Health is the largest cluster in BWJ's compliance assessment tool (CAT) and,
+as in previous years, continues to show some of the highest non-compliance rates among factories.
+In 2024, OSH-related assessment questions in the CAT were revised to align with the international
+labour standard (ILO Convention 155) and incorporate regulatory updates introduced since 2023.
+These revisions were primarily reflected in the areas of OSH Management System, Health Services and
+First Aids, Workers Accommodation, and Workers Protection, and have contributed to increased non-
+compliance rates in affected categories. Figure 9 presents the eight compliance points ranked by the
+highest rates of non-compliance.
+30  ANNUAL REPORT 2025 ­ JORDAN
+
+Figure 9. OSH non-compliance rates by compliance point
+
+                  OSH Management Systems                                                               79%
+                 Health Services and First Aid                                                        78%
+                                                                                            66%
+                       Worker Accommodation                                         57%
+                               Worker Protection                           46%
+                                 Welfare Facilities                     42%
+                                                                  34%
+                     Emergency Preparedness
+                           Working Environment              12%   40%  60%     80%                          100%
+                                                             20%
+    Chemicals and Hazardous Substances
+                                                        0%
+
+Worker accommodation is a critical OSH component, as factories are required to provide housing for
+all migrant workers. The quality and safety of these accommodations, mostly dormitories, form a
+large part of the experiences of migrant workers in Jordan. In 2024, 66 per cent of factories were
+cited for non-compliance with OSH standards in worker accommodation. However, the nature of
+these violations has shifted over the past three years (see Table 1). The most common issue remains
+cleanliness, with 37 per cent of factories non-compliant, although this marks some improvement
+since 2022. Conditions related to the overall living environment--such as exposure to heat, cold, and
+dampness--also showed progress, with the non-compliance rate dropping to 20 per cent, down from
+around 40 per cent in the past three years. In contrast, violations related to cooking facilities
+increased, with 36 per cent of factories failing to provide adequate cooking spaces. As a result,
+workers were forced to cook inside their rooms, which can lead to insects and animals in the dorms
+and increased risk of fire. It is worth noting that the widespread practice of cooking in rooms is also
+linked to worker dissatisfaction with the food provided by factories. Emergency preparedness was
+another concern, with 26 per cent of factories cited for inadequate measures, placing workers at
+considerable risk in case of emergency.
+
+Table 1. In Focus: OSH requirements in Accommodations
+
+                                                                            NC Rate by Question
+
+                                                                       2024         2023                          2022
+
+Compliance Question                                                    (n=76)       (n=83)                        (n=86)
+Is the accommodation clean and protected against disease-
+carrying animals or insects?                                           37%                                  48%   52%
+
+Does the accommodation have adequate cooking facilities?               36%                                  12%   9%
+
+Has the employer adequately prepared for emergencies in                26%                                  18%   17%
+the accommodation?
+31  ANNUAL REPORT 2025 ­ JORDAN
+
+                                                           NC Rate by Question
+
+                                                           2024    2023         2022
+
+Compliance Question                                        (n=76)  (n=83)  (n=86)
+Is the accommodation adequately protected against heat,
+cold, dampness and noise, and is it adequately ventilated  20%     37%          42%
+and lit?
+
+Since 2023, BWJ started to track factory compliance with mental health provisions introduced in the
+2022 CBA. The CBA requires employers to adopt the workplace mental health policy, complete with
+SOPs, to ensure the provision of mental health and psychosocial support services at the factory level,
+in line with the Better Work Jordan programme. Employers are also obligated to refer workers to
+specialized psychological healthcare centres in Jordan upon request. Additionally, employers are
+required to provide mental health training to all employees, including factory floor workers, focusing
+on the importance of mental well-being and methods of care. Factories are cited as non-compliant if
+they fail to meet any of these requirements. In 2024, 34 per cent of factories were cited as non-
+compliant for mental health provision, up from 27 per cent in 2023. While most of these factories
+had endorsed a mental health policy, nearly all lacked clear referral procedures and had not provided
+mental health training to workers.
+
+Compensation
+
+Better Work Jordan monitors many aspects of compensation beyond basic wage payments. Workers
+are entitled to several different aspects of compensation per the CBA and their individual contracts,
+including overtime wages, annual leave and sick leave, and in-kind payment for food and
+accommodation in the case of migrant workers. It is also important that workers are paid accurately
+and on time, and that they are properly informed about their wage deductions.
+
+Non-compliance related to compensation remained relatively low. The most common issues were
+related to wage information, use, and deductions and overtime wages, with non-compliance
+rates of 29 per cent and 9 per cent, respectively. Additionally, one factory was found non-
+compliant for failing to pay the minimum wage--a new finding for this year, as no such violations
+had been recorded in the last three years.
+
+Contract and Human Resources
+
+Contracts and Human Resources is one of the key clusters within the Jordanian context, particularly
+because of the majority migrant workforce. Employers must not only have contracts that comply with
+the basic laws, but they must also make a genuine effort to ensure that workers understand their
+contracts. At a bare minimum, this means translating contracts into the appropriate languages for
+workers. In addition, contracting procedures also include how workers are recruited to jobs.
+Moreover, worker-manager dialogue and treatment of workers on the factory floor are integral to
+working conditions. Issues in these areas not only affect workers directly (e.g., self-esteem, value in
+the workplace) but a lack of dialogue between workers and managers can lead to other issues and
+32  ANNUAL REPORT 2025 ­ JORDAN
+
+compliance violations. In contrast, factories with robust dialogue and grievance handling
+mechanisms can proactively address worker concerns and create a better workplace.
+
+Non-compliance under Contracting Procedures in 2024 was mainly attributed to unauthorized
+recruitment fees, with eight factories cited for this issue. Most of these factories were
+subcontracting factories, and Indian workers were by far the most likely to have paid such fees. Over
+the years, BWJ has worked with stakeholders to improve the recruitment practices in the sector,
+including tackling recruitment fees. BWJ implements a zero-recruitment-fee policy, which was
+endorsed by national stakeholders and went into effect on 1 January 2019. Since then, notable
+progress has been made in reducing the incidence of recruitment fee payments, with the non-
+compliance rate in this area falling from 25 per cent in 2019 to 11 per cent in 2024. For more
+information on progress made on unauthorized recruitment fees, see A Retrospective Review of Earlier
+Years.
+
+Verbal abuse, including bullying, harassment, and humiliation, is one consistent issue in the sector.
+In 2024, the non-compliance rate in this area surged, with 47 per cent of factories found non-
+compliant, compared to no more than 19 per cent over the previous three years (see Table 2).
+The increase coincided with targeted efforts to better capture workers' experience: the assessment
+team conducted additional interviews specifically focused on verbal abuse, including off-site
+discussion with workers in the dormitories and nearby communities. This more comprehensive
+approach offered a clearer and more accurate picture of the prevalence of verbal abuse in the sector.
+
+In the factories where non-compliance was found, workers reported practices such as shouting,
+public scolding, inappropriate language, and demeaning comments ­ often occurring when
+production targets were missed, or mistakes were made. Workers also expressed reluctance to
+report these issues to HR, management, or ULC because they were afraid of retaliation. Additionally,
+using more advanced analytical methodologies, BWJ's recent analysis ­ triangulating assessment and
+survey data ­ found that the issue of verbal abuse was correlated with broader decent work deficits,
+suggesting that such mistreatment is often not an isolated issue, but part of a wider environment
+where workers lack a voice and support systems. For more insights on this analysis, see Research for
+Evidence-based Interventions.
+
+Table 2. In Focus: Dialogue, Discipline and Disputes
+
+                                                             NC Rate by Question
+
+                                                             2024    2023         2022
+
+Compliance Question                                          (n=76)  (n=83)  (n=86)
+Have any workers been bullied, harassed, or subjected to
+humiliating treatment?                                       47%     14%          19%
+If a Union Labour Committee is formed, does the employer
+meet worker representatives on a regular basis?              9%      6%           1%
+Did the employer resolve individual grievances and disputes
+in compliance with legal requirements?                       0%      1%           0%
+33  ANNUAL REPORT 2025 ­ JORDAN
+
+Dialogue is a cornerstone of the ILO's approach to resolving workplace problems. Setting up systems
+for transparent and open dialogue is particularly important in contexts with imbalanced power
+relations between workers and management. As per the CBA, if the union has formed an
+enterprise level ULC, the employer is required to meet regularly with the ULC to discuss
+workplace concerns and deliberate potential solutions. In recent years, BWJ has supported the
+union in establishing ULCs in each factory. While all factories have formed a ULC, 9 per cent failed to
+hold management meetings with the ULCs regularly or failed to present minutes of these meetings
+(see table 2).
+
+BWJ also tracks whether factories have adequate grievance handling mechanisms and dispute
+resolution procedures. Through document review, the assessment team checks if factories have
+procedures for handling worker grievances. In the last three years, BWJ only identified one non-
+compliance case. However, it is important to note that this is a minimum standard. The limited non-
+compliance finding does not necessarily mean that grievance handling procedures are
+functioning effectively. In fact, BWJ's 2024 workers' survey data found that 10 per cent of workers
+were dissatisfied with existing grievance handling mechanisms. Concerns about effectiveness are
+further underscored by workers' fear of retaliation, especially for issues such as sexual harassment.
+Survey results showed that, over the years, more than 20 per cent of workers felt it would be
+extremely risky to file a formal compliant in the case of quid-pro-quo sexual harassment.
+
+Finally, in the area of Termination, 20 per cent of factories were found non-compliant with legal
+requirements in 2024, compared to just 2 per cent over the last three years. The key issues
+included not preparing the termination documentation in workers' native language and providing
+incorrect or missing final financial settlements. In addition, outside the regular assessment process,
+BWJ became aware of one case in which a factory management forced migrant workers to resign
+and repatriated them, even though these workers held valid fixed-term contracts of three years. As
+this case was identified outside the scope of formal assessment visits, it is not reflected as a non-
+compliance finding in this report.
+
+Working Time
+
+Excessive working hours is a significant concern in the sector. While the Jordanian labour law
+does not place limits on daily or weekly overtime, the 2022 sectoral CBA introduced a provision
+capping overtime at four hours per day. This equates to 12 hours per day and 72 hours per week
+over a six-day work week. In 2024, BWJ found 54 per cent of factories failed to comply with the
+limits on overtime hours, a significant increase from 27 per cent in 2023. Data from the latest
+assessment show that workers on average worked 52 hours per week in 2024. Migrant workers
+reported an average of 59 hours, while Jordanian workers averaged 41 hours. This reflects an
+increase in working hours for migrant workers compared to 2023, when they averaged 56 hours per
+week, while the average for Jordanian workers remained relatively stable (see Figure 10).
+34         ANNUAL REPORT 2025 ­ JORDAN
+
+Figure 10: Average weekly hoursHours
+
+               70
+               65
+               60
+               55
+               50
+               45
+               40
+               35
+               30
+
+           2022Q1
+                       2022Q2
+                                   2022Q3
+                                               2022Q4
+                                                           2023Q1
+                                                                       2023Q2
+                                                                                   2023Q3
+                                                                                               2023Q4
+                                                                                                           2024Q1
+                                                                                                                       2024Q2
+                                                                                                                                   2024Q3
+                                                                                                                                               2024Q4
+
+                                        Jordanian  Migrant
+
+Publicly Reported Issues
+
+Greater transparency is expected to increase accountability and consequently, compliance. The
+Better Work Transparency Portal currently posts compliance on selected issues from five countries
+(in addition to Cambodia, which posts compliance information on a separate site). v A factory's
+compliance findings remain on the portal until a new assessment report is published.
+
+Public reporting was introduced in Jordan in July 2017 with support from the Jordanian government
+and the World Bank. The transparency portal currently covers 29 compliance questions across
+different clusters for factories that are in Cycle 2 and above. Of the 76 factories included in this report,
+73 fall into this category and are therefore subject to public reporting. Among these, only 7 per cent
+had no non-compliance findings with publicly reported issues ­ a significant decline from 27 per cent
+in 2023. On average, factories recorded 3.8 violations (see Figure 11). Same as the last year, the most
+common public reporting violation was not fully implementing the collective bargaining agreement.
+35  ANNUAL REPORT 2025 ­ JORDAN
+
+Figure 11: Number of non-compliances on Transparency Portal for 2024 assessments
+
+    Number of factories  20
+
+                         18
+
+                         16
+
+                         14
+
+                         12
+
+                         10
+
+                         8
+
+                         6
+
+                         4                                      Average: 3.8
+
+                         2
+
+                         0
+
+                             0  1  2  3  4  5  6          7  8  9 10 11
+
+                                         Non-compliances
+36  ANNUAL REPORT 2025 ­ JORDAN
+
+Better Work Jordan's Responsive Mechanism
+
+Since its inception, BWJ has worked to enhance decent work, expand opportunities for women, and
+strengthen business competitiveness in the Jordanian garment industry. In 2022, the programme
+entered its fourth phase (2022-2027), making a strategic shift towards sustaining and deepening the
+impact of its earlier achievements. Under the current strategy, BWJ continues to deliver its core in-
+factory services, while strengthening the capacity of tripartite constituents and other key
+stakeholders in Jordan to take a leading role in maintaining and advancing sector-wide progress. In
+2024, the programme also collaborated closely with global partners to help the industry navigate a
+particularly challenging year.
+
+Factory Level Interventions
+
+BWJ offers a comprehensive package of factory-level services that combine assessment and learning
+to to improve working conditions and labour standards in registered factories. Through its
+assessment services, BWJ conducts independent evaluations of factories using a standardized tool
+that measures compliance with national labour laws and international labour standards. These
+assessments help identify areas of risk and guide the development of tailored improvement plans
+for each factory. The learning component supports long-term capacity building through advisory
+visits, where BWJ advisors work with management and workers to implement these plans; industrial
+seminars that bring together stakeholders across the sector to share knowledge, experiences, and
+address common challenges across the sector; and training courses which designed to build practical
+skills and improve workplace relations. Together, these integrated services aim to address the root
+causes of compliance issues, promote sustainable improvements in working conditions, and
+strengthen the overall competitiveness of Jordan's garment industry.
+
+In its current strategic phase, BWJ has shifted focus toward strengthening the ability of tripartite
+constituents to to take greater ownership in promoting decent work and sustaining compliance
+across the sector. As part of this transition, BWJ has been gradually reducing its direct delivery of
+factory-level assessments and advisory services, with national stakeholders increasingly taking on
+these responsibilities. This shift is designed to foster national ownership and long-term institutional
+sustainability in governing labour standards within the garment sector.
+
+Despite this shift, BWJ continues to play a key role in sector-wide learning and capacity building. In
+2024, the programme remains actively engaged in delivering training on supervisory skills, human
+resource management, mental health, and the prevention of sexual harassment, while also
+facilitating regular industrial seminars to address emerging workplace challenges and promote peer
+learning across the sector.
+
+Training and Workshops
+
+In 2024, the programme continued to advocate for improved access to grievance redress
+mechanisms as a foundational element of responsible and rights-based workplaces. Building on the
+development of SOPs for grievance management in the previous year, BWJ worked to sustain their
+visibility and relevance across the sector. In collaboration with the Arab Renaissance for Democracy
+37  ANNUAL REPORT 2025 ­ JORDAN
+
+and Development (ARDD), the programme organized a dedicated training for factory HR and
+compliance officers to introduce the SOPs and offer practical guidance on integrating the SOPs into
+daily operations. The SOPs also featured in stakeholder discussions, including a buyer-led meeting
+with a supplier factory, where the project team emphasized the role of effective grievance systems
+in ethical sourcing and worker protection.
+
+In addition, BWJ introduced a pre-departure and post-arrival induction package in 2024 aimed at
+promoting more transparent recruitment practices and ensuring a smoother onboarding experience
+for newly recruited workers, especially migrants. The package offers comprehensive information to
+help workers prepare for life and work in Jordan's garment sector, while also strengthening their
+awareness of rights vs. responsibilities, available protections, mental health, and access to grievance
+mechanisms once on the job. To ensure accessibility, the materials are available in multiple
+languages, including English, Bangla, Hindi, and Sinhalese.
+
+In response to growing attention on mental health issues in the sector and the urgent need to
+engage senior factory leadership, BWJ organized a seminar on suicide prevention in September
+2024. The session was specifically targeted at major investors and factory senior management. It
+highlighted the importance of prioritizing mental health in the workplace and the need for collective,
+sustained efforts to address this issue. This seminar was the first of its kind elevate mental health as
+a strategic priority at the leadership level. While participants were cautious in making public sector-
+wide commitments, the seminar succeeded in breaking the silence around mental health and suicide
+in the workplace. It sparked meaningful dialogue and led to tangible follow-up at the factory level,
+including the revision of internal procedures, new awareness initiatives, and strengthened
+coordination with mental health focal points. The seminar marked a pivot shift in how mental health
+is perceived and addressed across the sector.
+
+Advancing Training through Digitalization
+
+As part of its ongoing efforts to expand access to learning, BWJ made significant strides in digitalizing
+its training in 2024. A key milestone was the launch of a WhatsApp-based Sexual Harassment
+Prevention (SHP) training platform, specifically tailored to Jordan's garment sector. The interactive
+module was made available in multiple worker languages to ensure broad accessibility. The
+implementation was carried out in partnership with J-GATE and the union, with co-branded outreach
+materials disseminated across factory networks. By the end of 2024, the training had reached
+approximately 4,000 workers, reinforcing core messages of respect, safety, and non-discrimination
+in the workplace.
+
+In parallel, BWJ digitized a complementary SHP module targeting supervisors and middle
+management, aimed at strengthening institutional accountability and equipping factory leadership
+with the tools to prevent and address workplace harassment. Engagement with international buyers
+further amplified the initiative's reach, as brands were encouraged to promote participation across
+their supplier networks ­ underscoring the link between ethical sourcing and safe workplace
+practices.
+38  ANNUAL REPORT 2025 ­ JORDAN
+
+In addition, BWJ continued to invest in workforce development through the digitization of
+supervisory skills training. This training offers factory-based supervisors with flexible environments
+to leaning module to improve supervisor-workers relationship and improve compliance with labour
+standards. By enabling broader and more adaptable access to training, this initiative is expected to
+improve the quality supervisor and more consistent application of fair labour practices.
+
+Together, these digitalization efforts represent a significant step toward more accessible, scalable,
+and sustainable training delivery, in alignment with BWJ's Phase IV strategy.
+
+Factory Ambassador Program
+
+BWJ continues to implement the FAP to develop the capacity of key factory representatives,
+empowering them to take greater ownership of the compliance process. FAP is a long-term
+investment that is delivered in three main phases over a duration of up to 12 months to ensure the
+successful transfer of skills and Better Work tools to potential leaders at factory level. In early 2024,
+BWJ completed the FAP phase one training of the second batch of 19 factory ambassadors, who
+represent 14 factories and workers' trade unions. BWJ completed the second phase of on-the-job
+coaching for the factory ambassadors to apply the learned skills and knowledge to enhance factory
+compliance performance by mid-2024.
+
+Since the initial launch in February 2022, the programme has engaged a total of 41 factories,
+including both direct and indirect exporting factories, which cover approximately 83 per cent of the
+sector's workforce.
+
+National Level Interventions
+
+In line with its Phase IV strategy, BWJ's sustainability plans focus on strengthening the capacity of
+national stakeholders. The strategy emphasizes empowering tripartite constituents to take a leading
+role in sustaining and advancing improvements in working conditions in the garment industry. Each
+stakeholder already holds a key mandate, and BWJ is focused on enhancing the partners' capacity,
+effectiveness, and ownership in fulfilling these responsibilities.
+
+Government
+
+In 2024, BWJ deepened its partnership with the MoL to promote and monitor decent work principles
+across both garment and non-garment sectors. A central focus of this collaboration was
+strengthening the capacity of the Ministry's Better Work Unit within the Inspection Department. With
+funding support from the European Union (EU), BWJ delivered intensive on-the-job coaching and
+targeted training to labour inspectors throughout the year.
+
+Through this initiative, labour inspectors gained practical tools and solid knowledge of international
+labour standards, enabling them to more effectively advise employers on compliance with both
+national legislation and global labour conventions.
+39  ANNUAL REPORT 2025 ­ JORDAN
+
+The capacity-building initiative contributed to meaning, long-term institutional improvement within
+the Ministry. Trained inspectors now demonstrate a deeper understanding of international labour
+standards and are better positioned to advise employers on compliance, fostering more constructive
+and informed engagement between the inspector and factories. Additionally, a total of 14 labour
+inspectors from cities including Amman, Irbid, Zarqa, Karak, Tafileh, and Aqaba participated in the
+on-the-job coaching programme. Among them, five inspectors led factory assessment visits and
+independently produced comprehensive assessment reports, marking a milestone in the
+programme's efforts to institutionalize technical skills within the MoL.
+
+Throughout the year, BWJ and the MoL conducted 76 assessment visits. Of these, 39 were carried out
+by trained labour inspectors independently. In addition, labour inspectors completed 187 advisory
+visits to factories registered with the programme, covering a range of sectors, including garments,
+engineering, plastics, and chemicals.
+
+To further enhance the Ministry's technical and communication capacity, BWJ supported 20
+inspectors to complete specialized OSH training in 2024, earning the internationally recognized
+National Examination Board for Occupational Safety and Health (NEBOSH) certification. This
+investment aimed to boost technical expertise and strengthen engagement with both employers and
+international stakeholders. Meanwhile, advisory led by labour inspectors have increasingly focused
+on OSH topics. Complementing these efforts, BWJ collaborated with international stakeholders to
+deliver trainings to labour inspectors, focusing on international monitoring frameworks and
+compliance strategies for internal OSH and labour practices. For more details on this seminar, see
+Strengthening Global Partnership.
+
+Employers
+
+In 2024, BWJ continued its collaboration with two key employer organizations in the country: the
+Jordan Garment, Accessories & Textiles Exporters' Association (J-GATE) and the Jordan Chamber of
+Industry (JCI). J-GATE is the primary representation of garment-exporting factory employers and
+advocates for policies to improve the economic and business environment of employers in the
+garment industry. JCI, which represents all industrial sectors in Jordan including the garments,
+focuses on delivering technical services to its members. BWJ engages with these two organizations
+to build their capacity and promote decent working conditions at the enterprise level, as well as
+working to improve the sector's competitiveness.
+
+Following in-depth discussions with JCI on ways to strengthen its institutional role, BWJ supported
+efforts to strengthen the Chamber's network capacity and better aligns its activities with Jordan's
+EMV. BWJ also aims to to bolster JCI's ability to support the garment sector by expanding its influence,
+increasing organizational viability, and contributing to the sector's long-term sustainability and
+competitiveness.
+
+BWJ also maintains active collaboration with J-GATE throughout 2024 to support the association's
+growth and development. This collaboration culminated in the finalization of J-GATE's first-ever
+Business Development Plan. This plan outlines key actions to enhance J-GATE's ability to support its
+members, strengthen its marketing efforts, and improve overall business practices.
+40  ANNUAL REPORT 2025 ­ JORDAN
+
+In November 2024, BWJ convened a meeting with J-GATE and TAMKEEN, a civil society organization
+focused on for legal aid and human rights, to address labour standards in subcontracting companies
+within the exporting garment sector. The discussion emphasized the importance of protecting
+workers' rights in subcontracting factories drew on findings from recent research.vi The meeting laid
+the groundwork for a joint initiative that includes the development of a draft set of SOPs for
+subcontracting companies based on current practices observed in factories operating in the sector.
+BWJ reviewed the document and provided technical input to support the next stage of development.
+
+Union
+
+In 2024, the programme expanded its efforts to strengthen worker representation across Jordan's
+garment sector by supporting the recruitment and capacity-building of trade union representatives.
+As part of the collaboration with the JTGCU, four Jordanian representatives were appointed ­ one in
+each of the sector's main industrial zones: Sahab, Dulayl, Aqaba, and the northern satellite units. This
+model aimed to deepen grassroots worker engagement and enhance the union's presence at the
+factory level.
+
+To ensure their preparedness, BWJ launched a structured induction programme for the newly
+appointed representatives in November 2024. The programme included thematic sessions on the
+union's mandate, the sectoral collective bargaining agreement, grievance mechanisms, negotiation
+skills, industrial relations, and the roles and responsibilities of trade union representatives. These
+classroom sessions were complemented by field visits to factories and industrial zones, where
+representatives were introduced to factory management, workplace committees, and local union
+structures.
+
+The initiative emphasized practical learning and accountability. Representatives were supported
+through on-the-job coaching, regular timesheet reporting, and mentorship provided by a designated
+focal point. Post-training assessments indicated a high level of engagement, teamwork, and a shared
+commitment to advancing workers' rights. Many of the representatives brought prior sectoral
+experience to their roles, further enhancing their credibility and ability to connect with workers on
+the ground.
+
+This approach laid the foundation for a more responsive and structured model of representation,
+rooted in continuous engagement and field-level presence. The initiative also underscored the value
+of equipping worker representatives with both the institutional knowledge and soft skills necessary
+to facilitate dialogue, address grievances, and promote inclusive representation in a diverse
+workforce.
+
+Crisis Response and Governance Tools
+
+In response to recent factory closures ­ including the widely publicized Aseel Factory case ­
+supported by BWJ, the garment sector has taken steps to strengthen its institutional oversight and
+crisis management.
+
+A major milestone came in March 2024, when the 52nd PAC meeting of BWJ resulted in the formation
+of a tripartite-technical committee. Comprising representatives from the MoL, JGATE, JCI, the
+41  ANNUAL REPORT 2025 ­ JORDAN
+
+union, and BWJ, the committee was mandated to conduct a comprehensive review of recent factory
+closures. Its aim is to extract key lessons learned, develop actionable recommendations, and help
+prevent future setbacks in the sector. To facilitate this work, BWJ supported the committee in hiring
+a legal consultant to conduct a legal study. The study examines cases of factory failures in Jordan's
+garment sector and explores existing mechanisms for worker protection. It recommends
+establishing an early warning system and using current laws to enhance the protection of workers'
+rights, while encouraging strengthened coordination and legal support to ensure workers receive
+their wages during factory closures.
+
+This initiative represents a significant step forward in strengthening the capacity of social partners
+to respond collectively to complex sectoral challenges. Through active engagement in the
+committee, partners are applying their skills and knowledge to develop practical, forward-looking
+solutions--reflecting BWJ's efforts to empower stakeholders and support a more sustainable and
+accountable garment sector.
+
+Complementing this effort, in September 2024, the tripartite-technical committee met to review
+recent developments and assess current priorities and sectoral risks. During the meeting, the MoL
+introduced a new early warning system to monitor the financial and operational health of factories.
+This system integrates data from multiple government agencies and tracks key indicators such as
+delays in salary payments, social security contributions, and export activity. Initial tests of the system
+have demonstrated its reliability; however, further clarification is needed on how it will be
+operationalized and how identified risks will trigger enforcement actions.
+
+Strengthening Global Partnerships
+
+During a challenging 2024, BWJ and BW Global leadership and buyer relations team had regular
+collaboration calls to discuss sector-wide concerns and severe industry level cases. Those discussions
+helped shape strategic engagement with stakeholders, supported decision-making, and enabled
+reflection on lessons learned. Engagement with global brands was further reinforced through high-
+level buyer visits in Jordan during the year, contributing to continued dialogue on sector priorities
+and challenges.
+
+In October 2024, BWJ and MoL's OSH Directory co-organized a two-day industrial seminar Effective
+Internal Monitoring for Labour and OSH Compliance for Suppliers in collaboration with FLA and Adidas.
+Facilitated by experts from FLA and Adidas, the training is designed to improve compliance and safety
+practices in factory operations, covering key aspects of international labour rights standards and
+OSH, with an emphasis on practical approaches to internal monitoring during factory assessments.
+This course was also delivered to 23 labour inspectors.
+
+Research for Evidence-Based Interventions
+
+BWJ has consistently invested in data collection and research efforts to understand and improve
+working conditions in the local garment sector. Since 2019, BWJ has conducted seven rounds of
+annual surveys with workers, supervisors, and managers in participating factories. These surveys
+complement BWJ's compliance assessment data, enabling a more holistic and triangulated
+understanding of workplace realities.
+42  ANNUAL REPORT 2025 ­ JORDAN
+
+Survey findings have informed programme priorities, enhanced monitoring and evaluation
+frameworks, and contributed to a range of ad hoc studies. Survey summaries are publicly available
+on the BWJ website. Importantly, these surveys have helped uncover sensitive issues that normally
+go underreported during factory assessments. Sexual harassment and verbal abuse, for example,
+are rarely disclosed during compliance visits due to concerns around confidentiality and fear of
+retaliation. To date, only two sexual harassment-related non-compliance cases have been officially
+documented. Acknowledging this limitation, the confidential surveys serve as a critical tool for
+identifying and validating concerns that may otherwise go underreported.
+
+In 2024, the workers, supervisors, and managers' survey findings revealed that 16 per cent of
+workers had concerns about sexual harassment, while another 16 per cent selected "I don't know" or
+"I don't want to answer" ­ responses that may also reflect discomfort or fear of disclosure.
+Additionally, 5 per cent of workers reported experiencing quid-pro-quo sexual harassment. Jordanian
+workers were far more likely to raise concerns about sexual harassment, with 31 per cent doing so,
+compared to just 9 per cent of migrant workers. However, migrant workers reported higher rates of
+quid-pro-quo harassment. These patterns suggest that perceptions of harassment may be shaped
+by cultural and educational backgrounds, which influence both the understanding of the concept
+and the thresholds for reporting. Gender differences were minimal, with 16 per cent of women and
+15 per cent of men expressing concerns.
+
+Verbal abuse emerged as another prominent concern in 2024, with 30 per cent of workers reporting
+related issues. Jordanian workers consistently reported higher rates: over half reported verbal abuse,
+compared to fewer than one-quarter of migrant workers. This discrepancy may reflect both fear of
+retaliation and cultural differences in how verbal abuse is perceived. For instance, migrant workers
+might have a higher tolerance for such behaviour, while Jordanian workers may be more likely to
+voice concerns.
+
+While BWJ's longstanding investment in survey data has been instrumental in revealing workplace
+issues that are often missed during compliance assessments, these findings have also raised deeper
+questions. Why do certain risks cluster in particular factories or demographic groups? What
+conditions enable abuse to go unreported or unresolved? And which early indicators might signal
+more serious problems ahead? These questions became central to BWJ's work in 2024, when the
+programme formalised a new research agenda to move beyond surface-level monitoring. The
+agenda prioritises six thematic areas ­ Jordanian employment, labour productivity, industrial
+relations, managing retrenchment and insolvency, OSH, verbal abuse and harassment ­ not only for
+their relevance to ongoing challenges in the local sector, but for their potential to shed light on
+systemic drivers of poor working conditions.
+
+This agenda reflects a clear intention to shift from documenting issues to fully leveraging BWJ's rich
+data assets to explore patterns, trends, and potential correlations across variables. The goal is to
+better understand potential root causes of persistent challenges, identify early indicators of risk, and
+formulate sharper, more targeted research questions. In support of this shift, 2024 marked the
+introduction of more advanced analytical methods, laying the groundwork for a new phase of data-
+driven learning and strategic decision-making.
+43  ANNUAL REPORT 2025 ­ JORDAN
+
+Advancing Data Integration and Predictive Analysis
+
+In 2024, BWJ took a step forward in its data analysis capabilities by integrating two of its most critical
+yet previously siloed datasets: factory-level compliance assessment data and survey data collected
+from workers. While these two data sources have long been pillars of BWJ's monitoring and learning
+work, they were traditionally analysed in isolation, limiting the ability to identify underlying patterns
+or correlations that might indicate systemic risks.
+
+For the first time, BWJ merged a cross-section of these datasets for the year 2024, enabling a more
+holistic view of working conditions and laying the groundwork for a predictive, data-driven approach
+to factory oversight. While the panel nature of both datasets was not yet fully leveraged in this initial
+analysis, future rounds will build on this work to exploit the longitudinal potential of the data.
+
+The integrated analysis employed a sequence of complementary quantitative methods: exploratory
+correlation analysis and machine learning algorithms were used for pattern detection, followed by
+multivariate regression models to confirm and interpret key relationships. This multi-step
+methodology allowed the team to go beyond surface-level compliance scores and isolated survey
+indicators, identifying deeper, often hidden, predictors of poor workplace conditions.
+
+By analysing more than 250 variables across both datasets, BWJ aimed to:
+
+     · Improve analytical accuracy by cross-referencing individual-level and factory-level data to
+          generate deeper insights.
+
+     · Uncover structural and relational patterns that influence workers' perceptions and
+          experiences.
+
+     · Identify leading indicators of risk that can inform the design of an early warning system to
+          flag high-risk factories and areas, enabling BWJ to proactively address potential crises before
+          they escalate.
+
+This deeper analysis focused on issues such as verbal abuse, sexual harassment, OSH, working
+hours, stress and mental health, grievance systems, and social dialogue. Preliminary findings
+are summarised below.
+
+Verbal abuse: Concerns about verbal abuse tend to cluster with broader concerns around physical
+safety, financial insecurity, and overwork. This suggests that verbal abuse may be one manifestation
+of a wider set of poor working conditions and possibly a dysfunctional workplace culture. Notably,
+after controlling for other variables in the regression model, Jordanian nationality was no longer a
+significant predictor, implying that nationality-based differences observed in the descriptive statistics
+are likely attributable to demographic or factory-level factors rather than nationality alone.
+
+Sexual harassment: Younger, Jordanian workers were more likely to express concerns about sexual
+harassment. Being a member of an OSH committee was found to be a statistically significant
+predictor of reporting concerns about sexual harassment, possibly reflecting greater awareness or
+willingness to speak up. A strong positive correlation between concerns around verbal abuse and
+sexual harassment suggests overlapping root causes, such as dysfunctional workplace environment.
+Furthermore, the presence of gender pay discrimination, as identified through factory assessments,
+44  ANNUAL REPORT 2025 ­ JORDAN
+
+was also a significant predictor, suggesting that concerns about harassment are prevalent in
+environments where structural indicators of gender inequality (i.e. unequal pay) are present.
+
+OSH: OSH-related concerns were often linked to broader anxieties about workplace mistreatment,
+indicating that workers perceive safety risks as part of a larger set of poor working conditions. Indian
+workers were more likely to report OSH concerns. Interestingly, factories with higher promotion
+rates saw lower levels of OSH-related concerns, pointing to a possible connection between upward
+mobility and perceptions of safety.
+
+Working hours and overtime: Concerns about overtime were more common among men, non-
+Indian workers, and those with higher education, likely reflecting different levels of awareness,
+expectations, or willingness to report. The link with education suggests that more educated workers
+may be better informed about their rights or hold different views on job autonomy. As with other
+indicators, this outcome appears driven more by individual characteristics than by factory-level
+practices, pointing to the need for further qualitative research into gaps in empowerment or access
+to redress.
+
+Fatigue: Concerns about exhaustion from working hours were closely intertwined with economic
+insecurity, unpredictable work schedules, and production pressure. Interestingly, younger workers
+expressed greater concern than older ones, possibly because they are less experienced or productive
+and thus face higher expectations. Employers may also place greater pressure on younger workers,
+viewing them as more resilient or less likely to resist. Overall, exhaustion appears less about long
+hours alone and more about the broader context of job insecurity and performance demands,
+conditions that may be particularly acute for women and younger workers.
+
+Workplace stress: Psychological well-being was strongly correlated with workers' perceptions of
+acceptable stress levels. Women were more likely to suffer from workplace stress, possibly reflecting
+gendered differences in workload, exposure to risk, or access to support. Trust between workers and
+management also emerged as a major determinant of stress level, reinforcing the broader insight
+that workplace culture plays a central role in shaping workers' well-being.
+
+Mental health: Workers' perception of support from supervisors and trust in management were
+predictors of mental health outcomes. These findings highlight the importance of vertical workplace
+relationships in promoting mental well-being. Moreover, the positive association with location in the
+Dulayl industrial zone is notable and may reflect distinct management practices, working conditions,
+or community-level factors in that zone that merit further investigation. Given the attitudinal nature
+of these drivers, additional qualitative research is recommended to better understand how trust and
+support are cultivated in higher-performing factories.
+
+Grievance channels: Perceptions of grievance system effectiveness were shaped by overall well-
+being and the alignment between job expectations and reality. This may reflect an attitudinal
+spillover, where workers' overall satisfaction influences their perceptions of specific workplace
+mechanisms, regardless of their actual performance or accessibility. Notably, union members were
+more likely to express satisfaction with grievance systems, potentially due to greater awareness,
+stronger support networks, or better familiarity with formal procedures.
+45  ANNUAL REPORT 2025 ­ JORDAN
+
+Social dialogue: Workers' perceptions of factory-level social dialogue were strongly associated with
+broader indicators of the quality of industrial relations within the factory. Importantly, these
+perceptions are not mirrored in the objective assessment data, suggesting a potential disconnect
+between factory-level compliance indicators and individual-level experiences. This divergence raises
+important questions about the scale and nature of worker experiences: it is possible that perceptions
+of institutional effectiveness are shaped more by individual interactions and informal processes than
+by formal factory-wide practices as captured in assessments. Further qualitative research is needed
+to explore how trust in factory-level ULC is developed (or undermined) through daily workplace
+dynamics and social networks.
+
+Toward a Proactive, Risk-Based Monitoring Approach
+
+The findings from this integrated analysis mark a major step toward a more strategic use of data in
+improving workplace conditions. By analysing survey and compliance data in combination, the
+programme can identify patterns and correlations that normally remain obscured when the datasets
+are viewed in isolation. This analysis not only revealed how multiple concerns (e.g. verbal abuse,
+harassment, OSH risks) often cluster within the same environments, but it also shed light on key
+determinants of worker wellbeing, such as trust in management and relational dynamics.
+
+Importantly, this approach is not an endpoint, but a starting point. As an exploratory and diagnostic
+exercise, this analysis can serve multiple purposes. For example, it helps identify potential early
+warning signs of poor workplace conditions, laying the groundwork for a more predictive, risk-based
+monitoring system that can flag high-risk factories and environments before problems escalate.
+Second, it helps generate sharper and more targeted research questions, especially around the root
+causes of workers' perceptions, behaviours, and experiences, which could be better unpacked
+through complementary qualitative studies.
+
+In this sense, the analysis opens up new possibilities for both learning and action. It marks a shift
+from retrospective compliance checks to forward-looking risk detection. Importantly, this approach
+aligns well with international human rights due diligence principles, which call for proactive risk
+identification and the meaningful inclusion of workers' voices. If sustained and scaled, this approach
+can help the the wider sector ­ respond more strategically to evolving risks.
+46  ANNUAL REPORT 2025 ­ JORDAN
+
+Annexes
+
+Annex A. Methodology and Data Limitation
+
+This BWJ Annual Report focuses on non-compliance data to summarise working conditions in
+garment factories in the previous year. This report also includes findings and takeaways on the
+working conditions in the Jordanian garment sector that are broader than the non-compliance data
+and include observations from field visits throughout the year, interactions with factories, and
+responses from the BWJ annual worker, supervisor, and manager surveys.
+
+Better Work's enterprise assessment ­ a two-day unannounced onsite visit ­ is a key component of
+the programme's core services. During this assessment, factories are marked as non-compliant if the
+assessment team finds that they do not adhere to specific components of Jordanian national labour
+law or core international labour standards. The compliance data is divided into eight clusters: five
+designated as core labour standards (assessed against international labour standards) and three
+falling under working conditions (assessed according to national law and regulations). vii While
+individual assessment reports allow Better Work, the factory, and buyers to identify and understand
+non-compliance in factories, the annual report presents an opportunity to analyse sectoral trends
+and put them in context.
+
+This report covers assessment findings from 76 factories, which had undergone BWJ's
+assessment between January 2024 and January 2025. All assessments were conducted jointly
+between BWJ, the Ministry of Labour and the Social Security Corporation. BWJ works to
+systematically transfer factory assessment delivery to the Ministry of Labour and the Social Security
+Corporation. Since the end of 2019, all assessments have been conducted with Labour Inspectorate
+presence. Over the past years, labour inspectors have taken an increasingly larger role in
+assessments, with 51 per cent of assessments were carried out solely by labour inspectors in 2024
+(see Figure 12). Meanwhile, BWJ continued to play a key role in quality assurance and quality control.
+In 2024, the programme led all assessments of direct exporting factories to ensure that assessment
+standards were consistently upheld .
+47                       ANNUAL REPORT 2025 ­ JORDAN
+
+Figure 12. Distribution of assessments by assessor type.
+
+                         100%    9%        23%
+                          80%
+                          60%   67%                   38%              46%                     51%
+                          40%
+                          20%   24%        52%
+                            0%  2020                              47%
+
+                                  BWJ led                              54%                     49%
+
+                                           25%        15%              2023                    2024
+                                           2021       2022
+
+                                           Joint assessments with LI   Solo assessments by LI
+
+The factories with assessments in this report fall into three types ­ 38 direct exporters, 14Number of factories
+subcontractors and 23 satellite units. Three factories in the sample completed Cycle 1 of the Better
+Work model and the average was Cycle 9 (see Figure 13). Overall, the compliance data in this report
+covers 76 (of 86) garment factories and 95 per cent of workers currently participating in the
+programme.
+
+Figure 13: Distribution of Factories per Cycle and Type in Annual Report 2025
+
+                  10
+
+                   8
+
+                   6
+
+                   4
+
+                   2
+
+                   0
+                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+                                                                               Assessment cycle
+
+                                                    Direct exporters Subcontractors Satellite units
+
+In addition to the non-compliance data, this report draws on data from the following sources:
+48  ANNUAL REPORT 2025 ­ JORDAN
+
+    · Representative survey of workers in BWJ participating factories in July 2024. This survey
+         aggregates perspectives from over 1,600 workers across 78 factories. The July data collection
+         was the seventh collection using the same survey instrument since 2019.
+
+    · Survey of line supervisors conducted in conjunction with the worker survey. A total of 440
+         supervisors completed the 2023 supervisors' survey.
+
+    · Survey of managers conducted in conjunction with the aforementioned surveys. One
+         manager from each of the 78 factories completed the survey in 2024.
+
+    · Data gathered by advisors over the course of advisory visits. The advisory log has rich
+         information, such as the number of visits and the topics discussed.
+
+    · And finally, team observations from factory visits and conversations with tripartite
+         stakeholders and buyers.
+
+Calculating Non-Compliance: Better Work calculates non-compliance rates for each factory and
+reports them in individual factory reports. The non-compliance rate is reported for each compliance
+point (CP), and a CP is reported as non-compliant if one or more of its questions show evidence of
+non-compliance. In public annual reports, Better Work uses the average compliance rates across all
+participating factories within the reporting period. For instance, an average non-compliance rate of
+100 per cent under a question indicates that all participating factories had violations in that area.
+
+Limitations of Better Work Assessment: Detailed factory assessment reports are based solely on
+what is observed, investigated and analysed during assessment visits. Before the reports become
+official, factories are given five working days to provide feedback and clarifications, which in some
+cases impacts the language in the final report. Certain issues remain difficult to assess and verify
+independently. The low literacy level of a large percentage of workers can affect the integrity of
+documentation related to workers' consent for overtime work, storing personal documents,
+disciplinary procedures, and employment rights. To overcome such limitations, information provided
+by workers and management is crosschecked through representative interview samples and various
+documents maintained at the factory.
+
+Limitations of Better Work Jordan Assessments: In the context of Jordan, limitations in the
+assessment process can also arise when monitoring issues specific to migrant workers. It is beyond
+the scope of the programme to thoroughly investigate contracting procedures in the workers'
+country of origin. Age verification for migrant workers can be challenging as birth dates in national
+passports, the primary document available to verify workers' age, can be falsified with fake birth
+certificates.
+
+Detecting violations of workers' entitlements upon termination of their contract has been difficult,
+especially in cases where no proper documentation is maintained to indicate the amount paid to
+workers. Furthermore, in some cases where the paperwork may show that the worker received all
+their entitlements, whether the worker had actually received the stated amount cannot be verified
+once the worker has left the country. Unlawful terminations are also difficult to justify through
+multiple sources and are usually dependent on cross-checking workers' statements following
+incidents such as work stoppages or strikes. In such cases, the management may maintain
+49  ANNUAL REPORT 2025 ­ JORDAN
+
+paperwork to show that the worker had wilfully resigned or may not maintain any termination-
+related documents at all.
+
+Assessing compliance with FoA in Jordan has been challenging for Better Work Jordan for several
+reasons. The existing Jordanian Labour Law does not adequately protect freedom of association, and
+the single union structure prevents workers from forming a labour union of their choice. Factories
+de facto become non-compliant on questions related to freedom of association. Better Work Jordan
+continues to monitor other aspects of union operations, including union access to factories and
+facilities, anti-union discrimination, compliance with the sector-wide CBA, and strikes at the
+enterprise level. At the same time, the trade union for the Jordanian apparel sector does not fully
+represent the majority migrant workforce. The union also has limited capacity in adequately
+communicating with the migrant workforce due to language barriers.
+
+Limitations of Calculating Non-Compliance: The binary `yes or no' structure of the answers to
+compliance limits the ability of Better Work to numerically present the severity of non-compliance
+and is not conducive to capturing the `levels of non-compliance'. For example, a factory may
+significantly improve in a particular area but may still not qualify as compliant. While an aggregate
+and strict indicator, the non-compliance rate is useful for Better Work to compare data across
+countries and have a general idea of areas of non-compliance in the industry. It is often beyond the
+capacity of such numbers to fully capture the specific issues observed during factory assessments.
+Accordingly, it important to examine the Clusters and CPs in further detail to create a more
+comprehensive understanding of the industry and the overall non-compliance rates, and to
+understand the specific reasons for violations (as presented).
+50        ANNUAL REPORT 2025 ­ JORDAN
+
+Annex B.
+
+Garment factories covered in this report
+
+Al Areen wear Ltd.                                  Haifa Apparel
+Al Hanan for Cloth Mfg. Est.                        Hi-Tech Textile L.L.C ­ Orjan Branch
+AL Masera Textile                                   Hi-Tech Textile L.L.C.
+Al Mohandes Company for Manufacture Ready
+Made Garments                                       Indo Jordan Clothing LLC
+Al Mustamerah for Tex                               International Elegance Garment Mfg. Co. Ltd.
+Ark Garments Manufacturing Industries
+Company LTD                                         Ivory Garments Factory L.L.C.
+Atateks Foreign Trade Ltd.                          Ivory Garments Factory L.L.C. (Satellite)
+                                                    Jerash Garments and Fashions Manufacturing Co. Ltd (Al ­
+Atlanta Garment Mfg. Co. Ltd. (Unit 2) - Satellite  Hasa Unit)
+BIA Textiles                                        Jerash Garments and Fashions Mfg. Co. Ltd (Unit 2)
+Cady Garments Company                               Jerash Garments and Fashions Mfg. Co. Ltd. (Unit 1 & 3)
+Casual Wear Apparel - Satellite (Sama Al Sarhan)    Jerash Garments and Fashions Mfg. Co. Ltd. (Unit 4)
+Casual Wear Apparel L.L.C.                          Kanzen Sewing Industries Company L.L.C
+                                                    MAS AL SAFI Apparel Manufacturing LLC ­ MAS KREEDA Al
+Century Miracle Apparel mfg. Co. Ltd.               Safi Dulayl
+Classic Fashion Apparel Industry Ltd Co -           MAS AL SAFI Apparel Manufacturing LLC ­ MAS KREEDA Al
+Satellite Unit Aljunaid                             Safi Madaba
+Classic Fashion Apparel Industry Ltd Co. -          MAS AL SAFI Apparel Manufacturing LLC ­ MAS KREEDA Al
+Printing                                            Safi Sahab
+Classic Fashion Apparel Industry Ltd Co. -
+Satellite Unit Al Azmaliah                          Mustafa & Kamal Ashraf Trading (Jordan) Garment Ltd.
+Classic Fashion Apparel Industry Ltd Co. -
+Satellite Unit Bussairah                            Needle Craft (Al Mafraq ­ Sarhan)
+Classic Fashion Apparel Industry Ltd Co. (Unit 01)  Needle Craft for Clothing Industry
+Classic Fashion Apparel Industry Ltd Co. (Unit 11)  New Century For The Clothing Industry Co.
+Classic Fashion Apparel Industry Ltd Co. (Unit 12)  Noor Seen Apparel
+Classic Fashion Apparel Industry Ltd Co. (Unit 3 /
+Laundry)                                            Peace Gate Garment
+Classic Fashion Apparel Industry Ltd Co. (Unit 8 )  Pine Tree Co. for textile Mfg. P.S.C (TWJ)
+Classic Fashion Apparel Industry Ltd Co.(Unit 4 /
+Embroidery & Laser Cutting, Sampling Unit & 2)      Premium Clothing Industry LLC
+Classic Fashion Apparel Industry Ltd. Co ­
+Satellite Unit Al Tafilah                           Prestige Apparel Mfg. Ltd. Co.
+Classic Fashion Apparel Industry Ltd. Co. -
+Satellite Unit Ajloun                               Rainbow Textile L.L.C.
+Classic Fashion Apparel Industry Ltd. Co. -
+Satellite Unit Fagua                                Samad Wear Manufacturing Company Ltd
+51  ANNUAL REPORT 2025 ­ JORDAN
+
+Classic Fashion Apparel Industry Ltd. Co. -         Sana Garment Co. (Irbid City)
+Satellite Unit Moab
+Classic Fashion Apparel Industry Ltd. Co. (Unit     Sana Garments Co.
+10)                                                 Saysaban Textile Factory
+Classic Fashion Apparel Industry Ltd. Co. (Unit 2)  Sidney Apparels LLC.
+Classic Fashion Apparel Industry Ltd. Co. (Unit 6)  Southern Garment Mfg. Co. Ltd.
+Classic Fashion Apparel Industry Ltd. Co. (Unit 7)  Straight Line for Apparel Co.
+El Zay Ready Wear Mfg. Co.                          Tusker Apparel Ltd. Co.
+Elegant ProSports Fashion Co., Ltd                  Tusker Apparel Ltd. Co. Satellite (Jerash)
+Fashion Curve Mfg. Apparel Co.                      Tusker Apparel Ltd. Co. Satellite (Rusaifa)
+Fine Apparel Ltd.                                   United Creations L.L.C.
+Friends Apparels L.L.C                              United Creations L.L.C. (Satellite Al Azraq)
+Galaxy Apparel Industry                             Victorious Apparels Mfg. Co. Ltd.
+GIA Apparels Industry
+52  ANNUAL REPORT 2025 ­ JORDAN
+
+Annex C.
+List of participating buyers
+
+Abercrombie & Fitch
+Adidas
+American Eagle Outfitters, Inc.
+
+Ascena Retail Group Inc.
+Columbia Sportswear
+DICK's Sporting Goods Ltd.
+Disney Worldwide Services
+GAP Inc
+G-III Apparel Group
+Gymshark Ltd
+J.Crew
+Knitwell Group (Ascena)
+Li & Fung (Trading) Limited
+New Balance Athletics, Inc.
+Newtimes Development Ltd
+NIKE, Inc
+PVH Corp
+Target Corporation
+Under Armour, Inc.
+
+VF Corporation
+53  ANNUAL REPORT 2025 ­ JORDAN
+
+Endnotes
+
+i Better Work Jordan, "Working Hours and Wages in the Jordanian Garment Sector: Legal Context and Historical
+Trends", October 20222.
+ii Better Work Jordan, "BWJ: Worker, Supervisor and Manager Survey Results," November 2023.
+iii Better Work Jordan assessment data
+iv For more information, see International Labour Standards on equality of opportunity and treatment, ILO.
+v To access the Transparency Portal, visit: https://portal.betterwork.org/transparency/compliance.
+
+vi TAMKEEN, "The Nature of Work in Qualified Industrial Zone Factories Operating under Subcontracting Systems,
+Small Sewing Workshops, and the Rights of Workers", November 2024.
+vii OSH was declared a fundamental principle and right at work in 2022. Starting in 2024, BWJ started to assess OSH
+cluster against the international labour standard (ILO Convention 155).
+

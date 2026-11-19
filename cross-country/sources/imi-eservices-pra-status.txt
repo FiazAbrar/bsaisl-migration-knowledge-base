@@ -1,0 +1,37 @@
+TEXT COPY extracted from raw/imi-eservices-pra-status.html (visible text, scripts removed)
+e-Services
+Home
+Login
+Status Permohonan Pembantu Rumah Asing / Pekerja Asing
+STATUS
+KETERANGAN
+PERMOHONAN DITERIMA
+Permohonan telah diterima.
+BARU
+Permohonan telah diterima dan sedang diproses oleh Jabatan Imigresen Malaysia. Sila kirimkan salinan asal dari dokumen-dokumen sokongan sekiranya belum berbuat demikian.
+LULUS
+Permohonan telah diluluskan oleh Jabatan Imigresen Malaysia dan bersedia untuk Pembayaran dan cetakan Pelekat. Sila buat pemeriksaan FOMEMA sekiranya belum berbuat demikian.
+TOLAK
+Permohonan telah ditolak oleh Jabatan Imigresen Malaysia.
+BATAL
+Permohonan telah dibatalkan oleh Jabatan Imigresen Malaysia.
+BAYAR
+Permohonan telah dibayar dan bersedia untuk Cetakan Pelekat.
+CETAK
+Pelekat telah di cetak dan sedia untuk dipungut.
+TANGGUH
+Permohonan telah ditangguh oleh Jabatan Imigresen Malaysia.
+No Kad Pengenalan Majikan :
+(Contoh Format : 999999-99-9999)
+ATAU
+No Pendaftaran Syarikat :
+Nombor Permohonan :
+MyIMMs - eServices | © Jabatan Imigresen Malaysia        Keperluan Laman Web | Pelayar yang disyorkan : Firefox 30+,Safari 7+, Internet Explorer 11+
+×
+Validation
+Are you sure want to Log Out?
+Yes
+×
+Validation
+Anda pasti untuk Log Keluar?
+Yes

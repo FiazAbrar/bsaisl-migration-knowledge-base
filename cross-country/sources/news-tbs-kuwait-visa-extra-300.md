@@ -1,0 +1,217 @@
+Bangladeshis forced to pay upto \$300 extra for Kuwait work visas
+
+## [Migration](/bangladesh/migration)
+
+**[Kamran Siddiqui](/author/kamran-siddiqui)**
+
+01 March, 2025, 07:15 am
+
+Last modified: 01 March, 2025, 07:22 am
+
+## Related News
+
+- [Kuwaiti ambassador discusses state of Bangladeshi workers with foreign adviser](/bangladesh/kuwaiti-ambassador-discusses-state-bangladeshi-workers-foreign-adviser-1061141)
+- [Bangladesh seeks increased manpower export to Kuwait](/bangladesh/bangladesh-seeks-increased-manpower-export-kuwait-1060001)
+
+# Bangladeshis forced to pay upto \$300 extra for Kuwait work visas
+
+## In 2022, similar accusations arose regarding Saudi work visa processing, which was later stopped by a Saudi crackdown
+
+**[Kamran Siddiqui](/author/kamran-siddiqui)**
+
+01 March, 2025, 07:15 am
+
+Last modified: 01 March, 2025, 07:22 am
+
+Infograph: TBS
+
+***Summary:***
+
+- *Bangladeshis pay Tk30,000 extra for Kuwait work visas due to agency fees*
+- *Migration costs are 5-6 times higher than the government-set Tk1.06 lakh*
+- *Allegedly, \$30-\$37 million was extracted from 134,000 workers since 2018*
+- *Kuwait Embassy-authorized agencies deny overcharging allegations*
+- *Illegal visa trading and intermediaries increase costs and create fraud risks*
+
+------------------------------------------------------------------------
+
+**Bangladeshis have allegedly been paying an average of Tk30,000 extra for Kuwait work visas in recent years due to additional charges imposed by a group of recruiting agencies approved by the Middle Eastern country.**
+
+In addition to this extra charge, other factors, such as illegal visa trading and high airfares, have driven migration costs to five to six times the government-set rate of Tk1.06 lakh, according to sector insiders, affected workers and recruiting agencies.
+
+#### [![The Business Standard Google News](/sites/all/themes/sloth/images/google_news.svg) Keep updated, follow The Business Standard's Google news channel](https://news.google.com/publications/CAAqBwgKMIivlQsw2ZKrAw?ceid=US:en&oc=3)
+
+Insiders and victims claim that agencies authorised by the Kuwait Embassy in Dhaka are charging an additional \$150 to \$300 (Tk17,000 to Tk35,000) for visa processing, despite the official fee of Tk6,270.
+
+A complaint was submitted to the Anti-Corruption Commission on 28 January by Md Saiful Islam Khan, a relative of a Kuwait-bound worker, in this regard.
+
+"My nephew paid around Tk33,000 for visa processing – over five times the fixed cost. Securing jobs in Kuwait from Bangladesh is already costly, and these inflated visa fees add to the burden," Saiful told TBS, adding that a complaint had also been filed with the Chief Adviser's Office.
+
+According to allegations submitted to the Chief Adviser's Office, between 2018 and the present, approximately 134,000 workers have migrated to Kuwait, and an estimated \$30-\$37 million has been extracted from them, with a significant portion allegedly laundered to Kuwait.
+
+Although workers can obtain job demand letters individually or through any agency, they must process their visas through the authorised agencies. Typically, workers pay the total migration cost to an agency or middleman, who then handles all tasks, including visa processing through the authorised agencies. 
+
+An unauthorised recruiting agency owner, who wished to remain anonymous, told TBS, "After the change of government in Bangladesh in August last year, many syndicates dissolved, with their officials going fugitive, but some syndicates have expanded and continue to charge an extra \$300 from Kuwait-bound migrants." 
+
+He claimed that even last year, authorised agencies charged an additional Tk45,000 per visa.
+
+Earlier, similar accusations were raised regarding Saudi work visa processing. A July 2022 report by TBS exposed the issue, and in March 2023, Saudi authorities arrested individuals, including ex-embassy officials, over a Tk154 crore visa scam. 
+
+> "Visa trading" – the illegal practice of intermediaries procuring demand letters from employers and selling them to recruiting agencies in source countries like Bangladesh – remains widespread, forcing job seekers to pay extra for overseas work.
+
+**Authorised agencies deny accusations**
+
+The Kuwait Embassy has authorised at least 10 agencies to process visas for workers traveling to the country. They have denied the accusations.
+
+Speaking to TBS, Kamal Shikder, proprietor of SB International, one of the agencies authorised to process Kuwait employment visas, denied the allegations of extra fees, stating that the destination country decides which agency handles visa processing.
+
+Abdus Salam Aref, proprietor of Modern Overseas, another authorised agency, told TBS that 14-15 agencies are currently allowed to process visas and that various fees, such as manpower immigration card charges, wage earners' fees and service charges, may cause the total cost to exceed the fixed fee. 
+
+He also denied allegations that workers are paying up to Tk8 lakh to migrate to Kuwait, saying, "I have no knowledge of anyone paying that much."
+
+**Kuwait embassy remains silent**
+
+When TBS contacted Javed Karim, public relations officer at the Kuwait Embassy, on 12 December 2024, he provided an email address ([\[email protected\]](/cdn-cgi/l/email-protection#3a714f4d5b534e655f57585e7a435b52555514595557)) for submitting queries. However, despite sending the queries on the same day, there was no response from the embassy as of 28 February 2025.
+
+Javed Karim told TBS that he had forwarded the email to the relevant department. Despite repeated attempts to contact him afterward, he declined to cooperate on the matter.
+
+**Dark side of visa processing**
+
+"Visa trading" – the illegal practice of intermediaries procuring demand letters from employers and selling them to recruiting agencies in source countries like Bangladesh – remains widespread, forcing job seekers to pay extra for overseas work. 
+
+According to recruiters, the additional payment for embassy-issued visas is a new aspect of these illegal deals. Even after paying the extra fees, many workers face difficulties in the visa process.
+
+Alom Bhuiyan, a Bangladeshi migrant who arrived in Kuwait on 23 October last year, faced a problem upon reaching his destination. 
+
+"I came to Kuwait Oil Al Naseef Company, and my medical and all other documents were in order. I arrived through a Bangladeshi agency, but when I arrived, the company's office told me my visa was fake. They said I still owed money for the visa and should ask the broker to pay the remaining amount, or I'd be sent back home," Alom Bhuiyan mentioned in the Facebook group Bangladeshis in Kuwait. 
+
+"I told them I had paid the full amount. After I left, they called me again and said I had to go back home," he added.
+
+Shamim Ahmed Chowdhury Noman, former secretary-general of the Bangladesh Association of International Recruiting Agencies (Baira), told TBS, "Such illegal practices occur in various labour markets. Our foreign ministry should negotiate with the respective countries to ensure that no agency is allowed to charge extra fees."
+
+There is evidence of powerful persons involved in the visa manipulation syndicate. Kuwait has become a hotspot for illegal visa trading, with former Bangladeshi MP Mohammad Shahid Islam, alias Kazi Papul, among those accused of involvement in a related scandal. 
+
+In 2021, Papul, an Awami League MP, and four others were sentenced to four years in prison in Kuwait for bribery. He was accused of bribing Kuwaiti officials with millions of dollars to recruit Bangladeshi workers and secure contracts for his company. 
+
+On 6 June 2020, Kuwait's Criminal Investigation Department arrested Papul and charged him with human trafficking, money laundering and bribing officials. His accomplices allegedly extorted Tk5-7 lakh from each migrant worker by promising high-paying jobs. 
+
+The Criminal Investigation Department in Bangladesh uncovered evidence that Papul, his family and his accomplices laundered Tk38.22 crore from Bangladesh, with the total amount laundered between 2016 and 2020 potentially reaching Tk355 crore.
+
+**Kuwait 6th largest destination for Bangladeshis**
+
+Kuwait is the sixth-largest destination for Bangladeshi workers and the fifth-largest source of remittances, with Bangladeshi workers sending \$1.5 billion last year, according to the Bureau of Manpower, Employment and Training (BMET). 
+
+There are around 400,000 Bangladeshi workers in Kuwait, including approximately 100,000 in the domestic labour sector, based on unofficial estimates. 
+
+A survey conducted between December 2019 and March 2020 revealed that Kuwait-bound Bangladeshi migrants paid, on average, 420.8% more than the government-set migration cost. 
+
+The survey, conducted by Research and Policy Integration for Development and Drishti Research Centre, found that 292 men who migrated to Kuwait between January 2016 and March 2020 paid an average of Tk560,000, 525% above the government-specified migration fee of Tk106,780.
+
+**Similar Saudi work visa scams stopped after crackdown**
+
+In mid-2022, Bangladeshi labour recruiting agents alleged that they were forced to pay the Saudi embassy \$220-\$250 per application "unofficially" through middlemen to secure work visas. Failure to do so meant visas were not issued.
+
+As a result, migration costs for Saudi-bound Bangladeshi workers increased by at least Tk20,000, as recruiting agencies passed the extra expense onto them. 
+
+The Business Standard highlighted this issue in its July 2022 report, "Saudi-bound workers forced to pay \$220 extra per visa."
+
+In March 2023, Saudi authorities arrested individuals, including two former officials of their Dhaka embassy, over a Tk154 crore visa corruption scandal.
+
+Local recruiting agencies claim that corrupt practices ceased after the exposé, and the Saudi Anti-Corruption Authority's crackdown was a follow-up to the scam.
+
+#### [Bangladesh](/bangladesh) / [Top News](/top-news)
+
+[Kuwait](/tags/kuwait) / [migrant worker](/tags/migrant-worker) / [visa trading](/tags/visa-trading) / [Work Visa](/tags/work-visa)
+
+### Comments
+
+While most comments will be posted if they are on-topic and not abusive, moderation decisions are subjective. Published comments are readers’ own views and The Business Standard does not endorse any of the readers’ comments.
+
+## [Top Stories](/top-news)
+
+- 
+
+  [Island energy, industrial hub plan eyes \$65b investment over 30 years](/bangladesh/island-energy-industrial-hub-plan-eyes-65b-investment-over-30-years-1596941)
+
+- 
+
+  [Hasina's passport request political 'stunt'; briefing on surrender issue tomorrow: ICT chief prosecutor](/bangladesh/hasinas-passport-request-political-stunt-briefing-surrender-issue-tomorrow-ict-chief)
+
+- [](/bangladesh/hasina-seeks-new-passport-identity-card-reuters-1596986)
+
+  [Hasina seeks new passport, identity card: Reuters](/bangladesh/hasina-seeks-new-passport-identity-card-reuters-1596986)
+
+## MOST VIEWED
+
+- 
+
+  [Around 40 RMG factories suspend operations as 'workers refuse to work'](/economy/rmg/around-40-garment-factories-suspend-operations-workers-refuse-work-1596781)
+
+- 
+
+  [RMG production resumes in Gazipur, Mirpur, N’ganj after wage deal](/economy/rmg/garment-factories-resume-production-gazipur-savar-wage-deal-eases-labour-unrest-1596146)
+
+- 
+
+  [AIPAC spent \$84m in US midterms; nearly two-thirds went to losing candidates](/worldbiz/usa/aipac-spent-84m-us-midterms-nearly-two-thirds-went-losing-candidates-1596131)
+
+- 
+
+  [West Bengal election not legally valid, says former Indian chief election commissioner](/world/south-asia/west-bengal-election-not-legally-valid-says-former-indian-chief-election)
+
+- 
+
+  [UFC CEO Dana White declines Trump's White House press secretary offer: Report](/sports/ufc-ceo-dana-white-declined-trumps-white-house-press-secretary-offer-report-1596066)
+
+- 
+
+  [Every Bangladeshi carries \$646 in foreign debt: World Bank](/economy/every-bangladeshi-carries-646-foreign-debt-world-bank-1596191)
+
+## Related News
+
+- [Kuwaiti ambassador discusses state of Bangladeshi workers with foreign adviser](/bangladesh/kuwaiti-ambassador-discusses-state-bangladeshi-workers-foreign-adviser-1061141)
+- [Bangladesh seeks increased manpower export to Kuwait](/bangladesh/bangladesh-seeks-increased-manpower-export-kuwait-1060001)
+
+## [Features](/features)
+
+### [6 automatic watches worth adding to your collection](/features/brands/6-automatic-watches-worth-adding-your-collection-1596891)
+
+4h \| [Brands](/features/brands)
+
+### [A lifetime behind bars for two rescued leopards ](/features/panorama/lifetime-behind-bars-two-rescued-leopards-1596636)
+
+18h \| [Panorama](/features/panorama)
+
+### [Mitsubishi Xpander ECO: Familiar practicality, lower running costs](/features/wheels/mitsubishi-xpander-eco-familiar-practicality-lower-running-costs-1596381)
+
+21h \| [Wheels](/features/wheels)
+
+### [Bashpukur: A ghost town built to be acquired](/features/panorama/bashpukur-ghost-town-built-be-acquired-1595881)
+
+1d \| [Panorama](/features/panorama)
+
+## [More Videos from TBS](/videos)
+
+[](/videos/tbs-stories/hasinas-new-passport-bid-signals-possible-return-bangladesh-1597116)
+
+### [Hasina’s new passport bid signals possible return to Bangladesh](/videos/tbs-stories/hasinas-new-passport-bid-signals-possible-return-bangladesh-1597116)
+
+42m \| [TBS Stories](/videos/tbs-stories)
+
+[](/videos/tbs-today/what-are-demands-driving-battery-powered-rickshaw-drivers-streets-1597101)
+
+### [What are the demands driving battery-powered rickshaw drivers to the streets?](/videos/tbs-today/what-are-demands-driving-battery-powered-rickshaw-drivers-streets-1597101)
+
+1h \| [TBS Today](/videos/tbs-today)
+
+[](/videos/tbs-world/deadly-train-collision-egypt-kills-least-seven-injures-hundreds-1597081)
+
+### [Deadly train collision in Egypt kills at least seven, injures hundreds](/videos/tbs-world/deadly-train-collision-egypt-kills-least-seven-injures-hundreds-1597081)
+
+1h \| [TBS World](/videos/tbs-world)
+
+[](/videos/tbs-today/security-forces-tighten-grip-garment-factories-gazipur-1597056)
+
+### [Security forces tighten grip on garment factories in Gazipur](/videos/tbs-today/security-forces-tighten-grip-garment-factories-gazipur-1597056)
+
+1h \| [TBS Today](/videos/tbs-today)

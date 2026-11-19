@@ -1,0 +1,59 @@
+Table 1: USD Range-wise Simple Average Cost (%) of Wage Earners'
+                                     Remittances
+
+     Wage Earners'                              Simple Average Cost (%)
+ Remittances (Amount
+                      Jan-Mar, 2026                   April-June, 2026
+          in USD)
+                                         2.83                             2.94
+$(0-200)                                 0.96                             0.94
+$(201-500)                               0.49                             0.50
+$500+                                    1.78                             1.82
+Overall
+
+Table 2: Countrywise Simple Average Cost (%) of Wage Earners'
+                        Remittances upto USD 200.
+
+     Country Name                               Simple Average Cost (%)
+
+Saudi Arabia          Jan-Mar, 2026                   April-June, 2026
+UAE                                      4.12                             3.53
+Malaysia                                 5.55                             6.49
+Kuwait                                   3.16                             3.19
+USA                                      4.04                             3.91
+Qatar                                    2.08                             1.44
+Singapore                                4.55                             5.11
+Italy                                    2.51                             1.76
+Oman                                     1.36                             1.57
+UK                                       6.06                             6.77
+                                         1.48                             2.10
+
+Table 3: Countrywise Simple Average Cost (%) of Wage Earners'
+                             Remittances Overall.
+
+       Country Name                             Simple Average Cost (%)
+
+                      Jan-Mar, 2026                   April-June, 2026
+
+Saudi Arabia                                    2.52                     2.27
+
+UAE                                             2.75                     2.92
+
+Malaysia                                        1.04                     1.12
+
+Kuwait                                          1.61                     1.51
+
+USA                                             1.33                     1.11
+
+Qatar                                           1.22                     1.28
+
+Singapore                                       1.31                     0.98
+
+Italy                                           1.14                     1.27
+
+Oman                                            1.39                     1.40
+
+UK                                              1.18                     1.46
+
+Source: Statistics Department, Bangladesh Bank
+

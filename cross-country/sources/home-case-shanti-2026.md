@@ -1,0 +1,65 @@
+# When a Migrant Worker Is Cheated: The Case of Shanti
+
+Aug 27
+
+Written by [HOME](/our-updates?author=5a1272516f935e897ee6d74b)
+
+Migrant workers who come to Singapore seeking a better livelihood can be vulnerable to recruitment scams, including false job offers, excessive recruitment fees, forged documents, and promises of employment that are never fulfilled. In principle, Singapore’s employment regulations and law-enforcement system are intended to protect workers, investigate wrongdoing, and provide victims with avenues for redress. Shanti’s experience, however, illustrates how a worker can fall through the gaps between these systems.
+
+In April 2026, while still in India, Shanti was introduced to an agent (“Sam”) who offered her a dishwasher job at a hotel in Sentosa with a basic monthly salary of \$1,100. Her “interview” consisted only of two self-introduction videos. Immediately afterwards, Sam sent her a screenshot that appeared to show that her work pass had already been approved.
+
+Sam then instructed Shanti to pay a total of 4,72,500 Indian Rupees (almost SGD 6,500) to Indian bank accounts and \$1,500 to Singapore accounts. She made the payments across multiple transactions. Only after she had made all the payments did Sam send her an In-Principle Approval (IPA). However, the IPA stated that she would be working as a Household Service Worker. It also stated that her gross salary was \$700, comprising a basic monthly salary of \$400 and a fixed monthly allowance of \$300. Shanti noticed that the job and salary in the IPA were different from what was promised. 
+
+When Shanti questioned the discrepancy, the agent reassured her that she would nevertheless work as a dishwasher and that accommodation would be provided. On 11 May, Sam sent her a PDF purporting to be a security bond.
+
+Shanti bought her own air ticket and arrived in Singapore on 18 May. No one met her at the airport, and Sam instructed her to find her own accommodation. She stayed with some friends in Singapore. Even though she repeatedly asked Sam for work, she was never deployed. 
+
+On 21 May 2026, she was contacted by another Indian number, who claimed to be another agent (“Kate”).  
+
+On 3 June, Kate told Shanti to attend an “interview” at an address in Jurong West. She met a woman at a block and she brought her up to her flat. It was there where she was told that her IPA had actually been cancelled since 30 May 2026. 
+
+Shanti was shocked and worried. All this while, she genuinely believed that she was eventually going to be deployed for work. Given that she had paid hefty recruitment fees to get to Singapore, and had three children to support, she had no choice but to wait for work and rely on her agents’ promises. 
+
+When she called Kate to clarify why her IPA had been cancelled, Kate told not to worry and that a new work pass would be applied. On 10 June, however, Kate presented her with a Short-Term Visit Pass document that would expire on 17 June and instructed her to travel to Malaysia. She declined as she wanted to work in Singapore to earn money for her family and pay off her recruitment fees. 
+
+Desperate and unaware of her options, she approached HOME for assistance on 11 June.
+
+The next day, Shanti went to the company address that was listed on her IPA. The company denied any knowledge of her arrival in Singapore and claims that whilst they were keen on hiring her, they were told by another agent from India that Shanti was no longer keen on working in Singapore and they were told to cancel her IPA. They also denied that they paid the security bond and that the security bond document was forged. The company also claimed that there were also a few other workers previously in similar situations as Shanti.
+
+Shanti then sought help from the relevant authorities. At MOM, she was told that there was little that could be done. As the agents were based overseas, there was no Singapore-based employment agency for it to investigate. MOM also informed HOME that while they were looking into how the IPA was issued, it also concluded that Shanti’s continued presence in Singapore was not required. Thus, she was told to file a police report for the police to look into the matter of the funds that were being transferred to Singapore-based accounts. Her visit pass was also not extended, nor was she issued a special pass. She was given temporary accommodation in the meantime. 
+
+Shanti filed a police report. However, the police took the position that the matter amounted to a civil “breach of agreement” rather than the Penal Code offence of cheating. The reasoning offered was that an IPA had genuinely been issued before it was cancelled. The monies paid to the Singapore-based accounts could therefore have been recruitment fees paid by Shanti for the job. Shanti was told that she could pursue the matter privately through civil proceedings.
+
+With no job, no valid immigration status, and no clear agency willing to take responsibility for investigating the circumstances surrounding her recruitment and payments, Shanti left Singapore on 17 June. She did not recover the money she had paid to the agents, and it remains unclear whether the individuals involved were held accountable.
+
+**Questions we have:**
+
+- As a victim of a scam, why was Shanti not allowed to remain in Singapore to find an alternative job?
+
+- Why did the Police refuse to investigate the owners of the Singapore bank accounts who received the local money transfers?
+
+- Despite the rise of these transnational scams, why is there no joint attempt by governments to address them?
+
+- Is the reluctance of agencies to address transnational scams and the absence of a strong deterrence in Singapore enabling more scams?
+
+\
+\
+*Published on 27 August 2026*
+
+[HOME](/our-updates?author=5a1272516f935e897ee6d74b)
+
+[](/our-updates/2026/10/20/singapore-says-current-labour-rights-are-sufficient-are-they)
+
+Previous
+
+Previous
+
+## Singapore Says Current Labour Rights are Sufficient — Are They?
+
+[](/our-updates/2026/7/8/home-runs-ginneys-story)
+
+Next
+
+Next
+
+## HOME Runs: Ginney’s Story — How HOME Provided Shelter and Assisted Ginney in Changing Employers

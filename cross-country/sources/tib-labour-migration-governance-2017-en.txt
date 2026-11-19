@@ -1,0 +1,2677 @@
+Good Governance in the Labour Migration Process:
+       Challenges and the Way Forward
+
+
+
+
+                 Manzoor E Khoda
+                Shahzada M Akram
+
+
+
+
+                   9 March 2017
+Good Governance in the Labour Migration Process:
+Challenges and the Way Forward
+
+
+Research Adviser
+Advocate Sultana Kamal
+Chairman, Board of Trustees, Transparency International Bangladesh (TIB)
+
+Dr. Iftekharuzzaman
+Executive Director, TIB
+
+Professor Dr. Sumaiya Khair
+Deputy Executive Director, TIB
+
+Mohammad Rafiqul Hassan
+Director, Research and Policy, TIB
+
+
+Research and preparation of report
+Manzoor E Khoda, Programme Manager, Research and Policy
+Shahzada M Akram, Senior Programme Manager, Research and Policy
+
+
+Research Assistant
+Golam Mohiuddin, Programme Manager, Good Governance in Climate Finance, TIB
+
+
+Acknowledgements
+We hereby thank and express gratitude for providing us with important information to the Ministry of
+Expatriates' Welfare and Overseas Employment, officials and employees of government partner
+organizations, information providers of recruiting agencies and diagnostic centers, journalists and
+experts in the field. For conducting this research and giving valuable comments on preparation of the
+report, we express gratitude to TIB Executive Director Dr. Iftekharuzzaman, Deputy Executive
+Director Professor Dr. Sumaiya Khair, Director of Outreach and Communications Dr. Rezwan-ul-
+Alam, Director of Research and Policy Mohammad Rafiqul Hassan and other colleagues who helped
+enriching this research report by providing valuable feedback.
+
+
+
+Contact
+Transparency International Bangladesh
+MIDAS Centre (Levels 4 & 5)
+House #5, Road # 16 (New) 27 (Old)
+Dhanmondi, Dhaka-1209
+Phone: (+880-2) 9124788, 9124789
+Fax: (+880-2) 9124715
+Email: info@ti-bangladesh.org
+Website: www.ti-bangladesh.org
+
+
+
+
+                                                                                                    2
+                                      Table of Contents
+
+
+Foreword                                                                                   4
+
+Chapter 1: Introduction                                                                    5
+1.1 The Context of Labour Migration                                                        5
+1.2 Review of Literature on Labour Migration                                               8
+1.3 Rationale of the Study                                                                10
+1.4 Objectives of Research                                                                11
+1.5 Scope of Research                                                                     11
+1.6 Research Methodology                                                                  12
+1.7 Duration of Research                                                                  12
+1.8 Framework of the Report                                                               12
+
+Chapter 2: Labour Migration: Legal and Institutional Framework                            13
+2.1 Legal Framework of Labour Migration                                                   13
+2.2 The Structure of Labour Migration from Bangladesh                                     18
+2.3 Recent Government Initiatives                                                         25
+2.4 Conclusion                                                                            25
+
+Chapter 3: Labour Migration Process                                                       27
+3.1 Collection and Processing of Work Order/ Demand Notes in the Country of Destination   27
+3.2 Visa Trading in Bangladesh                                                            30
+3.3 Visa Processing and Collection of Emigration Clearance Certificates                   32
+3.4 Conclusion                                                                            37
+
+Chapter 4: Causes and Impacts of Mal-governance in Labour Migration                       39
+4.1 Legal and Enforcement Constraints                                                     39
+4.2 Institutional Constraints                                                             40
+4.3 Procedural Constraints                                                                41
+4.4 Deficiency in Enforcement of Law                                                      43
+4.5 Analysis Based on Governance Indicators                                               45
+4.6 Impact of Governance Deficiency in Labour Migration                                   46
+4.7 Conclusion                                                                            47
+
+Chapter 5: Conclusion and Recommendations                                                 48
+5.1 Overall Observations                                                                  48
+5.2 Recommendations                                                                       49
+
+References and Further Reading                                                            50
+
+
+
+
+                                                                                               3
+                                               Foreword
+
+
+Transparency International Bangladesh (TIB) is working to make the citizens aware and vocal for
+creating a congenial atmosphere for establishing a countywide anti-corruption movement for good
+governance. TIB carries out research activities focusing on issues that are barriers to effectiveness,
+transparency and accountability of the sectors crucial for the country’s economy and institutions
+concerned and thereby undertake advocacy programmes.
+
+Labour migration is an important sector for the Bangladesh economy. Overseas employment plays a
+critical role in reducing the pressure of employment generation at home as well as in increasing
+supply of foreign currency and reserve. Labour migration is a sector which is mainly based on private
+organisations, as services are taken basically from the individuals and private recruiting agencies.
+These agencies work as medium/ catalyst for completing the process of migration. The key function
+of the concerned government agencies is to approve and process the relevant documents with regard
+to labour migration.
+
+Different problems in the labour migration sector in Bangladesh have been identified in different
+research and newspaper reports. Establishment of good governance in migration has been given
+emphasis in different studies and conclusions have also been made that shortcomings of good
+governance in this sector have instigated risky, irregular migration and human trafficking. This
+research has been conducted considering labour migration as a sector of employment generation for a
+huge number of people, earning of foreign exchange through remittances and as the key driver of the
+national economy and accordingly. Different challenges relating to good governance in labour
+migration process have been identified through this study.
+
+This research was conducted by TIB's researchers Manzoor E Khoda and Shahzada M Akram. Golam
+Mohiuddin provided assistance in collecting information. We cordially thank and express gratitude to
+the Ministry of Expatriates’ Welfare and Overseas Employment, officials and employees of the
+concerned public agencies, information providers of recruiting agencies and diagnostic centres,
+journalists and experts in the field. Above all, we express our sincere gratitude to the migrant workers
+who provided assistance in this regard.
+
+We are grateful to TIB Trustee Board Chairperson Advocate Sultana Kamal for providing overall
+guidance for conducting this research. We specially thank Deputy Executive Director of TIB
+Professor Sumaiya Khair for providing valuable opinions and assistance from time to time to raise the
+quality of this research. We express gratitude to Director of Research and Policy section of TIB
+Mohammad Rafiqul Hassan for reviewing the draft report and to other colleagues for giving valuable
+opinions on presentation of the report.
+
+Our efforts will be useful if the policymakers concerned take policy measures in preventing
+corruption in the labour migration process in the light of the findings and recommendations of this
+research.
+
+Suggestions from readers are welcome in expansion, revision and correction of this report.
+
+
+
+                                                                                       Iftekharuzzaman
+                                                                                      Executive Director
+
+
+
+
+                                                                                                         4
+                                                                                             Chapter 1
+                                                                                      Introduction
+
+
+
+1.1 The Context of Labour Migration
+Those who go out of their cities/towns or country seeking jobs are called migrant workers.
+Those who go to other places within the country for jobs are called ‘internal migrant workers’
+and the ones who travel to a foreign country for a particular period for similar purpose are
+‘international migrant workers’. These workers may migrate either under government-
+sponsored programmes, under private recruitment schemes, or on their own account in search
+for employment (Stalker, 2008). According to the Overseas Employment and Migrants Act
+2013, a ‘migrant worker’ means any citizen of Bangladesh who, for wages, (a) is in the
+planning process to migrate for work or is departing to any foreign country for work; (b) is
+employed in a trade or profession in any foreign country; or (c) has returned to Bangladesh at
+the end of the tenure of employment or without having completed the tenure of employment in
+a trade or profession from a foreign country.1
+
+Labour migration is an important sector for the Bangladesh economy. Overseas employment
+plays a critical role in reducing the pressure of employment generation at home as well as in
+increasing supply of foreign currency and reserve.2 Firstly, overseas employment itself
+represents over one-fifth of the annual addition to the country’s total labor force and over half
+of additional manufacturing jobs created in recent years.3 Secondly, through earning of foreign
+exchange, it helps maintain balance of payments in external transactions. The country received
+remittances amounting to US$ 14.53 billion in 2015-16 fiscal year and US$ 15.31 billion in
+2014-13 fiscal year.4 The inflow of remittances has exceeded foreign exchange earnings from
+other sources such as official development assistance and net earnings from exports.5
+Remittances accounted for 77 per cent of foreign exchange reserves in 2012-2013 and 61 per
+cent in 2014-2015.6 In 2015, the amount remitted by the migrant workers stood at 7.83 per cent
+of the gross domestic product (GDP) of Bangladesh.7 Besides, the contribution of the
+investment and use of technical skills by incoming migrants to the national economy cannot be
+undermined.
+
+Bangladesh has a long history of migration abroad seeking jobs. The migration from
+Bangladesh to the West began in the 18th and early 19th century when people from this region
+(mainly from Chittagong and Noakhali) joined as cooks and seamen at the British trading ships.
+A section of landless farmers of the Sylhet region started working at the dockyard and trading
+ship of Hooghly of Kolkata. The rise in oil price in the middle of 1970s led to boom in
+
+1
+  Overseas Employment and Migrants Act 2013, Article 2 (3). However, the dependents who would be staying
+abroad with the migrant workers would also be considered as migrant workers.
+2
+  Mentionable, the number of migrant workers went abroad with jobs in 2016 was 757,731 and the number was
+555,881 in 2015. For details, see http://www.bmet.gov.bd/BMET/viewStatReport.action?reportnumber=20 (23
+January 2017).
+3
+  For details see, ADB, ‘Overseas Employment of Bangladeshi Workers: Trends, Prospects, and Challenges’,
+Brief 63, August 2016, https://www.adb.org/sites/default/files/publication/190600/overseas-employment-ban-
+workers.pdf (5 March 2017).
+4
+  Daily Prothom Alo, 5 September 2016.
+5
+  For details see the Ministry of Finance, Bangladesh Economic Review, 2016, p. 8.
+6
+  ADB, ibid.
+7
+  The Gross Domestic Product (GDP) in Bangladesh was worth 195.08 billion US dollars in 2015 when the
+country received an amount of US$ 15,270.99 million remittances. Source:
+http://www.tradingeconomics.com/bangladesh/gdp (8 February 2017).
+
+                                                                                                             5
+infrastructure development in the Middle Eastern countries, which needed a lot of migrant
+workers for these activities. They met the demand of labour through importing workers from
+the South and Southeast Asian countries including Bangladesh. Almost simultaneously, the
+demand for migrant labour was also created in the newly industrialised countries in Southeast
+Asia (Siddiqui, 2009). According to a report, the world’s fifth largest migrant community is
+Bangladeshi nationals. About seven million Bangladeshis are staying in different countries
+around the world.8
+
+                 Figure 1: Labour Migration from Bangladesh (1976-2016)
+
+
+
+
+Source: BMET website: http://www.bmet.gov.bd/BMET/viewStatReport.action?reportnumber=20 (23 January
+                                              2017).
+
+Beginning formally in 1976, international labour migration from Bangladesh marked consistent
+rise despite occasional downward trends. Analysis of the trends of the past decades show the
+number of labour migration has remarkably fluctuated since 2008 and was not stable. The
+number of migrant workers from Bangladesh was 390,702 in 2010 and although the number
+increased in the next two years, it came down significantly in 2013 and 2014. However, the
+number again rose in 2015 and 2016 (Figure 1). The main reason for such fluctuation was the
+suspension of importing Bangladeshi manpower by some key receiving countries. For example,
+there was a ban on export of workers to Saudi Arabia for about six years and it was withdrawn
+on 1 February 2015. However, Saudi Arabia permitted only workers as domestic help alongside
+female workers. Eventually on 11 August 2016 the country’s Ministry of Labour and Social
+Development withdrew the ban on imports of all types of workers.9 Also, after about four years
+of ban, Kuala Lumpur signed a G2G (Government to Government) agreement with Dhaka on
+26 November 2012 to resume imports of Bangladesh manpower to Malaysia. However, only
+10,000 workers went there under this agreement. The governments of Bangladesh and
+Malaysia signed a memorandum of understanding (MoU) on 18 February 2017 to hire
+Bangladeshi workers through G2G-plus (government and private initiatives) method. Within
+12 hours of signing the MoU, Malaysia conveyed Bangladesh that it would not bring any
+
+
+8
+  For details, see McKinsey Global Institute, 2016, People on the Move: Global Migrations’ Impact and
+Opportunity, http://www.mckinsey.com/global-themes/employment-and-growth/global-migrations-impact-and-
+opportunity (9 February 2017).
+9
+  Daily Prothom Alo, 30 August 2016
+
+                                                                                                     6
+workers at the moment.10 Besides, export of manpower to a number of Middle Eastern countries
+including the United Arab Emirates (UAE) remained suspended or is still suspended.
+
+The major portion of the Bangladeshi migrant workers have gone to different countries of the
+Middle East (79 per cent) (see Figure 2), of which Saudi Arabia and the UAE are the top
+destinations.11 Most of Bangladeshi migrant workers are employed as unskilled workers,
+followed by skilled and semi-skilled workers and those in other categories.12 After the start of
+labour migration, there was a restriction on export of female workers in the first few decades.
+Since the withdrawal of such restriction in the later part of the 1990s, the rate of female migrant
+workers has been increasing for the past few decades.13
+
+        Figure 2: Destination-wise Labour Migration from Bangladesh (1976-2016)
+                                          Europe, 1%
+                           Africa, 2%                              Others, 3%
+
+
+                 East and
+              Southeast Asia,
+                   15%
+
+
+
+
+                                                                                Middle East,
+                                                                                   79%
+
+
+ Source: Prepared from BMET data: http://www.bmet.gov.bd/BMET/viewStatReport.action?reportnumber=20
+                                           (23 January 2017).
+
+Labour migration is mainly a sector which is based on private organisations. Services are taken
+mainly from the individuals and private organisations in this sector. Private recruiting agencies
+work as medium/catalyst for completing the process of labour migration.14 The key function of
+the government agencies concerned is to approve the migration and process the relevant
+documents. The key stakeholders include the Ministry of Expatriates’ Welfare and Overseas
+Employment and different government organisations under the Ministry, the Ministry of Home
+Affairs and government organisations under this Ministry, Bangladesh embassies abroad/
+
+
+
+10
+   Daily Prothom Alo, 10 September 2016.
+11
+   According to BMET data, of the Bangladesh migrant workers who went abroad with jobs between 1976 and
+2016, 27 per cent have been hired by Saudi Arabia and 23 per cent by the UAE. Among other important
+destinations of Bangladesh migrant workers, Oman accounts for 12.03 per cent, Malaysia 7.56 per cent,
+Singapore 6.24 per cent, Qatar 5.64 per cent, and Bahrain 3.66 per cent. Source:
+http://www.bmet.gov.bd/BMET/viewStatReport.action?reportnumber=20 (23 January 2017).
+12
+   Among the Bangladeshi migrant workers who went abroad during 1976 to 2016, 48.95 per cent were
+unskilled, 32.51 skilled, 15.2 per cent semi-skilled, 2.18 per cent professional, and 1.17 per cent others. In 2016,
+40.08 per cent of the Bangladeshi migrant workers are unskilled, 42.08 per cent skilled, 15.83 per cent semi-
+skilled, 0.61 professional, and 1.4 per cent others. Source:
+http://www.bmet.gov.bd/BMET/viewStatReport.action?reportnumber=35 (1 February 2017).
+13
+   It may be mentioned that the rate of female migrant workers was 18 per cent in 2014, and it was 13.78 per
+cent only the year before (2013). For details see http://www.bmet.gov.bd/
+14
+   For details, see Siddiqui and Rashid (2009).
+
+                                                                                                                   7
+Labour Attachés, and the private organisations including recruiting agents, brokers, and travel
+agents.15
+
+The Bureau of Manpower, Employment Training (BMET) was established under the then
+Ministry of Labour and Employment in 1976, and in 1982 the ‘Emigration Ordinance 1982’
+was adopted to facilitate, regulate and monitor labour migration from Bangladesh. The
+Ministry of Expatriates’ Welfare and Overseas Employment was formed in 2001 to ensure
+development of this sector. Subsequently, a number of laws and rules have been framed in this
+regard. Bangladesh has also signed and ratified a number of international conventions.16 By
+signing and ratifying these international conventions Bangladesh is pledge-bound to encourage
+equity-based and humanitarian positions for protection of the rights of all migrant workers and
+members of their families, be willing to play role in regular and safe repatriation of the migrants
+and their families, and create congenial atmosphere for their rehabilitation. To help develop the
+sector more efficiently, more initiatives have been taken later on.
+
+1.2 Review of Literature on Labour Migration
+A lot of research on labour migration has been carried out in Bangladesh. The subjects of
+discussion of such research projects encompass reasons of labour migration from Bangladesh,
+process of decision-making of labour migration, gender gap in labour migration and its results,
+cost of migration and sources of expenditure, problems in migration process, role of different
+stakeholders, post-migration problems and role of stakeholders in overcoming such problems,
+process of remitting money and its use, status of migrant workers in the country of destination,
+areas of expenditures, impacts of remittances on the families of the migrant workers,
+reintegration of the migrant workers upon their return, and above all, ascertaining the highest
+level of effectiveness of the labour migration.17
+
+Good governance in migration is a complex concept where a wide range of stakeholders
+including individual, the government and the private organisations are involved. That is why
+there are a lot of debates in defining good governance in migration. According to Betts (2011),
+good governance in migration includes “global governance includes a range of norms, rules,
+principles, decision-making procedures that exist over and above the level of a single nation-
+state.” On the other hand, Kunz, Lavenex and Panizzon (2011) argued that migration
+governance “migration governance explores the emerging concept of ‘migration partnerships’
+in the political management and governance of international migration flows. The partnership
+approach to migration seeks to balance the responsibility and benefits of migration more evenly
+between source, transit and destination countries.”
+
+Poorly managed migration can lead to harm, danger and insecurity. It can encourage migrant
+smuggling and human trafficking, as well as social unrest, xenophobia and discrimination.
+Effective migration governance has always been essential for promoting the benefits of
+migration while reducing its costs (Economist Intelligence Unit, 2016). While discussing issues
+relating to migration such as refugee, illegal immigration, and labour migration, Betts (2010)
+identified challenges on this. His recommendations to overcome such challenges include
+institutional framework for migrants’ security, developing global migration governance based
+on coherent pluralism, a universally inclusive forum for dialogue on migration and a well-
+coordinated system. In another research (2011), he tried to explain theoretical framework of
+migration which helps to explore the institutional, political, and normative dimensions of
+
+15
+   For legal and institutional framework, see the second chapter of this report.
+16
+   For legal framework of the labour migration, see the second chapter of this report.
+17
+   For details see Afsar et al (2001), Afsar (2009), Siddiqui (1998, 2000, 2009), Siddiqui and Rashid (2009),
+Siddiqui and Mahbub (2015), Siddiqui and Abrar (2001), Siddiqui et al (2010), RMMRU (2002), Murshid et al
+(2001), BILS (2014), Asia Foundation (2013), Rahman (2011).
+
+                                                                                                                8
+global migration governance in relation to different aspects of international migration. The
+research reviewed the configuration of interests, power, and ideas that explains the existing
+institutional framework and determines the international politics of each area of migration and
+discussed a normatively desirable and politically feasible framework for global migration
+governance based on efficiency, equity, legitimacy and rights.
+
+The importance of good governance in Bangladesh's labour migration was discussed by
+Siddiqui (2002). She termed labour migration as a complex process, and recommended for a
+regulated recruitment process. In a research by RMMRU (2002), it was found that labour
+migration from Bangladesh remained a complex process. Firstly, multiple individuals,
+organisations, and agencies are involved in it – the government, private, local or foreign
+partners. Secondly, the entire process is run by a group of middlemen; some of them are formal
+and some informal, while others play dual roles. Thirdly, there are formal authorities who have
+rather made the process further complex. The study identified the two most important factors
+in labour migration process – transparency and accountability. The areas of transparency
+include costs, terms of overseas jobs and remittances about which information are hardly
+available. For these information, there was no institutional arrangement other than briefing by
+BMET.
+
+In the conference of the International Organisation for Migration (IOM) in 2014, the good
+governance framework on migration was formulated based on three principles: (1) good
+migration governance would require adherence to international standards and the fulfilment of
+migrants’ rights; (2) migration and related policies are best formulated using evidence and
+overall government approach; and (3) good migration governance relies on strong partnerships.
+Later on, the Migration Governance Index (MGI) was formulated aimed at making conformity
+with the Sustainable Development Goals (SDGs). The index covered 15 countries including
+Bangladesh, selected to provide a broad representation of levels of economic development and
+type of migration profile. Five domains were identified as the building blocks of effective
+migration governance: 1) institutional capacity, 2) migrant rights, 3) safe and orderly migration,
+4) labour migration management, and 5) regional and international co-operation and other
+partnerships (Economist Intelligence Unit, 2016).
+
+Recruitment constitutes an important part of the process of temporary labour migration in Asia.
+Existing literature explicitly suggests that the rapid development of recruiting agencies and
+migrant networks has accelerated the growth of labour migration in this continent. However,
+most of the existing literature tend to focus on either the role of agencies or the role of networks
+in the recruitment process, not both simultaneously. Likewise, the economics of recruitment is
+almost inseparable from labour recruitment in Asia but it remains an area of peripheral interest
+in existing literature. Rahman (2011), in his study, argued that a holistic approach,
+meaningfully combining migrant networks and recruitment agencies, to highlight both the
+operational and economic aspect of recruitment, is needed to better understand the complexity
+of migrant recruitment dynamics.
+
+Focusing on the recruitment experiences of Bangladeshi migrants in the GCC states, Achacoso
+(2002) made a comparative analysis among Bangladesh, India, Sri Lanka and the Philippines,
+based on standard framework of migration system and enforcement, monitoring of the private
+recruiting agencies, disputes and settlement of claims, and welfare activities. The labour
+migration management and development governance of a country is determined by national
+laws, bilateral arrangements for labour, code of conduct, inter-agency coordination and
+cooperation, responsibility of the affected person and the watchdogs.
+
+
+
+                                                                                                  9
+Because of the problems in labour migration process, exploitative working atmosphere with
+crisis-prone hiring is created in some cases. These problems include visa trade, role of the
+labour attaché, formal and informal appointment of workers, and high cost of labour migration.
+How the visa trade is conducted, and how the cost of securing visa increases has been discussed
+in a few research reports (Siddiqui et al, 2012; Rahman, 2011; and Siddiqui, 2011). In a
+research on recruitment of labour migrants for Gulf countries and its economic implications,
+Rahman (2011) showed that 77 per cent of the aggregate cost of migration went to the pocket
+of the dalals (brokers).
+
+Despite substantial improvements in the national and international legal framework for labour
+migrants, the implementation of these is said to be extremely problematic. Corruption and
+influence mongering exist at almost every operational level of the migrant's recruitment,
+administrative and departure process.18 As per existing legislation, the state should not only
+regulate the institutional framework of labour migration, but also monitor the process and
+arbitrating grievances. However, due to the severe lack of implementation of policies and
+legislation and an absence of monitoring, Bangladeshi migrants are said to often pay double
+the amount paid by their counterparts in neighbouring countries for the migration process
+which is long and complex, involves intervention of illegal middlemen (Rashid, 2015).
+According to findings of a research, the average cost of migration is Tk 0.676 million for Saudi
+Arabia, Tk 0.26 million for Malaysia and Tk 0.25 million for Oman (Siddiqui and Mahmud
+2015). Bangladeshi migrant workers have to spend seven times higher than the actual cost
+required (ILO, 2014).
+
+The rate of falling victim to corruption, while receiving service in this sector, is remarkable.
+The National Household Survey by Transparency International Bangladesh (TIB) found that
+77 per cent of the recipients of the services in the labour migration sector faced corrupt practices
+and the average additional payment than the required one, for meeting the cost of migration
+was Tk 199,676 (TIB, 2012).
+
+The post-migration problems include non-payment of salaries and other benefits as per
+commitments and contracts, making migrants confined by confiscating passport or using slave
+labour, forcing them to work more through repression, violation of human rights such as
+absence of decent housing, necessary healthcare and health services, and non-payment of
+compensation in case the workers are sent back before completion of the contract period (Afsar
+et al, 2001; Afsar, 2009; Siddiqui, 2009; BILS, 2014). It is worth mentionable that most of
+these problems are related to the process of migration. Besides, the migrant workers have to
+face various problems due to lack of good governance in the sector.
+
+1.3 Rationale of the Study
+The above discussion suggests that in-depth research on good governance in migration-related
+institutions, legal framework and migration process is lacking although there are a good
+number of research works on migration process, cost pattern, effects of migration etc. covering
+labour migration from Bangladesh. Despite various initiatives by the Government, different
+pre- and post-migration problems are still prevailing. It has not been possible to ensure
+transparency in this sector (RMMRU, 2016).
+
+To make the impacts of good governance in migration positive for all and the right of migrants
+have been inserted into the targets of the Sustainable Development Goals (SDGs).19 Migration
+is expected to play a very important role in attaining the goals of SDGs. In the 9th Global Forum
+on Migration and Development held in Dhaka on 8-10 December 2016, good governance and
+18
+     Md Harun-Or-Rashid, ‘Ensure Better Governance for Safe Migration’, The Daily Star, 15 December 2015.
+19
+     Targets 8.7, 8.8, 10.7, 10 C and 17.8 may be mentioned.
+
+                                                                                                            10
+ethical recruitment in migration sector was a key focus of discussion. The forum had detailed
+discussion on widespread mismanagement in the recruitment process around the world,
+victimisation of migrants in the receiving country, and similar negligence in the sending
+country as well. The incidence of fraudulence has not been stopped although the government
+of Bangladesh has framed laws and policies.20 Issues related to labour migration and
+recruitment process and migration management were discussed at the ‘Global Conference on
+Migration, Development and Human Rights’, as a part of the Global Forum on Migration and
+Development. Ensuring ethics and transparency in the recruitment of the migrant workers
+featured prominently in the recommendations made at the People's Global Action (PGA).21
+Besides, the issue of establishment of good governance in the labour migration sector came up
+in the statements from different stakeholders including the government.22
+
+In spite of legal and institutional frameworks on labour migration in Bangladesh, varieties of
+problems in the migration sector have been identified and dug out in different research and
+newspaper reports.23 Moreover, establishment of good governance in migration has been
+emphasised in research papers and conclusions have also been made that shortcomings in the
+labour migration sector have instigated risky, irregular migration and human trafficking
+(Parvez et al, 2016; The Economist Intelligence Unit, 2016; Rashid and Ashraf, 2015; IOM,
+2015; McKinsley Global Institute, 2016).
+
+This research has been conducted considering labour migration as a sector of employment
+generation for a huge number of people, earning of foreign exchange through remittances and
+as the key driver of the national economy, and accordingly, different challenges relating to
+good governance in labour migration process have also been identified.
+
+1.4 Objectives of Research
+The major objective of this research is to review the challenges of good governance in
+Bangladesh's labour migration sector and work out the ways to overcome them. Its specific
+objectives are to:
+
+1. Review the legal and institutional frameworks on the labour migration from Bangladesh;
+2. Define the role of the concerned organisations in labour migration process and areas of
+   coordination among them, their management and accountability;
+3. Identify patterns and reasons of existing irregularities and corruption in labour migration
+   process; and
+4. Make recommendations for creating atmosphere of good governance and proper
+   accountability.
+
+1.5 Scope of Research
+This research will encompass:
+
+20
+   RMMRU, presentation at the press conference on ‘Trends of Migration from Bangladesh 2016: Successes and
+Challenges’, 28 December 2016.
+21
+   Ibid.
+22
+   Sheikh Hasina, ‘Global Consensus: Migration management has to be correct’, Daily Prothom Alo, 21
+September 2016; ‘Public lecture on global migration: Emphasis on correcting migration management by the
+Swedish minister’, Daily Prothom Alo, 12 May 2016.
+23
+   See ‘Consequence of Non-Transparency’, The Daily Star, 21 February 2016; Rifaet Ullah Mridha, ‘75 per
+cent workers receive lower wages than promised’, The Daily Star, 9 December 2016; Parimol Palma, ‘Worker
+Migration to ME, Malaysia: Overseas touts jack up costs’, The Daily Star, 11 December 2016; Syed Mansur
+Hashem, ‘Why must we pay more’, The Daily Star, 27 December 2016; Ahmed Dipto, ‘Disappeared with Tk 21
+lakh after promising assistance for migration’, Daily Prothom Alo, 5 December 2016; ‘Cost increases due to
+purchase of demand notes’, Daily Prothom Alo, 2 December 2016; ‘Manpower Exports plagued by looting’,
+Daily Prothom Alo, 17 December 2016.
+
+                                                                                                       11
+1. Labour migration from Bangladesh – going abroad with jobs only by following formal
+   process;
+2. Reviewing good governance structure on international labour migration which includes
+   relevant national and international laws and policies, government and non-government
+   institutional and informal structures, management and capacity;
+3. International labour migration process, its value chain, problems, corruption and
+   irregularities in this process and causes of such irregularities.
+
+1.6 Methodology
+The current research is qualitative in nature. Interview with key informants, in-depth interview
+and focus group discussions (FGDs) have been used as method of this research. Officials of
+the Ministry of Expatriates’ Welfare and Overseas Employment and the Bureau of Manpower,
+Employment and Training, local and foreign recruiting agents, representatives of the
+organisation of recruiting agents (BAIRA), the organisation of diagnostic centres meant for
+GCC countries (GAMCA), sub-agents/ brokers, experts, researchers, and media professionals
+were interviewed. FGDs were held with migrant workers and aspiring migrants. Besides,
+policies relating to labour migration, laws and rules, published and unpublished research
+papers, articles, government and private sector information and documents, and news items
+published in newspapers and other media have also been reviewed.
+
+The findings of the research were presented before the officials of the Ministry of Expatriates'
+Welfare and Overseas Employment on 12 February 2017 where the relevant bodies under it
+were also present. Based on their opinions, some information was updated and some others
+verified before finalising the report.
+
+It should be mentioned that since this research is not based on survey, its findings were not
+equally applicable to all concerned or its generalisation is not possible. However, this research
+indicates a picture of the existing situation in the sector.
+
+1.7 Duration of Research
+Collection of information, analyses of data, and preparation of the report have been completed
+in a period between March and December 2016.
+
+1.8 Structure of the Report
+This report has been divided into five chapters. The context of the research, its rationale,
+objectives and scope, methodology and duration have been discussed in the first chapter. In the
+second chapter, legal and institutional frameworks on labour migration have been reviewed.
+The third chapter has explained the process of labour migration and identified the problems,
+corruption and irregularities involved in the process. Causes and effects of challenges of good
+governance in the labour migration process have been discussed in the fourth chapter. Finally,
+the fifth chapter contains the overall observations of the research and the ways to overcome the
+existing problems.
+
+
+
+
+                                                                                              12
+                                                                                             Chapter 2
+                 Labour Migration: Legal and Institutional Framework
+
+
+
+Different international and domestic laws and rules play a critical role in defining the basis for
+labour migration from Bangladesh. Besides, the role of other stakeholders is also important in
+this process. It is important to know about the structure and management of the sector before
+reviewing the process of labour migration. In this chapter, legal and institutional frameworks
+on labour migration have been discussed.
+
+2.1 Legal Framework of Labour Migration
+
+2.1.1 Global conventions on labour migration signed and ratified by Bangladesh
+A number of international conventions and declarations have articulated the protection of the
+rights of the migrant workers. Bangladesh has so far signed and ratified ten such conventions.
+
+International Convention on the Protection of the Rights of All Migrant Workers and
+Members of Their Families (ICRMW), 1990
+This is the most important international document to protect the rights of the migrant workers
+and their families. It was adopted by the UN General Assembly on 18 December 1990 and
+came into effect from 1 July 2003.24 The rights affairs of different kinds of migrant workers
+have been applied in this convention incorporating provisions of human rights enshrined in
+other UN conventions on human rights including the International Convention on Economic,
+Social and Cultural Rights, International Covenant on Civil and Political Rights and
+International Labour Organisation’s various conventions on migrant workers (Convention 93
+and 143) and Recommendations (86 and 151). Bangladesh signed this convention in 1998 and
+ratified it in 2011.
+
+This convention discourages illegal migration and similarly speaks of protection of rights of
+the victims of illegal migration. According to this convention, migrant workers and members
+of their families shall have the right at any time to enter and remain in their state of origin.25
+Before their departure, migrant workers and members of their families shall have the right to
+be fully informed of all conditions applicable to their admission and particularly those
+concerning their stay and the remunerated activities.26 This Convention recognises migrant
+workers’ right to freedom of thought, conscience and religion and holding opinions.27 It
+stipulates the migrant workers and their families' entitlement to effective protection by the state
+against violence, physical injury, threats and intimidation.28 Besides, employment shall be
+restricted to public services or bodies of the state in which such operations take place and
+subject to any authorisation, approval and supervision, agencies, prospective employers or
+persons acting on their behalf may also be permitted to undertake the said operations.29
+
+
+24
+   http://www.humanrights.ch/en/standards/un-treaties/migrant-workers/ (30 November 2016). The number of
+signatory to this convention was 48 as of 29 September 2015. However, none of the Western industrialised
+countries signed this convention.
+25
+   Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families 1990,
+Article 8.
+26
+   Ibid, Article 37.
+27
+   Ibid, Article 12, 13.
+28
+   Ibid, Article 16.
+29
+   Ibid, Article 65, 66.
+
+                                                                                                           13
+Universal Declaration of Human Rights (UDHR), 1948
+Adopted in 1948, the Universal Declaration of Human Rights (UDHR) recognised equal rights
+of all human being, which is the foundation of freedom, justice and peace in the world.
+According to Article 3 of UDHR, everyone has the right to life, liberty and security of person.
+Moreover, no one shall be subjected to torture or to cruel, inhuman or degrading treatment or
+punishment.30 The declaration also stipulates that all are equal before the law and are entitled
+without any discrimination to equal protection of the law.31 According to this declaration,
+everyone has the right to freedom of movement and residence within the borders of each state.32
+And everyone has the right to leave any country, including his own, and to return to his
+country.33 Bangladesh has ratified this declaration.34
+
+Convention on the Elimination of all forms of Discrimination Against Women
+(CEDAW), 1979
+The Convention on the Elimination of all forms of Discrimination Against Women was adopted
+in 1979 to protect female migrants' rights and remove violence against them bringing both
+sending and receiving countries under accountability. The convention emphasises measures,
+including legislation to suppress all forms of traffic in women and exploitation of prostitution
+of women,35 and speaks of eliminating discrimination against women in the field of
+employment and all activities as citizens.36 Bangladesh ratified the convention in 1994, albeit
+raising objection to Article 2, 13(a), and 16(1) (c)(f), in view of its contradiction with the
+Shariah laws.37
+
+2.1.2 Bangladesh’s policies and laws relating to labour migration
+
+The Expatriates’ Welfare and Overseas Employment Policy 2016
+The Government of Bangladesh formulated the ‘Overseas Employment Policy’ for the first
+time in 2006. Later in the context of post-SDG perspective, inclusion of migration into the 7th
+Five-Year Plan, formulation of the ‘Overseas Employment and Migrants Act 2013’ by the
+government, and considering the ratification of the Convention on the Protection of the Rights
+of All Migrant Workers and Members of Their Families 1990, the ‘Expatriates' Welfare and
+Overseas Employment Policy 2016’ was formulated by scrapping the previous policy in
+January 2016.
+
+The current policy is aimed at encouraging and securing self-chosen overseas employment
+through safe and dignified migration. In accordance with Article 2(3) of the Overseas
+Employment and Migrants Act 2013, migrant workers and the Bangladeshi Diaspora38 staying
+abroad for a longer period of time are both covered by the Expatriates’ Welfare and Overseas
+Employment Policy 2016. This policy has six major objectives:
+
+
+
+
+30
+   Universal Declaration of Human Rights 1948, Article 5.
+31
+   Ibid, Article 7.
+32
+   Ibid, Article 13(1).
+33
+   Ibid, Article 13(2).
+34
+   For details, see http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf (30 November
+2916).
+35
+   Convention on the Elimination of all forms of Discrimination Against Women, Articles 5 and 6.
+36
+   Ibid, Articles 3,9 and 11.
+37
+   Daily Prothom Alo, ‘Government will not back out from objection to 2 CEDAW articles’, 12 December 2016.
+38
+   Someone who has accepted or is willing to accept citizenship of another country but interested in keeping in
+touch with Bangladesh and is staying abroad for a long period of time shall be considered as a migrant of
+Bangladesh.
+
+                                                                                                            14
+1. To create opportunities for men and women, who are willing to get employed abroad, to
+   work independently with safety and human dignity as a matter of right to choose
+   employment independently;
+2. To provide protection to all migrant workers and their families irrespective of male and
+   female at every step of migration process by applying the laws and rules of the country in
+   keeping with international labour standard and legal documents;
+3. To ensure welfare services and benefits for empowering migrant workers and their families
+   and encouraging their participation at all spheres of labour migration cycle;
+4. To ensure gender equality in labour migration process by encouraging participation of more
+   women in safe and decent overseas employment and maintaining conformity with national
+   and international standards and CEDAW, other international conventions/ documents
+   against discrimination against women or for protection of women;
+5. To incorporate labour migration into national development and planning structure by
+   bringing more compatibility between labour migration policy and other economic, social
+   and labour-related national policies;
+6. To introduce an efficient and inclusive labour migration governance structure in order to
+   regulate labour migration.
+
+The challenges that have been discussed in this policy include safe labour migration, protection
+of rights of migrant workers and their families, welfare and beneficial services to the migrant
+workers, labour migration of female workers, linking national development to the labour
+migration, and regulating labour migration. Guidelines to come out of the challenges have also
+been provided in this policy. The involvement of government and different private sector
+stakeholders with labour migration has also been discussed in detail in this policy.
+
+The National Skills Development Policy 2011
+The National Skills Development Policy 2011 is a supplementary policy relating to matters of
+labour migration. In this policy, the importance of extensive training for migrant workers has
+been recognised. It is said that migration assistance services are essential for safe migration
+and livelihoods.
+
+The Overseas Employment and Migrants Act, 2013
+The ‘Overseas Employment and Migrants Act, 2013’ was adopted on 27 October 2013, in order
+to promote opportunities for overseas employment and to establish a safe and fair system of
+migration, to ensure rights and welfare of migrant workers and members of their families, to
+enact a new law by repealing the Emigration Ordinance, 1982, and for making provisions in
+conformity with the ICRMW 1990 and other international labour and human rights conventions
+and treaties ratified by Bangladesh. In this law, a migrant worker is defined as any citizen who
+is planning to migrate for work and even has returned to Bangladesh without having completed
+the tenure of employment.39 According to this law, migrant workers shall have the right to be
+informed about the migration process, employment contract or the terms and conditions of the
+work overseas, and the right to know about their rights as per the law before his departure, and
+upon their return, may get access to development programmes.40
+
+This act has mentioned that the Bureau, any other organisation or entity established by the
+Government, and a recruitment agent may conduct recruitment related activities,41 and that no
+person shall operate any activity relating to recruitment unless issued a license under this Act.42
+Provisions for eligibility for license, suspension and cancellation of license and revocation of
+
+39
+   Overseas Employment and Migrants Act 2013, Article 2(3).
+40
+   Ibid, Article 26-30.
+41
+   Ibid, Article 3(2).
+42
+   Ibid, Article 9(1).
+
+                                                                                                15
+license have been included in this Act,43 and duties of the recruitment agent have also been
+defined.44
+
+The most important feature of this Act is that it has entrusted a migrant worker with the right
+to file a civil suit, if affected by violation of any employment contract.45 This Act has also kept
+provisions for penalties for sending migrant workers overseas in unlawful manner, charging
+unlawful amounts of fees, publishing unauthorised advertisements, using unlawful means for
+collecting demand note, visa or work-permit for overseas employment, for trading in such
+documents, arranging for departure through places other than the specified place of departure,
+and other offences.46 This Act has kept provisions for specific punishment subject to types of
+offences. This Act has divided offences into different categories – cognizable, non-bailable and
+non-compoundable, and also non-cognizable, bailable and compoundable -- again subject to
+types of offences.47 Besides, this Act has said that offences under this Act shall be triable by
+the Judicial Magistrate of First Class, or, as the case may be, the Metropolitan Magistrate;48
+and the trial under this Act shall be concluded within four months from the date of framing of
+charge in the concerned case.49
+
+A number of constraints have been identified in this Act, based on different research reports,
+discussions and interviews with key informants and experts:
+
+ The major weakness of this Act is that it has included only about the legal and regular migrant
+  workers. It has not mentioned anything about the issue of migration at personal initiatives.
+ Many provisions of this Act are directives, not mandatory, which weakens the strength of a
+  law. It does not have a provision like “Whatever is said in any other acts, this Act shall be
+  given priority.”50
+ This Act does not recognise the role of the dalals (brokers) in the labour migration process
+  and they are not also covered by this Act, as it has recognised only the authority of any
+  government agency or recruiting agent to send migrant workers abroad. Moreover, it has
+  mentioned the control of all activities relating to recruitment and emigration of workers from
+  Bangladesh for the purpose of overseas employment shall be vested in the Government or its
+  delegated authorities,51 but does not mention how far it would be controlled.
+ This Act has given authority of trying offenders as per Article 14 to First Class Judicial
+  Magistrates, or the Metropolitan Magistrate in some cases – a provision which affects the
+  effectiveness of Article 33 and 34 since punitive measures specified under the two articles
+  are beyond the jurisdiction of the mobile court. For example, according to the Code of
+  Criminal Procedure 1898, the First Class Judicial Magistrate or the Metropolitan Magistrate
+  in some cases can give a maximum sentence of five years of imprisonment and fine of Tk
+  10,000. This Act has been included into the category of mobile court. However, the mobile
+  court cannot give more than two years of imprisonment.52
+ Appeal petition challenging the mobile court’s judgement can be filed with the District
+  Magistrate and appeal against the District Magistrate’s verdict can be filed with the District
+  and Sessions Judge. If it is dismissed at this level, no criminal case can be filed with any other
+
+43
+   Ibid, Article 10-13.
+44
+   Ibid, Article 15.
+45
+   Ibid, Article 28.
+46
+   Ibid, Article 31-35.
+47
+   Ibid, Article 39.
+48
+   Ibid, Article 38(1).
+49
+   Ibid, Article 38(2).
+50
+   RMMRU, Ensuring Prosecution under the Overseas Employment and Migration Act 2013, Policy Brief 20,
+2016.
+51
+   Op Cit., Article 3(1).
+52
+   RMMRU, op cit.
+
+                                                                                                        16
+  court. Because, according to Article 35(2) of the Bangladesh Constitution and also section
+  403 of the Code of Criminal Procedure, a personal cannot be brought under criminal suit and
+  punished more than once.
+ No provision has been included in this Act to punish government officials and person
+  responsible for labour wing.53
+ Besides, this Act, in Article 18, has mentioned about revocation of license and compensation
+  for affected migrant workers, there is no compulsion in it.
+
+According to the Overseas Employment and Migrants Act 2013, if a person or a recruitment
+agent arranges for, or assists in departure of a worker from Bangladesh through a place other
+than the specified place of departure, such an action shall be deemed as an offence.54 By this
+provision, human trafficking has been addressed.
+
+The Prevention and Suppression of Human Trafficking Act, 2012
+The government formulated the ‘Prevention and Suppression of Human Trafficking Act, 2012’
+in order to ensure prevention and suppression of human trafficking and protection and
+implementation of rights of the persons who fall victim of human trafficking and safe
+migration. This Act has been given priority compared to other acts. Accordingly, the trial of
+cases relating to human trafficking shall be held under the Prevention and Suppression of
+Human Trafficking Act 2012 instead of the Women and Children Repression Prevention Act
+2000.
+
+Under Article 18 of this Act, legal assumption on crimes has been changed. As per
+Bangladesh’s legal system, if a case is filed against someone, s/he is generally considered as
+innocent (presumption of innocence). But someone sued under this Act should be primarily
+assumed as guilty (presumption of guilt). Under Article 5, this Act is given extra-territorial
+relevance, i.e., if a citizen falls victim of trafficking outside of the country, this Act shall still
+be applicable.
+
+Rules on Labour Migration
+Along with the Overseas Employment and Migrants Act 2013, there are a number of rules such
+as ‘Emigration Rules 2002’, ‘Wage Earners’ Welfare Fund Rules 2002’, ‘Recruiting Agents
+Conduct and License Rules 2002’, ‘Selection of Commercially Important Persons (Non-
+Resident Bangladeshi) Rules 2015’55, ‘Special Privilege Policy of Expatriate Bangladeshis for
+Remittance, 2008’56, and ‘Medical Test Policy for Overseas Employment 2008’57. These rules
+were framed to ensure regulation of migration process, create overseas employment
+opportunities, role of recruiting agents in labour migration, and welfare of the migrant workers
+and their families.
+
+However, some anomalies were noticed in these rules. For example, in the Emigration Rules,
+the role and tasks of immigrant registrar and labour attaches are mentioned but how to bring
+them under accountability has not been mentioned. The Recruiting Agents Conduct and
+License Rules speak of punishment for crimes and irregularities related to migration but no
+
+53
+   Daily Kaler Kantha, 1 November 2015 (http:/www.kalerkantho.com/print-
+edition/muktadhara/2015/11/01/285425).
+54
+   Overseas Employment and Migrants Act 2013, Article 34.
+55
+   http://archive.dhakatribune.com/business/2015/may/14/conditions-eased-nrbs-avail-cip-card-
+quotaraised#sthash.7pQTryv5.dpuf (11 December 2016).
+56
+   Abel Chikanda, Jonathan Crush, Margaret-Walton Roberts (eds), 2016, Diasporas, Development and
+Governance, IOM, Springer, Switzerland, p. 113.
+57
+   OKUP (Ovibashi Karmi Unnayan Program), Policy Review: Mandatory Health Test of Migrant Workers;
+http://okup.org.bd/wp-content/uploads/2016/11/Mandatory-Health-Test-ofMigrant-Workers.pdf (11 December
+2016).
+
+                                                                                                     17
+provision for compensation for the affected migration is included. Till date, no rules based on
+Overseas Employment and Migrants Act 2013 are framed, so the rules made in 2002 are still
+effective. As a result, the sector cannot be controlled and regulated in view of the present
+realities. Nothing special has been said in the Medical Test Rules of 2008 with regard to the
+process of declaring someone unfit on the ground of infectious diseases like HIV and AIDS,
+counselling, treatment and services, and expulsion.58
+
+It is seen that different international and national laws and policies have spoken about ensuring
+rights of the migrant workers in the sending and receiving countries and simultaneously the
+private sector activities have been endorsed. An efficient and inclusive labour migration
+governance structure has also been suggested to regulate the labour migration. The institutional
+structure vis-à-vis policies and laws that exist in Bangladesh is discussed below.
+
+2.2 The Structure of Labour Migration from Bangladesh
+Bangladesh’s labour migration structure can be divided into two categories: formal and
+informal. The formal institutional structure covers different government bodies under a number
+of ministries, at the one hand, and private recruiting agencies and diagnostic centres, on the
+other. It may be mentioned that these organisations are run and regulated by laws and rules of
+Bangladesh. On the other hand, there are a quite a number of stakeholders in this sector, which
+play independent roles outside the recognised institutional structure and which are called non-
+institutional structure (Figure 3). Different stakeholders involved in the labour migration
+structure have been discussed later on.
+
+                    Figure 3: Structure of Labour Migration from Bangladesh
+
+
+
+
+2.2.1 Formal Structure of Labour Migration: Government Organisations
+
+The Ministry of Expatriates’ Welfare and Overseas Employment
+The Ministry of Expatriates’ Welfare and Overseas Employment was formed on 20 December
+2001 giving importance to ensuring welfare of the migrant workers and expansion of overseas
+employment. The functions of the Ministry59 are to:
+
+
+
+58
+     Ibid.
+59
+     http://www.probashi.gov.bd/site/page/69b716ae-5555-4eec-b003-73d2320c4d0a (6 December 2016).
+
+                                                                                                    18
+    Explore new labour markets alongside consolidating the existing ones, for the Bangladeshi
+     nationals interested in overseas employment;
+    Create a pool of skilled manpower in commensurate with the demand in the foreign labour
+     market;
+    Maintain communications and coordination with international organisations;
+    Sign contracts and memorandum of understanding (MoU) on the affairs of this Ministry,
+     with international organisations concerned with migration and government of other
+     relevant countries;
+    Formulate/Amend laws, rules and policies relating to activities of the Ministry;
+    Monitor, evaluate and supervise the operations of the organisations concerned with the
+     Ministry – BMET, Expatriates’ Welfare Bank, BOESL, and Wage Earners Welfare Fund;
+    Perform all administrative activities including appointment of officials and employees at
+     the labour wings of the Missions abroad;
+    Issue/ renew recruiting agency licenses and supervise their activities;
+    Provide assistance to expatriate Bangladeshis for ensuring their participation in
+     Bangladesh’s economic and welfare activities and investment programmes;
+    Help expatriates remit money back home;
+    Preserve data on workers employed abroad, hiring countries and relevant matters;
+    Ensure welfare and rights of expatriate Bangladeshis;
+    Promote Bangladeshi culture among the expatriates;
+    To establish good governance by ensuring transparency and accountability in overseas
+     employment management.
+
+According to the approved organogram of the Ministry, its functions are run through nine wings
+under four departments, 20 sections and a labour market research cell. According to the
+approved organogram, the size of manpower in this ministry is 139 of whom, 38 are first class
+officers, and the rest (101) are class II, III and IV officers.60
+
+The functions of the Monitoring and Enforcement Wing of the Ministry include ensuring
+transparency and accountability of the recruiting agencies that involves investigation into
+violation of terms by recruiting agencies and irregularities in the recruitment process,
+monitoring of activities relating to migration expenses, preventing irregularities in migration
+process, recommending punitive measures for irregularities, monitoring of diagnostic centres
+that test health of migrant workers, and running publicity to create awareness about overseas
+employment process and control migration costs etc., in collaboration with the District
+Employment and Manpower Office (DEMO).61
+
+Another important wing of the Ministry is that each of the Labour Wings at the Bangladesh
+missions abroad, which, taking necessary cooperation from Bangladesh embassies in those
+countries and the Ministry of Foreign Affairs, has continued to work in expanding labour
+market. Currently, the number of labour wings is 28 and the size of manpower is 182. 62 The
+countries where there are labour wings are Saudi Arabia (Abu Dhabi, Riyadh, Jeddah), Kuwait,
+Qatar, Oman, Libya, Bahrain, the United Arab Emirates (Dubai), Malaysia, Singapore, Iraq,
+Italy (Rome, Milan), Japan, Jordan, South Korea, Spain, Egypt, the Maldives, Brunei,
+Thailand, Greece, Russia, Australia, Switzerland (Geneva), South Africa and Hong Kong.63
+
+The Ministry runs its overall activities through four departments/ organisations: (1) Bureau of
+Manpower, Employment and Training, (2) Bangladesh Overseas Employment and Services
+
+60
+   Source: The Ministry of Expatriates Welfare and Overseas Employment, Annual Report 2015-16.
+61
+   Ibid, pp. 7-8.
+62
+   Ibid, p. 5.
+63
+   Ibid, p. 9.
+
+                                                                                                 19
+Limited, (3) Wage Earners’ Welfare Board, and (4) Expatriate Welfare Bank. The objectives
+and functions of these organisations are described below:
+
+The Bureau of Manpower, Employment Training (BMET): The government established
+BMET as a section under the then Ministry of Labour and Employment in 1976. Its specific
+objective is to supply the manpower for meeting demand at home and exporting abroad. The
+specific functions64 of the BMET are:
+
+1. Process foreign demands for recruitment of Bangladeshi workers.
+2. Control and regulate emigration clearance for recruited workers for overseas employment.
+3. Regulate private Recruiting Agents that recruit Bangladeshi workers for foreign employers.
+4. Implementation of self-employment programs.
+5. Collection and dissemination of labour market information.
+6. Look after the welfare of Bangladeshi workers abroad.
+7. Registration of unemployed persons and referral to the vacancy positions.
+8. Provide institution based vocational and technical training in different employable trades.
+9. Plan and implement development programs to conduct training activities.
+10. Conduct informal, formal and special training course.
+11. Coordinate Apprenticeship training
+
+The BMET has four wings: (1) Administration Wing; (2) Employment Wing; (3) Training
+Wing; and (4) Migration and Protocol Wing.65 Besides, there are 42 DEMOs, 47 Technical
+Training Centres (TTC), three Institutes of Marine Technology, and three Apprentice Training
+Offices under it.66 The BMET also runs the database network for migration management.
+
+A major management weakness of the BMET is that the process of receiving complaints is
+complex and the system of settlement of complaints is plagued by bureaucratic red tape (Haque,
+2010). Procrastination is generally observed in settlement of complaints and there is lack of
+transparency in receiving and settlement of complaints (Siddiqui and Billah, 2012:4). There
+are allegations relating to failure of the BMET in allocating adequate funds for running the
+TTCs, not updating and modernising the syllabus of the TTCs, and less involvement in the
+DEMOs compared to demand (Parvez et al, 2016).
+
+The Bangladesh Overseas Employment and Services Limited (BOESL): The only
+recruiting agency of the state for migration, the Bangladesh Overseas Employment and
+Services Limited (BOESL) was founded in 1984. Its objectives were to assist foreign recruiters
+in selecting workers in proper trade, provide services as development partners based on mutual
+trusts, and reduce costs of migration. BOESL provides services on a ‘no profit, no loss’ basis.
+The government has created this kind of institution to encourage healthy and professional
+competition among the private recruiting agencies for bringing transparency and making
+migration safe. After its inception, this organisation has worked with the pledge to ensure
+migration at lower costs.67
+
+The main functions of the BOESL68 are:
+
+1. To export manpower to the labour receiving countries around the world with minimum
+   migration cost following the rules and regulation of IOM;
+
+64
+   http://www.bmet.gov.bd/BMET/index (11 December 2016).
+65
+   http://www.bmet.gov.bd/BMET/aboutAction (11 December 2016).
+66
+   Ibid.
+67
+   http://www.boesl.org.bd/ (12 December 2016).
+68
+   http://www.boesl.org.bd/Activities.aspx (12 December 2016).
+
+                                                                                            20
+2. To assist foreign employer to recruit the right person for the most suitable job;
+3. To build a positive image of Bangladeshi workers in the world labour market by exporting
+   skilled and efficient workers and eliminate poverty through overseas employment;
+4. To improve the socio-economic condition of the country by earning remittances through
+   exporting manpower;
+5. To create the opportunity of overseas employment especially for the woman and poor;
+6. To explore new overseas employment market for Bangladeshi workers.
+
+Since its establishment, as many as 64,193 people have migrated to 27 countries through
+BOESL between January 1984 and June 2016.69 It may be mentioned that the major portions
+of the Bangladeshi migrants who went abroad with jobs through BOESL are skilled (65.31 per
+cent) and semi-skilled (28.95 per cent). However, the percentage of BOESL’s share in overall
+outward migration is negligible (only 0.62 per cent).
+
+The Wage Earners’ Welfare Board: The ‘Wages Earners’ Welfare Fund’ was established in
+1990 to extend welfare services to the migrant workers and their families, and it has
+subsequently been upgraded into and renamed as the ‘Wage Earners’ Welfare Board’. The fund
+is run by an 11-member Board of Directors comprising high-level representatives from
+different ministries. Led by the Secretary of the Ministry of Expatriates’ Welfare and Overseas
+Employment, the Board is comprised of high officials of the Ministry of Home Affairs, the
+Ministry of Law, the Ministry of Justice and Parliamentary Affairs, the Ministry of Finance,
+the Ministry of Foreign Affairs, the Ministry of Civil Aviation and Tourism, the Bangladesh
+Bank, the BMET and the Bangladesh Association of International Recruiting Agencies
+(BAIRA).
+
+The government has formed the Fund with certain amount of money deposited mandatorily by
+every migrant worker, as fixed by the government.70 The migrant workers and their families
+are provided assistance from this Fund.71 The Board’s objectives72 are to ensure overall welfare
+of the migrant workers by providing them legal assistance, help improve quality of lives of the
+family members of the workers who died abroad, bring the returnee migrant workers under
+social reintegration, and give financial assistance to the children of the migrant workers in
+pursuing the desired education. The key services provided by the Wage Earners’ Welfare Board
+are giving pre-departure briefing to the migrant workers about laws, rules, customs, language,
+atmosphere, environment etc. and providing assistance to migrant workers in ensuring safe
+migration while departing and arriving at Bangladesh’s international airports through
+Expatriate Welfare Desks.73
+
+Probashi Kallyan Bank (Expatriates’ Welfare Bank): The Probashi Kallyan Bank was
+formed in 2010 with a fund of Tk 1 billion, including Tk 950 million paid up capital made
+available from the Wage Earners’ Welfare Fund and a lump sum of Tk 50 million from the
+government. It was inaugurated in 2011. The functions of the Probashi Kallyan Bank are to:
+(1) provide collateral free loan at nominal interest rate to workers going abroad for
+employment, (2) provide assistance to returnees to help them in self-employment within the
+country and encourage them to invest, and (3) provide them facilities to send remittances
+quickly and at a minimum cost by using information and communications technology.
+
+69
+   See http://www.boesl.org.bd/UploadedDocument/NoticeboaedAttachments/541.pdf (12 December 2016) and
+The Ministry of Expatriates Welfare and Overseas Employment, Annual Report 2015-16.
+70
+   The Emigration Ordinance 1982, Article 19(1) and the Overseas Employment and Migrants Act 2013, Article
+47.
+71
+   http://www.wewb.gov.bd/site/page/41931875-0d57-42f1-a51c-b9f8a1a4c3dd/ (19 December 2016).
+72
+   http://www.wewb.gov.bd/site/page/5ad0db13-594c-430a-8f4a-261175ce03c9/ (19 December 2016).
+73
+   Wage Earners’ Welfare Board, Annual Report 2015, p. 10.
+
+                                                                                                        21
+Currently, this bank has 54 branches (including seven divisional headquarters) across the
+country. The Probashi Kallyan Bank is providing one-stop services relating to deposition of
+registration fees, smart card fees, and finger print fees, daily to 200-300 migrants willing to go
+abroad with jobs.74 The bank distributed loans worth Tk 788.8 million among 7,758 migrant
+workers in the 2015-16 fiscal year, while it also recovered loans amounting to Tk 449.2
+million.75
+
+The Emigration and Passport Department: The Emigration and Passport Department was
+established in 1973 in order to provide assistance to Bangladeshi citizens to travel abroad. At
+present there are passport offices in every district where passport is delivered and renewed.
+Besides, in 65 Bangladesh missions abroad, machine readable passports and visas are issued.76
+
+2.2.2 Formal Structure of Labour Migration: Private Organisations
+
+Bangladesh Association of International Recruiting Agents (BAIRA)
+Private recruiting agency or company is the means recognised by the government to complete
+the process of migration of Bangladeshi workers willing to go abroad.77 Bangladeshi recruiting
+agencies carry out the main duties of labour migration starting from collection of demand notes
+for hiring migrant workers from the receiving countries, selection of migrant workers as per
+the demand notes, stamping of their visa from the embassy of the country concerned, and
+finally collection of emigration clearance certificates from the BMET. The government used
+to carry out the duties of migration in the middle of 1970s. Since the involvement of the private
+sector players in 1981, this sector has gone to the hands of the privately-owned organisations.
+These agencies work in the sector after taking license from the government. They collect
+information and demand notes for employment abroad at their own initiatives. Upon receiving
+approval from the BMET, the private agencies collect workers from the database of the BMET
+as per demand of the foreign recruiters and then completes the migration process of the migrant
+workers (Siddiqui, 2009:25). As per law, the duties of the recruiting agents are to protect the
+interest of migrant workers, to produce, when applicable, the migrant worker for registration
+and to collect migration clearance, to employ the migrant worker in the job offered and provide
+wages and other benefits and to ensure a good workplace conditions in accordance with the
+terms of the employment contract, and to maintain communication with the employer for these
+purposes.78
+
+In order to ensure coordination among the government-approved recruiting agencies and
+welfare of the migrant workers, the asssociation of the recruiting agencies, Bangladesh
+Association of International Recruiting Agents (BAIRA) was formed in 1984. BAIRA’s major
+functions include: (1) promote and protect the rights and interests of the members of the
+association; (2) coordinate the activities of the licensed recruiting agents approved by the
+government and to create unity amongst the licensed recruiting agents; (3) advise the
+government to amend, alter or modify orders in this regard from time to time keeping the
+interest of the country; (4) undertake different programmes and steps for the welfare of the
+expatriate workers and their families; (5) take initiatives to provide employment of Bangladeshi
+citizens in different countries; (6) increase skills of the migrant workers by establishing training
+centres for exporting skilled manpower; and (7) provide assistance or compensation in case a
+migrant worker is injured or dies abroad and taking the body back home.79 As of December
+
+74
+   The Ministry of Expatriates Welfare and Overseas Employment, Annual Report 2015-16, p 42.
+75
+   Ibid, p. 40.
+76
+   http://www.dip.gov.bd/site/page/3352e2a4-1657-4f65-8079-5a2456ed4511 (22 December 2016).
+77
+   Overseas Employment and Migrants Act 2013, Article 3(2), 9.
+78
+   Ibid, Article 15.
+79
+   Source: http://www.baira.org.bd/index.php/aims-a-objectives (19 December 2016).
+
+                                                                                                 22
+2016 there are 1,037 licensed recruiting agents in the country and approval for 89 agents
+remained suspended.80
+
+GCC81-Approved Medical Centres’ Association (GAMCA)
+GAMCA was established in 1999 in order to provide clearance certificates on health for
+sending manpower to six Middle Eastern countries. It is mandatory to carry out diagnostic tests
+from any of the GAMCA-approved medical centres for labour migration to these countries.
+The functions of GAMCA include: (1) diagnostic tests to be carried out in accordance with the
+policies and guidelines of the executive board of the Health Ministers' Council of the Gulf
+Cooperation Council (GCC) countries; (2) keeping quality of services of all the medical centres
+by coordinating and increasing cooperation between the members of GAMCA; and (3) taking
+necessary steps if members of the GAMCA are seen making any deviation or committing
+irregularity in compliance with the specific policies and guidelines.82
+
+Appointing organisation/ individual, sponsor/ Kofil
+The most important role in the recruitment of migrant workers is played by foreign recruiting
+organisation or employer. Basically, the demand placed by the recruiting organisation or
+employer creates the opportunity for migrant workers to enter overseas job market and work
+there.
+
+In the Middle Eastern countries, the largest labour market for Bangladeshis, migrant workers
+are accepted under a special method called Kafala in which the appointing authority is called
+a kofil. In this case, the kofil as appointing organisation or employer must be a registered
+organisation or citizen of that country. All migrant workers in the Middle East work under
+contract with any kofil, who takes all kinds of the responsibilities of all migrant workers
+employed by him or his organisation for a certain period of time. It is also the responsibility of
+the kofil to send back the migrant workers on completion of the contract. In many cases, the
+kofil collects and preserves the passports and other documents of all the migrant workers in his
+custody. On the other hand, a migrant worker is obliged to work under a kofil for a certain
+period of time as per labour contract. In this cases, working any other organisations other than
+the kofil is considered illegal and if found doing so, a worker may be jailed, fined or deported.
+Recently, Qatar has cancelled the kafala system.83
+
+The system like kafala is also common in some other destinations of Bangladeshi migrant
+workers such as Singapore and Malaysia where it is called sponsorship. The appointing
+authority who issues demand notes and with whom the contract is signed before the migration
+and based on which a migrant worker goes to that country, is called sponsor.
+
+2.2.3 Informal Structure of Labour Migration
+The informal structure of the labour migration consists of employers or appointing
+organisations abroad, foreign recruiting agents, big or small visa traders or agents, and
+middlemen or brokers at different tiers in the country.
+
+Foreign Labour-supplying Organisation/ Recruiting Agent
+There are supplying organisations or recruiting agents of foreign labourers or migrant workers
+in almost all the countries of the Middle East and Malaysia and Singapore. These agencies
+supply migrant workers to different government and private organisations and projects as per
+
+80
+   Source: http://www.bmet.gov.bd/BMET/raHomeAction (19 December 2016).
+81
+   Cooperation Council for the Arab States of the Gulf. This is a coalition of Bahrain, Kuwait, Oman, Qatar,
+Saudi Arabia and UAE. Source: https://en.wikipedia.org/wiki/Gulf_Cooperation_Council (22 December 2016).
+82
+   Source: http://www.gamcabd.org/index.php?cat_id=9 (22 December 2016).
+83
+   The Daily Star, ‘End of Kafala rules: Migrant Rights Activists Hail Qatar’s Decision’, 16 December 2016.
+
+                                                                                                          23
+demand. The organisations have contacts with the recruiting agents in sending countries of
+migrant workers and through them they collect workers and supply them to the organisations
+that need their services. In some cases, the recruiting agencies carry out the duties of
+maintaining the formalities starting from taking permission from all authorities concerned for
+recruitment of migrant workers in the receiving countries and other legal and institutional
+formalities. In exchange for these services the recruiting agencies are paid commission at a
+certain rate by the hiring organisations.
+
+Big visa trader/ supplier
+In the countries that receive Bangladeshi workers, a section of Bangladeshi and foreign traders
+buy visa from recruiting organisations or foreign recruiting agencies and sell them to
+Bangladeshi recruiting agencies. The main investment in this visa trade is good contact and
+rapport with the hiring organisations, foreign recruiting agencies and Bangladeshi recruiting
+agencies, and adequate monetary liquidity. These traders play the role of ‘wholesale visa
+traders’. They collect a lot of visa from the receiving countries and sell them to different
+recruiting agents in Bangladesh at a high price.
+
+Small visa trader/ collector
+A portion of Bangladeshi migrant workers, while working at an organisation or under an
+employer for a long time, attains certain reputation and builds good rapport. When the
+organisation needs more workers, such Bangladeshi workers collect demand notes for the new
+recruits, using the rapport with the employer and convincing him in exchange for money.
+Usually, this happens in case of a small number of migrant workers to be hired at an
+organisation or a household. These visas collected at personal initiatives are mainly sold to the
+family members of the migrant workers, relatives, friends and neighbours. In Bangladesh, the
+most number of work visa that are processed is this type of single visa collected at personal
+initiative. According to the BMET data, 90 per cent of the Bangladeshi migrant workers who
+went abroad in 2916 through this kind of visa. These traders may be termed small visa traders
+or visa collectors, as in most cases, this kind of visa is collected in exchange for money and
+sold to potential migrant workers.
+
+Sub-agents or Dalals (brokers)
+Bangladeshi recruiting agencies are dependent on middlemen or brokers for collecting migrant
+workers as per the demand notes. Aspirant migrant workers do not have direct contact with the
+recruiting agencies on one hand, while the recruiting agencies are basically based in Dhaka and
+Chittagong on the other. They do not have branch offices or representatives at the grassroots.
+That is why the middlemen or brokers play as the medium of communication between the
+migrant workers and recruiting agencies, who are commonly known as dalals.
+
+However, the dalals operates at different tiers. In the first tier, the sub-agent or broker works
+directly with the recruiting agent. They have higher financial capacity, and as a result, they can
+afford to buy a lot of visas simultaneously. The first tier dalals have contacts with more than
+one grassroots dalals through whom the former collects migrant workers or sells visa. The first
+tier brokers have contacts among themselves.
+
+Potential Migrant Workers
+The entire structure of labour migration is for the service rendered to the migrant worker. About
+two-thirds (64.15 percent) of the Bangladeshi migrant workers who go abroad are least skilled
+or semi-skilled. There is no scope on the part of these less educated aspirant migrant workers
+to directly contact the recruiting agents based in Dhaka or Chittagong. Hardly any channel of
+communications works between the potential migrant workers and the recruiting agents due to
+geographical distance, lack of information about the recruiting agents, and lack of trust in
+
+                                                                                               24
+making financial transactions with the recruiting agents. On the other hand, the recruiting
+agents, too, remain unwilling to establish direct contact with the migrant workers to avoid the
+hassles of communications and financial transactions. As a result, the aspirant migrant workers
+collect visa with the help of dalals they reach through their relatives, friends and socially
+acquainted persons. Since most of the potential migrant workers cannot pay the entire amount
+of migration cost in one chunk, they make payments to dalals in installments. Because of the
+installment process the migrant workers become dependent on the brokers for matters such as
+type of visa, country of destination and even the already paid amount. Besides, the brokers help
+the migrant workers in every stage of the long process from medical checkup to preparation of
+passport, collection of police clearance, registration of name with the BMET and collection of
+emigration certificate, stamping of visa on passport through recruiting agents, purchase of
+travel ticket and collection of employment contract. Taking advantage of the assistance to
+complete the process and helping the migrant workers to make payment in installments, the
+dalals charge very high rate for the visa.
+
+2.3 Recent Government Initiatives
+The government has taken a number of steps in recent years to simplify the services for
+overseas employment. As part of the initiative to decentralise the services, fingerprint is being
+taken to the district level. Till date, the process of registration has begun in 42 districts and
+finger print in 25 districts. Smart cards are being provided in Chittagong apart from Dhaka, by
+decentralising the authority to issue emigration clearance certificates. The process of issuing
+no-objection certificate (NOC) to the families and relatives of the Bangladeshi expatriates has
+begun also from Chittagong and Sylhet.
+
+The facility of online visa checking has been introduced on the BMET website and at Union
+Digital Centres so that intending migrant workers can know the status of their visa84 and a
+mobile app has been prepared to facilitate checking of visa through mobile phone. This service
+is available for Bahrain, the UAE, Qatar and Singapore.
+
+The countries that has suspended importing manpower from Bangladesh have recently resumed
+the process of recruiting workers from Bangladesh following the government’s diplomatic
+initiatives. An MoU was signed on 18 February 2016 between Bangladesh and Malaysia to
+send workers through Government-to-Government (G2G)-plus process. In February 2015,
+Bangladesh and Saudi Arabia signed an MoU, on the basis of which as many as 60,855 female
+workers migrated to Saudi Arabia between July 2015 and June 2016. On 10 August 2016, Saudi
+Arabia withdrew the ban on different categories of workers from Bangladesh.85
+
+A Complaint Management Cell for Expatriate Female Workers has been set up at the BMET
+to ensure security of the female migrant workers and quickly resolve the complaints. Besides,
+a hotline telephone has been introduced to provide information on complaints, and a website
+has been launched as well.86
+
+Other mentionable initiatives include disbursement of loans from the Expatriate Welfare Bank
+for meeting the cost of migration, setting up of technical training centres and enhancing of
+capacity of these centres.
+
+2.4 Conclusion
+It is clear from the discussion in this chapter that the legal structure for regulating and
+monitoring the labour migration from Bangladesh is quite strong. Although labour migration
+
+84
+   Ministry of Expatriates’ Welfare and Overseas Employment, Annual Report 2015-16, p. 19.
+85
+   Ibid, p. 16.
+86
+   Website to lodge complaints, www.ovijogbmet.org.bd
+
+                                                                                              25
+began in the middle of the seventies of the last century, the policy in this sector was prepared
+40 years later, and an ordinance was promulgated in 1982, but it was made a law much later.
+Even, the rules for the new act are yet to be formulated. A separate ministry was formed only
+in the initial part of this century following demand from the civil society stakeholder
+organisations given the importance of the sector in the national economy, and later initiatives
+were taken by the government. Still, it is important to know the process of migration to judge
+how far the legal and institutional framework for the labour migration has been effective.
+
+In the next chapter, the process of labour migration from Bangladesh and the problems involved
+with the process have been discussed in detail.
+
+
+
+
+                                                                                             26
+                                                                                               Chapter 3
+                                                                 Labour Migration Process
+
+
+
+The process of labour migration from Bangladesh is operated under both the government and
+the private sector’s management. On behalf of the government, the lone state-owned company
+in the sector, BOESL, completes the process of recruiting migrant workers as per terms of the
+bilateral contract or MoU. In this case, the demand note and visa are collected at the official
+level of the two countries – through G2G method However, the rate of labour migration under
+the government management compared that of the private management is negligible.87
+
+In the private sector management, various parties including employers, organisations that
+supply migrant workers, and potential migrant workers are involved in the process of collecting
+work order or visa for migrant workers from different countries. The parties that play important
+role in collecting work order and processing visa from different countries for migrant workers
+are (1) employers/ sponsor/ kofil, (2) agencies supplying workers or recruiting agencies in
+receiving countries, (3) big visa trader/ collector, (4) small visa trader/ collector, (5)
+Bangladeshi recruiting agency, (6) sub-agent/ broker/ dalal active at central and grassroots
+levels, and (7) potential migrant worker.
+
+In this chapter different stages of labour migration from Bangladesh has been discussed and
+problems, corruption and irregularities prevalent in each stage identified.
+
+The clearance certificate or entry permission which is given to enter legally from one country
+to another is called visa. In the event of legal migration, the most important thing to a migrant
+worker is the visa of the country of destination. While giving permission to a migrant worker
+through stamping of visa on the passport, s/he is told about the objective and duration of his/her
+stay in that country. This visa process, in the case of labour migration from Bangladesh, is a
+very complex one.
+
+The process of labour migration from Bangladesh to different destinations encompasses mainly
+three steps. At the first step, demand notes or visas are collected from different countries; at
+the second step, visas are sold to the potential migrant worker; and at the third step, the
+emigration clearance certificates are collected for the intending migrant workers after following
+processing of visa. In the subsequent part, different steps of labour migration and corruption
+and irregularities that take place in each step have been discussed.
+
+3.1 Collection and Processing of Work Order/ Demand Notes in the Country of
+Destination
+The most important step is the collection of demand note and visa for migrant workers from
+different countries. The process of collecting visa for migrant workers starts with preparation
+of demand note for migrant workers by possible recruiting organisations or employers in the
+recipient countries. First, the hiring organisations or employers in recipient countries issue
+demand note or work order as per demand and capacity of the employer. The process of
+preparing demand note is completed through attestation and approval for hiring migrant
+
+
+87
+  It may be mentioned that in 2016 only 0.31 per cent of the migrant workers went to work abroad under
+government management and the rest (99.69 per cent) under private management. Source:
+http://www.boesl.org.bd/UploadedDocument/NoticeboaedAttachments/541.pdf (12 December 2016).
+
+                                                                                                         27
+workers from the chamber of commerce, the labour ministry, the home ministry and the foreign
+affairs ministry, in accordance with the rules applicable.
+
+                  Figure 4: Different Steps of Collection and Sales of Visa
+
+
+
+
+There is a legal provision that the hiring organisations or employers in recipient countries
+would issue demand note or work order to any recruiting agency in that country for supplying
+migrant workers, as required. In such case, the recruiting agency charges certain amount for
+providing the services of collecting migrant workers. Similarly, some rich people in recipient
+countries including those of the Middle East, who are capable of hiring migrant workers as
+domestic help, cleaning worker, chef, gardener, driver etc., prepare the demand notes as
+sponsors or kofil for migrant workers as per law and sell them at high price. In some cases, the
+hiring organisation or person issues much more number of demand notes than required for
+foreign migrant workers for making trade with visa and later sell the demand notes at a high
+price. This additional visa, processed at organisational or personal initiative, is called in
+Bangladesh as ‘free visa’.
+
+The demand for the so-called free visa, especially for the Middle Eastern countries, is higher
+than other contract visa and the selling price of this type of visa is also higher. Through ‘free
+visa’, a kofil or sponsor helps the migrant worker in migration process but it does not guarantee
+jobs. The migrant has to look for jobs, and in this case, the worker can be employed in more
+than one jobs and work for additional time. However, the migrant in Saudi Arabia, for example,
+has to pay a kofil 300 to 500 Riyal a month and at the end of the year, another 300 Riyal for
+renewal of the aqama (visa). In exchange, the kofil provides the migrant worker hassle from
+legal and police action since the system called free visa is not a legal one. Usually, the migrant
+workers whose family members, relatives, or friends stay in Saudi Arabia for quite a long time,
+are interested in availing free visa.
+
+In most cases, the recruiting agencies buy the work orders from hiring organisations for
+supplying migrant workers as per demand notes. In some cases, the work orders are purchased
+at exorbitant rates by some visa traders – big and small – instead of recruiting agencies, in the
+country of destination. Photocopies of demand notes, and letter of power of attorney or
+authorisation letter or okala to recruit migrant workers on behalf of the employers are attached
+with the work orders.
+
+
+
+                                                                                               28
+In the 1980s when different countries of the Middle East including Saudi Arabia began to
+receive migrant workers from Bangladesh, no visa was sold. Rather the recruiting organisations
+bore the costs of air tickets and some other costs of migration. At the same time, the recruiting
+agents, too, received a certain amount as commission from the hiring organisations for
+providing each worker. Even at present, the migrant workers from the Philippines need not
+purchase visa; rather the Saudi employers bear the cost of migration, which is at least Riyal
+3,750 per person.
+
+However, the picture of migration in Bangladesh is quite the opposite. Bangladeshi recruiting
+agencies and other visa traders purchase visa at a high price after paying the levy payable for
+the employer or hiring organisation for each migrant worker. For the unhealthy competition of
+the recruiting agencies and visa traders, the Bangladeshi migrant workers have to pay the
+highest cost for buying a visa. For example, a migrant worker from Nepal, India or Pakistan
+has to spend Riyal 800-5,000 for migrating to Saudi Arabia whereas a Bangladeshi worker has
+to buy the same visa for Riyal 7,000-20,000. The cost of migration to Saudi Arabia for
+Bangladeshi worker has been fixed by the government at maximum Tk 165,000. But a worker
+has to spend about Tk 0.55 million and in some cases up to Tk 1.2 million. To go to other
+Middle Eastern countries and Malaysia and Singapore, the cost varies from a minimum of Tk
+0.25 million to Tk 0.85 million. It takes a long time for the Bangladeshi worker to recover the
+cost, whereas migrant workers from other South Asian countries can recover the cost of
+migration in 2-3 months. In most cases, the validity of the visa and job contract of the migrant
+worker expires in the meantime.
+
+According to different research findings, the cost of migration of Bangladeshi workers to the
+Middle East compared to workers from other countries working there is several times higher
+(ILO, 2014). IOM data show that the cost of migration of the Bangladeshi workers is the highest
+in South Asia. A significant portion of this expense is because of the purchase of visa from the
+labour recipient countries.
+
+       Table 1: Comparative Price of Saudi Visa for Different Sending Countries
+         Countries sending                       Purchasing price of visa
+         workers                                       (Saudi Riyal)
+         Philippines                                        Free
+                                    Worker is given 3,750 riyal for ticket and other costs
+         Nepal                                            500-800
+         India                                          1,000-1,500
+         Pakistan                                       3,000-5,000
+         Bangladesh                                    7,000-15,000
+
+The recruiting agencies or visa traders that secure demand notes for supplying migrant workers
+usually verify and attest the demand notes by the Bangladeshi embassy or high commission in
+the country of destination. In this context, the embassy is supposed to send regular report
+attesting the demand notes submitted to the embassy after verifying whether the employer is
+capable of providing salaries and allowances, dining and lodging on a regular basis, whether
+visa/work permit for the worker is issued and if the employer is in a position to ensure
+employment for the specified number of workers.
+
+Corruption and irregularities in collecting and attesting visa
+1. Illegal visa trading in the country of destination: In reality in most cases a section of
+unscrupulous officials of the hiring organisations, in almost all destinations of Bangladeshi
+workers, following consent from the authorities or beyond their knowledge, sell the demand
+notes or visa, instead of distributing them free of cost – a practice which is totally illegal. In
+some cases, the hiring organisations or persons prepare demand notes seeking higher than
+                                                                                               29
+required number of migrant workers to make business with visa and later sell them at higher
+price.88
+
+2. Siphoning of money from Bangladesh through hundi to buy visa: Since trading of visa
+is prohibited as per laws of Bangladesh and the countries of destination, it is impossible to send
+the necessary money to buy visa through legal, banking channels. As a result, Bangladeshi visa
+traders send the required foreign currency to buy visa through undocumented channels such as
+hundi to the countries of destination.
+
+     Table 2: Purchasing and Selling Price of Visa for Migrant Workers for Countries of
+                    Destination (estimated based on 2016 data) (in BDT)
+                                                                           Total
+                             90% male          Minimum          Minimum             Total selling
+                                                                        purchasing
+ Sl. Country                 workers*         purchasing       selling price            price
+                                                                           price
+                               (2016)         price of visa       of visa           (Million Tk)
+                                                                       (Million Tk)
+ 1    Saudi Arabia          68,064          68,064        5,00,000         8,170       34,030
+ 2    Bahrain               64,879          70,000        2,50,000         4,540       16,220
+ 3    Oman                 1,57,815         70,000        2,50,000        11,050       39,450
+ 4    Qatar                1,03,501       1,20,000        3,50,000        12,420       36,230
+ 5    UAE                   2,692         1,00,000        2,50,000          270          670
+ 6    Malaysia              36,087        1,00,000        3,50,000         3,610       12,630
+ 7    Singapore             49,163        2,50,000        6,00,000        12,290       29,500
+                                                        Total             52,340      168,730
+* Ninety per cent (90%) of male workers are taken into account while estimating.
+
+According to data on labour migration of 2016, a conservative estimate based on 90 per cent
+cases on migration to nine countries where most of the Bangladeshi male migrant workers had
+gone, shows that a minimum amount of Tk 52,340 million was spent only for purchasing visa
+and almost the entire amount was siphoned off through illegal channels / hundi (Table 2).89
+
+3. Attesting demand notes without verifying employer's information: There are allegations
+that in many cases, the demand notes are attested by some of the unscrupulous officials of the
+labour wing of the Bangladesh mission in the country of destination without properly verifying
+details of the hiring organisations/ individuals.
+
+4. Attesting illegal demand note in exchange for money: In some countries of destination,
+there are complaints of attestation of the demand notes in exchange for money and harassment
+against some of the officials of the Bangladesh embassies.
+
+3.2 Visa Trading in Bangladesh
+The demand notes are sold to Bangladeshi recruiting agencies after attestation at Bangladesh
+mission in the country of destination. In some cases, the demand notes are sold without such
+attestation. Generally, the Bangladeshi recruiting agencies collect demand notes for hiring
+migrant workers from different recruiting agencies and hiring organisations in the countries of
+destination. Similarly, the recruiting agencies in the host countries collect demand notes for
+workers from the visa traders. The recruiting agencies also process individual visas collected
+by small visa traders or migrants already working in the countries of destination.
+
+
+88
+   According to a research, 70 per cent of the visa issued in Saudi Arabia is sold in the black market (Shah,
+2008).
+89
+   According key informants, 90 per cent of the male migrant workers have to buy visa while the rest 10 per cent
+does not need to.
+
+                                                                                                             30
+The Bangladeshi recruiting agencies are dependent on middlemen/ dalals posted at different
+levels of their networks for selling out the visas collected through various means. After
+collecting or purchasing group visas, the recruiting agencies inform the dalals of all levels in
+their network about the visa and other requirements – destination country, types of visa,
+facilities to be available, qualifications of the potential migrant workers, and the selling prices
+for the brokers. At this stage, the first tier dalal, depending on his financial capacity and
+network, deposits security money with the recruiting agency for purchasing a specific number
+of visa, against his name (booking). At the same time, the first tier dalal informs all the dalals
+at the grassroots about details of visa and sales price of visa applicable for the grassroots dalals.
+The recruiting agencies, deducting the costs for purchasing visa, make net profits worth Tk
+30,000 – 50,000 for each visa.
+
+Dalals at the grassroots usually maintain contact with potential migrant workers in their
+respective areas round the year. Based on potential migrant worker’s level of skills, physical
+and financial ability, and personal choice assure them of specific visa and start taking money –
+in many cases in installments. When they collect the chosen visa they inform the migrant
+workers of it, take the remaining amount and send the passports and other information of the
+workers to the specific recruiting agency through the first broker.
+
+The price of each visa, when it reaches the migrant worker’s hand, increases manifold through
+value addition at different levels from the collection of visa and changes of hands of
+middlemen. At the final stage, fees for diagnostic tests, visa processing and other government
+charges, income tax and other informal costs are added to the price of visa at the end of the
+migrant worker (see Table 3).
+
+   Table 3: Selling Price of Visa for Different Countries (in Hundred Thousand Taka)
+                           Foreign              Small Bangladeshi              Dalal          Dalal
+                Hiring               Big visa
+Country                   recruiting             visa  recruiting               (1st       (grassroots
+             organisation            trader
+                           agency             trader**   agency                level)         level)
+Saudi
+                  1.2-2.8        1.5-3.2    2.0-3.7 1.2-2.8         4.0-5.5    4.5-6.5      5.0-12*
+Arabia
+Bahrain           0.7-0.8        1.0-1.3    1.2-1.5 0.7-0.8         1.7-2.0    2.0-2.3       2.5-3.5
+Oman              0.7-0.8        1.0-1.3    1.2-1.5 0.7-0.8         1.7-2.0    2.0-2.3       2.5-3.5
+Qatar             1.2-1.5        1.5-1.7    1.7-2.0 1.2-1.5         2.2-3.0    2.5-3,0       3.5-5.0
+UAE               1.0-1.5        1.3-1.8    1.5-1.8 1.0-1.5         2.5-3.5    2.8-4.0       2.5-8.0
+Malaysia          1.0-1.4        1.2-1.5    1.5-2.0    1.0-1.4      2.5-3.0    3.5-5.0       3.5-6.5
+Singapore         2.5-3.0        2.8-3.8    3.5-4.5 2.5-3.0         5.0-6.0    5.5-6.5       6.0-8.0
+* Visa prices fall after resumption of formal migration to Saudi Arabia.
+** Small visa traders generally purchase visa from employer and sell to migrant workers.
+
+Corruption and irregularities in selling visa to migrant workers
+5. Selling of visa by dalals/ brokers to migrant workers: Migrant workers usually rely only
+on face-to-face communication while making financial transactions for purchasing the visa
+from the dalals without knowing details of the jobs abroad. They remain entirely dependent on
+the dalals because of payment of money in installments much before confirmation of visa and
+reliance created out of the social network. The migrant workers believe in whatever information
+about the overseas jobs the dalals provide them. Even in most cases the migrant workers are
+handed over the contracts of jobs just before their departure as they reach the airport.
+
+6. Charging higher prices: Since the dalals are not covered under any institutional framework,
+they are out of any kind of accountability framework. As a result, the dalals, in many cases,
+manage to cheat with the migrant workers, harass them for a long time and charge higher
+amounts alluring them with lucrative job offers.
+
+                                                                                                       31
+7. Female workers illegally charged: The dalals often charge Tk 10,000 – 15,000 from female
+migrant workers willing to go to different countries of the Middle East including Saudi Arabia,
+as domestic helps, on the plea of diagnostic test, collection of emigration clearance certificates,
+sending them to good cities, etc., although, according to rules, they are supposed to be provided
+with visa free of cost.
+
+3.3 Visa Processing and Collection of Emigration Clearance Certificates
+The visa processing is completed at different levels in Bangladesh following collection of visa
+from the host country and confirmation of price of visa at the migrant workers’ level after
+changes of hands. At this stage, approval from different authorities are done, after completing
+diagnostic test of migrant worker, collection of police clearance certificates, visa stamping in
+the worker’s passport or collection of paper visa in the worker’s name, registration with the
+central databank, and collection of emigration certificate through approval by the BMET.
+Subsequently, the migrant worker collects the air ticket and flies to the host country. The
+following figure (Figure 3) shows different steps of visa processing in Bangladesh.
+
+                           Figure 3: Steps of Visa Processing in Bangladesh
+
+
+
+
+Selection of potential migrant workers: In the case of group visa, intending migrant workers
+are selected in the first step. According to the law, the recruiting agencies are expected to collect
+names of potential migrant workers from the database of the BMET, following receipt of work
+order on migrant workers and approval by the Ministry of Expatriates’ Welfare and Overseas
+Employment. There is scope for searching for additional workers by publishing advertisement
+in the newspapers if the required number of workers is not available on the database.90
+However, usually the recruiting agencies select the required number of migrant workers
+through their informal network of brokers, instead of drawing the list from the database.91
+
+In case of choosing workers from the database, the recruiting agencies cannot charge visa cost
+as per their demand. In some cases, the migrant workers, too, are not interested in making
+financial transactions with the recruiting agencies that are unknown to them. It is often not
+possible to choose workers from the database as there is no information on the preference and
+skill of the aspirant migrants.
+
+
+90
+     The Overseas Employment and Migrants Act 2013, Article 19(3).
+91
+     The information on how many workers is chosen from the database is not preserved separately.
+
+                                                                                                    32
+On the other hand, in the case of individual visa collected through personal initiative, the first
+step of visa processing is to contact a registered recruiting agency and make a contract for visa
+processing. Whatever may be the type of visa – group or individual – the application has to be
+submitted to the BMET through any registered recruiting agency, although in case of individual
+visa, the aspirant migrant himself can apply for the ‘one-stop’ service seeking emigration
+certificate and collect required papers by submitting necessary documents. However,
+practically all migrant workers going abroad from Bangladesh are dependent on the recruiting
+agencies for their emigration clearance certificates. In this case, the migrant worker has to pay
+a certain charge to the recruiting agency apart from income tax and other necessary fees.
+
+Diagnostic test of outgoing migrants: The next step is the diagnostic test of the outgoing
+migrant worker. There are specific diagnostic centres for health checkups of the migrant
+workers in accordance with demand and required standard of each host country. The
+association of the diagnostic centres designated for the GCC countries, the major destination
+of most of the Bangladeshi workers, is GAMCA. The recruiting agency collects specific
+number of slips from GAMCA office to complete diagnostic tests of migrant workers. They
+then go to the GAMCA office with the slips and register their names by submitting photo and
+giving finger print. GAMCA then assigns the worker a selected diagnostic centre, where the
+migrant worker takes part in the diagnostic test. An amount of Tk 5,850 has to be submitted
+for this purpose. On completion of the diagnosis, the migrant worker has to submit the slip of
+health checkup to the recruiting agency which then collects diagnostic test report via online.
+
+Subsequently, the competent jobseeker as declared in the medical report, has to apply through
+websites of different countries of the Middle East for attestation of the medical report. For
+example, for Saudi Arabia application for visa and attestation of the medical report has to be
+submitted to https://enjazit.com.sa/. A certain amount as fee in foreign currency has to be
+deposited with the Saudi National Bank. An application number (MOFA Number) is provided
+against an application on the website, subject to submission of correct information. Later, a list
+containing this application number and passport number, has to be submitted again to the
+diagnostic centre. Upon verification of the application number the diagnostic centre issues a
+medical card which is collected by the recruiting agency. There are different practices in
+attestation of diagnostic test report as well, depending on the destinations. In case of Malaysia,
+for example, there is no specific diagnostic centre for medical checkup and the test report need
+not be uploaded on the website.
+
+Corruption and irregularities in diagnostic test
+8. Declaring someone ‘unfit’ for money: Some diagnostic centres allegedly charge much
+higher than the fixed amount from the migrant workers. There are allegations that the centres
+do so by threatening the medically qualified migrant worker that he would be declared
+unqualified. In some cases, a migrant worker has to undergo repeated medical tests on the plea
+of extra caution.
+9. Declaring someone ‘fit’ without test: Some diagnostic centres allegedly issue medical
+certificates without carrying out the required tests.
+
+Visa stamping at embassy of host country: The migrant workers, selected after diagnostic
+tests, have to secure stamping of visa on passport from the embassy of the host country. A
+separate visa application file containing necessary papers has to be prepared for each of the
+migrants. Each file should contain documents including visa application, photocopy of
+passport, police clearance, employment contract, medical cards, agency visa delegation copy,
+and forwarding letter for the embassy concerned. Each worker has to collect his police
+clearance report on his own. The visa stamping is done upon confirmation of authenticity of all
+
+
+                                                                                               33
+papers submitted to the embassy. If there is discrepancy or error in the information provided,
+the file is returned.
+
+In getting visa of some countries such as Oman, Bahrain and Qatar there is no requirement of
+stamping visa on passport since the migrant workers are provided with visa papers printed with
+their names.
+
+Corruption and irregularities in visa stamping
+10. Extracting money illegally while issuing police clearance report: Most of the migrant
+workers allege that the police illegally extract money for issuing clearance certificates. The
+amount is between Tk 500 to Tk 1,000 for each case.
+11. Extracting money while stamping visa: There are allegations of unnecessary
+procrastination, harassment and extracting money illegally against some embassies of host
+countries while stamping visa on passports. The amount of money charged varies depending
+on types of visas and destination countries.
+
+Approval from the Ministry, registration and training: Upon receipt of visa stamped on
+passport or paper visa from the host country, in case of group visa the application has to be
+submitted to the Ministry of Expatriates’ Welfare and Overseas Employment seeking
+permission for appointment of the migrant workers. However, such procedure is not required
+in the case of processing individual visa.
+
+Once the migrant worker receives permission, he has to register with the central database by
+attaching photo and finger print. The official fee for this is Tk 200. Currently, there are facilities
+for registration at the District Employment and Manpower Offices (DEMO) in 25 districts
+outside Dhaka.
+
+After getting the visa stamped on passport or receiving paper visa a worker has to undergo at
+least a three-day pre-departure training session on migrating abroad at a designated training
+centre under the supervision of the BMET. A certificate is also issued for completing the
+training and it is submitted for securing the emigration clearance certificate.
+
+Receipt of the emigration clearance certificate from BMET: As per law, the migrant has to
+collect emigration clearance certificate or manpower clearance from the BMET.92 Emigration
+clearance certificates are of two types – single emigration clearance and group emigration
+clearance. An application submitted for emigration clearance for a maximum of eight workers
+under the same work order on a single day by a recruiting agent would be considered as a single
+visa. If such application is submitted for more than eight workers under the same terms and on
+the same day, it would be considered a group visa and in that case, permission from the Ministry
+should be taken before submitting the application to the BMET.
+
+Before applying for emigration certificate at the BMET, a migrant worker has to make sure
+that all procedures – selection of required number of workers as per work order, visa stamping
+on passport or securing of paper visa upon successful diagnostic tests, registration of names of
+the workers with the central database with photo and fingerprint, completion of necessary pre-
+departure training, and permission for appointment in case of group visa – all are followed
+properly. Later, a file containing all relevant documents of the worker, depending on country
+of destination, has to be filed with the respective section of the BMET. In case of a single visa,
+the papers that need to be submitted are:
+
+
+92
+     The Overseas Employment and Migrants Act 2013, Article 19, 20.
+
+                                                                                                   34
+      1. Application for emigration clearance by the recruiting agency/ in some cases the
+          migrant worker’s application;
+      2. Information on validity of the license of the recruiting agency;
+      3. Copy of visa;
+      4. Photocopy of stamping of visa on passport;
+      5. Employment contract;
+      6. Opinion of Arabic translator where applicable;
+      7. Acknowledgement/ undertaking of recruiting agency with training certificate;
+      8. Undertaking by the worker;
+      9. No objection letter from the family (in case of female workers);
+      10. Attestation by the concerned embassy (in case of female workers);
+      11. Information on payment of different government fees (receipt of income tax,
+          Expatriates’ Welfare Fund fee, smart card fee);
+      12. Declaration that cost of visa not exceeding the official threshold.
+
+For emigration clearance in case of group visa, the original work order, power of attorney,
+approval for appointment from the Ministry, BMET’s approval for appointment and all other
+papers that applicable for single visa are to be submitted to the BMET. Before submitting the
+application for emigration clearance to the BMET, different fees need to be deposited through
+pay order to scheduled banks and through pay order in favour of Bangladesh Bank or relevant
+branch of Sonali Bank.
+
+Table 4: Amount of Money Collected Illegally for Endorsement by Different Authorities
+                   in Visa Processing and Clearance of Certificate
+ Sl.     Sectors of unlawful financial transactions        Amount charged      Number of visa
+                                                            for each visa         in 2016
+ 1.      Approval for group visa by the Ministry            13,000-15,000          61,122
+         Emigration certificates from BMET for Malaysia-
+ 2.                                                          5,000-15,000           40,126
+         bound low-skilled, semi-skilled workers
+ 3.      Approval from BMET for emigration certificates         100-200            6,83,107
+ 4.      Collection of police clearance certificates           500-1,000           7,57,731
+
+For receiving emigration clearance from the BMET, the migrant worker himself/ herself has
+apply or apply through a recruiting agent. However, in reality, the ‘one-stop service’ is not
+effective at all. It may be mentioned that only 301 workers received one-stop service in 2016.
+The agent of the recruiting agency generally prepares separate files for each of the migrant
+worker for emigration clearance. Each file with signature of the concerned official confirming
+permission in the forwarding letter has to be submitted to the respective section. The emigration
+clearance certificate is issued after examining the authenticity of the visa for the worker,
+contract with the employer, and undertaking and the certificate is given through smart card. At
+this stage, upon verification and attestation by the section clerk, the Assistant Director and the
+Deputy Director, the file is sent to the Director for endorsement.
+
+The Director can approve emigration clearance for a maximum of 20 migrant workers
+simultaneously and if the number exceeds, s/he refers the file with recommendation to the
+Additional Director General for approval. The Additional Director General can approve
+emigration clearance for a maximum of 40 migrant workers simultaneously and if it exceeds
+40, s/he refers the file with recommendation to the Director General. After approval, the file is
+returned to the section clerk for making entry of all the information in the file into the central
+database. Upon entry of all information, the smart card is printed. Later on, the recruiting agent
+collects the emigration clearance certificate or smart card. Finally, the signature of the
+concerned official of the BMET with the clearance number on the passport of the worker has
+
+                                                                                                35
+to be ensured. Generally, the emigration clearance is collected from the BMET on the same
+day.
+
+                   Figure 6: Emigration Clearance Approval Process in BMET
+
+
+
+
+Corruption and irregularities in visa processing
+12. Extraction of money for approval of group visa: A section of unscrupulous officials at
+the Ministry of Expatriates’ Welfare and Overseas Employment allegedly charges Tk 13,000
+to Tk 15,000 for each visa illegally for issuance of the permission for appointment. To avoid
+illegal payment while collecting the emigration clearance, many recruiting agencies often split
+the group with a maximum of eight workers and submit application on separate days.
+
+13. Selecting workers out of BMET database: The recruiting agencies, in most cases, select
+migrant workers through their informal network of dalals, instead of picking them from the
+BMET database, whereas according to rules, if required number of workers is not available on
+the database, advertisement must be issued in the newspapers for searching for additional
+workers.93
+
+14. Collecting pre-departure training certificate in exchange of money: There are
+allegations that the migrant workers, in some cases, collect training certificates without taking
+part in the required training session or without being present there even, by paying additional
+money.
+
+15. Extracting money illegally for emigration clearance: When the migrant workers collect
+emigration clearance certificates, each of them is allegedly charged Tk 100 to Tk 200, in
+violation of rules, by a section of BMET officials.
+
+16. Emigration clearance for Malaysia issued in exchange of money: Appointment of low-
+skilled and semi-skilled workers from Bangladesh to Malaysia remained suspended since 2009.
+The process resumed through the signing of an MoU in February 2016 to send workers under
+an official management through Government-to-Government (G2G) process. Although 1.5
+million registered their names on the database, only 11,000 got the opportunity to go to
+Malaysia. According to BMET data, about 30,000 workers went to Malaysia with different
+kinds of visa in 2015 and about 40,000 in 2016 under private management taking emigration
+
+93
+     The Overseas Employment and Migrants Act 2013, Article 19(3).
+
+                                                                                              36
+clearance certificates from the BMET. In these cases, there are allegations that low-skilled and
+semi-skilled workers were sent showing them as skilled workers. According to the findings the
+emigration clearance certificates of these workers were endorsed in exchange for money
+illegally drawn by a section of unscrupulous officials of Malaysia Immigration, the embassy
+concerned, and other relevant authorities. At the BMET, it was alleged that an amount between
+Tk 5,000 and Tk 15,000 was charged for issuing each of the emigration certificates for going
+to Malaysia.
+
+Recently an MoU has been signed for recruiting Bangladeshi workers under G2G-plus method
+or public-private joint management. In this process, Bangladesh recruiting agencies selected
+from Malaysia would be authorised to send workers. It has been alleged that only 10 out of
+1,073 Bangladeshi agencies have been selected for the process. This kind of syndicate has
+rather created monopoly for charging high rates for migration.94
+
+A picture of extracting money illegally for processing visa at different levels of the government
+authorities and collection of emigration clearance has been drawn from the above discussion
+(see Table 5).
+
+       Table 5: Extracting Money Illegally in the Labour Migration Process (2016)
+ Sl. Concerned authority                    Area of Illegal            Number of          Amount of
+                                            Transaction                Visa in 2016     Money Collected
+                                                                                         for each Visa
+                                                                                              (Tk)
+ 1    Ministry of Expatriates’ Welfare      Approval for group             61,122       13,000 – 15,000
+      and Overseas Employment               visa
+ 2    BMET                                  Approval of                   757,731            100 – 200
+                                            Emigration Clearance
+ 3    Police                                Police clearance              757,731           500 – 1,000
+      Country-wise money extraction
+ 4    BMET                          Emigration clearance                   40,126         5,000 – 15,000
+                                    for low-skilled or
+                                    semi-skilled workers
+
+3.4 Conclusion
+The discussion in this chapter shows that the process of labour migration from Bangladesh
+mainly involves three steps. At the first step, work orders or visas are traded because of
+corruption and irregularities committed by employers of the country of destination and
+middlemen concerned. On the other hand, there is corruption involving endorsement of visa at
+the labour wing of Bangladesh mission in the country of destination. The local recruiting agents
+siphon off money to the country of destination through illegal hundi to purchase work order or
+visa.
+
+At the second step of the labour migration, visa is sold to the potential migrant worker. At this
+stage, the recruiting agencies, operating through sub-agents or dalals at different tiers, select
+the migrant workers and the dalals sell visa to the aspirant migrants. The price of visa increases
+manifold due to changes of hands. Besides, money is collected unlawfully from the female
+migrant workers although they are supposed to be entitle to free of cost facility for migration.
+
+At the third step, a complex process is followed during the processing of visa where a number
+of stakeholders are involved. A significant amount of money is collected illegally at every step
+
+94
+  For details see Porimol Palma and Belal Hossain Biplob, ‘Malaysia may recruit through 10 agents’, The Daily
+Star, 30 November 2016.
+
+                                                                                                           37
+starting from diagnosis, police clearance certificates, visa stamping, approval from the
+ministry, registration and pre-emigration training to collection of final emigration certificate.
+
+In the next chapter, the causes and impacts of corruption and irregularities are discussed.
+
+
+
+
+                                                                                              38
+                                                                                         Chapter 4
+        Causes and Impacts of Mal-governance in Labour Migration
+
+
+
+A number of problems, corrupt practices and irregularities has been identified in the process of
+labour migration from Bangladesh. These have some short and long-term impacts. In this
+chapter the causes and impacts of these problems, corrupt practices and irregularities have been
+discussed.
+
+Causes of problems of governance in labour migration process
+The problems of good governance in labour migration process could be divided into three
+categories – legal, institutional and procedural. These are discussed below.
+
+4.1 Legal and Enforcement Constraints
+There are lack of some clear and realistic guidelines in the major law on Bangladesh’s labour
+migration – the Overseas Employment and Migrants Act 2013. The personal arrangement for
+labour migration has not been mentioned in the law although the lion’s portion (almost 90 per
+cent) of the labour migration from Bangladesh is done through individual initiatives. Rather it
+has been mentioned that the authority to send migrant workers abroad is of the government
+agencies and recruiting agents and liabilities of the employment contract are said to be of the
+recruiting agents alone or jointly with employers. As a result, those who try to migrate have to
+apply through the recruiting agencies, although in most cases, the recruiting agents have no
+knowledge about the migrant workers and the employer.
+
+Some of the provisions of the law (such as selection of workers, determination of amount of
+compensation etc.) are simply directory in nature, not mandatory, which weakens the law. For
+instance, Article 18 stipulates cancellation of license of the recruiting agents and compensation
+for the affected migrant workers, however, which has not been made mandatory (Parvez et al,
+2016). Moreover, the role of the brokers active in the sector has been kept out of the purview
+of the law, as it has mentioned that the authority to send migrant workers abroad is of the
+government agencies and recruiting agents. The control of all activities relating to recruitment
+and emigration of workers from Bangladesh for the purpose of overseas employment shall be
+vested in the Government or its delegated authorities,95 but does not mention how far it would
+be controlled.
+
+This law has not been effectively implemented till date because of the confusions in taking
+punitive measures under it. Article 14 of this law give authority to the First Class Judicial
+Magistrate or in some cases the Metropolitan Magistrate to implement this law. However, this
+provision contradicts Article 33 and 34 of this law since punitive measures specified under the
+two articles are beyond the jurisdiction of the mobile court. For example, according to the Code
+of Criminal Procedure 1898, a First Class Judicial Magistrate or the Metropolitan Magistrate
+in some cases can give a maximum sentence of five years of imprisonment and fine of Tk
+10,000. This Act has been scheduled in the Mobile Court Act 2009. However, under this Act a
+judgement exceeding two years of imprisonment cannot be given.96
+
+
+
+95
+  The Overseas Employment and Migrants Act 2013, Article 3(1).
+96
+  RMMRU, Ensuring Prosecution under the Overseas Employment and Migrants Act 2013, Policy Brief 20,
+2016.
+
+                                                                                                      39
+The legal provision that the migrant workers should be selected from among the ones registered
+with the database is not realistic in view of Bangladesh realities. In fact, recruiting agencies
+choose migrant workers with the help of their own brokers. Furthermore, there are examples
+of giving approval to the workers who are chosen from outside the list of the database. The
+Ministry has issued orders more than once for giving approval to the applications violating the
+database.97
+
+There are certain inconsistencies visible in the rules of the law on migration. In the migration
+regulations, the roles and duties of the Immigrant Registrars and Labour Attaché have been
+defined but any process to bring them under any accountability mechanism has not been
+specified. Punishment for crimes and irregularities relating to migration has been mentioned in
+the Rules on Recruiting Agencies’ License and Conduct but no provision for compensation for
+the migrants has been specified. No regulations based on the Overseas Employment and
+Migrants Act 2013 have been framed as yet, so the regulations made in 2002 still remain
+effective. As a result, proper regulation and monitoring of the sector in view of the latest
+realities is not possible.
+
+4.2 Institutional Constraints
+A major cause of existing problems, corruption and irregularities in the labour migration
+process is the institutional constraints of the partner organisations.
+
+4.2.1 Lack of adequate institutional capacity
+Lack of financial capacity: Lack of financial capacity of the government organisations
+involved with the labour migration is noticeable. The budgetary allocation for the sector is
+inadequate at the one hand, and the money allocated cannot be fully utilised, on the other. In
+2015-16 fiscal years, the allocation for the Ministry of Expatriates’ Welfare and Overseas
+Employment was Tk 470,93,58,000 (about 50 per cent development budget), of which
+372,61,36,000 (79 per cent) was utilised and Tk 98,32,22,000 remained unutilised.98 The
+allocation for the BMET was 70.43 per cent of which 94 per cent was utilised but of their
+allocation of Tk 72,47,88,000, the labour wings managed to spent about 70 per cent of the
+allocation.
+
+Shortage of required manpower: There is shortage of manpower in both private and public
+sector bodies engaged in labour migration. The vacancy rate is 36.7 per cent at the Ministry of
+Expatriates’ Welfare and Overseas Employment, 18.6 per cent at BMET, 36.8 per cent at
+DEMO, and 43.8 per cent at TTCs.99 The shortage of manpower at the BMET training centres
+results in deficiency in pre-departure training.100
+
+Again, labour wings have been opened in the countries where the rate of migration of workers
+from Bangladesh is poor (only 2-3 per cent), while the manpower at the labour wings has not
+been increased in major destination countries. In most cases, only the high level officials are
+posted at the labour wings, who are reluctant to verify field level applications for appointments,
+and as a result, there is lacking in verifying the demand notes for appointment.
+
+4.2.2 Lack of de-centralisation in labour migration activities
+De-centralisation in visa processing activities and recruiting agents is still lagging. The offices
+of the stakeholders (recruiting agents, BMET, the Ministry, embassies of the host countries,
+
+97
+   For example, office order no. 49.003.514.00.2010-183 (6), 13 April 2014, the Ministry of Expatriates’
+Welfare and Overseas Employment, Source: Expatriates’ Manual, Third Edition.
+98
+   The Ministry of Expatiates’ Welfare and Overseas Employment, Annual Report, 2015-2016, p. 11.
+99
+   Ibid, p. 3.
+100
+    Source: RMMRU, Press Conference held on 28 December 2016.
+
+                                                                                                           40
+diagnostic centres, travel agents etc.) in visa processing are largely located in Dhaka, which
+means that the aspirant migrant worker has to come to Dhaka more than once to complete all
+the formalities. As the migrant workers, in most cases, are less educated and not familiar with
+Dhaka city (since they come from rural areas), they have to depend on dalals. On the other
+hand, the offices of almost all recruiting agencies are in Dhaka (and in Chittagong) and they
+have no branch at the grassroots, and thus they too have to depend on the dalals for selection
+of the migrant workers. As a result, the sector as a whole is dependent on dalals.
+
+4.2.3 Lack of coordination among stakeholders
+There is also lack of coordination among the stakeholder organisations involved in visa
+processing. For example, a migrant worker has to give biometric identity, i.e., finger print and
+photo more than once as part of the migration process. Besides, in the cases of group visa and
+visa for unfamiliar nations application has to be submitted to both the Ministry and the BMET.
+This process involves complexity and procrastination and in cases creates scope for corruption.
+
+There are allegations of difference of opinion between the Ministry of Foreign Affairs and the
+Ministry of Expatriates’ Welfare and Overseas Employment on jurisdiction over the labour
+wings for functioning at home or at the Bangladesh missions abroad. There are allegations of
+non-cooperation from other ministries although they are supposed to work through to expand
+the labour market.101
+
+4.2.4 Shortcomings in regulation and monitoring
+There are shortcomings in the process of regulation and monitoring in addressing the issues of
+sales and visa trading in the destination countries, verify the legality of employment in host
+country, and costs of migration in Bangladesh. The reasons of failure to provide required
+services by the labour wings also include long distances in geographically large territories, lack
+of skilled officials and manpower and want of money to provide legal services to the migrant
+workers. Many mission do not have the kind of vehicles required to move from one part to
+another in large countries such as Saudi Arabia.102
+
+There is huge shortcoming in appointment and training of the officials of Bangladesh’s labour
+wings. A comparative report shows that there is no guideline with regard to appointing the
+labour wing officials in Bangladesh, whereas Sri Lanka appoints only the labour ministry
+officials at the labour wings. Instead of considering specialised skills in Bangladesh, cadre and
+non-cadre officials of different ministries are appointed at the labour wings. There are
+allegations of lobbying and political persuasion for giving appointments at the missions abroad.
+For appointment in one position, there are more than one candidates recommended by ministers
+and advisers. There are allegations that candidates who win in the power struggle get
+appointment.103
+
+4.3 Procedural Constraints
+Procedural constraints are one of the major causes of existing problems, corruption and
+irregularities in the labour migration process.
+
+4.3.1 Complex and long migration process
+The entire process of migration is complex and time-consuming. It involves 27 steps from
+collection of visa to collection of emigration clearance and smart card. Of them, there are 11
+
+101
+    Bangladesh Protidin, ‘Labour wings of missions fails due to lobbying and politicised appointment’,
+http://www.bd-pratidin.com/last-page/2014/11/19/44504.
+102
+    RMMRU, 2014, ‘Institutional Strengthening of the office of Labour Attaché: Bangladesh, India and Sri
+Lanka’.
+103
+    Ibid.
+
+                                                                                                           41
+steps only at the BMET. For collecting visa, most of the migrant workers keep on giving money
+to brokers or small visa traders for a long time. Upon collection of visa, 2-3 months are spent
+to complete the visa processing. It takes 3-5 days to receive emigration clearance certificate in
+case of attested visa and 7-15 days in case of unattested visa. There are allegations of illegal
+transactions of money and whether an approval process would be procrastinated depends on
+such transactions.
+
+On the other hand, the process of securing emigration clearance certificate is totally dependent
+on recruiting agencies. According to rules, there is no scope for low-skilled and semi-skilled
+migrant workers to apply personally for emigration certificates. One-stop service is given to
+only a few people. According to BMET data, only 301 outgoing migrants were provided one-
+stop service in 2016.
+
+Constraints in using database
+Questions are raised over how far the database under the management and control of the BMET
+is effective. According to rules, the intending migrant workers are expected to register with the
+BMET and recruiting agencies are expected to collect names of potential migrant workers from
+the database as per demand of the employers. But practically it is not useful. According to the
+rules, the workers were supposed to be selected form the database while sending workers to
+Saudi Arabia. However, an order was issued by the Ministry that those who began migration
+process before 2013 need not register with the BMET database. There are allegations that an
+amount of Tk 15,000 was charged for each passport for issuing the permission.
+
+Also, it is not realistic to use this database. Preferred job and country is not mentioned in the
+database. After a long period of time people who had registered earlier might have lost interest
+or found a job. Since the recruiting agencies sell visa, the migrant workers are not interested in
+buying visa from unknown recruiting agencies if they are contacted picking from the database.
+
+Dependence on informal method
+Dalal-based migration process: The labour migration process is almost entirely dependent on
+dalals. Thus, a direct contact between the licensed recruiting agents and the worker willing to
+migrate is almost absent. The migrant workers are mostly dependent on brokers for information
+relating to hiring abroad and terms of services, migration, processing of migration etc.
+Similarly, the recruiting agents are also dependent on the brokers to select migrant workers
+from the grassroots, keep in touch with them, assistance in processing visa etc. For these
+reasons, a significant portion of the migrant workers cannot take receipt for any kind of
+financial transaction. Such practices make it impossible to present documentary evidence of
+spending in this sector.
+
+Scope to pay in installment: The local brokers offer the opportunity to make the payment in
+installments. The migrant workers in general cannot afford to pay the entire amount in one
+tranche. So they deposit certain amount with the local brokers and clear the payments once the
+visa is collected. Because of this ‘facility’ the migrant workers are dependent on brokers.
+
+Siphoning off money through informal process: According to the Overseas Employment and
+Migrants Act 2013 (Article 33), using unlawful means for collecting demand note, visa or
+work-permit for overseas employment, or for trading in such documents is a punishable
+offence. As a result, money to purchase work order or visa is sent through illegal means (hundi).
+
+Lack of documentary evidence on actual costs of migration
+The migration cost has not been fixed for all the countries. For Saudi Arabia, the maximum
+permissible cost was fixed at Tk 165,000 on 30 August 2016. The expenses include different
+
+                                                                                               42
+government fees, diagnostic test fee, passport fee, and cost of the recruiting agency. Although
+a much higher amount is charged for migration, the recruiting agencies give the migrant
+workers a voucher mentioning the government approved amount. In most cases, the migrant
+workers do not deposit any amount with the recruiting agency as they pay the money to the
+brokers. At the one hand, the government does not have the information on migration costs
+applicable for other countries, while on the other hand, the amount that should be provided as
+compensation in case a migrant worker is cheated, cannot be fixed properly and the migrant
+worker concerned is deprived of proper compensation due to lack of documentary evidence.
+
+Higher supply of migrant workers compared to demand
+A large portion of Bangladeshi youth is interested in going abroad with jobs. These potential
+migrant workers are willing to buy visa at any cost and deposit money with the brokers. On the
+other hand, the demand for labour in the countries of destination is limited and in the past few
+years migration to a number of major destinations remained suspended. As a result, there has
+been a tendency to migrate to those destinations going beyond the legal channels. Taking
+advantage of the situation, visa traders in the countries of destination created an unholy
+competition and the middlemen have shown the tendency of making windfall profit.
+
+Lack of awareness of migrant workers
+The major portion of the Bangladeshi migrant workers lacks education and skills. Given the
+complex migration process and lack of necessary information on this, as well as advantage of
+social network of brokers, the migrant workers have their confidence and reliance on the
+brokers. They do not bother about the cautionary signals from the government and other
+stakeholders.
+
+Information deficiency
+Lack of publicity of authentic information about overseas employment: Decision of overseas
+employment is an important issue and it is essential to make authentic information about this
+available. Currently, information on overseas employment are disseminated from DEMOs in
+42 districts and a number of non-government organisations are providing such information.
+However, the government is lacking in generating and distributing necessary information on
+overseas employment, especially working opportunities in different destinations, pay package
+for each service, facilities available there etc. The people who are willing to migrate abroad
+have to depend on informal persons to get information about migration. Even the relevant
+websites (of the Ministry, BMET and BAIRA, for example), no such information is available.
+
+Lack of publicity of authentic information about labour migration process: The entire
+process of labour migration is complex, which involves a number of steps and a number of
+stakeholders. Since most of the migrant workers come from rural areas, they are not familiar
+with this process and they have to depend on the brokers. There is shortcoming in information
+on the process of labour migration. For example, there are booklets at the DEMOs but their
+number is scarce.104 Again, there is no clear information in lucid language about the labour
+migration in the websites of the Ministry, BMET, BOESL, and even BAIRA.
+
+4.4 Deficiency in Enforcement of Law
+It is observed that optimum level of enforcement of law has not been possible in labour
+migration sector in the context of the corruption and irregularities in the migration process. The
+High Court issued a rule on 5 March 2015 asking the government to explain as to why no case
+
+104
+   In 2015-16 fiscal year the number of leaflets was 55 thousand and booklets 38 thousand, which were
+distributed by BMET at divisional and district levels, whereas in 2016 the total number of outgoing migrants
+was more than seven hundred 57 thousand. Source: The Ministry of Expatriates’ Welfare and Overseas
+Employment, Annual Report, 2015-16, p. 22.
+
+                                                                                                               43
+was filed on human trafficking under the Overseas Employment and Migrants Act 2013.105 So
+far eight cases were filed under the purview of this law but any of them is yet to be disposed
+of.106 Despite occurrence of many incidents of victimisation, the victim cannot feel encouraged
+to take legal step, fearing that he would not be able to go abroad with jobs. Weak financial
+ability of the victim, intimidation by the powerful quarters, and lack of knowledge about the
+legal rights of the migrant workers are responsible for lack of enforcement of the law.107
+
+Most of the complaints raised by the victim migrant workers against the recruiting agents are
+not settled, at the one hand, and even if some are settled, the compensation for the victims
+cannot be realised, on the other. For example, in 2015-16 financial year, only 89 (23.42 per
+cent) out of 380 such cases were resolved and only Tk 890,000 were realised as compensation
+after complaints were proved right, and thus the average compensation stood at Tk 10,000.108
+In 2015-16 in fiscal years, license of two recruiting agencies was cancelled and license for
+seven more agencies was suspended.109
+
+A 23-member Vigilance Taskforce comprising representatives from the Ministry of Home
+Affairs, the Ministry of Foreign Affairs, the Ministry of Civil Aviation and Tourism, the
+Ministry of Women and Children Affairs, and members of law enforcement agencies
+(Immigration Police, SB, BGB, Ansar-VDP, NSI and RAB) led by the Ministry of Expatriates’
+Welfare and Overseas Employment was formed in March 2012 in order to bring dynamism in
+labour migration, ensure transparency and accountability in the activities of the recruiting
+agencies, stop immoral financial competition on the visa, and prevent illegal and irregular
+migration of outbound workers.110
+
+The Vigilance Taskforce carried out drives in different routes including the specific routes to
+prevent illegal migration. The Taskforce also visited some of the recruiting agencies engaged
+in illegal migration and pathological labs/clinics meant for health diagnosis of the migrant
+workers. The aim of these drives was to ensure that no migrant worker falls victim to illegal
+migration nor should he pay much higher amount for migration. The outbound passengers
+among the migrant workers at the immigration line of the airport were interviewed on the basis
+of random sampling and their papers (passport, employment visa, emigration clearance report
+from the BMET etc.) were verified in order to check if the migrant workers were going abroad
+by following the due process. If there was deficiency in required papers, the papers of the
+migrant workers were seized and they were stopped from travelling for the time being. 111
+
+The steps that are taken to address different irregularities relating to labour migration include
+requesting the BMET and the Ministry of Home Affairs to investigate into complaints against
+middlemen and brokers, taking steps to stop advertisement in the newspapers that allure people
+with lucrative jobs abroad, issuing show-cause notice and suing the recruiting agency/visa
+consultants sending semi-official letters to the Deputy Commissioners requesting for
+conducting mobile courts on complaints of labour migration, and requesting the Ministry of
+Home Affairs to conduct the mobile court by the RAB-appointed magistrates. In 2015-16, two
+recruiting agencies were fined under Article 32 of the Overseas Employment and Migrants Act
+
+105
+    This rule was decreed following a writ lodged by RMMRU. Source: The Daily Star, ‘Helping illegal
+migration: why not filing cases against offenders under migration act?’, 6 March 2015.
+106
+    Based on the discussion at a seminar on the Overseas Employment and Migrants Act, held on 15 November
+2016 by RMMRU.
+107
+    RMMRU, Ensuring Prosecution under Overseas Employment and Migrants Act, 2013, Policy Brief 20,
+2016.
+108
+    The Ministry of Expatriates’ Welfare and Overseas Employment, Annual Report, 2015-16, pp. 18, 11.
+109
+    Ibid, p. 18.
+110
+    Ibid, p. 13.
+111
+    Ibid, p. 20.
+
+                                                                                                        44
+2013 for publishing advertisement in the newspaper without the permission of the Ministry.112
+However, there are question on how far this punishment is effective and whether there is any
+impact of this punishment.
+
+4.5 Analysis Based on Governance Indicators
+The indicators, prepared on the basis of IOM-developed indicators and other research findings,
+that can be used for measuring governance in the labour migration sector are transparency,
+accountability, capacity and effectiveness, and rule of law. If labour migration is analysed on
+the basis of these indicators, it may be found that:
+
+1. Transparency involves availability of information on migration and publication of
+   information on migration process. In this case, information on migration (cost, terms,
+   process) is not available, information on migration process is not published in lucid manner,
+   and documentary evidence of actual expense of migration is not available.
+2. Accountability involves strong monitoring and regulation of labour migration activities,
+   separation of tasks in migration management, and accountability of all stakeholders.
+   However, according to the study findings, there is shortcoming in terms of monitoring and
+   regulation, duplication of tasks by different organisations, and lack of accountability of all
+   stakeholders.
+3. Capacity and effectiveness includes able and effective structure of migration
+   management, smooth and quick migration process and lower cost of labour migration. But
+   the stakeholder organisatons have deficiency in terms of institutional capacity, the labour
+   migration is complex, time-consuming, and dependent on individuals, and above all, the
+   cost is very high.
+4. Finally, although it is important to have legal and policy framework and proper and fair
+   enforcement of law for ensuring rule of law, the main barriers (to rule of law) are legal
+   constraints, deficiency in enforcement of law, existing corruption and irregularities in
+   migration process, and failure to ensure fair and just compensation for victims.
+
+                       Table 6: Analysis Based on Governance Indicators
+ Indicator           Sub-indicator                     Problem
+ Transparency         Availability of information on   Necessary information on migration (cost,
+                       migration                         terms, process etc.) are not available
+                      Dissemination of information on  Information on migration are not
+                       migration                         published in lucid language
+                                                        Documentary evidence on actual cost of
+                                                         migration is not available
+ Accountability  Strong monitoring and regulation of   Lack of monitoring and regulation
+                  labour migration process              Duplication of similar tasks by more than
+                 Divisions of tasks in migration        one organisation
+                  management                            Accountability of all stakeholders not
+                 Accountability of all stakeholders     ensured
+ Capacity &      Able and effective structure for      Lack of capacity of stakeholders involved
+ Effectiveness    migration management                  Complex, long process
+                 Smooth and quick migration process    Informal process dependent on individuals
+                 Lower cost of labour migration        Process requiring high costs
+ Rule of law     Necessary legal and policy framework  Limitations in law
+                 Proper and fair enforcement of laws   Limitation in enforcement of law
+                                                        Prevalence of corruption and irregularities
+                                                         in migration process
+                                                        Fair and accurate compensation cannot be
+                                                         ascertained
+
+112
+      Ibid, p. 20.
+
+                                                                                              45
+4.6 Impact of Governance Deficiency in Labour Migration
+The above discussion confirms that there is significant deficiency in governance in labour
+migration from Bangladesh. A number of issues such as legal, institutional and procedural
+constraints are responsible for this situation. The impacts of governance deficiency are
+identified as follows.
+
+4.6.1 Negative effects of siphoning off money on economy
+The money that is spent in the labour receiving countries for visa trading is sent illegally. That
+leaves a serious negative impact on the economy of Bangladesh. Based on 2016 data an
+estimate shows that the amount that was siphoned off for purchasing visa stood at Tk 52.34
+billion, which accounts for 4.88 per cent of the total remittance received in that year.
+
+4.6.2 Not getting optimum results of migration due to high migration cost
+The involvement of the middlemen at different steps of migration, tendency to make windfall
+profit and corruption and irregularities in the partner organisations of the government lead to
+the increase in the cost of migration, which is ultimately borne by the migrant workers. The
+price of visa increases manifold through change in hands from the employer in the destination
+country to the grassroots brokers. Besides, the migrant workers are charged money unlawfully
+during the processing of visa at different steps. If there is no corruption and irregularities in the
+process, the migrant workers could have recovered the cost much earlier and earned much
+higher. As a result, a migrant worker cannot reap the optimum benefit of migration.
+
+The breakdown of the government-fixed cost of migration can be found in an example of
+analysing the cost of migration to Saudi Arabia. The fixed cost of migration to this Middle
+Eastern country is Tk 165,000. If this sum of money is really charged, 31 per cent of this amount
+is spent for air ticket, health checkup and other fees, and the rest (69 per cent) for the recruiting
+agency. If the real amount charged (Tk 500,000 on average) is analysed, the percentage spent
+for air ticket, health checkup and other fees is only 10 per cent and the rest (90 per cent) is
+spent in favour of the recruiting agency (see Figure 7).
+
+          Figure 7: Comparative Analysis of Cost of Migration for Saudi Arabia
+
+
+
+
+4.6.3 Risk of being cheated and deprived
+The documentary evidence on transactions of money is not available, since the entire process
+of collection of visa is informal. In absence of clarity in information on types of job, salaries
+and other benefits, terms and migration cost, the outbound migrant workers run high risks of
+being cheated. At the same time, since there is no proper knowledge about the job, the migrant
+
+                                                                                                  46
+workers bear the higher chance of being cheated and deprived in the country of destination.
+According to a report, 77 per cent of the migrant workers from South Asia in the Middle East
+do not get due wages.113 Besides, many migrant workers on foreign land cannot get jobs after
+migration and face arrest and even deportation.114
+
+4.6.4 Deprived of due and just compensation
+The expenses the migrant workers make for collecting and processing visa are mostly not
+supported by evidence or slip. The migrant workers cannot show such documentary evidence
+even after spending much higher than fixed amount for migration. So, if a migrant worker sues
+an agency for compensation after being cheated, can at best get the government-fixed amount
+which is lower than the actual cost. For example, in 2015-16 financial year, only 89 (23.42 per
+cent) out of 380 such cases were settled and only Tk 890,000 or Tk 10,000 per head, was
+realised as compensation and handed over to the migrant workers.115
+
+4.6.5 Rising trends of migration through illegal routes
+Governance deficiency in the labour migration sector has been identified as the key reason for
+the rise in the tendency to go abroad through illegal routes in the past few years (Rashid and
+Ashraf, 2016). This research finds that the tendency of illegal migration to different countries
+has risen due to high cost of visa for failure to regulate its price, suspension of labour migration
+to a number of key destinations, lack of monitoring, and weak enforcement of law. For
+example, although migration to Malaysia remained suspended since 2007-08, the labour
+migration through obtaining of other kinds of visa, pretending as students or tourists did not
+stop. It is seen that innumerable people seeking migration in search of jobs through illegal
+routes in view of lower costs fall victim to human trafficking. According to the United Nations
+High Commissioner on Refugees, between 2012 and 2014 the number of people who fell victim
+to trafficking through sea routes was 120,000.116 Moreover, the tendency to migrate to other
+countries without employment visa is also noticeable.
+
+4.6.6 Risk of being illegal abroad
+After spending a higher amount for migration, the migrant workers try to recover the cost as
+soon as possible. In order to increase income, the Bangladeshi migrant workers often change
+jobs and/or engage in more than one jobs violating the contract, and are bound to overstay
+beyond their tenure (validity of visa and contract). Thus Bangladeshi migrant workers run
+higher risks of becoming illegal abroad.
+
+4.7 Conclusion
+The discussion in this chapter suggests that there are legal, institutional and procedural causes
+of problems, corruption and irregularities in the labour migration process. There are a number
+of negative effects of governance deficiency in the process. In the next chapter how to
+overcome the problems is discussed.
+
+113
+    For details see, Rajib Ahmed, ’77 per cent workers are deprived abroad’, Daily Prothom Alo, 8 December
+2016.
+114
+    See for example Daily Prothom Alo, ‘Another 30 are returning after being jobless in Saudi Arabia’, 17
+November 2016; Daily Prothom Alo, ‘HRW Reports on repression of house maids: I was sold’, 14 July 2016;
+Daily Prothom Alo, ‘21 sold out in the name of job’, 19 May 2016; Daily Prothom Alo, ‘22 Bangladeshis
+victims of fraudulence returning from Sudan’, 7 September 2014; Shariful Hasan, ‘Cost not recovered,
+Bangladeshis do not want to leave Iraq’, Daily Prothom Alo, 22 July 2014.
+115
+    The Ministry of Expatriates Welfare and Overseas Employment, Annual Report, 2015-16, p. 18. Moreover,
+in 2014-15 financial year, only 82 cases were settled and Tk 5,039,400 (Tk 61,500 on average) was realised as
+compensation and handed over to the migrant workers. Source The Ministry of Expatriates Welfare and
+Overseas Employment, Annual Report, 2015-16, p. 11.
+116
+    Shariful Hasan, ‘UNHCR’s information: 1,25,000 human trafficked through sea route in three years’, Daily
+Prothom Alo, 18 December 2014.
+
+                                                                                                            47
+                                                                                          Chapter 5
+                                                Conclusion and Recommendations
+
+
+
+5.1 Overall Observations
+The findings of this research show that there is lack of clarity in the legal framework in some
+cases, such as lodging complaints, retrenchment of workers, and realisation of compensation.
+The relevant law is not being implemented at an optimum level due to some constraints in the
+enforcement of law. On the other hand, in monitoring and regulation of the labour migration
+there is deficiency in institutional capacity.
+
+The process of labour migration from Bangladesh is long, complex, uncertain and still Dhaka-
+centric – a reality which is prone to corruption. This process is dependent on informal
+individuals and process, and as a result this enhances the risks of the migrant workers being
+cheated and deprived. After being cheated, a migrant worker cannot get the due compensation
+due to lack of documentary evidence in support of his payment. There is also shortcoming in
+openness of information and thus the migrant workers cannot know about the working
+environment in the country of destination, salary and other benefits, price of visa, and migration
+costs and that is why they depends on the brokers.
+
+Irregularities and corruption are prevalent in the migration process from Bangladesh. There are
+allegations of illegal financial transactions at different stages of visa processing. Unregulated
+visa trading raises the cost of migration and the migrant workers have to bear the costs. As a
+result, the optimum benefits from the migration cannot be reaped. The high cost of migration
+also instigates migration through illegal routes and thus the migrant workers face a higher risk
+of being illegal abroad.
+
+    Figure 8: Causes, Results and Impacts of Governance Challenges in the Labour
+                            Migration Process at a Glance
+           Causes                              Results                             Impacts
+ Legal and enforcement         Illegal sales of visa
+  problem                       Siphoning off money for
+ Lack of institutional          purchasing visa
+  capacity (budget,             Attestation in exchange for money
+                                                                           Negative impacts on
+  manpower)                      without verifying identity of
+                                                                            national economy
+ Lack of de-centralisation      employers
+                                                                           Missing expected benefits
+ Missing coordination          Purchase of visa at high cost by
+                                                                            of migration
+  between stakeholders           migrant workers
+                                                                           Risk of being deprived
+ Shortcomings in               Burden of migration cost on
+                                                                            and cheated
+  monitoring and regulation      migrant workers
+                                                                           Deprived of due, actual
+ Complex, long process         Broker-dependent system
+                                                                            compensation
+ Dependence on informal        Illegal collection at different levels
+                                                                           Tendency to migrant
+  (brokers) process              (demand note, attestation, health
+                                                                            through illegal routes
+ Excessive demand for visa      diagnosis, police clearance, visa
+                                                                           Risk of being illegal on
+ Lack of education, skills,     stamping, permission for
+                                                                            foreign land
+  and awareness of migrant       appointment, emigration
+  workers                        certificate)
+ Information deficiency        Lack of documentary evidence on
+                                 actual cost of migration
+
+
+
+
+                                                                                                    48
+5.2 Recommendations
+Based on the findings of the research, the following steps have been recommended to create an
+environment conducive towards good governance and effective accountability.
+
+1. The Overseas Employment and Migrants Act 2013 requires following amendments:
+    Provisions for selection of workers, determination of amount of compensation and
+       payment of compensation etc. must be made mandatory.
+    This law must be given priority while resolving complaints relating to migration,
+       irrespective of provisions in any other laws.
+2. For processing visa received on personal contact, ‘one-stop service’ should be introduced
+   instead of the one dependent on recruiting agencies.
+3. Capacity and skills of the labour wings in the countries that receive large number of
+   Bangladeshi migrant workers should be strengthened in terms of budget and manpower.
+4. Legal provision should be made to include dalals (brokers) as sub-agents or registered
+   agents of the recruiting agencies to bring them under transparency mechanism.
+5. Compensation to the cheated workers should be ensured, which should be made mandatory
+   to provide at least five times of the migration cost set by the government.
+6. The provision for taking permission from the Ministry for sending migrant workers under
+   group visa should be scrapped;
+7. The procedures like taking photos and finger print of the workers should be done in a
+   coordinated manner to lessen the steps of providing same information to different agencies.
+8. Diplomatic steps should be undertaken with labour receiving countries to ensure online
+   VISA checking mechanism.
+9. In order to raise awareness level of the migrant workers:
+    Information on different aspects of labour migration such as types of jobs abroad,
+       migration cost as determined by the government, and legal process of migration should
+       be made available;
+    Publicity on labour migration at the grassroots level (broadcasting in radio and
+       television and street drama) should be increased;
+    On the websites of the Ministry, the BMET, BOESL and BAIRA, various information
+       that are important for migrant workers such as types of jobs abroad, migration cost as
+       determined by the government, and legal process of migration must be presented in a
+       lucid manner.
+
+
+
+
+                                                                                           49
+References and Further Reading
+
+Achacoso, TD, 2002, ‘The International Labour Migration Institutions of Bangladesh, India, Sri Lanka in
+Ferment: The Philippines as Catalyst’, International Organization for Migration, Regional Office at South Asia,
+Dhaka.
+ADB, 2016, ‘Overseas Employment of Bangladeshi Workers: Trends, Prospects, and Challenges’, Brief 63.
+Afsar, R, Mohammad Yunus, ABM Shamsul Islam, 2001, ‘Are Migrants Chasing the Golden Deer? A Study on
+Cost-Benefit Analysis of Overseas Migration’, BIDS, Dhaka.
+Afsar, R., 2009, ‘Unravelling the Vicious Cycle of Recruitment: Labour Migration from Bangladesh to the Gulf
+States’ Working paper, International Labour Office, Geneva.
+Bangladesh Institute of Labour Studies (BILS), 2014, ‘Profiling on Returning Migrant Workers of Bangladesh’
+Study Report, ILO Country Office for Dhaka
+Betts. A., 2010, ‘Migration Governance: Alternative Future’, Background paper, International Organization for
+Migration, Geneva, Switzerland.
+Betts. A., 2011, ‘Global Migration Governance’, Oxford Scholarship Online, Vol: Jan 2011.
+Chikanda, A, Jonathan Crush, Margaret-Walton Roberts (eds), 2016, Diasporas, Development and Governance,
+IOM, Springer, Switzerland.
+Finance Division, Ministry of Finance, 2016, Bangladesh Economic Review 2016, People’s Republic of
+Bangladesh.
+Harun-Or-Rashid, M., ‘Ensure Better Governance for Safe Migration’, The Daily Star, 18 December 2015.
+Hoque, R. 2014, Protecting Migrant Workers from Bangladesh- A Study of Legal Compliance with Migrant
+Worker’s Rights. National Human Rights Commission (JAMAKON), Bangladesh.
+http://cmsny.org/wp-content/uploads/Shahidul-Haque-Fundamentals-of-National-Migration-Governance.pdf (24
+May 2016)
+http://eservices.mol.gov.ae/LabourMobility/attachments/babar-theme4E.pdf (24 May 2016)
+http://www.cepn-paris13.fr/epog/wp-content/uploads/2014/10/PECOUD_betts-intro-mig-gov.pdf (24 May
+2016)
+http://www.migrationpolicy.org/article/labor-migration-united-arab-emirates-challenges-and-responses (24 May
+2016)
+http://www.migrationpolicy.org/article/working-hard-money-bangladesh-faces-challenges-large-scale-labor-
+migration (24 May 2016)
+https://www.adb.org/sites/default/files/publication/190600/overseas-employment-ban-workers.pdf
+https://www.iom.int/migration-policy-practice
+ILO, 2014, ‘The Cost: Causes of and potential redress for high recruitment and migration costs in Bangladesh’,
+ILO Country office for Bangladesh, Dhaka.
+IOM, 2015, ‘Migration Governance Framework’, IOM Council 106 th Session.
+IOM, 2016, The 2016 Migration Governance Index, http://iomgmdac.org/wp-
+content/uploads/2016/05/Migration-Governance-Index.pdf (accessed on 12 May 2016).
+IOM, http://iomgmdac.org/
+Kunz, R, Sandra Lavenex, Marion Panizzon (eds), 2011, Multilayered Migration Governance: The Promise of
+Partnership, Routledge, London.
+Murshid, KAS, Kazi Iqbal, Meherun Ahmed, 2001, ‘A Study on Remittance Inflows and Utilization’, BIDS,
+Dhaka.
+OKUP (Ovibashi Karmi Unnayan Program) (undated), Policy Review: Mandatory Health Test of Migrant
+Workers.
+Purvez, S. A., S. B. Islam, M. M. Islam, 2016, Irregular Labour Migration from Bangladesh: Crises and Ways
+Forward, Manusher Jonno Foundation (MJF), Dhaka, Bangladesh.
+Rahman, M M, 2011, ‘Recruitment of Labour Migrants for the Gulf States: The Bangladeshi Case’, ISAS
+Working Paper No. 132, Institute of South Asian Studies, National University of Singapore.
+
+                                                                                                             50
+Rahman. M. M., 2011, ‘Does Labour Migration Bring about Economic Advantage? A Case of Bangladeshi
+Migrants in Saudi Arabia’, ISAS Working Paper, Institute of South Asian Studies, National University of
+Singapore, Singapore.
+Rashid, SR., ASM Ali Ashraf, 2016, ‘Asian Boat People and the Challenges of Migration Governance: A
+Source Country Perspective’, Middle East Institute. http://www.mei.edu/content/map/asian-boat-people-and-
+challenges-migration-governance-source-country-perspective (7 February 2017)
+RMMRU, ‘Migration Trends from Bangladesh 2016: Success and Challenges’, presented in a press conference,
+28 December, 2016.
+RMMRU, 2002, ‘Recruitment and Placement of Bangladeshi Migrant Workers: An Evaluation of the Process’,
+International Organization for Migration, Regional Office at South Asia, Dhaka.
+Shah, M. N. 2008, ‘Recent Labour Immigration Policies in the Oil Rich Gulf: How effective are they likely to
+be?’, ILO Asian Regional Paper on the Governance of Labour Migration, Working Paper No. 3.
+Siddiqui, T and Md Abdur Rashid (Ed.), 2009, Obhibason Tothyobhandar (migration information sourcebook),
+RMMRU, Dhaka.
+Siddiqui, T. & Billah, M. M. 2012, Labour Migration from Bangladesh 2011: Achievements and Challenges.
+Dhaka: RMMRU.
+Siddiqui, T. (ed), 2000, State, Migrant Workers and the Wage Earners Welfare Fund, Occasional Paper 2,
+RMMRU, Dhaka.
+Siddiqui, T. (ed.), 2002, Beyond the Maze: Streamlining the Labour Recruitment Process in Bangladesh,
+RMMRU, Dhaka.
+Siddiqui, T. 1998, National Responsibility towards the Migrant Workers, Occasional Paper 1, RMMRU, Dhaka.
+Siddiqui, T. 2009, International Labour Migration and Remittance Management in Bangladesh, Occasional
+Paper 19, RMMRU, Dhaka.
+Siddiqui, T. and others, 2010, ‘Targeting Good Governance: Incorporation of Migration in the 6 th Five Year
+Plan’, RMMRU, Dhaka.
+Siddiqui, T. and Raisul Awal Mahmood, 2015, Impact of Migration on Poverty and Local Development in
+Bangladesh, RMMRU, SDC, Dhaka.
+Siddiqui, T. et al, 2016, Labour Migration from Bangladesh 2015: Achievements and Challenges, RMMRU,
+Dhaka.
+Siddiqui, T. Sultana Razia, Md. Rashed Alam Bhuiyan, 2012, Recruitment Practices in Bangladesh and
+Protection of Migrant Workers’ Rights, ILO / University of Dhaka and Winrock International, Bangladesh,
+Geneva, International Labour Office.
+Siddiqui, T., 2011, ‘Recruitment Cost in Bangladesh: Challenges of Governing Migration in the Countries of
+Origin’, presented in the Strengthening Dialogue to Make Migration Work for Development in the ESCAP and
+ESCWA Regions, 28-30 June, Beirut, Lebanon.
+Siddiqui, T., CR Abrar, 2001, ‘Contribution of Returnees: An Analytical Survey of Post Return Experience’,
+RMMRU, Dhaka.
+The Asia Foundation, 2013, ‘Labour Migration Trends and Patterns: Bangladesh, India and Nepal’, Joint
+Research by Asia Foundation Nepal, RMMRU, CREHPA and CORT.
+The Economist Intelligence Unit. 2016. Measuring well-governed migration: The 2016 Migration Governance
+Index, The Economist Intelligence Unit, London.
+TIB, 2012, Corruption in Service Sector: National Household Survey 2012, Executive Summary, Dhaka.
+
+
+
+
+                                                                                                               51
+
