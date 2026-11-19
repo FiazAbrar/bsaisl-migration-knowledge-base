@@ -1,0 +1,795 @@
+                                                                                    @2025 Department of Japanese Studies
+                                                                                    Vol. 4, December 2025, pp. 17-33
+                                                                                    ISSN: 2789-3014, eISSN: 2791-0849
+                                                                                    http://doi.org/10.55156/jjsem.Dec2502
+
+        Migration Patterns from Bangladesh to Japan:
+   Trends, Determinants, and Socioeconomic Implications
+
+                                   Saidur Rahman1
+
+Abstract- The relationship between Japan and Bangladesh dates back to Bangladesh's
+independence, and, as a result, migration to Japan has strengthened ties between the two
+countries. The article discusses a rapid rise in migration between Japan and Bangladesh
+and highlights the migration's path, trends, and their effects on socioeconomic
+development. Raising the problematic points, forecasting migration patterns, calculating
+socioeconomic costs, assessing concerns about employment and family, and providing
+recommendations to make migration safer and more secure. The major sources of data
+were primary sources and case studies of 10 migrants (returnees, migrants, and families).
+According to the study's findings, over the past few years, migration to Japan has been on
+the rise, as Japan faces a demographic crisis and is making concerted efforts to attract
+migrants. Other factors that determine migration decisions are family goals, education and
+skills acquisition, and economic prospects. Remittances, increased household welfare, and
+skills are among the more interesting advantages of migration, yet other major drawbacks
+for migrants include job insecurity, language barriers, stress on cultural adaptation, and
+permanent family separation. The main concepts are to enhance bilateral accords, expand
+pre-departure education, defend workers' rights, promote family reunification, and expand
+integration services in Japan.
+
+Keywords: Bangladesh-Japan migration, Labor mobility, Remittance, Education, Family,
+Socioeconomic implications.
+
+1Associate Professor, Institute of Social Welfare and Research, University of Dhaka, Bangladesh.
+E-mail: sayedsw@du.ac.bd
+
+Article History:
+Date of Submission: November 27, 2025; Date of Acceptance: March 12, 2026; Date of Publication: April 7, 2026
+18  Journal of Japanese Studies: Exploring Multidisciplinarity, December 2025, Vol. 4
+
+Introduction
+
+International migration is a new feature of globalization that facilitates the transfer
+of capital, people, and expertise across borders. Migration is an important
+livelihood policy and a driver of socioeconomic development in most developing
+countries. Bangladesh is among the most significant countries in terms of
+remittances and the employment of its citizens abroad (Rahman & Fee, 2020). The
+labor markets of the Middle East have always attracted Bangladeshi migrants;
+however, migration destinations have expanded as labor demands and
+demographics worldwide have changed. The recent population crisis and changes
+in immigration laws have made Japan one of the new travel destinations.
+
+The population of Japan is ageing rapidly; the fertility rate remains the lowest in
+the world, and the labour force has been in decline. Consequently, the government
+has had to adopt more accommodating migration policies to meet the labour
+demands (Ogawa & Matsukura, 2022; Yamamoto & Rahman, 2023). Previously,
+only students, highly qualified professionals, and small business owners migrated
+from Bangladesh to Japan. Nonetheless, the number of migrant flows has grown
+over the past decade, particularly in reference to Japan's Technical Intern Training
+Program (TITP) and the Specified Skilled Worker (SSW) program. The programs
+are intended to address acute labor shortages in the industrial, health, agricultural,
+and service sectors by recruiting foreign labor (Mori, 2021). As of 2025, more than
+27,000 citizens of Bangladesh reside in Japan, a figure three times that in 2010
+(Ministry of Justice, Japan, 2024). This population change demonstrates that
+labour- and family-centred migration patterns have shifted toward education and
+higher-skilled employment.
+
+In the context of Bangladesh-Japan migration, some migration literature has been
+analyzed. It demonstrates that, on the one hand, Bangladesh's migration to Japan
+has a positive aspect, and on the other hand, a negative one. As a country of
+immigration, Japan can enhance migrants' economic sustainability and skill
+development by offering stable employment and training (Sato & Hongo, 2021).
+Remittances from them contribute to their family's education, poverty reduction,
+standard of living, and local and national development in Bangladesh (World
+Bank, 2023; Rahman, 2024). Nevertheless, due to strict employment laws and
+limited training programs, migrants face various challenges, including cultural
+adaptation, language barriers, insecure employment, and social isolation
+(Liu-Farrer, 2020). In addition, workplace discrimination and restrictive rules for
+permanent residency are concerns for migrants (Nakamura, 2022). These
+restrictions make them worry about living and increase mental stress. There is
+limited literature on migration from Bangladesh to Japan compared to the Middle
+East or other countries, despite the rapid growth in migrant numbers. Previous
+studies have not examined in detail the patterns and dynamics (causes, size, policy
+Saidur Rahman: Migration Patterns from Bangladesh to Japan:Trends, Determinants, and Socioeconomic Implications  19
+
+significance, socioeconomic impact) of migrant movement (Haque & Yasuda,
+2023). Gradually, Bangladeshis in Japan are increasingly present as tourists,
+workers, and educators, but the disparity remains. A well-structured migration
+policy is required that allows migrants to feel secure in their jobs, economic
+conditions, and individual desires.
+
+Examining the causes, procedures, and socioeconomic effects of migration is
+crucial for both sending and receiving nations to secure migrants. Last year, Japan
+announced that it would receive 100,000 human resources from Bangladesh. Thus,
+migration to Japan can help Bangladesh's population enter the workforce,
+overcome its unemployment issue, and improve relations with Japan. Similarly,
+Bangladeshi labor can help mitigate Japan's labor shortages and contribute to its
+economic stability. There is still no research addressing the above issues, a gap in
+the current literature that should be addressed. Therefore, relevant authorities,
+policymakers, and stakeholders from both nations will benefit from this study. This
+study also helps promote equitable, sustainable, and mutually beneficial outcomes
+by analysing migration determinants, characteristics, and socioeconomic
+implications.
+
+Considering the research gap, the main objective of this study was to explore the
+patterns and factors of migration from Bangladesh to Japan, identify the
+socioeconomic implications, and the primary challenges faced by migrants. The
+specific objectives are-
+
+    · To explore the migration trend of Bangladeshi to Japan in the categories of
+      labor, education, and family
+
+    · To examine the key determinants or factors that influence the decision of
+      migration from Bangladesh to Japan.
+
+    · To identify the impacts of migration on migrants and their families.
+
+    · To find out the major challenges faced by Bangladeshi migrants in Japan,
+      considering residency, employment, cultural, and family life.
+
+    · To draw recommendations on how to reduce the current barriers and increase
+      sustainable migration between the two nations.
+
+Methodology of the Study
+
+Research Approach
+
+This study follows a qualitative approach, using an in-depth case study method and
+document study to acquire a thorough understanding of the dynamics of
+Bangladeshi migration to Japan. Considering the dynamic character of this
+migratory route and the lack of primary data at the local level, this study primarily
+relied on secondary data, supported by intensive interviews to elicit the
+20  Journal of Japanese Studies: Exploring Multidisciplinarity, December 2025, Vol. 4
+
+perspectives of the experienced. This study used various strategies, including
+analytical methods, to investigate the factors, impacts, and obstacles of migration.
+The descriptive aspect indicates demographic transitions, trends, and policy
+improvement.
+
+Sample and Sampling Technique
+
+This study used a case study method, which requires purposive sampling. It was
+employed to choose participants who had previously immigrated to Japan. The
+sample consists of 10 participants who currently live in Japan or have returned to
+Bangladesh; five participated in person and five by phone (Hybrid model).
+Participants were selected based on their experiences, visa status, and work
+patterns.
+
+Data Sources and Data Collection Methods
+
+Secondary Data Sources
+
+The study mainly relied on the secondary sources of data from the various sources
+including: Government reports (e.g., Ministry of Expatriates' Welfare and
+Overseas Employment; BMET; Ministry of Justice, Japan); International
+organizations (ILO, IOM, World Bank, UN DESA, JICA); Academic journals,
+books, and peer-reviewed research articles between 2010 to 2025; Migration
+yearbooks, and policy documents; Newspaper archives, institutional reports, and
+online repositories.
+
+Primary Data Collection
+
+In-depth case studies were conducted to support the secondary data. Participants
+were interviewed in person and virtually, including those with experience of Japan
+(5) and those currently living in Japan (5). They were mainly asked about the
+factors of their migration, patterns, impacts, experiences, difficulties, and overall
+conditions. The questions were in the Local language (Bangla and later translated
+into English.
+
+Data Analysis
+
+Data was analyzed thematically. The collected data from both sources were coded
+and finalized into themes. To increase validity, participants' narratives were
+presented under each theme, and data were collected from various sources to
+enhance triangulation.
+
+Theoretical framework
+
+The study of migration from Bangladesh to Japan can be explained through several
+migration theories that highlight the causes and impacts of international migration.
+
+To begin with, the Push-Pull Theory of Migration holds that migration is driven by
+Saidur Rahman: Migration Patterns from Bangladesh to Japan:Trends, Determinants, and Socioeconomic Implications  21
+
+forces that push individuals out of their country and pull them to another country.
+Unemployment, limited income opportunities, and economic pressures are the
+push factors in Bangladesh, whereas the pull factors in Japan include higher wages
+and labour demand.
+
+Second, the Neoclassical Migration Theory posits that individuals move to the
+extent that they can enjoy the maximum economic benefits by taking advantage of
+wage and labor differences across nations.
+
+Third, the Migration Network Theory has focused on the relevance of social
+networks. The information, support, and contacts provided by current
+Bangladeshis in Japan facilitate further migration.
+
+All these theories together explain the reasons behind migration, shifts in
+migration patterns, and the socioeconomic impacts, such as remittances, improved
+household well-being, and skilled development in Bangladesh.
+
+Ethical Considerations
+
+No ethical considerations were breached during the research process, and the study
+was conducted in accordance with the APA ethical code: the interviews were
+conducted voluntarily, and informed consent was obtained orally and in writing.
+Participants were made to feel that no details would be disclosed to anyone, as
+each was assured of confidentiality and that no names, workplaces, or specific
+locations would be mentioned in the report. The objective of the interview data
+was scholarly. Respect, privacy, and confidentiality are the same ethical
+considerations in phone interviews. Sensitivity was applied to personal migration
+experiences, particularly workplace difficulties, family separation, and emotional
+strain. A pseudonym was used.
+
+Findings
+
+This section presents the results of the findings. Information from both sources is
+presented here. The themes were categorized according to the study objectives. Of
+the 10, four entered Japan as students, three as dependents, and three as employees.
+
+Trends of migration from Bangladesh to Japan in recent years
+
+According to secondary sources and interviews, the trend, extent, and scope of
+Muslim women's migration to Japan have changed significantly over the past 15
+years. These trends depict a clear shift of a conventionally restricted and
+specialized flow towards a more diversified and rapidly expanding migratory
+pathway (Table 1).
+22                       Journal of Japanese Studies: Exploring Multidisciplinarity, December 2025, Vol. 4
+
+Table 1: Estimated breakdown of Bangladeshi residents in Japan by category (2010­2024)
+
+Year  Total Bangladeshi Labor Labor Students Students Family Family
+
+      residents (stock)  % (est.) %  (est.)        %  (est.)
+
+2010 10,175              60.0% 6,105 20.0% 2,035   20.0% 2,035
+
+2012 15,194              61.7% 9,375 19.4% 2,948   18.9% 2,871
+
+2014 20,213              63.4% 12,815 18.9% 3,820  17.7% 3,578
+
+2016 23,771              65.1% 15,475 18.3% 4,350  16.6% 3,946
+
+2018 25,866              66.9% 17,304 17.7% 4,578  15.4% 3,984
+
+2020 27,962              68.6% 19,182 17.1% 4,782  14.3% 3,998
+
+2022 31,518              70.3% 22,157 16.6% 5,232  13.1% 4,129
+
+2024 35,073              72.0% 25,253 16.0% 5,612  12.0% 4,208
+
+Note: Adapted from BMET (2024) and Ministry of Justice, Japan (2024).
+
+The Labor category increased upward over time (60%-72% between 2010 and
+2024) to capture the reported expansion of work opportunities to foreigners in
+Japan, specifically the expansion of the Technical Intern Training Program (TITP)
+and the introduction and swift adoption of the Specified Skilled Worker (SSW)
+visas since 2019. The share of students is relatively stable but decreasing; the
+proportions (20% -16%) are large increases in the overall numbers of international
+students in Japan (so that even though the numbers of students grow, their share of
+Bangladeshi residents is projected to decline a bit as labor migration picks up)
+(JSSD, 2025). The Family share reduces (20%-12%) due to numerous labor
+pathways being temporary (TITP) or limited in family reunification rights; only
+gradual changes to family reunification are documented as some migrants obtain
+long-term residence. This coincides with documented limitations on transporting
+dependants for most new types of work.
+
+Determinants Influencing the Decision of Bangladeshis to Migrate to Japan
+
+The following section describes the results on the key factors behind Bangladeshis'
+migration to Japan, using secondary data and in-depth interviews. Economic,
+social, and policy-related factors interact to influence individual and household
+migration choices.
+
+Economic Determinants
+
+Economic factors primarily influence migration to Japan. Significant findings are:
+Higher earnings and remittance opportunities: Interviews indicated that migrants
+are motivated by the possibility of earning much more than they could back in
+Bangladesh. For example, labor migrants under the SSW and TITP programs earn
+Saidur Rahman: Migration Patterns from Bangladesh to Japan:Trends, Determinants, and Socioeconomic Implications  23
+
+three to five times the average wage in rural Bangladesh (Rahman, 2020; Hamid &
+Ahmed, 2023). The other determinant is the presence of work in labor-constrained
+industries. The population decline in Japan has led to increased demand in the
+building, manufacturing, caregiving, and agricultural sectors. Migrants view these
+industries as offering formal contracts and reliable employment, particularly for
+SSW visa holders (Shimizu, 2022; Yamamoto & Rahman, 2023). Furthermore,
+finally, Economic security and household development- much of what was
+highlighted by interviewees is that foreign earnings enable families to invest in
+housing, education, and small enterprises in Bangladesh, contributing to the
+overall well-being of the household: "I have migrated to Japan for the economic
+insolvency of my family. I tried to be involved in work in Bangladesh but did not
+get sufficient opportunities" (P04).
+
+Educational Determinants
+
+Educational opportunities, including High-quality education and vocational
+training, also play a significant role in migration decisions. The technical colleges
+and educational institutions in Japan have a global reputation and attract students
+to the country due to the skills they teach, which can be applied in both local and
+international employment markets (Kibria, 2022). Many students use their student
+visas to convert to labor visas under SSW so they can secure employment in Japan
+upon completing their studies (MOFA Japan, 2022). Moreover, there are numerous
+higher education opportunities available to its participants. Financial barriers are
+reduced by government scholarships and part-time work options during studies,
+making Japan a more viable option (IOM, 2023). The respondent replied that: "I
+completed my graduation from BUET in 2018; I had a keen interest in higher
+education in architecture, which was not possible in Bangladesh with sufficient
+scholarship. In Japan, I had many opportunities to pursue higher education in this
+field," P06.
+
+Social and Family Determinants
+
+There are also social influences, such as family considerations and social
+networks. First, there are the migration networks and community support. Current
+groups of Bangladeshi migrants in Japan provide information, recruitment
+support, and social services, thereby reducing the perceived risks of migration
+(Khan, 2024; Liu-Farrer, 2020). Family welfare and reunification objectives:
+Some migrants migrate intending to raise family standards or bring family
+members to Japan later, after gaining employment and residency security.
+Participants P01 mentioned that: "My husband has lived in Japan since 2015 with
+a job visa. Two years later, I came to Japan as a dependent. Family was one of the
+important factors in my migration" P10. Peer influence and aspirational migration:
+Interviews found that peer encounters and success stories strongly encourage
+others to follow the same migration paths.
+24  Journal of Japanese Studies: Exploring Multidisciplinarity, December 2025, Vol. 4
+
+Policy and Institutional Determinants
+
+Government and institutional policies in both Bangladesh and Japan strongly
+shape migration decisions. Among which, the TITP and SSW programs are one.
+These Japanese government initiatives provide structured entry points for
+semi-skilled and skilled workers, creating predictable pathways for employment
+and skill acquisition (Shimizu, 2022; Yamamoto & Rahman, 2023). Besides,
+Bangladesh's ministries always help migrants migrate safely and lawfully (BBS,
+2024). The visa rule is another important factor that encourages people to migrate.
+People cannot migrate to Japan without a valid visa, unlike other destinations.
+
+Personal and Aspiration Determinants
+
+Personal goals, aspirations, and professional development drive the final decision
+to migrate. Many Bangladeshis want to pursue higher education in a technical field
+with sufficient opportunities. Besides, technical and Japanese language skills
+increase opportunities and motivation for many migrants. Currently, the younger
+generation is taking this opportunity to study in Japan.
+
+Economic, Educational, and Social Impacts of Migration on Bangladeshi
+Migrants and Their Families
+
+This section shows the impacts of migration in Japan on Bangladeshi migrants,
+their socioeconomic status, and their families. The results of the in-depth
+interviews and secondary data sources revealed that, due to migration, their family
+and nation are benefiting economically, socially, and in terms of overall
+well-being. The effects are classified into three categories:
+
+Economic Impacts
+
+Economic impacts directly influence migrants and their families. Remittance
+inflows and household welfare are ensured through migrants' contributions, as
+they send substantial remittances to families in Bangladesh, thereby directly
+supporting household consumption, education, health care, and housing
+improvements (World Bank, 2023; Rahman, 2020). Interviews revealed that
+families often invest remittances in small businesses or farmland, which enhances
+long-term income-generating capacity. For some rural households, remittances
+have become the primary source of income, reducing poverty and improving living
+standards. In these perspectives, participant 01 mentioned that: "My family lived
+in poverty from my childhood. In 2007, I had the chance to go to Japan on a work
+visa and took it. I used to send money to my family, and they bought land. Now, I
+have 15 acres of land and 5-storey buildings in my district" P01.
+
+Migrants can achieve employment security and income growth
+
+Structured employment is provided by TITP and SSW programs, enabling
+migrants to earn consistent incomes rather than in low-paying or informal jobs in
+Saidur Rahman: Migration Patterns from Bangladesh to Japan:Trends, Determinants, and Socioeconomic Implications  25
+
+Bangladesh (Shimizu, 2022; Yamamoto & Rahman, 2023). Proficient migrants
+accumulate technical and professional experience that can raise their
+employability and enable them to earn more money in Japan and Bangladesh. In
+addition, although it offers economic benefits, migrants face economic pressures
+from recruitment costs, loan repayments, and the cost of living in Japan (Khan,
+2024). Families can become overly dependent on remittances and become helpless
+in the event of any disruption in work.
+
+Educational Impacts
+
+The Japanese have better skills and technical knowledge than those in Bangladesh.
+Labor migrants acquire technical skills, Japanese-language proficiency, and
+professional qualifications, which enhance their labor-market prospects in
+Bangladesh (Kibria, 2022; MOFA Japan, 2022). The interviewees emphasized
+training in machine operation, caregiving, and service-sector skills as highly
+valuable. The opportunities of working in Japan are numerous: "I have done my
+Ph.D. in information and technology in Japan. I returned to Bangladesh later and
+worked in a multinational company where my initial salary was 2000$ a month"
+P09. There is a lot that can be offered to the families of migrants, although family
+reunification is restricted; a few long-term migrants have enabled their families to
+access education in Japan. Japanese education and culture expose young family
+members to a broader outlook and improve their future career opportunities. The
+migrants who are sent back usually contribute to the development of local societies
+by transferring the skills they have learnt and adopting more effective work
+methods, thereby indirectly contributing to the growth of the community (Haque
+& Yasuda, 2023).
+
+Social Impacts
+
+The literature and interview results indicate that migration has many social
+impacts. It improves household status and social mobility. Families in local
+communities can access better housing, healthcare, and social networks because of
+remittances and jobs overseas (Hamid & Ahmed, 2023). In both Bangladeshi and
+Japanese societies, migrants are frequently recognized and respected for their
+international work experience. In addition, there are certain family-related
+problems. According to interviews, extended separation from spouses, kids, and
+senior family members results in social and emotional pressure. Mobile
+technology makes it easier to communicate with family, yet social and emotional
+divides still exist. Language barriers, cultural disparities, prejudice, and a lack of
+social networks are among the social difficulties that migrants sometimes
+encounter (Liu-Farrer, 2020). Although Bangladeshis in Japan have supportive
+community networks, difficulties adjusting can have an impact on social life and
+mental health. Migration has symbolic meaning, encouraging friends and family to
+26  Journal of Japanese Studies: Exploring Multidisciplinarity, December 2025, Vol. 4
+
+seek chances elsewhere. Successful immigrants help to alter societal norms in
+local communities and families about gender roles, employment, and education.
+
+Challenges Faced by Bangladeshi Migrants in Japan: Employment, Adaptation,
+and Family Life
+
+Based on secondary data and a case study, this section summarizes the main
+obstacles faced by Bangladeshi migrants in Japan. The challenges are grouped into
+three categories: employment-related, adaptation and cultural, and family-related.
+
+Employment-related challenges
+
+The migrants of Bangladesh have to contend with contract restrictions and job
+insecurity. The Technical Intern Training Program (TITP) involves a large number
+of foreigners hired on temporary contracts. In some cases, they are not given much
+freedom in their job choices (Shimizu, 2022). Interestingly, some employees
+experience recurrent job placements; they are expected to return early or are
+sacked for minor violations, which all cause insecurity. Most of the time, wage
+inequalities and exploitation exist. Their training, housing, and administrative
+costs are charged to their salaries, thereby lowering the wages they receive each
+month (Khan, 2024; Liu-Farrer, 2020). Complaints about working hours and late
+payment are very few. The absence of the promotion and skill-transfer opportunity
+is one of the obstacles to TITP laws.
+
+Nevertheless, not all migrants can easily change or have high-paying and
+permanent employment. Although the Specified Skilled Worker (SSW) visa is
+more stable, not every migrant has the language and skills to pursue these avenues.
+I came to Japan on a labor visa to work at a convenience store in India. Afterwards,
+I was talented in linguistics and attempted to change my employment, yet the state
+did not allow it" (P02). Limited Japanese proficiency reduces employability and
+complicates workplace communication, increasing stress and risk of workplace
+accidents (Yamamoto & Rahman, 2023).
+
+Adaptation and Cultural Challenges
+
+Both countries have different cultures; Bangladeshi migrants face language and
+communication difficulties- migrants frequently reported challenges in daily life,
+such as accessing health services, interacting with employers, or navigating
+bureaucracy, due to limited Japanese language skills (Liu-Farrer, 2020). Language
+limitations also hinder social integration and reduce access to community
+resources. Bengalis oppose the Japanese people's desire to live alone. Disparities
+in communication methods, job hierarchies, and societal conventions often cause
+stress. Migrants reported feelings of isolation due to small Bangladeshi
+communities in some regions and limited social networks outside their workplace.
+"We have different culture and values; we are habituated to talk to the people and
+Saidur Rahman: Migration Patterns from Bangladesh to Japan:Trends, Determinants, and Socioeconomic Implications  27
+
+gossip. Here are different, everyone is busy with work" (P07). Comparably, some
+migrants encounter mild prejudice or stereotyping in public services, employment,
+and housing (Kibria, 2022).
+
+Family-Related Challenges
+
+One of the main challenges is the visa complexities of the family members. Many
+of the migrants live alone and try to bring their spouse and children to them, but
+visa complexities obstacle them, which makes it difficult for them to live and
+always face mental stress. They are always facing the emotional and physical
+demands of their partners. One of the respondents mentioned that: "Since 2016, I
+have been working in Japan in a Bangladeshi restaurant. I went to Bangladesh only
+twice to meet my family. I have a wife and two children. I tried several times to
+bring them to Japan, but did not get a visa. It increases my stress level and makes
+me feel very lonely" (P03). While SSW visa holders may ultimately reunite
+families but must go through drawn-out procedures, TITP visa holders have few
+opportunities to bring dependents to Japan (MOFA Japan, 2022). Anxiety and
+loneliness are two mental health issues that are exacerbated by prolonged
+separation and adaptation demands (Hamid & Ahmed, 2023). According to
+migrants, these problems are made worse by a lack of therapy or support services.
+
+Policy Recommendations for Enhancing Safe, Equitable, and Sustainable
+Migration between Bangladesh and Japan
+
+Based on the results of earlier goals, this section offers policy recommendations to
+maximize the benefits of migration while minimizing its drawbacks. The
+proposals, which center on legal, social, and economic measures, are directed at
+both the sending country (Bangladesh) and the receiving country (Japan).
+
+Strengthening Legal and Institutional Frameworks
+
+   1. To strengthen the existing agreements between Bangladesh and Japan on
+      labor and migration, and to expand bilateral agreements that provide clear
+      rules on wage rates, working conditions, and migrant workers' labor rights.
+      The bilateral agreements need to protect other vulnerable populations,
+      especially female migrant workers, as well as trainees employed in the
+      informal sector.
+
+   2. Policies that make it easier for migrants to change from TITP to SSW, then
+      migrate and reunite with family members, will reduce the amount of mental
+      and physical stress that migrants experience. Legal migration and
+      compliance with local labour regulations will also be enhanced by easing
+      documentation procedures and eliminating bureaucratic delays.
+
+   3. Regulate the employment of recruiting agencies to prevent exploitation,
+      overcharging, and/or the provision of inaccurate information.
+28  Journal of Japanese Studies: Exploring Multidisciplinarity, December 2025, Vol. 4
+
+Economic and Labor Market Measures
+
+The countries should enhance their training programs related to job skills and
+languages to better align with Japan's job market requirements, for example, by
+offering training in industries, technology, and caregiving. Additionally, they
+should include workplace rights as part of the pre-departure orientation for foreign
+workers, along with other supports such as cultural adjustment and financial
+literacy. "When I came to Japan, I did not know the language, so I was unable to
+get any minimum wage jobs for the first six months after arriving. Now I tell
+everyone to learn the language before coming to Japan." P05. Regarding fair
+wages and working conditions for foreign workers in Japan, Shimizu (2022) notes
+that Japan must enforce compliance with its labor laws governing these programs
+(TITP and SSW).
+
+Social and Cultural Integration Measures
+
+Language and culture assistance: Governments in Japan can offer free or
+subsidy-based language study as well as cultural orientation courses to help
+immigrants better fit into the labor market and society at large (Liu-Farrer, 2020).
+Local NGOs and community centers may provide networking, counseling, or
+social support.
+
+Mental health and family support: There is a need to develop programs to address
+mental health care needs of migrants and stress in both countries, including family
+counseling and support for long-distance communication (Hamid & Ahmed,
+2023). The latter risk of long-term separation from family may be mitigated
+through emotional support and financial arrangements. "Migrants, who live in
+Japan, should be allowed to bring their families and give the citizen of their
+children who are born in Japan" (P08).
+
+Data, Research, and Policy Monitoring
+
+    · Strengthen migration data systems: Evidence-based policymaking would
+      benefit from comprehensive data collection and monitoring of migrant
+      flows, visa types, remittance use, and integration outcomes between
+      Bangladesh and Japan (IOM, 2023; World Bank, 2023).
+
+    · Research and evaluation: Regular assessments of student programs, SSW,
+      and TITP can identify gaps, evaluate skill development outcomes, and
+      inform policy changes (Yamamoto & Rahman, 2023).
+
+Discussion
+
+The findings of this study provide a comprehensive understanding of Bangladeshi
+migration to Japan, including the qualitative experiences and well-being of
+migrants and their families, as qualitatively measured through increasing numbers.
+Saidur Rahman: Migration Patterns from Bangladesh to Japan:Trends, Determinants, and Socioeconomic Implications  29
+
+Applying the push-pull theory of migration (Lee, 1966) and 'New Economics of
+Labor Migration' (Stark & Bloom, 1985), the theoretical framework, the research
+finds that Bangladesh has migrated to Japan owing to diverse structural, economic,
+educational, social, and policy-related factors. Bangladesh's push factors include
+aspirations for upward social mobility, low earnings in rural and semi-urban areas,
+and a lack of domestic job opportunities. On the other hand, labor market demand,
+organized migration programs such as the Technical Intern Training Program (TITP)
+and the Specified Skilled Worker (SSW) scheme, higher earnings, and access to
+educational and vocational opportunities are powerful and diverse pull factors in
+Japan. The rapid growth in labor migration is mostly higher than in other categories.
+The study shows that the number has more than tripled from 2010 to 2024, driven by
+labor shortages and rapid demographic changes. Yamamoto & Rahman (2023) and
+Shimizu (2022) identified that declining fertility rates, long life expectancy, and the
+unavailability of a domestic workforce to fulfill job demands are major factors
+influencing Japanese migration policy. The TITP and SSW programs, for skilled and
+semi-skilled workers, have emphasized skilled development, employment
+opportunities, and remittance generation. This is the fact that is always pulling
+foreigners to Japan at the moment.
+
+The paper further highlights that migration contributes to the economy: remittances
+are vital for improving household incomes, reducing poverty, and investing in small
+enterprises, housing, and education. This corresponds with other studies on the
+contribution of remittances to Bangladesh's growth (World Bank, 2023; Rahman,
+2020; Rahman, 2024). In addition to financial contributions, migrants acquire
+professional experience, language competence, and technical and vocational skills
+during migration, thereby improving their employability and social capital.
+Knowledge transfer and skill-transfer effects contribute to the return migrants'
+newfound competencies and help not only individual migrants but also local
+populations when the returning migrants put them to use. Socially, migration
+produces a dual effect. On one hand, it elevates household status, improves social
+recognition, and inspires aspirational migration among peers and younger family
+members (Hamid & Ahmed, 2023; Rahman, 2022). Conversely, migrants also
+encounter issues such as family separation, emotional stress, and cultural isolation in
+Japanese society. This is evidence of language barriers, cultural differences, and
+social isolation as obstacles to adaptation and access to community resources, which
+aligns with previous research on South Asian migration in East Asia (Liu-Farrer,
+2020; Kibria, 2022; Rahman, 2024). Such conclusions point out that migration is not
+a purely economic process but a deeper social and psychological process that can
+affect how households work and communities grow. In addition, the paper identifies
+the value of the institutional and policy determinants. Migration driven by organized
+programs, recruitment agencies, and government regulations has a significant impact
+on migration outcomes.
+30  Journal of Japanese Studies: Exploring Multidisciplinarity, December 2025, Vol. 4
+
+However, legal protection, wage enforcement, family reunification, and
+integration support still have loopholes. It was found that migrants face a
+challenging bureaucratic process. In many cases, they are exploited or subjected to
+unknown working conditions, which explains why more effective regulations are
+needed in both countries. Overall, this study shows that Bangladeshi immigration
+to Japan is a complex issue. It is a combination of economic growth and progress,
+the development of talent and opportunities for social mobility, as well as the
+problems of job security, challenges of adaptation, and family separation.
+
+These insights make it clear that migration is a complex phenomenon that should
+be considered through the lenses of economic, social, cultural, and policy aspects.
+The findings also suggest that policy interventions between Bangladesh and Japan
+to ensure maximum benefits and minimize vulnerabilities must be coordinated to
+achieve proper migration management.
+
+Contribution of the Study
+
+The study contributes to policy, knowledge, and empirical research in different
+ways:
+
+It provides empirical understanding of the upgrade information on patterns,
+factors, and impacts of Bangladesh-to-Japan migration, mitigating the research
+gap in the literature on South Asia. Combine quantitative secondary data with
+in-depth experiences of migration to propose a dynamic view of migration. The
+study identified key challenges in adjustment, employment, and family life and
+proposed evidence-based policy recommendations. The importance of migration,
+especially in remittance-led development, is highlighted, and the needs of modern
+education and labor policy are identified, with consideration of the demands of
+receiving countries. The needs of migrants are highlighted in the context of Japan's
+socioeconomic challenges; initiatives from policymakers and international
+organizations can improve the situation.
+
+Recommendations
+
+Based on the study's findings, the following recommendations have been proposed
+to promote equitable, safe, and sustainable migration between Japan and
+Bangladesh.
+
+Policy and Institutional Recommendations
+
+    · Emphasized bilateral agreement between the two nations to secure the
+      migrants' rights, justified wages, and freedom from exploitation.
+
+    · Migration policies and laws should be relaxed and made smoother to enable
+      migrants' families to live together.
+
+    · The migration process should be straightforward between governments, not
+Saidur Rahman: Migration Patterns from Bangladesh to Japan:Trends, Determinants, and Socioeconomic Implications  31
+
+      through recruitment agencies, because they charge higher fees and provide
+      misinformation about Japan's regulations.
+
+Economic and Skills Recommendations
+
+    · Expansion of pre-departure training on the areas where they will work,
+      workplace rights, social norms and customs, and traditions.
+
+    · Working-time regulations and wage transparency can help protect migrant
+      workers' economic rights.
+
+    · Support returning migrants economically and provide a skilled development
+      program to run a business or be an entrepreneur.
+
+Social and Cultural Recommendations
+
+    · Provide Japanese language and cultural integration courses for migrants and
+      their families.
+
+    · Develop social support mechanisms, counseling services, and mental health
+      programs to address family separation and adaptation stress.
+
+    · Enhance the networks of migrant communities in Japan to reduce social
+      isolation and foster greater social cohesion.
+
+Research and Monitoring Recommendations
+
+    · Implement a comprehensive data migration architecture to oversee flows,
+      visa types, remittances, and integration performance.
+
+    · Conduct regular program reviews of TITP, SSW, and student pathways to
+      identify gaps and inform policy changes.
+
+Conclusion
+
+Bangladeshi migration to Japan is one of the most significant and multifaceted
+issues, shaped by social, political, educational, and economic factors. The report
+shows that family/education migration is steadily improving, but the main form of
+migration is work migration and is supported by systematic Japanese programs.
+Some of the greatest gains from migration include improved household status, skill
+acquisition, and remittances. However, migrants have to struggle with uncertainty
+in employment, inability to adjust to a new culture, communication problems, and
+familial alienation. The management of migration requires adopting policies in
+both Bangladesh and Japan that prioritize social assistance, fair labor practices,
+legal employment, and skill development. Advantages and minimize risks by
+enhancing bilateral contracts, employment controls, integration, and family
+reunions. In conclusion, regarding socioeconomic development, Bangladesh-Japan
+migration is very promising for both migrant and national labor and the educational
+market. Implementing policy changes based on evidence can make the migration
+32  Journal of Japanese Studies: Exploring Multidisciplinarity, December 2025, Vol. 4
+
+process safer, more balanced, and more sustainable, benefiting both nations and
+enhancing the quality of life of migrants and their families.
+
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+
+ORCID
+Saidur Rahman https://orcid.org/0000-0003-3982-3445
+
+References
+
+Ahmed, R. (2022). Bangladeshi diaspora communities in Japan: Emerging
+      patterns of transnational life. Journal of Migration Studies, 8(2), 55­74.
+
+BBS. (2024). Statistical Yearbook of Bangladesh 2024. Bangladesh Bureau of
+      Statistics.
+
+Hamid, S., & Ahmed, M. (2023). Migration aspirations among Bangladeshi youth:
+      New destinations and motivations. Journal of South Asian Studies, 11(2),
+      45­62.
+
+ILO. (2022). Skilled migration and labor market integration in East Asia.
+      International Labour Organization.
+
+International Organization for Migration. (2022). Migration trends in South and
+      Southeast Asia. IOM. https://www.iom.int
+
+IOM. (2023). World Migration Report 2023. International Organization for
+      Migration.
+
+Japan Student Services Organization (JSSD). (2025, April). Result of International
+      Student Survey in Japan,2024. Study in Japan. Retrieved Novem-
+      ber18,2025, from https://www.studyinjapan.go.jp/en/statistics/enrollment/-
+      data/2504301000.html
+
+Khan, M. S. (2024). Socioeconomic drivers of overseas migration from
+      Bangladesh. Asia-Pacific Migration Journal, 33(1), 22­40.
+
+Kibria, N. (2022). Bangladeshi diaspora and transnational mobility in East Asia.
+      Migration and Society, 5(1), 71­89.
+
+Lee, E. S. (1966). A theory of migration. Demography, 3(1), 47­57.
+
+Ministry of Justice, Japan. (2024). Foreign residents statistics 2024. Tokyo:
+      Government of Japan.
+Saidur Rahman: Migration Patterns from Bangladesh to Japan:Trends, Determinants, and Socioeconomic Implications  33
+
+Ministry of Justice, Japan. (2024). Immigration and residency report 2024.
+      Government of Japan.
+
+MOFA Japan. (2022). Japan­Bangladesh relations: Diplomatic and labor
+      cooperation. Ministry of Foreign Affairs of Japan.
+
+Rahman, M. M. (2020). Aspirations and determinants of migration among
+      Bangladeshi youth. South Asian Journal of Development, 15(1), 71­92.
+
+Rahman, S. (2022). Mystery of more women workers in the Bangladesh garment
+      industry: A qualitative study on migrant women garment workers in
+      Bangladesh. Empowerment, 29, 25-36.
+
+Rahman, S. (2024). An Alarming Upswing in Child Marriage in Bangladesh:
+      Causes, Consequences, and Remedy. International Journal of Research
+      Publication and Reviews, 5(12), 4223-4231. https://doi.org/10.55248/geng-
+      pi.5.1224.250136
+
+Rahman, S. (2024). Rural to Urban Migration Factors of Less-Educated Women:
+      Evidence from Female Garment Workers in Bangladesh. Journal of Rural
+      Development, 43(3), 374-386.
+
+Rahman, S. (2024). Strategies of Subjective Well-Being: Experiences of Married
+      Female Garment Workers in Bangladesh. International Journal of Research
+      Publication and Reviews, Vol 5 ( 6), pp 3601-3609. https://doi.org/10.55248/
+      gengpi.5.0624.1530
+
+Shimizu, K. (2022). Japan's Technical Intern Training Program: Reform,
+      challenges, and implications for migrant workers. Journal of East Asian
+      Policy Studies, 9(3), 188­205.
+
+World Bank. (2023). Bangladesh development update: Migration and remittances.
+      World Bank.
+
+Yamamoto, H., & Rahman, M. (2023). Labor shortages, migration policy reforms,
+      and the growing South Asian workforce in Japan. Japan Labor Review,
+      20(2), 33­55.
+
+Yamamoto, S., & Rahman, M. H. (2023). Japan's new migration paradigm:
+      Opportunities for South Asia. Asia-Pacific Policy Journal, 18(2), 102­119.
+

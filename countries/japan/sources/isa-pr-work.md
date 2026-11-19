@@ -1,0 +1,468 @@
+[![出入国在留管理庁 Immigration Services Agency of Japan](/isa/content/910000042.png)](/isa/index.html)
+
+[本文へ](#contentsArea)
+
+[Multi language](/isa/other_languages.html)
+
+文字サイズ  
+[標準](javascript:textSizeReset();)
+
+[拡大](javascript:textSizeUp();)
+
+*MENU*
+
+![](/isa/content/001345705.png)
+
+- [組織・採用](/isa/about/index.html)
+  - [出入国在留管理庁の概要](/isa/about/organization/index.html)
+  - [機構図](/isa/about/organization/chart.html)
+  - [幹部一覧](/isa/about/organization/executive.html)
+  - [地方出入国在留管理官署](/isa/about/region/index.html)
+  - [採用案内](/isa/about/recruitment/index.html)
+- [出入国手続](/isa/immigration/index.html)
+  - [出入（帰）国手続について（解説）](/isa/immigration/procedures/tetuduki_index1_1.html)
+  - [再入国許可申請](/isa/immigration/procedures/16-5.html)
+  - [トラスティド・トラベラー・プログラム（TTP）](/isa/immigration/procedures/ttp2_index.html)
+  - [乗員上陸許可申請（NACCS）](/isa/immigration/procedures/06_00005.html)
+  - [各種公表資料](/isa/immigration/resources/index.html)
+  - [出入国審査・在留審査Q&A](/isa/immigration/faq/kanri_qa.html)
+- [在留手続](/isa/applications/index.html)
+  - [在留資格から探す](/isa/applications/status/index.html)
+  - [手続の種類から探す](/isa/applications/procedures/index.html)
+  - [オンライン手続](/isa/applications/online/onlineprocedures.html)
+  - [育成就労制度](/isa/applications/index_00005.html)
+  - [特定技能制度](/isa/applications/ssw/index.html)
+  - [外国人技能実習制度](/isa/applications/titp/nyuukokukanri05_00014.html)
+  - [高度人材ポイント制](/isa/applications/resources/newimmiact_3_index.html)
+  - [J-Skip/J-Find](/isa/applications/resources/nyukan_nyukan50_00002.html)
+  - [スタートアップ関連施策](/isa/applications/resources/03_00070.html)
+  - [留学生の就職](/isa/applications/resources/10_00015.html)
+  - [各種公表資料](/isa/applications/resources/index.html)
+- [在留支援](/isa/support/index.html)
+  - [ロードマップ](/isa/support/coexistence/04_00033.html)
+  - [総合的対応策](/isa/support/coexistence/nyuukokukanri01_00140.html)
+  - [HarmoniUP!](/isa/support/coexistence/04_00070.html)
+  - [新規入国者向けガイダンスページ](/isa/support/guidance/index.html)
+  - [外国人生活支援ポータルサイト](/isa/support/portal/index.html)
+  - [生活・就労ガイドブック](/isa/support/portal/guidebook_all.html)
+  - [外国人在留支援センター(FRESC／フレスク）](/isa/support/fresc/fresc01.html)
+  - [相談窓口](/isa/support/consultation/index.html)
+  - [外国人との共生施策に係る御意見・御要望（御意見箱）](/isa/support/opinion.html)
+- [退去強制手続](/isa/deportation/index.html)
+  - [退去強制手続と出国命令制度](/isa/deportation/procedures/tetuduki_index5_00002.html)
+  - [監理措置制度](/isa/08_00045.html)
+  - [仮放免制度](/isa/08_00050.html)
+  - [各種申請](/isa/deportation/application.html)
+  - [入管法違反者に関する情報提供](/isa/consultation/report/index.html)
+  - [各種公表資料](/isa/deportation/resources/index.html)
+  - [退去強制手続・出国命令制度・上陸拒否期間の短縮決定Q&A](/isa/deportation/guide/tetuduki_taikyo_qa.html)
+- [難民の認定等](/isa/refugee/index.html)
+  - [難民認定手続・補完的保護対象者認定手続](/isa/refugee/procedures/16-6.html)
+  - [難民旅行証明書交付申請手続](/isa/refugee/procedures/16-7.html)
+  - [第三国定住による難民の受入れ](/isa/refugee/procedures/07_00046.html)
+  - [一時庇護上陸許可](/isa/refugee/procedures/higo_00001.html)
+  - [各種公表資料](/isa/refugee/resources/index.html)
+- [政策情報（会議・統計等）](/isa/policies/index.html)
+  - [会議・委員会等](/isa/policies/conference/seisaku_index.html)
+  - [統計](/isa/policies/statistics/index.html)
+  - [基本計画・白書・パンフレット](/isa/policies/policies/index.html)
+  - [関係法令](/isa/policies/bill/01_00442.html)
+  - [その他政策情報](/isa/policies/others/index.html)
+- [広報・情報公開等](/isa/publications/index.html)
+  - [プレスリリース](/isa/publications/press/index.html)
+  - [更新情報](/isa/publications/newslist/index.html)
+  - [広報](/isa/publications/publications/index.html)
+  - [調達情報](/isa/publications/procurement/index.html)
+  - [情報公開・個人情報保護](/isa/disclosure_privacy.html)
+  - [公文書管理](/isa/publications/record/index.html)
+  - [ご意見・情報提供](/isa/publications/contact/index.html)
+  - [その他の公表情報](/isa/publications/others/index.html)
+  - [よくあるお問い合わせ（FAQ）](/isa/publications/faq.html)
+
+- [組織・採用](/isa/about/index.html)
+  - [出入国在留管理庁の概要](/isa/about/organization/index.html)
+  - [機構図](/isa/about/organization/chart.html)
+  - [幹部一覧](/isa/about/organization/executive.html)
+  - [地方出入国在留管理官署](/isa/about/region/index.html)
+  - [採用案内](/isa/about/recruitment/index.html)
+- [出入国手続](/isa/immigration/index.html)
+  - [出入（帰）国手続について（解説）](/isa/immigration/procedures/tetuduki_index1_1.html)
+  - [再入国許可申請](/isa/immigration/procedures/16-5.html)
+  - [トラスティド・トラベラー・プログラム（TTP）](/isa/immigration/procedures/ttp2_index.html)
+  - [乗員上陸許可申請（NACCS）](/isa/immigration/procedures/06_00005.html)
+  - [各種公表資料](/isa/immigration/resources/index.html)
+  - [出入国審査・在留審査Q&A](/isa/immigration/faq/kanri_qa.html)
+- [在留手続](/isa/applications/index.html)
+  - [在留資格から探す](/isa/applications/status/index.html)
+  - [手続の種類から探す](/isa/applications/procedures/index.html)
+  - [オンライン手続](/isa/applications/online/onlineprocedures.html)
+  - [育成就労制度](/isa/applications/index_00005.html)
+  - [特定技能制度](/isa/applications/ssw/index.html)
+  - [外国人技能実習制度](/isa/applications/titp/nyuukokukanri05_00014.html)
+  - [高度人材ポイント制](/isa/applications/resources/newimmiact_3_index.html)
+  - [J-Skip/J-Find](/isa/applications/resources/nyukan_nyukan50_00002.html)
+  - [スタートアップ関連施策](/isa/applications/resources/03_00070.html)
+  - [留学生の就職](/isa/applications/resources/10_00015.html)
+  - [各種公表資料](/isa/applications/resources/index.html)
+- [在留支援](/isa/support/index.html)
+  - [ロードマップ](/isa/support/coexistence/04_00033.html)
+  - [総合的対応策](/isa/support/coexistence/nyuukokukanri01_00140.html)
+  - [HarmoniUP!](/isa/support/coexistence/04_00070.html)
+  - [新規入国者向けガイダンスページ](/isa/support/guidance/index.html)
+  - [外国人生活支援ポータルサイト](/isa/support/portal/index.html)
+  - [生活・就労ガイドブック](/isa/support/portal/guidebook_all.html)
+  - [外国人在留支援センター(FRESC／フレスク）](/isa/support/fresc/fresc01.html)
+  - [相談窓口](/isa/support/consultation/index.html)
+  - [外国人との共生施策に係る御意見・御要望（御意見箱）](/isa/support/opinion.html)
+- [退去強制手続](/isa/deportation/index.html)
+  - [退去強制手続と出国命令制度](/isa/deportation/procedures/tetuduki_index5_00002.html)
+  - [監理措置制度](/isa/08_00045.html)
+  - [仮放免制度](/isa/08_00050.html)
+  - [各種申請](/isa/deportation/application.html)
+  - [入管法違反者に関する情報提供](/isa/consultation/report/index.html)
+  - [各種公表資料](/isa/deportation/resources/index.html)
+  - [退去強制手続・出国命令制度・上陸拒否期間の短縮決定Q&A](/isa/deportation/guide/tetuduki_taikyo_qa.html)
+- [難民の認定等](/isa/refugee/index.html)
+  - [難民認定手続・補完的保護対象者認定手続](/isa/refugee/procedures/16-6.html)
+  - [難民旅行証明書交付申請手続](/isa/refugee/procedures/16-7.html)
+  - [第三国定住による難民の受入れ](/isa/refugee/procedures/07_00046.html)
+  - [一時庇護上陸許可](/isa/refugee/procedures/higo_00001.html)
+  - [各種公表資料](/isa/refugee/resources/index.html)
+- [政策情報（会議・統計等）](/isa/policies/index.html)
+  - [会議・委員会等](/isa/policies/conference/seisaku_index.html)
+  - [統計](/isa/policies/statistics/index.html)
+  - [基本計画・白書・パンフレット](/isa/policies/policies/index.html)
+  - [関係法令](/isa/policies/bill/01_00442.html)
+  - [その他政策情報](/isa/policies/others/index.html)
+- [広報・情報公開等](/isa/publications/index.html)
+  - [プレスリリース](/isa/publications/press/index.html)
+  - [更新情報](/isa/publications/newslist/index.html)
+  - [広報](/isa/publications/publications/index.html)
+  - [調達情報](/isa/publications/procurement/index.html)
+  - [情報公開・個人情報保護](/isa/disclosure_privacy.html)
+  - [公文書管理](/isa/publications/record/index.html)
+  - [ご意見・情報提供](/isa/publications/contact/index.html)
+  - [その他の公表情報](/isa/publications/others/index.html)
+  - [よくあるお問い合わせ（FAQ）](/isa/publications/faq.html)
+
+[Multi language](/isa/other_languages.html)
+
+- [トップページ](/isa/index.html)
+- [在留手続](/isa/applications/index.html)
+- [手続の種類から探す](/isa/applications/procedures/index.html)
+- [永住許可申請](/isa/applications/procedures/16-4.html)
+- 永住許可申請３
+
+# 永住許可申請３
+
+申請人の方が、就労関係の在留資格（「技術・人文知識・国際業務」、「技能」など）及び「家族滞在」の在留資格である場合
+
+### 申請に当たっての留意事項（申請される前にご確認ください。）
+
+- **申請書の書き方、必要書類等についてのご質問は、「[外国人在留総合インフォメーションセンター](/isa/consultation/center/index.html)」へお問い合わせください。\
+  TEL：0570-013904 (IP電話・海外から：03-5796-7112)**
+- **提出書類が揃っていない申請の場合、大幅に審査が遅れる、または不利益処分となり得る可能性があるのでご留意ください。**
+- 申請人とは、日本での永住を希望している外国人の方のことです。
+- 申請書・身元保証書・了解書は、本ページからダウンロードいただけるほか、[地方出入国在留管理局](/isa/about/region/index.html)でも用紙を用意しています。
+- 掲載している申請書等は、日本産業規格A列４番に印刷しお使いになれます。\
+  片面１枚ずつ印刷してください（両面印刷はしないでください。）。
+- 日本で発行される証明書は全て、発行日から３か月以内のものを提出してください。
+- 提出書類が外国語で作成されている場合には、訳文（日本語）を添付してください。
+- 原則として、提出された資料は返却できませんので、再度入手することが困難な資料の原本等の返却を希望する場合は、申請時に申し出てください。
+- 申請いただいた後に、当局における審査の過程において、本ページ記載外の資料を求める場合もありますので、あらかじめご承知おき願います。
+
+（重要１）\
+　提出書類は、在留資格や身分・地位によって異なります。以下のチェックシートで在留資格や身分・地位に応じた資料を確認の上、提出してください。\
+　・ [提出書類チェックシート（就労資格）](/isa/content/001422070.xlsx)\
+・ [提出書類チェックシート（家族滞在）](/isa/content/001422071.xlsx)\
+　※ *提出書類が不足していた場合は、追加資料を求めることとなり、資料が揃うまで審査を進めることが困難となります。*\
+　　 *そのような場合は、書類が揃っている方の審査を優先的に行うこととなりますので、ご承知おき願います。*\
+\
+（重要２）\
+　申請前に、永住許可の要件に該当するか、以下のチェックシートで確認してください。\
+　・ [永住許可申請セルフチェックシート（就労資格用）](/isa/content/001428363.xlsx)\
+　※ １つでも「いいえ（No）」に該当した場合、永住許可申請は「不許可」となる可能性が高くなります。\
+　※ 「いいえ（No）」が１つもなかったとしても、永住許可申請の「許可」を約束するものではありません。\
+    ※ *申請に際しては、審査を円滑に行う観点から、本チェックシートも以下の書類と合わせて提出いただきますようお願いいたします。*
+
+## １　永住許可申請書　１通
+
+- [永住許可申請書（PDF：276KB） ![PDFファイル（別ウィンドウで開く）](/isa/content/910000045.png)](/isa/content/930002835.pdf)
+- [永住許可申請書（Excel：90KB） ![Excelファイル（別ウィンドウで開く）](/isa/content/910000048.png)](/isa/content/930002836.xls)
+- [記載例はこちら（PDF：274KB） ![PDFファイル（別ウィンドウで開く）](/isa/content/910000045.png)](/isa/content/001459539.pdf)
+
+## ２　写真（縦４cm×横３cm）　１葉
+
+[指定の規格を満たした写真](/isa/applications/status/photo_info_00002.html)を用意し、申請書に添付して提出してください。\
+※ 申請書の写真添付欄に写真を直接印刷したものを提出いただいても差し支えありませんが、指定の規格を満たさない不適当な写真を用いて申請が行われた場合には、写真の撮り直しをお願いすることとなります。\
+※ 在留カードの交付の日において年齢が１歳に満たない方は、写真の提出は不要です（令和８年６月１３日以前は写真の提出が不要なのは１６歳未満の方でしたが、令和８年６月１４日以降に交付される在留カードからは１歳以上の方について写真の提出が必要となりました。）。
+
+# ３　理由書　１通
+
+※ 永住許可を必要とする理由について、自由な形式で書いて下さい。\
+※ 日本語以外で記載する場合は、翻訳文が必要です。
+
+## ４　身分関係を証明する次のいずれかの資料（申請人の在留資格が「家族滞在」の方の場合に提出が必要となります。）
+
+(1)　戸籍謄本（全部事項証明書）　１通\
+(2)　出生証明書　１通\
+(3)　婚姻証明書　１通\
+(4)　認知届の記載事項証明書　１通\
+(5)　上記(1)～(4)に準ずるもの\
+
+## ５　申請人を含む家族全員（世帯）の住民票　１通
+
+※ 個人番号（マイナンバー）については省略し、他の事項については省略のないものとするようお願いします。
+
+## ６　申請人又は申請人を扶養する方の職業を証明する次のいずれかの資料
+
+(1)　会社等に勤務している場合\
+　　　在職証明書　１通
+
+(2)　自営業等である場合
+
+1.  確定申告書控えの写し　１通
+2.  営業許可書の写し（ある場合）　１通
+
+　　※ 自営業等の方は、自ら職業等について立証していただく必要があります。
+
+(3)　その他の場合\
+　　　職業に係る説明書（書式自由）及びその立証資料　適宜\
+　　  ※ 申請人及び配偶者の方お二方とも無職の場合についても、その旨を説明書（書式自由）に記載して提出してください。
+
+## ７　直近（過去５年分）の申請人及び申請人を扶養する方の所得及び納税状況を証明する資料
+
+### (1)　住民税の納付状況を証明する資料
+
+ア　直近５年分の住民税の課税（又は非課税）証明書及び納税証明書（１年間の総所得及び納税状況が記載されたもの）各１通
+
+- ※ お住まいの市区町村から発行されるものです。
+- ※ 上記については、１年間の総所得及び納税状況（税金を納めているかどうか）の両方が記載されている証明書であれば、いずれか一方でかまいません。
+- ※ 市区町村において、直近５年分の証明書が発行されない場合は、発行される最長期間分について提出してください。
+- ※ また、上記の証明書が、入国後間もない場合や転居等により、市区町村から発行されない場合は、最寄りの地方出入国在留管理官署にお問い合わせください。
+
+イ　直近５年間において住民税を適正な時期に納めていることを証明する資料（通帳の写し、領収証書等）
+
+- **※ 遅延納付（納付期限後の納付）がないことを証明するために提出していただくものですので、領収証書等については必要な年数分を保管しておいてください。**
+- ※ 直近５年間において、住民税が特別徴収（給与から天引き）されていない期間がある方は、当該期間分について提出してください。
+- ※ 直近５年間の全ての期間において、住民税が特別徴収（給与から天引き）されている方は、イの資料は不要です。アの資料のみ提出してください。
+- ※ Web通帳の画面の写し等（取引履歴が分かるもの）であっても差し支えありません。
+- 　 ただし、加工等できない状態で印刷されたものに限ります（Excelファイル等は不可）。
+
+### (2)　国税の納付状況を証明する資料
+
+源泉所得税及び復興特別所得税、申告所得税及び復興特別所得税、消費税及び地方消費税、相続税、贈与税に係る納税証明書（その３）\
+\
+    ※ 住所地を管轄する税務署から発行されるものです。\
+    ※ 納税証明書（その３）は、証明を受けようとする税目について、証明日現在において未納がないことを証明するものですので、対象期間の指定は不要です。\
+    ※ 上記の５税目全てに係る納税証明書を提出してください。\
+    ※ 請求方法等については、以下の国税庁ホームページをご覧ください。\
+\
+    ・ [納税証明書の交付請求手続について](https://www.nta.go.jp/taxes/nozei/nozei-shomei/01.htm)\
+    ・ [オンラインでの請求手続について](https://www.nta.go.jp/taxes/nozei/nozei-shomei/pdf/0024007-110.pdf)\
+    ・ [永住許可申請のための納税証明書の請求手続について](https://www.nta.go.jp/taxes/nozei/nozei-shomei/02.htm)\
+ 
+
+### (3)　その他
+
+次のいずれかで、所得を証明するもの
+
+1.  預貯金通帳の写し　適宜
+2.  上記aに準ずるもの　適宜
+
+※ Web通帳の画面の写し等（取引履歴が分かるもの）であっても差し支えありません。\
+    ただし、加工等できない状態で印刷されたものに限ります（Excelファイル等は不可）。
+
+## ８　申請人及び申請人を扶養する方の公的年金及び公的医療保険の保険料の納付状況を証明する資料
+
+※ 過去２年間に加入した公的年金制度及び公的医療保険制度に応じ、次のうち該当する資料を提出してください（複数の公的年金制度及び公的医療保険制度に加入していた場合は、それぞれの制度に係る資料が必要です。）。\
+※ 基礎年金番号、医療保険の保険者番号及び被保険者等記号・番号が記載されている書類（写しを含む。）を提出する場合には、これらの番号の部分を黒塗りにするなど、基礎年金番号、保険者番号及び被保険者等記号・番号を復元できない状態にした上でご提出ください。
+
+### (1)　直近（過去２年間）の公的年金の保険料の納付状況を証明する資料
+
+**年金事務所発行の「被保険者記録照会回答票」、「被保険者記録照会（納付Ⅰ）」及び「被保険者記録照会（納付Ⅱ）」**\
+\
+　※最寄りの年金事務所の窓口又は電話にてお問い合わせください。\
+　　　\
+上記資料のほか、以下の資料を提出していただくことも可能です。\
+\
+ア　「ねんきん定期便」（全期間の年金記録情報が表示されているもの）
+
+- ※ 日本年金機構から封書でねんきん定期便が送付されている方（３５、４５、５９歳の誕生月）は、同封されている書類のうち〈目次〉において、『〇ねんきん定期便（必ずご確認ください）』欄の枠内に記載されている全ての書類を提出してください。
+- ※ なお、毎年送付されるハガキ形式のねんきん定期便もありますが、全ての期間が確認できないため提出書類としてはご使用いただけません。
+- ※ 「ねんきん定期便」（全期間の年金記録情報が表示されているもの）は、日本年金機構の以下の問合せ先にご連絡いただくことにより交付申請を行うことができます。交付申請の際は、『全期間分（封書）を交付希望』とお伝えください（申請から交付までに２か月程度を要します。）。
+
+イ　ねんきんネットの「各月の年金記録」の印刷画面
+
+- ※ 申請時の直近２年間において、国民年金の被保険者であった期間がある方は、「各月の年金記録」の中にある、「国民年金の年金記録（各月の納付状況）」の印刷画面も併せて提出してください。
+- ※ 「ねんきんネット」は日本語のみ対応しており、外国語には対応していませんのでその旨ご留意ください。
+- ※ [日本年金機構のホームページ](https://www.nenkin.go.jp/n_net/index.html)から、ねんきんネットに登録することができます。
+- 　　登録手続き後５営業日程度で、日本年金機構からユーザＩＤをお知らせするハガキを登録した住所に郵送します。
+- 　　【問合せ先電話番号】
+- 　　　ねんきん定期便・ねんきんネット専用番号：0570-058-555（ナビダイヤル）
+- 　　　050で始まる電話でかける場合：03-6700-1144　
+- 　　　受付時間　月曜日　　　　　　午前８時３０分から午後７時まで
+- 　　　　　　　　火曜日から金曜日　午前８時３０分から午後５時１５分まで
+- 　　　　　　　　第２土曜日　　　　午前９時３０分から午後４時まで
+- 　　　URL : <https://www.nenkin.go.jp/section/tel/teikibin-n_net.html>
+
+\
+ウ　国民年金保険料領収証書（写し）
+
+- **※ 納付期限後の納付がないことを証明するために提出していただくものですので、領収証書等については必要な年数分を保管しておいてください。**
+- ※ 直近２年間において国民年金に加入していた期間がある方は、当該期間分の領収証書（写し）を全て提出してください。\
+  提出が困難な方は、その理由を記載した理由書を提出してください。
+- ※ 直近２年間の全ての期間において国民年金に加入していた方で、直近２年間（２４月分）の国民年金保険料領収証書（写し）を提出できる場合は、上記ア又はイの資料を提出していただく必要はありません。
+- ※ 上記ア～ウのうち、国民年金以外の年金（厚生年金など）に加入している方は、ア又はイの資料を提出してください。\
+  ※ 直近２年間において国民年金に加入していた期間がある方は、ア又はイの資料に加え、ウの資料も提出してください。\
+  ※ 直近２年間の全ての期間において引き続き国民年金に加入している方は、ウの資料を提出してください。直近２年間分（２４月分）のウの資料を提出するこ　
+- とが困難な場合は、その理由を記載した理由書及びア又はイの資料を提出してください。
+
+### (2)　直近（過去２年間）の公的医療保険の保険料の納付状況を証明する資料
+
+※ 保険者番号及び被保険者等記号・番号が記載されている書類（写しを含む。）を提出する場合には、これらの番号の部分を黒塗りにするなど、保険者番号及び被保険者等記号・番号を復元できない状態にした上でご提出ください。
+
+ア　世帯全員分の健康保険被保険者証（写し）
+
+- ※ 現在、健康保険に加入している方は提出してください。
+- ※ 直近２年間の全ての期間において引き続き健康保険に加入している方は、イ～エの資料は不要です。
+
+イ　世帯全員分の国民健康保険被保険者証（写し）
+
+- ※ 現在、国民健康保険に加入している方は提出してください。
+
+ウ　国民健康保険料（税）納付証明書
+
+- ※ 直近２年間において、国民健康保険に加入していた期間がある方は、当該期間分について提出してください。
+
+エ　国民健康保険料（税）領収証書（写し）
+
+- **※ 遅延納付（納付期限後の納付）がないことを証明するために提出していただくものですので、領収証書等については必要な年数分を保管しておいてください。**
+- ※ 直近２年間において、国民健康保険に加入していた期間がある方は、当該期間分の領収証書（写し）を全て提出してください。\
+  提出が困難な方は、その理由を記載した理由書を提出してください。 
+
+※令和６年１２月２日から健康保険証の廃止を定めるマイナンバー法等の一部改正法が施行されることに伴い、健康保険証はマイナンバーカードと一体化されたもの（「マイナ保険証」）になります。同日以降は現行の健康保険証の発行ができなくなるため、お手元にある健康保険証の有効期限が切れた場合や有効期限前に転職・転居などで保険者の異動が生じた場合は、以下の書類を提出してください。\
+\
+（１）マイナ保険証を所持している方\
+           マイナポータルの健康保険証情報に記載の「資格取得年月日」が確認できる画面の写し（３か月以内のもの）\
+\
+（２）マイナ保険証を所持していない方\
+          「資格確認証」（写し）\
+\
+※上記の書類を提出することが困難な場合については、その理由を記載した理由書を提出してください。
+
+### (3)　申請される方が申請時に社会保険適用事業所の事業主である場合
+
+申請時に、社会保険適用事業所の事業主である方は、上記の「公的年金の保険料の納付状況を証明する資料」及び「公的医療保険の保険料の納付状況を証明する資料」に加え、直近２年間のうち当該事業所で事業主である期間について、事業所における公的年金及び公的医療保険の保険料に係る次の資料ア又はイのいずれかを提出してください。\
+※ 健康保険組合管掌の適用事業所であって、アの保険料領収証書（写し）の提供が困難である場合は、日本年金機構が発行するイの社会保険料納入証明書又は社会保険料納入確認（申請）書に加え、管轄の健康保険組合が発行する健康保険組合管掌健康保険料の納付状況を証明する書類を提出してください。
+
+ア　健康保険・厚生年金保険料領収証書（写し）
+
+- **※ 遅延納付（納付期限後の納付）がないことを証明するために提出していただくものですので、領収証書等については必要な年数分を保管しておいてください。**
+- ※ 申請される方（事業主）が保管されている直近２年間のうち事業主である期間における、全ての期間の領収証書（写し）を提出してください。\
+  全ての期間について領収証書（写し）が提出できない方は、下記イを提出してください。
+
+イ　社会保険料納入証明書又は社会保険料納入確認（申請）書（いずれも未納の有無を証明・確認する場合）
+
+- ※ 申請書の様式や申請方法等は[日本年金機構ホームページ](https://www.nenkin.go.jp/service/kounen/jigyonushi/sonota/20140311.html)をご参照ください。\
+  社会保険料納入証明書については、「１．社会保険料納入証明書」の申請様式「社会保険料納入証明申請書」により、出力区分「一括用及び明細」及び証明範囲区分「延滞金含む」を選択して申請してください。\
+  また、「社会保険料納入確認（申請）書」については、 「２．社会保険料納入確認書」のうち、申請様式「社会保険料納入確認（申請）書（未納の有無を確認する場合）」により申請してください。
+- ※ 日本年金機構ホームページトップ画面右上の 「サイトマップ」＞「年金について（しくみや手続き全般）」＞「厚生年金保険」欄の「事業主向け情報」＞「事業主向け情報（その他）」＞「納入証明書・納入確認書」 　 からアクセスできます。
+
+## ９　申請人又は申請人を扶養する方の資産を証明する次のいずれかの資料
+
+(1)　預貯金通帳の写し　適宜\
+※ Web通帳の画面の写し等（取引履歴が分かるもの）であっても差し支えありません。 \
+    ただし、加工等できない状態で印刷されたものに限ります（Excelファイル等は不可）。\
+(2)　不動産の登記事項証明書　１通\
+(3)　上記(1)及び(2)に準ずるもの　適宜\
+※ 登記事項証明書は、[法務局のホームページ](http://houmukyoku.moj.go.jp/homu/static/online_syoumei_annai.html)からオンラインによる交付請求を行うことができます。\
+
+## 10　申請人のパスポート（旅券）又は在留資格証明書　提示
+
+パスポート（旅券）又は在留資格証明書の提示ができない場合は、その理由を記載した理由書を提出してください。\
+ 
+
+## 11　申請人の在留カード　提示
+
+※ 申請人以外の方が、当該申請人に係る永住許可申請を行う場合には、在留カードの写しを申請人に携帯させて、来庁する方が申請人の在留カードを持参してください。\
+　資格外活動許可書の交付を受けている方は、資格外活動許可書も提示してください。
+
+## 12　身元保証に関する資料
+
+(1)　身元保証書　１通\
+　　[身元保証書（PDF：29KB）](/isa/content/930002536.pdf)\
+　　[身元保証書（英語）（PDF：14KB）](/isa/content/930002537.pdf)\
+　　　
+
+(2)　身元保証人に係る次の資料\
+　　身元保証人の身分事項を明らかにする書類（運転免許証写し等）
+
+## 13　我が国への貢献に係る資料（※ある場合のみで結構です。）
+
+(1)　表彰状、感謝状、叙勲書等の写し　適宜\
+(2)　所属会社、大学、団体等の代表者等が作成した推薦状　適宜\
+(3)　その他、各分野において貢献があることに関する資料　適宜\
+
+## 14　身分を証する文書等　提示
+
+※ 上記14については、申請人本人以外の方（申請書類を提出できる方については、[こちら](https://www.moj.go.jp/isa/applications/procedures/16-4.html#midashi04)のページを参照してください。）が申請書類を提出する場合において、申請書類を提出できる方かどうかを確認させていただくために必要となるものです。\
+　また、申請人以外の方が申請書類を提出する場合であっても、上記10及び11の「申請人のパスポート及び在留カードの提示」が必要です。
+
+## 15　了解書　１通
+
+※ ２０２１年１０月１日から、永住許可申請には了解書の提出が必要となりました。
+
+- [了解書（PDF：87KB） ![PDFファイル（別ウィンドウで開く）](/isa/content/910000045.png)](/isa/content/001355579.pdf)
+- [了解書（やさしい日本語）（PDF：79KB） ![PDFファイル（別ウィンドウで開く）](/isa/content/910000045.png)](/isa/content/001356523.pdf)
+- [了解書（英語）（PDF：48KB） ![PDFファイル（別ウィンドウで開く）](/isa/content/910000045.png)](/isa/content/001356126.pdf)
+- [了解書（中国語簡体字）（PDF：67KB） ![PDFファイル（別ウィンドウで開く）](/isa/content/910000045.png)](/isa/content/001356127.pdf)
+- [了解書（中国語繁体字）（PDF：94KB） ![PDFファイル（別ウィンドウで開く）](/isa/content/910000045.png)](/isa/content/001356227.pdf)
+- [了解書（韓国語）（PDF：58KB） ![PDFファイル（別ウィンドウで開く）](/isa/content/910000045.png)](/isa/content/001356129.pdf)
+- [了解書（フランス語）（PDF：50KB） ![PDFファイル（別ウィンドウで開く）](/isa/content/910000045.png)](/isa/content/001356130.pdf)
+- [了解書（ポルトガル語）（PDF：59KB） ![PDFファイル（別ウィンドウで開く）](/isa/content/910000045.png)](/isa/content/001356131.pdf)
+- [了解書（スペイン語）（PDF：60KB） ![PDFファイル（別ウィンドウで開く）](/isa/content/910000045.png)](/isa/content/001356132.pdf)
+- [了解書（タガログ語）（PDF：43KB） ![PDFファイル（別ウィンドウで開く）](/isa/content/910000045.png)](/isa/content/001356133.pdf)
+- [了解書（ベトナム語）（PDF：77KB） ![PDFファイル（別ウィンドウで開く）](/isa/content/910000045.png)](/isa/content/001356134.pdf)
+- [了解書（ネパール語）（PDF：69KB） ![PDFファイル（別ウィンドウで開く）](/isa/content/910000045.png)](/isa/content/001356135.pdf)
+- [了解書（タイ語）（PDF：51KB） ![PDFファイル（別ウィンドウで開く）](/isa/content/910000045.png)](/isa/content/001356136.pdf)
+
+## 参考資料
+
+- [永住許可に関するガイドライン](/isa/applications/resources/nyukan_nyukan50.html)
+- [我が国への貢献があると認められる者への永住許可のガイドライン](/isa/applications/resources/nyukan_nyukan36.html)
+- [我が国への貢献による永住許可・不許可事例](/isa/applications/resources/nyukan_nyukan16.html)
+
+### 参考様式
+
+- [資料転用願出書（Word：27KB） ![Wordファイル（別ウィンドウで開く）](/isa/content/910000047.png)](/isa/content/930003313.doc)
+
+[ページトップ](#)
+
+- [サイトマップ](/isa/sitemap.html)
+- [リンク・著作権等について](/isa/copyright/index.html)
+- [ご意見・情報提供](/isa/publications/contact/index.html)
+
+![](/isa/content/001358753.png)
+
+\
+\
+\
+
+![](/isa/content/001358759.png)
+
+出入国在留管理庁
+
+〒100-8973　東京都千代田区霞が関1-1-1　中央合同庁舎６号館\
+℡045-370-9755（代表） （法人番号：7000012030004）\
+※開示請求等の手続については[こちら](/isa/disclosure_privacy.html)をご確認ください。\
+
+\
+\
+
+外国人在留支援センター（ＦＲＥＳＣ）
+
+〒160-0004　東京都新宿区四谷1-6-1　四谷タワー13階\
+℡0570-011000（代表）
+
+Copyright © Immigration Services Agency of Japan All Rights Reserved.

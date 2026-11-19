@@ -1,0 +1,733 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Universal Pension</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="National Pension Authority, Government of the People&#x27;s Republic of Bangladesh. Register for the Universal Pension Scheme, manage your account and pay contributions online.">
+<link rel="canonical" href="http://www.upension.gov.bd/Public/Registration">
+
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/public/img/favicon/favicon-32x32.png?v=10">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/public/img/favicon/favicon-16x16.png?v=10">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="apple-touch-icon" href="/assets/public/img/favicon/apple-touch-icon.png?v=10">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="theme-color" content="#006837">
+
+<meta property="og:site_name" content="Universal Pension">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Universal Pension">
+<meta property="og:description" content="National Pension Authority, Government of the People&#x27;s Republic of Bangladesh. Register for the Universal Pension Scheme, manage your account and pay contributions online.">
+<meta property="og:url" content="http://www.upension.gov.bd/Public/Registration">
+<meta property="og:image" content="http://www.upension.gov.bd/assets/public/img/core-img/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="bn_BD">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Universal Pension">
+<meta name="twitter:description" content="National Pension Authority, Government of the People&#x27;s Republic of Bangladesh. Register for the Universal Pension Scheme, manage your account and pay contributions online.">
+<meta name="twitter:image" content="http://www.upension.gov.bd/assets/public/img/core-img/og-image.png">
+
+
+
+    <link rel="stylesheet" href="/bundles/loginCss" />
+
+
+    <link rel="stylesheet" href="/assets/pensioner/plugins/fontawesome-free/css/fa.min.css?v=10">
+
+    <link rel="stylesheet" href="/assets/public/css/login.css?v=10">
+
+
+    <script src="/bundles/loginJs"></script>
+
+
+    
+
+    <style>
+        .docDiv, .agreementDiv, .registrationDiv {
+            background: white;
+        }
+        .agreementDiv ul, .docDiv ul {
+            padding-left: 0px !important;
+            list-style: none !important;
+        }
+
+        .agreementDiv li, .docDiv li {
+            text-align: justify !important;
+            margin-bottom: 5px;
+        }
+
+        .form-group {
+            margin-bottom: 0.5rem !important;
+        }
+
+        /* Fixed container height issue */
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            min-height: auto;
+            padding: 20px;
+        }
+
+        .main {
+            width: 100%;
+            max-width: 600px;
+        }
+
+        .card {
+            width: 100%;
+            margin: 0 auto;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .card-header {
+            font-family: "SolaimanLipi";
+            font-size: 26px;
+            background-color: #008767;
+            color: white;
+            text-align: center;
+            border-bottom: none;
+        }
+
+
+        .pl-1 {
+            padding-left: 0.25rem !important;
+        }
+
+        td.active.day {
+            background: #008767 !important;
+        }
+
+        span.year.active {
+            background: #008767 !important;
+        }
+
+        span.month.active {
+            background: #008767 !important;
+        }
+    </style>
+
+    <style>
+        .custom-control-input:checked ~ .custom-control-label::before {
+            color: #fff;
+            border-color: #008767;
+            background-color: #008767;
+        }
+    </style>
+
+    <style>
+        /* Custom CSS for Select2 */
+        .select2-container--default .select2-selection--single {
+            height: calc(1.5em + .75rem + 2px) !important;
+            line-height: 1.5;
+            padding: .375rem .75rem;
+        }
+
+            .select2-container--default .select2-selection--single .select2-selection__arrow {
+                height: calc(1.5em + .75rem + 2px) !important;
+            }
+
+            .select2-container--default .select2-selection--single .select2-selection__rendered {
+                line-height: 1.5 !important;
+            }
+
+            .select2-container--default .select2-selection--single .select2-selection__arrow b {
+                top: 50% !important;
+            }
+
+        .dob-form-group {
+            display: flex; /* Use flexbox */
+            justify-content: space-around; /* Distribute items evenly */
+        }
+
+        .select-container {
+            flex: 1; /* Allow flexbox items to grow and shrink */
+            margin-right: 10px; /* Add spacing between the select elements */
+        }
+
+            .select-container.last-select {
+                margin-right: 0px !important; /* Remove margin-right for the last select */
+            }
+
+        .doc-checklist {
+            background: #00926636;
+            border: 1px solid #e9ecef;
+            border-radius: 6px;
+            padding: 10px;
+            font-size: 14px;
+            color: #495057;
+            text-align: center;
+        }
+
+        .doc-icon {
+            margin: 0 4px;
+            font-size: 13px;
+            color: #008767
+        }
+
+        .icon-box {
+            width: 1.4rem;
+            height: 1.4rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 20%;
+            background-color: #008767;
+            color: white;
+            font-size: .8rem;
+        }
+
+        .section {
+            width: 100%;
+            transition: transform 0.5s ease, opacity 0.5s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+            .section.hidden-left {
+                transform: translateX(-100%);
+                opacity: 0;
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+            }
+
+            .section.hidden-right {
+                transform: translateX(100%);
+                opacity: 0;
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+            }
+
+            .section.visible {
+                transform: translateX(0);
+                opacity: 1;
+                position: relative;
+            }
+
+        .card-body {
+            position: relative;
+            overflow: hidden;
+        }
+
+        /* Form styling */
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+    box-sizing: border-box;
+    transition: border-color 0.3s ease;
+}
+
+.form-control:focus {
+    outline: none;
+    border-color: #008767;
+    box-shadow: 0 0 0 2px rgba(0, 135, 103, 0.2);
+}
+
+.form-control::placeholder {
+    color: #999;
+    opacity: 1;
+}
+
+/* Error message styling */
+.error-message {
+    font-size: 12px;
+    margin-top: 5px;
+    padding-left: 4px;
+}
+
+.text-danger {
+    color: #dc3545 !important;
+}
+
+.d-none {
+    display: none !important;
+}
+
+/* Captcha container - Desktop layout */
+.captcha-form-container {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.captcha-input-group {
+    flex: 1;
+    min-width: 200px;
+}
+
+.captcha-image-group {
+    flex-shrink: 0;
+}
+
+.captcha-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.captcha-container img {
+    border-radius: 4px;
+    border: 1px solid #ddd;
+    height: auto;
+    max-width: 200px;
+}
+
+.captcha-icon-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+    text-align: center;
+    transition: all 0.3s ease;
+    outline: none !important;
+}
+
+.captcha-icon-btn:hover {
+    background-color: rgba(0, 135, 103, 0.1);
+    border-radius: 4px;
+}
+
+.captcha-icon-btn i {
+    color: #008767;
+    font-size: 18px;
+    margin-bottom: 4px;
+}
+
+.captcha-icon-btn span {
+    font-family: 'SolaimanLipi', Arial, sans-serif;
+    font-size: 12px;
+    color: #666;
+    display: block;
+    white-space: nowrap;
+}
+
+/* Mobile responsive - Tablet and below */
+@media (max-width: 768px) {
+    .captcha-form-container {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 15px;
+    }
+
+    .captcha-input-group {
+        width: 100%;
+    }
+
+    .captcha-image-group {
+        align-self: center;
+    }
+
+    .captcha-container {
+        justify-content: center;
+    }
+
+    .captcha-container img {
+        width: 100%;
+    }
+}
+
+/* Mobile responsive - Small mobile screens */
+@media (max-width: 480px) {
+    .form-control {
+        padding: 10px;
+        font-size: 14px;
+    }
+
+    .captcha-container {
+        flex-direction: column;
+        gap: 8px;
+        text-align: center;
+    }
+
+    .captcha-container img {
+        width:100%;
+    }
+
+    .captcha-icon-btn span {
+        font-size: 11px;
+    }
+
+    .error-message {
+        font-size: 11px;
+    }
+}
+    </style>
+
+    <style>
+        .scheme-toggle {
+            position: relative;
+            display: inline-flex;
+            width: 100%;
+            max-width: 340px;
+            background: #eef2f1;
+            border-radius: 999px;
+            padding: 4px;
+            box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.06);
+        }
+
+        .scheme-toggle input[type="radio"] {
+            position: absolute;
+            opacity: 0;
+            width: 0;
+            height: 0;
+            pointer-events: none;
+        }
+
+        .scheme-toggle label {
+            position: relative;
+            z-index: 1;
+            flex: 1;
+            margin: 0;
+            padding: 9px 10px;
+            border-radius: 999px;
+            text-align: center;
+            font-size: 13.5px;
+            font-weight: 600;
+            color: #5f6b68;
+            cursor: pointer;
+            white-space: nowrap;
+            transition: color 0.25s ease;
+        }
+
+        .scheme-toggle input[type="radio"]:checked + label {
+            color: #fff;
+        }
+
+        .scheme-toggle input[type="radio"]:focus-visible + label {
+            box-shadow: 0 0 0 2px #ffffff, 0 0 0 4px #008767;
+        }
+
+        .scheme-toggle-glider {
+            position: absolute;
+            z-index: 0;
+            top: 4px;
+            left: 4px;
+            bottom: 4px;
+            width: calc(50% - 4px);
+            border-radius: 999px;
+            background: linear-gradient(135deg, #00a884, #008767);
+            box-shadow: 0 3px 8px rgba(0, 135, 103, 0.35);
+            transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        #schemeTypeConventional:checked ~ .scheme-toggle-glider {
+            transform: translateX(0);
+        }
+
+        #schemeTypeIslamic:checked ~ .scheme-toggle-glider {
+            transform: translateX(100%);
+        }
+
+        @media (max-width: 480px) {
+            .scheme-toggle label {
+                font-size: 12px;
+                padding: 8px 6px;
+            }
+        }
+    </style>
+
+</head>
+<body>
+    <!-- ##### Preloader ##### -->
+    <div id="preloader">
+        <i class="circle-preloader"></i>
+    </div>
+
+    <!-- Login Form -->
+    <div class="container">
+
+        <div class="main">
+            <div class="text-center mb-4">
+                <a id="loginLogo" href="/Public">
+                    <img src="/assets/public/img/core-img/uPensionLogo.svg" alt="Universal Pension Logo" width="300" />
+                </a>
+            </div>
+            <div class="innerContent">
+                
+
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8IkaRBU3sJNFuADlb2puKItZrvtCUwXF3de1W9RlujGioGlk5FzIj-XrW7qzx1nvpXIa_goES1Cuc7_hrqEVoFuGih-0_TIUssZzY_ygigC19fX-WVaUOPZKcHjLe27ewHENl_dH8Kk-DmkGPKDrgtg" />
+<div class="card">
+    <div class="card-header text-center">
+        রেজিস্ট্রেশন করুন
+    </div>
+    <form>
+
+        <div class="card-body">
+
+
+            <div class="docDiv section visible">
+                <h5 class="text-center mb-2 pension-color">আবেদন সম্পন্ন করতে প্রয়োজনীয় তথ্যাবলি</h5>
+                <ul>
+                    <li>
+                        <div class="d-flex align-items-center justify-content-start">
+                            <div class="icon-box mr-1">
+                                <i class="fa fa-star"></i>
+                            </div>
+                            এনআইডি/পাসপোর্ট (শুধুমাত্র প্রবাস স্কিমে) নম্বর
+                        </div>
+                    </li>
+
+                    <li>
+                        <div class="d-flex align-items-center justify-content-start">
+                            <div class="icon-box mr-1">
+                                <i class="fa fa-calendar"></i>
+                            </div>
+                            জন্ম তারিখ
+                        </div>
+                    </li>
+
+                    <li>
+                        <div class="d-flex align-items-center justify-content-start">
+                            <div class="icon-box mr-1">
+                                <i class="fas fa-mobile-alt"></i>
+                            </div>
+                            মোবাইল নম্বর
+                        </div>
+                    </li>
+
+                    <li>
+                        <div class="d-flex align-items-center justify-content-start">
+                            <div class="icon-box mr-1">
+                                <i class="fa fa-money"></i>
+                            </div>
+                            ব্যাংক বা মোবাইল ব্যাংকিং হিসাব নম্বর (যেই হিসাবে পেনশনের টাকা প্রদান করা হবে)
+                        </div>
+                    </li>
+
+                    <li>
+                        <div class="d-flex align-items-center justify-content-start">
+                            <div class="icon-box mr-1">
+                                <i class="fa fa-user"></i>
+                            </div>
+                            নমিনির তথ্য এনআইডি/জন্ম নিবন্ধন নম্বর এবং জন্ম তারিখ
+                        </div>
+                    </li>
+
+                </ul>
+
+                <button type="button" id="btnHave" class="btn btn-pension w-100 mt-2">আমার নিকট তথ্য আছে <i class="fa fa-long-arrow-right"></i></button>
+            </div>
+
+            <div class="agreementDiv section hidden-right">
+                <h5 class="text-center mb-2 pension-color">এই মর্মে প্রত্যয়ন করছি যে</h5>
+                <ul>
+                    <li>ক) আমি সরকারি/ আধা-সরকারি/ স্বায়ত্তশাসিত/ সংবিধিবদ্ধ কোন রাষ্ট্রায়ত্ত প্রতিষ্ঠানে কর্মরত নই</li>
+                    <li>খ) সর্বজনীন পেনশন স্কিম বহির্ভূত কোন ধরনের রাষ্ট্রায়ত্ত প্রতিষ্ঠান হতে পেনশন সুবিধা গ্রহণ করি না</li>
+                    <li>গ) আমি সামাজিক নিরাপত্তা কর্মসূচির আওতায় কোন ধরনের ভাতা গ্রহণ করি না</li>
+                </ul>
+                <h5 class="text-danger text-center">উল্লেখ্য, ভুল তথ্য প্রদান করলে জাতীয় পেনশন কর্তৃপক্ষ আইন ও বিধিমালা আলোকে প্রয়োজনীয় ব্যবস্থা গ্রহণ করবে</h5>
+                <div class="d-flex align-items-center justify-content-between">
+                    <button type="button" id="btnBackToDoc" class="btn btn-pension mt-2">
+                        <i class="fa fa-long-arrow-left"></i>
+                        প্রয়োজনীয় তথ্যাদি
+                    </button>
+
+                    <button type="button" id="btnAgree" class="btn btn-pension mt-2">আমি সম্মত আছি <i class="fa fa-long-arrow-right"></i></button>
+                </div>
+            </div>
+
+            <div class="registrationDiv section hidden-right">
+
+
+
+
+                <div class="dropdown mb-2" style="height: calc(1.5em + .75rem + 9px) ">
+                    <div class="select">
+                        <span class="selectedSpan">স্কিম নির্বাচন করুন</span>
+                        <i class="fa fa-arrow-down"></i>
+                    </div>
+                    <input id="package" type="hidden" name="" value="-1">
+                    <ul class="dropdown-menu" id="packageDropdownMenu">
+                        <li id="1" data-scheme-type="conventional">প্রবাস (প্রবাসী বাংলাদেশি)</li>
+                        <li id="5" data-scheme-type="conventional">সমতা (স্বল্প আয়ের ব্যক্তি)</li>
+                        <li id="4" data-scheme-type="conventional">সুরক্ষা (স্বকর্ম ও অ-প্রাতিষ্ঠানিক কর্মী)</li>
+                        <li id="2" data-scheme-type="conventional">প্রগতি (বেসরকারি কর্মচারী/প্রতিষ্ঠান)</li>
+                        <li id="7" data-scheme-type="islamic" style="display:none;">প্রবাস (শরিয়াহ)</li>
+                        <li id="8" data-scheme-type="islamic" style="display:none;">প্রগতি (শরিয়াহ)</li>
+                        <li id="10" data-scheme-type="islamic" style="display:none;">সুরক্ষা (শরিয়াহ)</li>
+                        <li id="11" data-scheme-type="islamic" style="display:none;">সমতা (শরিয়াহ)</li>
+                    </ul>
+                </div>
+
+
+                <div id="enablePassport" class="custom-control custom-switch custom-switch-md d-none mb-2">
+                    <input type="checkbox" class="custom-control-input" id="enableUsePassport">
+                    <label class="custom-control-label" for="enableUsePassport" style="font-size:1rem!important">এনআইডি নাই। পাসপোর্ট দিয়ে করতে চাই</label>
+                </div>
+
+                <div id="otherFields" class="">
+
+                    <div class="form-group">
+
+                        <input type="number" class="form-control" id="nidPassport" placeholder="১০/১৩/১৭ সংখ্যার এনআইডি নম্বর প্রদান করুন" autocomplete="off">
+
+                        <div id="nidPassportError" class="error-message text-danger pl-1 d-none"><span>সঠিক এনআইডি প্রদান করুন</span></div>
+                    </div>
+
+                    <div class="form-group">
+                        <input type="text" class="form-control" id="dob" placeholder="জন্ম তারিখ নির্বাচন করুন" style="background: white !important;" autocomplete="off">
+                        <div id="dobError" class="error-message text-danger pl-1 d-none"><span>সঠিক জন্ম তারিখ প্রদান করুন</span></div>
+                    </div>
+
+
+                    <div class="form-group">
+                        <input type="number" class="form-control" id="mobile" placeholder="মোবাইল নম্বর টাইপ করুন" autocomplete="off">
+                        <div id="mobileError" class="error-message text-danger pl-1 d-none"><span>সঠিক মোবাইল প্রদান করুন</span></div>
+                    </div>
+
+                    <div class="form-group">
+                        <input type="email" class="form-control" id="email" placeholder="ইমেইল আইডি টাইপ করুন (আবশ্যিক নয়)" autocomplete="off">
+                        <div id="emailError" class="error-message text-danger pl-1 d-none"><span>সঠিক ইমেইল প্রদান করুন</span></div>
+                    </div>
+                    <div class="form-group captcha-form-container">
+                        <div class="captcha-input-group">
+                            <input type="text" class="form-control" id="captcha" placeholder="ক্যাপচা প্রদান করুন" autocomplete="off">
+                        </div>
+                        <div class="captcha-image-group">
+                            <div class="captcha-container">
+                                <img src="/public/captchaimage?timestamp=639296759015130479" alt="Captcha Image" />
+                                <div>
+                                    <button id="changeCaptchaBtn" class="captcha-icon-btn" type="button">
+                                        <i class="fa fa-refresh" aria-hidden="true"></i>
+                                        <br>
+                                        <span>নতুন ক্যাপচা</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    
+
+                </div>
+                <div class="d-flex align-items-center justify-content-between">
+                    <button type="button" id="btnBackToConditions" class="btn btn-pension mt-2">
+                        <i class="fa fa-long-arrow-left"></i>
+                        প্রত্যয়ন
+                    </button>
+
+                    <button type="submit" id="btnGoNext" class="btn btn-pension mt-2">
+                        আবেদন শুরু করুন
+                        <i class="fa fa-long-arrow-right"></i>
+                    </button>
+                </div>
+
+            </div>
+
+
+
+
+    </form>
+
+    <div class="text-center">
+        <a href="/Public/Packages"><h4 class="register mt-2 text-center">প্যাকেজ/স্কিমসমূহ বিস্তারিত ধারণা</h4></a>
+        <span class="forgetPassword mt-2 text-center">আপনার যদি কোন একাউন্ট থাকে তাহলে, <a href="/Public/Login"><span class="register">লগইন করুন</span></a></span>
+    </div>
+
+</div>
+
+
+
+
+            </div>
+
+        </div>
+    </div>
+
+
+    <script>
+
+        let browserWindow = $(window);
+        browserWindow.on('load', function () {
+            $('#preloader').fadeOut('slow', function () {
+                $(this).hide();
+            });
+        });
+
+    </script>
+    <script src="/assets/baseURL.js?v=10"></script>
+
+
+    <script src="/bundles/common"></script>
+
+
+    <script src="/Scripts/Public/LoginLayout.js?v=10"></script>
+
+    
+
+    <script src="/Scripts/Common/captcha.js?v=10"></script>
+    <script src="/Scripts/Public/Registration.js?v=10"></script>
+
+    <script>
+        $(document).ready(function () {
+
+
+            document.getElementById('captcha').addEventListener('keydown', function (e) {
+                if (e.key === 'Tab' && !e.shiftKey) {
+                    e.preventDefault();
+                    document.getElementById('btnGoNext').focus();
+                }
+            });
+
+            document.getElementById('btnGoNext').addEventListener('keydown', function (e) {
+                if (e.key === 'Tab' && e.shiftKey) {
+                    e.preventDefault();
+                    document.getElementById('captcha').focus();
+                }
+            });
+
+
+        });
+
+
+    </script>
+
+    <script>
+        $(function () {
+
+            // From Conditions to Agreement
+            $('#btnHave').click(function () {
+                $(".docDiv").removeClass('visible').addClass('hidden-left');
+                $(".agreementDiv").removeClass('hidden-left hidden-right').addClass('visible');
+            });
+
+            // From Agreement to Registration
+            $('#btnAgree').click(function () {
+                $(".agreementDiv").removeClass('visible').addClass('hidden-left');
+                $(".registrationDiv").removeClass('hidden-left hidden-right').addClass('visible');
+            });
+
+            // Back from Registration to Agreement
+            $('#btnBackToConditions').click(function () {
+                $(".registrationDiv").removeClass('visible').addClass('hidden-right');
+                $(".agreementDiv").removeClass('hidden-left hidden-right').addClass('visible');
+            });
+
+            // Optional: If you need to go back from Agreement to Conditions (add a button with id="btnBackToDocs")
+            $('#btnBackToDoc').click(function () {
+                console.log("22")
+                $(".agreementDiv").removeClass('visible').addClass('hidden-right');
+                $(".docDiv").removeClass('hidden-left hidden-right').addClass('visible');
+            });
+
+        });
+
+    </script>
+
+
+
+
+</body>
+</html>

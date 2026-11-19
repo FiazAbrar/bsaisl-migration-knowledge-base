@@ -1,0 +1,58 @@
+Planning to Study in Japan
+
+# Academic Fees
+
+- [HOME](/en/)
+- [Planning to Study in Japan](/en/planning/)
+- Academic Fees
+
+Calculating the specific costs associated with studying in Japan and making a financial plan that includes personal funds will help you to live a stable life after studying in Japan. Please calculate the necessary expenses for studying in Japan so that your plan is not unreasonable.
+
+**Necessary Expenses for Studying in Japan ...**
+
+***Before* coming to Japan**
+
+- Examination fees（EJU / JLPT / TOEFL, etc.）
+- Entrance examination fee
+- Physical examination fee (if necessary)
+- Application mailing costs
+- Airfare and lodging expenses
+- Passport application fee (if necessary)
+- Visa application fee
+- Admission fee / Tuition fee
+- Dormitory fee (if necessary)
+- Other
+
+***After* coming to Japan**
+
+- Hotel expenses (if necessary）
+- Housing expenses (including initial rental costs and purchase of furniture and appliances)
+- Commuting expenses
+- Food expenses
+- Utilities (electricity, gas, water)
+- Insurance/medical expenses
+- Textbooks, etc.
+- Miscellaneous expenses
+- Other
+
+In addition to the above expenses, airfare, accommodation, visa application fee, insurance, etc. will be required if you need to come to Japan to take an examination.
+
+## Academic Fees
+
+Academic fees in Japan are not as high as those in the United States and the United Kingdom. In addition, many Japanese schools provide scholarship programs and tuition exemption/reduction programs to international students.
+
+Below mentioned table shows the average admission and tuition fees for the first year. In addition, you may be require to pay examination fees, teaching materials and practical training fees, etc.
+
+Admission fees, tuition fees, etc. vary from school to school. Also, tuition fees may differ depending on your place of residence, so please check the website and application guidelines of the school you are planning to apply to in advance.
+
+[TABLE]
+
+[TABLE]
+
+\*1. If you meet the requirements for the third year, you will be eligible for the High School Tuitions Support Fund.
+
+\* Fees for teaching materials, practical training, etc. may be required separately.
+
+- [For details on tuition fees, please refer to this document.](/en/planning/brochures/#005)
+- [For information about living costs, please check here](/en/life/cost-of-living/)
+- [For information about part-time job, please check here](/en/work-in-japan/part-time-jobs/)

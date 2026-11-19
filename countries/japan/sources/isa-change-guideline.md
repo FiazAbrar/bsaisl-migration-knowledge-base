@@ -1,0 +1,236 @@
+[![出入国在留管理庁 Immigration Services Agency of Japan](/isa/content/910000042.png)](/isa/index.html)
+
+[本文へ](#contentsArea)
+
+[Multi language](/isa/other_languages.html)
+
+文字サイズ  
+[標準](javascript:textSizeReset();)
+
+[拡大](javascript:textSizeUp();)
+
+*MENU*
+
+![](/isa/content/001345705.png)
+
+- [組織・採用](/isa/about/index.html)
+  - [出入国在留管理庁の概要](/isa/about/organization/index.html)
+  - [機構図](/isa/about/organization/chart.html)
+  - [幹部一覧](/isa/about/organization/executive.html)
+  - [地方出入国在留管理官署](/isa/about/region/index.html)
+  - [採用案内](/isa/about/recruitment/index.html)
+- [出入国手続](/isa/immigration/index.html)
+  - [出入（帰）国手続について（解説）](/isa/immigration/procedures/tetuduki_index1_1.html)
+  - [再入国許可申請](/isa/immigration/procedures/16-5.html)
+  - [トラスティド・トラベラー・プログラム（TTP）](/isa/immigration/procedures/ttp2_index.html)
+  - [乗員上陸許可申請（NACCS）](/isa/immigration/procedures/06_00005.html)
+  - [各種公表資料](/isa/immigration/resources/index.html)
+  - [出入国審査・在留審査Q&A](/isa/immigration/faq/kanri_qa.html)
+- [在留手続](/isa/applications/index.html)
+  - [在留資格から探す](/isa/applications/status/index.html)
+  - [手続の種類から探す](/isa/applications/procedures/index.html)
+  - [オンライン手続](/isa/applications/online/onlineprocedures.html)
+  - [育成就労制度](/isa/applications/index_00005.html)
+  - [特定技能制度](/isa/applications/ssw/index.html)
+  - [外国人技能実習制度](/isa/applications/titp/nyuukokukanri05_00014.html)
+  - [高度人材ポイント制](/isa/applications/resources/newimmiact_3_index.html)
+  - [J-Skip/J-Find](/isa/applications/resources/nyukan_nyukan50_00002.html)
+  - [スタートアップ関連施策](/isa/applications/resources/03_00070.html)
+  - [留学生の就職](/isa/applications/resources/10_00015.html)
+  - [各種公表資料](/isa/applications/resources/index.html)
+- [在留支援](/isa/support/index.html)
+  - [ロードマップ](/isa/support/coexistence/04_00033.html)
+  - [総合的対応策](/isa/support/coexistence/nyuukokukanri01_00140.html)
+  - [HarmoniUP!](/isa/support/coexistence/04_00070.html)
+  - [新規入国者向けガイダンスページ](/isa/support/guidance/index.html)
+  - [外国人生活支援ポータルサイト](/isa/support/portal/index.html)
+  - [生活・就労ガイドブック](/isa/support/portal/guidebook_all.html)
+  - [外国人在留支援センター(FRESC／フレスク）](/isa/support/fresc/fresc01.html)
+  - [相談窓口](/isa/support/consultation/index.html)
+  - [外国人との共生施策に係る御意見・御要望（御意見箱）](/isa/support/opinion.html)
+- [退去強制手続](/isa/deportation/index.html)
+  - [退去強制手続と出国命令制度](/isa/deportation/procedures/tetuduki_index5_00002.html)
+  - [監理措置制度](/isa/08_00045.html)
+  - [仮放免制度](/isa/08_00050.html)
+  - [各種申請](/isa/deportation/application.html)
+  - [入管法違反者に関する情報提供](/isa/consultation/report/index.html)
+  - [各種公表資料](/isa/deportation/resources/index.html)
+  - [退去強制手続・出国命令制度・上陸拒否期間の短縮決定Q&A](/isa/deportation/guide/tetuduki_taikyo_qa.html)
+- [難民の認定等](/isa/refugee/index.html)
+  - [難民認定手続・補完的保護対象者認定手続](/isa/refugee/procedures/16-6.html)
+  - [難民旅行証明書交付申請手続](/isa/refugee/procedures/16-7.html)
+  - [第三国定住による難民の受入れ](/isa/refugee/procedures/07_00046.html)
+  - [一時庇護上陸許可](/isa/refugee/procedures/higo_00001.html)
+  - [各種公表資料](/isa/refugee/resources/index.html)
+- [政策情報（会議・統計等）](/isa/policies/index.html)
+  - [会議・委員会等](/isa/policies/conference/seisaku_index.html)
+  - [統計](/isa/policies/statistics/index.html)
+  - [基本計画・白書・パンフレット](/isa/policies/policies/index.html)
+  - [関係法令](/isa/policies/bill/01_00442.html)
+  - [その他政策情報](/isa/policies/others/index.html)
+- [広報・情報公開等](/isa/publications/index.html)
+  - [プレスリリース](/isa/publications/press/index.html)
+  - [更新情報](/isa/publications/newslist/index.html)
+  - [広報](/isa/publications/publications/index.html)
+  - [調達情報](/isa/publications/procurement/index.html)
+  - [情報公開・個人情報保護](/isa/disclosure_privacy.html)
+  - [公文書管理](/isa/publications/record/index.html)
+  - [ご意見・情報提供](/isa/publications/contact/index.html)
+  - [その他の公表情報](/isa/publications/others/index.html)
+  - [よくあるお問い合わせ（FAQ）](/isa/publications/faq.html)
+
+- [組織・採用](/isa/about/index.html)
+  - [出入国在留管理庁の概要](/isa/about/organization/index.html)
+  - [機構図](/isa/about/organization/chart.html)
+  - [幹部一覧](/isa/about/organization/executive.html)
+  - [地方出入国在留管理官署](/isa/about/region/index.html)
+  - [採用案内](/isa/about/recruitment/index.html)
+- [出入国手続](/isa/immigration/index.html)
+  - [出入（帰）国手続について（解説）](/isa/immigration/procedures/tetuduki_index1_1.html)
+  - [再入国許可申請](/isa/immigration/procedures/16-5.html)
+  - [トラスティド・トラベラー・プログラム（TTP）](/isa/immigration/procedures/ttp2_index.html)
+  - [乗員上陸許可申請（NACCS）](/isa/immigration/procedures/06_00005.html)
+  - [各種公表資料](/isa/immigration/resources/index.html)
+  - [出入国審査・在留審査Q&A](/isa/immigration/faq/kanri_qa.html)
+- [在留手続](/isa/applications/index.html)
+  - [在留資格から探す](/isa/applications/status/index.html)
+  - [手続の種類から探す](/isa/applications/procedures/index.html)
+  - [オンライン手続](/isa/applications/online/onlineprocedures.html)
+  - [育成就労制度](/isa/applications/index_00005.html)
+  - [特定技能制度](/isa/applications/ssw/index.html)
+  - [外国人技能実習制度](/isa/applications/titp/nyuukokukanri05_00014.html)
+  - [高度人材ポイント制](/isa/applications/resources/newimmiact_3_index.html)
+  - [J-Skip/J-Find](/isa/applications/resources/nyukan_nyukan50_00002.html)
+  - [スタートアップ関連施策](/isa/applications/resources/03_00070.html)
+  - [留学生の就職](/isa/applications/resources/10_00015.html)
+  - [各種公表資料](/isa/applications/resources/index.html)
+- [在留支援](/isa/support/index.html)
+  - [ロードマップ](/isa/support/coexistence/04_00033.html)
+  - [総合的対応策](/isa/support/coexistence/nyuukokukanri01_00140.html)
+  - [HarmoniUP!](/isa/support/coexistence/04_00070.html)
+  - [新規入国者向けガイダンスページ](/isa/support/guidance/index.html)
+  - [外国人生活支援ポータルサイト](/isa/support/portal/index.html)
+  - [生活・就労ガイドブック](/isa/support/portal/guidebook_all.html)
+  - [外国人在留支援センター(FRESC／フレスク）](/isa/support/fresc/fresc01.html)
+  - [相談窓口](/isa/support/consultation/index.html)
+  - [外国人との共生施策に係る御意見・御要望（御意見箱）](/isa/support/opinion.html)
+- [退去強制手続](/isa/deportation/index.html)
+  - [退去強制手続と出国命令制度](/isa/deportation/procedures/tetuduki_index5_00002.html)
+  - [監理措置制度](/isa/08_00045.html)
+  - [仮放免制度](/isa/08_00050.html)
+  - [各種申請](/isa/deportation/application.html)
+  - [入管法違反者に関する情報提供](/isa/consultation/report/index.html)
+  - [各種公表資料](/isa/deportation/resources/index.html)
+  - [退去強制手続・出国命令制度・上陸拒否期間の短縮決定Q&A](/isa/deportation/guide/tetuduki_taikyo_qa.html)
+- [難民の認定等](/isa/refugee/index.html)
+  - [難民認定手続・補完的保護対象者認定手続](/isa/refugee/procedures/16-6.html)
+  - [難民旅行証明書交付申請手続](/isa/refugee/procedures/16-7.html)
+  - [第三国定住による難民の受入れ](/isa/refugee/procedures/07_00046.html)
+  - [一時庇護上陸許可](/isa/refugee/procedures/higo_00001.html)
+  - [各種公表資料](/isa/refugee/resources/index.html)
+- [政策情報（会議・統計等）](/isa/policies/index.html)
+  - [会議・委員会等](/isa/policies/conference/seisaku_index.html)
+  - [統計](/isa/policies/statistics/index.html)
+  - [基本計画・白書・パンフレット](/isa/policies/policies/index.html)
+  - [関係法令](/isa/policies/bill/01_00442.html)
+  - [その他政策情報](/isa/policies/others/index.html)
+- [広報・情報公開等](/isa/publications/index.html)
+  - [プレスリリース](/isa/publications/press/index.html)
+  - [更新情報](/isa/publications/newslist/index.html)
+  - [広報](/isa/publications/publications/index.html)
+  - [調達情報](/isa/publications/procurement/index.html)
+  - [情報公開・個人情報保護](/isa/disclosure_privacy.html)
+  - [公文書管理](/isa/publications/record/index.html)
+  - [ご意見・情報提供](/isa/publications/contact/index.html)
+  - [その他の公表情報](/isa/publications/others/index.html)
+  - [よくあるお問い合わせ（FAQ）](/isa/publications/faq.html)
+
+[Multi language](/isa/other_languages.html)
+
+- [トップページ](/isa/index.html)
+- [在留手続](/isa/applications/index.html)
+- [各種公表資料](/isa/applications/resources/index.html)
+- [在留資格関係](/isa/applications/resources/nyuukokukanri01_00006.html)
+- 在留資格の変更、在留期間の更新許可のガイドライン
+
+# 在留資格の変更、在留期間の更新許可のガイドライン
+
+出入国在留管理庁\
+平成２０年３月策定\
+（最終改正令和８年６月）
+
+ 
+
+　在留資格の変更及び在留期間の更新は、出入国管理及び難民認定法（以下「入管法」という。）により、法務大臣が適当と認めるに足りる相当の理由があるときに限り許可することとされており、この相当の理由があるか否かの判断は、専ら法務大臣の自由な裁量に委ねられ、申請者の行おうとする活動、在留の状況、在留の必要性等を総合的に勘案して行っているところ、この判断に当たっては、以下のような事項を考慮します。\
+　ただし、以下の事項のうち、１の在留資格該当性については、許可する際に必要な要件となります。また、２の上陸許可基準については、原則として適合していることが求められます。３以下の事項については、適当と認める相当の理由があるか否かの判断に当たっての代表的な考慮要素であり、これらの事項にすべて該当する場合であっても、すべての事情を総合的に考慮した結果、変更又は更新を許可しないこともあります。\
+　なお、社会保険への加入の促進を図るため、平成２２（２０１０）年４月１日から申請時に窓口において健康保険証の提示を求めています。\
+（注）令和６年１２月２日、健康保険証の発行が廃止されたことから、同日以降、健康保険証を所持していない者については、スマートフォン等によるマイナポータルの「資格情報」画面の提示、「資格情報のお知らせ」又は「資格確認書」の提示を求めています。\
+　なお、健康保険証等を提示できないことで在留資格の変更又は在留期間の更新を不許可とすることはありません。\
+\
+**１　行おうとする活動が申請に係る入管法別表に掲げる在留資格に該当すること**\
+　申請人である外国人が行おうとする活動が、入管法別表第一に掲げる在留資格については同表の下欄に掲げる活動、入管法別表第二に掲げる在留資格については同表の下欄に掲げる身分又は地位を有する者としての活動であることが必要となります。\
+ \
+**２　法務省令で定める上陸許可基準等に適合していること**\
+　法務省令で定める上陸許可基準は、外国人が日本に入国する際の上陸審査の基準ですが、入管法別表第一の二の表又は四の表に掲げる在留資格の下欄に掲げる活動を行おうとする者については、在留資格変更及び在留期間更新に当たっても、原則として上陸許可基準に適合していることが求められます。 \
+　また、在留資格「特定活動」については「出入国管理及び難民認定法第七条第一項第二号の規定に基づき同法別表第一の五の表の下欄に掲げる活動を定める件」（特定活動告示）に該当するとして、在留資格「定住者」については「出入国管理及び難民認定法第七条第一項第二号の規定に基づき同法別表第二の定住者の項の下欄に掲げる地位を定める件」（定住者告示）に該当するとして、上陸を許可され在留している場合は、原則として引き続き各告示に定める要件に該当することを要します  。\
+　ただし、申請人の年齢や扶養を受けていること等の要件については、年齢を重ねたり、扶養を受ける状況が消滅する等、我が国入国後の事情の変更により、適合しなくなることがありますが、このことにより直ちに在留期間更新が不許可となるものではありません。\
+ \
+**３　現に有する在留資格に応じた活動を行っていたこと**\
+ 　申請人である外国人が、現に有する在留資格に応じた活動を行っていたことが必要です。例えば、失踪した技能実習生や、除籍・退学後も在留を継続していた留学生については、現に有する在留資格に応じた活動を行わないで在留していたことについて正当な理由がある場合を除き、消極的な要素として評価されます。また、長期間にわたる再入国許可による出国（みなし再入国許可による出国を含む。）がある場合についても、正当な理由があるときを除き、消極的な要素として評価されます。\
+   \
+**４　素行が不良でないこと**\
+**　**素行については、善良であることが前提となり、良好でない場合には消極的な要素として評価され、具体的には、退去強制事由に準ずるような刑事処分を受けた行為、不法就労をあっせんするなど出入国在留管理行政上看過することのできない行為を行った場合は、たとえ初犯であったとしても素行が不良であると判断されることとなります。\
+ \
+**５　独立の生計を営むに足りる資産又は技能を有すること**\
+**　**申請人の生活状況として、日常生活において公共の負担となっておらず、かつ、その有する資産又は技能等から見て将来において安定した生活が見込まれること（世帯単位で認められれば足ります。）が求められますが、仮に公共の負担となっている場合であっても、在留を認めるべき人道上の理由が認められる場合には、その理由を十分勘案して判断されることとなります。\
+\
+**６　雇用・労働条件が適正であること**\
+**　**我が国で就労している（しようとする）場合には、アルバイトを含めその雇用・労働条件が、労働関係法規に適合していることが必要です。\
+　なお、労働関係法規違反により勧告等が行われたことが判明した場合は、通常、申請人である外国人に責はないため、この点を十分に勘案して判断されることとなります。\
+ \
+**７　納税義務等を履行していること**\
+**　**納税義務がある場合には、当該納税義務を履行していることが求められ、履行していない場合には消極的な要素として評価されます。例えば、納税義務の不履行により刑を受けている場合は、納税義務を履行していないと判断されるほか、刑を受けていなくても、高額の未納や長期間の未納などが判明した場合等も、悪質なものについては同様に取り扱います。 \
+　また、国民健康保険料など、法令によって納付することとされているものについて、高額の未納や長期間の未納などが判明した場合も、悪質なものについては同様に取り扱います。\
+　（注）当庁からの求めに応じ、関係機関から提供を受けた納税義務等の履行状況に関する情報を踏まえ、許否判断を行う場合があります。\
+\
+**８　入管法に定める届出等の義務を履行していること**\
+　入管法上の在留資格をもって我が国に中長期間在留する外国人の方は、入管法第 １９条の７から第１９条の１３まで、第１９条の１５及び第１９条の１６に規定する在留カードの記載事項に係る届出、在留カードの有効期間更新申請、紛失等による在留カードの再交付申請、在留カードの返納、所属機関等に関する届出などの義務を履行していることが必要です。\
+＜中長期在留者の範囲＞\
+　入管法上の在留資格をもって我が国に中長期間在留する外国人で、次の（１）～（５）の いずれにも該当しない人\
+（１）　「３月」以下の在留期間が決定された人\
+（２）　「短期滞在」の在留資格が決定された人\
+（３）　「外交」又は「公用」の在留資格が決定された人\
+（４） 　（１）～（３）の外国人に準じるものとして法務省令で定める人\
+（５） 　特別永住者\
+\
+（注）令和８年６月の改正では、「７　納税義務等を履行していること」における注書きの追記等を実施。
+
+[ページトップ](#)
+
+- [サイトマップ](/isa/sitemap.html)
+- [リンク・著作権等について](/isa/copyright/index.html)
+- [ご意見・情報提供](/isa/publications/contact/index.html)
+
+![](/isa/content/001358753.png)
+
+\
+\
+\
+
+![](/isa/content/001358759.png)
+
+出入国在留管理庁
+
+〒100-8973　東京都千代田区霞が関1-1-1　中央合同庁舎６号館\
+℡045-370-9755（代表） （法人番号：7000012030004）\
+※開示請求等の手続については[こちら](/isa/disclosure_privacy.html)をご確認ください。\
+
+\
+\
+
+外国人在留支援センター（ＦＲＥＳＣ）
+
+〒160-0004　東京都新宿区四谷1-6-1　四谷タワー13階\
+℡0570-011000（代表）
+
+Copyright © Immigration Services Agency of Japan All Rights Reserved.

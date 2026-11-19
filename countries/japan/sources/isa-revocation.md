@@ -1,0 +1,249 @@
+[![出入国在留管理庁 Immigration Services Agency of Japan](/isa/content/910000042.png)](/isa/index.html)
+
+[本文へ](#contentsArea)
+
+[Multi language](/isa/other_languages.html)
+
+文字サイズ  
+[標準](javascript:textSizeReset();)
+
+[拡大](javascript:textSizeUp();)
+
+*MENU*
+
+![](/isa/content/001345705.png)
+
+- [組織・採用](/isa/about/index.html)
+  - [出入国在留管理庁の概要](/isa/about/organization/index.html)
+  - [機構図](/isa/about/organization/chart.html)
+  - [幹部一覧](/isa/about/organization/executive.html)
+  - [地方出入国在留管理官署](/isa/about/region/index.html)
+  - [採用案内](/isa/about/recruitment/index.html)
+- [出入国手続](/isa/immigration/index.html)
+  - [出入（帰）国手続について（解説）](/isa/immigration/procedures/tetuduki_index1_1.html)
+  - [再入国許可申請](/isa/immigration/procedures/16-5.html)
+  - [トラスティド・トラベラー・プログラム（TTP）](/isa/immigration/procedures/ttp2_index.html)
+  - [乗員上陸許可申請（NACCS）](/isa/immigration/procedures/06_00005.html)
+  - [各種公表資料](/isa/immigration/resources/index.html)
+  - [出入国審査・在留審査Q&A](/isa/immigration/faq/kanri_qa.html)
+- [在留手続](/isa/applications/index.html)
+  - [在留資格から探す](/isa/applications/status/index.html)
+  - [手続の種類から探す](/isa/applications/procedures/index.html)
+  - [オンライン手続](/isa/applications/online/onlineprocedures.html)
+  - [育成就労制度](/isa/applications/index_00005.html)
+  - [特定技能制度](/isa/applications/ssw/index.html)
+  - [外国人技能実習制度](/isa/applications/titp/nyuukokukanri05_00014.html)
+  - [高度人材ポイント制](/isa/applications/resources/newimmiact_3_index.html)
+  - [J-Skip/J-Find](/isa/applications/resources/nyukan_nyukan50_00002.html)
+  - [スタートアップ関連施策](/isa/applications/resources/03_00070.html)
+  - [留学生の就職](/isa/applications/resources/10_00015.html)
+  - [各種公表資料](/isa/applications/resources/index.html)
+- [在留支援](/isa/support/index.html)
+  - [ロードマップ](/isa/support/coexistence/04_00033.html)
+  - [総合的対応策](/isa/support/coexistence/nyuukokukanri01_00140.html)
+  - [HarmoniUP!](/isa/support/coexistence/04_00070.html)
+  - [新規入国者向けガイダンスページ](/isa/support/guidance/index.html)
+  - [外国人生活支援ポータルサイト](/isa/support/portal/index.html)
+  - [生活・就労ガイドブック](/isa/support/portal/guidebook_all.html)
+  - [外国人在留支援センター(FRESC／フレスク）](/isa/support/fresc/fresc01.html)
+  - [相談窓口](/isa/support/consultation/index.html)
+  - [外国人との共生施策に係る御意見・御要望（御意見箱）](/isa/support/opinion.html)
+- [退去強制手続](/isa/deportation/index.html)
+  - [退去強制手続と出国命令制度](/isa/deportation/procedures/tetuduki_index5_00002.html)
+  - [監理措置制度](/isa/08_00045.html)
+  - [仮放免制度](/isa/08_00050.html)
+  - [各種申請](/isa/deportation/application.html)
+  - [入管法違反者に関する情報提供](/isa/consultation/report/index.html)
+  - [各種公表資料](/isa/deportation/resources/index.html)
+  - [退去強制手続・出国命令制度・上陸拒否期間の短縮決定Q&A](/isa/deportation/guide/tetuduki_taikyo_qa.html)
+- [難民の認定等](/isa/refugee/index.html)
+  - [難民認定手続・補完的保護対象者認定手続](/isa/refugee/procedures/16-6.html)
+  - [難民旅行証明書交付申請手続](/isa/refugee/procedures/16-7.html)
+  - [第三国定住による難民の受入れ](/isa/refugee/procedures/07_00046.html)
+  - [一時庇護上陸許可](/isa/refugee/procedures/higo_00001.html)
+  - [各種公表資料](/isa/refugee/resources/index.html)
+- [政策情報（会議・統計等）](/isa/policies/index.html)
+  - [会議・委員会等](/isa/policies/conference/seisaku_index.html)
+  - [統計](/isa/policies/statistics/index.html)
+  - [基本計画・白書・パンフレット](/isa/policies/policies/index.html)
+  - [関係法令](/isa/policies/bill/01_00442.html)
+  - [その他政策情報](/isa/policies/others/index.html)
+- [広報・情報公開等](/isa/publications/index.html)
+  - [プレスリリース](/isa/publications/press/index.html)
+  - [更新情報](/isa/publications/newslist/index.html)
+  - [広報](/isa/publications/publications/index.html)
+  - [調達情報](/isa/publications/procurement/index.html)
+  - [情報公開・個人情報保護](/isa/disclosure_privacy.html)
+  - [公文書管理](/isa/publications/record/index.html)
+  - [ご意見・情報提供](/isa/publications/contact/index.html)
+  - [その他の公表情報](/isa/publications/others/index.html)
+  - [よくあるお問い合わせ（FAQ）](/isa/publications/faq.html)
+
+- [組織・採用](/isa/about/index.html)
+  - [出入国在留管理庁の概要](/isa/about/organization/index.html)
+  - [機構図](/isa/about/organization/chart.html)
+  - [幹部一覧](/isa/about/organization/executive.html)
+  - [地方出入国在留管理官署](/isa/about/region/index.html)
+  - [採用案内](/isa/about/recruitment/index.html)
+- [出入国手続](/isa/immigration/index.html)
+  - [出入（帰）国手続について（解説）](/isa/immigration/procedures/tetuduki_index1_1.html)
+  - [再入国許可申請](/isa/immigration/procedures/16-5.html)
+  - [トラスティド・トラベラー・プログラム（TTP）](/isa/immigration/procedures/ttp2_index.html)
+  - [乗員上陸許可申請（NACCS）](/isa/immigration/procedures/06_00005.html)
+  - [各種公表資料](/isa/immigration/resources/index.html)
+  - [出入国審査・在留審査Q&A](/isa/immigration/faq/kanri_qa.html)
+- [在留手続](/isa/applications/index.html)
+  - [在留資格から探す](/isa/applications/status/index.html)
+  - [手続の種類から探す](/isa/applications/procedures/index.html)
+  - [オンライン手続](/isa/applications/online/onlineprocedures.html)
+  - [育成就労制度](/isa/applications/index_00005.html)
+  - [特定技能制度](/isa/applications/ssw/index.html)
+  - [外国人技能実習制度](/isa/applications/titp/nyuukokukanri05_00014.html)
+  - [高度人材ポイント制](/isa/applications/resources/newimmiact_3_index.html)
+  - [J-Skip/J-Find](/isa/applications/resources/nyukan_nyukan50_00002.html)
+  - [スタートアップ関連施策](/isa/applications/resources/03_00070.html)
+  - [留学生の就職](/isa/applications/resources/10_00015.html)
+  - [各種公表資料](/isa/applications/resources/index.html)
+- [在留支援](/isa/support/index.html)
+  - [ロードマップ](/isa/support/coexistence/04_00033.html)
+  - [総合的対応策](/isa/support/coexistence/nyuukokukanri01_00140.html)
+  - [HarmoniUP!](/isa/support/coexistence/04_00070.html)
+  - [新規入国者向けガイダンスページ](/isa/support/guidance/index.html)
+  - [外国人生活支援ポータルサイト](/isa/support/portal/index.html)
+  - [生活・就労ガイドブック](/isa/support/portal/guidebook_all.html)
+  - [外国人在留支援センター(FRESC／フレスク）](/isa/support/fresc/fresc01.html)
+  - [相談窓口](/isa/support/consultation/index.html)
+  - [外国人との共生施策に係る御意見・御要望（御意見箱）](/isa/support/opinion.html)
+- [退去強制手続](/isa/deportation/index.html)
+  - [退去強制手続と出国命令制度](/isa/deportation/procedures/tetuduki_index5_00002.html)
+  - [監理措置制度](/isa/08_00045.html)
+  - [仮放免制度](/isa/08_00050.html)
+  - [各種申請](/isa/deportation/application.html)
+  - [入管法違反者に関する情報提供](/isa/consultation/report/index.html)
+  - [各種公表資料](/isa/deportation/resources/index.html)
+  - [退去強制手続・出国命令制度・上陸拒否期間の短縮決定Q&A](/isa/deportation/guide/tetuduki_taikyo_qa.html)
+- [難民の認定等](/isa/refugee/index.html)
+  - [難民認定手続・補完的保護対象者認定手続](/isa/refugee/procedures/16-6.html)
+  - [難民旅行証明書交付申請手続](/isa/refugee/procedures/16-7.html)
+  - [第三国定住による難民の受入れ](/isa/refugee/procedures/07_00046.html)
+  - [一時庇護上陸許可](/isa/refugee/procedures/higo_00001.html)
+  - [各種公表資料](/isa/refugee/resources/index.html)
+- [政策情報（会議・統計等）](/isa/policies/index.html)
+  - [会議・委員会等](/isa/policies/conference/seisaku_index.html)
+  - [統計](/isa/policies/statistics/index.html)
+  - [基本計画・白書・パンフレット](/isa/policies/policies/index.html)
+  - [関係法令](/isa/policies/bill/01_00442.html)
+  - [その他政策情報](/isa/policies/others/index.html)
+- [広報・情報公開等](/isa/publications/index.html)
+  - [プレスリリース](/isa/publications/press/index.html)
+  - [更新情報](/isa/publications/newslist/index.html)
+  - [広報](/isa/publications/publications/index.html)
+  - [調達情報](/isa/publications/procurement/index.html)
+  - [情報公開・個人情報保護](/isa/disclosure_privacy.html)
+  - [公文書管理](/isa/publications/record/index.html)
+  - [ご意見・情報提供](/isa/publications/contact/index.html)
+  - [その他の公表情報](/isa/publications/others/index.html)
+  - [よくあるお問い合わせ（FAQ）](/isa/publications/faq.html)
+
+[Multi language](/isa/other_languages.html)
+
+- [トップページ](/isa/index.html)
+- [在留手続](/isa/applications/index.html)
+- [手続の種類から探す](/isa/applications/procedures/index.html)
+- 在留資格の取消し（入管法第22条の４）
+
+# 在留資格の取消し（入管法第22条の４）
+
+## 制度の概要
+
+　在留資格の取消しとは、本邦に在留する外国人が、偽りその他不正の手段により上陸許可の証印等を受けた場合や、在留資格に基づく本来の活動を一定期間行わないで在留していた場合などに、当該外国人の在留資格を取り消す制度です。\
+　在留資格を取り消す場合は、入管法の第２２条の４第１項に規定されており、法務大臣は、次の各号に掲げるいずれかの事実が判明したときは、外国人が現に有する在留資格を取り消すことができます。\
+　\
+（１） 偽りその他不正の手段により、上陸拒否事由該当性に関する入国審査官の判断を誤らせて上陸許可の証印等を受けた場合。\
+\
+（２）(1)のほか、偽りその他不正の手段により、本邦で行おうとする活動を偽り、上陸許可の証印等を受けた場合（例えば、本邦で単純労働を行おうとする者が「技術」の在留資格に該当する活動を行う旨申告した場合） 又は本邦で行おうとする活動以外の事実を偽り、上陸許可の証印等を受けた場合（例えば、申請人が自身の経歴を偽った場合）。\
+\
+（３）(1)又は(2)に該当する以外の場合で、虚偽の書類を提出して上陸許可の証印等を受けた場合。本号においては、偽りその他不正の手段によることは要件となっておらず、申請人に故意があることは要しません。\
+\
+（４） 偽りその他不正の手段により、在留特別許可を受けた場合。\
+\
+（５） 入管法別表第１の上欄の在留資格（注）をもって在留する者が、当該在留資格に係る活動を行っておらず、かつ、他の活動を行い又は行おうとして在留している場合（ただし、正当な理由がある場合を除きます。）。\
+\
+（６） 入管法別表第１の上欄の在留資格（注）をもって在留する者が、当該在留資格に係る活動を継続して３か月以上行っていない場合（ただし、当該活動を行わないで在留していることにつき正当な理由がある場合を除きます。）。\
+\
+（７） 「日本人の配偶者等」の在留資格をもって在留する者（日本人の子及び特別養子を除く。）又は「永住者の配偶者等」の在留資格をもって在留する者（永住者等の子を除く。）が、その配偶者としての活動を継続して６か月以上行っていない場合（ただし、当該活動を行わないで在留していることにつき正当な理由がある\
+　　場合を除きます。）。\
+\
+（８） 上陸の許可又は在留資格の変更許可等により、新たに中長期在留者となった者が、当該許可を受けてから９０日以内に、出入国在留管理庁長官に住居地の届出をしない場合（ただし、届出をしないことにつき正当な理由ある場合を除きます。）。\
+\
+（９） 中長期在留者が、出入国在留管理庁長官に届け出た住居地から退去した日から９０日以内に、出入国在留管理庁長官に新しい住居地の届出をしない場合（ただし、届出をしないことにつき正当な理由がある場合を除きます。）。\
+\
+（10） 中長期在留者が、出入国在留管理庁長官に虚偽の住居地を届け出た場合。\
+\
+　在留資格の取消しをしようとする場合には、入国審査官が、在留資格の取消しの対象となる外国人から意見を聴取することとされており、当該外国人は、意見の聴取に当たって意見を述べ、証拠を提出し、又は資料の閲覧を求めることができます。\
+　在留資格が取り消されることとなった場合であって、上記２の(1)又は(2)に該当するときは、直ちに退去強制の対象となります。\
+　一方で、上記２の(3)から(10)までに該当するときは、３０日を上限として出国のために必要な期間が指定され、当該期間内に自主的に出国することになります。\
+　ただし、上記２の(5)に該当する場合のうち、当該外国人が逃亡すると疑うに足る相当の理由がある場合は、直ちに退去強制の対象となります。\
+　指定された期間内に出国しなかった場合は、退去強制の対象となるほか、刑事罰の対象となります。\
+\
+（注）入管法別表第１の上欄の在留資格\
+\
+「外交」、「公用」、「教授」、「芸術」、「宗教」、「報道」、「高度専門職」、「経営・管理」、「法律・会計業務」、「医療」、「研究」、「教育」、「技術・人文知識・国際業務」、「企業内転勤」、「介護」、「興行」、「技能」、「特定技能」、「技能実習」、「文化活動」、「短期滞在」、「留学」、「研修」、「家族滞在」、「特定活動」
+
+## 在留資格取消手続の流れ
+
+![在留資格取消手続の流れ](/isa/content/001375353.gif)
+
+## 在留資格の取消しを行わない具体例について
+
+・　[配偶者の身分を有する者としての活動を行わないことに正当な理由がある場合等](/isa/applications/procedures/newimmiact_1_info_120703_01.html)\
+\
+・　[住居地の届出を行わないことに正当な理由がある場合等](/isa/applications/procedures/newimmiact_1_info_120703_02.html)
+
+## 永住者の在留資格の取消しについて
+
+　永住者は、永住許可後には在留審査の機会がないことから、永住許可時には満たしていた永住許可の要件を永住許可後に満たさなくなるような場合が一部において見受けられ、そうした在留状況が良好と評価できない一部の悪質な永住者に永住許可を認め続けることは、秩序ある共生社会の実現の観点からも適切ではありません。　\
+　このように事後的に永住許可の要件を満たさなくなった場合に適切に対応する措置として、令和６年出入国管理及び難民認定法等改正法により、「永住者」の在留資格を取り消すことができる事由として\
+\
+(1)　入管法に規定する義務を遵守せず（上記（９）及び（１０）に該当する場合を除く。）、又は故意に公租公課の支払をしない場合\
+(2)　一定の刑罰法令に違反し拘禁刑に処せられた場合\
+\
+が追加されました。\
+\
+　また、当該２つのいずれかに該当して在留資格を取り消そうとする場合であっても、引き続き本邦に在留することが適当でないと認められる場合を除き、職権により「永住者」以外の在留資格への変更を許可する規定が設けられました。\
+　これら改正事項の施行は令和９年４月１日であるところ、外国人及び関係者の予見可能性及び処分の公平性を確保し、在留資格取消制度が適切に運用されるよう「永住者の在留資格の取消しに関するガイドライン」を策定しました。
+
+- [永住者の在留資格の取消しに関するガイドライン](/isa/deportation/resources/nyukan_nyukan85_00002.html)
+
+　（注）在留資格の取消事由に該当するかどうかについては、個々の事案の具体的な状況に応じて判断されるものである上、仮に取消事由に該当するとしても、実際にその取消し等をするかどうかは、取消事由に該当することとなった経緯や、その後の在留状況等を踏まえて判断されることとなるところ、本ガイドラインは、法の解釈指針を可能な限り明確化するとともに、想定される事例を示すものです。\
+　なお、現行入管法上も、住居地から退去して正当な理由なく９０日以内に新住居地の届出をしない場合（上記（９））や虚偽の住居地を届け出た場合（上記（１０））、不正の手段等により永住許可を受けた場合（上記（１）から（３））は、「永住者」の在留資格が取り消されることがあります。
+
+[ページトップ](#)
+
+- [サイトマップ](/isa/sitemap.html)
+- [リンク・著作権等について](/isa/copyright/index.html)
+- [ご意見・情報提供](/isa/publications/contact/index.html)
+
+![](/isa/content/001358753.png)
+
+\
+\
+\
+
+![](/isa/content/001358759.png)
+
+出入国在留管理庁
+
+〒100-8973　東京都千代田区霞が関1-1-1　中央合同庁舎６号館\
+℡045-370-9755（代表） （法人番号：7000012030004）\
+※開示請求等の手続については[こちら](/isa/disclosure_privacy.html)をご確認ください。\
+
+\
+\
+
+外国人在留支援センター（ＦＲＥＳＣ）
+
+〒160-0004　東京都新宿区四谷1-6-1　四谷タワー13階\
+℡0570-011000（代表）
+
+Copyright © Immigration Services Agency of Japan All Rights Reserved.

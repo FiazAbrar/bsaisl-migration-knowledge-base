@@ -1,0 +1,415 @@
+name,url,access_date,http_status,content_type,method,files
+emb-dhaka-visa-FAILED,https://www.bd.emb-japan.go.jp/itpr_en/visa.html,2026-11-19,403,text/html,curl,
+mhlw-minwage-fy2026,https://www.mhlw.go.jp/content/11200000/001753404.pdf,2026-11-19,200,application/pdf,curl,mhlw-minwage-fy2026.pdf;mhlw-minwage-fy2026.txt
+ttc-joypurhat-oep-guide-2026-01,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-ttc-joypurhat/2026/1/a0fe79c1-78a6-46e3-91e0-08c6879b583b.pdf,2026-11-08,200,,manual,ttc-joypurhat-oep-guide-2026-01.pdf;ttc-joypurhat-oep-guide-2026-01.txt
+oep-country-clearance,https://www.oep.gov.bd/reports/country-clearance,2026-11-08,200,,manual,oep-country-clearance.html;oep-country-clearance.md
+oep-home,https://www.oep.gov.bd/,2026-11-08,200,,manual,oep-home.html;oep-home.md;oep-home.txt
+wewb-call-centre,https://wewb.gov.bd/pages/static-pages/6922db7d933eb65569e0a5ea,2026-11-08,200,,manual,wewb-call-centre.html;wewb-call-centre.md
+epassport-instructions-fc,https://www.epassport.gov.bd/instructions/instructions,2026-11-08,200,,manual,epassport-instructions-fc.md
+epassport-fees-fc,https://www.epassport.gov.bd/instructions/passport-fees,2026-11-08,200,,manual,epassport-fees-fc.md
+pcc-police-home-fc,https://pcc.police.gov.bd/ords/r/pcc/pcc/home,2026-11-08,200,,manual,pcc-police-home-fc.md
+police-pcc-guidance,https://www.police.gov.bd/en/police_clearance_certificate,2026-11-08,200,,manual,police-pcc-guidance.html;police-pcc-guidance.md
+bmet-citizen-charter-2026,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bmet/2026/8/65cae7ff-a58f-426d-b90c-d524620b8cbc.pdf,2026-11-08,200,,manual,bmet-citizen-charter-2026.pdf;bmet-citizen-charter-2026.txt
+bmet-safe-migration-leaflet-2025-12,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bmet/2024/12/98db1e08e0654b68843c08c81a892444.pdf,2026-11-08,200,,manual,bmet-safe-migration-leaflet-2025-12.pdf;bmet-safe-migration-leaflet-2025-12.txt
+ministry-welfare-fee-circular-2026-09,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-probashi/2026/8/5786d973-9426-4c21-acd0-d62583342517.pdf,2026-11-08,200,,manual,ministry-welfare-fee-circular-2026-09.pdf;ministry-welfare-fee-circular-2026-09.txt
+wewb-membership,https://wewb.gov.bd/pages/static-pages/6922decd933eb65569e1d77d,2026-11-08,200,,manual,wewb-membership.html;wewb-membership.md;wewb-membership.tables.md
+wewb-jbc-insurance-leaflet-transcription,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-wewb/2024/12/256fdcbd0bee4e73a6f0cedbd53a207b.pdf#transcription,2026-11-08,200,,manual,wewb-jbc-insurance-leaflet-transcription.md
+pkb-migration-loan-page,https://pkb.gov.bd/pages/static-pages/6922dca4933eb65569e11660,2026-11-08,200,,manual,pkb-migration-loan-page.pdf;pkb-migration-loan-page.txt
+mygov-pkb-migration-loan,https://www.mygov.bd/services/info?id=BDGS-1726556874,2026-11-08,200,,manual,mygov-pkb-migration-loan.html;mygov-pkb-migration-loan.md
+pkb-women-migration-loan,https://pkb.gov.bd/pages/static-pages/6922e03d933eb65569e2627c,2026-11-08,200,,manual,pkb-women-migration-loan.html;pkb-women-migration-loan.md
+pkb-citizen-charter-2026-09,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-pkb/2026/8/1bb6bf6a-6525-4239-8bef-8c54e36d06bf.pdf,2026-11-08,200,,manual,pkb-citizen-charter-2026-09.pdf;pkb-citizen-charter-2026-09.txt
+wewb-3lakh-grant,https://wewb.gov.bd/pages/static-pages/6922e14b933eb65569e2b5d5,2026-11-08,200,,manual,wewb-3lakh-grant.html;wewb-3lakh-grant.md;wewb-3lakh-grant.tables.md
+ministry-citizen-charter-2026,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-probashi/2026/8/31a84167-1243-425e-b460-b8b3da81009e.pdf,2026-11-08,200,,manual,ministry-citizen-charter-2026.pdf;ministry-citizen-charter-2026.txt
+bdlaws-oem-act-2013-full,https://bdlaws.minlaw.gov.bd/act-details-1131.html,2026-11-07,200,text/html;charset=UTF-16,curl,bdlaws-oem-act-2013-full.html;bdlaws-oem-act-2013-full.md;bdlaws-oem-act-2013-full.txt
+isa-gijinkoku,https://www.moj.go.jp/isa/applications/status/gijinkoku.html,2026-11-19,200,text/html,curl,isa-gijinkoku.html;isa-gijinkoku.md;isa-gijinkoku.txt
+emb-dhaka-visa,https://www.bd.emb-japan.go.jp/itpr_en/visa.html,2026-11-19,200,,firecrawl,emb-dhaka-visa.md
+isa-hsp,https://www.moj.go.jp/isa/applications/status/designatedactivities02_00004.html,2026-11-19,200,text/html,curl,isa-hsp.html;isa-hsp.md;isa-hsp.txt
+oep-country-clearance-2022,https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=-1&approval_date_from=2022-01-01&approval_date_to=2022-12-31,2026-11-07,200,,manual,oep-country-clearance-2022.json;oep-country-clearance-2022.md
+oep-country-clearance-2023,https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=-1&approval_date_from=2023-01-01&approval_date_to=2023-12-31,2026-11-07,200,,manual,oep-country-clearance-2023.json;oep-country-clearance-2023.md
+oep-country-clearance-2024,https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=-1&approval_date_from=2024-01-01&approval_date_to=2024-12-31,2026-11-07,200,,manual,oep-country-clearance-2024.json;oep-country-clearance-2024.md
+oep-country-clearance-2025,https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=-1&approval_date_from=2025-01-01&approval_date_to=2025-12-31,2026-11-07,200,,manual,oep-country-clearance-2025.json;oep-country-clearance-2025.md
+oep-country-clearance-2026-to-1118,https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=-1&approval_date_from=2026-01-01&approval_date_to=2026-11-18,2026-11-19,200,,manual,oep-country-clearance-2026-to-1118.json;oep-country-clearance-2026-to-1118.md
+bb-remittance-selected-country-monthly,https://www.bb.org.bd/en/index.php/econdata/wagermidtl,2026-11-11,200,,manual,bb-remittance-selected-country-monthly.md
+bmet-annual-by-country-2025-05-img,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bmet/2024/12/5a7da9cf93d747148e3069c06faa0370.jpg,2026-11-08,200,,manual,bmet-annual-by-country-2025-05-img.jpg;bmet-annual-by-country-2025-05-img.md
+isa-refugee-2024-press,https://www.moj.go.jp/isa/publications/press/07_00054.html,2026-11-19,200,text/html,curl,isa-refugee-2024-press.html;isa-refugee-2024-press.md;isa-refugee-2024-press.txt
+isa-dependent,https://www.moj.go.jp/isa/applications/status/dependent.html,2026-11-19,200,text/html,curl,isa-dependent.html;isa-dependent.md;isa-dependent.txt
+isa-spouse,https://www.moj.go.jp/isa/applications/status/spouseorchildofjapanese.html,2026-11-19,200,text/html,curl,isa-spouse.html;isa-spouse.md;isa-spouse.txt
+isa-coe,https://www.moj.go.jp/isa/applications/procedures/16-1.html,2026-11-19,200,text/html,curl,isa-coe.html;isa-coe.md;isa-coe.txt
+isa-change-status,https://www.moj.go.jp/isa/applications/procedures/16-2.html,2026-11-19,200,text/html,curl,isa-change-status.html;isa-change-status.md;isa-change-status.txt
+isa-pr,https://www.moj.go.jp/isa/applications/procedures/16-4.html,2026-11-19,200,text/html,curl,isa-pr.html;isa-pr.md;isa-pr.txt
+jica-bjet-2023,https://www.jica.go.jp/english/information/topics/2022/20230222_11.html,2026-11-19,200,text/html,curl,jica-bjet-2023.html;jica-bjet-2023.md;jica-bjet-2023.txt
+bjet-org,https://www.bjet.org/,2026-11-19,200,text/html; charset=utf-8,curl,bjet-org.html;bjet-org.md;bjet-org.txt
+emb-japan-bjet-FAILED,https://www.bd.emb-japan.go.jp/itpr_en/MinisterYoshidaattendsBJETtraining.html,2026-11-19,403,text/html,curl,
+vfs-short-term-checklist,https://www.vfsglobal.com/one-pager/japan/bangladesh/english/pdf/Short-Term-Checklist_new.pdf,2026-11-19,200,application/pdf,curl,vfs-short-term-checklist.pdf;vfs-short-term-checklist.txt
+emb-reqdoc-FAILED,https://www.bd.emb-japan.go.jp/en/visa/visareqdoc.html,2026-11-19,403,text/html,curl,
+emb-additional-FAILED,https://www.bd.emb-japan.go.jp/en/visa/visaadditional.html,2026-11-19,403,text/html,curl,
+emb-howto-FAILED,https://www.bd.emb-japan.go.jp/en/visa/visainfohowto.html,2026-11-19,403,text/html,curl,
+emb-additional,https://www.bd.emb-japan.go.jp/en/visa/visaadditional.html,2026-11-19,200,text/html,wayback:20251117014912,emb-additional.html;emb-additional.md;emb-additional.txt
+isa-pr-guidelines,https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html,2026-11-19,200,text/html,curl,isa-pr-guidelines.html;isa-pr-guidelines.md;isa-pr-guidelines.txt
+isa-fee-reduction,https://www.moj.go.jp/isa/10_00273.html,2026-11-19,200,text/html,curl,isa-fee-reduction.html;isa-fee-reduction.md;isa-fee-reduction.txt
+vfs-bgd-jpn-home-FAILED,https://visa.vfsglobal.com/bgd/en/jpn,2026-11-19,403,application/json,curl,
+jps-lumpsum,https://www.nenkin.go.jp/international/japanese-system/withdrawalpayment/payment.html,2026-11-19,200,text/html,curl,jps-lumpsum.html;jps-lumpsum.md;jps-lumpsum.txt
+mofa-ssw-overview-FAILED,https://www.mofa.go.jp/mofaj/ca/fna/ssw/us/overview/,2026-11-19,403,text/html,curl,
+isa-fee-online,https://www.moj.go.jp/isa/11_00107.html,2026-11-19,200,text/html,curl,isa-fee-online.html;isa-fee-online.md;isa-fee-online.txt
+mofa-ssw-general-process-FAILED,https://www.mofa.go.jp/mofaj/ca/fna/ssw/us/introduction/,2026-11-19,403,text/html,curl,
+otit-home,https://www.otit.go.jp/,2026-11-19,200,text/html,curl,otit-home.html;otit-home.md;otit-home.txt
+isa-gijinkoku-clarify,https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan69.html,2026-11-19,200,text/html,curl,isa-gijinkoku-clarify.html;isa-gijinkoku-clarify.md;isa-gijinkoku-clarify.txt
+isa-001424354,https://www.moj.go.jp/isa/content/001424354.pdf,2026-11-19,200,application/pdf,curl,isa-001424354.pdf;isa-001424354.txt
+isa-001424629-FAILED,https://www.moj.go.jp/isa/content/001424629.pdf,2026-11-19,404,text/html; charset=iso-8859-1,curl,
+isa-work-qa,https://www.moj.go.jp/isa/content/001344550.pdf,2026-11-19,200,application/pdf,curl,isa-work-qa.pdf;isa-work-qa.txt
+isa-pr-work,https://www.moj.go.jp/isa/applications/procedures/zairyu_eijyu03.html,2026-11-19,200,text/html,curl,isa-pr-work.html;isa-pr-work.md;isa-pr-work.txt
+isa-acquire-status,https://www.moj.go.jp/isa/applications/procedures/16-10.html,2026-11-19,200,text/html,curl,isa-acquire-status.html;isa-acquire-status.md;isa-acquire-status.txt
+isa-change-guideline,https://www.moj.go.jp/isa/applications/resources/nyuukokukanri07_00058.html,2026-11-19,200,text/html,curl,isa-change-guideline.html;isa-change-guideline.md;isa-change-guideline.txt
+isa-ssw-status,https://www.moj.go.jp/isa/applications/status/specifiedskilledworker.html,2026-11-19,200,text/html,curl,isa-ssw-status.html;isa-ssw-status.md;isa-ssw-status.txt
+isa-residents-end2025-press,https://www.moj.go.jp/isa/publications/press/13_00062.html,2026-11-19,200,text/html,curl,isa-residents-end2025-press.html;isa-residents-end2025-press.md;isa-residents-end2025-press.txt
+isa-visitor-status,https://www.moj.go.jp/isa/applications/status/temporaryvisitor.html,2026-11-19,200,text/html,curl,isa-visitor-status.html;isa-visitor-status.md;isa-visitor-status.txt
+wewb-airport-desk,https://wewb.gov.bd/pages/static-pages/6922ddc8933eb65569e163d9,2026-11-07,200,,curl,wewb-airport-desk.html;wewb-airport-desk.md;wewb-airport-desk.tables.md
+wewb-ambulance,https://wewb.gov.bd/pages/static-pages/6922dc70933eb65569e10600,2026-11-07,200,,curl,wewb-ambulance.html;wewb-ambulance.md;wewb-ambulance.tables.md
+wewb-body-repatriation,https://wewb.gov.bd/pages/static-pages/6922e0ef933eb65569e293b2,2026-11-07,200,,curl,wewb-body-repatriation.html;wewb-body-repatriation.md;wewb-body-repatriation.tables.md
+wewb-body-transport-burial,https://wewb.gov.bd/pages/static-pages/6922e025933eb65569e25b2a,2026-11-07,200,,curl,wewb-body-transport-burial.html;wewb-body-transport-burial.md;wewb-body-transport-burial.tables.md
+wewb-bring-home-injured,https://wewb.gov.bd/pages/static-pages/6922e05e933eb65569e26b8b,2026-11-07,200,,curl,wewb-bring-home-injured.html;wewb-bring-home-injured.md;wewb-bring-home-injured.tables.md
+wewb-insurance-help,https://wewb.gov.bd/pages/static-pages/6922dbcb933eb65569e0c955,2026-11-07,200,,curl,wewb-insurance-help.html;wewb-insurance-help.md;wewb-insurance-help.tables.md
+wewb-jbc-insurance-leaflet,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-wewb/2024/12/256fdcbd0bee4e73a6f0cedbd53a207b.pdf,2026-11-07,200,application/pdf,curl,wewb-jbc-insurance-leaflet.pdf;wewb-jbc-insurance-leaflet.txt
+wewb-injured-sick-aid,https://wewb.gov.bd/pages/static-pages/6922ddb6933eb65569e15fa2,2026-11-07,200,,curl,wewb-injured-sick-aid.html;wewb-injured-sick-aid.md;wewb-injured-sick-aid.tables.md
+isa-residents-end2025-pdf,https://www.moj.go.jp/isa/content/001459094.pdf,2026-11-19,200,application/pdf,curl,isa-residents-end2025-pdf.pdf;isa-residents-end2025-pdf.txt
+wewb-wage-earners-centre,https://wewb.gov.bd/pages/static-pages/6922dec9933eb65569e1d5b5,2026-11-07,200,,curl,wewb-wage-earners-centre.html;wewb-wage-earners-centre.md;wewb-wage-earners-centre.tables.md
+wewb-local-burial,https://wewb.gov.bd/pages/static-pages/6922db9e933eb65569e0b57c,2026-11-07,200,,curl,wewb-local-burial.html;wewb-local-burial.md;wewb-local-burial.tables.md
+wewb-legal-aid,https://wewb.gov.bd/pages/static-pages/6922dfee933eb65569e24b4d,2026-11-07,200,,curl,wewb-legal-aid.html;wewb-legal-aid.md;wewb-legal-aid.tables.md
+wewb-projects,https://wewb.gov.bd/pages/static-pages/6922df5c933eb65569e217af,2026-11-07,200,,curl,wewb-projects.html;wewb-projects.md;wewb-projects.tables.md
+wewb-compensation-recovery,https://wewb.gov.bd/pages/static-pages/6922df5a933eb65569e2165e,2026-11-07,200,,curl,wewb-compensation-recovery.html;wewb-compensation-recovery.md;wewb-compensation-recovery.tables.md
+isa-henkou-guide,https://www.moj.go.jp/isa/applications/procedures/henkou_00001.html,2026-11-19,200,text/html,curl,isa-henkou-guide.html;isa-henkou-guide.md;isa-henkou-guide.txt
+wewb-labour-wing-help,https://wewb.gov.bd/pages/static-pages/6922dd0e933eb65569e1356c,2026-11-07,200,,curl,wewb-labour-wing-help.html;wewb-labour-wing-help.md;wewb-labour-wing-help.tables.md
+wewb-probashi-lounge,https://wewb.gov.bd/pages/static-pages/6922e01b933eb65569e2581d,2026-11-07,200,,curl,wewb-probashi-lounge.html;wewb-probashi-lounge.md;wewb-probashi-lounge.tables.md
+pkb-rehabilitation-loan,https://pkb.gov.bd/pages/static-pages/6922dc54933eb65569e0fc0d,2026-11-07,200,,curl,pkb-rehabilitation-loan.html;pkb-rehabilitation-loan.md
+bb-remittance-cost,https://www.bb.org.bd/econdata/remittance/remittance_cost.pdf,2026-11-07,200,,curl,bb-remittance-cost.pdf;bb-remittance-cost.txt
+bb-fepd-circular-41-2026-nrcta,https://www.bb.org.bd/mediaroom/circulars/fepd/oct082026fepd-141e.pdf,2026-11-07,200,application/pdf,curl,bb-fepd-circular-41-2026-nrcta.pdf;bb-fepd-circular-41-2026-nrcta.txt
+nsd-wedb-2026-07,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nationalsavings/2026/7/8a5b2fbf-b6aa-492f-a27d-b2e312910d45.pdf,2026-11-07,200,application/pdf,curl,nsd-wedb-2026-07.pdf;nsd-wedb-2026-07.txt
+nsd-wedb-2026-07-transcription,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nationalsavings/2026/7/8a5b2fbf-b6aa-492f-a27d-b2e312910d45.pdf#transcription,2026-11-07,200,,manual,nsd-wedb-2026-07-transcription.md
+upension-pension-brief-en,https://www.upension.gov.bd/Public/PensionBriefEn,2026-11-07,200,text/html; charset=utf-8,curl,upension-pension-brief-en.html;upension-pension-brief-en.md;upension-pension-brief-en.txt
+upension-packages,https://www.upension.gov.bd/Public/Packages,2026-11-07,200,text/html; charset=utf-8,curl,upension-packages.html;upension-packages.md;upension-packages.txt
+upension-helpdesk,https://www.upension.gov.bd/Public/HelpDesk,2026-11-07,200,text/html; charset=utf-8,curl,upension-helpdesk.html;upension-helpdesk.md;upension-helpdesk.txt
+upension-probash-flyer,https://www.upension.gov.bd/assets/public/download/flyer/Probash.pdf?v=10,2026-11-07,200,application/pdf,curl,upension-probash-flyer.pdf;upension-probash-flyer.txt
+upension-probash-flyer-transcription,https://www.upension.gov.bd/assets/public/download/flyer/Probash.pdf?v=10#transcription,2026-11-07,200,,manual,upension-probash-flyer-transcription.md
+upension-registration,https://www.upension.gov.bd/Public/Registration,2026-11-07,200,text/html; charset=utf-8,curl,upension-registration.html;upension-registration.md;upension-registration.txt
+nbr-baggage-rules-2025,https://nbr.gov.bd/uploads/sros/%E0%A6%85%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%9F%E0%A6%95_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80_%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%97%E0%A7%87%E0%A6%9C_%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%2C_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.pdf,2026-11-07,200,application/pdf,curl,nbr-baggage-rules-2025.pdf;nbr-baggage-rules-2025.txt
+nbr-baggage-rules-2025-transcription,"https://nbr.gov.bd/uploads/sros/অপর্যটক_যাত্রী_ব্যাগেজ_বিধিমালা,_২০২৫.pdf#transcription",2026-11-07,200,,manual,nbr-baggage-rules-2025-transcription.md
+bdcustoms-currency-regulations,https://bangladeshcustoms.gov.bd/trade_info/currency_regulations,2026-11-07,200,text/html; charset=UTF-8,curl,bdcustoms-currency-regulations.html;bdcustoms-currency-regulations.md;bdcustoms-currency-regulations.txt
+bb-fe-circular-06-2020-fmj,https://www.bb.org.bd/mediaroom/circulars/fepd/feb032020fepd06e.pdf,2026-11-07,200,application/pdf,curl,bb-fe-circular-06-2020-fmj.pdf;bb-fe-circular-06-2020-fmj.txt
+hsia-customs,https://www.hsia.gov.bd/content-details/10/Customs,2026-11-07,200,,curl,hsia-customs.html;hsia-customs.md
+bkash-remittance-mts,https://www.bkash.com/en/products-services/remittance/money-transfer-service,2026-11-07,200,,firecrawl,bkash-remittance-mts.md
+mof-budget-speech-2026-27,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/5/c229ec5f-66f8-4a4c-9beb-1e2e2ba71bce.pdf,2026-11-07,200,application/pdf,curl,mof-budget-speech-2026-27.pdf;mof-budget-speech-2026-27.txt
+brac-migration,https://www.brac.net/program/migration/,2026-11-07,200,,curl,brac-migration.html;brac-migration.md
+brac-about-us,https://www.brac.net/about-us,2026-11-07,200,text/html; charset=utf-8,curl (copied from countries/malaysia/sources),brac-about-us.html;brac-about-us.md;brac-about-us.txt
+bb-drawing-arrangements-en,https://www.bb.org.bd/en/index.php/investfacility/drawing,2026-11-07,200,text/html; charset=UTF-8,curl,bb-drawing-arrangements-en.html;bb-drawing-arrangements-en.md;bb-drawing-arrangements-en.txt
+probashi-special-notice-expatriates-2026-09-22,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-probashi/2026/8/994572d2-66cf-45d2-abb8-4f85179e0e18.pdf,2026-11-07,200,,curl,probashi-special-notice-expatriates-2026-09-22.pdf;probashi-special-notice-expatriates-2026-09-22.txt
+wewb-annual-report-2023-24,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-wewb/2024/12/34cd1a605b8f4d7e945d9539131593d0.pdf,2026-11-07,200,,manual,wewb-annual-report-2023-24.pdf;wewb-annual-report-2023-24.txt
+bb-top30-country-remittance,https://www.bb.org.bd/econdata/remittance/top_30_country.pdf,2026-11-07,200,,curl,bb-top30-country-remittance.pdf;bb-top30-country-remittance.txt
+probashi-ssw-guideline-FAILED,https://probashi.portal.gov.bd/sites/default/files/files/probashi.portal.gov.bd/policies/d7925921_9643_4701_85ec_7ca2f5e7020a/Guidline%20SSW.pdf,2026-11-19,000,,curl,
+embjp-bd-visa-howto1-FAILED,https://www.bd.emb-japan.go.jp/en/visa/visainfohowto1.html,2026-11-19,403,text/html,curl,
+otit-trainee-en,https://www.otit.go.jp/trainee/en/,2026-11-19,200,text/html,curl,otit-trainee-en.html;otit-trainee-en.md;otit-trainee-en.txt
+isa-ssw-930004452,https://www.moj.go.jp/isa/content/930004452.pdf,2026-11-19,200,application/pdf,curl,isa-ssw-930004452.pdf;isa-ssw-930004452.txt
+otit-consult-contact,https://www.otit.go.jp/trainee/ja/consult/contact/,2026-11-19,200,text/html,curl,otit-consult-contact.html;otit-consult-contact.md;otit-consult-contact.txt
+otit-transfer,https://www.otit.go.jp/trainee/ja/howto/transfer/,2026-11-19,200,text/html,curl,otit-transfer.html;otit-transfer.md;otit-transfer.txt
+otit-esd-rename,https://www.otit.go.jp/news/cat2/8932472600e12b77c3d490a74b75f5db550af9c3.html,2026-11-19,200,text/html,curl,otit-esd-rename.html;otit-esd-rename.md;otit-esd-rename.txt
+otit-soudan-en,https://www.support.otit.go.jp/soudan/en/,2026-11-19,200,text/html;charset=UTF-8,curl,otit-soudan-en.html;otit-soudan-en.md;otit-soudan-en.txt
+isa-hsp-points-en,https://www.moj.go.jp/isa/content/001398882.pdf,2026-11-19,200,application/pdf,curl,isa-hsp-points-en.pdf;isa-hsp-points-en.txt
+isa-hsp-overview,https://www.moj.go.jp/isa/applications/resources/newimmiact_3_index.html,2026-11-19,200,text/html,curl,isa-hsp-overview.html;isa-hsp-overview.md;isa-hsp-overview.txt
+otit-handbook-2026-en,https://www.otit.go.jp/upload/docs/web_2026%E6%8A%80%E8%83%BD%E5%AE%9F%E7%BF%92%E7%94%9F%E6%89%8B%E5%B8%B3_%E8%8B%B1%E8%AA%9E%E7%89%88.pdf,2026-11-19,200,application/pdf,curl,otit-handbook-2026-en.pdf;otit-handbook-2026-en.txt
+isa-jskip,https://www.moj.go.jp/isa/applications/resources/nyuukokukanri01_00009.html,2026-11-19,200,text/html,curl,isa-jskip.html;isa-jskip.md;isa-jskip.txt
+otit-native-dates-en,https://www.otit.go.jp/upload/docs/%EF%BC%88%E8%8B%B1%E8%AA%9E%EF%BC%89%E3%83%AA%E3%83%BC%E3%83%95%E3%83%AC%E3%83%83%E3%83%88.pdf,2026-11-19,200,application/pdf,curl,otit-native-dates-en.pdf;otit-native-dates-en.txt
+bdemb-tokyo-home,https://tokyo.mofa.gov.bd/,2026-11-19,200,text/html; charset=utf-8,curl,bdemb-tokyo-home.html;bdemb-tokyo-home.md;bdemb-tokyo-home.txt
+fsa-funds-transfer-list,https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf,2026-11-19,200,application/pdf,curl,fsa-funds-transfer-list.pdf;fsa-funds-transfer-list.txt
+isa-info-centre,https://www.moj.go.jp/isa/consultation/center/index.html,2026-11-19,200,text/html,curl,isa-info-centre.html;isa-info-centre.md;isa-info-centre.txt
+mofa-novisa-FAILED,https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html,2026-11-19,403,text/html,curl,
+isa-fresc,https://www.moj.go.jp/isa/support/fresc/fresc01.html,2026-11-19,200,text/html,curl,isa-fresc.html;isa-fresc.md;isa-fresc.txt
+mofa-working-holiday-FAILED,https://www.mofa.go.jp/j_info/visit/w_holiday/index.html,2026-11-19,403,text/html,curl,
+jpemb-dhaka-home-FAILED,https://www.bd.emb-japan.go.jp/itpr_en/index.html,2026-11-19,403,text/html,curl,
+mofa-visa-faq-FAILED,https://www.mofa.go.jp/j_info/visit/visa/faq.html,2026-11-19,403,text/html,curl,
+mofa-visa-index-FAILED,https://www.mofa.go.jp/j_info/visit/visa/index.html,2026-11-19,403,text/html,curl,
+mofa-short-term-FAILED,https://www.mofa.go.jp/j_info/visit/visa/short/index.html,2026-11-19,403,text/html,curl,
+mofa-medical-FAILED,https://www.mofa.go.jp/j_info/visit/visa/medical/index.html,2026-11-19,403,text/html,curl,
+bdjobs-bjet-16,https://hotjobs1.bdjobs.com/b-jet--bangladesh-japan-ict-engineers--training-program-/bjet27.html,2026-11-19,200,text/html,curl,bdjobs-bjet-16.html;bdjobs-bjet-16.md;bdjobs-bjet-16.txt
+mofa-novisa,https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html,2026-11-19,200,text/html,wayback:20261027160512,mofa-novisa.html;mofa-novisa.md;mofa-novisa.txt
+mofa-working-holiday,https://www.mofa.go.jp/j_info/visit/w_holiday/index.html,2026-11-19,200,text/html,wayback:20261103030048,mofa-working-holiday.html;mofa-working-holiday.md;mofa-working-holiday.txt
+mofa-visa-faq,https://web.archive.org/web/20261109055327id_/https://www.mofa.go.jp/j_info/visit/visa/faq.html,2026-11-19,200,text/html,curl,mofa-visa-faq.html;mofa-visa-faq.md;mofa-visa-faq.txt
+bdemb-tokyo-travel-permit,https://tokyo.mofa.gov.bd/pages/static-pages/6952667b35ce18e1c05a970c,2026-11-19,200,text/html; charset=utf-8,curl,bdemb-tokyo-travel-permit.html;bdemb-tokyo-travel-permit.md;bdemb-tokyo-travel-permit.txt
+bdemb-tokyo-labour-wing,https://tokyo.mofa.gov.bd/pages/static-pages/695266a235ce18e1c05aa7a0,2026-11-19,200,text/html; charset=utf-8,curl,bdemb-tokyo-labour-wing.html;bdemb-tokyo-labour-wing.md;bdemb-tokyo-labour-wing.txt
+mofa-visa-index,https://www.mofa.go.jp/j_info/visit/visa/index.html,2026-11-19,200,text/html,wayback:20261027160131,mofa-visa-index.html;mofa-visa-index.md;mofa-visa-index.txt
+bdemb-tokyo-dead-body,https://tokyo.mofa.gov.bd/pages/static-pages/695266a635ce18e1c05aa90c,2026-11-19,200,text/html; charset=utf-8,curl,bdemb-tokyo-dead-body.html;bdemb-tokyo-dead-body.md;bdemb-tokyo-dead-body.txt
+bdemb-tokyo-consular-fees,https://tokyo.mofa.gov.bd/pages/static-pages/6952668535ce18e1c05a9c5c,2026-11-19,200,text/html; charset=utf-8,curl,bdemb-tokyo-consular-fees.html;bdemb-tokyo-consular-fees.md;bdemb-tokyo-consular-fees.txt
+bdemb-tokyo-phones,https://tokyo.mofa.gov.bd/pages/static-pages/6952669435ce18e1c05aa2d1,2026-11-19,200,text/html; charset=utf-8,curl,bdemb-tokyo-phones.html;bdemb-tokyo-phones.md;bdemb-tokyo-phones.txt
+bdemb-tokyo-emails,https://tokyo.mofa.gov.bd/pages/static-pages/6952669735ce18e1c05aa356,2026-11-19,200,text/html; charset=utf-8,curl,bdemb-tokyo-emails.html;bdemb-tokyo-emails.md;bdemb-tokyo-emails.txt
+bdemb-tokyo-address,https://tokyo.mofa.gov.bd/pages/static-pages/695266b535ce18e1c05aae49,2026-11-19,200,text/html; charset=utf-8,curl,bdemb-tokyo-address.html;bdemb-tokyo-address.md;bdemb-tokyo-address.txt
+bdemb-tokyo-contact,https://tokyo.mofa.gov.bd/pages/static-pages/695266b235ce18e1c05aad49,2026-11-19,200,text/html; charset=utf-8,curl,bdemb-tokyo-contact.html;bdemb-tokyo-contact.md;bdemb-tokyo-contact.txt
+bdemb-tokyo-community-employment,https://tokyo.mofa.gov.bd/pages/static-pages/695266b435ce18e1c05aadfe,2026-11-19,200,text/html; charset=utf-8,curl,bdemb-tokyo-community-employment.html;bdemb-tokyo-community-employment.md;bdemb-tokyo-community-employment.txt
+bdemb-tokyo-bank-details,https://tokyo.mofa.gov.bd/pages/static-pages/6952667935ce18e1c05a9656,2026-11-19,200,text/html; charset=utf-8,curl,bdemb-tokyo-bank-details.html;bdemb-tokyo-bank-details.md;bdemb-tokyo-bank-details.txt
+bdemb-tokyo-epassport,https://tokyo.mofa.gov.bd/pages/static-pages/695266ba35ce18e1c05aaffe,2026-11-19,200,text/html; charset=utf-8,curl,bdemb-tokyo-epassport.html;bdemb-tokyo-epassport.md;bdemb-tokyo-epassport.txt
+bdemb-tokyo-welfare-services,https://tokyo.mofa.gov.bd/pages/service-box-items?filters=%7B%22service_box_category%22%3A%226952663aa31054345f1026f7%22%7D,2026-11-19,200,text/html; charset=utf-8,curl,bdemb-tokyo-welfare-services.html;bdemb-tokyo-welfare-services.md;bdemb-tokyo-welfare-services.txt
+bdemb-tokyo-officers,https://tokyo.mofa.gov.bd/pages/officers-profile,2026-11-19,200,text/html; charset=utf-8,curl,bdemb-tokyo-officers.html;bdemb-tokyo-officers.md;bdemb-tokyo-officers.txt
+isa-hsp-preferential,https://www.moj.go.jp/isa/applications/resources/newimmiact_3_preferential_index.html,2026-11-19,200,text/html,curl,isa-hsp-preferential.html;isa-hsp-preferential.md;isa-hsp-preferential.txt
+mofa-work-visa-FAILED,https://www.mofa.go.jp/j_info/visit/visa/long/visa1.html,2026-11-19,403,text/html,curl,
+emb-japan-dhaka-work-FAILED,https://www.bd.emb-japan.go.jp/itpr_en/visa_working.html,2026-11-19,403,text/html,curl,
+isa-ssw-stats-page,https://www.moj.go.jp/isa/applications/ssw/nyuukokukanri07_00215.html,2026-11-19,200,text/html,curl,isa-ssw-stats-page.html;isa-ssw-stats-page.md;isa-ssw-stats-page.txt
+isa-ssw1-2026-06-tables,https://www.moj.go.jp/isa/content/001459471.pdf,2026-11-19,200,application/pdf,curl,isa-ssw1-2026-06-tables.pdf;isa-ssw1-2026-06-tables.txt
+isa-ssw-2026-06-points,https://www.moj.go.jp/isa/content/001459490.pdf,2026-11-19,200,application/pdf,curl,isa-ssw-2026-06-points.pdf;isa-ssw-2026-06-points.txt
+isa-ssw-operation-2026-06,https://www.moj.go.jp/isa/content/001428398.pdf,2026-11-19,200,application/pdf,curl,isa-ssw-operation-2026-06.pdf;isa-ssw-operation-2026-06.txt
+isa-spouse-jp,https://www.moj.go.jp/isa/applications/status/spouseorchildofjapanese01.html,2026-11-19,200,text/html,curl,isa-spouse-jp.html;isa-spouse-jp.md;isa-spouse-jp.txt
+mofa-medical-stay-FAILED,https://www.mofa.go.jp/j_info/visit/visa/medical_Stay1.html,2026-11-19,403,text/html,curl,
+mofa-medical-stay,https://www.mofa.go.jp/j_info/visit/visa/medical_Stay1.html,2026-11-19,200,text/html,wayback:20260928180442,mofa-medical-stay.html;mofa-medical-stay.md;mofa-medical-stay.txt
+mofa-medical-guarantors-FAILED,https://www.mofa.go.jp/j_info/visit/visa/medical_stay2.html,2026-11-19,403,text/html,curl,
+mofa-medical-guarantors,https://www.mofa.go.jp/j_info/visit/visa/medical_stay2.html,2026-11-19,200,text/html,wayback:20261109150209,mofa-medical-guarantors.html;mofa-medical-guarantors.md;mofa-medical-guarantors.txt
+mofa-short-other-FAILED,https://www.mofa.go.jp/j_info/visit/visa/short/visit2.html,2026-11-19,403,text/html,curl,
+isa-esd-001452485,https://www.moj.go.jp/isa/content/001452485.pdf,2026-11-19,200,application/pdf,curl,isa-esd-001452485.pdf;isa-esd-001452485.txt
+isa-esd-001460373,https://www.moj.go.jp/isa/content/001460373.pdf,2026-11-19,200,application/pdf,curl,isa-esd-001460373.pdf;isa-esd-001460373.txt
+isa-esd-001451331,https://www.moj.go.jp/isa/content/001451331,2026-11-19,200,application/pdf,curl,isa-esd-001451331.pdf;isa-esd-001451331.txt
+mhlw-fukuoka-esd-002271632-FAILED,https://jsite.mhlw.go.jp/fukuoka-roudoukyoku/content/contents/002271632.pdf,2026-11-19,404,text/html; charset=UTF-8,curl,
+isa-outside-activity,https://www.moj.go.jp/isa/applications/procedures/16-8.html,2026-11-19,200,text/html,curl,isa-outside-activity.html;isa-outside-activity.md;isa-outside-activity.txt
+bkash-remittance-mts-cambodia,https://www.bkash.com/en/products-services/remittance/money-transfer-service,2026-11-11,200,,firecrawl,bkash-remittance-mts-cambodia.md
+isa-ssw1-2026-06-table4,https://www.moj.go.jp/isa/content/001471817.xlsx,2026-11-19,200,,manual,isa-ssw1-2026-06-table4.md;isa-ssw1-2026-06-table4.xlsx
+isa-ssw1-2025-12-table4,https://www.moj.go.jp/isa/content/001471793.xlsx,2026-11-19,200,,manual,isa-ssw1-2025-12-table4.md;isa-ssw1-2025-12-table4.xlsx
+isa-student-parttime,https://www.moj.go.jp/isa/applications/procedures/nyuukokukanri07_00003.html,2026-11-19,200,text/html,curl,isa-student-parttime.html;isa-student-parttime.md;isa-student-parttime.txt
+isa-jobhunt-parttime,https://www.moj.go.jp/isa/applications/procedures/nyuukokukanri07_00002.html,2026-11-19,200,text/html,curl,isa-jobhunt-parttime.html;isa-jobhunt-parttime.md;isa-jobhunt-parttime.txt
+isa-ssw-moc-list,https://www.moj.go.jp/isa/applications/ssw/nyuukokukanri06_00110.html,2026-11-19,200,text/html,curl,isa-ssw-moc-list.html;isa-ssw-moc-list.md;isa-ssw-moc-list.txt
+mofa-bd-ssw-moc-2019-FAILED,https://www.mofa.go.jp/mofaj/press/release/press4_007746.html,2026-11-19,403,text/html,curl,
+mhlw-titp-moc-list,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000192642.html,2026-11-19,200,text/html,curl,mhlw-titp-moc-list.html;mhlw-titp-moc-list.md;mhlw-titp-moc-list.txt
+isa-deportation-index,https://www.moj.go.jp/isa/deportation/index.html,2026-11-19,200,text/html,curl,isa-deportation-index.html;isa-deportation-index.md;isa-deportation-index.txt
+isa-deportation-qa,https://www.moj.go.jp/isa/deportation/guide/tetuduki_taikyo_qa.html,2026-11-19,200,text/html,curl,isa-deportation-qa.html;isa-deportation-qa.md;isa-deportation-qa.txt
+isa-deportation-proc-5-2,https://www.moj.go.jp/isa/deportation/procedures/tetuduki_index5_00002.html,2026-11-19,200,text/html,curl,isa-deportation-proc-5-2.html;isa-deportation-proc-5-2.md;isa-deportation-proc-5-2.txt
+isa-ssw-bd-procedure,https://www.moj.go.jp/isa/content/001375801.pdf,2026-11-19,200,application/pdf,curl,isa-ssw-bd-procedure.pdf;isa-ssw-bd-procedure.txt
+isa-ssw-bd-note-verbale-2022,https://www.moj.go.jp/isa/content/001380403.pdf,2026-11-19,200,application/pdf,curl,isa-ssw-bd-note-verbale-2022.pdf;isa-ssw-bd-note-verbale-2022.txt
+isa-ssw-bd-moc-2019-en,https://www.moj.go.jp/isa/content/930004388.pdf,2026-11-19,200,application/pdf,curl,isa-ssw-bd-moc-2019-en.pdf;isa-ssw-bd-moc-2019-en.txt
+isa-deportation-surrender,https://www.moj.go.jp/isa/deportation/procedures/tetuduki_taikyo_ihan_00001.html,2026-11-19,200,text/html,curl,isa-deportation-surrender.html;isa-deportation-surrender.md;isa-deportation-surrender.txt
+isa-departure-order,https://www.moj.go.jp/isa/deportation/procedures/tetuduki_taikyo_syutukoku_00001.html,2026-11-19,200,text/html,curl,isa-departure-order.html;isa-departure-order.md;isa-departure-order.txt
+isa-deportation-execution,https://www.moj.go.jp/isa/deportation/procedures/tetuduki_taikyo_reisyo_00001.html,2026-11-19,200,text/html,curl,isa-deportation-execution.html;isa-deportation-execution.md;isa-deportation-execution.txt
+isa-detention-visits,https://www.moj.go.jp/isa/deportation/procedures/tetuduki_taikyo_syuuyou_00001.html,2026-11-19,200,text/html,curl,isa-detention-visits.html;isa-detention-visits.md;isa-detention-visits.txt
+isa-supervision-measures,https://www.moj.go.jp/isa/08_00045.html,2026-11-19,200,text/html,curl,isa-supervision-measures.html;isa-supervision-measures.md;isa-supervision-measures.txt
+isa-jobhunt-designated,https://www.moj.go.jp/isa/applications/status/designatedactivities14.html,2026-11-19,200,text/html,curl,isa-jobhunt-designated.html;isa-jobhunt-designated.md;isa-jobhunt-designated.txt
+ssw-portal-exams,https://www.ssw.go.jp/en/about/sswv/exam/,2026-11-19,200,text/html; charset=UTF-8,curl,ssw-portal-exams.html;ssw-portal-exams.md;ssw-portal-exams.txt
+isa-notify-contract-org,https://www.moj.go.jp/isa/applications/procedures/nyuukokukanri10_00015.html,2026-11-19,200,text/html,curl,isa-notify-contract-org.html;isa-notify-contract-org.md;isa-notify-contract-org.txt
+ssw-portal-steps,https://www.ssw.go.jp/en/about/step/,2026-11-19,200,text/html; charset=UTF-8,curl,ssw-portal-steps.html;ssw-portal-steps.md;ssw-portal-steps.txt
+isa-notify-activity-org,https://www.moj.go.jp/isa/applications/procedures/nyuukokukanri10_00014.html,2026-11-19,200,text/html,curl,isa-notify-activity-org.html;isa-notify-activity-org.md;isa-notify-activity-org.txt
+ssw-portal-sswv,https://www.ssw.go.jp/en/about/sswv/,2026-11-19,200,text/html; charset=UTF-8,curl,ssw-portal-sswv.html;ssw-portal-sswv.md;ssw-portal-sswv.txt
+isa-address-change,https://www.moj.go.jp/isa/applications/procedures/nyuukokukanri10_00023.html,2026-11-19,200,text/html,curl,isa-address-change.html;isa-address-change.md;isa-address-change.txt
+ssw-portal-support,https://www.ssw.go.jp/en/about/support/,2026-11-19,200,text/html; charset=UTF-8,curl,ssw-portal-support.html;ssw-portal-support.md;ssw-portal-support.txt
+isa-reentry,https://www.moj.go.jp/isa/immigration/procedures/16-5.html,2026-11-19,200,text/html,curl,isa-reentry.html;isa-reentry.md;isa-reentry.txt
+ssw-portal-apply,https://www.ssw.go.jp/en/about/apply/,2026-11-19,200,text/html; charset=UTF-8,curl,ssw-portal-apply.html;ssw-portal-apply.md;ssw-portal-apply.txt
+isa-extension,https://www.moj.go.jp/isa/applications/procedures/16-3.html,2026-11-19,200,text/html,curl,isa-extension.html;isa-extension.md;isa-extension.txt
+ssw-portal-faq,https://www.ssw.go.jp/en/faq/,2026-11-19,200,text/html; charset=UTF-8,curl,ssw-portal-faq.html;ssw-portal-faq.md;ssw-portal-faq.txt
+jft-basic-about,https://www.jpf.go.jp/jft-basic/e/about/index.html,2026-11-19,200,text/html; charset=UTF-8,curl,jft-basic-about.html;jft-basic-about.md;jft-basic-about.txt
+jft-basic-schedule-FAILED,https://www.jpf.go.jp/jft-basic/e/schedule/index.html,2026-11-19,403,text/html; charset=UTF-8,curl,
+jft-basic-flow,https://www.jpf.go.jp/jft-basic/e/schedule/flow.html,2026-11-19,200,text/html; charset=UTF-8,curl,jft-basic-flow.html;jft-basic-flow.md;jft-basic-flow.txt
+jft-basic-faq,https://www.jpf.go.jp/jft-basic/e/faq/index.html,2026-11-19,200,text/html; charset=UTF-8,curl,jft-basic-faq.html;jft-basic-faq.md;jft-basic-faq.txt
+jlpt-overseas-list,https://www.jlpt.jp/e/application/overseas_list.html,2026-11-19,200,text/html,curl,jlpt-overseas-list.html;jlpt-overseas-list.md;jlpt-overseas-list.txt
+otit-sending-org-list-page,https://www.otit.go.jp/soushutsu_kikan_list/,2026-11-19,200,text/html,curl,otit-sending-org-list-page.html;otit-sending-org-list-page.md;otit-sending-org-list-page.txt
+imjapan-narayanganj-school-2024,https://imm.or.jp/cms/wp-content/uploads/2024/10/News-Letter-No.24_007_バングラデシュ人民共和国政府と新訓練校「ナラヤンゴンジ訓練校」使用に関する覚書を取り交わしました.pdf,2026-11-19,200,application/pdf,curl,imjapan-narayanganj-school-2024.pdf;imjapan-narayanganj-school-2024.txt
+otit-bgd-sending-orgs-2026-10,https://www.otit.go.jp/upload/docs/261006_BGD.pdf,2026-11-19,200,application/pdf,curl,otit-bgd-sending-orgs-2026-10.pdf;otit-bgd-sending-orgs-2026-10.txt
+otit-bgd-sending-orgs-revoked-2026-07,https://www.otit.go.jp/upload/docs/260730_BGD2.pdf,2026-11-19,200,application/pdf,curl,otit-bgd-sending-orgs-revoked-2026-07.pdf;otit-bgd-sending-orgs-revoked-2026-07.txt
+emb-attention,https://www.bd.emb-japan.go.jp/en/news/Attention.html,2026-11-19,200,text/html,wayback:20260720092624,emb-attention.html;emb-attention.md;emb-attention.txt
+emb-howto1,https://www.bd.emb-japan.go.jp/en/visa/visainfohowto1.html,2026-11-19,200,text/html,wayback:20260420001910,emb-howto1.html;emb-howto1.md;emb-howto1.txt
+isa-refugee-2025-press,https://www.moj.go.jp/isa/publications/press/07_00058.html,2026-11-19,200,text/html,curl,isa-refugee-2025-press.html;isa-refugee-2025-press.md;isa-refugee-2025-press.txt
+an-sendai-school-punished,https://asianews.network/?p=105480,2026-11-19,200,text/html; charset=UTF-8,curl,an-sendai-school-punished.html;an-sendai-school-punished.md;an-sendai-school-punished.txt
+jago-japan-vfs-agents-FAILED,https://www.jagonews24.com/en/biz-econ/news/83304,2026-11-19,403,text/html; charset=UTF-8,curl,
+prometric-jft-basic,https://www.prometric-jp.com/en/ssw/test_list/archives/1,2026-11-19,200,text/html; charset=utf-8,curl,prometric-jft-basic.html;prometric-jft-basic.md;prometric-jft-basic.txt
+prometric-ssw-payment,https://www.prometric-jp.com/en/ssw/exam/payment/,2026-11-19,200,text/html; charset=utf-8,curl,prometric-ssw-payment.html;prometric-ssw-payment.md;prometric-ssw-payment.txt
+prometric-voucher-sales,https://www.prometric-jp.com/en/ssw/exam/voucher/sales/,2026-11-19,200,text/html; charset=utf-8,curl,prometric-voucher-sales.html;prometric-voucher-sales.md;prometric-voucher-sales.txt
+prometric-ssw-flow,https://www.prometric-jp.com/en/ssw/exam/flow/,2026-11-19,200,text/html; charset=utf-8,curl,prometric-ssw-flow.html;prometric-ssw-flow.md;prometric-ssw-flow.txt
+prometric-ssw-schedule,https://www.prometric-jp.com/en/ssw/schedule/,2026-11-19,200,text/html; charset=utf-8,curl,prometric-ssw-schedule.html;prometric-ssw-schedule.md;prometric-ssw-schedule.txt
+prometric-news-262,https://www.prometric-jp.com/en/ssw/news/archives/262,2026-11-19,200,text/html; charset=utf-8,curl,prometric-news-262.html;prometric-news-262.md;prometric-news-262.txt
+jps-lumpsum-form-en-FAILED,https://www.nenkin.go.jp/international/japanese-system/withdrawalpayment/payment.files/A.pdf,2026-11-19,404,text/html,curl,
+prometric-news-280,https://www.prometric-jp.com/en/ssw/news/archives/280,2026-11-19,200,text/html; charset=utf-8,curl,prometric-news-280.html;prometric-news-280.md;prometric-news-280.txt
+jps-lumpsum-guide-en-FAILED,https://www.nenkin.go.jp/international/japanese-system/withdrawalpayment/payment.files/E.pdf,2026-11-19,404,text/html,curl,
+isa-2023-amendment,https://www.moj.go.jp/isa/01_00457.html,2026-11-19,200,text/html,curl,isa-2023-amendment.html;isa-2023-amendment.md;isa-2023-amendment.txt
+prometric-ssw-fee,https://www.prometric-jp.com/en/ssw/exam/fee/,2026-11-19,200,text/html; charset=utf-8,curl,prometric-ssw-fee.html;prometric-ssw-fee.md;prometric-ssw-fee.txt
+prometric-ssw-centres-overseas,https://www.prometric-jp.com/en/ssw/hall/overseas/,2026-11-19,200,text/html; charset=utf-8,curl,prometric-ssw-centres-overseas.html;prometric-ssw-centres-overseas.md;prometric-ssw-centres-overseas.txt
+prometric-ssw-id,https://www.prometric-jp.com/en/ssw/exam/identification/,2026-11-19,200,text/html; charset=utf-8,curl,prometric-ssw-id.html;prometric-ssw-id.md;prometric-ssw-id.txt
+jps-dattai-ichiji-FAILED,https://www.nenkin.go.jp/service/jukyu/sonota-kyufu/dattai-ichiji/20150406.html,2026-11-19,404,text/html,curl,
+isa-ryugaku-tekiseika-2026,https://www.moj.go.jp/isa/content/001461177.pdf,2026-11-19,200,application/pdf,curl,isa-ryugaku-tekiseika-2026.pdf;isa-ryugaku-tekiseika-2026.txt
+prometric-ssw-contact,https://www.prometric-jp.com/en/ssw/contact/,2026-11-19,200,text/html; charset=utf-8,curl,prometric-ssw-contact.html;prometric-ssw-contact.md;prometric-ssw-contact.txt
+prometric-ssw-test-list,https://www.prometric-jp.com/en/ssw/test_list/,2026-11-19,200,text/html; charset=utf-8,curl,prometric-ssw-test-list.html;prometric-ssw-test-list.md;prometric-ssw-test-list.txt
+jps-lumpsum-en-FAILED,https://www.nenkin.go.jp/international/english/lumpsum/lumpsum.html,2026-11-19,404,text/html,curl,
+jps-lumpsum-en2,https://www.nenkin.go.jp/international/english/japanese-system/benefit/payment.html,2026-11-19,200,text/html,curl,jps-lumpsum-en2.html;jps-lumpsum-en2.md;jps-lumpsum-en2.txt
+jps-dattai-ichiji-ja,https://www.nenkin.go.jp/service/jukyu/seido/sonota-kyufu/dattai-ichiji/20150406.html,2026-11-19,200,text/html,curl,jps-dattai-ichiji-ja.html;jps-dattai-ichiji-ja.md;jps-dattai-ichiji-ja.txt
+jps-lumpsum-form-en-FAILED,https://www.nenkin.go.jp/international/japanese-system/withdrawalpayment/payment.files/A.pdf?seq_no=2,2026-11-19,404,text/html,curl,
+isa-coe-docs-langschool-unrated,https://www.moj.go.jp/isa/content/001463592.pdf,2026-11-19,200,application/pdf,curl,isa-coe-docs-langschool-unrated.pdf;isa-coe-docs-langschool-unrated.txt
+jps-lumpsum-form-en,https://www.nenkin.go.jp/international/english/japanese-system/benefit/payment.files/A.pdf,2026-11-19,200,application/pdf,curl,jps-lumpsum-form-en.pdf;jps-lumpsum-form-en.txt
+isa-current-act-issues,https://www.moj.go.jp/isa/policies/bill/05_00007.html,2026-11-19,200,text/html,curl,isa-current-act-issues.html;isa-current-act-issues.md;isa-current-act-issues.txt
+isa-refugee-apply,https://www.moj.go.jp/isa/refugee/procedures/16-6.html,2026-11-19,200,text/html,curl,isa-refugee-apply.html;isa-refugee-apply.md;isa-refugee-apply.txt
+jps-dattai-procedure,https://www.nenkin.go.jp/shinsei/jukyu/sonota-kyufu/20150406.html,2026-11-19,200,text/html,curl,jps-dattai-procedure.html;jps-dattai-procedure.md;jps-dattai-procedure.txt
+isa-language-school-notice,https://www.moj.go.jp/isa/03_00195.html,2026-11-19,200,text/html,curl,isa-language-school-notice.html;isa-language-school-notice.md;isa-language-school-notice.txt
+isa-nihongo-kyoiku-kikan,https://www.moj.go.jp/isa/applications/resources/nyuukokukanri07_00218.html,2026-11-19,200,text/html,curl,isa-nihongo-kyoiku-kikan.html;isa-nihongo-kyoiku-kikan.md;isa-nihongo-kyoiku-kikan.txt
+jps-lumpsum-claim-en,https://www.nenkin.go.jp/shinsei/jukyu/sonota-kyufu/20150406.files/A.pdf,2026-11-19,200,application/pdf,curl,jps-lumpsum-claim-en.pdf;jps-lumpsum-claim-en.txt
+juaab-home,http://www.juaab-bd.org,2026-11-19,200,text/html; charset=UTF-8,curl,juaab-home.html;juaab-home.md;juaab-home.txt
+juaab-jlpt-dec2025-circular,http://www.juaab-bd.org/resources/images/media/December_JLPT_Circular_1754305420.pdf,2026-11-19,200,application/pdf,curl,juaab-jlpt-dec2025-circular.pdf;juaab-jlpt-dec2025-circular.txt
+isa-refugee-review-2018,https://www.moj.go.jp/isa/refugee/resources/nyuukokukanri03_00555.html,2026-11-19,200,text/html,curl,isa-refugee-review-2018.html;isa-refugee-review-2018.md;isa-refugee-review-2018.txt
+juaab-jlpt-portal,https://juaabjlpt-bd.org,2026-11-19,200,text/html; charset=utf-8,curl,juaab-jlpt-portal.html;juaab-jlpt-portal.md;juaab-jlpt-portal.txt
+estat-residents-by-nationality-status-2025-12,https://www.e-stat.go.jp/stat-search/file-download?statInfId=000040472260&fileKind=0,2026-11-19,200,,manual,estat-residents-by-nationality-status-2025-12.md;estat-residents-by-nationality-status-2025-12.xlsx
+ds-fukushima-asylum,https://www.thedailystar.net/node/1372741,2026-11-19,200,text/html; charset=utf-8,curl,ds-fukushima-asylum.html;ds-fukushima-asylum.md;ds-fukushima-asylum.txt
+scmp-deportation-2026-FAILED,https://www.scmp.com/week-asia/people/article/3349313/japans-deportation-drive-strikes-fear-asylum-seekers-foreign-residents,2026-11-19,403,text/html; charset=UTF-8,curl,
+jasso-academic-fees,https://www.studyinjapan.go.jp/en/planning/academic-fees/,2026-11-19,200,text/html,curl,jasso-academic-fees.html;jasso-academic-fees.md;jasso-academic-fees.txt
+osaka-police-account-transfer,https://www.police.pref.osaka.lg.jp/seikatsu/hanzaisyueki/13559.html,2026-11-19,200,text/html,curl,osaka-police-account-transfer.html;osaka-police-account-transfer.md;osaka-police-account-transfer.txt
+kanagawa-police-account-sale,https://www.police.pref.kanagawa.jp/kurashi/soshiki_hanzai/mesh0004.html,2026-11-19,200,text/html,curl,kanagawa-police-account-sale.html;kanagawa-police-account-sale.md;kanagawa-police-account-sale.txt
+sakigake-account-sale-penalty-2026,https://www.sakigake.jp/news/article/20260403CO0031/,2026-11-19,200,text/html;charset=UTF-8,curl,sakigake-account-sale-penalty-2026.html;sakigake-account-sale-penalty-2026.md;sakigake-account-sale-penalty-2026.txt
+mhlw-esd-overview-b-FAILED,https://www.mhlw.go.jp/content/11800000/001758852.pdf,2026-11-19,404,text/html,curl,
+mofa-esd-c-FAILED,https://www.mofa.go.jp/mofaj/files/100703671.pdf,2026-11-19,403,text/html,curl,
+isa-esd-d-FAILED,https://www.moj.go.jp/isa/content/001451343.pdf,2026-11-19,404,text/html; charset=iso-8859-1,curl,
+ap-japan-asylum-tougher,https://news.yahoo.com/japan-made-even-tougher-asylum-100006919.html,2026-11-19,200,text/html; charset=utf-8,curl,ap-japan-asylum-tougher.html;ap-japan-asylum-tougher.md;ap-japan-asylum-tougher.txt
+jar-recog-2024,https://www.refugee.or.jp/report/refugee/2025/03/recog2024/,2026-11-19,200,text/html; charset=UTF-8,curl,jar-recog-2024.html;jar-recog-2024.md;jar-recog-2024.txt
+isa-revocation,https://www.moj.go.jp/isa/applications/procedures/torikeshi_00002.html,2026-11-19,200,text/html,curl,isa-revocation.html;isa-revocation.md;isa-revocation.txt
+isa-revocation-2024-press,https://www.moj.go.jp/isa/11_00057.html,2026-11-19,200,text/html,curl,isa-revocation-2024-press.html;isa-revocation-2024-press.md;isa-revocation-2024-press.txt
+jar-pr-guideline-comment-2026,https://www.refugee.or.jp/report/refugee/2026/09/post-21817/,2026-11-19,200,text/html; charset=UTF-8,curl,jar-pr-guideline-comment-2026.html;jar-pr-guideline-comment-2026.md;jar-pr-guideline-comment-2026.txt
+jlt-ssw-criteria-ordinance,https://www.japaneselawtranslation.go.jp/en/laws/view/3627/en,2026-11-19,200,text/html; charset=UTF-8,curl,jlt-ssw-criteria-ordinance.html;jlt-ssw-criteria-ordinance.md;jlt-ssw-criteria-ordinance.txt
+fsa-living-in-japan,https://www.fsa.go.jp/user/livinginjapan.html,2026-11-19,200,text/html,curl,fsa-living-in-japan.html;fsa-living-in-japan.md;fsa-living-in-japan.txt
+moj-minister-2026-03-27,https://www.moj.go.jp/hisho/kouhou/hisho08_00706.html,2026-11-19,200,text/html,curl,moj-minister-2026-03-27.html;moj-minister-2026-03-27.md;moj-minister-2026-03-27.txt
+moj-naturalization,https://www.moj.go.jp/MINJI/minji78.html,2026-11-19,200,text/html,curl,moj-naturalization.html;moj-naturalization.md;moj-naturalization.txt
+egov-immigration-act,https://laws.e-gov.go.jp/api/1/lawdata/326CO0000000319,2026-11-19,200,text/xml;charset=UTF-8,curl,egov-immigration-act.html;egov-immigration-act.md;egov-immigration-act.txt
+fsa-guide-foreigners-en-2024,https://www.fsa.go.jp/user/03.english_2024.pdf,2026-11-19,200,application/pdf,curl,fsa-guide-foreigners-en-2024.pdf;fsa-guide-foreigners-en-2024.txt
+fsa-leaflet-2025-04,https://www.fsa.go.jp/user/leaf20250416.pdf,2026-11-19,200,application/pdf,curl,fsa-leaflet-2025-04.pdf;fsa-leaflet-2025-04.txt
+egov-banking-act,https://laws.e-gov.go.jp/api/1/lawdata/356AC0000000059,2026-11-19,200,,manual,egov-banking-act.md
+dt-japan-ssw-prep-2026,https://www.dhakatribune.com/bangladesh/government-affairs/408857/bangladesh-prepares-to-send-manpower-to-japan,2026-11-19,200,text/html; charset=utf-8,curl,dt-japan-ssw-prep-2026.html;dt-japan-ssw-prep-2026.md;dt-japan-ssw-prep-2026.txt
+tbs-japan-ssw-prep,https://www.tbsnews.net/bangladesh/bangladesh-prepares-send-manpower-japan-under-ssw-category-1423636,2026-11-19,200,text/html; charset=utf-8,curl,tbs-japan-ssw-prep.html;tbs-japan-ssw-prep.md;tbs-japan-ssw-prep.txt
+jagonews-japan-cell-2026-FAILED,https://www.jagonews24.com/en/national/news/91920,2026-11-19,403,text/html; charset=UTF-8,curl,
+bdemb-tokyo-birth-registration,https://tokyo.mofa.gov.bd/pages/static-pages/6952667a35ce18e1c05a96d7,2026-11-19,200,text/html; charset=utf-8,curl,bdemb-tokyo-birth-registration.html;bdemb-tokyo-birth-registration.md;bdemb-tokyo-birth-registration.txt
+observer-japan-2026-06,https://observerbd.com/news/578172,2026-11-19,200,text/html; charset=UTF-8,curl,observer-japan-2026-06.html;observer-japan-2026-06.md;observer-japan-2026-06.txt
+bdemb-tokyo-faq-newborn,https://tokyo.mofa.gov.bd/pages/static-pages/6952667835ce18e1c05a95e2,2026-11-19,200,text/html; charset=utf-8,curl,bdemb-tokyo-faq-newborn.html;bdemb-tokyo-faq-newborn.md;bdemb-tokyo-faq-newborn.txt
+egov-immigration-act-art70,https://laws.e-gov.go.jp/api/1/lawdata/326CO0000000319#art70,2026-11-19,200,,manual,egov-immigration-act-art70.md
+bmirror-japan-ssw,https://bmirror.net/?p=41785,2026-11-19,200,text/html; charset=UTF-8,curl,bmirror-japan-ssw.html;bmirror-japan-ssw.md;bmirror-japan-ssw.txt
+palo-japanese-course-bkttc,https://www.prothomalo.com/education/admission/wrcuj0hbdp,2026-11-19,200,text/html; charset=utf-8,curl,palo-japanese-course-bkttc.html;palo-japanese-course-bkttc.md;palo-japanese-course-bkttc.txt
+jugantor-1094906,https://www.jugantor.com/national/1094906,2026-11-19,200,text/html; charset=UTF-8,curl,jugantor-1094906.html;jugantor-1094906.md;jugantor-1094906.txt
+jugantor-1176224,https://www.jugantor.com/national/1176224,2026-11-19,200,text/html; charset=UTF-8,curl,jugantor-1176224.html;jugantor-1176224.md;jugantor-1176224.txt
+jugantor-1145239,https://www.jugantor.com/national/1145239,2026-11-19,200,text/html; charset=UTF-8,curl,jugantor-1145239.html;jugantor-1145239.md;jugantor-1145239.txt
+banglanews-japan-mou-2025,https://www.banglanews24.com/english/national/news/bd/176561.details,2026-11-19,200,text/html; charset=utf-8,curl,banglanews-japan-mou-2025.html;banglanews-japan-mou-2025.md;banglanews-japan-mou-2025.txt
+fe-japan-project-1lakh,https://thefinancialexpress.com.bd/national/project-prepared-for-initially-sending-01m-workers-to-japan,2026-11-19,200,text/html; charset=utf-8,curl,fe-japan-project-1lakh.html;fe-japan-project-1lakh.md;fe-japan-project-1lakh.txt
+dt-japan-100k-interns-2026,https://www.dhakatribune.com/bangladesh/foreign-affairs/407015/minister%C2%A0ariful%C2%A0haque%C2%A0chowdhury,2026-11-19,200,text/html; charset=utf-8,curl,dt-japan-100k-interns-2026.html;dt-japan-100k-interns-2026.md;dt-japan-100k-interns-2026.txt
+isa-refugee-2025-tables,https://www.moj.go.jp/isa/content/001459863.pdf,2026-11-19,200,application/pdf,curl,isa-refugee-2025-tables.pdf;isa-refugee-2025-tables.txt
+fe-japan-refutes-100k,https://thefinancialexpress.com.bd/trade/japan-refutes-reports-of-recruiting-100000-bangladeshi-workers,2026-11-19,200,text/html; charset=utf-8,curl,fe-japan-refutes-100k.html;fe-japan-refutes-100k.md;fe-japan-refutes-100k.txt
+bb-japan-labour-market,https://en.bonikbarta.com/bangladesh/DjGNPMcAIv39y09V,2026-11-19,200,text/html,curl,bb-japan-labour-market.html;bb-japan-labour-market.md;bb-japan-labour-market.txt
+ittefaq-japan-1lakh,https://en.ittefaq.com.bd/13988/japan-to-recruit-1-lakh-skilled-bangladeshi,2026-11-19,200,text/html; charset=utf-8,curl,ittefaq-japan-1lakh.html;ittefaq-japan-1lakh.md;ittefaq-japan-1lakh.txt
+bdnews-8e2fc2a75d54,https://bdnews24.com/bangladesh/8e2fc2a75d54,2026-11-19,200,text/html; charset=utf-8,curl,bdnews-8e2fc2a75d54.html;bdnews-8e2fc2a75d54.md;bdnews-8e2fc2a75d54.txt
+bdnews-6b62lx3bus,https://bdnews24.com/bangladesh/6b62lx3bus,2026-11-19,200,text/html; charset=utf-8,curl,bdnews-6b62lx3bus.html;bdnews-6b62lx3bus.md;bdnews-6b62lx3bus.txt
+bdnewsbn-2dj7xv9m8c,https://bangla.bdnews24.com/bangladesh/2dj7xv9m8c,2026-11-19,200,text/html; charset=utf-8,curl,bdnewsbn-2dj7xv9m8c.html;bdnewsbn-2dj7xv9m8c.md;bdnewsbn-2dj7xv9m8c.txt
+observer-587602,https://observerbd.com/news/587602,2026-11-19,200,text/html; charset=UTF-8,curl,observer-587602.html;observer-587602.md;observer-587602.txt
+ds-3906426-FAILED,https://images.thedailystar.net/node/3906426,2026-11-19,000,,curl,
+ajp-mymensingh-japan-fraud,https://www.ajkerpatrika.com/bangladesh/mymensingh/ajpy6qgcrbynv,2026-11-19,200,text/html; charset=utf-8,curl,ajp-mymensingh-japan-fraud.html;ajp-mymensingh-japan-fraud.md;ajp-mymensingh-japan-fraud.txt
+shinjuku-birth-notification,https://www.foreign.city.shinjuku.lg.jp/en/kosodate/syusseitodoke/,2026-11-19,200,text/html; charset=UTF-8,curl,shinjuku-birth-notification.html;shinjuku-birth-notification.md;shinjuku-birth-notification.txt
+isa-guidebook-pdf,https://www.moj.go.jp/isa/content/001453431.pdf,2026-11-19,200,application/pdf,curl,isa-guidebook-pdf.pdf;isa-guidebook-pdf.txt
+bss-japan-study-loan,https://www.bssnews.net/others/378150,2026-11-19,200,text/html; charset=UTF-8,curl,bss-japan-study-loan.html;bss-japan-study-loan.md;bss-japan-study-loan.txt
+jago-japan-students-25000-FAILED,https://www.jagonews24.com/en/national/news/91920,2026-11-19,403,text/html; charset=UTF-8,curl,
+bss-language-institutes-bd-students,https://www.bssnews.net/news/296549,2026-11-19,200,text/html; charset=UTF-8,curl,bss-language-institutes-bd-students.html;bss-language-institutes-bd-students.md;bss-language-institutes-bd-students.txt
+otit-sender-list,https://www.otit.go.jp/system/sender/list_sender/,2026-11-19,200,text/html,curl,otit-sender-list.html;otit-sender-list.md;otit-sender-list.txt
+isa-dependent-to-work,https://www.moj.go.jp/isa/applications/resources/nyuukokukanri07_00122.html,2026-11-19,200,text/html,curl,isa-dependent-to-work.html;isa-dependent-to-work.md;isa-dependent-to-work.txt
+bb-fepd-2026-140,https://www.bb.org.bd/mediaroom/circulars/fepd/sep302026fepd-140e.pdf,2026-11-19,200,application/pdf,curl,bb-fepd-2026-140.pdf;bb-fepd-2026-140.txt
+isa-titp-missing-2024,https://www.moj.go.jp/isa/content/001425159.pdf,2026-11-19,200,application/pdf,curl,isa-titp-missing-2024.pdf;isa-titp-missing-2024.txt
+fe-bb-language-courses,https://thefinancialexpress.com.bd/trade/bangladesh-bank-simplifies-overseas-money-transfer-for-language-courses,2026-11-19,200,text/html; charset=utf-8,curl,fe-bb-language-courses.html;fe-bb-language-courses.md;fe-bb-language-courses.txt
+isa-titp-missing-2025,https://www.moj.go.jp/isa/content/001466779.pdf,2026-11-19,200,application/pdf,curl,isa-titp-missing-2025.pdf;isa-titp-missing-2025.txt
+bb-remittance-monthly-report-2026-08-italy,https://www.bb.org.bd/pub/monthly/remittance/publication%20august%202026.pdf,2026-11-10,200,,manual,bb-remittance-monthly-report-2026-08-italy.pdf;bb-remittance-monthly-report-2026-08-italy.raw.txt;bb-remittance-monthly-report-2026-08-italy.txt
+otit-esd-moc,https://www.otit.go.jp/employment_for_skill_development/moc/,2026-11-19,200,text/html,curl,otit-esd-moc.html;otit-esd-moc.md;otit-esd-moc.txt
+otit-esd-sending-list,https://www.otit.go.jp/employment_for_skill_development/05/,2026-11-19,200,text/html,curl,otit-esd-sending-list.html;otit-esd-sending-list.md;otit-esd-sending-list.txt
+wb-rpw-jp-bd-FAILED,https://remittanceprices.worldbank.org/corridor/Japan/Bangladesh,2026-11-19,403,text/html; charset=UTF-8,curl,
+otit-bgd-esd-provisional-2026-10,https://www.otit.go.jp/upload/docs/261006_BGD_ESD_ZANTEI.pdf,2026-11-19,200,application/pdf,curl,otit-bgd-esd-provisional-2026-10.pdf;otit-bgd-esd-provisional-2026-10.txt
+emb-au-transit-FAILED,https://www.au.emb-japan.go.jp/itpr_en/visa_transit_en.html,2026-11-19,403,text/html,curl,
+johas-tatekae,https://www.johas.go.jp/chinginengo/miharai/tabid/417/Default.aspx,2026-11-19,200,text/html; charset=UTF-8,curl,johas-tatekae.html;johas-tatekae.md;johas-tatekae.txt
+mhlw-fukui-tatekae-FAILED,https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/001661011.pdf,2026-11-19,404,text/html; charset=UTF-8,curl,
+egov-immigration-act,https://laws.e-gov.go.jp/api/1/lawdata/326CO0000000319,2026-11-19,200,,manual,egov-immigration-act.html;egov-immigration-act.md;egov-immigration-act.txt
+emb-au-transit,https://www.au.emb-japan.go.jp/itpr_en/visa_transit_en.html,2026-11-19,200,text/html,wayback:20260311231304,emb-au-transit.html;emb-au-transit.md;emb-au-transit.txt
+emb-toronto-transit-FAILED,https://www.toronto.ca.emb-japan.go.jp/itpr_en/11_000001_00781.html,2026-11-19,403,text/html,curl,
+emb-toronto-transit,https://www.toronto.ca.emb-japan.go.jp/itpr_en/11_000001_00781.html,2026-11-19,200,text/html,wayback:20260516053540,emb-toronto-transit.html;emb-toronto-transit.md;emb-toronto-transit.txt
+mhlw-harassment,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyoukintou/seisaku06/index.html,2026-11-19,200,text/html,curl,mhlw-harassment.html;mhlw-harassment.md;mhlw-harassment.txt
+palo-jobs-japan-hardly-avails,https://en.prothomalo.com/business/qh7xo2wbs2,2026-11-19,200,text/html; charset=utf-8,curl,palo-jobs-japan-hardly-avails.html;palo-jobs-japan-hardly-avails.md;palo-jobs-japan-hardly-avails.txt
+bss-japan-382161,https://www.bssnews.net/news-flash/382161,2026-11-19,200,text/html; charset=UTF-8,curl,bss-japan-382161.html;bss-japan-382161.md;bss-japan-382161.txt
+mofa-visa-fees-2026-FAILED,https://www.mofa.go.jp/j_info/visit/visa/procedure/pagewe_000001_00391.html,2026-11-19,403,text/html,curl,
+bss-japan-397357,https://www.bssnews.net/others/397357,2026-11-19,200,text/html; charset=UTF-8,curl,bss-japan-397357.html;bss-japan-397357.md;bss-japan-397357.txt
+ds-japan-test-centres-FAILED,https://online-d11.thedailystar.net/news/bangladesh/news/japan-considering-more-skills-testing-centres-recruit-bangladeshi-workers,2026-11-19,000,,curl,
+mofa-visa-fees-2026,https://www.mofa.go.jp/j_info/visit/visa/procedure/pagewe_000001_00391.html,2026-11-19,200,text/html,wayback:20261024172015,mofa-visa-fees-2026.html;mofa-visa-fees-2026.md;mofa-visa-fees-2026.txt
+fe-prepares-skilled-japan,https://thefinancialexpress.com.bd/trade/bangladesh-prepares-to-send-skilled-workers-to-japan,2026-11-19,200,text/html; charset=utf-8,curl,fe-prepares-skilled-japan.html;fe-prepares-skilled-japan.md;fe-prepares-skilled-japan.txt
+emb-sf-transit-end-FAILED,https://www.sf.us.emb-japan.go.jp/files/101048791.pdf,2026-11-19,403,text/html,curl,
+ds-node-3906426-FAILED,https://images.thedailystar.net/node/3906426,2026-11-19,000,,curl,
+vfs-long-term-checklist,https://www.vfsglobal.com/one-pager/japan/bangladesh/english/pdf/Long-term-Checklist-new.pdf,2026-11-19,200,application/pdf,curl,vfs-long-term-checklist.pdf;vfs-long-term-checklist.txt
+vfs-japan-bd-onepager,https://www.vfsglobal.com/one-pager/japan/bangladesh/english/index.html,2026-11-19,200,text/html,curl,vfs-japan-bd-onepager.html;vfs-japan-bd-onepager.md;vfs-japan-bd-onepager.txt
+ssw-portal-visa,https://www.ssw.go.jp/en/about/visa/,2026-11-19,200,text/html; charset=UTF-8,curl,ssw-portal-visa.html;ssw-portal-visa.md;ssw-portal-visa.txt
+emb-miami-transit-FAILED,https://www.miami.us.emb-japan.go.jp/itpr_en/visa_transit.html,2026-11-19,403,text/html,curl,
+emb-tt-transit-FAILED,https://www.tt.emb-japan.go.jp/itpr_ja/11_000001_04436.html,2026-11-19,403,text/html,curl,
+ds-japan-opened-door-FAILED,https://online-d11.thedailystar.net/opinion/views/open-dialogue/news/japan-has-opened-its-door-bangladesh-lets-not-ruin-it-4017886,2026-11-19,000,,curl,
+ds-node-3360221-FAILED,https://images.thedailystar.net/node/3360221,2026-11-19,000,,curl,
+fe-titp-pvt-2019,https://thefinancialexpress.com.bd/trade/japan-set-to-recruit-technical-interns-thru-pvt-sector-soon-1551670368,2026-11-19,200,text/html; charset=utf-8,curl,fe-titp-pvt-2019.html;fe-titp-pvt-2019.md;fe-titp-pvt-2019.txt
+ipa-mutual-recognition,https://www.ipa.go.jp/jinzai/asia/mutual-recognition/about.html,2026-11-19,200,text/html,curl,ipa-mutual-recognition.html;ipa-mutual-recognition.md;ipa-mutual-recognition.txt
+palo-expat-alert-japan,https://en.prothomalo.com/bangladesh/Expat-ministry-alerts-aspirants-not-to-pay-to-go,2026-11-19,200,text/html; charset=utf-8,curl,palo-expat-alert-japan.html;palo-expat-alert-japan.md;palo-expat-alert-japan.txt
+tbs-old-model-FAILED,https://www.tbsnews.net/bangladesh/migration/labour-migration-stuck-in-old-model-quantity-prioritised-over-quality-1312796,2026-11-19,404,text/html; charset=utf-8,curl,
+smj-home-FAILED,https://migrants.jp/,2026-11-19,200,text/html; charset=UTF-8,curl,
+japantimes-airhearse-repatriation-2017-FAILED,https://www.japantimes.co.jp/news/2017/12/06/business/corporate-business/paperwork-embalming-tokyo-mortuary-firm-handles-cross-border-death-care/,2026-11-19,403,text/html; charset=UTF-8,curl,
+citycost-repatriation-remains,https://city-cost.com/blogs/City-Cost-News/w29bG,2026-11-19,200,text/html; charset=UTF-8,curl,citycost-repatriation-remains.html;citycost-repatriation-remains.md;citycost-repatriation-remains.txt
+askexplorer-returning-deceased,https://askexplorer.com/tokyo/residents/living/certificates-licences/death-certificate-registration/returning-the-deceased-to-country-of-origin,2026-11-19,200,text/html; charset=UTF-8,curl,askexplorer-returning-deceased.html;askexplorer-returning-deceased.md;askexplorer-returning-deceased.txt
+egov-landing-ordinance,https://laws.e-gov.go.jp/api/1/lawdata/402M50000010016,2026-11-19,200,,manual,egov-landing-ordinance.txt
+visaverge-transit-2026,https://www.visaverge.com/guides/tokyo-narita-haneda-transit-2026/,2026-11-19,200,text/html; charset=UTF-8,curl,visaverge-transit-2026.html;visaverge-transit-2026.md;visaverge-transit-2026.txt
+probashi-ssw-guideline-http-FAILED,http://probashi.portal.gov.bd/sites/default/files/files/probashi.portal.gov.bd/policies/d7925921_9643_4701_85ec_7ca2f5e7020a/Guidline%20SSW.pdf,2026-11-19,000,,curl,
+osaka-pref-foreign-consult-remains,https://www.pref.osaka.lg.jp/documents/4367/monthly_2.pdf,2026-11-19,200,application/pdf,curl,osaka-pref-foreign-consult-remains.pdf;osaka-pref-foreign-consult-remains.txt
+posse-home,https://www.npoposse.jp/,2026-11-19,200,text/html; charset=UTF-8,curl,posse-home.html;posse-home.md;posse-home.txt
+tbs-japan-agency-fined,https://www.tbsnews.net/bangladesh/recruiting-agency-fined-cheating-job-seekers,2026-11-19,200,text/html; charset=utf-8,curl,tbs-japan-agency-fined.html;tbs-japan-agency-fined.md;tbs-japan-agency-fined.txt
+clair-consult-list,https://www.clair.or.jp/j/multiculture/association/consultation_list.html,2026-11-19,200,text/html; charset=UTF-8,curl,clair-consult-list.html;clair-consult-list.md;clair-consult-list.txt
+hellowork-basic-benefit,https://www.hellowork.mhlw.go.jp/insurance/insurance_basicbenefit.html,2026-11-19,200,text/html,curl,hellowork-basic-benefit.html;hellowork-basic-benefit.md;hellowork-basic-benefit.txt
+posse-foreign-workers,https://npoposse.jp/labor/foreign_workers/,2026-11-19,200,text/html; charset=UTF-8,curl,posse-foreign-workers.html;posse-foreign-workers.md;posse-foreign-workers.txt
+jlpt-forged-results-warning,https://jlpt.jp/e/topics/202003091583717212.html,2026-11-19,200,text/html; charset=UTF-8,curl,jlpt-forged-results-warning.html;jlpt-forged-results-warning.md;jlpt-forged-results-warning.txt
+embjp-bd-isa-pdf-FAILED,https://www.bd.emb-japan.go.jp/itpr_en/ISA.pdf,2026-11-19,403,text/html,curl,
+ds-japan-it-firm-fined-2019,https://www.thedailystar.net/backpage/news/jobs-japan-it-firm-fined-tk-105-lakh-irregularities-recruitment-1820248,2026-11-19,200,text/html; charset=utf-8,curl,ds-japan-it-firm-fined-2019.html;ds-japan-it-firm-fined-2019.md;ds-japan-it-firm-fined-2019.txt
+bdmonitor-fake-skill-certs-FAILED,https://www.bangladeshmonitor.com.bd/lead-news-pdf/chief-adviser-orders-action-to-curb-fake-skill-certificates,2026-11-19,404,text/html; charset=utf-8,curl,
+jagonews-97477-FAILED,https://www.jagonews24.com/en/national/news/97477,2026-11-19,403,text/html; charset=UTF-8,curl,
+jpemb-dhaka-home-wb,https://www.bd.emb-japan.go.jp/itpr_en/index.html,2026-11-19,200,text/html,wayback:20260720102513,jpemb-dhaka-home-wb.html;jpemb-dhaka-home-wb.md;jpemb-dhaka-home-wb.txt
+unb-jica-scam-warning,https://unb.com.bd/category/Bangladesh/jica-warns-against-fraudulent-activities-circulating-on-online-platforms/160325,2026-11-19,200,text/html; charset=UTF-8,curl,unb-jica-scam-warning.html;unb-jica-scam-warning.md;unb-jica-scam-warning.txt
+isa-titp-fees-survey-2022,https://www.moj.go.jp/isa/content/001377469.pdf,2026-11-19,200,application/pdf,curl,isa-titp-fees-survey-2022.pdf;isa-titp-fees-survey-2022.txt
+vfs-multiple-docs,https://www.vfsglobal.com/one-pager/japan/bangladesh/english/pdf/Documents_multiple.pdf,2026-11-19,200,application/pdf,curl,vfs-multiple-docs.pdf;vfs-multiple-docs.txt
+jpemb-dhaka-embassy-wb,https://www.bd.emb-japan.go.jp/itpr_en/embassy.html,2026-11-19,200,text/html,wayback:20250812092519,jpemb-dhaka-embassy-wb.html;jpemb-dhaka-embassy-wb.md;jpemb-dhaka-embassy-wb.txt
+bdnewsbn-japan-intern-pay-2026-10,https://bangla.bdnews24.com/economy/6uglvzcv1u,2026-11-19,200,text/html; charset=utf-8,curl,bdnewsbn-japan-intern-pay-2026-10.html;bdnewsbn-japan-intern-pay-2026-10.md;bdnewsbn-japan-intern-pay-2026-10.txt
+digibangla-japan-syndicate,https://digibanglatech.news/156602,2026-11-19,200,text/html; charset=UTF-8,curl,digibangla-japan-syndicate.html;digibangla-japan-syndicate.md;digibangla-japan-syndicate.txt
+du-djs-saidur-2026,https://djs.du.ac.bd/wp-content/uploads/2026/04/Article-2_Saidur.pdf,2026-11-19,200,application/pdf,curl,du-djs-saidur-2026.pdf;du-djs-saidur-2026.txt
+jlt-titp-act-en,https://www.japaneselawtranslation.go.jp/en/laws/download/3612/08/h28Aa000890104en14.0_r01A37.txt,2026-11-19,200,text/plain; charset=UTF-8,curl,jlt-titp-act-en.html;jlt-titp-act-en.md;jlt-titp-act-en.txt
+jpemb-dhaka-contact-wb,https://www.bd.emb-japan.go.jp/itpr_en/contact.html,2026-11-19,200,text/html,wayback:20250206223242,jpemb-dhaka-contact-wb.html;jpemb-dhaka-contact-wb.md;jpemb-dhaka-contact-wb.txt
+jagonews-83304,https://www.jagonews24.com/en/biz-econ/news/83304,2026-11-19,200,text/html; charset=utf-8,curl,jagonews-83304.html;jagonews-83304.md;jagonews-83304.txt
+bss-302825,https://www.bssnews.net/bangla/news-flash/302825,2026-11-19,200,text/html; charset=UTF-8,curl,bss-302825.html;bss-302825.md;bss-302825.txt
+jpemb-dhaka-hours-wb,https://www.bd.emb-japan.go.jp/itpr_en/00_000821.html,2026-11-19,200,text/html,wayback:20250528031808,jpemb-dhaka-hours-wb.html;jpemb-dhaka-hours-wb.md;jpemb-dhaka-hours-wb.txt
+jica-bangladesh-office,https://www.jica.go.jp/english/overseas/bangladesh/index.html,2026-11-19,200,text/html,curl,jica-bangladesh-office.html;jica-bangladesh-office.md;jica-bangladesh-office.txt
+vfs-tourism-checklist,https://www.vfsglobal.com/one-pager/japan/bangladesh/english/pdf/Short_Term_Checklist_Update_tourism.pdf,2026-11-19,200,application/pdf,curl,vfs-tourism-checklist.pdf;vfs-tourism-checklist.txt
+jica-bangladesh-office-contact,https://www.jica.go.jp/english/overseas/bangladesh/office/index.html,2026-11-19,200,text/html,curl,jica-bangladesh-office-contact.html;jica-bangladesh-office-contact.md;jica-bangladesh-office-contact.txt
+isa-coe-electronic,https://www.moj.go.jp/isa/applications/procedures/10_00136.html,2026-11-19,200,text/html,curl,isa-coe-electronic.html;isa-coe-electronic.md;isa-coe-electronic.txt
+ds-japan-dont-ruin-it-FAILED,https://online-d11.thedailystar.net/opinion/views/open-dialogue/news/japan-has-opened-its-door-bangladesh-lets-not-ruin-it-4017886,2026-11-19,000,,curl,
+ds-japan-more-test-centres-FAILED,https://online-d11.thedailystar.net/news/bangladesh/news/japan-considering-more-skills-testing-centres-recruit-bangladeshi-workers,2026-11-19,000,,curl,
+ds-japan-lucrative-2023-FAILED,https://d11.thedailystar.net/nrb/migration/news/japan-emerges-lucrative-labour-market-3360221,2026-11-19,000,,curl,
+boesl-home-FAILED,https://www.boesl.gov.bd/,2026-11-19,000,,curl,
+boesl-test-FAILED,http://www.boesl.gov.bd/site/page/a8e1a8a4-6f5d-4f1b-a5d1-1d6bd0f6c0f1,2026-11-19,404,text/html; charset=utf-8,curl,
+hiroshima-police-account-sale,https://www.pref.hiroshima.lg.jp/site/police3/kouzabaibaitaisaku.html,2026-11-19,200,text/html,curl,hiroshima-police-account-sale.html;hiroshima-police-account-sale.md;hiroshima-police-account-sale.txt
+mhlw-titp-moc-001417418,https://www.mhlw.go.jp/content/11800000/001417418.pdf,2026-11-19,200,application/pdf,curl,mhlw-titp-moc-001417418.pdf;mhlw-titp-moc-001417418.txt
+tbs-visa-guide-center-japan,https://www.tbsnews.net/bangladesh/rab-seals-and-fines-visa-guide-center-144301,2026-11-19,200,text/html; charset=utf-8,curl,tbs-visa-guide-center-japan.html;tbs-visa-guide-center-japan.md;tbs-visa-guide-center-japan.txt
+isa-residence-card,https://www.moj.go.jp/isa/applications/procedures/whatzairyu_00001.html,2026-11-19,200,text/html,curl,isa-residence-card.html;isa-residence-card.md;isa-residence-card.txt
+kanagawa-police-account-penalty,https://www.police.pref.kanagawa.jp/assets/entry/h0004_03.txt,2026-11-19,200,,curl,kanagawa-police-account-penalty.txt
+kanagawa-police-remittance-crime,https://www.police.pref.kanagawa.jp/assets/entry/h0004_04.txt,2026-11-19,200,,curl,kanagawa-police-remittance-crime.txt
+boesl-office-address,https://boesl.gov.bd/pages/static-pages/6922dcac933eb65569e1184f,2026-11-19,200,text/html; charset=utf-8,curl,boesl-office-address.html;boesl-office-address.md;boesl-office-address.txt
+boesl-japan-caregiver-ti-notice,https://boesl.gov.bd/pages/news/6a980ce3421c77058d19e4a8,2026-11-19,200,text/html; charset=utf-8,curl,boesl-japan-caregiver-ti-notice.html;boesl-japan-caregiver-ti-notice.md;boesl-japan-caregiver-ti-notice.txt
+isa-student-status,https://www.moj.go.jp/isa/applications/status/student.html,2026-11-19,200,text/html,curl,isa-student-status.html;isa-student-status.md;isa-student-status.txt
+isa-titp-status,https://www.moj.go.jp/isa/applications/status/technicalinterntraining.html,2026-11-19,200,text/html,curl,isa-titp-status.html;isa-titp-status.md;isa-titp-status.txt
+ssw-portal-supportcenter,https://www.ssw.go.jp/en/supportcenter/,2026-11-19,200,text/html; charset=UTF-8,curl,ssw-portal-supportcenter.html;ssw-portal-supportcenter.md;ssw-portal-supportcenter.txt
+jasso-immigration-procedures,https://www.studyinjapan.go.jp/ja/assets/pdf/life/immigration_procedures.pdf,2026-11-19,200,application/pdf,curl,jasso-immigration-procedures.pdf;jasso-immigration-procedures.txt
+tbsbn-im-japan-returnee-fund,https://www.tbsnews.net/bangla/bangladesh/news-details-330246,2026-11-19,200,text/html; charset=utf-8,curl,tbsbn-im-japan-returnee-fund.html;tbsbn-im-japan-returnee-fund.md;tbsbn-im-japan-returnee-fund.txt
+mhlw-ssw-esd-caps-2026,https://www.mhlw.go.jp/content/11601000/001659204.pdf,2026-11-19,200,application/pdf,curl,mhlw-ssw-esd-caps-2026.pdf;mhlw-ssw-esd-caps-2026.txt
+kagawa-foreign-worker-rules,https://www.pref.kagawa.lg.jp/rosei/koyo/taisaku/gaikokujin/gaikokujin_seido.html,2026-11-19,200,text/html,curl,kagawa-foreign-worker-rules.html;kagawa-foreign-worker-rules.md;kagawa-foreign-worker-rules.txt
+imjapan-faq-en,https://imm.or.jp/en/program/faq.html,2026-11-19,200,text/html; charset=UTF-8,curl,imjapan-faq-en.html;imjapan-faq-en.md;imjapan-faq-en.txt
+bss-jetro-350-firms,https://www.bssnews.net/business/372821,2026-11-19,200,text/html; charset=UTF-8,curl,bss-jetro-350-firms.html;bss-jetro-350-firms.md;bss-jetro-350-firms.txt
+palo-bn-japan-free-FAILED,https://www.prothomalo.com/business/বিনা-খরচায়-জাপান-যেতে-যা-লাগবে,2026-11-19,404,text/html; charset=utf-8,curl,
+embjp-my-study-scam-warning-FAILED,https://www.my.emb-japan.go.jp/itpr_en/newinfo_13102020.html,2026-11-19,403,text/html,curl,
+isa-overstayers-2025-07,https://www.moj.go.jp/isa/publications/press/13_00058.html,2026-11-19,200,text/html,curl,isa-overstayers-2025-07.html;isa-overstayers-2025-07.md;isa-overstayers-2025-07.txt
+ssw-portal-events,https://www.ssw.go.jp/en/events/,2026-11-19,200,text/html; charset=UTF-8,curl,ssw-portal-events.html;ssw-portal-events.md;ssw-portal-events.txt
+isa-overstayers-2025-07-tables,https://www.moj.go.jp/isa/content/001448071.pdf,2026-11-19,200,application/pdf,curl,isa-overstayers-2025-07-tables.pdf;isa-overstayers-2025-07-tables.txt
+isa-asylum-not-work-route,https://www.moj.go.jp/isa/refugee/procedures/nanmin_nintei_nihonshurou_00001.html,2026-11-19,200,text/html,curl,isa-asylum-not-work-route.html;isa-asylum-not-work-route.md;isa-asylum-not-work-route.txt
+isa-asylum-work-restriction,https://www.moj.go.jp/isa/refugee/procedures/nanmin_nintei_shinsei_00001.html,2026-11-19,200,text/html,curl,isa-asylum-work-restriction.html;isa-asylum-work-restriction.md;isa-asylum-work-restriction.txt
+isa-asylum-students,https://www.moj.go.jp/isa/refugee/procedures/nanmin_nintei_ryugakusei_00001.html,2026-11-19,200,text/html,curl,isa-asylum-students.html;isa-asylum-students.md;isa-asylum-students.txt
+isa-asylum-titp,https://www.moj.go.jp/isa/refugee/procedures/nanmin_nintei_ginou-jisshusei_00001.html,2026-11-19,200,text/html,curl,isa-asylum-titp.html;isa-asylum-titp.md;isa-asylum-titp.txt
+isa-asylum-not-work-en,https://www.moj.go.jp/isa/content/930002302.pdf,2026-11-19,200,application/pdf,curl,isa-asylum-not-work-en.pdf;isa-asylum-not-work-en.txt
+isa-asylum-work-restriction-en,https://www.moj.go.jp/isa/content/930002329.pdf,2026-11-19,200,application/pdf,curl,isa-asylum-work-restriction-en.pdf;isa-asylum-work-restriction-en.txt
+isa-asylum-students-en,https://www.moj.go.jp/isa/content/930002317.pdf,2026-11-19,200,application/pdf,curl,isa-asylum-students-en.pdf;isa-asylum-students-en.txt
+emb-miami-transit-FAILED,https://www.miami.us.emb-japan.go.jp/itpr_en/visa_transit.html,2026-11-19,403,text/html,curl,
+emb-sf-visa-travel-FAILED,https://www.sf.us.emb-japan.go.jp/itpr_en/visa_travel.html,2026-11-19,403,text/html,curl,
+emb-detroit-transit-FAILED,https://www.detroit.us.emb-japan.go.jp/itpr_en/transitvisa.html,2026-11-19,403,text/html,curl,
+moj-it-exam-notice,https://www.moj.go.jp/isa/policies/bill/nyukan_hourei_h09.html,2026-11-19,200,text/html,curl,moj-it-exam-notice.html;moj-it-exam-notice.md;moj-it-exam-notice.txt
+sbiremit-moneygram-maintenance-2026-10,https://www.remit.co.jp/kaigaisoukin/information/20261014/,2026-11-19,200,text/html; charset=UTF-8,curl,sbiremit-moneygram-maintenance-2026-10.html;sbiremit-moneygram-maintenance-2026-10.md;sbiremit-moneygram-maintenance-2026-10.txt
+bb-exchange-rate-wb,https://www.bb.org.bd/en/index.php/econdata/exchangerate,2026-11-08,200,text/html; charset=UTF-8,wayback:20261020025312,bb-exchange-rate-wb.html;bb-exchange-rate-wb.md
+egov-banking-act-art2,https://laws.e-gov.go.jp/api/1/articles;lawId=356AC0000000059;article=2,2026-11-19,200,text/xml;charset=UTF-8,curl,egov-banking-act-art2.html;egov-banking-act-art2.md;egov-banking-act-art2.txt
+npa-hanshu-amend-2026-honbun,https://www.npa.go.jp/sosikihanzai/jafic/hourei/260610/02_anbun_riyuu.pdf,2026-11-19,200,application/pdf,curl,npa-hanshu-amend-2026-honbun.pdf;npa-hanshu-amend-2026-honbun.txt
+isa-ssw-faq-ja-FAILED,https://www.moj.go.jp/isa/applications/ssw/10_00051.html,2026-11-19,404,text/html; charset=iso-8859-1,curl,
+isa-ssw-org-change-notice,https://www.moj.go.jp/isa/content/001386304.pdf,2026-11-19,200,application/pdf,curl,isa-ssw-org-change-notice.pdf;isa-ssw-org-change-notice.txt

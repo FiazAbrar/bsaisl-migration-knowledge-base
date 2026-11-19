@@ -1,0 +1,230 @@
+[Return to Homepage](https://www.yahoo.com)
+
+## Top Stories:
+
+- [Trump in Asia](https://www.yahoo.com/news/politics/articles/trump-asia-trip-live-updates-201900298.html)
+- [The 'GTA 6' reviews are in](https://tech.yahoo.com/gaming/breaking-news/article/unprecedented-unbelievable-unmissable-the-gta-6-reviews-are-in--heres-what-theyre-saying-211844543.html)
+- [Anthropic IPO live](https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html)
+- [Nvidia signals caution on China](https://finance.yahoo.com/technology/article/sending-a-message-nvidia-signals-more-cautious-stance-on-china-after-huangs-departure-194945165.html)
+- [Peltola wins Alaska Senate race](https://www.yahoo.com/news/politics/article/democrat-mary-peltola-wins-alaska-senate-race-colored-by-double-dan-sullivan-controversy-033805826.html)
+- [Medicare premiums are rising](https://www.yahoo.com/news/us/article/medicare-premiums-are-rising-in-2027-what-youll-pay-and-how-much-of-your-social-security-raise-youll-keep-125312462.html)
+- [Life in remote Alaska](https://www.yahoo.com/news/us/article/theres-no-roads-in-or-out-in-remote-alaska-life-takes-planning-these-families-say-its-worth-it-172534530.html)
+- [Anthropic's IPO: Key details](https://finance.yahoo.com/technology/ai/article/anthropic-ipo-what-we-know-143321078.html)
+- [Apple iCloud outage](https://tech.yahoo.com/general/breaking-news/article/apple-confirms-icloud-outage-as-users-report-issues-with-apple-pay-app-store-and-other-services-175614284.html)
+- [Nvidia won't reinstate Huang](https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html)
+
+[](https://profiles.yahoo.com/brands/los-angeles-times/)
+
+![Los Angeles Times](https://s.yimg.com/lo/mysterio/api/bf7f72f0b4347b328609a0be30a831e706adb4ea8d05b146a3760ba4672dcbd7/lightyear_networkapi/resizefill_h100%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F9d5ef240-2b77-11eb-ab7d-84e86b0eaba3)
+
+![Los Angeles Times](https://s.yimg.com/lo/mysterio/api/eb2822e5f45caa5e11383e1d3adc5bcbfaf89b75d31d3f26f6f7a976bd41f6d5/lightyear_networkapi/resizefill_h100%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2Fae6158d0-2b77-11eb-b9ff-e9e6e07e122d)
+
+# Amid a labor shortage, Japan has made it even harder for refugees to stay
+
+Joseph Coleman
+
+Mon, July 24, 2023 at 10:00 AM UTC
+
+12 min read
+
+Add Yahoo as a preferred source to see more of our stories on Google.
+
+[](https://www.google.com/preferences/source?q=yahoo.com)
+
+![TOKYO, JAPAN - APRIL 16 : Citizens protest against the Amendment of Immigration Control Act in Japan on April 16, 2023 in Tokyo, Japan, as the Government of Japan plans to review the immigration control, the refugee recognition law, and the country's rules to detain and deport foreign nationals. Protesters holding placards and shouting slogans for the right of refugees, have denounced the violation of the International Law regarding the immigration detention in Japan, and asked justice for Sri Lankan woman Rathnayake Liyanage Wishma Sandamali, who had been detained at the Regional Immigration Services Bureauâs detention facility in Nagoya for overstaying her visa in 2020, and who died due to a lack of necessary medical care after complaining of ill health in the same detention facility on March 6, 2021. (Photo by David Mareuil/Anadolu Agency via Getty Images)](https://s.yimg.com/lo/mysterio/api/ea9c29b121cb221d2a1c4f695df90db8ac7bade1c93c27787be00b8e699d992e/lightyear_networkapi/resizefill_w840_h560%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fla_times_articles_853%2F3a22ad18c2f2f096f38a62a52aaa4a4e)
+
+People in Tokyo protest in April against the government's immigration controls, demanding rights for refugees. (David Mareuil / Anadolu Agency via Getty Images)
+
+Iranian [asylum seeker](https://www.latimes.com/california/story/2023-06-16/immigrant-shelter) Afshin had hoped he'd be spending the final decades of his career contributing to a Japanese economy desperate for workers.
+
+Instead, the former construction worker has been sidelined from Japan's shrinking labor force while battling immigration officials. He has endured years of detention.
+
+At one point, he said, he was saved from deportation only because a scuffle with officials had left his clothes so bloody that when he arrived at the airport, the airline refused to allow him to board.
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+When he hasn't been in detention in recent years, he has been banned from seeking work or government support.
+
+"It makes no sense," said Afshin, 57, who was a political activist in Iran and spoke on condition that he be identified by only his childhood nickname to protect family there. "They won't let you work, so you can't make money, but they also won't let you sign up for unemployment."
+
+Japan, which has the world's third-largest economy, is struggling to repair a [labor force](https://www.latimes.com/politics/newsletter/2023-07-07/what-immigration-means-for-u-s-population-and-economic-growth-essential-politics) cratered by rapid aging. Fertility rates are stubbornly low, and forecasts show the already shrinking population could drop from 124 million to 104 million by midcentury as the share of people 65 and older approaches 40%, deepening crises in the labor market, pensions and healthcare.
+
+![A large crowd of mask-wearing commuters](https://s.yimg.com/lo/mysterio/api/5d7809aedf134fecd524499850f2d6b404e3ae48c4018a9eba6120004df778a0/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fla_times_articles_853%2F3a2d4b56eb27c3f1880cecb422d666bb)
+
+Mask-wearing commuters make their way through Shinagawa Station in Tokyo. To boost the waning labor force, Japan's government is expanding a foreign skilled-worker system and loosening visa rules for ethnic Japanese born abroad. (Jae C. Hong / Associated Press)
+
+**Read more:** [One sign of South Korea's population crisis: Rural elementary schools are running out of children](https://www.latimes.com/world-nation/story/2023-05-08/south-korea-population-crisis-rural-schools-running-out-children?utm_source=yahoo&utm_medium=promo_module&utm_campaign=rss_feed)
+
+Advertisement
+
+Advertisement
+
+But Japan has been slow to open to foreign labor, stymied by a historical skittishness about foreigners and fears that significant [immigration](https://www.latimes.com/politics/story/2023-06-20/biden-asylum-seekers-turned-down-rates) would lead to crime and instability. The number of foreign-born residents in Japan — mostly from Asia — hit a record high last year of 3 million, or 2.4% of the population, well short of the 13.6% in the United States.
+
+To boost the [waning labor force,](https://www.latimes.com/world-nation/story/2023-07-01/in-workaholic-japan-job-leaving-agents-help-people-escape-the-awkwardness-of-quitting) the government is expanding a foreign skilled-worker system and loosening visa rules for ethnic Japanese born abroad. Last year, Tokyo launched an overhaul of a foreign trainee program that brings hundreds of thousands of people to Japan temporarily to work in agriculture, factories and elsewhere. Now the government is pushing a plan to improve childcare benefits, hoping to increase birthrates.
+
+But Japan refuses to make it easier for some of the world's millions of [refugees](https://www.latimes.com/california/story/2023-06-18/some-la-latinos-welcome-42-migrants-bused-from-texas-as-brothers-and-sisters) to settle here and join the workforce. Instead, the parliament passed legislation in June that could fast-track thousands of asylum seekers to deportation.
+
+![Several people reading their phones as they sit or lie on bedding on a floor](https://s.yimg.com/lo/mysterio/api/26151fcd32c45d69bde130811bcb14679979da1ea717e39b724d9944dd16f1a1/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fla_times_articles_853%2F9d0a8acfaf83bac1e18d00f8f3a48400)
+
+Jobless and homeless Vietnamese migrant workers prepare to sleep at a Buddhist temple in Honjo, Japan. (Carl Court / Getty Images)
+
+Refugees pose specific challenges to Japan's foreign worker ambitions. They can show up without any particular skills and sometimes with political baggage at odds with Japan's foreign policy positions. And Japan is loath to grant residency to foreigners who could require government support or benefits.
+
+Advertisement
+
+Advertisement
+
+**Read more:** [Bused from Texas to L.A.: Little food, sketchy bathroom facilities for 20 hours on the road](https://www.latimes.com/california/story/2023-06-20/migrants-bused-texas-la-greg-abbott-plan?utm_source=yahoo&utm_medium=promo_module&utm_campaign=rss_feed)
+
+"Refugees for Japan mean difficult people," said Gracia Liu-Farrer, a sociologist at Tokyo's Waseda University who studies the plight of the country's immigrants. "So 'refugee' does not have a good reputation — it has a social stigma to it."
+
+Japan grants asylum to only a few dozen of the thousands of applicants it gets each year.
+
+Amid protests in Tokyo and tumult in parliament, lawmakers voted last month for new rules that say anyone who has applied more than twice for asylum — such as Afshin — can be sent home.
+
+Advertisement
+
+Advertisement
+
+Critics say the crackdown on refugees is pointless when Japan needs to import labor.
+
+"Nobody's looking at the big picture," said Koichi Kodama, a leading immigration and foreigners' rights attorney. "Instead, it's just a patchwork. Now they're trying to deport a bunch of people, but at the same time they want people to come. There's no balance at all."
+
+Japanese officials say the new rules are aimed at protecting those directly threatened by persecution in their home countries — and quickly deporting those who are not. The measure also closed a loophole that officials said encouraged unsuccessful applicants to keep applying repeatedly just to stay in Japan.
+
+Justice Minister Ken Saito recently asserted in parliament that a third of rejected asylum seekers who had resisted deportation were guilty of crimes unrelated to immigration, including violent offenses.
+
+![One lawmaker jumps toward another as others look on or try to stop the scuffle](https://s.yimg.com/lo/mysterio/api/b5ec948a5369f94728ca8be59b25d3e2b5506021fb49fb99234430d4b45e6954/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fla_times_articles_853%2F79be645a8793b4b75c6357765cbc4b76)
+
+Japanese opposition lawmaker Taro Yamamoto, top left, tries to jump toward Hisatake Sugi, seated, as ruling coalition lawmakers push a controversial immigration bill to a vote in June. (Jiji Press / AFP via Getty Images)
+
+**Read more:** [Afghan refugees in U.S. face uncertainty as legislation stalls](https://www.latimes.com/world-nation/story/2022-12-30/afghan-refugees-in-u-s-face-uncertainty-as-legislation-stalls?utm_source=yahoo&utm_medium=promo_module&utm_campaign=rss_feed)
+
+Advertisement
+
+Advertisement
+
+"Deportation refusal and long-term detention are urgent problems that need to be dealt with quickly," Saito said earlier this year. "Unfortunately, there are those who misuse or abuse refugee recognition applications as a means of avoiding deportation."
+
+The Justice Ministry says that more than 4,000 rejected asylum seekers are still in Japan after defying deportation orders, and that an additional 1,400 on provisional release from detention have gone missing.
+
+The sometimes raucous parliamentary debate over the measure shed further light on a system widely criticized by human rights groups, which cite tactics — such as banning many asylum applicants from lawful work — that seem to be aimed at encouraging asylum seekers to give up or never come to Japan in the first place.
+
+"The system makes it so difficult to live in Japan that people just want to go home," said Atsuko Nishiyama, an immigration lawyer.
+
+Advertisement
+
+Advertisement
+
+The harshest criticism has been directed at Japan's feared [immigration](https://www.latimes.com/world-nation/story/2023-06-10/migrants-say-florida-contractors-pushed-to-get-them-to-board-planes-to-california) detention centers, where inmates can be held indefinitely while their cases are adjudicated. Former detainees say at best they are treated like criminals; at worst, they can be denied critical medical care and are subject to physical and emotional abuse. Since 2007, 17 detainees have died in custody, including several by suicide. Hunger strikes are not uncommon.
+
+Recent protesters have rallied around the case of a 33-year-old Sri Lankan woman, Wishma Sandamali, who died in 2021 after officials dismissed her repeated requests to be sent to a hospital. A criminal case against officials has stalled, but her family is pursuing a civil lawsuit.
+
+![People protest in the street, one holding a sign reading, "Stop human rights violations."](https://s.yimg.com/lo/mysterio/api/f4eac352a2b3c692951bb0b81212efeeca5ede50e8a0923efaf5ae08d61b801f/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fla_times_articles_853%2F3340ad8d9492d53f55b211b407dd6ca6)
+
+People protest against Japanese immigration policies in April. (David Mareuil / Anadolu Agency via Getty Images)
+
+Once asylum seekers make their applications, their chances of approval are razor-thin. Japan joined the U.N. Refugee Convention in 1982 but has historically rejected about 99% of applications.
+
+**Read more:** [Migrant fathers celebrate their day at a family shelter in Mexico with gifts and prayers](https://www.latimes.com/california/story/2023-07-01/migrant-fathers-celebrate-their-day-at-mexicali-shelter?utm_source=yahoo&utm_medium=promo_module&utm_campaign=rss_feed)
+
+Advertisement
+
+Advertisement
+
+Attention has focused on what critics say is Japan's overly strict interpretation of the definition of [refugee](https://www.latimes.com/california/story/2022-07-31/afghan-refugee-brothers-san-diego) in international law: somebody with "a well-founded fear" of persecution based on race, religion, nationality, political beliefs or membership in a particular social group.
+
+Saito has repeatedly defended Japan's selection system, pointing out that from 2018 until 2022, the government's rejection of refugee applicants had been upheld by courts in 104 of 109 lawsuits.
+
+"I believe that we must always put our hands on our hearts to ensure that there are no mistakes in our own judgments and the judgments of government offices," he told reporters in June. "But I don't think that means we have to change our system now."
+
+The total of 202 people granted asylum last year was a record high spurred by an influx of former Japanese Embassy employees who fled Afghanistan amid the Taliban takeover. But most applicants were from Cambodia, Sri Lanka, Turkey or Myanmar.
+
+Advertisement
+
+Advertisement
+
+By comparison, both Germany and the United States recognized some 45,000 refugees each in 2022, the United Nations reported. Even the tiny Netherlands recognized more than 14,000 asylum seekers that year.
+
+Japan has responded to allies' demands for help in handling global crises by accepting outsiders who aren't legally classified as refugees. The country, for instance, had taken in 121 Syrians fleeing war by the end of last year, but as international students. A couple thousand Ukrainians have been welcomed at least temporarily as "evacuees" and given work permits and government support.
+
+The refugee recognition system operates largely out of public view, and activists and human rights lawyers regularly refer to it as a "black box," arguing that immigration officials issue verdicts without explanation, make unreasonable demands for evidence of applicants' persecution, and hand out recognition and work permissions — or prohibitions — arbitrarily and with scant oversight.
+
+"In most countries, the question is who is eligible to be accepted," Afshin said on the sidelines of a protest outside parliament in June. "But in Japan, the question is who is eligible to be rejected."
+
+Advertisement
+
+Advertisement
+
+Afshin has witnessed the vagaries of the system firsthand over the last three decades.
+
+He arrived in Tokyo on a short-term visa in 1990 after fleeing death threats as a member of a group opposed to Iran's Islamic government, he said, joining a stream of Iranians taking advantage of Japan's then-relaxed attitude toward visitors from the oil-rich nation.
+
+Afshin said he, like many other Iranians at the time, worked illegally with no problem for about 10 years, until he was arrested in a crackdown on people who had overstayed their visas. He applied for asylum in 2002.
+
+In an interview with immigration officials, he said he had been threatened at gunpoint in Iran. An official, he said, asked for a photo of the incident. "I laughed," Afshin said. "Who is going to take a photo at that moment?"
+
+Since then, he has been detained a total of four years as appeal after appeal was turned down.
+
+He was paroled from detention but banned from work and national health insurance, though he worked on the sly until about eight years ago, when the government started to tighten controls over parolees.
+
+Afshin's fourth application for asylum was rejected this year, and he was given a one-year visa on humanitarian grounds. But the visa bans him from working or applying for unemployment benefits.
+
+The stress has taken a toll on Afshin. He downs handfuls of prescription pills for a heart condition and for PTSD that he blames on attempts to deport him. Over the last year, he had to raise thousands of dollars through an aid organization to pay the full price for angioplasty to remove plaque from his arteries. He said his doctor had advised that another round of treatment may be necessary.
+
+Afshin said he fears he could be deported at any time.
+
+"I first went into immigration detention 22 years ago, and I haven't gotten anything from them," he said. "Why do I have to be grateful for this residence card? Maybe 20% of what I feel is appreciation, but the other 80% is resentment."
+
+Not all asylum seekers are denied work visas. Myo Kyaw Kyaw, 38, a member of Myanmar's persecuted Rohingya Muslim minority, arrived in Japan in 2006 with a visa. He said he'd been targeted for his pro-democracy activism.
+
+But his applications for asylum have been rejected three times, and he has been detained for about 2½ years. His third application was rejected in February, but instead of being deported, Japanese officials issued him a six-month visa that allowed him to work 28 hours a week. The visa, which is good until mid-August, has let him work for the first time since 2013. He is appealing the February decision.
+
+Now he's employed by the Anti-Poverty Network, a nonprofit that supports asylum seekers, and is a regular at pro-refugee rallies in Tokyo. But he is tormented by uncertainty.
+
+"I don't know how long I can do this," he said, adding that he'd prefer death in Japan to being sent home, where his presence could endanger his family. "I'm going to die here. I don't want to die in Myanmar."
+
+Many asylum seekers privately concede that they work on the side despite the ban, particularly in construction and demolition work, though they say that employers fearful of prosecution are reluctant to offer steady gigs, and that pay is lower than for those with official work authorization.
+
+Nishiyama, the attorney, said some employers come to rely on such workers to do punishing labor most Japanese are unwilling to perform.
+
+**Read more:** [Anger, tears, a birthday serenade. What happened after a deadly fire in Mexico migrant lockup](https://www.latimes.com/world-nation/story/2023-04-02/in-juarez-stricken-migrants-seek-justice-wonder-why?utm_source=yahoo&utm_medium=promo_module&utm_campaign=rss_feed)
+
+"It would be much better for Japan to give those people special permission to stay here," she said. "Immigration makes them out to be criminals, but from my experience, most of those people would live stable lives here if they had visas."
+
+Meanwhile, many of Japan's would-be refugees are dependent on handouts like the bags of food and other necessities distributed every Sunday at St. Alban's Anglican-Episcopal Church in Tokyo.
+
+The volunteer operation is run by American filmmaker Thomas Ash, director of "Ushiku," a 2021 documentary about detainees at a center north of Tokyo. The film, which Ash shot with hidden cameras to get around the center's photography ban, features the anguished stories of several refugees — including a hunger striker — as they grapple with physical and emotional abuse in detention.
+
+Ash said the idea to document the refugees' plight came when he became disturbed by detainees' condition while visiting the center a few years ago as part of a volunteer church group.
+
+"I prayed about what I could do, and I felt that I should preserve evidence in case someone died," he said.
+
+On a recent Sunday, Ash and other volunteers hosted a coffee and pastry hour for refugees and handed out bags of rice, coffee, soy milk, curry, candy and other foods.
+
+One of the men gathered there, Julius Nde, 53, said he came to Japan in 2018 because of fighting in his native Cameroon. He'd lived in Japan previously for three years, but had been forced to leave in 2007 after overstaying his visa.
+
+He said he was frustrated by immigration officials' refusal to give him refugee status or permission to work legally.
+
+"Sometimes I visit my friends where they work and ask for money," he said. "They give me an allowance. That's how I live my life in Japan."
+
+[Sign up for Essential California, your daily guide to news, views and life in the Golden State.](https://www.latimes.com/newsletters/essential-california?utm_source=yahoo&utm_medium=newsletter_module&utm_campaign=todays-headlines)
+
+This story originally appeared in [Los Angeles Times](https://www.latimes.com/world-nation/story/2023-07-24/japan-and-asylum-seekers).
+
+Advertisement
+
+- [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
+
+- [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
+
+Advertisement
+
+Advertisement

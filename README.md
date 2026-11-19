@@ -15,6 +15,7 @@ Countries:
 - [Oman](countries/oman/) (draft, under review)
 - [Jordan](countries/jordan/) (draft, under review)
 - [South Korea](countries/south-korea/) (draft, under review)
+- [Japan](countries/japan/) (draft, under review)
 
 For all countries:
 

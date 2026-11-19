@@ -1,0 +1,533 @@
+<!-- <h1> Welcome to my Customes Home </h1> -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-77358836-1', 'auto');
+  ga('send', 'pageview');
+
+</script><!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Bangladesh Customs, National Board of Revenue (NBR)</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="https://bangladeshcustoms.gov.bd//images/NBR-customs-logo.png" type="image/gif">
+    		
+    <link rel="stylesheet" href="https://bangladeshcustoms.gov.bd/css/bootstrap.css" media="all">
+	<!-- DataTable Css -->
+    <link href="https://bangladeshcustoms.gov.bd/bower_components/datatables/media/css/dataTables.bootstrap.min.css" rel="stylesheet">
+	
+    <!--<link rel="stylesheet" href="https://bangladeshcustoms.gov.bd/bower_components/bootstrap/dist/css/bootstrap.css" media="screen">This is working for icon-->
+    <link rel="stylesheet" href="https://bangladeshcustoms.gov.bd/assets/css/bootswatch.min.css">
+     
+ 	<link rel="stylesheet" href="https://bangladeshcustoms.gov.bd/js/accordion/test/metisFolder.css">
+ 	<link rel="stylesheet" href="https://bangladeshcustoms.gov.bd/css/webpers.css" media="all">  
+	<link  rel="stylesheet" href="https://bangladeshcustoms.gov.bd/css/print.css" media="print">
+ 	<script type="text/javascript" src="https://bangladeshcustoms.gov.bd/js/jquery-1.12.3.min.js"></script>
+ 	<script type="text/javascript" src="https://bangladeshcustoms.gov.bd/js/jssor.js"></script>
+    <script type="text/javascript" src="https://bangladeshcustoms.gov.bd/js/jssor.slider.js"></script> 
+    <link rel="stylesheet" href="https://bangladeshcustoms.gov.bd/font-awesome_new/css/font-awesome.css">
+    <link rel="stylesheet" href="https://bangladeshcustoms.gov.bd/lib/sweet-alert.css">
+	 
+	<link rel="stylesheet" href="https://bangladeshcustoms.gov.bd/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+	<script type="text/javascript" src="https://bangladeshcustoms.gov.bd/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+	<script src="https://bangladeshcustoms.gov.bd/bower_components/datatables/media/js/jquery.dataTables.min.js"></script>
+	<script src="https://bangladeshcustoms.gov.bd/bower_components/datatables/media/js/dataTables.bootstrap.min.js"></script>
+	<script src="https://bangladeshcustoms.gov.bd/lib/sweet-alert.min.js"></script>
+    
+	<style>
+		li.lhinc {
+			margin-bottom: 12px;
+			margin-top: 6px;
+		}
+
+		@media (min-width: 768px) and (max-width: 1000px) {
+   			.collapse {
+       			display: none !important;
+   			}
+		}
+	</style>
+</head>
+
+<body>
+    <div class="navbar navbar-default navbar-fixed-top">
+      <div class="container" >
+        <div class="navbar-header">
+        	<a href="https://bangladeshcustoms.gov.bd/" class="navbar-brand">Home</a>
+          	<button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        
+        <div class="navbar-collapse collapse js-navbar-collapse" id="navbar-main">
+          	<ul class="nav navbar-nav">
+          		          		<li class="dropdown dropdown-large">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">Trade Info<b class="caret"></b></a>
+					<ul id="trade_info_submenu" class="dropdown-menu dropdown-menu-large row">
+						<li class="col-lg-4">
+							<ul>
+															<li class="dropdown-header">Tariff</li>
+								<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/operating_center" > Operative Tariff  </a> </li>							<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/preferential_center" > Preferential Tariff (import)  </a> </li>							<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/preferential_center_ex" > Preferential Tariff (export) </a> </li>							<li> <a href="https://nbr.gov.bd/budget/tariff-schedule/eng" target="_blank"> First Schedule </a> </li>							<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/pte_safta" > SAPTA/SAFTA </a> </li>														<li class="divider"></li>
+													<li class="dropdown-header">Exim Procedures</li>
+								<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/customs_clearance" > Customs Clearance </a> </li>							<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/insurance_guarantee" > Insurance Guarantee </a> </li>							<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/incoterms" > INCOTERMS </a> </li>							<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/currency_regulations" > Currency Regulations </a> </li>							<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/nrb_facilities" > NRB Facilities </a> </li>							<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/dangerous_goods" > Dangerous Goods </a> </li>														<li class="divider"></li>
+													<li class="dropdown-header">AEO/Trusted Traders</li>
+								<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/criteria" > Criteria </a> </li>							<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/benefits" > Benefits </a> </li>							<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/aeo_list" > AEO List </a> </li>														<li class="divider"></li>
+					</ul></li><li class='col-lg-4'><ul>								<li class="dropdown-header">Dispute Settlement</li>
+								<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/appeal_process" > Appeal Process </a> </li>														<li class="divider"></li>
+													<li class="dropdown-header">Transit</li>
+								<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/transit" > Transit </a> </li>							<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/transshipment" > Transshipment </a> </li>							<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/entrepot" > Entrepot </a> </li>														<li class="divider"></li>
+													<li class="dropdown-header">Advance Ruling</li>
+								<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/classification" > Classification </a> </li>							<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/advance_rulling_database" > Advance ruling Database </a> </li>														<li class="divider"></li>
+													<li class="dropdown-header">International Regulations</li>
+								<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/money_laundering" > Money Laundering </a> </li>							<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/transfer_pricing" > Transfer Pricing </a> </li>							<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/intellectual_property_rights" > Intellectual Property Rights (IPR) </a> </li>							<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/trade_in_endangered_species" > Trade in Endangered Species </a> </li>							<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/chemical_weapons" > Chemical Weapons  </a> </li>														<li class="divider"></li>
+					</ul></li><li class='col-lg-4'><ul>								<li class="dropdown-header">Trade Incentives</li>
+								<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/duty_drawback_ti" > Duty Drawbacks </a> </li>							<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/export_incentives" > Export Incentives </a> </li>							<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/bonded_warehouse_ti" > Bond Warehouse </a> </li>							<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/other_special_import_regimes" > E-Book on Concessions </a> </li>														<li class="divider"></li>
+													<li class="dropdown-header">Trade Remedy Measures</li>
+								<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/Anti_dumping_duties" > Anti-dumping Duties </a> </li>							<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/countervailing_duties" > Countervailing Duties </a> </li>							<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/safeguard_duties" > Safeguard Duties </a> </li>														<li class="divider"></li>
+													<li class="dropdown-header">Fees & Charges</li>
+								<li> <a href="https://bangladeshcustoms.gov.bd/trade_info/fees_charges" > Fees & Charges </a> </li>														<li class="divider"></li>
+													<li class="dropdown-header">Agents Info</li>
+								<li> <a href="https://bangladeshcustoms.gov.bd/users/under_construction"  > Valid C&F Agents List </a> </li>														<li class="divider"></li>
+										</ul>
+				</li>
+			</ul>
+		</li>
+          			          		<li class="dropdown" >
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">Legislation<b class="caret"></b></a>
+
+									
+                    <ul class="dropdown-menu" id="">
+												<li><a href="https://bangladeshcustoms.gov.bd/legislation/customs_act/123">Customs Act</a></li>
+														<li><a href="https://bangladeshcustoms.gov.bd/legislation/allied_acts/123">Allied Acts</a></li>
+																	<li><a href="https://sro.bdcustoms.gov.bd/" target="_blank">SROs (Statutory Regulatory Orders)</a></li>
+																	<li><a href="https://bangladeshcustoms.gov.bd/legislation/customes_rules">Customs Rules</a></li>
+																	<li><a href="https://bangladeshcustoms.gov.bd/legislation/orders_standing_orders">Orders/Standing Orders</a></li>
+																	<li><a href="https://bangladeshcustoms.gov.bd/legislation/office_orders">Office Order</a></li>
+																	<li><a href="https://bangladeshcustoms.gov.bd/legislation/minutes_rulling">Minutes / Ruling</a></li>
+													
+					</ul>
+									
+				</li>
+					          		<li class="dropdown" >
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">Procedures<b class="caret"></b></a>
+
+									
+                    <ul class="dropdown-menu" id="">
+												<li><a href="https://bangladeshcustoms.gov.bd/procedures/p_import/123">Import</a></li>
+														<li><a href="https://bangladeshcustoms.gov.bd/procedures/p_export/123">Export</a></li>
+														<li><a href="https://bangladeshcustoms.gov.bd/procedures/agro_products/123">Agro Products Clearance</a></li>
+														<li><a href="https://bangladeshcustoms.gov.bd/procedures/valuation/123">Valuation</a></li>
+														<li><a href="https://bangladeshcustoms.gov.bd/procedures/duty_drawback/123">DEDO</a></li>
+														<li><a href="https://bangladeshcustoms.gov.bd/procedures/bonded_warehouse/123">Bond Warehouse</a></li>
+														<li><a href="https://bangladeshcustoms.gov.bd/procedures/epzs/123">EPZ’s</a></li>
+														<li><a href="https://bangladeshcustoms.gov.bd/procedures/off_dock/123">Off Dock</a></li>
+														<li><a href="https://bangladeshcustoms.gov.bd/procedures/p_transit/123">Transit</a></li>
+														<li><a href="https://bangladeshcustoms.gov.bd/procedures/auction/123">Auction</a></li>
+														<li><a href="https://bangladeshcustoms.gov.bd/procedures/destruction_of_goods/123">Destruction of goods</a></li>
+														<li><a href="https://bangladeshcustoms.gov.bd/procedures/radiation_detection/123">Radiation detection</a></li>
+													
+					</ul>
+									
+				</li>
+					          		<li class="dropdown" >
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">Forms/Docs<b class="caret"></b></a>
+
+									
+                    <ul class="dropdown-menu" id="">
+															<li><a href="https://bangladeshcustoms.gov.bd/forms_docs/all_forms">All Forms</a></li>
+																	<li><a href="https://bangladeshcustoms.gov.bd/forms_docs/all_docs">All Docs</a></li>
+													
+					</ul>
+									
+				</li>
+					          		<li class="dropdown" >
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">Budget<b class="caret"></b></a>
+
+										<ul class="dropdown-menu" id="">
+												<li><a href="https://bangladeshcustoms.gov.bd/budget/fiscal_year">Archive</a></li>
+																		<li><a href="https://bangladeshcustoms.gov.bd/budget/2026-2027/123">2026/27</a></li>
+												<li><a href="https://bangladeshcustoms.gov.bd/budget/2025-2026/123">2025/26</a></li>
+												<li><a href="https://bangladeshcustoms.gov.bd/budget/2024-2025/123">2024/25</a></li>
+												<li><a href="https://bangladeshcustoms.gov.bd/budget/2023-2024/123">2023/24</a></li>
+												<li><a href="https://bangladeshcustoms.gov.bd/budget/2022-2023/123">2022/23</a></li>
+												<li><a href="https://bangladeshcustoms.gov.bd/budget/2021-2022/123">2021/22</a></li>
+												<li><a href="https://bangladeshcustoms.gov.bd/budget/2020-2021/123">2020/21</a></li>
+												<li><a href="https://bangladeshcustoms.gov.bd/budget/2019-2020/123">2019/20</a></li>
+												<li><a href="https://bangladeshcustoms.gov.bd/budget/2018-2019/123">2018/19</a></li>
+												<li><a href="https://bangladeshcustoms.gov.bd/budget/2017-2018/123">2017/18</a></li>
+												<li><a href="https://bangladeshcustoms.gov.bd/budget/2016-2017/123">2016/17</a></li>
+												<li><a href="https://bangladeshcustoms.gov.bd/budget/2015-2016/123">2015/16</a></li>
+												<li><a href="https://bangladeshcustoms.gov.bd/budget/2014-2015/123">2014/15</a></li>
+												<li><a href="https://bangladeshcustoms.gov.bd/budget/2013-2014/123">2013/14</a></li>
+												<li><a href="https://bangladeshcustoms.gov.bd/budget/2012-2013/123">2012/13</a></li>
+												<li><a href="https://bangladeshcustoms.gov.bd/budget/2011-2012/123">2011/12</a></li>
+											</ul>
+									
+				</li>
+					          		<li class="dropdown" >
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">News/Pub<b class="caret"></b></a>
+
+									
+                    <ul class="dropdown-menu" id="">
+															<li><a href="https://bangladeshcustoms.gov.bd/news_pub/enforcement_seizures">Enforcement & Seizures</a></li>
+																	<li><a href="https://bangladeshcustoms.gov.bd/news_pub/events_archive">Events</a></li>
+																	<li><a href="https://bangladeshcustoms.gov.bd/users/under_construction">Fairs/Exhibitions</a></li>
+																	<li><a href="https://bangladeshcustoms.gov.bd/users/under_construction">Public Notices</a></li>
+														<li><a href="https://bangladeshcustoms.gov.bd/news_pub/fiscal_frontiers/123">Fiscal Frontiers</a></li>
+														<li><a href="https://bangladeshcustoms.gov.bd/news_pub/Tenders/123">Tenders</a></li>
+																	<li><a href="http://www.bangladeshcustoms.gov.bd/download/Work-Distribution-of-NBR.pdf" target="_blank">Work Distribution</a></li>
+													
+					</ul>
+									
+				</li>
+					          		<li class="dropdown" >
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">eService<b class="caret"></b></a>
+
+									
+                    <ul class="dropdown-menu" id="">
+															<li><a href="http://customs.gov.bd/" target="_blank">ASYCUDA World</a></li>
+																	<li><a href="http://103.48.18.166/" target="_blank">Customs e-Auction</a></li>
+														<li><a href="https://bangladeshcustoms.gov.bd/eservice/enquiry_point/123">NEP</a></li>
+														<li><a href="https://bangladeshcustoms.gov.bd/eservice/faq/123">FAQ</a></li>
+																	<li><a href="https://bangladeshcustoms.gov.bd/trade_info/duty_calculator">Duty Calculator</a></li>
+														<li><a href="https://bangladeshcustoms.gov.bd/eservice/exchange_rate/123">Exchange Rates</a></li>
+													
+					</ul>
+									
+				</li>
+								
+		</ul> <!-- END navbar left -->
+										
+        <ul class="nav navbar-nav navbar-right">           
+            <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-search"></i></a>
+            <ul class="dropdown-menu" style="padding:12px; width:250px;">
+			<!--Search box for custom search___ Nel Work start-->
+			
+                <form action="https://bangladeshcustoms.gov.bd/users/site_search" class="form-inline" id="cse-search-box" >
+				  <div>
+					<input name="cx" value="014346630175217166642:cwrk7e3cptw" type="hidden">
+					<input name="ie" value="UTF-8" type="hidden">
+					<!--<input type="text" name="search_text" class="form-control pull-left input-sm" placeholder="Search"><!--prev-->
+					<button name="sa" type="submit" class="btn btn-default pull-right"><i class="fa fa-search"></i></button><!--prev-->
+					<input  name="q"  type="text" class="form-control pull-left input-sm" placeholder="Search">
+					
+					<!--<input name="sa" value="Search" type="submit">
+					<!--<input name="sa" value="Search" type="submit" class="btn btn-default pull-right">-->
+				  </div>
+				<input value="googlecustomsearch.appspot.com/element/layoutdemo/branding_style.html" name="siteurl" type="hidden"><input name="ref" type="hidden"><input name="ss" type="hidden">
+				</form>
+			<!--Search box for custom search___ Nel Work end-->	
+            </ul>
+          	</li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i><i class="fa fa-chevron-down"></i></a>
+            <ul class="dropdown-menu">
+              <li><a href="#"><i class="fa fa-cog"></i> Login</a></li>
+              <li><a href="#"><i class="fa fa-user"></i> Profile</a></li>
+              <li class="divider"></li>
+              <li><a href="#"><i class="fa fa-sign-out"></i> Logout</a></li>
+             </ul>
+          </li>  
+            <li><a href="https://bangladeshcustoms.gov.bd/users/sitemap" class="small">Sitemap</a></li><!--Nel Work-->
+            <li><a href="https://bangladeshcustoms.gov.bd/users/az" class="small">A-Z</a></li>
+            <!--===============Added this for immediately showing to client=======================-->
+            <li><a href="https://bangladeshcustoms.gov.bd/users/convert_language/bn" class="small">বাংলা</a></li>
+            <!--<li><a href="http://bangladeshcustoms.gov.bd/beta/" class="small">English</a></li>-->
+            <!--===============Added this for immediately showing to client=======================-->
+            <!--<li><a href="users/photogallery" class="small">Photogallery</a></li>-->
+          </ul>
+
+        </div>
+      </div>
+    </div>
+<div class="container">
+
+<!-- Common Content Area -->
+<div class="row">
+	<div class="col-lg-12 text-center">
+		<h3>Currency Regulations</h3>
+		<hr>
+	</div>
+</div>
+
+
+<div class="row">
+    	<div class="col-lg-2">
+	  <h4><span class="glyphicon glyphicon-link"></span> Currency Regulations Links</h4>
+	  <hr>
+	  <!-- 
+	    <p><a href="/passenger/baggageentitlement">Duty Free Allowances</a></p>
+	    <p><a href="#">Gold & Jewelry Allowance</a></p>
+	    <p><a href="#">Foreign Currency Declaration Form</a></p>
+	    <p><a href="#">Baggage Rules</a></p>
+	    <p><a href="#">Transfer of Residence Rules</a></p>
+	    <p><a href="#">ATA Carnet</a></p>
+	    <p><a href="#">Carnet de Passage</a></p>
+	    <p><a href="#">Tax Clearance Certificate (for outgoing professionals)</a></p> -->
+	    
+		<!--Nel Add Outer link starts-->
+		
+				<p><a target = "_blank" href="http://www.bb.org.bd">Bangladesh Bank</a></p>
+		<!--Nel Add Outer link ends-->
+				<p><a target = "_blank" href="http://www.mincom.gov.bd">Ministry of commerce</a></p>
+		<!--Nel Add Outer link ends-->
+				<hr>
+		
+	</div>
+        
+    <div class="col-lg-8">	<!--<div class="col-lg-8">-->
+	
+	<p> 
+	<p align="left"><strong>Currency Regulations for Export / Import </strong></p>
+<p>All types of dealings in foreign exchange are guided by The Foreign Exchange Regulation Act 1947, which is administered by Bangladesh Bank. To download the Act, <a href="../download/The_Foreign_Exchange_Regulation_Act-19471.pdf" target="_blank">click here</a>.</p>
+<p align="justify">To download details on various regulations and guidelines related to foreign exchange, please visit Bangladesh Bank website (<a href="http://www.bb.org.bd" target="_blank"><em>www.bb.org.bd</em></a>).</p>
+<p align="justify">Procedures relating to imports using foreign exchange are guided by the provisions laid down in The Import Policy Order, 2015-2018 (Chapter 2).</p>
+<p align="justify">To download the Import Policy Order, <a href="../../download/Import_policy_2015-2018_(Bangla)_3.pdf" target="_blank">click here</a> or visit the Ministry of Commerce website (<a href="http://www.mincom.gov.bd/" target="_blank">www.mincom.gov.bd</a>)<strong> </strong></p>
+<p align="left"><strong>Currency Regulations for Travelers / Passengers </strong></p>
+<p><strong>a.     </strong><strong>Foreign currency a person can take out of Bangladesh</strong></p>
+<p align="justify">An adult passenger can take out up to US$ 12,000 during a calendar year for global private travel. Out of that amount, up to US$ 5,000 or equivalent for travel to SAARC member countries and Myanmar and up to US$ 7,000 or equivalent for travel to other countries.</p>
+<p align="justify">For minors (below 12 years in age) the applicable quota will be half the amount admissible for adults.</p>
+<p align="justify">However, foreign exchange (taken out from Bangladesh) in the form of cash must not exceed US$ 5,000 per person per trip. (Ref. <em><a href="../download/Foreign_Exchange_Circular_No._17(2014)_1.pdf" target="_blank">FE Circular No. 17</a> of 06/04/2014</em> and <a href="../download/Foreign_Exchange_Circular_No._2(2015)_1.PDF" target="_blank"><em>FE Circular No. 02 of 11/02/2015</em></a>)</p>
+<p align="justify">To download the relevant Bangladesh Bank circulars, <span>click on the download link</span>.</p>
+<p><strong>b.    </strong><strong>Foreign currency a person can bring into Bangladesh without declaration</strong></p>
+<p align="justify">Any amount of foreign currency may be brought in by an incoming passenger with declaration to thecustoms authorities in Form <span>FMJ</span>. No declaration, however, is necessary for amounts uptoUS$ 5000/= or equivalent. However, a person bringing in foreign exchange exceeding US$ 5000 or equivalent will have to declare the amount to the Customs authority.</p>
+<p>For a foreigner, the entire amount brought in with declaration or uptoUS$ 5000/= brought in without declaration may be taken out freely at the time of departure.Upto US$ 5000/= brought in without declaration by a Bangladeshi may also be retained and taken outfreely while proceeding abroad.</p>
+<p>To download the <em>FMJ </em>form <a href="../download/Foreign_Money_and_Jewelry_(FMJ)_Form1.pdf" target="_blank">click here</a>.</p>
+<p><strong>c.      </strong><strong>Bangladesh currency/taka a person can bring into or take out of Bangladesh without declaration</strong></p>
+<p align="justify">Without giving a declaration (in the form specified by Bangladesh Bank) to the Customs Authority, a person/passenger can bring in from abroad or take out from Bangladesh Tk. 5000.  (Ref. <em><a href="../download/Bangladeshi_Currency_Circular_No._5(2014)_1.pdf" target="_blank"><span>FE Circular No. 05</span></a> of 30/01/2014</em>)</p>
+<p>To download the relevent circular, <a href="../download/Foreign_Exchange_Circular_No._17(2014)_1.pdf" target="_blank"><span>click here</span></a>.</p>
+<p> </p>	</p>
+
+
+	</div>
+    
+    	<div class="col-lg-2">
+	<h4><span class="glyphicon glyphicon-download"></span> Downloads</h4>
+	<hr>
+				<p><a href="https://bangladeshcustoms.gov.bd/download/Bangladeshi_Currency_Circular_No._5(2014)_1.pdf" download ><span class="glyphicon glyphicon-save-file"></span> Bangladeshi Currency Circular No. 5(2014)</p></a>
+				<p><a href="https://bangladeshcustoms.gov.bd/download/Foreign_Exchange_Circular_No._2(2015)_1.PDF" download ><span class="glyphicon glyphicon-save-file"></span> Foreign Exchange Circular No.  2(2015)</p></a>
+				<p><a href="https://bangladeshcustoms.gov.bd/download/Foreign_Exchange_Circular_No._17(2014)_1.pdf" download ><span class="glyphicon glyphicon-save-file"></span> Foreign Exchange Circular No.  17(2014)</p></a>
+				<p><a href="https://bangladeshcustoms.gov.bd/download/Foreign_Money_and_Jewelry_(FMJ)_Form1.pdf" download ><span class="glyphicon glyphicon-save-file"></span> Foreign Money and Jewelry (FMJ) Form</p></a>
+				<p><a href="https://bangladeshcustoms.gov.bd/download/Import_policy_2015-2018_(Bangla)_32.pdf" download ><span class="glyphicon glyphicon-save-file"></span> Import Policy Order 2015-2018 (Bangla)</p></a>
+				<p><a href="https://bangladeshcustoms.gov.bd/download/Import_Policy_Order-2012-2015_English1.doc" download ><span class="glyphicon glyphicon-save-file"></span> Import Policy Order-2012-2015 (English)</p></a>
+				<p><a href="https://bangladeshcustoms.gov.bd/download/The_Foreign_Exchange_Regulation_Act-19471.pdf" download ><span class="glyphicon glyphicon-save-file"></span> The Foreign Exchange Regulation Act, 1947</p></a>
+				<hr>
+	</div>
+    
+    
+</div>
+<!-- End Common Content-->
+
+</div> <!-- End Container -->
+
+<div class="bangla_engilsh">
+                            <!--<a href="https://bangladeshcustoms.gov.bd/users/convert_language/bn" style="color: #f5f5f5">bn</a>
+		        	<a href="https://bangladeshcustoms.gov.bd/users/convert_language/en" style="color: #f5f5f5">en</a>-->
+		             
+		        </div>
+
+<!-- MODAL for website comments -->
+
+<div class="modal" id="commentModal" tabindex="-1" role="dialog" aria-labelledby="basicModal" aria-hidden="true">
+
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+				<h4 class="modal-title">Submit Your Comments Regarding the Customs Wesbite</h4>
+			</div>
+			<div class="modal-body">
+				<form class="form-horizontal" id="comment_form" method="post">
+					<fieldset>
+						<!-- Email -->
+						<div class="form-group">
+							<label for="name" class="col-lg-2 control-label">Name</label>
+							<div class="col-lg-10">
+								<input type="text" class="form-control" id="name" name="name" required placeholder="Name">
+							</div>
+						</div>
+						<div class="form-group">
+							<label for="email" class="col-lg-2 control-label">Email</label>
+							<div class="col-lg-10">
+								<input type="text" class="form-control" id="email" required placeholder="Email">
+							</div>
+
+<!--                *Commented out due to requirement
+                    <div class="checkbox col-lg-10 col-lg-offset-2">
+                        <label>
+                          <input type="checkbox" name="notify" id="notify" value="1"> Notify me by email of updates to the Customs Website.
+                        </label>
+                    </div>-->
+                </div>
+                <!-- End Email -->
+
+                <!-- Text Area -->
+                <div class="form-group">
+                	<label for="comment" class="col-lg-2 control-label">Comments</label>
+                	<div class="col-lg-10">
+                		<textarea class="form-control" rows="3" required id="comment"></textarea>
+                		<span class="help-block">Your comments will be received by NBR and evaluated.
+                			You may be contacted by email for further input if necessary. Thank you.</span>
+                		</div>
+                	</div>
+                	<!-- End Text Area -->
+                </fieldset>
+
+            </div>
+            <div class="modal-footer">
+            	<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            	<button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>
+</div>
+
+<!-- END MODAL for website comments -->
+
+<!-- Bootsnip FOOTER -->
+<div class="container text-center">
+
+	<!-- <div class="row text-right text-muted small">
+		<div class="col-lg-12">
+			<i class="fa fa-pencil-square-o"></i>
+			Last updated by admin: <u>Smith</u> <span class="glyphicon glyphicon-menu-right"></span>
+			21 days ago <span class="glyphicon glyphicon-menu-right"></span> 		</div>
+	</div> -->
+				<hr>
+			<div class="row">
+				<div class="col-lg-12">
+
+
+					<ul class="nav nav-pills nav-justified print">
+						<li><a href="#">&copy; 2026 National Board of Revenue, Bangladesh</a></li>
+						<li><a href="https://bangladeshcustoms.gov.bd/">Home</a></li>
+						<li><a href="http://nbr.gov.bd/about-us/nbr-officers-list/eng" target="_blank">Contact Us</a></li>
+						<li><a href="https://bangladeshcustoms.gov.bd/legislation/enquiry_point" >NEP</a></li>
+						<li><a href="https://bangladeshcustoms.gov.bd/users/under_construction" >Customs Hotline</a></li>
+						
+						
+
+						<li><a href="#" data-toggle="modal" data-target="#commentModal">
+							<i class="fa fa-comment"></i> Website Feedback</a></li>
+						</ul>
+
+					</div>
+				</div>
+
+
+							</div>
+			<!-- END Bootsnip footer -->
+
+
+			<!--<script src="https://bangladeshcustoms.gov.bd/js/jquery-1.12.3.min.js"></script>-->
+			<!-- <script src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script> -->
+			<script src="https://bangladeshcustoms.gov.bd/assets/js/bootswatch.js"></script>
+						<script>
+				$(document).ready(function() {
+					$('#myModal').modal('toggle');
+				});
+			</script>
+
+
+						<!-- <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script> -->
+			<!-- <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.0/js/bootstrap.min.js"></script> -->
+			<!-- <script src="//cdn.jsdelivr.net/bootstrap.metismenu/1.1.2/js/metismenu.min.js"></script> -->
+			<script src="https://bangladeshcustoms.gov.bd/startbootstrap/js/bootstrap.min.js"></script>
+			<script src="https://bangladeshcustoms.gov.bd/js/accordion/dist/metismenu.min.js"></script>
+			<script src="https://bangladeshcustoms.gov.bd/js/customs.js"></script><!--This file is missing-->
+
+			<script>
+    //Nel work loading fancy box start
+    var $= jQuery.noConflict();
+    $(document).ready(function() {
+
+    	$(".fancybox").fancybox();
+    });
+	//Nel work loading fancy box end
+
+
+	$(function() {
+		$('.metisFolder').metisMenu({
+			toggle: false
+		});
+	});
+
+	//Data table try
+
+    /*
+
+    $(document).ready(function() {
+    //Add This line in the footer of any page that needs datatable
+    //You will find example in [views/advance_ruling_database_view.php]
+    $('#example').DataTable();
+    } );
+    */
+
+
+    //In home page menu drop-down, on icon click starts===================================================
+    /*[Icon click Menu dropdown] functionality is removed according to client demand*/
+    /*$('#menu_icon_group a').click(function(e) {
+
+        e.stopPropagation();//I have added this line because otherwise i can't addClass('open')
+
+         var submenu = $(this).data("submenu");
+
+        //$('#'+submenu).show();    //this is problematic solution
+        $('#'+submenu).closest("li.dropdown").addClass('open');
+        //$('#'+submenu).closest("a.dropdown-toggle").attr('aria-expanded', 'true');
+
+
+        //hide submenu on body click
+        $("body").mouseup(function(){
+
+           $('#'+submenu).closest("li.dropdown").removeClass('open');
+
+             //$('#'+submenu).hide(); //this is problematic solution
+        });
+
+
+    });*/
+    //In home page menu drop-down, on icon click ends===================================================
+
+    //Submit Preferential Tariff form to get data for APTA or SAFTA=====================================
+    //Submit Preferential Tariff form to differnt controller method=====================================
+
+    /*$(window).load*/(function() {
+
+
+    	var preferential_tariff_type = $('select[name=preferential_tariff_type]').val();
+
+
+    	$('select[name=preferential_tariff_type] ').change(
+    		function() {
+    			preferential_tariff_type = $('select[name=preferential_tariff_type]').val();
+
+    		});
+
+             //=======
+             $("#preferential_tariff_form").submit(function(e){
+             	if(preferential_tariff_type == "safta" ){
+                        //change the action of form=============
+                        $('#preferential_tariff_form').attr('action', "https://bangladeshcustoms.gov.bd/users/search_preferential_tariff_im_safta");
+
+                    }else if(preferential_tariff_type == "apta"){
+                        //change the action of form=============
+                        $('#preferential_tariff_form').attr('action', "https://bangladeshcustoms.gov.bd/users/search_preferential_tariff");
+                    }
+                });
+             //=======
+
+         })();
+
+    //Submit Preferential Tariff form to differnt controller method=====================================
+
+</script>
+</body>
+</html>

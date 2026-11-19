@@ -1,0 +1,1532 @@
+Monthly Report on Workers' Remittance Inflows in
+Bangladesh
+August, 2026
+Statistics Department
+Bangladesh Bank
+EDITORIAL COMMITTEE
+Chief Advisor
+Md. Anis Ur Rahman
+Deputy Governor
+Advisor
+Shabnam Shirin
+Executive Director (Statistics)
+Chief Editor
+Md. Habibour Rahman
+Director (Statistics)
+Editor
+Dewan Sonia Sultana
+Additional Director (Statistics)
+Contributors
+Taslima Islam Md. Azizul Kahar
+Joint Director (Statistics) Assistant Director (Statistics)
+Any suggestions/comments for improvement in the contents of this booklet would be highly appreciated.
+Users may kindly contact with the following mailing address for their suggestions/comments and queries
+(if any):
+E-mail: habibour.rahman@bb.org.bd
+Director (Statistics)
+Balance of Payments Division, Statistics Department, Bangladesh Bank, Head Office, Dhaka.
+E-mail: dewan.sultana@bb.org.bd
+Additional Director (Statistics)
+Balance of Payments Division, Statistics Department, Bangladesh Bank, Head Office, Dhaka.
+Content Page
+No.
+Chapter 1: Introduction 01-03
+1.1 Introduction 01
+1.2 Structure of the Publication 02
+1.3 Data Source 02
+1.4 Implications for Policy Analysts and Stakeholders 03
+1.5 Authority 03
+1.6 Dissemination of Workers' Remittance Inflows Statistics 03
+Chapter 2: Review on Workers' Remittance Inflows in Bangladesh 04-11
+2.1 Key Highlights 04
+2.2 Monthly Workers' Remittance Inflows 05
+2.3 Country wise Workers' Remittance Inflows 06
+2.4 Division and District wise Workers' Remittance Inflows 07
+2.5 Scheduled Bank wise Workers Remittance Inflows 10
+Chapter 3: Annexure 12-22
+List of Tables
+Table-1 Monthly Comparison of Workers' Remittance Inflows 04
+Table-2 Yearly Comparison of Workers' Remittance Inflows 04
+Table-3 Month-over-Month Workers' Remittance Growth 05
+Table-4 Workers' Remittance Inflows from Top 30 Countries 06
+Table-5 Division and District wise Workers' Remittance Inflows 08
+Table-6 Bank-wise Monthly Workers' Remittance Inflows 10
+List of Figures
+Figure-1 Monthly Trend line of Workers' Remittance Inflows 05
+Figure-2 Division wise Workers' Remittance Inflows 07
+Annexure: Statistical Tables Page No.
+Annexure -I Workers' Remittance Inflows from FY 1975-76 to FY 2026-27 13
+Annexure -II Month wise Workers' Remittance Inflows FY 2014-15 to FY 2026-27 14-15
+Annexure -III Country wise Workers' Remittance Inflows FY 2016-17 to FY 2026-27 16-19
+Annexure-IV Division and District wise Workers' Remittance Inflows FY 2017-18 to
+FY 2026-27
+20
+Annexure-V Bank wise Workers' Remittance Inflows FY 2016-17 to FY 2026-27 21-22
+1 | P a g e
+Chapter 1: Introduction
+1.1 Introduction
+Remittances are among the most important sources of a country's foreign exchange reserves
+and play a vital role in its economic growth and development. Remittances represent
+household income from foreign economies arising mainly from the temporary or permanent
+movement of people to those economies. Remittances include cash and non-cash items that
+flow through formal channels, such as electronic wire transfers, or through informal channels,
+such as cash or goods carried across borders. When migrants send part of their earnings to
+their home in the form of either cash or goods to support their families, these transfers are
+known as workers' or migrant remittances. It has grown rapidly over the past few years and
+now accounts for the largest share of foreign income for many developing economies.
+Remittances play an increasingly vital role in the economies of small and developing
+countries, including for disaster relief, often exceeding official development assistance
+(ODA). They help raise the standard of living for people in low-income nations and help
+combat global poverty. In fact, since the late 1990s, remittances have exceeded development
+aid and, in some cases, accounted for a significant share of a country's gross domestic product
+(GDP).
+Workers' remittances play a pivotal role in Bangladesh's economy, serving as one of the
+largest sources of foreign exchange. The Bureau of Manpower, Employment, and Training
+(BMET) has reported that from 1976 to August, 2026, 18.57 million people obtained BMET
+licenses for overseas work. Inward remittances from Bangladesh expatriates are very
+significant for the nation and the Bank. Expatriate remittances are one of the largest sources
+of foreign currency. Manpower export plays an important role in poverty alleviation and
+helps reduce unemployment, the core problem of a densely populated country like
+Bangladesh.
+In recent years, Workers' remittance inflows have been crucial for maintaining economic
+stability, particularly amid global economic uncertainties and domestic challenges. In the
+current political and economic landscape, marked by inflationary pressures, exchange rate
+fluctuations, and rising import costs, remittances have provided much-needed relief by
+bolstering foreign currency reserves and supporting millions of households across the
+country. As a stabilizing factor, the steady flow of remittances has contributed to poverty
+reduction, improved living standards, and regional development. In the context of the
+ongoing post-pandemic economic recovery and political transitions, remittances are even
+more crucial for sustaining economic growth, ensuring liquidity in the banking sector, and
+reducing reliance on external borrowing.
+According to World Bank estimates, global workers' remittance flows reached US $905
+billion in 2024. Of this total, approximately US $685 billion was directed to low- and middle-
+income countries (LMICs), underscoring the crucial role of remittances in supporting
+household consumption, investment, and external balances in developing economies. With an
+2 | P a g e
+estimated inflow of US $129 billion in 2024, India remained the world's largest recipient of
+remittances, followed by countries such as Mexico, China, the Philippines, and Egypt
+(Source: World Bank, 2024). In this global context, Bangladesh recorded an impressive US
+$35.6 billion in inward remittances during FY 2025-26.
+1.2 Structure of the Publication
+This publication presents an in-depth analysis of workers' remittance inflows to Bangladesh,
+focusing on several key dimensions. The Monthly Trend of Workers' Remittance Inflows
+section examines short-term fluctuations in remittance receipts over recent months, while the
+Yearly Trend Analysis provides a broader perspective on long-term growth patterns.
+A detailed country-wise breakdown of remittances from the top 30 source countries offers
+valuable insight into the major corridors contributing to Bangladesh's remittance inflows.
+Furthermore, the region-wise, division-wise, and district-wise analyses illustrate the
+geographic distribution of remittance earnings across the country, highlighting areas where
+these funds exert the most significant socioeconomic impact.
+In addition, scheduled bank-wise, district-wise and country-wise time series data have been
+incorporated as annexure to enhance the analytical depth of this publication. Together, these
+components provide a comprehensive overview of remittance trends, facilitating informed
+policy analysis and decision-making.
+1.3 Data Source
+Considering the significance of remittances to the economy, the Statistics Department of
+Bangladesh Bank has collected daily remittance data from Non-Resident Bangladeshis
+working abroad (remitters) since June 2016. Prior to this, the Foreign Exchange Policy
+Department was responsible for collecting wage remittance data. The remittance figures
+presented in this publication are compiled daily from all scheduled banks operating in
+Bangladesh. These banks aggregate data through multiple channels to ensure comprehensive
+coverage of workers' remittance inflows. The head offices of ADs must upload daily workers'
+remittance transactions, based on disbursements to beneficiary accounts, in a consolidated
+format. This report should include data from all AD branches and departments, organized by
+currency and district, using the RIT template T_ME_D_REMITTANCE maintained by the
+Statistics Department, Bangladesh Bank, Head Office, Dhaka. ADs must ensure that all NRB
+(Wage earners) remittance data are fully covered in this template and in the summary
+statement FCS-7, along with schedules FCR-1, 2, 3, and 4.
+The primary sources of data collection are as follows:
+· Inward remittance deposits through banking channels into Foreign Currency (FC) accounts,
+as well as FDD/TTs purchased from Bangladeshi nationals abroad for family support are
+reported in FCR-1.
+3 | P a g e
+· Inward remittances received through Taka accounts of non-resident bank branches,
+correspondents, exchange houses, and subsidiaries abroad are reported in FCR-2, based on
+disbursement to beneficiaries' accounts.
+· Local deposits into foreign currency accounts such as drafts, traveler's cheques and cash, as
+well as purchases from Bangladeshi nationals abroad, are reported in FCR-3.
+This multi-channel approach enables real-time tracking of remittances and provides a robust
+dataset for analysis. The timely and detailed collection of remittance inflows enables the
+presentation of accurate, up-to-date trends, offering critical insights into the flow of foreign
+exchange into Bangladesh.
+1.4 Implications for Policy Analysts and Stakeholders
+This publication provides essential data for policymakers, government ministries, and
+research organizations to inform decisions that support the migrant workforce and maximize
+the economic benefits of remittances. The Ministry of Finance, Ministry of Expatriates'
+Welfare and Overseas Employment, and Planning Commission can use these data to design
+targeted policies that facilitate remittance flows, enhance financial inclusion for recipients,
+and address the needs of migrant workers abroad. Furthermore, these data serve as a
+foundation for research institutions and policymakers to conduct further analysis on
+leveraging remittances to promote sustainable development, reduce inequality, and strengthen
+long-term economic resilience.
+1.5 Authority
+Article 69 of the Bangladesh Bank Order, 1972 (President's Order No. 127 of 1972)
+authorizes Bangladesh Bank to request from Natural or Juridical persons including the
+government, such data or information as required for proper execution of its responsibilities.
+1.6 Dissemination of Workers' Remittance Inflows Statistics
+The Statistics Department of Bangladesh Bank publishes daily workers' remittance data on
+the Bangladesh Bank website (www.bb.org.bd) on a weekly basis. Additionally, the
+department provides country-wise, district-wise and bank-wise remittance data on a monthly
+basis at the following link: www.bb.org.bd/en/index.php/econdata/wageremitance
+Statistics Department also disseminates these data to various ministries, government and non-
+government organizations, international agencies, consulates and embassies as required.
+Workers' remittance data is also published on a monthly basis in the National Summary Data
+Page (NSDP) portal of the Bangladesh Bank website.
+4 | P a g e
+Chapter 2: Review on Workers' Remittance Inflows in Bangladesh
+2.1 Key Highlights
+The significant points relating to Monthly Workers' Remittance Inflows in Bangladesh for
+the month of August, 2026 are presented below:
+During the month of August, 2026 the workers' remittance inflows stood at USD 2,967.53
+million compared to USD 2,858.76 million in July, 2026. This indicates an increase of USD
+108.78 million or 3.80% over the previous month and an increase of USD 545.64 million or
+22.53% over the same month of previous year (Table-1).
+During the Fiscal year 2026-27 (July-Aug) the workers' remittance inflows stood at USD
+5,826.29 million against an increase of USD 926.53 million or 18.91% over the same period
+of previous fiscal year (Table-2).
+Table 1: Comparison of Monthly Workers' Remittance Inflows
+In million USD
+Period August, 2025 July, 2026 August, 2026
+Growth (% )
+August, 2026
+over
+July, 2026
+August, 2026
+over
+August, 2025
+Remittance
+2,421.89 2,858.76 2,967.53 3.80% 22.53%
+Source: Statistics Department, Bangladesh Bank
+Table 2: Comparison of Yearly Workers' Remittance Inflows
+In million USD
+Period
+FY 2025-26
+(July-Aug)
+FY 2026-27
+(July-Aug)
+Growth (% )
+FY 2026-27 over FY 2025-26
+Remittance
+4,899.76 5,826.29 18.91%
+Source: Statistics Department, Bangladesh Bank
+5 | P a g e
+2.2 Monthly Workers' Remittance Inflows
+The following table shows the amount of month-wise workers' remittance inflows. By
+analyzing the figures, we see that the trend line of remittance inflows increases day by day.
+Every year, during the month of religious festivals and other occasions, remittance inflows
+increase. At the end of the fiscal year (June) or the calendar year (December), remittance
+inflows also increase. The monthly position is shown in Figure 1 and the monthly growth of
+remittance inflows is shown in Table-3.
+Table 3: Month-over-Month Workers' Remittance Growth
+Fiscal
+Year
+Jul Aug Sept Oct Nov Dec Jan Feb Mar Apr May Jun
+2026-27 1.41% 0.04%
+2025-26 -12.21% -2.26% 10.89% -4.58% 12.77% 11.56% -1.61% -4.80% 24.27% -16.76 10.22% -18.11%
+2024-25 -24.61% 16.22% 8.09% -0.38% -8.15% 19.95% -17.19% 15.67% 30.38% -16.49% 7.89% -4.95%
+2023-24 -10.27% -18.94% -16.57% 47.74% -2.10% 3.18% 6.12% 2.43% -7.74% 2.36% 10.31% 12.58%
+2022-23 14.10% -2.83% -24.41% -0.92% 4.57% 6.55% 15.25% -20.34% 29.61% -16.69% 0.40% 29.99%
+Source: Statistics Department, Bangladesh Bank.
+0.00
+500.00
+1000.00
+1500.00
+2000.00
+2500.00
+3000.00
+3500.00
+4000.00
+Jul Aug Sept Oct Nov Dec Jan Feb Mar Apr May Jun
+Figure 1: Monthly Trendline on Workers' Remittance Inflows
+2026-27 2025-26 2024-25 2023-24 2022-23
+6 | P a g e
+2.3 Country wise Workers' Remittance Inflows
+Workers' remittance inflows from the top 30 countries in August, 2026 are listed in Table 4 below.
+Table 4: Workers' Remittance Inflows from Top 30 Countries
+In million USD
+Source: Statistics Department, Bangladesh Bank
+July August Jul-Aug
+1 SAUDI ARABIA 587.29 558.61 1145.90
+2 UNITED KINGDOM (UK) 396.74 458.12 854.87
+3 UNITED STATES OF AMERICA (USA) 273.18 267.02 540.20
+4 UNITED ARAB EMIRATES (UAE) 255.56 249.54 505.10
+5 MALAYSIA 201.33 228.71 430.04
+6 ITALY 203.11 212.53 415.64
+7 SINGAPORE 136.98 150.20 287.18
+8 KUWAIT 148.74 143.70 292.45
+9 OMAN 141.96 133.96 275.92
+10 QATAR 121.59 113.09 234.68
+11 BAHRAIN 43.86 64.44 108.29
+12 SOUTH AFRICA 36.54 47.02 83.56
+13 FRANCE 40.60 44.41 85.02
+14 KOREA, REPUBLIC OF 27.18 40.28 67.46
+15 JORDAN 35.34 29.79 65.13
+16 AUSTRALIA 21.30 22.14 43.44
+17 PORTUGAL 18.10 19.45 37.55
+18 GREECE 17.49 18.35 35.85
+19 CANADA 17.08 17.68 34.76
+20 SPAIN 12.26 14.71 26.97
+21 GERMANY 11.80 13.01 24.81
+22 JAPAN 7.10 12.64 19.74
+23 POLAND 9.27 9.24 18.51
+24 MALDIVES 9.92 7.60 17.52
+25 SCOTLAND 6.29 7.11 13.40
+26 CYPRUS 4.87 6.40 11.26
+27 MAURITIUS 5.17 6.11 11.28
+28 MALTA 6.06 5.76 11.82
+29 SWEDEN 5.58 4.87 10.45
+30 BRUNEI DARUSSALAM 5.13 4.83 9.96
+31 Other Countries 51.34 56.22 107.56
+2858.76 2967.53 5826.29
+2026-27
+Sl. No. Country
+Total
+7 | P a g e
+2.4 Division and District wise Workers' Remittance
+During the month of August 2026, the highest remittance receiving division is Dhaka, which
+amounted to USD 1,558.52 million, which is 52.52% of total remittance inflows. The second highest
+position is Chattogram division, which amounted to USD 774.20 million, which is 26.09%, and the
+third position is Sylhet division, which amounted to USD 268.01 million, which is 9.03% of total
+remittance inflows (Table-5).
+In district-wise analysis, the top-most remittance-earning district is Dhaka (USD 1,086.64 million).
+The other districts with higher amounts of remittance inflows are Chattogram (USD 199.90 million),
+Cumilla (USD 181.76 million) and Sylhet (USD 148.35 million), respectively (Table 5).
+Barishal
+2%
+Chattogram
+26%
+Dhaka
+53%
+Khulna
+4%
+Mymensingh
+2%
+Rajshahi
+3%
+Rangpur
+1%
+Sylhet
+9%
+Figure 2: Division Wise Workers' Remittance Inflows for
+August, 2026
+Barishal
+Chattogram
+Dhaka
+Khulna
+Mymensingh
+Rajshahi
+Rangpur
+Sylhet
+8 | P a g e
+Table 5: Division and District wise Workers' Remittance Inflows
+In million USD
+Source: Statistics Department, Bangladesh Bank
+July August July-Aug
+Barguna 5.15 5.33 10.48
+Barishal 19.75 20.81 40.55
+Bhola 11.13 11.13 22.26
+Jhalokathi 4.21 4.25 8.45
+Patuakhali 5.36 5.79 11.15
+Pirojpur 8.92 8.60 17.52
+Barisal Total 54.51 55.91 110.42
+Bandarban 3.99 11.28 15.27
+Brahmanbaria 79.83 80.58 160.41
+Chandpur 65.63 65.10 130.73
+Chattogram 201.82 199.90 401.72
+Cox's Bazar 16.84 19.43 36.27
+Cumilla 185.40 181.76 367.16
+Feni 68.54 75.12 143.66
+Khagrachari 2.76 3.00 5.76
+Lakshmipur 44.17 44.60 88.77
+Noakhali 88.26 91.68 179.94
+Rangamati 1.62 1.76 3.38
+Chattogram Total 758.85 774.20 1533.06
+Dhaka 1059.81 1086.64 2146.45
+Faridpur 31.13 31.46 62.59
+Gazipur 42.40 46.10 88.50
+Gopalganj 12.18 13.76 25.93
+Kishoreganj 41.20 41.73 82.93
+Madaripur 54.86 57.32 112.18
+Manikganj 20.88 23.40 44.29
+Munshiganj 50.31 59.20 109.52
+Narayanganj 51.07 55.15 106.22
+Narshingdi 38.38 42.41 80.80
+Rajbari 10.89 11.53 22.42
+Shariatpur 30.17 32.53 62.70
+Tangail 54.78 57.28 112.06
+Dhaka Total 1498.07 1558.52 3056.59
+Bagerhat 8.92 9.06 17.98
+Chuadanga 9.36 9.77 19.13
+Jashore 24.06 24.54 48.61
+Jhenaidah 12.27 12.17 24.43
+Khulna 15.06 16.33 31.40
+Kushtia 16.50 17.38 33.88
+Magura 6.13 6.46 12.59
+Meherpur 9.00 8.78 17.78
+Narail 6.92 7.02 13.94
+Satkhira 10.49 11.83 22.32
+Khulna Total 118.72 123.34 242.06
+FY 2026-27
+Division District
+Barishal
+Chattogram
+Dhaka
+Khulna
+9 | P a g e
+In million USD
+Source: Statistics Department, Bangladesh Bank
+10 | P a g e
+2.5 Bank wise Workers Remittance Inflows
+In August 2026, the top 3 banks with the highest workers' remittances were Islami Bank Bangladesh
+PLC, Bangladesh Krishi Bank and Brac Bank PLC. Bank wise workers' remittances are shown in
+Table 6.
+Table 6: Bank wise Workers Remittance Inflows
+In million USD
+FI Cluster FI ID FI Name
+2026-27
+July August
+State-owned
+Commercial Banks
+11 Agrani Bank PLC 245.76 162.08
+12 Janata Bank PLC 36.40 79.31
+14 Rupali Bank PLC 31.67 52.09
+15 Sonali Bank PLC 124.04 139.96
+35 Basic Bank PLC 0.09 0.08
+135 Bangladesh Development Bank PLC --- ---
+State-owned Commercial Bank Total 437.97 433.51
+Specialized
+Banks/Development
+Banks
+31 Bangladesh Krishi Bank 325.51 291.91
+33 Rajshahi Krishi Unnayan Bank --- ---
+Specialized Banks/Development Bank Total 325.51 291.91
+Private Commercial
+Banks
+41 AB Bank PLC 7.35 2.37
+42 Islami Bank Bangladesh PLC 452.77 550.89
+43 National Bank PLC 23.30 17.13
+44 City Bank PLC 120.56 135.29
+45 IFIC Bank PLC 2.49 6.81
+46 United Commercial Bank PLC 94.48 74.33
+47 Pubali Bank PLC 33.18 94.93
+48 Uttara Bank PLC 1.17 7.13
+50 Shimanto Bank PLC 0.26 0.11
+52 Eastern Bank PLC 109.32 90.13
+53 National Credit and Commerce Bank PLC 62.45 40.53
+54 Prime Bank PLC 95.18 49.72
+55 Southeast Bank PLC 64.37 66.00
+56 Dhaka Bank PLC 101.84 148.43
+57 Al-Arafah Islami Bank PLC 28.67 39.71
+58 Social Islami Bank PLC 0.48 1.02
+59 Dutch Bangla Bank PLC 100.32 156.75
+60 Mercantile Bank PLC 25.83 22.17
+61 Standard Bank PLC 31.79 13.98
+62 One Bank PLC 0.30 0.74
+63 Exim Bank PLC 0.89 1.07
+64 Bangladesh Commerce Bank PLC 0.10 0.09
+65 Mutual Trust Bank PLC 89.72 71.93
+11 | P a g e
+In million USD
+FI Cluster FI ID FI Name
+2026-27
+July August
+Private Commercial
+Banks
+66 Premier Bank PLC 26.03 22.96
+67 First Security Islami Bank PLC 0.15 0.18
+68 Bank Asia PLC 46.35 37.26
+69 Trust Bank PLC 215.00 211.49
+70 Shahjalal Islami Bank PLC 23.01 18.01
+71 Jamuna Bank PLC 38.49 57.28
+72 Brac Bank PLC 270.34 252.81
+76 NRB Commercial Bank PLC 3.42 4.07
+77 SBAC Bank PLC 3.18 7.35
+78 Meghna Bank PLC 0.60 2.99
+79 Midland Bank PLC 3.34 13.24
+80 Padma Bank PLC --- ---
+82 Union Bank Ltd 0.03 0.04
+83 NRB Bank Ltd 2.91 6.01
+84 Global Islami Bank PLC 0.16 0.24
+85 Modhumoti Bank PLC 7.28 5.84
+107 ICB Islami Bank Ltd --- ---
+139 Community Bank Bangladesh PLC 0.01 1.51
+140 Bengal Commercial Bank PLC 1.80 2.77
+141 Citizen bank PLC 1.03 0.04
+Private Commercial Bank Total 2089.96 2235.38
+Foreign Commercial
+Banks
+4.0
+0
+Standard Chartered Bank Ltd
+4.89 6.16
+0.0
+0
+State Bank of India
+--- ---
+25 Habib Bank Ltd --- ---
+26 Citi Bank NA Ltd 0.08 0.19
+27 Commercial Bank of Ceylon 0.28 0.29
+28 National Bank of Pakistan --- ---
+73 Woori Bank 0.07 0.08
+74
+Hongkong and Shanghai Banking
+Corporation
+0.01 0.01
+75 Bank Alfalah --- ---
+Foreign Commercial Bank Total 5.32 6.74
+Grand Total 2858.76 2967.53
+Source: Statistics Department, Bangladesh Bank
+Note: --- = Not available
+12 | P a g e
+Annexure: Statistical Tables
+Annexure-I
+In million USD
+Fiscal Year Remittance Inflows
+1975-76 16.35
+1976-77 47.25
+1977-78 101.98
+1978-79 124.05
+1979-80 248.87
+1980-81 381.12
+1981-82 418.39
+1982-83 621.93
+1983-84 597.83
+1984-85 441.64
+1985-86 555.74
+1986-87 697.45
+1987-88 737.48
+1988-89 770.82
+1989-90 758.23
+1990-91 763.90
+1991-92 849.67
+1992-93 944.53
+1993-94 1088.72
+1994-95 1197.63
+1995-96 1217.06
+1996-97 1475.42
+1997-98 1525.43
+1998-99 1705.74
+1999-00 1949.32
+2000-01 1882.10
+2001-02 2501.13
+2002-03 3061.97
+2003-04 3371.97
+2004-05 3848.29
+2005-06 4802.41
+2006-07 5978.47
+2007-08 7914.78
+2008-09 9689.26
+2009-10 10987.40
+2010-11 11650.32
+2011-12 12843.43
+2012-13 14461.15
+2013-14 14228.30
+2014-15 15316.91
+2015-16 14931.18
+2016-17 12769.45
+2017-18 14981.69
+2018-19 16419.63
+2019-20 18205.02
+2020-21 24777.71
+2021-22 21031.73
+2022-23 21610.72
+2023-24 23912.22
+2024-25 30328.81
+2025-26 35589.39
+2026-27(Aug) 5826.29
+Source: Statistics Department, Bangladesh Bank
+Workers' Remittance Inflows from FY 1975-76 to FY 2026-27
+13I Page
+Annexure-II
+Month wise Workers' Remittance Inflows FY 2014-15 to FY 2026-27
+In million USD
+Fiscal Year July August September October November December
+2014-2015 1139.24 1228.59 1438.31 1048.31 1932.50 1047.75
+2015-2016 1296.23 1149.59 1284.70 1139.54 1172.09 1313.13
+2016-2017 1005.51 1183.61 1056.64 1010.99 951.37 958.73
+2017-2018 1115.57 1418.58 856.87 1162.77 1214.74 1163.82
+2018-2019 1318.18 1411.05 1139.66 1239.11 1180.44 1206.91
+2019-2020 1597.69 1444.75 1476.91 1641.67 1555.23 1691.68
+2020-2021 2598.21 1963.94 2151.05 2102.16 2078.74 2050.65
+2021-2022 1871.49 1810.10 1726.71 1646.87 1553.73 1630.66
+2022-2023 2096.32 2036.93 1539.60 1525.54 1595.17 1699.70
+2023-2024 1973.15 1599.45 1334.35 1971.43 1930.04 1991.26
+2024-2025 1913.77 2224.15 2404.11 2395.08 2199.99 2638.78
+2025-2026 2477.87 2421.89 2685.56 2562.44 2889.73 3223.67
+2026-2027 2858.76 2967.53
+Source : Statistics Department, Bangladesh Bank
+Upto June, 2016 Foreign Exchange Policy Department, Bangladesh Bank
+14I Page
+Annexure-II
+In million USD
+January February March April May June Total Fiscal Year
+1188.54 1245.53 1385.41 1251.49 1305.91 1341.58 15553.16 2014-2015
+1167.59 1137.39 1288.15 1191.51 1201.32 1465.59 14806.81 2015-2016
+1009.47 940.75 1077.52 1092.64 1267.61 1214.61 12769.46 2016-2017
+1379.79 1149.08 1299.77 1331.33 1504.98 1384.37 14981.69 2017-2018
+1597.21 1317.73 1458.68 1434.30 1748.16 1368.20 16419.63 2018-2019
+1638.43 1452.20 1276.29 1092.96 1504.60 1832.63 18205.02 2019-2020
+1961.91 1780.59 1910.98 2067.64 2171.03 1940.81 24777.71 2020-2021
+1704.53 1494.47 1859.73 2010.81 1885.34 1837.27 21031.73 2021-2022
+1958.87 1560.48 2022.47 1684.91 1691.66 2199.08 21610.72 2022-2023
+2113.15 2164.56 1997.07 2044.23 2254.93 2538.60 23912.22 2023-2024
+2185.23 2527.65 3295.63 2752.33 2969.56 2822.53 30328.81 2024-2025
+3171.63 3019.45 3752.21 3123.32 3442.58 2819.03 35589.39 2025-2026
+5826.29 2026-2027
+15I Page
+Annex-III
+Country wise Workers' Remittance Inflows FY 2016-17 to FY 2026-27
+In million USD
+Fiscal Year Fiscal Month
+UNITED ARAB
+EMIRATES
+(UAE)
+UNITED
+STATES OF
+AMERICA (USA)
+UNITED
+KINGDOM (UK)
+SAUDI ARABIA
+MALAYSIA
+KUWAIT
+ITALY
+QATAR
+OMAN
+2016-17 2093.5 1688.8 808.2 2267.2 1103.6 1033.3 510.8 576.0 897.7
+2017-18 2430.0 1998.0 1106.0 2591.6 1107.2 1199.7 662.2 844.1 958.2
+2018-19 2540.4 1842.9 1175.6 3110.4 1197.6 1463.4 757.9 1023.9 1066.1
+2019-20 2472.6 2403.4 1364.9 4015.2 1231.3 1372.2 699.1 1019.6 1240.5
+2020-21 2440.0 3461.7 2023.6 5721.4 2002.4 1886.5 810.9 1450.2 1535.6
+July 284.3 343.5 184.0 632.6 235.6 173.1 67.1 127.7 198.2
+August 235.6 219.7 147.1 450.6 196.3 136.7 80.9 102.0 134.6
+September 231.5 251.9 185.1 530.9 175.4 156.5 78.8 116.8 153.3
+October 215.4 275.4 171.9 499.7 187.3 155.2 63.9 102.8 155.9
+November 211.2 273.5 178.8 471.0 188.5 154.5 60.3 112.5 128.1
+December 195.1 282.3 153.1 482.4 163.6 163.3 79.6 112.4 99.5
+January 183.6 284.9 153.7 464.1 139.3 164.2 61.9 113.2 106.5
+February 152.3 259.2 161.2 399.8 143.7 148.2 52.5 110.7 88.6
+March 170.1 298.6 181.3 426.2 131.3 159.4 56.5 118.4 106.3
+April 182.0 344.2 183.6 438.0 162.8 162.3 61.4 139.0 112.0
+May 198.8 334.5 179.8 476.1 173.1 158.7 71.3 145.0 134.2
+June 180.0 293.8 144.1 450.0 105.4 154.3 76.7 149.7 118.5
+2021-22 2071.8 3438.4 2039.2 4542.0 1021.9 1689.6 1054.2 1346.5 897.4
+July 159.2 282.4 159.4 462.4 110.8 148.8 77.2 120.5 110.0
+August 155.4 277.5 145.8 432.3 96.2 152.6 90.9 126.1 99.8
+September 131.8 298.2 146.8 409.5 83.8 140.6 90.0 109.8 81.7
+October 122.5 293.9 143.3 395.7 82.0 131.2 84.0 106.9 65.0
+November 125.9 271.7 138.6 365.2 72.1 126.9 73.7 105.7 62.5
+December 120.5 268.4 146.4 370.0 76.5 140.0 90.6 115.9 61.5
+January 138.9 279.5 193.7 358.2 79.3 131.3 90.1 111.8 69.1
+February 128.2 235.8 165.1 315.5 75.1 120.6 67.4 97.9 58.0
+March 184.1 308.3 214.3 377.5 81.4 144.5 85.9 119.6 74.3
+April 236.2 355.2 239.0 376.1 92.6 148.3 98.4 113.0 74.4
+May 338.6 273.2 166.5 330.0 91.4 147.0 101.1 105.1 84.7
+June 230.5 294.3 180.3 349.6 80.6 157.8 105.0 114.3 56.4
+2022-23 3037.7 3522.0 2080.4 3765.3 1125.9 1555.3 1185.9 1452.7 790.6
+July 304.9 363.3 197.8 349.6 139.3 141.9 129.7 106.9 78.2
+August 305.2 358.7 182.0 341.7 107.1 143.5 126.9 131.4 51.2
+September 178.4 277.7 128.8 307.7 78.4 117.9 86.6 113.8 40.6
+October 170.7 233.7 110.5 308.5 70.6 132.4 87.2 141.9 49.7
+November 184.9 304.9 141.2 295.2 69.4 126.3 85.5 121.2 49.8
+December 193.6 428.3 150.9 306.4 78.7 100.8 95.1 84.1 43.5
+January 350.1 298.7 199.4 308.7 97.4 143.1 95.1 120.9 64.4
+February 212.2 231.9 137.7 261.7 91.5 113.4 84.4 128.5 61.1
+March 308.2 304.0 216.8 283.4 98.8 167.8 103.7 148.7 106.5
+April 204.1 246.2 175.3 276.3 92.6 135.1 98.7 117.7 83.7
+May 235.7 225.2 165.7 320.1 85.9 118.5 95.9 116.1 72.2
+June 389.6 249.4 274.4 406.0 116.3 114.5 97.3 121.5 89.7
+2023-24 4635.3 2961.6 2793.2 2741.5 1744.4 1496.7 1461.6 1150.0 1123.5
+July 330.0 200.0 221.3 307.5 116.7 114.8 113.6 113.6 120.8
+August 239.5 170.3 219.6 291.4 83.4 116.2 111.3 68.3 64.8
+September 258.7 141.2 147.9 216.1 66.6 93.2 93.0 72.6 42.4
+October 337.8 184.0 234.6 250.7 149.0 152.0 178.3 101.1 74.3
+November 383.7 219.4 266.1 194.4 175.5 116.5 148.6 87.7 66.4
+December 450.8 210.1 280.4 165.5 177.3 122.4 117.9 83.9 77.7
+January 451.1 209.2 242.4 179.1 184.5 135.1 137.7 111.4 89.0
+February 482.8 340.9 268.6 182.6 142.1 125.2 100.0 112.1 67.7
+March 370.3 268.3 263.2 179.8 133.1 126.3 108.5 87.7 94.9
+April 384.6 331.9 201.1 195.8 132.9 141.1 104.9 104.3 139.9
+May 414.3 320.1 243.5 258.2 167.9 120.6 108.9 102.1 136.3
+June 531.6 366.3 204.6 320.3 215.5 133.2 138.9 105.4 149.3
+2024-25 4167.9 4732.9 3168.5 4264.3 2804.7 1623.6 1652.5 1205.3 1634.7
+July 332.7 239.0 187.1 244.7 130.6 116.4 128.3 89.1 108.2
+August 337.8 293.5 172.8 268.7 251.9 129.6 151.6 87.4 107.1
+September 361.7 387.9 205.6 345.4 237.1 113.1 145.7 88.6 112.1
+October 333.7 498.0 197.9 317.3 195.6 127.9 136.4 87.9 122.7
+November 290.5 512.0 187.4 257.0 192.0 121.3 106.8 79.5 94.8
+December 370.9 565.0 248.5 290.0 258.0 131.6 111.1 101.8 150.6
+January 249.56 407.52 273.40 270.16 154.55 135.93 131.00 96.44 126.92
+February 334.9 491.3 305.5 328.8 183.9 141.1 111.1 100.0 123.7
+March 508.4 546.1 387.2 448.4 290.9 184.7 156.2 117.2 186.5
+April 372.2 330.9 294.1 491.4 210.9 162.7 150.6 104.3 148.3
+May 351.1 223.7 346.9 533.3 340.4 140.2 158.9 136.5 181.4
+June 324.6 238.1 362.1 469.1 358.8 119.1 164.7 116.6 172.2
+2025-26 4583.9 3013.2 5072.0 5848.9 3403.7 1763.7 2051.5 1558.5 2048.2
+July 283.8 222.2 282.6 426.4 266.9 132.1 169.0 105.6 139.8
+August 266.0 231.6 279.5 397.6 276.4 108.4 166.9 92.0 146.5
+September 334.6 172.7 366.5 409.9 273.9 126.8 177.4 124.6 148.4
+October 297.3 192.3 362.7 385.8 280.0 125.9 161.7 126.8 162.0
+November 401.3 207.5 378.4 430.8 331.2 149.2 156.8 146.3 172.7
+December 476.0 258.6 404.2 489.4 322.8 164.3 194.7 145.0 180.0
+January 388.0 275.0 469.3 474.6 280.3 168.8 188.4 138.0 182.1
+February 374.5 276.4 443.4 490.3 317.6 148.1 160.3 125.8 178.0
+March 586.4 365.5 526.7 704.7 353.4 178.7 157.7 151.6 221.9
+April 402.2 319.9 521.6 523.7 217.5 139.3 175.9 136.1 157.5
+May 468.2 268.0 651.0 546.6 300.2 167.4 167.2 127.1 210.7
+June 305.7 223.6 386.2 569.2 183.6 154.7 175.6 139.7 148.5
+2026-27 249.5 267.0 458.1 558.6 228.7 143.7 212.5 113.1 134.0
+July 255.6 273.2 396.7 587.3 201.3 148.7 203.1 121.6 142.0
+August 249.5 267.0 458.1 558.6 228.7 143.7 212.5 113.1 134.0
+Source: Statistics Department, Bangladesh Bank
+Note: --- = Not available
+2026-27
+2025-26
+2023-24
+2024-25
+2020-21
+2021-22
+2022-23
+16I Page
+Fiscal Year Fiscal Month
+2016-17
+2017-18
+2018-19
+2019-20
+2020-21
+July
+August
+September
+October
+November
+December
+January
+February
+March
+April
+May
+June
+2021-22
+July
+August
+September
+October
+November
+December
+January
+February
+March
+April
+May
+June
+2022-23
+July
+August
+September
+October
+November
+December
+January
+February
+March
+April
+May
+June
+2023-24
+July
+August
+September
+October
+November
+December
+January
+February
+March
+April
+May
+June
+2024-25
+July
+August
+September
+October
+November
+December
+January
+February
+March
+April
+May
+June
+2025-26
+July
+August
+September
+October
+November
+December
+January
+February
+March
+April
+May
+June
+2026-27
+July
+August
+Source: Statistics Department, Bangladesh Bank
+Note: --- = Not available
+2026-27
+2025-26
+2023-24
+2024-25
+2020-21
+2021-22
+2022-23
+Annex-III
+Country wise Workers' Remittance Inflows FY 2016-17 to FY 2026-27
+In million USD
+BAHRAIN
+SINGAPORE
+FRANCE
+SOUTH AFRICA
+MAURITIUS
+GREECE
+CANADA
+JORDAN
+GERMANY
+SPAIN
+437.1 301.0 104.8 85.1 42.2 22.5 49.5 91.0 31.7 75.8
+541.6 330.1 134.4 153.2 46.7 39.4 57.6 111.2 40.2 39.9
+470.1 368.3 159.4 168.1 54.4 42.9 62.9 126.8 60.6 49.2
+437.2 457.4 160.5 168.1 50.1 52.3 77.2 126.8 52.7 44.3
+577.7 624.8 201.1 420.4 88.1 89.9 133.5 170.9 66.9 53.5
+60.7 82.8 20.5 34.6 7.9 7.2 13.1 17.2 5.7 4.9
+46.2 60.2 16.8 20.5 6.9 5.7 9.0 13.4 4.6 4.8
+53.0 46.1 16.2 30.3 6.8 5.6 10.8 13.2 4.9 3.6
+45.0 46.7 16.9 36.0 6.1 6.7 11.7 11.7 4.7 3.8
+47.9 57.6 16.7 35.0 7.4 7.8 11.3 12.5 5.7 4.9
+50.7 51.2 19.2 40.6 9.1 10.1 11.4 14.1 6.5 4.8
+47.1 50.7 15.5 39.0 9.8 8.4 10.2 14.0 6.2 3.4
+40.5 43.5 15.1 37.9 7.1 6.5 10.6 13.2 5.6 3.5
+44.7 42.7 15.7 33.0 5.5 7.3 10.2 14.9 5.3 4.2
+45.3 46.4 17.1 39.2 4.5 6.9 11.5 13.6 5.9 4.8
+50.0 53.5 15.7 40.1 8.9 9.4 12.8 16.2 6.1 5.3
+46.6 43.6 15.7 34.1 8.2 8.4 11.0 16.9 5.7 5.5
+566.6 385.2 256.0 314.7 90.8 95.6 127.3 143.2 83.5 64.7
+46.3 37.9 17.7 30.3 7.4 6.9 9.8 13.3 5.4 5.0
+45.7 37.7 18.4 20.5 7.9 8.0 9.3 12.4 6.9 5.3
+43.5 36.1 19.1 25.7 7.1 7.5 9.2 13.0 6.7 5.3
+40.6 32.1 18.2 23.6 7.9 7.0 9.5 11.5 5.3 4.6
+44.0 26.6 17.5 22.3 6.0 7.5 9.3 11.4 5.3 4.6
+46.7 30.5 21.4 21.4 10.4 8.3 10.4 11.1 6.3 5.6
+47.4 33.0 23.2 30.5 10.1 8.6 9.4 11.0 7.4 5.9
+48.9 28.7 19.6 28.9 7.0 7.3 9.4 11.0 6.5 4.8
+57.5 29.8 23.7 34.9 6.7 6.9 11.9 11.5 8.1 5.3
+49.3 34.6 23.4 29.7 7.5 8.9 15.0 14.2 8.8 5.6
+52.0 29.4 24.3 17.3 5.4 8.5 9.8 11.0 7.3 5.5
+44.9 28.9 29.5 29.5 7.5 10.0 14.3 11.9 9.5 7.1
+528.3 423.3 291.9 235.3 109.6 130.5 138.5 127.9 112.3 84.9
+44.5 31.9 29.9 22.8 6.0 10.9 12.3 13.0 9.3 7.6
+41.5 33.3 26.9 29.1 13.5 11.7 12.6 12.7 8.1 7.6
+33.7 24.9 19.0 21.0 10.4 8.2 8.6 10.9 6.2 5.8
+50.5 26.2 19.2 19.1 5.0 9.8 9.2 12.6 6.4 5.2
+31.8 29.8 20.5 21.9 5.5 11.8 7.7 9.4 7.0 5.5
+18.3 29.8 18.8 27.2 10.3 12.1 8.9 7.9 8.7 5.5
+40.1 39.2 27.2 25.4 6.8 13.9 13.7 9.4 11.2 8.0
+58.6 37.0 20.6 10.7 5.9 9.0 10.3 10.9 8.6 5.2
+57.1 41.0 29.0 20.2 7.4 12.1 10.8 8.9 11.7 7.9
+48.8 38.8 26.2 16.4 5.4 9.7 12.9 10.4 8.6 8.6
+51.6 36.6 23.2 8.5 10.1 10.6 10.8 10.0 8.2 7.2
+51.7 54.8 31.4 12.8 23.2 10.8 20.8 11.7 18.5 10.6
+639.2 632.3 358.5 308.2 164.3 145.1 142.4 133.3 124.8 116.9
+48.6 42.7 34.1 36.7 39.6 10.2 12.2 10.8 9.6 9.7
+23.1 26.9 24.8 11.2 44.7 12.5 6.9 10.4 4.9 7.4
+25.8 24.6 20.7 19.3 7.4 9.2 6.8 10.0 7.4 4.9
+51.7 42.1 34.5 22.8 7.0 14.6 10.7 11.8 16.5 10.3
+47.6 44.7 20.6 22.3 7.0 10.7 9.4 9.7 8.5 10.2
+50.9 60.4 29.2 31.8 9.3 13.0 9.8 8.6 6.7 7.4
+65.0 71.6 32.8 39.9 9.2 17.2 9.9 13.5 11.9 12.6
+51.8 73.0 37.0 16.9 6.9 11.2 14.3 11.4 12.9 14.9
+78.3 47.4 35.0 19.4 11.0 11.8 16.3 9.9 13.6 10.6
+55.4 50.9 31.0 19.0 6.7 9.6 14.0 11.0 10.1 7.9
+75.2 72.8 30.0 36.9 6.5 13.8 13.7 11.3 10.4 11.2
+66.0 75.0 28.9 31.9 9.0 11.2 18.3 15.1 12.2 9.8
+761.1 980.3 335.6 402.9 143.7 185.2 224.0 168.2 180.6 144.0
+71.0 52.0 29.8 18.5 6.9 13.5 14.7 11.5 12.0 9.8
+66.3 66.7 35.5 25.7 21.9 15.8 25.1 8.7 14.9 11.2
+60.2 83.6 21.2 22.5 10.1 15.5 20.6 17.2 11.0 12.5
+72.3 63.4 21.8 25.9 10.4 18.9 15.9 14.2 13.4 12.8
+51.9 70.7 20.2 21.7 9.8 17.0 14.9 13.9 13.8 11.6
+57.6 81.4 23.9 33.2 15.0 19.5 18.0 13.4 17.0 14.6
+43.78 64.85 26.11 27.62 10.34 11.98 13.21 11.06 15.07 8.86
+56.2 78.6 24.4 30.5 11.6 12.1 18.9 14.2 22.3 10.6
+53.3 95.2 37.3 33.8 9.2 14.6 24.7 14.0 19.2 14.1
+64.5 118.6 31.8 28.9 11.4 14.7 23.7 14.7 16.9 12.5
+85.1 109.2 31.4 75.8 14.2 14.7 20.2 18.6 14.0 13.3
+78.8 95.9 32.2 58.8 12.8 16.8 14.1 16.8 11.0 12.2
+773.6 1493.9 471.7 628.7 82.4 203.8 213.5 246.4 152.3 155.0
+63.0 88.1 32.9 42.6 9.4 16.6 16.0 16.1 12.0 14.5
+55.1 110.6 31.6 48.3 9.0 16.7 15.1 16.4 11.0 13.0
+83.2 129.2 40.0 63.5 6.7 24.4 11.3 18.7 11.8 13.2
+64.4 104.6 32.3 43.2 6.4 17.8 13.2 19.4 12.6 11.7
+84.3 117.2 35.9 46.1 5.9 21.2 15.7 18.3 13.8 13.1
+80.0 115.0 46.6 75.4 7.2 19.3 20.4 16.4 15.5 13.5
+69.8 141.6 50.4 76.4 8.4 17.1 17.5 17.5 14.0 14.3
+50.2 145.8 41.9 46.1 6.2 11.0 18.2 16.0 10.3 13.1
+50.9 130.8 39.4 43.7 7.7 11.5 25.5 22.9 12.0 11.5
+55.1 143.8 41.1 42.9 5.4 17.0 19.7 25.9 14.5 12.0
+61.3 141.8 40.8 42.5 4.5 15.8 22.2 20.6 13.1 13.3
+56.2 125.4 39.0 58.2 5.7 15.5 18.5 38.3 11.7 11.8
+64.4 150.2 44.4 47.0 6.1 18.4 17.7 29.8 13.0 14.7
+43.9 137.0 40.6 36.5 5.2 17.5 17.1 35.3 11.8 12.3
+64.4 150.2 44.4 47.0 6.1 18.4 17.7 29.8 13.0 14.7
+17I Page
+Fiscal Year Fiscal Month
+2016-17
+2017-18
+2018-19
+2019-20
+2020-21
+July
+August
+September
+October
+November
+December
+January
+February
+March
+April
+May
+June
+2021-22
+July
+August
+September
+October
+November
+December
+January
+February
+March
+April
+May
+June
+2022-23
+July
+August
+September
+October
+November
+December
+January
+February
+March
+April
+May
+June
+2023-24
+July
+August
+September
+October
+November
+December
+January
+February
+March
+April
+May
+June
+2024-25
+July
+August
+September
+October
+November
+December
+January
+February
+March
+April
+May
+June
+2025-26
+July
+August
+September
+October
+November
+December
+January
+February
+March
+April
+May
+June
+2026-27
+July
+August
+Source: Statistics Department, Bangladesh Bank
+Note: --- = Not available
+2026-27
+2025-26
+2023-24
+2024-25
+2020-21
+2021-22
+2022-23
+Annex-III
+Country wise Workers' Remittance Inflows FY 2016-17 to FY 2026-27
+In million USD
+AUSTRALIA
+KOREA,
+REPUBLIC OF
+JAPAN
+BRUNEI
+DARUSSALAM
+PORTUGAL
+MALDIVES
+SWEDEN
+IRAQ
+CYPRUS
+BULGARIA
+IRELAND
+52.0 80.7 22.9 18.3 2.8 40.3 9.3 68.9 7.4 0.2 2.5
+56.5 96.3 31.4 22.5 6.9 25.5 11.9 52.2 10.4 0.2 7.6
+57.1 112.5 49.5 30.9 11.5 22.0 19.7 38.6 12.7 0.2 9.3
+61.3 177.8 49.3 38.8 16.1 44.7 21.3 33.3 13.8 0.3 11.8
+141.7 209.2 79.5 48.2 15.5 46.0 32.1 37.3 22.7 0.2 15.5
+12.3 21.2 8.8 5.1 1.6 6.8 3.0 4.5 2.0 0.0 1.6
+10.1 14.8 5.9 3.9 1.1 3.5 2.4 4.0 1.6 0.0 1.0
+12.0 19.7 6.7 3.7 1.3 3.1 1.8 2.9 2.0 0.0 1.2
+9.7 26.3 6.7 3.7 1.1 4.6 2.3 3.0 1.9 0.0 1.0
+11.8 25.8 7.3 4.2 1.2 3.8 2.4 3.3 2.0 0.0 1.3
+13.3 22.4 8.6 4.3 1.7 2.6 3.1 3.4 2.2 0.0 1.5
+12.6 13.5 7.2 3.9 1.4 2.9 2.9 2.6 1.7 0.0 1.4
+11.2 13.6 5.2 3.6 1.1 4.4 2.6 2.3 1.7 0.0 1.2
+11.9 13.1 5.5 4.0 1.0 4.3 2.6 2.8 1.8 0.0 1.3
+13.7 15.3 6.1 3.7 1.3 5.1 3.4 3.3 1.7 0.0 1.4
+12.7 11.6 6.0 4.3 1.3 3.3 2.9 3.1 2.1 0.0 1.5
+10.6 11.9 5.5 3.7 1.4 1.8 2.8 2.2 2.0 0.0 1.1
+128.6 135.5 69.3 45.5 17.2 21.6 26.2 21.9 23.5 0.3 14.8
+9.9 7.2 6.0 3.3 1.2 1.5 1.9 2.4 2.1 0.0 0.9
+7.8 9.3 6.2 3.7 1.2 2.5 2.3 2.2 2.1 0.0 1.0
+10.0 9.0 5.9 3.5 1.5 1.5 2.2 2.2 2.0 0.0 1.0
+11.3 9.4 5.1 3.9 1.5 1.1 2.3 1.7 1.7 0.0 1.0
+9.0 9.0 4.8 2.9 1.1 1.3 2.1 1.7 2.0 0.0 0.9
+10.0 12.0 6.4 3.9 1.8 1.6 2.0 1.6 1.9 0.0 1.2
+10.9 11.8 5.8 3.9 1.6 1.3 1.4 1.7 1.7 0.0 1.5
+9.0 11.5 5.2 3.5 1.2 1.9 1.2 1.5 1.7 0.0 1.3
+13.6 13.0 6.0 4.1 1.1 1.4 1.9 1.8 1.8 0.1 1.4
+16.7 12.2 4.9 4.7 1.2 1.9 3.2 1.9 2.2 0.0 1.6
+9.2 19.4 7.4 4.2 1.3 3.4 2.0 1.7 2.1 0.0 1.2
+11.1 11.8 5.7 4.0 2.6 2.3 3.7 1.5 2.2 0.0 1.9
+130.4 118.7 113.0 49.2 38.1 29.0 30.2 36.7 27.3 0.3 23.7
+13.1 21.0 12.3 3.9 2.9 3.1 3.9 2.0 2.3 0.0 1.8
+14.7 15.0 13.2 4.7 4.3 1.5 2.7 1.5 2.3 0.0 1.8
+9.7 8.0 5.5 3.7 2.5 2.0 1.9 1.4 2.0 0.0 1.3
+8.1 8.8 4.7 3.4 1.7 1.1 1.9 1.2 1.8 0.0 1.2
+9.4 10.7 7.8 3.7 2.0 1.3 2.1 1.3 2.0 0.0 1.4
+9.2 13.3 10.4 3.3 2.0 1.0 1.9 1.3 2.1 0.0 1.5
+12.2 14.4 16.8 4.6 2.7 1.0 2.2 1.7 2.2 0.1 1.7
+11.8 6.2 5.9 4.2 2.5 1.5 1.5 2.4 2.3 0.0 1.3
+13.2 4.0 7.1 5.1 3.5 1.1 3.0 4.7 2.7 0.0 1.8
+10.9 5.8 8.7 4.0 4.1 1.0 1.9 4.5 2.7 0.0 2.1
+7.5 5.1 12.3 3.7 3.5 7.6 2.6 7.6 2.6 0.0 1.8
+10.7 6.4 8.4 4.8 6.4 6.8 4.6 7.1 2.3 0.0 6.1
+116.4 116.3 76.6 74.2 72.1 56.9 54.4 33.5 28.4 26.6 25.1
+8.2 7.3 5.1 4.4 8.3 4.6 2.7 4.4 2.4 0.0 2.0
+6.0 4.4 3.8 3.8 4.6 2.9 1.6 2.7 2.6 0.6 1.2
+5.8 7.7 5.9 3.2 3.7 2.6 2.2 2.7 2.6 0.0 3.5
+10.9 7.7 8.6 5.1 6.2 2.1 4.1 3.3 3.0 0.0 3.0
+8.4 8.1 4.7 4.1 6.1 2.4 2.5 3.2 1.5 0.0 2.7
+10.0 6.5 12.6 5.9 6.4 1.2 1.9 2.3 1.8 0.0 1.4
+10.4 11.6 6.7 7.9 5.7 1.4 5.6 2.1 2.5 0.0 2.0
+10.8 13.4 7.8 9.2 6.0 2.5 7.0 2.6 2.1 0.1 1.6
+11.0 13.7 6.2 7.9 6.0 5.1 9.1 1.8 2.6 16.5 1.7
+10.5 14.7 3.6 7.6 6.1 6.9 4.6 1.5 2.2 9.1 1.9
+13.0 14.8 4.9 7.1 6.2 12.0 5.2 2.5 2.6 0.1 2.2
+11.3 6.4 6.7 7.9 6.8 13.3 8.0 4.4 2.4 0.1 1.8
+177.1 227.0 105.9 87.4 101.4 141.1 55.2 62.9 31.1 1.2 25.6
+11.7 16.2 7.1 6.4 7.9 10.7 3.1 2.3 2.5 0.1 2.5
+15.1 13.2 19.5 9.0 6.6 10.2 8.3 2.5 2.5 0.1 2.6
+17.8 11.7 12.1 10.0 8.5 15.6 4.7 5.1 3.3 0.1 1.7
+12.4 9.7 7.9 5.7 6.4 10.2 4.2 5.4 2.2 0.1 1.5
+12.2 16.2 8.1 5.5 6.1 8.9 3.8 5.4 1.9 0.1 1.5
+11.8 17.7 7.5 6.9 6.6 12.6 2.8 6.0 2.8 0.1 2.0
+12.72 15.64 5.77 5.71 9.48 8.83 3.79 3.93 2.22 0.08 2.24
+11.9 22.2 8.1 6.7 13.7 12.1 3.3 6.0 1.7 0.1 1.6
+20.2 19.7 7.4 7.9 12.1 13.3 6.8 6.6 2.5 0.1 2.5
+16.3 24.4 8.5 8.6 7.4 12.5 5.5 7.3 2.7 0.1 2.7
+18.7 33.2 7.0 8.2 8.5 12.6 5.2 6.6 3.0 0.1 2.6
+16.1 27.1 7.0 7.0 8.2 13.3 3.8 5.8 3.7 0.1 2.3
+258.2 272.7 94.7 77.4 146.2 117.9 51.1 58.4 46.7 1.4 39.1
+15.6 21.1 7.3 7.0 9.3 7.8 5.3 5.3 3.5 0.1 2.3
+13.2 22.4 9.9 6.8 9.2 3.8 4.4 4.1 3.4 0.1 2.1
+18.1 25.3 8.7 6.0 12.0 5.2 5.2 5.5 4.3 0.1 2.8
+14.4 23.9 7.2 6.7 8.4 8.7 3.9 6.4 4.5 0.1 2.1
+16.7 23.0 7.4 7.6 9.8 9.4 4.2 5.8 3.9 0.1 2.6
+27.5 28.4 9.6 7.0 14.1 9.8 6.6 4.0 4.3 0.2 3.4
+26.7 25.6 9.8 6.3 14.7 13.7 5.0 4.4 3.6 0.2 5.0
+25.4 25.2 7.7 5.9 11.2 12.1 3.0 3.7 2.9 0.1 3.5
+25.8 19.7 7.6 6.4 12.6 12.3 3.1 5.1 3.5 0.1 3.5
+22.3 21.5 6.4 5.8 13.7 8.4 3.7 5.5 3.7 0.2 3.8
+29.5 21.0 7.4 5.7 16.2 11.7 3.3 3.9 4.2 0.1 4.3
+23.0 15.5 6.0 6.1 15.0 15.1 3.2 4.7 4.8 0.2 3.7
+22.1 40.3 12.6 4.8 19.4 7.6 4.9 3.8 6.4 0.2 4.2
+21.3 27.2 7.1 5.1 18.1 9.9 5.6 4.5 4.9 0.2 3.6
+22.1 40.3 12.6 4.8 19.4 7.6 4.9 3.8 6.4 0.2 4.2
+18I Page
+Fiscal Year Fiscal Month
+2016-17
+2017-18
+2018-19
+2019-20
+2020-21
+July
+August
+September
+October
+November
+December
+January
+February
+March
+April
+May
+June
+2021-22
+July
+August
+September
+October
+November
+December
+January
+February
+March
+April
+May
+June
+2022-23
+July
+August
+September
+October
+November
+December
+January
+February
+March
+April
+May
+June
+2023-24
+July
+August
+September
+October
+November
+December
+January
+February
+March
+April
+May
+June
+2024-25
+July
+August
+September
+October
+November
+December
+January
+February
+March
+April
+May
+June
+2025-26
+July
+August
+September
+October
+November
+December
+January
+February
+March
+April
+May
+June
+2026-27
+July
+August
+Source: Statistics Department, Bangladesh Bank
+Note: --- = Not available
+2026-27
+2025-26
+2023-24
+2024-25
+2020-21
+2021-22
+2022-23
+Annex-III
+Country wise Workers' Remittance Inflows FY 2016-17 to FY 2026-27
+In million USD
+SWITZERLAND
+DENMARK
+LEBANON
+BELGIUM
+INDIA
+AUSTRIA
+NETHERLANDS
+FINLAND
+NEW ZEALAND
+HONG KONG:
+SAR OF CHINA
+Other Countries
+Total
+6.9 5.0 103.9 4.8 3.8 1.9 4.7 1.6 4.5 19.0 88.1 12769.5
+7.1 8.2 115.7 6.3 5.0 2.8 5.5 3.0 4.1 21.2 90.0 14981.7
+8.8 11.4 126.3 17.5 5.9 4.3 6.2 5.3 5.2 20.1 103.6 16419.6
+11.9 12.1 87.0 17.8 8.0 4.6 6.0 6.0 6.0 17.3 114.3 18205.0
+14.5 21.1 66.8 21.9 8.1 14.3 16.5 7.6 8.5 21.4 169.8 24777.7
+1.7 1.6 7.6 1.5 0.5 0.9 0.8 0.9 0.7 1.8 12.7 2598.2
+1.0 1.1 6.3 1.1 0.5 0.9 0.5 0.5 0.5 1.5 10.0 1963.9
+1.0 1.2 5.3 1.3 0.4 0.7 0.6 0.5 0.6 1.6 12.6 2151.1
+1.2 1.4 5.2 1.1 0.4 0.6 0.8 0.5 0.6 1.2 12.2 2102.2
+1.3 1.5 6.0 1.1 0.9 0.8 0.8 0.7 0.7 1.5 15.3 2078.7
+1.7 2.3 6.3 1.9 0.8 1.2 1.3 0.7 0.9 2.0 19.5 2050.7
+1.1 2.1 5.0 2.2 0.7 1.5 1.7 0.6 0.8 1.5 18.8 1961.9
+1.0 1.9 4.4 2.2 1.0 1.5 2.0 0.6 0.7 1.6 16.9 1780.6
+1.2 2.1 5.0 2.2 0.7 1.4 2.7 0.5 0.7 1.8 13.0 1911.0
+1.0 2.0 5.3 2.5 0.5 2.0 3.0 0.7 0.7 2.2 12.1 2067.6
+1.1 2.0 6.0 2.6 0.7 1.5 1.5 0.7 0.7 2.7 13.4 2171.0
+1.0 1.9 4.3 2.1 0.9 1.5 0.8 0.6 0.7 2.0 13.4 1940.8
+13.1 19.0 49.7 17.3 11.2 13.6 13.1 9.8 8.2 20.6 123.4 21031.7
+0.9 1.6 4.5 1.9 0.6 1.1 0.6 0.4 0.6 1.8 10.4 1871.5
+0.9 1.6 4.5 1.6 0.7 1.0 0.6 0.5 0.6 1.8 9.3 1810.1
+1.0 1.6 4.5 1.4 0.7 1.2 0.8 0.6 0.6 1.5 8.6 1726.7
+1.1 1.4 3.7 1.2 0.7 0.9 0.8 0.5 0.7 1.7 10.4 1646.9
+1.0 1.6 3.8 1.3 0.6 1.1 0.6 0.8 0.6 1.3 9.3 1553.7
+1.3 1.5 3.8 1.5 1.5 1.0 0.7 1.0 0.6 1.7 11.9 1630.7
+1.0 1.3 3.7 1.3 1.0 1.0 1.4 0.8 0.5 1.8 11.0 1704.5
+0.8 1.2 3.9 1.2 1.2 0.9 1.3 0.7 0.5 1.2 8.3 1494.5
+1.4 1.7 4.3 1.6 1.2 1.2 1.6 1.0 0.8 1.7 10.7 1859.7
+1.4 2.4 4.7 1.8 1.2 1.7 1.6 1.2 0.9 1.8 11.4 2010.8
+0.9 1.6 4.0 1.2 0.8 1.1 1.0 0.9 0.7 2.6 10.4 1885.3
+1.4 1.6 4.3 1.2 1.0 1.3 2.1 1.2 1.1 1.8 11.6 1837.3
+19.2 16.8 46.0 16.9 11.8 15.9 15.3 11.1 11.8 18.9 132.2 21610.7
+1.4 2.0 5.0 1.4 1.1 1.9 1.8 1.4 1.5 1.7 11.0 2096.3
+1.6 1.5 4.7 1.3 1.0 1.5 1.3 1.4 1.4 1.5 13.3 2036.9
+1.2 1.1 4.1 1.0 0.7 1.1 0.9 0.9 0.8 1.2 10.1 1539.6
+1.1 1.4 3.6 1.0 0.9 1.1 1.7 1.0 0.7 1.4 9.7 1525.5
+1.3 1.2 3.5 1.0 0.9 0.8 1.5 1.1 0.8 1.7 10.4 1595.2
+2.2 1.2 3.4 1.1 0.9 1.0 1.0 0.8 0.9 1.5 10.7 1699.7
+1.7 1.1 4.0 1.4 1.0 1.6 1.1 0.7 1.0 1.9 10.9 1958.9
+1.7 0.7 4.2 1.0 1.1 0.6 0.7 0.5 0.7 1.5 9.3 1560.5
+2.1 2.3 3.0 1.9 1.4 2.3 0.9 1.4 1.0 2.2 13.9 2022.5
+1.5 0.9 3.2 1.4 0.9 1.5 0.9 0.6 1.1 1.5 10.4 1684.9
+1.6 1.5 3.5 1.8 0.9 0.8 1.1 0.5 0.9 1.6 11.1 1691.7
+1.9 1.7 4.0 2.7 1.1 1.8 2.6 0.9 1.1 1.2 11.4 2199.1
+25.0 24.7 23.4 20.9 19.2 18.8 18.3 15.3 14.3 14.1 165.2 23912.2
+2.2 1.9 3.3 2.3 0.9 1.4 1.8 1.0 1.1 1.5 13.7 1973.1
+1.6 1.5 2.0 2.0 0.6 1.1 0.6 0.5 0.8 1.2 16.1 1599.4
+1.5 1.7 1.5 0.9 1.2 1.8 0.7 0.9 1.4 0.9 13.8 1334.4
+3.0 3.0 1.7 1.8 1.6 2.2 2.0 1.3 1.0 1.0 14.6 1971.4
+2.7 2.6 1.7 2.1 1.3 2.9 1.0 2.4 0.9 1.5 18.4 1930.0
+2.6 2.1 1.7 1.9 1.2 2.0 1.0 1.8 0.8 1.2 11.7 1991.3
+1.9 3.1 1.4 2.0 1.3 2.5 2.7 2.2 1.0 1.1 15.1 2113.1
+2.0 1.9 2.3 1.5 2.1 0.8 2.2 0.6 1.7 1.0 13.1 2164.6
+1.8 1.9 1.1 1.6 4.0 1.2 1.9 1.1 1.3 0.9 13.2 1997.1
+1.7 1.2 1.0 1.5 1.8 0.7 1.5 0.6 1.1 0.8 11.4 2044.2
+1.7 2.4 1.4 1.6 2.1 1.4 1.4 2.0 1.4 1.3 13.9 2254.9
+2.2 1.5 4.2 1.6 1.1 0.7 1.4 0.8 1.7 1.5 10.3 2538.6
+18.2 30.8 62.8 22.1 13.1 29.6 19.8 39.0 16.9 19.1 261.4 30328.8
+1.6 1.5 1.3 1.5 2.1 0.8 1.2 1.9 1.5 1.0 13.0 1913.8
+1.4 3.1 2.4 1.5 1.3 1.4 2.3 4.3 1.1 1.2 22.1 2224.2
+1.7 2.1 6.8 2.1 0.6 4.4 1.3 2.7 2.1 1.7 16.2 2404.1
+1.3 2.7 6.1 1.9 0.9 2.6 1.7 3.7 1.2 2.1 18.9 2395.1
+1.2 1.9 5.7 1.4 2.2 1.8 1.4 2.5 1.4 1.8 22.1 2200.0
+1.6 2.2 5.4 1.6 1.2 2.4 1.8 2.7 1.2 1.3 19.4 2638.8
+1.13 2.62 3.22 1.68 0.74 2.14 2.00 3.02 1.06 0.89 17.97 2185.2
+0.8 2.7 5.5 1.8 0.7 2.9 1.3 3.5 0.8 1.2 19.1 2527.6
+1.7 4.0 3.7 2.5 0.6 4.1 2.0 5.1 1.3 2.2 28.7 3295.6
+1.9 2.8 6.8 2.3 0.7 2.9 2.0 3.8 1.5 2.1 26.5 2752.3
+1.8 3.0 8.3 2.0 1.1 2.7 1.5 3.3 1.9 2.4 26.9 2969.6
+2.1 2.2 7.5 1.7 0.7 1.6 1.4 2.5 1.9 1.4 30.5 2822.5
+25.8 34.0 43.2 20.4 10.1 18.5 25.1 34.3 25.4 25.2 398.5 35589.4
+1.7 2.2 7.0 1.6 0.8 1.8 1.6 3.2 1.5 2.3 30.2 2477.9
+1.8 2.3 5.2 1.5 0.7 1.4 1.5 2.1 1.8 1.6 31.1 2421.9
+2.6 2.3 4.6 1.5 1.0 1.0 1.6 3.3 2.9 1.6 33.3 2685.6
+1.9 2.2 8.6 1.4 0.7 1.2 1.8 2.0 2.2 1.8 32.5 2562.4
+1.9 2.4 6.8 1.4 0.7 1.1 1.6 2.4 1.8 1.7 31.7 2889.7
+3.5 2.8 4.6 2.2 0.9 1.4 2.4 3.5 2.5 1.9 38.8 3223.7
+2.7 2.9 1.5 1.8 0.7 1.6 2.9 2.5 3.2 5.6 39.6 3171.6
+2.2 2.7 1.2 1.7 0.8 1.8 1.8 3.0 1.9 1.1 27.3 3019.4
+2.0 3.1 1.1 1.8 1.7 1.8 2.2 2.9 1.9 1.8 29.6 3752.2
+1.9 4.4 0.9 2.1 1.0 3.0 2.4 4.0 1.8 2.0 33.7 3123.3
+2.0 3.5 0.9 1.8 0.5 1.5 2.8 2.7 2.0 1.2 34.3 3442.6
+1.7 3.1 0.7 1.7 0.6 1.0 2.5 2.6 2.0 2.6 36.5 2819.0
+1.8 4.0 0.8 2.4 0.6 1.4 2.9 3.3 2.6 1.6 48.8 2967.5
+2.0 3.1 0.7 1.4 0.5 1.2 2.7 2.6 2.5 1.3 46.6 2858.8
+1.8 4.0 0.8 2.4 0.6 1.4 2.9 3.3 2.6 1.6 48.8 2967.5
+19I Page
+Division and District wise Workers' Remittance Inflows FY 2017-18 to FY 2026-27
+Annex-IV
+July
+BARGUNA 46.4 47.6 50.3 64.5 52.6 57.9 62.5 83.8 88.6 5.2
+BARISHAL 174.8 188.8 220.5 255.5 222.1 185.3 202.4 337.0 277.2 19.7
+BHOLA 87.3 81.6 80.8 106.2 87.9 87.6 99.5 136.9 143.5 11.1
+JHALOKATHI 37.3 44.2 39.7 52.7 40.4 43.9 55.5 77.5 58.4 4.2
+PATUAKHALI 52.8 56.7 52.7 77.6 63.2 59.5 63.0 91.2 78.3 5.4
+PIROJPUR 70.0 79.7 80.7 104.3 84.7 89.2 77.5 115.1 106.9 8.9
+BARISAL Total 468.6 498.6 524.7 660.8 550.8 523.4 560.3 841.6 752.9 54.5
+BANDARBAN 14.6 15.7 16.6 25.7 16.2 19.9 26.8 26.7 22.8 4.0
+BRAHMANBARIA 644.1 704.9 701.3 787.3 688.9 645.2 615.5 832.4 915.6 79.8
+CHANDPUR 479.6 494.8 506.9 618.6 516.5 558.7 571.4 795.7 790.6 65.6
+CHATTOGRAM 1156.9 1222.8 1277.7 1392.8 1218.9 1611.8 2367.4 2442.5 3274.4 201.8
+COX'S BAZAR 130.9 143.1 161.4 198.1 170.8 147.9 168.7 190.8 218.0 16.8
+CUMILLA 1122.3 1195.9 1215.9 1394.8 1195.6 1285.6 1269.8 1567.2 2082.7 185.4
+FENI 394.6 448.3 493.9 576.6 513.8 555.1 607.4 873.5 995.5 68.5
+KHAGRACHARI 21.9 26.0 25.7 29.4 25.0 24.6 30.2 44.2 32.7 2.8
+LAKSHMIPUR 310.9 337.4 372.1 445.9 403.5 382.1 357.2 480.0 533.8 44.2
+NOAKHALI 495.5 546.4 596.6 723.1 643.2 702.2 746.8 904.3 1075.7 88.3
+RANGAMATI 17.0 22.4 22.3 29.6 20.8 28.4 19.6 27.8 21.1 1.6
+CHATTOGRAM
+Total
+4788.3 5157.7 5390.4 6221.9 5413.2 5961.5 6780.9 8185.0 9962.9 758.9
+DHAKA 3238.5 3598.7 4607.6 8021.6 6367.0 6967.3 8287.4 10569.1 13470.4 1059.8
+FARIDPUR 195.2 238.5 256.6 317.3 307.0 227.4 233.9 325.7 345.8 31.1
+GAZIPUR 272.8 320.5 341.3 445.1 408.0 317.1 318.0 438.5 479.5 42.4
+GOPALGANJ 62.3 76.1 77.1 115.6 93.2 86.3 105.3 181.4 154.2 12.2
+KISHOREGANJ 230.7 263.4 267.9 342.6 289.6 288.4 276.9 440.3 464.6 41.2
+MADARIPUR 189.8 208.2 204.1 254.2 260.8 275.3 337.7 453.4 536.7 54.9
+MANIKGANJ 202.8 225.6 266.6 307.4 265.9 209.2 188.6 291.8 265.0 20.9
+MUNSHIGANJ 289.3 323.7 343.1 454.6 396.1 381.4 391.9 514.9 606.8 50.3
+NARAYANGANJ 317.3 357.2 391.8 497.6 421.0 356.1 369.6 469.3 551.3 51.1
+NARSHINGDI 276.7 315.6 346.2 409.5 345.3 377.4 377.8 495.0 480.3 38.4
+RAJBARI 70.6 80.7 79.9 95.7 79.4 86.6 93.8 128.3 125.6 10.9
+SHARIATPUR 172.7 184.6 175.2 222.0 213.2 257.9 287.3 326.9 359.3 30.2
+TANGAIL 348.0 391.1 429.8 534.1 452.6 413.1 391.7 609.0 641.8 54.8
+DHAKA Total 5866.7 6583.9 7787.2 12017.3 9899.2 10243.5 11659.8 15243.6 18481.2 1498.1
+BAGERHAT 50.6 47.6 53.5 65.6 60.1 77.5 102.1 92.5 98.2 8.9
+CHUADANGA 57.0 61.8 66.8 97.8 65.9 64.4 71.9 138.5 119.9 9.4
+JASHORE 143.6 165.0 166.8 235.7 199.8 212.0 163.9 233.5 278.7 24.1
+JHENAIDAH 75.3 90.9 90.8 110.4 76.0 67.1 86.4 129.6 144.0 12.3
+KHULNA 108.8 118.2 158.9 174.6 171.8 114.7 118.2 174.6 171.8 15.1
+KUSHTIA 107.1 126.7 138.6 182.4 147.1 123.0 130.9 206.0 202.5 16.5
+MAGURA 44.1 47.0 45.5 53.5 44.8 60.8 57.8 78.2 73.6 6.1
+MEHERPUR 60.5 65.5 72.4 86.5 77.1 78.8 70.8 107.9 102.1 9.0
+NARAIL 39.7 43.8 43.6 57.8 43.8 47.2 48.0 60.8 68.8 6.9
+SATKHIRA 78.8 79.2 87.3 119.7 105.2 78.7 76.9 107.7 129.3 10.5
+KHULNA Total 765.5 845.7 924.2 1184.0 991.5 924.2 926.9 1329.4 1388.9 118.7
+JAMALPUR 98.2 115.9 125.3 167.8 151.7 103.9 115.3 170.1 170.0 14.2
+MYMENSINGH 180.3 210.7 228.0 303.1 263.2 210.0 209.3 317.1 297.2 26.5
+NETROKONA 40.2 48.2 46.6 66.3 47.6 52.4 51.7 73.2 68.7 5.9
+SHERPUR 24.3 29.1 29.7 36.8 29.2 35.8 31.7 47.9 40.0 3.3
+MYMENSINGH
+Total
+343.0 403.9 429.6 574.0 491.6 402.1 408.0 608.2 576.0 49.8
+BOGURA 142.7 158.8 160.3 218.2 186.4 150.7 144.3 209.3 229.8 19.1
+CHAPAI NAWABGANJ 83.9 76.1 81.7 93.6 91.4 102.0 113.5 140.4 157.1 14.3
+JAYPURHAT 61.2 34.0 31.5 41.5 47.5 46.4 36.6 42.6 45.8 3.8
+NAOGAON 78.9 87.5 94.0 125.3 110.6 81.3 75.1 113.1 117.2 10.7
+NATORE 50.7 55.3 52.8 66.7 53.4 53.8 62.0 82.0 74.9 6.0
+PABNA 128.3 140.3 138.2 187.9 160.4 128.0 128.8 178.1 201.2 16.7
+RAJSHAHI 73.2 81.6 97.4 123.9 126.9 85.9 85.3 127.1 139.4 10.8
+SIRAJGANJ 79.4 86.5 92.9 134.5 116.6 90.1 86.1 123.7 155.1 12.4
+RAJSHAHI Total 698.3 720.1 748.8 991.6 893.2 738.2 731.7 1016.3 1120.5 93.8
+DINAJPUR 136.2 172.1 229.9 312.2 297.7 74.4 49.7 77.2 63.8 5.0
+GAIBANDHA 57.7 68.3 70.0 97.7 90.3 60.1 51.3 80.1 71.2 5.3
+KURIGRAM 28.7 32.1 32.1 37.1 31.1 35.7 34.9 53.4 49.0 3.8
+LALMONIRHAT 16.9 19.0 16.6 16.9 17.3 20.4 18.6 25.3 18.4 1.7
+NILPHAMARI 36.7 47.7 51.1 78.4 80.4 51.7 37.1 46.8 50.0 4.2
+PANCHAGARH 15.2 17.3 12.9 21.8 17.4 21.1 24.3 32.6 20.1 1.4
+RANGPUR 56.6 60.0 69.1 91.0 86.2 55.6 59.4 112.2 77.2 5.9
+THAKURGAON 20.9 22.3 19.3 28.5 22.5 27.4 26.1 38.2 33.0 2.6
+RANGPUR Total 368.9 438.8 501.0 683.6 642.8 346.4 301.3 465.9 382.7 30.0
+HABIGANJ 227.1 252.9 263.5 309.1 283.0 324.2 312.6 365.8 401.1 35.8
+MOULVI BAZAR 359.7 361.7 379.4 469.8 498.9 579.2 568.4 549.7 564.7 44.9
+SUNAMGANJ 190.2 214.1 223.4 292.9 282.6 323.9 322.9 360.9 377.7 30.8
+SYLHET 905.6 942.3 1032.9 1372.7 1085.0 1244.1 1339.3 1362.4 1580.9 143.5
+SYLHET Total 1682.6 1771.0 1899.2 2444.5 2149.5 2471.4 2543.2 2638.8 2924.5 255.0
+Total 14981.9 16419.7 18205.1 24777.7 21031.7 21610.7 23912.2 30328.8 35589.4 2858.8
+Source: Statistics Department, Bangladesh Bank
+RAJSHAHI
+RANGPUR
+SYLHET
+BARISHAL
+CHATTOGRAM
+DHAKA
+KHULNA
+MYMENSINGH
+FY 2021-22 FY 2022-23
+FY 2020-21
+Division District FY 2018-19 FY 2019-20
+FY 2017-18
+FY 2026-27
+FY 2025-26
+FY 2023-24 FY 2024-25
+20I Page
+Annex-V
+In million USD
+FI Cluster FI ID FI Name FY 2016-17 FY 2017-18 FY 2018-19 FY 2019-20 FY 2020-21
+11 AGRANI BANK LIMITED 1369.59 1429.25 1588.26 1762.71 2823.25
+12 JANATA BANK LIMITED 967.74 917.92 873.97 873.26 947.91
+14 RUPALI BANK LIMITED 186.18 225.14 223.37 427.27 803.27
+15 SONALI BANK LIMITED 1104.13 1120.03 1146.29 1290.42 1529.46
+35 BASIC BANK LTD. 1.39 1.87 1.46 0.91 2.20
+135 BANGLADESH DEVELOPMENT BANK LTD. 0.01 0.01 0.10 0.01 0.01
+3629.05 3694.23 3833.45 4354.56 6106.10
+31 BANGLADESH KRISHI BANK 126.72 131.03 191.36 361.02 412.95
+33 RAJSHAHI KRISHI UNNAYAN BANK --- --- --- --- ---
+126.72 131.03 191.36 361.02 412.95
+41 AB BANK LTD. 235.33 238.71 203.02 144.87 200.57
+42 ISLAMI BANK BANGLADESH LTD. 2729.29 2956.32 3034.00 4149.86 7457.57
+43 NATIONAL BANK LTD. 502.55 484.19 458.13 390.36 445.60
+44 THE CITY BANK LTD. 243.37 438.68 378.60 423.84 460.68
+45 INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD 41.10 36.49 38.58 30.87 47.15
+46 UNITED COMMERCIAL BANK LTD. 71.02 69.77 212.55 370.15 168.52
+47 PUBALI BANK LTD 429.66 503.24 555.15 548.80 750.65
+48 UTTARA BANK LTD. 463.13 486.87 368.71 362.51 302.66
+50 SHIMANTO BANK LIMITED --- --- 0.51 0.49 0.58
+52 EASTERN BANK LTD. 86.43 202.33 224.61 114.78 72.38
+53 NATIONAL CREDIT AND COMMERCE BANK LTD. 248.10 370.45 465.27 474.40 576.40
+54 PRIME BANK LTD. 251.59 331.12 336.70 305.51 343.88
+55 SOUTHEAST BANK LTD. 355.76 567.38 607.34 529.63 494.08
+56 DHAKA BANK LTD. 44.94 44.11 43.75 31.76 52.17
+57 AL-ARAFAH ISLAMI BANK LTD. 193.06 357.68 382.54 412.79 624.96
+58 SOCIAL ISLAMI BANK LTD. 232.46 276.85 144.76 146.33 175.78
+59 DUTCH-BANGLA BANK LTD. 642.48 797.94 1302.24 2027.66 2491.35
+60 MERCANTILE BANK LTD. 278.46 337.57 421.20 238.57 395.18
+61 STANDARD BANK LTD. 78.75 101.95 131.36 90.00 142.05
+62 ONE BANK LTD. 8.40 40.32 67.75 73.68 48.68
+63 EXIM BANK LTD. 40.56 43.64 43.17 46.54 48.49
+64 BANGLADESH COMMERCE BANK LTD. 11.71 11.64 13.26 11.39 14.08
+65 MUTUAL TRUST BANK LTD. 209.63 483.50 615.02 463.77 440.97
+66 PREMIER BANK LTD. 75.72 69.59 120.09 77.24 188.21
+67 FIRST SECURITY ISLAMI BANK LTD. 106.18 125.63 151.44 150.80 163.99
+68 BANK ASIA LTD. 404.01 425.61 558.83 707.04 972.50
+69 TRUST BANK LTD. 314.16 390.94 618.67 265.67 106.60
+70 SHAHJALAL ISLAMI BANK LTD. 34.17 59.47 61.65 50.24 54.91
+71 JAMUNA BANK LTD. 180.62 207.77 173.79 212.16 241.42
+72 BRAC BANK LTD. 265.72 438.36 376.54 378.91 464.55
+76 NRB COMMERCIAL BANK LTD. 2.74 5.95 6.20 7.80 14.89
+77 SOUTH BANGLA AGRICULTURE AND COMMERCE BANK LTD. 19.85 28.86 58.36 32.99 48.89
+78 MEGHNA BANK LTD. 10.10 23.16 19.36 12.43 34.56
+79 MIDLAND BANK LTD. 2.84 2.13 8.27 9.02 8.05
+80 PADMA BANK LTD. 2.26 1.56 1.08 11.52 1.91
+82 UNION BANK LTD. 33.87 19.87 20.84 22.94 41.47
+83 NRB BANK LTD. 5.52 12.41 12.35 4.81 4.62
+84 GLOBAL ISLAMI BANK LTD. 28.98 9.54 16.30 18.01 36.50
+85 MODHUMOTI BANK LTD. 1.44 3.79 13.94 5.89 10.11
+107 ICB ISLAMIC BANK 0.14 0.22 0.15 0.51 0.88
+139 COMMUNITY BANK BANGLADESH LTD. --- --- --- --- ---
+140 BENGAL COMMERCIAL BANK LIMITED --- --- --- --- ---
+141 CITIZENS BANK PLC. --- --- --- --- ---
+8871.59 11000.82 12257.93 13347.54 18143.97
+23 STANDARD CHARTERED BANK 55.68 62.03 55.19 56.72 62.66
+24 STATE BANK OF INDIA 0.32 0.19 0.10 0.21 0.14
+25 HABIB BANK LTD. 0.10 0.02 0.06 0.00 0.00
+26 CITI BANK NA 0.11 1.15 0.84 0.48 1.00
+27 COMMERCIAL BANK OF CEYLON LTD 10.41 15.07 4.53 3.24 9.54
+28 NATIONAL BANK OF PAKISTAN 0.03 0.00 0.01 --- ---
+73 WOORI BANK 39.44 49.73 70.56 76.14 34.72
+74 HONGKONG AND SHANGHAI BANKING CORPORATION 35.59 27.13 5.40 4.96 6.60
+75 BANK AL-FALAH LTD. 0.41 0.29 0.22 0.17 0.06
+142.10 155.61 136.90 141.91 114.70
+12769.46 14981.69 16419.63 18205.02 24777.71
+Source: Statistics Department, Bangladesh Bank
+Note: --- = Not available
+FOREIGN COMMERCIAL BANKS Total
+Grand Total
+SPECIALIZED BANKS/DEVELOPMENT BANKS Total
+Bank wise Workers' Remittance Inflows FY 2016-17 to FY 2026-27
+STATE-OWNED
+COMMERCIAL BANK
+STATE-OWNED COMMERCIAL BANK Total
+SPECIALIZED
+BANKS/DEVELOPMENT
+BANKS
+PRIVATE COMMERCIAL
+BANK
+PRIVATE COMMERCIAL BANK Total
+FOREIGN COMMERCIAL
+BANKS
+21I Page
+Annex-V
+In million USD
+FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25 FY 2025-26 FY 2026-27 (Aug) FI Name
+1623.92 1370.49 928.85 2853.57 2488.13 407.84 AGRANI BANK LIMITED
+680.91 685.88 1076.51 2154.38 2085.62 115.71 JANATA BANK LIMITED
+499.92 483.19 261.24 1456.87 771.11 83.76 RUPALI BANK LIMITED
+1220.70 856.04 416.58 1707.71 969.86 264.00 SONALI BANK LIMITED
+2.31 3.55 0.93 1.01 1.66 0.16 BASIC BANK LTD.
+--- 0.03 0.02 0.04 0.08 0.00 BANGLADESH DEVELOPMENT BANK LTD.
+4027.76 3399.17 2684.13 8173.59 6316.46 871.47 STATE-OWNED COMMERCIAL BANK Total
+371.83 522.24 718.50 2111.18 4100.73 617.43 BANGLADESH KRISHI BANK
+--- --- --- --- --- 0.00 RAJSHAHI KRISHI UNNAYAN BANK
+371.83 522.24 718.50 2111.18 4100.73 617.43 SPECIALIZED BANKS/DEVELOPMENT BANKS Total
+146.03 97.29 163.30 320.82 103.06 9.72 AB BANK LTD.
+4920.47 4710.02 6128.11 4966.44 6885.83 1003.66 ISLAMI BANK BANGLADESH LTD.
+326.79 449.47 902.70 543.66 322.08 40.44 NATIONAL BANK LTD.
+605.70 939.66 572.06 802.51 1128.36 255.85 THE CITY BANK LTD.
+58.81 77.17 55.01 36.05 93.81 9.30 INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD
+351.74 524.16 414.44 423.62 804.63 168.82 UNITED COMMERCIAL BANK LTD.
+723.45 977.41 653.36 521.65 1043.88 128.12 PUBALI BANK LTD
+295.14 91.33 50.23 56.60 204.10 8.30 UTTARA BANK LTD.
+0.50 0.46 0.24 0.24 1.46 0.37 SHIMANTO BANK LIMITED
+78.81 52.99 539.63 365.63 1070.36 199.45 EASTERN BANK LTD.
+580.12 534.19 719.37 636.37 490.43 102.98 NATIONAL CREDIT AND COMMERCE BANK LTD.
+193.28 125.98 100.89 162.85 401.63 144.90 PRIME BANK LTD.
+800.01 464.42 541.19 505.21 579.36 130.37 SOUTHEAST BANK LTD.
+32.45 418.52 372.54 771.46 922.24 250.27 DHAKA BANK LTD.
+601.04 1036.61 844.23 771.15 607.61 68.38 AL-ARAFAH ISLAMI BANK LTD.
+209.19 668.21 1668.08 312.69 31.45 1.50 SOCIAL ISLAMI BANK LTD.
+2489.50 983.58 433.84 401.60 1090.26 257.07 DUTCH-BANGLA BANK LTD.
+481.65 558.22 295.88 349.07 472.13 48.00 MERCANTILE BANK LTD.
+142.98 215.27 451.66 501.39 282.98 45.77 STANDARD BANK LTD.
+42.02 39.86 33.15 5.05 11.98 1.04 ONE BANK LTD.
+47.28 35.35 43.34 19.85 15.65 1.97 EXIM BANK LTD.
+12.59 9.68 9.74 1.99 1.51 0.19 BANGLADESH COMMERCE BANK LTD.
+699.74 839.80 715.72 768.06 939.85 161.65 MUTUAL TRUST BANK LTD.
+280.87 473.67 378.92 675.18 131.60 49.00 PREMIER BANK LTD.
+142.33 147.79 229.89 33.15 1.91 0.32 FIRST SECURITY ISLAMI BANK LTD.
+951.63 614.66 443.97 768.31 747.14 83.61 BANK ASIA LTD.
+290.97 784.95 890.74 1826.71 2503.54 426.49 TRUST BANK LTD.
+53.93 278.06 434.71 270.38 211.63 41.02 SHAHJALAL ISLAMI BANK LTD.
+401.41 458.35 566.73 422.51 596.94 95.77 JAMUNA BANK LTD.
+372.67 535.15 1037.91 2045.67 2971.92 523.15 BRAC BANK LTD.
+26.36 20.09 24.08 87.78 51.45 7.49 NRB COMMERCIAL BANK LTD.
+49.03 135.14 161.55 62.43 51.29 10.54 SOUTH BANGLA AGRICULTURE AND COMMERCE BANK LTD.
+26.57 32.80 102.13 131.40 25.35 3.59 MEGHNA BANK LTD.
+7.36 11.79 19.52 26.89 64.43 16.58 MIDLAND BANK LTD.
+4.70 0.92 1.46 0.02 0.00 0.00 PADMA BANK LTD.
+34.22 31.37 17.87 2.73 0.71 0.07 UNION BANK LTD.
+8.51 95.49 216.46 188.53 66.63 8.92 NRB BANK LTD.
+29.67 17.75 39.98 26.54 6.17 0.41 GLOBAL ISLAMI BANK LTD.
+17.59 123.59 125.33 111.64 74.96 13.12 MODHUMOTI BANK LTD.
+0.79 0.79 0.11 0.00 0.00 0.00 ICB ISLAMIC BANK
+0.01 0.00 --- 0.02 16.40 1.52 COMMUNITY BANK BANGLADESH LTD.
+--- 0.07 33.24 45.86 41.04 4.57 BENGAL COMMERCIAL BANK LIMITED
+--- 0.00 0.02 0.09 8.91 1.06 CITIZENS BANK PLC.
+16537.92 17612.06 20433.32 19969.80 25076.68 4325.33 PRIVATE COMMERCIAL BANK Total
+61.15 56.29 52.74 56.42 64.56 11.05 STANDARD CHARTERED BANK
+0.10 0.01 0.01 0.01 0.02 0.00 STATE BANK OF INDIA
+0.00 --- --- 0.02 --- 0.00 HABIB BANK LTD.
+1.03 0.71 0.52 0.74 1.21 0.27 CITI BANK NA
+6.31 3.94 5.15 3.69 25.55 0.57 COMMERCIAL BANK OF CEYLON LTD
+--- 0.00 --- --- --- 0.00 NATIONAL BANK OF PAKISTAN
+17.19 6.88 1.81 1.81 1.34 0.15 WOORI BANK
+8.38 7.61 8.19 9.89 2.61 0.02 HONGKONG AND SHANGHAI BANKING CORPORATION
+0.06 1.82 7.87 1.67 0.23 0.00 BANK AL-FALAH LTD.
+94.21 77.25 76.28 74.24 95.51 12.06 FOREIGN COMMERCIAL BANKS Total
+21031.73 21610.72 23912.22 30328.81 35589.38 5826.29 Grand Total
+Source: Statistics Department, Bangladesh Bank
+Note: --- = Not available
+22I Page
+

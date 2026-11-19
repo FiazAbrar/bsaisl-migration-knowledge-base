@@ -1,0 +1,359 @@
+[![出入国在留管理庁 Immigration Services Agency of Japan](/isa/content/910000042.png)](/isa/index.html)
+
+[本文へ](#contentsArea)
+
+[Multi language](/isa/other_languages.html)
+
+文字サイズ  
+[標準](javascript:textSizeReset();)
+
+[拡大](javascript:textSizeUp();)
+
+*MENU*
+
+![](/isa/content/001345705.png)
+
+- [組織・採用](/isa/about/index.html)
+  - [出入国在留管理庁の概要](/isa/about/organization/index.html)
+  - [機構図](/isa/about/organization/chart.html)
+  - [幹部一覧](/isa/about/organization/executive.html)
+  - [地方出入国在留管理官署](/isa/about/region/index.html)
+  - [採用案内](/isa/about/recruitment/index.html)
+- [出入国手続](/isa/immigration/index.html)
+  - [出入（帰）国手続について（解説）](/isa/immigration/procedures/tetuduki_index1_1.html)
+  - [再入国許可申請](/isa/immigration/procedures/16-5.html)
+  - [トラスティド・トラベラー・プログラム（TTP）](/isa/immigration/procedures/ttp2_index.html)
+  - [乗員上陸許可申請（NACCS）](/isa/immigration/procedures/06_00005.html)
+  - [各種公表資料](/isa/immigration/resources/index.html)
+  - [出入国審査・在留審査Q&A](/isa/immigration/faq/kanri_qa.html)
+- [在留手続](/isa/applications/index.html)
+  - [在留資格から探す](/isa/applications/status/index.html)
+  - [手続の種類から探す](/isa/applications/procedures/index.html)
+  - [オンライン手続](/isa/applications/online/onlineprocedures.html)
+  - [育成就労制度](/isa/applications/index_00005.html)
+  - [特定技能制度](/isa/applications/ssw/index.html)
+  - [外国人技能実習制度](/isa/applications/titp/nyuukokukanri05_00014.html)
+  - [高度人材ポイント制](/isa/applications/resources/newimmiact_3_index.html)
+  - [J-Skip/J-Find](/isa/applications/resources/nyukan_nyukan50_00002.html)
+  - [スタートアップ関連施策](/isa/applications/resources/03_00070.html)
+  - [留学生の就職](/isa/applications/resources/10_00015.html)
+  - [各種公表資料](/isa/applications/resources/index.html)
+- [在留支援](/isa/support/index.html)
+  - [ロードマップ](/isa/support/coexistence/04_00033.html)
+  - [総合的対応策](/isa/support/coexistence/nyuukokukanri01_00140.html)
+  - [HarmoniUP!](/isa/support/coexistence/04_00070.html)
+  - [新規入国者向けガイダンスページ](/isa/support/guidance/index.html)
+  - [外国人生活支援ポータルサイト](/isa/support/portal/index.html)
+  - [生活・就労ガイドブック](/isa/support/portal/guidebook_all.html)
+  - [外国人在留支援センター(FRESC／フレスク）](/isa/support/fresc/fresc01.html)
+  - [相談窓口](/isa/support/consultation/index.html)
+  - [外国人との共生施策に係る御意見・御要望（御意見箱）](/isa/support/opinion.html)
+- [退去強制手続](/isa/deportation/index.html)
+  - [退去強制手続と出国命令制度](/isa/deportation/procedures/tetuduki_index5_00002.html)
+  - [監理措置制度](/isa/08_00045.html)
+  - [仮放免制度](/isa/08_00050.html)
+  - [各種申請](/isa/deportation/application.html)
+  - [入管法違反者に関する情報提供](/isa/consultation/report/index.html)
+  - [各種公表資料](/isa/deportation/resources/index.html)
+  - [退去強制手続・出国命令制度・上陸拒否期間の短縮決定Q&A](/isa/deportation/guide/tetuduki_taikyo_qa.html)
+- [難民の認定等](/isa/refugee/index.html)
+  - [難民認定手続・補完的保護対象者認定手続](/isa/refugee/procedures/16-6.html)
+  - [難民旅行証明書交付申請手続](/isa/refugee/procedures/16-7.html)
+  - [第三国定住による難民の受入れ](/isa/refugee/procedures/07_00046.html)
+  - [一時庇護上陸許可](/isa/refugee/procedures/higo_00001.html)
+  - [各種公表資料](/isa/refugee/resources/index.html)
+- [政策情報（会議・統計等）](/isa/policies/index.html)
+  - [会議・委員会等](/isa/policies/conference/seisaku_index.html)
+  - [統計](/isa/policies/statistics/index.html)
+  - [基本計画・白書・パンフレット](/isa/policies/policies/index.html)
+  - [関係法令](/isa/policies/bill/01_00442.html)
+  - [その他政策情報](/isa/policies/others/index.html)
+- [広報・情報公開等](/isa/publications/index.html)
+  - [プレスリリース](/isa/publications/press/index.html)
+  - [更新情報](/isa/publications/newslist/index.html)
+  - [広報](/isa/publications/publications/index.html)
+  - [調達情報](/isa/publications/procurement/index.html)
+  - [情報公開・個人情報保護](/isa/disclosure_privacy.html)
+  - [公文書管理](/isa/publications/record/index.html)
+  - [ご意見・情報提供](/isa/publications/contact/index.html)
+  - [その他の公表情報](/isa/publications/others/index.html)
+  - [よくあるお問い合わせ（FAQ）](/isa/publications/faq.html)
+
+- [組織・採用](/isa/about/index.html)
+  - [出入国在留管理庁の概要](/isa/about/organization/index.html)
+  - [機構図](/isa/about/organization/chart.html)
+  - [幹部一覧](/isa/about/organization/executive.html)
+  - [地方出入国在留管理官署](/isa/about/region/index.html)
+  - [採用案内](/isa/about/recruitment/index.html)
+- [出入国手続](/isa/immigration/index.html)
+  - [出入（帰）国手続について（解説）](/isa/immigration/procedures/tetuduki_index1_1.html)
+  - [再入国許可申請](/isa/immigration/procedures/16-5.html)
+  - [トラスティド・トラベラー・プログラム（TTP）](/isa/immigration/procedures/ttp2_index.html)
+  - [乗員上陸許可申請（NACCS）](/isa/immigration/procedures/06_00005.html)
+  - [各種公表資料](/isa/immigration/resources/index.html)
+  - [出入国審査・在留審査Q&A](/isa/immigration/faq/kanri_qa.html)
+- [在留手続](/isa/applications/index.html)
+  - [在留資格から探す](/isa/applications/status/index.html)
+  - [手続の種類から探す](/isa/applications/procedures/index.html)
+  - [オンライン手続](/isa/applications/online/onlineprocedures.html)
+  - [育成就労制度](/isa/applications/index_00005.html)
+  - [特定技能制度](/isa/applications/ssw/index.html)
+  - [外国人技能実習制度](/isa/applications/titp/nyuukokukanri05_00014.html)
+  - [高度人材ポイント制](/isa/applications/resources/newimmiact_3_index.html)
+  - [J-Skip/J-Find](/isa/applications/resources/nyukan_nyukan50_00002.html)
+  - [スタートアップ関連施策](/isa/applications/resources/03_00070.html)
+  - [留学生の就職](/isa/applications/resources/10_00015.html)
+  - [各種公表資料](/isa/applications/resources/index.html)
+- [在留支援](/isa/support/index.html)
+  - [ロードマップ](/isa/support/coexistence/04_00033.html)
+  - [総合的対応策](/isa/support/coexistence/nyuukokukanri01_00140.html)
+  - [HarmoniUP!](/isa/support/coexistence/04_00070.html)
+  - [新規入国者向けガイダンスページ](/isa/support/guidance/index.html)
+  - [外国人生活支援ポータルサイト](/isa/support/portal/index.html)
+  - [生活・就労ガイドブック](/isa/support/portal/guidebook_all.html)
+  - [外国人在留支援センター(FRESC／フレスク）](/isa/support/fresc/fresc01.html)
+  - [相談窓口](/isa/support/consultation/index.html)
+  - [外国人との共生施策に係る御意見・御要望（御意見箱）](/isa/support/opinion.html)
+- [退去強制手続](/isa/deportation/index.html)
+  - [退去強制手続と出国命令制度](/isa/deportation/procedures/tetuduki_index5_00002.html)
+  - [監理措置制度](/isa/08_00045.html)
+  - [仮放免制度](/isa/08_00050.html)
+  - [各種申請](/isa/deportation/application.html)
+  - [入管法違反者に関する情報提供](/isa/consultation/report/index.html)
+  - [各種公表資料](/isa/deportation/resources/index.html)
+  - [退去強制手続・出国命令制度・上陸拒否期間の短縮決定Q&A](/isa/deportation/guide/tetuduki_taikyo_qa.html)
+- [難民の認定等](/isa/refugee/index.html)
+  - [難民認定手続・補完的保護対象者認定手続](/isa/refugee/procedures/16-6.html)
+  - [難民旅行証明書交付申請手続](/isa/refugee/procedures/16-7.html)
+  - [第三国定住による難民の受入れ](/isa/refugee/procedures/07_00046.html)
+  - [一時庇護上陸許可](/isa/refugee/procedures/higo_00001.html)
+  - [各種公表資料](/isa/refugee/resources/index.html)
+- [政策情報（会議・統計等）](/isa/policies/index.html)
+  - [会議・委員会等](/isa/policies/conference/seisaku_index.html)
+  - [統計](/isa/policies/statistics/index.html)
+  - [基本計画・白書・パンフレット](/isa/policies/policies/index.html)
+  - [関係法令](/isa/policies/bill/01_00442.html)
+  - [その他政策情報](/isa/policies/others/index.html)
+- [広報・情報公開等](/isa/publications/index.html)
+  - [プレスリリース](/isa/publications/press/index.html)
+  - [更新情報](/isa/publications/newslist/index.html)
+  - [広報](/isa/publications/publications/index.html)
+  - [調達情報](/isa/publications/procurement/index.html)
+  - [情報公開・個人情報保護](/isa/disclosure_privacy.html)
+  - [公文書管理](/isa/publications/record/index.html)
+  - [ご意見・情報提供](/isa/publications/contact/index.html)
+  - [その他の公表情報](/isa/publications/others/index.html)
+  - [よくあるお問い合わせ（FAQ）](/isa/publications/faq.html)
+
+[Multi language](/isa/other_languages.html)
+
+- [トップページ](/isa/index.html)
+- [退去強制手続](/isa/deportation/index.html)
+- [退去強制手続と出国命令制度](/isa/deportation/procedures/tetuduki_index5_00002.html)
+- 監理措置制度について　
+
+# 監理措置制度について　
+
+- [監理措置制度の概要](#midashi01)
+- [退去強制令書が発付される前の監理措置](#midashi02)
+- [退去強制令書が発付された後の監理措置](#midashi03)
+- [監理人](#midashi04)
+- [監理措置決定の取消し](#midashi05)
+
+&nbsp;
+
+- [監理措置に関する各種申請](/isa/08_00047.html)
+- [監理措置に関するQ＆A](/isa/08_00051.html)
+- [監理措置決定申請等に当たっての注意点について](/isa/08_00053.html)
+
+## 監理措置制度の概要
+
+　監理措置は、監理人による監理の下、逃亡等を防止しつつ、相当期間にわたり、社会内での生活を許容しながら、収容しないで退去強制手続を進める措置です。\
+　なお、監理措置は、退去強制令書発付前のもの（法第４４条の２以下に規定）と、退去強制令書発付後のもの（法第５２条の２以下に規定）とがあります。 　
+
+- [（説明資料）監理措置制度について（PDF）（PDF：3.2MB） ![PDFファイル（別ウィンドウで開く）](/isa/content/910000045.png)](/isa/content/001450540.pdf)
+
+## 退去強制令書が発付される前の監理措置
+
+### 退去強制令書が発付される前の監理措置の要件
+
+　退去強制令書が発付される前の監理措置の下で退去強制手続を進める決定（以下「監理措置決定」と言います。）を受けるためには、次の要件を満たすことが必要です（法第４４条の２第１項又は第６項）。
+
+- 　監理人が選定できること。
+- 　主任審査官が、監理措置決定を受けようとする外国人が逃亡し、又は証拠を隠滅するおそれの程度、収容により受ける不利益の程度（心身の健康状態に与える影響や家族関係に与える影響等）その他の事情を総合的に考慮して、収容しないで退去強制手続を行うことを相当と認めること。
+
+　[監理人について](#midashi04)
+
+### 監理措置の条件
+
+　監理措置決定を受けた方（以下「被監理者」と言います。）には、住居及び行動範囲の制限、呼出しに対する出頭の義務その他逃亡及び証拠の隠滅を防止するために必要と認める条件が付されます（法第４４条の２第１項又は第６項）。\
+　また、被監理者による逃亡等を防止するために主任審査官が必要と認めるときは、３００万円を超えない範囲内で保証金を納付することが条件とされることがあります（法第４４条の２第２項又は第６項）。\
+\
+※監理措置の条件に違反して、逃亡し、又は正当な理由なく呼出しに応じない者は、１年以下の拘禁刑若しくは２０万円以下の罰金に処し、又はこれを併科する旨規定されています。また、被監理者に交付される監理措置決定通知書には、携帯・提示義務があり、この義務に違反した者は、１０万円以下の罰金に処する旨規定されています（法第７２条又は法第７６条）。
+
+### 被監理者の届出義務
+
+　被監理者は、被監理者が監理措置に付された日又は直近に届出をした日から３月を超えない範囲内で指定された日に、被監理者の事務を担当している地方出入国在留管理官署の主任審査官に対して、監理措置条件の遵守状況や報酬を受ける活動の許可を受けて行った活動の状況等を届け出なければなりません（法第４４条の６）。\
+\
+　なお、郵送による届出は受け付けていませんので、届出をしようとする被監理者本人が、[地方出入国在留管理官署](/isa/about/region/index.html)の窓口に出頭して届出をしてください。\
+
+- [被監理者届出書（PDF）（PDF：72KB） ![PDFファイル（別ウィンドウで開く）](/isa/content/910000045.png)](/isa/content/001419726.pdf)
+
+### 報酬を受ける活動の許可
+
+　在留資格がない外国人は、原則として、働くことが認められていません。\
+　ただし、退去強制令書の発付前の被監理者の生計を維持するために必要であって、相当と認められるときは、被監理者の申請により、生計の維持に必要な範囲内で、就労先を指定するなど一定の厳格な要件の下で、例外的に就労を認められることがあります（法第４４条の５第１項）。\
+\
+※退去強制令書発付前の被監理者で、報酬を受ける活動の許可を受けないで報酬を受ける活動を行ったもの又は収入を伴う事業を運営する活動を行ったもの（在留資格をもって在留する者を除く。）は、３年以下の拘禁刑若しくは３００万円以下の罰金に処し、又はこれを併科する旨規定されています（法第７０条第９号）。\
+\
+　報酬を受ける活動の許可申請については「[監理措置に関する各種申請](/isa/08_00047.html)」のページをご覧ください。
+
+## 退去強制令書が発付された後の監理措置
+
+### 退去強制令書が発付された後の監理措置の要件
+
+　退去強制令書が発付された後の監理措置決定を受けるためには、次の要件を満たすことが必要です（法第５２条の２第１項又は第５項）。
+
+- 監理人が選定できること。
+- 主任審査官が、監理措置決定を受けようとする外国人が逃亡し、又は不法就労活動をするおそれの程度、収容により受ける不利益の程度（心身の健康状態に与える影響や家族関係に与える影響等）その他の事情を総合的に考慮して、送還可能のときまで収容しないことを相当と認めること。
+
+　[監理人について](#midashi04)\
+\
+※法令に違反し、法令に基づく手続の結果、退去強制が確定した外国人は、速やかに本邦から退去することが原則であり、退去強制令書が発付された被監理者は、働くことはできません。退去強制令書発付後の被監理者で、収入を伴う事業を運営する活動を行ったもの又は報酬を受ける活動を行ったものは、３年以下の拘禁刑若しくは３００万円以下の罰金に処し、又はこれを併科する旨規定されています。
+
+### 監理措置の条件
+
+　被監理者には、住居及び行動範囲の制限、呼出しに対する出頭の義務その他逃亡及び不法就労活動を防止するために必要と認める条件が付されます（法第５２条の２第１項又は第５項）。\
+　また、被監理者による逃亡等を防止するために主任審査官が必要と認めるときは、３００万円を超えない範囲内で保証金を納付することが条件とされることがあります（法第５２条の２第２項又は第５項）。\
+\
+※監理措置の条件に違反して、逃亡し、又は正当な理由なく呼出しに応じない者は、１年以下の拘禁刑若しくは２０万円以下の罰金に処し、又はこれを併科する旨規定されています。また、被監理者に交付される監理措置決定通知書には、携帯・提示義務があり、この義務に違反した者は、１０万円以下の罰金に処する旨規定されています（法第７２条又は法第７６条）。
+
+### 被監理者の届出義務
+
+　被監理者は、被監理者が監理措置に付された日又は直近に届出をした日から３月を超えない範囲内で指定された日に、被監理者の事務を担当している地方出入国在留管理官署の主任審査官に対して、監理措置条件の遵守状況等を届け出なければなりません（法第５２条の５）。\
+　\
+　なお、郵送による届出は受け付けていませんので、届出をしようとする被監理者本人が、[地方出入国在留管理官署](/isa/about/region/index.html)の窓口に出頭して届出をしてください。\
+
+- [被監理者届出書（PDF）（PDF：72KB） ![PDFファイル（別ウィンドウで開く）](/isa/content/910000045.png)](/isa/content/001419726.pdf)
+
+## 監理人
+
+- [監理人になる方へ（リーフレット）（PDF）（PDF：247KB） ![PDFファイル（別ウィンドウで開く）](/isa/content/910000045.png)](/isa/content/001419639.pdf)
+
+### 監理人の要件
+
+　監理人は、監理人の責務を理解し、監理措置決定を受けようとする外国人の監理人となることを承諾している者であって、その任務遂行の能力を考慮して適当と認められる者の中から、主任審査官が選定します（法第４４条の３第１項又は法第５２条の３第１項）。\
+　これらの要件を満たしていれば、監理措置決定を受けようとする外国人の親族や知人だけでなく、元雇用主、支援者、弁護士や行政書士など、幅広く監理人になることが可能です。\
+
+- [監理人承諾書兼誓約書（PDF）（PDF：52KB） ![PDFファイル（別ウィンドウで開く）](/isa/content/910000045.png)](/isa/content/001419638.pdf)
+
+### 監理人の責務
+
+　「監理人の責務」は、次の４つです（法第４４条の３第２項から第５項まで又は法第５２条の３第２項から第５項まで）。
+
+- 被監理者の生活状況の把握、被監理者に対する指導・監督を行うこと。   
+- 被監理者からの相談に応じ、被監理者に対し援助を行うよう努めること。
+- 主任審査官から報告を求められたときは、報告を行うこと。
+- 次に掲げる事由が発生したときは、届け出るべき事由が発生したときから７日以内に届け出なければならないこと。
+
+#### **【退去強制令書が発付される前の被監理者の監理人になっている方（法第４４条の３第４項）】**
+
+\
+１　次のいずれかに該当することを知ったとき。
+
+- 被監理者が逃亡し、又は逃亡すると疑うに足りる相当の理由があるとき。
+- 被監理者が証拠を隠滅し、又は隠滅すると疑うに足りる相当の理由があるとき。
+- 被監理者が監理措置条件に違反したとき。
+- 被監理者が法第１９条第１項の規定に違反する活動を行ったとき、法第４４条の５第１項の規定による許可を受けないで報酬を受ける活動（在留資格をもって在留する者による活動を除く。以下この号において同じ。）を行つたとき、又は収入を伴う事業を運営する活動を行ったとき。
+- 第４４条の６の規定による届出をせず、又は虚偽の届出をしたとき。
+
+２　被監理者が死亡したことを知ったとき。\
+\
+３　次のいずれかに該当する事由が発生したとき。
+
+- 監理人の氏名（法人その他の団体にあっては、その名称、本店若しくは主たる事務所の所在地又は代表者の氏名）又は電話番号その他の連絡手段となり得る情報を変更したとき。
+- 監理人と被監理者との間に親族関係（婚姻の届出をしていないが、事実上婚姻関係と同様の事情にある関係を含む。）がある場合において、当該親族関係が終了したとき。
+- 監理人と被監理者との間に雇用関係がある場合において、当該雇用関係が終了したとき。
+- そのほか、監理人又は被監理者に関する事項について、主任審査官が監理措置を継続することに支障が生ずるものとして届出を求めることとしたとき。
+
+#### **【退去強制令書が発付された後の被監理者の監理人になっている方（法第５２条の３第４項）】**
+
+\
+１　次のいずれかに該当することを知ったとき。
+
+- 被監理者が逃亡し、又は逃亡すると疑うに足りる相当の理由があるとき。
+- 被監理者が収入を伴う事業を運営する活動若しくは報酬を受ける活動を行い、又はこれらの活動を行うと疑うに足りる相当の理由があるとき。
+- 被監理者が監理措置条件に違反したとき。
+- 第５２条の５の規定による届出をせず、又は虚偽の届出をしたとき。
+
+２　被監理者が死亡したことを知ったとき。\
+\
+３　次のいずれかに該当する事由が発生したとき。
+
+- 監理人の氏名（法人その他の団体にあっては、その名称、本店若しくは主たる事務所の所在地又は代表者の氏名）又は電話番号その他の連絡手段となり得る情報を変更したとき。
+- 監理人と被監理者との間に親族関係（婚姻の届出をしていないが、事実上婚姻関係と同様の事情にある関係を含む。）がある場合において、当該親族関係が終了したとき。
+- 監理人と被監理者との間に雇用関係がある場合において、当該雇用関係が終了したとき。
+- そのほか、監理人又は被監理者に関する事項について、主任審査官が監理措置を継続することに支障が生ずるものとして届出を求めることとしたとき。
+
+※届出をする場合には、「監理人届出書」を[地方出入国在留管理官署](/isa/about/region/index.html)の窓口に持参又は郵送により提出してください。\
+
+- [監理人届出書（PDF）（PDF：86KB） ![PDFファイル（別ウィンドウで開く）](/isa/content/910000045.png)](/isa/content/001419642.pdf)
+
+#### 監理人の選定の取消・監理人の辞任
+
+　主任審査官は、監理人が任務を遂行することが困難になったときその他監理人にその任務を継続させることが相当でないと認めるときは、監理人の選定を取り消すことができることとされています（法第４４条の３第６項又は法第５２条の３第６項）。\
+\
+　また、監理人を辞任する場合は、辞任しようとする日の３０日前までに、主任審査官に届け出るように努めなければなりません（法第４４条の３第７項又は法第５２条の３第６項）。\
+
+- [辞任届出書（PDF）（PDF：37KB） ![PDFファイル（別ウィンドウで開く）](/isa/content/910000045.png)](/isa/content/001419641.pdf)
+
+## 監理措置決定の取消し
+
+　例えば、次に掲げる事由に該当する場合には、監理措置決定を取り消さなければならないとされています（法第４４条の４第１項又は法第５２条の４第１項）。
+
+- 監理措置決定に当たり、保証金を納付することが条件とされた場合において、被監理者が納付期限までに保証金を納付しなかったとき。
+- 監理人の選定が取り消された場合や監理人が死亡した場合等において、被監理者のために新たに監理人として選定される者がいないとき。
+
+    \
+    また、例えば、次に掲げる事由に該当する場合には、監理措置決定が取り消されることがあります（法第４４条の４第２項又は法第５２条の４第２項）。
+
+- 被監理者が逃亡したときや逃亡すると疑うに足りる相当の理由があるとき。
+- 被監理者が監理措置条件に違反したとき。
+- 被監理者が主任審査官に対して必要な届出をしなかったときや虚偽の届出をしたとき。
+- 被監理者が不法就労活動をしたとき（報酬を受ける活動の許可を受けずに働いた場合も含む。）。
+
+#### お問合わせ先
+
+　監理措置に関して分からないことがあるときは、最寄りの[地方出入国在留管理官署](/isa/about/region/index.html)にお問い合わせください。\
+　また、被監理者や監理人の方は、被監理者の事務を担当している[地方出入国在留管理官署](/isa/about/region/index.html)にお問い合わせください。\
+\
+
+[ページトップ](#)
+
+- [サイトマップ](/isa/sitemap.html)
+- [リンク・著作権等について](/isa/copyright/index.html)
+- [ご意見・情報提供](/isa/publications/contact/index.html)
+
+![](/isa/content/001358753.png)
+
+\
+\
+\
+
+![](/isa/content/001358759.png)
+
+出入国在留管理庁
+
+〒100-8973　東京都千代田区霞が関1-1-1　中央合同庁舎６号館\
+℡045-370-9755（代表） （法人番号：7000012030004）\
+※開示請求等の手続については[こちら](/isa/disclosure_privacy.html)をご確認ください。\
+
+\
+\
+
+外国人在留支援センター（ＦＲＥＳＣ）
+
+〒160-0004　東京都新宿区四谷1-6-1　四谷タワー13階\
+℡0570-011000（代表）
+
+Copyright © Immigration Services Agency of Japan All Rights Reserved.
