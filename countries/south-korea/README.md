@@ -471,7 +471,7 @@ The employer must pay 8.3% of the worker's monthly ordinary wage each month into
 
 #### 2.4.6 Remittances from Korea
 
-Bangladesh Bank recorded US$135.46 million of remittances from South Korea in 2021-22, US$118.69 million in 2022-23 and US$16.76 million in July to September 2026, 14th among source countries <sup>[34 (2024)](#o34), [35](#o35)</sup>. (Legal channels are under Sending money home.)
+Bangladesh Bank recorded US$135.46 million of remittances from South Korea in 2021-22, US$118.69 million in 2022-23 and US$108.01 million in July to September 2026, 14th among source countries <sup>[34 (2024)](#o34), [35](#o35)</sup>. (Legal channels are under Sending money home.)
 
 > **Need to know**
 > - Why are recorded remittances from Korea so low for some 19,000 Bangladeshi workers: is hundi (환치기) the main channel?
@@ -2343,7 +2343,7 @@ Handing over, selling, buying or lending a bank account in Korea (a daepo tongja
 
 ### 16.4 How much comes from Korea
 
-Bangladesh Bank recorded remittances from South Korea of USD 135.46 million in 2021-22, USD 118.69 million in 2022-23 and USD 95.06 million in July 2023-April 2024 <sup>[34 (2024)](#o34)</sup>. In July-September 2026, Korea ranked 14th among source countries, with USD 16.76 million in the quarter <sup>[35](#o35)</sup>.
+Bangladesh Bank recorded remittances from South Korea of USD 135.46 million in 2021-22, USD 118.69 million in 2022-23 and USD 95.06 million in July 2023-April 2024 <sup>[34 (2024)](#o34)</sup>. In July-September 2026, Korea ranked 14th among source countries, with USD 108.01 million in the quarter <sup>[35](#o35)</sup>.
 
 <a id="saving-and-pension-in-bangladesh"></a>
 
