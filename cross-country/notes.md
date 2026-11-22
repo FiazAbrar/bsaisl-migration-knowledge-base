@@ -677,3 +677,8 @@ Checked 19 November 2026 against facts.csv quotes and the saved sources. All cha
 - Fortify Rights/Truth Hounds figures (104 recruited, 34 killed) come from RFE/RL (Nov 2026); the saved Fortify Rights March 2026 page doesn't contain them.
 - Embassy contacts for Tripoli and Moscow and the CID THB Unit's public number remain Need to know items (not re-searched).
 - Not every source behind every sentence was opened in full; numbers and allegations were all checked against saved text, other sentences against the quotes.
+
+## Conflicts resolved, 22 Nov 2026 (from the bot's prompt test)
+
+- SVP fee: skills-test racket section said USD 50 (BMET leaflets VS0050/VS0051, Oct-Dec 2025); the fee rose to USD 85 in early September 2026 (F0091). Section now says USD 85 since September 2026.
+- Debt payback example aligned with the Saudi guide's rate (SR 1 = Tk 33): Tk 8,250, about 55 months (was Tk 8,300 at Tk 33.20, 54 months).

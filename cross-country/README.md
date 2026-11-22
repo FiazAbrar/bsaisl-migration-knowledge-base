@@ -354,7 +354,7 @@ The main Bangladesh-side fees (the full list for Saudi Arabia is in the Saudi do
 
 #### 1.1.9 How long will it take to pay back what I spend?
 
-In 2020 men took 19 months or more on average to recover what they spent <sup>[N36 (2020)](#n36)</sup>. A Saudi worker on SR 800 with free housing who buys his own food (SR 500 or more a month) and phone (SR 50 or more) keeps at most SR 250, about Tk 8,300 at Tk 33.20 a riyal <sup>[N30](#n30), [N37](#n37)</sup>; at that rate a Tk 4.5 lakh debt takes about 54 months to repay before interest, against a usual two-year contract <sup>[39](#o39)</sup>. Many low-skilled Gulf workers struggle to send even Tk 15,000 to 20,000 a month; at that rate the same debt takes 23 to 30 months <sup>[N38 (2024)](#n38)</sup>. Malaysia workers who paid high fees stayed in debt for two to three years (2024) <sup>[N39 (2024)](#n39)</sup>.
+In 2020 men took 19 months or more on average to recover what they spent <sup>[N36 (2020)](#n36)</sup>. A Saudi worker on SR 800 with free housing who buys his own food (SR 500 or more a month) and phone (SR 50 or more) keeps at most SR 250, about Tk 8,250 at Tk 33 a riyal <sup>[N30](#n30), [N37](#n37)</sup>; at that rate a Tk 4.5 lakh debt takes about 55 months to repay before interest, against a usual two-year contract <sup>[39](#o39)</sup>. Many low-skilled Gulf workers struggle to send even Tk 15,000 to 20,000 a month; at that rate the same debt takes 23 to 30 months <sup>[N38 (2024)](#n38)</sup>. Malaysia workers who paid high fees stayed in debt for two to three years (2024) <sup>[N39 (2024)](#n39)</sup>.
 
 <a id="who-pays-for-the-air-ticket"></a>
 
@@ -1163,14 +1163,14 @@ A "free visa" (ফ্রি ভিসা) is a real visa bought from a sponsor w
 
 **How it works:**
 
-1. Saudi-bound workers take a skill test under the SVP (Skill Verification Program) run by Takamol, for a set fee of USD 50 (about Tk 6,200); dalals ask more, promising a pass <sup>[64](#o64), [63](#o63)</sup>.
+1. Saudi-bound workers take a skill test under the SVP (Skill Verification Program) run by Takamol, for a set fee, USD 85 since early September 2026 (it was USD 50); dalals ask more, promising a pass <sup>[64](#o64), [N30](#n30), [63](#o63)</sup>.
 2. Jordan garment jobs go through a government channel that is meant to be free, and cheats charge for it <sup>[N131](#n131)</sup>.
 
 **What dalals say:** that they can fix the result; one ILO study found dalals telling candidates how to identify themselves to the interviewer, for example with a nail-polish colour on a set finger <sup>[142 (2018)](#o142)</sup>.
 
 **Red flags:**
 
-- any payment beyond the USD 50 test fee: BMET says paying extra cannot buy a Saudi skill-test pass <sup>[63](#o63)</sup>;
+- any payment beyond the test fee (USD 85 since September 2026): BMET says paying extra cannot buy a Saudi skill-test pass <sup>[N30](#n30), [63](#o63)</sup>;
 - a fee for a government-to-government job: BOESL (Bangladesh Overseas Employment and Services Limited, the state recruiting company) has no agent or sub-agent and takes no cash <sup>[143](#o143)</sup>.
 
 **Check before paying:** see Saudi Arabia doc: Work visa: company worker, Step 3: Pass the skill test, for the official booking and fee <sup>[63](#o63)</sup>.
