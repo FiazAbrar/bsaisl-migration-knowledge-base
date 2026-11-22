@@ -1,0 +1,11 @@
+# Docker build context = this folder. Keep keys, local environments and local data out of the image.
+.env
+.env.*
+!.env.example
+.venv/
+data/
+**/__pycache__/
+**/*.pyc
+evals/
+start.bat
+start.ps1

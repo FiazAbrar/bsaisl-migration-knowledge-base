@@ -140,8 +140,9 @@ def _load_facts(folder: Path, slug: str) -> list[tuple]:
     return rows
 
 
-def build() -> dict:
-    kb = _kb_dir()
+def build(kb: Path | None = None, extra_meta: dict | None = None) -> dict:
+    """Index the guides in kb (default: KB_DIR or the repository this bot sits in)."""
+    kb = kb or _kb_dir()
     docs = [(p.parent.name, p) for p in sorted((kb / "countries").glob("*/doc.md"))]
     for shared in ("agencies", "cross-country"):  # guides that apply to every country
         if (kb / shared / "doc.md").exists():
@@ -179,6 +180,7 @@ def build() -> dict:
     db.executemany("INSERT INTO meta VALUES (?,?)", [
         ("built_at", datetime.now(timezone.utc).isoformat(timespec="seconds")),
         ("kb_dir", str(kb)),
+        *(extra_meta or {}).items(),
     ])
     db.commit()
     db.close()

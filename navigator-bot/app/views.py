@@ -50,4 +50,5 @@ def health():
         kb = kb_index.info()
     except FileNotFoundError as e:
         return jsonify({"status": "error", "message": str(e)}), 500
-    return jsonify({"status": "ok", "kb_built_at": kb["built_at"], "kb_sections": kb["sections"]}), 200
+    return jsonify({"status": "ok", "kb_built_at": kb["built_at"], "kb_sections": kb["sections"],
+                    "kb_commit": kb.get("kb_commit", "local")}), 200
