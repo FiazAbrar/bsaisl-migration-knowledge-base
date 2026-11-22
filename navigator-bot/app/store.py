@@ -1,6 +1,6 @@
 """Small local database (data/state.sqlite) for conversation memory and duplicate checks.
 
-- Users are stored only as a keyed hash of their WhatsApp id, never the raw number.
+- Users are stored only as a keyed hash of their WhatsApp or Telegram id, never the raw id.
 - Conversation turns and remembered countries are deleted after RETENTION_DAYS.
 - Message ids are kept 7 days so Meta's retries are never answered twice, even after a restart.
 """

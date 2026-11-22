@@ -83,13 +83,7 @@ def process_message(config, msg: dict):
         send_text(config, msg, "Please send your question as a text message.")
         return
     user = store.user_key(msg.get("user_id") or msg.get("phone") or "", config["META_APP_SECRET"])
-    remember = not answer.is_memory_command(msg["text"])  # don't store "delete my data" itself
-    if remember:
-        store.add_turn(user, "user", msg["text"])
-    text = to_whatsapp_format(answer.reply(user, msg["text"]))
-    send_text(config, msg, text)
-    if remember:
-        store.add_turn(user, "bot", text)
+    send_text(config, msg, to_whatsapp_format(answer.respond(user, msg["text"])))
 
 
 def app_config() -> dict:

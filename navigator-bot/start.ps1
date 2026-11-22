@@ -36,6 +36,9 @@ if (-not $ngrok) { throw "ngrok not found. Install it with: winget install ngrok
 Get-Process ngrok -ErrorAction SilentlyContinue | Stop-Process -Force
 Start-Process -FilePath $ngrok -ArgumentList "http 8000 --url https://$domain" -WindowStyle Minimized
 Write-Host "Tunnel: https://$domain/webhook  (ngrok runs in a minimized window)"
+if ($envVars["TELEGRAM_BOT_TOKEN"]) {
+    Write-Host "Telegram: https://$domain/telegram  (the bot registers this webhook with Telegram as it starts)"
+}
 
 Write-Host "Starting bot. Press Ctrl+C to stop."
 & $py run.py

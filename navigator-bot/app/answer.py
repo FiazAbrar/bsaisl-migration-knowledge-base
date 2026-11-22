@@ -22,6 +22,29 @@ def _country_list() -> str:
     return ", ".join(names)
 
 
+def welcome() -> str:
+    """First message for a new user (Telegram /start)."""
+    return ("Hello! I answer questions about going abroad to work, from BRAC's guides for Bangladeshi workers.\n"
+            f"I have guides for: {_country_list()}.\n"
+            "Tell me the country, then ask your question, for example: *Saudi Arabia*, then *medical check cost*.\n"
+            "Send *reset* to start over, or *delete my data* to erase your history.")
+
+
+def respond(user: str, text: str) -> str:
+    """Reply to one message and keep the conversation memory. Every channel calls this.
+
+    `user` is already hashed (store.user_key). Returns Markdown-style text (*bold*);
+    each channel converts it to its own format.
+    """
+    remember = not is_memory_command(text)  # don't store "delete my data" itself
+    if remember:
+        store.add_turn(user, "user", text)
+    out = reply(user, text)
+    if remember:
+        store.add_turn(user, "bot", out)
+    return out
+
+
 def reply(user: str, text: str) -> str:
     low = text.strip().lower()
     if low in FORGET_WORDS:
