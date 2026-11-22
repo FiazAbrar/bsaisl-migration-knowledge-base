@@ -1,0 +1,463 @@
+<title>Navigator Bot Handover</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: single reading column with a sticky part index on wide screens; parts are real steps, so numbering carries meaning. */
+:root {
+  --bg: #f6f7f5;
+  --surface: #ffffff;
+  --fg: #1b2420;
+  --muted: #5b6862;
+  --line: #dde3df;
+  --accent: #0b7a5a;      /* WhatsApp-adjacent green, darkened for text contrast */
+  --accent-soft: #e3f2ec;
+  --warn: #9a5b00;
+  --warn-soft: #fdf1df;
+  --stop: #a3322b;
+  --stop-soft: #fbe8e6;
+  --code-bg: #eef1ef;
+  --font-display: "Space Grotesk", "Segoe UI", system-ui, sans-serif;
+  --font-body: "Inter", "Segoe UI", system-ui, -apple-system, sans-serif;
+  --font-mono: "JetBrains Mono", Consolas, "Courier New", monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #121715; --surface: #1a211e; --fg: #e4ebe7; --muted: #9aa8a1; --line: #2c3632;
+    --accent: #4cc79a; --accent-soft: #173229; --warn: #e3a54a; --warn-soft: #332611;
+    --stop: #ef8a80; --stop-soft: #3a1c19; --code-bg: #222b27; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #121715; --surface: #1a211e; --fg: #e4ebe7; --muted: #9aa8a1; --line: #2c3632;
+  --accent: #4cc79a; --accent-soft: #173229; --warn: #e3a54a; --warn-soft: #332611;
+  --stop: #ef8a80; --stop-soft: #3a1c19; --code-bg: #222b27; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--fg); font-family: var(--font-body); font-size: 16px; line-height: 1.6;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+.wrap { max-width: 1120px; margin: 0 auto; padding-block: 40px 80px; display: grid; grid-template-columns: 220px minmax(0, 1fr); gap: 48px; }
+nav.index { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 24px); align-self: start; font-size: 14px; }
+nav.index p { font-family: var(--font-display); font-weight: 600; text-transform: uppercase; letter-spacing: .06em; font-size: 12px; color: var(--muted); margin: 0 0 8px; }
+nav.index ol { list-style: none; margin: 0; padding: 0; display: grid; gap: 2px; }
+nav.index a { display: block; padding: 4px 8px; border-radius: 6px; color: var(--fg); text-decoration: none; }
+nav.index a:hover, nav.index a:focus-visible { background: var(--accent-soft); color: var(--accent); outline: none; }
+main { min-width: 0; max-width: 760px; }
+header.top { margin-bottom: 32px; }
+.eyebrow { font-family: var(--font-display); text-transform: uppercase; letter-spacing: .08em; font-size: 12px; color: var(--accent); font-weight: 600; margin: 0 0 8px; }
+h1 { font-family: var(--font-display); font-size: clamp(30px, 5vw, 42px); line-height: 1.1; margin: 0 0 12px; text-wrap: balance; }
+h2 { font-family: var(--font-display); font-size: 24px; line-height: 1.25; margin: 0 0 12px; text-wrap: balance; display: flex; gap: 12px; align-items: baseline; }
+h2 .num { color: var(--accent); font-variant-numeric: tabular-nums; }
+h3 { font-family: var(--font-display); font-size: 18px; margin: 24px 0 8px; }
+section.part { padding-block: 32px; border-top: 1px solid var(--line); }
+p, li { max-width: 68ch; }
+.lead { font-size: 18px; color: var(--muted); }
+ol.steps { padding-left: 1.4em; display: grid; gap: 10px; }
+ol.steps > li::marker { font-weight: 600; color: var(--accent); }
+ul { padding-left: 1.2em; display: grid; gap: 6px; }
+b, strong { font-weight: 600; }
+.ui { font-weight: 600; background: var(--accent-soft); color: var(--accent); padding: 0 5px; border-radius: 4px; white-space: nowrap; }
+code { font-family: var(--font-mono); font-size: .88em; background: var(--code-bg); padding: 1px 5px; border-radius: 4px; overflow-wrap: anywhere; }
+pre { font-family: var(--font-mono); font-size: 13.5px; line-height: 1.5; background: var(--code-bg); border: 1px solid var(--line); padding: 14px 16px; border-radius: 8px; overflow-x: auto; margin: 10px 0; }
+pre code { background: none; padding: 0; font-size: inherit; overflow-wrap: normal; }
+.note { border-left: 4px solid var(--accent); background: var(--accent-soft); padding: 12px 16px; border-radius: 0 8px 8px 0; margin: 14px 0; }
+.note.warn { border-color: var(--warn); background: var(--warn-soft); }
+.note.stop { border-color: var(--stop); background: var(--stop-soft); }
+.note p { margin: 0; }
+.note p + p { margin-top: 6px; }
+.note .label { font-weight: 600; }
+.roles { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px; margin: 16px 0; }
+.role { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; }
+.role h4 { margin: 0 0 6px; font-family: var(--font-display); font-size: 15px; }
+.role ul { margin: 0; font-size: 14.5px; }
+.tablewrap { overflow-x: auto; margin: 12px 0; border: 1px solid var(--line); border-radius: 8px; }
+table { border-collapse: collapse; width: 100%; font-size: 14.5px; background: var(--surface); }
+th, td { text-align: left; vertical-align: top; padding: 10px 12px; border-bottom: 1px solid var(--line); }
+th { font-family: var(--font-display); font-weight: 600; font-size: 13px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
+tr:last-child td { border-bottom: none; }
+td:first-child { font-weight: 500; }
+.tag { font-size: 12px; font-weight: 600; padding: 1px 7px; border-radius: 999px; white-space: nowrap; }
+.tag.secret { background: var(--stop-soft); color: var(--stop); }
+.tag.public { background: var(--accent-soft); color: var(--accent); }
+details.qgroup { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 12px 16px; margin: 10px 0; }
+details.qgroup summary { cursor: pointer; font-family: var(--font-display); font-weight: 600; }
+details.qgroup ol { margin: 10px 0 4px; padding-left: 1.3em; display: grid; gap: 6px; }
+a { color: var(--accent); }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+footer { margin-top: 40px; color: var(--muted); font-size: 14px; }
+@media (max-width: 860px) {
+  .wrap { grid-template-columns: minmax(0, 1fr); gap: 0; padding-block: 24px 56px; }
+  nav.index { position: static; margin-bottom: 24px; }
+  nav.index ol { grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); }
+}
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
+</style>
+
+<div class="wrap">
+<nav class="index" aria-label="Parts of this guide">
+  <p>Contents</p>
+  <ol>
+    <li><a href="#overview">0. Who does what</a></li>
+    <li><a href="#before">1. Before you start</a></li>
+    <li><a href="#app">2. Create the Meta app</a></li>
+    <li><a href="#waba">3. WhatsApp account</a></li>
+    <li><a href="#number">4. Phone number</a></li>
+    <li><a href="#token">5. Permanent token</a></li>
+    <li><a href="#secrets">6. App secret, verify token</a></li>
+    <li><a href="#billing">7. Billing</a></li>
+    <li><a href="#hosting">8. Host the bot</a></li>
+    <li><a href="#webhook">9. Connect the webhook</a></li>
+    <li><a href="#publish">10. Publish the app</a></li>
+    <li><a href="#test">11. Test</a></li>
+    <li><a href="#troubleshoot">12. If something fails</a></li>
+    <li><a href="#sendback">13. What to send back</a></li>
+    <li><a href="#policy">14. Meta rules for this bot</a></li>
+    <li><a href="#questions">15. Questions for BRAC IT</a></li>
+  </ol>
+</nav>
+
+<main>
+<header class="top">
+  <p class="eyebrow">BSAISL Migration Pathway Navigator · WhatsApp Cloud API</p>
+  <h1>Setting up the Navigator bot on BRAC IT's WhatsApp account</h1>
+  <p class="lead">Step-by-step setup for BRAC IT, from an empty WhatsApp account to the bot answering on BRAC's own number. It is based on the test setup we completed on 17 November 2026, including every problem we hit and how we fixed it.</p>
+  <div class="note warn"><p><span class="label">Meta renames buttons often.</span> Labels below match Meta's dashboard in November 2026. If a label differs, look for the closest match; the order of steps stays the same. All API calls use Graph API version <code>v27.0</code>.</p></div>
+</header>
+
+<section class="part" id="overview">
+  <h2><span class="num">0</span> Who does what</h2>
+  <p>The bot is a small Python web service. It receives WhatsApp messages from Meta, looks up the answer in the BSAISL knowledge base (the country guides) and replies. Moving it to BRAC IT means BRAC IT owns every account and secret; the code does not change, only its settings file (<code>.env</code>).</p>
+  <div class="roles">
+    <div class="role"><h4>BRAC IT</h4><ul>
+      <li>Meta app, WhatsApp account and phone number in BRAC IT's verified portfolio</li>
+      <li>Permanent access token, app secret, verify token</li>
+      <li>Server with a public HTTPS address</li>
+      <li>Billing, privacy policy page, publishing the app</li>
+    </ul></div>
+    <div class="role"><h4>BSAISL bot team</h4><ul>
+      <li>Bot code (git repository), Dockerfile, <code>.env.example</code></li>
+      <li>Knowledge base and how to update it</li>
+      <li>Draft privacy policy text</li>
+      <li>Help with testing and fixing</li>
+    </ul></div>
+  </div>
+  <div class="note stop"><p><span class="label">Secrets stay with BRAC IT.</span> The access token, app secret, verify token and the phone number's PIN go only into the server's <code>.env</code> and BRAC IT's password manager. Please don't send them to us by email or chat. Section 13 lists what we need back; none of it is secret.</p></div>
+  <p>Estimated time on BRAC IT's side: about 2 hours of Meta setup (parts 2–7 and 9–10), plus the time to get the server ready (part 8) and Meta's review of the display name, which can take from minutes to a few days.</p>
+</section>
+
+<section class="part" id="before">
+  <h2><span class="num">1</span> Before you start</h2>
+  <p>Have these ready. The first five block the setup if missing.</p>
+  <ol class="steps">
+    <li><b>Admin access</b> to BRAC IT's verified business portfolio in Meta Business Suite (<code>business.facebook.com</code>), with two-factor authentication turned on for your Facebook account. Some token screens refuse to work without it.</li>
+    <li><b>A phone number for the bot</b> that is <b>not</b> used on WhatsApp or WhatsApp Business right now. A new mobile SIM is best. It must:
+      <ul>
+        <li>have a country code (+880) and be able to receive an SMS or a voice call, including from abroad (the code comes from Meta's systems);</li>
+        <li>be owned by BRAC (you will need it again to move or delete the number).</li>
+      </ul>
+      If the number already has WhatsApp, delete that WhatsApp account first (in the WhatsApp app: <span class="ui">Settings → Account → Delete account</span>). Uninstalling the app is not enough.</li>
+    <li><b>The display name</b> people will see, for example a name that clearly belongs to BRAC. Meta reviews it and rejects generic names (like "Migration Help") that don't match the business.</li>
+    <li><b>A server or hosting platform</b> that can run a Docker container all the time and give it a public HTTPS address with a valid certificate (part 8).</li>
+    <li><b>A privacy policy page</b> on a public URL, ideally on a BRAC domain. We provide draft text (<code>docs/PRIVACY.md</code> in the repository) for BRAC's legal team to adapt.</li>
+    <li>An app icon: any square image, 1024 × 1024 pixels.</li>
+    <li>A payment method for WhatsApp billing, or confirmation that BRAC qualifies for Meta's non-profit exemption (part 7).</li>
+  </ol>
+</section>
+
+<section class="part" id="app">
+  <h2><span class="num">2</span> Create the Meta app</h2>
+  <ol class="steps">
+    <li>Log in at <code>developers.facebook.com</code> with the Facebook account that is admin of BRAC IT's portfolio. If it isn't registered as a developer yet, click <span class="ui">Get Started</span>, verify phone and email, choose <span class="ui">Developer</span> and click <span class="ui">Complete registration</span>.</li>
+    <li>Open <code>developers.facebook.com/apps</code> and click <span class="ui">Create App</span>.</li>
+    <li><b>App details:</b> app name, for example <code>BRAC Navigator Bot</code>, and a BRAC contact email. Click <span class="ui">Next</span>.</li>
+    <li><b>Use case:</b> select <span class="ui">Connect with customers through WhatsApp</span>. Click <span class="ui">Next</span>.</li>
+    <li><b>Business:</b> select <b>BRAC IT's existing verified portfolio</b>. Don't create a new one. Click <span class="ui">Next</span>.</li>
+    <li><b>Requirements:</b> probably none listed. Click <span class="ui">Next</span>, check the overview, then <span class="ui">Create app</span>. Enter the Facebook password if asked.</li>
+  </ol>
+  <p>You land on the app <span class="ui">Dashboard</span>. Click <span class="ui">Customize the Connect with customers through WhatsApp use case</span>. The menu that opens reads <span class="ui">Overview</span>, then <span class="ui">Basic setup</span> with <span class="ui">Step 1. Try it out</span>, <span class="ui">Step 2. Production setup</span> and <span class="ui">Step 3. Business verification</span>. Keep <span class="ui">Integrate with API</span> selected (not "Become a Partner"). Older dashboards show the same pages as <span class="ui">Quickstart / API Setup / Configuration</span>.</p>
+  <div class="note"><p>Ignore <b>Become a Tech Provider</b>, <b>Facebook Login for Business</b> and <b>Embedded Signup</b>. BRAC is using its own account directly, so none of them are needed. <b>Step 3. Business verification</b> should already show as done because the portfolio is verified.</p></div>
+</section>
+
+<section class="part" id="waba">
+  <h2><span class="num">3</span> Create the WhatsApp Business account</h2>
+  <p>Meta calls it a "WhatsApp Business account" (WABA) or, on newer screens, a "Messaging account". BRAC IT doesn't have one yet; it is created here.</p>
+  <ol class="steps">
+    <li>Click <span class="ui">Step 1. Try it out</span>.</li>
+    <li>Under <span class="ui">API Setup</span>, find the Messaging account selector. If none is selected, click <span class="ui">Create a WhatsApp Business account</span> and follow the prompts (business name, time zone, category).</li>
+    <li>Copy the <b>Messaging account ID</b> (also shown as WhatsApp Business Account ID). This is <code>WHATSAPP_BUSINESS_ACCOUNT_ID</code>.</li>
+    <li>Meta also creates a free <b>test number</b> (+1 555…). You can use it to try everything below before the real number is ready: under <span class="ui">To</span>, open <span class="ui">Manage phone number list</span>, add a team member's WhatsApp number and enter the code it receives, then click <span class="ui">Send message</span>. A "Hello World" message should arrive. Reply "hi" to it, which opens a 24-hour window in which the bot may answer.</li>
+  </ol>
+  <p>When the screen asks which WhatsApp accounts the app may access (a pop-up after <span class="ui">Generate access token</span>), choose <span class="ui">Opt in to current WhatsApp accounts only</span> and tick the new account. That token is temporary; the permanent one comes in part 5.</p>
+</section>
+
+<section class="part" id="number">
+  <h2><span class="num">4</span> Add, verify and register BRAC's phone number</h2>
+  <p>This happens in three stages, and the last one can only be done by API call: adding the number in the dashboard does not make it work yet.</p>
+
+  <h3>4a. Add the number and set the display name</h3>
+  <ol class="steps">
+    <li>Open WhatsApp Manager: <code>business.facebook.com/latest/whatsapp_manager</code>, select BRAC IT's portfolio and the new Messaging account.</li>
+    <li>Go to <span class="ui">Account tools → Phone numbers</span> and click <span class="ui">Add phone number</span>. (Alternatively, in the app dashboard: <span class="ui">Step 2. Production setup → Register your WhatsApp phone number</span>.)</li>
+    <li>Fill in the <b>display name</b>, <b>category</b> (for example Nonprofit or Education), a short description and the time zone (Asia/Dhaka).</li>
+  </ol>
+
+  <h3>4b. Verify the number</h3>
+  <ol class="steps">
+    <li>Choose <span class="ui">Text message</span> (SMS) or <span class="ui">Phone call</span>. Keep the SIM in a phone with signal, and allow international SMS and calls.</li>
+    <li>Enter the 6-digit code. The number now appears in the list. Click it and copy its <b>Phone number ID</b>. This is <code>WHATSAPP_PHONE_NUMBER_ID</code>. (The phone number ID is a long number, different from the phone number itself.)</li>
+  </ol>
+
+  <h3>4c. Register the number for the Cloud API (API call, required)</h3>
+  <p>Meta's documentation states that registration can only be done by API, not in WhatsApp Manager or the dashboard. You need the permanent token from part 5 first, so come back here after part 5. Pick a 6-digit PIN; this becomes the number's two-step verification PIN. Store it in the password manager, because it is needed to move or delete the number later.</p>
+<pre><code>curl -X POST "https://graph.facebook.com/v27.0/&lt;WHATSAPP_PHONE_NUMBER_ID&gt;/register" \
+  -H "Authorization: Bearer &lt;WHATSAPP_ACCESS_TOKEN&gt;" \
+  -H "Content-Type: application/json" \
+  -d '{"messaging_product": "whatsapp", "pin": "&lt;6-DIGIT-PIN&gt;"}'</code></pre>
+  <p>Expected answer: <code>{"success":true}</code>. Then check the number's state:</p>
+<pre><code>curl "https://graph.facebook.com/v27.0/&lt;WHATSAPP_PHONE_NUMBER_ID&gt;?fields=display_phone_number,verified_name,status,name_status,quality_rating,code_verification_status" \
+  -H "Authorization: Bearer &lt;WHATSAPP_ACCESS_TOKEN&gt;"</code></pre>
+  <p>You want <code>"status": "CONNECTED"</code> and <code>"code_verification_status": "VERIFIED"</code>. <code>name_status</code> shows the display-name review: <code>APPROVED</code> or <code>AVAILABLE_WITHOUT_REVIEW</code> is fine; <code>PENDING_REVIEW</code> means wait; <code>DECLINED</code> means choose another name in WhatsApp Manager.</p>
+  <div class="note warn">
+    <p><span class="label">Limits.</span> The register call allows only 10 tries per number in 72 hours (error <code>133016</code> after that), so check the token and PIN before retrying.</p>
+    <p><span class="label">If the display name changes later:</span> after Meta approves the new name, run the same register call again, or the old name stays.</p>
+  </div>
+</section>
+
+<section class="part" id="token">
+  <h2><span class="num">5</span> Create a permanent access token (System User)</h2>
+  <p>The token on the dashboard's API Setup page expires within hours. The bot needs a token that belongs to a <b>System User</b> (an account for software, not a person).</p>
+  <ol class="steps">
+    <li>Open <code>business.facebook.com/latest/settings</code> and check BRAC IT's portfolio is selected (top left).</li>
+    <li>Go to <span class="ui">Users → System users</span> and click <span class="ui">+ Add</span>. Name: <code>navigator-bot</code>. Role: <span class="ui">Admin</span>. Click <span class="ui">Create system user</span>.</li>
+    <li>Click the new user's name, then <span class="ui">Assign assets</span>:
+      <ul>
+        <li><span class="ui">Apps</span> → the bot app → turn on <b>Manage app</b> (Full control).</li>
+        <li><span class="ui">WhatsApp accounts</span> → the new account → turn on <b>Full access → Everything</b>.</li>
+        <li><span class="ui">Messaging accounts → Linked accounts</span>, if the account is listed there → Full access too. Meta's docs say the token needs access to both the WhatsApp account and the Messaging account.</li>
+      </ul>
+      Click <span class="ui">Assign assets</span>. Wait a minute and reload the page: both the app and the account must now appear under the user.</li>
+    <li>On the same System User panel, next to <span class="ui">Assign assets</span>, click <span class="ui">Generate token</span> (it may read <span class="ui">Generate new token</span>, or sit under the <span class="ui">⋯</span> menu):
+      <ul>
+        <li><b>App:</b> the bot app.</li>
+        <li><b>Expiry:</b> <span class="ui">Never</span>. If only "60 days" is offered, take it and put a renewal date in the team calendar.</li>
+        <li><b>Permissions:</b> tick <code>whatsapp_business_messaging</code> and <code>whatsapp_business_management</code>; also <code>business_management</code> if it is listed. Leave the others unticked.</li>
+      </ul>
+      Click <span class="ui">Generate token</span> and copy it at once into the password manager. Meta shows it only once. This is <code>WHATSAPP_ACCESS_TOKEN</code>.</li>
+  </ol>
+  <p>Check the token works (replace the two values):</p>
+<pre><code>curl "https://graph.facebook.com/v27.0/debug_token?input_token=&lt;WHATSAPP_ACCESS_TOKEN&gt;" \
+  -H "Authorization: Bearer &lt;WHATSAPP_ACCESS_TOKEN&gt;"</code></pre>
+  <p>Look for <code>"is_valid": true</code>, <code>"type": "SYSTEM_USER"</code>, the two WhatsApp permissions under <code>scopes</code>, and <code>"expires_at": 0</code> (never expires) or a date.</p>
+  <div class="note"><p><span class="label">Problems we hit:</span> the <b>Generate token</b> button doesn't appear until the app is assigned, which can take a minute or two after <b>Assign assets</b> (reload the page). Some accounts must turn on two-factor authentication first.</p></div>
+</section>
+
+<section class="part" id="secrets">
+  <h2><span class="num">6</span> App secret and verify token</h2>
+  <ol class="steps">
+    <li><b>App secret:</b> in the app dashboard, left menu <span class="ui">App settings → Basic</span>, next to <b>App secret</b> click <span class="ui">Show</span> and enter the password. This is <code>META_APP_SECRET</code>. The bot uses it to check that every incoming message really comes from Meta.</li>
+    <li><b>Verify token:</b> a random string you make up. Meta sends it once when you connect the webhook (part 9), and the bot checks it matches. One way to make one:
+<pre><code>python -c "import secrets; print(secrets.token_urlsafe(24))"</code></pre>
+      This is <code>WHATSAPP_VERIFY_TOKEN</code>.</li>
+  </ol>
+</section>
+
+<section class="part" id="billing">
+  <h2><span class="num">7</span> Billing</h2>
+  <p>Since 1 October 2026 Meta charges for replies too: each phone number gets <b>1,000 free service messages a month</b>, and from the 1,001st each reply is charged. Without a payment method on file, replies simply stop being delivered once the free 1,000 are used.</p>
+  <ol class="steps">
+    <li>In WhatsApp Manager (or <span class="ui">Business settings → Billing and payments</span>), open the WhatsApp payment settings and add a payment method (card or BRAC's billing arrangement with Meta).</li>
+    <li><b>Check the non-profit exemption.</b> Meta announced that eligible government and non-profit organisations keep free service messages beyond 1,000 a month until 31 December 2027. Meta decides eligibility. Ask Meta support (or BRAC's Meta contact) whether BRAC's account qualifies. When it applies, Meta's message-status data shows the pricing type <code>paid_exempt</code>.</li>
+  </ol>
+  <div class="note warn"><p>We could not confirm the exact Bangladesh rates from Meta's rate card. Please check the current rates in WhatsApp Manager before the user-testing rounds.</p></div>
+</section>
+
+<section class="part" id="hosting">
+  <h2><span class="num">8</span> Host the bot</h2>
+  <p>Meta delivers each message to the bot's webhook address, so the bot must be running and reachable <b>before</b> part 9.</p>
+  <h3>What the server needs</h3>
+  <ul>
+    <li><b>Always on.</b> No platform that sleeps when idle: Meta retries late deliveries, and slow replies feel broken to users.</li>
+    <li><b>A public HTTPS address with a valid certificate</b>, for example <code>https://navigator-bot.&lt;brac-domain&gt;/webhook</code>. Meta rejects self-signed certificates.</li>
+    <li>A reverse proxy (or the platform's router) sending traffic to the container's port <b>8000</b>.</li>
+    <li><b>Outbound HTTPS</b> to <code>graph.facebook.com</code> (WhatsApp) and to the AI provider (currently <code>openrouter.ai</code>; this may change after the model test).</li>
+    <li><b>A persistent folder for <code>data/</code>.</b> It holds the conversation memory (kept 30 days, users stored only as scrambled codes) and the search index. The index can be rebuilt; the memory would be lost.</li>
+    <li><b>The knowledge base folder</b> mounted read-only, with its path in <code>KB_DIR</code>. The bot never edits it.</li>
+    <li>Small resources are enough to start: 1 vCPU, 1 GB RAM, about 1 GB disk for the bot plus the knowledge base (the guides' text is small; the full research archive is 3.4 GB but the bot doesn't need it).</li>
+  </ul>
+  <h3>Deploy</h3>
+  <ol class="steps">
+    <li>Get the bot repository from us (git). It will include a <code>Dockerfile</code>, <code>.env.example</code> and a README. <i>These handover files are being finished after the AI model test; until then, part 8 can be prepared but not completed.</i></li>
+    <li>Copy <code>.env.example</code> to <code>.env</code> on the server and fill it in:
+      <div class="tablewrap"><table>
+        <thead><tr><th>Setting</th><th>Where it comes from</th><th></th></tr></thead>
+        <tbody>
+          <tr><td><code>WHATSAPP_PHONE_NUMBER_ID</code></td><td>Part 4b</td><td><span class="tag public">not secret</span></td></tr>
+          <tr><td><code>WHATSAPP_BUSINESS_ACCOUNT_ID</code></td><td>Part 3</td><td><span class="tag public">not secret</span></td></tr>
+          <tr><td><code>WHATSAPP_ACCESS_TOKEN</code></td><td>Part 5</td><td><span class="tag secret">secret</span></td></tr>
+          <tr><td><code>META_APP_SECRET</code></td><td>Part 6</td><td><span class="tag secret">secret</span></td></tr>
+          <tr><td><code>WHATSAPP_VERIFY_TOKEN</code></td><td>Part 6</td><td><span class="tag secret">secret</span></td></tr>
+          <tr><td><code>GRAPH_API_VERSION</code></td><td><code>v27.0</code></td><td><span class="tag public">not secret</span></td></tr>
+          <tr><td><code>PUBLIC_DOMAIN</code></td><td>The server's public address, without <code>https://</code></td><td><span class="tag public">not secret</span></td></tr>
+          <tr><td><code>KB_DIR</code></td><td>Path of the mounted knowledge base folder</td><td><span class="tag public">not secret</span></td></tr>
+          <tr><td><code>LLM_BASE_URL</code>, <code>LLM_API_KEY</code>, <code>LLM_MODEL</code></td><td>The AI provider BRAC approves (question group C)</td><td><span class="tag secret">key is secret</span></td></tr>
+        </tbody>
+      </table></div></li>
+    <li>Build the search index from the knowledge base, then start the bot (the exact Docker commands will be in the README):
+<pre><code>python -m app.kb_index      # builds data/kb.sqlite from KB_DIR
+python run.py               # serves on port 8000</code></pre></li>
+    <li>Check from outside: open <code>https://&lt;PUBLIC_DOMAIN&gt;/health</code>. It must answer <code>{"status": "ok", "kb_built_at": …, "kb_sections": …}</code>.</li>
+    <li>Check the webhook answers Meta's handshake (use your verify token):
+<pre><code>curl "https://&lt;PUBLIC_DOMAIN&gt;/webhook?hub.mode=subscribe&amp;hub.verify_token=&lt;WHATSAPP_VERIFY_TOKEN&gt;&amp;hub.challenge=12345"</code></pre>
+      It must print <code>12345</code>. With a wrong token it returns error 403, which is correct.</li>
+  </ol>
+  <p><b>When the knowledge base is updated</b> (copy or <code>git pull</code> into <code>KB_DIR</code>), run <code>python -m app.kb_index</code> again. The new index replaces the old one in one step, so the bot keeps running.</p>
+</section>
+
+<section class="part" id="webhook">
+  <h2><span class="num">9</span> Connect the webhook</h2>
+  <h3>9a. Callback URL and verify token</h3>
+  <ol class="steps">
+    <li>In the app dashboard: <span class="ui">Use cases → Customize → Connect on WhatsApp → Step 2. Production setup</span>, section <span class="ui">Configure Webhooks</span>. (Older dashboards: <span class="ui">WhatsApp → Configuration → Webhook → Edit</span>.)</li>
+    <li><b>Callback URL:</b> <code>https://&lt;PUBLIC_DOMAIN&gt;/webhook</code></li>
+    <li><b>Verify token:</b> the <code>WHATSAPP_VERIFY_TOKEN</code> value.</li>
+    <li>Leave <b>Attach a client certificate</b> <b>off</b>. The bot checks Meta's signature on every message with the app secret instead.</li>
+    <li>Click <span class="ui">Verify and save</span>. It must show success. If it says the URL could not be validated, the bot isn't reachable or the token differs (see part 12).</li>
+  </ol>
+  <h3>9b. Subscribe to messages</h3>
+  <p>The <span class="ui">Webhook fields</span> list appears only after a successful <b>Verify and save</b>, under the same section. Find <code>messages</code>, set it to <span class="ui">Subscribed</span> (toggle, or <span class="ui">Manage → Subscribe</span>). The other fields can stay as they are.</p>
+  <h3>9c. Link the app to the WhatsApp account (API call)</h3>
+  <p>On our test account, messages kept going to Meta's own sample app ("WA DevX Webhook Events 1P App") instead of ours, because the dashboard had not linked our app to the WhatsApp account. Check, and link if needed:</p>
+<pre><code># Which apps receive this WhatsApp account's messages?
+curl "https://graph.facebook.com/v27.0/&lt;WHATSAPP_BUSINESS_ACCOUNT_ID&gt;/subscribed_apps" \
+  -H "Authorization: Bearer &lt;WHATSAPP_ACCESS_TOKEN&gt;"
+
+# If the bot app is not in the list, add it:
+curl -X POST "https://graph.facebook.com/v27.0/&lt;WHATSAPP_BUSINESS_ACCOUNT_ID&gt;/subscribed_apps" \
+  -H "Authorization: Bearer &lt;WHATSAPP_ACCESS_TOKEN&gt;"</code></pre>
+  <p>The POST answers <code>{"success":true}</code>; run the GET again and the bot app's name must be listed.</p>
+</section>
+
+<section class="part" id="publish">
+  <h2><span class="num">10</span> Publish the app</h2>
+  <div class="note stop"><p><span class="label">Without this, the bot gets no real messages.</span> While an app is unpublished, Meta only delivers the test events sent from the dashboard, not messages from real people, not even from the app's own admins.</p></div>
+  <ol class="steps">
+    <li>Left menu <span class="ui">Publish</span>. It lists what's missing.</li>
+    <li>Click <span class="ui">Go to app settings</span> (or <span class="ui">App settings → Basic</span>) and fill in:
+      <ul>
+        <li><b>Privacy policy URL:</b> BRAC's public privacy policy page (draft in <code>docs/PRIVACY.md</code>; it covers what the bot stores, that it uses Meta and an AI provider, the 30-day deletion, and how to ask for deletion).</li>
+        <li><b>App icon:</b> the 1024 × 1024 image.</li>
+        <li><b>Category:</b> for example Education.</li>
+      </ul>
+      Click <span class="ui">Save changes</span>.</li>
+    <li>Back on <span class="ui">Publish</span>, open <span class="ui">Connect with customers through WhatsApp</span> and check nothing is flagged as missing.</li>
+    <li>Click <span class="ui">Publish</span>. For BRAC's own WhatsApp account this needs no App Review; it goes live straight away.</li>
+  </ol>
+</section>
+
+<section class="part" id="test">
+  <h2><span class="num">11</span> Test</h2>
+  <ol class="steps">
+    <li>From any WhatsApp phone, send <b>"hi"</b> to BRAC's bot number. The bot should reply within a few seconds and ask which country the person is asking about.</li>
+    <li>Send <b>"Saudi Arabia"</b>, then <b>"medical check cost"</b>. The bot should answer about the Wafid medical check.</li>
+    <li>Watch the bot's log: each message appears as <code>Message wamid… received (text)</code>. Lines like <code>POST /webhook 200</code> without "received" are Meta's sent/delivered/read updates, which the bot ignores on purpose.</li>
+    <li>Send <b>"delete my data"</b>. The bot confirms the user's history was deleted.</li>
+  </ol>
+  <p>Then tell us, and we run the full test set (41 questions in Bangla and English) against BRAC's setup.</p>
+</section>
+
+<section class="part" id="troubleshoot">
+  <h2><span class="num">12</span> If something fails</h2>
+  <p>Every row except the last two happened during our test setup.</p>
+  <div class="tablewrap"><table>
+    <thead><tr><th>What you see</th><th>Cause</th><th>Fix</th></tr></thead>
+    <tbody>
+      <tr><td>"The callback URL or verify token couldn't be validated"</td><td>Bot not running or not reachable over HTTPS, or the verify token differs</td><td>Check <code>/health</code> from outside and the handshake curl in part 8 step 5; compare the token character by character</td></tr>
+      <tr><td>Webhook verified, but no message reaches the bot</td><td>App not linked to the WhatsApp account; messages go to Meta's sample app</td><td>Part 9c (<code>subscribed_apps</code>)</td></tr>
+      <tr><td>Still no messages</td><td><code>messages</code> field not subscribed, or app not published</td><td>Part 9b, part 10</td></tr>
+      <tr><td>Can't find "Webhook fields"</td><td>It appears only after a successful Verify and save</td><td>Do part 9a first</td></tr>
+      <tr><td>API error code <code>200</code> or a permissions error</td><td>System user is missing an asset or permission</td><td>Part 5 step 3 and 4, then generate a new token</td></tr>
+      <tr><td>"Generate token" button missing</td><td>App not yet assigned to the system user, or two-factor authentication off</td><td>Reload after a minute; turn on two-factor authentication</td></tr>
+      <tr><td>Only "60 days" offered as token expiry</td><td>Meta's setting for that account</td><td>Accept and set a renewal reminder; replace <code>WHATSAPP_ACCESS_TOKEN</code> in <code>.env</code> and restart</td></tr>
+      <tr><td>Error <code>131030</code> "Recipient phone number not in allowed list"</td><td>Sending from the free test number to an unlisted phone</td><td>Add the phone under <b>To → Manage phone number list</b> (test number only)</td></tr>
+      <tr><td>Bot stops replying after it worked; log shows error <code>190</code></td><td>Access token expired or was regenerated</td><td>Generate a new System User token, update <code>.env</code>, restart</td></tr>
+      <tr><td>Error <code>133016</code> on register</td><td>More than 10 register tries in 72 hours</td><td>Wait 72 hours; check token and PIN first</td></tr>
+      <tr><td>Number can't be added: already in use</td><td>The number still has a WhatsApp account</td><td>Delete the WhatsApp account on that number (part 1, item 2)</td></tr>
+    </tbody>
+  </table></div>
+  <div class="note"><p><span class="label">Only for local testing on a laptop:</span> we used ngrok to give a laptop a public HTTPS address. The version installed by <code>winget</code> (3.3.1) is too old for ngrok accounts; run <code>ngrok update</code> first. A real server with its own domain doesn't need ngrok.</p></div>
+</section>
+
+<section class="part" id="sendback">
+  <h2><span class="num">13</span> What to send back to us</h2>
+  <p>None of these are secret. Please send them once the parts are done:</p>
+  <ul>
+    <li>The bot's WhatsApp number and its display name, and the display-name status (<code>name_status</code>).</li>
+    <li><code>WHATSAPP_PHONE_NUMBER_ID</code> and <code>WHATSAPP_BUSINESS_ACCOUNT_ID</code>.</li>
+    <li>The public webhook URL.</li>
+    <li>Confirmation of each part: 4c registered, 9a verified, 9b subscribed, 9c linked, 10 published, 7 billing or exemption status.</li>
+    <li>The token's expiry date (from the debug call in part 5).</li>
+  </ul>
+  <p><b>Do not send:</b> the access token, app secret, verify token, phone PIN or AI key. If BRAC IT wants us to help on the server itself, let's agree a secure way first (for example adding our developer to the app as a Developer role, or a screen-sharing session).</p>
+</section>
+
+<section class="part" id="policy">
+  <h2><span class="num">14</span> Meta rules that apply to this bot</h2>
+  <ul>
+    <li><b>AI chatbots:</b> Meta's WhatsApp Business terms (in force since 15 January 2026) ban general-purpose AI assistants on the platform. Our bot is allowed because it is limited to BRAC's migration information: it refuses off-topic questions, and we'll keep it that way.</li>
+    <li><b>Human help:</b> Meta's business messaging policy requires automated chats to offer a clear way to reach a person. BRAC needs to name a helpline, email or office the bot can point to (question D3).</li>
+    <li><b>Only reply, don't broadcast:</b> the bot answers people who write first. Messaging people first would need their opt-in and approved message templates, which we don't plan.</li>
+    <li><b>No ID numbers:</b> the bot never asks for passport, NID, bank or card numbers.</li>
+  </ul>
+</section>
+
+<section class="part" id="questions">
+  <h2><span class="num">15</span> Questions for BRAC IT</h2>
+  <p>Answers to these decide how we finish the handover files. Short answers are fine.</p>
+
+  <details class="qgroup" open><summary>A. Hosting and deployment</summary><ol>
+    <li>Where will the bot run: BRAC's own servers, a cloud provider (which one), or a container platform?</li>
+    <li>Can you run it from a Dockerfile we provide (with docker compose)? If not, what do you need instead (a plain Python service, a Kubernetes manifest, something else)?</li>
+    <li>What public HTTPS address can the bot have (a subdomain of a BRAC domain?), and who manages its certificate and reverse proxy?</li>
+    <li>Does the server allow outbound HTTPS to <code>graph.facebook.com</code> and to an AI provider's API?</li>
+    <li>Can it keep a persistent folder for the bot's data, and is it backed up?</li>
+    <li>Do you want a separate test (staging) setup and a live setup, each with its own WhatsApp number?</li>
+    <li>How do you deploy updates: CI/CD from a git repository, or by hand? Who restarts the bot after a knowledge-base update?</li>
+    <li>What do you use for logs and monitoring, and who gets alerted if the bot stops replying?</li>
+  </ol></details>
+
+  <details class="qgroup" open><summary>B. Meta and WhatsApp</summary><ol>
+    <li>Which phone number will the bot use? Is it a new SIM, and does it currently have WhatsApp on it?</li>
+    <li>What display name should users see, and has BRAC used it on WhatsApp before?</li>
+    <li>Who will be the admin of the Meta app and the system user, and who keeps the PIN and token?</li>
+    <li>Can you add our developer to the app (App roles → Developer) for testing, or should all testing go through you?</li>
+    <li>Will BRAC add a payment method for WhatsApp, and can you ask Meta whether BRAC qualifies for the non-profit exemption?</li>
+    <li>Do you need WhatsApp's local data storage option? (Bangladesh is not one of the offered regions; the nearest are Singapore and India.)</li>
+  </ol></details>
+
+  <details class="qgroup" open><summary>C. AI provider</summary><ol>
+    <li>Is BRAC IT OK with using OpenRouter (one key, many models), or must it be a direct contract with one vendor (Anthropic, OpenAI, Google, Azure)? Changing it is a settings change only.</li>
+    <li>Who pays for the AI usage, and is there a monthly budget limit we should design for?</li>
+    <li>Are there rules on sending migrants' questions to an AI provider outside Bangladesh (for example, only providers that don't store or train on data)?</li>
+  </ol></details>
+
+  <details class="qgroup" open><summary>D. Data, privacy and support</summary><ol>
+    <li>Is 30 days the right retention for conversation history, or does BRAC's policy require something else?</li>
+    <li>Where will the privacy policy be published, and who in BRAC approves its text?</li>
+    <li>Which helpline, phone number or office should the bot give people who need a human (for example BRAC's Migration Programme)?</li>
+    <li>Does BRAC need a security review or data-protection sign-off before the bot goes live?</li>
+  </ol></details>
+
+  <details class="qgroup" open><summary>E. Code, knowledge base and timeline</summary><ol>
+    <li>Where should the code live: BRAC IT's GitHub or GitLab organisation? Should we open pull requests there, or will you import our repository?</li>
+    <li>Any constraints on language or framework (the bot is Python 3.12+ with Flask and SQLite)?</li>
+    <li>Where should the knowledge base repository live, and who besides the BSAISL team may update it?</li>
+    <li>The Navigator is due on 3 December 2026 with user-testing rounds before then. When can the number, hosting and webhook be ready?</li>
+  </ol></details>
+</section>
+
+<footer>
+  <p>Prepared by the BSAISL Navigator bot team, 17 November 2026. Meta references: WhatsApp Cloud API documentation at developers.facebook.com/documentation/business-messaging/whatsapp (get started, access tokens, business phone numbers, registration, webhooks, pricing), checked 17 November 2026.</p>
+</footer>
+</main>
+</div>
