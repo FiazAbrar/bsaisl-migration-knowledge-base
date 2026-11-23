@@ -118,7 +118,7 @@ def send_text(token: str, chat_id: int, text: str):
 
 
 def process_message(config: dict, msg: dict):
-    from app import answer, store  # imported here to keep this module free of app state
+    from app import answer, guard, store  # imported here to keep this module free of app state
 
     token = config["TELEGRAM_BOT_TOKEN"]
     call(token, "sendChatAction", {"chat_id": msg["chat_id"], "action": "typing"})
@@ -133,6 +133,15 @@ def process_message(config: dict, msg: dict):
     text = COMMANDS.get(command, text)
     # Hashed with the same key as WhatsApp ids; the prefix keeps the two channels' ids apart.
     user = store.user_key(f"telegram:{msg['user_id']}", config["META_APP_SECRET"])
+    if not answer.is_memory_command(text):  # "reset" and "delete my data" always work
+        if len(text) > guard.MAX_CHARS:
+            send_text(token, msg["chat_id"], guard.REFUSALS["too_long"])
+            return
+        d = guard.check("telegram", user)
+        if not d.ok:
+            if d.notify:  # tell them once; a flood gets no further replies
+                send_text(token, msg["chat_id"], guard.refusal_text(d))
+            return
     send_text(token, msg["chat_id"], answer.respond(user, text))
 
 

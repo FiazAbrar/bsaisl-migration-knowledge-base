@@ -76,14 +76,24 @@ def send_text(config, msg: dict, text: str):
 
 
 def process_message(config, msg: dict):
-    from app import answer, store  # imported here to keep this module free of app state
+    from app import answer, guard, store  # imported here to keep this module free of app state
 
     mark_read_and_typing(config, msg["id"])
     if msg["type"] != "text":
         send_text(config, msg, "Please send your question as a text message.")
         return
     user = store.user_key(msg.get("user_id") or msg.get("phone") or "", config["META_APP_SECRET"])
-    send_text(config, msg, to_whatsapp_format(answer.respond(user, msg["text"])))
+    text = msg["text"].strip()
+    if not answer.is_memory_command(text):  # "reset" and "delete my data" always work
+        if len(text) > guard.MAX_CHARS:
+            send_text(config, msg, guard.REFUSALS["too_long"])
+            return
+        d = guard.check("whatsapp", user)
+        if not d.ok:
+            if d.notify:  # tell them once; a flood gets no further replies
+                send_text(config, msg, guard.refusal_text(d))
+            return
+    send_text(config, msg, to_whatsapp_format(answer.respond(user, text)))
 
 
 def app_config() -> dict:

@@ -20,6 +20,12 @@ SETTINGS = [
     "LLM_MODEL",
     "TEST_RECIPIENT",
     "TELEGRAM_BOT_TOKEN",
+    "WEB_CHAT",
+    "TURNSTILE_SITE_KEY",
+    "TURNSTILE_SECRET_KEY",
+    "PROXY_IP_HEADER",
+    "TRUSTED_PROXIES",
+    "WEB_SESSION_SECRET",
 ]
 REQUIRED = [
     "WHATSAPP_PHONE_NUMBER_ID",
@@ -34,6 +40,7 @@ def load_configurations(app):
     for name in SETTINGS:
         app.config[name] = (os.getenv(name) or "").strip()
     app.config["GRAPH_API_VERSION"] = app.config["GRAPH_API_VERSION"] or "v27.0"
+    app.config["MAX_CONTENT_LENGTH"] = 1024 * 1024  # no webhook or chat message comes near 1 MB
     missing = [n for n in REQUIRED if not app.config[n]]
     if missing:
         raise RuntimeError(f"Missing settings in .env: {', '.join(missing)}")

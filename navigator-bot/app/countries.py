@@ -19,6 +19,25 @@ ALIASES = {
     "south-korea": ["south korea", "korea", "seoul", "eps korea", "দক্ষিণ কোরিয়া", "দক্ষিণ কোরিয়া", "কোরিয়া", "কোরিয়া"],
 }
 
+# Names shown on the web page's country buttons, in the order shown there.
+DISPLAY = [
+    ("saudi-arabia", "Saudi Arabia", "সৌদি আরব"),
+    ("malaysia", "Malaysia", "মালয়েশিয়া"),
+    ("united-arab-emirates", "UAE", "সংযুক্ত আরব আমিরাত"),
+    ("qatar", "Qatar", "কাতার"),
+    ("oman", "Oman", "ওমান"),
+    ("kuwait", "Kuwait", "কুয়েত"),
+    ("singapore", "Singapore", "সিঙ্গাপুর"),
+    ("maldives", "Maldives", "মালদ্বীপ"),
+    ("jordan", "Jordan", "জর্ডান"),
+    ("italy", "Italy", "ইতালি"),
+    ("south-korea", "South Korea", "দক্ষিণ কোরিয়া"),
+    ("japan", "Japan", "জাপান"),
+    ("brunei", "Brunei", "ব্রুনাই"),
+    ("cambodia", "Cambodia", "কম্বোডিয়া"),
+    ("kyrgyzstan", "Kyrgyzstan", "কিরগিজস্তান"),
+]
+
 
 def strip_countries(text: str) -> str:
     """Remove country names so they don't skew a search inside that country's guide."""

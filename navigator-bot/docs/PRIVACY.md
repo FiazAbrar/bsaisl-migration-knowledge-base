@@ -7,6 +7,7 @@ Navigator Bot is a test WhatsApp assistant that answers questions about working 
 ## What we collect
 - The messages you send to the bot and the replies it gives.
 - A WhatsApp user identifier, which we store in scrambled (hashed) form, so we can keep your conversation in order.
+- On the web chat: a random session cookie, valid for 24 hours, and your internet (IP) address. Both are stored only in scrambled (hashed) form, and only to keep your conversation in order and to limit how many messages one person or network can send. Limit counters are deleted after about a day.
 - Technical data needed to deliver messages (time sent, delivery status).
 
 We do not ask for, and you should not send, passwords, bank or card numbers, national ID or passport numbers.

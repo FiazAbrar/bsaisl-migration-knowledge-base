@@ -40,5 +40,8 @@ if ($envVars["TELEGRAM_BOT_TOKEN"]) {
     Write-Host "Telegram: https://$domain/telegram  (the bot registers this webhook with Telegram as it starts)"
 }
 
+if ($envVars["WEB_CHAT"] -notin @("off", "false", "0", "no")) {
+    Write-Host "Web chat: http://localhost:8000/  (this PC)   https://$domain/  (anyone, through ngrok)"
+}
 Write-Host "Starting bot. Press Ctrl+C to stop."
 & $py run.py

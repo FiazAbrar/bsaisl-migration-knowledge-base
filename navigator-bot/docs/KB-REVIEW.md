@@ -15,6 +15,30 @@
 > - Saudi Arabia and Singapore still mention the repo's agencies folder or `agencies/README.md` inside the guide text.
 > - Not re-checked automatically: the contradictions, Bangladesh-side fee drift, expired dates and sensitive content listed below. Brunei, Japan and South Korea were not reviewed.
 
+
+> **Contradictions found by the bot's prompt test, 22 Nov 2026 (Saudi, cross-country and agencies guides): all fixed in `doc.md`, docs rebuilt.** A fresh model answered 27 test questions from the guides alone, and a second model checked every answer. It found no invented facts, but the guides disagreed with each other in six places. Each was settled from the saved sources, keeping the newer or official one:
+>
+> 1. **16135 call centre from abroad:** most places said +880 9610102030; Saudi "Before you fly" and Contacts said +880 8000102030.
+>    - The Welfare Board's call-centre, membership and ambulance pages and its insurance notice all give +880 9610102030 for abroad. Only one line of its citizen charter gives +880 8000102030, and TBS describes 08000102030 as the free number inside Bangladesh.
+>    - **Fix:** both Saudi places now say +880 9610102030 (new fact KR0003, citing the membership page).
+> 2. **Saudi skill-test (SVP) fee:** the Saudi guide said USD 85; the cross-country guide's skills-test racket section said USD 50.
+>    - The fee rose from USD 50 to USD 85 in early September 2026 (TBS; Pakistan's NAVTTC page says effective 9 September 2026).
+>    - **Fix:** the cross-country guide now says USD 85 since September 2026, citing F0091. BMET's own leaflets still say USD 50 because they predate the rise.
+> 3. **BMET clearance and smart-card fee:** the cross-country guide stated Tk 250; the Saudi guide asked twice whether it is still charged.
+>    - BMET's 2026 citizen charter (the Saudi guide's own B0096) lists Tk 250. The "free" claim was a Dhaka Tribune report from Dec 2024.
+>    - **Fix:** Tk 250 is added to the Saudi fee list and to the Step 8 fees, and both "Need to know" lines are removed. With it, the fee list adds up to the "about Tk 19,800" the guide already quoted.
+> 4. **Who pays the ticket:** the Saudi guide said a worker pays "about Tk 19,800 … before the skill test, passport and ticket" (in two places). Its Who pays what section says the employer pays the airfare on permission-letter jobs, and that this is unknown on single visas.
+>    - **Fix:** both places now say "plus the skill test and passport" and point to Who pays what for the ticket.
+>    - Also added: the Tk 1.65 lakh cap covers the air fare, passport, medical and related fees (Bangladesh Bank, 2019; new fact KR0002).
+> 5. **Debt payback:** Saudi said SR 250 = Tk 8,250, debt repaid in about 55 months; cross-country said Tk 8,300 at Tk 33.20, 54 months.
+>    - **Fix:** cross-country now uses the Saudi guide's stated rate (SR 1 = Tk 33): Tk 8,250, about 55 months.
+> 6. **Tk 1.65 lakh legal maximum backed only by news:** the Saudi "In one minute" and cost sections cited only newspapers for the cap.
+>    - **Fix:** both now also cite Bangladesh Bank's 2019 survey (Table 5.1, official; new fact KR0001). The bot's index now labels news-only sentences "(news report)", which is why this showed up.
+>
+> Still worth a check by the KB team:
+> - Is there a newer official order than 2016-2017 for the Tk 1.65 lakh cap?
+> - The Welfare Board's citizen charter lists +880 8000102030 for abroad. Ask the Board which number is current.
+> - Same-kind checks for the other 14 countries, which the test didn't cover.
 ---
 
 
@@ -92,7 +116,7 @@ Every doc has the full standard skeleton from CLAUDE.md. Oman, Jordan and Singap
   - Bought "fit" medical: Tk 25k vs 30–80k vs 20–30k.
   - Iqama bill: SR 9,150–10,350 vs SR 11,000.
   - Ages: 21–60 vs 18–60.
-  - Two different 16135 numbers for calls from abroad.
+  - Two different 16135 numbers for calls from abroad. *(Fixed 22 Nov 2026: see the note at the top.)*
 - **Kuwait:**
   - Salary due by the 20th vs the 7th.
   - Health insurance: KD 5 a month vs KD 100 a year.

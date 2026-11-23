@@ -12,6 +12,7 @@ import hashlib
 import os
 import re
 import sqlite3
+import subprocess
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -46,12 +47,31 @@ def _kb_dir() -> Path:
     return path
 
 
-def _clean(lines: list[str]) -> tuple[str, list[str], bool]:
-    """Turn a section's markdown into plain text for the AI; collect fact ids; mark open questions."""
+def _marker(ids: list[str], kinds: dict) -> str:
+    """What the AI sees in place of a citation: nothing for an official source, "(news report)" when only
+    news or NGO sources back the sentence, plus the year when the newest source is older than 2025
+    (the same rule the guides' own build uses)."""
+    found = [kinds[i] for i in ids if i in kinds]
+    if not found:
+        return ""
+    official = [f for f in found if f[0].startswith("official")]
+    use = official or found
+    years = [f[1] for f in use if f[1].isdigit()]
+    year = max(years) if years else ""
+    old = year if year and int(year) < 2025 else ""
+    if official:
+        return f" ({old})" if old else ""
+    return f" (news report, {old})" if old else " (news report)"
+
+
+def _clean(lines: list[str], kinds: dict | None = None) -> tuple[str, list[str], bool]:
+    """Turn a section's markdown into plain text for the AI; collect fact ids; mark open questions.
+    kinds maps fact id -> (source_type, page year), so news-only claims stay marked as such."""
+    kinds = kinds or {}
     out, facts, open_q, in_ntk = [], [], False, False
     for line in lines:
         facts += [f.strip() for m in CITE_RE.finditer(line) for f in m.group(1).split(",")]
-        text = CITE_RE.sub("", line).rstrip()
+        text = CITE_RE.sub(lambda m: _marker([f.strip() for f in m.group(1).split(",")], kinds), line).rstrip()
         stripped = text.lstrip("> ").strip()
         if text.startswith(">") and "need to know" in stripped.lower():
             in_ntk, open_q = True, True
@@ -86,12 +106,12 @@ def _split(body: str) -> list[str]:
     return parts
 
 
-def parse_doc(path: Path, slug: str) -> tuple[str, list[dict]]:
+def parse_doc(path: Path, slug: str, kinds: dict | None = None) -> tuple[str, list[dict]]:
     lines = path.read_text(encoding="utf-8").splitlines()
     title, stack, sections, cur = slug, {}, [], {"heading": "Introduction", "level": 1, "lines": []}
 
     def flush():
-        body, facts, open_q = _clean(cur["lines"])
+        body, facts, open_q = _clean(cur["lines"], kinds)
         if not body:
             return
         path_parts = [stack[k] for k in sorted(stack) if k < cur["level"]] + [cur["heading"]]
@@ -140,8 +160,23 @@ def _load_facts(folder: Path, slug: str) -> list[tuple]:
     return rows
 
 
-def build() -> dict:
-    kb = _kb_dir()
+def _guides_updated(kb: Path) -> str:
+    """Date (YYYY-MM-DD) of the newest commit that changed the guides, or of the newest commit at all
+    (a shallow clone may not reach the commit that touched them), or today if git isn't there."""
+    for args in (["log", "-1", "--format=%cs", "--", "countries", "cross-country", "agencies"],
+                 ["log", "-1", "--format=%cs"]):
+        try:
+            out = subprocess.run(["git", "-C", str(kb), *args], capture_output=True, text=True, timeout=20)
+            if out.returncode == 0 and re.fullmatch(r"\d{4}-\d{2}-\d{2}", out.stdout.strip()):
+                return out.stdout.strip()
+        except (OSError, subprocess.SubprocessError):
+            break
+    return datetime.now(timezone.utc).date().isoformat()
+
+
+def build(kb: Path | None = None, extra_meta: dict | None = None) -> dict:
+    """Index the guides in kb (default: KB_DIR or the repository this bot sits in)."""
+    kb = kb or _kb_dir()
     docs = [(p.parent.name, p) for p in sorted((kb / "countries").glob("*/doc.md"))]
     for shared in ("agencies", "cross-country"):  # guides that apply to every country
         if (kb / shared / "doc.md").exists():
@@ -163,7 +198,9 @@ def build() -> dict:
     """)
     summary = {}
     for slug, path in docs:
-        title, sections = parse_doc(path, slug)
+        fact_rows = _load_facts(path.parent, slug)
+        kinds = {r[0]: (r[4], (r[6] or "")[:4]) for r in fact_rows}
+        title, sections = parse_doc(path, slug, kinds)
         raw = path.read_bytes()
         modified = datetime.fromtimestamp(path.stat().st_mtime, timezone.utc).isoformat(timespec="seconds")
         db.execute("INSERT INTO countries VALUES (?,?,?,?)",
@@ -173,12 +210,14 @@ def build() -> dict:
                 "INSERT INTO sections (slug,path,heading,level,part,text,facts,open_q,words) VALUES (?,?,?,?,?,?,?,?,?)",
                 (slug, s["path"], s["heading"], s["level"], s["part"], s["text"], ",".join(s["facts"]),
                  int(s["open_q"]), len(s["text"].split())))
-        db.executemany("INSERT OR REPLACE INTO facts VALUES (?,?,?,?,?,?,?)", _load_facts(path.parent, slug))
+        db.executemany("INSERT OR REPLACE INTO facts VALUES (?,?,?,?,?,?,?)", fact_rows)
         summary[slug] = len(sections)
     db.execute("INSERT INTO sections_fts(sections_fts) VALUES ('rebuild')")
     db.executemany("INSERT INTO meta VALUES (?,?)", [
         ("built_at", datetime.now(timezone.utc).isoformat(timespec="seconds")),
         ("kb_dir", str(kb)),
+        ("guides_updated", _guides_updated(kb)),
+        *(extra_meta or {}).items(),
     ])
     db.commit()
     db.close()
