@@ -76,7 +76,7 @@ USD is the US dollar; Tk is the Bangladeshi taka (1 lakh is Tk 100,000; 1 crore 
 
 ### 1.1 In one minute
 
-Bangladeshis go to the United States as students, exchange scholars, visitors, family immigrants, or irregularly overland from South America <sup>[N2 (2024)](#n2), [N3 (2024)](#n3), [N4](#n4), [N5](#n5)</sup>. More than 17,000 Bangladeshi students were in US higher education in 2023-24, a record <sup>[N2 (2024)](#n2)</sup>. Since 21 January 2026 a Bangladeshi found eligible for a business or tourist visa must post a bond of USD 5,000 to 15,000 and fly in and out through Boston, New York JFK or Washington Dulles, and from the same date the US issues no immigrant (green card) visas to Bangladeshis, so family members of US citizens cannot join them for now <sup>[N1](#n1), [N6](#n6), [N4](#n4)</sup>. Brokers in Bangladesh sell the irregular route through Brazil and Mexico, and in one case a young man paid a broker ring Tk 25 lakh and never left <sup>[N5](#n5), [N7](#n7)</sup>. People without valid papers are being sent back: about 500 by March 2026, with about 5,000 more in process <sup>[N8](#n8)</sup>. All US asylum decisions have been on hold since November 2025, and the US had revoked more than 300,000 visas of all kinds by October 2026 <sup>[N9](#n9), [N10](#n10)</sup>. For skilled work, one Bangladeshi engineer's route was a funded US master's and then a US job; staying on to work needs an employer to sponsor an H-1B visa, whose fee for applicants from abroad has been USD 100,000 since September 2025 <sup>[N11 (2024)](#n11), [N12](#n12), [N13](#n13)</sup>.
+Bangladeshis go to the United States as students, exchange scholars, visitors, family immigrants, or irregularly overland from South America <sup>[N2 (2024)](#n2), [N3 (2024)](#n3), [N4](#n4), [N5](#n5)</sup>. More than 17,000 Bangladeshi students were in US higher education in 2023-24, a record <sup>[N2 (2024)](#n2)</sup>. Since 21 January 2026 a Bangladeshi found eligible for a business or tourist visa must post a bond of USD 5,000 to 15,000 and fly in and out through Boston, New York JFK or Washington Dulles, and from the same date the US issues no immigrant (green card) visas to Bangladeshis, so family members of US citizens cannot join them for now <sup>[N1](#n1), [N6](#n6), [N4](#n4)</sup>. Brokers in Bangladesh sell the irregular route through Brazil and Mexico, and in one case a young man paid a broker ring Tk 25 lakh and never left <sup>[N5](#n5), [N7](#n7)</sup>. People without valid papers are being sent back: about 500 by March 2026, with about 5,000 more in process <sup>[N8](#n8)</sup>. USCIS halted all asylum decisions in November 2025, and the US had revoked more than 300,000 visas of all kinds by October 2026 <sup>[N9](#n9), [N10](#n10)</sup>. For skilled work, one Bangladeshi engineer's route was a funded US master's and then a US job; staying on to work needs an employer to sponsor an H-1B visa, whose fee on a new application has been USD 100,000 since September 2025, though not for someone who was in the US on a student visa <sup>[N11 (2024)](#n11), [N12](#n12), [N13](#n13)</sup>.
 
 <a id="is-it-open-now-and-who-can-go"></a>
 
@@ -92,7 +92,7 @@ Open for students, exchange visitors and visitors who pass an in-person intervie
 - **February 2025:** the US Embassy in Dhaka told the Bangladesh government by diplomatic note that the US would send back Bangladeshis who had become irregular (see [Deportation to Bangladesh](#deportation-to-bangladesh)) <sup>[N15](#n15)</sup>.
 - **June 2025:** the US imposed a full travel ban on 12 countries; Bangladesh is not one of them <sup>[N6](#n6)</sup>.
 - **September 2025:** a USD 100,000 fee on each new H-1B work visa application took effect on 21 September (see [Work visa: H-1B](#work-visa-h-1b)) <sup>[N12](#n12), [N16](#n16)</sup>.
-- **30 October 2025:** work permits (EADs) stopped being extended automatically while a renewal is pending (see [Work permits](#work-permits)) <sup>[N17](#n17)</sup>.
+- **30 October 2025:** work permits (EADs, Employment Authorization Documents) stopped being extended automatically while a renewal is pending (see [Work permits](#work-permits)) <sup>[N17](#n17)</sup>.
 - **November 2025:** the State Department told visa officers to weigh applicants' health and ability to pay for their own care (see [Health and means checks](#health-and-means-checks)); on 27 November President Trump wrote that he would permanently pause immigration from all third-world countries; on 28 November USCIS (US Citizenship and Immigration Services, which decides immigration applications) halted all asylum decisions (see [Asylum](#asylum)) <sup>[N18](#n18), [N19](#n19), [N9](#n9)</sup>.
 - **6 January 2026:** Bangladesh was added to the visa bond list, effective 21 January 2026 (see [Visit visa and the visa bond](#visit-visa-and-the-visa-bond)) <sup>[N1](#n1)</sup>.
 - **21 January 2026:** the US suspended immigrant visas for citizens of 75 countries including Bangladesh; applications can be submitted but none are issued, and no end date has been given (see [Family immigrant visa: the green card](#family-immigrant-visa-the-green-card)) <sup>[N6](#n6)</sup>.
@@ -113,7 +113,7 @@ Open for students, exchange visitors and visitors who pass an in-person intervie
 - **Exchange visitor (J-1) through Fulbright:** for secondary school teachers and for experienced academics and professionals (see [Exchange visitor visa: Fulbright](#exchange-visitor-visa-fulbright)) <sup>[N3 (2024)](#n3), [N23](#n23)</sup>.
 - **Visit visa (B1/B2):** business and tourism, now with a bond (see [Visit visa and the visa bond](#visit-visa-and-the-visa-bond)) <sup>[N1](#n1)</sup>.
 - **Family immigrant visa: the green card:** for relatives of US citizens and residents; paused since 21 January 2026 (see [Family immigrant visa: the green card](#family-immigrant-visa-the-green-card)) <sup>[N4](#n4), [N6](#n6)</sup>.
-- **Work visa: H-1B:** used by US companies to hire skilled foreign workers; the employer pays USD 100,000 on a new application from abroad (see [Work visa: H-1B](#work-visa-h-1b)) <sup>[N6](#n6), [N12](#n12), [N13](#n13)</sup>.
+- **Work visa: H-1B:** used by US companies to hire skilled foreign workers; the employer pays USD 100,000 on a new application (see [Work visa: H-1B](#work-visa-h-1b)) <sup>[N6](#n6), [N12](#n12), [N13](#n13)</sup>.
 - **Not a legal route:** the overland route through South America and Mexico (see [Irregular routes and undocumented stay](#irregular-routes-and-undocumented-stay)) <sup>[N5](#n5)</sup>.
 
 <a id="size"></a>
@@ -132,7 +132,7 @@ Open for students, exchange visitors and visitors who pass an in-person intervie
 
 ### 1.3 How a job reaches you, and who takes a cut
 
-In this reporting no job reaches a worker in Bangladesh through a recruiting agency: the way in is a university's admission, a Fulbright grant, or a relative's immigrant petition, and the cut is taken by brokers selling the irregular route or a fake promise (see [Irregular routes and undocumented stay](#irregular-routes-and-undocumented-stay)) <sup>[N2 (2024)](#n2), [N23](#n23), [N4](#n4), [N5](#n5)</sup>. In a US Justice Department case, migrants paid large sums to brokers in Bangladesh, and a Bangladeshi ring then housed them in São Paulo, Brazil, and in Tapachula and Monterrey, Mexico, before telling them how to cross the Rio Grande river into the US <sup>[N5](#n5)</sup>. A young man from Chatkhil, Noakhali, paid Tk 25 lakh to a broker ring from Lakshmipur and Feni to go to the US and had not gone two and a half years later <sup>[N7](#n7)</sup>. For a skilled job, one reported route is a US degree, then a US employer that agrees to sponsor an H-1B visa, which is usually the only realistic way for a skilled foreigner to work long-term in the US and later get a green card (see [After graduation: getting a US job](#after-graduation-getting-a-us-job)) <sup>[N11 (2024)](#n11), [N28](#n28)</sup>.
+The reported ways in are a university's admission, a Fulbright grant or a relative's immigrant petition, and brokers in Bangladesh sell the irregular route (see [Irregular routes and undocumented stay](#irregular-routes-and-undocumented-stay)) <sup>[N2 (2024)](#n2), [N23](#n23), [N4](#n4), [N5](#n5)</sup>. In a US Justice Department case, migrants paid large sums to brokers in Bangladesh, and a Bangladeshi ring then housed them in São Paulo, Brazil, and in Tapachula and Monterrey, Mexico, before telling them how to cross the Rio Grande river into the US <sup>[N5](#n5)</sup>. A young man from Chatkhil, Noakhali, paid Tk 25 lakh to a broker ring from Lakshmipur and Feni to go to the US and had not gone two and a half years later <sup>[N7](#n7)</sup>. For a skilled job, one reported route is a US degree, then a US employer that agrees to sponsor an H-1B visa, which is usually the only realistic way for a skilled foreigner to work long-term in the US and later get a green card (see [After graduation: getting a US job](#after-graduation-getting-a-us-job)) <sup>[N11 (2024)](#n11), [N28](#n28)</sup>.
 
 > **Need to know**
 > - Do any Bangladeshis go to the US on employer-sponsored work visas (H-1B, H-2A, H-2B, EB-3) through BMET (the Bureau of Manpower, Employment and Training, which clears Bangladeshis going abroad for work), and does BMET clear them?
@@ -143,7 +143,7 @@ In this reporting no job reaches a worker in Bangladesh through a recruiting age
 
 - **The visa bond:** USD 5,000, 10,000 or 15,000 for a visit visa, set at the interview and returned if the visa is refused or its conditions are met (see [Visit visa and the visa bond](#visit-visa-and-the-visa-bond)) <sup>[N1](#n1)</sup>.
 - **The H-1B fee:** USD 100,000, paid once by the employer on a new application, on top of the normal fee of USD 2,000 to 5,000; not charged when a former US student applies (see [Work visa: H-1B](#work-visa-h-1b)) <sup>[N12](#n12), [N16](#n16), [N13](#n13)</sup>.
-- **A first graduate job:** one Bangladeshi engineer put starting pay for a master's graduate at USD 80,000-100,000 a year in big cities and 70,000-90,000 elsewhere, with 15-20% tax in the first five years and rent of USD 1,500-2,500 for one bedroom (see [After graduation: getting a US job](#after-graduation-getting-a-us-job)) <sup>[N11 (2024)](#n11)</sup>.
+- **A first graduate job:** one Bangladeshi engineer put starting pay for a master's graduate at USD 80,000-100,000 a year in big cities and 70,000-90,000 elsewhere, with 15-20% tax in the first five years and one-bedroom rent of USD 2,500 a month in a big city and up to 1,500 in a small one (see [After graduation: getting a US job](#after-graduation-getting-a-us-job)) <sup>[N11 (2024)](#n11)</sup>.
 - **The irregular route:** Tk 25 lakh paid to a broker ring in one 2025 case <sup>[N7](#n7)</sup>.
 - **Health care:** a US-based Bangladeshi wrote that a two-day hospital stay for a birth billed over USD 50,000, of which he paid a USD 6,000 insurance deductible (see [Health care and its cost](#health-care-and-its-cost)) <sup>[N29](#n29)</sup>.
 - **Sending money home in cash:** 1% tax since 1 January 2026 (see [Sending money home](#sending-money-home)) <sup>[N30](#n30)</sup>.
@@ -185,7 +185,7 @@ The reported problems are removal of people who lost their immigration cases, vi
 
 #### 1.6.2 Irregular routes, and where an irregular stay ends
 
-- **Overland through Brazil and Mexico: for the smugglers it has ended in US prison.** Two Bangladeshi smugglers were each sentenced to 46 months, and the alleged organiser, extradited from Brazil, faces 5 to 15 years (see [Irregular routes and undocumented stay](#irregular-routes-and-undocumented-stay)) <sup>[N5](#n5)</sup>.
+- **Overland through Brazil and Mexico: for the smugglers it has ended in US prison.** Two Bangladeshi smugglers were each sentenced to 46 months, and a third Bangladeshi accused, extradited from Brazil, faces 5 to 15 years if convicted (see [Irregular routes and undocumented stay](#irregular-routes-and-undocumented-stay)) <sup>[N5](#n5)</sup>.
 - **Staying without papers: it ends in removal to Dhaka**, sometimes in handcuffs on the plane (see [Deportation to Bangladesh](#deportation-to-bangladesh)) <sup>[N35](#n35)</sup>.
 
 <a id="visas-not-open-to-bangladeshis"></a>
@@ -217,7 +217,7 @@ In July 2026 the US Ambassador, Brent Christensen, said the US encourages Bangla
 ### 3.2 Step 2: Apply for the visa early
 
 1. Apply for the student visa as soon as you have admission from an approved institution: the Embassy said on 31 July 2025 that qualified students should apply quickly so there is enough time for processing <sup>[N21](#n21)</sup>.
-2. Attend the interview in person: since January 2026 every US visa applicant must <sup>[N1](#n1)</sup>.
+2. Attend the interview in person: every US visa applicant must <sup>[N1](#n1)</sup>.
 3. Your social media will be checked: the US checks visa applicants' social media activity more strictly, has revoked visas over protest participation and posts, and since August 2025 USCIS vetting of immigration applications includes searches for "anti-American activity" <sup>[N10](#n10), [N1](#n1)</sup>.
 
 > **Need to know**
@@ -275,7 +275,7 @@ A six-week exchange in the US for secondary school teachers, run through the US 
 
 **How to apply:**
 1. Apply online with an institutional support and reference form (ISRF) filled in by your supervisor and a leave approval form (LAF) from https://fulbright.irex.org/ <sup>[N3 (2024)](#n3)</sup>.
-2. If shortlisted, take a paper-based IELTS (score 6.0 or more, or equivalent), which the American Center arranges, and an interview in English <sup>[N3 (2024)](#n3)</sup>.
+2. If shortlisted, take a paper-based IELTS (International English Language Testing System) test (score 6.0 or more, or equivalent), which the American Center arranges, and an interview in English <sup>[N3 (2024)](#n3)</sup>.
 
 > **Need to know**
 > - When does the TEA call open in 2027, and does it run every year?
@@ -351,7 +351,7 @@ An immigrant visa gives a green card on entry and permanent residence; it covers
 ### 6.1 The pause from 21 January 2026
 
 - **What it does:** citizens of 75 countries including Bangladesh can still submit immigrant visa applications, but none will be approved or issued, and no end date has been given <sup>[N6](#n6)</sup>.
-- **Why:** on 27 November 2025 President Trump wrote that he would permanently pause immigration from all third-world countries <sup>[N19](#n19)</sup>. The State Department said the pause follows a November 2025 order to tighten screening of would-be immigrants who might become a financial burden <sup>[N6](#n6)</sup>. On a list of 120 countries ranked by immigrant welfare use, Bangladesh was 19th, with 54.8% of Bangladeshi immigrant households in the US taking US government benefits <sup>[N1](#n1)</sup>.
+- **Why:** on 27 November 2025 President Trump wrote that he would permanently pause immigration from all third-world countries <sup>[N19](#n19)</sup>. The State Department said the pause follows a November 2025 order to tighten screening of would-be immigrants who might become a financial burden <sup>[N6](#n6)</sup>. On a list of 120 countries ranked by immigrant welfare use that President Trump posted on social media in January 2026, Bangladesh was 19th, with 54.8% of Bangladeshi immigrant households in the US taking US government benefits <sup>[N1](#n1)</sup>.
 - **Who is hit:** relatives of US citizens with petitions already filed cannot go for now; new petitions can be filed but get no visa; a US citizen who newly marries cannot bring the spouse for now; three US immigration lawyers said lakhs of Bangladeshis would be harmed <sup>[N4](#n4)</sup>. Lawyer Moin Chowdhury said a child who passes 21 meanwhile cannot come <sup>[N4](#n4)</sup>. Lawyer Dilli Raj Bhatta said it includes people whose interviews were already scheduled, and that legal challenges were expected <sup>[N4](#n4)</sup>.
 - **Screening:** USCIS updated its policy in August 2025 to extend social media vetting of applications to searches for "anti-American activity" <sup>[N1](#n1)</sup>.
 - **Who is not hit:** non-immigrant, temporary, tourist and business visa applicants, and dual nationals applying on a passport of a country not on the list <sup>[N6](#n6)</sup>.
@@ -381,7 +381,7 @@ A US-based columnist reported parents whose immigration form had a date entered 
 
 ### 6.5 Scams
 
-A Narail man posing on Facebook as a US-based pilot of Bangladeshi origin promised to marry a divorced woman and take her to the US, and took Tk 1 crore 9 lakh from her for a passport, visa and other pretexts <sup>[N40 (2024)](#n40)</sup>. She sent the money to 13 different mobile numbers, sold 37 bhori of gold and took a bank loan <sup>[N40 (2024)](#n40)</sup>. When she found his Khulna address was false he threatened to post private videos of her <sup>[N40 (2024)](#n40)</sup>. She filed a case at Wari police station and police arrested him, but under pressure to repay her debts she settled for Tk 60 lakh <sup>[N40 (2024)](#n40)</sup>. (see "Marriage, family-visa and fake-nikahnama schemes" in the Dalal scams doc).
+A Narail man posing on Facebook as a US-based pilot of Bangladeshi origin promised to marry a divorced woman and take her to the US, and took Tk 1 crore 9 lakh from her, which she said he asked for in instalments for a passport, visa and other pretexts <sup>[N40 (2024)](#n40)</sup>. She sent the money to 13 different mobile numbers, and said she sold 37 bhori of gold and took a bank loan <sup>[N40 (2024)](#n40)</sup>. When she found his Khulna address was false he threatened to post private videos of her <sup>[N40 (2024)](#n40)</sup>. She filed a case at Wari police station and police arrested him, but under pressure to repay her debts she settled for Tk 60 lakh <sup>[N40 (2024)](#n40)</sup>. (see "Marriage, family-visa and fake-nikahnama schemes" in the Dalal scams doc).
 
 <a id="work-visa-h-1b"></a>
 
@@ -423,7 +423,7 @@ A columnist who works with abused women wrote in February 2024 that the wives of
 - **What abusers use:** a new wife who does not know the immigration rules may be threatened with being sent back, divorced or separated from her children; in a 2019 Pew survey only 55% of Bangladeshis in the US were comfortable in English, against 72% of Asians, which keeps many women from getting out <sup>[N41 (2024)](#n41)</sup>.
 - **The law:** the US has domestic violence laws, and a victim can get a protection order <sup>[N41 (2024)](#n41)</sup>.
 - **Help:** many organisations give free services, and South Asian women's organisations in many cities can be contacted in Bangla, among them Daya Houston in Texas (https://www.dayahouston.org/) and Maitri in California (www.maitri.org) <sup>[N41 (2024)](#n41)</sup>.
-- **Case:** Nowrin Nahar Tuli, 21, who had a protection order, was strangled by her husband Nasib Ahsan in Texas on 24 December 2023; he is held in Collin County jail <sup>[N41 (2024)](#n41)</sup>.
+- **Case:** Nowrin Nahar Tuli, 21, who had a protection order, was strangled by her husband Nasib Ahsan in Texas on 24 December 2023, the columnist reported; he is held in Collin County jail <sup>[N41 (2024)](#n41)</sup>.
 
 > **Need to know**
 > - Can a wife whose status depends on an abusive husband apply for her own immigration status, and what is the national domestic violence hotline number?
@@ -463,7 +463,7 @@ Milon and Moktar pleaded guilty and were each sentenced to 46 months; Saifullah 
 
 ### 12.2 Money paid to brokers who never send you
 
-Zakir Hossain, 24, of Chatkhil, Noakhali, paid Tk 25 lakh to a Lakshmipur and Feni broker ring to go to the US, and two and a half years later had not gone; his family holds papers for Tk 19 lakh of it <sup>[N7](#n7)</sup>. When he asked for his money back the brokers threatened him, and in August 2025 he and a friend were found dead in his car in a Dhaka hospital car park; his family suspects the ring, and police had not yet found the cause of death <sup>[N7](#n7)</sup>.
+Zakir Hossain, 24, of Chatkhil, Noakhali, paid Tk 25 lakh to a Lakshmipur and Feni broker ring to go to the US, and two and a half years later had not gone; his family holds papers for Tk 19 lakh of it <sup>[N7](#n7)</sup>. When he asked for his money back the brokers threatened him, and in August 2025 he and a friend were found dead in a car in a Dhaka hospital car park; his family suspects the ring, and police had not yet found the cause of death <sup>[N7](#n7)</sup>.
 
 <a id="where-undocumented-bangladeshis-live"></a>
 
@@ -477,7 +477,7 @@ Bangladesh's Foreign Ministry has no figure, but officials said irregular Bangla
 
 - **Who is sent back:** people who stayed after losing their immigration cases, including some convicted of crimes in the US; Bangladesh's Foreign Ministry is told about each one in advance <sup>[N32](#n32)</sup>.
 - **Bangladesh's terms:** it takes people back once their citizenship is confirmed, and asked the US not to send them in handcuffs <sup>[N15](#n15)</sup>.
-- **How they arrive:** 34 people from 6 March to 21 April 2025; 39 by chartered plane on 2 August 2025; 30 more (29 men and one woman) on 5 September 2025, put on the plane in handcuffs that were removed on landing in Dhaka <sup>[N32](#n32), [N42](#n42), [N35](#n35)</sup>.
+- **How they arrive:** 34 people from 6 March to 21 April 2025; 39 by chartered plane on 2 August 2025; 30 more (29 men and one woman) on 5 September 2025, put on the plane in handcuffs that were removed on landing in Dhaka, they told law enforcement <sup>[N32](#n32), [N42](#n42), [N35](#n35)</sup>.
 - **Totals:** 187 by September 2025 and about 500 by March 2026, with about 5,000 more in process <sup>[N35](#n35), [N8](#n8)</sup>.
 
 > **Need to know**
@@ -529,10 +529,9 @@ In April 2026 two Bangladeshi PhD students at the University of South Florida we
 2. The district commissioner said the family must submit an application, which the district sends to the Ministry of Expatriates' Welfare to bring the body home <sup>[N48](#n48)</sup>.
 3. The upazila officer said the embassy does the main work and the local administration gives the embassy any local information it needs <sup>[N36](#n36)</sup>.
 
-> **Need to know**
 **Other cases:**
-- **Sheikh Abir Hossain, 38,** a research assistant at Lamar University, Texas, on a scholarship, who also worked part-time in a food shop in Beaumont, was shot dead there on 29 December 2023 by people stealing cigarettes; four days later his body had still not reached his family because of US holiday-season staffing, and fellow students raised USD 55,000 for the family through GoFundMe <sup>[N49 (2024)](#n49)</sup>.
-- **Mohammad Mahfuzul Haque,** a DoorDash food-delivery worker of Bangladeshi origin, was shot dead in Kingsessing, Philadelphia, in July 2026 while making a delivery to an address where, police said, nobody had placed an order; investigators believe it was a planned killing by three masked people <sup>[N34](#n34)</sup>.
+- **Sheikh Abir Hossain, 38,** a research assistant at Lamar University, Texas, on a scholarship, who also worked part-time in a food shop in Beaumont, was shot dead at a shop in Beaumont on 29 December 2023 by people stealing cigarettes, police said; four days later his body had still not reached his family because of US holiday-season staffing, a local journalist said, and Bangladeshi students at Lamar opened a GoFundMe fundraiser to which about 14,000 people gave USD 55,000 <sup>[N49 (2024)](#n49)</sup>.
+- **Mohammad Mahfuzul Haque,** a DoorDash food-delivery worker described by Bangladeshi community media in the US as of Bangladeshi origin, was shot dead in Kingsessing, Philadelphia, in July 2026 while making a delivery to an address where, police said, nobody had placed an order; investigators believe it was a planned killing by three masked people <sup>[N34](#n34)</sup>.
 
 > **Need to know**
 > - Who pays to bring a body home from the US for a student not registered with BMET, and is the Wage Earners' Welfare Board grant available?
