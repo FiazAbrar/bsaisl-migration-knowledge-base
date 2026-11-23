@@ -402,3 +402,16 @@ Checked 19 November 2026 against facts.csv quotes and the saved sources. All cha
 - **Russia: who the ten families applied to.** A Prothom Alo column of 29 November 2025 (GI0346) says at least 10 families applied to the Bangladesh government; the column cites BRAC's report, and BRAC's own statement (RU0018) says the 10 families asked BRAC. Kept RU0018; GI0346 logged, not cited.
 - **Sunamganj cases: one case against four, or two against nine.** The video headline (GI0249) names the Dirai case against four; the 31 March report (GI0320) gives two cases, five accused at Jagannathpur and four at Dirai, matching the Greece doc (XG0064). The doc now gives the two cases.
 - **Libya returns: 4,200.** The ambassador's "4,200 sent home last year" (GI0339, February 2025) and LB0138's "4,200 freed in the previous year and a half" are the same count; LB0138 kept for the number.
+
+## Prothom Alo chunk lchunk-illegal-routes (prefix GI, 23 Nov 2026)
+
+12 articles read (missed by an earlier filter); 6 used (facts GI0390 to GI0432). New: the Russia-Belarus-Poland route (Liton Chowdhury, 2024) under The Balkans and Eastern Europe; IOM's January 2026 Mediterranean sinkings; Russia additions (Akram Hossain of Ashuganj recruited inside Russia and killed April 2025; Arman Ali's June 2026 video from the group of 30; Rimel Mia captured by Ukraine; Al Mamun of Nandail). Six video teasers were duplicates of facts already in the doc (see lledger-illegal-routes.json).
+
+### Resolved conflicts
+
+- **Training for the group of 30: 21 days, 5 days or 3 to 4 days.** Prothom Alo and the SRB report 21 days [RU0084]; Ali Hasan Sohel says five days [GI0297]; Arman Ali, in a video reported on 21 June 2026, says three to four days [GI0419]. All three are first-hand or attributed and may describe different sub-groups; all are kept, attributed. Changes nothing a reader would do, so no Need to know.
+- **Arman Ali alive in June, listed dead in October.** Arman said on 21 June 2026 that he was wounded and alive [GI0421]; the families' October 2026 list of the dead includes a Md Arman Ali [RU0197]. Not a conflict: the dates differ. The doc states both, dated, without asserting they are the same man.
+
+## Held items, round 2 (prefix GI, 23 Nov 2026)
+
+8 items (heldout2-illegal-routes.json): 7 added (GI0433 to GI0450), 1 duplicate (Shayek Ahmad's route via Saudi Arabia and Kuwait, already GI0364). The UNHCR worldwide asylum figure for 2023 (75,867) and Reuters' Europe-only figure (40,332) cover different areas, so both stand.

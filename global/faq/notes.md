@@ -124,6 +124,9 @@ About 330 cited sentences and list items were checked against the facts' quotes,
 - Bangladeshis working abroad, 1.5 or 1.3 crore (23 Nov 2026): the minister told parliament "more than 1.5 crore in 176 countries" on 5 April 2026 [CQ0150] and "more than 1.3 crore in 176 countries" on 20 April 2026 [GF0108]. Both are the minister to parliament; the newer figure is kept and the doc no longer cites the 1.5 crore. Estimates of the stock have long differed by source (a 2025 op-ed citing Bonik Barta: BBS census 50.53 lakh, Bangladesh Bank 1.25 crore, BMET 1.48 crore, a former minister 1.55 crore; held item H-faq-16, not logged), so no Need to know: it changes nothing a migrant does.
 - Duty on a 117 g gold bar (23 Nov 2026): a November 2025 Prothom Alo explainer says Tk 40,000 [GF0115]; the Baggage Rules 2025 say Tk 5,000 per 11.664 g (Tk 50,000 for 10 tola) [F0353], and the NBR instruction of 2 July 2025 also says Tk 5,000 per tola. The rules win; GF0115 is logged but not cited.
 - New phones (23 Nov 2026): Shahjalal airport customs' undated page gives 2 used and 1 new phone a year [F0349]; the NBR instruction of 2 July 2025 adds that a BMET card holder abroad at least six months may bring 2 new phones a year [GF0112]. Not a conflict: the doc gives both, the second as the migrant's own allowance.
+- (23 Nov 2026) Airport payment for transport and burial, Tk 35,000 or Tk 25,000: WEWB's own page (F0328) gives Tk 35,000, and the expatriates' welfare minister said on 3 April 2026 that the family of S M Tarek, killed in Bahrain, had been paid Tk 35,000 for burial (GF0188, the same article as the services doc's GV0286). The Tk 25,000 is a single remark by the Cumilla Probashi Kallyan Centre's assistant director (AA0233, April 2026), secondhand and contradicted by the official page and a dated payment. Kept Tk 35,000; AA0233 is now cited only for the free ambulance and the up-to-Tk 3 lakh grant. Need to know bullet removed.
+- (23 Nov 2026) BOESL's Turkey call (Eurotex): the February 2024 report (GF0180's source) says 200 women, while listing 100 texturing and 100 spinning/dyeing/garment posts; the March 2024 notice (GF0174) says 100 men and 100 women for the same posts. Used the later, more specific March notice.
+- (23 Nov 2026) TTC counts: the minister's "110 TTCs" (May 2026, held item R2-faq-3) is the same 110 institutes that Prothom Alo split in October 2026 into 104 TTCs and six Institutes of Marine Technology (GF0147); not a conflict.
 
 ## Prothom Alo archive pass (gchunk-faq-1, prefix GF)
 
@@ -151,3 +154,14 @@ About 330 cited sentences and list items were checked against the facts' quotes,
 - 75 held items placed; facts GF0107-GF0151. Output: prothom-alo-archive/extract/kb4/heldout-faq.json.
 - Numbers kept to the newest primary figure per measure: departures since 2004 and the stock abroad (minister to parliament, 20 April 2026), GCC stock by country (Ministry statistics, March 2026), 2025 skill mix (BMET), BOESL FY2025-26, 1 crore five-year goal (replaces the 60 lakh plan of February 2024, GF0004, no longer cited). Older or secondhand repeats (2017/2022/2023 totals from a 2024 report, 8-9 lakh a year, 150 an hour, MCCI quarterly figure, 2019 Bangladesh Bank skill survey, Feb-Sep 2026 totals superseded by GF0093) were marked duplicate.
 - New question: "Can I vote from abroad?" (postal ballot, January 2026).
+
+## Prothom Alo archive pass (lchunk-faq, prefix GF) and held items round 2 (held2-faq.json)
+
+- 16 articles; 6 had no text in the archive (videos or empty stories), 4 were long live blogs on the Iran war, read for every passage about Bangladeshis or migrants. Facts GF0152-GF0188.
+- New question: "What happens if war breaks out where I work?" (deaths in Saudi Arabia, the UAE and Bahrain; six dead by April 2026; visa-extension diplomacy; Tarek family payments). Points to the Services doc's "In a war or disaster" for embassy advice, hotline and evacuations.
+- Extended: heat risk (ILO, April 2024), baggage (cigarettes, excess goods, 30-day late declaration, "baggage party" case, pre-June 2025 gold rules), voting registration, TTC and NSDA certification, BOESL Turkey call (fees charged to the worker), body counts 2015-2024.
+- Held for the Departure bottlenecks doc: robbery of two Dubai returnees by their own hired driver's accomplices on the Purbachal 300-feet road (November 2026).
+
+## Open, not in the doc
+
+- Postal-vote app name: GF0122 (NSU researcher, January 2026) calls it "Postal Vote BD"; a London report of November 2025 (GF0183's source) says the Election Commission's "Nagorik" app. The doc keeps "Postal Vote BD" and the new sentence says only "the app".
