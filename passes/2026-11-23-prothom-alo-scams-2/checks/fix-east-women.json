@@ -1,0 +1,128 @@
+[
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Women",
+  "old_str": "A raised age also stays: one returnee, Fatema Akter, said in April 2026 that her passport shows a higher age and despite many attempts she can no longer go abroad [AA0246]. ",
+  "new_str": "",
+  "problem": "AA0246 does not say an agent raised Fatema Akter's age: she said her age has gone up and her passport also shows a higher age, so she cannot go again. 'A raised age also stays' is the writer's inference. Delete."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Marriage, family-visa and fake-nikahnama schemes",
+  "old_str": "and Rohingya girls in the Cox's Bazar camps have been married by phone to men in Malaysia and put on smuggling boats (see Malaysia: boats and land crossings) [MA0099, MA0100, MA0101].",
+  "new_str": "and many Rohingya girls found on one smuggling boat bound for Malaysia in April 2025 had been married over the phone, a police sub-inspector said; one, from a Cox's Bazar camp, had been married to a man in Malaysia she had never met (see Malaysia: boats and land crossings) [MA0098, MA0099, MA0100, MA0101].",
+  "problem": "The general plural claim cites only MA0099-0101, which cover one woman. The 'many girls married by phone' statement is the police sub-inspector's (MA0098), about one boat; cite it and attribute it."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Marriage, family-visa and fake-nikahnama schemes",
+  "old_str": "the two Chinese men had lived in Bashundhara for a year and built ties",
+  "new_str": "the two Chinese men had come to Bangladesh a year earlier, lived in Bashundhara and built ties",
+  "problem": "AA0146 says they came to Bangladesh a year earlier and lived in Bashundhara, not that they lived in Bashundhara for a year."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Marriage, family-visa and fake-nikahnama schemes",
+  "old_str": "The APBn said this was its second recent detention of Chinese nationals for trafficking at the airport [AA0152, AA0153].",
+  "new_str": "The APBn's superintendent of police (operations) said this was the second recent detention of Chinese nationals for trafficking at Shahjalal airport [AA0152, AA0153].",
+  "problem": "AA0152 says it was the second such detention at the airport, not 'its' (the APBn's) second; the speaker is the APBn's SP (operations)."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Trafficking disguised as a job, especially for women",
+  "old_str": "BRAC's Migration Programme said in January 2024 that women domestic workers are forced to return from Saudi Arabia almost every month after abuse by employers, and that some who were sexually abused come back pregnant [AA0042, AA0043].",
+  "new_str": "BRAC's Migration Programme said in January 2024 that women domestic workers keep coming home from Saudi Arabia after abuse by employers, that some who were sexually abused come back pregnant, and that with no safe working environment women domestic workers are forced to return almost every month [AA0042, AA0043].",
+  "problem": "Merges two statements: the source gives 'almost every month' as returns caused by the lack of a safe working environment, separately from 'returns after abuse by employers do not stop'."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Trafficking disguised as a job, especially for women",
+  "old_str": "and abroad face low pay, loss of their passports, long hours and abuse [OA0214, OA0215, OA0216].",
+  "new_str": "and abroad face low pay, losing control of their passports, long hours and abuse [OA0214, OA0215, OA0216].",
+  "problem": "OA0215 says 'losing control of the passport' (পাসপোর্ট নিয়ন্ত্রণ হারানো), not loss of the passport."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Malaysia: boats and land crossings",
+  "old_str": "**By land:** about 17,777 workers with BMET clearance failed to reach Malaysia before the 31 May 2024 deadline [I0371]. A Bangladeshi smuggling ring",
+  "new_str": "About 17,777 workers with BMET clearance failed to reach Malaysia before the 31 May 2024 deadline [I0371].\n\n**By land:** a Bangladeshi smuggling ring",
+  "problem": "The new 'By land' label now covers the 17,777 sentence, which is about cleared workers missing the deadline, not about land crossings; it reads as if they went by land."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Malaysia: boats and land crossings",
+  "old_str": "Some \"Malaysia\" journeys go overland into Myanmar instead: one man walked for several days over hills before he was detained there [MB0049, MB0050, MB0051].",
+  "new_str": "Some journeys sold as going through Malaysia end in Myanmar instead: one man promised Australia by way of Malaysia later realised he had been taken into Myanmar, walked for several days over hills and was detained there [MB0005, MB0049, MB0050, MB0051].",
+  "problem": "Neither MB0049-51 nor MB0005 says how he entered Myanmar (overland or by boat); he only says he later realised they had entered Myanmar, then walked over hills."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Malaysia: boats and land crossings",
+  "old_str": "seized a trawler carrying 17 Rohingya from Teknaf's Mochhoni camp at Shikalbaha on the Karnaphuli river",
+  "new_str": "seized a trawler carrying 17 Rohingya from Teknaf's Mochhoni camp at Shikalbaha in Karnaphuli upazila, Chattogram,",
+  "problem": "MA0056 says Shikalbaha in Karnaphuli upazila, not on the Karnaphuli river."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Malaysia: boats and land crossings",
+  "old_str": "slipped away and asked RAB to rescue the rest [MA0068, MA0069, MA0070].",
+  "new_str": "slipped away and asked RAB (Rapid Action Battalion, an elite police force) to rescue the rest [MA0068, MA0069, MA0070].",
+  "problem": "RAB is not explained at first use in the section."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Malaysia: boats and land crossings",
+  "old_str": "When fighting reached Thandwe prison the prisoners were moved and made to work",
+  "new_str": "When fighting began while he was held in Thandwe prison the prisoners were moved and made to work",
+  "problem": "MB0054 says fighting began while he was in Thandwe prison, not that it reached the prison."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Malaysia: boats and land crossings",
+  "old_str": "In Myanmar the embassy's help varies: Tarekur Rahman said",
+  "new_str": "In Myanmar: Tarekur Rahman said",
+  "problem": "'The embassy's help varies' is the writer's conclusion drawn from two accounts; state the accounts only."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### India: women and girls taken across the land border",
+  "old_str": "- TikTok fame: a ring trafficked women to India \"in the name of TikTok\" [AA0024, AA0025];",
+  "new_str": "- TikTok: a ring trafficked women to India \"in the name of TikTok\" [AA0024, AA0025];",
+  "problem": "The sources do not say the lure was fame; they say only 'in the name of TikTok'."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### India: women and girls taken across the land border",
+  "old_str": "- a dance course in India at Tk 50,000 a month, sent in January 2025",
+  "new_str": "- learning dance in India with a salary of Tk 50,000 a month, offered in January 2025",
+  "problem": "AA0093: Tk 50,000 a month is the promised salary, not a course price; 'a dance course ... at Tk 50,000 a month' reads as a fee."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### India: women and girls taken across the land border",
+  "old_str": "The return of at least 10 more women and girls rescued from brothels was in process in February 2025 [AA0090, AA0091].",
+  "new_str": "The return of at least 10 women and girls rescued from brothels was in process in February 2025, Justice and Care said [AA0090, AA0091].",
+  "problem": "'More' implies these 10 are in addition to the 186/133 figures; AA0090 does not say so (they are women trafficked August 2024 to February 2025, which may overlap)."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Cambodia, Myanmar and Laos: scam compounds",
+  "old_str": "Eight Bangladeshis who went to Cambodia and Laos for work in 2025 worked there for a time, then were taken by road through Thailand and sold to a scam centre in Myanmar [AB0152].",
+  "new_str": "Eight Bangladeshis who went to Cambodia and Laos for work in 2025 worked there for a time, then were taken by road through Thailand and sold to a scam centre in Myanmar, according to Anirban Survivor Voice Foundation [AB0152].",
+  "problem": "AB0152 is the Foundation's press release; the sale is stated as established fact without attribution."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Cambodia, Myanmar and Laos: scam compounds",
+  "old_str": "Nobody may let Bangladeshis enter or work in Laos on their own,",
+  "new_str": "No person, company, employer or labour supplier may on its own let Bangladeshis enter or work in Laos,",
+  "problem": "Ambiguous: 'on their own' reads as applying to the Bangladeshis; OB0032 says no person, company, employer or labour supplier may on its own initiative let them enter or work."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Cambodia, Myanmar and Laos: scam compounds",
+  "old_str": "People in the sector say Cambodia's economy is no better than Bangladesh's and it has few jobs, yet workers are sent there for the scam centres; with the Middle East market shrinking, people who are a little better off have been going to countries such as Russia and Cambodia, where many are cheated [RU0064, AB0177, AB0178].",
+  "new_str": "People in the sector say Cambodia's economy is no better than Bangladesh's and it has few jobs, yet workers are sent there for the scam centres [RU0064, AB0177]. With the Middle East market shrinking, people who are a little better off have been going to countries such as Russia and Cambodia, where many are cheated, Prothom Alo reported in October 2026 [AB0178].",
+  "problem": "The second half is Prothom Alo's own reporting (AB0178), not what 'people in the sector' said; the sentence attributes it to them."
+ }
+]

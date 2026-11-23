@@ -1,0 +1,156 @@
+[
+ {
+  "file": "/Users/rarba/Programming/brac/bits-migration/kb-scam-cases/agencies/doc.md",
+  "old_str": "The CID's Aug 2025 money-laundering case names Masud Uddin Chowdhury's daughter Tasnia Masud among the accused [PF0016].",
+  "new_str": "The CID (the police's Criminal Investigation Department) named Masud Uddin Chowdhury's daughter Tasnia Masud among the accused in its Aug 2025 money-laundering case [PF0016].",
+  "problem": "New sentence is now the first use of CID in doc.md; it is spelled out only later, in 'The 2022-24 round'",
+  "severity": "minor"
+ },
+ {
+  "file": "/Users/rarba/Programming/brac/bits-migration/kb-scam-cases/agencies/doc.md",
+  "old_str": "The ACC's Aug 2024 inquiry listed Catharsis among the syndicate agencies [PF0008].",
+  "new_str": "Reporting the ACC's Aug 2024 inquiry, Prothom Alo lists Catharsis among the syndicate agencies [PF0008].",
+  "problem": "Prothom Alo prints this list in the paragraph after 'the ACC says' without saying it is the ACC's list; flags-press.csv and agencies.csv correctly say 'Prothom Alo lists', doc.md attributes it to the ACC",
+  "severity": "overstated"
+ },
+ {
+  "file": "/Users/rarba/Programming/brac/bits-migration/kb-scam-cases/agencies/doc.md",
+  "old_str": "The ACC's Aug 2024 inquiry listed it among the syndicate agencies, and in May 2025 a court barred its chairman",
+  "new_str": "Reporting the ACC's Aug 2024 inquiry, Prothom Alo lists it among the syndicate agencies, and in May 2025 a court barred its chairman",
+  "problem": "Prothom Alo prints this list in the paragraph after 'the ACC says' without saying it is the ACC's list; flags-press.csv and agencies.csv correctly say 'Prothom Alo lists', doc.md attributes it to the ACC",
+  "severity": "overstated"
+ },
+ {
+  "file": "/Users/rarba/Programming/brac/bits-migration/kb-scam-cases/agencies/doc.md",
+  "old_str": "The ACC's Aug 2024 inquiry listed it among the syndicate agencies, and in May 2025 a court barred its MD",
+  "new_str": "Reporting the ACC's Aug 2024 inquiry, Prothom Alo lists it among the syndicate agencies, and in May 2025 a court barred its MD",
+  "problem": "Prothom Alo prints this list in the paragraph after 'the ACC says' without saying it is the ACC's list; flags-press.csv and agencies.csv correctly say 'Prothom Alo lists', doc.md attributes it to the ACC",
+  "severity": "overstated"
+ },
+ {
+  "file": "/Users/rarba/Programming/brac/bits-migration/kb-scam-cases/agencies/doc.md",
+  "old_str": "The ACC's Aug 2024 inquiry listed it among the syndicate agencies [PF0014].",
+  "new_str": "Reporting the ACC's Aug 2024 inquiry, Prothom Alo lists it among the syndicate agencies [PF0014].",
+  "problem": "Prothom Alo prints this list in the paragraph after 'the ACC says' without saying it is the ACC's list; flags-press.csv and agencies.csv correctly say 'Prothom Alo lists', doc.md attributes it to the ACC",
+  "severity": "overstated"
+ },
+ {
+  "file": "/Users/rarba/Programming/brac/bits-migration/kb-scam-cases/agencies/doc.md",
+  "old_str": "The ACC's Aug 2024 inquiry listed it among the syndicate agencies [PF0010].",
+  "new_str": "Reporting the ACC's Aug 2024 inquiry, Prothom Alo lists it among the syndicate agencies [PF0010].",
+  "problem": "Prothom Alo prints this list in the paragraph after 'the ACC says' without saying it is the ACC's list; flags-press.csv and agencies.csv correctly say 'Prothom Alo lists', doc.md attributes it to the ACC",
+  "severity": "overstated"
+ },
+ {
+  "file": "/Users/rarba/Programming/brac/bits-migration/kb-scam-cases/agencies/doc.md",
+  "old_str": "The ACC's Aug 2024 inquiry listed it among the syndicate agencies [PF0011].",
+  "new_str": "Reporting the ACC's Aug 2024 inquiry, Prothom Alo lists it among the syndicate agencies [PF0011].",
+  "problem": "Prothom Alo prints this list in the paragraph after 'the ACC says' without saying it is the ACC's list; flags-press.csv and agencies.csv correctly say 'Prothom Alo lists', doc.md attributes it to the ACC",
+  "severity": "overstated"
+ },
+ {
+  "file": "/Users/rarba/Programming/brac/bits-migration/kb-scam-cases/agencies/doc.md",
+  "old_str": "The ACC's Aug 2024 inquiry listed it among the syndicate agencies [PF0007].",
+  "new_str": "Reporting the ACC's Aug 2024 inquiry, Prothom Alo lists it among the syndicate agencies [PF0007].",
+  "problem": "Prothom Alo prints this list in the paragraph after 'the ACC says' without saying it is the ACC's list; flags-press.csv and agencies.csv correctly say 'Prothom Alo lists', doc.md attributes it to the ACC",
+  "severity": "overstated"
+ },
+ {
+  "file": "/Users/rarba/Programming/brac/bits-migration/kb-scam-cases/agencies/doc.md",
+  "old_str": "The ACC's Aug 2024 inquiry listed it among the syndicate agencies [PF0012].",
+  "new_str": "Reporting the ACC's Aug 2024 inquiry, Prothom Alo lists it among the syndicate agencies [PF0012].",
+  "problem": "Prothom Alo prints this list in the paragraph after 'the ACC says' without saying it is the ACC's list; flags-press.csv and agencies.csv correctly say 'Prothom Alo lists', doc.md attributes it to the ACC",
+  "severity": "overstated"
+ },
+ {
+  "file": "/Users/rarba/Programming/brac/bits-migration/kb-scam-cases/agencies/doc.md",
+  "old_str": "The ACC's Aug 2024 inquiry says 9,861 workers went to Malaysia through the two Orbitals agencies, and Kashmeri",
+  "new_str": "Prothom Alo's report of the ACC's Aug 2024 inquiry says 9,861 workers went to Malaysia through the two Orbitals agencies, and Kashmeri",
+  "problem": "The 9,861 paragraph is Prothom Alo's text, not marked as the ACC summary (only the Snigdha and 5M paragraphs are)",
+  "severity": "minor"
+ },
+ {
+  "file": "/Users/rarba/Programming/brac/bits-migration/kb-scam-cases/agencies/doc.md",
+  "old_str": "The ACC's Aug 2024 inquiry says 9,861 workers went to Malaysia through the two Orbitals agencies [PF0005].",
+  "new_str": "Prothom Alo's report of the ACC's Aug 2024 inquiry says 9,861 workers went to Malaysia through the two Orbitals agencies [PF0005].",
+  "problem": "Same as above (Orbitals International)",
+  "severity": "minor"
+ },
+ {
+  "file": "/Users/rarba/Programming/brac/bits-migration/kb-scam-cases/agencies/flags-press.csv",
+  "old_str": "in Aug 2024 (an inquiry, not a charge); its summary says ex-MP Benazir Ahmed's (Dhaka-20) agency",
+  "new_str": "in Aug 2024 (an inquiry, not a charge); Prothom Alo's report says ex-MP Benazir Ahmed's (Dhaka-20) agency",
+  "problem": "The Ahmed International paragraph (238 then 7,849) is not introduced as the ACC summary in the article, unlike the Snigdha and 5M paragraphs",
+  "severity": "minor"
+ },
+ {
+  "file": "/Users/rarba/Programming/brac/bits-migration/kb-scam-cases/agencies/facts.csv",
+  "old_str": "in Aug 2024 (an inquiry, not a charge); its summary says ex-MP Benazir Ahmed's (Dhaka-20) agency",
+  "new_str": "in Aug 2024 (an inquiry, not a charge); Prothom Alo's report says ex-MP Benazir Ahmed's (Dhaka-20) agency",
+  "problem": "The Ahmed International paragraph (238 then 7,849) is not introduced as the ACC summary in the article, unlike the Snigdha and 5M paragraphs",
+  "severity": "minor"
+ },
+ {
+  "file": "/Users/rarba/Programming/brac/bits-migration/kb-scam-cases/agencies/doc.md",
+  "old_str": "Families of four Patgram youths say local men took Tk 9 lakh from each, promising garment and IT jobs, and the agency sent them to Moscow via Bahrain on 8 May 2026, where they were sold to a mercenary force;",
+  "new_str": "Families of four Patgram youths say local men took Tk 9 lakh from each with promises of good jobs in Russia and the agency sent them to Moscow via Bahrain on 8 May 2026; Prothom Alo reports the allegation that the agency, promising garment and IT jobs, sold them to a mercenary force;",
+  "problem": "Article: local men promised 'good jobs in Russia'; the garment/IT promise and the sale to a mercenary force are an unattributed allegation against the agency, not what the families say local men promised",
+  "severity": "minor"
+ },
+ {
+  "file": "/Users/rarba/Programming/brac/bits-migration/kb-scam-cases/agencies/doc.md",
+  "old_str": "The SRB arrested its founder Mizanur Rahman and Abu Taher alias Lentu on 13 Oct 2026 as ringleaders [PF0068].",
+  "new_str": "The SRB arrested its founder Mizanur Rahman and Abu Taher alias Lentu on 13 Oct 2026, calling them ringleaders of the trafficking ring [PF0068].",
+  "problem": "'as ringleaders' reads as established; it is the SRB's label",
+  "severity": "minor"
+ },
+ {
+  "file": "/Users/rarba/Programming/brac/bits-migration/kb-scam-cases/agencies/doc.md",
+  "old_str": "The SRB arrested Mohammad Arzur Rahman in Sep 2026 as a ringleader who used these and other unlicensed names",
+  "new_str": "The SRB arrested Mohammad Arzur Rahman in Sep 2026 and says he was a ringleader who used these and other unlicensed names",
+  "problem": "Allegation reads as fact; the article attributes all of it to the SRB",
+  "severity": "minor"
+ },
+ {
+  "file": "/Users/rarba/Programming/brac/bits-migration/kb-scam-cases/agencies/doc.md",
+  "old_str": "Ashek Elahi, who took him there, denies it",
+  "new_str": "Ashek Elahi, who he says took him there, denies it",
+  "problem": "That Ashek Elahi took him to the agency is Tareq Aziz's account",
+  "severity": "minor"
+ },
+ {
+  "file": "/Users/rarba/Programming/brac/bits-migration/kb-scam-cases/agencies/doc.md",
+  "old_str": "448 people have come forward, cases by at least 100 people",
+  "new_str": "a CID officer told the court 448 people have come forward; cases by at least 100 people",
+  "problem": "448 victims is a CID officer's statement in court, not established",
+  "severity": "minor"
+ },
+ {
+  "file": "/Users/rarba/Programming/brac/bits-migration/kb-scam-cases/agencies/doc.md",
+  "old_str": "for student visas; no one was sent and the office moved [PF0106].",
+  "new_str": "for student visas; the case says no one was sent and the office had moved [PF0106].",
+  "problem": "'no one was sent and the office moved' are the case's allegations",
+  "severity": "minor"
+ },
+ {
+  "file": "/Users/rarba/Programming/brac/bits-migration/kb-scam-cases/agencies/doc.md",
+  "old_str": "victims' case of 24 Oct 2026 alleges it took Tk 3.06 crore from about 200 people, Tk 80,000 to 3.5 lakh each, for jobs in Azerbaijan, gave fake appointment letters and visas, then shut;",
+  "new_str": "victims' case of 24 Oct 2026 lists about 200 people's passports and payments, Tk 3.06 crore in all; victims told Prothom Alo they paid Tk 80,000 to 3.5 lakh each for jobs in Azerbaijan and got fake appointment letters and visas before it shut;",
+  "problem": "The Tk 80,000-3.5 lakh range, fake letters and visas come from 23 victims Prothom Alo spoke to (PF0118), not from the case (PF0117)",
+  "severity": "minor"
+ },
+ {
+  "file": "/Users/rarba/Programming/brac/bits-migration/kb-scam-cases/agencies/flags-press.csv",
+  "old_str": "listing about 200 people's passports and payments, Tk 3.061 crore in all, alleging the firm took Tk 80,000 to 3.5 lakh each in four instalments for jobs in Azerbaijan, gave fake appointment letters from 'Colin Construction' and visas that turned out fake, then shut;",
+  "new_str": "listing about 200 people's passports and payments, Tk 3.061 crore in all; 23 victims told Prothom Alo the firm took Tk 80,000 to 3.5 lakh each in four instalments for jobs in Azerbaijan, gave fake appointment letters from 'Colin Construction' and visas that turned out fake, then shut;",
+  "problem": "Same mix of the case (PF0117) and victims' accounts (PF0118)",
+  "severity": "minor"
+ },
+ {
+  "file": "/Users/rarba/Programming/brac/bits-migration/kb-scam-cases/agencies/doc.md",
+  "old_str": "These reports name an agency without an RL number, and the name matches a licence only by spelling, matches more than one, or comes with details (address, RL, dates) that contradict the licence.",
+  "new_str": "These reports name an agency that cannot be tied to one licence: the name matches a licence only by spelling, matches more than one, or comes with details (address, a printed number, dates) that contradict the licence.",
+  "problem": "Says 'without an RL number' and then lists a contradicting RL as a reason (Bonna Bijoy '-1214')",
+  "severity": "minor"
+ }
+]

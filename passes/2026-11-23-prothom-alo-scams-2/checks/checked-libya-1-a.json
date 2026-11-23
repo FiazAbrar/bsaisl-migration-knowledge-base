@@ -1,0 +1,743 @@
+[
+ {
+  "key": "LB1-1",
+  "article_id": "1302b8f9-aeb2-437e-9e0c-98b2be4854ba",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "According to a case the US embassy in Dhaka filed against five Bangladeshis, reported in a Prothom Alo editorial of 25 February 2024, two Bangladeshis named Mofizur Rahman and Ashraful Alam Bhuiyan admitted at their US visa interview on 11 February that they were involved in trafficking people from Bangladesh to various countries, and they had submitted fake documents to the embassy.",
+  "quotes": [
+   "মামলার অভিযোগে বলা হয়, ১১ ফেব্রুয়ারি মফিজুর রহমান ও আশরাফুল আলম ভূঁইয়া নামের দুই বাংলাদেশি মার্কিন ভিসার জন্য সাক্ষাৎকার দিতে গিয়ে স্বীকার করেছেন, তাঁরা বাংলাদেশ থেকে বিভিন্ন দেশে মানব পাচারে জড়িত।",
+   "যুক্তরাষ্ট্রে যাওয়ার জন্য তাঁরা দূতাবাসে ভুয়া নথিও জমা দিয়েছিলেন।"
+  ]
+ },
+ {
+  "key": "LB1-2",
+  "article_id": "1302b8f9-aeb2-437e-9e0c-98b2be4854ba",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "According to the same US embassy case (editorial of 25 February 2024), one of the two men admitted that an immigration officer at Hazrat Shahjalal International Airport in Dhaka helped him in exchange for money.",
+  "quotes": [
+   "উল্লিখিত দুজনের একজন স্বীকার করেছেন, তাঁকে অর্থের বিনিময়ে শাহজালাল আন্তর্জাতিক বিমানবন্দরে একজন অভিবাসন কর্মকর্তা সাহায্য করেন।"
+  ]
+ },
+ {
+  "key": "LB1-3",
+  "article_id": "1302b8f9-aeb2-437e-9e0c-98b2be4854ba",
+  "verdict": "partly",
+  "problem": "The editorial does not explicitly attribute the 629 figure to the Daily Star report; it appears in the same paragraph but as a separate statement.",
+  "corrected_claim": "A Prothom Alo editorial of 25 February 2024 stated that BRAC's Migration Programme rescued and brought home 629 people in 2022 who had been living in misery abroad without valid papers, and that they had been taken to Libya with the promise of attractive jobs in Europe.",
+  "quotes": [
+   "বৈধ কাগজপত্র ছাড়া বিদেশে গিয়ে দুর্বিষহ জীবনযাপন করেছেন, ২০২২ সালে এ রকম ৬২৯ জনকে উদ্ধার করে দেশে ফেরত এনেছে ব্র্যাকের অভিবাসন কর্মসূচি।",
+   "ইউরোপে লোভনীয় চাকরি দেওয়ার নাম করে তাঁদের লিবিয়ায় নিয়ে যাওয়া হয়েছিল।"
+  ]
+ },
+ {
+  "key": "LB1-4",
+  "article_id": "1302b8f9-aeb2-437e-9e0c-98b2be4854ba",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "According to UNHCR, as cited in a Prothom Alo editorial of 25 February 2024, 13 per cent of the 5,236 refugees and migrant workers who went to Italy by sea were Bangladeshi citizens (the editorial does not state the period).",
+  "quotes": [
+   "ইউএনএইচসিআরের মতে, সমুদ্রপথে ইতালি যাওয়া ৫ হাজার ২৩৬ জন শরণার্থী ও অভিবাসী কর্মীর ১৩ শতাংশই বাংলাদেশের নাগরিক।"
+  ]
+ },
+ {
+  "key": "LB1-5",
+  "article_id": "1302b8f9-aeb2-437e-9e0c-98b2be4854ba",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "On 15 February 2024 a boat carrying 52 migrants caught fire and sank in the Mediterranean off the Tunisian coast; 8 Bangladeshis died, 26 others were rescued and one was seriously injured, according to a Prothom Alo editorial of 25 February 2024.",
+  "quotes": [
+   "১৫ ফেব্রুয়ারি তিউনিসিয়া উপকূলে ভূমধ্যসাগরে ৫২ জন অভিবাসীসহ একটি নৌকায় আগুন লেগে ডুবে গেলে ৮ বাংলাদেশি মারা যান। অপর ২৬ জনকে উদ্ধার করা হয়েছে। একজন গুরুতর আহত হন।"
+  ]
+ },
+ {
+  "key": "LB1-6",
+  "article_id": "1302b8f9-aeb2-437e-9e0c-98b2be4854ba",
+  "verdict": "partly",
+  "problem": "The article names the unit only as 'Counter Terrorism and Transnational Crime'; it does not say it is a police unit.",
+  "corrected_claim": "The Counter Terrorism and Transnational Crime unit identified a Libya-based trafficker who had appointed 40 brokers across Bangladesh whose job was to find young people wanting to go abroad, according to a Prothom Alo editorial of 25 February 2024.",
+  "quotes": [
+   "কাউন্টার টেররিজম অ্যান্ড ট্রান্সন্যাশনাল ক্রাইম লিবিয়াভিত্তিক এক পাচারকারীকে শনাক্ত করে বলেছে, ওই ব্যক্তি সারা দেশে ৪০ জন দালাল নিয়োগ করেছেন, যাদের কাজ হলো বিদেশে গমনে ইচ্ছুক তরুণদের খুঁজে বের করা।"
+  ]
+ },
+ {
+  "key": "LB1-7",
+  "article_id": "1302b8f9-aeb2-437e-9e0c-98b2be4854ba",
+  "verdict": "partly",
+  "problem": "The article says the report is from 'last year' (2023) and covers January to September, but does not state the year of that period; '2023' for the period is an inference.",
+  "corrected_claim": "A Home Ministry report on trafficking from the previous year (2023) said that in the nine months from January to September, courts disposed of 332 cases under the trafficking Act; in 316 of them (95.18 per cent) all the accused were acquitted, and in 16 cases 56 people were punished, only two of them with life imprisonment, according to a Prothom Alo editorial of 25 February 2024.",
+  "quotes": [
+   "স্বরাষ্ট্র মন্ত্রণালয়ের গত বছরের মানব পাচার-সংক্রান্ত এক প্রতিবেদনে বলা হয়েছে, জানুয়ারি থেকে সেপ্টেম্বর—এই ৯ মাসে মানব পাচার প্রতিরোধ আইনে করা ৩৩২ মামলার বিচার বিভিন্ন আদালতে নিষ্পত্তি হয়েছে।",
+   "এর মধ্যে ৩১৬ মামলায় সব আসামি খালাস পেয়েছেন, যা মোট মামলার ৯৫ দশমিক ১৮ শতাংশ। ১৬ মামলায় ৫৬ জনের শাস্তি হয়েছে, যার মধ্যে যাবজ্জীবন কারাদণ্ড মাত্র দুজনের।"
+  ]
+ },
+ {
+  "key": "LB1-8",
+  "article_id": "1302b8f9-aeb2-437e-9e0c-98b2be4854ba",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The father of a woman from Savar said the people he had sued for trafficking his daughter to India on the promise of taking her to Canada were all released, and that he himself spent four months in jail in a case the defendants filed against him, according to a Prothom Alo editorial of 25 February 2024.",
+  "quotes": [
+   "সাভারের এক ভুক্তভোগী নারীর বাবা জানান, কানাডায় নেওয়ার নাম করে ভারতে তাঁর মেয়েকে পাচার করার দায়ে তিনি যাঁদের বিরুদ্ধে মামলা করেছিলেন, তাঁরা সবাই ছাড়া পেয়েছেন।",
+   "উল্টো বিবাদীদের করা মামলায় তাঁকে চার মাস জেল খাটতে হয়েছে।"
+  ]
+ },
+ {
+  "key": "LB1-9",
+  "article_id": "1302b8f9-aeb2-437e-9e0c-98b2be4854ba",
+  "verdict": "partly",
+  "problem": "Only the influence/investigation point is clearly attributed to Salma Ali; the sentence about threatening victims into settlements follows separately and may be the editorial's own statement. 'Out-of-court' is not in the text (it says compromise settlements).",
+  "corrected_claim": "Salma Ali, president of the Bangladesh National Women Lawyers' Association, said trafficking cases are not investigated properly because ring members are very influential, and the Prothom Alo editorial of 25 February 2024 adds that they threaten victims into compromise settlements.",
+  "quotes": [
+   "বাংলাদেশ জাতীয় মহিলা আইনজীবী সমিতির সভাপতি সালমা আলী যথার্থই বলেছেন, মানব পাচারকারী চক্রের সদস্যরা অত্যন্ত প্রভাবশালী হওয়ায় মামলার তদন্ত সঠিকভাবে হয় না। তাঁরা ভুক্তভোগীদের হুমকি দিয়ে আপস-মীমাংসা করে ফেলেন।"
+  ]
+ },
+ {
+  "key": "LB1-10",
+  "article_id": "d0a55a7b-004a-4d7a-adc0-f598ece6e3b4",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "According to relatives, police and local sources, several young men from Rajoir, Madaripur, and Muksudpur, Gopalganj, left home for Italy on 14 January 2024, flew through Dubai to Libya, and on 14 February left Libya on an engine boat through brokers; eight of them died on the boat in the Mediterranean off Tunisia (five from Rajoir and three from Muksudpur), along with one Pakistani.",
+  "quotes": [
+   "স্বজন, পুলিশ ও স্থানীয় সূত্রে জানা যায়, গত ১৪ জানুয়ারি মাদারীপুরের রাজৈর ও গোপালগঞ্জের মুকসুদপুর উপজেলার কয়েক যুবক ইতালির উদ্দেশে বাড়ি থেকে বের হন। প্রথমে তাঁরা দুবাই হয়ে উড়োজাহাজে করে লিবিয়ায় পৌঁছান।",
+   "পরে ১৪ ফেব্রুয়ারি লিবিয়া থেকে দালালদের মাধ্যমে একটি ইঞ্জিনচালিত নৌকায় ইতালির উদ্দেশে রওনা হন তাঁরা।",
+   "আটজনের মধ্যে পাঁচজনই মাদারীপুরের রাজৈরের বাসিন্দা। বাকি তিনজনের বাড়ি গোপালগঞ্জের মুকসুদপুরে।"
+  ]
+ },
+ {
+  "key": "LB1-11",
+  "article_id": "d0a55a7b-004a-4d7a-adc0-f598ece6e3b4",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Relatives of the eight dead told journalists at Dhaka airport on 2 May 2024 that brokers had put 52 people on a small boat that could take 30, that the eight who died had been forced to stay below the deck, and that when they tried to come out for lack of oxygen the brokers beat them and sent them back down; the relatives said they died of the torture and lack of oxygen.",
+  "quotes": [
+   "নিহত ব্যক্তিদের স্বজনেরা গতকাল ঢাকার বিমানবন্দরে সাংবাদিকদের বলেন, ৩০ জন যেতে পারবেন, এমন একটি ছোট নৌকায় ৫২ জনকে নিয়েছিলেন দালালেরা।",
+   "যে আটজন মারা গেছেন, তাঁদের নৌকার পাটাতনের নিচে জোর করে রাখা হয়েছিল। তাঁরা অক্সিজেন-সংকটের কারণে পাটাতন থেকে বেরিয়ে আসার চেষ্টা করেন। কিন্তু দালালেরা তাঁদের মারধর করে আবার সেখানে পাঠান।",
+   "এভাবে নির্যাতন ও অক্সিজেন-সংকটের কারণেই তাঁদের মৃত্যু হয়েছে।"
+  ]
+ },
+ {
+  "key": "LB1-12",
+  "article_id": "d0a55a7b-004a-4d7a-adc0-f598ece6e3b4",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The brother of Sajal Bairagi (22) of Sendia village, Rajoir, Madaripur, one of the eight who died on the boat off Tunisia in February 2024, told Prothom Alo the family gave BDT 14 lakh to a broker named Mosharraf by selling land and cows and borrowing.",
+  "quotes": [
+   "সজীব বৈরাগী প্রথম আলোকে বলেন, জমি, গরু বিক্রি করে ও মানুষের কাছ থেকে টাকা ধার নিয়ে ১৪ লাখ টাকা দালাল মোশারফকে দিয়েছেন।",
+   "মাদারীপুরের রাজৈর উপজেলার সেনদিয়া গ্রামে ছেলে সজল বৈরাগীর (২২) লাশের অপেক্ষায়"
+  ]
+ },
+ {
+  "key": "LB1-13",
+  "article_id": "d0a55a7b-004a-4d7a-adc0-f598ece6e3b4",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Sajal Bairagi's brother said in May 2024 that the broker was telling the family not to file a case and had said he would return some money but was not giving it, and that, being poor and unable to afford a case, the family was trying to settle with the broker.",
+  "quotes": [
+   "এখন দালাল মামলা করতে না করছেন। কিছু টাকা ফেরত দেবেন বলে বলেছেন, কিন্তু দিচ্ছেন না। তাঁরা গরিব মানুষ, মামলা করতে গেলে টাকাপয়সার ব্যাপার। ভাইকে তো আর ফেরত পাবেন না। তাই দালালের সঙ্গে আপস করার চেষ্টা করছেন।"
+  ]
+ },
+ {
+  "key": "LB1-14",
+  "article_id": "d0a55a7b-004a-4d7a-adc0-f598ece6e3b4",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The Madaripur Superintendent of Police, Masud Alam, told Prothom Alo in May 2024 that police would give all legal help if relatives of the eight dead filed a case, but that the victims had little interest in filing cases.",
+  "quotes": [
+   "মাদারীপুরের পুলিশ সুপার মাসুদ আলম প্রথম আলোকে বলেন, এ ঘটনায় নিহত ব্যক্তিদের স্বজনেরা মামলা করলে সব ধরনের আইনি সহযোগিতা করা হবে।",
+   "তবে ভুক্তভোগীরা মামলা করতে আগ্রহী কম।"
+  ]
+ },
+ {
+  "key": "LB1-15",
+  "article_id": "d0a55a7b-004a-4d7a-adc0-f598ece6e3b4",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The bodies of the eight Bangladeshis who died on a boat off Tunisia in February 2024 reached Dhaka's Hazrat Shahjalal International Airport on a Saudia flight on 2 May 2024, and were sent to the Dhaka Medical College morgue for post-mortem before being handed to the families.",
+  "quotes": [
+   "গতকাল বৃহস্পতিবার দুপুর ১২টা ২০ মিনিটে সৌদিয়া এয়ারলাইনসের একটি ফ্লাইটে ঢাকার হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে আটজনের লাশ এসে পৌঁছায়।",
+   "কিন্তু ময়নাতদন্তের জন্য লাশগুলো পাঠানো হয় ঢাকা মেডিকেল কলেজের মর্গে। আজ শুক্রবার লাশ ময়নাতদন্তের পর পরিবারের কাছে হস্তান্তরের কথা আছে।"
+  ]
+ },
+ {
+  "key": "LB1-16",
+  "article_id": "3d66306a-98ea-42d5-bcf0-8e2fdf4a02d6",
+  "verdict": "partly",
+  "problem": "Azmir does not say Shahadat is from his own area; that comes from the union parishad member ('একই এলাকার'). 'Bangladeshi' is implied only.",
+  "corrected_claim": "Azmir Hossain (24) of Mirsarai, Chattogram, said Libya-based Shahadat Hossain kept tempting his mother with a job in Italy paying BDT 50,000 a month, took BDT 1.5 lakh in advance, and had Azmir carry the rest of the money himself; a local union parishad member said Shahadat is from the same area.",
+  "quotes": [
+   "আজমির হোসেন বলেন, লিবিয়াপ্রবাসী শাহাদাত হোসেন ৫০ হাজার টাকা বেতনের চাকরি করতে ইতালি নিয়ে যাওয়ার নানা প্রলোভন দেখাতে থাকেন তাঁর মাকে।",
+   "এ জন্য আগাম দেড় লাখ টাকাও নিয়ে যান সাহাদাত। বাকি টাকা আজমির নিজে সঙ্গে করে নিয়ে যান।",
+   "লিবিয়াপ্রবাসী সাহাদাত হোসেন একই এলাকার আজমির হোসেনকে ভালো চাকরি দেওয়ার কথা বলে লিবিয়া নিয়ে প্রতারণা করেছেন।"
+  ]
+ },
+ {
+  "key": "LB1-17",
+  "article_id": "3d66306a-98ea-42d5-bcf0-8e2fdf4a02d6",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Azmir Hossain said he reached Dubai on 21 March 2024, where the broker's men met him at the airport and kept 30 to 35 people together in a room of a small house for two days, then flew them to Egypt, held them 24 hours in a warehouse-like place in the airport area, and put them on another plane to Libya.",
+  "quotes": [
+   "গত ২১ মার্চ দুবাই পৌঁছান আজমির। বিমানবন্দরে সাহাদাতের লোকজন তাঁকে রিসিভ করে গাড়িতে তুলে ছোট একটা বাড়ির কক্ষে ৩০-৩৫ জনকে একসঙ্গে রাখেন।",
+   "সেখানে দুই দিন রেখে একটি ফ্লাইটে নিয়ে যান মিসর। মিসরে বিমানবন্দর এলাকায় গুদামঘরের মতো একটি স্থানে ২৪ ঘণ্টা রেখে আরেকটি বিমানে তুলে নিয়ে যান লিবিয়া।"
+  ]
+ },
+ {
+  "key": "LB1-18",
+  "article_id": "3d66306a-98ea-42d5-bcf0-8e2fdf4a02d6",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Azmir Hossain said everyone's passport was taken as soon as they reached Libya, that he was beaten whenever he mentioned the promised job, and that BDT 6 lakh was collected from his family in stages by phone.",
+  "quotes": [
+   "লিবিয়া পৌঁছানোর পরই আমাদের সবার পাসপোর্ট কেড়ে নেওয়া হয়।",
+   "চাকরি দেওয়ার কথা বললেই চলে মারধর। এদিকে বাড়িতে ফোন করে ধাপে ধাপে আদায় করে নেন ছয় লাখ টাকা।"
+  ]
+ },
+ {
+  "key": "LB1-19",
+  "article_id": "3d66306a-98ea-42d5-bcf0-8e2fdf4a02d6",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Azmir Hossain said that after collecting BDT 6 lakh from his family the broker sold him to another group at a high price and left him in a Libyan desert to be handed over; he said he escaped with a Libyan citizen's help and took shelter with a Bangladeshi he knew, and that the broker then came and took him back.",
+  "quotes": [
+   "বাড়ি থেকে ছয় লাখ টাকা আদায়ের পর সাহাদাত আমাকে চড়া দামে আরেক পক্ষের কাছে বিক্রি করে দেন। এক দিন পর সেই পক্ষের হাতে তুলে দিতে লিবিয়ার একটি মরুভূমিতে ফেলে আসেন আমাকে।",
+   "সেবার এক লিবীয় নাগরিকের সহায়তায় রক্ষা পেয়ে পরিচিত এক বাংলাদেশির আশ্রয় নিই। খবর পেয়ে সাহাদাত আমাকে সেখান থেকে নিয়ে আসেন।"
+  ]
+ },
+ {
+  "key": "LB1-20",
+  "article_id": "3d66306a-98ea-42d5-bcf0-8e2fdf4a02d6",
+  "verdict": "partly",
+  "problem": "The '41 days after leaving' figure is the reporter's statement, not Azmir's; the rest is correctly attributed.",
+  "corrected_claim": "Azmir Hossain said he was locked in a room and beaten regularly for trying to escape, went eight days without food, and reached home on 5 May 2024 in a critical condition, 41 days after leaving home according to Prothom Alo; his mother said he is now mentally ill from blows to the head and that she owes BDT 6 lakh.",
+  "quotes": [
+   "আজমির বলেন, পালানোর চেষ্টা করায় একটি কক্ষে আটকে রেখে নিয়মিত মারধর করা হতো তাঁকে।",
+   "সেখানে আট দিন অনাহারে থাকার পর জানালার কাচ ভেঙে একদিন পালিয়ে যান আজমির। তবে সে যাত্রায়ও ব্যর্থ হয়েছিলেন তিনি। এরপর নানা চড়াই–উতরাই পেরিয়ে গত ৫ মে ন্যাড়া মাথায় মুমূর্ষু অবস্থায় বাড়ি আসেন তিনি।",
+   "আমার এখন ছয় লাখ টাকা দেনা। মাথায় আঘাত করায় ছেলে এখন মানসিক রোগী হয়ে গেছে।"
+  ]
+ },
+ {
+  "key": "LB1-21",
+  "article_id": "3d66306a-98ea-42d5-bcf0-8e2fdf4a02d6",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Abdullah Al Zobayer (24) of Mirsarai, Chattogram, told Prothom Alo in June 2024 that he trusted a friend who was the younger brother of a Libya-based broker and a member of the ring, was taken to Libya on the promise of Italy, and that the ring collected BDT 4 lakh from his family.",
+  "quotes": [
+   "সাহাদাতের ছোট ভাই চক্রের সদস্য আজাদ হোসেন আমার বন্ধু। ওর কথা বিশ্বাস করে এ পথে পা বাড়িয়েছিলাম।",
+   "আমাকে ইতালি পাঠানোর কথা বলে লিবিয়া নিয়ে যায়।",
+   "আমার পরিবারের কাছ থেকে চার লাখ টাকা আদায় করেছেন তাঁরা।"
+  ]
+ },
+ {
+  "key": "LB1-22",
+  "article_id": "3d66306a-98ea-42d5-bcf0-8e2fdf4a02d6",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Abdullah Al Zobayer, who returned from captivity in Libya in 2024, said the ring that took him has many members and also targets Bangladeshi expatriates in the Middle East, taking people to Libya with talk of good jobs or passage to Europe and holding them hostage to collect money from their families.",
+  "quotes": [
+   "ওই চক্রের সদস্য অনেক। বাংলাদেশ ছাড়াও মধ্যপ্রাচ্যে থাকা প্রবাসীরা তাঁদের টার্গেট। ভালো চাকরি বা ইউরোপ পাঠানোর কথা বলে লিবিয়া নিয়ে জিম্মি করে পরিবারের কাছ থেকে টাকা আদায় করাই হচ্ছে তাঁদের কাজ।"
+  ]
+ },
+ {
+  "key": "LB1-23",
+  "article_id": "3d66306a-98ea-42d5-bcf0-8e2fdf4a02d6",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "After returning, Azmir Hossain filed a case in a Chattogram court against six people, including the Libya-based broker and his brother; his lawyer told Prothom Alo in June 2024 that it was a criminal case over cheating and torture in Libya and that the court took cognisance of the complaint and ordered an investigation.",
+  "quotes": [
+   "এ ঘটনায় বাড়ি ফিরে আজমির হোসেন বাদী হয়ে সাহাদাত হোসেন, তাঁর ভাই আজাদ হোসেন, সজীব, আজিম, নুরুল করিম, বিবি জহুরাসহ ছয়জনের বিরুদ্ধে চট্টগ্রাম আদালতে একটি মামলা করেছেন।",
+   "লিবিয়াতে প্রতারণা ও অত্যাচারের শিকার হয়েছে মর্মে একটি ফোজদারি মামলা করেছে। বিজ্ঞ আদালত অভিযোগ আমলে নিয়ে সেটি তদন্ত করতে নির্দেশ দিয়েছে।"
+  ]
+ },
+ {
+  "key": "LB1-24",
+  "article_id": "3d66306a-98ea-42d5-bcf0-8e2fdf4a02d6",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "A union parishad member in Karerhat, Mirsarai, said he phoned the Libya-based broker several times to get Azmir Hossain sent home and saw the marks of beating on Azmir's head and body on a video call.",
+  "quotes": [
+   "করেরহাট ইউনিয়ন পরিষদের ৭ নম্বর ওয়ার্ডের ইউপি সদস্য মো. আজাদ উদ্দিন প্রথম আলোকে বলেন",
+   "আজমিরকে দেশে ফেরাতে আমি ফোনে বেশ কয়েকবার সাহাদাতের সঙ্গে কথা বলেছি। ভিডিও কলে সেখানে মারধরে আজমিরের মাথা ফুলাসহ শরীরের বিভিন্ন স্থানে আঘাতের চিহ্ন দেখেছি।"
+  ]
+ },
+ {
+  "key": "LB1-25",
+  "article_id": "0be618cd-771d-4a70-a77a-1366423498d5",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Prothom Alo reported on 13 July 2024 that at least 24 people from Bhairab and elsewhere in Kishoreganj, Habiganj and Narsingdi went to Libya at about the same time through a broker ring led by Rasel Mia of Bhairab to cross to Italy by sea, that none had reached Italy, and that some were hostages of kidnappers and others were in Libyan jails.",
+  "quotes": [
+   "একই সময়ে দালাল রাসেল চক্রের মাধ্যমে ভাগ্যান্বেষণে সাগরপথে ইতালি পাড়ি জমাতে ভৈরব, কিশোরগঞ্জ, হবিগঞ্জ ও নরসিংদী এলাকার অন্তত ২৪ জন লিবিয়া যান। তাঁদের কেউ এখন পর্যন্ত ইতালি পৌঁছাতে পারেননি।",
+   "তাঁদের কেউ এখন অপহরণকারীর হাতে জিম্মি, আবার কেউ আছেন লিবিয়ার কারাগারে।"
+  ]
+ },
+ {
+  "key": "LB1-26",
+  "article_id": "0be618cd-771d-4a70-a77a-1366423498d5",
+  "verdict": "partly",
+  "problem": "Only the BDT 23 lakh figure comes from a family (Shafiqul's father); the BDT 24 lakh (Faruk Mia's father) and BDT 22 lakh (Tofayel Ahmed, Sabuj Mia) figures are stated by the reporter. The father does not say who is demanding the BDT 10 lakh; 'the broker' is not stated.",
+  "corrected_claim": "Prothom Alo reported in July 2024 that Rasel Mia took BDT 24 lakh from the father of Faruk Mia of Bhairab and BDT 22 lakh each from Tofayel Ahmed and Sabuj Mia for Italy; the father of Shafiqul Islam of Shibpur, Narsingdi, said Rasel took BDT 23 lakh and that BDT 10 lakh was now being demanded to free his son.",
+  "quotes": [
+   "তাঁর বাবা ইউনুছ মিয়া বছরখানেক আগে রাসেল মিয়া নামের একজনের হাতে ২৪ লাখ টাকা তুলে দেন।",
+   "‘ইতালি পাঠানোর কথা বলে রাসেল ২৩ লাখ টাকা নিয়েছে। এখন ছেলেকে মুক্ত করতে চাচ্ছে ১০ লাখ টাকা।",
+   "কিশোরগঞ্জের তোফায়েল আহমেদ ও নরসিংদীর শিবপুর এলাকার সবুজ মিয়ার কাছ থেকে রাসেল নিয়েছেন ২২ লাখ টাকা করে।"
+  ]
+ },
+ {
+  "key": "LB1-27",
+  "article_id": "0be618cd-771d-4a70-a77a-1366423498d5",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Families of two hostages in the Bhairab case said in July 2024 that large ransoms were being demanded but that they could find no one who could assure them that paying would get the men released.",
+  "quotes": [
+   "তাঁদের পরিবারের সদস্যরা বলেন, প্রতিনিয়ত নির্যাতন করার কথা কানে আসছে। মুক্তিপণ হিসেবে মোটা অঙ্কের টাকা চাওয়া হচ্ছে। কিন্তু টাকা দিলে মুক্তি পাবে, এমন নিশ্চয়তার কাউকে পাওয়া যাচ্ছে না।"
+  ]
+ },
+ {
+  "key": "LB1-28",
+  "article_id": "0be618cd-771d-4a70-a77a-1366423498d5",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "According to local people in Bhairab, when the hostages phoned home begging to be freed, the broker Rasel Mia and his ring members hid and cut off contact with the families; the families then went to community leaders for a remedy and got no result.",
+  "quotes": [
+   "জিম্মি অবস্থা থেকে ভুক্তভোগীরা পরিবারের সঙ্গে যোগাযোগ করে নিজেদের কষ্টের কথা জানান। টাকা দিয়ে তাঁদের মুক্ত করার আকুতি জানিয়ে আসছেন। এমন বিপদের সময় রাসেল ও চক্রের সদস্যরা নিজেদের আড়াল করে রাখেন। ভুক্তভোগী পরিবারের সঙ্গে যোগাযোগ বিচ্ছিন্ন করে দেন।",
+   "প্রতিকার পেতে ভুক্তভোগী পরিবারের সদস্যরা সমাজপতিদের দ্বারস্থ হন। কিন্তু ফল পাননি।"
+  ]
+ },
+ {
+  "key": "LB1-29",
+  "article_id": "0be618cd-771d-4a70-a77a-1366423498d5",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Local people in Bhairab, Kishoreganj, said in July 2024 that several broker rings sending people to Italy by sea through Libya had been active there for 10 years and that many people did reach Italy through them; the most active, Rasel Mia's ring, then took several crore taka from 24 people, none of whom reached Italy.",
+  "quotes": [
+   "স্থানীয় লোকজনের সঙ্গে কথা বলে জানা গেছে, ভৈরবে ১০ বছর আগে সাগরপথে লিবিয়া হয়ে অবৈধ প্রক্রিয়ায় ইতালি পাঠানোর একাধিক দালাল চক্র মাঠপর্যায়ে সক্রিয় হয়। চক্রগুলোর মাধ্যমে অনেকে ইতালি যেতে পারেন। বর্তমানে সবচেয়ে সক্রিয় আছে রাসেল চক্র।",
+   "সর্বশেষ তারা ইতালি পাঠানোর কথা বলে ভৈরব, কিশোরগঞ্জ, হবিগঞ্জ ও নরসিংদী এলাকার ২৪ জনের কাছ থেকে কয়েক কোটি টাকা নেয়। তবে কেউই ইতালি যেতে পারেননি।"
+  ]
+ },
+ {
+  "key": "LB1-30",
+  "article_id": "0be618cd-771d-4a70-a77a-1366423498d5",
+  "verdict": "partly",
+  "problem": "The officer-in-charge only said Shafiqul's father filed a case after Rasel's arrest and Rasel was sent to jail in it; the beating, handover to police and the Kishoreganj district jail / trafficking Act details are the reporter's narration, not the OC's.",
+  "corrected_claim": "Prothom Alo reported that on 5 July 2024, when Rasel Mia came to his home in Jagannathpur, Bhairab, victims' families surrounded and beat him and handed him to police, who sent him to Kishoreganj district jail under the trafficking Act; the officer-in-charge of Bhairab police station said the father of one victim filed a case after the arrest and Rasel was sent to jail in that case.",
+  "quotes": [
+   "৫ জুলাই রাসেল নিজের বাড়ি পৌর শহরের জগন্নাথপুর আসেন। এই তথ্য জানতে পেরে ভুক্তভোগী পরিবারগুলো তাঁকে ঘেরাও করে মারধর করে পুলিশে দেয়।",
+   "পরে পুলিশ তাঁকে ধরে নিয়ে মানব পাচার আইনে কিশোরগঞ্জ জেলা কারাগারে পাঠায়।",
+   "এর মধ্যে রাসেল আটক হওয়ার পর ভুক্তভোগীদের পক্ষ থেকে শফিকুলের বাবা এবাদুল্লাহ বাদী হয়ে মামলা করেন। রাসেলকে ওই মামলায় কারাগারে পাঠানো হয়।"
+  ]
+ },
+ {
+  "key": "LB1-31",
+  "article_id": "0be618cd-771d-4a70-a77a-1366423498d5",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Rasel Mia admitted under police questioning that he took money on the promise of sending people to Italy, and said he had made all the arrangements but could not send everyone because new problems had arisen on the sea route, at which everyone grew impatient.",
+  "quotes": [
+   "ইতালি পাঠানোর প্রতিশ্রুতিতে টাকা নেওয়ার কথা পুলিশের জিজ্ঞাসাবাদে স্বীকার করেছেন রাসেল মিয়া। তিনি বলেন, ইতালি পাঠানোর সব উদ্যোগ নিলেও সাগরপথে নতুন করে সমস্যা দেখা দেওয়ায় সবাইকে পাঠাতে পারছিলেন না। এতে সবাই অধৈর্য হয়ে যায়।"
+  ]
+ },
+ {
+  "key": "LB1-32",
+  "article_id": "cc6be9fe-fe5c-41a6-9643-c5bc21c231ac",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Prothom Alo reported on 21 September 2024 that a broker ring sent 26 young men from 25 families in Goalnagar union, Nasirnagar, Brahmanbaria, and Ratani village, Austagram, Kishoreganj, to Libya on the promise of Italy, each paying BDT 11 lakh; nine came home after torture and harassment, some of the rest were captive and several were missing.",
+  "quotes": [
+   "এনামুলের দুই ছেলেসহ গোয়ালনগর ইউনিয়নের লালুয়ারটুক, একই ইউনিয়নের দক্ষিণদিয়া, গোয়ালনগর ও কিশোরগঞ্জের অষ্টগ্রাম উপজেলার বাঙ্গালপাড়া ইউনিয়নের রতানি গ্রামের ২৫টি পরিবারের ২৬ যুবককে ইতালিতে পাঠানোর কথা বলে লিবিয়ায় পাঠায় দালাল চক্রটি।",
+   "এ জন্য প্রত্যেকেই ১১ লাখ করে টাকা দিতে হয়েছে। নির্যাতন ও হয়রানির পর তাঁদের মধ্যে ৯ যুবক দেশে ফিরে এলেও বাকিদের কেউ কেউ বন্দী এবং কয়েকজন এখনো নিখোঁজ।"
+  ]
+ },
+ {
+  "key": "LB1-33",
+  "article_id": "cc6be9fe-fe5c-41a6-9643-c5bc21c231ac",
+  "verdict": "partly",
+  "problem": "The speakers (Mahin Ahmed, Delowar Hossain and others) include men from Ratani village, Austagram, Kishoreganj, not only Nasirnagar; 'second' game is a slight gloss on 'again'.",
+  "corrected_claim": "Returnees from Nasirnagar, Brahmanbaria, and Austagram, Kishoreganj, said each of them gave the broker Farhad Mia BDT 4 lakh before leaving, that he took BDT 4.5 lakh more from each while holding them in a camp in Libya, and that after they were caught on the boat and jailed and he got them out, he again took BDT 2.5 lakh from each family promising to send them to Italy through the 'game' (the boat crossing).",
+  "quotes": [
+   "মাহিন আহমেদ, দেলোয়ার হোসেনসহ কয়েক জানান, লিবিয়া যাওয়ার আগে সবাই ফরহাদকে চার লাখ টাকা করে দিয়েছেন। লিবিয়ায় নিয়ে ক্যাম্পে আটকে রেখে ফরহাদ সবার কাছ থেকে আরও সাড়ে চার লাখ টাকা করে নেন।",
+   "নৌকায় তুলে দিলে প্রশাসন ধরে ফেললে তাঁদের কারাভোগ করতে হয়। পরে ফরহাদ সবাইকে ছাড়িয়ে আনেন। ‘গেম’ (নৌকায় পাঠানোর প্রক্রিয়া)-এর মাধ্যমে ইতালি পাঠানোর কথা বলে সবার পরিবারের কাছ থেকে আবার আড়াই লাখ টাকা করে নেন ফরহাদ।",
+   "কিশোরগঞ্জের অষ্টগ্রাম উপজেলার বাঙ্গালপাড়া ইউনিয়নের রতানি গ্রামের মাহিন আহমেদ"
+  ]
+ },
+ {
+  "key": "LB1-34",
+  "article_id": "cc6be9fe-fe5c-41a6-9643-c5bc21c231ac",
+  "verdict": "partly",
+  "problem": "The returnees include men from Ratani village, Austagram, Kishoreganj, not only Nasirnagar.",
+  "corrected_claim": "Returnees from Nasirnagar, Brahmanbaria, and Austagram, Kishoreganj, said that two and a half to three months after the last payment the broker sold them, that after three months in jail they reached their families through a Pakistani man with the help of a man from Bhairab, and could come home only after each paid a further BDT 1 lakh 20 thousand for the air ticket and other costs; they returned between 7 August and 14 September 2024 after release from Libyan jail.",
+  "quotes": [
+   "আড়াই থেকে তিন মাস পর ফরহাদ তাঁদের বিক্রি করে দেন। তিন মাস কারাগারে থাকার পর এক পাকিস্তানির মাধ্যমে ভৈরবের এক ব্যক্তির সহায়তায় পরিবারের সঙ্গে যোগাযোগ করেন। প্রত্যেকে বিমানের টিকিটসহ খরচ বাবদ আরও ১ লাখ ২০ হাজার টাকা করে দিলে তাঁরা দেশে ফিরে আসতে পারেন।",
+   "গত ৭ আগস্ট থেকে ১৪ সেপ্টেম্বরের মধ্যে লিবিয়ার কারাগার থেকে ছাড়া পেয়ে দেশে ফিরে আসেন তাঁরা।"
+  ]
+ },
+ {
+  "key": "LB1-35",
+  "article_id": "cc6be9fe-fe5c-41a6-9643-c5bc21c231ac",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Suman Mia of Nasirnagar told Prothom Alo he paid the broker BDT 11 lakh in all and was told he would be taken to Italy within a week; he said 60 people were put on a boat from Benghazi, and after it had run for an hour they understood they had all been sold.",
+  "quotes": [
+   "ভুক্তভোগী সুমন মিয়া প্রথম আলোকে বলেন, ইতালি যেতে ফরহাদকে সর্বমোট ১১ লাখ টাকা দিয়েছিলেন। এক সপ্তাহের মধ্যে ইতালি নিয়ে যাওয়ার কথা বলে লিবিয়া নেওয়া হয়। পরে বেনগাজি শহর থেকে একটি নৌকায় করে ৬০ জনকে তুলে নেওয়া হয়।",
+   "নৌকাটি এক ঘণ্টা চলার পর তাঁরা বুঝতে পারেন, তাঁদের সবাইকে বিক্রি করে দেওয়া হয়েছে।"
+  ]
+ },
+ {
+  "key": "LB1-36",
+  "article_id": "cc6be9fe-fe5c-41a6-9643-c5bc21c231ac",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Suman Mia said the 60 were held in a camp for a month and a half, beaten every day and fed once in 24 hours, given two litres of salt water for bathing and the toilet and one bread at night, and made to do cleaning work from morning to evening at the house of a man named Ahammad, whose son beat them with a pistol when they did not work.",
+  "quotes": [
+   "একটি ক্যাম্পে নিয়ে তাঁদের রাখা হয় দেড় মাস। সেখানে প্রতিদিন তাঁদের মারধর করা হতো। ২৪ ঘণ্টার জন্য একবার খাবার দেওয়া হতো। গোসল ও প্রস্রাব-পায়খানার জন্য দুই লিটার লোনা পানি দিত এবং শুধু রাতে একটি রুটি দিত।",
+   "সকাল থেকে সন্ধ্যা পর্যন্ত আহাম্মদ নামের একজনের বাড়িতে তাঁরা পরিষ্কার-পরিচ্ছন্নতার কাজ করতেন। কাজ না করলে আহাম্মদের ছেলে পিস্তল দিয়ে মারধর করতেন ও হুমকি দিতেন।"
+  ]
+ },
+ {
+  "key": "LB1-37",
+  "article_id": "cc6be9fe-fe5c-41a6-9643-c5bc21c231ac",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Enamul Haque of Lalurtuk village, Nasirnagar, said he spent BDT 22 lakh to send two sons (land sold for BDT 7 lakh, a BDT 12 lakh loan and savings), that one son was 'sold four times', and that he last spoke to the other a year earlier; both were missing in September 2024.",
+  "quotes": [
+   "এনামুল হক বলেন, ‘সাত লাখ টেহার জমি বিক্রি করছি। ১২ লাখ টেহা ঋণ করছি। জমাইছিলাম কিছু টেহা। এমনে ২২ লাখ টেহা দিয়া দুই পুলারে বিদেশ পাঠাইছিলাম।",
+   "তাকবিরুলরে চাইর বার বেচছে। তফসিরুলের লগে এক বছর আগে সর্বশেষ কথা অইছিল। অহন হেরা নিখুঁজ।",
+   "ব্রাহ্মণবাড়িয়ার নাসিরনগর উপজেলার গোয়ালনগর ইউনিয়নের লালুয়ারটুক গ্রামের বাসিন্দা এনামুল হকের পরিবারের চিত্র এটি।"
+  ]
+ },
+ {
+  "key": "LB1-38",
+  "article_id": "cc6be9fe-fe5c-41a6-9643-c5bc21c231ac",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The Nasirnagar Upazila Nirbahi Officer told Prothom Alo in September 2024 that the administration had not known of the 26 men's cases until journalists told them, that none of the victims had complained to it, and that legal action would follow an investigation if a complaint came; relatives had held a human chain demanding the brokers' trial and compensation.",
+  "quotes": [
+   "তবে এসব বিষয়ে তাঁদের জানা ছিল না। সাংবাদিকদের মাধ্যমে জানতে পেরেছেন। ভুক্তভোগী ব্যক্তিদের কেউই তাঁদের কাছে কোনো অভিযোগ করেননি। অভিযোগ পেলে তদন্ত সাপেক্ষে আইনগত ব্যবস্থা নেওয়া হবে।",
+   "দালালদের বিচার দাবি করে ক্ষতিপূরণ চেয়ে স্বজনেরা এলাকায় মানববন্ধনও করেছেন।"
+  ]
+ },
+ {
+  "key": "LB1-39",
+  "article_id": "cc6be9fe-fe5c-41a6-9643-c5bc21c231ac",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "One man the Nasirnagar families accuse, a cousin of the alleged ring leader, told Prothom Alo he had himself gone to Libya through that cousin, spent a month and a half in jail there with the others and 18 months in Libya in all, and took money from no one.",
+  "quotes": [
+   "আরেক অভিযুক্ত সাইদুল মিয়া প্রথম আলোকে বলেন, ‘আমি চাচাতো ভাই ফরহাদের মাধ্যমে লিবিয়ায় গিয়েছি। তাঁদের সঙ্গে সেখানে আমিও দেড় মাস জেলে ছিলাম। সর্বমোট ১৮ মাস সেখানে থেকে দুই মাস আগে দেশে চলে আসি। আমি কারও কাছ থেকে টাকা নিইনি।"
+  ]
+ },
+ {
+  "key": "LB1-40",
+  "article_id": "acc10e12-5520-419d-bb80-f79f14b6237d",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Faridul Alam of Chandanaish, Chattogram, who had worked in Dubai since 2003, told a columnist writing in Prothom Alo in December 2024 that he made a verbal contract of BDT 5 lakh with a Bangladeshi broker from Noakhali to be taken as far as Greece: BDT 50,000 in advance, BDT 1.5 lakh after reaching Iran and the remaining BDT 3 lakh after reaching Turkey.",
+  "quotes": [
+   "২০০৩ সালে আয়ের আশায় ফরিদ পাড়ি জমিয়েছিলেন মধ্যপ্রাচ্যের দেশ আরব আমিরাতের আলোঝলমল শহর দুবাইয়ে।",
+   "দালালের নাম নূর ইসলাম, তাঁর বাড়ি নোয়াখালী।\nদালালের সঙ্গে মৌখিক চুক্তি হলো পাঁচ লাখ টাকায়। ঠিক হলো, দালাল তাঁকে গ্রিস পর্যন্ত পৌঁছানোর ব্যবস্থা করবেন। এজন্য ৫০ হাজার টাকা অগ্রিম দিতে হবে।",
+   "এরপর দেড় লাখ টাকা দিতে হবে ইরানে পৌঁছানোর পরে। আর তুরস্কে যাওয়ার পর অবশিষ্ট তিন লাখ পরিশোধ করতে হবে।"
+  ]
+ },
+ {
+  "key": "LB1-41",
+  "article_id": "acc10e12-5520-419d-bb80-f79f14b6237d",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "By Faridul Alam's account, at the end of 2010 the smugglers put him and several others in a taxi in Dubai that crossed the UAE border into a coastal hill area of Oman though the passengers had no passport or visa, and from there about thirty young men were put on a boat to Bandar Abbas in Iran, where another Bangladeshi broker received them.",
+  "quotes": [
+   "সময়টা ২০১০ সালের শেষ দিকে। আদম ব্যবসার লোকজন দুবাই থেকে ফরিদ এবং ফরিদের মতো কয়েকজনকে একসঙ্গে তুলে দিল একটি ট্যাক্সিতে।",
+   "যাত্রীদের কোনো ধরনের পাসপোর্ট-ভিসা না থাকলেও তাঁদের নিয়ে ট্যাক্সিটি আরব আমিরাতের সীমান্ত পার হয়ে ওমান পৌঁছাল।",
+   "ওমানের সমুদ্র-তীরবর্তী এই জায়গা থেকে ফরিদের মতো আরও জনা তিরিশেক যুবককে একত্রে তুলে দেওয়া হলো একটি বোটে।\nবোট পৌঁছাল ইরানের বন্দর আব্বাসে, যাকে ফরিদ যাকে বলেছেন ‘বান্দ্রাবাস’। বন্দর আব্বাসে মাসুম নামের আরেক বাঙালি দালাল তাঁদের রিসিভ করলেন"
+  ]
+ },
+ {
+  "key": "LB1-42",
+  "article_id": "acc10e12-5520-419d-bb80-f79f14b6237d",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "By Faridul Alam's account, after he reached Iran a relative in Dubai deposited BDT 1.5 lakh into an Iranian bank account the brokers gave, and the balance of the contract was paid into a bank account the brokers gave while the group was held in Istanbul.",
+  "quotes": [
+   "ইরানে পৌঁছানোর পর দালালদের দেওয়া ইরানি ব্যাংক অ্যাকাউন্টে আরও দেড় লাখ টাকা ফরিদের ভাই সম্পর্কীয় একজন দুবাই থেকে জমা দেন।",
+   "এখানে থাকতেই চুক্তির বাকি টাকা দালাল তথা পাচারকারীদের দেওয়া ব্যাংক অ্যাকাউন্টে পরিশোধ করা হয়।"
+  ]
+ },
+ {
+  "key": "LB1-43",
+  "article_id": "acc10e12-5520-419d-bb80-f79f14b6237d",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Faridul Alam said the group was kept about seven days in Iran and taken by taxi and then bus into Turkey, that police took them off the bus on the way to Istanbul and sent them back to the border six times, and that the broker's men sent them again each time until they reached Istanbul on the seventh attempt.",
+  "quotes": [
+   "ইরানে সাত দিনের মতো তাঁদের রাখা হয় বেশ আদরযত্নে। এক সপ্তাহ পর তাঁদের ইরান থেকে প্রথমে ট্যাক্সিতে ও পরে বাসে নিয়ে যাওয়া হয় তুরস্কে।",
+   "এভাবে ইস্তাম্বুল যাওয়ার পথে ছয়বার তাঁরা পুলিশের হাতে ধরা পড়েন। ছয়বার পুলিশ তাঁদের ফেরত পাঠিয়ে দেয় এবং ছয়বারই পুনরায় দালালের লোকজন তাঁদের ইস্তাম্বুল পাঠানোর ব্যবস্থা করেন।",
+   "ছয়বারের পর সপ্তমবারে তাঁরা পুলিশের হাতে ধরা না পড়ে ইস্তাম্বুল পর্যন্ত পৌঁছাতে সমর্থ হন।"
+  ]
+ },
+ {
+  "key": "LB1-44",
+  "article_id": "acc10e12-5520-419d-bb80-f79f14b6237d",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Faridul Alam said that in Istanbul many people were kept crammed in one room and not allowed outside for more than a month, and that about a hundred people were then loaded for Greece into a closed lorry-like vehicle with room for 25 to 30 at most.",
+  "quotes": [
+   "এক রুমে গাদাগাদি করে অনেককে রাখা হয় এবং বাইরে বেরোতে দেওয়া হয় না।\nএক মাসের বেশি সময় এখানে তাঁদের এভাবে পড়ে থাকতে হয়।",
+   "এই গাড়ির ধারণক্ষমতা বড়জোর ২৫-৩০ জন। কিন্তু এই গাড়িতে শ খানেকের মতো লোক ওঠানো হয়।"
+  ]
+ },
+ {
+  "key": "LB1-45",
+  "article_id": "acc10e12-5520-419d-bb80-f79f14b6237d",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "By Faridul Alam's account, Greek soldiers or border guards caught the group where the lorry dropped them and put them in jail, UN refugee agency staff then moved them to a refugee camp, and after about ten days they were given a document called a 'stay paper' and took a bus to Athens with the EUR 60 per person the smugglers had handed them in Istanbul.",
+  "quotes": [
+   "সীমান্ত অতিক্রমের পর যেখানে তাঁদের নামানো হয়, সেখান থেকে গ্রিসের সেনাবাহিনী বা সীমান্তরক্ষীরা তাঁদের ধরে নিয়ে জেলে ঢুকিয়ে দেয়।\nপরে জাতিসংঘ শরণার্থী সংস্থার লোকজন তাঁদের নিয়ে শরণার্থীশিবিরে স্থান দেন।",
+   "এই শরণার্থীশিবিরে দিন দশেক থাকার পর তাঁদের ‘স্টে পেপার’ নামে একটি ডকুমেন্ট দেওয়া হয়।",
+   "ইস্তাম্বুল থেকে গাড়িতে তুলে দেওয়ার সময় পাচারকারীরা তাঁদের হাতে জনপ্রতি ৬০ ইউরো দিয়ে দিয়েছিলেন। সেই টাকায় বাসের টিকিট কিনে তাঁদের এই এথেন্স-যাত্রা শুরু হয়।"
+  ]
+ },
+ {
+  "key": "LB1-46",
+  "article_id": "acc10e12-5520-419d-bb80-f79f14b6237d",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Faridul Alam said he presented himself as Rohingya in all his asylum applications in Greece because the smuggling ring's brokers advised that asylum might be easier that way; the court did not accept his application and stamped his stay paper, which let him stay one month, and he never got asylum in Greece despite four or five interviews.",
+  "quotes": [
+   "গ্রিসে থাকার সময় সব অ্যাসাইলামের আবেদনে ফরিদ নিজেকে রোহিঙ্গা পরিচয় দিয়েছিলেন, কারণ পাচার চক্রের দালালেরা পরামর্শ দিয়েছিল, এই পরিচয়ে অ্যাসাইলাম সহজ হতে পারে।",
+   "আদালত ফরিদের অ্যাসাইলাম আবেদন গ্রহণ না করে স্টে পেপারে ছবি লাগিয়ে একটি সিল দিয়ে দেন। এই পেপার তাঁকে এক মাস থাকার বৈধতা দেয়।",
+   "অ্যাসাইলামের জন্য ফরিদুল চার-পাঁচবার ইন্টারভিউ দিয়েছেন। কিন্তু ভাগ্য তাঁর কখনোই প্রসন্ন হয়নি।\nঅ্যাসাইলামের কাগজ তাঁর কখনো জোটেনি।"
+  ]
+ },
+ {
+  "key": "LB1-47",
+  "article_id": "acc10e12-5520-419d-bb80-f79f14b6237d",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Faridul Alam said he lived about four years in Athens hawking and doing manual work, with police at times detaining him and taking his goods, and that what he earned fed him and left nothing to send to his family in Bangladesh.",
+  "quotes": [
+   "তাই সময়ে-অসময়ে থানায় চলে যাওয়া, হকারির জিনিসপত্র পুলিশের হাতিয়ে নেওয়া, ইত্যাকার ঝক্কি-ঝামেলার মধ্য দিয়েই স্বল্প আয়ে চলতে থাকে তাঁর এথেন্সের দিনগুলো।",
+   "হকারি বা কায়িক শ্রম দিয়ে যা যৎসামান্য রোজগার করতে পারেন, তা দিয়ে নিজের পেট চালিয়ে আর তেমন কিছু অবশিষ্ট থাকে না।\nফলে দেশে বাবা-মা-ভাইবোনের জন্য কিছু পাঠানোও সম্ভব হয় না।",
+   "এভাবে চার-চারটি বছর চলে যায়।"
+  ]
+ },
+ {
+  "key": "LB1-48",
+  "article_id": "acc10e12-5520-419d-bb80-f79f14b6237d",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Faridul Alam said that at the end of 2014 he left Athens by bus with two or three other Bangladeshis for Macedonia, then Serbia, then Hungary, where the bus of Afghan, Pakistani and Bangladeshi refugees was taken to a refugee camp; he then left for Austria and Germany, and in the Czech Republic police held him eight to ten days and took the money and papers in his bag and pockets and did not return them.",
+  "quotes": [
+   "২০১৪ সালের শেষ দিকে তিনি তাঁর প্রায় নিভে যাওয়া স্বপ্ন বাঁচিয়ে তোলার আশায়",
+   "সঙ্গে আরও দু-তিনজন বাঙালির সঙ্গে বাসে রওনা হয়ে ফরিদ প্রথমে এলেন মেসিডোনিয়ায়।\nসেখান থেকে আরেক বাসে সার্বিয়া এবং তারপর আরেক বাসে সার্বিয়া থেকে হাঙ্গেরি।",
+   "থানা হেফাজতে তাঁকে আট-দশ দিন চেক রিপাবলিকে রাখা হয়।"
+  ]
+ },
+ {
+  "key": "LB1-49",
+  "article_id": "acc10e12-5520-419d-bb80-f79f14b6237d",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Faridul Alam's asylum applications were rejected in Germany, where he lived on EUR 350 a month from a refugee camp from 2015 to 2018, and again in Paris, where the process took from 2018 to 2021; in December 2024 he was cooking for a mess of Bangladeshis in La Courneuve, Paris.",
+  "quotes": [
+   "এখন ক্যাম্প থেকে পাওয়া মাসিক ৩৫০ ইউরো দিয়ে নিজের পেট চালান",
+   "২০১৮ সালে ফরিদ চলে এলেন প্যারিসে। এখানেও আবার অ্যাসাইলামের জন্য আবেদন দাখিল করেন। কিন্তু যথারীতি তাঁর আবেদন এখানেও নামঞ্জুর হয়। তবে মঞ্জুর-নামঞ্জুরের এই প্রক্রিয়ায় তাঁর ২০১৮ থেকে ২০২১ পর্যন্ত প্রায় তিন বছর চলে যায়।",
+   "ফরিদ এখন লা কুন্নভের একটু মেসে রান্নাবান্নার কাজ করেন।"
+  ]
+ },
+ {
+  "key": "LB1-50",
+  "article_id": "acc10e12-5520-419d-bb80-f79f14b6237d",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Faridul Alam said the Bangladesh embassy in Paris took his application and fingerprints for a passport and, after a long wait, told him it could not issue a new passport unless he submitted his old Bangladeshi one, which he had thrown away when he set out from Dubai because, he said, an asylum application cannot be made while holding it.",
+  "quotes": [
+   "দূতাবাস কর্তৃপক্ষ তাঁর আবেদন রাখল, তাঁর ফিঙ্গারপ্রিন্ট রাখল। তারপর অনেক দিন ঘুরিয়ে তাঁকে বলল, তাঁর পুরোনো বাংলাদেশি পাসপোর্ট জমা না দিতে পারলে তাঁরা তাঁকে কোনো নতুন পাসপোর্ট দিতে পারবে না।",
+   "সেটি তো তাঁকে ফেলে দিতে হয়েছে দুবাই থেকে তাঁর যাত্রা শুরুর সঙ্গেই। ওটি হাতে রেখে তো অ্যাসাইলামের আবেদনই করা যায় না।"
+  ]
+ },
+ {
+  "key": "LB1-51",
+  "article_id": "2924982f-286e-4ee3-89ad-1e73a3318c30",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "According to their families, three men from Noli Joynagar village, Mathbaria, Pirojpur, left for Libya through a broker in July 2023 on a contract of BDT 3 lakh and went first to Dubai, after which contact was lost; some time later they called on imo from Libya to report torture, and the ring demanded BDT 12 lakh ransom per person.",
+  "quotes": [
+   "২০২৩ সালের জুলাই মাসে বুকভরা স্বপ্ন নিয়ে মঠবাড়িয়া উপজেলার সাপলেজা ইউনিয়নের নলী জয়নগর গ্রামের লোকমান হোসেন (৩৫), মো. ইউনুস (৩৪) ও জসিম (৩৪) দালালের মাধ্যমে পাড়ি দেন লিবিয়ায়।",
+   "বাড়ি থেকে তাঁরা তিন লাখ টাকা চুক্তি করে রওনা দেন লিবিয়ার পথে। প্রথমে তাঁরা সংযুক্ত আরব আমিরাতের শহর দুবাইয়ে যান। এরপর থেকে পরিবারের সঙ্গে যোগাযোগ বিচ্ছিন্ন হয়ে যায়। এর কিছুদিন পর লিবিয়া থেকে ইমোতে ফোন করে তাঁদের ওপর নির্যাতন চালানোর বিষয় পরিবারের সদস্যদের জানান।",
+   "দালাল ও প্রতারক চক্রটি জনপ্রতি ১২ লাখ টাকা মুক্তিপণ দাবি করেছে।"
+  ]
+ },
+ {
+  "key": "LB1-52",
+  "article_id": "2924982f-286e-4ee3-89ad-1e73a3318c30",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The wife of one of the three Mathbaria men said in January 2025 she had sold 15 katha of land to raise the BDT 12 lakh ransom, and the father of another said he had paid BDT 15 lakh since his son left and did not know how much more he would have to pay.",
+  "quotes": [
+   "তিনি জানান, তাঁর স্বামীর মুক্তিপণ হিসেবে দালাল চক্র ১২ লাখ টাকা দাবি করেছে। সেই টাকা জোগাড় করতে ১৫ কাঠা জমি বিক্রি করেছেন।",
+   "কিন্তু যাবার পর থেকে ১৫ লাখ টাকা দিছি, আর কত টাকা দিতে লাগব জানি না।"
+  ]
+ },
+ {
+  "key": "LB1-53",
+  "article_id": "2924982f-286e-4ee3-89ad-1e73a3318c30",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The wife of one Mathbaria hostage refused to name the brokers to Prothom Alo in January 2025, saying she wanted her husband back, and the family of another refused to speak at all, believing someone known to the brokers lived near their home and that the torture would increase if word got out.",
+  "quotes": [
+   "তাই আমি দালালের নাম বলতে পারব না।",
+   "লোকমান ও ইউনুসের পরিবারের সদস্যরা কথা বললেও জসিমের পরিবারের লোকজন সাংবাদিক পরিচয় জেনে কথা বলতে রাজি হননি। তাঁদের ধারণা, বাড়ির কাছেই দালালদের পরিচিত কেউ আছে। বিষয়টি জেনে গেলে হয়তো জসিমের ওপর আরও নির্যাতন বেড়ে যাবে।"
+  ]
+ },
+ {
+  "key": "LB1-54",
+  "article_id": "2924982f-286e-4ee3-89ad-1e73a3318c30",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The wife of one Mathbaria hostage filed a case under the trafficking Act at Mathbaria police station in 2024; the station's officer-in-charge said in January 2025 that the investigation had been given to the district detective branch and that it could say what progress there was.",
+  "quotes": [
+   "এ ঘটনায় গত বছর মানব পাচার আইনে মঠবাড়িয়া থানায় মামলা করেছেন রিমা।",
+   "২০২৪ সালে লোকমানের স্ত্রী রিমা মঠবাড়িয়া থানায় মামলা করেন। মামলা করার সময় জেলা গোয়েন্দা শাখায় তদন্তভার দেওয়া আছে। এ মামলার অগ্রগতির বিষয়ে তারা বলতে পারবে।"
+  ]
+ },
+ {
+  "key": "LB1-55",
+  "article_id": "2924982f-286e-4ee3-89ad-1e73a3318c30",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The Deputy Commissioner of Pirojpur, asked in January 2025 about three local men held for ransom in Libya, said the administration has little it can do in such cases, but that if the family complains it can inform the Ministry of Foreign Affairs in writing.",
+  "quotes": [
+   "এ বিষয়ে পিরোজপুরের জেলা প্রশাসক মোহাম্মদ আশরাফুল আলম খান বলেন, এ ধরনের ঘটনায় প্রশাসনের তেমন কিছু করণীয় থাকে না। তবে পরিবারের অভিযোগ পেলে সে অনুযায়ী পররাষ্ট্র মন্ত্রণালয়ে লিখিতভাবে জানানো যেতে পারে।"
+  ]
+ },
+ {
+  "key": "LB1-56",
+  "article_id": "6cd6df58-d290-4df7-aa31-66aca98bf5c1",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "According to the Bangladesh embassy in Libya, a boat carrying 56 people trying to reach Italy from Libya sank in the Mediterranean on 25 January 2025 and 23 bodies washed up on the beach between 28 and 31 January; the bodies were decomposed and not formally identified, but the embassy, citing local sources, said nearly all were Bangladeshi.",
+  "quotes": [
+   "৫৬ জন আরোহী নিয়ে নৌযানটি গত ২৫ জানুয়ারি ভূমধ্যসাগরে ডুবে যায়। এরপর ২৮ থেকে ৩১ জানুয়ারির মধ্যে ২৩টি মরদেহ সৈকতে ভেসে আসে।",
+   "গলিত ওই মরদেহগুলোর পরিচয় নিশ্চিত না হওয়া গেলেও স্থানীয় সূত্রের বরাতে লিবিয়ার বাংলাদেশ দূতাবাস বলছে, তাঁদের প্রায় সবাই বাংলাদেশি।"
+  ]
+ },
+ {
+  "key": "LB1-57",
+  "article_id": "6cd6df58-d290-4df7-aa31-66aca98bf5c1",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The brother of Abul Bashar Akon (32) of Rajoir, Madaripur, who died with his nephew Titu Howlader (19) in the January 2025 sinking, said a BDT 14 lakh contract had been made a year and a half earlier with a broker from Mahendradi to send the two to Italy on an agricultural visa, and that when that broker could not deliver they were forced to decide on the Libya route and made a new contract through another broker.",
+  "quotes": [
+   "এ জন্য দেড় বছর আগে ১৪ লাখ টাকা চুক্তিতে মহেন্দ্রদী এলাকার স্বপন দালালের মাধ্যমে কৃষি ভিসায় ইতালি যাওয়ার চুক্তি হয়। পরে স্বপন অপারগ হলে বাধ্য হয়ে লিবিয়া দিয়ে যাওয়ার সিদ্ধান্ত হয়। এ জন্য মনির হোসেন নামের আরেক দালালের মাধ্যমে নতুন চুক্তি করে আবুল বাসার ও টিটুকে পাঠানোর সিদ্ধান্ত হয়।",
+   "দুটি কুলসুমের ভাই আবুল বাসার আকন (৩২) ও ছেলে টিটু হাওলাদারের (১৯)"
+  ]
+ },
+ {
+  "key": "LB1-58",
+  "article_id": "6cd6df58-d290-4df7-aa31-66aca98bf5c1",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The same brother said the broker had told the family the two men would reach Italy without any problem, that the family first heard of the nephew's death from the broker, and that the broker could no longer be found; the mother said both had told her by phone that they were fine and the broker would give them a 'game' very soon.",
+  "quotes": [
+   "আমার ভাগনের মৃত্যুর সংবাদটি প্রথমে দালালের মাধ্যমে পাই।",
+   "দালাল বলেছিল, কোনো সমস্যা ছাড়াই তারা ইতালি পৌঁছাবে। দালালকে এখন আর কোনোভাবেই খুঁজে পাচ্ছি না।",
+   "ওরা দুজনই কইল, ভালো আছে, কোনো সমস্যা নাই। দালালে নাকি ওগের খুব তারাতারি গেম দিব।"
+  ]
+ },
+ {
+  "key": "LB1-59",
+  "article_id": "6cd6df58-d290-4df7-aa31-66aca98bf5c1",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The boat crossing from Libya to Europe is known as the 'game'; small boats are mainly used and are loaded beyond capacity, Prothom Alo wrote in February 2025.",
+  "quotes": [
+   "এ পথে ইউরোপে যাওয়ার জন্য মূলত ব্যবহার করা হয় ছোট ছোট নৌকা। এসব নৌকায় ধারণক্ষমতার চেয়ে অতিরিক্ত যাত্রী তোলা হয়।",
+   "এই যাত্রা ‘গেম’ নামে পরিচিত।"
+  ]
+ },
+ {
+  "key": "LB1-60",
+  "article_id": "6cd6df58-d290-4df7-aa31-66aca98bf5c1",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "According to relatives, police and local sources, the two Rajoir men left home on 1 January 2025, flew from Dhaka through Dubai to Libya, were sent by the broker to the coast, and left the Libyan coast on an engine boat on 24 January.",
+  "quotes": [
+   "স্বজন, পুলিশ ও স্থানীয় সূত্র জানায়, ১ জানুয়ারি ইতালি যাওয়ার উদ্দেশে বাড়ি ছাড়েন আবুল বাসার ও টিটু হাওলাদার। তাঁরা ঢাকা থেকে প্রথমে দুবাই হয়ে লিবিয়া পৌঁছান। পরে সেখান থেকে দালালের মাধ্যমে পাঠানো হয় উপকূলীয় এলাকায়। ২৪ জানুয়ারি লিবিয়ার উপকূল থেকে একটি ইঞ্জিনচালিত নৌকায় যাত্রা করেন তাঁরা।"
+  ]
+ },
+ {
+  "key": "LB1-61",
+  "article_id": "6cd6df58-d290-4df7-aa31-66aca98bf5c1",
+  "verdict": "partly",
+  "problem": "The article names the ringleaders of the ring taking people to Italy via Libya as men from Rajoir and from Bhanga, Faridpur; it does not say the ring sends people specifically 'from Rajoir'.",
+  "corrected_claim": "According to police and local sources in Madaripur in February 2025, the ringleaders of the broker ring taking people to Italy through Libya, from Rajoir and from Bhanga in Faridpur, take BDT 18 to 25 lakh from each person under a contract for Europe, and several times more must be paid if the person is caught by Libyan police or held by mafia there.",
+  "quotes": [
+   "পুলিশ ও স্থানীয় সূত্রে জানা যায়, লিবিয়া হয়ে ইতালি নেওয়া দালাল চক্রের মূলহোতা রাজৈর হরিদাসদি গ্রামের স্বপন মাতুব্বর, মজুমদারকান্দি গ্রামের মনির হাওলাদার ও ফরিদপুরের ভাঙ্গা উপজেলার আলীপুরের রফিক।",
+   "তাঁরা ইউরোপে পাঠানোর চুক্তি করে প্রত্যেকের কাছ থেকে ১৮ থেকে ২৫ লাখ পর্যন্ত হাতিয়ে নেন। লিবিয়ার পুলিশের হাতে ধরা পড়লে বা ওই দেশের মাফিয়া সন্ত্রাসীদের হাতে আটক হলে গুনতে হয় আরও কয়েক গুণ টাকা।"
+  ]
+ },
+ {
+  "key": "LB1-62",
+  "article_id": "6cd6df58-d290-4df7-aa31-66aca98bf5c1",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "After the January 2025 sinking, local brokers in Rajoir went into hiding for fear of arrest, Prothom Alo reported; Madaripur's Additional Superintendent of Police said police were investigating the broker ring, and the Additional Deputy Commissioner said the district administration had started work through the embassy to bring the bodies home.",
+  "quotes": [
+   "এদিকে পুলিশের গ্রেপ্তারের ভয়ে গা ঢাকা দিয়েছেন স্থানীয় দালালরা।",
+   "এ বিষয়ে মাদারীপুরের অতিরিক্ত পুলিশ সুপার (প্রশাসন ও অর্থ) ভাস্কর সাহা প্রথম আলোকে বলেন",
+   "মাদারীপুরের অতিরিক্ত জেলা প্রশাসক শাহ্ মোহাম্মদ সজীব বলেন, নিহত ব্যক্তিদের লাশ দেশে ফিরিয়ে আনতে প্রয়োজনীয় পদক্ষেপ নেওয়া হবে। দূতাবাসের মাধ্যমে ব্যবস্থা গ্রহণে এরই মধ্যে কাজ শুরু করেছে জেলা প্রশাসন।"
+  ]
+ },
+ {
+  "key": "LB1-63",
+  "article_id": "6cd6df58-d290-4df7-aa31-66aca98bf5c1",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Intelligence sources said in February 2025 that, besides the two dead, eight more people from Rajoir upazila, all aged 20 to 30, were reported missing, though it was not confirmed whether they were on the boat that sank on 25 January.",
+  "quotes": [
+   "গোয়েন্দা সূত্রে জানা গেছে, মামা-ভাগনে ছাড়াও রাজৈর উপজেলায় আরও আটজন নিখোঁজ হওয়ার খবর পাওয়া গেছে। তাঁদের সবার বয়স ২০-৩০ বছরের মধ্যে। তবে তাঁরা ডুবে যাওয়া নৌকায় ছিলেন কি না, তা নিশ্চিত হওয়া যায়নি।"
+  ]
+ },
+ {
+  "key": "LB1-64",
+  "article_id": "c3b462e3-d3d4-459d-aeb8-42224541bf98",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The father of Hridoy Howlader of Kamarkhali, Faridpur, said the group was to be taken to Italy by ship on the night of 24 January 2025, that many refused to board when a small boat was offered instead, and that those who refused were shot dead while those who boarded drowned, according to a Prothom Alo editorial of 6 February 2025.",
+  "quotes": [
+   "ফরিদপুরের কামারখালীর হৃদয় হাওলাদারের বাবা মিন্টু হাওলাদার জানিয়েছেন, ২৪ জানুয়ারি রাতে তাঁদের জাহাজে করে ইতালি নেওয়ার কথা ছিল। কিন্তু ছোট বোটে করে নিতে চাইলে অনেকে বোটে উঠতে চাননি। যাঁরা উঠতে চাননি, তাঁদের গুলি করে হত্যা করেছে। যাঁরা উঠেছেন, তাঁরা ডুবে মারা গেছেন।"
+  ]
+ },
+ {
+  "key": "LB1-65",
+  "article_id": "c3b462e3-d3d4-459d-aeb8-42224541bf98",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Sujan Faraji of Madaripur, who died in the January 2025 sinking, set out with BDT 16 lakh taken from his aunt without telling his father, who had not agreed to the journey; a broker named Monir Sheikh of Majumdarkandi, Rajoir, had contracted to take him to Italy for BDT 15 lakh, according to a Prothom Alo editorial of 6 February 2025.",
+  "quotes": [
+   "বাবা রাজি না হওয়ায় তাঁকে না জানিয়ে ফুফুর কাছ থেকে ১৬ লাখ টাকা নিয়ে সুজন ফরাজী ইতালি যাত্রা করেছিলেন।",
+   "মাদারীপুরের রাজৈর উপজেলার মজুমদারকান্দি এলাকার মনির শেখ নামের এক দালাল সুজনের কাছ থেকে ১৫ লাখ টাকায় ইতালি নেওয়ার চুক্তি করেছিলেন।"
+  ]
+ },
+ {
+  "key": "LB1-66",
+  "article_id": "c3b462e3-d3d4-459d-aeb8-42224541bf98",
+  "verdict": "partly",
+  "problem": "The editorial says 'among those killed in Libya', not specifically among those who died in the sinking; per the same editorial some were shot rather than drowned.",
+  "corrected_claim": "Relatives said at least 12 people from Madaripur and Faridpur were among those killed in Libya, according to a Prothom Alo editorial of 6 February 2025 that discussed the January 2025 boat sinking.",
+  "quotes": [
+   "লিবিয়ায় নিহত ব্যক্তিদের মধ্যে মাদারীপুর ও ফরিদপুরের অন্তত ১২ জন আছেন বলে স্বজনদের পক্ষ থেকে জানানো হয়েছে।"
+  ]
+ },
+ {
+  "key": "LB1-67",
+  "article_id": "c3b462e3-d3d4-459d-aeb8-42224541bf98",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "According to Bangladesh embassy sources in Tripoli cited in a Prothom Alo editorial of 6 February 2025, 4,200 Bangladeshis had been freed from various detention centres in Libya and sent home in the previous year and a half, and more than a thousand irregular Bangladeshis were still held in Libya.",
+  "quotes": [
+   "ত্রিপোলিতে বাংলাদেশ দূতাবাস সূত্রে জানা গেছে, গত দেড় বছরে লিবিয়ার বিভিন্ন বন্দিশালা থেকে মুক্ত করে ৪ হাজার ২০০ বাংলাদেশিকে দেশে ফেরত পাঠানো হয়েছে। এখনো হাজারের বেশি অবৈধ বাংলাদেশি আটকে আছেন লিবিয়ায়।"
+  ]
+ }
+]

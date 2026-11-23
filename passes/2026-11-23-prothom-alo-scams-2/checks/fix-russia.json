@@ -1,0 +1,58 @@
+[
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### When the visa, the agency and the clearance are all real",
+  "old_str": "The public prosecutor, Omar Faruq Faruqi, told the court the accused had taken Tk 24 thousand crore",
+  "new_str": "The public prosecutor, Omar Faruq Faruqi, told the court that Masud Uddin Chowdhury had taken Tk 24 thousand crore",
+  "problem": "OA0157: the prosecutor said 'this accused' (এই আসামি), i.e. Masud Uddin Chowdhury; 'the accused' reads as all 103 accused in the case."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### When the visa, the agency and the clearance are all real",
+  "old_str": "that police detained more than a hundred people together while he was at work,",
+  "new_str": "that while he was working there police detained more than a hundred people together,",
+  "problem": "RU0013 says 'সে দেশে কর্মরত অবস্থায়' (while employed in that country), not that he was at his workplace when detained."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Recruited while abroad or just back",
+  "old_str": "In a case over a promised job in Australia reported in June 2026, the victim was a Bangladeshi working in Oman, approached in December 2025 through a person he already knew [FV0124].",
+  "new_str": "In a case over a promised job in Australia reported in June 2026, the victim was a Bangladeshi working in Oman whom a person he already knew approached in December 2025 with an offer of work in Australia, according to CID (the police's Criminal Investigation Department) citing the case [FV0124].",
+  "problem": "FV0124: the acquaintance himself contacted the victim (not 'through' him), and the account is CID's, citing the case; attribution was dropped."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Russia: recruited into the war",
+  "old_str": "BOESL, the government's recruiting agency, took the second-highest number of clearances, 771, and one of its workers became involved in the war (see When the visa, the agency and the clearance are all real) [RU0124, RU0125, RU0126].",
+  "new_str": "BOESL, the government's recruiting agency, took the second-highest number of clearances, 771, and a responsible BOESL official told Prothom Alo that one of its workers became involved in the war (see When the visa, the agency and the clearance are all real) [RU0124, RU0125, RU0126].",
+  "problem": "RU0125: that a BOESL worker became involved in the war is a BOESL official's statement; attribution dropped."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Russia: recruited into the war",
+  "old_str": "The SRB, the detective branch and others told Prothom Alo",
+  "new_str": "The Special Response Battalion (SRB), a police unit, the detective branch and others told Prothom Alo",
+  "problem": "Acronym SRB used before it is explained in this section (the expansion comes only in the next bullet, 'Death')."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Russia: recruited into the war",
+  "old_str": "AFP reported that Mohammad Yasin Sheikh, 22,",
+  "new_str": "The news agency Agence France-Presse (AFP) reported that Mohammad Yasin Sheikh, 22,",
+  "problem": "AFP not explained at first use in the section."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Russia: recruited into the war",
+  "old_str": "Its draft report, published on the OHCHR website on 26 October 2026,",
+  "new_str": "Its draft report, published on the website of the UN human rights office (OHCHR) on 26 October 2026,",
+  "problem": "OHCHR not explained at first use in the section."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Russia: recruited into the war",
+  "old_str": "CID sources said in October 2026 that at least six cases had been filed over trafficking to Russia [RU0111].",
+  "new_str": "Sources in the police's Criminal Investigation Department (CID) said in October 2026 that at least six cases had been filed over trafficking to Russia [RU0111].",
+  "problem": "CID not explained at first use in the section (expanded only later under Where to get help)."
+ }
+]

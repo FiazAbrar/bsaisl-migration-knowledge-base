@@ -1,0 +1,987 @@
+{
+ "A01": {
+  "ids": [
+   "PA0001",
+   "PA0002",
+   "PA0003"
+  ],
+  "claim": "In the Malaysia recruitment of 2022 to 2024, workers went through recruiting agencies picked for the syndicate, and many who reached Malaysia got no job",
+  "verdict": "supported",
+  "source": "pa-2024-05-30-a73hlw5hko"
+ },
+ "A02": {
+  "ids": [
+   "PA0004",
+   "PA0005",
+   "PA0006"
+  ],
+  "claim": "A survey of 357 migrants in Malaysia by Verite and four other organisations found workers paid BDT 544,000 on average, against a government-fixed cost of BDT 79,000",
+  "verdict": "supported",
+  "source": "pa-2024-05-30-a73hlw5hko"
+ },
+ "A03": {
+  "ids": [
+   "PA0007",
+   "PA0008"
+  ],
+  "claim": "Selim of Narayanganj went to Malaysia, was put on construction piling work instead of the job promised, was injured, got no treatment from the company and bought his own ticket home",
+  "verdict": "supported",
+  "source": "pa-2024-05-30-a73hlw5hko"
+ },
+ "A04": {
+  "ids": [
+   "PA0009",
+   "PA0010",
+   "PA0011"
+  ],
+  "claim": "After Malaysia's 31 May 2024 deadline for approved Bangladeshi workers to enter, several thousand people turned back from Dhaka's Hazrat Shahjalal airport on 1 June 2024; they said they had paid the company BDT 500,000 to 600,000 and still could not go, and some of them could not arrange air tickets.",
+  "verdict": "partly",
+  "source": "pa-2024-06-02-urcbo2rebo"
+ },
+ "A05": {
+  "ids": [
+   "PA0012",
+   "PA0013"
+  ],
+  "claim": "After Malaysia's 31 May 2024 entry deadline, many stranded workers said the recruiting agencies they had paid could no longer be reached by phone, and many who went to the agencies' offices found them shut.",
+  "verdict": "partly",
+  "source": "pa-2024-06-02-urcbo2rebo"
+ },
+ "A06": {
+  "ids": [
+   "PA0014",
+   "PA0015",
+   "PA0016"
+  ],
+  "claim": "According to a BRAC Migration Programme press release, 35 Bangladeshi workers dismissed from their jobs in Russia returned to Dhaka on 18 January 2026, and the workers told BRAC a recruiting agency had sent them to Russia in July 2025 with BMET clearance.",
+  "verdict": "partly",
+  "source": "pa-2026-01-18-03d5xasy6a"
+ },
+ "A07": {
+  "ids": [
+   "PA0017",
+   "PA0018",
+   "PA0019"
+  ],
+  "claim": "The 35 workers who returned from Russia on 18 January 2026 complained to BRAC that their BMET clearance named the Russian firm Mars International Limited Trade Development but they were placed with a different firm on arrival, and that they were made to do building construction work although the contract was for factory work.",
+  "verdict": "partly",
+  "source": "pa-2026-01-18-03d5xasy6a"
+ },
+ "A08": {
+  "ids": [
+   "PA0020",
+   "PA0021"
+  ],
+  "claim": "Six named workers among the 35 who returned from Russia on 18 January 2026 said going to Russia had cost each of them BDT 700,000 on average.",
+  "verdict": "partly",
+  "source": "pa-2026-01-18-03d5xasy6a"
+ },
+ "A09": {
+  "ids": [
+   "PA0022",
+   "PA0023",
+   "PA0024"
+  ],
+  "claim": "According to a written complaint that the families of Ali Hasan Sohel of Goalanda, Rajbari, and three other men filed with the Expatriates' Welfare Ministry on 19 May 2026, the men were sent to Russia on 7 May 2026 with BMET clearance after contact with Jabel-e-Noor International Limited, a recruiting agency in Malibagh, Dhaka; Sohel's father said the family had been told he was going to a company job for two years.",
+  "verdict": "partly",
+  "source": "pa-2026-06-29-u7ylw4fl2c"
+ },
+ "A10": {
+  "ids": [
+   "PA0025"
+  ],
+  "claim": "The families of men sent to Russia on 7 May 2026 allege that after arrival a group of 30 was kept in a hotel for three days and then handed over to the army.",
+  "verdict": "partly",
+  "source": "pa-2026-06-29-u7ylw4fl2c"
+ },
+ "A11": {
+  "ids": [
+   "PA0026",
+   "PA0027",
+   "PA0028"
+  ],
+  "claim": "The father of Ali Hasan Sohel, who was sent to Russia on 7 May 2026, said the agreed BDT 700,000 was paid in full with borrowed money, and Sohel's wife said not one taka of the BDT 700,000 given through the broker has come back.",
+  "verdict": "partly",
+  "source": "pa-2026-06-29-u7ylw4fl2c"
+ },
+ "A12": {
+  "ids": [
+   "PA0029",
+   "PA0030"
+  ],
+  "claim": "Md Shafiqul Islam, who was sent to Cambodia in October 2025 on the promise of a computer data-entry job, said he made a BDT 450,000 agreement with the broker Masud on BDT 200 stamp paper on 1 September 2025.",
+  "verdict": "partly",
+  "source": "pa-2026-09-05-cnst1gdrah"
+ },
+ "A13": {
+  "ids": [
+   "PA0031"
+  ],
+  "claim": "He attended three days of BMET training at Probashi Kalyan Bhaban in Dhaka and received BMET clearance (the smart card)",
+  "verdict": "supported",
+  "source": "pa-2026-09-05-cnst1gdrah"
+ },
+ "A14": {
+  "ids": [
+   "PA0032",
+   "PA0033",
+   "PA0034"
+  ],
+  "claim": "Md Shafiqul Islam said that on 27 October 2025 he was taken to a complex with a boundary wall near the Thai border in Cambodia, which he described as a scam centre, and that his mobile phone and passport were taken there.",
+  "verdict": "partly",
+  "source": "pa-2026-09-05-cnst1gdrah"
+ },
+ "A15": {
+  "ids": [
+   "PA0035",
+   "PA0036",
+   "PA0037"
+  ],
+  "claim": "Md Shafiqul Islam, held in a scam centre in Cambodia in 2025, said the Bangladeshi community in Cambodia, approached by his younger brother, paid USD 3,200 to get him released, and that after he returned home the broker Masud spoke of paying compensation, then could not be traced and his office was closed.",
+  "verdict": "partly",
+  "source": "pa-2026-09-05-cnst1gdrah"
+ },
+ "A16": {
+  "ids": [
+   "PA0038",
+   "PA0039",
+   "PA0040"
+  ],
+  "claim": "Anirban Survivor Voice Foundation, an organisation led by trafficking survivors, filed an application with the Expatriates' Welfare Ministry on 18 October 2026 and said in a press release that many Bangladeshis who went to Cambodia with valid passports, visas and government clearance were forced to work in online scam compounds; Prothom Alo reported that more than 1,800 workers were stranded in Cambodia.",
+  "verdict": "partly",
+  "source": "pa-2026-10-18-gjp9pfdskj"
+ },
+ "A17": {
+  "ids": [
+   "PA0041",
+   "PA0042",
+   "PA0043"
+  ],
+  "claim": "The state minister for expatriates' welfare told Parliament in June 2026 that nominal companies abroad bring in 100 people where there is work for 10",
+  "verdict": "supported",
+  "source": "pa-2026-06-08-11lmwgfsxl"
+ },
+ "A18": {
+  "ids": [
+   "PA0044",
+   "PA0045"
+  ],
+  "claim": "State Minister for Expatriates' Welfare Nurul Haque told Parliament on 8 June 2026 that, because the Bangladesh embassy in the destination country attests demand letters sent from abroad, stricter surveillance, monitoring and verification are needed at embassy level.",
+  "verdict": "partly",
+  "source": "pa-2026-06-08-11lmwgfsxl"
+ },
+ "A19": {
+  "ids": [
+   "PA0046",
+   "PA0047"
+  ],
+  "claim": "According to the Special Response Battalion (SRB), the 30 Bangladeshis who went to Russia on 7 May 2026 went through three firms, Jabale Noor, RS International and TS Group, and the Expatriates' Welfare Ministry cancelled the licences of Jabale Noor, TS Overseas and RS International.",
+  "verdict": "partly",
+  "source": "pa-2026-10-21-mkf2is07uv"
+ },
+ "A20": {
+  "ids": [
+   "PA0048",
+   "PA0049"
+  ],
+  "claim": "Rajon Hossain of Jhenaidah, one of 30 Bangladeshis who flew to Russia on 7 May 2026, said that on 12 May they were made to sign a contract after being told it was for a bank card, SIM card and work permit, that they could not understand it because it was written in Russian, and that they later learned it was a contract to join the Russian army.",
+  "verdict": "partly",
+  "source": "pa-2026-09-10-bt238ay8oo"
+ },
+ "B01": {
+  "ids": [
+   "PA0050",
+   "PA0051",
+   "PA0052"
+  ],
+  "claim": "According to victims' relatives at a press conference in Bhairab, Kishoreganj, on 8 January 2025, the owner of a travel agency with an office in Gulshan, Dhaka, that had promised to send them to Europe took seven people to India and Nepal on 12 March 2024 for 'visa processing', and they were sent home from India on 28 June after complications caused by visa forgery.",
+  "verdict": "partly",
+  "source": "pa-2025-01-08-buv6r6oyps"
+ },
+ "B02": {
+  "ids": [
+   "PA0053"
+  ],
+  "claim": "The victims later found the Gulshan office padlocked",
+  "verdict": "supported",
+  "source": "pa-2025-01-08-buv6r6oyps"
+ },
+ "B03": {
+  "ids": [
+   "PA0054"
+  ],
+  "claim": "According to a victim's relative speaking at a press conference in Bhairab, Kishoreganj, on 8 January 2025, the owner of the Gulshan travel agency took BDT 80 lakh from seven people who were to be sent to Europe.",
+  "verdict": "partly",
+  "source": "pa-2025-01-08-buv6r6oyps"
+ },
+ "B04": {
+  "ids": [
+   "PA0055",
+   "PA0056"
+  ],
+  "claim": "A Cumilla man promised passage to the United States said he was sent to Nepal on 7 December 2023 and locked in a godown in Kathmandu, where his mobile phone, passport and other papers were taken from him.",
+  "verdict": "partly",
+  "source": "pa-2025-03-01-9631bdiur8"
+ },
+ "B05": {
+  "ids": [
+   "PA0057",
+   "PA0058"
+  ],
+  "claim": "The Cumilla man said that in Kathmandu he was forced at gunpoint to send his father a WhatsApp voice recording saying he was in Mexico, after which his father paid the remaining BDT 43 lakh of the contract.",
+  "verdict": "partly",
+  "source": "pa-2025-03-01-9631bdiur8"
+ },
+ "B06": {
+  "ids": [
+   "PA0059"
+  ],
+  "claim": "A Cumilla man promised passage to the United States alleged at a press conference on 1 March 2025 that BDT 45 lakh was taken from his family while he was held hostage in Nepal.",
+  "verdict": "partly",
+  "source": "pa-2025-03-01-9631bdiur8"
+ },
+ "B07": {
+  "ids": [
+   "PA0060",
+   "PA0061",
+   "PA0062"
+  ],
+  "claim": "The Cumilla man claimed that in arbitration after his return the accused signed a stamp paper promising to pay BDT 45 lakh plus BDT 1 lakh compensation and then paid nothing; the accused said his signature on the stamp paper was taken by force.",
+  "verdict": "partly",
+  "source": "pa-2025-03-01-9631bdiur8"
+ },
+ "B08": {
+  "ids": [
+   "PA0063",
+   "PA0064",
+   "PA0065"
+  ],
+  "claim": "A young man from Jashore promised a labourer's job in Australia was instead taken to Kathmandu, Nepal (on 14 September 2025, according to his father) and kept in a hotel, where his passport and dollars worth BDT 1 lakh were taken and a further BDT 1.5 lakh was demanded.",
+  "verdict": "partly",
+  "source": "pa-2026-04-16-xu3acrn7rm"
+ },
+ "B09": {
+  "ids": [
+   "PA0066",
+   "PA0067"
+  ],
+  "claim": "According to the father of a Jashore man promised a job in Australia, the brokers gave the father fake Australian government visa-grant papers when demanding the remaining BDT 12 lakh, and after taking the money took his son to Uttara, Dhaka, for a medical test and fingerprints.",
+  "verdict": "partly",
+  "source": "pa-2026-04-16-xu3acrn7rm"
+ },
+ "B10": {
+  "ids": [
+   "PA0068",
+   "PA0069",
+   "PA0070"
+  ],
+  "claim": "The family paid a BDT 1,500,000 fee and BDT 150,000 more as ransom; he was still missing in April 2026",
+  "verdict": "supported",
+  "source": "pa-2026-04-16-xu3acrn7rm"
+ },
+ "B11": {
+  "ids": [
+   "PA0071",
+   "PA0072",
+   "PA0073"
+  ],
+  "claim": "A Madaripur man was promised a work permit for Morocco and onward travel to Spain or Italy for BDT 17 lakh",
+  "verdict": "supported",
+  "source": "pa-2025-02-22-qe5i7qg94q"
+ },
+ "B12": {
+  "ids": [
+   "PA0074",
+   "PA0075",
+   "PA0076"
+  ],
+  "claim": "At the airport in Egypt the group's passports were taken for 23 hours and returned with Libyan visas",
+  "verdict": "supported",
+  "source": "pa-2025-02-22-qe5i7qg94q"
+ },
+ "B13": {
+  "ids": [
+   "PA0077"
+  ],
+  "claim": "By the Madaripur man's account, when the group found Libyan visas in their passports at the airport in Egypt, one of the brokers told them not to worry: they would be taken from Libya through Algeria to Morocco.",
+  "verdict": "partly",
+  "source": "pa-2025-02-22-qe5i7qg94q"
+ },
+ "B14": {
+  "ids": [
+   "PA0078"
+  ],
+  "claim": "He came home after 104 days, after ransom was paid",
+  "verdict": "supported",
+  "source": "pa-2025-02-22-qe5i7qg94q"
+ },
+ "B15": {
+  "ids": [
+   "PA0079",
+   "PA0080"
+  ],
+  "claim": "One of two Bangladeshi women trafficked to Egypt said she was told she would be sent to Italy legally: after being taken from Bangladesh to Egypt the necessary process would be completed at the Italian embassy, and she would then be sent on by a legal route.",
+  "verdict": "partly",
+  "source": "pa-2026-09-29-ye5ifg9ykk"
+ },
+ "B16": {
+  "ids": [
+   "PA0081",
+   "PA0082",
+   "PA0083"
+  ],
+  "claim": "One of two Bangladeshi women trafficked to Egypt said she was held there for about a year and a half, that her passport and mobile phone were taken, and that she and another Bangladeshi woman were kept locked in a room.",
+  "verdict": "partly",
+  "source": "pa-2026-09-29-ye5ifg9ykk"
+ },
+ "B17": {
+  "ids": [
+   "PA0084",
+   "PA0085",
+   "PA0086"
+  ],
+  "claim": "According to Bangladesh's Special Response Battalion (SRB), which arrested the ring's alleged leader in Dhaka in September 2026, several victims were assured they would be taken to Italy through Serbia and Belarus; SRB says the ring first sent victims to countries in Asia and the Middle East and then lured them with being sent through Nepal or Sri Lanka to Egypt or Libya and from there to Europe by a risky sea route.",
+  "verdict": "partly",
+  "source": "pa-2026-09-29-z46wy3zjvb"
+ },
+ "B18": {
+  "ids": [
+   "PA0087"
+  ],
+  "claim": "According to Bangladesh's Special Response Battalion (SRB), a trafficking ring whose alleged leader was arrested in Dhaka in September 2026 took BDT 20 to 25 lakh per person, and in some cases up to BDT 40 lakh, on the promise of sending people to Europe.",
+  "verdict": "partly",
+  "source": "pa-2026-09-29-z46wy3zjvb"
+ },
+ "B19": {
+  "ids": [
+   "PA0088",
+   "PA0089"
+  ],
+  "claim": "According to Bangladesh's Special Response Battalion (SRB), the alleged ringleader arrested in Dhaka in September 2026 sent people abroad under the names of various unlicensed agencies, among them 'Arzu Immigration Limited' and 'Nafis Air Immigration Limited'.",
+  "verdict": "partly",
+  "source": "pa-2026-09-29-z46wy3zjvb"
+ },
+ "B20": {
+  "ids": [
+   "PA0090",
+   "PA0091",
+   "PA0092"
+  ],
+  "claim": "A Noakhali man who contracted to reach Italy for BDT 1,200,000 was sent through New Delhi, Colombo, Sharjah and Cairo before being driven into Libya",
+  "verdict": "supported",
+  "source": "pa-2026-10-06-z726uumc1s"
+ },
+ "B21": {
+  "ids": [
+   "PA0093",
+   "PA0094",
+   "PA0095"
+  ],
+  "claim": "According to the complaint of a Noakhali man trafficked towards Italy in April 2026, after he had stayed about 16 days in Colombo more money was taken from his family in stages on various pretexts, and in Cairo a ring member held him in a house for about five days, after which a further USD 6,000 was demanded and taken.",
+  "verdict": "partly",
+  "source": "pa-2026-10-06-z726uumc1s"
+ },
+ "B22": {
+  "ids": [
+   "PA0096"
+  ],
+  "claim": "He had handed his passport to an office in Ashkona, Dhaka",
+  "verdict": "supported",
+  "source": "pa-2026-10-06-z726uumc1s"
+ },
+ "B23": {
+  "ids": [
+   "PA0097",
+   "PA0098",
+   "PA0099"
+  ],
+  "claim": "Men promised jobs in Cuba were taken through Kolkata, Delhi, Singapore and Fiji to Vanuatu and locked in an isolated house",
+  "verdict": "supported",
+  "source": "pa-2024-11-12-e6cu1zbmoj"
+ },
+ "B24": {
+  "ids": [
+   "PA0100"
+  ],
+  "claim": "Vanuatu police rescued 103 more Bangladeshis",
+  "verdict": "supported",
+  "source": "pa-2024-11-12-e6cu1zbmoj"
+ },
+ "B25": {
+  "ids": [
+   "PA0101",
+   "PA0102"
+  ],
+  "claim": "On 12 November 2024 the Barishal Human Trafficking Tribunal sentenced two brothers to life imprisonment in the case",
+  "verdict": "supported",
+  "source": "pa-2024-11-12-e6cu1zbmoj"
+ },
+ "B26": {
+  "ids": [
+   "PA0103",
+   "PA0104",
+   "PA0105"
+  ],
+  "claim": "A Bangladeshi man, Mohammad Akram Hossain, said a labour-supply firm promised him and his brother-in-law jobs in Cyprus, but in September 2024 their group of 10 Bangladeshis was first taken to Saudi Arabia on Hajj visas, kept there a few weeks, flown to Russia, and then taken by bus from St Petersburg to an army camp.",
+  "verdict": "partly",
+  "source": "pa-2025-04-12-qu5o62addr"
+ },
+ "B27": {
+  "ids": [
+   "PA0106",
+   "PA0107",
+   "PA0108"
+  ],
+  "claim": "According to Bangladesh's CID, a trafficking ring gave two people tickets for Nepal- and Italy-bound flights, boarding passes and fake Italian Schengen visas; they flew for Italy on 26 May 2026, Italian immigration at Rome's Leonardo da Vinci airport found the Schengen visa in their passports to be fake, and after two days in custody they were sent back to Bangladesh on 28 May.",
+  "verdict": "partly",
+  "source": "pa-2026-06-16-hmp6kzww6h"
+ },
+ "B28": {
+  "ids": [
+   "PA0109",
+   "PA0110"
+  ],
+  "claim": "According to Bangladesh's CID, the two people sent to Italy on fake Schengen visas in May 2026 had a contract with the ring of BDT 30 lakh each, of which BDT 20 lakh each was taken in advance.",
+  "verdict": "partly",
+  "source": "pa-2026-06-16-hmp6kzww6h"
+ },
+ "B29": {
+  "ids": [
+   "PA0111",
+   "PA0112"
+  ],
+  "claim": "CID arrested a Biman Bangladesh Airlines ground-service junior officer in the case",
+  "verdict": "supported",
+  "source": "pa-2026-06-16-hmp6kzww6h"
+ },
+ "B30": {
+  "ids": [
+   "PA0113",
+   "PA0114",
+   "PA0115"
+  ],
+  "claim": "An analysis reported by Prothom Alo on 31 March 2026 found that people trafficked from Bangladesh to Italy are taken through Nepal, India or Sri Lanka to Dubai, then through Egypt or Tunisia to Libya, where they are kept, and from there across the Mediterranean to Italy.",
+  "verdict": "partly",
+  "source": "pa-2026-03-31-xr75p9mqya"
+ },
+ "C01": {
+  "ids": [
+   "PA0116",
+   "PA0117",
+   "PA0118"
+  ],
+  "claim": "A man from Osmaninagar, Sylhet, alleged at a press conference on 11 February 2025 that Syed Ubaydur Rahman agreed in early 2022 to arrange six UK work permit visas for BDT 10 lakh each, some months later sent photos of the visas on WhatsApp, and then sent the passport back by courier with no visa in it.",
+  "verdict": "partly",
+  "source": "pa-2025-02-11-9k6fh84cb7"
+ },
+ "C02": {
+  "ids": [
+   "PA0119",
+   "PA0120"
+  ],
+  "claim": "The complainant in a Sylhet UK-visa case said that, after mediation by local people, Syed Ubaydur Rahman gave six cheques of BDT 2 lakh each on 21 July 2024, that the cheques were dishonoured, and that on 10 December the bank again said the account did not have enough money.",
+  "verdict": "partly",
+  "source": "pa-2025-02-11-9k6fh84cb7"
+ },
+ "C03": {
+  "ids": [
+   "PA0121"
+  ],
+  "claim": "The complainant in a Sylhet UK work-permit visa fraud case, speaking on 11 February 2025, said the accused, Syed Ubaydur Rahman, had sent his own two sisters to England.",
+  "verdict": "partly",
+  "source": "pa-2025-02-11-9k6fh84cb7"
+ },
+ "C04": {
+  "ids": [
+   "PA0122",
+   "PA0123"
+  ],
+  "claim": "The complainants' lawyer told a Dhaka court on 15 July 2025 that the cheques Khairul Bashar, chairman of BSB Global Network, a firm that promised to send students abroad for higher education, gave in the name of refunds were repeatedly rejected by the bank.",
+  "verdict": "partly",
+  "source": "pa-2025-07-15-cc1dvlk7tv"
+ },
+ "C05": {
+  "ids": [
+   "PA0124",
+   "PA0125"
+  ],
+  "claim": "The complainants' lawyer showed the court photos of the firm's chairman with the former prime minister and ministers",
+  "verdict": "supported",
+  "source": "pa-2025-07-15-cc1dvlk7tv"
+ },
+ "C06": {
+  "ids": [
+   "PA0126",
+   "PA0127"
+  ],
+  "claim": "According to complaints filed with police in Jashore and Natore in September 2025, Mizanur Rahman took BDT 58 lakh from four men from Jashore to send them to Canada on worker visas, wound up his Jashore office and opened a new office named Euro Visa Help Center BD in Natore Sadar.",
+  "verdict": "partly",
+  "source": "pa-2025-09-29-xqisnpwo1f"
+ },
+ "C07": {
+  "ids": [
+   "PA0128"
+  ],
+  "claim": "One complainant, Naimul Haque of Jashore, says he handed Mizanur Rahman a total of BDT 15 lakh for the Canada visa process, from selling his mother's land and a loan from an NGO.",
+  "verdict": "partly",
+  "source": "pa-2025-09-29-xqisnpwo1f"
+ },
+ "C08": {
+  "ids": [
+   "PA0129",
+   "PA0130"
+  ],
+  "claim": "According to the case against VisaGuide, a firm that promised to send people abroad on student visas, victims went to its office on 5 July 2026 and found the office had been moved away from there.",
+  "verdict": "partly",
+  "source": "pa-2026-08-05-eyq59w1wjz"
+ },
+ "C09": {
+  "ids": [
+   "PA0131",
+   "PA0132"
+  ],
+  "claim": "According to the case against VisaGuide, a firm that promised to send people abroad on student visas, victims were given cheques and receipts after paying, but no one was sent abroad in the agreed time and the money was not returned.",
+  "verdict": "partly",
+  "source": "pa-2026-08-05-eyq59w1wjz"
+ },
+ "C10": {
+  "ids": [
+   "PA0133",
+   "PA0134"
+  ],
+  "claim": "According to a case petition reported on 13 November 2024, Abul Hossain of Hijla, Barishal, made a BDT 350,000 deal with his neighbour Helal Uddin for a well-paid job in Dubai, paid BDT 200,000 in 2021, and was to pay the balance after getting the visa.",
+  "verdict": "partly",
+  "source": "pa-2024-11-13-f8el7oriso"
+ },
+ "C11": {
+  "ids": [
+   "PA0135",
+   "PA0136",
+   "PA0137"
+  ],
+  "claim": "According to a case petition reported on 13 November 2024, Abul Hossain of Hijla, Barishal, was sent to Dubai in February 2021 on a seven-day tourist visa, was held there by a local broker ring that demanded BDT 100,000, and was later sent back to Bangladesh by Dubai police for entering Dubai illegally.",
+  "verdict": "partly",
+  "source": "pa-2024-11-13-f8el7oriso"
+ },
+ "C12": {
+  "ids": [
+   "PA0138"
+  ],
+  "claim": "According to a case petition reported on 13 November 2024, when Abul Hossain of Hijla, Barishal, contacted the accused to get his money back after being returned from Dubai, they demanded another BDT 400,000 to send him to Kyrgyzstan.",
+  "verdict": "partly",
+  "source": "pa-2024-11-13-f8el7oriso"
+ },
+ "C13": {
+  "ids": [
+   "PA0139",
+   "PA0140",
+   "PA0141"
+  ],
+  "claim": "According to the case statement reported on 21 July 2026, a woman whose husband lives in Italy was taken to a travel agency in Gulshan 1, Dhaka, where the accused promised her an Italy visa and made a financial agreement with her that said the full money was to be paid after the visa was issued.",
+  "verdict": "partly",
+  "source": "news-prothomalo-italy-visa-passport-swap"
+ },
+ "C14": {
+  "ids": [
+   "PA0142",
+   "PA0143"
+  ],
+  "claim": "CID said that after an Italy visa was issued and the woman collected her passport from the embassy, immigration officers at Dhaka airport told her that another woman had already gone to Italy on 24 April using the Italy visa in her passport.",
+  "verdict": "partly",
+  "source": "news-prothomalo-italy-visa-passport-swap"
+ },
+ "C15": {
+  "ids": [
+   "PA0144",
+   "PA0145",
+   "PA0146"
+  ],
+  "claim": "According to the case statement reported on 21 July 2026, the woman met the accused Nazmul Hasan when she went to collect her passport from the Italian embassy for renewal, and he presented himself as someone who could get passports renewed quickly and get Italy visas.",
+  "verdict": "partly",
+  "source": "news-prothomalo-italy-visa-passport-swap"
+ },
+ "C16": {
+  "ids": [
+   "PA0147"
+  ],
+  "claim": "CID seized 56 passports and 153 seals from the ring",
+  "verdict": "supported",
+  "source": "news-prothomalo-italy-visa-passport-swap"
+ },
+ "C17": {
+  "ids": [
+   "PA0148",
+   "PA0149"
+  ],
+  "claim": "The sister-in-law of Lokman Sardar of Char Bajitpur, Madaripur, whom relatives of two dead migrants accuse of trafficking, said in November 2025 that he is not a broker and that many people in the area came to him after his two sons went to Italy.",
+  "verdict": "partly",
+  "source": "pa-2025-11-12-w36f26giks"
+ },
+ "C18": {
+  "ids": [
+   "PA0150",
+   "PA0151",
+   "PA0152"
+  ],
+  "claim": "Relatives allege that Lokman Sardar of Char Bajitpur, Madaripur, took BDT 30 lakh from the families of two men and told them they would cross the Mediterranean by ship, but they were put on a small engine boat; the boat left the Libyan coast on 14 October 2025 with fifty people, and the two died of cold at sea on 21 October.",
+  "verdict": "partly",
+  "source": "pa-2025-11-12-w36f26giks"
+ },
+ "C19": {
+  "ids": [
+   "PA0153",
+   "PA0154"
+  ],
+  "claim": "The families were told 21 days later; before that the broker had said the men were alive",
+  "verdict": "supported",
+  "source": "pa-2025-11-12-w36f26giks"
+ },
+ "C20": {
+  "ids": [
+   "PA0155",
+   "PA0156"
+  ],
+  "claim": "A Madaripur broker was known locally for having sent more than 300 young men to Italy through Libya",
+  "verdict": "supported",
+  "source": "pa-2026-03-29-wpprmed6jw"
+ },
+ "C21": {
+  "ids": [
+   "PA0157",
+   "PA0158",
+   "PA0159"
+  ],
+  "claim": "Locals said a Libya-based broker from Adityapur, Madaripur, had sent over 50 young men from the village to Italy in one year",
+  "verdict": "supported",
+  "source": "pa-2025-11-19-se6dzeg3ir"
+ },
+ "C22": {
+  "ids": [
+   "PA0160",
+   "PA0161",
+   "PA0162"
+  ],
+  "claim": "In Kalia union, Sakhipur, Tangail, three villagers told Prothom Alo in May 2024 that they each gave BDT 100,000 directly to the union parishad chairman, and a fourth said he gave BDT 72,000 through a union parishad member; they said that six months on the chairman had given neither a visa nor a refund.",
+  "verdict": "partly",
+  "source": "pa-2024-05-15-5ebmk7e7hb"
+ },
+ "C23": {
+  "ids": [
+   "PA0163",
+   "PA0164",
+   "PA0165"
+  ],
+  "claim": "Two Madaripur brothers who drowned off Tunisia had been sent by a man who is the local union parishad chairman, according to the family; he denies it",
+  "verdict": "supported",
+  "source": "pa-2024-09-04-zwrhla1dd4"
+ },
+ "C24": {
+  "ids": [
+   "PA0166",
+   "PA0167",
+   "PA0168"
+  ],
+  "claim": "The brokers kept telling the family the brothers were alive and avoided letting them speak by phone; a relative in Italy told the parents about four months later",
+  "verdict": "supported",
+  "source": "pa-2024-09-04-zwrhla1dd4"
+ },
+ "C25": {
+  "ids": [
+   "PA0169",
+   "PA0170",
+   "PA0171"
+  ],
+  "claim": "The father of a young man from Jagannathpur, Sunamganj, alleges in a case filed in Sylhet in December 2024 that he made a verbal agreement on 15 August 2018 to send his son to Spain for BDT 15 lakh through Foysal Mia, who is the labour affairs secretary of a union Awami League unit, and that the son was instead sent to Libya, where ring members tortured him and threatened to kill him unless more money was paid.",
+  "verdict": "partly",
+  "source": "pa-2024-12-05-no4rh98x79"
+ },
+ "C26": {
+  "ids": [
+   "PA0172",
+   "PA0173",
+   "PA0174"
+  ],
+  "claim": "Families of four young men from Patgram, Lalmonirhat, say local people took BDT 900,000 from each of them for good jobs in Russia and that the men were sent to Moscow on 8 May 2026 through RS International, a recruiting agency in Uttara, Dhaka; a sister of one of the men alleged that two local Jamaat-e-Islami office-holders and an employee of one of them took the money.",
+  "verdict": "partly",
+  "source": "pa-2026-06-11-zy9r2k4bch"
+ },
+ "C27": {
+  "ids": [
+   "PA0175",
+   "PA0176"
+  ],
+  "claim": "The agency's office was found locked on 7 June 2026",
+  "verdict": "supported",
+  "source": "pa-2026-06-11-zy9r2k4bch"
+ },
+ "C28": {
+  "ids": [
+   "PA0177",
+   "PA0178",
+   "PA0179"
+  ],
+  "claim": "CID, citing the woman's case, said in July 2026 that a woman who had taken a loan from a local NGO met Md Rubel, who worked at that NGO, that he helped her take a BDT 100,000 loan from the NGO because she could not afford the cost of going abroad, and that she was sent to Cambodia in August 2025.",
+  "verdict": "partly",
+  "source": "news-prothomalo-cambodia-women-trafficking-cid"
+ },
+ "C29": {
+  "ids": [
+   "PA0180"
+  ],
+  "claim": "According to the case filed by a woman sent to Cambodia in August 2025, after she arrived other members of the ring forcibly took her passport and the money she had with her.",
+  "verdict": "partly",
+  "source": "news-prothomalo-cambodia-women-trafficking-cid"
+ },
+ "C30": {
+  "ids": [
+   "PA0181",
+   "PA0182",
+   "PA0183"
+  ],
+  "claim": "Victims of S Alam Overseas, whose office was on the second floor of a house in Sector 12, Uttara, Dhaka, said in November 2026 that the agency gave them fake appointment letters from an Azerbaijan company named Colin Construction and visas, and had foreigners interview them online; everyone who submitted a passport was sent for a medical test at a medical centre in Banani.",
+  "verdict": "partly",
+  "source": "pa-2026-11-20-x3zind3vkt"
+ },
+ "C31": {
+  "ids": [
+   "PA0184",
+   "PA0185",
+   "PA0186"
+  ],
+  "claim": "The 23 victims of S Alam Overseas, Uttara, whom Prothom Alo spoke to say they each paid the agency between BDT 80,000 and BDT 350,000, taken in four stages, and each person had to pay BDT 5,000 as the fee for a medical test.",
+  "verdict": "partly",
+  "source": "pa-2026-11-20-x3zind3vkt"
+ },
+ "C32": {
+  "ids": [
+   "PA0187",
+   "PA0188"
+  ],
+  "claim": "On 23 October the receptionist phoned to say the company had closed; the appointment letters and visas were fake",
+  "verdict": "supported",
+  "source": "pa-2026-11-20-x3zind3vkt"
+ },
+ "C33": {
+  "ids": [
+   "PA0189"
+  ],
+  "claim": "About 200 people were cheated, according to the victims",
+  "verdict": "supported",
+  "source": "pa-2026-11-20-x3zind3vkt"
+ },
+ "C34": {
+  "ids": [
+   "PA0190",
+   "PA0191",
+   "PA0192"
+  ],
+  "claim": "Dhaka detective police (DB) said on 31 March 2024 that a father and son they had arrested told victims they held valid licences for four to five recruiting agencies when in fact they had none, and had victims take a medical test after they paid; DB said it seized fake appointment letters and visas from the two.",
+  "verdict": "partly",
+  "source": "pa-2024-03-31-fay7l3ni3c"
+ },
+ "C35": {
+  "ids": [
+   "PA0193",
+   "PA0194"
+  ],
+  "claim": "Police in Chattogram said on 22 November 2026 that an arrested ring member admitted the ring offered to send people to Serbia for BDT 600,000, took the money, and gave a visa to win their trust; the visa was forged, which immigration police at the airport caught.",
+  "verdict": "partly",
+  "source": "pa-2026-11-22-y5tzslz86o"
+ },
+ "C36": {
+  "ids": [
+   "PA0195",
+   "PA0196"
+  ],
+  "claim": "Police in Chattogram said on 22 November 2026 that, when a forged Serbia visa was caught by immigration police at the airport, members of the ring claimed the victim had some other problem.",
+  "verdict": "partly",
+  "source": "pa-2026-11-22-y5tzslz86o"
+ },
+ "D01": {
+  "ids": [
+   "PA0197",
+   "PA0198",
+   "PA0199"
+  ],
+  "claim": "According to his family and local sources, Elias Howlader of Kalkini, Madaripur went to Qatar about three years before March 2026, decided from there to go to Italy illegally after being lured by a Bangladeshi broker, and reached Libya from Qatar in early August 2025; his father said the family learned of it only after he had gone to Libya.",
+  "verdict": "partly",
+  "source": "pa-2026-03-29-wpprmed6jw"
+ },
+ "D02": {
+  "ids": [
+   "PA0200",
+   "PA0201",
+   "PA0202"
+  ],
+  "claim": "According to his family, brokers took BDT 20 lakh (2,000,000) from them in several instalments while Elias Howlader of Madaripur was held and tortured in a Libyan detention camp, where he died on 23 March 2026.",
+  "verdict": "partly",
+  "source": "pa-2026-03-29-wpprmed6jw"
+ },
+ "D03": {
+  "ids": [
+   "PA0203",
+   "PA0204"
+  ],
+  "claim": "According to CID sources, a man from Senbag, Noakhali who had worked in Saudi Arabia for about three years met a fellow passenger on the flight home, and through that person was introduced to a member of a human-trafficking ring.",
+  "verdict": "partly",
+  "source": "pa-2026-10-06-z726uumc1s"
+ },
+ "D04": {
+  "ids": [
+   "PA0205",
+   "PA0206",
+   "PA0207"
+  ],
+  "claim": "Bangladeshi workers dismissed by their company in Russia were approached by brokers at the airport when they tried to fly home, or in Moscow while jobless",
+  "verdict": "supported",
+  "source": "pa-2025-04-22-f6i1adb251"
+ },
+ "D05": {
+  "ids": [
+   "PA0208",
+   "PA0209"
+  ],
+  "claim": "Their passports and papers were taken 'for visa renewal', and after signing a contract they were taken to a forest to cut trees before weapons arrived",
+  "verdict": "supported",
+  "source": "pa-2025-04-22-f6i1adb251"
+ },
+ "D06": {
+  "ids": [
+   "PA0210",
+   "PA0211",
+   "PA0212"
+  ],
+  "claim": "According to his family, after the construction firm employing Shahriar Sumon of Trishal, Mymensingh in Russia stopped work six months in, a broker in Moscow first took him away with a promise of vineyard work and then, promising to send him to Italy, took BDT 5 lakh from him and a Bangladeshi companion.",
+  "verdict": "partly",
+  "source": "pa-2026-08-05-nk4b22rsb2"
+ },
+ "D07": {
+  "ids": [
+   "PA0213",
+   "PA0214"
+  ],
+  "claim": "According to the family of Shahriar Sumon of Mymensingh, he and a Bangladeshi companion were made to sign papers written in Russian whose meaning they did not understand, and later learned they had been enrolled in the Russian army.",
+  "verdict": "partly",
+  "source": "pa-2026-08-05-nk4b22rsb2"
+ },
+ "D08": {
+  "ids": [
+   "PA0215",
+   "PA0216"
+  ],
+  "claim": "According to his wife, after Kamrul Hasan of Brahmanbaria went to Moscow looking for work and was cheated by one broker, another broker took BDT 5 lakh (500,000) from him with a promise to send him to Italy, and he was then handed over to the Russian army through deception.",
+  "verdict": "partly",
+  "source": "pa-2026-07-17-yo66l8w3ma"
+ },
+ "D09": {
+  "ids": [
+   "PA0217",
+   "PA0218",
+   "PA0219"
+  ],
+  "claim": "Complainants told Prothom Alo in July 2025 that they paid the study-abroad firm BSB Global Network BDT 17 lakh each (a lawyer couple) and BDT 13 lakh (Amir Hossain) for Canadian visas for higher education, and that the firm arranged no visas and did not return the money.",
+  "verdict": "partly",
+  "source": "pa-2025-07-15-e6v745njiz"
+ },
+ "D10": {
+  "ids": [
+   "PA0220",
+   "PA0221"
+  ],
+  "claim": "CID arrested its chairman, Khairul Bashar, on 14 July 2025",
+  "verdict": "supported",
+  "source": "pa-2025-07-15-e6v745njiz"
+ },
+ "D11": {
+  "ids": [
+   "PA0222",
+   "PA0223"
+  ],
+  "claim": "CID's inquiry found that for many students the firm had made no application to any foreign university",
+  "verdict": "supported",
+  "source": "pa-2025-08-06-t7a9pnfyzw"
+ },
+ "D12": {
+  "ids": [
+   "PA0224",
+   "PA0225",
+   "PA0226"
+  ],
+  "claim": "According to case documents, Rahima Begum of Dhaka, whose husband had paid his Saudi sponsor BDT 35 lakh to take 17 people to Saudi Arabia and never got it back, contacted advertisers she saw on Facebook and YouTube on 8 March 2022 that promised recovery of owed money, and they took BDT 10 lakh 20 thousand from her in stages before cutting contact.",
+  "verdict": "partly",
+  "source": "pa-2026-08-01-vmxspichnl"
+ },
+ "D13": {
+  "ids": [
+   "PA0227"
+  ],
+  "claim": "The fraudsters promised to recover the money within 72 hours by supernatural means",
+  "verdict": "supported",
+  "source": "pa-2026-08-01-vmxspichnl"
+ },
+ "D14": {
+  "ids": [
+   "PA0228"
+  ],
+  "claim": "Police charged 23 people on 13 July 2026",
+  "verdict": "supported",
+  "source": "pa-2026-08-01-vmxspichnl"
+ },
+ "D15": {
+  "ids": [
+   "PA0229",
+   "PA0230",
+   "PA0231"
+  ],
+  "claim": "According to relatives and local sources, a broker first took BDT 25 lakh from Tachhir Fakir of Rajoir, Madaripur for the journey to Italy, brokers in Libya then held him in a detention camp and took BDT 20 lakh ransom from his family and another BDT 2.5 lakh said to be for treatment, and he died in a Libyan hospital in May 2026.",
+  "verdict": "partly",
+  "source": "pa-2026-05-13-i5qpn7a382"
+ },
+ "D16": {
+  "ids": [
+   "PA0232"
+  ],
+  "claim": "The family sold all its land to pay",
+  "verdict": "supported",
+  "source": "pa-2026-05-13-i5qpn7a382"
+ },
+ "D17": {
+  "ids": [
+   "PA0233",
+   "PA0234",
+   "PA0235"
+  ],
+  "claim": "The family of Dipu Mia of Bhairab, Kishoreganj contracted with a broker from the same village for BDT 9.5 lakh (950,000) to reach Italy via Libya, and relatives said in August 2025 that the brokers had so far taken BDT 45 lakh and were demanding BDT 25 lakh more.",
+  "verdict": "partly",
+  "source": "pa-2025-08-14-omyw5ll0rh"
+ },
+ "D18": {
+  "ids": [
+   "PA0236",
+   "PA0237"
+  ],
+  "claim": "According to his family, Dipu Mia of Bhairab reached Libya on 23 September 2023, was detained a few days later and passed to a mafia group, and a month and a half after that the family got a call showing a torture video and demanding BDT 11 lakh (1,100,000) within one day.",
+  "verdict": "partly",
+  "source": "pa-2025-08-14-omyw5ll0rh"
+ },
+ "D19": {
+  "ids": [
+   "PA0238",
+   "PA0239",
+   "PA0240"
+  ],
+  "claim": "According to relatives and neighbours, the family of Saidul Bepari of Madaripur paid BDT 20 lakh ransom to free him in Libya and then agreed a BDT 16 lakh 'body contract' through a Bangladeshi broker, an arrangement under which brokers promise to deliver the migrant alive to Italy however long it takes and bear lodging, food and airfare; he died in a Libyan detention camp on 14 February 2025 after torture.",
+  "verdict": "partly",
+  "source": "pa-2025-02-27-9ok90kf55r"
+ },
+ "D20": {
+  "ids": [
+   "PA0241",
+   "PA0242",
+   "PA0243"
+  ],
+  "claim": "According to his family, a BDT 22 lakh contract was made to send Imran Khan of Madaripur to Italy, brokers took BDT 20 lakh more while he was held in a detention camp in Benghazi, Libya, and he was shot dead by pirates on a migrant boat on 1 November 2025, which the family learned from a broker on 18 November.",
+  "verdict": "partly",
+  "source": "pa-2025-11-19-se6dzeg3ir"
+ }
+}

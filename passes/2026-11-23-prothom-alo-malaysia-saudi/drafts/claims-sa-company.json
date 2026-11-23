@@ -1,0 +1,1520 @@
+[
+ {
+  "key": "SA3d-22",
+  "fact_ids": [
+   "SP0415",
+   "SP0416",
+   "SP0417"
+  ],
+  "claim": "Md. Habib Khan (21) of Nabakalas, Matlab Dakshin, Chandpur, borrowed Tk 5.5 lakh and went to Saudi Arabia in November 2023 on a 'free visa' through a Narayanganj broker named Md. Rashed; after working a while at a residential hotel in Mecca he left, then under a local broker got only occasional small jobs with little pay and spent most of his time idle, according to his family and local sources.",
+  "target_section": "Avoid a \"free visa\"",
+  "placement": "Cases",
+  "why_new": "A dated free-visa case showing the local-broker stage in Saudi Arabia; the guide's free-visa section has no such case.",
+  "published": "2025-10-07"
+ },
+ {
+  "key": "SA3d-30",
+  "fact_ids": [
+   "SP0430",
+   "SP0431",
+   "SP0432"
+  ],
+  "claim": "OKUP's survey of 1,084 households of workers who went to Kuwait, Oman, Qatar, the UAE and Saudi Arabia in 2022 (released 19 October 2025) found that 43% got no work, 57% got a work permit, 21% found no work and paid about Tk 1.5 lakh more for an iqama, 4% paid Tk 44,000 to get work, 4% came home at their own cost, and 14% could not pay for a permit or the trip home and stayed on undocumented.",
+  "target_section": "Avoid a \"free visa\"",
+  "placement": "other: what happens on arrival",
+  "why_new": "Five-country survey, not Saudi-only; guide has OKUP's complaint study (47% no permit) but not these outcome shares.",
+  "published": "2025-10-19"
+ },
+ {
+  "key": "SA3d-33",
+  "fact_ids": [
+   "SP0604",
+   "SP0605"
+  ],
+  "claim": "Expatriates' Welfare Secretary Neyamat Ullah Bhuiyan said in October 2025 that the government is pushing, through bilateral agreements, for workers to be sent at the employer's cost.",
+  "target_section": "Avoid a \"free visa\"",
+  "placement": "other: official view",
+  "why_new": "Government stance on employer-pays not in guide.",
+  "published": "2025-10-19"
+ },
+ {
+  "key": "SA3b-9",
+  "fact_ids": [
+   "SP0133",
+   "SP0134",
+   "SP0135"
+  ],
+  "claim": "Prothom Alo reported (November 2024) that on 27 March the bag holding the passport and air ticket of Momin Sheikh (45), a Saudi-based migrant from Sirajganj, fell from the Dhumketu Express bound for Dhaka; a fellow passenger called 999 saying he would miss his 2 pm flight to Saudi Arabia without it, the Tangail railway police outpost found that a woman had picked it up, and the bag was handed back to him.",
+  "target_section": "Before you fly",
+  "placement": "Cases",
+  "why_new": "The guide lists 999 for emergencies but has no evidence of what it does for a migrant; this is a case of 999 recovering a lost passport before a flight (year inferred as 2024 from a November 2024 article saying 'last 27 March').",
+  "published": "2024-11-22"
+ },
+ {
+  "key": "SA3c-11",
+  "fact_ids": [
+   "SP0279",
+   "SP0280",
+   "SP0281"
+  ],
+  "claim": "ATAB (the Association of Travel Agents of Bangladesh) said in March 2025 that Dhaka-Saudi fares, which reached up to Tk 1,90,000 in December 2024 and February 2025 because of 'group booking schemes', had fallen to Tk 48,000-50,000, with some airlines selling Dammam and Riyadh tickets for as little as Tk 35,000, after the civil aviation ministry's 11 February 2025 directives made a passenger's name, passport details and passport copy compulsory at booking.",
+  "target_section": "Before you fly",
+  "placement": "item 2 (ticket)",
+  "why_new": "The guide already has Tk 48,000-50,000 [G0021] and the name-and-passport booking rule [G0020]; this adds the Tk 1.9 lakh peak from group-booked seats, the Tk 35,000 low and the 11 February 2025 directive date. Guide dates the Tk 48-50k fare May 2025; this source is March 2025.",
+  "published": "2025-03-23"
+ },
+ {
+  "key": "SA3c-13",
+  "fact_ids": [
+   "SP0285"
+  ],
+  "claim": "A Prothom Alo check in April 2025 found a direct Dhaka-Jeddah ticket for 1 May 2025 priced at USD 552 (about Tk 67,000), against USD 307 (about Tk 37,500) from New Delhi to Jeddah the same day.",
+  "target_section": "Before you fly",
+  "placement": "item 2 (ticket)",
+  "why_new": "Adds a dated Dhaka-Jeddah market fare; the guide gives Tk 48,000-50,000 [G0021], lower than this fare.",
+  "published": "2025-04-09"
+ },
+ {
+  "key": "SA3c-14",
+  "fact_ids": [
+   "SP0286",
+   "SP0287",
+   "SP0288"
+  ],
+  "claim": "The civil aviation ministry's February 2025 directives require tickets to be sold at the Civil Aviation Authority of Bangladesh's approved fares and discounted tickets to be given to migrant workers, and Biman's managing director, Md Safiqur Rahman, said in April 2025 that discounted tickets were being given to workers going abroad.",
+  "target_section": "Before you fly",
+  "placement": "item 6 (worker fare)",
+  "why_new": "Partly answers the guide's Need to know 'Does the fare still apply?' under item 6 (as of April 2025, from the directive and Biman); gives no amount.",
+  "published": "2025-04-09"
+ },
+ {
+  "key": "SA3c-15",
+  "fact_ids": [
+   "SP0289",
+   "SP0290",
+   "SP0291"
+  ],
+  "claim": "Ticket agencies told Prothom Alo in April 2025 that under the previous Awami League government a ring formed in which Biman itself held back cheap tickets and released only expensive ones, and that this had not fully stopped; the article said trading in Saudi tickets began in late 2024, and people in the sector said ticket blocking had fallen a lot since the civil aviation ministry's February 2025 directives.",
+  "target_section": "Before you fly",
+  "placement": "item 2 (ticket)",
+  "why_new": "Explains the late-2024 Saudi ticket racket behind the fare spike; the guide has only the booking rule [G0020].",
+  "published": "2025-04-09"
+ },
+ {
+  "key": "SA3e-56",
+  "fact_ids": [
+   "SP0702"
+  ],
+  "claim": "The minister also said Biman's discounted 'T-class' fares cut Dhaka-Jeddah from Tk 62,000 to Tk 48,000 and Dhaka-Riyadh or Dammam from Tk 53,000 to Tk 48,000.",
+  "target_section": "Before you fly",
+  "placement": "other: fares",
+  "why_new": "Guide quotes fares of about Tk 48,000-50,000 in May 2025 (G0021); this names the Biman T-class fare.",
+  "published": "2026-06-18"
+ },
+ {
+  "key": "SA3e-50",
+  "fact_ids": [
+   "SP0688",
+   "SP0689",
+   "SP0690"
+  ],
+  "claim": "Lal Mia (54) of Shalikha, Magura, said he paid a broker Tk 1.3 lakh in 2002 to go to Saudi Arabia but could not go, then paid brokers Tk 2.5 lakh for Malaysia in 2006, Tk 3 lakh for Malaysia in 2010 and Tk 3.6 lakh for Dubai in 2012, about Tk 10.5 lakh over the four attempts, selling four bighas of farmland and 12.5 decimals of homestead, and never went abroad or got the money back.",
+  "target_section": "Before you pay anyone",
+  "placement": "Cases",
+  "why_new": "Old case (2002), mainly cross-country (repeat victims). Low priority.",
+  "published": "2026-06-10"
+ },
+ {
+  "key": "SA3d-2",
+  "fact_ids": [
+   "SP0379",
+   "SP0380",
+   "SP0381"
+  ],
+  "claim": "Sakibur Rahman (25) of Mohuripara, Pekua, Cox's Bazar, who went to Saudi Arabia on 6 June 2025, died on the spot in a road accident in Mahil city on 23 July 2025 while learning to drive, and a relative was injured, his elder brother told Prothom Alo.",
+  "target_section": "Driving",
+  "placement": "Cases",
+  "why_new": "Driving section has blood-money and insurance rules but no case of a new arrival killed while learning to drive; licence/learning rules are a gap.",
+  "published": "2025-07-24"
+ },
+ {
+  "key": "SA3d-38",
+  "fact_ids": [
+   "SP0441",
+   "SP0442",
+   "SP0443"
+  ],
+  "claim": "Nurul Alam (38) of Akbarpara, Adhunagar, Lohagara, Chattogram, who went to Saudi Arabia 18 years earlier, learned tailoring, worked about 10 years at a firm, then ran his own cloth business in Mahail, Abha (Asir province), delivering cloth to shops in his own microbus; a relative said he was killed on the spot on Thursday night in early December 2025 in a collision with a cargo lorry on his way home after deliveries.",
+  "target_section": "Driving",
+  "placement": "Cases",
+  "why_new": "Another road death case; also a long-stayer running his own business (the article doesn't say under what status, relevant to tasattur).",
+  "published": "2025-12-07"
+ },
+ {
+  "key": "SA3e-10",
+  "fact_ids": [
+   "SP0621",
+   "SP0622",
+   "SP0623"
+  ],
+  "claim": "On 15 February 2026 five Bangladeshis from Ramganj, Lakshmipur, died when their private car crashed in Abha on the way home after Umrah: Mizanur Rahman (42), who had long run a hotel business in Abha, his wife, two daughters and their driver Mohammad Jilani alias Babor (30); an 11-year-old daughter was seriously injured.",
+  "target_section": "Driving",
+  "placement": "other: road deaths case",
+  "why_new": "Road-death case; guide has crash liability (Driving) but no cases. Low priority.",
+  "published": "2026-02-16"
+ },
+ {
+  "key": "SA3e-48",
+  "fact_ids": [
+   "SP0682",
+   "SP0683",
+   "SP0684"
+  ],
+  "claim": "Nure Alam (42) and Yunus Mia (43) of Cumilla, friends who ran a business together in Riyadh, died in a head-on collision at Afif on the Jeddah-Riyadh highway on the night of Friday 15 May 2026 while bringing shop goods from Jeddah, a relative said.",
+  "target_section": "Driving",
+  "placement": "other: road deaths case",
+  "why_new": "Road-death case. Low priority.",
+  "published": "2026-05-17"
+ },
+ {
+  "key": "SA3d-14",
+  "fact_ids": [
+   "SP0397",
+   "SP0398"
+  ],
+  "claim": "Asif Nazrul said on 20 August 2025 that the interim government had shut the private app 'Ami Probashi' and built an integrated government online platform on which BMET issues emigration clearance 100% online.",
+  "target_section": "Get BMET clearance",
+  "placement": "other: platform",
+  "why_new": "Conflict: the guide's PDO enrolment step (Step 8) still tells workers to enrol through the Ami Probashi app [B0166]; the minister says the app was shut.",
+  "published": "2025-08-20"
+ },
+ {
+  "key": "SA3e-1",
+  "fact_ids": [
+   "SP0606",
+   "SP0607",
+   "SP0608"
+  ],
+  "claim": "In January 2026 Bangladesh's interim government set a special Biman Bangladesh Airlines fare for migrant workers of at least Tk 20,500 one way on the Madinah-Dhaka and Jeddah-Dhaka routes and Tk 42,000 return on Madinah-Dhaka-Madinah and Jeddah-Dhaka-Jeddah, according to the Chief Adviser's press wing.",
+  "target_section": "Going home on leave and coming back",
+  "placement": "other: cheaper flights home",
+  "why_new": "Guide has no cheap-fare scheme for workers going home on leave.",
+  "published": "2026-01-30"
+ },
+ {
+  "key": "SA3e-2",
+  "fact_ids": [
+   "SP0609",
+   "SP0610",
+   "SP0611"
+  ],
+  "claim": "The special fare applied to travel to Bangladesh from 18 April to 25 May 2026 and back to Saudi Arabia from 30 May to 30 June 2026, using flights that the civil aviation adviser said usually return empty during Hajj, with a target of 80,000 tickets sold in Saudi Arabia and Bangladesh combined.",
+  "target_section": "Going home on leave and coming back",
+  "placement": "other: cheaper flights home",
+  "why_new": "Dates and size of the scheme; a reviewer may want a Need to know on whether it will run again in the 2027 Hajj season.",
+  "published": "2026-01-30"
+ },
+ {
+  "key": "SA3e-55",
+  "fact_ids": [
+   "SP0700",
+   "SP0701"
+  ],
+  "claim": "Civil aviation minister Afroza Khanam told parliament on 18 June 2026 that Biman had set a Tk 20,000 fare for migrant workers on empty Hajj-season return flights from Jeddah and Madinah, against Tk 50,000-55,000 before on the same routes.",
+  "target_section": "Going home on leave and coming back",
+  "placement": "other: cheaper flights home",
+  "why_new": "Confirms the scheme in A0 and gives the usual fare.",
+  "published": "2026-06-18"
+ },
+ {
+  "key": "SA3f-50",
+  "fact_ids": [
+   "SP0796",
+   "SP0797",
+   "SP0798"
+  ],
+  "claim": "One of the two Bangladeshis killed in the 10 October 2026 Riyadh airport attack, Md Shahed Ahmmad of Bogura, a plumber with an iqama on a Saudi contractor's Jeddah project, was returning to work through Riyadh after leave in Bangladesh; the other, Md Nasrullah Badarpuri of Cumilla, was an Umrah pilgrim waiting to fly from Riyadh to Jeddah.",
+  "target_section": "Going home on leave and coming back",
+  "placement": "Cases",
+  "why_new": "Shows the risk on the Riyadh transit route that workers and pilgrims use to reach Jeddah.",
+  "published": "2026-10-11"
+ },
+ {
+  "key": "SA3f-61",
+  "fact_ids": [
+   "SP0824",
+   "SP0825",
+   "SP0826"
+  ],
+  "claim": "Abul Hossain of Senbag, Noakhali, a tile mason six years in Saudi Arabia, had booked his return ticket three months ahead but his 12 October 2026 Biman flight to Dammam was cancelled, and he said that if he could not go back he would struggle to keep his job.",
+  "target_section": "Going home on leave and coming back",
+  "placement": "Cases",
+  "why_new": "Shows the risk to workers on leave when flights stop; the guide's leave section says nothing about that.",
+  "published": "2026-10-13"
+ },
+ {
+  "key": "SA3f-46",
+  "fact_ids": [
+   "SP0790",
+   "SP0791"
+  ],
+  "claim": "Migration research bodies said in October 2026 that a large share of Bangladeshi workers in the Middle East work in construction in extreme daytime heat, which can damage the kidneys, brain and other organs, worsen breathing, heart, diabetes and kidney disease, and cause premature death.",
+  "target_section": "Hours, rest and leave",
+  "placement": "other",
+  "why_new": "Health risk behind the guide's summer midday work ban (Hours section); not Saudi-specific.",
+  "published": "2026-10-06"
+ },
+ {
+  "key": "SA3d-5",
+  "fact_ids": [
+   "SP0387"
+  ],
+  "claim": "Asif Nazrul said in August 2025 that he had seen migrant workers at one place in Saudi Arabia living in conditions worse than anyone lives in Bangladesh's worst slum.",
+  "target_section": "Housing, food and health care",
+  "placement": "Cases",
+  "why_new": "No first-hand official account of housing conditions in the guide.",
+  "published": "2025-08-02"
+ },
+ {
+  "key": "SA3f-6",
+  "fact_ids": [
+   "SP0721"
+  ],
+  "claim": "According to the uncle of one victim, the workers killed in the 9 August 2026 Riyadh sofa-factory fire were asleep in the factory and its main gate was locked from outside, so they could not get out.",
+  "target_section": "Housing, food and health care",
+  "placement": "Cases",
+  "why_new": "The guide has nothing on workers sleeping at the workplace or locked-in housing; a relative's account, not an official finding.",
+  "published": "2026-08-10"
+ },
+ {
+  "key": "SA3c-33",
+  "fact_ids": [
+   "SP0329",
+   "SP0330",
+   "SP0331"
+  ],
+  "claim": "According to Motiur Rahman's family, Motiur, a manpower trader from Raninagar, Naogaon, sent Sajib of Talson village, Adamdighi, Bogura, to Saudi Arabia two years earlier, where Sajib got no iqama because of problems with his papers; Sajib's uncle Jahangir Alam said in May 2025 that the company Sajib was sent to had still not given him an iqama and that Motiur had promised one and kept making excuses.",
+  "target_section": "If a relative or friend offers you a visa",
+  "placement": "If it turns out to be a free visa (Cases)",
+  "why_new": "Another no-iqama case after a broker's visa. CONFLICT within sources: this report says Sajib went two years earlier; the next day's report (f180ac18) quotes his father as saying 40 days earlier.",
+  "published": "2025-05-19"
+ },
+ {
+  "key": "SA3a-67",
+  "fact_ids": [
+   "SP0116",
+   "SP0117"
+  ],
+  "claim": "In both October 2024 Barishal cases the victims' fathers filed at the Human Trafficking Offence Suppression Tribunal and the judge ordered the local police station's officer in charge to record the complaint as an FIR; in the first case he also ordered an investigation report.",
+  "target_section": "If an agency, broker or relative takes your money",
+  "placement": "other: trafficking tribunal route",
+  "why_new": "The guide mentions a police case under the trafficking law and a CR case at the magistrate's court [RC0045, RC0021], but not filing directly at the trafficking tribunal, which then orders the police to register it.",
+  "published": "2024-10-29"
+ },
+ {
+  "key": "SA3c-25",
+  "fact_ids": [
+   "SP0313",
+   "SP0314",
+   "SP0315"
+  ],
+  "claim": "The family of cousins Sohel Molla and Iqbal Molla of Jaldia village, Sultanpur union, Rajbari Sadar paid neighbour Moniruddin Molla and his brother-in-law Mamun Molla Tk 6 lakh in cash on 5 March 2024 and Tk 4 lakh through a bank on 26 May 2024 for good jobs in Saudi Arabia, where, the family says, the two got no work and were abused by the broker ring.",
+  "target_section": "If an agency, broker or relative takes your money",
+  "placement": "Cases",
+  "why_new": "New case of neighbours acting as brokers (Tk 5 lakh a head, paid partly by bank), adding to the guide's relative/neighbour fraud cases.",
+  "published": "2025-05-03"
+ },
+ {
+  "key": "SA3c-26",
+  "fact_ids": [
+   "SP0316",
+   "SP0317"
+  ],
+  "claim": "Sohel's father Kamal Molla said the brokers took a further Tk 2 lakh from the family on 7 February 2025 on a promise of work for the two men, after which the men lost contact with their families, and Sohel's wife Rina Akter said in May 2025 that the brokers were now demanding Tk 10 lakh more to bring them back.",
+  "target_section": "If an agency, broker or relative takes your money",
+  "placement": "Cases",
+  "why_new": "Shows the follow-on demands (money for work after arrival, then money to bring the men home); the guide's free-visa section has post-arrival payments but not ransom-style demands to return a worker.",
+  "published": "2025-05-03"
+ },
+ {
+  "key": "SA3c-27",
+  "fact_ids": [
+   "SP0318",
+   "SP0319",
+   "SP0320"
+  ],
+  "claim": "On 27 April 2025 Rina Akter filed a case under the human trafficking prevention and suppression law against Moniruddin and Mamun at Rajbari's human trafficking offences tribunal, which ordered PBI (the Police Bureau of Investigation) Faridpur to investigate; Mamun said the men had refused to work at the company they were given and their passports were returned from the company through the agency.",
+  "target_section": "If an agency, broker or relative takes your money",
+  "placement": "Cases (human trafficking case)",
+  "why_new": "Example of a family going straight to the trafficking tribunal (complaint case) and the court sending it to PBI; the guide mentions the trafficking law route [RC0045] without a Saudi example of a tribunal filing.",
+  "published": "2025-05-03"
+ },
+ {
+  "key": "SA3f-21",
+  "fact_ids": [
+   "SP0751",
+   "SP0752",
+   "SP0753"
+  ],
+  "claim": "According to the CID, a ring took Tk 6 lakh from a man for a fast-food shop job in Saudi Arabia, sent him there on 7 June 2025 with no job, held him in a house, beat him and demanded more money from his family for an iqama; he escaped, was detained by Saudi police and sent back on 22 July 2026, and his wife filed a human trafficking case at Savar police station.",
+  "target_section": "If an agency, broker or relative takes your money",
+  "placement": "Cases",
+  "why_new": "A case of the 'pay more for the iqama' extortion with confinement in Saudi Arabia and a trafficking case filed from home; the guide's section lacks this pattern.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "SA3f-22",
+  "fact_ids": [
+   "SP0754",
+   "SP0755"
+  ],
+  "claim": "The CID's human trafficking unit arrested ring member Md Salman Hossain (33) at Dhaka's Shahjalal airport on 31 August 2026; the CID said the victim had been held in Salman's own house in Saudi Arabia.",
+  "target_section": "If an agency, broker or relative takes your money",
+  "placement": "Cases",
+  "why_new": "Shows a trafficking case leading to an arrest when the accused flew home.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "SA3c-5",
+  "fact_ids": [
+   "SP0263",
+   "SP0264",
+   "SP0265"
+  ],
+  "claim": "Under Saudi labour law the employer or the Saudi government must bear a worker's cost of going home, and the Saudi human resources ministry's spokesperson Mike Goldstein told the New York Times (abridged in Prothom Alo, March 2025) that under no circumstances will a worker bear the cost of repatriation, but returned workers and labour-rights groups said workers are in practice forced to pay and those who cannot are sometimes held.",
+  "target_section": "If something goes wrong",
+  "placement": "under Work visa: domestic worker; other: who pays the ticket home in practice",
+  "why_new": "The guide says a domestic worker leaving without a valid reason pays her own ticket [D0019]; this adds the ministry's stated rule and the reported practice. The workers in the article are Kenyan and Ugandan, not Bangladeshi.",
+  "published": "2025-03-19"
+ },
+ {
+  "key": "SA3c-6",
+  "fact_ids": [
+   "SP0266",
+   "SP0267",
+   "SP0268"
+  ],
+  "claim": "The Saudi government had tasked an organisation called Sakan with housing and legal help for foreign workers in difficulty; the ministry spokesperson told the New York Times that the government stopped Sakan's funding in 2023 and that another organisation, Samasco, now does this work; three Kenyan women in a Samasco shelter said they would not be allowed home unless each paid USD 400, and Samasco did not respond.",
+  "target_section": "If something goes wrong",
+  "placement": "under Work visa: domestic worker; Complain in this order, item 2 (shelters)",
+  "why_new": "New: names Samasco as the Saudi-funded shelter operator for foreign workers (Sakan before 2023), with an allegation of a USD 400 exit charge; the guide lists only the Bangladesh embassy's safe homes.",
+  "published": "2025-03-19"
+ },
+ {
+  "key": "SA3c-7",
+  "fact_ids": [
+   "SP0269",
+   "SP0270",
+   "SP0271"
+  ],
+  "claim": "Ugandan domestic worker Mary Nisimenta told the New York Times that after she jumped from a three-storey roof in Najran to escape her employer and was treated for a spinal injury, she reported the abuse to the police and the doctor, who told her to go back to work; when she refused, the Saudi placement agency sent her home.",
+  "target_section": "If something goes wrong",
+  "placement": "under Work visa: domestic worker; other: reporting abuse to police or a doctor",
+  "why_new": "Shows what reporting abuse to Saudi police or hospital staff can lead to; the guide does not cover this. Not a Bangladeshi case.",
+  "published": "2025-03-19"
+ },
+ {
+  "key": "SA3d-50",
+  "fact_ids": [
+   "SP0465",
+   "SP0466"
+  ],
+  "claim": "BRAC associate director Shariful Hasan said in December 2025 that brokers and even relatives often effectively sell women domestic workers under the name of sending them free, and that when they are abused abroad, intervention by the embassy or authorities is limited, with no trial and no accountability.",
+  "target_section": "If something goes wrong",
+  "placement": "other: domestic workers, what help reaches them",
+  "why_new": "Evidence on what help actually reaches abused domestic workers (Work visa: domestic worker, If something goes wrong).",
+  "published": "2026-01-12"
+ },
+ {
+  "key": "SA3f-31",
+  "fact_ids": [
+   "SP0771",
+   "SP0772"
+  ],
+  "claim": "Sanjida Akhter of Narsingdi, back from Saudi Arabia in 2025 after 2 months 25 days, said her employer made her work in his own house, his mother's and his in-laws', fed her only bread, and returned her to the Saudi recruiting agency's office when she fell ill, where the abuse began; she paid for her own ticket home and came back empty-handed.",
+  "target_section": "If something goes wrong",
+  "placement": "other: domestic worker case",
+  "why_new": "Case of work in several houses (barred by Saudi rules the guide cites, D0012) and abuse at the recruitment office; target is the If something goes wrong section under Work visa: domestic worker.",
+  "published": "2026-09-13"
+ },
+ {
+  "key": "SA3f-32",
+  "fact_ids": [
+   "SP0773"
+  ],
+  "claim": "An OKUP study in 2025 found that 94% of women workers forced to return had suffered regular physical and mental abuse abroad, 47% sexual harassment, and 82% had worked from dawn to midnight.",
+  "target_section": "If something goes wrong",
+  "placement": "other: domestic worker case",
+  "why_new": "Not Saudi-only (all destinations); target is Work visa: domestic worker, If something goes wrong, or CROSS-COUNTRY: What are a domestic worker's rights?",
+  "published": "2026-09-13"
+ },
+ {
+  "key": "SA3f-33",
+  "fact_ids": [
+   "SP0774"
+  ],
+  "claim": "State Minister for Expatriates' Welfare Md Nurul Haque said in September 2026 that legal aid had been started in 13 countries and a safe home runs in Saudi Arabia, and that abuse had fallen as a result.",
+  "target_section": "If something goes wrong",
+  "placement": "other: domestic worker services",
+  "why_new": "Confirms safe homes still run (guide: Riyadh, Jeddah, Madinah [E0038]); the 13-country legal aid is new but the article gives no how-to.",
+  "published": "2026-09-13"
+ },
+ {
+  "key": "SA3g-6",
+  "fact_ids": [
+   "SP0475",
+   "SP0476",
+   "SP0477"
+  ],
+  "claim": "According to her family as reported by The Daily Star and cited in a Prothom Alo column (17 October 2026), Rizia Begum went to Saudi Arabia in 2019 as a domestic worker, was abused by her employer, lost contact with her family after 2021, and returned to Bangladesh in February 2026 unable to state her own identity at the airport; she was identified and reunited with her family with help from BRAC and the authorities.",
+  "target_section": "If something goes wrong",
+  "placement": "Cases (Work visa: domestic worker)",
+  "why_new": "A concrete case of a domestic worker out of contact for years; guide has no such case, and it shows BRAC's airport help in practice.",
+  "published": "2026-10-17"
+ },
+ {
+  "key": "SA3g-9",
+  "fact_ids": [
+   "SP0479"
+  ],
+  "claim": "In September 2026 parliament was told there are two safe homes in Saudi Arabia, according to a Prothom Alo opinion column (17 October 2026).",
+  "target_section": "If something goes wrong",
+  "placement": "Complain in this order, item 2 (Work visa: domestic worker)",
+  "why_new": "CONFLICT: guide says the labour wings run safe homes in Riyadh, Jeddah and Madinah (three) [E0038, E0019].",
+  "published": "2026-10-17"
+ },
+ {
+  "key": "SA3d-9",
+  "fact_ids": [
+   "SP0391",
+   "SP0392"
+  ],
+  "claim": "The Expatriates' Welfare Ministry said in August 2025 that legal consultancy firms had been appointed in Qatar, Oman, Saudi Arabia, the UAE and Kuwait.",
+  "target_section": "If you aren't paid",
+  "placement": "other: legal help abroad",
+  "why_new": "The guide has no mention of a ministry-appointed law firm in Saudi Arabia; name and access route are a gap.",
+  "published": "2025-08-20"
+ },
+ {
+  "key": "SA3f-11",
+  "fact_ids": [
+   "SP0730",
+   "SP0731"
+  ],
+  "claim": "Moyna Begum of Gondogoali, Atrai, Naogaon, said her elder son Mohon went to Saudi Arabia seven years before August 2026 by mortgaging land and borrowing Tk 4 lakh from a samity (savings association), a debt that had grown with interest to Tk 8 lakh, still unpaid when he and his brother died in the Riyadh factory fire.",
+  "target_section": "If you need to borrow",
+  "placement": "Cases",
+  "why_new": "Shows a samity loan doubling over seven years; the guide's borrowing section has no such case. The article gives Mohon's age as 22 while 684eb2b4 gives 42.",
+  "published": "2026-08-12"
+ },
+ {
+  "key": "SA3f-12",
+  "fact_ids": [
+   "SP0732",
+   "SP0733"
+  ],
+  "claim": "Shahinur Rahman of Par-Naogaon, Naogaon, borrowed Tk 5.7 lakh from a samity against his homestead land at Par-Boalia to go to Saudi Arabia about five months before he died in the August 2026 Riyadh fire, and his widow said the samity could take the land if the loan is not repaid.",
+  "target_section": "If you need to borrow",
+  "placement": "Cases",
+  "why_new": "A 2026 migration cost (Tk 5.7 lakh) and the risk to mortgaged homestead land when a worker dies; not in the guide.",
+  "published": "2026-08-12"
+ },
+ {
+  "key": "SA3a-21",
+  "fact_ids": [
+   "SP0027",
+   "SP0028"
+  ],
+  "claim": "Foreign Minister Hasan Mahmud told parliament on 19 February 2024 that 9,370 Bangladeshis were held in prisons in 26 countries, the most, 5,746, in Saudi Arabia.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "The numbers",
+  "why_new": "The guide gives no number of Bangladeshis jailed in Saudi Arabia.",
+  "published": "2024-02-19"
+ },
+ {
+  "key": "SA3a-49",
+  "fact_ids": [
+   "SP0082",
+   "SP0083"
+  ],
+  "claim": "Foreign Minister Hasan Mahmud told parliament on 1 July 2024 that 11,450 Bangladeshis were held in prisons in 31 countries, the most, 5,746, in Saudi Arabia.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "The numbers",
+  "why_new": "Same Saudi figure as the minister gave in February 2024 (article a5eb1d4c); a later date for the same number.",
+  "published": "2024-07-01"
+ },
+ {
+  "key": "SA3b-49",
+  "fact_ids": [
+   "SP0214",
+   "SP0215"
+  ],
+  "claim": "On 30 January 2025 Bangladesh asked Saudi Interior Vice Minister Nasser bin Abdulaziz Al Dawood for help with quick repatriation of irregular migrants and for a royal pardon for Bangladeshi prisoners convicted of minor offences; he said he would review and consider these.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "other: official requests",
+  "why_new": "Royal pardons for minor offences are not in the guide; outcome unknown.",
+  "published": "2025-02-01"
+ },
+ {
+  "key": "SA3e-51",
+  "fact_ids": [
+   "SP0691"
+  ],
+  "claim": "Shakil Mia (28) of Kishoreganj went to Saudi Arabia in 2019 on borrowed money through Altab Recruiting Agency of Banani, Dhaka, left his workplace because of complications with his employer over his iqama (work permit), and was arrested by Saudi police while working illegally and jailed, his uncle said.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "Cases",
+  "why_new": "Case of the iqama-to-jail path.",
+  "published": "2026-06-13"
+ },
+ {
+  "key": "SA3e-52",
+  "fact_ids": [
+   "SP0692",
+   "SP0693",
+   "SP0694"
+  ],
+  "claim": "From jail Shakil told his family he needed about Tk 2 lakh for bail to come home, and his father said they borrowed and sent about Tk 1.8 lakh to a lawyer in Saudi Arabia; Shakil died in custody on 15 May 2026 after, his family said, an air conditioner exploded and the smoke left him unable to breathe.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "Cases",
+  "why_new": "What families actually pay for bail and a lawyer; guide has a Need to know on legal help.",
+  "published": "2026-06-13"
+ },
+ {
+  "key": "SA3g-2",
+  "fact_ids": [
+   "SP0470",
+   "SP0471"
+  ],
+  "claim": "Prothom Alo (16 October 2026) reported that Bangladesh and Saudi Arabia are both parties to the Vienna Convention on Consular Relations, under whose Article 36 the detaining country must, at the prisoner's request, inform the prisoner's consulate without delay and allow consular assistance; it was not clear whether the two executed Bangladeshis had made that request.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "If you are arrested",
+  "why_new": "Guide says Saudi authorities may not tell the embassy, but not that notification is triggered by the prisoner's own request; this changes what an arrested worker should do (ask for the consulate to be told).",
+  "published": "2026-10-16"
+ },
+ {
+  "key": "SA3g-3",
+  "fact_ids": [
+   "SP0472"
+  ],
+  "claim": "According to unofficial sources in Saudi Arabia cited by Prothom Alo (16 October 2026), the trial of the two executed Bangladeshis ran for several months in a Jeddah court, with two Bangladeshi citizens helping as interpreters.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "Cases",
+  "why_new": "Guide (G0004) says the court provides an interpreter; this adds that a trial ran for months and that Bangladeshis interpreted, yet the mission did not know.",
+  "published": "2026-10-16"
+ },
+ {
+  "key": "SA3g-10",
+  "fact_ids": [
+   "SP0480",
+   "SP0481"
+  ],
+  "claim": "On 17 October 2026 State Minister for Foreign Affairs Shama Obaid Islam said the labour wing of the Bangladesh mission in Saudi Arabia had reported the two executed Bangladeshis were engaged in 'adultery' inside a Makkah mosque, that the government had received nothing formally, and that how the bodies could be brought back would be known only after Saudi Arabia answered Bangladesh's letter.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "Need to know (bodies of executed workers)",
+  "why_new": "Guide says nothing on what happens to the body of an executed worker.",
+  "published": "2026-10-17"
+ },
+ {
+  "key": "SA3g-12",
+  "fact_ids": [
+   "SP0482"
+  ],
+  "claim": "According to a Prothom Alo column (19 October 2026), a Sri Lankan national sentenced to death in Saudi Arabia in a blasphemy case had the sentence overturned by the Saudi Supreme Court after the Sri Lankan government took diplomatic and legal action, with a special legal team working alongside Saudi lawyers.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "What help works",
+  "why_new": "Evidence that legal help with Saudi lawyers can reverse a death sentence; guide has none.",
+  "published": "2026-10-19"
+ },
+ {
+  "key": "SA3g-13",
+  "fact_ids": [
+   "SP0483"
+  ],
+  "claim": "State Minister for Foreign Affairs Shama Obaid Islam was quoted by Bangla Tribune (17 October 2026), as cited in Prothom Alo, saying that when something happens under Saudi law 'there is not much for us to do'.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "Need to know",
+  "why_new": "Shows the government's stated limits on helping arrested workers; guide's Need to know asks what legal help the embassy gives in practice.",
+  "published": "2026-10-19"
+ },
+ {
+  "key": "SA3g-17",
+  "fact_ids": [
+   "SP0488"
+  ],
+  "claim": "On 19 October 2026 Expatriates' Welfare Minister Ariful Haque Chowdhury said one of the two Bangladeshis executed in Makkah was a migrant worker and the other an Umrah pilgrim, and that their bodies would be brought home once air links and the overall situation normalised.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "Cases",
+  "why_new": "CONFLICT: guide (G0001) and the Jeddah consulate's memo say both were cleaners (Al Majal company); the minister says one was an Umrah pilgrim. Also adds the government's stated intent to repatriate the bodies.",
+  "published": "2026-10-19"
+ },
+ {
+  "key": "SA3g-18",
+  "fact_ids": [
+   "SP0489"
+  ],
+  "claim": "According to Bangladesh foreign ministry officials, at a 19 October 2026 meeting in Jeddah the Saudi side said that after the August 2023 arrests a lower court sentenced the two Bangladeshis, an appeal-court panel of 13 judges upheld the death sentences, and they were executed in separate cells for men and women.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "Cases",
+  "why_new": "Adds the Saudi court path (lower court, 13-judge appeal panel) not in guide.",
+  "published": "2026-10-19"
+ },
+ {
+  "key": "SA3g-19",
+  "fact_ids": [
+   "SP0490",
+   "SP0491"
+  ],
+  "claim": "According to foreign ministry sources (19 October 2026), the Saudi foreign ministry's list of sentenced prisoners sent to the Bangladesh consulate in Jeddah on 30 September 2026 named Nazrul Islam and Sweety Akter and their offences but not their sentences; the consul general said that had the list shown the death sentences, the mission could have acted to protect them.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "If a relative or friend is arrested",
+  "why_new": "SG0035 says Saudi Arabia sends lists; this adds that the lists can omit the sentence, so a mission may not know a death sentence even when it knows of the detention.",
+  "published": "2026-10-19"
+ },
+ {
+  "key": "SA3g-20",
+  "fact_ids": [
+   "SP0492",
+   "SP0493"
+  ],
+  "claim": "According to government documents and Bangladeshi diplomats (19 October 2026), Nazrul Islam (from Brahmanbaria) and Sweety Akter (from Tangail) went to Saudi Arabia in late 2022 and joined the Al Majal company as cleaners; Nazrul was detained on 1 August 2023 for a cybercrime or IT offence and held in the Jeddah correctional facility, and Sweety on 2 August 2023 for adultery and held in the Jeddah women's prison.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "Cases",
+  "why_new": "Adds employer (Al Majal), home districts and prisons; guide (G0001) has the arrest dates and charges.",
+  "published": "2026-10-19"
+ },
+ {
+  "key": "SA3g-22",
+  "fact_ids": [
+   "SP0495",
+   "SP0496"
+  ],
+  "claim": "According to a Prothom Alo column (20 October 2026), in a qisas (retaliation) case only the victim's family can pardon: if it demands compensation, is paid blood money and agrees to forgive, even a person sentenced to death is freed; in 2011 eight Bangladeshi workers were beheaded for killing an Egyptian guard after his family refused Bangladesh's offer of blood money.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "other: murder cases and blood money",
+  "why_new": "Guide mentions the 2011 executions (G0008) and blood money for crashes, but not that in murder cases only the victim's family can pardon in exchange for blood money.",
+  "published": "2026-10-20"
+ },
+ {
+  "key": "SA3g-23",
+  "fact_ids": [
+   "SP0497",
+   "SP0498"
+  ],
+  "claim": "According to a Prothom Alo column (20 October 2026), every year at Ramadan, both Eids and the Prophet's death anniversary Middle Eastern countries let prisoners and minor offenders go home under general pardons, and the Bangladesh consulate in Saudi Arabia regularly applies for royal pardons for Bangladeshis not held for serious crimes.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "other: royal pardons",
+  "why_new": "Guide doesn't mention royal pardons as a route out of prison.",
+  "published": "2026-10-20"
+ },
+ {
+  "key": "SA3g-25",
+  "fact_ids": [
+   "SP0502"
+  ],
+  "claim": "According to a Prothom Alo column (20 October 2026), in 2021 the governor of Saudi Arabia's Eastern Province spared a Bangladeshi from the death penalty and arranged for him to be sent home.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "Cases",
+  "why_new": "A case where a death sentence on a Bangladeshi was lifted; not in guide.",
+  "published": "2026-10-20"
+ },
+ {
+  "key": "SA3g-26",
+  "fact_ids": [
+   "SP0503",
+   "SP0504"
+  ],
+  "claim": "According to a Prothom Alo column (20 October 2026), Bangladesh has sentenced-prisoner transfer agreements only with India (2010) and the UAE (2014), none with Saudi Arabia, although in February 2024 the then home minister said Saudi Arabia was interested in a prisoner repatriation agreement.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "other: prisoner transfer",
+  "why_new": "Tells families a Bangladeshi convicted in Saudi Arabia cannot be transferred to serve the sentence at home; not in guide.",
+  "published": "2026-10-20"
+ },
+ {
+  "key": "SA3g-29",
+  "fact_ids": [
+   "SP0508",
+   "SP0509",
+   "SP0510"
+  ],
+  "claim": "According to Nazrul Islam's family (20 October 2026), he went to Saudi Arabia on 10 November 2022 to work as a cleaner at the Haram in Makkah, was arrested about eight months later, the family learned of the arrest a month afterwards, he was able to phone his parents for one to two minutes about once a month from prison, and on the day of execution someone from Saudi Arabia phoned the family to tell them.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "If a relative or friend is arrested",
+  "why_new": "Partly answers the guide's Need to know 'Can an arrested worker call family from custody?': in this case, short monthly calls.",
+  "published": "2026-10-20"
+ },
+ {
+  "key": "SA3g-32",
+  "fact_ids": [
+   "SP0513",
+   "SP0514"
+  ],
+  "claim": "According to a confidential 18 October 2026 letter from the Jeddah consulate's labour welfare wing to the Expatriates' Welfare Ministry, the consulate had asked the Saudi foreign ministry for information on Bangladeshis held in prisons in western Saudi Arabia, and the list it received on 30 September contained no information on the two executed workers' sentences.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "If a relative or friend is arrested",
+  "why_new": "Adds that the consulate obtains prisoner lists on request and they can lack sentences (G0001-G0006 cover the rest of this memo).",
+  "published": "2026-10-21"
+ },
+ {
+  "key": "SA3g-34",
+  "fact_ids": [
+   "SP0518",
+   "SP0519"
+  ],
+  "claim": "ESOHR documented, in cases of foreigners facing death sentences in Saudi Arabia, the absence of professional interpreters, no legal aid, defendants not understanding the proceedings and no effective chance to defend themselves; prisoners said death-row inmates were briefly isolated and cut off before being taken suddenly for execution (Prothom Alo, 22 October 2026).",
+  "target_section": "If you or a relative is arrested",
+  "placement": "If you are arrested",
+  "why_new": "Guide (G0004) says interpreters are provided; this documents interpreter and legal-aid gaps in capital cases.",
+  "published": "2026-10-22"
+ },
+ {
+  "key": "SA3g-39",
+  "fact_ids": [
+   "SP0528",
+   "SP0529",
+   "SP0530"
+  ],
+  "claim": "The Saudi foreign ministry's list of 30 September 2026 named 2,461 Bangladeshi prisoners in the Jeddah consulate's area; for 22 of them, including the two executed, the status column said 'sentenced' but the judgment-summary column was blank, and the 22 cases comprised 8 murder, 5 drug trafficking, 5 'private right', 2 state-law violations, 1 cybercrime and 1 adultery case (Prothom Alo, 22 October 2026).",
+  "target_section": "If you or a relative is arrested",
+  "placement": "other: prisoner numbers",
+  "why_new": "Guide has 306 western-region morality-case prisoners (G0002) but not the 2,461 total or the 22 with unknown sentences.",
+  "published": "2026-10-22"
+ },
+ {
+  "key": "SA3g-40",
+  "fact_ids": [
+   "SP0531"
+  ],
+  "claim": "According to Jeddah consulate sources (22 October 2026), the 22 Bangladeshis with unknown sentences were held in Jeddah's Jahban prison (6), Shumaisi (6), Jeddah General prison (4), and the prisons of Najran, Khamis, Al-Baha, Haddah and the Jeddah women's prison (6).",
+  "target_section": "If you or a relative is arrested",
+  "placement": "other: prisons",
+  "why_new": "Names prisons where Bangladeshis are held in the western region; helps families locate detainees (guide's Need to know).",
+  "published": "2026-10-22"
+ },
+ {
+  "key": "SA3g-41",
+  "fact_ids": [
+   "SP0532",
+   "SP0533"
+  ],
+  "claim": "On 19 October 2026 the Jeddah consulate wrote to the Saudi foreign ministry grouping the 2,461 prisoners into five categories and asking for quick release and return of those whose sentences had ended, inclusion of well-behaved prisoners in the royal pardon list, remission of the remaining sentence for first-time and minor offenders, and quick disposal of pending cases.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "other: royal pardons",
+  "why_new": "Shows what the consulate asks for on prisoners' behalf; not in guide.",
+  "published": "2026-10-22"
+ },
+ {
+  "key": "SA3g-42",
+  "fact_ids": [
+   "SP0534"
+  ],
+  "claim": "In October 2026 the Jeddah consulate also wrote to the Saudi ministry about two more Bangladeshis whose families had reported that security forces arrested them without the families knowing why or where.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "If a relative or friend is arrested",
+  "why_new": "Evidence that a family's report to the mission leads the consulate to query the Saudi ministry; supports the guide's instruction to report an arrest.",
+  "published": "2026-10-22"
+ },
+ {
+  "key": "SA3g-43",
+  "fact_ids": [
+   "SP0535"
+  ],
+  "claim": "Prothom Alo (22 October 2026) noted that under Saudi law a murder case can end in qisas (death) or be settled by blood money or a prison term.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "other: murder cases and blood money",
+  "why_new": "Complements the qisas/blood-money draft from e81c6eca.",
+  "published": "2026-10-22"
+ },
+ {
+  "key": "SA3g-44",
+  "fact_ids": [
+   "SP0536"
+  ],
+  "claim": "On 23 October 2026 State Minister for Foreign Affairs Shama Obaid Islam said about 7,500 Bangladeshis were held in prisons in various Saudi cities.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "other: prisoner numbers",
+  "why_new": "Country-wide prisoner figure; not in guide.",
+  "published": "2026-10-23"
+ },
+ {
+  "key": "SA3g-47",
+  "fact_ids": [
+   "SP0541"
+  ],
+  "claim": "On 23 October 2026 the state minister said that when the government learns a Bangladeshi has been convicted abroad, it contacts that country's government through diplomatic channels and discusses whether the sentence can be remitted, working with the Expatriates' Welfare and Home ministries.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "If a relative or friend is arrested",
+  "why_new": "States what the government says it does once it knows of a conviction; guide's Need to know asks what help the embassy gives in practice.",
+  "published": "2026-10-23"
+ },
+ {
+  "key": "SA3g-48",
+  "fact_ids": [
+   "SP0542",
+   "SP0543"
+  ],
+  "claim": "In its 19 October 2026 diplomatic note the Jeddah consulate asked the Saudi foreign ministry six questions, including where the two executed Bangladeshis' bodies were, whether they would be sent to Bangladesh or had been buried in Saudi Arabia, and whether lawyers had been appointed for them or either had asked for legal help; as of 24 October Saudi Arabia had not replied.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "Need to know (bodies of executed workers)",
+  "why_new": "Shows the family/government did not know where the bodies were 10 days after execution; guide is silent on bodies of executed workers.",
+  "published": "2026-10-24"
+ },
+ {
+  "key": "SA3g-49",
+  "fact_ids": [
+   "SP0544",
+   "SP0545"
+  ],
+  "claim": "According to diplomatic sources (24 October 2026), in death-penalty cases the mission usually tries legal aid, appeal and high-level diplomatic intervention, which it could not do here because the Saudi list did not show the sentence.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "What help works",
+  "why_new": "Describes what the mission does in capital cases once it knows; not in guide.",
+  "published": "2026-10-24"
+ },
+ {
+  "key": "SA3h-1",
+  "fact_ids": [
+   "SP0546"
+  ],
+  "claim": "Bangladesh's foreign ministry told the parliamentary standing committee on foreign affairs on 25 October 2026 that, 14 days before the two Bangladeshis were executed in Makkah, Saudi Arabia had sent a list of about 2,500 prisoners that included their names, but the case was not properly identified.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "other: If you are arrested",
+  "why_new": "Conflict/nuance: the guide (G0006) says Saudi authorities may not tell the embassy even about a death sentence; the ministry says a prisoner list naming them was sent 14 days before but the mission missed it.",
+  "published": "2026-10-25"
+ },
+ {
+  "key": "SA3h-2",
+  "fact_ids": [
+   "SP0547"
+  ],
+  "claim": "The foreign ministry told the committee in October 2026 that, from the prisoner category shown on the Saudi list, officials expected the two Bangladeshis to get 6 months to 15 years in jail and did not realise they would be executed.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "other: If you are arrested",
+  "why_new": "New: shows how the mission handles Saudi prisoner lists and why the death sentence was missed.",
+  "published": "2026-10-25"
+ },
+ {
+  "key": "SA3h-3",
+  "fact_ids": [
+   "SP0548",
+   "SP0549"
+  ],
+  "claim": "On 25 October 2026 the parliamentary committee, chaired by Zahurat Adib Chowdhury, asked the foreign ministry to report whether the Jeddah consulate was weak or negligent over the two executions, what action was taken and what is being done to stop a repeat; the ministry has asked Saudi Arabia questions about the case.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "Need to know",
+  "why_new": "New: possible Need to know: what has the mission changed in how it tracks Bangladeshi prisoners after the October 2026 executions?",
+  "published": "2026-10-25"
+ },
+ {
+  "key": "SA3h-12",
+  "fact_ids": [
+   "SP0563"
+  ],
+  "claim": "On 26 October 2026 State Minister Md Nurul Haque asked the Saudi government to include imprisoned Bangladeshis in a special pardon next Ramadan; this was a request, not a decision.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "other: If a relative or friend is arrested",
+  "why_new": "New: the guide does not mention Ramadan pardons; possible Need to know: did Saudi Arabia include Bangladeshi prisoners in a Ramadan 2027 pardon?",
+  "published": "2026-10-26"
+ },
+ {
+  "key": "SA3h-21",
+  "fact_ids": [
+   "SP0573"
+  ],
+  "claim": "Saudi Arabia's Law of Criminal Procedure (Royal Decree M/39 of 2001; the article text calls it the 2013 code) gives defendants the right to legal assistance at both investigation and trial and prohibits torture, according to Prothom Alo's October 2026 report.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "other: If you are arrested",
+  "why_new": "Partly answers the guide's Need to know 'does Saudi law give them a lawyer?': the law grants a right to legal assistance (not necessarily a free lawyer). Date conflict inside the article (2013 in text, 2001 decree in references).",
+  "published": "2026-10-27"
+ },
+ {
+  "key": "SA3h-22",
+  "fact_ids": [
+   "SP0574"
+  ],
+  "claim": "ESOHR documented that death-row prisoners in Khamis Mushait, Najran and Tabuk prisons had no professional interpreter and no legal aid, did not understand the proceedings and often did not know when their sentence was upheld or their pardon plea rejected.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "other: If you are arrested",
+  "why_new": "Conflict: the guide says the court provides an interpreter (G0004); ESOHR found no professional interpreter in these death-row cases.",
+  "published": "2026-10-27"
+ },
+ {
+  "key": "SA3h-23",
+  "fact_ids": [
+   "SP0575",
+   "SP0576"
+  ],
+  "claim": "Amnesty International found (July 2025 report) that many of 25 foreigners convicted of drug offences in Saudi Arabia went through the system alone, did not understand or did not receive the court papers and charges, got no consular help, and gave confessions without adequate interpreters or lawyers.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "other: If you are arrested",
+  "why_new": "New: what happens in practice after arrest; supports a line not to sign or confess to anything not understood (reviewer to decide wording).",
+  "published": "2026-10-27"
+ },
+ {
+  "key": "SA3h-24",
+  "fact_ids": [
+   "SP0577",
+   "SP0578"
+  ],
+  "claim": "According to Amnesty International, Saudi law has no clear rule on advance notice of an execution to the prisoner or family: families said at most the prisoner can phone 24 hours before, and many learned of the execution from other prisoners' calls or from the media after the interior ministry announced it.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "other: If a relative or friend is arrested",
+  "why_new": "New: what families can expect; the guide does not cover notice of execution.",
+  "published": "2026-10-27"
+ },
+ {
+  "key": "SA3h-26",
+  "fact_ids": [
+   "SP0581",
+   "SP0582"
+  ],
+  "claim": "ESOHR said it could learn nothing about 91 of the 108 cases (84.2 percent) before the executions of January-June 2026, and Prothom Alo found no answer on how many Bangladeshis are held, on what charges, or whether they get lawyers, interpreters or consular help.",
+  "target_section": "If you or a relative is arrested",
+  "placement": "Need to know",
+  "why_new": "Supports a Need to know: how many Bangladeshis are in Saudi prisons or on death row, and on what charges?",
+  "published": "2026-10-27"
+ },
+ {
+  "key": "SA3a-42",
+  "fact_ids": [
+   "SP0069"
+  ],
+  "claim": "Foreign Minister Hasan Mahmud told Bangladeshis in Madinah in June 2024 that the Prime Minister had launched a special pension scheme for expatriates whose benefit even people aged 55 can take, and that offshore banking lets expatriates easily open dollar accounts.",
+  "target_section": "Pension",
+  "placement": "other: Bangladesh pension for migrants",
+  "why_new": "The guide's Pension section says only that there is no Saudi pension [C0109]; a Bangladesh-side pension for migrants is not mentioned. Better as CROSS-COUNTRY if a pension heading exists; how to join is a Need to know.",
+  "published": "2024-06-21"
+ },
+ {
+  "key": "SA3b-57",
+  "fact_ids": [
+   "SP0225",
+   "SP0226"
+  ],
+  "claim": "Saudi ambassador in Dhaka Essa Yousef Essa Alduhailan said on 5 February 2025 that Saudi Arabia had asked Bangladesh to renew the Bangladeshi passports of 69,000 Rohingya living in Saudi Arabia, only for legal processes, and would not send them back to Bangladesh.",
+  "target_section": "Renewing your passport and getting an NID",
+  "placement": "other: Rohingya on Bangladeshi passports",
+  "why_new": "Not in the guide; relevant to Rohingya holding Bangladeshi passports in Saudi Arabia. Outcome unknown.",
+  "published": "2025-02-05"
+ },
+ {
+  "key": "SA3b-62",
+  "fact_ids": [
+   "SP0234",
+   "SP0235"
+  ],
+  "claim": "Bangladeshi community leaders at a Jeddah consulate seminar in late February 2025 demanded that no migrant worker be harassed when renewing a passport at the missions abroad, and that the government budget cover sending home the bodies of migrants who die abroad.",
+  "target_section": "Renewing your passport and getting an NID",
+  "placement": "Need to know",
+  "why_new": "Indicates harassment at missions during passport renewal; the guide's passport-renewal steps don't mention it.",
+  "published": "2025-03-02"
+ },
+ {
+  "key": "SA3e-9",
+  "fact_ids": [
+   "SP0618",
+   "SP0619",
+   "SP0620"
+  ],
+  "claim": "For Bangladesh's 12 February 2026 national election, the first in which Bangladeshis abroad could vote (by postal ballot), more than 239,000 Bangladeshis in Saudi Arabia registered, according to Election Commission figures; in the UK, voting required an NID card, biometric registration at the High Commission and then a mobile app.",
+  "target_section": "Renewing your passport and getting an NID",
+  "placement": "other: voting from abroad",
+  "why_new": "Guide says nothing about voting from Saudi Arabia; the NID step links it to this section. Low priority.",
+  "published": "2026-02-07"
+ },
+ {
+  "key": "SA3e-4",
+  "fact_ids": [
+   "SP0614",
+   "SP0615"
+  ],
+  "claim": "According to the same February 2026 report, HIV is usually found in these countries at the compulsory medical check for work-permit renewal or when a sick worker goes to hospital, after which the visa is cancelled and the worker is quickly sent home; in one case a Bangladeshi construction worker in an unnamed Middle Eastern country had his visa cancelled within a few days of testing positive and was quickly sent home, with no chance to discuss a treatment plan or counselling.",
+  "target_section": "Residence card (iqama) and medical",
+  "placement": "other: renewal medical",
+  "why_new": "Guide doesn't say a medical is part of permit renewal or what an HIV finding does.",
+  "published": "2026-02-02"
+ },
+ {
+  "key": "SA3a-53",
+  "fact_ids": [
+   "SP0087",
+   "SP0088"
+  ],
+  "claim": "Foreign Minister Hasan Mahmud told Bangladeshis at the Riyadh embassy on 1 July 2024 that a Bangladesh-Saudi joint task force would work to protect people wanting to go to Saudi Arabia for jobs from fraud, and the prime minister's adviser Salman F Rahman said those wanting to go should verify that the employer is genuine before leaving.",
+  "target_section": "Scams",
+  "placement": "other: government response",
+  "why_new": "The task force announcement; whether it exists in 2026 is a Need to know. The employer check is already in the guide (Step 1, Before you pay anyone).",
+  "published": "2024-07-02"
+ },
+ {
+  "key": "SA3a-65",
+  "fact_ids": [
+   "SP0110",
+   "SP0111",
+   "SP0112"
+  ],
+  "claim": "In a case filed on 28 October 2024 at the Barishal Human Trafficking Offence Suppression Tribunal, a father from Mehendiganj alleged that Araf Hossain alias Sifat, managing director of the recruiting agency SJ Group in Purana Paltan, Dhaka, and two local men took Tk 4.5 lakh each, Tk 1 crore 3 lakh 50 thousand in all, from 23 men from Barishal on the promise of SR 1,800 a month at a solar panel firm, Taj Al Nawar Trading East; according to the case, after they were taken to Saudi Arabia on 4 May the men were put on a Hajj project for a month and a half and paid SR 615, then 12 were caught by Saudi police as illegal migrants and sent home and 11 could not be traced.",
+  "target_section": "Scams",
+  "placement": "Cases",
+  "why_new": "A group case of the wrong-job scam (Scams, Wrong visa or job) ending in Hajj-season work, arrest and deportation; not in the guide. Allegations only.",
+  "published": "2024-10-29"
+ },
+ {
+  "key": "SA3a-66",
+  "fact_ids": [
+   "SP0113",
+   "SP0114",
+   "SP0115"
+  ],
+  "claim": "In a second case filed on 27 October 2024 at the same Barishal tribunal, a father alleged that his son Md. Rubel, on an offer from Abu Taher Sheikh, paid Tk 3.8 lakh to Md. Rana, an official of MR International in Chairmanbari, Dhaka, and Rana's sister Habiba Akter, was sent to Saudi Arabia on 15 May 2024, given no job and handed to a Saudi trafficking gang that tortured him and demanded Tk 5 lakh from his father on threat of killing him.",
+  "target_section": "Scams",
+  "placement": "Cases",
+  "why_new": "A ransom case inside Saudi Arabia; the guide has no case of a worker held for ransom there. Allegations only.",
+  "published": "2024-10-29"
+ },
+ {
+  "key": "SA3f-30",
+  "fact_ids": [
+   "SP0768",
+   "SP0769",
+   "SP0770"
+  ],
+  "claim": "Anjana of Manikganj, who had worked in Lebanon, Jordan, the UAE and Saudi Arabia since 2012, returned from Saudi Arabia on 20 March 2026 after 1 month 3 days in which she worked 5 days and spent the rest being beaten at the Saudi recruiting agency's office, then paid for her own ticket home with money from Bangladesh; she said the agency is paid for each woman it sends, so it sends women without a job.",
+  "target_section": "Scams",
+  "placement": "other: domestic worker case",
+  "why_new": "The guide's domestic-worker section says the Saudi recruitment office must house and support a worker; this case shows abuse at that office and the worker paying her own fare (Section 'Scams' under Work visa: domestic worker).",
+  "published": "2026-09-13"
+ },
+ {
+  "key": "SA3a-5",
+  "fact_ids": [
+   "SP0007"
+  ],
+  "claim": "According to the Bangladesh embassy in Riyadh (January 2024), workers in Saudi Arabia who could not finish their studies can sit SSC, HSC and degree examinations through the Open University, on the embassy's initiative.",
+  "target_section": "Staying long-term",
+  "placement": "other: education while abroad",
+  "why_new": "Not in the guide.",
+  "published": "2024-01-02"
+ },
+ {
+  "key": "SA3a-54",
+  "fact_ids": [
+   "SP0089"
+  ],
+  "claim": "Bangladeshis in Riyadh raised with the foreign minister in July 2024 easier iqama renewal, a direct Chattogram-Riyadh flight, health insurance, a proper system for bringing bodies home, legal aid, passport renewal through the embassy, correcting NID details and family visa renewal, and he promised to address them.",
+  "target_section": "Staying long-term",
+  "placement": "other: what workers ask for",
+  "why_new": "Lists workers' own unmet needs; NID correction through the mission matches the guide's line that a mission can't correct an existing NID [SG0018].",
+  "published": "2024-07-02"
+ },
+ {
+  "key": "SA3d-28",
+  "fact_ids": [
+   "SP0426",
+   "SP0427"
+  ],
+  "claim": "According to an October 2025 column, the Election Commission planned to pilot voting by Bangladeshis abroad in Saudi Arabia, Malaysia, the UAE and the UK, first at embassy booths, with voters registering online in advance and then voting on the set day after passport and NID checks.",
+  "target_section": "Staying long-term",
+  "placement": "other: voting from abroad",
+  "why_new": "Guide has nothing on voting from Saudi Arabia; this was a plan, and how it was actually run is a Need to know.",
+  "published": "2025-10-10"
+ },
+ {
+  "key": "SA3b-42",
+  "fact_ids": [
+   "SP0204",
+   "SP0205"
+  ],
+  "claim": "According to a foreign ministry press release of 29 January 2025, Expatriates' Welfare Adviser Asif Nazrul inaugurated the Bangladesh embassy in Riyadh's e-Demand Attestation System, through which Saudi companies can register online and have worker demand letters attested without going to the embassy.",
+  "target_section": "Step 2: See the attested demand letter",
+  "placement": "other: when it started",
+  "why_new": "The guide describes the e-demand system on beriyadh.org but not its launch date.",
+  "published": "2025-01-29"
+ },
+ {
+  "key": "SA3d-10",
+  "fact_ids": [
+   "SP0393"
+  ],
+  "claim": "Prothom Alo reported in August 2025 that under an agreement between BMET and the Saudi company Takamol, 15 TTCs and BRTC training centres had gained the capacity to run skill tests in the past year.",
+  "target_section": "Step 3: Pass the skill test",
+  "placement": "other: test centres",
+  "why_new": "Conflict: guide says the test runs at 27 TTCs and BRTC Gazipur (later source); this is the August 2025 count.",
+  "published": "2025-08-20"
+ },
+ {
+  "key": "SA3d-54",
+  "fact_ids": [
+   "SP0460",
+   "SP0461"
+  ],
+  "claim": "Asif Nazrul said at the Global Labour Market Conference in Riyadh on 26 January 2026 that under the Skill Verification Programme agreement with Takamol, Bangladesh now gives skill certificates in various occupations to 60,000 workers a month in line with Saudi demand.",
+  "target_section": "Step 3: Pass the skill test",
+  "placement": "other: volume",
+  "why_new": "Monthly certification volume not in guide.",
+  "published": "2026-01-26"
+ },
+ {
+  "key": "SA3h-14",
+  "fact_ids": [
+   "SP0565"
+  ],
+  "claim": "At the 26 October 2026 meeting with the expatriates' ministry, recruiting agency representatives demanded a simpler Takamol test process and lower fees.",
+  "target_section": "Step 3: Pass the skill test",
+  "placement": "other: what agencies say",
+  "why_new": "New but minor: shows the skill test and its USD 85 fee remain a sticking point in late 2026.",
+  "published": "2026-10-26"
+ },
+ {
+  "key": "SA3b-46",
+  "fact_ids": [
+   "SP0210"
+  ],
+  "claim": "On 30 January 2025 Bangladesh raised with Saudi Arabia that attestation of professional certificates at the Saudi embassy in Dhaka was delayed because the embassy had no cultural attaché, and Saudi officials promised a quick solution.",
+  "target_section": "Step 6: Give the agency your papers for the visa (start before Step 5)",
+  "placement": "Need to know",
+  "why_new": "The guide says to apostille education certificates on MyGov; this shows professional certificates were also being attested at the Saudi embassy in Dhaka, with delays. Whether Saudi embassy attestation is still needed alongside the apostille is a gap.",
+  "published": "2025-02-01"
+ },
+ {
+  "key": "SA3d-44",
+  "fact_ids": [
+   "SP0450",
+   "SP0451",
+   "SP0452"
+  ],
+  "claim": "Monowara Begum, a waste picker in Rajshahi city, said in December 2025 that sending her elder son (26, SSC pass) to Saudi Arabia through a broker cost Tk 9 lakh, that he gets 'a lakh taka' in salary, and that he will come home in two years.",
+  "target_section": "The legal maximum and what people really pay",
+  "placement": "Cases",
+  "why_new": "Case at the top of the guide's Tk 9 lakh range; job and departure year not stated.",
+  "published": "2025-12-30"
+ },
+ {
+  "key": "SA3g-30",
+  "fact_ids": [
+   "SP0511"
+  ],
+  "claim": "Nazrul Islam's father said in October 2026 that he borrowed Tk 6 lakh from relatives to send his son to Saudi Arabia (November 2022, cleaner's job), and the son sent home about Tk 1.5 lakh in the first seven to eight months before his arrest.",
+  "target_section": "The legal maximum and what people really pay",
+  "placement": "Cases",
+  "why_new": "A dated real cost for a cleaner's visa (2022), above the guide's typical Tk 4-5 lakh.",
+  "published": "2026-10-20"
+ },
+ {
+  "key": "SA3h-11",
+  "fact_ids": [
+   "SP0562"
+  ],
+  "claim": "At a 26 October 2026 meeting the expatriates' welfare minister said that where it is possible to go for Tk 3 lakh, taking Tk 7-8 lakh is improper, and urged agencies to stop collecting extra money from workers.",
+  "target_section": "The legal maximum and what people really pay",
+  "placement": "What people really pay",
+  "why_new": "New: a minister's own statement that Tk 7-8 lakh is being taken; the guide has Tk 3.5-5 lakh typical, up to Tk 9 lakh.",
+  "published": "2026-10-26"
+ },
+ {
+  "key": "SA3a-60",
+  "fact_ids": [
+   "SP0101",
+   "SP0102",
+   "SP0103"
+  ],
+  "claim": "Prothom Alo reported in August 2024 that public gatherings of any kind are banned in the Middle East, that some Bangladeshis were reported arrested in Saudi Arabia for protesting in support of the July 2024 student movement, and that a UAE court sentenced 57 Bangladeshis for street protests, 53 to 10 years, one to 11 years and three to life.",
+  "target_section": "What can get you jailed or deported",
+  "placement": "other: protests",
+  "why_new": "Joining a street protest is not on the guide's list of what can get a worker jailed.",
+  "published": "2024-08-18"
+ },
+ {
+  "key": "SA3c-22",
+  "fact_ids": [
+   "SP0306",
+   "SP0307"
+  ],
+  "claim": "Saudi Arabia's interior ministry said for Hajj 2025 that anyone who helps a person perform Hajj without a permit faces a fine of up to SR 100,000, and that if the offence is proved the helper's own vehicle will be confiscated by court order.",
+  "target_section": "What can get you jailed or deported",
+  "placement": "other: helping someone do Hajj without a permit",
+  "why_new": "New: the penalty for workers in Saudi Arabia who drive, house or help relatives doing Hajj without a permit; the guide covers only the pilgrim's own penalty.",
+  "published": "2025-05-02"
+ },
+ {
+  "key": "SA3c-23",
+  "fact_ids": [
+   "SP0308",
+   "SP0309",
+   "SP0310"
+  ],
+  "claim": "Bangladesh's religious affairs ministry on 2 May 2025 asked Bangladeshis in Saudi Arabia not to sponsor, transport, help into the restricted Hajj area, or house in hotels or homes any visit-visa holder breaking the Hajj rules, and not to perform Hajj without a permit.",
+  "target_section": "What can get you jailed or deported",
+  "placement": "other: helping someone do Hajj without a permit",
+  "why_new": "Lists the acts that count as helping; not in the guide.",
+  "published": "2025-05-02"
+ },
+ {
+  "key": "SA3d-16",
+  "fact_ids": [
+   "SP0402",
+   "SP0403",
+   "SP0404"
+  ],
+  "claim": "Arifur Rahman said that while working as a doctor in Saudi Arabia he was taken by Saudi police and questioned as a suspect after a complaint that he, a doctor, was involved in recruiting workers, a breach of his iqama rules he did not know of; he was released after about three months as the allegation was not proved.",
+  "target_section": "What can get you jailed or deported",
+  "placement": "Cases",
+  "why_new": "A case of detention for work outside the iqama's profession; undated (before 2010).",
+  "published": "2025-09-04"
+ },
+ {
+  "key": "SA3e-3",
+  "fact_ids": [
+   "SP0612",
+   "SP0613"
+  ],
+  "claim": "Prothom Alo reported in February 2026 that Saudi Arabia, Kuwait, Qatar, the UAE and several other Middle Eastern countries do not let foreigners with HIV stay, under their immigration and public health laws or residence regulations.",
+  "target_section": "What can get you jailed or deported",
+  "placement": "other: new bullet on HIV",
+  "why_new": "Guide lists HIV only as a pre-departure 'unfit' result (Step 4); not that it ends residence once in Saudi Arabia.",
+  "published": "2026-02-02"
+ },
+ {
+  "key": "SA3e-5",
+  "fact_ids": [
+   "SP0616",
+   "SP0617"
+  ],
+  "claim": "Tasneem Siddiqui, acting executive director of RMMRU, a non-governmental organisation working on migration, told Prothom Alo in February 2026 that in these Middle Eastern countries a woman worker who becomes pregnant is also sent back at once.",
+  "target_section": "What can get you jailed or deported",
+  "placement": "other: pregnancy",
+  "why_new": "Guide covers pregnancy outside marriage as a crime risk (domestic worker, If you are sexually abused) but not deportation on pregnancy generally; attributed expert view, not a rule.",
+  "published": "2026-02-02"
+ },
+ {
+  "key": "SA3e-28",
+  "fact_ids": [
+   "SP0649"
+  ],
+  "claim": "In the first week of March 2026 the Bangladesh embassy in Riyadh asked Bangladeshis, out of respect for Saudi law, not to upload photos or videos of the war on social media, or to post, share, like or comment on war news.",
+  "target_section": "What can get you jailed or deported",
+  "placement": "other: cybercrime bullet",
+  "why_new": "Gives a concrete online act to avoid; partly answers the guide's Need to know on which online acts count as crimes.",
+  "published": "2026-03-19"
+ },
+ {
+  "key": "SA3e-39",
+  "fact_ids": [
+   "SP0668",
+   "SP0669"
+  ],
+  "claim": "Mohammad Jalal Uddin Sikder of North South University wrote in a Prothom Alo opinion piece in April 2026 that during the Iran war many migrant workers were being detained or sent home after being accused of sharing war videos or photos on social media.",
+  "target_section": "What can get you jailed or deported",
+  "placement": "other: cybercrime bullet",
+  "why_new": "Opinion piece, region-wide, not Saudi-specific; supports the embassy warning in A11.",
+  "published": "2026-04-03"
+ },
+ {
+  "key": "SA3f-53",
+  "fact_ids": [
+   "SP0804",
+   "SP0805",
+   "SP0806"
+  ],
+  "claim": "In an urgent notice on 12 October 2026 the Bangladesh Embassy in Riyadh said that recording, exchanging or posting on social media any information, photo or video about the ongoing Middle East situation is a punishable offence under Saudi law, and asked Bangladeshis not to post such material on Facebook, YouTube, X or other platforms, nor keep it on their phones or share it.",
+  "target_section": "What can get you jailed or deported",
+  "placement": "other: new bullet",
+  "why_new": "Partly answers the guide's Need to know on which online acts are crimes; the guide has nothing on filming attacks.",
+  "published": "2026-10-12"
+ },
+ {
+  "key": "SA3g-1",
+  "fact_ids": [
+   "SP0468",
+   "SP0469"
+  ],
+  "claim": "According to Gulf News as reported by Prothom Alo (16 October 2026), the court sentenced the two Bangladeshis executed in Makkah on 14 October 2026 to death under 'taazir', the judge's discretionary punishment under Shariah law, a higher judicial authority upheld the verdict and a royal order directed that it be carried out.",
+  "target_section": "What can get you jailed or deported",
+  "placement": "Adultery item",
+  "why_new": "Guide says the act 'can bring death' but not that the sentence was discretionary (taazir), i.e. death was a judge's choice, not a fixed penalty.",
+  "published": "2026-10-16"
+ },
+ {
+  "key": "SA3g-4",
+  "fact_ids": [
+   "SP0473"
+  ],
+  "claim": "Amnesty International counted at least 356 executions in Saudi Arabia in 2025, including foreign nationals, and raised serious concern about executions for drug-related offences, according to a Prothom Alo opinion column (17 October 2026).",
+  "target_section": "What can get you jailed or deported",
+  "placement": "Drugs item",
+  "why_new": "Guide says Saudi Arabia executes foreigners for drug smuggling (C0107) but gives no scale.",
+  "published": "2026-10-17"
+ },
+ {
+  "key": "SA3g-21",
+  "fact_ids": [
+   "SP0494"
+  ],
+  "claim": "A 18 October 2026 message from the Bangladesh mission in Jeddah said there was no previous case of a Bangladeshi being sentenced to death in Saudi Arabia for a cyber offence or adultery.",
+  "target_section": "What can get you jailed or deported",
+  "placement": "Adultery / cybercrime items",
+  "why_new": "Context for the adultery/cybercrime items: the 2026 executions had no precedent for Bangladeshis.",
+  "published": "2026-10-19"
+ },
+ {
+  "key": "SA3g-33",
+  "fact_ids": [
+   "SP0515",
+   "SP0516",
+   "SP0517"
+  ],
+  "claim": "The European Saudi Organisation for Human Rights (ESOHR) recorded at least 108 executions in Saudi Arabia in the first half of 2026, 59 of them foreigners including Bangladeshis; 71 were for drug offences, 49 of those foreigners, and 84 were discretionary (taazir) sentences, according to Prothom Alo (22 October 2026).",
+  "target_section": "What can get you jailed or deported",
+  "placement": "Drugs item",
+  "why_new": "Scale of drug executions of foreigners in 2026; guide gives no numbers.",
+  "published": "2026-10-22"
+ },
+ {
+  "key": "SA3h-16",
+  "fact_ids": [
+   "SP0566"
+  ],
+  "claim": "According to the Berlin-based rights group ESOHR (European Saudi Organisation for Human Rights), Saudi Arabia executed 108 people in January-June 2026, 59 (about 54 percent) of them foreigners, and 49 of the 71 executed for drug offences in that period were foreigners.",
+  "target_section": "What can get you jailed or deported",
+  "placement": "other: drugs line",
+  "why_new": "New: scale behind the guide's line that Saudi Arabia executes foreigners for drug smuggling (C0107).",
+  "published": "2026-10-27"
+ },
+ {
+  "key": "SA3h-17",
+  "fact_ids": [
+   "SP0567",
+   "SP0568"
+  ],
+  "claim": "ESOHR's list of the 108 people executed in Saudi Arabia in January-June 2026 includes Bangladeshis, but how many is not known; the two Bangladeshis executed for an 'immoral act' in a Makkah mosque are outside that count.",
+  "target_section": "What can get you jailed or deported",
+  "placement": "other: drugs line",
+  "why_new": "New: Bangladeshis other than the two mosque cases were executed in 2026. Possible Need to know: how many Bangladeshis were executed in 2026 and for what?",
+  "published": "2026-10-27"
+ },
+ {
+  "key": "SA3h-18",
+  "fact_ids": [
+   "SP0569"
+  ],
+  "claim": "According to Amnesty International, Saudi Arabia executed 597 people for drug offences alone from January 2014 to June 2025, about 75 percent of them foreigners.",
+  "target_section": "What can get you jailed or deported",
+  "placement": "other: drugs line",
+  "why_new": "New: long-run figure on drug executions of foreigners.",
+  "published": "2026-10-27"
+ },
+ {
+  "key": "SA3h-19",
+  "fact_ids": [
+   "SP0570"
+  ],
+  "claim": "In two of the drug cases Amnesty International documented (published July 2025), the accused said they had been forced to carry the banned drugs, but the Saudi court neither examined nor accepted this.",
+  "target_section": "What can get you jailed or deported",
+  "placement": "other: Never carry a parcel line",
+  "why_new": "New: evidence that being forced or tricked into carrying drugs is not accepted as a defence.",
+  "published": "2026-10-27"
+ },
+ {
+  "key": "SA3h-29",
+  "fact_ids": [
+   "SP0586"
+  ],
+  "claim": "An Indian worker, Sheikh Sahabuddin, a cleaner at the Makkah mosque, was arrested in 2023 and jailed by a Saudi court after posting on social media a video of the two Bangladeshis later executed; Saudi authorities treated the post as a serious offence against the dignity of a holy place.",
+  "target_section": "What can get you jailed or deported",
+  "placement": "other: Cybercrime line",
+  "why_new": "New: a concrete case for the guide's Need to know on which online acts are crimes (posting a video of others).",
+  "published": "2026-10-27"
+ },
+ {
+  "key": "SA3h-30",
+  "fact_ids": [
+   "SP0587"
+  ],
+  "claim": "The Saudi interior ministry announced in mid-October 2026 that the two Bangladeshis, Nazrul Islam Abdul Basir and Sweety Akter, had been executed under 'tazir' (punishment at a judge's discretion), three years after the 2023 incident in the Makkah mosque.",
+  "target_section": "What can get you jailed or deported",
+  "placement": "other: indecent act line",
+  "why_new": "New detail: tazir basis and the 3-year gap; the guide already records the execution (G0007, G0001). The gloss of tazir is ours; the article does not define it.",
+  "published": "2026-10-27"
+ },
+ {
+  "key": "SA3h-39",
+  "fact_ids": [
+   "SP0602",
+   "SP0603"
+  ],
+  "claim": "According to a protest letter Bangladeshis in Berlin handed to the Saudi embassy on 30 October 2026, the two Bangladeshi migrant workers were executed on 14 October 2026; the organisers said Bangladesh's authorities said they knew nothing until the media reported it.",
+  "target_section": "What can get you jailed or deported",
+  "placement": "other: indecent act line",
+  "why_new": "Adds the exact date (14 October 2026; guide says October 2026). The 'knew nothing' claim conflicts with the foreign ministry's account of a prisoner list sent 14 days earlier (article 1449ee21).",
+  "published": "2026-10-31"
+ },
+ {
+  "key": "SA3a-36",
+  "fact_ids": [
+   "SP0058",
+   "SP0059"
+  ],
+  "claim": "Faisal Al-Dafayan, an assistant deputy minister at Saudi Arabia's Ministry of Human Resources and Social Development, told the Bangladesh embassy on 29 May 2024 that the ministry had recently appointed 1,200 labour inspectors to act on workers' complaints, and that they resolved about 10 lakh complaints in 2023.",
+  "target_section": "Where to complain",
+  "placement": "other: what happens in practice",
+  "why_new": "Scale of the Saudi labour inspection system; not in the guide.",
+  "published": "2024-05-30"
+ },
+ {
+  "key": "SA3d-20",
+  "fact_ids": [
+   "SP0412",
+   "SP0413"
+  ],
+  "claim": "Former BAIRA secretary general Ali Haider Chowdhury said in October 2025 that workers are usually sent under memoranda of understanding with no legal obligation, while the agreement gives workers sent to Saudi Arabia legal protection and lets the government go to court for a worker if needed.",
+  "target_section": "Where to complain",
+  "placement": "other: legal effect of the agreement",
+  "why_new": "New claim about the agreement's legal effect; whether the government has gone to court for any worker under it is a Need to know.",
+  "published": "2025-10-06"
+ },
+ {
+  "key": "SA3h-5",
+  "fact_ids": [
+   "SP0551",
+   "SP0552"
+  ],
+  "claim": "Bangladesh's foreign ministry told the parliamentary committee in October 2026 that 1-2 percent of Bangladeshi women workers in Saudi Arabia are abused, a figure it gets by asking women when they come for passport services and from a third-party survey.",
+  "target_section": "Work visa: domestic worker > If something goes wrong",
+  "placement": "other: The numbers",
+  "why_new": "New: the guide gives no official abuse rate for women domestic workers.",
+  "published": "2026-10-25"
+ },
+ {
+  "key": "SA3h-6",
+  "fact_ids": [
+   "SP0553",
+   "SP0554"
+  ],
+  "claim": "The foreign ministry reported in October 2026 that 1,364 Bangladeshi women domestic workers had been rescued from Saudi Arabia and safely repatriated (period not stated); the committee chair called the number unacceptable and the committee directed the ministry to bring abuse to zero.",
+  "target_section": "Work visa: domestic worker > If something goes wrong",
+  "placement": "other: What help reached people",
+  "why_new": "New: rescue/repatriation count for women domestic workers; evidence that the mission does bring women home.",
+  "published": "2026-10-25"
+ },
+ {
+  "key": "SA3e-41",
+  "fact_ids": [
+   "SP0672"
+  ],
+  "claim": "The expatriates' welfare minister told parliament on 5 April 2026 that Bangladesh's agreement with Saudi Arabia secures a woman domestic worker's right to keep a mobile phone, so she can alert her family, the embassy or the ministry at any time.",
+  "target_section": "Your rights at work",
+  "placement": "other: domestic worker, phone",
+  "why_new": "Target is the domestic-worker 'Your rights at work' (under Work visa: domestic worker). Guide says the employer must let her contact family and embassy (D0010) but not that the agreement guarantees a phone.",
+  "published": "2026-04-05"
+ },
+ {
+  "key": "SA3g-27",
+  "fact_ids": [
+   "SP0505"
+  ],
+  "claim": "According to a Prothom Alo column (20 October 2026), the domestic-worker agreement Bangladesh signed with Saudi Arabia on 10 February 2015 set the wage at SR 800, about half the Philippines' SR 1,500 minimum agreed in May 2013.",
+  "target_section": "Your rights at work",
+  "placement": "Pay (Work visa: domestic worker); answers Need to know on SR 800",
+  "why_new": "Guide's domestic-worker section asks 'Is SR 800 a month still the agreed wage?'; this dates the SR 800 to the 10 Feb 2015 agreement (does not show it is current).",
+  "published": "2026-10-20"
+ }
+]

@@ -1,0 +1,1384 @@
+[
+ {
+  "key": "MY3h-5",
+  "fact_ids": [
+   "CQ0174",
+   "CQ0175"
+  ],
+  "claim": "The Prime Minister's deputy press secretary, Shahadat Swadhin, wrote in Prothom Alo on 19 August 2026 that a special \"Probashi card\" was to start on a pilot basis from August 2026, under the Prime Minister's direct planning, to improve migrants' social standing, legal protection and living standards.",
+  "target_section": "CROSS-COUNTRY: Agencies and dalals",
+  "placement": "after the May 2026 Probashi card line",
+  "why_new": "The cross-country doc has the April and May 2026 plans for a Probashi card but no start date.",
+  "published": "2026-08-19"
+ },
+ {
+  "key": "MY3b-48",
+  "fact_ids": [
+   "CQ0028"
+  ],
+  "claim": "The adviser said on 24 September 2024 that VIP service for migrants at the airport would start within a month, first for those arriving from the Middle East, with every VIP facility except the lounge and a special immigration desk.",
+  "target_section": "CROSS-COUNTRY: At the airport",
+  "placement": "other: announced services",
+  "why_new": "A 2024 announcement; whether it was delivered is unknown, so it may belong only as a Need to know.",
+  "published": "2024-09-24"
+ },
+ {
+  "key": "MY3b-59",
+  "fact_ids": [
+   "CQ0029",
+   "CQ0030"
+  ],
+  "claim": "The adviser said on 5 October 2024 that an assistant would accompany outgoing workers at every stage at the airport and that a special lounge for migrants was being set up, with the space chosen, and might open within about a month.",
+  "target_section": "CROSS-COUNTRY: At the airport",
+  "placement": "other: announced services",
+  "why_new": "A 2024 announcement; whether the lounge and assistants exist in 2026 needs checking.",
+  "published": "2024-10-05"
+ },
+ {
+  "key": "MY3b-47",
+  "fact_ids": [
+   "CQ0025",
+   "CQ0026",
+   "CQ0027"
+  ],
+  "claim": "At the expatriates' welfare adviser's press conference on 24 September 2024, the Ministry stated that sending a worker abroad needed approvals from three bodies and that its own recruitment permission would no longer be required, that brokers would be registered, and that recruiting agencies would be given category certificates based on experience.",
+  "target_section": "CROSS-COUNTRY: BMET clearance and the smart card",
+  "placement": "other: approvals needed",
+  "why_new": "Conflict: the cross-country guide says that on 4 November 2026 the Ministry told BMET to give no clearance for 12 countries without the Ministry's recruitment permission [F0187]; this 2024 announcement dropped that permission generally.",
+  "published": "2024-09-24"
+ },
+ {
+  "key": "MY3f-2",
+  "fact_ids": [
+   "CQ0136",
+   "CQ0137",
+   "CQ0138"
+  ],
+  "claim": "On 24 March 2026 the state minister for expatriates' welfare, Md Nurul Haque Nur, said the Prime Minister had directed that students going abroad for higher study (to South Korea, Japan, China, Germany and other countries) get loans of up to Tk 10 lakh through Probashi Kallyan Bank as proof of bank solvency, paid not in cash but against tuition fees or other required payments.",
+  "target_section": "CROSS-COUNTRY: Can I get a government loan to go abroad?",
+  "placement": "other: students",
+  "why_new": "The cross-country doc has no PKB loan for students' solvency proof.",
+  "published": "2026-03-24"
+ },
+ {
+  "key": "MY3f-28",
+  "fact_ids": [
+   "CQ0160",
+   "CQ0161"
+  ],
+  "claim": "On 18 April 2026 the Prime Minister's adviser Mahdi Amin said a collateral-free bank guarantee of up to Tk 10 lakh had been arranged for higher study abroad, and that a 'Probashi Card' for expatriates was being introduced.",
+  "target_section": "CROSS-COUNTRY: Can I get a government loan to go abroad?",
+  "placement": "other: students",
+  "why_new": "Pairs with the 24 March student-loan statement; the Probashi Card is not described in the cross-country doc (it has 'Probashi card' only in other contexts; check).",
+  "published": "2026-04-18"
+ },
+ {
+  "key": "SA3d-13",
+  "fact_ids": [
+   "CQ0123"
+  ],
+  "claim": "Prothom Alo reported in August 2025 that BOESL, the government agency, sent 16,066 workers to various countries in FY2024-25, 4% more than the year before.",
+  "target_section": "CROSS-COUNTRY: Can I go through the government agency, BOESL?",
+  "placement": "other: numbers",
+  "why_new": "Cross-country gives BOESL's 14-year total but not the FY2024-25 figure.",
+  "published": "2025-08-20"
+ },
+ {
+  "key": "MY3c-51",
+  "fact_ids": [
+   "CQ0078",
+   "CQ0079",
+   "CQ0080"
+  ],
+  "claim": "Kuddus Bepari, sent from Dhaka to Egypt in early November 2024 and on to Libya, and his brother-in-law Sujon Howlader (39), who also paid broker Monir Tk 16 lakh, were put on an engine boat from the Benghazi coast on 24 January 2025 after about two months in a detention house; the boat sank within hours, Sujon's death was confirmed by his wife Munni Begum and Kuddus was missing, believed dead by his family.",
+  "target_section": "CROSS-COUNTRY: Deaths",
+  "placement": "January 2025, off Libya: cases",
+  "why_new": "Adds two named victims to the cross-country January 2025 sinking (which has two other Rajoir men).",
+  "published": "2025-02-10"
+ },
+ {
+  "key": "MY3c-54",
+  "fact_ids": [
+   "CQ0086",
+   "CQ0087"
+  ],
+  "claim": "Madaripur's Additional Superintendent of Police (Administration and Finance), Bhaskar Saha, said in February 2025 that by family accounts three people from Rajoir upazila had died and seven were missing, presumed dead, after the recent sinking, that no family had yet come to file a case, and that police were hunting several named brokers.",
+  "target_section": "CROSS-COUNTRY: Deaths",
+  "placement": "February 2025, Rajoir",
+  "why_new": "The cross-country 'February 2025, Rajoir' item lacks the 3 dead / 7 missing count and that no case had been filed.",
+  "published": "2025-02-10"
+ },
+ {
+  "key": "SA3a-62",
+  "fact_ids": [
+   "CQ0107",
+   "CQ0108"
+  ],
+  "claim": "By Wage Earners' Welfare Board data, 86,621 migrants (83,719 men and 2,902 women) came home in 2023 on an outpass, the embassy travel permit issued to those returning destitute, detained or forced; Prothom Alo noted these are the only returnees counted.",
+  "target_section": "CROSS-COUNTRY: Deportees and outpass holders",
+  "placement": "The numbers",
+  "why_new": "A yearly outpass-return figure; not in the Saudi guide's Going home without valid papers.",
+  "published": "2024-08-19"
+ },
+ {
+  "key": "SA3d-48",
+  "fact_ids": [
+   "CQ0130",
+   "CQ0131",
+   "CQ0132"
+  ],
+  "claim": "RMMRU said in January 2026 that Bangladesh's licensed recruiting agencies, once limited to 850-900, were raised to 2,300 by the previous government, and 252 new licences were approved in 2025 with 300 more in process, against 192 agencies in India, 464 in Pakistan, 416 in Nepal and 248 in Sri Lanka.",
+  "target_section": "CROSS-COUNTRY: How do I check whether an agency is real?",
+  "placement": "other: number of agencies",
+  "why_new": "The Saudi guide gives 2,807 licensed agencies (later source); the growth and comparison are new.",
+  "published": "2026-01-07"
+ },
+ {
+  "key": "MY3e-9",
+  "fact_ids": [
+   "CQ0219",
+   "CQ0220"
+  ],
+  "claim": "Prothom Alo reported in August 2025 that the interim government had shut the private mobile app the previous government had allowed for worker registration and built an integrated online platform for overseas employment, on which emigration clearance is now issued directly.",
+  "target_section": "CROSS-COUNTRY: How do I get BMET clearance?",
+  "placement": "other",
+  "why_new": "Cross-country doc still describes the Ami Probashi app route for clearance [F0365].",
+  "published": "2025-08-20"
+ },
+ {
+  "key": "MY3e-19",
+  "fact_ids": [
+   "CQ0222",
+   "CQ0223"
+  ],
+  "claim": "The adviser said on 20 August 2025 that the interim government had shut the private app 'Ami Probashi' and that BMET now issues emigration clearance 100% online on the government's own digital platform.",
+  "target_section": "CROSS-COUNTRY: How do I get BMET clearance?",
+  "placement": "other",
+  "why_new": "Cross-country doc still describes clearance through the Ami Probashi app.",
+  "published": "2025-08-20"
+ },
+ {
+  "key": "MY3f-44",
+  "fact_ids": [
+   "CQ0173"
+  ],
+  "claim": "The opposition leader, Shafiqur Rahman, told parliament on 10 June 2026 that many expatriates could not get e-passports because their MRP (machine-readable passport) and national ID data did not match, through small spelling differences in vowel signs or names or a mismatch in age, and that many abroad were becoming or risked becoming undocumented as a result.",
+  "target_section": "CROSS-COUNTRY: How do I get a passport, and what does it cost?",
+  "placement": "other: problems abroad",
+  "why_new": "The cross-country passport answer says to apply exactly as the NID reads but not what happens to workers abroad whose old MRP differs.",
+  "published": "2026-06-10"
+ },
+ {
+  "key": "SA3b-54",
+  "fact_ids": [
+   "CQ0110",
+   "CQ0111",
+   "CQ0112"
+  ],
+  "claim": "According to Ami Probashi's 2024 annual report, enrolment in Technical Training Centre courses fell to 112,166 in 2024 from 236,270 in 2023, while BMET registrations rose to 798,276 from 660,088, with women's share of registrations rising from 2.78% to 4.79%.",
+  "target_section": "CROSS-COUNTRY: How do I join a TTC course?",
+  "placement": "The numbers",
+  "why_new": "Not Saudi-specific; cross-country numbers.",
+  "published": "2025-02-05"
+ },
+ {
+  "key": "SA3d-41",
+  "fact_ids": [
+   "CQ0126",
+   "CQ0127"
+  ],
+  "claim": "RMMRU's acting executive director Tasneem Siddiqui said in December 2025 that the skills of TTC-trained workers are not internationally recognised.",
+  "target_section": "CROSS-COUNTRY: How do I join a TTC course?",
+  "placement": "other: recognition",
+  "why_new": "Limits of TTC certificates not stated in cross-country doc.",
+  "published": "2025-12-18"
+ },
+ {
+  "key": "MY3e-53",
+  "fact_ids": [
+   "CQ0224",
+   "CQ0225"
+  ],
+  "claim": "OEP (Overseas Employment Platform), built under the Ministry with the ILO and the Swiss government, has run since 19 April 2025 after the interim government scrapped the 'Ami Probashi' app, through which workers had paid the private operating company a fee on top of BMET's; it was formally launched on 19 November 2025, and its data stay with BMET.",
+  "target_section": "CROSS-COUNTRY: How do I register on OEP?",
+  "placement": "other: what OEP is and its history",
+  "why_new": "History of OEP and the Ami Probashi fee.",
+  "published": "2025-11-19"
+ },
+ {
+  "key": "MY3e-54",
+  "fact_ids": [
+   "CQ0226",
+   "CQ0227",
+   "CQ0228"
+  ],
+  "claim": "On OEP a worker registers with a mobile number, fills in a profile, pays the Tk 200 BMET registration fee online, applies for BMET clearance and downloads the clearance smart card, can contact recruiting agencies directly about jobs and can enrol at a TTC; foreign employers can register and, once the mission attests them, post demand letters that go to agencies.",
+  "target_section": "CROSS-COUNTRY: How do I register on OEP?",
+  "placement": "other: what you can do on it",
+  "why_new": "Full chain on OEP; the Malaysia guide has the registration steps (Step 1, item 1) but not the employer/demand side.",
+  "published": "2025-11-19"
+ },
+ {
+  "key": "MY3e-55",
+  "fact_ids": [
+   "CQ0229",
+   "CQ0230"
+  ],
+  "claim": "By 19 November 2025, 2,647 recruiting agencies had joined OEP; 10,91,161 workers had applied to BMET for clearance through it and 10,24,468 had got it, and 8,37,042 had registered for TTC training, by the figures shown on the OEP site.",
+  "target_section": "CROSS-COUNTRY: How do I register on OEP?",
+  "placement": "other: numbers",
+  "why_new": "Usage numbers.",
+  "published": "2025-11-19"
+ },
+ {
+  "key": "MY3d-40",
+  "fact_ids": [
+   "CQ0203"
+  ],
+  "claim": "In its rejoinder of 24 June 2025 the Ministry of Expatriates' Welfare said the government was continuing a 2% cash incentive for money sent through banking channels and had stepped up surveillance of hundi.",
+  "target_section": "CROSS-COUNTRY: How do I send money home safely?",
+  "placement": "other: incentive rate",
+  "why_new": "Conflict: the cross-country guide (and the Malaysia guide) give a 2.5% government incentive; the Ministry said 2% in June 2025.",
+  "published": "2025-06-24"
+ },
+ {
+  "key": "SA3f-39",
+  "fact_ids": [
+   "CQ0234",
+   "CQ0235"
+  ],
+  "claim": "From January to 30 September 2026, 4,060 bodies of migrant workers reached Bangladesh, more than 14 a day, the article reports, while Wage Earners' Welfare Board data show 3,651 bodies came home in 2019 and 3,140 in 2020.",
+  "target_section": "CROSS-COUNTRY: How is the body brought home?",
+  "placement": "The numbers",
+  "why_new": "National death numbers; not in either guide. 8cd6aabe prints 4,064 for the same period.",
+  "published": "2026-10-06"
+ },
+ {
+  "key": "SA3f-42",
+  "fact_ids": [
+   "CQ0236",
+   "CQ0237"
+  ],
+  "claim": "Welfare Board officials said in October 2026 that bodies from Middle Eastern countries need approval from several offices before they can be sent, which takes some time though less than before, and that outside pandemic years under 1% of migrants who die are buried in the destination country.",
+  "target_section": "CROSS-COUNTRY: How is the body brought home?",
+  "placement": "other",
+  "why_new": "Why repatriation from the Gulf takes time; burial-abroad share is new.",
+  "published": "2026-10-06"
+ },
+ {
+  "key": "SA3f-45",
+  "fact_ids": [
+   "CQ0240"
+  ],
+  "claim": "In a Welfare Board analysis of 2018 to 2022, 18,166 bodies came home, of which 3,698 died in road accidents, workplace accidents, fires, falls from buildings or electric shock, 2,649 of them in road accidents.",
+  "target_section": "CROSS-COUNTRY: How is the body brought home?",
+  "placement": "The numbers",
+  "why_new": "Cause breakdown over five years. The editorial a5cf655e gives the same 18,166 for '2018 to 2023'.",
+  "published": "2026-10-06"
+ },
+ {
+  "key": "SA3e-42",
+  "fact_ids": [
+   "CQ0215",
+   "CQ0216"
+  ],
+  "claim": "The expatriates' welfare minister told parliament on 5 April 2026 that 1,132,519 workers went abroad in 2025, 62,352 of them women, and that more than 1.5 crore (15 million) Bangladeshis work in 176 countries.",
+  "target_section": "CROSS-COUNTRY: How many women work abroad?",
+  "placement": "The numbers",
+  "why_new": "Cross-country figures; conflict on the 2025 total (1,130,757 in A8, 1,116,399 in A18).",
+  "published": "2026-04-05"
+ },
+ {
+  "key": "SA3f-29",
+  "fact_ids": [
+   "CQ0231",
+   "CQ0232",
+   "CQ0233"
+  ],
+  "claim": "By BMET data, 105,466 Bangladeshi women went abroad for work in 2022 and 62,317 in 2025, a fall of about 41%, while in the first eight months of 2026 more than 42,000 women went to 48 countries, about 14% (5,214) more than a year before, over 90% of them to Saudi Arabia and Jordan.",
+  "target_section": "CROSS-COUNTRY: How many women work abroad?",
+  "placement": "The numbers",
+  "why_new": "Annual and 2026 women's departure numbers; the cross-country doc has only the stock and long-run totals.",
+  "published": "2026-09-13"
+ },
+ {
+  "key": "SA3d-6",
+  "fact_ids": [
+   "CQ0122"
+  ],
+  "claim": "Asif Nazrul said in August 2025 that people spend Tk 8 to 10 lakh to go abroad and many get no work when they arrive.",
+  "target_section": "CROSS-COUNTRY: How much does it really cost to go?",
+  "placement": "other: official statement",
+  "why_new": "An adviser's own cost estimate (no country named), higher than the survey averages the cross-country doc gives.",
+  "published": "2025-08-02"
+ },
+ {
+  "key": "SA3d-43",
+  "fact_ids": [
+   "CQ0128",
+   "CQ0129"
+  ],
+  "claim": "The ILO and IOM heads in Bangladesh wrote in December 2025 that, according to the Labour Force Survey 2024, the average cost of migration is over USD 3,500 (Tk 4.62 lakh), about 10 months' earnings, and that Bangladeshi workers pay two to three times what Indian or Nepali workers pay for the same jobs in the GCC countries and Malaysia.",
+  "target_section": "CROSS-COUNTRY: How much does it really cost to go?",
+  "placement": "other: national average",
+  "why_new": "National average and the India/Nepal comparison are not in the cross-country doc.",
+  "published": "2025-12-18"
+ },
+ {
+  "key": "MY3f-3",
+  "fact_ids": [
+   "CQ0139"
+  ],
+  "claim": "On 24 March 2026 the state minister for expatriates' welfare said the government was working, as part of its 180-day action plan, to fix migration costs, and that once final this would stop extra money being taken.",
+  "target_section": "CROSS-COUNTRY: How much does it really cost to go?",
+  "placement": "other: cost ceiling plan",
+  "why_new": "A dated government commitment to fix costs; check whether any fixed cost was later issued.",
+  "published": "2026-03-24"
+ },
+ {
+  "key": "SA3f-44",
+  "fact_ids": [
+   "CQ0238",
+   "CQ0239"
+  ],
+  "claim": "By Welfare Board data, in the first six months of 2026 it paid Tk 9.45 crore for burial, Tk 61.56 crore in grants and more than Tk 44 crore in insurance, and recovered about Tk 75 crore in compensation, unpaid wages and insurance from abroad; people in the sector said families must visit the Board day after day after applying.",
+  "target_section": "CROSS-COUNTRY: If a worker dies abroad, what does the family get?",
+  "placement": "The numbers",
+  "why_new": "Board payout volumes for 2026; the guide notes families chase repeatedly [E0092].",
+  "published": "2026-10-06"
+ },
+ {
+  "key": "SA3d-40",
+  "fact_ids": [
+   "CQ0124",
+   "CQ0125"
+  ],
+  "claim": "According to BMET data reported in December 2025, about 26% of the 11,98,900 workers who went abroad in FY2023-24 were skilled, against 18% of the 10,15,312 in FY2024-25, when 59% went as low-skilled and only 3% as professionals.",
+  "target_section": "CROSS-COUNTRY: Is there a job for someone with no skills?",
+  "placement": "other: numbers",
+  "why_new": "Skill-mix figures not in the cross-country doc.",
+  "published": "2025-12-18"
+ },
+ {
+  "key": "SA3e-35",
+  "fact_ids": [
+   "CQ0213",
+   "CQ0214"
+  ],
+  "claim": "According to a survivor from Fahim's area, the boat carrying 38 people from Libya lost its way and drifted six days; 18 died for lack of food and clean water, their bodies were kept on the boat two days and then thrown into the sea, and the survivors were taken to a camp after the boat reached the Greek coast on 27 March 2026.",
+  "target_section": "CROSS-COUNTRY: Libya to Italy by boat",
+  "placement": "Deaths",
+  "why_new": "Libya-Greece crossing deaths; the headline says 12 of the dead were from Sunamganj.",
+  "published": "2026-03-30"
+ },
+ {
+  "key": "MY3b-46",
+  "fact_ids": [
+   "CQ0023",
+   "CQ0024"
+  ],
+  "claim": "The expatriates' welfare adviser, Asif Nazrul, announced on 24 September 2024 that migrants could now repay their Probashi Kallyan Bank loan instalments by sending remittance directly to the bank, which had not been possible before, and that 12 commercial banks had agreed to lend to migrants once Bangladesh Bank gave a credit guarantee.",
+  "target_section": "CROSS-COUNTRY: Loans",
+  "placement": "other: PKB repayments",
+  "why_new": "Cross-country Loans gives PKB terms but not repayment by remittance; whether the 12-bank scheme started is unknown (2024 announcement).",
+  "published": "2024-09-24"
+ },
+ {
+  "key": "MY3a-1",
+  "fact_ids": [
+   "CQ0001",
+   "CQ0002"
+  ],
+  "claim": "In January 2024 police in Cox's Bazar said that Rohingya who flee the Ukhiya camps and try to go to Malaysia or another country by sea would from then on be charged under the Overseas Employment and Migrants Act and sent to jail.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "The law",
+  "why_new": "Cross-country Malaysia sea-route 'The law' covers Malaysia and Thailand law and Bangladesh practice, not this 2024 police policy of charging the passengers themselves.",
+  "published": "2024-01-09"
+ },
+ {
+  "key": "MY3a-2",
+  "fact_ids": [
+   "CQ0003",
+   "CQ0004",
+   "CQ0005"
+  ],
+  "claim": "On 5 January 2024 Cox's Bazar assistant judge Maitree Bhattacharya saw three Rohingya girls (two aged 12, one 14) from Balukhali camp being put on a wooden boat for Malaysia at Lombarighat on the Teknaf Marine Drive; police with her rescued them and arrested a trafficker, and in what was reported as the first Overseas Employment and Migrants Act case against Rohingya fleeing the camps the girls were sent to jail with the trafficker, bailed on 9 January and were to be returned to the camp, from where they must attend court.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "Cases",
+  "why_new": "New case; the cross-country Cases list starts its 2024 entries in October.",
+  "published": "2024-01-09"
+ },
+ {
+  "key": "MY3a-3",
+  "fact_ids": [
+   "CQ0006",
+   "CQ0007"
+  ],
+  "claim": "Police and Rohingya leaders said in January 2024 that in the previous five years law enforcers had rescued at least 5,000 Rohingya being trafficked to Malaysia by trawler from the Teknaf, Ukhiya, Cox's Bazar Sadar and Maheshkhali coasts, and that none of those rescued had been charged or jailed.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "The numbers",
+  "why_new": "Cross-country gives 1,134 rescued in 2016-2023 [MA0058]; this source gives at least 5,000 Rohingya in about 2019-2023, a much larger figure (conflict).",
+  "published": "2024-01-09"
+ },
+ {
+  "key": "MY3a-9",
+  "fact_ids": [
+   "CQ0008"
+  ],
+  "claim": "By UNHCR figures cited by researchers of North South University's Centre for Migration Studies in January 2024, 8,312 Rohingya refugees tried to reach Malaysia by sea in 2018-22, and 589 of them died at sea.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "The numbers",
+  "why_new": "New UNHCR attempt and death count for 2018-22.",
+  "published": "2024-01-19"
+ },
+ {
+  "key": "MY3a-10",
+  "fact_ids": [
+   "CQ0009",
+   "CQ0010",
+   "CQ0011"
+  ],
+  "claim": "Centre for Migration Studies researchers wrote in January 2024 that traffickers first take Bangladeshis and Rohingya to Teknaf, then by boat to the Myanmar-Bangladesh sea border and on in small boats to Myanmar's Samila coast, where migrants pay traffickers in advance for the leg to Malaysia or Australia, in some cases more than was agreed in Teknaf; returnees put the cost of reaching Malaysia this way at Tk 4 to 5 lakh.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "The path",
+  "why_new": "The Samila stop and the total Tk 4-5 lakh are new; cross-country gives only Tk 20,000-50,000 paid before boarding.",
+  "published": "2024-01-19"
+ },
+ {
+  "key": "MY3a-11",
+  "fact_ids": [
+   "CQ0012",
+   "CQ0013",
+   "CQ0014"
+  ],
+  "claim": "Centre for Migration Studies researchers wrote in January 2024 that Rohingya men already in Malaysia persuade parents in the camps to marry them their young daughters without dowry on the promise the wife can then go safely to Malaysia, and use Facebook, Imo and WhatsApp to draw young women; some who set out die at sea, some are sold as slaves in Myanmar, and some who reach Malaysia are sold there and cut off from their families.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "How it is sold",
+  "why_new": "Adds the no-dowry mechanism and the outcomes; cross-country mentions only a promise of marriage.",
+  "published": "2024-01-19"
+ },
+ {
+  "key": "MY3a-12",
+  "fact_ids": [
+   "CQ0015"
+  ],
+  "claim": "The same researchers wrote that traffickers use the family and friends of Rohingya already in Malaysia to persuade others in the camps to go, with promises of help after arrival.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "How it is sold",
+  "why_new": "Recruitment through relatives in Malaysia is not in the cross-country section.",
+  "published": "2024-01-19"
+ },
+ {
+  "key": "MY3b-60",
+  "fact_ids": [
+   "CQ0031",
+   "CQ0032",
+   "CQ0033"
+  ],
+  "claim": "Mohammad Jamal of Cox's Bazar, persuaded by a broker named Ayub to go to Malaysia on a Tk 4 lakh deal, was taken with nine others in July 2023 by small boat from Gorjonia in Ramu upazila to a small fishing trawler carrying 73 people, five of them girls under 18; after three days the trawler's hull split at the Myanmar border, the passengers surrendered to Myanmar's navy, and he spent 11 months 19 days in a Myanmar jail before coming home with government help, Prothom Alo reported in October 2024.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "Cases",
+  "why_new": "A named 2023 case with the broker, price, departure point and outcome; not in the cross-country Cases.",
+  "published": "2024-10-09"
+ },
+ {
+  "key": "MY3b-61",
+  "fact_ids": [
+   "CQ0034",
+   "CQ0035"
+  ],
+  "claim": "Jamal said Bangladeshi prisoners in the Myanmar jail did all the work, from growing vegetables to cooking, and were fed rice-water at about 7 am, some rice with dried chillies at 11 am and rice once more at 4 pm; the government brought 173 Bangladeshis home from Myanmar's prisons in April 2024.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "What happens",
+  "why_new": "Detention in Myanmar after a failed boat journey; the cross-country section has Myanmar prison cases but not these conditions or the April 2024 return of 173. Note: the article places Jamal among the 173 returned in April but quotes him as returning in July.",
+  "published": "2024-10-09"
+ },
+ {
+  "key": "MY3b-62",
+  "fact_ids": [
+   "CQ0036",
+   "CQ0037",
+   "CQ0038"
+  ],
+  "claim": "Kamal (a pseudonym) of Teknaf made a Tk 1 lakh deal with a man named Abu to go to Malaysia, to be repaid after he found a good job; brokers pressed for Tk 3 lakh ransom, Malaysian police chased the boat into Indonesian waters, the Bangladeshis on board sank the trawler after two of them died in a quarrel with Rohingya passengers, the Indonesian navy rescued them, and after 11 months' detention there the Bangladesh government brought them home, at a total cost to him of Tk 2 lakh 30 thousand, he told Prothom Alo in October 2024.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "Cases",
+  "why_new": "Shows the pay-after-arrival deal and ransom at sea; the cross-country Cases lack an Indonesia ending.",
+  "published": "2024-10-09"
+ },
+ {
+  "key": "MY3b-63",
+  "fact_ids": [
+   "CQ0039",
+   "CQ0040"
+  ],
+  "claim": "Kamal said that during three months at sea passengers got plain rice, chilli and a glass of water once a day, those who died of hunger were thrown into the sea, anyone who asked for food or water was beaten, and the brokers collected money from families while torturing passengers.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "What happens",
+  "why_new": "Adds a survivor's account; the section has the Coast Guard's general description.",
+  "published": "2024-10-09"
+ },
+ {
+  "key": "MY3b-64",
+  "fact_ids": [
+   "CQ0041",
+   "CQ0042"
+  ],
+  "claim": "Manik Molla of Teknaf said in October 2024 that he had been looking for seven and a half years for his youngest brother Shakil, who left by sea for Malaysia at 17; about two years earlier a broker told him Shakil was in a Malaysian prison, took money from the family, and then disappeared.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "Cases",
+  "why_new": "A second scam on families of the missing (a broker claiming news of the missing person); not in the section.",
+  "published": "2024-10-09"
+ },
+ {
+  "key": "MY3b-65",
+  "fact_ids": [
+   "CQ0043",
+   "CQ0044"
+  ],
+  "claim": "Local brokers mainly target teenagers and young men, promising a job paying a lakh of taka with little outlay; people aged 18 to 35 with money are offered onward travel through Malaysia and Indonesia to Australia, the United States or New Zealand, and women are promised good jobs in hotels, motels, parlours or shopping malls, Prothom Alo reported in October 2024.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "How it is sold",
+  "why_new": "Adds the lures used on Bangladeshis (the section's lures are mostly about Rohingya).",
+  "published": "2024-10-09"
+ },
+ {
+  "key": "MY3b-66",
+  "fact_ids": [
+   "CQ0045"
+  ],
+  "claim": "By UNHCR's figures, 8,312 Rohingya refugees tried to reach Malaysia by sea from 2018 to 2022, and 589 of them died at sea.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "The numbers",
+  "why_new": "A 2018-22 death count the section lacks.",
+  "published": "2024-10-09"
+ },
+ {
+  "key": "MY3b-67",
+  "fact_ids": [
+   "CQ0046",
+   "CQ0047"
+  ],
+  "claim": "Sohel, son of the widow Hasina Akter of Karachi Para village in Teknaf, boarded a boat for Malaysia and was not heard from again; the government told her he was held in a Malaysian prison, and she said the government would bring him back once all papers were submitted, Prothom Alo reported in October 2024.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "Cases",
+  "why_new": "Shows families must submit papers for the government to bring back a detained person; the how is missing (Need to know).",
+  "published": "2024-10-09"
+ },
+ {
+  "key": "MY3c-6",
+  "fact_ids": [
+   "CQ0048",
+   "CQ0049",
+   "CQ0050"
+  ],
+  "claim": "Late on Tuesday night 15 October 2024 Teknaf police raided a house in Dakshin Lambari, Teknaf Sadar union, Cox's Bazar, and rescued 20 people gathered to be trafficked to Malaysia by sea, 12 Rohingya including women and children and 8 Bangladeshis, and detained three brokers, Luna Begum and Md Riduan of Dakshin Lambari and Md Abdullah of Kachubunia, Sabrang union, the Teknaf Model police station OC Muhammad Gias Uddin said.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "Cases",
+  "why_new": "The cross-country Cases list has 12 and 14 Oct 2024 and 14 Dec 2024 but not this 15 Oct raid, which included 8 Bangladeshis.",
+  "published": "2024-10-16"
+ },
+ {
+  "key": "MY3c-7",
+  "fact_ids": [
+   "CQ0051",
+   "CQ0052",
+   "CQ0053"
+  ],
+  "claim": "The eight Bangladeshis rescued in Teknaf on 15 October 2024 came from Patenga in Chattogram, Whykong in Teknaf, Ghonarpara in Cox's Bazar municipality, Munshir Deil in Maheshkhali, Kauarkop in Ramu and PM Khali in Cox's Bazar Sadar, and the OC said an organised ring had gathered them for Malaysia in exchange for large sums of money.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "How it is sold",
+  "why_new": "Shows the sea route also recruits Bangladeshis from Chattogram and Cox's Bazar coastal upazilas, not only camp Rohingya; the cross-country section frames it mainly as Rohingya.",
+  "published": "2024-10-16"
+ },
+ {
+  "key": "MY3c-8",
+  "fact_ids": [
+   "CQ0054"
+  ],
+  "claim": "When police and the Coast Guard detained 26 Rohingya at Inani beach, Ukhiya, on the morning of 14 October 2024 as they were being taken to Malaysia, another 80 to 90 Rohingya escaped, Prothom Alo reported.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "Cases",
+  "why_new": "The 14 Oct Inani case is already in the cross-country Cases list; this adds only that 80 to 90 more escaped.",
+  "published": "2024-10-16"
+ },
+ {
+  "key": "MY3c-29",
+  "fact_ids": [
+   "CQ0058",
+   "CQ0059"
+  ],
+  "claim": "At about 4 am on Sunday 29 December 2024 police raided Abdul Amin's house on a hilltop in Moddhom Kachchhapia, Baharchhara union, Teknaf, Cox's Bazar, rescued 66 people gathered to be trafficked to Malaysia by sea (18 men, 11 women and 37 children; 5 Bangladeshis and 61 Rohingya from the camps), detained five members of the ring and recovered four rifle bullets, a ramdao and a kirich (machete and blade).",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "Cases",
+  "why_new": "Not in the cross-country Cases list.",
+  "published": "2024-12-29"
+ },
+ {
+  "key": "MY3c-30",
+  "fact_ids": [
+   "CQ0060",
+   "CQ0061"
+  ],
+  "claim": "Police said the Baharchhara house was the ring's den: people were gathered there through brokers with promises of a better life, jobs and, for unmarried women, marriage; those brought from the Rohingya camps were first charged Tk 20,000 each, and the ring intended to hold them and extort more money by force on the pretext of getting them to Malaysia.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "How it is sold",
+  "why_new": "Confirms the Tk 20,000 first payment (cross-country has Tk 20,000-30,000) and adds that the first payment is followed by forced extortion while held.",
+  "published": "2024-12-29"
+ },
+ {
+  "key": "MY3c-36",
+  "fact_ids": [
+   "CQ0062",
+   "CQ0063",
+   "CQ0064"
+  ],
+  "claim": "At midnight on Monday 20 January 2025 Navy and police rescued 19 people, two Bangladeshis and 17 Rohingya from Ukhiya-Teknaf camps, gathered in huts at the house of Zafar Alam in the hilly Madhyam Kachchhapia area of Baharchhara union, Teknaf, to be trafficked to Malaysia by sea; Zafar Alam (30) was caught after a chase, the others fled, and a case was being prepared, the Teknaf OC said.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "Cases",
+  "why_new": "Not in the cross-country Cases list.",
+  "published": "2025-01-21"
+ },
+ {
+  "key": "MY3c-42",
+  "fact_ids": [
+   "CQ0065",
+   "CQ0066",
+   "CQ0067"
+  ],
+  "claim": "On the afternoon of Saturday 25 January 2025 the Bangladesh Navy raided a traffickers' den in the Kachchhopia hills, Baharchhara union, Teknaf, rescued 17 men, women and children held hostage for trafficking to Malaysia by sea, 3 of them Bangladeshis and the rest Rohingya from Ukhiya and Teknaf camps, and arrested a trafficker named Ali Abdullah, Lieutenant Commander Afzal Hossain of the Navy's Teknaf contingent said.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "Cases",
+  "why_new": "Not in the cross-country Cases list.",
+  "published": "2025-01-26"
+ },
+ {
+  "key": "MY3c-43",
+  "fact_ids": [
+   "CQ0068",
+   "CQ0069"
+  ],
+  "claim": "Baharchhara union parishad chairman Amjad Hossain said in January 2025 that trafficking syndicates bring Rohingya from the Ukhiya-Teknaf camps to several points on the Baharchhara coast, lure them with promises of Malaysia, hold them in the hills and demand ransom, and that police, RAB and Navy operations had rescued about 150 such victims in January 2025 alone.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "The numbers",
+  "why_new": "Adds a January 2025 count of rescues; the cross-country numbers run to January 2025 (600 caught in the year) but not this monthly figure.",
+  "published": "2025-01-26"
+ },
+ {
+  "key": "MY3f-12",
+  "fact_ids": [
+   "CQ0145",
+   "CQ0146",
+   "CQ0147"
+  ],
+  "claim": "On the afternoon of 30 March 2026 the Coast Guard raided a house in Dakshin Lombori, Teknaf, which it called a traffickers' den, and rescued seven people including women and children who had been brought there, with promises of a better life, high-paid jobs and a cheap passage, to be taken to Malaysia by sea; the traffickers fled and the seven were handed to Teknaf Model Police Station.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "Cases",
+  "why_new": "A 2026 case not in the Cases list (which has a December 2024 Dakshin Lambari Para case).",
+  "published": "2026-03-31"
+ },
+ {
+  "key": "MY3f-25",
+  "fact_ids": [
+   "CQ0154",
+   "CQ0155"
+  ],
+  "claim": "According to UNHCR, reported by Prothom Alo on 17 April 2026, about 900 Rohingya refugees went missing or died in the Andaman Sea and Bay of Bengal in 2025, the deadliest year on record for sea journeys in South and South-East Asia, with one in seven of the more than 6,500 who attempted the crossing dying or going missing.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "The numbers",
+  "why_new": "2025 UNHCR figures; the section has 2023 figures only.",
+  "published": "2026-04-17"
+ },
+ {
+  "key": "MY3f-26",
+  "fact_ids": [
+   "CQ0156",
+   "CQ0157",
+   "CQ0158"
+  ],
+  "claim": "UNHCR said that more than half of the Rohingya crossing by sea in recent years were women and children, that more than 2,800 had taken the journey in 2026 up to 13 April, and that the boats usually leave Cox's Bazar in Bangladesh or Rakhine State in Myanmar for Indonesia or Malaysia.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "The numbers",
+  "why_new": "2026 year-to-date figure not in the cross-country doc.",
+  "published": "2026-04-17"
+ },
+ {
+  "key": "MY3f-27",
+  "fact_ids": [
+   "CQ0159"
+  ],
+  "claim": "UNHCR said an overloaded boat that left Bangladesh on 26 March 2026 sank in rough sea with about 250 people missing, and only nine were rescued alive near the Andaman Islands on 9 April.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "Cases (conflict on departure date)",
+  "why_new": "Same sinking as article 646aca07, which says it sank on 8 April and that the missing Pekua men left on 4 April; the 26 March departure date differs.",
+  "published": "2026-04-17"
+ },
+ {
+  "key": "MY3f-30",
+  "fact_ids": [
+   "CQ0162",
+   "CQ0163"
+  ],
+  "claim": "The nine survivors of the 8 April 2026 sinking, picked up from water drums and pieces of wood near the Andaman Islands on 9 April by the Bangladesh-flagged merchant ship Meghna Pride and handed to the Coast Guard, were taken to Teknaf police: the three Rohingya were sent back to the camps after giving statements in court, and the six Bangladeshis were charged under the trafficking prevention law and sent to jail, with 10 to 15 unnamed accused added, police inspector Sukanta Chowdhury said.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "What happens",
+  "why_new": "New and decision-relevant: Bangladeshi survivors themselves were charged under the trafficking law and jailed.",
+  "published": "2026-04-19"
+ },
+ {
+  "key": "MY3f-31",
+  "fact_ids": [
+   "CQ0164",
+   "CQ0165"
+  ],
+  "claim": "Brokers target unemployed, needy young men of poor families and offer to take them to Malaysia by boat for free, saying they can pay after reaching Malaysia and promising very high wages, Parvez Siddiqui, executive director of the NGO Films for Peace Foundation, said in April 2026; the wife of one missing man, Belal Uddin, said he went because brokers told him he could go without money.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "How it is sold",
+  "why_new": "The 'go free, pay on arrival' lure is not in the How it is sold paragraph, which gives up-front prices.",
+  "published": "2026-04-19"
+ },
+ {
+  "key": "MY3f-32",
+  "fact_ids": [
+   "CQ0166",
+   "CQ0167",
+   "CQ0168"
+  ],
+  "claim": "Seven young men from Hajipara, Miapara and Natun Ghona villages of Rajakhali union, Pekua, Cox's Bazar, left the Teknaf coast on 4 April 2026 on one of three trawlers that left for Malaysia at about the same time, phoned home until 8 April and have not been heard from since; the Teknaf brokers stopped answering their phones, and one missing man's uncle said Teknaf police only took photos and addresses and sent the family away.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "Cases",
+  "why_new": "A 2026 case with what families met at the police; not in the cross-country Cases.",
+  "published": "2026-04-19"
+ },
+ {
+  "key": "MY3f-37",
+  "fact_ids": [
+   "CQ0169",
+   "CQ0170",
+   "CQ0171"
+  ],
+  "claim": "On the evening of 5 June 2026 the Coast Guard chased and seized a fishing trawler off Baharchhara on the Teknaf coast that was taking people to Malaysia by sea, rescued 50 people including women and children (39 Bangladeshis and 11 Rohingya) and arrested nine traffickers, who were handed to Teknaf Model Police Station with a case filed, station in-charge Lt Cdr Md Muttakin Siddiqui said.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "Cases",
+  "why_new": "A June 2026 case with a majority of Bangladeshi passengers; not in Cases.",
+  "published": "2026-06-06"
+ },
+ {
+  "key": "MY3f-38",
+  "fact_ids": [
+   "CQ0172"
+  ],
+  "claim": "Organised rings bring Bangladeshis and Rohingya to the Teknaf coast with promises of high-paid jobs abroad and a better life, then lock them in secret hideouts and extract ransom through torture, the Coast Guard's Teknaf station in-charge said on 6 June 2026.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "What happens",
+  "why_new": "Confirms the ransom-before-departure pattern in 2026 (the section's examples are 2024-25).",
+  "published": "2026-06-06"
+ },
+ {
+  "key": "MY3h-17",
+  "fact_ids": [
+   "CQ0177",
+   "CQ0178",
+   "CQ0179"
+  ],
+  "claim": "On 11 September 2026 traffickers took five teenagers and young men (two aged 16, two 18 and one 20) from Mithachhari, Ramu, by CNG auto-rickshaw on the pretext of visiting Teknaf's Marine Drive, blindfolded and held them, beat them and collected ransom from their families in instalments while planning to send them by sea to Indonesia and Malaysia; SRB-15 (Special Response Battalion 15) rescued them on 20 September at Khonkarpara ghat near Sabrang Zero Point, Teknaf, and arrested Md Anas alias Munna (21).",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "Cases",
+  "why_new": "New 2026 case; adds a tourist-trip lure aimed at Bangladeshi teenagers, not Rohingya.",
+  "published": "2026-09-21"
+ },
+ {
+  "key": "MY3h-18",
+  "fact_ids": [
+   "CQ0180",
+   "CQ0181",
+   "CQ0182"
+  ],
+  "claim": "A boat of irregular migrants from Myanmar's Rakhine state capsized off the Baharchhara coast of Teknaf at dawn on 22 September 2026, killing a Rohingya woman, Chhura Khatun (28), and her 9-year-old son; of the 16 rescued, eight were Bangladeshis who told police they had been taken to Myanmar about a year earlier on the promise of Malaysia, kept in various parts of Myanmar for a year, and put on the boat for Malaysia the night before.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "Cases",
+  "why_new": "New 2026 case of Bangladeshis held a year in Myanmar on a Malaysia promise; fits the guide's 'journeys sold as going through Malaysia end in Myanmar'.",
+  "published": "2026-09-23"
+ },
+ {
+  "key": "MY3h-19",
+  "fact_ids": [
+   "CQ0183",
+   "CQ0184",
+   "CQ0185"
+  ],
+  "claim": "On the night of 1 October 2026 the navy ship BNS Khalid Bin Walid, alerted by fishermen, rescued 76 people from a wooden boat whose engine had failed and which was sinking about 81 km west of the St Martin's Island lighthouse; the navy said 65 men, women and children aboard, some lured with good jobs and some kidnapped and held in remote parts of Teknaf, were being trafficked to Malaysia by way of the Myanmar and Thai coasts, and it detained 11 alleged traffickers.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "Cases",
+  "why_new": "New 2026 case.",
+  "published": "2026-10-02"
+ },
+ {
+  "key": "MY3h-28",
+  "fact_ids": [
+   "CQ0186",
+   "CQ0187",
+   "CQ0188"
+  ],
+  "claim": "On 5 November 2026 a joint army, BGB and police operation freed 57 people from a traffickers' den in the deep hills of Rangikhali, Teknaf, where they were being tortured for ransom and were to be put on a trawler to Malaysia that night; a soldier, Md Titas Sheikh (27), was shot dead in a gunfight, five ring members were detained, and police said one of the 57 was identified as a trafficker.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "Cases",
+  "why_new": "New November 2026 case.",
+  "published": "2026-11-07"
+ },
+ {
+  "key": "MY3h-29",
+  "fact_ids": [
+   "CQ0189",
+   "CQ0190"
+  ],
+  "claim": "Nur Kamal (21) of Daganbhuiyan, Feni, told Prothom Alo in November 2026 that someone added him to a WhatsApp group offering to take him to Malaysia free of cost, with payment due only after arrival; he left home on 2 November and on reaching Cox's Bazar was taken to a hut in the Teknaf hills, held under 10 to 12 armed guards and beaten.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "How it is sold / Other lures",
+  "why_new": "New lure: 'free now, pay on arrival' through WhatsApp groups, in the month the government was advertising zero-cost Malaysia jobs.",
+  "published": "2026-11-07"
+ },
+ {
+  "key": "MY3h-31",
+  "fact_ids": [
+   "CQ0191",
+   "CQ0192",
+   "CQ0193"
+  ],
+  "claim": "Victims freed on 5 November 2026 said people were handed to the traffickers for money: S M Asaduzzaman (50) of Saltha, Faridpur, said a man he met in Kutupalong camp lured him with work and handed him over for Tk 10,000, then he agreed a Tk 2 lakh release deal; Md Saiful Islam of Ukhiya said a broker named Nur Ali handed him over and the traffickers said they had bought him and another man for Tk 1 lakh, and that captives who tried to flee were beaten and chained.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "What happens",
+  "why_new": "Adds the price at which people are sold into the dens (Tk 10,000 a head; Tk 1 lakh for two), which the cross-country doc lacks.",
+  "published": "2026-11-07"
+ },
+ {
+  "key": "MY3h-32",
+  "fact_ids": [
+   "CQ0194",
+   "CQ0195"
+  ],
+  "claim": "On the evening of 7 November 2026 BGB rescued nine people, including two aged 16 and 17, gathered at South Lombori ghat, Teknaf Sadar union, to be taken to Malaysia by sea, while 10 to 15 ring members fled by boat; the rescued said men were lured with good jobs and women with marriage to suitable grooms in Malaysia, the Teknaf BGB battalion commander said.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "Cases",
+  "why_new": "New November 2026 case.",
+  "published": "2026-11-08"
+ },
+ {
+  "key": "MY3h-48",
+  "fact_ids": [
+   "CQ0196",
+   "CQ0197",
+   "CQ0198"
+  ],
+  "claim": "On the evening of 16 November 2026, 72 people, mostly Rohingya and the rest from Teknaf, Naikhongchhari and other districts, who had paid brokers Tk 10,000 to 15,000 each, were taken by small fishing boats from Mithapanir Chhara ghat, Teknaf, to a large wooden trawler; after rough seas from a cyclone kept it near St Martin's Island and the crew and brokers quarrelled, the crew landed them at Laboni Point on Cox's Bazar beach late on 20 November and fled, and police rescued 28 while the rest ran away.",
+  "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+  "placement": "Cases",
+  "why_new": "New November 2026 case, with the 2026 boarding price (Tk 10,000 to 15,000).",
+  "published": "2026-11-21"
+ },
+ {
+  "key": "MY3c-50",
+  "fact_ids": [
+   "CQ0075",
+   "CQ0076",
+   "CQ0077"
+  ],
+  "claim": "Kuddus Bepari (33) of Majumdarkandi, Rajoir, Madaripur, who had worked in Malaysia for 7 years and came home in August 2024 to see his newborn child, was frustrated because the Malaysian labour market was not going well, and the local broker Monir Sheikh, learning of it, lured him into a Tk 16 lakh 'body contract' to reach Italy through Libya, according to police, family and local sources.",
+  "target_section": "CROSS-COUNTRY: Recruited while abroad or just back",
+  "placement": "In Malaysia",
+  "why_new": "The cross-country 'In Malaysia' bullet has only a general BRAC statement; this is a named case of a Malaysia worker on home leave recruited onto the Libya route.",
+  "published": "2025-02-10"
+ },
+ {
+  "key": "SA3b-60",
+  "fact_ids": [
+   "CQ0114",
+   "CQ0115",
+   "CQ0116"
+  ],
+  "claim": "The CID arrested a woman (named Fabiha Jerin and also Tamanna in its statements), a partner in Dream Home Travels and Tours Ltd, at Dhaka airport on 5 February 2025 as she was about to flee to Nepal, in a case filed at Banani police station by the wife of a wounded victim; the CID said she confessed and that her brother Tuhin, in Russia, had encouraged people to go to the war.",
+  "target_section": "CROSS-COUNTRY: Russia: recruited into the war",
+  "placement": "Cases",
+  "why_new": "Named travel agency and arrest not in the cross-country guide.",
+  "published": "2025-02-06"
+ },
+ {
+  "key": "SA3c-44",
+  "fact_ids": [
+   "CQ0117",
+   "CQ0118"
+  ],
+  "claim": "CID (the police Criminal Investigation Department) said in June 2025 that a ring lured 10 people with jobs as cleaners or cooks in a chocolate factory in Russia at Tk 2-2.5 lakh a month, sent them first to Saudi Arabia on Umrah visas, had them perform Umrah, then took them to Russia and sold them to a man called Sultan, who handed them to the Russian army.",
+  "target_section": "CROSS-COUNTRY: Russia: recruited into the war",
+  "placement": "The path",
+  "why_new": "The cross-country Russia section has RMMRU's general statement that many go via Saudi Arabia on tourist or Umrah visas [RU0030]; this adds a documented CID case with the job lure and pay promised.",
+  "published": "2025-06-13"
+ },
+ {
+  "key": "SA3c-46",
+  "fact_ids": [
+   "CQ0119",
+   "CQ0120",
+   "CQ0121"
+  ],
+  "claim": "CID arrested Fabiha Jerin alias Tamanna, a partner of Dream Home Travels and Tours Limited of Banani, Dhaka, at Dhaka airport on 5 February 2025 as she was fleeing to Nepal, and arrested the alleged ringleader Muhammad Alamgir Hossain (40) of Lohagara, Chattogram at Chattogram's Shah Amanat airport in June 2025; CID said Alamgir, who went to Russia on a student visa in 2008 and became a citizen by marriage, had taken 50 people to Russia on three visa categories.",
+  "target_section": "CROSS-COUNTRY: Russia: recruited into the war",
+  "placement": "Who sends them",
+  "why_new": "Names a travel agency and ringleader in the Russia route not in the cross-country section.",
+  "published": "2025-06-13"
+ },
+ {
+  "key": "MY3c-52",
+  "fact_ids": [
+   "CQ0081",
+   "CQ0082",
+   "CQ0083"
+  ],
+  "claim": "To pay broker Monir Sheikh, Kuddus Bepari wrote two bighas of land worth Tk 40 lakh to the broker's wife, Hamida Begum; Monir ran a tailoring shop at Rajoir bazar until about two years earlier, married his three daughters to men living in Libya whom locals say are linked to traffickers and mafias there, has bought land worth at least Tk 5 crore in his wife's name in seven months, and, locals say, makes each contract for Tk 16 lakh.",
+  "target_section": "CROSS-COUNTRY: The contract price and the final price",
+  "placement": "Prices quoted / Cases",
+  "why_new": "Shows payment in land rather than cash and the broker-to-Libya family chain; not in cross-country.",
+  "published": "2025-02-10"
+ },
+ {
+  "key": "MY3c-53",
+  "fact_ids": [
+   "CQ0084",
+   "CQ0085"
+  ],
+  "claim": "A broker of another Madaripur ring, speaking anonymously in February 2025, said local brokers only collect people and money for Bangladeshi brokers living in Libya, taking Tk 12 lakh to send a person to Libya and Tk 4 lakh more for the 'game' (the sea crossing), and that most local brokers in Madaripur now work for Miraj Howlader of Mridhakandi, Shikarmangal union, Kalkini, whom he called a big mafia figure in Libya.",
+  "target_section": "CROSS-COUNTRY: The contract price and the final price",
+  "placement": "Prices quoted",
+  "why_new": "Gives the split of the Tk 16 lakh price (12 + 4); not in cross-country.",
+  "published": "2025-02-10"
+ },
+ {
+  "key": "SA3a-7",
+  "fact_ids": [
+   "CQ0094",
+   "CQ0095",
+   "CQ0096"
+  ],
+  "claim": "Under the new migrant-worker insurance contract made on 12 March 2023, as Prothom Alo reported in January 2024, a worker gets no insurance benefit for suicide or self-harm within six months of cover starting, death or illness from HIV/AIDS or similar disease, death in dangerous sports or adventure activities, death from alcohol or drug addiction, death in war, riot or an attack by criminals, or execution under a court sentence.",
+  "target_section": "CROSS-COUNTRY: What does the migrant insurance cover?",
+  "placement": "other: exclusions",
+  "why_new": "The cross-country insurance section lists what it pays but no exclusions; the Saudi guide says only that suicide claims are often rejected [E0097]. Relevant to Saudi executions (What can get you jailed or deported).",
+  "published": "2024-01-22"
+ },
+ {
+  "key": "SA3a-8",
+  "fact_ids": [
+   "CQ0097",
+   "CQ0098"
+  ],
+  "claim": "Under the March 2023 insurance contract, a worker who dies naturally or in an accident during the cover period, or within 90 days after it ends, is paid the full Tk 10 lakh, and when a worker dies abroad the money goes to the worker's bank account after the body comes home without any application, according to the Welfare Board and Jiban Bima Corporation (January 2024).",
+  "target_section": "CROSS-COUNTRY: What does the migrant insurance cover?",
+  "placement": "other: cover period",
+  "why_new": "The 90-day grace after expiry is not in either guide; the Saudi guide says no application is needed if the body comes home [E0013] but not that the money goes to the worker's own bank account.",
+  "published": "2024-01-22"
+ },
+ {
+  "key": "SA3a-9",
+  "fact_ids": [
+   "CQ0099",
+   "CQ0100"
+  ],
+  "claim": "By Jiban Bima Corporation's count, 32,24,343 workers went abroad from the start of the compulsory migrant insurance in late 2019 to the end of 2023, and only 1,397 workers or families claimed on it; in fiscal 2022-23 the Welfare Board paid Tk 31 crore 72 lakh 10 thousand in death insurance to the families of 860 workers.",
+  "target_section": "CROSS-COUNTRY: What does the migrant insurance cover?",
+  "placement": "The numbers",
+  "why_new": "Claim and payout figures are not in either guide.",
+  "published": "2024-01-22"
+ },
+ {
+  "key": "SA3a-10",
+  "fact_ids": [
+   "CQ0101",
+   "CQ0102",
+   "CQ0103"
+  ],
+  "claim": "Prothom Alo reported in January 2024 that disability and early-return benefits must be claimed, that the government agencies hold no information on workers who come back disabled or within six months, and that people involved said there is no special effort to tell workers about the insurance before they leave.",
+  "target_section": "CROSS-COUNTRY: What does the migrant insurance cover?",
+  "placement": "other: what happens in practice",
+  "why_new": "Explains why the Tk 50,000 job-loss and disability benefits are rarely claimed; not in either guide.",
+  "published": "2024-01-22"
+ },
+ {
+  "key": "SA3a-14",
+  "fact_ids": [
+   "CQ0104"
+  ],
+  "claim": "A 2023 study by RMMRU (the Refugee and Migratory Movements Research Unit) found that 31% of migrant women workers' deaths abroad were unnatural, from accidents and suicide.",
+  "target_section": "CROSS-COUNTRY: What does the migrant insurance cover?",
+  "placement": "other: research",
+  "why_new": "Not in either guide; bears on how often the suicide exclusion bites for women.",
+  "published": "2024-01-22"
+ },
+ {
+  "key": "SA3a-23",
+  "fact_ids": [
+   "CQ0105",
+   "CQ0106"
+  ],
+  "claim": "Probashi Kallyan Bank's managing director Md. Mujibur Rahman said in March 2024 that loan conditions for returnee women had been eased: a woman whose husband or family won't take her back can borrow without a fixed address, her loan carries no service charge, and loans up to Tk 1 lakh need no equity, though few women apply.",
+  "target_section": "CROSS-COUNTRY: What help is there when I come back?",
+  "placement": "other: PKB loans for returnee women",
+  "why_new": "The Saudi guide's PKB reintegration loan (Reintegration loan (PKB)) needs a Union Parishad address certificate and charges 0.5%+0.5% fees [E0115, E0116]; this eased rule for returnee women is not there.",
+  "published": "2024-03-07"
+ },
+ {
+  "key": "SA3d-52",
+  "fact_ids": [
+   "CQ0133",
+   "CQ0134"
+  ],
+  "claim": "Hasan Imam of the Center for Development Communication said in December 2025 that the government's reintegration policy, begun in 2022, received final approval in 2025, with six objectives: employment and financial self-reliance, entrepreneurship, social reintegration and health care, psychosocial support, support for exploited and abused women, and sustainability.",
+  "target_section": "CROSS-COUNTRY: What help is there when I come back?",
+  "placement": "other: policy",
+  "why_new": "Cross-country mentions a reintegration policy without its approval date or objectives.",
+  "published": "2026-01-12"
+ },
+ {
+  "key": "SA3e-6",
+  "fact_ids": [
+   "CQ0204",
+   "CQ0205"
+  ],
+  "claim": "According to Prothom Alo (February 2026), the Bangladesh government supplies antiretroviral (ARV) drugs free, but counselling, mental health support and livelihood rehabilitation for returnees are very limited; Mir of the youth organisation Brave Dimension Global said one deported worker got counselling not from any government agency but from a private organisation.",
+  "target_section": "CROSS-COUNTRY: What help is there when I come back?",
+  "placement": "other: HIV",
+  "why_new": "Cross-country: help for returnees deported with HIV.",
+  "published": "2026-02-02"
+ },
+ {
+  "key": "SA3e-8",
+  "fact_ids": [
+   "CQ0208",
+   "CQ0209"
+  ],
+  "claim": "According to the national AIDS/STD control programme of Bangladesh's Directorate General of Health Services, 1,891 people were found infected with HIV in Bangladesh from December 2024 to November 2025, 12% of them people who had come back from abroad.",
+  "target_section": "CROSS-COUNTRY: What help is there when I come back?",
+  "placement": "The numbers",
+  "why_new": "Statistic; keep only if the HIV item is added.",
+  "published": "2026-02-02"
+ },
+ {
+  "key": "SA3e-44",
+  "fact_ids": [
+   "CQ0217"
+  ],
+  "claim": "The Prime Minister's spokesman said on 18 April 2026 that the government had begun work on a 'Probashi card' for migrants; no details were given.",
+  "target_section": "CROSS-COUNTRY: What help is there when I come back?",
+  "placement": "other: Probashi card",
+  "why_new": "Announcement only; a reviewer could turn it into a Need to know.",
+  "published": "2026-04-18"
+ },
+ {
+  "key": "SA3g-11",
+  "fact_ids": [
+   "CQ0201"
+  ],
+  "claim": "A study by OKUP (Ovibashi Karmi Unnayan Program) found 94% of women workers forced to return had suffered regular physical and mental abuse abroad and 47% sexual harassment, according to a Prothom Alo editorial (19 October 2026) citing Prothom Alo of 13 September 2026.",
+  "target_section": "CROSS-COUNTRY: What if I'm abused? Where can I go?",
+  "placement": "other: scale of abuse",
+  "why_new": "Not Saudi-specific; not in guide.",
+  "published": "2026-10-19"
+ },
+ {
+  "key": "MY3a-19",
+  "fact_ids": [
+   "CQ0016"
+  ],
+  "claim": "Migration experts told Prothom Alo in February 2024 that migrants already abroad collect job demand from their employers and send it to acquaintances and relatives at home, and that about 90% of demand letters reach Bangladesh this way.",
+  "target_section": "CROSS-COUNTRY: What is a demand letter?",
+  "placement": "other",
+  "why_new": "How demand letters reach Bangladesh; not specific to Malaysia, where demand goes through FWCMS.",
+  "published": "2024-02-14"
+ },
+ {
+  "key": "SA3e-7",
+  "fact_ids": [
+   "CQ0206",
+   "CQ0207"
+  ],
+  "claim": "According to Prothom Alo (February 2026), an HIV-negative certificate is compulsory before going abroad, but pre-departure briefings say very little about HIV, safe behaviour or the right to health care abroad.",
+  "target_section": "CROSS-COUNTRY: What is the pre-departure orientation (PDO)?",
+  "placement": "other: health content",
+  "why_new": "Cross-country PDO content gap.",
+  "published": "2026-02-02"
+ },
+ {
+  "key": "SA3f-47",
+  "fact_ids": [
+   "CQ0241",
+   "CQ0242"
+  ],
+  "claim": "Expatriates' Welfare Ministry officials said in October 2026 that BMET's pre-departure training is only a three-day workshop in which nothing is taught well, and that workers need training on the destination's type of work, conditions, working hours and staying healthy.",
+  "target_section": "CROSS-COUNTRY: What is the pre-departure orientation (PDO)?",
+  "placement": "other",
+  "why_new": "Ministry officials' own view of the PDO; the cross-country doc has similar views from a federation and UNDP expert.",
+  "published": "2026-10-06"
+ },
+ {
+  "key": "SA3h-15",
+  "fact_ids": [
+   "CQ0202"
+  ],
+  "claim": "The expatriates' welfare minister said on 26 October 2026 that work is under way on technology at BMET to check visa validity quickly, and that an open email service to settle any complaint is being launched and publicised.",
+  "target_section": "CROSS-COUNTRY: Where to complain and get help",
+  "placement": "other: coming services",
+  "why_new": "New: announced (not yet live) complaint email and visa-check tool; not Saudi-specific. Need to know: what is the address and is it live?",
+  "published": "2026-10-26"
+ },
+ {
+  "key": "MY3b-11",
+  "fact_ids": [
+   "CQ0017",
+   "CQ0018",
+   "CQ0019"
+  ],
+  "claim": "When a mentally ill worker or one with no address is found at Dhaka's Hazrat Shahjalal International Airport, the Probashi Kallyan (expatriate welfare) desk or the Airport Armed Police phone Al-Amin (Nayan), manager of BRAC's Migration Welfare Centre, who by the US State Department's account at its June 2024 TIP Hero award had helped at least 34,000 returnees and trafficking victims.",
+  "target_section": "CROSS-COUNTRY: Where victims and families get help",
+  "placement": "item 12 (BRAC Migration Programme): detail",
+  "why_new": "Cross-country item 12 lists BRAC's airport help but not how the airport desk and Armed Police route vulnerable returnees to it.",
+  "published": "2024-06-24"
+ },
+ {
+  "key": "MY3b-12",
+  "fact_ids": [
+   "CQ0020",
+   "CQ0021",
+   "CQ0022"
+  ],
+  "claim": "Al-Amin, who received the US State Department's TIP Hero award on 24 June 2024, said he was himself trafficked when he went to work in Malaysia; Prothom Alo reported that this was in 2007, that he came home the same year, that he started work in BRAC's migration programme in 2017, and that he is president of Anirban Survivor Voice, the largest network of trafficking survivors in Bangladesh.",
+  "target_section": "CROSS-COUNTRY: Where victims and families get help",
+  "placement": "other: who runs BRAC's airport help",
+  "why_new": "Background on the person behind BRAC's Migration Welfare Centre and Anirban Survivor Voice, both named elsewhere in the cross-country guide.",
+  "published": "2024-06-24"
+ },
+ {
+  "key": "MY3c-28",
+  "fact_ids": [
+   "CQ0055",
+   "CQ0056",
+   "CQ0057"
+  ],
+  "claim": "By BMET data reported on 18 December 2024, more than 11 lakh workers went abroad in 2022, 13 lakh in 2023 and 9 lakh in the first 11 months of 2024; overseas employment fell further after Malaysia closed in June 2024 and rose again on Saudi Arabia, which took 60% of the year's workers and more than 80% in October and November.",
+  "target_section": "CROSS-COUNTRY: Which countries can I go to for work right now?",
+  "placement": "numbers",
+  "why_new": "Corridor context (Malaysia's closure and Saudi dependence) for the cross-country doc; historical, may be superseded.",
+  "published": "2024-12-18"
+ },
+ {
+  "key": "MY3c-47",
+  "fact_ids": [
+   "CQ0070",
+   "CQ0071",
+   "CQ0072"
+  ],
+  "claim": "By the Ami Probashi 2024 annual report, 10,09,146 Bangladeshi workers went abroad in 2024, 27% fewer than the 13,90,811 of 2023, with 62% going to Saudi Arabia; enrolment in technical training centre courses fell to 1,12,166 from 2,36,270, and women's share of BMET registrations rose from 2.78% to 4.79%.",
+  "target_section": "CROSS-COUNTRY: Which countries can I go to for work right now?",
+  "placement": "numbers",
+  "why_new": "Cross-country corridor numbers for 2024.",
+  "published": "2025-02-05"
+ },
+ {
+  "key": "SA3e-21",
+  "fact_ids": [
+   "CQ0210"
+  ],
+  "claim": "According to BMET, Bangladeshi workers went to 141 of the 168 countries on its list in 2025, 90% of them to just five countries; 13 countries received one worker each.",
+  "target_section": "CROSS-COUNTRY: Which countries can I go to for work right now?",
+  "placement": "The numbers",
+  "why_new": "Cross-country concentration figure.",
+  "published": "2026-03-14"
+ },
+ {
+  "key": "SA3e-22",
+  "fact_ids": [
+   "CQ0211",
+   "CQ0212"
+  ],
+  "claim": "RMMRU said in March 2026 that 4,663 Bangladeshis went to Russia in 2025 against 993 the year before, and that a ring had begun recruiting migrants with promises of good pay and Russian citizenship, part of which, together with unscrupulous Russian rings, was sending Bangladeshi workers to the Russia-Ukraine war.",
+  "target_section": "CROSS-COUNTRY: Which countries can I go to for work right now?",
+  "placement": "other: Russia",
+  "why_new": "Cross-country already covers Russia war recruitment; adds the 2024-2025 flow numbers.",
+  "published": "2026-03-14"
+ },
+ {
+  "key": "MY3f-10",
+  "fact_ids": [
+   "CQ0140",
+   "CQ0141"
+  ],
+  "claim": "BMET data cited in a Prothom Alo editorial of 28 March 2026 show that the number of workers taking clearance to go abroad in the first 10 days of March 2026 fell by about 50 percent from the same period a year earlier, after the Middle East war closed airspace and several hundred flights from Dhaka's Shahjalal airport were cancelled.",
+  "target_section": "CROSS-COUNTRY: Which countries can I go to for work right now?",
+  "placement": "numbers",
+  "why_new": "Adds the March 2026 war-related drop; the cross-country doc gives Jan-Aug totals only.",
+  "published": "2026-03-28"
+ },
+ {
+  "key": "MY3f-11",
+  "fact_ids": [
+   "CQ0142",
+   "CQ0143",
+   "CQ0144"
+  ],
+  "claim": "According to a Prothom Alo editorial of 28 March 2026, 67 percent of the workers who went abroad in 2025 went to Saudi Arabia and about 90 percent to just five countries, although 168 countries are on the list of destinations.",
+  "target_section": "CROSS-COUNTRY: Which countries can I go to for work right now?",
+  "placement": "numbers",
+  "why_new": "Concentration figures for 2025 not in the cross-country doc.",
+  "published": "2026-03-28"
+ },
+ {
+  "key": "MY3f-14",
+  "fact_ids": [
+   "CQ0148",
+   "CQ0149"
+  ],
+  "claim": "By BMET data cited in a Prothom Alo column of 3 April 2026, 11,16,399 Bangladeshis migrated in 2025, about 82.4 percent of them (9,19,981) to the Middle East or GCC countries, and of USD 32.8 billion in remittances in 2025 about 46 percent (USD 15.07 billion) came from GCC countries (Bangladesh Bank, 2026).",
+  "target_section": "CROSS-COUNTRY: Which countries can I go to for work right now?",
+  "placement": "numbers (conflict with A07 figure)",
+  "why_new": "CONFLICT: the minister told parliament on 5 April 2026 that 11,32,519 went in 2025 (draft from article 2847a95a).",
+  "published": "2026-04-03"
+ },
+ {
+  "key": "MY3f-16",
+  "fact_ids": [
+   "CQ0150",
+   "CQ0151"
+  ],
+  "claim": "The expatriates' welfare minister told parliament on 5 April 2026 that 11,32,519 workers went abroad for jobs in 2025, 62,352 of them women, and that more than 1.5 crore Bangladeshi workers were then working in 176 countries.",
+  "target_section": "CROSS-COUNTRY: Which countries can I go to for work right now?",
+  "placement": "numbers",
+  "why_new": "Official 2025 totals; CONFLICT with 11,16,399 cited from BMET in a 3 April 2026 column (article fa1e9f68).",
+  "published": "2026-04-05"
+ },
+ {
+  "key": "MY3f-24",
+  "fact_ids": [
+   "CQ0152",
+   "CQ0153"
+  ],
+  "claim": "Prime Minister Tarique Rahman told parliament on 15 April 2026 that steps had been taken to sign bilateral agreements to expand labour markets in Serbia, Greece, North Macedonia, Romania, Portugal, Brazil and Russia, and a recruitment agreement to open Thailand's labour market.",
+  "target_section": "CROSS-COUNTRY: Which countries can I go to for work right now?",
+  "placement": "other: planned markets",
+  "why_new": "Planned agreements (not open routes); the cross-country list has none of these.",
+  "published": "2026-04-15"
+ },
+ {
+  "key": "MY3h-10",
+  "fact_ids": [
+   "CQ0176"
+  ],
+  "claim": "The expatriates' welfare minister, Ariful Haque Chowdhury, told parliament in a written answer on 3 September 2026 that 9,85,120 Bangladeshis went abroad for work in the last fiscal year, including 6,46,062 to Saudi Arabia, 89,023 to Qatar, 75,041 to Singapore, 42,130 to the Maldives and 39,875 to Kuwait.",
+  "target_section": "CROSS-COUNTRY: Which countries can I go to for work right now?",
+  "placement": "numbers",
+  "why_new": "Official departure totals by country for the last fiscal year; not in the cross-country doc.",
+  "published": "2026-09-03"
+ },
+ {
+  "key": "SA3g-8",
+  "fact_ids": [
+   "CQ0199",
+   "CQ0200"
+  ],
+  "claim": "According to Wage Earners' Welfare Board data cited in a Prothom Alo column (17 October 2026), 395 migrant workers, 11 of them women, received legal aid through Bangladesh missions abroad in the 2024-25 financial year; in September 2026 parliament was told legal-aid agreements had been made with 22 law firms in 13 countries.",
+  "target_section": "CROSS-COUNTRY: Who can I call for help while abroad?",
+  "placement": "other: legal aid through missions",
+  "why_new": "Not Saudi-specific; shows the scale of mission legal aid. Saudi guide's arrested section asks what legal help the embassy gives in practice.",
+  "published": "2026-10-17"
+ },
+ {
+  "key": "SA3b-8",
+  "fact_ids": [
+   "CQ0109"
+  ],
+  "claim": "On 11 November 2024 the chief adviser of the interim government opened a lounge for migrants at the airport.",
+  "target_section": "CROSS-COUNTRY: Who helps me at the airport?",
+  "placement": "other: history",
+  "why_new": "Opening date of the migrants' lounge; the Saudi guide (Coming home, At Dhaka airport) describes the Probashi Lounge but not when it opened.",
+  "published": "2024-11-17"
+ },
+ {
+  "key": "MY3e-10",
+  "fact_ids": [
+   "CQ0221"
+  ],
+  "claim": "The Ministry's August 2025 report said a 'Probashi Lounge and Waiting Lounge' had been set up at Hazrat Shahjalal International Airport, with healthy food at a 30% discount.",
+  "target_section": "CROSS-COUNTRY: Who helps me at the airport?",
+  "placement": "other",
+  "why_new": "Airport service for all migrants; not in the cross-country doc as far as checked.",
+  "published": "2025-08-20"
+ },
+ {
+  "key": "SA3d-53",
+  "fact_ids": [
+   "CQ0135"
+  ],
+  "claim": "BRAC's Shariful Hasan said in December 2025 that there is no clear gender-sensitive SOP at the airport for a dignified return, and that immigration or police often do not treat women returning with abuse and trauma humanely.",
+  "target_section": "CROSS-COUNTRY: Who helps me at the airport?",
+  "placement": "other: women returnees",
+  "why_new": "What women returnees meet at the airport in practice; not in cross-country doc.",
+  "published": "2026-01-12"
+ },
+ {
+  "key": "MY3c-49",
+  "fact_ids": [
+   "CQ0073",
+   "CQ0074"
+  ],
+  "claim": "BAIRA members' memorandum of 5 February 2025 said that every year a syndicate hoards air tickets and sells each at double the price or more, ruining poor outgoing workers, and asked for action against it and for a labour fair for migrant workers.",
+  "target_section": "CROSS-COUNTRY: Who pays for the air ticket?",
+  "placement": "other: ticket hoarding",
+  "why_new": "Cross-country ticket-hoarding allegation; the Saudi attestation point in the same memorandum belongs to the Saudi guide.",
+  "published": "2025-02-05"
+ },
+ {
+  "key": "SA3b-56",
+  "fact_ids": [
+   "CQ0113"
+  ],
+  "claim": "BAIRA leaders alleged in a memorandum on 5 February 2025 that every year a syndicate hoards air tickets and sells each at double the price or more, ruining poor outgoing workers.",
+  "target_section": "CROSS-COUNTRY: Who pays for the air ticket?",
+  "placement": "other: ticket syndicate",
+  "why_new": "Ticket hoarding not in either guide; applies to Gulf routes generally.",
+  "published": "2025-02-05"
+ },
+ {
+  "key": "MY3c-59",
+  "fact_ids": [
+   "CQ0088",
+   "CQ0089",
+   "CQ0090"
+  ],
+  "claim": "In February 2025 the civil aviation and tourism ministry issued 10 directives against abnormal ticket prices, requiring tickets to be sold at the Civil Aviation Authority's approved price list and discounted tickets to be given to migrant workers, and Biman's managing director, Md Safiqur Rahman, said in April 2025 that Biman was giving workers discounted tickets.",
+  "target_section": "CROSS-COUNTRY: Who pays for the air ticket?",
+  "placement": "other: fares and government rules",
+  "why_new": "Cross-country: a worker-ticket discount rule the cross-country FAQ on air tickets doesn't mention.",
+  "published": "2025-04-09"
+ },
+ {
+  "key": "MY3c-60",
+  "fact_ids": [
+   "CQ0091",
+   "CQ0092",
+   "CQ0093"
+  ],
+  "claim": "Ticket agencies said in April 2025 that under the previous government a ring formed around ticket sales in which Biman held back cheap tickets and released dear ones and the ring resold cheap tickets at high prices, and aviation expert Kazi Wahidul Alam said a Tk 1 lakh ticket abroad carries Tk 40,000 in government taxes.",
+  "target_section": "CROSS-COUNTRY: Who pays for the air ticket?",
+  "placement": "other: fares and government rules",
+  "why_new": "Cross-country context on why worker fares are high; low priority.",
+  "published": "2025-04-09"
+ },
+ {
+  "key": "SA3e-57",
+  "fact_ids": [
+   "CQ0218"
+  ],
+  "claim": "Biman's T-class fares announced in parliament on 18 June 2026 also cut Dhaka-Doha from Tk 53,000 to Tk 46,000, Dhaka-Muscat from Tk 39,000 to Tk 30,000 and Dhaka-Kuala Lumpur from Tk 28,000 to Tk 21,000.",
+  "target_section": "CROSS-COUNTRY: Who pays for the air ticket?",
+  "placement": "other: fares",
+  "why_new": "Cross-country fare reference.",
+  "published": "2026-06-18"
+ }
+]

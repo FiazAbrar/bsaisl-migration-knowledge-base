@@ -1,0 +1,407 @@
+[
+ {
+  "key": "C01",
+  "article_id": "e32ac903-6816-4f2f-baa2-a026a5466b00",
+  "verdict": "partly",
+  "problem": "Stated as fact, but the article gives it as the complainant's allegation at a press conference; the accused says the dealing was BDT 16 lakh, not 60 lakh. BDT 10 lakh per visa was the agreed price. The article does not say how many passports came back by courier.",
+  "corrected_claim": "A man from Osmaninagar, Sylhet, alleged at a press conference on 11 February 2025 that Syed Ubaydur Rahman agreed in early 2022 to arrange six UK work permit visas for BDT 10 lakh each, some months later sent photos of the visas on WhatsApp, and then sent the passport back by courier with no visa in it.",
+  "quotes": [
+   "সংবাদ সম্মেলনে লিখিত বক্তব্যে এস কে আজাদ অভিযোগ করেন, যুক্তরাজ্যের ছয়টি ওয়ার্ক পারমিট ভিসার ব্যবস্থা করে দিতে ২০২২ সালের শুরুর দিকে এস কে আজাদের সঙ্গে উবায়দুর রহমানের ১০ লাখ টাকা করে মোট ৬০ লাখ টাকার চুক্তি হয়।",
+   "এর কয়েক মাস পর উবায়দুর ভিসা পেয়েছেন জানিয়ে হোয়াটসঅ্যাপে ভিসার ছবি পাঠান।",
+   "এরপর তাঁর হাতে ভিসাসংবলিত পাসপোর্ট তুলে দেওয়ার কথা থাকলেও তিনি কুরিয়ার সার্ভিসে পাসপোর্ট পাঠান। কিন্তু পাসপোর্টে কোনো ভিসা ছিল না।"
+  ]
+ },
+ {
+  "key": "C02",
+  "article_id": "e32ac903-6816-4f2f-baa2-a026a5466b00",
+  "verdict": "partly",
+  "problem": "Stated as fact, but it is the complainant's account; the accused says he returned BDT 4 lakh through arbitration. The bank's 'not enough money in the account' reply is dated 10 December, after the cheques had already been dishonoured once.",
+  "corrected_claim": "The complainant in a Sylhet UK-visa case said that, after mediation by local people, Syed Ubaydur Rahman gave six cheques of BDT 2 lakh each on 21 July 2024, that the cheques were dishonoured, and that on 10 December the bank again said the account did not have enough money.",
+  "quotes": [
+   "এলাকাবাসীর মধ্যস্থতায় একপর্যায়ে গত বছরের ২১ জুলাই তিনি ২ লাখ টাকা করে ৬টি চেক দেন।",
+   "কিন্তু চেকগুলো ডিজঅনার হলে আবারও মধ্যস্থতাকারীদের সহায়তায় তাঁর সঙ্গে যোগাযোগ করলে তিনি আশ্বাস দেন, ৯ ডিসেম্বর চেকগুলো ক্যাশ হবে। কিন্তু ১০ ডিসেম্বর আবারও ব্যাংক কর্তৃপক্ষ জানায়, অ্যাকাউন্টে পর্যাপ্ত টাকা নেই।"
+  ]
+ },
+ {
+  "key": "C03",
+  "article_id": "e32ac903-6816-4f2f-baa2-a026a5466b00",
+  "verdict": "partly",
+  "problem": "The article quotes one person, the complainant S K Azad Amin, not several victims.",
+  "corrected_claim": "The complainant in a Sylhet UK work-permit visa fraud case, speaking on 11 February 2025, said the accused, Syed Ubaydur Rahman, had sent his own two sisters to England.",
+  "quotes": [
+   "এস কে আজাদ আমীন বলেন, অনেকের সঙ্গে একই ধরনের প্রতারণা ও জালিয়াতি করে উবায়দুর রহমান। তিনি তাঁর দুই বোনকে ইংল্যান্ড পাঠিয়েছেন।"
+  ]
+ },
+ {
+  "key": "C04",
+  "article_id": "a57338e6-16b2-4a34-bc65-07857cd7d4d4",
+  "verdict": "partly",
+  "problem": "Stated as fact, but it is what the complainants' lawyer told the court.",
+  "corrected_claim": "The complainants' lawyer told a Dhaka court on 15 July 2025 that the cheques Khairul Bashar, chairman of BSB Global Network, a firm that promised to send students abroad for higher education, gave in the name of refunds were repeatedly rejected by the bank.",
+  "quotes": [
+   "এ পর্যায়ে বাদীপক্ষের আইনজীবী জামাল উদ্দিন খন্দকার আদালতকে বলেন, ‘এই খায়রুল বাশার কানাডা, অস্ট্রেলিয়াসহ অন্যান্য দেশে উচ্চশিক্ষার জন্য পাঠানোর নাম করে এক হাজার শিক্ষার্থীর কাছ থেকে অন্তত চার হাজার কোটি টাকা হাতিয়ে নিয়েছেন।",
+   "টাকা ফেরত দেওয়ার নাম করে যেসব চেক তিনি দিয়েছিলেন, সেগুলো ব্যাংক থেকে বারবারই প্রত্যাখাত হয়েছে।"
+  ]
+ },
+ {
+  "key": "C05",
+  "article_id": "a57338e6-16b2-4a34-bc65-07857cd7d4d4",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The complainants' lawyer showed the court photos of the firm's chairman with the former prime minister and ministers",
+  "quotes": [
+   "একই সঙ্গে ক্ষমতাচ্যুত শেখ হাসিনা ও তাঁর মন্ত্রিসভার সদস্যদের সঙ্গে খায়রুল বাশারের ছবিও আদালতের কাছে তুলে ধরেন তিনি।",
+   "এ পর্যায়ে বাদীপক্ষের আইনজীবী জামাল উদ্দিন খন্দকার আদালতকে বলেন"
+  ]
+ },
+ {
+  "key": "C06",
+  "article_id": "6bda4e5b-3402-4810-9a92-629cad7bbd5f",
+  "verdict": "partly",
+  "problem": "Stated as fact, but it comes from the victims' written complaints to police; the article gives it as an allegation.",
+  "corrected_claim": "According to complaints filed with police in Jashore and Natore in September 2025, Mizanur Rahman took BDT 58 lakh from four men from Jashore to send them to Canada on worker visas, wound up his Jashore office and opened a new office named Euro Visa Help Center BD in Natore Sadar.",
+  "quotes": [
+   "বৈধ পথে শ্রমিক ভিসায় কানাডায় পাঠাতে আমাদের চারজনের কাছ থেকে মোট ৫৮ লাখ টাকা হাতিয়ে নিয়ে যশোর থেকে পালিয়ে নাটোর সদর উপজেলার বড় হরিশপুর এলাকায় ইউরো ভিসা হেল্প সেন্টার বিডি নামের একটি নতুন অফিস খুলেছেন মিজানুর রহমান।",
+   "মিজানুর সেই টাকা নিয়ে যশোরের কার্যালয় গুটিয়ে নাটোরে গিয়ে নতুন কার্যালয় খুলেছেন।"
+  ]
+ },
+ {
+  "key": "C07",
+  "article_id": "6bda4e5b-3402-4810-9a92-629cad7bbd5f",
+  "verdict": "partly",
+  "problem": "The BDT 15 lakh figure is the victim's own claim in the article, not an established fact.",
+  "corrected_claim": "One complainant, Naimul Haque of Jashore, says he handed Mizanur Rahman a total of BDT 15 lakh for the Canada visa process, from selling his mother's land and a loan from an NGO.",
+  "quotes": [
+   "তাঁর দাবি, ভিসা–প্রক্রিয়ার জন্য মায়ের জমি বিক্রি ও বেসরকারি উন্নয়ন সংস্থা থেকে নেওয়া ঋণের মোট ১৫ লাখ টাকা তুলে দেন মিজানুরের হাতে।"
+  ]
+ },
+ {
+  "key": "C08",
+  "article_id": "4ff8172a-d27f-476d-9747-51fc5508c5ea",
+  "verdict": "partly",
+  "problem": "Stated as fact, but the article gives it as what the case complaint says. The year 2026 is inferred from the publication date (the article says 'last 5 July').",
+  "corrected_claim": "According to the case against VisaGuide, a firm that promised to send people abroad on student visas, victims went to its office on 5 July 2026 and found the office had been moved away from there.",
+  "quotes": [
+   "গত ৫ জুলাই ভুক্তভোগীরা প্রতিষ্ঠানের কার্যালয়ে গিয়ে দেখেন, অফিসটি সেখান থেকে সরিয়ে নেওয়া হয়েছে।",
+   "মামলার অভিযোগে বলা হয়েছে, ভিসাগাইড নামে একটি প্রতিষ্ঠানের মাধ্যমে স্টুডেন্ট ভিসায় বিদেশে পাঠানোর আশ্বাস দিয়ে বাদী জারিন তাসনীমসহ অন্তত ৩৬ জনের কাছ থেকে প্রায় ৩ কোটি ১০ লাখ ৫০ হাজার টাকা নেওয়া হয়।"
+  ]
+ },
+ {
+  "key": "C09",
+  "article_id": "4ff8172a-d27f-476d-9747-51fc5508c5ea",
+  "verdict": "partly",
+  "problem": "Stated as fact, but the article gives it as what the case complaint says.",
+  "corrected_claim": "According to the case against VisaGuide, a firm that promised to send people abroad on student visas, victims were given cheques and receipts after paying, but no one was sent abroad in the agreed time and the money was not returned.",
+  "quotes": [
+   "টাকা নেওয়ার পর ভুক্তভোগীদের চেক ও রসিদ দেওয়া হলেও নির্ধারিত সময়ের মধ্যে কাউকে বিদেশে পাঠানো হয়নি এবং অর্থও ফেরত দেওয়া হয়নি।",
+   "মামলার অভিযোগে বলা হয়েছে, ভিসাগাইড নামে একটি প্রতিষ্ঠানের মাধ্যমে স্টুডেন্ট ভিসায় বিদেশে পাঠানোর আশ্বাস দিয়ে বাদী জারিন তাসনীমসহ অন্তত ৩৬ জনের কাছ থেকে প্রায় ৩ কোটি ১০ লাখ ৫০ হাজার টাকা নেওয়া হয়।"
+  ]
+ },
+ {
+  "key": "C10",
+  "article_id": "0682bffb-0e99-4ded-9730-13b5519a651c",
+  "verdict": "partly",
+  "problem": "Stated as fact, but the article gives it as what the case petition says.",
+  "corrected_claim": "According to a case petition reported on 13 November 2024, Abul Hossain of Hijla, Barishal, made a BDT 350,000 deal with his neighbour Helal Uddin for a well-paid job in Dubai, paid BDT 200,000 in 2021, and was to pay the balance after getting the visa.",
+  "quotes": [
+   "মামলার আরজিতে বলা হয়, হিজলা উপজেলার গুয়াবাড়িয়া ইউনিয়নের বাসিন্দা আবুল হোসেনের প্রতিবেশী হেলাল উদ্দিন তাঁকে (আবুল) দুবাইয়ে ভালো বেতনের চাকরি দেওয়ার প্রলোভন দেখান।",
+   "এ জন্য তাঁর সঙ্গে সাড়ে তিন লাখ টাকায় দুবাই নেওয়ার চুক্তি করেন। ২০২১ সালে আবুল হোসেন দুই লাখ টাকা দিয়ে হেলাল উদ্দীনের মাধ্যমে বিদেশ যাওয়ার প্রস্তুতি নেন। ভিসা পাওয়ার পর বাকি টাকা পরিশোধের শর্তে তাঁদের মধ্যে চুক্তি হয়।"
+  ]
+ },
+ {
+  "key": "C11",
+  "article_id": "0682bffb-0e99-4ded-9730-13b5519a651c",
+  "verdict": "partly",
+  "problem": "Stated as fact, but the article gives it as what the case petition says.",
+  "corrected_claim": "According to a case petition reported on 13 November 2024, Abul Hossain of Hijla, Barishal, was sent to Dubai in February 2021 on a seven-day tourist visa, was held there by a local broker ring that demanded BDT 100,000, and was later sent back to Bangladesh by Dubai police for entering Dubai illegally.",
+  "quotes": [
+   "কিন্তু ২০২১ সালের ফেব্রুয়ারি মাসে হেলাল ও তাঁর সহযোগীরা আবুল হোসেনকে প্রতারণা করে সাত দিনের ট্যুরিস্ট ভিসায় দুবাই পাঠান।",
+   "দুবাই পৌঁছানোর পর আবুল হোসেনকে স্থানীয় দালাল চক্র আটকে রেখে তাঁর কাছে এক লাখ টাকা চাঁদা দাবি করে।",
+   "পরে দুবাই পুলিশ অবৈধভাবে দুবাইতে প্রবেশ করায় আবুল হোসেনকে দেশে ফেরত পাঠায়।"
+  ]
+ },
+ {
+  "key": "C12",
+  "article_id": "0682bffb-0e99-4ded-9730-13b5519a651c",
+  "verdict": "partly",
+  "problem": "Stated as fact, but the article gives it as what the case petition says; the amount demanded was BDT 400,000.",
+  "corrected_claim": "According to a case petition reported on 13 November 2024, when Abul Hossain of Hijla, Barishal, contacted the accused to get his money back after being returned from Dubai, they demanded another BDT 400,000 to send him to Kyrgyzstan.",
+  "quotes": [
+   "আরজিতে আরও বলা হয়, দেশে ফিরে টাকা ফেরত পেতে আবুল হোসেন আসামিদের সঙ্গে যোগাযোগ করলে তাঁরা আবুলকে কিরগিজস্তানে পাঠানোর জন্য আবার চার লাখ টাকা দাবি করেন।"
+  ]
+ },
+ {
+  "key": "C13",
+  "article_id": "83f25420-4f36-4e0b-a3d6-a62b95f31218",
+  "verdict": "partly",
+  "problem": "The article says a 'financial agreement', not a written one, and that it was made with the accused persons (she was taken to a travel agency in Gulshan 1); it is the account in the case statement.",
+  "corrected_claim": "According to the case statement reported on 21 July 2026, a woman whose husband lives in Italy was taken to a travel agency in Gulshan 1, Dhaka, where the accused promised her an Italy visa and made a financial agreement with her that said the full money was to be paid after the visa was issued.",
+  "quotes": [
+   "এজাহারে আরও বলা হয়েছে, অভিযুক্ত ব্যক্তিরা ইতালির ভিসা করে দেওয়ার আশ্বাস দিয়ে ভুক্তভোগীর সঙ্গে আর্থিক চুক্তি করেন। চুক্তিতে ভিসা হওয়ার পর সম্পূর্ণ টাকা পরিশোধ করতে বলা হয়।",
+   "মামলার এজাহারের তথ্য অনুযায়ী, ভুক্তভোগী নারীর স্বামী দীর্ঘদিন ধরে ইতালিতে বসবাস করেন।",
+   "নাজমুল নিজেকে দ্রুত পাসপোর্ট নবায়ন ও ইতালির ভিসা করে দিতে সক্ষম ব্যক্তি পরিচয় দিয়ে তাঁকে গুলশান ১ এলাকার একটি ট্রাভেল এজেন্সিতে নিয়ে যান।"
+  ]
+ },
+ {
+  "key": "C14",
+  "article_id": "83f25420-4f36-4e0b-a3d6-a62b95f31218",
+  "verdict": "partly",
+  "problem": "The article does not call the visa 'real'; it says the visa was issued and she collected her passport from the embassy. The airport account is attributed to CID. The year of 24 April is not stated (other dates in the article are 'this year', 2026).",
+  "corrected_claim": "CID said that after an Italy visa was issued and the woman collected her passport from the embassy, immigration officers at Dhaka airport told her that another woman had already gone to Italy on 24 April using the Italy visa in her passport.",
+  "quotes": [
+   "নির্ধারিত দিনে তিনি সন্তানদের নিয়ে ঢাকার বিমানবন্দরে ইমিগ্রেশনে গেলে কর্মকর্তারা জানান, তাঁর পাসপোর্টে থাকা ইতালির ভিসা ব্যবহার করে ২৪ এপ্রিলই অন্য আরেক নারী ইতালি চলে গেছেন।",
+   "ভিসা হওয়ার পর ওই নারী দূতাবাস থেকে পাসপোর্ট সংগ্রহ করলে নাজমুল তাঁর কাছ থেকে চুক্তির টাকা দাবি করেন।"
+  ]
+ },
+ {
+  "key": "C15",
+  "article_id": "83f25420-4f36-4e0b-a3d6-a62b95f31218",
+  "verdict": "partly",
+  "problem": "The article says she met the accused Nazmul Hasan when she went to collect her passport from the embassy; it does not say 'outside' the embassy and does not call him a tout. It is the account in the case statement.",
+  "corrected_claim": "According to the case statement reported on 21 July 2026, the woman met the accused Nazmul Hasan when she went to collect her passport from the Italian embassy for renewal, and he presented himself as someone who could get passports renewed quickly and get Italy visas.",
+  "quotes": [
+   "নবায়নের জন্য দূতাবাস থেকে পাসপোর্ট সংগ্রহ করতে গেলে আসামি নাজমুল হাসানের সঙ্গে তাঁর পরিচয় হয়।",
+   "নাজমুল নিজেকে দ্রুত পাসপোর্ট নবায়ন ও ইতালির ভিসা করে দিতে সক্ষম ব্যক্তি পরিচয় দিয়ে তাঁকে গুলশান ১ এলাকার একটি ট্রাভেল এজেন্সিতে নিয়ে যান।",
+   "চার সন্তানকে নিয়ে ইতালিতে যাওয়ার আশায় তিনি ইতালির দূতাবাসে প্রয়োজনীয় কাগজপত্র ও পাসপোর্ট জমা দেন।"
+  ]
+ },
+ {
+  "key": "C16",
+  "article_id": "83f25420-4f36-4e0b-a3d6-a62b95f31218",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "CID seized 56 passports and 153 seals from the ring",
+  "quotes": [
+   "সিআইডি আরও জানায়, অভিযানে গ্রেপ্তার ব্যক্তিদের কাছ থেকে বিভিন্ন ব্যক্তির নামে থাকা ৫৬টি পাসপোর্ট, সরকারি-বেসরকারি ও বিদেশি বিভিন্ন প্রতিষ্ঠানের নামে ব্যবহৃত ১৫৩টি সিল, ৩টি সিপিইউ, ১টি ল্যাপটপ, ১টি এম্বোস সিল এবং আড়াই লাখ টাকা জব্দ করা হয়েছে।"
+  ]
+ },
+ {
+  "key": "C17",
+  "article_id": "96f1f01d-1f91-4487-a6fe-16331d9bba45",
+  "verdict": "partly",
+  "problem": "The only source is the accused man's sister-in-law, who said this while denying that he is a broker; relatives of the dead allege he is a trafficking-ring member. The article says 'many in the area', not a village.",
+  "corrected_claim": "The sister-in-law of Lokman Sardar of Char Bajitpur, Madaripur, whom relatives of two dead migrants accuse of trafficking, said in November 2025 that he is not a broker and that many people in the area came to him after his two sons went to Italy.",
+  "quotes": [
+   "লোকমানের ভাবি ঝর্ণা আক্তার বলেন, ‘আমার ভাশুর কোনো দালাল নন। তাঁর দুই ছেলে ইতালি যাওয়ার পর এলাকার অনেকেই তাঁর কাছে আসেন।",
+   "স্বজনদের অভিযোগ, মাদারীপুর সদরের চর বাজিতপুর গ্রামের বাসিন্দা ও মানব পাচারকারী চক্রের সদস্য লোকমান সরদার নানা প্রলোভন দেখিয়ে ওই দুজনের পরিবারের কাছ থেকে ৩০ লাখ টাকা হাতিয়ে নেন।"
+  ]
+ },
+ {
+  "key": "C18",
+  "article_id": "96f1f01d-1f91-4487-a6fe-16331d9bba45",
+  "verdict": "partly",
+  "problem": "Relatives allege BDT 30 lakh was taken from the two men's families (each family says BDT 15 lakh), not that the men paid; the ship promise is the relatives' allegation. The boat carried fifty people including the two. The year 2025 is from the publication date.",
+  "corrected_claim": "Relatives allege that Lokman Sardar of Char Bajitpur, Madaripur, took BDT 30 lakh from the families of two men and told them they would cross the Mediterranean by ship, but they were put on a small engine boat; the boat left the Libyan coast on 14 October 2025 with fifty people, and the two died of cold at sea on 21 October.",
+  "quotes": [
+   "স্বজনদের অভিযোগ, মাদারীপুর সদরের চর বাজিতপুর গ্রামের বাসিন্দা ও মানব পাচারকারী চক্রের সদস্য লোকমান সরদার নানা প্রলোভন দেখিয়ে ওই দুজনের পরিবারের কাছ থেকে ৩০ লাখ টাকা হাতিয়ে নেন। টাকা নেওয়ার আগে তাঁদের জাহাজে ভূমধ্যসাগর পাড়ি দেওয়ার কথা বলা হয়েছিল। কিন্তু তাঁদের ছোট্ট একটি ইঞ্জিনচালিত নৌকায় ওঠানো হয়।",
+   "লিবিয়ার উপকূল থেকে ইতালি যেতে গত ১৪ অক্টোবর ইঞ্জিনচালিত একটি নৌকায় ওঠেন জাফর-সিরাজুলসহ অর্ধশত ব্যক্তি।",
+   "এক সপ্তাহ পর ২১ অক্টোবর তীব্র শীতে ঠান্ডায় জমে সাগরেই জাফর, সিরাজুলসহ কয়েকজনের মৃত্যু হয়।"
+  ]
+ },
+ {
+  "key": "C19",
+  "article_id": "96f1f01d-1f91-4487-a6fe-16331d9bba45",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The families were told 21 days later; before that the broker had said the men were alive",
+  "quotes": [
+   "মঙ্গলবার রাতে জানতে পারি, আমার ভাই আরও ২১ দিন আগে মারা গেছে।",
+   "আর দালাল লোকমান বলেছিল, ওরা জীবিত আছে।"
+  ]
+ },
+ {
+  "key": "C20",
+  "article_id": "b9949e61-75cd-463f-a05d-1ba33ec223f6",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "A Madaripur broker was known locally for having sent more than 300 young men to Italy through Libya",
+  "quotes": [
+   "স্থানীয় বাসিন্দারা জানান, কালকিনি ও ডাসার উপজেলা থেকে অন্তত তিন শতাধিক যুবককে লিবিয়া হয়ে ইতালিতে পাঠিয়েছেন হাবিব।",
+   "খোঁজ নিয়ে জানা যায়, হাবিব মাস্টার ওরফে হাবিবুর রহমান খন্দকারের বাড়ি ডাসার উপজেলার গোপালপুর এলাকায়।"
+  ]
+ },
+ {
+  "key": "C21",
+  "article_id": "2ade7362-a0af-4076-83a5-2c37d7bee67d",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Locals said a Libya-based broker from Adityapur, Madaripur, had sent over 50 young men from the village to Italy in one year",
+  "quotes": [
+   "তাঁদের দাবি, এক বছরে আদিত্যপুর এলাকা থেকে ৫০ জনের বেশি যুবককে ইতালি পাঠিয়েছেন।",
+   "স্থানীয় বাসিন্দারা জানান, শিপন খানের বাড়ি একই এলাকায়। তিনি ১০ বছর ধরে লিবিয়াপ্রবাসী।",
+   "ইমরান মাদারীপুর সদর উপজেলার কুনিয়া ইউনিয়নের আদিত্যপুর গ্রামের মো. তৈয়ব আলী খানের ছেলে।"
+  ]
+ },
+ {
+  "key": "C22",
+  "article_id": "0db28d5f-8235-4bc9-a4c2-7dae82cdbddf",
+  "verdict": "partly",
+  "problem": "Stated as fact, but these are villagers' allegations; the chairman says he took nothing directly and that BDT 50,000 each was taken from 30-40 people through members. The three who paid BDT 100,000 each say they paid the chairman directly; the one who paid through a union parishad member says BDT 72,000. The article says six months have passed, not 'more than six months'.",
+  "corrected_claim": "In Kalia union, Sakhipur, Tangail, three villagers told Prothom Alo in May 2024 that they each gave BDT 100,000 directly to the union parishad chairman, and a fourth said he gave BDT 72,000 through a union parishad member; they said that six months on the chairman had given neither a visa nor a refund.",
+  "quotes": [
+   "কালিয়া ইউনিয়নের ৬ নম্বর ওয়ার্ডের কচুয়া গ্রামের মেহেদী হাসান, আমজাদ হোসেন, সাকিব মিয়া—তাঁরা তিনজনই চেয়ারম্যানের কাছে সরাসরি জনপ্রতি এক লাখ করে টাকা দিয়েছেন বলে প্রথম আলোর কাছে অভিযোগ করেছেন।",
+   "একই গ্রামের আবদুল আলিম একজন ইউপি সদস্যের মাধ্যমে চেয়ারম্যানের হাতে ৭২ হাজার টাকা দিয়েছেন বলে অভিযোগ করেন।",
+   "ছয় মাস পার হলেও চেয়ারম্যান ভিসা দিচ্ছেন না, এমনকি টাকাও ফেরত দিচ্ছেন না বলে তাঁরা জানান।"
+  ]
+ },
+ {
+  "key": "C23",
+  "article_id": "40a96e3a-8cb3-407b-b60a-6ce9e77d641f",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Two Madaripur brothers who drowned off Tunisia had been sent by a man who is the local union parishad chairman, according to the family; he denies it",
+  "quotes": [
+   "ফরহাদ চেয়ারম্যানের কথায় আমার দুই ছেলেকে তার হাতে অনেক আশা নিয়ে দিয়েছিলাম।",
+   "তিউনিসিয়ার উপকূলের কাছাকাছি আসার পর ইঞ্জিন বিস্ফোরণ হয়ে নৌকাটি সাগরে ডুবে যায়।",
+   "আর আমি যে মানব পাচার করি, তার কি কোনো প্রমাণ আছে? যারা বলে তারা ভুয়া কথা বলে।"
+  ]
+ },
+ {
+  "key": "C24",
+  "article_id": "40a96e3a-8cb3-407b-b60a-6ce9e77d641f",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The brokers kept telling the family the brothers were alive and avoided letting them speak by phone; a relative in Italy told the parents about four months later",
+  "quotes": [
+   "নিখোঁজ থাকলেও দালালদের পক্ষ থেকে স্বজনদের জানানো হয়, তাঁরা জীবিত আছেন। তবে মুঠোফোনে কথা বলার জন্য বারবার অনুরোধ করা হলেও দালালরা নানা কৌশলে বিষয়টি এড়িয়ে যেতে থাকেন।",
+   "সর্বশেষ মঙ্গলবার রাতে ইতালিতে থাকা তাঁদের স্বজন মো. ইসরাফিলের মাধ্যমে মিলন মুনশি ও আল-আমিন মুনশির মারা যাওয়ার কথা তাঁর মা–বাবা জানতে পারেন।",
+   "এ ঘটনা চার মাস আগের। তাঁদের মৃত্যুর খবর গতকাল মঙ্গলবার পৌঁছে তাঁদের বাবা–মায়ের কাছে।"
+  ]
+ },
+ {
+  "key": "C25",
+  "article_id": "fb73f4f5-8952-4dbe-8f8e-4cdc65e97853",
+  "verdict": "partly",
+  "problem": "The family is from Jagannathpur, Sunamganj, not Sylhet (the case was filed in Sylhet and the main accused lives in Sylhet city). Everything is the father's allegation in the case. The main accused is the labour affairs secretary of the Kalkalia union Awami League. The father told Prothom Alo he paid about BDT 25 lakh in all; that figure is in the article but is left out of the corrected sentence only to stay within three quotes.",
+  "corrected_claim": "The father of a young man from Jagannathpur, Sunamganj, alleges in a case filed in Sylhet in December 2024 that he made a verbal agreement on 15 August 2018 to send his son to Spain for BDT 15 lakh through Foysal Mia, who is the labour affairs secretary of a union Awami League unit, and that the son was instead sent to Libya, where ring members tortured him and threatened to kill him unless more money was paid.",
+  "quotes": [
+   "আবুল হক মামলায় অভিযোগ করেন, তাঁর ছেলেকে তিনি ফয়সলের মাধ্যমে ১৫ লাখ টাকায় স্পেন পাঠানোর জন্য ২০১৮ সালের ১৫ আগস্ট মৌখিক চুক্তি করেন।",
+   "পরে তাঁর ছেলেকে স্পেনে না পাঠিয়ে কৌশলে আসামিরা লিবিয়ায় পাঠান। সেখানে থাকা পাচার চক্রের সদস্য তাঁর ছেলের ওপর অত্যাচার-নির্যাতন চালাতেন। আরও টাকা না পেলে তাঁকে হত্যা করার হুমকিও দেন চক্রের সদস্যরা।",
+   "তিনি জগন্নাথপুরের কলকলিয়া ইউনিয়ন আওয়ামী লীগের শ্রমবিষয়ক সম্পাদক।"
+  ]
+ },
+ {
+  "key": "C26",
+  "article_id": "f8177ea6-a79f-4687-8390-99f6ed5e98e0",
+  "verdict": "partly",
+  "problem": "Stated as fact, but these are the families' allegations. The article says local people took the money and the men were then sent through RS International; it does not say the local figures were 'working with' the agency. Of the three people named, two are Jamaat-e-Islami office-holders and one is an employee of one of them.",
+  "corrected_claim": "Families of four young men from Patgram, Lalmonirhat, say local people took BDT 900,000 from each of them for good jobs in Russia and that the men were sent to Moscow on 8 May 2026 through RS International, a recruiting agency in Uttara, Dhaka; a sister of one of the men alleged that two local Jamaat-e-Islami office-holders and an employee of one of them took the money.",
+  "quotes": [
+   "পরিবারের সদস্যদের ভাষ্য, স্থানীয় কয়েকজন ব্যক্তি রাশিয়ায় ভালো চাকরির প্রলোভন দেখিয়ে প্রত্যেকের কাছ থেকে ৯ লাখ টাকা নেন। পরে আরএস ইন্টারন্যাশনালের মাধ্যমে গত ৮ মে বাহরাইন হয়ে তাঁদের মস্কোতে পাঠানো হয়।",
+   "সেখানে নাজমুলের বোন আইরিন আখতার অভিযোগ করেন, জামায়াতে ইসলামীর পাটগ্রাম উপজেলা যুব বিভাগের সভাপতি মো. ইউনুস আলী, পৌর শাখার আমির মো. সোহেল রানা এবং তাঁর কর্মচারী মাহিন বিদেশে চাকরির কথা বলে চারজনের কাছ থেকে মোট ৩৬ লাখ টাকা নেন।",
+   "ঢাকার উত্তরার আরএস ইন্টারন্যাশনাল নামের রিক্রুটিং এজেন্সি পোশাক কারখানা ও আইটি ফার্মে চাকরি দেওয়ার নামে তাঁদের রাশিয়ার এক ‘ভাড়াটে যুদ্ধ বাহিনীর’ কাছে বিক্রি করে দিয়েছে বলে অভিযোগ।"
+  ]
+ },
+ {
+  "key": "C27",
+  "article_id": "f8177ea6-a79f-4687-8390-99f6ed5e98e0",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The agency's office was found locked on 7 June 2026",
+  "quotes": [
+   "৭ জুন উত্তরার ১৫ নম্বর সেক্টরের আরএস ইন্টারন্যাশনালের ঢাকা অফিস বন্ধ পাওয়া যায়।",
+   "ঈদের ছুটির পর থেকে প্রতিষ্ঠানটি তালাবদ্ধ।"
+  ]
+ },
+ {
+  "key": "C28",
+  "article_id": "944ba611-6278-4964-95bf-8a46563de655",
+  "verdict": "partly",
+  "problem": "The article does not say the woman is from Rajbari; Rajbari is the home district of the accused, Md Rubel. The account is CID's, citing her case. The article says she met Rubel, who worked at the NGO, and was later 'sent' to Cambodia in August 2025.",
+  "corrected_claim": "CID, citing the woman's case, said in July 2026 that a woman who had taken a loan from a local NGO met Md Rubel, who worked at that NGO, that he helped her take a BDT 100,000 loan from the NGO because she could not afford the cost of going abroad, and that she was sent to Cambodia in August 2025.",
+  "quotes": [
+   "রুবেলের বিরুদ্ধে ভুক্তভোগীর করা মামলার বরাত দিয়ে সিআইডি জানায়, আর্থিক সংকটে থাকা ওই নারী স্থানীয় একটি বেসরকারি সংস্থা (এনজিও) থেকে ঋণ নিয়েছিলেন। ওই এনজিওতে কর্মরত রুবেলের সঙ্গে তাঁর পরিচয় হয়।",
+   "ভুক্তভোগীর আর্থিক সামর্থ্য না থাকায় এনজিও থেকে এক লাখ টাকা ঋণ নিতে সহায়তা করেন রুবেল।",
+   "মামলার ভাষ্য অনুযায়ী, পরে ২০২৫ সালের আগস্টে ওই নারীকে কম্বোডিয়ায় পাঠানো হয়।"
+  ]
+ },
+ {
+  "key": "C29",
+  "article_id": "944ba611-6278-4964-95bf-8a46563de655",
+  "verdict": "partly",
+  "problem": "Stated as fact, but the article gives it as the account in her case; it says other members of the ring took them by force.",
+  "corrected_claim": "According to the case filed by a woman sent to Cambodia in August 2025, after she arrived other members of the ring forcibly took her passport and the money she had with her.",
+  "quotes": [
+   "মামলার ভাষ্য অনুযায়ী, পরে ২০২৫ সালের আগস্টে ওই নারীকে কম্বোডিয়ায় পাঠানো হয়। সেখানে পৌঁছানোর পর চক্রের অন্য সদস্যরা তাঁর পাসপোর্ট ও সঙ্গে থাকা অর্থ জোর করে কেড়ে নেন।"
+  ]
+ },
+ {
+  "key": "C30",
+  "article_id": "a3140b9d-b9fa-4871-9487-420040697b5e",
+  "verdict": "partly",
+  "problem": "The appointment letters, visas and online interviews are victims' accounts. The article places the office on the second floor of a house in Sector 12, Uttara, and names the company on the letters as Colin Construction without describing its business.",
+  "corrected_claim": "Victims of S Alam Overseas, whose office was on the second floor of a house in Sector 12, Uttara, Dhaka, said in November 2026 that the agency gave them fake appointment letters from an Azerbaijan company named Colin Construction and visas, and had foreigners interview them online; everyone who submitted a passport was sent for a medical test at a medical centre in Banani.",
+  "quotes": [
+   "এস আলম ওভারসিজের অফিস ছিল উত্তরার ১২ নম্বর সেক্টরের ৪ নম্বর সড়কের ১৭ নম্বর বাড়ির (মা নিবাস) দ্বিতীয় তলায়।",
+   "ভুক্তভোগীদের কাছ থেকে চার ধাপে টাকা নেয় তারা এবং আজারবাইজানের কোলিন কনস্ট্রাকশন নামক একটি কোম্পানির ভুয়া নিয়োগপত্র দেওয়া হয়।\nভুক্তভোগীরা জানান, সবাইকে নিয়োগপত্র ও ভিসা দেওয়ার পর অক্টোবরের শেষ দিকে ফ্লাইট হবে, এমন আশ্বাস দিয়েছিল প্রতিষ্ঠানটি।",
+   "এজেন্সিটি বিদেশিদের দিয়ে তাঁদের অনলাইন সাক্ষাৎকারও নিয়েছিল। এত কিছুর ফলে বিশ্বাস না করে উপায় ছিল না।\nএস আলম ওভারসিজ নামক এই প্রতিষ্ঠানে যাঁরা পাসপোর্ট জমা দিয়েছিলেন, তাঁদের সবাইকে বনানী সানমুন মেডিকেল সেন্টার লিমিটেডের মাধ্যমে শারীরিক পরীক্ষা বা মেডিকেল টেস্ট করানো হয়।"
+  ]
+ },
+ {
+  "key": "C31",
+  "article_id": "a3140b9d-b9fa-4871-9487-420040697b5e",
+  "verdict": "partly",
+  "problem": "The BDT 80,000 to 350,000 range is what the 23 victims Prothom Alo spoke to claim; the article says the money was taken in four stages.",
+  "corrected_claim": "The 23 victims of S Alam Overseas, Uttara, whom Prothom Alo spoke to say they each paid the agency between BDT 80,000 and BDT 350,000, taken in four stages, and each person had to pay BDT 5,000 as the fee for a medical test.",
+  "quotes": [
+   "এস আলম ওভারসিজের প্রতারণার শিকার হওয়া ২৩ জনের সঙ্গে কথা বলেছে প্রথম আলো। তাঁদের দাবি, তাঁর সর্বনিম্ন ৮০ হাজার থেকে ৩ লাখ ৫০ হাজার টাকা পর্যন্ত এজেন্সিকে দিয়েছেন।",
+   "ভুক্তভোগীদের কাছ থেকে চার ধাপে টাকা নেয় তারা এবং আজারবাইজানের কোলিন কনস্ট্রাকশন নামক একটি কোম্পানির ভুয়া নিয়োগপত্র দেওয়া হয়।",
+   "এ জন্য ফি বাবদ ৫ হাজার করে টাকা দিতে হয়।"
+  ]
+ },
+ {
+  "key": "C32",
+  "article_id": "a3140b9d-b9fa-4871-9487-420040697b5e",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "On 23 October the receptionist phoned to say the company had closed; the appointment letters and visas were fake",
+  "quotes": [
+   "এরপর হঠাৎ গত ২৩ অক্টোবর প্রতিষ্ঠানের রিসিপশনিস্ট মিলি আক্তার সবাইকে ফোন দিয়ে জানান, প্রতিষ্ঠান বন্ধ হয়ে গেছে সবার পাসপোর্ট ফেরত দেওয়া হবে।",
+   "দুদিন পরে জানতে পারেন, তাঁকে দেওয়া নিয়োগপত্র ও ভিসা ভুয়া।"
+  ]
+ },
+ {
+  "key": "C33",
+  "article_id": "a3140b9d-b9fa-4871-9487-420040697b5e",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "About 200 people were cheated, according to the victims",
+  "quotes": [
+   "তারা এশিয়া ও ইউরোপের মধ্যবর্তী দেশ আজারবাইজানে চাকরি দেওয়ার কথা বলে প্রায় ২০০ জনের মতো মানুষের সঙ্গে প্রতারণা করেছে অভিযোগ ভুক্তভোগীদের।"
+  ]
+ },
+ {
+  "key": "C34",
+  "article_id": "b414d2d6-2c4f-4ea3-9044-a519e967fd87",
+  "verdict": "partly",
+  "problem": "The father and son are from Narayanganj and were arrested there; Wari is where their office was. The article says fake appointment letters and visas were seized from them, not that they were given to victims. All of it is the detective police's account.",
+  "corrected_claim": "Dhaka detective police (DB) said on 31 March 2024 that a father and son they had arrested told victims they held valid licences for four to five recruiting agencies when in fact they had none, and had victims take a medical test after they paid; DB said it seized fake appointment letters and visas from the two.",
+  "quotes": [
+   "সংবাদ সম্মেলনে ডিবি জানায়, কামরুল ও তাঁর ছেলে সিয়াম ভুক্তভোগীদের বলতেন, তাঁদের চার থেকে পাঁচটি রিক্রুটিং এজেন্সি প্রতিষ্ঠানের বৈধ লাইসেন্স রয়েছে। প্রকৃতপক্ষে তাঁদের কোনো লাইসেন্স নেই।",
+   "টাকা দেওয়ার পর তাঁদের স্বাস্থ্য পরীক্ষাও (মেডিকেল) করানো হয়।",
+   "তাঁদের কাছ থেকে চারটি মুঠোফোন, বিভিন্ন ভুয়া প্রতিষ্ঠানের ভিজিটিং কার্ড, প্যাড সিল, দুটি কম্পিউটার, বিদেশে পাঠানোর জন্য ভুয়া নিয়োগপত্র ও ভিসা জব্দ করা হয় বলে ডিবি জানিয়েছে।"
+  ]
+ },
+ {
+  "key": "C35",
+  "article_id": "73a52123-2221-429f-85bb-4be92b4ddef7",
+  "verdict": "partly",
+  "problem": "BDT 600,000 is the price the ring quoted for sending someone to Serbia; the article says the money was taken beforehand but does not state the amount actually taken. The account is the police's, from the arrested man's admission.",
+  "corrected_claim": "Police in Chattogram said on 22 November 2026 that an arrested ring member admitted the ring offered to send people to Serbia for BDT 600,000, took the money, and gave a visa to win their trust; the visa was forged, which immigration police at the airport caught.",
+  "quotes": [
+   "ওসি আরও বলেন, প্রাথমিক জিজ্ঞাসাবাদে গ্রেপ্তার মাবুদ স্বীকার করেছেন, ছয় লাখ টাকায় সার্বিয়া পাঠানোর কথা বলে তাঁরা লোকজনের কাছ থেকে পাসপোর্ট সংগ্রহ করেন। পাসপোর্ট নেওয়ার পর বিশ্বাস অর্জনের জন্য ভিসা দেন। এর আগেই টাকা নিয়ে নেন।",
+   "কিন্তু সেই ভিসা আসলে জাল। বিমানবন্দরে অভিবাসন পুলিশের যাচাইয়ে ধরা পড়ে প্রতারণার বিষয়টি।"
+  ]
+ },
+ {
+  "key": "C36",
+  "article_id": "73a52123-2221-429f-85bb-4be92b4ddef7",
+  "verdict": "partly",
+  "problem": "The article attributes this to the police, citing the arrested man's admission, and says ring members claimed the victim had some other problem.",
+  "corrected_claim": "Police in Chattogram said on 22 November 2026 that, when a forged Serbia visa was caught by immigration police at the airport, members of the ring claimed the victim had some other problem.",
+  "quotes": [
+   "জাল ভিসা বিমানবন্দরে পুলিশের অভিবাসন শাখায় ধরা পড়লে চক্রের সদস্যরা ভুক্তভোগীর অন্য কোনো সমস্যা আছে বলে দাবি করেন।",
+   "ওসি আরও বলেন, প্রাথমিক জিজ্ঞাসাবাদে গ্রেপ্তার মাবুদ স্বীকার করেছেন"
+  ]
+ }
+]

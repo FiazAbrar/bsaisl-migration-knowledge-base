@@ -1,0 +1,1548 @@
+[
+ {
+  "key": "MY2-72",
+  "fact_ids": [
+   "MB0076",
+   "MB0077"
+  ],
+  "claim": "Prothom Alo reported on 2 September 2026 that the Expatriates' Welfare Ministry, warning people against brokers and fraud rings, said the process of sending workers to Malaysia was not final, that it would announce it by notice in due time, and that no one should make any payment before then.",
+  "target_section": "\"Malaysia has opened again.\"",
+  "placement": "other: answer",
+  "why_new": "An earlier (by early September 2026) official warning not to pay, before the October announcement the myth entry starts from.",
+  "published": "2026-09-02"
+ },
+ {
+  "key": "OT1-56",
+  "fact_ids": [
+   "OA0115",
+   "OA0116"
+  ],
+  "claim": "The Ami Probashi app, which works with BMET, has a chat-based CV builder in Bangla and English that anyone wanting to go abroad can use free of charge, according to Prothom Alo in July 2025, which said a proper CV reduces dependence on dalals.",
+  "target_section": "Agencies and dalals",
+  "placement": "other: a free tool",
+  "why_new": "A free tool the guide does not mention; low priority.",
+  "published": "2025-07-07"
+ },
+ {
+  "key": "OT1-91",
+  "fact_ids": [
+   "OA0193",
+   "OA0194"
+  ],
+  "claim": "The state minister said in May 2026 that the government will bring the district manpower office, Probashi Kallyan Bank and the welfare centre into one building for a one-stop service, introduce a \"Probashi card\", fix a standard migration cost, and introduce a grading system to identify good recruiting agencies; he also said law firms would be appointed to protect women workers abroad and a special fund created to rehabilitate returnees.",
+  "target_section": "Agencies and dalals",
+  "placement": "other: announced plans",
+  "why_new": "Announced, not done: an agency grading system would be the first public rating of agencies; worth a Need-to-know on whether it exists yet.",
+  "published": "2026-06-06"
+ },
+ {
+  "key": "AB2-84",
+  "fact_ids": [
+   "AB0125"
+  ],
+  "claim": "Squadron Leader Rakib Ahmed Tawab, deputy director (QA and I) of the Civil Aviation Authority of Bangladesh, told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that the Probashi Kallyan desk at the airport is open 24 hours and works on solving various problems, and that people going abroad are now also offered luggage wrapping at low cost.",
+  "target_section": "At the airport: the welfare desk",
+  "placement": "other: hours and services",
+  "why_new": "The section lists the desk's services and phones but not that it is open 24 hours; the wrapping price is not given.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "OT1-62",
+  "fact_ids": [
+   "OA0128",
+   "OA0129"
+  ],
+  "claim": "The Ministry of Foreign Affairs runs online apostille (attestation of public documents and certificates) on the MyGov portal, mygov.bd, of the a2i (Aspire to Innovate) programme, so people going abroad can get documents attested from home; a2i said on 13 December 2025 that about 17 lakh applications had been settled in the previous 11 months.",
+  "target_section": "Attestation and visa stamping",
+  "placement": "other: the rule",
+  "why_new": "This section describes attestation in person only; the online apostille and its volume are missing here (the FAQ mentions mygov.bd).",
+  "published": "2025-12-13"
+ },
+ {
+  "key": "OT1-49",
+  "fact_ids": [
+   "OA0100",
+   "OA0101"
+  ],
+  "claim": "The ACC case of 3 July 2025 over women sent abroad on forged papers was filed by ACC assistant director Swapan Kumar Roy and names as accused BMET deputy director (emigration) Md Sazzad Hossain Sarkar, assistant director (emigration) Md Hossain Ullah Akanda, manpower survey officer Md Nizamuddin Patwari and office assistant and computer operator Md Azad Hossain, together with Md Anwar Hossain, managing partner of H A International, Md Salauddin, managing partner of K H Overseas, Md Jamal Hossain, proprietor of Makkah Overseas, Md Anwar Hossain Bhuiyan, managing partner of Tasnim Overseas, and Ekramul Haque, partner of S M Manpower.",
+  "target_section": "BMET clearance and the smart card",
+  "placement": "Cases",
+  "why_new": "The guide reports this case without the names of the officials and the five agencies.",
+  "published": "2025-07-03"
+ },
+ {
+  "key": "OT1-50",
+  "fact_ids": [
+   "OA0102",
+   "OA0103",
+   "OA0104"
+  ],
+  "claim": "In the same case the ACC alleges that the agencies colluded to use fake passports for women being sent to the Middle East as domestic workers, says the clearances for four women under 25 broke a ministry circular, and says in its complaint that the officials concerned gained financially from the forgery; the ACC said it was investigating further and would take legal action against those involved when the investigation ends.",
+  "target_section": "BMET clearance and the smart card",
+  "placement": "Cases",
+  "why_new": "Adds the collusion and financial-gain allegations and the status (investigation continuing; no verdict).",
+  "published": "2025-07-03"
+ },
+ {
+  "key": "OT1-105",
+  "fact_ids": [
+   "OA0218",
+   "OA0219"
+  ],
+  "claim": "Mahmuda Sultana, general secretary of the Ovibashi Nari Sramik Federation (a federation of women migrant workers), said in May 2026 that the three-day basic training given at the district employment office before departure mainly covers some first notions of the language, the culture and rules, and gives no in-depth training on the reality of the work, the risks or the long-term situation; a UNDP gender expert, Sharmin Islam, said language, culture and practical work skills cannot be acquired in three days.",
+  "target_section": "BMET clearance and the smart card",
+  "placement": "other: the pre-departure training in practice",
+  "why_new": "What the compulsory 3-day course does and does not teach, from a returnee leader; the guide describes the course but not its limits.",
+  "published": "2026-06-06"
+ },
+ {
+  "key": "AB1-86",
+  "fact_ids": [
+   "AA0166"
+  ],
+  "claim": "The worker wrote that he found out for himself and transferred to another company in Saudi Arabia, where he had been working for about four years on good pay.",
+  "target_section": "Can I change my employer?",
+  "placement": "Cases",
+  "why_new": "A case where transferring employer worked.",
+  "published": "2025-08-29"
+ },
+ {
+  "key": "AB1-123",
+  "fact_ids": [
+   "AA0237"
+  ],
+  "claim": "Rawnak Jahan, a senior officer of Probashi Kallyan Bank in the Cumilla region, said a loan applicant must have a BMET card, a valid visa, a passport and a national ID card of his own area, plus a capable guarantor who will take on repayment if needed.",
+  "target_section": "Can I get a government loan to go abroad?",
+  "placement": "other: what the bank asks for and its reach",
+  "why_new": "The papers as a branch officer states them (the FAQ says two guarantors; she says one capable guarantor).",
+  "published": "2026-04-30"
+ },
+ {
+  "key": "AB1-124",
+  "fact_ids": [
+   "AA0238",
+   "AA0239",
+   "AA0240"
+  ],
+  "claim": "She said Cumilla, a district with many migrants and 17 upazilas, has only four Probashi Kallyan Bank branches, that the Cumilla branch in the Tomson Bridge area serves nine upazilas with only three officers, and that the bank often hears the complaint that it does not lend or asks for extra papers, while part of its borrowers are unwilling to repay on time, which makes lending to new customers harder.",
+  "target_section": "Can I get a government loan to go abroad?",
+  "placement": "other: what the bank asks for and its reach",
+  "why_new": "Ground-level reach of PKB in one high-migration district: where the branch is and how thinly staffed.",
+  "published": "2026-04-30"
+ },
+ {
+  "key": "LB1-118",
+  "fact_ids": [
+   "LB0242"
+  ],
+  "claim": "The PKB acting regional head in Sylhet said on 18 April 2026 that many people come to the bank and have to take loans of BDT 3 to 4 lakh, with a monthly instalment of about BDT 14,000, and that many take four to five months or longer to get work after going abroad, during which the loan weighs on them more.",
+  "target_section": "Can I get a government loan to go abroad?",
+  "placement": "other: what borrowers face",
+  "why_new": "Typical PKB migration loan size and instalment, and the gap before the first wage, from the bank itself.",
+  "published": "2026-05-05"
+ },
+ {
+  "key": "AB2-89",
+  "fact_ids": [
+   "AB0131",
+   "AB0132"
+  ],
+  "claim": "Md Jahangir Hossain, deputy managing director of Probashi Kallyan Bank, told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that the bank began operating on 20 April 2011 and from 2011-12 to June 2025 gave migration loans to 2 lakh 63 thousand 689 people, lending BDT 384 crore.",
+  "target_section": "Can I get a government loan to go abroad?",
+  "placement": "The numbers",
+  "why_new": "Scale of PKB migration lending over 14 years, from the bank itself; not in the guide.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "AB1-115",
+  "fact_ids": [
+   "AA0223"
+  ],
+  "claim": "The same police officer said people should be encouraged to go through government channels such as BOESL, and that those who go that way are comparatively better off.",
+  "target_section": "Can I go through the government agency, BOESL?",
+  "placement": "other: a named official's view",
+  "why_new": "A district police officer's observation on BOESL migrants; an opinion, not data.",
+  "published": "2026-04-30"
+ },
+ {
+  "key": "OT1-107",
+  "fact_ids": [
+   "OA0221",
+   "OA0222",
+   "OA0223"
+  ],
+  "claim": "Mahmuda Sultana said women who come home after harassment and abuse abroad get hardly any rehabilitation help and find it hard to fit back into family and society, and that those who return aged 45 to 50 are in a pitiable state; Sheikh Romana said many women return after abuse abroad with a child, and questioned how many returnees really get the rehabilitation help that exists.",
+  "target_section": "Coming back",
+  "placement": "other: what returnees say",
+  "why_new": "Returnee leaders' account that the listed help does not reach them, set against the Board's figures.",
+  "published": "2026-06-06"
+ },
+ {
+  "key": "AB2-70",
+  "fact_ids": [
+   "AB0103",
+   "AB0104"
+  ],
+  "claim": "Ariful Haque Chowdhury MP, the Expatriates' Welfare and Overseas Employment Minister, told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that a returnee who is jobless at home can apply to the ministry or the Wage Earners' Welfare Board, and that the government wants to give financial and logistic support according to the person's occupation and will also monitor it; he described this as something the government is planning.",
+  "target_section": "Coming back",
+  "placement": "other: help for returnees",
+  "why_new": "Where the minister says a jobless returnee should apply; stated as a plan, with no form, amount or deadline given.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "AB2-74",
+  "fact_ids": [
+   "AB0110"
+  ],
+  "claim": "A T M Mahbubul Karim, joint secretary and project director of the RAISE project, told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that the RAISE project has so far brought 2 lakh 53 thousand returnees under its reintegration programme, gives referral, training and counselling across the country through 35 district offices, and works with seven NGOs including BRAC and IOM.",
+  "target_section": "Coming back",
+  "placement": "other: help for returnees",
+  "why_new": "The guide's returnee help covers airport desks and PKB loans; it does not mention the RAISE project's 35 district offices offering referral, training and counselling. The article does not say where the offices are.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "AB2-75",
+  "fact_ids": [
+   "AB0111",
+   "AB0112"
+  ],
+  "claim": "A T M Mahbubul Karim, joint secretary and project director of the RAISE project, told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that many women returnees cannot come under reintegration support because of family and society: the family sends them abroad but suspects them and does not value them after they return; he said the project is thinking of naming a responsible officer at union level so that it is known which woman has returned to which house and when.",
+  "target_section": "Coming back",
+  "placement": "other: women returnees",
+  "why_new": "Why women returnees miss out on support, from the official running the government's reintegration project; the union-level officer is an idea under consideration, not a decision.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "AB2-95",
+  "fact_ids": [
+   "AB0141"
+  ],
+  "claim": "Shariful Islam Hasan, associate director of BRAC's Migration Programme and Youth Platform, told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that many people return empty-handed after finding no work, and that many have no savings even after 20 to 25 years abroad.",
+  "target_section": "Coming back",
+  "placement": "other: who comes back with nothing",
+  "why_new": "BRAC's statement on returnees' finances; generic, low priority.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "RU1-51",
+  "fact_ids": [
+   "RU0069",
+   "RU0070"
+  ],
+  "claim": "Airport sources told Prothom Alo that 15,245 people returned to Bangladesh on travel passes in the first three months of 2026 and 8,215 in April alone; the paper says these are workers who lost everything, have no passport and return on a travel pass after being detained by police.",
+  "target_section": "Coming back",
+  "placement": "other: Deportees and outpass holders",
+  "why_new": "2026 counts of outpass returns; the guide has no current figure.",
+  "published": "2026-09-05"
+ },
+ {
+  "key": "AB2-85",
+  "fact_ids": [
+   "AB0126"
+  ],
+  "claim": "Squadron Leader Rakib Ahmed Tawab, deputy director (QA and I) of the Civil Aviation Authority of Bangladesh, told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that videos of cut or damaged luggage often spread on social media, but the authority's investigations found that in 95 percent of cases the incidents happened not at Bangladesh's airport or a transit airport but at the airport of the country where the journey began.",
+  "target_section": "Customs and luggage",
+  "placement": "other: damaged luggage",
+  "why_new": "The civil aviation authority's own finding on where returnees' luggage is cut open; this is the authority's claim about its own airport, with no method given.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "AB1-31",
+  "fact_ids": [
+   "AA0056"
+  ],
+  "claim": "According to the US Embassy's February 2024 case statement, Ashraful Alam Bhuiyan said an immigration officer at Shahjalal International Airport helps him with trafficking in return for money.",
+  "target_section": "Departure day at the airport",
+  "placement": "other: bribes at immigration",
+  "why_new": "An alleged paid helper inside airport immigration, as stated by an accused broker.",
+  "published": "2024-02-14"
+ },
+ {
+  "key": "OT1-106",
+  "fact_ids": [
+   "OA0220"
+  ],
+  "claim": "A UNDP Bangladesh gender expert, Sharmin Islam, said in May 2026 that women workers are often seen standing confused at the airport with no idea of what they have to do, and that the same problem affects male workers.",
+  "target_section": "Departure day at the airport",
+  "placement": "other: what happens",
+  "why_new": "An observation on first-time workers at departure; general.",
+  "published": "2026-06-06"
+ },
+ {
+  "key": "LB1-2",
+  "fact_ids": [
+   "LB0003"
+  ],
+  "claim": "According to the same US embassy case (editorial of 25 February 2024), one of the two men admitted that an immigration officer at Hazrat Shahjalal International Airport in Dhaka helped him in exchange for money.",
+  "target_section": "Departure day at the airport > Documented cases",
+  "placement": "Cases",
+  "why_new": "A recorded admission of a paid immigration officer at Dhaka airport helping a trafficker.",
+  "published": "2024-02-25"
+ },
+ {
+  "key": "LB1-109",
+  "fact_ids": [
+   "LB0227",
+   "LB0228"
+  ],
+  "claim": "The same officer said the armed police unit at Sylhet's Osmani airport should have more than three hundred members but has about one hundred, and that intelligence and plain-clothes members work the airport to stop anyone luring passengers.",
+  "target_section": "Departure day at the airport > Who checks what",
+  "placement": "other: capacity",
+  "why_new": "Staffing at Sylhet airport security: a third of sanctioned strength.",
+  "published": "2026-05-05"
+ },
+ {
+  "key": "LB1-92",
+  "fact_ids": [
+   "LB0195"
+  ],
+  "claim": "Joni Lal Deb, Assistant Superintendent of Police with 7 APBn (Armed Police Battalion) at Sylhet's Osmani International Airport, said on 18 April 2026 that an active group of human traffickers and smugglers operates in the airport area and tries to mislead ordinary passengers with various inducements.",
+  "target_section": "Departure day at the airport > Who gets stopped",
+  "placement": "other: warning from an official",
+  "why_new": "A named airport police officer on touts working the airport area at Sylhet.",
+  "published": "2026-04-19"
+ },
+ {
+  "key": "LB1-108",
+  "fact_ids": [
+   "LB0226"
+  ],
+  "claim": "Joni Lal Deb, Assistant Superintendent of Police with 7 APBn at Osmani International Airport, Sylhet, said on 18 April 2026 that various rings use people going abroad for the first time as easy targets, especially to draw them into carrying drugs or smuggled goods, and that many do not realise they are becoming part of a crime ring.",
+  "target_section": "Departure day at the airport > Who gets stopped",
+  "placement": "other: warning from an official",
+  "why_new": "A specific airport risk for first-time migrants (being used as carriers), stated by airport police.",
+  "published": "2026-05-05"
+ },
+ {
+  "key": "AB1-18",
+  "fact_ids": [
+   "AA0033",
+   "AA0034"
+  ],
+  "claim": "Government agencies keep no count of workers who come back, except those who return on an outpass after losing their passport, whom the Wage Earners' Welfare Board's desk at the airport records; according to sources cited by Prothom Alo, 86,621 workers came back empty-handed from various countries in 2023, 2,902 of them women, including 249 women in December.",
+  "target_section": "Deportees and outpass holders",
+  "placement": "The numbers",
+  "why_new": "A yearly count of outpass returnees and who keeps it; the section has only country examples.",
+  "published": "2024-01-13"
+ },
+ {
+  "key": "AB1-69",
+  "fact_ids": [
+   "AA0131",
+   "AA0132",
+   "AA0133"
+  ],
+  "claim": "Hasan Gazi of Shyamnagar, Satkhira, went to Kuwait through India in 2018, spending Tk 5.5 lakh borrowed from relatives; he did various jobs in Kuwait for four years, was then detained by police and forced to return, and in 2025 was driving an auto-rickshaw in Keraniganj, Dhaka, and living in the rickshaw garage.",
+  "target_section": "Deportees and outpass holders",
+  "placement": "Cases",
+  "why_new": "A Kuwait case that went through India and ended in detention and return.",
+  "published": "2025-03-30"
+ },
+ {
+  "key": "AB1-72",
+  "fact_ids": [
+   "AA0139",
+   "AA0140"
+  ],
+  "claim": "Prothom Alo reported in March 2025 that there is no data on migrants who return, but figures are available for those who come back on an outpass (workers who became undocumented, have no passport, were detained by police and return empty-handed): about 89,000 came back this way in 2024 and more than 80,000 in 2023.",
+  "target_section": "Deportees and outpass holders",
+  "placement": "The numbers",
+  "why_new": "2024 and 2023 outpass-return totals.",
+  "published": "2025-03-30"
+ },
+ {
+  "key": "AB2-94",
+  "fact_ids": [
+   "AB0140"
+  ],
+  "claim": "Nurul Kader, programme manager at the European Union delegation in Dhaka, told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that EU-funded work on reintegrating returnees in Bangladesh began in 2017, and that the projects running through BRAC and IOM are essentially a pilot initiative.",
+  "target_section": "Deportees and outpass holders",
+  "placement": "other: EU-funded reintegration",
+  "why_new": "The section mentions the EU-BRAC Prottasha-2 project; the EU's own programme manager calls these projects a pilot.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "MY2-23",
+  "fact_ids": [
+   "MB0040",
+   "MB0041"
+  ],
+  "claim": "Md Shah Jalal, principal of the Technical Training Centre at Ramu, Cox's Bazar, said at the 6 June 2026 roundtable that a skill verification test centre for employment in Saudi Arabia has opened in Cox's Bazar, that passing the test makes it easier to get a job there with a chance of higher pay, and that the Ramu centre runs pre-departure training and three-month technical courses.",
+  "target_section": "Do I need a skill test?",
+  "placement": "other: answer",
+  "why_new": "A Saudi skill-test centre in Cox's Bazar and where pre-departure training is given in the district; check whether the Saudi doc's list of test centres has it.",
+  "published": "2026-06-23"
+ },
+ {
+  "key": "OT1-1",
+  "fact_ids": [
+   "OA0001",
+   "OA0002"
+  ],
+  "claim": "Prothom Alo reported on 10 February 2024 that BMET smart cards (emigration clearance) are issued both offline, directly by BMET and the district manpower offices, and online through Ami Probashi, a mobile app run by a private organisation, with all data kept on a server at the BMET office, and that a ring had recently taken out smart cards in two batches of 24 and 20.",
+  "target_section": "Fake BMET cards and fake clearance",
+  "placement": "How it works",
+  "why_new": "The section says rings obtain BMET cards for fake visas but not how cards are issued (two channels, one a private app) or this dated incident inside BMET's own system.",
+  "published": "2024-02-10"
+ },
+ {
+  "key": "OT1-2",
+  "fact_ids": [
+   "OA0003",
+   "OA0004"
+  ],
+  "claim": "According to sources cited by Prothom Alo, 20 smart card applications that had been rejected in the Ami Probashi app between 27 December 2023 and 4 January 2024 were later given clearance; BMET formed a six-member inquiry committee on 10 January 2024, which reported on 7 February.",
+  "target_section": "Fake BMET cards and fake clearance",
+  "placement": "Cases",
+  "why_new": "A dated case of rejected clearance applications being approved from inside the system; not in the guide.",
+  "published": "2024-02-10"
+ },
+ {
+  "key": "OT1-3",
+  "fact_ids": [
+   "OA0005"
+  ],
+  "claim": "BMET's inquiry report on the 20 cards said they were approved through the account of BMET's Additional Director General: 19 from an Android phone through two separate IP addresses and one from the Additional Director General's own computer, on which his ID and password were kept saved.",
+  "target_section": "Fake BMET cards and fake clearance",
+  "placement": "How it works",
+  "why_new": "Shows the mechanism: a senior official's login was used to approve rejected applications.",
+  "published": "2024-02-10"
+ },
+ {
+  "key": "OT1-4",
+  "fact_ids": [
+   "OA0006",
+   "OA0007",
+   "OA0008"
+  ],
+  "claim": "The inquiry committee, which included representatives of the Expatriates' Welfare Ministry, Ami Probashi and the Bangladesh Computer Council (BCC), did not finally hold anyone responsible; its report said the Ami Probashi system has no automatic session time-out and no one-time PIN (OTP) to protect passwords, and that hackers used these or other system flaws to approve the rejected cards with the Additional Director General's ID.",
+  "target_section": "Fake BMET cards and fake clearance",
+  "placement": "How it works",
+  "why_new": "What the authorities found and did not do (no one held responsible); the specific security gaps.",
+  "published": "2024-02-10"
+ },
+ {
+  "key": "OT1-5",
+  "fact_ids": [
+   "OA0009",
+   "OA0010",
+   "OA0011"
+  ],
+  "claim": "A BMET source told Prothom Alo that the regular Additional Director General (Employment) was on leave at the time and Ashraful Islam, the Additional Director General (Training), was covering; he told the inquiry committee that to his knowledge he had not finalised any worker's rejected application and claimed the Ami Probashi system had been hacked before, while the app's chief technical officer told the committee that no one other than a system user, neither its own staff nor an outsider, could do such a thing.",
+  "target_section": "Fake BMET cards and fake clearance",
+  "placement": "Cases",
+  "why_new": "Both sides' accounts of who could have approved the cards.",
+  "published": "2024-02-10"
+ },
+ {
+  "key": "OT1-6",
+  "fact_ids": [
+   "OA0012"
+  ],
+  "claim": "A BMET source told Prothom Alo that, of the 20 cards under inquiry, 8 were taken in the name of the recruiting agency Bangladesh Export Corporation (RL-803), 7 on 2 January and 1 on 3 January 2024, and 12 in the name of Saad International Limited (RL-1068), 7 on 1 January and 5 on 3 January.",
+  "target_section": "Fake BMET cards and fake clearance",
+  "placement": "Cases",
+  "why_new": "Names the agencies in whose names the cards were issued, with licence numbers and dates.",
+  "published": "2024-02-10"
+ },
+ {
+  "key": "OT1-7",
+  "fact_ids": [
+   "OA0013",
+   "OA0014",
+   "OA0015"
+  ],
+  "claim": "Saad International's managing director Shamim Mahmud Patwari told Prothom Alo that no complaint had ever been made against his agency, that it applied and got clearance by the rules as always, that no one from BMET had contacted him and that he knew nothing of any irregularity; Prothom Alo could not get a comment from Bangladesh Export Corporation.",
+  "target_section": "Fake BMET cards and fake clearance",
+  "placement": "Cases",
+  "why_new": "The named agencies' response, needed if they are named.",
+  "published": "2024-02-10"
+ },
+ {
+  "key": "OT1-8",
+  "fact_ids": [
+   "OA0016",
+   "OA0017",
+   "OA0018"
+  ],
+  "claim": "On 31 December 2023 the recruiting agency Alif Overseas (RL-847) took out smart cards for 24 Saudi Arabia-bound workers, Prothom Alo reported; BMET officials noticed in the third week of January 2024 while checking papers that no matching data for these cards could be found on the server, the Director General was told in writing on 28 January, and a senior source confirmed that BMET took no immediate action and did not cancel the cards.",
+  "target_section": "Fake BMET cards and fake clearance",
+  "placement": "Cases",
+  "why_new": "A dated case of real smart cards with no data behind them on BMET's server, and that the cards were not cancelled.",
+  "published": "2024-02-10"
+ },
+ {
+  "key": "OT1-9",
+  "fact_ids": [
+   "OA0019",
+   "OA0020",
+   "OA0021"
+  ],
+  "claim": "On 5 February 2024 BMET's Director General Saleh Ahmed Mozaffar wrote to the Dhaka Metropolitan Police deputy commissioner for cyber crime investigation asking him to identify those involved, the letter saying Alif Overseas had taken 24 emigration clearances by hacking the system; the deputy commissioner told Prothom Alo the letter had not yet reached his office.",
+  "target_section": "Fake BMET cards and fake clearance",
+  "placement": "The law",
+  "why_new": "What the authorities did: a referral to cyber police, not a case; no arrest or licence action is reported.",
+  "published": "2024-02-10"
+ },
+ {
+  "key": "OT1-10",
+  "fact_ids": [
+   "OA0022"
+  ],
+  "claim": "Akib Jabed, son of Alif Overseas's owner Md Monirul Haque, told Prothom Alo that the agency has no ability to hack BMET's server, that it never applied for the 24 cards, and that someone inside BMET who took out cards in Alif Overseas's name may be involved.",
+  "target_section": "Fake BMET cards and fake clearance",
+  "placement": "Cases",
+  "why_new": "The agency's denial and its counter-allegation against BMET insiders.",
+  "published": "2024-02-10"
+ },
+ {
+  "key": "OT1-11",
+  "fact_ids": [
+   "OA0023",
+   "OA0024",
+   "OA0025"
+  ],
+  "claim": "People concerned told Prothom Alo in February 2024 that the server kept at BMET's office could not be secured and ran on very old software, so fraud could not be stopped and those involved could not be identified; BMET was moving server management to the Bangladesh Computer Council, a third of the data had been moved, and two BMET officials said that once done, taking smart cards by server fraud would stop and any further fraud would be easy to detect.",
+  "target_section": "Fake BMET cards and fake clearance",
+  "placement": "How it works",
+  "why_new": "Why fake-data smart cards were possible and BMET's stated fix.",
+  "published": "2024-02-10"
+ },
+ {
+  "key": "OT1-12",
+  "fact_ids": [
+   "OA0026",
+   "OA0027"
+  ],
+  "claim": "A top BMET official told Prothom Alo, on condition of anonymity, that the cyber police had been asked to look into BMET server fraud as a whole and not only the 24 cards, and that the Bangladesh Computer Council had been asked a month and a half earlier to investigate BMET's server and submit an audit report.",
+  "target_section": "Fake BMET cards and fake clearance",
+  "placement": "The law",
+  "why_new": "Shows the scale BMET itself suspected and the audit requested.",
+  "published": "2024-02-10"
+ },
+ {
+  "key": "OT1-13",
+  "fact_ids": [
+   "OA0028",
+   "OA0029",
+   "OA0030"
+  ],
+  "claim": "BMET's inquiry committee made eight recommendations to prevent fraud through the Ami Probashi app, among them introducing OTP and session time-out, having the BCC test the system's weaknesses, an IT audit, and keeping all of the app's data on BMET's server.",
+  "target_section": "Fake BMET cards and fake clearance",
+  "placement": "other: what the inquiry recommended",
+  "why_new": "The official remedy proposed; useful for a Need-to-know on whether it was done.",
+  "published": "2024-02-10"
+ },
+ {
+  "key": "OT1-14",
+  "fact_ids": [
+   "OA0031",
+   "OA0032"
+  ],
+  "claim": "Tasneem Siddiqui, founding chair of RMMRU (the Refugee and Migratory Movements Research Unit), said in February 2024 that workers sent abroad without proper verification can be cheated, and that the agencies in whose names smart cards were fraudulently taken must be investigated and punished if guilty.",
+  "target_section": "Fake BMET cards and fake clearance",
+  "placement": "other: expert warning",
+  "why_new": "Named expert on what an unverified clearance means for the worker.",
+  "published": "2024-02-10"
+ },
+ {
+  "key": "AB2-83",
+  "fact_ids": [
+   "AB0124"
+  ],
+  "claim": "Squadron Leader Rakib Ahmed Tawab, deputy director (QA and I) of the Civil Aviation Authority of Bangladesh, told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that in many cases passengers arrive at the airport with fake BMET cards, fake visas or other fake papers, and that 24 agencies working at the airport, including immigration and the airlines, check these in coordination.",
+  "target_section": "Fake BMET cards and fake clearance",
+  "placement": "Cases",
+  "why_new": "An August 2026 statement from the airport's own regulator that fake BMET cards and visas keep turning up; goes to the section's open question on whether fake cards have been caught since 2024 (he gives no count).",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "AB1-32",
+  "fact_ids": [
+   "AA0057",
+   "AA0058"
+  ],
+  "claim": "According to the US Embassy's February 2024 case statement, the two accused dalals submitted fake documents for their own US visa applications and described themselves in them as garment businessmen.",
+  "target_section": "Forged documents and impersonation",
+  "placement": "Cases",
+  "why_new": "Fake papers detected at a visa interview led to a police case in Dhaka.",
+  "published": "2024-02-14"
+ },
+ {
+  "key": "FV1-1",
+  "fact_ids": [
+   "FV0001",
+   "FV0002",
+   "FV0003"
+  ],
+  "claim": "On the Wednesday before a report dated 22 February 2024, the Airport Armed Police Battalion (APBn) and Dhaka detective police (DB) arrested five people in front of Terminal 2 of Hazrat Shahjalal International Airport, Dhaka: two alleged ringleaders, Mohammad Asaduzzaman and Mohammad Kabir Hossain, and three men, Jane Alam, Sabbir Mia and Samrat Saudagar, who were trying to leave for Europe on fake visas.",
+  "target_section": "Forged documents and impersonation",
+  "placement": "other: How it is sold (Fake visas)",
+  "why_new": "A dated airport case of fake visas for a Europe route; the section has the May 2026 Italy case but not this one.",
+  "published": "2024-02-22"
+ },
+ {
+  "key": "FV1-2",
+  "fact_ids": [
+   "FV0004",
+   "FV0005"
+  ],
+  "claim": "A DB deputy commissioner, Mashiur Rahman, told Prothom Alo in February 2024 that the three arrested travellers admitted they were first going to Qatar on fake visas and were then to go on illegally to France, Italy and Greece, and that each had paid a broker BDT 16 to 18 lakh.",
+  "target_section": "Forged documents and impersonation",
+  "placement": "other: How it is sold (Fake visas)",
+  "why_new": "Price (BDT 16-18 lakh) and route (fake visa to Qatar, then irregularly to France, Italy, Greece).",
+  "published": "2024-02-22"
+ },
+ {
+  "key": "FV1-3",
+  "fact_ids": [
+   "FV0006",
+   "FV0007"
+  ],
+  "claim": "According to DB in February 2024, low-ranking employees of various agencies working at Dhaka airport and people from private airlines had formed a ring that sent people from Bangladesh to the Middle East, Europe and elsewhere on fake visas for lakhs of taka; one of the two arrested men, Kabir Hossain, was a booking assistant of Qatar Airlines (printed as 'Qatar Airlines') and the other, Asaduzzaman, a security worker at Shahjalal airport, the DB officer said.",
+  "target_section": "Forged documents and impersonation",
+  "placement": "What happens",
+  "why_new": "Insider involvement: an airline booking assistant and an airport security worker named as ringleaders (the section has only the 2026 Biman ground officer).",
+  "published": "2024-02-22"
+ },
+ {
+  "key": "FV1-4",
+  "fact_ids": [
+   "FV0008"
+  ],
+  "claim": "In the February 2024 Dhaka airport case, police seized three passports, three fake visas, a special card for entering Hazrat Shahjalal International Airport, mobile phones, e-tickets, and work permit and visa papers from those arrested.",
+  "target_section": "Forged documents and impersonation",
+  "placement": "What happens",
+  "why_new": "What the ring held, including a special airport entry card.",
+  "published": "2024-02-22"
+ },
+ {
+  "key": "FV1-5",
+  "fact_ids": [
+   "FV0009",
+   "FV0010"
+  ],
+  "claim": "In the February 2024 Dhaka airport case, the three men who were trying to travel on fake visas were arrested along with the two alleged ringleaders, a case of fraud and forgery was filed against them, and a court granted one day's remand.",
+  "target_section": "Forged documents and impersonation",
+  "placement": "The law",
+  "why_new": "Shows the travellers holding the fake visas were themselves arrested and charged, not treated only as victims.",
+  "published": "2024-02-22"
+ },
+ {
+  "key": "OT1-47",
+  "fact_ids": [
+   "OA0095",
+   "OA0096",
+   "OA0097"
+  ],
+  "claim": "A Prothom Alo reporter posing as a customer in May 2025 was sent by a dalal named Masum to the shop Bismillah Computer in front of the Gazipur passport office, where a man named Md Jony said raising the age by one year on both the voter ID card and the passport would cost Tk 32,000, half in advance, with the passport delivered within a month, or within 15 days for Tk 2,000 more; the report says correcting the national ID properly takes several months.",
+  "target_section": "Forged documents and impersonation",
+  "placement": "How it is sold",
+  "why_new": "A quoted 2025 price and turnaround for changing the age on the NID and passport; the \"Changed ages\" item has no price or place.",
+  "published": "2025-05-13"
+ },
+ {
+  "key": "OT1-59",
+  "fact_ids": [
+   "OA0122"
+  ],
+  "claim": "There are allegations that some sports federations and associations in Bangladesh have for many years sent fake players and officials abroad with their teams as a way of trafficking people, with most such allegations coming from the smaller sports and most cases staying hidden, Prothom Alo reported on 31 October 2025.",
+  "target_section": "Forged documents and impersonation",
+  "placement": "How it is sold",
+  "why_new": "A form of impersonation the section lacks: travelling as a fake player or official in a national sports delegation.",
+  "published": "2025-10-31"
+ },
+ {
+  "key": "OT1-60",
+  "fact_ids": [
+   "OA0123",
+   "OA0124",
+   "OA0125"
+  ],
+  "claim": "On 9 October 2025 the National Sports Council (NSC) told federations by letter that a proposal for the government order (GO) for any team going abroad must reach it at least 10 days before the flight, with proof of the selected players' fitness and performance; an NSC source said the rule was made mainly to stop such trafficking, and NSC director (sports) Aminul Ehsan said he would not say it was only to stop trafficking, but that the question of trafficking in the name of sport does come up in places.",
+  "target_section": "Forged documents and impersonation",
+  "placement": "The law",
+  "why_new": "The check that now exists and who runs it.",
+  "published": "2025-10-31"
+ },
+ {
+  "key": "OT1-61",
+  "fact_ids": [
+   "OA0126",
+   "OA0127"
+  ],
+  "claim": "Until the October 2025 rule, federations sent the NSC only the players' names for the government order, and whether a named person was really a player was not verified, Prothom Alo reported; Farhad Jesmin Liti, chair of the Bangladesh Olympic Association's athletes commission, said she often hears that some federations take fake players along.",
+  "target_section": "Forged documents and impersonation",
+  "placement": "How it is sold",
+  "why_new": "Explains the gap that made it possible, with a named sports official.",
+  "published": "2025-10-31"
+ },
+ {
+  "key": "OT2-8",
+  "fact_ids": [
+   "OB0018",
+   "OB0019"
+  ],
+  "claim": "The forged police clearance certificates sold in Chattogram in 2026 carried the signatures and seals of the relevant police officers and a QR code which, when scanned, showed the certificate on a clone of the Bangladesh Police website, so that, police said, it could not be told apart from a real one by looking.",
+  "target_section": "Forged documents and impersonation",
+  "placement": "How it works",
+  "why_new": "Adds the forged signatures and seals and that the site is a clone; the guide says only 'counterfeit QR codes linking to a fake website'. Also implies scanning the QR code is no check.",
+  "published": "2026-08-17"
+ },
+ {
+  "key": "OT2-9",
+  "fact_ids": [
+   "OB0020",
+   "OB0021"
+  ],
+  "claim": "Chattogram's Additional Superintendent of Police (Special Branch) Junayed Kausar said the forged police clearance ring had several layers of people: some were brokers and some worked online and were skilled at making QR codes and websites.",
+  "target_section": "Forged documents and impersonation",
+  "placement": "How it works",
+  "why_new": "How the ring is organised.",
+  "published": "2026-08-17"
+ },
+ {
+  "key": "OT2-10",
+  "fact_ids": [
+   "OB0022",
+   "OB0023",
+   "OB0024"
+  ],
+  "claim": "The forgery was detected when Zakir Hossain submitted the certificate to a travel agency; he then made a written complaint to the Chattogram District Superintendent of Police's office, and a case was filed at Banshkhali police station with his brother Nur Hossain as plaintiff.",
+  "target_section": "Forged documents and impersonation",
+  "placement": "other: What happens",
+  "why_new": "Where the forgery was detected and the complaint route that worked.",
+  "published": "2026-08-17"
+ },
+ {
+  "key": "OT2-11",
+  "fact_ids": [
+   "OB0025",
+   "OB0026"
+  ],
+  "claim": "Police arrested four members of the forged police clearance ring on the night of Sunday 16 August 2026 in Chattogram city and Banshkhali: Md. Ashraf Ali Khan (36), Md. Nishan (36), Mohammad Abdullah Al Mamun (48) and Md. Abdur Rahman (46); police said the four were mainly brokers and that the hunt for the others continued.",
+  "target_section": "Forged documents and impersonation",
+  "placement": "The law",
+  "why_new": "The enforcement outcome; the guide gives no arrests for the PCC ring.",
+  "published": "2026-08-17"
+ },
+ {
+  "key": "LB1-1",
+  "fact_ids": [
+   "LB0001",
+   "LB0002"
+  ],
+  "claim": "According to a case the US embassy in Dhaka filed against five Bangladeshis, reported in a Prothom Alo editorial of 25 February 2024, two Bangladeshis named Mofizur Rahman and Ashraful Alam Bhuiyan admitted at their US visa interview on 11 February that they were involved in trafficking people from Bangladesh to various countries, and they had submitted fake documents to the embassy.",
+  "target_section": "Forged documents and impersonation > What happens",
+  "placement": "Cases",
+  "why_new": "An embassy itself filing a case over fake documents and an admission made at the visa interview; the section has no embassy-filed case.",
+  "published": "2024-02-25"
+ },
+ {
+  "key": "RU1-57",
+  "fact_ids": [
+   "RU0079",
+   "RU0080"
+  ],
+  "claim": "Prothom Alo reported on 5 September 2026 that Malaysia's labour market closed in June 2024 over irregularities, Oman's has been effectively closed since 2024, and workers going to the UAE fell from about 1 lakh in 2023 to 47,000 in 2024 and 13,750 in 2025; analysts told the paper that the closure or shrinking of these markets is a major reason workers have become interested in risky countries.",
+  "target_section": "Frequently asked questions",
+  "placement": "other: Deciding (which countries are open)",
+  "why_new": "UAE year-by-year figures and the stated link between closed markets and the risky new ones.",
+  "published": "2026-09-05"
+ },
+ {
+  "key": "RU1-58",
+  "fact_ids": [
+   "RU0081",
+   "RU0082",
+   "RU0083"
+  ],
+  "claim": "BMET says about 5 lakh workers took clearance to go abroad in January to August 2026 against about 7 lakh 40 thousand in the same period of 2025; Prothom Alo reported that about 6.25 lakh Bangladeshis went to Saudi Arabia for work in 2024, over 7 lakh 55 thousand in 2025 and about 2 lakh 15 thousand in the first six months of 2026, and recruiting agencies say the rise may not continue from next year.",
+  "target_section": "Frequently asked questions",
+  "placement": "other: Deciding (which countries are open)",
+  "why_new": "Overall and Saudi clearances falling in 2026.",
+  "published": "2026-09-05"
+ },
+ {
+  "key": "MY2-83",
+  "fact_ids": [
+   "MB0087",
+   "MB0088",
+   "MB0089"
+  ],
+  "claim": "Dr Selim Reza wrote on 9 September 2026 that more than two thousand recruiting agencies have been added to RAIMS (the Recruitment Agents Information System), that a 2024 amendment brought recruitment sub-agents and intermediaries under the Overseas Employment and Migrants Act, and that a 2025 code of conduct also provides for holding sub-agents to account.",
+  "target_section": "How do I check whether an agency is real?",
+  "placement": "other: answer",
+  "why_new": "RAIMS is not mentioned in the guide. Conflict to check: the guide dates the sub-agent amendment to 2023, this article says 2024. The article does not say whether the public can search RAIMS.",
+  "published": "2026-09-09"
+ },
+ {
+  "key": "MY2-88",
+  "fact_ids": [
+   "MB0096",
+   "MB0097"
+  ],
+  "claim": "The withdrawal of 49 recruiting agencies' licences on 19 July 2026 was suspended by a High Court order on 15 September 2026 and restored when the Appellate Division's chamber court stayed that order on 30 September, according to the Attorney General.",
+  "target_section": "How do I check whether an agency is real?",
+  "placement": "other: answer",
+  "why_new": "Shows that an agency's licence status can change back and forth with court orders, which the answer (read the status on OEP) does not mention.",
+  "published": "2026-10-04"
+ },
+ {
+  "key": "LB1-115",
+  "fact_ids": [
+   "LB0236",
+   "LB0237"
+  ],
+  "claim": "Zakir Hossain, senior instructor at the Sylhet government Technical Training Centre, said on 18 April 2026 that the centre runs regular Japanese, Italian, Korean and Arabic language courses and, with International Labour Organization support, level-three training in electrical installation and maintenance and in food preparation that combines language with the trade, with a possibility of work in Italy after the training.",
+  "target_section": "How do I join a TTC course?",
+  "placement": "other: what one TTC offers",
+  "why_new": "A concrete legal alternative in a boat-route district: Italian-language and ILO-backed trade courses at Sylhet TTC.",
+  "published": "2026-05-05"
+ },
+ {
+  "key": "LB1-116",
+  "fact_ids": [
+   "LB0238",
+   "LB0239"
+  ],
+  "claim": "The Sylhet TTC instructor said that many of the people who most need the training do not come, that college and university students with no immediate need to go abroad come instead, and that in the centre's experience about 99 per cent of people go abroad without acquiring any skill.",
+  "target_section": "How do I join a TTC course?",
+  "placement": "other: who actually attends",
+  "why_new": "A trainer's estimate that almost nobody who migrates from Sylhet has trained first.",
+  "published": "2026-05-05"
+ },
+ {
+  "key": "LB1-112",
+  "fact_ids": [
+   "LB0232",
+   "LB0233"
+  ],
+  "claim": "The assistant director of Sylhet's District Employment and Manpower Office said on 18 April 2026 that the office gives people who want to go abroad through the government channel registration, fingerprinting and a three-day pre-decision training covering legal migration, avoiding brokers and safety, that many people fall in with brokers before the training, and that the office completed registration and biometrics for 35,290 people in 2025 and 6,290 up to March 2026.",
+  "target_section": "How do I register on OEP?",
+  "placement": "other: what the DEMO does",
+  "why_new": "The three-day pre-decision training at the DEMO, and one district's registration volume.",
+  "published": "2026-05-05"
+ },
+ {
+  "key": "LB1-15",
+  "fact_ids": [
+   "LB0025",
+   "LB0026"
+  ],
+  "claim": "The bodies of the eight Bangladeshis who died on a boat off Tunisia in February 2024 reached Dhaka's Hazrat Shahjalal International Airport on a Saudia flight on 2 May 2024, and were sent to the Dhaka Medical College morgue for post-mortem before being handed to the families.",
+  "target_section": "How is the body brought home?",
+  "placement": "other: case",
+  "why_new": "The bodies came home about two and a half months after the deaths, and went to a post-mortem before release to families.",
+  "published": "2024-05-03"
+ },
+ {
+  "key": "AB2-69",
+  "fact_ids": [
+   "AB0102"
+  ],
+  "claim": "Ariful Haque Chowdhury MP, the Expatriates' Welfare and Overseas Employment Minister, told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that when a Bangladeshi citizen dies abroad, whether the person went by a legal or an illegal route, the government brings the body home and also gives the family financial help and help with the children's education, and that work is under way to introduce a welfare card for expatriates carrying various services.",
+  "target_section": "How is the body brought home?",
+  "placement": "other: minister statement",
+  "why_new": "The minister's statement that repatriation of the body does not depend on having gone legally, and that a welfare card is being prepared (not yet issued as of August 2026).",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "AB1-103",
+  "fact_ids": [
+   "AA0201",
+   "AA0202"
+  ],
+  "claim": "A December 2025 Prothom Alo column by Nahid Hasan works through a Saudi pest-control job: the set wage is 700 riyals a month, which he gives as Tk 22,400, so two years of eight-hour days under the contract earn Tk 5 lakh 37 thousand 600, and after about Tk 2 lakh in living costs Tk 3 lakh 37 thousand 600 is left to send home.",
+  "target_section": "How long will it take to pay back what I spend?",
+  "placement": "The numbers",
+  "why_new": "A worked example for one named job at SR 700; the FAQ example uses SR 800.",
+  "published": "2025-12-15"
+ },
+ {
+  "key": "AB1-105",
+  "fact_ids": [
+   "AA0204"
+  ],
+  "claim": "By the column's arithmetic the worker is about Tk 2 lakh 32 thousand short of recovering the cost after two years, and in effect has to double the visa period and work four years for almost no gain.",
+  "target_section": "How long will it take to pay back what I spend?",
+  "placement": "The numbers",
+  "why_new": "The conclusion of the worked example: the first contract does not repay the cost.",
+  "published": "2025-12-15"
+ },
+ {
+  "key": "AB1-121",
+  "fact_ids": [
+   "AA0233"
+  ],
+  "claim": "The Cumilla Probashi Kallyan Centre's assistant director said in April 2026 that financial help for bringing a body home is given for BMET card holders, that a free ambulance takes the body from the airport to its destination, and that Tk 25,000 is paid after the body arrives and up to Tk 3 lakh in eligible cases.",
+  "target_section": "If a worker dies abroad, what does the family get?",
+  "placement": "Where to get help",
+  "why_new": "Conflict to resolve: the guide says a Tk 35,000 cheque at the airport; this official says Tk 25,000 after the body arrives.",
+  "published": "2026-04-30"
+ },
+ {
+  "key": "AB1-133",
+  "fact_ids": [
+   "AA0253"
+  ],
+  "claim": "Badrul Huda, president of the Multi-Party Advocacy Forum in Cumilla, said that information not reaching the family when someone dies or goes missing abroad is a major humanitarian problem.",
+  "target_section": "If a worker dies abroad, what does the family get?",
+  "placement": "other: what goes wrong",
+  "why_new": "Families not being told of deaths, as raised by a local forum.",
+  "published": "2026-04-30"
+ },
+ {
+  "key": "FV1-55",
+  "fact_ids": [
+   "FV0109",
+   "FV0110",
+   "FV0111"
+  ],
+  "claim": "The principal of the government technical training centre near the Sandwip upazila complex, Muhammad Sharfuddin, said 750 people trained there last year (2025) and about 300 trainees were currently enrolled, and according to BMET data 2,080 people from Sandwip went abroad in 2025.",
+  "target_section": "Is there a job for someone with no skills?",
+  "placement": "other: training (low priority)",
+  "why_new": "Local numbers only; included for completeness.",
+  "published": "2026-05-08"
+ },
+ {
+  "key": "MY2-44",
+  "fact_ids": [
+   "MB0061",
+   "MB0062"
+  ],
+  "claim": "The state minister for expatriates' welfare said on 30 July 2026 that most of the country's roughly three thousand recruiting licence holders are involved in irregularities, and that if the rules were properly followed no more than four or five hundred licences would survive; he also said many agencies renew their licences without being qualified to.",
+  "target_section": "Is there a list of good agencies?",
+  "placement": "other: answer",
+  "why_new": "The minister's own estimate of how many licensed agencies would pass their licence conditions; supports the guide's point that a valid licence proves little.",
+  "published": "2026-07-30"
+ },
+ {
+  "key": "OT1-52",
+  "fact_ids": [
+   "OA0108",
+   "OA0109"
+  ],
+  "claim": "A Prothom Alo guide for migrant workers published on 7 July 2025 said the Probashi Kallyan Bank migration loan needs no collateral and requires the applicant's photo, voter ID, address, certificates and copies of the passport, visa and smart card, the papers of one guarantor and three bank cheques, and that an account must first be opened at the bank.",
+  "target_section": "Loans",
+  "placement": "other: papers for the PKB loan",
+  "why_new": "Lists the papers and the three cheques; note it says one guarantor where the guide (F0116) says two, so this needs checking against PKB before use.",
+  "published": "2025-07-07"
+ },
+ {
+  "key": "OT1-53",
+  "fact_ids": [
+   "OA0110"
+  ],
+  "claim": "The same guide said the PKB loan is up to Tk 3 lakh for both a new visa and a re-entry visa, with terms of 3 years and 2 years respectively, repaid in monthly instalments after a two-month grace period at 9 percent simple interest.",
+  "target_section": "Loans",
+  "placement": "other: PKB loan terms",
+  "why_new": "Adds the re-entry visa loan, its 2-year term and the two-month grace period to what the guide gives.",
+  "published": "2025-07-07"
+ },
+ {
+  "key": "OT1-87",
+  "fact_ids": [
+   "OA0183",
+   "OA0184"
+  ],
+  "claim": "Rawnak Jahan, a senior officer of Probashi Kallyan Bank's Cumilla region, said in April 2026 that the bank has only 4 branches for Cumilla's 17 upazilas, that the Tomsom Bridge branch has three staff and must serve 9 upazilas, and that shortage of staff and limited operations cause problems in giving and recovering loans in many cases.",
+  "target_section": "Loans",
+  "placement": "other: PKB reach",
+  "why_new": "Why the government loan is hard to get in one of the biggest migrant districts: branch and staff numbers from the bank itself.",
+  "published": "2026-04-11"
+ },
+ {
+  "key": "OT1-25",
+  "fact_ids": [
+   "OA0050",
+   "OA0051"
+  ],
+  "claim": "At the Mymensingh regional passport office, a passport application submitted through a dalal is called a \"channel file\" (চ্যানেল ফাইল): three dalals told Prothom Alo in 2024, on condition of anonymity, that every shop outside the office now does channel files for Tk 2,500 above the government fee, of which Tk 1,200 goes to the passport office and the rest to the dalals.",
+  "target_section": "Passport and police clearance",
+  "placement": "How it works",
+  "why_new": "The trade term, the street price and the split between dalal and office; the guide has only TIB survey averages.",
+  "published": "2024-06-07"
+ },
+ {
+  "key": "OT1-26",
+  "fact_ids": [
+   "OA0052",
+   "OA0053",
+   "OA0054"
+  ],
+  "claim": "The three dalals said a fake \"nationality and character certificate\" in the name of Mymensingh City Corporation is attached to a channel file with a special code on it, that the clerk taking applications knows from the code whose dalal sent it and accepts it without scrutiny, that the passport office keeps a daily count of coded forms, and that an office employee collects the money by that count every Wednesday.",
+  "target_section": "Passport and police clearance",
+  "placement": "How it works",
+  "why_new": "The exact marking and weekly settlement system between dalals and office staff.",
+  "published": "2024-06-07"
+ },
+ {
+  "key": "OT1-27",
+  "fact_ids": [
+   "OA0055",
+   "OA0056"
+  ],
+  "claim": "On 4 May 2024 a Prothom Alo reporter saw the application of Hashem Ali of Phulpur, Mymensingh, accepted without any scrutiny at the Mymensingh regional passport office: his \"nationality and character certificate\" had the ward and neighbourhood fields blank and an unidentified signature, and carried a handwritten code of three capital English letters and the number 53 beside the serial number, a code the report says is given by the passport dalal.",
+  "target_section": "Passport and police clearance",
+  "placement": "Cases",
+  "why_new": "An observed, dated instance of the code system working at the counter.",
+  "published": "2024-06-07"
+ },
+ {
+  "key": "OT1-28",
+  "fact_ids": [
+   "OA0057",
+   "OA0058",
+   "OA0059"
+  ],
+  "claim": "There are at least 30 shops in front of the Mymensingh regional passport office in Maskanda that openly do computer typing, photocopying and online passport applications, and almost all secretly act as the office's dalals; the dalals said they used to roam in front of the office for customers but changed method because of occasional raids by the administration, and by their account at least Tk 5 lakh a day is taken from ordinary people this way.",
+  "target_section": "Passport and police clearance",
+  "placement": "How it works",
+  "why_new": "Where the dalals sit now (shops, not the gate) and the scale claimed.",
+  "published": "2024-06-07"
+ },
+ {
+  "key": "OT1-29",
+  "fact_ids": [
+   "OA0060",
+   "OA0061",
+   "OA0062"
+  ],
+  "claim": "Azharul Islam of Tarakanda, Mymensingh, went to the Mymensingh regional passport office on 24 April 2024, waited an hour and a half in line and had his application refused over an error in his papers; he failed on two days, with new errors found each time, and refused to use a dalal; on 28 April he went to the office's deputy assistant director Bachir Ahmed and asked why his application was not being taken when all papers were in order, the officer quickly accepted it, and he got his passport on 16 May.",
+  "target_section": "Passport and police clearance",
+  "placement": "Cases",
+  "why_new": "A case showing what worked without a dalal: going to the office's deputy assistant director; with dates from refusal to delivery.",
+  "published": "2024-06-07"
+ },
+ {
+  "key": "OT1-30",
+  "fact_ids": [
+   "OA0063",
+   "OA0064"
+  ],
+  "claim": "On 4 May 2024 Sabbir Ahmed of Churkhai, Mymensingh Sadar, whose application was not accepted because of an \"error\", said all his papers were in order but he was told to come the next day; he then went with two friends to a shop outside the office to find a dalal.",
+  "target_section": "Passport and police clearance",
+  "placement": "Cases",
+  "why_new": "Shows how a refused applicant is pushed to the shops.",
+  "published": "2024-06-07"
+ },
+ {
+  "key": "OT1-31",
+  "fact_ids": [
+   "OA0065",
+   "OA0066"
+  ],
+  "claim": "The Mymensingh office's deputy director Morad Chowdhury told Prothom Alo in June 2024 that some dalal-type people stay outside the office and applicants are told to beware of them, but that he did not know of code numbers on fake City Corporation certificates or whether any staff member takes money for it, and would look into it; the deputy assistant director also said he would look into it.",
+  "target_section": "Passport and police clearance",
+  "placement": "other: what officials said",
+  "why_new": "The office's response; no action is reported.",
+  "published": "2024-06-07"
+ },
+ {
+  "key": "OT1-32",
+  "fact_ids": [
+   "OA0067"
+  ],
+  "claim": "Ali Yusuf, secretary of the Mymensingh city unit of SUJAN (Citizens for Good Governance), told Prothom Alo in June 2024 that everyone knows nothing gets done at the passport office without a dalal, and that his nephew had recently failed for a month to submit his application and got a passport only after applying through a dalal.",
+  "target_section": "Passport and police clearance",
+  "placement": "Cases",
+  "why_new": "A named civil-society witness with a one-month example.",
+  "published": "2024-06-07"
+ },
+ {
+  "key": "OT1-33",
+  "fact_ids": [
+   "OA0068",
+   "OA0069"
+  ],
+  "claim": "On 20 November 2024 people under the banner \"Victims: the ordinary people of Rajshahi\" formed a human chain in front of the Rajshahi divisional passport and visa office in Shalbagan against files submitted through dalals being processed first, then met the deputy director and gave one month to end the irregularities, warning of a bigger programme otherwise.",
+  "target_section": "Passport and police clearance",
+  "placement": "Cases",
+  "why_new": "A dated public protest against dalal-first processing at a named office.",
+  "published": "2024-11-20"
+ },
+ {
+  "key": "OT1-34",
+  "fact_ids": [
+   "OA0070",
+   "OA0071",
+   "OA0072"
+  ],
+  "claim": "Speakers at the Rajshahi protest said they had observed that the special files coming through dalals are taken straight upstairs to the room of deputy director Rozy Khandaker, who signs them, that the assistant director enters them into the computer on the same floor, and that the files then come quickly down to the ground floor for the photograph, while people who do not pay a dalal stand for hours in the long ground-floor line.",
+  "target_section": "Passport and police clearance",
+  "placement": "How it works",
+  "why_new": "The physical route of a dalal file inside the office (floor, room, order of steps), as alleged by protesters.",
+  "published": "2024-11-20"
+ },
+ {
+  "key": "OT1-35",
+  "fact_ids": [
+   "OA0073",
+   "OA0074"
+  ],
+  "claim": "The Rajshahi victims said that when a file comes without a dalal the officers only look for mistakes and when it comes through a dalal nothing is checked, and that the person who enters ordinary people's passport files on the ground floor is often not at his desk, so the ordinary line does not move.",
+  "target_section": "Passport and police clearance",
+  "placement": "How it works",
+  "why_new": "Matches the Mymensingh pattern (errors found only in non-dalal files) at a second office.",
+  "published": "2024-11-20"
+ },
+ {
+  "key": "OT1-36",
+  "fact_ids": [
+   "OA0075",
+   "OA0076"
+  ],
+  "claim": "Deputy director Rozy Khandaker denied all the allegations of irregularity when the Rajshahi protesters met her and asked them to show proof of corruption, and told journalists she could not speak to the media without the permission of the passport department's Director General.",
+  "target_section": "Passport and police clearance",
+  "placement": "other: what officials said",
+  "why_new": "The official's denial, needed alongside the allegation.",
+  "published": "2024-11-20"
+ },
+ {
+  "key": "OT1-37",
+  "fact_ids": [
+   "OA0077",
+   "OA0078",
+   "OA0079"
+  ],
+  "claim": "According to an intelligence agency report cited by Prothom Alo, a \"G-25\" syndicate of passport officers was built by the then director Toufiqul Islam under the patronage of Abu Asad when he was director (administration and finance); its 24 officers became known as G-25 because they allegedly collect at least Tk 25 lakh in bribes a day, the Anti-Corruption Commission questioned its members in 2021 on the basis of the report and filed cases against some of them, and victims in Rajshahi said in November 2024 that deputy director Rozy Khandaker is known as a member.",
+  "target_section": "Passport and police clearance",
+  "placement": "How it works",
+  "why_new": "Names the alleged officer syndicate behind passport-office bribes and the ACC action; the guide has no named syndicate for passports.",
+  "published": "2024-11-20"
+ },
+ {
+  "key": "OT1-43",
+  "fact_ids": [
+   "OA0089",
+   "OA0090"
+  ],
+  "claim": "At the Gazipur regional passport office in May 2025, applicants said that applying on their own meets harassment on various pretexts while through a dalal everything is done at once, for Tk 1,000 to 1,500 paid to the dalal; a Prothom Alo reporter saw people wait about an hour for document checks and two to two and a half hours for fingerprints and photo, while those paying Tk 1,000 to 1,500 more through a dalal went straight to the fingerprint and photo room.",
+  "target_section": "Passport and police clearance",
+  "placement": "How it works",
+  "why_new": "A 2025 street price for skipping the biometric queue at a named office, observed by a reporter; TIB's survey says the biometric stage carries the highest bribe but gives no mechanism.",
+  "published": "2025-05-13"
+ },
+ {
+  "key": "OT1-44",
+  "fact_ids": [
+   "OA0091"
+  ],
+  "claim": "Ariful Islam of Kapasia said he joined the line for fingerprints and photo at the Gazipur passport office at 9 am and finished at 1:30 pm, while those who had paid a dalal finished within 10 to 15 minutes of arriving.",
+  "target_section": "Passport and police clearance",
+  "placement": "Cases",
+  "why_new": "Queue time with and without a dalal, in an applicant's words.",
+  "published": "2025-05-13"
+ },
+ {
+  "key": "OT1-45",
+  "fact_ids": [
+   "OA0092",
+   "OA0093"
+  ],
+  "claim": "Riad Mia of Tongi said he waited at the Gazipur passport office until 1:30 pm on a Wednesday in May 2025 without being able to submit his wife's file, came back on Thursday morning and finished after more than two hours, and that a man had asked him for Tk 1,000 to get the work done quickly, which he did not pay.",
+  "target_section": "Passport and police clearance",
+  "placement": "Cases",
+  "why_new": "A case of the work being done without paying, at the cost of a second day.",
+  "published": "2025-05-13"
+ },
+ {
+  "key": "OT1-46",
+  "fact_ids": [
+   "OA0094"
+  ],
+  "claim": "Some 25 to 30 small shops have grown up on both sides of the road in front of the Gazipur passport office, where dalals and their associates sit with computers, fill in applicants' passport forms and themselves deposit the bank fee, Prothom Alo reported in May 2025.",
+  "target_section": "Passport and police clearance",
+  "placement": "How it works",
+  "why_new": "Shows the dalal handling the bank payment as well as the form, at a second office with the same shop set-up as Mymensingh.",
+  "published": "2025-05-13"
+ },
+ {
+  "key": "OT1-48",
+  "fact_ids": [
+   "OA0098",
+   "OA0099"
+  ],
+  "claim": "Nasrin Parvin, deputy director of the Gazipur regional passport office, told Prothom Alo in May 2025 that pressure of applicants had risen in recent days so it could take some time, though not two to three hours, and that dalals may have been active before but since she arrived she has not let them inside under any circumstances.",
+  "target_section": "Passport and police clearance",
+  "placement": "other: what officials said",
+  "why_new": "The office's response.",
+  "published": "2025-05-13"
+ },
+ {
+  "key": "OT1-57",
+  "fact_ids": [
+   "OA0117",
+   "OA0118",
+   "OA0119"
+  ],
+  "claim": "On 13 July 2025 at the Faridpur regional passport office, two local dalals, Siam Ahmed (27) and Rashed Khan (30), took Tk 30 thousand in all from a Rohingya couple on a promise of getting them passports, then started no passport work, threatened them and beat their son-in-law when he protested, according to local sources; he went into the office and asked the Ansar guards for help, and police detained the couple, the son-in-law and the two dalals.",
+  "target_section": "Passport and police clearance",
+  "placement": "Cases",
+  "why_new": "A dated case of passport dalals taking money from people who cannot lawfully get a passport, with the dalals detained.",
+  "published": "2025-07-14"
+ },
+ {
+  "key": "OT1-58",
+  "fact_ids": [
+   "OA0120",
+   "OA0121"
+  ],
+  "claim": "The officer in charge of Faridpur Kotwali police station said in July 2025 that legal action was being taken against the two detained dalals, and that the three Rohingya would be sent to a camp if they were camp residents and otherwise back to where they live.",
+  "target_section": "Passport and police clearance",
+  "placement": "The law",
+  "why_new": "What the police did to the dalals and to the applicants.",
+  "published": "2025-07-14"
+ },
+ {
+  "key": "OT2-5",
+  "fact_ids": [
+   "OB0012",
+   "OB0013"
+  ],
+  "claim": "According to his brother Nur Hossain, Zakir Hossain of Banshkhali, Chattogram, unemployed and with a criminal case at the police station, needed a police clearance to go abroad but did not apply to the police directly because of the case, and went instead to an acquaintance working at a travel agency in Banshkhali.",
+  "target_section": "Passport and police clearance",
+  "placement": "other: Police clearance, What happens (case)",
+  "why_new": "Shows who buys a forged PCC and why (a pending criminal case); the guide has no case.",
+  "published": "2026-08-17"
+ },
+ {
+  "key": "OT2-6",
+  "fact_ids": [
+   "OB0014",
+   "OB0015"
+  ],
+  "claim": "According to Nur Hossain, the acquaintance, Abdur Rahman, said he could get the police clearance for Tk 1 lakh 23 thousand; the family paid Tk 80,000 in advance on 21 July 2026 and the rest after receiving the forged certificate on 12 August 2026.",
+  "target_section": "Passport and police clearance",
+  "placement": "other: Police clearance, What happens (case)",
+  "why_new": "A street price for a 'fast' PCC through a broker (answers the section's Need to know), against the Tk 1,500 fee.",
+  "published": "2026-08-17"
+ },
+ {
+  "key": "OT2-7",
+  "fact_ids": [
+   "OB0016",
+   "OB0017"
+  ],
+  "claim": "Police said the ring took Tk 1 lakh 23 thousand from Zakir Hossain on a promise of a quick police clearance, while making the certificate and showing it on the fake website cost Tk 3,000 in all, leaving Tk 1 lakh 20 thousand as profit.",
+  "target_section": "Passport and police clearance",
+  "placement": "other: Police clearance, What happens",
+  "why_new": "The ring's cost and margin; not in the guide.",
+  "published": "2026-08-17"
+ },
+ {
+  "key": "OT2-12",
+  "fact_ids": [
+   "OB0027",
+   "OB0028"
+  ],
+  "claim": "Chattogram District Superintendent of Police Masud Alam asked people going abroad not to get a police clearance through any broker or illegal middleman but to follow the set government process, and called forging officers' signatures and using a fake website and QR code to make the document believable a very serious crime.",
+  "target_section": "Passport and police clearance",
+  "placement": "What to do",
+  "why_new": "A named official's warning.",
+  "published": "2026-08-17"
+ },
+ {
+  "key": "AB1-116",
+  "fact_ids": [
+   "AA0224"
+  ],
+  "claim": "The Cumilla additional superintendent of police said in April 2026 that although there are some complaints about police clearance, people with no case against them are getting it within the set time, and that if it takes longer the matter is resolved quickly on contacting the office concerned.",
+  "target_section": "Police clearance",
+  "placement": "other: what officials say",
+  "why_new": "The police side on clearance delays, from one district.",
+  "published": "2026-04-30"
+ },
+ {
+  "key": "LB1-113",
+  "fact_ids": [
+   "LB0234"
+  ],
+  "claim": "Md Salah Uddin, deputy director of the Divisional Passport and Visa Office in Sylhet, said on 18 April 2026 that the regular-service passport fee is BDT 4,025 for five years and BDT 5,750 for ten years and the super-express fee is BDT 10,350, and that with super-express service a person who completes biometrics in the morning can get the passport in Dhaka by the afternoon.",
+  "target_section": "The passport office",
+  "placement": "other: fees and speed",
+  "why_new": "Ten-year fee and a super-express figure not in the guide (which gives 4,025 / 6,325 / 8,625); check the 10,350 figure against the official fee table.",
+  "published": "2026-05-05"
+ },
+ {
+  "key": "LB1-114",
+  "fact_ids": [
+   "LB0235"
+  ],
+  "claim": "The same passport official said a person aged 18 or over can apply with a national ID card and a person under 18 with a birth registration, paying the set fee at a bank and giving fingerprints.",
+  "target_section": "The passport office",
+  "placement": "other: who can apply",
+  "why_new": "Plain statement of the identity document needed by age, from a passport office head.",
+  "published": "2026-05-05"
+ },
+ {
+  "key": "MY2-21",
+  "fact_ids": [
+   "MB0037"
+  ],
+  "claim": "Mobarak Hossain, assistant director of the Cox's Bazar regional passport office, said at the 6 June 2026 roundtable that since e-passports began in 2020 no passport can be issued without online verification of the national ID and birth registration data, and that the gaps which earlier let some people get more than one passport are now easily detected.",
+  "target_section": "The passport office",
+  "placement": "other: The rule",
+  "why_new": "The section gives the NID-match rule but not that a second passport is now detected; relevant to brokers who offer a new passport with changed details.",
+  "published": "2026-06-23"
+ },
+ {
+  "key": "AB2-80",
+  "fact_ids": [
+   "AB0118"
+  ],
+  "claim": "A T M Abu Asad, additional director general of the Department of Immigration and Passports, told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that the department has cases where one person took passports by repeatedly changing name, date of birth and other information, and that this is reducing the acceptance of Bangladeshi passports with foreign embassies and immigration authorities.",
+  "target_section": "The passport office",
+  "placement": "other: official statement",
+  "why_new": "The passport authority's own statement on identity changes in passports and their effect abroad; relevant to the FAQ on agents changing a woman's age.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "AB2-81",
+  "fact_ids": [
+   "AB0119",
+   "AB0120",
+   "AB0121"
+  ],
+  "claim": "A T M Abu Asad, additional director general of the Department of Immigration and Passports, told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that passports have been issued in a much safer way since e-passports were introduced in 2020, that passports are now issued after verifying the NID or birth registration, and that because an e-passport takes the prints of all 10 fingers, the same person can no longer get a passport under a different identity.",
+  "target_section": "The passport office",
+  "placement": "The rule",
+  "why_new": "The section gives fees and the matching rule; it does not say that ten fingerprints now block a second passport under another name or age.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "AB2-82",
+  "fact_ids": [
+   "AB0122",
+   "AB0123"
+  ],
+  "claim": "A T M Abu Asad, additional director general of the Department of Immigration and Passports, told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that super express passports are being delivered within 24 hours or two days, and that the department has no scope to give a passport without valid information and documents even to someone who went abroad by an illegal route.",
+  "target_section": "The passport office",
+  "placement": "The rule",
+  "why_new": "Adds '24 hours' for super express (the section says within 2 working days) and the rule for people abroad irregularly who need a passport.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "AB1-74",
+  "fact_ids": [
+   "AA0142"
+  ],
+  "claim": "Prothom Alo reported in March 2025 that there is little activity for workers who come back: some projects were taken up after the Covid pandemic but not many workers benefit from them.",
+  "target_section": "What help is there when I come back?",
+  "placement": "other: what exists in practice",
+  "why_new": "Sets the official list of return help against what reaches returnees.",
+  "published": "2025-03-30"
+ },
+ {
+  "key": "LB1-119",
+  "fact_ids": [
+   "LB0243"
+  ],
+  "claim": "The PKB acting regional head in Sylhet said on 18 April 2026 that the bank tries to help returnees who come back having suffered losses with loans at 8 per cent interest, but that in many cases this is not succeeding.",
+  "target_section": "What help is there when I come back?",
+  "placement": "other: evidence on what works",
+  "why_new": "The bank's own admission that its returnee loans often do not work.",
+  "published": "2026-05-05"
+ },
+ {
+  "key": "AB2-88",
+  "fact_ids": [
+   "AB0129",
+   "AB0130"
+  ],
+  "claim": "Dr Jahangir Hossain, director (skills standards and curriculum) of the National Skills Development Authority, told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that under the authority's agreement with Probashi Kallyan Bank, returnees who hold a skills certificate can get a collateral-free loan of up to BDT 5 lakh, that recognition of prior learning (RPL) can create upskilling and reskilling opportunities using returnees' skills, and that work has begun to bring workers in Saudi Arabia and Singapore under RPL.",
+  "target_section": "What help is there when I come back?",
+  "placement": "other: loans for returnees",
+  "why_new": "The FAQ says PKB lends up to Tk 3 lakh without collateral; an NSDA director says a skills certificate raises the collateral-free limit to Tk 5 lakh under an NSDA-PKB agreement. Needs checking against PKB's own terms.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "AB2-90",
+  "fact_ids": [
+   "AB0133",
+   "AB0134",
+   "AB0135"
+  ],
+  "claim": "Md Jahangir Hossain, deputy managing director of Probashi Kallyan Bank, told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that the bank has several kinds of rehabilitation loan for returnees (rehabilitation, women's rehabilitation, special rehabilitation and self-employment loans), also lends where migrants run a business at home through their families, and has lent BDT 702 crore to 24 thousand 971 people under these rehabilitation loans.",
+  "target_section": "What help is there when I come back?",
+  "placement": "other: loans for returnees",
+  "why_new": "Names PKB's returnee loan types and the number of borrowers (24,971), from the bank itself; the FAQ gives terms but no scale beyond the 2% pandemic figure.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "AB2-91",
+  "fact_ids": [
+   "AB0136"
+  ],
+  "claim": "Mahsin Hamuda, national programme officer at the ILO (International Labour Organization), told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that 94 percent of returnee workers want to become entrepreneurs after coming home but do not get loans easily because of complicated procedures and too much paperwork, and that to solve this an arrangement has now been made to give loans across the country through Karmasangsthan Bank at 7 percent interest on submission of only three documents.",
+  "target_section": "What help is there when I come back?",
+  "placement": "other: loans for returnees",
+  "why_new": "A second lender for returnees not in the guide: Karmasangsthan Bank, 7% interest, three documents. The article does not name the three documents or the loan ceiling.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "AB2-92",
+  "fact_ids": [
+   "AB0137",
+   "AB0138"
+  ],
+  "claim": "Mahsin Hamuda, national programme officer at the ILO (International Labour Organization), told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that the government recently drew up a reintegration policy for returned migrant workers, that many people do not know Probashi Kallyan Bank gives loans, and that reintegration support is usually project-based and stops when the project ends.",
+  "target_section": "What help is there when I come back?",
+  "placement": "other: policy and its limits",
+  "why_new": "Notes the new reintegration policy and why returnee support is unreliable (project-based, little known).",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "AB2-93",
+  "fact_ids": [
+   "AB0139"
+  ],
+  "claim": "Anwar Hossain Chowdhury, managing director of the SME Foundation, told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that the foundation is training returnees in business planning, financial literacy, the papers needed, trade licence, TIN and BSTI certificate and product markets, and that this work is still at a very early stage.",
+  "target_section": "What help is there when I come back?",
+  "placement": "other: training for returnees",
+  "why_new": "Another body said to train returnees (SME Foundation), described by its own head as at an early stage; no location or enrolment route is given.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "OT2-25",
+  "fact_ids": [
+   "OB0058"
+  ],
+  "claim": "In two of the cases documented by Amnesty International in Saudi Arabia, the accused said they had been forced to carry banned drugs, but the court neither examined nor accepted that, Prothom Alo reported in October 2026.",
+  "target_section": "What should I carry?",
+  "placement": "other: add to the drug-packet warning",
+  "why_new": "Being forced to carry drugs is no defence in practice; the guide only says drug offences can carry death.",
+  "published": "2026-10-27"
+ },
+ {
+  "key": "FV1-23",
+  "fact_ids": [
+   "FV0044",
+   "FV0045"
+  ],
+  "claim": "Officials said the state minister for expatriates' welfare, Shafiqur Rahman Chowdhury, met heads of foreign employers in the UAE on 25 May 2024 and discussed sending more workers as motorbike riders and car drivers.",
+  "target_section": "Which countries can I go to for work right now?",
+  "placement": "other: UAE background",
+  "why_new": "Which trades the government was pushing for the UAE in 2024; low priority.",
+  "published": "2024-06-18"
+ },
+ {
+  "key": "MY1-76",
+  "fact_ids": [
+   "MA0079",
+   "MA0080",
+   "MA0081"
+  ],
+  "claim": "According to RMMRU, 9,06,355 workers went abroad from Bangladesh from January to November 2024 against 13,05,453 in the whole of 2023, and 54,696 of them were women, 6 per cent of the total and the lowest in ten years apart from the pandemic period.",
+  "target_section": "Which countries can I go to for work right now?",
+  "placement": "The numbers",
+  "why_new": "2024 departure totals and the women's share (dated figures).",
+  "published": "2024-12-28"
+ },
+ {
+  "key": "AB1-16",
+  "fact_ids": [
+   "AA0028",
+   "AA0029",
+   "AA0030"
+  ],
+  "claim": "Of more than 13 lakh workers who went abroad in 2023, 77,263 were women; BMET data show the most women in one year, 121,925, went in 2017, and the yearly figure stayed above one lakh until 2019.",
+  "target_section": "Which countries can a woman go to?",
+  "placement": "The numbers",
+  "why_new": "Yearly totals of women migrants; the FAQ gives only 2025-26 country counts.",
+  "published": "2024-01-13"
+ },
+ {
+  "key": "AB1-17",
+  "fact_ids": [
+   "AA0031",
+   "AA0032"
+  ],
+  "claim": "Bangladesh began sending women workers abroad in 1991; Saudi Arabia signed its agreement with Bangladesh in 2015, after Indonesia and the Philippines stopped sending domestic workers over allegations of abuse, and most Bangladeshi women migrants go to Saudi Arabia as domestic workers.",
+  "target_section": "Which countries can a woman go to?",
+  "placement": "other: background",
+  "why_new": "Why the Saudi domestic-worker channel opened to Bangladesh.",
+  "published": "2024-01-13"
+ },
+ {
+  "key": "AB1-25",
+  "fact_ids": [
+   "AA0045",
+   "AA0046"
+  ],
+  "claim": "Tipu Sultan, joint secretary general of BAIRA, told Prothom Alo in January 2024 that Saudi employers want workers quickly once they place a demand, that because of delays the women cannot be sent, and that the employers are therefore taking workers from other countries.",
+  "target_section": "Which countries can a woman go to?",
+  "placement": "other: why fewer women go",
+  "why_new": "The agencies' association's explanation for the fall in women going.",
+  "published": "2024-01-13"
+ },
+ {
+  "key": "AB2-43",
+  "fact_ids": [
+   "AB0068"
+  ],
+  "claim": "Rebeka Khan, joint secretary (Political-1) at the Home Ministry, told a roundtable on technology-driven fraud and human trafficking held at the Prothom Alo office in Dhaka on 22 July 2026 that the use of modern technology at airports, including the Passenger Name Record and Advance Passenger Information systems, is being expanded to detect fake travel documents.",
+  "target_section": "Who checks what",
+  "placement": "other: airport screening technology",
+  "why_new": "Names two passenger-data systems being expanded at airports to catch fake travel documents; not in the airport section.",
+  "published": "2026-07-30"
+ },
+ {
+  "key": "AB2-78",
+  "fact_ids": [
+   "AB0115"
+  ],
+  "claim": "Dr Md Al-Mamunul Ansari, DIG (Operations) of the Airport Armed Police Battalion at APBn headquarters, told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that the Airport Armed Police Battalion has worked at the airport since 2013, and that the air force and police, APBn, the Special Branch's immigration police and an anti-human-trafficking investigation team currently work there.",
+  "target_section": "Who checks what",
+  "placement": "other: who works at the airport",
+  "why_new": "The section lists SB immigration and the welfare desk; it does not mention APBn or an anti-trafficking investigation team at the airport.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "AB2-36",
+  "fact_ids": [
+   "AB0060"
+  ],
+  "claim": "Salma Ali, chairperson of ATSEC South Asia and adviser to the Bangladesh National Women Lawyers' Association, told a roundtable on technology-driven fraud and human trafficking held at the Prothom Alo office in Dhaka on 22 July 2026 that a suspicious passenger can be identified at the airport in a few minutes of observation, and that recently a young woman bound for Nepal was suspected, steps were taken, and she was rescued and brought back to the country.",
+  "target_section": "Who gets stopped",
+  "placement": "other: cases at the airport",
+  "why_new": "The section records women stopped on Nepal trips as a problem; this is a women's-rights lawyer citing a Nepal-bound woman who, she says, was rescued. No date or details are given.",
+  "published": "2026-07-30"
+ },
+ {
+  "key": "AB2-77",
+  "fact_ids": [
+   "AB0114"
+  ],
+  "claim": "Dr Md Al-Mamunul Ansari, DIG (Operations) of the Airport Armed Police Battalion at APBn headquarters, told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that during checks at immigration officers can often tell that a person travelling on a tourist visa is in fact going for work, and that they then verify and, if needed, report it or try to stop the person; if there is a case against someone, he said, the database is checked and action is taken.",
+  "target_section": "Who gets stopped",
+  "placement": "other: police statement",
+  "why_new": "A senior airport police officer stating in his own words that tourist-visa travellers judged to be going for work are stopped, and that passengers are checked against a case database.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "AB1-106",
+  "fact_ids": [
+   "AA0205",
+   "AA0206",
+   "AA0207"
+  ],
+  "claim": "The column says that under Saudi law employers are supposed to bear the worker's visa and recruitment costs but in practice this is often not followed, and that when Malaysia recruited government-to-government (G2G) many workers went for just Tk 35,000 in airfare, a system the writer says ended because of opposition from recruiting agencies.",
+  "target_section": "Who pays for the air ticket?",
+  "placement": "other: the rule against practice",
+  "why_new": "What a no-broker channel cost (Tk 35,000) and why, by the writer's account, it ended.",
+  "published": "2025-12-15"
+ },
+ {
+  "key": "MY1-75",
+  "fact_ids": [
+   "MA0078"
+  ],
+  "claim": "RMMRU's December 2024 report said no labour migration took place in 2024 to several countries including Oman, Bahrain, the United Arab Emirates and the Maldives, and that labour migration to Italy was stalled because of forged documents and to Serbia because the server of the application process was out of order.",
+  "target_section": "Why won't BMET clear workers for some countries?",
+  "placement": "The numbers",
+  "why_new": "Which corridors were shut in 2024 and why Italy and Serbia stalled (dated; check against the section's current list).",
+  "published": "2024-12-28"
+ }
+]

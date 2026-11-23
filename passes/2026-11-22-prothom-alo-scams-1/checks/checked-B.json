@@ -1,0 +1,338 @@
+[
+ {
+  "key": "B01",
+  "article_id": "fb807caf-3d78-4b20-bd79-780067734604",
+  "verdict": "partly",
+  "problem": "Attribution only: the facts match, but the article reports them as an allegation made by the victims' side at a press conference (written statement read by a relative, Toufiqur Rahman), not as established fact. The article calls the business a travel agency whose visa application centre office is in Gulshan; the year of 28 June is not written out (it follows 'last year's 12 March' in an article of January 2025). The article also gives the reason for the return: complications from visa forgery.",
+  "corrected_claim": "According to victims' relatives at a press conference in Bhairab, Kishoreganj, on 8 January 2025, the owner of a travel agency with an office in Gulshan, Dhaka, that had promised to send them to Europe took seven people to India and Nepal on 12 March 2024 for 'visa processing', and they were sent home from India on 28 June after complications caused by visa forgery.",
+  "quotes": [
+   "পরবর্তী সময়ে গত বছরের ১২ মার্চ ভিসা প্রসেসিংয়ের জন্য ৭ জনকে ভারত ও নেপাল নিয়ে যান।",
+   "এ কারণে ২৮ জুন ভারত থেকে তাঁদের দেশে পাঠিয়ে দেওয়া হয়।",
+   "লিখিত বক্তব্যে তৌফিকুর রহমান বলেন, ভিসা আবেদনকেন্দ্রের কার্যালয় ঢাকার গুলশানে।"
+  ]
+ },
+ {
+  "key": "B02",
+  "article_id": "fb807caf-3d78-4b20-bd79-780067734604",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The victims later found the Gulshan office padlocked",
+  "quotes": [
+   "দীর্ঘদিন ধরে প্রতিশ্রুতি বাস্তবায়ন করতে না পারায় শেষে কিছুদিন আগে ভুক্তভোগীরা গুলশান কার্যালয়ে গিয়ে দেখেন তালাবদ্ধ।"
+  ]
+ },
+ {
+  "key": "B03",
+  "article_id": "fb807caf-3d78-4b20-bd79-780067734604",
+  "verdict": "partly",
+  "problem": "Attribution only: the facts match, but the article reports them as a statement by a victim's relative (Toufiqur Rahman) at a press conference; the article says the agency owner took the money.",
+  "corrected_claim": "According to a victim's relative speaking at a press conference in Bhairab, Kishoreganj, on 8 January 2025, the owner of the Gulshan travel agency took BDT 80 lakh from seven people who were to be sent to Europe.",
+  "quotes": [
+   "মো. ইব্রাহীম মিয়াসহ সাতজনের কাছ থেকে ৮০ লাখ টাকা নেন এজেন্সির মালিক।"
+  ]
+ },
+ {
+  "key": "B04",
+  "article_id": "c0011fc9-bd09-44c9-81ce-4527438f2a02",
+  "verdict": "partly",
+  "problem": "The article says he was 'sent' to Nepal, not that he was flown. The godown, and the taking of his phone, passport and papers, are his own account at a press conference; the accused denies the allegations.",
+  "corrected_claim": "A Cumilla man promised passage to the United States said he was sent to Nepal on 7 December 2023 and locked in a godown in Kathmandu, where his mobile phone, passport and other papers were taken from him.",
+  "quotes": [
+   "চুক্তি অনুযায়ী ২০২৩ সালের ৭ ডিসেম্বর তারেক আজিজকে নেপালে পাঠানো হয়।",
+   "সেখানে আটকে রেখে আমার মুঠোফোন, পাসপোর্ট এবং অন্যান্য কাগজপত্র কেড়ে নেয় আশেক এলাহীর ভাড়া করা লোকজন।"
+  ]
+ },
+ {
+  "key": "B05",
+  "article_id": "c0011fc9-bd09-44c9-81ce-4527438f2a02",
+  "verdict": "partly",
+  "problem": "Attribution only: the facts match, but the article reports them as the man's own account at a press conference (the accused denies it). Details: the message was a WhatsApp voice recording saying he was in Mexico, made at gunpoint; the balance paid was BDT 43 lakh.",
+  "corrected_claim": "The Cumilla man said that in Kathmandu he was forced at gunpoint to send his father a WhatsApp voice recording saying he was in Mexico, after which his father paid the remaining BDT 43 lakh of the contract.",
+  "quotes": [
+   "পরে আমার মাথায় অস্ত্র ঠেকিয়ে ভয়ভীতি দেখিয়ে আমার বাবার হোয়াটসঅ্যাপে ভয়েস রেকর্ড পাঠাতে বাধ্য করে—আমি মেক্সিকো অবস্থান করছি।",
+   "আমার ভয়েস রেকর্ড পেয়ে বাবা চুক্তির বাকি ৪৩ লাখ টাকার মধ্যে ৪০ লাখ টাকা রেজাউল করিম রতনের অ্যাকাউন্টে এবং নগদ ৩ লাখ টাকাসহ মোট ৪৩ লাখ টাকা পরিশোধ করেন।"
+  ]
+ },
+ {
+  "key": "B06",
+  "article_id": "c0011fc9-bd09-44c9-81ce-4527438f2a02",
+  "verdict": "partly",
+  "problem": "Attribution only: the facts match, but the article reports them as an allegation by the man at a press conference; the accused denies it. The article gives BDT 2 lakh paid first and BDT 43 lakh later.",
+  "corrected_claim": "A Cumilla man promised passage to the United States alleged at a press conference on 1 March 2025 that BDT 45 lakh was taken from his family while he was held hostage in Nepal.",
+  "quotes": [
+   "আমেরিকায় (যুক্তরাষ্ট্র) নেওয়ার কথা বলে নেপাল নিয়ে জিম্মি করে তারেক আজিজ নামের কুমিল্লার এক তরুণের পরিবারের কাছ থেকে ৪৫ লাখ টাকা হাতিয়ে নেওয়ার অভিযোগ উঠেছে।"
+  ]
+ },
+ {
+  "key": "B07",
+  "article_id": "c0011fc9-bd09-44c9-81ce-4527438f2a02",
+  "verdict": "partly",
+  "problem": "The whole sentence, including the signing of the stamp paper, is the victim's claim, not only the non-payment. The accused told Prothom Alo that his signature on a stamp paper and blank cheque was taken by force. The article's total is misprinted as '46 taka'.",
+  "corrected_claim": "The Cumilla man claimed that in arbitration after his return the accused signed a stamp paper promising to pay BDT 45 lakh plus BDT 1 lakh compensation and then paid nothing; the accused said his signature on the stamp paper was taken by force.",
+  "quotes": [
+   "সালিসে ছাত্রশিবিরের সাবেক নেতা আশেক এলাহী ৪৫ লাখ টাকা এবং ক্ষতিপূরণ ১ লাখ টাকাসহ মোট ৪৬ টাকা পরিশোধ করবেন বলে স্ট্যাম্প সই দেন।",
+   "কিন্তু আশেক এক টাকাও পরিশোধ না করে উল্টো হুমকি দিয়ে আসছেন।",
+   "আর আওয়ামী লীগের আমলে তারা (তারেক আজিজ) জোর করে আমার কাছ থেকে স্ট্যাম্প ও খালি চেকে স্বাক্ষর নিয়েছিল।"
+  ]
+ },
+ {
+  "key": "B08",
+  "article_id": "24753f4b-c82d-4eeb-94fc-8b825fd970bd",
+  "verdict": "partly",
+  "problem": "Attribution only: the facts match, but the article reports them as regards the date: the article states the events in its own voice, but the date 14 September (2025, 'last year' in an April 2026 article) comes from the father. The article specifies dollars worth BDT 1 lakh and a further demand of BDT 1.5 lakh.",
+  "corrected_claim": "A young man from Jashore promised a labourer's job in Australia was instead taken to Kathmandu, Nepal (on 14 September 2025, according to his father) and kept in a hotel, where his passport and dollars worth BDT 1 lakh were taken and a further BDT 1.5 lakh was demanded.",
+  "quotes": [
+   "সেখানে একটি হোটেলে রেখে সাকিবের পাসপোর্ট ও কাছে থাকা এক লাখ টাকা মূল্যের ডলার নিয়ে নেওয়া হয়।",
+   "তিনি বলেন, ১৪ সেপ্টেম্বর নেপালের কাঠমান্ডুতে নিয়ে একটি হোটেলে রাখেন।",
+   "এরপর তাঁকে জিম্মি করে আরও দেড় লাখ টাকা দাবি করা হয়।"
+  ]
+ },
+ {
+  "key": "B09",
+  "article_id": "24753f4b-c82d-4eeb-94fc-8b825fd970bd",
+  "verdict": "partly",
+  "problem": "The fake visa-grant papers were given to the father, not to the young man. He was taken to Uttara by the brokers, who took the medical test and fingerprints after receiving the money. All of this is the father's account.",
+  "corrected_claim": "According to the father of a Jashore man promised a job in Australia, the brokers gave the father fake Australian government visa-grant papers when demanding the remaining BDT 12 lakh, and after taking the money took his son to Uttara, Dhaka, for a medical test and fingerprints.",
+  "quotes": [
+   "এরপর তাঁরা আলমগীরকে অস্ট্রেলিয়া সরকারের ভিসা মঞ্জুরের ভুয়া কাগজপত্র দিয়ে অবশিষ্ট ১২ লাখ টাকা দাবি করেন।",
+   "টাকা নেওয়ার পর তাঁরা সাকিবকে ঢাকার উত্তরায় নিয়ে মেডিক্যাল পরীক্ষা ও আঙুলের ছাপ নেন।"
+  ]
+ },
+ {
+  "key": "B10",
+  "article_id": "24753f4b-c82d-4eeb-94fc-8b825fd970bd",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The family paid a BDT 1,500,000 fee and BDT 150,000 more as ransom; he was still missing in April 2026",
+  "quotes": [
+   "এ জন্য জমি বিক্রি করে এবং এনজিও ও সমিতি থেকে ঋণ নিয়ে ১৫ লাখ টাকা তুলে দিয়েছিলেন দালালের হাতে।",
+   "তিনি ভ্যান বিক্রি করে ৫০ হাজার টাকা ও সমিতি থেকে সুদে এক লাখ টাকা মোবাইল ব্যাংকিংয়ের মাধ্যমে পাঠান।",
+   "এর পর থেকে তিনি ছেলের আর কোনো খোঁজ পাচ্ছেন না।"
+  ]
+ },
+ {
+  "key": "B11",
+  "article_id": "2da70a08-941c-49fa-85e5-8b5287f4df2e",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "A Madaripur man was promised a work permit for Morocco and onward travel to Spain or Italy for BDT 17 lakh",
+  "quotes": [
+   "তিনি মরক্কোর ওয়ার্ক পারমিট জোগাড় করে দেওয়ার আশ্বাস দিলেন।",
+   "সে দেশে কিছুদিন থেকে সুযোগ বুঝে ইউরোপের স্পেন বা ইতালিতে পাড়ি জমাতে পারব।",
+   "১৭ লাখ টাকায় স্পেন বা ইতালি পৌঁছে দেবে।"
+  ]
+ },
+ {
+  "key": "B12",
+  "article_id": "2da70a08-941c-49fa-85e5-8b5287f4df2e",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "At the airport in Egypt the group's passports were taken for 23 hours and returned with Libyan visas",
+  "quotes": [
+   "মিসরের বিমানবন্দরে আমাদের পাসপোর্ট নিয়ে নেওয়া হলো।",
+   "২৩ ঘণ্টা পর পাসপোর্ট হাতে পেয়েই বুঝতে পারলাম, প্রতারণার শিকার হয়েছি।",
+   "কারণ, আমাদের লিবিয়ার ভিসা দেওয়া হয়েছে।"
+  ]
+ },
+ {
+  "key": "B13",
+  "article_id": "2da70a08-941c-49fa-85e5-8b5287f4df2e",
+  "verdict": "partly",
+  "problem": "The article does not say he was told the visa was 'only for transit'. It says one of the brokers told them not to worry, they would be taken from Libya through Algeria to Morocco.",
+  "corrected_claim": "By the Madaripur man's account, when the group found Libyan visas in their passports at the airport in Egypt, one of the brokers told them not to worry: they would be taken from Libya through Algeria to Morocco.",
+  "quotes": [
+   "দালালদের একজন আমাদের কাছে এসে জানাল, চিন্তার কিছু নেই, আমাদের লিবিয়া থেকে আলজেরিয়া হয়ে মরক্কোতে নেওয়া হবে।"
+  ]
+ },
+ {
+  "key": "B14",
+  "article_id": "2da70a08-941c-49fa-85e5-8b5287f4df2e",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "He came home after 104 days, after ransom was paid",
+  "quotes": [
+   "শেষে মুক্তিপণ দিয়ে ১০৪ দিন পর পরিবারের কাছে ফিরেছেন মাদারীপুরের এই তরুণ।"
+  ]
+ },
+ {
+  "key": "B15",
+  "article_id": "e14d6b21-055d-433e-87d3-db89fe61e438",
+  "verdict": "partly",
+  "problem": "The article gives this as the account of one of the two women, not both. It says the necessary process would be completed at the Italian embassy after she was taken from Bangladesh to Egypt, and she would then be sent to Italy by a legal route.",
+  "corrected_claim": "One of two Bangladeshi women trafficked to Egypt said she was told she would be sent to Italy legally: after being taken from Bangladesh to Egypt the necessary process would be completed at the Italian embassy, and she would then be sent on by a legal route.",
+  "quotes": [
+   "দুই নারীর একজনের ভাষ্য অনুযায়ী, তাঁকে ইতালিতে বৈধভাবে পাঠানোর কথা বলা হয়েছিল।",
+   "বলা হয়, বাংলাদেশ থেকে মিসরে নেওয়ার পর ইতালির দূতাবাসে প্রয়োজনীয় প্রক্রিয়া সম্পন্ন করা হবে।"
+  ]
+ },
+ {
+  "key": "B16",
+  "article_id": "e14d6b21-055d-433e-87d3-db89fe61e438",
+  "verdict": "partly",
+  "problem": "The 'about a year and a half' and the taking of passport and phone are one woman's account of herself, with a second woman kept in the same room; the article does not give that duration for both (for both it says 'month after month').",
+  "corrected_claim": "One of two Bangladeshi women trafficked to Egypt said she was held there for about a year and a half, that her passport and mobile phone were taken, and that she and another Bangladeshi woman were kept locked in a room.",
+  "quotes": [
+   "তিনি বলেন, প্রায় দেড় বছর ধরে তাঁকে সেখানে আটকে রাখা হয়।",
+   "তাঁর পাসপোর্ট ও মুঠোফোন নিয়ে নেওয়া হয়।",
+   "ভিডিওতে এই নারী বলেন, ‘আমাদের ঘরের মধ্যে আটকায় রাখছে।"
+  ]
+ },
+ {
+  "key": "B17",
+  "article_id": "4f78e4c1-a142-482d-be6d-57624ed56dce",
+  "verdict": "partly",
+  "problem": "These are claims by the Special Response Battalion (SRB). The Serbia-Belarus assurance is reported for several named victims found in the investigation. The article says victims were first sent to countries in Asia and the Middle East; the leg through Nepal or Sri Lanka to Egypt or Libya and on to Europe by sea is described as something victims were then lured with, not as a route they were definitely sent on.",
+  "corrected_claim": "According to Bangladesh's Special Response Battalion (SRB), which arrested the ring's alleged leader in Dhaka in September 2026, several victims were assured they would be taken to Italy through Serbia and Belarus; SRB says the ring first sent victims to countries in Asia and the Middle East and then lured them with being sent through Nepal or Sri Lanka to Egypt or Libya and from there to Europe by a risky sea route.",
+  "quotes": [
+   "তাঁদের বিদেশে পাঠানোর কথা বলে ভিসা দেখানো বা সরবরাহ করা হয় এবং সার্বিয়া ও বেলারুশ হয়ে ইতালিতে নেওয়ার আশ্বাস দেওয়া হয়।",
+   "এসআরবির দাবি, চক্রটি প্রথমে ভুক্তভোগী ব্যক্তিদের এশিয়া ও মধ্যপ্রাচ্যের বিভিন্ন দেশে পাঠাত।",
+   "এরপর নেপাল বা শ্রীলঙ্কা হয়ে মিসর কিংবা লিবিয়ায় এবং সেখান থেকে ঝুঁকিপূর্ণ নৌপথে ইউরোপে পাঠানোর প্রলোভন দেখানো হতো।"
+  ]
+ },
+ {
+  "key": "B18",
+  "article_id": "4f78e4c1-a142-482d-be6d-57624ed56dce",
+  "verdict": "partly",
+  "problem": "Attribution only: the facts match, but the article reports them as an allegation, attributed to the Special Response Battalion (SRB).",
+  "corrected_claim": "According to Bangladesh's Special Response Battalion (SRB), a trafficking ring whose alleged leader was arrested in Dhaka in September 2026 took BDT 20 to 25 lakh per person, and in some cases up to BDT 40 lakh, on the promise of sending people to Europe.",
+  "quotes": [
+   "ইউরোপে পাঠানোর কথা বলে জনপ্রতি ২০ থেকে ২৫ লাখ টাকা এবং কোনো কোনো ক্ষেত্রে ৪০ লাখ টাকা পর্যন্ত নেওয়া হতো বলে জানিয়েছে বাহিনীটি।"
+  ]
+ },
+ {
+  "key": "B19",
+  "article_id": "4f78e4c1-a142-482d-be6d-57624ed56dce",
+  "verdict": "partly",
+  "problem": "The article does not state as fact that these were the ring's firms. It says, citing the Special Response Battalion (SRB), that the arrested man sent people abroad using the names of various unlicensed agencies, and that SRB has information on establishments with these two names. The first name is written 'আরজু' (Arju/Arzu) in Bangla.",
+  "corrected_claim": "According to Bangladesh's Special Response Battalion (SRB), the alleged ringleader arrested in Dhaka in September 2026 sent people abroad under the names of various unlicensed agencies, among them 'Arzu Immigration Limited' and 'Nafis Air Immigration Limited'.",
+  "quotes": [
+   "বিভিন্ন সময় লাইসেন্সবিহীন বিভিন্ন এজেন্সির নাম ব্যবহার করে তিনি বিদেশে লোক পাঠাতেন বলে প্রাথমিক জিজ্ঞাসাবাদ ও তদন্তে তথ্য পাওয়া গেছে।",
+   "এর মধ্যে ‘আরজু ইমিগ্রেশন লিমিটেড’ ও ‘নাফিস এয়ার ইমিগ্রেশন লিমিটেড’ নামের প্রতিষ্ঠানের তথ্য পেয়েছে এসআরবি।"
+  ]
+ },
+ {
+  "key": "B20",
+  "article_id": "42d5aef3-35e4-405f-b2c3-2e5653ef265e",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "A Noakhali man who contracted to reach Italy for BDT 1,200,000 was sent through New Delhi, Colombo, Sharjah and Cairo before being driven into Libya",
+  "quotes": [
+   "সিআইডি সূত্র জানায়, নোয়াখালীর সেনবাগের বাসিন্দা ওই যুবক প্রায় তিন বছর সৌদি আরবে কর্মরত ছিলেন।",
+   "ইতালিতে পাঠানোর কথা বলে ১২ লাখ টাকায় চুক্তি। পাসপোর্ট জমা দেওয়ার পর ভারতের নয়াদিল্লি, শ্রীলঙ্কার কলম্বো ও সংযুক্ত আরব আমিরাতের শারজাহ হয়ে নেওয়া হয় মিসরে।",
+   "এরপর তাঁকে গাড়িতে করে দুর্গম মরুভূমি ও পাহাড়ি সীমান্ত পেরিয়ে লিবিয়ায় নেওয়া হয়।"
+  ]
+ },
+ {
+  "key": "B21",
+  "article_id": "42d5aef3-35e4-405f-b2c3-2e5653ef265e",
+  "verdict": "partly",
+  "problem": "Stated differently. The article says that after he had stayed about 16 days in Colombo, more money was taken from his family in stages on various pretexts (taken, not just asked). In Cairo, according to the complaint, he was held about five days in a house; USD 6,000 more was then demanded and taken. The article does not say he was held 'until' it was paid.",
+  "corrected_claim": "According to the complaint of a Noakhali man trafficked towards Italy in April 2026, after he had stayed about 16 days in Colombo more money was taken from his family in stages on various pretexts, and in Cairo a ring member held him in a house for about five days, after which a further USD 6,000 was demanded and taken.",
+  "quotes": [
+   "সেখানে প্রায় ১৬ দিন অবস্থানের পর বিভিন্ন অজুহাতে তাঁর পরিবারের কাছ থেকে ধাপে ধাপে আরও টাকা নেওয়া হয়।",
+   "অভিযোগ অনুযায়ী, কায়রো বিমানবন্দর থেকে চক্রের এক সদস্য ওই যুবককে একটি বাসায় নিয়ে প্রায় পাঁচ দিন আটকে রাখেন।",
+   "পরে আগের চুক্তির কথা বলে তাঁর কাছে আরও ছয় হাজার মার্কিন ডলার দাবি করা হয়। ওই অর্থও নেওয়া হয়।"
+  ]
+ },
+ {
+  "key": "B22",
+  "article_id": "42d5aef3-35e4-405f-b2c3-2e5653ef265e",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "He had handed his passport to an office in Ashkona, Dhaka",
+  "quotes": [
+   "চুক্তি অনুযায়ী, গত ৫ এপ্রিল ঢাকার আশকোনার একটি অফিসে পাসপোর্ট জমা দেন ওই যুবক।"
+  ]
+ },
+ {
+  "key": "B23",
+  "article_id": "0cf2b161-8e80-45f8-848c-2caf7b73e5eb",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Men promised jobs in Cuba were taken through Kolkata, Delhi, Singapore and Fiji to Vanuatu and locked in an isolated house",
+  "quotes": [
+   "ওই টাকা দেওয়ার পর ২০১৭ সালের ১১ নভেম্বর কলকাতা, দিল্লি, সিঙ্গাপুর ও ফিজি হয়ে ভানুয়াতুতে নিয়ে যাওয়া হয় তাঁদের।",
+   "সেখানে পলাশ তাঁদের দুজনসহ মোট ১০ জনকে নিয়ে একটি নির্জন বাড়িতে আটকে রাখেন।",
+   "উচ্চ বেতনে কিউবায় নেওয়ার প্রলোভন দেখিয়ে অবৈধ পথে ভানুয়াতুতে নিয়ে প্রতারণা করায় প্রবাসী দুই ভাই ও ভাবিকে বিভিন্ন মেয়াদে কারাদণ্ড দিয়েছেন আদালত।"
+  ]
+ },
+ {
+  "key": "B24",
+  "article_id": "0cf2b161-8e80-45f8-848c-2caf7b73e5eb",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Vanuatu police rescued 103 more Bangladeshis",
+  "quotes": [
+   "এ ছাড়া দেশের বিভিন্ন জেলা থেকে নেওয়া আরও ১০৩ জনকে উদ্ধার করে দেশটির পুলিশ।"
+  ]
+ },
+ {
+  "key": "B25",
+  "article_id": "0cf2b161-8e80-45f8-848c-2caf7b73e5eb",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "On 12 November 2024 the Barishal Human Trafficking Tribunal sentenced two brothers to life imprisonment in the case",
+  "quotes": [
+   "মঙ্গলবার বরিশালে মানব পাচার ট্রাইব্যুনালের বিচারক মো. সোহেল আহমেদ এ রায় ঘোষণা করেন।",
+   "দণ্ডপ্রাপ্ত ব্যক্তিদের মধ্যে জসিম ও পলাশকে পৃথক দুই ধারায় যাবজ্জীবন ও ১৪ বছরের কারাদণ্ড এবং ৪৫ লাখ টাকা জরিমানা অনাদায়ে আরও এক বছরের সাজা দেওয়া হয়।"
+  ]
+ },
+ {
+  "key": "B26",
+  "article_id": "c8f6855e-a02e-4afa-b1b7-3c7cec2d1f8e",
+  "verdict": "partly",
+  "problem": "The Cyprus job promise is stated only for Mohammad Akram Hossain and his brother-in-law, not for the whole group of ten. The article says 'a few weeks' in Saudi Arabia, gives the date as September 2024, and says the bus to the army camp left from St Petersburg. All of it is Akram's own account.",
+  "corrected_claim": "A Bangladeshi man, Mohammad Akram Hossain, said a labour-supply firm promised him and his brother-in-law jobs in Cyprus, but in September 2024 their group of 10 Bangladeshis was first taken to Saudi Arabia on Hajj visas, kept there a few weeks, flown to Russia, and then taken by bus from St Petersburg to an army camp.",
+  "quotes": [
+   "প্রতিষ্ঠানটি তাঁদের সাইপ্রাসে চাকরি দেওয়ার প্রতিশ্রুতি দিয়েছিল।",
+   "আকরাম জানান, ১০ জন বাংলাদেশির একটা ছোট্ট দল ছিল তাঁদের। ২০২৪ সালের সেপ্টেম্বরে তাঁদের হজ ভিসায় আগে সৌদি আরবে নেওয়া হয়। কয়েক সপ্তাহ সেখানে রাখার পর রাশিয়ায় উড়িয়ে নেওয়া হয়।",
+   "এরপর সেন্ট পিটার্সবার্গ শহর থেকে তাঁদের বাসে করে একটি সেনা ক্যাম্পে নেওয়া হয়।"
+  ]
+ },
+ {
+  "key": "B27",
+  "article_id": "6919e78a-e356-4472-9651-28715d20984d",
+  "verdict": "partly",
+  "problem": "Attribution only: the facts match, but the article reports them as information from CID (police Criminal Investigation Department). The article specifies two people, says they were also given boarding passes, that they flew on a Biman Bangladesh Airlines flight, and that they were kept in custody two days after arriving at Rome's Leonardo da Vinci airport.",
+  "corrected_claim": "According to Bangladesh's CID, a trafficking ring gave two people tickets for Nepal- and Italy-bound flights, boarding passes and fake Italian Schengen visas; they flew for Italy on 26 May 2026, Italian immigration at Rome's Leonardo da Vinci airport found the Schengen visa in their passports to be fake, and after two days in custody they were sent back to Bangladesh on 28 May.",
+  "quotes": [
+   "পরে চক্রটি তাঁদের নেপাল ও ইতালিগামী বিমানের টিকিট, বোর্ডিং পাস এবং ইতালির জাল শেনজেন ভিসা সরবরাহ করে।",
+   "গত ২৬ মে বিমান বাংলাদেশ এয়ারলাইনসের একটি ফ্লাইটে ওই দুজন ইতালির উদ্দেশে যাত্রা করেন।",
+   "সেখানে তাঁদের দুই দিন হেফাজতে রাখার পর ২৮ মে বাংলাদেশে ফেরত পাঠানো হয়।"
+  ]
+ },
+ {
+  "key": "B28",
+  "article_id": "6919e78a-e356-4472-9651-28715d20984d",
+  "verdict": "partly",
+  "problem": "Attribution only: the facts match, but the article reports them as information from CID; the article specifies two people.",
+  "corrected_claim": "According to Bangladesh's CID, the two people sent to Italy on fake Schengen visas in May 2026 had a contract with the ring of BDT 30 lakh each, of which BDT 20 lakh each was taken in advance.",
+  "quotes": [
+   "সিআইডি জানায়, ইতালিতে চাকরি ও উন্নত জীবনের প্রলোভন দেখিয়ে আখলাছুরসহ মানব পাচারকারী চক্রের সদস্যরা দুই ব্যক্তির সঙ্গে জনপ্রতি ৩০ লাখ টাকার চুক্তি করেন।",
+   "অগ্রিম হিসেবে তাঁরা জনপ্রতি ২০ লাখ টাকা নেন।"
+  ]
+ },
+ {
+  "key": "B29",
+  "article_id": "6919e78a-e356-4472-9651-28715d20984d",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "CID arrested a Biman Bangladesh Airlines ground-service junior officer in the case",
+  "quotes": [
+   "জাল শেনজেন ভিসা দিয়ে ইতালিতে মানব পাচারের অভিযোগে বিমান বাংলাদেশ এয়ারলাইনসের এক কর্মকর্তাকে গ্রেপ্তার করেছে পুলিশের অপরাধ তদন্ত বিভাগ (সিআইডি)।",
+   "গ্রেপ্তার আখলাছুর রহমান বিমান বাংলাদেশ এয়ারলাইনসের জুনিয়র অফিসার (গ্রাউন্ড সার্ভিস, আইএনএস গেট) হিসেবে কর্মরত।"
+  ]
+ },
+ {
+  "key": "B30",
+  "article_id": "b75cb1e6-f9b8-4ef9-9f80-ef389aea6ec1",
+  "verdict": "partly",
+  "problem": "The article does not call it the 'usual' route. It says an analysis (of trafficking cases) shows this is how people are trafficked to Italy; it does not say who did the analysis.",
+  "corrected_claim": "An analysis reported by Prothom Alo on 31 March 2026 found that people trafficked from Bangladesh to Italy are taken through Nepal, India or Sri Lanka to Dubai, then through Egypt or Tunisia to Libya, where they are kept, and from there across the Mediterranean to Italy.",
+  "quotes": [
+   "বিশ্লেষণে দেখা যায়, ইতালিতে মানব পাচারের ক্ষেত্রে বাংলাদেশ থেকে নেপাল, ভারত বা শ্রীলঙ্কা হয়ে দুবাই (সংযুক্ত আরব আমিরাত) নেওয়া হয়।",
+   "এরপর মিসর বা তিউনিসিয়া হয়ে লিবিয়ায় নিয়ে রাখা হয় বাংলাদেশি তরুণদের।",
+   "সেখান থেকে ভূমধ্যসাগর পাড়ি দিয়ে নেওয়া হয় ইতালিতে।"
+  ]
+ }
+]

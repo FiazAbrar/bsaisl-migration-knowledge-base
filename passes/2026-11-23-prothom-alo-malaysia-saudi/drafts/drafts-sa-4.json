@@ -1,0 +1,707 @@
+{
+ "drafts": [
+  {
+   "key": "SA3d-1",
+   "article_id": "1e90cc42-ccef-4e26-88a8-b6b88e42fc00",
+   "target_section": "Complaints",
+   "placement": "other: violence among Bangladeshis",
+   "claim": "In July 2025 Expatriates' Welfare Adviser Asif Nazrul said that in one place in Saudi Arabia Bangladeshi thugs go and attack other Bangladeshis to snatch and loot their money.",
+   "quotes": [
+    "সৌদি আরবের একটি জায়গায় বাঙালি মাস্তানরা গিয়ে অন্য বাঙালিদের টাকা ছিনতাই লুট করতে হামলা চালায়।"
+   ],
+   "why_new": "The guide says nothing about Bangladeshi gangs robbing other Bangladeshi workers in Saudi Arabia; the place is not named."
+  },
+  {
+   "key": "SA3d-2",
+   "article_id": "6141f43b-6f0d-440f-98b3-c07dece6898f",
+   "target_section": "Driving",
+   "placement": "Cases",
+   "claim": "Sakibur Rahman (25) of Mohuripara, Pekua, Cox's Bazar, who went to Saudi Arabia on 6 June 2025, died on the spot in a road accident in Mahil city on 23 July 2025 while learning to drive, and a relative was injured, his elder brother told Prothom Alo.",
+   "quotes": [
+    "সাকিবুর চলতি বছরের ৬ জুন সৌদি আরবে যান। সেখানে তিনি গাড়ি চালানো শিখছিলেন।",
+    "গাড়ি চালানো শিখতে গিয়ে সড়ক দুর্ঘটনার শিকার হন। এতে ঘটনাস্থলেই তাঁর মৃত্যু হয়।",
+    "সৌদি আরবের মাহিল শহরে এ দুর্ঘটনা ঘটে।"
+   ],
+   "why_new": "Driving section has blood-money and insurance rules but no case of a new arrival killed while learning to drive; licence/learning rules are a gap."
+  },
+  {
+   "key": "SA3d-3",
+   "article_id": "6141f43b-6f0d-440f-98b3-c07dece6898f",
+   "target_section": "If a worker dies in Saudi Arabia",
+   "placement": "Cases",
+   "claim": "In July 2025 the Magnama Union Parishad panel chairman said papers were being collected to bring Sakibur Rahman's body home from Saudi Arabia, a month and a half after he arrived.",
+   "quotes": [
+    "সাকিবুরের মরদেহ দেশে আনতে কাগজপত্র জোগাড় করা হচ্ছে।",
+    "দেড় মাসের মাথায় প্রবাসে গিয়ে এমন মৃত্যু মানা যায় না।"
+   ],
+   "why_new": "Shows the Union Parishad's role in gathering papers for repatriation; the guide lists the heirship certificate but no case."
+  },
+  {
+   "key": "SA3d-4",
+   "article_id": "bc7af5d8-5948-4af7-a810-1f58947ff872",
+   "target_section": "Channels",
+   "placement": "Status: the 2025 agreement",
+   "claim": "Before the 2025 recruitment agreement was signed, Asif Nazrul said in August 2025 that it was the first agreement on migrant workers with Saudi Arabia in history, that it would increase workers' safety and protection there, that the previous government had tried many times and failed, and that neither India nor Pakistan has such an agreement with Saudi Arabia.",
+   "quotes": [
+    "ইতিহাসে প্রথমবারের মতো সৌদি আরবের সঙ্গে প্রবাসী কর্মীদের নিয়ে একটি চুক্তি হচ্ছে। এতে দেশটিতে থাকা কর্মীদের নিরাপত্তা ও সুরক্ষা বাড়বে।",
+    "গত সরকার অনেকবার চেষ্টা করেও এ চুক্তি করতে পারেনি। ভারত ও পাকিস্তানের সঙ্গেও সৌদির এ চুক্তি নেই।"
+   ],
+   "why_new": "Guide states only the signing date and that private agencies carry it; adds what it was meant to change and the India/Pakistan comparison."
+  },
+  {
+   "key": "SA3d-5",
+   "article_id": "bc7af5d8-5948-4af7-a810-1f58947ff872",
+   "target_section": "Housing, food and health care",
+   "placement": "Cases",
+   "claim": "Asif Nazrul said in August 2025 that he had seen migrant workers at one place in Saudi Arabia living in conditions worse than anyone lives in Bangladesh's worst slum.",
+   "quotes": [
+    "সৌদি আরবে একটি জায়গায় প্রবাসী কর্মীদের এমন খারাপ অবস্থা দেখেছেন, দেশের সবচেয়ে খারাপ বস্তিতেও কেউ এতটা খারাপ থাকে না।"
+   ],
+   "why_new": "No first-hand official account of housing conditions in the guide."
+  },
+  {
+   "key": "SA3d-6",
+   "article_id": "bc7af5d8-5948-4af7-a810-1f58947ff872",
+   "target_section": "CROSS-COUNTRY: How much does it really cost to go?",
+   "placement": "other: official statement",
+   "claim": "Asif Nazrul said in August 2025 that people spend Tk 8 to 10 lakh to go abroad and many get no work when they arrive.",
+   "quotes": [
+    "৮ থেকে ১০ লাখ টাকা খরচ করে চলে যান। গিয়ে অনেকে কাজ পান না।"
+   ],
+   "why_new": "An adviser's own cost estimate (no country named), higher than the survey averages the cross-country doc gives."
+  },
+  {
+   "key": "SA3d-7",
+   "article_id": "3c901796-c07c-47a9-b7a5-89992464a604",
+   "target_section": "Current situation",
+   "placement": "other: 2025 government steps",
+   "claim": "The Expatriates' Welfare Ministry said in August 2025 that a joint task force had been formed to resolve the problems of Bangladeshis in Saudi Arabia.",
+   "quotes": [
+    "সৌদিপ্রবাসীদের সমস্যার সমাধানে একটি যৌথ টাস্কফোর্স গঠন করা হয়েছে।"
+   ],
+   "why_new": "The guide does not mention the joint task force; its membership and how a worker reaches it are unknown (Need to know)."
+  },
+  {
+   "key": "SA3d-8",
+   "article_id": "3c901796-c07c-47a9-b7a5-89992464a604",
+   "target_section": "Amnesties and grace periods",
+   "placement": "Need to know",
+   "claim": "The Expatriates' Welfare Ministry's one-year report (August 2025) said measures had been taken to regularise irregular women workers in Saudi Arabia, Jordan and Oman.",
+   "quotes": [
+    "সৌদি আরব, জর্ডান ও ওমানে অনিয়মিত নারী শ্রমিকদের নিয়মিত করার ব্যবস্থা নেওয়া হয়েছে।"
+   ],
+   "why_new": "Guide says women domestic workers are excluded from SEP and asks how they get an exit visa; this names a regularisation measure for irregular women without details."
+  },
+  {
+   "key": "SA3d-9",
+   "article_id": "3c901796-c07c-47a9-b7a5-89992464a604",
+   "target_section": "If you aren't paid",
+   "placement": "other: legal help abroad",
+   "claim": "The Expatriates' Welfare Ministry said in August 2025 that legal consultancy firms had been appointed in Qatar, Oman, Saudi Arabia, the UAE and Kuwait.",
+   "quotes": [
+    "কাতার, ওমান, সৌদি আরব, আরব আমিরাত ও কুয়েতে আইনি পরামর্শক প্রতিষ্ঠান নিয়োগ করা হয়েছে।"
+   ],
+   "why_new": "The guide has no mention of a ministry-appointed law firm in Saudi Arabia; name and access route are a gap."
+  },
+  {
+   "key": "SA3d-10",
+   "article_id": "3c901796-c07c-47a9-b7a5-89992464a604",
+   "target_section": "Step 3: Pass the skill test",
+   "placement": "other: test centres",
+   "claim": "The ministry's one-year report said in August 2025 that under the agreement between BMET and the Saudi company Takamol, 15 TTCs and BRTC training centres had gained the capacity to run the skill test in the past year.",
+   "quotes": [
+    "বিএমইটি ও সৌদি আরবের কোম্পানি ‘তাকামোল’–এর মধ্যে স্বাক্ষরিত চুক্তির মাধ্যমে গত এক বছরে ১৫টি টিটিসি ও বিআরটিসি ট্রেনিং সেন্টার দক্ষতা পরীক্ষা পরিচালনা করার সক্ষমতা অর্জন করেছে।"
+   ],
+   "why_new": "Conflict: guide says the test runs at 27 TTCs and BRTC Gazipur (later source); this is the August 2025 count."
+  },
+  {
+   "key": "SA3d-11",
+   "article_id": "3c901796-c07c-47a9-b7a5-89992464a604",
+   "target_section": "What has closed it before",
+   "placement": "other: pardons",
+   "claim": "After Bangladeshis abroad protested in support of the July-August 2024 uprising, 12 who had been held in Saudi Arabia were freed and returned home, the ministry said in August 2025.",
+   "quotes": [
+    "আরব আমিরাত থেকে ১৮৮ জন ও সৌদি আরব থেকে ১২ জন মুক্ত হয়ে দেশে ফিরে আসেন।"
+   ],
+   "why_new": "Guide has nothing on Bangladeshis jailed in Saudi Arabia for political protest; relevant to what can get you jailed."
+  },
+  {
+   "key": "SA3d-12",
+   "article_id": "3c901796-c07c-47a9-b7a5-89992464a604",
+   "target_section": "Size",
+   "placement": "other: demand trend",
+   "claim": "Ministry sources said in August 2025 that demand for unskilled workers in Saudi Arabia, the largest labour market, has fallen.",
+   "quotes": [
+    "বৃহত্তম শ্রমবাজার সৌদি আরবে অদক্ষ কর্মীর চাহিদা কমে এসেছে।"
+   ],
+   "why_new": "Guide gives numbers but not the stated fall in demand for unskilled workers."
+  },
+  {
+   "key": "SA3d-13",
+   "article_id": "3c901796-c07c-47a9-b7a5-89992464a604",
+   "target_section": "CROSS-COUNTRY: Can I go through the government agency, BOESL?",
+   "placement": "other: numbers",
+   "claim": "BOESL sent 16,066 workers to various countries in FY2024-25, 4% more than the year before, the ministry said in August 2025.",
+   "quotes": [
+    "বোয়েসেল) বিভিন্ন দেশে ১৬ হাজার ৬৬ জন কর্মী পাঠিয়েছে, যা আগের বছরের তুলনায় ৪ শতাংশ বেশি।"
+   ],
+   "why_new": "Cross-country gives BOESL's 14-year total but not the FY2024-25 figure."
+  },
+  {
+   "key": "SA3d-14",
+   "article_id": "e89d3e3c-969e-4300-8c14-6eed1186b2ab",
+   "target_section": "Get BMET clearance",
+   "placement": "other: platform",
+   "claim": "Asif Nazrul said on 20 August 2025 that the interim government had shut the private app 'Ami Probashi' and built an integrated government online platform on which BMET issues emigration clearance 100% online.",
+   "quotes": [
+    "বেসরকারি অ্যাপ ‘আমি প্রবাসী’ বন্ধ করে বৈদেশিক কর্মসংস্থানের জন্য একটি সমন্বিত অনলাইন প্ল্যাটফর্ম তৈরি করেছে অন্তর্বর্তী সরকার।",
+    "সরকারের নিজস্ব ডিজিটাল প্ল্যাটফর্মে শতভাগ অনলাইনে জনশক্তি কর্মসংস্থান ও প্রশিক্ষণ ব্যুরো (বিএমইটি) কর্তৃক সরাসরি বহির্গমন ছাড়পত্র প্রদান করা হচ্ছে।"
+   ],
+   "why_new": "Conflict: the guide's PDO enrolment step (Step 8) still tells workers to enrol through the Ami Probashi app [B0166]; the minister says the app was shut."
+  },
+  {
+   "key": "SA3d-15",
+   "article_id": "d84eff87-5c7b-4514-81af-f87448f5f4d5",
+   "target_section": "The root: a visa the sponsor owns",
+   "placement": "other: history of the trade",
+   "claim": "Physician Arifur Rahman, now Premier Bank chairman, told Prothom Alo (August 2025) that years ago a contractor named Al Khodari, who had the Saudi government contract to clean Dammam, needed 2,700 people from Bangladesh and divided the job of supplying them among several people, and a later job for 4,000 people was also shared out among Dhaka businessmen.",
+   "quotes": [
+    "সৌদি সরকার থেকে দাম্মাম শহরকে পরিচ্ছন্ন করার কাজ পেয়েছেন। আমাকে জানালেন, বাংলাদেশ থেকে তাঁর ২ হাজার ৭০০ জন লোক দরকার",
+    "২ হাজার ৭০০ লোক বাংলাদেশ থেকে নেওয়ার কাজটা আল খোদারি পরে ভাগ করে দেন কয়েকজনকে।",
+    "এবার এল চার হাজার লোক নেওয়ার কাজ। এটাও কয়েকজন ভাগ করে নিলেন।"
+   ],
+   "why_new": "Historical example (before 2010) of how a large Saudi demand was split among Bangladeshi recruiters; date not stated in the article."
+  },
+  {
+   "key": "SA3d-16",
+   "article_id": "d84eff87-5c7b-4514-81af-f87448f5f4d5",
+   "target_section": "What can get you jailed or deported",
+   "placement": "Cases",
+   "claim": "Arifur Rahman said that while working as a doctor in Saudi Arabia he was taken by Saudi police and questioned as a suspect after a complaint that he, a doctor, was involved in recruiting workers, a breach of his iqama rules he did not know of; he was released after about three months as the allegation was not proved.",
+   "quotes": [
+    "এটি ছিল ইকামার নিয়ম ভঙ্গ করা, যা আরিফুর রহমানের জানা ছিল না।",
+    "এ অভিযোগের জেরে সৌদি পুলিশ ধরে নিয়ে যায় আরিফুর রহমানকে এবং সন্দেহভাজন হিসেবে জিজ্ঞাসাবাদ করে। তবে অভিযোগ প্রমাণিত না হওয়ায় প্রায় তিন মাস পর ছেড়ে দেয়।"
+   ],
+   "why_new": "A case of detention for work outside the iqama's profession; undated (before 2010)."
+  },
+  {
+   "key": "SA3d-17",
+   "article_id": "d8f3f511-7948-4076-bf6b-ff4a87fa9906",
+   "target_section": "Who qualifies",
+   "placement": "other: nurses",
+   "claim": "A nursing teaching assistant at Bangladesh Medical University wrote in September 2025 that nurses can get work in Saudi Arabia and the Middle East by taking the 'Prometric' exam, and that demand for male nurses abroad is rising.",
+   "quotes": [
+    "‘প্রোমেট্রিক’ পরীক্ষা দিয়ে সৌদি আরব ও মধ্যপ্রাচ্যেও কাজের সুযোগ আছে।",
+    "বিদেশে পুরুষ নার্সদের চাহিদা বাড়ছে।"
+   ],
+   "why_new": "The guide has nothing on nurses or the Prometric licensing exam; route, fee and agency rules are a gap."
+  },
+  {
+   "key": "SA3d-18",
+   "article_id": "a1913411-cd6d-4fa1-a188-a932246d6ad6",
+   "target_section": "What has closed it before",
+   "placement": "other: history",
+   "claim": "According to the Expatriates' Welfare Ministry (October 2025), recruitment to Saudi Arabia began informally in 1976 with no formal agreement on general workers; two special agreements were signed before 2025, on domestic worker recruitment in 2015 and on skill verification in 2022.",
+   "quotes": [
+    "১৯৭৬ সাল থেকে দেশটিতে অনানুষ্ঠানিকভাবে কর্মী নিয়োগ শুরু হয়। তবে দেশটির সঙ্গে সাধারণ কর্মী নিয়োগসংক্রান্ত কোনো আনুষ্ঠানিক চুক্তি ছিল না।",
+    "২০১৫ সালে গৃহকর্মী নিয়োগ এবং ২০২২ সালে দক্ষতা যাচাই–সংক্রান্ত দুটি বিশেষ চুক্তি স্বাক্ষর হয়েছে।"
+   ],
+   "why_new": "Guide cites the 2015 domestic agreement's wage (D0193) but not the 1976 start or the 2022 skill-verification agreement."
+  },
+  {
+   "key": "SA3d-19",
+   "article_id": "a1913411-cd6d-4fa1-a188-a932246d6ad6",
+   "target_section": "Channels",
+   "placement": "Status: the 2025 agreement",
+   "claim": "At the bilateral meeting before the 6 October 2025 signing in Riyadh, Asif Nazrul asked that employment contracts be correct, that employers carry out the duty of renewing the iqama, and that workers wanting to go home get an exit visa quickly; Saudi Minister of Human Resources Ahmed bin Sulaiman Al-Rajhi told officials to take effective steps on these.",
+   "quotes": [
+    "সৌদি আরবে নিয়োগ চুক্তি যেন সঠিক হয়। ইকামা (কাজের বৈধ অনুমতিপত্র) নবায়নের দায়িত্ব যেন নিয়োগকর্তা পালন করেন। দেশে ফেরত যেতে ইচ্ছুক কর্মীরা যেন স্বল্প সময়ে ‘এক্সিট’ ভিসা পান।",
+    "এসব বিষয় দ্রুত সমাধানের জন্য কার্যকর পদক্ষেপ নিতে সংশ্লিষ্টদের নির্দেশ দেন সৌদি মন্ত্রী।"
+   ],
+   "why_new": "Shows the three problems Bangladesh raised (contracts, iqama renewal, exit visas); guide records only the signing."
+  },
+  {
+   "key": "SA3d-20",
+   "article_id": "a1913411-cd6d-4fa1-a188-a932246d6ad6",
+   "target_section": "Where to complain",
+   "placement": "other: legal effect of the agreement",
+   "claim": "Former BAIRA secretary general Ali Haider Chowdhury said in October 2025 that workers are usually sent under memoranda of understanding with no legal obligation, while the agreement gives workers sent to Saudi Arabia legal protection and lets the government go to court for a worker if needed.",
+   "quotes": [
+    "সাধারণত সমঝোতা স্মারকের আওতায় কর্মী পাঠানো হয়, যার আইনগত বাধ্যবাধকতা নেই। চুক্তির মধ্য দিয়ে সৌদিতে পাঠানো কর্মীর আইনি সুরক্ষা তৈরি হলো। এখন প্রয়োজনে কর্মীর পক্ষ হয়ে আদালতে যেতে পারবে সরকার।"
+   ],
+   "why_new": "New claim about the agreement's legal effect; whether the government has gone to court for any worker under it is a Need to know."
+  },
+  {
+   "key": "SA3d-21",
+   "article_id": "a1913411-cd6d-4fa1-a188-a932246d6ad6",
+   "target_section": "Contacts",
+   "placement": "other: named officials",
+   "claim": "In October 2025 Bangladesh's ambassador to Saudi Arabia was Md. Delwar Hossain, the deputy chief of mission S M Nazmul Hasan and the labour counsellor Muhammad Rezae Rabbi.",
+   "quotes": [
+    "সৌদি আরবে নিযুক্ত বাংলাদেশের রাষ্ট্রদূত মো. দেলওয়ার হোসেন, মিশন উপপ্রধান এস এম নাজমুল হাসান এবং শ্রম কাউন্সেলর মুহাম্মাদ রেজায়ে রাব্বীসহ"
+   ],
+   "why_new": "Contacts list the labour counsellor's phone and email but not names."
+  },
+  {
+   "key": "SA3d-22",
+   "article_id": "1f45da2f-125c-4bd1-af99-7e4939e35fe6",
+   "target_section": "Avoid a \"free visa\"",
+   "placement": "Cases",
+   "claim": "Md. Habib Khan (21) of Nabakalas, Matlab Dakshin, Chandpur, borrowed Tk 5.5 lakh and went to Saudi Arabia in November 2023 on a 'free visa' through a Narayanganj broker named Md. Rashed; after working a while at a residential hotel in Mecca he left, then under a local broker got only occasional small jobs with little pay and spent most of his time idle, his family said.",
+   "quotes": [
+    "সাড়ে পাঁচ লাখ টাকা ঋণ করে মো. রাশেদ নামে নারায়ণগঞ্জের এক দালালের মাধ্যমে ‘ফ্রি ভিসায়’ দেশটিতে যান।",
+    "এরপর সেখানকার এক দালালের অধীনে থেকে মাঝেমধ্যে ছোটখাটো কাজ পেলেও তেমন পারিশ্রমিক পেতেন না। অধিকাংশ সময় কাটাতেন বসে বসে।"
+   ],
+   "why_new": "A dated free-visa case showing the local-broker stage in Saudi Arabia; the guide's free-visa section has no such case."
+  },
+  {
+   "key": "SA3d-23",
+   "article_id": "1f45da2f-125c-4bd1-af99-7e4939e35fe6",
+   "target_section": "If a worker dies in Saudi Arabia",
+   "placement": "Cases",
+   "claim": "Habib Khan died of a heart attack in a Mecca hospital in October 2025 with his Tk 5.5 lakh loan still unpaid; his father said worry over lack of work made him ill, and the family was waiting for the body.",
+   "quotes": [
+    "সেখানে কাজ না পেয়ে দুশ্চিন্তায় আমার ছেলে অসুস্থ হয়ে গেল। শেষমেশ হার্ট অ্যাটাকে মারা গেল। ঋণের টাকা শোধ হয়নি এখন পর্যন্ত।",
+    "এহন লাশের অপেক্ষায় আছি।"
+   ],
+   "why_new": "Case linking a free visa, debt and a young worker's death; guide's death section has procedure, no case."
+  },
+  {
+   "key": "SA3d-24",
+   "article_id": "97cc1097-31af-4bb5-85f7-897881e025b5",
+   "target_section": "Sending money home",
+   "placement": "other: cost",
+   "claim": "Bangladesh Bank Governor Ahsan H. Mansur said on 7 October 2025 that expatriates in Saudi Arabia pay 6 to 10 percent to send remittances, comparatively much higher, a huge burden on them.",
+   "quotes": [
+    "সৌদি আরব থেকে প্রবাসীরা তাঁদের রেমিট্যান্স পাঠাতে ৬ থেকে ১০ শতাংশ পর্যন্ত খরচ দেন। এটি তাঁদের জন্য বিশাল চাপ।"
+   ],
+   "why_new": "Consistent with the guide's 7-9% app range [E0080]; adds the central bank's own estimate."
+  },
+  {
+   "key": "SA3d-25",
+   "article_id": "97cc1097-31af-4bb5-85f7-897881e025b5",
+   "target_section": "Size",
+   "placement": "The numbers",
+   "claim": "Policy Exchange chairman Masrur Reaz said on 7 October 2025 that about 21 lakh Bangladeshis work in Saudi Arabia, only 22 percent of them skilled.",
+   "quotes": [
+    "বর্তমানে সৌদি আরবে প্রায় ২১ লাখ বাংলাদেশি কর্মরত। তবে তাদের মধ্যে মাত্র ২২ শতাংশ দক্ষ শ্রমিক।"
+   ],
+   "why_new": "Guide gives yearly departures but no stock of Bangladeshis in Saudi Arabia or skill share; another column (891d19ee) says 25 lakh."
+  },
+  {
+   "key": "SA3d-26",
+   "article_id": "97cc1097-31af-4bb5-85f7-897881e025b5",
+   "target_section": "Sending money home",
+   "placement": "other: context",
+   "claim": "The Bangladesh Bank Governor said in October 2025 that Saudi Arabia is Bangladesh's biggest source of remittances and of foreign currency inflow.",
+   "quotes": [
+    "বাংলাদেশে প্রবাসী আয়ের সবচেয়ে বড় উৎস সৌদি আরব। এটি আমাদের বৈদেশিক মুদ্রা প্রবাহেরও সবচেয়ে বড় উৎস।"
+   ],
+   "why_new": "Remittance share not in guide; RMMRU (df8d2ef1) gives 15.52% in 2025."
+  },
+  {
+   "key": "SA3d-27",
+   "article_id": "891d19ee-d54f-4392-a542-1121ffb9e476",
+   "target_section": "Size",
+   "placement": "The numbers",
+   "claim": "A Prothom Alo opinion column (October 2025) stated there are about 25 lakh Bangladeshi expatriates in Saudi Arabia.",
+   "quotes": [
+    "সৌদি আরবে প্রায় ২৫ লাখ, মালয়েশিয়াতে প্রায় ১২ লাখ"
+   ],
+   "why_new": "Stock figure not in guide; conflicts with the 21 lakh given at the October 2025 business summit (97cc1097)."
+  },
+  {
+   "key": "SA3d-28",
+   "article_id": "891d19ee-d54f-4392-a542-1121ffb9e476",
+   "target_section": "Staying long-term",
+   "placement": "other: voting from abroad",
+   "claim": "According to an October 2025 column, the Election Commission planned to pilot voting by Bangladeshis abroad in Saudi Arabia, Malaysia, the UAE and the UK, first at embassy booths, with voters registering online in advance and then voting on the set day after passport and NID checks.",
+   "quotes": [
+    "পরীক্ষামূলকভাবে সৌদি আরব, মালয়েশিয়া, সংযুক্ত আরব আমিরাত ও যুক্তরাজ্যে প্রবাসী ভোট কার্যক্রম শুরু করার পরিকল্পনা রয়েছে।",
+    "প্রথম ধাপে দূতাবাসভিত্তিক বুথে ভোট গ্রহণের পরিকল্পনা রয়েছে। ভোটাররা আগেই অনলাইনে নিবন্ধন করবেন, এরপর নির্ধারিত দিনে পাসপোর্ট ও এনআইডি যাচাই করে ভোট দিতে পারবেন।"
+   ],
+   "why_new": "Guide has nothing on voting from Saudi Arabia; this was a plan, and how it was actually run is a Need to know."
+  },
+  {
+   "key": "SA3d-29",
+   "article_id": "443d9969-4f80-44c1-a1fd-1f49f02958a8",
+   "target_section": "When to pay, when to fly, and Hajj-season pauses",
+   "placement": "Cases",
+   "claim": "Sarowar Hossain Rabbi (27) of Dakshin Panan, Hossainpur, Kishoreganj said in October 2025 that he had been unable to go to Saudi Arabia for three or four months for lack of Tk 1 lakh, that his visa and medical would both expire on 30 October, and that his visa had expired twice before.",
+   "quotes": [
+    "তিন-চার মাস ধরে এক লাখ টাকা না থাকায় তিনি সৌদি আরবে যেতে পারছেন না।",
+    "ভিসা ও মেডিকেলের মেয়াদ আগামী ৩০ অক্টোবর শেষ হয়ে যাবে। এর আগে তাঁর দুবার ভিসার মেয়াদ শেষ হয়েছে।"
+   ],
+   "why_new": "A case of a visa expiring repeatedly while the worker raises money; guide notes expired work visas are hard to renew but has no case, and doesn't say the medical expires too."
+  },
+  {
+   "key": "SA3d-30",
+   "article_id": "785f5c42-d0f6-4310-bae4-8fafe7fcf043",
+   "target_section": "Avoid a \"free visa\"",
+   "placement": "other: what happens on arrival",
+   "claim": "OKUP's survey of 1,084 households of workers who went to Kuwait, Oman, Qatar, the UAE and Saudi Arabia in 2022 (released 19 October 2025) found that 43% got no work, 57% got a work permit, 21% found no work and paid about Tk 1.5 lakh more for an iqama, 4% paid Tk 44,000 to get work, 4% came home at their own cost, and 14% could not pay for a permit or the trip home and stayed on undocumented.",
+   "quotes": [
+    "তারপরও দেশগুলোতে গিয়ে কাজ পাননি ৪৩ শতাংশ কর্মী।",
+    "দেশগুলোতে গিয়ে ৫৭ শতাংশ কাজের অনুমতি পেয়েছেন। গিয়ে কাজ না পেয়ে আরও প্রায় দেড় লাখ টাকা খরচ করে কাজের অনুমতিপত্র (ইকামা) নিয়েছেন ২১ শতাংশ কর্মী। ৪৪ হাজার টাকা খরচ করে কাজ পেয়েছেন ৪ শতাংশ কর্মী।",
+    "আর ১৪ শতাংশ কর্মী দেশগুলোতে গিয়ে বাড়তি খরচ করতে না পারায় কাজের অনুমতি পাননি, দেশেও ফিরতে পারেননি। অবৈধ হয়ে রয়ে গেছেন সেখানে।"
+   ],
+   "why_new": "Five-country survey, not Saudi-only; guide has OKUP's complaint study (47% no permit) but not these outcome shares."
+  },
+  {
+   "key": "SA3d-31",
+   "article_id": "785f5c42-d0f6-4310-bae4-8fafe7fcf043",
+   "target_section": "How they pay",
+   "placement": "other: borrowing",
+   "claim": "In OKUP's 2022 Gulf survey (released October 2025), 72% of free-visa workers took loans, 11% mortgaged land and 6% sold land, and those who came home without work could not recover mortgaged land.",
+   "quotes": [
+    "৭২ শতাংশ বলেছেন, তাঁরা কোনো না কোনোভাবে ঋণ নিয়েছেন। ১১ শতাংশ জমি বন্ধক রেখেছেন, ৬ শতাংশ জমি বিক্রি করেছেন।",
+    "যাঁরা চাকরি না পেয়ে ফিরে এসেছেন, তাঁরা বন্ধক রেখে যাওয়া জমিও পুনরুদ্ধার করতে পারেননি।"
+   ],
+   "why_new": "Adds land mortgage and sale shares; guide gives 81% borrowing (BBS) and lender types only."
+  },
+  {
+   "key": "SA3d-32",
+   "article_id": "785f5c42-d0f6-4310-bae4-8fafe7fcf043",
+   "target_section": "Channels",
+   "placement": "The channels",
+   "claim": "Of the 51% (554) of workers in OKUP's 2022 Gulf survey who went knowingly on a free visa, 54% went through illegal broker networks, 7% directly through a recruiting agency, 8% through a family member and 31% through distant relatives.",
+   "quotes": [
+    "৫১ শতাংশ বা ৫৫৪ জন কর্মী ফ্রি ভিসা জেনেই বিদেশে গেছেন। এর মধ্যে ৫৪ শতাংশ গেছেন অবৈধ দালাল নেটওয়ার্কের মাধ্যমে। ৭ শতাংশ সরাসরি রিক্রুটিং এজেন্সির মাধ্যমে। ৮ শতাংশ পরিবারের সদস্যের মাধ্যমে। আর ৩১ শতাংশ গেছেন দূর সম্পর্কের আত্মীয়ের মাধ্যমে।"
+   ],
+   "why_new": "Answers in part the guide's Need to know on channel shares, though for five Gulf countries combined; cross-country has only the 51%."
+  },
+  {
+   "key": "SA3d-33",
+   "article_id": "785f5c42-d0f6-4310-bae4-8fafe7fcf043",
+   "target_section": "Avoid a \"free visa\"",
+   "placement": "other: official view",
+   "claim": "Expatriates' Welfare Secretary Neyamat Ullah Bhuiyan said in October 2025 that the government is pushing, through bilateral agreements, for workers to be sent at the employer's cost.",
+   "quotes": [
+    "দ্বিপক্ষীয় সমঝোতার মাধ্যমে নিয়োগকর্তার খরচে কর্মী পাঠানোর বিষয়ে জোর দেওয়া হচ্ছে।"
+   ],
+   "why_new": "Government stance on employer-pays not in guide."
+  },
+  {
+   "key": "SA3d-34",
+   "article_id": "a31f6985-dbf9-4d0d-9a0f-ccb1a6b80002",
+   "target_section": "Contacts",
+   "placement": "Jeddah consulate",
+   "claim": "The Bangladesh Consulate in Jeddah runs a toll-free hotline, 8002440051, which expatriates can call free for immediate help every day from 8 am to 9 pm Saudi time except weekly and other holidays (October 2025).",
+   "quotes": [
+    "সাপ্তাহিক ও অন্য ছুটির দিন ছাড়া প্রতিদিন স্থানীয় সময় সকাল ৮টা থেকে রাত ৯টা পর্যন্ত প্রবাসীরা বিনা ফিতে (টোল–ফ্রি) হটলাইনে যোগাযোগ করে তাৎক্ষণিক সেবা নিতে পারবেন। কনস্যুলেটের হটলাইন নম্বর-৮০০২৪৪০০৫১।"
+   ],
+   "why_new": "The Jeddah consulate's toll-free hotline is missing from Contacts, which has only direct numbers for Jeddah."
+  },
+  {
+   "key": "SA3d-35",
+   "article_id": "a31f6985-dbf9-4d0d-9a0f-ccb1a6b80002",
+   "target_section": "Going home without valid papers",
+   "placement": "other: western region",
+   "claim": "According to the Jeddah consulate (October 2025), workers seeking special exit, and domestic workers, call its hotline from Jeddah and from outside Jeddah to get service through the Labour Welfare Wing.",
+   "quotes": [
+    "শ্রম কল্যাণ উইংয়ের মাধ্যমে প্রবাসীরা স্পেশাল এক্সিট ও গৃহকর্মীরা জেদ্দা ও জেদ্দার বাইরের অঞ্চল থেকে হটলাইনে কল দিয়ে সেবা নিয়ে থাকেন।"
+   ],
+   "why_new": "Guide says sponsors under Makkah, Madinah and other western labour offices aren't covered by SEP and to contact the Jeddah labour wing; this gives the hotline route used for special exit and by domestic workers."
+  },
+  {
+   "key": "SA3d-36",
+   "article_id": "a31f6985-dbf9-4d0d-9a0f-ccb1a6b80002",
+   "target_section": "Contacts",
+   "placement": "Jeddah consulate",
+   "claim": "The Jeddah hotline began in April 2019 as a pilot under a ministry-ILO agreement, is now funded by the Wage Earners' Welfare Board, and had received more than 2 lakh calls by October 2025; a Bisha worker said it took several tries to get through and operators could not check his e-passport status, telling him to check online himself.",
+   "quotes": [
+    "বর্তমানে ওয়েজ আর্নার্স কল্যাণ বোর্ডের অর্থায়নে টোল–ফ্রি হটলাইন পরিচালিত হচ্ছে।",
+    "এই সেবা চালু হওয়ার পর থেকে এ পর্যন্ত হটলাইনে ফোন এসেছে দুই লাখের বেশি।",
+    "পাসপোর্ট এসেছে কি না জানার জন্য আবার কল দিলে জানানো হয়, তাদের কাছে সার্ভার নেই। আমাকে অনলাইনে চেক করে নিতে বলা হয়।"
+   ],
+   "why_new": "What the hotline can and can't do in practice; not in the guide."
+  },
+  {
+   "key": "SA3d-37",
+   "article_id": "a31f6985-dbf9-4d0d-9a0f-ccb1a6b80002",
+   "target_section": "Size",
+   "placement": "The numbers",
+   "claim": "More than 10 lakh Bangladeshis work in Jeddah and Saudi Arabia's western region, served by the Bangladesh Consulate in Jeddah (October 2025).",
+   "quotes": [
+    "সৌদি আরবের বন্দর নগরী জেদ্দাসহ দেশটির পশ্চিমাঞ্চলে কর্মরত আছেন ১০ লাখের বেশি প্রবাসী বাংলাদেশি।"
+   ],
+   "why_new": "Regional stock figure not in guide."
+  },
+  {
+   "key": "SA3d-38",
+   "article_id": "a194192a-b7a2-49d0-98f3-49ef2016be8c",
+   "target_section": "Driving",
+   "placement": "Cases",
+   "claim": "Nurul Alam (38) of Akbarpara, Adhunagar, Lohagara, Chattogram, who had lived in Saudi Arabia for 18 years, worked about 10 years at a firm after learning tailoring, then ran his own cloth business in Mahail, Abha (Asir province) delivering in his own microbus, was killed on the spot in early December 2025 when the microbus collided with a cargo lorry, a relative said.",
+   "quotes": [
+    "সৌদি আরবে গিয়ে প্রথমে সেলাইয়ের কাজ শেখেন, এরপর প্রায় ১০ বছর একটি প্রতিষ্ঠানে চাকরি করেন। কঠোর পরিশ্রমে সঞ্চিত টাকায় আট বছর আগে মাহাইল এলাকায় কাপড়ের ব্যবসা শুরু করেন তিনি।",
+    "নিজের মাইক্রোবাস চালিয়ে দোকানে দোকানে কাপড় পৌঁছে দিতেন। বৃহস্পতিবার রাতে ডেলিভারি শেষে বাসায় ফেরার পথে মালবাহী লরির সঙ্গে সংঘর্ষে ঘটনাস্থলেই তাঁর মৃত্যু হয়।"
+   ],
+   "why_new": "Another road death case; also a long-stayer running his own business (the article doesn't say under what status, relevant to tasattur)."
+  },
+  {
+   "key": "SA3d-39",
+   "article_id": "a194192a-b7a2-49d0-98f3-49ef2016be8c",
+   "target_section": "If a worker dies in Saudi Arabia",
+   "placement": "Cases",
+   "claim": "In December 2025 Nurul Alam's father was rushing to send the papers needed to bring the body home and no one knew when it would arrive; the Adhunagar Union Parishad chairman said the Union Parishad and upazila administration were giving all necessary help.",
+   "quotes": [
+    "আদরের ছেলের লাশ দেশে আনার জন্য প্রয়োজনীয় কাগজপত্র দ্রুত পাঠানোর তোড়জোড় করছেন তিনি।",
+    "তবে ঠিক কবে লাশ দেশে আসবে, তা এখনো সবার অজানা।",
+    "নুরুল আলমের লাশ দেশে আনতে ইউনিয়ন পরিষদ ও উপজেলা প্রশাসনের পক্ষ থেকে প্রয়োজনীয় সব সহযোগিতা করা হচ্ছে।"
+   ],
+   "why_new": "Shows the family-side paper gathering and uncertainty over timing; guide has a Need to know on how long it takes."
+  },
+  {
+   "key": "SA3d-40",
+   "article_id": "8cbca367-a8d2-4bba-b18c-abacc9b4de00",
+   "target_section": "CROSS-COUNTRY: Is there a job for someone with no skills?",
+   "placement": "other: numbers",
+   "claim": "According to BMET data reported in December 2025, about 26% of the 11,98,900 workers who went abroad in FY2023-24 were skilled, against 18% of the 10,15,312 in FY2024-25, when 59% went as low-skilled and only 3% as professionals.",
+   "quotes": [
+    "২০২৩-২৪ অর্থবছরে বিদেশে মোট কর্মী গেছেন ১১ লাখ ৯৮ হাজার ৯০০ জন। এর মধ্যে প্রায় ২৬ শতাংশ ছিলেন দক্ষ কর্মী। আর গত অর্থবছরে (২০২৪–২৫) গেছেন ১০ লাখ ১৫ হাজার ৩১২ জন কর্মী। এর মধ্যে দক্ষ কর্মী ১৮ শতাংশ।",
+    "বিদেশে যাওয়া বাকি ৫৯ শতাংশ কর্মী গেছেন স্বল্প দক্ষ হিসেবে।"
+   ],
+   "why_new": "Skill-mix figures not in the cross-country doc."
+  },
+  {
+   "key": "SA3d-41",
+   "article_id": "8cbca367-a8d2-4bba-b18c-abacc9b4de00",
+   "target_section": "CROSS-COUNTRY: How do I join a TTC course?",
+   "placement": "other: recognition",
+   "claim": "RMMRU's acting executive director Tasneem Siddiqui said in December 2025 that the skills of TTC-trained workers are not internationally recognised.",
+   "quotes": [
+    "টিটিসি থেকে প্রশিক্ষিতদের দক্ষতা আন্তর্জাতিকভাবে স্বীকৃত নয়।"
+   ],
+   "why_new": "Limits of TTC certificates not stated in cross-country doc."
+  },
+  {
+   "key": "SA3d-42",
+   "article_id": "b39e067f-d657-41ad-b351-80e44d82b220",
+   "target_section": "What reaches home, and how long the debt takes",
+   "placement": "Cases",
+   "claim": "The ILO country director and IOM chief of mission wrote in December 2025 of a worker, Shafiqul, who borrowed about USD 5,000 (over Tk 5 lakh), the price village brokers demanded, for an ordinary construction job in Saudi Arabia the year before, and on Tk 30,000-40,000 a month spent almost his whole first year repaying it.",
+   "quotes": [
+    "একটি সাধারণ নির্মাণকাজের চাকরি নিশ্চিত করতে তাঁকে প্রায় পাঁচ হাজার মার্কিন ডলার, যা বাংলাদেশি মুদ্রায় পাঁচ লাখ টাকার বেশি ধার নিতে হয়। গ্রামে দালালদের দাবিকৃত মূল্যই ছিল এই ঋণের কারণ।",
+    "মাসে ৩০ থেকে ৪০ হাজার টাকা—যা স্বল্প দক্ষ অভিবাসী শ্রমিকদের গড় মজুরির কাছাকাছি—শফিকুল তাঁর প্রথম বছরের প্রায় পুরোটাই ঋণ শোধ করতে খরচ করে ফেলেন।"
+   ],
+   "why_new": "A case consistent with the guide's repayment estimate, from ILO/IOM heads."
+  },
+  {
+   "key": "SA3d-43",
+   "article_id": "b39e067f-d657-41ad-b351-80e44d82b220",
+   "target_section": "CROSS-COUNTRY: How much does it really cost to go?",
+   "placement": "other: national average",
+   "claim": "According to the Labour Force Survey 2024, cited by the ILO and IOM heads in Bangladesh in December 2025, the average cost of migration is over USD 3,500 (Tk 4.62 lakh), about 10 months' earnings, and Bangladeshi workers pay two to three times what Indian or Nepali workers pay for the same jobs in the GCC and Malaysia.",
+   "quotes": [
+    "শ্রমশক্তি জরিপ ২০২৪ অনুযায়ী, অভিবাসনের গড় ব্যয় ৩ হাজার ৫০০ ডলারের বেশি (৪ লাখ ৬২ হাজার টাকা), যা আয় করতে প্রয়োজন প্রায় ১০ মাসের কঠোর পরিশ্রম।",
+    "জিসিসি দেশগুলো ও মালয়েশিয়ায় একই কাজের জন্য বাংলাদেশি শ্রমিকেরা ভারতীয় বা নেপালি শ্রমিকদের তুলনায় দুই থেকে তিন গুণ বেশি খরচ দেন।"
+   ],
+   "why_new": "National average and the India/Nepal comparison are not in the cross-country doc."
+  },
+  {
+   "key": "SA3d-44",
+   "article_id": "e6a80ca2-7505-4d60-b335-26ccfd305b74",
+   "target_section": "The legal maximum and what people really pay",
+   "placement": "Cases",
+   "claim": "Monowara Begum, a waste picker in Rajshahi city, said in December 2025 that sending her elder son (26, SSC pass) to Saudi Arabia through a broker cost Tk 9 lakh, that he gets 'a lakh taka' in salary, and that he will come home in two years.",
+   "quotes": [
+    "ছেলেকে বিদেশ পাঠাতে ৯ লাখ টাকা খরচ হয়েছে। দালালের মাধ্যমে পাঠিয়েছেন। ছেলে লাখ টাকা বেতন পায়। আর দুই বছর পর ছেলে দেশে ফিরবে।"
+   ],
+   "why_new": "Case at the top of the guide's Tk 9 lakh range; job and departure year not stated."
+  },
+  {
+   "key": "SA3d-45",
+   "article_id": "6aee07f4-6ef1-4a3e-aa03-18c07061b83c",
+   "target_section": "Coming home",
+   "placement": "Cases",
+   "claim": "Abul Hashem (42) of Telibila, Chorombo, Lohagara, Chattogram, who went to Saudi Arabia in 2005 and owned two shops in Mecca, was forced to wind up the business and come home after a stomach cancer diagnosis in 2021, spent about Tk 68 lakh on treatment, and now farms two acres with technical advice, incentives and training from the upazila agriculture office (January 2026).",
+   "quotes": [
+    "২০২১ সালে তাঁর পাকস্থলীতে ক্যানসার ধরা পড়ে। এরপর ব্যবসা গুটিয়ে দেশে ফিরতে বাধ্য হন। চিকিৎসা চালাতে গিয়ে এখন পর্যন্ত তাঁর খরচ হয়েছে প্রায় ৬৮ লাখ টাকা।",
+    "আবুল হাশেমকে নিয়মিত প্রযুক্তিগত পরামর্শ, প্রণোদনা ও প্রশিক্ষণ দেওয়া হচ্ছে।"
+   ],
+   "why_new": "Shows the upazila agriculture office as a source of reintegration help; guide lists PKB, BRAC and the Board only."
+  },
+  {
+   "key": "SA3d-46",
+   "article_id": "df8d2ef1-0bec-40ac-b25f-c8eda48a0576",
+   "target_section": "Size",
+   "placement": "The numbers",
+   "claim": "RMMRU's report released on 7 January 2026 said 1,130,757 workers went abroad in 2025, 67% of them (754,369) to Saudi Arabia, followed by Qatar 10%, Singapore 6%, Kuwait 4% and the Maldives 4%.",
+   "quotes": [
+    "২০২৫ সালে ১১ লাখ ৩০ হাজার ৭৫৭ জন কর্মী বিদেশে গেছেন।",
+    "মোট অভিবাসীর ৬৭ শতাংশ গেছেন সৌদি আরবে। এ সংখ্যা ৭ লাখ ৫৪ হাজার ৩৬৯ জন। এরপর কাতারে ১০ শতাংশ, ৬ শতাংশ সিঙ্গাপুরে, কুয়েতে ৪ শতাংশ এবং মালদ্বীপে ৪ শতাংশ কর্মী গেছেন।"
+   ],
+   "why_new": "Conflict: guide gives BMET's 755,194 to Saudi Arabia of 1,132,360 [SB0017]; RMMRU gives 754,369 of 1,130,757."
+  },
+  {
+   "key": "SA3d-47",
+   "article_id": "df8d2ef1-0bec-40ac-b25f-c8eda48a0576",
+   "target_section": "Sending money home",
+   "placement": "other: context",
+   "claim": "RMMRU said in January 2026 that of 2025's USD 32.82 billion in remittances, the highest in 25 years, Saudi Arabia sent the largest share among the top 10 countries, 15.52%, followed by the UAE at 12.58%.",
+   "quotes": [
+    "গত বছর এসেছে ৩ হাজার ২৮২ কোটি ডলার, যা গত ২৫ বছরের মধ্যে সর্বোচ্চ। শীর্ষ ১০টি দেশের মধ্যে সৌদি আরব থেকে সবচেয়ে বেশি প্রবাসী আয় এসেছে ১৫ দশমিক ৫২ শতাংশ এবং সংযুক্ত আরব আমিরাত ১২ দশমিক ৫৮ শতাংশ।"
+   ],
+   "why_new": "Remittance share not in guide."
+  },
+  {
+   "key": "SA3d-48",
+   "article_id": "df8d2ef1-0bec-40ac-b25f-c8eda48a0576",
+   "target_section": "CROSS-COUNTRY: How do I check whether an agency is real?",
+   "placement": "other: number of agencies",
+   "claim": "RMMRU said in January 2026 that Bangladesh's licensed recruiting agencies, once limited to 850-900, were raised to 2,300 by the previous government, and 252 new licences were approved in 2025 with 300 more in process, against 192 agencies in India, 464 in Pakistan, 416 in Nepal and 248 in Sri Lanka.",
+   "quotes": [
+    "বাংলাদেশে আগে এজেন্সির সংখ্যা ৮৫০ থেকে ৯০০–এর মধ্যে সীমাবদ্ধ ছিল। বিগত সরকার এটি বাড়িয়ে ২ হাজার ৩০০ করেছে। গত বছর নতুন করে ২৫২টি এজেন্সির লাইসেন্স অনুমোদন করা হয়েছে।",
+    "২৫২টি নতুন রিক্রুটিং এজেন্সির লাইসেন্স দেওয়া হয়েছে, আরও ৩০০ প্রক্রিয়াধীন।",
+    "ভারতে রিক্রুটিং এজেন্সির সংখ্যা ১৯২টি, পাকিস্তানে ৪৬৪টি, নেপালে ৪১৬টি ও শ্রীলঙ্কায় ২৪৮টি।"
+   ],
+   "why_new": "The Saudi guide gives 2,807 licensed agencies (later source); the growth and comparison are new."
+  },
+  {
+   "key": "SA3d-49",
+   "article_id": "3cdffcdb-a3c5-490e-b9b6-8bf70a1a9d8a",
+   "target_section": "Women domestic workers: the money should run the other way",
+   "placement": "Cases",
+   "claim": "Asma Begum, a woman returnee from Saudi Arabia, said at a December 2025 roundtable that she paid Tk 45,000 through a broker to go, was subjected to much abuse while working there, was ill for six months after coming home with high treatment costs, and has not fully repaid the loan she took to go.",
+   "quotes": [
+    "যখন আমি বিদেশে গেছি, তখন আমি ৪৫ হাজার টাকা দালালের মাধ্যমে দিয়ে গেছি। বাংলাদেশে ফিরে ছয় মাস অসুস্থ ছিলাম, চিকিৎসার খরচও ছিল অনেক।",
+    "সৌদিতে কাজ করার সময় আমি অনেক নির্যাতনের শিকার হয়েছি।",
+    "এমনকি আমি যে ঋণ করে গিয়েছিলাম, ওই ঋণটাও আমি পুরো পরিশোধ করতে পারিনি।"
+   ],
+   "why_new": "A named returnee case of a woman paying when she should pay nothing; job type not stated (likely domestic, not confirmed)."
+  },
+  {
+   "key": "SA3d-50",
+   "article_id": "3cdffcdb-a3c5-490e-b9b6-8bf70a1a9d8a",
+   "target_section": "If something goes wrong",
+   "placement": "other: domestic workers, what help reaches them",
+   "claim": "BRAC associate director Shariful Hasan said in December 2025 that brokers and even relatives often effectively sell women domestic workers under the name of sending them free, and that when they are abused abroad, intervention by the embassy or authorities is limited, with no trial and no accountability.",
+   "quotes": [
+    "দালাল চক্র, এমনকি আত্মীয়স্বজনও অনেক সময় তাঁদের বিনা খরচে পাঠানোর নামে কার্যত বিক্রি করে দেয়।",
+    "বিদেশে নির্যাতনের শিকার হলেও দূতাবাস বা সংশ্লিষ্ট কর্তৃপক্ষের হস্তক্ষেপ সীমিত থাকে, বিচার হয় না, জবাবদিহি নিশ্চিত হয় না।"
+   ],
+   "why_new": "Evidence on what help actually reaches abused domestic workers (Work visa: domestic worker, If something goes wrong)."
+  },
+  {
+   "key": "SA3d-51",
+   "article_id": "3cdffcdb-a3c5-490e-b9b6-8bf70a1a9d8a",
+   "target_section": "Is it open now, and who can go?",
+   "placement": "other: women",
+   "claim": "Syed Saiful Haque, chairperson of WARBE and a returnee who spent about 10 years in Saudi Arabia, said in December 2025 that the government has twice banned women from going abroad and twice lifted the ban.",
+   "quotes": [
+    "বাংলাদেশ থেকে নারীদের বিদেশে যাওয়ার ক্ষেত্রে সরকারের পক্ষ থেকে দুবার নিষেধাজ্ঞা জারি এবং আবার তা প্রত্যাহার হয়েছে"
+   ],
+   "why_new": "Past bans on women going abroad (not Saudi-specific) are not in the guide; dates not given."
+  },
+  {
+   "key": "SA3d-52",
+   "article_id": "3cdffcdb-a3c5-490e-b9b6-8bf70a1a9d8a",
+   "target_section": "CROSS-COUNTRY: What help is there when I come back?",
+   "placement": "other: policy",
+   "claim": "Hasan Imam of the Center for Development Communication said in December 2025 that the government's reintegration policy, begun in 2022, received final approval in 2025, with six objectives: employment and financial self-reliance, entrepreneurship, social reintegration and health care, psychosocial support, support for exploited and abused women, and sustainability.",
+   "quotes": [
+    "২০২২ সালে শুরু হওয়া সরকারের রিইন্টিগ্রেশন পলিসি ২০২৫ সালে চূড়ান্ত অনুমোদন পেয়েছে",
+    "প্রথমে এমপ্লয়মেন্ট ও বিদেশফেরত শ্রমিকদের আর্থিক স্বাবলম্বিতা; দ্বিতীয়টি এন্ট্রাপ্রেনিউরশিপ ডেভেলপমেন্ট; তৃতীয়টি সোশ্যাল রিইন্টিগ্রেশন ও স্বাস্থ্যসেবা; চতুর্থ সাইকোসোশ্যাল সাপোর্ট; পঞ্চমে এক্সপ্লয়টেশনের শিকার ও নির্যাতিত নারীদের সহায়তা; আর ষষ্ঠ অবজেকটিভ সাসটেইনেবিলিটি।"
+   ],
+   "why_new": "Cross-country mentions a reintegration policy without its approval date or objectives."
+  },
+  {
+   "key": "SA3d-53",
+   "article_id": "3cdffcdb-a3c5-490e-b9b6-8bf70a1a9d8a",
+   "target_section": "CROSS-COUNTRY: Who helps me at the airport?",
+   "placement": "other: women returnees",
+   "claim": "BRAC's Shariful Hasan said in December 2025 that there is no clear gender-sensitive SOP at the airport for a dignified return, and that immigration or police often do not treat women returning with abuse and trauma humanely.",
+   "quotes": [
+    "সেখানে মর্যাদাপূর্ণ প্রত্যাবর্তনের জন্য কোনো সুস্পষ্ট জেন্ডার-সংবেদনশীল এসওপি নেই। নির্যাতন ও ট্রমা নিয়ে ফেরা নারীদের সঙ্গে ইমিগ্রেশন বা পুলিশের আচরণ অনেক সময় মানবিক হয় না।"
+   ],
+   "why_new": "What women returnees meet at the airport in practice; not in cross-country doc."
+  },
+  {
+   "key": "SA3d-54",
+   "article_id": "82099d09-6d96-4798-9703-570e29b74a22",
+   "target_section": "Step 3: Pass the skill test",
+   "placement": "other: volume",
+   "claim": "Asif Nazrul said at the Global Labour Market Conference in Riyadh on 26 January 2026 that under the Skill Verification Programme agreement with Takamol, Bangladesh now gives skill certificates in various occupations to 60,000 workers a month in line with Saudi demand.",
+   "quotes": [
+    "সৌদি তাকামলের সঙ্গে দক্ষতা যাচাই কর্মসূচি (এসভিপি) চুক্তির ফলে বাংলাদেশ এখন সৌদি শ্রমবাজারের চাহিদা অনুযায়ী প্রতি মাসে ৬০ হাজার কর্মীকে বিভিন্ন পেশায় দক্ষতার সনদ দিচ্ছে।"
+   ],
+   "why_new": "Monthly certification volume not in guide."
+  }
+ ],
+ "named_actors": [
+  {
+   "article_id": "d84eff87-5c7b-4514-81af-f87448f5f4d5",
+   "name": "Arifur Rahman",
+   "kind": "person (physician, former recruiter, Premier Bank chairman)",
+   "what_the_article_says": "Says he ran recruitment of Bangladeshis to Saudi Arabia as recruiting manager under Prince Mishaal bin Saud until 2010, and claims about 17 lakh Bangladeshis got Saudi jobs by then through him and others.",
+   "quote": "ভারত, পাকিস্তান ও থাইল্যান্ডের ভাগ কেটে নিয়ে সৌদি আরবের নীতি সহায়তায় বাংলাদেশের ভিসা বের করতে থাকেন প্রিমিয়ার ব্যাংকের বর্তমান চেয়ারম্যান আরিফুর রহমান। এভাবে চলে ২০১০ সাল পর্যন্ত।"
+  },
+  {
+   "article_id": "d84eff87-5c7b-4514-81af-f87448f5f4d5",
+   "name": "Al Khodari",
+   "kind": "Saudi contractor",
+   "what_the_article_says": "Held the Saudi government contract to clean Dammam; needed 2,700 Bangladeshi workers and divided the supply among several people.",
+   "quote": "২ হাজার ৭০০ লোক বাংলাদেশ থেকে নেওয়ার কাজটা আল খোদারি পরে ভাগ করে দেন কয়েকজনকে।"
+  },
+  {
+   "article_id": "d84eff87-5c7b-4514-81af-f87448f5f4d5",
+   "name": "Ali Asgar Lobi, Nur Ali, H B M Iqbal, A H M Mustafa Kamal, M A H Selim",
+   "kind": "Bangladeshi businessmen",
+   "what_the_article_says": "Came to Arifur Rahman after the Dammam deal became known and shared a further job to take 4,000 people.",
+   "quote": "এ ঘটনা জানাজানি হওয়ার পর আরিফুর রহমানের কাছে একে একে এসে হাজির হন ব্যবসায়ী আলী আসগর লবি, নূর আলী, এইচ বি এম ইকবাল, আ হ ম মুস্তফা কামাল, এম এ এইচ সেলিম প্রমুখ।"
+  },
+  {
+   "article_id": "d84eff87-5c7b-4514-81af-f87448f5f4d5",
+   "name": "Mishaal bin Saud bin Abdulaziz Al Saud",
+   "kind": "Saudi prince, sponsor (kafil)",
+   "what_the_article_says": "Arifur Rahman says he worked as this prince's recruiting manager; called him his first business kafil.",
+   "quote": "আমার প্রথম ব্যবসায়িক কফিল রাজপুত্র মিশাল বিন সৌদ নাজরানের গভর্নর হয়ে গেলে"
+  },
+  {
+   "article_id": "1f45da2f-125c-4bd1-af99-7e4939e35fe6",
+   "name": "Md. Rashed",
+   "kind": "broker (Narayanganj)",
+   "what_the_article_says": "Family says Habib Khan went to Saudi Arabia on a 'free visa' through him after borrowing Tk 5.5 lakh.",
+   "quote": "সাড়ে পাঁচ লাখ টাকা ঋণ করে মো. রাশেদ নামে নারায়ণগঞ্জের এক দালালের মাধ্যমে ‘ফ্রি ভিসায়’ দেশটিতে যান।"
+  },
+  {
+   "article_id": "a1913411-cd6d-4fa1-a188-a932246d6ad6",
+   "name": "Ahmed bin Sulaiman Al-Rajhi",
+   "kind": "Saudi Minister of Human Resources and Social Development",
+   "what_the_article_says": "Signed the 6 October 2025 recruitment agreement and told officials to act on contracts, iqama renewal and exit visas.",
+   "quote": "সৌদি আরবের পক্ষে মানবসম্পদ ও সামাজিক উন্নয়ন মন্ত্রণালয়ের মন্ত্রী ইঞ্জিনিয়ার আহমেদ বিন সোলাইমান আল-রাজি চুক্তিতে স্বাক্ষর করেন।"
+  },
+  {
+   "article_id": "a1913411-cd6d-4fa1-a188-a932246d6ad6",
+   "name": "Muhammad Rezae Rabbi",
+   "kind": "Bangladesh embassy labour counsellor, Riyadh",
+   "what_the_article_says": "Present at the October 2025 signing as labour counsellor.",
+   "quote": "শ্রম কাউন্সেলর মুহাম্মাদ রেজায়ে রাব্বীসহ"
+  },
+  {
+   "article_id": "785f5c42-d0f6-4310-bae4-8fafe7fcf043",
+   "name": "Md. Ashraf Hossain",
+   "kind": "BMET additional director general and BAIRA administrator",
+   "what_the_article_says": "Said there is no such thing as a free visa and that employment contracts are found for only 3-4% of workers going to Saudi Arabia.",
+   "quote": "অথচ সৌদি আরবের ক্ষেত্রে ৩-৪ শতাংশ কর্মীর নিয়োগ চুক্তি পাওয়া যায়।"
+  },
+  {
+   "article_id": "3c901796-c07c-47a9-b7a5-89992464a604",
+   "name": "Takamol",
+   "kind": "Saudi company running the skill test",
+   "what_the_article_says": "Agreement with BMET under which 15 TTCs and BRTC centres gained skill-test capacity.",
+   "quote": "বিএমইটি ও সৌদি আরবের কোম্পানি ‘তাকামোল’–এর মধ্যে স্বাক্ষরিত চুক্তির মাধ্যমে"
+  }
+ ],
+ "nothing_to_add": [
+  {
+   "article_id": "590829df-b7b1-4423-aa9a-c3dc1b94e587",
+   "reason": "Embassy press release on the 6 October 2025 agreement; every point (signatories, 1976, 2015/2022 agreements, issues raised, officials) is drafted from the fuller ministry release a1913411."
+  },
+  {
+   "article_id": "ffd8c8b7-222e-4552-85a3-cfdd6145d51c",
+   "reason": "Habiganj women's economy feature; only Saudi link is a Saudi migrant's wife starting a tailoring business, and the 300 women of Dudhpatil are in unnamed Middle East countries; nothing for a migrant to act on."
+  }
+ ]
+}
