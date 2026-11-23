@@ -68,3 +68,17 @@
 ### Resolved conflicts (chunk 6)
 
 - Incentive 2.5% or 2%: the FAQ cites a Ministry of Expatriates' Welfare rejoinder of 24 June 2025 saying 2% (CQ0203). The finance minister's 2026-27 budget speech of 11 June 2026 (GM0307) says the existing 2.5% continues, and bKash in January 2026 (GM0274) describes it as Tk 25 per Tk 1,000 (2.5%). Newer and from the budget speech itself: 2.5% is used. Held for the FAQ doc to answer its "Need to know".
+
+## Prothom Alo chunk money-7 (articles Jul to Nov 2026), added 23 Nov 2026
+
+- 17 articles read in full; 15 used (facts GM0322-GM0378). Newest values given as dated current: incentive still paid (July 2026); interbank dollar up to Tk 123.99 and bank cash-dollar buying rates Tk 123-125.50 (29 Oct 2026); Motijheel money changers Tk 128/128.50 (29 Oct 2026); MCAB open-market rate Tk 125.50/126.50 (24 Aug 2026); monthly totals June-October 2026; bank rankings FY 2025-26 and July-September 2026; country sources July 2025-May 2026 and FY 2025-26.
+- New section: The Probashi Card (budget announcement, 18 July 2026 pilot decision, Janata Bank then PKB, targets, announced benefits). Its "Need to know" narrowed to whether the September 2026 pilot started and how to apply.
+- "Need to know" on the November 2026 remittance dollar narrowed: bank-side rates are now in the doc; the exchange-house rate abroad and the hundi premium remain open. bKash charges, bank sending fees, offshore minimum, merged banks, tax on other relatives, bond rates above Tk 1 crore, land and pension questions: nothing in this chunk answers them.
+- "The Thursday before 1 November 2026" in the 1 Nov report (গত বৃহস্পতিবার; 1 Nov 2026 was a Sunday) is written as 29 October 2026.
+- Unused: 2 Oct 2026 report (September total, duplicate of GM0353/GM0354); Chapainawabganj chamber interview (only an estimate of 90,000 people from the district working abroad; no bearing on sending money).
+- Held for other docs (ledger gledger-money-7.json): three-day PDO for Middle East-bound workers and Arabic instructors at 32 TTCs with no clear policy (faq).
+
+### Resolved conflicts (chunk 7)
+
+- FY 2025-26 total: 14 July 2026 column gave USD 35.56 billion (GM0316); Bangladesh Bank monthly reports from 1 Sep, 1 Oct, 11 Oct and 1 Nov 2026 all give USD 35.59 billion (3,559 crore). The later, repeated Bangladesh Bank figure is used (GM0352); GM0316 is no longer cited, and its "17.3% more" was dropped with it.
+- July and August 2026: the 1 Sep report gives USD 286.87 crore and 297.66 crore but a two-month total of 582.53 crore; the 1 Oct and 1 Nov reports give 285.87 and 296.66 crore, which sum to 582.53. The 1 Sep monthly figures are misprints; 285.87 and 296.66 are used (GM0353). The 2 Aug preliminary July figure (285.90 crore) is superseded.
