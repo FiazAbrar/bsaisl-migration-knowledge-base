@@ -1,0 +1,3 @@
+# Services for migrants and their families
+
+The government, BRAC and other services that help people before they go, while they are abroad and when they come home: loans, training, the Wage Earners' Welfare Board, help with deaths, injuries and unpaid wages, and help to restart after return, as of November 2026. Each country's own doc gives the services specific to that country. A raised number such as 3 is an official source; N3 is a news, NGO (non-governmental organisation), research or guide source, listed under "Needs an official source"; a year, like N3 (2022), marks a source older than 2025. "Need to know" marks a point no source has yet confirmed.
