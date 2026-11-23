@@ -114,3 +114,14 @@ About 330 cited sentences and list items were checked against the facts' quotes,
 - Many Bangladesh-side rules rest on undated pages ("possibly-outdated"): the PKB loan page, OEP pages, the bdlaws Act text and the BMET leaflet. These were kept because no newer source exists.
 - Several pointers say "in each country doc" (for example "If you aren't paid"). The headings exist, but the build can't link a pointer that names no doc.
 - `facts.csv` row F0107 has an empty quote column; its text sits in the note. It isn't load-bearing, because F0222 carries the same figures.
+
+## Resolved conflicts
+
+- PKB guarantors (23 Nov 2026): PKB's own migration-loan page says at least two guarantors, one financially solvent (with three signed cheques) and one family member or close relative [F0116]; a July 2024 Prothom Alo report agrees (see global/services/notes.md, GV0009). The July 2025 Prothom Alo guide's "one guarantor's papers" [OA0108, OA0109] and the Cumilla PKB officer's "a capable guarantor" [AA0237] are secondhand summaries that name only the guarantor who carries the repayment risk. PKB's page wins; the doc no longer cites OA0108/OA0109 or AA0237 for the number of guarantors, and the Need to know was removed.
+- Workers who went abroad in 2023 (23 Nov 2026): the State Minister's written answer to parliament on 27 February 2024 gives 13,05,453 [GF0005], the same figure RMMRU gives [MA0079]; BMET's "about 13 lakh" [CQ0055] is a rounding of it. The Ami Probashi 2024 report's 13,90,811 [CQ0070] is a secondhand figure from a private app operator and is outnumbered by the official one; the doc no longer cites it for 2023 (it still cites the report for 2024). The Need to know was removed.
+
+## Prothom Alo archive pass (gchunk-faq-1, prefix GF)
+
+- New: State Minister's parliamentary figures (1976 to March 2024 total; 2022 and 2023 totals and 2023 by country; FY2023-24 as of 8 May 2024; 1,27,557 sent through government at low or no cost FY2009-10 to FY2022-23); 60 lakh five-year plan (Feb 2024); British Council youth survey (55% want to go abroad); January 2025 editorial on the job market; Salma Begum debt case (Munshiganj, Feb 2024); 2024 passport indexes; study-abroad requirements and traps (new question "Can I go abroad to study instead?").
+- Not used: opinion pieces and readers' essays with no checkable facts; a reader's letter giving FY2023-24 remittance as USD 2,542 million, an obvious misprint; the arrest of the former minister Imran Ahmad (no bearing on a migrant's decisions).
+

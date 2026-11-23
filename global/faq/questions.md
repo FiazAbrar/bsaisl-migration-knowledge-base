@@ -14,7 +14,6 @@ Questions this doc can't yet answer. Each is a "Need to know" in `doc.md`.
 - Was the amendment to the Overseas Employment and Migrants Act that brought sub-agents (registered dalals) under the law passed in 2023 or in 2024?
   - Can a worker search RAIMS (the Recruitment Agents Information System, BMET's agency database) to check an agency or sub-agent?
 - Has the grading system for recruiting agencies that the State Minister for expatriates' welfare announced in May 2026 been introduced, and where are the grades published?
-- Does Probashi Kallyan Bank (PKB, the government bank for migrant workers) ask for two guarantors or one for a migration loan in 2026?
 - When a worker dies abroad, is the payment the family gets at the airport for transport and burial Tk 35,000 or Tk 25,000 in 2026?
 - When a Bangladeshi is arrested in Saudi Arabia, does the labour wing of the Bangladesh Embassy learn of it?
   - Does the labour wing arrange a lawyer or an interpreter?
