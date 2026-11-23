@@ -17,7 +17,7 @@ By law a UAE job should cost the worker nothing: it starts with a MOHRE offer le
 Mostly closed. New work and visit visas for Bangladeshis have been restricted since July 2024, and the few work visas still issued slowed to almost nothing in October and November 2026 [N0037, N0144, N0145]. Who can still go: a worker whom a UAE employer still able to get permits for Bangladeshis names on a MOHRE work permit, in 2026 mostly through bulk recruitment of construction helpers, drivers, cleaners and masons, plus some skilled titles such as managers and accountants [N0129, N0090, N0092]. Visit visas, including family visits, have been almost nil since October 2025 [N0062]. Bangladeshis already working there who go home on leave risk having their residence visa cancelled, as has happened since July 2026 [N0001].
 
 **Visa by visa, November 2026** (details in each visa section):
-- **New work visa through a named employer recruiting in bulk:** the main route in 2026, alongside skilled titles such as Marketing Manager (988), Accountant (803) and Sales Manager (758) [N0090, N0092]. The largest 2026 clearance categories are construction helper (5,935), driver (2,591), cleaner (1,960), mason (1,756) and steel fixer (1,503), and 788 workers were cleared as delivery bike riders [N0090, N0091]. Dubai Taxi Company plans to hire 6,000 Bangladeshi drivers in 2026; Bangladeshis are already the largest group among its 15,000 drivers, about 8,000, and it has taken about 3,000 from Bangladesh since 2017 [N0077, N0081]. In June 2024 the state minister had said Dubai Taxi would take 1,000 motorcycle riders and 300 taxi drivers that year and at least 2,000 a year from 2025, after meeting the heads of 16 UAE companies that recruit from Bangladesh, Dubai Taxi among them, and the UAE ambassador said they would be paid under UAE labour law [PU0025, PU0024, PU0026, PU0027]. A 2025 BMET permission letter for Transguard Group, Dubai, recruited helpers, cleaners, masons and steel fixers in the same way (see Work visa: company worker, Step 1, item 3) [B0003, B0004]. The government's June 2026 budget speech says it has begun the process of reopening the UAE labour market [G0102].
+- **New work visa through a named employer recruiting in bulk:** the main route in 2026, alongside skilled titles such as Marketing Manager (988), Accountant (803) and Sales Manager (758) [N0090, N0092]. The largest 2026 clearance categories are construction helper (5,935), driver (2,591), cleaner (1,960), mason (1,756) and steel fixer (1,503), and 788 workers were cleared as delivery bike riders [N0090, N0091]. Dubai Taxi Company plans to hire 6,000 Bangladeshi drivers in 2026; Bangladeshis are already the largest group among its 15,000 drivers, about 8,000, and it has taken about 3,000 from Bangladesh since 2017 [N0077, N0081]. In June 2024 the state minister had said Dubai Taxi would take 1,000 motorcycle riders and 300 taxi drivers that year and at least 2,000 a year from 2025, after meeting the heads of 16 UAE companies that recruit from Bangladesh, Dubai Taxi among them, and the UAE ambassador said they would be paid under UAE labour law [PU0025, PU0024, PU0026, PU0027]. On 13 October 2026 the UAE ambassador and the Prime Minister's adviser Mahdi Amin discussed creating taxi-driver and truck-driver jobs for Bangladeshis in the UAE and sending more skilled workers, according to Amin's office [PU0177]. A 2025 BMET permission letter for Transguard Group, Dubai, recruited helpers, cleaners, masons and steel fixers in the same way (see Work visa: company worker, Step 1, item 3) [B0003, B0004]. The government's June 2026 budget speech says it has begun the process of reopening the UAE labour market [G0102].
 - **New low-skilled work visa, individual:** restricted since July 2024 [N0098]. A ministry official said no visit or work visas were issued in 2025, though BMET cleared 13,750 workers that year; the largest titles were cleaner (1,691), driver (1,252), accountant (1,157), helper (1,051) and manager (986) [N0038, N0136, N0089].
 
   > **Need to know**
@@ -34,14 +34,14 @@ Mostly closed. New work and visit visas for Bangladeshis have been restricted si
 
 #### The channels
 
-- **A named employer recruiting through a licensed agency:** the main route in 2026, mostly bulk recruitment of low-skilled workers [N0090, N0092]. Dubai Taxi's 2026 drive went through three agencies, Al Anas Overseas, VIP Global and M Bahar Overseas, with screening at the Bangladesh-Korea Technical Training Centre from 18 May 2026 [N0078, N0077]. How to find and check such a job order is under Work visa: company worker, Step 1, item 3.
+- **A named employer recruiting through a licensed agency:** the main route in 2026, mostly bulk recruitment of low-skilled workers [N0090, N0092]. Dubai Taxi's 2026 drive went through three agencies, Al Anas Overseas, VIP Global and M Bahar Overseas, with screening at the Bangladesh-Korea Technical Training Centre from 18 May 2026 [N0078, N0077]; Prothom Alo's report of the same meeting called Al Anas Overseas the only approved agency for sending workers to Dubai Taxi, and its representatives said they also wanted to take cleaners, technicians and mechanics [PU0165, PU0166]. In August 2026 the expatriates' welfare minister said that for these 6,000 drivers the employer's representatives check the workers' training in Bangladesh and hire only when satisfied, a method he said cuts the scope for middlemen [PU0170, PU0169, PU0171]. How to find and check such a job order is under Work visa: company worker, Step 1, item 3.
 - **A visa found by a relative in the UAE:** the most common route before 2024; workers say it is safer than agents [N0117, N0125]. Employment visas for Bangladeshis have been restricted since July 2024 (see "Is it open now, and who can go?") [N0098].
 - **Partner or investor visa:** a residence visa tied to a trade licence, sold as a way in when labour visas closed; working for anyone else on it is illegal (see "Free visa, partner visa, company visa") [N0107, N0108].
 - **Government-to-government, for domestic workers only:** Bangladesh and the UAE signed an MoU (memorandum of understanding, a government-to-government agreement) in April 2018 on recruiting domestic workers, covering 19 job categories (see Work visa: domestic worker) [MB0030, MA0014].
 
 > **Need to know**
 > - Is there any government channel for UAE company jobs in 2026, through BOESL (Bangladesh Overseas Employment and Services Limited, the state recruiting agency) or a government-to-government agreement?
-> - Is Dubai Taxi's 2026 recruitment still taking Bangladeshis, and through which agencies?
+> - Is Dubai Taxi's 2026 recruitment still taking Bangladeshis, and is Al Anas Overseas its only agency or one of three (with VIP Global and M Bahar Overseas)?
 
 #### Who qualifies
 
@@ -49,7 +49,7 @@ A UAE employer that can still get permits for Bangladeshis must name you on a MO
 
 - **Age:** at least 18 for a work permit [W0004]. A woman going as a domestic worker must be 25 to 45 for BMET clearance and bring proof of age and a no-objection letter from her legal guardian (details under Work visa: domestic worker, Step 1) [D0217].
 - **Skill or certificate:** none for MOHRE skill levels 6 to 9 (farm, craft and construction workers, machine operators and "simple professions") [W0018, W0070]. A job counts as skilled only at levels 1 to 5, with an attested certificate (a bachelor's degree for levels 1 and 2, a diploma for 3 and 4, high school for 5) and at least AED 4,000 a month [W0019, W0070]. Dubai Taxi drivers must communicate in English, according to the CEO of a recruiting agency [N0079].
-- **Sex:** both men and women go; 764 women were cleared for the UAE in 2026 to 7 November [B0113]. Women going as domestic workers must first do housekeeping training at a TTC (Technical Training Centre) [B0021]; how many women went as domestic workers, and that route's status, are under Work visa: domestic worker, Status.
+- **Sex:** both men and women go; 764 women were cleared for the UAE in 2026 to 7 November [B0113]. Dubai Taxi's representatives said in May 2026 that Bangladeshi women work as drivers at Dubai airport [PU0164]. Women going as domestic workers must first do housekeeping training at a TTC (Technical Training Centre) [B0021]; how many women went as domestic workers, and that route's status, are under Work visa: domestic worker, Status.
 - **Barred:** the protesters deported in 2024 (see Bans after you leave).
 
 A genuine job comes with a MOHRE offer letter signed by the employer's authorised manager [N0129]; how to check it is under Work visa: company worker, Step 2; and Work visa: company worker, Step 5.
@@ -69,7 +69,7 @@ A genuine job comes with a MOHRE offer letter signed by the employer's authorise
   - about 6,600, the protesters' own figure, given outside Probashi Kallyan Bhaban on 7 October [N0021];
   - 5,000 on 13 October, the government's latest figure (Law Minister Md Asaduzzaman, who added that many renewals were pending) [N0100].
 - **The reasons given:** the UAE has given no formal explanation [N0057]. The state minister says the UAE cites internal security [N0017]. A senior embassy official listed possible causes: the company hired over its quota, the job on the visa does not match the real work, Wage Protection System (WPS, the UAE's electronic salary-payment system) violations, company licence problems, a labourer working on an investor visa, social media posts against UAE law, and criminal or disciplinary cases [N0055]. Bangladesh's ministers warn workers not to film sensitive events or post them online [N0009, N0099].
-- **What Bangladesh has done:** the embassy collects cases by email and forwards them to the UAE; being on its list does not guarantee reinstatement, because only the UAE government can reactivate a visa [N0019, N0052, N0053]. Bangladesh asked the UAE to reconsider the decision and re-examine the cancelled visas [N0017]. On 7 September 2026, affected returnees organised as "Amra Remittance Joddha" (We Are Remittance Fighters) demanded monthly allowances of Tk 15,000-20,000, jobs in other countries and high-level talks with the UAE [N0004].
+- **What Bangladesh has done:** on 16 July 2026 the expatriates' welfare minister said diplomatic talks were under way on extending visa validity in Dubai, with a clear position expected within about a week, and that the ministry was checking for misinformation about the Dubai labour market [PU0167, PU0168]. The embassy collects cases by email and forwards them to the UAE; being on its list does not guarantee reinstatement, because only the UAE government can reactivate a visa [N0019, N0052, N0053]. Bangladesh asked the UAE to reconsider the decision and re-examine the cancelled visas [N0017]. On 7 September 2026, affected returnees organised as "Amra Remittance Joddha" (We Are Remittance Fighters) demanded monthly allowances of Tk 15,000-20,000, jobs in other countries and high-level talks with the UAE [N0004].
 
 > **Need to know**
 > - Has the UAE reinstated any of the cancelled residence visas, and through which office (ICP, GDRFA or MOHRE)?
@@ -154,9 +154,9 @@ How the money is handed over is covered under "The cap" (the agency's cheque, ba
 
 #### What the job pays
 
-For 2026's main UAE jobs, the 2025 Transguard permission letter gives AED 800 (about Tk 27,200) a month for helpers and cleaners and AED 1,150 (about Tk 39,100) for masons, with housing, transport and a food allowance from the company (see Work visa: company worker, Step 1, item 3) [B0004, B0005, G0002]. Dubai Taxi drivers earn more: a 35% commission per ride, about AED 2,500 to 4,000 a month (about Tk 85,000 to 1.36 lakh) [N0079, G0002]. The UAE has no minimum wage (see Work visa: company worker, Your rights at work, Pay) [L0040].
+For 2026's main UAE jobs, the 2025 Transguard permission letter gives AED 800 (about Tk 27,200) a month for helpers and cleaners and AED 1,150 (about Tk 39,100) for masons, with housing, transport and a food allowance from the company (see Work visa: company worker, Step 1, item 3) [B0004, B0005, G0002]. Dubai Taxi drivers earn more: a 35% commission per ride, about AED 2,500 to 4,000 a month (about Tk 85,000 to 1.36 lakh) [N0079, G0002]; in May 2026 the expatriates' welfare minister asked Dubai Taxi to pay workers wages and allowances during their training period after they reach Dubai [PU0163]. The wife of a farm worker near Dubai, killed in April 2026 after 18 years there, said he earned Tk 30,000-35,000 a month and sent home Tk 20,000-25,000 [PU0160, PU0158, PU0161]. The UAE has no minimum wage (see Work visa: company worker, Your rights at work, Pay) [L0040].
 
-In the BBS survey of 2015-18 migrants to all destinations, workers earned on average Tk 23,629 a month (unskilled) and Tk 29,477 (skilled) in their first three months abroad [MA0019]. In a 2019 study 44% of low-skilled workers got less than promised [N0124].
+In the BBS survey of 2015-18 migrants to all destinations, workers earned on average Tk 23,629 a month (unskilled) and Tk 29,477 (skilled) in their first three months abroad [MA0019]. In a 2019 study 44% of low-skilled workers got less than promised [N0124]. In October 2026 the law minister said Bangladeshi workers are paid much less than workers from other countries [PU0179].
 
 > **Need to know**
 > - What do UAE construction helpers, cleaners, security guards and salesmen actually take home in 2026, after food and accommodation deductions?
@@ -258,7 +258,7 @@ There are two routes: a visa found by a relative in the UAE (Step 1, item 5), th
 
    - **Matco Enterprise (RL0250, Active):** 10 letters, 4,940 posts [UA0001, UA0013]. Red flag: BSS, the state news agency, calls it the business of Shariatpur-2 MP Shafiqur Rahman Kiron (August 2026); Desh Rupantor (August 2026) reports allegations by members of BAIRA (Bangladesh Association of International Recruiting Agencies, the agencies' trade body) that it is among MPs' agencies in an attempt to form a new 25-agency Malaysia syndicate, which Kiron denies [UA0017, UA0021, UA0022].
    - **AVR Bangladesh (RL1135, Active):** 10 letters, 3,171 posts [UA0001, UA0007].
-   - **Al-Anas Overseas (RL2735, Active):** 6 letters, 2,765 posts [UA0001, UA0006]. One of the three agencies in Dubai Taxi's 2026 driver hiring (see "The channels") [N0078].
+   - **Al-Anas Overseas (RL2735, Active):** 6 letters, 2,765 posts [UA0001, UA0006]. One of the three agencies in Dubai Taxi's 2026 driver hiring, or by Prothom Alo's account its only approved agency (see "The channels") [N0078, PU0165].
    - **Visa International (RL0963, Active):** 4 letters, 1,965 posts [UA0001, UA0016].
    - **Al Saad Labour Supply (RL0939, Active):** 2 letters, 1,645 posts [UA0001, UA0004]. Red flag: it has the same OEP office phone (01711891957) and holding (7014 Islambagh, Badda) as Matco, and its proprietor on BAIRA's list is, per BSS, Matco's chairman and, per Asian TV (January 2026), Kiron's wife [UA0004, UA0013, UA0020, UA0018, UA0019].
    - **Meum Overseas (RL0528, Active):** 3 letters, 1,532 posts [UA0001, UA0014].
@@ -595,6 +595,8 @@ The employer must give licensed housing, or pay a housing allowance, or include 
 - one toilet and one shower per 8 people [L0067];
 - air-conditioning in every room [L0068].
 
+In October 2026 the law minister said that on a visit to Dubai he saw workers queue long for the bathroom in the morning and set out for work well before their start time [PU0178].
+
 > **Need to know**
 > - Is there any limit on what an employer may charge for housing or food when housing is "included in the wage"?
 
@@ -694,7 +696,7 @@ What followed for those jailed: the UAE waived the sentences after the chief adv
 
 - False news or rumours online: at least 1 year and AED 100,000 [L0241].
 - Insulting someone online: jail and/or AED 250,000 to 500,000 [L0240].
-- During the Iranian attacks of February 2026 the Bangladesh missions warned that uploading photos or videos of the situation, or spreading baseless news, is against the law [PU0121].
+- During the Iranian attacks of February 2026 the Bangladesh missions warned that uploading photos or videos of the situation, or spreading baseless news, is against the law [PU0121]. Mustafa Qadri of the rights group Equidem said in March 2026 that the risk of arrest for this is highest in the UAE, which has a record of jailing people for filming security incidents [PU0153].
 - Photographing people without consent, or posting photos of accident victims: at least 6 months and/or AED 150,000 to 500,000 [L0243].
 - Insulting someone by phone or in front of others: up to 6 months or AED 5,000; publicly, up to 1 year or AED 20,000 [L0238, L0239].
 
@@ -1817,7 +1819,19 @@ You'll need:
 A 5-year government bond for workers abroad, bought in taka or foreign currency in the worker's own name or a named beneficiary in Bangladesh, at authorised-dealer bank branches in Bangladesh or at Bangladeshi banks' branches and exchange houses abroad [G0123]. Denominations run from Tk 25,000 to Tk 50 lakh, with no upper limit on purchases [G0123]. It pays 12% simple profit at maturity on holdings up to Tk 15 lakh (11% for Tk 15-30 lakh, 10% for Tk 30-50 lakh, 9% above), paid every six months; the money and profit are income-tax free, you can borrow against it, name a nominee, and take the principal back in US dollars [G0124].
 
 > **Need to know**
+In the UAE the bond is sold at the four branches of Janata Bank (see "Janata Bank in the UAE") [PU0176].
+
+> **Need to know**
 > - Which UAE exchange houses sell the Wage Earner Development Bond, and what papers does a worker need there?
+
+### Janata Bank in the UAE
+
+Janata Bank, a Bangladeshi state-owned bank, has four UAE branches, in Abu Dhabi, Dubai, Sharjah and Al Ain, used by Bangladeshi workers [PU0174]. There Bangladeshis can send money home, open savings, current and term accounts, and buy the Wage Earner Development Bond and the US Dollar Premium Bond [PU0176].
+
+In 2026 the UAE central bank ordered the branches to wind down because Janata Bank had not kept up its paid-up capital, and told them to stop opening new customer accounts or offering any new service [PU0173, PU0175]. In September 2026 the Bangladesh government put in AED 300 million (about Tk 1,003 crore) so that all four branches can keep serving [PU0172, PU0174].
+
+> **Need to know**
+> - Have Janata Bank's UAE branches resumed opening new accounts since the September 2026 capital injection?
 
 ## Going home without valid papers
 
@@ -1946,7 +1960,9 @@ You'll need [G0039]:
 
 ## If war or attacks reach the UAE
 
-From 28 February 2026 Iranian missiles and drones struck the UAE; on 1 March the UAE defence ministry said three people had been killed, one of them a Bangladeshi, and 58 injured, Bangladeshis among them [PU0127, PU0124]. By 9 March the expatriates' welfare minister counted four Bangladeshis killed in the war across the region, one in the UAE, and said the injured were being treated in local hospitals, with a hotline and a crisis team of three ministries [PU0139, PU0140]. The Bangladeshi killed in Ajman is listed under If a worker dies (see "Cases").
+From 28 February 2026 Iranian missiles and drones struck the UAE; on 1 March the UAE defence ministry said three people had been killed, one of them a Bangladeshi, and 58 injured, Bangladeshis among them [PU0127, PU0124]. By 9 March the expatriates' welfare minister counted four Bangladeshis killed in the war across the region, one in the UAE, and said the injured were being treated in local hospitals, with a hotline and a crisis team of three ministries [PU0139, PU0140]. On 1 April 2026 debris of a drone used in the war killed another Bangladeshi, Shah Alam Bhuiyan, on his way to work at a farm near Dubai; Prothom Alo's video report that day gave the place of a Bangladeshi's death from Iranian drone debris as Fujairah [PU0155, PU0158, PU0154]. Middle East Eye reported in March 2026 that every civilian killed in the UAE by then was a migrant worker from Bangladesh, Nepal or Pakistan [PU0147]. Both Bangladeshis killed are listed under If a worker dies (see "Cases").
+
+**Work during the attacks.** Workers on the ground said they got no effective guidance on shelters, safe evacuation routes or emergency help, according to Mustafa Qadri of the rights group Equidem [PU0149]. Three riders for large UAE delivery platforms told Middle East Eye they had to keep working at risk of death with no guidance, support or alternative [PU0150]. A Bangladeshi rider said the streets were empty on the day of the first attack but he had to go out delivering again from the next day; a Pakistani rider in Dubai on 12-hour shifts said his company pays only per delivery, so no work means no income [PU0151, PU0152].
 
 **What the Bangladesh missions told people to do (28 February 2026)** [PU0118, PU0119, PU0120, PU0121]:
 - stay away from military installations and stay in a safe place until the danger passes; go out only when essential; avoid gatherings and meetings;
@@ -1957,8 +1973,10 @@ From 28 February 2026 Iranian missiles and drones struck the UAE; on 1 March the
 
 **If your flight from Bangladesh is cancelled.** About 102 flights from Dhaka to the Middle East were cancelled in three days in early March 2026, and many travellers' visas were running out [PU0130, PU0131]. The ministry took the details of people whose flights were cancelled through the Probashi call centre, 16135, to contact them when flights resumed, and said it would ask for extensions of expired visas; the minister said a visa cell had been set up to work with the embassies [PU0142, PU0143, PU0133]. The government promised to arrange travel quickly once flights resumed, and the ministry's senior secretary said it would charter planes to bring migrants home if needed [PU0132, PU0141].
 
+**If your visa ran out while on leave.** A ministry public notice of March 2026 said the UAE government had extended by one month the visas of workers whose visas had expired or were about to expire, because workers on leave in Bangladesh could not go back to renew them during the war [PU0145, PU0146]. It said workers could seek renewal through their employer or kafil (sponsor), or apply online [PU0144].
+
 > **Need to know**
-> - Did the UAE extend entry permits and visas that expired while flights were cancelled in March 2026, and how did a worker apply?
+> - Which online service did the March 2026 notice mean for renewing a UAE residence visa from Bangladesh, and did the one-month extension also cover entry permits of new workers who had not yet flown?
 
 ## If a worker dies, is injured or loses the job
 
@@ -2087,7 +2105,8 @@ These steps are for the family in Bangladesh. The Dubai Consulate handled 213 bo
 - **Vehicle explosion, Dubai, 7 July 2024.** Five Bangladeshis working for the same company were killed when their vehicle exploded on the way to work; four were from Balenga village, Nawabganj, Dhaka, and one from Dohar [PU0028, PU0029, PU0030]. One victim's mother had borrowed Tk 1.5 lakh from an NGO a year earlier to send him and must still pay the instalments; another's mother had sent him on borrowed money not yet repaid [PU0031, PU0032].
 - **Mpox, Sharjah, 2024.** Kamal Hossain (38), from Chauddagram, Cumilla, who had worked for a UAE company for about 7 years, died of mpox in a Sharjah hospital on 30 September 2024, according to his family; the body reached Dhaka on 10 October and was buried under health ministry and district administration rules [PU0052, PU0053].
 - **Killed by colleagues, Abu Dhabi, April 2025.** Faizul Haque (55), of Bhurki village, Bishwanath, Sylhet, back from leave about three months, was stabbed around midday on a Tuesday at his workplace in Shamkha, Abu Dhabi [PU0080, PU0084, PU0081]. His cousin said the family heard through a colleague, and that two Bangladeshi colleagues did it and were arrested [PU0082]. On 4 April the family said there was no real progress on bringing the body home [PU0083].
-- **Iranian strike, Ajman, 28 February 2026.** Saleh Ahmad, of Barlekha, Moulvibazar, known in the UAE as Ahmad Ali, drove a water tanker in Ajman [PU0126, PU0127, PU0125]. According to his family a missile hit his vehicle after iftar while he was out delivering water; the Foreign Ministry said he died under rubble after an air strike on a civilian installation [PU0127, PU0134]. His two brothers in Ajman went to the hospital but were not allowed to see him, and confirmed the death through his kafil (sponsor-employer) [PU0128, PU0129]. The embassy said it would send the body once commercial flights resumed; the expatriates' welfare minister received it at Sylhet airport on 9 March [PU0135, PU0138].
+- **Iranian strike, Ajman, 28 February 2026.** Saleh Ahmad (55, according to Middle East Eye), of Barlekha, Moulvibazar, known in the UAE as Ahmad Ali, drove a water tanker in Ajman [PU0148, PU0126, PU0127, PU0125]. According to his family a missile hit his vehicle after iftar while he was out delivering water; the Foreign Ministry said he died under rubble after an air strike on a civilian installation [PU0127, PU0134]. His two brothers in Ajman went to the hospital but were not allowed to see him, and confirmed the death through his kafil (sponsor-employer) [PU0128, PU0129]. The embassy said it would send the body once commercial flights resumed; the expatriates' welfare minister received it at Sylhet airport on 9 March [PU0135, PU0138].
+- **Drone debris, near Dubai, 1 April 2026.** Shah Alam Bhuiyan (45), of Jiruin village, Brahmanpara, Cumilla, worked at a farm near Dubai and had spent 18 years in Dubai after about eight in Oman [PU0157, PU0156, PU0158, PU0161]. According to relatives he was walking to work with a colleague at about 6 am when debris of a drone used in the war fell on him and killed him on the spot; police recovered the body [PU0158, PU0159]. He left a wife and four children [PU0157]. The next day the family demanded the body be brought home quickly, and the Brahmanpara UNO said higher authorities had been informed and she hoped it would come home soon through the ministry [PU0162].
 - **Trafficked girl, Dubai, 2023:** see Tourist visa, Scams, "Done to travellers".
 
 ### If you lose the job
