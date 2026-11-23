@@ -151,6 +151,10 @@ export function loadConfig(source: NodeJS.ProcessEnv = process.env): Config {
     throw new ConfigError("USER_HASH_SECRET must be at least 32 characters.");
   }
 
+  if (e.OPENROUTER_API_KEY && !e.LLM_MODEL) {
+    throw new ConfigError("With OPENROUTER_API_KEY set, LLM_MODEL must name the OpenRouter model to use.");
+  }
+
   const appSecret = e.WHATSAPP_APP_SECRET ?? e.META_APP_SECRET;
   const waParts = [e.WHATSAPP_ACCESS_TOKEN, appSecret, e.WHATSAPP_PHONE_NUMBER_ID, e.WHATSAPP_VERIFY_TOKEN];
   if (waParts.some(Boolean) && !waParts.every(Boolean)) {
@@ -204,9 +208,9 @@ export function loadConfig(source: NodeJS.ProcessEnv = process.env): Config {
     databaseUrl: e.DATABASE_URL,
     ai: {
       apiKey: e.OPENROUTER_API_KEY,
-      model: e.LLM_MODEL ?? "anthropic/claude-sonnet-5.5",
+      model: e.LLM_MODEL ?? "",
       fallbackModel: e.LLM_FALLBACK_MODEL,
-      smallModel: e.LLM_SMALL_MODEL ?? e.LLM_MODEL ?? "anthropic/claude-haiku-5.5",
+      smallModel: e.LLM_SMALL_MODEL ?? e.LLM_MODEL ?? "",
       timeoutMs: e.LLM_TIMEOUT_MS,
       maxOutputTokens: e.LLM_MAX_OUTPUT_TOKENS,
       contextTokenBudget: e.CONTEXT_TOKEN_BUDGET,

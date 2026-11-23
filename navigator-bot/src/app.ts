@@ -77,7 +77,7 @@ export async function buildApp({
   const store = new MemoryStore(database.db);
   const guard = new Guard(database.db);
   const inbox = new Inbox(database.db);
-  const { answerer, afterAnswer } = createAnswerer(config, { store, kb: () => kb.current });
+  const { answerer, afterAnswer } = createAnswerer(config, { store, guard });
   const conversation = new Conversation({
     kb: () => kb.current,
     store,
