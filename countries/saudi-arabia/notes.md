@@ -921,3 +921,10 @@ Citation-precision or wording points found in the final independent check and no
 - facts.csv ZX0001: the claim gives the Hijri date 26/12/1445H, which the quote doesn't contain (the quote shows only 'July 2, 2024'). The doc uses only 2 July 2024, so there is no effect on the doc.
 - All 34 new or changed fact quotes (ZZ0001-ZZ0017, ZY0001-ZY0008, ZX0001-ZX0007, A0016, A0019) were found verbatim in their saved files after whitespace and NFC normalisation. The A0019 page_date correction to 2025-09-17 matches the letter (17 Sep 2025). The 'assuming free housing' addition matches SM0008, which covers food and phone only. The 'how: see Before you pay anyone' cross-reference does lead to the BMET permission-letter search steps.
 - 2026-11-17: Current situation (Background) dated 7 Nov 2026; re-check by 7 Dec 2026 (reminder moved here from the doc).
+
+## Conflicts resolved, 22 Nov 2026 (from the bot's prompt test)
+
+- 16135 from abroad: E0021 (WEWB citizen charter) lists +8808000102030; WEWB's call-centre, membership and ambulance pages and insurance notice give +880 9610102030. Doc now uses +880 9610102030 (KR0003). Open: confirm with WEWB which number the charter means.
+- Clearance/smart-card fee: B0102 (Dhaka Tribune, Dec 2024, "free") is superseded by BMET's 2026 citizen charter (B0096, Tk 250). Need to know lines removed; Tk 250 added to the fee list (the list now sums to the quoted ~Tk 19,800).
+- Tk 1.65 lakh cap: added an official source, Bangladesh Bank survey Jan 2019, Table 5.1 (KR0001); the cap includes air fare, passport, health and related fees (KR0002). Open: is there a newer ministry order?
+- "Before the skill test, passport and ticket" (lines on genuine company visa costs) reworded to "plus the skill test and passport", pointing to Who pays what for the ticket.

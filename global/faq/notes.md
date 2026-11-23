@@ -114,3 +114,7 @@ About 330 cited sentences and list items were checked against the facts' quotes,
 - Many Bangladesh-side rules rest on undated pages ("possibly-outdated"): the PKB loan page, OEP pages, the bdlaws Act text and the BMET leaflet. These were kept because no newer source exists.
 - Several pointers say "in each country doc" (for example "If you aren't paid"). The headings exist, but the build can't link a pointer that names no doc.
 - `facts.csv` row F0107 has an empty quote column; its text sits in the note. It isn't load-bearing, because F0222 carries the same figures.
+
+## Conflicts resolved, 22 Nov 2026 (from the bot's prompt test, carried over from the cross-country doc)
+
+- Debt payback example aligned with the Saudi guide's rate (SR 1 = Tk 33): Tk 8,250, about 55 months (was Tk 8,300 at Tk 33.20, 54 months).

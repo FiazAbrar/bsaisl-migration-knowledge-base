@@ -119,3 +119,7 @@ All 17 country-doc links checked against `countries/<c>/doc.md`; all named secti
 - **S0055:** the Tk 165,000 Saudi cost dates from 2016; no newer official figure checked.
 - **Rest of the 2026 trafficking Act** not mined: e.g. s.20 (advertising for migrant smuggling, 3-7 years, logged as VS0013 but not cited) could go in the Online scams section.
 - The Need to know items in the doc were not researched further in this pass.
+
+## Conflicts resolved, 22 Nov 2026 (from the bot's prompt test, carried over from the cross-country doc)
+
+- SVP fee: the skills-test racket section said USD 50 (BMET leaflets VS0050/VS0051, Oct-Dec 2025); the fee rose to USD 85 in early September 2026 (F0091). Section now says USD 85 since September 2026.
