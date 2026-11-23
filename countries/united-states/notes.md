@@ -6,6 +6,10 @@
 
 The reporting covers students, Fulbright exchanges, the visit-visa bond, the January 2026 immigrant visa pause, deportations, the South America-Mexico smuggling route, broker fraud, the 1% cash remittance tax and remittance figures. It says nothing on employer-sponsored work routes, BMET clearance to the US, or what students actually pay; those are "Need to know" items in the doc.
 
+## Second pass (lchunk-united-states.jsonl)
+
+27 more Prothom Alo articles (January 2024 to October 2026) that an earlier filter missed, read in full; 20 used, 94 facts logged (XU0128 to XU0221). Added: H-1B fee details, cap, salary-based selection and court challenge; work permits (EAD); health and means checks; applying for a green card from inside the US; asylum halt of November 2025; visa revocations; dual citizenship bill; a graduate's job-search account; joining a husband and domestic violence; health cuts; Pew population and income figures; two more deaths (Abir Hossain, Mahfuzul Haque). Need-to-know bullets answered: who pays the H-1B fee and whether it applies to every petition; whether the asylum suspension covers all nationalities; whether student applicants' social media is checked. Partly answered: the visa bond (an October 2026 related headline says it is to be made permanent for 50 countries, maximum USD 20,000 [XU0219]; only a headline, so the bullet now asks whether and when it took effect).
+
 ## Where the official research pass should start
 
 - US State Department: travel.state.gov visa bond page (list of countries, amounts, designated ports, refund rules, pilot end date) and the immigrant visa pause notice for 75 countries (current status, exceptions).
@@ -21,6 +25,8 @@ The reporting covers students, Fulbright exchanges, the visit-visa bond, the Jan
 
 ## Resolved conflicts
 
+- **H-1B fee: yearly or once, employer or worker.** Commerce Secretary Lutnick said on 19 September 2025 it would be paid every year of the three-year visa, details still under consideration [XU0165]; the White House spokesperson said on 20 September that it is a one-time fee on the application only [XU0167], and a 10 October 2025 article still calls it "annual". The White House clarification, given as the rule took effect, wins; the doc gives both statements with dates because the first was widely reported. The September 2026 article says skilled workers must pay it; the September 2025 reports of the order itself say US companies pay it [XU0164]; the reports of the order win.
+
 - **5% remittance tax vs 1% cash-only tax:** May 2025 articles report a proposed 5% tax on all remittances by non-citizens with no minimum [XU0036]. The January 2026 article reports the law as signed on 4 July 2025: 1% on cash, money order, cashier's cheque and similar only, none on bank, card or digital transfers [XU0055, XU0057]. The later report of the enacted law wins; the 5% figure was a proposal and is left out of the doc.
 - **US rank for remittance:** top in January-March 2025 with about 18% [XU0039]; first until July 2025 and fifth by January 2026 (Standard Express CEO) [XU0059]; fourth for calendar 2025 with 11% [XU0097]. Different periods, not a conflict; all three kept with their periods.
 - **First-nine-months FY2024-25 remittance:** USD 3.94 billion [XU0038] vs USD 4.271 billion for July-April [XU0035]: different periods; the doc keeps the July-April figure and the quarterly figure. XU0038 uncited as duplicate.
@@ -31,6 +37,8 @@ The reporting covers students, Fulbright exchanges, the visit-visa bond, the Jan
 - **Visa bond countries:** six in August 2025, seven later, then Bangladesh and 24 others on 6 January 2026, total 38 (6+7+25). Consistent.
 
 ## Facts logged but not cited
+
+- XU0131 (arrest of a suspect in the Abir case: changes nothing for a reader), XU0204 and XU0214 (100,000 and 175,000 visa revocations: earlier counts superseded by the 300,000 figure of October 2026, XU0213).
 
 - XU0036 (5% proposal, superseded), XU0038 (duplicate period), XU0073 and XU0074 (opinions of a former ambassador and the Foreign Adviser on the bond; no bearing on what a migrant does), XU0104 (embassy press minister's Facebook post; duplicate of the case facts).
 
