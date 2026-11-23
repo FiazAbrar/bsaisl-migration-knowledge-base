@@ -6,6 +6,14 @@
 
 The reporting covers the May 2024 returns agreement, asylum claims by Bangladeshis, student visas (e-visa, the June 2026 Basic Compliance Assessment, universities restricting Bangladeshi and Sylhet applicants, withdrawn sponsorship after UKVI interviews), Commonwealth Scholarships, the 10-year ban for visa fraud, citizenship deprivation, remittance and postal-vote registration. It says nothing on the Skilled Worker or care-worker visa, visit visas, family visas, costs or work rights; those are "Need to know" items in the doc. The global Illegal routes doc already holds UK material from other articles (a Sylhet returnee's student-visa case, BBC reporting on fabricated gay asylum claims, the October 2026 asylum-fraud penalties) and the Dalal scams doc a Sylhet UK work-permit fraud case; the doc points there rather than repeating it.
 
+## Second pass: 11 articles missed by the earlier filter (lchunk-united-kingdom.jsonl)
+
+11 more Prothom Alo articles (March 2024 to October 2026), read in full; all 11 used, 80 facts logged (XK0070 to XK0149). They add: the care-worker / Skilled Worker visa and the BBC's 2024 investigation into fake certificates of sponsorship sold to foreign students (new H2 "Care-worker and Skilled Worker visa"); GREAT, Women in STEM and Commonwealth PhD scholarships (new H3 "Scholarships" with three H4s); the British Council pre-departure briefing (Step 3); Starmer's June 2024 Rwanda pledge and Labour's clarification (Status, Removal to Bangladesh); the November 2025 Denmark-style asylum plan; the April 2026 BBC investigation into paid-for false asylum stories and the 6 October 2026 Aponjon raids (new H3 "False asylum stories and the advisers who sell them"); frauds the UK has cracked down on (Visa fraud section).
+
+None of the 11 articles answers the Need to know items on the Skilled Worker / care-worker route from Bangladesh (BMET clearance, numbers, how it is sold in Bangladesh), the visit visa, student visa fees or the money to show; those stay open. The care-visa fraud cases are Indian students already in the UK, not Bangladeshis.
+
+Facts logged but not cited from this pass: XK0071 (2024 GREAT round, superseded by the 2025-26 round XK0072), XK0091 (general "lakhs of pounds" line, covered by XK0093), XK0117 (Women in STEM totals so far; no bearing on a decision). Left out: the 2024-25 GREAT university list (superseded), the Tower Hamlets councillor's resignation and political reactions to Starmer's remark, and the July 2024 article's community wish list (the UK Bangla Press Club president's request not to deport undocumented Bangladeshis is an appeal with no outcome).
+
 ## Where the official research pass should start
 
 - UK Home Office / UKVI (gov.uk): Student visa (fees, Immigration Health Surcharge, financial requirement, work hours, dependants), Skilled Worker and Health and Care Worker visa (eligible care roles, salary thresholds, sponsor change, the 2025 closure of overseas care-worker recruitment if confirmed), Standard Visitor visa, e-visa and UKVI account guidance, Basic Compliance Assessment guidance for sponsors (June 2026), general grounds for refusal (10-year ban for deception).
@@ -33,3 +41,4 @@ The reporting covers the May 2024 returns agreement, asylum claims by Bangladesh
 
 - 2023 irregular arrivals in Europe (40,000+, 15,000+ in Italy) and the 2017 EU-Bangladesh return SOP: global Illegal routes.
 - Postal voting for 1.5 to 2 crore expatriates, first time: global FAQ.
+- Second pass: nothing held; every usable fact in the 11 articles was UK-specific.
