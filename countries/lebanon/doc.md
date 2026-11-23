@@ -2,19 +2,19 @@
 
 What happens to Bangladeshis who go to Lebanon for work, for Bangladesh passport holders, as of November 2026. This first version is built only from Prothom Alo reporting (2024 to May 2026) and still needs official sources: it says little yet about how a Lebanon job is found, what it costs or what it pays. A raised number such as 3 is an official source; N3 is a news, NGO (non-governmental organisation), research or guide source, listed under "Needs an official source"; a year, like N3 (2022), marks a source older than 2025. "Need to know" marks a point no source has yet confirmed.
 
-Tk is the Bangladeshi taka (1 lakh is Tk 100,000; 1 crore is 100 lakh). IOM is the International Organization for Migration, the UN migration agency, which helped bring Bangladeshis home from Lebanon in 2024 and 2025 [XL0014, XL0038]. A "kafil" is the employer who sponsors a worker's stay; the word is used in Lebanon for a domestic worker's employer [XL0054].
+Tk is the Bangladeshi taka (1 lakh is Tk 100,000; 1 crore is 100 lakh). IOM is the International Organization for Migration, the UN migration agency, which helped bring Bangladeshis home from Lebanon in 2024 [XL0014, XL0038, XL0044]. "Kafil" is the word the Bangladesh Embassy in Beirut used for the employer of Dipali Begum, a Bangladeshi woman worker in Beirut (see Cases) [XL0054].
 
 ## Background
 
 ### In one minute
 
-Somewhere between 70,000 and 150,000 Bangladeshis live in Lebanon, by the government's and a research group's estimates, and by the research group's count more than half are women; the reporting shows women working as domestic workers who live in the employer's house (see The size of the community) [XL0017, XL0058, XL0031, XL0054]. Lebanon has twice been a war zone for them since 2024. In the Israeli strikes and ground attack of autumn 2024, about 1,800 Bangladeshis registered to come home, and only 167 of them had valid papers; the government and IOM flew 1,246 home free of charge by January 2025 (see Leaving during a war: the 2024 evacuation) [XL0037, XL0019, XL0048, XL0050]. Many stayed despite the danger because they had spent a lot of money to go and saw no work waiting at home [XL0018]. In the 2026 war, a woman domestic worker was killed with her employer's family in Beirut in April and two men in south Lebanon in May; her body took a month to come home (see If a worker dies) [XL0054, XL0074, XL0078].
+Somewhere between 70,000 and 150,000 Bangladeshis live in Lebanon, by the government's and a research group's estimates, and by the research group's count more than half are women; the reporting shows one woman who worked there as a domestic worker, and another who lived and moved with her employer's family (see The size of the community) [XL0017, XL0058, XL0031, XL0054, XL0056]. Lebanon has twice been a war zone for them since 2024 [XL0016, XL0059]. In the Israeli strikes and ground attack of autumn 2024, about 1,800 Bangladeshis registered to come home, and only 167 of them had valid papers; the government and IOM flew 1,246 home free of charge by January 2025 (see Leaving during a war: the 2024 evacuation) [XL0037, XL0019, XL0048, XL0050]. Many did not want to come home despite the danger, the Foreign Adviser said, because they had spent a lot of money to go and did not know what they would do at home [XL0018]. In the 2026 war, a woman worker was killed with her employer and members of his family in Beirut in April and two men in south Lebanon in May; her body took a month to come home (see If a worker dies) [XL0054, XL0074, XL0078].
 
 ### Is it open now, and who can go?
 
 #### Status
 
-As of the latest reporting (May 2026), Israel was still attacking Lebanon, and Bangladeshi workers there were living in fear; the Middle East war began on 28 February 2026, and the attacks on Lebanon did not stop with the US-Iran ceasefire of 8 April 2026 [XL0059, XL0077, XL0073]. In the earlier war, Israel began air strikes on Lebanon on 17 September 2024 and a ground attack across its southern border on 30 September 2024 [XL0016].
+In April 2026 Israel was still attacking Lebanon, and Bangladeshi workers there were living in fear; the Middle East war began on 28 February 2026, and the attacks on Lebanon did not stop with the US-Iran ceasefire of 8 April 2026 [XL0059, XL0077, XL0073]. On 11 May 2026 an Israeli drone strike killed two Bangladeshi workers in south Lebanon [XL0074]. In the earlier war, Israel began air strikes on Lebanon on 17 September 2024 and a ground attack across its southern border on 30 September 2024 [XL0016].
 
 > **Need to know**
 > - Does BMET (the Bureau of Manpower, Employment and Training, which clears Bangladeshis going abroad for work) clear workers for Lebanon in 2026, and how many did it clear in 2024, 2025 and 2026, men and women separately?
@@ -28,11 +28,11 @@ As of the latest reporting (May 2026), Israel was still attacking Lebanon, and B
 
 #### Who works there and where
 
-The reporting shows women working as domestic workers, living in the employer's house [XL0031, XL0054]. It shows men working in Beirut (one was killed in the Hazmieh area on his way to work) and living in the south, in Nabatieh, one of them as a labourer in a fruit orchard [XL0042, XL0074, XL0083]. Some families live there together, and children are born there (see Family in Lebanon) [XL0024].
+The reporting shows a woman who worked as a domestic worker, and a woman worker who lived and moved with her employer's family [XL0031, XL0054, XL0056]. It shows men working in Beirut (one was killed in the Hazmieh area on his way to work) and living in the south, in Nabatieh, one of them as a labourer in a fruit orchard [XL0042, XL0074, XL0083]. One man lived there with his wife, and their son was born there (see Family in Lebanon) [XL0024].
 
 ### How a job reaches you, and who takes a cut
 
-The reporting says little about how Lebanon jobs reach workers in Bangladesh. In 2026 a Satkhira man went through a neighbour already working there [XL0083, XL0086]. What it also shows is that people spend a lot of money to go, enough that many would not leave in a war for fear of losing it [XL0018].
+In 2026 a Satkhira man went to Lebanon through a neighbour, his family said [XL0083, XL0086]. The Foreign Adviser said in October 2024 that many did not want to come home from the war because they had spent a lot of money to go [XL0018].
 
 > **Need to know**
 > - How does a Lebanon domestic-worker job reach a woman in Bangladesh: through licensed agencies with BMET permission letters, through relatives already in Lebanon, or through brokers?
@@ -40,7 +40,7 @@ The reporting says little about how Lebanon jobs reach workers in Bangladesh. In
 
 ### What you pay, and what you earn and keep
 
-In 2026 a Satkhira man who went to work in a fruit orchard spent about Tk 12 lakh, most of it borrowed: his father sold a cow, took a loan from an NGO and borrowed from relatives [XL0084, XL0085]. The reporting gives no wage figures. A man who returned in October 2024 after 10 years in Lebanon said he came back empty-handed [XL0032].
+In 2026 a Satkhira man who went to work in a fruit orchard spent about Tk 12 lakh, most of it borrowed, his family said: his father sold a cow, took a loan from an NGO and borrowed from relatives [XL0083, XL0084, XL0085]. A man who returned in October 2024 after 10 years in Lebanon said he came back empty-handed [XL0032].
 
 > **Need to know**
 > - What does a woman pay to go to Lebanon as a domestic worker in 2026, and what does a man pay?
@@ -48,7 +48,7 @@ In 2026 a Satkhira man who went to work in a fruit orchard spent about Tk 12 lak
 
 ### What ties you to the employer
 
-A domestic worker's employer is her kafil, and in the reporting she lives in the kafil's house and moves with the family: in 2026 one woman fled the war with her employer's family from Tyre to Beirut, where she, her employer and members of his family were killed in an air strike on his house [XL0054, XL0056]. Losing legal status is common among those who leave: about 90% of those who registered to leave in 2024 had become irregular, and leaving then needed an exit pass that carries a fine (see Without valid papers) [XL0022].
+In 2026 one woman worker moved with her employer's (kafil's) family from the Tyre area to Beirut to escape the war, where she, her employer and members of his family were killed in an air strike on his house [XL0054, XL0056]. About 90% of those who registered to leave in 2024 had become irregular, the Foreign Adviser said, and to leave they needed an exit pass that carries a fine (see Without valid papers) [XL0022].
 
 > **Need to know**
 > - Can a Bangladeshi worker in Lebanon change employer or leave the country without the kafil's consent?
@@ -58,7 +58,7 @@ A domestic worker's employer is her kafil, and in the reporting she lives in the
 
 #### War
 
-People who moved from south to north Lebanon in 2024 to escape the bombing were attacked there too, and some ended up living by the sea in the open, the Expatriates' Welfare Adviser said, relaying returnees' accounts [XL0033]. A returnee who lived 15 days by the sea with his wife and baby said no place in Lebanon was safe [XL0029, XL0030]. At least one Bangladeshi was killed in the 2024 war and three in the 2026 war by May 2026 (see Cases) [XL0051, XL0052, XL0074].
+People who moved from south to north Lebanon in 2024 to escape the bombing were attacked there too, and were living in inhuman conditions by the sea, returnees told the Expatriates' Welfare Adviser [XL0033]. A returnee who lived 15 days by the sea with his wife and baby said no place in Lebanon was safe [XL0029, XL0030]. At least one Bangladeshi was killed in the 2024 war and three in the 2026 war by May 2026 (see Cases) [XL0051, XL0052, XL0074].
 
 #### Losing papers
 
@@ -66,7 +66,7 @@ Of the 1,800 who registered to leave in October 2024, no one except 167 had vali
 
 ## Work visa: domestic worker
 
-More than half of the Bangladeshi workers in Lebanon are women, by RMMRU's count, and women work there as domestic workers living in the employer's house (see Who works there and where) [XL0058, XL0031, XL0054]. It gives no steps for getting the job or the visa.
+More than half of the Bangladeshi workers in Lebanon are women, by RMMRU's count, and the reporting shows one woman who worked there as a domestic worker (see Who works there and where) [XL0058, XL0031].
 
 > **Need to know**
 > - What are the steps from Bangladesh: who gets the Lebanese visa, which medical test, which BMET clearance, and is there a training course at a Technical Training Centre for Lebanon?
@@ -75,7 +75,7 @@ More than half of the Bangladeshi workers in Lebanon are women, by RMMRU's count
 
 ## Without valid papers
 
-About 90% of the Bangladeshis who registered to leave Lebanon in October 2024 had become irregular; to leave, they needed an exit pass, which carries a fine, and the government said it was arranging to have the fine waived [XL0022]. IOM said it was also working to bring home Bangladeshis without valid papers [XL0028]. How deportees and people on an outpass are received at Dhaka airport is covered elsewhere (see "Deportees and outpass holders" in the Departure bottlenecks doc).
+About 90% of the Bangladeshis who registered to leave Lebanon in October 2024 had become irregular, the Foreign Adviser said; to leave, they needed an exit pass, which carries a fine, and he said the government was arranging to have the fine waived [XL0022]. IOM said it was also working to bring home Bangladeshis without valid papers [XL0028]. How deportees and people on an outpass are received at Dhaka airport is covered elsewhere (see "Deportees and outpass holders" in the Departure bottlenecks doc).
 
 > **Need to know**
 > - How does a worker become irregular in Lebanon: an expired residence permit, leaving the employer, or the employer not renewing?
@@ -90,7 +90,7 @@ A man from Narsingdi who went to Lebanon seven years before October 2024 took hi
 
 ## Leaving during a war: the 2024 evacuation
 
-When Israel's 2024 attacks began, the Bangladesh government flew home, free of charge, everyone who registered and wanted to return, with IOM's help [XL0025, XL0048]. For those who chose to stay, the Ministry of Foreign Affairs said steps were being taken for their safety [XL0012, XL0048]. These are the steps returnees went through.
+When Israel's 2024 attacks began, the Bangladesh government said it would bring home everyone who wanted to return and bear the cost, and it paid the repatriation costs, with IOM's help [XL0025, XL0048, XL0038]. For those who chose to stay, the Ministry of Foreign Affairs said steps were being taken for their safety [XL0012, XL0048]. These are the steps returnees went through.
 
 ### Step 1: Register with the embassy or IOM
 
@@ -106,13 +106,13 @@ When Israel's 2024 attacks began, the Bangladesh government flew home, free of c
 
 ### Step 3: The flight
 
-1. Beirut's airport was not safe for flights at first, and the government advised Bangladeshis to look for places outside the war zone [XL0015].
-2. No more than about 50 seats a day were available from Beirut; the government considered taking people by sea to Mersin in Turkey and flying them on [XL0021, XL0020].
+1. In early October 2024 Beirut's airport was not safe for flights, the Foreign Adviser said, and the government had advised looking for alternative places outside the war zone from which to evacuate Bangladeshis [XL0015].
+2. No more than about 50 seats a day were available from Beirut, the Foreign Adviser said, so the government considered taking people by sea to Mersin in Turkey and flying them on [XL0021, XL0020].
 3. Groups flew from Rafic Hariri International Airport in Beirut to Dhaka through Jeddah, or through Dubai; later groups came on Emirates, including a flight the government chartered [XL0036, XL0039, XL0044, XL0046].
 
 ### Step 4: At Dhaka airport
 
-1. Officials from the Ministry of Foreign Affairs, the Ministry of Expatriates' Welfare and IOM met the returnees [XL0046, XL0049].
+1. Officials from the Ministry of Foreign Affairs, the Ministry of Expatriates' Welfare and IOM met the returnees at the airport [XL0089].
 2. IOM gave each returnee Tk 5,000, food and first aid, and the first group also psychological support [XL0047, XL0049, XL0028].
 
 ### How many came home
@@ -135,7 +135,7 @@ On 23 June 2024 the Bangladesh Embassy in Beirut ran a free health camp at the A
 
 ## Sending money home
 
-The Bangladesh Embassy in Beirut gave awards for the first time to the workers who sent the most money home through legal channels in 2023: nine workers, two of them women [XL0002, XL0003]. Some workers send money through a shop: a domestic worker's family learned of her death from the owner of the shop she sent money through [XL0057]. Informal transfers carry their own risks (see "Hundi: how it works and the risks" in the Sending money home doc).
+The Bangladesh Embassy in Beirut gave awards for the first time to the workers who sent the most money home through legal channels in 2023: nine workers, two of them women [XL0002, XL0003]. One woman worker sent money home through a shop: her family learned of her death from the shop's owner, who phoned them [XL0057]. Informal transfers carry their own risks (see "Hundi: how it works and the risks" in the Sending money home doc).
 
 > **Need to know**
 > - Which banks and exchange houses in Lebanon send money to Bangladesh legally, and what do they charge?
@@ -144,10 +144,10 @@ The Bangladesh Embassy in Beirut gave awards for the first time to the workers w
 
 ### Bringing the body home
 
-In both wars, flights limited when a body could come home. In November 2024 the embassy told a killed man's wife in Lebanon that his body could not be sent to Bangladesh because there were no flights during the war [XL0043]. In April 2026 the State Minister for Foreign Affairs said flights were not good enough to bring a killed woman's body home at once [XL0067]. The Ministry of Foreign Affairs said the embassy would bring her body home when the situation allowed [XL0060]. Her body came home a month after her death; the steps in her case were:
+In both wars, flights limited when a body could come home. In November 2024 a killed man's wife in Lebanon was told that his body could not be sent to Bangladesh because there were no flights during the war, diplomatic sources said [XL0043]. In April 2026 the State Minister for Foreign Affairs said flights were not good enough to bring a killed woman's body home at once [XL0067]. The Ministry of Foreign Affairs said the embassy would bring her body home when the situation allowed [XL0060]. Her body came home a month after her death; the steps in her case were:
 
 1. The body was kept at the hospital morgue in Beirut, and the embassy contacted the hospital [XL0055].
-2. In Faridpur, her home district, the family were told by officials to come and apply; her sister applied to the Foreign Minister and to the Faridpur Probashi Kallyan Centre, the government's migrant welfare office in the district [XL0061, XL0062].
+2. Her sister said officials told the family to come to Faridpur, their home district, and apply; she said she would apply to the Foreign Minister and to the Faridpur Probashi Kallyan Centre, the government's migrant welfare office in the district [XL0061, XL0062].
 3. The Faridpur centre started work and contacted Lebanon through the embassy [XL0065].
 4. The embassy got a certified police report and a permit to send the body, and completed the other paperwork [XL0068].
 5. The body flew from Beirut on Emirates through Dubai to Dhaka [XL0069].
@@ -156,7 +156,7 @@ In both wars, flights limited when a body could come home. In November 2024 the 
 The Faridpur centre's assistant director said the war and disrupted flights caused the delay [XL0072]. The State Minister said that in wartime a body comes home only through talks with various countries and when flights are running, often with Saudi Arabia's help, and that following each government's rules takes time [XL0081].
 
 > **Need to know**
-> - Who pays to fly a body home from Lebanon, and what does the employer, the embassy or the Wage Earners' Welfare Board each cover?
+> - Who pays to fly a body home from Lebanon, and what does the employer, the embassy or the Wage Earners' Welfare Board (the Bangladesh government board that runs welfare services for migrant workers and their families) each cover?
 
 ### What the family gets
 
@@ -165,8 +165,8 @@ In the April 2026 case, Faridpur officials said the government would take the bo
 ### Cases
 
 - **2 November 2024:** Mohammad Nizam, 31, of Kasba, Brahmanbaria, killed by an air strike at a coffee shop in Beirut's Hazmieh area on his way to work [XL0076, XL0042].
-- **8 April 2026:** Dipali Begum, 34, of Charbhadrasan, Faridpur, a domestic worker, killed with her employer and his family, seven people in all, when an Israeli air strike brought down the employer's house in Beirut's Hamra area; she died in Rafic Hariri Hospital [XL0054, XL0073, XL0077].
-- **11 May 2026:** two men from Satkhira district, Shafikul Islam, 45, of Satkhira Sadar, a fruit-orchard labourer who had arrived two and a half months earlier, and Nahidul Islam, 40, of Ashashuni, the neighbour through whom he went, killed by an Israeli drone strike on their residence in the Zebdine area of Nabatieh, south Lebanon; their bodies were at Nabih Berri Hospital in Nabatieh; Shafikul's wife, left with two children, asked how she would repay the money he borrowed to go [XL0074, XL0075, XL0083, XL0086, XL0088].
+- **8 April 2026:** Dipali Begum, 34, of Charbhadrasan, Faridpur, a woman worker, killed with her employer and his family, seven people in all, when an Israeli air strike brought down the employer's house in Beirut's Hamra area; she died in Rafic Hariri Hospital [XL0054, XL0073, XL0077].
+- **11 May 2026:** two men from Satkhira district, Shafikul Islam, 45, of Satkhira Sadar, a fruit-orchard labourer who had arrived two and a half months earlier, and Nahidul Islam, 40, of Ashashuni, the neighbour through whom he went, killed by an Israeli drone strike on a residence in the Zebdine area of Nabatieh, south Lebanon; their bodies were at Nabih Berri Hospital in Nabatieh; Shafikul's wife, left with two children, asked how she would repay the money he borrowed to go [XL0074, XL0075, XL0083, XL0086, XL0088].
 
 ## Coming home
 
@@ -177,7 +177,7 @@ Returnees of 2024 asked the government for help to restart: one, back with his w
 ### Bangladesh Embassy in Beirut
 
 - **Who:** in May 2026 the embassy was headed by Mohammad Anwar Hossain, First Secretary (Labour) [XL0070]. In early 2024 he was First Secretary (Labour) and Md. Baki Billah was Counsellor (Political) and head of chancery [XL0006, XL0005].
-- **What it has done:** registered people to fly home in 2024; handled the papers to send bodies home; held a special service week for consular and welfare services from 22 to 31 December 2023, with a public hearing, and a free health camp in June 2024 [XL0011, XL0068, XL0001, XL0004, XL0008].
+- **What it has done:** registered people to fly home in 2024; handled the papers to send a body home in 2026; held a special service week for consular and welfare services from 22 to 31 December 2023, with a public hearing, and a free health camp in June 2024 [XL0011, XL0068, XL0001, XL0004, XL0008].
 
 > **Need to know**
 > - What are the embassy's address, phone, WhatsApp and emergency numbers, and its hours for workers?
