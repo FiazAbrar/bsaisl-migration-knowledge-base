@@ -84,6 +84,11 @@ describe("Conversation", () => {
     expect(second?.text).toContain("Closest sections in the **Saudi Arabia** guide:");
     expect(second?.text).toContain("**Work visa > Step 2: Medical test**");
     expect((await store.get(user))?.country).toBe("saudi-arabia");
+    // A greeting later is a greeting, not a search ("his" stems to "hi").
+    const hi = await c.handle(msg("hi"));
+    expect(hi?.text).toBe(
+      "Hello again! We were talking about the **Saudi Arabia** guide. Ask your question, or name another country.",
+    );
   });
 
   it("asks which country when none is known, and ignores a saved guide that no longer exists", async () => {

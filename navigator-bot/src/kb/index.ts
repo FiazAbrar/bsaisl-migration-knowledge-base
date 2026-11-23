@@ -71,7 +71,8 @@ const STOPWORDS = new Set(
   (
     "a an the and or of to in on for with from by at is are was were be been can do does did how what " +
     "when where which who whom why will would should could i me my we our you your he she it they them " +
-    "this that these those there here about into as if not no yes any all"
+    "this that these those there here about into as if not no yes any all " +
+    "hi hello hey salam assalamualaikum please thanks thank ok okay"
   ).split(" "),
 );
 

@@ -9,7 +9,7 @@ import { type Guard, MAX_CHARS } from "../guard/guard.ts";
 import type { KnowledgeBase } from "../kb/index.ts";
 import type { Channel, MemoryStore } from "../memory/store.ts";
 import { describeError, logger } from "../ops/logger.ts";
-import { type Answerer, countryList } from "./answerer.ts";
+import { type Answerer, countryList, guideName } from "./answerer.ts";
 import { isGreeting, parseCommand } from "./commands.ts";
 import { buildContext } from "./context.ts";
 import { bilingual, detectLang, type Lang, MESSAGES } from "./i18n.ts";
@@ -88,9 +88,12 @@ export class Conversation {
     const { user, isNew } = await store.touch(msg.userKey);
     const kb = this.deps.kb();
 
-    if (isGreeting(safeText) && !user.country) {
+    if (isGreeting(safeText)) {
       await store.addTurn(msg.userKey, "user", safeText);
-      const reply = this.welcome(lang, isNew);
+      const current = user.country && kb.guide(user.country) ? user.country : undefined;
+      const reply = current
+        ? MESSAGES[lang].welcomeBack(guideName(kb, current, lang))
+        : this.welcome(lang, isNew);
       await store.addTurn(msg.userKey, "bot", reply);
       return { text: reply, lang };
     }

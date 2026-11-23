@@ -32,6 +32,7 @@ interface Messages {
   whichCountry: (countries: string) => string;
   testMode: string;
   guideChosen: (guide: string) => string;
+  welcomeBack: (guide: string) => string;
   noMatch: (guide: string) => string;
   closest: (guide: string) => string;
   sendText: string;
@@ -57,6 +58,8 @@ export const MESSAGES: Record<Lang, Messages> = {
     whichCountry: (countries) => `Which country are you asking about? I have guides for: ${countries}.`,
     testMode: "(Test mode: AI answers are not connected yet.)",
     guideChosen: (guide) => `OK, the **${guide}** guide. What would you like to know?`,
+    welcomeBack: (guide) =>
+      `Hello again! We were talking about the **${guide}** guide. Ask your question, or name another country.`,
     noMatch: (guide) =>
       `Guide: **${guide}**. I couldn't find a section that matches your words. Try other words, or English keywords.`,
     closest: (guide) => `Closest sections in the **${guide}** guide:`,
@@ -89,6 +92,8 @@ export const MESSAGES: Record<Lang, Messages> = {
     whichCountry: (countries) => `কোন দেশ নিয়ে জানতে চান? যেসব দেশের গাইড আছে: ${countries}।`,
     testMode: "(পরীক্ষামূলক: এআই উত্তর এখনো চালু হয়নি।)",
     guideChosen: (guide) => `ঠিক আছে, **${guide}** গাইড। কী জানতে চান?`,
+    welcomeBack: (guide) =>
+      `আবার স্বাগতম! আমরা **${guide}** গাইড নিয়ে কথা বলছিলাম। আপনার প্রশ্ন লিখুন, অথবা অন্য দেশের নাম লিখুন।`,
     noMatch: (guide) =>
       `গাইড: **${guide}**। আপনার কথার সঙ্গে মেলে এমন অংশ পাইনি। অন্য শব্দে, বা ইংরেজি শব্দে চেষ্টা করুন।`,
     closest: (guide) => `**${guide}** গাইডের সবচেয়ে কাছের অংশ:`,
