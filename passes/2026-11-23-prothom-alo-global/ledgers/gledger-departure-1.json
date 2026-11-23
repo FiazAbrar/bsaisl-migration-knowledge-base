@@ -1,0 +1,151 @@
+{
+ "articles": [
+  {
+   "article_id": "e96f2f51-4347-4a09-b9f4-89a67ab94de0",
+   "used": true,
+   "fact_ids": [
+    "GD0001",
+    "GD0002",
+    "GD0003",
+    "GD0004",
+    "GD0005",
+    "GD0006",
+    "GD0007"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "0ddc392a-3277-447d-8cee-94d534a67cdd",
+   "used": true,
+   "fact_ids": [
+    "GD0008",
+    "GD0009",
+    "GD0010",
+    "GD0011",
+    "GD0012",
+    "GD0013",
+    "GD0014",
+    "GD0015",
+    "GD0016"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "faq",
+     "claim": "Per BMET data reported by Prothom Alo (June 2024), more than 10 lakh workers went abroad in a year for the first time in 2017, more than 11.35 lakh in 2022 and a record of more than 13 lakh in 2023.",
+     "quote": "দেশের ইতিহাসে প্রথমবারের মতো বছরে ১০ লাখের বেশি কর্মী বিদেশে যান ২০১৭ সালে। ২০২২ সালে বিভিন্ন দেশে যান ১১ লাখ ৩৫ হাজারের বেশি কর্মী। সব রেকর্ড ভেঙে দিয়ে ২০২৩ সালে বিদেশে গেছেন ১৩ লাখের বেশি কর্মী।"
+    },
+    {
+     "target": "faq",
+     "claim": "The state minister for expatriates' welfare told parliament (May 2024) that 1,63,12,324 workers went abroad for employment in the 48 years from 1976 to March 2024.",
+     "quote": "১৯৭৬ সাল থেকে চলতি বছরের মার্চ পর্যন্ত ৪৮ বছরে ১ কোটি ৬৩ লাখ ১২ হাজার ৩২৪ জন কর্মী বৈদেশিক কর্মসংস্থানের জন্য গেছেন।"
+    }
+   ]
+  },
+  {
+   "article_id": "bc9b8901-0c58-4e15-8b30-b70640d245a9",
+   "used": true,
+   "fact_ids": [
+    "GD0017",
+    "GD0018",
+    "GD0019",
+    "GD0020",
+    "GD0021"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "faq",
+     "claim": "Per BMET data cited at a May 2025 BRAC workshop, Bangladesh ranks sixth among migrant-sending countries; more than 1 crore Bangladeshis live abroad as migrants, about 10 lakh of them women, most of whom work as domestic workers in the Middle East.",
+     "quote": "অভিবাসী পাঠানো দেশগুলোর মধ্যে বাংলাদেশের অবস্থান ষষ্ঠ। বর্তমানে এক কোটির বেশি বাংলাদেশি অভিবাসী হিসেবে বিদেশে অবস্থান করছেন। এর মধ্যে নারীর সংখ্যা প্রায় ১০ লাখ। বাংলাদেশের অধিকাংশ নারীই মধ্যপ্রাচ্যের দেশগুলোতে গৃহকর্মী হিসেবে কাজ করেন।"
+    }
+   ]
+  },
+  {
+   "article_id": "455fa7af-ec47-4736-b808-3ab77196765e",
+   "used": true,
+   "fact_ids": [
+    "GD0022",
+    "GD0023",
+    "GD0024",
+    "GD0025",
+    "GD0026",
+    "GD0027"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "faq",
+     "claim": "The executive director of Bangladesh Nari Sramik Kendra said in December 2025 that women workers send almost all their income home, that women workers need no money to go abroad, but that this information has not reached the grassroots.",
+     "quote": "নারী শ্রমিকেরা বিদেশ গেলে আয়ের প্রায় পুরো টাকাটাই দেশে পাঠান। নারী শ্রমিকদের বিদেশে যেতেও টাকা লাগছে না। তবে এই তথ্য তৃণমূল পর্যায় পর্যন্ত পৌঁছায়নি।"
+    }
+   ]
+  },
+  {
+   "article_id": "197ff330-dc20-4ad1-a01a-c52fc179361a",
+   "used": true,
+   "fact_ids": [
+    "GD0028",
+    "GD0029",
+    "GD0030",
+    "GD0031",
+    "GD0032"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "137d3f57-0279-4526-ae8f-c23703c06e43",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: video page whose text only lists the discussion's participants",
+   "held": []
+  },
+  {
+   "article_id": "4e5853ea-522a-48af-9d42-078c2ea5123e",
+   "used": true,
+   "fact_ids": [
+    "GD0033",
+    "GD0034"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "bd92952b-acf2-4f8c-a627-b1f9070ca76d",
+   "used": true,
+   "fact_ids": [
+    "GD0035",
+    "GD0036",
+    "GD0037",
+    "GD0038",
+    "GD0039",
+    "GD0040",
+    "GD0041",
+    "GD0042",
+    "GD0043",
+    "GD0044",
+    "GD0045",
+    "GD0046",
+    "GD0047",
+    "GD0048"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "a774404e-01f4-4393-8405-da126f3bc9a1",
+   "used": true,
+   "fact_ids": [
+    "GD0049",
+    "GD0050",
+    "GD0051",
+    "GD0052",
+    "GD0053"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  }
+ ]
+}

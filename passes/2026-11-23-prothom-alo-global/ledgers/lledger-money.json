@@ -1,0 +1,43 @@
+{
+ "articles": [
+  {
+   "article_id": "3bd01e79-9cae-41f0-b78b-4ce0b4534108",
+   "used": true,
+   "fact_ids": [
+    "GM0410",
+    "GM0411",
+    "GM0412",
+    "GM0421",
+    "GM0422"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "39f395cd-1e55-43b9-a692-2a974a111f76",
+   "used": true,
+   "fact_ids": [
+    "GM0413",
+    "GM0414",
+    "GM0415",
+    "GM0416",
+    "GM0417"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ee2cf254-2e19-4ab0-a255-9d491ffa0e5e",
+   "used": true,
+   "fact_ids": [
+    "GM0418",
+    "GM0419",
+    "GM0420",
+    "GM0423",
+    "GM0424"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  }
+ ]
+}

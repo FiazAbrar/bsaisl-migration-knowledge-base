@@ -1,0 +1,214 @@
+{
+ "articles": [
+  {
+   "article_id": "9f94f041-5169-4208-b551-b989887ab19c",
+   "used": true,
+   "fact_ids": [
+    "GF0001",
+    "GF0002",
+    "GF0003"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "69775503-9d0f-4460-a6af-1e61325de28b",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: the new State Minister's first-day remarks to ministry staff (general pledges only)",
+   "held": []
+  },
+  {
+   "article_id": "9ab5cd57-e45c-4ad9-8695-f3fa42ce00f8",
+   "used": true,
+   "fact_ids": [
+    "GF0004",
+    "GF0005",
+    "GF0006"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "745b3ff1-fae8-4700-a96e-faa79a6d3ef9",
+   "used": true,
+   "fact_ids": [
+    "GF0015",
+    "GF0016",
+    "GF0017",
+    "GF0018",
+    "GF0019",
+    "GF0020"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "bcc91e8d-5995-4e06-ac0d-084f4cf1b996",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact for the FAQ; the legal remedy for a migrant's family facing domestic violence is held for services",
+   "held": [
+    {
+     "target": "global/services",
+     "claim": "A Supreme Court lawyer's legal-advice answer (Prothom Alo, 17 April 2024) to the child of a returnee who abuses the mother: under the Domestic Violence (Prevention and Protection) Act 2010 the woman can apply for protection to the officer in charge of any police station, the women affairs officer or directly to the court, which sets a hearing date within seven days of the application.",
+     "quote": "কাজেই আপনার মা চাইলে যেকোনো থানায় ভারপ্রাপ্ত কর্মকর্তা, মহিলাবিষয়ক কর্মকর্তা বা সরাসরি আদালতের কাছে সুরক্ষার জন্য আবেদন করতে পারবেন।"
+    },
+    {
+     "target": "global/services",
+     "claim": "The court must set a hearing date within seven days of receiving an application under the 2010 Act.",
+     "quote": "আবেদনপ্রাপ্তির সাত দিনের মধ্যে আদালত আবেদন শুনানির জন্য তারিখ নির্ধারণ করবেন।"
+    }
+   ]
+  },
+  {
+   "article_id": "c342b244-0ee3-4d9a-8403-553603951456",
+   "used": true,
+   "fact_ids": [
+    "GF0010"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "3032e26d-ab00-4aaf-b151-ad883977a773",
+   "used": true,
+   "fact_ids": [
+    "GF0007",
+    "GF0008",
+    "GF0009"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "96dcb3d9-8ced-418e-9f8e-43cb9b2fd68f",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact for the FAQ; Sandwip travellers stranded by Cyclone Remal held for departure",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "Cyclone Remal stopped Sandwip-Chattogram sea crossings for three days from 25 May 2024, stranding outgoing migrants whose visas or tickets were about to expire; on 28 May 2024 a speedboat was run at the UNO's request only for critical patients and outgoing migrants, and the UNO said crossings must stop while signal 3 is up.",
+     "quote": "এ ছাড়া ভিসার মেয়াদ বা টিকিটের মেয়াদ ফুরিয়ে যাচ্ছে—এমন বিদেশগামী যাত্রীও আটকে পড়েছিলেন। ঘূর্ণিঝড় রিমালের উন্মত্ততা কেটে গেলেও চট্টগ্রাম-সন্দ্বীপ নৌ যাতায়াত শুরু না হওয়ায় বিপাকে পড়েন তাঁরা।"
+    }
+   ]
+  },
+  {
+   "article_id": "60a1b071-f422-4ee3-b639-b89f64b3ab5f",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: an expatriate group's list of demands",
+   "held": []
+  },
+  {
+   "article_id": "31dd2be4-e77b-442c-a28f-356d88a1760f",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: reader's letter; its FY2023-24 remittance figure (USD 2,542 million) is an obvious misprint and its demands are not facts",
+   "held": []
+  },
+  {
+   "article_id": "f11cd776-600d-4c61-bd66-95551f98495d",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: opinion piece on expatriate representation",
+   "held": []
+  },
+  {
+   "article_id": "b6992322-aeb2-4132-a588-57e79e1b6a8e",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: arrest of the former minister Imran Ahmad, no bearing on a migrant's decisions",
+   "held": []
+  },
+  {
+   "article_id": "0e050da8-1e4e-4783-998e-96a9774877f1",
+   "used": true,
+   "fact_ids": [
+    "GF0011",
+    "GF0012"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "33194ee1-945d-4598-bec3-e59b1b64f3d5",
+   "used": true,
+   "fact_ids": [
+    "GF0021"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ae01b797-dda8-40ed-b2d6-2befaba2ff1f",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: reader's essay with no figures",
+   "held": []
+  },
+  {
+   "article_id": "fe78f59a-8950-4e54-a8b0-fa48b8b5662a",
+   "used": true,
+   "fact_ids": [
+    "GF0022",
+    "GF0023",
+    "GF0024",
+    "GF0025",
+    "GF0026",
+    "GF0027",
+    "GF0028",
+    "GF0029",
+    "GF0030"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "9dd3b522-47be-42b5-8e91-a00fdf09e7fb",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: opinion piece with general recommendations",
+   "held": []
+  },
+  {
+   "article_id": "5a2914d3-b3c2-4bde-8b09-4afe562c1bad",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: an association's demands to the government",
+   "held": []
+  },
+  {
+   "article_id": "6cc9b226-7515-48e0-ae16-7237a6def0f2",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: award ceremony; the EU ambassador's remark that skilled Bangladeshis could migrate to Europe is a general statement with no route or numbers",
+   "held": []
+  },
+  {
+   "article_id": "6c22863c-2e5c-481a-825c-5df8ad43a9b5",
+   "used": true,
+   "fact_ids": [
+    "GF0013",
+    "GF0014"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "90e4421e-41fd-489f-8d7f-b854dc919dae",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: a migrant home on leave killed in a land dispute (no bearing on migration decisions)",
+   "held": []
+  },
+  {
+   "article_id": "eed08a70-98d1-48ae-bac2-19708a1b613c",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: reader's essay",
+   "held": []
+  }
+ ]
+}

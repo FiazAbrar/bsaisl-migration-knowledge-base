@@ -1,0 +1,137 @@
+{
+ "articles": [
+  {
+   "article_id": "a44342d9-ae9d-4e3b-95f6-abd9e2b4e177",
+   "used": true,
+   "fact_ids": [
+    "GI0390",
+    "GI0393",
+    "GI0394",
+    "GI0395",
+    "GI0396",
+    "GI0397",
+    "GI0398",
+    "GI0399",
+    "GI0400",
+    "GI0401",
+    "GI0402"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "2d23485a-8dd7-4c6c-880f-98d1ebfa1166",
+   "used": true,
+   "fact_ids": [
+    "GI0403",
+    "GI0404",
+    "GI0405",
+    "GI0406",
+    "GI0407",
+    "GI0408",
+    "GI0409",
+    "GI0410"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "804e569b-0b3f-4d22-8a8c-e610c870c718",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Video teaser (April 2025): a young man lured by a broker joined the Russian army and was killed; no name or detail beyond Akram Hossain's case (GI0405, GI0408); duplicate.",
+   "held": []
+  },
+  {
+   "article_id": "fa32c95f-769a-484a-b341-7326c2f3e825",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Video teaser: Imran Khan shot on a migrant boat in the Mediterranean; duplicate of the doc's existing Imran Khan case under The contract price and the final price.",
+   "held": []
+  },
+  {
+   "article_id": "11a2e294-89bf-40a4-9f02-4d6616e6564f",
+   "used": true,
+   "fact_ids": [
+    "GI0391",
+    "GI0392",
+    "GI0411",
+    "GI0412",
+    "GI0413"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "d764836d-26e3-4156-94a1-bf4045258264",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Video teaser: two Jamalpur men killed by drones after being promised masonry work; duplicate of GI0260 to GI0264.",
+   "held": []
+  },
+  {
+   "article_id": "57576399-a603-4254-b94d-aea27c73abee",
+   "used": true,
+   "fact_ids": [
+    "GI0414",
+    "GI0415",
+    "GI0416",
+    "GI0417",
+    "GI0418",
+    "GI0419",
+    "GI0420",
+    "GI0421",
+    "GI0422",
+    "GI0423"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "c83707e7-a368-4a1d-a385-5e088b2b4f69",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Video teaser (30 June 2026): four Bangladeshis sold to the war, wounded by drones, pleading to come home; duplicate of Arman Ali's account (GI0421).",
+   "held": []
+  },
+  {
+   "article_id": "a91794ba-4dfd-44db-9597-b761a727b2e7",
+   "used": true,
+   "fact_ids": [
+    "GI0424",
+    "GI0425",
+    "GI0426",
+    "GI0427",
+    "GI0428",
+    "GI0429",
+    "GI0430"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "3d72efae-11d6-47f2-963e-66055e77bd99",
+   "used": true,
+   "fact_ids": [
+    "GI0431",
+    "GI0432"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "565e8daa-c48d-447f-88b3-e8a60adbdaf0",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Audio news teaser: SRB press conference on at least 20 Bangladeshis killed by drones; duplicate of I0265, RU0136.",
+   "held": []
+  },
+  {
+   "article_id": "744604a1-afb2-4f0d-8aab-e4284e7e6177",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Video teaser: young men cheated in Russia and forced to the war, bodies not returned; duplicate of I0279, RU0090.",
+   "held": []
+  }
+ ]
+}

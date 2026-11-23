@@ -1,0 +1,651 @@
+[
+ {
+  "held_id": "H-departure-1",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0054"
+  ],
+  "note": "Buying the ticket"
+ },
+ {
+  "held_id": "H-departure-2",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0055",
+   "GD0056",
+   "GD0057"
+  ],
+  "note": "Buying the ticket; also logged hoarding and worker-fare points from the same circular"
+ },
+ {
+  "held_id": "H-departure-3",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0062",
+   "GD0063",
+   "GD0064",
+   "GD0065",
+   "GD0066"
+  ],
+  "note": "Rajshahi case, 17 Feb 2025 inquiry"
+ },
+ {
+  "held_id": "H-departure-4",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0058"
+  ],
+  "note": "Buying the ticket"
+ },
+ {
+  "held_id": "H-departure-5",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0067",
+   "GD0068",
+   "GD0069"
+  ],
+  "note": "NID and birth registration"
+ },
+ {
+  "held_id": "H-departure-6",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0070",
+   "GD0071"
+  ],
+  "note": "NID and birth registration"
+ },
+ {
+  "held_id": "H-departure-7",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0072"
+  ],
+  "note": "NID and birth registration"
+ },
+ {
+  "held_id": "H-departure-8",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0073"
+  ],
+  "note": "The passport office, What happens"
+ },
+ {
+  "held_id": "H-departure-9",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0074",
+   "GD0075",
+   "GD0076"
+  ],
+  "note": "When the flight is disrupted"
+ },
+ {
+  "held_id": "H-departure-10",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0077",
+   "GD0078",
+   "GD0079",
+   "GD0160",
+   "GD0161"
+  ],
+  "note": "When the flight is disrupted"
+ },
+ {
+  "held_id": "H-departure-11",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0080",
+   "GD0162"
+  ],
+  "note": "When the flight is disrupted"
+ },
+ {
+  "held_id": "H-departure-12",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0086"
+  ],
+  "note": "When the flight is disrupted"
+ },
+ {
+  "held_id": "H-departure-13",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0081",
+   "GD0082"
+  ],
+  "note": "When the flight is disrupted"
+ },
+ {
+  "held_id": "H-departure-14",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0083",
+   "GD0084"
+  ],
+  "note": "When the flight is disrupted"
+ },
+ {
+  "held_id": "H-departure-15",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0085"
+  ],
+  "note": "When the flight is disrupted"
+ },
+ {
+  "held_id": "H-departure-16",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "D0056"
+  ],
+  "note": "Same article and quote already logged"
+ },
+ {
+  "held_id": "H-departure-17",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "D0057"
+  ],
+  "note": "Same article and quote already logged"
+ },
+ {
+  "held_id": "H-departure-18",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0092"
+  ],
+  "note": "Who checks what"
+ },
+ {
+  "held_id": "H-departure-19",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "AA0033",
+   "AA0034"
+  ],
+  "note": "86,621 and 2,902 already in Deportees and outpass holders"
+ },
+ {
+  "held_id": "H-departure-20",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0093"
+  ],
+  "note": "Who checks what (lounge paragraph)"
+ },
+ {
+  "held_id": "H-departure-21",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0059"
+  ],
+  "note": "Buying the ticket"
+ },
+ {
+  "held_id": "H-departure-22",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "OA0050",
+   "OA0051",
+   "OA0052",
+   "OA0053",
+   "OA0054"
+  ],
+  "note": "Editorial restates the Mymensingh code racket already covered from the news report"
+ },
+ {
+  "held_id": "H-departure-23",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0098",
+   "GD0099"
+  ],
+  "note": "Who checks what; bag-cutting in Customs and luggage"
+ },
+ {
+  "held_id": "H-departure-24",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0100",
+   "GD0101",
+   "GD0102"
+  ],
+  "note": "Driving licence for driver jobs"
+ },
+ {
+  "held_id": "H-departure-25",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0103",
+   "GD0104"
+  ],
+  "note": "Driving licence for driver jobs"
+ },
+ {
+  "held_id": "H-departure-26",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0105"
+  ],
+  "note": "Attestation and visa stamping"
+ },
+ {
+  "held_id": "H-departure-27",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0106"
+  ],
+  "note": "Attestation and visa stamping"
+ },
+ {
+  "held_id": "H-departure-28",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0107"
+  ],
+  "note": "Apostille step list"
+ },
+ {
+  "held_id": "H-departure-29",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0108"
+  ],
+  "note": "Apostille step list"
+ },
+ {
+  "held_id": "H-departure-30",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0109",
+   "GD0110",
+   "GD0111"
+  ],
+  "note": "Apostille step list"
+ },
+ {
+  "held_id": "H-departure-31",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0112"
+  ],
+  "note": "Apostille step list"
+ },
+ {
+  "held_id": "H-departure-32",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0113"
+  ],
+  "note": "Apostille step list"
+ },
+ {
+  "held_id": "H-departure-33",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0114"
+  ],
+  "note": "Attestation and visa stamping"
+ },
+ {
+  "held_id": "H-departure-34",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0115",
+   "GD0116"
+  ],
+  "note": "Attestation and visa stamping"
+ },
+ {
+  "held_id": "H-departure-35",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0123",
+   "GD0117"
+  ],
+  "note": "Doc uses MoFA's later official 114 (GD0123); January 2025 launch figure 117 logged as conflict (GD0117), not cited; reasoning in notes.md Resolved conflicts"
+ },
+ {
+  "held_id": "H-departure-36",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0118",
+   "GD0119"
+  ],
+  "note": "Apostille step list"
+ },
+ {
+  "held_id": "H-departure-37",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0120"
+  ],
+  "note": "Apostille step list"
+ },
+ {
+  "held_id": "H-departure-38",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0121"
+  ],
+  "note": "Attestation and visa stamping"
+ },
+ {
+  "held_id": "H-departure-39",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0122"
+  ],
+  "note": "Apostille step list"
+ },
+ {
+  "held_id": "H-departure-40",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0125",
+   "GD0126"
+  ],
+  "note": "Who checks what, immigration counter"
+ },
+ {
+  "held_id": "H-departure-41",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0127"
+  ],
+  "note": "Who checks what"
+ },
+ {
+  "held_id": "H-departure-42",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0128"
+  ],
+  "note": "Who checks what, immigration counter"
+ },
+ {
+  "held_id": "H-departure-43",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0096",
+   "GD0095"
+  ],
+  "note": "Who checks what (lounge paragraph)"
+ },
+ {
+  "held_id": "H-departure-44",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0129",
+   "GD0135"
+  ],
+  "note": "Madaripur case, May 2025"
+ },
+ {
+  "held_id": "H-departure-45",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0130",
+   "GD0133",
+   "GD0134"
+  ],
+  "note": "Madaripur case, May 2025"
+ },
+ {
+  "held_id": "H-departure-46",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0131",
+   "GD0132",
+   "GD0136",
+   "GD0137"
+  ],
+  "note": "Broker trade paragraph and Madaripur case"
+ },
+ {
+  "held_id": "H-departure-47",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0138"
+  ],
+  "note": "10-year express fee only; the article's delivery days and 5-year super express fee conflict with the official page and were not used (notes.md)"
+ },
+ {
+  "held_id": "H-departure-48",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0141",
+   "GD0142"
+  ],
+  "note": "NID and birth registration"
+ },
+ {
+  "held_id": "H-departure-49",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0139",
+   "GD0140"
+  ],
+  "note": "NID and birth registration"
+ },
+ {
+  "held_id": "H-departure-50",
+  "outcome": "no usable fact",
+  "fact_ids": [],
+  "note": "That online attestation predated the interim government is trivia; the savings claim is covered by GD0114"
+ },
+ {
+  "held_id": "H-departure-51",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0143"
+  ],
+  "note": "The passport office, with a Need to know on whether the cut took effect"
+ },
+ {
+  "held_id": "H-departure-52",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0159"
+  ],
+  "note": "Police clearance"
+ },
+ {
+  "held_id": "H-departure-53",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0124"
+  ],
+  "note": "Attestation and visa stamping"
+ },
+ {
+  "held_id": "H-departure-54",
+  "outcome": "no usable fact",
+  "fact_ids": [],
+  "note": "Los Angeles migrants' wish list for airport quick service and lounge; a demand, no fact"
+ },
+ {
+  "held_id": "H-departure-55",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "D0046",
+   "D0047"
+  ],
+  "note": "High Court rule of 29 Sep 2026 already in Your rights"
+ },
+ {
+  "held_id": "H-departure-56",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "D0046",
+   "D0047"
+  ],
+  "note": "Seven-day order and future-travel direction already in Your rights"
+ },
+ {
+  "held_id": "H-departure-57",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0155"
+  ],
+  "note": "Who gets stopped, women travelling alone"
+ },
+ {
+  "held_id": "H-departure-58",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "D0042",
+   "D0049"
+  ],
+  "note": "Questions put to the three women already in Documented cases"
+ },
+ {
+  "held_id": "H-departure-59",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0151",
+   "GD0152",
+   "GD0153"
+  ],
+  "note": "If you are offloaded step 1; hotline also in Where to complain"
+ },
+ {
+  "held_id": "H-departure-60",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0154"
+  ],
+  "note": "If you are offloaded step 4"
+ },
+ {
+  "held_id": "H-departure-61",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0149",
+   "GD0150"
+  ],
+  "note": "Your rights"
+ },
+ {
+  "held_id": "H-departure-62",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0144",
+   "GD0145",
+   "GD0146",
+   "GD0147",
+   "GD0148"
+  ],
+  "note": "Your rights; Papers officers have asked for"
+ },
+ {
+  "held_id": "H-departure-63",
+  "outcome": "wrong doc",
+  "fact_ids": [],
+  "note": "Agency grading plan belongs in agencies/ (or dalal-scams)"
+ },
+ {
+  "held_id": "H-departure-64",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0097"
+  ],
+  "note": "BMET clearance, Bribes, brokers and fake clearances"
+ },
+ {
+  "held_id": "H-departure-65",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0094"
+  ],
+  "note": "Who checks what (lounge paragraph)"
+ },
+ {
+  "held_id": "H-departure-66",
+  "outcome": "wrong doc",
+  "fact_ids": [],
+  "note": "TTC counts belong in global/faq (training), not departure bottlenecks"
+ },
+ {
+  "held_id": "H-departure-67",
+  "outcome": "wrong doc",
+  "fact_ids": [],
+  "note": "NSDA certification counts belong in global/faq"
+ },
+ {
+  "held_id": "H-departure-68",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0089"
+  ],
+  "note": "When the flight is disrupted"
+ },
+ {
+  "held_id": "H-departure-69",
+  "outcome": "wrong doc",
+  "fact_ids": [],
+  "note": "Asif Nazrul's briefing to Oman's labour minister belongs in countries/oman"
+ },
+ {
+  "held_id": "H-departure-70",
+  "outcome": "wrong doc",
+  "fact_ids": [],
+  "note": "TTC trade counts belong in global/faq"
+ },
+ {
+  "held_id": "H-departure-71",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0087",
+   "GD0088"
+  ],
+  "note": "When the flight is disrupted"
+ },
+ {
+  "held_id": "H-departure-72",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0090",
+   "GD0091"
+  ],
+  "note": "When the flight is disrupted"
+ },
+ {
+  "held_id": "H-departure-73",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0156"
+  ],
+  "note": "BMET clearance, Bribes, brokers and fake clearances"
+ },
+ {
+  "held_id": "H-departure-74",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0157"
+  ],
+  "note": "Police verification"
+ },
+ {
+  "held_id": "H-departure-75",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0158"
+  ],
+  "note": "The passport office, What happens"
+ },
+ {
+  "held_id": "H-departure-76",
+  "outcome": "added",
+  "fact_ids": [
+   "GD0060",
+   "GD0061"
+  ],
+  "note": "Buying the ticket"
+ }
+]

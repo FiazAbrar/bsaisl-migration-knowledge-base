@@ -129,3 +129,29 @@ Independent fact-check, 19 November 2026. About 150 sentences and list items che
 - **Unexplained title:** "SS Immigration" is left as SB prints it. Its meaning is not given in any saved source.
 - **Country-doc links:** the part has no links to country docs, so there was nothing to check. The internal cross-references ("see Where to complain", "see BMET clearance and the smart card") match real headings.
 - **Build:** `build.py` runs clean.
+
+## Resolved conflicts
+- Date the three women complained to the Additional IGP (immigration): TBS gives 31 August 2026 (D0044); Prothom Alo (8 Oct 2026) gives 30 August (GD0037). Both are secondhand news; neither quotes the complaint itself. The doc says "late August 2026", which both support, so the exact day does not change anything a reader would do; GD0037 is logged but not cited.
+- Countries accepting Bangladesh's apostille: Prothom Alo's launch report of 29 January 2025 says 117 of 127 (GD0117); MoFA's own apostille directory, an undated page read on 7 November 2026, says 114 of 127 (GD0123, same source as the FAQ's F0081). Dates: Bangladesh acceded on 29 July 2024 and the convention entered into force for it on 30 March 2025 (HCCH status table in the FAQ's sources, which marks Bangladesh's accession "A**: Objection", meaning some states objected). The 117 was a figure given at launch, two months before entry into force; the MoFA list is later and is the primary document, so the doc uses 114. The drop of three is consistent with further objections to the accession; we have not identified which states. GD0117 is logged (status conflict) but not cited.
+- Passport delivery times and the 5-year super express fee: the Madaripur report (6 May 2025, GD0138's source) gives 21, 10 and 2 days and Tk 8,325 for a 5-year super express passport. The department's official fee and delivery page (D0024, D0025) gives 15 working days, 7 working days and 2 days and Tk 8,625. Official beats secondhand; 15 working days is about 21 calendar days anyway. Only the article's 10-year express fee (Tk 8,050), which no official source in the doc contradicts, is used.
+
+## Prothom Alo batch (GD prefix, departure-1)
+- 9 articles read; 8 used (GD0001-GD0053). New H3s under "Coming back": "Who comes back and why" (BBS SEDS 2023 return reasons, countries, divisions, schooling; RAISE, BRAC and column counts of forced returns) and "On the road from the airport" (Chattogram police SI gold robbery, 19 May 2024). Nepal case extended with the women's 8 Oct 2026 police-inquiry statements; HIV-based deportation from the Middle East added to "Deportees and outpass holders"; Europe returns broken down by country.
+- Left out: the "6-7 lakh workers go abroad each month" line in Sudip Roy's 16 Sep 2026 column (an obvious misprint for a yearly figure) and the column's policy proposals (opinion); the BAIRA blacklist call and roundtable recommendations (opinion, no fact).
+
+## Prothom Alo held items (GD prefix, departure-2)
+- 76 items held for this doc by other docs' agents (held-departure.json); output in prothom-alo-archive/extract/kb4/heldout-departure.json. 35 articles saved; facts GD0054-GD0162. MoFA's apostille directory page copied from global/faq/sources (no new download).
+- New H3s: "NID and birth registration" and "Driving licence for driver jobs" (under Passport and police clearance); "Buying the ticket" and "When the flight is disrupted" (under Departure day at the airport). Attestation section gained an apostille explanation and a mygov.bd step list. Rajshahi (Feb 2025 inquiry) and Madaripur (May 2025) passport cases added; Supreme Court advocate's guide added to rights, papers and the offloading complaint steps.
+- Duplicates: Ferdous Ara Rumee's account (D0056, D0057), the High Court rule (D0046, D0047), the 2023 outpass returnees (AA0033), the Mymensingh code racket (OA0050-OA0054), the opinion column on the three women (D0042, D0049).
+- Not used: the Los Angeles migrants' wish list (no fact); the August 2025 note that online attestation predated the interim government (trivia). Wrong doc: TTC/NSDA training counts (FAQ), agency grading plan (agencies), Asif Nazrul's briefing to Oman (Oman).
+
+## Prothom Alo late chunk (lchunk-departure, 2 articles), agent GD
+
+Added facts GD0163-GD0173. Buying the ticket: the April 2025 editorial's tax comparison (airlines' figures), travel tax, the 80% migrant share of passengers, two workers' return fares and ATAB's call for monitoring. The passport office: the Narayanganj office's burning on 18 July 2024 (8,000+ passports and police papers lost), the nine months of applicants sent to Keraniganj, Narsingdi and Munshiganj, and its reopening on 4 May 2025.
+
+## Prothom Alo held items, round 4 (GD prefix, 23 Nov 2026)
+
+2 items (held4-departure.json), both from one article (Prothom Alo, 4 Nov 2026): the robbery of two Dubai returnees on the Purbachal 300-feet road, added under "On the road from the airport" (GD0174 to GD0181). "Tuesday night 1:30 am" in the article (published Wednesday 4 Nov) is the early hours of 4 November.
+
+- **PKB rehabilitation loan terms (resolved 23 Nov 2026):** PKB's own loan page (F0343, Sept 2026) gives 9% simple interest and Tk 3 lakh without collateral; a regional head's 8% (LB0243, April 2026) is a remark in a news report. The official page stands. Whether a returnee with an NSDA skills certificate can borrow Tk 5 lakh without collateral (AB0129) is a separate claim no source confirms, so it stays a Need to know.
+- **Russia departures 2025:** BMET's 4,727 (RU0061) is the count; the FAQ's 4,663 question was removed.

@@ -1,0 +1,31 @@
+{
+ "articles": [
+  {
+   "article_id": "3fe06483-5790-4bb9-be47-a3f843838409",
+   "used": true,
+   "fact_ids": [
+    "GD0163",
+    "GD0164",
+    "GD0165",
+    "GD0166",
+    "GD0167",
+    "GD0168",
+    "GD0172"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "0c7f65da-3313-44c9-aed3-b2584167fc7e",
+   "used": true,
+   "fact_ids": [
+    "GD0169",
+    "GD0170",
+    "GD0171",
+    "GD0173"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  }
+ ]
+}

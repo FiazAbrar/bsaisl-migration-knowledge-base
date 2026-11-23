@@ -1,0 +1,10 @@
+[
+ {
+  "held_id": "R2-money-1",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GM0352"
+  ],
+  "note": "Doc gives USD 35.59 billion for FY2025-26 from a specific Bangladesh Bank-based report; the column's 35.56 is a secondhand restatement (notes.md, Resolved conflicts)."
+ }
+]

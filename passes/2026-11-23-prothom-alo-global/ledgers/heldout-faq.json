@@ -1,0 +1,600 @@
+[
+ {
+  "held_id": "H-faq-1",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GF0005"
+  ],
+  "note": "2022 and 2023 totals already given from the State Minister's answer to parliament; secondhand BMET restatement (2017 first year over 10 lakh) not cited."
+ },
+ {
+  "held_id": "H-faq-2",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GF0007"
+  ],
+  "note": "Same parliamentary figure already cited."
+ },
+ {
+  "held_id": "H-faq-3",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GF0108",
+   "OA0211"
+  ],
+  "note": "Stock abroad now given from the minister to parliament (April 2026); women abroad covered by OA0211. 'Sixth among sending countries' is a workshop restatement with no bearing on a decision."
+ },
+ {
+  "held_id": "H-faq-4",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0107"
+  ],
+  "note": "Does a woman going as a domestic worker pay anything?"
+ },
+ {
+  "held_id": "H-faq-5",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "CQ0240"
+  ],
+  "note": "18,166 bodies 2018-2022 already cited from the Welfare Board analysis."
+ },
+ {
+  "held_id": "H-faq-6",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GF0005",
+   "CQ0150"
+  ],
+  "note": "Editorial's '8-9 lakh a year' is a secondhand estimate; yearly totals come from parliament."
+ },
+ {
+  "held_id": "H-faq-7",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GF0005",
+   "GF0013"
+  ],
+  "note": "'150 an hour' restates the 2023 total; the job-market point is covered by GF0013 and the newer GF0145."
+ },
+ {
+  "held_id": "H-faq-8",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0147"
+  ],
+  "note": "TTC count added from the newer October 2026 report (104 TTCs plus six marine institutes); 30-day women's course already covered (F0307)."
+ },
+ {
+  "held_id": "H-faq-9",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0108"
+  ],
+  "note": "Abroad now. Conflicts with the minister's 5 April 2026 '1.5 crore' (CQ0150); newer figure kept; resolved in notes.md."
+ },
+ {
+  "held_id": "H-faq-10",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0109"
+  ],
+  "note": "Since 1976 bullet."
+ },
+ {
+  "held_id": "H-faq-11",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GF0093"
+  ],
+  "note": "Feb-Sep 2026 totals superseded by the minister's 15 November 2026 figure (4,96,015 under the current government)."
+ },
+ {
+  "held_id": "H-faq-12",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0110"
+  ],
+  "note": "I arrived and there is no job, or the visa was fake."
+ },
+ {
+  "held_id": "H-faq-13",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0111"
+  ],
+  "note": "Same section."
+ },
+ {
+  "held_id": "H-faq-14",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GF0005"
+  ],
+  "note": "Repeat of H-faq-1."
+ },
+ {
+  "held_id": "H-faq-15",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GF0007"
+  ],
+  "note": "Repeat of H-faq-2."
+ },
+ {
+  "held_id": "H-faq-16",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GF0108"
+  ],
+  "note": "Stock-estimate spread used in notes.md to explain the 1.5/1.3 crore conflict; not cited (secondhand op-ed)."
+ },
+ {
+  "held_id": "H-faq-17",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0112"
+  ],
+  "note": "What can I bring home without paying duty? (BMET card holders: 2 new phones a year)."
+ },
+ {
+  "held_id": "H-faq-18",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "F0352",
+   "F0353"
+  ],
+  "note": "Gold jewellery and bar rules already cited from the Baggage Rules 2025 (Tk 5,000 per tola = per 11.664 g)."
+ },
+ {
+  "held_id": "H-faq-19",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0113"
+  ],
+  "note": "Online baggage declaration, mandatory before leaving the customs hall."
+ },
+ {
+  "held_id": "H-faq-20",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0114"
+  ],
+  "note": "Duty on extra phones by value."
+ },
+ {
+  "held_id": "H-faq-21",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "F0348",
+   "F0350",
+   "F0353"
+  ],
+  "note": "Goods lists already cited from the rules. Its Tk 40,000 for a 117 g bar conflicts with the rules (Tk 50,000); logged as GF0115, not cited; resolved in notes.md."
+ },
+ {
+  "held_id": "H-faq-22",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "CQ0150"
+  ],
+  "note": "MCCI quarterly figure is secondhand; 2025 total given from parliament."
+ },
+ {
+  "held_id": "H-faq-23",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "CQ0152",
+   "CQ0153"
+  ],
+  "note": "Same countries already cited from the PM's answer to parliament (April 2026)."
+ },
+ {
+  "held_id": "H-faq-24",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "F0180",
+   "F0181",
+   "F0182",
+   "F0178",
+   "F0020"
+  ],
+  "note": "Budget-speech 'process of reopening' is superseded by the dated per-country status lines."
+ },
+ {
+  "held_id": "H-faq-25",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "F0137"
+  ],
+  "note": "Budget speech keeping 2.5% already cited; conflict already resolved in notes.md."
+ },
+ {
+  "held_id": "H-faq-26",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "F0094",
+   "OA0218",
+   "CQ0241"
+  ],
+  "note": "Three-day PDO and its shortness already covered."
+ },
+ {
+  "held_id": "H-faq-27",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0116"
+  ],
+  "note": "How do I join a TTC course? (Arabic instructors at 32 TTCs)."
+ },
+ {
+  "held_id": "H-faq-28",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0117"
+  ],
+  "note": "Attestation/apostille section: Bangladesh joined on 29 July 2024. The Tk 500-600 crore saving claim not used (no bearing on a decision)."
+ },
+ {
+  "held_id": "H-faq-29",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0118"
+  ],
+  "note": "Electronic apostille with QR check (stated as the minister's 2024 plan)."
+ },
+ {
+  "held_id": "H-faq-30",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0119"
+  ],
+  "note": "What about jobs in Central and Eastern Europe? (no embassies; interview in India)."
+ },
+ {
+  "held_id": "H-faq-31",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0120"
+  ],
+  "note": "Study abroad traps: refunds after visa refusal."
+ },
+ {
+  "held_id": "H-faq-32",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0121"
+  ],
+  "note": "Attestation section: Dhaka board online verification since 1 October 2024."
+ },
+ {
+  "held_id": "H-faq-33",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GF0054"
+  ],
+  "note": "Asif Nazrul on falling demand for unskilled workers already cited."
+ },
+ {
+  "held_id": "H-faq-34",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0122"
+  ],
+  "note": "New question: Can I vote from abroad?"
+ },
+ {
+  "held_id": "H-faq-35",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0123",
+   "GF0124"
+  ],
+  "note": "Same question; added the informal 'centres' that fill in the app."
+ },
+ {
+  "held_id": "H-faq-36",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0125",
+   "GF0151",
+   "GF0126"
+  ],
+  "note": "Same question."
+ },
+ {
+  "held_id": "H-faq-37",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0127",
+   "GF0128",
+   "GF0129",
+   "GF0130",
+   "GF0131"
+  ],
+  "note": "Loans section: PKB language-study loan with eligibility, papers, interest. Need to know narrowed to whether this is the March 2026 student solvency loan."
+ },
+ {
+  "held_id": "H-faq-38",
+  "outcome": "no usable fact",
+  "fact_ids": [],
+  "note": "BOESL official praising its own agency; no checkable fact."
+ },
+ {
+  "held_id": "H-faq-39",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "OA0193"
+  ],
+  "note": "Grading system and standard cost already cited."
+ },
+ {
+  "held_id": "H-faq-40",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "CQ0150"
+  ],
+  "note": "5.5% women follows from the minister's 62,352 of 11,32,519."
+ },
+ {
+  "held_id": "H-faq-41",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "F0190",
+   "F0192"
+  ],
+  "note": "Women's destinations already listed by country."
+ },
+ {
+  "held_id": "H-faq-42",
+  "outcome": "no usable fact",
+  "fact_ids": [],
+  "note": "General promise to put the process online; OEP already described."
+ },
+ {
+  "held_id": "H-faq-43",
+  "outcome": "wrong doc",
+  "fact_ids": [],
+  "note": "Illegal routes doc (migration vs trafficking awareness)."
+ },
+ {
+  "held_id": "H-faq-44",
+  "outcome": "wrong doc",
+  "fact_ids": [],
+  "note": "Illegal routes doc (asylum and refugee numbers)."
+ },
+ {
+  "held_id": "H-faq-45",
+  "outcome": "wrong doc",
+  "fact_ids": [],
+  "note": "Illegal routes doc (why people claim asylum)."
+ },
+ {
+  "held_id": "H-faq-46",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0132",
+   "GF0133"
+  ],
+  "note": "Where can I go with a Bangladeshi passport without a visa?"
+ },
+ {
+  "held_id": "H-faq-47",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GF0122"
+  ],
+  "note": "August 2025 announcement superseded by how postal voting actually worked in January 2026."
+ },
+ {
+  "held_id": "H-faq-48",
+  "outcome": "no usable fact",
+  "fact_ids": [],
+  "note": "Ambassador's vague remark on 'legal complications' with remittances; no specific."
+ },
+ {
+  "held_id": "H-faq-49",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0134"
+  ],
+  "note": "Why do so many families get no compensation from the employer? (all workers; CQ0104 covers women only)."
+ },
+ {
+  "held_id": "H-faq-50",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0135"
+  ],
+  "note": "Same section."
+ },
+ {
+  "held_id": "H-faq-51",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0136",
+   "GF0137"
+  ],
+  "note": "How is the body brought home? numbers (4,813 in 2024); also added no post-mortem and 48% of families doubting the certificate."
+ },
+ {
+  "held_id": "H-faq-52",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0138"
+  ],
+  "note": "Compensation/deaths section."
+ },
+ {
+  "held_id": "H-faq-53",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0139"
+  ],
+  "note": "Who can I call for help while abroad? (written complaints about diplomats)."
+ },
+ {
+  "held_id": "H-faq-54",
+  "outcome": "no usable fact",
+  "fact_ids": [],
+  "note": "Minister only 'considering' courier delivery of passports; no decision."
+ },
+ {
+  "held_id": "H-faq-55",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0140"
+  ],
+  "note": "Is there a list of good agencies? (Probashi card paragraph)."
+ },
+ {
+  "held_id": "H-faq-56",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0140"
+  ],
+  "note": "Same fact row covers the card's possible benefits."
+ },
+ {
+  "held_id": "H-faq-57",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0141"
+  ],
+  "note": "Is there help for my children?"
+ },
+ {
+  "held_id": "H-faq-58",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0142"
+  ],
+  "note": "Who can I call for help while abroad? Number not given; new Need to know."
+ },
+ {
+  "held_id": "H-faq-59",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0143"
+  ],
+  "note": "Same section."
+ },
+ {
+  "held_id": "H-faq-60",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0144"
+  ],
+  "note": "Can I go through the government agency, BOESL?"
+ },
+ {
+  "held_id": "H-faq-61",
+  "outcome": "no usable fact",
+  "fact_ids": [],
+  "note": "2024 political statement with no decision-bearing content."
+ },
+ {
+  "held_id": "H-faq-62",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GF0149"
+  ],
+  "note": "2019 skill survey superseded by BMET's 2025 skill mix."
+ },
+ {
+  "held_id": "H-faq-63",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0145"
+  ],
+  "note": "Why so many want to go."
+ },
+ {
+  "held_id": "H-faq-64",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0146"
+  ],
+  "note": "Replaces the February 2024 60-lakh plan (GF0004, no longer cited) with the 1 crore five-year goal and capacity."
+ },
+ {
+  "held_id": "H-faq-65",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0148"
+  ],
+  "note": "BOESL section; replaces the FY2024-25 figure (CQ0123)."
+ },
+ {
+  "held_id": "H-faq-66",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0149"
+  ],
+  "note": "Is there a job for someone with no skills?; replaces the FY figures (CQ0124/CQ0125) and the secondhand GF0094."
+ },
+ {
+  "held_id": "H-faq-67",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "CQ0150"
+  ],
+  "note": "Repeat of H-faq-40."
+ },
+ {
+  "held_id": "H-faq-68",
+  "outcome": "wrong doc",
+  "fact_ids": [],
+  "note": "Sending money home doc (FY2025-26 remittance record)."
+ },
+ {
+  "held_id": "H-faq-69",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "CQ0150"
+  ],
+  "note": "RMMRU's 11,30,757 is secondhand; minister's 11,32,519 kept. Resolved the 2025 Need to know (notes.md)."
+ },
+ {
+  "held_id": "H-faq-70",
+  "outcome": "no usable fact",
+  "fact_ids": [],
+  "note": "Aggregate student outflow (USD 660m) has no bearing on a decision."
+ },
+ {
+  "held_id": "H-faq-71",
+  "outcome": "no usable fact",
+  "fact_ids": [],
+  "note": "District share (Cumilla) is trivia for a global FAQ."
+ },
+ {
+  "held_id": "H-faq-72",
+  "outcome": "no usable fact",
+  "fact_ids": [],
+  "note": "Vague historical remark."
+ },
+ {
+  "held_id": "H-faq-73",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0150"
+  ],
+  "note": "Abroad now: GCC stock by country."
+ },
+ {
+  "held_id": "H-faq-74",
+  "outcome": "no usable fact",
+  "fact_ids": [],
+  "note": "Outbound tourism decline, 2024; no bearing on migrants' decisions."
+ },
+ {
+  "held_id": "H-faq-75",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "CQ0240",
+   "CQ0234"
+  ],
+  "note": "Columnist's 2019-2023 body count; Welfare Board figures already cited."
+ }
+]

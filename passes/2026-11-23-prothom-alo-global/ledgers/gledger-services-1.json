@@ -1,0 +1,382 @@
+{
+ "articles": [
+  {
+   "article_id": "58f52db0-00e4-47f8-8fb6-2c5789e12ee3",
+   "used": true,
+   "fact_ids": [
+    "GV0035"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "41c88111-5af2-49cc-9594-58b4c8a3a877",
+   "used": true,
+   "fact_ids": [
+    "GV0055",
+    "GV0056",
+    "GV0057",
+    "GV0058",
+    "GV0059",
+    "GV0060"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "0a177490-7066-4864-8461-edc50c1be35e",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of the January 2024 scholarship notice (GV0035) and superseded by the November 2024 round (GV0028-GV0034, GV0049, GV0050)",
+   "held": []
+  },
+  {
+   "article_id": "3b91ae36-be3c-4817-bc10-f70b955d5532",
+   "used": true,
+   "fact_ids": [
+    "GV0061",
+    "GV0062",
+    "GV0063"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "beb256a8-373a-4db2-81de-b266313a4c63",
+   "used": true,
+   "fact_ids": [
+    "GV0064",
+    "GV0065",
+    "GV0066",
+    "GV0067",
+    "GV0081",
+    "GV0082",
+    "GV0083",
+    "GV0084",
+    "GV0085",
+    "GV0086",
+    "GV0087"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "df455c6b-f952-4232-87d8-ea0c234e8abf",
+   "used": true,
+   "fact_ids": [
+    "GV0071",
+    "GV0072",
+    "GV0088",
+    "GV0089",
+    "GV0090",
+    "GV0091"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "06c59f30-fa95-49e0-9384-597f2bfc58f2",
+   "used": true,
+   "fact_ids": [
+    "GV0036"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "21af153e-efbe-4780-8bd5-db49d502e0b7",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: ILO Global Skills Forum speeches with no service, rule or figure a migrant can act on",
+   "held": []
+  },
+  {
+   "article_id": "2dd67ce7-b336-47df-98f4-b75b8b64548d",
+   "used": true,
+   "fact_ids": [
+    "GV0068"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "5e7dafd7-2a59-4876-942a-180484866c3e",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: opinion column on the government-job age limit",
+   "held": []
+  },
+  {
+   "article_id": "a15c39ce-7126-46b7-b2af-b2532b438169",
+   "used": true,
+   "fact_ids": [
+    "GV0037",
+    "GV0038",
+    "GV0039",
+    "GV0040",
+    "GV0051",
+    "GV0052",
+    "GV0053",
+    "GV0054"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "f3f51389-4e95-4793-9215-1e87b2f201d8",
+   "used": true,
+   "fact_ids": [
+    "GV0073",
+    "GV0074",
+    "GV0075",
+    "GV0092",
+    "GV0093",
+    "GV0094"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "0c523758-390a-4c77-b7cb-4f5d354516b0",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "held for departure (passport office brokers); nothing for services",
+   "held": [
+    {
+     "target": "departure",
+     "claim": "An editorial of June 2024 said that at the Mymensingh regional passport office, a code number bought for extra money or a bribe at a computer shop near the office gets a faulty passport application accepted, and that the broker ring 'manages' doubts about address, nationality or character certificates.",
+     "quote": "পাসপোর্ট কার্যালয়ের কাছেই কম্পিউটার দোকানে অতিরিক্ত টাকা বা ঘুষ দিয়ে একটি কোড নম্বর জোগাড় করলেই ময়মনসিংহ পাসপোর্ট অফিসে ত্রুটিযুক্ত আবেদন গ্রহণযোগ্য হয়ে যাচ্ছে।"
+    }
+   ]
+  },
+  {
+   "article_id": "eff69179-1397-4581-92bc-4d5e87097dde",
+   "used": true,
+   "fact_ids": [
+    "GV0076",
+    "GV0077",
+    "GV0078"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "4e6ae8c9-7515-4801-b0fb-f4862a1ad0cd",
+   "used": true,
+   "fact_ids": [
+    "GV0019",
+    "GV0020",
+    "GV0021",
+    "GV0022",
+    "GV0023",
+    "GV0024",
+    "GV0025",
+    "GV0043",
+    "GV0044",
+    "GV0045",
+    "GV0046",
+    "GV0079",
+    "GV0080"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "cc80661d-0068-4b60-bc03-ce3d1601a6dc",
+   "used": true,
+   "fact_ids": [
+    "GV0069",
+    "GV0070"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "11d5be61-e82f-4467-9af7-b45aa05a5137",
+   "used": true,
+   "fact_ids": [
+    "GV0001",
+    "GV0002",
+    "GV0003",
+    "GV0004",
+    "GV0005",
+    "GV0006",
+    "GV0007",
+    "GV0008",
+    "GV0009",
+    "GV0010",
+    "GV0011",
+    "GV0012",
+    "GV0013",
+    "GV0014",
+    "GV0015",
+    "GV0016",
+    "GV0017",
+    "GV0018",
+    "GV0041",
+    "GV0042"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "0540e12a-57c8-47de-814c-516e87bfb127",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "held for faq (apostille); nothing for services",
+   "held": [
+    {
+     "target": "faq",
+     "claim": "On 29 July 2024 Bangladesh acceded to the 1961 Apostille Convention; the foreign minister said documents attested by the Foreign Ministry would no longer need re-attestation in other countries, saving people going abroad Tk 500 to 600 crore a year.",
+     "quote": "পররাষ্ট্র মন্ত্রণালয়ের সত্যায়ন করা নথিপত্র এখন থেকে অন্য দেশে পুনরায় সত্যায়ন করা লাগবে না। ফলে প্রতিবছর বিদেশগামী বাংলাদেশিদের ৫০০ থেকে ৬০০ কোটি টাকা সাশ্রয় হবে।"
+    },
+    {
+     "target": "faq",
+     "claim": "The foreign minister said electronic apostille certificates would be issued under the e-APP, verifiable anywhere by QR code, and hoped e-APP would be fully running within eight months of accession.",
+     "quote": "ই-এপিপি বা ইলেকট্রনিক এপোস্টিল প্রোগ্রাম পদ্ধতিতে সত্যায়ন করে ইলেকট্রনিক এপোস্টিল সার্টিফিকেট ইস্যু করা হবে, যার সত্যতা ও সঠিকতা সার্টিফিকেটে বিদ্যমান কিউআর কোড দিয়ে বিশ্বের যেকোনো স্থান থেকে যাচাই করা যাবে।"
+    }
+   ]
+  },
+  {
+   "article_id": "0f953630-29a8-4a97-ad4d-340f047ace61",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: opinion column proposing vocational centres",
+   "held": []
+  },
+  {
+   "article_id": "0647612e-8575-49f6-ae00-629eb4e4527f",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: PKB staff recruitment notice",
+   "held": []
+  },
+  {
+   "article_id": "eacb74e8-073e-442d-9da8-5ac0d6b610f1",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "held for faq (visa interviews in India); nothing for services",
+   "held": [
+    {
+     "target": "faq",
+     "claim": "Portugal, Bulgaria, Romania, Lithuania, Hungary, Austria and several other European countries have no embassy in Bangladesh, so applicants must attend visa interviews in India; when the Indian Visa Application Centre suspended visas in August 2024, students risked losing admission.",
+     "quote": "পর্তুগাল, বুলগেরিয়া, রোমানিয়া, লিথুয়ানিয়া, হাঙ্গেরি, অস্ট্রিয়াসহ ইউরোপের বিভিন্ন দেশের দূতাবাস বাংলাদেশে নেই। তাই এসব দেশে পড়তে যেতে চাইলে শিক্ষার্থীদের নিকটবর্তী দেশ ভারতে ভিসা সাক্ষাৎকার দিতে হয়।"
+    },
+    {
+     "target": "faq",
+     "claim": "A Prothom Alo reader wrote in August 2024 that universities may not refund tuition until the embassy's refusal letter is submitted, and when they refund often keep 30 to 40%.",
+     "quote": "কারণ, এম্বাসি থেকে ভিসা না পাওয়ার কারণ উল্লিখিত পত্র জমা না দেওয়া পর্যন্ত বিশ্ববিদ্যালয়গুলো টিউশন ফি ফেরত না-ও দিতে পারে। পরবর্তী সময়ে ফেরত দিলেও বেশির ভাগ সময় ৩০ থেকে ৪০ শতাংশ টাকা কেটে রাখে।"
+    }
+   ]
+  },
+  {
+   "article_id": "a6af8ff8-3e86-485a-998f-6c69c847c5b1",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: actor's Facebook post on airport treatment",
+   "held": []
+  },
+  {
+   "article_id": "5d4ad505-c725-4dae-a49d-6bef087cc4f3",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: BOESL appointment notice",
+   "held": []
+  },
+  {
+   "article_id": "9b9e5fdc-f170-4c80-ab54-3541a0d86551",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "held for faq (online certificate attestation); nothing for services",
+   "held": [
+    {
+     "target": "faq",
+     "claim": "From 1 October 2024 the Dhaka education board verifies and attests certificates, transcripts and mark sheets of students going abroad online, applied for through www.dhakaeducationboard.gov.bd or www.mygov.bd.",
+     "quote": "বিদেশগামী শিক্ষার্থীদের সনদ/একাডেমিক ট্রান্সক্রিপ্ট/নম্বরপত্র যাচাই ও সত্যায়ন শুরু হয়েছে অনলাইনে। ১ অক্টোবর থেকে অনলাইনের মাধ্যমে সম্পাদন করা হচ্ছে।"
+    }
+   ]
+  },
+  {
+   "article_id": "010e4e54-15e3-4e75-8c53-3073676f4f18",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "held for departure; otherwise opinion",
+   "held": [
+    {
+     "target": "departure",
+     "claim": "A Canada-based Bangladeshi wrote in October 2024 that at the airport some officials fill in low-skilled workers' checking forms for money, and that returning workers' bags are cut and goods stolen.",
+     "quote": "অধিকাংশ সময়ে বিমানবন্দরে একশ্রেণির কর্মকর্তা থাকেন, যাঁরা টাকার বিনিময়ে তাঁদের চেকিং ফরমটা পূরণ করে দেন।"
+    }
+   ]
+  },
+  {
+   "article_id": "0d3803b7-fcd7-453f-9cd8-646e9b272e9e",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "held for departure (driving licence backlog); nothing for services",
+   "held": [
+    {
+     "target": "departure",
+     "claim": "In October 2024 more than 6.25 lakh driving licence smart cards were stuck at BRTA; drivers going abroad were hit hardest because they can't go without the smart card, and a Cumilla man holding a Saudi visa had paid a broker Tk 13,000 for a correction and waited two months.",
+     "quote": "অবশ্য সবচেয়ে ভোগান্তিতে আছেন লাইসেন্স নিয়ে বিদেশে কর্মী হিসেবে যেতে আগ্রহীরা। কারণ, স্মার্টকার্ড ছাড়া তাঁরা বিদেশ যেতে পারছেন না।"
+    },
+    {
+     "target": "departure",
+     "claim": "Sources said a few cards were being given to influential officials and people going abroad, who had to show their visa at the BRTA chairman's office to be listed; those who knew were alleged to pay large sums, and a Paltan visa-processing firm owner said some paid brokers Tk 50,000 for a licence.",
+     "quote": "এ জন্য বিআরটিএর চেয়ারম্যানের দপ্তরে ভিসা দেখিয়ে তালিকাভুক্ত হতে হয় বিদেশগামীদের। তবে এই তথ্য অনেকেই জানেন না। যাঁরা জানেন, তাঁদের বড় অঙ্কের টাকা দিতে হয় বলে অভিযোগ আছে।"
+    }
+   ]
+  },
+  {
+   "article_id": "0419975c-14d7-4860-bb52-05b541797ec0",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of article 0d3803b7 (editorial repeating the same driving-licence facts, held for departure)",
+   "held": []
+  },
+  {
+   "article_id": "9168c3b8-c2e7-41e6-8c0e-311256febf90",
+   "used": true,
+   "fact_ids": [
+    "GV0047"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "817e71af-a693-40ac-ab07-b1944c3fed01",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of GV0026 (video item on the same lounge opening, no text facts)",
+   "held": []
+  },
+  {
+   "article_id": "e51587ac-f6a8-4896-997c-c980cd4521ad",
+   "used": true,
+   "fact_ids": [
+    "GV0026",
+    "GV0027",
+    "GV0048"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "1e2ed8ac-1a81-445b-9521-9cc3b9958ed8",
+   "used": true,
+   "fact_ids": [
+    "GV0028",
+    "GV0029",
+    "GV0030",
+    "GV0031",
+    "GV0032",
+    "GV0033",
+    "GV0034",
+    "GV0049",
+    "GV0050"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+[
+ {
+  "held_id": "R2-countries-oman-1",
+  "outcome": "no usable fact",
+  "fact_ids": [
+   "PO0044"
+  ],
+  "note": "Logged (PO0044) but not cited: the adviser listing the interim government's own initiatives to Oman's minister changes nothing for a worker; the meeting itself was already covered (C0039-C0041). From the same article, added the adviser's request to admit skilled Bangladeshis and review the unskilled/semi-skilled suspension (PO0043) to the 26 January 2026 bullet under The 2023 suspension."
+ },
+ {
+  "held_id": "R2-countries-oman-2",
+  "outcome": "added",
+  "fact_ids": [
+   "PO0045"
+  ],
+  "note": "Added as a War line under What goes wrong most, and what people wrongly believe."
+ }
+]

@@ -1,0 +1,74 @@
+[
+ {
+  "held_id": "R2-faq-1",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0172"
+  ],
+  "note": "104 TTCs and six marine institutes already in the doc (GF0147, same article); added the 55 courses and more than 12 lakh certificates a year to 'How do I join a TTC course?'."
+ },
+ {
+  "held_id": "R2-faq-2",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0173"
+  ],
+  "note": "NSDA certification and its weak international recognition added to 'How do I join a TTC course?'."
+ },
+ {
+  "held_id": "R2-faq-3",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GF0147"
+  ],
+  "note": "The minister's 110 TTCs and 55 trades (May 2026) are the same 110 institutes GF0147 gives (104 TTCs plus six marine institutes); not a conflict (notes.md)."
+ },
+ {
+  "held_id": "R2-faq-4",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0180"
+  ],
+  "note": "February 2024 Turkey call; its '200 women' is superseded by the March 2024 notice's 100 men and 100 women (notes.md). Added to 'Can I go through the government agency, BOESL?'."
+ },
+ {
+  "held_id": "R2-faq-5",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0174",
+   "GF0175",
+   "GF0176",
+   "GF0177",
+   "GF0178",
+   "GF0179"
+  ],
+  "note": "March 2024 Eurotex Turkey call: who could apply, terms, how to apply, Tk 56,350 pay order plus visa fee. Added to the BOESL question."
+ },
+ {
+  "held_id": "R2-faq-6",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0181"
+  ],
+  "note": "4,813 in 2024 already GF0136; added about 38,000 bodies 2015-2024, mostly under 40, and 2024 the highest, to 'How is the body brought home?'."
+ },
+ {
+  "held_id": "R2-faq-7",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0182",
+   "GF0183",
+   "GF0184"
+  ],
+  "note": "Added registration requirements and process to 'Can I vote from abroad?' and the 1.5-2 crore estimate to the 'Abroad now' bullet. The article names the EC's 'Nagorik' app where GF0122 says 'Postal Vote BD'; recorded in notes.md, doc names only 'the app' in the new sentence."
+ },
+ {
+  "held_id": "R2-faq-8",
+  "outcome": "added",
+  "fact_ids": [
+   "GF0185",
+   "GF0186"
+  ],
+  "note": "Canada voter registration and NID services at Ottawa and Toronto added to the voting question; 'about 1 crore abroad' added to 'Abroad now'."
+ }
+]

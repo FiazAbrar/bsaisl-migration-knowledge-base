@@ -1,0 +1,458 @@
+[
+ {
+  "held_id": "H-illegal-routes-1",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0310",
+   "GI0311"
+  ],
+  "note": "Cases against brokers in Bangladesh, March 2024 Faridpur; attribution to the local leader kept, police version of the escape added."
+ },
+ {
+  "held_id": "H-illegal-routes-2",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0312",
+   "GI0313"
+  ],
+  "note": "Forged documents: new bullet Rohingya on Bangladeshi passports."
+ },
+ {
+  "held_id": "H-illegal-routes-3",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0314",
+   "GI0315"
+  ],
+  "note": "Same bullet; seizure of passports and NIDs and the case added."
+ },
+ {
+  "held_id": "H-illegal-routes-4",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0316"
+  ],
+  "note": "Malaysia section, journeys ending in Myanmar."
+ },
+ {
+  "held_id": "H-illegal-routes-5",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0317",
+   "GI0318",
+   "GI0319"
+  ],
+  "note": "New 'From eastern Libya to Greece' block under The path; broker network from the same article."
+ },
+ {
+  "held_id": "H-illegal-routes-6",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "LB0183",
+   "GI0363"
+  ],
+  "note": "Tk 12 lakh from cows and land already in LB0183; the two instalments are GI0363."
+ },
+ {
+  "held_id": "H-illegal-routes-7",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0320"
+  ],
+  "note": "The '22 rescued alive' figure was not used: it conflicts with 26 rescued (LB0207, Greece doc); see notes. Same article used to correct the Sunamganj case line (two cases, 9 dalals)."
+ },
+ {
+  "held_id": "H-illegal-routes-8",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GI0321"
+  ],
+  "note": "Same campaign the Minister announced on 18 August 2026 (held item 47), cited from that article."
+ },
+ {
+  "held_id": "H-illegal-routes-9",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "I0088",
+   "I0311",
+   "AB0023"
+  ],
+  "note": "Scam compounds in Cambodia and Myanmar with Bangladeshi victims already covered."
+ },
+ {
+  "held_id": "H-illegal-routes-10",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0329"
+  ],
+  "note": "Held, jailed or missing: 'How common it is' (BRAC 2024 study)."
+ },
+ {
+  "held_id": "H-illegal-routes-11",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0330"
+  ],
+  "note": "Same bullet."
+ },
+ {
+  "held_id": "H-illegal-routes-12",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0331"
+  ],
+  "note": "The numbers, Where people come from."
+ },
+ {
+  "held_id": "H-illegal-routes-13",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0332"
+  ],
+  "note": "How common it is."
+ },
+ {
+  "held_id": "H-illegal-routes-14",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0333"
+  ],
+  "note": "The path, step 2."
+ },
+ {
+  "held_id": "H-illegal-routes-15",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0334"
+  ],
+  "note": "Prices quoted."
+ },
+ {
+  "held_id": "H-illegal-routes-16",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0335"
+  ],
+  "note": "The numbers, Deaths."
+ },
+ {
+  "held_id": "H-illegal-routes-17",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0323"
+  ],
+  "note": "Why cases fail, under C R Abrar's existing point."
+ },
+ {
+  "held_id": "H-illegal-routes-18",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0328",
+   "GI0324",
+   "GI0327",
+   "GI0325",
+   "GI0326"
+  ],
+  "note": "Case in How people were drawn in; PBI route in Libya Where to get help, At home."
+ },
+ {
+  "held_id": "H-illegal-routes-19",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0337"
+  ],
+  "note": "The numbers: 'Caught at sea'."
+ },
+ {
+  "held_id": "H-illegal-routes-20",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0338",
+   "GI0339"
+  ],
+  "note": "Held in Libya (410 in prison, 21,000 in Libya, 80% without papers); list of traffickers under The law."
+ },
+ {
+  "held_id": "H-illegal-routes-21",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0340"
+  ],
+  "note": "Russia, When Europe falls through."
+ },
+ {
+  "held_id": "H-illegal-routes-22",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0341",
+   "GI0343",
+   "GI0342"
+  ],
+  "note": "Coming home (outpass, Home Ministry form, NSI) and Cases against brokers, August 2025 Dhaka airport."
+ },
+ {
+  "held_id": "H-illegal-routes-23",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0344",
+   "GI0345"
+  ],
+  "note": "The numbers, Deaths; IOM's 283 Bangladeshi drownings (same paragraph) added and folded into the existing Need to know on yearly deaths."
+ },
+ {
+  "held_id": "H-illegal-routes-24",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GI0332",
+   "GI0329",
+   "GI0330"
+  ],
+  "note": "Same BRAC study, cited from the February 2024 report of its release."
+ },
+ {
+  "held_id": "H-illegal-routes-25",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GI0330"
+  ],
+  "note": "Same BRAC study figures."
+ },
+ {
+  "held_id": "H-illegal-routes-26",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0336"
+  ],
+  "note": "Ransom and resale."
+ },
+ {
+  "held_id": "H-illegal-routes-27",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0347"
+  ],
+  "note": "Deaths, August 2026."
+ },
+ {
+  "held_id": "H-illegal-routes-28",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0348",
+   "GI0349"
+  ],
+  "note": "Deaths, August 2026 (GI0079 already had the counts; embassy confirmation and Egypt landing added)."
+ },
+ {
+  "held_id": "H-illegal-routes-29",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0350",
+   "GI0351"
+  ],
+  "note": "Why cases fail ('Small fry caught'); the editorial's Italy and Greece prices added to Prices quoted and the Greece block."
+ },
+ {
+  "held_id": "H-illegal-routes-30",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0356",
+   "GI0354",
+   "GI0355"
+  ],
+  "note": "New 'Tajoura detention centre' bullet with the rest of the returnee's account."
+ },
+ {
+  "held_id": "H-illegal-routes-31",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0357"
+  ],
+  "note": "Same bullet."
+ },
+ {
+  "held_id": "H-illegal-routes-32",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0362"
+  ],
+  "note": "Greece block and Balkans How it is sold (fake Serbia offer)."
+ },
+ {
+  "held_id": "H-illegal-routes-33",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0363"
+  ],
+  "note": "Greece block, split payments."
+ },
+ {
+  "held_id": "H-illegal-routes-34",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0364"
+  ],
+  "note": "The path, step 2."
+ },
+ {
+  "held_id": "H-illegal-routes-35",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0365",
+   "GI0366"
+  ],
+  "note": "Ransom and resale."
+ },
+ {
+  "held_id": "H-illegal-routes-36",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GI0251"
+  ],
+  "note": "22 dead on the 21 March 2026 boat already cited."
+ },
+ {
+  "held_id": "H-illegal-routes-37",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0367",
+   "GI0371"
+  ],
+  "note": "Contract price cases: Sohag Mia."
+ },
+ {
+  "held_id": "H-illegal-routes-38",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0368",
+   "GI0370"
+  ],
+  "note": "Same case."
+ },
+ {
+  "held_id": "H-illegal-routes-39",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0369"
+  ],
+  "note": "Same case."
+ },
+ {
+  "held_id": "H-illegal-routes-40",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0372"
+  ],
+  "note": "Greece block, split payments."
+ },
+ {
+  "held_id": "H-illegal-routes-41",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0373"
+  ],
+  "note": "The path (Saudi Umrah first) and Deaths, September 2026 off Gavdos."
+ },
+ {
+  "held_id": "H-illegal-routes-42",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0374",
+   "GI0375"
+  ],
+  "note": "Deaths, September 2026 off Gavdos."
+ },
+ {
+  "held_id": "H-illegal-routes-43",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0376"
+  ],
+  "note": "Russia deaths list: Abdur Rahim."
+ },
+ {
+  "held_id": "H-illegal-routes-44",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0377"
+  ],
+  "note": "Same."
+ },
+ {
+  "held_id": "H-illegal-routes-45",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0378",
+   "GI0381"
+  ],
+  "note": "Same; MP's statement on the body under Local officials."
+ },
+ {
+  "held_id": "H-illegal-routes-46",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0379",
+   "GI0380"
+  ],
+  "note": "Same."
+ },
+ {
+  "held_id": "H-illegal-routes-47",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0321",
+   "GI0322"
+  ],
+  "note": "Libya Where to get help, At home."
+ },
+ {
+  "held_id": "H-illegal-routes-48",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0382"
+  ],
+  "note": "India: offers list and Cases."
+ },
+ {
+  "held_id": "H-illegal-routes-49",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0383",
+   "GI0384"
+  ],
+  "note": "India Cases, 2024 Chattogram."
+ },
+ {
+  "held_id": "H-illegal-routes-50",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0385",
+   "GI0386",
+   "GI0388"
+  ],
+  "note": "India Cases, 2010 to 2025 Faridpur."
+ },
+ {
+  "held_id": "H-illegal-routes-51",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0387"
+  ],
+  "note": "India Cases and Why cases fail ('Police refusing the case')."
+ },
+ {
+  "held_id": "H-illegal-routes-52",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0389"
+  ],
+  "note": "Libya, The path, after Touhid Hossain's Kenya route."
+ },
+ {
+  "held_id": "H-illegal-routes-53",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "RU0018"
+  ],
+  "note": "Column says the 10 families applied to the government, citing BRAC's report; BRAC says they asked BRAC. Kept RU0018; logged as GI0346, not cited (see notes)."
+ }
+]

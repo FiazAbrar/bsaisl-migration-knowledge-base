@@ -31,6 +31,9 @@ For all countries:
 - [Dalal scams](global/dalal-scams/): the tricks brokers and fake agencies use, how to spot each, and where to complain
 - [Departure bottlenecks](global/departure/): passports, police clearance, the Gulf medical, BMET clearance, offloading and bribes at the airport, refused entry and deportation
 - [Illegal routes](global/illegal-routes/): the irregular routes people are sold, how they end, and the law and help in Bangladesh
+- [Sending money home](global/money/): ways to send and what each costs, the incentive, exchange rates, hundi, the Wage Earners' Development Bond and the Probashi Card
+- [Services for migrants and their families](global/services/): training, loans, the Welfare Board, help in a war or disaster, deaths abroad, reintegration
+- [Other destinations](global/other-destinations/): 24 countries with no doc of their own yet, from Prothom Alo reporting
 
 Each country and global folder has the same files:
 

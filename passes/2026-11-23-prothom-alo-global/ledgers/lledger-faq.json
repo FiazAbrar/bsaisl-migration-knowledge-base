@@ -1,0 +1,153 @@
+{
+ "articles": [
+  {
+   "article_id": "f72ce8ec-1320-430d-8d93-26144d28e4b1",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: video story, the archive holds no text",
+   "held": []
+  },
+  {
+   "article_id": "dea4b76d-e807-4bca-b786-b2909296c6ac",
+   "used": true,
+   "fact_ids": [
+    "GF0152",
+    "GF0153",
+    "GF0154"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "00a7917b-25b0-4e18-b669-4e9334ca25f9",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: the archive holds no text for this story",
+   "held": []
+  },
+  {
+   "article_id": "2e28e848-c111-4b62-bbbf-f74b3e8a2048",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: the archive holds no text for this story",
+   "held": []
+  },
+  {
+   "article_id": "2d53d416-a54a-4daf-8311-cc22b7e454f7",
+   "used": true,
+   "fact_ids": [
+    "GF0155",
+    "GF0156",
+    "GF0158",
+    "GF0159",
+    "GF0160"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "216c61fa-6881-45e6-817d-2cc037aaeda1",
+   "used": true,
+   "fact_ids": [
+    "GF0157",
+    "GF0161",
+    "GF0162"
+   ],
+   "reason_if_unused": "phone allowance is a duplicate of GF0112",
+   "held": []
+  },
+  {
+   "article_id": "b9152ed9-5531-4425-b0bb-f46dbbd0ee3b",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: the archive holds no text for this story",
+   "held": []
+  },
+  {
+   "article_id": "be1027bb-f3a4-459c-9ede-43edb6ed4f51",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: Iran seized a fuel tanker with Bangladeshi, Indian and Sri Lankan crew; foreign news with no number of Bangladeshis or outcome",
+   "held": []
+  },
+  {
+   "article_id": "13efef31-f1a3-48f5-8d81-d7c4afaf07f2",
+   "used": true,
+   "fact_ids": [
+    "GF0163",
+    "GF0164",
+    "GF0165"
+   ],
+   "reason_if_unused": "rest of the live blog is foreign politics",
+   "held": []
+  },
+  {
+   "article_id": "095f95fb-4801-48dd-a685-7bc4469295e8",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: essay on decolonisation and archaeology, nothing on migration",
+   "held": []
+  },
+  {
+   "article_id": "e3e6cd1a-88d2-4c39-9cad-1f003655cbe1",
+   "used": true,
+   "fact_ids": [
+    "GF0166",
+    "GF0167",
+    "GF0168",
+    "GF0187"
+   ],
+   "reason_if_unused": "rest of the live blog is foreign politics; LNG-import and Hormuz shipping items have no bearing on migrants",
+   "held": []
+  },
+  {
+   "article_id": "d920b95b-c32e-4c6e-9a0a-07df0517c95b",
+   "used": true,
+   "fact_ids": [
+    "GF0169",
+    "GF0170"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "71a05709-6636-48b8-8cca-28008f74b208",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of GF0170 (Ministry press release of 3 April 2026: six Bangladeshis dead in the war) and GF0163 (Al-Kharj deaths); rest is foreign politics",
+   "held": []
+  },
+  {
+   "article_id": "92c0e2ba-e798-4c14-829d-0c5fcd94e544",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: the archive holds no text for this story (the Prime Minister's 15 April 2026 parliament statement is already in the doc as CQ0152, CQ0153)",
+   "held": []
+  },
+  {
+   "article_id": "7ab17a2b-687b-4f95-b24d-6235588bd9e5",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: video bulletin, the archive holds no text",
+   "held": []
+  },
+  {
+   "article_id": "07deff68-47eb-4cae-9533-a04b672892d9",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "belongs in the Departure bottlenecks doc; held",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "Two returnees from Dubai, Jamal Hossain and his friend Sohel, who landed at Shahjalal airport at about 1.30 am on 4 November 2026 and set off for Kanchan in a private car driven by a driver they knew, were robbed at gunpoint at about 3 am in the Shamu Market area of the Purbachal 300-feet road of 18 bhori of gold jewellery, five phones, a laptop and a tab worth about Tk 46 lakh, by their account; the driver helped another car block theirs, and police arrested him, his brother and another man and recovered 8.5 bhori of gold (fits 'On the road from the airport').",
+     "quote": "ভুক্তভোগী দুবাইপ্রবাসী জামাল হোসেন বলেন, মঙ্গলবার দিবাগত রাত দেড়টার দিকে তিনি ও তাঁর বন্ধু সোহেল দুবাই থেকে ঢাকার হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে পৌঁছান।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "The victim said the driver, Shahin, helped block their car with another private car.",
+     "quote": ""
+    }
+   ]
+  }
+ ]
+}

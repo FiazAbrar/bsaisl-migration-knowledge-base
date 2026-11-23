@@ -1,0 +1,198 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "In one minute",
+  "old_str": "though a Cornell University language-centre coordinator estimated that only about 2,500 of some 13 lakh workers who went abroad in a year had learned a language at a government centre [GV0172, GV0199, GV0183].",
+  "new_str": "though a Cornell University language-centre coordinator estimated that only about 2,500 of some 13 lakh workers who went abroad in a year had learned Japanese, Korean, English or Chinese at a government centre [GV0172, GV0199, GV0183].",
+  "problem": "GV0183 counts only those who learned Japanese, Korean, English or Chinese; 'a language' overstates it (the same writer says organised Arabic courses are lacking)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "In one minute",
+  "old_str": "Abroad, a worker in some Gulf countries, South Korea or Italy can finish SSC, HSC or a degree",
+  "new_str": "Abroad, a worker in some Gulf countries, South Korea or Italy can finish SSC (Secondary School Certificate), HSC (Higher Secondary Certificate) or a degree",
+  "problem": "SSC and HSC are not explained at first use anywhere in the doc."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "In one minute",
+  "old_str": "A women's advocacy group, CWCS, says some returnee women are not taken back by their husbands or families, and in 2024 it asked for guarantor-free loans and free legal help for them [GV0075, GV0093, GV0092].",
+  "new_str": "The Centre for Women and Children Studies (CWCS), a women's advocacy group, said in May 2024 that some returnee women are not taken back by their husbands or families, and asked for guarantor-free loans for returnee women and free legal help for those who suffered sexual exploitation, abuse, forced labour or trafficking [GV0075, GV0093, GV0092].",
+  "problem": "CWCS is not spelled out at first use (only under Returnee women); 'says' presents a May 2024 statement as current; and GV0092's free legal help was asked for women who suffered sexual exploitation, abuse, forced labour or trafficking, not for all women not taken back."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "Advice near home before you decide",
+  "old_str": "spoke of plans for a one-stop service at district level, bringing the district manpower office, PKB and the welfare centre into one building,",
+  "new_str": "spoke of plans for a one-stop service at district level for women who want to go abroad, bringing the district manpower office, PKB and the welfare centre into one building,",
+  "problem": "GV0192 describes the one-stop service as being to make services easier for women wanting to go abroad; the doc drops that scope."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "Advice near home before you decide",
+  "old_str": "The government said in its 2026-27 budget that the migration process had already been made fully digital through OEP [GV0211].",
+  "new_str": "The government said in its 2026-27 budget that the migration process had already been made fully digital through OEP (the Overseas Employment Platform, BMET's online system for registration and clearance) [GV0211].",
+  "problem": "OEP is not explained at first use in the doc (GV0211 gives the full name)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "Advice near home before you decide",
+  "old_str": "put migrants' passports, NIDs, e-TINs (tax numbers)",
+  "new_str": "put migrants' passports, NIDs (national identity cards), e-TINs (tax numbers)",
+  "problem": "NID not explained at first use (first explained later under The PKB migration loan)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "Training centres",
+  "old_str": "At the same roundtable Nurul Haque said the government had noticed 23 ministries giving similar training",
+  "new_str": "At the 5 May 2026 roundtable Nurul Haque said the government had noticed 23 ministries giving similar training",
+  "problem": "'the same roundtable' points back to a roundtable last mentioned in another section (Advice near home before you decide); the preceding paragraph is about 2024 TTC plans and KOICA."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "Language courses at the TTCs",
+  "old_str": "a set language level such as JLPT N3 or TOPIK level 3,",
+  "new_str": "a set language level such as JLPT N3 (Japanese-Language Proficiency Test) or TOPIK (Test of Proficiency in Korean) level 3,",
+  "problem": "JLPT and TOPIK not explained at first use."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "How the loan is decided and repaid",
+  "old_str": "3. Repay monthly at any PKB branch or at any Sonali Bank branch, under an agreement between the two banks [GV0013].",
+  "new_str": "3. Repay the instalments at any PKB branch or at any Sonali Bank branch, under an agreement between the two banks [GV0013].",
+  "problem": "'monthly' is not in GV0013, which speaks only of instalments."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "While abroad",
+  "old_str": "giving special consular and welfare services on top of its regular ones and ending with a public hearing for migrants [GV0356, GV0357].",
+  "new_str": "giving special consular and welfare services on top of its regular ones, and held a public hearing for migrants on 2 January 2024 [GV0356, GV0357].",
+  "problem": "The week ran 22 to 31 December 2023; the public hearing (GV0357) was on 2 January 2024, so the week did not 'end with' it."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "In a war or disaster",
+  "old_str": "When war or disaster has hit a host country, help has come through the embassy, the ministry's hotline and, for evacuations, money from the Welfare Board [GV0284, GV0288].",
+  "new_str": "When war or disaster has hit a host country, help has come through the embassies and the ministry's hotline, and the 2026 evacuation from Iran was paid for by the Welfare Board [GV0284, GV0288].",
+  "problem": "Lead sentence is not true of every case under it: Welfare Board funding is reported only for the 2026 Iran returns; for Lebanon 2024 the adviser said the government would bear the cost and IOM brought 200 at its own cost, and no funder is given for the June 2025 Iran plan."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "In a war or disaster",
+  "old_str": "IOM's acting head in Bangladesh, Nusrat Grazzini, said",
+  "new_str": "IOM's acting head in Bangladesh, Nusrat Garzali, said",
+  "problem": "Mistransliteration: the article (pa-2024-10-21-dkkws4hb3r) writes নুসরাত গারজালি (Garzali); 'Grazzini' is not supported. The November 2024 article names IOM's deputy chief of mission Fatima Nusrat Ghazzali, probably the same person; a human may prefer that spelling."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "If a worker dies abroad",
+  "old_str": "A paper presented at a dialogue held by RAMRU and the National Human Rights Commission",
+  "new_str": "A paper presented at a dialogue held by RMMRU and the National Human Rights Commission",
+  "problem": "Same organisation (রামরু) is called RMMRU (explained under The Probashi Kallyan desk) and RAMRU here; two names read as two organisations."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "Returnee women",
+  "old_str": "and a UNDP Bangladesh gender expert, Sharmin Islam,",
+  "new_str": "and a UNDP (United Nations Development Programme) Bangladesh gender expert, Sharmin Islam,",
+  "problem": "UNDP not explained at first use."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "Advice near home before you decide",
+  "old_str": "What BOESL offers and how to apply: see \"Can I go through the government agency, BOESL?\" in the Frequently asked questions about going abroad doc [GV0215].",
+  "new_str": "What BOESL offers and how to apply: see \"Can I go through the government agency, BOESL?\" in the Frequently asked questions about going abroad doc.",
+  "problem": "Cross-reference cites GV0215 (BOESL's 1.3% share in 2023), a fact about something else; drop the citation (the target section carries its own)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "Ami Probashi: CV builder and online doctors",
+  "old_str": "What happened to its role in BMET registration and clearance, and the government's own platform, OEP, that replaced it: see \"How do I register on OEP?\" in the Frequently asked questions about going abroad doc [GV0358].",
+  "new_str": "What happened to its role in BMET registration and clearance, and the government's own platform, OEP, that replaced it: see \"How do I register on OEP?\" in the Frequently asked questions about going abroad doc.",
+  "problem": "Cross-reference cites GV0358 (Ami Probashi's user numbers, 2024), a fact about something else; drop the citation (the target section carries its own)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "Training centres",
+  "old_str": "How to join a TTC course and what the pre-departure orientation covers: see \"How do I join a TTC course?\" and \"What is the pre-departure orientation (PDO)?\" in the Frequently asked questions about going abroad doc [GV0071].",
+  "new_str": "How to join a TTC course and what the pre-departure orientation covers: see \"How do I join a TTC course?\" and \"What is the pre-departure orientation (PDO)?\" in the Frequently asked questions about going abroad doc.",
+  "problem": "Cross-reference cites GV0071 (an MP on problems with pre-departure training), a fact about something else; drop the citation (the target section carries its own)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "Language courses at the TTCs",
+  "old_str": "How to apply for a TTC course on OEP: see \"How do I join a TTC course?\" in the Frequently asked questions about going abroad doc [GV0171].",
+  "new_str": "How to apply for a TTC course on OEP: see \"How do I join a TTC course?\" in the Frequently asked questions about going abroad doc.",
+  "problem": "Cross-reference cites GV0171 (BMET's trainer advert), a fact about something else; drop the citation (the target section carries its own)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "The PKB loan for language study and skills abroad",
+  "old_str": "The student loan of up to Tk 10 lakh as proof of solvency for higher study is in \"Can I get a government loan to go abroad?\" in the Frequently asked questions about going abroad doc [GV0178].",
+  "new_str": "The student loan of up to Tk 10 lakh as proof of solvency for higher study is in \"Can I get a government loan to go abroad?\" in the Frequently asked questions about going abroad doc.",
+  "problem": "Cross-reference cites GV0178 (the language-course loan, not a solvency loan), a fact about something else; drop the citation (the target section carries its own)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "Private insurance: Guardian Probashi Prohori",
+  "old_str": "The government's compulsory migrant insurance is in \"What does the migrant insurance cover?\" in the Frequently asked questions about going abroad doc [GV0095].",
+  "new_str": "The government's compulsory migrant insurance is in \"What does the migrant insurance cover?\" in the Frequently asked questions about going abroad doc.",
+  "problem": "Cross-reference cites GV0095 (the private BRAC-Guardian policy), a fact about something else; drop the citation (the target section carries its own)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "Air tickets: the Remittance Fighter Fare",
+  "old_str": "Who pays for the ticket in the first place: see \"Who pays for the air ticket?\" in the Frequently asked questions about going abroad doc [GV0128].",
+  "new_str": "Who pays for the ticket in the first place: see \"Who pays for the air ticket?\" in the Frequently asked questions about going abroad doc.",
+  "problem": "Cross-reference cites GV0128 (Flight Expert's fare), a fact about something else; drop the citation (the target section carries its own)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "The Probashi Kallyan desk",
+  "old_str": "The desk's other services, its hours and phone numbers are under \"At the airport: the welfare desk\" in the Departure bottlenecks doc [GV0019].",
+  "new_str": "The desk's other services, its hours and phone numbers are under \"At the airport: the welfare desk\" in the Departure bottlenecks doc.",
+  "problem": "Cross-reference cites GV0019 (the desk's three main tasks, not its hours or numbers), a fact about something else; drop the citation (the target section carries its own)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "The migrant lounge and helpers at Dhaka airport",
+  "old_str": "How to book it: see \"Who helps me at the airport?\" in the Frequently asked questions about going abroad doc [GV0319].",
+  "new_str": "How to book it: see \"Who helps me at the airport?\" in the Frequently asked questions about going abroad doc.",
+  "problem": "Cross-reference cites GV0319 (price and emptiness, not booking), a fact about something else; drop the citation (the target section carries its own)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "While abroad",
+  "old_str": "Hotlines, the labour wings and legal help while abroad: see \"Who can I call for help while abroad?\" in the Frequently asked questions about going abroad doc [GV0036].",
+  "new_str": "Hotlines, the labour wings and legal help while abroad: see \"Who can I call for help while abroad?\" in the Frequently asked questions about going abroad doc.",
+  "problem": "Cross-reference cites GV0036 (the scholarship call-centre notice), a fact about something else; drop the citation (the target section carries its own)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "Passports and NIDs from abroad",
+  "old_str": "The passport's fees and rules are in \"How do I get a passport, and what does it cost?\" in the Frequently asked questions about going abroad doc [GV0323].",
+  "new_str": "The passport's fees and rules are in \"How do I get a passport, and what does it cost?\" in the Frequently asked questions about going abroad doc.",
+  "problem": "Cross-reference cites GV0323 (the Paris e-passport launch), a fact about something else; drop the citation (the target section carries its own)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "PKB loans to restart",
+  "old_str": "The rehabilitation loan's limits and what returnees say about the help that reaches them: see \"What help is there when I come back?\" in the Frequently asked questions about going abroad doc and \"Help after you get home\" in the Departure bottlenecks doc [GV0018].",
+  "new_str": "The rehabilitation loan's limits and what returnees say about the help that reaches them: see \"What help is there when I come back?\" in the Frequently asked questions about going abroad doc and \"Help after you get home\" in the Departure bottlenecks doc.",
+  "problem": "Cross-reference cites GV0018 (that PKB has returnee loans; nothing on limits or returnees' views), a fact about something else; drop the citation (the target section carries its own)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "Government and BRAC reintegration projects",
+  "old_str": "What RAISE offers through its district offices, and what returnees say about the help: see \"Help after you get home\" in the Departure bottlenecks doc [GV0304].",
+  "new_str": "What RAISE offers through its district offices, and what returnees say about the help: see \"Help after you get home\" in the Departure bottlenecks doc.",
+  "problem": "Cross-reference cites GV0304 (that RAISE exists), a fact about something else; drop the citation (the target section carries its own)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/services/doc.md",
+  "section": "Returnee women",
+  "old_str": "The airport payment to women back after abuse and PKB's eased conditions for returnee women: see \"What help is there when I come back?\" in the Frequently asked questions about going abroad doc [GV0016].",
+  "new_str": "The airport payment to women back after abuse and PKB's eased conditions for returnee women: see \"What help is there when I come back?\" in the Frequently asked questions about going abroad doc.",
+  "problem": "Cross-reference cites GV0016 (PKB's 4-7% loans to returnee women; nothing on an airport payment), a fact about something else; drop the citation (the target section carries its own)."
+ }
+]

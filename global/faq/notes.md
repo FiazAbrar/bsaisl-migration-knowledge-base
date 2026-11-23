@@ -115,6 +115,56 @@ About 330 cited sentences and list items were checked against the facts' quotes,
 - Several pointers say "in each country doc" (for example "If you aren't paid"). The headings exist, but the build can't link a pointer that names no doc.
 - `facts.csv` row F0107 has an empty quote column; its text sits in the note. It isn't load-bearing, because F0222 carries the same figures.
 
+## Resolved conflicts
+
+- PKB guarantors (23 Nov 2026): PKB's own migration-loan page says at least two guarantors, one financially solvent (with three signed cheques) and one family member or close relative [F0116]; a July 2024 Prothom Alo report agrees (see global/services/notes.md, GV0009). The July 2025 Prothom Alo guide's "one guarantor's papers" [OA0108, OA0109] and the Cumilla PKB officer's "a capable guarantor" [AA0237] are secondhand summaries that name only the guarantor who carries the repayment risk. PKB's page wins; the doc no longer cites OA0108/OA0109 or AA0237 for the number of guarantors, and the Need to know was removed.
+- Workers who went abroad in 2023 (23 Nov 2026): the State Minister's written answer to parliament on 27 February 2024 gives 13,05,453 [GF0005], the same figure RMMRU gives [MA0079]; BMET's "about 13 lakh" [CQ0055] is a rounding of it. The Ami Probashi 2024 report's 13,90,811 [CQ0070] is a secondhand figure from a private app operator and is outnumbered by the official one; the doc no longer cites it for 2023 (it still cites the report for 2024). The Need to know was removed.
+- Remittance cash incentive, 2.5% or 2% (23 Nov 2026): the Ministry's rejoinder of 24 June 2025 said 2% [CQ0203]. The finance minister's 2026-27 budget speech of 11 June 2026 says the existing 2.5% continues [F0137], and bKash describes it as 2.5% [F0136]; the Sending money home doc's notes add bKash's January 2026 rate of Tk 25 per Tk 1,000 (global/money, GM0274, GM0307). The budget speech is a primary, newer document: 2.5% is kept, the doc no longer cites CQ0203, and the Need to know was removed.
+- Workers who went abroad in 2025 (23 Nov 2026): the minister's answer to parliament on 5 April 2026 gives 11,32,519 [CQ0150]; a column's BMET figure gives 11,16,399 [CQ0148], RMMRU 11,30,757 (held item H-faq-69, not logged), and an October 2026 column "about 11,28,000" [GF0149]. The minister's figure to parliament is the primary one and is kept; the doc no longer cites the column's total (it still cites CQ0148 for the GCC share and remittances), and the Need to know was removed.
+- Bangladeshis working abroad, 1.5 or 1.3 crore (23 Nov 2026): the minister told parliament "more than 1.5 crore in 176 countries" on 5 April 2026 [CQ0150] and "more than 1.3 crore in 176 countries" on 20 April 2026 [GF0108]. Both are the minister to parliament; the newer figure is kept and the doc no longer cites the 1.5 crore. Estimates of the stock have long differed by source (a 2025 op-ed citing Bonik Barta: BBS census 50.53 lakh, Bangladesh Bank 1.25 crore, BMET 1.48 crore, a former minister 1.55 crore; held item H-faq-16, not logged), so no Need to know: it changes nothing a migrant does.
+- Duty on a 117 g gold bar (23 Nov 2026): a November 2025 Prothom Alo explainer says Tk 40,000 [GF0115]; the Baggage Rules 2025 say Tk 5,000 per 11.664 g (Tk 50,000 for 10 tola) [F0353], and the NBR instruction of 2 July 2025 also says Tk 5,000 per tola. The rules win; GF0115 is logged but not cited.
+- New phones (23 Nov 2026): Shahjalal airport customs' undated page gives 2 used and 1 new phone a year [F0349]; the NBR instruction of 2 July 2025 adds that a BMET card holder abroad at least six months may bring 2 new phones a year [GF0112]. Not a conflict: the doc gives both, the second as the migrant's own allowance.
+- (23 Nov 2026) Airport payment for transport and burial, Tk 35,000 or Tk 25,000: WEWB's own page (F0328) gives Tk 35,000, and the expatriates' welfare minister said on 3 April 2026 that the family of S M Tarek, killed in Bahrain, had been paid Tk 35,000 for burial (GF0188, the same article as the services doc's GV0286). The Tk 25,000 is a single remark by the Cumilla Probashi Kallyan Centre's assistant director (AA0233, April 2026), secondhand and contradicted by the official page and a dated payment. Kept Tk 35,000; AA0233 is now cited only for the free ambulance and the up-to-Tk 3 lakh grant. Need to know bullet removed.
+- (23 Nov 2026) BOESL's Turkey call (Eurotex): the February 2024 report (GF0180's source) says 200 women, while listing 100 texturing and 100 spinning/dyeing/garment posts; the March 2024 notice (GF0174) says 100 men and 100 women for the same posts. Used the later, more specific March notice.
+- (23 Nov 2026) TTC counts: the minister's "110 TTCs" (May 2026, held item R2-faq-3) is the same 110 institutes that Prothom Alo split in October 2026 into 104 TTCs and six Institutes of Marine Technology (GF0147); not a conflict.
+
+## Prothom Alo archive pass (gchunk-faq-1, prefix GF)
+
+- New: State Minister's parliamentary figures (1976 to March 2024 total; 2022 and 2023 totals and 2023 by country; FY2023-24 as of 8 May 2024; 1,27,557 sent through government at low or no cost FY2009-10 to FY2022-23); 60 lakh five-year plan (Feb 2024); British Council youth survey (55% want to go abroad); January 2025 editorial on the job market; Salma Begum debt case (Munshiganj, Feb 2024); 2024 passport indexes; study-abroad requirements and traps (new question "Can I go abroad to study instead?").
+- Not used: opinion pieces and readers' essays with no checkable facts; a reader's letter giving FY2023-24 remittance as USD 2,542 million, an obvious misprint; the arrest of the former minister Imran Ahmad (no bearing on a migrant's decisions).
+
+
+## Prothom Alo archive pass (gchunk-faq-2, prefix GF)
+
+- New questions: "Can I work abroad as a nurse?" (April 2025 Centre for Migration Studies column and Yunus's February 2025 speech), "Who is the kafeel, and why does he matter?" (May 2025 Kishor Alo explainer), "Can I join politics or protests abroad?" (November 2025 column citing the ILO; Rashed Khan's 57 arrests, February 2025).
+- Extended: skills (Asif Nazrul, August 2025; Yunus on fake certificates), study abroad (October 2025 papers checklist; Chinese courses, May 2025), cost (ILO country director, May 2025), air tickets (Probashi Odhikar Parishad human chain, February 2025), help on return (no pension, May 2025 opinion piece; points to the Sending money home doc's Pension section).
+- Not used: Rangpur column (the writer's guess that the division sends under 1% of migrants, no data); NCP manifesto (party pledges); Study Abroad Fair 2025 event report (no decision-bearing fact).
+- Held for other docs: Sandwip speedboat launched in banned weather under pressure from outgoing passengers (departure); Keraniganj land grab of an Italy migrant's house (money); returnee watermelon farmer in Bauphal (services).
+
+## Prothom Alo archive pass (gchunk-faq-3, prefix GF)
+
+- 13 articles read in full; 6 used (facts GF0064-GF0090).
+- New questions: "What about jobs in Central and Eastern Europe?" (April 2026 column by two academics; EU ambassador on the Talent Partnership, December 2025) and "Can I work for a foreign company without leaving Bangladesh?" (May 2026 column on virtual migration).
+- Extended: cost (ILO's Max Tunon, December 2025), study abroad (cheaper Central and Eastern European study; Erasmus Mundus four-country structure), passport (brokers at missions when renewing abroad, opposition leader, May 2026), what to carry (winter "minus products" in Dhaka: where and prices, February 2026).
+- Not used: BNP manifesto column (its "about two lakh youth enter the labour market each year" is far below the 20-22 lakh the doc cites from a 2025 editorial, and looks misprinted); the parliamentary committee's first review of interim-government ordinances (lists the overseas-employment and trafficking ordinances but reports no outcome); a road accident on the way to the airport; the OKUP Migrant Conference 2026 report (the State Minister spoke on domestic politics); a Ziaur Rahman foreign-policy column (historical); a Raozan crime investigation (local extortion of two expatriates, no general fact); a column on diaspora identity.
+- Also resolved the remittance-incentive conflict (see Resolved conflicts).
+
+## Held items from other passes (held-faq.json, prefix GF)
+
+- 75 held items placed; facts GF0107-GF0151. Output: prothom-alo-archive/extract/kb4/heldout-faq.json.
+- Numbers kept to the newest primary figure per measure: departures since 2004 and the stock abroad (minister to parliament, 20 April 2026), GCC stock by country (Ministry statistics, March 2026), 2025 skill mix (BMET), BOESL FY2025-26, 1 crore five-year goal (replaces the 60 lakh plan of February 2024, GF0004, no longer cited). Older or secondhand repeats (2017/2022/2023 totals from a 2024 report, 8-9 lakh a year, 150 an hour, MCCI quarterly figure, 2019 Bangladesh Bank skill survey, Feb-Sep 2026 totals superseded by GF0093) were marked duplicate.
+- New question: "Can I vote from abroad?" (postal ballot, January 2026).
+
+## Prothom Alo archive pass (lchunk-faq, prefix GF) and held items round 2 (held2-faq.json)
+
+- 16 articles; 6 had no text in the archive (videos or empty stories), 4 were long live blogs on the Iran war, read for every passage about Bangladeshis or migrants. Facts GF0152-GF0188.
+- New question: "What happens if war breaks out where I work?" (deaths in Saudi Arabia, the UAE and Bahrain; six dead by April 2026; visa-extension diplomacy; Tarek family payments). Points to the Services doc's "In a war or disaster" for embassy advice, hotline and evacuations.
+- Extended: heat risk (ILO, April 2024), baggage (cigarettes, excess goods, 30-day late declaration, "baggage party" case, pre-June 2025 gold rules), voting registration, TTC and NSDA certification, BOESL Turkey call (fees charged to the worker), body counts 2015-2024.
+- Held for the Departure bottlenecks doc: robbery of two Dubai returnees by their own hired driver's accomplices on the Purbachal 300-feet road (November 2026).
+
+## Open, not in the doc
+
+- Postal-vote app name: GF0122 (NSU researcher, January 2026) calls it "Postal Vote BD"; a London report of November 2025 (GF0183's source) says the Election Commission's "Nagorik" app. The doc keeps "Postal Vote BD" and the new sentence says only "the app".
 ## Conflicts resolved, 22 Nov 2026 (from the bot's prompt test, carried over from the cross-country doc)
 
 - Debt payback example aligned with the Saudi guide's rate (SR 1 = Tk 33): Tk 8,250, about 55 months (was Tk 8,300 at Tk 33.20, 54 months).

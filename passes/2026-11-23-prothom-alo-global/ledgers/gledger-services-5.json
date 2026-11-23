@@ -1,0 +1,159 @@
+{
+ "articles": [
+  {
+   "article_id": "0da9ffa5-ee80-47f1-9ff6-605d080cda4a",
+   "used": true,
+   "fact_ids": [
+    "GV0233"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "94cef1cc-4866-4432-b326-2a8786cc8963",
+   "used": true,
+   "fact_ids": [
+    "GV0234",
+    "GV0235"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "73440c1a-695c-4bb4-b969-0d4598160175",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No fact about services for migrants: immigration police stopping three adult women tourists (Nepal trip, 8 Aug 2026) and the High Court rule; departure-side facts held for global/departure.",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "On 29 September 2026 a High Court bench issued a rule asking why stopping three adult women from travelling abroad should not be declared without lawful authority, and why authorities should not be told to issue directions not to stop adult women's lawful travel only for being unmarried or travelling without a guardian.",
+     "quote": "একই সঙ্গে প্রাপ্তবয়স্ক নারী নাগরিকদের বৈধ বিদেশযাত্রায় শুধু অবিবাহিত হওয়া, অভিভাবক ছাড়া ভ্রমণ বা অনুরূপ লিঙ্গভিত্তিক বিবেচনায় বাধা না দিতে সংশ্লিষ্ট কর্তৃপক্ষকে যথাযথ নির্দেশনা প্রণয়ন ও জারির নির্দেশ কেন দেওয়া হবে না—এ বিষয়েও রুলে জানতে চাওয়া হয়েছে।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "The court directed the Additional IGP of police to settle the women's complaint within seven days and report, and told immigration not to stop their future travel if their papers are in order, according to their lawyer Ishrat Hasan.",
+     "quote": "পুলিশের অতিরিক্ত মহাপরিদর্শককে আবেদনকারীদের অভিযোগ সাত দিনের মধ্যে নিষ্পত্তি করে প্রতিবেদন দাখিল করতে আদালত নির্দেশ দিয়েছেন বলে জানান আইনজীবী ইশরাত হাসান। তিনি বলেন, ‘তাঁদের (রিট আবেদনকারীদের) পরবর্তী বিদেশযাত্রায় যথাযথ কাগজাদি থাকলে বাধা না দিতেও ইমিগ্রেশন কর্তৃপক্ষকে নির্দেশ দেওয়া হয়েছে।’"
+    }
+   ]
+  },
+  {
+   "article_id": "74cf5a65-150d-440e-a8e0-b7c495c9846e",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No fact about services for migrants: immigration police stopping three adult women tourists (Nepal trip, 8 Aug 2026) and the High Court rule; departure-side facts held for global/departure.",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "Sakia Haque, co-founder of Bhromonkonna-Travelettes of Bangladesh, wrote that women leaving the country have for years been asked irrelevant questions at immigration such as whether they are married, whether the husband let them go alone, and where they got so much money.",
+     "quote": "বছরের পর বছর আমরা শুনে আসছি নানা অপ্রাসঙ্গিক প্রশ্ন। ‘বিয়ে হয়েছে?’ যদি বিবাহিত হয়ে থাকেন, তাহলে বলবে, ‘আপনার স্বামী আপনাকে একা যেতে দিলেন?’, ‘এত টাকা কোথায় পান?’ ইত্যাদি।"
+    }
+   ]
+  },
+  {
+   "article_id": "fc233628-43e7-42ec-a774-603ecd97d9a1",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No fact about services for migrants: immigration police stopping three adult women tourists (Nepal trip, 8 Aug 2026) and the High Court rule; departure-side facts held for global/departure.",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "Despite valid papers and no court ban, immigration officers asked the three women whether their families knew of the trip, had them phone home, questioned their travelling unmarried without a guardian, and finally did not let them go (opinion column by Monjurul Islam).",
+     "quote": "তা সত্ত্বেও ইমিগ্রেশন কর্মকর্তারা জানতে চান, তাঁদের পরিবার এই ভ্রমণের কথা জানে কি না। তাঁদের বাড়িতে ফোন করতে বলা হয়। তাঁরা অবিবাহিত এবং কোনো অভিভাবক ছাড়াই বিদেশে যাচ্ছেন—এ নিয়েও প্রশ্ন তোলা হয়। শেষ পর্যন্ত তাঁদের যেতে দেওয়া হয়নি।"
+    }
+   ]
+  },
+  {
+   "article_id": "d9c642c4-022c-4e0f-9e76-a8134803331e",
+   "used": true,
+   "fact_ids": [
+    "GV0236",
+    "GV0237",
+    "GV0238",
+    "GV0239",
+    "GV0240",
+    "GV0241",
+    "GV0242",
+    "GV0243",
+    "GV0244",
+    "GV0245",
+    "GV0246",
+    "GV0247"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "796de5d0-ac6b-4a23-9d02-b142534a64a1",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No fact about services for migrants: immigration police stopping three adult women tourists (Nepal trip, 8 Aug 2026) and the High Court rule; departure-side facts held for global/departure.",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "A Supreme Court advocate writes that if harassed at immigration, a traveller can inform the airport's complaint officer, shift in-charge, duty officer or immigration OC, and call the airport immigration 24-hour hotline 01320007588.",
+     "quote": "বিমানবন্দরে দায়িত্বরত অভিযোগ নিষ্পত্তি কর্মকর্তা অথবা  শিফট ইনচার্জ, ডিউটি অফিসার বা নির্দিষ্ট ইমিগ্রেশনের অফিসার ইনচার্জকে (ওসি) বিষয়টি অবিলম্বে অবহিত করতে পারেন। বিমানবন্দর ইমিগ্রেশনের ২৪ ঘণ্টার হটলাইন নম্বর-এ কল করে সহায়তা চাওয়া যায়। হটলাইন নাম্বারটি হলো ০১৩২০০০৭৫৮৮।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "She writes that if none of the complaint routes gives redress, a writ can be filed in the High Court, but a complaint must first be made to the proper authority.",
+     "quote": "অভিযোগ করে যদি এই সব প্রক্রিয়ার কোনটির মাধ্যমেই যদি প্রতিকার পাওয়া না যায়,তবে বাংলাদেশ সুপ্রিম কোর্টের মহামান্য হাইকোর্ট রিট দায়ের করার সুযোগ আছে। রিট দায়ের করার আগে যথাযথ কর্তৃপক্ষের কাছে আগে অভিযোগ দাখিল করতে হবে।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "She writes that the Appellate Division has held that no citizen's lawful foreign travel can be stopped without a court order barring travel.",
+     "quote": "বাংলাদেশের মহামান্য সুপ্রিম কোর্টের আপিল বিভাগের এ সম্পর্কিত রায়ে বলা হয়েছে, ‘বিদেশ ভ্রমণের ওপর আদালতের নিষেধাজ্ঞা ব্যতীত কোন নাগরিকের বৈধ বিদেশ ভ্রমণ আটকে দেওয়া যাবে না।’"
+    },
+    {
+     "target": "global/departure",
+     "claim": "She writes that a working traveller needs an office ID and NOC, a businessperson a trade licence, and a student a student ID or leave letter or permission from the college or university.",
+     "quote": "ভ্রমণকারী চাকরিজীবী হলে অফিসিয়াল আইডি কার্ড ও NOC (অনাপত্তিপত্র), ব্যবসায়ী হলে ট্রেড লাইসেন্স এবং শিক্ষার্থী হলে স্টুডেন্ট আইডি বা কলেজ/বিশ্ববিদ্যালয়ের ছুটির চিঠি বা অনুমতিপত্র লাগে।"
+    }
+   ]
+  },
+  {
+   "article_id": "92dc21f7-cfe3-41e9-b689-6e6df2cc862d",
+   "used": true,
+   "fact_ids": [
+    "GV0248",
+    "GV0249"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "dd34ce71-b567-4911-940a-c73d3af14d1a",
+   "used": true,
+   "fact_ids": [
+    "GV0250",
+    "GV0251",
+    "GV0252",
+    "GV0253",
+    "GV0254",
+    "GV0255",
+    "GV0256",
+    "GV0257",
+    "GV0264",
+    "GV0265",
+    "GV0266",
+    "GV0267"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "6b12ec84-684b-4a11-979c-3b40b3217382",
+   "used": true,
+   "fact_ids": [
+    "GV0258",
+    "GV0259",
+    "GV0260",
+    "GV0261",
+    "GV0262",
+    "GV0263"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  }
+ ]
+}

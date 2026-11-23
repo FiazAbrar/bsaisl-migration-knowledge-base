@@ -1,0 +1,254 @@
+{
+ "articles": [
+  {
+   "article_id": "190d6a25-e78c-4c96-980c-a483f710b565",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact (opinion piece); airport VIP lounge held for departure",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "A Patuakhali Science and Technology University student wrote in January 2025 that a VIP lounge for migrants had been opened at the airport in the presence of the chief adviser, but said it was not enough.",
+     "quote": "যদিও প্রবাসীদের জন্য মাননীয় প্রধান উপদেষ্টার উপস্থিতিতে ভিআইপি লাউঞ্জ উদ্বোধন করা হয়েছে; কিন্তু সেটি যথেষ্ট নয়।"
+    }
+   ]
+  },
+  {
+   "article_id": "d84cb277-501a-4898-bbf4-91c9ca62b6ae",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact (opinion piece calling for pensions)",
+   "held": []
+  },
+  {
+   "article_id": "799c49de-7e06-4ef1-b92e-6d04486359f5",
+   "used": true,
+   "fact_ids": [
+    "GM0173",
+    "GM0174",
+    "GM0175"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "21b249bc-24cc-4106-b956-579c9f906b64",
+   "used": true,
+   "fact_ids": [
+    "GM0176"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "75933022-61a8-45e8-817a-6e49ceb662ac",
+   "used": true,
+   "fact_ids": [
+    "GM0177",
+    "GM0178",
+    "GM0179",
+    "GM0180",
+    "GM0181",
+    "GM0182",
+    "GM0183"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "faee7a6e-6b34-4402-abdd-7e36f294a2e9",
+   "used": true,
+   "fact_ids": [
+    "GM0184"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "1860d34f-ea3d-4f5a-b8e8-f33dd957cb6c",
+   "used": true,
+   "fact_ids": [
+    "GM0185",
+    "GM0186",
+    "GM0187"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "e76becc0-8760-4686-8e2d-1c8c47bcb1db",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of monthly totals (Mar 1-15 partial; March total GM0206)",
+   "held": []
+  },
+  {
+   "article_id": "41d04d47-2809-4f3f-990a-7bf6cd835b47",
+   "used": true,
+   "fact_ids": [
+    "GM0188",
+    "GM0189",
+    "GM0190",
+    "GM0191",
+    "GM0192",
+    "GM0193",
+    "GM0196",
+    "GM0197"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "b29428e5-41ef-4bf1-8dfc-df2d2e024dfa",
+   "used": true,
+   "fact_ids": [
+    "GM0194",
+    "GM0195",
+    "GM0198"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "2fc6abed-2892-463a-8e1b-5176b4e2ab51",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of GM0200 and GM0206 (Mar 1-19 partial)",
+   "held": []
+  },
+  {
+   "article_id": "83c12584-859b-4e75-a055-45c70dfcf2ed",
+   "used": true,
+   "fact_ids": [
+    "GM0199",
+    "GM0200",
+    "GM0201"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "e543f670-b898-4558-83ae-e5a614602820",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of GM0199-GM0201 and GM0206 (Mar 1-26 partial)",
+   "held": []
+  },
+  {
+   "article_id": "fb60e80e-8935-4715-9126-f8c9e800025d",
+   "used": true,
+   "fact_ids": [
+    "GM0202",
+    "GM0203",
+    "GM0204"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "e2df864b-e78c-4b63-aa0a-5203983a5b52",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable money fact (voting op-ed); diaspora estimates held for faq",
+   "held": [
+    {
+     "target": "global/faq",
+     "claim": "An April 2025 op-ed, citing a Bonik Barta report of 29 Nov 2023, said estimates of Bangladeshis abroad differ: 5.053 million by the BBS census, 12.5 million by Bangladesh Bank, 14.8 million by BMET and 15.5 million by a former expatriates' welfare minister in parliament.",
+     "quote": "বিবিএসের জনশুমারি অনুযায়ী, প্রবাসীর সংখ্যা ৫০ লাখ ৫৩ হাজার; বাংলাদেশ ব্যাংকের তথ্য অনুযায়ী, ১ কোটি ২৫ লাখ; বিএমইটিএর তথ্যমতে, ১ কোটি ৪৮ লাখ এবং জাতীয় সংসদের প্রশ্নোত্তর পর্বে সাবেক প্রবাসী কল্যাণমন্ত্রী জানিয়েছিলেন, ১ কোটি ৫৫ লাখ।"
+    }
+   ]
+  },
+  {
+   "article_id": "da1f9235-a1f2-4fb7-bb31-d67dbd0b1fc9",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of GM0206 (March 2025 total in a political column)",
+   "held": []
+  },
+  {
+   "article_id": "07b33c4d-02ec-4e86-afbe-8ef121472335",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of GM0206 and GM0207 (Apr 1-19 partial)",
+   "held": []
+  },
+  {
+   "article_id": "aed6ee2d-e024-402e-a5a2-bcc5449df720",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact for migrants (fees for exams sent abroad)",
+   "held": []
+  },
+  {
+   "article_id": "477bb5ee-11d5-4f71-ba5f-de3a8ff0b111",
+   "used": true,
+   "fact_ids": [
+    "GM0205",
+    "GM0206",
+    "GM0207"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ef081c2a-bbf2-4e4a-b327-1b78bb9d7d12",
+   "used": true,
+   "fact_ids": [
+    "GM0208",
+    "GM0209",
+    "GM0210",
+    "GM0211",
+    "GM0212",
+    "GM0213",
+    "GM0214",
+    "GM0215",
+    "GM0221",
+    "GM0222"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "8f4d189e-757c-4adf-910d-6d127537a1bb",
+   "used": true,
+   "fact_ids": [
+    "GM0216",
+    "GM0217",
+    "GM0218"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "0ecb2a2d-febc-4ba6-9026-7ff87ec2f0c5",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of GM0216 and GM0220 (Jun 1-3 partial and 11-month total)",
+   "held": []
+  },
+  {
+   "article_id": "6e6b2666-b362-4ca3-b18b-5d0cac872512",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of GM0208 (rate left to market); balance-of-payments figures with no bearing on migrants",
+   "held": []
+  },
+  {
+   "article_id": "af4e5142-45df-48fa-842f-ba52ad3410f6",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of GM0216 and GM0220 (Jun 1-21 partial)",
+   "held": []
+  },
+  {
+   "article_id": "f57a42ae-9494-4206-8cb7-38a89695db63",
+   "used": true,
+   "fact_ids": [
+    "GM0219",
+    "GM0220"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  }
+ ]
+}

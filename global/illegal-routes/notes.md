@@ -358,3 +358,70 @@ Checked 19 November 2026 against facts.csv quotes and the saved sources. All cha
 - Fortify Rights/Truth Hounds figures (104 recruited, 34 killed) come from RFE/RL (Nov 2026); the saved Fortify Rights March 2026 page doesn't contain them.
 - Embassy contacts for Tripoli and Moscow and the CID THB Unit's public number remain Need to know items (not re-searched).
 - Not every source behind every sentence was opened in full; numbers and allegations were all checked against saved text, other sentences against the quotes.
+
+## Prothom Alo chunk illegal-routes-1 (prefix GI, Nov 2026)
+
+29 articles read; 16 used (facts GI0001 to GI0056). The March 2026 Middle East war articles (flights cancelled, ministry hotline and control room, remittances) and a column on bodies sent home were held for the departure, services, money and FAQ docs (see the ledger gledger-illegal-routes-1.json).
+
+### Resolved conflicts
+
+- **Bangladeshis crossing the Mediterranean since 2009.** Three figures: 84,000 for 2009 to 2024 (Prothom Alo editorial, 6 Feb 2025) [LB0139], 106,598 for 2009 to May 2024 (Prothom Alo editorial, 31 Aug 2024) [GI0023], and about 110,000 for 2009 to June 2026 (Frontex) [I0351]. Settled for Frontex: it is the EU border agency that counts the crossings, while both editorials name no source and disagree with each other by over 20,000 for almost the same period. The doc keeps Frontex's figure and the yearly arrival counts; the two editorial totals are no longer cited (the 6 Feb 2025 editorial is still cited, attributed, for its deaths-per-year statement). No Need to know.
+- **Trafficking cases in 2023.** BNWLA's Safayet Bin Kamal said 137 trafficking cases were recorded nationwide in 2023 [GI0038]; the Home Ministry counted 683 new cases in January to September 2023 alone [AA0005]. These are probably different counts (BNWLA's own record versus police cases), and the Home Ministry figure is the primary one, so it stays the national figure under "What happens to trafficking cases"; the BNWLA figure is kept only in the Malaysia numbers, attributed, for its 44% Cox's Bazar share. No "Need to know": it changes nothing a migrant would do.
+
+## Prothom Alo chunk illegal-routes-3 (prefix GI, Nov 2026)
+
+5 articles read; 4 used (facts GI0096 to GI0117), plus one Prothom Alo article already saved in the Malaysia doc (16 July 2026, UNHCR/IOM joint statement, jz7zam0xfl) saved here to settle the Andaman question. The parliamentary committee article of 8 October 2026 (airport harassment, workers sent 18 Feb to 30 Sep 2026, 186 brought back from Iran) was held for the departure, FAQ and services docs (see gledger-illegal-routes-3.json). The 2008 essay on slavery is used only for its unsourced India and Pakistan figures, dated to its first publication (4 January 2008); its history of slavery is not relevant.
+
+### Resolved conflicts
+
+- **Andaman Sea trawler "with more than 280 people from the Teknaf coast" (GI0075) vs the April 2026 sinking with about 250 missing (CQ0159).** Not the same boat. The April sinking was reported by Prothom Alo itself from Teknaf on 17 and 19 April (UNHCR: about 250 missing; Prothom Alo: at least 250 aboard; nine survivors handed to Teknaf police), so Teknaf journalists did know of it. The staff reporter's remark on 26 July 2026 (more than 280 aboard, foreign agencies reported it first) matches the UNHCR/IOM joint statement of 16 July 2026, ten days earlier: a boat carrying about 280 people believed sunk near Myanmar's Irrawaddy coast on 8 July 2026 (GI0113). The figure, the timing and "foreign agencies first" all fit; the only mismatch is the departure point (UNHCR/IOM say the two late-June boats left Rakhine State; the reporter says the Teknaf coast). The UN statement is the primary account; the reporter's remark is a later, unsourced aside. GI0075 now sits, attributed, under the new July 2026 case; the Need to know bullet is removed. Not raised as a new Need to know: where the boat left from changes nothing a migrant would do.
+- The UNHCR/IOM statement also mentions a second late-June boat of about 250 with which contact was lost. This is a different event from the April boat of about 250 (different months and departure points); both are kept as separate cases.
+
+- **2008 essay on trafficking to India and Pakistan (GI0111, GI0112):** logged but not cited. The figures are from January 2008 and give no source; newer, sourced numbers are in the doc, and these change nothing a reader would do.
+
+## Prothom Alo chunk illegal-routes-x (prefix GI, Nov 2026)
+
+64 articles read (mostly Libya ransom cases and returns, Russia's war recruitment, the 2025 and 2026 Iran evacuations); facts GI0118 to GI0309. New: "Kidnapped after years of work", "Where the ransom is paid" and "The kidnappers speak Bangla" under Ransom and resale; December 2024 Zawiya sinking; charter returns 2024 to 2026; ten more broker cases; Kalkini and Narail rings; new sections Waiting in Iran, Through West Africa and the Sahara to Morocco (a 2005 case) and Legal jobs in Russia; Russia additions (brokers inside Russia, the April 2025 first-hand account, Suruj Kazi, the Jamalpur two, Sagar, Ali Hasan Sohel, captured men). Iran war evacuation logistics and hotlines, the Turkey BOESL notice and the Albania offer were held (see gledger-illegal-routes-x.json).
+
+### Resolved conflicts
+
+- **March 2026 Libya to Greece boat: how many Bangladeshis died.** The State Minister confirmed at least 18 [I0333]; Prothom Alo's local report of 5 April 2026 gives 22 dead, 18 of them Bangladeshi, 13 from Sunamganj with an upazila breakdown [GI0251, GI0252]; Md Touhid Hossain's column of 27 April 2026 relays "20 of the 22 dead or missing reported Bangladeshi" [LB0207]. The official figure and the specific local count agree on 18; the column is a later secondhand restatement. The doc now states 22 dead, 18 Bangladeshi, and no longer cites the column for the 20; the "Need to know" bullet is removed. The passenger count (43 per a survivor, 48 per the column) is left as reported; it changes nothing a reader would do.
+- **Sunamganj dead: 12 or 13.** 12 was the early count (Prothom Alo 29 to 31 March, the 1 April editorial, the Dirai case filed over 12 deaths); 13 is the 5 April count with each upazila named. The specific, later count wins; RU0055 (12) is no longer cited, and the editorial is cited without its number. The Dirai case is still described as filed over 12 deaths, as reported.
+- **Training for the group of 30: 21 days or 5.** Prothom Alo and the SRB report 21 days for the group [RU0084]; Ali Hasan Sohel says his group of 16 was sent after five days [GI0297]. Both are attributed in the doc; not raised as a Need to know because it changes nothing a reader would do.
+- **Two flights of 174 from Libya** (1 September and 27 October 2026) are separate flights with separate details (Tajoura detention centre; 36 from Tajoura, 41 ill), not a duplicate.
+- **Bosnia, September 2026:** 36 Bangladeshis of 96 [I0280] and 23 in the first group of 63 [GI0280] are consistent (the second group of 33 also held Bangladeshis); both kept.
+- **Old statistics:** the 2005 Western Sahara case is cited, dated, because it documents a route and its outcome; no figures from it are used as current numbers.
+
+## Held items from other ledgers (prefix GI, 23 Nov 2026)
+
+53 held items from other docs' Prothom Alo ledgers placed (facts GI0310 to GI0389, 24 articles saved). New: "From eastern Libya to Greece" (price, split payments, broker network, pointer to the Greece doc's "Irregular entry: Libya to Crete by boat"), "Tajoura detention centre", BRAC's February 2024 study of 557 Libya returnees, the PBI court route that brought a hostage home, the September 2026 Gavdos sinking, Rohingya on Bangladeshi passports, two India cases, Abdur Rahim's death in Russia.
+
+### Resolved conflicts
+
+- **March 2026 Libya to Greece boat: how many rescued.** Prothom Alo of 31 March 2026 (pa-2026-03-31-iky2lx7qxw) says the Greek coast guard rescued 22 alive; Md Touhid Hossain (LB0207) and the Greece doc (Frontex ship, 26 rescued: 21 Bangladeshis, 4 South Sudanese, 1 Chadian) give 26. Kept 26: two independent accounts agree and the Greece doc's figure is the more specific; the 22 is most likely the death toll repeated. The doc's figures (at least 22 dead, 18 Bangladeshi, 13 from Sunamganj) match the Greece doc.
+- **Russia: who the ten families applied to.** A Prothom Alo column of 29 November 2025 (GI0346) says at least 10 families applied to the Bangladesh government; the column cites BRAC's report, and BRAC's own statement (RU0018) says the 10 families asked BRAC. Kept RU0018; GI0346 logged, not cited.
+- **Sunamganj cases: one case against four, or two against nine.** The video headline (GI0249) names the Dirai case against four; the 31 March report (GI0320) gives two cases, five accused at Jagannathpur and four at Dirai, matching the Greece doc (XG0064). The doc now gives the two cases.
+- **Libya returns: 4,200.** The ambassador's "4,200 sent home last year" (GI0339, February 2025) and LB0138's "4,200 freed in the previous year and a half" are the same count; LB0138 kept for the number.
+
+## Prothom Alo chunk lchunk-illegal-routes (prefix GI, 23 Nov 2026)
+
+12 articles read (missed by an earlier filter); 6 used (facts GI0390 to GI0432). New: the Russia-Belarus-Poland route (Liton Chowdhury, 2024) under The Balkans and Eastern Europe; IOM's January 2026 Mediterranean sinkings; Russia additions (Akram Hossain of Ashuganj recruited inside Russia and killed April 2025; Arman Ali's June 2026 video from the group of 30; Rimel Mia captured by Ukraine; Al Mamun of Nandail). Six video teasers were duplicates of facts already in the doc (see lledger-illegal-routes.json).
+
+### Resolved conflicts
+
+- **Training for the group of 30: 21 days, 5 days or 3 to 4 days.** Prothom Alo and the SRB report 21 days [RU0084]; Ali Hasan Sohel says five days [GI0297]; Arman Ali, in a video reported on 21 June 2026, says three to four days [GI0419]. All three are first-hand or attributed and may describe different sub-groups; all are kept, attributed. Changes nothing a reader would do, so no Need to know.
+- **Arman Ali alive in June, listed dead in October.** Arman said on 21 June 2026 that he was wounded and alive [GI0421]; the families' October 2026 list of the dead includes a Md Arman Ali [RU0197]. Not a conflict: the dates differ. The doc states both, dated, without asserting they are the same man.
+
+## Held items, round 2 (prefix GI, 23 Nov 2026)
+
+8 items (heldout2-illegal-routes.json): 7 added (GI0433 to GI0450), 1 duplicate (Shayek Ahmad's route via Saudi Arabia and Kuwait, already GI0364). The UNHCR worldwide asylum figure for 2023 (75,867) and Reuters' Europe-only figure (40,332) cover different areas, so both stand.
+
+## Held items, round 4 (prefix GI, 23 Nov 2026)
+
+Five held items (held4-illegal-routes.json). Added: foreign scam-centre rings raided in Chattogram and Cox's Bazar (GI0451 to GI0454, "Cambodia, Myanmar and Laos: scam compounds", What happens); Bangladesh embassy and Tunisian navy details for the February 2024 boat fire (GI0455 to GI0457); the embassy's survivor account of the August 2026 Tobruk boat (GI0458 to GI0462), which replaces the editorial's secondhand summary GI0349 (no longer cited).
+
+### Resolved conflicts
+
+- Shahriar Ahmed Emon (Cyprus): this doc said he left for the job and disappeared on 12 June 2026 (OB0001 to OB0003, Prothom Alo 22 June, a report built on Cyprus police and CID statements); the Other destinations doc says 11 June (Prothom Alo 23 June, the family's account). Settled on 11 June. The family account is first-hand and internally consistent: he spoke to his mother on the afternoon of 11 June, sent his roommate his location at 9 pm local time, a ransom message came from his WhatsApp at about 10 pm, and the roommate reported him missing to police the next morning, 12 June (GI0463 to GI0465). The body was found on Sunday 21 June, which the 23 June report calls ten days after he left (11 June); the 22 June report's "nine days" of search fits a police case opened on 12 June, which is the likely origin of its date. OB0001 is now cited only for his enrolment; OB0002 and OB0003 are no longer cited. Both docs now say 11 June.
+
+- **March 2026 Tobruk boat, how many aboard (resolved 23 Nov 2026):** a survivor's early count (43 aboard, 38 Bangladeshi; I0334) is lower than the later totals: 22 dead (Prothom Alo, 5 April; Greek coast guard via the Greece doc) and 26 rescued by Frontex, 21 of them Bangladeshi (Greece doc, XG facts), which make at least 48 aboard and at least 39 Bangladeshi. The doc keeps the survivor's count only as attributed and early, and points to the Greece doc for the later figures.

@@ -18,6 +18,14 @@ How to write an entry: add it at the top, under this line, in this shape. Keep i
 
 ---
 
+## 2026-11-23 · Prothom Alo archive into the global docs; three new global docs · agent for FiazAbrar
+
+- **Done:** about 2,115 new facts in the global docs: Illegal routes (465), FAQ (188), Departure bottlenecks (181), Dalal scams (116), and three new docs, Sending money home (428), Services for migrants and their families (357) and Other destinations (380, 24 countries). `questions.md` synced. The article-by-article coverage ledger added to the dataset: 1,904 stories, none unaccounted for.
+- **Where:** `global/`; `datasets/prothom-alo-migration/coverage/ledger.csv`; trace in `passes/2026-11-23-prothom-alo-global/`. README, CLAUDE.md and the navigator bot list the new docs.
+- **Checked by:** an independent final check of every new or changed sentence in all seven docs, including the FAQ against the fuller docs; 98 fixes applied. Conflicts settled from sources and recorded in each `notes.md`.
+- **Tried and dropped:** putting remittance and service articles into the FAQ (too many; they got their own docs); a few cross-references that pointed to headings in another doc as if they were local (fixed in the final check).
+- **Open:** the three new docs cite news only. PKB's language-loan page (pkb.gov.bd blocks automated reading) would settle whether Bangladesh Bank's 9% skills loan replaced PKB's 11% language loan. The 1,495 rejected stories with a single weak migration keyword were not checked.
+
 ## 2026-11-23 · Prothom Alo archive into the country docs · agent for FiazAbrar
 
 - **Done:** about 1,960 new facts from Prothom Alo (2024 to Nov 2026) in 15 existing country docs (largest: Italy 416, UAE 185, Japan 115) and six new first-version docs built from the reporting: United States (221), Canada (167), United Kingdom (163), India (141), Lebanon (89), Greece (88). `questions.md` synced for every changed doc.

@@ -1,0 +1,365 @@
+{
+ "articles": [
+  {
+   "article_id": "207b61b5-125f-4f72-99d5-d38c547cff5e",
+   "used": true,
+   "fact_ids": [
+    "GI0001"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "e5888218-145f-4ee3-b754-6cf08f850620",
+   "used": true,
+   "fact_ids": [
+    "GI0002"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "d59d8a79-a403-4c74-90ae-c676289712ef",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact for this doc (an opinion column; its bodies-returned figure is held for the FAQ doc)",
+   "held": [
+    {
+     "target": "global/faq",
+     "claim": "Anisul Hoque wrote in Prothom Alo on 17 May 2024 that 18,166 bodies of migrants were brought home in the five years 2018 to 2022, and one in five of them died in road accidents.",
+     "quote": "২০১৮ থেকে ২০২২ সাল পর্যন্ত ৫ বছরে ১৮ হাজার ১৬৬টি প্রবাসীর মরদেহ এসেছে দেশে। পাঁচজনে একজন সেখানে মারা যান সড়ক দুর্ঘটনায়।"
+    }
+   ]
+  },
+  {
+   "article_id": "10704874-c4d0-4b59-b41d-5eaae1bbb48c",
+   "used": true,
+   "fact_ids": [
+    "GI0003",
+    "GI0004",
+    "GI0005",
+    "GI0006",
+    "GI0007",
+    "GI0008"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ab3f9866-ad03-4394-ba19-e5cdcadde4e7",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact (a one-line video blurb saying social media helps traffickers)",
+   "held": []
+  },
+  {
+   "article_id": "15c59f93-36c1-4163-aa06-d78d064e7118",
+   "used": true,
+   "fact_ids": [
+    "GI0009",
+    "GI0010",
+    "GI0011",
+    "GI0012",
+    "GI0013",
+    "GI0014",
+    "GI0015"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "20b536d1-9a6a-455e-9e93-d292f98f0c67",
+   "used": true,
+   "fact_ids": [
+    "GI0016"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "e2546b21-4871-4231-bdc5-df419227128b",
+   "used": true,
+   "fact_ids": [
+    "GI0023",
+    "GI0024"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/faq",
+     "claim": "A Prothom Alo editorial of 31 August 2024 said 8 to 9 lakh people go abroad each year.",
+     "quote": "আর প্রতিবছর ৮ থেকে ৯ লাখ মানুষ প্রবাসে যান। বাকিদের কাজের কোনো সুযোগ নেই।"
+    },
+    {
+     "target": "global/faq",
+     "claim": "Same editorial: by BMET statistics about 150 Bangladeshis left every hour for work in 2023, and one third of new jobs for Bangladeshis each year are abroad.",
+     "quote": "জনশক্তি কর্মসংস্থান ও প্রশিক্ষণ ব্যুরোর (বিএমইটি) পরিসংখ্যান অনুসারে, ২০২৩ সালে কাজের প্রত্যাশায় গড়ে প্রতি ঘণ্টায় দেড় শ বাংলাদেশি দেশ ছাড়ছেন। প্রতিবছর বাংলাদেশিদের জন্য যত নতুন কর্মসংস্থান হয়, তার এক-তৃতীয়াংশই হচ্ছে প্রবাসে।"
+    }
+   ]
+  },
+  {
+   "article_id": "4ff1c18e-5bf7-4e91-81c4-11306a255401",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: a personal opinion piece whose 2019 and global trafficking figures carry no source and bear on no decision",
+   "held": []
+  },
+  {
+   "article_id": "7562539a-197f-4dd9-85a1-7bf1229ec0ab",
+   "used": true,
+   "fact_ids": [
+    "GI0025",
+    "GI0026",
+    "GI0027",
+    "GI0028",
+    "GI0029"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "602bb592-dbac-4ec0-a52c-a488601eea8c",
+   "used": true,
+   "fact_ids": [
+    "GI0017",
+    "GI0018"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "f6cd84af-da4b-4f25-b8bd-f1e84267fa6e",
+   "used": true,
+   "fact_ids": [
+    "GI0019",
+    "GI0020",
+    "GI0021",
+    "GI0022"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "c1034453-ed34-4a6e-9c3a-1156415f86fa",
+   "used": true,
+   "fact_ids": [
+    "GI0030",
+    "GI0031",
+    "GI0032"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "b8b9a445-cd19-4d60-8c06-43c518c45deb",
+   "used": true,
+   "fact_ids": [
+    "GI0033",
+    "GI0034",
+    "GI0035"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ead74eb9-cc0e-4717-917d-70f9262f91f6",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact (event report with no figures, cases or rules)",
+   "held": []
+  },
+  {
+   "article_id": "02f33df5-e6c6-4b4d-a33d-0f88da79a402",
+   "used": true,
+   "fact_ids": [
+    "GI0036",
+    "GI0037",
+    "GI0038",
+    "GI0039",
+    "GI0040",
+    "GI0041",
+    "GI0042",
+    "GI0043",
+    "GI0044",
+    "GI0045"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "f51ea773-c0db-4705-9ae4-d1f6e756737b",
+   "used": true,
+   "fact_ids": [
+    "GI0046",
+    "GI0047",
+    "GI0048"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "69a68061-3c76-41ae-9e73-0563eb738172",
+   "used": true,
+   "fact_ids": [
+    "GI0049",
+    "GI0050",
+    "GI0051",
+    "GI0052",
+    "GI0053"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/faq",
+     "claim": "According to the US State Department's 2025 TIP report, BMET runs 104 technical training centres and has pre-departure training for outgoing workers, including a specialised 30-day course for women domestic workers.",
+     "quote": "জনশক্তি, কর্মসংস্থান ও প্রশিক্ষণ ব্যুরো ১০৪টি কারিগরি প্রশিক্ষণকেন্দ্র পরিচালনা অব্যাহত রেখেছে। বিদেশগামী কর্মীদের জন্য প্রস্থানপূর্ব প্রশিক্ষণ সেশন চালু করেছে। এর মধ্যে নারী গৃহকর্মীদের জন্য ৩০ দিনের একটি বিশেষায়িত কোর্সও রয়েছে।"
+    },
+    {
+     "target": "global/dalal-scams",
+     "claim": "According to the 2025 TIP report, Bangladesh strengthened bilateral labour agreements with Malaysia, South Korea and Brunei and established an employer-pays recruitment model to protect migrant workers from excess fees.",
+     "quote": "বাংলাদেশ সরকার মালয়েশিয়া, দক্ষিণ কোরিয়া ও ব্রুনেইয়ের সঙ্গে দ্বিপক্ষীয় শ্রমচুক্তি জোরদার করেছে। এ ছাড়া অভিবাসী শ্রমিকদের অতিরিক্ত ফি থেকে বাঁচানোর জন্য নিয়োগকর্তার দেওয়া নিয়োগ মডেল প্রতিষ্ঠা করেছে।"
+    }
+   ]
+  },
+  {
+   "article_id": "567606a0-7c6c-4027-94e2-59270b37ed5d",
+   "used": true,
+   "fact_ids": [
+    "GI0054",
+    "GI0055"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "0648f2d8-f823-40bc-b3c8-093efe131606",
+   "used": true,
+   "fact_ids": [
+    "GI0056"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "c9243ac9-bb91-454c-86a8-314fe32b2d72",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "not about irregular routes; held for the departure doc",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "The Ministry of Foreign Affairs said on 28 February 2026 that the government had asked the Middle East countries concerned to let intending and stranded Bangladeshi workers enter once the situation improves, and that some countries gave positive assurances.",
+     "quote": "এ পরিপ্রেক্ষিতে বাংলাদেশ সরকার ইতিমধ্যেই সংশ্লিষ্ট দেশগুলোর কাছে মধ্যপ্রাচ্যে গমনেচ্ছু এবং বর্তমানে আটকে পড়া বাংলাদেশি নাগরিকদের পরিস্থিতির উন্নতি ঘটলে প্রবেশের অনুমতি দেওয়ার অনুরোধ জানিয়েছে। এ বিষয়ে কয়েকটি দেশ ইতিবাচক আশ্বাস প্রদান করেছে।"
+    }
+   ]
+  },
+  {
+   "article_id": "d4fc29b4-4151-47c8-a93f-39c64e0190bc",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "not about irregular routes; held for the departure doc",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "54 Middle East-bound flights from Dhaka were cancelled from 28 February to noon on 1 March 2026 after the US and Israel attacked Iran, leaving passengers stranded.",
+     "quote": "ঢাকা থেকে মধ্যপ্রাচ্যগামী ৫৪টি ফ্লাইট গতকাল শনিবার থেকে আজ রোববার দুপুর ১২টা পর্যন্ত বাতিল করা হয়েছে। এ কারণে ভোগান্তিতে পড়েছেন যাত্রীরা। অনেকে অনিশ্চয়তায় ভুগছেন।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "Many stranded passengers complained they had not received food or lodging; the Expatriates' Welfare Minister said on 1 March 2026 that no such complaint had yet reached them.",
+     "quote": "আটকে পড়া অনেক যাত্রী থাকা–খাওয়ার সুবিধা পাননি বলে অভিযোগ করেছেন। এ বিষয়ে মন্ত্রীর কাছে জানতে চাইলে তিনি বলেন, তাঁরা এ ধরনের অভিযোগ এখনো পাননি।"
+    }
+   ]
+  },
+  {
+   "article_id": "66c67d29-4895-486a-a7f2-1ad4c242095f",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "not about irregular routes; stranded-passenger figure held for the departure doc",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "A Prothom Alo editorial of 2 March 2026 said several thousand Bangladeshis were stranded at Dhaka and Middle East airports after all Middle East flights were suspended.",
+     "quote": "মধ্যপ্রাচ্যের সব ফ্লাইট স্থগিত হওয়ায় ঢাকাসহ মধ্যপ্রাচ্যের বিমানবন্দরগুলোতে আটকা পড়েছেন কয়েক হাজার বাংলাদেশি।"
+    }
+   ]
+  },
+  {
+   "article_id": "48316271-c093-41f7-bb5b-73f31dfc5cce",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact for any migrant doc (Bangladesh export figures to the Middle East)",
+   "held": []
+  },
+  {
+   "article_id": "8fbfa1fd-2ff1-4965-be91-3272cfec4ab1",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "not about irregular routes; held for the money doc",
+   "held": [
+    {
+     "target": "global/money",
+     "claim": "A Prothom Alo personal-finance piece of 4 March 2026 told remittance-dependent families to build an emergency fund of three to six months' costs, setting aside 10 to 15 percent of remittances if needed.",
+     "quote": "তাই তিন থেকে ছয় মাসের সমপরিমাণ খরচ জমানোর জন্য আলাদা তহবিল করতে পারেন। একবারে সম্ভব না হলে প্রবাসী আয়ের ১০ থেকে ১৫ শতাংশ আলাদা হিসাবে রাখুন।"
+    }
+   ]
+  },
+  {
+   "article_id": "9665c0ce-d535-4c91-b9e2-c5020969d3fb",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "not about irregular routes; held for the services doc",
+   "held": [
+    {
+     "target": "global/services",
+     "claim": "The Expatriates' Welfare Minister said on 7 March 2026 that the ministry would help expatriates whose visas were expiring because flights were cancelled, and that it had opened a hotline; the government would help as far as it can if contacted.",
+     "quote": "ফ্লাইট বাতিল হওয়ায় কারণে যেসব প্রবাসীর ভিসার মেয়াদ শেষ হয়ে যাচ্ছে, তাঁদের সহায়তা করবে মন্ত্রণালয়। প্রবাসীদের সহায়তার জন্য প্রবাসীকল্যাণ মন্ত্রণালয় একটি হটলাইন চালু করেছে। মন্ত্রণালয়ে যোগাযোগ করলে সরকার সামর্থ্য অনুযায়ী সহায়তা করবে।"
+    }
+   ]
+  },
+  {
+   "article_id": "a440e97f-9b93-461c-ad6e-9c5b353bdff5",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "not about irregular routes; held for the services doc",
+   "held": [
+    {
+     "target": "global/services",
+     "claim": "The Expatriates' Welfare Minister said on 8 March 2026 that bringing workers home was being kept in mind depending on how the war went, and that anyone injured would be treated.",
+     "quote": "ওয়ার সিচুয়েশন (যুদ্ধ পরিস্থিতি) কোন দিকে যায়, সে ক্ষেত্রে তাঁদের দেশে আনার বিষয়টিও মাথায় রাখা হচ্ছে। কেউ যদি ইনজুর্ড (আহত) হন, তাঁর চিকিৎসার ব্যবস্থা করা হবে।"
+    }
+   ]
+  },
+  {
+   "article_id": "66b926f7-fdc6-484a-a140-b809ba25963a",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "not about irregular routes; held for the services doc",
+   "held": [
+    {
+     "target": "global/services",
+     "claim": "Under an office order of 9 March 2026 the Ministry of Expatriates' Welfare set up a control room at the Probashi call centre, Lift-7, Probashi Kallyan Bhaban, Eskaton, Dhaka, open 8 am to 8 pm daily until 16 March, and any migrant worker could call the ministry hotline +8809610102030 at any time about the war situation.",
+     "quote": "প্রবাসী কল সেন্টার, লিফট-৭, প্রবাসীকল্যাণ ভবন, ইস্কাটন, ঢাকা, এই ঠিকানায় নিয়ন্ত্রণকক্ষ স্থাপন করা হয়েছে। চলমান যুদ্ধ পরিস্থিতির জন্য কোনো বাংলাদেশি অভিবাসী কর্মী মন্ত্রণালয়ের হটলাইন নম্বর +৮৮০৯৬১০১০২০৩০-এ সার্বক্ষণিক যোগাযোগ করতে পারবেন।"
+    }
+   ]
+  },
+  {
+   "article_id": "0094cda9-2a56-489d-bbea-06f804d97293",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "not about irregular routes; held for the money doc",
+   "held": [
+    {
+     "target": "global/money",
+     "claim": "According to Bangladesh Bank, USD 1.92 billion in remittances arrived in the first 11 days of March 2026, against USD 1.33 billion in the same period a year earlier.",
+     "quote": "চলতি মার্চ মাসের প্রথম ১১ দিনে দেশে ১৯২ কোটি মার্কিন ডলারের প্রবাসী আয় বা রেমিট্যান্স এসেছে। এর মধ্যে ১১ মার্চ এক দিনেই দেশে এসেছে ১৮ কোটি ৩০ লাখ ডলার। গত বছরের একই সময়ে দেশে এসেছিল ১৩৩ কোটি ডলার।"
+    },
+    {
+     "target": "global/money",
+     "claim": "Banks bought remittance dollars at Tk 123.30 on Thursday 12 March 2026, up from Tk 122.90 on the Tuesday before.",
+     "quote": "গত বৃহস্পতিবার ব্যাংকগুলো ১২৩ টাকা ৩০ পয়সা দরে প্রবাসী আয়ের ডলার কিনেছে। এর আগে মঙ্গলবার ১২২ টাকা ৯০ পয়সা পর্যন্ত দামে প্রবাসী আয় কিনেছিল ব্যাংকগুলো।"
+    }
+   ]
+  }
+ ]
+}

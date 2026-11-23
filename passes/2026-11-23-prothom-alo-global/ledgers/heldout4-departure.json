@@ -1,0 +1,4 @@
+[
+ {"held_id": "R4-departure-1", "outcome": "added", "fact_ids": ["GD0174", "GD0175", "GD0176", "GD0177", "GD0178", "GD0179", "GD0180", "GD0181"], "note": "Coming back > On the road from the airport: new paragraph on the 4 Nov 2026 Purbachal 300-feet road robbery"},
+ {"held_id": "R4-departure-2", "outcome": "added", "fact_ids": ["GD0175"], "note": "Driver Shahin helping another car block theirs; same paragraph"}
+]

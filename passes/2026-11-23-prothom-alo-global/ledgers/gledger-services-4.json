@@ -1,0 +1,224 @@
+{
+ "articles": [
+  {
+   "article_id": "1cf737f8-c63a-4bec-a64b-291449af5389",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: opinion column (PSC chairman) on a diaspora-engagement framework; no service a migrant can use",
+   "held": []
+  },
+  {
+   "article_id": "afc7324c-53ce-4fdd-8e5f-1e5528c1de6f",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of GV0199 (same 70-trainer BMET advert, re-run 10 May 2026)",
+   "held": []
+  },
+  {
+   "article_id": "080f50b0-d498-482a-87f9-d010076f8cef",
+   "used": true,
+   "fact_ids": [
+    "GV0202"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "At Police Week on 11 May 2026 the home minister, Salahuddin Ahmed, said work was under way to deliver police clearance certificates and online GDs faster, and directed that past complaints of harassment over police clearance must not recur.",
+     "quote": "পুলিশ ক্লিয়ারেন্স সার্টিফিকেট, অনলাইন জিডিসহ নাগরিক সেবা দ্রুত দেওয়ার কার্যক্রম চলছে। অতীতে পুলিশ ক্লিয়ারেন্স নিয়ে যে ভোগান্তির অভিযোগ ছিল, সে ধরনের কোনো অভিযোগ যেন আর না আসে, তা নিশ্চিত করার নির্দেশ দেন তিনি।"
+    }
+   ]
+  },
+  {
+   "article_id": "87d9034f-9124-4935-b598-10ebcbbc3c87",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: postponement of BMET's guest-trainer recruitment exam; no bearing on migrants (as GV0200-GV0201)",
+   "held": []
+  },
+  {
+   "article_id": "cb66826c-8a89-4495-8402-790a66e84cf2",
+   "used": true,
+   "fact_ids": [
+    "GV0203",
+    "GV0204"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "c5866fb8-68d7-46bb-8ca4-e1d23fae44d9",
+   "used": true,
+   "fact_ids": [
+    "GV0205",
+    "GV0206"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "1f08cd17-11c4-442c-ac65-f1dc667ef9d4",
+   "used": true,
+   "fact_ids": [
+    "GV0207",
+    "GV0208",
+    "GV0209",
+    "GV0210",
+    "GV0211",
+    "GV0212"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "046e1e90-3dc0-4b8e-b59d-474be8cea930",
+   "used": true,
+   "fact_ids": [
+    "GV0213"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "94b50f04-bfd7-4ef7-9ded-a680cbe33d3d",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of GV0213 (identical budget text to 046e1e90)",
+   "held": []
+  },
+  {
+   "article_id": "9d1b6c66-9748-43e9-9938-3a949afeeafb",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact for this doc: death of a Saudi returnee in a Dhaka hotel while visiting an acquaintance; no service involved",
+   "held": []
+  },
+  {
+   "article_id": "38228d8b-f978-468b-b8d8-a642ddb0c8b4",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no fact for the services doc; held for global/departure",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "By a Bangladesh Bank circular of 22 June 2026, local visa-processing agents may collect visa fees in taka and remit them abroad through authorised dealer banks to the embassy's designated account; the fees must be collected at the embassy's set rate, against an invoice from the embassy or its authorised agency with a per-applicant statement.",
+     "quote": "এর মধ্যে রয়েছে ভিসা ফি অবশ্যই সংশ্লিষ্ট দূতাবাসের নির্ধারিত হারের ভিত্তিতে সংগ্রহ করতে হবে। এ ছাড়া দূতাবাস বা তাদের অনুমোদিত সংস্থা থেকে ইস্যুকৃত ইনভয়েস সংগ্রহ করতে হবে, যার সঙ্গে আবেদনকারীভিত্তিক ফি সংগ্রহের বিবরণী সংযুক্ত থাকতে হবে।"
+    }
+   ]
+  },
+  {
+   "article_id": "31a83ea0-f486-47a2-a748-125b529b0d7f",
+   "used": true,
+   "fact_ids": [
+    "GV0214",
+    "GV0215"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/dalal-scams",
+     "claim": "Mohiuddin Ahmed wrote in July 2026 that by the World Bank's estimate the average cost of going abroad for Bangladeshi workers nears Tk 4 lakh, much of it going to middlemen, and that an ITUC survey says rural recruitment is often oral, with no receipt or proof, making legal redress hard if cheated.",
+     "quote": "বিশ্বব্যাংকের হিসাবে বাংলাদেশি শ্রমিকদের বিদেশযাত্রার গড় খরচ প্রায় চার লাখ টাকার কাছাকাছি পৌঁছে যায়, যার বড় অংশ যায় মধ্যস্বত্বভোগীর পকেটে। আইটিইউসির জরিপও বলছে, গ্রামাঞ্চলে নিয়োগ প্রায়ই মৌখিকভাবে হয়; না থাকে রসিদ, না থাকে প্রমাণ। ফলে প্রতারিত হলে আইনি প্রতিকারের পথ কঠিন হয়ে পড়ে।"
+    }
+   ]
+  },
+  {
+   "article_id": "29f7391f-d333-4240-8882-2a852c609e7f",
+   "used": true,
+   "fact_ids": [
+    "GV0216",
+    "GV0217",
+    "GV0218",
+    "GV0219",
+    "GV0220"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "15776e53-cfe4-4213-b3b3-44fa74dfa89c",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: airline MD interview on US-Bangla expansion; no migrant service",
+   "held": []
+  },
+  {
+   "article_id": "151d7dbf-96fd-49ff-9036-ebddcc47d48e",
+   "used": true,
+   "fact_ids": [
+    "GV0221",
+    "GV0222",
+    "GV0223"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/faq",
+     "claim": "Selim Reza wrote in August 2026, citing BMET 2026, that women were only about 5.5% of the more than 11 lakh Bangladeshi workers who went abroad in 2025.",
+     "quote": "আরও তাৎপর্যপূর্ণ বিষয় হলো, ২০২৫ সালে বিদেশে যাওয়া ১১ লাখের বেশি বাংলাদেশি কর্মীর মধ্যে নারী ছিলেন মাত্র সাড়ে ৫ শতাংশের মতো (তথ্যসূত্র: বিএমইটি, ২০২৬)।"
+    },
+    {
+     "target": "global/faq",
+     "claim": "He wrote that most women who go abroad still go as domestic workers to a few Middle East countries: Saudi Arabia, Jordan, Oman, the UAE and Lebanon.",
+     "quote": "বিদেশগামী অধিকাংশ নারী এখনো গৃহকর্মী হিসেবে মধ্যপ্রাচ্যের কয়েকটি দেশে যান। সৌদি আরব, জর্ডান, ওমান, সংযুক্ত আরব আমিরাত ও লেবানন—এই সীমিত বাজারের বাইরে আমরা কার্যকরভাবে নতুন গন্তব্য খুঁজে বের করতে পারিনি।"
+    }
+   ]
+  },
+  {
+   "article_id": "b28a1c77-adb8-4507-8583-8e4533cc4d34",
+   "used": true,
+   "fact_ids": [
+    "GV0224",
+    "GV0225",
+    "GV0226",
+    "GV0227"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "7bcf317f-6709-4d3a-82de-b1f2d705c805",
+   "used": true,
+   "fact_ids": [
+    "GV0228",
+    "GV0229"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "74b90504-37f9-4ae4-a3f8-8dad898907c5",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate: minister's 'whole process online' statement, held from e8f65735 for global/faq",
+   "held": []
+  },
+  {
+   "article_id": "e8f65735-278c-4cd0-918b-1c1e3b4ff404",
+   "used": true,
+   "fact_ids": [
+    "GV0230",
+    "GV0231",
+    "GV0232"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/faq",
+     "claim": "The minister for expatriates' welfare, Ariful Haque Chowdhury, said in Los Angeles on 30 August 2026 that steps were being taken to put the whole process of sending workers abroad online, bringing more transparency to recruiting agencies' legitimacy, overseas job demand and related information.",
+     "quote": "বিদেশে কর্মী পাঠানোর পুরো প্রক্রিয়া অনলাইনভিত্তিক করার উদ্যোগ নেওয়া হচ্ছে জানিয়ে আরিফুল হক চৌধুরী বলেন, রিক্রুটিং এজেন্সিগুলোর বৈধতা, বিদেশে কর্মীর চাহিদা এবং সংশ্লিষ্ট তথ্য ব্যবস্থাপনায় আরও স্বচ্ছতা আনা হবে।"
+    },
+    {
+     "target": "global/illegal-routes",
+     "claim": "He said going abroad by sea or illegal routes must be reduced, that moves were under way to identify and act against rings sending people by illegal routes, and that a wide awareness campaign would run in several districts over the next month.",
+     "quote": "তিনি বলেন, সাগরপথে বা অবৈধ পথে বিদেশ যাওয়া কমাতে হবে। অবৈধ পথে বিদেশে লোক পাঠানোর সঙ্গে জড়িত চক্রকে চিহ্নিত করে ব্যবস্থা নেওয়ার উদ্যোগ চলছে। পাশাপাশি আগামী এক মাস কয়েকটি জেলায় ব্যাপক সচেতনতামূলক প্রচার চালানো হবে।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "Migrants in Los Angeles asked the minister on 30 August 2026 for a 'quick service' at the airport when coming and going and a comfortable lounge when flights are delayed.",
+     "quote": "দেশে আসা-যাওয়ার সময় বিমানবন্দরে ‘কুইক সার্ভিস’ এবং ফ্লাইট বিলম্বের ক্ষেত্রে আরামদায়ক ভিআইপি লাউঞ্জ সুবিধা চালুর দাবি জানান প্রবাসীরা।"
+    }
+   ]
+  }
+ ]
+}

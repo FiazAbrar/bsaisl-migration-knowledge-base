@@ -1,0 +1,280 @@
+{
+ "articles": [
+  {
+   "article_id": "7d16dde1-aa8c-487d-8fb4-43c4ca42c595",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of fact GM0069 (partial May total; final May figure used)",
+   "held": []
+  },
+  {
+   "article_id": "ff1e8258-d2a3-43b6-b1e0-b7424f897a57",
+   "used": true,
+   "fact_ids": [
+    "GM0069",
+    "GM0070"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "592b3d4f-694a-4f09-8cff-e787e09e0139",
+   "used": true,
+   "fact_ids": [
+    "GM0071",
+    "GM0072",
+    "GM0127"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "faq",
+     "claim": "BMET data: more than 1 million workers went abroad in a year for the first time in 2017; more than 1,135,000 in 2022; more than 1.3 million in 2023.",
+     "quote": "জনশক্তি কর্মসংস্থান ও প্রশিক্ষণ ব্যুরোর (বিএমইটি) তথ্য বলছে, দেশের ইতিহাসে প্রথমবারের মতো বছরে ১০ লাখের বেশি কর্মী বিদেশে যান ২০১৭ সালে। ২০২২ সালে বিভিন্ন দেশে যান ১১ লাখ ৩৫ হাজারের বেশি কর্মী। সব রেকর্ড ভেঙে দিয়ে ২০২৩ সালে বিদেশে গেছেন ১৩ লাখের বেশি কর্মী।"
+    },
+    {
+     "target": "faq",
+     "claim": "State minister Shafiqur Rahman Chowdhury told parliament in May 2024 that 16,312,324 workers went abroad for work in the 48 years from 1976 to March 2024.",
+     "quote": "গত মাসে প্রবাসীকল্যাণ ও বৈদেশিক কর্মসংস্থান প্রতিমন্ত্রী শফিকুর রহমান চৌধুরী সংসদকে জানিয়েছেন, ১৯৭৬ সাল থেকে চলতি বছরের মার্চ পর্যন্ত ৪৮ বছরে ১ কোটি ৬৩ লাখ ১২ হাজার ৩২৪ জন কর্মী বৈদেশিক কর্মসংস্থানের জন্য গেছেন।"
+    }
+   ]
+  },
+  {
+   "article_id": "0ed125e4-4823-4910-a716-42846460a07f",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of fact GM0077 (partial June total, 1-12 June)",
+   "held": []
+  },
+  {
+   "article_id": "4bd71341-615c-4ede-a224-08fbec4186db",
+   "used": true,
+   "fact_ids": [
+    "GM0073",
+    "GM0074"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "d33ba6b7-f5a5-4ea5-821d-ba6787de61a8",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of article 4bd71341 (same text; facts GM0073, GM0074)",
+   "held": []
+  },
+  {
+   "article_id": "c8d3adae-8958-4275-a9cd-3c377036a4d0",
+   "used": true,
+   "fact_ids": [
+    "GM0075",
+    "GM0076"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "6798c537-a0cd-4d8a-8402-2c0c596b4d05",
+   "used": true,
+   "fact_ids": [
+    "GM0077",
+    "GM0078",
+    "GM0079",
+    "GM0080",
+    "GM0081"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "236ca32d-cc3f-4bca-a10e-6924bc8feea7",
+   "used": true,
+   "fact_ids": [
+    "GM0082",
+    "GM0083"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "5e9d3ab0-cac1-4e47-9d5a-74c94487622c",
+   "used": true,
+   "fact_ids": [
+    "GM0084",
+    "GM0085"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "62182dfe-cb48-41d7-b089-dcf3a1dc4580",
+   "used": true,
+   "fact_ids": [
+    "GM0086"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "af4c024d-851d-4521-9bdd-d0b1424d6141",
+   "used": true,
+   "fact_ids": [
+    "GM0087",
+    "GM0088",
+    "GM0089",
+    "GM0090",
+    "GM0091",
+    "GM0092",
+    "GM0093",
+    "GM0094",
+    "GM0095",
+    "GM0128"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "db9efcbf-9b25-4973-b545-9f638f73c94b",
+   "used": true,
+   "fact_ids": [
+    "GM0096",
+    "GM0097",
+    "GM0098",
+    "GM0099"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "3344c832-3ec6-423d-9dd9-8cde8a434e79",
+   "used": true,
+   "fact_ids": [
+    "GM0100",
+    "GM0101",
+    "GM0102",
+    "GM0103",
+    "GM0129"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "9c582a5a-b91a-43fb-a2f7-40245ef30ba7",
+   "used": true,
+   "fact_ids": [
+    "GM0104",
+    "GM0105",
+    "GM0106"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "767b92e9-8d49-4b3f-956f-3bc206f442aa",
+   "used": true,
+   "fact_ids": [
+    "GM0107",
+    "GM0108",
+    "GM0109"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "b7ac655d-2eca-431d-9444-570b3dcdd420",
+   "used": true,
+   "fact_ids": [
+    "GM0110",
+    "GM0111"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "a7d9b354-57aa-4596-bb46-4eeb9aaacd3f",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact (reader opinion piece on Bangladesh's image; unsourced general claims)",
+   "held": []
+  },
+  {
+   "article_id": "03aa0551-670f-4503-bf5a-fbd227c59ed1",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of fact GM0114 (partial August total, 1-28 August)",
+   "held": []
+  },
+  {
+   "article_id": "2788072b-f0b1-4eb6-b1d9-a2b05efb1825",
+   "used": true,
+   "fact_ids": [
+    "GM0112",
+    "GM0113"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "cf6aebf2-a3df-41f8-b511-e4252359d861",
+   "used": true,
+   "fact_ids": [
+    "GM0114",
+    "GM0115",
+    "GM0116",
+    "GM0117"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "488d95a4-5ad8-408d-8121-33e551f3523d",
+   "used": true,
+   "fact_ids": [
+    "GM0118",
+    "GM0119",
+    "GM0120",
+    "GM0121",
+    "GM0122",
+    "GM0123",
+    "GM0124"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "services",
+     "claim": "According to the Wage Earners' Welfare Board, 18,166 bodies of migrants came home in 2018-2022; 3,698 died in road accidents, workplace accidents, fire, falls and electric shock.",
+     "quote": "ওয়েজ আর্নার্স কল্যাণ বোর্ডের তথ্য অনুযায়ী, ২০১৮ থেকে ২০২২ সাল পর্যন্ত ৫ বছরে ১৮ হাজার ১৬৬টি মরদেহ এসেছে দেশে। এর মধ্যে সড়ক দুর্ঘটনা, কর্মস্থলে দুর্ঘটনা, আগুনে পোড়া, ভবন থেকে পড়ে যাওয়া ও বৈদ্যুতিক শকে মারা গেছেন ৩ হাজার ৬৯৮ প্রবাসী।"
+    },
+    {
+     "target": "services",
+     "claim": "The Welfare Board gives Tk 35,000 cash for the burial of each migrant's body brought home; the family also gets life-insurance benefit, and compensation claims abroad are recovered through the embassy (September 2024).",
+     "quote": "দেশে আসা প্রবাসীদের প্রতিটি মরদেহ দাফনে ৩৫ হাজার টাকা নগদ সহায়তা দেয় কল্যাণ বোর্ড। এর বাইরে জীবনবিমার সুবিধা পায় কর্মীর পরিবার। আর বিদেশে কোনো ক্ষতিপূরণের দাবি থাকলে তা দূতাবাসের মাধ্যমে আদায় করে দেওয়া হয়।"
+    }
+   ]
+  },
+  {
+   "article_id": "b858b2f0-7cbc-4848-9dae-4095135339f4",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of facts GM0114 and GM0072 (partial September total and bank split)",
+   "held": []
+  },
+  {
+   "article_id": "efac12c8-7b45-4f10-a772-d1351046db1d",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact (reader opinion from a Kuwait migrant: proposals, no specific case or figure)",
+   "held": []
+  },
+  {
+   "article_id": "3bfd1db9-3f49-4ca0-93ff-e57f1faaea14",
+   "used": true,
+   "fact_ids": [
+    "GM0125",
+    "GM0126"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  }
+ ]
+}

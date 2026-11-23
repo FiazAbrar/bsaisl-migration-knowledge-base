@@ -1,0 +1,299 @@
+{
+ "articles": [
+  {
+   "article_id": "8d1c6412-9190-41cb-9bed-cdbf077d8b0a",
+   "used": true,
+   "fact_ids": [
+    "GM0001",
+    "GM0002",
+    "GM0003",
+    "GM0004"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "344b191b-809f-4981-af0b-9b10d262348c",
+   "used": true,
+   "fact_ids": [
+    "GM0005",
+    "GM0006",
+    "GM0007",
+    "GM0008",
+    "GM0009",
+    "GM0010",
+    "GM0011",
+    "GM0012",
+    "GM0013"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/faq",
+     "claim": "An RMMRU survey of 218 returnees (reported January 2024) found 15% got no work abroad and 20% did not get work as per contract.",
+     "quote": "বিদেশে গিয়ে কোনো কাজ পাননি ১৫ শতাংশ কর্মী। ২০ শতাংশ কর্মী চুক্তি অনুসারে কাজ পাননি।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "According to the Wage Earners' Welfare Board, 86,621 migrants (83,719 men, 2,902 women) came home empty-handed on out-passes in 2023; those returning with passports are not counted.",
+     "quote": "২০২৩ সালে শূন্য হাতে দেশে ফিরে এসেছেন ৮৬ হাজার ৬২১ প্রবাসী। এর মধ্যে পুরুষ ৮৩ হাজার ৭১৯ এবং নারী ২ হাজার ৯০২ জন।"
+    },
+    {
+     "target": "global/faq",
+     "claim": "In the same RMMRU survey, 15% of returnees came back within 1 month of going and 29% within 6 months, and fell into debt.",
+     "quote": "রামরুর জরিপে অংশ নেওয়া কর্মীদের ১৫ শতাংশ বিদেশে যাওয়ার ১ মাসের মধ্যে দেশে ফিরে আসেন। আর ৬ মাসের মধ্যে দেশে ফেরেন ২৯ শতাংশ কর্মী। বিদেশে গিয়ে ব্যর্থ হয়ে ধারদেনায় জড়িয়ে যান এসব কর্মী।"
+    }
+   ]
+  },
+  {
+   "article_id": "5bddc407-2f24-4efb-bd58-29085ce4a380",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of facts GM0003 (2023 total) and GM0017; only a partial-month figure (first 12 days of January 2024) otherwise",
+   "held": []
+  },
+  {
+   "article_id": "406c9885-6bd2-40b6-b204-dacb9a4797d5",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of facts GM0003; only a partial-month figure (first 19 days of January 2024) otherwise",
+   "held": []
+  },
+  {
+   "article_id": "ad5f6adf-4067-4fa5-8c69-919a7e634341",
+   "used": true,
+   "fact_ids": [
+    "GM0067",
+    "GM0068"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "02c9b834-7213-45a4-9331-1b7a47780a38",
+   "used": true,
+   "fact_ids": [
+    "GM0065",
+    "GM0066"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "46ddb2df-29e5-4a1e-a1bd-66e522d7d876",
+   "used": true,
+   "fact_ids": [
+    "GM0016",
+    "GM0017"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "154534c4-aef6-45d2-b93f-e8591d845f36",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of GM0017; only a partial-month figure (first 9 days of February 2024) otherwise",
+   "held": []
+  },
+  {
+   "article_id": "ca41b648-b4a1-4263-a13a-afe4c284230e",
+   "used": true,
+   "fact_ids": [
+    "GM0018"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ea202f5a-0443-4947-b44f-5e728b8311b6",
+   "used": true,
+   "fact_ids": [
+    "GM0019",
+    "GM0020",
+    "GM0021",
+    "GM0022",
+    "GM0023"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "bcc6e786-6f2a-4efd-a780-b2ce36bd8aaa",
+   "used": true,
+   "fact_ids": [
+    "GM0024",
+    "GM0025",
+    "GM0026"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "39f9839e-cec1-4794-b7b9-9a9eb99792c4",
+   "used": true,
+   "fact_ids": [
+    "GM0027"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "3e0ab237-82da-4e39-918f-53362492b0f2",
+   "used": true,
+   "fact_ids": [
+    "GM0028",
+    "GM0029"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "82b0843c-8b2c-4de1-8afc-622857bd6c5c",
+   "used": true,
+   "fact_ids": [
+    "GM0030",
+    "GM0031"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "1cc96c9d-367f-4c87-9575-3c3f751e8e8a",
+   "used": true,
+   "fact_ids": [
+    "GM0032"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "224c05f7-a9b7-421f-948e-44a0588aa6a4",
+   "used": true,
+   "fact_ids": [
+    "GM0034",
+    "GM0035",
+    "GM0036",
+    "GM0037",
+    "GM0038",
+    "GM0039"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "7b6f494e-da10-443b-9ecb-50f151ae2b4b",
+   "used": true,
+   "fact_ids": [
+    "GM0040",
+    "GM0041"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "468c5148-ea5d-4c2a-a824-af155f1139fa",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: book-launch speeches on Bangladesh's development; one economist's general remark that remitters face harassment, with no detail",
+   "held": []
+  },
+  {
+   "article_id": "8fc50ff4-9b9a-459a-a09b-1f990983796a",
+   "used": true,
+   "fact_ids": [
+    "GM0014",
+    "GM0015",
+    "GM0033"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "2ba5a1db-1774-4482-8a9c-d54e9fbabce4",
+   "used": true,
+   "fact_ids": [
+    "GM0042",
+    "GM0043",
+    "GM0044"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "3d649028-ebc4-4971-be3c-fedc4832a1b0",
+   "used": true,
+   "fact_ids": [
+    "GM0045",
+    "GM0046",
+    "GM0047",
+    "GM0048",
+    "GM0049",
+    "GM0050",
+    "GM0051"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ac388a90-8327-4fb7-90d3-437cca27be1c",
+   "used": true,
+   "fact_ids": [
+    "GM0052"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "60c50985-2fc3-4471-ac9a-99a2328d4730",
+   "used": true,
+   "fact_ids": [
+    "GM0053",
+    "GM0054",
+    "GM0055",
+    "GM0056"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "82f3c8ad-deb8-4bf3-91cf-4a9309f35d1e",
+   "used": true,
+   "fact_ids": [
+    "GM0057",
+    "GM0058"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "5a18f717-4c6c-445b-a5b4-f27470a4e366",
+   "used": true,
+   "fact_ids": [
+    "GM0059",
+    "GM0060",
+    "GM0061",
+    "GM0062",
+    "GM0063"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "0d879bae-5b75-4542-8079-9d61a73df9c7",
+   "used": true,
+   "fact_ids": [
+    "GM0064"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ac0c8209-b51c-4cda-9fe2-eb7642dc87c3",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of fact GM0064 (same Atiur Rahman speech, reported again)",
+   "held": []
+  }
+ ]
+}

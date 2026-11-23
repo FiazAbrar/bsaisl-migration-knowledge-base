@@ -1,0 +1,20 @@
+[
+ {
+  "held_id": "R3-dalal-scams-1",
+  "outcome": "added",
+  "fact_ids": [
+   "GS0113",
+   "GS0114",
+   "GS0115"
+  ],
+  "note": "Study-abroad firms that take the fee, 'The tricks'."
+ },
+ {
+  "held_id": "R3-dalal-scams-2",
+  "outcome": "added",
+  "fact_ids": [
+   "GS0116"
+  ],
+  "note": "Study-abroad firms that take the fee, 'The tricks'."
+ }
+]
