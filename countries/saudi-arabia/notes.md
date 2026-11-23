@@ -931,3 +931,9 @@ Citation-precision or wording points found in the final independent check and no
 - SQ0010 (state minister: one Bangladeshi killed in an earlier Houthi attack; 14 lost in the war) duplicates SP0779-SP0781 (Sajib Hossain) and SP0823 (14 killed); not cited.
 
 - **Mahram for women on Umrah (23 Nov 2026):** a December 2025 Prothom Alo Umrah guide (SQ0018) lists proof of a mahram relationship. Saudi Arabia's Minister of Hajj and Umrah announced in October 2022 that women can perform Hajj and Umrah without a mahram (Arab News, SQ0050). The minister's statement is the primary source and stands; the doc mentions the guide's line only so readers know agencies may still list it, and the Need to know now asks whether Bangladeshi agencies still ask for it.
+## Conflicts resolved, 22 Nov 2026 (from the bot's prompt test)
+
+- 16135 from abroad: E0021 (WEWB citizen charter) lists +8808000102030; WEWB's call-centre, membership and ambulance pages and insurance notice give +880 9610102030. Doc now uses +880 9610102030 (KR0003). Open: confirm with WEWB which number the charter means.
+- Clearance/smart-card fee: B0102 (Dhaka Tribune, Dec 2024, "free") is superseded by BMET's 2026 citizen charter (B0096, Tk 250). Need to know lines removed; Tk 250 added to the fee list (the list now sums to the quoted ~Tk 19,800).
+- Tk 1.65 lakh cap: added an official source, Bangladesh Bank survey Jan 2019, Table 5.1 (KR0001); the cap includes air fare, passport, health and related fees (KR0002). Open: is there a newer ministry order?
+- "Before the skill test, passport and ticket" (lines on genuine company visa costs) reworded to "plus the skill test and passport", pointing to Who pays what for the ticket.

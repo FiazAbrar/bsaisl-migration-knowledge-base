@@ -1,0 +1,1821 @@
+Monitoraggio                                     www.erostraniero.it
+decreti flussi
+2023-2024
+
+Lunghe attese e irregolarità:
+neanche "ritoccato", il decreto flussi funziona
+
+Ero Straniero
+ Ero Straniero - www.erostraniero.it
+
+Coordinamento:
+Fabrizio Coresi (ActionAid)
+Redazione del rapporto:
+Fabrizio Coresi (ActionAid), Francesco Mason (ASGI), Marina De Stradis e Camilla Siliotti (A Buon Diritto),
+Giulia Gori (FCEI), Sara Albiani e Chiara Trevisan (Oxfam)
+La stesura del presente report è stata completata il 10 febbraio 2025
+                                                                        www.erostraniero.it - Ero Straniero
+
+INDICE
+
+I-Premessa  5
+
+           Dati ed evidenze  6
+           Le testimonianze 7
+           I click day del febbraio 2025  9
+           La riforma necessaria: le proposte della campagna Ero straniero 10
+
+II - L'ingresso per lavoro in Italia: come funziona?  13
+III - L'analisi dei dati e le principali evidenze  17
+
+          Evidenza 1: Le domande pervenute sono molto più numerose delle quote
+               definitivamente assegnate 17
+               1.1 - Rapporto tra domande/quote stabilite/quote effettivamente assegnate 17
+               1.2 - Analisi per tipologia di lavoro/soggiorno, genere e nazionalità 18
+
+          Evidenza 2: I nulla osta al lavoro rilasciati sono inferiori ai posti disponibili.  19
+               2.1 - Rapporto tra quote stabilite e nulla osta rilasciati 19
+               2.1.1 - Rigetti, revoche, rinunce, archiviazioni20
+               2.1.2 - Analisi per tipologia di lavoro/soggiorno  21
+
+          Evidenza 2.2: Migliaia di lavoratrici e lavoratori con nulla osta e visto non
+               arrivano sul territorio  21
+
+          Evidenza 2.3: Basso il numero di visti rilasciati rispetto ai nulla osta
+               concessi e altissimo il numero dei visti non ancora richiesti 22
+               2.3.1 - Tempi per il rilascio del visto e incremento del personale23
+               2.3.2 - Bangladesh, Sri Lanka, Pakistan25
+
+          Evidenza 3: Complessivamente il tasso di successo della procedura è molto basso.26
+               3.1 - Rapporto tra quote e permessi di soggiorno rilasciati 26
+               3.2 - Analisi per tipologia di lavoro/soggiorno 27
+               3.3 - Le associazioni datoriali si confermano un elemento di
+                        semplificazione, con aumento dell'efficacia in termini di
+                        contratti sottoscritti 28
+               3.4 - Uno sguardo ai settori produttivi29
+
+IV - La parola alle persone  33
+
+                                                                                                                                                        3
+Ero Straniero - www.erostraniero.it
+
+4
+                                                                         www.erostraniero.it - Ero Straniero
+
+I-PREMESSA
+
+      La campagna Ero straniero1 ha avviato nel 2023 un monitoraggio sul sistema di ingresso per lavoro
+in Italia alla luce degli interventi normativi più recenti rispetto al decreto-flussi, a partire dal governo
+Draghi e, successivamente, dall'attuale governo Meloni. L'obiettivo del monitoraggio è, dunque, verificare
+l'impatto delle numerose modifiche normative in termini di efficacia, e cioè di ingressi regolari ed effettivi
+di lavoratrici e lavoratori nel nostro paese.
+
+      I principali interventi hanno riguardato l'aumento delle quote e una programmazione più a lungo
+termine, l'allargamento dei settori produttivi interessati dalla misura, la possibilità di procedere con
+più decreti flussi nel corso dello stesso anno e del triennio di programmazione, il coinvolgimento delle
+associazioni datoriali, la formazione nei paesi di origine, alcune semplificazioni della procedura e la
+previsione di un certo numero di visti extra-quote. Si tratta di interventi decisi per soddisfare innanzitutto
+le esigenze di aziende, interi comparti e famiglie che da tempo chiedevano un sistema più flessibile
+per poter coprire le sempre più urgenti richieste di manodopera straniera. Nello stesso tempo, vi è stata
+- finalmente - da parte dell'esecutivo una presa d'atto dei limiti e dell'inadeguatezza di un sistema
+di ingresso per lavoro obsoleto - pensato e introdotto in un momento storico, economico e sociale
+profondamente diverso dall'attuale - e decisamente inefficace in termini di ingressi e copertura del
+fabbisogno del mondo produttivo.
+
+      Da segnalare positivamente l'aumento dell'organico destinato alla presa in carico di queste pratiche
+degli ultimi anni, sia rispetto al personale interinale impiegato nelle prefetture e questure (con la loro
+auspicata stabilizzazione nei prossimi mesi), sia a quello delle nostre rappresentanze diplomatiche
+all'estero: un primo passo per affrontare la cronica carenza di personale negli uffici che si occupano di
+tutte le pratiche relative al soggiorno delle persone straniere residenti in Italia e che tante conseguenze
+hanno sulla loro vita, spesso molto pesanti in termini di precarietà giuridica e quindi sociale. Come
+emerge chiaramente dal dossier, tuttavia, alcuni dei passaggi procedurali più problematici continuano
+a persistere e a necessitare di tempi lunghissimi, ben oltre i termini di legge: sono decine di migliaia le
+domande - e quindi i posti di lavoro - che a ogni passaggio si perdono nelle maglie della burocrazia.
+
+      I dati presi in considerazione sono relativi agli ingressi dei flussi 2023 e 2024 - a partire dai click
+day di dicembre 2023 e marzo 2024 - e sono stati forniti alla campagna dai tre ministeri coinvolti dal
+procedimento (Ministero dell'interno, Ministero degli affari esteri e della cooperazione e Ministero del
+lavoro e politiche sociali). Richiesta di accesso agli atti è stata fatta anche al cd. "Tavolo tecnico" istituito
+presso la Presidenza del Consiglio in merito a "documenti e dati relativi ai procedimenti legati ai decreti
+flussi varati dall'attuale governo" a disposizione del Tavolo. Nella risposta alla richiesta della campagna
+si legge che il Tavolo non è in possesso della documentazione richiesta e si precisa che "il citato Tavolo
+Tecnico non è mai stato istituito formalmente, ma che esiste un gruppo di lavoro che ha esaminato i dati
+allegati al comunicato stampa del 4 giugno 2024, per apportare i correttivi che sono successivamente
+confluiti nel decreto-legge 11 ottobre 2024, n. 145."
+
+        1 Il dossier è a cura delle organizzazioni A Buon Diritto, ActionAid, ASGI, Federazione Chiese Evangeliche Italiane, Oxfam, Arci,
+CNCA, CILD, promotrici della campagna.
+
+                                                                                                                                                          5
+Ero Straniero - www.erostraniero.it
+
+        Dati ed evidenze
+
+        I risultati di quest'ultimo aggiornamento, purtroppo, continuano a presentare un quadro preoccupante.
+ In continuità con le evidenze dei precedenti dossier, infatti, anche dai dati relativi ai flussi 2023 e 2024
+ (aggiornati alla fine del 2024) emerge che il tasso di successo della procedura è molto basso e decine di
+ migliaia di posti messi a disposizione nei diversi "decreti flussi" non vengono utilizzati, visto che a ogni
+ passaggio della procedura se ne perde una parte. Alla fine, il numero di lavoratrici e lavoratori che riescono a
+ chiudere l'iter e ottenere un impiego e un permesso di soggiorno continua a essere drammaticamente esiguo.
+
+        Di seguito, in sintesi, i dati più significativi e le principali evidenze del dossier (che verranno analizzati
+ dettagliatamente nel cap. III):
+
+»I nulla osta all'ingresso rilasciati sono inferiori ai posti disponibili e di fatto decine di migliaia di quote
+
+      non vengono utilizzate (evidenza 2.1): rispetto alle domande inviate a partire dai click day del dicembre
+      2023, i nulla osta complessivamente rilasciati sono 74.445, il 56,5% delle quote stabilite dal governo
+      (131.850). Per i flussi 2024 (domande inoltrate a partire dai click day del marzo 2024) i nulla osta rilasciati
+      sono 83.570, il 56,9% delle quote previste (146.850);
+
+»Basso il numero di visti rilasciati rispetto ai nulla osta concessi e altissimo il numero dei visti non
+
+      ancora richiesti dopo il rilascio del nulla osta (evidenza 2.3): qui il meccanismo si inceppa. Per i flussi
+      legati ai click day di dicembre 2023, sono stati rilasciati complessivamente 37.790 visti, che rappresentano
+      il 50,8% dei nulla osta concessi (74.445). Riguardo al 2024, i visti rilasciati sono 24.151, pari al 28,9% dei
+      nulla osta concessi (83.570).
+
+»Migliaia di lavoratrici e lavoratori con nulla osta e visto non arrivano sul territorio (evidenza 2.2): rispetto
+
+      ai click day del dicembre 2023, 11.013 persone sono ancora in attesa di far ingresso nel nostro Paese, su
+      un totale di 74.445 nulla osta rilasciati. Relativamente ai flussi per il 2024, sono 10.869 le persone in attesa
+      di fare ingresso in Italia su un totale di 83.570 nulla osta rilasciati.
+
+»Rispetto all'ultimo monitoraggio riguardante l'attività svolta dalle nostre rappresentanze diplomatiche
+
+      finalizzata alla concessione del visto, emerge una diminuzione dei tempi medi per la trattazione delle
+      pratiche una volta che lavoratrice o lavoratore hanno ottenuto l'appuntamento per presentare la richiesta di
+      visto e tale richiesta viene presa in carico dagli uffici: ciò si spiega con l'aumento di organico recentemente
+      approvato dal governo. Rimangono lunghissimi, purtroppo, i tempi della fase precedente: servono mesi
+      e mesi alle persone con il nulla osta in mano per ottenere l'appuntamento presso le rappresentanze e
+      presentare la richiesta di visto, servizio di solito appaltato ad agenzie e società private con risultati da
+      sempre problematici (evidenza 2.3.1).
+
+»Purtroppo, si conferma l'evidenza più grave e preoccupante riscontrata nei dossier precedenti: se
+
+      guardiamo a quante pratiche vengono finalizzate, il tasso di successo della procedura è molto basso
+      (evidenza 3.1). Relativamente ai flussi previsti nel settembre 2023 (click day del dicembre 2023), infatti,
+      a fronte di 127.707 quote assegnate, solo 16.188 sono state le domande finalizzate dalle prefetture, con
+      la sottoscrizione del contratto e la richiesta di permesso di soggiorno, solo il 13% ca. Quanto ai flussi del
+      2024 (click day di marzo 2024), 9.331 sono i permessi richiesti, pari al 7,8% delle quote assegnate (119.890).
+
+»Se poi ci riferiamo al passaggio conclusivo, e cioè al rilascio materiale del permesso di soggiorno da
+      parte delle questure, rispetto ai flussi 2023, i permessi effettivamente concessi sono stati 9.5282, con un
+      tasso di successo della procedura che si abbassa al 7,5%.
+
+          2 Dati comunicati dal Dipartimento di pubblica sicurezza del Ministero dell'Interno al 25 novembre 2024.
+
+6
+                                                                         www.erostraniero.it - Ero Straniero
+
+»Nonostante il tasso di successo sia generalmente basso, si rileva il miglior funzionamento del canale
+
+    del lavoro domestico e socio-sanitario rispetto agli altri due canali previsti (stagionale e non stagionale)
+    in termini di contratti sottoscritti (evidenza 3.2) così come funziona meglio il canale preferenziale delle
+    organizzazioni datoriali, con un tasso di efficacia più alto rispetto alla "procedura ordinaria" (evidenza
+    3.3). In entrambi i casi, i risultati sono dovuti a un maggiore ascolto e coinvolgimento delle associazioni
+    di categoria e organizzazioni di tutela che da tempo chiedevano interventi in tal senso.
+
+      Ancora una volta dai dati emerge chiaramente che solo una parte di lavoratrici e lavoratori che entrano
+in Italia con il decreto flussi riesce a stabilizzare la propria posizione lavorativa e giuridica, ottenendo
+lavoro e documenti. Il resto delle persone è destinato a scivolare in una condizione di irregolarità e quindi
+di estrema ricattabilità e precarietà.
+
+      Il sistema, seppur ritoccato, non funziona e non solo guardando al mancato soddisfacimento delle
+esigenze del mondo produttivo, ma anche rispetto alla possibilità di garantire alle persone straniere che
+intendono venire a lavorare in Italia e intraprendere tale percorso migratorio, canali di ingresso accessibili
+e praticabili, con tutte le tutele previste.
+
+      La domanda rimane la stessa: perché solo una piccola parte delle persone autorizzate all'ingresso in
+Italia ha potuto finalizzare la procedura? Cosa è successo al resto delle persone entrate in Italia?
+
+      Riproponiamo il ragionamento già esposto nei dossier precedenti: in molti casi, essendo possibile
+lavorare anche solo con il nulla osta, i datori di lavoro, in attesa di essere convocati per la conclusione della
+procedura presso le prefetture, impiegano da subito lavoratrici e lavoratori. Se però il rapporto di lavoro si
+interrompe prima della conclusione della procedura e prima che sia stato rilasciato il permesso di soggiorno,
+c'è il rischio altissimo di rimanere senza documenti, in una condizione di irregolarità, estrema precarietà
+e ad altissimo rischio di sfruttamento. In alcuni casi, poi, il datore si avvale della prestazione del lavoratore
+finché lo ritiene utile e successivamente si rifiuta di formalizzare il rapporto. Può accadere che venga meno
+la disponibilità all'assunzione da parte del datore di lavoro quando la persona straniera è già giunta in Italia
+perché l'ingresso è avvenuto con tempi troppo lunghi rispetto alle esigenze dell'azienda o delle famiglie.
+O ancora, come dimostra lo studio del Dipartimento di Scienze Sociali e Politiche dell'Università Statale di
+Milano cui si rimanda3, ci si può trovare di fronte a quella che gli autori definiscono una migration industry:
+un sistema di intermediazione che si innesta nella procedura, con "attori privati variegati, ma accomunati
+da un comune intento: quello di fare profitto e speculare sui migranti". Talvolta si tratta di vere e proprie
+truffe e comportamenti illegittimi a danno di lavoratrici e lavoratori che pagano alcune migliaia di euro a
+presunti intermediari, datori di lavoro o aziende fittizie in cambio dell'assunzione, salvo arrivare in Italia e
+non avere da loro più notizie.
+
+      Risulta evidente come, al di là degli interventi già previsti dal governo, inclusi quelli contenuti nel D.L.
+145/2024 (v. infra), le criticità del procedimento e la situazione di stallo in cui si trovano tutte le parti coinvolte
+necessitano di essere affrontate quanto prima e nella sostanza, con un cambio di approccio netto.
+
+       Le testimonianze
+
+      Ai dati pubblicati nel dossier, la campagna ha voluto affiancare alcune testimonianze di lavoratrici
+e lavoratori, imprese e datori di lavoro, operatori legali, agenzie di intermediazione private, patronati e
+associazioni di categoria che hanno avuto a che fare - nei diversi ruoli- con la procedura del decreto flussi.
+
+        3 De Blasis F.- Bonizzoni P., Verso una nuova apertura? Intermediazione, rischio di frode e limbo legale nella lotteria del decreto
+flussi, Università degli Studi di Milano - Progetto Aspire.
+
+                                                                                                                                                          7
+Ero Straniero - www.erostraniero.it
+
+ Si tratta di testimonianze e storie che fanno emergere in tutta la loro chiarezza e spesso drammaticità quali
+ sono le conseguenze reali sulla vita delle persone di un sistema che non funziona, non solo nei suoi aspetti
+ procedurali, ma anche e soprattutto nel suo impianto complessivo.
+
+        Ne riportiamo solo alcune, rimandando all'ultimo paragrafo del dossier per tutte le altre che abbiamo
+ raccolto:
+
+   » Mohamad, cittadino pakistano: "Io sono fortunato. Sono entrato con i flussi di lavoro stagionale.
+
+                Prima il datore di lavoro ha fatto la richiesta di nulla osta, che è arrivata velocemente, ha impiegato
+                circa un mese. Il problema è stato il passo successivo e, cioè, riuscire a contattare l'ambasciata
+                italiana in Pakistan. Per prendere appuntamento per il rilascio del visto, devi scrivere ad una agenzia
+                esterna che spesso non ti risponde. A me ha risposto dopo 5 mesi e 15 giorni: appena 15 giorni
+                prima dello scadere del mio nulla osta. Molte persone che conosco, compreso mio zio, non sono
+                potute arrivare in Italia perché non sono riuscite a dimostrare di aver preso appuntamento per la
+                richiesta del rilascio del visto di ingresso prima dello scadere dei 6 mesi dall'ottenimento del nulla
+                osta. Il periodo intercorso tra la richiesta di nulla osta e il mio arrivo è stato complessivamente di
+                1 anno e 1 mese. Per fortuna un mio parente lavorava già nell'azienda che aveva fatto la richiesta
+                per me e il datore di lavoro ha accettato di prendermi anche dopo tutto questo tempo perché si
+                fidava di lui".
+
+   » Filippo, datore di lavoro privato: "Ho fatto la domanda con i flussi di ingresso per avere una
+
+                persona che svolga lavoro di badante per mio padre anziano, ma se devo aspettare il suo arrivo
+                per più di un anno, come faccio nel frattempo? È una situazione molto difficoltosa per la nostra
+                famiglia. E ammetto che questa persona è già una nostra conoscenza; non avrei potuto assumere
+                una persona in una funzione tanto delicata di cui non avessi già verificato il lavoro o almeno di cui
+                non avessi avuto solide referenze. Mi chiedo se non sarebbe più semplice per tutti che le tante
+                persone che sono nel nostro territorio con possibilità di lavoro, ancorché illegali, possano ottenere
+                un permesso di soggiorno a fronte della presentazione di una promessa di lavoro".
+
+        Le testimonianze sono state raccolte tra ottobre 2024 e la prima metà di gennaio 2025 e attengono
+ principalmente alle domande presentate nei click day di dicembre 2023 e marzo 2024, anche se vi
+ sono già esperienze riguardanti le domande precompilate in vista del click day di febbraio 2025.
+ Come questa:
+
+   » Alessio, agenzia privata: "Con la riforma dei flussi di entrata, ci saranno più controlli. Credo che il
+
+                meccanismo della precompilazione sia positivo, ma occorre fare attenzione perché la procedura è
+                estremamente complessa, le informazioni richieste in numero sempre maggiore e il linguaggio molto
+                tecnico. Mi chiamano spesso non solo datori di lavoro per essere seguiti nelle pratiche, ma anche avvocati
+                e consulenti del lavoro perché non capiscono come compilare molti dei campi previsti nel sistema di
+                inserimento online. Inoltre, le asseverazioni vengono fatte da commercialisti e associazioni di categoria che,
+                in pratica, si sostituiscono allo Stato. Secondo me l'illegalità non si elimina così, perché chi lavora nell'illegalità
+                non ha paura di denunce. Mentre il datore di lavoro singolo che ha davvero bisogno del lavoratore avrà
+                sempre più paletti e difficoltà nella procedura, la criminalità organizzata troverà altre vie e semplicemente
+                farà pagare ancora di più l'entrata in Europa. È il sistema dei flussi come impianto a non funzionare".
+
+8
+                                                                         www.erostraniero.it - Ero Straniero
+
+       I click day del febbraio 2025
+
+      A tal proposito, è d'obbligo aprire una parentesi rispetto ai click day dei giorni scorsi (5, 7, e 12 febbraio
+2025) relativi agli ingressi programmati per il 2025: 70.720 per lavoro subordinato non stagionale, 730 per
+lavoro autonomo e 110.000 per lavoro subordinato stagionale. A questi si aggiungono in via sperimentale e
+solo per l'anno 2025, al di fuori delle quote, 10.000 posti nel settore dell'assistenza familiare o sociosanitaria
+a favore di persone con disabilità o a favore di grandi anziani.
+
+      Degli esiti di tali domande la campagna si occuperà nel prossimo monitoraggio, ricostruendo il quadro
+complessivo attraverso i dati a fine 2025.
+
+      Tuttavia, alcuni elementi si possono già evidenziare, in particolare in merito alle misure previste
+dall'ultimo decreto intervenuto in materia di flussi, il D.L. 145/2024, approvato nell'ottobre scorso. Tali
+misure sono tese soprattutto a scongiurare truffe e ingressi fasulli attraverso un rafforzamento dei controlli
+sull'affidabilità dei datori di lavoro, previsti anche nella fase iniziale della procedura. A tal fine, una volta
+approvato il provvedimento l'11 ottobre, è stato imposto ai datori di lavoro di pre-compilare le domande per via
+telematica, utilizzando il portale informatico Ali messo a disposizione dal Ministero dell'interno. I tempi per
+la pre-compilazione, dal 1 al 30 novembre 2024 per l'invio nei click day a febbraio 2025, sono stati strettissimi.
+
+      Rispetto agli anni passati questo passaggio ha determinato, come comunicato dallo stesso Viminale,
+una sostanziale differenza: le domande pre-compilate nel novembre 2024 sono state 164.787, con una
+diminuzione del 76% rispetto all'anno precedente. Il dato, poi, è in totale controtendenza anche rispetto agli
+anni precedenti: nel 2021 erano state presentate 209.150 domande, salite a 304.304 nel 2022, ulteriormente
+cresciute a 581.006 nel 2023 e arrivate a 674.363 richieste nel 2024.
+
+      L'inversione di tendenza è ancora più evidente se si mettono in relazione le domande pre-compilate per
+i click day del febbraio 2025 con le quote disponibili: le quasi 165.000 domande pre-compilate coincidono,
+nella sostanza, con le quote messe a disposizione per i flussi 2025 dal governo, mentre in passato le domande
+pervenute sono sempre state molte di più delle quote stabilite: nel corso del 2023, complessivamente, le
+domande pervenute sono state 462.422 a fronte di 136.000 posti disponibili; nei click day di marzo del 2024
+le domande presentate sono state 690.000 a fronte di 151.000 ingressi autorizzati.
+
+      Tornando a oggi, le domande pre-compilate a novembre 2024 sono state inviate nei click day dei giorni
+scorsi. Il 5 febbraio, primo giorno dedicato all'invio delle domande per i lavoratori non stagionali, in pochi
+minuti, come sempre avviene, tutte le 25.000 quote disponibili sono state raggiunte. Il dato complessivo
+delle domande presentate dopo il terzo click day del 12 febbraio non era invece ancora disponibile quando
+questo dossier è stato chiuso. Il dato però che rileva, anche a click day in corso, è che il numero di domande
+pre-compilate a novembre 2024 non si discosta di molto dal totale di quote a disposizione.
+
+      Questo dato, infatti, è stato rivendicato dal Viminale come il risultato dei controlli previsti dal D.L.
+145/2024 ed effettuati preventivamente sulle domande pre-compilate. In realtà, l'Ispettorato nazionale del
+lavoro - come si è appreso dalla stampa - ha smentito il Viminale negando che le domande pre-compilate nel
+mese di novembre sulla piattaforma Ali del ministero dell'Interno siano state controllate in via preventiva,
+come pure prevede la norma, in quanto "tali domande non sono mai state caricate sul sistema informatico Spi
+2.0 visionato dagli uffici territoriali dell'Ispettorato". Cosa è successo, quindi? Come si spiega questo numero
+bassissimo di domande per i flussi 2025?
+
+      L'ipotesi che possiamo avanzare è che, dopo tali interventi normativi, la procedura sia diventata
+estremamente onerosa in termini burocratici, rispetto alla durata del procedimento e ai nuovi requisiti per
+
+                                                                                                                                                          9
+Ero Straniero - www.erostraniero.it
+
+ i datori di lavoro, a partire dai tempi della pre-compilazione. Abbiamo raccolto testimonianze in merito alla
+ difficoltà collegate alla pre-compilazione delle domande avvenute in tempi troppo stretti, con informazioni
+ aggiuntive e modalità operative nuove quali la profilazione, l'ottenimento dello SPID e del dominio digitale. I
+ datori sono stati costretti a caricare le domande in poche settimane, nonostante il click day a febbraio 2025,
+ e si sono dovuti attivare in tempi ristrettissimi: il tutto per permettere controlli preventivi che non sono
+ mai stati svolti, come si è appreso dalla stessa agenzia che quei controlli avrebbe dovuto svolgere. L'anticipo
+ della compilazione delle domande, alla fine, ha solo messo in difficoltà datori di lavoro, imprese e famiglie,
+ determinando una drastica riduzione dei numeri e mettendo in discussione il buon esito del procedimento.
+
+        Il rischio, altissimo, è che molti abbiano deciso di non ricorrere a questo meccanismo per assumere
+ lavoratrici e lavoratori, lasciando così spazio ulteriore al lavoro nero e alla precarietà.
+
+        La riforma necessaria: le proposte della campagna Ero straniero
+
+        La campagna, di fronte al riproporsi delle criticità riscontrate anche in quest'ultimo monitoraggio, non
+ può che formulare nuovamente a governo e parlamento le stesse raccomandazioni avanzate in precedenza.
+
+        Innanzitutto, nell'immediato, al fine di ridurre la creazione di irregolarità attraverso il decreto flussi
+ - esito paradossale, visto che è l'unico meccanismo di ingresso regolare esistente - e consentire a decine
+ di migliaia di lavoratrici e lavoratori di uscire dall'invisibilità, va facilitato il rilascio di un permesso di
+ soggiorno per attesa occupazione in tutti quei casi in cui la procedura non viene finalizzata per motivi non
+ imputabili al lavoratore4.
+
+        Più a lungo termine, poi, ribadiamo la necessità di una più generale riforma del sistema di ingresso per
+ lavoro, come quella che da tempo come campagna Ero straniero proponiamo, a partire dall'introduzione di
+ canali diversificati e flessibili disegnati per far effettivamente incontrare domanda e offerta e a partire non
+ solo dalle esigenze del nostro mercato del lavoro, ma anche tenendo conto delle aspettative di lavoratrici e
+ lavoratori dei paesi terzi, in modo da evitare che rischino le proprie vite affidandosi ai trafficanti.
+
+        In concreto i nuovi canali che proponiamo sono:
+
+» assunzione diretta "a chiamata" extra-quote. Permane di fatto per il datore/datrice di lavoro in Italia la
+
+      possibilità di chiamare dall'estero una persona proveniente da un paese terzo con un impegno di assunzione,
+      ma senza il limite di quote annuali stabilite dal decreto flussi e senza finestre temporali predefinite né limiti
+      ai settori economici. Il datore/datrice di lavoro potrebbe quindi chiamare un lavoratore o lavoratrice dall'estero
+      in qualsiasi momento in base agli specifici bisogni della sua attività.
+
+» permesso di soggiorno per ricerca lavoro attraverso "sponsor" della durata di un anno. Si prevede la
+
+      possibilità di far venire in Italia un lavoratore o lavoratrice in cerca di un'occupazione, selezionato nei paesi d'origine,
+      attraverso l'intervento di figure di garanzia a fini dell'inserimento nel mercato del lavoro, che possono configurarsi
+
+          4 La normativa prevede in questi casi il rilascio di un permesso di soggiorno per attesa occupazione (v. art. 22, c. 11 del T.U.I.)
+ per quanti, già titolari di un permesso per lavoro, perdono il loro impiego. Con circolare del Ministero dell'Interno del 20/8/2007, infatti, è
+ stato previsto che nell'ambito della procedura di ingresso, in caso di sopravvenuta indisponibilità alla formalizzazione dell'assunzione
+ attribuibile al datore di lavoro, al lavoratore venga concessa la possibilità di chiedere un permesso di soggiorno per attesa occupazione.
+ Un'indicazione analoga è contenuta nella circolare del Ministero dell'Interno del 17/11/2020, relativa alla regolarizzazione straordinaria
+ di cui all'art. 103, DL 34/2020: nel caso di avvio e interruzione del rapporto di lavoro prima della convocazione presso lo sportello unico
+ (SUI), al lavoratore può essere rilasciato un permesso per attesa occupazione.
+
+10
+                                                                         www.erostraniero.it - Ero Straniero
+
+    come persone singole ("sponsor") oppure soggetti autorizzati all'attività di intermediazione (associazioni di
+    categoria, agenzie per il lavoro, università, sindacati, patronati, enti del terzo settore, etc).
+
+» permesso di soggiorno per ricerca lavoro con richiesta di visto che il lavoratore o lavoratrice dovrà
+
+    presentare direttamente alla rappresentanza diplomatica competente nel paese di origine. Attraverso questo
+    meccanismo, si realizzerebbe un libero ed effettivo incontro tra domanda proveniente dai paesi terzi e offerta di
+    lavoro sul territorio nazionale. I lavoratori o lavoratrici potrebbero cioè fare richiesta di ingresso in Italia per la
+    ricerca di un'occupazione per un periodo ragionevole (6 mesi/un anno) purché siano in grado di offrire garanzie
+    economiche per il viaggio e per il sostentamento nel periodo iniziale di soggiorno e per l'eventuale rientro
+    nel paese di origine. Per il rilascio di questo permesso di soggiorno per ricerca lavoro sono previste delle quote
+    annuali, stabilite con DPCM. Tale permesso sarà convertibile in permesso per lavoro. In mancanza di finalizzazione
+    di un contratto alla sua scadenza, dovrebbe essere previsto il rientro volontario nel paese di origine.
+
+         .Fondamentale, poi, favorire la regolarità e la partecipazione delle persone straniere residenti in
+
+Italia, già presenti e radicate ma rimaste senza documenti, per fermare la creazione di nuova irregolarità e
+contrastare sfruttamento e marginalità sociale (regolarizzazione su base individuale), attraverso due canali:
+
+» Canale di regolarizzazione attraverso un contratto di lavoro. Si introduce un meccanismo permanente di
+
+    regolarizzazione per lavoratori o lavoratrici senza un titolo di soggiorno presenti sul territorio italiano a fronte di un
+    contratto di lavoro. Il meccanismo non è legato a una misura straordinaria né a una determinata finestra temporale,
+    ma è su base individuale e accessibile in qualsiasi momento. I requisiti per accedere alla misura sono: la presenza
+    del lavoratore/lavoratrice in Italia da almeno 6 mesi; la disponibilità di un contratto di lavoro di almeno 6/12 mesi;
+    un reddito da garantire al lavoratore e alla lavoratrice superiore all'assegno sociale annuo.
+
+» Canale di regolarizzazione per radicamento sociale per la persona straniera non comunitaria senza
+
+    documenti già presente in Italia che dimostri di essere radicata nel territorio e nel tessuto civile e sociale del
+    Paese, della durata di due anni, rinnovabile, sul modello dell'"arraigo social" spagnolo. Il radicamento dello
+    straniero è desumibile da elementi quali, a titolo esemplificativo, la sussistenza di legami familiari o affettivi del
+    richiedente nel territorio italiano; la durata della permanenza, anche irregolare, sul territorio; la conoscenza della
+    lingua italiana; l'inserimento sociale e lavorativo. Il permesso di soggiorno per radicamento sociale, di durata
+    di 2 anni, rinnovabile e convertibile in permesso di soggiorno per lavoro potrà essere richiesto solo a fronte della
+    disponibilità di risorse pari almeno all'assegno sociale annuo.
+
+                                                                                                                                                          11
+Ero Straniero - www.erostraniero.it
+
+12
+                                                                         www.erostraniero.it - Ero Straniero
+
+II-L'INGRESSO PER LAVORO IN ITALIA: COME
+FUNZIONA?
+
+      Per meglio comprendere i dati e l'analisi del capitolo III, riproponiamo la sintesi del funzionamento
+del sistema di ingresso per lavoro in Italia, ripercorrendo le principali modifiche normative intervenute
+recentemente.
+
+      A oggi, lavoratrici e lavoratori di paesi terzi per lavorare in Italia devono essere individuati da aziende
+e famiglie dall'estero e fatti entrare nell'ambito delle quote d'ingresso annualmente stabilite con il decreto
+flussi e nei limiti previsti dal documento di programmazione triennale, come stabilito nel Testo unico
+immigrazione5. Non è possibile assumere una persona straniera che si trova già sul territorio italiano senza
+un titolo di soggiorno. La richiesta per l'assunzione può essere presentata da un datore di lavoro solo dopo
+la pubblicazione del decreto annuale di programmazione dei flussi (cd. decreto flussi). Lo stesso decreto
+individua le date a partire dalle quali è possibile presentare le domande (cd. click day). Il nulla-osta al lavoro
+è l'atto amministrativo con cui lo sportello unico dell'immigrazione (S.U.I.) presso la prefettura competente sul
+territorio autorizza il datore di lavoro che ne fa richiesta ad assumere una persona straniera residente all'estero.
+
+      La procedura ordinaria prevede innanzitutto la presentazione della domanda di ingresso da parte
+del datore di lavoro nel corso di determinati giorni, i famigerati click day, su un portale dedicato. Di tutte
+le domande inviate, vengono prese in considerazione, in ordine di arrivo, quelle corrispondenti alle quote
+stabilite per ciascun periodo dal governo in ciascun settore. Successivamente, il datore di lavoro, la cui
+domanda è rientrata nelle quote governative, riceve dallo sportello unico immigrazione della provincia di
+riferimento, il nulla osta al lavoro e all'ingresso in Italia della persona che vuole assumere. Lo stesso S.U.I.
+invia tale nulla osta alla rappresentanza diplomatica italiana competente del paese di origine della lavoratrice
+o del lavoratore per il rilascio del visto. Il nulla osta ha validità di 180 giorni. Una volta ottenuto il visto,
+lavoratrici e lavoratori possono fare ingresso in Italia: entro 8 giorni dall'ingresso devono poi recarsi nella
+prefettura competente insieme ai datori di lavoro per stipulare il contratto di soggiorno, chiedere il rilascio
+del permesso di soggiorno e cominciare a lavorare; anche lo svolgimento di tale incombenza può necessitare
+molti mesi di attesa della convocazione presso la prefettura.
+
+        5 D.lgs 25 luglio 1998, n. 286, Testo unico delle disposizioni concernenti "La disciplina dell'immigrazione e norme sulla condizione
+dello straniero, V. in particolare il Titolo III, "Disciplina del lavoro".
+
+                                                                                                                                                          13
+Ero Straniero - www.erostraniero.it
+
+        Dopo aver compilato e inviato via posta alla questura-ufficio immigrazione competente la documentazione
+ necessaria al rilascio del permesso, al lavoratore o alla lavoratrice viene comunicato il successivo appuntamento
+ per i rilievi fotodattiloscopici, in cui è rilasciata la ricevuta di richiesta del permesso, il cd. "cedolino", che
+ consente di esercitare provvisoriamente tutti i diritti connessi al soggiorno regolare fino alla definizione
+ della procedura. Successivamente, l'ufficio immigrazione procede a una nuova convocazione per il rilascio
+ del permesso. Il documento dovrebbe essere consegnato entro 60 giorni dalla domanda ma le questure, in
+ particolare quelle delle province più grandi, normalmente impiegano più tempo, fino anche a diversi mesi,
+ durante i quali la persona straniera è in possesso del solo cedolino.
+
+        Negli ultimi anni, oltre a un progressivo aumento delle quote fissate e al ritorno alla programmazione
+ triennale - che non avveniva dal 2007 - con il superamento dei decreti annuali, vi sono state una serie di
+ misure di semplificazione di tale procedura: in particolare, a partire dal 2021, sono state inserite nei flussi
+ annuali delle quote per lavoro subordinato stagionale riservate alle domande presentate da organizzazioni
+ professionali dei datori di lavoro nel settore agricolo (Cia - Coldiretti - Confagricoltura - Copagri - Alleanza
+ delle cooperative, che comprende Lega cooperative e Confcooperative)6. Si è trattato di un primo tentativo di
+ alleggerimento del carico di lavoro amministrativo degli uffici perennemente in difficoltà e sotto organico
+ delle amministrazioni coinvolte al fine di velocizzare alcuni passaggi. Ulteriori interventi in tal senso sono
+ stati adottati negli anni successivi: da ultimo, nel DPCM sui flussi di ingresso 2023-2025 del settembre 20237,
+ sono stati previsti 40.000 posti nel 2023 e 41.000 nel 2024 per lavoro stagionale nel settore agricolo, e 30.000
+ unità per il 2023 e 31.000 per il 2024 nel settore turistico, riservati alle richieste presentate direttamente
+ dalle organizzazioni professionali dei datori di lavoro. Dal 2023, anche le agenzie di somministrazione di
+ lavoro con sede legale o operativa in Italia possono presentare domanda di ingresso per lavoro subordinato,
+ considerate al pari di un datore di lavoro o delle organizzazioni rappresentative del mondo datoriale, in caso
+ di sottoscrizione di apposito protocollo8.
+
+        Rispetto agli interventi per ridurre i tempi burocratici della procedura, il decreto legge 73/2022 ha
+ previsto in via transitoria per le domande presentate nell'ambito del decreto flussi 2022 e 2023 il rilascio del
+ nulla osta al lavoro entro 30 giorni dalla presentazione delle domande, e non più 60, mentre ha ridotto a 20
+ giorni il periodo per il rilascio del visto di ingresso da parte dei consolati. Sul piano procedurale, il decreto
+ legge 20/2023 ha modificato la disciplina ordinaria della procedura allungando il termine per il rilascio del
+ nulla osta a 60 giorni dalla richiesta anche qualora non siano state acquisite dalla questura le informazioni
+ su eventuali elementi ostativi. Se, successivamente, emerge la presenza di elementi ostativi, si procede alla
+ revoca immediata del nulla osta e del visto d'ingresso, nonché alla risoluzione di diritto del contratto di
+ soggiorno e alla revoca del permesso di soggiorno. Un'altra semplificazione rilevante per velocizzare l'impiego
+ delle persone assunte, è stata la possibilità, nelle more della sottoscrizione del contratto di soggiorno, di
+ poter svolgere l'attività lavorativa col solo nulla osta. Quindi, la persona straniera, una volta fatto ingresso
+ nel territorio italiano, può da subito cominciare a svolgere attività lavorativa, in attesa della convocazione
+ presso la prefettura competente per la stipula del contratto di soggiorno.
+
+        Il citato DPCM del settembre 2023 sui flussi ha aumentato i settori economici in cui possono essere
+ presentate domande di ingresso per lavoro, estendendoli anche ai comparti della meccanica, della cantieristica
+ navale, delle telecomunicazioni, dell'alimentare e dell'assistenza familiare e socio-sanitaria. Alcune quote,
+ inoltre, sono state riservate ai lavoratori di paesi con i quali entreranno in vigore accordi di cooperazione in
+
+          6 Circolare Min. Interno, Min. Lavoro e Min. politiche agricole, 12/10/2020
+          7 DPCM 27/9/2023
+          8 Circolare Min. Interno, Min, Lavoro, 10/8/2023
+
+14
+                                                           www.erostraniero.it - Ero Straniero
+
+materia migratoria (6.000 posti). Sono, poi, stati previsti inizialmente 1.000 i posti riservati a lavoratrici e
+lavoratori che abbiano completato programmi di formazione nei Paesi di origine.
+
+      Nell'ambito della programmazione triennale, tale DPCM ha previsto per i flussi 2023, 52.770 ingressi per
+lavoro subordinato non stagionale, 680 ingressi per lavoro autonomo e 82.550 ingressi per lavoro subordinato
+stagionale, fissando i click day per il 2, 4 e 12 dicembre 2023, con la possibilità di presentare le domande fino
+al 31 dicembre 2023. Successivamente, il DPCM del 19 gennaio 2024 ha fissato per il 18, 21 e 25 marzo i click
+day per presentare le domande per gli ingressi per i flussi 2024 (complessivamente 151.000, di cui 61.250
+per lavoro subordinato non stagionale e assistenza familiare, 700 per lavoro autonomo e 89.050 per lavoro
+subordinato stagionale), con la possibilità di presentare le domande fino al 31 dicembre 2024. I dati presi in
+considerazione nel dossier si riferiscono a questi due blocchi di domande.
+
+TABELLA 1. Riepilogo dei provvedimenti relativi ai flussi dal 2021 al 2024
+
+Click day                  Anno 2021          Anno 2022         Anno 2023       Anno 2024
+Quote totali         (DPCM 21/12/2021)  (DPCM 29/12/2022)  (DPCM 27/9/2023)  (DPCM 27/9/2023
+
+                           27/1/2022           27/3/2023         2/12/2023      e 19/1/ 2024)
+                            1/2/2022                             4/12/2023
+                                                                12/12/2023    18/3/2024
+                     69.700             82.705                                21/3/2024
+                                                                   136.000    25/3/2024
+
+                                                                                151.000
+
+Lavoro subordina-    27.700             38.705             53.450            61.950*
+to non stagionale e  42.000             44.000             82.550            89.050
+autonomo (e conver-
+sioni)
+
+Lavoro stagionale
+
+                     *lavoro subordinato non stagionale, autonomo e assistenza familiare
+
+      L'11 ottobre 2024 è stato, infine, adottato il già citato Decreto-Legge 145 del 2024, convertito in legge
+con modifiche nel dicembre 2024 e recante, tra le altre, disposizioni urgenti in materia di ingresso in Italia
+di lavoratori stranieri, del cui impatto sul sistema la campagna si occuperà nel prossimo monitoraggio,
+analizzando a fine 2025 i dati relativi agli esiti delle domande presentate nei giorni scorsi e l'impatto reale
+del provvedimento sugli ingressi.
+
+      In sintesi, il provvedimento interviene innanzitutto sulle quote, aumentando quelle per il lavoro stagionale
+previste per il 2025 e stabilendo 10.000 ingressi fuori quota, in via sperimentale, e solo per l'anno 2025, per
+lavoratrici e lavoratori da impiegare nel settore dell'assistenza familiare o sociosanitaria a favore di persone
+con disabilità o a favore di grandi anziani.
+
+      Si prevede la digitalizzazione di alcuni passaggi procedurali e alcune semplificazioni, tra cui una
+disposizione che non sarà priva di impatto sul buon esito di numerose richieste: si prevede che il preavviso
+di rigetto della domanda non si applichi ai procedimenti per il rilascio dei visti di ingresso e a quelli per il
+rifiuto o la revoca del permesso di soggiorno determinati dalla revoca del visto di ingresso per cui a chi ha
+presentato la domanda non saranno resi noti i motivi del non accoglimento dell'istanza, negando la possibilità
+
+                                                                                               15
+Ero Straniero - www.erostraniero.it
+
+ di un'eventuale integrazione di documentazione mancante. Si introduce, inoltre, un maggiore controllo
+ sull' "affidabilità" delle proposte dei datori di lavoro, attraverso una serie di limitazioni come, ad esempio,
+ la possibilità per i datori di lavoro di presentare come utenti privati fino ad un massimo di tre richieste e
+ l'irricevibilità della domanda di nulla osta da parte di quei datori di lavoro che nel triennio precedente alla
+ domanda in esame, non abbiano sottoscritto un contratto di soggiorno con il lavoratore dopo il rilascio del
+ nulla osta (è prevista una clausola di salvezza in caso di non imputabilità del motivo per cui il contratto non
+ è stato sottoscritto).
+
+        Tra le novità maggiormente rilevanti e positive, la possibilità per lavoratori e lavoratrici stagionali di
+ restare ulteriori 60 giorni in Italia dopo la fine del periodo trascorso per svolgere l'attività per cui sono stati
+ assunti al fine di trovare un nuovo impiego. L'introduzione di questa finestra temporale, anche se troppo
+ breve per consentire di trovare un nuovo impiego, appare come una prima apertura per evitare che le persone
+ straniere restino sul nostro territorio in condizione di irregolarità, rischiando l'esposizione a dinamiche di
+ precarietà e lavoro nero.
+
+        Particolare attenzione, infine, meritano le novità introdotte in tema di nulla osta per chi proviene
+ da territori "caratterizzati da elevato rischio di presentazione di domande corredate di documentazione
+ contraffatta e in assenza dei presupposti di legge", per i quali non si applica la disposizione che prevede che
+ il c.d. silenzio assenso per l'emanazione automatica del nulla osta allo scadere del termine previsto in via
+ ordinaria (60 giorni), anche se non sono state portate a termine le verifiche previste. La misura si applica da
+ subito alle domande per cittadini di Bangladesh, del Pakistan e dello Sri Lanka (fino al 31 dicembre 2025) e si
+ estende anche alle domande di nulla osta presentate nel 2024 e per le quali non è stato ancora rilasciato il visto
+ di ingresso, come emergerà nel capitolo successivo dai dati delle pratiche sospese presso le rappresentanze
+ consolari italiane in tali paesi (evidenza 2.3.2).
+
+16
+                                                                         www.erostraniero.it - Ero Straniero
+
+III-L'ANALISI DEI DATI E LE PRINCIPALI
+EVIDENZE
+
+      Nei paragrafi successivi, vengono analizzati i dati relativi ai singoli passaggi della procedura d'ingresso
+per lavoro, raccolti per evidenze, rispetto agli ingressi previsti nell'ambito della programmazione flussi
+triennale 2023-25, a partire dai click day di dicembre 2023 e marzo 2024 e complessivamente fino a fine 2024.
+
+      I dati provengono da una serie di accessi agli atti ai ministeri coinvolti nell'intera procedura, ovvero
+Ministero dell'interno, Ministero degli affari esteri e della cooperazione (Maeci) e Ministero del lavoro e
+politiche sociali, effettuati da organizzazioni promotrici della campagna Ero straniero.
+
+      In particolare, i dati ricevuti dal Ministero dell'interno - Dipartimento libertà civili e immigrazione
+relativi alle istanze e ai passaggi successivi della procedura (nulla osta rilasciati, esiti negativi, contratti
+sottoscritti e permessi di soggiorno richiesti, contributo delle organizzazioni datoriali, distinzione
+per genere e nazionalità) sono aggiornati al 25.11.2024. Alla stessa data fanno riferimento i dati sui
+permessi di soggiorno effettivamente rilasciati forniti dal Ministero dell'interno - Dipartimento di
+pubblica sicurezza.
+
+      I dati relativi ai visti e al procedimento presso gli uffici delle rappresentanze diplomatiche, ricevuti
+dall'Ufficio visti del Ministero degli affari esteri e cooperazione Internazionale, sono aggiornati al 12.12.2024.
+
+      Infine, i dati relativi alle quote effettivamente assegnate, fornito dal Ministero del lavoro e delle politiche
+Sociali, è aggiornato al 03.12.2024.
+
+      Evidenza 1 - Le domande pervenute nei click day di
+      dicembre 2023 e marzo 2024 e complessivamente nel 2024
+      - sono molto più numerose delle quote definitivamente
+      assegnate.
+
+1.1 - Rapporto tra domande/quote stabilite/quote effettivamente
+assegnate
+
+      Le domande inviate nei click day di dicembre 2023 (ingressi previsti nel settembre 2023 nell'ambito della
+programmazione flussi triennale 2023-25) sono molte di più - quasi 5 volte - delle quote stabilite dal governo,
+fissate nel numero di 131.850 (cui si aggiungono 4.150 conversioni di permessi di soggiorno di altra tipologia).
+Infatti, com'è noto, solo nei tre click day sono state inviate 592.184 istanze mentre, complessivamente nel
+corso dell'anno, ne sono state registrate 609.314.
+
+      Relativamente ai click day del 18, 21 e 25 marzo 2024 (ingressi previsti per il 2024, sempre nell'ambito
+della programmazione flussi triennale 2023-25), le domande sono cresciute ancora, con 679.953 istanze
+presentate nei soli click day, per raggiungere un totale di 717.666 nel corso dell'anno, a fronte di 146.850
+quote previste.
+
+                                                                                                                                                          17
+Ero Straniero - www.erostraniero.it
+
+TABELLA 2. Domande pervenute e quote assegnate
+
+    Procedimento           Domande       Domande     Quote stabilite  Quote definitive    % domande
+                flussi  pervenute nei  pervenute in   per ingressi        assegnate      pervenute in
+                                                                                        totale su quote
+        flussi 2023        click day        totale      131.850           127.707
+         (Click day                                                                        assegnate
+          dicembre        592.184        609.314
+                                                                                            477%
+                2023)     679.953        717.666
+        flussi 2024                                  146.850          119.890           598,6%
+          (click day
+      marzo 2024)
+
+      Bisogna tener presente, tuttavia, che accanto al dato delle quote formalmente previste nei provvedimenti
+normativi che periodicamente definiscono l'entità dei flussi in ingresso per lavoro, va considerato quello
+delle quote effettivamente assegnate, dato che la campagna ha ottenuto dal Ministero del lavoro e politiche
+sociali (al 3 dicembre 2024). Infatti, le quote non sono tutte assegnate in prima battuta dopo il click day ma
+avviene che dopo una prima assegnazione "al ribasso", ne seguano ulteriori in base al fabbisogno territoriale,
+alle domande pervenute e ai nulla osta rilasciati.
+
+      Accade inoltre che, con l'avvio della procedura, una parte delle quote assegnate non venga utilizzata
+per diversi motivi (v. infra). In questo caso, sulla base delle specifiche richieste degli Ispettorati territoriali del
+lavoro a seguito delle istanze pervenute agli Sportelli Unici per l'Immigrazione, tali quote inutilizzate vengono
+quindi redistribuite e messe a disposizione per ulteriori ingressi. Secondo i dati ricevuti dal Ministero del
+lavoro, 30.177 sarebbero le quote redistribuite per il procedimento dei flussi previsto nel settembre 2023 (click
+day dicembre 2023) e 11.370 per il 20249 (click day marzo 2024).
+
+      Nell'analisi dei dati dei paragrafi successivi, dunque, la dicitura "quote assegnate" corrisponde al totale
+delle quote che risultano effettivamente assegnate dal Ministero del lavoro rispetto ai procedimenti del
+2023 e del 2024: al 03 dicembre 2024, esse sono 127.70710 per il 2023 e 119.890 per il 2024. Se guardiamo alle
+quote inizialmente previste dal governo, è evidente che in entrambi gli anni considerati si perdono alcune
+migliaia di posti disponibili in ingresso che corrispondono ad altrettante persone che non potranno venire
+a lavorare in Italia.
+
+1.2 - Analisi per tipologia di lavoro/soggiorno, genere e nazionalità
+
+      Scendendo nel dettaglio delle domande e delle quote assegnate per tipologia di lavoro/soggiorno, si nota
+che relativamente ai flussi previsti nel settembre 2023, già nei soli click day di dicembre 2023, le istanze
+
+        9 Nella risposta della richiesta di accesso agli atti ricevuta dal Ministero del lavoro si legge che: "Questa Direzione generale
+assegna tali quote sulla base di specifiche richieste degli Ispettorati territoriali del lavoro in seguito a istanze pervenute agli Sportelli
+Unici per l'Immigrazione. Tale dato è deducibile dalla differenza tra le quote definitivamente assegnate agli Ispettorati territoriali del
+lavoro e la somma di quelle assegnate con note direttoriali prot. n. 3942 del 27 dicembre 2023 e n. 1109 del 10 aprile 2024 sulla base delle
+richieste menzionate".
+
+        10 Dati del Ministero del lavoro e politiche sociali.
+
+18
+                                                                         www.erostraniero.it - Ero Straniero
+
+per lavoro domestico superano di quasi sei volte le quote assegnate. Un esubero di domande nei click day
+rispetto alle quote che per i flussi 2024 arriva a oltre 10 volte le quote assegnate.
+
+      Se guardiamo al genere, contrariamente alle attese, anche in questo settore, sia per i flussi 2023 che per
+i flussi 2024 (con lo stesso peso percentuale), le richieste da parte di lavoratori (79% ca.) superano di gran
+lunga le istanze delle lavoratrici (21% ca.), sebbene queste siano comunque rappresentate in misura maggiore
+rispetto agli altri canali.
+
+      Quanto alle istanze per lavoro non stagionale, per i flussi 2023 sono quasi 8 volte di più delle quote
+assegnate, con la popolazione femminile a rappresentare solo il 3% delle istanze. Per i flussi 2024 le domande
+sono oltre 6 volte le quote assegnate e le donne si attestano al 4%.
+
+      Guardando poi al canale stagionale, sui flussi 2023, rileviamo il minor esubero di domande rispetto alle
+quote, nonostante lo scarto sia comunque considerevole, sia nel caso delle domande nel click day, sia nelle
+domande complessivamente registrate: oltre 3 volte le quote assegnate. Anche qui la percentuale di aspiranti
+lavoratrici è molto bassa, il 4% del totale.
+
+      Relativamente ai flussi 2024 l'esubero è più consistente: le domande sono oltre 5 volte le quote assegnate,
+mentre la componente femminile tra le istanze registrate sul canale stagionale si attesta al 5% del totale.
+
+      Se esaminiamo le domande pervenute in base alla nazionalità delle persone che intendono fare ingresso
+in Italia si nota, relativamente ai flussi 2023, una netta prevalenza delle persone originarie del Bangladesh,
+che da sole costituiscono quasi il 58% del totale delle istanze (352.562 richieste pervenute). A grande distanza
+seguono le persone di nazionalità marocchina (12% circa), indiana (poco più dell'11%) e sotto il 10% quelle di
+origine pakistana, dello Sri Lanka, egiziana (tutte intorno al 4%) e tunisina (quasi il 2%). Relativamente ai flussi
+2024, la situazione rispetto alle nazionalità più rappresentate tra le domande pervenute è sostanzialmente
+invariata, sebbene con percentuali diverse: ancora netta la prevalenza delle istanze provenienti da persone
+originarie del Bangladesh (45,8%, 328.877 domande), seguite a considerevole distanza da India (14,2%, 101.924)
+e Marocco (15,8%, 113.691) e più staccate Sri Lanka (6,6%), Pakistan (4,8%), Egitto (4,1%) e Tunisia (2,6%), tutte
+sotto il 10%.
+
+      Evidenza 2 - I nulla osta al lavoro rilasciati sono inferiori ai
+      posti disponibili.
+
+2.1 - Rapporto tra quote stabilite e nulla osta rilasciati
+
+      Per i flussi previsti nel settembre 2023 (domande inoltrate a partire dai click day del dicembre 2023),
+i nulla osta complessivamente rilasciati sono 74.445, il 56,85% delle 130.942 domande complessivamente
+lavorate dagli uffici (compresi quindi gli esiti negativi) e il 56,5% delle quote stabilite dal governo (131.850).
+
+      Per i flussi 2024 (domande inoltrate a partire dai click day del marzo 2024) la situazione appare simile,
+con 83.570 nulla osta rilasciati che rappresentano il 52,6% delle circa 158.784 domande complessivamente
+lavorate dagli uffici e il 56,9% delle quote previste (vedi tabella sotto).
+
+      Quindi, un numero consistente di domande non arriva al secondo passaggio della procedura per
+l'ingresso, e cioè il rilascio del nulla osta: di fatto decine di migliaia di quote non vengono utilizzate perché
+archiviate, revocate o rigettate ma resta da comprendere a livello procedurale il motivo di tali numeri.
+
+                                                                                                                                                          19
+Ero Straniero - www.erostraniero.it
+
+TABELLA 3. Quote stabilite e nulla osta rilasciati
+
+     Procedimento         Nulla osta rilasciati  Domande analizzate   Quote previste    % nulla osta su
+                  flussi                              (inclusi esiti                    quote previste
+                                74.445                   negativi)       131.850
+          flussi 2023                                                    146.850            56,5%
+           (Click day                                  130.947
+    dicembre 2023)                                                                          56,9%
+          flussi 2024     83.570                 158.784
+           (click day
+        marzo 2024)
+
+2.1.1 Rigetti, revoche, rinunce, archiviazioni
+
+      Gli esiti negativi (rigetti, revoche, rinunce, archiviazioni) per i flussi 2023 (click day di dicembre 2023) sono
+ben il 43,1% delle domande analizzate, una percentuale che arriva al 47,4% l'anno successivo (click day marzo
+2024). Si tratta di un dato che meriterebbe ulteriore approfondimento se solo si potesse contare su informazioni
+più specifiche riguardo le motivazioni che hanno portato all'esito negativo. Purtroppo dalle informazioni ottenute
+attraverso gli accessi agli atti non riusciamo a risalire alle motivazioni che portano all'archiviazione, revoca o rigetto.
+
+TABELLA 4. Domande elaborate ed esiti negativi
+
+    Procedimento          Nulla osta rilasciati  Esiti negativi       Domande lavorate  % esiti negativi su
+                flussi                                                                  domande lavorate
+                                                    56.497
+          flussi 2023     74.445                    75.214            130.942           43,1%
+           (Click day     83.570
+    dicembre 2023)                                                    158.784           47,4%
+          flussi 2024
+           (click day
+        marzo 2024)
+
+      Le istanze rigettate (7.240 a fronte di 74.445 nulla osta rilasciati per i flussi previsti nel settembre 2023, 12.426
+rigetti rispetto a 83.570 nulla osta rilasciati per il 2024) sono in linea con quanto rilevato nei precedenti monitoraggi
+(ad esempio relativamente al decreto flussi 2022, quando si erano registrati 2.871 rigetti per 55.084 nulla osta rilasciati).
+Guardando alle altre forme di esito negativo, siamo invece di fronte a un panorama inedito: in entrambe le annualità
+considerate, la categoria delle rinunce conta da sola il 35-36% delle istanze non andate a buon fine. Di fatto si parla
+di oltre 46.000 persone (in due anni) che non hanno concluso il procedimento e che potrebbero non aver avuto voce
+in capitolo rispetto alla loro condizione, essendo essenzialmente nelle mani del datore di lavoro lungo il corso di tutto
+l'iter per l'ingresso. Lo stesso potrebbe dirsi per le istanze archiviate: se un datore di lavoro non si presenta assieme al
+lavoratore presso il SUI, non risponde al tentativo di contatto da parte della prefettura o si rende irreperibile, di fatto
+ne fa le spese il lavoratore, il quale, anche nel caso abbia lasciato i suoi contatti digitali al SUI, potrebbe non avere
+piena contezza della procedura e dei suoi diritti, né essere in grado di utilizzare tali mezzi digitali e/o controllarli.
+
+      Se si esaminano i dati relativi agli esiti negativi per i flussi previsti nel settembre 2023, i rigetti sono
+nell'ordine di 3.600, le istanze revocate circa 7.900, quelle archiviate più di 8.500 e le rinunce quasi 12.700.
+
+20
+                                                                 www.erostraniero.it - Ero Straniero
+
+Guardando tali dati in rapporto alla cittadinanza, emerge la netta predominanza delle persone originarie del
+Bangladesh, che da sole registrano oltre 32.700 esiti negativi, il 58% circa del totale. La seconda nazionalità
+per esiti negativi è quella marocchina, con circa 6.800 domande.
+
+      Relativamente ai flussi 2024, tra gli esiti negativi 5.410 sono rigetti, 5.601 revoche, 13.464 istanze archiviate
+e sono ben 14.922 le rinunce. Il dato relativo alle principali cittadinanze interessate da esiti negativi è pressoché
+invariato: domina ancora il Bangladesh con 39.397 esiti negativi (il 52,4% del totale), seguito dall'India (13,7%)
+a grande distanza e poi ancora dal Marocco (10,5%).
+
+2.1.2 - Analisi per tipologia di lavoro/soggiorno
+
+      Il canale riservato al lavoro domestico, nonostante sia di recente istituzione, è quello che funziona meglio,
+anche perché si tratta di un numero limitato di quote a disposizione. Scendendo nel dettaglio, possiamo notare
+che, relativamente ai flussi previsti nel settembre 2023, il canale del lavoro domestico vede il rilascio del
+99,7% dei nulla osta (13.191) rispetto alle quote assegnate al settore (13.225). Il canale del lavoro non stagionale
+vede il rilascio di 21.677 nulla osta, che coprono il 67,8% delle quote (31.982), mentre il canale stagionale vede
+il rilascio di 39.577 nulla osta che rappresentano il 47,9% delle quote (82.500), in controtendenza con i decreti
+flussi precedenti e con l'annualità seguente. Infatti, per ciò che concerne i flussi 2024 il canale del lavoro
+domestico vede il rilascio di 8.842 nulla osta, il 92,1% delle quote assegnate (9.604), quello non stagionale
+il 63,6% (25.121 nulla osta su 39.616 quote) e quello stagionale del 70,1% (49.552 nulla osta su 70.670 quote).
+
+Evidenza 2.2 - Il meccanismo pare incepparsi al momento
+dell'ingresso in Italia, migliaia di lavoratrici e lavoratori con
+nulla osta e visto non arrivano sul territorio.
+
+      Quanti dei nulla osta rilasciati dalle prefetture e inviati alle rappresentanze italiane nei paesi di origine
+hanno un seguito, con il rilascio dei visti per l'ingresso in Italia? Quante persone sono ancora in attesa di
+fare ingresso nel nostro Paese?
+
+Nei dati ricevuti dal Viminale (al 25.11.2024), relativamente ai flussi previsti nel settembre 2023 (click
+
+day dicembre 2023), risulta che 11.013 persone (di cui oltre 7.000 afferenti al solo canale stagionale) sono
+
+ancora in attesa di far ingresso nel nostro
+
+Paese, su un totale di 74.445 nulla osta TABELLA 5. Domande elaborate ed esiti negativi
+rilasciati. Relativamente ai flussi per il
+
+2024, al 25 novembre 2024 sono 10.869        Procedimento        Nulla osta  Persone in attesa di fare
+le persone in attesa di fare ingresso in                 flussi  rilasciati       ingresso in Italia
+Italia su un totale di 83.570 nulla osta                                            (al 25.11.2024)
+
+rilasciati per il 2024. Possiamo supporre          flussi 2023   74.445      11.013
+però che tale numero, più basso rispetto a          (Click day   83.570      10.869
+quello del 2023 , dipenda dal minor tempo    dicembre 2023)
+a disposizione per l'esame delle pratiche          flussi 2024
+presso gli uffici competenti, dato che i            (click day
+click day risalgono al marzo 2024.               marzo 2024)
+
+                                                                                         21
+Ero Straniero - www.erostraniero.it
+
+        Passando in rassegna le nazionalità più interessate da questa "falsa partenza", troviamo lavoratori e
+ lavoratrici di 8 cittadinanze a rappresentare il 95,5% del totale: con netta predominanza delle persone di
+ origine indiana (4.297) e marocchina (3.563), seguite da Tunisia (684), Egitto (665) e Sri Lanka, insieme a
+ Albania (238), Senegal (228) e Bangladesh. Relativamente al 2024 è utile solo constatare che le nazionalità
+ maggiormente interessate sono le medesime, nello stesso ordine, con la sola eccezione del Bangladesh che
+ per i flussi 2024 si trova in diciassettesima posizione con sole 23 persone in attesa di entrare, probabilmente
+ anche in seguito alle previsione del decreto 145/2024, che ha previsto controlli rafforzati sulle pratiche e la
+ sospensione di quelle pendenti in tale paese e altri (v. infra).
+
+        Appare interessante mettere in connessione questo dato sulle persone ancora nel Paese d'origine con i
+ tempi medi delle singole rappresentanze consolari per il rilascio del visto da un lato, e con il tempo effettivo
+ che si trascorre nello step cd. di "attesa ingresso". La campagna Ero Straniero ha inviato al ministero degli
+ affari esteri una richiesta di accesso civico per approfondire meglio questo passaggio critico dell'ingresso
+ in Italia.
+
+       Evidenza 2.3 Basso il numero di visti rilasciati rispetto
+       ai nulla osta concessi e altissimo il numero dei visti non
+       ancora richiesti dopo il rilascio del nulla osta.
+
+        Cosa succede alle pratiche di richiesta visto presso le rappresentanze italiane nei paesi di origine di
+ lavoratori e lavoratrici che hanno ottenuto il nulla osta e aspettano di fare ingresso per lavorare nel nostro
+ paese? Quante e quanti di loro riescono ad arrivare in Italia e dopo quanto tempo? Su questo passaggio la
+ campagna ha deciso di soffermarsi maggiormente rispetto ai monitoraggi precedenti.
+
+        Dai dati ottenuti dal Maeci (aggiornati al 12 dicembre 2024) emerge che per i flussi previsti nel settembre
+ 2023 (click day di dicembre 2023), sono stati rilasciati complessivamente 37.790 visti, che rappresentano
+ il 50,8% dei nulla osta concessi (74.445) e il 29,6% delle quote assegnate. Tra le richieste di visto che hanno
+ avuto esito negativo sono 1.036 i visti rigettati e 587 quelli revocati.
+
+        A un anno dai click day del dicembre 2023, si nota come al basso numero di visti concessi corrisponda
+ l'alto numero di visti richiesti e non ancora rilasciati, che sono 13.552, pari al 18,2% dei nulla osta emessi e
+ al 10,6% delle quote assegnate.
+
+        Riguardo al procedimento per gli ingressi del 2024 (click day marzo 2024), come emerge dalla tabella
+ sopra, i visti rilasciati sono 24.151, pari al 28,9% dei nulla osta concessi (83.570), cui si aggiungono 1.641 esiti
+ negativi (1.200 rigetti e 441 revoche) e 1.990 visti richiesti e non concessi (il 2,4% dei nulla osta rilasciati).
+
+        A fronte di questi risultati, poi, i dati del Maeci riportano che, a dicembre 2024, i nulla osta rilasciati per i
+ flussi 2023 (click day dicembre 2023) per i quali non è stato richiesto il visto sono 45.290, mentre per i flussi
+ 2024, sono 70.509. Purtroppo non abbiamo modo di interpretare il dato con certezza poiché, se sommiamo le
+ tre categorie prese in esame (visti concessi, visti richiesti e non ancora rilasciati, nulla osta per i quali non è
+ stato richiesto il visto) e gli esiti negativi relativi, in entrambi i periodi analizzati le richieste di visto sono di
+ più dei nulla osta rilasciati. Possiamo solo supporre che questo dato comprenda anche i nulla osta che, dai
+ dati del Ministero dell'interno, risultano (come visto in precedenza) revocati, archiviati o oggetto di rinuncia,
+ per i quali quindi non è stato e non sarà emesso un visto. Sarebbe importante capire quanti di questi "nulla
+ osta senza visto" siano dovuti alle difficoltà nell'ottenimento di un appuntamento presso la rappresentanza
+ consolare e conoscere la tempistica dell'iter della pratica nei diversi passaggi.
+
+22
+                                                               www.erostraniero.it - Ero Straniero
+
+TABELLA 6. Domande pervenute e quote assegnate
+
+                          Quote  Nulla osta     Visti        Visti  Visti  Visti
+                    assegnate                           rigettati
+Procedimento                     rilasciati rilasciati              revocati richiesti non
+            flussi
+                                                                           rilasciati
+
+      flussi 2023   127.707      74.445      37.790     1.036       587    13.552
+       (Click day
+dicembre 2023)
+
+  flussi 2024       119.890      83.570      24.151     1.200       441    1.990
+   (click day
+marzo 2024)
+
+      Resta da indagare il motivo di risultati così parziali. A partire dai dati in nostro possesso e
+dall'esperienza di datori di lavoro, patronati, legali coinvolti in questi anni nella procedura sappiamo
+che una parte di queste persone è probabilmente ancora nel paese di origine in attesa di raggiungere
+l'Italia a causa dei tempi lunghissimi necessari a prendere appuntamento per presentare richiesta di
+visto o perché, ottenuto il visto, non è in grado di sostenere le spese del viaggio. Inoltre, va preso in
+considerazione l'eventuale impatto su queste pratiche del decreto-legge 145/24, approvato l'11 ottobre
+scorso, che prevede una serie di controlli preventivi e aggiuntivi anche sulle pratiche pendenti presso le
+rappresentanze diplomatiche (v. infra).
+
+2.3.1 Tempi per il rilascio del visto e incremento del personale
+
+      Volendo andare ad indagare quanto tempo è necessario per il rilascio del visto da parte delle nostre
+rappresentanze nei paesi di origine, dobbiamo considerare tutti i passaggi previsti, dal rilascio del nulla osta
+alla concessione del visto. Va considerato, quindi, che lavoratori e lavoratrici, ottenuto il nulla osta, devono
+innanzitutto prendere appuntamento per essere convocati dagli uffici della rappresentanza e fare richiesta del
+visto. Successivamente, presentata la richiesta e conclusi gli adempimenti previsti, se la richiesta va a buon
+fine, gli uffici rilasciano il visto necessario per entrare in Italia. Tutto questo iter, nel monitoraggio precedente
+della campagna, era stato quantificato in 121 giorni circa (dati Ministero dell'interno, in relazione ai flussi
+per il 2023), un tempo lunghissimo e del tutto incompatibile con i 20 giorni dalla data di presentazione della
+domanda previsti dalla legge11 e che rappresenta spesso uno stallo per lavoratrici e lavoratori e per le stesse
+aziende e famiglie che aspettano l'ingresso in Italia di queste persone.
+
+      Il dato fornito dal Maeci rispetto ai flussi che stiamo analizzando riguarda invece il tempo medio
+complessivo di trattazione delle domande di visto dal momento dell'appuntamento alla finalizzazione
+della pratica. Non rientra nel conteggio il tempo di attesa dell'appuntamento, che rappresenta generalmente
+il passaggio più problematico. Per le richieste legate agli ingressi previsti nel settembre 2023 (click day
+dicembre 2023), tale tempo è stimato in 15/16 giorni complessivamente. Andando nel dettaglio dei tempi
+
+        11 art. 42 , comma 3, D.L. 73/2022.
+
+                                                                                   23
+Ero Straniero - www.erostraniero.it
+
+medi, i tempi medi più elevati si riscontrano a Dubai, negli Emirati Arabi (con oltre 100 giorni in media) e
+nelle rappresentanze consolari in Pakistan (oltre 93 giorni a Islamabad e più di 63 giorni a Karachi), seguite
+da quella del Qatar (quasi 60 giorni) e dalle rappresentanze marocchine (oltre 69 giorni a Rabat e oltre 48 a
+Casablanca). Invece, la rappresentanza consolare di Dacca ha un tempo medio di trattazione che si attesta
+intorno ai 14 giorni.
+
+      Quanto agli ingressi previsti per il 2024, il tempo medio complessivo di trattazione della richiesta di
+rilascio di visto si attesta sui 12/13 giorni. E si conferma la media piuttosto elevata in Pakistan (65/66 giorni
+a Karachi e 24 giorni circa a Islamabad).
+
+      Rispetto alla rilevazione precedente, emerge         TABELLA 7. Addetti Ufficio visti
+una diminuzione dei tempi medi per l'elaborazione
+delle istanze visto che nel 2023 servivano 22 giorni                   Stato       Addetti Ufficio visti
+circa per la concessione del visto. Questo dato va                             secondo semestre 2024
+certamente messo in relazione con l'aumento di                 Repubblica
+organico a disposizione delle rappresentanze per la        Popolare Cine                 43
+presa in carico di queste pratiche in relazione alla
+programmazione dei flussi: sappiamo, infatti, che nel        Federazione                 25
+2023 e 2024 sono state impiegate mediamente tra 4 e                   Russa
+5 unità di personale.                                                  India              25
+                                                                                          19
+      Guardare i numeri complessivi del personale                  Turchia                18
+impiegato è ancora più utile: nel 2023 le rappresentanze                                  18
+consolari interessate da queste procedure sono 45 e                      Iran
+impiegano in media tra le 204 e le 206 unità . Nel primo
+semestre del 2024, salgono a 54 le rappresentanze e                  Brasile
+si arriva a 269 unità di personale, mentre nel secondo
+semestre arrivano a 94 le sedi e a 459 gli addetti.        Canada                            12
+
+    Approfondendo nel dettaglio i numeri degli addetti     Vietnam                           12
+
+(l'aggiornamento del dato fornito dal MAECI è al 12
+
+dicembre 2024), il maggior numero è impiegato nelle        Bangladesh                        10
+
+rappresentanze consolari cinesi (ben 43), segue la
+
+Federazione russa (25) a pari merito con l'India, che è    Nigeria                           9
+
+prima fra i paesi rappresentati in quanto a istanze per    Myanmar                           9
+
+ingresso per lavoro.
+
+                                                           Algeria                           9
+
+    Va certamente salutato con favore l'aumento
+
+del personale impiegato presso gli uffici visti e lo       Stati Uniti                       9
+
+stanziamento stabilito dal decreto legge 145/24.           d'America
+
+Tuttavia, sarebbe opportuno che le ulteriori risorse       Albania                           8
+
+stanziate dal governo fossero impiegate in modo
+
+particolare in quegli uffici che risultano maggiormente
+
+interessati non solo da un ingente numero di domande
+
+di visto, ma anche e soprattutto dalle misure introdotte
+
+nella procedura dal D.L. 145/2024 in termini di controlli
+
+ex ante.
+
+24
+                                       www.erostraniero.it - Ero Straniero
+
+2.3.2 Bangladesh, Sri Lanka, Pakistan: cosa sta succedendo dopo
+l'approvazione del D.L. 145/2024?
+
+      Risulta interessante ai fini di questo monitoraggio, andare a verificare l'impatto sulle procedure del D.L.
+145/2024 che reca, tra le altre, disposizioni urgenti in materia di ingresso in Italia di lavoratori stranieri. In
+particolare, l'articolo 3 prevede che, per lavoratori cittadini di Stati e territori caratterizzati da elevato rischio di
+presentazione di domande corredate da documentazione contraffatta o priva dei requisiti previsti dalla legge,
+non si applichi la procedura di silenzio assenso prevista per il rilascio del nulla osta al lavoro. Tali disposizioni
+si applicano fin da subito ai cittadini del Bangladesh, del Pakistan e dello Sri Lanka e si estendono anche alle
+domande di nulla osta presentate nel 2024 e per le quali non è stato ancora rilasciato il visto di ingresso.
+
+      Rispetto ai tre paesi, dai dati del Maeci al 12 dicembre 2024, emerge che i visti rilasciati rispetto ai flussi
+del 2023 (click day dicembre 2023) su un totale di 37.790, sono stati: per il Bangladesh 3.409; per lo Sri Lanka
+1.871; per il Pakistan 151. Il quadro è diverso se si guarda alla situazione dei flussi del 2024: su un totale di
+24.151 visti emessi, essi sono stati per il Bangladesh 35; per lo Sri Lanka 1.866; per il Pakistan 41.
+
+      Rispetto ai tempi della trattazione delle pratiche relative agli ingressi previsti a settembre 2023, poi,
+emerge che l'83% circa delle oltre 13.500 persone che hanno richiesto il visto e ancora non lo hanno ottenuto
+proviene dal Bangladesh. Questo numero alto non si può certamente attribuire ai tempi lunghi degli uffici per la
+trattazione delle pratiche perché abbiamo visto, per esempio, che la rappresentanza consolare di Dacca registra
+un tempo medio di trattazione delle richieste di visto di 14 giorni. Il dato, piuttosto, va messo in relazione con
+le domande sospese retroattivamente per effetto del decreto legge 145/2024: infatti, a Dacca risultano esserci
+34.959 domande sospese (su un totale di 38.039, pari quindi al 92% ca.), probabilmente in parte relative alla
+programmazione 2023 e al decreto flussi 2022 (e ancora precedenti).
+
+      Il rischio di tale situazione di stallo è che si dilatino considerevolmente i tempi del rilascio del visto per
+quelle nazionalità le cui istanze possono essere sospese. Un incremento di organico nei paesi individuati
+dal D.L. 145/2024 appare come minimo necessario. Il Bangladesh, paese "toccato" dai primi esiti del decreto
+145/24, in nona posizione per organico impiegato, vede 10 addetti a disposizione degli uffici visti ma Sri Lanka
+e Pakistan risultano averne solo 3.
+
+      D'altra parte, tornando alle istanze sospese per effetto del decreto-legge 145/2024, i numeri parlano
+chiaro. Il tempo medio di sblocco risulta essere al momento di quasi 22 giorni, sebbene i valori siano molto
+eterogenei e oscillino da 62 a 11 giorni. Le 2.450 pratiche fin qui sbloccate sono però solo il 6,4% del totale delle
+
+istanze sospese (38.039) e di esse sono solo 21 quelle definite con il rilascio del visto (lo 0,06% del totale). Le
+
+rimanenti 1.429 pur sbloccate sono ancora in trattazione. Non è quindi possibile prevedere se vi sarà una
+ulteriore dilatazione dei tempi necessari a controlli e rilascio del visto.
+
+TABELLA 8. Effetti del D.L. 145/24 sulle istanze per rilascio del visto
+
+Istanze   Totale   Istanze    Tempo                                      Istanze      Istanze
+sospese  istanze  sbloccate  medio di                                    definite  sbloccate in
+ (2024)  sospese             sblocco                                               trattazione
+                             (giorni)
+                                                                                         1429
+1.226    38.039   2.450      21,7                                        21
+
+                                                                                   25
+Ero Straniero - www.erostraniero.it
+
+      Evidenza 3. Complessivamente il tasso di successo della
+      procedura in termini di sottoscrizione dei contratti è molto
+      basso: siamo intorno al 13% per il 2023 e al 7,8 per il 2024.
+      Ancora più basso per il 2023 il tasso di successo rispetto al
+      rilascio dei permessi di soggiorno: 7,5 %. Persiste, dunque,
+      una grave condizione di precarietà anche per lavoratrici e
+      lavoratori entrati regolarmente attraverso il decreto flussi.
+
+3.1 Rapporto tra quote e permessi di soggiorno rilasciati
+
+      Guardiamo ora cosa accade nei 'passaggi conclusivi della procedura d'ingresso: lavoratori e lavoratrici,
+ottenuto nulla osta e visto, fanno ingresso in Italia e, insieme al datore di lavoro, si recano in prefettura per
+sottoscrivere il contratto di soggiorno e chiedere il rilascio del titolo che consente loro di vivere e lavorare
+nel nostro paese, ovvero del permesso di soggiorno per lavoro. Successivamente, spetta alle questure il
+rilascio effettivo di questo documento e sappiamo che può essere molto lungo il tempo che passa tra i due
+passaggi conclusivi della procedura.
+
+      Purtroppo, anche per i flussi recenti si conferma l'evidenza più grave e preoccupante riscontrata nei
+dossier precedenti. Relativamente ai flussi previsti nel settembre 2023 (click day del dicembre 2023), infatti,
+a fronte di 127.707 quote definitivamente assegnate, solo 16.188 sono state le domande finalizzate, con la
+sottoscrizione del contratto di soggiorno nelle prefetture e la richiesta di permesso di soggiorno, pari al 13% ca.
+
+      Se poi ci riferiamo al passaggio conclusivo, e cioè al rilascio materiale del permesso di soggiorno da
+parte della questura, i permessi effettivamente rilasciati12 sono stati 9.528, con un tasso di successo della
+procedura che si abbassa al 7,5%.
+
+      La situazione sui flussi del 2024 (click day di marzo 2024) è in linea con quella dell'anno precedente, pur
+tenendo in considerazione il minor tempo che hanno avuto gli uffici per l'elaborazione delle domande: 9.331
+sono i permessi richiesti, pari al 7,8% delle quote assegnate (119.890). Purtroppo, nel caso dei flussi 2024, non
+disponiamo di un dato affidabile sui permessi effettivamente rilasciati dalle questure13.
+
+      Sappiamo che il tempo che intercorre tra la prenotazione dell'appuntamento e l'effettiva convocazione
+presso lo sportello unico (SUI) della prefettura competente per la sottoscrizione del contratto di soggiorno e
+la contestuale richiesta di emissione del permesso di soggiorno può essere lungo e in alcuni casi può avere
+un peso sulla mancata conclusione della procedura. Guardando però alle domande pendenti rispetto ai
+procedimenti che stiamo analizzando, tale spiegazione non è sufficiente a giustificare un quadro del genere.
+Infatti, per i flussi 2023 si riscontrano solamente 450 appuntamenti richiesti e non ancora concretizzati in
+convocazioni, di cui il 32,7% (147) a Latina, la sola provincia sensibilmente interessata dal fenomeno. Per i
+flussi 2024 gli appuntamenti pendenti sono ovviamente di più, circa 1.324, e ancora una volta la Prefettura
+con il numero più alto di appuntamenti non concretizzati è Latina (300, il 22,6% del totale). Il problema non è
+in questo passaggio, ma nelle fasi precedenti, evidentemente.
+
+        12 Dati comunicati dal Dipartimento di pubblica sicurezza del Ministero dell'Interno al 25 novembre 2024.
+        13 Il Dipartimento di pubblica sicurezza ha fornito dati sovraordinati rispetto a quelli del Dipartimento Libertà Civili e Immigrazione
+riguardo i contratti di soggiorno sottoscritti e la contestuale richiesta di permesso di soggiorno: questo perché, probabilmente, nei 18.200
+pds che risultano rilasciati sono conteggiati permessi afferenti alla programmazione 2023.
+
+26
+                                                        www.erostraniero.it - Ero Straniero
+
+TABELLA 9. Effetti del D.L. 145/24 sulle istanze per rilascio del visto del visto
+
+Procedimento           Tipologia         PdS richiesti  Quote definitive           Tasso di successo
+            flussi                                          assegnate              (PDS richiesti su
+                                            3.924
+      flussi 2023      domestico esocio     4.379            13.225                        quote)
+                            sanitario        7.885
+       (click day                                            31.982                      29,7%
+dicembre 2023)         subordinato non                      82.500
+                           stagionale                                                    13,7%
+
+                       stagionale                                                         9,6%
+
+                       TOTALE            16.188         127.707                    12,7%
+                                         1.299           9.604                     13,5%
+        flussi 2024       domestico e    2.382          39.616
+                        socio sanitario                                             6%
+(click day marzo       subordinato non
+                2024)
+                           stagionale
+
+                       stagionale        5.650          70.670                     8%
+
+                       TOTALE            9.311          119.890                    7,8%
+
+      L'unica alternativa possibile per le decine di migliaia di persone che hanno fatto ingresso in Italia e non
+hanno potuto finalizzare l'assunzione per cause loro non imputabili è il rilascio di un permesso di soggiorno
+per attesa occupazione. Tuttavia dagli ultimi dati a disposizione della campagna, aggiornati al gennaio 2024
+e inseriti nel dossier dello scorso aprile, emerge che il ricorso a tale possibilità è decisamente insufficiente
+rispetto all'altissimo numero di persone coinvolte nella procedura e rimaste senza documenti: solo 146
+permessi per attesa occupazione sono stati rilasciati rispetto agli ingressi nel 2022, mentre per gli ingressi
+nel 2023, ne risultano 84 (fino a gennaio 2024). Nonostante la richiesta reiterata da parte della campagna,
+il ministero dell'interno non ha fornito i dati di dettaglio sul rilascio di questo permesso di soggiorno in
+relazione ai flussi, aggiornati alla fine del 2024.
+
+3.2 Analisi per tipologia di lavoro/soggiorno
+
+      Se confrontiamo i contratti sottoscritti con il numero di posti a disposizione per ciascuno dei tre canali
+previsti (stagionale, non stagionale e lavoro domestico e socio-sanitario) notiamo che: relativamente ai flussi
+2023, per il canale del lavoro domestico e socio-assistenziale, a fronte di 13.225 posti disponibili, i contratti di
+soggiorno sottoscritti e i permessi richiesti costituiscono il 29,7% (3.924); per il canale non stagionale, dei 31.982
+posti a disposizione, solo il 13,7% (4.379) si sono tramutati in contratti; mentre rispetto al canale stagionale, su
+82.500 posti disponibili, i contratti di soggiorno sottoscritti sono 7.885, il 9,6% del totale. Nonostante il tasso
+di successo sia generalmente basso, emerge il miglior funzionamento del canale del lavoro domestico e
+socio-assistenziale in rapporto alle quote assegnate.
+
+                                                                                          27
+Ero Straniero - www.erostraniero.it
+
+      Interessante segnalare che in questo contesto, caratterizzato in generale da un basso tasso di successo
+della procedura, assume rilevanza la semplificazione introdotta con il canale riservato alle associazioni
+datoriali che non prevede il passaggio del rilascio del nulla osta (v. infra).
+
+      La situazione appena descritta si ripete anche analizzando la programmazione 2024: rispetto al canale del
+lavoro domestico e socio-assistenziale, a fronte di 9.604 posti disponibili, i contratti di soggiorno sottoscritti e i
+permessi richiesti costituiscono il 13,5% (1.299). Per il canale non stagionale, i contratti di soggiorno sottoscritti
+rappresentano solo il 6% delle quote (2.382 su 39.616,); mentre rispetto al canale stagionale, su 70.670 posti
+disponibili, i contratti di soggiorno sottoscritti sono 5.650, l'8% del totale.
+
+           Quote, contratti sottoscritti e tasso di successo per canale e complessivo
+
+140000   29,7%                                                       127.707 35%
+120000
+                                                                                   30%
+
+100000                                                                                      25%
+ 80000
+                                                     82.500
+
+                                                                                            20%
+
+60000                                13,7%                           12,7%  15%
+
+40000                                        31.982   9,6%                                10%
+                                                     7.885
+20000           13.225               4.379                           16.188
+      0  3.924                                           stagionale
+                                       subordinato                                        5%
+           domestico e               non stagionale
+         socio sanitario                                                                  0%
+
+                                                                          TOTALE
+
+         PsS richiesti
+                   Tasso di successo (PdS richiesti su quote)
+
+3.3 Le associazioni datoriali si confermano un elemento di
+semplificazione, con aumento dell'efficacia in termini di contratti
+sottoscritti
+
+      Al fine di agevolare e velocizzare l'ingresso di lavoratori e lavoratrici stagionali e far fronte al bisogno
+del mondo produttivo, a partire dal 2022, una quota di domande per lavoro stagionale è stata riservata
+alle associazioni datoriali (settori agricolo e, dal 2023, anche turistico), alle quali è stata riconosciuta
+una corsia preferenziale per accedere alla procedura e inviare le domande. Con la programmazione
+del settembre 2023, sono state definitivamente assegnate 27.781 quote (di cui solo 575 per turismo, le
+
+28
+                                                                         www.erostraniero.it - Ero Straniero
+
+rimanenti 27.206 in agricoltura) e per il 2024 ne sono state distribuite 43.424 (36.817 in agricoltura e
+6.607 nel turismo).
+
+      Volendo verificare l'efficacia di questo intervento normativo che prevede la mediazione delle
+associazioni datoriali, prendiamo in considerazione il numero di domande andate a buon fine con la
+sottoscrizione del contratto rispetto alle quote riservate alle associazioni: con i flussi 2023 i contratti
+sottoscritti grazie alla mediazione delle organizzazioni datoriali sono stati 9.025 su 27.781 quote, con
+un tasso di efficacia più alto rispetto alla "procedura ordinaria" e pari al 32,5%, nonostante un tasso di
+esiti negativi molto alto (54,6%). Inoltre, è interessante mettere in relazione i contratti sottoscritti tramite
+le associazioni (9.025) con il totale dei contratti sottoscritti nell'ambito dello stesso procedimento del
+2023 (16.188): dal confronto si evince il 55,8% dei contratti di soggiorno è stato sottoscritto per mezzo
+delle associazioni datoriali.
+
+      Scendendo nel dettaglio del singolo canale, possiamo ravvisare un contributo delle associazioni
+datoriali (a dispetto di quanto indicato dalla norma che sancisce che l'intermediazione sia limitata al
+lavoro stagionale) anche per il lavoro di assistenza alla persona e per quello subordinato non stagionale:
+nel primo caso parliamo infatti di ben 1.469 pratiche finalizzate con la richiesta di permesso di soggiorno
+sul totale di 3.924, grazie alla mediazione delle associazioni di categoria (oltre il 37%); nel secondo si tratta
+di un contributo pari a 949 pratiche finalizzate (quasi il 22%) su un totale di 4.379. Il massimo contributo
+ovviamente si ritrova sul canale del lavoro stagionale, individuato dalla legge come destinato alla
+mediazione delle associazioni: sono 6.607 (l'84% circa) su 7.885 richieste totali di permessi di soggiorno
+quelle avvenute grazie alla semplificazione introdotta e che non prevede il rilascio del nulla osta.
+
+      Relativamente ai flussi 2024 la situazione è simile: i permessi richiesti in questo ambito sono
+stati 5.518 su 43.424 quote, con un tasso di efficacia più alto rispetto alla procedura ordinaria e pari al
+12,7%, nonostante una percentuale di esiti negativi sulle domande analizzate molto alta, pari al 68% del
+totale delle domande. Inoltre, anche nel 2024, sul totale dei contratti di soggiorno sottoscritti, il 59,1%
+è avvenuto per domande presentate tramite le associazioni. Se ci limitiamo a considerare il canale
+stagionale, il solo su cui teoricamente interviene la mediazione delle organizzazioni di categoria, sono
+5.650 i contratti sottoscritti in prefettura complessivamente e 4.775 i permessi per lavoro stagionale
+richiesti con l'aiuto delle organizzazioni datoriali, che rappresentano l'84,5% dei permessi stagionali%.
+In realtà, anche nel 2024 le associazioni di categoria hanno avuto una corsia preferenziale nel canale
+non stagionale dell'assistenza alla persona (domestica e socio-sanitaria): attraverso tale corsia sono
+stati sottoscritti 304 contratti su un totale di 1.299 permessi richiesti sul medesimo canale (23,4%) .
+Allo stesso modo sembrano aver avuto un ruolo anche nel caso del lavoro subordinato non stagionale:
+sono 439 i contratti sottoscritti senza rilascio di nulla osta su un totale di 2.382 permessi richiesti,
+poco più del 18%.
+
+     3.4 Uno sguardo ai settori produttivi
+
+      Guardiamo ora i dati forniti dal ministero dell'interno (a febbraio 2025, in seguito a richiesta di riesame
+e con una rilevazione che possiamo situare a inizio 2025 e per questo diversi da quelli precedentemente
+analizzati) relativi ai settori lavorativi nei tre canali previsti (stagionale, non stagionale e lavoro domestico
+e socio-assistenziale) in relazione alle pratiche concluse (con la sottoscrizione del contratto di soggiorno e
+la richiesta di permesso di soggiorno). In riferimento al procedimento di settembre 2023 (click day dicembre
+2023), emerge che il canale con il numero maggiore di permessi richiesti è quello del lavoro stagionale
+con 8.210 contratti di soggiorno sottoscritti pari al 48,5% del totale. Di questi, oltre l'88% riguarda il settore
+
+                                                                                                                                                          29
+Ero Straniero - www.erostraniero.it
+
+Tabella 10. Organizzazioni datoriali
+
+Procedimento Quote        Domande       Esiti   Domande    % esiti     Pds     Contributo su  Tasso di
+                                      negativi   lavorte  negativi  richiesti  Pds comples-   successo
+    flussi assegnate pervenute
+                                                                                 sivamente
+                                                                                  rilasciati
+
+    flussi 2023   27.781  144.063     10.867    19.892    54,6%     9025       55,8%          32,5%
+     (click day   43.424  164.395     11.749    17.267     68%      5.518      59,1%          12,7%
+      dicembre
+
+           2023)
+
+    flussi 2024
+     (click day
+
+          marzo
+           2024)
+
+dell'agricoltura, il rimanente 12% circa il turismo. Il contributo delle organizzazioni datoriali è fondamentale
+per il settore agricolo: i contratti sottoscritti con il tramite delle associazioni di categoria sono oltre il 90%
+(6.515 su 7.233); mentre per il settore turistico il contributo delle organizzazioni datoriali si attesta intorno
+al 33,5%. Il canale del lavoro non stagionale conta 4.599 contratti di soggiorno sottoscritti: in generale i
+settori maggiormente rappresentati su questo canale sono l'edilizia con 2.789 contratti (il 60,6% del totale dei
+contratti non stagionali), seguita dalla meccanica (545; 11,9% del totale non stagionale), dal settore turistico
+(442 contratti, 9,6% del totale non stagionale) e dal settore alimentare (309 contratti, 6,7%). Anche in questo
+caso si registra un sostegno non irrilevante delle associazioni datoriali (982 permessi di soggiorno richiesti, il
+21,4% del totale dei permessi non stagionali). Interessante notare che oltre la metà (591) dei permessi richiesti
+tramite le associazioni sul canale non stagionale siano relativi al settore dell'edilizia, seguito in questo caso
+dal settore della meccanica (128) e dal turismo (91). Quanto al terzo canale dell'assistenza alla persona, la
+mediazione delle associazioni di categoria ha garantito la sottoscrizione di ben 1.533 contratti afferenti al
+settore dell'assistenza domestica (e 81 su 216 nel caso dell'assistenza sociosanitaria): oltre il 37%.
+
+      Analizzando i settori lavorativi relativi al 2024 (click day di marzo 2024), in riferimento alle pratiche
+concluse e ai permessi di soggiorno richiesti si può notare che su un totale di 10.297 contratti di soggiorno
+sottoscritti e permessi richiesti, il canale con il tasso maggiore di successo è quello del lavoro stagionale
+(6.138), pari a quasi il 60% del totale. Di questi permessi quasi l'86% è stato richiesto nel settore dell'agricoltura,
+il rimanente 14% nel turismo. Il contributo delle organizzazioni datoriali è rilevante per il settore agricolo:
+i contratti sottoscritti con il tramite delle associazioni di categoria sono oltre il 90% (4.769 su 5.267); mentre
+per il settore turistico il contributo delle organizzazioni datoriali si attesta intorno al 46,2%.
+
+      Il canale del lavoro non stagionale conta 2.711 contratti di soggiorno sottoscritti: i settori maggiormente
+rappresentati su questo canale sono l'edilizia con 1.663 contratti (il 61,3% del totale dei contratti non stagionali),
+seguita dal turismo (318, 11,7% del totale non stagionale), dal settore della meccanica (283 contratti, 10,4% del
+totale non stagionale) e dal settore alimentare (185 contratti, 6,8%). Le pratiche seguite dalle associazioni
+datoriali contribuiscono con 478 permessi richiesti tramite tale canale (17,6% del totale dei permessi non
+stagionali). Interessante notare che oltre la metà di tali permessi (268) siano relativi al settore dell'edilizia,
+seguito anche in questo caso dal turismo (68) e dal settore alimentare (51).
+
+30
+                                                                         www.erostraniero.it - Ero Straniero
+
+      Per concludere, il canale dell'assistenza alla persona vede i contratti relativi al settore dell'assistenza
+domestica essere la quasi totalità, 1.377 su 1.448 totali, pari al 95% circa. Solo 71 i contratti nel settore socio-
+sanitario. Anche su questo canale lavorativo, come anticipato, è da notare che la mediazione delle associazioni
+di categoria garantisce la sottoscrizione di 326 contratti afferenti al settore dell'assistenza domestica , oltre
+il 23%, e 20 su 71 nel caso dell'assistenza sociosanitaria.
+
+                                                                                                                                                          31
+Ero Straniero - www.erostraniero.it
+
+32
+                                                                         www.erostraniero.it - Ero Straniero
+
+IV-LA PAROLA ALLE PERSONE
+
+      Anche in occasione di questo nuovo dossier, abbiamo ritenuto importante dare la parola a lavoratrici
+e lavoratori, imprese e datori di lavoro, operatori legali, agenzie di intermediazione private, patronati e
+associazioni di categoria che hanno partecipato con generosità alla raccolta delle presenti interviste14.
+Coinvolti direttamente nella procedura del decreto flussi nei diversi ruoli, ci offrono testimonianze e storie che
+fanno emergere in tutta la loro chiarezza e spesso drammaticità quali sono le conseguenze reali sulla vita
+delle persone di un sistema che non funziona, non solo nei suoi aspetti procedurali, ma anche e soprattutto
+nel suo impianto complessivo.
+
+      Le testimonianze sono state raccolte tra ottobre 2024 e la prima metà di gennaio 2025 e attengono
+principalmente alle domande presentate nei click day di dicembre 2023 e marzo 2024, anche se vi sono già
+esperienze riguardanti le domande precompilate in vista del click day di febbraio 2025.
+
+      Le testimonianze sono riportate utilizzando nomi non reali per proteggere le fonti.
+
+      Il decreto flussi, di fatto, è un sistema di chiamata a distanza di un lavoratore o una lavoratrice da parte
+di un datore di lavoro o di un'associazione di categoria. In che modo i datori di lavoro entrano in contatto
+con il lavoratore o la lavoratrice che hanno chiamato dall'estero?
+
+Rappresentanti di associazioni e operatori/operatrici del privato
+
+  » Federico, associazione di categoria: "Per la mia esperienza, le aziende scelgono i lavoratori da far
+
+               entrare attraverso il decreto flussi affidandosi a lavoratori stranieri già presenti in azienda che in
+               qualche modo "garantiscono" per i parenti o gli amici che vivono nel paese estero. Infatti, nessuna
+               azienda assumerebbe qualcuno di cui non ha conoscenza diretta senza rassicurazioni sostanziali
+               in merito alle sue competenze o caratteristiche personali."
+
+  » Giorgio, associazione di categoria: "In molti casi le figure professionali di assistente alla persona
+
+               che vengono chiamate attraverso i flussi sono già lavoratori e lavoratrici presenti nel territorio
+               italiano e che magari erano stati assunti in nero. È comprensibile: una persona non autosufficiente
+               come potrebbe prendere in casa e far entrare nella sua intimità qualcuno che non conosce,
+               che non ha mai visto? È ovvio che per lavori così delicati vorrebbe assumere una persona con
+               cui si trova bene, di cui ha fiducia. Queste domande portano con sé un investimento emotivo
+               molto forte, non sono affatto domande asettiche. Noi che lavoriamo nel settore siamo, pertanto,
+               emotivamente sollecitati, perché chi ci chiede di lavorare la pratica ci racconta spesso storie
+               difficili e ci sentiamo coinvolti e in qualche modo responsabili se qualche cosa della procedura
+               andasse male per nostra responsabilità. Ci sono poi altri casi in cui le richieste attraverso i flussi
+               sono in realtà ricongiungimenti familiari mascherati, in quanto la legislazione italiana permette
+
+        14 Ringraziamo per la disponibilità e il supporto nella raccolta delle interviste CNCA, Oxfam Italia Intercultura, CIA- Agricoltori
+Italiani, Gruppo Europa Firenze Nord, Bertolotti S.p.A. e tutti gli altri soggetti che, pur avendo dato un prezioso contributo, hanno scelto
+di non essere citati.
+
+                                                                                                                                                          33
+Ero Straniero - www.erostraniero.it
+
+                il ricongiungimento ex lege solo con categorie molto limitate di familiari. Faccio un esempio: un
+                figlio maggiorenne, che non sia portatore di disabilità, non è considerato familiare ricongiungibile
+                e i genitori stranieri regolarmente soggiornanti in Italia potrebbero tentare di fargli avere un visto
+                di ingresso come collaboratore domestico di una famiglia di loro conoscenza"
+
+   » Alessio, agenzia privata: "Prevalentemente, nella mia esperienza, i lavoratori chiamati attraverso il
+
+                decreto flussi sono già presenti nel territorio italiano, quindi sono già conosciuti e a volte impiegati
+                senza contratto dal datore di lavoro. Il meccanismo dei flussi li porta, dopo che è stata inoltrata la
+                domanda, a dover tornare nel proprio paese di origine e rientrare a seguito dell'ottenimento del visto.
+                Secondariamente, vi sono familiari nel territorio italiano già impiegati presso il datore di lavoro
+                che "garantiscono" per il loro parente o amico presso il datore di lavoro stesso. In terz'ordine i datori
+                di lavoro vengono pagati (non meno di 3.000 euro) dall'intermediario per assumere una persona".
+
+   » Mario, associazione di categoria: "Spesso i flussi sono una sorta di sanatoria rivisitata, perché i
+
+                lavoratori sono già nel territorio italiano. Mi è capitato di recente il caso di una signora peruviana
+                che da tanti anni lavorava in Italia come badante in maniera irregolare. Quando sono state previste
+                le quote nel decreto flussi, la persona che l'aveva alle dipendenze nell'ultimo periodo ha deciso di
+                legalizzare la sua posizione. Questa signora, ottenuto il nulla osta, è tornata in Perù per prendere
+                il visto di ingresso, lasciando provvisoriamente il suo lavoro e tutti i suoi effetti personali. Per
+                questioni riguardanti, da quanto ho capito, l'incongruenza dei visti di ingresso con la richiesta
+                effettuata, l'Ambasciata italiana le ha rifiutato il visto e non è potuta tornare in Italia".
+
+Aziende e datori/datrici di lavoro privati
+
+   » Virginia, responsabile risorse umane di una impresa: "Noi abbiamo una azienda di 135 dipendenti
+
+                ed esportiamo in tutt'Europa. Non abbiamo mai provato a prendere personale attraverso i flussi di
+                ingresso, in parte perché non ci sono dei programmi di formazione specifici o dei canali privilegiati
+                per reperire dall'estero il personale necessario e, onestamente, un'altra cosa che ci ha scoraggiati
+                fortemente è proprio la burocrazia, le difficoltà e la lunghezza che questo processo comporta.
+                Quando devo fare un piano di inserimenti del personale lo devo fare rapidamente e inserirmi
+                in una procedura di flussi dall'estero di cui non ho nemmeno certezza del buon esito significa
+                una perdita di tempo insostenibile per un'azienda. O c'è una ragionevole certezza che la figura
+                professionale chiamata possa entrare e che l'autorizzazione all'ingresso sia data in tempi certi,
+                che possono essere un mese, un mese e mezzo, oppure non è per me sostenibile. Inoltre, è un dato
+                di fatto che è burocraticamente già difficile assumere e far lavorare persone straniere presenti nel
+                territorio, il che mi scoraggia molto dal fare richieste di ingresso quando sono ancora all'estero.
+                Ho avuto una lavoratrice libanese e un lavoratore siriano altamente specializzati e fargli avere
+                un permesso di soggiorno e idoneo titolo per viaggiare per recarsi all'estero in trasferte di lavoro
+                è stato un processo durissimo. Eppure per l'azienda era fondamentale che si recassero all'estero,
+                era parte integrante del loro lavoro. Secondo me tutta la legislazione in materia di migranti non
+                ti spinge all'assunzione di un lavoratore straniero, anche quando sono necessari perché non ci
+                sono gli italiani disposti a fare quel lavoro, perché devi andare incontro a mille ostacoli e non tutti
+                hanno il tempo e la pazienza di affrontarli".
+
+   » Filippo, datore di lavoro privato: "Nel mio caso ho fatto una richiesta di entrata per un lavoratore che
+
+                faccia assistenza a mio padre. La persona che mio padre vuole assumere è in Italia, era titolare di
+                un regolare permesso di soggiorno che, però, durante il COVD è scaduto e adesso, dopo tanto tempo,
+
+34
+                                                                         www.erostraniero.it - Ero Straniero
+
+               non ha modo di regolarizzarsi. È una persona integrata, che conosce bene la lingua e il territorio,
+               con gran parte della famiglia di origine in Italia e un rapporto di lavoro disponibile, eppure non
+               può fare niente, se non tornare a casa e sperare che la procedura di richiesta di entrata vada a buon
+               fine. E in tutto ciò, mio padre rimarrà senza badante per tanto tempo".
+
+Lavoratori e lavoratrici
+
+  » Yunus, cittadino pakistano: "Io non conoscevo il mio datore di lavoro, ma un mio parente lavorava
+
+               per la stessa azienda agricola che poi mi ha assunto con un contratto di lavoro stagionale prima
+               e che poi, dopo aver visto come svolgevo il mio lavoro, mi ha assunto a tempo indeterminato,
+               permettendomi così di convertire il mio titolo di soggiorno in permesso per lavoro subordinato.
+               La stessa azienda ha anche chiamato mio fratello minore, adesso, dopo che io gli ho parlato di
+               lui, della sua affidabilità e del suo stato di bisogno. Se non avessi fatto questa intercessione, mio
+               fratello non avrebbe di certo avuto questa opportunità."
+
+      Il primo step della procedura prevista dal decreto flussi prevede l'invio da parte del datore di lavoro
+della richiesta di assunzione di una lavoratrice o un lavoratore in specifiche date predeterminate dal decreto
+stesso, il cosiddetto click day. La procedura del click day, è chiara ed efficace?
+
+Rappresentanti di associazioni e operatori/operatrici del privato
+
+  » Umberto, associazione di categoria: "Il sistema del click day è davvero frustrante. Lo definirei una
+
+               lotteria, una sorta di estrazione casuale. Nei primi secondi di apertura si gioca la vita di migliaia
+               di persone. E questo dipende da quale computer funziona meglio in una stessa stanza o da quando
+               e come il sistema informatico si incepperà dopo aver ricevuto decine di migliaia di domande in
+               pochi secondi. E come puoi spiegare alle persone che hanno investito come minimo soldi e tempo
+               nella domanda, che si sono affidati a te, che non sei riuscito a inoltrare in tempo la loro richiesta?
+               Che magari hai impiegato 20 secondi in più di quanto ha impiegato qualcun altro e che per questo
+               il loro lavoratore non avrà diritto ad entrare nel territorio italiano?"
+
+  » Alessio, operatore di agenzia privata: "Il sistema del click day è assurdo. Mi è capitato poco tempo
+
+               fa che un commercialista mi chiamasse per dirmi che aveva inviato la domanda di ingresso per
+               un lavoratore come da richiesta della sua azienda ed era stupito di non aver avuto alcun problema
+               nell'invio, di aver inoltrato la domanda senza particolari complessità... ma poi gli ho fatto notare
+               che aveva fatto la domanda sulle quote del decreto flussi vecchio, per cui il sistema informatico
+               permetteva di inviare le richieste fino a dicembre 2024 peccato, però, che le quote fossero già
+               abbondantemente esaurite"
+
+  » Federico, associazione di categoria: "Il click day è un momento molto critico perché tutto il blocco
+
+               di domande viene inviato insieme e il sistema telematico non tiene conto di tutto questo pesante
+               afflusso. Sono 200mila domande che arrivano nei primi 10 minuti dall'apertura della procedura"
+
+  » Lucia, operatrice di Sportello: "Negli anni abbiamo preso in carico sempre meno domande di
+
+               ingresso per lavoratori stranieri attraverso il click day, perché ci creavano una situazione difficile
+               da gestire. Come operatrice hai una grossa responsabilità anche perché il portale per l'invio delle
+               domande non funziona bene, occorre inviare la richiesta appena si apre lo slot, nel secondo specifico
+
+                                                                                                                                                          35
+Ero Straniero - www.erostraniero.it
+
+                dell'apertura, e rischi che tante procedure non vadano a buon fine solo per problemi di tenuta
+                del sistema che non riesce a gestire tante domande tutte insieme. Inoltre, negli anni, abbiamo
+                visto che, nonostante conoscessimo persone e aziende che effettuavano richieste di personale
+                attraverso i flussi di ingresso, nella maggior parte dei casi non hai certezza che il datore di lavoro
+                non prenda dei soldi in cambio della promessa di contratto e non volevamo sostenere un sistema
+                che ci rendesse complici di alcune pericolose dinamiche. Non hai mai certezza di ciò che succede".
+
+        Una volta ottenuto il nulla osta ed il visto, le persone in linea di principio possono finalmente arrivare
+ in Italia. È così semplice ed immediato il passaggio o vi sono difficoltà nella richiesta del visto di ingresso?
+
+Rappresentanti di Associazioni e Operatori/Operatrici del privato
+
+   » Giorgia,operatricediSportello: "I nulla osta arrivano in tempi brevi, mentre è necessario solitamente
+
+                attendere molto per il rilascio del visto di ingresso da parte dell'Ambasciata Italiana nel paese di
+                provenienza del lavoratore, che a volte arrivano anche a coprire molti mesi".
+
+   » Alessio, operatore di Agenzia privata: "Vi sono molte difficoltà nell'ottenimento del visto di ingresso
+
+                per lavoratori stranieri connesse soprattutto ad alcuni Paesi. Per esempio Marocco, Tunisia ed
+                Egitto hanno format online da compilare per la richiesta di appuntamento, ma quasi sempre
+                l'appuntamento arriva dopo più di un anno, anche per lavori stagionali. So di pagamenti fatti
+                sottobanco per agevolare la procedura. Albania e Kosovo di solito sono veloci, ad esempio lo Sri
+                Lanka mi risulta che sia veloce solo se paghi perché ti venga fissato l'appuntamento"
+
+   » Rita, avvocata: "In molti paesi non sono direttamente le ambasciate a gestire gli appuntamenti, ma
+
+                lo fanno le agenzie locali con cui le ambasciate hanno stipulato specifici contratti. A parte il fatto
+                che possono essere soggetti non controllabili in maniera diretta e pertanto facilmente corruttibili,
+                spesso impiegano tantissimo tempo a rilasciare gli appuntamenti. A volte, abbiamo notato, il tempo
+                del rilascio viene calcolato a partire da quando l'ambasciata di fatto viene coinvolta nella procedura,
+                cioè da quando l'agenzia intermediaria ha fissato il primo appuntamento con il lavoratore, per cui
+                sembra, vedendo il livello di performance delle ambasciate, che i mesi occorrenti per il rilascio del
+                visto siano meno di quanto sia in realtà, sommando il tempo intercorso per avere l'appuntamento
+                in agenzia e quello, successivo, per ritirare il visto in ambasciata"
+
+Lavoratori e lavoratrici
+
+   » Mohamad, cittadino pakistano: "Io sono fortunato. Sono entrato con i flussi di lavoro stagionale.
+
+                Prima il datore di lavoro ha fatto la richiesta di nulla osta, che è arrivata velocemente, ha impiegato
+                circa un mese. Il problema è stato il passo successivo e, cioè, riuscire a contattare l'ambasciata
+                italiana in Pakistan. Per prendere appuntamento per il rilascio del visto, devi scrivere ad una
+                agenzia esterna che spesso non ti risponde. A me ha risposto dopo 5 mesi e 15 giorni: appena 15
+                giorni prima dello scadere del mio nulla osta. Molte persone che conosco, compreso mio zio, non
+                sono potute arrivare in Italia perché non sono riuscite a dimostrare di aver preso appuntamento
+                per la richiesta del rilascio del visto di ingresso prima dello scadere dei 6 mesi dall'ottenimento del
+                nulla osta. Il periodo intercorso tra la richiesta di nulla osta e il mio arrivo è stato complessivamente
+                di 1 anno e 1 mese. Per fortuna un mio parente lavorava già nell'azienda che aveva fatto la richiesta
+
+36
+                                                                         www.erostraniero.it - Ero Straniero
+
+               per me e il datore di lavoro ha accettato di prendermi anche dopo tutto questo tempo perché si
+               fidava di lui"
+
+Aziende e datori/datrici di lavoro privati
+
+  » Filippo, datore di lavoro privato: "Ci sono governi, come quello filippino, che fanno una sorta
+
+               di rastrellamento di denaro, cioè chiedono soldi, per rilasciare l'autorizzazione a partire per
+               chi deve entrare in Italia. Il meccanismo funziona così: la richiesta di visto viene inviata dal
+               lavoratore all'Agenzia convenzionata con l'Ambasciata italiana come quasi sempre accade,
+               ma, in questi Paesi, oltre questo passaggio, perché il visto venga effettivamente rilasciato,
+               occorre che il governo dia una sorta di via libera. Il via libera viene fornito a fronte della
+               presentazione da parte del lavoratore di una serie di documenti assolutamente inutili e non
+               certo richiesti dal nostro sistema, come il casellario giudiziale e dei carichi pendenti, che
+               non solo ritardano il rilascio dei visti, ma impongono il pagamento tra i 1000 e i 2000 euro
+               aggiuntivi al lavoratore".
+
+      In base alla sua esperienza, può ipotizzare le motivazioni per cui persone che hanno ottenuto il visto
+non riescono poi a fare ingresso in Italia?
+
+Rappresentanti di Associazioni e Operatori/Operatrici del privato
+
+  » Federico, associazione di categoria: "A fronte di un nulla osta rilasciato, i lavoratori a volte
+
+               è come se sparissero. Non sappiamo se siano andati avanti nella pratica richiedendo il
+               visto di ingresso oppure no. Non sappiamo se siano entrati effettivamente in Italia oppure
+               no. Spariscono nel nulla. Nell'ultima azienda agricola che ho seguito se ne sono presentati
+               7 su 15. Immagino che in questi casi vi siano le più svariate motivazioni: spostamenti sul
+               territorio, truffe ai loro danni, richieste di pagamento non soddisfatte o che possano essere
+               prelevati all'arrivo in Italia per fare altro, aumentando la lista degli irregolari".
+
+  » Giorgio, associazione di categoria: "A volte le persone hanno difficoltà che non possiamo
+
+               immaginare. Nella nostra mente il percorso che un lavoratore straniero deve seguire per
+               entrare in Italia è agevole. E invece sento racconti di gente che vive lontanissima dalla
+               capitale, dove deve recarsi per richiedere un appuntamento all'ambasciata o presentare
+               la documentazione per il rilascio del visto e che ha difficoltà a recarsi presso gli uffici e, a
+               volte, ad aspettare molti mesi nella capitale che il visto gli sia consegnato. Magari vengono
+               chiesti a queste persone soldi aggiuntivi, oppure a volte, per evitare di andare di persona,
+               si affidano a corrieri che non funzionano, che dicono di perdere la documentazione perché
+               un passaporto con un visto italiano fa gola e possono rivenderlo, o ad Agenzie che sono
+               connesse con reti criminali. Tutte le cose a cui accenno mi sono state raccontate da persone
+               giunte in Italia".
+
+      Una volta che la persona lavoratrice chiamata attraverso i flussi è entrata in Italia, riesce a finalizzare
+agevolmente il contratto di lavoro e a legalizzare la propria posizione?
+
+                                                                                                                                                          37
+Ero Straniero - www.erostraniero.it
+
+Lavoratori/ lavoratrici
+
+   » Imran, cittadino bengalese: "Ho pagato 20 mila euro un mediatore per entrare in Italia, un bengalese
+
+                con agenzia in Italia che assicurava di avere delle ditte che potevano assumermi. Ha trovato un
+                datore di lavoro disposto ad assumermi nel settore alberghiero, ma è emerso che non fosse in regola
+                con il DURC (regolarità contributiva) e non siamo potuti andare a registrare il primo ingresso in
+                Prefettura. Ho aspettato molti mesi senza poter accedere ad un altro lavoro, perché potevo lavorare
+                solo per il datore di lavoro che aveva portato avanti la procedura e non avevo accesso al permesso
+                di soggiorno o all'assistenza sanitaria. Ho lavorato in nero in un altro settore, ma ero disperato.
+                Per fortuna sono entrato in contatto con uno Sportello che mi ha aiutato ad avere un permesso di
+                soggiorno per attesa occupazione".
+
+   » Tanvir, lavoratore bengalese: "Ho pagato circa 18 mila euro per arrivare in Italia. Il mio sogno
+
+                era andare a lavorare in Europa per aiutare la mia famiglia e una persona, in Bangladesh, mi ha
+                detto che aveva un parente in Italia che si occupava proprio degli ingressi legali nel territorio, che
+                avrebbe potuto trovarmi un buon posto di lavoro e una casa offerta dallo Stato italiano a fronte di
+                un iniziale pagamento che sarebbe servito per pagare il governo italiano stesso, il datore di lavoro,
+                il biglietto aereo e gli intermediari. Mi ha detto che aveva aiutato tanti connazionali. Per iniziare
+                la procedura ho dovuto versare 8 mila euro subito, i rimanenti li ho versati prima del rilascio
+                del visto di ingresso. Il passaporto, finché non ho pagato l'ultima tranche, mi è stato requisito da
+                quello che seguiva la mia procedura in Bangladesh. Mi sono indebitato io e ho fatto indebitare
+                molti membri della mia famiglia e sono preoccupato per loro, perché i soldi da restituire alla banca
+                aumentano di giorno in giorno con il maturare degli interessi. Sono entrato con un visto per lavoro
+                subordinato. Invece che trovare il datore di lavoro al mio arrivo in Italia come mi era stato detto,
+                sono stato prelevato in aeroporto dal connazionale che aveva fatto l'intermediazione insieme ad
+                altre 8 persone e condotto in una città lontana, in una casa con altri ragazzi di diverse nazionalità.
+                Avevamo un solo bagno per 10 persone, senza doccia, e l'acqua corrente era poca e non potabile.
+                Lavoravo fino a 16- 17 ore ogni giorno, tutti i giorni, guadagnando 400-500 euro al mese e dovendone
+                impiegare 140 per affitto e spese per vivere in quel luogo, gestito dallo stesso intermediario. Sono
+                andato avanti così per un anno e mezzo, durante il quale io continuavo a chiedere dove fosse il
+                mio documento per sentirmi rispondere sempre che sarebbe arrivato a breve, fino a quando non
+                ho trovato una associazione che mi ha aiutato e mi ha accolto".
+
+Rappresentanti di Associazioni e Operatori/Operatrici del privato
+
+   » Federico, associazione di categoria: "Ci sono ritardi delle Prefetture, che possono a volte chiamare
+
+                il lavoratore giunto in Italia anche dopo 2 mesi. In molti casi che ho gestito, il lavoratore si è
+                presentato in Prefettura e ha ottenuto una ricevuta di rilascio del permesso, ma è capitato che
+                il permesso vero e proprio venisse rilasciato molto tempo dopo o, addirittura, fosse rilasciato
+                già scaduto, quindi il lavoratore ha avuto il contratto di lavoro per i 9 mesi di durata del visto
+                stagionale, ma poi non ha potuto rinnovare il contratto di lavoro, perché il permesso era scaduto,
+                a volte neanche mai rilasciato, e quindi non ha potuto presentare né la richiesta di rinnovo né la
+                richiesta di conversione del permesso. Rimane nel territorio, ma invisibile. Molti lavoratori entrati
+                con i flussi diventano degli invisibili per motivi come questo e non hanno nemmeno la possibilità
+                di accedere ad un permesso per attesa occupazione".
+
+38
+                                                                         www.erostraniero.it - Ero Straniero
+
+  » Alessio, operatore di agenzia privata: "L'ostacolo maggiore alla sottoscrizione del patto di soggiorno
+
+               in Prefettura che dalla mia esperienza vivono tutti trasversalmente è il dover produrre l'idoneità
+               alloggiativa, cioè un documento che attesta il numero massimo di persone che possono vivere in
+               un'abitazione, in base alla superficie dell'alloggio e ai parametri indicati dalla normativa vigente.
+               I parametri sono stringenti e si basano su una legge obsoleta, degli anni `70. In alcuni Comuni può
+               essere chiesta online, ma in quelli più grandi va richiesta recandosi negli appositi uffici fisicamente
+               chiedendo la visura catastale dell'abitazione all'ufficio del catasto, producendo una scheda tecnica
+               compilata da un geometra o architetto convenzionato con il Comune, corrispondendo una somma in
+               denaro sia per i bolli che per pagare il tecnico e aggiungendo un documento con cui il proprietario
+               dichiara di essere concorde nel prestare l'alloggio. In tutto ci vogliono mesi per ottenerla. Questo
+               risulta un forte ostacolo alla firma della registrazione dell'ingresso in Prefettura, spesso determina
+               i tempi per tale firma e diventa, in generale, un ulteriore elemento di aggravio della procedura, già
+               complessa. So di più persone che hanno dovuto pagare una idoneità falsa per poter portare tutta la
+               documentazione in Prefettura e richiedere il permesso di soggiorno, con un costo che va dai 500 ai
+               1000 euro oltre quelli che spesso hanno già pagato. Addirittura, con la riforma del nuovo Decreto
+               Flussi va inserita l'idoneità alloggiativa in fase di precompilazione. In altre parole, si chiede al
+               datore di lavoro di impegnare mesi di tempo e di energie per effettuare domande di ingresso dei
+               lavoratori attraverso i flussi e, come non bastasse, si chiede che abbia già trovato l'alloggio per chi
+               dovrebbe arrivare, senza peraltro sapere se la procedura andrà a buon fine o meno, tenendo magari
+               fermo un appartamento e corrispondendo un affitto senza alcuna garanzia oggettiva dell'arrivo
+               del lavoratore".
+
+  » Andrea, avvocato: "Mi è capitato diverse volte che quando il lavoratore aveva già fatto ingresso in
+
+               Italia, arrivava il preavviso di revoca del nulla osta per la mancata sottoposizione in Prefettura
+               del documento chiamato "idoneità alloggiativa", che attesta il numero massimo di persone che
+               possono vivere in una certa abitazione e che è un requisito molto stringente imposto dal legislatore.
+               Il preavviso di revoca rendeva non utilizzabile il codice fiscale che doveva essere impiegato per
+               la stipula del contratto e la persona si trovava illegale nel territorio anche se aveva un lavoro
+               disponibile".
+
+      Il meccanismo introdotto dal DL 145/2024 risolverà alcuni dei problemi fino ad ora emersi? I numeri di
+domande precompilate sono stati di gran lunga inferiori rispetto alle richieste presentate nei flussi 2023 e
+2024? Secondo la sua esperienza e il suo punto di osservazione, a cosa può essere dovuta questa diminuzione?
+
+Rappresentanti di Associazioni e Operatori/Operatrici del privato
+
+  »Alessio, agenzia privata: "Con la riforma dei flussi di entrata, ci saranno più controlli. Credo che il
+
+           meccanismo della precompilazione sia positivo, ma occorre fare attenzione perché la procedura è
+           estremamente complessa, le informazioni richieste in numero sempre maggiore e il linguaggio molto
+           tecnico. Mi chiamano spesso non solo datori di lavoro per essere seguiti nelle pratiche, ma anche
+           avvocati e consulenti del lavoro perché non capiscono come compilare molti dei campi previsti nel
+           sistema di inserimento online. Inoltre, le asseverazioni vengono fatte da commercialisti e associazioni
+           di categoria che, in pratica, si sostituiscono allo Stato. Secondo me l'illegalità non si elimina così,
+           perché chi lavora nell'illegalità non ha paura di denunce. Mentre il datore di lavoro singolo che ha
+           davvero bisogno del lavoratore avrà sempre più paletti e difficoltà nella procedura, la criminalità
+
+                                                                                                                                                          39
+Ero Straniero - www.erostraniero.it
+
+        organizzata troverà altre vie e semplicemente farà pagare ancora di più l'entrata in Europa. È il sistema
+        dei flussi come impianto a non funzionare".
+
+ » Umberto, associazione di categoria: "E' stata fatta una importante concessione rispetto al settore
+
+            dell'Assistenza alla persona garantendo 10.000 posti aggiuntivi fuori quota, di cui vi era immenso bisogno
+            per il sostegno di persone disabili e grandi anziani. Il fatto che poi siano state chiamate le agenzie per
+            il lavoro e le organizzazioni datoriali a sottoporre le domande invece del datore di lavoro escludendo,
+            quindi che i singoli potessero applicare direttamente, non ti so dire che effetti avrà. Forse avrà degli effetti
+            positivi sul fatto che i rapporti di lavoro effettivamente si concretizzino, dal momento che sembra che le
+            domande trattate dalle organizzazioni datoriali abbiano un tasso di successo un po' più alto essendoci
+            una sorta di pre-asseverazione della documentazione. Rispetto alla natura del rapporto di lavoro, se
+            reale o fittizio, secondo me non riusciremo comunque a verificarla in maniera assoluta perché l'impianto
+            dei flussi è basato su assunti errati".
+
+ » Riccardo, operatore di Agenzia privata: "Credo che le domande inviate siano state più basse nei nuovi
+
+            flussi perché, con il decreto di ottobre 2024, è stato ridotto di due settimane il tempo che intercorre tra
+            l'uscita dei flussi e la compilazione delle domande, con l'aggravante che fino a metà novembre 2024
+            le associazioni datoriali non possedevano ancora le necessarie autorizzazioni per procedere con la
+            suddetta compilazione. Inoltre, riducendo i tempi di due settimane, riduci notevolmente il numero di
+            appuntamenti che le associazioni datoriali sono in grado di fornire ai datori di lavoro e, di conseguenza,
+            il numero di domande presentate. Da quello che ho potuto sentire, inoltre, i patronati, in molti casi, si sono
+            trovati in difficoltà nell'essere coinvolti con una posizione di rilievo in procedure che non li vedevano
+            protagonisti da anni: molti di essi non lavoravano più con i flussi di ingresso e non avevano il personale
+            specializzato e le competenze specifiche da poter mettere in campo, oltre allo spazio in agenda per fornire
+            gli appuntamenti, e si sono ritrovati ad essere sollecitati in quanto soggetti titolari degli invii senza avere
+            il tempo per riorganizzarsi. Noi del privato, invece, ci siamo trovati tagliati fuori in quanto non iscritti
+            all'albo dei soggetti accreditati a fornire questo servizio che pure, come nel mio caso, ho svolto per 20
+            anni. Ovviamente, appena è uscito il Decreto abbiamo chiesto immediatamente l'accreditamento, ma di
+            solito si impiega una media di 2 anni per ottenerlo. Anche gli avvocati sono stati censiti dopo 15 giorni.
+            Quindi tanti sono stati tagliati fuori per impossibilità di organizzarsi. Secondo me è di base positivo
+            affidare le pratiche a soggetti qualificati e controllati, ma va capito se il risultato prefissato sia stato
+            davvero ottenuto, perché nel definire quali soggetti potevano prioritariamente inoltrare le domande non
+            si è tenuto conto del fatto che molti patronati e agenzie per il lavoro non facevano alcune cose da molto
+            tempo e si sono trovati in carenza di organico e di competenze"
+
+ » Rita, avvocata: "La procedura informatizzata ha dei lati positivi, ma è molto gravosa per il datore di lavoro
+
+            privato. Si tende ad usare le associazioni di categoria come controllori, che è già una pratica non corretta,
+            e si lascia il singolo in una situazione di forte difficoltà. Anche la semplice profilazione e iscrizione al
+            registro delle imprese o la creazione della PEC per privati è un primo ostacolo. La cosa peggiore è poi
+            dover addirittura caricare l'idoneità alloggiativa che deve essere autenticata con firma digitale dal datore
+            di lavoro, cosa che ha portato a diverse rinunce nella sottoscrizione della pratica".
+
+ » Giorgio, associazione di categoria: "Io credo che tutta la procedura...lo SPID, l'iscrizione al domicilio
+
+            digitale, i tempi ristretti per portare avanti la procedura, le asseverazioni richieste, la sospensione della
+            procedura accelerata per i lavoratori provenienti da alcuni paesi abbiano disincentivato molte domande".
+
+ » Andrea, avvocato: "Compilando le domande per i flussi di ingresso, devo dire che ho notato diversi
+
+            problemi nel sistema, come ad esempio alcuni campi che dovevano compilarsi automaticamente, quali
+
+40
+                                                                            www.erostraniero.it - Ero Straniero
+
+               i requisiti di reddito, che però non funzionavano e non davano nemmeno la possibilità di modifiche
+               manuali, risultando il campo non editabile. Inoltre, secondo me un problema enorme è aver eliminato
+               il preavviso di rigetto nei procedimenti di rilascio di visti e nei casi di revoca del permesso di soggiorno
+               determinata dalla revoca del visto, impedendo, di fatto, alle persone di poter contribuire a sanare la
+               propria posizione interloquendo con l'Amministrazione".
+
+Aziende e datori/datrici di lavoro privati
+
+   »Filippo, datore di lavoro privato: "Trovo che il meccanismo di pre-compilazione sia corretto perché non
+
+            va negato che può essere utile già verificare i requisiti del datore di lavoro in fase iniziale e avere, in un
+            momento successivo, la riconferma della volontà di proseguire con la richiesta da parte del datore di
+            lavoro, entro 7 giorni dalla ricezione della comunicazione di avvenuta conclusione degli accertamenti sulla
+            domanda di visto di ingresso presentata dal lavoratore. Il punto critico è che il datore di lavoro privato si
+            trova in enorme difficoltà a dover fare tutto in maniera così veloce, soprattutto per le richieste nel settore
+            domestico: tra fare lo SPID, la PEC, raccogliere tutti i documenti in fase iniziale, occorre preventivare molto
+            tempo ed energie. Adesso credo che il lavoro sia più complesso per tutti e speriamo di vederne i benefici
+            in termini di efficienza della procedura".
+
+      In merito ai 10 mila posti aggiuntivi extra quota per lavoro di Assistenza alla Persona, vi sono particolari
+problematiche da segnalare?
+
+Rappresentanti di Associazioni e Operatori/Operatrici del privato
+
+   »Umberto, associazione di categoria: "Vi è stato un tempo molto ridotto tra l'uscita del DL 145 e l'apertura
+
+            della fase di precompilazione con il sistema nuovo e molte associazioni di categoria non sono riuscite
+            ad organizzarsi nei tempi. Ci sono tanti sindacati e organizzazioni "amatoriali" che si occupano di flussi
+            e molti non avevano le competenze richieste oppure, visto che c'erano innumerevoli punti non chiari
+            nella procedura, spiegati in parte dopo 15 giorni con una Circolare, hanno evitato di inviare domande che
+            potevano risultare sbagliate e su cui poi avrebbero avuto responsabilità. Se non hai, da parte del Ministero,
+            dei chiarimenti, un elenco esatto di quali documenti devi inserire, quali possono essere autocertificati e
+            quali no, quali puoi integrare in seguito e quali no devi prenderti tu, in qualità di operatore incaricato, la
+            responsabilità di inviare una domanda potenzialmente sbagliata o di non inviarla proprio, decisione, in
+            entrambi i casi, difficile da prendere".
+
+   »Rita, avvocata: "Siamo molto spaventati dal meccanismo per cui un lavoratore che entra con i flussi come
+
+            assistente alla persona sarà nei fatti vincolato al datore di lavoro per 12 mesi e poi anche in seguito, visto
+            che per cambiare datore di lavoro al termine dei 12 mesi occorre rientrare nelle nuove quote e richiedere
+            un nuovo nulla osta e per cambiarlo prima dei 12 mesi occorre l'avallo dell'Ispettorato del lavoro che ha,
+            notoriamente, tempi lunghissimi di risposta. Questo rende il legame tra lavoratore e datore di lavoro
+            strettissimo, con un datore di lavoro con potere contrattuale pressoché assoluto".
+
+   »Giorgio, associazione di categoria. "I 10 mila posti aggiuntivi non rientrano nella procedura accelerata e,
+
+            pertanto, dovranno acquisire tutti i pareri obbligatoriamente, non è previsto il silenzio-assenso sui motivi
+            ostativi al rilascio del nulla osta da parte della Questura e occorre obbligatoriamente anche il parere
+            dell'Ispettorato del lavoro, quindi preventivo che i tempi per l'entrata dei lavoratori saranno lunghi. Che,
+            sull'assistenza alla persona, è una cosa che non ha proprio senso. Perché se cerchi una badante non è
+            ragionevole aspettare un anno per poterla impiegare. Infatti questo poi è il problema di base dei flussi".
+
+                                                                                                                                                              41
+ Ero Straniero - www.erostraniero.it
+Aziende e datori/datrici di lavoro privati
+
+   »Filippo, datore di lavoro privato: "Ho fatto la domanda con i flussi di ingresso per avere una persona che
+
+            svolga lavoro di badante per mio padre anziano, ma se devo aspettare il suo arrivo per più di un anno, come
+            faccio nel frattempo? È una situazione molto difficoltosa per la nostra famiglia. E ammetto che questa
+            persona è già una nostra conoscenza; non avrei potuto assumere una persona in una funzione tanto delicata
+            di cui non avessi già verificato il lavoro o almeno di cui non avessi avuto solide referenze. Mi chiedo se
+            non sarebbe più semplice per tutti che le tante persone che sono nel nostro territorio con possibilità di
+            lavoro, ancorché illegali, possano ottenere un permesso di soggiorno a fronte della presentazione di una
+            promessa di lavoro".
+
+  42
+www.erostraniero.it - Ero Straniero
+
