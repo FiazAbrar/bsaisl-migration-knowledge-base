@@ -467,10 +467,10 @@ BOESL takes no fee before final selection and all fees go through a bank <sup>[1
 
 #### 2.4.4 What the job pays
 - **The floor.** The garment collective agreement sets JD 230 a month: at least JD 130 cash and JD 100 in kind for housing and food <sup>[N9](#n9)</sup>. The national minimum of JD 290 from January 2025 does not apply to garment workers or foreign domestic workers <sup>[N9](#n9)</sup>. Under the 2025 agreement migrants earning JD 230 or more got no rise, and the union signed it without consulting its members <sup>[N9](#n9)</sup>.
-- **BOESL's notices.** JD 130 basic in March 2026; USD 183.35 basic in November 2026 <sup>[4](#o4), [10](#o10)</sup>. The basic for a woman machine operator on earlier notices, as reported:
+- **BOESL's notices.** JD 130 basic in March 2026; USD 183.35 basic in November 2026 <sup>[4](#o4), [10](#o10)</sup>. The basic for a woman machine operator on other notices, as reported:
   - March 2024, Sidney Apparels (150 posts): Tk 19,184 <sup>[N33 (2024)](#n33)</sup>;
   - September 2024, Classic Fashion: Tk 21,125; Tusker Apparel: "125 Jordan dollars" <sup>[N34 (2024)](#n34), [N35 (2024)](#n35)</sup>;
-  - October 2024, Tusker, Classic Fashion and Jia Apparel, in a call for 738 women and men: Tk 21,118 <sup>[N16 (2024)](#n16)</sup>;
+  - October 2024, Tusker and Jia Apparel, in a call for 738 women and men: Tk 21,118 <sup>[N16 (2024)](#n16)</sup>;
   - March 2025, Tusker: Tk 21,311 <sup>[N36](#n36)</sup>;
   - July 2026, Tusker: Tk 22,500 <sup>[N32](#n32)</sup>;
   - September 2026: USD 183.61, about Tk 22,587 <sup>[N37](#n37)</sup>.
@@ -705,7 +705,7 @@ The government may fix by order the most a worker pays to go abroad <sup>[41](#o
    - your original passport, valid at least 1 year, and all your passports if you have more than one;
    - copies of the passport photo page: 5 colour sets (Sana, United Creation) or 1 colour and 4 black-and-white sets (Prestige, Tusker, Mas Al Safi);
    - your education or experience certificates, if any;
-   - a copy of your NID (voter ID), or your birth registration on 2024 notices <sup>[N34 (2024)](#n34)</sup>;
+   - a copy of your NID (voter ID), or your birth registration on a September 2024 notice <sup>[N34 (2024)](#n34)</sup>;
    - the original ID card (or attendance card) of the factory where you work now.
 
    No CV is needed <sup>[43](#o43)</sup>. You must pass the trade test <sup>[11](#o11)</sup>. Recruits describe the BOESL interview, then several days at "the technical" (a sewing test and briefing, six days for one woman) <sup>[N31 (2023)](#n31)</sup>; some are thrown by how fast the test centre's machines run <sup>[14 (2018)](#o14)</sup>. From test to visa most waited about three months, some nearly six <sup>[N31 (2023)](#n31)</sup>.

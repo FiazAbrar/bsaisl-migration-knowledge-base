@@ -174,10 +174,10 @@ BOESL takes no fee before final selection and all fees go through a bank [A0075]
 
 #### What the job pays
 - **The floor.** The garment collective agreement sets JD 230 a month: at least JD 130 cash and JD 100 in kind for housing and food [A0023]. The national minimum of JD 290 from January 2025 does not apply to garment workers or foreign domestic workers [A0024]. Under the 2025 agreement migrants earning JD 230 or more got no rise, and the union signed it without consulting its members [A0025, A0026].
-- **BOESL's notices.** JD 130 basic in March 2026; USD 183.35 basic in November 2026 [A0018, A0072]. The basic for a woman machine operator on earlier notices, as reported:
+- **BOESL's notices.** JD 130 basic in March 2026; USD 183.35 basic in November 2026 [A0018, A0072]. The basic for a woman machine operator on other notices, as reported:
   - March 2024, Sidney Apparels (150 posts): Tk 19,184 [PD0008, PD0010];
   - September 2024, Classic Fashion: Tk 21,125; Tusker Apparel: "125 Jordan dollars" [PD0013, PD0015];
-  - October 2024, Tusker, Classic Fashion and Jia Apparel, in a call for 738 women and men: Tk 21,118 [PD0016, PD0017, PD0018];
+  - October 2024, Tusker and Jia Apparel, in a call for 738 women and men: Tk 21,118 [PD0016, PD0017, PD0018];
   - March 2025, Tusker: Tk 21,311 [PD0025];
   - July 2026, Tusker: Tk 22,500 [A0083];
   - September 2026: USD 183.61, about Tk 22,587 [PD0031].
@@ -372,7 +372,7 @@ The government may fix by order the most a worker pays to go abroad [G0129]. Wha
    - your original passport, valid at least 1 year, and all your passports if you have more than one;
    - copies of the passport photo page: 5 colour sets (Sana, United Creation) or 1 colour and 4 black-and-white sets (Prestige, Tusker, Mas Al Safi);
    - your education or experience certificates, if any;
-   - a copy of your NID (voter ID), or your birth registration on 2024 notices [PD0014];
+   - a copy of your NID (voter ID), or your birth registration on a September 2024 notice [PD0014];
    - the original ID card (or attendance card) of the factory where you work now.
 
    No CV is needed [G0019]. You must pass the trade test [G0008]. Recruits describe the BOESL interview, then several days at "the technical" (a sewing test and briefing, six days for one woman) [G0089]; some are thrown by how fast the test centre's machines run [G0205]. From test to visa most waited about three months, some nearly six [G0090].

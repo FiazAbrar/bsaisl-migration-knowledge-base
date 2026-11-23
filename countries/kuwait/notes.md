@@ -389,3 +389,5 @@ Save each one into `countries/kuwait/manual/` under the file name given, keeping
 ## Resolved conflict: 2025 nurse salary (23 Nov 2026)
 
 BOESL's own letter for the 2025 Kuwait nurse round, signed by assistant director Noman Chowdhury and quoted by Prothom Alo on 23 Aug 2025 (PK0016), gives one salary for every selected nurse, BSc or diploma: Tk 1,27,360. The Business Standard's May 2026 feature (K0055) gives Tk 1.27 lakh for BSc and Tk 1.11 lakh for diploma nurses and dates the request to October 2025, although applications opened on 20 Aug 2025. The doc follows BOESL's letter; K0055 is no longer cited, and the round is dated "2025".
+
+- **2025 nurse round, experience (resolved 23 Nov 2026):** The Business Standard's May 2026 feature (K0054) says at least 3 years' experience was required; BOESL's own August 2025 circular (PK0021) asks for experience as a preference. As with the salary, BOESL's circular stands; the 3-year figure is dropped from the doc.
