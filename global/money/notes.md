@@ -82,3 +82,14 @@
 
 - FY 2025-26 total: 14 July 2026 column gave USD 35.56 billion (GM0316); Bangladesh Bank monthly reports from 1 Sep, 1 Oct, 11 Oct and 1 Nov 2026 all give USD 35.59 billion (3,559 crore). The later, repeated Bangladesh Bank figure is used (GM0352); GM0316 is no longer cited, and its "17.3% more" was dropped with it.
 - July and August 2026: the 1 Sep report gives USD 286.87 crore and 297.66 crore but a two-month total of 582.53 crore; the 1 Oct and 1 Nov reports give 285.87 and 296.66 crore, which sum to 582.53. The 1 Sep monthly figures are misprints; 285.87 and 296.66 are used (GM0353). The 2 Aug preliminary July figure (285.90 crore) is superseded.
+
+## Held items from other docs' ledgers (held-money.json, 21 items), added 23 Nov 2026
+
+- 10 articles saved and read around each quote; 31 facts logged (GM0379-GM0409), all cited.
+- Added: 3% incentive planned for Probashi Card holders and pilot in four to five countries (state minister, 13 Oct 2026); minister's seven-day land-dispute plan; Keraniganj land-seizure case (Sept 2025); Halim Khan case (money left with in-laws, June 2025); emergency-fund advice (personal-finance piece, Mar 2026); remittance dollar Tk 123.30 and Bangladesh Bank's Tk 123 message (Mar 2026); bank Tk 121 vs open market Tk 123.50 (Oct 2024 column); Rome embassy Remittance Award and pension registration session (Apr 2024); World Bank 2024 ranking (sixth, USD 26.6 billion); charity donations blocked without NGO Affairs Bureau registration (Sept 2026 column); about 1 million workers abroad in 2024.
+- Duplicates, not logged: 2024 calendar total (GM0170), first 11 days of March 2026 and March 2026 record (GM0288), six Gulf countries half (GM0291), parliamentary committee obstacles (GM0046-GM0048), July-April FY 2024-25 (overtaken by full-year GM0234), March 2025 record (GM0206), Jan-Mar 2025 by country and total (overtaken by later corrected country data GM0266/GM0334 and monthly totals), bankers crediting the narrower rate gap (GM0260, GM0315), 2025 total (GM0257).
+
+### Resolved conflicts (held items)
+
+- October 2024 bank rate: a Prothom Alo report gives Tk 122 including the incentive (GM0154); Mamun Rashid's column of 15 Oct 2024 gives Tk 121 through the banking channel (GM0403). Different bases (with and without incentive, different days); both kept with attribution, no conflict that changes what anyone would do.
+- 2024 calendar total: column says about USD 26.89 billion (GM0409, not used for the figure), World Bank USD 26.6 billion (GM0405, used only for the ranking), Bangladesh Bank report about USD 27 billion (GM0170). Rounding and source differences; the Bangladesh Bank figure stays as the year's total.
