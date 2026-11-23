@@ -1,7 +1,7 @@
 /**
  * Every fixed message the bot sends, in English and Bangla. AI answers follow the person's own language
  * and script (prompts/system.md); these fixed texts go by the script of their message: Bangla script gets
- * Bangla, anything else English. `*text*` is bold; each channel converts it to its own format.
+ * Bangla, anything else English. Texts are Markdown (`**bold**`); each channel converts it to its own format.
  */
 
 import type { RefusalReason } from "../guard/guard.ts";
@@ -46,20 +46,20 @@ export const MESSAGES: Record<Lang, Messages> = {
     welcome: (countries) =>
       "Hello! I answer questions about going abroad to work, from BRAC's guides for Bangladeshi workers.\n" +
       `I have guides for: ${countries}.\n` +
-      "Tell me the country, then ask your question, for example: *Saudi Arabia*, then *medical check cost*.\n" +
-      "Send *reset* to start over, or *delete my data* to erase your history.",
+      "Tell me the country, then ask your question, for example: **Saudi Arabia**, then **medical check cost**.\n" +
+      "Send **reset** to start over, or **delete my data** to erase your history.",
     privacy: (link) =>
       "Privacy: to help you next time, I keep a short note about your situation for 12 months after your last " +
       "message, and our messages for 90 days. Never send your NID, passport or bank details. " +
-      `Send *delete my data* at any time to erase everything.${link ? ` More: ${link}` : ""}`,
+      `Send **delete my data** at any time to erase everything.${link ? ` More: ${link}` : ""}`,
     deleted: "Your conversation history with this bot has been deleted.",
     reset: "OK, let's start again. Which country are you asking about?",
     whichCountry: (countries) => `Which country are you asking about? I have guides for: ${countries}.`,
     testMode: "(Test mode: AI answers are not connected yet.)",
-    guideChosen: (guide) => `OK, the *${guide}* guide. What would you like to know?`,
+    guideChosen: (guide) => `OK, the **${guide}** guide. What would you like to know?`,
     noMatch: (guide) =>
-      `Guide: *${guide}*. I couldn't find a section that matches your words. Try other words, or English keywords.`,
-    closest: (guide) => `Closest sections in the *${guide}* guide:`,
+      `Guide: **${guide}**. I couldn't find a section that matches your words. Try other words, or English keywords.`,
+    closest: (guide) => `Closest sections in the **${guide}** guide:`,
     sendText: "Please send your question as a text message.",
     tooLong: `Please send a shorter question, under ${MAX_CHARS} characters.`,
     personalRemoved:
@@ -78,19 +78,20 @@ export const MESSAGES: Record<Lang, Messages> = {
     welcome: (countries) =>
       "হ্যালো! বিদেশে কাজে যাওয়া নিয়ে আপনার প্রশ্নের উত্তর দিই, বাংলাদেশি কর্মীদের জন্য ব্র্যাকের গাইড থেকে।\n" +
       `যেসব দেশের গাইড আছে: ${countries}।\n` +
-      "প্রথমে দেশের নাম লিখুন, তারপর প্রশ্ন করুন, যেমন: *সৌদি আরব*, তারপর *মেডিকেলের খরচ*।\n" +
-      "নতুন করে শুরু করতে *reset* লিখুন, আর আপনার সব তথ্য মুছতে *আমার তথ্য মুছে দিন* লিখুন।",
+      "প্রথমে দেশের নাম লিখুন, তারপর প্রশ্ন করুন, যেমন: **সৌদি আরব**, তারপর **মেডিকেলের খরচ**।\n" +
+      "নতুন করে শুরু করতে **reset** লিখুন, আর আপনার সব তথ্য মুছতে **আমার তথ্য মুছে দিন** লিখুন।",
     privacy: (link) =>
       "গোপনীয়তা: পরের বার সাহায্য করতে আপনার অবস্থা নিয়ে একটি ছোট নোট আপনার শেষ বার্তার পর ১২ মাস, " +
       "আর আমাদের বার্তাগুলো ৯০ দিন রাখা হয়। কখনো আপনার এনআইডি, পাসপোর্ট বা ব্যাংকের তথ্য পাঠাবেন না। " +
-      `সব মুছতে যেকোনো সময় *আমার তথ্য মুছে দিন* লিখুন।${link ? ` বিস্তারিত: ${link}` : ""}`,
+      `সব মুছতে যেকোনো সময় **আমার তথ্য মুছে দিন** লিখুন।${link ? ` বিস্তারিত: ${link}` : ""}`,
     deleted: "এই বটের সঙ্গে আপনার কথোপকথন ও তথ্য মুছে ফেলা হয়েছে।",
     reset: "ঠিক আছে, নতুন করে শুরু করি। কোন দেশ নিয়ে জানতে চান?",
     whichCountry: (countries) => `কোন দেশ নিয়ে জানতে চান? যেসব দেশের গাইড আছে: ${countries}।`,
     testMode: "(পরীক্ষামূলক: এআই উত্তর এখনো চালু হয়নি।)",
-    guideChosen: (guide) => `ঠিক আছে, *${guide}* গাইড। কী জানতে চান?`,
-    noMatch: (guide) => `গাইড: *${guide}*। আপনার কথার সঙ্গে মেলে এমন অংশ পাইনি। অন্য শব্দে, বা ইংরেজি শব্দে চেষ্টা করুন।`,
-    closest: (guide) => `*${guide}* গাইডের সবচেয়ে কাছের অংশ:`,
+    guideChosen: (guide) => `ঠিক আছে, **${guide}** গাইড। কী জানতে চান?`,
+    noMatch: (guide) =>
+      `গাইড: **${guide}**। আপনার কথার সঙ্গে মেলে এমন অংশ পাইনি। অন্য শব্দে, বা ইংরেজি শব্দে চেষ্টা করুন।`,
+    closest: (guide) => `**${guide}** গাইডের সবচেয়ে কাছের অংশ:`,
     sendText: "দয়া করে আপনার প্রশ্নটি লিখে পাঠান।",
     tooLong: `দয়া করে প্রশ্নটি ছোট করে পাঠান, ${bnDigits(MAX_CHARS)} অক্ষরের কম।`,
     personalRemoved:

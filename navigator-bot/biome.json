@@ -6,7 +6,7 @@
       "src/**",
       "test/**",
       "evals/**/*.ts",
-      "web/**",
+      "web/**/*.ts",
       "!web/dist",
       "*.ts",
       "package.json",

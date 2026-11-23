@@ -78,11 +78,11 @@ describe("Conversation", () => {
   it("remembers the guide and searches it", async () => {
     const c = conversation();
     const first = await c.handle(msg("Saudi Arabia"));
-    expect(first?.text).toContain("OK, the *Saudi Arabia* guide.");
+    expect(first?.text).toContain("OK, the **Saudi Arabia** guide.");
     expect(first?.country).toBe("saudi-arabia");
     const second = await c.handle(msg("medical test"));
-    expect(second?.text).toContain("Closest sections in the *Saudi Arabia* guide:");
-    expect(second?.text).toContain("*Work visa > Step 2: Medical test*");
+    expect(second?.text).toContain("Closest sections in the **Saudi Arabia** guide:");
+    expect(second?.text).toContain("**Work visa > Step 2: Medical test**");
     expect((await store.get(user))?.country).toBe("saudi-arabia");
   });
 

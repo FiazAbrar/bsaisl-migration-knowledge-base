@@ -59,7 +59,7 @@ export class TestModeAnswerer implements Answerer {
     if (hits.length === 0) return { text: `${m.testMode}\n${m.noMatch(guide)}` };
     const lines = [m.testMode, m.closest(guide)];
     hits.forEach((h, i) => {
-      lines.push(`${i + 1}. *${h.path}*\n   ${h.snippet.trim()}`);
+      lines.push(`${i + 1}. **${h.path}**\n   ${h.snippet.trim()}`);
     });
     return { text: lines.join("\n") };
   }
