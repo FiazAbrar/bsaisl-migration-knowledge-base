@@ -36,6 +36,7 @@ Facts logged but not cited from this pass: XC0120 (authorities did not answer CB
 - **84% figures:** an 84% drop in illegal crossings to the US (June to November 2024, Global Affairs) and an 84% drop in asylum claims by temporary visa holders (April 2024 to April 2026, IRCC) are separate statistics; both kept with their periods.
 - **Student cap numbers:** 360,000 a year for 2024-2025 (January 2024) and a 2026 target of about 155,000 (November 2025 levels plan) are different years, not a conflict.
 - **Safe Third Country Agreement "14 days":** stated by the article as a rule; the doc attributes it to the lawyer's argument, since the article frames it as his belief about what should apply.
+- **Student work hours (held item R3-countries-canada-1):** a July 2024 Prothom Alo education report (pa-2024-07-04-6ngsgospii) gives 20 hours a week off campus during studies; the November 2025 and November 2026 reports [XC0054, XC0158] give 24 hours. The newer, specific figure wins (the 2024 article predates the change); only the article's still-current point, that no separate work permit is needed, is used [XC0166].
 
 ## Facts logged but not cited
 

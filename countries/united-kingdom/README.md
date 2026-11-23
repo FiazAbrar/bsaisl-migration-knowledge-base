@@ -27,11 +27,12 @@ How Bangladeshis go to the United Kingdom (UK), visa by visa, as of November 202
   - [2.2 Step 1: Get an offer and a CAS](#step-1-get-an-offer-and-a-cas)
   - [2.3 Step 2: Apply for the visa](#step-2-apply-for-the-visa)
   - [2.4 Step 3: Set up your e-visa before you fly](#step-3-set-up-your-e-visa-before-you-fly)
-  - [2.5 Scholarships](#scholarships)
-    - [2.5.1 Commonwealth Scholarship](#commonwealth-scholarship)
-    - [2.5.2 GREAT Scholarship](#great-scholarship)
-    - [2.5.3 Women in STEM scholarship](#women-in-stem-scholarship)
-  - [2.6 Visa fraud and the 10-year ban](#visa-fraud-and-the-10-year-ban)
+  - [2.5 Working during and after your studies](#working-during-and-after-your-studies)
+  - [2.6 Scholarships](#scholarships)
+    - [2.6.1 Commonwealth Scholarship](#commonwealth-scholarship)
+    - [2.6.2 GREAT Scholarship](#great-scholarship)
+    - [2.6.3 Women in STEM scholarship](#women-in-stem-scholarship)
+  - [2.7 Visa fraud and the 10-year ban](#visa-fraud-and-the-10-year-ban)
 - [3 Care-worker and Skilled Worker visa](#care-worker-and-skilled-worker-visa)
   - [3.1 Fake sponsorship certificates](#fake-sponsorship-certificates)
 - [4 Asylum](#asylum)
@@ -42,7 +43,8 @@ How Bangladeshis go to the United Kingdom (UK), visa by visa, as of November 202
 - [6 British citizenship and its removal](#british-citizenship-and-its-removal)
 - [7 Sending money home](#sending-money-home)
 - [8 Voting in Bangladesh elections from the UK](#voting-in-bangladesh-elections-from-the-uk)
-- [9 Contacts](#contacts)
+- [9 Online harassment from other Bangladeshis](#online-harassment-from-other-bangladeshis)
+- [10 Contacts](#contacts)
 - [References](#references)
 
 <a id="background"></a>
@@ -122,7 +124,7 @@ Tighter admission, rising tuition fees, the taka's fall against the pound, and h
 
 > **Need to know**
 > - What are the UK student visa fee, the Immigration Health Surcharge and the money a student must show in the bank in 2026?
-> - How many hours a week may a student work in term time, and what is the minimum wage?
+> - What is the UK minimum wage for a student working part time in 2026?
 
 <a id="what-ties-you-to-the-employer"></a>
 
@@ -228,33 +230,44 @@ Since 15 July 2025 Bangladeshi students get an e-visa, a digital record of the v
 > **Need to know**
 > - What is the web address for creating the UKVI account, and what does an airline at Dhaka airport ask to see for a student with an e-visa?
 
+<a id="working-during-and-after-your-studies"></a>
+
+### 2.5 Working during and after your studies
+
+1. During the course a full-time student may work part time up to 20 hours a week, under the visa's study conditions <sup>[N18 (2024)](#n18)</sup>.
+2. Students may also work during course breaks, or as part of an academic placement <sup>[N18 (2024)](#n18)</sup>.
+3. After the course, the UK lets graduates work for up to two years on a work visa <sup>[N18 (2024)](#n18)</sup>.
+
+> **Need to know**
+> - Is the graduate work visa still two years for students finishing in 2026 and 2027, and what does it cost to apply?
+
 <a id="scholarships"></a>
 
-### 2.5 Scholarships
+### 2.6 Scholarships
 
 Three UK scholarship schemes reported for Bangladeshis pay for postgraduate study: the Commonwealth Scholarship, the GREAT Scholarship and the British Council's Women in STEM scholarship <sup>[N14 (2024)](#n14), [N15](#n15), [N16](#n16)</sup>.
 
 <a id="commonwealth-scholarship"></a>
 
-#### 2.5.1 Commonwealth Scholarship
+#### 2.6.1 Commonwealth Scholarship
 
 Commonwealth Scholarships pay for Bangladeshis to study for a master's degree at UK universities, funded by the UK government through the Commonwealth Scholarship Commission (CSC) <sup>[N14 (2024)](#n14)</sup>. 26 Bangladeshis won one in 2024, for universities including Oxford, Cambridge, SOAS (University of London), Warwick and Edinburgh; 1,867 have received one since 1960 <sup>[N14 (2024)](#n14)</sup>. Every scheme is highly competitive and needs an outstanding academic record <sup>[N14 (2024)](#n14)</sup>. In 2024 the British Council held a pre-departure briefing for the year's scholars at the British High Commissioner's residence, with essential information on studying in the UK <sup>[N14 (2024)](#n14)</sup>.
 
-**PhD for public university teachers:** in August 2024 the scheme invited full-time faculty members of Bangladesh's public universities to apply for a UK PhD <sup>[N18 (2024)](#n18)</sup>. The themes were science and technology for development; health systems and capacity; global development; global peace, security and governance; resilience and response to crises; and access, inclusion and opportunity <sup>[N18 (2024)](#n18)</sup>. Applicants needed an upper second-class (2:1) honours degree or equivalent CGPA, or a lower second (2:2) plus a relevant postgraduate or master's degree <sup>[N18 (2024)](#n18)</sup>.
+**PhD for public university teachers:** in August 2024 the scheme invited full-time faculty members of Bangladesh's public universities to apply for a UK PhD <sup>[N19 (2024)](#n19)</sup>. The themes were science and technology for development; health systems and capacity; global development; global peace, security and governance; resilience and response to crises; and access, inclusion and opportunity <sup>[N19 (2024)](#n19)</sup>. Applicants needed an upper second-class (2:1) honours degree or equivalent CGPA, or a lower second (2:2) plus a relevant postgraduate or master's degree <sup>[N19 (2024)](#n19)</sup>.
 
-1. Get a nomination from your university's Registrar's office <sup>[N18 (2024)](#n18)</sup>.
-2. Put together all academic certificates and mark sheets, the language test result, one passport-size photo and the hard copy of the nomination <sup>[N18 (2024)](#n18)</sup>.
-3. Send them to the Secretary, University Grants Commission of Bangladesh (UGC), room 610, Agargaon administrative area, Sher-e-Bangla Nagar, Dhaka, and email a PDF of the documents to iccugcbd@gmail.com; the 2024 deadline was 15 September, with details on www.ugc.gov.bd <sup>[N18 (2024)](#n18)</sup>.
-4. Only shortlisted candidates are called for interview <sup>[N18 (2024)](#n18)</sup>.
+1. Get a nomination from your university's Registrar's office <sup>[N19 (2024)](#n19)</sup>.
+2. Put together all academic certificates and mark sheets, the language test result, one passport-size photo and the hard copy of the nomination <sup>[N19 (2024)](#n19)</sup>.
+3. Send them to the Secretary, University Grants Commission of Bangladesh (UGC), room 610, Agargaon administrative area, Sher-e-Bangla Nagar, Dhaka, and email a PDF of the documents to iccugcbd@gmail.com; the 2024 deadline was 15 September, with details on www.ugc.gov.bd <sup>[N19 (2024)](#n19)</sup>.
+4. Only shortlisted candidates are called for interview <sup>[N19 (2024)](#n19)</sup>.
 
 > **Need to know**
 > - When does the Commonwealth master's application open each year, who nominates candidates who are not university teachers, and what does the scholarship pay?
 
 <a id="great-scholarship"></a>
 
-#### 2.5.2 GREAT Scholarship
+#### 2.6.2 GREAT Scholarship
 
-The GREAT Scholarship is given by the UK government's GREAT Britain Campaign with the British Council and funded by the host universities; each is worth £10,000 towards a postgraduate degree, open to students from 15 countries including Bangladesh <sup>[N19 (2024)](#n19), [N15](#n15)</sup>. For 2025-26 the universities were Aston, Cranfield, Keele, Liverpool John Moores, Loughborough, Robert Gordon, Manchester, Ulster, Exeter, Plymouth and Surrey <sup>[N15](#n15)</sup>.
+The GREAT Scholarship is given by the UK government's GREAT Britain Campaign with the British Council and funded by the host universities; each is worth £10,000 towards a postgraduate degree, open to students from 15 countries including Bangladesh <sup>[N20 (2024)](#n20), [N15](#n15)</sup>. For 2025-26 the universities were Aston, Cranfield, Keele, Liverpool John Moores, Loughborough, Robert Gordon, Manchester, Ulster, Exeter, Plymouth and Surrey <sup>[N15](#n15)</sup>.
 
 **Who can apply:** a Bangladeshi citizen with a completed bachelor's degree, interest in the subject and the English level the university requires, willing to join the GREAT scholars' network and act as an ambassador for the scheme <sup>[N15](#n15)</sup>.
 
@@ -264,13 +277,13 @@ The GREAT Scholarship is given by the UK government's GREAT Britain Campaign wit
 
 <a id="women-in-stem-scholarship"></a>
 
-#### 2.5.3 Women in STEM scholarship
+#### 2.6.3 Women in STEM scholarship
 
 The British Council's Women in STEM scholarship (STEM is science, technology, engineering and mathematics), part of its Going Global Partnerships programme, fully funds women for a one-year STEM master's at UK universities; 2026 was its sixth year <sup>[N16](#n16)</sup>. For 2026-27 each award is worth at least £40,000 and covers tuition, a living allowance, travel and visa costs, health care fees and English language support <sup>[N16](#n16)</sup>. In 2026 there were 90 awards for 30 countries, 25 of them for South Asia at five UK universities, and applications closed on 30 April <sup>[N16](#n16)</sup>. The eligible countries and universities are on the British Council's global website, and scholarships open in Bangladesh on the British Council Bangladesh website <sup>[N16](#n16)</sup>.
 
 <a id="visa-fraud-and-the-10-year-ban"></a>
 
-### 2.6 Visa fraud and the 10-year ban
+### 2.7 Visa fraud and the 10-year ban
 
 Anyone who uses visa fraud or an illegal route to go from Bangladesh to the UK gets a 10-year travel ban, the British High Commissioner in Dhaka, Sarah Cooke, said in November 2025 <sup>[N3](#n3)</sup>. The Russell Group confirmed in June 2026 that the current penalty for student visa fraud is a 10-year re-entry ban, and proposed harsher ones <sup>[N4](#n4)</sup>. The High Commission says it welcomes genuine applications made only through official channels <sup>[N3](#n3)</sup>. For fake admission and visa offers from study-abroad firms, see "Study-abroad firms that take the fee" in the Dalal scams doc.
 
@@ -356,7 +369,7 @@ Under the agreement signed on 16 May 2024, the UK sends back by a fast-track pro
 
 ## 6 British citizenship and its removal
 
-The UK can remove a British citizen's citizenship if the government considers that the person is eligible for another country's citizenship, even if they have never lived there <sup>[N20](#n20)</sup>. A December 2025 report by the Runnymede Trust and Reprieve, two UK rights and research organisations, said about 9 million people, about 13% of the UK's population, could lose citizenship this way, with people tied to Pakistan, Bangladesh, Somalia, Nigeria, North Africa and the Middle East most at risk <sup>[N20](#n20)</sup>. Shamima Begum, born in the UK, lost her citizenship on the claim that she was a Bangladeshi citizen, which the Bangladesh government denied <sup>[N20](#n20)</sup>. In December 2025 the Conservative and Reform UK parties were talking of plans that could force lakhs of people living legally in the UK to leave <sup>[N20](#n20)</sup>.
+The UK can remove a British citizen's citizenship if the government considers that the person is eligible for another country's citizenship, even if they have never lived there <sup>[N21](#n21)</sup>. A December 2025 report by the Runnymede Trust and Reprieve, two UK rights and research organisations, said about 9 million people, about 13% of the UK's population, could lose citizenship this way, with people tied to Pakistan, Bangladesh, Somalia, Nigeria, North Africa and the Middle East most at risk <sup>[N21](#n21)</sup>. Shamima Begum, born in the UK, lost her citizenship on the claim that she was a Bangladeshi citizen, which the Bangladesh government denied <sup>[N21](#n21)</sup>. In December 2025 the Conservative and Reform UK parties were talking of plans that could force lakhs of people living legally in the UK to leave <sup>[N21](#n21)</sup>.
 
 <a id="sending-money-home"></a>
 
@@ -368,24 +381,38 @@ Bangladesh receives more than USD 2 billion a year in remittances through migran
 
 ## 8 Voting in Bangladesh elections from the UK
 
-For the national election after November 2025, Bangladeshis and British Bangladeshis in the UK could register for a postal vote from 29 November to 3 December 2025 <sup>[N21](#n21)</sup>.
+For the national election after November 2025, Bangladeshis and British Bangladeshis in the UK could register for a postal vote from 29 November to 3 December 2025 <sup>[N22](#n22)</sup>.
 
-**Who could register:** a Bangladeshi by birth or descent with a valid passport or NID (national identity card), proof of a current address abroad, and, if already a voter, the same details updated <sup>[N21](#n21)</sup>.
+**Who could register:** a Bangladeshi by birth or descent with a valid passport or NID (national identity card), proof of a current address abroad, and, if already a voter, the same details updated <sup>[N22](#n22)</sup>.
 
-1. Download the Election Commission's "Nagorik" app on a smartphone <sup>[N21](#n21)</sup>.
-2. Enter your NID details, passport number and UK address <sup>[N21](#n21)</sup>.
-3. Once the Election Commission accepts the request, the ballot comes by post; fill it in and post it back within the set time <sup>[N21](#n21)</sup>.
+1. Download the Election Commission's "Nagorik" app on a smartphone <sup>[N22](#n22)</sup>.
+2. Enter your NID details, passport number and UK address <sup>[N22](#n22)</sup>.
+3. Once the Election Commission accepts the request, the ballot comes by post; fill it in and post it back within the set time <sup>[N22](#n22)</sup>.
 
-The Bangladesh High Commission in London posted the steps, infographics and video tutorials on its website and Facebook page <sup>[N21](#n21)</sup>.
+The Bangladesh High Commission in London posted the steps, infographics and video tutorials on its website and Facebook page <sup>[N22](#n22)</sup>.
 
 > **Need to know**
 > - Will postal voting from the UK be offered again for later elections, and when does registration open?
 
+<a id="online-harassment-from-other-bangladeshis"></a>
+
+## 9 Online harassment from other Bangladeshis
+
+Several Bangladeshi women living in the UK told the BBC in 2024 that a Bangladeshi man living in the Paris suburbs, Hasan Sayed, with thousands of TikTok followers, trolled them <sup>[N23 (2024)](#n23)</sup>. Victims alleged he took their personal photos and details from social media, put them in trolling videos, and on TikTok live mocked them and threatened rape and murder <sup>[N23 (2024)](#n23)</sup>. What victims tried, and what happened:
+
+- **Police and platform reports:** many complained to police in the UK and France and reported to the platforms, without result <sup>[N23 (2024)](#n23)</sup>. TikTok told one victim, Kamrul Islam of Staffordshire, that the videos did not breach its community guidelines, and the police gave him no hope <sup>[N23 (2024)](#n23)</sup>.
+- **Mass reporting by followers:** Masuma, a victim in Wales, had a video calling her a sex worker taken down only after her followers reported it again and again, when the damage was already done <sup>[N23 (2024)](#n23)</sup>.
+- **UK embassy in the harasser's country:** in February 2023 Kamrul went to the UK embassy in Paris, which put him in touch with an English-speaking French lawyer; the lawyer filed a complaint with the Paris public prosecutor's office, and said a final outcome would take a long time <sup>[N23 (2024)](#n23)</sup>.
+- **Information Commissioner's Office (ICO, the UK's data-protection regulator):** in April 2023 Kamrul went to the ICO, which found the content very worrying and disagreed with the platforms' reasons <sup>[N23 (2024)](#n23)</sup>. Citing misuse of children's personal data, it told TikTok, YouTube and Facebook to remove the videos within seven days, and the three said they would delete content against their guidelines and block the accounts <sup>[N23 (2024)](#n23)</sup>. Kamrul said he still had to contact TikTok almost daily about new accounts, and effective action was not always taken <sup>[N23 (2024)](#n23)</sup>.
+
+> **Need to know**
+> - How does a person in the UK file a complaint with the ICO about videos using their or their children's personal data, and does it act when no children are involved?
+
 <a id="contacts"></a>
 
-## 9 Contacts
+## 10 Contacts
 
-- **Bangladesh High Commission, London:** publishes notices on its website and Facebook page <sup>[N21](#n21)</sup>.
+- **Bangladesh High Commission, London:** publishes notices on its website and Facebook page <sup>[N22](#n22)</sup>.
 - **British Council:** held the 2024 Commonwealth Scholars' pre-departure briefing <sup>[N14 (2024)](#n14)</sup>.
 
 > **Need to know**
@@ -424,7 +451,9 @@ These facts come only from news or third-party sources. Each needs an official s
 - <a id="n15"></a>N15. Prothom Alo, 13 Mar 2025. [বাংলাদেশিদের জন্য যুক্তরাজ্যর গ্রেট স্কলারশিপ, প্রতিটি বৃত্তি ১০ হাজার পাউন্ডের](https://www.prothomalo.com/education/scholarship/jabwrm04dx). Accessed 23 Nov 2026. Possibly outdated.
 - <a id="n16"></a>N16. Prothom Alo, 8 Apr 2026. [যুক্তরাজ্যে বাংলাদেশি নারী শিক্ষার্থীদের ব্রিটিশ কাউন্সিলের ‘উইমেন ইন স্টেম’ বৃত্তির সুযোগ](https://www.prothomalo.com/bangladesh/30o3xawmvj). Accessed 23 Nov 2026.
 - <a id="n17"></a>N17. Prothom Alo, 26 Jul 2025. [যুক্তরাজ্যগামী বাংলাদেশি শিক্ষার্থীদের জন্য ব্রিটিশ কাউন্সিলের প্রিডিপারচার ব্রিফিং](https://www.prothomalo.com/education/higher-education/aygc55wulu). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n18"></a>N18. Prothom Alo, 18 Aug 2024. [যুক্তরাজ্যের কমনওয়েলথ স্কলারশিপ: পিএইচডি প্রোগ্রামে বাংলাদেশিদের সুযোগ](https://www.prothomalo.com/education/scholarship/mdp8cv2mv4). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n19"></a>N19. Prothom Alo, 24 Mar 2024. [বাংলাদেশিদের জন্য যুক্তরাজ্যর গ্রেট স্কলারশিপ, প্রতিটি বৃত্তি ১০ হাজার পাউন্ডের](https://www.prothomalo.com/education/scholarship/txnt3um7do). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n20"></a>N20. Prothom Alo, 13 Dec 2025. [যুক্তরাজ্যে নাগরিকত্ব হারাতে পারেন বাংলাদেশি, পাকিস্তানি, ভারতীয় বংশোদ্ভূতসহ ৯০ লাখ মানুষ](https://www.prothomalo.com/world/ljvyonxb5h). Accessed 23 Nov 2026.
-- <a id="n21"></a>N21. Prothom Alo, 25 Nov 2025. [প্রবাসীদের ভোটার নিবন্ধনে উৎসাহিত করতে লন্ডনে প্রচার](https://www.prothomalo.com/bangladesh/3qw8lp8b6l). Accessed 23 Nov 2026.
+- <a id="n18"></a>N18. Prothom Alo, 4 Jul 2024. [বিদেশে পড়াশোনার সঙ্গে কাজের সুযোগ, এই পাঁচ দেশ হতে পারে গন্তব্য](https://www.prothomalo.com/education/higher-education/6ngsgospii). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n19"></a>N19. Prothom Alo, 18 Aug 2024. [যুক্তরাজ্যের কমনওয়েলথ স্কলারশিপ: পিএইচডি প্রোগ্রামে বাংলাদেশিদের সুযোগ](https://www.prothomalo.com/education/scholarship/mdp8cv2mv4). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n20"></a>N20. Prothom Alo, 24 Mar 2024. [বাংলাদেশিদের জন্য যুক্তরাজ্যর গ্রেট স্কলারশিপ, প্রতিটি বৃত্তি ১০ হাজার পাউন্ডের](https://www.prothomalo.com/education/scholarship/txnt3um7do). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n21"></a>N21. Prothom Alo, 13 Dec 2025. [যুক্তরাজ্যে নাগরিকত্ব হারাতে পারেন বাংলাদেশি, পাকিস্তানি, ভারতীয় বংশোদ্ভূতসহ ৯০ লাখ মানুষ](https://www.prothomalo.com/world/ljvyonxb5h). Accessed 23 Nov 2026.
+- <a id="n22"></a>N22. Prothom Alo, 25 Nov 2025. [প্রবাসীদের ভোটার নিবন্ধনে উৎসাহিত করতে লন্ডনে প্রচার](https://www.prothomalo.com/bangladesh/3qw8lp8b6l). Accessed 23 Nov 2026.
+- <a id="n23"></a>N23. Prothom Alo, 2 Apr 2024. [টিকটকে ট্রলের শিকার হয়ে যুক্তরাজ্য-ফ্রান্সে যন্ত্রণার জীবন বাংলাদেশি নারীদের](https://www.prothomalo.com/world/europe/sjrdz52mhz). Accessed 23 Nov 2026. Possibly outdated.

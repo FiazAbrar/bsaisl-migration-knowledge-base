@@ -155,7 +155,7 @@ Every document must be genuine and every answer true: a forged education certifi
 
 ### Can you work?
 
-1. During regular semesters a student may work up to 24 hours a week off campus, and full time during scheduled breaks such as summer or winter [XC0054, XC0158].
+1. During regular semesters a student may work up to 24 hours a week off campus, and full time during scheduled breaks such as summer or winter [XC0054, XC0158]. No separate work permit is needed for part-time work on or off campus [XC0166].
 2. Working without authorisation can cancel student status and lead to refusal of the post-graduation work permit [XC0054].
 
 **Finding work:** in April 2026 Statistics Canada put unemployment among 15- to 24-year-olds at 14.1%, more than double the 6.7% national rate; for South Asian youth, including Bangladeshis, it was 13%, against 11.2% for white youth [XC0121, XC0122]. Canada lost about 109,000 jobs in January and February 2026, half of them full time, including 64,000 held by young people [XC0123]. Analysts said employers now prefer experienced workers, and newcomers without professional networks often get no interview [XC0124, XC0125]. Ashiq Zaman, a Bangladeshi student at the University of Manitoba, said white classmates find jobs through references while South Asians send CVs to hundreds of places without reply [XC0126]. Competition is highest in Toronto, Montreal, Edmonton, Vancouver and Calgary, where many immigrants live, while smaller cities have fewer jobs [XC0127]. Part-time pay helps with daily costs but does not cover tuition, a Canada-based researcher wrote [XC0159].

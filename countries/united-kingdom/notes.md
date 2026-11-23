@@ -32,6 +32,7 @@ Facts logged but not cited from this pass: XK0071 (2024 GREAT round, superseded 
 - **Bangladeshis crossing the Channel:** the researchers wrote that many Bangladeshis who reached Italy "tried" to cross the Channel [XK0009]; the Bangladesh High Commission wrote in 2024 that no Bangladeshi had entered the UK illegally by boat [XK0019]. Not settleable from this set (an attempt is not an arrival, and the High Commission's letter is advocacy); the doc gives both with attribution and asks for Home Office small-boat figures in a Need to know.
 - **"Withdrawal" vs "refusal" rate (October 2026 article):** the article calls the 23.5% Bangladeshi figure a "withdrawal rate" (প্রত্যাহারের হার) while the article is about refusal rates and the Home Office's refusal-rate threshold. Likely a translation slip, but it changes what the number means, so the doc keeps the article's figures neutrally ("the rate reported") and has one Need to know.
 - **Russell Group description:** "24 leading universities" (June 2026). Not in conflict with anything.
+- **Graduate work visa length:** the only source (July 2024, pa-2024-07-04-6ngsgospii) gives up to two years; the doc states it with a "Need to know" asking whether that still holds for 2026-2027 graduates, since no newer source in the archive confirms it.
 
 ## Facts logged but not cited
 

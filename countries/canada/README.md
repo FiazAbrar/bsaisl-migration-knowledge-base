@@ -239,7 +239,7 @@ Every document must be genuine and every answer true: a forged education certifi
 
 ### 3.4 Can you work?
 
-1. During regular semesters a student may work up to 24 hours a week off campus, and full time during scheduled breaks such as summer or winter <sup>[N13](#n13), [N14](#n14)</sup>.
+1. During regular semesters a student may work up to 24 hours a week off campus, and full time during scheduled breaks such as summer or winter <sup>[N13](#n13), [N14](#n14)</sup>. No separate work permit is needed for part-time work on or off campus <sup>[N17 (2024)](#n17)</sup>.
 2. Working without authorisation can cancel student status and lead to refusal of the post-graduation work permit <sup>[N13](#n13)</sup>.
 
 **Finding work:** in April 2026 Statistics Canada put unemployment among 15- to 24-year-olds at 14.1%, more than double the 6.7% national rate; for South Asian youth, including Bangladeshis, it was 13%, against 11.2% for white youth <sup>[N12](#n12)</sup>. Canada lost about 109,000 jobs in January and February 2026, half of them full time, including 64,000 held by young people <sup>[N12](#n12)</sup>. Analysts said employers now prefer experienced workers, and newcomers without professional networks often get no interview <sup>[N12](#n12)</sup>. Ashiq Zaman, a Bangladeshi student at the University of Manitoba, said white classmates find jobs through references while South Asians send CVs to hundreds of places without reply <sup>[N12](#n12)</sup>. Competition is highest in Toronto, Montreal, Edmonton, Vancouver and Calgary, where many immigrants live, while smaller cities have fewer jobs <sup>[N12](#n12)</sup>. Part-time pay helps with daily costs but does not cover tuition, a Canada-based researcher wrote <sup>[N14](#n14)</sup>.
@@ -319,11 +319,11 @@ Canada issued 26,111 FIFA-related temporary resident permits or visas for the 20
 
 1. <a id="fake-hosts-and-invitation-letters-the-cbsa-case-item-1"></a>**The case:** on 22 October 2026 CBSA announced charges against five people for running an organised visit-visa fraud ring with forged papers and false information <sup>[N3](#n3)</sup>.
 2. <a id="fake-hosts-and-invitation-letters-the-cbsa-case-item-2"></a>**The applications:** 243 TRV applications in the names of 209 Bangladeshis showed fake Canadian citizen hosts on invitation letters and used forged documents and false information <sup>[N3](#n3)</sup>.
-3. <a id="fake-hosts-and-invitation-letters-the-cbsa-case-item-3"></a>**The accused:** Russell Mirza and Mohammad Aminul Islam of Montreal, Md Mudassar Alam Bhuiyan of Toronto, and Kazi Nafiz Alam appeared in the Valleyfield court in Quebec on 22 October 2026; the fifth, Md Rakibul Hasan, is believed to be in Bangladesh, and an arrest warrant was issued for him <sup>[N3](#n3), [N17](#n17)</sup>. The charges have not yet been tested in court <sup>[N17](#n17)</sup>.
-4. <a id="fake-hosts-and-invitation-letters-the-cbsa-case-item-4"></a>**How it came out:** on 3 July 2024 CBSA, with local police and fire officials, inspected a residential building in Mercier, Quebec, found signs of immigration breaches, and opened an investigation in August 2024; on 3 June 2025 it searched four sites in Quebec and Ontario and seized computers and documents <sup>[N3](#n3)</sup>. Investigators said the ring worked in an organised way, and they focused on the 79 applications with the strongest evidence <sup>[N17](#n17)</sup>.
+3. <a id="fake-hosts-and-invitation-letters-the-cbsa-case-item-3"></a>**The accused:** Russell Mirza and Mohammad Aminul Islam of Montreal, Md Mudassar Alam Bhuiyan of Toronto, and Kazi Nafiz Alam appeared in the Valleyfield court in Quebec on 22 October 2026; the fifth, Md Rakibul Hasan, is believed to be in Bangladesh, and an arrest warrant was issued for him <sup>[N3](#n3), [N18](#n18)</sup>. The charges have not yet been tested in court <sup>[N18](#n18)</sup>.
+4. <a id="fake-hosts-and-invitation-letters-the-cbsa-case-item-4"></a>**How it came out:** on 3 July 2024 CBSA, with local police and fire officials, inspected a residential building in Mercier, Quebec, found signs of immigration breaches, and opened an investigation in August 2024; on 3 June 2025 it searched four sites in Quebec and Ontario and seized computers and documents <sup>[N3](#n3)</sup>. Investigators said the ring worked in an organised way, and they focused on the 79 applications with the strongest evidence <sup>[N18](#n18)</sup>.
 5. <a id="fake-hosts-and-invitation-letters-the-cbsa-case-item-5"></a>**The charges:** under the Immigration and Refugee Protection Act (IRPA), sections 117(1) and 117(3) (organising illegal entry by conspiracy), 126 and 128(a) (helping create false information and hide facts in applications) and 131 (aiding a breach of immigration law) <sup>[N3](#n3)</sup>.
 
-Public Safety Minister Gary Anandasangaree said anyone who exploits the immigration system through fraud faces severe consequences <sup>[N17](#n17)</sup>. CBSA warned that fake bank statements, fake invitation letters or false information must never be used, and that the applicant can face a five-year ban even if an agent prepared the application <sup>[N3](#n3)</sup>.
+Public Safety Minister Gary Anandasangaree said anyone who exploits the immigration system through fraud faces severe consequences <sup>[N18](#n18)</sup>. CBSA warned that fake bank statements, fake invitation letters or false information must never be used, and that the applicant can face a five-year ban even if an agent prepared the application <sup>[N3](#n3)</sup>.
 
 <a id="stopped-before-boarding"></a>
 
@@ -423,7 +423,7 @@ Biman Bangladesh Airlines flies Dhaka to Toronto with a stopover in Rome; one fl
 
 ## 11 Contacts
 
-- **Bangladesh High Commission, Ottawa, and Consulate General, Toronto:** voter registration and smart NID (national identity card) services for Bangladeshis in Canada, available since 11 September 2025 <sup>[N18](#n18)</sup>.
+- **Bangladesh High Commission, Ottawa, and Consulate General, Toronto:** voter registration and smart NID (national identity card) services for Bangladeshis in Canada, available since 11 September 2025 <sup>[N19](#n19)</sup>.
 
 > **Need to know**
 > - The addresses, phone numbers and emergency helplines of the Bangladesh High Commission in Ottawa and the Consulate General in Toronto.
@@ -460,5 +460,6 @@ These facts come only from news or third-party sources. Each needs an official s
 - <a id="n14"></a>N14. Prothom Alo, 8 Nov 2026. [উচ্চমাধ্যমিকের পর কানাডায় উচ্চশিক্ষার সম্ভাবনা, প্রস্তুতি নেবেন কীভাবে](https://www.prothomalo.com/education/higher-education/n3r73ex50k). Accessed 23 Nov 2026.
 - <a id="n15"></a>N15. Prothom Alo, 18 Oct 2025. [কানাডায় ৬ বছর, সীমান্তে আটক বাংলাদেশিকে ফেরত দিচ্ছে না আমেরিকা](https://nagorik.prothomalo.com/durporobash/2icq9urvph). Accessed 23 Nov 2026. Possibly outdated.
 - <a id="n16"></a>N16. Prothom Alo, 14 Oct 2026. [ঢাকা-টরন্টোর অভিজ্ঞতা থেকে ঢাকা-নিউইয়র্কের সম্ভাবনা](https://www.prothomalo.com/opinion/column/5fttikx1gy). Accessed 23 Nov 2026.
-- <a id="n17"></a>N17. Prothom Alo, 24 Oct 2026. [কানাডায় অভিবাসন জালিয়াতির অভিযোগে পাঁচ বাংলাদেশির বিরুদ্ধে মামলা, একজনের বিরুদ্ধে গ্রেপ্তারি পরোয়ানা](https://www.prothomalo.com/world/94ztp26a3b). Accessed 23 Nov 2026.
-- <a id="n18"></a>N18. Prothom Alo, 12 Sep 2025. [কানাডাপ্রবাসী বাংলাদেশিদের জন্য ভোটার নিবন্ধন কার্যক্রম চালু করল ইসি](https://www.prothomalo.com/bangladesh/sizxq0qmpc). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n17"></a>N17. Prothom Alo, 4 Jul 2024. [বিদেশে পড়াশোনার সঙ্গে কাজের সুযোগ, এই পাঁচ দেশ হতে পারে গন্তব্য](https://www.prothomalo.com/education/higher-education/6ngsgospii). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n18"></a>N18. Prothom Alo, 24 Oct 2026. [কানাডায় অভিবাসন জালিয়াতির অভিযোগে পাঁচ বাংলাদেশির বিরুদ্ধে মামলা, একজনের বিরুদ্ধে গ্রেপ্তারি পরোয়ানা](https://www.prothomalo.com/world/94ztp26a3b). Accessed 23 Nov 2026.
+- <a id="n19"></a>N19. Prothom Alo, 12 Sep 2025. [কানাডাপ্রবাসী বাংলাদেশিদের জন্য ভোটার নিবন্ধন কার্যক্রম চালু করল ইসি](https://www.prothomalo.com/bangladesh/sizxq0qmpc). Accessed 23 Nov 2026. Possibly outdated.

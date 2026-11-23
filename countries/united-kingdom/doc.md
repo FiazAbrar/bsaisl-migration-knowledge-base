@@ -63,7 +63,7 @@ Tighter admission, rising tuition fees, the taka's fall against the pound, and h
 
 > **Need to know**
 > - What are the UK student visa fee, the Immigration Health Surcharge and the money a student must show in the bank in 2026?
-> - How many hours a week may a student work in term time, and what is the minimum wage?
+> - What is the UK minimum wage for a student working part time in 2026?
 
 ### What ties you to the employer
 
@@ -150,6 +150,15 @@ Since 15 July 2025 Bangladeshi students get an e-visa, a digital record of the v
 
 > **Need to know**
 > - What is the web address for creating the UKVI account, and what does an airline at Dhaka airport ask to see for a student with an e-visa?
+
+### Working during and after your studies
+
+1. During the course a full-time student may work part time up to 20 hours a week, under the visa's study conditions [XK0162].
+2. Students may also work during course breaks, or as part of an academic placement [XK0162].
+3. After the course, the UK lets graduates work for up to two years on a work visa [XK0163].
+
+> **Need to know**
+> - Is the graduate work visa still two years for students finishing in 2026 and 2027, and what does it cost to apply?
 
 ### Scholarships
 
@@ -273,6 +282,18 @@ The Bangladesh High Commission in London posted the steps, infographics and vide
 
 > **Need to know**
 > - Will postal voting from the UK be offered again for later elections, and when does registration open?
+
+## Online harassment from other Bangladeshis
+
+Several Bangladeshi women living in the UK told the BBC in 2024 that a Bangladeshi man living in the Paris suburbs, Hasan Sayed, with thousands of TikTok followers, trolled them [XK0150]. Victims alleged he took their personal photos and details from social media, put them in trolling videos, and on TikTok live mocked them and threatened rape and murder [XK0151]. What victims tried, and what happened:
+
+- **Police and platform reports:** many complained to police in the UK and France and reported to the platforms, without result [XK0152]. TikTok told one victim, Kamrul Islam of Staffordshire, that the videos did not breach its community guidelines, and the police gave him no hope [XK0153].
+- **Mass reporting by followers:** Masuma, a victim in Wales, had a video calling her a sex worker taken down only after her followers reported it again and again, when the damage was already done [XK0161].
+- **UK embassy in the harasser's country:** in February 2023 Kamrul went to the UK embassy in Paris, which put him in touch with an English-speaking French lawyer; the lawyer filed a complaint with the Paris public prosecutor's office, and said a final outcome would take a long time [XK0154, XK0155, XK0156].
+- **Information Commissioner's Office (ICO, the UK's data-protection regulator):** in April 2023 Kamrul went to the ICO, which found the content very worrying and disagreed with the platforms' reasons [XK0157]. Citing misuse of children's personal data, it told TikTok, YouTube and Facebook to remove the videos within seven days, and the three said they would delete content against their guidelines and block the accounts [XK0158, XK0159]. Kamrul said he still had to contact TikTok almost daily about new accounts, and effective action was not always taken [XK0160].
+
+> **Need to know**
+> - How does a person in the UK file a complaint with the ICO about videos using their or their children's personal data, and does it act when no children are involved?
 
 ## Contacts
 
