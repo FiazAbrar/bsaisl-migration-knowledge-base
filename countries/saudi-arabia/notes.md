@@ -929,3 +929,5 @@ Citation-precision or wording points found in the final independent check and no
 - Umrah biometrics: the same guide (SQ0022) says an Android phone is needed; D0168 says Saudi Visa Bio is on Google Play and the App Store. Kept D0168; SQ0022 not cited.
 - Mahram proof for women (SQ0018): only this guide states it; added attributed, with a Need to know, as it could not be checked against an official source in this pass (no network).
 - SQ0010 (state minister: one Bangladeshi killed in an earlier Houthi attack; 14 lost in the war) duplicates SP0779-SP0781 (Sajib Hossain) and SP0823 (14 killed); not cited.
+
+- **Mahram for women on Umrah (23 Nov 2026):** a December 2025 Prothom Alo Umrah guide (SQ0018) lists proof of a mahram relationship. Saudi Arabia's Minister of Hajj and Umrah announced in October 2022 that women can perform Hajj and Umrah without a mahram (Arab News, SQ0050). The minister's statement is the primary source and stands; the doc mentions the guide's line only so readers know agencies may still list it, and the Need to know now asks whether Bangladeshi agencies still ask for it.

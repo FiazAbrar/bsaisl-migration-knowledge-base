@@ -1808,12 +1808,12 @@ It is issued all year except the Hajj season (15 Dhul Qa'dah to 15 Dhul Hijjah) 
    - a passport valid 6 months with 2 blank pages
    - a white-background photo
    - a meningitis (ACWY) certificate from at least 10 days before arrival
-   - for a woman, proof of her relationship to her mahram (male guardian), such as a marriage or birth certificate, according to a December 2025 Prothom Alo guide [SQ0018]
+   - a woman does not need a mahram (male guardian): Saudi Arabia's Minister of Hajj and Umrah announced in October 2022 that women can perform the pilgrimage without one [SQ0050], although a December 2025 Prothom Alo guide still lists proof of the mahram relationship among the papers [SQ0018]
 
    If a Saudi-based relative or acquaintance books your hotel instead, check it is approved by the Saudi government for Umrah pilgrims: many Makkah hotels are being cleared as the government rebuilds the city, the same guide says [SQ0019]. The guide also says medicine is hard to get in Saudi Arabia without a prescription [SQ0020].
 
    > **Need to know**
-   > - Does a woman still need proof of a mahram relationship for an Umrah visa?
+   > - Do Bangladeshi Umrah agencies still ask women for proof of a mahram relationship, and do they refuse women travelling without one?
 3. **Enrol face and fingerprints** after applying, in Saudi Visa Bio, the Foreign Ministry's free app on Google Play and the App Store, with your email and a photo of your passport; anyone 6 or older, under-18s with an adult [D0168, D0090].
 4. **Travel within 30 days** of issue, or the visa is cancelled [D0091].
 

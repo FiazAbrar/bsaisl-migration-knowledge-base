@@ -2175,16 +2175,16 @@ It is issued all year except the Hajj season (15 Dhul Qa'dah to 15 Dhul Hijjah) 
    - a passport valid 6 months with 2 blank pages
    - a white-background photo
    - a meningitis (ACWY) certificate from at least 10 days before arrival
-   - for a woman, proof of her relationship to her mahram (male guardian), such as a marriage or birth certificate, according to a December 2025 Prothom Alo guide <sup>[N311](#n311)</sup>
+   - a woman does not need a mahram (male guardian): Saudi Arabia's Minister of Hajj and Umrah announced in October 2022 that women can perform the pilgrimage without one <sup>[N311 (2022)](#n311)</sup>, although a December 2025 Prothom Alo guide still lists proof of the mahram relationship among the papers <sup>[N312](#n312)</sup>
 
-   If a Saudi-based relative or acquaintance books your hotel instead, check it is approved by the Saudi government for Umrah pilgrims: many Makkah hotels are being cleared as the government rebuilds the city, the same guide says <sup>[N311](#n311)</sup>. The guide also says medicine is hard to get in Saudi Arabia without a prescription <sup>[N311](#n311)</sup>.
+   If a Saudi-based relative or acquaintance books your hotel instead, check it is approved by the Saudi government for Umrah pilgrims: many Makkah hotels are being cleared as the government rebuilds the city, the same guide says <sup>[N312](#n312)</sup>. The guide also says medicine is hard to get in Saudi Arabia without a prescription <sup>[N312](#n312)</sup>.
 
    > **Need to know**
-   > - Does a woman still need proof of a mahram relationship for an Umrah visa?
+   > - Do Bangladeshi Umrah agencies still ask women for proof of a mahram relationship, and do they refuse women travelling without one?
 3. <a id="umrah-visa-item-3"></a>**Enrol face and fingerprints** after applying, in Saudi Visa Bio, the Foreign Ministry's free app on Google Play and the App Store, with your email and a photo of your passport; anyone 6 or older, under-18s with an adult <sup>[131](#o131), [N307](#n307)</sup>.
-4. <a id="umrah-visa-item-4"></a>**Travel within 30 days** of issue, or the visa is cancelled <sup>[N312](#n312)</sup>.
+4. <a id="umrah-visa-item-4"></a>**Travel within 30 days** of issue, or the visa is cancelled <sup>[N313](#n313)</sup>.
 
-**Umrah visas used for trafficking.** According to the CID (the police Criminal Investigation Department), a ring promising jobs in Russia at Tk 2 to 2.5 lakh a month first sent 10 Bangladeshis to Saudi Arabia on Umrah visas, had them perform Umrah, then took them to Russia, where they were sold on and forced to fight against Ukraine; one, Humayun Kabir of Singra, Natore, was killed and another badly injured (February 2025) <sup>[N313](#n313)</sup>. A second group of 10 refused to go on once they learned recruits were forced to fight; their passports were taken, so they could neither work in Saudi Arabia nor go home, the CID said in February and again in June 2025 <sup>[N313](#n313), [N314](#n314)</sup>.
+**Umrah visas used for trafficking.** According to the CID (the police Criminal Investigation Department), a ring promising jobs in Russia at Tk 2 to 2.5 lakh a month first sent 10 Bangladeshis to Saudi Arabia on Umrah visas, had them perform Umrah, then took them to Russia, where they were sold on and forced to fight against Ukraine; one, Humayun Kabir of Singra, Natore, was killed and another badly injured (February 2025) <sup>[N314](#n314)</sup>. A second group of 10 refused to go on once they learned recruits were forced to fight; their passports were taken, so they could neither work in Saudi Arabia nor go home, the CID said in February and again in June 2025 <sup>[N314](#n314), [N315](#n315)</sup>.
 
 **Pilgrims hurt or stranded in October 2026.** Of the 24 Bangladeshis injured in the attack on Riyadh airport on 10 October 2026, 13 had come on Umrah visas, according to Foreign Ministry sources citing the embassy, which was in touch with the hospitals over their treatment <sup>[N24](#n24)</sup>. On 19 October 2026 the expatriates' welfare minister said many Umrah pilgrims were stranded in Saudi Arabia, many unable to return because of flight cancellations, and would be brought home when the situation normalised <sup>[N31](#n31)</sup>.
 
@@ -2198,7 +2198,7 @@ It is issued all year except the Hajj season (15 Dhul Qa'dah to 15 Dhul Hijjah) 
 
 ## 5 Hajj visa
 
-Hajj visas are issued only within Bangladesh's yearly quota, through the Ministry of Religious Affairs; the 2027 quota of 78,500 is full and registration has closed <sup>[N315](#n315)</sup>. Children under 15, people with serious chronic or infectious illness, and women late in or at high risk in pregnancy can't go <sup>[N316](#n316)</sup>. For Hajj 2025 the quota was 127,198, the Hajj agreement with Saudi Arabia was due on 13 January 2025, Hajj visas from 19 February and Hajj flights from 29 April <sup>[N317 (2024)](#n317)</sup>. Bangladesh is among the countries in Saudi Arabia's Route to Makkah Initiative, a Bangladesh foreign ministry official said in January 2025 <sup>[N70](#n70)</sup>.
+Hajj visas are issued only within Bangladesh's yearly quota, through the Ministry of Religious Affairs; the 2027 quota of 78,500 is full and registration has closed <sup>[N316](#n316)</sup>. Children under 15, people with serious chronic or infectious illness, and women late in or at high risk in pregnancy can't go <sup>[N317](#n317)</sup>. For Hajj 2025 the quota was 127,198, the Hajj agreement with Saudi Arabia was due on 13 January 2025, Hajj visas from 19 February and Hajj flights from 29 April <sup>[N318 (2024)](#n318)</sup>. Bangladesh is among the countries in Saudi Arabia's Route to Makkah Initiative, a Bangladesh foreign ministry official said in January 2025 <sup>[N70](#n70)</sup>.
 
 > **Need to know**
 > - When does pre-registration for the next Hajj open?
@@ -2208,10 +2208,10 @@ Hajj visas are issued only within Bangladesh's yearly quota, through the Ministr
 1. <a id="hajj-visa-item-1"></a>**Pre-register:** Tk 30,000, with NID or passport (birth registration under 18) <sup>[133](#o133)</sup>.
    - Government package: on [hajj.gov.bd](https://hajj.gov.bd/) or at a DC office, Islamic Foundation office, Union Digital Centre or the Dhaka Hajj Office <sup>[133](#o133)</sup>.
    - Private package: through a licensed agency on the ministry's list <sup>[N308](#n308)</sup>.
-2. <a id="hajj-visa-item-2"></a>**Primary registration:** deposit Tk 3.5 lakh <sup>[N316](#n316)</sup>.
-   - Government package: at any Sonali Bank branch with a voucher <sup>[N316](#n316)</sup>.
-   - Private package: into the agency's account shown on the Hajj portal <sup>[N316](#n316)</sup>. For Hajj 2025 the government's rule was that the whole package money be paid only into the agency's bank account or at the agency itself, the pilgrim keeping the receipt, with no dealings with middlemen, and women and children depositing together with their mahram (a close male guardian relative) <sup>[N317 (2024)](#n317)</sup>.
-3. <a id="hajj-visa-item-3"></a>**Final registration:** pay the rest by the final-registration deadline the ministry sets; for Hajj 2027 it is 10 December 2026 <sup>[N316](#n316)</sup>. 2027 government packages cost Tk 5,05,648 to Tk 6,15,263, the private standard package Tk 5,13,648 <sup>[N318](#n318)</sup>. For comparison, 2025 government packages were Tk 4,78,242 (housing within 3 km of Masjid al-Haram) and Tk 5,75,680 (within 1.5 km) and the private general package Tk 4,83,156, against Tk 5,78,840 for the government general package and Tk 5,89,800 for the private general package in 2024 <sup>[N317 (2024)](#n317)</sup>. On 18 April 2026 the Prime Minister's spokesman said the cost of Hajj travel had been cut by Tk 12,000 per ticket <sup>[N319](#n319)</sup>. For Hajj 2025 each pilgrim paid the sacrifice (qurbani), SR 1,000, separately from the package; people aged 65 or over could go; and passports had to be valid to 31 December 2025 <sup>[N317 (2024)](#n317)</sup>.
+2. <a id="hajj-visa-item-2"></a>**Primary registration:** deposit Tk 3.5 lakh <sup>[N317](#n317)</sup>.
+   - Government package: at any Sonali Bank branch with a voucher <sup>[N317](#n317)</sup>.
+   - Private package: into the agency's account shown on the Hajj portal <sup>[N317](#n317)</sup>. For Hajj 2025 the government's rule was that the whole package money be paid only into the agency's bank account or at the agency itself, the pilgrim keeping the receipt, with no dealings with middlemen, and women and children depositing together with their mahram (a close male guardian relative) <sup>[N318 (2024)](#n318)</sup>.
+3. <a id="hajj-visa-item-3"></a>**Final registration:** pay the rest by the final-registration deadline the ministry sets; for Hajj 2027 it is 10 December 2026 <sup>[N317](#n317)</sup>. 2027 government packages cost Tk 5,05,648 to Tk 6,15,263, the private standard package Tk 5,13,648 <sup>[N319](#n319)</sup>. For comparison, 2025 government packages were Tk 4,78,242 (housing within 3 km of Masjid al-Haram) and Tk 5,75,680 (within 1.5 km) and the private general package Tk 4,83,156, against Tk 5,78,840 for the government general package and Tk 5,89,800 for the private general package in 2024 <sup>[N318 (2024)](#n318)</sup>. On 18 April 2026 the Prime Minister's spokesman said the cost of Hajj travel had been cut by Tk 12,000 per ticket <sup>[N320](#n320)</sup>. For Hajj 2025 each pilgrim paid the sacrifice (qurbani), SR 1,000, separately from the package; people aged 65 or over could go; and passports had to be valid to 31 December 2025 <sup>[N318 (2024)](#n318)</sup>.
 
    > **Need to know**
    > - Is the sacrifice still paid on top of the package for Hajj 2027, and how much?
@@ -2219,19 +2219,19 @@ Hajj visas are issued only within Bangladesh's yearly quota, through the Ministr
 4. <a id="hajj-visa-item-4"></a>**Give the agency your passport and registration certificate, and do biometrics** in Saudi Visa Bio <sup>[133](#o133)</sup>.
 5. <a id="hajj-visa-item-5"></a>**Collect passport, ticket, visa, ID card and luggage tags** before the flight <sup>[133](#o133)</sup>.
 
-**Choosing a package.** Pilgrims who had performed Hajj several times said in November 2024 <sup>[N317 (2024)](#n317)</sup>:
+**Choosing a package.** Pilgrims who had performed Hajj several times said in November 2024 <sup>[N318 (2024)](#n318)</sup>:
 
 - There are moallems (Saudi Hajj service providers) numbered 1 to 115 for South Asian countries, and how far your tent in Mina is from the Jamarat (the stoning site) depends on the price of the moallem cluster.
 - Get in writing any extra service a moallem gives for an extra charge; these cause disputes in Mina.
 - Buy an Islamic Development Bank (IDB) coupon for the sacrifice to avoid fraud over it.
 - Ask in advance whether the package has a "fitra", a move between houses in Makkah, nearer or farther from the Kaaba, before or after Hajj.
 
-**Scams.** The same pilgrims said a package cheaper than the announced price risks being cheated, that no agreement should be made with a middleman, broker or so-called moallem, and that pilgrims should check which agencies have complaints against them from the Saudi Hajj Ministry <sup>[N317 (2024)](#n317)</sup>.
+**Scams.** The same pilgrims said a package cheaper than the announced price risks being cheated, that no agreement should be made with a middleman, broker or so-called moallem, and that pilgrims should check which agencies have complaints against them from the Saudi Hajj Ministry <sup>[N318 (2024)](#n318)</sup>.
 
 > **Need to know**
 > - Where can a pilgrim see which Bangladeshi agencies have complaints against them from the Saudi Hajj Ministry?
 
-Hajj on any other visa brings up to SR 20,000 fine, deportation and a ban of up to 10 years <sup>[N320](#n320)</sup>. For Hajj 2025, from 1 Zilqad (29 April) to 14 Zilhajj (10 June), Saudi Arabia barred anyone from entering or staying in Makkah and the holy sites without a permit to work at the holy sites, a Makkah-registered iqama or an official Hajj permit, and said visit-visa holders would be closely watched <sup>[N76](#n76)</sup>.
+Hajj on any other visa brings up to SR 20,000 fine, deportation and a ban of up to 10 years <sup>[N321](#n321)</sup>. For Hajj 2025, from 1 Zilqad (29 April) to 14 Zilhajj (10 June), Saudi Arabia barred anyone from entering or staying in Makkah and the holy sites without a permit to work at the holy sites, a Makkah-registered iqama or an official Hajj permit, and said visit-visa holders would be closely watched <sup>[N76](#n76)</sup>.
 
 **Questions and complaints:** helpline 16136 (+880 9602666707 from abroad in office hours) <sup>[133](#o133)</sup>; against a private agency that took money and didn't deliver, complain as for an Umrah agency (see [Umrah visa](#umrah-visa), If the agency cheats you) <sup>[132](#o132)</sup>.
 
@@ -2244,14 +2244,14 @@ Hajj on any other visa brings up to SR 20,000 fine, deportation and a ban of up 
 
 A worker whose work permit is graded skilled (or high-skilled) can bring a spouse, sons under 25 and unmarried daughters to live in Saudi Arabia <sup>[94](#o94), [81](#o81)</sup>. Skilled means occupational groups 4 to 8 with pay above a ministry threshold and professional accreditation <sup>[81](#o81)</sup>. Elementary jobs (occupational group 9), and jobs in groups 1 to 8 paid below the skilled wage threshold, are graded basic <sup>[81](#o81)</sup>; whether basic-grade workers can bring family is not known (see the Need to know below). Each permit's grade shows in the employer's Qiwa account and can be corrected ([Bringing your family](#bringing-your-family)) <sup>[81](#o81)</sup>.
 
-The family can get entry visas with the worker's work visa, finishing residence after arrival <sup>[94](#o94)</sup>. Besides the visa fee (item 4), each dependant costs SR 400 a month after the first 90 days <sup>[N321](#n321)</sup>. For relatives to come for up to 90 days instead, see [Family visit visa](#family-visit-visa).
+The family can get entry visas with the worker's work visa, finishing residence after arrival <sup>[94](#o94)</sup>. Besides the visa fee (item 4), each dependant costs SR 400 a month after the first 90 days <sup>[N322](#n322)</sup>. For relatives to come for up to 90 days instead, see [Family visit visa](#family-visit-visa).
 
 > **Need to know**
 > - Did the skilled-grade rule replace the SR 3,500 GOSI salary condition?
 > - Do basic-level workers get family residence visas at all?
 
-1. <a id="family-residence-item-1"></a>**Check you qualify:** a skilled or high-skilled grade on your permit <sup>[94](#o94), [81](#o81)</sup>; one guide also asks for a salary of at least SR 3,500 a month on your GOSI record (see the Need to know above) <sup>[N321](#n321)</sup>.
-2. <a id="family-residence-item-2"></a>**Prepare the papers in Bangladesh,** attested and translated into Arabic <sup>[N321](#n321)</sup>:
+1. <a id="family-residence-item-1"></a>**Check you qualify:** a skilled or high-skilled grade on your permit <sup>[94](#o94), [81](#o81)</sup>; one guide also asks for a salary of at least SR 3,500 a month on your GOSI record (see the Need to know above) <sup>[N322](#n322)</sup>.
+2. <a id="family-residence-item-2"></a>**Prepare the papers in Bangladesh,** attested and translated into Arabic <sup>[N322](#n322)</sup>:
    - the marriage certificate
    - children's birth certificates
    - your degree certificate
@@ -2261,8 +2261,8 @@ The family can get entry visas with the worker's work visa, finishing residence 
    > **Need to know**
    > - Do Absher and the Saudi embassy accept an apostille instead of attestation for these papers?
 
-3. <a id="family-residence-item-3"></a>**Apply on Absher:** My Services, Expatriates Services, New Family Visa Application, or at the recruitment (Istiqdam) office if Absher shows an error <sup>[N321](#n321)</sup>. Print and sign the form; your company's HR attests it on the Chamber of Commerce site within 30 days (SR 30) <sup>[N321](#n321)</sup>.
-4. <a id="family-residence-item-4"></a>**Pay the SR 2,000 visa fee** through SADAD, the Saudi bill-payment system in your bank's app, with your iqama and application numbers <sup>[N321](#n321)</sup>; after 2-3 working days Absher shows the visa number; send it to your family <sup>[N321](#n321)</sup>.
+3. <a id="family-residence-item-3"></a>**Apply on Absher:** My Services, Expatriates Services, New Family Visa Application, or at the recruitment (Istiqdam) office if Absher shows an error <sup>[N322](#n322)</sup>. Print and sign the form; your company's HR attests it on the Chamber of Commerce site within 30 days (SR 30) <sup>[N322](#n322)</sup>.
+4. <a id="family-residence-item-4"></a>**Pay the SR 2,000 visa fee** through SADAD, the Saudi bill-payment system in your bank's app, with your iqama and application numbers <sup>[N322](#n322)</sup>; after 2-3 working days Absher shows the visa number; send it to your family <sup>[N322](#n322)</sup>.
 
    > **Need to know**
    > - Is the SR 2,000 visa fee charged once per family or for each family member?
@@ -2275,13 +2275,13 @@ The family can get entry visas with the worker's work visa, finishing residence 
    > - How long does Tasheer take to process it?
    > - Can a refused family residence visa be appealed?
 
-A dependant can work in health or education through Ajeer (see [Family dependant to work](#family-dependant-to-work)) <sup>[N322 (2024)](#n322)</sup>. For a child born in Saudi Arabia, see If a baby is born in Saudi Arabia below.
+A dependant can work in health or education through Ajeer (see [Family dependant to work](#family-dependant-to-work)) <sup>[N323 (2024)](#n323)</sup>. For a child born in Saudi Arabia, see If a baby is born in Saudi Arabia below.
 
 <a id="if-a-baby-is-born-in-saudi-arabia"></a>
 
 ### 6.1 If a baby is born in Saudi Arabia
 
-**Saudi registration:** register the baby on Absher (My Services, Services, Civil Affairs, Newborn Registration) within 30 days, or pay a fine <sup>[N323](#n323)</sup>.
+**Saudi registration:** register the baby on Absher (My Services, Services, Civil Affairs, Newborn Registration) within 30 days, or pay a fine <sup>[N324](#n324)</sup>.
 
 **Nationality:** a child of a Bangladeshi parent is Bangladeshi <sup>[136](#o136)</sup>.
 
@@ -2312,18 +2312,18 @@ A dependant can work in health or education through Ajeer (see [Family dependant
 
 ## 7 Family visit visa
 
-The family visit visa lets you visit a relative working in Saudi Arabia for up to 90 days; it is valid 90 days and costs USD 80 plus USD 21 service fees and insurance <sup>[95](#o95)</sup>. Your relative applies for it and the employer approves it <sup>[14](#o14)</sup>. It doesn't allow work and can't become a job ([Changing visa type](#changing-visa-type)) <sup>[N158 (2022)](#n158), [5 (2024)](#o5)</sup>. Bangladeshis without a US, UK or Schengen visit visa apply through a visa service centre <sup>[95](#o95)</sup>. Umrah is allowed, Hajj is not <sup>[95](#o95)</sup>. A visitor on a personal or family visit visa who disappears can be reported as absconded or missing by the host on Abshir Individuals, from 7 to 14 days after the visa expires <sup>[N130](#n130)</sup>. Around the Hajj season Saudi Arabia can suspend these visas and order holders out, on pain of fines and a ban <sup>[N324](#n324)</sup>.
+The family visit visa lets you visit a relative working in Saudi Arabia for up to 90 days; it is valid 90 days and costs USD 80 plus USD 21 service fees and insurance <sup>[95](#o95)</sup>. Your relative applies for it and the employer approves it <sup>[14](#o14)</sup>. It doesn't allow work and can't become a job ([Changing visa type](#changing-visa-type)) <sup>[N158 (2022)](#n158), [5 (2024)](#o5)</sup>. Bangladeshis without a US, UK or Schengen visit visa apply through a visa service centre <sup>[95](#o95)</sup>. Umrah is allowed, Hajj is not <sup>[95](#o95)</sup>. A visitor on a personal or family visit visa who disappears can be reported as absconded or missing by the host on Abshir Individuals, from 7 to 14 days after the visa expires <sup>[N130](#n130)</sup>. Around the Hajj season Saudi Arabia can suspend these visas and order holders out, on pain of fines and a ban <sup>[N325](#n325)</sup>.
 
 > **Need to know**
 > - Will Saudi Arabia suspend family visit visas again before Hajj 2027?
 
-1. <a id="family-visit-visa-item-1"></a>**Your relative applies** on [visa.mofa.gov.sa](https://visa.mofa.gov.sa/); the relative's work iqama needs at least 3-4 months left <sup>[N325](#n325)</sup>. The steps <sup>[14](#o14)</sup>:
+1. <a id="family-visit-visa-item-1"></a>**Your relative applies** on [visa.mofa.gov.sa](https://visa.mofa.gov.sa/); the relative's work iqama needs at least 3-4 months left <sup>[N326](#n326)</sup>. The steps <sup>[14](#o14)</sup>:
    1. Log in with Nafath, the Saudi digital ID app.
    2. Choose Family visit visa and press Apply.
    3. Fill in the form, press Add and enter your details exactly as in your passport.
    4. Approve the agreement, Save and print.
-2. <a id="family-visit-visa-item-2"></a>**The employer approves it** online ("Ratify individuals applications"), a domestic worker's employer too <sup>[14](#o14), [N325](#n325)</sup>; your relative sends you the visa document number <sup>[N325](#n325)</sup>.
-3. <a id="family-visit-visa-item-3"></a>**You apply through Tasheer** (see [Work visa: company worker](#work-visa-company-worker), [Step 5: Give fingerprints at the Tasheer visa centre](#step-5-give-fingerprints-at-the-tasheer-visa-centre)) with that number and proof of the relationship, such as a marriage or birth certificate, and track it with Track Status on vc.tasheer.com <sup>[N325](#n325), [N105](#n105)</sup>.
+2. <a id="family-visit-visa-item-2"></a>**The employer approves it** online ("Ratify individuals applications"), a domestic worker's employer too <sup>[14](#o14), [N326](#n326)</sup>; your relative sends you the visa document number <sup>[N326](#n326)</sup>.
+3. <a id="family-visit-visa-item-3"></a>**You apply through Tasheer** (see [Work visa: company worker](#work-visa-company-worker), [Step 5: Give fingerprints at the Tasheer visa centre](#step-5-give-fingerprints-at-the-tasheer-visa-centre)) with that number and proof of the relationship, such as a marriage or birth certificate, and track it with Track Status on vc.tasheer.com <sup>[N326](#n326), [N105](#n105)</sup>.
 
    > **Need to know**
    > - What documents does Tasheer require for a family visit visa?
@@ -2385,16 +2385,16 @@ The business visit visa is for meetings, conferences and partnerships, not a per
 
 ## 10 Student visa
 
-Applying on [studyinsaudi.sa](https://studyinsaudi.sa/), the Ministry of Education's platform, is free; agents who charge to apply are not authorised <sup>[N326](#n326)</sup>. Official Saudi sites end in .sa or gov.sa <sup>[142](#o142)</sup>. Full scholarships have covered tuition, airfare, housing, meals, books and a stipend <sup>[143](#o143), [N327](#n327)</sup>; a June 2024 Prothom Alo guide put the stipend at about SR 840 a month, with free housing and medical care, a yearly return ticket home and a preparation allowance, and said some universities give married students a family visa and quarters <sup>[N328 (2024)](#n328)</sup>. Universities that take foreign students include the Islamic University of Madinah, King Abdulaziz University in Jeddah, Umm Al-Qura University in Makkah and Taibah University in Madinah <sup>[N328 (2024)](#n328)</sup>. King Fahd University, a public university in Dhahran, offered Bangladeshis full scholarships for master's and PhD study in 2024, free to apply, covering tuition, a monthly stipend, housing, health insurance, textbooks, flights and cafeteria meals <sup>[N329 (2024)](#n329)</sup>. It asked for a four-year bachelor's for a master's or a two-year master's for a PhD, and IELTS or TOEFL, transcripts, three reference letters, a CV, a photo, a research proposal and a one-page statement of purpose; the 2024 deadline was 29 June <sup>[N329 (2024)](#n329)</sup>. Applications are taken only in windows; the last one closed on 6 October 2026 <sup>[N326](#n326)</sup>.
+Applying on [studyinsaudi.sa](https://studyinsaudi.sa/), the Ministry of Education's platform, is free; agents who charge to apply are not authorised <sup>[N327](#n327)</sup>. Official Saudi sites end in .sa or gov.sa <sup>[142](#o142)</sup>. Full scholarships have covered tuition, airfare, housing, meals, books and a stipend <sup>[143](#o143), [N328](#n328)</sup>; a June 2024 Prothom Alo guide put the stipend at about SR 840 a month, with free housing and medical care, a yearly return ticket home and a preparation allowance, and said some universities give married students a family visa and quarters <sup>[N329 (2024)](#n329)</sup>. Universities that take foreign students include the Islamic University of Madinah, King Abdulaziz University in Jeddah, Umm Al-Qura University in Makkah and Taibah University in Madinah <sup>[N329 (2024)](#n329)</sup>. King Fahd University, a public university in Dhahran, offered Bangladeshis full scholarships for master's and PhD study in 2024, free to apply, covering tuition, a monthly stipend, housing, health insurance, textbooks, flights and cafeteria meals <sup>[N330 (2024)](#n330)</sup>. It asked for a four-year bachelor's for a master's or a two-year master's for a PhD, and IELTS or TOEFL, transcripts, three reference letters, a CV, a photo, a research proposal and a one-page statement of purpose; the 2024 deadline was 29 June <sup>[N330 (2024)](#n330)</sup>. Applications are taken only in windows; the last one closed on 6 October 2026 <sup>[N327](#n327)</sup>.
 
 > **Need to know**
 > - When does the next application window open?
 
-1. <a id="student-visa-item-1"></a>**Check you qualify** <sup>[N326](#n326)</sup>:
+1. <a id="student-visa-item-1"></a>**Check you qualify** <sup>[N327](#n327)</sup>:
    - ages 17 to 25 for a bachelor's, up to 30 for a master's, 35 for a PhD
    - IELTS 5.5 or English-medium schooling for courses in English
 
-   The June 2024 Prothom Alo guide gives different rules <sup>[N328 (2024)](#n328)</sup>:
+   The June 2024 Prothom Alo guide gives different rules <sup>[N329 (2024)](#n329)</sup>:
    - ages 17 to 23 (25 at some universities), with at least GPA 4 at HSC or Alim, though some universities state no grade or accept less
    - no direct entry to a bachelor's: you first apply for the four-level Diploma in Arabic at the university's Arabic language institute, which takes two years (one to one and a half if you start at level two or three), and enter the degree only with satisfactory results; Arabic and Islamic subjects are taught wholly in Arabic, others in English
    - a woman needs a copy of her mahram's (male guardian relative's) iqama, because Saudi rules didn't allow women higher education without a mahram
@@ -2404,13 +2404,13 @@ Applying on [studyinsaudi.sa](https://studyinsaudi.sa/), the Ministry of Educati
    > - Must a Bangladeshi first pass the Arabic diploma, or can a student with IELTS 5.5 enter a degree taught in English directly?
    > - Does a woman still need a mahram's iqama to apply?
 
-2. <a id="student-visa-item-2"></a>**Apply** to up to 5 universities, 3 programmes each <sup>[N326](#n326)</sup>, uploading <sup>[142](#o142)</sup>:
+2. <a id="student-visa-item-2"></a>**Apply** to up to 5 universities, 3 programmes each <sup>[N327](#n327)</sup>, uploading <sup>[142](#o142)</sup>:
    - a valid passport
    - a medical report showing no infectious disease
    - attested certificates
    - whatever the university asks
 
-   Only contact details can be changed after submitting <sup>[142](#o142)</sup>. The June 2024 guide described the papers as PDFs of at most 200 KB: a passport valid at least two years; a white-background photo without cap or glasses; a medical fitness certificate from the civil surgeon or any medical centre; a character certificate from the Islamic Foundation, two known scholars or a college teacher; and HSC or Alim certificates and mark sheets translated into Arabic at an approved centre, notarised, then attested by the Islamic Foundation, the education board, the education and foreign ministries and finally the Saudi embassy in Bangladesh <sup>[N328 (2024)](#n328)</sup>.
+   Only contact details can be changed after submitting <sup>[142](#o142)</sup>. The June 2024 guide described the papers as PDFs of at most 200 KB: a passport valid at least two years; a white-background photo without cap or glasses; a medical fitness certificate from the civil surgeon or any medical centre; a character certificate from the Islamic Foundation, two known scholars or a college teacher; and HSC or Alim certificates and mark sheets translated into Arabic at an approved centre, notarised, then attested by the Islamic Foundation, the education board, the education and foreign ministries and finally the Saudi embassy in Bangladesh <sup>[N329 (2024)](#n329)</sup>.
 
    > **Need to know**
    > - Does an apostille now replace the attestation chain for study certificates, as it does for work papers?
@@ -2440,7 +2440,7 @@ Applying on [studyinsaudi.sa](https://studyinsaudi.sa/), the Ministry of Educati
 
 ### 11.1 Temporary work visa
 
-A Saudi employer requests it on Qiwa (the labour ministry's work platform) for project or contract work; it lasts 90 days plus one 90-day extension, gives no iqama, and the employer pays its SR 1,000 fee <sup>[N330](#n330)</sup>.
+A Saudi employer requests it on Qiwa (the labour ministry's work platform) for project or contract work; it lasts 90 days plus one 90-day extension, gives no iqama, and the employer pays its SR 1,000 fee <sup>[N331](#n331)</sup>.
 
 > **Need to know**
 > - Who finds the job for a Bangladeshi on a temporary work visa?
@@ -2453,7 +2453,7 @@ A Saudi employer requests it on Qiwa (the labour ministry's work platform) for p
 
 ### 11.2 Hajj seasonal work visa
 
-This visa is for Hajj-season work only and can't be renewed or converted to a work visa; whether Bangladeshis can get it at all is not known. Entry is from 1 Shawwal for a 4-month stay, and the entry fee is SR 1,000 <sup>[N331 (2023)](#n331)</sup>.
+This visa is for Hajj-season work only and can't be renewed or converted to a work visa; whether Bangladeshis can get it at all is not known. Entry is from 1 Shawwal for a 4-month stay, and the entry fee is SR 1,000 <sup>[N332 (2023)](#n332)</sup>.
 
 > **Need to know**
 > - Do Bangladeshis get the Hajj seasonal work visa?
@@ -2463,18 +2463,18 @@ This visa is for Hajj-season work only and can't be renewed or converted to a wo
 
 ### 11.3 Stopover (transit) visa
 
-This visa is for Saudia passengers flying through Saudi Arabia, open to Bangladeshis <sup>[N332](#n332), [N333 (2024)](#n333)</sup>. It allows one stay of up to 96 hours, with no extension; passport control decides entry <sup>[N332](#n332)</sup>.
+This visa is for Saudia passengers flying through Saudi Arabia, open to Bangladeshis <sup>[N333](#n333), [N334 (2024)](#n334)</sup>. It allows one stay of up to 96 hours, with no extension; passport control decides entry <sup>[N333](#n333)</sup>.
 
-*You'll need* <sup>[N332](#n332)</sup>:
+*You'll need* <sup>[N333](#n333)</sup>:
 
 - a passport valid 6 months
 - a confirmed onward ticket
 - a visa for the final destination
 - a 200 x 200 pixel photo of at most 20 KB
 
-1. <a id="stopover-transit-visa-item-1"></a>**Apply on saudia.com while booking** (Seats & Extras or Additional Services) <sup>[N332](#n332)</sup>.
-2. <a id="stopover-transit-visa-item-2"></a>**Pay with the flight** <sup>[N332](#n332)</sup>.
-3. <a id="stopover-transit-visa-item-3"></a>**The visa and insurance come by email** <sup>[N332](#n332)</sup>.
+1. <a id="stopover-transit-visa-item-1"></a>**Apply on saudia.com while booking** (Seats & Extras or Additional Services) <sup>[N333](#n333)</sup>.
+2. <a id="stopover-transit-visa-item-2"></a>**Pay with the flight** <sup>[N333](#n333)</sup>.
+3. <a id="stopover-transit-visa-item-3"></a>**The visa and insurance come by email** <sup>[N333](#n333)</sup>.
 
 > **Need to know**
 > - What is the stopover visa fee?
@@ -2524,9 +2524,9 @@ Bangladeshis without a US, UK or Schengen visa, or US, UK, EU or Gulf residence,
 
 For what working on a tourist or Umrah visa brings, see [Tourist visa](#tourist-visa), Can you work?
 
-**Hajj seasonal work visa:** it can't be renewed or converted to a work visa <sup>[N331 (2023)](#n331)</sup> ([Other visas](#other-visas), Hajj seasonal work visa).
+**Hajj seasonal work visa:** it can't be renewed or converted to a work visa <sup>[N332 (2023)](#n332)</sup> ([Other visas](#other-visas), Hajj seasonal work visa).
 
-**Temporary work visa:** it gives no iqama <sup>[N330](#n330)</sup>; whether it can be converted is a Need to know under Other visas, Temporary work visa.
+**Temporary work visa:** it gives no iqama <sup>[N331](#n331)</sup>; whether it can be converted is a Need to know under Other visas, Temporary work visa.
 
 <a id="family-dependant-to-work"></a>
 
@@ -2534,12 +2534,12 @@ For what working on a tourist or Umrah visa brings, see [Tourist visa](#tourist-
 
 A spouse or mahram (a close male guardian relative) on a dependant iqama can work for a health or education employer, staying on the family sponsorship, through Ajeer ([ajeer.qiwa.sa](https://ajeer.qiwa.sa)) <sup>[32 (2024)](#o32), [146 (2024)](#o146)</sup>.
 
-1. <a id="family-dependant-to-work-item-1"></a>**You'll need** <sup>[32 (2024)](#o32), [N322 (2024)](#n322)</sup>:
+1. <a id="family-dependant-to-work-item-1"></a>**You'll need** <sup>[32 (2024)](#o32), [N323 (2024)](#n323)</sup>:
    - valid iqamas for you and the main worker;
    - age 18 or over;
    - any licence the job requires;
    - an offer from a health or education employer rated low green or higher on Nitaqat, the Saudisation rating.
-2. <a id="family-dependant-to-work-item-2"></a>**The employer issues the contract on Ajeer** (Contracts, Issue Contract, Contracting Service Between Workforce, Ajeer Accompanying Service); once approved, Ajeer issues your work permit, free <sup>[32 (2024)](#o32), [N322 (2024)](#n322)</sup>. If it stalls, call Ajeer on 920011040 or the labour ministry on 19911 <sup>[146 (2024)](#o146), [102 (2024)](#o102)</sup>.
+2. <a id="family-dependant-to-work-item-2"></a>**The employer issues the contract on Ajeer** (Contracts, Issue Contract, Contracting Service Between Workforce, Ajeer Accompanying Service); once approved, Ajeer issues your work permit, free <sup>[32 (2024)](#o32), [N323 (2024)](#n323)</sup>. If it stalls, call Ajeer on 920011040 or the labour ministry on 19911 <sup>[146 (2024)](#o146), [102 (2024)](#o102)</sup>.
 
    > **Need to know**
    > - How long does Ajeer take to issue the work permit after the employer issues the contract?
@@ -2552,14 +2552,14 @@ A spouse or mahram (a close male guardian relative) on a dependant iqama can wor
 
 ### 12.3 Domestic worker to another household
 
-A transfer is done on Musaned ([musaned.gov.sa](https://musaned.gov.sa)) <sup>[32 (2024)](#o32)</sup>. You pay nothing: the service is free and the employer bears transfer fees; payments between employers go through Musaned, capped at SR 16,188 for a Bangladeshi worker <sup>[32 (2024)](#o32), [118](#o118), [N334 (2023)](#n334)</sup>.
+A transfer is done on Musaned ([musaned.gov.sa](https://musaned.gov.sa)) <sup>[32 (2024)](#o32)</sup>. You pay nothing: the service is free and the employer bears transfer fees; payments between employers go through Musaned, capped at SR 16,188 for a Bangladeshi worker <sup>[32 (2024)](#o32), [118](#o118), [N335 (2023)](#n335)</sup>.
 
-1. <a id="domestic-worker-to-another-household-item-1"></a>**You'll need** <sup>[N334 (2023)](#n334), [32 (2024)](#o32)</sup>:
+1. <a id="domestic-worker-to-another-household-item-1"></a>**You'll need** <sup>[N335 (2023)](#n335), [32 (2024)](#o32)</sup>:
    - the agreement of your current employer, you and the new employer;
    - your own Absher account.
 2. <a id="domestic-worker-to-another-household-item-2"></a>**Your employer starts the transfer on Musaned** <sup>[32 (2024)](#o32)</sup>.
 3. <a id="domestic-worker-to-another-household-item-3"></a>**The new employer accepts or rejects it there** <sup>[32 (2024)](#o32)</sup>.
-4. <a id="domestic-worker-to-another-household-item-4"></a>**A new contract is drawn up and the request completed through Absher** <sup>[32 (2024)](#o32)</sup>. You get a new fixed-period work contract <sup>[N334 (2023)](#n334)</sup>.
+4. <a id="domestic-worker-to-another-household-item-4"></a>**A new contract is drawn up and the request completed through Absher** <sup>[32 (2024)](#o32)</sup>. You get a new fixed-period work contract <sup>[N335 (2023)](#n335)</sup>.
 
    > **Need to know**
    > - How long does a Musaned transfer to another household take?
@@ -2594,7 +2594,7 @@ Yes, but only in your first year: after your iqama is renewed the request is ref
 
 ### 12.5 Changing the job title on the permit
 
-Only an employer in the platinum or green Nitaqat band can change it, on Qiwa (Change expatriate profession); it is free and takes effect at once, but a job reserved for Saudis can't be given to a foreign worker <sup>[147](#o147), [35](#o35)</sup>. Since January 2026, titles including sales representative, marketing specialist and procurement manager can't be given to foreign workers this way <sup>[N335](#n335)</sup>.
+Only an employer in the platinum or green Nitaqat band can change it, on Qiwa (Change expatriate profession); it is free and takes effect at once, but a job reserved for Saudis can't be given to a foreign worker <sup>[147](#o147), [35](#o35)</sup>. Since January 2026, titles including sales representative, marketing specialist and procurement manager can't be given to foreign workers this way <sup>[N336](#n336)</sup>.
 
 > **Need to know**
 > - What can a worker do if the employer refuses to change the job title on the iqama?
@@ -2603,7 +2603,7 @@ Only an employer in the platinum or green Nitaqat band can change it, on Qiwa (C
 
 ## 13 Asylum
 
-Saudi Arabia has no asylum system, hasn't signed the 1951 Refugee Convention and generally doesn't grant asylum <sup>[N336](#n336)</sup>. People there illegally, including pilgrimage overstayers, are refused refugee status and deported <sup>[N336](#n336)</sup>. The only protection is UNHCR, the UN refugee agency: people it recognises may stay temporarily, with valid identity papers, until resettled or returned; those without travel documents are sometimes detained indefinitely <sup>[N336](#n336)</sup>.
+Saudi Arabia has no asylum system, hasn't signed the 1951 Refugee Convention and generally doesn't grant asylum <sup>[N337](#n337)</sup>. People there illegally, including pilgrimage overstayers, are refused refugee status and deported <sup>[N337](#n337)</sup>. The only protection is UNHCR, the UN refugee agency: people it recognises may stay temporarily, with valid identity papers, until resettled or returned; those without travel documents are sometimes detained indefinitely <sup>[N337](#n337)</sup>.
 
 Apply by email to saprstaf@unhcr.org with <sup>[148](#o148)</sup>:
 
@@ -2620,9 +2620,9 @@ Toll-free line 009668001000281, Sunday, Tuesday and Thursday <sup>[148](#o148)</
 
 ## 14 Sending money home
 
-**Use a legal channel,** never hundi (the illegal informal channel) or unlicensed agents <sup>[21](#o21)</sup>. Saudi police have arrested people for sending money outside legal channels, and Bangladesh has frozen bKash, Nagad and Rocket accounts linked to hundi <sup>[N337 (2021)](#n337), [N338 (2023)](#n338)</sup>. Without a valid iqama you can't use a bank or send money formally <sup>[23](#o23)</sup>. Saudi Arabia's ambassador in Dhaka said in August 2024 that about 32 lakh Bangladeshis in Saudi Arabia send about USD 5 billion a year through legal channels and another USD 5 billion through informal ones <sup>[N339 (2024)](#n339)</sup>.
+**Use a legal channel,** never hundi (the illegal informal channel) or unlicensed agents <sup>[21](#o21)</sup>. Saudi police have arrested people for sending money outside legal channels, and Bangladesh has frozen bKash, Nagad and Rocket accounts linked to hundi <sup>[N338 (2021)](#n338), [N339 (2023)](#n339)</sup>. Without a valid iqama you can't use a bank or send money formally <sup>[23](#o23)</sup>. Saudi Arabia's ambassador in Dhaka said in August 2024 that about 32 lakh Bangladeshis in Saudi Arabia send about USD 5 billion a year through legal channels and another USD 5 billion through informal ones <sup>[N340 (2024)](#n340)</sup>.
 
-**The numbers.** Saudi Arabia was the largest source of Bangladesh's remittances in 2025, 15.52% of USD 32.82 billion, according to RMMRU (the Refugee and Migratory Movements Research Unit), and Bangladesh Bank's governor called it the biggest source of remittances and foreign currency in October 2025 <sup>[N65](#n65), [N78](#n78)</sup>. By Bangladesh Bank figures it had fallen from USD 4.54 billion in 2021-22, when it was first, to USD 3.76 billion in 2022-23, and then by USD 1.03 billion, about 27%, in 2023-24, to fourth place <sup>[N340 (2024)](#n340), [N69 (2024)](#n69)</sup>. In March 2024 RMMRU's founding chair Tasneem Siddiqui put the fall down to many sending through hundi, over the gap in exchange rates and distrust of banks, and to many workers who had recently gone on legal visas not getting jobs <sup>[N340 (2024)](#n340)</sup>. In March 2025 the governor said not all Saudi remittances come straight to Bangladesh: a dishonest ring buys them in Saudi Arabia, routes them through Dubai, hoards them and sells them to Bangladeshi banks at a higher price <sup>[N341](#n341)</sup>.
+**The numbers.** Saudi Arabia was the largest source of Bangladesh's remittances in 2025, 15.52% of USD 32.82 billion, according to RMMRU (the Refugee and Migratory Movements Research Unit), and Bangladesh Bank's governor called it the biggest source of remittances and foreign currency in October 2025 <sup>[N65](#n65), [N78](#n78)</sup>. By Bangladesh Bank figures it had fallen from USD 4.54 billion in 2021-22, when it was first, to USD 3.76 billion in 2022-23, and then by USD 1.03 billion, about 27%, in 2023-24, to fourth place <sup>[N341 (2024)](#n341), [N69 (2024)](#n69)</sup>. In March 2024 RMMRU's founding chair Tasneem Siddiqui put the fall down to many sending through hundi, over the gap in exchange rates and distrust of banks, and to many workers who had recently gone on legal visas not getting jobs <sup>[N341 (2024)](#n341)</sup>. In March 2025 the governor said not all Saudi remittances come straight to Bangladesh: a dishonest ring buys them in Saudi Arabia, routes them through Dubai, hoards them and sells them to Bangladeshi banks at a higher price <sup>[N342](#n342)</sup>.
 
 **Compare costs** on the World Bank's price comparison, [remittanceprices.worldbank.org/corridor/SA/BD](https://remittanceprices.worldbank.org/corridor/SA/BD). Sending SR 750 cost <sup>[149](#o149)</sup>:
 
@@ -2636,14 +2636,14 @@ Bangladesh Bank's governor said in October 2025 that expatriates in Saudi Arabia
 
 **To a bKash account:**
 
-1. <a id="sending-money-home-item-1"></a>**You'll need** <sup>[N342](#n342)</sup>:
+1. <a id="sending-money-home-item-1"></a>**You'll need** <sup>[N343](#n343)</sup>:
    - the family member's bKash number;
    - their full name exactly as registered when the account was opened;
    - the cash or money in your app.
-2. <a id="sending-money-home-item-2"></a>**Use a bKash partner:** Saudi Awwal Bank, STC Pay, URpay, Mobily Pay, tiqmo, barq, Western Union or MoneyGram <sup>[N342](#n342)</sup>.
-3. <a id="sending-money-home-item-3"></a>**Give the number and name with the cash, or enter them in its app** <sup>[N342](#n342)</sup>.
+2. <a id="sending-money-home-item-2"></a>**Use a bKash partner:** Saudi Awwal Bank, STC Pay, URpay, Mobily Pay, tiqmo, barq, Western Union or MoneyGram <sup>[N343](#n343)</sup>.
+3. <a id="sending-money-home-item-3"></a>**Give the number and name with the cash, or enter them in its app** <sup>[N343](#n343)</sup>.
 
-The limit is Tk 2.5 lakh per transfer, as many times as you like <sup>[N342](#n342)</sup>. Your family gets the money plus the 2.5% government incentive automatically, and can cash out at BRAC Bank, City Bank and Q-Cash ATMs for Tk 7 per thousand <sup>[N343](#n343), [N344 (2022)](#n344), [N342](#n342)</sup>. A banker's column in April 2025 also gave the incentive as 2.5% <sup>[N74](#n74)</sup>, but the expatriates' ministry said in June 2025 that the government continues a 2% incentive on remittances sent through banks <sup>[N90](#n90)</sup>. In March 2024 many banks added their own incentive equal to the government's, so a legal transfer fetched over Tk 115 a dollar against an official rate of Tk 110, and some banks short of dollars paid over Tk 120 <sup>[N340 (2024)](#n340)</sup>.
+The limit is Tk 2.5 lakh per transfer, as many times as you like <sup>[N343](#n343)</sup>. Your family gets the money plus the 2.5% government incentive automatically, and can cash out at BRAC Bank, City Bank and Q-Cash ATMs for Tk 7 per thousand <sup>[N344](#n344), [N345 (2022)](#n345), [N343](#n343)</sup>. A banker's column in April 2025 also gave the incentive as 2.5% <sup>[N74](#n74)</sup>, but the expatriates' ministry said in June 2025 that the government continues a 2% incentive on remittances sent through banks <sup>[N90](#n90)</sup>. In March 2024 many banks added their own incentive equal to the government's, so a legal transfer fetched over Tk 115 a dollar against an official rate of Tk 110, and some banks short of dollars paid over Tk 120 <sup>[N341 (2024)](#n341)</sup>.
 
 > **Need to know**
 > - Is the government's remittance incentive 2% or 2.5% now?
@@ -2656,7 +2656,7 @@ The limit is Tk 2.5 lakh per transfer, as many times as you like <sup>[N342](#n3
 
 **If money doesn't arrive or goes to the wrong number:**
 
-1. Complain to the sender company and bKash (16247) <sup>[N342](#n342), [150](#o150)</sup>.
+1. Complain to the sender company and bKash (16247) <sup>[N343](#n343), [150](#o150)</sup>.
 2. Then complain to the company's complaint cell <sup>[150](#o150)</sup>.
 3. Then complain to Bangladesh Bank's Customer Interest Protection Centre (16236 during office hours on working days, bb.cipc@bb.org.bd, or its online form) with a description, your name, address and phone, and the provider's final reply; a relative needs your written authorisation <sup>[150](#o150)</sup>.
 
@@ -2664,7 +2664,7 @@ The limit is Tk 2.5 lakh per transfer, as many times as you like <sup>[N342](#n3
 
 ## 15 Going home without valid papers
 
-Without a valid iqama, the way out is the Bangladesh Embassy's Special Exit Programme (SEP), if your sponsor's labour office is covered (see item 1 below) <sup>[8](#o8)</sup>. There is no time limit; workers have waited months, mostly without work <sup>[N345 (2023)](#n345)</sup>.
+Without a valid iqama, the way out is the Bangladesh Embassy's Special Exit Programme (SEP), if your sponsor's labour office is covered (see item 1 below) <sup>[8](#o8)</sup>. There is no time limit; workers have waited months, mostly without work <sup>[N346 (2023)](#n346)</sup>.
 
 Overstaying any visa can bring a fine up to SR 50,000, up to 6 months in prison and deportation <sup>[151](#o151)</sup>. The re-entry ban, from departure, is usually 3 to 5 years for overstaying or huroob (the employer's report that a worker is absent from work) and 3 to 10 years for working on a tourist or Umrah visa <sup>[N150](#n150)</sup>. Leaving without a legitimate reason means paying your own ticket <sup>[35](#o35)</sup>.
 
@@ -2693,7 +2693,7 @@ Overstaying any visa can bring a fine up to SR 50,000, up to 6 months in prison 
 > **Need to know**
 > - What is the exit procedure for a worker without valid papers whose sponsor is under the Makkah, Madinah, Tabuk, Asir, Jazan, Najran or Al Baha labour office?
 
-**Women domestic workers,** excluded from SEP (item 1), can report their case on the labour wing's online form ([bangladeshembassy.org.sa/srspub](https://www.bangladeshembassy.org.sa/srspub/)), choosing the domestic worker problem type <sup>[55](#o55)</sup>; how they get an exit visa is not known. In May and June 2025 the expatriates' welfare adviser and his ministry said that, after his talks in Saudi Arabia, a chance had been created to regularise women workers living there illegally, giving no procedure, deadline or cost <sup>[N346](#n346), [N90](#n90)</sup>; the ministry's one-year report in August 2025 said measures had been taken to regularise irregular women workers in Saudi Arabia, Jordan and Oman <sup>[N91](#n91)</sup>.
+**Women domestic workers,** excluded from SEP (item 1), can report their case on the labour wing's online form ([bangladeshembassy.org.sa/srspub](https://www.bangladeshembassy.org.sa/srspub/)), choosing the domestic worker problem type <sup>[55](#o55)</sup>; how they get an exit visa is not known. In May and June 2025 the expatriates' welfare adviser and his ministry said that, after his talks in Saudi Arabia, a chance had been created to regularise women workers living there illegally, giving no procedure, deadline or cost <sup>[N347](#n347), [N90](#n90)</sup>; the ministry's one-year report in August 2025 said measures had been taken to regularise irregular women workers in Saudi Arabia, Jordan and Oman <sup>[N91](#n91)</sup>.
 
 > **Need to know**
 > - How does a woman domestic worker without valid papers get an exit visa?
@@ -2708,7 +2708,7 @@ Overstaying any visa can bring a fine up to SR 50,000, up to 6 months in prison 
 > **Need to know**
 > - How long does the embassy take to reply to the online request form?
 
-**Without a passport** you need a travel permit (outpass) from the embassy's passport wing <sup>[N347](#n347), [79](#o79)</sup>. Either <sup>[79](#o79), [91](#o91)</sup>:
+**Without a passport** you need a travel permit (outpass) from the embassy's passport wing <sup>[N348](#n348), [79](#o79)</sup>. Either <sup>[79](#o79), [91](#o91)</sup>:
 
 - call 8001000126 free; or
 - book "Consular & Welfare Service" at [passportriyadh.com/appointment](https://passportriyadh.com/appointment/) with your name, phone, passport number and OID number.
@@ -2739,11 +2739,11 @@ A relative in Bangladesh can ask the Ministry of Expatriates' Welfare, free, to 
 
 ### 15.2 Amnesties and grace periods
 
-The last known window to leave without a fine ended on 18 April 2026 <sup>[N161](#n161)</sup>. In it, people whose visit, Umrah or final exit visa expired on 25 February 2026 could leave without a fine by going to the airport with a ticket <sup>[N161](#n161)</sup>; the embassy's notice of 23 March 2026 listed every kind of visit visa, Umrah, transit and final exit visas past their validity on 25 February, and warned that anyone not leaving by 18 April could face serious legal trouble and punishment <sup>[N348](#n348)</sup>. The embassy announces such windows on [bangladeshembassy.org.sa/notice.html](https://www.bangladeshembassy.org.sa/notice.html); check it for a new one <sup>[N161](#n161), [153](#o153)</sup>.
+The last known window to leave without a fine ended on 18 April 2026 <sup>[N161](#n161)</sup>. In it, people whose visit, Umrah or final exit visa expired on 25 February 2026 could leave without a fine by going to the airport with a ticket <sup>[N161](#n161)</sup>; the embassy's notice of 23 March 2026 listed every kind of visit visa, Umrah, transit and final exit visas past their validity on 25 February, and warned that anyone not leaving by 18 April could face serious legal trouble and punishment <sup>[N349](#n349)</sup>. The embassy announces such windows on [bangladeshembassy.org.sa/notice.html](https://www.bangladeshembassy.org.sa/notice.html); check it for a new one <sup>[N161](#n161), [153](#o153)</sup>.
 
-Separately, until the end of 2026 an employer can regularise a work permit that expired more than 12 months ago or was never issued within 6 months of joining; cases not regularised then face legal measures <sup>[N162](#n162)</sup>. On 30 June 2026 the embassy relayed this labour ministry call on its verified Facebook page: work permits (rukhsa amal) expired over 12 months, or not issued over 6 months after entry or transfer, must be issued or renewed within 2026, or legal action follows <sup>[N349](#n349)</sup>.
+Separately, until the end of 2026 an employer can regularise a work permit that expired more than 12 months ago or was never issued within 6 months of joining; cases not regularised then face legal measures <sup>[N162](#n162)</sup>. On 30 June 2026 the embassy relayed this labour ministry call on its verified Facebook page: work permits (rukhsa amal) expired over 12 months, or not issued over 6 months after entry or transfer, must be issued or renewed within 2026, or legal action follows <sup>[N350](#n350)</sup>.
 
-Bangladesh's expatriates' welfare adviser said on 31 May 2025 that Saudi Arabia had assured him it would regularise irregular Bangladeshi workers and had already started <sup>[N350](#n350)</sup>. A working team of officials from the Saudi labour ministry (the Ministry of Human Resources and Social Development) and the Bangladesh embassy, promised at a meeting on 30 January 2025, was formed to solve specific problems of irregular Bangladeshi workers, and a high-powered task force on illegal workers and recruitment irregularities had been formed under the two countries' latest foreign office consultations, according to a press release reported in May 2025 <sup>[N77](#n77)</sup>.
+Bangladesh's expatriates' welfare adviser said on 31 May 2025 that Saudi Arabia had assured him it would regularise irregular Bangladeshi workers and had already started <sup>[N351](#n351)</sup>. A working team of officials from the Saudi labour ministry (the Ministry of Human Resources and Social Development) and the Bangladesh embassy, promised at a meeting on 30 January 2025, was formed to solve specific problems of irregular Bangladeshi workers, and a high-powered task force on illegal workers and recruitment irregularities had been formed under the two countries' latest foreign office consultations, according to a press release reported in May 2025 <sup>[N77](#n77)</sup>.
 
 > **Need to know**
 > - Is any amnesty for overstayers open now or announced?
@@ -2756,7 +2756,7 @@ Bangladesh's expatriates' welfare adviser said on 31 May 2025 that Saudi Arabia 
 
 ### 15.3 If you are detained
 
-People picked up in raids have usually been held one to two weeks in a deportation centre, then flown straight home, often with nothing <sup>[N159 (2024)](#n159)</sup>. Jabbar, a worker without papers who believed the police would send him home if they caught him, gave himself up; they took his fingerprints and released him, leaving him with no money for food, his wife said (May 2025) <sup>[N163](#n163)</sup>. Embassy officials visit the centres and issue your travel permit there <sup>[N347](#n347)</sup>; for legal help or to tell your family, see [Work visa: company worker](#work-visa-company-worker), If you or a relative is arrested <sup>[55](#o55), [79](#o79)</sup>. Wages owed can still be claimed after you leave: wage insurance if the whole company stopped paying (see [If you aren't paid, item 5: If the whole company has stopped paying, claim wage insurance](#if-you-arent-paid-item-5)), or a relative's application to the ministry's Welfare-1 branch (see [If you aren't paid, item 4: From Bangladesh, a relative can ask the government to act](#if-you-arent-paid-item-4)) <sup>[100](#o100), [69](#o69)</sup>.
+People picked up in raids have usually been held one to two weeks in a deportation centre, then flown straight home, often with nothing <sup>[N159 (2024)](#n159)</sup>. Jabbar, a worker without papers who believed the police would send him home if they caught him, gave himself up; they took his fingerprints and released him, leaving him with no money for food, his wife said (May 2025) <sup>[N163](#n163)</sup>. Embassy officials visit the centres and issue your travel permit there <sup>[N348](#n348)</sup>; for legal help or to tell your family, see [Work visa: company worker](#work-visa-company-worker), If you or a relative is arrested <sup>[55](#o55), [79](#o79)</sup>. Wages owed can still be claimed after you leave: wage insurance if the whole company stopped paying (see [If you aren't paid, item 5: If the whole company has stopped paying, claim wage insurance](#if-you-arent-paid-item-5)), or a relative's application to the ministry's Welfare-1 branch (see [If you aren't paid, item 4: From Bangladesh, a relative can ask the government to act](#if-you-arent-paid-item-4)) <sup>[100](#o100), [69](#o69)</sup>.
 
 > **Need to know**
 > - Can a friendly-settlement claim be filed, or continued, from Bangladesh after deportation?
@@ -2779,7 +2779,7 @@ Embassy efforts freed 49,503 Bangladeshis from 20 countries in 2012-2016, 17,335
    > - How can a family ask for a post-mortem in Saudi Arabia?
    > - How can a family challenge the recorded cause of death?
 
-2. <a id="if-a-worker-dies-in-saudi-arabia-item-2"></a>**Ask Bangladesh to bring the body home, or say you want burial in Saudi Arabia.** Under Saudi rules the employer pays to prepare and fly the body home unless the family agrees to burial there <sup>[35](#o35)</sup>. The assistant director of the Faridpur Probashi Kallyan (expatriate welfare) Centre said in June 2026 that the company usually sends the body home and gives other help, and that if it won't, the government brings the body home on the family's application <sup>[N351](#n351)</sup>. On the Bangladesh side, the route depends on the worker's papers:
+2. <a id="if-a-worker-dies-in-saudi-arabia-item-2"></a>**Ask Bangladesh to bring the body home, or say you want burial in Saudi Arabia.** Under Saudi rules the employer pays to prepare and fly the body home unless the family agrees to burial there <sup>[35](#o35)</sup>. The assistant director of the Faridpur Probashi Kallyan (expatriate welfare) Centre said in June 2026 that the company usually sends the body home and gives other help, and that if it won't, the government brings the body home on the family's application <sup>[N352](#n352)</sup>. On the Bangladesh side, the route depends on the worker's papers:
 
    - **The worker left with BMET clearance or joined the Welfare Board through the embassy:** tell the Wage Earners' Welfare Board (Probashi Kallyan Bhaban, 71-72 Eskaton Garden, Dhaka) whether the family wants the body brought home or buried in Saudi Arabia <sup>[76](#o76)</sup>. The Board pays to bring the body home, relays the family's wish to the embassy and follows up until the body arrives, free <sup>[N160](#n160), [76](#o76)</sup>. A district welfare centre also takes written applications: in March 2025 the Mymensingh centre's assistant director said it would forward a father's written application to the Board, which would then make all arrangements <sup>[N125](#n125)</sup>.
    - **The worker had neither, including workers without valid papers:** the family can still apply to the Welfare Board, which asks the ministry to pay <sup>[N160](#n160)</sup>. The ministry's Welfare-2 branch (aswelfare@probashi.gov.bd) also takes applications by email for irregular, undocumented and destitute workers under a 2022 policy; free, action within 7 working days <sup>[69](#o69)</sup>. **You'll need** <sup>[69](#o69)</sup>:
@@ -2797,7 +2797,7 @@ Embassy efforts freed 49,503 Bangladeshis from 20 countries in 2012-2016, 17,335
    > - Which papers does the Board need from the family?
    > - How long does the Board take to get the body home?
 
-   BRAC, a Bangladeshi development organisation, helps families apply through its Migration Programme ([At Dhaka airport](#at-dhaka-airport)) <sup>[N352](#n352), [N160](#n160)</sup>. Union Parishad (local council) chairmen and UNOs have also helped families gather the papers and reach the Board or the ministry <sup>[N264](#n264), [N265](#n265), [N353](#n353), [N354](#n354)</sup>.
+   BRAC, a Bangladeshi development organisation, helps families apply through its Migration Programme ([At Dhaka airport](#at-dhaka-airport)) <sup>[N353](#n353), [N160](#n160)</sup>. Union Parishad (local council) chairmen and UNOs have also helped families gather the papers and reach the Board or the ministry <sup>[N264](#n264), [N265](#n265), [N354](#n354), [N355](#n355)</sup>.
 3. <a id="if-a-worker-dies-in-saudi-arabia-item-3"></a>**At the airport,** the Board's desk calls the family, hands over the body at cargo with a Tk 35,000 cheque for transport and burial, and its ambulance carries the body from Dhaka, Chattogram or Sylhet airport, free <sup>[1](#o1), [76](#o76)</sup>. **You'll need** <sup>[76](#o76), [1](#o1)</sup>:
    - the worker's passport copy;
    - death certificate;
@@ -2808,39 +2808,39 @@ Embassy efforts freed 49,503 Bangladeshis from 20 countries in 2012-2016, 17,335
    - any BMET clearance card;
    - a power of attorney if someone else collects.
 
-   The arrival time can also reach the family through the local administration: the embassy's labour counsellor or the ministry writes to the deputy commissioner, the UNO and the expatriate-welfare office with the flight time, and they tell the family <sup>[N355](#n355), [N29](#n29)</sup>. The ministry said one body in October 2026 would be received at cargo gate 8 of Hazrat Shahjalal International Airport, Dhaka <sup>[N22](#n22)</sup>.
+   The arrival time can also reach the family through the local administration: the embassy's labour counsellor or the ministry writes to the deputy commissioner, the UNO and the expatriate-welfare office with the flight time, and they tell the family <sup>[N356](#n356), [N29](#n29)</sup>. The ministry said one body in October 2026 would be received at cargo gate 8 of Hazrat Shahjalal International Airport, Dhaka <sup>[N22](#n22)</sup>.
 
 <a id="the-recorded-cause-of-death"></a>
 
 #### 16.1.1 The recorded cause of death
 
-- **Mostly "natural".** Bangladeshi authorities, working from Saudi papers, recorded 76% of deaths in Saudi Arabia from January to October 2022 as natural, and the average age of those "natural" deaths in 2022 was 44 <sup>[N356 (2024)](#n356)</sup>. Across all destinations, the papers with returned bodies gave natural death in 66% of cases in January to September 2026, against about 70% before, by the Expatriates' Welfare Ministry's data <sup>[N244](#n244)</sup>.
-- **Mostly unexplained.** The Guardian found in March 2024 that in most cases the cause was not explained: Saudi death certificates give "natural causes", "heart problems" or "respiratory problems", so no post-mortem is done; FairSquare, a UK rights group, says the cause is unexplained in over half of migrant deaths in the Gulf <sup>[N356 (2024)](#n356)</sup>.
-- **The Saudi position.** Saudi Arabia's labour ministry said in March 2024 that post-mortems are done where needed, death certificates are issued transparently, and it had found no negligence <sup>[N356 (2024)](#n356)</sup>.
-- **Suicide.** Once the destination country sends a death certificate saying "suicide", the family can do nothing more about it, OKUP's chairperson said in January 2024 <sup>[N357 (2024)](#n357)</sup>. The bodies of 799 women migrant workers came home in eight years, most from Saudi Arabia, and many death certificates gave suicide as the cause, according to Welfare Board data cited in October 2026 <sup>[N82](#n82)</sup>.
+- **Mostly "natural".** Bangladeshi authorities, working from Saudi papers, recorded 76% of deaths in Saudi Arabia from January to October 2022 as natural, and the average age of those "natural" deaths in 2022 was 44 <sup>[N357 (2024)](#n357)</sup>. Across all destinations, the papers with returned bodies gave natural death in 66% of cases in January to September 2026, against about 70% before, by the Expatriates' Welfare Ministry's data <sup>[N244](#n244)</sup>.
+- **Mostly unexplained.** The Guardian found in March 2024 that in most cases the cause was not explained: Saudi death certificates give "natural causes", "heart problems" or "respiratory problems", so no post-mortem is done; FairSquare, a UK rights group, says the cause is unexplained in over half of migrant deaths in the Gulf <sup>[N357 (2024)](#n357)</sup>.
+- **The Saudi position.** Saudi Arabia's labour ministry said in March 2024 that post-mortems are done where needed, death certificates are issued transparently, and it had found no negligence <sup>[N357 (2024)](#n357)</sup>.
+- **Suicide.** Once the destination country sends a death certificate saying "suicide", the family can do nothing more about it, OKUP's chairperson said in January 2024 <sup>[N358 (2024)](#n358)</sup>. The bodies of 799 women migrant workers came home in eight years, most from Saudi Arabia, and many death certificates gave suicide as the cause, according to Welfare Board data cited in October 2026 <sup>[N82](#n82)</sup>.
 - **Signs of violence.** In cases the New York Times investigated in 2025, Saudi authorities declared foreign domestic workers' deaths natural despite signs of violence: Ugandan Aisha Meeme's Saudi autopsy found three broken ribs and severe electrical burns, and her husband said the employer offered him the choice of her body or her USD 2,800 in unpaid wages <sup>[N116](#n116)</sup>.
-- **Suspected causes.** Rights groups told the Guardian in 2024 that hard labour, living conditions, exploitation, stress and heat stroke may be driving the death rate; Shariful Hasan, associate director of BRAC's Migration Programme, said that since workers go only after passing a medical at a Saudi-designated centre, both countries must investigate why they die <sup>[N356 (2024)](#n356)</sup>. More than 16% of returned bodies in January to September 2026 died in road or work accidents, fires, falls from buildings or electrocution, and the minister said on 1 October 2026 that steps to verify causes of death abroad would be decided <sup>[N244](#n244)</sup>.
+- **Suspected causes.** Rights groups told the Guardian in 2024 that hard labour, living conditions, exploitation, stress and heat stroke may be driving the death rate; Shariful Hasan, associate director of BRAC's Migration Programme, said that since workers go only after passing a medical at a Saudi-designated centre, both countries must investigate why they die <sup>[N357 (2024)](#n357)</sup>. More than 16% of returned bodies in January to September 2026 died in road or work accidents, fires, falls from buildings or electrocution, and the minister said on 1 October 2026 that steps to verify causes of death abroad would be decided <sup>[N244](#n244)</sup>.
 
 <a id="how-many-die"></a>
 
 #### 16.1.2 How many die
 
-At least 13,685 Bangladeshi workers died in Saudi Arabia in 2008-2022, 1,502 of them in 2022, more than four a day, by Bangladesh government data reported by the Guardian <sup>[N356 (2024)](#n356)</sup>. About 2,000 died there in 2026 up to the end of September, more than in any other country; the head of BRAC's Migration Programme said over 70% of bodies come from the Middle East, most from Saudi Arabia, and that young men aged 25 to 30 are also dying <sup>[N244](#n244)</sup>. From the start of the 2026 war to 12 October 2026, 14 Bangladeshis were killed in attacks in the Middle East, 8 of them registered as migrant workers, by Expatriates' Welfare Ministry sources <sup>[N30](#n30)</sup>.
+At least 13,685 Bangladeshi workers died in Saudi Arabia in 2008-2022, 1,502 of them in 2022, more than four a day, by Bangladesh government data reported by the Guardian <sup>[N357 (2024)](#n357)</sup>. About 2,000 died there in 2026 up to the end of September, more than in any other country; the head of BRAC's Migration Programme said over 70% of bodies come from the Middle East, most from Saudi Arabia, and that young men aged 25 to 30 are also dying <sup>[N244](#n244)</sup>. From the start of the 2026 war to 12 October 2026, 14 Bangladeshis were killed in attacks in the Middle East, 8 of them registered as migrant workers, by Expatriates' Welfare Ministry sources <sup>[N30](#n30)</sup>.
 
 <a id="if-the-worker-was-executed"></a>
 
 #### 16.1.3 If the worker was executed
 
-Saudi law doesn't guarantee that the body of an executed person is handed over: in all three executions of January-June 2025 among the cases Amnesty International documented, Saudi Arabia neither returned the body nor told the family where the grave is <sup>[N85](#n85)</sup>. Asked in October 2026 whether the families of two executed Bangladeshis could get compensation, the state minister for foreign affairs said there was no chance because the sentence had already been carried out <sup>[N358](#n358)</sup>.
+Saudi law doesn't guarantee that the body of an executed person is handed over: in all three executions of January-June 2025 among the cases Amnesty International documented, Saudi Arabia neither returned the body nor told the family where the grave is <sup>[N85](#n85)</sup>. Asked in October 2026 whether the families of two executed Bangladeshis could get compensation, the state minister for foreign affairs said there was no chance because the sentence had already been carried out <sup>[N359](#n359)</sup>.
 
 <a id="the-riyadh-sofa-factory-fire"></a>
 
 #### 16.1.4 The Riyadh sofa-factory fire
 
-- **9 August 2026:** a fire at a sofa factory in Riyadh killed Bangladeshi workers; the first night's reports put the toll at 10, by the Naogaon deputy commissioner's count, and the expatriates' welfare minister said officials had been told to bring the bodies home quickly and secure all government help and compensation for the families <sup>[N359](#n359)</sup>.
+- **9 August 2026:** a fire at a sofa factory in Riyadh killed Bangladeshi workers; the first night's reports put the toll at 10, by the Naogaon deputy commissioner's count, and the expatriates' welfare minister said officials had been told to bring the bodies home quickly and secure all government help and compensation for the families <sup>[N360](#n360)</sup>.
 - **10 August:** the Foreign Ministry said embassy officials went to the site at once and worked with the Saudi authorities on identifying the dead, and that once identification was complete the bodies would be brought home in line with the families' consent; the Naogaon deputy commissioner said the embassy's labour welfare wing was identifying the victims and the process might take some days <sup>[N168](#n168), [N121](#n121)</sup>.
-- **11 August:** the Prime Minister directed the Foreign Ministry, the Expatriates' Welfare Ministry and the embassy to bring the bodies of the 16 victims home in the shortest possible time <sup>[N360](#n360)</sup>.
-- **26-27 August:** 9 bodies identified by fingerprints were flown home on Biman flight BG-340 and received at Shahjalal airport at about 4:30 pm on 27 August, with one relative from each family present, then taken home by vehicle; the 7 others were still being identified by DNA test <sup>[N355](#n355), [N361](#n361)</sup>. The labour counsellor in Riyadh had sent the Atrai upazila administration a signed letter with the arrival date, and the upazila told the families to receive the bodies at the airport <sup>[N355](#n355)</sup>.
+- **11 August:** the Prime Minister directed the Foreign Ministry, the Expatriates' Welfare Ministry and the embassy to bring the bodies of the 16 victims home in the shortest possible time <sup>[N361](#n361)</sup>.
+- **26-27 August:** 9 bodies identified by fingerprints were flown home on Biman flight BG-340 and received at Shahjalal airport at about 4:30 pm on 27 August, with one relative from each family present, then taken home by vehicle; the 7 others were still being identified by DNA test <sup>[N356](#n356), [N362](#n362)</sup>. The labour counsellor in Riyadh had sent the Atrai upazila administration a signed letter with the arrival date, and the upazila told the families to receive the bodies at the airport <sup>[N356](#n356)</sup>.
 - **28 August:** Shyamal Uddin Majhi (46) of Bagmara, Rajshahi, who had gone eight years earlier on borrowed money, was brought home; his coffin was opened at home in the presence of police, and his sister was worried about how his debt would be repaid <sup>[N170](#n170)</sup>. Families of the 7 still unidentified demanded quick identification; DNA tests were being used for the remaining Naogaon victims, and two Naldanga victims couldn't be brought home until identified <sup>[N170](#n170)</sup>.
 - **31 October:** the 7 bodies, burned beyond recognition and identified by DNA, landed in Dhaka at about 8:30 am, 2 months 22 days after the deaths <sup>[N29](#n29), [N138](#n138)</sup>. The ministry had sent the flight time to the deputy commissioners, UNOs and expatriate-welfare offices, which told the families <sup>[N29](#n29)</sup>. Ministry officials handed the bodies to relatives after airport formalities, and they were buried in Naogaon and Natore that afternoon and evening <sup>[N138](#n138)</sup>. Each family was to get Tk 35,000 at once for burial and a Tk 3 lakh grant after three months, the Atrai UNO said <sup>[N138](#n138)</sup>.
 
@@ -2848,28 +2848,28 @@ Saudi law doesn't guarantee that the body of an executed person is handed over: 
 
 #### 16.1.5 Cases
 
-- **Early 2023, Abdul Jalil Sheikh (35)** went on a Tk 5 lakh loan and came home in a coffin within a year; the note on it read "Cause of death: natural. Post-mortem: not requested. Compensation: none", and his wife, told by co-workers he died of a stroke, was left with two children and the debt (Guardian, March 2024) <sup>[N356 (2024)](#n356)</sup>.
-- **July 2024, Mister Ali (38) of Madarganj, Jamalpur,** a street cleaner in a Saudi city for two and a half years, was killed on 28 July when a car hit him from behind while he worked on the road, his family and local people said; his brother asked for the body to be brought home at government cost <sup>[N362 (2024)](#n362)</sup>.
+- **Early 2023, Abdul Jalil Sheikh (35)** went on a Tk 5 lakh loan and came home in a coffin within a year; the note on it read "Cause of death: natural. Post-mortem: not requested. Compensation: none", and his wife, told by co-workers he died of a stroke, was left with two children and the debt (Guardian, March 2024) <sup>[N357 (2024)](#n357)</sup>.
+- **July 2024, Mister Ali (38) of Madarganj, Jamalpur,** a street cleaner in a Saudi city for two and a half years, was killed on 28 July when a car hit him from behind while he worked on the road, his family and local people said; his brother asked for the body to be brought home at government cost <sup>[N363 (2024)](#n363)</sup>.
 - **March 2025, Kawsar,** who worked on a gas line in Dammam for a company named Sacco, died in a work accident on 3 March, relatives said, citing his acquaintances; the family heard through a migrant neighbour, and a week later his father didn't know through which agency or when the body would come <sup>[N125](#n125)</sup>. On 10 March the father applied in writing at the Mymensingh welfare centre ([If a worker dies in Saudi Arabia, item 2: Ask Bangladesh to bring the body home, or say you want burial in Saudi Arabia](#if-a-worker-dies-in-saudi-arabia-item-2)) <sup>[N125](#n125)</sup>.
-- **May 2025, Saiful Islam (28) of Juri, Moulvibazar,** a poultry-farm labourer near Riyadh who had just been given three months' leave, was killed on 20 May when the goods truck he and a co-worker were riding to Riyadh on their day off hit a camel and overturned <sup>[N363](#n363)</sup>.
+- **May 2025, Saiful Islam (28) of Juri, Moulvibazar,** a poultry-farm labourer near Riyadh who had just been given three months' leave, was killed on 20 May when the goods truck he and a co-worker were riding to Riyadh on their day off hit a camel and overturned <sup>[N364](#n364)</sup>.
 - **July 2025, Sakibur Rahman** died a month and a half after going abroad; the Magnama Union Parishad panel chairman said papers were being collected to bring the body home <sup>[N264](#n264)</sup>.
 - **October 2025, Habib Khan** died of a heart attack in a Mecca hospital with his Tk 5.5 lakh loan unpaid; his father said worry over lack of work made him ill <sup>[N239](#n239)</sup>.
 - **December 2025, Nurul Alam:** his father rushed to send the papers to bring the body home, and no one knew when it would arrive; the Adhunagar Union Parishad chairman said the Union Parishad and upazila administration were helping <sup>[N265](#n265)</sup>.
-- **March 2026, Mofizur Rahman (65) of Patiya, Chattogram,** 12 years in Makkah at whatever job he found, was hit by a car walking home from prayers on 9 March and died in hospital; his kafil (sponsor) confirmed the death to the family, and at his dying request to the kafil he was to be buried in Makkah <sup>[N364](#n364)</sup>.
-- **March 2026, Abdullah Al Mamun:** the Gaffargaon UNO said efforts were starting through the Welfare Board to bring the body home, and Mymensingh's deputy commissioner said the UNO had been told to plan help for the family <sup>[N353](#n353)</sup>. The body reached Dhaka on 6 April and the expatriates' welfare minister received it <sup>[N19](#n19)</sup>; at the funeral the Board gave the family Tk 35,000 and Tk 50,000 in cash, with Tk 3 lakh to follow <sup>[N19](#n19)</sup>.
+- **March 2026, Mofizur Rahman (65) of Patiya, Chattogram,** 12 years in Makkah at whatever job he found, was hit by a car walking home from prayers on 9 March and died in hospital; his kafil (sponsor) confirmed the death to the family, and at his dying request to the kafil he was to be buried in Makkah <sup>[N365](#n365)</sup>.
+- **March 2026, Abdullah Al Mamun:** the Gaffargaon UNO said efforts were starting through the Welfare Board to bring the body home, and Mymensingh's deputy commissioner said the UNO had been told to plan help for the family <sup>[N354](#n354)</sup>. The body reached Dhaka on 6 April and the expatriates' welfare minister received it <sup>[N19](#n19)</sup>; at the funeral the Board gave the family Tk 35,000 and Tk 50,000 in cash, with Tk 3 lakh to follow <sup>[N19](#n19)</sup>.
 - **March 2026, Azgar Bepari (38) of Dohar, Dhaka,** who went through a broker on borrowed money and had worked illegally for a year as a welder's helper, fell from a roof in Riyadh on 24 March and died; the family had heard bringing the body home would cost Tk 4 lakh, which they couldn't pay <sup>[N165](#n165)</sup>. The Dohar UNO's answer is under If a worker dies in Saudi Arabia, item 2 <sup>[N165](#n165)</sup>.
-- **April 2026, Sobahan Khan (42) of West Maijpara, Dasar, Madaripur,** who had gone on 19 November 2025, fell from the lift of an under-construction building in Riyadh on 7 April, was taken by co-workers to Al-Jazeera hospital with a head injury and died on 11 April; the family, left without its only earner, learned of it the next night and asked for the body to be brought home through the government <sup>[N365](#n365)</sup>. Madaripur's additional deputy commissioner said the district would help bring the body home if instructed through the Foreign Ministry, and help the family if it applied <sup>[N365](#n365)</sup>.
-- **April 2026, Murad Sheikh (34) of Goalanda, Rajbari,** who had gone a year earlier through his brother working there, died in a road accident; his brother said the company gave no help, and the body came home on 9 May, 15 days later, paid for by a Goalanda expatriate with the embassy's help <sup>[N366](#n366)</sup>. Prothom Alo later gave the time as 16 days <sup>[N175](#n175)</sup>.
-- **May 2026, Ripon Mia (37) of Madan, Netrokona,** at a private company since October 2025, was killed near Madinah when a lorry hit his taxi; the acting UNO of Kendua said the papers had been collected and the ministry contacted <sup>[N354](#n354)</sup>.
+- **April 2026, Sobahan Khan (42) of West Maijpara, Dasar, Madaripur,** who had gone on 19 November 2025, fell from the lift of an under-construction building in Riyadh on 7 April, was taken by co-workers to Al-Jazeera hospital with a head injury and died on 11 April; the family, left without its only earner, learned of it the next night and asked for the body to be brought home through the government <sup>[N366](#n366)</sup>. Madaripur's additional deputy commissioner said the district would help bring the body home if instructed through the Foreign Ministry, and help the family if it applied <sup>[N366](#n366)</sup>.
+- **April 2026, Murad Sheikh (34) of Goalanda, Rajbari,** who had gone a year earlier through his brother working there, died in a road accident; his brother said the company gave no help, and the body came home on 9 May, 15 days later, paid for by a Goalanda expatriate with the embassy's help <sup>[N367](#n367)</sup>. Prothom Alo later gave the time as 16 days <sup>[N175](#n175)</sup>.
+- **May 2026, Ripon Mia (37) of Madan, Netrokona,** at a private company since October 2025, was killed near Madinah when a lorry hit his taxi; the acting UNO of Kendua said the papers had been collected and the ministry contacted <sup>[N355](#n355)</sup>.
 - **May 2026, Shakil:** his father said bringing the body home needed about SR 8,000, which the family didn't have; after the local MP, a state minister, intervened, the body reached Dhaka with government help around midnight on 12 June and his home 28 days after the death <sup>[N269](#n269)</sup>.
 - **July 2026, Foyez Ahmed and Sujon Ahmed of Noakhali,** brothers carrying dates in the same vehicle, died in a road accident on 16 July; the bodies arrived on 28 July and the Welfare Board paid Tk 35,000 each for burial, their father said <sup>[N244](#n244)</sup>.
-- **July 2026,** a migrant from Kanaighat, Sylhet, died in a road accident <sup>[N367](#n367)</sup>.
-- **August 2026, Md Kamrul Zaman (37) of Begumganj, Noakhali,** who worked at a shopping mall in Taif, was shot dead at dawn on 30 August while phoning his wife after his shift; his cousin said the gunman was a young Saudi who then shot himself <sup>[N368](#n368)</sup>.
-- **August 2026, Md Sohag of Companiganj, Noakhali,** died of a reported heart attack in Abha on 31 August; his sister said his iqama and passport had expired months earlier and he couldn't renew them, and his body lay in a hospital cold store <sup>[N369](#n369)</sup>. Their father had also died there, in 2003, and was buried there because the family couldn't bring the body home, she said <sup>[N369](#n369)</sup>.
-- **September 2026, Abdul Karim of Kanaighat, Sylhet,** on his way to Jeddah airport with a ticket home after about three years, and his neighbour Khalid Ahmad were killed when their car crashed at Al-Khurma on 7 September <sup>[N367](#n367)</sup>.
-- **September 2026, Mohammad Shafiq (52) of Matlab Uttar, Chandpur,** a labourer near Dammam for about 26 years, was hit by a speeding car while cycling to work on 10 September and declared dead at a local hospital, his family said <sup>[N370](#n370)</sup>. Eleven days later the body was still in the morgue; the family had contacted BMET but not yet reached the embassy, and the Matlab Uttar UNO said the upazila would help with bringing the body home and the burial <sup>[N370](#n370)</sup>.
+- **July 2026,** a migrant from Kanaighat, Sylhet, died in a road accident <sup>[N368](#n368)</sup>.
+- **August 2026, Md Kamrul Zaman (37) of Begumganj, Noakhali,** who worked at a shopping mall in Taif, was shot dead at dawn on 30 August while phoning his wife after his shift; his cousin said the gunman was a young Saudi who then shot himself <sup>[N369](#n369)</sup>.
+- **August 2026, Md Sohag of Companiganj, Noakhali,** died of a reported heart attack in Abha on 31 August; his sister said his iqama and passport had expired months earlier and he couldn't renew them, and his body lay in a hospital cold store <sup>[N370](#n370)</sup>. Their father had also died there, in 2003, and was buried there because the family couldn't bring the body home, she said <sup>[N370](#n370)</sup>.
+- **September 2026, Abdul Karim of Kanaighat, Sylhet,** on his way to Jeddah airport with a ticket home after about three years, and his neighbour Khalid Ahmad were killed when their car crashed at Al-Khurma on 7 September <sup>[N368](#n368)</sup>.
+- **September 2026, Mohammad Shafiq (52) of Matlab Uttar, Chandpur,** a labourer near Dammam for about 26 years, was hit by a speeding car while cycling to work on 10 September and declared dead at a local hospital, his family said <sup>[N371](#n371)</sup>. Eleven days later the body was still in the morgue; the family had contacted BMET but not yet reached the embassy, and the Matlab Uttar UNO said the upazila would help with bringing the body home and the burial <sup>[N371](#n371)</sup>.
 - **October 2026, Sajib Hossain:** the Brahmanpara UNO said his father and brother, also in Saudi Arabia, would lead the effort to bring the body home <sup>[N4](#n4)</sup>.
-- **October 2026, Md Shahed Ahammed,** killed at Riyadh airport on 10 October (see [Current situation](#current-situation)), had twice gone to Saudi Arabia before and come home because he could not find work; this time he stayed with his father-in-law, got a company driver's job through him by handing in his driving licence, and later moved to Jeddah <sup>[N371](#n371)</sup>. He had come home on leave on 7 September and gone back a month and three days later <sup>[N371](#n371)</sup>. His body reached Dhaka on the morning of 23 October, where the state minister for foreign affairs received it and handed it to the family, and the government gave the family a cheque for financial assistance <sup>[N371](#n371)</sup>.
+- **October 2026, Md Shahed Ahammed,** killed at Riyadh airport on 10 October (see [Current situation](#current-situation)), had twice gone to Saudi Arabia before and come home because he could not find work; this time he stayed with his father-in-law, got a company driver's job through him by handing in his driving licence, and later moved to Jeddah <sup>[N372](#n372)</sup>. He had come home on leave on 7 September and gone back a month and three days later <sup>[N372](#n372)</sup>. His body reached Dhaka on the morning of 23 October, where the state minister for foreign affairs received it and handed it to the family, and the government gave the family a cheque for financial assistance <sup>[N372](#n372)</sup>.
 
 <a id="what-the-family-can-claim"></a>
 
@@ -2885,7 +2885,7 @@ Saudi law doesn't guarantee that the body of an executed person is handed over: 
 
   > **Need to know**
   > - When does the Board pay Tk 50,000 in cash at the funeral, and to which families?
-- **Tk 10 lakh life insurance,** for workers who left with BMET clearance from 1 January 2023, covering 5 years from the BMET card's issue <sup>[154](#o154)</sup>. No application if the body comes home; if buried in Saudi Arabia or died after returning, apply at [portal.wewb.gov.bd](https://portal.wewb.gov.bd/) or the Board with the BMET card and passport copy; free, paid within 30 working days <sup>[76](#o76)</sup>. Claims recorded as suicide are often rejected. Middlemen offer to speed up payouts for a large cut; the claim is free and needs no middleman <sup>[N227](#n227)</sup>. Amirun Begum of Narsingdi, who went in November 2022 (before this insurance began), died in September 2023 by suicide, by the Saudi death certificate; when her father asked at Probashi Kallyan Bhaban in Dhaka in January 2024 about the Tk 3 lakh, a staff member looked at the certificate and said that because she had killed herself she wouldn't get the insurance money <sup>[N357 (2024)](#n357)</sup>.
+- **Tk 10 lakh life insurance,** for workers who left with BMET clearance from 1 January 2023, covering 5 years from the BMET card's issue <sup>[154](#o154)</sup>. No application if the body comes home; if buried in Saudi Arabia or died after returning, apply at [portal.wewb.gov.bd](https://portal.wewb.gov.bd/) or the Board with the BMET card and passport copy; free, paid within 30 working days <sup>[76](#o76)</sup>. Claims recorded as suicide are often rejected. Middlemen offer to speed up payouts for a large cut; the claim is free and needs no middleman <sup>[N227](#n227)</sup>. Amirun Begum of Narsingdi, who went in November 2022 (before this insurance began), died in September 2023 by suicide, by the Saudi death certificate; when her father asked at Probashi Kallyan Bhaban in Dhaka in January 2024 about the Tk 3 lakh, a staff member looked at the certificate and said that because she had killed herself she wouldn't get the insurance money <sup>[N358 (2024)](#n358)</sup>.
 - **Compensation and unpaid wages from Saudi Arabia.** With the heirs' power of attorney, the embassy pursues them in Saudi courts and sends the money through BMET <sup>[61](#o61)</sup>. The ambassador said at the embassy's National Expatriates' Day meeting (reported January 2024) that the embassy had contracted two Saudi law firms to recover dead workers' unpaid wages and dues, and that Tk 33 crore owed to the families of 65 dead Bangladeshis had been recovered and sent home the previous December <sup>[N56 (2024)](#n56)</sup>. The Board tells the family when compensation is possible; the family prepares a power of attorney (the Board's legal cell helps) and the same four papers as for the grant; the Board pays heirs within 60 working days of receiving the money, free <sup>[76](#o76)</sup>. A relative can also email the ministry (aswelfare@probashi.gov.bd) with proof of migrant status, the employer's name and full address and what is owed; it instructs the embassy and Board within 7 working days, free <sup>[69](#o69)</sup>.
 - **GOSI work-death compensation.** For a work-injury death, GOSI's work-injury insurance (who it covers: Injured or ill) pays the family 84 times the average monthly wage registered with it, plus repatriation <sup>[155](#o155)</sup>. Claim at a GOSI office (toll-free 199044), or from Bangladesh through the embassy with a power of attorney, as for compensation and unpaid wages above <sup>[156](#o156), [61](#o61), [76](#o76)</sup>.
 
@@ -2899,7 +2899,7 @@ Saudi law doesn't guarantee that the body of an executed person is handed over: 
 
 **To get home:** if you are injured or seriously ill in Saudi Arabia, you or your family apply to the Welfare Board with BMET clearance or membership and a passport copy; free, the Board gets the embassy to bring the worker home, sometimes into hospital, and the airport desk takes them to hospital by ambulance <sup>[76](#o76), [1](#o1)</sup>.
 
-**To get home without valid papers:** the Board can't help directly; it forwards the family's application to the ministry, which writes to the embassy's labour wing <sup>[N372](#n372)</sup>. An employer's case against the worker can hold up the return, as in Mizanur Rahman's case below <sup>[N372](#n372)</sup>.
+**To get home without valid papers:** the Board can't help directly; it forwards the family's application to the ministry, which writes to the embassy's labour wing <sup>[N373](#n373)</sup>. An employer's case against the worker can hold up the return, as in Mizanur Rahman's case below <sup>[N373](#n373)</sup>.
 
 **Treatment in Saudi Arabia:** the employer must insure you, but the cover doesn't pay for serious illness (see Housing, food and health care) <sup>[9](#o9), [23](#o23)</sup>. A company worker gets up to 120 days' sick leave a year, 30 at full pay, 60 at three-quarters, 30 unpaid <sup>[9](#o9)</sup>; a domestic worker up to 30 days with a medical report, 15 on full pay, the rest on half <sup>[118](#o118)</sup>.
 
@@ -2916,7 +2916,7 @@ Saudi law doesn't guarantee that the body of an executed person is handed over: 
 > - Which papers does GOSI need, and how long does it take to pay?
 > - Can a worker who has already come home claim from Bangladesh through the embassy?
 
-**Treatment money after coming home:** the Board pays up to Tk 2 lakh <sup>[76](#o76)</sup>; a Board assistant director said in June 2025 that it could give a registered worker up to Tk 1.5 lakh quickly <sup>[N373](#n373)</sup>.
+**Treatment money after coming home:** the Board pays up to Tk 2 lakh <sup>[76](#o76)</sup>; a Board assistant director said in June 2025 that it could give a registered worker up to Tk 1.5 lakh quickly <sup>[N374](#n374)</sup>.
 
 > **Need to know**
 > - Is the Board's treatment grant after coming home up to Tk 2 lakh or up to Tk 1.5 lakh?
@@ -2943,9 +2943,9 @@ Apply free at the Board, paid within 30 working days (Deputy Director Welfare-2,
 
 **Cases:**
 
-- **2021, Abul Hashem (42) of Lohagara, Chattogram,** in Saudi Arabia since 2005 with two shops in Mecca, had to wind up the business and come home after a stomach cancer diagnosis, and spent about Tk 68 lakh on treatment; by January 2026 he farmed two acres with technical advice, incentives and training from the upazila agriculture office <sup>[N374](#n374)</sup>.
-- **May 2024, Jabbar,** who worked without papers at a tile factory owned by an Indian national, was badly injured in a road accident on 10 May 2024 and put in a Saudi hospital ICU <sup>[N163](#n163)</sup>. His wife said people she spoke to three months later asked Tk 70 lakh to send him home because he had no papers, and later others she couldn't identify asked Tk 70 lakh and then Tk 19,000 for the airfare, which she couldn't raise <sup>[N163](#n163)</sup>. She applied in writing to the Board's director general on 13 January 2025; the Board wrote to the embassy and sent a reminder on 9 April, the Board's assistant director said <sup>[N373](#n373)</sup>. She said her application brought no result until the Tanore UNO (upazila nirbahi officer, the upazila's chief government officer), whose office she waited 22 days to enter, reached the embassy after 15 days of trying <sup>[N163](#n163)</sup>. He was flown home unconscious on 23 May 2025, after more than a year in the ICU <sup>[N373](#n373)</sup>. The escorts who had promised to take him to a hospital with a doctor and nurse, and to give some money, gave nothing and left him at the airport; a private hospital in Dhaka cost Tk 70,000 for seven hours before his wife hired an oxygen-equipped vehicle to Rajshahi for Tk 25,000, she said <sup>[N163](#n163)</sup>.
-- **February 2025, Mizanur Rahman (62) of Noakhali,** a day labourer in Jubail since 1993 and without valid papers since 2017, his family said, was admitted to Jubail General Hospital after a stroke on 28 February; his first week's bill was waived but treatment largely stopped afterwards because no one guaranteed the bill, the family said <sup>[N372](#n372)</sup>. His wife said the embassy told the family it would send him home once a compensation case his employer had filed against him was resolved; the employer had since died but the case remained, and she didn't know how to resolve it from Bangladesh <sup>[N372](#n372)</sup>. Her application of 9 April 2025, made with help from BRAC's Migration Programme, went from the Board to the ministry, which wrote to the labour wing on 16 April asking it to send him home urgently <sup>[N372](#n372)</sup>.
+- **2021, Abul Hashem (42) of Lohagara, Chattogram,** in Saudi Arabia since 2005 with two shops in Mecca, had to wind up the business and come home after a stomach cancer diagnosis, and spent about Tk 68 lakh on treatment; by January 2026 he farmed two acres with technical advice, incentives and training from the upazila agriculture office <sup>[N375](#n375)</sup>.
+- **May 2024, Jabbar,** who worked without papers at a tile factory owned by an Indian national, was badly injured in a road accident on 10 May 2024 and put in a Saudi hospital ICU <sup>[N163](#n163)</sup>. His wife said people she spoke to three months later asked Tk 70 lakh to send him home because he had no papers, and later others she couldn't identify asked Tk 70 lakh and then Tk 19,000 for the airfare, which she couldn't raise <sup>[N163](#n163)</sup>. She applied in writing to the Board's director general on 13 January 2025; the Board wrote to the embassy and sent a reminder on 9 April, the Board's assistant director said <sup>[N374](#n374)</sup>. She said her application brought no result until the Tanore UNO (upazila nirbahi officer, the upazila's chief government officer), whose office she waited 22 days to enter, reached the embassy after 15 days of trying <sup>[N163](#n163)</sup>. He was flown home unconscious on 23 May 2025, after more than a year in the ICU <sup>[N374](#n374)</sup>. The escorts who had promised to take him to a hospital with a doctor and nurse, and to give some money, gave nothing and left him at the airport; a private hospital in Dhaka cost Tk 70,000 for seven hours before his wife hired an oxygen-equipped vehicle to Rajshahi for Tk 25,000, she said <sup>[N163](#n163)</sup>.
+- **February 2025, Mizanur Rahman (62) of Noakhali,** a day labourer in Jubail since 1993 and without valid papers since 2017, his family said, was admitted to Jubail General Hospital after a stroke on 28 February; his first week's bill was waived but treatment largely stopped afterwards because no one guaranteed the bill, the family said <sup>[N373](#n373)</sup>. His wife said the embassy told the family it would send him home once a compensation case his employer had filed against him was resolved; the employer had since died but the case remained, and she didn't know how to resolve it from Bangladesh <sup>[N373](#n373)</sup>. Her application of 9 April 2025, made with help from BRAC's Migration Programme, went from the Board to the ministry, which wrote to the labour wing on 16 April asking it to send him home urgently <sup>[N373](#n373)</sup>.
 
 <a id="job-lost-within-6-months"></a>
 
@@ -2959,7 +2959,7 @@ If you lose the job within 6 months and come home, the migrant worker insurance 
 
 Apply free at the Board, paid within 30 working days (01712-107301, jahanwewb@gmail.com) <sup>[76](#o76)</sup>. Illness from before leaving isn't covered, and those returning for serious illness are often refused <sup>[N227](#n227)</sup>.
 
-Shariful Islam of Tangail went in October 2023 at a cost of Tk 5 lakh, worked 22 days, was detained by police and sent home on an outpass in December; in January 2024 he said he didn't know why he was sent back or whether he had paid for insurance, and that he had applied nowhere and nobody had told him to <sup>[N357 (2024)](#n357)</sup>.
+Shariful Islam of Tangail went in October 2023 at a cost of Tk 5 lakh, worked 22 days, was detained by police and sent home on an outpass in December; in January 2024 he said he didn't know why he was sent back or whether he had paid for insurance, and that he had applied nowhere and nobody had told him to <sup>[N358 (2024)](#n358)</sup>.
 
 <a id="if-the-board-doesnt-deliver"></a>
 
@@ -2976,9 +2976,9 @@ Complain in this order <sup>[76](#o76)</sup>:
 
 ### 16.6 Mental health
 
-The Saudi Health Ministry's psychological consultation line, 920033360, takes calls from anyone in Saudi Arabia, 8 am to 8 pm (Saturday from 1 pm) <sup>[157](#o157)</sup>. After coming home, BRAC's Migration Programme gives counselling ([At Dhaka airport](#at-dhaka-airport)) <sup>[N352](#n352)</sup>.
+The Saudi Health Ministry's psychological consultation line, 920033360, takes calls from anyone in Saudi Arabia, 8 am to 8 pm (Saturday from 1 pm) <sup>[157](#o157)</sup>. After coming home, BRAC's Migration Programme gives counselling ([At Dhaka airport](#at-dhaka-airport)) <sup>[N353](#n353)</sup>.
 
-In an OKUP (Ovibashi Karmi Unnayan Program, a migrant workers' organisation) survey presented in December 2024 of 1,096 returnees from six Middle East countries who came for health services, 55% had come back from Saudi Arabia and 48% came with mental health problems, more often men; domestic workers reported mental problems most <sup>[N114 (2024)](#n114)</sup>. Khokon Howlader of Mirzaganj, Patuakhali, seven or eight years in Saudi Arabia, hanged himself on 24 September 2024 while on a video call with his wife and twin sons, the family said; his body reached Dhaka 22 days later <sup>[N375 (2024)](#n375)</sup>.
+In an OKUP (Ovibashi Karmi Unnayan Program, a migrant workers' organisation) survey presented in December 2024 of 1,096 returnees from six Middle East countries who came for health services, 55% had come back from Saudi Arabia and 48% came with mental health problems, more often men; domestic workers reported mental problems most <sup>[N114 (2024)](#n114)</sup>. Khokon Howlader of Mirzaganj, Patuakhali, seven or eight years in Saudi Arabia, hanged himself on 24 September 2024 while on a video call with his wife and twin sons, the family said; his body reached Dhaka 22 days later <sup>[N376 (2024)](#n376)</sup>.
 
 > **Need to know**
 > - Does 920033360 answer in Bangla or English?
@@ -3011,7 +3011,7 @@ Declare goods on the form given on the plane, or at the custom house beside the 
   - visa;
   - ticket;
   - air waybill.
-- BRAC's Migration Programme helps returnees at the airport and with reintegration, counselling and jobs <sup>[N352](#n352)</sup>: Information Center, Rahman Villa (2nd floor), 402 Ashkona, Dakshinkhan, Dhaka, opposite the airport; 01700797182, 01700797183 <sup>[N376](#n376)</sup>.
+- BRAC's Migration Programme helps returnees at the airport and with reintegration, counselling and jobs <sup>[N353](#n353)</sup>: Information Center, Rahman Villa (2nd floor), 402 Ashkona, Dakshinkhan, Dhaka, opposite the airport; 01700797182, 01700797183 <sup>[N377](#n377)</sup>.
 
   > **Need to know**
   > - Does BRAC's Information Center serve workers returning from Saudi Arabia?
@@ -3029,7 +3029,7 @@ Declare goods on the form given on the plane, or at the custom house beside the 
 
 For legal help inside Bangladesh, for example if your family is threatened, apply to your district probashi kallyan centre or the Board, which asks the local administration to act, free <sup>[76](#o76)</sup>. The centres are listed with contacts under "District Probashi Kallyan Centre list" on [wewb.gov.bd](https://wewb.gov.bd/) <sup>[159](#o159)</sup>.
 
-**Kidnapping for ransom.** On 11 January 2025 a gang of expatriate Bangladeshis kidnapped Russell, a Bangladeshi long resident in Saudi Arabia, from Riyadh, tortured him and got his family to pay Tk 35 lakh ransom into a bank account the gang gave, according to Khilgaon police in Dhaka <sup>[N377](#n377)</sup>. After his father-in-law filed a case at Khilgaon police station on 21 January, police arrested three men in Lakshmipur and Brahmanbaria on 31 January, and Tk 12 lakh of the ransom was frozen by court order <sup>[N377](#n377)</sup>.
+**Kidnapping for ransom.** On 11 January 2025 a gang of expatriate Bangladeshis kidnapped Russell, a Bangladeshi long resident in Saudi Arabia, from Riyadh, tortured him and got his family to pay Tk 35 lakh ransom into a bank account the gang gave, according to Khilgaon police in Dhaka <sup>[N378](#n378)</sup>. After his father-in-law filed a case at Khilgaon police station on 21 January, police arrested three men in Lakshmipur and Brahmanbaria on 31 January, and Tk 12 lakh of the ransom was frozen by court order <sup>[N378](#n378)</sup>.
 
 > **Need to know**
 > - Which papers must a returnee bring to the district centre or the Board for legal help inside Bangladesh?
@@ -3086,19 +3086,19 @@ Security depends on the amount <sup>[160](#o160)</sup>:
   - Online requests: [bangladeshembassy.org.sa/srspub](https://www.bangladeshembassy.org.sa/srspub/) <sup>[55](#o55)</sup>.
   - Notices: [bangladeshembassy.org.sa/notice.html](https://www.bangladeshembassy.org.sa/notice.html) <sup>[153](#o153)</sup>.
   - Appointments: [passportriyadh.com/appointment](https://passportriyadh.com/appointment/) <sup>[91](#o91)</sup>.
-- **Bangladesh Consulate General, Jeddah,** Old Makkah Road, Kilo-3, Bab Al Khalil, Al-Nazlah Al-Sharqiyah <sup>[N378](#n378)</sup>.
+- **Bangladesh Consulate General, Jeddah,** Old Makkah Road, Kilo-3, Bab Al Khalil, Al-Nazlah Al-Sharqiyah <sup>[N379](#n379)</sup>.
   - Head of Chancery: +966126881740, hoc.jeddah@mofa.gov.bd <sup>[152](#o152)</sup>.
   - Labour wing counsellor: +966501365198, counselorjeddah@probashi.gov.bd <sup>[152](#o152)</sup>.
   - Labour wing first secretary: +966126335082, fsjeddah@probashi.gov.bd <sup>[152](#o152)</sup>.
   - Toll-free hotline: 8002440051, free, every day 8 am to 9 pm Saudi time except weekly and other holidays <sup>[N80](#n80)</sup>. It began in April 2019 as a pilot under an agreement between the ministry and the ILO (International Labour Organization), is now funded by the Wage Earners' Welfare Board, and had taken more than 2 lakh calls by October 2025; a worker in Bisha said it took several tries to get through and operators couldn't check his e-passport status, telling him to check online himself <sup>[N80](#n80)</sup>.
-- **Bangladesh Hajj Office, Jeddah** (under Bangladesh's Ministry of Religious Affairs): missionhajj@gmail.com <sup>[N379](#n379)</sup>. It advertises some posts to Bangladeshis in Saudi Arabia with a valid iqama and passport: in October 2026, protocol assistant and computer operator cum interpreter at SR 4,425-6,875, caretaker cum night guard at SR 2,815-5,090 and drivers at SR 3,250-5,525 a month, age limit 32 <sup>[N379](#n379)</sup>. Applications go by hand or by email, with a handwritten application and CV, 2 passport photos, iqama and passport copies and attested copies of certificates <sup>[N379](#n379)</sup>.
+- **Bangladesh Hajj Office, Jeddah** (under Bangladesh's Ministry of Religious Affairs): missionhajj@gmail.com <sup>[N380](#n380)</sup>. It advertises some posts to Bangladeshis in Saudi Arabia with a valid iqama and passport: in October 2026, protocol assistant and computer operator cum interpreter at SR 4,425-6,875, caretaker cum night guard at SR 2,815-5,090 and drivers at SR 3,250-5,525 a month, age limit 32 <sup>[N380](#n380)</sup>. Applications go by hand or by email, with a handwritten application and CV, 2 passport photos, iqama and passport copies and attested copies of certificates <sup>[N380](#n380)</sup>.
 - **Probashi call centre (Welfare Board):** 16135 free from Bangladesh, 09610102030, +8808000102030 from abroad, pbcc@wewb.gov.bd <sup>[76](#o76)</sup>.
 - **Ministry of Expatriates' Welfare:**
   - Unpaid wages and insurance: Welfare-1, saswelfare@probashi.gov.bd, 02-41030251 <sup>[69](#o69)</sup>.
   - Deaths, return home and women workers: Welfare-2, aswelfare@probashi.gov.bd <sup>[69](#o69)</sup>.
   - Escalation: Mission and Welfare wing head, adsmission@probashi.gov.bd, 02-41030219 <sup>[69](#o69)</sup>.
 - **Airport Probashi Kallyan desk, Dhaka:** +88 02 8901040, 01321-158352, welfaredesk@gmail.com <sup>[76](#o76)</sup>.
-- **BRAC Information Center, Dhaka airport:** 01700797182, 01700797183 <sup>[N376](#n376)</sup>.
+- **BRAC Information Center, Dhaka airport:** 01700797182, 01700797183 <sup>[N377](#n377)</sup>.
 - **Probashi Kallyan Bank:** 16238, +880 9677-787878 from abroad <sup>[160](#o160)</sup>.
 - **Bangladesh Bank complaints (banks, bKash):** 16236, bb.cipc@bb.org.bd <sup>[150](#o150)</sup>.
 - **Hajj and Umrah helpline (Bangladesh):** 16136, +880 9602666707 from abroad, office hours <sup>[133](#o133)</sup>.
@@ -3600,72 +3600,73 @@ These facts come only from news or third-party sources. Each needs an official s
 - <a id="n308"></a>N308. Khobor Sangjog, 23 Aug 2025. [Religious Affairs Ministry asks pilgrims not to pay unapproved agencies (Bangla)](https://www.khoborsangjog.com/national/86932/). Accessed 7 Nov 2026. Possibly outdated.
 - <a id="n309"></a>N309. Gulf News, citing the Ministry of Hajj and Umrah, 14 Apr 2024. [Saudi Arabia warns against misuse of Umrah visas for employment purposes](https://gulfnews.com/world/gulf/saudi/saudi-arabia-warns-against-misuse-of-umrah-visas-for-employment-purposes-1.102157399). Accessed 7 Nov 2026. Possibly outdated.
 - <a id="n310"></a>N310. Bangladesh Monitor, 20 May 2026. [Unregulated Umrah market putting pilgrims, agencies at risk](https://bangladeshmonitor.com.bd/en/unregulated-umrah-market-putting-pilgrims-agencies-at-risk-haab-leaders). Accessed 7 Nov 2026.
-- <a id="n311"></a>N311. Prothom Alo, 25 Dec 2025. [সফল ওমরাহ সফর: সঠিক প্রস্তুতির গাইডলাইন](https://www.prothomalo.com/religion/islam/9y6b9xv428). Accessed 23 Nov 2026.
-- <a id="n312"></a>N312. bdnews24.com, 31 Oct 2025. [Saudi Arabia changes Umrah visa rules (Bangla)](https://bangla.bdnews24.com/world/c48308059117). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n313"></a>N313. Prothom Alo, 6 Feb 2025. [১০ বাংলাদেশিকে সৌদি হয়ে রাশিয়ায় নিয়ে গিয়ে সুলতানের কাছে বিক্রি (10 Bangladeshis taken to Russia via Saudi Arabia and sold to a 'Sultan')](https://www.prothomalo.com/bangladesh/1anivwwzmd). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n314"></a>N314. Prothom Alo, 13 Jun 2025. [চাকরির নামে ইউক্রেন যুদ্ধে পাঠানো চক্রের হোতা গ্রেপ্তার (Ringleader of gang that sent people to the Ukraine war in the name of jobs arrested)](https://www.prothomalo.com/bangladesh/crime/263s72up7l). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n315"></a>N315. bdnews24.com, 2 Oct 2026. [Hajj agencies seek 20,000 more slots as quota fills up](https://bdnews24.com/bangladesh/uoyhtnxo5j). Accessed 7 Nov 2026.
-- <a id="n316"></a>N316. UNB, Jul 2026. [Preliminary registration for Hajj 2027 begins](https://unb.com.bd/category/Bangladesh/preliminary-registration-for-hajj-2027-begins-monday/191575). Accessed 7 Nov 2026.
-- <a id="n317"></a>N317. Prothom Alo, 1 Nov 2024. [হজের খরচ কমেছে, প্যাকেজ ঘোষণা (Hajj cost reduced, packages announced)](https://www.prothomalo.com/religion/islam/udtu7men02). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n318"></a>N318. UNB, 21 Jul 2026. [Govt announces Hajj packages for 2027](https://unb.com.bd/category/Bangladesh/govt-announces-hajj-packages-for-2027-airfare-cut-by-tk-24830/191171). Accessed 7 Nov 2026.
-- <a id="n319"></a>N319. Prothom Alo, 18 Apr 2026. [সরকার দুই মাসে ৬০টি পদক্ষেপ বাস্তবায়ন করেছে: মাহদী আমিন (Government implemented 60 measures in two months: Mahdi Amin)](https://www.prothomalo.com/bangladesh/fq9336i9k0). Accessed 23 Nov 2026.
-- <a id="n320"></a>N320. Middle East Briefing, 22 Apr 2026. [Saudi Arabia tightens Hajj visa enforcement](https://www.middleeastbriefing.com/news/saudi-arabia-hajj-visa-enforcement-2026-fines-entry-bans/). Accessed 7 Nov 2026.
-- <a id="n321"></a>N321. KSA Expats (guide site), 31 Jan 2026. [Permanent family visa: how to apply](https://ksaexpats.com/procedure-to-apply-saudi-permanent-family-visa-online/). Accessed 7 Nov 2026.
-- <a id="n322"></a>N322. KSA Expats, citing Okaz/Saudi Gazette, 31 Jul 2024. [Saudi Arabia allows expat dependents to work in health and education](https://ksaexpats.com/?p=45212). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n323"></a>N323. Ajel, 23 Jul 2026. [Civil Affairs launches online newborn registration service](https://english.ajel.sa/news/xqco0fcem). Accessed 7 Nov 2026.
-- <a id="n324"></a>N324. Fragomen, 1 Jul 2025. [Saudi Arabia: visit visa entry and exit restrictions for select nationals](https://www.fragomen.com/insights/saudi-arabia-visit-visa-entry-and-exit-restrictions-for-select-nationals.html). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n325"></a>N325. KSA Expats (guide site), 21 Jan 2026. [Family visit visa: how to apply](https://ksaexpats.com/apply-for-family-visit-visa-online/). Accessed 7 Nov 2026.
-- <a id="n326"></a>N326. Truescho (guide site), 5 Sep 2026. [When Study in Saudi Arabia opens 2026](https://truescho.com/en/blog/when-study-in-saudi-arabia-opens-2026). Accessed 7 Nov 2026.
-- <a id="n327"></a>N327. Arab News, 2 Aug 2026. [New programs, scholarships drive more Bangladeshis to Saudi universities](https://backup.arabnews.com/node/2653126/world). Accessed 7 Nov 2026.
-- <a id="n328"></a>N328. Prothom Alo, 29 Jun 2024. [সৌদি আরবে উচ্চশিক্ষা নিতে চাইলে (If you want higher education in Saudi Arabia)](https://www.prothomalo.com/education/higher-education/0j4t06kno5). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n329"></a>N329. Prothom Alo, 2 Jun 2024. [সৌদির কিং ফাহাদ বিশ্ববিদ্যালয়ের স্কলারশিপ, বিনা খরচে পড়ার সুযোগ বাংলাদেশিদের](https://www.prothomalo.com/education/scholarship/ndegw05il6). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n330"></a>N330. Wego Travel Blog, 9 Jun 2026. [Saudi temporary work visa](https://blog.wego.com/saudi-temporary-work-visa/). Accessed 7 Nov 2026.
-- <a id="n331"></a>N331. Saudipedia, 2 May 2023. [Does Saudi Arabia issue seasonal work visas?](https://saudipedia.com/en/does-saudi-arabia-issue-seasonal-work-visas). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n332"></a>N332. Saudia (Saudi Arabian Airlines), with the Ministry of Foreign Affairs. [Saudi transit (stopover) visa](https://www.saudia.com/transit-visa). Accessed 7 Nov 2026. Undated: possibly outdated.
-- <a id="n333"></a>N333. KSA Expats, Aug 2024. [How to apply for the Saudi 4-day stopover visa](https://ksaexpats.com/how-to-apply-saudi-4-day-stopover-visa/). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n334"></a>N334. Gulf News, 2 Aug 2023. [Saudi Arabia now allows transfer of domestic worker services via government portal](https://gulfnews.com/world/gulf/saudi/saudi-arabia-now-allows-transfer-of-domestic-worker-services-via-government-portal-1.97319668). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n335"></a>N335. Deloitte Middle East, Jan 2026. [Update on occupation changes for expatriates](https://www.deloitte.com/middle-east/en/services/tax/perspectives/update-on-occupation-changes-for-expatriates.html). Accessed 7 Nov 2026.
-- <a id="n336"></a>N336. US Department of State, Aug 2025. [2024 Country Reports on Human Rights Practices: Saudi Arabia](https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/saudi-arabia). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n337"></a>N337. Gulf News, 25 Dec 2021. [Saudi Arabia: 5 nabbed over illegal money transfers](https://gulfnews.com/world/gulf/saudi/saudi-arabia-5-nabbed-over-illegal-money-transfers-1.1640437478413). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n338"></a>N338. Prothom Alo English, 27 Sep 2023. [21,725 MFS accounts suspended for online gambling, hundi: BFIU](https://en.prothomalo.com/business/local/yv8h5ri27f). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n339"></a>N339. Prothom Alo, 27 Aug 2024. [ড. ইউনূস বাংলাদেশকে সমৃদ্ধির পথে এগিয়ে নেওয়ার সক্ষমতা রাখেন: সৌদি রাষ্ট্রদূত (Dr Yunus has the capacity to lead Bangladesh toward prosperity: Saudi ambassador)](https://www.prothomalo.com/bangladesh/csi0j48750). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n340"></a>N340. Prothom Alo, 14 Mar 2024. [প্রবাসী আয়ের প্রধান উৎস এখন আমিরাত ও যুক্তরাজ্য, কারণ কী (UAE and UK are now the main sources of remittance; why?)](https://www.prothomalo.com/business/bank/slowilem1b). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n341"></a>N341. Prothom Alo, 19 Mar 2025. [ডলারের দাম না বাড়লেও যেভাবে বাড়ছে প্রবাসী আয় (How remittances are rising even though the dollar price is not)](https://www.prothomalo.com/business/bank/zg8b47bnff). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n342"></a>N342. bKash. [Money Transfer Service (international remittance)](https://www.bkash.com/en/products-services/remittance/money-transfer-service). Accessed 7 Nov 2026. Undated: possibly outdated.
-- <a id="n343"></a>N343. The Business Standard, 11 Jun 2026. [Govt to continue 2.5% cash incentive on remittances](https://www.tbsnews.net/node/1460256). Accessed 7 Nov 2026.
-- <a id="n344"></a>N344. The Business Standard, 23 May 2022. [No document needed to avail cash incentives for remittance over Tk5 lakh](https://www.tbsnews.net/economy/no-document-needed-avail-cash-incentives-remittance-over-tk5-lakh-425290). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n345"></a>N345. Prothom Alo, 6 Aug 2023. [Bangladesh asks Saudi Arabia to let undocumented Bangladeshis return quickly](https://www.prothomalo.com/bangladesh/izug6ah1ub). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n346"></a>N346. Prothom Alo, 6 May 2025. [ইতালিতে বৈধ অভিবাসন বৃদ্ধির লক্ষ্যে সমঝোতা স্মারক সই (MoU signed to increase legal migration to Italy)](https://www.prothomalo.com/bangladesh/rbohaer5rz). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n347"></a>N347. UNB, 9 Jun 2026. [Govt moves to make Bangladesh missions abroad more effective, migrant-friendly](https://unb.com.bd/category/Special/govt-moves-to-make-bangladesh-missions-abroad-more-effective-migrant-friendly/187738). Accessed 7 Nov 2026.
-- <a id="n348"></a>N348. Prothom Alo, 26 Mar 2026. [সৌদিতে ভিসার মেয়াদ শেষ হওয়া বাংলাদেশিদের জরিমানা ছাড়াই দেশে ফেরার সুযোগ (Bangladeshis whose visas expired in Saudi Arabia can go home without a fine)](https://www.prothomalo.com/bangladesh/e571nfh9ar). Accessed 23 Nov 2026.
-- <a id="n349"></a>N349. Prothom Alo, 1 Jul 2026. [সৌদিতে প্রবাসী কর্মীদের নির্ধারিত সময়ের মধ্যে ওয়ার্ক পারমিট ইস্যু-নবায়নের আহ্বান (Call for expatriate workers in Saudi Arabia to have work permits issued or renewed within the set time)](https://www.prothomalo.com/bangladesh/9huq9zrki5). Accessed 23 Nov 2026.
-- <a id="n350"></a>N350. Prothom Alo, 31 May 2025. [প্রবাসীদের জন্য হাসপাতাল করার পরিকল্পনার কথা জানালেন আসিফ নজরুল (Asif Nazrul speaks of plan to build a hospital for expatriates)](https://www.prothomalo.com/bangladesh/district/w4yb0i1ibd). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n351"></a>N351. Prothom Alo, 18 Jun 2026. [সৌদি আরবে সড়ক দুর্ঘটনায় ফরিদপুরের প্রবাসী নিহত (Faridpur expatriate killed in road accident in Saudi Arabia)](https://www.prothomalo.com/bangladesh/district/9b4y4vlqic). Accessed 23 Nov 2026.
-- <a id="n352"></a>N352. BRAC. [Migration programme](https://www.brac.net/program/migration/). Accessed 7 Nov 2026. Undated: possibly outdated.
-- <a id="n353"></a>N353. Prothom Alo, 19 Mar 2026. [সৌদি আরবে ক্ষেপণাস্ত্র হামলায় নিহত বাংলাদেশির লাশের অপেক্ষায় স্বজনেরা (Relatives wait for the body of a Bangladeshi killed in a missile attack in Saudi Arabia)](https://www.prothomalo.com/bangladesh/district/ko1pmufh82). Accessed 23 Nov 2026.
-- <a id="n354"></a>N354. Prothom Alo, 26 May 2026. [মধ্যপ্রাচ্যে পৃথক সড়ক দুর্ঘটনায় তিন বাংলাদেশি নিহত, পরিবারে মাতম (Three Bangladeshis killed in separate road accidents in the Middle East; families in mourning)](https://www.prothomalo.com/bangladesh/district/y5m7jm8ew6). Accessed 23 Nov 2026.
-- <a id="n355"></a>N355. Prothom Alo, 26 Aug 2026. [সৌদিতে অগ্নিকাণ্ডে নিহত ৯ জনের মরদেহ আসছে বৃহস্পতিবার (Bodies of 9 killed in Saudi fire arriving Thursday)](https://www.prothomalo.com/bangladesh/district/q2fle5e50s). Accessed 23 Nov 2026.
-- <a id="n356"></a>N356. Prothom Alo, 20 Mar 2024. [সৌদিতে তরুণ বাংলাদেশি কর্মীরা কেন মারা যাচ্ছেন (Why are young Bangladeshi workers dying in Saudi Arabia)](https://www.prothomalo.com/bangladesh/gchcx6cqwl). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n357"></a>N357. Prothom Alo, 22 Jan 2024. [প্রবাসে কেবল মৃত্যু হলেই বিমার টাকা সহজে পায় অভিবাসী কর্মী (Migrant workers get insurance money easily only when they die abroad)](https://www.prothomalo.com/bangladesh/e5seget393). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n358"></a>N358. Prothom Alo, 19 Oct 2026. [সৌদিতে দুই বাংলাদেশির মৃত্যুদণ্ড আমাদের জন্য হতাশার: হুমায়ুন কবির (Execution of two Bangladeshis in Saudi Arabia is disappointing for us: Humayun Kabir)](https://www.prothomalo.com/bangladesh/r9gwq6t308). Accessed 23 Nov 2026.
-- <a id="n359"></a>N359. Prothom Alo, 9 Aug 2026. [সৌদি আরবে কারখানায় অগ্নিকাণ্ডে ১০ বাংলাদেশি নিহত, সবার বাড়ি নওগাঁ (10 Bangladeshis killed in factory fire in Saudi Arabia, all from Naogaon)](https://www.prothomalo.com/bangladesh/district/11ltewvhjh). Accessed 23 Nov 2026.
-- <a id="n360"></a>N360. Prothom Alo, 11 Aug 2026. [সৌদিতে ১৬ বাংলাদেশির মৃত্যুতে প্রধানমন্ত্রীর শোক, মরদেহ দ্রুত দেশে আনতে নির্দেশ (PM mourns deaths of 16 Bangladeshis in Saudi Arabia, orders bodies brought home quickly)](https://www.prothomalo.com/bangladesh/6cd0mc7lh7). Accessed 23 Nov 2026.
-- <a id="n361"></a>N361. Prothom Alo, 27 Aug 2026. [সৌদিতে অগ্নিকাণ্ডে নিহত ৯ প্রবাসীর মরদেহ দেশে পৌঁছেছে (Bodies of 9 migrants killed in Saudi fire arrive home)](https://www.prothomalo.com/bangladesh/district/4k8uhyb1f3). Accessed 23 Nov 2026.
-- <a id="n362"></a>N362. Prothom Alo, 29 Jul 2024. [সৌদি আরবে গাড়িচাপায় বাংলাদেশি যুবক নিহত (Bangladeshi youth killed by car in Saudi Arabia)](https://www.prothomalo.com/bangladesh/district/edel6hjwx5). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n363"></a>N363. Prothom Alo, 21 May 2025. [ছুটিতে দেশে ফিরবেন, স্বজনদের জন্য কেনাকাটা করতে গিয়ে গাড়ি উল্টে সৌদিপ্রবাসীর মৃত্যু (Saudi expatriate due home on leave dies when vehicle overturns on shopping trip for relatives)](https://www.prothomalo.com/bangladesh/district/m5v7ytqisd). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n364"></a>N364. Prothom Alo, 11 Mar 2026. [মৃত্যুর আগে আহত প্রবাসী জানালেন শেষ ইচ্ছা, মক্কায় দাফন করা হোক তাঁকে (Injured expatriate's last wish before death: to be buried in Makkah)](https://www.prothomalo.com/bangladesh/district/qil3s3x2vk). Accessed 23 Nov 2026.
-- <a id="n365"></a>N365. Prothom Alo, 13 Apr 2026. [সৌদি আরবে নির্মাণাধীন ভবনের লিফট থেকে পড়ে এক বাংলাদেশির মৃত্যু](https://www.prothomalo.com/bangladesh/district/rn60z1mzpg). Accessed 23 Nov 2026.
-- <a id="n366"></a>N366. Prothom Alo, 9 May 2026. [সৌদিতে দুর্ঘটনায় নিহত মুরাদের মরদেহ ১৫ দিন পর দেশে, দাফন সম্পন্ন (Body of Murad, killed in an accident in Saudi Arabia, home after 15 days and buried)](https://www.prothomalo.com/bangladesh/district/dlumwbiyoo). Accessed 23 Nov 2026.
-- <a id="n367"></a>N367. Prothom Alo, 8 Sep 2026. [দেশে ফিরতে কেটেছিলেন টিকিট, বিমানবন্দরে যাওয়ার পথে দুই সৌদিপ্রবাসীর মৃত্যু (Ticket bought to return home, two Saudi expatriates die on the way to the airport)](https://www.prothomalo.com/bangladesh/district/xlza4sjp84). Accessed 23 Nov 2026.
-- <a id="n368"></a>N368. Prothom Alo, 31 Aug 2026. [‘মা গো, মা গো চিৎকার’, এরপর কেটে যায় কল ('Ma go, ma go' he screamed, then the call cut off)](https://www.prothomalo.com/bangladesh/district/6cvciujcp7). Accessed 23 Nov 2026.
-- <a id="n369"></a>N369. Prothom Alo, 6 Sep 2026. [‘পাঁচ বছরের মেয়েটি বাবাকে কখনো সামনাসামনি দেখেনি, লাশটাও কি দেখবে না’ ('The five-year-old has never seen her father in person; will she not even see his body?' (Saudi Arabia death))](https://www.prothomalo.com/bangladesh/district/0ael15l9sw). Accessed 23 Nov 2026.
-- <a id="n370"></a>N370. Prothom Alo, 21 Sep 2026. [‘ভাই তো মারা গেলই, শেষবারের মতো মুখটা দেখতে চাই’](https://www.prothomalo.com/bangladesh/district/4sy744n9li). Accessed 23 Nov 2026.
-- <a id="n371"></a>N371. Prothom Alo, 23 Oct 2026. [‘কেঁদো না, বাসায় গিয়ে ফোন দেব’—স্ত্রীর সঙ্গে শেষ কথা ছিল শাহেদের](https://www.prothomalo.com/bangladesh/jfnjva46i6). Accessed 23 Nov 2026.
-- <a id="n372"></a>N372. Prothom Alo, 18 Apr 2025. [মৃত্যুর আগে স্বামীকে ফিরিয়ে দিন, আকুতি সৌদিপ্রবাসীর স্ত্রীর (Return my husband before he dies, pleads wife of a migrant in Saudi Arabia)](https://www.prothomalo.com/bangladesh/ay77wae2nm). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n373"></a>N373. Prothom Alo, 1 Jun 2025. [এক বছর ছিলেন সৌদির আইসিইউতে, দেশে আনার পর চোখ খুললেন রাজশাহীর জব্বার (After a year in a Saudi ICU, Rajshahi's Jabbar opens his eyes once brought home)](https://www.prothomalo.com/bangladesh/district/5paehzax7y). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n374"></a>N374. Prothom Alo, 5 Jan 2026. [ক্যানসারে হারান জীবনের সব সঞ্চয়, এখন চাষাবাদে লাখ টাকা আয় বিদেশফেরত হাশেমের (Returnee Hashem lost all savings to cancer, now earns lakhs from farming)](https://www.prothomalo.com/bangladesh/district/vbne69g6p8). Accessed 23 Nov 2026.
-- <a id="n375"></a>N375. Prothom Alo, 17 Oct 2024. [স্ত্রী ও দুই সন্তানকে ভিডিও কলে রেখে সৌদিপ্রবাসীর আত্মহত্যার ২২ দিন পর এল লাশ (Body of Saudi migrant who killed himself on video call with wife and two children arrives after 22 days)](https://www.prothomalo.com/bangladesh/district/vmz8yjfh7k). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n376"></a>N376. IOM and BRAC (PROTTASHA project). [Assistance for Migrants Returning to Bangladesh (leaflet)](https://migrantprotection.iom.int/sites/g/files/tmzbdl341/files/prottasha-leaflet.pdf). Accessed 7 Nov 2026. Undated: possibly outdated.
-- <a id="n377"></a>N377. Prothom Alo, 1 Feb 2025. [সৌদিতে বাংলাদেশিকে অপহরণ করে ৩৫ লাখ টাকা আদায়, বাংলাদেশে তিনজন গ্রেপ্তার (Bangladeshi kidnapped in Saudi Arabia, 35 lakh taka ransom collected; three arrested in Bangladesh)](https://www.prothomalo.com/bangladesh/crime/vtu85kkrna). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n378"></a>N378. Embassies.info (directory), 14 May 2026. [Consulate General of Bangladesh in Jeddah, Saudi Arabia](https://embassies.info/BangladeshiConsulateinJeddahSaudiArabia). Accessed 7 Nov 2026.
-- <a id="n379"></a>N379. Prothom Alo, 26 Oct 2026. [জেদ্দায় বাংলাদেশ হজ অফিসে চাকরি, বেতন রিয়ালে, আবেদন বাংলাদেশি–সৌদি নাগরিকদের (Jobs at the Bangladesh Hajj Office in Jeddah, pay in riyals, open to Bangladeshi and Saudi nationals)](https://www.prothomalo.com/chakri/chakri-news/avqy081lz8). Accessed 23 Nov 2026.
+- <a id="n311"></a>N311. Arab News, 11 Oct 2022. [Male guardians are no longer required to accompany female pilgrims during Hajj, Umrah](https://www.arabnews.com/node/2179356). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n312"></a>N312. Prothom Alo, 25 Dec 2025. [সফল ওমরাহ সফর: সঠিক প্রস্তুতির গাইডলাইন](https://www.prothomalo.com/religion/islam/9y6b9xv428). Accessed 23 Nov 2026.
+- <a id="n313"></a>N313. bdnews24.com, 31 Oct 2025. [Saudi Arabia changes Umrah visa rules (Bangla)](https://bangla.bdnews24.com/world/c48308059117). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n314"></a>N314. Prothom Alo, 6 Feb 2025. [১০ বাংলাদেশিকে সৌদি হয়ে রাশিয়ায় নিয়ে গিয়ে সুলতানের কাছে বিক্রি (10 Bangladeshis taken to Russia via Saudi Arabia and sold to a 'Sultan')](https://www.prothomalo.com/bangladesh/1anivwwzmd). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n315"></a>N315. Prothom Alo, 13 Jun 2025. [চাকরির নামে ইউক্রেন যুদ্ধে পাঠানো চক্রের হোতা গ্রেপ্তার (Ringleader of gang that sent people to the Ukraine war in the name of jobs arrested)](https://www.prothomalo.com/bangladesh/crime/263s72up7l). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n316"></a>N316. bdnews24.com, 2 Oct 2026. [Hajj agencies seek 20,000 more slots as quota fills up](https://bdnews24.com/bangladesh/uoyhtnxo5j). Accessed 7 Nov 2026.
+- <a id="n317"></a>N317. UNB, Jul 2026. [Preliminary registration for Hajj 2027 begins](https://unb.com.bd/category/Bangladesh/preliminary-registration-for-hajj-2027-begins-monday/191575). Accessed 7 Nov 2026.
+- <a id="n318"></a>N318. Prothom Alo, 1 Nov 2024. [হজের খরচ কমেছে, প্যাকেজ ঘোষণা (Hajj cost reduced, packages announced)](https://www.prothomalo.com/religion/islam/udtu7men02). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n319"></a>N319. UNB, 21 Jul 2026. [Govt announces Hajj packages for 2027](https://unb.com.bd/category/Bangladesh/govt-announces-hajj-packages-for-2027-airfare-cut-by-tk-24830/191171). Accessed 7 Nov 2026.
+- <a id="n320"></a>N320. Prothom Alo, 18 Apr 2026. [সরকার দুই মাসে ৬০টি পদক্ষেপ বাস্তবায়ন করেছে: মাহদী আমিন (Government implemented 60 measures in two months: Mahdi Amin)](https://www.prothomalo.com/bangladesh/fq9336i9k0). Accessed 23 Nov 2026.
+- <a id="n321"></a>N321. Middle East Briefing, 22 Apr 2026. [Saudi Arabia tightens Hajj visa enforcement](https://www.middleeastbriefing.com/news/saudi-arabia-hajj-visa-enforcement-2026-fines-entry-bans/). Accessed 7 Nov 2026.
+- <a id="n322"></a>N322. KSA Expats (guide site), 31 Jan 2026. [Permanent family visa: how to apply](https://ksaexpats.com/procedure-to-apply-saudi-permanent-family-visa-online/). Accessed 7 Nov 2026.
+- <a id="n323"></a>N323. KSA Expats, citing Okaz/Saudi Gazette, 31 Jul 2024. [Saudi Arabia allows expat dependents to work in health and education](https://ksaexpats.com/?p=45212). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n324"></a>N324. Ajel, 23 Jul 2026. [Civil Affairs launches online newborn registration service](https://english.ajel.sa/news/xqco0fcem). Accessed 7 Nov 2026.
+- <a id="n325"></a>N325. Fragomen, 1 Jul 2025. [Saudi Arabia: visit visa entry and exit restrictions for select nationals](https://www.fragomen.com/insights/saudi-arabia-visit-visa-entry-and-exit-restrictions-for-select-nationals.html). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n326"></a>N326. KSA Expats (guide site), 21 Jan 2026. [Family visit visa: how to apply](https://ksaexpats.com/apply-for-family-visit-visa-online/). Accessed 7 Nov 2026.
+- <a id="n327"></a>N327. Truescho (guide site), 5 Sep 2026. [When Study in Saudi Arabia opens 2026](https://truescho.com/en/blog/when-study-in-saudi-arabia-opens-2026). Accessed 7 Nov 2026.
+- <a id="n328"></a>N328. Arab News, 2 Aug 2026. [New programs, scholarships drive more Bangladeshis to Saudi universities](https://backup.arabnews.com/node/2653126/world). Accessed 7 Nov 2026.
+- <a id="n329"></a>N329. Prothom Alo, 29 Jun 2024. [সৌদি আরবে উচ্চশিক্ষা নিতে চাইলে (If you want higher education in Saudi Arabia)](https://www.prothomalo.com/education/higher-education/0j4t06kno5). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n330"></a>N330. Prothom Alo, 2 Jun 2024. [সৌদির কিং ফাহাদ বিশ্ববিদ্যালয়ের স্কলারশিপ, বিনা খরচে পড়ার সুযোগ বাংলাদেশিদের](https://www.prothomalo.com/education/scholarship/ndegw05il6). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n331"></a>N331. Wego Travel Blog, 9 Jun 2026. [Saudi temporary work visa](https://blog.wego.com/saudi-temporary-work-visa/). Accessed 7 Nov 2026.
+- <a id="n332"></a>N332. Saudipedia, 2 May 2023. [Does Saudi Arabia issue seasonal work visas?](https://saudipedia.com/en/does-saudi-arabia-issue-seasonal-work-visas). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n333"></a>N333. Saudia (Saudi Arabian Airlines), with the Ministry of Foreign Affairs. [Saudi transit (stopover) visa](https://www.saudia.com/transit-visa). Accessed 7 Nov 2026. Undated: possibly outdated.
+- <a id="n334"></a>N334. KSA Expats, Aug 2024. [How to apply for the Saudi 4-day stopover visa](https://ksaexpats.com/how-to-apply-saudi-4-day-stopover-visa/). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n335"></a>N335. Gulf News, 2 Aug 2023. [Saudi Arabia now allows transfer of domestic worker services via government portal](https://gulfnews.com/world/gulf/saudi/saudi-arabia-now-allows-transfer-of-domestic-worker-services-via-government-portal-1.97319668). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n336"></a>N336. Deloitte Middle East, Jan 2026. [Update on occupation changes for expatriates](https://www.deloitte.com/middle-east/en/services/tax/perspectives/update-on-occupation-changes-for-expatriates.html). Accessed 7 Nov 2026.
+- <a id="n337"></a>N337. US Department of State, Aug 2025. [2024 Country Reports on Human Rights Practices: Saudi Arabia](https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/saudi-arabia). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n338"></a>N338. Gulf News, 25 Dec 2021. [Saudi Arabia: 5 nabbed over illegal money transfers](https://gulfnews.com/world/gulf/saudi/saudi-arabia-5-nabbed-over-illegal-money-transfers-1.1640437478413). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n339"></a>N339. Prothom Alo English, 27 Sep 2023. [21,725 MFS accounts suspended for online gambling, hundi: BFIU](https://en.prothomalo.com/business/local/yv8h5ri27f). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n340"></a>N340. Prothom Alo, 27 Aug 2024. [ড. ইউনূস বাংলাদেশকে সমৃদ্ধির পথে এগিয়ে নেওয়ার সক্ষমতা রাখেন: সৌদি রাষ্ট্রদূত (Dr Yunus has the capacity to lead Bangladesh toward prosperity: Saudi ambassador)](https://www.prothomalo.com/bangladesh/csi0j48750). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n341"></a>N341. Prothom Alo, 14 Mar 2024. [প্রবাসী আয়ের প্রধান উৎস এখন আমিরাত ও যুক্তরাজ্য, কারণ কী (UAE and UK are now the main sources of remittance; why?)](https://www.prothomalo.com/business/bank/slowilem1b). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n342"></a>N342. Prothom Alo, 19 Mar 2025. [ডলারের দাম না বাড়লেও যেভাবে বাড়ছে প্রবাসী আয় (How remittances are rising even though the dollar price is not)](https://www.prothomalo.com/business/bank/zg8b47bnff). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n343"></a>N343. bKash. [Money Transfer Service (international remittance)](https://www.bkash.com/en/products-services/remittance/money-transfer-service). Accessed 7 Nov 2026. Undated: possibly outdated.
+- <a id="n344"></a>N344. The Business Standard, 11 Jun 2026. [Govt to continue 2.5% cash incentive on remittances](https://www.tbsnews.net/node/1460256). Accessed 7 Nov 2026.
+- <a id="n345"></a>N345. The Business Standard, 23 May 2022. [No document needed to avail cash incentives for remittance over Tk5 lakh](https://www.tbsnews.net/economy/no-document-needed-avail-cash-incentives-remittance-over-tk5-lakh-425290). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n346"></a>N346. Prothom Alo, 6 Aug 2023. [Bangladesh asks Saudi Arabia to let undocumented Bangladeshis return quickly](https://www.prothomalo.com/bangladesh/izug6ah1ub). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n347"></a>N347. Prothom Alo, 6 May 2025. [ইতালিতে বৈধ অভিবাসন বৃদ্ধির লক্ষ্যে সমঝোতা স্মারক সই (MoU signed to increase legal migration to Italy)](https://www.prothomalo.com/bangladesh/rbohaer5rz). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n348"></a>N348. UNB, 9 Jun 2026. [Govt moves to make Bangladesh missions abroad more effective, migrant-friendly](https://unb.com.bd/category/Special/govt-moves-to-make-bangladesh-missions-abroad-more-effective-migrant-friendly/187738). Accessed 7 Nov 2026.
+- <a id="n349"></a>N349. Prothom Alo, 26 Mar 2026. [সৌদিতে ভিসার মেয়াদ শেষ হওয়া বাংলাদেশিদের জরিমানা ছাড়াই দেশে ফেরার সুযোগ (Bangladeshis whose visas expired in Saudi Arabia can go home without a fine)](https://www.prothomalo.com/bangladesh/e571nfh9ar). Accessed 23 Nov 2026.
+- <a id="n350"></a>N350. Prothom Alo, 1 Jul 2026. [সৌদিতে প্রবাসী কর্মীদের নির্ধারিত সময়ের মধ্যে ওয়ার্ক পারমিট ইস্যু-নবায়নের আহ্বান (Call for expatriate workers in Saudi Arabia to have work permits issued or renewed within the set time)](https://www.prothomalo.com/bangladesh/9huq9zrki5). Accessed 23 Nov 2026.
+- <a id="n351"></a>N351. Prothom Alo, 31 May 2025. [প্রবাসীদের জন্য হাসপাতাল করার পরিকল্পনার কথা জানালেন আসিফ নজরুল (Asif Nazrul speaks of plan to build a hospital for expatriates)](https://www.prothomalo.com/bangladesh/district/w4yb0i1ibd). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n352"></a>N352. Prothom Alo, 18 Jun 2026. [সৌদি আরবে সড়ক দুর্ঘটনায় ফরিদপুরের প্রবাসী নিহত (Faridpur expatriate killed in road accident in Saudi Arabia)](https://www.prothomalo.com/bangladesh/district/9b4y4vlqic). Accessed 23 Nov 2026.
+- <a id="n353"></a>N353. BRAC. [Migration programme](https://www.brac.net/program/migration/). Accessed 7 Nov 2026. Undated: possibly outdated.
+- <a id="n354"></a>N354. Prothom Alo, 19 Mar 2026. [সৌদি আরবে ক্ষেপণাস্ত্র হামলায় নিহত বাংলাদেশির লাশের অপেক্ষায় স্বজনেরা (Relatives wait for the body of a Bangladeshi killed in a missile attack in Saudi Arabia)](https://www.prothomalo.com/bangladesh/district/ko1pmufh82). Accessed 23 Nov 2026.
+- <a id="n355"></a>N355. Prothom Alo, 26 May 2026. [মধ্যপ্রাচ্যে পৃথক সড়ক দুর্ঘটনায় তিন বাংলাদেশি নিহত, পরিবারে মাতম (Three Bangladeshis killed in separate road accidents in the Middle East; families in mourning)](https://www.prothomalo.com/bangladesh/district/y5m7jm8ew6). Accessed 23 Nov 2026.
+- <a id="n356"></a>N356. Prothom Alo, 26 Aug 2026. [সৌদিতে অগ্নিকাণ্ডে নিহত ৯ জনের মরদেহ আসছে বৃহস্পতিবার (Bodies of 9 killed in Saudi fire arriving Thursday)](https://www.prothomalo.com/bangladesh/district/q2fle5e50s). Accessed 23 Nov 2026.
+- <a id="n357"></a>N357. Prothom Alo, 20 Mar 2024. [সৌদিতে তরুণ বাংলাদেশি কর্মীরা কেন মারা যাচ্ছেন (Why are young Bangladeshi workers dying in Saudi Arabia)](https://www.prothomalo.com/bangladesh/gchcx6cqwl). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n358"></a>N358. Prothom Alo, 22 Jan 2024. [প্রবাসে কেবল মৃত্যু হলেই বিমার টাকা সহজে পায় অভিবাসী কর্মী (Migrant workers get insurance money easily only when they die abroad)](https://www.prothomalo.com/bangladesh/e5seget393). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n359"></a>N359. Prothom Alo, 19 Oct 2026. [সৌদিতে দুই বাংলাদেশির মৃত্যুদণ্ড আমাদের জন্য হতাশার: হুমায়ুন কবির (Execution of two Bangladeshis in Saudi Arabia is disappointing for us: Humayun Kabir)](https://www.prothomalo.com/bangladesh/r9gwq6t308). Accessed 23 Nov 2026.
+- <a id="n360"></a>N360. Prothom Alo, 9 Aug 2026. [সৌদি আরবে কারখানায় অগ্নিকাণ্ডে ১০ বাংলাদেশি নিহত, সবার বাড়ি নওগাঁ (10 Bangladeshis killed in factory fire in Saudi Arabia, all from Naogaon)](https://www.prothomalo.com/bangladesh/district/11ltewvhjh). Accessed 23 Nov 2026.
+- <a id="n361"></a>N361. Prothom Alo, 11 Aug 2026. [সৌদিতে ১৬ বাংলাদেশির মৃত্যুতে প্রধানমন্ত্রীর শোক, মরদেহ দ্রুত দেশে আনতে নির্দেশ (PM mourns deaths of 16 Bangladeshis in Saudi Arabia, orders bodies brought home quickly)](https://www.prothomalo.com/bangladesh/6cd0mc7lh7). Accessed 23 Nov 2026.
+- <a id="n362"></a>N362. Prothom Alo, 27 Aug 2026. [সৌদিতে অগ্নিকাণ্ডে নিহত ৯ প্রবাসীর মরদেহ দেশে পৌঁছেছে (Bodies of 9 migrants killed in Saudi fire arrive home)](https://www.prothomalo.com/bangladesh/district/4k8uhyb1f3). Accessed 23 Nov 2026.
+- <a id="n363"></a>N363. Prothom Alo, 29 Jul 2024. [সৌদি আরবে গাড়িচাপায় বাংলাদেশি যুবক নিহত (Bangladeshi youth killed by car in Saudi Arabia)](https://www.prothomalo.com/bangladesh/district/edel6hjwx5). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n364"></a>N364. Prothom Alo, 21 May 2025. [ছুটিতে দেশে ফিরবেন, স্বজনদের জন্য কেনাকাটা করতে গিয়ে গাড়ি উল্টে সৌদিপ্রবাসীর মৃত্যু (Saudi expatriate due home on leave dies when vehicle overturns on shopping trip for relatives)](https://www.prothomalo.com/bangladesh/district/m5v7ytqisd). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n365"></a>N365. Prothom Alo, 11 Mar 2026. [মৃত্যুর আগে আহত প্রবাসী জানালেন শেষ ইচ্ছা, মক্কায় দাফন করা হোক তাঁকে (Injured expatriate's last wish before death: to be buried in Makkah)](https://www.prothomalo.com/bangladesh/district/qil3s3x2vk). Accessed 23 Nov 2026.
+- <a id="n366"></a>N366. Prothom Alo, 13 Apr 2026. [সৌদি আরবে নির্মাণাধীন ভবনের লিফট থেকে পড়ে এক বাংলাদেশির মৃত্যু](https://www.prothomalo.com/bangladesh/district/rn60z1mzpg). Accessed 23 Nov 2026.
+- <a id="n367"></a>N367. Prothom Alo, 9 May 2026. [সৌদিতে দুর্ঘটনায় নিহত মুরাদের মরদেহ ১৫ দিন পর দেশে, দাফন সম্পন্ন (Body of Murad, killed in an accident in Saudi Arabia, home after 15 days and buried)](https://www.prothomalo.com/bangladesh/district/dlumwbiyoo). Accessed 23 Nov 2026.
+- <a id="n368"></a>N368. Prothom Alo, 8 Sep 2026. [দেশে ফিরতে কেটেছিলেন টিকিট, বিমানবন্দরে যাওয়ার পথে দুই সৌদিপ্রবাসীর মৃত্যু (Ticket bought to return home, two Saudi expatriates die on the way to the airport)](https://www.prothomalo.com/bangladesh/district/xlza4sjp84). Accessed 23 Nov 2026.
+- <a id="n369"></a>N369. Prothom Alo, 31 Aug 2026. [‘মা গো, মা গো চিৎকার’, এরপর কেটে যায় কল ('Ma go, ma go' he screamed, then the call cut off)](https://www.prothomalo.com/bangladesh/district/6cvciujcp7). Accessed 23 Nov 2026.
+- <a id="n370"></a>N370. Prothom Alo, 6 Sep 2026. [‘পাঁচ বছরের মেয়েটি বাবাকে কখনো সামনাসামনি দেখেনি, লাশটাও কি দেখবে না’ ('The five-year-old has never seen her father in person; will she not even see his body?' (Saudi Arabia death))](https://www.prothomalo.com/bangladesh/district/0ael15l9sw). Accessed 23 Nov 2026.
+- <a id="n371"></a>N371. Prothom Alo, 21 Sep 2026. [‘ভাই তো মারা গেলই, শেষবারের মতো মুখটা দেখতে চাই’](https://www.prothomalo.com/bangladesh/district/4sy744n9li). Accessed 23 Nov 2026.
+- <a id="n372"></a>N372. Prothom Alo, 23 Oct 2026. [‘কেঁদো না, বাসায় গিয়ে ফোন দেব’—স্ত্রীর সঙ্গে শেষ কথা ছিল শাহেদের](https://www.prothomalo.com/bangladesh/jfnjva46i6). Accessed 23 Nov 2026.
+- <a id="n373"></a>N373. Prothom Alo, 18 Apr 2025. [মৃত্যুর আগে স্বামীকে ফিরিয়ে দিন, আকুতি সৌদিপ্রবাসীর স্ত্রীর (Return my husband before he dies, pleads wife of a migrant in Saudi Arabia)](https://www.prothomalo.com/bangladesh/ay77wae2nm). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n374"></a>N374. Prothom Alo, 1 Jun 2025. [এক বছর ছিলেন সৌদির আইসিইউতে, দেশে আনার পর চোখ খুললেন রাজশাহীর জব্বার (After a year in a Saudi ICU, Rajshahi's Jabbar opens his eyes once brought home)](https://www.prothomalo.com/bangladesh/district/5paehzax7y). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n375"></a>N375. Prothom Alo, 5 Jan 2026. [ক্যানসারে হারান জীবনের সব সঞ্চয়, এখন চাষাবাদে লাখ টাকা আয় বিদেশফেরত হাশেমের (Returnee Hashem lost all savings to cancer, now earns lakhs from farming)](https://www.prothomalo.com/bangladesh/district/vbne69g6p8). Accessed 23 Nov 2026.
+- <a id="n376"></a>N376. Prothom Alo, 17 Oct 2024. [স্ত্রী ও দুই সন্তানকে ভিডিও কলে রেখে সৌদিপ্রবাসীর আত্মহত্যার ২২ দিন পর এল লাশ (Body of Saudi migrant who killed himself on video call with wife and two children arrives after 22 days)](https://www.prothomalo.com/bangladesh/district/vmz8yjfh7k). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n377"></a>N377. IOM and BRAC (PROTTASHA project). [Assistance for Migrants Returning to Bangladesh (leaflet)](https://migrantprotection.iom.int/sites/g/files/tmzbdl341/files/prottasha-leaflet.pdf). Accessed 7 Nov 2026. Undated: possibly outdated.
+- <a id="n378"></a>N378. Prothom Alo, 1 Feb 2025. [সৌদিতে বাংলাদেশিকে অপহরণ করে ৩৫ লাখ টাকা আদায়, বাংলাদেশে তিনজন গ্রেপ্তার (Bangladeshi kidnapped in Saudi Arabia, 35 lakh taka ransom collected; three arrested in Bangladesh)](https://www.prothomalo.com/bangladesh/crime/vtu85kkrna). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n379"></a>N379. Embassies.info (directory), 14 May 2026. [Consulate General of Bangladesh in Jeddah, Saudi Arabia](https://embassies.info/BangladeshiConsulateinJeddahSaudiArabia). Accessed 7 Nov 2026.
+- <a id="n380"></a>N380. Prothom Alo, 26 Oct 2026. [জেদ্দায় বাংলাদেশ হজ অফিসে চাকরি, বেতন রিয়ালে, আবেদন বাংলাদেশি–সৌদি নাগরিকদের (Jobs at the Bangladesh Hajj Office in Jeddah, pay in riyals, open to Bangladeshi and Saudi nationals)](https://www.prothomalo.com/chakri/chakri-news/avqy081lz8). Accessed 23 Nov 2026.
