@@ -2,7 +2,7 @@
 
 # Brunei: migration guide
 
-Sources checked up to 19 Nov 2026.
+Sources checked up to 23 Nov 2026.
 
 How to go to Brunei Darussalam from Bangladesh, visa by visa, step by step, for Bangladesh passport holders, as of November 2026. A raised number such as 3 is an official source; N3 is a news, NGO (non-governmental organisation), research or guide source, listed under "Needs an official source"; a year, like N3 (2022), marks a source older than 2025. "Need to know" marks a point no source has yet confirmed. "You'll need:" lists what to have before starting a procedure.
 
@@ -207,17 +207,17 @@ Brunei is a small, steady market for Bangladeshi workers: BMET (the Bureau of Ma
 
 ### 2.2 Is it open now, and who can go?
 
-Brunei is open to Bangladeshi men through BOESL, in small numbers: Bangladesh cleared 1,726 workers for Brunei from 1 January to 7 November 2026, and BOESL advertised 172 jobs with several Brunei companies in August 2026 and 148 with one employer in its circular of 29 September 2026 <sup>[3](#o3), [N15](#n15), [N2](#n2), [4](#o4)</sup>. In 2018 and 2019, by the High Commission's count, three in four went through illegal channels, many on visas from companies with no work for them <sup>[N9 (2020)](#n9)</sup>.
+Brunei is open to Bangladeshi men through BOESL, in small numbers: Bangladesh cleared 1,726 workers for Brunei from 1 January to 7 November 2026, and BOESL advertised 88 construction jobs in May 2026, 172 jobs with several Brunei companies in August, 279 on 23 September and 148 with one employer in its circular of 29 September 2026 <sup>[3](#o3), [N15](#n15), [N16](#n16), [N17](#n17), [N2](#n2), [4](#o4)</sup>. In 2018 and 2019, by the High Commission's count, three in four went through illegal channels, many on visas from companies with no work for them <sup>[N9 (2020)](#n9)</sup>.
 
 <a id="status"></a>
 
 #### 2.2.1 Status
 
-Open, through BOESL <sup>[N1 (2024)](#n1), [N2](#n2)</sup>. On 29 July 2026 Bangladesh's state minister for foreign affairs asked Brunei's High Commissioner in Dhaka for more jobs for Bangladeshis, and on 3 November 2026 Bangladesh's acting foreign minister offered Brunei more skilled, semi-skilled and professional workers; Brunei's second minister of finance said he was optimistic about continued recruitment <sup>[N16](#n16), [N17](#n17)</sup>. On 18 November 2026 Prime Minister Tarique Rahman told Parliament that several countries had suspended or slowed recruitment from Bangladesh because of syndicates, without naming them <sup>[N18](#n18)</sup>.
+Open, through BOESL <sup>[N1 (2024)](#n1), [N2](#n2)</sup>. On 29 July 2026 Bangladesh's state minister for foreign affairs asked Brunei's High Commissioner in Dhaka for more jobs for Bangladeshis, and on 3 November 2026 Bangladesh's acting foreign minister offered Brunei more skilled, semi-skilled and professional workers; Brunei's second minister of finance said he was optimistic about continued recruitment <sup>[N18](#n18), [N19](#n19)</sup>. On 18 November 2026 Prime Minister Tarique Rahman told Parliament that several countries had suspended or slowed recruitment from Bangladesh because of syndicates, without naming them <sup>[N20](#n20)</sup>.
 
-In January 2024 Brunei's Labour Department announced that from 1 February 2024 Bangladeshi workers would be recruited only through BOESL, and the Bangladesh High Commission in Bandar Seri Begawan attests (checks and stamps) each employer's demand letter and visas only after seeing its JobCentre approval, licence, contracts, projects, staff house and three months' wage receipts of its existing Bangladeshi workers <sup>[N1 (2024)](#n1), [22](#o22), [20](#o20)</sup>. In September 2025 Brunei's deputy minister for security and law, citing Brunei's first conviction under its Trafficking and Smuggling of Persons Order, of a Bangladeshi convicted on 11 August 2025 of deceptively recruiting six compatriots for forced labour, said countries of origin must screen their own citizens <sup>[N19](#n19)</sup>. The US State Department's 2026 trafficking report says Bangladeshis recruited under the MoU are still at risk when employers or intermediaries break the rules <sup>[N20](#n20)</sup>.
+In January 2024 Brunei's Labour Department announced that from 1 February 2024 Bangladeshi workers would be recruited only through BOESL, and the Bangladesh High Commission in Bandar Seri Begawan attests (checks and stamps) each employer's demand letter and visas only after seeing its JobCentre approval, licence, contracts, projects, staff house and three months' wage receipts of its existing Bangladeshi workers <sup>[N1 (2024)](#n1), [22](#o22), [20](#o20)</sup>. In September 2025 Brunei's deputy minister for security and law, citing Brunei's first conviction under its Trafficking and Smuggling of Persons Order, of a Bangladeshi convicted on 11 August 2025 of deceptively recruiting six compatriots for forced labour, said countries of origin must screen their own citizens <sup>[N21](#n21)</sup>. The US State Department's 2026 trafficking report says Bangladeshis recruited under the MoU are still at risk when employers or intermediaries break the rules <sup>[N22](#n22)</sup>.
 
-Brunei's Minister of Home Affairs said in August 2026 that the Labour Department is now known as the Department of Manpower and Employment (DME) and enforces the Employment Act, Chapter 278; a November 2026 report still has the DME enforcing the Employment Order 2009 (see [Work visa: employment pass](#work-visa-employment-pass)) <sup>[15](#o15), [N21](#n21)</sup>.
+Brunei's Minister of Home Affairs said in August 2026 that the Labour Department is now known as the Department of Manpower and Employment (DME) and enforces the Employment Act, Chapter 278; a November 2026 report still has the DME enforcing the Employment Order 2009 (see [Work visa: employment pass](#work-visa-employment-pass)) <sup>[15](#o15), [N23](#n23)</sup>.
 
 > **Need to know**
 > - From what date did the Employment Act, Chapter 278 replace the Employment Order 2009, and did JobCentre Brunei merge into the DME?
@@ -229,35 +229,35 @@ Brunei's Minister of Home Affairs said in August 2026 that the Labour Department
 
 - *BOESL (the government channel).* BOESL signs a memorandum of co-operation with a licensed Brunei employment agency (BEA), receives the employer's demand letter after the High Commission has attested it, advertises the jobs, shortlists and arranges interviews <sup>[21 (2024)](#o21), [N1 (2024)](#n1)</sup>. BOESL's general manager said in 2024 that Brunei employers hire through their local agencies, not directly, and that BOESL had MoUs with 36 such agencies, 10 of which had started recruiting <sup>[N7 (2024)](#n7)</sup>. Applicants apply on brms.boesl.gov.bd for Tk 100 <sup>[N2](#n2)</sup>.
 - *Workers named by the employer.* The High Commission's October 2026 checklist lets a demand letter include at most two "recommended workers" whom the employer has already chosen, with the worker's passport, contact number and any earlier Brunei employment pass <sup>[22](#o22)</sup>.
-- *Private agencies.* Under the 2022 MoU private Bangladeshi agencies may not send workers to Brunei, and a former secretary general of BAIRA (the Bangladesh Association of International Recruiting Agencies) objected to this in 2024 <sup>[N22 (2024)](#n22), [N7 (2024)](#n7)</sup>.
-- *Irregular "visa" routes.* Before 2024 many men went on visas bought from brokers, often from companies with no projects, and officials said in 2020 and 2021 that most were sent through Dhaka airport by "body contract" (collusion with airport officials to let a worker board without the High Commission's attestation or proper clearance) <sup>[N9 (2020)](#n9), [N4 (2020)](#n4), [N23 (2021)](#n23)</sup>.
+- *Private agencies.* Under the 2022 MoU private Bangladeshi agencies may not send workers to Brunei, and a former secretary general of BAIRA (the Bangladesh Association of International Recruiting Agencies) objected to this in 2024 <sup>[N24 (2024)](#n24), [N7 (2024)](#n7)</sup>.
+- *Irregular "visa" routes.* Before 2024 many men went on visas bought from brokers, often from companies with no projects, and officials said in 2020 and 2021 that most were sent through Dhaka airport by "body contract" (collusion with airport officials to let a worker board without the High Commission's attestation or proper clearance) <sup>[N9 (2020)](#n9), [N4 (2020)](#n4), [N25 (2021)](#n25)</sup>.
 
 > **Need to know**
-> - BMET cleared 1,681 workers for Brunei in 2025 and 1,726 by 7 November 2026, but only 25 had been hired under the government-to-government arrangement by September 2024 <sup>[17](#o17), [3](#o3), [N22 (2024)](#n22)</sup>: through which channel did the rest go?
+> - BMET cleared 1,681 workers for Brunei in 2025 and 1,726 by 7 November 2026, but only 25 had been hired under the government-to-government arrangement by September 2024 <sup>[17](#o17), [3](#o3), [N24 (2024)](#n24)</sup>: through which channel did the rest go?
 
 <a id="who-qualifies"></a>
 
 #### 2.2.3 Who qualifies
 
 - *Sex.* Men: BOESL's circular of 29 September 2026 was for 148 male workers, and its 2024 trades were masonry, painting, carpentry, construction labour, chefs, waiters and kitchen assistants <sup>[N2](#n2), [N7 (2024)](#n7)</sup>.
-- *Age.* 25 to 45 in BOESL's circular of 29 September 2026 <sup>[N2](#n2)</sup>.
-- *Skill.* At least two to three years' experience in the trade, with no education requirement, in the same circular <sup>[N2](#n2), [4](#o4)</sup>. BOESL's agreement with Brunei agencies covers construction, oil and gas, garments, care giving, nursing, hospitality, bakery, agriculture and other sectors <sup>[21 (2024)](#o21)</sup>.
+- *Age.* It differs by circular: 25 to 45 in BOESL's circular of 29 September 2026, 20 to 50 in its May 2026 construction circular, and between 18 and 45 in November 2024, with each employer setting its own range <sup>[N2](#n2), [N15](#n15), [N26 (2024)](#n26)</sup>.
+- *Skill.* At least two to three years' experience in the trade, with no education requirement, in the 29 September 2026 circular <sup>[N2](#n2), [4](#o4)</sup>. The May 2026 circular for 88 construction workers asked for no schooling and no experience, preferring physically fit, hard-working people; the November 2024 circular asked for experience in the trade <sup>[N15](#n15), [N26 (2024)](#n26)</sup>. BOESL's agreement with Brunei agencies covers construction, oil and gas, garments, care giving, nursing, hospitality, bakery, agriculture and other sectors <sup>[21 (2024)](#o21)</sup>.
 - *Health.* A medical test in Bangladesh before departure and a Ministry of Health medical examination in Brunei after arrival <sup>[N2](#n2), [18](#o18)</sup>.
 
 > **Need to know**
-> - Do Bangladeshi women go to Brunei as domestic workers or cleaners, through which channel, and how many did BMET clear in 2025-26? (The US State Department's 2026 trafficking report says Brunei penalised four agencies for overcharging domestic workers <sup>[N20](#n20)</sup>.)
+> - Do Bangladeshi women go to Brunei as domestic workers or cleaners, through which channel, and how many did BMET clear in 2025-26? (The US State Department's 2026 trafficking report says Brunei penalised four agencies for overcharging domestic workers <sup>[N22](#n22)</sup>.)
 
 <a id="where-the-workers-work"></a>
 
 #### 2.2.4 Where the workers work
 
-Brunei had 64,100 non-local workers in 2025, 29.1% of everyone employed in the country <sup>[23](#o23)</sup>. Foreign workers rose from 65,579 in 2019 to 75,402 in 2023; in April 2024 construction employed 21,515 foreigners, 83% of its workforce <sup>[N24](#n24)</sup>. Bangladeshis work in construction, cleaning, restaurants, and oil and gas, and the High Commission said in 2019 that some own businesses <sup>[N7 (2024)](#n7), [N25 (2019)](#n25)</sup>. Most lower-skilled workers in Brunei come from Bangladesh, Indonesia and the Philippines <sup>[N8](#n8)</sup>; the Financial Express reported in 2024 that most foreign workers are Indonesian, with Filipinos and Bangladeshis next <sup>[N22 (2024)](#n22)</sup>. Brunei had labour recruitment MoUs with two foreign governments in the US State Department's 2026 reporting period <sup>[N20](#n20)</sup>.
+Brunei had 64,100 non-local workers in 2025, 29.1% of everyone employed in the country <sup>[23](#o23)</sup>. Foreign workers rose from 65,579 in 2019 to 75,402 in 2023; in April 2024 construction employed 21,515 foreigners, 83% of its workforce <sup>[N27](#n27)</sup>. Bangladeshis work in construction, cleaning, restaurants, and oil and gas, and the High Commission said in 2019 that some own businesses <sup>[N7 (2024)](#n7), [N28 (2019)](#n28)</sup>. Most lower-skilled workers in Brunei come from Bangladesh, Indonesia and the Philippines <sup>[N8](#n8)</sup>; the Financial Express reported in 2024 that most foreign workers are Indonesian, with Filipinos and Bangladeshis next <sup>[N24 (2024)](#n24)</sup>. Brunei had labour recruitment MoUs with two foreign governments in the US State Department's 2026 reporting period <sup>[N22](#n22)</sup>.
 
 <a id="the-size-of-the-flow"></a>
 
 #### 2.2.5 The size of the flow
 
-Labour migration to Brunei began in 1992 <sup>[N7 (2024)](#n7)</sup>. BMET counted 77,958 Bangladeshis who went from 1992 to January 2024, and 64,974 from 2004 to May 2025, 0.47% of all Bangladeshi overseas employment in that time <sup>[N7 (2024)](#n7), [24](#o24)</sup>. Estimates of how many are there now run from 13,000 to 25,000: 13,000 (2021), 15,000 (the High Commission, 2021), about 20,000 (a High Commission official, 2022; again in 2024) and about 25,000 (unofficial, 2024) <sup>[N23 (2021)](#n23), [N3 (2021)](#n3), [N26 (2022)](#n26), [N6 (2024)](#n6), [N7 (2024)](#n7)</sup>. Workers who went to Brunei, by year (BMET's yearly table to 2024, its clearance report for 2025 and 2026):
+Labour migration to Brunei began in 1992 <sup>[N7 (2024)](#n7)</sup>. BMET counted 77,958 Bangladeshis who went from 1992 to January 2024, and 64,974 from 2004 to May 2025, 0.47% of all Bangladeshi overseas employment in that time <sup>[N7 (2024)](#n7), [24](#o24)</sup>. Estimates of how many are there now run from 13,000 to 25,000: 13,000 (2021), 15,000 (the High Commission, 2021), about 20,000 (a High Commission official, 2022; again in 2024) and about 25,000 (unofficial, 2024) <sup>[N25 (2021)](#n25), [N3 (2021)](#n3), [N29 (2022)](#n29), [N6 (2024)](#n6), [N7 (2024)](#n7)</sup>. Workers who went to Brunei, by year (BMET's yearly table to 2024, its clearance report for 2025 and 2026):
 - 2014: 6,633 <sup>[24](#o24)</sup>
 - 2015: 6,354 <sup>[24](#o24)</sup>
 - 2016: 5,836 <sup>[24](#o24)</sup>
@@ -284,15 +284,15 @@ Official counts understate the real flow: the High Commission told the Ministry 
 #### 2.2.6 What has closed it before
 
 - *Late 2015: projects end.* Demand fell when the Temburong Bridge and the first phase of the oil refinery were finished, and malpractice grew <sup>[N9 (2020)](#n9)</sup>.
-- *2019: the Sultan's crackdown.* After an unscheduled visit by the Sultan to the immigration and labour departments on 8 October 2019, Brunei blacklisted 31 companies under Bruneian-Bangladeshi joint ownership and deported Bangladeshi brokers; Bangladesh suspended the passports of five citizens suspected of running a trafficking ring <sup>[N11 (2019)](#n11), [N4 (2020)](#n4), [N25 (2019)](#n25)</sup>. The High Commission's own list of blacklisted Brunei companies had 29 names in October 2026 <sup>[10](#o10)</sup>. Brunei's government had wanted to stop recruiting from Bangladesh altogether, and did not after the High Commission asked it not to <sup>[N9 (2020)](#n9)</sup>.
+- *2019: the Sultan's crackdown.* After an unscheduled visit by the Sultan to the immigration and labour departments on 8 October 2019, Brunei blacklisted 31 companies under Bruneian-Bangladeshi joint ownership and deported Bangladeshi brokers; Bangladesh suspended the passports of five citizens suspected of running a trafficking ring <sup>[N11 (2019)](#n11), [N4 (2020)](#n4), [N28 (2019)](#n28)</sup>. The High Commission's own list of blacklisted Brunei companies had 29 names in October 2026 <sup>[10](#o10)</sup>. Brunei's government had wanted to stop recruiting from Bangladesh altogether, and did not after the High Commission asked it not to <sup>[N9 (2020)](#n9)</sup>.
 - *2020-2021: COVID-19.* Departures fell from 3,628 in 2019 to 530 in 2020 and 12 in 2021 <sup>[24](#o24)</sup>.
-- *2022-2024: the switch to government-to-government recruitment.* Brunei said in 2022 it wanted Bangladeshi workers only government to government; BOESL became the only channel from 1 February 2024 and its process began on 1 March 2024; only 950 Bangladeshis went from January 2020 to August 2022 <sup>[N26 (2022)](#n26), [N1 (2024)](#n1), [N7 (2024)](#n7)</sup>.
+- *2022-2024: the switch to government-to-government recruitment.* Brunei said in 2022 it wanted Bangladeshi workers only government to government; BOESL became the only channel from 1 February 2024 and its process began on 1 March 2024; only 950 Bangladeshis went from January 2020 to August 2022 <sup>[N29 (2022)](#n29), [N1 (2024)](#n1), [N7 (2024)](#n7)</sup>.
 
 <a id="where-it-may-grow"></a>
 
 #### 2.2.7 Where it may grow
 
-BOESL's deputy general manager said in 2024 that 2,000 to 3,000 workers a year could go, after 400 job demands came from 100 employers <sup>[N22 (2024)](#n22)</sup>. In 2020 the High Commissioner expected at least 40,000 jobs for foreign workers from a tourism hub in Temburong and the second phase of the oil refinery <sup>[N9 (2020)](#n9)</sup>.
+BOESL's deputy general manager said in 2024 that 2,000 to 3,000 workers a year could go, after 400 job demands came from 100 employers <sup>[N24 (2024)](#n24)</sup>. In 2020 the High Commissioner expected at least 40,000 jobs for foreign workers from a tourism hub in Temburong and the second phase of the oil refinery <sup>[N9 (2020)](#n9)</sup>.
 
 <a id="how-a-job-reaches-you-and-who-takes-a-cut"></a>
 
@@ -304,21 +304,21 @@ A Brunei job starts as a place on an employer's Foreign Worker Licence, which th
 
 #### 2.3.1 The licence and the quota
 
-The Labour Department controls how many foreigners each employer may hire, through the licence; Immigration issues the passes <sup>[N8](#n8), [N24](#n24)</sup>. The employer or its agency advertises the job to locals on JobCentre Brunei (Brunei's government job portal), gets JobCentre's clearance letter, applies to the Labour Department for the licence and pays a security deposit for each worker, then applies to the Immigration and National Registration Department (INRD) for a visa for each worker the licence names ([Work visa: employment pass](#work-visa-employment-pass), [Step 4: The employer gets the licence and your visa](#step-4-the-employer-gets-the-licence-and-your-visa)) <sup>[18](#o18), [19 (2024)](#o19)</sup>. Since 2022 a construction employer must also sign a declaration that it is responsible for its workers' whereabouts and well-being once its projects end <sup>[N27 (2022)](#n27)</sup>.
+The Labour Department controls how many foreigners each employer may hire, through the licence; Immigration issues the passes <sup>[N8](#n8), [N27](#n27)</sup>. The employer or its agency advertises the job to locals on JobCentre Brunei (Brunei's government job portal), gets JobCentre's clearance letter, applies to the Labour Department for the licence and pays a security deposit for each worker, then applies to the Immigration and National Registration Department (INRD) for a visa for each worker the licence names ([Work visa: employment pass](#work-visa-employment-pass), [Step 4: The employer gets the licence and your visa](#step-4-the-employer-gets-the-licence-and-your-visa)) <sup>[18](#o18), [19 (2024)](#o19)</sup>. Since 2022 a construction employer must also sign a declaration that it is responsible for its workers' whereabouts and well-being once its projects end <sup>[N30 (2022)](#n30)</sup>.
 
-The Labour Department inspects within 3 to 6 months of approval, and inspects construction firms both before and after <sup>[18](#o18)</sup>. The employer pays the agency's recruitment fee, which Brunei's Employment Agencies Order 2004 caps at BND 2,000 per worker, and observers cited in the US State Department's 2026 trafficking report say fees can run higher and employers pass part of them on to workers <sup>[N20](#n20)</sup>.
+The Labour Department inspects within 3 to 6 months of approval, and inspects construction firms both before and after <sup>[18](#o18)</sup>. The employer pays the agency's recruitment fee, which Brunei's Employment Agencies Order 2004 caps at BND 2,000 per worker, and observers cited in the US State Department's 2026 trafficking report say fees can run higher and employers pass part of them on to workers <sup>[N22](#n22)</sup>.
 
 <a id="visa-trading-and-the-free-visa"></a>
 
 #### 2.3.2 Visa trading and the "free visa"
 
-A "free visa" is a work visa sold with no job behind it: the buyer is left to find his own work, which Brunei law forbids (see [What ties you to the employer](#what-ties-you-to-the-employer)) <sup>[N4 (2020)](#n4), [N25 (2019)](#n25), [N12](#n12)</sup>. How it worked, as officials and workers described it from 2019 to 2021:
+A "free visa" is a work visa sold with no job behind it: the buyer is left to find his own work, which Brunei law forbids (see [What ties you to the employer](#what-ties-you-to-the-employer)) <sup>[N4 (2020)](#n4), [N28 (2019)](#n28), [N12](#n12)</sup>. How it worked, as officials and workers described it from 2019 to 2021:
 - *Fake companies.* High Commission sources said in 2020 that Bangladeshis with Bruneian partners, and some with Indians, had set up companies that had no projects and existed only to trade visas <sup>[N9 (2020)](#n9)</sup>. RAB said in 2020 that about 3,000 companies in Brunei were Bangladeshi-owned and only 1% of them legitimate <sup>[N10 (2020)](#n10)</sup>.
 - *Over-issue.* The Financial Express reported in 2020 that about 22,000 Brunei visas were issued in the second half of 2019, while High Commission sources said the mission certified 3,300 <sup>[N4 (2020)](#n4)</sup>.
-- *The airport.* The newspaper reported that the rest were sent through "body contract" with airport officials, and officials said in 2021 that most workers went this way <sup>[N4 (2020)](#n4), [N23 (2021)](#n23)</sup>.
-- *On arrival.* Workers said brokers or employers took their passports on arrival and left them without work, and one was told to find his own job and hand over part of his wage or be deported <sup>[N10 (2020)](#n10), [N23 (2021)](#n23), [N25 (2019)](#n25)</sup>.
+- *The airport.* The newspaper reported that the rest were sent through "body contract" with airport officials, and officials said in 2021 that most workers went this way <sup>[N4 (2020)](#n4), [N25 (2021)](#n25)</sup>.
+- *On arrival.* Workers said brokers or employers took their passports on arrival and left them without work, and one was told to find his own job and hand over part of his wage or be deported <sup>[N10 (2020)](#n10), [N25 (2021)](#n25), [N28 (2019)](#n28)</sup>.
 
-The High Commission began attesting visas in August 2017 because of this trafficking <sup>[N10 (2020)](#n10)</sup>. In a January 2020 letter to the Ministry, the High Commission said it had cancelled the attestation of 41 visas from two companies with no projects, Motiar Rahaman Sdn Bhd and Omar Sdn Bhd, but the companies still got BMET smart cards and sent workers <sup>[N9 (2020)](#n9)</sup>. In 2022 its standard operating procedure barred employers from using their existing Bangladeshi workers as brokers and visa traders <sup>[N28 (2022)](#n28)</sup>.
+The High Commission began attesting visas in August 2017 because of this trafficking <sup>[N10 (2020)](#n10)</sup>. In a January 2020 letter to the Ministry, the High Commission said it had cancelled the attestation of 41 visas from two companies with no projects, Motiar Rahaman Sdn Bhd and Omar Sdn Bhd, but the companies still got BMET smart cards and sent workers <sup>[N9 (2020)](#n9)</sup>. In 2022 its standard operating procedure barred employers from using their existing Bangladeshi workers as brokers and visa traders <sup>[N31 (2022)](#n31)</sup>.
 
 <a id="who-controls-it"></a>
 
@@ -328,9 +328,9 @@ The networks described by officials and courts:
 - *A deported ringleader.* The High Commission and RAB named a Bangladeshi as the ringleader of the Brunei trafficking racket in 2019 and 2020; accused in about 20 cases, he had his passport suspended in 2019 and was deported from Brunei, and in 2020 the High Commission said he was running the business from Bangladesh with his brother in Brunei <sup>[N10 (2020)](#n10), [N4 (2020)](#n4), [N9 (2020)](#n9)</sup>. Mission officials said in 2020 that none of the ringleaders had been brought to book <sup>[N4 (2020)](#n4)</sup>.
 - *Mahedi Hasan, 44.* Sentenced in Brunei in November 2025 to five years, a BND 50,000 fine and six strokes for trafficking in 2018 and 2019; his victims had their passports taken, paid monthly fees and worked for little or no pay <sup>[N5](#n5)</sup>.
 - *A Dhaka recruiter, 2020.* RAB arrested a man in Dhaka whom it accused of taking Tk 3 crore from 400 people in one year for Brunei jobs <sup>[N10 (2020)](#n10)</sup>.
-- *Four companies, 2021.* The High Commission named MB SND BHD, Hj Momin Snd Bhd, Haja Monwara Snd Bhd and Hj Bashar Snd Bhd, run by three Bangladeshi men with Bruneian partners; 49 workers claimed BND 323,890 from them, and workers filed 34 cases with the High Commission and 24 with Brunei police; Haja Monwara Sdn Bhd is on the High Commission's blacklist in October 2026 <sup>[N29 (2021)](#n29), [10](#o10)</sup>.
-- *Convictions.* Brunei convicted two labour traffickers under its Anti-Trafficking in Persons Act in the US State Department's 2026 reporting period, the first convictions under that law since 2016 <sup>[N20](#n20)</sup>.
-- *Officials.* Brunei detained four of its immigration officials in the 2026 reporting year for allegedly using counterfeit and official stamps to help foreigners break immigration rules <sup>[N20](#n20)</sup>.
+- *Four companies, 2021.* The High Commission named MB SND BHD, Hj Momin Snd Bhd, Haja Monwara Snd Bhd and Hj Bashar Snd Bhd, run by three Bangladeshi men with Bruneian partners; 49 workers claimed BND 323,890 from them, and workers filed 34 cases with the High Commission and 24 with Brunei police; Haja Monwara Sdn Bhd is on the High Commission's blacklist in October 2026 <sup>[N32 (2021)](#n32), [10](#o10)</sup>.
+- *Convictions.* Brunei convicted two labour traffickers under its Anti-Trafficking in Persons Act in the US State Department's 2026 reporting period, the first convictions under that law since 2016 <sup>[N22](#n22)</sup>.
+- *Officials.* Brunei detained four of its immigration officials in the 2026 reporting year for allegedly using counterfeit and official stamps to help foreigners break immigration rules <sup>[N22](#n22)</sup>.
 
 > **Need to know**
 > - In 2026, does a Brunei visa outside BOESL still sell in Bangladesh, and for how much?
@@ -340,7 +340,7 @@ The networks described by officials and courts:
 
 #### 2.3.4 Down the chain
 
-In the brokered route, the High Commission said in 2021, rackets of brokers based in both Brunei and Bangladesh recruited men for false jobs at fake companies run by Bangladeshis with Bruneian or Malay partners <sup>[N3 (2021)](#n3)</sup>. In 2020 it said traffickers forced many stranded workers to act as middlemen themselves <sup>[N9 (2020)](#n9)</sup>. In 2015, workers said, two agencies, Rabbi International and Estema International, took Tk 4.5 to 5 lakh each for Brunei gardening jobs; 30 of the 34 men sent returned home <sup>[N30 (2015)](#n30)</sup>. Some traffickers promised Brunei and sent the men illegally to nearby countries instead, the High Commission said in 2021 <sup>[N3 (2021)](#n3)</sup>.
+In the brokered route, the High Commission said in 2021, rackets of brokers based in both Brunei and Bangladesh recruited men for false jobs at fake companies run by Bangladeshis with Bruneian or Malay partners <sup>[N3 (2021)](#n3)</sup>. In 2020 it said traffickers forced many stranded workers to act as middlemen themselves <sup>[N9 (2020)](#n9)</sup>. In 2015, workers said, two agencies, Rabbi International and Estema International, took Tk 4.5 to 5 lakh each for Brunei gardening jobs; 30 of the 34 men sent returned home <sup>[N33 (2015)](#n33)</sup>. Some traffickers promised Brunei and sent the men illegally to nearby countries instead, the High Commission said in 2021 <sup>[N3 (2021)](#n3)</sup>.
 
 > **Need to know**
 > - How does a Brunei visa reach a Bangladeshi village in 2026: through whom, and what does each hand take?
@@ -357,10 +357,10 @@ Through BOESL a worker pays Tk 56,350 if skilled or Tk 44,850 if semi-skilled or
 
 - *2026, BOESL.* Tk 56,350 (skilled) or Tk 44,850 (semi-skilled and unskilled) for the service charge, registration and incidentals, plus the visa fee and medical test <sup>[N2](#n2)</sup>.
 - *2021.* Tk 3 to 4 lakh, said the High Commissioner, for low-paid jobs <sup>[N3 (2021)](#n3)</sup>.
-- *2019.* About US$4,000 per worker, said the High Commissioner; BND 5,000, said workers and High Commission sources in 2020 <sup>[N25 (2019)](#n25), [N4 (2020)](#n4)</sup>.
-- *2019 cases.* Tk 5 lakh for a "free visa" that brought no job, Tk 3.8 lakh for 21 days of work in seven months, Tk 4.5 lakh for a promised airport cleaning job that never existed <sup>[N4 (2020)](#n4), [N23 (2021)](#n23)</sup>.
-- *2017 case.* Tk 11.13 lakh in all, by the High Commission's 2021 account: Tk 3.5 lakh for a driving job that never came, then Tk 7.35 lakh more handed to the employer's men <sup>[N29 (2021)](#n29)</sup>.
-- *2015.* Tk 4.5 to 5 lakh for gardening jobs <sup>[N30 (2015)](#n30)</sup>.
+- *2019.* About US$4,000 per worker, said the High Commissioner; BND 5,000, said workers and High Commission sources in 2020 <sup>[N28 (2019)](#n28), [N4 (2020)](#n4)</sup>.
+- *2019 cases.* Tk 5 lakh for a "free visa" that brought no job, Tk 3.8 lakh for 21 days of work in seven months, Tk 4.5 lakh for a promised airport cleaning job that never existed <sup>[N4 (2020)](#n4), [N25 (2021)](#n25)</sup>.
+- *2017 case.* Tk 11.13 lakh in all, by the High Commission's 2021 account: Tk 3.5 lakh for a driving job that never came, then Tk 7.35 lakh more handed to the employer's men <sup>[N32 (2021)](#n32)</sup>.
+- *2015.* Tk 4.5 to 5 lakh for gardening jobs <sup>[N33 (2015)](#n33)</sup>.
 
 <a id="how-they-pay"></a>
 
@@ -372,13 +372,14 @@ In 2020 a worker borrowed his Tk 3.8 lakh and still owed it after returning; ano
 
 #### 2.4.3 What the job pays
 
-There is no minimum wage for construction or domestic work in Brunei: the minimum wage covers only banking, finance and ICT (information and communications technology) from July 2023 and, from 1 April 2025, nine sub-industries including accommodation and food services <sup>[N20](#n20), [N31](#n31)</sup>. Reported pay:
-- *BOESL, 2026.* BOESL's circular of 29 September 2026 for Unity Land Sdn Bhd pays BND 20 a day for carpenters, construction labourers and masons and BND 22 a day for electricians, drivers, operators, plumbers and welders, for 8 hours' duty a day on a two-year renewable contract, with housing paid by the company, the air fare by the employer and food by the worker ([Work visa: employment pass](#work-visa-employment-pass), [Step 2, item 1: Find the circular](#step-2-apply-through-boesl-item-1)) <sup>[4](#o4)</sup>. BOESL's August 2026 circular gave BND 20 to 21 a day or BND 600 to 1,000 a month, depending on the job <sup>[N15](#n15)</sup>.
-- *BOESL, 2024.* About Tk 50,000 a month, said BOESL's managing director; the High Commission said it aimed for a minimum of BND 600 a month <sup>[N22 (2024)](#n22), [N7 (2024)](#n7)</sup>.
+There is no minimum wage for construction or domestic work in Brunei: the minimum wage covers only banking, finance and ICT (information and communications technology) from July 2023 and, from 1 April 2025, nine sub-industries including accommodation and food services <sup>[N22](#n22), [N34](#n34)</sup>. Reported pay:
+- *BOESL, 2026.* BOESL's circular of 29 September 2026 for Unity Land Sdn Bhd pays BND 20 a day for carpenters, construction labourers and masons and BND 22 a day for electricians, drivers, operators, plumbers and welders, for 8 hours' duty a day on a two-year renewable contract, with housing paid by the company, the air fare by the employer and food by the worker ([Work visa: employment pass](#work-visa-employment-pass), [Step 2, item 1: Find the circular](#step-2-apply-through-boesl-item-1)) <sup>[4](#o4)</sup>. BOESL's August 2026 circular gave BND 20 to 21 a day or BND 600 to 1,000 a month, depending on the job, the BND 1,000 being for a foreman at IRR Contractor <sup>[N16](#n16), [N35](#n35)</sup>. Its circular of 23 September 2026 paid BND 20 a day (about Tk 1,929, Prothom Alo reported) at Serikat Nor Awan Sdn Bhd, whose listing was headed 180 construction workers, and BND 21 to its operators and technicians; BND 22 a day to electricians and foremen at ABD Sdn Bhd; and BND 600 a month (about Tk 57,866) to a construction worker at CY Construction; the circular has the company paying housing and food <sup>[N17](#n17)</sup>. The May 2026 construction circular paid BND 20 a day for 8 hours a day, 6 days a week, with overtime available <sup>[N15](#n15)</sup>.
+- *BOESL, November 2024.* Tk 1,600 a day at Mahfuz Enterprise Sdn Bhd, or Tk 48,000 a month for general labourers and Tk 56,000 for a mechanic at others, with the worker paying his own food <sup>[N26 (2024)](#n26)</sup>.
+- *BOESL, 2024.* About Tk 50,000 a month, said BOESL's managing director; the High Commission said it aimed for a minimum of BND 600 a month <sup>[N24 (2024)](#n24), [N7 (2024)](#n7)</sup>.
 - *2021.* About US$200 a month, less than other foreign workers; the High Commission's labour attaché said Filipino workers earn more because they are skilled and recruited under a better process <sup>[N3 (2021)](#n3)</sup>.
-- *2015.* BND 254 a month as day labourers, against US$400 promised <sup>[N30 (2015)](#n30)</sup>.
+- *2015.* BND 254 a month as day labourers, against US$400 promised <sup>[N33 (2015)](#n33)</sup>.
 
-Workers of the four companies named in 2021 claimed over BND 6,600 each in deductions for "Sultan tax", insurance fees, staff house rent and a forged medical fee <sup>[N29 (2021)](#n29)</sup>. Unlawful deductions are an offence under section 44 of the Employment Act <sup>[N32](#n32)</sup>. Overtime is due beyond 8 hours a day or 44 a week, and may not exceed 72 hours a month <sup>[N21](#n21)</sup>.
+Workers of the four companies named in 2021 claimed over BND 6,600 each in deductions for "Sultan tax", insurance fees, staff house rent and a forged medical fee <sup>[N32 (2021)](#n32)</sup>. Unlawful deductions are an offence under section 44 of the Employment Act <sup>[N36](#n36)</sup>. Overtime is due beyond 8 hours a day or 44 a week, and may not exceed 72 hours a month <sup>[N23](#n23)</sup>.
 
 > **Need to know**
 > - What does a Bangladeshi construction worker or cleaner in Brunei earn a month in 2026, before and after deductions?
@@ -387,7 +388,7 @@ Workers of the four companies named in 2021 claimed over BND 6,600 each in deduc
 
 #### 2.4.4 How long the debt takes
 
-In 2021 officials said workers paid about Tk 4 lakh each to migrate for jobs in which they could hardly earn US$200 a month <sup>[N3 (2021)](#n3)</sup>. Workers who went on "free visas" often never earned it back: one worked 21 days in seven months, and another said he had sent home Tk 35,000 in five months <sup>[N4 (2020)](#n4), [N25 (2019)](#n25)</sup>.
+In 2021 officials said workers paid about Tk 4 lakh each to migrate for jobs in which they could hardly earn US$200 a month <sup>[N3 (2021)](#n3)</sup>. Workers who went on "free visas" often never earned it back: one worked 21 days in seven months, and another said he had sent home Tk 35,000 in five months <sup>[N4 (2020)](#n4), [N28 (2019)](#n28)</sup>.
 
 <a id="remittances-from-brunei"></a>
 
@@ -402,14 +403,14 @@ Bangladesh Bank recorded US$74.2 million sent from Brunei in the 2023-24 financi
 You are tied to one employer for everything: the employment pass names the employer you may work for and the job you may do, and the employer must report you to Immigration as soon as you leave <sup>[5 (2024)](#o5), [N12](#n12)</sup>.
 
 - **Entering.** The employer's licence must name you before Immigration issues your visa <sup>[19 (2024)](#o19)</sup>.
-- **Renewing.** Contracts last two years and are renewed only if both sides agree <sup>[21 (2024)](#o21), [N8](#n8)</sup>. In a case the High Commission reported in 2021, an employer's men demanded more than BND 2,100 for a "visa renewal" and never renewed the visa <sup>[N29 (2021)](#n29)</sup>.
+- **Renewing.** Contracts last two years and are renewed only if both sides agree <sup>[21 (2024)](#o21), [N8](#n8)</sup>. In a case the High Commission reported in 2021, an employer's men demanded more than BND 2,100 for a "visa renewal" and never renewed the visa <sup>[N32 (2021)](#n32)</sup>.
 - **Quitting.** You must work in the job on your pass for as long as the pass lasts (Immigration Regulation 15(3)), and the employer must tell the Controller of Immigration at once if you leave <sup>[5 (2024)](#o5)</sup>.
-- **Changing employer.** Working for anyone else is an offence under Regulation 15(2) <sup>[N12](#n12)</sup>. Brunei used to publish newspaper and website notices seeking "runaway workers", and has since told state news agencies not to use the term <sup>[N20](#n20)</sup>. Running away from the employer or working for another brings a BND 600 compound fine (a fine paid instead of going to court); a second offence brings cancellation of the pass, expulsion and possible blacklisting <sup>[N33 (2022)](#n33)</sup>.
-- **Leaving.** Workers need the employer's approval before leaving Brunei to avoid a BND 600 fine, a rule observers say exposes them to extortion <sup>[N20](#n20)</sup>. The employer pays the ticket home unless the worker absconded or was convicted of a crime <sup>[21 (2024)](#o21)</sup>.
+- **Changing employer.** Working for anyone else is an offence under Regulation 15(2) <sup>[N12](#n12)</sup>. Brunei used to publish newspaper and website notices seeking "runaway workers", and has since told state news agencies not to use the term <sup>[N22](#n22)</sup>. Running away from the employer or working for another brings a BND 600 compound fine (a fine paid instead of going to court); a second offence brings cancellation of the pass, expulsion and possible blacklisting <sup>[N37 (2022)](#n37)</sup>.
+- **Leaving.** Workers need the employer's approval before leaving Brunei to avoid a BND 600 fine, a rule observers say exposes them to extortion <sup>[N22](#n22)</sup>. The employer pays the ticket home unless the worker absconded or was convicted of a crime <sup>[21 (2024)](#o21)</sup>.
 
-*Which law covers you.* The Employment Order 2009, which a September 2026 report calls the Employment Act, Chapter 278, covers wages, hours, leave and contracts; the Immigration Act, Chapter 17, covers passes and overstaying <sup>[N34](#n34), [N32](#n32), [N35 (2024)](#n35)</sup>.
+*Which law covers you.* The Employment Order 2009, which a September 2026 report calls the Employment Act, Chapter 278, covers wages, hours, leave and contracts; the Immigration Act, Chapter 17, covers passes and overstaying <sup>[N38](#n38), [N36](#n36), [N39 (2024)](#n39)</sup>.
 
-*Your passport.* Some employers and agencies still keep workers' passports <sup>[N20](#n20)</sup>. Without it a worker loses legal status, and one worker whose passport his employer kept was given only a special pass by Immigration <sup>[N23 (2021)](#n23)</sup>.
+*Your passport.* Some employers and agencies still keep workers' passports <sup>[N22](#n22)</sup>. Without it a worker loses legal status, and one worker whose passport his employer kept was given only a special pass by Immigration <sup>[N25 (2021)](#n25)</sup>.
 
 *An expired or cancelled pass.* Overstaying up to 90 days carries a fine of up to BND 4,000, up to six months' prison, or both; more than 90 days carries 3 months to 2 years' prison and at least three strokes of the whip <sup>[5 (2024)](#o5)</sup>. In 2026 Brunei's courts gave four Bangladeshi overstayers four to six months and three strokes of the cane <sup>[N13](#n13), [N14](#n14)</sup>. This applies also to workers who fall out of status through their employer's negligence <sup>[N8](#n8)</sup>.
 
@@ -417,18 +418,18 @@ You are tied to one employer for everything: the employment pass names the emplo
 
 ### 2.6 What goes wrong most, and what people wrongly believe
 
-The biggest harm in Brunei is arriving with no job: in 2019 the High Commissioner said about 6,000 Bangladeshis recruited without its attestation in one year were all jobless <sup>[N11 (2019)](#n11)</sup>. Unpaid and docked wages, seized passports and arrest for overstaying follow from it <sup>[N29 (2021)](#n29), [N23 (2021)](#n23), [N13](#n13)</sup>.
+The biggest harm in Brunei is arriving with no job: in 2019 the High Commissioner said about 6,000 Bangladeshis recruited without its attestation in one year were all jobless <sup>[N11 (2019)](#n11)</sup>. Unpaid and docked wages, seized passports and arrest for overstaying follow from it <sup>[N32 (2021)](#n32), [N25 (2021)](#n25), [N13](#n13)</sup>.
 
 *What goes wrong.*
-- *No job on arrival.* The US State Department's 2026 trafficking report says some recruiters take thousands of dollars and find no job, and the workers turn to "freelancing", which is illegal <sup>[N20](#n20)</sup>. In January 2020 the High Commission received at least 25 complaints a day <sup>[N9 (2020)](#n9)</sup>.
-- *Unpaid wages.* In 2025 two owners of Qharrof Sdn Bhd were fined BND 1,200 each for not paying two foreign workers, who were each still owed BND 1,000 <sup>[N34](#n34)</sup>. Labour inspections in 2026 found unpaid overtime, unlawful deductions, no written contracts and workers placed in jobs not on their licence <sup>[N36](#n36), [N32](#n32)</sup>.
-- *Raids and jail.* Immigration's "Operasi Kakas" raids on rented houses, markets and business premises in 2026 detained foreigners suspected of overstaying, working on visit passes and working for someone other than their employer <sup>[N36](#n36), [N12](#n12)</sup>. In December 2023 a raid in Mukim Berakas detained 18 Bangladeshis <sup>[N37 (2023)](#n37)</sup>.
-- *Deaths.* A Bangladeshi worker who died in Brunei in 2022 was undocumented, so his employer did not pay his Tk 16 lakh hospital bill and no insurance claim could be made, and his body stayed in the hospital for two and a half years, it was reported in April 2024 (see [What happens in practice](#what-happens-in-practice)) <sup>[N38 (2024)](#n38)</sup>. Bringing a body home from Brunei costs about Tk 4.5 lakh <sup>[N38 (2024)](#n38)</sup>. In 2022 the High Commissioner said bodies lay in the RIPAS hospital morgue for months with no one taking responsibility <sup>[N28 (2022)](#n28)</sup>.
+- *No job on arrival.* The US State Department's 2026 trafficking report says some recruiters take thousands of dollars and find no job, and the workers turn to "freelancing", which is illegal <sup>[N22](#n22)</sup>. In January 2020 the High Commission received at least 25 complaints a day <sup>[N9 (2020)](#n9)</sup>.
+- *Unpaid wages.* In 2025 two owners of Qharrof Sdn Bhd were fined BND 1,200 each for not paying two foreign workers, who were each still owed BND 1,000 <sup>[N38](#n38)</sup>. Labour inspections in 2026 found unpaid overtime, unlawful deductions, no written contracts and workers placed in jobs not on their licence <sup>[N40](#n40), [N36](#n36)</sup>.
+- *Raids and jail.* Immigration's "Operasi Kakas" raids on rented houses, markets and business premises in 2026 detained foreigners suspected of overstaying, working on visit passes and working for someone other than their employer <sup>[N40](#n40), [N12](#n12)</sup>. In December 2023 a raid in Mukim Berakas detained 18 Bangladeshis <sup>[N41 (2023)](#n41)</sup>.
+- *Deaths.* A Bangladeshi worker who died in Brunei in 2022 was undocumented, so his employer did not pay his Tk 16 lakh hospital bill and no insurance claim could be made, and his body stayed in the hospital for two and a half years, it was reported in April 2024 (see [What happens in practice](#what-happens-in-practice)) <sup>[N42 (2024)](#n42)</sup>. Bringing a body home from Brunei costs about Tk 4.5 lakh <sup>[N42 (2024)](#n42)</sup>. In 2022 the High Commissioner said bodies lay in the RIPAS hospital morgue for months with no one taking responsibility <sup>[N31 (2022)](#n31)</sup>.
 
 > **Need to know**
 > - How many Bangladeshis die in Brunei each year, and of what causes?
 
-*"A free visa lets you work for any employer."* Working for anyone other than the employer on your pass is an offence, and a second offence ends in expulsion <sup>[N12](#n12), [N33 (2022)](#n33)</sup>.
+*"A free visa lets you work for any employer."* Working for anyone other than the employer on your pass is an offence, and a second offence ends in expulsion <sup>[N12](#n12), [N37 (2022)](#n37)</sup>.
 
 *"Brunei pays like Singapore."* A former BAIRA secretary general said in 2024 that wages in Brunei are comparable to Singapore's; Bangladeshis reported earning about US$200 a month in 2021, below other foreign workers <sup>[N7 (2024)](#n7), [N3 (2021)](#n3)</sup>.
 
@@ -439,7 +440,7 @@ The biggest harm in Brunei is arriving with no job: in 2019 the High Commissione
 *How the irregular routes end.*
 - *Deportation.* In late 2019 Brunei deported nine Bangladeshis in a month, and many jobless workers who took other work were deported <sup>[N11 (2019)](#n11)</sup>.
 - *Prison and caning for overstaying* (see [What ties you to the employer](#what-ties-you-to-the-employer)) <sup>[N13](#n13)</sup>.
-- *Returning penniless.* Of 34 men sent by two agencies in 2015, 30 came home; they received Tk 5,000 each from the Wage Earners' Welfare Fund <sup>[N30 (2015)](#n30)</sup>.
+- *Returning penniless.* Of 34 men sent by two agencies in 2015, 30 came home; they received Tk 5,000 each from the Wage Earners' Welfare Fund <sup>[N33 (2015)](#n33)</sup>.
 
 <a id="visas-not-open-to-bangladeshis"></a>
 
@@ -449,7 +450,7 @@ Brunei sorts countries into visa categories; Bangladesh's ordinary passport is i
 
 - **Visa-free entry:** only Bangladeshi diplomatic and official passports are in Category D3, which allows up to 14 days without a visa <sup>[29](#o29), [30](#o30)</sup>. An ordinary passport needs a visa <sup>[29](#o29)</sup>.
 - **Visa on arrival (VOA):** Brunei gives a 14-day visa on arrival, for BND 20 or BND 30, only to Category C nationalities <sup>[29](#o29), [31](#o31)</sup>. Brunei's High Commission in Dhaka says Bangladesh's immigration does not accept a Brunei VOA, so a Bangladeshi must have the visa endorsed in the passport before leaving Bangladesh <sup>[32](#o32)</sup>.
-- **E-visa:** there is no online visa for Bangladeshis. A Category B application is handed in, in person, at the Brunei mission <sup>[33](#o33), [29](#o29)</sup>. The E-Arrival Card filled in on imm.gov.bn before travel is not a visa or a pass <sup>[N39 (2023)](#n39), [32](#o32)</sup>.
+- **E-visa:** there is no online visa for Bangladeshis. A Category B application is handed in, in person, at the Brunei mission <sup>[33](#o33), [29](#o29)</sup>. The E-Arrival Card filled in on imm.gov.bn before travel is not a visa or a pass <sup>[N43 (2023)](#n43), [32](#o32)</sup>.
 - **Transit visa:** a 72-hour transit visa at Brunei International Airport is given only to nationals of China, Australia, Russia, Tajikistan, Mongolia, India, Qatar, Bahrain, Kuwait, Saudi Arabia and Taiwan, and to holders of residence permits from Australia, New Zealand, the US, Japan and the UK; Bangladesh is not on the list (see [Transit](#transit)) <sup>[34](#o34)</sup>.
 
 > **Need to know**
@@ -459,9 +460,9 @@ Brunei sorts countries into visa categories; Bangladesh's ordinary passport is i
 
 ## 4 Work visa: employment pass
 
-Every foreign worker in Brunei must hold a valid work visa and work pass, issued by the Immigration and National Registration Department (JIPK in Malay, "DINR" in English papers) <sup>[11](#o11)</sup>. The pass is called an Employment Pass: it lets you work only in the job written in it, for up to 5 years at a time, and it can name the one employer you may work for <sup>[5 (2024)](#o5)</sup>. Before Immigration will issue it, your employer must hold a Foreign Worker Licence (Lesen Pekerja Asing, LPA) from the Department of Labour (Jabatan Buruh), which names you, your job and your workplace <sup>[11](#o11), [19 (2024)](#o19), [36 (2024)](#o36)</sup>. Since 1 February 2024 Bangladeshi workers can be recruited for Brunei only through BOESL (Bangladesh Overseas Employment and Services Ltd, the government-owned recruiting company), under a memorandum of understanding (MoU) the two governments signed on 16 October 2022; private Bangladeshi agencies may not send workers <sup>[N1 (2024)](#n1), [N7 (2024)](#n7)</sup>. On the Brunei side BOESL works only with Brunei employment agencies licensed by the Department of Labour that have signed a Memorandum of Co-operation (MoC) with it <sup>[N1 (2024)](#n1), [N7 (2024)](#n7)</sup>. Jobs are mostly for men in construction and related trades, on 2-year renewable contracts <sup>[N2](#n2), [N15](#n15), [21 (2024)](#o21)</sup>.
+Every foreign worker in Brunei must hold a valid work visa and work pass, issued by the Immigration and National Registration Department (JIPK in Malay, "DINR" in English papers) <sup>[11](#o11)</sup>. The pass is called an Employment Pass: it lets you work only in the job written in it, for up to 5 years at a time, and it can name the one employer you may work for <sup>[5 (2024)](#o5)</sup>. Before Immigration will issue it, your employer must hold a Foreign Worker Licence (Lesen Pekerja Asing, LPA) from the Department of Labour (Jabatan Buruh), which names you, your job and your workplace <sup>[11](#o11), [19 (2024)](#o19), [36 (2024)](#o36)</sup>. Since 1 February 2024 Bangladeshi workers can be recruited for Brunei only through BOESL (Bangladesh Overseas Employment and Services Ltd, the government-owned recruiting company), under a memorandum of understanding (MoU) the two governments signed on 16 October 2022; private Bangladeshi agencies may not send workers <sup>[N1 (2024)](#n1), [N7 (2024)](#n7)</sup>. On the Brunei side BOESL works only with Brunei employment agencies licensed by the Department of Labour that have signed a Memorandum of Co-operation (MoC) with it <sup>[N1 (2024)](#n1), [N7 (2024)](#n7)</sup>. Jobs are mostly for men in construction and related trades, on 2-year renewable contracts <sup>[N2](#n2), [N16](#n16), [21 (2024)](#o21)</sup>.
 
-The Department of Labour is now known as the Department of Manpower and Employment (Jabatan Tenaga Manusia dan Pekerjaan), and the Employment Order 2009 it enforces is now cited as the Employment Act (Chapter 278); this doc calls it the Department of Labour <sup>[15](#o15), [N32](#n32), [N21](#n21)</sup>.
+The Department of Labour is now known as the Department of Manpower and Employment (Jabatan Tenaga Manusia dan Pekerjaan), and the Employment Order 2009 it enforces is now cited as the Employment Act (Chapter 278); this doc calls it the Department of Labour <sup>[15](#o15), [N36](#n36), [N23](#n23)</sup>.
 
 <a id="who-pays-what"></a>
 
@@ -481,19 +482,19 @@ Under the MoC every Brunei agency signs with BOESL, the employer pays <sup>[21 (
 - an open round-trip air ticket, Dhaka to Brunei and back <sup>[21 (2024)](#o21)</sup>;
 - free food or a food allowance, free housing and medicine <sup>[21 (2024)](#o21)</sup>.
 
-BOESL's circular of 29 September 2026 says the company pays for housing and the employer for the air fare, but the worker pays for his own food <sup>[4](#o4)</sup>.
+Food differs by circular. BOESL's circular of 29 September 2026 says the company pays for housing and the employer for the air fare, but the worker pays for his own food, as did its November 2024 circular <sup>[4](#o4), [N26 (2024)](#n26)</sup>. Its circular of 23 September 2026 says the company pays for both housing and food <sup>[N17](#n17)</sup>.
 
 > **Need to know**
-> - On BOESL's 2026 Brunei jobs, does the employer give any food allowance, as the MoC requires, or does the worker pay all his food?
+> - Where a BOESL circular says the worker pays his own food, does the employer still give a food allowance, as the MoC requires?
 
-The Brunei agency may not charge you any money or deduct anything from your salary <sup>[21 (2024)](#o21)</sup>. Under Brunei's Employment Agencies Order 2004 the government lets agencies charge a recruitment fee of up to BND 2,000 for a migrant worker and requires the employer to pay it; the US State Department's 2026 trafficking report says observers found fees above this cap, with employers shifting part of them onto workers <sup>[N20](#n20)</sup>.
+The Brunei agency may not charge you any money or deduct anything from your salary <sup>[21 (2024)](#o21)</sup>. Under Brunei's Employment Agencies Order 2004 the government lets agencies charge a recruitment fee of up to BND 2,000 for a migrant worker and requires the employer to pay it; the US State Department's 2026 trafficking report says observers found fees above this cap, with employers shifting part of them onto workers <sup>[N22](#n22)</sup>.
 
-**Security deposit.** When the employer collects the approved licence it pays a security deposit for each worker, in cash, by banker's guarantee or by JITPA (Jaminan Insurans/Takaful Pekerja Asing, an insurance guarantee bought instead of a cash deposit) <sup>[18](#o18), [21 (2024)](#o21)</sup>. In 2022 Bangladesh's commerce minister said Bangladeshi workers' deposit was US$1,600 each against US$500 for Malaysians <sup>[N40 (2022)](#n40)</sup>.
+**Security deposit.** When the employer collects the approved licence it pays a security deposit for each worker, in cash, by banker's guarantee or by JITPA (Jaminan Insurans/Takaful Pekerja Asing, an insurance guarantee bought instead of a cash deposit) <sup>[18](#o18), [21 (2024)](#o21)</sup>. In 2022 Bangladesh's commerce minister said Bangladeshi workers' deposit was US$1,600 each against US$500 for Malaysians <sup>[N44 (2022)](#n44)</sup>.
 
 > **Need to know**
 > - What is the Department of Labour's current security deposit for a Bangladeshi worker, and is any of it ever taken from the worker's salary?
 
-**Going home.** The employer pays your repatriation; you pay it yourself only if you abscond or are convicted of a crime <sup>[21 (2024)](#o21), [N41](#n41)</sup>. If you die or are disabled at work, the employer pays to send you or your body home <sup>[21 (2024)](#o21)</sup>.
+**Going home.** The employer pays your repatriation; you pay it yourself only if you abscond or are convicted of a crime <sup>[21 (2024)](#o21), [N45](#n45)</sup>. If you die or are disabled at work, the employer pays to send you or your body home <sup>[21 (2024)](#o21)</sup>.
 
 <a id="what-you-pay"></a>
 
@@ -506,7 +507,7 @@ In BOESL's Brunei circular of 29 September 2026 (148 jobs at Unity Land Sdn Bhd)
 - the visa fee set by the embassy;
 - the medical test fee in Bangladesh.
 
-The application fee is Tk 100, paid by bKash <sup>[4](#o4)</sup>. When BOESL started the G2G (government-to-government) route in March 2024 it gave the total cost as Tk 44,000 to Tk 56,000 <sup>[N7 (2024)](#n7)</sup>.
+The application fee is Tk 100, paid by bKash; BOESL's circular of 23 September 2026 set it at Tk 200, Prothom Alo reported <sup>[4](#o4), [N35](#n35), [N17](#n17)</sup>. That circular set the same BOESL charge of Tk 56,350 or Tk 44,850 <sup>[N17](#n17)</sup>. When BOESL started the G2G (government-to-government) route in March 2024 it gave the total cost as Tk 44,000 to Tk 56,000 <sup>[N7 (2024)](#n7)</sup>.
 
 > **Need to know**
 > - Does the Tk 56,350 / Tk 44,850 also cover the BMET smart card and clearance fee ([Step 5, item 3: BMET clearance (the smart card)](#step-5-before-you-fly-item-3)), the fingerprint fee and the pre-departure orientation fee ([Step 5, item 2: The pre-departure orientation (PDO)](#step-5-before-you-fly-item-2)), or are those paid separately?
@@ -517,7 +518,7 @@ The application fee is Tk 100, paid by bKash <sup>[4](#o4)</sup>. When BOESL sta
 
 #### 4.1.3 The Bangladesh maximum
 
-The Ministry of Expatriates' Welfare and Overseas Employment's ceiling on what a recruiting agent may charge a male worker for Brunei Darussalam is Tk 1,20,780, covering the air fare, passport, health fees and related costs <sup>[37 (2019)](#o37)</sup>. PKB (Probashi Kallyan Bank) sets its migration loan ceiling by this country cost ([Step 5, item 5: If you need a loan](#step-5-before-you-fly-item-5)) <sup>[37 (2019)](#o37)</sup>. Before the G2G route, recruiters charged about BND 5,000 to bring each worker, according to workers and High Commission sources in 2020, and workers said they paid Tk 4.5 lakh to Tk 5 lakh in 2019 for jobs that did not exist (see [Done to workers](#done-to-workers)) <sup>[N4 (2020)](#n4), [N23 (2021)](#n23)</sup>.
+The Ministry of Expatriates' Welfare and Overseas Employment's ceiling on what a recruiting agent may charge a male worker for Brunei Darussalam is Tk 1,20,780, covering the air fare, passport, health fees and related costs <sup>[37 (2019)](#o37)</sup>. PKB (Probashi Kallyan Bank) sets its migration loan ceiling by this country cost ([Step 5, item 5: If you need a loan](#step-5-before-you-fly-item-5)) <sup>[37 (2019)](#o37)</sup>. Before the G2G route, recruiters charged about BND 5,000 to bring each worker, according to workers and High Commission sources in 2020, and workers said they paid Tk 4.5 lakh to Tk 5 lakh in 2019 for jobs that did not exist (see [Done to workers](#done-to-workers)) <sup>[N4 (2020)](#n4), [N25 (2021)](#n25)</sup>.
 
 > **Need to know**
 > - When was the Tk 1,20,780 ceiling for Brunei set, is it still in force, and does it apply to the BOESL route?
@@ -532,7 +533,7 @@ Pay BOESL's charge by pay order in the name "BOESL, Dhaka", made at Sonali Bank'
 
 ### 4.2 Step 1: Check you qualify and get your papers ready
 
-1. <a id="step-1-check-you-qualify-and-get-your-papers-ready-item-1"></a>**Check what the job asks for.** BOESL's 2026 Brunei circulars were for men only <sup>[N2](#n2), [N15](#n15)</sup>. The 29 September 2026 circular asked for age 25 to 45 and at least 2 to 3 years' practical experience in the trade, with no schooling required; employers sometimes prefer men who speak English or Malay <sup>[N2](#n2), [4](#o4)</sup>. Your passport must be valid at least 6 months for the visa and pass <sup>[11](#o11)</sup>.
+1. <a id="step-1-check-you-qualify-and-get-your-papers-ready-item-1"></a>**Check what the job asks for.** BOESL's 2026 Brunei circulars were for men only <sup>[N2](#n2), [N16](#n16)</sup>. The 29 September 2026 circular asked for age 25 to 45 and at least 2 to 3 years' practical experience in the trade, with no schooling required; employers sometimes prefer men who speak English or Malay <sup>[N2](#n2), [4](#o4)</sup>. Your passport must be valid at least 6 months for the visa and pass <sup>[11](#o11)</sup>.
 2. <a id="step-1-check-you-qualify-and-get-your-papers-ready-item-2"></a>**Get a passport.**
 
    You'll need: your original NID (national ID card); applicants over 20 must use the NID <sup>[39](#o39)</sup>.
@@ -566,8 +567,8 @@ Pay BOESL's charge by pay order in the name "BOESL, Dhaka", made at Sonali Bank'
 
 How a job reaches BOESL: a Brunei employer goes to a licensed Brunei employment agency, which fills in a demand letter with the employer and takes it to the Bangladesh High Commission in Bandar Seri Begawan for attestation, then sends the attested demand letter and a copy of the employment contract to BOESL <sup>[21 (2024)](#o21)</sup>. BOESL then advertises the jobs in newspapers, on its website and notice board, or from BMET's database <sup>[21 (2024)](#o21)</sup>.
 
-1. <a id="step-2-apply-through-boesl-item-1"></a>**Find the circular.** BOESL posts its Brunei jobs on BRMS (BOESL Recruitment Management System), brms.boesl.gov.bd, and the circulars are carried by newspapers <sup>[8](#o8), [N2](#n2)</sup>. Each circular names the Brunei company, the trades, the number of workers, the wage, the deadline and the cost <sup>[N2](#n2), [N15](#n15), [4](#o4)</sup>. In 2026 Brunei circulars paid BND 20 to 22 a day or BND 600 to 1,000 a month, depending on the job; at Unity Land Sdn Bhd, carpenters, construction labourers and masons get BND 20 a day and electricians, drivers, operators, plumbers and welders BND 22 a day, for 8 hours' duty <sup>[N15](#n15), [4](#o4)</sup>.
-2. <a id="step-2-apply-through-boesl-item-2"></a>**Register and apply on BRMS.** Register free on brms.boesl.gov.bd, choose the job and submit the application with your passport number, schooling and experience; pay the Tk 100 application fee by bKash and enter the transaction ID, or the application is rejected <sup>[8](#o8), [4](#o4)</sup>. You can see the application's status on BRMS, and updates come by email and phone <sup>[8](#o8)</sup>.
+1. <a id="step-2-apply-through-boesl-item-1"></a>**Find the circular.** BOESL posts its Brunei jobs on BRMS (BOESL Recruitment Management System), brms.boesl.gov.bd, and the circulars are carried by newspapers <sup>[8](#o8), [N2](#n2)</sup>. Each circular names the Brunei company, the trades, the number of workers, the wage, the deadline and the cost <sup>[N2](#n2), [N16](#n16), [4](#o4)</sup>. In 2026 Brunei circulars paid BND 20 to 22 a day or BND 600 to 1,000 a month, depending on the job; at Unity Land Sdn Bhd, carpenters, construction labourers and masons get BND 20 a day and electricians, drivers, operators, plumbers and welders BND 22 a day, for 8 hours' duty <sup>[N16](#n16), [4](#o4)</sup>. The May 2026 circular went up on 11 May and closed on 15 May, and the one Prothom Alo reported on 23 September 2026 closed on 26 September at 4pm <sup>[N15](#n15), [N17](#n17)</sup>.
+2. <a id="step-2-apply-through-boesl-item-2"></a>**Register and apply on BRMS.** Register free on brms.boesl.gov.bd, choose the job and submit the application with your passport number, schooling and experience; pay the Tk 100 application fee by bKash and enter the transaction ID, or the application is rejected <sup>[8](#o8), [4](#o4)</sup>; the 23 September 2026 circular set the fee at Tk 200 <sup>[N17](#n17)</sup>. The May 2026 circular accepted applications only online through BOESL's website, not in person or through anyone else <sup>[N15](#n15)</sup>. You can see the application's status on BRMS, and updates come by email and phone <sup>[8](#o8)</sup>.
 3. <a id="step-2-apply-through-boesl-item-3"></a>**Interview.** BOESL sends the applications to the company, which draws up a shortlist; shortlisted men are called by SMS to a final interview with the employer or its representative, online or in person <sup>[4](#o4), [21 (2024)](#o21)</sup>. Bring your original passport, an English CV and your experience certificates <sup>[4](#o4)</sup>. The employer's choice is final <sup>[4](#o4)</sup>.
 4. <a id="step-2-apply-through-boesl-item-4"></a>**Medical in Dhaka** ([Step 3: Medical examination in Dhaka](#step-3-medical-examination-in-dhaka)).
 
@@ -672,7 +673,7 @@ How a job reaches BOESL: a Brunei employer goes to a licensed Brunei employment 
 5. <a id="step-6-arrival-and-your-first-weeks-item-5"></a>**Sign the written contract** with the employer <sup>[21 (2024)](#o21)</sup>. The Department of Labour gives foreign workers a compulsory briefing on their labour rights when they sign <sup>[N8](#n8)</sup>. It must be in writing and signed by both of you, and show at least your job, start date, contract length, daily hours, working days, rest day, basic salary, deductions, overtime rate, leave, medical benefits, probation, notice period and repatriation <sup>[36 (2024)](#o36)</sup>.
 6. <a id="step-6-arrival-and-your-first-weeks-item-6"></a>**The 2-year pass.** The agency or employer applies to Immigration to extend the pass, endorsed in your passport for 2 years or as the licence allows <sup>[21 (2024)](#o21)</sup>. Immigration needs the application letter, registration form, Form 23, visa approval, licence copy, the medical check and your passport valid at least 6 months <sup>[11](#o11)</sup>.
 7. <a id="step-6-arrival-and-your-first-weeks-item-7"></a>**Green IC.** You then apply for a green identity card (the card Brunei issues to foreign residents) at Immigration with your passport and approved pass; every foreigner holding a pass for more than 3 months must register for one <sup>[18](#o18), [21 (2024)](#o21), [15](#o15)</sup>.
-8. <a id="step-6-arrival-and-your-first-weeks-item-8"></a>**SIM card and bank account.** Register a prepaid SIM with your green IC, or with your passport and employment pass; DST's Easi SIM pack costs nothing and is activated with a BND 10 recharge within 30 days <sup>[51 (2024)](#o51), [N42](#n42)</sup>. To open a BIBD (Bank Islam Brunei Darussalam) General Saver account you need a valid work permit, your identity card or passport and proof of employment, such as your latest salary slip or employment letter, and must keep at least BND 50 in it <sup>[N43](#n43)</sup>.
+8. <a id="step-6-arrival-and-your-first-weeks-item-8"></a>**SIM card and bank account.** Register a prepaid SIM with your green IC, or with your passport and employment pass; DST's Easi SIM pack costs nothing and is activated with a BND 10 recharge within 30 days <sup>[51 (2024)](#o51), [N46](#n46)</sup>. To open a BIBD (Bank Islam Brunei Darussalam) General Saver account you need a valid work permit, your identity card or passport and proof of employment, such as your latest salary slip or employment letter, and must keep at least BND 50 in it <sup>[N47](#n47)</sup>.
 
 > **Need to know**
 > - What do the 2-year employment pass, the re-entry visa and the green IC cost, and who pays?
@@ -686,17 +687,17 @@ How a job reaches BOESL: a Brunei employer goes to a licensed Brunei employment 
 
 #### 4.8.1 Done to workers
 
-**"Free visa" with no job.** Before 2024, recruiters charged about BND 5,000 to bring each worker, many without a confirmed job; workers and High Commission sources said in 2020 that of about 22,000 visas issued in late 2019 the mission certified only 3,300, and recruiters sent the rest through "body contact" with dishonest airport officials <sup>[N4 (2020)](#n4)</sup>. One worker paid Tk 5 lakh for a construction "free visa", found no job and came home after five months <sup>[N4 (2020)](#n4)</sup>. Recruiters still take thousands of dollars and then find workers no job on arrival <sup>[N20](#n20)</sup>. **How to spot it:** any Brunei job not offered through BOESL ([Step 2: Apply through BOESL](#step-2-apply-through-boesl)) <sup>[N1 (2024)](#n1)</sup>.
+**"Free visa" with no job.** Before 2024, recruiters charged about BND 5,000 to bring each worker, many without a confirmed job; workers and High Commission sources said in 2020 that of about 22,000 visas issued in late 2019 the mission certified only 3,300, and recruiters sent the rest through "body contact" with dishonest airport officials <sup>[N4 (2020)](#n4)</sup>. One worker paid Tk 5 lakh for a construction "free visa", found no job and came home after five months <sup>[N4 (2020)](#n4)</sup>. Recruiters still take thousands of dollars and then find workers no job on arrival <sup>[N22](#n22)</sup>. **How to spot it:** any Brunei job not offered through BOESL ([Step 2: Apply through BOESL](#step-2-apply-through-boesl)) <sup>[N1 (2024)](#n1)</sup>.
 
-**Company visas from blacklisted or shell firms.** Brunei blacklisted at least 31 fake companies in 2019 for visa trading and harassing Bangladeshi workers, and the High Commission rejected attestation for fake company visas <sup>[N23 (2021)](#n23), [N4 (2020)](#n4)</sup>. Its current blacklist has 29 companies <sup>[10](#o10)</sup>. **How to spot it:** a company on that list, or one whose visa the High Commission has not attested ([Step 4, item 5: The High Commission's visa attestation](#step-4-the-employer-gets-the-licence-and-your-visa-item-5)).
+**Company visas from blacklisted or shell firms.** Brunei blacklisted at least 31 fake companies in 2019 for visa trading and harassing Bangladeshi workers, and the High Commission rejected attestation for fake company visas <sup>[N25 (2021)](#n25), [N4 (2020)](#n4)</sup>. Its current blacklist has 29 companies <sup>[10](#o10)</sup>. **How to spot it:** a company on that list, or one whose visa the High Commission has not attested ([Step 4, item 5: The High Commission's visa attestation](#step-4-the-employer-gets-the-licence-and-your-visa-item-5)).
 
-**The broker who keeps your passport and takes a monthly cut.** In 2025 a Bangladeshi, Mahedi Hasan, got 5 years' jail, a BND 50,000 fine and six strokes for trafficking workers in 2018-19: he lured them with false job promises, took their passports, made them pay monthly "legal" or "repatriation" fees and placed them in jobs with little or no pay <sup>[N5](#n5)</sup>. In 2019 another worker said his agent dropped him after a week's work and threatened to have him deported unless he handed over part of his monthly salary <sup>[N44 (2019)](#n44)</sup>.
+**The broker who keeps your passport and takes a monthly cut.** In 2025 a Bangladeshi, Mahedi Hasan, got 5 years' jail, a BND 50,000 fine and six strokes for trafficking workers in 2018-19: he lured them with false job promises, took their passports, made them pay monthly "legal" or "repatriation" fees and placed them in jobs with little or no pay <sup>[N5](#n5)</sup>. In 2019 another worker said his agent dropped him after a week's work and threatened to have him deported unless he handed over part of his monthly salary <sup>[N48 (2019)](#n48)</sup>.
 
-**Rule-breaking on the official route.** Workers recruited under the MoU are still exploited when employers or middlemen break the recruitment rules or the contract <sup>[N20](#n20)</sup>. Brunei penalised six unlicensed recruiters and sub-brokers with fines of BND 1,000 to 2,000, and made four licensed agencies refund fees they had overcharged domestic workers <sup>[N20](#n20)</sup>.
+**Rule-breaking on the official route.** Workers recruited under the MoU are still exploited when employers or middlemen break the recruitment rules or the contract <sup>[N22](#n22)</sup>. Brunei penalised six unlicensed recruiters and sub-brokers with fines of BND 1,000 to 2,000, and made four licensed agencies refund fees they had overcharged domestic workers <sup>[N22](#n22)</sup>.
 
-**Brokers who go unpunished at home.** In 2019 Bangladesh suspended the passports of five suspected traffickers in Brunei to force their deportation; Brunei deported at least seven, but none of the ringleaders had been punished in Bangladesh by 2020 <sup>[N44 (2019)](#n44), [N4 (2020)](#n4)</sup>.
+**Brokers who go unpunished at home.** In 2019 Bangladesh suspended the passports of five suspected traffickers in Brunei to force their deportation; Brunei deported at least seven, but none of the ringleaders had been punished in Bangladesh by 2020 <sup>[N48 (2019)](#n48), [N4 (2020)](#n4)</sup>.
 
-**Visa traders inside the company.** The recruitment SOP (standard operating procedure) the High Commission set out in 2022 forbids employers to use their existing workers as manpower brokers and visa traders <sup>[N28 (2022)](#n28)</sup>.
+**Visa traders inside the company.** The recruitment SOP (standard operating procedure) the High Commission set out in 2022 forbids employers to use their existing workers as manpower brokers and visa traders <sup>[N31 (2022)](#n31)</sup>.
 
 **Fake job adverts and "illegal visa" offers online.** The High Commission tells workers not to get involved with fake job adverts, illegal visas, quick-money offers or suspicious cryptocurrency schemes <sup>[52](#o52)</sup>.
 
@@ -714,7 +715,7 @@ How a job reaches BOESL: a Brunei employer goes to a licensed Brunei employment 
 
 **Going on a visit visa to look for work.** A visit pass holder may not do any work, paid or unpaid, without Immigration's written consent: a fine of up to BND 2,000, up to 6 months' jail or both <sup>[5 (2024)](#o5)</sup>.
 
-**Freelancing.** Working for anyone other than the employer on your pass is illegal <sup>[N20](#n20), [19 (2024)](#o19)</sup>. In February 2026 Immigration detained a foreign worker suspected of overstaying and working for someone other than his sponsor <sup>[N36](#n36)</sup>.
+**Freelancing.** Working for anyone other than the employer on your pass is illegal <sup>[N22](#n22), [19 (2024)](#o19)</sup>. In February 2026 Immigration detained a foreign worker suspected of overstaying and working for someone other than his sponsor <sup>[N40](#n40)</sup>.
 
 **False papers.** Getting a pass by a false statement, or using a forged or altered pass, carries a fine of up to BND 4,000, up to a year in jail or both <sup>[5 (2024)](#o5)</sup>.
 
@@ -737,7 +738,7 @@ The Employment Order 2009 covers private-sector workers below managerial level; 
 
 #### 4.9.2 Pay
 
-1. <a id="pay-item-1"></a>**No minimum wage for most Bangladeshi jobs.** Brunei's minimum wage (BND 500 a month, BND 2.62 an hour part-time) covers local and foreign workers only in selected industries: banking, finance and ICT since July 2023, and nine sub-industries in financial services, health, education, professional, administrative and accommodation and food services since April 2025 <sup>[36 (2024)](#o36), [N31](#n31)</sup>. It does not cover domestic workers, and it had not been extended to construction <sup>[36 (2024)](#o36), [N20](#n20)</sup>. Where it applies, it is the base salary before contributions and allowances, and no contract can lower it <sup>[36 (2024)](#o36)</sup>. In 2024 the High Commission said it aimed for Bangladeshi workers to earn at least BND 600 a month <sup>[N7 (2024)](#n7)</sup>.
+1. <a id="pay-item-1"></a>**No minimum wage for most Bangladeshi jobs.** Brunei's minimum wage (BND 500 a month, BND 2.62 an hour part-time) covers local and foreign workers only in selected industries: banking, finance and ICT since July 2023, and nine sub-industries in financial services, health, education, professional, administrative and accommodation and food services since April 2025 <sup>[36 (2024)](#o36), [N34](#n34)</sup>. It does not cover domestic workers, and it had not been extended to construction <sup>[36 (2024)](#o36), [N22](#n22)</sup>. Where it applies, it is the base salary before contributions and allowances, and no contract can lower it <sup>[36 (2024)](#o36)</sup>. In 2024 the High Commission said it aimed for Bangladeshi workers to earn at least BND 600 a month <sup>[N7 (2024)](#n7)</sup>.
 2. <a id="pay-item-2"></a>**When you must be paid.** Salary at least once a month, within 7 days after the end of the salary period; overtime within 14 days <sup>[36 (2024)](#o36)</sup>. Not paying salary is a breach of contract by the employer <sup>[36 (2024)](#o36)</sup>.
 3. <a id="pay-item-3"></a>**What may be deducted:** absence, damage or loss of goods or money, meals supplied at your request, amenities and services, advances or loans, income tax, and others the Minister approves <sup>[36 (2024)](#o36)</sup>. The Brunei agency may not deduct anything <sup>[21 (2024)](#o21)</sup>.
 
@@ -757,7 +758,7 @@ The Employment Order 2009 covers private-sector workers below managerial level; 
 
 #### 4.9.4 Housing, food and medical care
 
-Under the BOESL MoC the employer provides free housing, free food or a food allowance, and medicine <sup>[21 (2024)](#o21)</sup>. BOESL's 2026 circulars say the employer pays for housing, but the September 2026 circular makes the worker pay for his food (see [What the employer pays](#what-the-employer-pays)) <sup>[N15](#n15), [4](#o4)</sup>. The High Commission checks a company's staff house address, capacity and photos before attesting visas <sup>[20](#o20)</sup>. Medical insurance and workmen's compensation are the employer's to buy <sup>[21 (2024)](#o21)</sup>.
+Under the BOESL MoC the employer provides free housing, free food or a food allowance, and medicine <sup>[21 (2024)](#o21)</sup>. BOESL's 2026 circulars say the employer pays for housing, but the September 2026 circular makes the worker pay for his food (see [What the employer pays](#what-the-employer-pays)) <sup>[N16](#n16), [4](#o4)</sup>. The High Commission checks a company's staff house address, capacity and photos before attesting visas <sup>[20](#o20)</sup>. Medical insurance and workmen's compensation are the employer's to buy <sup>[21 (2024)](#o21)</sup>.
 
 > **Need to know**
 > - Does Brunei set minimum standards for foreign workers' staff houses (space per worker, toilets), and who inspects them?
@@ -766,7 +767,7 @@ Under the BOESL MoC the employer provides free housing, free food or a food allo
 
 #### 4.9.5 Your passport
 
-Some employers and agencies in Brunei keep workers' passports <sup>[N20](#n20)</sup>. Workers whose passports were kept have lost their legal status, and one was given only a special pass by Immigration <sup>[N23 (2021)](#n23)</sup>. In Bangladesh, keeping a migrant's passport without lawful reason is a crime under the 2013 Act <sup>[53](#o53)</sup>.
+Some employers and agencies in Brunei keep workers' passports <sup>[N22](#n22)</sup>. Workers whose passports were kept have lost their legal status, and one was given only a special pass by Immigration <sup>[N25 (2021)](#n25)</sup>. In Bangladesh, keeping a migrant's passport without lawful reason is a crime under the 2013 Act <sup>[53](#o53)</sup>.
 
 > **Need to know**
 > - Which Brunei law, if any, makes it an offence for an employer to keep a worker's passport, and has anyone been charged?
@@ -775,7 +776,7 @@ Some employers and agencies in Brunei keep workers' passports <sup>[N20](#n20)</
 
 #### 4.9.6 Changing your job inside the company
 
-You must do only the job written in your pass and licence, at the licensed address; the employer may not move you to other work or another workplace <sup>[19 (2024)](#o19), [36 (2024)](#o36)</sup>. In 2026 the Department of Labour found licensed "construction workers" making furniture and a "general labourer" doing office work, and investigated both as suspected licence breaches by the employer <sup>[N32](#n32), [N21](#n21)</sup>. Breaking licence conditions can cost the employer a compound of up to BND 1,000, or a fine of BND 6,000 to 10,000, 6 months to 3 years in jail, or both <sup>[36 (2024)](#o36)</sup>.
+You must do only the job written in your pass and licence, at the licensed address; the employer may not move you to other work or another workplace <sup>[19 (2024)](#o19), [36 (2024)](#o36)</sup>. In 2026 the Department of Labour found licensed "construction workers" making furniture and a "general labourer" doing office work, and investigated both as suspected licence breaches by the employer <sup>[N36](#n36), [N23](#n23)</sup>. Breaking licence conditions can cost the employer a compound of up to BND 1,000, or a fine of BND 6,000 to 10,000, 6 months to 3 years in jail, or both <sup>[36 (2024)](#o36)</sup>.
 
 <a id="your-work-pass-and-stay"></a>
 
@@ -790,7 +791,7 @@ You must do only the job written in your pass and licence, at the licensed addre
 
 ### 4.11 What can get you jailed or deported
 
-1. <a id="what-can-get-you-jailed-or-deported-item-1"></a>**Overstaying.** Staying after your pass expires or is cancelled: up to 90 days, a fine of up to BND 4,000, up to 6 months' jail or both; over 90 days, 3 months to 2 years in jail and at least 3 strokes of the cane <sup>[5 (2024)](#o5)</sup>. The offence can also be settled by a compound payment of up to BND 600 <sup>[5 (2024)](#o5)</sup>. In April 2026 two Bangladeshis got 5 and 6 months' jail and three strokes each <sup>[N45](#n45)</sup>. In 2025 the High Commission recorded 19 Bangladeshis in prison, and 30 by October 2026 <sup>[54](#o54)</sup>.
+1. <a id="what-can-get-you-jailed-or-deported-item-1"></a>**Overstaying.** Staying after your pass expires or is cancelled: up to 90 days, a fine of up to BND 4,000, up to 6 months' jail or both; over 90 days, 3 months to 2 years in jail and at least 3 strokes of the cane <sup>[5 (2024)](#o5)</sup>. The offence can also be settled by a compound payment of up to BND 600 <sup>[5 (2024)](#o5)</sup>. In April 2026 two Bangladeshis got 5 and 6 months' jail and three strokes each <sup>[N49](#n49)</sup>. In 2025 the High Commission recorded 19 Bangladeshis in prison, and 30 by October 2026 <sup>[54](#o54)</sup>.
 2. <a id="what-can-get-you-jailed-or-deported-item-2"></a>**Entering without a valid pass:** 3 months to 2 years in jail and at least 3 strokes <sup>[5 (2024)](#o5)</sup>.
 3. <a id="what-can-get-you-jailed-or-deported-item-3"></a>**Not taking up, or leaving, the job on your pass:** a fine of up to BND 2,000, up to 6 months' jail or both; the employer must report you to Immigration at once <sup>[5 (2024)](#o5)</sup>.
 4. <a id="what-can-get-you-jailed-or-deported-item-4"></a>**Working on a visit pass, freelancing, false papers, returning after removal** (see [Tried by workers](#tried-by-workers)) <sup>[5 (2024)](#o5)</sup>.
@@ -816,10 +817,10 @@ You must do only the job written in your pass and licence, at the licensed addre
    - your job card or punch card;
    - any other relevant papers.
 
-   Contacts: hotline 7298989 (also WhatsApp) or 2381848 (working hours only), led@buruh.gov.bn or info.buruh@buruh.gov.bn; Department of Labour, Jalan Dewan Majlis, Bandar Seri Begawan BS3910 <sup>[15](#o15), [36 (2024)](#o36), [N34](#n34)</sup>. Your details are kept confidential as far as the case allows <sup>[15](#o15)</sup>. You can also complain online on nlms.gov.bn under "Aduan Pelanggaran Undang-Undang Perburuhan" <sup>[N31](#n31)</sup>.
+   Contacts: hotline 7298989 (also WhatsApp) or 2381848 (working hours only), led@buruh.gov.bn or info.buruh@buruh.gov.bn; Department of Labour, Jalan Dewan Majlis, Bandar Seri Begawan BS3910 <sup>[15](#o15), [36 (2024)](#o36), [N38](#n38)</sup>. Your details are kept confidential as far as the case allows <sup>[15](#o15)</sup>. You can also complain online on nlms.gov.bn under "Aduan Pelanggaran Undang-Undang Perburuhan" <sup>[N34](#n34)</sup>.
 3. <a id="if-you-arent-paid-or-your-employer-breaks-the-law-item-3"></a>**What it can do:** mediation, a warning letter, a compound fine, prosecution or revoking the employer's foreign worker licence <sup>[36 (2024)](#o36)</sup>.
 
-**What actually happens:** an employer found at fault can settle each offence with a compound fine of up to BND 1,000, and goes to court only if it does not pay <sup>[N32](#n32)</sup>. In August 2025 two company owners who had not paid two foreign workers for five months were fined BND 1,200 each, and BND 1,000 per worker was still unpaid <sup>[N34](#n34)</sup>. Raids in 2026 found unpaid overtime, unlawful deductions, no rest days and no written contracts at 10 companies in one operation <sup>[N36](#n36)</sup>.
+**What actually happens:** an employer found at fault can settle each offence with a compound fine of up to BND 1,000, and goes to court only if it does not pay <sup>[N36](#n36)</sup>. In August 2025 two company owners who had not paid two foreign workers for five months were fined BND 1,200 each, and BND 1,000 per worker was still unpaid <sup>[N38](#n38)</sup>. Raids in 2026 found unpaid overtime, unlawful deductions, no rest days and no written contracts at 10 companies in one operation <sup>[N40](#n40)</sup>.
 
 > **Need to know**
 > - Does the Department of Labour order unpaid wages to be paid to the worker, and can a worker stay and work elsewhere while the case runs?
@@ -836,7 +837,7 @@ The labour wing of the Bangladesh High Commission takes complaints on its compla
 
 #### 4.12.3 If you are trafficked
 
-Brunei's Anti-Trafficking in Persons Act 2019 carries 4 to 30 years' jail and fines of BND 10,000 to 1 million <sup>[N20](#n20)</sup>. Brunei gives identified and possible trafficking victims a work permit while the case runs <sup>[N20](#n20)</sup>. Victims are not prosecuted for illegal entry, unlawful stay or false papers that resulted directly from being trafficked <sup>[N20](#n20)</sup>. The Labour Department also takes trafficking and labour tips by hotline and online, and in the 2026 reporting period these led to 250 screenings for signs of trafficking <sup>[N20](#n20)</sup>. Report illegal immigration activity to Immigration's hotline, 8734888 or 8753888 (Bandar Seri Begawan) and 8984111 (Kuala Belait) <sup>[N36](#n36)</sup>.
+Brunei's Anti-Trafficking in Persons Act 2019 carries 4 to 30 years' jail and fines of BND 10,000 to 1 million <sup>[N22](#n22)</sup>. Brunei gives identified and possible trafficking victims a work permit while the case runs <sup>[N22](#n22)</sup>. Victims are not prosecuted for illegal entry, unlawful stay or false papers that resulted directly from being trafficked <sup>[N22](#n22)</sup>. The Labour Department also takes trafficking and labour tips by hotline and online, and in the 2026 reporting period these led to 250 screenings for signs of trafficking <sup>[N22](#n22)</sup>. Report illegal immigration activity to Immigration's hotline, 8734888 or 8753888 (Bandar Seri Begawan) and 8984111 (Kuala Belait) <sup>[N40](#n40)</sup>.
 
 <a id="complaining-in-bangladesh"></a>
 
@@ -852,7 +853,7 @@ Complain about a recruiter to BMET's Director General with proof (free, 30 worki
 
 #### 4.13.1 Changing employer
 
-Your pass and licence tie you to one employer; your employer may not transfer you to another without the consent of the Commissioner of Labour <sup>[5 (2024)](#o5), [36 (2024)](#o36)</sup>. A "transfer of contract" is a licence application made through NLMS <sup>[36 (2024)](#o36)</sup>. Immigration then endorses the new pass with the Department of Labour's contract transfer form (Borang Pertukaran Kontrak), the registration form, Form 23, the licence copy, a medical check and your new and old passports <sup>[11](#o11)</sup>. If your company is restructured and your contract moves to another company, the new employer takes it over on the same terms, and you must be told and consulted <sup>[36 (2024)](#o36)</sup>. Working for a new employer before this is done is an immigration offence <sup>[N36](#n36)</sup>.
+Your pass and licence tie you to one employer; your employer may not transfer you to another without the consent of the Commissioner of Labour <sup>[5 (2024)](#o5), [36 (2024)](#o36)</sup>. A "transfer of contract" is a licence application made through NLMS <sup>[36 (2024)](#o36)</sup>. Immigration then endorses the new pass with the Department of Labour's contract transfer form (Borang Pertukaran Kontrak), the registration form, Form 23, the licence copy, a medical check and your new and old passports <sup>[11](#o11)</sup>. If your company is restructured and your contract moves to another company, the new employer takes it over on the same terms, and you must be told and consulted <sup>[36 (2024)](#o36)</sup>. Working for a new employer before this is done is an immigration offence <sup>[N40](#n40)</sup>.
 
 > **Need to know**
 > - Does a worker need his current employer's release letter to transfer, and can he transfer if the employer has not paid him?
@@ -868,8 +869,8 @@ Notice is what your contract says, and must be the same for both sides; if none 
 #### 4.13.3 Leaving Brunei
 
 1. The employer cancels your pass at Immigration with cancellation forms, your passport, the licence copy and a copy of your air ticket <sup>[11](#o11)</sup>.
-2. The employer pays your ticket home at the end of the contract, unless you absconded or were convicted <sup>[N41](#n41), [21 (2024)](#o21)</sup>.
-3. Leave with your employer's approval: workers who leave without it face a BND 600 fine <sup>[N20](#n20)</sup>.
+2. The employer pays your ticket home at the end of the contract, unless you absconded or were convicted <sup>[N45](#n45), [21 (2024)](#o21)</sup>.
+3. Leave with your employer's approval: workers who leave without it face a BND 600 fine <sup>[N22](#n22)</sup>.
 
 > **Need to know**
 > - What is the BND 600 "exit fine" in law, and how does a worker whose employer refuses approval leave legally?
@@ -882,10 +883,10 @@ Brunei issues a Domestic Service Work Pass (pas kerja perkhidmatan rumah tangga)
 
 **What makes this pass different:**
 
-- **Fewer legal protections.** The Employment Order 2009, Brunei's main labour law, does not cover domestic workers except for some provisions <sup>[36 (2024)](#o36)</sup>. The minimum wage has not been extended to domestic work <sup>[N20](#n20)</sup>.
-- **Recruitment fees.** Brunei agencies may charge up to BND 2,000 per migrant worker, and the employer must pay it; observers say fees can run higher, with employers passing part of them on to workers <sup>[N20](#n20)</sup>. In the period covered by the US State Department's 2026 trafficking report, Brunei acted against four licensed agencies that charged domestic workers more than the limit; they got a warning letter and had to refund the excess <sup>[N20](#n20)</sup>.
-- **The risks reported.** Migrant domestic workers in Brunei face deceptive recruitment, contract switching, debt, unauthorised deductions, unpaid wages, passport retention and being kept indoors <sup>[N20](#n20)</sup>. In a 2015 study of Indonesian maids in Brunei, most first-timers had paid most of their own costs before coming; one paid about BND 200 for her work permit, and another borrowed from her future Brunei employer and lost about half her pay each month until the debt was cleared <sup>[N46 (2015)](#n46)</sup>.
-- **Insurance.** Since 1 July 2025, domestic service work pass holders must have medical insurance valid for the whole pass <sup>[N47](#n47)</sup>.
+- **Fewer legal protections.** The Employment Order 2009, Brunei's main labour law, does not cover domestic workers except for some provisions <sup>[36 (2024)](#o36)</sup>. The minimum wage has not been extended to domestic work <sup>[N22](#n22)</sup>.
+- **Recruitment fees.** Brunei agencies may charge up to BND 2,000 per migrant worker, and the employer must pay it; observers say fees can run higher, with employers passing part of them on to workers <sup>[N22](#n22)</sup>. In the period covered by the US State Department's 2026 trafficking report, Brunei acted against four licensed agencies that charged domestic workers more than the limit; they got a warning letter and had to refund the excess <sup>[N22](#n22)</sup>.
+- **The risks reported.** Migrant domestic workers in Brunei face deceptive recruitment, contract switching, debt, unauthorised deductions, unpaid wages, passport retention and being kept indoors <sup>[N22](#n22)</sup>. In a 2015 study of Indonesian maids in Brunei, most first-timers had paid most of their own costs before coming; one paid about BND 200 for her work permit, and another borrowed from her future Brunei employer and lost about half her pay each month until the debt was cleared <sup>[N50 (2015)](#n50)</sup>.
+- **Insurance.** Since 1 July 2025, domestic service work pass holders must have medical insurance valid for the whole pass <sup>[N51](#n51)</sup>.
 
 <a id="step-1-check-bangladeshs-rules-for-women-domestic-workers"></a>
 
@@ -932,12 +933,12 @@ Processing normally takes five working days, not counting the day you submit <su
 
 ### 5.4 Step 4: After you arrive
 
-Soon after arrival you must give Immigration a medical fit certificate from Brunei's Ministry of Health <sup>[19 (2024)](#o19)</sup>. A worker who arrives without valid insurance gets only a two-week pass until the papers are produced <sup>[N47](#n47)</sup>. You may work only in the job written in your passport endorsement <sup>[19 (2024)](#o19)</sup>. Keep the pass valid: an expired pass is an offence under the Immigration Act, Chapter 17 <sup>[19 (2024)](#o19)</sup>.
+Soon after arrival you must give Immigration a medical fit certificate from Brunei's Ministry of Health <sup>[19 (2024)](#o19)</sup>. A worker who arrives without valid insurance gets only a two-week pass until the papers are produced <sup>[N51](#n51)</sup>. You may work only in the job written in your passport endorsement <sup>[19 (2024)](#o19)</sup>. Keep the pass valid: an expired pass is an offence under the Immigration Act, Chapter 17 <sup>[19 (2024)](#o19)</sup>.
 
 **Scams to watch for:**
-- *An agency fee beyond the legal limit.* Brunei made four licensed agencies refund what they had overcharged domestic workers, and fined six unlicensed recruiters and sub-brokers <sup>[N20](#n20)</sup>.
+- *An agency fee beyond the legal limit.* Brunei made four licensed agencies refund what they had overcharged domestic workers, and fined six unlicensed recruiters and sub-brokers <sup>[N22](#n22)</sup>.
 - *Working on a visit visa.* A visit pass holder may not work at all, paid or unpaid (see [Tried by workers](#tried-by-workers)) <sup>[5 (2024)](#o5)</sup>.
-- *Passport kept, kept indoors.* Both are among the abuses reported against migrant domestic workers in Brunei (see [Your passport](#your-passport)) <sup>[N20](#n20)</sup>.
+- *Passport kept, kept indoors.* Both are among the abuses reported against migrant domestic workers in Brunei (see [Your passport](#your-passport)) <sup>[N22](#n22)</sup>.
 
 **Where to get help:** the Bangladesh High Commission's labour wing in Bandar Seri Begawan (see [Help from the High Commission](#help-from-the-high-commission)), or Probash-Bondhu, 16135 free in Bangladesh, +8809610102030 from abroad <sup>[14](#o14)</sup>.
 
@@ -963,7 +964,7 @@ A Brunei visit visa (social visit visa) is for social visits and holidays only <
 - **Fee:** Tk 2,100 for a single entry, in cash, not refunded if refused <sup>[32](#o32)</sup>.
 - **Processing:** usually five working days, sometimes longer; apply at least two weeks before travel <sup>[32](#o32)</sup>. The High Commission does not speed up a file because you already hold a ticket <sup>[32](#o32)</sup>.
 - **Validity:** the visa is valid for up to three months <sup>[32](#o32)</sup>.
-- **Length of stay:** with valid insurance, Immigration gives a visit pass matching the approved visa; without it, only a two-week pass, which can be extended by showing an insurance certificate to Immigration <sup>[N47](#n47)</sup>.
+- **Length of stay:** with valid insurance, Immigration gives a visit pass matching the approved visa; without it, only a two-week pass, which can be extended by showing an insurance certificate to Immigration <sup>[N51](#n51)</sup>.
 
 > **Need to know**
 > - How many days of stay does the High Commission in Dhaka usually grant on a tourist visit visa: 14, 30 or more?
@@ -1030,7 +1031,7 @@ Incomplete files are not accepted, and papers not in Malay or English need an of
 1. <a id="step-5-e-arrival-card-item-1"></a>**Fill it in after the visa is issued and before you arrive** <sup>[32](#o32)</sup>.
 2. <a id="step-5-e-arrival-card-item-2"></a>**Go to www.imm.gov.bn,** click "Register Now" if you are new, and sign in with the email and password you registered on Immigration's online portal (Brunei INRS) <sup>[67 (2023)](#o67)</sup>.
 3. <a id="step-5-e-arrival-card-item-3"></a>**Go to "Travel Cards", then "Create Travel Card",** fill in identity, general, arrival and departure details, and press "Create"; you get a reference number <sup>[67 (2023)](#o67)</sup>.
-4. <a id="step-5-e-arrival-card-item-4"></a>**It is free.** Immigration charges nothing and has appointed no person or company to collect a fee for it <sup>[N39 (2023)](#n39)</sup>. It is compulsory at air, land and sea entry points <sup>[N39 (2023)](#n39)</sup>.
+4. <a id="step-5-e-arrival-card-item-4"></a>**It is free.** Immigration charges nothing and has appointed no person or company to collect a fee for it <sup>[N43 (2023)](#n43)</sup>. It is compulsory at air, land and sea entry points <sup>[N43 (2023)](#n43)</sup>.
 
 > **Need to know**
 > - How many days before arrival can the E-Arrival Card be filled in at the earliest?
@@ -1039,13 +1040,13 @@ Incomplete files are not accepted, and papers not in Malay or English need an of
 
 ### 6.7 Step 6: At the Brunei border
 
-Show your passport with the visa and your printed insurance <sup>[32](#o32)</sup>. Without valid insurance you get only a two-week pass <sup>[N47](#n47)</sup>.
+Show your passport with the visa and your printed insurance <sup>[32](#o32)</sup>. Without valid insurance you get only a two-week pass <sup>[N51](#n51)</sup>.
 
 <a id="can-you-work"></a>
 
 ### 6.8 Can you work?
 
-No. The visit visa is for social and holiday visits only <sup>[32](#o32)</sup>. Every foreign worker in Brunei must hold a valid visa and work pass <sup>[11](#o11)</sup>. Working in a job other than the one endorsed in your passport is an offence under Regulation 15(3) of the Immigration Regulations, and Immigration's "Operasi Kakas" raids find such workers <sup>[19 (2024)](#o19), [N48](#n48)</sup>. Overstaying is an offence under section 15(1) of the Immigration Act: Bangladeshis convicted in 2024 to 2026 got five or six months' jail and three strokes of the cane <sup>[N49 (2024)](#n49), [N50](#n50), [N48](#n48)</sup>.
+No. The visit visa is for social and holiday visits only <sup>[32](#o32)</sup>. Every foreign worker in Brunei must hold a valid visa and work pass <sup>[11](#o11)</sup>. Working in a job other than the one endorsed in your passport is an offence under Regulation 15(3) of the Immigration Regulations, and Immigration's "Operasi Kakas" raids find such workers <sup>[19 (2024)](#o19), [N52](#n52)</sup>. Overstaying is an offence under section 15(1) of the Immigration Act: Bangladeshis convicted in 2024 to 2026 got five or six months' jail and three strokes of the cane <sup>[N53 (2024)](#n53), [N54](#n54), [N52](#n52)</sup>.
 
 <a id="if-you-are-refused"></a>
 
@@ -1064,8 +1065,8 @@ The fee is not refunded <sup>[32](#o32)</sup>. If any document is found false, t
 
 #### 6.10.1 Done to visitors
 
-- **"Visit visa, then a job."** The visit visa is for holidays only, and a business visit visa may not be used to wait for a labour quota or to work <sup>[32](#o32), [63](#o63)</sup>. Some recruiters take thousands of dollars in fees and then find workers no job in Brunei; those workers, most of them in debt, often turn to "freelancing", which is illegal <sup>[N20](#n20)</sup>.
-- **Paid E-Arrival Card sites.** The card is free on imm.gov.bn; anyone charging for it is not appointed by Immigration <sup>[N39 (2023)](#n39), [67 (2023)](#o67)</sup>.
+- **"Visit visa, then a job."** The visit visa is for holidays only, and a business visit visa may not be used to wait for a labour quota or to work <sup>[32](#o32), [63](#o63)</sup>. Some recruiters take thousands of dollars in fees and then find workers no job in Brunei; those workers, most of them in debt, often turn to "freelancing", which is illegal <sup>[N22](#n22)</sup>.
+- **Paid E-Arrival Card sites.** The card is free on imm.gov.bn; anyone charging for it is not appointed by Immigration <sup>[N43 (2023)](#n43), [67 (2023)](#o67)</sup>.
 - **Fake insurance certificates.** The applicant alone is responsible for the insurance certificate being real <sup>[32](#o32)</sup>; for a sponsored visit only a Brunei insurer counts <sup>[32](#o32)</sup>.
 
 <a id="tried-by-visitors"></a>
@@ -1151,7 +1152,7 @@ Brunei's Ministry of Foreign Affairs offers scholarships for diplomas, bachelor'
 
 - **UTB:** international undergraduate degrees cost, for example, BND 24,000 (business) to BND 27,000 (architecture, product design) per three-year programme; you pay one semester (half a year's fee) in advance to accept the offer <sup>[74](#o74)</sup>.
 - **UBD:** undergraduate fees are charged yearly in Brunei dollars, with new fees from the 2026/2027 intake; on top, a BND 100 acceptance fee, not refunded if you fail to register, and a BND 250 refundable programme deposit <sup>[76 (2024)](#o76)</sup>.
-- **Insurance:** at least BND 5,000 for the whole student pass, from a Brunei insurer arranged by the sponsor <sup>[32](#o32), [N47](#n47)</sup>.
+- **Insurance:** at least BND 5,000 for the whole student pass, from a Brunei insurer arranged by the sponsor <sup>[32](#o32), [N51](#n51)</sup>.
 - **Emergency money:** UBD tells students to bring at least BND 1,000 <sup>[77 (2022)](#o77)</sup>.
 
 > **Need to know**
@@ -1191,7 +1192,7 @@ At Brunei's High Commission in Dhaka bring the visa form, two photos, NID and bi
 
 ## 9 Transit
 
-A Bangladeshi cannot get Brunei's transit visa: it is issued only at Brunei International Airport, to the nationalities listed under Visas not open to Bangladeshis <sup>[34](#o34)</sup>. Passengers who only transit at the airport and do not pass immigration do not fill in the E-Arrival Card <sup>[N39 (2023)](#n39)</sup>. To leave the airport during a stopover, a Bangladeshi needs a visit visa from Dhaka (see [Visit visa](#visit-visa)) <sup>[29](#o29), [32](#o32)</sup>.
+A Bangladeshi cannot get Brunei's transit visa: it is issued only at Brunei International Airport, to the nationalities listed under Visas not open to Bangladeshis <sup>[34](#o34)</sup>. Passengers who only transit at the airport and do not pass immigration do not fill in the E-Arrival Card <sup>[N43 (2023)](#n43)</sup>. To leave the airport during a stopover, a Bangladeshi needs a visit visa from Dhaka (see [Visit visa](#visit-visa)) <sup>[29](#o29), [32](#o32)</sup>.
 
 <a id="family-visas"></a>
 
@@ -1203,7 +1204,7 @@ A Bangladeshi cannot get Brunei's transit visa: it is issued only at Brunei Inte
 
 A dependant visa is for the wife and children under 18 of a man working in Brunei <sup>[34](#o34)</sup>. The worker applies on Form 25 as the holder of an employment pass, giving his pass number and how he will provide security (a guarantee) <sup>[78](#o78), [63](#o63)</sup>. The Work Pass Section at Immigration handles dependant passes, their re-entry visas, extensions and cancellations <sup>[11](#o11)</sup>.
 
-**Who can bring family.** Only professional, technical or managerial staff earning more than BND 1,500 a month, who meet conditions such as their own accommodation, are considered <sup>[N51 (2005)](#n51)</sup>.
+**Who can bring family.** Only professional, technical or managerial staff earning more than BND 1,500 a month, who meet conditions such as their own accommodation, are considered <sup>[N55 (2005)](#n55)</sup>.
 
 > **Need to know**
 > - Does Immigration still apply a salary threshold for a dependant pass (BND 1,500 a month or another figure), and what security deposit does Form 25 require?
@@ -1218,7 +1219,7 @@ The worker files Form 25 at the Work Pass Section with his employment pass detai
 
 #### 10.1.2 Step 2: The dependant visa in Dhaka
 
-Each family member takes to Brunei's High Commission in Dhaka the visa form, two photos, NID and birth certificate copies, passport copies, the Visa Advice from Brunei Immigration (valid three months), a medical test from an enlisted centre (babies under 2 need the checks but no X-ray), a confirmed air ticket and the printed insurance <sup>[32](#o32)</sup>. The fee is Tk 2,100 each, in cash and not refunded if refused, and it takes five working days <sup>[32](#o32)</sup>. Brunei's compulsory medical insurance for foreigners covers private-sector workers' dependants from 1 January 2026, the Borneo Bulletin reported in July 2025 <sup>[N47](#n47)</sup>.
+Each family member takes to Brunei's High Commission in Dhaka the visa form, two photos, NID and birth certificate copies, passport copies, the Visa Advice from Brunei Immigration (valid three months), a medical test from an enlisted centre (babies under 2 need the checks but no X-ray), a confirmed air ticket and the printed insurance <sup>[32](#o32)</sup>. The fee is Tk 2,100 each, in cash and not refunded if refused, and it takes five working days <sup>[32](#o32)</sup>. Brunei's compulsory medical insurance for foreigners covers private-sector workers' dependants from 1 January 2026, the Borneo Bulletin reported in July 2025 <sup>[N51](#n51)</sup>.
 
 **Where to get help:** Immigration's Work Pass Section handles dependant passes; Brunei's High Commission in Dhaka handles the visa (see [Where to get help](#where-to-get-help)) <sup>[11](#o11), [32](#o32)</sup>.
 
@@ -1256,7 +1257,7 @@ Marriage does not give residence quickly <sup>[69 (2024)](#o69), [80](#o80)</sup
 For a Bangladeshi worker, neither is realistic: the PR categories published on 31 December 2024 include none for workers, and citizenship needs 20 years as a PR <sup>[69 (2024)](#o69), [80](#o80)</sup>. Those categories cover children, stepchildren and adopted children of citizens and PRs, spouses of citizens and PRs, and people of proven Bruneian descent <sup>[69 (2024)](#o69)</sup>. Applicants with a foreign nationality must have valid medical insurance <sup>[69 (2024)](#o69)</sup>. Once PR is approved, the entry permit card costs BND 5 for Commonwealth nationals <sup>[81](#o81)</sup>.
 
 > **Need to know**
-> - Brunei's insurance rules mention PRs "under the economic and professional categories" <sup>[N47](#n47)</sup>: what are these categories, and can a long-serving foreign worker apply?
+> - Brunei's insurance rules mention PRs "under the economic and professional categories" <sup>[N51](#n51)</sup>: what are these categories, and can a long-serving foreign worker apply?
 
 Citizenship by naturalisation for someone born abroad needs a residence or entry permit (PR) for at least 20 of the 25 years before applying, the last 2 years continuously in Brunei, good conduct, and a written Malay test for those 18 and over <sup>[80](#o80)</sup>. The 46th citizenship ceremony on 12 November 2026 gave certificates to 710 people: residents who passed the Malay test, children and adopted children of citizens, and wives of Bruneian men <sup>[82](#o82)</sup>.
 
@@ -1266,7 +1267,7 @@ Citizenship by naturalisation for someone born abroad needs a residence or entry
 
 ## 12 Changing visa type
 
-**Visit to work: not allowed in practice.** A work visa approval is sent to the Brunei mission abroad, and the worker collects the visa there with passport and medical report <sup>[11](#o11)</sup>. A business visit visa may not be used to wait for a labour quota or to work <sup>[63](#o63)</sup>. Working on a visit pass, or in a job not endorsed in the passport, is an offence (see [Can you work?](#can-you-work)) <sup>[19 (2024)](#o19), [N48](#n48)</sup>.
+**Visit to work: not allowed in practice.** A work visa approval is sent to the Brunei mission abroad, and the worker collects the visa there with passport and medical report <sup>[11](#o11)</sup>. A business visit visa may not be used to wait for a labour quota or to work <sup>[63](#o63)</sup>. Working on a visit pass, or in a job not endorsed in the passport, is an offence (see [Can you work?](#can-you-work)) <sup>[19 (2024)](#o19), [N52](#n52)</sup>.
 
 **Changing employer (transfer).** A transfer needs the Department of Labour's change-of-contract form, endorsed on the work pass by Immigration (see [Changing employer](#changing-employer)) <sup>[11](#o11)</sup>.
 
@@ -1280,9 +1281,9 @@ Citizenship by naturalisation for someone born abroad needs a residence or entry
 
 ## 13 Asylum
 
-Brunei is not a party to the 1951 Refugee Convention or its 1967 Protocol, and it has no system to decide who is a refugee <sup>[83 (2024)](#o83)</sup>. UNHCR (the UN refugee agency) has recommended that Brunei join them, but in 2024 it had still not signed <sup>[83 (2024)](#o83)</sup>. Trafficking victims who need protection but lack papers may avoid the authorities for fear of detention and deportation <sup>[83 (2024)](#o83)</sup>. Brunei has no formal way for foreign trafficking victims to avoid removal to a country where they face hardship <sup>[N20](#n20)</sup>.
+Brunei is not a party to the 1951 Refugee Convention or its 1967 Protocol, and it has no system to decide who is a refugee <sup>[83 (2024)](#o83)</sup>. UNHCR (the UN refugee agency) has recommended that Brunei join them, but in 2024 it had still not signed <sup>[83 (2024)](#o83)</sup>. Trafficking victims who need protection but lack papers may avoid the authorities for fear of detention and deportation <sup>[83 (2024)](#o83)</sup>. Brunei has no formal way for foreign trafficking victims to avoid removal to a country where they face hardship <sup>[N22](#n22)</sup>.
 
-There is no asylum route to staying in Brunei: entering or staying without a valid pass is an offence, and overstaying brings jail and caning (see [What overstaying costs](#what-overstaying-costs)) <sup>[83 (2024)](#o83), [N48](#n48)</sup>. Identified and potential trafficking victims can get work permits for as long as the investigation and court case last <sup>[N20](#n20)</sup>. Unpaid wages or a broken contract are complained about in person at the Department of Labour's Labour Enforcement Division, with a police report (see [If you aren't paid or your employer breaks the law](#if-you-arent-paid-or-your-employer-breaks-the-law)) <sup>[36 (2024)](#o36)</sup>.
+There is no asylum route to staying in Brunei: entering or staying without a valid pass is an offence, and overstaying brings jail and caning (see [What overstaying costs](#what-overstaying-costs)) <sup>[83 (2024)](#o83), [N52](#n52)</sup>. Identified and potential trafficking victims can get work permits for as long as the investigation and court case last <sup>[N22](#n22)</sup>. Unpaid wages or a broken contract are complained about in person at the Department of Labour's Labour Enforcement Division, with a police report (see [If you aren't paid or your employer breaks the law](#if-you-arent-paid-or-your-employer-breaks-the-law)) <sup>[36 (2024)](#o36)</sup>.
 
 <a id="having-a-child-in-brunei"></a>
 
@@ -1300,7 +1301,7 @@ There is no asylum route to staying in Brunei: entering or staying without a val
 
 ### 14.2 The child's status
 
-A child born in Brunei to two Bangladeshi parents does not become Bruneian: Brunei gives citizenship automatically by descent from a Bruneian father or by belonging to listed indigenous groups, and everyone else must apply by registration or naturalisation <sup>[83 (2024)](#o83), [N52 (2019)](#n52)</sup>. The child is a Bangladeshi citizen by descent if the father or mother is a Bangladeshi citizen at the birth; if that parent is a citizen by descent only, the birth must be registered at a Bangladesh mission <sup>[85](#o85)</sup>. The child needs its own Brunei pass to stay, usually a dependant pass (see [Dependant pass for a worker's spouse and children](#dependant-pass-for-a-workers-spouse-and-children)) <sup>[34](#o34)</sup>.
+A child born in Brunei to two Bangladeshi parents does not become Bruneian: Brunei gives citizenship automatically by descent from a Bruneian father or by belonging to listed indigenous groups, and everyone else must apply by registration or naturalisation <sup>[83 (2024)](#o83), [N56 (2019)](#n56)</sup>. The child is a Bangladeshi citizen by descent if the father or mother is a Bangladeshi citizen at the birth; if that parent is a citizen by descent only, the birth must be registered at a Bangladesh mission <sup>[85](#o85)</sup>. The child needs its own Brunei pass to stay, usually a dependant pass (see [Dependant pass for a worker's spouse and children](#dependant-pass-for-a-workers-spouse-and-children)) <sup>[34](#o34)</sup>.
 
 > **Need to know**
 > - How long may a baby born in Brunei stay before a dependant pass is issued, and what happens if the parent does not qualify for one?
@@ -1325,26 +1326,26 @@ Remittance from Brunei to Bangladesh was USD 18.3 million in FY2016-17 and rose 
 
 ### 15.1 Use a licensed remitter or bank
 
-Bangladesh's government asks workers to send money only through legal channels, not through hundi (informal transfer through an agent who pays the family in taka from money held in Bangladesh) or other unlicensed agents <sup>[38](#o38)</sup>. Money sent through legal channels earns the receiver a 2.5% government cash incentive, sometimes with a further 2.5% from the bank, and the 2026-27 budget keeps the government incentive <sup>[N53](#n53), [89](#o89)</sup>.
+Bangladesh's government asks workers to send money only through legal channels, not through hundi (informal transfer through an agent who pays the family in taka from money held in Bangladesh) or other unlicensed agents <sup>[38](#o38)</sup>. Money sent through legal channels earns the receiver a 2.5% government cash incentive, sometimes with a further 2.5% from the bank, and the 2026-27 budget keeps the government incentive <sup>[N57](#n57), [89](#o89)</sup>.
 
 In Brunei, only a remitter licensed by BDCB (Brunei Darussalam Central Bank, the central bank and financial regulator) may take money to send abroad, under the Money-Changing and Remittance Businesses Act, Cap 174 <sup>[90](#o90), [91 (1999)](#o91)</sup>. Running a remittance business without a licence carries a fine of up to BND 10,000, up to one year in jail, or both <sup>[91 (1999)](#o91)</sup>. A person who uses an unlicensed operator loses the protection of Brunei's financial laws and can be charged as abetting the operator <sup>[92](#o92)</sup>.
 
 You'll need:
-- For a bKash wallet: the receiver's bKash number and full name exactly as registered <sup>[N53](#n53)</sup>.
+- For a bKash wallet: the receiver's bKash number and full name exactly as registered <sup>[N57](#n57)</sup>.
 - For a bank account: your own or a relative's account in Bangladesh <sup>[93](#o93)</sup>.
 
 1. <a id="use-a-licensed-remitter-or-bank-item-1"></a>**Check the remitter's licence.** BDCB's "List of BDCB Licensees" (bdcb.gov.bn, Regulatory, List of BDCB Licensees; filter Finance Providers and Money Services, then Money Remitters) shows 17 licensed money remitters <sup>[94](#o94)</sup>: Alrame, Cendana, Darul Trustee, K & H, Kemuda, LBC Mabuhay, LR, Magnajaya, Maji, Remittance @ Seconds, Siammali, Thanee, Wadi Shazana, Easternunion, Estetika, Jernik and MoneyMatch Brunei <sup>[94](#o94)</sup>. BDCB's Alert List (bdcb.gov.bn, Consumer, BDCB Alert List) lists companies and individuals that may be wrongly seen as licensed by BDCB, 332 of them as of 29 September 2026, and running a remittance business without a licence is one of its categories <sup>[92](#o92)</sup>. Questions about a remitter's licence: BDCB money services, 2381370, infomcr@bdcb.gov.bn <sup>[90](#o90)</sup>.
 2. <a id="use-a-licensed-remitter-or-bank-item-2"></a>**Choose the channel.**
-   - To a bKash wallet: bKash's partners in Brunei are KHRS Brunei, Western Union and MoneyGram <sup>[N53](#n53)</sup>. BDCB lists K & H Remittance Services at No. 5, Ground Floor, Bangunan Haji Sulaiman, Kampong Sengkurong, 426 1436 <sup>[94](#o94)</sup>.
-   - To a Nagad wallet: Nagad's partner in Brunei is Magnajaya Money Remittance, and Western Union transfers also reach Nagad wallets with the 2.5% incentive <sup>[N54](#n54)</sup>. Magnajaya: Unit 27, Ground Floor, Jalan Sultan Omar Ali Saifuddien, Bandar Seri Begawan, 224 1369 <sup>[94](#o94)</sup>.
+   - To a bKash wallet: bKash's partners in Brunei are KHRS Brunei, Western Union and MoneyGram <sup>[N57](#n57)</sup>. BDCB lists K & H Remittance Services at No. 5, Ground Floor, Bangunan Haji Sulaiman, Kampong Sengkurong, 426 1436 <sup>[94](#o94)</sup>.
+   - To a Nagad wallet: Nagad's partner in Brunei is Magnajaya Money Remittance, and Western Union transfers also reach Nagad wallets with the 2.5% incentive <sup>[N58](#n58)</sup>. Magnajaya: Unit 27, Ground Floor, Jalan Sultan Omar Ali Saifuddien, Bandar Seri Begawan, 224 1369 <sup>[94](#o94)</sup>.
    - Other licensed remitters near where workers live: in the Abdul Razak Complex, Gadong, Alrame (242 1129), Easternunion (244 3399) and Jernik (The Mall, 244 7999) <sup>[94](#o94)</sup>; in Seria Plaza, Kuala Belait district, Maji Remittance Services (322 4560) <sup>[94](#o94)</sup>; MoneyMatch Brunei, 33 Jalan Sultan Omar Ali Saifuddien, 222 2012, moneymatch.com.bn <sup>[94](#o94)</sup>.
    - To a bank account: use a remitter or bank that has a "drawing arrangement" (a correspondent agreement) with a Bangladeshi bank; banks in Bangladesh credit remittances within 3 days at most <sup>[93](#o93)</sup>.
-3. <a id="use-a-licensed-remitter-or-bank-item-3"></a>**Send, and keep the receipt until the family has the money.** For bKash, give the partner the receiver's number and registered name and hand over the cash; up to Tk 2.5 lakh per transfer, as many times as you like <sup>[N53](#n53)</sup>. According to a High Commission press statement reported on 19 September 2024, 116 Bangladeshi workers handed BND 0.72 million (about Tk 7 crore at BND 1 = Tk 97) to Remittance @ Seconds, a Western Union agent, between 31 July and 27 August 2024, and were given fake receipts while the money was never deposited <sup>[N6 (2024)](#n6), [2](#o2)</sup>. The High Commission met BDCB and the remitter, but by then Western Union had given no assurance of a refund <sup>[N6 (2024)](#n6)</sup>; on 4 October 2024 BDCB ordered Remittance @ Seconds to stop taking money from the public for remittance <sup>[N55 (2024)](#n55)</sup>.
-4. <a id="use-a-licensed-remitter-or-bank-item-4"></a>**The family collects.** bKash money can be cashed out at BRAC Bank, City Bank and Q-Cash ATM booths for Tk 7 per thousand <sup>[N53](#n53)</sup>.
+3. <a id="use-a-licensed-remitter-or-bank-item-3"></a>**Send, and keep the receipt until the family has the money.** For bKash, give the partner the receiver's number and registered name and hand over the cash; up to Tk 2.5 lakh per transfer, as many times as you like <sup>[N57](#n57)</sup>. According to a High Commission press statement reported on 19 September 2024, 116 Bangladeshi workers handed BND 0.72 million (about Tk 7 crore at BND 1 = Tk 97) to Remittance @ Seconds, a Western Union agent, between 31 July and 27 August 2024, and were given fake receipts while the money was never deposited <sup>[N6 (2024)](#n6), [2](#o2)</sup>. The High Commission met BDCB and the remitter, but by then Western Union had given no assurance of a refund <sup>[N6 (2024)](#n6)</sup>; on 4 October 2024 BDCB ordered Remittance @ Seconds to stop taking money from the public for remittance <sup>[N59 (2024)](#n59)</sup>.
+4. <a id="use-a-licensed-remitter-or-bank-item-4"></a>**The family collects.** bKash money can be cashed out at BRAC Bank, City Bank and Q-Cash ATM booths for Tk 7 per thousand <sup>[N57](#n57)</sup>.
 
 > **Need to know**
-> - Is "KHRS Brunei" on bKash's partner list the same company as K & H Remittance Services on BDCB's list <sup>[N53](#n53), [94](#o94)</sup>?
-> - Did the 116 workers get their money back, and is Remittance @ Seconds, still on BDCB's licence list, taking money again <sup>[94](#o94), [N55 (2024)](#n55)</sup>?
+> - Is "KHRS Brunei" on bKash's partner list the same company as K & H Remittance Services on BDCB's list <sup>[N57](#n57), [94](#o94)</sup>?
+> - Did the 116 workers get their money back, and is Remittance @ Seconds, still on BDCB's licence list, taking money again <sup>[94](#o94), [N59 (2024)](#n59)</sup>?
 > - What does it cost to send BND 300 or BND 700 to Bangladesh through each licensed remitter, given that Bangladesh Bank's cost survey does not cover Brunei <sup>[95](#o95)</sup>?
 > - Which Brunei remitters and banks have drawing arrangements with Bangladeshi banks (Bangladesh Bank's drawing-arrangement page could not be read) <sup>[93](#o93)</sup>?
 > - What does hundi pay per Brunei dollar compared with the bank rate, and who runs it in Brunei?
@@ -1355,7 +1356,7 @@ You'll need:
 2. If it is not resolved within 90 business days, complain to BDCB's Financial Consumer Issues unit on form FCI-01 <sup>[96](#o96)</sup>: Level 7, Ministry of Finance Building, Commonwealth Drive, Bandar Seri Begawan BB3910; 238 0007 or 8380007; fci@bdcb.gov.bn; counter Monday-Thursday 8:00-11:30 am and 2:00-4:30 pm, Friday 8:15-11:00 am <sup>[96](#o96)</sup>. BDCB can take up to 6 months <sup>[96](#o96)</sup>.
 3. Fraud or cheating is a crime that BDCB does not handle: report it to the Royal Brunei Police Force at the nearest station or on 993 <sup>[96](#o96), [92](#o92)</sup>.
 4. Tell the High Commission's labour wing (see [In Brunei](#in-brunei)).
-5. bKash helpline: 16247, or +88-02-55663001 from a country not listed <sup>[N53](#n53)</sup>.
+5. bKash helpline: 16247, or +88-02-55663001 from a country not listed <sup>[N57](#n57)</sup>.
 
 <a id="carrying-cash-out-of-brunei"></a>
 
@@ -1367,7 +1368,7 @@ Anyone leaving Brunei with cash or traveller's cheques worth BND 15,000 or more 
 
 ### 15.3 Saving and pension in Bangladesh
 
-Brunei's own National Retirement Scheme, SPK (Skim Persaraan Kebangsaan), run since July 2023, covers only Brunei citizens and permanent residents <sup>[N56](#n56)</sup>.
+Brunei's own National Retirement Scheme, SPK (Skim Persaraan Kebangsaan), run since July 2023, covers only Brunei citizens and permanent residents <sup>[N60](#n60)</sup>.
 
 <a id="nrcta-non-resident-convertible-taka-account"></a>
 
@@ -1423,7 +1424,7 @@ Under section 15(1) of the Immigration Act (Cap 17), as listed in the offences s
 - The offence can be settled by a compound (an out-of-court payment) of up to BND 600 <sup>[104](#o104)</sup>.
 - Leaving Brunei other than through a declared immigration checkpoint: a fine of BND 2,000 or 6 months in jail, or a compound of up to BND 600 <sup>[104](#o104)</sup>.
 
-In April 2026 two Bangladeshi men who overstayed were jailed for 5 and 6 months, each with three strokes of the cane <sup>[N45](#n45)</sup>. Anyone who employs or harbours an overstayer can be fined BND 3,000-6,000, jailed up to 2 years, or both (BND 6,000-12,000 or up to 4 years for a repeat offence); where an overstayer is found at a workplace, the penalty is BND 6,000-12,000 or up to 1 year for each one found <sup>[104](#o104)</sup>.
+In April 2026 two Bangladeshi men who overstayed were jailed for 5 and 6 months, each with three strokes of the cane <sup>[N49](#n49)</sup>. Anyone who employs or harbours an overstayer can be fined BND 3,000-6,000, jailed up to 2 years, or both (BND 6,000-12,000 or up to 4 years for a repeat offence); where an overstayer is found at a workplace, the penalty is BND 6,000-12,000 or up to 1 year for each one found <sup>[104](#o104)</sup>.
 
 <a id="amnesties"></a>
 
@@ -1449,7 +1450,7 @@ You'll need <sup>[105](#o105)</sup>:
 - A photocopy of the passport.
 - If the passport was lost, the original police report.
 - If you are in jail or being deported, Immigration's letter.
-- A copy of the Special Pass (a pass from Immigration; a worker whose passport was held has been given one in its place) <sup>[N23 (2021)](#n23)</sup>.
+- A copy of the Special Pass (a pass from Immigration; a worker whose passport was held has been given one in its place) <sup>[N25 (2021)](#n25)</sup>.
 - A letter from the company or employer.
 - 3 passport-size photos.
 
@@ -1508,7 +1509,7 @@ WEWB's death grant needs BMET emigration clearance or Board membership, and deat
 ### 17.2 If you are injured or fall ill
 
 1. <a id="if-you-are-injured-or-fall-ill-item-1"></a>**Tell the employer within 7 days** and claim within 6 months of the accident <sup>[108 (1984)](#o108)</sup>. The employer may, and if the Labour Commissioner directs must, offer a free medical examination within 5 days of the notice <sup>[108 (1984)](#o108)</sup>.
-2. <a id="if-you-are-injured-or-fall-ill-item-2"></a>**Compensation in Brunei.** Under the 1984 text of Cap 74, permanent total incapacity pays 60 months' earnings or BND 36,000, whichever is less, but at least BND 12,000; permanent partial incapacity a proportionate share; temporary incapacity, a periodic payment of two-thirds of monthly earnings, capped at BND 400 a month, less whatever the worker can still earn <sup>[108 (1984)](#o108)</sup>. An insurer's 2021 policy sheet still cites the 1984 edition and also covers medical expenses up to BND 10,000 per worker, at government hospitals and clinics only <sup>[N57 (2021)](#n57)</sup>. The money is paid into the Labour Commissioner's hands, not straight to the worker <sup>[108 (1984)](#o108)</sup>.
+2. <a id="if-you-are-injured-or-fall-ill-item-2"></a>**Compensation in Brunei.** Under the 1984 text of Cap 74, permanent total incapacity pays 60 months' earnings or BND 36,000, whichever is less, but at least BND 12,000; permanent partial incapacity a proportionate share; temporary incapacity, a periodic payment of two-thirds of monthly earnings, capped at BND 400 a month, less whatever the worker can still earn <sup>[108 (1984)](#o108)</sup>. An insurer's 2021 policy sheet still cites the 1984 edition and also covers medical expenses up to BND 10,000 per worker, at government hospitals and clinics only <sup>[N61 (2021)](#n61)</sup>. The money is paid into the Labour Commissioner's hands, not straight to the worker <sup>[108 (1984)](#o108)</sup>.
 3. <a id="if-you-are-injured-or-fall-ill-item-3"></a>**How the claim runs.** The company reports to the Labour Department; the Labour Department gets a medical report from RIPAS (Raja Isteri Pengiran Anak Saleha Hospital, the main government hospital) or the treating hospital and assesses it; the High Commission helps; and the money is sent to the beneficiary in Bangladesh through Brunei's Foreign Ministry and its High Commission in Dhaka <sup>[109](#o109)</sup>.
 4. <a id="if-you-are-injured-or-fall-ill-item-4"></a>**Hospital visits.** The High Commission made 30 hospital visits to Bangladeshis in 2024, 25 in 2025 and 6 in 2026 to October <sup>[110](#o110)</sup>.
 5. <a id="if-you-are-injured-or-fall-ill-item-5"></a>**Going home sick or injured.** On the worker's or family's application, WEWB asks the High Commission to bring the worker home <sup>[111](#o111)</sup>. A free ambulance from Dhaka and Chattogram airports takes sick or injured returnees on request <sup>[112](#o112)</sup>.
@@ -1524,7 +1525,7 @@ WEWB's death grant needs BMET emigration clearance or Board membership, and deat
 ### 17.3 If a worker dies
 
 1. <a id="if-a-worker-dies-item-1"></a>**Death compensation.** For a death at work, on the road or by killing, the legal heirs give the High Commission a power of attorney; the mission's enlisted lawyer takes the case to court; the cheque is paid into the mission's account and sent to WEWB, which pays the heirs <sup>[109](#o109)</sup>. For a government Workmen's Compensation case, the Labour Department process in If you are injured or fall ill, item 3, applies <sup>[109](#o109)</sup>. Under the 1984 text of Cap 74, a worker's wholly dependent family gets 48 months' earnings or BND 28,000, whichever is less, but at least BND 9,600; the employer also pays reasonable burial and medical expenses <sup>[108 (1984)](#o108)</sup>. A death claim must be made within 6 months of the death <sup>[108 (1984)](#o108)</sup>.
-2. <a id="if-a-worker-dies-item-2"></a>**Body home or burial in Brunei.** The family applies to WEWB, which takes the family's choice (body home or local burial) to the High Commission <sup>[115](#o115), [116](#o116)</sup>. The Ministry also brings home the bodies of irregular, undocumented and destitute workers: the next of kin applies with what happened, the cause of death, proof of status and the death certificate; free, 7 working days <sup>[60](#o60)</sup>. Bringing a body home from Brunei costs around Tk 4.5 lakh, the High Commission's First Secretary (Labour) said in April 2024 <sup>[N38 (2024)](#n38)</sup>. The High Commission repatriated 14 bodies in 2024, 16 in 2025 and 8 in 2026 to 22 October <sup>[N57 (2021)](#n57)</sup>.
+2. <a id="if-a-worker-dies-item-2"></a>**Body home or burial in Brunei.** The family applies to WEWB, which takes the family's choice (body home or local burial) to the High Commission <sup>[115](#o115), [116](#o116)</sup>. The Ministry also brings home the bodies of irregular, undocumented and destitute workers: the next of kin applies with what happened, the cause of death, proof of status and the death certificate; free, 7 working days <sup>[60](#o60)</sup>. Bringing a body home from Brunei costs around Tk 4.5 lakh, the High Commission's First Secretary (Labour) said in April 2024 <sup>[N42 (2024)](#n42)</sup>. The High Commission repatriated 14 bodies in 2024, 16 in 2025 and 8 in 2026 to 22 October <sup>[N61 (2021)](#n61)</sup>.
 3. <a id="if-a-worker-dies-item-3"></a>**At the airport: Tk 35,000.** For every body that arrives, the airport welfare desk gives the family a Tk 35,000 cheque for transport and burial, collectable within 3 months <sup>[12](#o12), [117](#o117)</sup>. You'll need <sup>[118](#o118)</sup>:
    - The deceased's passport copy.
    - A heirship certificate from the local chairman or commissioner.
@@ -1541,7 +1542,7 @@ WEWB's death grant needs BMET emigration clearance or Board membership, and deat
 
 #### 17.3.1 What happens in practice
 
-A Bangladeshi worker who died in 2022 while being treated at RIPAS, undocumented, left an unpaid hospital bill of about Tk 16 lakh; the employer paid nothing, no insurance claim was possible, and his body stayed in the hospital morgue for more than two years <sup>[N38 (2024)](#n38), [N58 (2022)](#n58)</sup>. After Ain O Salish Kendra (a Bangladeshi human rights organisation) appealed to the Ministry, the High Commission got the bill waived and the Ministry paid to fly the body home in April 2024 <sup>[N38 (2024)](#n38)</sup>. In 2022 his widow had written to WEWB's director general and was told only that the High Commission had been asked to look into it <sup>[N58 (2022)](#n58)</sup>.
+A Bangladeshi worker who died in 2022 while being treated at RIPAS, undocumented, left an unpaid hospital bill of about Tk 16 lakh; the employer paid nothing, no insurance claim was possible, and his body stayed in the hospital morgue for more than two years <sup>[N42 (2024)](#n42), [N62 (2022)](#n62)</sup>. After Ain O Salish Kendra (a Bangladeshi human rights organisation) appealed to the Ministry, the High Commission got the bill waived and the Ministry paid to fly the body home in April 2024 <sup>[N42 (2024)](#n42)</sup>. In 2022 his widow had written to WEWB's director general and was told only that the High Commission had been asked to look into it <sup>[N62 (2022)](#n62)</sup>.
 
 > **Need to know**
 > - Of what causes do Bangladeshis in Brunei die, and how many are buried in Brunei rather than sent home?
@@ -1598,7 +1599,7 @@ Bangladesh's Non-tourist Passenger Baggage Rules 2025 set what a returning worke
 
 ### 18.2 Support after return
 
-1. <a id="support-after-return-item-1"></a>**PKB rehabilitation loan.** Returnees starting a project can borrow up to Tk 50 lakh (up to Tk 3 lakh without collateral) from Probashi Kallyan Bank, with a 0.50% processing fee and a 0.50% documentation fee, each at most Tk 15,000 <sup>[126](#o126)</sup>. You need an updated trade licence, project details, a guarantor and the papers of your return <sup>[126](#o126)</sup>. In 2021 only about 2% of pandemic returnees got PKB's special reintegration loan, and a returnee said its conditions put him off <sup>[N59 (2021)](#n59)</sup>. PKB helpline: 16238, +880 9677-787878 from abroad <sup>[126](#o126)</sup>.
+1. <a id="support-after-return-item-1"></a>**PKB rehabilitation loan.** Returnees starting a project can borrow up to Tk 50 lakh (up to Tk 3 lakh without collateral) from Probashi Kallyan Bank, with a 0.50% processing fee and a 0.50% documentation fee, each at most Tk 15,000 <sup>[126](#o126)</sup>. You need an updated trade licence, project details, a guarantor and the papers of your return <sup>[126](#o126)</sup>. In 2021 only about 2% of pandemic returnees got PKB's special reintegration loan, and a returnee said its conditions put him off <sup>[N63 (2021)](#n63)</sup>. PKB helpline: 16238, +880 9677-787878 from abroad <sup>[126](#o126)</sup>.
 2. <a id="support-after-return-item-2"></a>**WEWB reintegration help.** WEWB's World Bank-funded RAISE (Recovery and Advancement of Informal Sector Employment) project gave returnees cash incentives, self-employment help and training until June 2026 <sup>[127](#o127), [120 (2024)](#o120)</sup>.
 
    > **Need to know**
@@ -1621,7 +1622,7 @@ Bangladesh's Non-tourist Passenger Baggage Rules 2025 set what a returning worke
   - Labour wing: Administrative Officer (Labour) Md Ekhlas Uddin, 2342420 extension 104, labourwingbrunei@gmail.com <sup>[59](#o59)</sup>. WEWB lists the First Secretary (Labour) on +673 2342460, fsbrunei@probashi.gov.bd <sup>[16](#o16)</sup>.
   - Legal Assistant: 2342420 <sup>[59](#o59)</sup>.
 - **High Commission consular camps:** held outside the capital, for example in Seria (Seria Plaza, Jalan Sultan Omar Ali, 2nd floor) on 6 November 2026, 4-9 pm, for workers in Lumut, Seria and Kuala Belait: e-passports, attestation, birth registration and advice <sup>[131](#o131)</sup>.
-- **Labour Department, Labour Enforcement Division:** 2381848 (office hours), 7298989 (after hours, also WhatsApp), led@buruh.gov.bn or info.buruh@buruh.gov.bn; online complaints at nlms.gov.bn; Jalan Dewan Majlis, Bandar Seri Begawan BS3910 <sup>[36 (2024)](#o36), [N32](#n32), [N31](#n31), [15](#o15)</sup>.
+- **Labour Department, Labour Enforcement Division:** 2381848 (office hours), 7298989 (after hours, also WhatsApp), led@buruh.gov.bn or info.buruh@buruh.gov.bn; online complaints at nlms.gov.bn; Jalan Dewan Majlis, Bandar Seri Begawan BS3910 <sup>[36 (2024)](#o36), [N36](#n36), [N34](#n34), [15](#o15)</sup>.
 - **Immigration and National Registration Department (INRD):** Jalan Menteri Besar, Bandar Seri Begawan BB3910; +673 7299550; info@immigration.gov.bn; hotline 8734888 or 8753888 for reporting immigration offences <sup>[132](#o132)</sup>.
 - **Police:** 993 <sup>[133](#o133), [92](#o92)</sup>.
 - **Ambulance:** 991; fire and rescue 995; search and rescue 998 <sup>[133](#o133)</sup>.
@@ -1653,7 +1654,7 @@ House No. 26, Road No. 6, Baridhara, Dhaka-1212; Sunday-Thursday 8:30 am-1:00 pm
 - **JBC (migrant insurance):** Group Insurance Division, 24 Motijheel C/A, Dhaka-1000; 02-223381423, 41052772; gid@jbc.gov.bd <sup>[47 (2024)](#o47)</sup>.
 - **Airport welfare desks:** see [Coming home](#coming-home), item 2 <sup>[118](#o118)</sup>.
 - **National Pension Authority:** 16131, +88 09610 900800 <sup>[100](#o100)</sup>.
-- **bKash:** 16247 <sup>[N53](#n53)</sup>.
+- **bKash:** 16247 <sup>[N57](#n57)</sup>.
 
 <a id="references"></a>
 
@@ -1819,48 +1820,52 @@ These facts come only from news or third-party sources. Each needs an official s
 - <a id="n12"></a>N12. The Star (Borneo Bulletin/ANN), 25 Aug 2026. [Immigration inspections in Brunei uncover multiple offences nationwide](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/25/immigration-inspections-in-brunei-uncover-multiple-offences-nationwide). Accessed 19 Nov 2026.
 - <a id="n13"></a>N13. The Star (Borneo Bulletin/ANN), 14 Jul 2026. [Five foreigners jailed for overstaying in Brunei](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/14/five-foreigners-jailed-for-overstaying-in-brunei). Accessed 19 Nov 2026.
 - <a id="n14"></a>N14. The Star (Borneo Bulletin/ANN), 2 May 2026. [Two foreigners jailed, caned for overstaying in Brunei](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/05/02/two-foreigners-jailed-caned-for-overstaying-in-brunei). Accessed 19 Nov 2026.
-- <a id="n15"></a>N15. Bangla Tribune, 24 Aug 2026. [Bangladesh theke kormi nebe Brunei (BOESL Brunei circular, 172 workers)](https://www.banglatribune.com/jobs/964329/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80-%E0%A6%A8%E0%A7%87%E0%A6%AC%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A8%E0%A6%BE%E0%A6%87). Accessed 19 Nov 2026.
-- <a id="n16"></a>N16. BSS (Bangladesh Sangbad Sangstha), 29 Jul 2026. [Shama seeks more jobs for Bangladesh workers in Brunei](https://www.bssnews.net/news/409941). Accessed 19 Nov 2026.
-- <a id="n17"></a>N17. Bangladesh Monitor, 4 Nov 2026. [Bangladesh offers to provide more skilled workers to Brunei](https://www.bangladeshmonitor.com.bd/en/bangladesh-offers-to-provide-more-skilled-workers-to-brunei). Accessed 19 Nov 2026.
-- <a id="n18"></a>N18. Daily Waadaa, 18 Nov 2026. [Several countries halted recruitment from Bangladesh due to syndicates under ousted autocratic regime, PM says](https://www.dailywaadaa.com/bangladesh/2026/11/18/several-countries-halted-recruitment-from-bangladesh-due-to-syndicates-under-ousted-autocratic-regime-pm-says). Accessed 19 Nov 2026.
-- <a id="n19"></a>N19. The Star (Borneo Bulletin/ANN), 12 Sep 2025. [Brunei stresses the role of origin countries in preventing labour trafficking](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/09/12/brunei-stresses-the-role-of-origin-countries-in-preventing-labour-trafficking). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n20"></a>N20. US Department of State, 26 Oct 2026. [2026 Trafficking in Persons Report: Brunei](https://www.state.gov/reports/2026-trafficking-in-persons-report/brunei). Accessed 19 Nov 2026.
-- <a id="n21"></a>N21. The Star (Borneo Bulletin/ANN), 16 Nov 2026. [Employer in Brunei investigated over four labour offences](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/16/employer-in-brunei-investigated-over-four-labour-offences). Accessed 19 Nov 2026.
-- <a id="n22"></a>N22. The Financial Express, 5 Sep 2024. [Brunei starts worker recruitment under G2G arrangement](https://today.thefinancialexpress.com.bd/last-page/brunei-starts-worker-recruitment-under-g2g-arrangement-1725559258). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n23"></a>N23. The Financial Express, 30 Oct 2021. [Many Bangladeshi migrants suffering in Brunei](https://thefinancialexpress.com.bd/home/many-bangladeshi-migrants-suffering-in-brunei-1635566166). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n24"></a>N24. The Star (Borneo Bulletin/ANN), 6 Mar 2025. [Foreign worker statistics highlight sectoral dependence in Brunei](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/03/06/foreign-worker-statistics-highlight-sectoral-dependence-in-brunei). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n25"></a>N25. bdnews24.com (Thomson Reuters Foundation), 4 Oct 2019. [Bangladesh asks Brunei to deport suspects in human trafficking ring](https://bdnews24.com/bangladesh/bangladesh-asks-brunei-to-deport-suspects-in-human-trafficking-ring). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n26"></a>N26. The Daily Star Bangla, 6 Oct 2022. [ব্রুনাই চায় কর্মী, বাংলাদেশ তেল](https://bangla.thedailystar.net/news/bangladesh/news-401256). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n27"></a>N27. Borneo Bulletin, 31 Mar 2022. [Updates on foreign worker licence application, renewal](https://borneobulletin.com.bn/updates-on-foreign-worker-licence-application-renewal). Accessed 19 Nov 2026. Archived copy, Wayback Machine, 29 Jul 2024: [https://web.archive.org/web/20240729004824/https://borneobulletin.com.bn/updates-on-foreign-worker-licence-application-renewal/](https://web.archive.org/web/20240729004824/https://borneobulletin.com.bn/updates-on-foreign-worker-licence-application-renewal/). Possibly outdated.
-- <a id="n28"></a>N28. The Financial Express, 18 May 2022. [Push to ensure rights of BD workers in Brunei](https://today.thefinancialexpress.com.bd/print/push-to-ensure-rights-of-bd-workers-in-brunei-1652896123). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n29"></a>N29. Business Insider Bangladesh, 15 Jul 2021. [Bangladeshi migrants: exploitation, abuse in Brunei](https://www.businessinsiderbd.com/economy/news/7877/bangladeshi-migrants-exploitation-abuse-in-brunei). Accessed 19 Nov 2026. Archived copy, Wayback Machine, 14 Jan 2026: [https://web.archive.org/web/20260114013205/https://www.businessinsiderbd.com/economy/news/7877/bangladeshi-migrants-exploitation-abuse-in-brunei](https://web.archive.org/web/20260114013205/https://www.businessinsiderbd.com/economy/news/7877/bangladeshi-migrants-exploitation-abuse-in-brunei). Possibly outdated.
-- <a id="n30"></a>N30. The Daily Star, May 2015. [Penniless, they return from Brunei](https://www.thedailystar.net/top-news/penniless-they-return-brunei-82268). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n31"></a>N31. The Star (Borneo Bulletin/ANN), 19 Feb 2025. [Brunei's second phase of minimum wage policy covers more industries from April 2025](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/02/19/brunei039s-second-phase-of-minimum-wage-policy-covers-more-industries-from-april-2025). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n32"></a>N32. The Star (Borneo Bulletin/ANN), 14 Sep 2026. [Five Employment Act offences uncovered during Brunei enforcement operation](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/14/five-employment-act-offences-uncovered-during-brunei-enforcement-operation). Accessed 19 Nov 2026.
-- <a id="n33"></a>N33. Borneo Bulletin, 28 May 2022. [Four foreign workers nabbed for immigration violations](https://borneobulletin.com.bn/four-foreign-workers-nabbed-for-immigration-violations). Accessed 19 Nov 2026. Archived copy, Wayback Machine, 30 Jul 2024: [https://web.archive.org/web/20240730033923/https://borneobulletin.com.bn/four-foreign-workers-nabbed-for-immigration-violations/](https://web.archive.org/web/20240730033923/https://borneobulletin.com.bn/four-foreign-workers-nabbed-for-immigration-violations/). Possibly outdated.
-- <a id="n34"></a>N34. The Star (Borneo Bulletin/ANN), 1 Sep 2025. [Two Brunei employers fined for failing to pay foreign workers' salaries](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/09/01/two-brunei-employers-fined-for-failing-to-pay-foreign-workers-salaries). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n35"></a>N35. The Star (Borneo Bulletin/ANN), 2 Nov 2024. [Five Bangladeshis jailed for overstaying and immigration violations in Brunei](https://thestar.com.my/aseanplus/aseanplus-news/2024/11/02/five-bangladeshis-hailed-for-overstaying-and-immigration-violations-in-brunei). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n36"></a>N36. The Star (Borneo Bulletin/ANN), 12 Feb 2026. [Brunei's Immigration raids uncover overstaying and labour offences](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/02/12/brunei039s-immigration-raids-uncover-overstaying-and-labour-offences). Accessed 19 Nov 2026.
-- <a id="n37"></a>N37. The Star (Borneo Bulletin/ANN), 22 Dec 2023. [Brunei detains 18 Bangladeshis in joint raid against illegals](https://www.thestar.com.my/aseanplus/aseanplus-news/2023/12/22/brunei-detains-18-bangladeshis-in-joint-raid-against-illegals). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n38"></a>N38. The Business Standard, 25 Apr 2024. ['Owner didn't pay hospital bill': Expatriate's body to finally come home from Brunei 2.5 years after death](https://www.tbsnews.net/node/836591). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n39"></a>N39. The Vibes (Bernama), 26 Jan 2023. [Brunei to implement auto registration of foreign nationals from Feb 9](https://www.thevibes.com/articles/news/83870/brunei-to-implement-auto-registration-of-foreign-nationals-from-feb-9). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n40"></a>N40. The Financial Express, 17 Oct 2022. [Brunei urged to remove hurdles to recruiting BD workers](https://today.thefinancialexpress.com.bd/print/brunei-urged-to-remove-hurdles-to-recruiting-bd-workers-1665932948). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n41"></a>N41. The Star (Borneo Bulletin/ANN), 10 Jun 2026. [Labour raid uncovers wage, leave violations affecting 16 workers in Belait](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/10/labour-raid-uncovers-wage-leave-violations-affecting-16-workers-in-belait). Accessed 19 Nov 2026.
-- <a id="n42"></a>N42. DST (Datastream Digital). [Easi Prepaid SIM](https://dst.com.bn/easi/). Accessed 19 Nov 2026. Undated: possibly outdated.
-- <a id="n43"></a>N43. Bank Islam Brunei Darussalam (BIBD), 10 Jun 2026. [General Saver](https://bibd.com.bn/personal-banking/accounts/general-saver/). Accessed 19 Nov 2026. Archived copy, Wayback Machine, 10 Jun 2026: [https://web.archive.org/web/20260610113619/https://bibd.com.bn/personal-banking/accounts/general-saver/](https://web.archive.org/web/20260610113619/https://bibd.com.bn/personal-banking/accounts/general-saver/).
-- <a id="n44"></a>N44. The Business Standard (Thomson Reuters Foundation), 5 Oct 2019. [Bangladesh asks Brunei to deport suspects in human trafficking ring](https://www.tbsnews.net/bangladesh/bangladesh-asks-brunei-deport-suspects-human-trafficking-ring). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n45"></a>N45. The Star (Borneo Bulletin/ANN), 16 Apr 2026. [Two Bangladeshis jailed, caned for overstaying in Brunei](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/04/16/two-bangladeshis-jailed-caned-for-overstaying-in-brunei). Accessed 19 Nov 2026.
-- <a id="n46"></a>N46. Institute of Asian Studies, Universiti Brunei Darussalam, 2015. [Domestic Maids in Brunei: A Case Study (Working Paper 14)](https://ias.ubd.edu.bn/wp-content/uploads/2020/12/working_paper_series_14.pdf). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n47"></a>N47. Borneo Bulletin, 10 Jul 2025. [Mandatory insurance policy for foreign nationals enforced](https://borneobulletin.com.bn/mandatory-insurance-policy-for-foreign-nationals-enforced/). Accessed 19 Nov 2026. Archived copy, Wayback Machine, 23 Jul 2025: [https://web.archive.org/web/20250723133445/https://borneobulletin.com.bn/mandatory-insurance-policy-for-foreign-nationals-enforced/](https://web.archive.org/web/20250723133445/https://borneobulletin.com.bn/mandatory-insurance-policy-for-foreign-nationals-enforced/). Possibly outdated.
-- <a id="n48"></a>N48. The Star (Borneo Bulletin/ANN), 9 Sep 2026. [Two foreign nationals detained in Brunei immigration enforcement operations](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/09/two-foreign-nationals-detained-in-brunei-immigration-enforcement-operations). Accessed 19 Nov 2026.
-- <a id="n49"></a>N49. The Star (Borneo Bulletin/ANN), 22 Oct 2024. [Bangladeshi man gets jail and whipping for overstaying in Brunei](https://thestar.com.my/aseanplus/aseanplus-news/2024/10/22/bangladeshi-man-gets-jail-and-whipping-for-overstaying-in-brunei). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n50"></a>N50. The Star, 12 Jan 2026. [Bangladeshi sentenced for immigration offence in Brunei](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/01/12/bangladeshi-sentenced-for-immigration-offence-in-brunei). Accessed 19 Nov 2026.
-- <a id="n51"></a>N51. BruneiResources.com, 2005. [Foreign Workers to Brunei](https://www.bruneiresources.com/foreignworkers.html). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n52"></a>N52. Statelessness Network Asia Pacific and partners, 2019. [Joint submission to the Human Rights Council, 33rd UPR session: Brunei Darussalam](https://seap.nationalityforall.org/wp-content/uploads/2024/04/UPR33_Brunei_Darussalam.pdf). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n53"></a>N53. bKash Limited. [Money Transfer Service (remittance to bKash, list of partner countries)](https://www.bkash.com/en/products-services/remittance/money-transfer-service). Accessed 11 Nov 2026. Undated: possibly outdated.
-- <a id="n54"></a>N54. Nagad (Bangladesh Post Office digital financial service). [Remittance (partner MTO list)](https://nagad.com.bd/en/services/?service=remittance). Accessed 19 Nov 2026. Undated: possibly outdated.
-- <a id="n55"></a>N55. The Star (Malaysia), 5 Oct 2024. [Brunei central bank's licensee directed to cease receiving money for remittance](https://thestar.com.my/aseanplus/aseanplus-news/2024/10/05/brunei-central-bank039s-licensee-directed-to-cease-receiving-money-for-remittance). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n56"></a>N56. PwC Worldwide Tax Summaries, 3 Aug 2026. [Brunei Darussalam: Individual - Other taxes](https://taxsummaries.pwc.com/brunei-darussalam/individual/other-taxes). Accessed 19 Nov 2026.
-- <a id="n57"></a>N57. Tokio Marine Insurance Singapore Ltd (Brunei Branch), 1 Jan 2021. [Workmen's Compensation: Product Disclosure Sheet](https://www.tokiomarine.com/content/dam/tokiomarine/sg/non-life/Brunei-Branch/forms-download/TM%20WC%20Product%20Disclosure%20Sheet.pdf). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n58"></a>N58. Dhaka Tribune, 18 Aug 2022. [Bangladeshi expatriate's body lying at Brunei hospital for 7 months](https://www.dhakatribune.com/amp/bangladesh/292532/bangladeshi-expatriate%E2%80%99s-body-lying-at-brunei). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n59"></a>N59. The Business Standard, 2 Jun 2021. [Only 2% returnee migrants received reintegration loan](https://www.tbsnews.net/bangladesh/migration/only-2-returnee-migrants-received-reintegration-loan-254932). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n15"></a>N15. Prothom Alo, 12 May 2026. [বোয়েসেলের মাধ্যমে নির্মাণশ্রমিক নেবে ব্রুনাই, অভিজ্ঞতার প্রয়োজন নেই](https://www.prothomalo.com/chakri/employment/0l5y75n79o). Accessed 23 Nov 2026.
+- <a id="n16"></a>N16. Bangla Tribune, 24 Aug 2026. [Bangladesh theke kormi nebe Brunei (BOESL Brunei circular, 172 workers)](https://www.banglatribune.com/jobs/964329/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80-%E0%A6%A8%E0%A7%87%E0%A6%AC%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A8%E0%A6%BE%E0%A6%87). Accessed 19 Nov 2026.
+- <a id="n17"></a>N17. Prothom Alo, 23 Sep 2026. [সরকারিভাবে ব্রুনেইয়ে চাকরি, নেবে ২৭৯ জন](https://www.prothomalo.com/chakri/employment/0p4d6pc6vl). Accessed 23 Nov 2026.
+- <a id="n18"></a>N18. BSS (Bangladesh Sangbad Sangstha), 29 Jul 2026. [Shama seeks more jobs for Bangladesh workers in Brunei](https://www.bssnews.net/news/409941). Accessed 19 Nov 2026.
+- <a id="n19"></a>N19. Bangladesh Monitor, 4 Nov 2026. [Bangladesh offers to provide more skilled workers to Brunei](https://www.bangladeshmonitor.com.bd/en/bangladesh-offers-to-provide-more-skilled-workers-to-brunei). Accessed 19 Nov 2026.
+- <a id="n20"></a>N20. Daily Waadaa, 18 Nov 2026. [Several countries halted recruitment from Bangladesh due to syndicates under ousted autocratic regime, PM says](https://www.dailywaadaa.com/bangladesh/2026/11/18/several-countries-halted-recruitment-from-bangladesh-due-to-syndicates-under-ousted-autocratic-regime-pm-says). Accessed 19 Nov 2026.
+- <a id="n21"></a>N21. The Star (Borneo Bulletin/ANN), 12 Sep 2025. [Brunei stresses the role of origin countries in preventing labour trafficking](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/09/12/brunei-stresses-the-role-of-origin-countries-in-preventing-labour-trafficking). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n22"></a>N22. US Department of State, 26 Oct 2026. [2026 Trafficking in Persons Report: Brunei](https://www.state.gov/reports/2026-trafficking-in-persons-report/brunei). Accessed 19 Nov 2026.
+- <a id="n23"></a>N23. The Star (Borneo Bulletin/ANN), 16 Nov 2026. [Employer in Brunei investigated over four labour offences](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/16/employer-in-brunei-investigated-over-four-labour-offences). Accessed 19 Nov 2026.
+- <a id="n24"></a>N24. The Financial Express, 5 Sep 2024. [Brunei starts worker recruitment under G2G arrangement](https://today.thefinancialexpress.com.bd/last-page/brunei-starts-worker-recruitment-under-g2g-arrangement-1725559258). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n25"></a>N25. The Financial Express, 30 Oct 2021. [Many Bangladeshi migrants suffering in Brunei](https://thefinancialexpress.com.bd/home/many-bangladeshi-migrants-suffering-in-brunei-1635566166). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n26"></a>N26. Prothom Alo, 9 Nov 2024. [ব্রুনাই নেবে ১০০ কর্মী, মিলবে থাকা ও বিমানভাড়া](https://www.prothomalo.com/chakri/employment/qibca7l1a3). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n27"></a>N27. The Star (Borneo Bulletin/ANN), 6 Mar 2025. [Foreign worker statistics highlight sectoral dependence in Brunei](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/03/06/foreign-worker-statistics-highlight-sectoral-dependence-in-brunei). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n28"></a>N28. bdnews24.com (Thomson Reuters Foundation), 4 Oct 2019. [Bangladesh asks Brunei to deport suspects in human trafficking ring](https://bdnews24.com/bangladesh/bangladesh-asks-brunei-to-deport-suspects-in-human-trafficking-ring). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n29"></a>N29. The Daily Star Bangla, 6 Oct 2022. [ব্রুনাই চায় কর্মী, বাংলাদেশ তেল](https://bangla.thedailystar.net/news/bangladesh/news-401256). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n30"></a>N30. Borneo Bulletin, 31 Mar 2022. [Updates on foreign worker licence application, renewal](https://borneobulletin.com.bn/updates-on-foreign-worker-licence-application-renewal). Accessed 19 Nov 2026. Archived copy, Wayback Machine, 29 Jul 2024: [https://web.archive.org/web/20240729004824/https://borneobulletin.com.bn/updates-on-foreign-worker-licence-application-renewal/](https://web.archive.org/web/20240729004824/https://borneobulletin.com.bn/updates-on-foreign-worker-licence-application-renewal/). Possibly outdated.
+- <a id="n31"></a>N31. The Financial Express, 18 May 2022. [Push to ensure rights of BD workers in Brunei](https://today.thefinancialexpress.com.bd/print/push-to-ensure-rights-of-bd-workers-in-brunei-1652896123). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n32"></a>N32. Business Insider Bangladesh, 15 Jul 2021. [Bangladeshi migrants: exploitation, abuse in Brunei](https://www.businessinsiderbd.com/economy/news/7877/bangladeshi-migrants-exploitation-abuse-in-brunei). Accessed 19 Nov 2026. Archived copy, Wayback Machine, 14 Jan 2026: [https://web.archive.org/web/20260114013205/https://www.businessinsiderbd.com/economy/news/7877/bangladeshi-migrants-exploitation-abuse-in-brunei](https://web.archive.org/web/20260114013205/https://www.businessinsiderbd.com/economy/news/7877/bangladeshi-migrants-exploitation-abuse-in-brunei). Possibly outdated.
+- <a id="n33"></a>N33. The Daily Star, May 2015. [Penniless, they return from Brunei](https://www.thedailystar.net/top-news/penniless-they-return-brunei-82268). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n34"></a>N34. The Star (Borneo Bulletin/ANN), 19 Feb 2025. [Brunei's second phase of minimum wage policy covers more industries from April 2025](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/02/19/brunei039s-second-phase-of-minimum-wage-policy-covers-more-industries-from-april-2025). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n35"></a>N35. Prothom Alo, 20 Aug 2026. [সরকারিভাবে ব্রুনাইয়ে চাকরির সুযোগ, পদ ১৭২](https://www.prothomalo.com/chakri/employment/nysycytzq5). Accessed 23 Nov 2026.
+- <a id="n36"></a>N36. The Star (Borneo Bulletin/ANN), 14 Sep 2026. [Five Employment Act offences uncovered during Brunei enforcement operation](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/14/five-employment-act-offences-uncovered-during-brunei-enforcement-operation). Accessed 19 Nov 2026.
+- <a id="n37"></a>N37. Borneo Bulletin, 28 May 2022. [Four foreign workers nabbed for immigration violations](https://borneobulletin.com.bn/four-foreign-workers-nabbed-for-immigration-violations). Accessed 19 Nov 2026. Archived copy, Wayback Machine, 30 Jul 2024: [https://web.archive.org/web/20240730033923/https://borneobulletin.com.bn/four-foreign-workers-nabbed-for-immigration-violations/](https://web.archive.org/web/20240730033923/https://borneobulletin.com.bn/four-foreign-workers-nabbed-for-immigration-violations/). Possibly outdated.
+- <a id="n38"></a>N38. The Star (Borneo Bulletin/ANN), 1 Sep 2025. [Two Brunei employers fined for failing to pay foreign workers' salaries](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/09/01/two-brunei-employers-fined-for-failing-to-pay-foreign-workers-salaries). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n39"></a>N39. The Star (Borneo Bulletin/ANN), 2 Nov 2024. [Five Bangladeshis jailed for overstaying and immigration violations in Brunei](https://thestar.com.my/aseanplus/aseanplus-news/2024/11/02/five-bangladeshis-hailed-for-overstaying-and-immigration-violations-in-brunei). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n40"></a>N40. The Star (Borneo Bulletin/ANN), 12 Feb 2026. [Brunei's Immigration raids uncover overstaying and labour offences](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/02/12/brunei039s-immigration-raids-uncover-overstaying-and-labour-offences). Accessed 19 Nov 2026.
+- <a id="n41"></a>N41. The Star (Borneo Bulletin/ANN), 22 Dec 2023. [Brunei detains 18 Bangladeshis in joint raid against illegals](https://www.thestar.com.my/aseanplus/aseanplus-news/2023/12/22/brunei-detains-18-bangladeshis-in-joint-raid-against-illegals). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n42"></a>N42. The Business Standard, 25 Apr 2024. ['Owner didn't pay hospital bill': Expatriate's body to finally come home from Brunei 2.5 years after death](https://www.tbsnews.net/node/836591). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n43"></a>N43. The Vibes (Bernama), 26 Jan 2023. [Brunei to implement auto registration of foreign nationals from Feb 9](https://www.thevibes.com/articles/news/83870/brunei-to-implement-auto-registration-of-foreign-nationals-from-feb-9). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n44"></a>N44. The Financial Express, 17 Oct 2022. [Brunei urged to remove hurdles to recruiting BD workers](https://today.thefinancialexpress.com.bd/print/brunei-urged-to-remove-hurdles-to-recruiting-bd-workers-1665932948). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n45"></a>N45. The Star (Borneo Bulletin/ANN), 10 Jun 2026. [Labour raid uncovers wage, leave violations affecting 16 workers in Belait](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/10/labour-raid-uncovers-wage-leave-violations-affecting-16-workers-in-belait). Accessed 19 Nov 2026.
+- <a id="n46"></a>N46. DST (Datastream Digital). [Easi Prepaid SIM](https://dst.com.bn/easi/). Accessed 19 Nov 2026. Undated: possibly outdated.
+- <a id="n47"></a>N47. Bank Islam Brunei Darussalam (BIBD), 10 Jun 2026. [General Saver](https://bibd.com.bn/personal-banking/accounts/general-saver/). Accessed 19 Nov 2026. Archived copy, Wayback Machine, 10 Jun 2026: [https://web.archive.org/web/20260610113619/https://bibd.com.bn/personal-banking/accounts/general-saver/](https://web.archive.org/web/20260610113619/https://bibd.com.bn/personal-banking/accounts/general-saver/).
+- <a id="n48"></a>N48. The Business Standard (Thomson Reuters Foundation), 5 Oct 2019. [Bangladesh asks Brunei to deport suspects in human trafficking ring](https://www.tbsnews.net/bangladesh/bangladesh-asks-brunei-deport-suspects-human-trafficking-ring). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n49"></a>N49. The Star (Borneo Bulletin/ANN), 16 Apr 2026. [Two Bangladeshis jailed, caned for overstaying in Brunei](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/04/16/two-bangladeshis-jailed-caned-for-overstaying-in-brunei). Accessed 19 Nov 2026.
+- <a id="n50"></a>N50. Institute of Asian Studies, Universiti Brunei Darussalam, 2015. [Domestic Maids in Brunei: A Case Study (Working Paper 14)](https://ias.ubd.edu.bn/wp-content/uploads/2020/12/working_paper_series_14.pdf). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n51"></a>N51. Borneo Bulletin, 10 Jul 2025. [Mandatory insurance policy for foreign nationals enforced](https://borneobulletin.com.bn/mandatory-insurance-policy-for-foreign-nationals-enforced/). Accessed 19 Nov 2026. Archived copy, Wayback Machine, 23 Jul 2025: [https://web.archive.org/web/20250723133445/https://borneobulletin.com.bn/mandatory-insurance-policy-for-foreign-nationals-enforced/](https://web.archive.org/web/20250723133445/https://borneobulletin.com.bn/mandatory-insurance-policy-for-foreign-nationals-enforced/). Possibly outdated.
+- <a id="n52"></a>N52. The Star (Borneo Bulletin/ANN), 9 Sep 2026. [Two foreign nationals detained in Brunei immigration enforcement operations](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/09/two-foreign-nationals-detained-in-brunei-immigration-enforcement-operations). Accessed 19 Nov 2026.
+- <a id="n53"></a>N53. The Star (Borneo Bulletin/ANN), 22 Oct 2024. [Bangladeshi man gets jail and whipping for overstaying in Brunei](https://thestar.com.my/aseanplus/aseanplus-news/2024/10/22/bangladeshi-man-gets-jail-and-whipping-for-overstaying-in-brunei). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n54"></a>N54. The Star, 12 Jan 2026. [Bangladeshi sentenced for immigration offence in Brunei](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/01/12/bangladeshi-sentenced-for-immigration-offence-in-brunei). Accessed 19 Nov 2026.
+- <a id="n55"></a>N55. BruneiResources.com, 2005. [Foreign Workers to Brunei](https://www.bruneiresources.com/foreignworkers.html). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n56"></a>N56. Statelessness Network Asia Pacific and partners, 2019. [Joint submission to the Human Rights Council, 33rd UPR session: Brunei Darussalam](https://seap.nationalityforall.org/wp-content/uploads/2024/04/UPR33_Brunei_Darussalam.pdf). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n57"></a>N57. bKash Limited. [Money Transfer Service (remittance to bKash, list of partner countries)](https://www.bkash.com/en/products-services/remittance/money-transfer-service). Accessed 11 Nov 2026. Undated: possibly outdated.
+- <a id="n58"></a>N58. Nagad (Bangladesh Post Office digital financial service). [Remittance (partner MTO list)](https://nagad.com.bd/en/services/?service=remittance). Accessed 19 Nov 2026. Undated: possibly outdated.
+- <a id="n59"></a>N59. The Star (Malaysia), 5 Oct 2024. [Brunei central bank's licensee directed to cease receiving money for remittance](https://thestar.com.my/aseanplus/aseanplus-news/2024/10/05/brunei-central-bank039s-licensee-directed-to-cease-receiving-money-for-remittance). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n60"></a>N60. PwC Worldwide Tax Summaries, 3 Aug 2026. [Brunei Darussalam: Individual - Other taxes](https://taxsummaries.pwc.com/brunei-darussalam/individual/other-taxes). Accessed 19 Nov 2026.
+- <a id="n61"></a>N61. Tokio Marine Insurance Singapore Ltd (Brunei Branch), 1 Jan 2021. [Workmen's Compensation: Product Disclosure Sheet](https://www.tokiomarine.com/content/dam/tokiomarine/sg/non-life/Brunei-Branch/forms-download/TM%20WC%20Product%20Disclosure%20Sheet.pdf). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n62"></a>N62. Dhaka Tribune, 18 Aug 2022. [Bangladeshi expatriate's body lying at Brunei hospital for 7 months](https://www.dhakatribune.com/amp/bangladesh/292532/bangladeshi-expatriate%E2%80%99s-body-lying-at-brunei). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n63"></a>N63. The Business Standard, 2 Jun 2021. [Only 2% returnee migrants received reintegration loan](https://www.tbsnews.net/bangladesh/migration/only-2-returnee-migrants-received-reintegration-loan-254932). Accessed 7 Nov 2026. Possibly outdated.
