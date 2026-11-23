@@ -312,3 +312,8 @@ Still blocked: interno.gov.it ("Access Denied" even in your Chrome), VFS ("40320
 - 29 cross-references to "Work visa: Decreto Flussi worker (non-seasonal)", Step N are written with the section name in quotes: build.py's prefix regex rejects a name ending in ")", so unquoted ones linked to the citing section's own Step N (6 were wrong). A fix in tools/build.py would help every country.
 
 - 2026-11-17, insurance start date conflict: WEWB notice (ZZ0001, Jan 2026) says cover is for workers going from 1 January 2023; BMET's safe-migration leaflet (B0131, undated) says from 12 March 2023 (the date the JBC contract was signed; the JBC leaflet says the contract is effective from 1 January 2023). The doc follows the newer WEWB notice and asks the question as a Need to know.
+
+## Resolved (23 Nov 2026)
+
+- February 2025 "legal sending stopped" (PI0119) against BMET's 9,365 clearances for 2025 (B0004): a dated status snapshot against a full-year total; sending resumed later in the year. Both stay, dated.
+- The early-2025 chance for about 10,000 undocumented Bangladeshis to regularise by correcting passport details (PI0190) closed on 30 April 2025; the source gives no more detail. Kept as a dated sentence; the Need to know about it was dropped because the window has closed.
