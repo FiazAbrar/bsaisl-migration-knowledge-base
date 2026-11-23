@@ -1,0 +1,1483 @@
+<a id="illegal-routes"></a>
+
+# Illegal routes
+
+Sources checked up to 23 Nov 2026.
+
+The irregular routes people from Bangladesh are sold, what happens on them and how they end, and the law and help in Bangladesh, as of November 2026. Each country's own doc covers irregular entry to that country. A raised number such as 3 is an official source; N3 is a news, NGO (non-governmental organisation), research or guide source, listed under "Needs an official source"; a year, like N3 (2022), marks a source older than 2025. "Need to know" marks a point no source has yet confirmed.
+
+<a id="contents"></a>
+
+## Contents
+
+- [1 In one minute](#in-one-minute)
+- [2 Libya to Italy by boat](#libya-to-italy-by-boat)
+  - [2.1 How it is sold](#how-it-is-sold)
+  - [2.2 The contract price and the final price](#the-contract-price-and-the-final-price)
+  - [2.3 The path](#the-path)
+  - [2.4 Ransom and resale](#ransom-and-resale)
+  - [2.5 Held, jailed or missing](#held-jailed-or-missing)
+  - [2.6 Work in Libya](#work-in-libya)
+  - [2.7 Deaths](#deaths)
+  - [2.8 Arrival in Italy](#arrival-in-italy)
+  - [2.9 Coming home](#coming-home)
+  - [2.10 The numbers](#the-numbers)
+  - [2.11 The law](#the-law)
+  - [2.12 Where to get help](#where-to-get-help)
+- [3 From the Gulf overland through Iran and Turkey to Greece](#from-the-gulf-overland-through-iran-and-turkey-to-greece)
+  - [3.1 How it is sold](#how-it-is-sold-1)
+  - [3.2 The path](#the-path-1)
+  - [3.3 What happens](#what-happens)
+- [4 The Balkans and Eastern Europe](#the-balkans-and-eastern-europe)
+  - [4.1 How it is sold](#how-it-is-sold-2)
+  - [4.2 The path](#the-path-2)
+  - [4.3 What happens](#what-happens-1)
+  - [4.4 The numbers](#the-numbers-1)
+  - [4.5 The law](#the-law-1)
+  - [4.6 Where to get help](#where-to-get-help-1)
+- [5 The United States through South America and Mexico](#the-united-states-through-south-america-and-mexico)
+  - [5.1 How it is sold](#how-it-is-sold-3)
+  - [5.2 The path](#the-path-3)
+  - [5.3 What happens](#what-happens-2)
+  - [5.4 The numbers](#the-numbers-2)
+  - [5.5 The law](#the-law-2)
+  - [5.6 The visitor visa bond](#the-visitor-visa-bond)
+- [6 Visit and tourist visas sold as jobs](#visit-and-tourist-visas-sold-as-jobs)
+  - [6.1 How it is sold](#how-it-is-sold-4)
+  - [6.2 The path, country by country](#the-path-country-by-country)
+  - [6.3 The numbers](#the-numbers-3)
+  - [6.4 What happens](#what-happens-3)
+  - [6.5 The law](#the-law-3)
+  - [6.6 Where to get help](#where-to-get-help-2)
+- [7 Free visas and visa trading in the Gulf](#free-visas-and-visa-trading-in-the-gulf)
+  - [7.1 How it is sold](#how-it-is-sold-5)
+  - [7.2 What happens](#what-happens-4)
+  - [7.3 The law](#the-law-4)
+  - [7.4 The numbers](#the-numbers-4)
+  - [7.5 Where to get help](#where-to-get-help-3)
+- [8 Malaysia: boats and land crossings](#malaysia-boats-and-land-crossings)
+  - [8.1 How it is sold](#how-it-is-sold-6)
+  - [8.2 The path](#the-path-4)
+  - [8.3 What happens](#what-happens-5)
+  - [8.4 Cases](#cases)
+  - [8.5 The numbers](#the-numbers-5)
+  - [8.6 The law](#the-law-5)
+  - [8.7 Where to get help](#where-to-get-help-4)
+- [9 India: women and girls taken across the land border](#india-women-and-girls-taken-across-the-land-border)
+  - [9.1 How it is sold](#how-it-is-sold-7)
+  - [9.2 The path](#the-path-5)
+  - [9.3 What happens](#what-happens-6)
+  - [9.4 Cases](#cases-1)
+  - [9.5 The numbers](#the-numbers-6)
+  - [9.6 The law](#the-law-6)
+  - [9.7 Where to get help](#where-to-get-help-5)
+- [10 Cambodia, Myanmar and Laos: scam compounds](#cambodia-myanmar-and-laos-scam-compounds)
+  - [10.1 How it is sold](#how-it-is-sold-8)
+  - [10.2 The path](#the-path-6)
+  - [10.3 What happens](#what-happens-7)
+  - [10.4 Cases](#cases-2)
+  - [10.5 The numbers](#the-numbers-7)
+  - [10.6 The law](#the-law-7)
+  - [10.7 Where to get help](#where-to-get-help-6)
+- [11 Kyrgyzstan and Central Asia as a stepping stone](#kyrgyzstan-and-central-asia-as-a-stepping-stone)
+  - [11.1 How it is sold](#how-it-is-sold-9)
+  - [11.2 The path](#the-path-7)
+  - [11.3 What happens](#what-happens-8)
+  - [11.4 The law](#the-law-8)
+  - [11.5 Where to get help](#where-to-get-help-7)
+- [12 Russia: recruited into the war](#russia-recruited-into-the-war)
+  - [12.1 How it is sold](#how-it-is-sold-10)
+  - [12.2 Who sends them](#who-sends-them)
+  - [12.3 The path](#the-path-8)
+  - [12.4 What happens](#what-happens-9)
+  - [12.5 The group of 30](#the-group-of-30)
+  - [12.6 The numbers](#the-numbers-8)
+  - [12.7 The law](#the-law-9)
+  - [12.8 Bodies and compensation](#bodies-and-compensation)
+  - [12.9 Where to get help](#where-to-get-help-8)
+- [13 Student visas used as work routes](#student-visas-used-as-work-routes)
+  - [13.1 How it is sold](#how-it-is-sold-11)
+  - [13.2 What happens](#what-happens-10)
+- [14 Forged documents and impersonation](#forged-documents-and-impersonation)
+  - [14.1 How it is sold](#how-it-is-sold-12)
+  - [14.2 What happens](#what-happens-11)
+  - [14.3 The law](#the-law-10)
+  - [14.4 Where to get help](#where-to-get-help-9)
+- [15 Asylum claims built on a false story](#asylum-claims-built-on-a-false-story)
+  - [15.1 How it is sold](#how-it-is-sold-13)
+  - [15.2 What happens](#what-happens-12)
+  - [15.3 The law](#the-law-11)
+- [16 The law in Bangladesh](#the-law-in-bangladesh)
+  - [16.1 The 2026 trafficking and smuggling Act](#the-2026-trafficking-and-smuggling-act)
+  - [16.2 The Overseas Employment and Migrants Act 2013](#the-overseas-employment-and-migrants-act-2013)
+  - [16.3 What happens to trafficking cases](#what-happens-to-trafficking-cases)
+  - [16.4 Why cases fail](#why-cases-fail)
+  - [16.5 Cases](#cases-3)
+- [17 Where victims and families get help](#where-victims-and-families-get-help)
+- [References](#references)
+
+<a id="in-one-minute"></a>
+
+## 1 In one minute
+
+Every irregular route sold in Bangladesh ends in one of a few places: a Libyan cell with a phone held to your ear while your family is asked for Tk 25 lakh, a guarded compound in Cambodia or Myanmar where you scam strangers or are beaten, a Russian trench, a Gulf or Maldives street with no permit, a Thai or Malaysian immigration depot, or an airport counter where a fake visa is found and you are sent home <sup>[N1](#n1), [N2](#n2), [N3](#n3), [N4](#n4), [N5](#n5), [N6](#n6), [1 (2024)](#o1), [N7](#n7), [N8](#n8), [N9](#n9)</sup>. The dalal (broker) usually sells it as something legal: a "work visa", a "European work permit", a "free visa", "computer operator" or "construction" work, or "Italy, with some work in Libya first" <sup>[N10](#n10), [N11 (2021)](#n11), [N12](#n12), [N13](#n13), [N14](#n14)</sup>. Common signs: a tourist or visit visa instead of a work visa, a route through Dubai, money split before and after, and a promise that papers will be fixed on arrival <sup>[N15](#n15), [N16](#n16), [N2](#n2), [N17 (2024)](#n17)</sup>. Many victims left with real emigration clearance from BMET (the Bureau of Manpower, Employment and Training) and still ended up in scam compounds <sup>[N18](#n18), [N19](#n19)</sup>. Taking the boat to Italy is often the last stage of an attempt at legal migration that failed <sup>[N10](#n10), [N16](#n16)</sup>. Shariful Islam Hasan of BRAC said in June 2026 that about a lakh people go abroad legally each month, yet many still try risky routes because the legal process is complicated, expensive and in many cases controlled by broker rings <sup>[N20](#n20)</sup>. Cumilla's additional superintendent of police for the Sadar circle said in April 2026 that people fall into dalals' hands more because they do not know the rules, and that those who go through illegal channels are mostly the ones who face more problems <sup>[N21](#n21)</sup>. Besides the boat from Libya, people have gone from Dubai through Oman, Iran and Turkey to Greece (see [From the Gulf overland through Iran and Turkey to Greece](#from-the-gulf-overland-through-iran-and-turkey-to-greece)), and through South America to the United States' border with Mexico (see [The United States through South America and Mexico](#the-united-states-through-south-america-and-mexico)) <sup>[N22 (2024)](#n22), [N23 (2024)](#n23)</sup>. In Bangladesh, selling a fake job, trading visas, forging papers for smuggling and smuggling people are crimes with prison terms, and a trafficking victim cannot be charged for illegal entry or a false travel document that resulted from the trafficking <sup>[2](#o2), [3](#o3)</sup>. Families can complain to the CID (the police's Criminal Investigation Department), local police, BMET and the Ministry of Expatriates' Welfare, and BRAC and IOM (the International Organization for Migration, the UN migration agency) help with returns (see [Where victims and families get help](#where-victims-and-families-get-help)) <sup>[N24](#n24), [N2](#n2), [4](#o4), [5](#o5), [N25](#n25), [6](#o6)</sup>.
+
+<a id="libya-to-italy-by-boat"></a>
+
+## 2 Libya to Italy by boat
+
+<a id="how-it-is-sold"></a>
+
+### 2.1 How it is sold
+
+The offer is Italy, and the price quoted is usually USD 10,000 (about Tk 12.4 lakh): USD 3,000 before leaving and USD 7,000 after reaching Libya <sup>[N10](#n10), [7](#o7)</sup>. An "all-inclusive" package is about USD 14,000 (about Tk 17.4 lakh) <sup>[N10](#n10), [7](#o7)</sup>. In 2026 the Italian Embassy's migration expert said young Bangladeshis pay traffickers Tk 20 to 30 lakh, and families from Cumilla and Chuadanga paid brokers Tk 18 to 34 lakh <sup>[N26](#n26), [N1](#n1), [N2](#n2)</sup>. A common pitch is half the money before departure and the rest "after reaching Italy" <sup>[N2](#n2)</sup>. Others are told they will travel legally, with temporary work in Libya while they wait for the "next visa"; their passports are taken on arrival <sup>[N10](#n10)</sup>. Some are told they are going to Kuwait or Malaysia, and find out Libya was the destination only when their passports are taken in Dubai or Cairo <sup>[N16](#n16)</sup>. A man left unpaid in Dubai was offered Libya by a facilitator there <sup>[N16](#n16)</sup>. In 2025 two men promised jobs in Greece for Tk 15 lakh each were flown to Libya instead <sup>[N27](#n27)</sup>.
+
+A Prothom Alo editorial of 21 February 2026 said local dalals win trust through social ties and point to relatives' success abroad, that the journey begins with a promise of a valid visa and safe travel and the route is changed midway, and that in many cases people are held in Libya or another country and videos of their torture are sent to the family to extract ransom <sup>[N28](#n28)</sup>. Dr Selim Reza, coordinator of the Centre for Migration Studies at North South University, wrote in Prothom Alo on 9 September 2026 that brokers' networks show flashy YouTube videos of an easy way to Europe and use Facebook, imo (a messaging app) and WhatsApp groups to make the offer, keep contact and pass on travel information, and that a Prothom Alo investigation about four years earlier had found Facebook groups used for sending people to Europe across the Mediterranean <sup>[N29](#n29)</sup>.
+
+**How people were drawn in:**
+
+- **Work in Libya first.** Khurshed Mia (35), a vegetable seller in Bhairab, Kishoreganj, said he first went to Libya on 14 June 2023 for BDT 4 lakh on the understanding that the broker would find him work in Libya until he went on to Italy, and that he got work there as a painter <sup>[N30](#n30)</sup>.
+- **A legal visa that failed.** The brother of Abul Bashar Akon (32) of Rajoir, Madaripur, who died with his nephew Titu Howlader (19) in the January 2025 sinking, said a BDT 14 lakh contract had been made a year and a half earlier with a broker from Mahendradi to send the two to Italy on an agricultural visa, and that when that broker could not deliver they were forced to decide on the Libya route and made a new contract through another broker <sup>[N31](#n31)</sup>. He said the broker had told the family the two would reach Italy without any problem, that the family first heard of the nephew's death from the broker, and that the broker could no longer be found; the mother said both had told her by phone that they were fine and the broker would give them a "game" (the boat crossing) very soon <sup>[N31](#n31)</sup>.
+- **Told by phone after leaving.** Fatema Akter said her husband Shahin Sikdar (26) left home with the broker on 3 February 2024, phoned some days later to say they would be sent from Libya to Italy illegally by sea, and last spoke to the family on the night of 22 March 2024; she said the broker took BDT 18 lakh from them at various times and that she could not stay in her area because of debt pressure <sup>[N32](#n32)</sup>.
+- **A neighbour in Libya.** Azmir Hossain (24) of Mirsarai, Chattogram, said Libya-based Shahadat Hossain kept tempting his mother with a job in Italy paying BDT 50,000 a month, took BDT 1.5 lakh in advance, and had Azmir carry the rest of the money himself; a local union parishad (the lowest tier of local government) member said Shahadat is from the same area <sup>[N33 (2024)](#n33)</sup>.
+- **Friends already there.** Hridoy Chowdhury, who returned from Libya, told a roundtable at the Prothom Alo office in Dhaka on 18 August 2026 that friends who had gone to Libya told him there would be work there and that later one could go on to Greece or Italy, and that he went with the help of a broker from his own area, Habiganj in Sylhet, whom he trusted because he knew him; the broker is still in Libya <sup>[N34](#n34)</sup>.
+
+<a id="the-contract-price-and-the-final-price"></a>
+
+### 2.2 The contract price and the final price
+
+**Prices quoted:**
+
+- The migration analyst Asif Munir told Deutsche Welle (DW, Germany's public international broadcaster) that each person needs BDT 16 to 20 lakh for this journey and that international as well as local rings are involved, as quoted in a Prothom Alo editorial of 6 February 2025 <sup>[N35](#n35)</sup>.
+- In February 2025, according to police and local sources in Madaripur, the ringleaders of the broker ring taking people to Italy through Libya, from Rajoir and from Bhanga in Faridpur, take BDT 18 to 25 lakh from each person under a contract for Europe, and several times more must be paid if the person is caught by Libyan police or held by mafia there <sup>[N31](#n31)</sup>.
+- A broker of another Madaripur ring, speaking anonymously in February 2025, said local brokers only collect people and money for Bangladeshi brokers living in Libya, taking BDT 12 lakh to send a person to Libya and BDT 4 lakh more for the "game" (the sea crossing), and that most local brokers in Madaripur now work for Miraj Howlader of Mridhakandi, Shikarmangal union, Kalkini, whom he called a big mafia figure in Libya <sup>[N36](#n36)</sup>.
+- To pay the broker Monir Sheikh of Rajoir, Kuddus Bepari (see "Recruited while abroad or just back" in the Dalal scams doc) wrote two bighas of land worth BDT 40 lakh to the broker's wife, Hamida Begum; Monir ran a tailoring shop at Rajoir bazar until about two years earlier, married his three daughters to men living in Libya whom locals say are linked to traffickers and mafias there, has bought land worth at least BDT 5 crore in his wife's name in seven months, and, locals say, makes each contract for BDT 16 lakh <sup>[N36](#n36)</sup>.
+- On 18 April 2026 the director of Osmani International Airport, Sylhet, said many of the victims heard at that day's roundtable had spent BDT 10 to 15 lakh, and up to BDT 20 lakh, to go abroad <sup>[N37](#n37)</sup>.
+- According to an account by Bangladesh's ambassador to Libya, Major General Habib Ullah, quoted by former foreign affairs adviser Md Touhid Hossain in Prothom Alo on 27 April 2026, among 113 irregular migrants sent home from Libya one had paid brokers and mafia BDT 82 lakh in stages and another BDT 73 lakh, and when asked how many had paid a broker more than BDT 20 lakh, over fifty of the 113 raised their hands <sup>[N38](#n38)</sup>.
+- On 18 August 2026 Shariful Islam Hasan, associate director of BRAC's Migration Programme and Youth Platform, said people from eight to ten districts, including Madaripur, Shariatpur, Sylhet, Sunamganj, Habiganj, Kishoreganj and Narsingdi, try to reach Europe across the Mediterranean, that many first go to Libya through Egypt or Dubai and are physically tortured there, and that some pay BDT 25 lakh, some BDT 30 lakh, and some as much as BDT 65 to 67 lakh <sup>[N34](#n34)</sup>.
+
+**Cases.** In each case below, the family paid, or was asked for, more money after the migrant reached Libya <sup>[N39 (2024)](#n39), [N32](#n32), [N30](#n30), [N40](#n40), [N41](#n41), [N42 (2024)](#n42), [N43](#n43), [N44 (2024)](#n44), [N45](#n45), [N46](#n46), [N47](#n47), [N48](#n48), [N49](#n49)</sup>:
+
+- **Spain promised, Libya delivered.** The father of a young man from Jagannathpur, Sunamganj, alleges in a case filed in Sylhet in December 2024 that he made a verbal agreement on 15 August 2018 to send his son to Spain for BDT 15 lakh through a man who is the labour affairs secretary of a union Awami League unit, and that the son was instead sent to Libya, where ring members tortured him and threatened to kill him unless more money was paid <sup>[N39 (2024)](#n39)</sup>.
+- **BDT 12 to 20 lakh, then money for release.** In 2022 and 2023, 24 young men from Shariatpur and Madaripur were taken from home to be sent to Italy from Libya (see Held, jailed or missing); the broker ring took BDT 12 lakh to 20 lakh from the 24 families in various ways, some of the men were detained by police in Libya on two occasions and jailed, some were held hostage and tortured, and they were freed from captivity and jail after money was collected from their families <sup>[N32](#n32)</sup>.
+- **BDT 4 lakh to Libya, BDT 19 lakh in all.** Khurshed Mia, who went to Libya on 14 June 2023 (see [Libya to Italy by boat](#libya-to-italy-by-boat)), said that while working in Libya he agreed with a broker to be taken by sea to Italy for BDT 9 lakh and paid BDT 6 lakh in two rounds without reaching Italy; he said the whole attempt cost him BDT 19 lakh, plus several lakh for treatment, and that he had to sell the land his house stood on <sup>[N30](#n30)</sup>.
+- **BDT 3 lakh agreed, BDT 12 lakh ransom.** According to their families, three men from Noli Joynagar village, Mathbaria, Pirojpur, left for Libya through a broker in July 2023 on a contract of BDT 3 lakh and went first to Dubai, after which contact was lost; some time later they called on imo from Libya to report torture, and the ring demanded BDT 12 lakh ransom per person <sup>[N40](#n40)</sup>. The wife of one said in January 2025 she had sold 15 katha of land to raise the BDT 12 lakh ransom, and the father of another said he had paid BDT 15 lakh since his son left and did not know how much more he would have to pay <sup>[N40](#n40)</sup>.
+- **BDT 9.5 lakh agreed, BDT 45 lakh taken.** The family of Dipu Mia of Bhairab, Kishoreganj, contracted with a broker from the same village for BDT 9.5 lakh to reach Italy through Libya, and relatives said in August 2025 that the brokers had so far taken BDT 45 lakh and were demanding BDT 25 lakh more <sup>[N41](#n41)</sup>. According to the family, he reached Libya on 23 September 2023, was detained a few days later and passed to a mafia group, and a month and a half after that they got a call showing a torture video and demanding BDT 11 lakh within one day <sup>[N41](#n41)</sup>.
+- **BDT 22 to 24 lakh, then BDT 10 lakh for release.** Prothom Alo reported in July 2024 that the Bhairab broker Rasel Mia took BDT 24 lakh from the father of Faruk Mia of Bhairab and BDT 22 lakh each from Tofayel Ahmed and Sabuj Mia for Italy; the father of Shafiqul Islam of Shibpur, Narsingdi, said Rasel took BDT 23 lakh and that BDT 10 lakh was now being demanded to free his son <sup>[N42 (2024)](#n42)</sup>.
+- **BDT 15 lakh, then BDT 30 lakh more.** According to his family, Md Rasel Mia (25) of Dharmandal village, Nasirnagar, Brahmanbaria (not the Bhairab broker of the same name), went to Libya in early 2024 through a broker from his own village for BDT 15 lakh, raised by selling the ancestral homestead and borrowing from relatives; he was sold to a local ring on arrival, which sent videos of his torture to Bangladesh and took a further BDT 30 lakh from the family in rounds <sup>[N43](#n43)</sup>. According to the family, the ring demanded BDT 10 lakh more a few days before his death, and when the family could not pay he was tortured and died in Libya on 21 February 2025; the family learned of the death the next day through an expatriate, and his father, who said he had paid BDT 50 lakh in stages by selling his homestead and farmland, alleged his son was killed with a poisonous injection <sup>[N43](#n43)</sup>.
+- **BDT 4 lakh, then 4.5, then 2.5 more.** Prothom Alo reported on 21 September 2024 that a broker ring sent 26 young men from 25 families in Goalnagar union, Nasirnagar, Brahmanbaria, and Ratani village, Austagram, Kishoreganj, to Libya on the promise of Italy, each paying BDT 11 lakh; nine came home after torture and harassment, some of the rest were captive and several were missing <sup>[N44 (2024)](#n44)</sup>. Returnees said each of them gave the broker Farhad Mia BDT 4 lakh before leaving, that he took BDT 4.5 lakh more from each while holding them in a camp in Libya, and that after they were caught on the boat and jailed and he got them out, he again took BDT 2.5 lakh from each family promising to send them to Italy through the "game" <sup>[N44 (2024)](#n44)</sup>.
+- **BDT 30 lakh demanded, then BDT 42 lakh.** Md Saiful (39) of Sundarganj, Gaibandha, went to Libya through a Bangladeshi broker about two years before November 2026; the ransom calls to his family from August 2025 are set out under no proof of life (see [Ransom and resale](#ransom-and-resale)) <sup>[N45](#n45)</sup>.
+- **The "body contract".** According to relatives and neighbours, the family of Saidul Bepari of Madaripur paid BDT 20 lakh ransom to free him in Libya and then agreed a BDT 16 lakh "body contract" through a Bangladeshi broker, an arrangement under which brokers promise to deliver the migrant alive to Italy however long it takes and bear lodging, food and airfare; he died in a Libyan detention camp on 14 February 2025 after torture <sup>[N46](#n46)</sup>.
+- **BDT 22 lakh, then BDT 20 lakh more.** According to his family, a BDT 22 lakh contract was made to send Imran Khan of Madaripur to Italy, brokers took BDT 20 lakh more while he was held in a detention camp in Benghazi, and he was shot dead by pirates on a migrant boat on 1 November 2025, which the family learned from a broker on 18 November <sup>[N47](#n47)</sup>.
+- **BDT 25 lakh, then BDT 22.5 lakh more.** According to relatives and local sources, a broker first took BDT 25 lakh from Tachhir Fakir of Rajoir, Madaripur, for the journey to Italy; brokers in Libya then held him in a detention camp and took BDT 20 lakh ransom from his family and another BDT 2.5 lakh said to be for treatment, and he died in a Libyan hospital in May 2026 <sup>[N48](#n48)</sup>. The family sold all its land to pay <sup>[N48](#n48)</sup>.
+- **BDT 60 lakh in three rounds.** Mizanur Rahman of Phulsuti village, Nagarkanda, Faridpur, alleged at a human chain outside the Faridpur Deputy Commissioner's office on 14 October 2026 that a Faridpur trafficking ring, having promised to take him to Italy, held and tortured him in Libya and took BDT 60 lakh in three rounds <sup>[N49](#n49)</sup>.
+
+<a id="the-path"></a>
+
+### 2.3 The path
+
+1. <a id="the-path-item-1"></a>**Dhaka to Dubai** on a tourist visa <sup>[N16](#n16)</sup>. Azmir Hossain said he reached Dubai on 21 March 2024, where the broker's men met him at the airport and kept 30 to 35 people together in a room of a small house for two days <sup>[N33 (2024)](#n33)</sup>.
+2. <a id="the-path-item-2"></a>**Dubai to Benghazi**, directly or through Egypt; when checks at Dhaka airport tighten, groups are sent through India and Sri Lanka instead <sup>[N10](#n10), [N16](#n16)</sup>. One 2026 victim was routed Chennai, Sri Lanka, Dubai, Alexandria, Benghazi and Tripoli; another group went through Mumbai, Saudi Arabia and Egypt <sup>[N50](#n50), [N2](#n2)</sup>. According to Palong Model police station and relatives, 24 Shariatpur and Madaripur men taken from home in 2022 and 2023 were sent first to the United Arab Emirates, then through Egypt to Libya <sup>[N32](#n32)</sup>. Azmir Hossain said his group was flown from Dubai to Egypt, held 24 hours in a warehouse-like place in the airport area, and put on another plane to Libya <sup>[N33 (2024)](#n33)</sup>.
+3. <a id="the-path-item-3"></a>**Across Libya by road**, west through Ajdabiya, Sirte and Shwerayif to Zuwara and Zawiya, the main departure points since 2023 <sup>[N10](#n10)</sup>. Entry to Benghazi is on clearances from the Libyan National Army's Military Investment Authority, the armed force that controls the east <sup>[N10](#n10)</sup>.
+4. <a id="the-path-item-4"></a>**The boat to Lampedusa**, Italy's southern island, usually 24 to 36 hours in fair weather <sup>[N10](#n10)</sup>. The crossing itself is known as the "game"; small boats are mainly used and are loaded beyond capacity <sup>[N31](#n31)</sup>.
+
+Md Touhid Hossain, the former foreign affairs adviser, wrote in April 2026 that the main route to Italy by sea used to be a flight to Kenya, then overland to Libya, then the boat, that a person boards the plane to Kenya on a false story of a safari or tourism, and that along the way people change hands several times like goods <sup>[N38](#n38)</sup>. He also wrote that because surveillance and restrictions on the route to Italy had recently increased, traffickers were now using the Greece route <sup>[N38](#n38)</sup>. UNHCR (the UN refugee agency) data show that in 2026 Bangladeshis were for the first time the top nationality among sea crossings to Greece, Prothom Alo reported on 30 July 2026 <sup>[N51](#n51)</sup>.
+
+The chain is run in pieces: brokers in Bangladesh recruit and collect money, facilitators in the UAE, Egypt, Kuwait, Turkey, India and Sri Lanka move groups, and Libyan airport sponsors, armed groups, drivers and coastal smugglers control everything inside Libya <sup>[N16](#n16)</sup>. The Counter Terrorism and Transnational Crime (CTTC) unit of the police identified a Libya-based trafficker who had appointed 40 brokers across Bangladesh whose job was to find young people wanting to go abroad, according to a Prothom Alo editorial of 25 February 2024 <sup>[N52 (2024)](#n52)</sup>.
+
+<a id="ransom-and-resale"></a>
+
+### 2.4 Ransom and resale
+
+- **Ransom.** Smugglers call Bangladeshis "gold" because a family at home will answer ransom calls <sup>[N16](#n16)</sup>. Men are held, tortured and forced to phone home for more money; five Chuadanga men were held 10 months in a room with 57 others <sup>[N2](#n2)</sup>. In July 2026 families of six men from Manoharganj, Cumilla, were asked Tk 25 lakh per person, and in November 2026 the same sum was reportedly being demanded for each of more than 300 men from Bhairab, Kishoreganj <sup>[N1](#n1), [N2](#n2)</sup>. People in the migration sector told Prothom Alo in July 2026 that workers bound for Italy or Greece are sent to Libya, tortured in many camps there, and held hostage until BDT 25 to 30 lakh is extracted <sup>[N51](#n51)</sup>. Bangladeshi and Libyan smugglers stage kidnappings together <sup>[N10](#n10)</sup>. Md Touhid Hossain wrote in April 2026 that many Bengalis are among those who torture the hostages in Libya, and that the people who collect ransom from families in Bangladesh by showing torture videos live undisturbed in the same society <sup>[N38](#n38)</sup>.
+- **No proof of life.** According to investigators, on 5 August 2025 the wife of Md Saiful of Sundarganj, Gaibandha, got a call from a Libyan mobile number saying he was in the callers' custody, that BDT 30 lakh ransom must be paid or he would be killed, and that no one in the family would be allowed to speak to him until half the ransom was paid <sup>[N45](#n45)</sup>. The CID said the family sent BDT 5 lakh in all between 10 and 25 August 2025 from a bKash (mobile money) shop at Bamandanga Hall Mor, Sundarganj, to several mobile numbers the accused gave, and that even after the money was received the family was not put in touch with Saiful <sup>[N45](#n45)</sup>. The father was then contacted from another number and asked for a further BDT 42 lakh in the name of rescuing his son, and was told his son was held by two men in Libya named Mokarram and Anwar from whom the caller had got the father's number; the father said he would pay nothing more unless he could speak to his son directly, and no more calls came to him or to his son's wife <sup>[N45](#n45)</sup>.
+- **No one guarantees release.** Families of two hostages in the Bhairab case said in July 2024 that large ransoms were being demanded but that they could find no one who could assure them that paying would get the men released <sup>[N42 (2024)](#n42)</sup>. According to local people in Bhairab, when the hostages phoned home begging to be freed, the broker Rasel Mia and his ring members hid and cut off contact with the families; the families then went to community leaders for a remedy and got no result <sup>[N42 (2024)](#n42)</sup>.
+- **Families stay silent.** The wife of one Mathbaria hostage refused to name the brokers to Prothom Alo in January 2025, saying she wanted her husband back, and the family of another refused to speak at all, believing someone known to the brokers lived near their home and that the torture would increase if word got out <sup>[N40](#n40)</sup>.
+- **Sold between gangs.** Seven Bangladeshis were sold for USD 17,000 together, and the buyer demanded USD 12,000 each <sup>[N16](#n16)</sup>. Azmir Hossain said everyone's passport was taken as soon as they reached Libya in March 2024, that he was beaten whenever he mentioned the promised job, and that BDT 6 lakh was collected from his family in stages by phone <sup>[N33 (2024)](#n33)</sup>. He said the broker then sold him to another group at a high price and left him in a Libyan desert to be handed over; he escaped with a Libyan citizen's help and took shelter with a Bangladeshi he knew, and the broker then came and took him back <sup>[N33 (2024)](#n33)</sup>. Suman Mia of Nasirnagar said in September 2024 that he paid the broker BDT 11 lakh in all and was told he would be taken to Italy within a week; 60 people were put on a boat from Benghazi, and after it had run for an hour they understood they had all been sold <sup>[N44 (2024)](#n44)</sup>. Enamul Haque of Lalurtuk village, Nasirnagar, said he spent BDT 22 lakh to send two sons (land sold for BDT 7 lakh, a BDT 12 lakh loan and savings), that one son was "sold four times", and that he last spoke to the other a year earlier; both were missing in September 2024 <sup>[N44 (2024)](#n44)</sup>.
+- **Extra charges.** Charges added in Libya push the total to USD 15,000 to 17,000 (about Tk 18.7 to 21.2 lakh) <sup>[N10](#n10), [7](#o7)</sup>. In the last holding houses before the sea ("game houses") smugglers demand more even from people told the trip was fully paid <sup>[N10](#n10)</sup>. Those told they can pay after reaching Europe are made to work in Libya to pay off the debt <sup>[N10](#n10)</sup>.
+- **Paying does not free you.** In a 2025 case the families paid Tk 21.8 lakh and Tk 16 lakh in ransom, and the men were then handed to Libyan police and held 45 days <sup>[N27](#n27)</sup>. People caught at sea by the Libyan Coast Guard report being handed to Bangladeshi networks on the coast who demand more <sup>[N10](#n10)</sup>.
+- **Killed when the family could not pay.** At the Faridpur human chain on 14 October 2026, Taslima Begum said her husband Habib was killed because the family could not pay a ransom of BDT 10 lakh; she now lives with their three children at her father's house <sup>[N49](#n49)</sup>.
+
+<a id="held-jailed-or-missing"></a>
+
+### 2.5 Held, jailed or missing
+
+- **In the camps.** Suman Mia said the 60 sold off the Benghazi boat were held in a camp for a month and a half, beaten every day and fed once in 24 hours, given two litres of salt water for bathing and the toilet and one bread at night, and made to do cleaning work from morning to evening at the house of a man named Ahammad, whose son beat them with a pistol when they did not work <sup>[N44 (2024)](#n44)</sup>. Azmir Hossain said he was locked in a room and beaten regularly for trying to escape and went eight days without food; he reached home on 5 May 2024 in a critical condition, 41 days after leaving home according to Prothom Alo, and his mother said he is now mentally ill from blows to the head and that she owes BDT 6 lakh <sup>[N33 (2024)](#n33)</sup>. Returnees told the ambassador to Libya before their flight home in spring 2026 that one had eaten rice once after twenty days, five men sharing one bowl with no curry, that another got a handful after twenty-five days, and that a piece of bread was thrown at them "the way food is given to a dog" and they were beaten as well <sup>[N38](#n38)</sup>.
+- **Raids and jail.** Khurshed Mia said law-enforcement officers raided the fourth-floor flat where 11 of them lived at about 1:30 am on 10 July 2024 and he hid for two hours on the window ledge; later he was kept in a place with 210 other people, where a raid at 10 pm took away 160 while he hid for four hours in a tree <sup>[N30](#n30)</sup>. Returnees from Nasirnagar and Austagram said that two and a half to three months after the last payment the broker sold them, that after three months in jail they reached their families through a Pakistani man with the help of a man from Bhairab, and could come home only after each paid a further BDT 1 lakh 20 thousand for the air ticket and other costs; they returned between 7 August and 14 September 2024 after release from Libyan jail <sup>[N44 (2024)](#n44)</sup>. Hridoy Chowdhury said that after reaching Libya he worked for a company for two months in a row, was then taken to Benghazi and boarded a boat for Greece, and that after about 14 hours on the boat the coast guard detained them and sent them back to Libya, where he was held as a prisoner in a jail in Tobruk <sup>[N34](#n34)</sup>. He said he finally got out of the jail by contacting his broker, and that he had to come home empty-handed despite spending a huge amount of money <sup>[N34](#n34)</sup>.
+- **Escape.** Mizanur Rahman said that, still not released after the payments and seeing how severe the torture was, he broke a window, escaped and gave himself up to Libyan police, and later came home in 2026 through IOM; eleven people tortured by the same ring came home from Libya through IOM in 2026 and joined the human chain in Faridpur <sup>[N49](#n49)</sup>.
+- **Missing.** Prothom Alo reported on 13 July 2024 that at least 24 people from Bhairab and elsewhere in Kishoreganj, Habiganj and Narsingdi went to Libya at about the same time through a broker ring led by Rasel Mia of Bhairab to cross to Italy by sea, that none had reached Italy, and that some were hostages of kidnappers and others were in Libyan jails <sup>[N42 (2024)](#n42)</sup>. According to relatives and police, 24 young men from Shariatpur and Madaripur who were taken from home in 2022 and 2023 went missing in Libya; relatives claim none of the 24 has contacted family since 21 and 22 March 2024 <sup>[N32](#n32)</sup>. Riaz Akon, one of their relatives, said his family gave the broker BDT 20 lakh, raised by selling land and a cattle farm, to send his younger brother to Italy, had had no trace of him for a year, and that the broker gave no information when asked <sup>[N32](#n32)</sup>.
+
+<a id="work-in-libya"></a>
+
+### 2.6 Work in Libya
+
+Khurshed Mia said that in Libya, after a month without work, he got a job at a shopping mall "in exchange for 500 dinars" that was to pay 1,400 dinars at the end of the month but paid him half, and then worked four months at an oil company for 1,200 dinars a month <sup>[N30](#n30)</sup>. He said a mafia group attacked the building the broker had moved him to and he jumped from the first floor to save himself, injuring his arm and leg; he got no treatment for five days, the broker's men moved him from a private hospital to a government hospital because they could not bear the cost, he had five operations in three and a half months there, and he came home on 13 February 2025 unable to walk <sup>[N30](#n30)</sup>.
+
+<a id="deaths"></a>
+
+### 2.7 Deaths
+
+- **May 2020, Mizda.** According to Libya's then government, a trafficker's family killed 26 Bangladeshis and four Africans in Mizda, Libya <sup>[N53 (2020)](#n53)</sup>.
+- **February 2024, off Tunisia.** On 15 February 2024 a boat carrying 52 migrants caught fire and sank in the Mediterranean off the Tunisian coast; 8 Bangladeshis died, 26 others were rescued and one was seriously injured, according to a Prothom Alo editorial of 25 February 2024 <sup>[N52 (2024)](#n52)</sup>. According to relatives, police and local sources, several young men from Rajoir, Madaripur, and Muksudpur, Gopalganj, left home for Italy on 14 January 2024, flew through Dubai to Libya, and on 14 February left Libya on an engine boat through brokers; eight of them died on the boat off Tunisia (five from Rajoir and three from Muksudpur), along with one Pakistani <sup>[N54 (2024)](#n54)</sup>. Relatives of the eight told journalists at Dhaka airport on 2 May 2024 that brokers had put 52 people on a small boat that could take 30, that the eight who died had been forced to stay below the deck, and that when they tried to come out for lack of oxygen the brokers beat them and sent them back down; the relatives said they died of the torture and lack of oxygen <sup>[N54 (2024)](#n54)</sup>. The brother of one of the dead, Sajal Bairagi (22) of Sendia village, Rajoir, said the family gave BDT 14 lakh to a broker named Mosharraf by selling land and cows and borrowing <sup>[N54 (2024)](#n54)</sup>.
+- **January 2025, off Libya.** According to the Bangladesh embassy in Libya, a boat carrying 56 people trying to reach Italy from Libya sank in the Mediterranean on 25 January 2025 and 23 bodies washed up on the beach between 28 and 31 January; the bodies were decomposed and not formally identified, but the embassy, citing local sources, said nearly all were Bangladeshi <sup>[N31](#n31)</sup>. According to relatives, police and local sources, two Rajoir men left home on 1 January 2025, flew from Dhaka through Dubai to Libya, were sent by the broker to the coast, and left the Libyan coast on an engine boat on 24 January <sup>[N31](#n31)</sup>. Intelligence sources said in February 2025 that, besides the two dead, eight more people from Rajoir upazila, all aged 20 to 30, were reported missing, though it was not confirmed whether they were on the boat that sank on 25 January <sup>[N31](#n31)</sup>. Relatives said at least 12 people from Madaripur and Faridpur were among those killed, according to a Prothom Alo editorial of 6 February 2025 <sup>[N35](#n35)</sup>. The same editorial reported that the father of Hridoy Howlader of Kamarkhali, Faridpur, said the group was to be taken to Italy by ship on the night of 24 January, that many refused to board when a small boat was offered instead, and that those who refused were shot dead while those who boarded drowned <sup>[N35](#n35)</sup>. It also reported that Sujan Faraji of Madaripur, who died in the sinking, set out with BDT 16 lakh taken from his aunt without telling his father, who had not agreed to the journey, and that a broker named Monir Sheikh of Majumdarkandi, Rajoir, had contracted to take him to Italy for BDT 15 lakh <sup>[N35](#n35)</sup>. Abul Bashar Akon and his nephew Titu Howlader also died (see [Libya to Italy by boat](#libya-to-italy-by-boat)) <sup>[N31](#n31)</sup>. Kuddus Bepari, sent from Dhaka to Egypt in early November 2024 and on to Libya, and his brother-in-law Sujon Howlader (39), who also paid the broker Monir BDT 16 lakh, were put on an engine boat from the Benghazi coast on 24 January 2025 after about two months in a detention house; the boat sank within hours, Sujon's death was confirmed by his wife Munni Begum, and Kuddus was missing, believed dead by his family <sup>[N36](#n36)</sup>. Madaripur's Additional Superintendent of Police (Administration and Finance), Bhaskar Saha, said in February 2025 that by family accounts three people from Rajoir upazila had died and seven were missing, presumed dead, after the recent sinking, that no family had yet come to file a case, and that police were hunting several named brokers <sup>[N36](#n36)</sup>.
+- **November 2025, off Al Khums.** A boat with 26 Bangladeshis capsized off Al Khums and four died <sup>[N55](#n55)</sup>.
+- **March 2026, Libya to Greece.** At least 18 Bangladeshis died on a boat that left Tobruk, Libya, for Greece, carrying 38 Bangladeshis among 43 people <sup>[N56](#n56)</sup>. Twelve of the dead were from Sunamganj <sup>[N51](#n51)</sup>. Md Touhid Hossain wrote in Prothom Alo on 27 April 2026 that a boat that left Libya for Greece on 21 March 2026 with 48 passengers drifted for six days before 26 people were rescued alive, 21 of them Bangladeshis, and that 20 of the 22 dead or missing were reported to be Bangladeshi <sup>[N38](#n38)</sup>. A Prothom Alo editorial of 1 April 2026 said the family of Shayek Ahmed (23) of Sunamganj gave brokers BDT 12 lakh by selling their cows and land, that the rubber boat he left on from Libya for Greece on 21 March lost its way and drifted for six days, that he died of starvation when the food ran out, and that 12 young men from Sunamganj died on that journey and their bodies were thrown into the sea <sup>[N57](#n57)</sup>. According to a survivor, the boat carrying 38 people from Libya lost its way and drifted six days; 18 died for lack of food and clean water, their bodies were kept on the boat two days and then thrown into the sea, and the survivors were taken to a camp after the boat reached the Greek coast on 27 March 2026 <sup>[N58](#n58)</sup>.
+- **April 2026, from Tajoura.** On 4 April 2026 a wooden boat that left Tajoura, Libya, for the Italian island of Lampedusa with about 105 passengers sank; 32 people were rescued alive and 2 bodies recovered, the other 71 were missing, and Bangladeshis were among both the rescued and the missing, Md Touhid Hossain wrote <sup>[N38](#n38)</sup>.
+- **At sea.** The State Minister for Expatriates' Welfare alleged that smugglers abandon weak or sick passengers at sea and often throw bodies into the water <sup>[N56](#n56)</sup>.
+
+> **Need to know**
+> - How many people, and how many Bangladeshis, were on the boat that left Libya for Greece in March 2026, and how many Bangladeshis died: at least 18 of 38, or 20 of 22 dead or missing out of 48 aboard?
+> - How many from Rajoir died or went missing in the January 2025 sinking: two dead and eight more missing (intelligence sources), or three dead and seven missing (police, from family accounts) <sup>[N31](#n31), [N36](#n36)</sup>?
+
+<a id="arrival-in-italy"></a>
+
+### 2.8 Arrival in Italy
+
+People landing are taken to a hotspot (a first-reception centre) for checks, photos and fingerprints <sup>[8](#o8)</sup>. Italy lists Bangladesh as a safe country of origin and rejected 88.66% of Bangladeshi asylum claims at first decision in 2025 <sup>[9](#o9), [N59](#n59)</sup>. Italy returned over 120 Bangladeshis in 2025 up to early November, including four on 31 October, two of whom had arrived from Libya without a visa a month before <sup>[10](#o10)</sup>.
+
+<a id="coming-home"></a>
+
+### 2.9 Coming home
+
+Men who went this way and failed have come home with debts of more than Tk 10 lakh <sup>[N16](#n16)</sup>. Five Chuadanga families lost about Tk 1.47 crore in fees and ransom <sup>[N2](#n2)</sup>. Mashiur Rahman of Madaripur, who came home on 1 September 2026 with a group of Bangladeshis returned from detention in Libya with IOM's help, said he had left his own restaurant business to try for Italy and came back having lost BDT 32 lakh <sup>[N60](#n60)</sup>.
+
+<a id="the-numbers"></a>
+
+### 2.10 The numbers
+
+- **Arrivals in Italy by sea:** 20,164 Bangladeshis in 2025 and 6,160 from 1 January to 6 November 2026, more than any other nationality both years <sup>[11](#o11), [12](#o12)</sup>. BRAC, citing Frontex (the EU border agency), said 20,259 Bangladeshis entered Europe across the Mediterranean in 2025, and that in the first six months of 2026, 4,249 Bangladeshis entered Italy this way and 3,608 went from Libya to Greece by sea <sup>[N51](#n51)</sup>. Prothom Alo reported on 5 September 2026 that 66,316 people of all nationalities crossed the Mediterranean to Italy in 2025 and 1,126 of them died or went missing at sea, and that of 14,194 who crossed up to June 2026 the largest share, 32% or 3,691 people, were Bangladeshis <sup>[N60](#n60)</sup>. According to CID information cited in a Prothom Alo editorial of 1 April 2026, 17,000 Bangladeshis were sent to Italy by illegal routes in the previous year <sup>[N57](#n57)</sup>. According to UNHCR, as cited in a Prothom Alo editorial of 25 February 2024, 13 per cent of the 5,236 refugees and migrant workers who went to Italy by sea were Bangladeshi citizens; the editorial does not state the period <sup>[N52 (2024)](#n52)</sup>.
+- **Share of the route:** Bangladeshis were 50% of people leaving Libya in December 2024 and 39% in December 2025; 88% of all arrivals in Italy in 2025 left from Libya <sup>[N61](#n61), [N62](#n62)</sup>. Frontex counted 2,510 Bangladeshis among 8,489 crossings on the Central Mediterranean route in January to April 2026 <sup>[N16](#n16)</sup>. Bangladeshis were again in 2026 the top nationality among people crossing the Mediterranean to Italy, according to UNHCR data reported by Prothom Alo on 30 July 2026 <sup>[N51](#n51)</sup>.
+- **Over the years:** 4,141 Bangladeshis arrived by this route in 2020, 7,838 in 2021 and 15,228 in 2022; Frontex counts about 110,000 from 2009 to June 2026 <sup>[N16](#n16), [N2](#n2)</sup>. A Prothom Alo editorial of 6 February 2025 stated, giving no source, that 84,000 Bangladeshis went to Europe by sea from 2009 to 2024 and that on average at least 100 Bangladeshis die each year when boats sink <sup>[N35](#n35)</sup>. Shariful Islam Hasan of BRAC said on 18 April 2026 that Bangladeshis are the largest group in the world crossing the Mediterranean to Europe, a situation that has lasted a decade <sup>[N37](#n37)</sup>.
+- **All irregular routes to Europe:** IOM counted 24,318 Bangladeshis reaching Europe by irregular sea and land routes in 2025, up 59% on 2024 <sup>[N63](#n63)</sup>. The general secretary of the Sylhet District Press Club said on 18 April 2026, giving no source, that over the previous 10 years at least 10,000 people had died or gone missing, more than two and a half lakh had been trafficked abroad by illegal routes and at least 15,000 had been jailed in various countries <sup>[N37](#n37)</sup>. Shariful Islam Hasan of BRAC said at a roundtable in Cox's Bazar on 6 June 2026 that about one lakh Bangladeshis have been detained while trying to cross the Mediterranean in the past 16 years, and that about six and a half lakh Bangladeshis currently have asylum applications lodged in various countries <sup>[N20](#n20)</sup>.
+- **Clearance:** Prothom Alo reported on 5 September 2026 that only 100 people took BMET clearance to go to Libya in 2025 and 63 in 2026, which it reads as meaning the workers reach Libya through the Middle East and other countries <sup>[N60](#n60)</sup>.
+- **Where people come from:** Shariful Islam Hasan of BRAC said on 18 April 2026 that people from 8 to 10 districts, among them Madaripur, Shariatpur, Sylhet, Sunamganj and Habiganj, are losing their lives going this way <sup>[N37](#n37)</sup>. By the ambassador to Libya's account, about two-thirds of 113 returnees on one spring 2026 flight identified themselves as from Madaripur <sup>[N38](#n38)</sup>.
+- **Deaths:** 1,718 people died or went missing on the Central Mediterranean in 2024, one for every 39 arrivals, and about 765 by 7 April 2026, over 460 more than a year earlier <sup>[N61](#n61), [N64](#n64)</sup>. A Prothom Alo editorial of 21 February 2026 says, citing UNHCR data, that Bangladeshis were the largest group among migrants who crossed the Mediterranean to Italy from January to October 2024, as in 2023, and states, without naming a source, that more than 25,000 people drowned in the Mediterranean in the past decade, of whom at least 500 each year were Bangladeshi <sup>[N28](#n28)</sup>.
+- **Returns:** at least 10,000 Bangladeshis have been flown home from Libya with IOM's help since 2017, including 175 on 26 February 2026 <sup>[N16](#n16), [N25](#n25)</sup>. In 2023 the Embassy in Tripoli could not get Libyan exit permits to send home about 2,000 people <sup>[N10](#n10)</sup>. According to Bangladesh embassy sources in Tripoli cited in a Prothom Alo editorial of 6 February 2025, 4,200 Bangladeshis had been freed from various detention centres in Libya and sent home in the previous year and a half, and more than a thousand irregular Bangladeshis were still held in Libya <sup>[N35](#n35)</sup>. A Prothom Alo editorial of 25 February 2024 stated that BRAC's Migration Programme rescued and brought home 629 people in 2022 who had been living abroad without valid papers, and that they had been taken to Libya with the promise of attractive jobs in Europe <sup>[N52 (2024)](#n52)</sup>.
+
+> **Need to know**
+> - How many Bangladeshis reached Italy by sea in 2025: 20,164, the 20,259 BRAC gives from Frontex for all of Europe, or the 17,000 sent to Italy by illegal routes "in the past year", from CID information cited in a Prothom Alo editorial of 1 April 2026?
+> - How many Bangladeshis reached Italy by sea in January to June 2026: 4,249 (BRAC, from Frontex) or 3,691 (Prothom Alo, 5 September 2026)?
+> - How many Bangladeshis die on the Mediterranean in a typical year: the "at least 100" or the "at least 500" two Prothom Alo editorials give, and from what source?
+
+<a id="the-law"></a>
+
+### 2.11 The law
+
+- **Bangladesh:** under the 2026 Act, organising this journey is migrant smuggling, holding people for ransom is a form of exploitation under the trafficking offence, and the Act also covers offences committed abroad against Bangladeshis (see [The law in Bangladesh](#the-law-in-bangladesh)) <sup>[3](#o3)</sup>. The Minister for Expatriates' Welfare said on 18 April 2026 that the government had declared zero tolerance of the "mafia syndicate" at home and abroad and was determined to identify the Bangladeshi members of trafficking rings in Libya and elsewhere, bring them back and try them <sup>[N37](#n37)</sup>. A Prothom Alo editorial of 6 February 2025 stated that some licensed manpower-exporting firms are behind these broker rings and send people abroad through them, and that cases against many such firms in the past led to no action because many of those involved were influential people linked to the then ruling party <sup>[N35](#n35)</sup>.
+- **Libya:** in April 2026 a Libyan court jailed four traffickers for up to 22 years <sup>[N65](#n65)</sup>.
+- **Italy:** entering or staying without permission is an offence fined EUR 5,000 to 10,000 (about Tk 6.98 to 13.96 lakh) <sup>[13](#o13), [7](#o7)</sup>. If removal can't happen at once, the Questore (head of the provincial immigration police) can hold the person in a CPR, a detention centre before removal, for three months <sup>[14](#o14)</sup>. Expulsion brings a 3 to 5-year ban entered in the Schengen Information System, which bars every EU and Schengen country <sup>[15](#o15)</sup>. An Italian court did recognise one Bangladeshi kidnapped and tortured in Libya until his family paid as a trafficking victim <sup>[N66](#n66)</sup>.
+
+**Cases against brokers in Bangladesh:**
+
+- **May 2024, Madaripur.** Sajal Bairagi's brother said the broker was telling the family not to file a case and had said he would return some money but was not giving it, and that, being poor and unable to afford a case, the family was trying to settle with the broker <sup>[N54 (2024)](#n54)</sup>. The Madaripur Superintendent of Police, Masud Alam, said police would give all legal help if relatives of the eight dead filed a case, but that the victims had little interest in filing cases <sup>[N54 (2024)](#n54)</sup>.
+- **June 2024, Chattogram.** After returning, Azmir Hossain filed a case in a Chattogram court against six people, including the Libya-based broker and his brother; his lawyer said it was a criminal case over cheating and torture in Libya and that the court took cognisance of the complaint and ordered an investigation <sup>[N33 (2024)](#n33)</sup>.
+- **July 2024, Bhairab.** On 5 July 2024, when the broker Rasel Mia came to his home in Jagannathpur, Bhairab, victims' families surrounded and beat him and handed him to police, who sent him to Kishoreganj district jail under the trafficking Act; the officer-in-charge of Bhairab police station said the father of one victim filed a case after the arrest and Rasel was sent to jail in that case <sup>[N42 (2024)](#n42)</sup>. Rasel Mia admitted under police questioning that he took money on the promise of sending people to Italy, and said he had made all the arrangements but could not send everyone because new problems had arisen on the sea route, at which everyone grew impatient <sup>[N42 (2024)](#n42)</sup>.
+- **September 2024, Nasirnagar.** The Nasirnagar Upazila Nirbahi Officer (the government's chief administrator of the sub-district) said the administration had not known of the 26 men's cases until journalists told them, that none of the victims had complained to it, and that legal action would follow an investigation if a complaint came; relatives had held a human chain demanding the brokers' trial and compensation <sup>[N44 (2024)](#n44)</sup>. One man the families accuse, a cousin of the alleged ring leader, told Prothom Alo he had himself gone to Libya through that cousin, spent a month and a half in jail there with the others and 18 months in Libya in all, and took money from no one <sup>[N44 (2024)](#n44)</sup>.
+- **2024 to January 2025, Mathbaria.** The wife of one Mathbaria hostage filed a case under the trafficking Act at Mathbaria police station in 2024; the station's officer-in-charge said in January 2025 that the investigation had been given to the district detective branch and that it could say what progress there was <sup>[N40](#n40)</sup>.
+- **February 2025, Rajoir.** After the January 2025 sinking, local brokers in Rajoir went into hiding for fear of arrest; Madaripur's Additional Superintendent of Police said police were investigating the broker ring, and the Additional Deputy Commissioner said the district administration had started work through the embassy to bring the bodies home <sup>[N31](#n31)</sup>.
+- **February 2025, Shariatpur.** Relatives of the 24 missing men filed 11 cases against Rashed Khan and his associates in the Shariatpur court and at Palong Model police station; the CID arrested him in Jatrabari, Dhaka, on 14 February 2025 in a case under the trafficking Act filed by the father of a missing man from Kalkini, Madaripur, and a Shariatpur magistrate sent him to jail the next day, fixing a later date to hear the police's remand request and his bail application <sup>[N32](#n32)</sup>. On 15 February, on hearing of the arrest, relatives of the missing men began a hunger strike in the grounds of the Shariatpur District and Sessions Judge's court demanding exemplary punishment and the tracing of the missing men <sup>[N32](#n32)</sup>.
+- **February 2025, Nasirnagar.** After Md Rasel Mia's death the broker from his village fled with his family; the officer-in-charge of Nasirnagar police station said legal steps would be taken if the victim's family gave a written complaint <sup>[N43](#n43)</sup>.
+- **October 2026, Faridpur.** Asked about the returnees' demand for trial of the Faridpur ring, the Additional Superintendent of Police (Crime and Ops) of Faridpur said on 14 October 2026 that legal action would be taken if the victims' families complained, and that steps would follow investigation if anyone had filed a case; one victim at the human chain asked, "Where do I go to get justice?" <sup>[N49](#n49)</sup>.
+- **November 2026, Gaibandha.** The father of the Gaibandha hostage filed a case under the trafficking Act at Sundarganj police station on 5 September 2025, the case was sent to the CID for investigation, and on 12 November 2026 the CID arrested two men from Chandpur village, Singra, at Singra Bazar, Natore; the CID said it was still gathering information on where in Libya the son was held and on rescuing him <sup>[N45](#n45)</sup>.
+
+<a id="where-to-get-help"></a>
+
+### 2.12 Where to get help
+
+- **In Libya:** the Bangladesh Embassy in Tripoli, the Foreign Ministry, the Ministry of Expatriates' Welfare and IOM organise the return flights <sup>[N25](#n25)</sup>. Libya's Anti-Illegal Migration Agency rescued 13 kidnapped Bangladeshis from a Tripoli hideout in 2026 <sup>[N67](#n67)</sup>. When 113 migrants were flown home in spring 2026, IOM paid the whole cost from the airfare to their travel back to their own villages, Md Touhid Hossain wrote; they went home with nothing <sup>[N38](#n38)</sup>.
+- **In Italy:** Bangladesh Embassy, Rome, Via dell'Antartide 5-7, 00144 Rome, +39 06 808 3595, emergency +39 3511 766 537 <sup>[16](#o16)</sup>. Italy's anti-trafficking helpline 800 290 290 is free, anonymous and open 24 hours <sup>[17](#o17)</sup>.
+- **At home:** a family that paid ransom can file a case with local police, as one victim did at Haziganj police station, Chandpur, in December 2025, which led the CID to arrest a man accused of coordinating the ransom demands (see [Where victims and families get help](#where-victims-and-families-get-help)) <sup>[N27](#n27), [N2](#n2)</sup>. The Deputy Commissioner of Pirojpur, asked in January 2025 about three local men held for ransom in Libya, said the administration has little it can do in such cases, but that if the family complains it can inform the Ministry of Foreign Affairs in writing <sup>[N40](#n40)</sup>. A union parishad member in Karerhat, Mirsarai, said he phoned the Libya-based broker several times to get Azmir Hossain sent home and saw the marks of beating on Azmir's head and body on a video call <sup>[N33 (2024)](#n33)</sup>. In its statement on the Gaibandha case on 13 November 2026 the CID asked everyone to verify the legality of the person, the agency, the visa and the employing firm before going abroad <sup>[N45](#n45)</sup>. BRAC has started a campaign with the slogan "No going abroad by sea", working through police, mosque imams, religious leaders, schools and social media, Shariful Islam Hasan said on 18 August 2026 <sup>[N34](#n34)</sup>.
+
+> **Need to know**
+> - What are the Bangladesh Embassy in Tripoli's working phone, WhatsApp and email for families of people held in Libya? Its website's contact page is empty.
+> - Does IOM Bangladesh take requests from families directly to trace a person held in Libya, and on what number?
+
+<a id="from-the-gulf-overland-through-iran-and-turkey-to-greece"></a>
+
+## 3 From the Gulf overland through Iran and Turkey to Greece
+
+<a id="how-it-is-sold-1"></a>
+
+### 3.1 How it is sold
+
+Faridul Alam of Chandanaish, Chattogram, who had worked in Dubai since 2003, told a columnist writing in Prothom Alo in December 2024 that he made a verbal contract of BDT 5 lakh with a Bangladeshi broker from Noakhali to be taken as far as Greece: BDT 50,000 in advance, BDT 1.5 lakh after reaching Iran and the remaining BDT 3 lakh after reaching Turkey <sup>[N22 (2024)](#n22)</sup>. By his account, after he reached Iran a relative in Dubai deposited BDT 1.5 lakh into an Iranian bank account the brokers gave, and the balance was paid into a bank account the brokers gave while the group was held in Istanbul <sup>[N22 (2024)](#n22)</sup>.
+
+<a id="the-path-1"></a>
+
+### 3.2 The path
+
+1. <a id="the-path-1-item-1"></a>**Dubai to Oman by taxi.** By Faridul Alam's account, at the end of 2010 the smugglers put him and several others in a taxi in Dubai that crossed the UAE border into a coastal hill area of Oman though the passengers had no passport or visa <sup>[N22 (2024)](#n22)</sup>.
+2. <a id="the-path-1-item-2"></a>**Oman to Iran by boat.** From there about thirty young men were put on a boat to Bandar Abbas in Iran, where another Bangladeshi broker received them <sup>[N22 (2024)](#n22)</sup>.
+3. <a id="the-path-1-item-3"></a>**Iran to Istanbul.** He said the group was kept about seven days in Iran and taken by taxi and then bus into Turkey, that police took them off the bus on the way to Istanbul and sent them back to the border six times, and that the broker's men sent them again each time until they reached Istanbul on the seventh attempt <sup>[N22 (2024)](#n22)</sup>.
+4. <a id="the-path-1-item-4"></a>**Istanbul to Greece by lorry.** He said that in Istanbul many people were kept crammed in one room and not allowed outside for more than a month, and that about a hundred people were then loaded for Greece into a closed lorry-like vehicle with room for 25 to 30 at most <sup>[N22 (2024)](#n22)</sup>.
+
+Sujan Mia of Simtola village, Chhatak upazila, said on 18 April 2026 that he first went from Bangladesh to Oman for construction work, moved to Dubai after a problem with his iqama (residence permit) and then worked in Qatar, and later returned to Dubai to head for Europe, going through Oman to Iran, Turkey, Greece, North Macedonia and Serbia, working illegally to survive <sup>[N37](#n37)</sup>. Both men later went on through the Balkans (see [The Balkans and Eastern Europe](#the-balkans-and-eastern-europe)) <sup>[N22 (2024)](#n22), [N37](#n37)</sup>.
+
+<a id="what-happens"></a>
+
+### 3.3 What happens
+
+- **Arrival in Greece.** By Faridul Alam's account, Greek soldiers or border guards caught the group where the lorry dropped them and put them in jail, UN refugee agency staff then moved them to a refugee camp, and after about ten days they were given a document called a "stay paper" and took a bus to Athens with the EUR 60 per person the smugglers had handed them in Istanbul <sup>[N22 (2024)](#n22)</sup>.
+- **A false nationality.** He said he presented himself as Rohingya in all his asylum applications in Greece because the smuggling ring's brokers advised that asylum might be easier that way; the court did not accept his application and stamped his stay paper, which let him stay one month, and he never got asylum in Greece despite four or five interviews <sup>[N22 (2024)](#n22)</sup>.
+- **Nothing to send home.** He said he lived about four years in Athens hawking and doing manual work, with police at times detaining him and taking his goods, and that what he earned fed him and left nothing to send to his family in Bangladesh <sup>[N22 (2024)](#n22)</sup>.
+- **Refused again further on.** His asylum applications were rejected in Germany, where he lived on EUR 350 a month from a refugee camp from 2015 to 2018, and again in Paris, where the process took from 2018 to 2021; in December 2024 he was cooking for a mess of Bangladeshis in La Courneuve, Paris <sup>[N22 (2024)](#n22)</sup>.
+- **No passport to come home on.** He said the Bangladesh embassy in Paris took his application and fingerprints for a passport and, after a long wait, told him it could not issue a new passport unless he submitted his old Bangladeshi one, which he had thrown away when he set out from Dubai because, he said, an asylum application cannot be made while holding it <sup>[N22 (2024)](#n22)</sup>.
+
+<a id="the-balkans-and-eastern-europe"></a>
+
+## 4 The Balkans and Eastern Europe
+
+<a id="how-it-is-sold-2"></a>
+
+### 4.1 How it is sold
+
+The product is a "work permit" or "work-permit visa" for an Eastern European country, sold by individuals and some agencies for lakhs of taka <sup>[N11 (2021)](#n11)</sup>. Victims report that the papers the agency hands over are declared fake once the file reaches the embassy, and that one permit is resold to several people with the name changed <sup>[N11 (2021)](#n11)</sup>. In April 2026 thirteen countries' missions, including Italy, Hungary and Germany, jointly warned Bangladeshis against false documents, unlicensed agents and payments to anyone claiming special access; none of them works with any agent <sup>[N68](#n68)</sup>. A Romanian job sold for EUR 11,000 (about Tk 15.4 lakh) turned out to be undeclared building work, 12 hours a day, 7 days a week <sup>[N69](#n69), [7](#o7)</sup>. Thousands of Bangladeshis have paid up to EUR 20,000 for Italian work permits under Italy's quota scheme (Decreto Flussi) that never came <sup>[N70](#n70)</sup>.
+
+<a id="the-path-2"></a>
+
+### 4.2 The path
+
+- **Legal entry, then onward.** Workers go legally to a cheaper EU country such as Romania, lose the job or the papers, and move on to Italy <sup>[N70](#n70)</sup>. One man paid EUR 300 more for the Romanian nulla osta (permission) he needed to change jobs, then flew to Italy to join a cousin, Romania now being in the Schengen area (the EU zone without border checks) <sup>[N69](#n69)</sup>.
+- **Overland from Greece.** Faridul Alam, who had reached Greece from Dubai through Iran and Turkey (see [From the Gulf overland through Iran and Turkey to Greece](#from-the-gulf-overland-through-iran-and-turkey-to-greece)), said that at the end of 2014 he left Athens by bus with two or three other Bangladeshis for Macedonia, then Serbia, then Hungary, where the bus of Afghan, Pakistani and Bangladeshi refugees was taken to a refugee camp; he then left for Austria and Germany, and in the Czech Republic police held him eight to ten days and took the money and papers in his bag and pockets and did not return them <sup>[N22 (2024)](#n22)</sup>. Sujan Mia, who had also come from the Gulf, said that, finding no chance of legal work in the countries he passed through, he went back to Greece and from there travelled through Bulgaria, Albania and Bosnia and across Italy to France, where he worked about four years and eight months and tried to regularise; though he paid tax and completed the process, he was caught before he got legal papers and came back to Bangladesh <sup>[N37](#n37)</sup>.
+- **Overland through Bosnia.** In September 2026 Bosnian border police stopped 96 people, 36 of them Bangladeshis, crossing illegally at Bistrica near Gradiska, and seized two boats <sup>[N71](#n71)</sup>.
+- **Refused, then the boat.** A Cumilla man spent three years trying Serbia, Romania, Slovenia and Belarus legally, was refused every time, then went irregularly <sup>[N16](#n16)</sup>.
+- **Through Central Asia.** Brokers have taken men sold "Poland" or "Europe" to Kyrgyzstan instead (see [Kyrgyzstan and Central Asia as a stepping stone](#kyrgyzstan-and-central-asia-as-a-stepping-stone)) <sup>[N72 (2023)](#n72), [N73](#n73)</sup>.
+- **Fake visa on the plane.** In December 2022 a Bangladeshi flying from Abu Dhabi to Krakow, Poland, on a fully forged Polish work visa bought for about USD 2,000 was refused entry and charged <sup>[18 (2022)](#o18)</sup>.
+
+<a id="what-happens-1"></a>
+
+### 4.3 What happens
+
+- **Serbia:** more than 40 Bangladeshis recruited by Bangladeshi agencies reached the Linglong tyre factory in June 2025; rights groups reported possible trafficking <sup>[N74](#n74)</sup>. Many had borrowed up to USD 10,000 and had passports taken on arrival; workers said they were paid below Serbia's minimum wage of about USD 660 a month, and their contracts named a Serbian middleman company, not the factory <sup>[N74](#n74)</sup>.
+- **Eastern Europe generally:** workers find the pay lower than promised, and lower still after tax <sup>[N11 (2021)](#n11)</sup>. Employers in Poland, Hungary, Bulgaria, Slovenia, Croatia, Kosovo, Albania and Montenegro are increasingly reluctant to hire Bangladeshis because many leave for Western Europe <sup>[N63](#n63)</sup>.
+- **Being sent back:** about 5,000 Bangladeshis have been returned from Europe under a 2017 return agreement, most from Cyprus, Italy, Romania and France <sup>[N75](#n75)</sup>.
+- **Visa refusals:** in 2025 Schengen consulates in Bangladesh refused 54.5% of applications, and the Italian ambassador links high refusals to fake documents <sup>[19](#o19), [20](#o20)</sup>. A forged document leads to refusal and a flag in the Schengen system that affects all future EU travel <sup>[21](#o21)</sup>.
+
+<a id="the-numbers-1"></a>
+
+### 4.4 The numbers
+
+- **Legal flows:** 18,220 Bangladeshis migrated legally to Europe from January to 25 June 2026 <sup>[N63](#n63)</sup>.
+- **The risky "new" countries:** from January 2025 to 30 October 2026, 44,122 Bangladeshis got BMET clearance for 12 countries the Ministry now restricts, 27,647 of them for Cambodia, Russia, Laos and Belarus <sup>[N76](#n76)</sup>. Cambodia, Russia, Laos and Belarus are on the lowest tier (Tier 3) of the US State Department's 2026 Trafficking in Persons report <sup>[N77](#n77)</sup>.
+- **Visa processing:** applications for several European countries are handled by embassies outside Bangladesh, mainly in India <sup>[N63](#n63)</sup>.
+
+<a id="the-law-1"></a>
+
+### 4.5 The law
+
+- **Bangladesh:** on 4 November 2026 the Ministry of Expatriates' Welfare told BMET to give no emigration clearance for 12 countries without the Ministry's recruitment permission or approval <sup>[N78](#n78)</sup>. Every published list names Serbia, Moldova, Belarus, Japan, Iraq, Laos, Vietnam, Ukraine and Libya; most also name Russia and Cambodia; the rest differ between reports (Congo, Kosovo, Croatia or Bosnia) <sup>[N78](#n78), [N79](#n79), [N80](#n80), [N77](#n77)</sup>. As Prothom Alo reported it on 5 November 2026, the letter to BMET's Director General names Serbia, Moldova, Belarus, Congo, Russia, Japan, Iraq, Laos, Vietnam, Cambodia, Ukraine and Libya, and BAIRA (the Bangladesh Association of International Recruiting Agencies) sent a copy of the instruction to all its member agencies the same day <sup>[N81](#n81)</sup>. Getting or selling a demand letter, visa or work permit by illegal means is a crime (see [The law in Bangladesh](#the-law-in-bangladesh)) <sup>[2](#o2)</sup>.
+- **EU:** forging a visa or using one is punished in Italy by 1 to 6 years in prison <sup>[22](#o22)</sup>.
+
+<a id="where-to-get-help-1"></a>
+
+### 4.6 Where to get help
+
+Report a fake permit offer to BMET or the CID (see [Where victims and families get help](#where-victims-and-families-get-help)) <sup>[4](#o4), [N24](#n24)</sup>. People in the sector told Prothom Alo in November 2026 that workers interested in jobs in the 12 restricted countries should hold back from any payment or final decision until the appointment letter, the Ministry's approval and the emigration clearance have all been confirmed <sup>[N81](#n81)</sup>.
+
+> **Need to know**
+> - What is the street price in 2026 of a Serbia, Croatia or Romania "work permit" sold in Dhaka or Sylhet, and how is it paid?
+> - Is anyone still being sent through Minsk to cross into Poland or Lithuania, and what does that leg cost?
+> - What is the exact list of 12 countries in the Ministry's 4 November 2026 letter?
+
+<a id="the-united-states-through-south-america-and-mexico"></a>
+
+## 5 The United States through South America and Mexico
+
+<a id="how-it-is-sold-3"></a>
+
+### 5.1 How it is sold
+
+Dr Delwar Arif, an associate professor at Canisius University in New York, wrote in a Prothom Alo column on 27 March 2026 that a ring took crores of taka from thousands of people in the name of sending them to the United States, through well-furnished offices in upmarket areas of Dhaka and eye-catching advertisements <sup>[N82](#n82)</sup>. According to the column, the advertisements say "Do you want to settle in America?" and "Get a green card in America by investing only Tk 50 to 60 lakh"; the writer says they take Tk 50 to 60 lakh a head only to bring a person across the southern or northern border of the United States, and that the dalals and traffickers do not care what happens after arrival or whether the person is caught <sup>[N82](#n82)</sup>.
+
+<a id="the-path-3"></a>
+
+### 5.2 The path
+
+- **Through Suriname.** According to a US Embassy case statement of February 2024, one of the accused, Mofizur Rahman, traffics people from Bangladesh to Dubai and, with other dalals, to the United States, and sent his own brother from Bangladesh first through India to Suriname in South America, from where the brother went to the United States across the Mexico border <sup>[N23 (2024)](#n23)</sup>.
+- **Through Paraguay.** According to the same statement, another accused, Ashraful Alam Bhuiyan, said in his visa interview that he helps traffic people to the United States through Paraguay in South America <sup>[N23 (2024)](#n23)</sup>.
+- **Eleven countries in nine months.** Hossain, a rice farmer from Feni whose land had flooded repeatedly and who said ruling-party members were threatening him over his opposition politics, sold his land and borrowed about USD 33,000 from relatives and friends, raising USD 41,000 in all for travel and the dalal's costs, according to an investigation by Columbia Journalism Investigations (CJI) and Documented republished by Prothom Alo in October 2025 <sup>[N83](#n83)</sup>. He left Bangladesh in February 2023 and crossed 11 countries by air and land over nine months before giving himself up to border officers in the US state of Arizona, who held him for three days in a room with 15 people and then released him <sup>[N83](#n83)</sup>.
+
+<a id="what-happens-2"></a>
+
+### 5.3 What happens
+
+- **Asylum.** A legal firm in Manhattan filed Hossain's asylum application in April 2024 on the ground that he supports a Bangladeshi opposition party; the effect of climate-driven floods on his income and livelihood is not an accepted ground for asylum, and the investigation says the United States has no specific provision protecting people who flee climate disasters <sup>[N83](#n83)</sup>.
+- **Work while waiting.** While waiting for his hearing in the immigration court, Hossain got a US work permit after seven months; he worked first as a kitchen helper in a local restaurant, then delivering food by bike in Brooklyn, and in 2025 worked full time, six days a week, at a Bengali sweet shop and cafe in Kensington, Brooklyn, sharing a nearby basement apartment with two roommates <sup>[N83](#n83)</sup>. The investigation says Bangladeshi migrants arriving in New York first settle around the Bangladeshi grocery shops and restaurants of Kensington, and that an estimated 1 lakh Bangladeshis live in New York City <sup>[N83](#n83)</sup>.
+- **Detention.** Officers of US Immigration and Customs Enforcement (ICE) detained two Bangladeshis from Noakhali who were working in Buffalo, New York, and Hossain keeps copies of his asylum application and court hearing notices to hand and his lawyer's number on speed dial in case ICE comes to his home <sup>[N83](#n83)</sup>.
+- **Family left behind.** Hossain had hoped that once granted asylum he could apply to bring his wife and daughter; he said that had he known how hard it now is, he would not have come to the United States <sup>[N83](#n83)</sup>.
+- **Fake lawyers in the US.** Dr Delwar Arif wrote that, according to reports aired by ABC's Channel 7, MSN and Bangla channels in the United States, a Bangladeshi in New York who posed as an immigration lawyer without being one, and his firm, took millions of dollars from Bangladeshi and other legal and illegal immigration-seekers in the United States, USD 60 thousand from one person alone <sup>[N82](#n82)</sup>. He writes that in nearly two decades in the United States he has heard of many cases of people being cheated through Bangladeshi immigration lawyers, that many highly educated Bangladeshis are among the victims, and that US embassies could protect would-be migrants through public awareness campaigns and joint work with local law enforcement <sup>[N82](#n82)</sup>.
+
+<a id="the-numbers-2"></a>
+
+### 5.4 The numbers
+
+- **Growth:** according to CJI and Documented's analysis of US Customs and Border Protection records, border crossings from Bangladesh rose 150% from 2019 to 2024 <sup>[N83](#n83)</sup>.
+- **Home districts:** in the same analysis Noakhali is the top district of origin, with more than 30% of the Bangladeshis detained at the border, and Feni is among the top 10 Bangladeshi towns from which people reached the US-Mexico border <sup>[N83](#n83)</sup>.
+- **2024 detentions:** among people detained in 2024 whose records the investigation examined, about 100 were born in Bangladesh, against more than 520 born in Guatemala and about 350 in Senegal <sup>[N83](#n83)</sup>.
+
+<a id="the-law-2"></a>
+
+### 5.5 The law
+
+- **Bangladesh:** a US Embassy official filed a case at Gulshan police station, Dhaka, in February 2024 against five Bangladeshis on charges of involvement in human trafficking; the case says two of them, Mofizur Rahman (54) and Ashraful Alam Bhuiyan (33), went for US visa interviews on 11 February and admitted during the interviews that they are involved in trafficking people from Bangladesh to various countries and work mainly as dalals <sup>[N23 (2024)](#n23)</sup>. The case names two associates, Mohammad Zaman and Bhasani, and says a man named Mohammad Nur Alam heads the ring; the police Counter Terrorism and Transnational Crime (CTTC) unit was given the investigation, and its deputy commissioner said in February 2024 that the process of formally taking over the case file from Gulshan police station had begun <sup>[N23 (2024)](#n23)</sup>.
+
+<a id="the-visitor-visa-bond"></a>
+
+### 5.6 The visitor visa bond
+
+- **The rule.** From 21 January 2026, Bangladeshi citizens approved for a US business or tourist visa (B1/B2) must post a bond of up to USD 15,000 (about Tk 18 lakh 35 thousand at Tk 122.31 a dollar), the US Embassy in Dhaka said in a notice on its verified Facebook page on 19 January 2026; the condition does not apply to holders of valid B1/B2 visas issued before that date <sup>[N84](#n84)</sup>. The US State Department's travel website said on 6 January 2026 that citizens of 38 countries including Bangladesh must post the bond, and the embassy's notice said the money is returned if the visa's conditions are properly followed <sup>[N84](#n84)</sup>.
+- **How it is paid.** An applicant found eligible after the visa interview is given payment instructions by the consular officer with a direct link to pay.gov, and must pay the bond within 30 days, the embassy said on 26 January 2026 <sup>[N85](#n85)</sup>.
+- **When it is lost.** The visa issued under the bond pilot programme is single-entry and valid for at most three months, the holder must enter the United States through certain designated ports of entry, and the bond is cancelled automatically and the money returned after the holder comes home if all the visa's conditions are met, among them not working in the United States and returning within the set time, the embassy said <sup>[N85](#n85)</sup>.
+
+<a id="visit-and-tourist-visas-sold-as-jobs"></a>
+
+## 6 Visit and tourist visas sold as jobs
+
+<a id="how-it-is-sold-4"></a>
+
+### 6.1 How it is sold
+
+The Ministry of Expatriates' Welfare warned in February 2025 that brokers lure people with pay and jobs and send them on tourist or visit visas to the Middle East, Russia, Greece, Libya, Lebanon, Egypt, Cambodia, Malaysia and elsewhere <sup>[23](#o23)</sup>. Brokers tell people they have a work visa: to Saudi Arabia, allegedly, a three-month tourist visa sold with a promised 15-month iqama (residence permit); to Cambodia, a one or two-month tourist visa sold as a two-year work visa <sup>[N17 (2024)](#n17), [N15](#n15)</sup>. Women are sent to Dubai on tourist or visit visas for promised jobs in dance bars, beauty parlours, restaurants or homes <sup>[N2](#n2)</sup>. Some victims went with BMET clearance and still landed on a visit visa <sup>[N86](#n86)</sup>. Ali Akbar Khan, acting additional inspector general of police at the CID (the Criminal Investigation Department of the police), said at a Prothom Alo roundtable in July 2026 that many people go abroad on tourist visas and are then cheated, and that some go from being victims to becoming traffickers themselves <sup>[N87](#n87)</sup>. For Canada, a Prothom Alo report from Canada in April 2024 said each person who came on a visit visa had spent Tk 5 to 15 lakh on it, because the visa is document-based and dishonest rings made the financial and other documents for them <sup>[N88 (2024)](#n88)</sup>. The Maldives gives Bangladeshi tourists a visa at the airport, and dalals use this to cheat workers <sup>[N89 (2024)](#n89)</sup>.
+
+<a id="the-path-country-by-country"></a>
+
+### 6.2 The path, country by country
+
+- **UAE (Dubai):**
+  - The UAE market closed to Bangladeshis in 2012 after complaints about workers; about 25,000 a year still went in 2014 and 2015, 1,000 in 2020, and sending resumed in 2021 <sup>[N90 (2024)](#n90)</sup>.
+  - After the Covid pandemic the UAE began taking workers on travel visas, with the employer applying after arrival to change it to an employment visa; agency owners said in 2024 that a ring used this to cheat workers, many of whom found no work and lived on the streets and in parks <sup>[N90 (2024)](#n90)</sup>. Shakirul Islam, chair of OKUP (Ovibashi Karmi Unnayan Program, a migrant workers' organisation), said workers who went on travel visas had to pay brokers again to get an employment visa <sup>[N90 (2024)](#n90)</sup>. Tipu Sultan, joint secretary general of BAIRA (the Bangladesh Association of International Recruiting Agencies), said many found no work, which damaged Bangladesh's image and reduced interest in its workers <sup>[N90 (2024)](#n90)</sup>.
+  - BAIRA's secretary general said in June 2024 that the UAE does not give visas for hiring in the unskilled sector and wants workers in professional categories, where Bangladeshi workers lack certificates, although the visa type can be changed after arriving <sup>[N90 (2024)](#n90)</sup>. An employer found connected with a worker who has become illegal is fined AED 50,000 (UAE dirhams), one reason UAE employers became unwilling to take Bangladeshis <sup>[N90 (2024)](#n90)</sup>.
+  - The UAE restricted both work and visit visas for Bangladeshis in July 2024, and turning a visit visa into a work visa has been closed to Bangladeshis for years <sup>[N91](#n91), [N92](#n92)</sup>. Dubai is the usual transit point to Libya and has also been used for Kyrgyzstan and Russia <sup>[N16](#n16), [N93 (2024)](#n93), [N94](#n94)</sup>.
+
+> **Need to know**
+> - Can a Bangladeshi on a UAE visit visa have it changed to an employment visa inside the UAE in 2026? Agency leaders said in June 2024 that it could be, a January 2026 report says it has been closed for several years, and the Bangladesh Embassy said in September 2025 that no UAE visa ban had been announced.
+
+- **Saudi Arabia:** a visit visa can't be turned into an iqama; offers to convert one for a fee are fraud <sup>[N95 (2022)](#n95)</sup>. Saudi Arabia stopped new business, tourist and family visit visas for Bangladeshis from April to June 2025 after people used them to do Hajj <sup>[N96](#n96), [N97](#n97)</sup>. An immigration official said traffickers sometimes use a valid visa for one country, such as a tourist or Umrah (pilgrimage) visa, before sending people elsewhere <sup>[N2](#n2)</sup>.
+- **Oman:** since 31 October 2023 a visit visa can't be converted to a work visa in Oman; the person must leave and come back on a work visa <sup>[N98 (2023)](#n98)</sup>.
+- **Kuwait:** every visit visa holder is barred from working and must leave at the end of the visit <sup>[24](#o24)</sup>. Only some visit visas can be converted, for KD 150 (Kuwaiti dinars) <sup>[25](#o25)</sup>.
+- **Qatar:** a visit visa can't be converted inside Qatar to a work visa <sup>[26](#o26)</sup>. In 2014, 23 Bangladeshis brought on tourist visas with job promises had no work for three months, overstayed and were arrested <sup>[N99 (2014)](#n99)</sup>.
+- **Malaysia:** in October 2026 the CID arrested a Paltan travel agency owner accused of taking two people to Malaysia on visit visas with a promise of work permits, holding them and demanding Tk 5 lakh from their families <sup>[N100](#n100)</sup>. In September 2026 Malaysian immigration detained 147 Bangladeshis on Sepang building sites where employers had misused social visit passes <sup>[N101](#n101)</sup>. A woman taken to Malaysia on a visit visa on 15 November 2025 for a promised restaurant job said her passport, ticket and papers were taken on arrival and she was told she would get no work unless she paid the balance, though she had agreed to pay the last Tk 5,000 after starting work (see "A visit or tourist visa sold as a job" in the Dalal scams doc) <sup>[N87](#n87)</sup>.
+- **Maldives:** workers land through Kuala Lumpur, Chennai or Malé with a forged 12-month work visa that is really a three-month tourist visa <sup>[N102 (2023)](#n102)</sup>. Some workers went in on the airport tourist visa without the embassy's attestation, and in 2024 they were being identified <sup>[N89 (2024)](#n89)</sup>. The High Commission says a tourist can never get a work visa there, and trying to work on one can mean jail and a fine <sup>[27](#o27)</sup>.
+- **Canada:** in 2024 Canada announced that people who found an LMIA-approved job (one for which no one already allowed to work in Canada could be found; LMIA is the Labour Market Impact Assessment) could come and work temporarily, and many Bangladeshis who came on visit visas without understanding this found no such job and claimed political asylum <sup>[N88 (2024)](#n88)</sup>.
+
+<a id="the-numbers-3"></a>
+
+### 6.3 The numbers
+
+- **UAE:** BMET data show about 8,500 workers a month went to the UAE in 2022, 8,200 a month in 2023 and 6,500 a month in the first four months of 2024 <sup>[N90 (2024)](#n90)</sup>.
+- **Maldives:** the market closed in 2019, when 4,411 workers went; after the pandemic began the Maldives caught workers without valid papers and sent them home, 16,000 between March and December 2021, then regularised about 40,000 irregular Bangladeshis before the market reopened in December 2023 <sup>[N89 (2024)](#n89)</sup>. In May 2024 there were about 100,000 legal Bangladeshi workers there and possibly at least 30,000 more irregular ones <sup>[N89 (2024)](#n89)</sup>.
+
+<a id="what-happens-3"></a>
+
+### 6.4 What happens
+
+- **No legal work:** the Ministry of Expatriates' Welfare says a tourist or visit visa gives no legal scope to work, so people sent on one suffer financial and mental harm and are put at risk, and deaths are occurring on illegal routes <sup>[N103](#n103)</sup>.
+- **Debt bondage and sex work:** women taken to Dubai have passports and phones taken, are confined, and are given invented debts of USD 10,000 to 15,000 that some are forced to work off in sex work <sup>[N2](#n2)</sup>.
+- **Ransom:** the Malaysia visit-visa case above ended in a ransom demand <sup>[N100](#n100)</sup>.
+- **Overstay and deportation:** visit visas expire, the person becomes illegal and is arrested (Qatar 2014, Kuwait, Maldives) <sup>[N99 (2014)](#n99), [24](#o24), [27](#o27)</sup>.
+- **Airport collusion:** allegations reported in November 2026 say brokers pay some airport staff Tk 30,000 to 50,000 per passenger, called a "body contract", to pass immigration with incomplete papers <sup>[N2](#n2)</sup>.
+- **Canada, as reported in April 2024** (see also Asylum claims built on a false story) <sup>[N88 (2024)](#n88)</sup>:
+  - Travellers were being turned back at airports before entering Canada, documents were checked again on landing, and those with fake invitation letters and fake documents were sent home at once <sup>[N88 (2024)](#n88)</sup>.
+  - Visit-visa applicants had shown a good job or business, large bank balances and ties at home, then told a different story to claim asylum, so many were expected to lose their cases and be removed <sup>[N88 (2024)](#n88)</sup>.
+  - An asylum claimant must prove his life is under threat at home and must hire an immigration lawyer, who charges at least CAD 7,000 to 10,000; a claimant who loses is removed <sup>[N88 (2024)](#n88)</sup>.
+  - Claimants got roughly 700 dollars a month from the government until they found work and had to hand over their passports, so could not go home; thousands could find no work for lack of English, relevant experience and education <sup>[N88 (2024)](#n88)</sup>.
+  - Many were living on food banks, which had cut what they give as crowds grew, and were bringing large sums from home through hundi to fight their cases <sup>[N88 (2024)](#n88)</sup>.
+  - A ring inside Canada was sending people on to the United States across unguarded border points near Montreal, and various sources said many were held in US jails <sup>[N88 (2024)](#n88)</sup>.
+
+<a id="the-law-3"></a>
+
+### 6.5 The law
+
+- **Bangladesh:** the Ministry's rule is never go to work on a tourist or visit visa on a broker's promise, and never go without BMET clearance <sup>[23](#o23)</sup>. The same notice says to confirm with BMET that the job and the recruiting agency are genuine, and not to go abroad for work through anyone other than a valid recruiting agency <sup>[N103](#n103)</sup>. Taking money on a false promise of a job abroad is punished by up to 5 years in prison and a fine of at least Tk 1 lakh <sup>[2](#o2)</sup>.
+- **Destinations:** Kuwait bars every visit visa holder from working, and in the Maldives trying to work on a tourist visa can mean jail and a fine (see The path, country by country) <sup>[24](#o24), [27](#o27)</sup>.
+
+<a id="where-to-get-help-2"></a>
+
+### 6.6 Where to get help
+
+The Probash-Bondhu call centre answers workers and families 24 hours (see [Where victims and families get help](#where-victims-and-families-get-help)) <sup>[28](#o28)</sup>.
+
+> **Need to know**
+> - What does a Dubai or Saudi tourist visa "with job" sell for in Dhaka in 2026?
+
+<a id="free-visas-and-visa-trading-in-the-gulf"></a>
+
+## 7 Free visas and visa trading in the Gulf
+
+<a id="how-it-is-sold-5"></a>
+
+### 7.1 How it is sold
+
+A "free visa" (also called "azad visa", meaning a free or independent visa) is a visa the worker buys that is not tied to a real job <sup>[N12](#n12)</sup>. Under kafala, the Gulf sponsorship system, the visa is issued for one employer, and the sponsor lets the worker work elsewhere in return for a fee <sup>[N104 (2016)](#n104)</sup>. Brokers and some agencies tell workers they will easily find work and earn a lot once there, and charge Tk 4 to 7 lakh for Qatar <sup>[N6](#n6), [N105](#n105)</sup>. Dr Selim Reza of North South University's Centre for Migration Studies wrote in May 2026 that in practice a "free visa" means sending a worker without any specific job, a form of visa trading from which brokers, recruiting agencies and some dishonest businessmen profit <sup>[N105](#n105)</sup>. OKUP (Ovibashi Karmi Unnayan Program, a migrant rights group) found free-visa migrants to the Gulf paid about Tk 5 lakh, against the government-set average of Tk 1.16 lakh <sup>[N106](#n106)</sup>. Of those who knowingly bought one, 54% went through illegal broker networks, 31% through distant relatives, 8% through family and 7% directly through recruiting agencies <sup>[N106](#n106)</sup>. In Kuwait an organised ring sells visas for lakhs of taka under the "free visa" name <sup>[N107](#n107)</sup>.
+
+Qatar's own request is for skilled workers: at the seventh Bangladesh-Qatar joint committee meeting on 18 May 2026 Qatar showed interest in technical workers, especially electricians, plumbers, welders and AC technicians, and its labour minister said Qatar wants skilled workers directly from five specific TTCs (Technical Training Centres) in Bangladesh <sup>[N105](#n105)</sup>.
+
+> **Need to know**
+> - Which five TTCs did Qatar name, and how does a trainee there get onto that direct channel?
+
+<a id="what-happens-4"></a>
+
+### 7.2 What happens
+
+- **No job:** 43% of free-visa migrants found no work on arrival <sup>[N108](#n108)</sup>. The visa is tied to a sponsor with no job, and most end up in low-paid work or broken contracts <sup>[N107](#n107)</sup>. Workers who spend Tk 4 to 7 lakh on a Qatar "free visa" find a company's name on the papers but no work behind it, Selim Reza wrote in May 2026 <sup>[N105](#n105)</sup>. A Bangladeshi worker in Riyadh wrote in August 2025 that dalal rings bring workers through various agencies on false promises but cannot give them work, so many hunt for work themselves; he had seen cheated workers sleeping on the street and one preparing to kill himself under the weight of debt <sup>[N109](#n109)</sup>.
+- **Paying again:** 21% had to pay about Tk 1.5 lakh more after arrival to get an iqama, and 14% could not pay, got no permit and stayed illegally <sup>[N106](#n106)</sup>. In Qatar, sponsors sometimes demand regular payments to keep sponsoring <sup>[N110](#n110)</sup>.
+- **Absconding cases:** brokers in Kuwait file false "absconding" (runaway) reports to free up visa quotas for resale, and some sponsors in Oman report free-visa workers as absconding so they are not punished if the worker is caught elsewhere <sup>[N111](#n111), [N104 (2016)](#n104)</sup>.
+- **No rights:** in Qatar a free-visa worker has no legal help if unpaid <sup>[29 (2021)](#o29)</sup>. Free-visa workers there hunt for illegal day labour and many face harassment, arrest or deportation <sup>[N6](#n6), [N105](#n105)</sup>.
+- **Qatar in 2026:** Selim Reza wrote in May 2026 that countless Bangladeshi workers wait for temporary work in and around Doha, some get no work for weeks, and many go unpaid for months <sup>[N105](#n105)</sup>. He wrote that thousands are without work or pay, a large share jobless after being cheated through visa trading and broker rings, some undocumented and many without food or medical care <sup>[N105](#n105)</sup>. After the 2022 football World Cup, he wrote, employment fell in much of Qatar's construction sector as companies wound up projects and laid off workers, so there are fewer openings than before <sup>[N105](#n105)</sup>.
+- **Saudi Arabia:** Amnesty International says migrant workers there have been cheated by recruitment brokers, forced to work extra hours and had wages stolen, in some cases probably amounting to trafficking for labour exploitation; IOM (the International Organization for Migration) lists irregular migration, hidden work such as domestic or informal work, undue employer control, recruitment corruption and dependence on third-party brokers among the risks migrants face there <sup>[N112](#n112)</sup>.
+
+<a id="the-law-4"></a>
+
+### 7.3 The law
+
+- **Bangladesh:** BMET says there is no such thing as a free visa <sup>[30](#o30)</sup>. Buying or selling a visa or work permit inside Bangladesh, or getting one illegally, is punished by 2 to 7 years' rigorous imprisonment <sup>[2](#o2)</sup>. These offences are non-bailable <sup>[2](#o2)</sup>. Selim Reza wrote in May 2026 that it must be ensured no worker can go abroad without a contract for a specific job, and that sending workers on a "free visa" or uncertain employment must stop <sup>[N105](#n105)</sup>.
+- **Qatar:** visa trading, and working on a free visa, carry up to 3 years in prison and a fine of up to QR 50,000 (Qatari riyals) <sup>[31 (2015)](#o31), [29 (2021)](#o29)</sup>.
+- **Oman:** an Omani caught granting free visas is fined 1,000 rials, but the practice is widespread <sup>[N113 (2021)](#n113)</sup>.
+- **Kuwait:** the Bangladesh ambassador says there is no free visa in Kuwait law <sup>[N114](#n114)</sup>.
+- **Maldives:** the High Commission says there is no free visa; working for another company brings arrest and deportation <sup>[1 (2024)](#o1), [N115](#n115)</sup>. Its notice of 22 May 2024 said there is no scope to work outside the approved employer and that a number of unskilled workers had been sent home for breaking this law <sup>[N89 (2024)](#n89)</sup>.
+
+<a id="the-numbers-4"></a>
+
+### 7.4 The numbers
+
+- **OKUP 2025:** of 1,084 migrants studied, 51% travelled on so-called free visas <sup>[N116](#n116)</sup>.
+- **Kuwait:** visa trading and airfares push costs to 5 to 6 times the government rate of Tk 1.06 lakh <sup>[N117](#n117)</sup>.
+- **Qatar:** about 473,000 Bangladeshis work there, about 30% on development projects, Qatar's labour minister said on his visit to Dhaka from 17 May 2026 <sup>[N105](#n105)</sup>; 107,598 workers went from Bangladesh to Qatar in 2023, by the overseas employment ministry's data <sup>[N105](#n105)</sup>.
+
+<a id="where-to-get-help-3"></a>
+
+### 7.5 Where to get help
+
+BMET asks anyone handed such a visa to have it and the other papers checked at BMET in Dhaka or the District Employment and Manpower Office; after it goes wrong, anyone cheated can complain to the government under the 2013 Act (see [Where victims and families get help](#where-victims-and-families-get-help)) <sup>[30](#o30), [2](#o2)</sup>.
+
+<a id="malaysia-boats-and-land-crossings"></a>
+
+## 8 Malaysia: boats and land crossings
+
+<a id="how-it-is-sold-6"></a>
+
+### 8.1 How it is sold
+
+About 17,777 workers with BMET clearance failed to reach Malaysia before the 31 May 2024 deadline <sup>[N118 (2024)](#n118)</sup>.
+
+**By land:** a Bangladeshi smuggling ring broken up in Malaysia in July 2026 is believed to have charged up to RM15,000 (Malaysian ringgit) per person and made about RM3.2 million since January 2026 <sup>[N8](#n8)</sup>. A group caught in Thailand in April 2026 had paid brokers Tk 7 lakh each <sup>[N7](#n7)</sup>.
+
+**By sea, to Rohingya in the camps:** brokers lure Rohingya refugees from the Cox's Bazar camps onto trawlers with good jobs in Malaysia, and girls with a promise of marriage there, taking Tk 20,000 to 30,000 a head before boarding, police and local representatives said in October 2024 <sup>[N119 (2024)](#n119)</sup>. In April 2025 police said the people on one seized trawler had been promised good jobs in Malaysia or marriage to a suitable man, many girls had been married over the phone, and most had paid Tk 30,000 to 50,000 <sup>[N120](#n120)</sup>. Researchers of North South University's Centre for Migration Studies wrote in January 2024 that Rohingya men already in Malaysia persuade parents in the camps to marry them their young daughters without dowry on the promise that the wife can then go safely to Malaysia, and use Facebook, Imo and WhatsApp to draw young women; some who set out die at sea, some are sold as slaves in Myanmar, and some who reach Malaysia are sold there and cut off from their families <sup>[N121 (2024)](#n121)</sup>. The same researchers wrote that traffickers use the family and friends of Rohingya already in Malaysia to persuade others in the camps to go, with promises of help after arrival <sup>[N121 (2024)](#n121)</sup>.
+
+**By sea, to Bangladeshis:** a camp-in-charge of the Refugee Relief and Repatriation Commission (RRRC, the government office that runs the Rohingya camps) said in June 2026 that Bangladeshis as well as Rohingya take the sea route, especially teenage girls taken to Malaysia and Indonesia with the lure of a "better husband" <sup>[N122](#n122)</sup>. Local brokers mainly target teenagers and young men, promising a job paying a lakh of taka with little outlay; people aged 18 to 35 with money are offered onward travel through Malaysia and Indonesia to Australia, the United States or New Zealand, and women are promised good jobs in hotels, motels, parlours or shopping malls, Prothom Alo reported in October 2024 <sup>[N123 (2024)](#n123)</sup>. The eight Bangladeshis rescued in a Teknaf raid on 15 October 2024 came from Patenga in Chattogram and from Teknaf, Cox's Bazar municipality, Maheshkhali, Ramu and Cox's Bazar Sadar, and the police officer-in-charge said an organised ring had gathered them for Malaysia in exchange for large sums of money <sup>[N124 (2024)](#n124)</sup>.
+
+**"Go free, pay after you arrive":**
+- Brokers target unemployed, needy young men of poor families and offer to take them to Malaysia by boat for free, saying they can pay after reaching Malaysia and promising very high wages, Parvez Siddiqui, executive director of the NGO Films for Peace Foundation, said in April 2026; the wife of one missing man, Belal Uddin, said he went because brokers told him he could go without money <sup>[N125](#n125)</sup>.
+- Nur Kamal (21) of Daganbhuiyan, Feni, told Prothom Alo in November 2026 that someone added him to a WhatsApp group offering to take him to Malaysia free of cost, with payment due only after arrival; he left home on 2 November and on reaching Cox's Bazar was taken to a hut in the Teknaf hills, held under 10 to 12 armed guards and beaten <sup>[N126](#n126)</sup>.
+- Kamal (a pseudonym) of Teknaf made a Tk 1 lakh deal to go to Malaysia, to be repaid after he found a good job <sup>[N123 (2024)](#n123)</sup>.
+
+**A first payment, then extortion:** police said a house in Baharchhara, Teknaf, raided in December 2024 was a ring's den: people were gathered there through brokers with promises of a better life, jobs and, for unmarried women, marriage; those brought from the Rohingya camps were first charged Tk 20,000 each, and the ring intended to hold them and extort more money by force on the pretext of getting them to Malaysia <sup>[N127 (2024)](#n127)</sup>.
+
+**Other lures:**
+
+- A social-media friendship and an invitation to visit, which ends in abduction or trafficking, according to the Cox's Bazar police chief in June 2026; he said some fishermen think trafficking people pays more than fishing <sup>[N20](#n20)</sup>.
+- A day out: in September 2026 traffickers took five teenagers and young men from Mithachhari, Ramu, by CNG auto-rickshaw on the pretext of visiting Teknaf's Marine Drive <sup>[N128](#n128)</sup>.
+- Australia by way of Malaysia: brokers offered one college student this for Tk 12 lakh <sup>[N122](#n122)</sup>. People already in Malaysia are being drawn into fraud with assurances that they will be sent on to Australia, according to BRAC's Shariful Islam Hasan in July 2026 <sup>[N87](#n87)</sup>.
+
+**The season:** traffickers are active when the Bay of Bengal is calm, from October or November to March, police and local representatives said in October 2024 <sup>[N119 (2024)](#n119)</sup>. The Deputy Commissioner of Cox's Bazar said in June 2026 that the risk of trafficking by sea rises in winter, when the sea is calm <sup>[N20](#n20)</sup>.
+
+<a id="the-path-4"></a>
+
+### 8.2 The path
+
+**By land:**
+
+1. <a id="the-path-4-item-1"></a>**Fly to Cambodia** <sup>[N7](#n7), [N8](#n8)</sup>.
+2. <a id="the-path-4-item-2"></a>**Cross into Thailand on foot**, then be moved south in stages, kept in hotels and resorts <sup>[N7](#n7)</sup>.
+3. <a id="the-path-4-item-3"></a>**Cross into Malaysia** through the Kelantan border, then wait in a transit house <sup>[N8](#n8)</sup>.
+
+**By sea:**
+
+1. <a id="malaysia-boats-and-land-crossings-item-1"></a>**Held in the hills:** people brought from around the country are kept in the hills and other places near Cox's Bazar, the Coast Guard's East Zone commander said in June 2026 <sup>[N122](#n122)</sup>. In 2025 rings worked in stages, bringing Rohingya out of the camps and driving them to the Kachchhapia area of Teknaf, police said <sup>[N120](#n120)</sup>.
+2. <a id="malaysia-boats-and-land-crossings-item-2"></a>**Out to the boat at night:** small boats take them in the dark to a large trawler or ship; the coastline is 710 km long and a boat can be launched from any point on it <sup>[N122](#n122), [N20](#n20)</sup>. Departures were rising in October 2024 from the coasts of Teknaf, Ukhiya, Ramu, Cox's Bazar Sadar and Maheshkhali, the Anwara and Banshkhali coasts of Chattogram, and the Karnaphuli river <sup>[N119 (2024)](#n119)</sup>.
+3. <a id="malaysia-boats-and-land-crossings-item-3"></a>**Past St Martin's island through Myanmar waters to Thailand**, where passengers were promised they would be handed on and delivered to Malaysia <sup>[N120](#n120)</sup>. Centre for Migration Studies researchers wrote in January 2024 that traffickers first take Bangladeshis and Rohingya to Teknaf, then by boat to the Myanmar-Bangladesh sea border and on in small boats to Myanmar's Samila coast, where migrants pay traffickers in advance for the leg to Malaysia or Australia, in some cases more than was agreed in Teknaf; returnees put the cost of reaching Malaysia this way at Tk 4 to 5 lakh <sup>[N121 (2024)](#n121)</sup>.
+
+Some journeys sold as going through Malaysia end in Myanmar instead: one man promised Australia by way of Malaysia later realised he had been taken into Myanmar, walked for several days over hills and was detained there <sup>[N122](#n122), [N20](#n20)</sup>. Eight Bangladeshis rescued off Teknaf in September 2026 told police they had been taken to Myanmar about a year earlier on the promise of Malaysia and kept there for a year <sup>[N129](#n129)</sup>.
+
+The boat route is older: in 2012 to 2015 thousands tried boat journeys, and trafficking camps and mass graves were found on the Thailand-Malaysia border <sup>[N130](#n130)</sup>. BRAC's Shariful Islam Hasan, who reported on it then as a journalist, puts the number trafficked in that period at about one lakh, and said rescued Bangladeshis, many of them teenagers, were sent home in 2015 with their hands and feet in chains <sup>[N20](#n20)</sup>. The first mass grave, with over 30 bodies, was found in April 2015 near Wang Kelian <sup>[N131 (2023)](#n131)</sup>. The dead had no names and their graves were marked only with numbers <sup>[N122](#n122)</sup>.
+
+<a id="what-happens-5"></a>
+
+### 8.3 What happens
+
+- **On the boat:** there is no food, clean water or toilet, people die and the bodies are thrown into the sea, the Coast Guard's East Zone commander said in June 2026; the torture begins once people are on board <sup>[N20](#n20), [N122](#n122)</sup>. Kamal of Teknaf said that during three months at sea passengers got plain rice, chilli and a glass of water once a day, those who died of hunger were thrown into the sea, anyone who asked for food or water was beaten, and the brokers collected money from families while torturing passengers <sup>[N123 (2024)](#n123)</sup>. The state minister for expatriates' welfare said in June 2026, from victims' and families' accounts, that brokers hold people hostage and take large sums from their families, many die on the way, and those who reach a shore are detained by police there <sup>[N122](#n122)</sup>. Reports of about 500 Rohingya deaths had come in during one week of July 2026, BRAC said <sup>[N87](#n87)</sup>.
+- **Ransom on the way:** before reaching Malaysia, Rohingya are held at the Thai or Myanmar border while ransom is demanded from relatives in the camps, and if that fails there are attempts to abduct family members, a Balukhali camp leader said in January 2025 <sup>[N132](#n132)</sup>.
+- **Ransom without leaving Bangladesh:** every winter rings hold camp Rohingya for ransom in the name of the sea journey, and sometimes sail a big trawler around for several days, leave the passengers somewhere in Cox's Bazar and run off with the money, Teknaf's police chief said in December 2024 <sup>[N133 (2024)](#n133)</sup>. People held in a Teknaf hill den in November 2024 said they were told to call relatives for money and say they were in Myanmar, were tortured and not fed properly, and were held for eight to more than 13 days <sup>[N134 (2024)](#n134)</sup>. Organised rings bring Bangladeshis and Rohingya to the Teknaf coast with promises of high-paid jobs abroad and a better life, then lock them in secret hideouts and extract ransom through torture, the Coast Guard's Teknaf station in-charge said on 6 June 2026 <sup>[N135](#n135)</sup>.
+- **Sold into the dens:** victims freed from a Teknaf den on 5 November 2026 said people were handed to the traffickers for money: S M Asaduzzaman (50) of Saltha, Faridpur, said a man he met in Kutupalong camp lured him with work and handed him over for Tk 10,000, after which he agreed a Tk 2 lakh release deal; Md Saiful Islam of Ukhiya said a broker named Nur Ali handed him over and the traffickers said they had bought him and another man for Tk 1 lakh, and that captives who tried to flee were beaten and chained <sup>[N126](#n126)</sup>.
+- **Abduction for ransom:** at least 193 people, 86 of them Rohingya, were abducted in Teknaf in the year to January 2025 and at least 98 freed on ransom; police found links to trafficking and to some local residents <sup>[N132](#n132)</sup>.
+- **Caught in Thailand:** 21 Bangladeshis found in a resort in Chana in April 2026 were charged with illegal entry and stay <sup>[N7](#n7)</sup>.
+- **Jailed in Myanmar:** Mohammad Jamal of Cox's Bazar, who spent 11 months 19 days in a Myanmar jail after his trawler broke up in 2023, said Bangladeshi prisoners there did all the work, from growing vegetables to cooking, and were fed rice-water at about 7 am, some rice with dried chillies at 11 am and rice once more at 4 pm; the government brought 173 Bangladeshis home from Myanmar's prisons in April 2024 <sup>[N123 (2024)](#n123)</sup>.
+- **Caught in Malaysia:** 15 smuggled Bangladeshis were caught in a Cheras transit house in July 2026 and taken to the Putrajaya immigration depot <sup>[N8](#n8)</sup>. Malaysia's Home Minister reported 465 deaths in immigration depots in 2021 to 2025 <sup>[N136](#n136)</sup>.
+- **Survivors charged at home:** the nine survivors of a sinking in April 2026 were taken to Teknaf police; the three Rohingya were sent back to the camps after giving statements in court, and the six Bangladeshis were charged under the trafficking prevention law and sent to jail, with 10 to 15 unnamed accused added, police inspector Sukanta Chowdhury said <sup>[N125](#n125)</sup>.
+- **Going home:** Malaysia's PRM 2.0 (Migrant Repatriation Programme) lets undocumented migrants leave; Bangladeshis were the largest group in it <sup>[N137](#n137), [N138](#n138)</sup>.
+- **Families of the missing:** Manik Molla of Teknaf said in October 2024 that he had been looking for seven and a half years for his youngest brother Shakil, who left by sea for Malaysia at 17; about two years earlier a broker told him Shakil was in a Malaysian prison, took money from the family, and then disappeared <sup>[N123 (2024)](#n123)</sup>. Sohel, son of the widow Hasina Akter of Karachi Para village, Teknaf, boarded a boat for Malaysia and was not heard from again; the government told her he was held in a Malaysian prison, and she said the government would bring him back once all papers were submitted, Prothom Alo reported in October 2024 <sup>[N123 (2024)](#n123)</sup>.
+- **Silence at home:** families who lose someone at sea or are cheated often don't want to admit it, which makes the crime hard to investigate, the Deputy Commissioner of Cox's Bazar said in June 2026 <sup>[N20](#n20)</sup>.
+
+<a id="cases"></a>
+
+### 8.4 Cases
+
+- 20 June 2014: Nurul Islam of Lohagara, Chattogram, lured with a well-paid job in Malaysia, said he and another man were taken to the Dariyanagar coast in Cox's Bazar and put on a ship by trawler; on the Thai coast brokers tortured them and took Tk 4 lakh ransom before handing them to a broker in Malaysia <sup>[N139 (2024)](#n139)</sup>. Malaysian police arrested him as an illegal immigrant in June 2017, and after a year in prison the government brought him home in October 2018 <sup>[N139 (2024)](#n139)</sup>. He filed a trafficking case against six people in October 2018; in 2019 the 12-year-old brother of an accused was produced in the High Court in his place and given bail, and in May 2024 the Chattogram tribunal sent the man claiming to be that accused to jail and ordered police to find out who the real accused is <sup>[N139 (2024)](#n139)</sup>.
+- July 2023: Mohammad Jamal of Cox's Bazar, persuaded by a broker named Ayub to go to Malaysia on a Tk 4 lakh deal, was taken with nine others by small boat from Gorjonia in Ramu upazila to a small fishing trawler carrying 73 people, five of them girls under 18; after three days the trawler's hull split at the Myanmar border, the passengers surrendered to Myanmar's navy, and he spent 11 months 19 days in a Myanmar jail before coming home with government help, Prothom Alo reported in October 2024 <sup>[N123 (2024)](#n123)</sup>.
+- 5 Jan 2024: Cox's Bazar assistant judge Maitree Bhattacharya saw three Rohingya girls (two aged 12, one 14) from Balukhali camp being put on a wooden boat for Malaysia at Lombarighat on the Teknaf Marine Drive; police with her rescued them and arrested a trafficker, and in what was reported as the first Overseas Employment and Migrants Act case against Rohingya fleeing the camps, the girls were sent to jail with the trafficker, bailed on 9 January and were to be returned to the camp, from where they must attend court <sup>[N140 (2024)](#n140)</sup>.
+- Told Oct 2024: Kamal (a pseudonym) of Teknaf made a Tk 1 lakh deal with a man named Abu to go to Malaysia, to be repaid after he found a good job; brokers pressed for Tk 3 lakh ransom, Malaysian police chased the boat into Indonesian waters, the Bangladeshis on board sank the trawler after two of them died in a quarrel with Rohingya passengers, the Indonesian navy rescued them, and after 11 months' detention there the Bangladesh government brought them home, at a total cost to him of Tk 2 lakh 30 thousand <sup>[N123 (2024)](#n123)</sup>.
+- 12 Oct 2024: the Coast Guard seized a trawler carrying 17 Rohingya from Teknaf's Mochhoni camp at Shikalbaha in Karnaphuli upazila, Chattogram, and arrested three members of a trafficking ring <sup>[N119 (2024)](#n119)</sup>.
+- 14 Oct 2024: brokers who had put more than a hundred Rohingya from the Ukhiya camps on a fishing trawler for Malaysia set them down at dawn on Inani beach after 10 days at sea; police and the Coast Guard detained 26 and the brokers hid <sup>[N119 (2024)](#n119)</sup>. Another 80 to 90 Rohingya escaped <sup>[N124 (2024)](#n124)</sup>. One woman said she had paid a broker Tk 30,000 for a good job in Malaysia; another passenger said the trawler left Teknaf, met the Myanmar navy south of St Martin's island and was turned back <sup>[N119 (2024)](#n119)</sup>.
+- 15 Oct 2024: late at night Teknaf police raided a house in Dakshin Lambari, Teknaf Sadar union, and rescued 20 people gathered to be trafficked to Malaysia by sea, 12 Rohingya including women and children and 8 Bangladeshis, and detained three brokers, Luna Begum and Md Riduan of Dakshin Lambari and Md Abdullah of Kachubunia, Sabrang union, the Teknaf Model police station's officer-in-charge, Muhammad Gias Uddin, said <sup>[N124 (2024)](#n124)</sup>.
+- 12 to 17 Nov 2024: Ekhlas Mia of Ukhiya and his cousin were abducted on the Marine Drive and held in a Teknaf hilltop den with men, women and children tortured for money; unable to pay, he was taken to the beach with 15 to 20 others to be sent by sea, slipped away and asked RAB (Rapid Action Battalion, an elite police force) to rescue the rest <sup>[N134 (2024)](#n134)</sup>. RAB rescued 31 people, 27 Rohingya and 4 Bangladeshis, from the den in the Kachchhapia hills; each had paid Tk 20,000 for the sea journey, the women promised good grooms and the men good jobs <sup>[N134 (2024)](#n134)</sup>. Two men were arrested and a case filed under the trafficking law <sup>[N134 (2024)](#n134)</sup>.
+- 14 Dec 2024: Teknaf police rescued 30 Rohingya, 15 men, 3 women and 12 children, held for ransom in a house in Dakshin Lambari Para after being gathered for Malaysia with promises of jobs and marriage; the ring fled and nobody was arrested <sup>[N133 (2024)](#n133)</sup>.
+- 29 Dec 2024: at about 4 am police raided Abdul Amin's house on a hilltop in Moddhom Kachchhapia, Baharchhara union, Teknaf, rescued 66 people gathered to be trafficked to Malaysia by sea (18 men, 11 women and 37 children; 5 Bangladeshis and 61 Rohingya from the camps), detained five members of the ring and recovered four rifle bullets, a ramdao and a kirich (machete and blade) <sup>[N127 (2024)](#n127)</sup>.
+- 20 Jan 2025: at midnight the Navy and police rescued 19 people, two Bangladeshis and 17 Rohingya from the Ukhiya-Teknaf camps, gathered in huts at the house of Zafar Alam in the hilly Madhyam Kachchhapia area of Baharchhara union, Teknaf, to be trafficked to Malaysia by sea; Zafar Alam (30) was caught after a chase, the others fled, and a case was being prepared, the Teknaf officer-in-charge said <sup>[N141](#n141)</sup>.
+- 25 Jan 2025: the Bangladesh Navy raided a traffickers' den in the Kachchhopia hills, Baharchhara union, Teknaf, rescued 17 men, women and children held hostage for trafficking to Malaysia by sea, 3 of them Bangladeshis and the rest Rohingya from the Ukhiya and Teknaf camps, and arrested a trafficker named Ali Abdullah, Lieutenant Commander Afzal Hossain of the Navy's Teknaf contingent said <sup>[N142](#n142)</sup>.
+- 2 to 9 Apr 2025: an auto-rickshaw driver from Ukhiya said two passengers held him at gunpoint, took him to the Kachchhapia hills, kept him four days in a hut with 20 to 25 others and forced him onto a trawler on 7 April <sup>[N120](#n120)</sup>. On 8 April the navy seized that trawler, FB Kulsuma, 44 nautical miles south-west of St Martin's island with 214 people aboard, 118 men, 68 women and 28 children, and no life-saving equipment or enough food and water; it had left Shaplapur beach in Teknaf <sup>[N120](#n120)</sup>. The RRRC said action was being taken against 12 of the Rohingya for various crimes and the rest went back to the camps <sup>[N120](#n120)</sup>. A woman married by phone was among them (see Marriage, family-visa and fake-nikahnama schemes) <sup>[N120](#n120)</sup>.
+- 26 Mar to 9 Apr 2026: UNHCR (the UN refugee agency) said an overloaded boat that left Bangladesh on 26 March 2026 sank in rough sea with about 250 people missing, and only nine were rescued alive near the Andaman Islands on 9 April <sup>[N143](#n143)</sup>. The nine survivors of the sinking, which Prothom Alo dates to 8 April, were picked up from water drums and pieces of wood by the Bangladesh-flagged merchant ship Meghna Pride and handed to the Coast Guard; the six Bangladeshis among them were then jailed <sup>[N125](#n125)</sup>.
+- 30 Mar 2026: the Coast Guard raided a house in Dakshin Lombori, Teknaf, which it called a traffickers' den, and rescued seven people including women and children who had been brought there, with promises of a better life, high-paid jobs and a cheap passage, to be taken to Malaysia by sea; the traffickers fled and the seven were handed to Teknaf Model Police Station <sup>[N144](#n144)</sup>.
+- 4 Apr 2026: seven young men from Hajipara, Miapara and Natun Ghona villages of Rajakhali union, Pekua, Cox's Bazar, left the Teknaf coast on one of three trawlers that left for Malaysia at about the same time, phoned home until 8 April and have not been heard from since; the Teknaf brokers stopped answering their phones, and one missing man's uncle said Teknaf police only took photos and addresses and sent the family away <sup>[N125](#n125)</sup>.
+- 5 Jun 2026: the Coast Guard chased and seized a fishing trawler off Baharchhara on the Teknaf coast that was taking people to Malaysia by sea, rescued 50 people including women and children (39 Bangladeshis and 11 Rohingya) and arrested nine traffickers, who were handed to Teknaf Model Police Station with a case filed, station in-charge Lt Cdr Md Muttakin Siddiqui said <sup>[N135](#n135)</sup>.
+- Told June 2026: Tarekur Rahman of Maheshkhali said a broker promising an easy Malaysian visa took him to Myanmar, where he was beaten and threatened with death and Tk 1 lakh was taken from his family <sup>[N20](#n20)</sup>. In the first report of his account, a further Tk 7 lakh was taken in Thailand and he was caught at the border on the way to Malaysia, jailed and sent home <sup>[N122](#n122)</sup>. In the fuller account, his family sold their house under torture, food sometimes came only after three or four days, and after another large payment for the onward leg he was caught near the border and held about seven months in a Myanmar prison <sup>[N20](#n20)</sup>.
+- Told June 2026: Aung Aung U Jewel, a college student who could not afford the language tests needed to go legally, set off when brokers promised a cheap route to Australia by way of Malaysia for Tk 12 lakh; they took him into Myanmar, where after days of walking over hills he was detained and spent a month on remand and several months in prison <sup>[N122](#n122), [N20](#n20)</sup>. His family had no news of him until he sent his mother a letter through a Myanmar police officer, and the brokers took money from the family as a "rescue cost" <sup>[N20](#n20)</sup>. When fighting began while he was held in Thandwe prison the prisoners were moved and made to work, and he later came home with the Bangladesh embassy's help <sup>[N20](#n20)</sup>.
+- 11 to 20 Sep 2026: traffickers took five teenagers and young men (two aged 16, two 18 and one 20) from Mithachhari, Ramu, by CNG auto-rickshaw on the pretext of visiting Teknaf's Marine Drive, blindfolded and held them, beat them and collected ransom from their families in instalments while planning to send them by sea to Indonesia and Malaysia; SRB-15 (Special Response Battalion 15) rescued them on 20 September at Khonkarpara ghat near Sabrang Zero Point, Teknaf, and arrested Md Anas alias Munna (21) <sup>[N128](#n128)</sup>.
+- 22 Sep 2026: a boat of irregular migrants from Myanmar's Rakhine state capsized off the Baharchhara coast of Teknaf at dawn, killing a Rohingya woman, Chhura Khatun (28), and her 9-year-old son; of the 16 rescued, eight were Bangladeshis who told police they had been taken to Myanmar about a year earlier on the promise of Malaysia, kept in various parts of Myanmar for a year, and put on the boat for Malaysia the night before <sup>[N129](#n129)</sup>.
+- 1 Oct 2026: the navy ship BNS Khalid Bin Walid, alerted by fishermen, rescued 76 people from a wooden boat whose engine had failed and which was sinking about 81 km west of the St Martin's Island lighthouse; the navy said 65 men, women and children aboard, some lured with good jobs and some kidnapped and held in remote parts of Teknaf, were being trafficked to Malaysia by way of the Myanmar and Thai coasts, and it detained 11 alleged traffickers <sup>[N145](#n145)</sup>.
+- 5 Nov 2026: a joint army, BGB (Border Guard Bangladesh) and police operation freed 57 people from a traffickers' den in the deep hills of Rangikhali, Teknaf, where they were being tortured for ransom and were to be put on a trawler to Malaysia that night; a soldier, Md Titas Sheikh (27), was shot dead in a gunfight, five ring members were detained, and police said one of the 57 was identified as a trafficker <sup>[N126](#n126)</sup>.
+- 7 Nov 2026: BGB rescued nine people, including two aged 16 and 17, gathered at South Lombori ghat, Teknaf Sadar union, to be taken to Malaysia by sea, while 10 to 15 ring members fled by boat; the rescued said men were lured with good jobs and women with marriage to suitable grooms in Malaysia, the Teknaf BGB battalion commander said <sup>[N146](#n146)</sup>.
+- 16 to 20 Nov 2026: 72 people, mostly Rohingya, who had paid brokers Tk 10,000 to 15,000 each, were taken by small fishing boats from Mithapanir Chhara ghat, Teknaf, to a large wooden trawler; after rough seas from a cyclone kept it near St Martin's Island and the crew and brokers quarrelled, the crew landed them at Laboni Point on Cox's Bazar beach late on 20 November and fled, and police rescued 28, mostly Rohingya and the rest from Teknaf, Naikhongchhari in Bandarban and other districts, while the rest ran away <sup>[N147](#n147)</sup>.
+
+> **Need to know**
+> - Did the boat that sank near the Andaman Islands leave Bangladesh on 26 March 2026, as UNHCR said, or was it one of the trawlers that left Teknaf on 4 April and sank on 8 April <sup>[N143](#n143), [N125](#n125)</sup>?
+
+<a id="the-numbers-5"></a>
+
+### 8.5 The numbers
+
+- **2016 to 2023:** law enforcers rescued 1,134 people being taken to Malaysia by sea, 95% of them Rohingya; 85 cases were filed at Ukhiya and Teknaf police stations naming 1,200 accused, of whom 508 were caught <sup>[N119 (2024)](#n119)</sup>. Police and Rohingya leaders said in January 2024 that in the previous five years law enforcers had rescued at least 5,000 Rohingya being trafficked to Malaysia by trawler from the Teknaf, Ukhiya, Cox's Bazar Sadar and Maheshkhali coasts, and that none of those rescued had been charged or jailed <sup>[N140 (2024)](#n140)</sup>.
+- **2018 to 2022:** by UNHCR's figures, cited by researchers of the Centre for Migration Studies in January 2024 and by Prothom Alo in October 2024, 8,312 Rohingya refugees tried to reach Malaysia by sea, and 589 of them died at sea <sup>[N121 (2024)](#n121), [N123 (2024)](#n123)</sup>.
+- **2024:** sea trafficking from Teknaf rose again from January 2024 after six or seven years of being largely stopped, and in the year to January 2025 at least 600 people, including 45 traffickers, were caught in eight or nine operations on the Teknaf coast <sup>[N132](#n132)</sup>. From Lambashia camp alone more than 500 young men and women were sent towards Malaysia in that year, and more than 300 were caught and brought back, a camp leader said <sup>[N132](#n132)</sup>.
+- **January 2025:** Baharchhara union parishad chairman Amjad Hossain said that trafficking syndicates bring Rohingya from the Ukhiya-Teknaf camps to several points on the Baharchhara coast, lure them with promises of Malaysia, hold them in the hills and demand ransom, and that police, RAB and Navy operations had rescued about 150 such victims in January 2025 alone <sup>[N142](#n142)</sup>.
+- **2025:** about 900 Rohingya refugees went missing or died in the Andaman Sea and Bay of Bengal, the deadliest year on record for sea journeys in South and South-East Asia, with one in seven of the more than 6,500 who attempted the crossing dying or going missing, according to UNHCR as reported by Prothom Alo on 17 April 2026 <sup>[N143](#n143)</sup>.
+- **2026:** UNHCR said that more than half of the Rohingya crossing by sea in recent years were women and children, that more than 2,800 had taken the journey in 2026 up to 13 April, and that the boats usually leave Cox's Bazar in Bangladesh or Rakhine State in Myanmar for Indonesia or Malaysia <sup>[N143](#n143)</sup>.
+- **Deaths and missing:** at least 300 people died in more than 20 trawler sinkings in the years to October 2024, according to Abdus Shukkur, a Cox's Bazar human rights lawyer, who said the rings especially target Rohingya girls <sup>[N119 (2024)](#n119)</sup>. About 5,787 people went missing on illegal sea journeys in 2023 alone, about 25% of them women and children and half of them Bangladeshi citizens, according to an assistant representative of UNHCR (the UN refugee agency) in June 2026 <sup>[N20](#n20)</sup>. About two lakh people have crossed the Bay of Bengal in the past decade and many have gone missing, according to BRAC's Shariful Islam Hasan <sup>[N20](#n20)</sup>.
+
+> **Need to know**
+> - What does UNHCR's own publication give for people missing at sea on the Bay of Bengal route in 2023, and how many were women and children?
+> - How many people were rescued from Malaysia-bound boats in 2016 to 2023: 1,134, or at least 5,000 Rohingya in the five years to January 2024 <sup>[N119 (2024)](#n119), [N140 (2024)](#n140)</sup>?
+
+<a id="the-law-5"></a>
+
+### 8.6 The law
+
+- **Malaysia:** anyone who entered unlawfully or holds forged travel documents is a prohibited immigrant <sup>[32 (2006)](#o32)</sup>. Smuggling cases are brought under the Anti-Trafficking in Persons and Anti-Smuggling of Migrants Act 2007, the Immigration Act and the Passports Act <sup>[N8](#n8)</sup>.
+- **Thailand:** in 2017 Thailand convicted 62 people, including nine officials, over the deaths and trafficking of Rohingya and Bangladeshis to Malaysia <sup>[N131 (2023)](#n131)</sup>.
+- **Bangladesh, against passengers:** in January 2024 police in Cox's Bazar said that Rohingya who flee the Ukhiya camps and try to go to Malaysia or another country by sea would from then on be charged under the Overseas Employment and Migrants Act and sent to jail <sup>[N140 (2024)](#n140)</sup>. Three Rohingya girls rescued that month were jailed with the trafficker, and six Bangladeshi survivors of an April 2026 sinking were charged under the trafficking prevention law and jailed <sup>[N140 (2024)](#n140), [N125](#n125)</sup>.
+- **Bangladesh, in practice:** even when cases are filed, traffickers often get out of jail and go back to the same work, the Coast Guard's East Zone commander said in June 2026 <sup>[N20](#n20)</sup>. Twenty abduction cases were filed at Teknaf police station in the year to January 2025, and its officer-in-charge said victims released on ransom do not want to complain <sup>[N132](#n132)</sup>.
+
+<a id="where-to-get-help-4"></a>
+
+### 8.7 Where to get help
+
+Bangladesh High Commission, Kuala Lumpur: No 8, Lorong Yap Kwan Seng, 50450 Kuala Lumpur; consular +60326040949 <sup>[33](#o33)</sup>. In Thailand: the Bangladesh Embassy in Bangkok (see [Where victims and families get help](#where-victims-and-families-get-help)) <sup>[34](#o34)</sup>. In Myanmar: Tarekur Rahman said he got no real help from it in prison and came home on money his family sent, while Aung Aung U Jewel came home with its help <sup>[N20](#n20)</sup>. Detained migrants have been brought home by the government from Myanmar's prisons (173 in April 2024) and from Indonesian detention <sup>[N123 (2024)](#n123)</sup>.
+
+> **Need to know**
+> - What does the Cambodia-Thailand-Malaysia land route cost in late 2026?
+> - Which papers must a family submit, and to which office, for the government to bring home a relative held in a prison in Malaysia, Myanmar or Indonesia after a boat journey <sup>[N123 (2024)](#n123)</sup>?
+
+<a id="india-women-and-girls-taken-across-the-land-border"></a>
+
+## 9 India: women and girls taken across the land border
+
+<a id="how-it-is-sold-7"></a>
+
+### 9.1 How it is sold
+
+Traffickers usually target women from low-income families in financial trouble <sup>[N148](#n148)</sup>.
+
+**Offers in reported cases:**
+
+- a job in India, ending in a brothel <sup>[N148](#n148)</sup>;
+- a job in Canada <sup>[N149 (2024)](#n149)</sup>;
+- TikTok: a ring trafficked women to India "in the name of TikTok" <sup>[N149 (2024)](#n149)</sup>;
+- learning dance in India with a salary of Tk 50,000 a month, offered in January 2025 to a class-eight girl from the Facebook account of a girl she knew, whose mother used the same account and helped three girls set off <sup>[N148](#n148)</sup>;
+- cheaper cancer treatment in India and work there to pay for it, offered by a woman neighbour <sup>[N148](#n148)</sup>;
+- work through a cousin the relatives believed was a domestic worker in Maharashtra <sup>[N148](#n148)</sup>;
+- a love affair and marriage (see Marriage, family-visa and fake-nikahnama schemes) <sup>[N148](#n148)</sup>.
+
+<a id="the-path-5"></a>
+
+### 9.2 The path
+
+1. <a id="the-path-5-item-1"></a>**A relay of handlers:** in February 2025 three girls took a bus from Dhaka to Jhenaidah; the conductor handed them to a man, who took them to a woman's house, and that evening a battery auto-rickshaw driver took them to a man at the Maheshpur border <sup>[N148](#n148)</sup>. Each person has a separate task, so victims cannot say who took them from where, a Border Guard Bangladesh (BGB) battalion commander in Jashore said <sup>[N148](#n148)</sup>.
+2. <a id="the-path-5-item-2"></a>**The crossing:** routes run through Putkhali, Daulatpur, Gatipara, Sadipur and Rudrapur around Benapole in Jashore, through Maheshpur in Jhenaidah and the Satkhira border, with scattered cases through Tamabil in Sylhet and the Cumilla border <sup>[N148](#n148)</sup>.
+3. <a id="the-path-5-item-3"></a>**Sold:** rescued women have been found in brothels in Hyderabad, Maharashtra and Bengaluru <sup>[N148](#n148)</sup>.
+
+**The prices:** traffickers take Tk 15,000 to 20,000 a person just to get someone across, far more than before because checks have tightened, and rescued women said they were told in the brothels that they had been bought for Tk 2 to 3 lakh, according to the director of Rights Jashore, a local rights organisation, in early 2025 <sup>[N148](#n148)</sup>.
+
+<a id="what-happens-6"></a>
+
+### 9.3 What happens
+
+- **Rescued in India:** the Indian Border Security Force (BSF) hands the person to the BGB and immigration police at the "zero line" of the Benapole border <sup>[N148](#n148)</sup>.
+- **Jailed in India:** a 28-year-old Savar woman promised Canada was trafficked to Nadia district, West Bengal, and came home after seven months in jail there <sup>[N149 (2024)](#n149)</sup>.
+
+<a id="cases-1"></a>
+
+### 9.4 Cases
+
+- 2021: a young woman trafficked by the TikTok ring escaped back to Bangladesh on 7 May 2021 and on 1 June filed a case at Hatirjheel police station naming 12 people, among them Rifadul Islam alias Hridoy (26), "TikTok Hridoy" <sup>[N149 (2024)](#n149)</sup>. Three years later the Bangladesh investigation was still unfinished, although accused arrested in India over the same events had been tried and punished there; Salma Ali of BNWLA (Bangladesh National Woman Lawyers' Association) blamed the lack of accountability of investigators <sup>[N149 (2024)](#n149)</sup>.
+- 10 Oct 2024: a 22-year-old divorced woman in Dhaka with cancer was trafficked to India after a neighbour's offer; Hyderabad police rescued her from a brothel on 21 November <sup>[N148](#n148)</sup>.
+- Told Feb 2025: a 22-year-old woman from near the border in Jashore said she was taken to India on the promise of a job and sold to a brothel, where she saw three Bangladeshi girls; Indian police rescued her two years later and BNWLA rehabilitated her <sup>[N148](#n148)</sup>.
+- 10 Feb 2025: BGB members chased the three Dhaka schoolgirls and the man taking them across the border at Maheshpur, Jhenaidah; one girl fell, all three were rescued, and the man, his face wrapped in a gamcha (cotton towel), escaped <sup>[N148](#n148)</sup>. One girl filed a case at Maheshpur police station on 24 February; nobody had been arrested by 8 March <sup>[N148](#n148)</sup>.
+- 11 Feb 2025: a 15-year-old girl from a poor family was trafficked after her cousin's offer; Maharashtra police rescued her on 23 February, and Justice and Care, an anti-trafficking organisation, said she had been used for sex work <sup>[N148](#n148)</sup>.
+
+<a id="the-numbers-6"></a>
+
+### 9.5 The numbers
+
+- **Border Guard Bangladesh:** from August 2024 to January 2025, 145 people, traffickers included, were detained while being taken across illegally, 55 of them women and children, and 162 people were brought back from India <sup>[N148](#n148)</sup>.
+- **Justice and Care:** in January 2024 to February 2025, 186 women and children were brought back from India and 133 rescued at the border, counting only BGB cases in the Jhenaidah, Chuadanga and Jashore areas <sup>[N148](#n148)</sup>. The return of at least 10 women and girls rescued from brothels was in process in February 2025, Justice and Care said <sup>[N148](#n148)</sup>.
+- **Bangladesh overall:** a UN global report on trafficking published in 2024 counted 452 women (228 of them trafficked abroad) and 63 girls trafficked from Bangladesh from April 2023 to March 2024, more than in earlier years <sup>[N148](#n148)</sup>.
+
+<a id="the-law-6"></a>
+
+### 9.6 The law
+
+Taking someone across the border by deceit for sexual exploitation is trafficking under the 2026 Act (see "File a trafficking case" in the Dalal scams doc) <sup>[35](#o35)</sup>.
+
+<a id="where-to-get-help-5"></a>
+
+### 9.7 Where to get help
+
+- **BNWLA** rehabilitated the Jashore woman rescued from an Indian brothel <sup>[N148](#n148)</sup>.
+- **Justice and Care** was handling the return of at least 10 women and girls rescued from Indian brothels in February 2025 <sup>[N148](#n148)</sup>.
+
+<a id="cambodia-myanmar-and-laos-scam-compounds"></a>
+
+## 10 Cambodia, Myanmar and Laos: scam compounds
+
+<a id="how-it-is-sold-8"></a>
+
+### 10.1 How it is sold
+
+The job is "computer operator", "data entry", "call centre" or "restaurant" work, for about Tk 5.3 to 6 lakh <sup>[N19](#n19), [N86](#n86), [N15](#n15), [N150](#n150)</sup>. A data-entry job was promised at USD 800 a month <sup>[N15](#n15)</sup>. CID says traffickers advertise these jobs through fake websites, email, Facebook, WhatsApp and Telegram <sup>[N151](#n151)</sup>. Bangladeshis already working in the Gulf, including on a ship in Dubai, are recruited too with promises of higher pay <sup>[N152](#n152), [N151](#n151)</sup>. Many went with BMET clearance <sup>[N18](#n18), [N19](#n19)</sup>. A BRAC study found 66% of cyber-scam victims were recruited through middlemen and 98% never got the promised job <sup>[N77](#n77)</sup>. Of 473 people back from Cambodian scam centres, 80% had gone through a recruiting agency in the regular process, the Bangladesh representative of Winrock International, a development organisation, said in July 2026 <sup>[N153](#n153)</sup>.
+
+People in the sector say Cambodia's economy is no better than Bangladesh's and it has few jobs, yet workers are sent there for the scam centres <sup>[N60](#n60), [N154](#n154)</sup>. With the Middle East market shrinking, people who are a little better off have been going to countries such as Russia and Cambodia, where many are cheated, Prothom Alo reported in October 2026 <sup>[N154](#n154)</sup>. Volunteers of migration organisations said in November 2026 that people are also held in scam compounds in Vietnam <sup>[N81](#n81)</sup>.
+
+<a id="the-path-6"></a>
+
+### 10.2 The path
+
+- **Cambodia:** the worker flies in on a one-month visit visa, not a work visa; Bangladeshi brokers meet him at the airport, keep him briefly in a hotel and sell him to a guarded compound, often Chinese-run <sup>[N155](#n155), [N3](#n3), [N156](#n156)</sup>. Compounds are in Sihanoukville, along the Thai and Lao borders, and in rural areas <sup>[N157](#n157)</sup>. Many of about 16,000 who went in 18 months were shown an employment visa before leaving and later given a tourist visa and sold, although they had followed the government's rules, according to the president of Anirban Survivor Voice Foundation, an organisation led by trafficking survivors <sup>[N87](#n87)</sup>. One returnee was kept three days in a Phnom Penh restaurant, then taken late at night to a scam centre for an "interview"; the people who sent him said this was the work and he would later be sent on to Europe <sup>[N34](#n34)</sup>.
+- **Myanmar and Laos:** victims are taken across the Thai border into Myanmar, Laos or Cambodia; Myawaddy on the Thai-Myanmar border is a hub <sup>[N158](#n158), [N159](#n159)</sup>. Eight Bangladeshis who went to Cambodia and Laos for work in 2025 worked there for a time, then were taken by road through Thailand and sold to a scam centre in Myanmar, according to Anirban Survivor Voice Foundation <sup>[N160](#n160)</sup>.
+
+<a id="what-happens-7"></a>
+
+### 10.3 What happens
+
+- **Sold:** men are sold to compounds for USD 1,500 to 10,000; one man was sold to three compounds in 2022 <sup>[N3](#n3), [N161](#n161), [N158](#n158)</sup>.
+- **Forced to scam:** they are held at gunpoint and forced to take part in the scams <sup>[N151](#n151)</sup>. Those who miss daily targets are beaten or given electric shocks <sup>[N4](#n4)</sup>.
+- **Ransom:** a compound demanded USD 5,000 to release two youths; another family was pushed to pay Tk 95,000 more <sup>[N161](#n161), [N162](#n162)</sup>.
+- **Abandoned:** a man who escaped after three months paid his own ticket and hotel home <sup>[N150](#n150)</sup>.
+- **Detained leaving:** on 3 September 2026 Cambodia's immigration police detained 32 Bangladeshis at Phnom Penh airport as they tried to fly home, and held 30 of them in an immigration detention centre <sup>[N163](#n163)</sup>. They had gone under the return process set by the Cambodian government but were held for illegal stay <sup>[N163](#n163)</sup>. They had been taken there by a broker ring with the lure of a good salary, many were forced into cyber scamming, and those who tried to escape were allegedly tortured <sup>[N163](#n163)</sup>. They landed in Dhaka on 20 October 2026 on Thai Airways TG-321, after being held since 3 September <sup>[N164](#n164)</sup>.
+- **Escaping into Thailand:** eight Bangladeshis who escaped a Myanmar compound into Thailand had no visa, surrendered to the immigration police and were kept in a safe home on a charge of illegal entry <sup>[N160](#n160)</sup>.
+- **Victims turned recruiters:** many who were first victims later join the same ring and traffic and cheat others, a CID additional inspector general said in July 2026 <sup>[N153](#n153)</sup>.
+
+<a id="cases-2"></a>
+
+### 10.4 Cases
+
+- Told July 2026: Mannan Soyal, back from three years in Saudi Arabia, was sent to Cambodia by a relative from his area for BDT 5 lakh on the promise of a restaurant job, and left on 5 December 2025 after training <sup>[N87](#n87)</sup>. A few days after arriving he was taken to a Chinese-run place with thousands of people at computers and told to call himself "Maria", build relationships with people on Instagram and get money from them <sup>[N87](#n87)</sup>. When he objected, his passport was already with them, and he was told to pay the money back if he wanted it <sup>[N87](#n87)</sup>. He was beaten and locked in a small room for missing his target, and later freed in a police raid <sup>[N87](#n87)</sup>.
+- Told Aug 2026: Tofayel Ahmed came to Dhaka to go to Saudi Arabia, but at a friend's urging went to Cambodia through two brokers, travelling with a BMET smart card <sup>[N34](#n34)</sup>. He was held about one month and 27 days before he escaped; he was never given the one-year visa and work permit, and became illegal when his one-month single-entry visa ran out <sup>[N34](#n34)</sup>.
+- Reported Oct 2026: two young men had about BDT 6 lakh each taken, their passports taken on arrival, and were sold to a scam centre for USD 5,000 <sup>[N154](#n154)</sup>. The CID said they were tortured if they refused the fraud work or made even a small mistake, and had no way to leave <sup>[N154](#n154)</sup>. Their families paid a further USD 5,000 ransom, the traffickers kept control of them after release, and money was collected once more for the tickets home <sup>[N154](#n154)</sup>. A case was filed at Paltan police station on 26 October 2026 naming Md Shaon Molla (23) and Md Sakib Sarkar (26) of Pubail, Gazipur, and the CID arrested both the next day <sup>[N154](#n154)</sup>.
+
+<a id="the-numbers-7"></a>
+
+### 10.5 The numbers
+
+- **Clearances:** BMET cleared 15,921 workers for Cambodia in 18 months, and BRAC says more than 1,000 of them were trapped in compounds <sup>[N165](#n165)</sup>; Prothom Alo reported more than 15,000 cleared in the year and a half to July 2026 <sup>[N51](#n51)</sup>. In 2025 alone 12,263 took clearance for Cambodia, the eighth-largest destination that year, against 4,727 for Russia <sup>[N60](#n60), [N154](#n154)</sup>.
+- **Returns:** 583 trafficking victims came home from Cambodia in June 2026, including 221 in four days, and another 109 on 1 July <sup>[N19](#n19), [N86](#n86)</sup>. Prothom Alo reported 646 back in June after Cambodian raids <sup>[N60](#n60), [N154](#n154)</sup>. About 1,800 had come home as victims of cyber fraud in 2026 by June, according to BRAC <sup>[N153](#n153), [N87](#n87)</sup>. By April 2026 about 50 people rescued from Myawaddy, Myanmar, had been repatriated through the Embassy in Bangkok <sup>[N159](#n159)</sup>.
+- **What returnees went through:** BRAC found 88% of returnees from Cambodia were held captive with no freedom of movement, 38% suffered serious mental trauma and 27% physical torture <sup>[N51](#n51), [N87](#n87)</sup>. One report of BRAC's figures gives 86% who had their passports and papers taken, another 87% who had forged papers <sup>[N51](#n51), [N87](#n87)</sup>.
+- **Laos:** 7,532 Bangladeshis went to Laos in the 21 months before October 2026 <sup>[N166](#n166)</sup>. About 3,000 took clearance for Laos in the first eight months of 2026 (13th destination), against 3,835 in 2025 (16th), mainly for construction and manufacturing, BMET sources said <sup>[N167](#n167)</sup>.
+- **Region:** IOM helped more than 3,500 victims of forced criminality in Southeast Asia in 2022 to 2025, Bangladesh among the largest origin countries <sup>[N168](#n168)</sup>.
+- **Gaps in the data:** Bangladesh has no reliable national data on how many people are trafficked to scam centres, come home or get justice, according to UNODC (the UN Office on Drugs and Crime) in July 2026 <sup>[N87](#n87)</sup>.
+
+> **Need to know**
+> - How many people came home from Cambodia in June 2026: 583 or 646?
+> - In BRAC's returnee survey, is the 86-87% figure for people whose passports were taken, or for people carrying forged papers?
+
+<a id="the-law-7"></a>
+
+### 10.6 The law
+
+- **Bangladesh:** the 2026 Act counts forcing a person into crimes such as online scamming as exploitation under the trafficking offence <sup>[3](#o3), [N169](#n169)</sup>. Since July 2026 workers for Cambodia, Laos and Brazil need a proper work visa and full checks before BMET clearance <sup>[N19](#n19)</sup>. Most published lists of the 12 countries needing Ministry approval since 4 November 2026 include Cambodia (see [The Balkans and Eastern Europe](#the-balkans-and-eastern-europe)) <sup>[N78](#n78), [N80](#n80), [N77](#n77)</sup>. A Home Ministry joint secretary said in July 2026 that cooperation with Cambodia and others against scam centres has been strengthened, and that quick legal action is taken against traffickers even if they are government officials <sup>[N87](#n87)</sup>.
+- **Cambodia:** running a scam centre with violence or detention carries 10 to 20 years in prison <sup>[N170](#n170)</sup>. The 2026 US Trafficking in Persons report says some senior Cambodian officials and police profit from and protect scam centres <sup>[N171](#n171)</sup>. Cambodian law enforcement shut scam centres under international pressure in mid-2026, after which 583 workers came home in June <sup>[N51](#n51)</sup>.
+- **Laos:** recruitment, work permits and entry visas for Bangladeshi workers are suspended from 1 September to 31 December 2026 <sup>[N172](#n172)</sup>. The Ministry of Labour and Social Welfare's directive of 9 September 2026 cites illegal entry, trafficking, unauthorised labour suppliers and employers who evade responsibility, without saying why Bangladeshis were singled out <sup>[N167](#n167)</sup>. No person, company, employer or labour supplier may on its own let Bangladeshis enter or work in Laos, and the LA-B2 labour visa stays closed to them until the end of 2026, except for large government-approved priority projects <sup>[N167](#n167)</sup>. A worker found working outside his approved workplace is fined 1 million kip (USD 44) each time and sent home within 30 days at the cost of the employer or whoever broke the rule; employers pay 2.5 million kip (USD 110) per worker for hiring without approval, tripled for a repeat <sup>[N167](#n167)</sup>. Asked in September 2026, the Expatriates' Welfare Minister said nothing was officially known and the matter would be looked into <sup>[N167](#n167)</sup>.
+
+<a id="where-to-get-help-6"></a>
+
+### 10.7 Where to get help
+
+- **Bangladesh Embassy, Bangkok** (covers Cambodia; there is no embassy in Phnom Penh): 47/8 Ekamai Soi 30, Sukhumvit 63, Bangkok 10110; +66 (0)2 390 5107 to 8; welfare hotline +66-818-70-84-43 <sup>[34](#o34), [N173](#n173)</sup>. Tofayel Ahmed applied to return through the embassy on Facebook after police raids began and came home on 14 June once it was approved <sup>[N34](#n34)</sup>.
+- **Cambodian police anti-trafficking hotline:** 1288 <sup>[36 (2022)](#o36)</sup>.
+- **BRAC:** families who contacted BRAC got 18 men out of a Myanmar compound in March 2025, with the Foreign Ministry, the CID and the Embassy in Thailand <sup>[N151](#n151)</sup>. Mannan Soyal had no passport, and BRAC arranged a travel pass and a ticket home <sup>[N87](#n87)</sup>. Two young men stuck in a Cambodian hotel for about two months after release reached the BRAC Migration Centre online and came home on 3 September 2026 <sup>[N154](#n154)</sup>.
+- **Through the Wage Earners' Welfare Board:** after an application from Anirban Survivor Voice Foundation, the Board's expatriate welfare branch wrote to the labour wing of the Bangkok embassy asking it to free the 30 detained in Cambodia and send them home quickly <sup>[N163](#n163)</sup>. For the eight held in a Mae Sot immigration safe home in Thailand, the Foundation applied to the Board on 24 August 2026 on complaints from victims and families, and the Board's director instructed the embassy's First Secretary (Labour) to free them and send them home <sup>[N160](#n160)</sup>. Three were due home on 22 October 2026, while the other five were still in the legal process <sup>[N160](#n160)</sup>.
+- **After return:** returnees need to be treated as survivors, not criminals, with regular follow-up, rehabilitation and mental health care so they are not drawn back into the rings, the Foundation's president said in July 2026 <sup>[N87](#n87)</sup>.
+
+<a id="kyrgyzstan-and-central-asia-as-a-stepping-stone"></a>
+
+## 11 Kyrgyzstan and Central Asia as a stepping stone
+
+<a id="how-it-is-sold-9"></a>
+
+### 11.1 How it is sold
+
+The offer is Europe: a Shariatpur man paid Tk 4.8 lakh in 2025 and a Sylhet man Tk 6 lakh in 2023 to be taken to Italy or Poland <sup>[N73](#n73), [N174 (2023)](#n174)</sup>. CID says Kyrgyzstan became a trafficking route because it is seen as close to Europe <sup>[N93 (2024)](#n93)</sup>. Others are sold factory jobs and sent on 59-day tourist visas <sup>[N93 (2024)](#n93)</sup>.
+
+<a id="the-path-7"></a>
+
+### 11.2 The path
+
+1. <a id="the-path-7-item-1"></a>**Dhaka to Dubai** on a visit visa <sup>[N93 (2024)](#n93)</sup>.
+2. <a id="the-path-7-item-2"></a>**Dubai to Bishkek**, Kyrgyzstan's capital, on a tourist visa <sup>[N93 (2024)](#n93), [N73](#n73)</sup>.
+3. <a id="the-path-7-item-3"></a>**The promised next step** (a Ukraine visa, or Italy "after some work") never comes; the Sylhet broker left for Dubai and disappeared <sup>[N72 (2023)](#n72)</sup>.
+4. <a id="the-path-7-item-4"></a>**Overland**, some cross into Kazakhstan away from checkpoints to look for work, and have been caught as far as the Russian border <sup>[N175 (2024)](#n175)</sup>.
+
+<a id="what-happens-8"></a>
+
+### 11.3 What happens
+
+- **Abandoned:** about 40 Bangladeshis were found abandoned at one Bishkek address in 2024, and had to go to Uzbekistan and back to get visas <sup>[N176 (2024)](#n176)</sup>.
+- **Prison and bans:** Bangladeshis caught crossing Kazakhstan to the Russian border in 2024 got six months in prison, expulsion and a five-year ban <sup>[N175 (2024)](#n175)</sup>.
+- **Fines and deportation:** breaking the purpose of entry, such as working on a tourist visa, is fined 10,000 som (Kyrgyz currency) in Kyrgyzstan, and in September 2025, 180 Bangladeshis were sent back <sup>[N177](#n177), [N178](#n178)</sup>.
+
+<a id="the-law-8"></a>
+
+### 11.4 The law
+
+- **Kyrgyzstan:** a foreigner who works without a permit is to be expelled <sup>[N179](#n179)</sup>. Its security chief says foreigners come as tourists and students and work illegally <sup>[N180](#n180)</sup>.
+- **Kazakhstan:** prosecutors detained three organisers who smuggled 20 South Asians from Kyrgyzstan in November 2023 <sup>[N181 (2023)](#n181)</sup>.
+
+<a id="where-to-get-help-7"></a>
+
+### 11.5 Where to get help
+
+Bangladesh has no embassy in Kyrgyzstan; the Embassy in Tashkent, Uzbekistan, covers it, with a 24-hour emergency number +998930009780 <sup>[N182 (2024)](#n182), [N183 (2024)](#n183)</sup>. BRAC asks stranded migrants to contact its Migration Welfare Centre <sup>[N184](#n184)</sup>.
+
+<a id="russia-recruited-into-the-war"></a>
+
+## 12 Russia: recruited into the war
+
+<a id="how-it-is-sold-10"></a>
+
+### 12.1 How it is sold
+
+**The jobs offered:**
+
+- construction or welding, through a recruiting agency, at about 75,000 roubles a month <sup>[N185](#n185), [N94](#n94)</sup>;
+- high-paid work in oil, construction or logistics, according to "Promises Written in Blood", a November 2025 report by BRAC's Migration Programme based on survivors' accounts, family testimony and document checks <sup>[N186](#n186)</sup>;
+- work as a cook or cleaner, according to an Associated Press (AP) investigation summarised in a Prothom Alo editorial of 4 February 2026 <sup>[N187](#n187)</sup>; Jahangir Alam of Lakshmipur was promised work as a cook in a cantonment in 2025 <sup>[N51](#n51)</sup>;
+- security guard, driver, mechanic, electrician, construction worker, welder, repair or transport worker or technician, and sometimes IT, medicine, sport or agriculture, offered through social media adverts or recruiting agents and firms, according to the UN's Independent International Commission of Inquiry on Ukraine; some recruiters said the work was under the military but civilian <sup>[N188](#n188)</sup>. The commission describes a professional athlete told he could sign a contract after arriving if he liked the work, who was handed to the military on arrival, and a cook who did not want to be a soldier but ended up on the front line <sup>[N188](#n188)</sup>.
+
+**The promises:** the UN commission says the offers spoke of high pay, Russian citizenship, comfortable housing, a pension after leaving the job and other benefits, and some recruits were shown photos or a catalogue of the housing <sup>[N188](#n188)</sup>. Survivors say brokers repeatedly promised it was not military work <sup>[N94](#n94)</sup>. The commission describes a group of 30 given a letter of assurance that they would not be sent to the battlefield; by the time of its report 17 had been killed on the front line, 5 were missing and 1 had returned wounded; the report does not name the group's country <sup>[N188](#n188)</sup>. One family was offered medical school in Moscow for their son if he first served four months in the war <sup>[N185](#n185)</sup>.
+
+**On Facebook:** Shariful Hasan of BRAC said in November 2025 that a Bangladeshi using the name MD Sohel was campaigning on Facebook about the benefits of joining the Russian army and fighting, and that many people were being newly lured to Russia to fight because of it <sup>[N186](#n186)</sup>.
+
+**Going to fight on purpose:** Prothom Alo reported in October 2026 that travel to Russia had not decreased, and that because six months at the war brings a chance of Russian citizenship and pay of Tk 3 to 4 lakh a month, many go to the war of their own accord <sup>[N189](#n189)</sup>. Bangladesh's ambassador to Russia, Md Nazrul Islam, said in October 2026 that more than 90% of the workers go to the war of their own accord, and that Russia says the latest 30 also went voluntarily and holds written proof of it <sup>[N189](#n189)</sup>.
+
+**The cost:** families paid about Tk 9.5 to 10 lakh, about USD 8,000 <sup>[N94](#n94), [N185](#n185), [N5](#n5)</sup>. BRAC's November 2025 report puts it at Tk 7 to 8 lakh <sup>[N186](#n186)</sup>. The UN commission found that some recruits paid in advance and others were told the money would be deducted from their pay later <sup>[N188](#n188)</sup>.
+
+<a id="who-sends-them"></a>
+
+### 12.2 Who sends them
+
+- **Agencies in Bangladesh:** a Prothom Alo investigation found that clearances for Russia were taken in the names of 93 recruiting agencies over four years, that only 17 took clearance for more than a hundred workers each, and that Bonna Bijoy Overseas alone took the most, about 2,500 workers or 27% <sup>[N189](#n189)</sup>. Prothom Alo reported in October 2026 that Bonna Bijoy Overseas is accused of trafficking in the name of sending workers to Algeria, has a human trafficking case against it, faces allegations over Russia too, and has had its server locked so it can take no new clearances; its managing director, Barun Debnath, did not answer the paper's call or text message <sup>[N189](#n189)</sup>. BOESL, the government's recruiting agency, took the second-highest number of clearances, 771, and a responsible BOESL official told Prothom Alo that one of its workers became involved in the war (see When the visa, the agency and the clearance are all real) <sup>[N189](#n189)</sup>. Shariful Hasan, head of BRAC's Migration Programme, said in October 2026 that the agencies accused of trafficking are sending the most workers to Russia <sup>[N189](#n189)</sup>.
+- **The ring:** the February 2026 Prothom Alo editorial, citing the AP investigation, said a Bangladeshi living in Moscow is the trafficking ring's main organiser, that investigators suspect it has links with the Russian government, and named "SP Global" as one of the firms that ran such trafficking openly <sup>[N187](#n187)</sup>. BRAC's report says international facilitators as well as local brokers are involved <sup>[N186](#n186)</sup>.
+- **A Banani travel agency and a ringleader:** the CID (the Criminal Investigation Department of the police) arrested a woman named in its statements both as Fabiha Jerin and as Tamanna, a partner in Dream Home Travels and Tours Ltd of Banani, Dhaka, at Dhaka airport on 5 February 2025 as she was about to flee to Nepal, in a case filed at Banani police station by the wife of a wounded victim; the CID said she confessed and that her brother Tuhin, in Russia, had encouraged people to go to the war <sup>[N190](#n190), [N191](#n191)</sup>. In June 2025 the CID arrested the alleged ringleader, Muhammad Alamgir Hossain (40) of Lohagara, Chattogram, at Chattogram's Shah Amanat airport; it said Alamgir, who went to Russia on a student visa in 2008 and became a citizen by marriage, had taken 50 people to Russia on three visa categories <sup>[N191](#n191)</sup>.
+- **Agents abroad:** the UN commission says recruiting agents in the various countries were local, regional or Russian nationals operating as travel or tourism businesses; some held local licences, some presented themselves as legal or government-approved, and in many cases visas issued by the Russian embassy were handed over through them <sup>[N188](#n188)</sup>.
+
+<a id="the-path-8"></a>
+
+### 12.3 The path
+
+1. <a id="the-path-8-item-1"></a>**A fast departure.** The UN commission found many recruits were pressed to travel within a few days of accepting, with agents arranging the visa, air ticket, housing and the rest of the journey; visas were business visas, short-term tourist visas or none, varying by country <sup>[N188](#n188)</sup>. It obtained copies of business visas of recruited Bangladeshis that mention an invitation from a Russian civilian company <sup>[N188](#n188)</sup>.
+2. <a id="the-path-8-item-2"></a>**Dhaka to Dubai, then Moscow**, or through other third countries <sup>[N94](#n94)</sup>. Tasneem Siddiqui, executive director of RMMRU (the Refugee and Migratory Movements Research Unit), said in November 2025 that many are first taken to Saudi Arabia on tourist or Umrah visas and later made to sign a contract and forced to the battlefield <sup>[N186](#n186)</sup>. The CID said in June 2025 that a ring lured 10 people with jobs as cleaners or cooks in a chocolate factory in Russia at Tk 2-2.5 lakh a month, sent them first to Saudi Arabia on Umrah visas, had them perform Umrah, then took them to Russia and sold them to a man called Sultan, who handed them to the Russian army <sup>[N191](#n191)</sup>. Testimony and documents the UN commission obtained name Bahrain, Brazil, Ethiopia, France, Kenya, Mexico, Morocco, Oman, Panama, Spain, Turkey and the UAE as transit countries; agents sometimes travelled with the recruits or met them there, and some recruits were told to go by road to a neighbouring country and fly from there so as not to be caught at the airport <sup>[N188](#n188)</sup>.
+3. <a id="the-path-8-item-3"></a>**At Moscow airport**, brokers take more cash, in one case about USD 1,000 per person <sup>[N94](#n94)</sup>. The UN commission found many recruits had no freedom of movement from the airport on: they were kept in temporary accommodation and handed to the armed forces <sup>[N188](#n188)</sup>.
+4. <a id="the-path-8-item-4"></a>**Passports and phones taken**, and the men are handed to the military <sup>[N5](#n5), [N14](#n14)</sup>.
+5. <a id="the-path-8-item-5"></a>**Russian-language contracts** they can't read <sup>[N94](#n94)</sup>. According to the UN commission, within hours or days of arriving recruits were made to sign a one-year military service contract with Russia's Defence Ministry, and could not use translation because their phones were not in their hands <sup>[N188](#n188)</sup>. Those who refused were pressured, threatened or tortured; one recruit said four people were shot dead in front of him and he was told he would be next, after which he signed <sup>[N188](#n188)</sup>.
+
+Some go legally on six-month work visas; when the visa ends they are offered a military contract to renew it <sup>[N185](#n185)</sup>. Workers laid off from Russian jobs have also been recruited there (see "Recruited while abroad or just back" in the Dalal scams doc) <sup>[N186](#n186)</sup>.
+
+<a id="what-happens-9"></a>
+
+### 12.4 What happens
+
+- **Training:** the UN commission found initial training lasted from 20 minutes to a few days, in some cases up to a month <sup>[N188](#n188)</sup>. Jahangir Alam of Lakshmipur said he was handed a weapon without training and then taught to use it for one day, that 16 men were together in his war camp, and that he lived in fear after four of them died <sup>[N51](#n51)</sup>. Khadija Akter said in February 2025 that her husband, Jafar Sardar of Jashore, was kept in a barracks, given an army haircut and war training, and that his last message said "bring me home at any cost" <sup>[N192](#n192)</sup>.
+- **Work at the front:** the UN commission says recruits were made to dig trenches, guard areas, deliver food and water and collect bodies, their main tasks being to carry out assaults and advance <sup>[N188](#n188)</sup>. In the AP investigation, returned workers said they were made to collect bodies and move the wounded, those who refused were tortured, and a Russian commander told one victim he had in fact been "sold" <sup>[N187](#n187)</sup>. The Special Response Battalion (SRB), a police unit, the detective branch and others told Prothom Alo that the men sent from Bangladesh have neither the physical fitness, the training nor the tactics for war, and that when the enemy attacks them with drones Russian soldiers identify the enemy's position <sup>[N189](#n189)</sup>.
+- **Death:** 30 men flew out on 7 May 2026 <sup>[N185](#n185)</sup>. In October 2026 the commander of the police's Special Response Battalion said 17 who arrived that May were killed on their first day of deployment after minimal training, 20 Bangladeshis were confirmed dead, and they had been used as bait to locate enemy positions <sup>[N5](#n5)</sup>. On 9 July 2026 the Minister had told Parliament that four of the 30 had died <sup>[N4](#n4)</sup>. A joint investigation by Fortify Rights and Truth Hounds, two rights groups, counted at least 104 Bangladeshis recruited and at least 34 killed <sup>[N185](#n185)</sup>. The news agency Agence France-Presse (AFP) reported that Mohammad Yasin Sheikh, 22, was killed on 27 March 2025 fighting for Russian forces <sup>[N186](#n186)</sup>. According to Jafar Sardar's family, the broker took 10 Bangladeshis to Russia together; one, Akram of Narsingdi, escaped and came home, and the other nine were forced to the battlefield, where one was killed and one was shot <sup>[N192](#n192)</sup>.
+- **Abuse:** survivors were sent to fight with little or no training, beaten, unpaid, kept from leaving and threatened when they tried to escape <sup>[N94](#n94)</sup>. Recruits told the UN commission of days without food and water, beatings, detention and death threats <sup>[N188](#n188)</sup>.
+- **Pay:** the UN commission found recruits were taken to open bank accounts, but many were not paid and some got little; money was withdrawn from some accounts without permission, some salaries were withheld or accounts closed, and in some cases recruiting agents or military personnel took the bank cards <sup>[N188](#n188)</sup>.
+- **Missing:** many recruits lost contact with their families after going to the war, the UN commission found <sup>[N188](#n188)</sup>. BRAC's November 2025 report records that Ayon Mondal of Bagerhat, who went on a valid visa, said in his last message that he was being taken towards the Ukrainian border and has not been traced since, and that Amit Barua of Cumilla has been missing since a photo showed him in Russian military uniform <sup>[N186](#n186)</sup>. Adnan Hossain, a wounded returnee, said Russia does not publish information on Bangladeshis' deaths and that anyone who does not return from the front line is declared missing <sup>[N189](#n189)</sup>.
+- **Bodies not returned:** many families still cannot get their sons' bodies home <sup>[N185](#n185)</sup>. Adnan Hossain said Russia does not bring back the bodies, and those Prothom Alo spoke to said the bodies of foreigners killed are left on the field <sup>[N189](#n189)</sup>. The ambassador said the bodies cannot be sent home because the Russian authorities are not handing them over <sup>[N189](#n189)</sup>.
+
+<a id="the-group-of-30"></a>
+
+### 12.5 The group of 30
+
+The 30 men who flew from Dhaka on 7 May 2026 went through Jabale Noor International of Khilkhet and RS International of Ashulia, through brokers, according to 28 letters their families submitted to the Expatriates' Welfare Ministry in July 2026; the letters say the men were sold to the Russian army with the lure of high pay (see When the visa, the agency and the clearance are all real) <sup>[N189](#n189)</sup>. Prothom Alo said nearly all the families are low-income <sup>[N193](#n193)</sup>.
+
+**What they paid:**
+
+- Rajon Hossain (21) of Jhenaidah paid a broker Tk 10 lakh for a high-paid job <sup>[N189](#n189)</sup>.
+- Pabitra Chandra (30), a carpenter from a very poor family in Gopalpur, Tangail, went with Tk 1.3 lakh from selling his wife's jewellery and Tk 9.5 lakh borrowed from an NGO and local moneylenders <sup>[N193](#n193)</sup>.
+- Robin Mir, an autorickshaw driver from Siddhirganj, Narayanganj, sold his village land and cattle and borrowed, and went with three other men from Narayanganj <sup>[N193](#n193)</sup>.
+- Md Palash Sheikh's family spent Tk 10 lakh <sup>[N189](#n189)</sup>.
+
+**What happened, in order:**
+
+1. <a id="the-group-of-30-item-1"></a>**The first days.** Robin Mir's nephew, Rahat Chowdhury, said his uncle was given good food and shown around for three or four days, and then there was no news for five or six days <sup>[N193](#n193)</sup>. Pabitra Chandra told his brother-in-law, Tapan Chandra Sutradhar, that he and several others were kept in a hotel and would be given work once the papers were sorted out; contact then stopped for some time <sup>[N193](#n193)</sup>. Rajon Hossain got no job and, after four days in a hotel, was sent to an army camp after his signature was taken on a paper <sup>[N189](#n189)</sup>.
+2. <a id="the-group-of-30-item-2"></a>**15 to 18 May.** On 15 May Robin Mir said they were being taken to work, and on 17 May he was seen in an army camp in a video <sup>[N193](#n193)</sup>. On 18 May a worker's family phoned the Bangladesh Embassy in Russia to say that 30 people who had come through Jabale Noor and RS International were being sent to the battlefield; according to the embassy's 25 May letter, it was writing to Russia's Foreign Ministry asking that the workers be returned to work under their appointment letters instead <sup>[N189](#n189)</sup>.
+3. <a id="the-group-of-30-item-3"></a>**Training.** After 21 days of training the men were split into groups of 16, 8 and 6 and sent to the war <sup>[N189](#n189)</sup>.
+4. <a id="the-group-of-30-item-4"></a>**29 May.** Pabitra Chandra phoned to say "we are being taken to the war by force; the chance of dying there is 95 per cent" <sup>[N193](#n193)</sup>, and afterwards asked the Bangladesh embassy to arrange for him and the others to be brought home <sup>[N193](#n193)</sup>. Robin Mir phoned in tears to say they had been taken through deep forest on the promise of work and sold <sup>[N193](#n193)</sup>.
+5. <a id="the-group-of-30-item-5"></a>**June.** Two wounded returnees and six families said the men pleaded with their families before being sent to war, that the agency promised to take responsibility when the families contacted it, and that from the first week of June the men began to go missing; the families got news of deaths but no proof <sup>[N189](#n189)</sup>. Many died around 12 and 13 June <sup>[N189](#n189)</sup>. At its 14 October 2026 press conference the SRB said 17 of the 30 died in a drone attack on their first day on the battlefield and three more died later <sup>[N193](#n193)</sup>. Rajon Hossain said he was sent to the front line with five other Bangladeshis, four were killed in a drone attack, and he was wounded <sup>[N189](#n189)</sup>. Abdul Majid of Lalmonirhat said his son Abdullah Al Mamun phoned his younger brother the day before being sent to fight and was not heard from again; a man who went with him, Al Amin, later said Mamun had died <sup>[N189](#n189)</sup>.
+
+**Where they were in October 2026:** Prothom Alo reported 20 dead, two wounded and in Russian hospitals (Palash Sheikh and Ali Hasan Sohel), two back in Bangladesh (Rajon Hossain and Adnan Hossain), and six still being made to fight <sup>[N193](#n193)</sup>.
+
+- **The dead,** according to the families: Pabitra Chandra, Robin Mir, Sohel, Md Mehedi Hasan, Md Al Mamun, Md Abdullah Al Mamun, Md Nazmul Alam, Md Wasim Akram, Md Arif Hossain, Md Sayed Molla, Tarikul Islam Mintu, Sabbir Hossain, Mofiz, Md Arman Ali, Md Nazrul Islam, Md Aminur Islam, Kazi Rezaul Karim, Main Uddin, Ripon Hossain and Arif Hossain Patwari <sup>[N193](#n193)</sup>. Robin Mir's family learned of his death through the three Narayanganj men he went with <sup>[N193](#n193)</sup>. Pabitra Chandra's family heard of his death through his companions and, by 21 October 2026, had not had it confirmed by the embassy or any government channel <sup>[N193](#n193)</sup>. In Abdullah Al Mamun's village a funeral in absentia was arranged, but because his death was not confirmed the people who came prayed instead of performing the funeral prayer; five months had passed by October 2026 <sup>[N189](#n189)</sup>.
+- **The six still fighting:** Roni Sheikh and Sourav Molla of Gopalganj, Al Amin Islam of Lalmonirhat, Kamal Hossain and Helal Sheikh of Madaripur and Abu Hanif of Kishoreganj, some of whom keep in contact with their families <sup>[N193](#n193)</sup>. Sourav's brother-in-law, Taslim Sardar, who talks to him over the messaging app imo, said Sourav was three to four kilometres behind the front line being made to dig earth for bunkers and had twice tried to escape without success <sup>[N193](#n193)</sup>. He said Kamal was digging bunkers with Sourav, Roni Sheikh and Al Amin were carrying food, water and weapons on foot from the camp to the front line, and Hanif and Helal were made sometimes to dig bunkers and sometimes to carry food <sup>[N193](#n193)</sup>.
+- **The wounded:** Md Palash Sheikh was wounded in his first spell at the war, sent back after recovering, and lost a hand; in October 2026 he was in a Moscow hospital, and his cousin Abu Saleh Islam said asking the embassy and the Ministry had brought no help, that he cannot escape because the hospital is under army guard, and that the family has received no money <sup>[N189](#n189)</sup>.
+- **The debts:** Tapan Chandra Sutradhar said in October 2026 that lenders stand behind Pabitra Chandra's family for their money when they sit down to eat, and that the family is thinking of selling its remaining 3 decimals of land, which would still not clear the debt <sup>[N193](#n193)</sup>.
+
+> **Need to know**
+> - Is the "Sohel" the families list among the dead the same man as Ali Hasan Sohel of Goalanda, whom Prothom Alo lists as wounded and in a Russian hospital <sup>[N193](#n193)</sup>?
+> - Was the group held in the hotel for three days, as the families' complaint says <sup>[N194](#n194)</sup>, or four, as Rajon Hossain says <sup>[N189](#n189)</sup>?
+
+<a id="the-numbers-8"></a>
+
+### 12.6 The numbers
+
+- **Clearances:** BMET gave 7,449 clearances for Russia between 1 January 2025 and 27 October 2026 <sup>[N185](#n185)</sup>. BMET data show 37 people took clearance for Russia in 2023, 1,395 in 2024, 4,725 in 2025 and 3,105 in 2026 up to 15 October <sup>[N189](#n189)</sup>. According to BMET, 4,727 Bangladeshis went to Russia in 2025, which made it the 13th largest market for Bangladeshi workers that year, ahead of Malaysia, South Korea and Lebanon <sup>[N60](#n60), [N154](#n154)</sup>. RMMRU says 4,727 went in 2025 against 993 the year before, and that 2,125 took clearance for Russia in the first six months of 2026 <sup>[N51](#n51)</sup>.
+- **Families asking for help:** the Bangladesh Embassy in Moscow told AFP in April 2025 that about a dozen families had contacted it to get their sons back, all alleging the sons were deceived into the Russian army <sup>[N186](#n186)</sup>. By November 2025, 10 families had asked BRAC to bring relatives back from Russia, men who had gone on valid visas to work; BRAC's report says there are more, but the number could not be confirmed <sup>[N186](#n186)</sup>.
+- **Deaths:** a Prothom Alo editorial of 4 February 2026 said at least 40 Bangladeshis were believed to have died in the previous few months after being deceived by recruiting agencies into the war <sup>[N187](#n187)</sup>. Foreign Ministry sources said in October 2026 that over four to five months the Russian government had told the embassy of 40 Bangladeshis missing or killed, without separating the two, and had said nothing yet about the latest 20 deaths <sup>[N189](#n189)</sup>. Prothom Alo had news of at least 54 Bangladeshi deaths in the war over the three years to October 2026 <sup>[N189](#n189)</sup>. Shariful Hasan of BRAC said in October 2026 that nobody has a count of how many found work, where the rest are or how many have died <sup>[N189](#n189)</sup>.
+- **Worldwide:** a UN commission found men from 29 countries recruited into Russia's forces through deception and false job offers <sup>[N185](#n185)</sup>. Its draft report, published on the website of the UN human rights office (OHCHR) on 26 October 2026, examined recruitment of nationals of 48 countries and found evidence of deception or coercion for 29, Bangladesh among them, but gives no separate figures, names or outcomes for Bangladeshis <sup>[N188](#n188)</sup>. Its findings rest on 245 testimonies from recruits detained by Ukraine or back home, their families, lawyers, local authorities, researchers and journalists, plus documents such as invitation letters, visas, air tickets and military contracts; the victims were all men aged 18 to 60, mostly from financially weak and marginal groups <sup>[N188](#n188)</sup>.
+
+> **Need to know**
+> - BMET's yearly figures (4,725 clearances in 2025 and 3,105 in 2026 to 15 October) add up to more than the 7,449 clearances given for 1 January 2025 to 27 October 2026 <sup>[N189](#n189), [N185](#n185)</sup>: which count is right?
+> - For 2024, RMMRU gives 993 Bangladeshis going to Russia and BMET 1,395 clearances <sup>[N51](#n51), [N189](#n189)</sup>: does one count departures and the other clearances?
+
+<a id="the-law-9"></a>
+
+### 12.7 The law
+
+- **Bangladesh:** at a Dhaka briefing on 9 February 2025 the Foreign Ministry spokesperson, Mohammad Rafiqul Alam, said some Bangladeshis had been forced into the war after falling into traffickers' hands, that the Embassy in Moscow had been asked for details, that the relevant ministries had been asked to act against the recruiting and travel agencies involved, and that one member of a ring trafficking people to Russia had been arrested <sup>[N186](#n186)</sup>. He said the airports had been asked to take special caution over Bangladeshis going to Russia on travel visas and those with a valid Russian travel visa in their passports <sup>[N186](#n186)</sup>. In June 2026 the government cancelled the licences of three agencies accused of sending the 30 men, and forfeited their deposits <sup>[N195](#n195)</sup>; on 9 July 2026 the Expatriates' Welfare Minister told Parliament the three licences had been suspended <sup>[N4](#n4)</sup>, and later that month told Prothom Alo they had been cancelled <sup>[N51](#n51)</sup>. In October 2026 police arrested two men accused of the trafficking <sup>[N5](#n5)</sup>. The SRB said Mizanur Rahman, founder of Jabale Noor International and described as one of the ring's leaders, and Abu Taher alias Lentu were arrested on 13 October 2026 over the sending of the 30 men <sup>[N189](#n189)</sup>. Sources in the police's Criminal Investigation Department (CID) said in October 2026 that at least six cases had been filed over trafficking to Russia <sup>[N189](#n189)</sup>. Most published lists of the 12 countries needing Ministry approval since 4 November 2026 include Russia <sup>[N78](#n78), [N79](#n79), [N77](#n77)</sup>.
+- **What the Minister says is being done:** Expatriates' Welfare Minister Ariful Haque Chowdhury said in October 2026 that nobody is given clearance without verification and attestation of confirmed job information, that all embassies have been told to keep watch through the expatriate community, that extra caution is being taken over Russia with appointment letters checked much more thoroughly, and that action has begun against the agencies involved <sup>[N189](#n189), [N188](#n188)</sup>. Selim Reza, coordinator of North South University's Centre for Migration Studies, said in October 2026 that the government went on giving clearance for Russia even after learning men were being taken to the war by force, and that demand in Russia's labour market had not been properly assessed <sup>[N188](#n188)</sup>.
+- **International:** the UN commission concluded that the Russian authorities committed human trafficking together with recruiting agents; that trafficked men, having become members of the Russian armed forces by signing the contract, cannot be called mercenaries; and that if they surrender or are captured they are entitled to prisoner-of-war protection until the war ends <sup>[N188](#n188)</sup>. It recommended that Russia stop recruiting foreigners through deception or coercion, discharge and assist the trafficked men in its forces, and prosecute those involved; according to international media citing Russia's UN mission, Russia does not recognise the commission's mandate and says the report rests on false information <sup>[N188](#n188)</sup>.
+
+<a id="bodies-and-compensation"></a>
+
+### 12.8 Bodies and compensation
+
+- **From Russia:** Foreign Ministry sources said in October 2026 that compensation can be claimed if someone dies in the war or is missing for more than six months, but that it means a complicated process, including establishing who the heir is and the heir going to Russia and staying at least six months, and that the bodies cannot be recovered <sup>[N189](#n189)</sup>.
+- **From Bangladesh:** the Wage Earners' Welfare Board says it pays to bring home the body of a worker who went with BMET clearance or registered as a member with the embassy abroad, on the family's application, and that a family with neither can still apply, in which case the Board sends a proposal to the Expatriates' Welfare Ministry, which pays from a yearly allocation <sup>[N189](#n189)</sup>. It gives Tk 35,000 in cash for the burial of each body brought home and then a Tk 3 lakh grant, but by October 2026 no application to bring a body home from Russia had reached it, because with no proof of death nobody can apply, and so nobody is getting any compensation (see If a worker dies abroad, what does the family get?) <sup>[N189](#n189)</sup>.
+
+<a id="where-to-get-help-8"></a>
+
+### 12.9 Where to get help
+
+**How men have got home:**
+
+- Afzal Hossain Meraj's father applied to the Foreign Ministry on 22 April 2025, alleging his son had been sold to the Russian army; by November 2025 the son had come home, two months earlier, with the help of the Bangladesh Embassy in Moscow <sup>[N186](#n186)</sup>.
+- Jahangir Alam of Lakshmipur fell ill after four men in his war camp died, spent two months in hospital, escaped from there and came home through the Bangladesh embassy, seven months after going <sup>[N60](#n60), [N51](#n51)</sup>.
+- A wounded survivor got home in August 2026 with help from a doctor and the Bangladesh Embassy in Moscow <sup>[N185](#n185)</sup>.
+- Adnan Hossain of Narayanganj, admitted to a Moscow hospital with a splinter in his abdomen, had three operations, escaped after two months in hospital, went to the embassy and came home on 15 September 2026 on a travel pass, a valid travel permit <sup>[N189](#n189)</sup>. Rajon Hossain was wounded, admitted to hospital and escaped from there to come home <sup>[N189](#n189)</sup>.
+
+**Where families have gone:** in February 2025 relatives of nine men sent to the battlefield had formed human chains in Dhaka several times, gone more than once to the Russian embassy and to Bangladesh's Foreign Ministry, and written to the Expatriates' Welfare Ministry, and on 16 February 2025 Jafar Sardar's family wrote to the Chief Adviser's office asking for his return and their money; the report of 17 February 2025 records no result <sup>[N192](#n192)</sup>. In July 2026 the families of the group of 30 sent 28 letters to the Expatriates' Welfare Ministry asking for their quick and safe return and for financial help <sup>[N189](#n189)</sup>. Taslim Sardar organised a human chain in Dhaka with the affected families in October 2026 <sup>[N193](#n193)</sup>.
+
+**BRAC's Migration Programme** has received many applications from families with almost the same account since late 2024; it submits applications to the Foreign Ministry for the men's rescue, gives case documents to the police's Criminal Investigation Department (CID), and gives families legal and psychological support <sup>[N186](#n186)</sup>. It has asked the government to trace the Bangladeshis still in Russia <sup>[N185](#n185)</sup>, and in October 2026 its head, Shariful Hasan, called for a hotline and a list of the missing <sup>[N189](#n189)</sup>.
+
+> **Need to know**
+> - What are the Bangladesh Embassy in Moscow's emergency phone and email for families of men sent to the front?
+
+<a id="student-visas-used-as-work-routes"></a>
+
+## 13 Student visas used as work routes
+
+<a id="how-it-is-sold-11"></a>
+
+### 13.1 How it is sold
+
+Agents tell students a visa lets them work freely, and charge families Tk 6 to 8 lakh or more, steering them to barely functioning colleges (Malaysia) <sup>[N196](#n196)</sup>. In Jordan, brokers charged students large sums for often fake admissions <sup>[N197](#n197)</sup>. A returnee from the United Kingdom told a roundtable in Sylhet in April 2026 that brokers sent him there to study saying he could work legally alongside his studies <sup>[N198](#n198)</sup>. For Australia, some intermediary agencies in Dhaka and other cities ran flashy campaigns saying "you can go on a travel visa and become a student" or "once you get in, you can enrol in some private college, renew the visa and stay", Kawsar Khan, a registered Australian migration consultant, wrote in September 2026 <sup>[N199](#n199)</sup>. He wrote that many Bangladeshi families sell land or break savings to send a child to Australia in the hope that the husband or wife will work there to pay the study costs and that they will somehow become permanent <sup>[N199](#n199)</sup>.
+
+<a id="what-happens-10"></a>
+
+### 13.2 What happens
+
+- **Malaysia:** students have been moved after arrival from a university into a Bangladeshi-owned English language centre, whose students can't work <sup>[N200](#n200)</sup>. A Student Pass allows only part-time work in semester breaks, up to 20 hours a week, in listed jobs <sup>[37](#o37)</sup>.
+- **Kyrgyzstan:** working on a study visa is working without a permit, and leads to expulsion <sup>[N179](#n179), [N180](#n180)</sup>.
+- **Jordan:** since 1 April 2025 any foreign student found working is deported, and the employer is fined at least JD 800 (Jordanian dinars) per student <sup>[N201](#n201)</sup>.
+- **Italy:** a student visa used only to get in is revoked if the student has not enrolled by 31 January <sup>[38](#o38)</sup>.
+- **Russia:** a medical-school offer came with four months of war service attached (see [Russia: recruited into the war](#russia-recruited-into-the-war)) <sup>[N185](#n185)</sup>.
+- **United Kingdom:** the same returnee said he found no legal work, had to work illegally, and was paid GBP 1 an hour where others got GBP 8 <sup>[N198](#n198)</sup>.
+- **Australia:** under reforms announced by minister Tony Burke, as Kawsar Khan described them in September 2026 <sup>[N199](#n199)</sup>:
+  - a mandatory "No Further Stay" condition is being attached to tourist and visitor visas, so coming on a visit visa and applying inside Australia for a student or other visa is in effect over <sup>[N199](#n199)</sup>;
+  - "visa hopping" is being stopped: a student can move only to a higher qualification (for example bachelor's to master's), not to a lower-level vocational or diploma course to keep a visa alive <sup>[N199](#n199)</sup>;
+  - newly arriving students, and graduate visa holders, can no longer bring a husband, wife or children, except doctoral researchers; families already in Australia will not be separated <sup>[N199](#n199)</sup>;
+  - about 77,000 people who stayed on after their visas expired are being identified and made to leave quickly, with 100 new border force officers and use of Melbourne's old quarantine centre <sup>[N199](#n199)</sup>;
+  - Kawsar Khan advised dropping the idea, sold by agents in Dhaka, of "reaching Australia any way first and seeing later", because the days of passing years on visa changes or drawn-out appeals are over, and said those whose main aim is simply to work or to live with family would do better not to come under the current rules <sup>[N199](#n199)</sup>.
+- **Cyprus:** Shahriar Ahmed Emon, 22, enrolled a few months earlier at a private university in Larnaca, told his flatmates on 12 June 2026 that he was going to his first day at a factory job in Kofinou, left home that evening and disappeared after sending a friend a location pin <sup>[N202](#n202)</sup>. According to police sources, a man he had met on a bus five days earlier, angered by a remark of his, admitted luring him with the job to a deserted area of Kofinou and stabbing him to death that evening <sup>[N202](#n202)</sup>. Unknown people then demanded ransom from his father in Greece, with social-media posts, which police were still verifying, demanding EUR 10,000 one day and EUR 25,000 the next; according to police sources, the accused admitted staging a fake kidnapping to get money from the family <sup>[N202](#n202)</sup>. The family reported the ransom demand and the location pin to the police, who arrested the suspect on 21 June 2026; he led Larnaca CID to the body <sup>[N202](#n202)</sup>.
+
+<a id="forged-documents-and-impersonation"></a>
+
+## 14 Forged documents and impersonation
+
+<a id="how-it-is-sold-12"></a>
+
+### 14.1 How it is sold
+
+- **Fake visas:** in February 2024 three men arrested at Dhaka airport had each paid a broker Tk 16 to 18 lakh to fly to Qatar on fake visas and then go on illegally to France, Italy and Greece, a DB (Dhaka detective police) deputy commissioner said <sup>[N203 (2024)](#n203)</sup>. In May 2026 two men agreed Tk 30 lakh each for Italy, paid Tk 20 lakh up front, and were given fake Schengen visas <sup>[N24](#n24), [N9](#n9)</sup>.
+- **Swapped pages:** a "page substitution" ring copies a genuine Italian visa page into a look-alike's passport <sup>[N204](#n204)</sup>. In July 2026 the CID arrested members of a ring accused of sending a woman to Italy on another woman's visa, and seized 56 passports and 153 seals <sup>[N205](#n205)</sup>.
+- **Fake certificates:** a ring sold fake police clearance certificates with counterfeit QR codes linking to a fake website <sup>[N206](#n206)</sup>. In one study, 22% of workers said agents forged their medical certificates and 16% their pre-departure orientation certificates <sup>[N207](#n207)</sup>.
+- **A forged police clearance, Chattogram, 2026:** Zakir Hossain of Banshkhali, unemployed and with a criminal case against him, did not apply to the police because of the case, and went to an acquaintance at a local travel agency, according to his brother <sup>[N208](#n208)</sup>. The acquaintance, Abdur Rahman, quoted Tk 1,23,000, the brother said; the family paid Tk 80,000 on 21 July 2026 and the rest on receiving the certificate on 12 August <sup>[N208](#n208)</sup>. Police said making the certificate and the fake website cost the ring Tk 3,000, leaving Tk 1,20,000 profit <sup>[N208](#n208)</sup>. The certificates carried police officers' signatures and seals and a QR code that showed them on a clone of the Bangladesh Police website, so, police said, they could not be told from real ones by looking <sup>[N208](#n208)</sup>. The ring had layers: brokers, and people skilled at making QR codes and websites, Chattogram's Additional Superintendent of Police (Special Branch) said <sup>[N208](#n208)</sup>.
+- **Changed ages:** girls have been sent abroad with ages raised through altered birth certificates <sup>[N209 (2020)](#n209)</sup>. In May 2025 a dalal sent a Prothom Alo reporter posing as a customer to a computer shop in front of the Gazipur passport office, where a man quoted Tk 32,000, half in advance, to raise the age by one year on both the voter ID card and the passport, delivered within a month or within 15 days for Tk 2,000 more; correcting an NID properly takes several months, the report says <sup>[N210](#n210)</sup>. The Department of Immigration and Passports' additional director general said in August 2026 that because e-passports take all ten fingerprints, the same person can no longer get a passport under a different identity (see "The passport office" in the Departure bottlenecks doc) <sup>[N34](#n34)</sup>.
+- **Fake players and officials:** some sports federations and associations have for years been alleged to take fake players and officials abroad with their teams as a way of trafficking people, mostly in the smaller sports, Prothom Alo reported in October 2025 <sup>[N211](#n211)</sup>. Until October 2025, federations sent the NSC (National Sports Council) only the players' names, and no one checked whether each was really a player; the chair of the Bangladesh Olympic Association's athletes commission said she often hears that some federations take fake players along <sup>[N211](#n211)</sup>.
+
+<a id="what-happens-11"></a>
+
+### 14.2 What happens
+
+- **At Dhaka airport:** in the February 2024 case DB said low-ranking employees of agencies working at the airport and people from private airlines had formed a ring that sent people to the Middle East, Europe and elsewhere on fake visas for lakhs of taka; one of the two alleged ringleaders arrested was a booking assistant of "Qatar Airlines", as the report names it, and the other a security worker at the airport <sup>[N203 (2024)](#n203)</sup>. Police seized three passports, three fake visas, a special card for entering the airport, phones, e-tickets, and work permit and visa papers <sup>[N203 (2024)](#n203)</sup>.
+- **At the airport abroad:** the two men with fake Schengen visas were detained at Rome airport for two days and deported <sup>[N24](#n24)</sup>. In June 2026 a Biman ground officer was arrested, accused of helping them board <sup>[N9](#n9)</sup>.
+- **At the travel agency:** the forged Chattogram police clearance was detected when Zakir Hossain handed it to a travel agency; he complained in writing to the Chattogram District Superintendent of Police's office, and a case was filed at Banshkhali police station with his brother as plaintiff <sup>[N208](#n208)</sup>.
+- **At the embassy:** Italy suspended all Bangladeshi work nulla osta in October 2024 because of the number of false documents, and refuses or revokes a nulla osta obtained by fraud <sup>[39 (2024)](#o39), [40](#o40)</sup>. The Italian Embassy says forged documents mean immediate refusal, and the visa centre's rules say applicants caught with fake papers are banned from applying and reported to the police <sup>[N212](#n212), [41 (2019)](#o41)</sup>. In February 2024 the US Embassy in Dhaka filed a case against five Bangladeshis after two of them, Mofizur Rahman and Ashraful Alam Bhuiyan, admitted at their US visa interview on 11 February that they trafficked people from Bangladesh to various countries; they had submitted fake documents describing themselves as garment businessmen <sup>[N52 (2024)](#n52), [N23 (2024)](#n23)</sup>.
+
+<a id="the-law-10"></a>
+
+### 14.3 The law
+
+- **Bangladesh:** making, obtaining, supplying or holding a document to help migrant smuggling carries 1 to 3 years' rigorous imprisonment and a fine of at least Tk 50,000 under the 2026 Act <sup>[3](#o3)</sup>. A trafficking victim cannot be charged for getting or holding a false travel document as a direct result of the trafficking <sup>[3](#o3)</sup>.
+- **Destinations:** Italy punishes forging or using a forged visa with 1 to 6 years in prison; Malaysia treats a holder of forged travel documents as a prohibited immigrant; Singapore jailed a worker in 2021 who bought a forged degree through an agent <sup>[22](#o22), [32 (2006)](#o32), [N213 (2021)](#n213)</sup>.
+- **Travellers are charged too:** in the February 2024 Dhaka airport case, the three men trying to travel on fake visas were arrested with the two alleged ringleaders, a case of fraud and forgery was filed against them, and a court granted one day's remand <sup>[N203 (2024)](#n203)</sup>.
+- **The Chattogram police clearance ring:** police arrested four members, Md. Ashraf Ali Khan, Md. Nishan, Mohammad Abdullah Al Mamun and Md. Abdur Rahman, on 16 August 2026 in Chattogram city and Banshkhali; police said the four were mainly brokers and were looking for the others <sup>[N208](#n208)</sup>.
+- **Sports teams:** since 9 October 2025 the NSC requires a federation's proposal for the government order (GO) letting a team go abroad to reach it at least 10 days before the flight, with proof of the players' fitness and performance; an NSC source said the rule is mainly to stop trafficking, while its director (sports) said only that the question of trafficking in the name of sport does come up <sup>[N211](#n211)</sup>.
+
+<a id="where-to-get-help-9"></a>
+
+### 14.4 Where to get help
+
+CID asks the public to report forged visas and migrant smuggling directly to it (see [Where victims and families get help](#where-victims-and-families-get-help)) <sup>[N24](#n24)</sup>.
+
+<a id="asylum-claims-built-on-a-false-story"></a>
+
+## 15 Asylum claims built on a false story
+
+<a id="how-it-is-sold-13"></a>
+
+### 15.1 How it is sold
+
+- **The package.** A BBC investigation published in April 2026 reported that lawyers and advisers in the UK were helping some migrants claim asylum as gay, and secretly recorded a legal adviser, Tanisa Khan, saying she could arrange a "full package" including photos taken at gay clubs and other evidence <sup>[N214](#n214)</sup>.
+- **The second claim.** The UK Home Office said many Bangladeshi men first claimed asylum on political grounds and, after refusal, claimed again as gay; a ring is believed to have helped prepare dozens of claims by Bangladeshi men saying they were gay and that their lives would be in danger if returned <sup>[N214](#n214)</sup>.
+- **The price and contents.** According to the head of the Home Office's regional criminal investigations, the suspects charged each asylum seeker GBP 1,000 to 4,500 for fake papers, which could include support letters from Apnajon, a Bangladeshi LGBT organisation in Whitechapel, east London, staged photos meant to show the applicant as gay, and letters from someone claiming to be in a same-sex relationship with the applicant <sup>[N214](#n214)</sup>.
+- **Canada.** For people who reached Canada on visit visas built on one set of documents and then claimed asylum on a different story, see Visit and tourist visas sold as jobs <sup>[N88 (2024)](#n88)</sup>.
+
+<a id="what-happens-12"></a>
+
+### 15.2 What happens
+
+- **Detection.** Apnajon came under suspicion after caseworkers saw the same kind of information repeated across several suspicious claims, followed by months of investigation <sup>[N214](#n214)</sup>.
+- **Arrests.** On 6 October 2026 Home Office immigration officers raided several London addresses and arrested two people on suspicion of fraud and immigration offences, accused of making fake documents, including staged photos and forged papers, for up to GBP 4,500 each; phones, jewellery and thousands of pounds were seized, and a third person was arrested on suspicion of staying illegally <sup>[N214](#n214)</sup>.
+- **Claims under review.** The Home Office was reviewing more than a hundred asylum claims linked to the ring in October 2026, and Chris Foster, its regional head of criminal investigations, said some fake claims had undoubtedly already been approved <sup>[N214](#n214)</sup>.
+
+<a id="the-law-11"></a>
+
+### 15.3 The law
+
+The UK Home Secretary said in October 2026 that fraudulent asylum claims would be cancelled and the claimants removed from the country, and that those who profited would be prosecuted and their earnings seized; the UK government says conviction for asylum fraud can carry up to 10 years in prison <sup>[N214](#n214)</sup>.
+
+<a id="the-law-in-bangladesh"></a>
+
+## 16 The law in Bangladesh
+
+<a id="the-2026-trafficking-and-smuggling-act"></a>
+
+### 16.1 The 2026 trafficking and smuggling Act
+
+The Human Trafficking and Migrant Smuggling Prevention and Suppression Act, 2026 (Act No. 55 of 2026), passed in April 2026, repealed the Prevention and Suppression of Human Trafficking Act 2012 and took effect at once <sup>[N158](#n158), [3](#o3)</sup>. It replaced an ordinance of the same name, first approved by the interim government's Council of Advisers on 27 November 2025 <sup>[N215](#n215), [3](#o3)</sup>. For the first time it separates trafficking and smuggling as two crimes <sup>[N216](#n216)</sup>. It applies to anyone who commits one of its offences against a Bangladeshi abroad <sup>[3](#o3)</sup>. A Home Ministry joint secretary said in July 2026 that it also covers fraud through fake online job adverts, and that the biggest challenge now is enforcing it and preventing fraud inside the regular migration process <sup>[N87](#n87)</sup>.
+
+- **Trafficking:** at least 5 years' rigorous imprisonment, up to life, and a fine of at least Tk 50,000; by an organised gang, death or life imprisonment, or at least 7 years, and a fine of at least Tk 5 lakh <sup>[3](#o3)</sup>.
+- **What counts as exploitation:** among other things, forced labour, debt bondage, forcing someone into crimes such as online scamming, and holding someone to demand ransom <sup>[3](#o3)</sup>.
+- **Migrant smuggling** (getting someone into another country illegally for gain): 3 to 10 years' rigorous imprisonment and a fine of at least Tk 1 lakh; if the migrant is gravely hurt, dies, is put in danger or treated cruelly, 5 years to life <sup>[3](#o3)</sup>.
+- **Documents and ads:** making, obtaining, supplying or holding a document to help smuggling, 1 to 3 years; advertising for smuggling online, on social media or in print, 3 to 7 years and a fine of at least Tk 1 lakh <sup>[3](#o3)</sup>.
+- **Victims:** a trafficking victim cannot be charged for illegal entry or stay abroad, or for getting or holding a false travel or identity document, if it was a direct result of the trafficking <sup>[3](#o3)</sup>. Threatening a victim, the family or a witness carries 3 to 7 years, and pressuring a victim or family to settle 2 to 5 years <sup>[3](#o3)</sup>.
+- **Filing a case:** anyone can complain at a police station or to the tribunal; the police must protect the complainant and keep their identity confidential <sup>[3](#o3)</sup>. All offences are cognisable, non-bailable and can't be settled privately <sup>[3](#o3)</sup>.
+- **Powers:** on the investigator's application the tribunal can freeze bank accounts, block the sale of property, and bar an accused from leaving the country for up to 60 days; an accused who absconds can be tried in absence <sup>[3](#o3)</sup>.
+- **Courts:** the government can set up a Human Trafficking and Migrant Smuggling Suppression Tribunal in each district, and it can try a connected offence in the same case <sup>[3](#o3)</sup>. In 2026 Justice and Care, an NGO, was supporting about 400 cases in 18 tribunals <sup>[N169](#n169)</sup>.
+
+<a id="the-overseas-employment-and-migrants-act-2013"></a>
+
+### 16.2 The Overseas Employment and Migrants Act 2013
+
+- **False job promises (s.31):** taking money on a false promise of a job abroad, or keeping a migrant's passport or papers, is punished by up to 5 years in prison and a fine of at least Tk 1 lakh <sup>[2](#o2)</sup>.
+- **Visa trading (s.33, amended 2023):** getting a demand letter, visa or work permit illegally, or buying or selling one in Bangladesh, is punished by 2 to 7 years' rigorous imprisonment <sup>[2](#o2)</sup>.
+- **Unregistered dalals (s.35, added 2023):** acting as an agency's sub-agent without registration is punished by 1 year in prison or a fine of Tk 50,000 to 2 lakh <sup>[42 (2023)](#o42)</sup>. Agencies may appoint only registered sub-agents <sup>[42 (2023)](#o42)</sup>.
+- **Leaving only by air:** BMET's website, as cited by Prothom Alo in July 2025, says a worker must leave with BMET's emigration clearance (smart card) by lawful means, and that going by sea or by any route other than the three international airports, Dhaka, Chattogram and Sylhet, is a punishable offence <sup>[N217](#n217)</sup>. Speakers at a BRAC and Prothom Alo roundtable in Sylhet in April 2026 said there is no lawful way to go abroad by sea, and that no one can lawfully go abroad for work except through the Dhaka, Chattogram and Sylhet airports <sup>[N198](#n198)</sup>.
+- **No bail:** offences under ss.31, 33 and 34 are non-bailable and can't be settled privately <sup>[2](#o2)</sup>.
+- **Complaint without a court case (s.41):** anyone cheated can complain to the government against any person, including an agency <sup>[2](#o2)</sup>.
+- **Legal aid (s.27):** migrants and people defrauded in the name of migration have a right to legal aid <sup>[2](#o2)</sup>.
+- **Mobile courts** under the Act give immediate remedies to would-be and returned migrants, free, in 7 working days <sup>[5](#o5)</sup>.
+- **Licences cancelled or withdrawn:** according to Ministry sources in July 2026, an agency's licence is cancelled when it breaks the licence conditions and withdrawn when it commits a serious offence or is a threat to national security; getting a withdrawn licence back may take a legal fight <sup>[N218](#n218)</sup>.
+- **Women:** Farida Yasmin, a Supreme Court lawyer advising the Bangladesh Migrant Women Workers Association, said in January 2024 that the amended Act still does not separately address the protection of women <sup>[N219 (2024)](#n219)</sup>.
+
+<a id="what-happens-to-trafficking-cases"></a>
+
+### 16.3 What happens to trafficking cases
+
+- **2018 to 2025 (CID):** the Trafficking in Human Being (THB) unit of the CID (the police's Criminal Investigation Department) counts 1,657 people charged in 536 cases, of whom only 353 could be arrested <sup>[N60](#n60)</sup>.
+- **2020 to 2024 (Home Ministry):** in about 4,400 to 4,500 cases under the 2012 Act, 94 to 95% of the accused were acquitted; a Prothom Alo editorial added that in most incidents no case is filed at all <sup>[N51](#n51), [N57](#n57)</sup>.
+- **2021 and 2022 (Home Ministry sources):** no accused was convicted in a single trafficking case <sup>[N149 (2024)](#n149)</sup>.
+- **January to September 2023 (Home Ministry):** courts disposed of 332 cases, and in 316 of them (95.18%) all the accused were acquitted; 12,279 accused were acquitted, and in the 16 cases that ended in punishment 56 people were sentenced, two of them to life <sup>[N149 (2024)](#n149), [N52 (2024)](#n52)</sup>. In the same nine months 683 new cases were filed, with charge sheets in 31 and final reports in 18; of 30,539 cases in courts up to September 2023, 25,000 were under trial and 5,327 more under investigation <sup>[N149 (2024)](#n149)</sup>. Cases under the Act had been filed against 289,472 people, of whom 132,638 had been arrested <sup>[N149 (2024)](#n149)</sup>.
+- **2023 (US State Department's 2024 trafficking report):** the government identified 1,210 trafficking victims (210 of sex trafficking, 795 of forced labour, 205 other), while civil society and international organisations counted at least 10,135, 1,784 of them of sex trafficking; the report says the government does not regularly publish its anti-trafficking data <sup>[N148](#n148)</sup>.
+- **2024 (Home Ministry):** 1,135 cases were filed at police stations and 4,291 were pending, 1,310 of them under investigation; one third of all the accused had been arrested; trials of earlier cases ended with 5 people sentenced to life, 55 to other terms and 1,250 acquitted <sup>[N148](#n148)</sup>.
+- **2025 to May 2026 (Home Ministry):** 1,126 new cases were filed in 2025, and up to May 2026 5,284 cases were pending, 3,306 under trial and 1,978 under investigation <sup>[N51](#n51)</sup>. Prothom Alo reported that in 2026, 71 new cases were filed in January, 66 in February, 110 in March, 130 in April and 123 in May, while only 17 were disposed of in those five months <sup>[N51](#n51)</sup>.
+
+<a id="why-cases-fail"></a>
+
+### 16.4 Why cases fail
+
+- **Investigation:** experts told Prothom Alo in January 2024 that accused are acquitted because cases are not investigated properly, witnesses can't be produced in court, and cases are settled with the trafficking rings for money <sup>[N149 (2024)](#n149)</sup>. Salma Ali, president of BNWLA (the Bangladesh National Women Lawyers' Association), said then that trafficking cases are very profitable for the police: investigating officers take money from both the victim and the accused and hold up the investigation for a long time, and ring members, who are very influential, threaten victims into a compromise <sup>[N149 (2024)](#n149), [N52 (2024)](#n52)</sup>.
+- **No dedicated investigators:** the legal coordinator of RMMRU (the Refugee and Migratory Movements Research Unit) said in July 2026 that the trafficking tribunals have no designated investigation agency of their own, so investigation reports are late and often no proper investigation is done, and that the Dhaka tribunal had had no judge for five months <sup>[N87](#n87)</sup>.
+- **Time and money:** he said a case takes two to three years to go from investigation to trial, many victims can't keep it going because they spent lakhs to go abroad and have nothing left, and many lose a day's income every time they go to court <sup>[N87](#n87)</sup>. Salma Ali said in July 2026 that cases drag on for lack of skilled public prosecutors and judges <sup>[N153](#n153)</sup>.
+- **Confidentiality:** she also said many victims stop pursuing a case in the end over the question of confidentiality, so organised criminals get away, and that trafficking in the name of migration continues through land ports, airports and sea routes <sup>[N87](#n87)</sup>.
+- **Known traffickers left alone:** the chairperson of OKUP (Ovibashi Karmi Unnayan Program, a migrant workers' organisation) said in July 2026 that at a recent meeting in Madaripur the deputy commissioner (the district's top administrator) said he knows the traffickers but has no power to act against them <sup>[N87](#n87)</sup>.
+- **What investigators are told to establish:** after no convictions in 2021 and 2022 the Home Ministry instructed investigators that trafficking happens in six stages from going abroad to coming back, and to establish who trafficked the victim, who introduced the victim to the ring, whether the victim was threatened, taken by force or trafficked by exploiting a vulnerability, and the route the ring used <sup>[N149 (2024)](#n149)</sup>.
+
+<a id="cases-3"></a>
+
+### 16.5 Cases
+
+- 2019 to 2025: OKUP supported the case of an abused woman who came back from the Middle East in 2019; a long investigation found elements of trafficking, in 2025 the special tribunal's judge proposed an out-of-court settlement, and though she said she wanted justice and dignity, not money, the case was settled for a little over Tk 4 lakh, according to OKUP's chairperson <sup>[N87](#n87)</sup>.
+- January 2024, Savar: the father of a woman trafficked to India on a promise of Canada said that after he filed a trafficking case the accused filed a false case against him at Savar police station, he was arrested and spent four months in jail at a cost of Tk 5 to 6 lakh, and he had heard all the accused were acquitted <sup>[N149 (2024)](#n149), [N52 (2024)](#n52)</sup>. He said the investigating officer told him many times he would be taken to court to testify but never took him, and that two of the acquitted were back in the area; the sub-inspector who investigated said the case had long since gone to the CID and he had no update <sup>[N149 (2024)](#n149)</sup>.
+- July 2026: Mannan Soyal, back from a scam centre in Cambodia, told a Prothom Alo roundtable in Dhaka that after he filed a trafficking case against the people who cheated him, the accused filed a counter-case, so he is now himself an accused and has no money to fight it, and he alleged the fraudsters were pressing him to take money and withdraw <sup>[N153](#n153), [N87](#n87)</sup>.
+
+<a id="where-victims-and-families-get-help"></a>
+
+## 17 Where victims and families get help
+
+1. <a id="where-victims-and-families-get-help-item-1"></a>**In danger in Bangladesh:** call 999, the police's national emergency line, free, 24 hours <sup>[43](#o43)</sup>.
+2. <a id="where-victims-and-families-get-help-item-2"></a>**File a criminal case with the local police.** CID asks returnees to file cases with their local police so the brokers and agencies can be prosecuted <sup>[N2](#n2)</sup>. Under the 2026 Act a case can be filed at a police station or directly with the tribunal, and the police must protect the complainant and keep their identity confidential <sup>[3](#o3)</sup>. A Chandpur family's case in December 2025 led to an arrest <sup>[N27](#n27)</sup>. Two youths trafficked to Cambodia came home on 3 September 2026, a case naming two men was filed at Paltan police station, Dhaka, on 26 October, and the CID arrested both the next day, according to the CID <sup>[N154](#n154)</sup>. In 2020 to 2024, 94 to 95% of the accused in trafficking cases were acquitted (see [What happens to trafficking cases](#what-happens-to-trafficking-cases)) <sup>[N51](#n51)</sup>.
+3. <a id="where-victims-and-families-get-help-item-3"></a>**Report to the CID.** The CID's Trafficking in Human Being (THB) Unit leads trafficking investigations nationwide and asks the public to report trafficking, forged visas and smuggling to it <sup>[44](#o44), [N24](#n24)</sup>.
+4. <a id="where-victims-and-families-get-help-item-4"></a>**Airport police.** A deputy inspector general of the Airport Armed Police Battalion (APBn) said in August 2026 that it counsels trafficking victims and returnees, tries to get them rehabilitated through BRAC and other organisations, takes and investigates their cases, has brought victims back from Iran, Libya and Greece, and tries to arrest accused people in Bangladesh even when the crime happened abroad <sup>[N34](#n34)</sup>.
+5. <a id="where-victims-and-families-get-help-item-5"></a>**Call the Probash-Bondhu call centre** of the Wage Earners' Welfare Board, 24 hours: 16135 free in Bangladesh, +8809610102030 from abroad <sup>[28](#o28)</sup>.
+6. <a id="where-victims-and-families-get-help-item-6"></a>**Apply to the Welfare Board.**
+   - **District office:** the Probashi Kallyan Centre is the Board's district office; in Cumilla it began work in July 2023, taking over services the district manpower office used to give, and an application through it for a migrant in trouble abroad gets legal help with the embassy's assistance <sup>[N220](#n220)</sup>.
+   - **Membership:** a Board director said in May 2026 that anyone, documented or undocumented, can become a member for Tk 400, and that the Board gives a member who falls ill, is jailed or is in danger abroad legal help through the embassy's labour wing <sup>[N221](#n221)</sup>. He also said that with a Tk 300 membership a dead worker's body is brought home from any country, Tk 35,000 is paid for burial and transport, a further Tk 3 lakh goes to the heirs, and up to Tk 10 lakh more is paid if there is insurance (see If a worker dies abroad, what does the family get?) <sup>[N221](#n221)</sup>.
+   - **Money for illness, injury and children:** a worker who applies because of illness within one year of coming home gets a one-time grant of up to Tk 2 lakh (see "What help is there if I'm injured or fall ill abroad?" in the Frequently asked questions about going abroad doc), and a family gets Tk 2,000 a month for up to seven years for each disabled child, for at most two children <sup>[N221](#n221)</sup>. A worker injured or maimed abroad gets up to Tk 4 lakh against a Tk 500 premium, and a five-year life insurance policy costs Tk 1,000 <sup>[N221](#n221)</sup>.
+   - **Unpaid money abroad:** the Board helps recover dues owed abroad through 22 law firms in 12 countries, and has given more than 239,000 people training, counselling and financial help under its reintegration policy <sup>[N221](#n221)</sup>. The Cumilla centre's assistant director said the Board helps through the embassy to recover unpaid insurance and compensation, that embassies can appoint lawyers, that safe homes for women workers operate abroad, that there is a dormitory for overnight stays near the airport, and that the Board gives education stipends to migrants' children and an allowance for disabled children <sup>[N220](#n220)</sup>.
+   - **An example:** on an application by Anirban Survivor Voice Foundation, the Board wrote to the labour wing of the Bangladesh embassy in Bangkok asking it to arrange the release and quick return of 30 Bangladeshis held in Cambodian immigration detention; they flew home on 20 October 2026 <sup>[N164](#n164)</sup>.
+7. <a id="where-victims-and-families-get-help-item-7"></a>**Complain against an agency to BMET** (Bureau of Manpower, Employment and Training): a written application with proof to the Director General <sup>[4](#o4)</sup>. Director (Emigration): +8802222222415, 01711-135901, diremi@bmet.gov.bd <sup>[4](#o4)</sup>. Hotline of OEP (the Overseas Employment Platform, BMET's online system): 09614445271 <sup>[45](#o45)</sup>.
+8. <a id="where-victims-and-families-get-help-item-8"></a>**Complain to the Ministry of Expatriates' Welfare:** enforcement branch, with proof, your address and the agency's licence (RL) number <sup>[5](#o5)</sup>. From abroad, email the complaint cell at minister.expat@gmail.com <sup>[46](#o46)</sup>.
+9. <a id="where-victims-and-families-get-help-item-9"></a>**If the family is threatened at home,** apply to the Welfare Board directly or through the expatriate welfare branch of the Deputy Commissioner's (district administration) office or the DEMO (District Employment and Manpower Office); the Board writes to the local authorities <sup>[47](#o47)</sup>.
+10. <a id="where-victims-and-families-get-help-item-10"></a>**District and union committees:** Cox's Bazar has a District Vigilance Task Force Committee and a District Migration Coordination Committee against unsafe migration, and counter-trafficking committees exist down to union level, though an NGO head there said they need to be made active (see "Local committees and mediation" in the Dalal scams doc) <sup>[N20](#n20)</sup>.
+11. <a id="where-victims-and-families-get-help-item-11"></a>**At the airport on return:** the Welfare Board's desk at Dhaka airport, +88 02 8901040, +880 1971 430203 <sup>[48](#o48)</sup>. Returnees from Cambodia and Europe got emergency help, counselling and money to get home there from BRAC's Migration Programme <sup>[N155](#n155), [N75](#n75)</sup>. BRAC's Migration Programme said in March 2025 that 250 to 300 migrant workers a day were coming back empty-handed, without proper clothes or money, and that it gives each Tk 1,000 for the fare home <sup>[N222](#n222)</sup>.
+12. <a id="where-victims-and-families-get-help-item-12"></a>**BRAC Migration Programme:** airport help, counselling, money or materials to restart earning, and legal help, for returnees and trafficking survivors <sup>[6](#o6)</sup>. It said in April 2026 that it had helped about 39,000 people at the airport in the previous eight years, and gives returnees reintegration support and training, and then counselling, and is trying to set them up as entrepreneurs <sup>[N37](#n37)</sup>. At Dhaka's Hazrat Shahjalal International Airport, when a mentally ill worker or one with no address is found, the Probashi Kallyan desk or the Airport Armed Police phone Al-Amin (Nayan), manager of BRAC's Migration Welfare Centre, who by the US State Department's account at its June 2024 TIP (Trafficking in Persons) Hero award had helped at least 34,000 returnees and trafficking victims <sup>[N223 (2024)](#n223)</sup>. Al-Amin said he was himself trafficked when he went to work in Malaysia, which Prothom Alo reported was in 2007; he came home the same year, started work in BRAC's migration programme in 2017, and is president of Anirban Survivor Voice, the largest network of trafficking survivors in Bangladesh <sup>[N223 (2024)](#n223)</sup>. Roksana Akter of Bishwanath, Sylhet, abused at her workplace in Saudi Arabia and forced to borrow to come home, said in April 2026 that the EU and BRAC's Prottasha-2 project helped her set up a shop whose income now runs her household <sup>[N37](#n37)</sup>. BRAC Information Center: Rahman Villa (2nd floor), 402 Ashkona, opposite the airport, Dakshinkhan, Dhaka; 01700797182, 01700797183 <sup>[N224](#n224)</sup>.
+13. <a id="where-victims-and-families-get-help-item-13"></a>**Women trafficked to India:** BNWLA (the Bangladesh National Women Lawyers' Association) rehabilitated a woman from near the Jashore border rescued from an Indian brothel, BGB (Border Guard Bangladesh) has handed victims it rescued to Justice and Care, an NGO, and Justice and Care said in early 2025 that the return of at least 10 women and girls trafficked across the border since August 2024 and rescued by Indian police was under way <sup>[N148](#n148)</sup>.
+14. <a id="where-victims-and-families-get-help-item-14"></a>**IOM** (International Organization for Migration, the UN migration agency) runs the return flights from Libya with the Embassy and the Ministries <sup>[N25](#n25), [N16](#n16)</sup>.
+15. <a id="where-victims-and-families-get-help-item-15"></a>**Embassies:** Bangkok for Cambodia and Thailand, and for people rescued from Myawaddy in Myanmar; Tashkent for Kyrgyzstan; Rome for Italy; Kuala Lumpur for Malaysia; Doha, +974 44671927, hotline +974 33662000 <sup>[34](#o34), [N159](#n159), [N183 (2024)](#n183), [16](#o16), [33](#o33), [49](#o49)</sup>.
+
+The Home Ministry said in July 2026 it was working on a national referral system and a National Plan of Action 2026-30 so that victims get protection, legal aid and services in a coordinated way <sup>[N87](#n87)</sup>.
+
+> **Need to know**
+> - What phone or email does the CID's THB Unit give the public for trafficking tips?
+> - Is the Welfare Board membership fee Tk 400 or Tk 300, and how does a worker already abroad without clearance pay it?
+> - What number does the Airport Armed Police Battalion give victims who want to file a case?
+> - What numbers do BNWLA and Justice and Care give families of women trafficked to India?
+
+<a id="references"></a>
+
+## References
+
+<a id="official-sources"></a>
+
+### Official sources
+
+1. <a id="o1"></a>Bangladesh High Commission, Malé, 22 May 2024. [Notice: new work visas for Bangladeshis stopped; no free visa (Facebook, 22 May 2024)](https://www.facebook.com/BangladeshHighCommissionMaldives). Accessed 9 Nov 2026. Possibly outdated.
+2. <a id="o2"></a>Legislative and Parliamentary Affairs Division, Ministry of Law (bdlaws.minlaw.gov.bd). [Overseas Employment and Migrants Act, 2013 (Act 48 of 2013), consolidated](https://bdlaws.minlaw.gov.bd/act-details-1131.html). Accessed 7 Nov 2026. Undated: possibly outdated.
+3. <a id="o3"></a>Legislative and Parliamentary Affairs Division, Ministry of Law, Justice and Parliamentary Affairs (bdlaws), 10 Apr 2026. [মানব পাচার ও অভিবাসী চোরাচালান প্রতিরোধ ও দমন আইন, ২০২৬ (Human Trafficking and Migrant Smuggling Prevention and Suppression Act, 2026; Act No. 55 of 2026), full text](http://bdlaws.minlaw.gov.bd/act-details-1684.html). Accessed 19 Nov 2026.
+4. <a id="o4"></a>BMET, 30 Sep 2026. [Citizen Charter (Bangla), page updated 30 Sep 2026](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bmet/2026/8/65cae7ff-a58f-426d-b90c-d524620b8cbc.pdf). Accessed 7 Nov 2026.
+5. <a id="o5"></a>Ministry of Expatriates' Welfare and Overseas Employment, Aug 2026. [Citizen Charter (Bangla), undated (uploaded 2026/8)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-probashi/2026/8/31a84167-1243-425e-b460-b8b3da81009e.pdf). Accessed 7 Nov 2026.
+6. <a id="o6"></a>BRAC. [Migration Programme](https://www.brac.net/program/migration/). Accessed 7 Nov 2026. Undated: possibly outdated.
+7. <a id="o7"></a>Bangladesh Bank, 10 Nov 2026. [Foreign exchange rate sheet, 10/11/2026](https://www.bb.org.bd/econdata/exchange_rate/exchange_rate_10_11_2026.pdf). Accessed 10 Nov 2026.
+8. <a id="o8"></a>Normattiva (Istituto Poligrafico e Zecca dello Stato), 12 Jun 2026. [D.Lgs. 286/1998 (Testo Unico Immigrazione), art. 10-ter](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-25;286~art10ter). Accessed 10 Nov 2026.
+9. <a id="o9"></a>Normattiva (Italian Government), 10 Nov 2026. [Legislative Decree 25/2008 (Procedure Decree), Article 2-bis: safe countries of origin, text in force](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-28;25~art2bis). Accessed 10 Nov 2026.
+10. <a id="o10"></a>Embassy of Italy in Dhaka (Facebook), 3 Nov 2025. [Return of 4 Bangladeshi citizens on 31 October 2025](https://www.facebook.com/ItalyinBangladesh (post of 3 November 2025)). Accessed 10 Nov 2026. Possibly outdated.
+11. <a id="o11"></a>Ministry of the Interior (Dipartimento per le libertà civili e l'immigrazione), 31 Dec 2025. [Cruscotto statistico giornaliero, data to 31 December 2025](https://www.immigrazione.it/docs/2026/cruscotto-statistico-giornaliero-31-dicembre-2025.pdf). Accessed 10 Nov 2026.
+12. <a id="o12"></a>Ministry of the Interior (Dipartimento per le libertà civili e l'immigrazione), 6 Nov 2026. [Cruscotto statistico giornaliero (daily statistical dashboard), data to 6 November 2026](https://libertaciviliimmigrazione.dlci.interno.gov.it/sites/default/files/2026-11/Cruscotto%20statistico%20giornaliero%2006-11-2026.pdf). Accessed 10 Nov 2026.
+13. <a id="o13"></a>Normattiva (Gazzetta Ufficiale), 10 Nov 2026. [D.Lgs. 286/1998 (Testo Unico Immigrazione), art. 10-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-25;286~art10bis!vig=). Accessed 10 Nov 2026.
+14. <a id="o14"></a>Normattiva (Gazzetta Ufficiale), 10 Nov 2026. [D.Lgs. 286/1998 (Testo Unico Immigrazione), art. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-25;286~art14!vig=). Accessed 10 Nov 2026.
+15. <a id="o15"></a>Normattiva (Gazzetta Ufficiale), 10 Nov 2026. [D.Lgs. 286/1998 (Testo Unico Immigrazione), art. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-25;286~art13!vig=). Accessed 10 Nov 2026.
+16. <a id="o16"></a>Embassy of Bangladesh, Rome, 4 Dec 2025. [Address and contact](https://rome.mofa.gov.bd/pages/static-pages/695266a235ce18e1c05aa7e0). Accessed 10 Nov 2026.
+17. <a id="o17"></a>Osservatorio Interventi Tratta (Department for Equal Opportunities / Veneto Region). [Helpline 800 290 290](https://osservatoriointerventitratta.it/en/helpline-800-290-290/). Accessed 10 Nov 2026. Undated: possibly outdated.
+18. <a id="o18"></a>Polish Border Guard (Straz Graniczna), 21 Dec 2022. [Bangladeshi citizen with a forged visa wanted to work in Poland](https://strazgraniczna.pl/pl/aktualnosci/11108,Obywatel-Bangladeszu-z-podrobiona-wiza-chcial-pracowac-w-Polsce.pdf). Accessed 19 Nov 2026. Possibly outdated.
+19. <a id="o19"></a>European Commission (DG Migration and Home Affairs), 2026. [Visa statistics for consulates 2025](https://home-affairs.ec.europa.eu/document/download/56816949-e59f-442b-9091-5d03360bf860_en). Accessed 10 Nov 2026.
+20. <a id="o20"></a>Embassy of Italy in Dhaka, 16 Sep 2026. [Interview with the Italian Ambassador to Bangladesh, Antonio Alessandro, with Kaler Kantho](https://ambdhaka.esteri.it/en/news/dall_ambasciata/2026/09/interview-with-the-italian-ambassador-to-bangladesh-antonio-alessandro-with-kaler-kantho/). Accessed 10 Nov 2026.
+21. <a id="o21"></a>Embassy of Italy in Dhaka, 19 May 2025. [Communiques on Family Reunion Visa of 13 and 19 May 2025 (transcribed from images)](https://ambdhaka.esteri.it/wp-content/uploads/2025/05/Comunicato-family-19.05.png). Accessed 10 Nov 2026. Possibly outdated.
+22. <a id="o22"></a>Normattiva (Gazzetta Ufficiale), 10 Nov 2026. [D.Lgs. 286/1998 (Testo Unico Immigrazione), art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-25;286~art5!vig=). Accessed 10 Nov 2026.
+23. <a id="o23"></a>Ministry of Expatriates' Welfare and Overseas Employment, 5 Feb 2025. [Warning notice for people going abroad for work](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-probashi/2024/12/e6465cdbe8d2431e818c72f1c88abfb7.pdf). Accessed 11 Nov 2026. Possibly outdated.
+24. <a id="o24"></a>Kuwait Ministry of Interior, 9 Nov 2026. [Kuwait Visa portal: visa types and instructions](https://kuwaitvisa.moi.gov.kw/). Accessed 9 Nov 2026.
+25. <a id="o25"></a>Ministry of Interior, Kuwait (Kuwait Al-Youm issue 1802, text via lawskw.com), 2 Aug 2026. [Ministerial Resolution 1091 of 2026 amending Resolution 2249 of 2025 (fee for converting a visit visa to residence)](https://lawskw.com/section/%D9%82%D8%B1%D8%A7%D8%B1-%D9%88%D8%B2%D8%A7%D8%B1%D9%8A-%D8%B1%D9%82%D9%85-1091-%D9%84%D8%B3%D9%86%D8%A9-2026-%D8%A8%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A8%D8%B9%D8%B6-%D8%A3%D8%AD%D9%83%D8%A7%D9%85-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%88%D8%B2%D8%A7%D8%B1%D9%8A-%D8%B1%D9%82%D9%85-2249-%D9%84%D8%B3%D9%86%D8%A9-2025-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D9%84%D8%A7%D8%A6%D8%AD%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0%D9%8A%D8%A9-%D9%84%D9%85%D8%B1%D8%B3%D9%88%D9%85-%D8%A8%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A5%D9%82%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%A3%D8%AC%D8%A7%D9%86%D8%A8). Accessed 9 Nov 2026.
+26. <a id="o26"></a>Ministry of Interior, Qatar. [Qatar Visas: FAQs (archived)](https://portal.moi.gov.qa/qatarvisas/faq.html). Accessed 7 Nov 2026. Archived copy, Wayback Machine, 2 Mar 2022: [https://web.archive.org/web/20220302030552/https://portal.moi.gov.qa/qatarvisas/faq.html](https://web.archive.org/web/20220302030552/https://portal.moi.gov.qa/qatarvisas/faq.html). Undated: possibly outdated.
+27. <a id="o27"></a>Bangladesh High Commission, Malé, 17 Aug 2025. [Warning notice: no legal work on a tourist visa (Facebook, 17 Aug 2025)](https://www.facebook.com/BangladeshHighCommissionMaldives). Accessed 9 Nov 2026. Possibly outdated.
+28. <a id="o28"></a>Wage Earners' Welfare Board, 24 Feb 2026. [Probashi call centre (Bangla)](https://wewb.gov.bd/pages/static-pages/6922db7d933eb65569e0a5ea). Accessed 7 Nov 2026.
+29. <a id="o29"></a>Embassy of Bangladesh, Doha, 1 Nov 2021. [FAQ (Bangla)](https://doha.mofa.gov.bd/pages/static-pages/6952667535ce18e1c05a945b). Accessed 7 Nov 2026. Possibly outdated.
+30. <a id="o30"></a>BMET. [What to do for safe migration (leaflet, Bangla)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bmet/2024/12/98db1e08e0654b68843c08c81a892444.pdf). Accessed 7 Nov 2026. Undated: possibly outdated.
+31. <a id="o31"></a>Ministry of Justice, Al Meezan legal portal, 27 Oct 2015. [Law No. 21 of 2015 on the entry, exit and residence of expatriates (consolidated, English)](https://almeezan.qa/legislations/b888bddf-b8ea-4380-9dce-005dafbad2fa). Accessed 7 Nov 2026. Possibly outdated.
+32. <a id="o32"></a>Immigration Department of Malaysia (Laws of Malaysia reprint), 1 Jan 2006. [Immigration Act 1959/63 (Act 155), reprint incorporating amendments up to 1 January 2006](https://www.imi.gov.my/wp-content/uploads/2022/11/IMMIGRATION-ACT-1959-63-PDF.pdf). Accessed 6 Nov 2026. Possibly outdated.
+33. <a id="o33"></a>Bangladesh High Commission, Kuala Lumpur. [Contact Us](https://www.bdhckl.gov.bd/contact/). Accessed 6 Nov 2026. Undated: possibly outdated.
+34. <a id="o34"></a>Embassy of Bangladesh, Bangkok, 10 Sep 2026. [Contact (address, phones, emails, hotline for Thailand and Cambodia)](https://bangkok.mofa.gov.bd/pages/static-pages/695266af35ce18e1c05aac7c). Accessed 11 Nov 2026.
+35. <a id="o35"></a>Legislative and Parliamentary Affairs Division, Bangladesh (bdlaws), 10 Apr 2026. [মানব পাচার ও অভিবাসী চোরাচালান প্রতিরোধ ও দমন আইন, ২০২৬ (Prevention and Suppression of Human Trafficking and Migrant Smuggling Act 2026)](http://bdlaws.minlaw.gov.bd/act-print-1684.html). Accessed 19 Nov 2026.
+36. <a id="o36"></a>UNODC, 1 Jul 2022. [Violence of any kind is not how you show love: getting help after gender-based violence in Cambodia](https://www.unodc.org/unodc/en/frontpage/2022/July/violence-of-any-kind-is-not-how-you-show-love--spreading-the-message-on-getting-help-after-experiencing-gender-based-violence-in-cambodia.html). Accessed 11 Nov 2026. Possibly outdated.
+37. <a id="o37"></a>Immigration Department of Malaysia (Jabatan Imigresen Malaysia). [Pengurusan Pas Pelajar (Student Pass management)](https://www.imi.gov.my/index.php/perkhidmatan-utama/pas/pas-pelajar/). Accessed 6 Nov 2026. Undated: possibly outdated.
+38. <a id="o38"></a>Ministry of University and Research (MUR) / Ministry of Foreign Affairs, 2026. [Circolare: procedure per l'ingresso, il soggiorno, l'immatricolazione degli studenti internazionali 2026-2027 e 2027-2028](https://universitaly-private.cineca.it/uploads/universitaly-pubblico/Circolare_2026-2027_studenti_internazionali.pdf). Accessed 10 Nov 2026.
+39. <a id="o39"></a>Embassy of Italy in Dhaka, 16 Oct 2024. [Communique on suspended work Nulla Osta (16 October 2024)](https://ambdhaka.esteri.it/wp-content/uploads/2024/10/press-communique-16-October-2024-def.pdf). Accessed 10 Nov 2026. Possibly outdated.
+40. <a id="o40"></a>Normattiva (Gazzetta Ufficiale), 10 Nov 2026. [D.Lgs. 286/1998 (Testo Unico Immigrazione), art. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-25;286~art22!vig=). Accessed 10 Nov 2026.
+41. <a id="o41"></a>Embassy of Italy in Dhaka (VFS Global), 2019. [Guidelines for prospective Bangladeshi students, academic year 2019-2020](https://www.vfsglobal.com/one-pager/italy/bangladesh/consular-services/english/pdf/DOV_Guidelines.pdf). Accessed 10 Nov 2026. Possibly outdated.
+42. <a id="o42"></a>Legislative and Parliamentary Affairs Division, Ministry of Law (bdlaws.minlaw.gov.bd), 18 Oct 2023. [Overseas Employment and Migrants (Amendment) Act, 2023 (Act 41 of 2023)](https://bdlaws.minlaw.gov.bd/act-details-1459.html). Accessed 7 Nov 2026. Possibly outdated.
+43. <a id="o43"></a>Police Telecom, Bangladesh Police. [National Emergency Service 999](https://telecom-police.portal.gov.bd/pages/static-pages/695e3b0cc4774958d7b72321). Accessed 7 Nov 2026. Undated: possibly outdated.
+44. <a id="o44"></a>Bangladesh Police (Police Headquarters). [Unit: Criminal Investigation Department (CID)](https://police.portal.gov.bd/site/page/de7c1a0c-7a5e-4095-8ba4-58a9e68259b9). Accessed 19 Nov 2026. Undated: possibly outdated.
+45. <a id="o45"></a>BMET (Overseas Employment Platform). [Country clearance report page](https://www.oep.gov.bd/reports/country-clearance). Accessed 7 Nov 2026. Undated: possibly outdated.
+46. <a id="o46"></a>Ministry of Expatriates' Welfare and Overseas Employment, 22 Sep 2026. [প্রবাসী বাংলাদেশিদের জন্য বিশেষ বিজ্ঞপ্তি (special notice for expatriate Bangladeshis: complaint cell), 22 Sep 2026](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-probashi/2026/8/994572d2-66cf-45d2-abb8-4f85179e0e18.pdf). Accessed 7 Nov 2026.
+47. <a id="o47"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Legal help through local administration (Bangla)](https://wewb.gov.bd/pages/static-pages/6922dfee933eb65569e24b4d). Accessed 7 Nov 2026.
+48. <a id="o48"></a>Wage Earners' Welfare Board, 9 Jun 2026. [Probashi Kallyan Desk services (Bangla)](https://wewb.gov.bd/pages/static-pages/6922ddc8933eb65569e163d9). Accessed 7 Nov 2026.
+49. <a id="o49"></a>Embassy of Bangladesh, Doha, 20 Oct 2025. [Contact Us (telephone, hotline, email)](https://doha.mofa.gov.bd/pages/static-pages/6952669135ce18e1c05aa177). Accessed 7 Nov 2026. Possibly outdated.
+
+<a id="needs-an-official-source"></a>
+
+### Needs an official source
+
+These facts come only from news or third-party sources. Each needs an official source, or a reviewer's confirmation, before the Navigator uses it.
+
+- <a id="n1"></a>N1. Bangla Tribune, 20 Jul 2026. [20 lakh diye chheleke Italy pathalam, ekhon Libyay atke dedh koti taka chay](https://www.banglatribune.com/country/chitagong/958113/). Accessed 10 Nov 2026.
+- <a id="n2"></a>N2. Dhaka Tribune, 9 Nov 2026. [How Bangladeshis lose millions to traffickers every year](https://www.dhakatribune.com/bangladesh/crime/424120/how-bangladeshis-lose-millions-to-traffickers). Accessed 19 Nov 2026.
+- <a id="n3"></a>N3. The Daily Star Bangla, 17 Jul 2026. [কম্বোডিয়ায় প্রতারণার ফাঁদ: সাইবার দাসত্বে শত শত বাংলাদেশি](https://bangla.thedailystar.net/news/bangladesh/crime-justice/news-3943936). Accessed 11 Nov 2026.
+- <a id="n4"></a>N4. The Business Standard Bangla, 11 Jul 2026. [Fraud, trafficking, warfront: how flawed vetting put our migrant workers at risk](https://www.tbsnews.net/bangla/node/512841). Accessed 19 Nov 2026.
+- <a id="n5"></a>N5. Al Jazeera, 14 Oct 2026. [Bangladesh arrests two for luring locals to fight for Russia in Ukraine](https://www.aljazeera.com/news/2026/10/14/bangladesh-arrests-two-for-luring-locals-to-fight-for-russia-in-ukraine). Accessed 19 Nov 2026.
+- <a id="n6"></a>N6. Prothom Alo English (opinion), 27 May 2026. [Qatar to take new Bangladeshi workers, what about the old ones?](https://en.prothomalo.com/opinion/op-ed/egimpyawre). Accessed 7 Nov 2026.
+- <a id="n7"></a>N7. The Financial Express (Bangladesh), 10 Apr 2026. [Thailand arrests 21 Bangladeshis en route to Malaysia over 'illegal entry'](https://thefinancialexpress.com.bd/national/thailand-arrests-21-bangladeshis-en-route-to-malaysia-over-illegal-entry). Accessed 7 Nov 2026.
+- <a id="n8"></a>N8. Free Malaysia Today, 11 Jul 2026. [Multi-million ringgit migrant smuggling ring busted](https://www.freemalaysiatoday.com/category/nation/2026/07/11/multi-million-ringgit-migrant-smuggling-ring-busted). Accessed 7 Nov 2026.
+- <a id="n9"></a>N9. bdnews24.com (Bangla), 16 Jun 2026. [Fake Schengen visas: Biman officer arrested over three sent to Italy](https://bangla.bdnews24.com/bangladesh/9f07cfde101a). Accessed 10 Nov 2026.
+- <a id="n10"></a>N10. Mixed Migration Centre (MMC), 11 Mar 2026. [Navigating new corridors: the evolving route of Bangladeshi migration to Italy through Libya](https://mixedmigration.org/wp-content/uploads/2026/03/426_Bangladeshi-Migration-to-Italy-via-Libya.pdf). Accessed 10 Nov 2026.
+- <a id="n11"></a>N11. The Daily Star Bangla, 11 Mar 2021. ['Work permit' visa to Europe and the reality](https://bangla.thedailystar.net/%E0%A6%B6%E0%A7%80%E0%A6%B0%E0%A7%8D%E0%A6%B7-%E0%A6%96%E0%A6%AC%E0%A6%B0/%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%9F-%E0%A6%AD%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%87%E0%A6%89%E0%A6%B0%E0%A7%8B%E0%A6%AA-%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE-%E0%A6%93-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A6%A4%E0%A6%BE-210049). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n12"></a>N12. The Business Standard, 20 Oct 2025. [What to know about 'free visa' scam targeting migrant workers](https://www.tbsnews.net/node/1264896). Accessed 9 Nov 2026. Possibly outdated.
+- <a id="n13"></a>N13. bdnews24.com, 15 Sep 2026. [Bangladeshis sold to Cambodian scam centres (report on the 1,796 stranded)](https://bdnews24.com/bangladesh/5ed382b3665b). Accessed 11 Nov 2026.
+- <a id="n14"></a>N14. Prothom Alo, 14 Oct 2026. [Bangladeshis sent to Russia for jobs, used as 'prey' in war, 20 killed: SRB](https://en.prothomalo.com/bangladesh/uvrhp22g3j). Accessed 10 Nov 2026.
+- <a id="n15"></a>N15. Dhaka Tribune, 16 Jul 2026. [How Bangladeshi jobseekers are trafficked into Cambodia's cybercrime compounds](https://www.dhakatribune.com/bangladesh/415273/how-bangladeshi-jobseekers-are-trafficked-into). Accessed 11 Nov 2026.
+- <a id="n16"></a>N16. Dhaka Tribune (Zulker Naeen, ULAB), 16 Jun 2026. [Bound for Italy, trapped in Libya](https://www.dhakatribune.com/opinion/longform/412769/bound-for-italy-trapped-in-libya). Accessed 19 Nov 2026.
+- <a id="n17"></a>N17. Bonik Barta, 28 Sep 2024. [Hundreds of Bangladeshis trapped in visa fraud in Saudi Arabia](https://en.bonikbarta.com/exclusive/s4zZ3Dm5hb54J4bA/). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n18"></a>N18. bdnews24.com (Bangla), 18 Oct 2026. [কম্বোডিয়ায় 'আটকে' ১৮০০ বাংলাদেশি, বিশেষ ফ্লাইটে ফেরানোর দাবি](https://bangla.bdnews24.com/bangladesh/2r5c7ajpsz). Accessed 11 Nov 2026.
+- <a id="n19"></a>N19. The Business Standard, 11 Jul 2026. [Scams, smuggling, battlefields: How flawed vetting sent our workers into harm's way](https://www.tbsnews.net/bangladesh/migration/scams-smuggling-battlefields-how-flawed-vetting-sent-our-workers-harms-way). Accessed 11 Nov 2026.
+- <a id="n20"></a>N20. Prothom Alo, 23 Jun 2026. [সমুদ্রপথে বিদেশযাত্রা, রুখতে হবে এখনই (Going abroad by sea must be stopped now (roundtable))](https://www.prothomalo.com/roundtable/dvj3prduwk). Accessed 23 Nov 2026.
+- <a id="n21"></a>N21. Prothom Alo, 11 Apr 2026. [প্রবাসীদের ছোট করে দেখার সুযোগ নেই, তাঁদের পাঠানো অর্থেই সচল থাকে অর্থনীতির চাকা (Expatriates cannot be looked down on; the money they send keeps the economy running)](https://www.prothomalo.com/bangladesh/district/12octcn5xm). Accessed 23 Nov 2026.
+- <a id="n22"></a>N22. Prothom Alo, 29 Dec 2024. [প্যারিসের ‘উন্মুক্ত জেলে বন্দী’ দেশহীন ফরিদুলের গল্প (The story of stateless Faridul, 'imprisoned in the open jail' of Paris)](https://www.prothomalo.com/opinion/column/n9k7mb602p). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n23"></a>N23. Prothom Alo, 14 Feb 2024. [মানব পাচারের অভিযোগে ৫ বাংলাদেশির বিরুদ্ধে মার্কিন দূতাবাসের মামলা (US embassy files case against 5 Bangladeshis over human trafficking)](https://www.prothomalo.com/bangladesh/crime/2slibwetna). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n24"></a>N24. Bangladesh Monitor, Jun 2026. [Biman official arrested over alleged human trafficking to Italy](https://bangladeshmonitor.com.bd/en/biman-official-arrested-over-alleged-human-trafficking-to-italy). Accessed 19 Nov 2026.
+- <a id="n25"></a>N25. Dhaka Tribune, 26 Feb 2026. [175 more Bangladeshis return home from Libya](https://www.dhakatribune.com/bangladesh/foreign-affairs/404205/175-more-bangladeshis-return-home-from-libya). Accessed 10 Nov 2026.
+- <a id="n26"></a>N26. Prothom Alo (English), 30 Sep 2026. [Diversification of migration destination: Focusing on talent partnership programme](https://en.prothomalo.com/opinion/op-ed/khdlq6ckn2). Accessed 10 Nov 2026.
+- <a id="n27"></a>N27. The Business Standard, 11 Dec 2025. [CID arrests human trafficker linked to Libyan mafia exploiting Bangladeshi migrants](https://www.tbsnews.net/node/1307476). Accessed 19 Nov 2026.
+- <a id="n28"></a>N28. Prothom Alo, 21 Feb 2026. [সরকারকে নিতে হবে কঠোর অবস্থান (The government must take a hard line (editorial))](https://www.prothomalo.com/opinion/editorial/qj6ckwea2s). Accessed 23 Nov 2026.
+- <a id="n29"></a>N29. Prothom Alo, 9 Sep 2026. [বিদেশযাত্রার নামে ডিজিটাল দালালের প্রতারণা ঠেকাবে কে (opinion)](https://www.prothomalo.com/opinion/column/kfv35ffqjj). Accessed 19 Nov 2026.
+- <a id="n30"></a>N30. Prothom Alo, 10 Mar 2025. [ইতালিতে যাওয়ার স্বপ্ন ‘অচল’ বানাল ভৈরবের খুরশেদকে, হারিয়েছেন ভিটাবাড়িসহ সব (Dream of going to Italy left Khurshed of Bhairab disabled; he has lost his homestead and everything)](https://www.prothomalo.com/bangladesh/district/a023iqkxai). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n31"></a>N31. Prothom Alo, 3 Feb 2025. [‘এই কি সেই গেম! আমার ছওয়ালও নাই, ভাইও নাই’ ('Is this that game! I have neither my son nor my brother')](https://www.prothomalo.com/bangladesh/district/vr6rutlxue). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n32"></a>N32. Prothom Alo, 15 Feb 2025. [ইতালিতে যাওয়ার উদ্দেশ্যে লিবিয়ায় গিয়ে নিখোঁজ ২৪ জন, সন্ধান চেয়ে শরীয়তপুরে স্বজনদের অনশন (24 missing in Libya on the way to Italy; relatives on hunger strike in Shariatpur seeking their whereabouts)](https://www.prothomalo.com/bangladesh/district/sjzly65tx0). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n33"></a>N33. Prothom Alo, 7 Jun 2024. [লিবিয়ায় এক চক্র আরেক চক্রের কাছে বিক্রি করেছিল তাঁদের (In Libya one gang sold them to another gang)](https://www.prothomalo.com/bangladesh/district/khhhkdeqco). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n34"></a>N34. Prothom Alo, 31 Aug 2026. [নিরাপদ অভিবাসন ও বিদেশফেরতদের পুনঃএকত্রীকরণ: বাস্তবতা ও করণীয় (Safe migration and reintegration of returnees: reality and what to do (roundtable, Dhaka, 18 August 2026))](https://www.prothomalo.com/roundtable/ipiza732jy). Accessed 23 Nov 2026.
+- <a id="n35"></a>N35. Prothom Alo, 6 Feb 2025. [তরুণদের এই মৃত্যুযাত্রা থামাতেই হবে (This death journey of the young must be stopped (editorial))](https://www.prothomalo.com/opinion/editorial/2tmprq8x29). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n36"></a>N36. Prothom Alo, 10 Feb 2025. [লিবিয়ায় ২৩ লাশ উদ্ধার: ১৬ লাখে ‘বডি কন্ট্রাক্ট’ ঢাকা টু ইতালি (23 bodies recovered in Libya: BDT 16 lakh 'body contract' from Dhaka to Italy)](https://www.prothomalo.com/bangladesh/district/7ch6wpui31). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n37"></a>N37. Prothom Alo, 5 May 2026. [স্বপ্ন নাকি মৃত্যুযাত্রা? আমাদের করণীয় (Dream or death journey? What we should do (roundtable, Sylhet, 18 April 2026))](https://www.prothomalo.com/roundtable/7bmda86jnv). Accessed 23 Nov 2026.
+- <a id="n38"></a>N38. Prothom Alo, 27 Apr 2026. [ভূমধ্যসাগরে মরণযাত্রার লাগাম টানবে কে? (Who will rein in the death journey across the Mediterranean?)](https://www.prothomalo.com/opinion/column/wb8ejlpbds). Accessed 23 Nov 2026.
+- <a id="n39"></a>N39. Prothom Alo, 5 Dec 2024. [স্পেনের কথা বলে যুবককে লিবিয়ায় পাচারের অভিযোগ, ১২ জনের নামে মামলা (Young man allegedly trafficked to Libya in the name of Spain; case against 12)](https://www.prothomalo.com/bangladesh/district/no4rh98x79). Accessed 22 Nov 2026. Possibly outdated.
+- <a id="n40"></a>N40. Prothom Alo, 19 Jan 2025. [লিবিয়ায় গিয়ে নির্যাতনের শিকার হচ্ছেন মঠবাড়িয়ার তিন যুবক, মুক্তিপণ দাবি (Three young men from Mathbaria tortured in Libya, ransom demanded)](https://www.prothomalo.com/bangladesh/district/67uuumj4in). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n41"></a>N41. Prothom Alo, 14 Aug 2025. [লিবিয়ায় দালাল চক্রের আস্তানায় দিপু, টাকা দিলে থামে নির্যাতন (Dipu held in a broker ring's den in Libya; the torture stops when money is paid)](https://www.prothomalo.com/bangladesh/district/omyw5ll0rh). Accessed 22 Nov 2026. Possibly outdated.
+- <a id="n42"></a>N42. Prothom Alo, 13 Jul 2024. [দালাল ধরে ইতালি যাওয়ার চেষ্টা করে লিবিয়ায় জিম্মি ২৪ বাংলাদেশি (24 Bangladeshis hostage in Libya after trying to reach Italy through a broker)](https://www.prothomalo.com/bangladesh/district/h90umi8g7l). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n43"></a>N43. Prothom Alo, 22 Feb 2025. [লিবিয়ায় দালাল চক্রের নির্যাতনে মৃত্যু, ইতালি যাওয়া হলো না রাসেলের (Death from torture by broker ring in Libya; Russell never reached Italy)](https://www.prothomalo.com/bangladesh/district/p828630n1y). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n44"></a>N44. Prothom Alo, 21 Sep 2024. [ইতালির কথা বলে ২৬ যুবককে পাঠানো হয় লিবিয়ায়, দালাল চক্রের ফাঁদে পড়ে নিঃস্ব ২৫টি পরিবার (26 young men sent to Libya in the name of Italy; 25 families ruined by a broker ring)](https://www.prothomalo.com/bangladesh/district/4wz8lw6l5j). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n45"></a>N45. Prothom Alo, 13 Nov 2026. [লিবিয়ায় জিম্মি ছেলেকে ফেরাতে ৫ লাখ টাকা দিয়েও খোঁজ নেই, আরও ৪২ লাখ দাবি (BDT 5 lakh paid to bring back son held hostage in Libya, still no trace; another 42 lakh demanded)](https://www.prothomalo.com/bangladesh/crime/0frkd4iyi8). Accessed 23 Nov 2026.
+- <a id="n46"></a>N46. Prothom Alo, 27 Feb 2025. [লিবিয়ায় নির্যাতনে তরুণের মৃত্যু, লাশ নৌকায় পাঠানো হয় ইতালি (Youth dies of torture in Libya; body sent to Italy by boat)](https://www.prothomalo.com/bangladesh/district/9ok90kf55r). Accessed 22 Nov 2026. Possibly outdated.
+- <a id="n47"></a>N47. Prothom Alo, 19 Nov 2025. [‘আমার ভাইডারে ভালোভাবে ইতালি নিয়ে গেল না, পথেই মাইরা ফালাইল’ ('They did not take my brother to Italy safely, they killed him on the way')](https://www.prothomalo.com/bangladesh/district/se6dzeg3ir). Accessed 22 Nov 2026. Possibly outdated.
+- <a id="n48"></a>N48. Prothom Alo, 13 May 2026. [৪৮ লাখ টাকা মুক্তিপণ দিয়েও বাঁচানো গেল না, জানাল পরিবার (Could not be saved even after paying BDT 4.8 million ransom, family says)](https://www.prothomalo.com/bangladesh/district/i5qpn7a382). Accessed 22 Nov 2026.
+- <a id="n49"></a>N49. Prothom Alo, 14 Oct 2026. [মানব পাচার চক্রের বিচার চেয়ে মানববন্ধনে আর্তনাদ, ‘কোন জায়গায় গেলে বিচার পাব?’ (Cry at a human chain demanding trial of a trafficking ring: 'Where do I go to get justice?')](https://www.prothomalo.com/bangladesh/district/rescxnrp2i). Accessed 23 Nov 2026.
+- <a id="n50"></a>N50. bdnews24.com, 26 May 2026. [Italy-bound man returns from Libya, police nab 3 'traffickers'](https://bdnews24.com/bangladesh/ca2d21bda8ae). Accessed 10 Nov 2026.
+- <a id="n51"></a>N51. Prothom Alo, 30 Jul 2026. [বিদেশে চাকরির নামে প্রতারণা, হাতিয়ে নিচ্ছে লাখ লাখ টাকা (Fraud in the name of jobs abroad takes lakhs of taka)](https://www.prothomalo.com/bangladesh/yv6hj8ipg0). Accessed 23 Nov 2026.
+- <a id="n52"></a>N52. Prothom Alo, 25 Feb 2024. [প্রত্যেক অপরাধীকে শাস্তির আওতায় আনুন (Bring every offender to justice (editorial))](https://www.prothomalo.com/opinion/editorial/sr35jk03m3). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n53"></a>N53. The Business Standard (AFP), 28 May 2020. [26 Bangladeshi migrants killed in revenge attack in Libya](https://www.tbsnews.net/node/86266). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n54"></a>N54. Prothom Alo, 3 May 2024. [‘আমার পোলাডাও গেল, লক্ষ লক্ষ ট্যাকাও জলে গেল’ ('My boy is gone, and lakhs of taka have gone down the drain too')](https://www.prothomalo.com/bangladesh/district/55hya5o16u). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n55"></a>N55. Prothom Alo English (Reuters), 16 Nov 2025. [Boat carrying 26 Bangladeshi migrants capsizes off Libya, 4 dead](https://en.prothomalo.com/bangladesh/zmaephsppv). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n56"></a>N56. Asia News Network (The Daily Star). [18 Bangladeshis killed in perilous voyage to Greece: State minister](https://asianews.network/18-bangladeshis-killed-in-perilous-voyage-to-greece-state-minister/). Accessed 19 Nov 2026. Undated: possibly outdated.
+- <a id="n57"></a>N57. Prothom Alo, 1 Apr 2026. [বিচারহীনতায় বেপরোয়া মানব পাচারকারীরা (Impunity makes human traffickers reckless (editorial))](https://www.prothomalo.com/opinion/editorial/ta1ysei0pv). Accessed 23 Nov 2026.
+- <a id="n58"></a>N58. Prothom Alo, 30 Mar 2026. [‘এক গ্লাস পানি তুলে খেতে হয়নি, সেই আমি প্রবাসে কী করছি’ ('I never had to pour my own glass of water; what am I doing abroad now')](https://www.prothomalo.com/bangladesh/district/okf1h3of1j). Accessed 23 Nov 2026.
+- <a id="n59"></a>N59. AIDA / ECRE (author: ASGI), 14 Sep 2026. [Country Report Italy: Statistics (2025 update)](https://asylumineurope.org/reports/country/italy/statistics/). Accessed 10 Nov 2026.
+- <a id="n60"></a>N60. Prothom Alo, 5 Sep 2026. [ছোট হয়েছে মধ্যপ্রাচ্যের বড় শ্রমবাজার, নতুন বাজারের নামে প্রতারণা](https://www.prothomalo.com/bangladesh/c5ok3b3xae). Accessed 11 Nov 2026.
+- <a id="n61"></a>N61. UNHCR (based on Ministry of the Interior figures), 11 Apr 2025. [Italy Sea arrivals dashboard, December 2024 (with 2024 focus)](https://data.unhcr.org/en/documents (Italy sea arrivals dashboard, PDF saved by team; first sought on interno.gov.it)). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n62"></a>N62. UNHCR (based on Ministry of the Interior figures), 6 Mar 2026. [Italy Sea arrivals dashboard, December 2025](https://data.unhcr.org/en/documents (Italy sea arrivals dashboard, PDF saved by team; first sought on interno.gov.it)). Accessed 10 Nov 2026.
+- <a id="n63"></a>N63. The Business Standard, 30 Jun 2026. [Europe job migration surges 46% in H1 amid Gulf slump](https://www.tbsnews.net/node/1475796). Accessed 19 Nov 2026.
+- <a id="n64"></a>N64. Al Jazeera, 7 Apr 2026. [Mediterranean migrant deaths mounting towards 1,000 in 2026: UN](https://aljazeera.com/news/2026/4/7/mediterranean-migrant-deaths-mounting-towards-1000-in-2026-un). Accessed 10 Nov 2026.
+- <a id="n65"></a>N65. Arab News Pakistan (Wayback Machine copy), 30 Apr 2026. [Libyan court jails Zuwara gang members who kidnapped migrants](https://www.arabnews.pk/node/2641669/middle-east). Accessed 10 Nov 2026.
+- <a id="n66"></a>N66. LaPresse, 11 Aug 2025. [Migrants: protection granted to asylum seekers transferred to Albania](https://ae.lapresse.it/news-ae/2025/08/11/migrants-protection-granted-to-two-asylum-seekers-transferred-to-albania). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n67"></a>N67. The Daily Observer, 7 Aug 2026. [13 Bangladeshis rescued from kidnappers in Libya; Syrian arrested](https://observerbd.com/news/586875). Accessed 10 Nov 2026.
+- <a id="n68"></a>N68. Asia News Network (The Daily Star). [13 countries warn Bangladeshis seeking visas against fake documents, unauthorised agents](https://asianews.network/?p=267227). Accessed 19 Nov 2026. Undated: possibly outdated.
+- <a id="n69"></a>N69. Domani, 17 Nov 2025. [Dacca-Roma solo andata: la vita sospesa dei migranti](https://www.editorialedomani.it/fatti/dacca-roma-solo-andata-la-vita-sospesa-dei-migranti-pldhr6v6). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n70"></a>N70. IJ4EU, 11 Mar 2026. [How legal labour migration routes for South Asian workers are turning into a cross-border pipeline of exploitation in Europe](https://investigativejournalismforeu.net/?p=8951). Accessed 19 Nov 2026.
+- <a id="n71"></a>N71. Dhaka Tribune, 3 Sep 2026. [36 Bangladeshis among 96 detained at Bosnia border](https://www.dhakatribune.com/bangladesh/migration/419044/bosnia-border-police-detain-36-bangladeshis). Accessed 19 Nov 2026.
+- <a id="n72"></a>N72. Bangladesh Pratidin, 6 May 2023. [Kirgizstane atke gelo Suranjiter Europe jawar swapno (Suranjit's dream of Europe stuck in Kyrgyzstan)](https://www.bd-pratidin.com/chayer-desh/2023/05/06/882295). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n73"></a>N73. The Business Standard (Bangla), 10 Sep 2025. [Deshe phirlen Kirgizstane protaranar shikar 180 Bangladeshi (180 Bangladeshis defrauded in Kyrgyzstan return home)](https://www.tbsnews.net/bangla/bangladesh/news-details-388016). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n74"></a>N74. RFE/RL Balkan Service, 29 Jan 2026. [New Evidence Of Labor Abuses At Flagship Chinese Factory In Serbia](https://www.rferl.org/a/serbia-china-linglong-factory-tire-investment-vucic-xi/33663729.html). Accessed 19 Nov 2026.
+- <a id="n75"></a>N75. Prothom Alo, 23 Oct 2026. [Italy, Greece, and Cyprus send back 35 Bangladeshis](https://en.prothomalo.com/bangladesh/ifuoti0pwg). Accessed 10 Nov 2026.
+- <a id="n76"></a>N76. The Daily Star, 6 Nov 2026. [Editorial: Strengthen labour oversight in migration](https://www.thedailystar.net/opinion/editorial/news/strengthen-labour-oversight-migration-4317141). Accessed 11 Nov 2026.
+- <a id="n77"></a>N77. The Daily Star, 6 Nov 2026. [44,000 clearances later, govt tightens migration rules](https://www.thedailystar.net/news/bangladesh/news/44000-clearances-later-govt-tightens-migration-rules-4316861). Accessed 11 Nov 2026.
+- <a id="n78"></a>N78. Prothom Alo English, 5 Nov 2026. [No clearance without ministry approval to send workers to Russia, 11 other countries](https://en.prothomalo.com/bangladesh/75jhz7gvl6). Accessed 11 Nov 2026.
+- <a id="n79"></a>N79. Bangla Tribune, 4 Nov 2026. [মন্ত্রণালয়ের অনুমতি ছাড়া ১২ দেশে কর্মী যেতে ছাড়পত্র বন্ধ](https://www.banglatribune.com/national/978875/%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%AE%E0%A6%A4%E0%A6%BF-%E0%A6%9B%E0%A6%BE%E0%A7%9C%E0%A6%BE-%E0%A7%A7%E0%A7%A8-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80-%E0%A6%AF%E0%A7%87%E0%A6%A4%E0%A7%87). Accessed 11 Nov 2026.
+- <a id="n80"></a>N80. bdnews24.com, 4 Nov 2026. [১২ দেশে কর্মী পাঠাতে মন্ত্রণালয়ের অনুমোদন ছাড়া ছাড়পত্র না দেওয়ার নির্দেশ](https://bangla.bdnews24.com/bangladesh/gmv8c6hbqf). Accessed 11 Nov 2026.
+- <a id="n81"></a>N81. Prothom Alo, 5 Nov 2026. [রাশিয়াসহ ১২ দেশে কর্মী পাঠাতে মন্ত্রণালয়ের অনুমতি ছাড়া ছাড়পত্র নয় (No clearance without ministry permission to send workers to 12 countries including Russia)](https://www.prothomalo.com/bangladesh/s4apsasajn). Accessed 23 Nov 2026.
+- <a id="n82"></a>N82. Prothom Alo, 27 Mar 2026. [আমেরিকান ড্রিম এবং অভিবাসন প্রতারণার গোলকধাঁধায় বাংলাদেশিরা (The American dream and Bangladeshis in the maze of immigration fraud)](https://www.prothomalo.com/opinion/column/ktxt21bc8h). Accessed 23 Nov 2026.
+- <a id="n83"></a>N83. Prothom Alo, 23 Oct 2025. [নিজ দেশে জলবায়ু বিপর্যয়ে নিউইয়র্কে ঠাঁই, সেখানেও বিতাড়নের ভয় (Driven to New York by climate disaster at home, and fearing deportation there too)](https://www.prothomalo.com/bangladesh/environment/0tc83d203b). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n84"></a>N84. Prothom Alo, 20 Jan 2026. [ভিসা সাক্ষাৎকারের আগে বন্ড পরিশোধ না করতে বলল ঢাকার মার্কিন দূতাবাস (US embassy in Dhaka says do not pay the visa bond before the interview)](https://www.prothomalo.com/bangladesh/n1qq8cyjoa). Accessed 23 Nov 2026.
+- <a id="n85"></a>N85. Prothom Alo, 26 Jan 2026. [‘ভিসা বন্ড পাইলট প্রোগ্রাম’ কীভাবে কাজ করে, জানাল ঢাকার মার্কিন দূতাবাস (US embassy in Dhaka explains how the 'visa bond pilot programme' works)](https://www.prothomalo.com/bangladesh/n0jd4r655e). Accessed 23 Nov 2026.
+- <a id="n86"></a>N86. Dhaka Tribune, 17 Jun 2026. [221 Bangladeshis return from Cambodia cyber scam compounds](https://www.dhakatribune.com/bangladesh/foreign-affairs/412883/221-bangladeshis-return-from-cambodia-cyber-scam). Accessed 11 Nov 2026.
+- <a id="n87"></a>N87. Prothom Alo, 30 Jul 2026. [প্রযুক্তির ফাঁদে প্রতারণা ও মানব পাচার: করণীয় কী (Fraud and human trafficking in the trap of technology: what to do (roundtable, Dhaka, 22 July 2026))](https://www.prothomalo.com/roundtable/iqjsp61cj1). Accessed 23 Nov 2026.
+- <a id="n88"></a>N88. Prothom Alo, 23 Apr 2024. [কানাডায় না বুঝে ভিজিট ভিসায় এসে এখন অসহায় হাজারো বাংলাদেশি (Thousands of Bangladeshis helpless after coming to Canada on visit visas without understanding)](https://nagorik.prothomalo.com/durporobash/ofjyndbfel). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n89"></a>N89. Prothom Alo, 24 May 2024. [বাংলাদেশিদের জন্য আবার বন্ধ মালদ্বীপের শ্রমবাজার (Maldives labour market closed again for Bangladeshis)](https://www.prothomalo.com/bangladesh/p0fu7lqxgz). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n90"></a>N90. Prothom Alo, 18 Jun 2024. [বেশি প্রবাসী আয় আসে যে দেশ থেকে, সে দেশেই কর্মী কমছে (Worker numbers falling in the country that sends the most remittance (UAE))](https://www.prothomalo.com/bangladesh/i8gh1yyth5). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n91"></a>N91. The Daily Star, 30 Mar 2026. [Labour migration hits a wall with several key markets shut](https://www.thedailystar.net/news/bangladesh/news/labour-migration-hits-wall-several-key-markets-shut-4138856). Accessed 8 Nov 2026.
+- <a id="n92"></a>N92. Dhaka Tribune, 24 Jan 2026. [Visa doors slam shut worldwide for Bangladeshis](https://www.dhakatribune.com/bangladesh/401698/global-visa-crackdown-leaves-bangladeshis-facing). Accessed 8 Nov 2026.
+- <a id="n93"></a>N93. The Daily Star, 7 May 2024. [Fake job offer in Kyrgyzstan: 3 of a trafficking syndicate held](https://thedailystar.net/news/bangladesh/news/fake-job-offer-kyrgyzstan-3-trafficking-syndicate-held-3604471). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n94"></a>N94. Fortify Rights, 3 Mar 2026. [Bangladeshi Men Trafficked to Fight in Russia's Illegal War in Ukraine](https://www.fortifyrights.org/reg-inv-2026-03-03/). Accessed 19 Nov 2026.
+- <a id="n95"></a>N95. Gulf News, citing the General Directorate of Passports, 22 Mar 2022. [Saudi Arabia: Visit visa not valid for iqama](https://gulfnews.com/world/gulf/saudi/saudi-arabia-visit-visa-not-valid-for-iqama-1.1647945033408). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n96"></a>N96. Gulf News, 7 Apr 2025. [Saudi Arabia suspends short-term visas for 14 countries ahead of Hajj season](https://gulfnews.com/world/gulf/saudi/saudi-arabia-suspends-short-term-visas-for-14-countries-ahead-of-hajj-season-1.500085267). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n97"></a>N97. Fragomen, 1 Jul 2025. [Saudi Arabia: visit visa entry and exit restrictions for select nationals](https://www.fragomen.com/insights/saudi-arabia-visit-visa-entry-and-exit-restrictions-for-select-nationals.html). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n98"></a>N98. Times of Oman, 31 Oct 2023. [Oman suspends issuance of new visas for Bangladeshi citizens](https://timesofoman.com/article/137928-oman-suspends-issuance-of-new-visas-for-bangladeshi-citizens). Accessed 9 Nov 2026. Possibly outdated.
+- <a id="n99"></a>N99. The Daily Star, 23 Apr 2014. [23 Bangladeshis jobless in Qatar for three months](https://www.thedailystar.net/23-bangladeshis-jobless-in-qatar-for-three-months-21349). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n100"></a>N100. bdnews24.com, 13 Oct 2026. [Malaysia niye muktipon aday, travel agencyr malik greptar](https://bangla.bdnews24.com/bangladesh/6nzwkxdu2m). Accessed 7 Nov 2026.
+- <a id="n101"></a>N101. The Star (Malaysia), 15 Sep 2026. [Immigration nabs 173 foreign workers over alleged pass misuse in Sepang](https://www.thestar.com.my/news/nation/2026/09/15/immigration-nabs-173-foreign-workers-over-alleged-pass-misuse-in-sepang). Accessed 7 Nov 2026.
+- <a id="n102"></a>N102. RMMRU (Refugee and Migratory Movements Research Unit), 1 Jul 2023. [Migration Dynamics of Bangladesh and the Maldives Corridor](https://www.rmmru.org/newsite/wp-content/uploads/2024/01/Migration-Dynamics-of-Bangladesh-and-the-Maldives-Corridor.pdf). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n103"></a>N103. Prothom Alo, 6 Feb 2025. [কর্মসংস্থানের উদ্দেশ্যে বিদেশে গমনে ইচ্ছুকদের জন্য মন্ত্রণালয়ের সতর্কবার্তা (Ministry's warning for those wishing to go abroad for employment)](https://www.prothomalo.com/chakri/chakri-news/0u5azludpj). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n104"></a>N104. Human Rights Watch, 13 Jul 2016. ["I Was Sold": Abuse and Exploitation of Migrant Domestic Workers in Oman](https://www.hrw.org/report/2016/07/13/i-was-sold/abuse-and-exploitation-migrant-domestic-workers-oman). Accessed 9 Nov 2026. Possibly outdated.
+- <a id="n105"></a>N105. Prothom Alo, 26 May 2026. [কাতার নেবে নতুন বাংলাদেশি শ্রমিক, পুরোনোদের কান্না কে শুনবে (Qatar will take new Bangladeshi workers; who will hear the cries of those already there?)](https://www.prothomalo.com/opinion/column/1kgnrnbjzg). Accessed 23 Nov 2026.
+- <a id="n106"></a>N106. Prothom Alo, 19 Oct 2025. [ঋণ করে ‘ফ্রি ভিসা’ নিয়ে বিদেশে গেছেন ৭২ শতাংশ কর্মী (72% of workers went abroad on 'free visas' with loans)](https://www.prothomalo.com/bangladesh/wv5k3ehfjz). Accessed 8 Nov 2026. Archived copy, Wayback Machine, 11 Jun 2026: [https://web.archive.org/web/20260611165847/https://www.prothomalo.com/bangladesh/wv5k3ehfjz](https://web.archive.org/web/20260611165847/https://www.prothomalo.com/bangladesh/wv5k3ehfjz). Possibly outdated.
+- <a id="n107"></a>N107. Bridge Bangla 24, 24 May 2025. [কুয়েতে 'ফ্রি ভিসার' নামে ভয়াবহ প্রতারণা, প্রবাসীদের জন্য সতর্কবার্তা রাষ্ট্রদূতের](https://www.bridgebangla24.com/migration/news/876). Accessed 9 Nov 2026. Possibly outdated.
+- <a id="n108"></a>N108. Inside Business, 16 Mar 2026. [ফ্রি ভিসার নামে প্রতারণা! মধ্যপ্রাচ্যে বাংলাদেশিদের করুণ বাস্তবতা (Fraud in the name of free visas)](https://www.insidebusiness.online/news/fraud-in-the-name-of-free-visas-the-sad-reality-of-bangladeshis-in-the-middle-east). Accessed 10 Nov 2026.
+- <a id="n109"></a>N109. Prothom Alo, 29 Aug 2025. [প্রবাসের স্বপ্ন বনাম নির্মম বাস্তবতা (The dream of going abroad versus harsh reality (first-person account from Riyadh))](https://www.bondhushava.com/feature/2kwxs5kbae). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n110"></a>N110. US Department of State (copy on ecoi.net), 29 Sep 2025. [2025 Trafficking in Persons Report: Qatar](https://www.ecoi.net/de/dokument/2130635.html). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n111"></a>N111. Arab Times, 21 May 2025. [Absconding Accusations in Kuwait? Know Your Legal Rights Now](https://www.arabtimesonline.com/news/absconding-accusations-in-kuwait-know-your-legal-rights-now). Accessed 9 Nov 2026. Possibly outdated.
+- <a id="n112"></a>N112. Prothom Alo, 27 Oct 2026. [সৌদিতে প্রবাসীদের মৃত্যুদণ্ড: ‘ভাষা বোঝেন না, আইনজীবী পান না, লাশও ফেরে না’ (Death sentences of migrants in Saudi Arabia: 'they don't understand the language, don't get a lawyer, and the body doesn't come back either')](https://www.prothomalo.com/world/middle-east/rkosffnr41). Accessed 23 Nov 2026.
+- <a id="n113"></a>N113. ILO (Thérèse Blanchet), 2021. [The invisible workers: Bangladeshi women in Oman](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@asia/@ro-bangkok/@sro-new_delhi/documents/publication/wcms_832501.pdf). Accessed 9 Nov 2026. Possibly outdated.
+- <a id="n114"></a>N114. risingbd.com, 24 May 2025. [There is no free visa in Kuwait: Ambassador Tareq Hossain (Bangla)](https://www.risingbd.com/amp/news/607768). Accessed 9 Nov 2026. Possibly outdated.
+- <a id="n115"></a>N115. Aviation Express, 1 Nov 2026. [No 'free visa' exists in Maldives, Bangladesh mission warns](https://aviationexpress.news/news/no-free-visa-exists-in-maldives-bangladesh-mission-warns). Accessed 8 Nov 2026.
+- <a id="n116"></a>N116. Dhaka Tribune, 20 Dec 2025. [Highest costs, lowest returns: Bangladeshi migrants' harsh reality](https://www.dhakatribune.com/bangladesh/399203/highest-costs-lowest-returns-bangladeshi). Accessed 7 Nov 2026.
+- <a id="n117"></a>N117. The Business Standard, 1 Mar 2025. [Bangladeshis forced to pay upto $300 extra for Kuwait work visas](https://www.tbsnews.net/bangladesh/migration/bangladeshis-forced-pay-upto-300-extra-kuwait-work-visas-1081076). Accessed 9 Nov 2026. Possibly outdated.
+- <a id="n118"></a>N118. The Business Standard, 25 Jul 2024. [70% Malaysia-bound workers, who failed to board plane, refunded: State minister](https://www.tbsnews.net/node/903371). Accessed 6 Nov 2026. Possibly outdated.
+- <a id="n119"></a>N119. Prothom Alo, 14 Oct 2024. [মালয়েশিয়ায় পৌঁছানোর কথা বলে তাঁদের ইনানী সৈকতে রেখে গেল দালাল (Promised Malaysia, brokers left them on Inani beach)](https://www.prothomalo.com/bangladesh/district/dsici6yjqw). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n120"></a>N120. Prothom Alo, 10 Apr 2025. [প্রথমে মুঠোফোনে বিয়ে, এরপর স্বামীর কাছে নিতে তোলা হয় নৌকায় (First married over the phone, then put on a boat to be taken to the husband)](https://www.prothomalo.com/bangladesh/district/f1u5h2h6mt). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n121"></a>N121. Prothom Alo, 19 Jan 2024. [অবৈধ পথে অভিবাসী হতে কেন মরিয়া রোহিঙ্গারা (Why Rohingyas are desperate to migrate by illegal routes)](https://www.prothomalo.com/bangladesh/cjff7sl6g6). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n122"></a>N122. Prothom Alo, 6 Jun 2026. [সমুদ্রপথে বিদেশযাত্রাকে না বলুন (Say no to going abroad by sea)](https://www.prothomalo.com/roundtable/jfzu8md7x9). Accessed 23 Nov 2026.
+- <a id="n123"></a>N123. Prothom Alo, 9 Oct 2024. [মৃত্যুর পথে নৌকায় যাত্রা...আধুনিক দাসত্বের এই শিকল আজও অদৃশ্য (A boat journey on the road to death... the chains of this modern slavery are still invisible)](https://www.prothomalo.com/bangladesh/x18dquugqh). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n124"></a>N124. Prothom Alo, 16 Oct 2024. [মালয়েশিয়ায় পাচারের সময় ১২ রোহিঙ্গা ও ৮ বাংলাদেশি উদ্ধার (12 Rohingya and 8 Bangladeshis rescued while being trafficked to Malaysia)](https://www.prothomalo.com/bangladesh/district/ocdltfgakf). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n125"></a>N125. Prothom Alo, 19 Apr 2026. [আন্দামান সাগরের ঢেউয়ে বিলীন মালয়েশিয়ার স্বপ্ন (Malaysia dream lost in the waves of the Andaman Sea)](https://www.prothomalo.com/bangladesh/district/qnxepse6q1). Accessed 23 Nov 2026.
+- <a id="n126"></a>N126. Prothom Alo, 7 Nov 2026. [কেউ যান কাজের আশ্বাসে, কেউ বিনা খরচে মালয়েশিয়া যাওয়ার ‘টোপে’ পড়েন (Some go on a promise of work, some fall for the 'bait' of going to Malaysia free of cost)](https://www.prothomalo.com/bangladesh/district/qcy5qlpegh). Accessed 23 Nov 2026.
+- <a id="n127"></a>N127. Prothom Alo, 29 Dec 2024. [মালয়েশিয়া পাচারের সময় নারী-শিশুসহ ৬৬ জন উদ্ধার, পাঁচজন আটক (66 people including women and children rescued while being trafficked to Malaysia, five detained)](https://www.prothomalo.com/bangladesh/district/m7ueiqvnee). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n128"></a>N128. Prothom Alo, 21 Sep 2026. [পাঁচ কিশোর-তরুণকে বেড়ানোর কথা বলে অপহরণ, আটকে রেখে চলে নির্যাতন (Five teens and young men abducted on pretext of an outing, held and tortured by traffickers (Teknaf))](https://www.prothomalo.com/bangladesh/district/6q8m91os4d). Accessed 23 Nov 2026.
+- <a id="n129"></a>N129. Prothom Alo, 23 Sep 2026. [মিয়ানমার থেকে মালয়েশিয়া যাওয়ার পথে টেকনাফ উপকূলে নৌকাডুবি, রোহিঙ্গা মা-ছেলের মৃত্যু (Boat sinks off Teknaf coast on the way from Myanmar to Malaysia; Rohingya mother and son die)](https://www.prothomalo.com/bangladesh/district/3koxs17ocl). Accessed 23 Nov 2026.
+- <a id="n130"></a>N130. The Daily Star, 31 Aug 2026. [Bangladesh and Malaysia must break the recruitment syndicate's grip (opinion)](https://www.thedailystar.net/opinion/views/news/bangladesh-and-malaysia-must-break-the-recruitment-syndicates-grip-4260541). Accessed 7 Nov 2026.
+- <a id="n131"></a>N131. Al Jazeera, 23 Jun 2023. [Malaysia charges four Thais over mass graves, trafficking camps](https://www.aljazeera.com/news/2023/6/23/malaysia-charges-four-thais-over-2015-mass-graves-refugee-camps). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n132"></a>N132. Prothom Alo, 24 Jan 2025. [টেকনাফে যেসব কারণে বেড়েছে অপহরণ (Why kidnappings have risen in Teknaf)](https://www.prothomalo.com/bangladesh/district/q0krylyhjm). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n133"></a>N133. Prothom Alo, 15 Dec 2024. [জিম্মি করে মুক্তিপণ আদায়ের চেষ্টা, উদ্ধার ৩০ রোহিঙ্গা (Attempt to extract ransom from hostages; 30 Rohingya rescued)](https://www.prothomalo.com/bangladesh/district/cqysx0qouw). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n134"></a>N134. Prothom Alo, 19 Nov 2024. [মালয়েশিয়া নেওয়ার কথা বলে আটকে রাখা হয় পাহাড়ে, ২৭ রোহিঙ্গাসহ ৩১ জনকে উদ্ধার (Promised Malaysia, held in the hills; 31 rescued including 27 Rohingya)](https://www.prothomalo.com/bangladesh/district/al6oul3l3o). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n135"></a>N135. Prothom Alo, 6 Jun 2026. [টেকনাফে নারী–শিশুসহ ৫০ জনকে উদ্ধার, গ্রেপ্তার ৯ পাচারকারী (50 including women and children rescued in Teknaf, 9 traffickers arrested)](https://www.prothomalo.com/bangladesh/district/swg4s028sr). Accessed 23 Nov 2026.
+- <a id="n136"></a>N136. Malay Mail, 30 Jun 2026. [Home Ministry: Deaths in immigration detention depots total 465 from 2021 to 2025](https://www.malaymail.com/news/malaysia/2026/06/30/home-ministry-deaths-in-immigration-detention-depots-total-465-from-2021-to-2025/225725). Accessed 6 Nov 2026.
+- <a id="n137"></a>N137. Migrant Times, 14 Sep 2025. [Migrant Repatriation Programme 2.0 to be Implemented until April 2026](https://migrantimes.com/labour-policy/14-09-2025/migrant-repatriation-programme-20-to-be-implemented-until-april-2026). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n138"></a>N138. The Star, 6 Feb 2026. [155,000 migrants join repatriation programme, over 138,000 already sent home](https://www.thestar.com.my/news/nation/2026/02/06/155000-migrants-join-repatriation-programme-over-138000-already-sent-home). Accessed 6 Nov 2026.
+- <a id="n139"></a>N139. Prothom Alo, 30 May 2024. [ছোট ভাইকে বড় ভাই সাজিয়ে জামিন, প্রকৃত আসামি খোঁজার নির্দেশ আদালতের (Younger brother posed as elder brother to get bail; court orders search for the real accused)](https://www.prothomalo.com/bangladesh/district/b5we58ijlb). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n140"></a>N140. Prothom Alo, 9 Jan 2024. [অবৈধ পথে বিদেশে যাওয়ার চেষ্টা করলেই অভিবাসন আইনে মামলা (Case under migration law for anyone who tries to go abroad illegally)](https://www.prothomalo.com/bangladesh/h266e6ex55). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n141"></a>N141. Prothom Alo, 21 Jan 2025. [সাগরপথে মালয়েশিয়া পাচারের চেষ্টা, ২ বাংলাদেশি ও ১৭ রোহিঙ্গা উদ্ধার (Attempt to traffic to Malaysia by sea; 2 Bangladeshis and 17 Rohingya rescued)](https://www.prothomalo.com/bangladesh/district/wxysg2p3im). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n142"></a>N142. Prothom Alo, 26 Jan 2025. [টেকনাফে পাচারকারীদের আস্তানা থেকে ১৭ জন উদ্ধার, আটক ১ (17 rescued from traffickers' hideout in Teknaf, one held)](https://www.prothomalo.com/bangladesh/district/bj2pun5ooo). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n143"></a>N143. Prothom Alo, 17 Apr 2026. [রোহিঙ্গাদের সমুদ্রযাত্রায় ২০২৫ ছিল সবচেয়ে প্রাণঘাতী: ইউএনএইচসিআর (2025 was the deadliest year for Rohingya sea journeys: UNHCR)](https://www.prothomalo.com/bangladesh/ggm252p3ml). Accessed 23 Nov 2026.
+- <a id="n144"></a>N144. Prothom Alo, 31 Mar 2026. [সাগরপথে মালয়েশিয়া পাচারের চেষ্টার সময় ৭ জন উদ্ধার (Seven rescued during attempt to traffic them to Malaysia by sea)](https://www.prothomalo.com/bangladesh/district/90ccckq559). Accessed 23 Nov 2026.
+- <a id="n145"></a>N145. Prothom Alo, 2 Oct 2026. [অবৈধভাবে মালয়েশিয়া যাওয়ার সময় ডুবছিল নৌযান, উদ্ধার করল নৌবাহিনীর জাহাজ, আটক ১১ (Boat sinking on illegal voyage to Malaysia; Navy ship rescues passengers, 11 detained)](https://www.prothomalo.com/bangladesh/district/uelbeyjjha). Accessed 23 Nov 2026.
+- <a id="n146"></a>N146. Prothom Alo, 8 Nov 2026. [ভালো বেতনে চাকরি আর উপযুক্ত পাত্রে বিয়ের আশ্বাস, পড়েন পাচারকারীদের ফাঁদে (Promise of well-paid jobs and marriage to suitable grooms: how they fell into traffickers' trap)](https://www.prothomalo.com/bangladesh/district/hx5vea7e8k). Accessed 23 Nov 2026.
+- <a id="n147"></a>N147. Prothom Alo, 21 Nov 2026. [কথা ছিল মালয়েশিয়া নেওয়ার, চার দিন সাগরে ঘুরিয়ে কক্সবাজার সৈকতে নামিয়ে পালায় দালাল চক্র (Promised Malaysia, taken around the sea for four days, then dumped on Cox's Bazar beach by a broker ring that fled)](https://www.prothomalo.com/bangladesh/district/z3zoygd0yl). Accessed 23 Nov 2026.
+- <a id="n148"></a>N148. Prothom Alo, 8 Mar 2025. [কড়াকড়ির মধ্যেও বাংলাদেশ-ভারত সীমান্তে থেমে নেই নারী পাচার (Trafficking of women across the Bangladesh-India border continues despite tighter controls)](https://www.prothomalo.com/bangladesh/hz2id2brxc). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n149"></a>N149. Prothom Alo, 11 Jan 2024. [মানব পাচারের ৩১৬ মামলার সব আসামি খালাস (All accused acquitted in 316 human trafficking cases)](https://www.prothomalo.com/bangladesh/crime/ew8x50bnu3). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n150"></a>N150. bdnews24.com (Bangla), 25 Sep 2026. [Victim of Cambodia-based trafficking and cyber scam ring (Sonargaon)](https://bangla.bdnews24.com/bangladesh/2dj7xv9m8c). Accessed 11 Nov 2026.
+- <a id="n151"></a>N151. Dhaka Tribune, 19 Mar 2025. [18 Bangladeshis return home from Myanmar scam centre](https://www.dhakatribune.com/amp/bangladesh/376681/18-bangladeshis-return-home-from-myanmar-scam). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n152"></a>N152. bdnews24.com, 25 Sep 2026. [From trafficking victims to scam hubs: Is Bangladesh becoming a base for international cybercrime rings?](https://bdnews24.com/special/w7mm1u2zjx). Accessed 11 Nov 2026.
+- <a id="n153"></a>N153. Prothom Alo, 23 Jul 2026. [প্রযুক্তিনির্ভর মানব পাচার প্রতিরোধে দরকার সমন্বিত উদ্যোগ (Coordinated action needed to prevent technology-driven human trafficking (roundtable report))](https://www.prothomalo.com/roundtable/bdrsdvzb1x). Accessed 23 Nov 2026.
+- <a id="n154"></a>N154. Prothom Alo, 27 Oct 2026. [ভালো চাকরির আশায় কম্বোডিয়ায়, পাসপোর্ট কেড়ে নিয়ে ৫ হাজার ডলারে ‘বিক্রি’ (Went to Cambodia hoping for a good job; passport seized and 'sold' for USD 5,000)](https://www.prothomalo.com/bangladesh/iye9i6gtlx). Accessed 23 Nov 2026.
+- <a id="n155"></a>N155. The Business Standard, 1 Jul 2026. [109 more Bangladeshis return from Cambodia cyber scam compounds](https://www.tbsnews.net/node/1476716). Accessed 11 Nov 2026.
+- <a id="n156"></a>N156. Prothom Alo, 12 Jun 2026. [37 Bangladeshis rescued from cyber scam compounds in Cambodia return home](https://en.prothomalo.com/bangladesh/64ert0iw04). Accessed 11 Nov 2026.
+- <a id="n157"></a>N157. US Department of State (via ecoi.net), 29 Sep 2025. [2025 Trafficking in Persons Report: Cambodia](https://www.ecoi.net/en/document/2130534.html). Accessed 11 Nov 2026. Possibly outdated.
+- <a id="n158"></a>N158. UNODC, Sep 2026. [Trafficked to Scam: South Asian responses to trafficking in persons for the purpose of forced criminality in scam operations](https://www.unodc.org/documents/human-trafficking/2026/Publications/UNODC_Trafficked_to_Scam.pdf). Accessed 11 Nov 2026.
+- <a id="n159"></a>N159. Bangladesh Monitor. [Bangladesh Embassy in Bangkok facilitates repatriation of trafficking victims](https://bangladeshmonitor.com.bd/en/bangladesh-embassy-in-bangkok-facilitates-repatriation-of-trafficking-victi). Accessed 19 Nov 2026. Undated: possibly outdated.
+- <a id="n160"></a>N160. Prothom Alo, 21 Oct 2026. [মিয়ানমারের স্ক্যাম সেন্টার থেকে পালিয়ে আসা ৩ বাংলাদেশি দেশে ফিরছেন (3 Bangladeshis who escaped a Myanmar scam centre are returning home)](https://www.prothomalo.com/bangladesh/tlb4veze25). Accessed 23 Nov 2026.
+- <a id="n161"></a>N161. Dhaka Tribune, 27 Oct 2026. [Two held for trafficking Bangladeshi youths to Cambodia, forcing them into online scams](https://www.dhakatribune.com/bangladesh/crime/423074/two-held-for-trafficking-bangladeshi-youths-to). Accessed 11 Nov 2026.
+- <a id="n162"></a>N162. bdnews24.com, 15 Sep 2026. [Families seek answers for 32 Bangladeshis caught in Cambodia's scam centre web](https://bdnews24.com/bangladesh/5ed382b3665b). Accessed 11 Nov 2026.
+- <a id="n163"></a>N163. Prothom Alo, 19 Oct 2026. [কম্বোডিয়ার ডিটেনশন সেন্টার থেকে উদ্ধার ৩০ বাংলাদেশি দেশে ফিরছেন কাল মঙ্গলবার (30 Bangladeshis rescued from Cambodian detention centre return home Tuesday)](https://www.prothomalo.com/bangladesh/68ooqvddx5). Accessed 23 Nov 2026.
+- <a id="n164"></a>N164. Prothom Alo, 20 Oct 2026. [কম্বোডিয়ার স্ক্যাম সেন্টার থেকে পালিয়ে আটকে থাকা ৩০ বাংলাদেশি দেশে ফিরেছেন (30 Bangladeshis who fled Cambodian scam centres and were detained have returned home)](https://www.prothomalo.com/bangladesh/9ayaznajlx). Accessed 23 Nov 2026.
+- <a id="n165"></a>N165. The Business Standard, 11 Jul 2026. [Scams, smuggling, battlefields: How flawed vetting sent our workers into harm's way](https://www.tbsnews.net/bangladesh/migration/scams-smuggling-battlefields-how-flawed-vetting-sent-our-workers-harms-way). Accessed 11 Nov 2026.
+- <a id="n166"></a>N166. bdnews24.com (Bangla), 9 Oct 2026. [More than 41,000 Bangladeshis went to the 10 countries at highest human-trafficking risk](https://bangla.bdnews24.com/bangladesh/9svn2btmd0). Accessed 11 Nov 2026.
+- <a id="n167"></a>N167. Prothom Alo, 17 Sep 2026. [বাংলাদেশিদের জন্য নতুন ওয়ার্ক পারমিট ও শ্রম ভিসা বন্ধ করল লাওস (Laos stops new work permits and labour visas for Bangladeshis)](https://www.prothomalo.com/bangladesh/w09dlzqsxe). Accessed 23 Nov 2026.
+- <a id="n168"></a>N168. Dhaka Tribune, 28 Jul 2026. [IOM assists over 3,500 victims trafficked into online scam operations since 2022](https://www.dhakatribune.com/amp/bangladesh/416214/iom-assists-over-3-500-victims-trafficked-into). Accessed 11 Nov 2026.
+- <a id="n169"></a>N169. Freedom Collaborative, 19 Aug 2026. [How sustained advocacy helped deliver a CSO-drafted trafficking law in Bangladesh](https://newsletter.freedomcollaborative.org/how-sustained-advocacy-helped-deliver-a-cso-drafted-trafficking-law-in-bangladesh/). Accessed 19 Nov 2026.
+- <a id="n170"></a>N170. Andersen Cambodia, 23 Apr 2026. [Cambodia Strengthens Legal Framework to Combat Online Scams](https://kh.andersen.com/?p=1133). Accessed 11 Nov 2026.
+- <a id="n171"></a>N171. US Department of State, 26 Oct 2026. [2026 Trafficking in Persons Report: Cambodia](https://www.state.gov/reports/2026-trafficking-in-persons-report/cambodia/). Accessed 11 Nov 2026.
+- <a id="n172"></a>N172. bdnews24.com (Bangla), 5 Oct 2026. [লাওসের শ্রমবাজার বন্ধ: বাংলাদেশি কর্মীদের না যাওয়ার পরামর্শ মন্ত্রণালয়ের](https://bangla.bdnews24.com/bangladesh/e3lxsrfq4t). Accessed 11 Nov 2026.
+- <a id="n173"></a>N173. bdnews24.com (Bangla), 17 Oct 2026. [Cambodia immigration detention: 30 Bangladeshi workers released](https://bangla.bdnews24.com/bangladesh/hpstke5jlj). Accessed 11 Nov 2026.
+- <a id="n174"></a>N174. Jugantor, 6 May 2023. [Suranjit finally returns home from Kyrgyzstan](https://www.jugantor.com/country-news/671767). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n175"></a>N175. Kazinform, 28 Nov 2024. [Shest narushiteley granitsy deportirovany iz Kazakhstana na pyat let (Six border violators expelled from Kazakhstan for five years)](https://www.inform.kz/ru/shest-narushiteley-granitsi-deportirovani-iz-kazahstana-na-pyat-let-118bec). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n176"></a>N176. RFE/RL, 21 May 2024. [Mass labor migration to Kyrgyzstan and fear of migrant workers (Bishkek unrest, May 2024)](https://www.rferl.org/a/mass-labor-kyrgyzstan-migrant-worker-fear/32957992.html). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n177"></a>N177. Economist.kg, 29 Apr 2025. [V Kyrgyzstane ustanovleny novye shtrafy za migratsionnye narusheniya: spisok (New fines for migration violations: list)](https://economist.kg/novosti/2025/04/29/v-kyrghyzstanie-ustanovlieny-novyie-shtrafy-za-mighratsionnyie-narushieniia-spisok/). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n178"></a>N178. Bangla Tribune, 8 Sep 2025. [কিরগিজস্তান থেকে ফেরত আসবে ১৮০ বাংলাদেশি](https://www.banglatribune.com/national/914520/%E0%A6%95%E0%A6%BF%E0%A6%B0%E0%A6%97%E0%A6%BF%E0%A6%9C%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%B0%E0%A6%A4-%E0%A6%86%E0%A6%B8%E0%A6%AC%E0%A7%87-%E0%A7%A7%E0%A7%AE%E0%A7%A6-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n179"></a>N179. Zakon.kg (reproduces the Ministry of Justice legal database), 21 May 2026. [Закон Кыргызской Республики «О внешней миграции» (редакция от 21.05.2026)](https://zakon.kg/law/o-vneshney-migracii/). Accessed 10 Nov 2026.
+- <a id="n180"></a>N180. Current Time (RFE/RL), 21 May 2025. [V Kyrgyzstane obyavili reydy protiv migrantov, narushivshikh rezhim prebyvaniya (Kyrgyzstan announces raids on migrants breaking stay rules)](https://www.currenttime.tv/a/33420406.html). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n181"></a>N181. 24.kg, 24 Nov 2023. [V Kazakhstane zaderzhany organizatory kanala nezakonnoy migratsii iz Kyrgyzstana (Organisers of an illegal migration channel from Kyrgyzstan detained in Kazakhstan)](https://24.kg/proisshestvija/280596_vkazahstane_zaderjanyi_organizatoryi_kanala_nezakonnoy_migratsii_izkyirgyizstana/). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n182"></a>N182. Prothom Alo, 19 May 2024. [বাংলাদেশিদের দেখভালে উজবেকিস্তান থেকে রাষ্ট্রদূত যাচ্ছেন বিশকেকে](https://www.prothomalo.com/bangladesh/1irto725j8). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n183"></a>N183. The Financial Express (Bangladesh), 19 May 2024. [Bangladeshis among S Asian students facing night of horrors in Kyrgyz capital](https://today.thefinancialexpress.com.bd/print/bangladeshis-among-s-asian-students-facing-night-of-horrors-in-kyrgyz-capital-1716051978). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n184"></a>N184. The Business Standard (Bangla), 10 Sep 2025. [180 Bangladeshis defrauded in Kyrgyzstan return home (Bangla)](https://www.tbsnews.net/bangla/bangladesh/news-details-388016). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n185"></a>N185. RFE/RL, 10 Nov 2026. [Promised Jobs In Russia, Bangladeshis Instead Find War, And Death, In Ukraine](https://www.rferl.org/a/bangladeshis-fighting-for-russia-ukraine/33893744.html). Accessed 19 Nov 2026.
+- <a id="n186"></a>N186. Prothom Alo, 5 Nov 2025. [বাংলাদেশি তাঁরা, রাশিয়ায় গিয়েছিলেন চাকরির জন্য, করতে হচ্ছে যুদ্ধ (They are Bangladeshis who went to Russia for jobs and are being made to fight)](https://www.prothomalo.com/bangladesh/esf4ye8f0f). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n187"></a>N187. Prothom Alo, 4 Feb 2026. [প্রতারক চক্র ও পাচারকারীদের থামাতেই হবে (Fraud rings and traffickers must be stopped (editorial))](https://www.prothomalo.com/opinion/editorial/r3h6cuuhzv). Accessed 23 Nov 2026.
+- <a id="n188"></a>N188. Prothom Alo, 28 Oct 2026. [রাশিয়ায় যুদ্ধে জোর করে বাংলাদেশিদের নেওয়ার প্রমাণ পেয়েছে জাতিসংঘ, জড়িত দালালেরা (UN finds evidence Bangladeshis were forced into Russia's war; brokers involved)](https://www.prothomalo.com/bangladesh/ahew55qr5w). Accessed 23 Nov 2026.
+- <a id="n189"></a>N189. Prothom Alo, 21 Oct 2026. [‘দুনিয়ায় দেখা না হলে দেখা হবে হাশরের মাঠে’, রাশিয়ায় নিহত বাংলাদেশিদের লাশও দেশে আসে না ('If we don't meet in this world, we'll meet on Judgment Day': bodies of Bangladeshis killed in Russia never come home)](https://www.prothomalo.com/bangladesh/mkf2is07uv). Accessed 22 Nov 2026.
+- <a id="n190"></a>N190. Prothom Alo, 6 Feb 2025. [১০ বাংলাদেশিকে সৌদি হয়ে রাশিয়ায় নিয়ে গিয়ে সুলতানের কাছে বিক্রি (10 Bangladeshis taken to Russia via Saudi Arabia and sold to a 'Sultan')](https://www.prothomalo.com/bangladesh/1anivwwzmd). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n191"></a>N191. Prothom Alo, 13 Jun 2025. [চাকরির নামে ইউক্রেন যুদ্ধে পাঠানো চক্রের হোতা গ্রেপ্তার (Ringleader of gang that sent people to the Ukraine war in the name of jobs arrested)](https://www.prothomalo.com/bangladesh/crime/263s72up7l). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n192"></a>N192. Prothom Alo, 17 Feb 2025. [এক ছেলে রাশিয়ার যুদ্ধক্ষেত্রে, আরেক ছেলে মালয়েশিয়ার কারাগারে, দিশাহারা মা–বাবা (One son on Russia's battlefield, another in a Malaysian jail; parents at a loss)](https://www.prothomalo.com/bangladesh/district/fzo99nqqod). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n193"></a>N193. Prothom Alo, 21 Oct 2026. [পরিবারটির শেষ আশা, পবিত্র বেঁচেও থাকতে পারেন (The family's last hope: Pabitra may still be alive)](https://www.prothomalo.com/bangladesh/ffvl7gocjq). Accessed 23 Nov 2026.
+- <a id="n194"></a>N194. Prothom Alo, 29 Jun 2026. [কোম্পানির চাকরির প্রলোভনে রাশিয়াযাত্রা, যুদ্ধক্ষেত্রে আহত হয়ে দেশে ফেরার আকুতি (Went to Russia lured by a company job; wounded on the battlefield, pleads to be brought home)](https://www.prothomalo.com/bangladesh/district/u7ylw4fl2c). Accessed 22 Nov 2026.
+- <a id="n195"></a>N195. Kaler Kantho, 1 Jun 2026. [Three recruiting agencies' licences cancelled, deposits forfeited (Bangla)](https://www.kalerkantho.com/online/national/2026/06/01/1691666). Accessed 7 Nov 2026.
+- <a id="n196"></a>N196. Prothom Alo (op-ed, Aftab Hossain), 19 Sep 2026. [How Malaysia's student dream can become a Bangladeshi nightmare](https://en.prothomalo.com/opinion/op-ed/8y9qrb55mz). Accessed 6 Nov 2026.
+- <a id="n197"></a>N197. Jordan News, 9 Jul 2026. [1,600 International Students Apply to Jordanian Universities in One Month](https://www.jordannews.jo/Section-109/News/1-600-International-Students-Apply-to-Jordanian-Universities-in-One-Month-52901). Accessed 9 Nov 2026.
+- <a id="n198"></a>N198. Prothom Alo, 19 Apr 2026. [সমুদ্রপথে বিদেশযাত্রা নয় (No going abroad by sea)](https://www.prothomalo.com/roundtable/fmga0lyk2r). Accessed 23 Nov 2026.
+- <a id="n199"></a>N199. Prothom Alo, 21 Sep 2026. [অস্ট্রেলিয়ায় থাকার সুযোগ সংকুচিত: বাংলাদেশিদের এখন কী করা উচিত? (Chances to stay in Australia are narrowing: what should Bangladeshis do now?)](https://www.prothomalo.com/opinion/column/0gfakm7ivg). Accessed 23 Nov 2026.
+- <a id="n200"></a>N200. Dhaka Post, 17 Oct 2026. [Passport aatke rekhe otirikto taka dabir obhijog (Malaysia higher education)](https://www.dhakapost.com/education/491191). Accessed 7 Nov 2026.
+- <a id="n201"></a>N201. Jordan News, 16 Mar 2025. [Labor Ministry: Immediate Deportation for Any Non-Jordanian Student Found Working](https://www.jordannews.jo/Section-109/News/Labor-Ministry-Immediate-Deportation-for-Any-Non-Jordanian-Student-Found-Working-40351). Accessed 9 Nov 2026. Possibly outdated.
+- <a id="n202"></a>N202. Prothom Alo, 22 Jun 2026. [বাসে বাগ্‌বিতণ্ডা থেকে সাইপ্রাসে বাংলাদেশি শিক্ষার্থীকে খুন, পরে অপহরণের নাটক সাজান অভিযুক্ত ব্যক্তি (Bangladeshi student killed in Cyprus after an argument on a bus; accused then staged a kidnapping)](https://www.prothomalo.com/world/europe/z8kdhnft2y). Accessed 23 Nov 2026.
+- <a id="n203"></a>N203. Prothom Alo, 22 Feb 2024. [জাল ভিসায় ইউরোপে মানুষ পাঠানোর অভিযোগে শাহজালাল থেকে পাঁচজন গ্রেপ্তার (Five arrested at Shahjalal airport over sending people to Europe on fake visas)](https://www.prothomalo.com/bangladesh/crime/07ulftl4xt). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n204"></a>N204. Bonik Barta (English), 2026. [Turned back at the gate: how visa fraud and gaps strand thousands at Bangladesh airports](https://en.bonikbarta.com/bangladesh/Eppl3NB0OEkJadsj). Accessed 10 Nov 2026.
+- <a id="n205"></a>N205. Prothom Alo, 21 Jul 2026. [Woman learns at airport another woman went to Italy on her visa](https://www.prothomalo.com/bangladesh/crime/iow8s0pq09). Accessed 10 Nov 2026.
+- <a id="n206"></a>N206. The Business Standard, 17 Aug 2026. [Police arrest 4 over forged clearance certificates in Ctg](https://www.tbsnews.net/bangladesh/police-arrest-4-over-forged-clearance-certificates-ctg-1517056). Accessed 7 Nov 2026.
+- <a id="n207"></a>N207. The Business Standard, 9 Jul 2025. [False promises abroad, no justice at home: New study sheds light on migrants' perils](https://www.tbsnews.net/bangladesh/migration/false-promises-abroad-no-justice-home-new-study-sheds-light-migrants-perils). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n208"></a>N208. Prothom Alo, 17 Aug 2026. [লাখ টাকায় ‘পুলিশ ক্লিয়ারেন্স’, জালিয়াত চক্রের চারজন যেভাবে ধরা পড়লেন ('Police clearance' for a lakh taka: how four members of a forgery ring were caught)](https://www.prothomalo.com/bangladesh/district/xs61r78phk). Accessed 23 Nov 2026.
+- <a id="n209"></a>N209. BBC Bangla, 1 Nov 2020. [How girls are sent to Saudi Arabia as domestic workers with inflated ages (Bangla)](https://www.bbc.com/bengali/news-54771611). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n210"></a>N210. Prothom Alo, 13 May 2025. [দালালদের টাকা দিলে কাজ দ্রুত হয়, অন্যথায় ভোগান্তি (Pay the brokers and the work is fast, otherwise hardship)](https://www.prothomalo.com/bangladesh/district/emv8bizs8d). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n211"></a>N211. Prothom Alo, 31 Oct 2025. [খেলার নামে মানব পাচার ঠেকাতে তৎপর জাতীয় ক্রীড়া পরিষদ (National Sports Council moves to stop human trafficking in the name of sport)](https://www.prothomalo.com/sports/other-sports/anrgmm7diz). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n212"></a>N212. Bangladesh Monitor, 30 Mar 2026. [Italian Embassy warns against fake documents in visa applications](https://bangladeshmonitor.com.bd/en/italian-embassy-warns-against-fake-documents-in-visa-applications). Accessed 10 Nov 2026.
+- <a id="n213"></a>N213. CNA (Channel NewsAsia), 27 Jul 2021. [Work pass holders get jail for submitting false degree qualifications](https://www.channelnewsasia.com/singapore/work-pass-holders-get-jail-submitting-false-degree-qualifications-5640176). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n214"></a>N214. Prothom Alo, 7 Oct 2026. [‘সমকামী সাজিয়ে’ বাংলাদেশিদের আশ্রয় আবেদন, যুক্তরাজ্যে গ্রেপ্তার ৩ (Asylum claims posing Bangladeshis as gay: three arrested in the UK)](https://www.prothomalo.com/bangladesh/bm9shmfh2z). Accessed 23 Nov 2026.
+- <a id="n215"></a>N215. BSS (Bangladesh Sangbad Sangstha), 27 Nov 2025. [Draft of human trafficking prevention ordinance gets final approval](https://www.bssnews.net/news-flash/336446). Accessed 19 Nov 2026.
+- <a id="n216"></a>N216. Daily Observer, 11 Jun 2026. [Workshop on Prevention and Suppression of Human Trafficking and Smuggling of Migrants Act, 2026](https://observerbd.com/news/576459). Accessed 19 Nov 2026.
+- <a id="n217"></a>N217. Prothom Alo, 7 Jul 2025. [বিদেশগামী শ্রমিকদের কী প্রস্তুতি দরকার (What preparation do workers going abroad need)](https://www.prothomalo.com/business/personal-finance/l50atzjlyx). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n218"></a>N218. Prothom Alo, 20 Jul 2026. [আওয়ামী লীগের সাবেক এমপিদের ৫টিসহ ৪৯টি রিক্রুটিং এজেন্সির লাইসেন্স বাতিল (Licences of 49 recruiting agencies cancelled, including 5 owned by former Awami League MPs)](https://www.prothomalo.com/bangladesh/mh46v1hlt4). Accessed 23 Nov 2026.
+- <a id="n219"></a>N219. Prothom Alo, 13 Jan 2024. [বিদেশে সর্বোচ্চ কর্মসংস্থানের মধ্যেও কমেছে নারী কর্মীর সংখ্যা (Number of women workers falls even amid record overseas employment)](https://www.prothomalo.com/bangladesh/zjz9a463x7). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n220"></a>N220. Prothom Alo, 30 Apr 2026. [কুমিল্লা অঞ্চলে জনশক্তি রপ্তানির সম্ভাবনা, চ্যালেঞ্জ ও করণীয় (Manpower export from the Cumilla region: prospects, challenges and what to do (roundtable))](https://www.prothomalo.com/roundtable/26yewxj5zy). Accessed 23 Nov 2026.
+- <a id="n221"></a>N221. Prothom Alo, 6 Jun 2026. [নারী অভিবাসী শ্রমিকদের অধিকার ও নিরাপদ অভিবাসন (Rights of women migrant workers and safe migration)](https://www.prothomalo.com/roundtable/tzmfgiek8l). Accessed 23 Nov 2026.
+- <a id="n222"></a>N222. Prothom Alo, 30 Mar 2025. [ভাগ্য ফেরাতে বিদেশ গিয়ে ফিরছেন আরও নিঃস্ব হয়ে (Went abroad to change their fortune, returning even poorer)](https://www.prothomalo.com/bangladesh/4qsrpilh2s). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n223"></a>N223. Prothom Alo, 24 Jun 2024. [মানব পাচার রোধে কাজ করে যুক্তরাষ্ট্রের ‘টিআইপি হিরো’ পুরস্কার পেলেন আল-আমিন (Al-Amin receives US 'TIP Hero' award for work against human trafficking)](https://www.prothomalo.com/bangladesh/k2pu2vlrit). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n224"></a>N224. IOM and BRAC (PROTTASHA project). [Assistance for Migrants Returning to Bangladesh (leaflet)](https://migrantprotection.iom.int/sites/g/files/tmzbdl341/files/prottasha-leaflet.pdf). Accessed 7 Nov 2026. Undated: possibly outdated.
