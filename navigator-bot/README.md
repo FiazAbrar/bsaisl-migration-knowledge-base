@@ -1,70 +1,118 @@
 # Navigator bot
 
 WhatsApp, Telegram and web chat bot that answers questions about working abroad from the BSAISL knowledge base.
-Built on the structure of [daveebbelaar/python-whatsapp-bot](https://github.com/daveebbelaar/python-whatsapp-bot) (MIT, see LICENCE.txt).
+One TypeScript app on [Chat SDK](https://chat-sdk.dev) (the channels) and the [AI SDK](https://ai-sdk.dev)
+(the AI step, through OpenRouter), shipped as one Docker container plus a settings file.
 
-## Run
+## Run on a PC
 
-1. Fill in `.env` (Meta setup: [docs/SETUP-META.md](docs/SETUP-META.md)).
-2. Double-click `start.bat`, or run `.\start.ps1` in PowerShell.
-   It creates the Python environment on first run, builds the knowledge-base index if missing,
-   opens the ngrok tunnel and starts the bot on port 8000.
-3. Check `https://<PUBLIC_DOMAIN>/health`: it shows when the index was built.
+Needs Node 26 (`winget install OpenJS.NodeJS.LTS`) and, for WhatsApp and Telegram, ngrok.
+
+1. `npm ci` once, then copy `.env.example` to `.env` and fill it in (Meta setup: [docs/SETUP-META.md](docs/SETUP-META.md)).
+2. Double-click `start.bat`, or run `.\start.ps1` in PowerShell. It builds the web page if needed, opens the
+   ngrok tunnel to `PUBLIC_DOMAIN`, and starts the bot on port 8000.
+3. Check `http://localhost:8000/health`. Without ngrok, `npm run dev` runs the bot alone (web chat at
+   http://localhost:8000/, reloads on code changes).
+
+The bot reads the guides from the repository it sits in and keeps its memory in an embedded database
+(`data/pglite`). Nothing to install besides Node.
+
+## Commands
+
+| Command | What it does |
+|---|---|
+| `npm run dev` | Run the bot locally, reloading on changes (reads `.env`) |
+| `npm start` | Run the bot (servers and Docker; settings come from the environment) |
+| `npm run check` | Lint (Biome), type-check (tsc) and test (Vitest): what CI runs |
+| `npm run build:web` | Build the web chat page into `web/dist` (`npm run dev:web` for live editing) |
+| `npm run kb:index` | Read every guide and print its section count |
+| `npm run kb:check -- --base origin/main` | The pull-request check: would the bot refuse this version of the guides? |
+| `npm run eval` | Evaluation questions: search hit rate, or with an AI key, graded answers per model |
+| `npm run db:generate` | After changing `src/db/schema.ts`: write the migration (applied at start-up) |
+
+## How a message is answered
+
+Every channel goes through the same steps (`src/conversation/pipeline.ts`):
+
+1. Not text (voice, photo) → "please send text" in Bangla and English.
+2. Commands: `reset`, `delete my data` (also in Bangla, and `/start`, `/reset`, `/delete` on Telegram).
+3. Messages over 500 characters are refused; then the abuse limits (`src/guard/guard.ts`).
+4. Phone, NID, passport and card numbers are removed before anything is stored or sent to the AI.
+5. The guide is the country named in the message, or the one chosen earlier.
+6. The answer: with `OPENROUTER_API_KEY` set, the AI searches and reads the guides and answers following
+   `prompts/system.md`; without it, test mode lists the closest guide sections.
+7. A new person's first reply ends with the privacy notice (using the bot means agreeing to it).
+
+Fixed texts (welcome, refusals, errors) are in English and Bangla (`src/conversation/i18n.ts`): Bangla script
+gets Bangla, anything else English. AI answers follow the person's language and script.
+
+**Memory**, the way Claude Code manages its own context (`src/conversation/context.ts`, `src/ai/memory.ts`):
+the AI sees a short profile card about the person, a running summary of older messages, and as many recent
+messages as fit `CONTEXT_TOKEN_BUDGET`. After each reply, a small model updates the profile card and folds
+messages that no longer fit into the summary. Guide text is never kept in the history; it is searched fresh
+for every question. Retention: messages 90 days, the person (profile, summary, chosen guide) 12 months after
+their last message, checked daily. "delete my data" removes everything at once. See `docs/PRIVACY.md`
+(also served at `/privacy`).
+
+**Reliability.** Each message is written to an inbox before it is answered and removed once the reply is
+sent; after a restart, anything left from the last hour is answered. Meta's repeat deliveries are ignored
+for 7 days. Messages sent while one is being answered are answered together.
+
+## The AI step
+
+Set `OPENROUTER_API_KEY` and `LLM_MODEL` (an OpenRouter model id). The model works with read-only tools only
+(`search_guides`, `list_guide_sections`, `read_section`), never the web. Safeguards in code:
+
+- **Number check:** every amount, phone number and year in an answer must appear in the guide text the AI
+  read for it; otherwise it is asked once to correct or remove them (`src/ai/numbers.ts`).
+- At most 8 tool steps, `LLM_MAX_OUTPUT_TOKENS`, a timeout (`LLM_TIMEOUT_MS`), and `LLM_FALLBACK_MODEL` if the
+  main model fails.
+- Only OpenRouter providers that don't keep data (`data_collection: deny`).
+- Each reply's cost (reported by OpenRouter) counts against the channel's daily budget. Also set a credit limit
+  on the OpenRouter key itself.
+
+**Comparing models:** set `EVAL_MODELS=model-a,model-b` and run `npm run eval`: each model answers every
+question in `evals/questions.csv` and a judge model grades it against `must_include` and `must_not`. Results go
+to `evals/results/` (not committed). Every run costs money; the summary prints the total.
 
 ## Telegram
-
-The same app also answers on Telegram, from the same index and the same reply logic (`app/answer.py`).
-Only the channel layer differs: `app/telegram_views.py` (route `/telegram`) and `app/utils/telegram_utils.py`.
 
 ### Create the bot (once, about 2 minutes)
 
 1. In Telegram, open a chat with **@BotFather** (the official one has a blue tick) and send `/newbot`.
 2. **Name** (shown in chats, can be changed later): e.g. `Migration Navigator`.
-3. **Username** (permanent, must end in `bot`, must be free): e.g. `bsaisl_navigator_bot`. If taken, try another.
-4. BotFather replies with a token like `123456789:AA...`. That token is the bot's password:
-   paste it into `navigator-bot/.env` after `TELEGRAM_BOT_TOKEN=` and nowhere else (never in chat, git or screenshots).
-   If it leaks, send `/revoke` to @BotFather, choose the bot, and paste the new token.
-5. Optional, in @BotFather: `/setdescription` (text shown before a user presses Start) and `/setuserpic`.
+3. **Username** (permanent, must end in `bot`): e.g. `bsaisl_navigator_bot`.
+4. BotFather replies with a token like `123456789:AA...`. Paste it into `.env` after `TELEGRAM_BOT_TOKEN=`
+   and nowhere else (never in chat, git or screenshots). If it leaks, send `/revoke` to @BotFather.
+5. Optional: `/setdescription` and `/setuserpic`.
 
-### Run it
+As it starts, the bot points Telegram at `https://<PUBLIC_DOMAIN>/telegram` (skipped when already set) and adds
+the `/start`, `/reset` and `/delete` menu in English and Bangla. Then open `t.me/<username>` and press **Start**.
 
-Restart with `start.bat` / `.\start.ps1`. As it starts, the bot tells Telegram to send messages to
-`https://<PUBLIC_DOMAIN>/telegram` (skipped when already set) and adds the `/start`, `/reset` and `/delete` menu.
-To register by hand instead: `.venv\Scripts\python.exe -m app.utils.telegram_utils`.
-Then open `t.me/<username>` and press **Start**.
-
-- Telegram signs each delivery with a secret derived from the token (`X-Telegram-Bot-Api-Secret-Token`); anything else gets 403.
-- Telegram user ids are stored only as keyed hashes, like WhatsApp numbers, and share the 30-day memory and "delete my data".
-- Only private chats are answered; group messages are ignored.
-- One token has one webhook address: whichever copy of the bot started last (your laptop or the cloud) gets the Telegram messages.
-  Use a second test bot (its own token) on your laptop if the cloud copy must keep running.
-- Leave `TELEGRAM_BOT_TOKEN` empty to run WhatsApp only.
+- Telegram signs each delivery with a secret derived from the token; anything else is refused.
+- Only private chats are answered; groups are ignored.
+- One token has one webhook address: whichever copy of the bot started last (a PC or the cloud) gets the
+  messages. Use a second test bot on a PC if the cloud copy must keep running.
 
 ## Web chat
 
-The same app also serves a chat page at `https://<PUBLIC_DOMAIN>/`, with no login, for people who use
-neither WhatsApp nor Telegram (it also opens from links shared in imo or Facebook). It uses the same index,
-reply logic, memory and limits. Code: `app/web_views.py` (routes) and `app/static/web/` (the page: plain
-HTML, CSS and JavaScript, no framework, no build step).
+A chat page at `https://<PUBLIC_DOMAIN>/` with no login, for people who use neither WhatsApp nor Telegram.
+The page (`web/`) is plain TypeScript, no framework, about 10 KB of script, built with Vite. Replies stream in
+over the AI SDK's message stream protocol (`src/server.ts` → Chat SDK's web adapter).
 
-- **Bot check.** Before going public, create a free Cloudflare Turnstile widget for the domain
-  (Cloudflare dashboard > Turnstile > Add widget, mode "Managed") and put its keys in `TURNSTILE_SITE_KEY`
-  and `TURNSTILE_SECRET_KEY`. Visitors then pass an (almost always invisible) check before their chat starts.
-  Without the keys the page works, and the bot logs a warning at start.
-- **Sessions.** A visitor gets a signed cookie (`nav_sid`, 24 hours, HttpOnly, SameSite=Strict). Each
-  session counts as one user for the limits and the 30-day memory; "New chat" and "Delete my data" work as
-  "reset" and "delete my data" do on WhatsApp.
-- **Behind a proxy** (ngrok, Cloudflare, a cloud host), set `PROXY_IP_HEADER`, or every visitor shares one
-  IP limit. The header is believed only from `TRUSTED_PROXIES` (default: this machine and private networks).
-  On a server of your own, publish the port only to the proxy (e.g. `127.0.0.1:8000:8000` in
-  docker-compose.yml), so nobody can skip the proxy and fake the header.
+- **Bot check.** Before going public, create a free Cloudflare Turnstile widget for the domain (Cloudflare
+  dashboard > Turnstile > Add widget, mode "Managed") and set `TURNSTILE_SITE_KEY` and `TURNSTILE_SECRET_KEY`.
+- **Sessions.** A visitor gets a signed cookie (`nav_sid`, 24 hours, HttpOnly, SameSite=Strict). Each session
+  counts as one user for limits and memory. "New chat" and "Delete my data" work like `reset` and
+  `delete my data`. Requests from other websites are refused.
+- **Behind a proxy** (Render, ngrok, Cloudflare) set `PROXY_IP_HEADER`, or every visitor shares one IP limit.
+  The header is believed only from `TRUSTED_PROXIES` (default: this machine and private networks).
 - **Turn it off** with `WEB_CHAT=off`.
 
 ## Abuse limits and AI budgets
 
-`app/guard.py` checks every message on every channel before anything is answered, so a flood costs almost
-nothing. **The defaults are lenient, for the testing phase.** Before a public launch, set the public values
-in `.env` (names and suggested values in `.env.example`).
+Every message on every channel is checked before anything is answered. **The defaults are lenient, for
+testing.** Before a public launch, set the public values (names in `.env.example`).
 
 | Limit | Testing default | Suggested public |
 |---|---|---|
@@ -74,107 +122,65 @@ in `.env` (names and suggested values in `.env.example`).
 | Web, per IP address (IPv6: per /64 block) | 1,000 a day, 60 new sessions an hour | 200 a day, 20 sessions an hour |
 | Web, all visitors together | 200 a minute | 60 a minute |
 
-- WhatsApp and Telegram get more room than the web because each user is a real phone number; the web page
-  has no identity at all. Per-IP limits stay loose because mobile operators put many people behind one address.
-- At most 4 web answers are worked on at once, so web traffic can't hold up WhatsApp.
-- "reset" and "delete my data": 30 a minute, never blocked for the day.
-- Messages longer than 500 characters are refused with a short note.
+- Refused messages don't count. On WhatsApp and Telegram a person over a limit is told once; further messages in
+  that window get no reply.
+- At most 4 web answers are worked on at once, so the open page can't hold up WhatsApp.
+- `reset` and `delete my data`: 30 a minute, never blocked for the day.
 - AI spending per day: web $3, WhatsApp $10, Telegram $3. When one channel's budget is spent, only that
-  channel pauses. The AI step must call `guard.add_cost()` for every reply, or the budgets never trip. Also
-  set a credit limit on the OpenRouter key itself, as a ceiling the code can't exceed.
-- On WhatsApp and Telegram, a user over a limit is told once; further messages in that window get no reply.
+  channel pauses. Sentry gets a warning at 80%. Days reset at midnight Bangladesh time.
+- Counters live in the database and are counted atomically, so several copies of the bot share them exactly.
 
-Today's spending: `python -m app.guard` on the server (kept off the public `/health` page so an attacker
-can't watch a budget drain). A warning is logged when a channel reaches 80%. Days reset at midnight
-Bangladesh time.
+## The knowledge base
 
-## Where the knowledge base comes from
+The bot never edits the guides. A guide is any folder with a `doc.md`; folders under `countries/` are
+destinations, the rest apply to every country. New guides need no code change. The rules the team keeps to are
+in `../KB-STRUCTURE.md`. Country names people type (English, Bangla, Banglish, cities) are in
+`src/kb/countries.ts`.
 
-The bot lives in the knowledge-base repository and reads the guides from the folder above it. It never edits them.
-A guide is any folder with a `doc.md` (`countries/<country>/`, `agencies/`, `global/<topic>/`, or a new one);
-folders under `countries/` are destinations, the rest apply to every country. New guides and new countries
-need no code change. The rules the team keeps to are in `../KB-STRUCTURE.md`.
-To use a copy somewhere else, set `KB_DIR` in `.env`. On a server, `KB_REPO` makes the bot fetch the
-guides from GitHub instead (see Run in the cloud).
+On a server, `KB_REPO` makes the bot fetch the guides from GitHub: a shallow, sparse copy of only the files it
+reads (each `doc.md`, `facts.csv`, `sources.csv`; never the `sources/` archives), refreshed every
+`KB_SYNC_MINUTES`. A knowledge-base push goes live within 15 minutes, with no redeploy.
 
-**Safe swap.** A new index replaces the old one only if no guide disappeared and none with 20 or more sections
-lost more than half of them; otherwise the bot keeps the old index, logs why and shows it on `/health`
-(`kb_sync.index_refused`). To accept a deliberate removal or rename: `python -m app.kb_index --force`.
-A pull-request check (`.github/workflows/bot-kb-check.yml`, running `python -m app.kb_check`) catches the
-same problems before they reach `main`.
+**Safe swap.** A new version replaces the old one only if no guide disappeared and none with 20 or more sections
+lost more than half of them. Otherwise the bot keeps answering from the last good version, shows why on
+`/health` (`kb_sync.index_refused`) and alerts Sentry. The last good commit is kept in the database, so the
+check survives restarts. To accept a deliberate removal or rename, set `KB_ACCEPT_COMMIT` to that commit
+(first 7 characters) and remove it once `/health` shows it. The pull-request check
+(`.github/workflows/bot-kb-check.yml`) catches the same problems before they reach `main`.
 
-## When the knowledge base changes
+## Run in the cloud
 
-`git pull`, then restart with `.\start.ps1 -Reindex`
-(or run `python -m app.kb_index` while the bot keeps running; the new index is swapped in at once).
-After updating the bot's code to this version, reindex once so the index learns which guides are countries.
+The image holds only the bot's code: `docker build -t navigator-bot .` (or `docker compose up -d --build`).
+`.env` and `data/` never go in. The agreed free setup is **Render** (web service, Docker, Singapore) + **Neon**
+(Postgres, Singapore) + **UptimeRobot** (pings `/health` every 5 minutes so Render's free plan doesn't sleep).
 
-## Run in the cloud (Docker)
+**Render settings:** root directory `navigator-bot`, runtime Docker, region Singapore, health check path
+`/health`, build filter `navigator-bot/**` (so guide pushes don't redeploy; they arrive through `KB_REPO`).
+Enter each value from `.env.example` as an environment variable on Render:
 
-The bot runs anywhere Docker runs, so it doesn't need this PC or ngrok.
+- Required: `USER_HASH_SECRET`, `KB_REPO`, `DATABASE_URL` (Neon's pooled address), `PUBLIC_DOMAIN` (the Render
+  host, without https://), `PROXY_IP_HEADER=X-Forwarded-For`, `NODE_ENV=production`.
+- WhatsApp: `WHATSAPP_PHONE_NUMBER_ID`, `WHATSAPP_ACCESS_TOKEN`, `WHATSAPP_APP_SECRET`, `WHATSAPP_VERIFY_TOKEN`
+  (keep the same verify token), `WHATSAPP_BUSINESS_ACCOUNT_ID`.
+- Telegram: `TELEGRAM_BOT_TOKEN`. Web: `TURNSTILE_SITE_KEY`, `TURNSTILE_SECRET_KEY`, the public `GUARD_*` values.
+- Recommended: `SENTRY_DSN`. Later: `OPENROUTER_API_KEY`, `LLM_MODEL`.
 
-**The image holds only the bot's code.** Build it from this folder: `docker build -t navigator-bot .`
-(`docker compose up -d --build` does the same and starts it). `.env`, `.venv` and `data/` never go in.
+**Switching Meta to the new address.** In the Meta app: WhatsApp > Configuration > Webhook > Edit. Callback URL
+`https://<host>/webhook`, the same verify token, Verify and save; check the `messages` field is subscribed.
+Telegram re-registers itself from `PUBLIC_DOMAIN`. Then test `/health`, Meta's Verify, and a "hi" on each channel
+with the PC off. WhatsApp is open to everyone only once a real number replaces Meta's test number.
 
-**The knowledge base comes straight from GitHub.** With `KB_REPO` set, the bot clones the repository as it
-starts, but only the files it reads (each `doc.md`, `facts.csv` and `sources.csv`, about 28 MB; never the
-multi-GB `sources/` archives), builds its index, and starts answering about 10 seconds later. Every
-`KB_SYNC_MINUTES` (default 15) it fetches `main` again and rebuilds the index if the commit changed. So a
-knowledge-base push goes live within 15 minutes, with no rebuild, redeploy or restart. If GitHub can't be
-reached, the bot keeps answering from the last index. `https://<host>/health` shows `kb_commit`: compare it
-with the latest commit on GitHub to check an update is live. Code in `app/kb_sync.py`; run one sync by hand
-with `python -m app.kb_sync`.
-
-**Settings.** Never upload `.env`. Enter each value as an environment variable or secret in the platform's
-settings (or in `.env` on a server of your own, which stays outside git), using the names in `.env.example`:
-
-- Required: `WHATSAPP_PHONE_NUMBER_ID`, `WHATSAPP_ACCESS_TOKEN`, `META_APP_SECRET`, `WHATSAPP_VERIFY_TOKEN`
-  (keep the same verify token as before), and `KB_REPO` (the repository's GitHub URL).
-- Also set: `WHATSAPP_BUSINESS_ACCOUNT_ID`, `GRAPH_API_VERSION` (v27.0), `PUBLIC_DOMAIN` (the new host name,
-  without https://), and the `LLM_*` values once the AI step is on. `TELEGRAM_BOT_TOKEN` only if Telegram is used.
-- `DATABASE_URL`: a Postgres connection string (e.g. a free Neon database) on hosts whose disk is wiped at
-  restart, such as Render's free plan. Chat memory, duplicate checks and abuse counters then live there.
-  Leave it empty on a PC or a server with a disk: they stay in `data/state.sqlite`.
-- Web chat: `PROXY_IP_HEADER=X-Forwarded-For` behind a cloud host's proxy, and `TURNSTILE_SITE_KEY` /
-  `TURNSTILE_SECRET_KEY` before the page goes public. Tighten the `GUARD_*` limits to the public values.
-- Optional: `KB_BRANCH` (main), `KB_SYNC_MINUTES` (15), `KB_GITHUB_TOKEN` only if the repository becomes private.
-- Leave `KB_DIR` empty. `PORT` is usually set by the platform (8000 if not).
-
-**Keep the chat memory.** Either set `DATABASE_URL` (Postgres), or mount a persistent volume at
-`/srv/navigator-bot/data`. With neither, the bot still works and re-fetches the guides at each start, but it
-forgets the 30-day chat memory, the abuse counters and the list of answered message ids, so a Meta retry
-arriving just after a restart could be answered twice. `/health` shows `"database": "postgres"` or `"sqlite"`.
-
-**Pick a host that never sleeps.** Meta retries webhooks that time out, and a cold start makes the first
-reply feel broken. Avoid free tiers that spin down when idle, and serverless platforms that pause the CPU
-after the response (the bot sends its reply from a background thread after answering Meta).
-
-**When the bot's code changes** (not the knowledge base): rebuild and restart the container
-(`git pull` then `docker compose up -d --build` on a server).
-
-**Switching Meta to the new address.** In the Meta app: WhatsApp > Configuration > Webhook > Edit.
-Callback URL `https://<new host>/webhook`, the same verify token, then Verify and save. Check that the
-`messages` field is still subscribed. Then test: `https://<new host>/health`, the handshake (Meta's Verify
-succeeds), and a real WhatsApp "hi" with this PC off.
-
-## Files that never go to git
-
-`.env` (keys), `.venv/` (rebuilt by `start.ps1`) and `data/` (index and chat memory) are listed in `.gitignore`.
-Copy `.env.example` to `.env` and fill it in on each machine that runs the bot.
+**Handing over to BRAC IT:** run the same image on their server or host with their own values: their Meta app
+and number, Telegram token, OpenRouter key, Postgres address and Sentry project. The code doesn't change.
 
 ## Layout
 
-- `app/views.py`: webhook (Meta verification, signature check, answers in the background)
-- `app/utils/whatsapp_utils.py`: reading and sending WhatsApp messages
-- `app/telegram_views.py` and `app/utils/telegram_utils.py`: Telegram webhook, formatting (HTML) and sending
-- `app/kb_index.py`: builds and searches `data/kb.sqlite` from each guide's `doc.md`
-- `app/kb_sync.py`: on servers, pulls the guides from GitHub into `data/kb-repo` and re-indexes when they change
-- `app/db.py`: the read-write database: `data/state.sqlite`, or Postgres when `DATABASE_URL` is set
-- `app/store.py`: conversation memory and duplicate checks (users stored as hashes, deleted after 30 days)
-- `app/kb_check.py`: the pull-request check that every guide on `main` is still readable
-- `app/answer.py`: turns a message into a reply for every channel (search-only test mode until the AI is connected)
-- `app/countries.py`: country names in English and Bangla
-- `app/web_views.py` and `app/static/web/`: the web chat page and its API
-- `app/guard.py`: message limits and daily AI budgets for every channel
-
-Users can send "delete my data" to erase their history, or "reset" to start over.
+- `src/main.ts` start-up and shutdown · `src/app.ts` builds the bot · `src/server.ts` HTTP routes · `src/config.ts` settings
+- `src/channels/` Chat SDK bot (WhatsApp, Telegram, web), message handler, Telegram webhook registration
+- `src/conversation/` the pipeline, commands, Bangla/English texts, safeguards, context builder
+- `src/kb/` guide discovery, parsing, search, country names, GitHub sync and safe swap, the PR check
+- `src/memory/` people and messages (hashed, with retention), the restart inbox
+- `src/guard/` abuse limits and daily AI budgets · `src/ai/` model, tools, prompt, number check, memory updates
+- `src/db/` database schema and connection (migrations in `drizzle/`) · `src/ops/` logging and Sentry
+- `src/web/` web session security · `web/` the chat page · `prompts/` the system prompt · `evals/` questions and runner
+- `test/` Vitest tests: unit, database (embedded Postgres) and end-to-end channel tests with Meta and Telegram faked

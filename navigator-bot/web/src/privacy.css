@@ -1,0 +1,42 @@
+:root {
+  --bg: #ffffff;
+  --text: #1d1b20;
+  --muted: #5f5b66;
+  --accent: #c4007a;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #17151a;
+    --text: #ece8f0;
+    --muted: #b3adbb;
+    --accent: #ff6cc4;
+  }
+}
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font:
+    16px / 1.6 system-ui,
+    "Noto Sans Bengali",
+    sans-serif;
+}
+main {
+  max-width: 44rem;
+  margin: 0 auto;
+  padding: 24px 16px 64px;
+}
+h1 {
+  font-size: 1.6rem;
+  line-height: 1.25;
+}
+h2 {
+  font-size: 1.15rem;
+  margin-top: 2rem;
+}
+a {
+  color: var(--accent);
+}
+.muted {
+  color: var(--muted);
+}

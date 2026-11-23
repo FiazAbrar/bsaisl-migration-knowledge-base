@@ -1,0 +1,61 @@
+{
+  "name": "navigator-bot",
+  "version": "2.0.0",
+  "private": true,
+  "description": "BSAISL Migration Pathway Navigator: WhatsApp, Telegram and web chat bot that answers from the country guides.",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=26.0.0"
+  },
+  "scripts": {
+    "dev": "node --env-file-if-exists=.env --watch src/main.ts",
+    "start": "node src/main.ts",
+    "build:web": "vite build --config web/vite.config.ts",
+    "dev:web": "vite --config web/vite.config.ts",
+    "typecheck": "tsc --noEmit",
+    "lint": "biome check .",
+    "format": "biome check --write .",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "check": "npm run lint && npm run typecheck && npm test",
+    "kb:index": "node --env-file-if-exists=.env src/kb/cli.ts index",
+    "kb:check": "node src/kb/cli.ts check",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "node --env-file-if-exists=.env src/db/migrate.ts",
+    "eval": "node --env-file-if-exists=.env evals/run.ts",
+    "retention": "node --env-file-if-exists=.env src/memory/retention-cli.ts"
+  },
+  "dependencies": {
+    "@chat-adapter/state-memory": "4.45.0",
+    "@chat-adapter/state-pg": "4.45.0",
+    "@chat-adapter/telegram": "4.45.0",
+    "@chat-adapter/web": "4.45.0",
+    "@chat-adapter/whatsapp": "4.45.0",
+    "@electric-sql/pglite": "0.6.0",
+    "@hono/node-server": "2.1.11",
+    "@openrouter/ai-sdk-provider": "3.1.0",
+    "@orama/orama": "3.1.18",
+    "@sentry/node": "11.17.0",
+    "ai": "7.0.180",
+    "chat": "4.45.0",
+    "csv-parse": "7.0.3",
+    "drizzle-orm": "0.45.4",
+    "hono": "4.13.21",
+    "pg": "8.23.1",
+    "pino": "10.4.0",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.6.8",
+    "@types/node": "26.6.6",
+    "@types/pg": "8.23.1",
+    "drizzle-kit": "0.31.11",
+    "typescript": "7.0.2",
+    "vite": "8.3.8",
+    "vitest": "5.1.1"
+  },
+  "allowScripts": {
+    "esbuild": false
+  }
+}

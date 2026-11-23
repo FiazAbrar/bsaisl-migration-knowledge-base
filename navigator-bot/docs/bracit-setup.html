@@ -127,7 +127,7 @@ footer { margin-top: 40px; color: var(--muted); font-size: 14px; }
 
 <section class="part" id="overview">
   <h2><span class="num">0</span> Who does what</h2>
-  <p>The bot is a small Python web service. It receives WhatsApp messages from Meta, looks up the answer in the BSAISL knowledge base (the country guides) and replies. Moving it to BRAC IT means BRAC IT owns every account and secret; the code does not change, only its settings file (<code>.env</code>).</p>
+  <p>The bot is a small web service (TypeScript on Node.js 26 LTS, shipped as one Docker container). It receives WhatsApp messages from Meta (and Telegram and web chat messages), looks up the answer in the BSAISL knowledge base (the country guides) and replies. Moving it to BRAC IT means BRAC IT owns every account and secret; the code does not change, only its settings file (<code>.env</code>).</p>
   <div class="roles">
     <div class="role"><h4>BRAC IT</h4><ul>
       <li>Meta app, WhatsApp account and phone number in BRAC IT's verified portfolio</li>
@@ -255,9 +255,9 @@ footer { margin-top: 40px; color: var(--muted); font-size: 14px; }
 <section class="part" id="secrets">
   <h2><span class="num">6</span> App secret and verify token</h2>
   <ol class="steps">
-    <li><b>App secret:</b> in the app dashboard, left menu <span class="ui">App settings → Basic</span>, next to <b>App secret</b> click <span class="ui">Show</span> and enter the password. This is <code>META_APP_SECRET</code>. The bot uses it to check that every incoming message really comes from Meta.</li>
+    <li><b>App secret:</b> in the app dashboard, left menu <span class="ui">App settings → Basic</span>, next to <b>App secret</b> click <span class="ui">Show</span> and enter the password. This is <code>WHATSAPP_APP_SECRET</code>. The bot uses it to check that every incoming message really comes from Meta.</li>
     <li><b>Verify token:</b> a random string you make up. Meta sends it once when you connect the webhook (part 9), and the bot checks it matches. One way to make one:
-<pre><code>python -c "import secrets; print(secrets.token_urlsafe(24))"</code></pre>
+<pre><code>node -e "console.log(require('crypto').randomBytes(24).toString('base64url'))"</code></pre>
       This is <code>WHATSAPP_VERIFY_TOKEN</code>.</li>
   </ol>
 </section>
@@ -281,13 +281,13 @@ footer { margin-top: 40px; color: var(--muted); font-size: 14px; }
     <li><b>A public HTTPS address with a valid certificate</b>, for example <code>https://navigator-bot.&lt;brac-domain&gt;/webhook</code>. Meta rejects self-signed certificates.</li>
     <li>A reverse proxy (or the platform's router) sending traffic to the container's port <b>8000</b>.</li>
     <li><b>Outbound HTTPS</b> to <code>graph.facebook.com</code> (WhatsApp) and to the AI provider (currently <code>openrouter.ai</code>; this may change after the model test).</li>
-    <li><b>A persistent folder for <code>data/</code>.</b> It holds the conversation memory (kept 30 days, users stored only as scrambled codes) and the search index. The index can be rebuilt; the memory would be lost.</li>
-    <li><b>The knowledge base folder</b> mounted read-only, with its path in <code>KB_DIR</code>. The bot never edits it.</li>
+    <li><b>A Postgres database</b> (<code>DATABASE_URL</code>), or else a persistent folder for <code>data/</code>. It holds the conversation memory (messages kept 90 days, a short profile 12 months after the person's last message, users stored only as scrambled codes), the abuse counters and the restart inbox. The bot creates its tables itself.</li>
+    <li><b>The knowledge base:</b> the bot fetches it from GitHub (<code>KB_REPO</code>, outbound HTTPS to <code>github.com</code>) and refreshes it every 15 minutes, or reads a mounted folder (<code>KB_DIR</code>). It never edits it.</li>
     <li>Small resources are enough to start: 1 vCPU, 1 GB RAM, about 1 GB disk for the bot plus the knowledge base (the guides' text is small; the full research archive is 3.4 GB but the bot doesn't need it).</li>
   </ul>
   <h3>Deploy</h3>
   <ol class="steps">
-    <li>Get the bot repository from us (git). It will include a <code>Dockerfile</code>, <code>.env.example</code> and a README. <i>These handover files are being finished after the AI model test; until then, part 8 can be prepared but not completed.</i></li>
+    <li>Get the bot repository from us (git). The <code>navigator-bot/</code> folder has a <code>Dockerfile</code>, <code>docker-compose.yml</code>, <code>.env.example</code> (every setting, explained) and a README.</li>
     <li>Copy <code>.env.example</code> to <code>.env</code> on the server and fill it in:
       <div class="tablewrap"><table>
         <thead><tr><th>Setting</th><th>Where it comes from</th><th></th></tr></thead>
@@ -295,23 +295,28 @@ footer { margin-top: 40px; color: var(--muted); font-size: 14px; }
           <tr><td><code>WHATSAPP_PHONE_NUMBER_ID</code></td><td>Part 4b</td><td><span class="tag public">not secret</span></td></tr>
           <tr><td><code>WHATSAPP_BUSINESS_ACCOUNT_ID</code></td><td>Part 3</td><td><span class="tag public">not secret</span></td></tr>
           <tr><td><code>WHATSAPP_ACCESS_TOKEN</code></td><td>Part 5</td><td><span class="tag secret">secret</span></td></tr>
-          <tr><td><code>META_APP_SECRET</code></td><td>Part 6</td><td><span class="tag secret">secret</span></td></tr>
+          <tr><td><code>WHATSAPP_APP_SECRET</code></td><td>Part 6</td><td><span class="tag secret">secret</span></td></tr>
           <tr><td><code>WHATSAPP_VERIFY_TOKEN</code></td><td>Part 6</td><td><span class="tag secret">secret</span></td></tr>
-          <tr><td><code>GRAPH_API_VERSION</code></td><td><code>v27.0</code></td><td><span class="tag public">not secret</span></td></tr>
+          <tr><td><code>WHATSAPP_API_VERSION</code></td><td><code>v27.0</code></td><td><span class="tag public">not secret</span></td></tr>
+          <tr><td><code>USER_HASH_SECRET</code></td><td>A long random string you make up (as for the verify token, 32 bytes). Never change it later: the bot would forget every user.</td><td><span class="tag secret">secret</span></td></tr>
           <tr><td><code>PUBLIC_DOMAIN</code></td><td>The server's public address, without <code>https://</code></td><td><span class="tag public">not secret</span></td></tr>
-          <tr><td><code>KB_DIR</code></td><td>Path of the mounted knowledge base folder</td><td><span class="tag public">not secret</span></td></tr>
-          <tr><td><code>LLM_BASE_URL</code>, <code>LLM_API_KEY</code>, <code>LLM_MODEL</code></td><td>The AI provider BRAC approves (question group C)</td><td><span class="tag secret">key is secret</span></td></tr>
+          <tr><td><code>DATABASE_URL</code></td><td>The Postgres connection string</td><td><span class="tag secret">secret</span></td></tr>
+          <tr><td><code>KB_REPO</code> (or <code>KB_DIR</code>)</td><td>The knowledge base repository's GitHub URL (or a mounted folder's path)</td><td><span class="tag public">not secret</span></td></tr>
+          <tr><td><code>PROXY_IP_HEADER</code></td><td>The header your reverse proxy puts the visitor's address in, usually <code>X-Forwarded-For</code></td><td><span class="tag public">not secret</span></td></tr>
+          <tr><td><code>OPENROUTER_API_KEY</code>, <code>LLM_MODEL</code></td><td>The AI provider BRAC approves (question group C)</td><td><span class="tag secret">key is secret</span></td></tr>
+          <tr><td><code>SENTRY_DSN</code></td><td>Error alerts (sentry.io project); optional</td><td><span class="tag secret">secret</span></td></tr>
         </tbody>
       </table></div></li>
-    <li>Build the search index from the knowledge base, then start the bot (the exact Docker commands will be in the README):
-<pre><code>python -m app.kb_index      # builds data/kb.sqlite from KB_DIR
-python run.py               # serves on port 8000</code></pre></li>
-    <li>Check from outside: open <code>https://&lt;PUBLIC_DOMAIN&gt;/health</code>. It must answer <code>{"status": "ok", "kb_built_at": …, "kb_sections": …}</code>.</li>
+    <li>Build and start the container. The bot fetches the guides and creates its database tables as it starts:
+<pre><code>cd navigator-bot
+docker compose up -d --build      # serves on port 8000
+docker compose logs -f            # watch it start</code></pre></li>
+    <li>Check from outside: open <code>https://&lt;PUBLIC_DOMAIN&gt;/health</code>. It must answer <code>{"status": "ok", "database": "postgres", "kb_guides": …, "kb_sections": …}</code>.</li>
     <li>Check the webhook answers Meta's handshake (use your verify token):
 <pre><code>curl "https://&lt;PUBLIC_DOMAIN&gt;/webhook?hub.mode=subscribe&amp;hub.verify_token=&lt;WHATSAPP_VERIFY_TOKEN&gt;&amp;hub.challenge=12345"</code></pre>
       It must print <code>12345</code>. With a wrong token it returns error 403, which is correct.</li>
   </ol>
-  <p><b>When the knowledge base is updated</b> (copy or <code>git pull</code> into <code>KB_DIR</code>), run <code>python -m app.kb_index</code> again. The new index replaces the old one in one step, so the bot keeps running.</p>
+  <p><b>When the knowledge base is updated</b>, nothing needs doing: the bot checks GitHub (or the <code>KB_DIR</code> folder) every 15 minutes and swaps in the new guides without stopping. A version where a guide vanished or lost most of its sections is refused and reported on <code>/health</code> (README, "The knowledge base"). <b>When the bot's code changes</b>, rebuild and restart the container (<code>git pull</code>, then <code>docker compose up -d --build</code>).</p>
 </section>
 
 <section class="part" id="webhook">
@@ -345,7 +350,7 @@ curl -X POST "https://graph.facebook.com/v27.0/&lt;WHATSAPP_BUSINESS_ACCOUNT_ID&
     <li>Left menu <span class="ui">Publish</span>. It lists what's missing.</li>
     <li>Click <span class="ui">Go to app settings</span> (or <span class="ui">App settings → Basic</span>) and fill in:
       <ul>
-        <li><b>Privacy policy URL:</b> BRAC's public privacy policy page (draft in <code>docs/PRIVACY.md</code>; it covers what the bot stores, that it uses Meta and an AI provider, the 30-day deletion, and how to ask for deletion).</li>
+        <li><b>Privacy policy URL:</b> BRAC's public privacy policy page (draft in <code>docs/PRIVACY.md</code>; it covers what the bot stores, that it uses Meta and an AI provider, deletion after 90 days for messages and 12 months for the profile, and the "delete my data" command; the bot also serves the same text at <code>https://&lt;PUBLIC_DOMAIN&gt;/privacy</code>).</li>
         <li><b>App icon:</b> the 1024 × 1024 image.</li>
         <li><b>Category:</b> for example Education.</li>
       </ul>
@@ -417,7 +422,7 @@ curl -X POST "https://graph.facebook.com/v27.0/&lt;WHATSAPP_BUSINESS_ACCOUNT_ID&
 
   <details class="qgroup" open><summary>A. Hosting and deployment</summary><ol>
     <li>Where will the bot run: BRAC's own servers, a cloud provider (which one), or a container platform?</li>
-    <li>Can you run it from a Dockerfile we provide (with docker compose)? If not, what do you need instead (a plain Python service, a Kubernetes manifest, something else)?</li>
+    <li>Can you run it from a Dockerfile we provide (with docker compose)? If not, what do you need instead (a plain Node.js service, a Kubernetes manifest, something else)?</li>
     <li>What public HTTPS address can the bot have (a subdomain of a BRAC domain?), and who manages its certificate and reverse proxy?</li>
     <li>Does the server allow outbound HTTPS to <code>graph.facebook.com</code> and to an AI provider's API?</li>
     <li>Can it keep a persistent folder for the bot's data, and is it backed up?</li>
@@ -442,7 +447,7 @@ curl -X POST "https://graph.facebook.com/v27.0/&lt;WHATSAPP_BUSINESS_ACCOUNT_ID&
   </ol></details>
 
   <details class="qgroup" open><summary>D. Data, privacy and support</summary><ol>
-    <li>Is 30 days the right retention for conversation history, or does BRAC's policy require something else?</li>
+    <li>Is the retention right (messages 90 days, a short profile of the person's situation 12 months after their last message), or does BRAC's policy require something else?</li>
     <li>Where will the privacy policy be published, and who in BRAC approves its text?</li>
     <li>Which helpline, phone number or office should the bot give people who need a human (for example BRAC's Migration Programme)?</li>
     <li>Does BRAC need a security review or data-protection sign-off before the bot goes live?</li>
@@ -450,7 +455,7 @@ curl -X POST "https://graph.facebook.com/v27.0/&lt;WHATSAPP_BUSINESS_ACCOUNT_ID&
 
   <details class="qgroup" open><summary>E. Code, knowledge base and timeline</summary><ol>
     <li>Where should the code live: BRAC IT's GitHub or GitLab organisation? Should we open pull requests there, or will you import our repository?</li>
-    <li>Any constraints on language or framework (the bot is Python 3.12+ with Flask and SQLite)?</li>
+    <li>Any constraints on language or framework (the bot is TypeScript on Node.js 26 LTS, with Postgres, built on Vercel's open-source Chat SDK and AI SDK)?</li>
     <li>Where should the knowledge base repository live, and who besides the BSAISL team may update it?</li>
     <li>The Navigator is due on 3 December 2026 with user-testing rounds before then. When can the number, hosting and webhook be ready?</li>
   </ol></details>

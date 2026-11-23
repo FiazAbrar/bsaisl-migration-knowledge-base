@@ -1,13 +1,13 @@
 # Prompts
 
 - `system.md`: the system prompt the AI gets with every message. The bot fills in `{{TODAY}}`,
-  `{{COUNTRIES}}`, `{{SHARED_GUIDES}}` and `{{KB_BUILT_AT}}` before sending it, from the index
-  (`kb_index.list_countries("country")` and `("shared")`), so new guides need no prompt change.
+  `{{COUNTRIES}}`, `{{SHARED_GUIDES}}` and `{{KB_BUILT_AT}}` before sending it
+  (`src/ai/prompt.ts`, from the guides the bot has loaded), so new guides need no prompt change.
 
 ## Test it in a fresh Claude chat (no code needed)
 
 1. Open a new chat with no memory: Claude in an incognito window, or a new Claude Code session.
-2. Paste the whole of `system.md`, after replacing the three placeholders by hand. For example:
+2. Paste the whole of `system.md`, after replacing the four placeholders by hand. For example:
    `{{TODAY}}` → `22 November 2026`; `{{COUNTRIES}}` → `Saudi Arabia, Malaysia, Qatar` (the guides you attach);
    `{{KB_BUILT_AT}}` → today's date.
 3. Attach the guides the bot would read: a country's `countries/<country>/doc.md`, plus

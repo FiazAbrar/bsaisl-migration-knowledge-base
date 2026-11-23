@@ -1,7 +1,12 @@
 .env
+node_modules/
+data/
+web/dist/
+coverage/
+*.sqlite
+*.db
+# Python bot (removed in this version; kept ignored for old local checkouts)
 __pycache__/
 *.pyc
 .venv/
-data/
-*.sqlite
-*.db
+evals/results/
