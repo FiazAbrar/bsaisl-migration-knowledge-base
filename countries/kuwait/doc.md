@@ -1028,7 +1028,7 @@ An engineering job title from PAM is needed both for the work permit and for the
 Kuwait is the main overseas employer of Bangladeshi nurses, and the route runs government to government through BOESL (Bangladesh Overseas Employment and Services Limited, the government's own recruiting agency) [K0052, K0053, K0060]. In May 2023 the Bangladesh Embassy signed an agreement with Kuwait's Ministry of Health (MOH) on recruiting medical staff, and by the end of 2024, 677 Bangladeshi nurses had been placed in Kuwait's public hospitals since 2022 [K0060, K0059].
 
 - **The first round:** in 2022 BOESL nurses went to MOH hospitals without migration cost, on Tk 80,000 to 90,000 a month with overtime and a yearly increment [K0063, K0064].
-- **The 2025 round:** in October 2025 Kuwait asked BOESL for 100 nurses with English, at least 3 years' experience and basic life support certification, offering up to Tk 1.27 lakh for BSc and Tk 1.11 lakh for diploma nurses [K0053, K0054, K0055]. Of 100 who sat the exam, 15 were selected, and by May 2026 only five had finished visa processing, because Kuwait had not given clearance during the Middle East tensions [K0056, K0057, K0058].
+- **The 2025 round:** in 2025 Kuwait asked BOESL for 100 nurses with English, at least 3 years' experience and basic life support certification [K0053, K0054]. Of 100 who sat the exam, 15 were selected, and by May 2026 only five had finished visa processing, because Kuwait had not given clearance during the Middle East tensions [K0056, K0057, K0058].
 - **How the 2025 round was applied for:** BOESL's circular, open from 20 August 2025, asked for nurses up to 39 years old, preferring English and experience, for 20 male and 30 female BSc posts and 10 male and 40 female diploma posts, each paid Tk 1,27,360 [PK0014, PK0021, PK0015, PK0016]. The job had a three-month probation and was renewable for three years with increments [PK0015]. Nurses applied at brms.boesl.gov.bd with a Tk 100 fee, uploading one PDF of an English CV, all education and experience certificates, mark sheets, transcripts, registration and a colour passport copy; those finally selected needed a valid Basic Life Support certificate [PK0020, PK0021, PK0019]. Selected nurses paid BOESL a Tk 56,350 service charge, plus the GAMCA (now Wafid) medical, the visa stamping fee at the Kuwait Embassy in Dhaka and other fees; a nurse who withdrew after handing in the visa papers lost the pay order lodged with BOESL [PK0017, PK0018, PK0022].
 
 1. **Come only on Article 18.** Nurses, home nurses and caretakers may be recruited only on Article 18, never Article 20 [W0077].
@@ -1038,7 +1038,6 @@ Kuwait is the main overseas employer of Bangladeshi nurses, and the route runs g
 
 > **Need to know**
 > - Is BOESL recruiting nurses or doctors for Kuwait now?
-> - In the 2025 round, were diploma nurses paid Tk 1,27,360, as BOESL's August 2025 circular said, or Tk 1.11 lakh [PK0016, K0055]?
 > - Do BOESL nurses sit the Prometric exam, or does MOH's selection panel replace it? [K0062, K0068]
 > - What do the Dataflow check and the MOH licence cost a Bangladeshi nurse, and who pays? [K0067]
 
