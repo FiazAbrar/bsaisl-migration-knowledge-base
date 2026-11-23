@@ -22,3 +22,14 @@ Held for other docs (in gledger-services-2.json): online attestation and apostil
 
 - Scholarship papers: the 2024 round asked for a birth registration or NID copy [GV0105]; the 2025 round lists only the student's NID copy [GV0145]. Not a conflict but a change; the doc gives the 2025 list as current and notes the 2024 alternative, with a Need to know on under-18 students.
 - Apostille countries (held, not in this doc): the January 2025 report says 117 countries accept Bangladesh's attested documents; the FAQ cites MoFA's list of 114. MoFA's own list (primary) should win; noted in the held claim.
+
+## Prothom Alo chunk services-3 (18 articles, Oct 2025 to May 2026), agent GV
+
+Added facts GV0146-GV0201. New sections: Language courses at the TTCs and Heavy-vehicle driver training (under Training centres); The PKB loan for language study and skills abroad (Before you go); Plans announced in 2026 and BIDA's NRB desk (Coming home). Updated: In one minute, PKB loan uptake (Kishoreganj case, Oct 2025; PM's March 2026 directive on low-interest loans), advice near home (May 2026 one-stop district service plan, UDC counselling), airport (Sylhet minister's remark, Feb 2026), while abroad (Welfare Board director; legal-firms plan), returnee women (ILO cash scheme plan, UNDP counselling call).
+
+Logged but not cited: GV0198 (BOESL's deputy manager saying BOESL migrants stay free of fraud; a self-claim, held for the FAQ's BOESL question), GV0200-GV0201 (trainer test date and re-application rule; no use to a migrant).
+
+## Resolved conflicts (chunk services-3)
+
+- PKB language-study loan terms: the December 2025 report (pa-2025-12-03-6dlq7doam9) gives a tiered security scheme (no collateral to Tk 3 lakh, property deed Tk 3-5 lakh, registered mortgage Tk 5-10 lakh), a 2-5 year term and N-4 for Japan; the April 2026 report (pa-2026-04-01-stplucaf70) calls the whole loan collateral-free up to Tk 10 lakh, with a term of up to 3 years and N5 for Japan. Both are secondhand newspaper summaries of PKB's terms, neither quotes a PKB circular, and the newer one may reflect a change (the PM's adviser announced a collateral-free guarantee of up to Tk 10 lakh on 18 April 2026, FAQ CQ0160) or may be a simplification. Not settleable from the sources: the doc gives the December tiers as PKB's stated terms, dates both, and asks in a Need to know. PKB's own loan page or circular would settle it; pkb.gov.bd blocks automated access.
+- Interest: both reports say 11%; no conflict.
