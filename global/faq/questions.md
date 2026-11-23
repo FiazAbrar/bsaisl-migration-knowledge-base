@@ -19,3 +19,18 @@ Questions this doc can't yet answer. Each is a "Need to know" in `doc.md`.
   - Does the labour wing arrange a lawyer or an interpreter?
   - Whom should the family in Bangladesh contact first?
 - How many Bangladeshis are on death row in Saudi Arabia in 2026, and for which charges?
+
+## Deciding
+
+- For which Central and Eastern European countries does a Bangladeshi apply at an embassy in New Delhi, and how does the applicant submit the papers and give biometrics without travelling to India?
+- Which government or BMET-linked courses train people for remote work for foreign employers, and where does a remote worker cheated of pay by a foreign client complain?
+- Which nursing degrees and licences do the UK, Japan and the Gulf countries accept from Bangladesh, and which exam or registration must a Bangladeshi nurse pass for each?
+
+## Loans
+
+- Is PKB's language-study loan the Tk 10 lakh loan announced for students in March 2026, or does a degree student apply for the solvency loan or guarantee separately, and how?
+
+## In the destination
+
+- In which countries and on what charges were the 57 arrested, and were they jailed, deported or pardoned?
+- What is the number of the law ministry's legal-help hotline for migrants, and have the migrants' courts opened?

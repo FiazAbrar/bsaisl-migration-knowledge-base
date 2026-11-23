@@ -1,0 +1,86 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/money/doc.md",
+  "section": "In one minute",
+  "old_str": "in early 2024 banks added another 2.5% of their own, until they stopped in May 2024,",
+  "new_str": "from October 2023 banks added another 2.5% of their own, until they stopped in May 2024,",
+  "problem": "Banks' own incentive began in October 2023 (GM0061; see 'The banks' own incentive, October 2023 to May 2024'), not 'early 2024'; the two sections disagree on the start. Add GM0061 to the citation list of this sentence."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/money/doc.md",
+  "section": "In one minute",
+  "old_str": "The foreign currency hundi collects is used abroad to move money out of Bangladesh [GM0050].",
+  "new_str": "Banker Mamun Rashid wrote in 2024 that the foreign currency hundi collects stays abroad, where it is used for under-invoicing, tax evasion on imports or moving assets out of Bangladesh [GM0050].",
+  "problem": "States a columnist's view (Mamun Rashid, April 2024) as established fact and narrows what he wrote; attribution dropped."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/money/doc.md",
+  "section": "Banks and exchange houses",
+  "old_str": "The nine foreign banks in Bangladesh bring in only 0.3% of remittances, according to a Bangladesh Bank report of August 2026 [GM0345].",
+  "new_str": "The nine foreign banks in Bangladesh bring in only 0.3% of remittances, according to a Bangladesh Bank report cited by Prothom Alo in August 2026 [GM0345].",
+  "problem": "The article (9 Aug 2026) cites a Bangladesh Bank report whose date is not given (its data run to December 2025); 'a report of August 2026' is unsupported."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/money/doc.md",
+  "section": "Banks and exchange houses",
+  "old_str": "BRAC Bank said in July 2026 that recipients can collect at its 315 branches and sub-branches and 1,117 agent banking outlets, and it holds \"uthan baithak\" (courtyard meetings) with families who receive remittances to promote legal channels and banking [GM0323, GM0369].",
+  "new_str": "BRAC Bank said in July 2026 that recipients can collect at its 315 branches and sub-branches and 1,117 agent banking outlets [GM0323], and in September 2026 that it holds \"uthan baithak\" (courtyard meetings) with families who receive remittances to promote legal channels and banking [GM0369].",
+  "problem": "GM0369 (uthan baithak) is from a 29 September 2026 article, not July 2026; the sentence dates both claims to July."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/money/doc.md",
+  "section": "Banks and exchange houses",
+  "old_str": "Embassies reward senders too: the Bangladesh Embassy in Rome",
+  "new_str": "An embassy has rewarded senders too: the Bangladesh Embassy in Rome",
+  "problem": "Lead sentence generalises to embassies in the plural; the cited facts cover only the Rome embassy."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/money/doc.md",
+  "section": "Paying for a language course abroad",
+  "old_str": "PKB's loans for language study abroad: see \"The PKB loan for language study and skills abroad\" in the Services for migrants and their families doc [GM0413].",
+  "new_str": "Loans from PKB (Probashi Kallyan Bank, the state bank for migrants) for language study abroad: see \"The PKB loan for language study and skills abroad\" in the Services for migrants and their families doc.",
+  "problem": "PKB is used here before it is explained (first explained later under The Probashi Card); and the cross-reference cites GM0413, a Bangladesh Bank fee rule that says nothing about PKB loans."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/money/doc.md",
+  "section": "How the rate is set",
+  "old_str": "BAFEDA and ABB have set the dollar rate from time to time by supply and demand, on Bangladesh Bank's advice [GM0023].",
+  "new_str": "BAFEDA and ABB have set the dollar rate from time to time by supply and demand [GM0023].",
+  "problem": "'on Bangladesh Bank's advice' is not in GM0023 or its article (pa-2024-03-03-5ve5yc166t)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/money/doc.md",
+  "section": "What a remittance dollar fetched",
+  "old_str": "- **March to June 2025:** at most Tk 123, the ceiling set by the central bank; by late June 2025 banks were buying from exchange houses at Tk 122.70 to Tk 122.80, down from more than Tk 123 earlier [GM0200, GM0219].",
+  "new_str": "- **March 2025:** at most Tk 123, the ceiling set by the central bank [GM0200].\n- **June 2025:** by late June banks were buying from exchange houses at Tk 122.70 to Tk 122.80, down from more than Tk 123 earlier [GM0219].",
+  "problem": "The bullet says the rate was at most Tk 123 from March to June 2025, then says banks had been paying more than Tk 123 before late June; GM0200 covers March only (and the rate was left to the market in May 2025)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/money/doc.md",
+  "section": "How it works",
+  "old_str": "The Saudi riyals, UAE dirhams and other currency stay abroad, where they are used to under-invoice imports, evade tax or move assets out of Bangladesh [GM0050].",
+  "new_str": "The Saudi riyals, UAE dirhams and other currency stay abroad, he wrote, where they are used for under-invoicing, tax evasion on imports or moving assets out of Bangladesh [GM0050].",
+  "problem": "Mamun Rashid's opinion piece stated as established fact; attribution dropped."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/money/doc.md",
+  "section": "After the change of government",
+  "old_str": "and people in the sector credited the government's tough action against illegal channels together with the incentive [GM0217].",
+  "new_str": "and in June 2025 people in the sector credited the government's tough action against illegal channels together with the incentive [GM0217].",
+  "problem": "GM0217 is from 1 June 2025; the sentence places it in March 2025."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/money/doc.md",
+  "section": "Wage Earners' Development Bond",
+  "old_str": "The US Dollar Premium Bond and the US Dollar Investment Bond already had no limit;",
+  "new_str": "By November 2024 the US Dollar Premium Bond and the US Dollar Investment Bond already had no limit;",
+  "problem": "Contradicts the same section, which says the two US dollar bonds were capped with the Wage Earners' bond from 3 December 2020. The source (pa-2024-11-03-mydcdesdwj, line 17) says their cap was lifted on 4 April 2022; that date is not logged as a fact, so the fix only dates the 'no limit' statement."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/money/doc.md",
+  "section": "By year",
+  "old_str": "The World Bank and KNOMAD had forecast USD 23 billion for 2023 [GM0013].",
+  "new_str": "The World Bank and KNOMAD (the Global Knowledge Partnership on Migration and Development) had forecast USD 23 billion for 2023 [GM0013].",
+  "problem": "Acronym KNOMAD not explained at first use."
+ }
+]

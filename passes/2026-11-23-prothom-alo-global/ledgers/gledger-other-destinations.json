@@ -1,0 +1,883 @@
+{
+ "articles": [
+  {
+   "article_id": "34faa3cf-e343-40c5-ae99-9298a17c2f42",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Libya-to-Europe boat death on the Mediterranean; belongs to the Illegal routes doc (held).",
+   "held": [
+    {
+     "target": "global/illegal-routes",
+     "claim": "On 15 February 2024 a fire on a boat carrying about 52 migrants from the Libyan coast to Europe killed at least 9 off Tunisia, 8 of them Bangladeshis from Madaripur and Gopalganj; Tunisia's navy rescued 26 Bangladeshis, according to the Bangladesh embassy in Libya.",
+     "quote": "জানা গেছে, ওই নৌকায় প্রায় ৫২ অভিবাসনপ্রত্যাশী ছিলেন। তাঁরা ভূমধ্যসাগর হয়ে ইউরোপে যাচ্ছিলেন। ১৫ ফেব্রুয়ারি নৌকায় অগ্নিকাণ্ডে অন্তত ৯ জন নিহত হয়েছেন।"
+    }
+   ]
+  },
+  {
+   "article_id": "ad1ca6a7-d836-404d-8dbb-fb05848e7d7b",
+   "used": true,
+   "fact_ids": [
+    "GO0001",
+    "GO0012"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "415fe53a-3e4e-47c1-9702-fc54e22c1eda",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "About UK-resident Bangladeshi women trolled on TikTok by a man near Paris; no migration fact for France; held for the United Kingdom doc.",
+   "held": [
+    {
+     "target": "countries/united-kingdom",
+     "claim": "Several Bangladeshi women living in the UK told the BBC (April 2024) that a Bangladeshi man in the Paris suburbs, Hasan Sayed, trolled and threatened them on TikTok; complaints to UK police achieved little, according to the women.",
+     "quote": "সুলতানাসহ ভুক্তভোগী আরও কয়েকজন নারী বিবিসিকে জানান, এসব ট্রলের পেছনে জড়িত হাসান সায়েদ নামে বাংলাদেশি এক ব্যক্তি। হাসান ফ্রান্সের প্যারিসের শহরতলিতে থাকেন। টিকটকে হাসানের হাজার হাজার অনুসারী রয়েছে।"
+    }
+   ]
+  },
+  {
+   "article_id": "82593c37-0a4a-44ae-8628-6fa9cf1fae0e",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Malaysia study guide; Malaysia has its own doc (held).",
+   "held": [
+    {
+     "target": "countries/malaysia",
+     "claim": "According to an April 2024 study guide, a Malaysian student visa needs a personal bond of 750 ringgit, refunded at the end of study if no immigration rule was broken.",
+     "quote": "৭৫০ মালয়েশিয়ান রিংগিতের ব্যক্তিগত বন্ড। এটি প্রতিষ্ঠানে শিক্ষার্থীর অধ্যয়ন শেষে ফেরত দেওয়া হবে এই শর্তে যে তিনি মালয়েশিয়ার অভিবাসন আইনের কোনো বিধান লঙ্ঘন করা হয়নি"
+    },
+    {
+     "target": "countries/malaysia",
+     "claim": "According to the April 2024 guide, international students in Malaysia may work part time up to 20 hours a week during semester breaks or holidays, applying through their institution.",
+     "quote": "মালয়েশিয়ায় বিদেশি শিক্ষার্থীদের সেমিস্টার বিরতি বা সপ্তাহান্তের ছুটির দিনগুলো মিলিয়ে সর্বাধিক ২০ ঘণ্টা খণ্ডকালীন কাজ করার অনুমতি দেওয়া হয়। এর সঙ্গে অবশ্য তাদের স্টুডেন্ট পাসের বৈধতার সময়ও জড়িত। খণ্ডকালীন কাজের জন্য আবেদনগুলো অবশ্যই শিক্ষার্থীদের নিজ নিজ শিক্ষাপ্রতিষ্ঠানের মাধ্যমে করতে হয়।"
+    }
+   ]
+  },
+  {
+   "article_id": "a5fd6c36-7489-4c98-a7b4-1371ebe0748c",
+   "used": true,
+   "fact_ids": [
+    "GO0005"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "d96343d1-c9ba-485a-b3ae-d8e53c0efb5e",
+   "used": true,
+   "fact_ids": [
+    "GO0006",
+    "GO0007"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "523c94a0-3a37-4fbd-908a-ea33cd514627",
+   "used": true,
+   "fact_ids": [
+    "GO0008",
+    "GO0009"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "bb13aa3f-5911-4a7d-92b5-85980c43bc58",
+   "used": true,
+   "fact_ids": [
+    "GO0002",
+    "GO0010",
+    "GO0013",
+    "GO0014"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "9b947280-d478-49fb-9e1d-69f36dcbee61",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Duplicate of the Spain seafarers bail report (facts GO0010, GO0013, GO0014).",
+   "held": []
+  },
+  {
+   "article_id": "b046ae7b-77ae-47f6-b935-d6cc484760df",
+   "used": true,
+   "fact_ids": [
+    "GO0003",
+    "GO0004",
+    "GO0011",
+    "GO0015",
+    "GO0016"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "countries/united-kingdom",
+     "claim": "According to a July 2024 report, full-time international students in the UK may work up to 20 hours a week, and graduates may work up to two years on a work visa.",
+     "quote": "পূর্ণ সময়ের বিদেশি শিক্ষার্থীদের অধ্যয়নের শর্তে প্রতি সপ্তাহে ২০ ঘণ্টা পর্যন্ত এবং কোর্স বিরতির সময় বা একাডেমিক প্লেসমেন্টের অংশ হিসেবে পার্ট টাইম কাজ করার সুযোগ রয়েছে। পড়া শেষে গ্র্যাজুয়েট শিক্ষার্থীদের ওয়ার্ক ভিসায় দুই বছর পর্যন্ত কাজ করার সুযোগ দেয় দেশটি।"
+    },
+    {
+     "target": "countries/canada",
+     "claim": "According to a July 2024 report, international students in Canada need no work permit for part-time work on or off campus and may work 20 hours a week during their programme.",
+     "quote": "কানাডায় বিদেশি শিক্ষার্থীদের জন্য ক্যাম্পাসে বা বাইরে খণ্ডকালীন কাজ করার জন্য ওয়ার্ক পারমিটের প্রয়োজন নেই। শিক্ষার্থীরা খণ্ডকালীন কাজ করতে পারেন। শিক্ষার্থীরা তাদের একাডেমিক প্রোগ্রাম চলাকালে সপ্তাহে ২০ ঘণ্টা কাজ করতে পারবেন।"
+    }
+   ]
+  },
+  {
+   "article_id": "6914bfa1-20dc-4d3e-ab78-dad654b875d2",
+   "used": true,
+   "fact_ids": [
+    "GO0017",
+    "GO0018",
+    "GO0019",
+    "GO0020",
+    "GO0021",
+    "GO0022",
+    "GO0023",
+    "GO0024",
+    "GO0025",
+    "GO0026",
+    "GO0027",
+    "GO0028",
+    "GO0037",
+    "GO0038",
+    "GO0039",
+    "GO0040",
+    "GO0041"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "5aaffb5a-8a38-4732-8c98-85c943c81498",
+   "used": true,
+   "fact_ids": [
+    "GO0029",
+    "GO0030",
+    "GO0031",
+    "GO0032",
+    "GO0033",
+    "GO0042",
+    "GO0043",
+    "GO0044",
+    "GO0045",
+    "GO0046",
+    "GO0047",
+    "GO0048",
+    "GO0049",
+    "GO0050"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "46ec565d-56f6-4ea5-88b1-e3bd166af6bc",
+   "used": true,
+   "fact_ids": [
+    "GO0034",
+    "GO0035",
+    "GO0036"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "1fd754b3-648b-4f73-a5dd-88367d639be8",
+   "used": true,
+   "fact_ids": [
+    "GO0051",
+    "GO0052",
+    "GO0053",
+    "GO0054",
+    "GO0055",
+    "GO0056",
+    "GO0057",
+    "GO0058",
+    "GO0059",
+    "GO0060",
+    "GO0070",
+    "GO0071",
+    "GO0072",
+    "GO0073",
+    "GO0074",
+    "GO0075"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "789a3e9e-6467-4a00-9fde-c1feeb24a079",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Personal honour for a Bangladeshi PhD student in China; no usable migration fact beyond the Chinese government scholarship, which article d644bb6c covers.",
+   "held": []
+  },
+  {
+   "article_id": "380c5b61-3944-48c3-a820-5cf32abd1229",
+   "used": true,
+   "fact_ids": [
+    "GO0061",
+    "GO0062"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "9ccf9408-6ac7-4ffd-9432-f0c2db5abcdc",
+   "used": true,
+   "fact_ids": [
+    "GO0063",
+    "GO0064",
+    "GO0065",
+    "GO0066",
+    "GO0067",
+    "GO0068",
+    "GO0069",
+    "GO0076",
+    "GO0077",
+    "GO0078",
+    "GO0079",
+    "GO0080",
+    "GO0081",
+    "GO0082",
+    "GO0083"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "124e6d46-316b-43bd-9d3d-092806d9ede6",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Community festival report (first Durga Puja with idols in Lisbon, 2024); no usable migration fact.",
+   "held": []
+  },
+  {
+   "article_id": "0e0b0f09-caae-43fc-bccf-4318d0f03d19",
+   "used": true,
+   "fact_ids": [
+    "GO0084",
+    "GO0085",
+    "GO0086"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "6be1e56f-4158-4251-a535-07b00a1bccff",
+   "used": true,
+   "fact_ids": [
+    "GO0092",
+    "GO0093",
+    "GO0094",
+    "GO0095"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "5c105a81-b6ba-49bb-93ab-b057eb6b7fbd",
+   "used": true,
+   "fact_ids": [
+    "GO0096",
+    "GO0097"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "5194f614-b62f-489f-b7cb-b17e76f8ff7f",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Opinion piece by a Bangladeshi in Hamburg on the February 2025 German election and the AfD; speculation only, no usable fact for a migrant.",
+   "held": []
+  },
+  {
+   "article_id": "bee8aad2-fafb-4748-917a-beb1f293c2d2",
+   "used": true,
+   "fact_ids": [
+    "GO0087",
+    "GO0088",
+    "GO0089",
+    "GO0090",
+    "GO0091"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "countries/india",
+     "claim": "Since the July 2024 uprising India has kept tourist visas for Bangladeshis closed and gives medical and study visas only on a limited scale (reported December 2024).",
+     "quote": "২০২৪ সালের জুলাই অভ্যুত্থানের পর থেকে বাংলাদেশিদের জন্য পর্যটক ভিসা বন্ধ রেখেছে ভারত। চিকিৎসা ও উচ্চশিক্ষা–সংক্রান্ত ভিসা দেওয়া হচ্ছে, তা–ও সীমিত পরিসরে।"
+    }
+   ]
+  },
+  {
+   "article_id": "7d353b54-7764-4ddc-a429-cd51bb478727",
+   "used": true,
+   "fact_ids": [
+    "GO0098",
+    "GO0099",
+    "GO0100",
+    "GO0101",
+    "GO0102",
+    "GO0103",
+    "GO0104",
+    "GO0105",
+    "GO0106",
+    "GO0109",
+    "GO0110",
+    "GO0111"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ea5c17bc-a3ac-4d05-92bb-644e3637d54a",
+   "used": true,
+   "fact_ids": [
+    "GO0107",
+    "GO0108"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "afb241c2-fe2d-4ca6-86df-fbcd07e94e6d",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Republished version of the February 2025 Ireland doctors-and-nurses article (7d353b54); duplicate of facts GO0098 to GO0111.",
+   "held": []
+  },
+  {
+   "article_id": "e60fc520-64ba-475d-b5cc-4fa17c17a53a",
+   "used": true,
+   "fact_ids": [
+    "GO0112",
+    "GO0113",
+    "GO0126",
+    "GO0127",
+    "GO0128",
+    "GO0129"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "20e0a94d-187b-4090-955a-9ec2b6c55374",
+   "used": true,
+   "fact_ids": [
+    "GO0114",
+    "GO0115"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "344eb37a-7f71-4e55-b594-fdd8add3b5ec",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Ceremony at the Bangladesh embassy in Bahrain (July uprising and remittance day, August 2025); no usable migration fact.",
+   "held": []
+  },
+  {
+   "article_id": "0f81b140-a1d0-44c3-b04e-1371e4b2077b",
+   "used": true,
+   "fact_ids": [
+    "GO0116",
+    "GO0117",
+    "GO0118",
+    "GO0119",
+    "GO0130",
+    "GO0131"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "4a2c0dec-6331-497e-b015-19971053cc86",
+   "used": true,
+   "fact_ids": [
+    "GO0120",
+    "GO0121",
+    "GO0122",
+    "GO0123",
+    "GO0132",
+    "GO0133",
+    "GO0134",
+    "GO0135",
+    "GO0136",
+    "GO0137",
+    "GO0138",
+    "GO0139"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "afae66f4-bee3-47a0-8bfb-111ac010cb0f",
+   "used": true,
+   "fact_ids": [
+    "GO0124",
+    "GO0125",
+    "GO0140",
+    "GO0141"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "efae16d0-9a0f-43e7-ad09-68762e94f738",
+   "used": true,
+   "fact_ids": [
+    "GO0142",
+    "GO0143",
+    "GO0144",
+    "GO0161",
+    "GO0162",
+    "GO0163"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "e35a99b9-38b6-4cc8-8e9d-17b4b970bfd5",
+   "used": true,
+   "fact_ids": [
+    "GO0145",
+    "GO0146"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "5a9307ab-3be8-4eaf-bfac-736c38f038a3",
+   "used": true,
+   "fact_ids": [
+    "GO0164",
+    "GO0165"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ccdf1746-c51b-4f45-9c6d-71174d940735",
+   "used": true,
+   "fact_ids": [
+    "GO0147",
+    "GO0148",
+    "GO0166",
+    "GO0167",
+    "GO0172"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "9f61863d-7ad0-4336-b19e-7f33ab0033f5",
+   "used": true,
+   "fact_ids": [
+    "GO0149",
+    "GO0150",
+    "GO0151"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ea6ccd47-912f-472d-9451-434a9571c5fb",
+   "used": true,
+   "fact_ids": [
+    "GO0152",
+    "GO0153",
+    "GO0154",
+    "GO0168",
+    "GO0169"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "4404389a-cc64-4ae1-a6e3-5f9d6b318a39",
+   "used": true,
+   "fact_ids": [
+    "GO0155",
+    "GO0156",
+    "GO0157",
+    "GO0158",
+    "GO0159",
+    "GO0160",
+    "GO0170",
+    "GO0171"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "d831fe8c-c321-449c-a0ab-2987b1777cca",
+   "used": true,
+   "fact_ids": [
+    "GO0173",
+    "GO0174",
+    "GO0175",
+    "GO0176",
+    "GO0193",
+    "GO0212",
+    "GO0213",
+    "GO0214"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "1896d355-8faf-455d-88d8-80ef03f0463a",
+   "used": true,
+   "fact_ids": [
+    "GO0177",
+    "GO0178"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "58640294-4712-4654-9b94-e8f0eab36ff5",
+   "used": true,
+   "fact_ids": [
+    "GO0179",
+    "GO0180",
+    "GO0181",
+    "GO0182",
+    "GO0183",
+    "GO0194",
+    "GO0195"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "0b0ecb33-9115-4a2e-a0eb-35c7849753eb",
+   "used": true,
+   "fact_ids": [
+    "GO0184",
+    "GO0196",
+    "GO0197"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "9503ac7e-8504-4d50-ac26-184a9625ed37",
+   "used": true,
+   "fact_ids": [
+    "GO0185",
+    "GO0186"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "05aefa7f-be32-4297-9583-3a5efc87bb9d",
+   "used": true,
+   "fact_ids": [
+    "GO0187",
+    "GO0198",
+    "GO0199",
+    "GO0200",
+    "GO0201",
+    "GO0202",
+    "GO0203",
+    "GO0204",
+    "GO0205",
+    "GO0206",
+    "GO0207",
+    "GO0208",
+    "GO0209",
+    "GO0210",
+    "GO0211"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ac16340f-a89d-4e47-a7cd-db0875150fd8",
+   "used": true,
+   "fact_ids": [
+    "GO0188",
+    "GO0189",
+    "GO0190",
+    "GO0191",
+    "GO0192"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "a555cada-0382-4746-80f4-2b221112286c",
+   "used": true,
+   "fact_ids": [
+    "GO0215",
+    "GO0216",
+    "GO0234",
+    "GO0235",
+    "GO0236",
+    "GO0237"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "73fd2dec-9954-4618-8842-c62ddc72dcd7",
+   "used": true,
+   "fact_ids": [
+    "GO0217",
+    "GO0218",
+    "GO0219",
+    "GO0220"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "f8f389a3-f3db-45b6-80c0-3e7d1a9897fa",
+   "used": true,
+   "fact_ids": [
+    "GO0221",
+    "GO0222",
+    "GO0223"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "41a1f274-84e4-4024-baa9-7963a9add555",
+   "used": true,
+   "fact_ids": [
+    "GO0224",
+    "GO0225",
+    "GO0226",
+    "GO0227",
+    "GO0238",
+    "GO0239",
+    "GO0240",
+    "GO0241",
+    "GO0242",
+    "GO0244",
+    "GO0245"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "26e356e3-1295-455c-9ae7-a63bbf883ade",
+   "used": true,
+   "fact_ids": [
+    "GO0228",
+    "GO0229",
+    "GO0230",
+    "GO0231",
+    "GO0232",
+    "GO0233",
+    "GO0243",
+    "GO0246",
+    "GO0247",
+    "GO0248"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "49d38ef1-462d-4630-83ff-5a8c376eaa6e",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Conference talk on the Iran war's risks to Bangladesh's energy and Gulf remittances; general, not about any country this doc covers (held).",
+   "held": [
+    {
+     "target": "global/money",
+     "claim": "In July 2026 a Chinese researcher, Jin Liangxiang of the Shanghai Institute of International Studies, said in Dhaka that if Gulf Cooperation Council economies fall into serious crisis because of the Iran war, Bangladeshi workers there could lose their jobs.",
+     "quote": "সময়ের সঙ্গে সঙ্গে জিসিসি দেশগুলোর অর্থনীতি গুরুতর সংকটে পড়লে, এই দেশগুলোতে এই প্রবাসীরা কাজ হারাতে পারেন।"
+    }
+   ]
+  },
+  {
+   "article_id": "af4c2eb5-2d83-430e-99fe-eb127d89d554",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "DAAD Young Ambassador programme is an unpaid promotional role for people who already studied in Germany; no migration route or fact a migrant would act on.",
+   "held": []
+  },
+  {
+   "article_id": "97ce745c-3632-4d9d-af31-6c3496f2da5d",
+   "used": true,
+   "fact_ids": [
+    "GO0249",
+    "GO0259",
+    "GO0260"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "dd422ac6-ad25-47ad-868e-fb849856f242",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Libya-to-Greece boat that drifted to Egypt; belongs to the Illegal routes doc (held).",
+   "held": [
+    {
+     "target": "global/illegal-routes",
+     "claim": "On 3 August 2026, 42 people (38 Bangladeshis, 4 Sudanese) left Tobruk, Libya, for Greece in a rubber boat with a speedboat engine and no navigation; told it would take about 36 hours, they ran out of fuel and drifted about 10 days to Marsa Matruh, Egypt, on 13 August, according to a survivor quoted by the Bangladesh embassy in Cairo.",
+     "quote": "৩ আগস্ট ৩৮ জন বাংলাদেশি ও ৪ জন সুদানিসহ মোট ৪২ জন লিবিয়ার তবরুক থেকে গ্রিসের উদ্দেশে একটি রাবারের নৌকায় যাত্রা করেন। নৌকাটি একটি স্পিডবোট ইঞ্জিন দিয়ে চলছিল। নৌকায় কোনো নেভিগেশনব্যবস্থা ছিল না। যাত্রার আগে তাঁদের জানানো হয়েছিল, ভূমধ্যসাগর পাড়ি দিয়ে গ্রিসে পৌঁছাতে প্রায় ৩৬ ঘণ্টা লাগবে।"
+    },
+    {
+     "target": "global/illegal-routes",
+     "claim": "Nine Bangladeshis and one Sudanese died of heat, sun, hunger and thirst while drifting, and survivors had to put the decomposing bodies into the sea; 29 Bangladeshis were rescued, 18 of them seriously ill, and treated at Marsa Matruh General Hospital (Bangladesh embassy in Cairo, August 2026).",
+     "quote": "সমুদ্রে ভাসমান অবস্থায় তীব্র গরম, প্রচণ্ড সূর্যের তাপ, খাদ্য ও পানির অভাবে ৯ জন বাংলাদেশি ও ১ জন সুদানিসহ মোট ১০ জন অসুস্থ হয়ে মারা যান। একপর্যায়ে মৃতদেহগুলোয় পচন ধরে। তখন মৃতদেহগুলো সমুদ্রে ভাসিয়ে দিতে বাধ্য হন জীবিত যাত্রীরা।"
+    }
+   ]
+  },
+  {
+   "article_id": "af286b71-aa6c-4594-b767-60f0085d40fc",
+   "used": true,
+   "fact_ids": [
+    "GO0250",
+    "GO0251",
+    "GO0252"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/dalal-scams",
+     "claim": "A doctoral researcher wrote in August 2026 that dishonest study-abroad agencies in Bangladesh sometimes arrange fake or staged bank statements and English certificates and promise unrealistic jobs abroad, and that when the visa is refused the students bear the biggest loss.",
+     "quote": "কখনো কখনো ভুয়া বা সাজানো ব্যাংক স্টেটমেন্ট তৈরি, ইংরেজি দক্ষতার সনদ জোগাড় কিংবা বিদেশে কর্মসংস্থানের অবাস্তব আশ্বাসও দেওয়া হয়। কিন্তু শেষ পর্যন্ত ভিসা প্রত্যাখ্যাত হলে সবচেয়ে বড় ক্ষতির মুখে পড়েন শিক্ষার্থীরাই।"
+    }
+   ]
+  },
+  {
+   "article_id": "c93e235c-4fe2-4dc3-8594-0972d9a634ec",
+   "used": true,
+   "fact_ids": [
+    "GO0253",
+    "GO0261",
+    "GO0262"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "countries/malaysia",
+     "claim": "Several units of Indonesia's navy detained 16 migrant workers entering Riau province illegally from Malaysia (reported 4 September 2026).",
+     "quote": "মালয়েশিয়া থেকে অবৈধ পথে ইন্দোনেশিয়ার রিয়াউ প্রদেশে প্রবেশের সময় ১৬ অভিবাসী শ্রমিককে আটক করেছে দেশটির নৌবাহিনীর কয়েকটি ইউনিট।"
+    }
+   ]
+  },
+  {
+   "article_id": "d195d36c-1346-485a-bec9-b431b51f88a4",
+   "used": true,
+   "fact_ids": [
+    "GO0254",
+    "GO0255",
+    "GO0256",
+    "GO0257",
+    "GO0258",
+    "GO0263",
+    "GO0264",
+    "GO0265",
+    "GO0266"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "01600c44-7eac-4831-91a3-b576f949bf4d",
+   "used": true,
+   "fact_ids": [
+    "GO0267",
+    "GO0268",
+    "GO0269",
+    "GO0270",
+    "GO0271",
+    "GO0272",
+    "GO0290",
+    "GO0291",
+    "GO0292"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "d5586648-7e83-4b88-96f0-982fdf1b7f8a",
+   "used": true,
+   "fact_ids": [
+    "GO0273",
+    "GO0274",
+    "GO0275",
+    "GO0276",
+    "GO0277",
+    "GO0278",
+    "GO0293",
+    "GO0294"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ac9bc393-4f74-4ea5-9cc9-39ddcac17684",
+   "used": true,
+   "fact_ids": [
+    "GO0279",
+    "GO0280",
+    "GO0295",
+    "GO0296"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/dalal-scams",
+     "claim": "A Bangladeshi academic in Australia wrote in October 2026 that some dishonest intermediaries in Bangladesh mislead applicants with unrealistic guarantees of study, jobs or permanent residence abroad and take money by giving incomplete or false information on visa conditions, real costs and prospects.",
+     "quote": "কিছু অসাধু মধ্যস্থতাকারী বিদেশে পড়াশোনা, চাকরি কিংবা স্থায়ী বসবাসের অবাস্তব নিশ্চয়তা দিয়ে সম্ভাব্য আবেদনকারীদের বিভ্রান্ত করতে পারে। কেউ কেউ ভিসার শর্ত, প্রকৃত ব্যয়, শিক্ষাগত যোগ্যতা কিংবা অভিবাসনের বাস্তব সম্ভাবনা সম্পর্কে অসম্পূর্ণ বা ভুল তথ্য প্রদান করে আর্থিক সুবিধা গ্রহণ করে।"
+    }
+   ]
+  },
+  {
+   "article_id": "3862f6e1-9fd9-4dd3-ba70-47f60f832b1c",
+   "used": true,
+   "fact_ids": [
+    "GO0281",
+    "GO0282",
+    "GO0283",
+    "GO0297",
+    "GO0298",
+    "GO0299",
+    "GO0303",
+    "GO0304"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "0f352ac2-a310-4904-8b5f-9ade028b937f",
+   "used": true,
+   "fact_ids": [
+    "GO0284",
+    "GO0285",
+    "GO0286",
+    "GO0300"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "d644bb6c-3259-42b9-bbae-4dace6a67ed2",
+   "used": true,
+   "fact_ids": [
+    "GO0287",
+    "GO0288",
+    "GO0289",
+    "GO0301",
+    "GO0302"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  }
+ ]
+}

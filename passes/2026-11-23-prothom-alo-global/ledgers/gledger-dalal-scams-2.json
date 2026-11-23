@@ -1,0 +1,173 @@
+{
+ "articles": [
+  {
+   "article_id": "8d8a2f8e-f306-4b23-8f68-02d3c7785359",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Video blurb; no usable fact for the Dalal scams doc.",
+   "held": [
+    {
+     "target": "global/services",
+     "claim": "At a Badabon Sangho and Prothom Alo roundtable (May 2026) the state minister for expatriates' welfare spoke of plans for a special fund for returnees' rehabilitation and for legal protection.",
+     "quote": "অনুষ্ঠানে প্রবাসীকল্যাণ প্রতিমন্ত্রী বিদেশফেরতদের পুনর্বাসনে বিশেষ তহবিল গঠন ও আইনি সুরক্ষার পরিকল্পনার কথা জানান।"
+    }
+   ]
+  },
+  {
+   "article_id": "68b80a0d-f879-40ae-acd1-b351d4998507",
+   "used": true,
+   "fact_ids": [
+    "GS0054",
+    "GS0055",
+    "GS0056",
+    "GS0057",
+    "GS0058"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "bf166e6f-871a-4dd8-abdb-6b372bdb72a4",
+   "used": true,
+   "fact_ids": [
+    "GS0059"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/money",
+     "claim": "A June 2026 Prothom Alo column said migrants sent home about USD 26.89 billion in 2024, and more than about 10 lakh Bangladeshis went abroad for work in the same period.",
+     "quote": "২০২৪ সালে প্রবাসীরা দেশে পাঠিয়েছেন প্রায় ২৬.৮৯ বিলিয়ন মার্কিন ডলার। একই সময়ে প্রায় ১০ লাখের বেশি বাংলাদেশি কর্মসংস্থানের জন্য বিদেশে গেছেন।"
+    }
+   ]
+  },
+  {
+   "article_id": "5b9abbf4-283c-490c-ad05-29af8aef39a5",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Bribes and a dalal ring at an upazila election office for NIDs belong with the papers steps in the Departure doc; held.",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "On 10 September 2026 Bahrain-based Rasel Molla went to the Goalanda (Rajbari) upazila election office for a new NID; the election officer demanded a Tk 5,000 bribe and Molla, after pleading, paid Tk 2,000. (He filmed it; the officer was transferred to Jhenaidah on 16 September pending inquiry.)",
+     "quote": "১০ সেপ্টেম্বর নতুন ভোটার আইডি কার্ডের জন্য গোয়ালন্দ উপজেলা নির্বাচন কার্যালয়ে যান বাহরাইনপ্রবাসী উপজেলার উজানচরের বাসিন্দা রাসেল মোল্লা। এ সময় উপজেলা নির্বাচন কর্মকর্তা খবিরুল আলম এ কাজের জন্য পাঁচ হাজার টাকা ঘুষ দাবি করেন। এ সময় অনেক আকুতি-মিনতি করে তাঁকে দুই হাজার টাকা দেন রাসেল মোল্লা।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "It is alleged (alongside a claim that local computer shops are part of a dalal ring at the office) that new NIDs and corrections of names and parents' names are done easily for bribes of Tk 5,000 to over Tk 50,000 per job at the Goalanda election office.",
+     "quote": "নতুন জাতীয় পরিচয়পত্র করে দেওয়া, নামের ভুল বানান সংশোধন করা, বাবা ও মায়ের নাম সংশোধন করাসহ যাবতীয় কাজ খুব সহজে হয়ে যায়। একেকটি কাজে তাঁরা সর্বনিম্ন পাঁচ হাজার টাকা থেকে অর্ধলক্ষাধিক টাকা ঘুষ নেওয়ার অভিযোগ রয়েছে।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "An unnamed person said he paid Tk 50,000 for a voter ID to go abroad urgently, and that nobody in that office works without money.",
+     "quote": "নাম প্রকাশ না করার শর্তে এক ব্যক্তি বলেন, ‘আমি জরুরি ভিত্তিতে বিদেশে যাওয়ার জন্য ৫০ হাজার টাকা দিয়ে ভোটার আইডি করেছি। এই অফিসে কেউ টাকা ছাড়া কোনো কাজ করে না।’"
+    }
+   ]
+  },
+  {
+   "article_id": "3984d79f-d687-48ce-973b-484e075189c7",
+   "used": true,
+   "fact_ids": [
+    "GS0060",
+    "GS0061"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "f26e526a-a0ae-420d-ad8a-c0f66b38a919",
+   "used": true,
+   "fact_ids": [
+    "GS0062",
+    "GS0063",
+    "GS0064",
+    "GS0065"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "d1934203-e1ea-43a1-9bf1-651d2a03ac40",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Duplicate of facts GS0066, GS0067, GS0069, GS0070 (same Faruk Hossain audio, expulsion and denial, logged from the 6 Oct follow-up).",
+   "held": []
+  },
+  {
+   "article_id": "2c14645b-73d8-4b41-bad1-99f86dbe5e22",
+   "used": true,
+   "fact_ids": [
+    "GS0066",
+    "GS0067",
+    "GS0068",
+    "GS0069",
+    "GS0070"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "6ec64e02-b0e9-4e80-beb7-2e8506278e10",
+   "used": true,
+   "fact_ids": [
+    "GS0071",
+    "GS0072",
+    "GS0073"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/money",
+     "claim": "The state minister said on 13 October 2026 that the government plans a 3 percent incentive on remittances sent legally by Probashi card holders, against the current 2.5 percent for remittances sent through banks.",
+     "quote": "প্রবাসী কার্ডধারীদের বৈধ পথে পাঠানো রেমিট্যান্সে ৩ শতাংশ প্রণোদনা দেওয়ার পরিকল্পনা রয়েছে বলে জানিয়েছেন প্রবাসীকল্যাণ ও বৈদেশিক কর্মসংস্থান প্রতিমন্ত্রী মো. নুরুল হক।\nপ্রতিমন্ত্রী বলেছেন, বর্তমানে বৈধ পথে ব্যাংকের মাধ্যমে রেমিট্যান্স পাঠালে প্রবাসীরা ২ দশমিক ৫ শতাংশ প্রণোদনা পান।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "The state minister said migrants complain of dalals' dominance and extra cost when getting a passport, of not getting the promised work abroad, of no help from Bangladesh embassies, and of mismanagement at the airport.",
+     "quote": "প্রবাসীদের সমস্যার কথা তুলে ধরে নুরুল হক বলেন, পাসপোর্ট করতে গিয়ে দালালের দৌরাত্ম্য ও অতিরিক্ত খরচ, বিদেশে প্রতিশ্রুত কাজ না পাওয়া এবং বাংলাদেশ দূতাবাস থেকে প্রয়োজনীয় সহায়তা না পাওয়ার অভিযোগ রয়েছে। বিমানবন্দরের অব্যবস্থাপনা নিয়েও ভোগান্তিতে পড়েন প্রবাসীরা।"
+    },
+    {
+     "target": "global/services",
+     "claim": "The state minister said help, training and rehabilitation for workers who return harmed within six months of going abroad is provided through the RACE project, run with World Bank and donor support.",
+     "quote": "বিদেশে যাওয়ার ছয় মাসের মধ্যে বিভিন্ন কারণে ক্ষতিগ্রস্ত হয়ে দেশে ফিরে আসা কর্মীদের সহায়তা, প্রশিক্ষণ ও পুনর্বাসনের উদ্যোগ নেওয়া হয়েছে জানিয়ে প্রতিমন্ত্রী বলেন, বিশ্বব্যাংক ও আন্তর্জাতিক দাতা সংস্থার সহায়তায় চলমান ‘রেস’ প্রকল্পের মাধ্যমে এ কাজ করা হচ্ছে।"
+    },
+    {
+     "target": "global/services",
+     "claim": "The state minister said steps are being taken to settle migrants' land-related legal problems quickly, with a plan, discussed with the land and law ministries, to resolve them on priority within seven days.",
+     "quote": "জমিজমা–সংক্রান্ত আইনি জটিলতা দ্রুত নিষ্পত্তির উদ্যোগ নেওয়া হচ্ছে বলেও জানান প্রতিমন্ত্রী। এ জন্য ভূমি ও আইন মন্ত্রণালয়ের সঙ্গে আলোচনা করে সাত দিনের মধ্যে অগ্রাধিকার ভিত্তিতে সমস্যা সমাধানের ব্যবস্থা করার পরিকল্পনা রয়েছে।"
+    }
+   ]
+  },
+  {
+   "article_id": "5eea8fee-d7e6-4f78-b980-171a3e52ff1c",
+   "used": true,
+   "fact_ids": [
+    "GS0074",
+    "GS0075",
+    "GS0076",
+    "GS0077",
+    "GS0078"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "c12e7f17-6506-4271-8bdb-795ad94acbd1",
+   "used": true,
+   "fact_ids": [
+    "GS0079",
+    "GS0080",
+    "GS0081"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "7835ab61-66e0-4a19-be97-ae1642c08467",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: an anonymous letter in a mosque donation box from a 'cheated person bound for abroad', with no names, amounts, route or place.",
+   "held": []
+  }
+ ]
+}

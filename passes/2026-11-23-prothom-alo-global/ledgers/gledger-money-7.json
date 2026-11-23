@@ -1,0 +1,206 @@
+{
+ "articles": [
+  {
+   "article_id": "7a2971d7-6a6f-47d9-a99b-34a3d7de629d",
+   "used": true,
+   "fact_ids": [
+    "GM0322",
+    "GM0323",
+    "GM0324"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "6adefe54-6906-4b3d-9b6a-b435455af955",
+   "used": true,
+   "fact_ids": [
+    "GM0325",
+    "GM0326",
+    "GM0327",
+    "GM0328",
+    "GM0329",
+    "GM0330",
+    "GM0331",
+    "GM0332",
+    "GM0333"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "bcd46d8c-85a5-42ec-ba4f-f04b31896b6b",
+   "used": true,
+   "fact_ids": [
+    "GM0334",
+    "GM0335",
+    "GM0336",
+    "GM0337",
+    "GM0338",
+    "GM0339",
+    "GM0340",
+    "GM0341"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "3ecfc880-22cf-4ef6-80d2-6a2a3e8d9877",
+   "used": true,
+   "fact_ids": [
+    "GM0342",
+    "GM0343",
+    "GM0344"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "132c35d5-dfa7-42c2-97ad-329f8c7fa660",
+   "used": true,
+   "fact_ids": [
+    "GM0345"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "c582153d-9ef1-4dbd-915a-41ee8acd1a5b",
+   "used": true,
+   "fact_ids": [
+    "GM0346",
+    "GM0347",
+    "GM0348",
+    "GM0349"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "6f9ea419-8481-4ebe-a889-61d32fc3faec",
+   "used": true,
+   "fact_ids": [
+    "GM0350",
+    "GM0351"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "cd02fc01-d243-4557-aac3-29bb4e226de9",
+   "used": true,
+   "fact_ids": [
+    "GM0352"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "09b7ec87-267d-4d25-a6a0-e8e69414dc78",
+   "used": true,
+   "fact_ids": [
+    "GM0364",
+    "GM0365",
+    "GM0366"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "79c13328-0b05-4556-b582-819e4ac5b278",
+   "used": true,
+   "fact_ids": [
+    "GM0367",
+    "GM0368",
+    "GM0369"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "4ea7c7b3-e263-4666-a1de-70f30e302347",
+   "used": true,
+   "fact_ids": [
+    "GM0353",
+    "GM0354",
+    "GM0355"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "8123bfd3-f4b3-4226-8c4f-8d3c20df07d8",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of GM0353/GM0354 (September 2026 total and 3% rise); export figures not about migrants",
+   "held": []
+  },
+  {
+   "article_id": "28a520d5-dd57-42b2-be38-ecb1fcf0540d",
+   "used": true,
+   "fact_ids": [
+    "GM0370"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/faq",
+     "claim": "An October 2026 column said Middle East-bound workers get only a three-day pre-departure orientation (PDO), too short to learn basic Arabic.",
+     "quote": "বর্তমানে মধ্যপ্রাচ্যগামী কর্মীদের জন্য তিন দিনের প্রাক্‌-বহির্গমন ওরিয়েন্টেশন বা পিডিও প্রশিক্ষণ রয়েছে।"
+    },
+    {
+     "target": "global/faq",
+     "claim": "The column said Arabic instructors were appointed at 32 TTCs but there is no clear policy on their duties or future; they are sometimes told to teach other trades.",
+     "quote": "আরও উদ্বেগের বিষয় হলো, দেশের ৩২টি টিটিসিতে আরবি ভাষার প্রশিক্ষক নিয়োগ দেওয়া হলেও তাঁদের দায়িত্ব ও ভবিষ্যৎ নিয়ে স্পষ্ট নীতিমালা নেই। কখনো তাঁদের আরবি শেখাতে বলা হচ্ছে, কখনো অন্য ট্রেডের ক্লাস নিতে বলা হচ্ছে।"
+    }
+   ]
+  },
+  {
+   "article_id": "01709bc3-5360-4dfe-9c87-383d3dd5cdfd",
+   "used": true,
+   "fact_ids": [
+    "GM0371",
+    "GM0372",
+    "GM0373",
+    "GM0375",
+    "GM0376",
+    "GM0377",
+    "GM0378"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "d8f7dd05-7a72-439e-b815-0c7597814f66",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: chamber interview on industry; only an estimate of 90,000 people from Chapainawabganj abroad, no bearing on sending money",
+   "held": []
+  },
+  {
+   "article_id": "5a9ee8e5-3489-42af-a17e-5f2578a2f8f5",
+   "used": true,
+   "fact_ids": [
+    "GM0356",
+    "GM0357",
+    "GM0358",
+    "GM0359",
+    "GM0360",
+    "GM0361",
+    "GM0362",
+    "GM0363"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "e6b95339-f8a0-4d40-9103-b0e144b3ec47",
+   "used": true,
+   "fact_ids": [
+    "GM0374"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  }
+ ]
+}

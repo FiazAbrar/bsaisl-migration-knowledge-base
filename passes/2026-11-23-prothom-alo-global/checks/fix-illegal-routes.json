@@ -1,0 +1,51 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/illegal-routes/doc.md",
+  "section": "The numbers",
+  "old_str": "- 27 October 2026: 174, of whom 36 had been held in Tajoura after being caught at sea and 41 were ill, with 175 more due from Misrata the next day [GI0166, GI0167, GI0168].",
+  "new_str": "- 27 October 2026: 174, of whom 36 had been held in a detention camp in Tripoli after being caught at sea and 41 were ill, with 175 more due from Misrata the next day [GI0166, GI0167, GI0168].",
+  "problem": "GI0166 says a Tripoli detention camp (ত্রিপলীর একটি বন্দিশিবির), not Tajoura; the sentence names a specific centre the source does not."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/illegal-routes/doc.md",
+  "section": "The law",
+  "old_str": "- **March 2026, Sunamganj.** After the deaths of 12 Sunamganj men on the way from Libya to Greece, cases were filed",
+  "new_str": "- **March 2026, Sunamganj.** After the deaths of Sunamganj men on the way from Libya to Greece (12, according to this Prothom Alo report of 31 March 2026; Prothom Alo's report of 5 April 2026 under Deaths gives 13), cases were filed",
+  "problem": "Deaths section says 13 of the dead were from Sunamganj [GI0251, GI0252]; this section states 12 as fact. Two sections give different figures for the same deaths without saying so."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/illegal-routes/doc.md",
+  "section": "Legal jobs in Russia",
+  "old_str": "- **Through brokers:** Zakir Hossain of Bhairab was sent on 4 February 2025 for Tk 7 lakh (Tk 4 lakh from selling land, Tk 2 lakh from an NGO loan) to a job at the Amur gas chemical complex paying about Tk 60,000 a month, which after his own costs left little to send home; he still owed about Tk 1.5 lakh when an explosion",
+  "new_str": "- **Other jobs:** Zakir Hossain of Bhairab was sent on 4 February 2025 for Tk 7 lakh (Tk 4 lakh from selling land, Tk 2 lakh from an NGO loan) to a job at the Amur gas chemical complex paying about Tk 60,000 a month, which after his own costs left little to send home; the family still owed about Tk 1.5 lakh when an explosion",
+  "problem": "The label 'Through brokers' is unsupported: neither GI0277/GI0278 nor the source article (pa-2026-08-30-28hfawshvh) says Zakir went through a broker or agency, and Sagar went with a former shop manager's help. GI0278 says the family, not Zakir, still owed the money."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/illegal-routes/doc.md",
+  "section": "Deaths",
+  "old_str": "AFP reported 77 aboard, 51 rescued, one body found and 25 missing [GI0373, GI0374].",
+  "new_str": "the news agency AFP (Agence France-Presse) reported 77 aboard, 51 rescued, one body found and 25 missing [GI0373, GI0374].",
+  "problem": "AFP is used here for the first time in the doc without being explained."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/illegal-routes/doc.md",
+  "section": "How it is sold",
+  "old_str": "- a cleaning job: in the AP investigation reported in January 2026,",
+  "new_str": "- a cleaning job: in an investigation by AP (the Associated Press, a US news agency) reported in January 2026,",
+  "problem": "AP is used here for the first time in the doc without being explained."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/illegal-routes/doc.md",
+  "section": "Where victims and families get help",
+  "old_str": "and the Welfare Board's RAISE project director said he would be given the help he needs [GI0086, GI0084, GI0085, GI0087].",
+  "new_str": "and the director of RAISE, a Wage Earners' Welfare Board project, said he would be given the help he needs [GI0086, GI0084, GI0085, GI0087].",
+  "problem": "RAISE is an unexplained acronym; the source gives no expansion, so the doc should at least say what it is (a Welfare Board project)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/illegal-routes/doc.md",
+  "section": "The group of 30",
+  "old_str": "> - Was the group held in the hotel for three days, as the families' complaint says [PA0025], or four, as Rajon Hossain says [RU0086]?",
+  "new_str": "> - Was the group held in the hotel for three days, as the families' complaint says [PA0025], or four, as Rajon Hossain says [RU0086]?\n> - How long were the 30 trained and how were they split: 21 days and groups of 16, 8 and 6 (Prothom Alo, from the two returnees) [RU0084], three to four days and groups of 14 and 16 (Arman Ali, June 2026) [GI0419], or five days (Ali Hasan Sohel, October 2026) [GI0297]?",
+  "problem": "The new Arman Ali and Ali Hasan Sohel accounts (3-4 days, 14/16; 5 days) contradict the existing 'After 21 days of training ... groups of 16, 8 and 6' [RU0084] in the same list, with no note of the conflict."
+ }
+]

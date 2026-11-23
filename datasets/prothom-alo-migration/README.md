@@ -14,6 +14,7 @@ The article texts are Prothom Alo's and remain its copyright; they are shared he
 | `extraction/per-article/articles-extracted.jsonl` | 1,597 | One record per flagged story read in full by an AI reader (1,394 judged relevant): relevant, not_relevant_reason, kinds, countries, summary_en, facts (8,542: type, country, date, statement), named_actors, people_cases, key_quote_bn. Brief: `SPEC.md`. |
 | `extraction/scam-cases/scam-cases.jsonl` and `.csv` | 184 | One record per fraud or trafficking case: destination promised, route, job and wage promised, visa claimed, amounts, payment method, how the money was raised, perpetrator type and names, how they met, trust devices, timeline, harm, ransom, official response, money recovered, key quote. Brief: `SPEC.md`. |
 | `extraction/agency-flags/agency-flags.json` | 262 | One row per agency, travel firm or consultancy linked to cheating or trafficking: name as printed, RL number if printed, match to BMET's licence list, flag type, date, summary, exact Bangla quote, people named. Brief: `SPEC.md`. |
+| `coverage/ledger.csv` | 1,904 | One row per story any pass looked at: id, url, published, headline, relevant, status, docs, fact_ids (count), passes, reason. |
 | `scripts/` | | `harvest.py` (the harvester), `classify.py` (the relevance filter), and the keyword lists for the second and third search passes. |
 
 Ids: every record carries Prothom Alo's story id (`id` or `article_id`), so the files join on it.
@@ -27,7 +28,7 @@ Ids: every record carries Prothom Alo's story id (`id` or `article_id`), so the 
 
 ## How it was used
 
-This repo records each use in `passes/`: one folder per pass with its briefs, drafts, checks and scripts. Every fact taken into a doc is logged in that doc's `facts.csv` with an exact Bangla quote, and the article is saved under the doc's `sources/` as `pa-<date>-<slug>.md`. A coverage ledger (which pass used each relevant article, or why not) will be added here as `coverage/ledger.csv` when the current passes finish.
+This repo records each use in `passes/`: one folder per pass with its briefs, drafts, checks and scripts. Every fact taken into a doc is logged in that doc's `facts.csv` with an exact Bangla quote, and the article is saved under the doc's `sources/` as `pa-<date>-<slug>.md`. `coverage/ledger.csv` lists every story any pass looked at (1,904) with its status (used in a doc, read with nothing new, not relevant, or used in an earlier pass), the docs it feeds, how many facts, and the passes that read it. None is left unaccounted for.
 
 ## Known limits
 

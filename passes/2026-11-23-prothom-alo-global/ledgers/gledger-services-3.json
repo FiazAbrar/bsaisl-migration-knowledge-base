@@ -1,0 +1,230 @@
+{
+ "articles": [
+  {
+   "article_id": "8afef0a9-4e0b-44db-9a4a-a501da1aa9f0",
+   "used": true,
+   "fact_ids": [
+    "GV0146",
+    "GV0147",
+    "GV0148",
+    "GV0149",
+    "GV0150",
+    "GV0151"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "7edbe8d1-b962-43e2-8019-872953d30242",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of OEP facts already in global/faq (CQ0224-CQ0228: OEP built with ILO and Swiss government, free registration and clearance, links agencies, BMET, TTCs, employers, immigration)",
+   "held": []
+  },
+  {
+   "article_id": "578f6b4d-beb2-47ce-b6c2-d3926793ca09",
+   "used": true,
+   "fact_ids": [
+    "GV0152",
+    "GV0153",
+    "GV0154",
+    "GV0155",
+    "GV0156",
+    "GV0157",
+    "GV0158",
+    "GV0159",
+    "GV0160",
+    "GV0161",
+    "GV0162",
+    "GV0163",
+    "GV0164"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "295ccddc-c5ad-494a-9b64-e8ca5b3eddea",
+   "used": true,
+   "fact_ids": [
+    "GV0165",
+    "GV0166",
+    "GV0167",
+    "GV0168",
+    "GV0169"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "bb6c28fa-f3f2-40e6-a4f2-3cfe41f67f61",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no services fact; postal voting for migrants held for global/faq",
+   "held": [
+    {
+     "target": "global/faq",
+     "claim": "An NSU researcher wrote in January 2026 that migrant voting for the 2026 election was by post, not at embassies: a voter enrols on the Election Commission's 'Postal Vote BD' app, the ballot is posted to the voter's address abroad, and the voter posts it back to Bangladesh.",
+     "quote": "প্রবাসী ভোটার অ্যাপে নিবন্ধন/এনরোলমেন্ট করলে ডাকযোগে ব্যালট ভোটারের বিদেশি ঠিকানায় যায়। ভোটার ব্যালটে ভোট দিয়ে সেটি আবার ডাকযোগে বাংলাদেশে ফেরত পাঠান।"
+    },
+    {
+     "target": "global/faq",
+     "claim": "The Election Commission warned that the app needs the voter's current address abroad, with street, building, block or area written clearly and the postal or zip code correct.",
+     "quote": "বর্তমানে অবস্থানরত ঠিকানা দিতে হবে, রাস্তা-বিল্ডিং-ব্লক/এলাকা স্পষ্টভাবে লিখতে হবে এবং পোস্টাল/জিপ কোড নির্ভুল রাখতে হবে।"
+    },
+    {
+     "target": "global/faq",
+     "claim": "Videos in January 2026 showed many postal ballots addressed to Bahrain, and similar cases in Saudi Arabia and Kuwait, counted at one house; the Election Commission was investigating.",
+     "quote": "বাহরাইনের ঠিকানাসংবলিত বহু পোস্টাল ব্যালট এক বাসায় গণনা করার ভিডিও ছড়িয়ে পড়েছে।"
+    }
+   ]
+  },
+  {
+   "article_id": "476c9927-5dde-4c53-82fd-9cbfc81cc649",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: an opinion column of policy proposals (Daffodil Group CEO) with no service, rule, cost or case",
+   "held": []
+  },
+  {
+   "article_id": "49985c28-3050-4567-8b66-ad72fd650163",
+   "used": true,
+   "fact_ids": [
+    "GV0170"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "e0e6c9d3-7d56-4103-85b4-86713d173406",
+   "used": true,
+   "fact_ids": [
+    "GV0171",
+    "GV0172",
+    "GV0173",
+    "GV0174"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "0ad664dd-6321-41c4-abc8-a242a388416e",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: education minister's general remarks on market-oriented technical education, no service or rule",
+   "held": []
+  },
+  {
+   "article_id": "dabd499e-6096-41d8-a499-c68a534e5692",
+   "used": true,
+   "fact_ids": [
+    "GV0175",
+    "GV0176",
+    "GV0177"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ba4f1a8e-4034-4ce2-95a1-5eb66236c31b",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of GV0171-GV0174 (same BMET 99-trainer advert as article e0e6c9d3)",
+   "held": []
+  },
+  {
+   "article_id": "53beced6-1e1e-4108-96a4-55b65c8d5d92",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate, superseded by GV0186 and GV0201: the 26 March 2026 BMET 50-trainer advert was replaced by the April 70-trainer advert, which says earlier applicants need not reapply",
+   "held": []
+  },
+  {
+   "article_id": "92e21bf2-7ec5-453f-bd49-7f237d46e709",
+   "used": true,
+   "fact_ids": [
+    "GV0178",
+    "GV0179",
+    "GV0180",
+    "GV0181",
+    "GV0182"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/faq",
+     "claim": "Answers the FAQ Need to know on how a student applies for PKB's Tk 10 lakh loan: as reported on 1 April 2026, PKB lends up to Tk 10 lakh for language courses in Japan, Korea, China, Germany and other countries, to applicants under 40 living in the branch's area with an offer letter and a language certificate (N5 for Japan, TOPIK 3 for Korea), at 11% for up to 3 years; apply at the nearest branch, helpline 16238. Full terms in the Services doc, 'The PKB loan for language study and skills abroad'.",
+     "quote": "এ বিষয়ে আরও বিস্তারিত তথ্যের জন্য আগ্রহী ব্যক্তিদের নিকটস্থ প্রবাসী কল্যাণ ব্যাংকের শাখা অথবা সরাসরি হেল্পলাইন নম্বর ১৬২৩৮–এ যোগাযোগ করতে বলা হয়েছে।"
+    }
+   ]
+  },
+  {
+   "article_id": "1b1913e1-9675-4506-a3c8-15b0daf01718",
+   "used": true,
+   "fact_ids": [
+    "GV0183",
+    "GV0184",
+    "GV0185"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "78f552ad-65c7-46d7-90c9-594551a379c4",
+   "used": true,
+   "fact_ids": [
+    "GV0186",
+    "GV0199",
+    "GV0200",
+    "GV0201"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "95890e29-024b-42f1-8577-53f68a28a300",
+   "used": true,
+   "fact_ids": [
+    "GV0187",
+    "GV0188",
+    "GV0189"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "b5ce6520-1943-4211-8dfb-6d0abc823a60",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no fact the doc lacks: opinion column (PSC chairman) describing the ministry, BMET, BOESL, PKB and Welfare Board in general terms and other countries' diaspora schemes",
+   "held": []
+  },
+  {
+   "article_id": "7e2e42bf-56df-4466-b69e-baa5f1295a8d",
+   "used": true,
+   "fact_ids": [
+    "GV0190",
+    "GV0191",
+    "GV0192",
+    "GV0193",
+    "GV0194",
+    "GV0195",
+    "GV0196",
+    "GV0197",
+    "GV0198"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/faq",
+     "claim": "BOESL's deputy manager (overseas recruitment), Nu-Mong Marma, said at a 5 May 2026 roundtable that people who go through BOESL stay free of fraud and become self-reliant (a BOESL self-assessment).",
+     "quote": "বিদেশের কর্মস্থলে কর্মীদের অধিকার রক্ষা ও সুরক্ষা নিশ্চিত করায় বোয়েসেলের মাধ্যমে গমনকারী ব্যক্তিরা প্রতারণামুক্ত থেকে স্বাবলম্বী হচ্ছেন বলে তিনি উল্লেখ করেন।"
+    },
+    {
+     "target": "global/faq",
+     "claim": "The state minister for expatriates' welfare, Nurul Haque, spoke on 5 May 2026 of plans for a standard migration cost and a grading system to identify good recruiting agencies.",
+     "quote": "আদর্শ অভিবাসন ব্যয় নির্ধারণ, ভালো রিক্রুটিং এজেন্সিগুলোকে চিহ্নিত করতে গ্রেডিং পদ্ধতি চালুর পরিকল্পনার কথা জানান।"
+    }
+   ]
+  }
+ ]
+}

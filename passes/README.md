@@ -17,3 +17,5 @@ Inputs too large for git (the Prothom Alo article dumps, 319 MB raw and 23 MB fi
 | MP | countries/malaysia | 2026-11-23-prothom-alo-malaysia-saudi |
 | SP | countries/saudi-arabia | 2026-11-23-prothom-alo-malaysia-saudi |
 | CQ | cross-country (now global/) | 2026-11-23-prothom-alo-malaysia-saudi |
+| GF, GS, GD, GI | global/faq, dalal-scams, departure, illegal-routes | 2026-11-23-prothom-alo-global |
+| GM, GV, GO | global/money, services, other-destinations (new docs) | 2026-11-23-prothom-alo-global |

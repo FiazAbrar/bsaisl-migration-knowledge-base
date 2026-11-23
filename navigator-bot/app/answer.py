@@ -14,7 +14,7 @@ def is_memory_command(text: str) -> bool:
     return text.strip().lower() in FORGET_WORDS | RESET_WORDS
 
 
-SHARED_GUIDES = {"agencies", "faq", "dalal-scams", "departure", "illegal-routes"}  # apply to every country, not destinations
+SHARED_GUIDES = {"agencies", "faq", "dalal-scams", "departure", "illegal-routes", "money", "services", "other-destinations"}  # apply to every country, not destinations
 
 
 def _country_list() -> str:

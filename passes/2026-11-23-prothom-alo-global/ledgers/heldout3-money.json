@@ -1,0 +1,11 @@
+[
+ {
+  "held_id": "R3-money-1",
+  "outcome": "added",
+  "fact_ids": [
+   "GM0427",
+   "GM0428"
+  ],
+  "note": "Added to Where it comes from."
+ }
+]

@@ -1,0 +1,7 @@
+[
+ {"held_id": "R4-illegal-routes-1", "outcome": "added", "fact_ids": ["GI0451", "GI0454"], "note": "Cambodia, Myanmar and Laos: scam compounds > What happens, new bullet 'The same rings in Bangladesh'; Additional IGP quote added"},
+ {"held_id": "R4-illegal-routes-2", "outcome": "added", "fact_ids": ["GI0452", "GI0453"], "note": "Khulshi raid (70 arrested, 170 devices) plus the 3 Sept Cox's Bazar hotel raid from the same article"},
+ {"held_id": "R4-illegal-routes-3", "outcome": "added", "fact_ids": ["GI0455", "GI0456", "GI0457"], "note": "Core facts (52 aboard, fire, 8 Bangladeshis dead, 26 rescued) were already LB0007/LB0014-16; added embassy confirmation, Pakistani ninth victim, Tunisian navy rescue and embassy contact with Tunisian authorities, Red Crescent, IOM. Libya to Italy by boat > Deaths"},
+ {"held_id": "R4-illegal-routes-4", "outcome": "added", "fact_ids": ["GI0458", "GI0459"], "note": "Libya to Italy by boat > Deaths, August 2026 bullet: 38 Bangladeshis + 4 Sudanese, speedboat engine, no navigation, Marsa Matruh 13 Aug"},
+ {"held_id": "R4-illegal-routes-5", "outcome": "added", "fact_ids": ["GI0460", "GI0461", "GI0462"], "note": "Survivor account via embassy replaces editorial GI0349; 18 seriously ill, Marsa Matruh General Hospital, repatriation after Egyptian process"}
+]

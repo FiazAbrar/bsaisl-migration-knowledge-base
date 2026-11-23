@@ -1,0 +1,65 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/departure/doc.md",
+  "section": "NID and birth registration",
+  "old_str": "The passport application must match the NID or the online birth registration (see The passport office)",
+  "new_str": "The passport application must match the NID (national identity card) or the online birth registration (see The passport office)",
+  "problem": "The new section now holds the doc's first use of NID, which is only spelled out later under 'The passport office'."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/departure/doc.md",
+  "section": "The passport office",
+  "old_str": "The DIG (operations) of APBn (the Airport Armed Police Battalion) said in August 2026",
+  "new_str": "The DIG (Deputy Inspector General) for operations of APBn (the Airport Armed Police Battalion) said in August 2026",
+  "problem": "First use of DIG in the doc now falls in this new sentence; it is spelled out only later, under 'Who checks what'."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/departure/doc.md",
+  "section": "When the flight is disrupted",
+  "old_str": "only for critical patients and people going abroad",
+  "new_str": "only for patients and people going abroad",
+  "problem": "'critical' is not in GD0075, which says patients (রোগী) and people going abroad."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/departure/doc.md",
+  "section": "Attestation and visa stamping",
+  "old_str": "8. When MoFA finishes, an SMS comes to your registered mobile;",
+  "new_str": "8. When MoFA finishes, a notification comes to your registered mobile;",
+  "problem": "GD0120 says a notification (নোটিফিকেশন) goes to the registered mobile number, not specifically an SMS."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/departure/doc.md",
+  "section": "Attestation and visa stamping",
+  "old_str": "**Getting an apostille on mygov.bd:**",
+  "new_str": "**Getting a document attested or apostilled on mygov.bd** (steps 1 to 6 from a December 2024 guide to online certificate attestation, steps 7 and 8 from the January 2025 apostille launch):",
+  "problem": "Lead not true of every step: steps 1-6 (GD0107-GD0113) come from a December 2024 guide to online certificate attestation, written before the apostille system launched on 29 January 2025; only steps 7-8 (GD0118-GD0120) describe the e-apostille. Two processes are merged under one label."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/departure/doc.md",
+  "section": "Who comes back and why",
+  "old_str": "An official of RAISE (Recovery and Advancement of Informal Sector Employment, the returnee project run by the Ministry of Expatriates' Welfare and the Wage Earners' Welfare Board) said more than 4 lakh workers came back in 2020 [GD0022, GD0024]. By BRAC Migration Programme's 2025 count",
+  "new_str": "A Wage Earners' Welfare Board joint director, speaking in December 2025 about RAISE (Recovery and Advancement of Informal Sector Employment, the returnee project run by the Ministry of Expatriates' Welfare and the Wage Earners' Welfare Board), said more than 4 lakh workers came back in 2020 [GD0022, GD0024]. By the 2025 count of the Migration Programme of BRAC (a Bangladeshi development organisation)",
+  "problem": "Wrong speaker: GD0024 is A T M Mahbub-ul Karim, a Welfare Board joint director (as 'Help after you get home' correctly says of the same speaker), not 'an official of RAISE'; the date is also missing. BRAC, first used here, is not explained."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/departure/doc.md",
+  "section": "Deportees and outpass holders",
+  "old_str": "Probashi Kallyan desk [D0185, GD0051].\n- Bangladeshi workers found HIV-positive in Middle Eastern countries are sent home in haste without any treatment, a practice of many years, a Prothom Alo editorial said in February 2026; WHO (the World Health Organization) and the ILO (International Labour Organization) have said expelling someone only for HIV is discriminatory [GD0028, GD0032]. The editorial said that at home medicine is free but counselling, mental-health support and livelihood help are very limited, that many are afraid to tell even their families, and that although an HIV-negative certificate is mandatory before going abroad, workers get no practical training on risk or sexual health [GD0029, GD0030, GD0031]. Later economic help follows counselling and training under the EU-BRAC Prottasha-2 project [D0187]. The EU delegation's programme manager said in August 2026 that EU-funded reintegration work began in 2017 and that the projects run through BRAC and IOM are essentially a pilot [AB0140].",
+  "new_str": "Probashi Kallyan desk [D0185, GD0051]. Later economic help follows counselling and training under the EU-BRAC Prottasha-2 project [D0187]. The EU delegation's programme manager said in August 2026 that EU-funded reintegration work began in 2017 and that the projects run through BRAC and IOM are essentially a pilot [AB0140].\n- Bangladeshi workers found HIV-positive in Middle Eastern countries are sent home in haste without any treatment, a practice of many years, a Prothom Alo editorial said in February 2026; WHO (the World Health Organization) and the ILO (International Labour Organization) have said expelling someone only for HIV is discriminatory [GD0028, GD0032]. The editorial said that at home medicine is free but counselling, mental-health support and livelihood help are very limited, that many are afraid to tell even their families, and that although an HIV-negative certificate is mandatory before going abroad, workers get no practical training on risk or sexual health [GD0029, GD0030, GD0031].",
+  "problem": "The new HIV bullet was inserted before two old sentences about the Europe returnees (D0187: Prottasha-2 help for the 35 returned from Europe; AB0140: EU reintegration projects), so they now read as if about HIV deportees from the Middle East. Changes the old sentences' meaning; move them back to the Europe bullet."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/departure/doc.md",
+  "section": "Help after you get home",
+  "old_str": "according to RAMRU (Refugee and Migratory Movements Research Unit, a research group) [GD0027]",
+  "new_str": "according to RMMRU (the Refugee and Migratory Movements Research Unit, a research group) [GD0027]",
+  "problem": "The organisation's acronym is RMMRU, as the FAQ and other docs give it; 'RAMRU' is a transliteration of Prothom Alo's Bangla spelling."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/departure/doc.md",
+  "section": "Buying the ticket",
+  "old_str": "> - Which airlines offer a special workers' fare from Dhaka in 2026, and what does a worker show to get it?",
+  "new_str": "> - Besides Biman's T-class fares announced in parliament in June 2026 (see \"Who pays for the air ticket?\" in the Frequently asked questions about going abroad doc), which airlines offer a special workers' fare from Dhaka in 2026, and what does a worker show to get it?",
+  "problem": "Cross-doc: the FAQ already gives Biman's T-class worker fares (CQ0218, 18 June 2026) and that Biman was giving workers discounted tickets (April 2025); the Need to know reads as if nothing is known."
+ }
+]

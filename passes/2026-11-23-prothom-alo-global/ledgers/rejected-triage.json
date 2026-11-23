@@ -1,0 +1,2951 @@
+[
+ {
+  "id": "36e74424-78af-4d81-8251-f7996ec8fab6",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Five European states' Rwanda plan; no Bangladeshi angle in text"
+ },
+ {
+  "id": "8816763e-88ec-47ce-84aa-7ab2522d0129",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Five Bangladeshis charged in Canada over immigration fraud",
+  "likely_doc": "Canada"
+ },
+ {
+  "id": "fdcc992a-20fb-43c5-b45b-9e1dfe340427",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "US revoked 300k+ visas; reasons for visa cancellation",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "a7410854-ea0e-4d43-bfb1-272a0515b9d1",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Australia bars onshore student visa switching; hits Bangladeshi students",
+  "likely_doc": "Australia"
+ },
+ {
+  "id": "827449d4-2e79-4c0d-9d10-868022cb9165",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "H-1B USD 100k fee extended another year",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "59694914-05b1-4c30-8104-4698b7d1feec",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Moroccan youth to Spain; no Bangladeshi angle"
+ },
+ {
+  "id": "6cb8b87f-e721-419a-be8f-e7adf1427a92",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Ceuta influx of Moroccans; no Bangladeshi angle"
+ },
+ {
+  "id": "54196143-c864-4d3e-a77b-73536e39584e",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Ceuta deaths; no Bangladeshi angle"
+ },
+ {
+  "id": "97805b18-3852-4461-a5bb-51a960f04a54",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Temporary visa holders must return home to apply for green card",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "28c77ae3-4e78-4858-a251-f89bc1e252b8",
+  "verdict": "useful",
+  "read_full": true,
+  "reason": "UK fake asylum claims pushed by unscrupulous advisers for fees; scam warning",
+  "likely_doc": "United Kingdom"
+ },
+ {
+  "id": "81896393-6b7d-4d69-9ee1-aa0e82cbbaba",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "US 'permanent pause' on immigration from third-world countries",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "76b5575b-5ad4-4dd1-8d30-a0eded8c55b1",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "US halts all asylum decisions",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "fa32c95f-769a-484a-b341-7326c2f3e825",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Bangladeshi shot dead on migrant boat to Italy; family wants body",
+  "likely_doc": "illegal-routes"
+ },
+ {
+  "id": "bf57df5d-ce1d-4b43-a2f3-2fd27f742ae5",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "UK asylum and immigration overhaul; impact on Bangladeshis",
+  "likely_doc": "United Kingdom"
+ },
+ {
+  "id": "98a72e5c-b51a-496e-a391-db73781346aa",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "H-1B USD 100k annual fee announced",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "2cfeb813-2719-4883-8215-5c3899688e26",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "UK modern slavery protection limits; no Bangladeshi angle or practical fact"
+ },
+ {
+  "id": "6b338f00-c2fa-447c-b345-aef486c0f385",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "What Bangladeshi migrants in US can do to avoid arrest",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "8168bded-db49-4e52-a5d3-c1f4a0d55c2b",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "US crackdown on undocumented migrants; Bangladeshis afraid",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "bacd172d-8f7f-478c-9f4f-0a1975febda3",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Somali migrant boat deaths; no Bangladeshi angle"
+ },
+ {
+  "id": "217a95b6-1a94-4c66-bc7b-16836f612a07",
+  "verdict": "useful",
+  "read_full": true,
+  "reason": "Italy sends migrants to Albania; Bangladesh on Italy's safe-country list",
+  "likely_doc": "Italy"
+ },
+ {
+  "id": "a07f5a1a-679b-43b5-a8ab-217f38f1497a",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Djibouti boat deaths; no Bangladeshi angle"
+ },
+ {
+  "id": "850ecb34-e045-4099-ba92-4d8f6a1d044b",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Ami Probashi app adds online doctor consultations for migrants abroad",
+  "likely_doc": "services"
+ },
+ {
+  "id": "8d33b6ee-824b-4e50-918d-900fb5892672",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "UK scraps Rwanda plan; no Bangladeshi angle in text"
+ },
+ {
+  "id": "06a4cb96-5601-43c2-b51f-d4d48161b1ac",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Mauritania boat deaths; no Bangladeshi angle"
+ },
+ {
+  "id": "13a9eb22-54ed-4ea5-b566-b2aa2e9164a4",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Starmer cites returning Bangladeshis as example of removing irregular migrants",
+  "likely_doc": "United Kingdom"
+ },
+ {
+  "id": "eeef73d6-058b-4721-8a75-80bd539e2d4f",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Mediterranean deaths tally; no Bangladeshi angle"
+ },
+ {
+  "id": "9c89cceb-04e7-43f1-8512-1309e69131a6",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "New York shelter rules for migrants; no Bangladeshi angle"
+ },
+ {
+  "id": "5f493866-7b76-451b-86ab-36b8e92c6d14",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Ceuta deaths; no Bangladeshi angle"
+ },
+ {
+  "id": "fb5b5a11-a2d9-4887-9edb-87d319327cd2",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Ceuta explainer; no Bangladeshi angle"
+ },
+ {
+  "id": "d7a51c2e-754d-44c6-a1ca-ed2c880e5e1c",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Spain floating barrier at Ceuta; no Bangladeshi angle"
+ },
+ {
+  "id": "0b601b71-4d39-4960-9d5a-3822d0fd573d",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Ceuta deaths; no Bangladeshi angle"
+ },
+ {
+  "id": "444b9590-b48a-4c27-aaae-7dc3a674f3a9",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Spain amnesty lets undocumented migrants incl. Bangladeshis regularise",
+  "likely_doc": "Spain"
+ },
+ {
+  "id": "998f03c4-d6e1-4532-ad48-26cd96fada70",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Spain amnesty for 500k undocumented incl. Bangladeshis",
+  "likely_doc": "Spain"
+ },
+ {
+  "id": "11a2e294-89bf-40a4-9f02-4d6616e6564f",
+  "verdict": "useful",
+  "read_full": true,
+  "reason": "Central Mediterranean shipwrecks; Bangladeshis among passengers",
+  "likely_doc": "illegal-routes"
+ },
+ {
+  "id": "a643e16d-1498-4ef2-93af-14e14d3c8067",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "US suspends immigrant visas for Bangladeshis and 74 other countries",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "32f19b25-ab5f-4cd3-aecc-541e7c0e18ab",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Share of Bangladeshi households in US on public benefits (public-charge risk)",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "f3d06da2-ac0e-4d07-81c7-0e9b7323556b",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Health conditions like diabetes can bar US immigrant visas",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "9f08986a-c119-4ffa-8924-ce0cab11b665",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "US ends automatic renewal of work permits (EAD)",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "1ea30d47-e27c-44a5-bffe-8c1e2e34a1f6",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "US bill may cut health coverage for 200k Bangladeshi migrants",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "71ddf0a1-5e4f-4cdb-ac2e-476609021f48",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Yemen boat deaths of Horn of Africa migrants; no Bangladeshi angle"
+ },
+ {
+  "id": "dd47e098-f219-4739-9762-ffb8b91b52c9",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Indians undocumented in US; no Bangladeshi angle"
+ },
+ {
+  "id": "0c59bf56-04d2-4a4c-8d02-788f59268798",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "US deportation totals; no Bangladeshi angle"
+ },
+ {
+  "id": "a44342d9-ae9d-4e3b-95f6-abd9e2b4e177",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Bangladeshi died trying to reach Germany via Belarus-Poland border",
+  "likely_doc": "illegal-routes"
+ },
+ {
+  "id": "4badc249-6e81-43d3-84c1-9a102d2e60bb",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "English Channel boat deaths; no Bangladeshi angle"
+ },
+ {
+  "id": "8f2ab9b6-0009-4c47-a20f-b24633f20165",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "What Bangladeshi migrants in UK want from new government",
+  "likely_doc": "United Kingdom"
+ },
+ {
+  "id": "fe23658e-49e2-4551-9a42-03e13ab41137",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "US presidential debate on immigration"
+ },
+ {
+  "id": "47096908-9fa3-4c3f-96d5-66ed7ce6b0d4",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Kurdish smuggler arrested; no Bangladeshi angle"
+ },
+ {
+  "id": "29a5020d-39d9-42b0-a812-ff002398a51a",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Tunisia sub-Saharan migrant deaths"
+ },
+ {
+  "id": "7a5faa10-eb51-4550-b8c6-f23efec3853a",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "UK Rwanda bill passed; no Bangladeshi angle in text"
+ },
+ {
+  "id": "86e52b3d-df12-4fb8-9103-9cee6b35740d",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Libya mass grave; no Bangladeshi angle in text"
+ },
+ {
+  "id": "16ea63ff-760b-4f24-836c-ff602d546c81",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Mediterranean boat deaths; no Bangladeshi angle in text"
+ },
+ {
+  "id": "744604a1-afb2-4f0d-8aab-e4284e7e6177",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Bangladeshis lured to Russia for jobs, forced into war",
+  "likely_doc": "Russia"
+ },
+ {
+  "id": "b075161a-4f5a-4de9-bbe2-43fe4e2b0447",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Chandpur man killed in Saudi road accident; family seeks body",
+  "likely_doc": "Saudi Arabia"
+ },
+ {
+  "id": "8c0beafe-6465-466e-a73b-58079ebd373f",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Morning digest; only a teaser line on Malaysia market"
+ },
+ {
+  "id": "c6fc525c-1257-4103-adc5-88e8ef1c96ee",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Malaysia market reopening; syndicate and who sets worker cost",
+  "likely_doc": "Malaysia"
+ },
+ {
+  "id": "f2816651-88f4-44fe-a0a0-b644c31e0d9c",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Indian youth and H-1B fee; Indian angle only"
+ },
+ {
+  "id": "4077cddb-9d10-4bee-ad1d-20d7d6717492",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Which countries gain from H-1B fee; no practical fact for Bangladeshis"
+ },
+ {
+  "id": "8f16cb1d-c554-4015-bbfa-faec17b74347",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "White House clarifies who pays H-1B fee and how",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "3bd01e79-9cae-41f0-b78b-4ce0b4534108",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Non-financial incentives proposed for remitting via legal channels",
+  "likely_doc": "money"
+ },
+ {
+  "id": "6ab23d6b-b119-4e92-bbbf-0fe1dd736e03",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Wage Earners Centre near Dhaka airport offers cheap lodging to migrants",
+  "likely_doc": "services"
+ },
+ {
+  "id": "1814b99c-2e1b-43d0-8e31-d2f97f73de55",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Young worker died in Singapore; body returned home",
+  "likely_doc": "Singapore"
+ },
+ {
+  "id": "b52ddbce-ac10-48d3-9c30-da97269e3b29",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "About 7,500 Bangladeshis in Saudi prisons; executions",
+  "likely_doc": "Saudi Arabia"
+ },
+ {
+  "id": "4b40d4db-982a-4ab7-9b29-ad4b00ce4b2b",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Bangladeshi in Australia arrested for bribery over a death probe; no migration fact"
+ },
+ {
+  "id": "fb92b434-2e1b-4e70-8992-afd7f5ef412c",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Bangladeshi workers burned to death at Riyadh workplace",
+  "likely_doc": "Saudi Arabia"
+ },
+ {
+  "id": "a91794ba-4dfd-44db-9597-b761a727b2e7",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Man went to Russia on loan of BDT 7 lakh, found a prisoner in Ukraine a year later",
+  "likely_doc": "Russia"
+ },
+ {
+  "id": "c1684948-f9df-43f1-8531-6ea58e2c8cdd",
+  "verdict": "useful",
+  "read_full": true,
+  "reason": "Six Bangladeshis killed in South Africa shop fire; migrated on debt",
+  "likely_doc": "other-destinations"
+ },
+ {
+  "id": "c83707e7-a368-4a1d-a385-5e088b2b4f69",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Four Bangladeshis sold by brokers into Russian war front",
+  "likely_doc": "Russia"
+ },
+ {
+  "id": "57576399-a603-4254-b94d-aea27c73abee",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Jamalpur man paid BDT 10 lakh to agency for Russia job, sent to war camp",
+  "likely_doc": "Russia"
+ },
+ {
+  "id": "aa6f1200-0d48-4413-a3c5-7211dc0f0c8c",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Qawwali event for diaspora in Portugal"
+ },
+ {
+  "id": "6cd8dc96-8ad9-4f67-843b-3e5ece6e890c",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Bangladeshi entrepreneur wins solar award in Sydney"
+ },
+ {
+  "id": "197df896-9758-49ad-9b80-73c8349a9176",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Satkhira man went to Lebanon on loan, died in 2.5 months",
+  "likely_doc": "Lebanon"
+ },
+ {
+  "id": "40deb2ec-276f-435d-b622-e36bc890d2b2",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "UK local elections; diaspora politics"
+ },
+ {
+  "id": "39693f59-20b9-47ab-87c5-ccfb869d5a0b",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Two Bangladeshi PhD students killed in Florida; suspect arrested",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "7a54ffef-a86c-48ce-b040-1138e7a28987",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Two Bangladeshi PhD students missing in Florida",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "4d29a8c7-eb9a-4f96-94d3-becf1b61621d",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Bangladeshi worker died falling from lift at Saudi construction site",
+  "likely_doc": "Saudi Arabia"
+ },
+ {
+  "id": "d920b95b-c32e-4c6e-9a0a-07df0517c95b",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Govt seeks visa extensions for migrants stuck by Middle East war",
+  "likely_doc": "faq"
+ },
+ {
+  "id": "72ff0451-5d06-437e-937b-8ab84e8d22fe",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Travel agency promotional interview"
+ },
+ {
+  "id": "d9cbcbda-e949-43dd-9c63-f875f442e9fe",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Canada-US trade war column; no practical fact"
+ },
+ {
+  "id": "ee2cf254-2e19-4ab0-a255-9d491ffa0e5e",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Wage Earner Development Bond: interest and how to buy",
+  "likely_doc": "money"
+ },
+ {
+  "id": "e7b2ed5b-ac8e-4d87-9b48-c9f66f5f38c8",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Migrants and families hunger strike over Bangladeshis jailed in UAE for protest",
+  "likely_doc": "UAE"
+ },
+ {
+  "id": "7e7f969b-a147-44ed-9b03-028ae5e83e71",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Bangladeshi student's app used in Australian university; profile"
+ },
+ {
+  "id": "022127eb-fd16-4c4c-9fad-9f833493e6c0",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "50,000 Bangladeshis got UAE amnesty",
+  "likely_doc": "UAE"
+ },
+ {
+  "id": "bc505bcc-cb02-48b4-8ede-f940f39b2fdb",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Profile of Bangladeshi PhD in Australia"
+ },
+ {
+  "id": "327d652b-d2de-4c6e-859e-1877deed48f5",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Bangladeshi doctors meet Australian minister; diaspora event"
+ },
+ {
+  "id": "3ff3f436-a0a6-433d-8271-22f2dc635c69",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Bangladeshi researcher shot dead in Texas; suspect arrested",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "5d9c6c46-b10a-4256-80bb-c62fc0d4de47",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Kurdish smuggler 'Scorpion' investigation; no Bangladeshi angle"
+ },
+ {
+  "id": "72db2bef-1e85-4177-b0d3-5f0cabcbbc3e",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Video only, no text; headline gives no concrete fact"
+ },
+ {
+  "id": "e0ef8417-b159-4318-a123-5efcb4ba7627",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "US bans eight firms from hiring foreign workers; no practical fact for Bangladeshis"
+ },
+ {
+  "id": "a772586b-49d6-4464-8f5e-e40c5dfb3c6f",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Student to Russia youth festival; not migration"
+ },
+ {
+  "id": "52f34dfa-9dd7-4d1e-9a26-af9fc84d3811",
+  "verdict": "useful",
+  "read_full": true,
+  "reason": "Visit visas for Bangladeshis closed in Dubai, Uzbekistan, Vietnam, Cambodia, India",
+  "likely_doc": "other-destinations"
+ },
+ {
+  "id": "b0c57c64-2f7a-4eca-8474-01779aa660fa",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Thailand cuts visa-free list; Bangladesh not involved"
+ },
+ {
+  "id": "3f0797d6-2f1e-4281-8530-a90e12f0a743",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Diaspora tribute to Kuwait"
+ },
+ {
+  "id": "995352d6-6152-4e95-892a-e8295ac0af6b",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Australia puts Bangladesh at highest-risk level for student visas; documents checked",
+  "likely_doc": "Australia"
+ },
+ {
+  "id": "100130bd-4e9f-4726-9834-ffa93f9cd1d8",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "US visa bond up to USD 15,000 applies to Bangladeshis",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "86620866-c260-419d-b434-3b3927bef692",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Canada seeks mass visa cancellation powers citing Indian and Bangladeshi fraud",
+  "likely_doc": "Canada"
+ },
+ {
+  "id": "a365c9e5-b1b5-4066-a1d6-10bf24668862",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "More H-1B restrictions planned",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "39be015a-6934-47f9-8a22-f412bfe8e389",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Profile of Bangladeshi robotics scientist in US"
+ },
+ {
+  "id": "91941d83-a970-4b7c-bcd2-7f53dc75f2c0",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "F-1 and H-1B policy changes and impact on students",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "4b0b8d80-7a39-45bb-b233-bd9d3bc841db",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Which countries are hit hardest by H-1B fee; no Bangladesh practical fact"
+ },
+ {
+  "id": "61d532d0-521d-41df-aa43-51b77103307b",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Italy to issue 500,000 work visas to non-EU nationals 2026-2028",
+  "likely_doc": "Italy"
+ },
+ {
+  "id": "106d6d9c-dabd-4a86-ac08-5cb848cebc16",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Chad suspends visas for US citizens"
+ },
+ {
+  "id": "0c85d6b1-5644-436e-99b5-bce02171050d",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Visa card spending on Thai medical care; not migration"
+ },
+ {
+  "id": "e4ac603b-5ff4-4bcf-a449-06c4a44f6ce2",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Saudi raises renewal fees for visas, iqama and five other services",
+  "likely_doc": "Saudi Arabia"
+ },
+ {
+  "id": "57d75dff-7ddd-40d2-8c58-5f496e19c4fd",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "US visa ban on Nicaraguan officials"
+ },
+ {
+  "id": "b86ca169-96bc-4d5d-97e3-b26d8522654e",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "BRTA office brokers jailed; not migration"
+ },
+ {
+  "id": "73a3e6df-4fd3-46bc-9bc8-915462cd8b98",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Fake major general fraud; not migration"
+ },
+ {
+  "id": "4c5b5d7b-21d2-4ebe-8acd-fd3e724c04dd",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Hospital brokers raid; not migration"
+ },
+ {
+  "id": "0f87006c-b216-4cc6-ad6f-d8df76c41892",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Myanmar scam centre raid; no Bangladeshi angle in text"
+ },
+ {
+  "id": "7a872e93-eed4-47dd-9b61-d05271fab1a0",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Fake police officer fraud; not migration"
+ },
+ {
+  "id": "3370ddb1-541f-4451-ab36-9ae39a3d9ab5",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Visa fraud agents in UK sell fake work-visa papers to foreign students",
+  "likely_doc": "United Kingdom"
+ },
+ {
+  "id": "bfd63bf4-9a4f-4654-8332-79d14b4d304a",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Indians tricked into Ukraine war; Indian angle only"
+ },
+ {
+  "id": "e333e777-0246-43d0-a78f-61540ffa0219",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Opinion column on technical education branding; no actionable fact"
+ },
+ {
+  "id": "3a9d000a-2ac9-487c-bd23-d3a6558acd47",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Bankers say Middle East conflict may hit remittances; no practical fact"
+ },
+ {
+  "id": "037f16dd-a7e9-4678-933a-f06def5b8535",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Letter on remittance dependence; opinion"
+ },
+ {
+  "id": "765e8e1b-4269-4cbc-84fe-e5f945308770",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Diaspora opinion piece"
+ },
+ {
+  "id": "8b8cc310-bb3c-4677-aaea-a27ab9dc8db9",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Land office brokers; not migration"
+ },
+ {
+  "id": "ade79331-a0f8-428b-8c53-a98affd432cb",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Health minister on hospital brokers; not migration"
+ },
+ {
+  "id": "099e12d3-cdc8-470d-ad8b-9864bb8472c1",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Dhaka eviction drive; not migration"
+ },
+ {
+  "id": "ea00b256-77b6-4067-9994-3656a439f364",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "University election protest; not migration"
+ },
+ {
+  "id": "0e9a58b5-d6f2-478e-810d-a9f456e1ced8",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Mental hospital brokers jailed; not migration"
+ },
+ {
+  "id": "3b09e249-5667-4d13-a0de-c9d850833f77",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Hospital brokers jailed; not migration"
+ },
+ {
+  "id": "804e569b-0b3f-4d22-8a8c-e610c870c718",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Youth went via broker to a Chinese company, died fighting for Russia",
+  "likely_doc": "Russia"
+ },
+ {
+  "id": "ecd7cab8-eb80-46d2-b97c-106c741ae8b2",
+  "verdict": "useful",
+  "read_full": true,
+  "reason": "Video only: workers who went to Romania via brokers are absconding",
+  "likely_doc": "Romania"
+ },
+ {
+  "id": "bbf5c18b-04eb-4746-afeb-486d61b1a25a",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Hospital brokers arrest; not migration"
+ },
+ {
+  "id": "6e3bebe8-bb5d-4e52-98be-bc19a06f6d1f",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Hospital brokers jailed; not migration"
+ },
+ {
+  "id": "846198e8-cf1f-4f51-8bcf-2e7815793ed3",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Rohingya entering Bangladesh via brokers; not outward migration"
+ },
+ {
+  "id": "308cfac2-a984-40e8-b533-f1e4956ac8fb",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Letter on hospital brokers"
+ },
+ {
+  "id": "328027e2-4d6e-4e66-9e55-7f9aef401370",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Letter on hospital brokers"
+ },
+ {
+  "id": "40463b7b-0c25-4760-b378-64ee81431259",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Hospital brokers arrested"
+ },
+ {
+  "id": "53553a90-1a69-40f3-a39f-853a89b0628d",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "War crimes tribunal petition; not migration"
+ },
+ {
+  "id": "47e303bb-6c70-4b0a-ad4b-e20e88be32c7",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "How to prepare for undergraduate study in Canada after HSC",
+  "likely_doc": "Canada"
+ },
+ {
+  "id": "a9797904-bc07-4e6c-a561-9e4bd3536f70",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Bangladeshis named again in UK fake asylum document cases",
+  "likely_doc": "United Kingdom"
+ },
+ {
+  "id": "f2bb40b9-50ca-411c-9774-5e9606834032",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Djibouti boat deaths; no Bangladeshi angle"
+ },
+ {
+  "id": "0c524f33-471e-4137-89d1-4db2b9f7033f",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "World Bank job-loss report; domestic labour market"
+ },
+ {
+  "id": "352c5503-fc51-42e8-b97f-c321ccab667f",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "22% of Bangladeshis who came for World Cup on visit visas claimed asylum in Canada",
+  "likely_doc": "Canada"
+ },
+ {
+  "id": "7e4f3b5a-2924-4777-a273-c41f46e73923",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Film review on displacement"
+ },
+ {
+  "id": "2cfb23e1-8018-44ad-848b-462063ab2d59",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Iran-US talks"
+ },
+ {
+  "id": "11b80fbb-15ce-45c3-8742-bc0a33caa1c8",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Australian student visa tightening: what Bangladeshi students should do",
+  "likely_doc": "Australia"
+ },
+ {
+  "id": "08eac0f3-9209-41ed-ae0f-b3cef2e77f29",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "US bill to end dual citizenship; impact on Bangladeshi-Americans",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "faa661a1-c5aa-444e-8e49-f5b30052f24e",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Travelogue Morocco and Egypt"
+ },
+ {
+  "id": "7089f87f-1924-4788-914c-e804341d696a",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "South Asia unrest analysis"
+ },
+ {
+  "id": "0f5657dc-9c00-40bd-b139-724f72ae89d3",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Indian students shifting to Canada; Indian angle only"
+ },
+ {
+  "id": "a21830e2-b588-43f7-95ca-a1528b94eb3e",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Malaysia minister on Yunus visit; diplomatic"
+ },
+ {
+  "id": "df876b22-0e88-49dd-8b92-0ffa051cf7bb",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "US travel ban on 12 countries; Bangladesh not listed"
+ },
+ {
+  "id": "6c9ba89d-d102-4452-8c8f-15fccd6feb84",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Ami Probashi chatbot makes free CVs for job seekers going abroad",
+  "likely_doc": "services"
+ },
+ {
+  "id": "90564f0d-577d-4e69-a150-bc0ef163ebaf",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Sydney diaspora politics"
+ },
+ {
+  "id": "1c569624-e208-463a-bd53-06bb47fc4498",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Patuakhali district problems; no migration fact"
+ },
+ {
+  "id": "d321a5ff-38f3-4276-b196-1d98838d0b0d",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Libya mass graves; no Bangladeshi angle in text"
+ },
+ {
+  "id": "23d2d2e6-f3de-4fb0-9278-02694b3ad201",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Kamala Harris interview"
+ },
+ {
+  "id": "9bf76e35-b28a-45d7-b33d-9e8bb5bbdcb0",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Italy arms sales"
+ },
+ {
+  "id": "4d3d05f4-2ef5-4011-810f-520237de639b",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Gaddafi history"
+ },
+ {
+  "id": "f700c412-248f-40c4-a271-db9f604fff19",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Profile of Bangladeshi researcher in Canada"
+ },
+ {
+  "id": "38bd53d5-2590-4e53-9e5f-bb54bf4eb55e",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Bangladeshi food-delivery worker shot dead in Philadelphia",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "9ac1754a-97ba-43a7-a33e-d299a63acd67",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Football comparison piece"
+ },
+ {
+  "id": "cca583ae-6cc4-4266-a8d7-34d3126740b2",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Canada youth unemployment 14.1% hits Bangladeshi students' job prospects",
+  "likely_doc": "Canada"
+ },
+ {
+  "id": "c1d2dba7-65f8-4650-bd0d-6635176a622b",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Opinion on Bangladeshi diaspora socio-economic status in Australia; no practical fact"
+ },
+ {
+  "id": "a98db91c-79d3-48b0-8b1d-d37f077039b6",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "US immigrant visa suspension will affect lakhs of Bangladeshis",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "a1750077-c24f-4846-88a1-57766c1bc907",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Diaspora academics' statement on media attack"
+ },
+ {
+  "id": "65f15982-4099-463c-8c4b-215a23677df8",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "US food aid court ruling"
+ },
+ {
+  "id": "cf155d40-850e-4b93-8e65-34b7cc980753",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Gaddafi history"
+ },
+ {
+  "id": "b504ea37-b474-471d-bbe2-59fdf4c0f94b",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "India-US relations"
+ },
+ {
+  "id": "5dc421d0-776a-41dc-9fc7-5d50bfbd50f8",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Festival homecoming stories"
+ },
+ {
+  "id": "27072766-e06a-45c8-a0c5-808a59a1589e",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Gaddafi history"
+ },
+ {
+  "id": "98359ef4-992a-4c8b-b5e6-11116675012d",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Democracy deficit opinion"
+ },
+ {
+  "id": "5df9f6bf-5d00-412e-8194-572b6189c905",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Myanmar conscription law; no Bangladeshi angle"
+ },
+ {
+  "id": "a7a6f8c7-3a33-40f8-b685-a0df1cba8525",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Bangladeshi woman wins Australia Day honour"
+ },
+ {
+  "id": "30da5074-3faf-4341-bd08-5b6305935b13",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Domestic violence among Bangladeshi migrants in US and remedies",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "b8a42d5a-c65d-444d-8c77-8e333b1effeb",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Budget opinion on human capital"
+ },
+ {
+  "id": "64d21f47-a723-4d19-8ebb-7857eb5ab393",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Minister speech crediting Zia for labour export; no practical fact"
+ },
+ {
+  "id": "735ee223-dbb1-47aa-a5d0-6a7caf8df74a",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Column on Tarique Rahman"
+ },
+ {
+  "id": "39f395cd-1e55-43b9-a692-2a974a111f76",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Bangladesh Bank eases sending fees abroad for foreign language courses",
+  "likely_doc": "money"
+ },
+ {
+  "id": "52645761-3b6a-4bd2-86a8-75d436c5ad0c",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Hilsa export for expatriates in Saudi and UAE; no practical fact"
+ },
+ {
+  "id": "c1cb4f27-7460-4698-ad2b-889a7ef9a059",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Unemployment opinion letter"
+ },
+ {
+  "id": "7830505c-bb85-43a1-90f8-9740490949e7",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Black money budget debate"
+ },
+ {
+  "id": "dea4b76d-e807-4bca-b786-b2909296c6ac",
+  "verdict": "useful",
+  "read_full": true,
+  "reason": "ILO heat deaths; Middle East heat risk for Bangladeshi workers",
+  "likely_doc": "faq"
+ },
+ {
+  "id": "250235a8-e6c7-4274-833e-0231a66c5491",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Opinion on unskilled youth; no practical fact"
+ },
+ {
+  "id": "726772cd-9ab8-4e5e-ac0b-1ab8e735bae0",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Epstein modelling agents"
+ },
+ {
+  "id": "060cfad1-8f47-4d34-a3b9-2cce14285dc8",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Bank MD interview"
+ },
+ {
+  "id": "565e8daa-c48d-447f-88b3-e8a60adbdaf0",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "At least 20 Bangladeshis trafficked to Russia died in drone strikes",
+  "likely_doc": "Russia"
+ },
+ {
+  "id": "2f0755a0-ff86-4b0c-bbd4-e57cb49010d8",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "MPs controversies"
+ },
+ {
+  "id": "c330ebb6-4a5c-4e99-abfd-3af998235379",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Parliament politics"
+ },
+ {
+  "id": "8c1c13c8-c5a0-4cfe-a8bc-26f6f3fcb2ed",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "West African football trafficking; no Bangladeshi angle"
+ },
+ {
+  "id": "5a57be70-aad9-44ee-a042-284afff3d25d",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Finance adviser interview"
+ },
+ {
+  "id": "e3df428c-c832-4c15-882f-2c222c242dbb",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Stimulus fund allocation"
+ },
+ {
+  "id": "c0b7dfd3-2c2d-44a4-96f6-beba5fc36fa8",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Migration film festival announcement"
+ },
+ {
+  "id": "fbfa2e43-ef15-465b-93db-57d76e5db84b",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "July case remand"
+ },
+ {
+  "id": "1fa039ed-af36-49f9-bc12-2fc9951bf987",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "July case remand"
+ },
+ {
+  "id": "1707ff56-cdd7-4d80-840b-dcdc68df7e7c",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Opinion on shadow economy incl. hundi; no practical fact"
+ },
+ {
+  "id": "1a252acb-4127-48e0-8146-b492c5deb55b",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Rohingya bodies on Teknaf beach; not Bangladeshi migrants"
+ },
+ {
+  "id": "090a9513-99d9-4a60-96f8-6f85b211f529",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Manifesto opinion; no migration content"
+ },
+ {
+  "id": "be1027bb-f3a4-459c-9ede-43edb6ed4f51",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Iran seizes tanker with Bangladeshi crew",
+  "likely_doc": "faq"
+ },
+ {
+  "id": "05b80f29-b391-4c34-9fe9-601be186d90e",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Growth and inequality opinion"
+ },
+ {
+  "id": "f8671573-e1ef-4ed4-969d-4999d10bbb98",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Post-uprising politics"
+ },
+ {
+  "id": "2d53d416-a54a-4daf-8311-cc22b7e454f7",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "New baggage rule: returning passengers can bring one gold bar a year with duty",
+  "likely_doc": "faq"
+ },
+ {
+  "id": "be081c86-2629-4807-bb0c-8e53374accc5",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "White paper column"
+ },
+ {
+  "id": "acd06141-66de-4f92-809e-0a31f08625d2",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Yunus on election timing"
+ },
+ {
+  "id": "0fa1e6b7-13e0-4a38-9806-745dde2e950e",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Black money MP demand"
+ },
+ {
+  "id": "60616b9c-3126-42ae-852f-1cd5475fc298",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Wealth opinion column"
+ },
+ {
+  "id": "e77a4e7c-821e-45a9-b506-51ebaf0d6329",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Inactive youth column"
+ },
+ {
+  "id": "af48b26e-dcde-44fb-a066-53205f0fb1bc",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Financial intelligence report on suspicious bank transactions; no migrant-facing fact"
+ },
+ {
+  "id": "5e88cebb-785a-44e8-a55e-359e496987b1",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Biman officer's rejoinder; no practical fact"
+ },
+ {
+  "id": "216c61fa-6881-45e6-817d-2cc037aaeda1",
+  "verdict": "useful",
+  "read_full": true,
+  "reason": "Airport customs case states baggage rule: duty-free phones per year, extra for BMET card holders",
+  "likely_doc": "faq"
+ },
+ {
+  "id": "88bc5b5c-fb89-4b6e-aca1-22eb1deac600",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Daily digest; teasers only"
+ },
+ {
+  "id": "febc1d33-4847-45e2-9c80-82ef671275b8",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Daily digest; teasers only"
+ },
+ {
+  "id": "2d23485a-8dd7-4c6c-880f-98d1ebfa1166",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Ashuganj youth fighting for Russia reported killed in Ukraine",
+  "likely_doc": "Russia"
+ },
+ {
+  "id": "8ad798cd-c286-43c2-98d9-a59b26626fc4",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Rape case; not migration"
+ },
+ {
+  "id": "ed9bcc8d-4a4b-4966-b4b0-f790539ff15f",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Roundtable on women's progress"
+ },
+ {
+  "id": "691b46f7-13ae-495b-840d-46526d63b6c2",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Hormuz pipeline plan"
+ },
+ {
+  "id": "f78421b4-9ab9-4c62-afd1-4839fcb19258",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Turkey and Iran war column"
+ },
+ {
+  "id": "74a8cbf9-c399-43fb-acf5-0c452657f4ac",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Mediterranean diet study"
+ },
+ {
+  "id": "4d37a75f-4f36-4519-9869-ce5f81446df2",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "16 Pakistanis drowned off Libya; no Bangladeshi angle"
+ },
+ {
+  "id": "290eb8f3-9987-4189-b8dd-205bde4e3ce5",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "29 migrant bodies in Libya; no Bangladeshi angle"
+ },
+ {
+  "id": "0e9a0041-1ce8-447c-bb6f-be9b0703b14f",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Russian navy ship fire"
+ },
+ {
+  "id": "8ff0468a-b315-4dbc-bcee-fb5aded3ea9a",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Year's disasters roundup"
+ },
+ {
+  "id": "01a79432-940b-41e8-828b-1e5b22908a27",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Daily digest; teasers only"
+ },
+ {
+  "id": "21e26d02-1fc1-483a-85e8-7a5e466a1f9c",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Daily digest; teasers only"
+ },
+ {
+  "id": "9c089977-8587-49b4-9666-ab2e9dd5e5e5",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Zuckerberg AI hiring"
+ },
+ {
+  "id": "0429c9b1-5fe9-42c4-aee1-2e01cbb6b3d1",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "AI jobs advice; not migration"
+ },
+ {
+  "id": "5d4509f6-a404-40f9-818e-c3d664cc9d4c",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Daily digest; teasers only"
+ },
+ {
+  "id": "8800908d-ce5d-4427-a4fe-5374fbc8ae1a",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Daily digest; teaser on Malaysia syndicate story only"
+ },
+ {
+  "id": "b15581c6-f849-4867-a899-3b39323c224d",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Sub-registrar transfer lottery"
+ },
+ {
+  "id": "3d72efae-11d6-47f2-963e-66055e77bd99",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Mymensingh man trapped by brokers, killed in Russia's war",
+  "likely_doc": "Russia"
+ },
+ {
+  "id": "ae7c25cf-f960-457d-a657-a7804499e618",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Diagnostic centre brokers; not migration"
+ },
+ {
+  "id": "b6ea1805-6adb-483c-b97a-f6920883fb5e",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Hospital brokers; not migration"
+ },
+ {
+  "id": "666bce9a-8cd5-44b3-88ac-a55a0eca83c4",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Football fan video"
+ },
+ {
+  "id": "d764836d-26e3-4156-94a1-bf4045258264",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Two Jamalpur youths promised masonry work, forced into Russian army, killed",
+  "likely_doc": "Russia"
+ },
+ {
+  "id": "191b2669-ecf1-4b88-9a42-2c47a25ae3a8",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Political scuffle"
+ },
+ {
+  "id": "8e4220ee-755e-456a-acf1-68af99ad516e",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "MP remark on police"
+ },
+ {
+  "id": "72045314-55fe-416f-b040-dca3c693368f",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Culture interview"
+ },
+ {
+  "id": "0c406c48-090c-48a2-a504-09323405f474",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "University election protest"
+ },
+ {
+  "id": "0e9a07f5-02ae-4561-8236-19d01f1a170d",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Cricket controversy"
+ },
+ {
+  "id": "ab92f79b-1bcb-4c7f-a6fc-c385a1dc626d",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Cricket controversy"
+ },
+ {
+  "id": "3081f3ef-4d11-4f5e-853f-963d25bfe1ec",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Film comparison"
+ },
+ {
+  "id": "a17084c3-6723-46c3-bf8a-c34c2c7ea13a",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "July charter column"
+ },
+ {
+  "id": "531f91ea-e537-4ede-942d-fcb3182654cb",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Rome travelogue"
+ },
+ {
+  "id": "3e71a981-5743-405b-af3f-f70494cc88ff",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "BRTA brokers; not migration"
+ },
+ {
+  "id": "95e3cadc-930d-431e-9012-222af7822ca2",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "BRTA brokers; not migration"
+ },
+ {
+  "id": "593e1891-247e-4f15-b155-dba5e6d09f5d",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Hospital brokers raid"
+ },
+ {
+  "id": "c3fb8b4b-e6d8-4de2-a5ca-c58bed40db92",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Syria column"
+ },
+ {
+  "id": "5d0dc431-6435-4f78-afc3-0fe89f92e930",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Film about child selling"
+ },
+ {
+  "id": "0bb89fcb-b2ad-48b8-98b5-8fdd5a23304b",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Diaspora picnic opinion"
+ },
+ {
+  "id": "fd794dd0-e2b4-429f-859a-36f58f63afa1",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Land office bribery"
+ },
+ {
+  "id": "0eca46f3-03dd-492f-8cb4-951bab031cf9",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Interview on minority politics"
+ },
+ {
+  "id": "a47a24ad-aa28-452d-8772-260ecadc8037",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "War crimes committee statement"
+ },
+ {
+  "id": "2a272e89-b431-4fef-bf82-27f957922c62",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "War crimes committee statement"
+ },
+ {
+  "id": "0ddb3b11-8290-41b3-b06e-8f78596c9e42",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "War crimes committee statement"
+ },
+ {
+  "id": "590592d0-661a-4e4f-8d8f-826fda1cdd46",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Textbook controversy"
+ },
+ {
+  "id": "d6cb812c-a92f-4a8d-b05e-497497f9f92e",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "War crimes committee"
+ },
+ {
+  "id": "27c0a83a-7674-46fd-8da4-e7113532c5d8",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Communal forces seminar"
+ },
+ {
+  "id": "1a58b310-d34f-40c1-8fe4-53cbb1d5c531",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Hospital brokers jailed"
+ },
+ {
+  "id": "07dbebdf-9836-45b1-9e2e-56e9ddf1edf4",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Indians trapped into Ukraine war; Indian angle only"
+ },
+ {
+  "id": "89629c09-139e-4ae6-a76e-56b2c78ec097",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Land office brokers arrested"
+ },
+ {
+  "id": "547f71bb-6bbc-4c3b-9d04-eb9108465a4e",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Textbook demand"
+ },
+ {
+  "id": "86035c07-b069-4c23-88d0-84af03629dd6",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Political remark"
+ },
+ {
+  "id": "10ad0e6f-49dc-4fa1-9784-19be7d6667e4",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Politics column"
+ },
+ {
+  "id": "e13531ca-2bb1-4412-bc6b-52437255c688",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Daily digest; teasers only"
+ },
+ {
+  "id": "37befeb2-b9da-472a-8c4f-83c78b770f3c",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Saif al-Islam Gaddafi killed"
+ },
+ {
+  "id": "f547b80b-f350-469c-87d6-680135b0fdfb",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Saudi Arabia cutting pay perks for foreign workers",
+  "likely_doc": "Saudi Arabia"
+ },
+ {
+  "id": "fc8dae82-7ec3-4970-9fe0-0dc149e102c6",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Youth skills column; domestic jobs"
+ },
+ {
+  "id": "30235a14-0fc4-4c85-800a-8cef63a5aaa6",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Daily digest; teasers only"
+ },
+ {
+  "id": "e58b61c9-31f7-4cc5-a2a7-7970312ebd3c",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Daily digest; teasers only"
+ },
+ {
+  "id": "adf42d82-8dc0-4abd-a47c-25fcd1528b49",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Evening digest; teasers only"
+ },
+ {
+  "id": "d568976c-38e1-4dc8-83b8-293a6c3cf95f",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Rape case"
+ },
+ {
+  "id": "33ce3353-f76c-4846-9251-ee1c2db51459",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Law and order politics"
+ },
+ {
+  "id": "d9efdc35-c037-47a6-9e77-5d803ba64049",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Women leadership roundtable"
+ },
+ {
+  "id": "592ee25f-7780-49a8-a705-465bf805849f",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Election day transport rules"
+ },
+ {
+  "id": "2f6f18f0-5d4b-4212-9df9-25bbf9c4641c",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Election transport rules"
+ },
+ {
+  "id": "02dd5ec6-46d1-4aae-b64c-3ca5b601fa5c",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Business interview"
+ },
+ {
+  "id": "9ccd6cbf-67c0-43ac-bbcd-789c45cf30d2",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Dengue vaccine in Australia; no migration fact"
+ },
+ {
+  "id": "acfc67a1-71d0-4774-8af7-09808e432baa",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Bank interview on agent banking"
+ },
+ {
+  "id": "f347bfd2-6617-44c7-bf0f-b7d544722c19",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Food brand expo in Malaysia"
+ },
+ {
+  "id": "bd9933d1-cada-44aa-82b2-2f3985090d3c",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Bangladeshi doctors' conference in Sydney"
+ },
+ {
+  "id": "14bdc2b4-a878-4f93-a178-aed9d82cfd34",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Two Bangladeshis win UAE lottery"
+ },
+ {
+  "id": "f0ad4c60-b9cc-4cba-b11e-635546f5ef6f",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Bank interview"
+ },
+ {
+  "id": "b4d6c706-bc11-4c1a-be6d-6a60e61d098b",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Four Bangladeshi brothers died of exhaust gas in closed car; Oman police warn not to sleep in running cars",
+  "likely_doc": "Oman"
+ },
+ {
+  "id": "661dc23d-e77a-4ed1-b980-b38fb62d14e4",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Road accident in Bangladesh"
+ },
+ {
+  "id": "6e210884-038d-4b13-8e7b-d60affc1c181",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Body of Bangladeshi woman worker killed in Lebanon strike returned after a month",
+  "likely_doc": "Lebanon"
+ },
+ {
+  "id": "70de487c-89dd-423e-b7c9-e6ec7a92a670",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "May Day editorial; domestic workers"
+ },
+ {
+  "id": "a0a08895-f9c3-4f49-a928-0bc40dfee4e5",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Dolly Begum wins Canadian by-election"
+ },
+ {
+  "id": "ff8b54ae-641a-41aa-8b1b-2ef3e541cba7",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Ramadan in Canada; diaspora social"
+ },
+ {
+  "id": "ebb3a12d-28d6-4ad6-b534-97c51f6eb31b",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Eid fair in Canada"
+ },
+ {
+  "id": "f7f590ec-4069-44e6-95c7-cf964677ec8e",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Oil price import cost"
+ },
+ {
+  "id": "a64e8aae-3872-4630-8414-c43c0f4db427",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Bangladeshi worker killed in Iranian drone strike in Al Kharj",
+  "likely_doc": "Saudi Arabia"
+ },
+ {
+  "id": "7281a518-381f-4659-ae01-1c75fbb5c739",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Economist on public contracts"
+ },
+ {
+  "id": "6315b3cd-0cb2-4a1b-b6ac-fdb40593e0cc",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Language day at Doha embassy; event"
+ },
+ {
+  "id": "72af8f19-6382-42f9-997d-6d28ce16a042",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Education budget opinion"
+ },
+ {
+  "id": "bbcf9fa8-ad20-45a2-be28-3c2f1705273f",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "NCP manifesto review"
+ },
+ {
+  "id": "dd51d6ef-1259-487e-9804-2aa537633b4b",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Cricket tournament in Kuwait"
+ },
+ {
+  "id": "be868677-59d0-4631-a906-81d5e171fce9",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Expatriates campaigning in Sylhet elections"
+ },
+ {
+  "id": "47223d86-1d73-4f55-804f-b6a2e10f3c95",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Three members of Bangladeshi family killed in Oman road crash",
+  "likely_doc": "Oman"
+ },
+ {
+  "id": "da87537c-6389-4b30-b7d9-ccbb7b5c1aef",
+  "verdict": "useful",
+  "read_full": true,
+  "reason": "Umrah guide: tourist e-visa via Nusuk, 90-day validity, entry within 30 days, documents",
+  "likely_doc": "Saudi Arabia"
+ },
+ {
+  "id": "54e11f50-03e8-4836-91d5-af18f79231e4",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Al Khobar tourism feature"
+ },
+ {
+  "id": "ee84da4a-2407-4a6b-947b-dcd3c1330a5e",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Sending goods abroad via GPO courier costs a third of private couriers",
+  "likely_doc": "services"
+ },
+ {
+  "id": "077fb2b2-92c7-4f12-97eb-8d9c80fb8cb9",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Ironman race in Malaysia"
+ },
+ {
+  "id": "14df5b22-3d42-4982-a37c-7b47c80d9066",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Buddhist ceremony in France"
+ },
+ {
+  "id": "df32a1d6-16d4-444d-9f68-e6585ee6e29f",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Bangladeshi wins local election in Portugal"
+ },
+ {
+  "id": "725de3e7-82a1-493c-9ecf-80c308bddc28",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "NID and voter registration service launched for Bangladeshis in Canada",
+  "likely_doc": "services"
+ },
+ {
+  "id": "522c7bf9-c3a7-4d92-8817-8e11146d6206",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Politics column"
+ },
+ {
+  "id": "86347980-3c63-4ad3-8aea-50e620ae560a",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Cultural parade in Germany"
+ },
+ {
+  "id": "88a535f5-e189-4d50-8fc1-250a35f14f6d",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "General insurance explainer; not migrant-specific"
+ },
+ {
+  "id": "a0445ba4-a73a-44f5-b87c-c7f4a71a6c85",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Student murder in Dhaka"
+ },
+ {
+  "id": "d03f8e4c-8191-446d-a5cf-e8774a4cc0cb",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "UK Bangladeshi workers council conference; event"
+ },
+ {
+  "id": "3fe06483-5790-4bb9-be47-a3f843838409",
+  "verdict": "useful",
+  "read_full": true,
+  "reason": "Editorial: one-way tickets from Bangladesh cost far more than from Oman or Malaysia; ticket rules",
+  "likely_doc": "departure"
+ },
+ {
+  "id": "4a9de630-6cae-495a-89b6-b45b4bdb7ffb",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Ramadan in UK; diaspora social"
+ },
+ {
+  "id": "1882e537-f888-4f5f-a479-6ba2a4153e57",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Iftar event in Qatar"
+ },
+ {
+  "id": "261e23c8-22e5-489d-8ebd-afa4bf346406",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Canadian minister meets Bangladeshi businesspeople; event"
+ },
+ {
+  "id": "78800c55-0776-471f-a259-1fb178952d97",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Teachers protest in Dhaka"
+ },
+ {
+  "id": "3b502890-5d83-49a2-9dc1-2eb28a67bbfe",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Minimum wage sectors in Bangladesh"
+ },
+ {
+  "id": "6b9a7506-4b8c-4aa7-9035-e2a800ed69b5",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Bangladeshi couple drowned at Australian beach; resident accident, no migration fact"
+ },
+ {
+  "id": "2cfa5b79-5e9e-404a-a31c-bc2a67a6ebbb",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Editorial on airport ground handling"
+ },
+ {
+  "id": "e5b5c4bc-80b8-4d24-9a9f-688ebe9f27ed",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Diaspora network opinion"
+ },
+ {
+  "id": "539ef4a8-098c-44b2-8b07-f24f84d84c33",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Dubai night beaches tourism"
+ },
+ {
+  "id": "60a8069e-9b31-477e-92d6-feed48caee56",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Emeritus professor honour"
+ },
+ {
+  "id": "131f1f48-8e32-46a7-a36d-cda655467ccb",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Economy column"
+ },
+ {
+  "id": "55067a46-7b05-4891-85d0-c9e49bd61942",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Expatriates want e-passport applications using old passport data",
+  "likely_doc": "services"
+ },
+ {
+  "id": "7796cdf1-301b-434b-a260-227b6c17b6fa",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "S Alam Islami Bank takeover"
+ },
+ {
+  "id": "4c71b7e0-72b5-4374-8bb3-dbd0069aaab0",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Construction skills agreement; domestic"
+ },
+ {
+  "id": "241021b2-5694-452a-99cf-1cdf7d68e2fd",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Monetary policy"
+ },
+ {
+  "id": "8ea073a3-520c-44d7-9b09-b1cff11cf715",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Black money budget"
+ },
+ {
+  "id": "549494f2-9a66-4137-99d7-9b6d714b9dc0",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Quran contest winner in Australia"
+ },
+ {
+  "id": "8a4bb5c9-5483-4d61-b061-9862f8572661",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Reserve politics"
+ },
+ {
+  "id": "d5d62954-1a37-4329-892d-3bfa9219502a",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Local youth story"
+ },
+ {
+  "id": "baf528ef-0214-40ca-9c0e-748f05e890d2",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Anzac Day event"
+ },
+ {
+  "id": "d8baecc3-d62a-4423-a02c-4c7c834efb90",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Iftar in Spain"
+ },
+ {
+  "id": "163e3963-214e-4689-adba-fa5e5a6def28",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Hospital staff hiring column"
+ },
+ {
+  "id": "58eafcf8-12a5-4d41-8204-17a944814c8d",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Bank job ad"
+ },
+ {
+  "id": "2dbb4314-457c-419a-97cc-136afdbabd15",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Engineering academy honour"
+ },
+ {
+  "id": "c557ae4c-207e-470e-8bd3-9bf21f000a85",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Bank job ad"
+ },
+ {
+  "id": "0a4064a1-6ccf-48db-a278-e7d5e52d7569",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Long-term resident killed in US road accident; no migration fact"
+ },
+ {
+  "id": "720c2f87-35ad-43c4-b3e3-9cdb0d065fe0",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Football feature"
+ },
+ {
+  "id": "6c0f9a71-2d14-46c6-97d0-e908d137532f",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "NGO job ad"
+ },
+ {
+  "id": "58967007-652b-49ec-8fb0-e476fa7b7256",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Rooppur power plant"
+ },
+ {
+  "id": "9f20a52d-aa20-45f0-ad08-bb5419788c61",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Online physics internship; not abroad"
+ },
+ {
+  "id": "3d0d52b3-7dce-4e37-876c-4b07fb2465f9",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Actress on life support"
+ },
+ {
+  "id": "42fd7834-259c-404a-a59e-be6d0d44a0dd",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "British Council Women in STEM fully funded UK master's scholarships",
+  "likely_doc": "United Kingdom"
+ },
+ {
+  "id": "2413b421-cc75-4fc2-893b-76d1edb43868",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Holy cities travelogue"
+ },
+ {
+  "id": "a68191aa-8a93-477a-9dd1-72a37c096cf6",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "University job fair"
+ },
+ {
+  "id": "9d13487a-532d-468f-a1b4-68d621b15e6d",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Qiddiya tourism feature"
+ },
+ {
+  "id": "c10645fd-795c-4387-b3db-68bd9d2edf7e",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Saudi shopping guide for tourists"
+ },
+ {
+  "id": "67c0907a-e4ee-43d1-b14e-e95728f9e5fc",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Bangladeshi students' cultural event in Minnesota"
+ },
+ {
+  "id": "f82cdc77-6e4f-453c-b086-9b72f6b27e4c",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Best retirement destinations"
+ },
+ {
+  "id": "44e9daf8-730c-4940-87cb-3d09f35fe501",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "H-1B USD 100k annual fee",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "8c99b3b7-ce1b-4a5a-8ced-37608b869378",
+  "verdict": "useful",
+  "read_full": true,
+  "reason": "British Council pre-departure briefing for students going to UK (visa, settling in)",
+  "likely_doc": "United Kingdom"
+ },
+ {
+  "id": "bdd7e276-d0b7-4b92-9cf3-c0a64e9ce833",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "US travel ban on 12 countries; Bangladesh not listed"
+ },
+ {
+  "id": "fbddea2a-952b-4670-9c6d-809d6c3f9de3",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Consultancy's Australia education expo; promotional"
+ },
+ {
+  "id": "e38f4927-b13e-4dba-870d-4207fd8176c4",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Credit card spending abroad statistics"
+ },
+ {
+  "id": "84ee56fe-03df-4f27-8e28-bc3880096bdb",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Bangladeshi professor among Australia's top researchers"
+ },
+ {
+  "id": "294dae4c-4131-4589-98e9-24ab8583f711",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Maldives is visa-free on arrival for Bangladeshis; visitor numbers and flights",
+  "likely_doc": "Maldives"
+ },
+ {
+  "id": "0ebdb28a-f84d-42ca-892f-3ad56c79b466",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Credit card spending abroad statistics"
+ },
+ {
+  "id": "d6ec4ace-2536-4430-b23e-f86829d044fb",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Commonwealth PhD scholarships in UK for public university faculty",
+  "likely_doc": "United Kingdom"
+ },
+ {
+  "id": "07a3d1c0-548c-4c48-ae1f-10291ffdff41",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Sweden embassy job in Dhaka; local job"
+ },
+ {
+  "id": "154a6f29-130c-4cd9-b4b8-ac37e199d894",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "MP murdered in Kolkata column"
+ },
+ {
+  "id": "e504b729-5cad-4347-8e8f-b2573fc7f253",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Bangladeshi master's graduate on job hunting in the US",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "ff36ac03-eaf7-4775-ba35-4a72ece91052",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Australia Awards scholarship, IELTS 6.5 required",
+  "likely_doc": "Australia"
+ },
+ {
+  "id": "8e40841a-e027-49d0-a912-5f11b9ace317",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Stipendium Hungaricum scholarships for Bangladeshis; deadline",
+  "likely_doc": "Hungary"
+ },
+ {
+  "id": "eaadd8b7-4e84-43c3-8dd5-546e013a2eae",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Two Bangladeshis killed, four in ICU after Houthi missile on Riyadh airport",
+  "likely_doc": "Saudi Arabia"
+ },
+ {
+  "id": "07deff68-47eb-4cae-9533-a04b672892d9",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Returnees robbed of gold and phones on Purbachal road after landing; driver among arrested",
+  "likely_doc": "faq"
+ },
+ {
+  "id": "206f0545-3ee7-4e18-b373-9e5e1f972392",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Political killing in Shariatpur"
+ },
+ {
+  "id": "05e70aa1-92a6-44d9-a4f4-acfb924bb362",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Saif Gaddafi killed"
+ },
+ {
+  "id": "ce6e7826-eb58-4732-a151-0ab8a925a64f",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Sarkozy sentenced"
+ },
+ {
+  "id": "a01170bd-29c8-4b89-9484-b3ffa344fd6a",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Gaza-Libya relocation report"
+ },
+ {
+  "id": "d24caf42-e600-45a8-9d66-80900e6189b8",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Tripoli clashes"
+ },
+ {
+  "id": "5706de45-e34c-4649-a162-85d5711efe70",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Government contract appointments incl. labour welfare foundation; no migrant fact"
+ },
+ {
+  "id": "5064432f-8708-41bb-a47c-93739b36e8c9",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Akij business expansion"
+ },
+ {
+  "id": "1e895f4b-328f-4dee-97ca-11378ebd9aaa",
+  "verdict": "useful",
+  "read_full": true,
+  "reason": "Worker killed in Riyadh airport attack after home leave; body returned",
+  "likely_doc": "Saudi Arabia"
+ },
+ {
+  "id": "445d3eb8-5dc3-4b99-869e-849acf26fcf9",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Indians deported from US in chains; Indian angle only"
+ },
+ {
+  "id": "ecfae374-7a59-4838-9bd7-dd974e6b14b1",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Short story about a deportee; fiction"
+ },
+ {
+  "id": "11dd8b20-d512-40b1-8591-ec273111191f",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Rohingya refugees; not outward migration"
+ },
+ {
+  "id": "b185e66e-8fac-4f39-8e31-fae151491e19",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Fake embassy in India"
+ },
+ {
+  "id": "2cbb1933-f85e-4d07-8c1a-acac7d82ab2c",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Korean adoption case"
+ },
+ {
+  "id": "52207139-a98d-4b28-84fd-41070e7e3822",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Rakhine corridor interview"
+ },
+ {
+  "id": "0576d777-ea98-4a00-bf86-a06e2aaa1fb7",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Evening digest; teaser on Mediterranean deaths only"
+ },
+ {
+  "id": "c788facf-d700-4fc7-967e-c0028fc1a847",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Brazil mine sex work"
+ },
+ {
+  "id": "daf11975-96a2-437a-8a39-50ceb08713a3",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Turkey missile"
+ },
+ {
+  "id": "e2a7e52b-72e2-42ab-8e84-fb4da1ce93db",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Gaza ceasefire column"
+ },
+ {
+  "id": "4665ddc1-5d88-4120-bde2-f11c0d74cc00",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Ramadan in Lebanon"
+ },
+ {
+  "id": "9ba968a7-8108-4490-8a8c-41775857b1a1",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Houthi Red Sea"
+ },
+ {
+  "id": "40af454b-9ecf-4a05-84bc-fa950e198566",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Youth paid BDT 9 lakh to broker to reach South Africa, killed",
+  "likely_doc": "other-destinations"
+ },
+ {
+  "id": "41e5296c-8da8-411b-9c97-b628b4ebaeb7",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Election feature from coast"
+ },
+ {
+  "id": "0a9e69ed-79d2-427f-bad9-0dd936f99b3a",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Domestic jobs startup"
+ },
+ {
+  "id": "c0f28a4c-39c1-45c1-a33a-249430f5a751",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Flag maker profile"
+ },
+ {
+  "id": "2a5e8a4c-d28c-4fb7-a63f-f0dc5938eb0b",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Young worker in Saudi Arabia returns home dead",
+  "likely_doc": "Saudi Arabia"
+ },
+ {
+  "id": "bf69366d-ace4-4726-b1d3-328913801aa1",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Humour piece; no text"
+ },
+ {
+  "id": "6c6e30ba-1180-49e1-b3c0-135c33a37074",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Birth registration correction backlog; not migration-specific"
+ },
+ {
+  "id": "a40dc283-31aa-4e71-bac6-c0d18c98de8b",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Hospital brokers"
+ },
+ {
+  "id": "aab57276-297e-4978-a5fb-3b26f6c17149",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Political slogan"
+ },
+ {
+  "id": "01f47797-d8b8-4893-a959-77bb928a9e3f",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Press secretary remark"
+ },
+ {
+  "id": "8e28442e-251c-4b62-829e-5b2a7c8cbfa0",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Opinion on skills vs certificates; no practical fact"
+ },
+ {
+  "id": "55b7a719-df2f-4481-af21-60745f0a463b",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Election preparation"
+ },
+ {
+  "id": "0b8fbe9a-92f6-4a24-ac6e-97d47752524b",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Bangladesh embassy in France starts e-passport service",
+  "likely_doc": "services"
+ },
+ {
+  "id": "80bae631-9c82-4d3b-ade8-5458994564a7",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "CPD anniversary"
+ },
+ {
+  "id": "44e82adf-7bcf-4a20-987b-01dc8e383950",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "PM China visit column"
+ },
+ {
+  "id": "97a132b8-f481-46c1-91bd-f1f25ec3f7fe",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Libyan army chief killed"
+ },
+ {
+  "id": "52851ad5-a014-4b4f-88cd-5d59c3a5b327",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Turkish nuclear reactor"
+ },
+ {
+  "id": "001e9fe1-bf78-4803-9b32-a318f1a5eda3",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Libya flood verdict"
+ },
+ {
+  "id": "828de4f8-41b6-471e-bcd2-0db000881e24",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "English Channel deaths; no Bangladeshi angle in lead"
+ },
+ {
+  "id": "fdb6eeaa-7c93-4902-8feb-b0261553da74",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Arabian Sea boat deaths of Horn of Africa migrants"
+ },
+ {
+  "id": "e8b07f87-1f82-4ee9-9dd3-fc7823606986",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Palestinian writers"
+ },
+ {
+  "id": "ec13eed7-d4e3-4031-971e-90de47194bb7",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Police stations broker-free order"
+ },
+ {
+  "id": "0c7f65da-3313-44c9-aed3-b2584167fc7e",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Narayanganj passport office reopens after 9 months",
+  "likely_doc": "departure"
+ },
+ {
+  "id": "52a8df84-980e-42e6-9e96-c63a8f32c914",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Child rape case"
+ },
+ {
+  "id": "e48005cf-c93e-4640-98d4-d23564ef0840",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Expressway toll fraud"
+ },
+ {
+  "id": "ee8d80b7-addc-4776-b890-3c8a9142c84b",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Bangladeshi teacher's school in US"
+ },
+ {
+  "id": "5a4e97fa-cabb-4bf5-8a98-4c7438391214",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Bangladeshi novelist in US"
+ },
+ {
+  "id": "aaffff5e-2a42-41f6-93bf-27c8035361f8",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "East London local elections"
+ },
+ {
+  "id": "8d67c229-9440-4e5d-93c0-d5a687838791",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Credit and debit card spending abroad"
+ },
+ {
+  "id": "697b30fb-9e9d-4143-aa51-2f7b7a27601b",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "28 Bangladeshis stranded in Iran evacuated by road via Pakistan",
+  "likely_doc": "other-destinations"
+ },
+ {
+  "id": "8c0f45ee-e463-4180-8e4c-4127010c82f3",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "After ceasefire fewer Bangladeshis in Iran want to return",
+  "likely_doc": "other-destinations"
+ },
+ {
+  "id": "7e421aa5-abca-4230-8633-427310db17ca",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Powerman Malaysia race"
+ },
+ {
+  "id": "1a52b1d5-37c9-430e-92f9-000452167a48",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Situation of Bangladeshis in Tehran during Iran-Israel strikes",
+  "likely_doc": "other-destinations"
+ },
+ {
+  "id": "9c987cae-1898-4a20-9a57-173b1acda71b",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "GREAT scholarship GBP 10,000 for Bangladeshi master's students in UK",
+  "likely_doc": "United Kingdom"
+ },
+ {
+  "id": "2a1bd582-a01e-429e-83de-79cd7cb7210c",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Saudi foundation STEM education research prize; not study abroad"
+ },
+ {
+  "id": "1b14eccf-1981-4a56-865f-0358e5ec0888",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "King Fahd University fully funded master's/PhD scholarships for Bangladeshis",
+  "likely_doc": "Saudi Arabia"
+ },
+ {
+  "id": "836906a7-ea36-4ce2-b816-b26257af4b42",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Australia Awards scholarship: age 18+, IELTS 6.5",
+  "likely_doc": "Australia"
+ },
+ {
+  "id": "c1f96b3a-7c82-457a-9dfc-dc3406bb3be3",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Four Bangladeshi women killed by husbands in UK; crime reports, no help or rule info"
+ },
+ {
+  "id": "9a13cd36-1caf-45c5-9fdf-9e3dda7c9c69",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "GREAT scholarship GBP 10,000 for UK master's (2024-25)",
+  "likely_doc": "United Kingdom"
+ },
+ {
+  "id": "39a60c20-3c6f-459b-ba62-d791ab4cc26e",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "UNESCO-Sharjah culture prize"
+ },
+ {
+  "id": "07f0df0b-e6ca-4e78-8fdd-50106a13fb6a",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "UNESCO-Sharjah culture prize"
+ },
+ {
+  "id": "60b9b4af-9c42-480c-8218-213b00977300",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Credit card spending abroad"
+ },
+ {
+  "id": "da1b617c-9bf0-4924-99b6-e10457c95968",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Names of 2 killed and 24 injured Bangladeshis in Riyadh airport attack",
+  "likely_doc": "Saudi Arabia"
+ },
+ {
+  "id": "81b59d67-eb04-4fea-8b18-bc8069ce84ae",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Bangladeshi's farm in Sydney video"
+ },
+ {
+  "id": "7dec879d-9168-405c-ac18-a8baa503ae6b",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Bodies of 9 Bangladeshis killed in Saudi fire returned home",
+  "likely_doc": "Saudi Arabia"
+ },
+ {
+  "id": "906dfb42-d9d3-469b-91a8-3c4276850b8f",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Bodies of Bangladeshis killed in Kolkata hotel fire; medical travellers, not migration"
+ },
+ {
+  "id": "dfd8c0a4-3466-493a-86ae-16fb2e71d746",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Kolkata hotel fire victims; medical travellers"
+ },
+ {
+  "id": "0e0a2293-a0fd-4a48-b221-645cdb84d8c7",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Kolkata fire survivor's account; medical travellers"
+ },
+ {
+  "id": "6b258aaf-4cb2-4fa5-b720-977b6a93c654",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Road march against US trade deal"
+ },
+ {
+  "id": "177e947e-23ac-47f8-890a-98bde80b294e",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Murder case in Australia; crime, no migration fact"
+ },
+ {
+  "id": "2d33693d-b516-4d2f-90ba-2c9ca697b266",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Families mourn two Bangladeshi students killed in US",
+  "likely_doc": "United States"
+ },
+ {
+  "id": "b19ee9e6-7dc8-4c77-9bd6-cbfbda7ed507",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Bangladeshi worker killed by drone debris on way to work in Dubai",
+  "likely_doc": "UAE"
+ },
+ {
+  "id": "38dfbfdc-cc54-4cd2-b656-e6a7636282ff",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "Two Bangladeshis charged with terrorism in Malaysian court",
+  "likely_doc": "Malaysia"
+ },
+ {
+  "id": "1704361c-9707-49e8-9f53-b16807207197",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Bangladeshi jailed for life in UK for murdering wife; crime"
+ },
+ {
+  "id": "7563530d-c62b-491d-a22b-64043135070a",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "UK rape and assault sentence; crime"
+ },
+ {
+  "id": "288f24c8-bbef-4dfc-bcd5-0989973d21a0",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "British-Bangladeshi killed by falling tree; resident accident"
+ },
+ {
+  "id": "5a048cdc-bf48-4356-8f3c-3c19eb944740",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Bangladeshi-Americans win US elections"
+ },
+ {
+  "id": "e3dc3d8e-850b-4244-9f0a-6ca1c59b3b1a",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "UK wife murder sentence; crime"
+ },
+ {
+  "id": "38ba465e-a320-4852-a117-129bd6ad21c8",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "UK wife murder charge; crime"
+ },
+ {
+  "id": "d793d305-8185-4b26-a154-6ddcfc1fdf58",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Ironman Thailand"
+ },
+ {
+  "id": "8bc77805-ca73-44de-abc0-912490c2172c",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "When Bangladeshis in Iran will be brought home",
+  "likely_doc": "other-destinations"
+ },
+ {
+  "id": "8bfc7b5b-e306-426b-96ad-7b46f5af52e0",
+  "verdict": "useful",
+  "read_full": false,
+  "reason": "200 Bangladeshis being evacuated from Iran",
+  "likely_doc": "other-destinations"
+ },
+ {
+  "id": "ba281c53-25da-469d-88ee-d3707fb79b43",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Bangladeshi dean profile in US"
+ },
+ {
+  "id": "64aa143b-e4b1-44d2-9c1a-f7aaf7c7089b",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "FBI takes Bangladeshi from Malaysia over child abuse ring; crime"
+ },
+ {
+  "id": "857389b8-5e7d-41d4-90ef-69859f451ee7",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "FBI arrest; crime"
+ },
+ {
+  "id": "a34bbd0e-8ae6-49e9-bab1-01821c1bbed2",
+  "verdict": "not useful",
+  "read_full": true,
+  "reason": "Video talk show on Russia war trap; no text in archive"
+ },
+ {
+  "id": "9d0a7603-7765-4baf-ab52-0008d0343d57",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Pohela Boishakh in Colorado"
+ },
+ {
+  "id": "785a8337-0788-4d3d-a6aa-2efe69e49ab9",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Korean ambassador on investment"
+ },
+ {
+  "id": "f4b8e74c-ba74-4e51-bb98-608aaea7dd8e",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Ironman Malaysia"
+ },
+ {
+  "id": "2754af9d-d2d3-4205-803a-ac2410e1e6df",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Students' statements on quota protests"
+ },
+ {
+  "id": "1a23edcd-2cad-4af3-a481-b82b1a7c87f2",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Students' protest in US"
+ },
+ {
+  "id": "cdcaefbf-b53a-4826-bca8-b2d6a74a57dc",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Column on fugitive autocrats"
+ },
+ {
+  "id": "342bbf1e-22b5-431f-a814-983cbd92ed9a",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Palestine embassy job in Dhaka"
+ },
+ {
+  "id": "54a40adc-4e1b-41b2-85d3-c11631eb37c1",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Turkey in Africa"
+ },
+ {
+  "id": "d540a5f4-952d-4418-b125-25e1a3d4aa2d",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Sweden embassy job in Dhaka"
+ },
+ {
+  "id": "60304b48-7d46-43ca-87c9-edcb09f2bea4",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Sweden embassy job in Dhaka"
+ },
+ {
+  "id": "bc3126b7-6cfa-4c96-9715-fdebd51d40c0",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Sweden embassy job in Dhaka"
+ },
+ {
+  "id": "fbf395e9-6f73-41e0-945a-cd820b0640d9",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Myanmar bans men working abroad; no Bangladeshi angle"
+ },
+ {
+  "id": "d198318f-6567-40b8-9634-033d3ecd5486",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Bangladeshi diplomat arrested in UK"
+ },
+ {
+  "id": "229898be-c0d9-4be7-a639-5468cfc8eb94",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "NGO job in Cox's Bazar"
+ },
+ {
+  "id": "589c277e-dd5e-4064-80f2-9e02b515d18d",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Canada high commission job in Dhaka"
+ },
+ {
+  "id": "d0094270-b243-4bc4-9042-1cc8309a677b",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Canada high commission job in Dhaka"
+ },
+ {
+  "id": "ff31d809-0ffa-49ec-ac86-4db6571e85a8",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "icddr,b job"
+ },
+ {
+  "id": "c32b3704-6369-4bfb-bc23-571f3e1e9132",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Quota and jobs column"
+ },
+ {
+  "id": "f77e4439-38f8-452f-903f-88c7e0bfd7aa",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Footballer journey feature"
+ },
+ {
+  "id": "7a9bb225-fb9e-4e2c-8f63-90c7a1aab3e1",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Indian actor deportation order"
+ },
+ {
+  "id": "6ece8afd-6dd9-49db-bc18-1d0ebe44fe63",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Singer cheque case"
+ },
+ {
+  "id": "198316f3-de65-4c88-9186-170a3f53c3df",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Actor interview"
+ },
+ {
+  "id": "fbacc35f-d8f8-4fb7-8ec5-07c805d08375",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Travel bans on ex-ministers"
+ },
+ {
+  "id": "173e2f0c-3764-4643-9ed6-a0b9f1b33571",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Doctor assaulted in Kushtia"
+ },
+ {
+  "id": "19f5ff43-b8b8-4c46-a8dd-332f1c1c04ba",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Doctor profile"
+ },
+ {
+  "id": "edc5b839-bffc-4962-9098-a935e1f6f624",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Injured protesters"
+ },
+ {
+  "id": "8142fdfd-2c73-4b35-821c-99f0b30012c3",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Film review"
+ },
+ {
+  "id": "94c065ff-2f45-4221-8470-c7ad680bd832",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "NCD book column"
+ },
+ {
+  "id": "1b36ac78-bd3a-4aa4-a7b2-798a5a9fdfea",
+  "verdict": "not useful",
+  "read_full": false,
+  "reason": "Travel memoir Turkey"
+ }
+]

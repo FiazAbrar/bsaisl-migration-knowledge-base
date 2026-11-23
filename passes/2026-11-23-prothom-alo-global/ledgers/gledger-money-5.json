@@ -1,0 +1,351 @@
+{
+ "articles": [
+  {
+   "article_id": "f7617046-7198-448e-bb83-06dd804e63e9",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of GM0234 (FY total counted only to 28 June; superseded by full-year figure)",
+   "held": []
+  },
+  {
+   "article_id": "be4f790f-1a1e-4d69-afbb-f603d1046a6a",
+   "used": true,
+   "fact_ids": [
+    "GM0234",
+    "GM0235",
+    "GM0223"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "4749e337-d7cf-42ff-96ea-067831b74184",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no fact for this doc; held for faq",
+   "held": [
+    {
+     "target": "faq",
+     "claim": "NBR instruction of 2 July 2025: a returning passenger may bring one new mobile phone duty-free once a year; migrants with a BMET card who stayed abroad at least six months may bring two new phones duty-free a year.",
+     "quote": "বিধানটি সংশোধন করে এখন বলা হচ্ছে, একজন যাত্রী কোনো শুল্ক ছাড়াই বিদেশ থেকে ফেরার সময় বছরে একবার একটি নতুন মুঠোফোন আনতে পারবেন। আর যেসব প্রবাসীর ব্যুরো অব ম্যানপাওয়ার এমপ্লয়মেন্ট অ্যান্ড ট্রেনিং (বিএমইটি) কার্ড আছে এবং যাঁরা অন্তত ছয় মাস বিদেশে ছিলেন, তাঁরা বছরে শুল্কমুক্ত সুবিধায় দুটি নতুন মুঠোফোন আনতে পারবেন।"
+    },
+    {
+     "target": "faq",
+     "claim": "From 2 July 2025 a returning passenger may bring up to 100 g of gold jewellery and 200 g of silver jewellery duty-free once a year, and one gold bar of up to 10 tola once a year at Tk 5,000 duty per tola.",
+     "quote": "বিদেশফেরত একজন যাত্রী কোনো শুল্ক ছাড়াই বছরে একবার সর্বোচ্চ ১০০ গ্রাম সোনার অলংকার আনতে পারবেন। আর রুপার অলংকার আনতে পারবেন ২০০ গ্রাম। এ ছাড়া নতুন বিধিমালার আওতায় তোলা প্রতি ৫ হাজার টাকা শুল্ক দিয়ে একজন যাত্রী বছরে একবার সর্বোচ্চ ১০ তোলা ওজনের একটি সোনার বার আনতে পারবেন।"
+    },
+    {
+     "target": "faq",
+     "claim": "All arriving passengers can fill in the baggage declaration form online, and the declaration is mandatory before leaving the customs hall.",
+     "quote": "এখন থেকে বিদেশ থেকে আগত সব যাত্রীই অনলাইনের মাধ্যমে ব্যাগেজ ঘোষণা ফরম পূরণ করতে পারবেন। তবে সুবিধার অপব্যবহার রোধে কাস্টমস হল বা এলাকা ত্যাগ করার আগে ব্যাগেজ ঘোষণা প্রদান বাধ্যতামূলক করা হয়েছে।"
+    }
+   ]
+  },
+  {
+   "article_id": "9fb1535e-8cd6-4ab4-a87a-2e9fccd62eae",
+   "used": true,
+   "fact_ids": [
+    "GM0236",
+    "GM0237"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "435434c5-fbbb-40aa-a91b-3c0ad685400a",
+   "used": true,
+   "fact_ids": [
+    "GM0238",
+    "GM0239",
+    "GM0240"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "000f044a-c638-4c8a-b5f9-cdfc28dd36c4",
+   "used": true,
+   "fact_ids": [
+    "GM0224",
+    "GM0241",
+    "GM0242",
+    "GM0225",
+    "GM0226",
+    "GM0227"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "c2e61b66-1c86-4160-ba2a-6cac8d5f2cfb",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "opinion piece with no usable new fact (incentive 2.5% already GM0122/GM0260); its statistics table mislabels fiscal years",
+   "held": []
+  },
+  {
+   "article_id": "54231238-5bfd-4a02-a0b2-e25f62306916",
+   "used": true,
+   "fact_ids": [
+    "GM0243"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "0945bb87-1a29-464a-8725-0bb99a718bad",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "partial-month update (Aug 1-12); duplicate of GM0244",
+   "held": []
+  },
+  {
+   "article_id": "065a9d53-2834-424a-98c4-13f685dd7dc3",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "partial-month update (Aug 1-27); duplicate of GM0244",
+   "held": []
+  },
+  {
+   "article_id": "51fcfb90-a963-4411-aba1-9b01ea67eec3",
+   "used": true,
+   "fact_ids": [
+    "GM0244"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "53e1094c-a61c-435e-9ccd-2cd04d7643e4",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "partial-month update (Sep 1-9); duplicate of GM0253",
+   "held": []
+  },
+  {
+   "article_id": "1189d496-1112-4f12-8b48-6ddcec2792ed",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "partial-month update (Sep 1-21); duplicate of GM0253",
+   "held": []
+  },
+  {
+   "article_id": "c3cb0a9d-5209-40e6-a1ee-72fa0956a0cd",
+   "used": true,
+   "fact_ids": [
+    "GM0245",
+    "GM0246",
+    "GM0247",
+    "GM0248"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "e6760479-e2fe-4d6b-b58c-e8a688c2e88b",
+   "used": true,
+   "fact_ids": [
+    "GM0263",
+    "GM0264",
+    "GM0249",
+    "GM0228",
+    "GM0250"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "4b00210f-5cf3-4ba3-84e7-5a1c787751e4",
+   "used": true,
+   "fact_ids": [
+    "GM0251",
+    "GM0252",
+    "GM0229"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "3471aa63-d2b1-45fe-914c-0c2f3e2264f8",
+   "used": true,
+   "fact_ids": [
+    "GM0253",
+    "GM0254"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "aaaee0c8-1150-477b-98fd-7ecfadf35a10",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "partial-month update (Oct 1-25); duplicate of GM0255",
+   "held": []
+  },
+  {
+   "article_id": "211bcd66-da53-4c31-bb57-a1abd98063ea",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "partial-month update (Oct 1-29); duplicate of GM0255",
+   "held": []
+  },
+  {
+   "article_id": "98224ff6-9141-4ef2-9f1a-bbe6771981c8",
+   "used": true,
+   "fact_ids": [
+    "GM0255"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "cc3fd877-1bcf-4602-ba4a-8c83311d2bae",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no fact for this doc; held for faq",
+   "held": [
+    {
+     "target": "faq",
+     "claim": "Under the non-tourist baggage rules (as reported Nov 2025) a returning passenger may bring one new mobile phone and two used ones duty-free; further phones pay Tk 5,000 (up to Tk 30,000 value), Tk 10,000 (Tk 30,000-60,000) or Tk 25,000 (above Tk 60,000).",
+     "quote": "জাতীয় রাজস্ব বোর্ডের (এনবিআর) শুল্ক বিভাগ সূত্র অনুসারে, বিদেশফেরত যাত্রীরা ৩০ হাজার টাকা পর্যন্ত দামের মুঠোফোনে শুল্ক-কর দিতে হবে ৫ হাজার টাকা। মুঠোফোনের দাম ৩০ হাজার থেকে ৬০ হাজার টাকা হলে শুল্ক-কর দিতে হবে ১০ হাজার টাকা। আর মুঠোফোনের মূল্য ৬০ হাজার টাকার বেশি হলে ২৫ হাজার টাকা শুল্ক-কর দিতে হবে।"
+    },
+    {
+     "target": "faq",
+     "claim": "Baggage rules allow 19 kinds of goods duty-free and 11 kinds on payment of duty; a 117 g gold bar pays Tk 40,000 duty.",
+     "quote": "ব্যাগেজ রুলস অনুসারে, সব মিলিয়ে ১৯ ধরনের পণ্য বিনা শুল্কে এবং ১১ ধরনের পণ্য শুল্ক-কর পরিশোধ করে আনা যায়।\nএ পণ্যের তালিকায় আছে দুটি ব্যবহৃত মুঠোফোন, একটি নতুন মোবাইল ফোন; ১৫ বর্গমিটার আয়তনবিশিষ্ট কার্পেট; ২৯ ইঞ্চি পর্যন্ত টেলিভিশন; ডেস্কটপ বা ল্যাপটপ; কম্পিউটার স্ক্যানার; প্রিন্টার; ভিডিও ক্যামেরা; স্টিল বা ডিজিটাল ক্যামেরা; ওভেন ও মাইক্রোওয়েভ ওভেন; রাইস কুকার, প্রেসার কুকার, গ্যাস ওভেন; টোস্টার, স্যান্ডউইচ মেকার, ব্লেন্ডার, ফুড প্রসেসর, জুসার, কফি মেকার; সেলাই মেশিন; টেবিল ফ্যান; ব্যক্তিগত ব্যবহারের জন্য খেলার সামগ্রী; ১০০ গ্রাম ওজনের সোনার গয়না; এক কার্টন সিগারেট; সিডি ও স্পিকারসহ মিউজিক সিস্টেম।\n\nশুল্ক-কর পরিশোধ করে যে ১১ ধরনের পণ্য আনা যাবে। এগুলো হলো ১১৭ গ্রাম ওজনের স্বর্ণবার। এ জন্য ৪০ হাজার টাকা শুল্ক-কর দিতে হবে।"
+    }
+   ]
+  },
+  {
+   "article_id": "2c5ff414-e8b4-41f8-b282-2ce6de26bf09",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "short duplicate of article cc3fd877-1bcf-4602-ba4a-8c83311d2bae (held for faq)",
+   "held": []
+  },
+  {
+   "article_id": "33f341f8-4c2e-45d2-89e7-d58538ea253d",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no fact for this doc; held for departure",
+   "held": [
+    {
+     "target": "departure",
+     "claim": "From 19 Nov 2025 Bangladesh Bank lets travellers buy international air tickets of any price themselves on any internationally enabled card, within the card's foreign-currency limit; the earlier USD 300 per-transaction limit no longer applies to air tickets.",
+     "quote": "নতুন নির্দেশনা অনুযায়ী, ক্রেডিট কার্ডের বৈদেশিক মুদ্রার সীমার মধ্যে যেকোনো দামের টিকিট ঘরে বসে কাটতে পারবেন ভ্রমণকারীরা। আগে বৈদেশিক মুদ্রায় লেনদেনের ক্ষেত্রে ৩০০ মার্কিন ডলারের সীমা আরোপিত ছিল। ফলে বৈদেশিক মুদ্রায় একবারে ৩০০ ডলারের বেশি দামের কোনো পণ্য বা সেবা কিনতে পারতেন না এ দেশের কার্ড ব্যবহারকারীরা। এখন বিমান টিকিটের ক্ষেত্রে এই সীমার বাধ্যবাধকতা তুলে নেওয়া হয়েছে।"
+    }
+   ]
+  },
+  {
+   "article_id": "e8141b51-cd2d-4d45-91e0-dc1e6e6612de",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "partial-month update (Nov 1-18); duplicate of GM0256",
+   "held": []
+  },
+  {
+   "article_id": "835c02b2-e78b-4617-bee7-b7816903bf4c",
+   "used": true,
+   "fact_ids": [
+    "GM0256"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "f8bd4b8f-9342-498c-a947-8243926fa2ca",
+   "used": true,
+   "fact_ids": [
+    "GM0265"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "c27f9d59-d005-4b38-b7ca-64958e51be05",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "BIDS seminar on oil prices and remittances: theoretical study, no fact bearing on sending money home",
+   "held": []
+  },
+  {
+   "article_id": "7e7009d8-04bf-4a5f-abef-be4cfceb5ac1",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "partial-month update (Dec 1-17); duplicate of GM0269",
+   "held": []
+  },
+  {
+   "article_id": "925e6703-3c8f-499a-a2cc-b5100a900718",
+   "used": true,
+   "fact_ids": [
+    "GM0230",
+    "GM0266",
+    "GM0267",
+    "GM0268"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "44abba71-5ede-4e2a-b2e7-e36ddf170ea4",
+   "used": true,
+   "fact_ids": [
+    "GM0269",
+    "GM0270",
+    "GM0257",
+    "GM0258"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "52d668b1-ad75-4605-a556-61f565b9f611",
+   "used": true,
+   "fact_ids": [
+    "GM0231",
+    "GM0259",
+    "GM0260",
+    "GM0261"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "e9c9df0f-f9e2-4cfc-8dfa-1f458c7d7261",
+   "used": true,
+   "fact_ids": [
+    "GM0232"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ec985004-83e7-43f3-bba6-3ccc9f445813",
+   "used": true,
+   "fact_ids": [
+    "GM0271",
+    "GM0272",
+    "GM0233"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "a5c42ff3-18e9-46e5-b2a7-49c83c144b5b",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "partial-month update (Jan 1-14); bank officials quote duplicate of GM0271, GM0272; rate duplicate of GM0262",
+   "held": []
+  },
+  {
+   "article_id": "f93130d5-3814-45f0-8347-cbc07e758750",
+   "used": true,
+   "fact_ids": [
+    "GM0262"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  }
+ ]
+}

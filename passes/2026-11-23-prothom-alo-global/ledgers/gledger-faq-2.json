@@ -1,0 +1,174 @@
+{
+ "articles": [
+  {
+   "article_id": "39301276-0964-4d9c-a3a9-a050496eec53",
+   "used": true,
+   "fact_ids": [
+    "GF0031",
+    "GF0032",
+    "GF0033",
+    "GF0034",
+    "GF0035"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "670771fa-10b9-4042-bd6f-42c2586b670a",
+   "used": true,
+   "fact_ids": [
+    "GF0036",
+    "GF0037",
+    "GF0038",
+    "GF0039",
+    "GF0040",
+    "GF0041",
+    "GF0042",
+    "GF0043"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "82b69cc8-0328-4c80-b776-538084d40fcf",
+   "used": true,
+   "fact_ids": [
+    "GF0044"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "7249ce2e-b546-47b3-8738-55a0eefab0a7",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: the columnist's own doubt that Rangpur division sends even 1% of migrants, with no data; the rest is regional development advocacy.",
+   "held": []
+  },
+  {
+   "article_id": "d073bc4f-c5f8-4b8a-b1b2-cec79f79765d",
+   "used": true,
+   "fact_ids": [
+    "GF0045",
+    "GF0046",
+    "GF0047",
+    "GF0048"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "856b89b3-2045-4467-be7b-ae820af07449",
+   "used": true,
+   "fact_ids": [
+    "GF0049",
+    "GF0050",
+    "GF0051",
+    "GF0052"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "b4e04fd8-3d24-4a05-ac6f-83602833a46c",
+   "used": true,
+   "fact_ids": [
+    "GF0053"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "65325e91-741a-4af4-9909-5db6f1d3fc1d",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact for the FAQ; its facts are held for another doc (see held).",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "On 16 June 2025 a Sandwip Marine Service speedboat left Guptachhara ghat, Sandwip, for Kumira despite a weather ban, after pressure from passengers including some travelling abroad who would miss their flights if they could not reach Chattogram; passengers said it ran out of fuel and took in water through a cracked hull before reaching shore near Akilpur, Sitakunda.",
+     "quote": "তাঁদের মধ্যে কয়েকজন বিদেশ গমনেচ্ছু যাত্রীও ছিলেন, যাঁরা চট্টগ্রামে পৌঁছাতে না পারলে ফ্লাইট মিস করবেন।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "Sandwip Marine Service's managing director, Md Nasir Uddin, said its service had been closed and the boat had to sail because of the insistence of several passengers going abroad.",
+     "quote": "নিষেধাজ্ঞার মধ্যে বোট ছাড়ার বিষয়ে নাসির উদ্দিন বলেন, আমাদের সার্ভিস বন্ধ ছিল। বিদেশগামী কয়েকজন যাত্রীর জোরাজুরিতে বোট ছাড়তে হয়েছে।"
+    }
+   ]
+  },
+  {
+   "article_id": "894a6057-9a9c-4679-ace4-cf9688b62f04",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: political party manifesto pledges (NCP, August 2025), not policy in force.",
+   "held": []
+  },
+  {
+   "article_id": "b8a1fed8-2348-40b2-9f84-774d716b9d68",
+   "used": true,
+   "fact_ids": [
+    "GF0054",
+    "GF0055"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "c1d6bbf8-584d-491d-821d-a76bc800c1d4",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact for the FAQ; its facts are held for another doc (see held).",
+   "held": [
+    {
+     "target": "global/money",
+     "claim": "Liton Howlader, in Italy for 17 years, alleged in September 2025 that after 5 August 2024 a group led by Alamgir Hossain, known as a land grabber, claimed the Keraniganj land he had bought four years earlier, evicted his tenants on 31 August 2025 and began demolishing the house; he came home from Italy to save it, and police said they had his written complaint.",
+     "quote": "আদালতে চলমান মামলার তোয়াক্কা না করে গত ৩১ আগস্ট সকালে আলমগীর, শাহাদাত, শাহীনসহ ৩০ থেকে ৩৫ জন দেশীয় অস্ত্রশস্ত্র নিয়ে এসে জোরপূর্বক আমার বাড়িতে প্রবেশ করে।"
+    }
+   ]
+  },
+  {
+   "article_id": "acc29121-c809-465e-b6a6-b86fbe4081d1",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact for the FAQ; its facts are held for another doc (see held).",
+   "held": [
+    {
+     "target": "global/services",
+     "claim": "Lokman Hossain of Charwadel, Bauphal, Patuakhali, went abroad in 2018 after graduating, came home in early 2022 because the work was very hard, and grows off-season hybrid watermelon on 5 decimals, saying he sold about Tk 1 lakh of watermelon for Tk 20,000 in costs.",
+     "quote": "লোকমানের দাবি, এর আগেরবার মাত্র ২০ হাজার টাকা খরচ করে প্রায় এক লাখ টাকার তরমুজ বিক্রি করেছেন।"
+    }
+   ]
+  },
+  {
+   "article_id": "f28d8279-196b-4488-a6ef-b8e93445e853",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: event report on Prothom Alo's Study Abroad Fair 2025 (a two-day fair now over); no rule, cost or risk bearing on a decision.",
+   "held": []
+  },
+  {
+   "article_id": "eb571b77-d3a7-4a96-a506-a7ef5ec14aae",
+   "used": true,
+   "fact_ids": [
+    "GF0056",
+    "GF0057",
+    "GF0058",
+    "GF0059",
+    "GF0060",
+    "GF0061",
+    "GF0062"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "febca40e-623f-472e-9813-65e3879919d9",
+   "used": true,
+   "fact_ids": [
+    "GF0063"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  }
+ ]
+}

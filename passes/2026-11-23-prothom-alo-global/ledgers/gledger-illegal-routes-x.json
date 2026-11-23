@@ -1,0 +1,751 @@
+{
+ "articles": [
+  {
+   "article_id": "ebff3fce-97be-47f5-a243-ae39824913b0",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "legal BOESL job notice for Turkey; no irregular-route fact (held for services)",
+   "held": [
+    {
+     "target": "global/services",
+     "claim": "In February 2024 BOESL recruited 200 women for a Turkish textile company; selected workers paid a Tk 56,350 pay order to BOESL including its service charge.",
+     "quote": "চূড়ান্তভাবে নির্বাচিত কর্মীদের বোয়েসেলের সার্ভিস চার্জ এবং আনুষঙ্গিক ব্যয়সহ মোট ৫৬ হাজার ৩৫০ টাকার পে-অর্ডার বোয়েসেলে জমা দিতে হবে।"
+    }
+   ]
+  },
+  {
+   "article_id": "0e580220-4931-4fed-9481-2e19326f6d03",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "legal BOESL job notice for Turkey; duplicate of the February notice (held for services)",
+   "held": [
+    {
+     "target": "global/services",
+     "claim": "In March 2024 BOESL recruited 100 men and 100 women for a Turkish textile company at USD 470 (about Tk 51,000) a month; workers paid Tk 56,350 to BOESL plus the Turkish embassy visa fee.",
+     "quote": "চূড়ান্তভাবে নির্বাচিত কর্মীদের বোয়েসেলের সার্ভিস চার্জ এবং আনুষঙ্গিক ব্যয়সহ মোট ৫৬ হাজার ৩৫০ টাকার পে অর্ডার বোয়েসেলে জমা করতে হবে এবং তুরস্ক দূতাবাসের ভিসা ফি কর্মীকে বহন করতে হবে।"
+    }
+   ]
+  },
+  {
+   "article_id": "09076004-9203-45fb-8c45-56f5d0645d33",
+   "used": true,
+   "fact_ids": [
+    "GI0118",
+    "GI0119",
+    "GI0120",
+    "GI0121",
+    "GI0122",
+    "GI0123",
+    "GI0124"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "f2156b49-bd7f-4756-a90a-6764ad964e14",
+   "used": true,
+   "fact_ids": [
+    "GI0125",
+    "GI0126",
+    "GI0127",
+    "GI0128"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "76c1704d-6b78-4896-936c-5a0d114647e2",
+   "used": true,
+   "fact_ids": [
+    "GI0129",
+    "GI0130",
+    "GI0131"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "9e612830-fb00-4112-9444-59bbe36c5bbd",
+   "used": true,
+   "fact_ids": [
+    "GI0132",
+    "GI0133",
+    "GI0134",
+    "GI0135",
+    "GI0136",
+    "GI0137",
+    "GI0138",
+    "GI0139",
+    "GI0140"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "b6f47b01-0bfe-41e7-9287-416b26f8e653",
+   "used": true,
+   "fact_ids": [
+    "GI0141",
+    "GI0142",
+    "GI0143",
+    "GI0144",
+    "GI0145",
+    "GI0146"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "2b879ef1-a723-4b12-b985-1730cfdae826",
+   "used": true,
+   "fact_ids": [
+    "GI0147",
+    "GI0148",
+    "GI0149"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "20dc3d2e-d83a-4db3-8be1-777acea8793c",
+   "used": true,
+   "fact_ids": [
+    "GI0150"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ddf396f9-8990-49cb-9b10-e120318f3947",
+   "used": true,
+   "fact_ids": [
+    "GI0151",
+    "GI0152",
+    "GI0153",
+    "GI0154",
+    "GI0155",
+    "GI0156",
+    "GI0304",
+    "GI0305"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ecf3c5bc-55fb-4008-8108-be59cc829118",
+   "used": true,
+   "fact_ids": [
+    "GI0157",
+    "GI0158",
+    "GI0159"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "0d178130-1099-4a10-baf0-3146c684da24",
+   "used": true,
+   "fact_ids": [
+    "GI0160"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "59941ec3-076a-4255-856d-ab946172be8e",
+   "used": true,
+   "fact_ids": [
+    "GI0169",
+    "GI0170",
+    "GI0171"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "0722abe3-375c-460c-b159-c8073084b2f7",
+   "used": true,
+   "fact_ids": [
+    "GI0172",
+    "GI0173",
+    "GI0174",
+    "GI0175"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "f4152337-f20e-479c-ad7e-522e26c8761e",
+   "used": true,
+   "fact_ids": [
+    "GI0176"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "584528ac-f96e-464a-9ecc-11d254debd3e",
+   "used": true,
+   "fact_ids": [
+    "GI0177",
+    "GI0178",
+    "GI0179",
+    "GI0180",
+    "GI0181"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "4ea75d33-3dd3-4f2c-8a57-2b0dbbdeddcc",
+   "used": true,
+   "fact_ids": [
+    "GI0182",
+    "GI0183",
+    "GI0184"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "026d3c08-a9a5-458b-a721-eaeae6bb7853",
+   "used": true,
+   "fact_ids": [
+    "GI0185",
+    "GI0186",
+    "GI0187",
+    "GI0188",
+    "GI0189",
+    "GI0190",
+    "GI0191",
+    "GI0192",
+    "GI0193"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "cb95ed1a-b730-4c2f-ad08-eb6849754fff",
+   "used": true,
+   "fact_ids": [
+    "GI0194",
+    "GI0195",
+    "GI0196"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "eb72cd91-a096-4edb-959c-d952780e2005",
+   "used": true,
+   "fact_ids": [
+    "GI0197",
+    "GI0198",
+    "GI0306"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "acc82eeb-4d85-4036-a651-e5c13a184ace",
+   "used": true,
+   "fact_ids": [
+    "GI0199",
+    "GI0200",
+    "GI0201"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "6d6786aa-924c-4c75-be8b-505e7b3d9351",
+   "used": true,
+   "fact_ids": [
+    "GI0202",
+    "GI0203",
+    "GI0204",
+    "GI0205",
+    "GI0206"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "0cce24d5-ea73-4ed9-a558-9b416f8d89f1",
+   "used": true,
+   "fact_ids": [
+    "GI0207",
+    "GI0208",
+    "GI0209",
+    "GI0210",
+    "GI0211",
+    "GI0212",
+    "GI0213",
+    "GI0214",
+    "GI0215",
+    "GI0216",
+    "GI0217",
+    "GI0218"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "bb489ba7-2e54-4094-9496-3b931bae791a",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: police week report; only a possible future demand for police liaison officers in Middle East embassies",
+   "held": []
+  },
+  {
+   "article_id": "972e648d-f7aa-41ff-916c-aaf15bc83f26",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no irregular-route fact; Iran war hotlines held for services",
+   "held": [
+    {
+     "target": "global/services",
+     "claim": "In June 2025 the Foreign Ministry opened emergency hotlines for Bangladeshis in Iran: Embassy Tehran +989908577368 and +989122065745 (WhatsApp), Foreign Ministry Dhaka +8801712012847.",
+     "quote": "বাংলাদেশ দূতাবাস, তেহরানের হটলাইন নম্বরগুলো হলো (হোয়াটসঅ্যাপসহ): +৯৮৯৯০৮৫৭৭৭৩৬৮, +৯৮৯১২২০৬৫৭৪৫\nপররাষ্ট্র মন্ত্রণালয়ের ঢাকাস্থ কার্যালয়ের হটলাইন নম্বর: +৮৮০১৭১২০১২৮৪৭"
+    }
+   ]
+  },
+  {
+   "article_id": "6c9ccc0f-3e8b-4c2e-9e4d-e81425a7f699",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of GI0219, GI0220 (same Foreign Ministry figures reported a day later); evacuation detail held",
+   "held": [
+    {
+     "target": "global/services",
+     "claim": "In June 2025 the government decided to move embassy staff in Tehran to safety because the embassy was within about a kilometre of sensitive sites under Israeli attack.",
+     "quote": "তেহরান থেকে প্রতিবেদন পাওয়ার পর মিশনে কর্মরত কূটনীতিকসহ সবাইকে দ্রুত নিরাপদ স্থানে সরিয়ে নেওয়ার তাৎক্ষণিক সিদ্ধান্ত দেওয়া হয়েছে।"
+    }
+   ]
+  },
+  {
+   "article_id": "aac19003-c8a6-4e8e-8e58-7229372a5854",
+   "used": true,
+   "fact_ids": [
+    "GI0219",
+    "GI0220"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "a30d144b-2286-4c9b-9efa-824d98a60e16",
+   "used": true,
+   "fact_ids": [
+    "GI0221"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "961d2495-3908-4c6d-b566-8d1823398b19",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no irregular-route fact; evacuation planning held for services",
+   "held": [
+    {
+     "target": "global/services",
+     "claim": "In June 2025 about 100 of some 400 Bangladeshis in Tehran contacted the embassy to return; the government planned to bring them home through Pakistan or Turkey, and Bangladeshis in Bandar Abbas could also get help.",
+     "quote": "তেহরানে ৪০০ জনের মতো বাংলাদেশির মধ্যে এ পর্যন্ত ১০০ জন যোগাযোগ করেছেন। এখন তাঁদের কীভাবে কোন পথে ফেরানো যায়, সে প্রক্রিয়া শুরু হয়েছে।"
+    }
+   ]
+  },
+  {
+   "article_id": "c3d3b6de-b61f-4bd1-9676-a73715899273",
+   "used": true,
+   "fact_ids": [
+    "GI0224",
+    "GI0225",
+    "GI0226"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "0f16d068-cd52-427b-bcbf-67bb20de4ab3",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no irregular-route fact; evacuation registration held for services",
+   "held": [
+    {
+     "target": "global/services",
+     "claim": "By 24 June 2025, 250 Bangladeshis had registered to leave Iran; 90 were to cross from Mirjaveh to Taftan in Pakistan and fly Karachi-Dubai-Dhaka; the Ministry asked all wishing to return to register with the Embassy in Tehran.",
+     "quote": "দেশে ফিরতে বাংলাদেশিরা ইরানের মারজাভেহ থেকে বেলুচিস্তান প্রদেশের তাফতান সীমান্ত দিয়ে পাকিস্তানে প্রবেশ করবেন। এরপর তাঁদের ফ্লাইটে করাচি থেকে দুবাই ট্রানজিট নিয়ে ঢাকায় আনার পরিকল্পনা রয়েছে।"
+    }
+   ]
+  },
+  {
+   "article_id": "c1aca9db-4969-4364-bad8-43b83bf75011",
+   "used": true,
+   "fact_ids": [
+    "GI0227",
+    "GI0228",
+    "GI0229",
+    "GI0307"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "85336db5-6b96-4386-b4d2-9c050ea17154",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no irregular-route fact; Albania hiring interest held for a future Albania doc",
+   "held": [
+    {
+     "target": "countries/albania",
+     "claim": "Albania's President told the Chief Adviser in September 2025 that several Albanian companies had applied to hire Bangladeshi workers, and Bangladeshis currently have to go to New Delhi for an Albanian visa.",
+     "quote": "বর্তমানে বাংলাদেশি নাগরিকদের ভিসার জন্য নয়াদিল্লি পর্যন্ত যেতে হয় বলেও উল্লেখ করেন।"
+    }
+   ]
+  },
+  {
+   "article_id": "eab01950-3bea-4149-a68d-2ee9211a7eb4",
+   "used": true,
+   "fact_ids": [
+    "GI0230",
+    "GI0231"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "df85fc58-a3ee-4fd4-9987-668c80893e01",
+   "used": true,
+   "fact_ids": [
+    "GI0161",
+    "GI0162"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "a505bd3f-9246-4ecc-b9e1-0d6d0fb500f1",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of I0337 (Al Khums sinking, November 2025)",
+   "held": []
+  },
+  {
+   "article_id": "f6845465-1a9a-4a64-a2e6-df9472dbe374",
+   "used": true,
+   "fact_ids": [
+    "GI0163"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "fe90f4f0-82e8-45f9-b95e-1208bd8da924",
+   "used": true,
+   "fact_ids": [
+    "GI0232",
+    "GI0233",
+    "GI0234",
+    "GI0235",
+    "GI0236",
+    "GI0237",
+    "GI0238",
+    "GI0239"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "2e333808-d99c-4eff-96c8-ee5d4df5e14b",
+   "used": true,
+   "fact_ids": [
+    "GI0240",
+    "GI0241",
+    "GI0242",
+    "GI0243",
+    "GI0244",
+    "GI0245"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "b1f10266-be6a-415b-8c7d-c498fc48a88d",
+   "used": true,
+   "fact_ids": [
+    "GI0246",
+    "GI0247",
+    "GI0248"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "0f789ae7-afec-41af-969f-6f07b27d3049",
+   "used": true,
+   "fact_ids": [
+    "GI0222"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/services",
+     "claim": "In March 2026 about 300 Bangladeshis were listed to be brought home from Iran in two phases by road to Azerbaijan and then Biman charter; Azerbaijan approved on-arrival visas for 274.",
+     "quote": "এরই মধ্যে বাংলাদেশের ওই ২৭৪ জনের অন অ্যারাইভাল ভিসার অনুমোদন দিয়েছে আজারবাইজান।"
+    }
+   ]
+  },
+  {
+   "article_id": "adf69d24-239b-479c-8e94-6de690764660",
+   "used": true,
+   "fact_ids": [
+    "GI0223",
+    "GI0308"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "9e03e0e3-72f5-4ccb-bc95-9ea46ad74ed4",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of RU0055 and GI0251 (video stub: 12 Sunamganj dead)",
+   "held": []
+  },
+  {
+   "article_id": "cfeeda28-62d0-4eeb-9da4-2190d090614a",
+   "used": true,
+   "fact_ids": [
+    "GI0249",
+    "GI0250"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "bc1a37a5-d1e8-4b6e-a63c-66fa86d56ff2",
+   "used": true,
+   "fact_ids": [
+    "GI0251",
+    "GI0252",
+    "GI0253"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "be6ed602-715a-478d-aa42-5f3733ab8e4f",
+   "used": true,
+   "fact_ids": [
+    "GI0254",
+    "GI0255",
+    "GI0256",
+    "GI0257"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "29573975-d178-4829-9df4-c5fff2551bfb",
+   "used": true,
+   "fact_ids": [
+    "GI0258",
+    "GI0259"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "5c4cb813-e8a9-4ebf-907e-de8629519dfc",
+   "used": true,
+   "fact_ids": [
+    "GI0260",
+    "GI0261",
+    "GI0262",
+    "GI0263",
+    "GI0264",
+    "GI0265"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ab174533-2e8d-44f2-8c56-dfb5bf30bc33",
+   "used": true,
+   "fact_ids": [
+    "GI0266",
+    "GI0267"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "540e6b33-d34a-484d-a523-488148d6a468",
+   "used": true,
+   "fact_ids": [
+    "GI0268"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "9bb24493-b408-4431-8599-b201cdd265aa",
+   "used": true,
+   "fact_ids": [
+    "GI0269",
+    "GI0270",
+    "GI0271"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "3d07d297-cb36-4d4c-b120-14b29b6884e7",
+   "used": true,
+   "fact_ids": [
+    "GI0272"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "a3e75cfe-76d9-4e15-876c-dce4cf230f4a",
+   "used": true,
+   "fact_ids": [
+    "GI0273"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "5d35ab35-0be3-471f-97e0-cf6297cec8ea",
+   "used": true,
+   "fact_ids": [
+    "GI0274",
+    "GI0275",
+    "GI0276"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/services",
+     "claim": "After the August 2026 Amur explosion the Embassy in Moscow said it would oversee treatment of the seven injured Bangladeshis moved to a Moscow hospital.",
+     "quote": "মস্কোয় নেওয়ার পর আহত শ্রমিকদের চিকিৎসার বিষয়টি বাংলাদেশ দূতাবাস দেখভাল করবে বলে জানিয়েছে।"
+    }
+   ]
+  },
+  {
+   "article_id": "b4a05f45-ce83-4e31-87e8-34f844f1fb57",
+   "used": true,
+   "fact_ids": [
+    "GI0277",
+    "GI0278"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "5cf78d49-3f10-478f-bd39-c2136dd4f78d",
+   "used": true,
+   "fact_ids": [
+    "GI0164",
+    "GI0165"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "a6a9bfde-c7a7-4c46-a4f4-76418f530eea",
+   "used": true,
+   "fact_ids": [
+    "GI0279",
+    "GI0280",
+    "GI0281"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "3e139866-138b-46a5-930f-1fbd0ef6446f",
+   "used": true,
+   "fact_ids": [
+    "GI0282",
+    "GI0283",
+    "GI0284",
+    "GI0309"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "4c391ae9-55e6-4b82-b4a5-7c43955a5220",
+   "used": true,
+   "fact_ids": [
+    "GI0285",
+    "GI0286",
+    "GI0287",
+    "GI0288",
+    "GI0289"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "a96cc885-a003-4122-9ea7-4c2002a859de",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of I0265, I0266 (video stub of the SRB press conference)",
+   "held": []
+  },
+  {
+   "article_id": "c73bf09e-0f53-4a8c-9a3f-30d413f867ff",
+   "used": true,
+   "fact_ids": [
+    "GI0290",
+    "GI0291",
+    "GI0292",
+    "GI0293",
+    "GI0294"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "acf010c0-7f38-4ea5-aab8-c2420c4c5bc1",
+   "used": true,
+   "fact_ids": [
+    "GI0295",
+    "GI0296",
+    "GI0297",
+    "GI0298",
+    "GI0299",
+    "GI0300",
+    "GI0301"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "edbad86f-3a95-4cb8-bb5b-706c43a5cf88",
+   "used": true,
+   "fact_ids": [
+    "GI0166",
+    "GI0167",
+    "GI0168"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "2dfa1a6c-a2ea-4f56-8675-147db3de144b",
+   "used": true,
+   "fact_ids": [
+    "GI0302",
+    "GI0303"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  }
+ ]
+}

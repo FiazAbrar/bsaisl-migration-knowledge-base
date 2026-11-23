@@ -1,0 +1,241 @@
+{
+ "articles": [
+  {
+   "article_id": "8e40841a-e027-49d0-a912-5f11b9ace317",
+   "used": true,
+   "fact_ids": [
+    "GO0305",
+    "GO0306",
+    "GO0307",
+    "GO0308",
+    "GO0309",
+    "GO0310",
+    "GO0311",
+    "GO0312",
+    "GO0313"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ff36ac03-eaf7-4775-ba35-4a72ece91052",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of facts GO0314, GO0324-GO0327 (same Australia Awards article republished 29 April 2024 with the website link; the later copy is cited)",
+   "held": []
+  },
+  {
+   "article_id": "836906a7-ea36-4ce2-b816-b26257af4b42",
+   "used": true,
+   "fact_ids": [
+    "GO0314",
+    "GO0315",
+    "GO0324",
+    "GO0325",
+    "GO0326",
+    "GO0327"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ecd7cab8-eb80-46d2-b97c-106c741ae8b2",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: video item with no text in the archive (Romania); Romania workers running away is not stated anywhere readable",
+   "held": []
+  },
+  {
+   "article_id": "1a52b1d5-37c9-430e-92f9-000452167a48",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: video teaser asking whether Bangladeshis in Tehran are safe, no facts in text",
+   "held": []
+  },
+  {
+   "article_id": "8c0f45ee-e463-4180-8e4c-4127010c82f3",
+   "used": true,
+   "fact_ids": [
+    "GO0352",
+    "GO0353",
+    "GO0354",
+    "GO0367",
+    "GO0368",
+    "GO0376"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "697b30fb-9e9d-4143-aa51-2f7b7a27601b",
+   "used": true,
+   "fact_ids": [
+    "GO0355",
+    "GO0356",
+    "GO0377"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "995352d6-6152-4e95-892a-e8295ac0af6b",
+   "used": true,
+   "fact_ids": [
+    "GO0316",
+    "GO0317",
+    "GO0318",
+    "GO0319",
+    "GO0320",
+    "GO0321",
+    "GO0322",
+    "GO0323",
+    "GO0328",
+    "GO0329",
+    "GO0378",
+    "GO0379"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "11b80fbb-15ce-45c3-8742-bc0a33caa1c8",
+   "used": true,
+   "fact_ids": [
+    "GO0330",
+    "GO0331",
+    "GO0332",
+    "GO0333",
+    "GO0334",
+    "GO0335",
+    "GO0336",
+    "GO0369",
+    "GO0370",
+    "GO0371",
+    "GO0372",
+    "GO0373",
+    "GO0374"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "40af454b-9ecf-4a05-84bc-fa950e198566",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of facts GO0173, GO0175, GO0193 (Md Fahad, South Africa; teaser of an article already used)",
+   "held": []
+  },
+  {
+   "article_id": "8bfc7b5b-e306-426b-96ad-7b46f5af52e0",
+   "used": true,
+   "fact_ids": [
+    "GO0357"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "8bc77805-ca73-44de-abc0-912490c2172c",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of fact GO0357 (video teaser of the same Iran evacuation story)",
+   "held": []
+  },
+  {
+   "article_id": "998f03c4-d6e1-4532-ad48-26cd96fada70",
+   "used": true,
+   "fact_ids": [
+    "GO0346",
+    "GO0347",
+    "GO0348",
+    "GO0349",
+    "GO0350",
+    "GO0351",
+    "GO0375"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "444b9590-b48a-4c27-aaae-7dc3a674f3a9",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of facts GO0346, GO0351 (video teaser of the Spain regularisation story)",
+   "held": []
+  },
+  {
+   "article_id": "52f34dfa-9dd7-4d1e-9a26-af9fc84d3811",
+   "used": true,
+   "fact_ids": [
+    "GO0362",
+    "GO0363",
+    "GO0364",
+    "GO0365",
+    "GO0366"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "countries/united-arab-emirates",
+     "claim": "Regular travellers said in May 2026 that Dubai (UAE visit visas for Bangladeshis) had been closed for a long time.",
+     "quote": "এর মধ্যে দুবাই অনেক দিন ধরে বন্ধ।"
+    },
+    {
+     "target": "countries/cambodia",
+     "claim": "Regular travellers said in May 2026 that Cambodia's visas for Bangladeshi tourists had closed after Cambodia became popular, as had Uzbekistan's and Vietnam's.",
+     "quote": "উজবেকিস্তান, ভিয়েতনাম, কম্বোডিয়া জনপ্রিয় হয়ে উঠলেও বন্ধ হয়ে গেছে ভিসা।"
+    },
+    {
+     "target": "countries/india",
+     "claim": "Regular travellers said in May 2026 that India's visas for Bangladeshis had been closed for nearly two years.",
+     "quote": "ভারতের ভিসা বন্ধ প্রায় দুই বছর ধরে।"
+    },
+    {
+     "target": "countries/malaysia",
+     "claim": "Tourism sector people said in May 2026 that Malaysia (and Singapore) give e-visas but not to new passports; those with earlier travel history get them.",
+     "quote": "সিঙ্গাপুর, মালয়েশিয়া ই-ভিসা দিলেও নতুন পাসপোর্টের ক্ষেত্রে দিচ্ছে না। যাঁদের আগে ভ্রমণের অভিজ্ঞতা আছে, তাঁরা পাচ্ছেন।"
+    },
+    {
+     "target": "countries/singapore",
+     "claim": "Tourism sector people said in May 2026 that Singapore (and Malaysia) give e-visas but not to new passports; those with earlier travel history get them.",
+     "quote": "সিঙ্গাপুর, মালয়েশিয়া ই-ভিসা দিলেও নতুন পাসপোর্টের ক্ষেত্রে দিচ্ছে না। যাঁদের আগে ভ্রমণের অভিজ্ঞতা আছে, তাঁরা পাচ্ছেন।"
+    },
+    {
+     "target": "countries/maldives",
+     "claim": "Tourism sector people said in May 2026 that tourists can go to the Maldives after applying online, and that it is the most expensive country in the region, so few tourists go.",
+     "quote": "মালদ্বীপ এ অঞ্চলের সবচেয়ে ব্যয়বহুল দেশ, তাই পর্যটকের চাপ কম।"
+    }
+   ]
+  },
+  {
+   "article_id": "c1684948-f9df-43f1-8531-6ea58e2c8cdd",
+   "used": true,
+   "fact_ids": [
+    "GO0358",
+    "GO0359",
+    "GO0360",
+    "GO0361"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "a7410854-ea0e-4d43-bfb1-272a0515b9d1",
+   "used": true,
+   "fact_ids": [
+    "GO0337",
+    "GO0338",
+    "GO0339",
+    "GO0340",
+    "GO0341",
+    "GO0342",
+    "GO0343",
+    "GO0344",
+    "GO0345",
+    "GO0380"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  }
+ ]
+}

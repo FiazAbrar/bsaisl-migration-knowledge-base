@@ -1,0 +1,195 @@
+[
+ {
+  "held_id": "H-money-1",
+  "outcome": "added",
+  "fact_ids": [
+   "GM0409"
+  ],
+  "note": "2024 total duplicates GM0170; added the ~1 million workers who went abroad in 2024 under Workers against money."
+ },
+ {
+  "held_id": "H-money-2",
+  "outcome": "added",
+  "fact_ids": [
+   "GM0379",
+   "GM0380",
+   "GM0381"
+  ],
+  "note": "The Probashi Card and The government cash incentive; also pilot countries (Jordan, South Korea, Middle East). New Need to know on whether the 3% is approved."
+ },
+ {
+  "held_id": "H-money-3",
+  "outcome": "added",
+  "fact_ids": [
+   "GM0383",
+   "GM0384",
+   "GM0385",
+   "GM0386",
+   "GM0387",
+   "GM0388",
+   "GM0389"
+  ],
+  "note": "Land and houses at home: Keraniganj case with both sides and police response."
+ },
+ {
+  "held_id": "H-money-4",
+  "outcome": "added",
+  "fact_ids": [
+   "GM0390",
+   "GM0391"
+  ],
+  "note": "New subsection A fund for when remittances stop, attributed to the personal-finance piece."
+ },
+ {
+  "held_id": "H-money-5",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GM0288"
+  ],
+  "note": "First 11 days of March 2026 overtaken by the full March 2026 total."
+ },
+ {
+  "held_id": "H-money-6",
+  "outcome": "added",
+  "fact_ids": [
+   "GM0392",
+   "GM0393",
+   "GM0394"
+  ],
+  "note": "New March 2026 bullet in What a remittance dollar fetched, with Bangladesh Bank's Tk 123 message."
+ },
+ {
+  "held_id": "H-money-7",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GM0291"
+  ],
+  "note": "Same article and fact already cited in Where it comes from."
+ },
+ {
+  "held_id": "H-money-8",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GM0288"
+  ],
+  "note": "March 2026 record and 14% already in Months in 2026."
+ },
+ {
+  "held_id": "H-money-9",
+  "outcome": "added",
+  "fact_ids": [
+   "GM0395",
+   "GM0396"
+  ],
+  "note": "Rome embassy Remittance Award added to the rewards paragraph under Banks and exchange houses."
+ },
+ {
+  "held_id": "H-money-10",
+  "outcome": "added",
+  "fact_ids": [
+   "GM0398",
+   "GM0399",
+   "GM0400",
+   "GM0401",
+   "GM0402"
+  ],
+  "note": "New subsection Money left with relatives; allegation and wife's denial both given."
+ },
+ {
+  "held_id": "H-money-11",
+  "outcome": "added",
+  "fact_ids": [
+   "GM0403",
+   "GM0404"
+  ],
+  "note": "October 2024 bullet in What a remittance dollar fetched; note in Resolved conflicts vs GM0154."
+ },
+ {
+  "held_id": "H-money-12",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GM0046",
+   "GM0047",
+   "GM0048"
+  ],
+  "note": "Same parliamentary committee list already in What keeps people off the legal channels."
+ },
+ {
+  "held_id": "H-money-13",
+  "outcome": "added",
+  "fact_ids": [
+   "GM0405"
+  ],
+  "note": "Worldwide: 2024 World Bank ranking (sixth)."
+ },
+ {
+  "held_id": "H-money-14",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GM0234"
+  ],
+  "note": "July-April FY 2024-25 overtaken by the full-year figure."
+ },
+ {
+  "held_id": "H-money-15",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GM0206"
+  ],
+  "note": "March 2025 record already cited."
+ },
+ {
+  "held_id": "H-money-16",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GM0266",
+   "GM0334"
+  ],
+  "note": "Jan-Mar 2025 country figures predate the US attribution correction; overtaken by corrected Jul-Nov 2025 and FY 2025-26 country data."
+ },
+ {
+  "held_id": "H-money-17",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GM0176",
+   "GM0184",
+   "GM0206"
+  ],
+  "note": "Jan-Mar 2025 total covered by the 2025 monthly figures."
+ },
+ {
+  "held_id": "H-money-18",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GM0260",
+   "GM0315"
+  ],
+  "note": "Narrowing rate gap as the reason for higher legal remittance already stated."
+ },
+ {
+  "held_id": "H-money-19",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GM0257"
+  ],
+  "note": "2025 total already cited."
+ },
+ {
+  "held_id": "H-money-20",
+  "outcome": "added",
+  "fact_ids": [
+   "GM0406",
+   "GM0407",
+   "GM0408"
+  ],
+  "note": "New subsection Sending to a charity or institution at home, with a Need to know."
+ },
+ {
+  "held_id": "H-money-21",
+  "outcome": "added",
+  "fact_ids": [
+   "GM0397"
+  ],
+  "note": "Pension: Rome embassy session on universal pension registration (April 2024)."
+ }
+]

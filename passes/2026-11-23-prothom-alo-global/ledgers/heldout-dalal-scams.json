@@ -1,0 +1,18 @@
+[
+ {"held_id": "H-dalal-scams-1", "outcome": "added", "fact_ids": ["GS0082"], "note": "What people pay, The official figure; plus a Need to know on the employer-pays model's scope"},
+ {"held_id": "H-dalal-scams-2", "outcome": "added", "fact_ids": ["GS0083", "GS0084"], "note": "What people pay, Where it goes; also logged the debt-repayment line"},
+ {"held_id": "H-dalal-scams-3", "outcome": "added", "fact_ids": ["GS0085", "GS0086"], "note": "World Bank average in The average bill; ITUC oral-recruitment line in The staged-payment trap, step 3"},
+ {"held_id": "H-dalal-scams-4", "outcome": "wrong doc", "fact_ids": [], "note": "Foreign nationals setting up scam centres inside Bangladesh, not a scam on migrants; belongs in Illegal routes doc, 'Cambodia, Myanmar and Laos: scam compounds' (Additional IGP says the same foreign ring that took Bangladeshis to Cambodia is behind it)"},
+ {"held_id": "H-dalal-scams-5", "outcome": "wrong doc", "fact_ids": [], "note": "11 Sept 2026 Khulshi raid on 70 foreigners; belongs in Illegal routes doc, 'Cambodia, Myanmar and Laos: scam compounds'"},
+ {"held_id": "H-dalal-scams-6", "outcome": "added", "fact_ids": ["GS0087", "GS0088"], "note": "Why people go through a dalal, No other source of information (May 2024)"},
+ {"held_id": "H-dalal-scams-7", "outcome": "added", "fact_ids": ["GS0089", "GS0090"], "note": "The commonest abuses, new 'Kept secret' bullet; also logged BRAC's 5% migration-vs-trafficking finding from the same paragraph"},
+ {"held_id": "H-dalal-scams-8", "outcome": "added", "fact_ids": ["GS0091", "GS0092"], "note": "Online job adverts section, How it works item 2"},
+ {"held_id": "H-dalal-scams-9", "outcome": "added", "fact_ids": ["GS0093"], "note": "Trafficking disguised as a job, How it works item 4 (age falsified)"},
+ {"held_id": "H-dalal-scams-10", "outcome": "added", "fact_ids": ["GS0094", "GS0095", "GS0096", "GS0097", "GS0098", "GS0099", "GS0100", "GS0101"], "note": "Full Sajib Sardar case (Madaripur, Tk 16 lakh contract, Tk 30 lakh ransom, died in Libya 19 Mar 2025) added to 'Your visa is stuck, pay more' cases with the broker's 'contract was only to Libya' line"},
+ {"held_id": "H-dalal-scams-11", "outcome": "added", "fact_ids": ["GS0102", "GS0103", "GS0104", "GS0105"], "note": "When the visa... are all real, item 5 Russia, new 'Earlier deaths' sub-bullet; date read as 14 April 2025 (column of Nov 2025 says 'last 14 April')"},
+ {"held_id": "H-dalal-scams-12", "outcome": "added", "fact_ids": ["GS0106"], "note": "Same sub-bullet; BRAC report via the Nov 2025 column"},
+ {"held_id": "H-dalal-scams-13", "outcome": "duplicate", "fact_ids": ["S0082", "S0083"], "note": "Medical slip section already gives the pay-for-fit allegation, including a former BAIRA official's Sept 2025 figures"},
+ {"held_id": "H-dalal-scams-14", "outcome": "added", "fact_ids": ["GS0107", "GS0108"], "note": "The chain, item 3 (travel agencies and tickets); attributed as the company's own research"},
+ {"held_id": "H-dalal-scams-15", "outcome": "added", "fact_ids": ["GS0109"], "note": "Paragraph after the chain, with the minister's Dubai drivers statement from the same 18 Aug 2026 roundtable"},
+ {"held_id": "H-dalal-scams-16", "outcome": "duplicate", "fact_ids": ["AB0124"], "note": "Fake BMET cards and fake clearance, August 2026 case: same CAA deputy director, same roundtable"}
+]

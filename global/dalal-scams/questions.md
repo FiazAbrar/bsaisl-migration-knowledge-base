@@ -34,3 +34,16 @@ Questions this doc can't yet answer. Each is a "Need to know" in `doc.md`.
   - Which of these committees actually meet?
 - Does WARBE Development Foundation (a migrant workers' rights organisation) mediate refunds for people who walk in with a complaint, and at which offices?
 - What phone number does BNWLA (the Bangladesh National Women Lawyers' Association) give returnees who need a lawyer, and does it take cases outside Cox's Bazar?
+
+## In one minute
+
+- Which RMMRU study gives the 19%, 31-32% and 51% figures, and from which year and sample?
+
+## Who a dalal is
+
+- The 2026 counts of licensed agencies range from about 2,200 to about 3,000: how many hold a valid licence now, and on which BMET page is the current list?
+- Which corridors and jobs does the employer-pays recruitment model named in the 2025 Trafficking in Persons report cover, and what may a worker be charged under it?
+
+## Returnees cheated of their payments
+
+- Which programme paid these returnees a Tk 13,500 incentive through Rupali Bank accounts, and where does a returnee report money taken from it?

@@ -35,3 +35,19 @@ Questions this doc can't yet answer. Each is a "Need to know" in `doc.md`.
 - Is PKB's rehabilitation loan for returnees at 9% or 8% interest in 2026?
   - Is the collateral-free limit Tk 3 lakh, or Tk 5 lakh for a returnee with a skills certificate?
 - Which three documents does Karmasangsthan Bank (the state-owned employment bank) ask returnees for, and up to what amount does it lend to them?
+
+## Passport and police clearance
+
+- Has the passport fee cut for migrants announced in October 2025 taken effect, and at what fee?
+- Were the more than 8,000 passports burnt in Narayanganj reissued free, and did their owners have to apply and give biometrics again?
+- Has BRTA cleared the smart-card backlog, and how long does a driver's card take in 2026?
+
+## Departure day at the airport
+
+- Besides Biman's T-class fares announced in parliament in June 2026 (see "Who pays for the air ticket?" in the Frequently asked questions about going abroad doc), which airlines offer a special workers' fare from Dhaka in 2026, and what does a worker show to get it?
+- Where does a passenger complain about a ticket sold above the approved fare: CAAB, the ministry or the airline?
+- Does an airline rebook or refund a worker whose flight is cancelled by war or weather, and does the BMET clearance stay valid for the new date?
+
+## Coming back
+
+- Does PKB lend a returnee with an NSDA (National Skills Development Authority) skills certificate up to Tk 5 lakh without collateral, as an NSDA director said in August 2026, beyond the Tk 3 lakh on PKB's loan page?

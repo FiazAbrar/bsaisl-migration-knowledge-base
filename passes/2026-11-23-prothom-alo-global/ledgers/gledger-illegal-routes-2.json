@@ -1,0 +1,303 @@
+{
+ "articles": [
+  {
+   "article_id": "c7108f26-6a4d-47c3-9358-98d99210274a",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact (economic impact of Middle East war)",
+   "held": []
+  },
+  {
+   "article_id": "90870b7d-f106-40fe-b9a0-f0ee5dc60f11",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact (consular access, RAB, oil)",
+   "held": []
+  },
+  {
+   "article_id": "2da88a02-4246-4529-a635-d4ffa840de10",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact (general statement on Middle East migrants' safety)",
+   "held": []
+  },
+  {
+   "article_id": "a1f67ff4-6851-4d58-8fee-bd719b65e909",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact (Eid during war, teaser)",
+   "held": []
+  },
+  {
+   "article_id": "bb58aaa0-17b8-4fd0-8ba4-e4be43c822a4",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact (audio news teaser)",
+   "held": []
+  },
+  {
+   "article_id": "5af89a7c-02f1-4801-b650-8771b6c8242f",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of RU0055 (12 of the Libya-Greece boat dead from Sunamganj)",
+   "held": []
+  },
+  {
+   "article_id": "09807c78-20d6-41f2-9dd9-88cb7582ca23",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact for this doc (Bangladesh Bank borrowing plans)",
+   "held": []
+  },
+  {
+   "article_id": "e7ddcad9-a5dc-47ae-9e15-6608ae96f9a6",
+   "used": true,
+   "fact_ids": [
+    "GI0057"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/services",
+     "claim": "The Minister for Expatriates' Welfare said on 3 April 2026 that the family of S M Tarek, killed in Bahrain in the Middle East war, was given Tk 35,000 for burial and Tk 50,000 at once by the Wage Earners' Welfare Board, and would get Tk 3 lakh in financial help and Tk 10 lakh insurance.",
+     "quote": "আরিফুল হক জানান, নিহতের পরিবারকে ওয়েজ আর্নার্স কল্যাণ বোর্ডের পক্ষ থেকে দাফনের জন্য ৩৫ হাজার টাকা এবং ৫০ হাজার টাকা তাৎক্ষণিকভাবে দেওয়া হয়েছে। এ ছাড়া আর্থিক সহায়তা হিসেবে ৩ লাখ টাকা এবং বিমার ১০ লাখ টাকা দেওয়া হবে।"
+    },
+    {
+     "target": "global/services",
+     "claim": "The Minister for Expatriates' Welfare said on 3 April 2026 that six Bangladeshis had died so far in the Middle East war.",
+     "quote": "তিনি জানান, মধ্যপ্রাচ্যের যুদ্ধে এখন পর্যন্ত ছয় বাংলাদেশি প্রাণ হারিয়েছেন।"
+    }
+   ]
+  },
+  {
+   "article_id": "49cc1628-f7fa-448f-a993-6a72d0b10f38",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no fact for this doc; remittance share held for money doc",
+   "held": [
+    {
+     "target": "global/money",
+     "claim": "A Bangladesh Bank report cited on 12 April 2026 shows half of all remittances come from six Gulf countries: Saudi Arabia, the UAE, Qatar, Oman, Bahrain and Kuwait.",
+     "quote": "প্রতিবেদনটিতে দেখা যায়, তেলসমৃদ্ধ ছয়টি উপসাগরীয় দেশ সৌদি আরব, সংযুক্ত আরব আমিরাত (ইউএই), কাতার, ওমান, বাহরাইন ও কুয়েত থেকেই আসে মোট প্রবাসী আয়ের অর্ধেক।"
+    }
+   ]
+  },
+  {
+   "article_id": "b30454ab-01e8-4c54-8742-63929415dcd8",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact (global job market)",
+   "held": []
+  },
+  {
+   "article_id": "1e28880d-4592-401c-8450-da2aca4ab754",
+   "used": true,
+   "fact_ids": [
+    "GI0058"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "fc88e960-a9af-4983-85b3-6d654b61d249",
+   "used": true,
+   "fact_ids": [
+    "GI0059",
+    "GI0060"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "5fa7e325-fe64-4b7b-8bb1-dadddf46061c",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact (opinion on government communication)",
+   "held": []
+  },
+  {
+   "article_id": "414bafa5-a210-4aab-ac11-467d7bc2c0a6",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no fact for this doc; worker stock held for faq doc",
+   "held": [
+    {
+     "target": "global/faq",
+     "claim": "The Minister for Expatriates' Welfare told parliament on 20 April 2026 that more than 1.3 crore workers are working in 176 countries.",
+     "quote": "বর্তমানে বিশ্বের ১৭৬টি দেশে ১ কোটি ৩০ লাখের বেশি কর্মী কর্মরত রয়েছেন।"
+    },
+    {
+     "target": "global/faq",
+     "claim": "The Minister for Expatriates' Welfare told parliament on 20 April 2026 that 1,44,81,745 workers have been sent abroad since 2004.",
+     "quote": "২০০৪ সাল থেকে বর্তমান পর্যন্ত বিদেশে পাঠানো কর্মীর সংখ্যা ১ কোটি ৪৪ লাখ ৮১ হাজার ৭৪৫।"
+    }
+   ]
+  },
+  {
+   "article_id": "1ab65931-7c42-4386-8f91-523fb8b49352",
+   "used": true,
+   "fact_ids": [
+    "GI0061",
+    "GI0062",
+    "GI0063",
+    "GI0064"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "1fac5650-43e8-4bbf-b6a1-d9f81fb07440",
+   "used": true,
+   "fact_ids": [
+    "GI0065",
+    "GI0066"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "929ef220-b523-422d-8789-0bfcd79c0ad3",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no fact for this doc; remittance figures held for money doc",
+   "held": [
+    {
+     "target": "global/money",
+     "claim": "Remittances were USD 3.75 billion in March 2026, the highest ever and 14% above March 2025.",
+     "quote": "মার্চে ৩ দশমিক ৭৫ বিলিয়ন বা ৩৭৫ কোটি ডলার পাঠিয়েছেন প্রবাসীরা, যা এযাবৎকালের সর্বোচ্চ। এই আয় গত বছরের মার্চে আসা প্রবাসী আয়ের তুলনায় ১৪ শতাংশ বেশি।"
+    }
+   ]
+  },
+  {
+   "article_id": "4cff5e03-efff-4af4-9e2a-42716e328ba4",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of VI0003, VI0015, VI0016, VI0007 and I0331 (2026 Act provisions, already cited from the Act itself)",
+   "held": []
+  },
+  {
+   "article_id": "c03de1d9-7ec5-440f-b8df-7d079669bc77",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact (energy subsidy)",
+   "held": []
+  },
+  {
+   "article_id": "9c01de4d-2b9b-47ef-bfae-e9ec470f5aee",
+   "used": true,
+   "fact_ids": [
+    "GI0067",
+    "GI0068",
+    "GI0069",
+    "GI0070",
+    "GI0071",
+    "GI0072",
+    "GI0073"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "a379449c-c498-4310-8b09-b3576a8003e9",
+   "used": true,
+   "fact_ids": [
+    "GI0074",
+    "GI0075",
+    "GI0076"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ede5fafe-41ca-4a7e-9395-43239c3bfa17",
+   "used": true,
+   "fact_ids": [
+    "GI0077",
+    "GI0078"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "f08ab5ea-593c-404f-8a94-479692a1ee33",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact (video teaser)",
+   "held": []
+  },
+  {
+   "article_id": "a2d3273e-6c22-4f0e-b7b6-fe97ca244815",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact (video participants list only)",
+   "held": []
+  },
+  {
+   "article_id": "11b7fe34-48df-46e2-b8d3-2696a7cda110",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact (video participants list only)",
+   "held": []
+  },
+  {
+   "article_id": "e62d7d89-98a7-49f6-852b-945a279cb697",
+   "used": true,
+   "fact_ids": [
+    "GI0079"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "015f46af-ac90-41ba-8275-2d870085873e",
+   "used": true,
+   "fact_ids": [
+    "GI0080",
+    "GI0081",
+    "GI0082",
+    "GI0083",
+    "GI0084",
+    "GI0085",
+    "GI0086",
+    "GI0087"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "c7839435-6d0a-4e73-87d2-6738ee12be87",
+   "used": true,
+   "fact_ids": [
+    "GI0088",
+    "GI0089",
+    "GI0090",
+    "GI0091",
+    "GI0092"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "Women travelling alone report being questioned at Dhaka airport immigration about their marital status and husband's permission; in one case an immigration officer took a woman's husband's number and phoned him to confirm, according to rights activist Ferdous Ara Rumee.",
+     "quote": "ওই নারী হ্যাঁ বলার পরও প্রশ্ন শেষ হয়নি। তাঁর কাছ থেকে স্বামীর ফোন নম্বর নেওয়া হয়। পরে ইমিগ্রেশন কর্মকর্তা নিজের ব্যবহৃত ফোন থেকে তাঁর স্বামীকে ফোন করে বিষয়টি নিশ্চিত করেন বলে ফেসবুকে উল্লেখ করেছেন ফেরদৌস আরা।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "Ferdous Ara Rumee said immigration officers are more suspicious when a lone woman says she is going to Thailand or Nepal.",
+     "quote": "বিশেষ করে থাইল্যান্ড, নেপাল এসব দেশে যাচ্ছে শুনলে বেশি সন্দেহ করে।"
+    }
+   ]
+  },
+  {
+   "article_id": "e547ab53-7a5a-4a53-bf62-0badeb070573",
+   "used": true,
+   "fact_ids": [
+    "GI0093",
+    "GI0094",
+    "GI0095"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  }
+ ]
+}

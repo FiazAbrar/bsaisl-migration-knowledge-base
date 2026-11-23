@@ -1,0 +1,89 @@
+{
+ "articles": [
+  {
+   "article_id": "6ab23d6b-b119-4e92-bbbf-0fe1dd736e03",
+   "used": true,
+   "fact_ids": [
+    "GV0319"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "55067a46-7b05-4891-85d0-c9e49bd61942",
+   "used": true,
+   "fact_ids": [
+    "GV0320",
+    "GV0326",
+    "GV0327"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "850ecb34-e045-4099-ba92-4d8f6a1d044b",
+   "used": true,
+   "fact_ids": [
+    "GV0321",
+    "GV0322",
+    "GV0358"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "0b8fbe9a-92f6-4a24-ac6e-97d47752524b",
+   "used": true,
+   "fact_ids": [
+    "GV0323",
+    "GV0324"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "6c9ba89d-d102-4452-8c8f-15fccd6feb84",
+   "used": true,
+   "fact_ids": [
+    "GV0328",
+    "GV0331",
+    "GV0332"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "725de3e7-82a1-493c-9ecf-80c308bddc28",
+   "used": true,
+   "fact_ids": [
+    "GV0329",
+    "GV0330",
+    "GV0333"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ee84da4a-2407-4a6b-947b-dcd3c1330a5e",
+   "used": true,
+   "fact_ids": [
+    "GV0334",
+    "GV0335",
+    "GV0336",
+    "GV0337",
+    "GV0338",
+    "GV0339",
+    "GV0340",
+    "GV0341",
+    "GV0342",
+    "GV0343",
+    "GV0344",
+    "GV0345",
+    "GV0346",
+    "GV0347"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  }
+ ]
+}
