@@ -75,12 +75,19 @@ Jordan is BOESL's main market: 1.06 lakh of the 1.43 lakh workers it sent abroad
 
 BOESL's November 2026 notice takes women aged 20 to 35 who can run plain and overlock sewing machines, and its March 2026 notice tested only women, in person at the Bangladesh-Korea and Mohila (women's) TTCs (Technical Training Centres) in Mirpur, Dhaka [A0072, A0080, A0172]. Its November 2026 notice for Tusker Apparel takes no one who has worked abroad before [A0076]. The age on a passport is not always true: in all three suspected child-labour cases Better Work Jordan (the programme of the ILO, the International Labour Organization, and the IFC, the World Bank's International Finance Corporation, that inspected garment exporters) found in 2024, the passports had falsified dates of birth, and a worker told the ILO in 2018 she had changed the age on hers at 16 [A0047, A0088]. Who qualifies for domestic work is under Work visa: domestic worker [A0132].
 
+BOESL has also recruited supervisors and executives, mostly men, with at least five years' experience in the field. Its October 2024 call for Classic Fashion sought [PD0019, PD0020, PD0021, PD0022, PD0023]:
+- 20 production supervisors (women or men) and 20 quality supervisors (men), Tk 59,132 basic a month;
+- 10 production executives and 10 technical executives (men), Tk 1,09,816;
+- 10 quality executives and 5 mechanical executives (men), Tk 1,01,369;
+- 10 industrial engineering executives (men), Tk 1,35,159;
+- 3 trade union representatives (women), Tk 1,35,159 to 1,68,948.
+
 > **Need to know**
 > - At what minimum and maximum age does BMET clear a woman for a Jordan garment job, and a man for any Jordan job?
 
 #### Who is there
 
-BOESL said in February 2026 that about 30,000 Bangladeshi women work in Jordan's garment sector [A0158]. The exporting garment industry employed about 84,100 workers in mid-2025, three-quarters of them migrants on two- to three-year contracts, and women are over 75% of its production workforce [A0020, A0021]. Government sources counted about 75,000 Bangladeshi women and 25,000 men in Jordan in 2020 [A0143]. Of about 50,000 domestic workers in Jordan in 2014, around 30,000 were Bangladeshi, and the Bangladesh Embassy estimated 50,000 Bangladeshi domestic workers in 2017 [A0147, A0150]. At the end of 2025, 12% of the 337,103 non-Jordanians with valid work permits, about 40,000 people, were Bangladeshi, against 50% Egyptian [R0192].
+BOESL said in February 2026 that about 30,000 Bangladeshi women work in Jordan's garment sector [A0158]. The exporting garment industry employed about 84,100 workers in mid-2025, three-quarters of them migrants on two- to three-year contracts, and women are over 75% of its production workforce [A0020, A0021]. Government sources counted about 75,000 Bangladeshi women and 25,000 men in Jordan in 2020 [A0143]. Of about 50,000 domestic workers in Jordan in 2014, around 30,000 were Bangladeshi, and the Bangladesh Embassy estimated 50,000 Bangladeshi domestic workers in 2017 [A0147, A0150]. At the end of 2025, 12% of the 337,103 non-Jordanians with valid work permits, about 40,000 people, were Bangladeshi, against 50% Egyptian [R0192]. In December 2024 the Embassy's First Secretary (Labour) said a large number of Bangladeshis work in the garment sector and many others in domestic work, housing and other businesses [PD0024].
 
 > **Need to know**
 > - How many Bangladeshis hold valid Jordanian work permits in 2026, by sector?
@@ -167,7 +174,13 @@ BOESL takes no fee before final selection and all fees go through a bank [A0075]
 
 #### What the job pays
 - **The floor.** The garment collective agreement sets JD 230 a month: at least JD 130 cash and JD 100 in kind for housing and food [A0023]. The national minimum of JD 290 from January 2025 does not apply to garment workers or foreign domestic workers [A0024]. Under the 2025 agreement migrants earning JD 230 or more got no rise, and the union signed it without consulting its members [A0025, A0026].
-- **BOESL's notices.** JD 130 basic in March 2026; USD 183.35 basic in November 2026 [A0018, A0072].
+- **BOESL's notices.** JD 130 basic in March 2026; USD 183.35 basic in November 2026 [A0018, A0072]. The basic for a woman machine operator on earlier notices, as reported:
+  - March 2024, Sidney Apparels (150 posts): Tk 19,184 [PD0008, PD0010];
+  - September 2024, Classic Fashion: Tk 21,125; Tusker Apparel: "125 Jordan dollars" [PD0013, PD0015];
+  - October 2024, Tusker, Classic Fashion and Jia Apparel, in a call for 738 women and men: Tk 21,118 [PD0016, PD0017, PD0018];
+  - March 2025, Tusker: Tk 21,311 [PD0025];
+  - July 2026, Tusker: Tk 22,500 [A0083];
+  - September 2026: USD 183.61, about Tk 22,587 [PD0031].
 - **What workers report.** Women told at BOESL training they would get JD 125 to 150 received JD 99 to 130 (2023) [A0092]. An operator's basic was about Tk 18,000, or Tk 25,000 to 30,000 with overtime (2023) [A0058].
 
 At JD 130, about Tk 22,000, a Tk 40,000 to 60,000 recruitment cost equals two to three months' cash pay [A0023, A0018, A0089].
@@ -287,7 +300,7 @@ This is the main route to Jordan (numbers under Background) [G0105]. The factory
 
 The government may fix by order the most a worker pays to go abroad [G0129]. What it set for Jordan depends on the channel:
 
-- **Through BOESL:** the Jordanian employer pays BOESL's service charge, the emigration tax, 15% VAT, BOESL's registration fee, life insurance and the welfare fee; the worker pays at most the medical (Tk 1,000), the PDO (Tk 305, Tk 200 on one), fingerprints (Tk 200 or 220) and, on some notices, Tk 500 for the undertaking stamp [G0005, G0013, G0016, G0023, KB0003]. On some notices the factory repays even these, before departure or in Jordan [G0023, G0013].
+- **Through BOESL:** the Jordanian employer pays BOESL's service charge, the emigration tax, 15% VAT, BOESL's registration fee, life insurance and the welfare fee; the worker pays at most the medical (Tk 1,000), the PDO (Tk 305, Tk 200 on one), fingerprints (Tk 200 or 220) and, on some notices, Tk 500 for the undertaking stamp [G0005, G0013, G0016, G0023, KB0003]. On some notices the factory repays even these, before departure or in Jordan [G0023, G0013]. BOESL's March 2025 Tusker notice also had the selected worker pay BOESL's Tk 23,500 service charge herself, by pay order from Sonali Bank's Moghbazar branch made out to "BOESL, Dhaka" and handed in at BOESL's office, with the medical (Tk 1,000) and fingerprints (Tk 220); Tusker was to repay the Tk 23,500 to her three months after she reached Jordan [PD0027, PD0028].
 - **Through a private agency:** in the Ministry's 2023 permission for Al-Sourav Overseas, the agency could take Tk 1,74,300 from each male machine operator, only after the visa and flight were confirmed [G0045].
 
 > **Need to know**
@@ -340,7 +353,7 @@ The government may fix by order the most a worker pays to go abroad [G0129]. Wha
    - the terms: 8 hours a day, 6 days a week, voluntary overtime, a 3-year renewable contract, free housing, food, first aid and transport, and the factory pays the flight out and the flight home after three years [G0003];
    - what you pay, where and when the test is, and what to bring (sub-step 5) [G0005, G0006].
 
-   Notices differ on returnees: Prestige's and Tusker's November 2026 notices take no one who has worked abroad before, yet both give priority to workers back from war-torn countries, and Tusker's July 2026 notice was only for women who had worked at Tusker in Jordan [G0017, KB0006, G0020, G0108].
+   Notices differ on returnees: Prestige's and Tusker's November 2026 notices take no one who has worked abroad before, yet both give priority to workers back from war-torn countries, and Tusker's July 2026 notice was only for women who had worked at Tusker in Jordan [G0017, KB0006, G0020, G0108]. Tusker's March 2025 notice likewise turned away returnees from Jordan except its own former workers, and a March 2024 notice for Sidney Apparels gave priority to workers back from Sudan [PD0026, PD0009].
 
 4. **Apply online, if the portal is open.** BOESL's portal, brms.boesl.gov.bd, has been closed for all job applications since 11 October 2026 because of a technical fault; BOESL says to follow its notice board and Facebook page [G0030]. Its 9 November 2026 Mas Al Safi notice still says an online application gets you a chance at the interview, not a job [KB0005]. When it works:
    1. Open brms.boesl.gov.bd and click Register; enter your name, mobile number and a password, and confirm with the OTP sent to your mobile [G0031, G0032].
@@ -352,14 +365,14 @@ The government may fix by order the most a worker pays to go abroad [G0129]. Wha
    > **Need to know**
    > - While the portal is closed, do walk-in candidates at the Friday tests need any application or receipt?
 
-5. **Go to the test.** Each notice sets the test date, time and place; the five November 2026 notices set it for Friday 13 November 2026, by 8 am, at the Mohila (women's) TTC, Darus-Salam Road, Mirpur, Dhaka-1216 [G0006, G0014, KB0008, KB0007, KB0004]; the March 2026 call ran tests every Friday at 7 am from 3 April at the Bangladesh-Korea TTC and the Mohila TTC, Mirpur [G0026]. Representatives of the Jordanian factories take the interviews [G0102].
+5. **Go to the test.** Each notice sets the test date, time and place; the five November 2026 notices set it for Friday 13 November 2026, by 8 am, at the Mohila (women's) TTC, Darus-Salam Road, Mirpur, Dhaka-1216 [G0006, G0014, KB0008, KB0007, KB0004]; the March 2026 call ran tests every Friday at 7 am from 3 April at the Bangladesh-Korea TTC and the Mohila TTC, Mirpur [G0026]. A September 2026 call for 300 operators set its walk-in for 25 September 2026, 8 am, at the Bangladesh-Korea TTC, Darus-Salam Road, Mirpur, Dhaka-1216, and a March 2024 notice called the women's centre the Sheikh Fazilatunnesa Mujib Mohila TTC [PD0030, PD0032, PD0012]. Representatives of the Jordanian factories take the interviews [G0102].
 
    Bring [G0007, G0006, G0021, KB0004, G0008, G0015]:
    - 4 colour passport-size photos, with a white background on most notices;
    - your original passport, valid at least 1 year, and all your passports if you have more than one;
    - copies of the passport photo page: 5 colour sets (Sana, United Creation) or 1 colour and 4 black-and-white sets (Prestige, Tusker, Mas Al Safi);
    - your education or experience certificates, if any;
-   - a copy of your NID (voter ID);
+   - a copy of your NID (voter ID), or your birth registration on 2024 notices [PD0014];
    - the original ID card (or attendance card) of the factory where you work now.
 
    No CV is needed [G0019]. You must pass the trade test [G0008]. Recruits describe the BOESL interview, then several days at "the technical" (a sewing test and briefing, six days for one woman) [G0089]; some are thrown by how fast the test centre's machines run [G0205]. From test to visa most waited about three months, some nearly six [G0090].
@@ -815,7 +828,7 @@ You can't be dismissed or punished for complaining to the authorities [KC0046]. 
    > - What are Tamkeen's office hours, and does it have a Bengali interpreter?
    > - What is the Anti-Trafficking Unit's hotline?
 
-9. **The Bangladesh Embassy's labour wing:** First Secretary (Labour), office +962 6 552 9192, mobile +962 7896 06415, fsamman@probashi.gov.bd [H0219, H0221, H0220]. In the case of Achilles Apparel, a garment company that laid off its workers in December 2023, it took up workers' complaints from November 2022 with MOL, the garment industry bodies and the union, and after about 18 months, in February 2024, handed 454 Bangladeshi workers their overdue wages and social security pay at MOL [H0225, H0224, H0222]. It also handled their work permits, passport renewals and return home; complaints to the Ministry in Dhaka are under Contacts [H0223].
+9. **The Bangladesh Embassy's labour wing:** First Secretary (Labour), office +962 6 552 9192, mobile +962 7896 06415, fsamman@probashi.gov.bd [H0219, H0221, H0220]. In the case of Achilles Apparel, a garment company that laid off its workers in December 2023, it took up workers' complaints from November 2022 with MOL, the garment industry bodies and the union, and after about 18 months, in February 2024, handed 454 Bangladeshi workers their overdue wages and social security pay at MOL [H0225, H0224, H0222]. It also handled their work permits, passport renewals and return home; complaints to the Ministry in Dhaka are under Contacts [H0223]. Prothom Alo reported the same 454 workers as laid off in December 2023 by a factory it named Asil, in Al Tajamouat near Amman, which cited business losses [PD0001, PD0002]. One worker said they got six months' unpaid wages, five years' earned leave and their social security money; another said many had expired or lost passports and the Embassy sorted them all out [PD0003, PD0004]. The labour wing said MOL, the ILO and trade unions helped, and that MOL would start sending the workers home from 4 February 2024 [PD0007, PD0006].
 
 After several factory closures, including the Aseel factory, MOL, employers and the union set up a committee in March 2024, and a legal study it commissioned recommended an early warning system so workers are paid when a factory closes [H0228, H0255, H0227].
 
@@ -1999,7 +2012,7 @@ Everyone aged 16 or over working under Jordan's Labour Law is covered by the SSC
 
 #### What happens in practice
 
-In March 2016 a 33-year-old Bangladeshi domestic worker was reportedly killed by her employers in Irbid; the Embassy waited for the Jordanian investigation and her identity papers before it could tell her family and send her body home [R0258, R0227, R0228]. In February 2018 the Embassy's lawyer said a forensic autopsy found a domestic worker had taken her own life, and the Embassy waited for the final report to send her body home [R0229].
+In March 2016 a 33-year-old Bangladeshi domestic worker was reportedly killed by her employers in Irbid; the Embassy waited for the Jordanian investigation and her identity papers before it could tell her family and send her body home [R0258, R0227, R0228]. In February 2018 the Embassy's lawyer said a forensic autopsy found a domestic worker had taken her own life, and the Embassy waited for the final report to send her body home [R0229]. Sajeda, from Narsingdi, had worked a year in a garment factory when she died in Jordan in 2017; her family was told she suddenly fell from a building, and in May 2025 her brother said they still wanted to know the real cause [PD0029].
 
 > **Need to know**
 > - How many Bangladeshi bodies came home from Jordan in 2025-2026, and how long after the death did they arrive?
