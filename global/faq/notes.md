@@ -125,3 +125,10 @@ About 330 cited sentences and list items were checked against the facts' quotes,
 - New: State Minister's parliamentary figures (1976 to March 2024 total; 2022 and 2023 totals and 2023 by country; FY2023-24 as of 8 May 2024; 1,27,557 sent through government at low or no cost FY2009-10 to FY2022-23); 60 lakh five-year plan (Feb 2024); British Council youth survey (55% want to go abroad); January 2025 editorial on the job market; Salma Begum debt case (Munshiganj, Feb 2024); 2024 passport indexes; study-abroad requirements and traps (new question "Can I go abroad to study instead?").
 - Not used: opinion pieces and readers' essays with no checkable facts; a reader's letter giving FY2023-24 remittance as USD 2,542 million, an obvious misprint; the arrest of the former minister Imran Ahmad (no bearing on a migrant's decisions).
 
+
+## Prothom Alo archive pass (gchunk-faq-2, prefix GF)
+
+- New questions: "Can I work abroad as a nurse?" (April 2025 Centre for Migration Studies column and Yunus's February 2025 speech), "Who is the kafeel, and why does he matter?" (May 2025 Kishor Alo explainer), "Can I join politics or protests abroad?" (November 2025 column citing the ILO; Rashed Khan's 57 arrests, February 2025).
+- Extended: skills (Asif Nazrul, August 2025; Yunus on fake certificates), study abroad (October 2025 papers checklist; Chinese courses, May 2025), cost (ILO country director, May 2025), air tickets (Probashi Odhikar Parishad human chain, February 2025), help on return (no pension, May 2025 opinion piece; points to the Sending money home doc's Pension section).
+- Not used: Rangpur column (the writer's guess that the division sends under 1% of migrants, no data); NCP manifesto (party pledges); Study Abroad Fair 2025 event report (no decision-bearing fact).
+- Held for other docs: Sandwip speedboat launched in banned weather under pressure from outgoing passengers (departure); Keraniganj land grab of an Italy migrant's house (money); returnee watermelon farmer in Bauphal (services).
