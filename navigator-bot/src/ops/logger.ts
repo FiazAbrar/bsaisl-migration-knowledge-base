@@ -21,8 +21,8 @@ const REDACT = [
 ];
 
 function level(): string {
-  if (process.env.NODE_ENV === "test") return process.env.LOG_LEVEL ?? "silent";
-  return process.env.LOG_LEVEL ?? "info";
+  if (process.env.NODE_ENV === "test") return process.env.LOG_LEVEL || "silent";
+  return process.env.LOG_LEVEL || "info";
 }
 
 export const logger = pino({

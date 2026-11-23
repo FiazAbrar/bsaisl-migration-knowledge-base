@@ -28,12 +28,12 @@ The bot reads these columns: `id`, `url`, `source_type` (`official`, `news`, `of
 
 ## Changes that need care
 
-- **New country:** add `countries/<country>/` with `doc.md`, `facts.csv` and `sources.csv`. Nothing else to do. To add Bangla names or city names people type for it (like "দুবাই" for the UAE), edit `ALIASES` and `DISPLAY` in `navigator-bot/app/countries.py`.
-- **Renaming, moving, splitting or deleting a guide:** the check on the pull request ("Bot can read the guides") will flag the old guide as gone. Say in the pull request that it's on purpose. Once merged, the live bot refuses the new version until someone confirms it (on the server: `python -m app.kb_index --force`), so tell the bot team first.
+- **New country:** add `countries/<country>/` with `doc.md`, `facts.csv` and `sources.csv`. Nothing else to do. To add Bangla names or city names people type for it (like "দুবাই" for the UAE), edit `ALIASES` and `DISPLAY` in `navigator-bot/src/kb/countries.ts`.
+- **Renaming, moving, splitting or deleting a guide:** the check on the pull request ("Bot can read the guides") will flag the old guide as gone. Say in the pull request that it's on purpose. Once merged, the live bot refuses the new version until someone confirms it (on the host: set `KB_ACCEPT_COMMIT` to that commit, then remove it), so tell the bot team first.
 - **Cutting a large part of a guide:** the same check fails if a guide with 20 or more sections loses more than half of them.
 
 ## What protects the live bot
 
-- **Before merging:** the pull-request check builds the bot's index from the pull request and compares it with `main`.
-- **On the server:** a new version replaces the old one only if no guide vanished or lost most of its sections. Otherwise the bot keeps answering from the last good version.
+- **Before merging:** the pull-request check reads every guide in the pull request the way the bot does and compares it with `main`.
+- **On the server:** a new version replaces the old one only if no guide vanished or lost most of its sections. Otherwise the bot keeps answering from the last good version (remembered across restarts) and alerts the bot team.
 - **Reporting:** `https://<bot address>/health` shows the commit the bot is using, how many guides it loaded, and any warning.

@@ -47,6 +47,11 @@ export interface KbServiceOptions {
   branch: string;
   syncMinutes: number;
   githubToken: string | undefined;
+  /**
+   * A commit (its first 7+ characters) to load even if the check refuses it: for a guide renamed, moved
+   * or cut on purpose (KB_ACCEPT_COMMIT). Remove the setting once that commit is loaded.
+   */
+  acceptCommit?: string | undefined;
   store: KbBaselineStore;
   /** Called when a version is refused or a sync keeps failing (Sentry in production). */
   onAlert?: (message: string) => void;
@@ -175,14 +180,22 @@ export class KbService {
       : await this.loadBaseline();
     const counts = candidate.sectionCounts();
     const problems = baseline ? compareCounts(baseline.counts, counts) : [];
-    if (problems.length > 0 && !(allowUnchecked && !this.kb)) {
+    const accepted =
+      this.opts.acceptCommit !== undefined &&
+      this.opts.acceptCommit.length >= 7 &&
+      candidate.meta.commit?.startsWith(this.opts.acceptCommit) === true;
+    if (problems.length > 0 && accepted) {
+      logger.warn(
+        { problems, commit: candidate.meta.commit?.slice(0, 7) },
+        "Guides loaded despite the check (KB_ACCEPT_COMMIT)",
+      );
+    } else if (problems.length > 0 && !(allowUnchecked && !this.kb)) {
       const where = candidate.meta.commit ? `commit ${candidate.meta.commit.slice(0, 7)}` : "local guides";
       this.status.indexRefused = `${where}: ${problems.join("; ")}`;
       logger.error({ problems }, "New version of the guides NOT loaded; keeping the last good version");
       this.opts.onAlert?.(`Guides refused (${where}): ${problems.join("; ")}`);
       return false;
-    }
-    if (problems.length > 0) logger.warn({ problems }, "Local guides changed sharply; loaded anyway");
+    } else if (problems.length > 0) logger.warn({ problems }, "Local guides changed sharply; loaded anyway");
     this.kb = candidate;
     this.status.indexRefused = undefined;
     await this.opts.store.save({ commit: candidate.meta.commit, counts }).catch((err) => {

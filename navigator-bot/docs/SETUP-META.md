@@ -40,7 +40,7 @@ Keep **Integrate with API** selected (not "Become a Partner").
 ## Part D: App secret
 
 1. Left menu: **App settings > Basic**.
-2. Next to **App secret**, click **Show**, enter your password, copy it to `META_APP_SECRET`.
+2. Next to **App secret**, click **Show**, enter your password, copy it to `WHATSAPP_APP_SECRET` (the older name `META_APP_SECRET` also works).
 
 ## Part E: Permanent token (System User)
 

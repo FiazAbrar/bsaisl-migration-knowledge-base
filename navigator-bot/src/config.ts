@@ -67,6 +67,7 @@ const schema = z.object({
   KB_BRANCH: text.optional().default("main"),
   KB_SYNC_MINUTES: int(15, 1),
   KB_GITHUB_TOKEN: optionalText,
+  KB_ACCEPT_COMMIT: optionalText,
 
   DATABASE_URL: optionalText,
 
@@ -113,6 +114,7 @@ export interface Config {
     branch: string;
     syncMinutes: number;
     githubToken: string | undefined;
+    acceptCommit: string | undefined;
   };
   databaseUrl: string | undefined;
   ai: {
@@ -204,6 +206,7 @@ export function loadConfig(source: NodeJS.ProcessEnv = process.env): Config {
       branch: e.KB_BRANCH,
       syncMinutes: e.KB_SYNC_MINUTES,
       githubToken: e.KB_GITHUB_TOKEN,
+      acceptCommit: e.KB_ACCEPT_COMMIT,
     },
     databaseUrl: e.DATABASE_URL,
     ai: {

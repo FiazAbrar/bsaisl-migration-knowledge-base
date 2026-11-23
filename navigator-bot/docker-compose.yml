@@ -1,9 +1,10 @@
-# Run the bot in Docker on any machine (a free cloud VM, or a PC for a test):
+# Run the bot in Docker on any machine (a server, or a PC for a test):
 #   cd navigator-bot
 #   docker compose up -d --build      start (and after a change to the bot's code)
 #   docker compose logs -f            watch
 # Settings come from navigator-bot/.env (never baked into the image). Set KB_REPO there: the bot pulls
-# the guides from GitHub itself, so knowledge-base updates need no rebuild.
+# the guides from GitHub itself, so knowledge-base updates need no rebuild. Without DATABASE_URL the
+# memory lives in the data volume (embedded database); with it, in that Postgres.
 services:
   bot:
     build: .
@@ -11,11 +12,14 @@ services:
     env_file: .env
     environment:
       PORT: "8000"
+      NODE_ENV: production
     ports:
+      # Behind a reverse proxy on the same machine, publish to it only: "127.0.0.1:8000:8000"
       - "8000:8000"
     volumes:
-      - bot-data:/srv/navigator-bot/data   # guides' copy, index and chat memory survive restarts
+      - bot-data:/srv/navigator-bot/data
     restart: unless-stopped
+    stop_grace_period: 30s
 
 volumes:
   bot-data:
