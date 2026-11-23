@@ -2,7 +2,7 @@
 
 # South Korea: migration guide
 
-Sources checked up to 19 Nov 2026.
+Sources checked up to 23 Nov 2026.
 
 How to go to South Korea from Bangladesh, visa by visa, step by step, for Bangladesh passport holders, as of November 2026. A raised number such as 3 is an official source; N3 is a news, NGO (non-governmental organisation), research or guide source, listed under "Needs an official source"; a year, like N3 (2022), marks a source older than 2025. "Need to know" marks a point no source has yet confirmed. "You'll need:" lists what to have before starting a procedure.
 
@@ -86,7 +86,8 @@ KRW is the Korean won; Tk is the Bangladeshi taka (1 lakh is Tk 100,000). On 19 
     - [4.20.1 How long you can stay](#how-long-you-can-stay)
     - [4.20.2 Coming back for a second term](#coming-back-for-a-second-term)
     - [4.20.3 The alien registration card](#the-alien-registration-card)
-    - [4.20.4 Leaving and returning (holidays)](#leaving-and-returning-holidays)
+    - [4.20.4 Ramadan, prayer and halal food](#ramadan-prayer-and-halal-food)
+    - [4.20.5 Leaving and returning (holidays)](#leaving-and-returning-holidays)
   - [4.21 What can get you jailed or deported](#what-can-get-you-jailed-or-deported)
     - [4.21.1 Overstaying and losing status](#overstaying-and-losing-status)
     - [4.21.2 Working for another employer](#working-for-another-employer)
@@ -334,7 +335,7 @@ Korea is open to Bangladeshi EPS workers, but few are being picked: BMET (the Bu
 
 #### 2.2.4 The size of the flow
 
-BOESL says 38,059 Bangladeshis had gone to Korea through it under EPS by 23 August 2026 <sup>[N3](#n3)</sup>. By BMET's count 39,702 workers went to South Korea from 2004 to May 2025, 0.28% of all Bangladeshi overseas employment <sup>[23](#o23)</sup>. Workers who went to South Korea, by year:
+BOESL says 38,059 Bangladeshis had gone to Korea through it under EPS by 23 August 2026 <sup>[N3](#n3)</sup>. By BMET's count 39,702 workers went to South Korea from 2004 to May 2025, 0.28% of all Bangladeshi overseas employment <sup>[23](#o23)</sup>. Counting from 1994, North South University researchers put the total at 53,678 to the end of 2023 <sup>[N9 (2024)](#n9)</sup>. Workers who went to South Korea, by year:
 - 2014: 1,748 <sup>[23](#o23)</sup>
 - 2015: 2,359 <sup>[23](#o23)</sup>
 - 2016: 1,980 <sup>[23](#o23)</sup>
@@ -344,14 +345,14 @@ BOESL says 38,059 Bangladeshis had gone to Korea through it under EPS by 23 Augu
 - 2020: 208 <sup>[23](#o23)</sup>
 - 2021: 108 <sup>[23](#o23)</sup>
 - 2022: 5,910 <sup>[23](#o23)</sup>
-- 2023: 4,996 (BMET's online clearance system: 4,991) <sup>[23](#o23), [24](#o24)</sup>
+- 2023: 4,996 (BMET's online clearance system: 4,991), 4,804 of them sent by BOESL and a few by private agencies <sup>[23](#o23), [24](#o24), [N10 (2024)](#n10)</sup>
 - 2024: 3,038 (online clearance system: 3,022) <sup>[23](#o23), [25](#o25)</sup>
 - 2025: 1,901 <sup>[26](#o26)</sup>
 - 2026, to 18 November: 1,349 <sup>[4](#o4)</sup>
 
 Against its quota, by BOESL's figures, BOESL sent 5,891 of 5,941 in 2022, 4,804 of 10,200 in 2023 and 2,779 of 11,700 in 2024 <sup>[N4](#n4)</sup>. Nepal sent 16,300 against a quota of 16,400 in 2024 and Sri Lanka 7,122 against 10,634 <sup>[N4](#n4)</sup>. In 2025 Korea issued 61,540 E-9 visa certificates in all: 9,648 to Nepalis, 3,747 to Sri Lankans and 1,807 to Bangladeshis <sup>[15](#o15)</sup>.
 
-Demand to sit the test far exceeds the places: 55,403 registered in 2023 <sup>[N9](#n9)</sup>. In March 2024 BOESL's managing director said 35,000 people with Korean had been selected, and at least 20,000 more would be chosen by lottery to sit the next test <sup>[N10 (2024)](#n10)</sup>.
+Demand to sit the test far exceeds the places: 55,403 registered in 2023 <sup>[N11](#n11)</sup>. In March 2024 BOESL's managing director said 35,000 people with Korean had been selected, and at least 20,000 more would be chosen by lottery to sit the next test <sup>[N12 (2024)](#n12)</sup>.
 
 <a id="who-is-in-korea"></a>
 
@@ -366,8 +367,9 @@ Korea counted 44,721 Bangladeshis on 30 September 2026 (36,612 men and 8,109 wom
 
 #### 2.2.6 What has closed it before
 
-- *2020-21, COVID-19.* Korea stopped admitting EPS workers from March 2020 to November 2021 and resumed in December 2021 <sup>[N11 (2022)](#n11)</sup>. Departures fell from 1,647 in 2019 to 208 in 2020 and 108 in 2021, then jumped to 5,910 in 2022 <sup>[23](#o23)</sup>.
-- *Quotas Bangladesh cannot fill.* Since 2023 fewer than half of Bangladesh's places have been used <sup>[N4](#n4)</sup>. The 2023 shortfall was put down to Korean employers' poor view of Bangladeshi workers for frequent job changes, weak employer demand, little promotion from Bangladesh, poor Korean and cultural differences <sup>[N10 (2024)](#n10)</sup>. A World Bank study ranked Bangladesh last of seven source countries in Korean employers' preference for 2011 to 2015 <sup>[N4](#n4)</sup>.
+- *2020-21, COVID-19.* Korea stopped admitting EPS workers from March 2020 to November 2021 and resumed in December 2021 <sup>[N13 (2022)](#n13)</sup>. Departures fell from 1,647 in 2019 to 208 in 2020 and 108 in 2021, then jumped to 5,910 in 2022 <sup>[23](#o23)</sup>.
+- *2024, unrest in Bangladesh.* In August 2024 BOESL set the manufacturing skill test for 1 September, but HRD Korea said the final date depended on the situation in Bangladesh improving <sup>[N14 (2024)](#n14)</sup>.
+- *Quotas Bangladesh cannot fill.* Since 2023 fewer than half of Bangladesh's places have been used <sup>[N4](#n4)</sup>. The 2023 shortfall was put down to Korean employers' poor view of Bangladeshi workers for frequent job changes, weak employer demand, little promotion from Bangladesh, poor Korean and cultural differences <sup>[N12 (2024)](#n12)</sup>. A World Bank study ranked Bangladesh last of seven source countries in Korean employers' preference for 2011 to 2015 <sup>[N4](#n4)</sup>. In March 2024 Korea's ambassador in Dhaka put the 2023 shortfall of the 10,200 quota down to problems learning Korean, and said the Ministry of Expatriates' Welfare had designated two TTCs (Technical Training Centres) where Korean trainers could teach language and technical skills <sup>[N15 (2024)](#n15)</sup>.
 
 <a id="where-it-may-grow-and-where-it-may-tighten"></a>
 
@@ -375,11 +377,13 @@ Korea counted 44,721 Bangladeshis on 30 September 2026 (36,612 men and 8,109 wom
 
 - *Shipbuilding.* Korea's separate shipbuilding E-9 quota ran from April 2023 to the end of 2025; shipyards now hire through the manufacturing quota <sup>[20](#o20)</sup>. Skilled welders go on E-7 through private agencies, at about Tk 5 lakh in migration costs for a salary of about Tk 2.5 lakh <sup>[N7 (2024)](#n7)</sup>.
 - *E-7-4.* Korea set the 2026 E-7-4 quota at 33,000, down from 35,000; firms and workers say complex procedures and the Korean requirement are the main obstacles to switching <sup>[27](#o27), [22](#o22)</sup>.
-- *Seasonal farm work.* Korea raised its E-8 seasonal intake to 109,000 for 2026 from 96,000 <sup>[19](#o19)</sup>. BOESL's managing director said in April 2026 that BOESL had given Korean companies US$1,200 each to take seasonal workers, and had asked Korea to open 104 job sectors to Bangladeshis <sup>[N9](#n9)</sup>.
+- *Seasonal farm work.* Korea raised its E-8 seasonal intake to 109,000 for 2026 from 96,000 <sup>[19](#o19)</sup>. BOESL's managing director said in April 2026 that BOESL had given Korean companies US$1,200 each to take seasonal workers, and had asked Korea to open 104 job sectors to Bangladeshis <sup>[N11](#n11)</sup>.
 
 > **Need to know**
 > - Was BOESL's US$1,200 payment per seasonal worker or per company, and does any of it come back to the worker as a charge?
 - *Fewer E-9 places.* The 2026 E-9 cut to 80,000 shrinks the pool all 17 sending countries compete for <sup>[19](#o19), [3](#o3)</sup>.
+- *Eldercare.* A 2026 study by KDI (the Korea Development Institute) projected that Korea may need about 332,000 more eldercare workers by 2033 and about 990,000 by 2043; KDI proposes easing foreign workers' entry alongside care robots <sup>[N16](#n16)</sup>.
+- *Training in Bangladesh.* In July 2024 KOICA (Korea International Cooperation Agency, Korea's aid agency) agreed US$10 million (Tk 117 crore) with the Ministry of Expatriates' Welfare, to modernise the Bangladesh-Korea Technical Training Centre in Chattogram <sup>[N17 (2024)](#n17)</sup>.
 
 <a id="how-a-job-reaches-you-and-who-takes-a-cut"></a>
 
@@ -398,20 +402,20 @@ An EPS job starts with a Korean employer's request to a Korean job centre; it re
 5. A rostered candidate who is not picked within the roster period (two years) is deleted automatically and must pass the Korean, skills and medical tests again <sup>[3](#o3), [N4](#n4)</sup>.
 6. When submitting the job application, every candidate signs an affidavit on Tk 300 stamp paper that passing the test and being rostered does not guarantee a job in Korea <sup>[3](#o3)</sup>.
 
-Employers choose from the pool by nationality, age and physique as well as scores <sup>[N12](#n12)</sup>. Bangladeshi workers go mainly to small and medium firms, not large companies, and BOESL has six representatives in Korea who keep in touch with employers <sup>[N4](#n4)</sup>.
+Employers choose from the pool by nationality, age and physique as well as scores <sup>[N18](#n18)</sup>. Bangladeshi workers go mainly to small and medium firms, not large companies, and BOESL has six representatives in Korea who keep in touch with employers <sup>[N4](#n4)</sup>. North South University researchers wrote in 2024 that some Korean employers believe Bangladeshis do not follow Korean cultural and work rules, and so mostly prefer workers from Vietnam or Nepal <sup>[N9 (2024)](#n9)</sup>. In August 2025 a Bangladeshi EPS worker, vice chairman of the Korea-Bangla Press Club, wrote that he had often seen factionalism and fights among Bangladeshi workers put Korean owners off hiring them, and that Korean officials took a poor view of candidates' protests in front of BOESL; he quoted a senior Korean official: "we need workers without complaints, not protesters" <sup>[N19](#n19)</sup>.
 
 <a id="the-roster-backlog"></a>
 
 #### 2.3.2 The roster backlog
 
-A candidate waiting since 2024 told Bonik Barta in September 2025 that about 1,700 people rostered after passing in 2022 had reached the end of their two years without going, and that more than 7,400 passed in 2024 <sup>[N4](#n4)</sup>. On 14 May 2026 people who had passed but were never sent protested at Probashi Kallyan Bhaban, saying about 12,000 from the 2022 and 2023 batches had been deleted, alleging irregularities and bribery by some BOESL officials, and demanding an "auto-roster" and a halt to new circulars <sup>[N5](#n5)</sup>. They said they would pay any official cost to be sent <sup>[N13](#n13)</sup>. In April 2026 BOESL's managing director said BOESL had asked Korea to take candidates whose certificates had expired <sup>[N9](#n9)</sup>.
+A candidate waiting since 2024 told Bonik Barta in September 2025 that about 1,700 people rostered after passing in 2022 had reached the end of their two years without going, and that more than 7,400 passed in 2024 <sup>[N4](#n4)</sup>. On 14 May 2026 people who had passed but were never sent protested at Probashi Kallyan Bhaban, saying about 12,000 from the 2022 and 2023 batches had been deleted, alleging irregularities and bribery by some BOESL officials, and demanding an "auto-roster" and a halt to new circulars <sup>[N5](#n5)</sup>. They said they would pay any official cost to be sent <sup>[N20](#n20)</sup>. In August 2025 BOESL called 3,101 people who had passed the 2024 (lottery) EPS-TOPIK and the medical to hand in their job applications, from 17 to 30 August <sup>[N21](#n21)</sup>. In April 2026 BOESL's managing director said BOESL had asked Korea to take candidates whose certificates had expired <sup>[N11](#n11)</sup>.
 
 <a id="where-dalals-still-get-in"></a>
 
 #### 2.3.3 Where dalals still get in
 
 - *Exam centres.* Brokers wait where candidates gather: on 9 October 2026 the Special Response Battalion (SRB-4), acting on complaints from BOESL and the Bangladesh-Korea Technical Training Centre (BKTTC), arrested 12 people at Technical Mor, Dhaka, who it said took Tk 40,000 to Tk 10 lakh from candidates gathering for the Friday and Saturday tests at BKTTC, promising work visas and test passes; a mobile court jailed seven for seven days to three months and fined five <sup>[N2](#n2)</sup>. SRB-4 said BOESL takes no fee from candidates in its recruitment process, and that BKTTC only trains and neither sends workers nor arranges jobs <sup>[N2](#n2)</sup>.
-- *Coaching centres.* BMET's own four-month Korean course costs Tk 1,000 to join, and Korean is taught at 40 government technical training centres <sup>[N14](#n14), [N1 (2022)](#n1)</sup>. Private language centres also teach for the test; the director of one in Meherpur said many candidates' certificates expire before they get a visa <sup>[N9](#n9)</sup>. BOESL says it will take legal action against any recruiting agent, language school or middleman that sends workers outside BOESL <sup>[3](#o3)</sup>.
+- *Coaching centres.* BMET's own four-month Korean course costs Tk 1,000 to join, and Korean is taught at 40 government technical training centres <sup>[N22](#n22), [N1 (2022)](#n1)</sup>. Private language centres also teach for the test; the director of one in Meherpur said many candidates' certificates expire before they get a visa <sup>[N11](#n11)</sup>. BOESL says it will take legal action against any recruiting agent, language school or middleman that sends workers outside BOESL <sup>[3](#o3)</sup>.
 - *"Korea visa" sellers.* Only BOESL may send EPS workers, so any agency or person offering an EPS job for money is outside the scheme (to check an offer, see [Done to workers](#done-to-workers)) <sup>[3](#o3)</sup>.
 - *E-7 and other skilled visas.* These go through private recruiting agencies, and the migration cost is about two months' salary, around Tk 5 lakh <sup>[N7 (2024)](#n7)</sup>.
 
@@ -423,7 +427,7 @@ A candidate waiting since 2024 told Bonik Barta in September 2025 that about 1,7
 
 #### 2.3.4 Cheating on the test
 
-A Korean business paper reported in September 2025 that proxy-exam firms on Telegram offered to sit the EPS-TOPIK for candidates in countries including Bangladesh for KRW 2.2 million (2 million with a discount), with a KRW 500,000 deposit paid in gift vouchers or the Tether stablecoin, and claimed to bribe local exam supervisors <sup>[N12](#n12)</sup>. HRD Korea does not publish how much cheating it detects <sup>[N12](#n12)</sup>. In 2020 Korea caught 52 Nepalis who had used proxies and 6 proxy takers, and deported 51 <sup>[N12](#n12)</sup>. BOESL's rule is that anyone caught cheating loses the test and is barred for three years <sup>[3](#o3)</sup>. The number of EPS-TOPIK takers across all countries rose from about 30,000 in 2021 to about 490,000 in 2023 and 430,000 in 2024 <sup>[N12](#n12)</sup>.
+A Korean business paper reported in September 2025 that proxy-exam firms on Telegram offered to sit the EPS-TOPIK for candidates in countries including Bangladesh for KRW 2.2 million (2 million with a discount), with a KRW 500,000 deposit paid in gift vouchers or the Tether stablecoin, and claimed to bribe local exam supervisors <sup>[N18](#n18)</sup>. HRD Korea does not publish how much cheating it detects <sup>[N18](#n18)</sup>. In 2020 Korea caught 52 Nepalis who had used proxies and 6 proxy takers, and deported 51 <sup>[N18](#n18)</sup>. BOESL's rule is that anyone caught cheating loses the test and is barred for three years <sup>[3](#o3)</sup>. The number of EPS-TOPIK takers across all countries rose from about 30,000 in 2021 to about 490,000 in 2023 and 430,000 in 2024 <sup>[N18](#n18)</sup>.
 
 <a id="what-you-pay-and-what-you-earn-and-keep"></a>
 
@@ -435,13 +439,13 @@ The legal EPS route costs Tk 4,000 for the test, the charges in BOESL's cost tab
 
 #### 2.4.1 The official cost
 
-BOESL's cost table, in which the South Korea row is still marked as needing Board approval, gives a total of US$240 but lists items that add up to Tk 38,584, including a Tk 3,500 welfare fee that rose to Tk 5,500 from 1 October 2026 (see [Who pays what](#who-pays-what)) <sup>[7 (2022)](#o7), [28](#o28)</sup>. In 2022 BOESL put the total at Tk 33,524, and the worker also pays the air ticket both ways <sup>[N1 (2022)](#n1)</sup>. BOESL also takes a refundable security deposit, at a rate the ministry approved on HRD Korea's advice, so that workers keep to their contracts and come home on time; in 2024 it was reported at Tk 1 lakh per worker <sup>[N3](#n3), [N10 (2024)](#n10)</sup>.
+BOESL's cost table, in which the South Korea row is still marked as needing Board approval, gives a total of US$240 but lists items that add up to Tk 38,584, including a Tk 3,500 welfare fee that rose to Tk 5,500 from 1 October 2026 (see [Who pays what](#who-pays-what)) <sup>[7 (2022)](#o7), [28](#o28)</sup>. In 2022 BOESL put the total at Tk 33,524, and the worker also pays the air ticket both ways <sup>[N1 (2022)](#n1)</sup>. BOESL also takes a refundable security deposit, at a rate the ministry approved on HRD Korea's advice, so that workers keep to their contracts and come home on time; in 2024 it was reported at Tk 1 lakh per worker <sup>[N3](#n3), [N12 (2024)](#n12)</sup>.
 
 <a id="what-people-really-spend"></a>
 
 #### 2.4.2 What people really spend
 
-The real cost is time and the risk of never being picked. A diploma engineer who quit his job in 2021 to learn Korean passed in 2023, waited two years without a visa, and saw his certificate expire in 2025 <sup>[N9](#n9)</sup>. People who pay brokers have lost up to Tk 10 lakh <sup>[N2](#n2)</sup>. Skilled E-7 workers who go through private agencies pay around Tk 5 lakh <sup>[N7 (2024)](#n7)</sup>.
+The real cost is time and the risk of never being picked. A diploma engineer who quit his job in 2021 to learn Korean passed in 2023, waited two years without a visa, and saw his certificate expire in 2025 <sup>[N11](#n11)</sup>. People who pay brokers have lost up to Tk 10 lakh <sup>[N2](#n2)</sup>. Skilled E-7 workers who go through private agencies pay around Tk 5 lakh <sup>[N7 (2024)](#n7)</sup>.
 
 > **Need to know**
 > - What does a typical EPS worker spend in all in 2026 (coaching, tests, medical, BOESL, ticket, first month in Korea)?
@@ -451,9 +455,9 @@ The real cost is time and the risk of never being picked. A diploma engineer who
 #### 2.4.3 What the job pays
 
 - *Minimum wage.* KRW 10,320 an hour in 2026, KRW 2,156,880 a month on 209 hours; KRW 10,700 an hour (KRW 2,236,300 a month) from January 2027 <sup>[14](#o14), [29](#o29)</sup>.
-- *Typical pay.* A 2024 survey of 1,225 small manufacturers found foreign workers averaged KRW 3.02 million a month including KRW 386,000 of accommodation: base pay KRW 2.09 million and overtime KRW 425,000 <sup>[30](#o30)</sup>. In 2025, 68.9% of E-9 workers earned under KRW 3 million a month <sup>[N15](#n15)</sup>.
-- *What workers say.* Bangladeshis in Korea say the minimum is about Tk 2 lakh a month and over Tk 3 lakh with overtime, and most firms provide food and housing <sup>[N9](#n9)</sup>.
-- *Hours.* 8 a day and 40 a week, with up to 12 hours' overtime a week <sup>[16](#o16)</sup>. Farm work is excluded from the limits on hours, weekly rest and breaks <sup>[N16 (2014)](#n16)</sup>.
+- *Typical pay.* A 2024 survey of 1,225 small manufacturers found foreign workers averaged KRW 3.02 million a month including KRW 386,000 of accommodation: base pay KRW 2.09 million and overtime KRW 425,000 <sup>[30](#o30)</sup>. In 2025, 68.9% of E-9 workers earned under KRW 3 million a month <sup>[N23](#n23)</sup>.
+- *What workers say.* Bangladeshis in Korea say the minimum is about Tk 2 lakh a month and over Tk 3 lakh with overtime, and most firms provide food and housing <sup>[N11](#n11)</sup>.
+- *Hours.* 8 a day and 40 a week, with up to 12 hours' overtime a week <sup>[16](#o16)</sup>. Farm work is excluded from the limits on hours, weekly rest and breaks <sup>[N24 (2014)](#n24)</sup>.
 
 <a id="what-comes-off"></a>
 
@@ -471,7 +475,7 @@ The employer must pay 8.3% of the worker's monthly ordinary wage each month into
 
 #### 2.4.6 Remittances from Korea
 
-Bangladesh Bank recorded US$135.46 million of remittances from South Korea in 2021-22, US$118.69 million in 2022-23 and US$108.01 million in July to September 2026, 14th among source countries <sup>[34 (2024)](#o34), [35](#o35)</sup>. (Legal channels are under Sending money home.)
+Bangladesh Bank recorded US$96.29 million of remittances from South Korea in 2017-18 <sup>[N9 (2024)](#n9)</sup>, US$135.46 million in 2021-22, US$118.69 million in 2022-23 and US$108.01 million in July to September 2026, 14th among source countries <sup>[34 (2024)](#o34), [35](#o35)</sup>. (Legal channels are under Sending money home.)
 
 > **Need to know**
 > - Why are recorded remittances from Korea so low for some 19,000 Bangladeshi workers: is hundi (환치기) the main channel?
@@ -488,23 +492,23 @@ You are tied to one employer for most of your stay: the E-9 visa lets you work o
 - **Leaving and coming back.** After leaving, an E-9 worker must wait six months to return under EPS; a re-employed worker whose employer applied before he left may return after one month, and one who left before his stay ended may return after six months by passing a special Korean test (see [Coming back: the sincere worker re-entry and the Special EPS-TOPIK](#coming-back-the-sincere-worker-re-entry-and-the-special-eps-topik)) <sup>[16](#o16)</sup>.
 - **Running away.** Leaving the employer without approval or staying past the permit makes you undocumented: you can be removed and face up to three years in prison or a fine of up to KRW 30 million (see [Overstaying and losing status](#overstaying-and-losing-status)) <sup>[16](#o16)</sup>. In January to September 2026, 4,091 E-9 workers newly became undocumented, 53.4% of all new cases among work-visa holders <sup>[18](#o18)</sup>.
 
-BOESL discourages job changes and holds a deposit for this reason; Bangladeshi workers say many still move for more overtime, or because the work is hard or the food unfamiliar <sup>[N10 (2024)](#n10), [N9](#n9)</sup>.
+BOESL discourages job changes and holds a deposit for this reason; Bangladeshi workers say many still move for more overtime, or because the work is hard or the food unfamiliar <sup>[N12 (2024)](#n12), [N11](#n11)</sup>.
 
 <a id="what-goes-wrong-most-and-what-people-wrongly-believe"></a>
 
 ### 2.6 What goes wrong most, and what people wrongly believe
 
-The top problems are being stuck with an employer you cannot leave, injury, unpaid wages and bad housing; for people still in Bangladesh, the top problem is waiting on a roster that never calls <sup>[N17](#n17), [N18](#n18), [N4](#n4)</sup>.
+The top problems are being stuck with an employer you cannot leave, injury, unpaid wages and bad housing; for people still in Bangladesh, the top problem is waiting on a roster that never calls <sup>[N25](#n25), [N26](#n26), [N4](#n4)</sup>.
 
 <a id="what-goes-wrong"></a>
 
 #### 2.6.1 What goes wrong
 
-- *Stuck with the employer.* Because a move needs the employer's consent or proof of a legal reason, workers who ask to leave have faced wage theft, reduced work and even criminal charges, the Business and Human Rights Centre reported in September 2025 <sup>[N17](#n17)</sup>. In the same report, a Bangladeshi injured at a Pocheon factory in 2024 said his boss told him not to report the accident and refused him a transfer <sup>[N17](#n17)</sup>.
-- *Injury and death.* 77 foreign workers died in work accidents in Korea in 2025 and 102 in 2024, a year that included the Hwaseong (Aricell) battery-factory fire that killed 18 migrants <sup>[36](#o36), [N18](#n18)</sup>. A 2024 study for Korea's human rights commission found migrant workers' accident death rate consistently 1.7 times Koreans' <sup>[N18](#n18)</sup>. Among all workers in Korea in 2025, falls were the biggest killer, and 40.6% of accident deaths were at workplaces with fewer than five staff <sup>[36](#o36)</sup>. BOESL has paid Tk 20,10,500 from its own fund to 17 sick or injured EPS returnees, including Tk 1 lakh to a worker who lost a limb <sup>[N3](#n3)</sup>.
-- *Unpaid wages.* Wages owed to migrant workers have averaged over KRW 100 billion a year since 2019, and foreign workers reported about 10,000 wage cases in 2024 (see [If you aren't paid](#if-you-arent-paid)) <sup>[N18](#n18)</sup>.
-- *Housing.* A 2021 labour ministry survey found nearly half of migrant workers, and 70% in farming, housed in non-residential accommodation <sup>[N18](#n18)</sup>. A Cambodian farm worker was found dead in December 2020 in an unheated vinyl-greenhouse dormitory in Pocheon; in September 2025 a court ordered the state to pay the family KRW 20 million for failing to supervise such housing <sup>[N19](#n19)</sup>. Korea told a UN committee in April 2025 that new employment permits were no longer being issued for such housing <sup>[N18](#n18)</sup>.
-- *Farm work.* Amnesty International's 2014 report "Bitter Harvest" found EPS farm workers working over 10 hours a day, 28 days a month, about 50 hours a month more than their contracts, mostly unpaid, and half illegally hired out to other farms in the November to February off season <sup>[N16 (2014)](#n16)</sup>.
+- *Stuck with the employer.* Because a move needs the employer's consent or proof of a legal reason, workers who ask to leave have faced wage theft, reduced work and even criminal charges, the Business and Human Rights Centre reported in September 2025 <sup>[N25](#n25)</sup>. In the same report, a Bangladeshi injured at a Pocheon factory in 2024 said his boss told him not to report the accident and refused him a transfer <sup>[N25](#n25)</sup>.
+- *Injury and death.* 77 foreign workers died in work accidents in Korea in 2025 and 102 in 2024, a year that included the Hwaseong (Aricell) battery-factory fire that killed 18 migrants <sup>[36](#o36), [N26](#n26)</sup>. A 2024 study for Korea's human rights commission found migrant workers' accident death rate consistently 1.7 times Koreans' <sup>[N26](#n26)</sup>. Among all workers in Korea in 2025, falls were the biggest killer, and 40.6% of accident deaths were at workplaces with fewer than five staff <sup>[36](#o36)</sup>. BOESL has paid Tk 20,10,500 from its own fund to 17 sick or injured EPS returnees, including Tk 1 lakh to a worker who lost a limb <sup>[N3](#n3)</sup>.
+- *Unpaid wages.* Wages owed to migrant workers have averaged over KRW 100 billion a year since 2019, and foreign workers reported about 10,000 wage cases in 2024 (see [If you aren't paid](#if-you-arent-paid)) <sup>[N26](#n26)</sup>.
+- *Housing.* A 2021 labour ministry survey found nearly half of migrant workers, and 70% in farming, housed in non-residential accommodation <sup>[N26](#n26)</sup>. A Cambodian farm worker was found dead in December 2020 in an unheated vinyl-greenhouse dormitory in Pocheon; in September 2025 a court ordered the state to pay the family KRW 20 million for failing to supervise such housing <sup>[N27](#n27)</sup>. Korea told a UN committee in April 2025 that new employment permits were no longer being issued for such housing <sup>[N26](#n26)</sup>.
+- *Farm work.* Amnesty International's 2014 report "Bitter Harvest" found EPS farm workers working over 10 hours a day, 28 days a month, about 50 hours a month more than their contracts, mostly unpaid, and half illegally hired out to other farms in the November to February off season <sup>[N24 (2014)](#n24)</sup>.
 
 <a id="beliefs-against-the-facts"></a>
 
@@ -514,9 +518,11 @@ The top problems are being stuck with an employer you cannot leave, injury, unpa
 
 *"A broker or agency can get you an EPS visa."* Only BOESL may send EPS workers, and the employer, not anyone in Bangladesh, picks the worker <sup>[3](#o3), [N4](#n4)</sup>. People promised visas and passes have paid up to Tk 10 lakh <sup>[N2](#n2)</sup>.
 
-*"You can pay to pass the Korean test."* Proxy-exam sellers exist, but a cheater loses the result and is barred for three years in Bangladesh, and Korea has deported workers who used proxies <sup>[N12](#n12), [3](#o3)</sup>.
+*"You can pay to pass the Korean test."* Proxy-exam sellers exist, but a cheater loses the result and is barred for three years in Bangladesh, and Korea has deported workers who used proxies <sup>[N18](#n18), [3](#o3)</sup>.
 
-*"Korea pays Tk 2 to 3 lakh a month."* That needs overtime: the 2026 minimum is KRW 2,156,880 a month, and 68.9% of E-9 workers earned under KRW 3 million in 2025 <sup>[N9](#n9), [14](#o14), [N15](#n15)</sup>.
+*"Four years in Korea earns Tk 1 crore."* Returnees told North South University researchers in 2024 that more than four years' work can earn at least Tk 1 crore <sup>[N9 (2024)](#n9)</sup>. That needs the full stay: after three years the employer decides whether to re-employ you (see [What ties you to the employer](#what-ties-you-to-the-employer)) <sup>[16](#o16)</sup>.
+
+*"Korea pays Tk 2 to 3 lakh a month."* That needs overtime: the 2026 minimum is KRW 2,156,880 a month, and 68.9% of E-9 workers earned under KRW 3 million in 2025 <sup>[N11](#n11), [14](#o14), [N23](#n23)</sup>.
 
 *"Once there, you can change jobs whenever the pay is better."* Moves are allowed only for listed reasons, at most three in three years, within your region <sup>[17](#o17)</sup>.
 
@@ -524,9 +530,9 @@ The top problems are being stuck with an employer you cannot leave, injury, unpa
 
 #### 2.6.3 How the irregular routes end
 
-- *Overstaying or running away.* Removal, and up to three years in prison or a KRW 30 million fine <sup>[16](#o16)</sup>. Of 397,522 undocumented foreigners in 2024, 134,580 had been registered workers, including E-9, who overstayed or lost status <sup>[N20](#n20)</sup>. Undocumented workers who go to labour offices for help are still detained and deported <sup>[N18](#n18)</sup>. A worker who has been illegally resident in Korea cannot sit the EPS test again <sup>[3](#o3)</sup>.
+- *Overstaying or running away.* Removal, and up to three years in prison or a KRW 30 million fine <sup>[16](#o16)</sup>. Of 397,522 undocumented foreigners in 2024, 134,580 had been registered workers, including E-9, who overstayed or lost status <sup>[N28](#n28)</sup>. Undocumented workers who go to labour offices for help are still detained and deported <sup>[N26](#n26)</sup>. A worker who has been illegally resident in Korea cannot sit the EPS test again <sup>[3](#o3)</sup>.
 - *Refugee claims.* Bangladeshis lodged 3,526 refugee claims in Korea from 1994 to 2022, 394 in 2024 and 468 in January to September 2026; Korea has recognised 2.7% of all claims it has decided (see [Asylum](#asylum)) <sup>[18](#o18)</sup>.
-- *Proxy tests.* Deportation for those caught in Korea, and a test ban <sup>[N12](#n12)</sup>.
+- *Proxy tests.* Deportation for those caught in Korea, and a test ban <sup>[N18](#n18)</sup>.
 - *Seasonal workers who stay on.* In January to September 2026, 1,616 E-8 seasonal workers of all nationalities newly became undocumented, 21.1% of new cases among work-visa holders <sup>[18](#o18)</sup>.
 
 <a id="visas-not-open-to-bangladeshis"></a>
@@ -546,7 +552,7 @@ The top problems are being stuck with an employer you cannot leave, injury, unpa
 
 ## 4 Work visa: EPS (E-9 non-professional employment)
 
-The Employment Permit System (EPS) is Korea's government-to-government scheme for hiring foreign workers into small and medium factories, construction, farming, fishing and some services when Korean employers cannot find Korean staff; the worker enters on an E-9 ("non-professional employment") visa <sup>[43](#o43), [44](#o44), [45](#o45)</sup>. Bangladesh is one of the 17 EPS sending countries and has sent workers under its 2007 MoU (memorandum of understanding) since 2008, 38,018 of them by August 2026 <sup>[45](#o45), [N21](#n21)</sup>. Under the MoU only BOESL (Bangladesh Overseas Employment and Services Ltd, the only government organisation under the Ministry of Expatriates' Welfare that sends workers abroad) may send workers to Korea under EPS: no private recruiting agency, language school or middleman has any part in it <sup>[3](#o3)</sup>. On the Korean side the process is run by HRD Korea (Human Resources Development Service of Korea), which sets the Korean test and keeps the job roster, through its EPS Center in Dhaka <sup>[8](#o8), [46](#o46)</sup>.
+The Employment Permit System (EPS) is Korea's government-to-government scheme for hiring foreign workers into small and medium factories, construction, farming, fishing and some services when Korean employers cannot find Korean staff; the worker enters on an E-9 ("non-professional employment") visa <sup>[43](#o43), [44](#o44), [45](#o45)</sup>. Bangladesh is one of the 17 EPS sending countries and has sent workers under its 2007 MoU (memorandum of understanding) since 2008, 38,018 of them by August 2026 <sup>[45](#o45), [N29](#n29)</sup>. Under the MoU only BOESL (Bangladesh Overseas Employment and Services Ltd, the only government organisation under the Ministry of Expatriates' Welfare that sends workers abroad) may send workers to Korea under EPS: no private recruiting agency, language school or middleman has any part in it <sup>[3](#o3)</sup>. On the Korean side the process is run by HRD Korea (Human Resources Development Service of Korea), which sets the Korean test and keeps the job roster, through its EPS Center in Dhaka <sup>[8](#o8), [46](#o46)</sup>.
 
 The route has five filters, and each one drops people: a Korean language test (the EPS-TOPIK), a skills and competency test, a medical, a two-year wait on the "job roster" for a Korean employer to pick you, and the visa <sup>[3](#o3), [43](#o43)</sup>. Passing does not guarantee a job: over five years Korea allotted Bangladesh quotas for 39,255 workers, employers sent job orders for 17,247 and BOESL sent 14,829 <sup>[3](#o3), [N4](#n4)</sup>. The whole selection, from registering for the test to getting on the roster, usually takes 10 to 12 months or more <sup>[3](#o3)</sup>.
 
@@ -628,7 +634,8 @@ Bangladeshis go mainly into manufacturing: food, paper, plastics, electrical and
 
 1. <a id="step-3-learn-korean-and-what-to-study-item-1"></a>**Get the textbook.** Every EPS-TOPIK question comes from an unpublished question bank based on HRD Korea's "EPS-TOPIK Standard Textbook" <sup>[3](#o3)</sup>. Download it free from epstopik.hrdkorea.or.kr/epstopik/book/std/standardBookList.do?lang=ko <sup>[3](#o3)</sup>.
 2. <a id="step-3-learn-korean-and-what-to-study-item-2"></a>**Know what is tested.** The test checks basic everyday Korean, the Korean needed in industry and understanding of Korean workplace culture <sup>[51](#o51)</sup>. It has 40 multiple-choice questions in 50 minutes: 20 reading (100 marks, 25 minutes) then 20 listening (100 marks, 25 minutes), with no break between <sup>[3](#o3)</sup>. In the Special EPS-TOPIK for returning workers, 8 of the 20 reading questions for manufacturing are job-related <sup>[57](#o57)</sup>.
-3. <a id="step-3-learn-korean-and-what-to-study-item-3"></a>**Where to learn.** In 2022 BOESL said Korean was taught at 40 government technical training centres across the country <sup>[N1 (2022)](#n1)</sup>.
+3. <a id="step-3-learn-korean-and-what-to-study-item-3"></a>**Where to learn.** In 2022 BOESL said Korean was taught at 40 government technical training centres across the country <sup>[N1 (2022)](#n1)</sup>. Korean is also taught at Dhaka University's Institute of Modern Languages and the Bangladesh Korea Technical Training Centre <sup>[N30 (2024)](#n30)</sup>.
+4. <a id="step-3-learn-korean-and-what-to-study-item-4"></a>**Know the gap.** Many who pass the test still lack practical Korean and cannot follow the regional dialects and accents of Korean cities, North South University researchers wrote in 2024 <sup>[N9 (2024)](#n9)</sup>.
 
 > **Need to know**
 > - Which TTCs (Technical Training Centres) and the Bangladesh-Korea Technical Training Centre teach EPS Korean in 2026, for how long and at what fee?
@@ -703,12 +710,13 @@ The final list for the roster is published from the Korean test and skills test 
 ### 4.8 Step 7: Medical, job application and the roster
 
 1. <a id="step-7-medical-job-application-and-the-roster-item-1"></a>**Medical at the Civil Surgeon's office.** Final passers take a medical at the Civil Surgeon's office before going on the roster <sup>[3](#o3)</sup>. A medical taken before your result is announced is not accepted <sup>[52](#o52)</sup>. If anyone there harasses you or asks for unofficial money, tell the Civil Surgeon's senior officials, then report it on BOESL's form forms.gle/FDqhMJd7GrM4ZkYD6 <sup>[52](#o52)</sup>.
-2. <a id="step-7-medical-job-application-and-the-roster-item-2"></a>**Job application.** BOESL calls passers who are medically fit (in its June 2026 notice, to a set date and time) to Room 701, Probashi Kallyan Bhaban (7th floor), for an EPS briefing; you hand in HRD Korea's job application form and get a receipt <sup>[52](#o52), [3](#o3)</sup>. Late submission delays your roster <sup>[52](#o52)</sup>.
+2. <a id="step-7-medical-job-application-and-the-roster-item-2"></a>**Job application.** BOESL calls passers who are medically fit (in its June 2026 notice, to a set date and time) to Room 701, Probashi Kallyan Bhaban (7th floor), for an EPS briefing; you hand in HRD Korea's job application form and get a receipt <sup>[52](#o52), [3](#o3)</sup>. Each candidate gets a time slot by serial number (in August 2025: 10:00, 10:30, 12:00, 14:30 or 15:00) <sup>[N21](#n21)</sup>. Late submission delays your roster <sup>[52](#o52)</sup>.
 
    You'll need <sup>[52](#o52)</sup>:
    - 1 colour passport-size photo on a white background;
    - the original medical-pass certificate (keep a photocopy);
    - the original passport and a clear colour copy with at least 395 days' validity left;
+   - the original SSC or equivalent certificate and a photocopy (required in the August 2025 call) <sup>[N21](#n21)</sup>;
    - if your name, date of birth or passport number is wrong anywhere, tell BOESL.
 
    You also sign an affidavit on Tk 300 non-judicial stamp paper that being on the roster does not guarantee a job <sup>[3](#o3)</sup>.
@@ -727,7 +735,7 @@ The final list for the roster is published from the Korean test and skills test 
 
 **How the job reaches you.** A Korean employer must first try for 7 days to hire Koreans through its local Job Center (Korea's public employment office) <sup>[43](#o43)</sup>. It then applies for an employment permit and is shown 3 roster candidates for each vacancy: either the Job Center refers them, or the employer picks, interviews and hires from 3 per vacancy on the EPS website <sup>[43](#o43)</sup>. Candidates are put in front of employers by random selection at that 1:3 ratio, and the employer chooses 1 of the 3 <sup>[3](#o3)</sup>.
 
-**What the employer looks at:** your photo, age, height, weight, work experience, skills, physical fitness and the video taken at your skills test <sup>[3](#o3)</sup>. Those high on the merit list tend to be noticed first <sup>[8](#o8)</sup>. A 2025 Korean press investigation found employers also weigh preferred nationality, age and physique <sup>[N12](#n12)</sup>. In a World Bank study of 2011 to 2015 hiring, Bangladesh ranked seventh among sending countries in employers' preferences <sup>[N4](#n4)</sup>.
+**What the employer looks at:** your photo, age, height, weight, work experience, skills, physical fitness and the video taken at your skills test <sup>[3](#o3)</sup>. Those high on the merit list tend to be noticed first <sup>[8](#o8)</sup>. A 2025 Korean press investigation found employers also weigh preferred nationality, age and physique <sup>[N18](#n18)</sup>. In a World Bank study of 2011 to 2015 hiring, Bangladesh ranked seventh among sending countries in employers' preferences <sup>[N4](#n4)</sup>.
 
 **No one can get you picked.** Whether, whom, when and from which country to hire is entirely the employer's decision; no person, organisation, sending agency or third party can intervene <sup>[3](#o3)</sup>. In Korea, anyone other than the Job Center who intervenes in selecting or hiring EPS workers faces up to 1 year in prison or a fine of up to KRW 10 million <sup>[44](#o44)</sup>.
 
@@ -777,11 +785,12 @@ BOESL's leaflet says an EPS job pays about Tk 2 lakh a month and allows up to ni
 
 ### 4.12 Step 11: Before you fly
 
-1. <a id="step-11-before-you-fly-item-1"></a>**Pre-departure training.** EPS workers with a contract take pre-departure training in their own country, lasting 1 to 2.5 weeks <sup>[44](#o44)</sup>. In August 2026 BOESL ran a 13-day course for 124 workers with job offers at the Bangladesh-Korea Technical Training Centre, Mirpur: 10 days of Korean language, culture, behaviour and work, with the HRD Korea EPS Center; 3 days of welding, grinding and physical exercise in BOESL's welding lab; and a day's industrial attachment at BITAC (Bangladesh Industrial Technical Assistance Centre) <sup>[N21](#n21)</sup>. BOESL paid for it <sup>[N21](#n21)</sup>.
+1. <a id="step-11-before-you-fly-item-1"></a>**Pre-departure training.** EPS workers with a contract take pre-departure training in their own country, lasting 1 to 2.5 weeks <sup>[44](#o44)</sup>. In August 2026 BOESL ran a 13-day course for 124 workers with job offers at the Bangladesh-Korea Technical Training Centre, Mirpur: 10 days of Korean language, culture, behaviour and work, with the HRD Korea EPS Center; 3 days of welding, grinding and physical exercise in BOESL's welding lab; and a day's industrial attachment at BITAC (Bangladesh Industrial Technical Assistance Centre) <sup>[N29](#n29)</sup>. BOESL paid for it <sup>[N29](#n29)</sup>.
 2. <a id="step-11-before-you-fly-item-2"></a>**BMET clearance (the smart card).** BOESL's charges include the smart card fee (Tk 250), welfare fee, insurance premium and immigration clearance ([Who pays what](#who-pays-what)) <sup>[7 (2022)](#o7)</sup>. The smart card is your emigration clearance; with it you need no separate Welfare Board membership, and your family gets a Tk 3 lakh grant if you die abroad <sup>[64](#o64), [65](#o65)</sup>. Check it is real at portal.wewb.gov.bd/bmet-wewbm-check; welfare desks at Dhaka, Chattogram and Sylhet airports check smart cards before departure <sup>[64](#o64), [48](#o48)</sup>.
 3. <a id="step-11-before-you-fly-item-3"></a>**Bangladesh insurance.** Workers leaving with BMET clearance are insured by Jiban Bima Corporation for Tk 10 lakh, for a one-time Tk 1,000 premium, for 5 years from the smart card's date <sup>[66 (2024)](#o66), [47](#o47)</sup>. It pays on death, permanent disability, and Tk 50,000 for job loss with return within 6 months <sup>[47](#o47), [66 (2024)](#o66)</sup>.
 4. <a id="step-11-before-you-fly-item-4"></a>**A loan, if you need one.** PKB (Probashi Kallyan Bank, the government bank for migrant workers) lends up to Tk 3 lakh at 9% simple interest a year over up to 3 years, decided within 7 working days of complete papers <sup>[67](#o67)</sup>. You must be 18 to 60, not in default, and live permanently in the branch's area, with two guarantors <sup>[67](#o67)</sup>. Apply at the branch for your permanent address or online on mygov.bd, paying nothing when you apply <sup>[68 (2019)](#o68)</sup>. Bring the bank's free application form, 3 recent photos, copies of your NID, passport, visa and BMET card, and 3 signed cheque leaves from an active account in your own name with its statement, and open a PKB savings account with at least Tk 500 <sup>[67](#o67)</sup>. PKB helpline 16238; loans department 01716-175560, migration@pkb.gov.bd <sup>[67](#o67), [69](#o69)</sup>.
-5. <a id="step-11-before-you-fly-item-5"></a>**Pack and check.** Keep one set of copies of all papers at home and at least 3 with you, and open at least 2 bank accounts before going, one in your name and one in a family member's <sup>[47](#o47)</sup>. Never carry a packet for anyone whose contents you don't know <sup>[47](#o47)</sup>.
+5. <a id="step-11-before-you-fly-item-5"></a>**Flights.** There is no direct Dhaka-Korea flight; Bangladeshis fly through a third country, which takes longer and costs more <sup>[N31](#n31)</sup>.
+6. <a id="step-11-before-you-fly-item-6"></a>**Pack and check.** Keep one set of copies of all papers at home and at least 3 with you, and open at least 2 bank accounts before going, one in your name and one in a family member's <sup>[47](#o47)</sup>. Never carry a packet for anyone whose contents you don't know <sup>[47](#o47)</sup>.
 
 > **Need to know**
 > - Do EPS workers also do BMET's 3-day PDO (pre-departure orientation), or does BOESL's PEPT training replace it <sup>[48](#o48), [7 (2022)](#o7)</sup>?
@@ -844,7 +853,8 @@ It is allowed only once and gives another 3 years plus 1 year 10 months <sup>[76
 The E-8 visa lets Korean local governments (counties and cities) hire foreign workers legally for a short period in the busy farming and fishing seasons <sup>[79](#o79)</sup>. Korea's Ministry of Justice shares out seasonal workers to local governments twice a year, judging each one's capacity to manage them and to prevent human-rights abuses and absconding <sup>[79](#o79)</sup>.
 
 **Is Bangladesh a source?** Yes, through MoUs that BOESL runs:
-- In April 2025 the first 25 Bangladeshis went as E-8 workers to fisheries companies under an MoU between the Ministry of Expatriates' Welfare and a Korean company <sup>[N22](#n22)</sup>.
+- In 2023-24 private agencies tried and failed. KM International got demand for over 2,000 seasonal workers and collected 700 passports; the Bangladesh Embassy's labour wing in Seoul inspected the employers and attested demand letters for 80, and the ministry approved, but the Korean Embassy issued no visas: the job letters were for 90 days, which needs a 3-month C-4-5 visa that Korea was not issuing for recruitment, and KM returned the passports <sup>[N10 (2024)](#n10)</sup>. Korea's Hampyeong-gun (Hampyeong County) had signed an MoU with Chapainawabganj Zila Parishad (district council), but the agency Hope Human Resources could not send workers under Korea's rules <sup>[N10 (2024)](#n10)</sup>. The E-8, for up to eight months, needs an agreement with a Korean local government, and in April 2024 the Korean Embassy was not issuing visas for any job under a year <sup>[N10 (2024)](#n10)</sup>.
+- In April 2025 the first 25 Bangladeshis went as E-8 workers to fisheries companies under an MoU between the Ministry of Expatriates' Welfare and a Korean company <sup>[N32](#n32)</sup>.
 - In March 2026 BOESL recruited 20 workers (16 men, 4 women) for farms in Hampyeong County under an MoU between the Ministry and the county, for 3 to 8 months at KRW 10,030 an hour <sup>[80](#o80)</sup>.
 
 BOESL says no organisation other than a government one can send E-8 workers from Bangladesh under Korean rules <sup>[80](#o80)</sup>.
@@ -857,7 +867,7 @@ BOESL says no organisation other than a government one can send E-8 workers from
 
 **The risks.** The worker must do whatever work the employer needs and return on time; workers who return get priority next time <sup>[80](#o80)</sup>. A worker who returns after seasonal work also earns 10 points towards a later Special EPS-TOPIK <sup>[78](#o78)</sup>.
 
-**The scams.** BOESL says anyone asking money beyond its set charge is a fraudster <sup>[80](#o80)</sup>. Applying online does not guarantee an interview or selection, and BOESL takes no charge until you are finally selected <sup>[80](#o80)</sup>.
+**The scams.** BOESL says anyone asking money beyond its set charge is a fraudster <sup>[80](#o80)</sup>. In 2024 private-sector recruiters described Korean seasonal farm work (dried-fish processing, vegetable farms, pig farms) as eight months' work, three months' leave and eight more months, with the employer paying the air fare, over Tk 1.5 lakh a month and no Korean needed; none of KM International's workers got a visa <sup>[N10 (2024)](#n10)</sup>. Applying online does not guarantee an interview or selection, and BOESL takes no charge until you are finally selected <sup>[80](#o80)</sup>.
 
 **Where to get help:** BOESL, Probashi Kallyan Bhaban (5th floor), 71-72 Eskaton Garden, Ramna, Dhaka-1000, +88-02-58313838, 48319125 or 48317515, info@boesl.gov.bd <sup>[80](#o80)</sup>; for fraud, see ["Where to get help, by stage"](#where-to-get-help-by-stage).
 
@@ -870,15 +880,15 @@ BOESL says no organisation other than a government one can send E-8 workers from
 
 ### 4.17 E-10 seafarers on coastal fishing boats
 
-Foreign fishers enter Korea by boat size: boats under 20 tonnes, fish farms and salt farms hire through EPS on an E-9 visa (run by the Ministry of Employment and Labor and HRD Korea), while boats of 20 tonnes or more hire through the "foreign seafarer system" on an E-10-2 visa (run by the Ministry of Oceans and Fisheries and Suhyup) <sup>[N23 (2023)](#n23)</sup>.
+Foreign fishers enter Korea by boat size: boats under 20 tonnes, fish farms and salt farms hire through EPS on an E-9 visa (run by the Ministry of Employment and Labor and HRD Korea), while boats of 20 tonnes or more hire through the "foreign seafarer system" on an E-10-2 visa (run by the Ministry of Oceans and Fisheries and Suhyup) <sup>[N33 (2023)](#n33)</sup>.
 
-**Is Bangladesh a source country?** For E-9 fishing, yes: Korea lists Bangladesh as a specialised sending country for E-9 fishing, and the 2026 BOESL notice mentions Bangladeshis deleted from the fishing roster <sup>[45](#o45), [3](#o3)</sup>. For E-10, Suhyup's 2023 report names Indonesia, Vietnam, China and Myanmar as the source countries, not Bangladesh <sup>[N23 (2023)](#n23)</sup>.
+**Is Bangladesh a source country?** For E-9 fishing, yes: Korea lists Bangladesh as a specialised sending country for E-9 fishing, and the 2026 BOESL notice mentions Bangladeshis deleted from the fishing roster <sup>[45](#o45), [3](#o3)</sup>. For E-10, Suhyup's 2023 report names Indonesia, Vietnam, China and Myanmar as the source countries, not Bangladesh <sup>[N33 (2023)](#n33)</sup>.
 
-**How E-10 recruits.** E-10 runs on private contracts: Suhyup with Korean management firms, and those firms with sending companies abroad, which recruit people with boat experience or fisheries schooling; EPS instead recruits through government agencies on Korean test scores <sup>[N23 (2023)](#n23)</sup>.
+**How E-10 recruits.** E-10 runs on private contracts: Suhyup with Korean management firms, and those firms with sending companies abroad, which recruit people with boat experience or fisheries schooling; EPS instead recruits through government agencies on Korean test scores <sup>[N33 (2023)](#n33)</sup>.
 
-**The risks.** Suhyup sets a cap on what E-10 sending firms may charge (US$4,900, about KRW 7 million), but Korea has in effect no law regulating these fees <sup>[N24](#n24)</sup>. In 2026 an Indonesian E-10 fisher told Newstapa he paid about KRW 13 million, half as an "escape deposit" against running away <sup>[N24](#n24)</sup>. He described working 3 am to 9 pm, about five hours' sleep, up to 40 days at sea with no contact home, and no life jacket <sup>[N24](#n24)</sup>. In 2025, 9,517 foreigners worked on Korean coastal boats of 20 tonnes or more, over half the crew <sup>[N24](#n24)</sup>.
+**The risks.** Suhyup sets a cap on what E-10 sending firms may charge (US$4,900, about KRW 7 million), but Korea has in effect no law regulating these fees <sup>[N34](#n34)</sup>. In 2026 an Indonesian E-10 fisher told Newstapa he paid about KRW 13 million, half as an "escape deposit" against running away <sup>[N34](#n34)</sup>. He described working 3 am to 9 pm, about five hours' sleep, up to 40 days at sea with no contact home, and no life jacket <sup>[N34](#n34)</sup>. In 2025, 9,517 foreigners worked on Korean coastal boats of 20 tonnes or more, over half the crew <sup>[N34](#n34)</sup>.
 
-**The scams.** Suhyup recruits E-10 fishers from Indonesia, Vietnam, China and Myanmar, not Bangladesh, so an "E-10 fishing visa" sold in Bangladesh is not a listed route; an E-9 fishing job comes only through BOESL and the EPS-TOPIK <sup>[N23 (2023)](#n23), [3](#o3)</sup>.
+**The scams.** Suhyup recruits E-10 fishers from Indonesia, Vietnam, China and Myanmar, not Bangladesh, so an "E-10 fishing visa" sold in Bangladesh is not a listed route; an E-9 fishing job comes only through BOESL and the EPS-TOPIK <sup>[N33 (2023)](#n33), [3](#o3)</sup>.
 
 **Where to get help:** to report a fishing-job offer made in BOESL's name, call BOESL on 02-48319125 or 01765411653, 9 am to 4 pm, or Probash Bondhu, 16135 <sup>[6](#o6)</sup>.
 
@@ -897,7 +907,7 @@ Foreign fishers enter Korea by boat size: boats under 20 tonnes, fish farms and 
 
 **Paying to be "picked" by an employer.** **Spot it:** the employer alone chooses, from 3 candidates the system shows it, and no one can intervene ([Step 8: Wait for an employer, and how employers choose](#step-8-wait-for-an-employer-and-how-employers-choose)) <sup>[3](#o3)</sup>. A BOESL official said in 2025 that the whole process is controlled by Korea <sup>[N4](#n4)</sup>.
 
-**EPS-TOPIK proxy test-takers.** In 2025 a proxy-exam company on Telegram offered to sit the EPS-TOPIK for a foreigner and forge ID for KRW 2.2 million, with a KRW 500,000 deposit in mobile gift vouchers or Tether, saying it works in all EPS countries including Bangladesh <sup>[N12](#n12)</sup>. Such firms advertised in 2025 that they bribe local exam supervisors; HRD Korea says it appoints local examiners fairly <sup>[N12](#n12)</sup>. **Spot it:** proxy test-taking is listed cheating, and the person who orders it is caught too: in 2020, 51 of 52 Nepalese who ordered proxy tests were deported from Korea <sup>[83](#o83), [N12](#n12)</sup>.
+**EPS-TOPIK proxy test-takers.** In 2025 a proxy-exam company on Telegram offered to sit the EPS-TOPIK for a foreigner and forge ID for KRW 2.2 million, with a KRW 500,000 deposit in mobile gift vouchers or Tether, saying it works in all EPS countries including Bangladesh <sup>[N18](#n18)</sup>. Such firms advertised in 2025 that they bribe local exam supervisors; HRD Korea says it appoints local examiners fairly <sup>[N18](#n18)</sup>. **Spot it:** proxy test-taking is listed cheating, and the person who orders it is caught too: in 2020, 51 of 52 Nepalese who ordered proxy tests were deported from Korea <sup>[83](#o83), [N18](#n18)</sup>.
 
 **Coaching centres that "guarantee" a pass or a visa.** In October 2026 SRB-4 (Special Response Battalion-4) arrested 12 members of a ring at Technical Mor, Dhaka, after complaints from BKTTC (Bangladesh-Korea Technical Training Centre) and BOESL; SRB-4 said they took Tk 40,000 to Tk 10 lakh per person for promised cheap work visas and passes in the written test, and a mobile court jailed 7 and fined 5 <sup>[N2](#n2)</sup>. **Spot it:** BKTTC trains in 24 trades but does not send workers or arrange jobs <sup>[N2](#n2)</sup>; the test questions come from an unpublished question bank <sup>[3](#o3)</sup>.
 
@@ -1033,7 +1043,7 @@ No one, including your employer, may take your passport or alien registration ca
 
 #### 4.19.9 Safety and the Serious Accidents Punishment Act
 
-**Why it matters.** Migrant workers' rate of industrial accident deaths was 1.7 times that of Koreans in a 2024 study by Korea's National Human Rights Commission <sup>[N18](#n18)</sup>. The June 2024 fire at the Aricell battery plant killed 18 migrant workers <sup>[N18](#n18)</sup>. MOEL counted 77 foreign workers killed in work accidents in 2025, down from 102 in 2024, the year of that fire <sup>[36](#o36)</sup>.
+**Why it matters.** Migrant workers' rate of industrial accident deaths was 1.7 times that of Koreans in a 2024 study by Korea's National Human Rights Commission <sup>[N26](#n26)</sup>. The June 2024 fire at the Aricell battery plant killed 18 migrant workers <sup>[N26](#n26)</sup>. MOEL counted 77 foreign workers killed in work accidents in 2025, down from 102 in 2024, the year of that fire <sup>[36](#o36)</sup>.
 
 **The Serious Accidents Punishment Act (중대재해처벌법).** A "serious industrial accident" is one that kills at least one worker, or injures two or more in the same accident so that they need 6 months or more of treatment <sup>[91 (2022)](#o91)</sup>. An owner or chief executive whose breach of safety duties causes a death faces at least 1 year in prison or a fine of up to KRW 1 billion <sup>[91 (2022)](#o91)</sup>. The law has covered workplaces with fewer than 50 workers since January 2024, 3 years after it was promulgated on 26 January 2021, but not individually owned businesses with fewer than 5 workers <sup>[91 (2022)](#o91)</sup>. Victims can claim damages of up to 5 times the loss for intentional or grossly negligent breaches <sup>[91 (2022)](#o91)</sup>.
 
@@ -1069,9 +1079,15 @@ An E-9 worker who leaves Korea cannot be employed again under the EPS until 6 mo
 
 Registration, the card, address changes and the penalty for not registering are set out in [Step 13: Alien registration card](#step-13-alien-registration-card) <sup>[10](#o10)</sup>. If your passport runs out while you are in Korea, the Bangladesh Embassy in Seoul issues a 48-page e-passport for KRW 150,000 (5 years) or KRW 187,000 (10 years), paid by bank or ATM, at the October to December 2026 rates <sup>[94](#o94)</sup>.
 
+<a id="ramadan-prayer-and-halal-food"></a>
+
+#### 4.20.4 Ramadan, prayer and halal food
+
+Korea gives no shorter working hours in Ramadan, unlike Gulf countries; most Bangladeshi workers break the fast with dates and water during work, and no iftar food is sold outside <sup>[N35](#n35)</sup>. Mosques across Korea hold iftar on Saturdays and Sundays; Korea has more than 300 mosques, and the Seoul Central Mosque and Islamic Center was built in 1969 on land the Korean government gave <sup>[N35](#n35)</sup>. Most Korean food contains pork, so Muslims read the label even on snacks to check it is halal <sup>[N35](#n35)</sup>. The Korea Muslim Federation counts about 65,000 Korean Muslims and more than 300,000 migrant Muslims <sup>[N35](#n35)</sup>.
+
 <a id="leaving-and-returning-holidays"></a>
 
-#### 4.20.4 Leaving and returning (holidays)
+#### 4.20.5 Leaving and returning (holidays)
 
 A registered E-9 worker who leaves Korea and comes back within 1 year (or before the stay ends, if that is sooner) does not need a re-entry permit <sup>[95](#o95)</sup>. A trip home does not end your departure guarantee insurance: it is paid only on a departure that is not temporary <sup>[88 (2023)](#o88)</sup>.
 
@@ -1088,7 +1104,7 @@ A registered E-9 worker who leaves Korea and comes back within 1 year (or before
 
 Staying after your permitted stay ends, without an extension, is a crime punishable by up to 3 years in prison or a KRW 30 million fine, and you can be forcibly removed <sup>[16](#o16), [93](#o93)</sup>. People who leave under a deportation order can be refused entry for 5 years <sup>[10](#o10)</sup>.
 
-**How E-9 workers become undocumented.** The most common route is the workplace-change deadline: if you do not apply for a new workplace within 1 month of your contract ending, or do not get a new workplace within 3 months of applying, you must leave, and the job centre sends the names to immigration every month <sup>[17](#o17)</sup>. The other route is leaving the workplace: the employer must report you to the job centre and immigration within 15 days if you are absent 5 days or more without approval, or if your whereabouts become unknown <sup>[88 (2023)](#o88), [10](#o10), [71](#o71)</sup>. Korean law calls this leaving the workplace, 이탈 (i-tal) <sup>[88 (2023)](#o88)</sup>. Of the 397,522 undocumented people in Korea in 2024, 134,580 had originally been registered workers, E-9 holders among them <sup>[N20](#n20)</sup>.
+**How E-9 workers become undocumented.** The most common route is the workplace-change deadline: if you do not apply for a new workplace within 1 month of your contract ending, or do not get a new workplace within 3 months of applying, you must leave, and the job centre sends the names to immigration every month <sup>[17](#o17)</sup>. The other route is leaving the workplace: the employer must report you to the job centre and immigration within 15 days if you are absent 5 days or more without approval, or if your whereabouts become unknown <sup>[88 (2023)](#o88), [10](#o10), [71](#o71)</sup>. Korean law calls this leaving the workplace, 이탈 (i-tal) <sup>[88 (2023)](#o88)</sup>. Of the 397,522 undocumented people in Korea in 2024, 134,580 had originally been registered workers, E-9 holders among them <sup>[N28](#n28)</sup>.
 
 **Leaving voluntarily.** Someone who would be deported but leaves at their own expense can get a departure order (출국명령) instead of a deportation order <sup>[10](#o10)</sup>. How to report and leave, the fines and bans, and the special departure schemes are set out step by step (see [Going home without valid papers](#going-home-without-valid-papers)) <sup>[96](#o96), [97](#o97)</sup>.
 
@@ -1147,7 +1163,7 @@ Entry can be banned for people who left under a deportation order less than 5 ye
 - **Immigration Contact Center: 1345.** Visa and stay questions, Monday to Friday 09:00 to 22:00, except public holidays; from abroad +82-2-1345 <sup>[96](#o96)</sup>.
 - **Korea Legal Aid Corporation: 132 (klac.or.kr).** Free legal advice and court representation for workers whose last three months' average wage is under KRW 4,000,000 <sup>[70](#o70)</sup>.
 - **Bangladesh Embassy, Seoul, Labour Wing.** Mr. Mikon Tangchanggya, Counsellor (Labour); +82-2-796-9010 ext. 300; hotline mobile +82-10-9188-4056; labourwingseoul@gmail.com <sup>[100](#o100), [13](#o13), [85 (2023)](#o85)</sup>. The embassy asks you to send a scan of your passport, ARC and your employer's business card by email, WhatsApp, imo or KakaoTalk when you contact it <sup>[85 (2023)](#o85)</sup>.
-- **Migrant worker support centres.** Government funding for the 9 hub and 31 local centres was cut to zero in the 2024 budget <sup>[N25 (2023)](#n25)</sup>. From 2024 MOEL funded 9 local governments instead, and 6 of the 9 hub centres reopened in March 2024 with about 6 staff each, down from 12 to 18 <sup>[N26 (2024)](#n26)</sup>. Workers sometimes arrive to find no interpreter for their language that day <sup>[N26 (2024)](#n26)</sup>.
+- **Migrant worker support centres.** Government funding for the 9 hub and 31 local centres was cut to zero in the 2024 budget <sup>[N36 (2023)](#n36)</sup>. From 2024 MOEL funded 9 local governments instead, and 6 of the 9 hub centres reopened in March 2024 with about 6 staff each, down from 12 to 18 <sup>[N37 (2024)](#n37)</sup>. Workers sometimes arrive to find no interpreter for their language that day <sup>[N37 (2024)](#n37)</sup>.
 
 > **Need to know**
 > - Which migrant worker support centres and NGOs (for example in Ansan, Gimhae, Pocheon, Uijeongbu) have Bengali-speaking staff in 2026, and on which days?
@@ -1183,7 +1199,7 @@ Unpaid wages are also a ground for changing workplace without it counting agains
 3. <a id="if-you-are-injured-at-work-item-3"></a>**Payments while you can't work.** KCOMWEL pays 70% of your average daily wage for the days you cannot work <sup>[101](#o101)</sup>. If a disability remains, you get disability benefits by grade 1 to 14 <sup>[101](#o101)</sup>. Accidents on the way to or from work count if you used employer transport or a normal route <sup>[101](#o101)</sup>.
 4. <a id="if-you-are-injured-at-work-item-4"></a>**Changing workplace.** An injury that makes you unfit for that workplace but able to work elsewhere is a ground for changing workplace <sup>[88 (2023)](#o88)</sup>. The deadlines for changing workplace pause while you are in treatment <sup>[17](#o17)</sup>.
 
-In practice employers sometimes tell injured workers not to report the accident: a Bangladeshi worker injured in Pocheon in 2024 was told this, and then refused a transfer <sup>[N17](#n17)</sup>.
+In practice employers sometimes tell injured workers not to report the accident: a Bangladeshi worker injured in Pocheon in 2024 was told this, and then refused a transfer <sup>[N25](#n25)</sup>.
 
 > **Need to know**
 > - What share of Bangladeshi E-9 workers' work injuries are filed with KCOMWEL, and what does an injured worker do when the employer refuses to sign the accident form?
@@ -1194,7 +1210,7 @@ In practice employers sometimes tell injured workers not to report the accident:
 
 - **Violence.** Assault by the employer is banned by the Labor Standards Act <sup>[87](#o87)</sup>.
 - **Workplace harassment.** Report it to the employer, who must investigate <sup>[87](#o87)</sup>; if nothing happens, file a petition with the labour office (see [If you aren't paid](#if-you-arent-paid)) <sup>[70](#o70)</sup>.
-- **Changing workplace.** Unfair treatment by the employer is a ground for changing workplace that does not count against your limit <sup>[17](#o17)</sup>. In practice workers often have to prove the abuse before they are allowed to move <sup>[N17](#n17)</sup>.
+- **Changing workplace.** Unfair treatment by the employer is a ground for changing workplace that does not count against your limit <sup>[17](#o17)</sup>. In practice workers often have to prove the abuse before they are allowed to move <sup>[N25](#n25)</sup>.
 
 > **Need to know**
 > - What is the 2026 route for an E-9 worker to report sexual harassment (labour office, National Human Rights Commission 1331, police), and is a workplace change granted at once while the case is investigated?
@@ -1203,7 +1219,7 @@ In practice employers sometimes tell injured workers not to report the accident:
 
 #### 4.22.5 If the employer refuses to release you
 
-The law lets you apply to the job centre yourself when one of the legal reasons applies (see [How many changes](#how-many-changes-and-for-what-reasons), and for what reasons) <sup>[17](#o17)</sup>. Anyone who obstructs a foreign worker's workplace change can be punished with up to 1 year in prison or a KRW 10 million fine <sup>[71](#o71)</sup>. The job centre can cancel the employer's permit if the employer breaks the wage or conditions agreed before you entered, or if unpaid wages or other labour-law breaches make the contract hard to keep; the employer must then end your contract within 15 days <sup>[71](#o71)</sup>. In practice, transfer requests are often met with retaliation: unpaid wages, less work, or even criminal complaints against the worker <sup>[N17](#n17)</sup>.
+The law lets you apply to the job centre yourself when one of the legal reasons applies (see [How many changes](#how-many-changes-and-for-what-reasons), and for what reasons) <sup>[17](#o17)</sup>. Anyone who obstructs a foreign worker's workplace change can be punished with up to 1 year in prison or a KRW 10 million fine <sup>[71](#o71)</sup>. The job centre can cancel the employer's permit if the employer breaks the wage or conditions agreed before you entered, or if unpaid wages or other labour-law breaches make the contract hard to keep; the employer must then end your contract within 15 days <sup>[71](#o71)</sup>. In practice, transfer requests are often met with retaliation: unpaid wages, less work, or even criminal complaints against the worker <sup>[N25](#n25)</sup>.
 
 > **Need to know**
 > - In 2026, does a Bangladeshi E-9 worker need any signature from the employer to file a workplace change at the job centre when the reason is unpaid wages or abuse?
@@ -1335,9 +1351,9 @@ E-7-3 covers 14 trade occupations, for example shipbuilding welders and power-li
 
 #### 5.2.1 How the job reaches you
 
-E-7-3 shipyard workers are selected privately, not by the Korean government: the Korea Offshore & Shipbuilding Association (KOSHIPA, the shipbuilders' industry body) runs skill tests in the workers' home countries, and MOJ then reviews the status of stay <sup>[N27](#n27)</sup>. Because selection is private, brokers have more room to operate than in the government-run E-9 system <sup>[N27](#n27)</sup>.
+E-7-3 shipyard workers are selected privately, not by the Korean government: the Korea Offshore & Shipbuilding Association (KOSHIPA, the shipbuilders' industry body) runs skill tests in the workers' home countries, and MOJ then reviews the status of stay <sup>[N38](#n38)</sup>. Because selection is private, brokers have more room to operate than in the government-run E-9 system <sup>[N38](#n38)</sup>.
 
-In January 2024 Hanwha Ocean hired Bangladeshi welders through RRC Human Resources Service Ltd, a Bangladeshi private recruiting agency <sup>[N28 (2024)](#n28)</sup>; by then Bangladesh had sent 76 workers on E-7, 36 of them through RRC <sup>[N28 (2024)](#n28)</sup>. RRC said it had sent 36 welders for Samsung Heavy Industries in 2023 <sup>[N28 (2024)](#n28)</sup>. RRC said 2 to 5 years of welding experience was required and that 10 to 12 years got preference <sup>[N28 (2024)](#n28)</sup>. The same report put migration cost at about Tk 500,000, roughly two months' pay, against a monthly salary of about Tk 250,000 <sup>[N28 (2024)](#n28)</sup>.
+In January 2024 Hanwha Ocean hired Bangladeshi welders through RRC Human Resources Service Ltd, a Bangladeshi private recruiting agency <sup>[N39 (2024)](#n39)</sup>; by then Bangladesh had sent 76 workers on E-7, 36 of them through RRC <sup>[N39 (2024)](#n39)</sup>. RRC said it had sent 36 welders for Samsung Heavy Industries in 2023 <sup>[N39 (2024)](#n39)</sup>. RRC said 2 to 5 years of welding experience was required and that 10 to 12 years got preference <sup>[N39 (2024)](#n39)</sup>. The same report put migration cost at about Tk 500,000, roughly two months' pay, against a monthly salary of about Tk 250,000 <sup>[N39 (2024)](#n39)</sup>.
 
 Two provinces also recruit shipyard workers under the pilot "metropolitan visa" (gwangyeok-hyeong visa, run by 15 provinces from April 2025 to December 2026, separate from F-2-R): Ulsan (440 places) and South Gyeongsang (540 places) <sup>[106](#o106)</sup>. Under it, the province runs its own skill test and Korean-language test, and only the experience requirement is relaxed for shipbuilding <sup>[106](#o106)</sup>. In January 2026, 206 people were in Korea on it in shipbuilding (88 in Ulsan, 118 in South Gyeongsang) <sup>[106](#o106)</sup>.
 
@@ -1350,25 +1366,25 @@ Two provinces also recruit shipyard workers under the pilot "metropolitan visa" 
 
 #### 5.2.2 Pay, cost and what ties you to the shipyard
 
-The E-7-3 wage standard was cut from 80% of Korea's per-capita GNI (gross national income) to 70% in 2023, and to the minimum wage in 2024 <sup>[N27](#n27)</sup>. A 2025 survey of shipyard migrants found 66.2% of E-7-3 workers earned under KRW 2.5 million a month, against 38.1% of E-9 workers <sup>[N27](#n27)</sup>. The official minimum for E-7-3 in 2026 is KRW 25,890,000 a year <sup>[104](#o104)</sup>.
+The E-7-3 wage standard was cut from 80% of Korea's per-capita GNI (gross national income) to 70% in 2023, and to the minimum wage in 2024 <sup>[N38](#n38)</sup>. A 2025 survey of shipyard migrants found 66.2% of E-7-3 workers earned under KRW 2.5 million a month, against 38.1% of E-9 workers <sup>[N38](#n38)</sup>. The official minimum for E-7-3 in 2026 is KRW 25,890,000 a year <sup>[104](#o104)</sup>.
 
-In the same survey, 58.1% of E-7-3 workers had paid broker fees of KRW 10 million or more and 13.1% had paid KRW 20 million or more; only 6.6% of E-9 workers had paid KRW 10 million or more <sup>[N27](#n27)</sup>. The researcher who ran it said in February 2026 that the going broker rate, KRW 8-12 million in a 2023 metal workers' union survey, seemed to have risen to KRW 15-20 million <sup>[N27](#n27)</sup>. A metal workers' union official said in February 2026 that workers repaying this debt keep at most about KRW 500,000 a month and send the rest home <sup>[N27](#n27)</sup>.
+In the same survey, 58.1% of E-7-3 workers had paid broker fees of KRW 10 million or more and 13.1% had paid KRW 20 million or more; only 6.6% of E-9 workers had paid KRW 10 million or more <sup>[N38](#n38)</sup>. The researcher who ran it said in February 2026 that the going broker rate, KRW 8-12 million in a 2023 metal workers' union survey, seemed to have risen to KRW 15-20 million <sup>[N38](#n38)</sup>. A metal workers' union official said in February 2026 that workers repaying this debt keep at most about KRW 500,000 a month and send the rest home <sup>[N38](#n38)</sup>.
 
-An E-7-3 shipyard worker can work only at shipyards and can move to another shipyard only if the company suspends or closes its business; metropolitan-visa holders are also restricted from changing where they live <sup>[N27](#n27)</sup>.
+An E-7-3 shipyard worker can work only at shipyards and can move to another shipyard only if the company suspends or closes its business; metropolitan-visa holders are also restricted from changing where they live <sup>[N38](#n38)</sup>.
 
 <a id="policy-changes"></a>
 
 #### 5.2.3 Policy changes
 
-In March 2026 MOJ set up an expert task force to decide whether to keep the metropolitan visa, after social conflict over the shipbuilding metropolitan visa centred on Ulsan <sup>[106](#o106)</sup>. MOJ also plans an in-depth survey of sectors where foreign labour grew sharply, such as shipbuilding <sup>[27](#o27)</sup>. For 2026 it set small pilot E-7 quotas, including 330 auto-repair sheet-metal and painting workers, and plans a pilot E-7-3 visa for mould makers <sup>[27](#o27)</sup>. On 9 February 2026 a ruling-party MP said the government would try to halt E-7-3 as far as possible and reduce numbers after a 2026 study <sup>[N27](#n27)</sup>.
+In March 2026 MOJ set up an expert task force to decide whether to keep the metropolitan visa, after social conflict over the shipbuilding metropolitan visa centred on Ulsan <sup>[106](#o106)</sup>. MOJ also plans an in-depth survey of sectors where foreign labour grew sharply, such as shipbuilding <sup>[27](#o27)</sup>. For 2026 it set small pilot E-7 quotas, including 330 auto-repair sheet-metal and painting workers, and plans a pilot E-7-3 visa for mould makers <sup>[27](#o27)</sup>. On 9 February 2026 a ruling-party MP said the government would try to halt E-7-3 as far as possible and reduce numbers after a 2026 study <sup>[N38](#n38)</sup>.
 
 <a id="scams-1"></a>
 
 #### 5.2.4 Scams
 
 **Done to workers:**
-- **Debt bondage by pledge.** According to the head of the Ulsan Migrant Centre and Weekly Kyunghyang (February 2026), workers who borrowed to pay brokers sign a pledge not to leave the workplace and a joint guarantee under which family members repay the debt; if the worker leaves, the guarantor pays a large penalty <sup>[N27](#n27)</sup>. Spot it: any paper asking a relative to guarantee a "penalty" if you leave the employer.
-- **Inflated fees.** Fees of KRW 10-20 million are common (see ["Pay, cost and what ties you to the shipyard"](#pay-cost-and-what-ties-you-to-the-shipyard)) <sup>[N27](#n27)</sup>. Spot it: pay a Bangladeshi agency only through the bank, into the agency's own account, and keep the receipts <sup>[47](#o47)</sup>. When an agency sends you, it applies for your BMET emigration clearance, which BMET gives within 3 working days after the visa <sup>[48](#o48)</sup>. To complain about an agency, send an application with your proof to BMET's Director General (it can be handed in at the complaint cell); it is free and decided within 30 working days <sup>[48](#o48)</sup>.
+- **Debt bondage by pledge.** According to the head of the Ulsan Migrant Centre and Weekly Kyunghyang (February 2026), workers who borrowed to pay brokers sign a pledge not to leave the workplace and a joint guarantee under which family members repay the debt; if the worker leaves, the guarantor pays a large penalty <sup>[N38](#n38)</sup>. Spot it: any paper asking a relative to guarantee a "penalty" if you leave the employer.
+- **Inflated fees.** Fees of KRW 10-20 million are common (see ["Pay, cost and what ties you to the shipyard"](#pay-cost-and-what-ties-you-to-the-shipyard)) <sup>[N38](#n38)</sup>. Spot it: pay a Bangladeshi agency only through the bank, into the agency's own account, and keep the receipts <sup>[47](#o47)</sup>. When an agency sends you, it applies for your BMET emigration clearance, which BMET gives within 3 working days after the visa <sup>[48](#o48)</sup>. To complain about an agency, send an application with your proof to BMET's Director General (it can be handed in at the complaint cell); it is free and decided within 30 working days <sup>[48](#o48)</sup>.
 
 **Tried by workers:** Submitting forged documents (for example a fake experience certificate) or false information for a stay permit, or helping someone else do so, is prohibited <sup>[10](#o10)</sup>; a foreigner who breaks the rules on status of stay can be deported <sup>[10](#o10)</sup>.
 
@@ -1652,7 +1668,7 @@ A C-3 visit allows at most 90 days and cannot be extended in Korea <sup>[113 (20
 
 ### 6.9 Can you work?
 
-No. C-3 is for non-profit purposes <sup>[9](#o9)</sup>, and working without a status that permits work is a crime with the same penalty of up to 3 years in prison or KRW 30 million <sup>[10](#o10)</sup>. Immigration raids reach workplaces, subway stations and markets (see [Going home without valid papers](#going-home-without-valid-papers)) <sup>[N29](#n29)</sup>. People without status cannot get health insurance and cannot safely report abuse at work <sup>[N29](#n29)</sup>.
+No. C-3 is for non-profit purposes <sup>[9](#o9)</sup>, and working without a status that permits work is a crime with the same penalty of up to 3 years in prison or KRW 30 million <sup>[10](#o10)</sup>. Immigration raids reach workplaces, subway stations and markets (see [Going home without valid papers](#going-home-without-valid-papers)) <sup>[N40](#n40)</sup>. People without status cannot get health insurance and cannot safely report abuse at work <sup>[N40](#n40)</sup>.
 
 <a id="if-the-visa-is-refused"></a>
 
@@ -1689,7 +1705,7 @@ A C-3 visa never allows work <sup>[9](#o9), [10](#o10)</sup>. The Embassy says n
 
 #### 6.12.2 Fake invitations
 
-In October 2024 Seoul police said they had broken a ring of Pakistani nationals that, since June 2022, had forged invitation letters from small Korean companies for short-term business visas, charging USD 10,000 to 13,000 per case plus USD 3,000 on arrival in Korea <sup>[N30 (2024)](#n30)</sup>. The forged papers went to four Korean missions, including the Embassy in Dubai <sup>[N30 (2024)](#n30)</sup>. The ring gave burner phone numbers so that embassy verification calls reached it, and used refugee claims to keep people in Korea working illegally <sup>[N30 (2024)](#n30)</sup>. Of the 29 people who entered this way, 18 were arrested and the other 11 were being pursued after being put on a no-fly list <sup>[N30 (2024)](#n30)</sup>.
+In October 2024 Seoul police said they had broken a ring of Pakistani nationals that, since June 2022, had forged invitation letters from small Korean companies for short-term business visas, charging USD 10,000 to 13,000 per case plus USD 3,000 on arrival in Korea <sup>[N41 (2024)](#n41)</sup>. The forged papers went to four Korean missions, including the Embassy in Dubai <sup>[N41 (2024)](#n41)</sup>. The ring gave burner phone numbers so that embassy verification calls reached it, and used refugee claims to keep people in Korea working illegally <sup>[N41 (2024)](#n41)</sup>. Of the 29 people who entered this way, 18 were arrested and the other 11 were being pursued after being put on a no-fly list <sup>[N41 (2024)](#n41)</sup>.
 
 <a id="fake-bank-statements-and-documents-tried-by-applicants"></a>
 
@@ -1743,7 +1759,7 @@ The stay is at most 90 days and cannot be extended <sup>[113 (2023)](#o113)</sup
 
 ### 7.3 Scams
 
-The invitation-forging ring broken in Seoul in 2024 sold short-term business visas based on fake invitations from small Korean companies (see [Fake invitations](#fake-invitations)) <sup>[N30 (2024)](#n30)</sup>. Korean embassies call the inviting company to check, and the ring answered those calls on burner phones <sup>[N30 (2024)](#n30)</sup>.
+The invitation-forging ring broken in Seoul in 2024 sold short-term business visas based on fake invitations from small Korean companies (see [Fake invitations](#fake-invitations)) <sup>[N41 (2024)](#n41)</sup>. Korean embassies call the inviting company to check, and the ring answered those calls on burner phones <sup>[N41 (2024)](#n41)</sup>.
 
 > **Need to know**
 > - What do Dhaka brokers charge in 2026 for a Korean company invitation for a C-3-4 business visa?
@@ -1767,14 +1783,18 @@ Students on degree courses (associate, bachelor's, master's, doctorate, research
 
 - **IEQAS-certified universities** (International Education Quality Assurance System, certified each year by the Ministries of Justice and Education): 184 institutions for degree programmes and 126 for Korean language programmes; their students get relaxed visa screening and more weekday work hours <sup>[136](#o136)</sup>. The list is on studyinkorea.go.kr under "Accredited Universities" <sup>[136](#o136)</sup>.
 - **Non-accredited universities** that fail inspection are designated for stricter visa screening on language and finances <sup>[136](#o136)</sup>.
+- **E-visa universities.** A November 2025 student-written piece listed 11 universities whose students do the whole visa online without visiting the Embassy: Anyang, Busan University of Foreign Studies, Dong-Eui, Dongshin, Woosuk, Kyungsung, Konkuk (Seoul), Woosong, Korea Tech, Jeonbuk National and Sunchon National <sup>[N42](#n42)</sup>. Education consultancies said these are Bangladeshi students' top choice; the piece said their master's classes meet one day a week, master's entry generally needs a CGPA of 2.50 and IELTS 5.5, and many offer a spouse visa on conditions <sup>[N42](#n42)</sup>. Part-time hours are set by law, not by the university (see [Part-time work](#part-time-work)) <sup>[137](#o137)</sup>.
 
 <a id="costs"></a>
 
 ### 8.2 Costs
 
-- **Tuition (yearly averages):** undergraduate KRW 6,820,244 (private KRW 7,625,336; national and public KRW 4,265,842); graduate KRW 4,216,103 <sup>[137](#o137)</sup>.
-- **Visa fee:** USD 60 (Tk 7,500) single entry for a stay over 90 days, plus Tk 2,150 KVAC fee <sup>[138 (2021)](#o138), [9](#o9), [119](#o119)</sup>.
-- **What families actually paid in one 2026 case:** KRW 7.13 million (about Tk 600,000) per student for tuition, admission and dormitory at SinGyeongju University, paid before any visa <sup>[N31](#n31)</sup>.
+- **Tuition (yearly averages):** undergraduate KRW 6,820,244 (private KRW 7,625,336; national and public KRW 4,265,842); graduate KRW 4,216,103 <sup>[138](#o138)</sup>.
+- **Living costs:** KRW 750,000 to 1,000,000 a month for housing, food, transport and daily costs, by Korean government guidance <sup>[N43](#n43)</sup>.
+- **A first year in all, without a scholarship:** Tk 12.38 to 15.18 lakh at a national or public university (Tk 10.39 to 13.19 lakh with a 50% tuition waiver) and Tk 15.52 to 18.32 lakh at a private one, by one education consultancy's estimate; air fare, application and admission fees, visa, document attestation, setup and an emergency fund come on top <sup>[N43](#n43)</sup>.
+- **Scholarships:** the Korean government's GKS (Global Korea Scholarship) 2027 undergraduate guideline is out; universities such as Kyungpook and Pusan National give tuition waivers on TOPIK results, on conditions <sup>[N43](#n43)</sup>.
+- **Visa fee:** USD 60 (Tk 7,500) single entry for a stay over 90 days, plus Tk 2,150 KVAC fee <sup>[139 (2021)](#o139), [9](#o9), [119](#o119)</sup>.
+- **What families actually paid in one 2026 case:** KRW 7.13 million (about Tk 600,000) per student for tuition, admission and dormitory at SinGyeongju University, paid before any visa <sup>[N44](#n44)</sup>.
 
 > **Need to know**
 > - What bank balance (in USD) and for how long must a Bangladeshi D-2 and D-4 applicant show, and does the Embassy accept a parent's or relative's account?
@@ -1784,16 +1804,16 @@ Students on degree courses (associate, bachelor's, master's, doctorate, research
 
 ### 8.3 Step 1: Get admitted and pay the university
 
-1. <a id="step-1-get-admitted-and-pay-the-university-item-1"></a>**Apply directly to the university** and confirm everything on its official website or with its international office; the Embassy says not to rely only on consultants or agencies <sup>[139](#o139)</sup>.
-2. <a id="step-1-get-admitted-and-pay-the-university-item-2"></a>**Before paying, check in writing:** an official Certificate of Admission in the university's name, the exact fees and the bank account, refund terms if enrolment is cancelled or the visa refused, the refund period, whether the agency is registered, and that the university is operating normally and allowed to recruit foreign students <sup>[139](#o139)</sup>.
-3. <a id="step-1-get-admitted-and-pay-the-university-item-3"></a>**Pay the university before any visa papers are filed:** students report that the university takes the money first and only then files the visa papers with Korea Immigration; in one 2026 case the fees were due a week after the offer letter and were paid by bank transfer to the university's account <sup>[N31](#n31)</sup>. Keep the contract, receipts, emails and messages <sup>[139](#o139)</sup>.
-4. <a id="step-1-get-admitted-and-pay-the-university-item-4"></a>**Get the Certificate of Admission and the University Payment Certificate** <sup>[138 (2021)](#o138), [140](#o140)</sup>.
+1. <a id="step-1-get-admitted-and-pay-the-university-item-1"></a>**Apply directly to the university** and confirm everything on its official website or with its international office; the Embassy says not to rely only on consultants or agencies <sup>[140](#o140)</sup>.
+2. <a id="step-1-get-admitted-and-pay-the-university-item-2"></a>**Before paying, check in writing:** an official Certificate of Admission in the university's name, the exact fees and the bank account, refund terms if enrolment is cancelled or the visa refused, the refund period, whether the agency is registered, and that the university is operating normally and allowed to recruit foreign students <sup>[140](#o140)</sup>.
+3. <a id="step-1-get-admitted-and-pay-the-university-item-3"></a>**Pay the university before any visa papers are filed:** students report that the university takes the money first and only then files the visa papers with Korea Immigration; in one 2026 case the fees were due a week after the offer letter and were paid by bank transfer to the university's account <sup>[N44](#n44)</sup>. Keep the contract, receipts, emails and messages <sup>[140](#o140)</sup>.
+4. <a id="step-1-get-admitted-and-pay-the-university-item-4"></a>**Get the Certificate of Admission and the University Payment Certificate** <sup>[139 (2021)](#o139), [141](#o141)</sup>.
 
 <a id="step-2-the-university-may-get-you-a-visa-issuance-confirmation-vic"></a>
 
 ### 8.4 Step 2: The university may get you a Visa Issuance Confirmation (VIC)
 
-Some universities file your papers with Korea Immigration first, which issues a VIC (Visa Issuance Confirmation, an approval number from Korea) <sup>[N31](#n31), [141](#o141)</sup>. With a VIC you submit a shorter list in Dhaka: the 2-page VIC application form with bar code, photo, passport and copy, admission certificate, payment certificate, parents' NID and passport copies if possible, police clearance and TB test within 3 months, and an air-ticket booking <sup>[141](#o141), [140](#o140)</sup>. VIC holders can submit at KVAC without an appointment, in queue order <sup>[63](#o63)</sup>. Master's and PhD students at accredited universities can instead receive an e-Visa <sup>[105](#o105)</sup>.
+Some universities file your papers with Korea Immigration first, which issues a VIC (Visa Issuance Confirmation, an approval number from Korea) <sup>[N44](#n44), [142](#o142)</sup>. With a VIC you submit a shorter list in Dhaka: the 2-page VIC application form with bar code, photo, passport and copy, admission certificate, payment certificate, parents' NID and passport copies if possible, police clearance and TB test within 3 months, and an air-ticket booking <sup>[142](#o142), [141](#o141)</sup>. VIC holders can submit at KVAC without an appointment, in queue order <sup>[63](#o63)</sup>. Master's and PhD students at accredited universities can instead receive an e-Visa <sup>[105](#o105)</sup>.
 
 <a id="step-3-get-the-bangladesh-side-papers"></a>
 
@@ -1801,14 +1821,14 @@ Some universities file your papers with Korea Immigration first, which issues a 
 
 You'll need:
 
-- **Birth certificate** (original and copy) and a **Family Relationship Certificate** from the City Corporation or Union Parishad, issued within 3 months <sup>[140](#o140)</sup>.
-- **Educational certificates and transcripts,** originals and copies, attested by the Ministry of Education and the Ministry of Foreign Affairs within 3 months; no notarization or Korean Embassy attestation <sup>[138 (2021)](#o138)</sup>. A provisional certificate is accepted if you graduated within a year of the admission certificate and show the original at your first extension in Korea <sup>[138 (2021)](#o138)</sup>.
-- **Proof of money:** bank solvency certificate, bank statement for the last 6 months, tax certificate, last 2 years' tax returns and challan, and the guarantor's job certificate or trade licence; a registered deed if you use an asset valuation <sup>[138 (2021)](#o138), [140](#o140)</sup>.
-- **Parents' no-objection letter** (no notarization needed) and, if possible, parents' NID and passport copies <sup>[138 (2021)](#o138), [140](#o140)</sup>.
-- **Police clearance certificate** from Bangladesh Police, issued within 3 months <sup>[138 (2021)](#o138), [140](#o140)</sup>.
-- **TB test** from the designated centre, Praava Health, Plot 9, Road 17, Block C, Banani, within 3 months <sup>[140](#o140), [9](#o9)</sup>.
-- **TOEFL or IELTS score** within 2 years <sup>[140](#o140)</sup>.
-- **Air-ticket booking** <sup>[140](#o140)</sup>.
+- **Birth certificate** (original and copy) and a **Family Relationship Certificate** from the City Corporation or Union Parishad, issued within 3 months <sup>[141](#o141)</sup>.
+- **Educational certificates and transcripts,** originals and copies, attested by the Ministry of Education and the Ministry of Foreign Affairs within 3 months; no notarization or Korean Embassy attestation <sup>[139 (2021)](#o139)</sup>. A provisional certificate is accepted if you graduated within a year of the admission certificate and show the original at your first extension in Korea <sup>[139 (2021)](#o139)</sup>.
+- **Proof of money:** bank solvency certificate, bank statement for the last 6 months, tax certificate, last 2 years' tax returns and challan, and the guarantor's job certificate or trade licence; a registered deed if you use an asset valuation <sup>[139 (2021)](#o139), [141](#o141)</sup>.
+- **Parents' no-objection letter** (no notarization needed) and, if possible, parents' NID and passport copies <sup>[139 (2021)](#o139), [141](#o141)</sup>.
+- **Police clearance certificate** from Bangladesh Police, issued within 3 months <sup>[139 (2021)](#o139), [141](#o141)</sup>.
+- **TB test** from the designated centre, Praava Health, Plot 9, Road 17, Block C, Banani, within 3 months <sup>[141](#o141), [9](#o9)</sup>.
+- **TOEFL or IELTS score** within 2 years <sup>[141](#o141)</sup>.
+- **Air-ticket booking** <sup>[141](#o141)</sup>.
 
 <a id="step-4-apply-at-kvac"></a>
 
@@ -1816,7 +1836,7 @@ You'll need:
 
 1. <a id="step-4-apply-at-kvac-item-1"></a>**Fill in the e-Form** on visa.go.kr and print it with the bar code; it is mandatory for D-2 and D-4 <sup>[124](#o124)</sup>.
 2. <a id="step-4-apply-at-kvac-item-2"></a>**Book a KVAC appointment** (VIC holders can walk in) and submit in person <sup>[126](#o126), [63](#o63)</sup>.
-3. <a id="step-4-apply-at-kvac-item-3"></a>**Submit at least 5 days before term starts;** the Embassy asks for this to allow processing and travel <sup>[142](#o142)</sup>.
+3. <a id="step-4-apply-at-kvac-item-3"></a>**Submit at least 5 days before term starts;** the Embassy asks for this to allow processing and travel <sup>[143](#o143)</sup>.
 4. <a id="step-4-apply-at-kvac-item-4"></a>**Track and collect the passport** as for the visit visa (see Visit visa (C-3), [Step 6: Track, collect and check the visa](#step-6-track-collect-and-check-the-visa)) <sup>[129](#o129)</sup>.
 
 <a id="step-5-after-arrival"></a>
@@ -1824,7 +1844,7 @@ You'll need:
 ### 8.7 Step 5: After arrival
 
 1. <a id="step-5-after-arrival-item-1"></a>**Register as a foreigner within 90 days of entry** <sup>[135](#o135)</sup>.
-2. <a id="step-5-after-arrival-item-2"></a>**Report any change of address within 15 days,** or face a fine of up to KRW 1 million <sup>[143](#o143)</sup>.
+2. <a id="step-5-after-arrival-item-2"></a>**Report any change of address within 15 days,** or face a fine of up to KRW 1 million <sup>[137](#o137)</sup>.
 
 <a id="how-long-you-can-stay-2"></a>
 
@@ -1836,28 +1856,28 @@ D-2 and D-4 are granted for up to 2 years at a time and can be extended <sup>[11
 
 ### 8.9 Part-time work
 
-You must get permission before you start <sup>[143](#o143)</sup>. Working without it, or breaking its conditions, is a crime under the Immigration Act punishable by up to 3 years in prison or a KRW 30 million fine, and illegal work in construction brings a deportation order without exception, however few the violations <sup>[10](#o10), [143](#o143)</sup>.
+You must get permission before you start <sup>[137](#o137)</sup>. Working without it, or breaking its conditions, is a crime under the Immigration Act punishable by up to 3 years in prison or a KRW 30 million fine, and illegal work in construction brings a deportation order without exception, however few the violations <sup>[10](#o10), [137](#o137)</sup>.
 
-1. <a id="part-time-work-item-1"></a>**Check you qualify:** degree students can work from the start; D-4 language students only after 6 months in Korea <sup>[143](#o143)</sup>.
+1. <a id="part-time-work-item-1"></a>**Check you qualify:** degree students can work from the start; D-4 language students only after 6 months in Korea <sup>[137](#o137)</sup>.
 2. <a id="part-time-work-item-2"></a>**Check your hours:**
-   - **Language students:** 10 hours a week without TOPIK 2 (Test of Proficiency in Korean, level 2); with it, 20 hours, or 25 at a certified university <sup>[143](#o143)</sup>.
-   - **Associate and 1st-2nd year bachelor's:** 10 hours without TOPIK 3; with it, 25 weekday hours (30 at a certified university) and no limit at weekends and in vacations <sup>[143](#o143)</sup>.
-   - **3rd-4th year bachelor's:** the same hours, but TOPIK 4 is needed <sup>[143](#o143)</sup>.
-   - **Master's and doctoral:** 15 hours without the language level; with it, 30 weekday hours (35 at a certified university) and no limit at weekends <sup>[143](#o143)</sup>.
-3. <a id="part-time-work-item-3"></a>**Get a standard employment contract** stating the hourly wage, and the confirmation form signed by your university's international student advisor <sup>[143](#o143)</sup>.
-4. <a id="part-time-work-item-4"></a>**Apply online or in person** with passport, residence card, application form, advisor's form, transcript or attendance record, Korean certificate, the employer's business registration and the contract <sup>[143](#o143)</sup>.
-5. <a id="part-time-work-item-5"></a>**Get the sticker or printed permit** before you start <sup>[143](#o143)</sup>.
+   - **Language students:** 10 hours a week without TOPIK 2 (Test of Proficiency in Korean, level 2); with it, 20 hours, or 25 at a certified university <sup>[137](#o137)</sup>.
+   - **Associate and 1st-2nd year bachelor's:** 10 hours without TOPIK 3; with it, 25 weekday hours (30 at a certified university) and no limit at weekends and in vacations <sup>[137](#o137)</sup>.
+   - **3rd-4th year bachelor's:** the same hours, but TOPIK 4 is needed <sup>[137](#o137)</sup>.
+   - **Master's and doctoral:** 15 hours without the language level; with it, 30 weekday hours (35 at a certified university) and no limit at weekends <sup>[137](#o137)</sup>.
+3. <a id="part-time-work-item-3"></a>**Get a standard employment contract** stating the hourly wage, and the confirmation form signed by your university's international student advisor <sup>[137](#o137)</sup>.
+4. <a id="part-time-work-item-4"></a>**Apply online or in person** with passport, residence card, application form, advisor's form, transcript or attendance record, Korean certificate, the employer's business registration and the contract <sup>[137](#o137)</sup>.
+5. <a id="part-time-work-item-5"></a>**Get the sticker or printed permit** before you start <sup>[137](#o137)</sup>.
 
-Korea's government has proposed reforms, reported in November 2026, under which TOPIK 3 would be needed for part-time work and TOPIK 4 or KIIP level 4 would let most students skip proof of funds; they are proposals, not yet rules <sup>[N32](#n32)</sup>.
+Korea's government has proposed reforms, reported in November 2026, under which TOPIK 3 would be needed for part-time work and TOPIK 4 or KIIP level 4 would let most students skip proof of funds; they are proposals, not yet rules <sup>[N45](#n45)</sup>.
 
 <a id="after-graduation-the-d-10-job-seeker-visa"></a>
 
 ### 8.10 After graduation: the D-10 job-seeker visa
 
-1. <a id="after-graduation-the-d-10-job-seeker-visa-item-1"></a>**Check you qualify:** D-10-1 is for looking for professional jobs in the E-1 to E-7 categories; manual and unskilled work is not allowed <sup>[143](#o143)</sup>. You need at least a bachelor's (or a Korean associate degree) and a points score; Korean graduates with TOPIK 4 within 3 years of graduating are exempt from the score <sup>[113 (2023)](#o113)</sup>.
-2. <a id="after-graduation-the-d-10-job-seeker-visa-item-2"></a>**Apply to change status** with the application, photo, passport copy, fee, job-seeking plan, degree certificate, proof of residence, and Korean or career certificates if you have them <sup>[143](#o143)</sup>.
-3. <a id="after-graduation-the-d-10-job-seeker-visa-item-3"></a>**Proof of funds:** KRW 900,000 a month for 6 months (about KRW 5.4 million), not needed the first time you change from D-2 to D-10 <sup>[143](#o143)</sup>.
-4. <a id="after-graduation-the-d-10-job-seeker-visa-item-4"></a>**Extend in 6-month steps,** up to 2 years; internships are allowed for up to a year in total and 6 months per company <sup>[113 (2023)](#o113), [143](#o143)</sup>.
+1. <a id="after-graduation-the-d-10-job-seeker-visa-item-1"></a>**Check you qualify:** D-10-1 is for looking for professional jobs in the E-1 to E-7 categories; manual and unskilled work is not allowed <sup>[137](#o137)</sup>. You need at least a bachelor's (or a Korean associate degree) and a points score; Korean graduates with TOPIK 4 within 3 years of graduating are exempt from the score <sup>[113 (2023)](#o113)</sup>.
+2. <a id="after-graduation-the-d-10-job-seeker-visa-item-2"></a>**Apply to change status** with the application, photo, passport copy, fee, job-seeking plan, degree certificate, proof of residence, and Korean or career certificates if you have them <sup>[137](#o137)</sup>.
+3. <a id="after-graduation-the-d-10-job-seeker-visa-item-3"></a>**Proof of funds:** KRW 900,000 a month for 6 months (about KRW 5.4 million), not needed the first time you change from D-2 to D-10 <sup>[137](#o137)</sup>.
+4. <a id="after-graduation-the-d-10-job-seeker-visa-item-4"></a>**Extend in 6-month steps,** up to 2 years; internships are allowed for up to a year in total and 6 months per company <sup>[113 (2023)](#o113), [137](#o137)</sup>.
 
 <a id="bringing-family"></a>
 
@@ -1876,7 +1896,7 @@ A D-2 bachelor's-or-higher student who has stayed more than 6 months can invite 
 
 #### 8.12.1 "Language school" and "student visa that leads to a job"
 
-A D-4 language visa does not allow work for the first 6 months, and then only 10 to 25 hours a week with a permit <sup>[143](#o143)</sup>. Ministry of Justice data for August 2026 showed 29.2% of people who entered on D-4 language visas were in Korea illegally, against 3.6% of those on D-2 degree visas <sup>[N33](#n33)</sup>. At one university in the Jeonnam-Gwangju area, 207 of 690 language students admitted in 2025 became illegal <sup>[N33](#n33)</sup>. A Bangladeshi interviewed in February 2026 came on a D-4 nearly 20 years ago, worked on the side and overstayed when his employer urged him to; he now faces raids around his workplace every one to two months and cannot get his children health insurance <sup>[N29](#n29)</sup>.
+A D-4 language visa does not allow work for the first 6 months, and then only 10 to 25 hours a week with a permit <sup>[137](#o137)</sup>. Ministry of Justice data for August 2026 showed 29.2% of people who entered on D-4 language visas were in Korea illegally, against 3.6% of those on D-2 degree visas <sup>[N46](#n46)</sup>. At one university in the Jeonnam-Gwangju area, 207 of 690 language students admitted in 2025 became illegal <sup>[N46](#n46)</sup>. A Bangladeshi interviewed in February 2026 came on a D-4 nearly 20 years ago, worked on the side and overstayed when his employer urged him to; he now faces raids around his workplace every one to two months and cannot get his children health insurance <sup>[N40](#n40)</sup>.
 
 > **Need to know**
 > - What do Dhaka agents charge for a D-4 "language course plus job" package, and which Korean institutions do they use?
@@ -1885,25 +1905,25 @@ A D-4 language visa does not allow work for the first 6 months, and then only 10
 
 #### 8.12.2 Universities that take the money and file nothing
 
-For the 2026 intake, nearly 300 Bangladeshi students paid SinGyeongju University about Tk 600,000 (KRW 7.13 million) each, through its official representatives and partner agencies <sup>[N31](#n31), [N34](#n34)</sup>. According to the students and the university's own Bangladeshi representative, as reported in July 2026, the university did not file visa papers for most of them, so they could not even apply <sup>[N31](#n31)</sup>. A Korean court declared its operator, the Wonseok Educational Foundation, bankrupt on 3 July 2026, with about Tk 180 million of the students' money in the university's accounts; families had sold land, taken bank loans or borrowed from relatives <sup>[N31](#n31)</sup>. The Korean Embassy in Dhaka confirmed the difficulties and said it has no authority to intervene in contractual or financial disputes between students and universities or agencies <sup>[139](#o139)</sup>. In July 2026 Korea's education authorities asked the university for an emergency status report and were negotiating possible refund procedures <sup>[N34](#n34)</sup>.
+For the 2026 intake, nearly 300 Bangladeshi students paid SinGyeongju University about Tk 600,000 (KRW 7.13 million) each, through its official representatives and partner agencies <sup>[N44](#n44), [N47](#n47)</sup>. According to the students and the university's own Bangladeshi representative, as reported in July 2026, the university did not file visa papers for most of them, so they could not even apply <sup>[N44](#n44)</sup>. A Korean court declared its operator, the Wonseok Educational Foundation, bankrupt on 3 July 2026, with about Tk 180 million of the students' money in the university's accounts; families had sold land, taken bank loans or borrowed from relatives <sup>[N44](#n44)</sup>. The Korean Embassy in Dhaka confirmed the difficulties and said it has no authority to intervene in contractual or financial disputes between students and universities or agencies <sup>[140](#o140)</sup>. In July 2026 Korea's education authorities asked the university for an emergency status report and were negotiating possible refund procedures <sup>[N47](#n47)</sup>.
 
 <a id="fake-appointments-and-documents"></a>
 
 #### 8.12.3 Fake appointments and documents
 
-Student agencies have sold fake Embassy appointment papers <sup>[127 (2024)](#o127)</sup>. Forged degree certificates or bank statements bring refusal, an entry ban and arrest <sup>[130 (2022)](#o130)</sup>. The Embassy does not recommend or work with any agency or university <sup>[139](#o139), [42 (2023)](#o42)</sup>.
+Student agencies have sold fake Embassy appointment papers <sup>[127 (2024)](#o127)</sup>. Forged degree certificates or bank statements bring refusal, an entry ban and arrest <sup>[130 (2022)](#o130)</sup>. The Embassy does not recommend or work with any agency or university <sup>[140](#o140), [42 (2023)](#o42)</sup>.
 
 <a id="universities-crackdowns-on-vanishing-students"></a>
 
 ### 8.13 Universities' crackdowns on vanishing students
 
-Universities reported 4,074 new cases of students becoming illegal in 2026 (to October), up from 3,631 in 2025, and 208 universities reported cases among language students <sup>[N33](#n33)</sup>. Universities that fail inspection are put under stricter visa screening, which hits every applicant they admit <sup>[136](#o136)</sup>. A published study found 34,267 of 263,775 international students in breach of their visas at the end of 2024 <sup>[N35](#n35)</sup>.
+Universities reported 4,074 new cases of students becoming illegal in 2026 (to October), up from 3,631 in 2025, and 208 universities reported cases among language students <sup>[N46](#n46)</sup>. Universities that fail inspection are put under stricter visa screening, which hits every applicant they admit <sup>[136](#o136)</sup>. A published study found 34,267 of 263,775 international students in breach of their visas at the end of 2024 <sup>[N48](#n48)</sup>.
 
 <a id="where-to-get-help-2"></a>
 
 ### 8.14 Where to get help
 
-- **Admission or refund disputes:** the Embassy sends these to the university or agency directly; you can also ask the relevant Korean authorities about remedies or consult a qualified lawyer, using the contracts, receipts, emails and messages you kept <sup>[139](#o139)</sup>.
+- **Admission or refund disputes:** the Embassy sends these to the university or agency directly; you can also ask the relevant Korean authorities about remedies or consult a qualified lawyer, using the contracts, receipts, emails and messages you kept <sup>[140](#o140)</sup>.
 - **Brokers and fake documents:** report to the Korean Embassy consular section, +880-2-5881-2088 to 90, consuldhaka@mofa.go.kr <sup>[132 (2023)](#o132)</sup>.
 - **In Korea:** Immigration Contact Center 1345 for status, part-time permits and D-10 questions; Bangladesh Embassy Seoul hotline +82-10-2881-4056 <sup>[105](#o105), [107 (2023)](#o107)</sup>.
 
@@ -2037,7 +2057,7 @@ Inside Korea, you or an agent apply for the change of status at the local immigr
 
 #### 11.1.6 Scams
 
-**Sham-marriage brokers:** In 2011 the Seoul Immigration Office arrested brokers accused of promising homeless Korean men KRW 2-3 million each to marry Vietnamese women; investigators said each woman had paid the brokers USD 18,000-20,000 for a marriage visa so she could work, and 20 of the women questioned had already been deported <sup>[N36 (2011)](#n36)</sup>.
+**Sham-marriage brokers:** In 2011 the Seoul Immigration Office arrested brokers accused of promising homeless Korean men KRW 2-3 million each to marry Vietnamese women; investigators said each woman had paid the brokers USD 18,000-20,000 for a marriage visa so she could work, and 20 of the women questioned had already been deported <sup>[N49 (2011)](#n49)</sup>.
 
 **Tried by the migrant:** A sponsor with a conviction for false marriage registration cannot sponsor again for 5 years <sup>[145](#o145)</sup>. Using forged documents or false statements to get a stay permit, or arranging this for someone, is punishable by up to 3 years in prison or a KRW 30 million fine <sup>[10](#o10)</sup>.
 
@@ -2168,7 +2188,7 @@ When a Korean mission issues a C-3 short-term visit visa (90 days or less), it m
 
 ## 14 Asylum
 
-Korea acceded to the 1951 Refugee Convention and its 1967 Protocol in 1992, and its Refugee Act came into force on 1 July 2013 <sup>[N37 (2024)](#n37)</sup>. A refugee is a foreigner who cannot or will not accept the protection of their own country because of a well-founded fear of persecution for race, religion, nationality, membership of a social group or political opinion <sup>[150 (2016)](#o150)</sup>. Debt is not a ground: in June 2024 the Supreme Court rejected a debt-based claim, ruling that pressure from creditors is not persecution under the Refugee Act <sup>[N38](#n38)</sup>.
+Korea acceded to the 1951 Refugee Convention and its 1967 Protocol in 1992, and its Refugee Act came into force on 1 July 2013 <sup>[N50 (2024)](#n50)</sup>. A refugee is a foreigner who cannot or will not accept the protection of their own country because of a well-founded fear of persecution for race, religion, nationality, membership of a social group or political opinion <sup>[150 (2016)](#o150)</sup>. Debt is not a ground: in June 2024 the Supreme Court rejected a debt-based claim, ruling that pressure from creditors is not persecution under the Refugee Act <sup>[N51](#n51)</sup>.
 
 <a id="how-few-are-recognised"></a>
 
@@ -2188,7 +2208,7 @@ Bangladeshis made 3,526 claims from 1994 to 2022, 394 in 2024 and 468 in January
 1. Apply in writing at the local immigration office, with your passport or residence card and any evidence <sup>[150 (2016)](#o150)</sup>. You get a receipt at once <sup>[150 (2016)](#o150)</sup>.
 2. You are interviewed; MOJ must decide within 6 months, extendable by 6 months <sup>[150 (2016)](#o150)</sup>.
 3. If refused, you can object to MOJ within 30 days through the immigration office; the Refugee Committee reviews it <sup>[150 (2016)](#o150)</sup>.
-4. You can stay in Korea until the decision is final, including any court case <sup>[150 (2016)](#o150)</sup>. The whole process (first decision, objection, courts) averages over 4 years <sup>[N38](#n38)</sup>.
+4. You can stay in Korea until the decision is final, including any court case <sup>[150 (2016)](#o150)</sup>. The whole process (first decision, objection, courts) averages over 4 years <sup>[N51](#n51)</sup>.
 
 Humanitarian stay is for someone who is not a refugee but faces a real risk of torture or inhumane treatment <sup>[150 (2016)](#o150)</sup>. No recognised refugee, humanitarian sojourner or applicant may be forcibly returned <sup>[150 (2016)](#o150)</sup>.
 
@@ -2215,13 +2235,13 @@ Missing three interviews in a row lets MOJ end the case <sup>[150 (2016)](#o150)
 
 ### 14.5 Brokers selling refugee claims
 
-Brokers sell refugee applications as a way to stay long-term and work <sup>[153 (2023)](#o153), [N38](#n38)</sup>. MOJ caught 9 brokers in 2021, 14 in 2022, 24 in 2023 and 24 in 2024 <sup>[N38](#n38)</sup>; a legal-sector source quoted in April 2025 said brokers supply fake documents for KRW 600,000 to 10 million per case <sup>[N38](#n38)</sup>. Cases:
+Brokers sell refugee applications as a way to stay long-term and work <sup>[153 (2023)](#o153), [N51](#n51)</sup>. MOJ caught 9 brokers in 2021, 14 in 2022, 24 in 2023 and 24 in 2024 <sup>[N51](#n51)</sup>; a legal-sector source quoted in April 2025 said brokers supply fake documents for KRW 600,000 to 10 million per case <sup>[N51](#n51)</sup>. Cases:
 - 2023: Incheon Airport Immigration caught two Malaysian brokers who arranged false claims for 184 Malaysians at KRW 800,000 each, as a way to stay and work illegally, and on 21 November 2023 referred them to prosecutors in detention on suspicion of Immigration Act violations and forging documents <sup>[153 (2023)](#o153)</sup>.
-- 2026: immigration officials referred a Korean broker and 10 alleged accomplices to prosecutors, accused of taking about KRW 400 million from 131 Vietnamese on seasonal or short-term visas <sup>[N39](#n39)</sup>; investigators said the broker had them memorise fabricated stories and spread the filings across 21 immigration offices <sup>[N39](#n39)</sup>.
+- 2026: immigration officials referred a Korean broker and 10 alleged accomplices to prosecutors, accused of taking about KRW 400 million from 131 Vietnamese on seasonal or short-term visas <sup>[N52](#n52)</sup>; investigators said the broker had them memorise fabricated stories and spread the filings across 21 immigration offices <sup>[N52](#n52)</sup>.
 
-Brokering false applications is punishable under the Immigration Act by up to 3 years in prison or a KRW 30 million fine <sup>[N38](#n38)</sup>. At end-September 2026, 29,463 first-instance cases and 12,761 objections were waiting <sup>[110](#o110)</sup>.
+Brokering false applications is punishable under the Immigration Act by up to 3 years in prison or a KRW 30 million fine <sup>[N51](#n51)</sup>. At end-September 2026, 29,463 first-instance cases and 12,761 objections were waiting <sup>[110](#o110)</sup>.
 
-**Where to get help:** MOJ Refugee Policy Division, 02-2110-4178 <sup>[151](#o151)</sup>; UNHCR (the UN refugee agency) has an office in Seoul <sup>[N37 (2024)](#n37)</sup>.
+**Where to get help:** MOJ Refugee Policy Division, 02-2110-4178 <sup>[151](#o151)</sup>; UNHCR (the UN refugee agency) has an office in Seoul <sup>[N50 (2024)](#n50)</sup>.
 
 > **Need to know**
 > - Have brokers been caught selling refugee claims to Bangladeshi E-9 workers in Korea?
@@ -2236,7 +2256,7 @@ Korean nationality at birth comes through a parent: a child with at least one Ko
 
 ### 15.1 Korean birth registration for foreign children
 
-Korea has no law for registering the births of foreign children: on 27 August 2026 the Constitutional Court unanimously held this gap unconstitutional <sup>[N40](#n40)</sup>. The case was brought for a child born in April 2019 to Vietnamese parents who had come on E-9 and become undocumented <sup>[N40](#n40)</sup>. The Court said Korea's family registers and foreigner registration do not effectively protect a foreign child's right to be registered <sup>[N40](#n40)</sup>. It held that the state must pass a law letting any child born in Korea be registered under Korean law, whatever the parents' nationality or status of stay, with safeguards so that parents registering a birth are not targeted for Immigration Act enforcement <sup>[N40](#n40)</sup>.
+Korea has no law for registering the births of foreign children: on 27 August 2026 the Constitutional Court unanimously held this gap unconstitutional <sup>[N53](#n53)</sup>. The case was brought for a child born in April 2019 to Vietnamese parents who had come on E-9 and become undocumented <sup>[N53](#n53)</sup>. The Court said Korea's family registers and foreigner registration do not effectively protect a foreign child's right to be registered <sup>[N53](#n53)</sup>. It held that the state must pass a law letting any child born in Korea be registered under Korean law, whatever the parents' nationality or status of stay, with safeguards so that parents registering a birth are not targeted for Immigration Act enforcement <sup>[N53](#n53)</sup>.
 
 > **Need to know**
 > - Has the National Assembly passed a foreign-child birth registration law since the August 2026 ruling, and from when?
@@ -2282,13 +2302,13 @@ The Bangladesh Embassy in Seoul (17 Jangmun-ro 6-gil, Yongsan-gu; hotline +82 10
 
 ### 15.5 If the parents are undocumented
 
-Undocumented parents' children can get status through MOJ's scheme for long-term resident children, open from 1 April 2025 to 31 March 2028 <sup>[158](#o158)</sup>. A child qualifies if born in Korea or arrived before age 6 and has lived in Korea 6+ years (7+ years if they arrived aged 6 or older), and attends a Korean school or has finished high school in Korea <sup>[158](#o158)</sup>. The child gets D-4 until high-school graduation, then a study or work status or G-1; minor siblings get G-1 <sup>[158](#o158)</sup>. The parents must in principle leave, but after paying a fine for their illegal stay they may stay on G-1 to raise the child, and parents who cannot pay may get a further reduction <sup>[158](#o158)</sup>; since 26 February 2026 they may stay until the child turns 24 <sup>[159](#o159)</sup>. Under the earlier scheme announced in April 2021, only about 1,000 of an estimated 10,000-20,000 undocumented migrant children got status in 4 years, and it was criticised for strict conditions and heavy fines <sup>[N41](#n41)</sup>. Enquiries: the local immigration office or 1345 (weekdays 09:00-22:00; after 18:00 only Korean, English and Chinese) <sup>[158](#o158)</sup>.
+Undocumented parents' children can get status through MOJ's scheme for long-term resident children, open from 1 April 2025 to 31 March 2028 <sup>[158](#o158)</sup>. A child qualifies if born in Korea or arrived before age 6 and has lived in Korea 6+ years (7+ years if they arrived aged 6 or older), and attends a Korean school or has finished high school in Korea <sup>[158](#o158)</sup>. The child gets D-4 until high-school graduation, then a study or work status or G-1; minor siblings get G-1 <sup>[158](#o158)</sup>. The parents must in principle leave, but after paying a fine for their illegal stay they may stay on G-1 to raise the child, and parents who cannot pay may get a further reduction <sup>[158](#o158)</sup>; since 26 February 2026 they may stay until the child turns 24 <sup>[159](#o159)</sup>. Under the earlier scheme announced in April 2021, only about 1,000 of an estimated 10,000-20,000 undocumented migrant children got status in 4 years, and it was criticised for strict conditions and heavy fines <sup>[N54](#n54)</sup>. Enquiries: the local immigration office or 1345 (weekdays 09:00-22:00; after 18:00 only Korean, English and Chinese) <sup>[158](#o158)</sup>.
 
 <a id="sending-money-home"></a>
 
 ## 16 Sending money home
 
-Bangladesh asks workers to send money only through legal channels, never through hundi (informal transfer through unlicensed agents) <sup>[47](#o47)</sup>. Money sent through legal channels earns the receiver a 2.5% government cash incentive, sometimes with a further 2.5% from the bank, and the 2026-27 budget keeps the government incentive <sup>[N42](#n42), [160](#o160)</sup>.
+Bangladesh asks workers to send money only through legal channels, never through hundi (informal transfer through unlicensed agents) <sup>[47](#o47)</sup>. Money sent through legal channels earns the receiver a 2.5% government cash incentive, sometimes with a further 2.5% from the bank, and the 2026-27 budget keeps the government incentive <sup>[N55](#n55), [160](#o160)</sup>.
 
 <a id="the-legal-channels-from-korea"></a>
 
@@ -2297,27 +2317,27 @@ Bangladesh asks workers to send money only through legal channels, never through
 In Korea a foreigner sends money abroad either through a foreign exchange bank he has designated for remittances or through a registered small-sum overseas remittance company (소액해외송금업자) <sup>[73](#o73), [161](#o161)</sup>.
 
 - **Banks:** through his designated foreign exchange bank a foreigner can send up to USD 50,000 a year with no supporting documents; above that he must prove where the money came from, for example with a payslip or income statement <sup>[73](#o73)</sup>. Any single transfer over USD 10,000 is reported to the National Tax Service and the Korea Customs Service <sup>[73](#o73)</sup>.
-- **Small-sum remittance companies:** each registered company may send up to USD 5,000 per transfer and USD 50,000 a year <sup>[161](#o161)</sup>. The four Korean companies that bKash lists as its partners are all on the Financial Supervisory Service (FSS) register <sup>[N42](#n42)</sup>:
+- **Small-sum remittance companies:** each registered company may send up to USD 5,000 per transfer and USD 50,000 a year <sup>[161](#o161)</sup>. The four Korean companies that bKash lists as its partners are all on the Financial Supervisory Service (FSS) register <sup>[N55](#n55)</sup>:
   - E9pay (이나인페이), registration 2017-1, 02-877-7200 <sup>[162](#o162)</sup>.
   - GME, registered as Global Money Express (글로벌머니익스프레스), registration 2017-2, 1588-6864 <sup>[162](#o162)</sup>.
   - Gmoney Trans (지머니트랜스), registration 2017-6, 1670-4565 <sup>[163](#o163)</sup>.
-  - Hanpass (한패스), registration 2017-11, 1522-0767; Hanpass says sign-up needs only a passport or Alien Registration Card (ARC) <sup>[163](#o163), [N43](#n43)</sup>.
-- **Global operators:** Western Union and MoneyGram also send from Korea to bKash <sup>[N42](#n42)</sup>.
+  - Hanpass (한패스), registration 2017-11, 1522-0767; Hanpass says sign-up needs only a passport or Alien Registration Card (ARC) <sup>[163](#o163), [N56](#n56)</sup>.
+- **Global operators:** Western Union and MoneyGram also send from Korea to bKash <sup>[N55](#n55)</sup>.
 
 You'll need:
-- To send to a bKash wallet: the receiver's bKash number and full name exactly as given when the account was opened <sup>[N42](#n42)</sup>.
+- To send to a bKash wallet: the receiver's bKash number and full name exactly as given when the account was opened <sup>[N55](#n55)</sup>.
 - To send to a bank account: your own or a relative's account in Bangladesh; banks and exchange houses with a "drawing arrangement" with a Bangladeshi bank pay straight into it <sup>[164](#o164)</sup>.
 
 1. <a id="the-legal-channels-from-korea-item-1"></a>**Check the company is registered.** Open the FSS consumer portal FINE (fine.fss.or.kr), go to 소액해외송금업자 > 등록현황 조회(독립형), and look for the company's name, registration number and phone; the list showed 33 entries in November 2026 <sup>[165](#o165), [161](#o161)</sup>. A company marked 폐지 (closed) is no longer registered, even though it stays on the list <sup>[161](#o161)</sup>.
-2. <a id="the-legal-channels-from-korea-item-2"></a>**Send.** For bKash, give the partner the receiver's bKash number and registered name; up to Tk 2.5 lakh per transfer, as often as you like <sup>[N42](#n42)</sup>. Banks in Bangladesh credit remittances within 3 days at most <sup>[164](#o164)</sup>.
-3. <a id="the-legal-channels-from-korea-item-3"></a>**The family collects.** bKash money can be cashed out at BRAC Bank, City Bank and Q-Cash ATMs for Tk 7 per thousand <sup>[N42](#n42)</sup>.
+2. <a id="the-legal-channels-from-korea-item-2"></a>**Send.** For bKash, give the partner the receiver's bKash number and registered name; up to Tk 2.5 lakh per transfer, as often as you like <sup>[N55](#n55)</sup>. Banks in Bangladesh credit remittances within 3 days at most <sup>[164](#o164)</sup>.
+3. <a id="the-legal-channels-from-korea-item-3"></a>**The family collects.** bKash money can be cashed out at BRAC Bank, City Bank and Q-Cash ATMs for Tk 7 per thousand <sup>[N55](#n55)</sup>.
 
 > **Need to know**
-> - Which Korean companies send to a Nagad wallet? Nagad names only Western Union among its overseas partners <sup>[N44](#n44)</sup>.
+> - Which Korean companies send to a Nagad wallet? Nagad names only Western Union among its overseas partners <sup>[N57](#n57)</sup>.
 > - What do E9pay, GME, Gmoney Trans and Hanpass charge, and what exchange-rate margin do they take, for sending 1 million won to bKash in 2026?
-> - Does money used to buy Wage Earner Development Bonds, freelancing income, gifts, trade payments or donations get the 2.5% incentive, when a bank's 2025 guide says not <sup>[N45](#n45)</sup>?
+> - Does money used to buy Wage Earner Development Bonds, freelancing income, gifts, trade payments or donations get the 2.5% incentive, when a bank's 2025 guide says not <sup>[N58](#n58)</sup>?
 
-**If something goes wrong:** bKash helpline 16247, or +88-02-55663001 from abroad <sup>[N42](#n42)</sup>.
+**If something goes wrong:** bKash helpline 16247, or +88-02-55663001 from abroad <sup>[N55](#n55)</sup>.
 
 <a id="hwanchigi-hundi-in-korea"></a>
 
@@ -2396,7 +2416,7 @@ You'll need <sup>[170 (2024)](#o170)</sup>:
 
 ## 17 Going home without valid papers
 
-A foreign worker who stays after his permitted stay ends may be forcibly removed from Korea and faces up to 3 years' imprisonment or a fine of up to 30 million won <sup>[16](#o16)</sup>. Enforcement runs all year, with regional crackdown teams at 8 immigration offices (Suwon, Busan, Gwangju, Daejeon, Daegu, Yangju, Incheon and Ulsan) and regular joint crackdowns by 5 ministries <sup>[173](#o173)</sup>. Almost 140,000 foreigners were deported, fined or given a departure order in 2024, up from 98,000 in 2022 <sup>[N29](#n29)</sup>. In a 2026 crackdown on undocumented foreign delivery riders, 541 of the 628 caught were fined and 55 removed from Korea <sup>[174](#o174)</sup>. A Bangladeshi undocumented worker in Hwaseong told The Korea Herald in 2026 that raids come every one to two months, now also at subway stations and markets, and that people caught are taken to immigration offices to wait for deportation; a friend broke his arm falling from a second floor while running from officers <sup>[N29](#n29)</sup>.
+A foreign worker who stays after his permitted stay ends may be forcibly removed from Korea and faces up to 3 years' imprisonment or a fine of up to 30 million won <sup>[16](#o16)</sup>. Enforcement runs all year, with regional crackdown teams at 8 immigration offices (Suwon, Busan, Gwangju, Daejeon, Daegu, Yangju, Incheon and Ulsan) and regular joint crackdowns by 5 ministries <sup>[173](#o173)</sup>. Almost 140,000 foreigners were deported, fined or given a departure order in 2024, up from 98,000 in 2022 <sup>[N40](#n40)</sup>. In a 2026 crackdown on undocumented foreign delivery riders, 541 of the 628 caught were fined and 55 removed from Korea <sup>[174](#o174)</sup>. A Bangladeshi undocumented worker in Hwaseong told The Korea Herald in 2026 that raids come every one to two months, now also at subway stations and markets, and that people caught are taken to immigration offices to wait for deportation; a friend broke his arm falling from a second floor while running from officers <sup>[N40](#n40)</sup>.
 
 Since November 2025, government officials are exempt from their duty to report undocumented status when the person is a foreign worker owed unpaid wages, so a worker can report unpaid wages without being handed to immigration (see [If you aren't paid](#if-you-arent-paid)) <sup>[174](#o174)</sup>.
 
@@ -2481,7 +2501,7 @@ A close relative in Bangladesh can ask the Ministry of Expatriates' Welfare to h
 
 ## 18 If a worker dies, is injured or loses the job
 
-WEWB pays grants and helps with the migrant insurance for workers who left with BMET clearance or joined the Board <sup>[65](#o65), [66 (2024)](#o66)</sup>. In 2023-24 WEWB paid out Tk 127.6 crore (1 crore is Tk 10 million) in death compensation, unpaid wages, insurance and service benefits that the labour wings recovered from employers abroad, for 1,852 cases <sup>[183 (2024)](#o183)</sup>. From all countries, 4,745 bodies came home in 2023-24, a record 5,038 in 2025, and 4,060 from January to September 2026 <sup>[183 (2024)](#o183), [N46](#n46), [N47](#n47)</sup>. From January to September 2026, 66% came with "natural death" as the cause, and accidents (road, work, fire, falls, electric shock) caused more than 16% <sup>[N47](#n47)</sup>. In Korea, foreign workers are about 3.5% of the workforce but over 10% of deaths at work <sup>[N48](#n48)</sup>.
+WEWB pays grants and helps with the migrant insurance for workers who left with BMET clearance or joined the Board <sup>[65](#o65), [66 (2024)](#o66)</sup>. In 2023-24 WEWB paid out Tk 127.6 crore (1 crore is Tk 10 million) in death compensation, unpaid wages, insurance and service benefits that the labour wings recovered from employers abroad, for 1,852 cases <sup>[183 (2024)](#o183)</sup>. From all countries, 4,745 bodies came home in 2023-24, a record 5,038 in 2025, and 4,060 from January to September 2026 <sup>[183 (2024)](#o183), [N59](#n59), [N60](#n60)</sup>. From January to September 2026, 66% came with "natural death" as the cause, and accidents (road, work, fire, falls, electric shock) caused more than 16% <sup>[N60](#n60)</sup>. In Korea, foreign workers are about 3.5% of the workforce but over 10% of deaths at work <sup>[N61](#n61)</sup>.
 
 > **Need to know**
 > - How many Bangladeshi workers died in Korea each year from 2023 to 2026, and of what causes?
@@ -2498,7 +2518,7 @@ In Korea, every EPS worker also holds return cost and casualty insurance of his 
 
 ### 18.2 If you are injured or fall ill
 
-1. <a id="if-you-are-injured-or-fall-ill-item-1"></a>**Industrial accident compensation in Korea.** Once KCOMWEL (the Korea Workers' Compensation and Welfare Service) accepts the injury as work-related, it pays medical care, 70% of your average daily wage while you cannot work, and disability benefit by grade <sup>[101](#o101)</sup>. It covers all workers, undocumented ones included <sup>[N48](#n48)</sup>. How to claim is under If you are injured at work <sup>[101](#o101)</sup>.
+1. <a id="if-you-are-injured-or-fall-ill-item-1"></a>**Industrial accident compensation in Korea.** Once KCOMWEL (the Korea Workers' Compensation and Welfare Service) accepts the injury as work-related, it pays medical care, 70% of your average daily wage while you cannot work, and disability benefit by grade <sup>[101](#o101)</sup>. It covers all workers, undocumented ones included <sup>[N61](#n61)</sup>. How to claim is under If you are injured at work <sup>[101](#o101)</sup>.
 2. <a id="if-you-are-injured-or-fall-ill-item-2"></a>**An injury or illness not caused by work.** Claim the Casualty Insurance: claim form, your own bankbook copy, passport or ARC copy, and the scheduled-departure confirmation or the employer's employment-change notice, sent to Samsung Fire & Marine <sup>[49](#o49)</sup>.
 3. <a id="if-you-are-injured-or-fall-ill-item-3"></a>**Going home sick or injured.** On the worker's or family's application, with proof of clearance or membership and a passport copy, WEWB asks the Embassy to bring the worker home <sup>[184](#o184)</sup>. A free ambulance from Dhaka and Chattogram airports takes injured or sick returnees on request <sup>[185](#o185)</sup>.
 4. <a id="if-you-are-injured-or-fall-ill-item-4"></a>**Treatment aid in Bangladesh.** Returnees with clearance or membership can get up to Tk 2 lakh for treatment; apply within 1 year of return with medical reports, a bank statement, a copy of the arrival stamp and the passport <sup>[186](#o186)</sup>.
@@ -2509,12 +2529,12 @@ In Korea, every EPS worker also holds return cost and casualty insurance of his 
 
 ### 18.3 If a worker dies
 
-1. <a id="if-a-worker-dies-item-1"></a>**The cost of bringing the body home.** WEWB says a body is usually brought home at the employer's cost; if no employer is found, it refuses, or the community cannot help, the Board pays from money it gives the labour wings each year <sup>[183 (2024)](#o183)</sup>. Korea's industrial accident insurance does not cover repatriation, and KCOMWEL's head said families of migrant workers killed at work often leave the remains in Korea because they cannot afford to bring them home <sup>[N48](#n48)</sup>. KCOMWEL is piloting funeral support and wants to add families' air fares, cremation and transport of remains <sup>[N48](#n48)</sup>.
+1. <a id="if-a-worker-dies-item-1"></a>**The cost of bringing the body home.** WEWB says a body is usually brought home at the employer's cost; if no employer is found, it refuses, or the community cannot help, the Board pays from money it gives the labour wings each year <sup>[183 (2024)](#o183)</sup>. Korea's industrial accident insurance does not cover repatriation, and KCOMWEL's head said families of migrant workers killed at work often leave the remains in Korea because they cannot afford to bring them home <sup>[N61](#n61)</sup>. KCOMWEL is piloting funeral support and wants to add families' air fares, cremation and transport of remains <sup>[N61](#n61)</sup>.
 
    > **Need to know**
    > - What does it cost to send a body from Korea to Dhaka (embalming, coffin, air freight), and does the employer or the Embassy usually pay for EPS workers?
 2. <a id="if-a-worker-dies-item-2"></a>**Register the death at the Embassy.** The Embassy needs the deceased's passport, 2 passport-size photos, the death or medical certificate from the Korean health authority, and its Death Registration form <sup>[187 (2021)](#o187)</sup>. Labour wing: +82-2-796-9010 ext. 300, mobile +8210-9188-4056, labourwingseoul@gmail.com <sup>[13](#o13)</sup>.
-3. <a id="if-a-worker-dies-item-3"></a>**The family in Bangladesh applies to WEWB,** which takes the family's choice (body home or burial in Korea) to the Embassy and follows the case until the body arrives, free <sup>[188](#o188), [189](#o189)</sup>. The Ministry also brings home the bodies of irregular, undocumented and destitute workers: the next of kin applies with what happened, the cause of death, proof of status and the death certificate; free, 7 working days <sup>[84](#o84)</sup>. BRAC's Migration Programme (BRAC is the organisation behind this guide) said in October 2026 that an irregular worker's body takes a long time to come home <sup>[N47](#n47)</sup>. Probash-Bondhu (WEWB's call centre): 16135, +8809610102030 from abroad <sup>[11](#o11)</sup>.
+3. <a id="if-a-worker-dies-item-3"></a>**The family in Bangladesh applies to WEWB,** which takes the family's choice (body home or burial in Korea) to the Embassy and follows the case until the body arrives, free <sup>[188](#o188), [189](#o189)</sup>. The Ministry also brings home the bodies of irregular, undocumented and destitute workers: the next of kin applies with what happened, the cause of death, proof of status and the death certificate; free, 7 working days <sup>[84](#o84)</sup>. BRAC's Migration Programme (BRAC is the organisation behind this guide) said in October 2026 that an irregular worker's body takes a long time to come home <sup>[N60](#n60)</sup>. Probash-Bondhu (WEWB's call centre): 16135, +8809610102030 from abroad <sup>[11](#o11)</sup>.
 4. <a id="if-a-worker-dies-item-4"></a>**At the airport: Tk 35,000.** For every body that arrives, the airport welfare desk gives the family a Tk 35,000 cheque for transport and burial <sup>[190](#o190)</sup>. You'll need <sup>[191](#o191), [48](#o48)</sup>:
    - The deceased's passport copy.
    - A heirship certificate from the local chairman or commissioner.
@@ -2528,7 +2548,7 @@ In Korea, every EPS worker also holds return cost and casualty insurance of his 
 8. <a id="if-a-worker-dies-item-8"></a>**The JBC insurance: Tk 10 lakh** for natural or accidental death; WEWB checks the claim and recommends it to JBC, and helps the family claim on 16135 <sup>[66 (2024)](#o66), [193](#o193)</sup>.
 
    > **Need to know**
-   > - Must the family apply for the JBC death payment, or does it reach the worker's bank account without an application, as a 2024 news report says <sup>[N49 (2024)](#n49)</sup>?
+   > - Must the family apply for the JBC death payment, or does it reach the worker's bank account without an application, as a 2024 news report says <sup>[N62 (2024)](#n62)</sup>?
 
 <a id="if-you-lose-the-job"></a>
 
@@ -2561,7 +2581,7 @@ In Korea, every EPS worker also holds return cost and casualty insurance of his 
 6. <a id="before-you-leave-korea-item-6"></a>**Collect your final wages.** All wages and money owed must be paid within 14 days of leaving, unless you both agree in writing to a later date; if the employer holds them back, file a petition before your flight (see [If you aren't paid](#if-you-arent-paid)) <sup>[87](#o87), [71](#o71), [70](#o70)</sup>.
 7. <a id="before-you-leave-korea-item-7"></a>**Empty and close your bank account.** Selling or lending it is a crime (see [Never sell or lend your bank account or SIM](#never-sell-or-lend-your-bank-account-or-sim)) <sup>[166 (2020)](#o166)</sup>.
 
-Workers who forget to collect this money lose a lot: in 2022 the EPS Center in Dhaka of HRD Korea (the Korean agency that runs EPS policy, tests and the job roster) looked for over 300 returnees who had left Tk 30,000 to Tk 3 lakh each in insurance behind, and in 2024, with BOESL, for about 400 returnees <sup>[195](#o195), [N50 (2022)](#n50), [N51 (2024)](#n51)</sup>. The lists were posted on the EPS Center's Facebook page, and a dead worker's wife or children (or parents, if unmarried) could apply with proof <sup>[N50 (2022)](#n50), [N52 (2022)](#n52)</sup>. Unclaimed Departure Guarantee and Return Cost money expires 3 years after it falls due and is then moved to HRD Korea within 1 month <sup>[71](#o71)</sup>.
+Workers who forget to collect this money lose a lot: in 2022 the EPS Center in Dhaka of HRD Korea (the Korean agency that runs EPS policy, tests and the job roster) looked for over 300 returnees who had left Tk 30,000 to Tk 3 lakh each in insurance behind, and in 2024, with BOESL, for about 400 returnees <sup>[195](#o195), [N63 (2022)](#n63), [N64 (2024)](#n64)</sup>. The lists were posted on the EPS Center's Facebook page, and a dead worker's wife or children (or parents, if unmarried) could apply with proof <sup>[N63 (2022)](#n63), [N65 (2022)](#n65)</sup>. Unclaimed Departure Guarantee and Return Cost money expires 3 years after it falls due and is then moved to HRD Korea within 1 month <sup>[71](#o71)</sup>.
 
 > **Need to know**
 > - How does a returnee in Bangladesh claim Departure Guarantee or Return Cost money he left behind in Korea, and does the EPS Center in Dhaka still help?
@@ -2599,11 +2619,11 @@ Bangladesh's Non-tourist Passenger Baggage Rules 2025 (SRO 261, gazetted 3 June 
 
 ### 19.4 Support after return
 
-1. <a id="support-after-return-item-1"></a>**Korean-company jobs and the returnee community.** In 2019, 73 Bangladeshi EPS workers in Korea filled in job application forms from HRD Korea for Korean companies in Bangladesh, at an Embassy seminar <sup>[N53 (2019)](#n53)</sup>. With the Korean Embassy, returnees from Korea have formed a community with eight local groups, including Dhaka, meeting at least once a year to share experience and help each other settle, for example by starting businesses <sup>[N51 (2024)](#n51)</sup>.
+1. <a id="support-after-return-item-1"></a>**Korean-company jobs and the returnee community.** In 2019, 73 Bangladeshi EPS workers in Korea filled in job application forms from HRD Korea for Korean companies in Bangladesh, at an Embassy seminar <sup>[N66 (2019)](#n66)</sup>. With the Korean Embassy, returnees from Korea have formed a community with eight local groups, including Dhaka, meeting at least once a year to share experience and help each other settle, for example by starting businesses <sup>[N64 (2024)](#n64)</sup>.
 
    > **Need to know**
    > - Does HRD Korea still run a job-matching service or job fair in Dhaka for returnees with Korean companies in Bangladesh, and how does a returnee register?
-2. <a id="support-after-return-item-2"></a>**PKB (Probashi Kallyan Bank) rehabilitation loan.** Returnees starting a project can borrow up to Tk 50 lakh: up to Tk 3 lakh without collateral; up to 10 years at 9% simple interest; decided within 15 working days <sup>[201](#o201)</sup>. Fees: 0.50% processing and 0.50% documentation, each at most Tk 15,000 <sup>[201](#o201)</sup>. Apply at the branch for the project's area with 3 photos, your passport, NID, an address certificate from the municipality or union parishad, an updated trade licence (compulsory), the project details, copies of your return papers, 3 signed cheques and a solvent guarantor with a clean credit (CIB) report <sup>[201](#o201)</sup>. By 2021 only about 2% of pandemic returnees had got PKB's special reintegration loan <sup>[N54 (2021)](#n54)</sup>.
+2. <a id="support-after-return-item-2"></a>**PKB (Probashi Kallyan Bank) rehabilitation loan.** Returnees starting a project can borrow up to Tk 50 lakh: up to Tk 3 lakh without collateral; up to 10 years at 9% simple interest; decided within 15 working days <sup>[201](#o201)</sup>. Fees: 0.50% processing and 0.50% documentation, each at most Tk 15,000 <sup>[201](#o201)</sup>. Apply at the branch for the project's area with 3 photos, your passport, NID, an address certificate from the municipality or union parishad, an updated trade licence (compulsory), the project details, copies of your return papers, 3 signed cheques and a solvent guarantor with a clean credit (CIB) report <sup>[201](#o201)</sup>. By 2021 only about 2% of pandemic returnees had got PKB's special reintegration loan <sup>[N67 (2021)](#n67)</sup>.
 3. <a id="support-after-return-item-3"></a>**BRAC Migration Programme.** BRAC, a development organisation founded in Bangladesh in 1972 and the organisation behind this guide, runs a Migration Programme that gives returnees airport help, counselling, help to start earning, and legal assistance <sup>[202](#o202), [203](#o203)</sup>.
 4. <a id="support-after-return-item-4"></a>**Children's scholarships.** WEWB pays scholarships to migrants' high-achieving children (Tk 27,500 a year at SSC (Secondary School Certificate) level, Tk 34,000 at HSC (Higher Secondary Certificate) level) <sup>[183 (2024)](#o183)</sup>.
 5. <a id="support-after-return-item-5"></a>**If your family is threatened** or its property seized, apply to WEWB directly or through the Deputy Commissioner's office or the DEMO (district employment and manpower office); WEWB writes to the local administration <sup>[204](#o204), [183 (2024)](#o183)</sup>.
@@ -2631,7 +2651,7 @@ Bangladesh's Non-tourist Passenger Baggage Rules 2025 (SRO 261, gazetted 3 June 
 ### 20.2 Korea's offices in Bangladesh
 
 - **Embassy of the Republic of Korea:** 4 Madani Avenue, Baridhara, Dhaka-1212; (+8802) 5881-2088~90; Sunday-Thursday 9:00-12:30 and 13:30-17:00 <sup>[130 (2022)](#o130)</sup>.
-- **HRD Korea EPS Center (Dhaka):** works from the Korean Embassy; it represents the Korean government in the EPS process in Bangladesh, running the lottery and tests and overseeing BOESL's EPS work <sup>[N51 (2024)](#n51), [195](#o195)</sup>. It posts notices on its Facebook page <sup>[N50 (2022)](#n50)</sup>.
+- **HRD Korea EPS Center (Dhaka):** works from the Korean Embassy; it represents the Korean government in the EPS process in Bangladesh, running the lottery and tests and overseeing BOESL's EPS work <sup>[N64 (2024)](#n64), [195](#o195)</sup>. It posts notices on its Facebook page <sup>[N63 (2022)](#n63)</sup>.
 
 > **Need to know**
 > - What are the EPS Center Dhaka's own phone, email and visiting hours?
@@ -2648,7 +2668,7 @@ Bangladesh's Non-tourist Passenger Baggage Rules 2025 (SRO 261, gazetted 3 June 
 - **PKB (Probashi Kallyan Bank):** helpline 16238, from abroad +880 9677-787878 <sup>[67](#o67)</sup>; loans department 01716-175560, migration@pkb.gov.bd <sup>[69](#o69)</sup>.
 - **JBC (migrant insurance):** Group Insurance Division, 24 Motijheel C/A, Dhaka-1000; 02-223381423; gid@jbc.gov.bd <sup>[66 (2024)](#o66)</sup>.
 - **National Pension Authority:** 16131, +88 09610 900800, support@upension.gov.bd <sup>[169](#o169)</sup>.
-- **bKash:** 16247, or +88-02-55663001 from abroad <sup>[N42](#n42)</sup>.
+- **bKash:** 16247, or +88-02-55663001 from abroad <sup>[N55](#n55)</sup>.
 
 <a id="references"></a>
 
@@ -2794,13 +2814,13 @@ Bangladesh's Non-tourist Passenger Baggage Rules 2025 (SRO 261, gazetted 3 June 
 134. <a id="o134"></a>VFS Global, Korea Visa Application Center Dhaka (Embassy's official partner), Sep 2026. [Checklist: Short-term Business Visa (C-3-4)](https://www.visaforkorea-bd.com/assets/pdfs/short-term/Short-term%20Business%20Visa(C-3-4).pdf). Accessed 19 Nov 2026.
 135. <a id="o135"></a>National Institute for International Education (Study in Korea). [Student Visa and Stay Status](https://www.studyinkorea.go.kr/en/plan/visaAndStay.do). Accessed 19 Nov 2026. Undated: possibly outdated.
 136. <a id="o136"></a>National Institute for International Education (Study in Korea). [Accredited Universities (IEQAS)](https://www.studyinkorea.go.kr/en/plan/certifiedUniversity.do). Accessed 19 Nov 2026. Undated: possibly outdated.
-137. <a id="o137"></a>National Institute for International Education (Study in Korea). [Study Expenses in Korea](https://www.studyinkorea.go.kr/en/plan/abroadExpenses.do). Accessed 19 Nov 2026. Undated: possibly outdated.
-138. <a id="o138"></a>Embassy of the Republic of Korea in Bangladesh, 7 Feb 2021. [Documents for Student Visa (D-2, D-4) Application](https://www.mofa.go.kr/bd-en/brd/m_23302/view.do?seq=2). Accessed 19 Nov 2026. Possibly outdated.
-139. <a id="o139"></a>Embassy of the Republic of Korea in Bangladesh, 24 Jul 2026. [Guidance for Bangladeshi students preparing to study in Korea (Shin Gyeongju University)](https://www.mofa.go.kr/bd-en/brd/m_2124/view.do?seq=760100). Accessed 19 Nov 2026.
-140. <a id="o140"></a>VFS Global, Korea Visa Application Center Dhaka (Embassy's official partner), Sep 2026. [Checklist: Student Visa (D-2, D-4)](https://www.visaforkorea-bd.com/assets/pdfs/long-term/Student%20Visa%20(D-2,%20D-4).pdf). Accessed 19 Nov 2026.
-141. <a id="o141"></a>Embassy of the Republic of Korea in Bangladesh, 3 Nov 2026. [Documents for Visa Applicants in Possession of a Visa Issuance Confirmation (VIC)](https://www.mofa.go.kr/bd-en/brd/m_23302/view.do?seq=17). Accessed 19 Nov 2026.
-142. <a id="o142"></a>Embassy of the Republic of Korea in Bangladesh, 4 Jan 2026. [Notice [Student Visa Application Submission Deadline]](https://www.mofa.go.kr/bd-en/brd/m_23305/view.do?seq=31). Accessed 19 Nov 2026.
-143. <a id="o143"></a>National Institute for International Education (Study in Korea). [Residence Eligibility and Stay Duration (part-time work, D-10)](https://www.studyinkorea.go.kr/en/life/residenceAndStayInfo.do). Accessed 19 Nov 2026. Undated: possibly outdated.
+137. <a id="o137"></a>National Institute for International Education (Study in Korea). [Residence Eligibility and Stay Duration (part-time work, D-10)](https://www.studyinkorea.go.kr/en/life/residenceAndStayInfo.do). Accessed 19 Nov 2026. Undated: possibly outdated.
+138. <a id="o138"></a>National Institute for International Education (Study in Korea). [Study Expenses in Korea](https://www.studyinkorea.go.kr/en/plan/abroadExpenses.do). Accessed 19 Nov 2026. Undated: possibly outdated.
+139. <a id="o139"></a>Embassy of the Republic of Korea in Bangladesh, 7 Feb 2021. [Documents for Student Visa (D-2, D-4) Application](https://www.mofa.go.kr/bd-en/brd/m_23302/view.do?seq=2). Accessed 19 Nov 2026. Possibly outdated.
+140. <a id="o140"></a>Embassy of the Republic of Korea in Bangladesh, 24 Jul 2026. [Guidance for Bangladeshi students preparing to study in Korea (Shin Gyeongju University)](https://www.mofa.go.kr/bd-en/brd/m_2124/view.do?seq=760100). Accessed 19 Nov 2026.
+141. <a id="o141"></a>VFS Global, Korea Visa Application Center Dhaka (Embassy's official partner), Sep 2026. [Checklist: Student Visa (D-2, D-4)](https://www.visaforkorea-bd.com/assets/pdfs/long-term/Student%20Visa%20(D-2,%20D-4).pdf). Accessed 19 Nov 2026.
+142. <a id="o142"></a>Embassy of the Republic of Korea in Bangladesh, 3 Nov 2026. [Documents for Visa Applicants in Possession of a Visa Issuance Confirmation (VIC)](https://www.mofa.go.kr/bd-en/brd/m_23302/view.do?seq=17). Accessed 19 Nov 2026.
+143. <a id="o143"></a>Embassy of the Republic of Korea in Bangladesh, 4 Jan 2026. [Notice [Student Visa Application Submission Deadline]](https://www.mofa.go.kr/bd-en/brd/m_23305/view.do?seq=31). Accessed 19 Nov 2026.
 144. <a id="o144"></a>VFS Global, Korea Visa Application Center Dhaka (Embassy's official partner), Sep 2026. [Checklist: Medical Tourist Visa (C-3-3)](https://www.visaforkorea-bd.com/assets/pdfs/short-term/Medical%20Tourist%20Visa(C-3-3).pdf). Accessed 19 Nov 2026.
 145. <a id="o145"></a>Ministry of Government Legislation (Easy Law), 15 Oct 2026. [Marriage migrants: residence status by marriage](https://www.easylaw.go.kr/CSP/CnpClsMain.laf?csmSeq=47&ccfNo=2&cciNo=1&cnpClsNo=1). Accessed 19 Nov 2026.
 146. <a id="o146"></a>Ministry of Government Legislation (Easy Law), 15 Oct 2026. [Marriage migrants: marriage registration between a Korean and a foreigner](https://www.easylaw.go.kr/CSP/CnpClsMain.laf?csmSeq=47&ccfNo=1&cciNo=2&cnpClsNo=1). Accessed 19 Nov 2026.
@@ -2878,49 +2898,62 @@ These facts come only from news or third-party sources. Each needs an official s
 - <a id="n6"></a>N6. Asia Post, 30 Jul 2026. [Farm jobs in South Korea open to people of 2 districts (Bangla)](https://www.asia-post.com/probash/apuc3fdmlcw9-%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A3-%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF-%E0%A6%96%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%8B%E0%A6%97-%E0%A6%B8%E0%A7%81%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%AA%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A7%A8-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95). Accessed 19 Nov 2026.
 - <a id="n7"></a>N7. The Financial Express, 30 Jan 2024. [24 skilled workers fly to South Korea with E-7 category jobs today](https://thefinancialexpress.com.bd/home/24-skilled-workers-fly-to-south-korea-with-e-7-category-jobs-today). Accessed 19 Nov 2026. Possibly outdated.
 - <a id="n8"></a>N8. Korea JoongAng Daily, 15 Jul 2026. [Over 200 foreign workers at HD HHI unionize after new contract reduces base pay](https://www.koreajoongangdaily.com/business/over-200-foreign-workers-at-hd-hhi-unionize-after-new-contract-reduces-base-pay/12774930). Accessed 19 Nov 2026.
-- <a id="n9"></a>N9. Dhaka Stream, 12 Apr 2026. [Bangladesh losing the South Korean labour market through its own faults (Bangla)](https://banglastream.net/economy/bs2xxlozafjv). Accessed 19 Nov 2026.
-- <a id="n10"></a>N10. The Financial Express, 5 Mar 2024. [S Korea announces highest-ever job quota for Bangladeshi workers](https://thefinancialexpress.com.bd/home/s-korea-announces-highest-ever-job-quota-for-bangladeshi-workers). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n11"></a>N11. BSS, 4 Nov 2022. [BOESL going to set record by sending 4941 workers to S Korea by this year](https://www.bssnews.net/news/91947). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n12"></a>N12. Chosun Biz, 3 Sep 2025. [Proxy exam companies exploit foreign workers' language barriers in Korea](https://biz.chosun.com/en/en-industry/2025/09/03/E2A6LWPZB5AWFD2H2KDAYSCPVQ/). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n13"></a>N13. Amar Desh, 14 May 2026. [Korea visa hopefuls besiege the expatriates' welfare ministry](https://www.dailyamardesh.com/capital/amdgus1jr2x1y). Accessed 19 Nov 2026.
-- <a id="n14"></a>N14. Prothom Alo, 30 Jul 2025. [Admission to Korean language course, fee Tk 1,000 (Bangla)](https://www.prothomalo.com/education/admission/nhya8rqm9u). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n15"></a>N15. KBS World, 11 Mar 2026. [7 in 10 E-9 visa holders earn less than 3 million won per month](https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=199990). Accessed 19 Nov 2026.
-- <a id="n16"></a>N16. Amnesty International, Oct 2014. [Bitter harvest: Exploitation and forced labour of migrant agricultural workers in South Korea (ASA 25/004/2014)](https://www.amnestyusa.org/wp-content/uploads/2017/04/asa_250042014.pdf). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n17"></a>N17. Business and Human Rights Centre, Sep 2025. [S. Korea: Migrant workers, incl. from Bangladesh, Vietnam and Nepal, injured & abused, unable to change jobs & access remedy under visa scheme](https://www.business-humanrights.org/en/latest-news/s-korea-s-korea-migrant-workers-incl-from-bangladesh-vietnam-and-nepal-injured-abused-unable-to-change-jobs-access-remedy-under-visa-scheme/). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n18"></a>N18. UN OHCHR (UN Information Service, Geneva), 30 Apr 2025. [CERD experts raise questions on high rates of migrant worker deaths in the Republic of Korea (meeting summary)](https://www.ohchr.org/en/meeting-summaries/2025/04/examen-de-la-republique-de-coree-au-cerd-la-situation-des-travailleurs). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n19"></a>N19. The Chosun Daily, 19 Sep 2025. [Court orders state to compensate migrant worker's family](https://www.chosun.com/english/national-en/2025/09/19/Q52SC26YPJG3PH2LOFCJZ5OMWU/). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n20"></a>N20. East Asia Forum, 31 Oct 2025. [South Korea's migrant workers trapped in a legal cage](https://eastasiaforum.org/2025/10/31/south-koreas-migrant-workers-trapped-in-a-legal-cage/). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n21"></a>N21. BSS, 15 Aug 2026. [13-day training begins for 124 candidates with South Korea job offers (Bangla)](https://www.bssnews.net/bangla/news/332701). Accessed 19 Nov 2026.
-- <a id="n22"></a>N22. BSS (Bangladesh Sangbad Sangstha), 29 Apr 2025. [25 Bangladeshi workers reach South Korea under MoU](https://www.bssnews.net/others/268165). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n23"></a>N23. National Federation of Fisheries Cooperatives (Suhyup), May 2023. [Improving the foreign fishing crew system and operating efficiency (외국인어선원 제도개선 및 운영 효율화 방향)](https://suhyup.co.kr/bbs/fei/89/13590/download.do). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n24"></a>N24. Newstapa, 11 Sep 2026. [[K-fishing brokers] 1: The price of becoming a Korean fisher, KRW 13 million](https://newstapa.org/article/vx8Gc). Accessed 19 Nov 2026.
-- <a id="n25"></a>N25. Hankyoreh, 14 Sep 2023. [Migrant worker support centre budget cut to zero; hub centres effectively abolished (Korean)](https://www.hani.co.kr/arti/society/labor/1108536.html). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n26"></a>N26. Danbi News, 8 Jul 2024. ['Half-revived' migrant worker centres: confusion continues (Korean)](https://www.danbinews.com/news/articleView.html?idxno=27053). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n27"></a>N27. Weekly Kyunghyang, 23 Feb 2026. [Cheaper, more: 'cheap migrant workers' come back as a boomerang](https://weekly.khan.co.kr/article/202602230600021). Accessed 19 Nov 2026.
-- <a id="n28"></a>N28. The Financial Express (Bangladesh), 30 Jan 2024. [24 skilled workers fly to S Korea with E-7 jobs today](https://today.thefinancialexpress.com.bd/print/24-skilled-workers-fly-to-s-korea-with-e-7-jobs-today-1706549905). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n29"></a>N29. Asia News Network (The Korea Herald), 27 Feb 2026. [Inside South Korea's immigration dragnet](https://asianews.network/?p=259519). Accessed 19 Nov 2026.
-- <a id="n30"></a>N30. The Korea Times, 25 Oct 2024. [Fraudsters' ring arrested for forging invitation letters, facilitating illegal entry into Korea](https://www.koreatimes.co.kr/southkorea/defense/20241025/fraudsters-ring-arrested-for-forging-invitation-letters-facilitating-illegal-entry-into-korea). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n31"></a>N31. Bonik Barta, 22 Jul 2026. [BDT 180m trapped after Korean university fails to process Bangladeshi students' visas](https://en.bonikbarta.com/bangladesh/E3c3tMol3ygueAfH). Accessed 19 Nov 2026.
-- <a id="n32"></a>N32. Channel 24, 8 Nov 2026. [দক্ষিণ কোরিয়ায় শিক্ষার্থী ভিসায় নতুন শর্ত, পড়া শেষে থাকা যাবে ৩ বছর](https://www.channel24bd.tv/education/article/357523). Accessed 19 Nov 2026.
-- <a id="n33"></a>N33. The Korea Herald, 23 Oct 2026. [Over 31,000 foreign students overstaying visas in Korea: data](https://www.koreaherald.com/article/10912950). Accessed 19 Nov 2026.
-- <a id="n34"></a>N34. The Daily Observer, 22 Jul 2026. [SinGyeongju University students (Observer report)](https://observerbd.com/news/584466). Accessed 19 Nov 2026.
-- <a id="n35"></a>N35. Asia News Network (The Korea Herald), 16 Jan 2026. [South Korea's foreign student push runs into visa wall](https://asianews.network/?p=251518). Accessed 19 Nov 2026.
-- <a id="n36"></a>N36. Korea JoongAng Daily, 13 Oct 2011. [Homeless men paid for sham marriages](https://www.koreajoongangdaily.com/korea/homeless-men-paid-for-sham-marriages/11327023). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n37"></a>N37. UNHCR, Apr 2024. [Republic of Korea fact sheet, April 2024](https://www.unhcr.org/sites/default/files/2024-04/UNHCR_Korea_Fact%20Sheet_ENG_202404.pdf). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n38"></a>N38. Money Today, 21 Apr 2025. ['Fake' refugees extending stays by abusing the system; brokers mushroom](https://www.mt.co.kr/society/2025/04/21/2025041413524677163). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n39"></a>N39. The Korea Times, 14 Jul 2026. [Broker referred to prosecution over fake asylum applications for Vietnamese nationals](https://www.koreatimes.co.kr/southkorea/law-crime/20260714/broker-referred-to-prosecution-over-fake-asylum-applications-for-vietnamese-nationals). Accessed 19 Nov 2026.
-- <a id="n40"></a>N40. Law Times (Beopryul Sinmun), 27 Aug 2026. [Constitutional Court: no birth-registration law for foreign children born in Korea is unconstitutional](https://www.lawtimes.co.kr/news/articleViewAmp.html?idxno=225475). Accessed 19 Nov 2026.
-- <a id="n41"></a>N41. Newsis, 29 Jan 2025. [Migrant children's stay-rights scheme nearing its end](https://www.newsis.com/view/NISX20250129_0003047662). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n42"></a>N42. bKash Limited. [Money Transfer Service (remittance partners by country)](https://www.bkash.com/en/products-services/remittance/money-transfer-service). Accessed 19 Nov 2026. Undated: possibly outdated.
-- <a id="n43"></a>N43. Hanpass Co., Ltd.. [Send Money from Korea to the Philippines - Remittance Guide](https://www.hanpass.com/en/business/remittance/guide/philippines). Accessed 19 Nov 2026. Undated: possibly outdated.
-- <a id="n44"></a>N44. Nagad (Bangladesh Post Office digital financial service). [Remittance](https://nagad.com.bd/en/services/?service=remittance). Accessed 9 Nov 2026. Undated: possibly outdated.
-- <a id="n45"></a>N45. Mutual Trust Bank PLC, 14 May 2025. [Government Incentive on Wage Earners' Remittance](https://www.mutualtrustbank.com/government-incentive-on-wage-earners-remittance/). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n46"></a>N46. Alap News, 17 Jul 2026. [প্রতিদিন ফিরছে ১৪ প্রবাসী কর্মীর মরদেহ](https://www.alap.news/nrb/1890/why-bangladeshi-migrant-workers-are-dying-abroad). Accessed 9 Nov 2026.
-- <a id="n47"></a>N47. Prothom Alo, 6 Oct 2026. [প্রবাসী শ্রমিকের মৃত্যু: দিনে গড়ে ১৪টির বেশি মরদেহ এসেছে, কোন দেশে বেশি (migrant worker deaths: more than 14 bodies a day)](https://www.prothomalo.com/bangladesh/1ojrmbhc8u). Accessed 9 Nov 2026.
-- <a id="n48"></a>N48. The Korea Times, 4 May 2026. [New Korean initiative honors foreign workers killed on job (interview)](https://www.koreatimes.co.kr/southkorea/globalcommunity/20260504/new-korean-initiative-honors-foreign-workers-killed-on-job). Accessed 19 Nov 2026.
-- <a id="n49"></a>N49. Prothom Alo, 22 Jan 2024. [প্রবাসে কেবল মৃত্যু হলেই বিমার টাকা সহজে পায় অভিবাসী কর্মী (Migrant workers easily get insurance money only when they die abroad)](https://www.prothomalo.com/bangladesh/e5seget393). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n50"></a>N50. The Daily Star, 30 Nov 2022. [HRD Korea EPS Center looking for over 300 Bangladeshis to pay insurance](https://www.thedailystar.net/news/bangladesh/news/hrd-korea-eps-center-looking-over-300-bangladeshis-pay-insurance-3183811). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n51"></a>N51. ICSF (reprint of a Bangladeshi news report), Feb 2024. [Bangladesh: Korea opens door for construction, fisheries sectors](https://icsf.net/?p=114466). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n52"></a>N52. The Daily Star Bangla, 30 Nov 2022. [কোরিয়াফেরত ৩ শতাধিক ইপিএস কর্মী বিমার টাকা ফেরত পাবেন](https://bangla.thedailystar.net/abroad/immigration/skilled-manpower-others/news-423301). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n53"></a>N53. UNB, 28 Jan 2019. [Seminar on do's and don'ts for Bangladeshi workers in Korea held](https://unb.com.bd/category/bangladesh/seminar-on-dos-donts-for-bangladeshi-workers-in-korea-held/11518). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n54"></a>N54. The Business Standard, 2 Jun 2021. [Only 2% returnee migrants received reintegration loan](https://www.tbsnews.net/bangladesh/migration/only-2-returnee-migrants-received-reintegration-loan-254932). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n9"></a>N9. Prothom Alo, 20 Apr 2024. [বাংলাদেশি শ্রমিকদের দক্ষিণ কোরিয়ায় যেতে বাধা কোথায়](https://www.prothomalo.com/opinion/column/4go610p8rb). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n10"></a>N10. Prothom Alo, 21 Apr 2024. [চাহিদা আছে দক্ষিণ কোরিয়ায়, পাঠানো যাচ্ছে না কর্মী](https://www.prothomalo.com/bangladesh/lutq1phs2f). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n11"></a>N11. Dhaka Stream, 12 Apr 2026. [Bangladesh losing the South Korean labour market through its own faults (Bangla)](https://banglastream.net/economy/bs2xxlozafjv). Accessed 19 Nov 2026.
+- <a id="n12"></a>N12. The Financial Express, 5 Mar 2024. [S Korea announces highest-ever job quota for Bangladeshi workers](https://thefinancialexpress.com.bd/home/s-korea-announces-highest-ever-job-quota-for-bangladeshi-workers). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n13"></a>N13. BSS, 4 Nov 2022. [BOESL going to set record by sending 4941 workers to S Korea by this year](https://www.bssnews.net/news/91947). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n14"></a>N14. Prothom Alo, 11 Aug 2024. [দক্ষিণ কোরিয়ায় কর্মী নিয়োগ, ভাষা পরীক্ষায় উত্তীর্ণদের স্কিল টেস্টের তারিখ প্রকাশ](https://www.prothomalo.com/chakri/chakri-news/u99es6ym5z). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n15"></a>N15. Prothom Alo, 20 Mar 2024. [দক্ষিণ কোরিয়ার সঙ্গে সম্পর্ক জোরদারে অর্থনৈতিক কূটনীতিতে জোর পররাষ্ট্রমন্ত্রীর](https://www.prothomalo.com/bangladesh/c0pka7lwl0). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n16"></a>N16. Prothom Alo, 15 Sep 2026. [সিলভার ইকোনমি: ট্রিলিয়ন ডলারের বাজারে কতটা প্রস্তুত বাংলাদেশ](https://www.prothomalo.com/opinion/column/47xqlrmi6a). Accessed 23 Nov 2026.
+- <a id="n17"></a>N17. Prothom Alo, 10 Jul 2024. [দক্ষিণ কোরিয়ার সঙ্গে ১১৭ কোটি টাকার সহায়তা চুক্তি](https://www.prothomalo.com/bangladesh/g78oryy5f4). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n18"></a>N18. Chosun Biz, 3 Sep 2025. [Proxy exam companies exploit foreign workers' language barriers in Korea](https://biz.chosun.com/en/en-industry/2025/09/03/E2A6LWPZB5AWFD2H2KDAYSCPVQ/). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n19"></a>N19. Prothom Alo, 25 Aug 2025. [স্বপ্নের দক্ষিণ কোরিয়া: বাংলাদেশে আন্দোলন আর ভিয়েতনামের সফলতা!](https://nagorik.prothomalo.com/durporobash/lv85nhmdn7). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n20"></a>N20. Amar Desh, 14 May 2026. [Korea visa hopefuls besiege the expatriates' welfare ministry](https://www.dailyamardesh.com/capital/amdgus1jr2x1y). Accessed 19 Nov 2026.
+- <a id="n21"></a>N21. Prothom Alo, 9 Aug 2025. [বোয়েসেল: ইপিএস-টপিক উত্তীর্ণদের চাকরি ফরম ও স্বাস্থ্য সনদ জমার বিজ্ঞপ্তি](https://www.prothomalo.com/chakri/employment/fr7n5bv0ft). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n22"></a>N22. Prothom Alo, 30 Jul 2025. [Admission to Korean language course, fee Tk 1,000 (Bangla)](https://www.prothomalo.com/education/admission/nhya8rqm9u). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n23"></a>N23. KBS World, 11 Mar 2026. [7 in 10 E-9 visa holders earn less than 3 million won per month](https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=199990). Accessed 19 Nov 2026.
+- <a id="n24"></a>N24. Amnesty International, Oct 2014. [Bitter harvest: Exploitation and forced labour of migrant agricultural workers in South Korea (ASA 25/004/2014)](https://www.amnestyusa.org/wp-content/uploads/2017/04/asa_250042014.pdf). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n25"></a>N25. Business and Human Rights Centre, Sep 2025. [S. Korea: Migrant workers, incl. from Bangladesh, Vietnam and Nepal, injured & abused, unable to change jobs & access remedy under visa scheme](https://www.business-humanrights.org/en/latest-news/s-korea-s-korea-migrant-workers-incl-from-bangladesh-vietnam-and-nepal-injured-abused-unable-to-change-jobs-access-remedy-under-visa-scheme/). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n26"></a>N26. UN OHCHR (UN Information Service, Geneva), 30 Apr 2025. [CERD experts raise questions on high rates of migrant worker deaths in the Republic of Korea (meeting summary)](https://www.ohchr.org/en/meeting-summaries/2025/04/examen-de-la-republique-de-coree-au-cerd-la-situation-des-travailleurs). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n27"></a>N27. The Chosun Daily, 19 Sep 2025. [Court orders state to compensate migrant worker's family](https://www.chosun.com/english/national-en/2025/09/19/Q52SC26YPJG3PH2LOFCJZ5OMWU/). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n28"></a>N28. East Asia Forum, 31 Oct 2025. [South Korea's migrant workers trapped in a legal cage](https://eastasiaforum.org/2025/10/31/south-koreas-migrant-workers-trapped-in-a-legal-cage/). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n29"></a>N29. BSS, 15 Aug 2026. [13-day training begins for 124 candidates with South Korea job offers (Bangla)](https://www.bssnews.net/bangla/news/332701). Accessed 19 Nov 2026.
+- <a id="n30"></a>N30. Prothom Alo, 16 Apr 2024. [যে ১০ বিদেশি ভাষা শিক্ষা উন্নত ক্যারিয়ার গঠনে এগিয়ে রাখবে আপনাকে](https://www.prothomalo.com/education/scholarship/xh0e9pniyt). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n31"></a>N31. Prothom Alo, 29 May 2026. [ঢাকা-টোকিও রুটে ইনচন ট্রানজিট চালুর দাবি কোরিয়াপ্রবাসী বাংলাদেশিদের](https://nagorik.prothomalo.com/durporobash/m5f7jsu0y7). Accessed 23 Nov 2026.
+- <a id="n32"></a>N32. BSS (Bangladesh Sangbad Sangstha), 29 Apr 2025. [25 Bangladeshi workers reach South Korea under MoU](https://www.bssnews.net/others/268165). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n33"></a>N33. National Federation of Fisheries Cooperatives (Suhyup), May 2023. [Improving the foreign fishing crew system and operating efficiency (외국인어선원 제도개선 및 운영 효율화 방향)](https://suhyup.co.kr/bbs/fei/89/13590/download.do). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n34"></a>N34. Newstapa, 11 Sep 2026. [[K-fishing brokers] 1: The price of becoming a Korean fisher, KRW 13 million](https://newstapa.org/article/vx8Gc). Accessed 19 Nov 2026.
+- <a id="n35"></a>N35. Prothom Alo, 12 Mar 2025. [দক্ষিণ কোরিয়ায় প্রবাসী বাংলাদেশিরা যেভাবে রোজা পালন করেন](https://nagorik.prothomalo.com/durporobash/a8x2u9058i). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n36"></a>N36. Hankyoreh, 14 Sep 2023. [Migrant worker support centre budget cut to zero; hub centres effectively abolished (Korean)](https://www.hani.co.kr/arti/society/labor/1108536.html). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n37"></a>N37. Danbi News, 8 Jul 2024. ['Half-revived' migrant worker centres: confusion continues (Korean)](https://www.danbinews.com/news/articleView.html?idxno=27053). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n38"></a>N38. Weekly Kyunghyang, 23 Feb 2026. [Cheaper, more: 'cheap migrant workers' come back as a boomerang](https://weekly.khan.co.kr/article/202602230600021). Accessed 19 Nov 2026.
+- <a id="n39"></a>N39. The Financial Express (Bangladesh), 30 Jan 2024. [24 skilled workers fly to S Korea with E-7 jobs today](https://today.thefinancialexpress.com.bd/print/24-skilled-workers-fly-to-s-korea-with-e-7-jobs-today-1706549905). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n40"></a>N40. Asia News Network (The Korea Herald), 27 Feb 2026. [Inside South Korea's immigration dragnet](https://asianews.network/?p=259519). Accessed 19 Nov 2026.
+- <a id="n41"></a>N41. The Korea Times, 25 Oct 2024. [Fraudsters' ring arrested for forging invitation letters, facilitating illegal entry into Korea](https://www.koreatimes.co.kr/southkorea/defense/20241025/fraudsters-ring-arrested-for-forging-invitation-letters-facilitating-illegal-entry-into-korea). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n42"></a>N42. Prothom Alo, 26 Nov 2025. [দক্ষিণ কোরিয়ায় আন্তর্জাতিক শিক্ষার্থীদের জন্য ই-ভিসা](https://www.bondhushava.com/career/rv3l44bnql). Accessed 23 Nov 2026.
+- <a id="n43"></a>N43. Prothom Alo, 17 Nov 2026. [দক্ষিণ কোরিয়ায় উচ্চশিক্ষা: বাংলাদেশি শিক্ষার্থীদের জন্য বাস্তব বাজেটের ধারণা](https://www.prothomalo.com/education/higher-education/ig2cviw5k6). Accessed 23 Nov 2026.
+- <a id="n44"></a>N44. Bonik Barta, 22 Jul 2026. [BDT 180m trapped after Korean university fails to process Bangladeshi students' visas](https://en.bonikbarta.com/bangladesh/E3c3tMol3ygueAfH). Accessed 19 Nov 2026.
+- <a id="n45"></a>N45. Channel 24, 8 Nov 2026. [দক্ষিণ কোরিয়ায় শিক্ষার্থী ভিসায় নতুন শর্ত, পড়া শেষে থাকা যাবে ৩ বছর](https://www.channel24bd.tv/education/article/357523). Accessed 19 Nov 2026.
+- <a id="n46"></a>N46. The Korea Herald, 23 Oct 2026. [Over 31,000 foreign students overstaying visas in Korea: data](https://www.koreaherald.com/article/10912950). Accessed 19 Nov 2026.
+- <a id="n47"></a>N47. The Daily Observer, 22 Jul 2026. [SinGyeongju University students (Observer report)](https://observerbd.com/news/584466). Accessed 19 Nov 2026.
+- <a id="n48"></a>N48. Asia News Network (The Korea Herald), 16 Jan 2026. [South Korea's foreign student push runs into visa wall](https://asianews.network/?p=251518). Accessed 19 Nov 2026.
+- <a id="n49"></a>N49. Korea JoongAng Daily, 13 Oct 2011. [Homeless men paid for sham marriages](https://www.koreajoongangdaily.com/korea/homeless-men-paid-for-sham-marriages/11327023). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n50"></a>N50. UNHCR, Apr 2024. [Republic of Korea fact sheet, April 2024](https://www.unhcr.org/sites/default/files/2024-04/UNHCR_Korea_Fact%20Sheet_ENG_202404.pdf). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n51"></a>N51. Money Today, 21 Apr 2025. ['Fake' refugees extending stays by abusing the system; brokers mushroom](https://www.mt.co.kr/society/2025/04/21/2025041413524677163). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n52"></a>N52. The Korea Times, 14 Jul 2026. [Broker referred to prosecution over fake asylum applications for Vietnamese nationals](https://www.koreatimes.co.kr/southkorea/law-crime/20260714/broker-referred-to-prosecution-over-fake-asylum-applications-for-vietnamese-nationals). Accessed 19 Nov 2026.
+- <a id="n53"></a>N53. Law Times (Beopryul Sinmun), 27 Aug 2026. [Constitutional Court: no birth-registration law for foreign children born in Korea is unconstitutional](https://www.lawtimes.co.kr/news/articleViewAmp.html?idxno=225475). Accessed 19 Nov 2026.
+- <a id="n54"></a>N54. Newsis, 29 Jan 2025. [Migrant children's stay-rights scheme nearing its end](https://www.newsis.com/view/NISX20250129_0003047662). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n55"></a>N55. bKash Limited. [Money Transfer Service (remittance partners by country)](https://www.bkash.com/en/products-services/remittance/money-transfer-service). Accessed 19 Nov 2026. Undated: possibly outdated.
+- <a id="n56"></a>N56. Hanpass Co., Ltd.. [Send Money from Korea to the Philippines - Remittance Guide](https://www.hanpass.com/en/business/remittance/guide/philippines). Accessed 19 Nov 2026. Undated: possibly outdated.
+- <a id="n57"></a>N57. Nagad (Bangladesh Post Office digital financial service). [Remittance](https://nagad.com.bd/en/services/?service=remittance). Accessed 9 Nov 2026. Undated: possibly outdated.
+- <a id="n58"></a>N58. Mutual Trust Bank PLC, 14 May 2025. [Government Incentive on Wage Earners' Remittance](https://www.mutualtrustbank.com/government-incentive-on-wage-earners-remittance/). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n59"></a>N59. Alap News, 17 Jul 2026. [প্রতিদিন ফিরছে ১৪ প্রবাসী কর্মীর মরদেহ](https://www.alap.news/nrb/1890/why-bangladeshi-migrant-workers-are-dying-abroad). Accessed 9 Nov 2026.
+- <a id="n60"></a>N60. Prothom Alo, 6 Oct 2026. [প্রবাসী শ্রমিকের মৃত্যু: দিনে গড়ে ১৪টির বেশি মরদেহ এসেছে, কোন দেশে বেশি (migrant worker deaths: more than 14 bodies a day)](https://www.prothomalo.com/bangladesh/1ojrmbhc8u). Accessed 9 Nov 2026.
+- <a id="n61"></a>N61. The Korea Times, 4 May 2026. [New Korean initiative honors foreign workers killed on job (interview)](https://www.koreatimes.co.kr/southkorea/globalcommunity/20260504/new-korean-initiative-honors-foreign-workers-killed-on-job). Accessed 19 Nov 2026.
+- <a id="n62"></a>N62. Prothom Alo, 22 Jan 2024. [প্রবাসে কেবল মৃত্যু হলেই বিমার টাকা সহজে পায় অভিবাসী কর্মী (Migrant workers easily get insurance money only when they die abroad)](https://www.prothomalo.com/bangladesh/e5seget393). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n63"></a>N63. The Daily Star, 30 Nov 2022. [HRD Korea EPS Center looking for over 300 Bangladeshis to pay insurance](https://www.thedailystar.net/news/bangladesh/news/hrd-korea-eps-center-looking-over-300-bangladeshis-pay-insurance-3183811). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n64"></a>N64. ICSF (reprint of a Bangladeshi news report), Feb 2024. [Bangladesh: Korea opens door for construction, fisheries sectors](https://icsf.net/?p=114466). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n65"></a>N65. The Daily Star Bangla, 30 Nov 2022. [কোরিয়াফেরত ৩ শতাধিক ইপিএস কর্মী বিমার টাকা ফেরত পাবেন](https://bangla.thedailystar.net/abroad/immigration/skilled-manpower-others/news-423301). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n66"></a>N66. UNB, 28 Jan 2019. [Seminar on do's and don'ts for Bangladeshi workers in Korea held](https://unb.com.bd/category/bangladesh/seminar-on-dos-donts-for-bangladeshi-workers-in-korea-held/11518). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n67"></a>N67. The Business Standard, 2 Jun 2021. [Only 2% returnee migrants received reintegration loan](https://www.tbsnews.net/bangladesh/migration/only-2-returnee-migrants-received-reintegration-loan-254932). Accessed 8 Nov 2026. Possibly outdated.

@@ -354,3 +354,16 @@ bok-ecos-krw-bdt-2026-10,https://ecos.bok.or.kr/api/StatisticSearch/sample/json/
 liveinkorea-danuri-callcenter-FAILED,https://www.liveinkorea.kr/web/contents/contentView.do?mno=73,2026-11-19,404,text/html;charset=utf-8,curl,
 liveinkorea-danuri-home-FAILED,https://www.liveinkorea.kr/web/main/index.do,2026-11-19,404,text/html;charset=utf-8,curl,
 liveinkorea-danuri-home,https://www.liveinkorea.kr/,2026-11-19,200,text/html;charset=UTF-8,curl,liveinkorea-danuri-home.html;liveinkorea-danuri-home.md;liveinkorea-danuri-home.txt
+pa-2024-03-20-c0pka7lwl0,https://www.prothomalo.com/bangladesh/c0pka7lwl0,2026-11-23,200,,manual,pa-2024-03-20-c0pka7lwl0.md
+pa-2024-04-16-xh0e9pniyt,https://www.prothomalo.com/education/scholarship/xh0e9pniyt,2026-11-23,200,,manual,pa-2024-04-16-xh0e9pniyt.md
+pa-2024-04-20-4go610p8rb,https://www.prothomalo.com/opinion/column/4go610p8rb,2026-11-23,200,,manual,pa-2024-04-20-4go610p8rb.md
+pa-2024-04-21-lutq1phs2f,https://www.prothomalo.com/bangladesh/lutq1phs2f,2026-11-23,200,,manual,pa-2024-04-21-lutq1phs2f.md
+pa-2024-07-10-g78oryy5f4,https://www.prothomalo.com/bangladesh/g78oryy5f4,2026-11-23,200,,manual,pa-2024-07-10-g78oryy5f4.md
+pa-2024-08-11-u99es6ym5z,https://www.prothomalo.com/chakri/chakri-news/u99es6ym5z,2026-11-23,200,,manual,pa-2024-08-11-u99es6ym5z.md
+pa-2025-03-12-a8x2u9058i,https://nagorik.prothomalo.com/durporobash/a8x2u9058i,2026-11-23,200,,manual,pa-2025-03-12-a8x2u9058i.md
+pa-2025-08-09-fr7n5bv0ft,https://www.prothomalo.com/chakri/employment/fr7n5bv0ft,2026-11-23,200,,manual,pa-2025-08-09-fr7n5bv0ft.md
+pa-2025-08-25-lv85nhmdn7,https://nagorik.prothomalo.com/durporobash/lv85nhmdn7,2026-11-23,200,,manual,pa-2025-08-25-lv85nhmdn7.md
+pa-2025-11-26-rv3l44bnql,https://www.bondhushava.com/career/rv3l44bnql,2026-11-23,200,,manual,pa-2025-11-26-rv3l44bnql.md
+pa-2026-05-29-m5f7jsu0y7,https://nagorik.prothomalo.com/durporobash/m5f7jsu0y7,2026-11-23,200,,manual,pa-2026-05-29-m5f7jsu0y7.md
+pa-2026-09-15-47xqlrmi6a,https://www.prothomalo.com/opinion/column/47xqlrmi6a,2026-11-23,200,,manual,pa-2026-09-15-47xqlrmi6a.md
+pa-2026-11-17-ig2cviw5k6,https://www.prothomalo.com/education/higher-education/ig2cviw5k6,2026-11-23,200,,manual,pa-2026-11-17-ig2cviw5k6.md
