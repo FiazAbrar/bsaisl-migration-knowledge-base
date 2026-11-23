@@ -152,3 +152,6 @@ Added facts GD0163-GD0173. Buying the ticket: the April 2025 editorial's tax com
 ## Prothom Alo held items, round 4 (GD prefix, 23 Nov 2026)
 
 2 items (held4-departure.json), both from one article (Prothom Alo, 4 Nov 2026): the robbery of two Dubai returnees on the Purbachal 300-feet road, added under "On the road from the airport" (GD0174 to GD0181). "Tuesday night 1:30 am" in the article (published Wednesday 4 Nov) is the early hours of 4 November.
+
+- **PKB rehabilitation loan terms (resolved 23 Nov 2026):** PKB's own loan page (F0343, Sept 2026) gives 9% simple interest and Tk 3 lakh without collateral; a regional head's 8% (LB0243, April 2026) is a remark in a news report. The official page stands. Whether a returnee with an NSDA skills certificate can borrow Tk 5 lakh without collateral (AB0129) is a separate claim no source confirms, so it stays a Need to know.
+- **Russia departures 2025:** BMET's 4,727 (RU0061) is the count; the FAQ's 4,663 question was removed.
