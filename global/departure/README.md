@@ -474,12 +474,14 @@ Every arriving passenger fills in the baggage declaration (Schedule 1) or submit
 
 On 19 May 2024 at about 3 pm, Abdul Khalek, back from Saudi Arabia, was being driven from Shah Amanat International Airport in Chattogram when Aminul Islam, a sub-inspector of Khulshi police station who was not on duty, stopped his car at Tiger Pass and with two associates took 16 bhori of gold, police said <sup>[N97 (2024)](#n97)</sup>. By the police account they drove him around the city and tried to put him out on the Akhtaruzzaman Chowdhury flyover; he held on to the officer's clothes, a crowd gathered, and Panchlaish police detained the sub-inspector and one associate while the other fled <sup>[N97 (2024)](#n97)</sup>. The city police said the sub-inspector was suspended and a case was being filed against him <sup>[N97 (2024)](#n97)</sup>.
 
+Dubai returnee Jamal Hossain said he and his friend Sohel landed at Hazrat Shahjalal International Airport, Dhaka, at about 1:30 am on 4 November 2026 and set off for Kanchan in the private car of Shahin, a driver they already knew <sup>[N98](#n98)</sup>. At about 3 am, in the Shamu Market area of the Purbachal 300-feet road, Shahin helped another car block theirs; armed men took the two hostage and looted 18 bhori of gold jewellery brought from Dubai, five phones, a laptop and a tab, worth about Tk 46 lakh by their account, then tied their hands and feet, taped their mouths and left them in the trade fair area of the Dhaka Bypass road <sup>[N98](#n98)</sup>. Shahin then called the national emergency number 999 to cover himself; police rescued the two, caught Shahin, his brother Sohel and Ayub of Charpara, Rupganj, as they tried to flee with the goods, and recovered 8.5 bhori of the gold <sup>[N98](#n98)</sup>. A case was filed at Rupganj police station, the Purbachal police camp's inspector said <sup>[N98](#n98)</sup>.
+
 <a id="after-deportation-bans-on-going-back"></a>
 
 ### 8.6 After deportation: bans on going back
 
 - **Kuwait:** deportees are fingerprinted at the airport and banned for life <sup>[N11](#n11)</sup>.
-- **Malaysia:** deported undocumented migrants are blacklisted for 1 to 5 years, and serious cases for life <sup>[N12 (2017)](#n12)</sup>; all 140 deported from KLIA in September 2026 were blacklisted <sup>[N98](#n98)</sup>.
+- **Malaysia:** deported undocumented migrants are blacklisted for 1 to 5 years, and serious cases for life <sup>[N12 (2017)](#n12)</sup>; all 140 deported from KLIA in September 2026 were blacklisted <sup>[N99](#n99)</sup>.
 - **UAE:** a deportee may return only with permission of the ICP (Federal Authority for Identity, Citizenship, Customs and Port Security) chairman <sup>[29 (2021)](#o29)</sup>.
 - **Qatar:** someone deported by court judgment may return only by the Minister's decision <sup>[30 (2015)](#o30)</sup>.
 - **Italy:** a re-entry ban of 3 to 5 years, longer in some cases, entered in the Schengen Information System, so it also bars entry to EU and other Schengen states <sup>[31](#o31)</sup>.
@@ -657,4 +659,5 @@ These facts come only from news or third-party sources. Each needs an official s
 - <a id="n95"></a>N95. Prothom Alo, 23 Oct 2026. [ইতালি, গ্রিস ও সাইপ্রাস থেকে ৩৫ বাংলাদেশিকে ফেরত পাঠানো হয়েছে](https://www.prothomalo.com/bangladesh/v0fngdd2ql). Accessed 23 Nov 2026.
 - <a id="n96"></a>N96. Prothom Alo, 3 Feb 2026. [রোগী নয়, রোগ দূর করুন](https://www.prothomalo.com/opinion/editorial/hzoua6qt60). Accessed 23 Nov 2026.
 - <a id="n97"></a>N97. Prothom Alo, 19 May 2024. [সৌদিফেরত প্রবাসীর কাছ থেকে সোনা ছিনতাইকালে এসআইকে ধরল জনতা](https://www.prothomalo.com/bangladesh/crime/yw1qyt92y8). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n98"></a>N98. Berita RTM, 10 Sep 2026. [140 PATI pelbagai negara dihantar pulang melalui KLIA, KLIA2](https://berita.rtm.gov.my/?p=691872). Accessed 6 Nov 2026.
+- <a id="n98"></a>N98. Prothom Alo, 4 Nov 2026. [পূর্বাচল ৩০০ ফুট সড়কে প্রবাসীদের গাড়িতে ডাকাতি, চালকসহ তিনজন গ্রেপ্তার](https://www.prothomalo.com/bangladesh/district/6z29xa6965). Accessed 23 Nov 2026.
+- <a id="n99"></a>N99. Berita RTM, 10 Sep 2026. [140 PATI pelbagai negara dihantar pulang melalui KLIA, KLIA2](https://berita.rtm.gov.my/?p=691872). Accessed 6 Nov 2026.

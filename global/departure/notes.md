@@ -148,3 +148,7 @@ Independent fact-check, 19 November 2026. About 150 sentences and list items che
 ## Prothom Alo late chunk (lchunk-departure, 2 articles), agent GD
 
 Added facts GD0163-GD0173. Buying the ticket: the April 2025 editorial's tax comparison (airlines' figures), travel tax, the 80% migrant share of passengers, two workers' return fares and ATAB's call for monitoring. The passport office: the Narayanganj office's burning on 18 July 2024 (8,000+ passports and police papers lost), the nine months of applicants sent to Keraniganj, Narsingdi and Munshiganj, and its reopening on 4 May 2025.
+
+## Prothom Alo held items, round 4 (GD prefix, 23 Nov 2026)
+
+2 items (held4-departure.json), both from one article (Prothom Alo, 4 Nov 2026): the robbery of two Dubai returnees on the Purbachal 300-feet road, added under "On the road from the airport" (GD0174 to GD0181). "Tuesday night 1:30 am" in the article (published Wednesday 4 Nov) is the early hours of 4 November.

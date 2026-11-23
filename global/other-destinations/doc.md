@@ -6,7 +6,7 @@ Countries with no doc of their own yet where Bangladeshis go, or are sold a way 
 
 For work, the reporting shows Bangladeshis going to Iraq through relatives already there, some working irregularly, with deaths from fire, missiles, poisoning and murder over unpaid wages [GO0116, GO0130, GO0131, GO0217, GO0126, GO0179]; Bangladesh and Iraq signed an MoU (memorandum of understanding) in October 2025 for recruitment on embassy-attested demand letters [GO0161, GO0142]. In November 2025 Bangladesh asked Bahrain to reopen visas for Bangladeshis, and Bahrain said it was reopening them step by step [GO0149, GO0151]. Fiji takes small numbers through BOESL, the government recruiting company [GO0188], and Mauritius agreed in principle in June 2026 to reopen its closed market [GO0221]. In the one South Africa case reported, brokers took an 18-year-old overland through Ethiopia and Zimbabwe and he died on arrival in February 2026 [GO0212, GO0213, GO0193]. In Spain, Portugal and France there are settled communities; Spain's 2026 regularisation could cover about 20,000 Bangladeshis who arrived before 31 December 2025 [GO0155], while Portugal has made residence renewals harder [GO0140].
 
-For study, Australia, Ireland, Germany, Austria, Taiwan, Denmark, New Zealand, Cyprus, Egypt and China all take Bangladeshi students, several of them through embassies in New Delhi [GO0038, GO0029, GO0055]. Australia and Denmark tightened student rules in 2025-26 and named family members and course-hopping as targets, Denmark naming Bangladesh and Nepal outright [GO0255, GO0263, GO0132]. What goes wrong most in this reporting: a family pays a dalal for "Australia" and the young man is flown to Nepal or Kazakhstan, held and beaten for more money, and returned with the family in debt [GO0187, GO0224, GO0238, GO0239]; and workers die abroad, after which the body takes weeks or months to come home [GO0218, GO0129].
+For study, Australia, Ireland, Germany, Austria, Taiwan, Denmark, New Zealand, Cyprus, Egypt and China all take Bangladeshi students, several of them through embassies in New Delhi [GO0038, GO0029, GO0055]. Australia and Denmark tightened student rules in 2025-26 and named family members and course-hopping as targets, Denmark naming Bangladesh and Nepal outright, and in January 2026 Australia put Bangladesh in its highest-risk student visa category [GO0255, GO0263, GO0132, GO0316]. What goes wrong most in this reporting: a family pays a dalal for "Australia" and the young man is flown to Nepal or Kazakhstan, held and beaten for more money, and returned with the family in debt [GO0187, GO0224, GO0238, GO0239]; and workers die abroad, after which the body takes weeks or months to come home [GO0218, GO0129].
 
 ## Australia
 
@@ -17,8 +17,17 @@ Bangladeshis go to Australia mainly as students: Australia granted student visas
 **Student rules as reported:**
 
 - **Genuine student test.** Australia brought in a "genuine student" requirement in March 2024, aimed at separating real study from using the student visa mainly to work or stay, a Bangladeshi academic at Charles Darwin University wrote in October 2026 [GO0295, GO0296]. By August 2026 the government had also raised the minimum English score and the funds to be shown in the bank; its bill to cap student numbers was blocked in the upper house [GO0260, GO0259].
+- **Highest-risk listing.** On 8 January 2026 Australia moved Bangladesh, with India, Nepal and Bhutan, into Evidence Level 3, the highest-risk category of its Simplified Student Visa Framework (SSVF), citing "emerging integrity issues", meaning fraud and irregularities [GO0316, GO0317]. A country's level is set from its visa refusal rate for fraud or other reasons, cancellation rate, the share of student visa holders who become unlawful non-citizens, and the share who later claim refugee status [GO0328, GO0329]. At Level 3 applicants and institutions must submit detailed papers on finances and academic history, and applicants must show funds for their own and their family's travel, 12 months' living costs, tuition and dependants' schooling [GO0318, GO0322]. Abul Rizvi, a former deputy secretary of Australia's immigration department, said visa officers then check papers directly instead of relying on the institution, may phone the institution to verify transcripts and the bank to verify statements, and that processing will take much longer and refusals will rise [GO0319, GO0320, GO0378, GO0321, GO0379]. About 8,000 Bangladeshi students applied in 2025, against an estimated 2,000 to 2,500 a year before [GO0323].
+- **What the papers must show since the listing,** as Kawsar Khan, an immigration lawyer and Prothom Alo's Sydney correspondent, described it in February 2026:
+  - money in the bank for less than six months needs its specific source shown, where three months' record used to be enough [GO0330];
+  - all family income must come through the bank, with at least six months' statements; cash income is not accepted [GO0331, GO0369];
+  - money from selling land, investments or leases needs a bank cheque or transfer as proof; an affidavit or declaration is not enough [GO0332, GO0370];
+  - postgraduate applicants must submit salary statements or slips for their work experience, and for a cash salary the employer's genuineness and tax payments are checked [GO0333, GO0371];
+  - interviews may be long, with detailed questions on the course, housing plans, the chosen city, career goals and family ties [GO0334, GO0372].
+  He wrote that each paper may be checked separately, including with the bank, so visas may take much longer, and that families who deal in cash for land or business may be unable to apply for lack of bank proof [GO0335, GO0373, GO0336, GO0374].
 - **Work while studying.** Students may work 24 hours a week, raised from 20, according to a July 2024 report [GO0004].
 - **After graduating.** The Temporary Graduate visa gives two years after a bachelor's or coursework master's and three after a research master's or PhD, with no job guarantee [GO0153, GO0152]. The applicant must hold a valid student visa, have finished a degree at an approved Australian institution, meet health and character rules, hold health insurance and owe no debt to the Australian government; family can be included [GO0168, GO0169]. The fee is AUD 2,300 plus the medical, police certificate and biometrics [GO0154].
+- **Australia Awards.** A scholarship from Australia's Department of Foreign Affairs and Trade for master's study in fields including health, development, environment, trade, public policy, economics, governance, infrastructure, science and engineering [GO0314]. It pays full tuition, books and study costs, a return economy fare, living costs and health insurance, and fieldwork costs on some courses [GO0324, GO0325]. Bangladeshi citizens over 18 may apply, except those with Australian citizenship, those engaged or married to an Australian citizen and those linked to military service; IELTS must be at least 6.5 with no band below 6 [GO0326, GO0327]. In 2024 applications ran from 1 February to 30 April at australiaawardsbangladesh.org/opportunities [GO0315].
 - **Scholarships named in 2025.** The Melbourne international undergraduate scholarship (up to 10,000 dollars off first-year fees) and the UTS Vice-Chancellor's international scholarship (up to 50% of costs) [GO0164, GO0165].
 
 **The September 2026 tightening.** Minister for home affairs and immigration Tony Burke announced [GO0254, GO0255, GO0263, GO0264, GO0256, GO0265, GO0266, GO0257]:
@@ -30,6 +39,8 @@ Bangladeshis go to Australia mainly as students: Australia granted student visas
 - faster removal of people whose visas have expired [GO0265];
 - a lottery for second- and third-year Working Holiday visas in farming and services, and priority for skilled migration in construction, health care and farming [GO0266];
 - powers to cancel visas quickly and deport migrants involved in violence against children, domestic violence or hate crimes [GO0257].
+
+**From October 2026,** people in Australia on certain temporary visas can no longer apply for a student visa from inside the country; they must apply from outside it [GO0337]. They may still apply inside Australia if they need up to 12 more months to finish their current main course at the same institution, or if they move up to a higher degree (bachelor's to master's, a PhD), study at school level or hold a government scholarship [GO0343, GO0344]. No family member can be added to a student visa after it is granted [GO0338]. From 5 October 2026 no new international students may enrol in the Graduate Diploma of Management; the government said some institutions tried to bring forward the start dates of about 1,500 students on hearing of the ban, and Julian Hill, the assistant minister for international education, citizenship and migration, said an institution that tried to evade the rules would lose its registration [GO0341, GO0342]. He said migration professionals who knowingly lodge applications with no real or legal basis face heavy penalties, including loss of their registration, and that studying two full-time courses at once could put a student's current and future visas at risk [GO0340, GO0345]. A Bangladeshi student in Australia said going home to apply again takes time and puts heavy financial pressure on the family [GO0339, GO0380].
 
 The academic quoted above wrote that bridging visas, new applications and reviews of visa decisions all have legal conditions, and the belief that using them lets a person stay indefinitely is wrong [GO0280]. He gave as an example a student who gets a visa on admission to a well-known university, then moves on arrival to a cheaper institution with no intention of studying at the first [GO0279]. In August 2026 Pauline Hanson, leader of the far-right One Nation party, called for stopping students' spouses and families from coming at all [GO0249]. For how these changes fit the wider pattern, see "Student visas used as work routes" in the Illegal routes doc.
 
@@ -108,17 +119,23 @@ In the death cases above, the Bangladesh embassy in Baghdad and the district adm
 > **Need to know**
 > - Does the Wage Earners' Welfare Board pay death compensation for a worker who went to Iraq without BMET clearance?
 
+## Iran
+
+### War and evacuation
+
+About 2,000 Bangladeshis were in Iran in June 2025, about 400 of them in Tehran, a foreign ministry official said [GO0352, GO0376]. After Israel's attacks on Iran began on 13 June 2025, 250 registered to come home, and 92 of them were to come back over Pakistan's land border [GO0367]. The first group of 28 reached the Pakistan border by road on 26 June 2025, through the Taftan crossing; the foreign adviser, Md Touhid Hossain, said Pakistan's government would take them to Karachi, from where they could fly home [GO0355, GO0353, GO0356, GO0377]. After the ceasefire many who had registered no longer wanted to return, and Bangladeshis in Iran were advised to stay safe until things returned to normal [GO0368, GO0354]. In March 2026, with US and Israeli attacks on Iran continuing, the government decided to bring several hundred home, starting with about 200 through Baku, Azerbaijan, on 19 March [GO0357]. For Iran as a stop on the overland route to Europe, see "Waiting in Iran" in the Illegal routes doc.
+
 ## Spain
 
 ### Is it open, and how people go
 
-Spain's government announced in 2026 a plan to regularise 500,000 irregular migrants by 31 December 2026 [GO0170]. About 20,000 Bangladeshis could benefit, but only those who entered Spain before 31 December 2025 [GO0155]. Applications were to run from April to 30 June 2026, with no work contract needed, only a passport and proof of police clearance [GO0156]. Spain declared amnesties in 2001 and 2005, but none on such easy terms [GO0160].
+Spain's government announced in 2026 a plan to regularise 500,000 irregular migrants by 31 December 2026 [GO0170]. About 20,000 Bangladeshis could benefit [GO0155]. Prime Minister Pedro Sánchez's government approved the programme on 14 April 2026; online applications opened on 16 April and in-person ones on 20 April, running to 30 June [GO0346, GO0348, GO0375]. The conditions: entry into Spain before 1 January 2026, proof of living there at least five months, and no criminal record [GO0349, GO0350]. No work contract is needed, only a passport and proof of police clearance [GO0156]. Those approved get permission to live and work in Spain for one year, and after a year can apply for permanent residence and other work permits [GO0347, GO0350]. Spain declared amnesties in 2001 and 2005, but none on such easy terms [GO0160].
 
 **The bottleneck is Bangladeshi paperwork.** Bangladeshis in Spain feared slow passport renewal and police clearance from Bangladesh's offices could keep about 10,000 of them out [GO0157, GO0171]. In May 2026 a home ministry team led by deputy secretary Kazi Arifur Rahman gave police clearance certificates in Spain directly, the first time in any European country: about 600 people in Barcelona on 9-11 May [GO0234, GO0235]. It worked 10 am to 5 pm in a hall in the Josep Tarradellas area; new online applicants got the certificate on the spot after checks, old certificates were corrected, and stuck offline applications were redone online [GO0236, GO0237]. Sessions followed at the embassy hall in Madrid on 14, 17, 18 and 19 May [GO0215].
 
 > **Need to know**
-> - Did Spain's regularisation open as planned, and how many Bangladeshis applied and were approved?
-> - What did the final bulletin require beyond passport and police clearance (proof of arrival date, address registration)?
+> - How many Bangladeshis applied under Spain's 2026 regularisation, and how many were approved?
+> - What papers does Spain accept as proof of five months' residence (address registration, others)?
 
 ### What goes wrong
 
@@ -172,6 +189,18 @@ Public universities charge foreign students about 1,452 euros a year on average;
 
 > **Need to know**
 > - Was the Austria-Bangladesh migration and mobility MoU signed, and does it open any work route?
+
+## Hungary
+
+### Is it open, and how people go
+
+**The Stipendium Hungaricum,** the Hungarian government's scholarship, as described in January 2024:
+
+- It started in Bangladesh in 2019, and more than a hundred Bangladeshi students get it each year [GO0308, GO0307].
+- It covers bachelor's, master's and doctoral study; an applicant chooses one level only, and applying for more than one voids the application [GO0305, GO0309, GO0312].
+- It pays full tuition, health insurance and, for bachelor's and master's students, a monthly living allowance until the end of study [GO0308, GO0310].
+- The applicant must be 18 by 31 August of the year, and incomplete applications are not accepted [GO0311, GO0312].
+- The application form comes from the Stipendium Hungaricum website; for 2024-25 the deadline was 15 January 2024, with selection from 28 February, medical certificates by 15 April, results in mid-June, visa applications in July and August, and arrival by 30 September [GO0306, GO0313].
 
 ## Taiwan
 
@@ -274,6 +303,8 @@ In October 2025 a Chega party billboard in Montijo with its leader André Ventur
 
 Md Fahad, 18, of Chandanaish, Chattogram, whose two uncles run businesses in South Africa after going the same way, was sent by his father on Tk 9 lakh borrowed from various people [GO0173]. The father paid the broker ring Tk 2 lakh first and Tk 7 lakh into a bank account when the journey began, with Tk 1.5 lakh more due on arrival [GO0176]. Fahad flew from Dhaka on 30 January 2026, meant to fly on via Ethiopia and Zimbabwe; instead brokers took him from Ethiopia through forest to Zimbabwe and by road to South Africa, walking long stretches over about two weeks [GO0212, GO0213, GO0214]. He reached Musina on 15 February and died that night [GO0175, GO0193]. The family believe hunger, illness and lack of treatment killed him, and say everything he carried was robbed in the forest; the brokers promised to return the money [GO0174, GO0176].
 
+Six Bangladeshis died in a fire at a supershop in Queenstown, Eastern Cape, on the night of 27 July 2026; one, Md Rajikul Islam, 53, was from Mirkadim, Munshiganj, and the other five from Narayanganj [GO0358]. Relatives said Rajikul worked at the shop and slept there at night, and the men inside could not get out [GO0360]. He had gone on 13 May 2026, leaving a wife four months pregnant and three daughters, on about Tk 10 lakh borrowed from relatives [GO0359]. The local MP said steps were being taken with the local administration to give the family whatever government help was possible [GO0361].
+
 > **Need to know**
 > - Is there any legal work visa route from Bangladesh to South Africa, and does BMET clear workers for it?
 
@@ -291,7 +322,7 @@ From 2 January 2025 Bangladeshis apply for Thai visas online at thaievisa.go.th:
 
 ### What goes wrong
 
-The Thai official warned that papers submitted through agents should be checked, that there could be fines, and that an applicant with forged or false documents may be blacklisted [GO0086].
+The Thai official warned that papers submitted through agents should be checked, that there could be fines, and that an applicant with forged or false documents may be blacklisted [GO0086]. In May 2026 tourism sector people said Thai visas were taking a long time and applications were regularly refused, some even from people who had held a Thai visa before [GO0362].
 
 > **Need to know**
 > - What is the Thai e-visa fee for Bangladeshis in 2026?
@@ -319,9 +350,19 @@ Chinese government scholarships for 2027-28 (Type A, through China's embassy in 
 
 ## Sri Lanka
 
+### Is it open, and how people go
+
+Tourists can go to Sri Lanka after applying online; a direct ticket costs at least Tk 70,000, tourism sector people said in May 2026 [GO0364].
+
 ### What goes wrong
 
 On 1 November 2025 immigration police at Dhaka airport stopped 22 of 30 workers going to Sri Lanka through China Civil Engineering Construction Corporation (CCECC) for a two-year ADB-funded (Asian Development Bank) project, and told them to get clearance from the Special Branch head office [GO0172, GO0166, GO0167]. CCECC's recruiter said they had BMET certificates and both embassies' no-objection letters and the other eight flew on the same papers; a Special Branch officer said their visas read "no work permit" [GO0147, GO0148].
+
+## Nepal
+
+### Is it open, and how people go
+
+Nepal still gives Bangladeshis a visa on arrival, tourism sector people said in May 2026; a ticket under Tk 40,000 is hard to find [GO0363]. Brokers have flown young men promised Australia to Kathmandu instead and held them there for ransom (see Australia) [GO0187, GO0201].
 
 ## Mauritius
 

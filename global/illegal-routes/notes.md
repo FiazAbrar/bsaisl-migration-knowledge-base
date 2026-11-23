@@ -415,3 +415,11 @@ Checked 19 November 2026 against facts.csv quotes and the saved sources. All cha
 ## Held items, round 2 (prefix GI, 23 Nov 2026)
 
 8 items (heldout2-illegal-routes.json): 7 added (GI0433 to GI0450), 1 duplicate (Shayek Ahmad's route via Saudi Arabia and Kuwait, already GI0364). The UNHCR worldwide asylum figure for 2023 (75,867) and Reuters' Europe-only figure (40,332) cover different areas, so both stand.
+
+## Held items, round 4 (prefix GI, 23 Nov 2026)
+
+Five held items (held4-illegal-routes.json). Added: foreign scam-centre rings raided in Chattogram and Cox's Bazar (GI0451 to GI0454, "Cambodia, Myanmar and Laos: scam compounds", What happens); Bangladesh embassy and Tunisian navy details for the February 2024 boat fire (GI0455 to GI0457); the embassy's survivor account of the August 2026 Tobruk boat (GI0458 to GI0462), which replaces the editorial's secondhand summary GI0349 (no longer cited).
+
+### Resolved conflicts
+
+- Shahriar Ahmed Emon (Cyprus): this doc said he left for the job and disappeared on 12 June 2026 (OB0001 to OB0003, Prothom Alo 22 June, a report built on Cyprus police and CID statements); the Other destinations doc says 11 June (Prothom Alo 23 June, the family's account). Settled on 11 June. The family account is first-hand and internally consistent: he spoke to his mother on the afternoon of 11 June, sent his roommate his location at 9 pm local time, a ransom message came from his WhatsApp at about 10 pm, and the roommate reported him missing to police the next morning, 12 June (GI0463 to GI0465). The body was found on Sunday 21 June, which the 23 June report calls ten days after he left (11 June); the 22 June report's "nine days" of search fits a police case opened on 12 June, which is the likely origin of its date. OB0001 is now cited only for his enrolment; OB0002 and OB0003 are no longer cited. Both docs now say 11 June.
