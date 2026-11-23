@@ -550,6 +550,6 @@ Agent R, 9 November 2026. Fact ids R0001-R0259. Facts R0001-R0123 are Bangladesh
 
 ## Prothom Alo chunk jordan-1 (PD facts, 23 Nov 2026)
 
-- The 454-worker wage case: the doc's sources name the factory Achilles Apparel and give about 18 months of embassy effort; Prothom Alo (4 Feb 2024, PD0001-PD0007) names it "Asil" (আছিল) in Al Tajamouat and quotes the embassy as saying talks took "more than two years" (PD0005, logged, not cited). The doc's line 820 separately names an "Aseel factory" closure. Check whether Achilles and Asil/Aseel are the same factory.
+- Resolved: the 454-worker wage case. Prothom Alo (4 Feb 2024) spells the factory আছিল, a Bangla rendering of Achilles; it is the same event as the Achilles Apparel case (same 454 workers, December 2023 lay-off, February 2024 payout through the Embassy and MOL), so the doc treats it as one case and drops the spelling. Prothom Alo's "more than two years" of talks (PD0005) is a rounded figure from complaints that began in late 2022; the doc keeps Fibre2Fashion's "about 18 months". The "Aseel factory" in Better Work Jordan's 2025 report (H0228) is a separate closure.
 - PD0015: the Sept 2024 Tusker notice gives age 18-30 in its table but 20-35 in its text; not written into the doc.
 - PD0011 (Mar 2024 medical Tk 1,000, fingerprints Tk 220) duplicates facts already in the doc; logged, not cited.

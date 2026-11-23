@@ -2312,3 +2312,8 @@ Searches run: "দুবাই ভিসা খোলা ২০২৫ বাং�
 3. **Pay and take-home for common jobs, plus BMET card on a visit visa (Q4, Q7).** People ask "বেতন কত" and "ভিজিট ভিসায় BMET কার্ড লাগবে?" The doc has one 2025 permission letter and the taxi figure, but no 2026 range for helper, cleaner, guard or rider net of food and housing. It also says nothing on whether visit-visa travellers need or can get a BMET card at the airport. Fix: add a 2026 pay table from recent BMET permission letters or labour-wing data, and one line on BMET rules for visit-visa travellers.
 
 Smaller: upper age limit for men (Q12, line 472).
+
+## Resolved conflicts (23 Nov 2026)
+
+- 2024 protesters freed and returned: 186 (embassy sources, 28 Dec 2024, PU0065), 188 (Jago News Dec 2024, N0102; the ministry in Aug 2025), 189 (returnees, June 2025), 212 pardoned by Feb 2026. Not a contradiction: a running count taken on different dates, and the doc gives each with its date. No Need to know.
+- Saleh Ahmad's years abroad (35 vs 27 in two articles): left out of the doc; it changes nothing for a reader.

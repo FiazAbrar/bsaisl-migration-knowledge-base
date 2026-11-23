@@ -544,13 +544,12 @@ The supervising organisation sends a demand letter to the Bangladeshi sending or
 
 #### The zero-cost government route (IM Japan)
 
-Under the Ministry's agreement with IM Japan (the International Manpower Development Organization, Japan), trainees go with no migration cost after BMET's six-month Japanese course at a TTC or Institute of Marine Technology; IM Japan then tests their language and fitness [R0271, R0272]. By August 2023, 461 had gone this way; they were paid JPY 150,000 to 190,000 a month and get a one-off JPY 600,000 to 1,000,000 on return after 3 to 5 years [R0271, R0273]. From 2017 to 2024, 702 workers went through IM Japan [R0254]. Prothom Alo described the route in 2025 as a four-month Japanese course at a TTC, then a test, then four more months of training run by IM Japan before going as interns, with pay of Tk 1,24,500 to 1,57,700 a month in Japan [PJ0016, PJ0065, PJ0017].
+Under the Ministry's agreement with IM Japan (the International Manpower Development Organization, Japan), trainees go with no migration cost after BMET's Japanese course at a TTC or Institute of Marine Technology; IM Japan then tests their language and fitness [R0271, R0272]. As reported in April 2025, the course lasts four months and those who pass get four more months of training managed by IM Japan before going as interns; in 2023 it was six months, then five [PJ0016, C0166]. By August 2023, 461 had gone this way; they were paid JPY 150,000 to 190,000 a month and get a one-off JPY 600,000 to 1,000,000 on return after 3 to 5 years [R0271, R0273]. From 2017 to 2024, 702 workers went through IM Japan [R0254]. Prothom Alo described the route in 2025 as a four-month Japanese course at a TTC, then a test, then four more months of training run by IM Japan before going as interns, with pay of Tk 1,24,500 to 1,57,700 a month in Japan [PJ0016, PJ0065, PJ0017].
 
 **Onodera User Run.** On 10 April 2025 the Ministry signed an MoU with Onodera User Run Inc., a private Japanese company, under which Bangladeshi workers get free Japanese and technical training and those trained go to jobs in Japan without migration cost [PJ0013]. The training covers caregiving, industrial packaging, plastic moulding, rod binding, scaffolding, car painting, welding and car mechanics [PJ0014].
 
 > **Need to know**
 > - Is the IM Japan programme still recruiting in 2026, and how does a TTC graduate apply?
-> - How long are BMET's course and IM Japan's own training in 2026: six and five months, as in 2023, or four and four, as reported in 2025 [C0166, PJ0016]?
 > - Has anyone gone to Japan under the Onodera User Run MoU, where is its training held, and how does a worker apply?
 
 ### Who pays what on TITP
