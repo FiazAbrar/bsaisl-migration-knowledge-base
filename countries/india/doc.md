@@ -92,7 +92,7 @@ The people in the reporting entered India illegally and worked as labourers and 
 
 ### Who gets a visa now
 
-Since July 2024 India has limited tourist and other visas for Bangladeshis, except for emergency medical treatment, bankers said in November 2024 [XI0023]. In December 2024 Prothom Alo reported tourist visas closed, with medical and higher-education visas given only on a limited scale [XI0141]. Travel to India for treatment and tourism fell sharply as a result, people in the sector said in March 2025 [XI0026].
+Since July 2024 India has limited tourist and other visas for Bangladeshis, except for emergency medical treatment, bankers said in November 2024 [XI0023]. In December 2024 Prothom Alo reported tourist visas closed, with medical and higher-education visas given only on a limited scale [XI0141]. In May 2026 five people who travel abroad regularly told Prothom Alo that India's visa had been closed for nearly two years [XI0142]. Travel to India for treatment and tourism fell sharply as a result, people in the sector said in March 2025 [XI0026].
 
 > **Need to know**
 > - Where does a Bangladeshi apply for an Indian visa in 2026 (the Indian Visa Application Centres in Bangladesh), what does each visa cost, and how long does a medical visa take?

@@ -2126,7 +2126,7 @@ It costs RM60 plus the visa fee [S0007]; IMI's client charter gives 5 working da
 
 ## Tourist visa (social visit)
 
-Bangladeshis need an eVISA to visit for tourism, family or short business, and may stay up to 30 days [V0001, V0003]. Ordinary visits get a single-entry visa; multiple-entry is only for business, medical treatment, Fly & Cruise and wedding tourism [V0009]. It never allows work or study (see Can you work?) [V0046].
+Bangladeshis need an eVISA to visit for tourism, family or short business, and may stay up to 30 days [V0001, V0003]. Ordinary visits get a single-entry visa; multiple-entry is only for business, medical treatment, Fly & Cruise and wedding tourism [V0009]. It never allows work or study (see Can you work?) [V0046]. People in the tourism sector told Prothom Alo in May 2026 that Malaysia was not giving eVISAs to Bangladeshis on new passports, only to those with earlier travel experience [MP0780].
 
 ### Step 1: Prepare
 

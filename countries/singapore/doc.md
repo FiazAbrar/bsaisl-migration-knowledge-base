@@ -1527,7 +1527,7 @@ Take your passport and digital work pass or card to come back in [D0181]. Pay du
 
 ## Visit visa (tourism, family and friends)
 
-A Bangladeshi with an ordinary passport visiting Singapore as a tourist, to see family or friends, or for business needs an entry visa, applied for and approved before travelling (see Visas not open to Bangladeshis) [V0002, V0153]. The visa is only permission to travel and ask for entry: at Changi, ICA officers decide whether to let you in and for how many days, and a valid visa doesn't guarantee entry [V0003, V0095]. The same visa covers social and business visits; Form 14A (the visa application form) asks which purpose applies [V0031, V0105]. A visit pass doesn't allow work, apart from a few short activities MOM exempts (see Can you work?) [V0071].
+A Bangladeshi with an ordinary passport visiting Singapore as a tourist, to see family or friends, or for business needs an entry visa, applied for and approved before travelling (see Visas not open to Bangladeshis) [V0002, V0153]. The visa is only permission to travel and ask for entry: at Changi, ICA officers decide whether to let you in and for how many days, and a valid visa doesn't guarantee entry [V0003, V0095]. The same visa covers social and business visits; Form 14A (the visa application form) asks which purpose applies [V0031, V0105]. A visit pass doesn't allow work, apart from a few short activities MOM exempts (see Can you work?) [V0071]. People in the tourism sector told Prothom Alo in May 2026 that Singapore was not giving e-visas to Bangladeshis on new passports, only to those with earlier travel experience [PS0042].
 
 There are two ways to apply:
 

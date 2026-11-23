@@ -2195,7 +2195,7 @@ Take your passport and digital work pass or card to come back in <sup>[244](#o24
 
 ## 7 Visit visa (tourism, family and friends)
 
-A Bangladeshi with an ordinary passport visiting Singapore as a tourist, to see family or friends, or for business needs an entry visa, applied for and approved before travelling (see [Visas not open to Bangladeshis](#visas-not-open-to-bangladeshis)) <sup>[51](#o51), [245](#o245)</sup>. The visa is only permission to travel and ask for entry: at Changi, ICA officers decide whether to let you in and for how many days, and a valid visa doesn't guarantee entry <sup>[51](#o51), [246](#o246)</sup>. The same visa covers social and business visits; Form 14A (the visa application form) asks which purpose applies <sup>[2](#o2), [247](#o247)</sup>. A visit pass doesn't allow work, apart from a few short activities MOM exempts (see [Can you work?](#can-you-work)) <sup>[5](#o5)</sup>.
+A Bangladeshi with an ordinary passport visiting Singapore as a tourist, to see family or friends, or for business needs an entry visa, applied for and approved before travelling (see [Visas not open to Bangladeshis](#visas-not-open-to-bangladeshis)) <sup>[51](#o51), [245](#o245)</sup>. The visa is only permission to travel and ask for entry: at Changi, ICA officers decide whether to let you in and for how many days, and a valid visa doesn't guarantee entry <sup>[51](#o51), [246](#o246)</sup>. The same visa covers social and business visits; Form 14A (the visa application form) asks which purpose applies <sup>[2](#o2), [247](#o247)</sup>. A visit pass doesn't allow work, apart from a few short activities MOM exempts (see [Can you work?](#can-you-work)) <sup>[5](#o5)</sup>. People in the tourism sector told Prothom Alo in May 2026 that Singapore was not giving e-visas to Bangladeshis on new passports, only to those with earlier travel experience <sup>[N80](#n80)</sup>.
 
 There are two ways to apply:
 
@@ -2206,13 +2206,13 @@ There are two ways to apply:
 
 ### 7.1 Cost and time
 
-- **Visa fee:** S$30 per person, non-refundable <sup>[2](#o2), [51](#o51)</sup>. Through an AVA you pay it in taka plus the agent's service charge <sup>[51](#o51)</sup>. At Saimon Global, one of the AVAs, the total is Tk 4,130: Tk 2,830 for the visa and Tk 1,300 service charge <sup>[N80](#n80)</sup>.
+- **Visa fee:** S$30 per person, non-refundable <sup>[2](#o2), [51](#o51)</sup>. Through an AVA you pay it in taka plus the agent's service charge <sup>[51](#o51)</sup>. At Saimon Global, one of the AVAs, the total is Tk 4,130: Tk 2,830 for the visa and Tk 1,300 service charge <sup>[N81](#n81)</sup>.
 
   > **Need to know**
   > - What service charge do the other 21 AVAs take for a Singapore visit visa?
   > - Is there a cap on the AVA service charge set by the High Commission?
 
-- **Processing time:** at least 5 working days through the High Commission in Dhaka, excluding the day of submission, and longer for incomplete files or in peak periods <sup>[51](#o51)</sup>. Saimon Global warns some applications take more than a month <sup>[N80](#n80)</sup>. Through a local contact in Singapore, ICA processes within 3 working days, excluding the day of submission, though some take longer <sup>[2](#o2)</sup>.
+- **Processing time:** at least 5 working days through the High Commission in Dhaka, excluding the day of submission, and longer for incomplete files or in peak periods <sup>[51](#o51)</sup>. Saimon Global warns some applications take more than a month <sup>[N81](#n81)</sup>. Through a local contact in Singapore, ICA processes within 3 working days, excluding the day of submission, though some take longer <sup>[2](#o2)</sup>.
 - **Validity and entries:** ICA decides how long each visa is valid, so apply about 30 days before you travel <sup>[250](#o250), [2](#o2)</sup>. Form 14A lets you ask for a single, double, triple or multiple journey visa, but you may be given a single or double journey visa instead of the multiple journey visa you asked for <sup>[247](#o247), [251](#o251)</sup>. To ask for a longer validity, give the reason in the "Additional Information" field <sup>[252](#o252)</sup>. A visa's validity can't be extended and its type can't be changed; you apply again once it expires or is used <sup>[253](#o253)</sup>.
 
 <a id="step-1-find-a-local-contact-or-go-to-an-ava"></a>
@@ -2233,7 +2233,7 @@ There are two ways to apply:
    - **Motijheel, Paltan and Kakrail:** Hajee Air Travels, Paltan China Town, West Tower (15th floor), Nayapaltan VIP Road, +8801712620961 <sup>[51](#o51)</sup>; PS Travels & Tours, Green City Regency (6th floor), 26 Kakrail, +8801711861014 <sup>[51](#o51)</sup>; Valencia Air Travels & Tours, Paramount Heights (2nd floor), 65/2/1 Box Culvert Road, Purana Paltan, +8801712599700 <sup>[51](#o51)</sup>; Victory Travels Ltd, 71 Motijheel C/A, +8802223389608 <sup>[51](#o51)</sup>.
    - **Elsewhere in Dhaka:** Lexus Tours & Travels, Rupayan Trade Centre (3rd floor), 114 Kazi Nazrul Islam Avenue, Banglamotor, hotline 16552 <sup>[51](#o51)</sup>; Bextrade Limited, BEL Tower (ground floor), 19 Dhanmondi Road 1, visa@bextrade.net, +8801329726363 <sup>[51](#o51)</sup>; Privileged World Travel Club, Mukto Bangla Shopping Complex (4th floor, rooms 33-34), Mirpur 1, +8801676592642 <sup>[51](#o51)</sup>; Regency Travels Limited, Uttarayon (7th floor), 16 Sonargaon Janapath, Sector 9, Uttara, visa@regencytravelsltd.com, +880255080828 <sup>[51](#o51)</sup>.
 
-   Any other travel agency or "visa processing" office that offers a Singapore visa has to pass your file to one of these, since the High Commission accepts applications only through them; Saimon Global, for example, asks other travel agents to submit at its counter <sup>[51](#o51), [N80](#n80)</sup>.
+   Any other travel agency or "visa processing" office that offers a Singapore visa has to pass your file to one of these, since the High Commission accepts applications only through them; Saimon Global, for example, asks other travel agents to submit at its counter <sup>[51](#o51), [N81](#n81)</sup>.
 
 <a id="step-2-prepare-the-papers"></a>
 
@@ -2245,10 +2245,10 @@ You'll need:
 - **A photocopy of the passport's bio-data page** <sup>[51](#o51)</sup>.
 - **Form 14A,** filled in and signed by you; the form is free from ICA's website <sup>[2](#o2), [247](#o247)</sup>. It asks for your occupation, annual income in Singapore dollars, the type of visa, the purpose, where you will stay in Singapore (a relative's or friend's home, or a hotel) with the full address, any country you lived in for a year or more in the last 5 years, and whether you have ever been refused entry, deported, convicted or prohibited from entering Singapore <sup>[247](#o247)</sup>. False or misleading answers can be prosecuted and any pass withdrawn <sup>[247](#o247)</sup>.
 - **Form V39A (the LOI),** signed by your local contact: an individual adds the NRIC (Singapore identity card) number, address, phone and email, and a company its UEN (Unique Entity Number, its registration number) and the signatory's name, NRIC and designation <sup>[255](#o255)</sup>.
-- **A recent colour photo:** taken within 3 months, white background, matt or semi-matt, full face, face 25 to 35 mm from chin to crown; religious headgear is allowed if it doesn't hide the face <sup>[51](#o51)</sup>. Saimon Global asks for two <sup>[N80](#n80)</sup>.
-- **Supporting papers the AVA asks for:** Saimon Global asks for an air ticket booking, a hotel booking, and a bank statement with a solvency certificate <sup>[N80](#n80)</sup>. ICA can ask for more documents case by case <sup>[2](#o2)</sup>.
+- **A recent colour photo:** taken within 3 months, white background, matt or semi-matt, full face, face 25 to 35 mm from chin to crown; religious headgear is allowed if it doesn't hide the face <sup>[51](#o51)</sup>. Saimon Global asks for two <sup>[N81](#n81)</sup>.
+- **Supporting papers the AVA asks for:** Saimon Global asks for an air ticket booking, a hotel booking, and a bank statement with a solvency certificate <sup>[N81](#n81)</sup>. ICA can ask for more documents case by case <sup>[2](#o2)</sup>.
 - **Translations** of any document not in English, by the issuing country's embassy or a notary public, or a private translation attested by the embassy or notarised <sup>[2](#o2)</sup>.
-- **Government employees:** an LOI signed by officials of Bangladesh's Ministry of Foreign Affairs, according to Saimon Global <sup>[N80](#n80)</sup>.
+- **Government employees:** an LOI signed by officials of Bangladesh's Ministry of Foreign Affairs, according to Saimon Global <sup>[N81](#n81)</sup>.
 
 > **Need to know**
 > - How much money in the bank statement do AVAs and the High Commission expect for a 7-day tourist visit?
@@ -2258,14 +2258,14 @@ You'll need:
 
 ### 7.4 Step 3: Submit at the AVA and pay
 
-1. <a id="step-3-submit-at-the-ava-and-pay-item-1"></a>**Hand in the papers in person.** Saimon Global takes applications Sunday to Thursday, 9 am to 2 pm, and returns passports 9 am to 4 pm, at its Singapore Visa Application Center, Wali Center (3rd floor), House 74, Gulshan Avenue, Gulshan 1 <sup>[N80](#n80)</sup>.
-2. <a id="step-3-submit-at-the-ava-and-pay-item-2"></a>**Pay the visa fee in taka and the service charge** (see [Cost and time](#cost-and-time)); neither is refunded <sup>[N80](#n80), [2](#o2)</sup>.
+1. <a id="step-3-submit-at-the-ava-and-pay-item-1"></a>**Hand in the papers in person.** Saimon Global takes applications Sunday to Thursday, 9 am to 2 pm, and returns passports 9 am to 4 pm, at its Singapore Visa Application Center, Wali Center (3rd floor), House 74, Gulshan Avenue, Gulshan 1 <sup>[N81](#n81)</sup>.
+2. <a id="step-3-submit-at-the-ava-and-pay-item-2"></a>**Pay the visa fee in taka and the service charge** (see [Cost and time](#cost-and-time)); neither is refunded <sup>[N81](#n81), [2](#o2)</sup>.
 3. <a id="step-3-submit-at-the-ava-and-pay-item-3"></a>**Get the visa reference number** from the agent: you need it with your passport number to track the application and retrieve the e-Visa <sup>[256](#o256), [257](#o257)</sup>.
 4. <a id="step-3-submit-at-the-ava-and-pay-item-4"></a>**Wait at least 5 working days** <sup>[51](#o51)</sup>. If it is still pending after that, go back to the AVA, which is also your contact for any question about the application <sup>[251](#o251)</sup>.
 
 > **Need to know**
 > - What receipt does an AVA give (printed SAVE acknowledgement with the reference number, or only a money receipt)?
-> - Does the High Commission phone or video-call applicants to check their details, as a Bangla outlet reported in 2025? <sup>[N81](#n81)</sup>
+> - Does the High Commission phone or video-call applicants to check their details, as a Bangla outlet reported in 2025? <sup>[N82](#n82)</sup>
 
 <a id="step-4-check-the-e-visa-is-real-and-print-it"></a>
 
@@ -2332,7 +2332,7 @@ ICA decides how long to extend, based on your reasons and whether you have Singa
 
 ### 7.9 Can you work?
 
-No. A visitor may not do any job, paid or unpaid, or any business, without a work pass, except the short activities MOM (the Ministry of Manpower) exempts (see [Business visit](#business-visit)) <sup>[5](#o5)</sup>. On Form 14A you sign an undertaking not to work, and the form warns that overstaying or working illegally can bring mandatory jail and caning <sup>[247](#o247)</sup>. Breaking the undertaking lets the Controller of Immigration cancel your pass and order you to leave within 24 hours <sup>[247](#o247)</sup>. An overstayer can be jailed up to six months and caned at least three strokes, or fined up to S$6,000, then deported and barred from returning <sup>[15](#o15)</sup>. In December 2025 ICA arrested three visitors in Jurong West whose social visit passes had expired and who were suspected of working illegally, and in 2020 it arrested four Bangladeshis doing cleaning work in private homes without valid passes <sup>[N82](#n82), [49 (2020)](#o49)</sup>. A Bangladeshi overstayer working at a Singapore minimart was jailed one month and caned three strokes, then deported and barred <sup>[15](#o15)</sup>.
+No. A visitor may not do any job, paid or unpaid, or any business, without a work pass, except the short activities MOM (the Ministry of Manpower) exempts (see [Business visit](#business-visit)) <sup>[5](#o5)</sup>. On Form 14A you sign an undertaking not to work, and the form warns that overstaying or working illegally can bring mandatory jail and caning <sup>[247](#o247)</sup>. Breaking the undertaking lets the Controller of Immigration cancel your pass and order you to leave within 24 hours <sup>[247](#o247)</sup>. An overstayer can be jailed up to six months and caned at least three strokes, or fined up to S$6,000, then deported and barred from returning <sup>[15](#o15)</sup>. In December 2025 ICA arrested three visitors in Jurong West whose social visit passes had expired and who were suspected of working illegally, and in 2020 it arrested four Bangladeshis doing cleaning work in private homes without valid passes <sup>[N83](#n83), [49 (2020)](#o49)</sup>. A Bangladeshi overstayer working at a Singapore minimart was jailed one month and caned three strokes, then deported and barred <sup>[15](#o15)</sup>.
 
 <a id="if-the-visa-is-refused"></a>
 
@@ -2355,7 +2355,7 @@ Neither the High Commission nor ICA tells you why <sup>[251](#o251), [266](#o266
 
 #### 7.11.1 A visit visa "with a job"
 
-A visit visa never lets you work, whatever a broker promises, and visitors caught working are arrested (see [Can you work?](#can-you-work)) <sup>[5](#o5), [247](#o247), [N82](#n82)</sup>. A job in Singapore needs a work pass, which the employer applies for (see the work pass sections) <sup>[5](#o5), [268](#o268)</sup>.
+A visit visa never lets you work, whatever a broker promises, and visitors caught working are arrested (see [Can you work?](#can-you-work)) <sup>[5](#o5), [247](#o247), [N83](#n83)</sup>. A job in Singapore needs a work pass, which the employer applies for (see the work pass sections) <sup>[5](#o5), [268](#o268)</sup>.
 
 > **Need to know**
 > - What do Dhaka brokers charge for a Singapore "visit visa with job" package in 2026, and how many Bangladeshis were refused entry or caught working on visit visas last year?
@@ -2371,7 +2371,7 @@ Any e-Visa can be checked on ICA's "Enquire Application Status" with its referen
 #### 7.11.3 Scams tried by travellers
 
 - **Lying on Form 14A,** for example hiding a past refusal or deportation, can be prosecuted <sup>[247](#o247)</sup>.
-- **Travelling on another country's passport:** in 2023, Changi immigration caught two Bangladeshis using Indian passports bought through an agent and sent them back to India, where they were arrested <sup>[N83 (2023)](#n83)</sup>.
+- **Travelling on another country's passport:** in 2023, Changi immigration caught two Bangladeshis using Indian passports bought through an agent and sent them back to India, where they were arrested <sup>[N84 (2023)](#n84)</sup>.
 
 <a id="where-to-get-help"></a>
 
@@ -2486,23 +2486,23 @@ A PEI qualification is not automatically recognised in Singapore: employers and 
 
 1. <a id="step-1-get-accepted-and-registered-on-solar-item-1"></a>**Apply to the school** directly or through an education agent <sup>[274](#o274)</sup>. At a PEI, read the student contract before signing: only what it says is enforceable, not an agent's promises, and if you don't understand English the school must explain it in your language <sup>[274](#o274)</sup>.
 2. <a id="step-1-get-accepted-and-registered-on-solar-item-2"></a>**Pay course fees to the school, never the agent,** and keep every receipt <sup>[274](#o274)</sup>. An agent may only take its own fee as set in its agent contract <sup>[274](#o274)</sup>. A PEI that isn't in a fee insurance or protection scheme may not take more than two months' fees in advance <sup>[276](#o276)</sup>.
-3. <a id="step-1-get-accepted-and-registered-on-solar-item-3"></a>**Wait for the school to register you on SOLAR** (ICA's Student's Pass Online Application and Registration system); the school sends you the registration details, called the Registration Acknowledgement Letter <sup>[N84](#n84), [N85](#n85)</sup>. ICA issues only one Student's Pass at a time: you may apply to several schools but accept only one offer <sup>[N84](#n84)</sup>.
+3. <a id="step-1-get-accepted-and-registered-on-solar-item-3"></a>**Wait for the school to register you on SOLAR** (ICA's Student's Pass Online Application and Registration system); the school sends you the registration details, called the Registration Acknowledgement Letter <sup>[N85](#n85), [N86](#n86)</sup>. ICA issues only one Student's Pass at a time: you may apply to several schools but accept only one offer <sup>[N85](#n85)</sup>.
 
 <a id="step-2-apply-for-the-students-pass"></a>
 
 ### 9.4 Step 2: Apply for the Student's Pass
 
 1. <a id="step-2-apply-for-the-students-pass-item-1"></a>**Apply 2 to 3 months before the course starts,** from Bangladesh: you don't need to be in Singapore, and ICA advises applying before you travel because you can't extend a visit pass while the application is pending <sup>[273](#o273)</sup>.
-2. <a id="step-2-apply-for-the-students-pass-item-2"></a>**Fill in eForm 16 on SOLAR** with your passport details, programme and start date, a Singapore address if you have one, and a reachable email <sup>[N85](#n85)</sup>. Write your full name exactly as in the passport, with no initials <sup>[N84](#n84)</sup>. Upload the signed Form 16, the photo and a clear image of the passport bio-data page by the deadline shown, or the draft is deleted; after submitting you can't change the form, and the "Withdraw" button cancels the application <sup>[N84](#n84)</sup>. Have ready your passport bio-data page, birth certificate if asked, the countries you have lived in, your education, jobs and how you will be supported, your family's details, and a photo taken within 3 months <sup>[273](#o273)</sup>. Documents not in English need official translations <sup>[2](#o2)</sup>.
-3. <a id="step-2-apply-for-the-students-pass-item-3"></a>**Pay S$45 within 7 days** by card or internet banking, or the application is withdrawn <sup>[N85](#n85)</sup>.
-4. <a id="step-2-apply-for-the-students-pass-item-4"></a>**Check the status** on SOLAR and your email, including spam; if ICA asks for more documents, upload them within 14 days or the application is withdrawn <sup>[N84](#n84)</sup>. If approved, print the outcome letter, which is the IPA <sup>[N85](#n85)</sup>.
+2. <a id="step-2-apply-for-the-students-pass-item-2"></a>**Fill in eForm 16 on SOLAR** with your passport details, programme and start date, a Singapore address if you have one, and a reachable email <sup>[N86](#n86)</sup>. Write your full name exactly as in the passport, with no initials <sup>[N85](#n85)</sup>. Upload the signed Form 16, the photo and a clear image of the passport bio-data page by the deadline shown, or the draft is deleted; after submitting you can't change the form, and the "Withdraw" button cancels the application <sup>[N85](#n85)</sup>. Have ready your passport bio-data page, birth certificate if asked, the countries you have lived in, your education, jobs and how you will be supported, your family's details, and a photo taken within 3 months <sup>[273](#o273)</sup>. Documents not in English need official translations <sup>[2](#o2)</sup>.
+3. <a id="step-2-apply-for-the-students-pass-item-3"></a>**Pay S$45 within 7 days** by card or internet banking, or the application is withdrawn <sup>[N86](#n86)</sup>.
+4. <a id="step-2-apply-for-the-students-pass-item-4"></a>**Check the status** on SOLAR and your email, including spam; if ICA asks for more documents, upload them within 14 days or the application is withdrawn <sup>[N85](#n85)</sup>. If approved, print the outcome letter, which is the IPA <sup>[N86](#n86)</sup>.
 
 <a id="step-3-receive-the-in-principle-approval-ipa"></a>
 
 ### 9.5 Step 3: Receive the In-Principle Approval (IPA)
 
-1. <a id="step-3-receive-the-in-principle-approval-ipa-item-1"></a>**Print the IPA letter.** For Bangladeshis it also serves as a single-entry visa, so you don't apply for a visa separately <sup>[273](#o273), [N84](#n84), [N85](#n85)</sup>. If you want to change school before collecting the pass, you must apply again <sup>[272](#o272)</sup>.
-2. <a id="step-3-receive-the-in-principle-approval-ipa-item-2"></a>**Before the IPA expires,** log in to SOLAR, accept the Student's Pass terms and conditions, and do the medical examination if asked (courses of 6 months or more), uploading ICA's Medical Examination Report <sup>[282](#o282), [N85](#n85)</sup>. You can do the medical in Bangladesh with a registered doctor; the report needs the clinic's stamp, the doctor's name and an exam date within the last 3 months, and an incomplete report gets the IPA withdrawn <sup>[N84](#n84)</sup>.
+1. <a id="step-3-receive-the-in-principle-approval-ipa-item-1"></a>**Print the IPA letter.** For Bangladeshis it also serves as a single-entry visa, so you don't apply for a visa separately <sup>[273](#o273), [N85](#n85), [N86](#n86)</sup>. If you want to change school before collecting the pass, you must apply again <sup>[272](#o272)</sup>.
+2. <a id="step-3-receive-the-in-principle-approval-ipa-item-2"></a>**Before the IPA expires,** log in to SOLAR, accept the Student's Pass terms and conditions, and do the medical examination if asked (courses of 6 months or more), uploading ICA's Medical Examination Report <sup>[282](#o282), [N86](#n86)</sup>. You can do the medical in Bangladesh with a registered doctor; the report needs the clinic's stamp, the doctor's name and an exam date within the last 3 months, and an incomplete report gets the IPA withdrawn <sup>[N85](#n85)</sup>.
 3. <a id="step-3-receive-the-in-principle-approval-ipa-item-3"></a>**Pay S$60 (and S$30 for a Multiple Journey Visa)** once SOLAR shows "Completed", by the deadline, or the application is withdrawn <sup>[282](#o282)</sup>.
 
 <a id="step-4-travel-and-complete-formalities"></a>
@@ -2511,7 +2511,7 @@ A PEI qualification is not automatically recognised in Singapore: employers and 
 
 1. <a id="step-4-travel-and-complete-formalities-item-1"></a>**Arrive no earlier than 1 month before the course starts,** and show the IPA letter at immigration; it doesn't guarantee entry <sup>[282](#o282)</sup>. Submit the SG Arrival Card as for a visit (see Visit visa, [Step 5: The employer applies; check your IPA](#step-5-the-employer-applies-check-your-ipa)) <sup>[120](#o120)</sup>.
 2. <a id="step-4-travel-and-complete-formalities-item-2"></a>**Check your visit pass expiry:** the IPA isn't an immigration pass, so extend the visit pass if formalities won't finish in time <sup>[282](#o282)</sup>.
-3. <a id="step-4-travel-and-complete-formalities-item-3"></a>**Enrol your biometrics in person** at the ICA Services Centre (book an e-Appointment with your FIN, the Foreign Identification Number, and the last three digits of the Application ID on page 1 of the IPA) or at an enrolment your school arranges; walk-ins without an appointment are turned away <sup>[282](#o282), [N84](#n84)</sup>.
+3. <a id="step-4-travel-and-complete-formalities-item-3"></a>**Enrol your biometrics in person** at the ICA Services Centre (book an e-Appointment with your FIN, the Foreign Identification Number, and the last three digits of the Application ID on page 1 of the IPA) or at an enrolment your school arranges; walk-ins without an appointment are turned away <sup>[282](#o282), [N85](#n85)</sup>.
 4. <a id="step-4-travel-and-complete-formalities-item-4"></a>**Download the digital Student's Pass from FileSG** (the government's document service), where it can also be verified <sup>[282](#o282)</sup>.
 
 <a id="can-you-work-1"></a>
@@ -2548,7 +2548,7 @@ ICA doesn't give reasons, and SWDA can't appeal for you <sup>[266](#o266), [274]
 
 #### 9.10.1 A private school place sold as a way to a job
 
-PEI students may not work, and a student caught working risks jail, deportation and a ban <sup>[274](#o274), [275 (2024)](#o275)</sup>. Singapore industry insiders say some private schools act as fronts that channel people into low-wage jobs under the pretext of training <sup>[N86](#n86)</sup>. A related trick uses the Training Employment Pass, a 3-month trainee pass: in 2025 a Bangladeshi lost about S$15,000 to a Bangladeshi fixer already working in Singapore, was told the pass would later become a Work Permit, and ended up a day labourer threatened with death if he complained <sup>[N86](#n86), [N87](#n87)</sup>. Only employers can apply for that pass, and by 19 June 2025 MOM had received 120 reports of its abuse that year <sup>[N87](#n87), [N86](#n86)</sup>.
+PEI students may not work, and a student caught working risks jail, deportation and a ban <sup>[274](#o274), [275 (2024)](#o275)</sup>. Singapore industry insiders say some private schools act as fronts that channel people into low-wage jobs under the pretext of training <sup>[N87](#n87)</sup>. A related trick uses the Training Employment Pass, a 3-month trainee pass: in 2025 a Bangladeshi lost about S$15,000 to a Bangladeshi fixer already working in Singapore, was told the pass would later become a Work Permit, and ended up a day labourer threatened with death if he complained <sup>[N87](#n87), [N88](#n88)</sup>. Only employers can apply for that pass, and by 19 June 2025 MOM had received 120 reports of its abuse that year <sup>[N88](#n88), [N87](#n87)</sup>.
 
 > **Need to know**
 > - What do Dhaka consultancies charge for Singapore "work-based diploma" or "study and work" packages in 2026?
@@ -2594,17 +2594,17 @@ No one, including your school, may keep your passport; if a school refuses to re
 
 ## 10 Medical treatment visit
 
-A patient going to Singapore for treatment, and anyone going with them, needs the same entry visa as a visitor (see Visit visa), and is given a short-term visit pass for medical treatment on arrival <sup>[51](#o51), [5](#o5)</sup>. The difference is the LOI: a medical visa needs an LOI from the medical side, meaning the hospital or doctor; one from a tourism agency is refused <sup>[251](#o251), [N88](#n88)</sup>.
+A patient going to Singapore for treatment, and anyone going with them, needs the same entry visa as a visitor (see Visit visa), and is given a short-term visit pass for medical treatment on arrival <sup>[51](#o51), [5](#o5)</sup>. The difference is the LOI: a medical visa needs an LOI from the medical side, meaning the hospital or doctor; one from a tourism agency is refused <sup>[251](#o251), [N89](#n89)</sup>.
 
 <a id="step-1-get-an-appointment-and-the-hospitals-supporting-letter"></a>
 
 ### 10.1 Step 1: Get an appointment and the hospital's supporting letter
 
 1. <a id="step-1-get-an-appointment-and-the-hospitals-supporting-letter-item-1"></a>**Contact the hospital's Bangladesh office or liaison:**
-   - **Parkway Hospitals Singapore (IHH Healthcare, the group that runs Mount Elizabeth Hospitals):** its Dhaka office is itself one of the High Commission's AVAs, at Suite B3, Level 4, House 10, Road 53, Gulshan 2, dhaka.bd@ihhhealthcare.com, +8802222281423 <sup>[51](#o51), [N89](#n89)</sup>. Its international offices arrange appointments (within 24 hours), cost estimates, flights, accommodation, and visa applications and extensions <sup>[N89](#n89)</sup>.
-   - **Raffles Hospital:** WhatsApp +65 8820 3190 or enquiries_bangladesh@raffleshospital.com; its patient liaison offices in Dhaka are United Link Ltd (Taj Marriott, Level 5, 25 Gulshan Avenue, Gulshan 1, +8801730727272) and GD Assist Limited (51-12 Bir Uttam AK Khandakar Road, +8801617666888) <sup>[N90](#n90)</sup>. Raffles' International Patients Centre handles visa applications and extensions <sup>[N91](#n91)</sup>.
+   - **Parkway Hospitals Singapore (IHH Healthcare, the group that runs Mount Elizabeth Hospitals):** its Dhaka office is itself one of the High Commission's AVAs, at Suite B3, Level 4, House 10, Road 53, Gulshan 2, dhaka.bd@ihhhealthcare.com, +8802222281423 <sup>[51](#o51), [N90](#n90)</sup>. Its international offices arrange appointments (within 24 hours), cost estimates, flights, accommodation, and visa applications and extensions <sup>[N90](#n90)</sup>.
+   - **Raffles Hospital:** WhatsApp +65 8820 3190 or enquiries_bangladesh@raffleshospital.com; its patient liaison offices in Dhaka are United Link Ltd (Taj Marriott, Level 5, 25 Gulshan Avenue, Gulshan 1, +8801730727272) and GD Assist Limited (51-12 Bir Uttam AK Khandakar Road, +8801617666888) <sup>[N91](#n91)</sup>. Raffles' International Patients Centre handles visa applications and extensions <sup>[N92](#n92)</sup>.
    - **MediConsult Limited,** Suite 503, Level 5, Plot 22, Gulshan Circle 2, is also on the AVA list <sup>[51](#o51)</sup>.
-2. <a id="step-1-get-an-appointment-and-the-hospitals-supporting-letter-item-2"></a>**Ask the hospital for a supporting letter from the doctor** for the visa; Mount Elizabeth says the visa can take up to 6 weeks to prepare <sup>[N88](#n88)</sup>.
+2. <a id="step-1-get-an-appointment-and-the-hospitals-supporting-letter-item-2"></a>**Ask the hospital for a supporting letter from the doctor** for the visa; Mount Elizabeth says the visa can take up to 6 weeks to prepare <sup>[N89](#n89)</sup>.
 
 > **Need to know**
 > - Do public hospitals (Singapore General Hospital, National University Hospital) issue LOIs for Bangladeshi patients, and through whom?
@@ -2624,10 +2624,10 @@ A patient going to Singapore for treatment, and anyone going with them, needs th
 
 ### 10.3 Step 3: If treatment takes longer
 
-1. <a id="step-3-if-treatment-takes-longer-item-1"></a>**Ask the hospital to extend the visit passes** of the patient and companions: Mount Elizabeth asks for your passport and the doctor's letter in person at its lobby front desk 2 weeks before the pass expires <sup>[N88](#n88)</sup>.
-2. <a id="step-3-if-treatment-takes-longer-item-2"></a>**The application goes to ICA,** which may ask for Form V75 signed by a Singapore doctor stating the illness and how long you must stay <sup>[5](#o5)</sup>. Bangladeshis need a local sponsor for an extension, and ICA charges S$40 once the stay reaches 90 days plus the S$30 visa fee (see Visit visa, Extending your stay) <sup>[5](#o5), [N88](#n88)</sup>.
+1. <a id="step-3-if-treatment-takes-longer-item-1"></a>**Ask the hospital to extend the visit passes** of the patient and companions: Mount Elizabeth asks for your passport and the doctor's letter in person at its lobby front desk 2 weeks before the pass expires <sup>[N89](#n89)</sup>.
+2. <a id="step-3-if-treatment-takes-longer-item-2"></a>**The application goes to ICA,** which may ask for Form V75 signed by a Singapore doctor stating the illness and how long you must stay <sup>[5](#o5)</sup>. Bangladeshis need a local sponsor for an extension, and ICA charges S$40 once the stay reaches 90 days plus the S$30 visa fee (see Visit visa, Extending your stay) <sup>[5](#o5), [N89](#n89)</sup>.
 
-ICA alone decides; if no answer comes before the pass expires, you must leave (see Visit visa, Extending your stay) <sup>[N88](#n88), [5](#o5)</sup>.
+ICA alone decides; if no answer comes before the pass expires, you must leave (see Visit visa, Extending your stay) <sup>[N89](#n89), [5](#o5)</sup>.
 
 > **Need to know**
 > - Does a hospital act as the local sponsor for a Bangladeshi patient's extension, or must the patient find a Singapore citizen or PR?
@@ -2651,7 +2651,7 @@ Only an LOI from a hospital or doctor supports a medical visa, so a "medical vis
 
 ### 10.6 Where to get help
 
-- **Appointments, the LOI and extensions:** the hospital's Dhaka office or international patients centre listed in [Step 1: Get an appointment and the hospital's supporting letter](#step-1-get-an-appointment-and-the-hospitals-supporting-letter) <sup>[51](#o51), [N90](#n90), [N91](#n91)</sup>.
+- **Appointments, the LOI and extensions:** the hospital's Dhaka office or international patients centre listed in [Step 1: Get an appointment and the hospital's supporting letter](#step-1-get-an-appointment-and-the-hospitals-supporting-letter) <sup>[51](#o51), [N91](#n91), [N92](#n92)</sup>.
 - **A pending or refused visa:** the AVA, or ICA's enquiry form (go.gov.sg/ica-visa-enquiry) <sup>[251](#o251), [260](#o260)</sup>.
 - **An extension you can't submit online:** ICA's STVP enquiry form, go.gov.sg/ica-stvp-enquiry <sup>[5](#o5)</sup>.
 
@@ -2661,9 +2661,9 @@ Only an LOI from a hospital or doctor supports a medical visa, so a "medical vis
 
 You don't need a Singapore visa if you change planes at Changi without passing arrival immigration <sup>[56](#o56)</sup>. The SG Arrival Card isn't needed either <sup>[120](#o120)</sup>.
 
-- **Stay in the transit area:** the airport treats you as a transit passenger if both flights are on one booking and your checked bags are tagged through to your final destination <sup>[N92](#n92)</sup>. If you have no onward boarding pass, follow the signs to the transfer desk inside the transit area; you go through security screening before the gate <sup>[N92](#n92)</sup>. Transit hotels inside Changi can be booked without clearing immigration <sup>[N92](#n92)</sup>.
+- **Stay in the transit area:** the airport treats you as a transit passenger if both flights are on one booking and your checked bags are tagged through to your final destination <sup>[N93](#n93)</sup>. If you have no onward boarding pass, follow the signs to the transfer desk inside the transit area; you go through security screening before the gate <sup>[N93](#n93)</sup>. Transit hotels inside Changi can be booked without clearing immigration <sup>[N93](#n93)</sup>.
 - **If you must clear immigration, you need a visa:** anyone who enters Singapore to collect a boarding pass or bags and check in again is not a transit traveller, and several low-cost airlines make passengers do exactly that <sup>[56](#o56)</sup>. A Bangladeshi then needs a Singapore visa, SGAC and all entry requirements, as for a visit, because the visa-free 96-hour transit is not open to Bangladeshis <sup>[56](#o56), [52](#o52)</sup>. Ask your airline before you book whether you can stay in the transit area <sup>[56](#o56)</sup>.
-- **Jewel:** Jewel Changi Airport, the complex with the Rain Vortex waterfall joined to Terminal 1's arrival hall, is outside the transit area, so visiting it means clearing immigration twice and needs a Singapore visa <sup>[N34](#n34), [N93](#n93)</sup>. The airport suggests at least five hours between flights <sup>[N34](#n34)</sup>. Without a visa you can see Jewel only from the Skytrain between Terminal 3 (Transit Area Station B) and Terminal 2 (Transit Area Station E) <sup>[N34](#n34)</sup>. The YOTELAIR hotel in Jewel is also outside the transit area <sup>[N34](#n34)</sup>. Jewel has no prayer room; the nearest are in the transit areas <sup>[N93](#n93)</sup>.
+- **Jewel:** Jewel Changi Airport, the complex with the Rain Vortex waterfall joined to Terminal 1's arrival hall, is outside the transit area, so visiting it means clearing immigration twice and needs a Singapore visa <sup>[N34](#n34), [N94](#n94)</sup>. The airport suggests at least five hours between flights <sup>[N34](#n34)</sup>. Without a visa you can see Jewel only from the Skytrain between Terminal 3 (Transit Area Station B) and Terminal 2 (Transit Area Station E) <sup>[N34](#n34)</sup>. The YOTELAIR hotel in Jewel is also outside the transit area <sup>[N34](#n34)</sup>. Jewel has no prayer room; the nearest are in the transit areas <sup>[N94](#n94)</sup>.
 - **Check your destination's own rules** for passengers arriving via Singapore <sup>[56](#o56)</sup>.
 
 <a id="scams-7"></a>
@@ -2671,7 +2671,7 @@ You don't need a Singapore visa if you change planes at Changi without passing a
 ### 11.1 Scams
 
 - **Carrying a bag for someone:** on 29 July 2025 the Central Narcotics Bureau (CNB) arrested five foreign women in the transit area of Changi Terminal 4, after two were seen exchanging luggage, and found about 26.9 kg of cocaine hidden in stuffed toys <sup>[293](#o293)</sup>. Trafficking more than 30 g of cocaine can bring the mandatory death penalty, so never carry a packet whose contents you don't know <sup>[293](#o293), [14](#o14)</sup>.
-- **Someone else's passport:** Changi immigration caught two Bangladeshis travelling on Indian passports bought through an agent and sent them back to India, where they were arrested <sup>[N83 (2023)](#n83)</sup>. Biometric checks at Singapore's checkpoints catch people using more than one identity or someone else's <sup>[294 (2023)](#o294)</sup>.
+- **Someone else's passport:** Changi immigration caught two Bangladeshis travelling on Indian passports bought through an agent and sent them back to India, where they were arrested <sup>[N84 (2023)](#n84)</sup>. Biometric checks at Singapore's checkpoints catch people using more than one identity or someone else's <sup>[294 (2023)](#o294)</sup>.
 - **Paid "arrival card" sites:** if you must clear immigration, the SG Arrival Card is free on ICA's own site; look-alike sites charge a fee (see Visit visa, [Step 5: The employer applies; check your IPA](#step-5-the-employer-applies-check-your-ipa)) <sup>[120](#o120), [262](#o262)</sup>.
 
 <a id="where-to-get-help-4"></a>
@@ -2679,7 +2679,7 @@ You don't need a Singapore visa if you change planes at Changi without passing a
 ### 11.2 Where to get help
 
 - **Before booking:** your airline, on whether you can stay in the transit area <sup>[56](#o56)</sup>.
-- **At Changi:** the Changi Experience Ambassador, +65 6595 6868 <sup>[N94](#n94)</sup>.
+- **At Changi:** the Changi Experience Ambassador, +65 6595 6868 <sup>[N95](#n95)</sup>.
 - **If you are held or refused boarding:** the Bangladesh High Commission in Singapore, +65 6255 0075, mission.singapore@mofa.gov.bd (see [Contacts](#contacts)) <sup>[182 (2022)](#o182)</sup>.
 
 <a id="employment-pass-ep"></a>
@@ -3153,19 +3153,19 @@ A domestic worker's Work Permit allows only household work at the approved addre
 
 ## 16 Asylum
 
-Singapore has no asylum law or procedure, and says it is not in a position to accept anyone seeking political asylum or refugee status, regardless of ethnicity, place of origin or background <sup>[N95 (2020)](#n95), [344](#o344), [345](#o345), [346 (2023)](#o346)</sup>. It is not party to the 1951 Refugee Convention or its 1967 Protocol <sup>[N95 (2020)](#n95)</sup>.
+Singapore has no asylum law or procedure, and says it is not in a position to accept anyone seeking political asylum or refugee status, regardless of ethnicity, place of origin or background <sup>[N96 (2020)](#n96), [344](#o344), [345](#o345), [346 (2023)](#o346)</sup>. It is not party to the 1951 Refugee Convention or its 1967 Protocol <sup>[N96 (2020)](#n96)</sup>.
 
 <a id="what-unhcr-does"></a>
 
 ### 16.1 What UNHCR does
 
-UNHCR (the UN refugee agency) may register and assess asylum-seekers in Singapore remotely, but registration gives no legal status there <sup>[N95 (2020)](#n95)</sup>. Singapore says it will help such people leave safely for a third country, working with UNHCR where appropriate, and that it respects non-refoulement (not returning anyone to danger) <sup>[344](#o344)</sup>. On 30 July 2020 UNHCR had one refugee and one asylum-seeker case active in Singapore <sup>[N95 (2020)](#n95)</sup>.
+UNHCR (the UN refugee agency) may register and assess asylum-seekers in Singapore remotely, but registration gives no legal status there <sup>[N96 (2020)](#n96)</sup>. Singapore says it will help such people leave safely for a third country, working with UNHCR where appropriate, and that it respects non-refoulement (not returning anyone to danger) <sup>[344](#o344)</sup>. On 30 July 2020 UNHCR had one refugee and one asylum-seeker case active in Singapore <sup>[N96 (2020)](#n96)</sup>.
 
 <a id="what-happens-to-someone-who-claims-asylum"></a>
 
 ### 16.2 What happens to someone who claims asylum
 
-Asylum-seekers who enter or stay without a valid pass may be prosecuted and held in detention until they are deported, unless UNHCR is given access to them and a third country is found <sup>[N95 (2020)](#n95)</sup>. UNHCR recorded three cases in 2019-2020 of people refused entry to Singapore and deported without their need for protection being assessed <sup>[N95 (2020)](#n95)</sup>. Staying past the end of a pass is itself a criminal offence <sup>[204](#o204)</sup>. Unpaid wages, injury and job loss are handled through MOM and the High Commission's labour wing (see If something goes wrong, and If a worker dies, is injured or loses the job) <sup>[184 (2022)](#o184), [21](#o21)</sup>.
+Asylum-seekers who enter or stay without a valid pass may be prosecuted and held in detention until they are deported, unless UNHCR is given access to them and a third country is found <sup>[N96 (2020)](#n96)</sup>. UNHCR recorded three cases in 2019-2020 of people refused entry to Singapore and deported without their need for protection being assessed <sup>[N96 (2020)](#n96)</sup>. Staying past the end of a pass is itself a criminal offence <sup>[204](#o204)</sup>. Unpaid wages, injury and job loss are handled through MOM and the High Commission's labour wing (see If something goes wrong, and If a worker dies, is injured or loses the job) <sup>[184 (2022)](#o184), [21](#o21)</sup>.
 
 > **Need to know**
 > - Has any Bangladeshi been registered with UNHCR or resettled from Singapore since 2020?
@@ -3255,19 +3255,19 @@ You'll need <sup>[351 (2022)](#o351), [352 (2021)](#o352), [78](#o78)</sup>:
 
 ### 18.1 Your bank account in Singapore
 
-How salary must be paid is under Work Permit, Your rights at work, "When and how you are paid" <sup>[106 (2024)](#o106)</sup>. At DBS/POSB, a Singapore bank, a Work Permit holder's account must be the POSB Payroll Account, which only Work Permit holders can open <sup>[N96](#n96)</sup>:
-- **How it is opened:** the employer applies through the bank-account module of Work Permit Online, MOM's employer system <sup>[N96](#n96)</sup>.
-- **Cost:** no initial deposit; S$2 a month if the average daily balance is under S$500, S$2 a month for more than 4 ATM cash withdrawals in a month, and S$2 for each branch withdrawal of S$2,000 or less <sup>[N96](#n96)</sup>.
-- **Limits:** a Work Permit holder may keep only one DBS/POSB deposit account, with a daily transaction limit of S$7,000 <sup>[N96](#n96)</sup>.
-- **Sending home:** DBS Remit, from the digibank app, with S$0 transfer fees <sup>[N96](#n96)</sup>.
+How salary must be paid is under Work Permit, Your rights at work, "When and how you are paid" <sup>[106 (2024)](#o106)</sup>. At DBS/POSB, a Singapore bank, a Work Permit holder's account must be the POSB Payroll Account, which only Work Permit holders can open <sup>[N97](#n97)</sup>:
+- **How it is opened:** the employer applies through the bank-account module of Work Permit Online, MOM's employer system <sup>[N97](#n97)</sup>.
+- **Cost:** no initial deposit; S$2 a month if the average daily balance is under S$500, S$2 a month for more than 4 ATM cash withdrawals in a month, and S$2 for each branch withdrawal of S$2,000 or less <sup>[N97](#n97)</sup>.
+- **Limits:** a Work Permit holder may keep only one DBS/POSB deposit account, with a daily transaction limit of S$7,000 <sup>[N97](#n97)</sup>.
+- **Sending home:** DBS Remit, from the digibank app, with S$0 transfer fees <sup>[N97](#n97)</sup>.
 
-**Before you leave Singapore for good, empty or close the account.** Once your Work Permit is cancelled or expires and you have left, the account is frozen, not closed: the money stays but you cannot use it, transfer it online or receive salary into it until you come back to work in Singapore <sup>[N97](#n97)</sup>. It is not frozen while a work injury or salary claim is pending with MOM; once frozen it cannot receive money, so you may need to arrange with your employer for a final payment to go straight to your bank account in Bangladesh <sup>[N97](#n97)</sup>. The Singapore Police Force (SPF), MOM and MAS (the Monetary Authority of Singapore, which licenses payment services) are working with banks to freeze former Work Permit holders' accounts so criminal syndicates cannot use them <sup>[N97](#n97)</sup>.
+**Before you leave Singapore for good, empty or close the account.** Once your Work Permit is cancelled or expires and you have left, the account is frozen, not closed: the money stays but you cannot use it, transfer it online or receive salary into it until you come back to work in Singapore <sup>[N98](#n98)</sup>. It is not frozen while a work injury or salary claim is pending with MOM; once frozen it cannot receive money, so you may need to arrange with your employer for a final payment to go straight to your bank account in Bangladesh <sup>[N98](#n98)</sup>. The Singapore Police Force (SPF), MOM and MAS (the Monetary Authority of Singapore, which licenses payment services) are working with banks to freeze former Work Permit holders' accounts so criminal syndicates cannot use them <sup>[N98](#n98)</sup>.
 
 <a id="send-through-a-bank-or-licensed-remittance-company-never-hundi"></a>
 
 ### 18.2 Send through a bank or licensed remittance company, never hundi
 
-Bangladesh's government asks workers to send money only through legal channels, never hundi (informal transfer through unlicensed agents) <sup>[14](#o14)</sup>. Money sent through legal channels earns the receiver a 2.5% government cash incentive, sometimes with a further 2.5% from the bank, and the 2026-27 budget keeps the government incentive <sup>[N98](#n98), [355](#o355)</sup>.
+Bangladesh's government asks workers to send money only through legal channels, never hundi (informal transfer through unlicensed agents) <sup>[14](#o14)</sup>. Money sent through legal channels earns the receiver a 2.5% government cash incentive, sometimes with a further 2.5% from the bank, and the 2026-27 budget keeps the government incentive <sup>[N99](#n99), [355](#o355)</sup>.
 
 In Singapore, every remittance business needs a MAS licence under the Payment Services Act, unless exempted; the penalties for unlicensed remittance are under What can get you jailed or deported, "Money" <sup>[356](#o356), [164 (2024)](#o164)</sup>. Hundi in the dormitories is prosecuted: in September 2024 police charged a 38-year-old man who, from 2021 to 2023, collected cash from construction workers in a dormitory and had his family in Bangladesh pay out the taka (over S$118,000), and a 33-year-old Bangladeshi who ran the same scheme from 2020 to 2022 <sup>[164 (2024)](#o164)</sup>. In April 2026 two Indian men were charged after a raid on Norris Road (Little India): one had moved more than S$38.6 million abroad, police seized more than S$314,000 in cash and 30 ATM cards, and the other held 22 ATM cards belonging to other Indian nationals <sup>[165](#o165)</sup>. The police tell people to use only banks and remittance companies licensed by MAS, because unlicensed ones are not regulated <sup>[164 (2024)](#o164)</sup>.
 
@@ -3276,14 +3276,14 @@ About half of Bangladeshis in Singapore send money by handing cash to a remittan
 > **Need to know**
 > - Did DBS stop taking cash from remittance houses after 31 October 2025, and can a worker still hand over cash at Agrani, NBL or Prime exchange houses in 2026?
 
-**Never lend, sell or "rent out" your bank account, ATM card or iBanking login:** letting anyone else use your POSB account is prohibited by the bank, and the penalties for money mules, up to caning, are under What can get you jailed or deported, "Money" <sup>[N97](#n97), [166](#o166)</sup>.
+**Never lend, sell or "rent out" your bank account, ATM card or iBanking login:** letting anyone else use your POSB account is prohibited by the bank, and the penalties for money mules, up to caning, are under What can get you jailed or deported, "Money" <sup>[N98](#n98), [166](#o166)</sup>.
 
 You'll need:
-- For a bKash wallet: the receiver's bKash number and full name exactly as registered <sup>[N98](#n98)</sup>.
+- For a bKash wallet: the receiver's bKash number and full name exactly as registered <sup>[N99](#n99)</sup>.
 - For a bank account: your own or a relative's account in Bangladesh <sup>[357](#o357)</sup>.
 
 1. <a id="send-through-a-bank-or-licensed-remittance-company-never-hundi-item-1"></a>**Check the company is licensed.** Open MAS's Financial Institutions Directory (eservices.mas.gov.sg/fid) and check the company is listed as a "Major Payment Institution" for "Cross-border Money Transfer Service"; 221 companies were listed in November 2026, each with its phone and address <sup>[358](#o358)</sup>. For example, Agrani Exchange House (of Agrani Bank) is listed at 5A Lembu Road, +65 6295 9731 <sup>[358](#o358), [359](#o359)</sup>. MAS says to check a company's contact details there if in doubt, because scammers pose as licensed firms <sup>[358](#o358)</sup>.
-2. <a id="send-through-a-bank-or-licensed-remittance-company-never-hundi-item-2"></a>**Choose the channel.** bKash's partners for sending from Singapore are Agrani Exchange, DBS Bank, NBL Singapore, Nium, Prime Exchange, SG QuickPay, Western Union, Dash, MoneyGram and Remitly <sup>[N98](#n98)</sup>. To send to a Nagad wallet, use a Nagad partner agent, bank or exchange house, including Western Union by agent, app or website; the receiver is told by SMS and gets the 2.5% incentive <sup>[N99](#n99)</sup>. To send straight into a bank account, use a bank or exchange house with a "drawing arrangement" with a Bangladeshi bank <sup>[357](#o357)</sup>. Hometown (see [Going home on leave and coming back](#going-home-on-leave-and-coming-back)) has also sent money home since November 2023; a user said in 2025 it charges a flat S$3 whatever the amount, and it was processing US$8 million a month <sup>[N13](#n13)</sup>.
+2. <a id="send-through-a-bank-or-licensed-remittance-company-never-hundi-item-2"></a>**Choose the channel.** bKash's partners for sending from Singapore are Agrani Exchange, DBS Bank, NBL Singapore, Nium, Prime Exchange, SG QuickPay, Western Union, Dash, MoneyGram and Remitly <sup>[N99](#n99)</sup>. To send to a Nagad wallet, use a Nagad partner agent, bank or exchange house, including Western Union by agent, app or website; the receiver is told by SMS and gets the 2.5% incentive <sup>[N100](#n100)</sup>. To send straight into a bank account, use a bank or exchange house with a "drawing arrangement" with a Bangladeshi bank <sup>[357](#o357)</sup>. Hometown (see [Going home on leave and coming back](#going-home-on-leave-and-coming-back)) has also sent money home since November 2023; a user said in 2025 it charges a flat S$3 whatever the amount, and it was processing US$8 million a month <sup>[N13](#n13)</sup>.
 3. <a id="send-through-a-bank-or-licensed-remittance-company-never-hundi-item-3"></a>**Compare the cost.** In August 2025, sending S$260 (USD 200) to Bangladesh cost 6.54% on average: a S$4.95 fee plus a 4.64% exchange-rate margin, about S$17; sending S$645 (USD 500) cost 5.71% <sup>[359](#o359)</sup>. For S$260 <sup>[359](#o359)</sup>:
    - NBL Money Transfer: 3.37% (S$5 fee, 1.45% margin), cash, under an hour.
    - InstaReM: 4.39%, to a bank account, same day.
@@ -3293,16 +3293,16 @@ You'll need:
    - Wise: 5.97%; Western Union: 6.14% in cash; Ample Transfer: 6.70%; Remitly: 8.19-8.55%.
 
    Bangladesh Bank's own survey put the average cost from Singapore for up to USD 200 at 2.51% in January-March and 1.76% in April-June 2026 <sup>[360](#o360)</sup>.
-4. <a id="send-through-a-bank-or-licensed-remittance-company-never-hundi-item-4"></a>**Send.** For bKash, go to a partner branch or agent with the receiver's bKash number and registered name and hand over the cash; up to Tk 2.5 lakh per transfer, as often as you like <sup>[N98](#n98)</sup>. Banks in Bangladesh credit remittances within 3 days at most <sup>[357](#o357)</sup>.
-5. <a id="send-through-a-bank-or-licensed-remittance-company-never-hundi-item-5"></a>**The family collects.** bKash money can be cashed out at BRAC Bank, City Bank and Q-Cash ATM booths for Tk 7 per thousand <sup>[N98](#n98)</sup>.
+4. <a id="send-through-a-bank-or-licensed-remittance-company-never-hundi-item-4"></a>**Send.** For bKash, go to a partner branch or agent with the receiver's bKash number and registered name and hand over the cash; up to Tk 2.5 lakh per transfer, as often as you like <sup>[N99](#n99)</sup>. Banks in Bangladesh credit remittances within 3 days at most <sup>[357](#o357)</sup>.
+5. <a id="send-through-a-bank-or-licensed-remittance-company-never-hundi-item-5"></a>**The family collects.** bKash money can be cashed out at BRAC Bank, City Bank and Q-Cash ATM booths for Tk 7 per thousand <sup>[N99](#n99)</sup>.
 
 > **Need to know**
-> - Does money used to buy Wage Earner Development Bonds, freelancing income, gifts, trade payments or donations get the 2.5% incentive, when a bank's 2025 guide says not <sup>[N100](#n100)</sup>?
+> - Does money used to buy Wage Earner Development Bonds, freelancing income, gifts, trade payments or donations get the 2.5% incentive, when a bank's 2025 guide says not <sup>[N101](#n101)</sup>?
 > - Which Nagad remittance partners operate in Singapore?
 > - Is Hometown listed in MAS's Financial Institutions Directory, or which licensed company sends its money?
 
 **If something goes wrong:**
-- bKash helpline: 16247, or +88-02-55663001 from abroad <sup>[N98](#n98)</sup>.
+- bKash helpline: 16247, or +88-02-55663001 from abroad <sup>[N99](#n99)</sup>.
 - Unlicensed remittance or a money-mule approach: the police hotline, 1800 255 0000 <sup>[361](#o361)</sup>.
 
 <a id="saving-and-pension-in-bangladesh"></a>
@@ -3407,8 +3407,8 @@ You'll need <sup>[368 (2022)](#o368)</sup>:
 
 ### 19.3 Step 2: Report to ICA and fly home
 
-1. <a id="step-2-report-to-ica-and-fly-home-item-1"></a>**If ICA has kept you on a Special Pass** (for example as a witness in a case), report to ICA's repatriation branch for your flight home when the pass ends; not reporting breaks the pass conditions, and staying on after it expires is overstaying <sup>[N101](#n101)</sup>.
-2. <a id="step-2-report-to-ica-and-fly-home-item-2"></a>**If you have already overstayed,** you can turn yourself in to ICA's repatriation branch, but that does not stop prosecution: a 68-year-old woman who surrendered after overstaying for 19 years was sentenced in October 2026 to 6 months' jail and a S$2,000 fine in place of caning <sup>[N101](#n101)</sup>. ICA and the police visit overstayers' last known home and work addresses <sup>[294 (2023)](#o294)</sup>.
+1. <a id="step-2-report-to-ica-and-fly-home-item-1"></a>**If ICA has kept you on a Special Pass** (for example as a witness in a case), report to ICA's repatriation branch for your flight home when the pass ends; not reporting breaks the pass conditions, and staying on after it expires is overstaying <sup>[N102](#n102)</sup>.
+2. <a id="step-2-report-to-ica-and-fly-home-item-2"></a>**If you have already overstayed,** you can turn yourself in to ICA's repatriation branch, but that does not stop prosecution: a 68-year-old woman who surrendered after overstaying for 19 years was sentenced in October 2026 to 6 months' jail and a S$2,000 fine in place of caning <sup>[N102](#n102)</sup>. ICA and the police visit overstayers' last known home and work addresses <sup>[294 (2023)](#o294)</sup>.
 3. <a id="step-2-report-to-ica-and-fly-home-item-3"></a>**The ticket.** For a Work Permit holder, the employer must pay the air ticket home whatever the reason the job ended <sup>[46 (2022)](#o46)</sup>. The Welfare Board also gives the Singapore labour wing money to send home stranded and detained workers: Tk 5 lakh in 2023-24 <sup>[114 (2024)](#o114)</sup>.
 
 > **Need to know**
@@ -3428,7 +3428,7 @@ A deported overstayer is barred from re-entering Singapore <sup>[370](#o370)</su
 
 ## 20 If a worker dies, is injured or loses the job
 
-WEWB pays grants and helps with the migrant insurance for workers who left with BMET clearance or joined the Board <sup>[111](#o111), [115 (2024)](#o115)</sup>. The High Commission's labour wing settles death and compensation cases, working with the company, MOM, WEWB, a law firm and the next of kin <sup>[184 (2022)](#o184)</sup>. In 2023-24 WEWB paid out Tk 127.6 crore (1 crore is Tk 10 million) in death compensation, unpaid wages, insurance and service benefits that the labour wings recovered from employers abroad, for the families of 1,852 dead workers <sup>[114 (2024)](#o114)</sup>. From all countries, 4,745 bodies of migrant workers came home in 2023-24, between 323 and 470 a month <sup>[114 (2024)](#o114)</sup>, a record 5,038 in 2025 <sup>[N102](#n102)</sup>, and 4,060 from January to September 2026, more than 14 a day <sup>[N103](#n103)</sup>. In those nine months of 2026, 66% came with "natural death" written as the cause, and road, work, fire, fall and electric-shock accidents caused more than 16% <sup>[N103](#n103)</sup>. BRAC's Migration Programme says a regular worker's body comes home roughly on time, but an irregular worker's, without valid papers, takes a long time <sup>[N103](#n103)</sup>.
+WEWB pays grants and helps with the migrant insurance for workers who left with BMET clearance or joined the Board <sup>[111](#o111), [115 (2024)](#o115)</sup>. The High Commission's labour wing settles death and compensation cases, working with the company, MOM, WEWB, a law firm and the next of kin <sup>[184 (2022)](#o184)</sup>. In 2023-24 WEWB paid out Tk 127.6 crore (1 crore is Tk 10 million) in death compensation, unpaid wages, insurance and service benefits that the labour wings recovered from employers abroad, for the families of 1,852 dead workers <sup>[114 (2024)](#o114)</sup>. From all countries, 4,745 bodies of migrant workers came home in 2023-24, between 323 and 470 a month <sup>[114 (2024)](#o114)</sup>, a record 5,038 in 2025 <sup>[N103](#n103)</sup>, and 4,060 from January to September 2026, more than 14 a day <sup>[N104](#n104)</sup>. In those nine months of 2026, 66% came with "natural death" written as the cause, and road, work, fire, fall and electric-shock accidents caused more than 16% <sup>[N104](#n104)</sup>. BRAC's Migration Programme says a regular worker's body comes home roughly on time, but an irregular worker's, without valid papers, takes a long time <sup>[N104](#n104)</sup>.
 
 > **Need to know**
 > - How many Bangladeshi workers died in Singapore each year from 2023 to 2026, and of what causes?
@@ -3471,7 +3471,7 @@ WEWB's death grant needs BMET emigration clearance or Board membership, and deat
    - The flight booking confirmation.
 
    If the death was accidental or work-related, add the police report; then give the name, colour NID or passport copy and phone of the family member receiving the body at Shahjalal airport, Dhaka, and the NOC is issued <sup>[377](#o377)</sup>. Labour and welfare wing: +65 6661 0279, 6255 0075, singaporelabourwing@yahoo.com.sg <sup>[377](#o377)</sup>.
-3. <a id="if-a-worker-dies-item-3"></a>**The family in Bangladesh can ask for help.** The family has to apply; if the worker left with BMET clearance or joined the Board through the mission, the Board pays to bring the body home, and if not, the family can still apply and the Board passes it to the Ministry, which pays from a yearly budget <sup>[N103](#n103)</sup>. WEWB takes the family's choice (body home or burial in Singapore) to the mission and follows the case until the body arrives, free <sup>[378](#o378), [379](#o379)</sup>. The Ministry also brings home the bodies of irregular, undocumented and destitute workers: the next of kin applies with what happened, the cause of death, proof of status (passport, work permit, smart card or foreign ID) and the death certificate; free, 7 working days <sup>[105](#o105)</sup>. Probash-Bondhu: 16135, +8809610102030 from abroad <sup>[16](#o16)</sup>.
+3. <a id="if-a-worker-dies-item-3"></a>**The family in Bangladesh can ask for help.** The family has to apply; if the worker left with BMET clearance or joined the Board through the mission, the Board pays to bring the body home, and if not, the family can still apply and the Board passes it to the Ministry, which pays from a yearly budget <sup>[N104](#n104)</sup>. WEWB takes the family's choice (body home or burial in Singapore) to the mission and follows the case until the body arrives, free <sup>[378](#o378), [379](#o379)</sup>. The Ministry also brings home the bodies of irregular, undocumented and destitute workers: the next of kin applies with what happened, the cause of death, proof of status (passport, work permit, smart card or foreign ID) and the death certificate; free, 7 working days <sup>[105](#o105)</sup>. Probash-Bondhu: 16135, +8809610102030 from abroad <sup>[16](#o16)</sup>.
 4. <a id="if-a-worker-dies-item-4"></a>**At the airport: Tk 35,000.** For every body that arrives, the airport welfare desk gives the family a Tk 35,000 cheque for transport and burial, free and at once, collectable within 3 months <sup>[380](#o380), [381](#o381)</sup>. A free ambulance from Dhaka and Chattogram airports is available on request <sup>[375](#o375)</sup>. You'll need <sup>[381](#o381), [380](#o380), [11](#o11)</sup>:
    - The deceased's passport copy.
    - A heirship certificate from the local chairman or commissioner.
@@ -3493,7 +3493,7 @@ WEWB's death grant needs BMET emigration clearance or Board membership, and deat
 
    > **Need to know**
    > - What are JBC's official claim form, document list and exclusions <sup>[115 (2024)](#o115)</sup>?
-   > - Must the family apply for the death payment, or does it reach the worker's bank account without an application, as a 2024 news report says <sup>[N104 (2024)](#n104)</sup>?
+   > - Must the family apply for the death payment, or does it reach the worker's bank account without an application, as a 2024 news report says <sup>[N105 (2024)](#n105)</sup>?
 
 <a id="if-you-lose-the-job"></a>
 
@@ -3515,7 +3515,7 @@ WEWB's death grant needs BMET emigration clearance or Board membership, and deat
 
 At Dhaka, Chattogram and Sylhet airports, WEWB's Probashi Kallyan (expatriate welfare) desks meet returning workers <sup>[11](#o11)</sup>.
 
-1. <a id="coming-home-item-1"></a>**Before you leave Singapore.** The employer must cancel your Work Permit within 1 week after your last day of notice, pay your air ticket home with checked luggage, and settle your salary and other dues <sup>[4](#o4)</sup>. Withdraw or transfer your money and close your bank account (Sending money home) <sup>[N97](#n97)</sup>.
+1. <a id="coming-home-item-1"></a>**Before you leave Singapore.** The employer must cancel your Work Permit within 1 week after your last day of notice, pay your air ticket home with checked luggage, and settle your salary and other dues <sup>[4](#o4)</sup>. Withdraw or transfer your money and close your bank account (Sending money home) <sup>[N98](#n98)</sup>.
 2. <a id="coming-home-item-2"></a>**Carrying cash out of Singapore.** If you carry more than S$20,000 in cash (or the same in another currency), you must declare it online on Form NP 727 to the Singapore Police Force, whether it is yours or someone else's <sup>[384](#o384)</sup>. Submit it within 72 hours before departure through the e-727 e-Service, the MyICA app or the SG Arrival Card option, and keep the summary page and acknowledgement email to show ICA officers <sup>[384](#o384)</sup>. Not declaring carries a fine of up to S$50,000, up to 3 years' jail, or both, and the cash can be confiscated <sup>[384](#o384)</sup>.
 3. <a id="coming-home-item-3"></a>**At the airport in Bangladesh.** The welfare desks help with customs and lost luggage, send sick returnees to hospital by ambulance, arrange a stay at the Wage Earners' Centre, and take complaints from abused or cheated returnees <sup>[381](#o381)</sup>. Women back within 1 year after abuse or fraud get Tk 5,000 in cash <sup>[11](#o11)</sup>, and workers back because of war, disaster or lay-off can get financial help <sup>[381](#o381)</sup>. Desks:
    - Dhaka: +88 02 8901040, mobile +880 1971 430203, welfaredesk@gmail.com <sup>[381](#o381)</sup>.
@@ -3584,7 +3584,7 @@ Up to USD 10,000 in foreign currency comes in without declaring, and the same pe
 
 ### 21.2 Support after return
 
-1. <a id="support-after-return-item-1"></a>**PKB rehabilitation loan.** Returnees starting a project can borrow up to Tk 50 lakh: up to Tk 3 lakh without collateral, Tk 3-5 lakh with collateral, above Tk 5 lakh against a registered mortgage; up to 10 years at 9% simple interest; decided within 15 working days <sup>[391](#o391)</sup>. Fees: 0.50% processing and 0.50% documentation, each at most Tk 15,000; no service charge <sup>[391](#o391)</sup>. By May 2021 only about 2% of pandemic returnees had got PKB's special reintegration loan; a study by OKUP (Ovibashi Karmi Unnayan Programme) blamed PKB's lack of staff, poor promotion and a very short grace period <sup>[N105 (2021)](#n105)</sup>, and a returnee said its many conditions put him off <sup>[N105 (2021)](#n105)</sup>.
+1. <a id="support-after-return-item-1"></a>**PKB rehabilitation loan.** Returnees starting a project can borrow up to Tk 50 lakh: up to Tk 3 lakh without collateral, Tk 3-5 lakh with collateral, above Tk 5 lakh against a registered mortgage; up to 10 years at 9% simple interest; decided within 15 working days <sup>[391](#o391)</sup>. Fees: 0.50% processing and 0.50% documentation, each at most Tk 15,000; no service charge <sup>[391](#o391)</sup>. By May 2021 only about 2% of pandemic returnees had got PKB's special reintegration loan; a study by OKUP (Ovibashi Karmi Unnayan Programme) blamed PKB's lack of staff, poor promotion and a very short grace period <sup>[N106 (2021)](#n106)</sup>, and a returnee said its many conditions put him off <sup>[N106 (2021)](#n106)</sup>.
 
    **You'll need** <sup>[391](#o391)</sup>:
    - The bank's free application form, at the branch in the project area.
@@ -3653,7 +3653,7 @@ Up to USD 10,000 in foreign currency comes in without declaring, and the same pe
 - **Wage Earners' Centre, Dhaka:** 01310 350555, 01754 715720 <sup>[385](#o385)</sup>.
 - **Shahjalal airport customs emergency:** +88 01319-056591 <sup>[388](#o388)</sup>.
 - **National Pension Authority:** 16131, +88 09610 900800, support@upension.gov.bd <sup>[364](#o364)</sup>.
-- **bKash:** 16247, or +88-02-55663001 from abroad <sup>[N98](#n98)</sup>.
+- **bKash:** 16247, or +88-02-55663001 from abroad <sup>[N99](#n99)</sup>.
 
 <a id="references"></a>
 
@@ -4146,29 +4146,30 @@ These facts come only from news or third-party sources. Each needs an official s
 - <a id="n77"></a>N77. Centre for Domestic Employees (CDE), 2 Oct 2023. [Contact us](https://www.cde.org.sg/contact-us). Accessed 8 Nov 2026. Possibly outdated.
 - <a id="n78"></a>N78. Humanitarian Organization for Migration Economics (HOME). [HOME home page (helplines and services)](https://www.home.org.sg/). Accessed 8 Nov 2026. Undated: possibly outdated.
 - <a id="n79"></a>N79. Foreign Domestic Worker Association for Social Support and Training (FAST). [FAST Singapore (contact)](https://www.fast.org.sg/). Accessed 8 Nov 2026. Undated: possibly outdated.
-- <a id="n80"></a>N80. Saimon Global Limited (an Authorised Visa Agent), 15 Oct 2026. [Apply for Singapore Visa from Bangladesh](https://saimonglobal.com/singapore-visa-bangladesh/). Accessed 9 Nov 2026.
-- <a id="n81"></a>N81. TBN24, 10 Sep 2025. [ভিসা নিয়ম কঠোর করল সিঙ্গাপুর, আবেদনকারীদের যা জানা জরুরি (Singapore tightens visa rules)](https://www.tbn24.com/news/singapore-introduces-strict-visa-rules-what-applicants-need-to-know). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n82"></a>N82. The Straits Times, 18 Dec 2025. [4 arrested in Jurong West for overstaying-related offences; ICA investigations ongoing](https://www.straitstimes.com/singapore/4-arrested-in-jurong-west-for-overstaying-related-offences-ica-investigations-ongoing). Accessed 8 Nov 2026.
-- <a id="n83"></a>N83. The Hindu, 8 Apr 2023. [Two Bangladeshi nationals arrested for travelling to Singapore with valid Indian visa](https://www.thehindu.com/news/cities/bangalore/two-bangladeshi-nationals-arrested-for-travelling-to-singapore-with-valid-indian-visa/article66714537.ece). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n84"></a>N84. National University of Singapore (NUS), 5 Oct 2026. [Student's Pass Online Application and Registration (SOLAR): user guide for international students](https://nusgs.nus.edu.sg/wp-content/uploads/2026/10/annex-stp-application.pdf). Accessed 9 Nov 2026.
-- <a id="n85"></a>N85. Nanyang Technological University (NTU). [Application of Student's Pass](https://www.ntu.edu.sg/life-at-ntu/student-life/student-services/onestop/student's-pass/application-of-student's-pass). Accessed 9 Nov 2026. Undated: possibly outdated.
-- <a id="n86"></a>N86. The Straits Times, 24 Jun 2025. [Attempted misuse of work pass for foreign students or trainees ongoing for years: Industry insiders](https://www.straitstimes.com/business/attempted-misuse-of-work-pass-for-foreign-students-or-trainees-ongoing-for-years-industry-insiders). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n87"></a>N87. Transient Workers Count Too (TWC2), 3 Jul 2025. ["If you complain, we will kill you"](https://twc2.org.sg/2025/07/03/if-you-complain-we-will-kill-you/). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n88"></a>N88. Mount Elizabeth Hospitals (IHH Healthcare Singapore). [Planning Your Trip to Our Hospitals from Overseas](https://www.mountelizabeth.com.sg/planning-your-trip). Accessed 8 Nov 2026. Undated: possibly outdated.
-- <a id="n89"></a>N89. Mount Elizabeth Hospitals (IHH Healthcare Singapore). [Our International Offices](https://www.mountelizabeth.com.sg/international-offices). Accessed 8 Nov 2026. Undated: possibly outdated.
-- <a id="n90"></a>N90. Raffles Medical Group, 23 Oct 2026. [Representative Offices](https://www.rafflesmedicalgroup.com/international/representative-offices/). Accessed 8 Nov 2026.
-- <a id="n91"></a>N91. Raffles Medical Group, 8 May 2025. [International Patient Services](https://www.rafflesmedicalgroup.com/services/hospital/international-patients/international-patient-services/). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n92"></a>N92. Changi Airport Group. [Transiting Guide](https://www.changiairport.com/en/fly/transit-guide.html). Accessed 8 Nov 2026. Undated: possibly outdated.
-- <a id="n93"></a>N93. Jewel Changi Airport. [Frequently Asked Questions](https://www.jewelchangiairport.com/en/faqs.html). Accessed 8 Nov 2026. Undated: possibly outdated.
-- <a id="n94"></a>N94. Changi Airport Group. [Changi Airport Contact Information](https://www.changiairport.com/en/help/contact-us.html). Accessed 10 Nov 2026. Undated: possibly outdated.
-- <a id="n95"></a>N95. UNHCR, Jul 2020. [Submission for the Universal Periodic Review, 3rd cycle, 38th session: Singapore](https://upr-info.org/sites/default/files/documents/2021-04/unhcr_upr_submission_on_singapore_38th_session.pdf). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n96"></a>N96. POSB (DBS Bank). [POSB Payroll Account for Work Permit Holders](https://www.posb.com.sg/personal/accounts/posb-payroll-account). Accessed 9 Nov 2026. Undated: possibly outdated.
-- <a id="n97"></a>N97. POSB (DBS Bank). [Suspension of Accounts for Work Permit Holders](https://www.posb.com.sg/personal/support/bank-account-payroll-account-suspension.html). Accessed 9 Nov 2026. Undated: possibly outdated.
-- <a id="n98"></a>N98. bKash. [Money Transfer Service (remittance partners by country)](https://www.bkash.com/en/products-services/remittance/money-transfer-service). Accessed 8 Nov 2026. Undated: possibly outdated.
-- <a id="n99"></a>N99. Nagad (Bangladesh Post Office digital financial service). [Remittance](https://nagad.com.bd/en/services/?service=remittance). Accessed 9 Nov 2026. Undated: possibly outdated.
-- <a id="n100"></a>N100. Mutual Trust Bank PLC, 14 May 2025. [Government Incentive on Wage Earners' Remittance](https://www.mutualtrustbank.com/government-incentive-on-wage-earners-remittance/). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n101"></a>N101. CNA (Channel NewsAsia), 21 Oct 2026. [Woman who stayed illegally in Singapore for 19 years surrenders with husband, gets jail](https://www.channelnewsasia.com/singapore/woman-overstay-19-years-singapore-surrender-jail-6478321). Accessed 9 Nov 2026.
-- <a id="n102"></a>N102. Alap News, 17 Jul 2026. [প্রতিদিন ফিরছে ১৪ প্রবাসী কর্মীর মরদেহ](https://www.alap.news/nrb/1890/why-bangladeshi-migrant-workers-are-dying-abroad). Accessed 9 Nov 2026.
-- <a id="n103"></a>N103. Prothom Alo, 6 Oct 2026. [প্রবাসী শ্রমিকের মৃত্যু: দিনে গড়ে ১৪টির বেশি মরদেহ এসেছে, কোন দেশে বেশি (migrant worker deaths: more than 14 bodies a day)](https://www.prothomalo.com/bangladesh/1ojrmbhc8u). Accessed 9 Nov 2026.
-- <a id="n104"></a>N104. Prothom Alo, 22 Jan 2024. [প্রবাসে কেবল মৃত্যু হলেই বিমার টাকা সহজে পায় অভিবাসী কর্মী (Migrant workers easily get insurance money only when they die abroad)](https://www.prothomalo.com/bangladesh/e5seget393). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n105"></a>N105. The Business Standard, 2 Jun 2021. [Only 2% returnee migrants received reintegration loan](https://www.tbsnews.net/bangladesh/migration/only-2-returnee-migrants-received-reintegration-loan-254932). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n80"></a>N80. Prothom Alo, 28 May 2026. [ভিসা সীমিত, টিকিটের দাম চড়া, তাই বেড়ানোও বন্ধ তাঁদের](https://www.prothomalo.com/bangladesh/zsjjvaite8). Accessed 23 Nov 2026.
+- <a id="n81"></a>N81. Saimon Global Limited (an Authorised Visa Agent), 15 Oct 2026. [Apply for Singapore Visa from Bangladesh](https://saimonglobal.com/singapore-visa-bangladesh/). Accessed 9 Nov 2026.
+- <a id="n82"></a>N82. TBN24, 10 Sep 2025. [ভিসা নিয়ম কঠোর করল সিঙ্গাপুর, আবেদনকারীদের যা জানা জরুরি (Singapore tightens visa rules)](https://www.tbn24.com/news/singapore-introduces-strict-visa-rules-what-applicants-need-to-know). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n83"></a>N83. The Straits Times, 18 Dec 2025. [4 arrested in Jurong West for overstaying-related offences; ICA investigations ongoing](https://www.straitstimes.com/singapore/4-arrested-in-jurong-west-for-overstaying-related-offences-ica-investigations-ongoing). Accessed 8 Nov 2026.
+- <a id="n84"></a>N84. The Hindu, 8 Apr 2023. [Two Bangladeshi nationals arrested for travelling to Singapore with valid Indian visa](https://www.thehindu.com/news/cities/bangalore/two-bangladeshi-nationals-arrested-for-travelling-to-singapore-with-valid-indian-visa/article66714537.ece). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n85"></a>N85. National University of Singapore (NUS), 5 Oct 2026. [Student's Pass Online Application and Registration (SOLAR): user guide for international students](https://nusgs.nus.edu.sg/wp-content/uploads/2026/10/annex-stp-application.pdf). Accessed 9 Nov 2026.
+- <a id="n86"></a>N86. Nanyang Technological University (NTU). [Application of Student's Pass](https://www.ntu.edu.sg/life-at-ntu/student-life/student-services/onestop/student's-pass/application-of-student's-pass). Accessed 9 Nov 2026. Undated: possibly outdated.
+- <a id="n87"></a>N87. The Straits Times, 24 Jun 2025. [Attempted misuse of work pass for foreign students or trainees ongoing for years: Industry insiders](https://www.straitstimes.com/business/attempted-misuse-of-work-pass-for-foreign-students-or-trainees-ongoing-for-years-industry-insiders). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n88"></a>N88. Transient Workers Count Too (TWC2), 3 Jul 2025. ["If you complain, we will kill you"](https://twc2.org.sg/2025/07/03/if-you-complain-we-will-kill-you/). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n89"></a>N89. Mount Elizabeth Hospitals (IHH Healthcare Singapore). [Planning Your Trip to Our Hospitals from Overseas](https://www.mountelizabeth.com.sg/planning-your-trip). Accessed 8 Nov 2026. Undated: possibly outdated.
+- <a id="n90"></a>N90. Mount Elizabeth Hospitals (IHH Healthcare Singapore). [Our International Offices](https://www.mountelizabeth.com.sg/international-offices). Accessed 8 Nov 2026. Undated: possibly outdated.
+- <a id="n91"></a>N91. Raffles Medical Group, 23 Oct 2026. [Representative Offices](https://www.rafflesmedicalgroup.com/international/representative-offices/). Accessed 8 Nov 2026.
+- <a id="n92"></a>N92. Raffles Medical Group, 8 May 2025. [International Patient Services](https://www.rafflesmedicalgroup.com/services/hospital/international-patients/international-patient-services/). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n93"></a>N93. Changi Airport Group. [Transiting Guide](https://www.changiairport.com/en/fly/transit-guide.html). Accessed 8 Nov 2026. Undated: possibly outdated.
+- <a id="n94"></a>N94. Jewel Changi Airport. [Frequently Asked Questions](https://www.jewelchangiairport.com/en/faqs.html). Accessed 8 Nov 2026. Undated: possibly outdated.
+- <a id="n95"></a>N95. Changi Airport Group. [Changi Airport Contact Information](https://www.changiairport.com/en/help/contact-us.html). Accessed 10 Nov 2026. Undated: possibly outdated.
+- <a id="n96"></a>N96. UNHCR, Jul 2020. [Submission for the Universal Periodic Review, 3rd cycle, 38th session: Singapore](https://upr-info.org/sites/default/files/documents/2021-04/unhcr_upr_submission_on_singapore_38th_session.pdf). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n97"></a>N97. POSB (DBS Bank). [POSB Payroll Account for Work Permit Holders](https://www.posb.com.sg/personal/accounts/posb-payroll-account). Accessed 9 Nov 2026. Undated: possibly outdated.
+- <a id="n98"></a>N98. POSB (DBS Bank). [Suspension of Accounts for Work Permit Holders](https://www.posb.com.sg/personal/support/bank-account-payroll-account-suspension.html). Accessed 9 Nov 2026. Undated: possibly outdated.
+- <a id="n99"></a>N99. bKash. [Money Transfer Service (remittance partners by country)](https://www.bkash.com/en/products-services/remittance/money-transfer-service). Accessed 8 Nov 2026. Undated: possibly outdated.
+- <a id="n100"></a>N100. Nagad (Bangladesh Post Office digital financial service). [Remittance](https://nagad.com.bd/en/services/?service=remittance). Accessed 9 Nov 2026. Undated: possibly outdated.
+- <a id="n101"></a>N101. Mutual Trust Bank PLC, 14 May 2025. [Government Incentive on Wage Earners' Remittance](https://www.mutualtrustbank.com/government-incentive-on-wage-earners-remittance/). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n102"></a>N102. CNA (Channel NewsAsia), 21 Oct 2026. [Woman who stayed illegally in Singapore for 19 years surrenders with husband, gets jail](https://www.channelnewsasia.com/singapore/woman-overstay-19-years-singapore-surrender-jail-6478321). Accessed 9 Nov 2026.
+- <a id="n103"></a>N103. Alap News, 17 Jul 2026. [প্রতিদিন ফিরছে ১৪ প্রবাসী কর্মীর মরদেহ](https://www.alap.news/nrb/1890/why-bangladeshi-migrant-workers-are-dying-abroad). Accessed 9 Nov 2026.
+- <a id="n104"></a>N104. Prothom Alo, 6 Oct 2026. [প্রবাসী শ্রমিকের মৃত্যু: দিনে গড়ে ১৪টির বেশি মরদেহ এসেছে, কোন দেশে বেশি (migrant worker deaths: more than 14 bodies a day)](https://www.prothomalo.com/bangladesh/1ojrmbhc8u). Accessed 9 Nov 2026.
+- <a id="n105"></a>N105. Prothom Alo, 22 Jan 2024. [প্রবাসে কেবল মৃত্যু হলেই বিমার টাকা সহজে পায় অভিবাসী কর্মী (Migrant workers easily get insurance money only when they die abroad)](https://www.prothomalo.com/bangladesh/e5seget393). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n106"></a>N106. The Business Standard, 2 Jun 2021. [Only 2% returnee migrants received reintegration loan](https://www.tbsnews.net/bangladesh/migration/only-2-returnee-migrants-received-reintegration-loan-254932). Accessed 8 Nov 2026. Possibly outdated.

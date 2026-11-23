@@ -1008,6 +1008,8 @@ No foreigner may work without an MLVT work permit and employment card, and the E
 
 The tourist visa (T-class) is for holidays, and working on it is prohibited [V0009]. It costs USD 30 (about Tk 3,700), is single entry, is valid for 3 months from issue and lets you stay 1 month; it can be extended once [V0001, V0002, V0010, G0002]. Bangladesh's Ministry of Expatriates' Welfare tells people not to go abroad for work on a tourist or visit visa on a broker's promise [N0093]. A job needs the E-class visa and a work permit (see Work visa: company worker) [W0069, W0076].
 
+**Status for Bangladeshi tourists:** in May 2026 five people who travel abroad regularly told Prothom Alo that Cambodia had become popular with Bangladeshi travellers but its visa had since closed [PC0008].
+
 > **Need to know**
 > - In November 2026, can a Bangladeshi passport holder apply for the tourist (T) e-visa or get a visa on arrival, or only the E-class e-visa?
 
