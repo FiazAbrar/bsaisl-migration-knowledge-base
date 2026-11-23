@@ -58,8 +58,8 @@ Japan is open to Bangladeshi workers on 19 November 2026, but the flow is small 
 
 #### The channels
 
-- *Technical intern training (TITP).* An intern works for one Japanese company, placed through a supervising organisation (kanri dantai, a non-profit cooperative licensed to oversee the companies that take interns), for up to 1 year in stage (i) and up to 2 years each in stages (ii) and (iii) [C0042, R0294, C0084]. At the end of 2025, 2,198 Bangladeshis were interns: 816 in stage (i), 1,335 in stage (ii) and 47 in stage (iii); all but 6 came through supervising organisations [C0054, KA0004, KA0005, KA0006, C0055, KA0007]. Bangladesh and Japan signed a Memorandum of Cooperation (MOC) on TITP on 29 January 2018 [C0041].
-- *IM Japan, the government intern route.* In 2023 IM Japan (International Manpower Development Organization, Japan) took people who finished BMET's six-month Japanese course at 39 Technical Training Centres (TTCs) and 5 marine institutes, tested their language and fitness, and trained those it selected for five more months [C0166]. By August 2023, 461 had gone this way without paying migration costs, earning 150,000 to 190,000 yen a month, and those who complete 3 to 5 years get a one-off 600,000 to 1,000,000 yen business fund from IM Japan on return [C0165, C0168, C0167]. In 2019 candidates needed HSC, had to be aged 20 to 28, and men had to be at least 5 ft 4 in tall and women 5 ft [C0137].
+- *Technical intern training (TITP).* An intern works for one Japanese company, placed through a supervising organisation (kanri dantai, a non-profit cooperative licensed to oversee the companies that take interns), for up to 1 year in stage (i) and up to 2 years each in stages (ii) and (iii) [C0042, R0294, C0084]. At the end of 2025, 2,198 Bangladeshis were interns: 816 in stage (i), 1,335 in stage (ii) and 47 in stage (iii); all but 6 came through supervising organisations [C0054, KA0004, KA0005, KA0006, C0055, KA0007]. Bangladesh and Japan signed a Memorandum of Cooperation (MOC) on TITP on 29 January 2018 [C0041]. In October 2025 Japan was taking most Bangladeshi interns in care, industrial packaging, welding and car mechanics [PJ0053].
+- *IM Japan, the government intern route.* In 2023 IM Japan (International Manpower Development Organization, Japan) took people who finished BMET's six-month Japanese course at 39 Technical Training Centres (TTCs) and 5 marine institutes, tested their language and fitness, and trained those it selected for five more months [C0166]. By August 2023, 461 had gone this way without paying migration costs, earning 150,000 to 190,000 yen a month, and those who complete 3 to 5 years get a one-off 600,000 to 1,000,000 yen business fund from IM Japan on return [C0165, C0168, C0167]. In 2019 candidates needed HSC, had to be aged 20 to 28, and men had to be at least 5 ft 4 in tall and women 5 ft [C0137]. In April 2025 the expatriates' welfare adviser said 695 technical interns had gone in seven years, and the ministry signed a second zero-cost training agreement, with the Japanese company Onodera User Run [PJ0015, PJ0013].
 - *Employment for Skill Development (ESD), from April 2027.* Three years of work meant to bring the worker up to SSW (i) level, in 17 fields [C0066, C0069, C0073]. Supervising organisations must get a new, stricter licence as "supervision and support organisations" [C0072]. ESD allows a change of employer at the worker's own wish under conditions (see What ties you to the employer) [C0067].
 - *Specified Skilled Worker (SSW, tokutei ginō) (i) and (ii).* SSW (i) allows up to 5 years in total in one of 19 fields; SSW (ii), for workers at a higher skill level, has no limit on stay and is open in 11 fields [C0085, C0069, C0073]. Bangladesh signed its SSW MOC with Japan in Tokyo on 27 August 2019 [C0025]. On 30 June 2026, 1,189 Bangladeshis held SSW (i): 334 in agriculture, 326 in care, 168 in construction, 105 in food service, 71 in car repair, 69 in food manufacturing, 65 in industrial products, 17 in hotels, 15 in aviation, 12 in building cleaning and 7 in driving [C0019]. 13 Bangladeshis held SSW (ii) at the end of 2025 [C0057].
 - *Engineer/Specialist in Humanities/International Services (gijinkoku).* The visa for graduates in office, IT, engineering and interpreting jobs; 8,719 Bangladeshis held it at the end of 2025, the largest work visa among them [C0052].
@@ -92,11 +92,11 @@ By BMET's count 5,152 workers went to Japan from 2004 to May 2025, 0.04% of all 
 - 2025: 1,564 (OEP) [C0005]
 - 2026, to 18 November: 1,945 (OEP) [C0006]
 
-The government plans far more: the minister told parliament in April 2026 that Bangladesh intends to send 100,000 technical interns over five years without migration cost, and ministry sources told Prothom Alo in October 2025 that the yearly number could rise from 2,000 workers in 2026 to 50,000 in 2030 [C0133, C0125]. An MoI (memorandum of intent) with Japan's National Business Support Combined Cooperatives (NBCC) foresees 2,000 workers in 2026, 6,000 in 2027 and 18,000 in 2028 [C0134]. Officials at a June 2026 job fair said Bangladesh aims to send 500,000 workers to Japan within two and a half years [C0120]. On 29 October 2026 Japan's Ministry of Foreign Affairs said claims that Japan had agreed to take 100,000 Bangladeshi workers were false, and that Japan allocates no jobs by country (see SSW scams) [R0259, KB0002, R0260].
+The government plans far more: the minister told parliament in April 2026 that Bangladesh intends to send 100,000 technical interns over five years without migration cost, and ministry sources told Prothom Alo in October 2025 that the yearly number could rise from 2,000 workers in 2026 to 50,000 in 2030 [C0133, C0125]. An MoI (memorandum of intent) with Japan's National Business Support Combined Cooperatives (NBCC, a federation of more than 65 Japanese companies) foresees 2,000 workers in 2026, 6,000 in 2027 and 18,000 in 2028 [C0134, PJ0020, PJ0072]. The 100,000 figure first came from Japan's side: at a Tokyo seminar in May 2025 NBCC's chairman, Mikio Kesagayama, said his federation was ready to welcome 100,000 Bangladeshi workers in the next five years, and in October 2025 NBCC told the Chief Adviser it aims to recruit them under TITP and SSW [PJ0018, PJ0019, PJ0071]. After returning from Japan in early September 2025, the finance adviser said that 100,000 workers could be sent within three months if they know Japanese [PJ0055]. In August 2025 a presentation by the Association of Japanese Language Institutes in Bangladesh (AJLIB) said at least 43,000 students could be sent in three years [PJ0037]. Officials at a June 2026 job fair said Bangladesh aims to send 500,000 workers to Japan within two and a half years [C0120]. On 29 October 2026 Japan's Ministry of Foreign Affairs said claims that Japan had agreed to take 100,000 Bangladeshi workers were false, and that Japan allocates no jobs by country (see SSW scams) [R0259, KB0002, R0260].
 
 #### Who is in Japan
 
-Japan counted 44,938 Bangladeshi residents at the end of 2025, up 28.1% in a year and from 8,622 in 2012 [C0010]. They included 14,983 students, 9,382 family dependants, 8,719 graduates on gijinkoku, 4,538 permanent residents, 2,198 technical interns, 839 SSW workers, 821 on Designated Activities (a status covering many situations, among them graduates looking for work and refugee applicants waiting for a decision), 504 business managers, 441 on the Skilled Labour (ginō) visa and 117 care workers [C0050, C0051, C0052, C0053, C0054, C0056, C0058, V0093, P0276, C0059, C0060, C0061]. SSW is growing: Bangladeshi SSW (i) holders rose from 826 at the end of 2025 to 1,189 by June 2026 [C0023, C0019].
+Japan counted 44,938 Bangladeshi residents at the end of 2025, up 28.1% in a year and from 8,622 in 2012 [C0010]. They included 14,983 students, 9,382 family dependants, 8,719 graduates on gijinkoku, 4,538 permanent residents, 2,198 technical interns, 839 SSW workers, 821 on Designated Activities (a status covering many situations, among them graduates looking for work and refugee applicants waiting for a decision), 504 business managers, 441 on the Skilled Labour (ginō) visa and 117 care workers [C0050, C0051, C0052, C0053, C0054, C0056, C0058, V0093, P0276, C0059, C0060, C0061]. SSW is growing: Bangladeshi SSW (i) holders rose from 826 at the end of 2025 to 1,189 by June 2026 [C0023, C0019]. Figures quoted in Bangladesh in 2025 were lower: Prothom Alo reported 31,536 Bangladeshis in Japan, about half of them students, in August 2025, and the expatriates' ministry gave 26,000 in October 2025 [PJ0040, PJ0054].
 
 Japan had 300,992 Nepalis, 182,567 Myanmar nationals, 79,128 Sri Lankans and 34,911 Pakistanis at the end of 2025 [C0011, C0013, C0012, C0014]. At the end of 2025, 116,151 Nepalis were students, 72,978 family dependants, 48,813 on gijinkoku, 12,387 on SSW and 4,477 technical interns [C0062, KG0007, KG0005, C0063, KG0006]. Sri Lanka had 4,003 on SSW and 2,870 technical interns [C0064]. In June 2026, 15,374 Nepalis and 4,920 Sri Lankans held SSW (i), against 1,189 Bangladeshis [C0021, C0022, C0019]. Japan had 4,125,395 foreign residents in all, including 456,618 technical interns and 390,296 SSW workers [C0015, C0016].
 
@@ -106,19 +106,25 @@ Japan had 300,992 Nepalis, 182,567 Myanmar nationals, 79,128 Sri Lankans and 34,
 
 #### What has closed it before
 
-The flow has never been banned, but it has stalled: departures fell from 229 in 2019 to 3 in 2021 [C0001]. The Financial Express reported in March 2019 that an earlier zero-cost intern route through private agencies had collapsed after recruiters allegedly charged jobseekers large sums [C0131].
+The flow has never been banned, but it has stalled: departures fell from 229 in 2019 to 3 in 2021 [C0001]. A columnist who has lived in Japan for three decades wrote in November 2024 that Bangladeshis in Japan, who began arriving in the 1980s, passed 50,000 by 2000 and fell to 15,000 by 2020, most having to go home because there was no skilled-worker quota visa; Nepalis in Japan, he wrote, rose from under 5,000 in 2000 to over 200,000 [PJ0009, PJ0010]. The Bangladesh Embassy in Tokyo said in January 2025 that after the 2018 and 2019 MOCs the number of Bangladeshis in Japan rose from 18,000 to about 32,000 in two and a half years [PJ0012]. The Financial Express reported in March 2019 that an earlier zero-cost intern route through private agencies had collapsed after recruiters allegedly charged jobseekers large sums [C0131].
 
 > **Need to know**
 > - Did Japan or Bangladesh suspend departures to Japan in 2020-21, and when did they resume?
 
 #### Where it may grow
 
+- *The overall gap.* Bangladesh's ambassador in Tokyo said in May 2025 that Japan's labour shortage could reach 11 million by 2040, and the expatriates' ministry's senior secretary said in November 2025 that Japan will need about 11 million foreign workers by then [PJ0023, PJ0080].
 - *Care.* Ministry sources put Japanese demand for Bangladeshi care workers at 60,000, and care is already the second-largest Bangladeshi SSW field [C0126, C0019].
 - *ESD from 2027.* ESD's ceiling is 426,200 workers to March 2029 [C0151].
-- *Construction, factories and farms.* The same ministry sources put the possible numbers by 2030 at 40,000 construction, 20,000 factory, 20,000 care and 20,000 farm and car-service workers [C0125].
+- *Construction, factories and farms.* The same ministry sources put the possible numbers by 2030 at 40,000 construction, 20,000 factory, 20,000 care and 20,000 farm and car-service workers [C0125]. NBCC said in October 2025 that its members need the most workers in construction, services, aviation, garments and agriculture [PJ0073].
+- *Nurses.* NBCC said in October 2025 that Japan will need more than 400,000 skilled nurses in the next few years and that it would consider recruiting more from Bangladesh [PJ0076].
+- *Drivers.* NBCC expects demand for drivers, automobile and recycling workers to grow [PJ0073]. In October 2025 Miki Watanabe, founder of Japan's Watami Group, told the Chief Adviser he plans a driving school in Bangladesh to train drivers for jobs in Japan and was looking for a 12,000 square-metre site [PJ0067].
+- *Engineers in Hokkaido.* In November 2025 the mayor of Sapporo announced, among measures to draw green-energy investment to Hokkaido, a special visa for foreign engineers [PJ0081].
 
 > **Need to know**
 > - Has Bangladesh signed the cooperation document Japan requires for ESD, and when will Bangladesh's ESD sending organisations be approved?
+> - Has Sapporo's special visa for foreign engineers been introduced, under what name, and what does it require?
+> - Has Watami Group opened its driving school in Bangladesh, where, and does it lead to the SSW automobile transportation test?
 
 ### How a job reaches you, and who takes a cut
 
@@ -142,7 +148,11 @@ A Japanese job becomes a visa only when a Japanese employer picks a candidate, t
 
 #### Language centres and training
 
-The language course is where the time and money go. BMET teaches Japanese in 53 TTCs (online in 15), and more than 200 private language institutes operate across the country [C0113, C0114]. BMET's TTC course runs four months, 40 trainees a batch, up to N4, for anyone with SSC; in 2019 the TTC course fee was Tk 1,000 [C0123, C0132]. Ministry officials admit the TTCs lack skilled Japanese teachers [C0124]. Japanese companies are building their own pipelines: Kawai Group Japan opened a residential training centre on 22 bighas in Birulia, Dhaka, and Bangladesh has signed training-and-recruitment agreements with NBCC, Japan-Bangla Bridge Recruiting Agency (JBBRA) and Kaicom Dream Street BD (KDS) [C0128, C0135].
+The language course is where the time and money go. BMET teaches Japanese in 53 TTCs (online in 15), and more than 200 private language institutes operate across the country [C0113, C0114]. BMET's TTC course runs four months, 40 trainees a batch, up to N4, for anyone with SSC; in 2019 the TTC course fee was Tk 1,000 [C0123, C0132]. In November 2025 the ministry's senior secretary said 33 TTCs had been designated to prepare workers for Japan [PJ0078]. Ministry officials admit the TTCs lack skilled Japanese teachers, and in 2025 the chairman of JITCO (Japan International Trainee and Skilled Worker Cooperation Organization, the body that promotes Japan's intern and SSW schemes) said Bangladesh still lacks Japanese teachers, and NBCC's chairman said trainers' Japanese could be better [C0124, PJ0022, PJ0075]. The expatriates' welfare adviser said in 2025 that he had asked Japan to give language training itself and take the people it trains [PJ0057]. Japanese companies are building their own pipelines [C0135]:
+- *Kawai Group Japan:* a residential training centre on 22 bighas in Birulia, Dhaka, which began training with Japanese teachers on 1 October 2025 [C0128, PJ0062].
+- *Watami Group:* a language academy at Monohardi, Narsingdi, which its founder said in October 2025 trains 40 people a batch, plans to train and place at least 3,000, and had sent 52 workers to Japan for construction and farm work [PJ0068, PJ0069]; in May 2025 he said a Watami school in Bangladesh trained 1,500 students a year and was planning to raise this to 3,000 [PJ0021].
+- *NBCC:* training-and-recruitment agreements with Bangladesh, with candidates trained at centres in Khulna and at Kapasia, Gazipur [C0135, PJ0074].
+- *Japan-Bangla Bridge Recruiting Agency (JBBRA) and Kaicom Dream Street BD (KDS):* agreements with BMET signed in May 2025 [C0135, R0261].
 
 > **Need to know**
 > - What do private Japanese language centres in Dhaka charge for an N4 or JFT-Basic course in 2026, and what do they promise about jobs?
@@ -181,7 +191,7 @@ Japan's 2022 survey of interns covered Vietnam, China, Cambodia, Myanmar, Indone
 
 - *Minimum wage.* From October 2026 the national weighted average is 1,177 yen an hour [C0089]. Tokyo pays 1,280, Kanagawa 1,279, Osaka 1,231 and Aichi 1,195; the lowest is Miyazaki at 1,085 (see Minimum wage) [C0090, C0092, C0091, C0093, C0094]. Some prefectures' new rates start late: Iwate and Kumamoto from 1 December 2026 and Okinawa from 2 December 2026, and until then their old rates (as low as 1,023 yen in Okinawa) apply [KA0017, C0096, C0095].
 - *Hours and overtime.* The normal limit is 40 hours a week and 8 a day, and overtime pays at least 25% extra; farm and fisheries work is exempt from the rules on hours, breaks and holidays [C0157, C0156].
-- *What workers are paid.* IM Japan interns earned 150,000 to 190,000 yen a month in 2023, and press reports put SSW pay at 200,000 to 300,000 yen [C0168, C0136].
+- *What workers are paid.* IM Japan interns earned 150,000 to 190,000 yen a month in 2023, and press reports put SSW pay at 200,000 to 300,000 yen [C0168, C0136]. Prothom Alo put pay in taka at Tk 1,24,500 to 1,57,700 a month for IM Japan interns in April 2025, and at Tk 1,35,000 to 1,57,000 for workers generally in October 2025, paid into a bank account [PJ0017, PJ0066, PJ0058].
 
 #### What comes off
 
@@ -189,7 +199,7 @@ Health insurance, pension and employment insurance premiums, income tax and inha
 
 #### Remittances from Japan
 
-Bangladesh Bank recorded US$32.73 million of remittances from Japan in July to September 2026, 23rd among source countries (see Sending money home) [C0142].
+Bangladesh Bank recorded US$32.73 million of remittances from Japan in July to September 2026, 23rd among source countries (see Sending money home) [C0142]. Prothom Alo reported in August 2025 that Bangladeshi students in Japan send about Tk 900 crore a year [PJ0040].
 
 ### What ties you to the employer
 
@@ -318,9 +328,13 @@ SSW (i) needs Japanese at level A2.2, shown by passing either the Japan Foundati
 
 #### Where to learn
 
-- **BMET Technical Training Centres (TTCs):** Japanese is taught at 53 TTCs, 15 of them in a hybrid online model [R0248]. TTCs teaching up to N4 include Bangladesh-Korea TTC Mirpur, Women's TTC Mirpur, Bangladesh-Korea TTC Chattogram, and the Narsingdi, Chapainawabganj, Tangail and Khulna TTCs; the course runs four months with 40 trainees a batch, and SSC holders can enrol [R0266, R0267].
+- **BMET Technical Training Centres (TTCs):** Japanese is taught at 53 TTCs, 15 of them in a hybrid online model [R0248]. TTCs teaching up to N4 include Bangladesh-Korea TTC Mirpur, Women's TTC Mirpur, Bangladesh-Korea TTC Chattogram, and the Narsingdi, Chapainawabganj, Tangail and Khulna TTCs; the course runs four months with 40 trainees a batch, and SSC holders can enrol [R0266, R0267]. Centres teaching in the hybrid model include those three Mirpur and Chattogram centres and the Chapainawabganj, Khulna, Moulvibazar, Brahmanbaria, Kishoreganj, Kapasia, Barishal, Rajbari and Chandpur Sadar TTCs [PJ0063, PJ0064]. A ministry official said in 2025 that it does not matter whether you learn Japanese at a government or a private centre [PJ0059].
 - **Example of a BMET course:** in 2025 Bangladesh-Korea TTC ran a 4-month course for JLPT N4, JFT-Basic and the SSW skills test, for SSC holders who had passed or completed a course at N5, with an assessment fee of Tk 1,000 and free application forms from the BMET website or the TTC [R0269, R0270].
-- **Private institutes:** more than 200 private language institutes operate [R0248].
+  - *Who:* aged 17 to 35 and physically fit; 50 seats in Dhaka (Mirpur) and 30 in Chattogram, for September to December 2025 [PJ0031, PJ0032, PJ0042, PJ0043, PJ0044].
+  - *Who gets in first:* JLPT N5 passers, then NAT N5 passers (the NAT-TEST is a separate Japanese test), then people who finished a Japanese course at a TTC or a BMET Institute of Marine Technology (IMT) [PJ0033, PJ0034].
+  - *Timeline:* in Dhaka, applications closed at 4 pm on 24 August 2025, with the selection test and results on 25 August and results posted at www.bkttcdhaka.gov.bd; in Chattogram, applications closed on 26 August and the admission test was at 10 am on 27 August [PJ0035, PJ0036, PJ0045].
+  - *Classes:* from 1 September 2025, Sunday to Thursday, 8 am to 2 pm [PJ0036, PJ0045].
+- **Private institutes and universities:** more than 200 private language institutes operate, among them Ekush in Mirpur; Dhaka University (its Institute of Modern Languages), Green University and North South University also teach Japanese [R0248, PJ0061, PJ0062, PJ0004].
 - **Study materials:** the Japan Foundation's "Irodori: Japanese for Life in Japan" coursebook and the free IRODORI online course match JFT-Basic [R0178].
 
 > **Need to know**
@@ -350,7 +364,7 @@ You'll need:
 
 #### JLPT in Dhaka
 
-The JLPT is held in Dhaka twice a year, in July and December, by the Japanese Universities Alumni Association in Bangladesh (JUAAB), the local host [R0202]. The December 2026 test is on 6 December 2026, for levels N1 to N5, at a fee of Tk 4,356; registration confirmation opened on 1 September 2026 at 11:00 am [R0203]. Online results come about two months after the test and the pass/fail notice about three months after [R0177].
+The JLPT is held in Dhaka twice a year, in July and December by the Japanese Universities Alumni Association in Bangladesh (JUAAB), the local host [R0202]. The Chief Adviser said in October 2025 that two sittings a year are not enough for the demand [PJ0070]. The December 2026 test is on 6 December 2026, for levels N1 to N5, at a fee of Tk 4,356; registration confirmation opened on 1 September 2026 at 11:00 am [R0203]. Online results come about two months after the test and the pass/fail notice about three months after [R0177].
 
 1. Create an account on JUAAB's JLPT portal and complete your profile [R0204].
 2. When registration opens, confirm your level and pay online [R0204].
@@ -395,13 +409,14 @@ ISA's process is that people overseas apply to employers directly or through pri
 
 - **Who is approved:** news reports in 2025 and 2026 give 27, 95 and 96 Bangladeshi recruiting agencies approved for Japan; only about 30 send workers in a year, and from 2004 to April 2025 they sent 5,014 workers [R0265, R0249, R0253, R0254].
 - **How a job order reaches Bangladesh:** a Japanese company or supervising organisation issues a demand letter to an enlisted Bangladeshi sending organisation and sends it to the Bangladesh Embassy in Tokyo, which verifies and attests it, usually within 3 to 7 days, for JPY 1,000 a page, paid by bank [R0235, R0237]. The demand letter must state the number of workers, employer, job, contract period, age, basic salary, hours, overtime, accommodation, transport, food, medical benefits and air ticket [R0236].
-- **Government channels:** the Ministry set up a "Japan Cell" for Japan recruitment, with a Facebook page and an email channel for queries [R0250, R0264]. In May 2025 BMET signed agreements with Kaicom Dream Street (a training cell at Monohardi TTC) and with NBCC, a federation of Japanese companies, and Japan-Bangla Bridge Recruiting Agency, to train and place TITP and SSW workers [R0261, R0262].
+- **Government channels:** the Ministry set up a "Japan Cell" for Japan recruitment, with a Facebook page and an email channel for queries [R0250, R0264]; its focal person in August 2025 was Md. Hedayetul Islam Mondal [PJ0039]. In May 2025 BMET signed agreements with Kaicom Dream Street (a training cell at Monohardi TTC) and with NBCC, a federation of Japanese companies, and Japan-Bangla Bridge Recruiting Agency, to train and place TITP and SSW workers [R0261, R0262].
+- **Matching seminars in Japan:** the Bangladesh Embassy in Tokyo and JITCO bring Japanese employers and Bangladeshi sending agencies together: about 40 companies and agencies in Osaka in January 2025, and about 250 organisations at a seminar and matching event in Nagoya in November 2025, after which four MoUs and agreements were signed between Bangladeshi sending agencies and Japanese recruiters [PJ0011, PJ0077, PJ0079]. The ambassador said in August 2025 that 22 organisations and more than 100 companies had recruited Bangladeshi workers in the previous two months [PJ0038].
 
 **Check it is real:** BMET checks a job visa or demand letter free within 3 working days; bring the visa or letter and a copy of the passport page [R0044, R0045].
 
 > **Need to know**
 > - Where is the official list of agencies the Ministry has approved for Japan SSW, and does BMET's OEP show which agency holds an attested Japan demand letter?
-> - What are the Japan Cell's phone number, email and office address?
+> - What are the Japan Cell's phone number, email and office address, and does it take enquiries from individual workers?
 
 #### On your own
 
@@ -477,7 +492,7 @@ SSW (ii) needs an SSW (ii) skills test, which may require work experience [R0151
 
 **"Japan has agreed to take 100,000 Bangladeshis"**
 
-In October 2026 several Bangladeshi TV channels reported, and social-media posts spread, that Japan would take 100,000 Bangladeshi workers a year; on 29 October 2026 Japan's Ministry of Foreign Affairs said no such agreement existed [KB0001, R0259, KB0002]. **Spot it:** there is no quota per country; a job needs your own test passes and an employer [R0260].
+The figure goes back to May 2025, when the chairman of NBCC, a Japanese business federation, told a Tokyo seminar his federation was ready to welcome 100,000 Bangladeshi workers over five years (see The size of the flow) [PJ0019]. In October 2026 several Bangladeshi TV channels reported, and social-media posts spread, that Japan would take 100,000 Bangladeshi workers a year; on 29 October 2026 Japan's Ministry of Foreign Affairs said no such agreement existed [KB0001, R0259, KB0002]. **Spot it:** there is no quota per country; a job needs your own test passes and an employer [R0260].
 
 **Training firms that charge for a Japan job**
 
@@ -527,10 +542,14 @@ The supervising organisation sends a demand letter to the Bangladeshi sending or
 
 #### The zero-cost government route (IM Japan)
 
-Under the Ministry's agreement with IM Japan (the International Manpower Development Organization, Japan), trainees go with no migration cost after BMET's six-month Japanese course at a TTC or Institute of Marine Technology; IM Japan then tests their language and fitness [R0271, R0272]. By August 2023, 461 had gone this way; they were paid JPY 150,000 to 190,000 a month and get a one-off JPY 600,000 to 1,000,000 on return after 3 to 5 years [R0271, R0273]. From 2017 to 2024, 702 workers went through IM Japan [R0254].
+Under the Ministry's agreement with IM Japan (the International Manpower Development Organization, Japan), trainees go with no migration cost after BMET's six-month Japanese course at a TTC or Institute of Marine Technology; IM Japan then tests their language and fitness [R0271, R0272]. By August 2023, 461 had gone this way; they were paid JPY 150,000 to 190,000 a month and get a one-off JPY 600,000 to 1,000,000 on return after 3 to 5 years [R0271, R0273]. From 2017 to 2024, 702 workers went through IM Japan [R0254]. Prothom Alo described the route in 2025 as a four-month Japanese course at a TTC, then a test, then four more months of training run by IM Japan before going as interns, with pay of Tk 1,24,500 to 1,57,700 a month in Japan [PJ0016, PJ0065, PJ0017].
+
+**Onodera User Run.** On 10 April 2025 the Ministry signed an MoU with Onodera User Run Inc., a private Japanese company, under which Bangladeshi workers get free Japanese and technical training and those trained go to jobs in Japan without migration cost [PJ0013]. The training covers caregiving, industrial packaging, plastic moulding, rod binding, scaffolding, car painting, welding and car mechanics [PJ0014].
 
 > **Need to know**
 > - Is the IM Japan programme still recruiting in 2026, and how does a TTC graduate apply?
+> - How long are BMET's course and IM Japan's own training in 2026: six and five months, as in 2023, or four and four, as reported in 2025 [C0166, PJ0016]?
+> - Has anyone gone to Japan under the Onodera User Run MoU, where is its training held, and how does a worker apply?
 
 ### Who pays what on TITP
 
@@ -738,6 +757,11 @@ Apply for an extension at your regional immigration bureau, or online, from 3 mo
 #### Going home on leave: re-entry
 
 If you hold a residence card and will be back within 1 year, you do not need a re-entry permit: you leave on the "special re-entry permit" (minashi sainyūkoku kyoka) [E0162]. For a longer absence, get a re-entry permit at the regional immigration bureau for where you live before you leave: 4,000 yen for one trip or 7,000 yen for multiple trips, issued the same day, and valid no longer than your period of stay [KC0019, E0163, E0307, E0164]. Ask your SSW employer for paid leave for the trip (see "Paid leave, maternity and dismissal") [E0219].
+
+**Flights.** Biman Bangladesh Airlines restarted direct Dhaka-Tokyo flights in September 2023 after 17 years, at three a week and later two; a Japan-based Bangladeshi journalist wrote in July 2025 that the route was being suspended indefinitely in the first week of July 2025, the third time Biman had stopped it [PJ0024, PJ0027, PJ0025, PJ0029]. He wrote that the direct flight took six to seven hours with no transit and that Biman allowed more baggage than other airlines [PJ0026, PJ0028].
+
+> **Need to know**
+> - Is there a direct Dhaka-Tokyo flight in 2026, and which connecting routes do Bangladeshi workers in Japan mostly use?
 
 #### Moving house
 
@@ -1193,6 +1217,8 @@ The embassy does not say why [V0048, V0038]. You cannot apply again for the same
 
 **Paid "visa agents" and fake websites.** MOFA warns of fake websites, social media and emails claiming to be the Japanese government or embassy and asking visa applicants for money [V0066]. Only agencies the embassy has approved may handle visa applications [V0057]. VFS is the only channel in Bangladesh, and it charges only its service fee and listed extras [V0001, V0169, V0173].
 
+**Fake sports teams.** In Pakistan, the Federal Investigation Agency (FIA) arrested a man on 15 September 2025 who, an FIA official said, set up a fake club called "Golden Football Trial", took 40 to 45 lakh Pakistani rupees from each person, and used a football club's invitation to get 15-day Japanese visas for 17 people, who went to Japan on 1 January 2024 and did not return [PJ0048, PJ0049, PJ0050]. On 15 June 2025 he tried again with a 22-member "team" in football kit carrying fake no-objection letters; Japanese immigration caught the fraud while questioning them at the airport and sent them all back [PJ0051, PJ0052].
+
 **Tried by migrants: overstaying to work.** Overstaying is a crime and leads to a ban on coming back (see How long a visitor can stay) [V0124, V0130].
 
 > **Need to know**
@@ -1275,6 +1301,14 @@ You choose a school in Japan; the school applies to the Immigration Services Age
 > - What do Dhaka agencies charge in 2026 on top of school fees for a Japanese-language school "processing" package, and what is usually included?
 > - Which Bangladeshi bank gives the government student loans for Japan that the ambassador mentioned, and on what terms? [V0158]
 > - Is the Japan visa still free for Bangladeshi students after the 1 July 2026 fee change? [V0004, V0166]
+
+### Scholarships and research internships
+
+- **MEXT scholarship (Japanese government):** Bangladesh's Ministry of Education nominates candidates and publishes the list on its website; for 2024-25 it nominated 84: 16 for research PhD, 20 for research master's, 30 undergraduate, 8 specialised training college and 10 college of technology [PJ0005, PJ0007]. Nomination does not guarantee the scholarship: the Japanese Embassy holds written and oral exams, and the Japanese authorities decide on the results [PJ0006]. A MEXT scholar's visa is marked "Govt. Scholar" [PJ0008].
+- **OIST research internship:** the Okinawa Institute of Science and Technology offers free research internships of two to six months, twice a year, open to Bangladeshi undergraduate and postgraduate students; in 2024 it paid 2,400 yen per working day plus visa support, air tickets, housing and insurance [PJ0001, PJ0002, PJ0003]. Applicants need a 400-word statement of purpose, mark sheets in English, passport and NID copies and a recommendation letter [PJ0003].
+
+> **Need to know**
+> - When does the Ministry of Education open MEXT nominations for 2027, and through which portal?
 
 ### Step 1: Choose a school and check it
 
@@ -2032,7 +2066,7 @@ Every passenger fills in the baggage declaration form or submits it online; with
 
 ### In Japan
 
-- **Bangladesh Embassy, Tokyo:** 3-29 Kioicho, Chiyoda-ku, Tokyo 102-0094; Nagatacho Station exit 9a/9b (about 9 minutes' walk) or Kojimachi Station exit 1 (about 6 minutes); tel 03-3234-5801, fax 03-3234-5802 [B0018]. General email bdembassy.tokyo@mofa.gov.bd; consular consular.bdembjp@mofa.gov.bd [B0017]. Open Monday-Friday except holidays, 9:00-17:00; phones are not answered 13:00-14:00 [B0021, KF0008]. Passport, birth registration and attestation counters 9:00-17:00, ext. 102 and 104, or 03-3230-1773 direct [B0021, B0016]. Special consular service (not visas) on the first Sunday of each month, 10:30-14:30 [B0022].
+- **Bangladesh Embassy, Tokyo:** 3-29 Kioicho, Chiyoda-ku, Tokyo 102-0094; Nagatacho Station exit 9a/9b (about 9 minutes' walk) or Kojimachi Station exit 1 (about 6 minutes); tel 03-3234-5801, fax 03-3234-5802 [B0018]. General email bdembassy.tokyo@mofa.gov.bd; consular consular.bdembjp@mofa.gov.bd [B0017]. Open Monday-Friday except holidays, 9:00-17:00; phones are not answered 13:00-14:00 [B0021, KF0008]. Passport, birth registration and attestation counters 9:00-17:00, ext. 102 and 104, or 03-3230-1773 direct [B0021, B0016]. Special consular service (not visas) on the first Sunday of each month, 10:30-14:30 [B0022]. Since August 2025 the embassy gives NID (national identity card) services: apply online at services.nidw.gov.bd, then give your biometrics and submit the documents at the embassy [PJ0046, PJ0047].
 - **Embassy emergency hotline (24/7, for Bangladeshis in distress, not for routine passport, visa or consular queries):** 070-1260-1984, 080-7004-1971 or 080-4065-6601 [B0020, B0023, KF0005, KF0011]; the Phone Numbers page also shows 090-3558-1968 [B0016].
 - **Embassy labour welfare wing:** Counsellor, 03-3234-5801 ext. 201, zakir2kbd@gmail.com [B0019]; First Secretary (Labour), fslabor@mofa.gov.bd [B0017]; mobile 080-4352-4795 [KF0006]. It handles legal aid for unpaid wages, visits to workplaces, hospitals and detention centres, repatriation of stranded workers and help with bodies [B0011, B0010, B0012].
 - **Immigration Services Agency information centre:** 0570-013904; from an IP phone or abroad 03-5796-7112; weekdays 8:30-17:15 [B0046, B0047, B0048]. Languages include English, Nepali and Sinhala, but not Bengali [B0049]. It gives general guidance only and cannot tell you how a case is progressing [B0050].

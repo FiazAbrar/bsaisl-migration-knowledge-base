@@ -2,7 +2,7 @@
 
 # Japan: migration guide
 
-Sources checked up to 19 Nov 2026.
+Sources checked up to 23 Nov 2026.
 
 How to go to Japan from Bangladesh, visa by visa, step by step, for Bangladesh passport holders, as of November 2026. A raised number such as 3 is an official source; N3 is a news, NGO (non-governmental organisation), research or guide source, listed under "Needs an official source"; a year, like N3 (2022), marks a source older than 2025. "Need to know" marks a point no source has yet confirmed. "You'll need:" lists what to have before starting a procedure.
 
@@ -159,21 +159,22 @@ JPY (¥) is the Japanese yen; Tk is the Bangladeshi taka (1 lakh is Tk 100,000).
   - [9.8 Where to get help with a business visa](#where-to-get-help-with-a-business-visa)
 - [10 Student visa (Japanese-language schools and universities)](#student-visa-japanese-language-schools-and-universities)
   - [10.1 Cost](#cost)
-  - [10.2 Step 1: Choose a school and check it](#step-1-choose-a-school-and-check-it)
-  - [10.3 Step 2: Learn Japanese and prove it](#step-2-learn-japanese-and-prove-it)
-  - [10.4 Step 3: Gather the sponsor's papers](#step-3-gather-the-sponsors-papers)
-  - [10.5 Step 4: The school applies for your COE](#step-4-the-school-applies-for-your-coe)
-  - [10.6 Step 5: Pay the school through a Bangladeshi bank](#step-5-pay-the-school-through-a-bangladeshi-bank)
-  - [10.7 Step 6: Apply for the visa at VFS](#step-6-apply-for-the-visa-at-vfs)
-  - [10.8 Step 7: Arrive and register](#step-7-arrive-and-register)
-  - [10.9 How long a student can stay](#how-long-a-student-can-stay)
-  - [10.10 Part-time work](#part-time-work)
-  - [10.11 Schools that treat students as cheap labour](#schools-that-treat-students-as-cheap-labour)
-  - [10.12 Agents in Dhaka who promise "study and earn"](#agents-in-dhaka-who-promise-study-and-earn)
-  - [10.13 After graduation: job-hunting visa](#after-graduation-job-hunting-visa)
-  - [10.14 If the COE or visa is refused](#if-the-coe-or-visa-is-refused)
-  - [10.15 Student visa scams](#student-visa-scams)
-  - [10.16 Where students can get help](#where-students-can-get-help)
+  - [10.2 Scholarships and research internships](#scholarships-and-research-internships)
+  - [10.3 Step 1: Choose a school and check it](#step-1-choose-a-school-and-check-it)
+  - [10.4 Step 2: Learn Japanese and prove it](#step-2-learn-japanese-and-prove-it)
+  - [10.5 Step 3: Gather the sponsor's papers](#step-3-gather-the-sponsors-papers)
+  - [10.6 Step 4: The school applies for your COE](#step-4-the-school-applies-for-your-coe)
+  - [10.7 Step 5: Pay the school through a Bangladeshi bank](#step-5-pay-the-school-through-a-bangladeshi-bank)
+  - [10.8 Step 6: Apply for the visa at VFS](#step-6-apply-for-the-visa-at-vfs)
+  - [10.9 Step 7: Arrive and register](#step-7-arrive-and-register)
+  - [10.10 How long a student can stay](#how-long-a-student-can-stay)
+  - [10.11 Part-time work](#part-time-work)
+  - [10.12 Schools that treat students as cheap labour](#schools-that-treat-students-as-cheap-labour)
+  - [10.13 Agents in Dhaka who promise "study and earn"](#agents-in-dhaka-who-promise-study-and-earn)
+  - [10.14 After graduation: job-hunting visa](#after-graduation-job-hunting-visa)
+  - [10.15 If the COE or visa is refused](#if-the-coe-or-visa-is-refused)
+  - [10.16 Student visa scams](#student-visa-scams)
+  - [10.17 Where students can get help](#where-students-can-get-help)
 - [11 Transit](#transit)
 - [12 Medical stay visa](#medical-stay-visa)
   - [12.1 Step 1: Find a registered guarantor](#step-1-find-a-registered-guarantor)
@@ -326,12 +327,12 @@ Japan is open to Bangladeshi workers on 19 November 2026, but the flow is small 
 
 #### 2.2.2 The channels
 
-- *Technical intern training (TITP).* An intern works for one Japanese company, placed through a supervising organisation (kanri dantai, a non-profit cooperative licensed to oversee the companies that take interns), for up to 1 year in stage (i) and up to 2 years each in stages (ii) and (iii) <sup>[32](#o32), [7](#o7), [33](#o33)</sup>. At the end of 2025, 2,198 Bangladeshis were interns: 816 in stage (i), 1,335 in stage (ii) and 47 in stage (iii); all but 6 came through supervising organisations <sup>[20](#o20)</sup>. Bangladesh and Japan signed a Memorandum of Cooperation (MOC) on TITP on 29 January 2018 <sup>[32](#o32)</sup>.
-- *IM Japan, the government intern route.* In 2023 IM Japan (International Manpower Development Organization, Japan) took people who finished BMET's six-month Japanese course at 39 Technical Training Centres (TTCs) and 5 marine institutes, tested their language and fitness, and trained those it selected for five more months <sup>[N10 (2023)](#n10)</sup>. By August 2023, 461 had gone this way without paying migration costs, earning 150,000 to 190,000 yen a month, and those who complete 3 to 5 years get a one-off 600,000 to 1,000,000 yen business fund from IM Japan on return <sup>[N10 (2023)](#n10)</sup>. In 2019 candidates needed HSC, had to be aged 20 to 28, and men had to be at least 5 ft 4 in tall and women 5 ft <sup>[N11 (2019)](#n11)</sup>.
+- *Technical intern training (TITP).* An intern works for one Japanese company, placed through a supervising organisation (kanri dantai, a non-profit cooperative licensed to oversee the companies that take interns), for up to 1 year in stage (i) and up to 2 years each in stages (ii) and (iii) <sup>[32](#o32), [7](#o7), [33](#o33)</sup>. At the end of 2025, 2,198 Bangladeshis were interns: 816 in stage (i), 1,335 in stage (ii) and 47 in stage (iii); all but 6 came through supervising organisations <sup>[20](#o20)</sup>. Bangladesh and Japan signed a Memorandum of Cooperation (MOC) on TITP on 29 January 2018 <sup>[32](#o32)</sup>. In October 2025 Japan was taking most Bangladeshi interns in care, industrial packaging, welding and car mechanics <sup>[N10](#n10)</sup>.
+- *IM Japan, the government intern route.* In 2023 IM Japan (International Manpower Development Organization, Japan) took people who finished BMET's six-month Japanese course at 39 Technical Training Centres (TTCs) and 5 marine institutes, tested their language and fitness, and trained those it selected for five more months <sup>[N11 (2023)](#n11)</sup>. By August 2023, 461 had gone this way without paying migration costs, earning 150,000 to 190,000 yen a month, and those who complete 3 to 5 years get a one-off 600,000 to 1,000,000 yen business fund from IM Japan on return <sup>[N11 (2023)](#n11)</sup>. In 2019 candidates needed HSC, had to be aged 20 to 28, and men had to be at least 5 ft 4 in tall and women 5 ft <sup>[N12 (2019)](#n12)</sup>. In April 2025 the expatriates' welfare adviser said 695 technical interns had gone in seven years, and the ministry signed a second zero-cost training agreement, with the Japanese company Onodera User Run <sup>[N13](#n13)</sup>.
 - *Employment for Skill Development (ESD), from April 2027.* Three years of work meant to bring the worker up to SSW (i) level, in 17 fields <sup>[22](#o22)</sup>. Supervising organisations must get a new, stricter licence as "supervision and support organisations" <sup>[22](#o22)</sup>. ESD allows a change of employer at the worker's own wish under conditions (see [What ties you to the employer](#what-ties-you-to-the-employer)) <sup>[22](#o22)</sup>.
 - *Specified Skilled Worker (SSW, tokutei ginō) (i) and (ii).* SSW (i) allows up to 5 years in total in one of 19 fields; SSW (ii), for workers at a higher skill level, has no limit on stay and is open in 11 fields <sup>[34](#o34), [22](#o22)</sup>. Bangladesh signed its SSW MOC with Japan in Tokyo on 27 August 2019 <sup>[35](#o35)</sup>. On 30 June 2026, 1,189 Bangladeshis held SSW (i): 334 in agriculture, 326 in care, 168 in construction, 105 in food service, 71 in car repair, 69 in food manufacturing, 65 in industrial products, 17 in hotels, 15 in aviation, 12 in building cleaning and 7 in driving <sup>[36](#o36)</sup>. 13 Bangladeshis held SSW (ii) at the end of 2025 <sup>[20](#o20)</sup>.
 - *Engineer/Specialist in Humanities/International Services (gijinkoku).* The visa for graduates in office, IT, engineering and interpreting jobs; 8,719 Bangladeshis held it at the end of 2025, the largest work visa among them <sup>[20](#o20)</sup>.
-- *Students.* 14,983 Bangladeshis held student status at the end of 2025 <sup>[20](#o20)</sup>. About 4,000 went in 2025, the government's 2026 target is 10,000, and Probashi Kallyan Bank (PKB, the state bank for migrants) lends up to Tk 10 lakh per student <sup>[N12](#n12)</sup>. Students may work at most 28 hours a week, and only with permission (see [Beliefs against the facts](#beliefs-against-the-facts)) <sup>[12](#o12)</sup>.
+- *Students.* 14,983 Bangladeshis held student status at the end of 2025 <sup>[20](#o20)</sup>. About 4,000 went in 2025, the government's 2026 target is 10,000, and Probashi Kallyan Bank (PKB, the state bank for migrants) lends up to Tk 10 lakh per student <sup>[N14](#n14)</sup>. Students may work at most 28 hours a week, and only with permission (see [Beliefs against the facts](#beliefs-against-the-facts)) <sup>[12](#o12)</sup>.
 
 <a id="who-qualifies"></a>
 
@@ -364,13 +365,13 @@ By BMET's count 5,152 workers went to Japan from 2004 to May 2025, 0.04% of all 
 - 2025: 1,564 (OEP) <sup>[30](#o30)</sup>
 - 2026, to 18 November: 1,945 (OEP) <sup>[2](#o2)</sup>
 
-The government plans far more: the minister told parliament in April 2026 that Bangladesh intends to send 100,000 technical interns over five years without migration cost, and ministry sources told Prothom Alo in October 2025 that the yearly number could rise from 2,000 workers in 2026 to 50,000 in 2030 <sup>[N13](#n13), [N9](#n9)</sup>. An MoI (memorandum of intent) with Japan's National Business Support Combined Cooperatives (NBCC) foresees 2,000 workers in 2026, 6,000 in 2027 and 18,000 in 2028 <sup>[N14](#n14)</sup>. Officials at a June 2026 job fair said Bangladesh aims to send 500,000 workers to Japan within two and a half years <sup>[N3](#n3)</sup>. On 29 October 2026 Japan's Ministry of Foreign Affairs said claims that Japan had agreed to take 100,000 Bangladeshi workers were false, and that Japan allocates no jobs by country (see [SSW scams](#ssw-scams)) <sup>[N5](#n5)</sup>.
+The government plans far more: the minister told parliament in April 2026 that Bangladesh intends to send 100,000 technical interns over five years without migration cost, and ministry sources told Prothom Alo in October 2025 that the yearly number could rise from 2,000 workers in 2026 to 50,000 in 2030 <sup>[N15](#n15), [N9](#n9)</sup>. An MoI (memorandum of intent) with Japan's National Business Support Combined Cooperatives (NBCC, a federation of more than 65 Japanese companies) foresees 2,000 workers in 2026, 6,000 in 2027 and 18,000 in 2028 <sup>[N16](#n16), [N17](#n17), [N18](#n18)</sup>. The 100,000 figure first came from Japan's side: at a Tokyo seminar in May 2025 NBCC's chairman, Mikio Kesagayama, said his federation was ready to welcome 100,000 Bangladeshi workers in the next five years, and in October 2025 NBCC told the Chief Adviser it aims to recruit them under TITP and SSW <sup>[N17](#n17), [N18](#n18)</sup>. After returning from Japan in early September 2025, the finance adviser said that 100,000 workers could be sent within three months if they know Japanese <sup>[N10](#n10)</sup>. In August 2025 a presentation by the Association of Japanese Language Institutes in Bangladesh (AJLIB) said at least 43,000 students could be sent in three years <sup>[N19](#n19)</sup>. Officials at a June 2026 job fair said Bangladesh aims to send 500,000 workers to Japan within two and a half years <sup>[N3](#n3)</sup>. On 29 October 2026 Japan's Ministry of Foreign Affairs said claims that Japan had agreed to take 100,000 Bangladeshi workers were false, and that Japan allocates no jobs by country (see [SSW scams](#ssw-scams)) <sup>[N5](#n5)</sup>.
 
 <a id="who-is-in-japan"></a>
 
 #### 2.2.5 Who is in Japan
 
-Japan counted 44,938 Bangladeshi residents at the end of 2025, up 28.1% in a year and from 8,622 in 2012 <sup>[19](#o19)</sup>. They included 14,983 students, 9,382 family dependants, 8,719 graduates on gijinkoku, 4,538 permanent residents, 2,198 technical interns, 839 SSW workers, 821 on Designated Activities (a status covering many situations, among them graduates looking for work and refugee applicants waiting for a decision), 504 business managers, 441 on the Skilled Labour (ginō) visa and 117 care workers <sup>[20](#o20), [42](#o42), [43](#o43)</sup>. SSW is growing: Bangladeshi SSW (i) holders rose from 826 at the end of 2025 to 1,189 by June 2026 <sup>[44](#o44), [36](#o36)</sup>.
+Japan counted 44,938 Bangladeshi residents at the end of 2025, up 28.1% in a year and from 8,622 in 2012 <sup>[19](#o19)</sup>. They included 14,983 students, 9,382 family dependants, 8,719 graduates on gijinkoku, 4,538 permanent residents, 2,198 technical interns, 839 SSW workers, 821 on Designated Activities (a status covering many situations, among them graduates looking for work and refugee applicants waiting for a decision), 504 business managers, 441 on the Skilled Labour (ginō) visa and 117 care workers <sup>[20](#o20), [42](#o42), [43](#o43)</sup>. SSW is growing: Bangladeshi SSW (i) holders rose from 826 at the end of 2025 to 1,189 by June 2026 <sup>[44](#o44), [36](#o36)</sup>. Figures quoted in Bangladesh in 2025 were lower: Prothom Alo reported 31,536 Bangladeshis in Japan, about half of them students, in August 2025, and the expatriates' ministry gave 26,000 in October 2025 <sup>[N19](#n19), [N10](#n10)</sup>.
 
 Japan had 300,992 Nepalis, 182,567 Myanmar nationals, 79,128 Sri Lankans and 34,911 Pakistanis at the end of 2025 <sup>[19](#o19)</sup>. At the end of 2025, 116,151 Nepalis were students, 72,978 family dependants, 48,813 on gijinkoku, 12,387 on SSW and 4,477 technical interns <sup>[20](#o20)</sup>. Sri Lanka had 4,003 on SSW and 2,870 technical interns <sup>[20](#o20)</sup>. In June 2026, 15,374 Nepalis and 4,920 Sri Lankans held SSW (i), against 1,189 Bangladeshis <sup>[36](#o36)</sup>. Japan had 4,125,395 foreign residents in all, including 456,618 technical interns and 390,296 SSW workers <sup>[45](#o45)</sup>.
 
@@ -382,7 +383,7 @@ Japan had 300,992 Nepalis, 182,567 Myanmar nationals, 79,128 Sri Lankans and 34,
 
 #### 2.2.6 What has closed it before
 
-The flow has never been banned, but it has stalled: departures fell from 229 in 2019 to 3 in 2021 <sup>[41](#o41)</sup>. The Financial Express reported in March 2019 that an earlier zero-cost intern route through private agencies had collapsed after recruiters allegedly charged jobseekers large sums <sup>[N8 (2019)](#n8)</sup>.
+The flow has never been banned, but it has stalled: departures fell from 229 in 2019 to 3 in 2021 <sup>[41](#o41)</sup>. A columnist who has lived in Japan for three decades wrote in November 2024 that Bangladeshis in Japan, who began arriving in the 1980s, passed 50,000 by 2000 and fell to 15,000 by 2020, most having to go home because there was no skilled-worker quota visa; Nepalis in Japan, he wrote, rose from under 5,000 in 2000 to over 200,000 <sup>[N20 (2024)](#n20)</sup>. The Bangladesh Embassy in Tokyo said in January 2025 that after the 2018 and 2019 MOCs the number of Bangladeshis in Japan rose from 18,000 to about 32,000 in two and a half years <sup>[N21](#n21)</sup>. The Financial Express reported in March 2019 that an earlier zero-cost intern route through private agencies had collapsed after recruiters allegedly charged jobseekers large sums <sup>[N8 (2019)](#n8)</sup>.
 
 > **Need to know**
 > - Did Japan or Bangladesh suspend departures to Japan in 2020-21, and when did they resume?
@@ -391,12 +392,18 @@ The flow has never been banned, but it has stalled: departures fell from 229 in 
 
 #### 2.2.7 Where it may grow
 
+- *The overall gap.* Bangladesh's ambassador in Tokyo said in May 2025 that Japan's labour shortage could reach 11 million by 2040, and the expatriates' ministry's senior secretary said in November 2025 that Japan will need about 11 million foreign workers by then <sup>[N17](#n17), [N22](#n22)</sup>.
 - *Care.* Ministry sources put Japanese demand for Bangladeshi care workers at 60,000, and care is already the second-largest Bangladeshi SSW field <sup>[N9](#n9), [36](#o36)</sup>.
 - *ESD from 2027.* ESD's ceiling is 426,200 workers to March 2029 <sup>[31](#o31)</sup>.
-- *Construction, factories and farms.* The same ministry sources put the possible numbers by 2030 at 40,000 construction, 20,000 factory, 20,000 care and 20,000 farm and car-service workers <sup>[N9](#n9)</sup>.
+- *Construction, factories and farms.* The same ministry sources put the possible numbers by 2030 at 40,000 construction, 20,000 factory, 20,000 care and 20,000 farm and car-service workers <sup>[N9](#n9)</sup>. NBCC said in October 2025 that its members need the most workers in construction, services, aviation, garments and agriculture <sup>[N18](#n18)</sup>.
+- *Nurses.* NBCC said in October 2025 that Japan will need more than 400,000 skilled nurses in the next few years and that it would consider recruiting more from Bangladesh <sup>[N18](#n18)</sup>.
+- *Drivers.* NBCC expects demand for drivers, automobile and recycling workers to grow <sup>[N18](#n18)</sup>. In October 2025 Miki Watanabe, founder of Japan's Watami Group, told the Chief Adviser he plans a driving school in Bangladesh to train drivers for jobs in Japan and was looking for a 12,000 square-metre site <sup>[N23](#n23)</sup>.
+- *Engineers in Hokkaido.* In November 2025 the mayor of Sapporo announced, among measures to draw green-energy investment to Hokkaido, a special visa for foreign engineers <sup>[N24](#n24)</sup>.
 
 > **Need to know**
 > - Has Bangladesh signed the cooperation document Japan requires for ESD, and when will Bangladesh's ESD sending organisations be approved?
+> - Has Sapporo's special visa for foreign engineers been introduced, under what name, and what does it require?
+> - Has Watami Group opened its driving school in Bangladesh, where, and does it lead to the SSW automobile transportation test?
 
 <a id="how-a-job-reaches-you-and-who-takes-a-cut"></a>
 
@@ -426,7 +433,11 @@ A Japanese job becomes a visa only when a Japanese employer picks a candidate, t
 
 #### 2.3.2 Language centres and training
 
-The language course is where the time and money go. BMET teaches Japanese in 53 TTCs (online in 15), and more than 200 private language institutes operate across the country <sup>[N12](#n12)</sup>. BMET's TTC course runs four months, 40 trainees a batch, up to N4, for anyone with SSC; in 2019 the TTC course fee was Tk 1,000 <sup>[N9](#n9), [N11 (2019)](#n11)</sup>. Ministry officials admit the TTCs lack skilled Japanese teachers <sup>[N9](#n9)</sup>. Japanese companies are building their own pipelines: Kawai Group Japan opened a residential training centre on 22 bighas in Birulia, Dhaka, and Bangladesh has signed training-and-recruitment agreements with NBCC, Japan-Bangla Bridge Recruiting Agency (JBBRA) and Kaicom Dream Street BD (KDS) <sup>[N9](#n9), [N15](#n15)</sup>.
+The language course is where the time and money go. BMET teaches Japanese in 53 TTCs (online in 15), and more than 200 private language institutes operate across the country <sup>[N14](#n14)</sup>. BMET's TTC course runs four months, 40 trainees a batch, up to N4, for anyone with SSC; in 2019 the TTC course fee was Tk 1,000 <sup>[N9](#n9), [N12 (2019)](#n12)</sup>. In November 2025 the ministry's senior secretary said 33 TTCs had been designated to prepare workers for Japan <sup>[N22](#n22)</sup>. Ministry officials admit the TTCs lack skilled Japanese teachers, and in 2025 the chairman of JITCO (Japan International Trainee and Skilled Worker Cooperation Organization, the body that promotes Japan's intern and SSW schemes) said Bangladesh still lacks Japanese teachers, and NBCC's chairman said trainers' Japanese could be better <sup>[N9](#n9), [N17](#n17), [N18](#n18)</sup>. The expatriates' welfare adviser said in 2025 that he had asked Japan to give language training itself and take the people it trains <sup>[N10](#n10)</sup>. Japanese companies are building their own pipelines <sup>[N25](#n25)</sup>:
+- *Kawai Group Japan:* a residential training centre on 22 bighas in Birulia, Dhaka, which began training with Japanese teachers on 1 October 2025 <sup>[N9](#n9), [N10](#n10)</sup>.
+- *Watami Group:* a language academy at Monohardi, Narsingdi, which its founder said in October 2025 trains 40 people a batch, plans to train and place at least 3,000, and had sent 52 workers to Japan for construction and farm work <sup>[N23](#n23)</sup>; in May 2025 he said a Watami school in Bangladesh trained 1,500 students a year and was planning to raise this to 3,000 <sup>[N17](#n17)</sup>.
+- *NBCC:* training-and-recruitment agreements with Bangladesh, with candidates trained at centres in Khulna and at Kapasia, Gazipur <sup>[N25](#n25), [N18](#n18)</sup>.
+- *Japan-Bangla Bridge Recruiting Agency (JBBRA) and Kaicom Dream Street BD (KDS):* agreements with BMET signed in May 2025 <sup>[N25](#n25), [N26](#n26)</sup>.
 
 > **Need to know**
 > - What do private Japanese language centres in Dhaka charge for an N4 or JFT-Basic course in 2026, and what do they promise about jobs?
@@ -436,7 +447,7 @@ The language course is where the time and money go. BMET teaches Japanese in 53 
 #### 2.3.3 Where brokers get in
 
 - *Unauthorised agencies.* In October 2019 a ministry mobile court, with RAB (the Rapid Action Battalion), fined TMSS ICT, a concern of the NGO Thengamara Mohila Sabuj Shangha (TMSS), Tk 10.5 lakh for advertising Japan training and recruitment without permission <sup>[N7 (2019)](#n7)</sup>. The ministry's magistrate said TMSS's recruiting agency was not authorised for Japan and was about to collect Tk 4 lakh per candidate; RAB said the agency, Northern Recruiting Agency in Mirpur, had taken Tk 8 lakh each on promises of Japan jobs <sup>[N7 (2019)](#n7), [N4 (2019)](#n4)</sup>. TMSS Northern Recruiting Agency has been an OTIT-approved sending organisation since 22 September 2022, and it organised the June 2026 job fair where the Tk 148,500 government-approved cost was quoted <sup>[48](#o48), [N3](#n3)</sup>.
-- *Visa "consultants".* In October 2020 a mobile court jailed the chairman and managing director of Dhaka's Visa Guide Center for a year and fined each Tk 50,000; one victim said the firm had asked him for Tk 7 lakh to send him to Japan <sup>[N16 (2020)](#n16)</sup>.
+- *Visa "consultants".* In October 2020 a mobile court jailed the chairman and managing director of Dhaka's Visa Guide Center for a year and fined each Tk 50,000; one victim said the firm had asked him for Tk 7 lakh to send him to Japan <sup>[N27 (2020)](#n27)</sup>.
 - *Overcharging by permitted agencies.* Prothom Alo reported in October 2025 that 27 agencies were permitted to train and place workers for Japan and that one had lost its licence for overcharging workers <sup>[N9](#n9)</sup>.
 - *What the Japanese watch.* Bangladesh's finance adviser said in 2025 that Japanese officials had told him Nepal, which had sent 250,000, does not suffer from the dominance of recruiting agencies <sup>[N9](#n9)</sup>.
 
@@ -447,14 +458,14 @@ The language course is where the time and money go. BMET teaches Japanese in 53 
 
 ### 2.4 What you pay, and what you earn and keep
 
-On paper the Japan route is cheap: the principal of a BMET training centre put the government-approved cost at Tk 148,500 in June 2026, and IM Japan interns had gone without paying migration costs by 2023 <sup>[N3](#n3), [N9](#n9), [N10 (2023)](#n10)</sup>. A minimum-wage job pays 1,085 to 1,280 yen an hour before deductions at the rates set in 2026 <sup>[24](#o24)</sup>.
+On paper the Japan route is cheap: the principal of a BMET training centre put the government-approved cost at Tk 148,500 in June 2026, and IM Japan interns had gone without paying migration costs by 2023 <sup>[N3](#n3), [N9](#n9), [N11 (2023)](#n11)</sup>. A minimum-wage job pays 1,085 to 1,280 yen an hour before deductions at the rates set in 2026 <sup>[24](#o24)</sup>.
 
 <a id="the-official-cost"></a>
 
 #### 2.4.1 The official cost
 
 - *TITP.* The 2019 guideline set a zero migration cost policy for interns, with any ministry-set fee paid into the intern's PKB account, not to the agency <sup>[N8 (2019)](#n8)</sup>.
-- *All routes.* The principal of BMET's Bangladesh-Korea Technical Training Centre (BKTTC) in Dhaka told a job fair run by TMSS Northern Recruiting Agency on 18 June 2026 that the government-approved cost for a worker to go to Japan is Tk 148,500, according to BSS (Bangladesh Sangbad Sangstha, the state news agency) <sup>[N3](#n3), [N9](#n9)</sup>. BSS reported in April 2026 that the Tk 15 lakh deposit required of agencies sending to Japan has been waived <sup>[N12](#n12)</sup>.
+- *All routes.* The principal of BMET's Bangladesh-Korea Technical Training Centre (BKTTC) in Dhaka told a job fair run by TMSS Northern Recruiting Agency on 18 June 2026 that the government-approved cost for a worker to go to Japan is Tk 148,500, according to BSS (Bangladesh Sangbad Sangstha, the state news agency) <sup>[N3](#n3), [N9](#n9)</sup>. BSS reported in April 2026 that the Tk 15 lakh deposit required of agencies sending to Japan has been waived <sup>[N14](#n14)</sup>.
 - *ESD, from April 2027.* Everything a worker pays a sending organisation must not exceed two months' basic wage at the start of work, not counting overtime, and Japan says the worker's share should be as close to zero as possible <sup>[47](#o47)</sup>. Sending organisations must publish online how they calculate their fees <sup>[47](#o47)</sup>.
 
 > **Need to know**
@@ -475,7 +486,7 @@ Japan's 2022 survey of interns covered Vietnam, China, Cambodia, Myanmar, Indone
 
 - *Minimum wage.* From October 2026 the national weighted average is 1,177 yen an hour <sup>[24](#o24)</sup>. Tokyo pays 1,280, Kanagawa 1,279, Osaka 1,231 and Aichi 1,195; the lowest is Miyazaki at 1,085 (see [Minimum wage](#minimum-wage)) <sup>[24](#o24)</sup>. Some prefectures' new rates start late: Iwate and Kumamoto from 1 December 2026 and Okinawa from 2 December 2026, and until then their old rates (as low as 1,023 yen in Okinawa) apply <sup>[24](#o24)</sup>.
 - *Hours and overtime.* The normal limit is 40 hours a week and 8 a day, and overtime pays at least 25% extra; farm and fisheries work is exempt from the rules on hours, breaks and holidays <sup>[17](#o17)</sup>.
-- *What workers are paid.* IM Japan interns earned 150,000 to 190,000 yen a month in 2023, and press reports put SSW pay at 200,000 to 300,000 yen <sup>[N10 (2023)](#n10), [N17](#n17)</sup>.
+- *What workers are paid.* IM Japan interns earned 150,000 to 190,000 yen a month in 2023, and press reports put SSW pay at 200,000 to 300,000 yen <sup>[N11 (2023)](#n11), [N28](#n28)</sup>. Prothom Alo put pay in taka at Tk 1,24,500 to 1,57,700 a month for IM Japan interns in April 2025, and at Tk 1,35,000 to 1,57,000 for workers generally in October 2025, paid into a bank account <sup>[N13](#n13), [N10](#n10)</sup>.
 
 <a id="what-comes-off"></a>
 
@@ -487,7 +498,7 @@ Health insurance, pension and employment insurance premiums, income tax and inha
 
 #### 2.4.5 Remittances from Japan
 
-Bangladesh Bank recorded US$32.73 million of remittances from Japan in July to September 2026, 23rd among source countries (see [Sending money home](#sending-money-home)) <sup>[51](#o51)</sup>.
+Bangladesh Bank recorded US$32.73 million of remittances from Japan in July to September 2026, 23rd among source countries (see [Sending money home](#sending-money-home)) <sup>[51](#o51)</sup>. Prothom Alo reported in August 2025 that Bangladeshi students in Japan send about Tk 900 crore a year <sup>[N19](#n19)</sup>.
 
 <a id="what-ties-you-to-the-employer"></a>
 
@@ -516,7 +527,7 @@ The problems Bangladeshis meet are paying brokers for jobs that do not exist, in
 - *Debt and broker fees.* In Japan's 2022 survey of interns from six other countries, 54.7% had borrowed to come, and the average paid before arrival was 542,311 yen <sup>[25 (2022)](#o25)</sup>.
 - *Runaway interns (shissō).* 3,950 interns went missing in 2025, 0.6% of all interns, down from 9,753 in 2023; of 36,386 who went missing in 2021-2025, 6,609 were still unlocated on 31 May 2026 <sup>[52](#o52)</sup>. Few Bangladeshis are interns, but in 2024 and 2025 they went missing at a higher rate than the average: 20 in 2023 (1.6% of Bangladeshi interns, against 1.9% for all), 35 in 2024 (1.9%, against 1.2%) and 32 in 2025 (1.3%, against 0.6%) <sup>[52](#o52)</sup>. Japan has stopped new intake from Vietnamese and Cambodian sending agencies with many runaways <sup>[52](#o52)</sup>.
 - *Students working too much.* Immigration matches employers' reports to find students working at several places, language schools must report suspected illegal work, and immigration uses what it finds when the student next applies to stay <sup>[13](#o13)</sup>.
-- *Schools that abuse students.* In July 2023 Japan barred a Sendai language school, Mirai no Morigakuen, from taking new students for five years for making students sign pledges with penalties of about 1 to 3 million yen; the school called the action unjustified <sup>[N18 (2023)](#n18)</sup>.
+- *Schools that abuse students.* In July 2023 Japan barred a Sendai language school, Mirai no Morigakuen, from taking new students for five years for making students sign pledges with penalties of about 1 to 3 million yen; the school called the action unjustified <sup>[N29 (2023)](#n29)</sup>.
 - *Refugee claims.* Bangladeshis lodged 777 refugee claims in Japan in 2025, the fifth-largest group, up from 80 in 2021 <sup>[53](#o53)</sup>. Japan recognised 187 people of all nationalities as refugees in 2025, and turned down 9,214 claims at first instance <sup>[26](#o26)</sup>.
 - *Bank accounts and phones.* Selling or handing over your bank book, cash card or phone is a crime (see [Selling or lending your bank account or phone](#selling-or-lending-your-bank-account-or-phone)) <sup>[17](#o17)</sup>.
 
@@ -524,15 +535,15 @@ The problems Bangladeshis meet are paying brokers for jobs that do not exist, in
 
 #### 2.6.2 Beliefs against the facts
 
-*"You must pay an agency or dalal to go to Japan."* On the government routes workers are not supposed to pay agencies, and IM Japan interns have gone free; what gets people in is Japanese and the skills test <sup>[N7 (2019)](#n7), [N10 (2023)](#n10), [3](#o3)</sup>.
+*"You must pay an agency or dalal to go to Japan."* On the government routes workers are not supposed to pay agencies, and IM Japan interns have gone free; what gets people in is Japanese and the skills test <sup>[N7 (2019)](#n7), [N11 (2023)](#n11), [3](#o3)</sup>.
 
-*"Students can work as much as they like."* Students may work at most 28 hours a week in term (8 hours a day in long holidays), and only with permission; a 2026 newspaper report wrongly said they may work more <sup>[12](#o12), [N19](#n19)</sup>.
+*"Students can work as much as they like."* Students may work at most 28 hours a week in term (8 hours a day in long holidays), and only with permission; a 2026 newspaper report wrongly said they may work more <sup>[12](#o12), [N30](#n30)</sup>.
 
-*"Japan pays Tk 2 to 3 lakh a month."* The minimum wages set in 2026 are 1,085 to 1,280 yen an hour; 200,000 to 300,000 yen a month is a press figure <sup>[24](#o24), [N17](#n17)</sup>.
+*"Japan pays Tk 2 to 3 lakh a month."* The minimum wages set in 2026 are 1,085 to 1,280 yen an hour; 200,000 to 300,000 yen a month is a press figure <sup>[24](#o24), [N28](#n28)</sup>.
 
 *"An intern can move to a better-paying job."* Only for "unavoidable circumstances"; free moves come only with SSW, or with ESD from 2027 after 1 to 2 years <sup>[21](#o21), [3](#o3), [47](#o47)</sup>.
 
-*"Doing hard jobs, or claiming asylum, gets your visa extended."* Two Bangladeshi asylum seekers said in 2017 that brokers and construction companies had told them their visas would be extended if they did Fukushima radiation clean-up, which they did in 2015; a justice ministry official said no residence permits were on offer for such work <sup>[N20 (2017)](#n20)</sup>.
+*"Doing hard jobs, or claiming asylum, gets your visa extended."* Two Bangladeshi asylum seekers said in 2017 that brokers and construction companies had told them their visas would be extended if they did Fukushima radiation clean-up, which they did in 2015; a justice ministry official said no residence permits were on offer for such work <sup>[N31 (2017)](#n31)</sup>.
 
 <a id="how-the-irregular-routes-end"></a>
 
@@ -551,11 +562,11 @@ These routes exist but a Bangladesh passport holder cannot use them <sup>[54](#o
 - **Visa-free entry:** Japan has visa exemption arrangements with 74 countries and regions, and Bangladesh is not one of them <sup>[54](#o54)</sup>. A visa cannot be obtained on arrival in Japan or while staying there; a Bangladeshi must get one from a Japanese mission before travelling (see ["Visit visa (temporary visitor)"](#visit-visa-temporary-visitor)) <sup>[56](#o56)</sup>.
 - **Working holiday visa:** the programmes run only under bilateral arrangements, with 33 partner countries and regions as of 1 November 2026, and Bangladesh is not among them <sup>[55](#o55)</sup>.
 - **JAPAN eVISA (the online tourist visa):** only people who live in Australia, Brazil, Cambodia, Canada, Saudi Arabia, South Africa, Taiwan, the United Kingdom or the United States can apply online, so a Bangladeshi living in Bangladesh applies on paper through VFS Global <sup>[56](#o56), [9 (2024)](#o9)</sup>.
-- **Transit visa:** Japan stopped issuing transit visas on 1 July 2026 (see [Transit](#transit)) <sup>[N21](#n21)</sup>.
+- **Transit visa:** Japan stopped issuing transit visas on 1 July 2026 (see [Transit](#transit)) <sup>[N32](#n32)</sup>.
 
 > **Need to know**
 > - Can a Bangladeshi who lives and works in Saudi Arabia use the JAPAN eVISA for a tourist trip, as the residence rule suggests? <sup>[56](#o56)</sup>
-> - Has the Ministry of Foreign Affairs of Japan or the Embassy of Japan in Dhaka confirmed that transit visas ended on 1 July 2026? <sup>[N21](#n21)</sup>
+> - Has the Ministry of Foreign Affairs of Japan or the Embassy of Japan in Dhaka confirmed that transit visas ended on 1 July 2026? <sup>[N32](#n32)</sup>
 
 <a id="work-visa-specified-skilled-worker-ssw"></a>
 
@@ -593,7 +604,7 @@ The order is: pass the Japanese test and the skills test, find an employer and s
 
 #### 4.1.3 The Bangladesh maximum
 
-When the SSW agreement was signed in 2019, workers going to Japan were to pay nothing, because Japanese employers pay the service charge of the recruiting agencies the government enlists <sup>[N7 (2019)](#n7)</sup>. In 2025 the adviser to the Ministry of Expatriates' Welfare said the cost of going to Japan "is not very high" <sup>[N9](#n9)</sup>. By October 2025 one agency approved for Japan had had its licence cancelled for overcharging workers <sup>[N9](#n9)</sup>. By April 2026 the Tk 15 lakh deposit agencies had to make had been waived, and the Ministry said it had moved fee payments to the banking channel and revised its Japan guidelines <sup>[N22](#n22)</sup>.
+When the SSW agreement was signed in 2019, workers going to Japan were to pay nothing, because Japanese employers pay the service charge of the recruiting agencies the government enlists <sup>[N7 (2019)](#n7)</sup>. In 2025 the adviser to the Ministry of Expatriates' Welfare said the cost of going to Japan "is not very high" <sup>[N9](#n9)</sup>. By October 2025 one agency approved for Japan had had its licence cancelled for overcharging workers <sup>[N9](#n9)</sup>. By April 2026 the Tk 15 lakh deposit agencies had to make had been waived, and the Ministry said it had moved fee payments to the banking channel and revised its Japan guidelines <sup>[N33](#n33)</sup>.
 
 > **Need to know**
 > - What does the Ministry's current Japan SSW guideline ("Guidline SSW", probashi.portal.gov.bd) set as the most a Bangladeshi agency may take from an SSW worker, and is it still the zero-cost rule of 2019?
@@ -640,15 +651,19 @@ Pay any agency only through the bank, into the agency's own account, and keep ev
 
 ### 4.3 Step 2: Learn Japanese and pass JFT-Basic or JLPT N4
 
-SSW (i) needs Japanese at level A2.2, shown by passing either the Japan Foundation Test for Basic Japanese (JFT-Basic) at A2.2 or the Japanese-Language Proficiency Test (JLPT) at N4 or higher <sup>[7](#o7), [67](#o67)</sup>. People who completed Technical Intern Training (ii) are exempt from both tests in the same field <sup>[7](#o7), [23](#o23)</sup>. Language is the main barrier: in December 2024, 3,091 people sat JLPT N4 in Bangladesh and 511 passed <sup>[N23](#n23)</sup>. BMET's Director General said it takes about six months to learn, and many drop out because they cannot pay their costs that long <sup>[N23](#n23)</sup>.
+SSW (i) needs Japanese at level A2.2, shown by passing either the Japan Foundation Test for Basic Japanese (JFT-Basic) at A2.2 or the Japanese-Language Proficiency Test (JLPT) at N4 or higher <sup>[7](#o7), [67](#o67)</sup>. People who completed Technical Intern Training (ii) are exempt from both tests in the same field <sup>[7](#o7), [23](#o23)</sup>. Language is the main barrier: in December 2024, 3,091 people sat JLPT N4 in Bangladesh and 511 passed <sup>[N34](#n34)</sup>. BMET's Director General said it takes about six months to learn, and many drop out because they cannot pay their costs that long <sup>[N34](#n34)</sup>.
 
 <a id="where-to-learn"></a>
 
 #### 4.3.1 Where to learn
 
-- **BMET Technical Training Centres (TTCs):** Japanese is taught at 53 TTCs, 15 of them in a hybrid online model <sup>[N22](#n22)</sup>. TTCs teaching up to N4 include Bangladesh-Korea TTC Mirpur, Women's TTC Mirpur, Bangladesh-Korea TTC Chattogram, and the Narsingdi, Chapainawabganj, Tangail and Khulna TTCs; the course runs four months with 40 trainees a batch, and SSC holders can enrol <sup>[N9](#n9)</sup>.
-- **Example of a BMET course:** in 2025 Bangladesh-Korea TTC ran a 4-month course for JLPT N4, JFT-Basic and the SSW skills test, for SSC holders who had passed or completed a course at N5, with an assessment fee of Tk 1,000 and free application forms from the BMET website or the TTC <sup>[N24](#n24)</sup>.
-- **Private institutes:** more than 200 private language institutes operate <sup>[N22](#n22)</sup>.
+- **BMET Technical Training Centres (TTCs):** Japanese is taught at 53 TTCs, 15 of them in a hybrid online model <sup>[N33](#n33)</sup>. TTCs teaching up to N4 include Bangladesh-Korea TTC Mirpur, Women's TTC Mirpur, Bangladesh-Korea TTC Chattogram, and the Narsingdi, Chapainawabganj, Tangail and Khulna TTCs; the course runs four months with 40 trainees a batch, and SSC holders can enrol <sup>[N9](#n9)</sup>. Centres teaching in the hybrid model include those three Mirpur and Chattogram centres and the Chapainawabganj, Khulna, Moulvibazar, Brahmanbaria, Kishoreganj, Kapasia, Barishal, Rajbari and Chandpur Sadar TTCs <sup>[N10](#n10)</sup>. A ministry official said in 2025 that it does not matter whether you learn Japanese at a government or a private centre <sup>[N10](#n10)</sup>.
+- **Example of a BMET course:** in 2025 Bangladesh-Korea TTC ran a 4-month course for JLPT N4, JFT-Basic and the SSW skills test, for SSC holders who had passed or completed a course at N5, with an assessment fee of Tk 1,000 and free application forms from the BMET website or the TTC <sup>[N35](#n35)</sup>.
+  - *Who:* aged 17 to 35 and physically fit; 50 seats in Dhaka (Mirpur) and 30 in Chattogram, for September to December 2025 <sup>[N36](#n36), [N37](#n37)</sup>.
+  - *Who gets in first:* JLPT N5 passers, then NAT N5 passers (the NAT-TEST is a separate Japanese test), then people who finished a Japanese course at a TTC or a BMET Institute of Marine Technology (IMT) <sup>[N36](#n36)</sup>.
+  - *Timeline:* in Dhaka, applications closed at 4 pm on 24 August 2025, with the selection test and results on 25 August and results posted at www.bkttcdhaka.gov.bd; in Chattogram, applications closed on 26 August and the admission test was at 10 am on 27 August <sup>[N36](#n36), [N37](#n37)</sup>.
+  - *Classes:* from 1 September 2025, Sunday to Thursday, 8 am to 2 pm <sup>[N36](#n36), [N37](#n37)</sup>.
+- **Private institutes and universities:** more than 200 private language institutes operate, among them Ekush in Mirpur; Dhaka University (its Institute of Modern Languages), Green University and North South University also teach Japanese <sup>[N33](#n33), [N10](#n10), [N38 (2024)](#n38)</sup>.
 - **Study materials:** the Japan Foundation's "Irodori: Japanese for Life in Japan" coursebook and the free IRODORI online course match JFT-Basic <sup>[67](#o67)</sup>.
 
 > **Need to know**
@@ -671,18 +686,18 @@ You'll need:
 - a Prometric ID, with your name, passport number and date of birth entered exactly as in the passport <sup>[65](#o65)</sup>.
 
 1. Create a Prometric ID on Prometric's registration website; one person may hold only one <sup>[63](#o63), [65](#o65)</sup>.
-2. Choose the date, venue and start time, and pay <sup>[63](#o63)</sup>. Book by three business days before the test, or four if the test is on a Saturday, Sunday or public holiday <sup>[63](#o63)</sup>. Bookings for tests from 1 December 2026 to 15 January 2027 open on 25 November 2026 and close on 12 January 2027 <sup>[65](#o65)</sup>. Seats are limited and the site may put you in a virtual waiting room <sup>[N25](#n25)</sup>.
+2. Choose the date, venue and start time, and pay <sup>[63](#o63)</sup>. Book by three business days before the test, or four if the test is on a Saturday, Sunday or public holiday <sup>[63](#o63)</sup>. Bookings for tests from 1 December 2026 to 15 January 2027 open on 25 November 2026 and close on 12 January 2027 <sup>[65](#o65)</sup>. Seats are limited and the site may put you in a virtual waiting room <sup>[N39](#n39)</sup>.
 3. On the day arrive 30 minutes early with your original passport and the Confirmation Letter; late arrivals cannot sit and there is no refund <sup>[65](#o65)</sup>.
 4. The score shows on screen at the end; the official result notification is on your Prometric "My Page" within 5 business days, and does not expire <sup>[65](#o65), [67](#o67)</sup>.
 5. If you fail, you cannot sit again for 45 days; once you score 200 or more you cannot retake <sup>[65](#o65)</sup>.
 
-**If it fails:** the Japan Foundation does not handle bookings; contact Prometric's customer service through its Bangladesh inquiry page <sup>[67](#o67)</sup>. Prometric closes the centres for national events, such as on 12 February 2026 for the election, and asks candidates to rebook themselves <sup>[N26](#n26)</sup>.
+**If it fails:** the Japan Foundation does not handle bookings; contact Prometric's customer service through its Bangladesh inquiry page <sup>[67](#o67)</sup>. Prometric closes the centres for national events, such as on 12 February 2026 for the election, and asks candidates to rebook themselves <sup>[N40](#n40)</sup>.
 
 <a id="jlpt-in-dhaka"></a>
 
 #### 4.3.3 JLPT in Dhaka
 
-The JLPT is held in Dhaka twice a year, in July and December, by the Japanese Universities Alumni Association in Bangladesh (JUAAB), the local host <sup>[69](#o69)</sup>. The December 2026 test is on 6 December 2026, for levels N1 to N5, at a fee of Tk 4,356; registration confirmation opened on 1 September 2026 at 11:00 am <sup>[60](#o60)</sup>. Online results come about two months after the test and the pass/fail notice about three months after <sup>[67](#o67)</sup>.
+The JLPT is held in Dhaka twice a year, in July and December by the Japanese Universities Alumni Association in Bangladesh (JUAAB), the local host <sup>[69](#o69)</sup>. The Chief Adviser said in October 2025 that two sittings a year are not enough for the demand <sup>[N23](#n23)</sup>. The December 2026 test is on 6 December 2026, for levels N1 to N5, at a fee of Tk 4,356; registration confirmation opened on 1 September 2026 at 11:00 am <sup>[60](#o60)</sup>. Online results come about two months after the test and the pass/fail notice about three months after <sup>[67](#o67)</sup>.
 
 1. Create an account on JUAAB's JLPT portal and complete your profile <sup>[60](#o60)</sup>.
 2. When registration opens, confirm your level and pay online <sup>[60](#o60)</sup>.
@@ -733,15 +748,16 @@ ISA's process is that people overseas apply to employers directly or through pri
 
 #### 4.6.1 Through BMET and licensed agencies
 
-- **Who is approved:** news reports in 2025 and 2026 give 27, 95 and 96 Bangladeshi recruiting agencies approved for Japan; only about 30 send workers in a year, and from 2004 to April 2025 they sent 5,014 workers <sup>[N9](#n9), [N22](#n22), [N23](#n23)</sup>.
+- **Who is approved:** news reports in 2025 and 2026 give 27, 95 and 96 Bangladeshi recruiting agencies approved for Japan; only about 30 send workers in a year, and from 2004 to April 2025 they sent 5,014 workers <sup>[N9](#n9), [N33](#n33), [N34](#n34)</sup>.
 - **How a job order reaches Bangladesh:** a Japanese company or supervising organisation issues a demand letter to an enlisted Bangladeshi sending organisation and sends it to the Bangladesh Embassy in Tokyo, which verifies and attests it, usually within 3 to 7 days, for JPY 1,000 a page, paid by bank <sup>[18](#o18)</sup>. The demand letter must state the number of workers, employer, job, contract period, age, basic salary, hours, overtime, accommodation, transport, food, medical benefits and air ticket <sup>[18](#o18)</sup>.
-- **Government channels:** the Ministry set up a "Japan Cell" for Japan recruitment, with a Facebook page and an email channel for queries <sup>[N22](#n22), [N15](#n15)</sup>. In May 2025 BMET signed agreements with Kaicom Dream Street (a training cell at Monohardi TTC) and with NBCC, a federation of Japanese companies, and Japan-Bangla Bridge Recruiting Agency, to train and place TITP and SSW workers <sup>[N27](#n27)</sup>.
+- **Government channels:** the Ministry set up a "Japan Cell" for Japan recruitment, with a Facebook page and an email channel for queries <sup>[N33](#n33), [N25](#n25)</sup>; its focal person in August 2025 was Md. Hedayetul Islam Mondal <sup>[N19](#n19)</sup>. In May 2025 BMET signed agreements with Kaicom Dream Street (a training cell at Monohardi TTC) and with NBCC, a federation of Japanese companies, and Japan-Bangla Bridge Recruiting Agency, to train and place TITP and SSW workers <sup>[N26](#n26)</sup>.
+- **Matching seminars in Japan:** the Bangladesh Embassy in Tokyo and JITCO bring Japanese employers and Bangladeshi sending agencies together: about 40 companies and agencies in Osaka in January 2025, and about 250 organisations at a seminar and matching event in Nagoya in November 2025, after which four MoUs and agreements were signed between Bangladeshi sending agencies and Japanese recruiters <sup>[N21](#n21), [N22](#n22)</sup>. The ambassador said in August 2025 that 22 organisations and more than 100 companies had recruited Bangladeshi workers in the previous two months <sup>[N19](#n19)</sup>.
 
 **Check it is real:** BMET checks a job visa or demand letter free within 3 working days; bring the visa or letter and a copy of the passport page <sup>[8](#o8)</sup>.
 
 > **Need to know**
 > - Where is the official list of agencies the Ministry has approved for Japan SSW, and does BMET's OEP show which agency holds an attested Japan demand letter?
-> - What are the Japan Cell's phone number, email and office address?
+> - What are the Japan Cell's phone number, email and office address, and does it take enquiries from individual workers?
 
 <a id="on-your-own"></a>
 
@@ -783,7 +799,7 @@ The Certificate of Eligibility (COE) is ISA's certificate that you meet the cond
 
 1. <a id="step-8-the-visa-at-the-japanese-embassy-then-bmet-clearance-item-1"></a>**Apply for the visa at VFS Global.** Since 3 November 2024 the Embassy of Japan takes visa applications only through VFS Global, Delta Life Tower, 4th Floor, Road 90, Plot 37, Gulshan-2, Dhaka-1212 (09606 777 910, info.japanbd@vfshelpline.com) <sup>[9 (2024)](#o9)</sup>. Book online; slots for the month after next open on the 15th of each month <sup>[9 (2024)](#o9)</sup>.
 
-   You'll need <sup>[N28](#n28)</sup>:
+   You'll need <sup>[N41](#n41)</sup>:
    - the visa application form;
    - your valid passport and a copy of its ID page;
    - one photograph;
@@ -833,15 +849,15 @@ SSW (ii) needs an SSW (ii) skills test, which may require work experience <sup>[
 
 **"Japan has agreed to take 100,000 Bangladeshis"**
 
-In October 2026 several Bangladeshi TV channels reported, and social-media posts spread, that Japan would take 100,000 Bangladeshi workers a year; on 29 October 2026 Japan's Ministry of Foreign Affairs said no such agreement existed <sup>[N5](#n5)</sup>. **Spot it:** there is no quota per country; a job needs your own test passes and an employer <sup>[N5](#n5)</sup>.
+The figure goes back to May 2025, when the chairman of NBCC, a Japanese business federation, told a Tokyo seminar his federation was ready to welcome 100,000 Bangladeshi workers over five years (see [The size of the flow](#the-size-of-the-flow)) <sup>[N17](#n17)</sup>. In October 2026 several Bangladeshi TV channels reported, and social-media posts spread, that Japan would take 100,000 Bangladeshi workers a year; on 29 October 2026 Japan's Ministry of Foreign Affairs said no such agreement existed <sup>[N5](#n5)</sup>. **Spot it:** there is no quota per country; a job needs your own test passes and an employer <sup>[N5](#n5)</sup>.
 
 **Training firms that charge for a Japan job**
 
-In 2019 a mobile court fined TMSS ICT Tk 10.5 lakh for advertising Japan training and recruitment without authorisation; it was about to take Tk 4 lakh from each candidate <sup>[N7 (2019)](#n7)</sup>. By October 2025 one agency approved for Japan had had its licence cancelled for overcharging <sup>[N9](#n9)</sup>. In August 2025 the Chief Adviser's special envoy on international affairs said manpower syndicates charge extra money to send workers to Japan <sup>[N29](#n29)</sup>. **Spot it:** publishing a job-abroad advertisement without the government's or BMET's prior approval is itself an offence, punishable by up to 1 year in jail and a fine of at least Tk 50,000 <sup>[84](#o84)</sup>; BMET checks a demand letter free (see [Through BMET and licensed agencies](#through-bmet-and-licensed-agencies)) <sup>[8](#o8)</sup>.
+In 2019 a mobile court fined TMSS ICT Tk 10.5 lakh for advertising Japan training and recruitment without authorisation; it was about to take Tk 4 lakh from each candidate <sup>[N7 (2019)](#n7)</sup>. By October 2025 one agency approved for Japan had had its licence cancelled for overcharging <sup>[N9](#n9)</sup>. In August 2025 the Chief Adviser's special envoy on international affairs said manpower syndicates charge extra money to send workers to Japan <sup>[N42](#n42)</sup>. **Spot it:** publishing a job-abroad advertisement without the government's or BMET's prior approval is itself an offence, punishable by up to 1 year in jail and a fine of at least Tk 50,000 <sup>[84](#o84)</sup>; BMET checks a demand letter free (see [Through BMET and licensed agencies](#through-bmet-and-licensed-agencies)) <sup>[8](#o8)</sup>.
 
 **"Pass our course and the job is guaranteed"**
 
-Passing JFT-Basic or a skills test does not guarantee a COE or a visa <sup>[65](#o65)</sup>. **Spot it:** the 2025 BMET course at Bangladesh-Korea TTC charged a Tk 1,000 assessment fee, and the tests themselves are booked online with Prometric in your own name (see [JFT-Basic in Dhaka](#jft-basic-in-dhaka)) <sup>[N24](#n24), [63](#o63)</sup>.
+Passing JFT-Basic or a skills test does not guarantee a COE or a visa <sup>[65](#o65)</sup>. **Spot it:** the 2025 BMET course at Bangladesh-Korea TTC charged a Tk 1,000 assessment fee, and the tests themselves are booked online with Prometric in your own name (see [JFT-Basic in Dhaka](#jft-basic-in-dhaka)) <sup>[N35](#n35), [63](#o63)</sup>.
 
 **A contract with a deposit or penalty**
 
@@ -854,7 +870,7 @@ Taking a deposit or setting a penalty is grounds to refuse the status, and the t
 
 #### 4.12.2 Tried by workers
 
-- **Fake certificates and bank statements.** The Chief Adviser's special envoy said in 2025 that fake certificates and forged bank statements are a major reason Bangladeshis struggle to get Japan visa appointments <sup>[N23](#n23)</sup>. Falsified JLPT results are sold; the Japan Foundation confirms whether a JLPT certificate taken outside Japan is genuine <sup>[85](#o85)</sup>. JFT-Basic results are checked against the Prometric record in the candidate's own passport details <sup>[65](#o65)</sup>.
+- **Fake certificates and bank statements.** The Chief Adviser's special envoy said in 2025 that fake certificates and forged bank statements are a major reason Bangladeshis struggle to get Japan visa appointments <sup>[N34](#n34)</sup>. Falsified JLPT results are sold; the Japan Foundation confirms whether a JLPT certificate taken outside Japan is genuine <sup>[85](#o85)</sup>. JFT-Basic results are checked against the Prometric record in the candidate's own passport details <sup>[65](#o65)</sup>.
 - **Cheating in the test.** Taking or sharing test content is cheating and can invalidate the score <sup>[65](#o65)</sup>. Holding more than one Prometric ID is prohibited <sup>[65](#o65)</sup>.
 - **Buying a visa.** Buying or selling a visa or work permit inside Bangladesh, or getting one by illegal means, is a crime under the Overseas Employment and Migrants Act 2013: 2 to 7 years' rigorous imprisonment and a fine of at least Tk 3 lakh <sup>[84](#o84)</sup>.
 
@@ -893,10 +909,14 @@ The supervising organisation sends a demand letter to the Bangladeshi sending or
 
 #### 5.1.1 The zero-cost government route (IM Japan)
 
-Under the Ministry's agreement with IM Japan (the International Manpower Development Organization, Japan), trainees go with no migration cost after BMET's six-month Japanese course at a TTC or Institute of Marine Technology; IM Japan then tests their language and fitness <sup>[N10 (2023)](#n10)</sup>. By August 2023, 461 had gone this way; they were paid JPY 150,000 to 190,000 a month and get a one-off JPY 600,000 to 1,000,000 on return after 3 to 5 years <sup>[N10 (2023)](#n10)</sup>. From 2017 to 2024, 702 workers went through IM Japan <sup>[N23](#n23)</sup>.
+Under the Ministry's agreement with IM Japan (the International Manpower Development Organization, Japan), trainees go with no migration cost after BMET's six-month Japanese course at a TTC or Institute of Marine Technology; IM Japan then tests their language and fitness <sup>[N11 (2023)](#n11)</sup>. By August 2023, 461 had gone this way; they were paid JPY 150,000 to 190,000 a month and get a one-off JPY 600,000 to 1,000,000 on return after 3 to 5 years <sup>[N11 (2023)](#n11)</sup>. From 2017 to 2024, 702 workers went through IM Japan <sup>[N34](#n34)</sup>. Prothom Alo described the route in 2025 as a four-month Japanese course at a TTC, then a test, then four more months of training run by IM Japan before going as interns, with pay of Tk 1,24,500 to 1,57,700 a month in Japan <sup>[N13](#n13), [N10](#n10)</sup>.
+
+**Onodera User Run.** On 10 April 2025 the Ministry signed an MoU with Onodera User Run Inc., a private Japanese company, under which Bangladeshi workers get free Japanese and technical training and those trained go to jobs in Japan without migration cost <sup>[N13](#n13)</sup>. The training covers caregiving, industrial packaging, plastic moulding, rod binding, scaffolding, car painting, welding and car mechanics <sup>[N13](#n13)</sup>.
 
 > **Need to know**
 > - Is the IM Japan programme still recruiting in 2026, and how does a TTC graduate apply?
+> - How long are BMET's course and IM Japan's own training in 2026: six and five months, as in 2023, or four and four, as reported in 2025 <sup>[N11 (2023)](#n11), [N13](#n13)</sup>?
+> - Has anyone gone to Japan under the Onodera User Run MoU, where is its training held, and how does a worker apply?
 
 <a id="who-pays-what-on-titp"></a>
 
@@ -934,7 +954,7 @@ Under the Ministry's agreement with IM Japan (the International Manpower Develop
 
 ### 5.5 Step 3: COE, visa and leaving Bangladesh
 
-The COE, visa and Bangladesh-side steps are the same as for SSW: the company's staff apply for the COE (see [Step 7: The employer applies for your COE](#step-7-the-employer-applies-for-your-coe)), you apply for the visa at VFS ([Step 8, item 1: Apply for the visa at VFS Global](#step-8-the-visa-at-the-japanese-embassy-then-bmet-clearance-item-1)), and you do the PDO and BMET clearance ([Step 8: The visa at the Japanese Embassy, then BMET clearance](#step-8-the-visa-at-the-japanese-embassy-then-bmet-clearance), items 2 and 3) <sup>[59](#o59), [N28](#n28), [8](#o8)</sup>.
+The COE, visa and Bangladesh-side steps are the same as for SSW: the company's staff apply for the COE (see [Step 7: The employer applies for your COE](#step-7-the-employer-applies-for-your-coe)), you apply for the visa at VFS ([Step 8, item 1: Apply for the visa at VFS Global](#step-8-the-visa-at-the-japanese-embassy-then-bmet-clearance-item-1)), and you do the PDO and BMET clearance ([Step 8: The visa at the Japanese Embassy, then BMET clearance](#step-8-the-visa-at-the-japanese-embassy-then-bmet-clearance), items 2 and 3) <sup>[59](#o59), [N41](#n41), [8](#o8)</sup>.
 
 <a id="step-4-in-japan"></a>
 
@@ -976,7 +996,7 @@ The COE, visa and Bangladesh-side steps are the same as for SSW: the company's s
 #### 5.8.1 Where to get help with a TITP or ESD job
 
 - **Before you go:** complain about a sending organisation to BMET's Director General with an application and proof, free, within 30 working days, or to the Ministry's enforcement branch with proof and the agency's RL number <sup>[8](#o8), [86](#o86)</sup>.
-- **In Japan:** OTIT's native-language line in English, 0120-250-147 (toll free), Tuesdays and Thursdays 11:00 am to 7:00 pm and Saturdays 9:00 am to 5:00 pm; press 1 for the emergency desk; there is no Bengali line <sup>[17](#o17), [15](#o15)</sup>. Report to OTIT if the work differs from the contract, someone takes your passport, you are forced to go home or you cannot leave your accommodation <sup>[15](#o15)</sup>. OTIT's general call centre: 03-3453-8000, weekdays <sup>[89](#o89)</sup>. Interns who came through IM Japan can use its Bangladesh mental-health programme, Vai-bon, which gives consultation in the interns' own language through a toll-free number <sup>[N30](#n30)</sup>. From April 2027, ESD questions go to OTIT's ESD call centre, 0570-011-300, weekdays 9:00 to 17:00 <sup>[93](#o93)</sup>.
+- **In Japan:** OTIT's native-language line in English, 0120-250-147 (toll free), Tuesdays and Thursdays 11:00 am to 7:00 pm and Saturdays 9:00 am to 5:00 pm; press 1 for the emergency desk; there is no Bengali line <sup>[17](#o17), [15](#o15)</sup>. Report to OTIT if the work differs from the contract, someone takes your passport, you are forced to go home or you cannot leave your accommodation <sup>[15](#o15)</sup>. OTIT's general call centre: 03-3453-8000, weekdays <sup>[89](#o89)</sup>. Interns who came through IM Japan can use its Bangladesh mental-health programme, Vai-bon, which gives consultation in the interns' own language through a toll-free number <sup>[N43](#n43)</sup>. From April 2027, ESD questions go to OTIT's ESD call centre, 0570-011-300, weekdays 9:00 to 17:00 <sup>[93](#o93)</sup>.
 - **The Bangladesh Embassy in Tokyo:** the Counsellor (Labour), +81 3 3234 5801, fstokyo@probashi.gov.bd <sup>[48](#o48)</sup>.
 
 <a id="living-and-working-in-japan-ssw-workers-and-technical-interns"></a>
@@ -1155,6 +1175,11 @@ Apply for an extension at your regional immigration bureau, or online, from 3 mo
 
 If you hold a residence card and will be back within 1 year, you do not need a re-entry permit: you leave on the "special re-entry permit" (minashi sainyūkoku kyoka) <sup>[99](#o99)</sup>. For a longer absence, get a re-entry permit at the regional immigration bureau for where you live before you leave: 4,000 yen for one trip or 7,000 yen for multiple trips, issued the same day, and valid no longer than your period of stay <sup>[99](#o99)</sup>. Ask your SSW employer for paid leave for the trip (see ["Paid leave, maternity and dismissal"](#paid-leave-maternity-and-dismissal)) <sup>[95](#o95)</sup>.
 
+**Flights.** Biman Bangladesh Airlines restarted direct Dhaka-Tokyo flights in September 2023 after 17 years, at three a week and later two; a Japan-based Bangladeshi journalist wrote in July 2025 that the route was being suspended indefinitely in the first week of July 2025, the third time Biman had stopped it <sup>[N44](#n44)</sup>. He wrote that the direct flight took six to seven hours with no transit and that Biman allowed more baggage than other airlines <sup>[N44](#n44)</sup>.
+
+> **Need to know**
+> - Is there a direct Dhaka-Tokyo flight in 2026, and which connecting routes do Bangladeshi workers in Japan mostly use?
+
 <a id="moving-house"></a>
 
 #### 6.2.4 Moving house
@@ -1270,7 +1295,7 @@ Workers' accident compensation insurance ("rōsai hoken") covers injury, illness
 4. <a id="if-you-are-injured-at-work-item-4"></a>**Wait for the decision,** which usually takes about a month <sup>[17](#o17)</sup>.
 5. <a id="if-you-are-injured-at-work-item-5"></a>**If the injury is not cured 1 year and 6 months after treatment began,** rōsai pays a pension; if it leaves a disability, a pension or lump sum by grade; if you die, your family receives a pension or lump sum and funeral costs <sup>[17](#o17)</sup>.
 
-The employer may not dismiss you while you are off with the injury or for 30 days after <sup>[17](#o17)</sup>. POSSE, a labour NGO, helps foreign workers file rōsai claims (see [Help organisations](#help-organisations)) <sup>[N31](#n31)</sup>.
+The employer may not dismiss you while you are off with the injury or for 30 days after <sup>[17](#o17)</sup>. POSSE, a labour NGO, helps foreign workers file rōsai claims (see [Help organisations](#help-organisations)) <sup>[N45](#n45)</sup>.
 
 > **Need to know**
 > - Do employers in practice pressure Bangladeshi trainees not to file rōsai claims, and does OTIT or the LSIO intervene?
@@ -1298,8 +1323,8 @@ Neither a supervising organisation nor an employer may send a trainee home again
 - **FRESC (Foreign Residents Support Center):** eight government bodies in one building, including the Tokyo immigration bureau, the Tokyo Labour Bureau's foreign-worker desk and Hou Terrasu (legal aid) <sup>[17](#o17)</sup>, at Yotsuya Tower 13F, 1-6-1 Yotsuya, Shinjuku-ku, Tokyo; 0570-011000, weekdays 9am to 5pm <sup>[17](#o17)</sup>.
 - **Immigration Services Agency (ISA):** Foreign Residents Information Center, 0570-013904 (03-5796-7112 from IP phones or abroad), weekdays 8.30am to 5.15pm, in Japanese, English and other languages <sup>[17](#o17)</sup>. SSW workers can also call ISA's call centre for SSW, on the same number, for help with SSW procedures and paperwork <sup>[3](#o3), [87](#o87)</sup>.
 - **Hou Terrasu (Japan Legal Support Center):** multilingual legal information, 0570-078377 <sup>[17](#o17)</sup>.
-- **Prefectural multilingual centres,** such as the Ibaraki Foreigner Consultation Center, Gunma's one-stop centre for foreigners and Tokyo Multilingual Consultation Navi <sup>[N32](#n32)</sup>.
-- **POSSE (a non-profit for young and foreign workers):** free advice by email in any language (web form, or soudan@npoposse.jp), and by phone (042-227-5495; 022-302-3349 for the Tohoku region) on Fridays 6pm to 9pm and Sundays and holidays 1pm to 5pm, with an interpreter not always available; it helps with visa, rōsai and unemployment claims <sup>[N31](#n31)</sup>. Don't contact it from a work phone or computer <sup>[N31](#n31)</sup>.
+- **Prefectural multilingual centres,** such as the Ibaraki Foreigner Consultation Center, Gunma's one-stop centre for foreigners and Tokyo Multilingual Consultation Navi <sup>[N46](#n46)</sup>.
+- **POSSE (a non-profit for young and foreign workers):** free advice by email in any language (web form, or soudan@npoposse.jp), and by phone (042-227-5495; 022-302-3349 for the Tohoku region) on Fridays 6pm to 9pm and Sundays and holidays 1pm to 5pm, with an interpreter not always available; it helps with visa, rōsai and unemployment claims <sup>[N45](#n45)</sup>. Don't contact it from a work phone or computer <sup>[N45](#n45)</sup>.
 - **Bangladesh Embassy, Tokyo, Labour Welfare Wing:** 3-29 Kioicho, Chiyoda-ku, Tokyo 102-0094; main line 03-3234-5801; consular hours Monday to Friday except holidays <sup>[115](#o115), [116 (2024)](#o116)</sup>. The labour wing's First Secretary (Labour) is at fslabor@mofa.gov.bd <sup>[117](#o117)</sup>. The embassy's 24-hour emergency numbers are under Contacts (see [In Japan](#in-japan)) <sup>[118](#o118), [115](#o115)</sup>. The wing says it gives aid to stranded workers to go home, visits workplaces, hospitals and detention centres, and gives legal aid for unpaid wages <sup>[18](#o18)</sup>. The embassy serves about 40,045 Bangladeshis in Japan (June 2025) <sup>[18](#o18)</sup>.
 
 > **Need to know**
@@ -1474,18 +1499,18 @@ The status does not cover simple manual work, and a holder who stops doing the j
 #### 7.1.5 Step 3: Get the visa at VFS Global in Dhaka
 
 1. <a id="step-3-get-the-visa-at-vfs-global-in-dhaka-item-1"></a>**Book an appointment online** with VFS Global, which has handled all Japan visa applications in Bangladesh since 3 November 2024; the embassy does not accept applications directly or give special treatment <sup>[9 (2024)](#o9)</sup>. VFS Global Japan Visa Application Centre: Delta Life Tower, 4th floor, Road 90, Plot 37, Gulshan-2, Dhaka-1212; 09606 777 910; info.japanbd@vfshelpline.com <sup>[9 (2024)](#o9)</sup>. From mid-March to early June and mid-September to late October the wait for an appointment can be over a month <sup>[9 (2024)](#o9)</sup>.
-2. <a id="step-3-get-the-visa-at-vfs-global-in-dhaka-item-2"></a>**Bring these documents** <sup>[N28](#n28)</sup>:
+2. <a id="step-3-get-the-visa-at-vfs-global-in-dhaka-item-2"></a>**Bring these documents** <sup>[N41](#n41)</sup>:
    - the visa application form;
    - your passport and a copy of its ID page;
-   - one photo, 2 inch x 1.4 inch, white background <sup>[N28](#n28)</sup>;
+   - one photo, 2 inch x 1.4 inch, white background <sup>[N41](#n41)</sup>;
    - a photocopy of the COE;
    - an airline booking slip.
 3. <a id="step-3-get-the-visa-at-vfs-global-in-dhaka-item-3"></a>**Pay the BDT 1,900 service charge** in cash in taka at the centre; there is no visa fee <sup>[N2](#n2)</sup>.
-4. <a id="step-3-get-the-visa-at-vfs-global-in-dhaka-item-4"></a>**Wait for the visa.** VFS's checklist says about one week, and the embassy says at least 7 working days <sup>[N28](#n28), [9 (2024)](#o9)</sup>.
+4. <a id="step-3-get-the-visa-at-vfs-global-in-dhaka-item-4"></a>**Wait for the visa.** VFS's checklist says about one week, and the embassy says at least 7 working days <sup>[N41](#n41), [9 (2024)](#o9)</sup>.
 5. <a id="step-3-get-the-visa-at-vfs-global-in-dhaka-item-5"></a>**If it is refused,** the embassy gives no specific reason and does not accept a new application for the same purpose within six months <sup>[76 (2023)](#o76)</sup>.
 
 > **Need to know**
-> - Does a Bangladeshi going to Japan on a gijinkoku visa have to get BMET emigration clearance and a smart card, and if so, through which channel when no recruiting agency is involved? <sup>[N28](#n28)</sup>
+> - Does a Bangladeshi going to Japan on a gijinkoku visa have to get BMET emigration clearance and a smart card, and if so, through which channel when no recruiting agency is involved? <sup>[N41](#n41)</sup>
 
 <a id="step-4-keep-your-status-valid-in-japan"></a>
 
@@ -1559,28 +1584,28 @@ Japan's IPA signed a mutual recognition agreement with Bangladesh on 1 September
 
 #### 7.3.2 B-JET
 
-B-JET (Bangladesh-Japan ICT Engineers' Training Program) began in 2017 as a JICA technical cooperation project to train Bangladeshi IT engineers in Japanese language and business etiquette for jobs in Japan <sup>[137 (2023)](#o137), [N33](#n33)</sup>. When JICA's support ended in 2020, 280 people had finished and 186 were working as engineers for companies in Miyazaki and elsewhere in Japan; in Miyazaki 24 companies hired more than 50 Bangladeshi engineers between 2017 and 2022 <sup>[137 (2023)](#o137)</sup>. It continued without JICA under the University of Miyazaki, North South University (NSU) and companies, and is now run by the publisher Shinko Shuppansha Keirinkan with NSU at the B-JET Centre on the NSU campus in Dhaka <sup>[137 (2023)](#o137), [N34](#n34)</sup>. The programme says it has over 400 graduates, about 250 of them hired by more than 80 Japanese companies <sup>[N34](#n34)</sup>.
+B-JET (Bangladesh-Japan ICT Engineers' Training Program) began in 2017 as a JICA technical cooperation project to train Bangladeshi IT engineers in Japanese language and business etiquette for jobs in Japan <sup>[137 (2023)](#o137), [N47](#n47)</sup>. When JICA's support ended in 2020, 280 people had finished and 186 were working as engineers for companies in Miyazaki and elsewhere in Japan; in Miyazaki 24 companies hired more than 50 Bangladeshi engineers between 2017 and 2022 <sup>[137 (2023)](#o137)</sup>. It continued without JICA under the University of Miyazaki, North South University (NSU) and companies, and is now run by the publisher Shinko Shuppansha Keirinkan with NSU at the B-JET Centre on the NSU campus in Dhaka <sup>[137 (2023)](#o137), [N48](#n48)</sup>. The programme says it has over 400 graduates, about 250 of them hired by more than 80 Japanese companies <sup>[N48](#n48)</sup>.
 
-How the 16th batch worked (October 2026 to March 2027, 30 places) <sup>[N34](#n34)</sup>:
-1. <a id="b-jet-item-1"></a>**Check you qualify:** a bachelor's degree in CSE, IT or an ICT subject <sup>[N34](#n34)</sup>.
-2. <a id="b-jet-item-2"></a>**Apply online** by the deadline (30 June 2026 for the 16th batch; selection in July) <sup>[N34](#n34)</sup>.
-3. <a id="b-jet-item-3"></a>**Pass the selection:** application review, an online coding test, an AI skills interview, a Japanese test and general interview, and an "ideathon" project with a demo video <sup>[N34](#n34)</sup>.
-4. <a id="b-jet-item-4"></a>**Train about 6 months (100 days),** Monday to Friday 9:00 to 12:30, in person at NSU; Japanese classes aim at JLPT N3 <sup>[N34](#n34)</sup>.
-5. <a id="b-jet-item-5"></a>**Pay your own transport and accommodation** <sup>[N34](#n34)</sup>.
-6. <a id="b-jet-item-6"></a>**Meet Japanese companies at the programme's career seminars;** a job depends on your performance and the companies' evaluation, and is not guaranteed <sup>[N34](#n34)</sup>.
+How the 16th batch worked (October 2026 to March 2027, 30 places) <sup>[N48](#n48)</sup>:
+1. <a id="b-jet-item-1"></a>**Check you qualify:** a bachelor's degree in CSE, IT or an ICT subject <sup>[N48](#n48)</sup>.
+2. <a id="b-jet-item-2"></a>**Apply online** by the deadline (30 June 2026 for the 16th batch; selection in July) <sup>[N48](#n48)</sup>.
+3. <a id="b-jet-item-3"></a>**Pass the selection:** application review, an online coding test, an AI skills interview, a Japanese test and general interview, and an "ideathon" project with a demo video <sup>[N48](#n48)</sup>.
+4. <a id="b-jet-item-4"></a>**Train about 6 months (100 days),** Monday to Friday 9:00 to 12:30, in person at NSU; Japanese classes aim at JLPT N3 <sup>[N48](#n48)</sup>.
+5. <a id="b-jet-item-5"></a>**Pay your own transport and accommodation** <sup>[N48](#n48)</sup>.
+6. <a id="b-jet-item-6"></a>**Meet Japanese companies at the programme's career seminars;** a job depends on your performance and the companies' evaluation, and is not guaranteed <sup>[N48](#n48)</sup>.
 
-The 16th batch opened in October 2026 <sup>[N33](#n33)</sup>.
+The 16th batch opened in October 2026 <sup>[N47](#n47)</sup>.
 
 > **Need to know**
-> - What is the B-JET course fee, if any, for the 17th batch, and when do applications open? <sup>[N34](#n34)</sup>
-> - Do B-JET graduates go on the Engineer/Specialist status, and who pays their COE and flight? <sup>[N34](#n34)</sup>
+> - What is the B-JET course fee, if any, for the 17th batch, and when do applications open? <sup>[N48](#n48)</sup>
+> - Do B-JET graduates go on the Engineer/Specialist status, and who pays their COE and flight? <sup>[N48](#n48)</sup>
 
 <a id="scams-on-professional-visas"></a>
 
 ### 7.4 Scams on professional visas
 
 **Done to the migrant:**
-1. <a id="scams-on-professional-visas-item-1"></a>**Fake jobs and loans in JICA's name.** In May 2025 JICA's Bangladesh office warned that scammers use its name on Facebook and elsewhere for fake jobs, savings schemes and loans; JICA charges no fee at any stage of recruitment <sup>[N35](#n35)</sup>. *How to spot it:* any request for money in JICA's or B-JET's name.
+1. <a id="scams-on-professional-visas-item-1"></a>**Fake jobs and loans in JICA's name.** In May 2025 JICA's Bangladesh office warned that scammers use its name on Facebook and elsewhere for fake jobs, savings schemes and loans; JICA charges no fee at any stage of recruitment <sup>[N49](#n49)</sup>. *How to spot it:* any request for money in JICA's or B-JET's name.
 2. <a id="scams-on-professional-visas-item-2"></a>**Fake COEs.** A real e-COE comes from ISA's system at @rasens-immi.moj.go.jp and is sent to the employer, who forwards it <sup>[131](#o131)</sup>. *How to spot it:* a COE sent by a broker, from another address, or offered before any employer has interviewed you.
 3. <a id="scams-on-professional-visas-item-3"></a>**Paying for a visa.** Japan charges Bangladeshis no visa fee, and the COE is free; only VFS's service charge is paid <sup>[9 (2024)](#o9), [N2](#n2), [59](#o59)</sup>. *How to spot it:* anyone selling a "Japan work visa" or a COE.
 4. <a id="scams-on-professional-visas-item-4"></a>**Unlicensed agencies.** In October 2019 RAB (Rapid Action Battalion, Bangladesh's elite police unit) said an agency in Mirpur that was not appointed for Japan had taken Tk 8 lakh each from people through newspaper ads promising Japan jobs (see [Where brokers get in](#where-brokers-get-in)) <sup>[N4 (2019)](#n4)</sup>. *How to spot it:* an ad or agent charging lakhs for a Japan job.
@@ -1709,6 +1734,8 @@ The embassy does not say why <sup>[76 (2023)](#o76), [N1](#n1)</sup>. You cannot
 
 **Paid "visa agents" and fake websites.** MOFA warns of fake websites, social media and emails claiming to be the Japanese government or embassy and asking visa applicants for money <sup>[56](#o56)</sup>. Only agencies the embassy has approved may handle visa applications <sup>[76 (2023)](#o76)</sup>. VFS is the only channel in Bangladesh, and it charges only its service fee and listed extras <sup>[9 (2024)](#o9), [N2](#n2)</sup>.
 
+**Fake sports teams.** In Pakistan, the Federal Investigation Agency (FIA) arrested a man on 15 September 2025 who, an FIA official said, set up a fake club called "Golden Football Trial", took 40 to 45 lakh Pakistani rupees from each person, and used a football club's invitation to get 15-day Japanese visas for 17 people, who went to Japan on 1 January 2024 and did not return <sup>[N50](#n50)</sup>. On 15 June 2025 he tried again with a 22-member "team" in football kit carrying fake no-objection letters; Japanese immigration caught the fraud while questioning them at the airport and sent them all back <sup>[N50](#n50)</sup>.
+
 **Tried by migrants: overstaying to work.** Overstaying is a crime and leads to a ban on coming back (see [How long a visitor can stay](#how-long-a-visitor-can-stay)) <sup>[105](#o105)</sup>.
 
 > **Need to know**
@@ -1755,7 +1782,7 @@ You'll need, besides the form, passports and photos ([Step 2: Prepare your own p
 
 ### 9.3 Multiple-entry visa for frequent visitors
 
-A multiple-entry visa allows stays of up to 90 days each time and is valid for 1, 3 or 5 years, depending on the applicant <sup>[N36](#n36), [139](#o139)</sup>. For business it is open to directors, or full-time employees of more than one year, of a government enterprise, a listed company, a Japanese-affiliated company that belongs to the Japan Chamber of Commerce, a branch or subsidiary of a Japan-listed company, or a company that trades regularly with a Japan-listed company <sup>[N36](#n36)</sup>. Add proof that you qualify and a letter explaining why you need a multiple-entry visa; the embassy may give a single-entry visa instead <sup>[N36](#n36)</sup>.
+A multiple-entry visa allows stays of up to 90 days each time and is valid for 1, 3 or 5 years, depending on the applicant <sup>[N51](#n51), [139](#o139)</sup>. For business it is open to directors, or full-time employees of more than one year, of a government enterprise, a listed company, a Japanese-affiliated company that belongs to the Japan Chamber of Commerce, a branch or subsidiary of a Japan-listed company, or a company that trades regularly with a Japan-listed company <sup>[N51](#n51)</sup>. Add proof that you qualify and a letter explaining why you need a multiple-entry visa; the embassy may give a single-entry visa instead <sup>[N51](#n51)</sup>.
 
 <a id="how-long-a-business-visitor-can-stay"></a>
 
@@ -1794,12 +1821,12 @@ The same offices as for visitors (see [Where to get help with a visit visa](#whe
 
 ## 10 Student visa (Japanese-language schools and universities)
 
-Many Bangladeshis come to Japan on student visas to study Japanese and then build careers there <sup>[57](#o57)</sup>. The Bangladesh ambassador in Tokyo said in April 2026 that Bangladeshi students in Japan rose from 5,000 to 25,000 in four years <sup>[N37](#n37)</sup>. The Bangladesh Embassy in Tokyo says most students who come through Japanese-language schools mean to work in Japan, working part-time while they study and moving into jobs after gaining language skills <sup>[18](#o18)</sup>.
+Many Bangladeshis come to Japan on student visas to study Japanese and then build careers there <sup>[57](#o57)</sup>. The Bangladesh ambassador in Tokyo said in April 2026 that Bangladeshi students in Japan rose from 5,000 to 25,000 in four years <sup>[N52](#n52)</sup>. The Bangladesh Embassy in Tokyo says most students who come through Japanese-language schools mean to work in Japan, working part-time while they study and moving into jobs after gaining language skills <sup>[18](#o18)</sup>.
 
 > **Need to know**
-> - Japan counted 14,983 Bangladeshis on student status at the end of 2025: what does the ambassador's figure of 25,000 students include <sup>[20](#o20), [N37](#n37)</sup>?
+> - Japan counted 14,983 Bangladeshis on student status at the end of 2025: what does the ambassador's figure of 25,000 students include <sup>[20](#o20), [N52](#n52)</sup>?
 
-You choose a school in Japan; the school applies to the Immigration Services Agency (ISA, Japan's immigration authority) for a Certificate of Eligibility (COE), a document confirming you meet the conditions for "Student" status <sup>[59](#o59), [56](#o56)</sup>. With the COE, you get the visa through VFS Global (the company that takes Japan visa applications for the embassy) in Dhaka, and at the Japanese airport you receive a residence card <sup>[9 (2024)](#o9), [N28](#n28), [143 (2019)](#o143)</sup>. A student may work part-time only with a separate permission and only up to 28 hours a week <sup>[143 (2019)](#o143), [12](#o12)</sup>. Since April 2026 ISA requires Japanese-language schools to check every student's part-time work every three months and report suspected illegal work to immigration <sup>[13](#o13)</sup>.
+You choose a school in Japan; the school applies to the Immigration Services Agency (ISA, Japan's immigration authority) for a Certificate of Eligibility (COE), a document confirming you meet the conditions for "Student" status <sup>[59](#o59), [56](#o56)</sup>. With the COE, you get the visa through VFS Global (the company that takes Japan visa applications for the embassy) in Dhaka, and at the Japanese airport you receive a residence card <sup>[9 (2024)](#o9), [N41](#n41), [143 (2019)](#o143)</sup>. A student may work part-time only with a separate permission and only up to 28 hours a week <sup>[143 (2019)](#o143), [12](#o12)</sup>. Since April 2026 ISA requires Japanese-language schools to check every student's part-time work every three months and report suspected illegal work to immigration <sup>[13](#o13)</sup>.
 
 <a id="cost"></a>
 
@@ -1813,15 +1840,25 @@ You choose a school in Japan; the school applies to the Immigration Services Age
 
 > **Need to know**
 > - What do Dhaka agencies charge in 2026 on top of school fees for a Japanese-language school "processing" package, and what is usually included?
-> - Which Bangladeshi bank gives the government student loans for Japan that the ambassador mentioned, and on what terms? <sup>[N37](#n37)</sup>
+> - Which Bangladeshi bank gives the government student loans for Japan that the ambassador mentioned, and on what terms? <sup>[N52](#n52)</sup>
 > - Is the Japan visa still free for Bangladeshi students after the 1 July 2026 fee change? <sup>[9 (2024)](#o9), [140](#o140)</sup>
+
+<a id="scholarships-and-research-internships"></a>
+
+### 10.2 Scholarships and research internships
+
+- **MEXT scholarship (Japanese government):** Bangladesh's Ministry of Education nominates candidates and publishes the list on its website; for 2024-25 it nominated 84: 16 for research PhD, 20 for research master's, 30 undergraduate, 8 specialised training college and 10 college of technology <sup>[N53 (2024)](#n53)</sup>. Nomination does not guarantee the scholarship: the Japanese Embassy holds written and oral exams, and the Japanese authorities decide on the results <sup>[N53 (2024)](#n53)</sup>. A MEXT scholar's visa is marked "Govt. Scholar" <sup>[N53 (2024)](#n53)</sup>.
+- **OIST research internship:** the Okinawa Institute of Science and Technology offers free research internships of two to six months, twice a year, open to Bangladeshi undergraduate and postgraduate students; in 2024 it paid 2,400 yen per working day plus visa support, air tickets, housing and insurance <sup>[N54 (2024)](#n54)</sup>. Applicants need a 400-word statement of purpose, mark sheets in English, passport and NID copies and a recommendation letter <sup>[N54 (2024)](#n54)</sup>.
+
+> **Need to know**
+> - When does the Ministry of Education open MEXT nominations for 2027, and through which portal?
 
 <a id="step-1-choose-a-school-and-check-it"></a>
 
-### 10.2 Step 1: Choose a school and check it
+### 10.3 Step 1: Choose a school and check it
 
 1. <a id="step-1-choose-a-school-and-check-it-item-1"></a>**Check the school is allowed to take students.** Schools on the Ministry of Justice's notified list must also be certified by the Ministry of Education, Culture, Sports, Science and Technology (MEXT) by 31 March 2029 <sup>[146](#o146)</sup>. ISA rates schools, and a school that ISA has not rated as "appropriate" (*tekiseiko*, Class I or II) must send more papers with each COE application <sup>[147](#o147), [148](#o148)</sup>.
-2. <a id="step-1-choose-a-school-and-check-it-item-2"></a>**Know what a bad school looks like.** In 2023 ISA barred a Sendai language school from taking new students for five years after it made students sign pledges to pay about 1 to 3 million yen if they switched to a work visa without its permission, and reportedly told students changing status it could not issue their papers <sup>[N18 (2023)](#n18)</sup>.
+2. <a id="step-1-choose-a-school-and-check-it-item-2"></a>**Know what a bad school looks like.** In 2023 ISA barred a Sendai language school from taking new students for five years after it made students sign pledges to pay about 1 to 3 million yen if they switched to a work visa without its permission, and reportedly told students changing status it could not issue their papers <sup>[N29 (2023)](#n29)</sup>.
 
 To sit a university or school entrance exam in Japan before enrolling, apply for a temporary visitor visa with the exam admission ticket <sup>[143 (2019)](#o143)</sup>. The Embassy of Japan has offered free education counselling at the embassy and at the office of JUAAB (Japan Universities Alumni Association in Bangladesh), 26 Indira Road, Farmgate <sup>[142 (2014)](#o142)</sup>.
 
@@ -1831,13 +1868,13 @@ To sit a university or school entrance exam in Japan before enrolling, apply for
 
 <a id="step-2-learn-japanese-and-prove-it"></a>
 
-### 10.3 Step 2: Learn Japanese and prove it
+### 10.4 Step 2: Learn Japanese and prove it
 
 Language-school entrants need Japanese at CEFR (Common European Framework of Reference) A1 level or above <sup>[13](#o13)</sup>. From July 2026, 150 hours of study is no longer enough proof: ISA checks your level mainly by a Japanese test certificate, such as the JLPT (Japanese-Language Proficiency Test), or by the school's own interview, which can be online <sup>[13](#o13), [148](#o148)</sup>. Keep the certificate from your Bangladeshi language centre too; the embassy asks for it with the visa <sup>[141](#o141)</sup>.
 
 <a id="step-3-gather-the-sponsors-papers"></a>
 
-### 10.4 Step 3: Gather the sponsor's papers
+### 10.5 Step 3: Gather the sponsor's papers
 
 The sponsor (*keihi shibensha*) is the person who pays, usually a parent <sup>[141](#o141)</sup>. For a school ISA has not rated "appropriate", the COE needs <sup>[148](#o148)</sup>:
 
@@ -1856,7 +1893,7 @@ Documents in Bengali or English need a Japanese translation attached <sup>[147](
 
 <a id="step-4-the-school-applies-for-your-coe"></a>
 
-### 10.5 Step 4: The school applies for your COE
+### 10.6 Step 4: The school applies for your COE
 
 1. <a id="step-4-the-school-applies-for-your-coe-item-1"></a>**Send the papers to the school.** A staff member of the school files the COE application with ISA for you <sup>[59](#o59)</sup>.
 2. <a id="step-4-the-school-applies-for-your-coe-item-2"></a>**Wait 1 to 3 months** (ISA's standard) <sup>[59](#o59)</sup>.
@@ -1870,22 +1907,22 @@ A COE does not guarantee the visa <sup>[76 (2023)](#o76)</sup>. If ISA has refus
 
 <a id="step-5-pay-the-school-through-a-bangladeshi-bank"></a>
 
-### 10.6 Step 5: Pay the school through a Bangladeshi bank
+### 10.7 Step 5: Pay the school through a Bangladeshi bank
 
 Bangladesh Bank's FEPD-1 Circular No. 40 of 30 September 2026 lets banks send money for a language course abroad, even one that is not a step to a bachelor's degree <sup>[149](#o149)</sup>. Bring the bank the Appendix-6 application form, the school's admission letter, its estimate of tuition, housing, insurance and other costs, attested copies of your certificates and your passport <sup>[149](#o149)</sup>. The bank pays tuition directly to the school; housing and living money that need not be paid to the school can go to you on an international card <sup>[149](#o149)</sup>. The bank sends one academic year at a time, and all payments must go through one bank branch, which keeps your student file <sup>[149](#o149)</sup>. If the school's papers say a deposit is needed to process the application or hold a place, the bank may send it in advance <sup>[149](#o149)</sup>.
 
 <a id="step-6-apply-for-the-visa-at-vfs"></a>
 
-### 10.7 Step 6: Apply for the visa at VFS
+### 10.8 Step 6: Apply for the visa at VFS
 
-Book and submit as in [Step 3: Book a VFS appointment and submit](#step-3-book-a-vfs-appointment-and-submit) <sup>[9 (2024)](#o9)</sup>. VFS asks COE holders only for the application form, passport and a copy of its photo page, one photo, the COE copy and an air booking <sup>[N28](#n28)</sup>. The embassy's own list for language-school students is longer: the original COE, the admission certificate, the fee receipt, any JLPT certificate, your Bangladeshi language-centre certificate, SSC and HSC (Secondary and Higher Secondary School Certificate) certificates, mark sheets and registration cards, the sponsor's 6-month bank statement and 3 years of tax papers, information on your Bangladeshi language centre, and your original Japanese textbook <sup>[141](#o141)</sup>. Student applications crowd VFS from mid-March to early June and mid-September to late October <sup>[9 (2024)](#o9)</sup>. Japan's pre-entry tuberculosis screening applies only to nationals of the Philippines, Viet Nam, Indonesia, Nepal, Myanmar and China, so Bangladeshis do not need it <sup>[56](#o56)</sup>.
+Book and submit as in [Step 3: Book a VFS appointment and submit](#step-3-book-a-vfs-appointment-and-submit) <sup>[9 (2024)](#o9)</sup>. VFS asks COE holders only for the application form, passport and a copy of its photo page, one photo, the COE copy and an air booking <sup>[N41](#n41)</sup>. The embassy's own list for language-school students is longer: the original COE, the admission certificate, the fee receipt, any JLPT certificate, your Bangladeshi language-centre certificate, SSC and HSC (Secondary and Higher Secondary School Certificate) certificates, mark sheets and registration cards, the sponsor's 6-month bank statement and 3 years of tax papers, information on your Bangladeshi language centre, and your original Japanese textbook <sup>[141](#o141)</sup>. Student applications crowd VFS from mid-March to early June and mid-September to late October <sup>[9 (2024)](#o9)</sup>. Japan's pre-entry tuberculosis screening applies only to nationals of the Philippines, Viet Nam, Indonesia, Nepal, Myanmar and China, so Bangladeshis do not need it <sup>[56](#o56)</sup>.
 
 > **Need to know**
-> - Does the embassy still ask language-school students for the long list (sponsor bank statements, tax papers, textbook) at VFS, or only the COE checklist? <sup>[N28](#n28), [141](#o141)</sup>
+> - Does the embassy still ask language-school students for the long list (sponsor bank statements, tax papers, textbook) at VFS, or only the COE checklist? <sup>[N41](#n41), [141](#o141)</sup>
 
 <a id="step-7-arrive-and-register"></a>
 
-### 10.8 Step 7: Arrive and register
+### 10.9 Step 7: Arrive and register
 
 1. <a id="step-7-arrive-and-register-item-1"></a>**At Narita, Haneda, Kansai, Chubu, New Chitose, Hiroshima or Fukuoka airport,** you get the residence card on landing <sup>[143 (2019)](#o143)</sup>.
 2. <a id="step-7-arrive-and-register-item-2"></a>**Apply for part-time work permission at the airport** on the same day, if you were given a student stay of more than 3 months; otherwise apply later at the immigration office for your address <sup>[143 (2019)](#o143), [145 (2024)](#o145)</sup>.
@@ -1894,13 +1931,13 @@ Book and submit as in [Step 3: Book a VFS appointment and submit](#step-3-book-a
 
 <a id="how-long-a-student-can-stay"></a>
 
-### 10.9 How long a student can stay
+### 10.10 How long a student can stay
 
 ISA sets the period of stay for each student, up to 4 years and 3 months <sup>[147](#o147)</sup>. A student who stops studying for three months without good reason, or who studies only in name while doing something else, can have the status cancelled <sup>[105](#o105)</sup>.
 
 <a id="part-time-work"></a>
 
-### 10.10 Part-time work
+### 10.11 Part-time work
 
 You may not work on student status unless you hold "permission to engage in activity other than that permitted" (*shikakugai katsudo kyoka*) <sup>[143 (2019)](#o143), [145 (2024)](#o145)</sup>.
 
@@ -1916,16 +1953,16 @@ Working beyond the permission is punished by up to 1 year's imprisonment or 2 mi
 
 <a id="schools-that-treat-students-as-cheap-labour"></a>
 
-### 10.11 Schools that treat students as cheap labour
+### 10.12 Schools that treat students as cheap labour
 
-ISA's April 2026 rules name the case of an employer forcing a student to work more than 28 hours a week, and tell schools to report it to immigration <sup>[13](#o13)</sup>. The Sendai case shows the other side: a school that tried to tie students to it with penalty pledges lost its right to take students <sup>[N18 (2023)](#n18)</sup>. ISA investigates such reports and reflects the findings in residence screening (see [Part-time work](#part-time-work)) <sup>[13](#o13)</sup>.
+ISA's April 2026 rules name the case of an employer forcing a student to work more than 28 hours a week, and tell schools to report it to immigration <sup>[13](#o13)</sup>. The Sendai case shows the other side: a school that tried to tie students to it with penalty pledges lost its right to take students <sup>[N29 (2023)](#n29)</sup>. ISA investigates such reports and reflects the findings in residence screening (see [Part-time work](#part-time-work)) <sup>[13](#o13)</sup>.
 
 > **Need to know**
 > - Which Japanese-language schools or employers have been reported for overworking Bangladeshi students, and what happened to the students?
 
 <a id="agents-in-dhaka-who-promise-study-and-earn"></a>
 
-### 10.12 Agents in Dhaka who promise "study and earn"
+### 10.13 Agents in Dhaka who promise "study and earn"
 
 The law caps work at 28 hours a week, and the school reports breaches to immigration (see [Part-time work](#part-time-work)) <sup>[12](#o12), [13](#o13)</sup>. ISA asks for the sponsor's bank balance, how it was built up over a year, and their income, not the student's expected earnings ([Step 3: Gather the sponsor's papers](#step-3-gather-the-sponsors-papers)) <sup>[148](#o148)</sup>.
 
@@ -1935,7 +1972,7 @@ The law caps work at 28 hours a week, and the school reports breaches to immigra
 
 <a id="after-graduation-job-hunting-visa"></a>
 
-### 10.13 After graduation: job-hunting visa
+### 10.14 After graduation: job-hunting visa
 
 A student who has started job hunting before graduating can switch to "Designated Activities" (*tokutei katsudo*) for continued job hunting if they graduated from a Japanese university, junior college or graduate school, or from a vocational school with the *senmonshi* title <sup>[42](#o42)</sup>. A Japanese-language school graduate qualifies only if they already hold a bachelor's degree from a university abroad, and the school meets ISA's conditions <sup>[42](#o42)</sup>. You'll need the graduation certificate, the school's recommendation letter for continued job hunting, proof that you are job hunting, and proof you can pay your costs <sup>[42](#o42)</sup>. Language-school graduates also need an attendance certificate, the foreign degree, and a signed confirmation that they will meet the school regularly for job-hunting advice <sup>[42](#o42)</sup>. Part-time work of up to 28 hours a week is possible with permission <sup>[150](#o150)</sup>. A person not doing the activity of their status can have it cancelled <sup>[42](#o42)</sup>.
 
@@ -1945,17 +1982,17 @@ A student who has started job hunting before graduating can switch to "Designate
 
 <a id="if-the-coe-or-visa-is-refused"></a>
 
-### 10.14 If the COE or visa is refused
+### 10.15 If the COE or visa is refused
 
 Neither ISA nor the embassy gives the specific reason <sup>[76 (2023)](#o76)</sup>. The embassy does not accept a new visa application for the same purpose within six months <sup>[76 (2023)](#o76)</sup>. A new COE application must explain and remove the reason for the earlier refusal <sup>[148](#o148)</sup>.
 
 <a id="student-visa-scams"></a>
 
-### 10.15 Student visa scams
+### 10.16 Student visa scams
 
 **Fake papers sold as Japan jobs.** In September 2026 families in Mymensingh said a ring had sold them fake Japan visas and kept their passports (see [Visit visa scams](#visit-visa-scams)) <sup>[N6](#n6)</sup>.
 
-**Penalty pledges and withheld papers.** A school or agent that makes you sign a promise to pay money if you change school or status is doing what got the Sendai school barred <sup>[N18 (2023)](#n18)</sup>.
+**Penalty pledges and withheld papers.** A school or agent that makes you sign a promise to pay money if you change school or status is doing what got the Sendai school barred <sup>[N29 (2023)](#n29)</sup>.
 
 **Tried by students: false sponsor papers.** A status obtained with documents containing false entries can be cancelled <sup>[105](#o105)</sup>.
 
@@ -1963,12 +2000,12 @@ Neither ISA nor the embassy gives the specific reason <sup>[76 (2023)](#o76)</su
 
 <a id="where-students-can-get-help"></a>
 
-### 10.16 Where students can get help
+### 10.17 Where students can get help
 
 - **In Bangladesh, about the visa:** VFS Global, 09606 777 910, info.japanbd@vfshelpline.com; the Embassy of Japan's consular section, +880-2-2222-60010, consular@dc.mofa.go.jp <sup>[9 (2024)](#o9)</sup>.
 - **In Japan, immigration questions:** ISA's Immigration Information Center, 0570-013904 (03-5796-7112 from IP phones or abroad) <sup>[42](#o42)</sup>.
 - **In Japan, from your embassy:** the Labour Welfare Wing of the Embassy of Bangladesh, Tokyo, fslabor@mofa.gov.bd, +81-3-3234-5801 extension 201 or +81-80-4352-4795; consular section consular.bdembjp@mofa.gov.bd; 24-hour emergency hotline 080-7004-1971 <sup>[18](#o18), [116 (2024)](#o116)</sup>.
-- **Bangladeshi student community:** the Bangladesh Students Support Association in Japan (BSSAJ) works with the embassy on student matters <sup>[N37](#n37)</sup>.
+- **Bangladeshi student community:** the Bangladesh Students Support Association in Japan (BSSAJ) works with the embassy on student matters <sup>[N52](#n52)</sup>.
 
 > **Need to know**
 > - Does the Tokyo embassy's Labour Welfare Wing take complaints from students about employers or schools, and what does it do with them?
@@ -1977,15 +2014,15 @@ Neither ISA nor the embassy gives the specific reason <sup>[76 (2023)](#o76)</su
 
 ## 11 Transit
 
-If you change planes in Japan without passing immigration, you need no visa <sup>[151](#o151)</sup>. You do need a visa if you must pass immigration: for an overnight connection (Narita closes its airside area from midnight to 6:00), a change between Narita and Haneda, a change of airline with your bags checked in again, or any other reason <sup>[152](#o152), [N21](#n21)</sup>. Japan stopped issuing transit visas on 1 July 2026; a person who must enter Japan applies for a temporary visitor visa instead (see ["Visit visa (temporary visitor)"](#visit-visa-temporary-visitor)) <sup>[N21](#n21)</sup>.
+If you change planes in Japan without passing immigration, you need no visa <sup>[151](#o151)</sup>. You do need a visa if you must pass immigration: for an overnight connection (Narita closes its airside area from midnight to 6:00), a change between Narita and Haneda, a change of airline with your bags checked in again, or any other reason <sup>[152](#o152), [N32](#n32)</sup>. Japan stopped issuing transit visas on 1 July 2026; a person who must enter Japan applies for a temporary visitor visa instead (see ["Visit visa (temporary visitor)"](#visit-visa-temporary-visitor)) <sup>[N32](#n32)</sup>.
 
-The airline can ask immigration for a "shore pass" (port-of-call landing permission) for a passenger to land near the airport for up to 72 hours, or for transit landing for a passenger leaving within 3 days from another nearby airport <sup>[105](#o105)</sup>. It is at the officer's discretion and cannot be booked <sup>[N21](#n21)</sup>.
+The airline can ask immigration for a "shore pass" (port-of-call landing permission) for a passenger to land near the airport for up to 72 hours, or for transit landing for a passenger leaving within 3 days from another nearby airport <sup>[105](#o105)</sup>. It is at the officer's discretion and cannot be booked <sup>[N32](#n32)</sup>.
 
 **How long and can you work?** A shore pass or transit landing lasts only the hours or days above <sup>[105](#o105)</sup>. A temporary visitor visa does not allow paid work <sup>[N1](#n1)</sup>. Staying beyond the period on a landing permission is a crime with up to 3 years' imprisonment or a 3 million yen fine <sup>[105](#o105)</sup>.
 
 **If refused:** after a temporary visitor visa refusal, the embassy does not accept a new application for the same purpose within six months, and gives no specific reason <sup>[76 (2023)](#o76)</sup>.
 
-**Scams and help:** a "transit visa" sold in 2026 is not a real product, since Japan no longer issues them <sup>[N21](#n21)</sup>. For help, contact VFS Global, 09606 777 910, info.japanbd@vfshelpline.com <sup>[9 (2024)](#o9)</sup>.
+**Scams and help:** a "transit visa" sold in 2026 is not a real product, since Japan no longer issues them <sup>[N32](#n32)</sup>. For help, contact VFS Global, 09606 777 910, info.japanbd@vfshelpline.com <sup>[9 (2024)](#o9)</sup>.
 
 > **Need to know**
 > - Has the Dhaka embassy removed the transit visa from its lists, as other Japanese missions did on 1 July 2026? Its old list asked for the next country's visa and refused "impractical" routes such as Dhaka to Seoul via Tokyo <sup>[141](#o141)</sup>.
@@ -2080,7 +2117,7 @@ The Dependent status is granted for a period ISA sets, up to 5 years <sup>[155](
 #### 13.2.2 How a dependant applies
 
 1. <a id="how-a-dependant-applies-item-1"></a>**The supporter in Japan applies for each family member's COE** at the regional immigration bureau with the papers above; it is free and takes 1 to 3 months <sup>[59](#o59)</sup>.
-2. <a id="how-a-dependant-applies-item-2"></a>**The family member applies for the visa at VFS in Dhaka** with the form, passport, photo, COE copy and flight booking (as in [Step 3: Get the visa at VFS Global in Dhaka](#step-3-get-the-visa-at-vfs-global-in-dhaka)) <sup>[N28](#n28)</sup>.
+2. <a id="how-a-dependant-applies-item-2"></a>**The family member applies for the visa at VFS in Dhaka** with the form, passport, photo, COE copy and flight booking (as in [Step 3: Get the visa at VFS Global in Dhaka](#step-3-get-the-visa-at-vfs-global-in-dhaka)) <sup>[N41](#n41)</sup>.
 3. <a id="how-a-dependant-applies-item-3"></a>**In Japan, keep the status in order.** A dependant must notify ISA on divorce or the spouse's death <sup>[155](#o155)</sup>. A dependant can work only up to 28 hours a week with permission to engage in activities outside the status, which is free <sup>[157 (2024)](#o157), [158](#o158), [145 (2024)](#o145)</sup>.
 
 > **Need to know**
@@ -2111,7 +2148,7 @@ The Spouse or Child of Japanese National status covers a Japanese national's spo
 
 1. <a id="how-a-japanese-nationals-spouse-applies-item-1"></a>**Make sure the marriage is on record in both countries:** ISA needs the Japanese spouse's koseki showing the marriage and a marriage certificate from Bangladesh <sup>[160](#o160)</sup>.
 2. <a id="how-a-japanese-nationals-spouse-applies-item-2"></a>**The Japanese spouse applies for the COE** with the papers above; it is free and takes 1 to 3 months <sup>[59](#o59)</sup>.
-3. <a id="how-a-japanese-nationals-spouse-applies-item-3"></a>**Apply for the visa at VFS in Dhaka** (see [Step 3: Get the visa at VFS Global in Dhaka](#step-3-get-the-visa-at-vfs-global-in-dhaka)) <sup>[N28](#n28)</sup>.
+3. <a id="how-a-japanese-nationals-spouse-applies-item-3"></a>**Apply for the visa at VFS in Dhaka** (see [Step 3: Get the visa at VFS Global in Dhaka](#step-3-get-the-visa-at-vfs-global-in-dhaka)) <sup>[N41](#n41)</sup>.
 
 > **Need to know**
 > - Which Bangladeshi marriage documents does the Japanese city office accept to register a marriage with a Bangladeshi, and does it need MOFA attestation? <sup>[160](#o160)</sup>
@@ -2183,10 +2220,10 @@ The spouse or child of a Japanese national or permanent resident does not need i
 
 Check ISA's PR checklist first: one "No" makes a refusal likely <sup>[161](#o161)</sup>.
 
-A draft revision of the PR guidelines, open for public comment until 3 September 2026, adds a higher income standard and a concrete "national interest" test, and would not count time spent job-hunting or in refugee procedures toward the 10 years <sup>[N38](#n38)</sup>.
+A draft revision of the PR guidelines, open for public comment until 3 September 2026, adds a higher income standard and a concrete "national interest" test, and would not count time spent job-hunting or in refugee procedures toward the 10 years <sup>[N55](#n55)</sup>.
 
 > **Need to know**
-> - Has the September 2026 draft of the PR guidelines been adopted, and what income level does it set? <sup>[N38](#n38)</sup>
+> - Has the September 2026 draft of the PR guidelines been adopted, and what income level does it set? <sup>[N55](#n55)</sup>
 > - Do agents or administrative scriveners charge Bangladeshis for PR applications, how much, and do any sell a guarantor?
 
 For help with an application, ISA's Immigration Information Center is on 0570-013904 (03-5796-7112 from IP phones or abroad) <sup>[42](#o42)</sup>.
@@ -2335,7 +2372,7 @@ An applicant can apply to change to "Designated Activities (refugee applicant)" 
 
 ### 16.5 Brokers selling asylum as a work route
 
-- **The pitch:** a broker says an asylum claim gives a work permit, or that certain work earns a visa. In 2017 two Bangladeshi asylum seekers did Fukushima radiation clean-up after brokers and construction firms told them it would extend their visas; the Justice Ministry said no residence permit was on offer for that work <sup>[N20 (2017)](#n20)</sup>.
+- **The pitch:** a broker says an asylum claim gives a work permit, or that certain work earns a visa. In 2017 two Bangladeshi asylum seekers did Fukushima radiation clean-up after brokers and construction firms told them it would extend their visas; the Justice Ministry said no residence permit was on offer for that work <sup>[N31 (2017)](#n31)</sup>.
 - **The facts:** ISA states, in a notice it publishes in Bengali, that applying for refugee recognition does not mean you can work in Japan <sup>[174](#o174), [168 (2019)](#o168)</sup>. Among claims ISA refused, the most common was trouble with acquaintances or neighbours at home (about 44%), two-thirds of it over debts; others gave a wish to work in Japan <sup>[171 (2018)](#o171)</sup>.
 - **The cost to you:** working without permission carries up to 1 year in prison or a 2 million yen fine, and the broker or employer up to 3 years or 3 million yen <sup>[105](#o105)</sup>.
 
@@ -2345,13 +2382,13 @@ An applicant can apply to change to "Designated Activities (refugee applicant)" 
 
 1. <a id="if-your-fear-of-persecution-is-real-item-1"></a>**Apply at the regional immigration bureau for where you live,** in person, with the application form, a 4 x 3 cm photo, evidence or a written statement of why you fear persecution, and your passport or residence card <sup>[43](#o43)</sup>. There is no fee and no time limit <sup>[43](#o43)</sup>.
 2. <a id="if-your-fear-of-persecution-is-real-item-2"></a>**Go during counter hours:** weekdays 9:00 to 12:00 and 13:00 to 16:00 (Tokyo until 15:00) <sup>[43](#o43)</sup>.
-3. <a id="if-your-fear-of-persecution-is-real-item-3"></a>**Wait.** ISA's standard time is 6 months, but the Japan Association for Refugees (JAR) reports an average of about 2 years 11 months <sup>[43](#o43), [N39](#n39)</sup>.
+3. <a id="if-your-fear-of-persecution-is-real-item-3"></a>**Wait.** ISA's standard time is 6 months, but the Japan Association for Refugees (JAR) reports an average of about 2 years 11 months <sup>[43](#o43), [N56](#n56)</sup>.
 4. <a id="if-your-fear-of-persecution-is-real-item-4"></a>**If refused,** you can request review; how is explained in the refusal notice <sup>[43](#o43)</sup>.
 
-JAR's office is at TAS Building 4F, 2-5-2 Nishi-Kanda, Chiyoda-ku, Tokyo, phone 03-5379-6001 <sup>[N39](#n39)</sup>.
+JAR's office is at TAS Building 4F, 2-5-2 Nishi-Kanda, Chiyoda-ku, Tokyo, phone 03-5379-6001 <sup>[N56](#n56)</sup>.
 
 > **Need to know**
-> - Does JAR advise Bangladeshi applicants in Bengali, and on which days does it take walk-ins? <sup>[N39](#n39)</sup>
+> - Does JAR advise Bangladeshi applicants in Bengali, and on which days does it take walk-ins? <sup>[N56](#n56)</sup>
 
 <a id="having-a-child-in-japan"></a>
 
@@ -2426,32 +2463,32 @@ Money sent home from Japan reached Bangladesh at USD 105.9 million in fiscal yea
 
 ### 18.1 Use a bank or registered transfer company, never hundi
 
-In Japan only banks and funds transfer service providers (資金移動業者, "shikin idō gyōsha": remittance companies registered with the Financial Services Agency, FSA, Japan's financial regulator) may send money abroad <sup>[104 (2024)](#o104)</sup>. Using one that is not licensed is illegal, and the FSA says that if you are unsure a provider is legitimate, do not use it <sup>[104 (2024)](#o104)</sup>. Bangladesh's government also asks workers to send money only through legal channels, not hundi (informal transfer through brokers who pay out in taka at home) or other unlicensed agents <sup>[11](#o11)</sup>. Money sent legally earns the receiver a 2.5% government cash incentive, sometimes with a further 2.5% from the bank, and the 2026-27 budget keeps the government incentive <sup>[N40](#n40), [180](#o180)</sup>.
+In Japan only banks and funds transfer service providers (資金移動業者, "shikin idō gyōsha": remittance companies registered with the Financial Services Agency, FSA, Japan's financial regulator) may send money abroad <sup>[104 (2024)](#o104)</sup>. Using one that is not licensed is illegal, and the FSA says that if you are unsure a provider is legitimate, do not use it <sup>[104 (2024)](#o104)</sup>. Bangladesh's government also asks workers to send money only through legal channels, not hundi (informal transfer through brokers who pay out in taka at home) or other unlicensed agents <sup>[11](#o11)</sup>. Money sent legally earns the receiver a 2.5% government cash incentive, sometimes with a further 2.5% from the bank, and the 2026-27 budget keeps the government incentive <sup>[N57](#n57), [180](#o180)</sup>.
 
 You'll need:
-- For a bKash wallet (Bangladesh's largest mobile money service): the receiver's bKash number and full name exactly as registered <sup>[N40](#n40)</sup>.
+- For a bKash wallet (Bangladesh's largest mobile money service): the receiver's bKash number and full name exactly as registered <sup>[N57](#n57)</sup>.
 - For a bank account: your own or a relative's account in Bangladesh <sup>[181](#o181)</sup>.
 - Papers showing the purpose of the transfer, if the bank or company asks <sup>[104 (2024)](#o104)</sup>.
 
-1. <a id="use-a-bank-or-registered-transfer-company-never-hundi-item-1"></a>**Choose a registered company.** bKash names these partners for sending from Japan to a bKash account: Japan Remit, N and P Co Ltd, Queen Bee, Wise, WorldRemit, Western Union and MoneyGram <sup>[N40](#n40)</sup>. On the FSA's register, as of 31 October 2026, are <sup>[182](#o182)</sup>:
+1. <a id="use-a-bank-or-registered-transfer-company-never-hundi-item-1"></a>**Choose a registered company.** bKash names these partners for sending from Japan to a bKash account: Japan Remit, N and P Co Ltd, Queen Bee, Wise, WorldRemit, Western Union and MoneyGram <sup>[N57](#n57)</sup>. On the FSA's register, as of 31 October 2026, are <sup>[182](#o182)</sup>:
    - Japan Remit Finance <sup>[182](#o182)</sup>.
    - N&P Japan, Hyakunincho, Shinjuku, 03-6302-1223 <sup>[182](#o182)</sup>.
    - Queen Bee Capital, Roppongi, Minato-ku, 03-6809-2785 <sup>[182](#o182)</sup>.
    - Wise Payments Japan <sup>[182](#o182)</sup>.
    - WorldRemit Ltd. <sup>[182](#o182)</sup>.
    - Western Union Japan <sup>[182](#o182)</sup>.
-   - SBI Remit, Otsuka, Bunkyo-ku, 03-6229-0792 <sup>[182](#o182)</sup>. It sends through its partner MoneyGram, including to bank accounts in Bangladesh <sup>[N41](#n41)</sup>.
+   - SBI Remit, Otsuka, Bunkyo-ku, 03-6229-0792 <sup>[182](#o182)</sup>. It sends through its partner MoneyGram, including to bank accounts in Bangladesh <sup>[N58](#n58)</sup>.
    - Brastel, Yokoami, Sumida-ku, 050-6860-1059 <sup>[182](#o182)</sup>.
    - City Express Money Transfer Japan, Hyakunincho, Shinjuku <sup>[182](#o182)</sup>.
    - Remitly Japan <sup>[182](#o182)</sup>.
 
    > **Need to know**
-   > - MoneyGram, on bKash's Japan list, is not on the FSA register under its own name: does a MoneyGram transfer from Japan to a bKash wallet go through SBI Remit or another registered company <sup>[N40](#n40), [N41](#n41)</sup>?
+   > - MoneyGram, on bKash's Japan list, is not on the FSA register under its own name: does a MoneyGram transfer from Japan to a bKash wallet go through SBI Remit or another registered company <sup>[N57](#n57), [N58](#n58)</sup>?
    > - Which Japan companies pay into Nagad (Bangladesh's second mobile money service)?
    > - What does sending JPY 30,000 or 100,000 to Bangladesh cost, fee plus exchange margin, with each of these companies?
 2. <a id="use-a-bank-or-registered-transfer-company-never-hundi-item-2"></a>**Check the company is really registered.** Open the FSA's list, "資金移動業者登録一覧" (www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf), and find the company's name; it lists 86 providers, each with its Local Finance Bureau registration number, address and phone <sup>[182](#o182)</sup>. For details of a registration, ask the Local Finance Bureau that registered it <sup>[182](#o182)</sup>.
-3. <a id="use-a-bank-or-registered-transfer-company-never-hundi-item-3"></a>**Send.** To bKash, give the partner the receiver's bKash number and registered name and hand over the money; up to Tk 2.5 lakh (1 lakh is 100,000) at a time, as many times as you like <sup>[N40](#n40)</sup>. To a bank account, use a company or bank with a "drawing arrangement" (a payment link) with a Bangladeshi bank <sup>[181](#o181)</sup>.
-4. <a id="use-a-bank-or-registered-transfer-company-never-hundi-item-4"></a>**The family collects.** Banks in Bangladesh credit remittances within 3 days at most <sup>[181](#o181)</sup>. bKash money can be cashed out at BRAC Bank, City Bank and Q-Cash ATMs for Tk 7 per thousand <sup>[N40](#n40)</sup>.
+3. <a id="use-a-bank-or-registered-transfer-company-never-hundi-item-3"></a>**Send.** To bKash, give the partner the receiver's bKash number and registered name and hand over the money; up to Tk 2.5 lakh (1 lakh is 100,000) at a time, as many times as you like <sup>[N57](#n57)</sup>. To a bank account, use a company or bank with a "drawing arrangement" (a payment link) with a Bangladeshi bank <sup>[181](#o181)</sup>.
+4. <a id="use-a-bank-or-registered-transfer-company-never-hundi-item-4"></a>**The family collects.** Banks in Bangladesh credit remittances within 3 days at most <sup>[181](#o181)</sup>. bKash money can be cashed out at BRAC Bank, City Bank and Q-Cash ATMs for Tk 7 per thousand <sup>[N57](#n57)</sup>.
 
 <a id="hundi-and-underground-banking"></a>
 
@@ -2466,11 +2503,11 @@ Moving money for others as a business ("exchange transactions") is banking busin
 
 #### 18.1.2 Never sell your bank account when you leave
 
-Handing over your passbook, cash card or online-banking login when you leave, paid or free, is a crime (see [Selling or lending your bank account or phone](#selling-or-lending-your-bank-account-or-phone)) <sup>[185](#o185)</sup>. Opening an account in order to hand it over can be charged as fraud, with up to 10 years in prison <sup>[185](#o185)</sup>. Accounts were sold for an average of 35,000 yen in 2024, according to the National Police Agency <sup>[N42](#n42)</sup>. Close your account before you go home, or return unused accounts to the bank <sup>[104 (2024)](#o104), [185](#o185)</sup>.
+Handing over your passbook, cash card or online-banking login when you leave, paid or free, is a crime (see [Selling or lending your bank account or phone](#selling-or-lending-your-bank-account-or-phone)) <sup>[185](#o185)</sup>. Opening an account in order to hand it over can be charged as fraud, with up to 10 years in prison <sup>[185](#o185)</sup>. Accounts were sold for an average of 35,000 yen in 2024, according to the National Police Agency <sup>[N59](#n59)</sup>. Close your account before you go home, or return unused accounts to the bank <sup>[104 (2024)](#o104), [185](#o185)</sup>.
 
 **If something goes wrong:**
 - FSA Counseling Office for Financial Services Users: 0570-016811 (IP phone 03-5251-6811), weekdays 10:00-17:00, in Japanese; for English, email equestion@fsa.go.jp <sup>[104 (2024)](#o104)</sup>.
-- bKash helpline: 16247 <sup>[N40](#n40)</sup>.
+- bKash helpline: 16247 <sup>[N57](#n57)</sup>.
 
 <a id="saving-and-pension-in-bangladesh"></a>
 
@@ -2648,7 +2685,7 @@ Students, people on visitor visas and others who went to Japan without BMET clea
 
    > **Need to know**
    > - Which papers does the Embassy need to issue its no-objection certificate for a body, and what does it charge?
-3. <a id="if-a-worker-dies-item-3"></a>**Decide: body home, or cremation or burial in Japan.** Sending a body home needs embalming, a flight booking and the embassy's certification, handled by specialised funeral companies; report to the embassy's consular section first <sup>[207](#o207)</sup>. Osaka Prefecture's foreign-patient helpline advised in February 2026 that the family pays the whole transport cost and should get quotes from several companies <sup>[207](#o207)</sup>. One guide puts cremation before repatriation at about 500,000 yen and embalming at about 1.5 million yen, and names Sanyu Life (03 3341 6664), Air Mortuary Service (0120 06 5191) and International Mortuary Services Japan (048 261 3302) <sup>[N43](#n43)</sup>.
+3. <a id="if-a-worker-dies-item-3"></a>**Decide: body home, or cremation or burial in Japan.** Sending a body home needs embalming, a flight booking and the embassy's certification, handled by specialised funeral companies; report to the embassy's consular section first <sup>[207](#o207)</sup>. Osaka Prefecture's foreign-patient helpline advised in February 2026 that the family pays the whole transport cost and should get quotes from several companies <sup>[207](#o207)</sup>. One guide puts cremation before repatriation at about 500,000 yen and embalming at about 1.5 million yen, and names Sanyu Life (03 3341 6664), Air Mortuary Service (0120 06 5191) and International Mortuary Services Japan (048 261 3302) <sup>[N60](#n60)</sup>.
 
    > **Need to know**
    > - What does it cost now to fly an embalmed body from Tokyo to Dhaka, and who pays in practice for a technical intern or SSW worker: the employer, the supervising organisation, the Embassy or WEWB?
@@ -2727,8 +2764,8 @@ Every passenger fills in the baggage declaration form or submits it online; with
 
    > **Need to know**
    > - Which RAISE services continue after June 2026 <sup>[221](#o221)</sup>?
-3. <a id="support-after-return-item-3"></a>**For returned technical intern trainees.** IM Japan (International Manpower Development Organization, Japan) says the home government is responsible for helping returnees find work or start a business <sup>[N30](#n30)</sup>. Those who finished Technical Intern Training (iii) can join a distance-learning course for team leaders run by IM Japan and KGS (International Skills and Technology Promotion Foundation) <sup>[N30](#n30)</sup>.
-4. <a id="support-after-return-item-4"></a>**Japanese companies in Bangladesh.** About 350 Japanese companies operate in Bangladesh (JETRO, the Japan External Trade Organization, March 2026) <sup>[N44](#n44)</sup>.
+3. <a id="support-after-return-item-3"></a>**For returned technical intern trainees.** IM Japan (International Manpower Development Organization, Japan) says the home government is responsible for helping returnees find work or start a business <sup>[N43](#n43)</sup>. Those who finished Technical Intern Training (iii) can join a distance-learning course for team leaders run by IM Japan and KGS (International Skills and Technology Promotion Foundation) <sup>[N43](#n43)</sup>.
+4. <a id="support-after-return-item-4"></a>**Japanese companies in Bangladesh.** About 350 Japanese companies operate in Bangladesh (JETRO, the Japan External Trade Organization, March 2026) <sup>[N61](#n61)</sup>.
 
    > **Need to know**
    > - Do any Japanese companies in Bangladesh, BMET or BOESL run a scheme to hire Japan returnees, and is there a returnee association or database?
@@ -2746,7 +2783,7 @@ Every passenger fills in the baggage declaration form or submits it online; with
 
 ### 22.1 In Japan
 
-- **Bangladesh Embassy, Tokyo:** 3-29 Kioicho, Chiyoda-ku, Tokyo 102-0094; Nagatacho Station exit 9a/9b (about 9 minutes' walk) or Kojimachi Station exit 1 (about 6 minutes); tel 03-3234-5801, fax 03-3234-5802 <sup>[115](#o115)</sup>. General email bdembassy.tokyo@mofa.gov.bd; consular consular.bdembjp@mofa.gov.bd <sup>[117](#o117)</sup>. Open Monday-Friday except holidays, 9:00-17:00; phones are not answered 13:00-14:00 <sup>[116 (2024)](#o116)</sup>. Passport, birth registration and attestation counters 9:00-17:00, ext. 102 and 104, or 03-3230-1773 direct <sup>[116 (2024)](#o116), [118](#o118)</sup>. Special consular service (not visas) on the first Sunday of each month, 10:30-14:30 <sup>[116 (2024)](#o116)</sup>.
+- **Bangladesh Embassy, Tokyo:** 3-29 Kioicho, Chiyoda-ku, Tokyo 102-0094; Nagatacho Station exit 9a/9b (about 9 minutes' walk) or Kojimachi Station exit 1 (about 6 minutes); tel 03-3234-5801, fax 03-3234-5802 <sup>[115](#o115)</sup>. General email bdembassy.tokyo@mofa.gov.bd; consular consular.bdembjp@mofa.gov.bd <sup>[117](#o117)</sup>. Open Monday-Friday except holidays, 9:00-17:00; phones are not answered 13:00-14:00 <sup>[116 (2024)](#o116)</sup>. Passport, birth registration and attestation counters 9:00-17:00, ext. 102 and 104, or 03-3230-1773 direct <sup>[116 (2024)](#o116), [118](#o118)</sup>. Special consular service (not visas) on the first Sunday of each month, 10:30-14:30 <sup>[116 (2024)](#o116)</sup>. Since August 2025 the embassy gives NID (national identity card) services: apply online at services.nidw.gov.bd, then give your biometrics and submit the documents at the embassy <sup>[N62](#n62)</sup>.
 - **Embassy emergency hotline (24/7, for Bangladeshis in distress, not for routine passport, visa or consular queries):** 070-1260-1984, 080-7004-1971 or 080-4065-6601 <sup>[115](#o115), [116 (2024)](#o116)</sup>; the Phone Numbers page also shows 090-3558-1968 <sup>[118](#o118)</sup>.
 - **Embassy labour welfare wing:** Counsellor, 03-3234-5801 ext. 201, zakir2kbd@gmail.com <sup>[115](#o115)</sup>; First Secretary (Labour), fslabor@mofa.gov.bd <sup>[117](#o117)</sup>; mobile 080-4352-4795 <sup>[18](#o18)</sup>. It handles legal aid for unpaid wages, visits to workplaces, hospitals and detention centres, repatriation of stranded workers and help with bodies <sup>[18](#o18)</sup>.
 - **Immigration Services Agency information centre:** 0570-013904; from an IP phone or abroad 03-5796-7112; weekdays 8:30-17:15 <sup>[133](#o133)</sup>. Languages include English, Nepali and Sinhala, but not Bengali <sup>[133](#o133)</sup>. It gives general guidance only and cannot tell you how a case is progressing <sup>[133](#o133)</sup>.
@@ -3032,38 +3069,56 @@ These facts come only from news or third-party sources. Each needs an official s
 - <a id="n7"></a>N7. The Daily Star, 28 Oct 2019. [Jobs in Japan: IT firm fined Tk 10.5 lakh for irregularities in recruitment](https://www.thedailystar.net/backpage/news/jobs-japan-it-firm-fined-tk-105-lakh-irregularities-recruitment-1820248). Accessed 19 Nov 2026. Possibly outdated.
 - <a id="n8"></a>N8. The Financial Express, 4 Mar 2019. [Japan set to recruit technical interns thru pvt sector soon](https://thefinancialexpress.com.bd/trade/japan-set-to-recruit-technical-interns-thru-pvt-sector-soon-1551670368). Accessed 19 Nov 2026. Possibly outdated.
 - <a id="n9"></a>N9. Prothom Alo (English), 3 Oct 2025. [Jobs in Japan easy to get, but Bangladesh hardly avails the chance](https://en.prothomalo.com/business/qh7xo2wbs2). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n10"></a>N10. bdnews24.com (Bangla), 2 Aug 2023. [Learn the language and go to Japan on Tk 1-1.5 lakh salary (Bangla)](https://bangla.bdnews24.com/economy/6uglvzcv1u). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n11"></a>N11. Prothom Alo (English), 22 Oct 2019. [Expat ministry alerts aspirants not to pay to go to Japan](https://en.prothomalo.com/bangladesh/Expat-ministry-alerts-aspirants-not-to-pay-to-go). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n12"></a>N12. BSS (Bangladesh Sangbad Sangstha), 28 Apr 2026. [Govt intensifies preparations to send skilled manpower to Japan under SSW](https://www.bssnews.net/news-flash/382161). Accessed 19 Nov 2026.
-- <a id="n13"></a>N13. Dhaka Tribune, 5 Apr 2026. [Minister: Over 1.13 million Bangladeshis employed abroad in 2025](https://www.dhakatribune.com/bangladesh/foreign-affairs/407015/minister%C2%A0ariful%C2%A0haque%C2%A0chowdhury). Accessed 19 Nov 2026.
-- <a id="n14"></a>N14. The Daily Ittefaq (English), 27 Oct 2025. [Japan to recruit 1 lakh skilled Bangladeshi workers](https://en.ittefaq.com.bd/13988/japan-to-recruit-1-lakh-skilled-bangladeshi). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n15"></a>N15. The Financial Express, 17 Sep 2025. [Project prepared for initially sending 0.1m workers to Japan](https://thefinancialexpress.com.bd/national/project-prepared-for-initially-sending-01m-workers-to-japan). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n16"></a>N16. The Business Standard, 12 Oct 2020. [RAB seals and fines Visa Guide Center](https://www.tbsnews.net/bangladesh/rab-seals-and-fines-visa-guide-center-144301). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n17"></a>N17. The Daily Observer, 4 Jun 2026. [Japan SSW opportunities for Bangladeshi workers](https://observerbd.com/news/578172). Accessed 19 Nov 2026.
-- <a id="n18"></a>N18. Asia News Network (The Yomiuri Shimbun), 12 Jul 2023. [Japanese language school punished for violating rights of international students](https://asianews.network/?p=105480). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n19"></a>N19. The Financial Express, 28 Apr 2026. [Bangladesh prepares to send skilled workers to Japan](https://thefinancialexpress.com.bd/trade/bangladesh-prepares-to-send-skilled-workers-to-japan). Accessed 19 Nov 2026.
-- <a id="n20"></a>N20. The Daily Star (Reuters), 8 Mar 2017. [Bangladeshi asylum seekers tricked into radiation clean-up (name of migrant redacted in saved copy)](https://www.thedailystar.net/node/1372741). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n21"></a>N21. VisaVerge. [Tokyo Narita and Haneda Transit: What Changed in 2026](https://www.visaverge.com/guides/tokyo-narita-haneda-transit-2026/). Accessed 19 Nov 2026. Undated: possibly outdated.
-- <a id="n22"></a>N22. Dhaka Tribune, 28 Apr 2026. [Bangladesh prepares to send manpower to Japan](https://www.dhakatribune.com/bangladesh/government-affairs/408857/bangladesh-prepares-to-send-manpower-to-japan). Accessed 19 Nov 2026.
-- <a id="n23"></a>N23. Bonik Barta, Jul 2025. [Japan labour market: Bangladesh lags far behind Nepal](https://en.bonikbarta.com/bangladesh/DjGNPMcAIv39y09V). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n24"></a>N24. Prothom Alo, Aug 2025. [Japanese language course, admission fee only Tk 1,000 (Bangla)](https://www.prothomalo.com/education/admission/wrcuj0hbdp). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n25"></a>N25. Prometric (SSW test administrator), 6 Nov 2025. [Additional test dates at the Dhaka venue (Bangladesh)](https://www.prometric-jp.com/en/ssw/news/archives/262). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n26"></a>N26. Prometric (SSW test administrator), 25 Dec 2025. [Bangladesh test centre closure notice](https://www.prometric-jp.com/en/ssw/news/archives/280). Accessed 19 Nov 2026.
-- <a id="n27"></a>N27. bdnews24.com, 29 May 2025. [Japan to recruit at least 100,000 workers from Bangladesh under two MoUs](https://bdnews24.com/bangladesh/8e2fc2a75d54). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n28"></a>N28. VFS Global (Japan Visa Application Centre, Bangladesh). [Checklist for Long Term (COE-based) visas](https://www.vfsglobal.com/one-pager/japan/bangladesh/english/pdf/Long-term-Checklist-new.pdf). Accessed 19 Nov 2026. Undated: possibly outdated.
-- <a id="n29"></a>N29. Digi Bangla, 18 Aug 2025. [Japan Jobs and Journeys: Syndicate, Students, and Skilled Migration](https://digibanglatech.news/156602). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n30"></a>N30. IM Japan (International Manpower Development Organization, Japan). [IM Japan's Technical Intern Training Program: FAQ](https://imm.or.jp/en/program/faq.html). Accessed 19 Nov 2026. Undated: possibly outdated.
-- <a id="n31"></a>N31. NPO POSSE. [外国人労働者向けの相談窓口 (Consultation for foreign workers)](https://npoposse.jp/labor/foreign_workers/). Accessed 19 Nov 2026. Undated: possibly outdated.
-- <a id="n32"></a>N32. Council of Local Authorities for International Relations (CLAIR). [多言語生活相談窓口 一覧 (Multilingual living consultation desks by prefecture)](https://www.clair.or.jp/j/multiculture/association/consultation_list.html). Accessed 19 Nov 2026. Undated: possibly outdated.
-- <a id="n33"></a>N33. B-JET Program, Nov 2026. [B-JET official site](https://www.bjet.org/). Accessed 19 Nov 2026.
-- <a id="n34"></a>N34. B-JET Program (via Bdjobs), Jun 2026. [B-JET (Bangladesh-Japan ICT Engineers' Training) Program 16th Batch](https://hotjobs1.bdjobs.com/b-jet--bangladesh-japan-ict-engineers--training-program-/bjet27.html). Accessed 19 Nov 2026.
-- <a id="n35"></a>N35. United News of Bangladesh, 22 May 2025. [JICA warns against fraudulent activities circulating on online platforms](https://unb.com.bd/category/Bangladesh/jica-warns-against-fraudulent-activities-circulating-on-online-platforms/160325). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n36"></a>N36. VFS Global (Japan Visa Application Centre, Bangladesh). [Application Procedures for Multiple-Entry Temporary Visitor Visas](https://www.vfsglobal.com/one-pager/japan/bangladesh/english/pdf/Documents_multiple.pdf). Accessed 19 Nov 2026. Undated: possibly outdated.
-- <a id="n37"></a>N37. BSS (Bangladesh Sangbad Sangstha), 15 Apr 2026. [Govt offers easy loans for studying in Japan](https://www.bssnews.net/others/378150). Accessed 19 Nov 2026.
-- <a id="n38"></a>N38. Japan Association for Refugees, 2 Sep 2026. [Public comment on the draft revision of the Permanent Residence Guidelines](https://www.refugee.or.jp/report/refugee/2026/09/post-21817/). Accessed 19 Nov 2026.
-- <a id="n39"></a>N39. Japan Association for Refugees, 14 Mar 2025. [Comment on the 2024 refugee recognition figures](https://www.refugee.or.jp/report/refugee/2025/03/recog2024/). Accessed 19 Nov 2026. Possibly outdated.
-- <a id="n40"></a>N40. bKash Limited. [Money Transfer Service (remittance to bKash, list of partner countries)](https://www.bkash.com/en/products-services/remittance/money-transfer-service). Accessed 11 Nov 2026. Undated: possibly outdated.
-- <a id="n41"></a>N41. SBI Remit Co., Ltd., 14 Oct 2026. [MoneyGram system maintenance notice](https://www.remit.co.jp/kaigaisoukin/information/20261014/). Accessed 19 Nov 2026.
-- <a id="n42"></a>N42. Akita Sakigake Shimpo, 3 Apr 2026. [口座売買を厳罰化へ、閣議決定 (Cabinet approves heavier penalties for account selling)](https://www.sakigake.jp/news/article/20260403CO0031/). Accessed 19 Nov 2026.
-- <a id="n43"></a>N43. Ask Explorer (expat guide). [Returning the deceased to country of origin](https://askexplorer.com/tokyo/residents/living/certificates-licences/death-certificate-registration/returning-the-deceased-to-country-of-origin). Accessed 19 Nov 2026. Undated: possibly outdated.
-- <a id="n44"></a>N44. Bangladesh Sangbad Sangstha (BSS), 30 Mar 2026. [JETRO highlights Bangladesh as 'high-stakes frontier' for Japanese investment](https://www.bssnews.net/business/372821). Accessed 19 Nov 2026.
+- <a id="n10"></a>N10. Prothom Alo, 3 Oct 2025. [ভাষা শিখলেই ভালো বেতনে জাপান যাওয়া যায়, কিন্তু সুযোগ কমই নিতে পারছে বাংলাদেশ](https://www.prothomalo.com/business/economics/msnglmirgs). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n11"></a>N11. bdnews24.com (Bangla), 2 Aug 2023. [Learn the language and go to Japan on Tk 1-1.5 lakh salary (Bangla)](https://bangla.bdnews24.com/economy/6uglvzcv1u). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n12"></a>N12. Prothom Alo (English), 22 Oct 2019. [Expat ministry alerts aspirants not to pay to go to Japan](https://en.prothomalo.com/bangladesh/Expat-ministry-alerts-aspirants-not-to-pay-to-go). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n13"></a>N13. Prothom Alo, 10 Apr 2025. [বিনা খরচে আরও কর্মী নেবে জাপান, সমঝোতা স্মারক সই](https://www.prothomalo.com/bangladesh/j4mx1qiym6). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n14"></a>N14. BSS (Bangladesh Sangbad Sangstha), 28 Apr 2026. [Govt intensifies preparations to send skilled manpower to Japan under SSW](https://www.bssnews.net/news-flash/382161). Accessed 19 Nov 2026.
+- <a id="n15"></a>N15. Dhaka Tribune, 5 Apr 2026. [Minister: Over 1.13 million Bangladeshis employed abroad in 2025](https://www.dhakatribune.com/bangladesh/foreign-affairs/407015/minister%C2%A0ariful%C2%A0haque%C2%A0chowdhury). Accessed 19 Nov 2026.
+- <a id="n16"></a>N16. The Daily Ittefaq (English), 27 Oct 2025. [Japan to recruit 1 lakh skilled Bangladeshi workers](https://en.ittefaq.com.bd/13988/japan-to-recruit-1-lakh-skilled-bangladeshi). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n17"></a>N17. Prothom Alo, 29 May 2025. [বাংলাদেশ থেকে ১ লাখ শ্রমিক নেবে জাপান](https://www.prothomalo.com/bangladesh/xzvi2a8qrw). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n18"></a>N18. Prothom Alo, 27 Oct 2025. [এক লাখ কর্মী নিয়োগ: প্রধান উপদেষ্টাকে অগ্রগতি জানাল জাপানের প্রতিনিধিদল](https://www.prothomalo.com/bangladesh/qx91hnmyqg). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n19"></a>N19. Prothom Alo, 18 Aug 2025. [৩ বছরে ৪৩ হাজার শিক্ষার্থী জাপানে পাঠানো সম্ভব, সুযোগ কাজে লাগাতে চায় সরকার](https://www.prothomalo.com/education/higher-education/3ycysn19gg). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n20"></a>N20. Prothom Alo, 12 Nov 2024. [প্রবাসী কল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়ের সংস্কার: কল্যাণ ও কর্মসংস্থান পৃথক্‌করণ](https://nagorik.prothomalo.com/durporobash/tgu2t60m24). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n21"></a>N21. Prothom Alo, 21 Jan 2025. [ওসাকায় বাংলাদেশের মানবসম্পদ–বিষয়ক সেমিনার অনুষ্ঠিত](https://nagorik.prothomalo.com/durporobash/m7q8skh2to). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n22"></a>N22. Prothom Alo, 9 Nov 2025. [জাপানে ১ কোটি ১০ লাখ জনশক্তির ঘাটতি পূরণে পদক্ষেপ নেবে বাংলাদেশ](https://nagorik.prothomalo.com/durporobash/4wrx86hpui). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n23"></a>N23. Prothom Alo, 27 Oct 2025. [জাপানে চালক নিয়োগে বাংলাদেশে ড্রাইভিং স্কুল স্থাপন করবেন জাপানি উদ্যোক্তা](https://www.prothomalo.com/chakri/employment/yu6y6irlk5). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n24"></a>N24. Prothom Alo, 25 Dec 2025. [হোক্কাইদো হয়ে উঠছে জাপান তথা এশিয়ার কার্বনমুক্তকরণ প্রকল্প ও অর্থায়নের কেন্দ্রবিন্দু](https://www.prothomalo.com/world/asia/xanlfpxhc1). Accessed 23 Nov 2026.
+- <a id="n25"></a>N25. The Financial Express, 17 Sep 2025. [Project prepared for initially sending 0.1m workers to Japan](https://thefinancialexpress.com.bd/national/project-prepared-for-initially-sending-01m-workers-to-japan). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n26"></a>N26. bdnews24.com, 29 May 2025. [Japan to recruit at least 100,000 workers from Bangladesh under two MoUs](https://bdnews24.com/bangladesh/8e2fc2a75d54). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n27"></a>N27. The Business Standard, 12 Oct 2020. [RAB seals and fines Visa Guide Center](https://www.tbsnews.net/bangladesh/rab-seals-and-fines-visa-guide-center-144301). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n28"></a>N28. The Daily Observer, 4 Jun 2026. [Japan SSW opportunities for Bangladeshi workers](https://observerbd.com/news/578172). Accessed 19 Nov 2026.
+- <a id="n29"></a>N29. Asia News Network (The Yomiuri Shimbun), 12 Jul 2023. [Japanese language school punished for violating rights of international students](https://asianews.network/?p=105480). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n30"></a>N30. The Financial Express, 28 Apr 2026. [Bangladesh prepares to send skilled workers to Japan](https://thefinancialexpress.com.bd/trade/bangladesh-prepares-to-send-skilled-workers-to-japan). Accessed 19 Nov 2026.
+- <a id="n31"></a>N31. The Daily Star (Reuters), 8 Mar 2017. [Bangladeshi asylum seekers tricked into radiation clean-up (name of migrant redacted in saved copy)](https://www.thedailystar.net/node/1372741). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n32"></a>N32. VisaVerge. [Tokyo Narita and Haneda Transit: What Changed in 2026](https://www.visaverge.com/guides/tokyo-narita-haneda-transit-2026/). Accessed 19 Nov 2026. Undated: possibly outdated.
+- <a id="n33"></a>N33. Dhaka Tribune, 28 Apr 2026. [Bangladesh prepares to send manpower to Japan](https://www.dhakatribune.com/bangladesh/government-affairs/408857/bangladesh-prepares-to-send-manpower-to-japan). Accessed 19 Nov 2026.
+- <a id="n34"></a>N34. Bonik Barta, Jul 2025. [Japan labour market: Bangladesh lags far behind Nepal](https://en.bonikbarta.com/bangladesh/DjGNPMcAIv39y09V). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n35"></a>N35. Prothom Alo, Aug 2025. [Japanese language course, admission fee only Tk 1,000 (Bangla)](https://www.prothomalo.com/education/admission/wrcuj0hbdp). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n36"></a>N36. Prothom Alo, 9 Aug 2025. [জাপানি ভাষা শিক্ষা কোর্স, ভর্তি ফি মাত্র এক হাজার টাকা](https://www.prothomalo.com/education/admission/wrcuj0hbdp). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n37"></a>N37. Prothom Alo, 22 Aug 2025. [চট্টগ্রামে জাপানি ভাষা শিক্ষা কোর্সে ভর্তি, ফি মাত্র এক হাজার টাকা](https://www.prothomalo.com/education/admission/23dmqym91j). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n38"></a>N38. Prothom Alo, 16 Apr 2024. [যে ১০ বিদেশি ভাষা শিক্ষা উন্নত ক্যারিয়ার গঠনে এগিয়ে রাখবে আপনাকে](https://www.prothomalo.com/education/scholarship/xh0e9pniyt). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n39"></a>N39. Prometric (SSW test administrator), 6 Nov 2025. [Additional test dates at the Dhaka venue (Bangladesh)](https://www.prometric-jp.com/en/ssw/news/archives/262). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n40"></a>N40. Prometric (SSW test administrator), 25 Dec 2025. [Bangladesh test centre closure notice](https://www.prometric-jp.com/en/ssw/news/archives/280). Accessed 19 Nov 2026.
+- <a id="n41"></a>N41. VFS Global (Japan Visa Application Centre, Bangladesh). [Checklist for Long Term (COE-based) visas](https://www.vfsglobal.com/one-pager/japan/bangladesh/english/pdf/Long-term-Checklist-new.pdf). Accessed 19 Nov 2026. Undated: possibly outdated.
+- <a id="n42"></a>N42. Digi Bangla, 18 Aug 2025. [Japan Jobs and Journeys: Syndicate, Students, and Skilled Migration](https://digibanglatech.news/156602). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n43"></a>N43. IM Japan (International Manpower Development Organization, Japan). [IM Japan's Technical Intern Training Program: FAQ](https://imm.or.jp/en/program/faq.html). Accessed 19 Nov 2026. Undated: possibly outdated.
+- <a id="n44"></a>N44. Prothom Alo, 2 Jul 2025. [বিমানের টোকিও ফ্লাইট বন্ধ হলে লাভ, নাকি ক্ষতি](https://www.prothomalo.com/opinion/column/97jbieul4n). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n45"></a>N45. NPO POSSE. [外国人労働者向けの相談窓口 (Consultation for foreign workers)](https://npoposse.jp/labor/foreign_workers/). Accessed 19 Nov 2026. Undated: possibly outdated.
+- <a id="n46"></a>N46. Council of Local Authorities for International Relations (CLAIR). [多言語生活相談窓口 一覧 (Multilingual living consultation desks by prefecture)](https://www.clair.or.jp/j/multiculture/association/consultation_list.html). Accessed 19 Nov 2026. Undated: possibly outdated.
+- <a id="n47"></a>N47. B-JET Program, Nov 2026. [B-JET official site](https://www.bjet.org/). Accessed 19 Nov 2026.
+- <a id="n48"></a>N48. B-JET Program (via Bdjobs), Jun 2026. [B-JET (Bangladesh-Japan ICT Engineers' Training) Program 16th Batch](https://hotjobs1.bdjobs.com/b-jet--bangladesh-japan-ict-engineers--training-program-/bjet27.html). Accessed 19 Nov 2026.
+- <a id="n49"></a>N49. United News of Bangladesh, 22 May 2025. [JICA warns against fraudulent activities circulating on online platforms](https://unb.com.bd/category/Bangladesh/jica-warns-against-fraudulent-activities-circulating-on-online-platforms/160325). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n50"></a>N50. Prothom Alo, 17 Sep 2025. [ভুয়া ফুটবল দল গড়ে জাপানে আদম পাচার, পাকিস্তানে দালাল গ্রেপ্তার](https://www.prothomalo.com/sports/football/0iixihypnw). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n51"></a>N51. VFS Global (Japan Visa Application Centre, Bangladesh). [Application Procedures for Multiple-Entry Temporary Visitor Visas](https://www.vfsglobal.com/one-pager/japan/bangladesh/english/pdf/Documents_multiple.pdf). Accessed 19 Nov 2026. Undated: possibly outdated.
+- <a id="n52"></a>N52. BSS (Bangladesh Sangbad Sangstha), 15 Apr 2026. [Govt offers easy loans for studying in Japan](https://www.bssnews.net/others/378150). Accessed 19 Nov 2026.
+- <a id="n53"></a>N53. Prothom Alo, 25 May 2024. [জাপানের বৃত্তির জন্য মনোনয়ন পেলেন ৮৪ বাংলাদেশি](https://www.prothomalo.com/education/scholarship/dgysf4mhni). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n54"></a>N54. Prothom Alo, 24 Mar 2024. [জাপানে বিনা মূল্যে ইন্টার্নশিপ, বাংলাদেশি  স্নাতক–স্নাতকোত্তর শিক্ষার্থীদের সুযোগ](https://www.prothomalo.com/education/scholarship/1qafhxoat9). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n55"></a>N55. Japan Association for Refugees, 2 Sep 2026. [Public comment on the draft revision of the Permanent Residence Guidelines](https://www.refugee.or.jp/report/refugee/2026/09/post-21817/). Accessed 19 Nov 2026.
+- <a id="n56"></a>N56. Japan Association for Refugees, 14 Mar 2025. [Comment on the 2024 refugee recognition figures](https://www.refugee.or.jp/report/refugee/2025/03/recog2024/). Accessed 19 Nov 2026. Possibly outdated.
+- <a id="n57"></a>N57. bKash Limited. [Money Transfer Service (remittance to bKash, list of partner countries)](https://www.bkash.com/en/products-services/remittance/money-transfer-service). Accessed 11 Nov 2026. Undated: possibly outdated.
+- <a id="n58"></a>N58. SBI Remit Co., Ltd., 14 Oct 2026. [MoneyGram system maintenance notice](https://www.remit.co.jp/kaigaisoukin/information/20261014/). Accessed 19 Nov 2026.
+- <a id="n59"></a>N59. Akita Sakigake Shimpo, 3 Apr 2026. [口座売買を厳罰化へ、閣議決定 (Cabinet approves heavier penalties for account selling)](https://www.sakigake.jp/news/article/20260403CO0031/). Accessed 19 Nov 2026.
+- <a id="n60"></a>N60. Ask Explorer (expat guide). [Returning the deceased to country of origin](https://askexplorer.com/tokyo/residents/living/certificates-licences/death-certificate-registration/returning-the-deceased-to-country-of-origin). Accessed 19 Nov 2026. Undated: possibly outdated.
+- <a id="n61"></a>N61. Bangladesh Sangbad Sangstha (BSS), 30 Mar 2026. [JETRO highlights Bangladesh as 'high-stakes frontier' for Japanese investment](https://www.bssnews.net/business/372821). Accessed 19 Nov 2026.
+- <a id="n62"></a>N62. Prothom Alo, 23 Aug 2025. [জাপানে বাংলাদেশ দূতাবাসে এনআইডি–সেবা চালু](https://nagorik.prothomalo.com/durporobash/slqjzt30sj). Accessed 23 Nov 2026. Possibly outdated.
