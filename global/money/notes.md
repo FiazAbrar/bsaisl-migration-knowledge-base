@@ -93,3 +93,12 @@
 
 - October 2024 bank rate: a Prothom Alo report gives Tk 122 including the incentive (GM0154); Mamun Rashid's column of 15 Oct 2024 gives Tk 121 through the banking channel (GM0403). Different bases (with and without incentive, different days); both kept with attribution, no conflict that changes what anyone would do.
 - 2024 calendar total: column says about USD 26.89 billion (GM0409, not used for the figure), World Bank USD 26.6 billion (GM0405, used only for the ranking), Bangladesh Bank report about USD 27 billion (GM0170). Rounding and source differences; the Bangladesh Bank figure stays as the year's total.
+
+## Prothom Alo late chunk (lchunk-money, 3 articles) and held2/held3-money (2 items), agent GM
+
+Added facts GM0410-GM0428. New section: Paying for a language course abroad (Bangladesh Bank's 22 May 2025 easing). Added: the Finance Division's May 2024 list of non-financial benefits (Proposals not known to be in force); bond denominations, the lien-officer buyers, duplicate and nominee rules and the two dollar bonds' 2025 rates (Wage Earners' Development Bond); the July 2026 GCC job-loss warning (Where it comes from). The Probashi Card now carries the 5 September 2026 report (GM0425, GM0426, same article the services doc cites as GV0234, GV0235) between the 31 August "pilot next month" and the 13 October "being piloted in four to five countries"; the Need to know was narrowed to what the country pilots are and how to get a card in them.
+
+## Resolved conflicts (late chunk)
+
+- FY2025-26 remittance: an October 2026 column on skills gives USD 35.56 billion; the September 2026 Bangladesh Bank-based report gives USD 35.59 billion (GM0352). The specific banking report wins; held item R2-money-1 marked duplicate.
+- Probashi Card in September 2026: "pilot due in September" (31 Aug, GM0351) and "not yet introduced, still at the preparation stage" (5 Sep, GM0425-0426) are consistent; by 13 Oct the state minister said it was being piloted. A sequence, not a conflict.

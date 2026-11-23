@@ -39,6 +39,11 @@ The passport application must match the NID or the online birth registration (se
 - **May 2025, Madaripur.** Bayezid Munshi, 18, paid a dalal Tk 9,500 on contract for a 10-year passport whose government fee is Tk 5,750 [GD0129]. Rubel Howlader of Dasar was asked Tk 10,000 at one of the shops outside and paid Tk 8,000 [GD0135]. Applications without a dalal were returned when the applicant lacked the original NID or an attested printout of the online NID: Akter Hossain was turned away for each in turn and accepted only on his third trip, while others around him submitted without these demands [GD0130, GD0133, GD0134]. The deputy director, Rotika Sarkar, said the office had noticed dalals in the shops and told the deputy commissioner, and claimed the office was 100% free of corruption [GD0137, GD0136].
 - **13 July 2025, Faridpur.** Two local dalals, Siam Ahmed and Rashed Khan, took Tk 30,000 from a Rohingya couple on a promise of passports, did no passport work, and beat the couple's son-in-law when he protested, according to local sources; he asked the office's Ansar guards for help, and police detained the couple, the son-in-law and the two dalals [OA0117, OA0118, OA0119]. The Kotwali police station's officer in charge said legal action was being taken against the dalals, and the three Rohingya would be sent to a camp if they lived in one [OA0120, OA0121].
 
+**When an office closes.** The Narayanganj regional passport office was set on fire on 18 July 2024, during the student-led movement, burning more than 8,000 ready passports and police verification papers; for nine months its applicants had to go to the Keraniganj, Narsingdi or Munshiganj offices [GD0169, GD0170]. It reopened on 4 May 2025, taking applications and biometrics, to a large crowd on the first day, and the deputy commissioner, Mohammad Zahidul Islam Mia, said mobile courts would run regular drives to keep it free of dalals [GD0173, GD0171].
+
+> **Need to know**
+> - Were the more than 8,000 passports burnt in Narayanganj reissued free, and did their owners have to apply and give biometrics again [GD0169]?
+
 **Police verification.** TIB counts the abolition of police verification for passports among recent reforms [D0140]. In a 2017 study, TIB had found that three in four new-passport applicants paid bribes or irregular money during police verification, and its executive director said there is "a trap of harassment" at every step from application to delivery [D0104, VD0001, D0105]. In the 2025 survey (November 2024 to October 2025), passport verification was the police service with the most corruption (80.7%) and bribery (77.5%) [D0141]. The DIG (operations) of APBn (the Airport Armed Police Battalion) said in August 2026 that the risk of irregularities rose after police verification for passports was removed [GD0157].
 
 > **Need to know**
@@ -164,6 +169,17 @@ Migrants buy 60% of the tickets on Bangladesh's international flights, and resea
 - no airline or travel agency may sell above the fare approved by CAAB (the Civil Aviation Authority of Bangladesh), and an agency must give the passenger the ticket at the airline's set price with a sale receipt [GD0055];
 - an agency whose hoarding of surplus tickets for resale through other agents pushes prices up has its registration suspended or cancelled [GD0056];
 - airlines and agencies are to arrange special fares for workers going abroad [GD0057].
+
+A Prothom Alo editorial of April 2025 said the circular broke the ticket syndicate, but that tickets from Bangladesh still cost more than from other countries because of NBR (National Board of Revenue) taxes and other charges [GD0167]. Its figures [GD0164, GD0165, GD0166]:
+- **Tax on the route, by airlines' account:** Tk 9,890 a passenger collected by Bangladesh on flights from Dhaka to Singapore, Dubai, Oman, Sharjah or Kuala Lumpur, against Tk 2,568 taken by Malaysia, Tk 5,878 by Singapore, Tk 3,879 by Oman and Tk 4,332 by Dubai and Sharjah on the same routes.
+- **Travel tax on top:** Tk 2,000 to a SAARC (South Asian Association for Regional Cooperation) country, Tk 4,000 to any other.
+- **Who pays it:** 80% of air passengers in Bangladesh are migrant workers.
+
+Two workers' return tickets, as the editorial reported them:
+- **Oman:** a single ticket home, bought four months earlier, cost Tk 20,000; the single ticket back, bought in Bangladesh, cost Tk 32,000 [GD0163].
+- **Malaysia:** a single ticket home, bought three months earlier, cost RM 1,000 (Tk 25,000); in Bangladesh he was asked Tk 40,000 to 45,000 for the return, and he flew back on AirAsia on a cheaper ticket bought through a friend in Malaysia [GD0172].
+
+The president of ATAB (the Association of Travel Agents of Bangladesh), Abdus Salam Aref, said the government needs to monitor airlines' ticket sales and enforce the law against irregularities [GD0168].
 
 Since 19 November 2025 a ticket of any price can be bought from home on any card enabled for international use, within the card's foreign-currency limit; the USD 300 limit on each foreign-currency transaction no longer applies to air tickets [GD0059].
 

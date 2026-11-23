@@ -14,31 +14,34 @@ The government, BRAC and other services that help people before they go, while t
 - [2 Before you go](#before-you-go)
   - [2.1 Advice near home before you decide](#advice-near-home-before-you-decide)
   - [2.2 The Probashi card](#the-probashi-card)
-  - [2.3 Training centres](#training-centres)
-    - [2.3.1 Language courses at the TTCs](#language-courses-at-the-ttcs)
-    - [2.3.2 Heavy-vehicle driver training](#heavy-vehicle-driver-training)
-    - [2.3.3 A language course: Korean at the Dhaka Mohila TTC](#a-language-course-korean-at-the-dhaka-mohila-ttc)
-    - [2.3.4 Training for jobs in Europe: the EU Talent Partnership](#training-for-jobs-in-europe-the-eu-talent-partnership)
-  - [2.4 The PKB migration loan](#the-pkb-migration-loan)
-    - [2.4.1 What you get](#what-you-get)
-    - [2.4.2 What to bring](#what-to-bring)
-    - [2.4.3 Applying online on MyGov](#applying-online-on-mygov)
-    - [2.4.4 How the loan is decided and repaid](#how-the-loan-is-decided-and-repaid)
-    - [2.4.5 The loan risk cover](#the-loan-risk-cover)
-    - [2.4.6 Who uses it, and how it is going](#who-uses-it-and-how-it-is-going)
-  - [2.5 The PKB loan for language study and skills abroad](#the-pkb-loan-for-language-study-and-skills-abroad)
-  - [2.6 The skills and language loan funded by Bangladesh Bank](#the-skills-and-language-loan-funded-by-bangladesh-bank)
-  - [2.7 Private insurance: Guardian Probashi Prohori](#private-insurance-guardian-probashi-prohori)
-  - [2.8 Air tickets: the Remittance Fighter Fare](#air-tickets-the-remittance-fighter-fare)
+  - [2.3 Ami Probashi: CV builder and online doctors](#ami-probashi-cv-builder-and-online-doctors)
+  - [2.4 Training centres](#training-centres)
+    - [2.4.1 Language courses at the TTCs](#language-courses-at-the-ttcs)
+    - [2.4.2 Heavy-vehicle driver training](#heavy-vehicle-driver-training)
+    - [2.4.3 A language course: Korean at the Dhaka Mohila TTC](#a-language-course-korean-at-the-dhaka-mohila-ttc)
+    - [2.4.4 Training for jobs in Europe: the EU Talent Partnership](#training-for-jobs-in-europe-the-eu-talent-partnership)
+  - [2.5 The PKB migration loan](#the-pkb-migration-loan)
+    - [2.5.1 What you get](#what-you-get)
+    - [2.5.2 What to bring](#what-to-bring)
+    - [2.5.3 Applying online on MyGov](#applying-online-on-mygov)
+    - [2.5.4 How the loan is decided and repaid](#how-the-loan-is-decided-and-repaid)
+    - [2.5.5 The loan risk cover](#the-loan-risk-cover)
+    - [2.5.6 Who uses it, and how it is going](#who-uses-it-and-how-it-is-going)
+  - [2.6 The PKB loan for language study and skills abroad](#the-pkb-loan-for-language-study-and-skills-abroad)
+  - [2.7 The skills and language loan funded by Bangladesh Bank](#the-skills-and-language-loan-funded-by-bangladesh-bank)
+  - [2.8 Private insurance: Guardian Probashi Prohori](#private-insurance-guardian-probashi-prohori)
+  - [2.9 Air tickets: the Remittance Fighter Fare](#air-tickets-the-remittance-fighter-fare)
 - [3 At the airport](#at-the-airport)
   - [3.1 The Probashi Kallyan desk](#the-probashi-kallyan-desk)
   - [3.2 The migrant lounge and helpers at Dhaka airport](#the-migrant-lounge-and-helpers-at-dhaka-airport)
 - [4 While abroad](#while-abroad)
   - [4.1 In a war or disaster](#in-a-war-or-disaster)
-  - [4.2 Finishing school or a degree from abroad](#finishing-school-or-a-degree-from-abroad)
-    - [4.2.1 SSC](#ssc)
-    - [4.2.2 HSC](#hsc)
-    - [4.2.3 BA and BSS](#ba-and-bss)
+  - [4.2 Passports and NIDs from abroad](#passports-and-nids-from-abroad)
+  - [4.3 Sending parcels by post](#sending-parcels-by-post)
+  - [4.4 Finishing school or a degree from abroad](#finishing-school-or-a-degree-from-abroad)
+    - [4.4.1 SSC](#ssc)
+    - [4.4.2 HSC](#hsc)
+    - [4.4.3 BA and BSS](#ba-and-bss)
 - [5 If a worker dies abroad](#if-a-worker-dies-abroad)
 - [6 Help for the family at home](#help-for-the-family-at-home)
   - [6.1 Scholarships for migrants' children](#scholarships-for-migrants-children)
@@ -61,7 +64,7 @@ The government, BRAC and other services that help people before they go, while t
 
 ## 1 In one minute
 
-Most of the state's help for migrants comes from two bodies funded by migrants themselves. The Wage Earners' Welfare Board runs on a fund formed from migrants' own money, and it provided 95% of the capital of Probashi Kallyan Bank (PKB), the government bank for migrants <sup>[N1 (2024)](#n1), [N2 (2024)](#n2)</sup>. PKB lends up to Tk 3 lakh to go abroad at 9% simple interest, with no property mortgaged, and if the borrower dies the rest of the loan is written off <sup>[N2 (2024)](#n2)</sup>. Since 3 December 2025 a worker can apply for it online on MyGov, the government's service portal; more than 10,000 had applied by November 2026, and approval was taking 3 to 4 days, according to a press release from the government's a2i programme <sup>[N3](#n3)</sup>. Since late 2025 PKB also lends up to Tk 10 lakh at 11% for a language or skills course abroad, and by October 2026 Bangladesh Bank had launched a Tk 1,000 crore scheme through PKB that lends workers up to Tk 10 lakh, without collateral and at no more than 9%, for language or skills training in the destination country <sup>[N4](#n4), [N5](#n5)</sup>. The TTCs (technical training centres) of BMET (Bureau of Manpower, Employment and Training) teach languages from Japanese to Arabic and Portuguese, though a Cornell University language-centre coordinator estimated that only about 2,500 of some 13 lakh workers who went abroad in a year had learned a language at a government centre <sup>[N6](#n6), [N7](#n7), [N8](#n8)</sup>. The Welfare Board's desk at the airport checks clearances on the way out, receives the sick and the dead on the way back, and pays the burial grant <sup>[N1 (2024)](#n1)</sup>. At home, the Board pays scholarships to migrants' children and a monthly allowance for a disabled child, for workers who left with BMET clearance or joined the Board, and for workers who died and whose family got its grant <sup>[N9 (2024)](#n9), [N10 (2024)](#n10)</sup>. On one day in April 2025 the Board handed 103 people Tk 1 crore 93 lakh in grants, scholarships, insurance and other help, and said it had given Tk 273 crore 81 lakh to 12,158 people during the interim government's term <sup>[N11](#n11)</sup>. Abroad, a worker in some Gulf countries, South Korea or Italy can finish SSC, HSC or a degree through Bangladesh Open University via the embassy <sup>[N12 (2024)](#n12), [N13 (2024)](#n13), [N14 (2024)](#n14)</sup>. In March 2024 the state minister promised welfare cells to take services to the grassroots, and an NGO project, Helvetas's SIMS, worked in 23 upazilas of three districts <sup>[N15 (2024)](#n15)</sup>. The 2026-27 budget announced a Probashi card to make government services and welfare benefits easier to get, and "Bangladesh Support Centres" at embassies to rescue workers in jail or cheated and give them legal help; in early September 2026 the card had not been introduced and was still being prepared, and on 13 October 2026 the state minister said it was being piloted in four to five countries <sup>[N16](#n16), [N17](#n17), [N18](#n18), [N19](#n19)</sup>. In the 2026 Middle East war the ministry ran a round-the-clock hotline for migrant workers, and the Welfare Board paid to bring 186 people home from Iran <sup>[N20](#n20), [N21](#n21)</sup>. For returnees, the government's RAISE project and BRAC's Prottasha project work on rehabilitation, though the state minister called the Tk 13,500 given for it far too little <sup>[N22](#n22)</sup>. A women's advocacy group, CWCS, says some returnee women are not taken back by their husbands or families, and in 2024 it asked for guarantor-free loans and free legal help for them <sup>[N23 (2024)](#n23)</sup>.
+Most of the state's help for migrants comes from two bodies funded by migrants themselves. The Wage Earners' Welfare Board runs on a fund formed from migrants' own money, and it provided 95% of the capital of Probashi Kallyan Bank (PKB), the government bank for migrants <sup>[N1 (2024)](#n1), [N2 (2024)](#n2)</sup>. PKB lends up to Tk 3 lakh to go abroad at 9% simple interest, with no property mortgaged, and if the borrower dies the rest of the loan is written off <sup>[N2 (2024)](#n2)</sup>. Since 3 December 2025 a worker can apply for it online on MyGov, the government's service portal; more than 10,000 had applied by November 2026, and approval was taking 3 to 4 days, according to a press release from the government's a2i programme <sup>[N3](#n3)</sup>. Since late 2025 PKB also lends up to Tk 10 lakh at 11% for a language or skills course abroad, and by October 2026 Bangladesh Bank had launched a Tk 1,000 crore scheme through PKB that lends workers up to Tk 10 lakh, without collateral and at no more than 9%, for language or skills training in the destination country <sup>[N4](#n4), [N5](#n5)</sup>. The TTCs (technical training centres) of BMET (Bureau of Manpower, Employment and Training) teach languages from Japanese to Arabic and Portuguese, though a Cornell University language-centre coordinator estimated that only about 2,500 of some 13 lakh workers who went abroad in a year had learned a language at a government centre <sup>[N6](#n6), [N7](#n7), [N8](#n8)</sup>. The Welfare Board's desk at the airport checks clearances on the way out, receives the sick and the dead on the way back, and pays the burial grant <sup>[N1 (2024)](#n1)</sup>. At home, the Board pays scholarships to migrants' children and a monthly allowance for a disabled child, for workers who left with BMET clearance or joined the Board, and for workers who died and whose family got its grant <sup>[N9 (2024)](#n9), [N10 (2024)](#n10)</sup>. On one day in April 2025 the Board handed 103 people Tk 1 crore 93 lakh in grants, scholarships, insurance and other help, and said it had given Tk 273 crore 81 lakh to 12,158 people during the interim government's term <sup>[N11](#n11)</sup>. Abroad, a worker in some Gulf countries, South Korea or Italy can finish SSC, HSC or a degree through Bangladesh Open University via the embassy <sup>[N12 (2024)](#n12), [N13 (2024)](#n13), [N14 (2024)](#n14)</sup>. In March 2024 the state minister promised welfare cells to take services to the grassroots, and an NGO project, Helvetas's SIMS, worked in 23 upazilas of three districts <sup>[N15 (2024)](#n15)</sup>. The 2026-27 budget announced a Probashi card to make government services and welfare benefits easier to get, and "Bangladesh Support Centres" at embassies to rescue workers in jail or cheated and give them legal help; Prothom Alo reported on 5 September 2026 that the card had not yet been introduced and was still being prepared, and on 13 October 2026 the state minister said it was being piloted in four to five countries <sup>[N16](#n16), [N17](#n17), [N18](#n18), [N19](#n19)</sup>. In the 2026 Middle East war the ministry ran a round-the-clock hotline for migrant workers, and the Welfare Board paid to bring 186 people home from Iran <sup>[N20](#n20), [N21](#n21)</sup>. For returnees, the government's RAISE project and BRAC's Prottasha project work on rehabilitation, though the state minister called the Tk 13,500 given for it far too little <sup>[N22](#n22)</sup>. A women's advocacy group, CWCS, says some returnee women are not taken back by their husbands or families, and in 2024 it asked for guarantor-free loans and free legal help for them <sup>[N23 (2024)](#n23)</sup>.
 
 <a id="before-you-go"></a>
 
@@ -90,7 +93,7 @@ How far the state's own offices reach: Mohiuddin Ahmed, a Canada-based analyst, 
 
 The Probashi card, its announced benefits and the July 2026 pilot plan (Janata Bank first, then Probashi Kallyan Bank) are in "The Probashi Card" in the Sending money home doc <sup>[N16](#n16)</sup>. In short, as reported:
 - **Announced:** in the 2026-27 budget of 11 June 2026, for people going abroad and migrants already working abroad, to keep workers' information and make government services and welfare benefits easier to get <sup>[N16](#n16)</sup>.
-- **Early September 2026:** not yet introduced and still at the preparation stage, although the minister had announced in February 2026 that it would come soon <sup>[N18](#n18)</sup>.
+- **5 September 2026:** Prothom Alo reported it had not yet been introduced and was still at the preparation stage, although the minister had announced in February 2026 that it would come soon <sup>[N18](#n18)</sup>.
 - **13 October 2026:** the state minister, Md. Nurul Haque, said it was being piloted in four to five countries, including Jordan, South Korea and several Middle Eastern countries, and that card holders were planned to get a 3% incentive on money sent home through legal channels, against the 2.5% paid now <sup>[N19](#n19)</sup>.
 
 The airport benefits promised to card holders are under At the airport (see [The migrant lounge and helpers at Dhaka airport](#the-migrant-lounge-and-helpers-at-dhaka-airport)) <sup>[N27](#n27)</sup>.
@@ -98,93 +101,104 @@ The airport benefits promised to card holders are under At the airport (see [The
 > **Need to know**
 > - Who can get a card in the pilot, where does a worker apply, with which papers, and does it cost anything <sup>[N19](#n19)</sup>?
 
+<a id="ami-probashi-cv-builder-and-online-doctors"></a>
+
+### 2.3 Ami Probashi: CV builder and online doctors
+
+Ami Probashi, a private digital platform for would-be migrants, said in September 2024 that about 60 lakh of them had used its services and more than 2,200 licensed recruiting agencies were linked to it <sup>[N28 (2024)](#n28)</sup>. What happened to its role in BMET registration and clearance, and the government's own platform, OEP, that replaced it: see "How do I register on OEP?" in the Frequently asked questions about going abroad doc <sup>[N28 (2024)](#n28)</sup>. Two services it announced:
+- **CV builder (May 2025):** free on the Ami Probashi website and app; tell its chatbot, in Bangla, your skills, experience and education, and it makes a CV in 5 to 7 minutes that you download as a PDF, by the company's account <sup>[N29](#n29)</sup>.
+- **Doctors online (September 2024):** under an agreement with Grameen Digital Healthcare Solutions, a telemedicine service of Grameen Telecom Trust, Ami Probashi users abroad can consult specialist doctors online; that service's Sukhi app books a specialist and connects by video call <sup>[N28 (2024)](#n28)</sup>.
+
+> **Need to know**
+> - Do the CV builder and the online-doctor service still run in 2026, and does a doctor's consultation through Ami Probashi cost anything <sup>[N28 (2024)](#n28), [N29](#n29)</sup>?
+
 <a id="training-centres"></a>
 
-### 2.3 Training centres
+### 2.4 Training centres
 
-Prime Minister Sheikh Hasina said in May 2024 that her government had built 112 technical training centres (TTCs) across the country to train a skilled workforce <sup>[N28 (2024)](#n28)</sup>. In March 2024 the state minister said the TTCs would be overhauled and new training equipment bought, and an MP, Tanvir Shakil Joy, said many problems remain with pre-departure training <sup>[N15 (2024)](#n15)</sup>. In July 2024 South Korea's development agency KOICA offered USD 1 crore (Tk 117 crore) to help produce skilled migrant workers, through modernising the Bangladesh-Korea Technical Training Centre in Chattogram <sup>[N29 (2024)](#n29)</sup>. How to join a TTC course and what the pre-departure orientation covers: see "How do I join a TTC course?" and "What is the pre-departure orientation (PDO)?" in the Frequently asked questions about going abroad doc <sup>[N15 (2024)](#n15)</sup>.
-
-> **Need to know**
-> - Was KOICA's USD 1 crore for the Chattogram Bangladesh-Korea TTC signed, and what courses does the centre now run <sup>[N29 (2024)](#n29)</sup>?
-
-At the same roundtable Nurul Haque said the government had noticed 23 ministries giving similar training, wasting public money without results <sup>[N24](#n24)</sup>. Answering an MP in parliament, as reported on 3 September 2026, he said the TTCs lack skilled staff to run them and that new staff cannot be recruited because of bureaucratic complications <sup>[N30](#n30)</sup>.
-
-Md. Mamun Hasan, an instructor at Satkhira Government Polytechnic Institute, wrote in October 2026 that by 2025 figures about 43% of Bangladeshis going abroad were low-skilled and 34% semi-skilled, and that 621 of the 3,440 vocational institutions approved by the Technical Education Board had not admitted a single student in five years <sup>[N31](#n31)</sup>.
-
-Training in elderly caregiving is also given under the National Skills Development Authority (NSDA), alongside BMET's TTCs, nursing education and private training institutes, though Mohammad Jalal Uddin Sikder, a researcher at North South University, wrote in September 2026 that these efforts are scattered <sup>[N32](#n32)</sup>.
+Prime Minister Sheikh Hasina said in May 2024 that her government had built 112 technical training centres (TTCs) across the country to train a skilled workforce <sup>[N30 (2024)](#n30)</sup>. In March 2024 the state minister said the TTCs would be overhauled and new training equipment bought, and an MP, Tanvir Shakil Joy, said many problems remain with pre-departure training <sup>[N15 (2024)](#n15)</sup>. In July 2024 South Korea's development agency KOICA offered USD 1 crore (Tk 117 crore) to help produce skilled migrant workers, through modernising the Bangladesh-Korea Technical Training Centre in Chattogram <sup>[N31 (2024)](#n31)</sup>. How to join a TTC course and what the pre-departure orientation covers: see "How do I join a TTC course?" and "What is the pre-departure orientation (PDO)?" in the Frequently asked questions about going abroad doc <sup>[N15 (2024)](#n15)</sup>.
 
 > **Need to know**
-> - Where does NSDA's caregiving training run, what does it cost, and does its certificate count for caregiver jobs abroad <sup>[N32](#n32)</sup>?
+> - Was KOICA's USD 1 crore for the Chattogram Bangladesh-Korea TTC signed, and what courses does the centre now run <sup>[N31 (2024)](#n31)</sup>?
+
+At the same roundtable Nurul Haque said the government had noticed 23 ministries giving similar training, wasting public money without results <sup>[N24](#n24)</sup>. Answering an MP in parliament, as reported on 3 September 2026, he said the TTCs lack skilled staff to run them and that new staff cannot be recruited because of bureaucratic complications <sup>[N32](#n32)</sup>.
+
+Md. Mamun Hasan, an instructor at Satkhira Government Polytechnic Institute, wrote in October 2026 that by 2025 figures about 43% of Bangladeshis going abroad were low-skilled and 34% semi-skilled, and that 621 of the 3,440 vocational institutions approved by the Technical Education Board had not admitted a single student in five years <sup>[N33](#n33)</sup>.
+
+Training in elderly caregiving is also given under the National Skills Development Authority (NSDA), alongside BMET's TTCs, nursing education and private training institutes, though Mohammad Jalal Uddin Sikder, a researcher at North South University, wrote in September 2026 that these efforts are scattered <sup>[N34](#n34)</sup>.
+
+> **Need to know**
+> - Where does NSDA's caregiving training run, what does it cost, and does its certificate count for caregiver jobs abroad <sup>[N34](#n34)</sup>?
 
 <a id="language-courses-at-the-ttcs"></a>
 
-#### 2.3.1 Language courses at the TTCs
+#### 2.4.1 Language courses at the TTCs
 
 BMET hires guest trainers to run language courses at the government TTCs, and its 2026 adverts show which languages they teach <sup>[N6](#n6), [N7](#n7)</sup>:
 - **March 2026, 99 trainers:** Japanese 50, English 20, Arabic 8, Italian 8, German 7, Korean 6 <sup>[N6](#n6)</sup>.
 - **April 2026, 70 trainers:** Japanese 40, and 6 each for Portuguese, Spanish, Russian, French and Italian <sup>[N7](#n7)</sup>.
 
-A trainer for Japanese, Korean, German or Italian needs at least HSC and a set language level such as JLPT N3 or TOPIK level 3, and is paid Tk 800 an hour for at most 4 hours a day <sup>[N6](#n6)</sup>. On 5 March 2026 Prime Minister Tarique Rahman directed that language training centres be opened, with Bangladeshi and foreign teachers, so that unemployed young people can learn other countries' languages and get jobs abroad, his additional press secretary said <sup>[N33](#n33)</sup>. How to apply for a TTC course on OEP: see "How do I join a TTC course?" in the Frequently asked questions about going abroad doc <sup>[N6](#n6)</sup>.
+A trainer for Japanese, Korean, German or Italian needs at least HSC and a set language level such as JLPT N3 or TOPIK level 3, and is paid Tk 800 an hour for at most 4 hours a day <sup>[N6](#n6)</sup>. On 5 March 2026 Prime Minister Tarique Rahman directed that language training centres be opened, with Bangladeshi and foreign teachers, so that unemployed young people can learn other countries' languages and get jobs abroad, his additional press secretary said <sup>[N35](#n35)</sup>. How to apply for a TTC course on OEP: see "How do I join a TTC course?" in the Frequently asked questions about going abroad doc <sup>[N6](#n6)</sup>.
 
 How far this reaches: Bdjobs' chief executive, Fahim Masroor, said in December 2025 that 12 lakh people go abroad every year and 90 to 95% of them have only secondary education <sup>[N4](#n4)</sup>. Ahmed Shameem, a coordinator at Cornell University's Language Resource Center, wrote in April 2026 that of about 13 lakh workers who went abroad in a recent year an estimated 2,500 learned Japanese, Korean, English or Chinese at government centres, that organised Arabic courses are lacking although the Middle East is the largest destination, and, citing Dhaka Tribune and The Business Standard, that Arabic-speaking workers can demand 20 to 30% higher wages in the Gulf <sup>[N8](#n8)</sup>.
 
 > **Need to know**
 > - Which TTCs run which language courses in 2026, for how long, and at what fee <sup>[N6](#n6), [N7](#n7)</sup>?
-> - Were the language training centres the Prime Minister ordered in March 2026 opened, and where <sup>[N33](#n33)</sup>?
+> - Were the language training centres the Prime Minister ordered in March 2026 opened, and where <sup>[N35](#n35)</sup>?
 
 <a id="heavy-vehicle-driver-training"></a>
 
-#### 2.3.2 Heavy-vehicle driver training
+#### 2.4.2 Heavy-vehicle driver training
 
-On 13 January 2026 the government purchase committee approved Tk 231 crore to train 60,000 drivers through the state Bangladesh Road Transport Corporation (BRTC), with BMET assisting, to create jobs and increase remittance <sup>[N34](#n34)</sup>. The plan, as reported <sup>[N34](#n34)</sup>:
+On 13 January 2026 the government purchase committee approved Tk 231 crore to train 60,000 drivers through the state Bangladesh Road Transport Corporation (BRTC), with BMET assisting, to create jobs and increase remittance <sup>[N36](#n36)</sup>. The plan, as reported <sup>[N36](#n36)</sup>:
 - **New drivers:** 40,000, trained for 80 days over 4 months.
 - **Current drivers:** 20,000, given 5 days of skills training.
 - **Eyes:** 40,000 get an eye test and 20,000 are given glasses.
 - **Papers:** training, certificate and licence given under set rules and standards.
 
-The finance adviser, Salehuddin Ahmed, said the drivers would be trained to drive heavy machinery such as cranes and excavators for jobs abroad, and that current drivers have no demand abroad <sup>[N34](#n34)</sup>.
+The finance adviser, Salehuddin Ahmed, said the drivers would be trained to drive heavy machinery such as cranes and excavators for jobs abroad, and that current drivers have no demand abroad <sup>[N36](#n36)</sup>.
 
 > **Need to know**
-> - Has the BRTC driver training started, where does someone apply, and does it cost anything <sup>[N34](#n34)</sup>?
+> - Has the BRTC driver training started, where does someone apply, and does it cost anything <sup>[N36](#n36)</sup>?
 
 <a id="a-language-course-korean-at-the-dhaka-mohila-ttc"></a>
 
-#### 2.3.3 A language course: Korean at the Dhaka Mohila TTC
+#### 2.4.3 A language course: Korean at the Dhaka Mohila TTC
 
-The Dhaka Mohila (women's) Technical Training Centre runs a Korean language course under the Ministry of Expatriates' Welfare and Overseas Employment, run by BMET; the ninth batch was the September-December 2025 session <sup>[N35](#n35)</sup>. As announced for that batch:
-- **Course:** four months, 40 trainees, women or men, with a government certificate at the end <sup>[N35](#n35)</sup>.
-- **Who:** at least SSC or equivalent, aged 18 to 35; the admission fee is Tk 1,000 <sup>[N35](#n35)</sup>.
-- **Bring:** two recent passport-size photos, a photocopy of your NID or birth registration, and photocopies of all your educational certificates <sup>[N35](#n35)</sup>.
+The Dhaka Mohila (women's) Technical Training Centre runs a Korean language course under the Ministry of Expatriates' Welfare and Overseas Employment, run by BMET; the ninth batch was the September-December 2025 session <sup>[N37](#n37)</sup>. As announced for that batch:
+- **Course:** four months, 40 trainees, women or men, with a government certificate at the end <sup>[N37](#n37)</sup>.
+- **Who:** at least SSC or equivalent, aged 18 to 35; the admission fee is Tk 1,000 <sup>[N37](#n37)</sup>.
+- **Bring:** two recent passport-size photos, a photocopy of your NID or birth registration, and photocopies of all your educational certificates <sup>[N37](#n37)</sup>.
 
 How the 2025 batch was filled:
-1. Hand in the application by 26 August, between 9:30 and 3:30 <sup>[N35](#n35)</sup>.
-2. Attend selection on 27 August from 10 am: a physical fitness check and a viva; those who already have a passport get priority <sup>[N35](#n35)</sup>.
-3. Results came out on 28 August; admission was on 31 August and 1 September at the training section, and classes began on 3 September in room 306 <sup>[N35](#n35)</sup>.
+1. Hand in the application by 26 August, between 9:30 and 3:30 <sup>[N37](#n37)</sup>.
+2. Attend selection on 27 August from 10 am: a physical fitness check and a viva; those who already have a passport get priority <sup>[N37](#n37)</sup>.
+3. Results came out on 28 August; admission was on 31 August and 1 September at the training section, and classes began on 3 September in room 306 <sup>[N37](#n37)</sup>.
 
 > **Need to know**
 > - When does the next Korean batch at the Dhaka Mohila TTC open, and do other TTCs run the same course?
-> - Does the course prepare for the EPS-TOPIK test that South Korea's work route uses, and how many of its trainees have gone to Korea <sup>[N35](#n35)</sup>?
+> - Does the course prepare for the EPS-TOPIK test that South Korea's work route uses, and how many of its trainees have gone to Korea <sup>[N37](#n37)</sup>?
 
 <a id="training-for-jobs-in-europe-the-eu-talent-partnership"></a>
 
-#### 2.3.4 Training for jobs in Europe: the EU Talent Partnership
+#### 2.4.4 Training for jobs in Europe: the EU Talent Partnership
 
-An EU-funded Talent Partnership project of EUR 30 lakh (3 million) formally began in December 2024; the ILO (International Labour Organization), the Ministry of Expatriates' Welfare and Overseas Employment and BMET are to run it over 2024 to 2027 <sup>[N36 (2024)](#n36)</sup>. Its training aims to prepare 3,000 workers with the skills EU jobs need, and it is to make the ministry's online platform fit for finding jobs <sup>[N36 (2024)](#n36)</sup>.
+An EU-funded Talent Partnership project of EUR 30 lakh (3 million) formally began in December 2024; the ILO (International Labour Organization), the Ministry of Expatriates' Welfare and Overseas Employment and BMET are to run it over 2024 to 2027 <sup>[N38 (2024)](#n38)</sup>. Its training aims to prepare 3,000 workers with the skills EU jobs need, and it is to make the ministry's online platform fit for finding jobs <sup>[N38 (2024)](#n38)</sup>.
 
-On 10 June 2026 an EU delegation told the Prime Minister's adviser Mahdi Amin that the EU was interested in recruiting skilled workers from Bangladesh to meet labour demand in Europe <sup>[N37](#n37)</sup>.
+On 10 June 2026 an EU delegation told the Prime Minister's adviser Mahdi Amin that the EU was interested in recruiting skilled workers from Bangladesh to meet labour demand in Europe <sup>[N39](#n39)</sup>.
 
 > **Need to know**
-> - Which trades and EU countries does the Talent Partnership train for, and how does a worker apply <sup>[N36 (2024)](#n36)</sup>?
+> - Which trades and EU countries does the Talent Partnership train for, and how does a worker apply <sup>[N38 (2024)](#n38)</sup>?
 
 <a id="the-pkb-migration-loan"></a>
 
-### 2.4 The PKB migration loan
+### 2.5 The PKB migration loan
 
 PKB was opened on 20 April 2011; helping jobless people go abroad and helping returnees find work are two of its four aims <sup>[N2 (2024)](#n2)</sup>. In July 2024 it had 122 branches, 65 at district level and 57 at upazila level, plus an arrivals booth and a departures booth at Hazrat Shahjalal International Airport in Dhaka <sup>[N2 (2024)](#n2)</sup>. The basic terms, eligibility and the helpline are in "Can I get a government loan to go abroad?" in the Frequently asked questions about going abroad doc <sup>[N2 (2024)](#n2)</sup>.
 
 <a id="what-you-get"></a>
 
-#### 2.4.1 What you get
+#### 2.5.1 What you get
 
 - **Amount and term:** up to Tk 3 lakh, set by the visa's duration; three years for a new visa, two years for a re-entry visa <sup>[N2 (2024)](#n2)</sup>.
 - **Interest:** 9% simple, with a two-month grace period before repayments <sup>[N2 (2024)](#n2)</sup>. PKB's managing director, Mujibur Rahman, said in July 2024 the bank had kept the rate at 9% even as bank interest rates rose <sup>[N2 (2024)](#n2)</sup>.
@@ -192,7 +206,7 @@ PKB was opened on 20 April 2011; helping jobless people go abroad and helping re
 
 <a id="what-to-bring"></a>
 
-#### 2.4.2 What to bring
+#### 2.5.2 What to bring
 
 Applying costs nothing; you fill in the bank's own form, and you must first open an account at PKB <sup>[N2 (2024)](#n2)</sup>. Bring:
 - **Your job papers:** a valid visa and the appointment letter from the company that will employ you <sup>[N2 (2024)](#n2)</sup>.
@@ -203,7 +217,7 @@ Because the visa and smart card are needed, you can apply only near the end of t
 
 <a id="applying-online-on-mygov"></a>
 
-#### 2.4.3 Applying online on MyGov
+#### 2.5.3 Applying online on MyGov
 
 Since 3 December 2025 the migration loan can be applied for online through MyGov, the government's digital service platform; after a pilot, the service runs at 122 of PKB's branches <sup>[N3](#n3)</sup>. The applicant applies and follows the application's progress from home, instead of going to the branch several times to hand in papers <sup>[N3](#n3)</sup>. The amount is set after PKB checks what the worker's migration actually costs, up to the Tk 3 lakh limit, at 9% interest <sup>[N3](#n3)</sup>. As reported in November 2026 <sup>[N3](#n3)</sup>:
 - **Uptake:** more than 10,000 workers had applied online and PKB had approved more than Tk 200 crore in about a year.
@@ -215,7 +229,7 @@ Since 3 December 2025 the migration loan can be applied for online through MyGov
 
 <a id="how-the-loan-is-decided-and-repaid"></a>
 
-#### 2.4.4 How the loan is decided and repaid
+#### 2.5.4 How the loan is decided and repaid
 
 1. If every paper is in order, the bank gives its decision within seven days of the application; for online applications on MyGov, a2i said in November 2026 that approval takes 3 to 4 days <sup>[N2 (2024)](#n2), [N3](#n3)</sup>.
 2. Once the application is processed, PKB tells you by SMS that the loan is approved <sup>[N2 (2024)](#n2)</sup>.
@@ -223,7 +237,7 @@ Since 3 December 2025 the migration loan can be applied for online through MyGov
 
 <a id="the-loan-risk-cover"></a>
 
-#### 2.4.5 The loan risk cover
+#### 2.5.5 The loan risk cover
 
 Every migration-loan borrower must pay a premium to join PKB's loan risk cover scheme <sup>[N2 (2024)](#n2)</sup>. It pays out in two cases:
 - **The borrower dies during the loan term:** 100% of what is still owed is written off <sup>[N2 (2024)](#n2)</sup>. By July 2024 the bank had written off Tk 2 crore 74 lakh owed by 168 borrowers who died at home or abroad, according to PKB sources <sup>[N2 (2024)](#n2)</sup>.
@@ -235,29 +249,29 @@ Every migration-loan borrower must pay a premium to join PKB's loan risk cover s
 
 <a id="who-uses-it-and-how-it-is-going"></a>
 
-#### 2.4.6 Who uses it, and how it is going
+#### 2.5.6 Who uses it, and how it is going
 
 From 2011 to the 2023-24 financial year PKB lent Tk 3,311 crore 86 lakh to 1,70,194 migrants, by its own count <sup>[N2 (2024)](#n2)</sup>. Most applicants are going to Saudi Arabia, Malaysia, Oman, the UAE, Kuwait, Qatar and Bahrain, and applications for Italy, Romania, South Korea and Singapore were rising in 2024, according to PKB sources <sup>[N2 (2024)](#n2)</sup>. The managing director said in July 2024 that the share of loans in default, 12% two years earlier, had fallen to 7.4% after the bank set up 15 regional offices <sup>[N2 (2024)](#n2)</sup>. PKB also runs savings schemes for migrants and their families, but few people use them because the interest is low <sup>[N2 (2024)](#n2)</sup>.
 
-**One case: a loan after a viral video.** Sarowar Hossain (27), from a poor family in Hossainpur, Kishoreganj, had his visa but could not raise the money; he could not get a bank loan despite many attempts, and asked NGOs and others for help without success <sup>[N38](#n38)</sup>. On 16 October 2025 he hired a microphone for Tk 500, abused the people of his area for not standing by him, and posted the video on Facebook, where it spread <sup>[N38](#n38)</sup>. After media reports, PKB's Kishoreganj branch phoned him, checked his papers and lent him Tk 2 lakh, with repayment in instalments from two months later; he said he had a ticket to fly to Saudi Arabia on 30 October <sup>[N38](#n38)</sup>.
+**One case: a loan after a viral video.** Sarowar Hossain (27), from a poor family in Hossainpur, Kishoreganj, had his visa but could not raise the money; he could not get a bank loan despite many attempts, and asked NGOs and others for help without success <sup>[N40](#n40)</sup>. On 16 October 2025 he hired a microphone for Tk 500, abused the people of his area for not standing by him, and posted the video on Facebook, where it spread <sup>[N40](#n40)</sup>. After media reports, PKB's Kishoreganj branch phoned him, checked his papers and lent him Tk 2 lakh, with repayment in instalments from two months later; he said he had a ticket to fly to Saudi Arabia on 30 October <sup>[N40](#n40)</sup>.
 
-On 5 March 2026 the Prime Minister told the ministries concerned to arrange low-interest bank loans and make loans easier to get, so that no one has to sell their property to go abroad for work, his additional press secretary said <sup>[N33](#n33)</sup>. The 2026-27 budget, presented on 11 June 2026 by the finance minister, Amir Khasru Mahmud Chowdhury, said PKB loans of up to Tk 10 lakh on easy terms for migrant workers would continue and the programme would be widened <sup>[N17](#n17)</sup>. In parliament in June 2026 an MP, Kamrul Hasan, asked whether the government would arrange interest-free bank loans for people going abroad; the state minister, Nurul Haque, described the government's plans, which the report does not detail <sup>[N39](#n39)</sup>.
+On 5 March 2026 the Prime Minister told the ministries concerned to arrange low-interest bank loans and make loans easier to get, so that no one has to sell their property to go abroad for work, his additional press secretary said <sup>[N35](#n35)</sup>. The 2026-27 budget, presented on 11 June 2026 by the finance minister, Amir Khasru Mahmud Chowdhury, said PKB loans of up to Tk 10 lakh on easy terms for migrant workers would continue and the programme would be widened <sup>[N17](#n17)</sup>. In parliament in June 2026 an MP, Kamrul Hasan, asked whether the government would arrange interest-free bank loans for people going abroad; the state minister, Nurul Haque, described the government's plans, which the report does not detail <sup>[N41](#n41)</sup>.
 
 In November 2026 the migration loan was still up to Tk 3 lakh <sup>[N3](#n3)</sup>; the two loans of up to Tk 10 lakh in this doc are for language or skills training (see [The PKB loan for language study and skills abroad](#the-pkb-loan-for-language-study-and-skills-abroad); see [The skills and language loan funded by Bangladesh Bank](#the-skills-and-language-loan-funded-by-bangladesh-bank)) <sup>[N4](#n4), [N5](#n5)</sup>.
 
 > **Need to know**
-> - Has the government announced an interest-free loan for people going abroad, and on what terms <sup>[N39](#n39)</sup>?
+> - Has the government announced an interest-free loan for people going abroad, and on what terms <sup>[N41](#n41)</sup>?
 
 <a id="the-pkb-loan-for-language-study-and-skills-abroad"></a>
 
-### 2.5 The PKB loan for language study and skills abroad
+### 2.6 The PKB loan for language study and skills abroad
 
 PKB lends Tk 1 lakh to Tk 10 lakh to students and trainees who want to take a language or skills course abroad as a route to work there, especially in Japan, Germany, South Korea, Italy and Russia; it can be taken at any PKB branch <sup>[N4](#n4)</sup>. The terms below are those PKB announced, as reported in December 2025 <sup>[N4](#n4)</sup>.
 
 **Who can borrow:**
-- a local resident of the branch's area, under 40 <sup>[N4](#n4), [N40](#n40)</sup>;
+- a local resident of the branch's area, under 40 <sup>[N4](#n4), [N42](#n42)</sup>;
 - with an offer letter (admission confirmation) from the institution in the destination country <sup>[N4](#n4)</sup>;
-- with at least an intermediate-level language certificate accepted there, such as TOPIK level 3 for South Korea; the December 2025 report gives N-4 for Japan, the April 2026 report N5 <sup>[N4](#n4), [N40](#n40)</sup>;
+- with at least an intermediate-level language certificate accepted there, such as TOPIK level 3 for South Korea; the December 2025 report gives N-4 for Japan, the April 2026 report N5 <sup>[N4](#n4), [N42](#n42)</sup>;
 - for a short course of at most two years <sup>[N4](#n4)</sup>.
 
 **Bring:** three recent passport-size photos, a photocopy of your NID, the offer letter, photocopies of your passport and latest academic certificate, and the language certificate; plus the name, address and papers of one guarantor able to repay the loan, who can be a family member or relative <sup>[N4](#n4)</sup>.
@@ -267,19 +281,19 @@ PKB lends Tk 1 lakh to Tk 10 lakh to students and trainees who want to take a la
 - **Tk 3 to 5 lakh:** the same, plus the original deed of land or other immovable property worth at least twice the loan, deposited at the branch.
 - **Tk 5 to 10 lakh:** a registered mortgage and an irrevocable power of attorney in PKB's favour on property worth at least twice the loan.
 
-**Interest and term:** 11% a year, which may change; the December 2025 report gives a term of two to five years, the April 2026 report up to three years <sup>[N4](#n4), [N40](#n40)</sup>. The April 2026 report says the money is paid as tuition fees sent directly to the institution and as money sent for living costs abroad <sup>[N40](#n40)</sup>.
+**Interest and term:** 11% a year, which may change; the December 2025 report gives a term of two to five years, the April 2026 report up to three years <sup>[N4](#n4), [N42](#n42)</sup>. The April 2026 report says the money is paid as tuition fees sent directly to the institution and as money sent for living costs abroad <sup>[N42](#n42)</sup>.
 
-**Apply** online or in person at the nearest branch only; PKB has warned of fraud in loan processing and says it has no agents <sup>[N4](#n4)</sup>. Helpline 16238 <sup>[N4](#n4), [N40](#n40)</sup>. The student loan of up to Tk 10 lakh as proof of solvency for higher study is in "Can I get a government loan to go abroad?" in the Frequently asked questions about going abroad doc <sup>[N40](#n40)</sup>.
+**Apply** online or in person at the nearest branch only; PKB has warned of fraud in loan processing and says it has no agents <sup>[N4](#n4)</sup>. Helpline 16238 <sup>[N4](#n4), [N42](#n42)</sup>. The student loan of up to Tk 10 lakh as proof of solvency for higher study is in "Can I get a government loan to go abroad?" in the Frequently asked questions about going abroad doc <sup>[N42](#n42)</sup>.
 
 > **Need to know**
 > - Is this 11% loan still offered alongside the 9% loan (see [The skills and language loan funded by Bangladesh Bank](#the-skills-and-language-loan-funded-by-bangladesh-bank)), or has that scheme replaced it; and does PKB still take property collateral above Tk 3 lakh on it <sup>[N4](#n4), [N5](#n5)</sup>?
-> - Which Japanese level does PKB accept, N4 or N5, and is the longest term three or five years <sup>[N4](#n4), [N40](#n40)</sup>?
+> - Which Japanese level does PKB accept, N4 or N5, and is the longest term three or five years <sup>[N4](#n4), [N42](#n42)</sup>?
 > - Is this the same loan as the Tk 10 lakh solvency loan for students announced in March 2026, and how many people have taken it?
 > - Has the special bank-loan programme for meritorious students going abroad for higher study, proposed in the 2026-27 budget, started, and is it separate from PKB's loan <sup>[N17](#n17)</sup>?
 
 <a id="the-skills-and-language-loan-funded-by-bangladesh-bank"></a>
 
-### 2.6 The skills and language loan funded by Bangladesh Bank
+### 2.7 The skills and language loan funded by Bangladesh Bank
 
 Bangladesh Bank, the central bank, has launched a Tk 1,000 crore pre-finance scheme, lent through PKB, to pay for skills and language training for Bangladeshis going abroad to work, as reported in October 2026 <sup>[N5](#n5)</sup>. Bangladesh Bank's additional director Mohammad Salahuddin Tafadar said the money goes to PKB in five instalments of Tk 200 crore, each released after the previous one is checked to have been properly used <sup>[N5](#n5)</sup>. By PKB's figures, Tk 13.03 crore had been lent to 481 people by 4 October 2026 <sup>[N5](#n5)</sup>.
 
@@ -307,21 +321,21 @@ To apply <sup>[N5](#n5)</sup>:
 
 <a id="private-insurance-guardian-probashi-prohori"></a>
 
-### 2.7 Private insurance: Guardian Probashi Prohori
+### 2.8 Private insurance: Guardian Probashi Prohori
 
-In November 2024 BRAC and Guardian Life Insurance Limited signed an agreement and launched an insurance policy for migrant workers, Guardian Probashi Prohori; BRAC Microfinance's senior director signed for BRAC <sup>[N41 (2024)](#n41)</sup>. Guardian Life's chief executive said it would reduce migrants' financial risk and make their families' future more secure <sup>[N41 (2024)](#n41)</sup>. The government's compulsory migrant insurance is in "What does the migrant insurance cover?" in the Frequently asked questions about going abroad doc <sup>[N41 (2024)](#n41)</sup>.
+In November 2024 BRAC and Guardian Life Insurance Limited signed an agreement and launched an insurance policy for migrant workers, Guardian Probashi Prohori; BRAC Microfinance's senior director signed for BRAC <sup>[N43 (2024)](#n43)</sup>. Guardian Life's chief executive said it would reduce migrants' financial risk and make their families' future more secure <sup>[N43 (2024)](#n43)</sup>. The government's compulsory migrant insurance is in "What does the migrant insurance cover?" in the Frequently asked questions about going abroad doc <sup>[N43 (2024)](#n43)</sup>.
 
 > **Need to know**
-> - What does Guardian Probashi Prohori cost, what does it pay for, and where does a worker buy it: at a BRAC branch, or only as a BRAC microfinance member <sup>[N41 (2024)](#n41)</sup>?
+> - What does Guardian Probashi Prohori cost, what does it pay for, and where does a worker buy it: at a BRAC branch, or only as a BRAC microfinance member <sup>[N43 (2024)](#n43)</sup>?
 
 <a id="air-tickets-the-remittance-fighter-fare"></a>
 
-### 2.8 Air tickets: the Remittance Fighter Fare
+### 2.9 Air tickets: the Remittance Fighter Fare
 
-For May Day 2025 the online travel agency Flight Expert launched a "Remittance Fighter Fare" for people going abroad on a work visa for the first time: a discounted ticket with extra baggage, an eSIM, seat and meal selection and Blue Ribbon baggage insurance, by the company's account <sup>[N42](#n42)</sup>. To book it, search the route and date on Flight Expert's website, then pick "Remittance Fighter" under "Fare type" <sup>[N42](#n42)</sup>. Who pays for the ticket in the first place: see "Who pays for the air ticket?" in the Frequently asked questions about going abroad doc <sup>[N42](#n42)</sup>.
+For May Day 2025 the online travel agency Flight Expert launched a "Remittance Fighter Fare" for people going abroad on a work visa for the first time: a discounted ticket with extra baggage, an eSIM, seat and meal selection and Blue Ribbon baggage insurance, by the company's account <sup>[N44](#n44)</sup>. To book it, search the route and date on Flight Expert's website, then pick "Remittance Fighter" under "Fare type" <sup>[N44](#n44)</sup>. Who pays for the ticket in the first place: see "Who pays for the air ticket?" in the Frequently asked questions about going abroad doc <sup>[N44](#n44)</sup>.
 
 > **Need to know**
-> - How large is the discount, is the fare still offered in 2026, and what proof of a first work visa does Flight Expert ask for <sup>[N42](#n42)</sup>?
+> - How large is the discount, is the fare still offered in 2026, and what proof of a first work visa does Flight Expert ask for <sup>[N44](#n44)</sup>?
 
 <a id="at-the-airport"></a>
 
@@ -341,18 +355,18 @@ The desk's other services, its hours and phone numbers are under "At the airport
 
 **The third terminal.** At a meeting on 10 June 2024, the Civil Aviation Authority's chairman said that in Dhaka airport's new third terminal BMET clearance would not be checked as before but online, in an automated system, with BMET's database merged with the immigration department's, and the airport's executive director said all welfare work for migrants there would run through the terminal's information centre <sup>[N1 (2024)](#n1)</sup>. On 24 June 2024 the desk wrote to BMET's director general asking for urgent action to secure it a place in the terminal <sup>[N1 (2024)](#n1)</sup>. A Civil Aviation Authority member said the desk's services were planned within the terminal's own operations, which a Japanese company would run, and that space would have to be asked of that company <sup>[N1 (2024)](#n1)</sup>. The Welfare Board's director, Shoaib Ahmad Khan, said three to four thousand new workers leave every day and that he hoped the desk would get space; Tasneem Siddiqui, founding chair of the migration research group RMMRU (Refugee and Migratory Movements Research Unit), called leaving the desk out a wrong decision <sup>[N1 (2024)](#n1)</sup>.
 
-**Sylhet.** The minister for expatriates' welfare and for labour, Ariful Haque Chowdhury, said on his first visit to Sylhet as minister, on 19 February 2026, that the service centres he had seen at Dhaka airport do not exist at Sylhet airport <sup>[N43](#n43)</sup>.
+**Sylhet.** The minister for expatriates' welfare and for labour, Ariful Haque Chowdhury, said on his first visit to Sylhet as minister, on 19 February 2026, that the service centres he had seen at Dhaka airport do not exist at Sylhet airport <sup>[N45](#n45)</sup>.
 
 > **Need to know**
 > - Does the third terminal have a Probashi Kallyan desk in 2026, and where in the terminal is it <sup>[N1 (2024)](#n1)</sup>?
-> - What help does Sylhet's Osmani airport give returning and departing migrants in 2026: is the Probashi Kallyan desk there staffed, and where <sup>[N1 (2024)](#n1), [N43](#n43)</sup>?
+> - What help does Sylhet's Osmani airport give returning and departing migrants in 2026: is the Probashi Kallyan desk there staffed, and where <sup>[N1 (2024)](#n1), [N45](#n45)</sup>?
 > - Where does a worker on leave now print the leave permission if the third terminal has no desk <sup>[N1 (2024)](#n1)</sup>?
 
 <a id="the-migrant-lounge-and-helpers-at-dhaka-airport"></a>
 
 ### 3.2 The migrant lounge and helpers at Dhaka airport
 
-On 11 November 2024 the Chief Adviser, Muhammad Yunus, opened the first lounge for migrant workers (the Probashi lounge) at Hazrat Shahjalal International Airport, with space to rest and food at low prices subsidised by the government <sup>[N44 (2024)](#n44)</sup>. The UN sponsored the lounge, according to the IOM (International Organization for Migration) deputy chief of mission in Bangladesh <sup>[N44 (2024)](#n44)</sup>. The expatriates' welfare adviser, Asif Nazrul, said 100 staff sponsored by IOM had been appointed to look after and help migrants at the airport; IOM described them as about 100 volunteers <sup>[N44 (2024)](#n44), [N45 (2024)](#n45)</sup>. The civil aviation minister said on 21 July 2026 that a shuttle bus service had been started at the airport for passengers <sup>[N27](#n27)</sup>.
+On 11 November 2024 the Chief Adviser, Muhammad Yunus, opened the first lounge for migrant workers (the Probashi lounge) at Hazrat Shahjalal International Airport, with space to rest and food at low prices subsidised by the government <sup>[N46 (2024)](#n46)</sup>. The UN sponsored the lounge, according to the IOM (International Organization for Migration) deputy chief of mission in Bangladesh <sup>[N46 (2024)](#n46)</sup>. The expatriates' welfare adviser, Asif Nazrul, said 100 staff sponsored by IOM had been appointed to look after and help migrants at the airport; IOM described them as about 100 volunteers <sup>[N46 (2024)](#n46), [N47 (2024)](#n47)</sup>. The civil aviation minister said on 21 July 2026 that a shuttle bus service had been started at the airport for passengers <sup>[N27](#n27)</sup>.
 
 **For Probashi card holders.** At a meeting on 21 July 2026 on what airport bodies must do in distributing the card, the government set out these benefits (see [The Probashi card](#the-probashi-card)) <sup>[N27](#n27)</sup>:
 - **Biman Bangladesh Airlines tickets:** a special discount; the civil aviation and tourism minister, Afroza Khanam, said a policy decision had been taken <sup>[N27](#n27)</sup>.
@@ -360,22 +374,24 @@ On 11 November 2024 the Chief Adviser, Muhammad Yunus, opened the first lounge f
 - **Priority check-in and boarding:** the civil aviation ministry would arrange them, said its state minister, M Rashiduzzaman Millat <sup>[N27](#n27)</sup>.
 - **Hotels and motels of Bangladesh Parjatan Corporation (the state tourism corporation):** a discount was being considered <sup>[N27](#n27)</sup>.
 
-The lounge was in use in March 2025: when Prothom Alo visited, 15 to 20 travellers were there, some talking to relatives, some eating food from the shop beside it and some charging their phones <sup>[N46](#n46)</sup>. The shop's worker said it was set up so migrants can buy food at low cost; Alif Hossain of Bancharampur, Brahmanbaria, in Kuwait since 1996, said he heard of the lounge after clearing immigration, and that it was much better than other places, with cheaper food <sup>[N46](#n46)</sup>. On 16 April 2025 Asif Nazrul said the lounge offers quality food up to 30% cheaper, free Wi-Fi, a free telephone and mobile charging <sup>[N11](#n11)</sup>.
+The lounge was in use in March 2025: when Prothom Alo visited, 15 to 20 travellers were there, some talking to relatives, some eating food from the shop beside it and some charging their phones <sup>[N48](#n48)</sup>. The shop's worker said it was set up so migrants can buy food at low cost; Alif Hossain of Bancharampur, Brahmanbaria, in Kuwait since 1996, said he heard of the lounge after clearing immigration, and that it was much better than other places, with cheaper food <sup>[N48](#n48)</sup>. On 16 April 2025 Asif Nazrul said the lounge offers quality food up to 30% cheaper, free Wi-Fi, a free telephone and mobile charging <sup>[N11](#n11)</sup>.
+
+**The Wage Earners' Centre.** Prothom Alo reported in May 2024 that migrant workers can stay at the Bangabandhu Wage Earners' Centre, next to Hazrat Shahjalal International Airport, for Tk 200 a day, but that two years after opening, the centre, built for about Tk 30 crore, was largely empty for lack of publicity <sup>[N49 (2024)](#n49)</sup>. How to book it: see "Who helps me at the airport?" in the Frequently asked questions about going abroad doc <sup>[N49 (2024)](#n49)</sup>.
 
 > **Need to know**
-> - Where is the Probashi lounge (which terminal, before or after immigration), who may use it, and is it still open in 2026 <sup>[N44 (2024)](#n44), [N46](#n46)</sup>?
-> - How does a migrant recognise and reach one of the IOM-sponsored helpers at the airport <sup>[N45 (2024)](#n45)</sup>?
+> - Where is the Probashi lounge (which terminal, before or after immigration), who may use it, and is it still open in 2026 <sup>[N46 (2024)](#n46), [N48](#n48)</sup>?
+> - How does a migrant recognise and reach one of the IOM-sponsored helpers at the airport <sup>[N47 (2024)](#n47)</sup>?
 > - Do card holders get the Biman discount and Balaka lounge in practice, and how large is the discount <sup>[N27](#n27)</sup>?
 
 <a id="while-abroad"></a>
 
 ## 4 While abroad
 
-The Welfare Board's Probash-Bondhu call centre answers questions on its services: 16135 toll-free from Bangladesh, +8809610102030 from abroad <sup>[N47 (2024)](#n47)</sup>. Hotlines, the labour wings and legal help while abroad: see "Who can I call for help while abroad?" in the Frequently asked questions about going abroad doc <sup>[N47 (2024)](#n47)</sup>. The ministry had 29 labour welfare wings in 27 countries, but no separate expatriate welfare wing anywhere, according to a reader's column in Prothom Alo in November 2024 <sup>[N48 (2024)](#n48)</sup>. Boishommobirodhi Probashi Andolon (Anti-Discrimination Migrants' Movement), a migrants' rights group started in London during the July-August 2024 movement, asked in November 2024 for a direct way to complain from abroad to the relevant government offices and for a round-the-clock help desk for migrants in any emergency <sup>[N49 (2024)](#n49)</sup>.
+The Welfare Board's Probash-Bondhu call centre answers questions on its services: 16135 toll-free from Bangladesh, +8809610102030 from abroad <sup>[N50 (2024)](#n50)</sup>. Hotlines, the labour wings and legal help while abroad: see "Who can I call for help while abroad?" in the Frequently asked questions about going abroad doc <sup>[N50 (2024)](#n50)</sup>. The ministry had 29 labour welfare wings in 27 countries, but no separate expatriate welfare wing anywhere, according to a reader's column in Prothom Alo in November 2024 <sup>[N51 (2024)](#n51)</sup>. Boishommobirodhi Probashi Andolon (Anti-Discrimination Migrants' Movement), a migrants' rights group started in London during the July-August 2024 movement, asked in November 2024 for a direct way to complain from abroad to the relevant government offices and for a round-the-clock help desk for migrants in any emergency <sup>[N52 (2024)](#n52)</sup>. Around National Expatriates' Day, 30 December, the embassy in Beirut ran a special service week from 22 to 31 December 2023, giving special consular and welfare services on top of its regular ones and ending with a public hearing for migrants <sup>[N53 (2024)](#n53)</sup>.
 
 The Welfare Board's director (finance and budget), ATM Mahbub-ul Karim, said in May 2026 that the Board stands by migrants abroad in illness, death or legal trouble <sup>[N24](#n24)</sup>. At the same event the state minister, Nurul Haque, spoke of a plan to hire legal firms to protect women workers abroad <sup>[N24](#n24)</sup>.
 
-The 2026-27 budget of 11 June 2026 said a "Bangladesh Support Centre" would be set up at the Bangladesh embassies in labour-receiving countries, to rescue workers who are in jail, abused or cheated, find them new jobs, and give legal help in disputes with employers <sup>[N17](#n17)</sup>. At a Police Week event at the Prime Minister's office on 11 May 2026, a senior police headquarters officer asked for police officers to be posted as liaison officers and legal attachés at the embassies in Saudi Arabia, Qatar, Kuwait, Dubai, Italy, Singapore and Malaysia, saying migrants could then get immediate help, according to police sources <sup>[N50](#n50)</sup>.
+The 2026-27 budget of 11 June 2026 said a "Bangladesh Support Centre" would be set up at the Bangladesh embassies in labour-receiving countries, to rescue workers who are in jail, abused or cheated, find them new jobs, and give legal help in disputes with employers <sup>[N17](#n17)</sup>. At a Police Week event at the Prime Minister's office on 11 May 2026, a senior police headquarters officer asked for police officers to be posted as liaison officers and legal attachés at the embassies in Saudi Arabia, Qatar, Kuwait, Dubai, Italy, Singapore and Malaysia, saying migrants could then get immediate help, according to police sources <sup>[N54](#n54)</sup>.
 
 > **Need to know**
 > - Has the Board or the ministry hired legal firms abroad, in which countries, and how does a worker in trouble reach one <sup>[N24](#n24)</sup>?
@@ -387,35 +403,76 @@ The 2026-27 budget of 11 June 2026 said a "Bangladesh Support Centre" would be s
 
 When war or disaster has hit a host country, help has come through the embassy, the ministry's hotline and, for evacuations, money from the Welfare Board <sup>[N20](#n20), [N21](#n21)</sup>.
 
-**What the embassies told workers to do.** On 28 February 2026, as the Middle East war began, the Bangladesh embassies in Lebanon, Qatar, the UAE, Bahrain, Kuwait and Iraq told Bangladeshis to stay away from military sites, stay in a safe place, not spread rumours and keep papers and essentials at hand <sup>[N51](#n51)</sup>. They advised keeping these with you at all times <sup>[N51](#n51)</sup>:
+**What the embassies told workers to do.** On 28 February 2026, as the Middle East war began, the Bangladesh embassies in Lebanon, Qatar, the UAE, Bahrain, Kuwait and Iraq told Bangladeshis to stay away from military sites, stay in a safe place, not spread rumours and keep papers and essentials at hand <sup>[N55](#n55)</sup>. They advised keeping these with you at all times <sup>[N55](#n55)</sup>:
 - cash, passport and local ID card;
 - health card or health insurance, and needed medicines;
 - mobile charger and power bank;
 - dry food and water.
 
-Some embassies warned that posting photos or videos of the situation on social media, or spreading baseless news, breaks those countries' laws <sup>[N51](#n51)</sup>.
+Some embassies warned that posting photos or videos of the situation on social media, or spreading baseless news, breaks those countries' laws <sup>[N55](#n55)</sup>.
 
-**The ministry's hotline and control room.** Any migrant worker could call the Ministry of Expatriates' Welfare's hotline, +8809610102030 (the Probash-Bondhu number from abroad), at any time about the war, and from 10 to 16 March 2026 a control room ran from 8 am to 8 pm daily at the Probashi call centre, Lift 7, Probashi Kallyan Bhaban, Eskaton, Dhaka <sup>[N20](#n20), [N47 (2024)](#n47)</sup>. The minister, Ariful Haque Chowdhury, said on 7 March 2026 that the ministry would help migrants whose visas were running out because flights were cancelled, as far as the government could, if they contacted it; on 8 March he said anyone injured would be treated and that bringing workers home depended on how the war went <sup>[N52](#n52), [N53](#n53)</sup>. He said on 3 April 2026 that six Bangladeshis had died in the war so far (what one dead worker's family got: see [If a worker dies abroad](#if-a-worker-dies-abroad)) <sup>[N54](#n54)</sup>.
+**The ministry's hotline and control room.** Any migrant worker could call the Ministry of Expatriates' Welfare's hotline, +8809610102030 (the Probash-Bondhu number from abroad), at any time about the war, and from 10 to 16 March 2026 a control room ran from 8 am to 8 pm daily at the Probashi call centre, Lift 7, Probashi Kallyan Bhaban, Eskaton, Dhaka <sup>[N20](#n20), [N50 (2024)](#n50)</sup>. The minister, Ariful Haque Chowdhury, said on 7 March 2026 that the ministry would help migrants whose visas were running out because flights were cancelled, as far as the government could, if they contacted it; on 8 March he said anyone injured would be treated and that bringing workers home depended on how the war went <sup>[N56](#n56), [N57](#n57)</sup>. He said on 3 April 2026 that six Bangladeshis had died in the war so far (what one dead worker's family got: see [If a worker dies abroad](#if-a-worker-dies-abroad)) <sup>[N58](#n58)</sup>.
 
 **How evacuations from Iran worked.** Two evacuations, as reported (why many Bangladeshis in Iran have no papers: see "Waiting in Iran" in the Illegal routes doc):
-- **June 2025, the Israel-Iran war:** the Foreign Ministry opened emergency hotlines, with WhatsApp, at the embassy in Tehran and at the ministry in Dhaka, and asked people to rely on them rather than unverified sources <sup>[N55](#n55)</sup>. The government decided to move the Tehran mission's own staff to safety because it was within a kilometre of sites under attack <sup>[N56](#n56)</sup>. About 100 of some 400 Bangladeshis in Tehran contacted the embassy to return <sup>[N57](#n57)</sup>. The Foreign Ministry asked everyone wishing to return to register with the embassy in Tehran with their name, address and other details <sup>[N58](#n58)</sup>. By 24 June, 250 had registered; women, children and people in Iran for medical treatment were to go first, and 90 were to cross by land from Mirjaveh in Iran to Taftan in Pakistan, then fly from Karachi through Dubai to Dhaka <sup>[N58](#n58)</sup>.
-- **March 2026, the war of the United States and Israel with Iran:** the government prepared to bring about 300 people home in two phases, by road to Azerbaijan and then on a Biman charter flight from Baku <sup>[N59](#n59)</sup>. Azerbaijan gave on-arrival visas to 274, and the embassy in Tehran gave travel passes to those without a passport <sup>[N59](#n59)</sup>. The ministry told parliament's standing committee on 8 October 2026 that 186 people, including 12 women and 8 children, had been brought back from Iran with Welfare Board money <sup>[N21](#n21)</sup>.
+- **June 2025, the Israel-Iran war:** the Foreign Ministry opened emergency hotlines, with WhatsApp, at the embassy in Tehran and at the ministry in Dhaka, and asked people to rely on them rather than unverified sources <sup>[N59](#n59)</sup>. The government decided to move the Tehran mission's own staff to safety because it was within a kilometre of sites under attack <sup>[N60](#n60)</sup>. About 100 of some 400 Bangladeshis in Tehran contacted the embassy to return <sup>[N61](#n61)</sup>. The Foreign Ministry asked everyone wishing to return to register with the embassy in Tehran with their name, address and other details <sup>[N62](#n62)</sup>. By 24 June, 250 had registered; women, children and people in Iran for medical treatment were to go first, and 90 were to cross by land from Mirjaveh in Iran to Taftan in Pakistan, then fly from Karachi through Dubai to Dhaka <sup>[N62](#n62)</sup>.
+- **March 2026, the war of the United States and Israel with Iran:** the government prepared to bring about 300 people home in two phases, by road to Azerbaijan and then on a Biman charter flight from Baku <sup>[N63](#n63)</sup>. Azerbaijan gave on-arrival visas to 274, and the embassy in Tehran gave travel passes to those without a passport <sup>[N63](#n63)</sup>. The ministry told parliament's standing committee on 8 October 2026 that 186 people, including 12 women and 8 children, had been brought back from Iran with Welfare Board money <sup>[N21](#n21)</sup>.
 
-**An industrial disaster: Russia.** After an explosion at a gas complex in Amur, Russia, in August 2026, the Bangladesh Embassy in Moscow said it would oversee the treatment of seven injured Bangladeshi workers being moved to a Moscow hospital, and opened a 24-hour hotline run by its head of chancery and its labour wing's first secretary <sup>[N60](#n60)</sup>.
+**Lebanon, October 2024.** On 21 October 2024 the first 54 Bangladeshis, 7 of them children, came home from war-hit Lebanon on a Saudi Airlines flight, with 65 more due two days later <sup>[N64 (2024)](#n64)</sup>. The expatriates' welfare adviser, Asif Nazrul, said about one lakh Bangladeshis were in Lebanon and 1,800 had asked to return, that the government would bear the cost and bring home everyone who wanted to come, and that IOM would bring 200 at its own cost <sup>[N64 (2024)](#n64)</sup>. IOM's acting head in Bangladesh, Nusrat Grazzini, said IOM helps the government bring Bangladeshis home from many countries, that each of the 54 got food and Tk 5,000 from IOM along with mental-health support, and that IOM was also working to bring home Bangladeshis without legal papers <sup>[N64 (2024)](#n64)</sup>.
+
+**An industrial disaster: Russia.** After an explosion at a gas complex in Amur, Russia, in August 2026, the Bangladesh Embassy in Moscow said it would oversee the treatment of seven injured Bangladeshi workers being moved to a Moscow hospital, and opened a 24-hour hotline run by its head of chancery and its labour wing's first secretary <sup>[N65](#n65)</sup>.
 
 > **Need to know**
-> - Does an evacuated worker pay anything for the journey home, or repay the Welfare Board later <sup>[N21](#n21)</sup>?
-> - How did the ministry help migrants whose visas expired because flights were cancelled in 2026, and how many got that help <sup>[N52](#n52)</sup>?
+> - Does a worker evacuated with Welfare Board money, as from Iran in 2026, have to repay any of it later <sup>[N21](#n21)</sup>?
+> - How did the ministry help migrants whose visas expired because flights were cancelled in 2026, and how many got that help <sup>[N56](#n56)</sup>?
+
+<a id="passports-and-nids-from-abroad"></a>
+
+### 4.2 Passports and NIDs from abroad
+
+Bangladesh missions abroad issue e-passports: the embassy in France became the 48th mission to do so on 24 November 2024, and its ambassador said it would take few applications at first and more as staff grew, and that applicants should take care over the required papers <sup>[N66 (2024)](#n66)</sup>. The passport's fees and rules are in "How do I get a passport, and what does it cost?" in the Frequently asked questions about going abroad doc <sup>[N66 (2024)](#n66)</sup>.
+
+The common snag, as a Kuwait-based migrant described it in September 2024 <sup>[N67 (2024)](#n67)</sup>:
+- many migrants' birth registration and NID do not match the passport, with names or dates of birth differing, so they cannot apply for an e-passport;
+- the old MRP (machine-readable passport) was being phased out;
+- with an expired passport, many cannot renew their akama (Gulf residence permit), and migrants asked to be allowed to apply for an e-passport on their old passport's data.
+
+The Election Commission has begun voter registration and NID for migrants: Bangladeshis in Ottawa could apply online or offline, as reported in September 2025, and the Election Commissioner, A K M Humayun Kabir, said a digital registration centre would be set up at Bangladesh's missions <sup>[N68](#n68)</sup>. The same report said not every migrant will get an NID, because most whose passports have expired have no NID data <sup>[N68](#n68)</sup>.
+
+> **Need to know**
+> - Which missions take NID registration in 2026, and what does a migrant without an NID bring to apply <sup>[N68](#n68)</sup>?
+> - Can a migrant whose MRP and NID differ get an e-passport at the mission on the MRP's data in 2026 <sup>[N67 (2024)](#n67)</sup>?
+
+<a id="sending-parcels-by-post"></a>
+
+### 4.3 Sending parcels by post
+
+The Department of Posts sends parcels of up to 20 kg abroad from district and upazila post offices, by international air parcel to 183 countries or by EMS (Express Mail Service) to 43, its officials said in December 2025; migrants abroad also use it to send goods to relatives at home, because it costs up to several times less than many foreign couriers <sup>[N69](#n69)</sup>. Prices and times, as reported in December 2025:
+- **Air parcel:** usually 15 to 20 days; no separate duty or tax <sup>[N69](#n69)</sup>.
+- **EMS:** 7 to 8 days at a little more; a fixed charge for the first 100 grams and for each further 100 grams, plus 15% duty and tax <sup>[N69](#n69)</sup>.
+- **A 1 kg parcel, Dhaka to Montreal:** Tk 2,400 by EMS plus Tk 180 for packing and data entry, Tk 2,580 in all, against Tk 7,630 at a well-known international courier, which took 3 to 4 working days <sup>[N69](#n69)</sup>.
+- **Air parcel, first 500 grams (2022 rates):** Canada Tk 2,050, United States Tk 1,850, Britain Tk 1,670, Italy Tk 1,610, Saudi Arabia Tk 1,250, Japan Tk 1,220, Qatar Tk 1,050, the UAE Tk 1,030 <sup>[N69](#n69)</sup>.
+- **Each further 500 grams by air parcel:** for example the UAE Tk 170, Italy Tk 270, the United States Tk 380 <sup>[N69](#n69)</sup>.
+
+To send from the Dhaka GPO (General Post Office), as Prothom Alo found it in December 2025:
+1. Enter by the GPO's back gate and walk left to the shed where parcels are taken in <sup>[N69](#n69)</sup>.
+2. Letter writers, registered with the Department of Posts, check and pack the goods and enter the sender's and recipient's details online, for a set fee <sup>[N69](#n69)</sup>.
+3. Pay at the designated office to book the parcel, and take the tracking number <sup>[N69](#n69)</sup>.
+4. Follow the parcel on your phone with the tracking number; if it does not arrive on time, an inquiry can find out why <sup>[N69](#n69)</sup>.
+
+Every outgoing parcel is scanned and opened if anything looks suspicious, and every incoming parcel is opened and checked, under CCTV, the Deputy Postmaster General, Shahnaz Siddiqui, said <sup>[N69](#n69)</sup>.
+
+> **Need to know**
+> - What does a letter writer charge, and which items (medicines, food) may not be sent to the Gulf by post <sup>[N69](#n69)</sup>?
 
 <a id="finishing-school-or-a-degree-from-abroad"></a>
 
-### 4.2 Finishing school or a degree from abroad
+### 4.4 Finishing school or a degree from abroad
 
 Bangladesh Open University (BOU) runs overseas programmes (called NISH-2) that Bangladeshi migrants join through the Bangladesh embassy in their country <sup>[N12 (2024)](#n12), [N14 (2024)](#n14)</sup>. As of the 2024 batch:
 
 <a id="ssc"></a>
 
-#### 4.2.1 SSC
+#### 4.4.1 SSC
 
 - **Who:** Bangladeshi migrants or people of Bangladeshi origin in Saudi Arabia, Qatar, Kuwait, the UAE and Italy who have passed JSC, JDC, class 8 or an equivalent <sup>[N12 (2024)](#n12)</sup>.
 - **Streams:** humanities and business studies <sup>[N12 (2024)](#n12)</sup>.
@@ -425,7 +482,7 @@ Bangladesh Open University (BOU) runs overseas programmes (called NISH-2) that B
 
 <a id="hsc"></a>
 
-#### 4.2.2 HSC
+#### 4.4.2 HSC
 
 - **Who:** Bangladeshi migrants or people of Bangladeshi origin in Saudi Arabia, Qatar, Kuwait, the UAE, South Korea and Italy who have passed SSC, Dakhil, O-level or an equivalent <sup>[N13 (2024)](#n13)</sup>.
 - **Fee:** USD 180 for the first year and USD 165 for the second <sup>[N13 (2024)](#n13)</sup>.
@@ -434,7 +491,7 @@ Contacts for both: the embassy, the Dean of BOU's Open School (dean.os@bou.ac.bd
 
 <a id="ba-and-bss"></a>
 
-#### 4.2.3 BA and BSS
+#### 4.4.3 BA and BSS
 
 - **Who:** Bangladeshis in Saudi Arabia, Qatar, Kuwait, Italy, South Korea and the UAE who have passed HSC, Alim, A-level or an equivalent <sup>[N14 (2024)](#n14)</sup>.
 - **Length:** three years in six semesters of six months; registration stays valid for up to five academic years <sup>[N14 (2024)](#n14)</sup>.
@@ -456,19 +513,21 @@ In 2024 admission closed on 30 March and classes began in April <sup>[N14 (2024)
 
 ## 5 If a worker dies abroad
 
-What the family gets, and how the body comes home, are in "If a worker dies abroad, what does the family get?" and "How is the body brought home?" in the Frequently asked questions about going abroad doc <sup>[N1 (2024)](#n1)</sup>. At the airport, the Probashi Kallyan desk receives the body, hands it to the family and pays the burial grant <sup>[N1 (2024)](#n1)</sup>. Speakers at a May 2025 dialogue said handing bodies over at Dhaka airport had been made easier and faster than before <sup>[N61](#n61)</sup>. If the worker had a PKB migration loan, the loan risk cover writes off everything still owed (see [The loan risk cover](#the-loan-risk-cover)) <sup>[N2 (2024)](#n2)</sup>.
+What the family gets, and how the body comes home, are in "If a worker dies abroad, what does the family get?" and "How is the body brought home?" in the Frequently asked questions about going abroad doc <sup>[N1 (2024)](#n1)</sup>. At the airport, the Probashi Kallyan desk receives the body, hands it to the family and pays the burial grant <sup>[N1 (2024)](#n1)</sup>. Speakers at a May 2025 dialogue said handing bodies over at Dhaka airport had been made easier and faster than before <sup>[N70](#n70)</sup>. If the worker had a PKB migration loan, the loan risk cover writes off everything still owed (see [The loan risk cover](#the-loan-risk-cover)) <sup>[N2 (2024)](#n2)</sup>.
 
-**What one family got.** The family of S M Tarek, killed in Bahrain in the Middle East war, was given Tk 35,000 for burial and Tk 50,000 at once by the Welfare Board, and was to get Tk 3 lakh in financial help and Tk 10 lakh of insurance, the minister said on 3 April 2026 <sup>[N54](#n54)</sup>.
+**What one family got.** The family of S M Tarek, killed in Bahrain in the Middle East war, was given Tk 35,000 for burial and Tk 50,000 at once by the Welfare Board, and was to get Tk 3 lakh in financial help and Tk 10 lakh of insurance, the minister said on 3 April 2026 <sup>[N58](#n58)</sup>.
 
-A Bangladeshi migrant in Doha wrote in June 2024 that sending a body home costs a large sum many families can't pay, that in many Middle Eastern countries other migrants have to collect money to send a body home, and that a family left with the dead worker's migration debt gets no help from the state with it <sup>[N62 (2024)](#n62)</sup>. He wrote that at the embassy too, without going through a broker, a one-day task can take three months <sup>[N62 (2024)](#n62)</sup>. In November 2024 Boishommobirodhi Probashi Andolon asked that the bodies of poor migrants be brought home free at the government's initiative <sup>[N49 (2024)](#n49)</sup>. The 2026-27 budget of 11 June 2026 announced a move to make it easier to bring home the bodies of workers who die abroad <sup>[N17](#n17)</sup>. The minister, Ariful Haque Chowdhury, promised on 30 August 2026 that when a Bangladeshi dies abroad the body would be brought home and the family given financial help and help with the children's education <sup>[N63](#n63)</sup>.
+A Bangladeshi migrant in Doha wrote in June 2024 that sending a body home costs a large sum many families can't pay, that in many Middle Eastern countries other migrants have to collect money to send a body home, and that a family left with the dead worker's migration debt gets no help from the state with it <sup>[N71 (2024)](#n71)</sup>. He wrote that at the embassy too, without going through a broker, a one-day task can take three months <sup>[N71 (2024)](#n71)</sup>. In November 2024 Boishommobirodhi Probashi Andolon asked that the bodies of poor migrants be brought home free at the government's initiative <sup>[N52 (2024)](#n52)</sup>. The 2026-27 budget of 11 June 2026 announced a move to make it easier to bring home the bodies of workers who die abroad <sup>[N17](#n17)</sup>. The minister, Ariful Haque Chowdhury, promised on 30 August 2026 that when a Bangladeshi dies abroad the body would be brought home and the family given financial help and help with the children's education <sup>[N72](#n72)</sup>.
 
-**When the family doubts the cause of death.** Another migrant in Doha, Minhaj bin Mahbub, wrote in September 2025 that many families of migrants who took their own lives abroad believe their relative was murdered, pointing to wounds on the body, that most such bodies are of women domestic workers, and that the body should be examined again by post-mortem when it reaches Bangladesh <sup>[N64](#n64)</sup>. A paper presented at a dialogue held by RAMRU and the National Human Rights Commission in May 2025 said the government does no post-mortem to check the death certificates sent with bodies, though many bodies sent home as natural deaths had injury marks, and that 48% of dead workers' families do not believe the cause on the certificate; it recommended cold storage at the airport to keep bodies for post-mortem <sup>[N61](#n61)</sup>. The ministry's senior secretary, Neyamat Ullah Bhuiyan, said there that a post-mortem after the body arrives is possible, but that the reaction of the country the body came from must be considered <sup>[N61](#n61)</sup>. A former National Human Rights Commission member, Selim Reza, said there are allegations in Middle Eastern countries of kidneys being taken from dying patients and kept to sell, and that embassies must make sure no worker's organs are sold <sup>[N61](#n61)</sup>.
+**One woman worker's body.** Dipali Begum, from Charbhadrasan, Faridpur, in Lebanon since 2011, died after an Israeli air strike in Beirut on 8 April 2026; her body came home about a month later, after the embassy had obtained a certified police report and the permit to send the body <sup>[N73](#n73)</sup>. The Faridpur Probashi Kallyan Centre's assistant director, Md. Ashik Siddiqui, said the body would go to her village by free government ambulance, and the family would get Tk 35,000 for burial at the airport and later Tk 3 lakh in financial help <sup>[N73](#n73)</sup>.
+
+**When the family doubts the cause of death.** Another migrant in Doha, Minhaj bin Mahbub, wrote in September 2025 that many families of migrants who took their own lives abroad believe their relative was murdered, pointing to wounds on the body, that most such bodies are of women domestic workers, and that the body should be examined again by post-mortem when it reaches Bangladesh <sup>[N74](#n74)</sup>. A paper presented at a dialogue held by RAMRU and the National Human Rights Commission in May 2025 said the government does no post-mortem to check the death certificates sent with bodies, though many bodies sent home as natural deaths had injury marks, and that 48% of dead workers' families do not believe the cause on the certificate; it recommended cold storage at the airport to keep bodies for post-mortem <sup>[N70](#n70)</sup>. The ministry's senior secretary, Neyamat Ullah Bhuiyan, said there that a post-mortem after the body arrives is possible, but that the reaction of the country the body came from must be considered <sup>[N70](#n70)</sup>. A former National Human Rights Commission member, Selim Reza, said there are allegations in Middle Eastern countries of kidneys being taken from dying patients and kept to sell, and that embassies must make sure no worker's organs are sold <sup>[N70](#n70)</sup>.
 
 > **Need to know**
-> - How does a family get a second post-mortem in Bangladesh: whom do they apply to (police, the magistrate, the Welfare Board desk at the airport), and does it cost anything <sup>[N64](#n64), [N61](#n61)</sup>?
+> - How does a family get a second post-mortem in Bangladesh: whom do they apply to (police, the magistrate, the Welfare Board desk at the airport), and does it cost anything <sup>[N74](#n74), [N70](#n70)</sup>?
 
 > **Need to know**
-> - When a body is sent home through the embassy, who pays the cost abroad (the employer, the Welfare Board or the family), and is a collection among workers still needed in 2026 <sup>[N62 (2024)](#n62)</sup>?
+> - When a body is sent home through the embassy, who pays the cost abroad (the employer, the Welfare Board or the family), and is a collection among workers still needed in 2026 <sup>[N71 (2024)](#n71)</sup>?
 
 <a id="help-for-the-family-at-home"></a>
 
@@ -478,14 +537,14 @@ A Bangladeshi migrant in Doha wrote in June 2024 that sending a body home costs 
 
 ### 6.1 Scholarships for migrants' children
 
-The Welfare Board pays scholarships to high-achieving children of migrants; the amounts are in "Is there help for my children?" in the Frequently asked questions about going abroad doc <sup>[N9 (2024)](#n9)</sup>. The 2026 round takes online applications from 25 October to 24 November 2026 <sup>[N65](#n65)</sup>. Its rules:
-- **Whose children:** the father or mother must have taken BMET emigration clearance or be a Welfare Board member, and at most two children of one worker can apply <sup>[N65](#n65)</sup>. Earlier rounds also named children of a worker who died and whose family got or will get the Board's grant <sup>[N9 (2024)](#n9)</sup>.
-- **Which students:** those who passed SSC in 2026 and are in class 11 or the first semester or year of a Diploma in Engineering; those who passed HSC in 2025 and are in the first semester or year at a university or medical college; and those who passed the Diploma in Engineering in 2025 and are in the first semester or year of a BSc in Engineering <sup>[N65](#n65)</sup>.
-- **Results needed, child of a worker abroad:** SSC GPA 5.00 in science or 4.75 in humanities and business studies; HSC GPA 4.80 in science or 4.50 in humanities and business studies; Diploma in Engineering GPA 3.25, down from 3.50 in the 2025 round <sup>[N65](#n65), [N66](#n66)</sup>.
-- **Results needed, child of a worker who died abroad:** GPA 4.00 in any group at SSC or HSC; GPA 3.00 for the diploma <sup>[N65](#n65)</sup>.
-- **How long it is paid:** from SSC, two years for classes 11 and 12 or four years for a diploma; from HSC, three years for a pass degree, four for honours and five for MBBS, BDS, DVM, B.Arch and similar courses, whatever the session delays; from the Diploma in Engineering, four years <sup>[N9 (2024)](#n9), [N65](#n65), [N66](#n66)</sup>.
+The Welfare Board pays scholarships to high-achieving children of migrants; the amounts are in "Is there help for my children?" in the Frequently asked questions about going abroad doc <sup>[N9 (2024)](#n9)</sup>. The 2026 round takes online applications from 25 October to 24 November 2026 <sup>[N75](#n75)</sup>. Its rules:
+- **Whose children:** the father or mother must have taken BMET emigration clearance or be a Welfare Board member, and at most two children of one worker can apply <sup>[N75](#n75)</sup>. Earlier rounds also named children of a worker who died and whose family got or will get the Board's grant <sup>[N9 (2024)](#n9)</sup>.
+- **Which students:** those who passed SSC in 2026 and are in class 11 or the first semester or year of a Diploma in Engineering; those who passed HSC in 2025 and are in the first semester or year at a university or medical college; and those who passed the Diploma in Engineering in 2025 and are in the first semester or year of a BSc in Engineering <sup>[N75](#n75)</sup>.
+- **Results needed, child of a worker abroad:** SSC GPA 5.00 in science or 4.75 in humanities and business studies; HSC GPA 4.80 in science or 4.50 in humanities and business studies; Diploma in Engineering GPA 3.25, down from 3.50 in the 2025 round <sup>[N75](#n75), [N76](#n76)</sup>.
+- **Results needed, child of a worker who died abroad:** GPA 4.00 in any group at SSC or HSC; GPA 3.00 for the diploma <sup>[N75](#n75)</sup>.
+- **How long it is paid:** from SSC, two years for classes 11 and 12 or four years for a diploma; from HSC, three years for a pass degree, four for honours and five for MBBS, BDS, DVM, B.Arch and similar courses, whatever the session delays; from the Diploma in Engineering, four years <sup>[N9 (2024)](#n9), [N75](#n75), [N76](#n76)</sup>.
 
-Papers to scan, as listed for the 2026 round <sup>[N65](#n65), [N66](#n66)</sup>:
+Papers to scan, as listed for the 2026 round <sup>[N75](#n75), [N76](#n76)</sup>:
 - a copy of the migrant worker's passport, and the BMET emigration clearance or proof of Welfare Board membership;
 - a certificate from the student's institution, carrying the institution head's mobile number;
 - for a child of a worker who died abroad, an NOC (no-objection certificate) from the Bangladesh mission abroad;
@@ -496,13 +555,13 @@ Papers to scan, as listed for the 2026 round <sup>[N65](#n65), [N66](#n66)</sup>
 To apply:
 1. Go to www.wewb.gov.bd or http://stipen.wewb.gov.bd/stipend; applications are online only, not in person or by post <sup>[N9 (2024)](#n9)</sup>.
 2. Give the student's mobile number and a parent's or guardian's mobile number <sup>[N9 (2024)](#n9)</sup>.
-3. Upload the scanned papers <sup>[N9 (2024)](#n9), [N66](#n66)</sup>.
+3. Upload the scanned papers <sup>[N9 (2024)](#n9), [N76](#n76)</sup>.
 4. Check the parents' names on the student's certificate match the name in the migrant's passport: a mismatch, or an incomplete or wrong application, is rejected <sup>[N9 (2024)](#n9)</sup>.
 
-Past rounds: the 2025 round closed on 25 November 2025; the 2024 round ran from 25 November to 24 December 2024; the round before closed on 31 January 2024, and its winners' lists were published in April 2024 <sup>[N66](#n66), [N9 (2024)](#n9), [N67 (2024)](#n67), [N47 (2024)](#n47)</sup>. At one Welfare Board event on 16 April 2025, 65 students were given scholarships <sup>[N11](#n11)</sup>. For details the Board asks people to call Probash-Bondhu: 16135 toll-free in Bangladesh, +8809610102030 from abroad <sup>[N47 (2024)](#n47)</sup>.
+Past rounds: the 2025 round closed on 25 November 2025; the 2024 round ran from 25 November to 24 December 2024; the round before closed on 31 January 2024, and its winners' lists were published in April 2024 <sup>[N76](#n76), [N9 (2024)](#n9), [N77 (2024)](#n77), [N50 (2024)](#n50)</sup>. At one Welfare Board event on 16 April 2025, 65 students were given scholarships <sup>[N11](#n11)</sup>. For details the Board asks people to call Probash-Bondhu: 16135 toll-free in Bangladesh, +8809610102030 from abroad <sup>[N50 (2024)](#n50)</sup>.
 
 > **Need to know**
-> - When are the 2026 round's winners published, and when is the first payment made <sup>[N65](#n65)</sup>?
+> - When are the 2026 round's winners published, and when is the first payment made <sup>[N75](#n75)</sup>?
 
 <a id="allowance-for-a-migrants-disabled-child"></a>
 
@@ -528,18 +587,18 @@ In 2024 applications ran from 16 May to 27 June, and those who had already appli
 
 ### 6.3 If a husband is violent at home
 
-A Supreme Court lawyer, Barrister Miti Sanjana, answering the child of a returnee who beats the mother, wrote in Prothom Alo in April 2024 that under the Domestic Violence (Prevention and Protection) Act 2010 the woman can seek protection <sup>[N68 (2024)](#n68)</sup>:
-1. Apply to the officer in charge of any police station, to a women affairs officer, or directly to the court; an enforcement officer, a service provider or anyone else can also apply on her behalf <sup>[N68 (2024)](#n68)</sup>.
-2. The court sets a hearing date within seven days of receiving the application <sup>[N68 (2024)](#n68)</sup>.
+A Supreme Court lawyer, Barrister Miti Sanjana, answering the child of a returnee who beats the mother, wrote in Prothom Alo in April 2024 that under the Domestic Violence (Prevention and Protection) Act 2010 the woman can seek protection <sup>[N78 (2024)](#n78)</sup>:
+1. Apply to the officer in charge of any police station, to a women affairs officer, or directly to the court; an enforcement officer, a service provider or anyone else can also apply on her behalf <sup>[N78 (2024)](#n78)</sup>.
+2. The court sets a hearing date within seven days of receiving the application <sup>[N78 (2024)](#n78)</sup>.
 
 What the court can order, as she listed it:
-- **Interim protection order:** made without hearing the husband first, if the court is satisfied violence has happened or may happen (section 13) <sup>[N68 (2024)](#n68)</sup>.
-- **Residence order:** bars the husband from living in or visiting the place where she lives, with safe shelter arranged for her and the children if the home is unsafe (section 15) <sup>[N68 (2024)](#n68)</sup>.
-- **Compensation and maintenance:** money for her and the children's upkeep, as a lump sum or monthly (section 16) <sup>[N68 (2024)](#n68)</sup>.
-- **Free legal help:** advice and help at no cost under the Legal Aid Act 2000, where it applies <sup>[N68 (2024)](#n68)</sup>.
+- **Interim protection order:** made without hearing the husband first, if the court is satisfied violence has happened or may happen (section 13) <sup>[N78 (2024)](#n78)</sup>.
+- **Residence order:** bars the husband from living in or visiting the place where she lives, with safe shelter arranged for her and the children if the home is unsafe (section 15) <sup>[N78 (2024)](#n78)</sup>.
+- **Compensation and maintenance:** money for her and the children's upkeep, as a lump sum or monthly (section 16) <sup>[N78 (2024)](#n78)</sup>.
+- **Free legal help:** advice and help at no cost under the Legal Aid Act 2000, where it applies <sup>[N78 (2024)](#n78)</sup>.
 
 > **Need to know**
-> - Does filing under the 2010 Act at the court cost anything, and does the upazila women affairs officer help a woman fill in the application <sup>[N68 (2024)](#n68)</sup>?
+> - Does filing under the 2010 Act at the court cost anything, and does the upazila women affairs officer help a woman fill in the application <sup>[N78 (2024)](#n78)</sup>?
 
 <a id="coming-home"></a>
 
@@ -549,7 +608,7 @@ What the court can order, as she listed it:
 
 ### 7.1 PKB loans to restart
 
-PKB lends to returnees for self-employment without any mortgage of property, deciding within seven days if the papers are in order <sup>[N2 (2024)](#n2)</sup>. In July 2024 its six loans were the migration loan, the rehabilitation loan, the special rehabilitation loan, the Bangabandhu migrant large-family loan, the self-employment loan, and the women's migration and rehabilitation loan <sup>[N2 (2024)](#n2)</sup>. Its managing director said in July 2024 that it lends to returnee women for self-employment at 4 to 7% interest <sup>[N2 (2024)](#n2)</sup>. The rehabilitation loan's limits and what returnees say about the help that reaches them: see "What help is there when I come back?" in the Frequently asked questions about going abroad doc and "Help after you get home" in the Departure bottlenecks doc <sup>[N2 (2024)](#n2)</sup>. In November 2024 Boishommobirodhi Probashi Andolon asked for jobs for returnees, enough interest-free PKB loans for those who want to start a business, compensation for workers cheated by brokers, and a pension for Middle East workers who retire and come home <sup>[N49 (2024)](#n49)</sup>.
+PKB lends to returnees for self-employment without any mortgage of property, deciding within seven days if the papers are in order <sup>[N2 (2024)](#n2)</sup>. In July 2024 its six loans were the migration loan, the rehabilitation loan, the special rehabilitation loan, the Bangabandhu migrant large-family loan, the self-employment loan, and the women's migration and rehabilitation loan <sup>[N2 (2024)](#n2)</sup>. Its managing director said in July 2024 that it lends to returnee women for self-employment at 4 to 7% interest <sup>[N2 (2024)](#n2)</sup>. The rehabilitation loan's limits and what returnees say about the help that reaches them: see "What help is there when I come back?" in the Frequently asked questions about going abroad doc and "Help after you get home" in the Departure bottlenecks doc <sup>[N2 (2024)](#n2)</sup>. In November 2024 Boishommobirodhi Probashi Andolon asked for jobs for returnees, enough interest-free PKB loans for those who want to start a business, compensation for workers cheated by brokers, and a pension for Middle East workers who retire and come home <sup>[N52 (2024)](#n52)</sup>.
 
 <a id="government-and-brac-reintegration-projects"></a>
 
@@ -561,7 +620,7 @@ Prottasha, run with European Union and BRAC support, works on rehabilitating ret
 - **Selina Begum, Tangail, back empty-handed from Cyprus:** a scooter bought with BRAC's help, which she uses to supply tea across her thana <sup>[N22](#n22)</sup>.
 - **Sohel Rana, Tangail, back from Italy unable even to walk:** a grocery shop set up with Prottasha's help <sup>[N22](#n22)</sup>.
 
-A concept paper presented in August 2026 by BRAC's associate director (migration), Shariful Islam Hasan, put returnees' main problems as having no savings, no chance to use skills gained abroad and being unable to start a new livelihood at home <sup>[N69](#n69)</sup>.
+A concept paper presented in August 2026 by BRAC's associate director (migration), Shariful Islam Hasan, put returnees' main problems as having no savings, no chance to use skills gained abroad and being unable to start a new livelihood at home <sup>[N79](#n79)</sup>.
 
 > **Need to know**
 > - How does a returnee join Prottasha: where does he register, who qualifies, and what papers are needed <sup>[N22](#n22)</sup>?
@@ -571,13 +630,13 @@ A concept paper presented in August 2026 by BRAC's associate director (migration
 
 ### 7.3 Farming after return: two cases
 
-Shah Alam (45), of Niamatpur village in Sadar upazila, Sirajganj, came home after about 12 years in Saudi Arabia and in 2022 began farming chui jhal, a spice vine, with the help of NDP (National Development Programme), a local NGO running a high-value spice demonstration for PKSF (Palli Karma-Sahayak Foundation) <sup>[N70](#n70)</sup>. He leased 33 decimals next to his house for three years for Tk 60,000 on 30 August 2022 <sup>[N70](#n70)</sup>. By his own account, he had spent Tk 1 lakh 17 thousand since starting, and in 2025 sold Tk 7 lakh 37 thousand of chui jhal in two batches <sup>[N70](#n70)</sup>.
+Shah Alam (45), of Niamatpur village in Sadar upazila, Sirajganj, came home after about 12 years in Saudi Arabia and in 2022 began farming chui jhal, a spice vine, with the help of NDP (National Development Programme), a local NGO running a high-value spice demonstration for PKSF (Palli Karma-Sahayak Foundation) <sup>[N80](#n80)</sup>. He leased 33 decimals next to his house for three years for Tk 60,000 on 30 August 2022 <sup>[N80](#n80)</sup>. By his own account, he had spent Tk 1 lakh 17 thousand since starting, and in 2025 sold Tk 7 lakh 37 thousand of chui jhal in two batches <sup>[N80](#n80)</sup>.
 
-Lokman Hossain, of Charwadel village in Bauphal upazila, Patuakhali, went abroad in 2018 after graduating, came home in early 2022 and began farming with his father <sup>[N71](#n71)</sup>. In the 2025 monsoon he grew watermelon out of season for the third time, on 5 decimals beside his house, and he says that the time before he sold about Tk 1 lakh of watermelon after spending Tk 20,000 <sup>[N71](#n71)</sup>. Bauphal's upazila agriculture officer, Md. Milon, said off-season watermelon is very profitable and that the agriculture department would give Lokman every kind of help <sup>[N71](#n71)</sup>.
+Lokman Hossain, of Charwadel village in Bauphal upazila, Patuakhali, went abroad in 2018 after graduating, came home in early 2022 and began farming with his father <sup>[N81](#n81)</sup>. In the 2025 monsoon he grew watermelon out of season for the third time, on 5 decimals beside his house, and he says that the time before he sold about Tk 1 lakh of watermelon after spending Tk 20,000 <sup>[N81](#n81)</sup>. Bauphal's upazila agriculture officer, Md. Milon, said off-season watermelon is very profitable and that the agriculture department would give Lokman every kind of help <sup>[N81](#n81)</sup>.
 
 > **Need to know**
-> - Do PKSF's partner NGOs give returnees priority for farm demonstrations or loans, and how does a returnee find the partner NGO in his upazila <sup>[N70](#n70)</sup>?
-> - What help (seed, training, advice) does an upazila agriculture office give a returnee starting a farm, and does it cost anything <sup>[N71](#n71)</sup>?
+> - Do PKSF's partner NGOs give returnees priority for farm demonstrations or loans, and how does a returnee find the partner NGO in his upazila <sup>[N80](#n80)</sup>?
+> - What help (seed, training, advice) does an upazila agriculture office give a returnee starting a farm, and does it cost anything <sup>[N81](#n81)</sup>?
 
 <a id="a-promised-migrants-hospital"></a>
 
@@ -592,7 +651,7 @@ On 16 April 2025 the expatriates' welfare adviser, Asif Nazrul, said he intended
 
 ### 7.5 Plans announced in 2026
 
-At the 5 May 2026 roundtable the state minister, Nurul Haque, spoke of a plan to form a large special fund to rehabilitate returnees <sup>[N24](#n24)</sup>. The 2026-27 budget of 11 June 2026 said various programmes would be taken for returnees' rehabilitation and social protection, without naming them <sup>[N17](#n17)</sup>. On 30 August 2026 the minister, Ariful Haque Chowdhury, described a plan to reintegrate returnees with financial and logistic support according to the work they did before <sup>[N63](#n63)</sup>. On 13 October 2026 the state minister said steps were being taken to settle migrants' land-related legal disputes quickly, with a plan, discussed with the land and law ministries, to resolve them on priority within seven days <sup>[N19](#n19)</sup>.
+At the 5 May 2026 roundtable the state minister, Nurul Haque, spoke of a plan to form a large special fund to rehabilitate returnees <sup>[N24](#n24)</sup>. The 2026-27 budget of 11 June 2026 said various programmes would be taken for returnees' rehabilitation and social protection, without naming them <sup>[N17](#n17)</sup>. On 30 August 2026 the minister, Ariful Haque Chowdhury, described a plan to reintegrate returnees with financial and logistic support according to the work they did before <sup>[N72](#n72)</sup>. On 13 October 2026 the state minister said steps were being taken to settle migrants' land-related legal disputes quickly, with a plan, discussed with the land and law ministries, to resolve them on priority within seven days <sup>[N19](#n19)</sup>.
 
 > **Need to know**
 > - Has the returnee rehabilitation fund, or any of the budget's returnee programmes, started; how large is it, and who can apply <sup>[N24](#n24), [N17](#n17)</sup>?
@@ -602,21 +661,21 @@ At the 5 May 2026 roundtable the state minister, Nurul Haque, spoke of a plan to
 
 ### 7.6 Bank loans to start a business
 
-A deputy managing director of Dhaka Bank PLC wrote in August 2026 of these refinance schemes and lenders for small businesses <sup>[N72](#n72)</sup>:
+A deputy managing director of Dhaka Bank PLC wrote in August 2026 of these refinance schemes and lenders for small businesses <sup>[N82](#n82)</sup>:
 - **Bangladesh Bank's New Entrepreneurs Refinance Scheme:** collateral-free working-capital and term loans of up to Tk 30 lakh for cottage, micro and small enterprises, at no more than 7% interest.
 - **Women Entrepreneur Refinance Fund:** for women who cannot give collateral, up to Tk 25 lakh on a personal guarantee, and up to Tk 1 crore for growing small entrepreneurs, at 5% interest.
 - **Karmasangsthan Bank (the state employment bank):** small loans of up to Tk 75 lakh.
 
-He wrote that many would-be entrepreneurs miss these schemes for lack of information, complex applications and poor coordination <sup>[N72](#n72)</sup>.
+He wrote that many would-be entrepreneurs miss these schemes for lack of information, complex applications and poor coordination <sup>[N82](#n82)</sup>.
 
 > **Need to know**
-> - Can a returnee migrant apply to these schemes, at which banks, with which papers, and is there a migrant quota <sup>[N72](#n72)</sup>?
+> - Can a returnee migrant apply to these schemes, at which banks, with which papers, and is there a migrant quota <sup>[N82](#n82)</sup>?
 
 <a id="investing-at-home-bidas-desk-for-non-resident-bangladeshis"></a>
 
 ### 7.7 Investing at home: BIDA's desk for non-resident Bangladeshis
 
-The Bangladesh Investment Development Authority (BIDA) set up a separate desk for non-resident Bangladeshi (NRB) investors after it was restructured, with a designated officer giving them end-to-end support, its executive chairman, Chowdhury Ashik Mahmud Bin Harun, said in April 2026 <sup>[N73](#n73)</sup>. An investor can submit a proposal directly to BIDA or through a Bangladesh consulate <sup>[N73](#n73)</sup>.
+The Bangladesh Investment Development Authority (BIDA) set up a separate desk for non-resident Bangladeshi (NRB) investors after it was restructured, with a designated officer giving them end-to-end support, its executive chairman, Chowdhury Ashik Mahmud Bin Harun, said in April 2026 <sup>[N83](#n83)</sup>. An investor can submit a proposal directly to BIDA or through a Bangladesh consulate <sup>[N83](#n83)</sup>.
 
 <a id="how-the-services-are-paid-for"></a>
 
@@ -630,7 +689,7 @@ The Welfare Board's help is not government money but migrants' own: the fees wor
 - **Treatment help:** Tk 3 lakh 30 thousand to three people <sup>[N11](#n11)</sup>.
 - **Disability allowance:** Tk 1 lakh 20 thousand to 10 children <sup>[N11](#n11)</sup>.
 
-It was also said there that during the interim government's term the Board had given Tk 273 crore 81 lakh in various help to 12,158 people <sup>[N11](#n11)</sup>. In June 2025 Nahid Islam, convener of the National Citizen Party (NCP), condemned the halving of the Ministry of Expatriates' Welfare's budget in the budget the interim government announced <sup>[N74](#n74)</sup>.
+It was also said there that during the interim government's term the Board had given Tk 273 crore 81 lakh in various help to 12,158 people <sup>[N11](#n11)</sup>. In June 2025 Nahid Islam, convener of the National Citizen Party (NCP), condemned the halving of the Ministry of Expatriates' Welfare's budget in the budget the interim government announced <sup>[N84](#n84)</sup>.
 
 > **Need to know**
 > - How much of the Welfare Board's fund was spent on direct help to migrants and families in 2025-26, against what workers paid in <sup>[N11](#n11)</sup>?
@@ -652,7 +711,7 @@ In May 2024 CWCS asked the government for services that did not then exist <sup>
 
 PKB's loan for returnee women: see PKB loans to restart <sup>[N2 (2024)](#n2)</sup>. The airport payment to women back after abuse and PKB's eased conditions for returnee women: see "What help is there when I come back?" in the Frequently asked questions about going abroad doc <sup>[N2 (2024)](#n2)</sup>.
 
-Selim Reza, coordinator of North South University's Centre for Migration Studies, wrote in August 2026 that returnee women's skills are not assessed, their chances of starting a business are limited, rehabilitation is weak and mental health care is almost absent <sup>[N75](#n75)</sup>. Fewer women are going: 1,05,466 in 2022, 76,108 in 2023, 61,158 in 2024 and 61,977 in 2025, about 41% below 2022, by his count <sup>[N75](#n75)</sup>.
+Selim Reza, coordinator of North South University's Centre for Migration Studies, wrote in August 2026 that returnee women's skills are not assessed, their chances of starting a business are limited, rehabilitation is weak and mental health care is almost absent <sup>[N85](#n85)</sup>. Fewer women are going: 1,05,466 in 2022, 76,108 in 2023, 61,158 in 2024 and 61,977 in 2025, about 41% below 2022, by his count <sup>[N85](#n85)</sup>.
 
 At a roundtable on 5 May 2026, the ILO's senior national programme manager, Rahnuma Salam Khan, spoke of a plan to introduce a special cash scheme for returnee women with ILO support, and a UNDP Bangladesh gender expert, Sharmin Islam, called on the government to ensure psycho-social counselling for returnee women workers <sup>[N24](#n24)</sup>.
 
@@ -702,52 +761,62 @@ These facts come only from news or third-party sources. Each needs an official s
 - <a id="n25"></a>N25. Prothom Alo, 11 Jul 2026. [রেমিট্যান্স–যোদ্ধাদের সঙ্গে প্রতারণার শেষ কোথায়? দূতাবাসগুলোর ভূমিকা কী?](https://www.prothomalo.com/opinion/column/flayihfhty). Accessed 23 Nov 2026.
 - <a id="n26"></a>N26. Prothom Alo, 23 Aug 2026. [তিন বছরে ৬৮ তথ্য ফাঁসের ঘটনা, জবাবদিহি কিংবা শাস্তির নজির নেই](https://www.prothomalo.com/bangladesh/o1uxd9u00d). Accessed 23 Nov 2026.
 - <a id="n27"></a>N27. Prothom Alo, 21 Jul 2026. [প্রবাসী কার্ডধারীদের জন্য বিমান টিকিটে ছাড়, লাউঞ্জসহ বিশেষ সুবিধা](https://www.prothomalo.com/bangladesh/chrjiusr0h). Accessed 23 Nov 2026.
-- <a id="n28"></a>N28. Prothom Alo, 7 May 2024. [রোহিঙ্গাদের জন্য আরও তহবিল সংগ্রহে আইওএমের প্রতি আহ্বান প্রধানমন্ত্রীর](https://www.prothomalo.com/bangladesh/7dys8fvoxl). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n29"></a>N29. Prothom Alo, 7 Jul 2024. [দক্ষ কর্মী তৈরিতে ১১৭ কোটি টাকার সহায়তার প্রস্তাব কোরিয়ার](https://www.prothomalo.com/bangladesh/vwxtwjai37). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n30"></a>N30. Prothom Alo, 3 Sep 2026. [আমলাতান্ত্রিক জটিলতার জন্য নতুন করে নিয়োগ দেওয়া যাচ্ছে না, সংসদে প্রবাসীকল্যাণ প্রতিমন্ত্রী](https://www.prothomalo.com/video/bangladesh/za4f27k6af). Accessed 23 Nov 2026.
-- <a id="n31"></a>N31. Prothom Alo, 12 Oct 2026. [কারিগরি শিক্ষায় বিনিয়োগে বদলাবে অর্থনীতি](https://www.prothomalo.com/education/isyfhfu7x6). Accessed 23 Nov 2026.
-- <a id="n32"></a>N32. Prothom Alo, 15 Sep 2026. [সিলভার ইকোনমি: ট্রিলিয়ন ডলারের বাজারে কতটা প্রস্তুত বাংলাদেশ](https://www.prothomalo.com/opinion/column/47xqlrmi6a). Accessed 23 Nov 2026.
-- <a id="n33"></a>N33. Prothom Alo, 5 Mar 2026. [দক্ষ জনশক্তি গড়তে ভাষা প্রশিক্ষণ কেন্দ্র খোলার নির্দেশ প্রধানমন্ত্রীর](https://www.prothomalo.com/education/higher-education/402381fhiz). Accessed 23 Nov 2026.
-- <a id="n34"></a>N34. Prothom Alo, 14 Jan 2026. [কর্মসংস্থান ও প্রবাসী আয় বাড়াতে ৬০ হাজার গাড়িচালককে প্রশিক্ষণ দেওয়া হবে](https://www.prothomalo.com/business/economics/1wm9wda390). Accessed 23 Nov 2026.
-- <a id="n35"></a>N35. Prothom Alo, 25 Aug 2025. [ঢাকায় কোরিয়ান ভাষাশিক্ষা কোর্সে ভর্তি, আবেদন শেষ ২৬ আগস্ট](https://www.prothomalo.com/education/admission/wiv0qp84jv). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n36"></a>N36. Prothom Alo, 12 Dec 2024. [ইউরোপীয় ইউনিয়নের অর্থায়নে ট্যালেন্ট পার্টনারশিপ প্রকল্প শুরু](https://www.prothomalo.com/business/corporate/j63gu3gbhr). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n37"></a>N37. Prothom Alo, 10 Jun 2026. [বাংলাদেশ থেকে দক্ষ কর্মী নিতে আগ্রহী ইইউ, শিক্ষায় সহযোগিতা বাড়াবে এসিইউ](https://www.prothomalo.com/bangladesh/capital/72vsv7uhob). Accessed 23 Nov 2026.
-- <a id="n38"></a>N38. Prothom Alo, 27 Oct 2025. [বিদেশ যেতে না পেরে মাইক ভাড়া করে গালাগাল করা সেই যুবকের স্বপ্ন পূরণ হচ্ছে](https://www.prothomalo.com/bangladesh/district/ri17quo6mf). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n39"></a>N39. Prothom Alo, 8 Jun 2026. [‘বিদেশগামীদের বিনা সুদে ব্যাংকঋণের ব্যবস্থা সরকার করবে কি না?’](https://www.prothomalo.com/video/bangladesh/xwi71bracf). Accessed 23 Nov 2026.
-- <a id="n40"></a>N40. Prothom Alo, 1 Apr 2026. [বিদেশে ভাষা শিক্ষা: জামানত ছাড়াই ১০ লাখ টাকা ঋণ দিচ্ছে প্রবাসী কল্যাণ ব্যাংক](https://www.prothomalo.com/education/higher-education/stplucaf70). Accessed 23 Nov 2026.
-- <a id="n41"></a>N41. Prothom Alo, 28 Nov 2024. [প্রবাসী কর্মীদের জন্য ‘গার্ডিয়ান প্রবাসী প্রহরী’](https://www.prothomalo.com/business/corporate/wqtoya9v9v). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n42"></a>N42. Prothom Alo, 30 Apr 2025. [রেমিট্যান্স যোদ্ধাদের জন্য ফ্লাইট এক্সপার্টের বিশেষ উদ্যোগ](https://www.prothomalo.com/bangladesh/h58e806znk). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n43"></a>N43. Prothom Alo, 19 Feb 2026. [কারও প্রতি বৈরী মনোভাব না রেখে সবাইকে সঙ্গে নিয়ে এগিয়ে যেতে চাই](https://www.prothomalo.com/bangladesh/district/0dtskxefgp). Accessed 23 Nov 2026.
-- <a id="n44"></a>N44. Prothom Alo, 11 Nov 2024. [প্রবাসীরা বিমানবন্দরে অতিথির মতো সম্মান পাবেন: প্রধান উপদেষ্টা](https://www.prothomalo.com/bangladesh/qd34e7i0vm). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n45"></a>N45. Prothom Alo, 11 Nov 2024. [শাহজালাল বিমানবন্দরে প্রবাসী শ্রমিকদের জন্য বিশেষ লাউঞ্জ উদ্বোধন করলেন প্রধান উপদেষ্টা](https://www.prothomalo.com/bangladesh/9w67hpqd0g). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n46"></a>N46. Prothom Alo, 10 Mar 2025. [শাহজালাল বিমানবন্দরে ইমিগ্রেশনসহ অনেক সেবায় সন্তুষ্টি, আছে অসন্তোষও](https://www.prothomalo.com/bangladesh/capital/epp42kdl5y). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n47"></a>N47. Prothom Alo, 18 Apr 2024. [প্রবাসী কর্মীর সন্তানদের শিক্ষাবৃত্তির ফল প্রকাশ, দেখুন](https://www.prothomalo.com/education/scholarship/77s3s7miv7). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n48"></a>N48. Prothom Alo, 12 Nov 2024. [প্রবাসী কল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়ের সংস্কার: কল্যাণ ও কর্মসংস্থান পৃথক্‌করণ](https://nagorik.prothomalo.com/durporobash/tgu2t60m24). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n49"></a>N49. Prothom Alo, 30 Nov 2024. [প্রবাসী অধিকার আদায়ে বৈষম‍্যবিরোধী প্রবাসী আন্দোলনের যাত্রা শুরু](https://nagorik.prothomalo.com/durporobash/ezbiyhakte). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n50"></a>N50. Prothom Alo, 11 May 2026. [বিদেশের কয়েকটি দূতাবাসে 
+- <a id="n28"></a>N28. Prothom Alo, 23 Sep 2024. [গ্রামীণ ডিজিটাল হেলথকেয়ার সলিউশনসের সঙ্গে ‘আমি প্রবাসী’র চুক্তি সই](https://www.prothomalo.com/bangladesh/csftdrj1s2). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n29"></a>N29. Prothom Alo, 13 May 2025. [আমি প্রবাসীর চ্যাটবট দিয়ে বিনা মূল্যে জীবনবৃত্তান্ত তৈরির সুযোগ](https://www.prothomalo.com/technology/27w57q2rsq). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n30"></a>N30. Prothom Alo, 7 May 2024. [রোহিঙ্গাদের জন্য আরও তহবিল সংগ্রহে আইওএমের প্রতি আহ্বান প্রধানমন্ত্রীর](https://www.prothomalo.com/bangladesh/7dys8fvoxl). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n31"></a>N31. Prothom Alo, 7 Jul 2024. [দক্ষ কর্মী তৈরিতে ১১৭ কোটি টাকার সহায়তার প্রস্তাব কোরিয়ার](https://www.prothomalo.com/bangladesh/vwxtwjai37). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n32"></a>N32. Prothom Alo, 3 Sep 2026. [আমলাতান্ত্রিক জটিলতার জন্য নতুন করে নিয়োগ দেওয়া যাচ্ছে না, সংসদে প্রবাসীকল্যাণ প্রতিমন্ত্রী](https://www.prothomalo.com/video/bangladesh/za4f27k6af). Accessed 23 Nov 2026.
+- <a id="n33"></a>N33. Prothom Alo, 12 Oct 2026. [কারিগরি শিক্ষায় বিনিয়োগে বদলাবে অর্থনীতি](https://www.prothomalo.com/education/isyfhfu7x6). Accessed 23 Nov 2026.
+- <a id="n34"></a>N34. Prothom Alo, 15 Sep 2026. [সিলভার ইকোনমি: ট্রিলিয়ন ডলারের বাজারে কতটা প্রস্তুত বাংলাদেশ](https://www.prothomalo.com/opinion/column/47xqlrmi6a). Accessed 23 Nov 2026.
+- <a id="n35"></a>N35. Prothom Alo, 5 Mar 2026. [দক্ষ জনশক্তি গড়তে ভাষা প্রশিক্ষণ কেন্দ্র খোলার নির্দেশ প্রধানমন্ত্রীর](https://www.prothomalo.com/education/higher-education/402381fhiz). Accessed 23 Nov 2026.
+- <a id="n36"></a>N36. Prothom Alo, 14 Jan 2026. [কর্মসংস্থান ও প্রবাসী আয় বাড়াতে ৬০ হাজার গাড়িচালককে প্রশিক্ষণ দেওয়া হবে](https://www.prothomalo.com/business/economics/1wm9wda390). Accessed 23 Nov 2026.
+- <a id="n37"></a>N37. Prothom Alo, 25 Aug 2025. [ঢাকায় কোরিয়ান ভাষাশিক্ষা কোর্সে ভর্তি, আবেদন শেষ ২৬ আগস্ট](https://www.prothomalo.com/education/admission/wiv0qp84jv). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n38"></a>N38. Prothom Alo, 12 Dec 2024. [ইউরোপীয় ইউনিয়নের অর্থায়নে ট্যালেন্ট পার্টনারশিপ প্রকল্প শুরু](https://www.prothomalo.com/business/corporate/j63gu3gbhr). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n39"></a>N39. Prothom Alo, 10 Jun 2026. [বাংলাদেশ থেকে দক্ষ কর্মী নিতে আগ্রহী ইইউ, শিক্ষায় সহযোগিতা বাড়াবে এসিইউ](https://www.prothomalo.com/bangladesh/capital/72vsv7uhob). Accessed 23 Nov 2026.
+- <a id="n40"></a>N40. Prothom Alo, 27 Oct 2025. [বিদেশ যেতে না পেরে মাইক ভাড়া করে গালাগাল করা সেই যুবকের স্বপ্ন পূরণ হচ্ছে](https://www.prothomalo.com/bangladesh/district/ri17quo6mf). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n41"></a>N41. Prothom Alo, 8 Jun 2026. [‘বিদেশগামীদের বিনা সুদে ব্যাংকঋণের ব্যবস্থা সরকার করবে কি না?’](https://www.prothomalo.com/video/bangladesh/xwi71bracf). Accessed 23 Nov 2026.
+- <a id="n42"></a>N42. Prothom Alo, 1 Apr 2026. [বিদেশে ভাষা শিক্ষা: জামানত ছাড়াই ১০ লাখ টাকা ঋণ দিচ্ছে প্রবাসী কল্যাণ ব্যাংক](https://www.prothomalo.com/education/higher-education/stplucaf70). Accessed 23 Nov 2026.
+- <a id="n43"></a>N43. Prothom Alo, 28 Nov 2024. [প্রবাসী কর্মীদের জন্য ‘গার্ডিয়ান প্রবাসী প্রহরী’](https://www.prothomalo.com/business/corporate/wqtoya9v9v). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n44"></a>N44. Prothom Alo, 30 Apr 2025. [রেমিট্যান্স যোদ্ধাদের জন্য ফ্লাইট এক্সপার্টের বিশেষ উদ্যোগ](https://www.prothomalo.com/bangladesh/h58e806znk). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n45"></a>N45. Prothom Alo, 19 Feb 2026. [কারও প্রতি বৈরী মনোভাব না রেখে সবাইকে সঙ্গে নিয়ে এগিয়ে যেতে চাই](https://www.prothomalo.com/bangladesh/district/0dtskxefgp). Accessed 23 Nov 2026.
+- <a id="n46"></a>N46. Prothom Alo, 11 Nov 2024. [প্রবাসীরা বিমানবন্দরে অতিথির মতো সম্মান পাবেন: প্রধান উপদেষ্টা](https://www.prothomalo.com/bangladesh/qd34e7i0vm). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n47"></a>N47. Prothom Alo, 11 Nov 2024. [শাহজালাল বিমানবন্দরে প্রবাসী শ্রমিকদের জন্য বিশেষ লাউঞ্জ উদ্বোধন করলেন প্রধান উপদেষ্টা](https://www.prothomalo.com/bangladesh/9w67hpqd0g). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n48"></a>N48. Prothom Alo, 10 Mar 2025. [শাহজালাল বিমানবন্দরে ইমিগ্রেশনসহ অনেক সেবায় সন্তুষ্টি, আছে অসন্তোষও](https://www.prothomalo.com/bangladesh/capital/epp42kdl5y). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n49"></a>N49. Prothom Alo, 13 May 2024. [৩০০ টাকায় থাকার ব্যবস্থা আছে, জানেন না প্রবাসীরা](https://www.prothomalo.com/video/bangladesh/z0wnly64qs). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n50"></a>N50. Prothom Alo, 18 Apr 2024. [প্রবাসী কর্মীর সন্তানদের শিক্ষাবৃত্তির ফল প্রকাশ, দেখুন](https://www.prothomalo.com/education/scholarship/77s3s7miv7). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n51"></a>N51. Prothom Alo, 12 Nov 2024. [প্রবাসী কল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়ের সংস্কার: কল্যাণ ও কর্মসংস্থান পৃথক্‌করণ](https://nagorik.prothomalo.com/durporobash/tgu2t60m24). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n52"></a>N52. Prothom Alo, 30 Nov 2024. [প্রবাসী অধিকার আদায়ে বৈষম‍্যবিরোধী প্রবাসী আন্দোলনের যাত্রা শুরু](https://nagorik.prothomalo.com/durporobash/ezbiyhakte). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n53"></a>N53. Prothom Alo, 2 Jan 2024. [লেবাননে জাতীয় প্রবাসী দিবস পালিত](https://nagorik.prothomalo.com/durporobash/8isxerrepk). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n54"></a>N54. Prothom Alo, 11 May 2026. [বিদেশের কয়েকটি দূতাবাসে 
 পুলিশ নিয়োগের দাবি](https://www.prothomalo.com/bangladesh/q8sh16aqy5). Accessed 23 Nov 2026.
-- <a id="n51"></a>N51. Prothom Alo, 28 Feb 2026. [কাতার, আমিরাত, কুয়েতসহ মধ্যপ্রাচ্যের ৬ দেশের প্রবাসী বাংলাদেশিদের জন্য জরুরি বার্তা](https://www.prothomalo.com/bangladesh/qujb76fbeq). Accessed 23 Nov 2026.
-- <a id="n52"></a>N52. Prothom Alo, 7 Mar 2026. [ফ্লাইট বাতিল হওয়া প্রবাসীদের ভিসার মেয়াদ শেষ হলে সরকার সহায়তা করবে: প্রবাসীকল্যাণমন্ত্রী](https://www.prothomalo.com/bangladesh/district/bu2risoxek). Accessed 23 Nov 2026.
-- <a id="n53"></a>N53. Prothom Alo, 8 Mar 2026. [মধ্যপ্রাচ্যের যুদ্ধে রেমিট্যান্সে প্রভাব পড়বে: প্রবাসীকল্যাণ মন্ত্রী](https://www.prothomalo.com/bangladesh/district/8euu93lxss). Accessed 23 Nov 2026.
-- <a id="n54"></a>N54. Prothom Alo, 3 Apr 2026. [বাহরাইনে নিহত প্রবাসী তারেকের মরদেহ দেশে পৌঁছেছে](https://www.prothomalo.com/bangladesh/n7jdtuclnr). Accessed 23 Nov 2026.
-- <a id="n55"></a>N55. Prothom Alo, 16 Jun 2025. [ইরানে বাংলাদেশিদের জন্য জরুরি যোগাযোগ হটলাইন চালু](https://www.prothomalo.com/bangladesh/c48c0a2gtu). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n56"></a>N56. Prothom Alo, 16 Jun 2025. [তেহরানে ঝুঁকিতে বাংলাদেশ দূতাবাস, সবাইকে দ্রুত সরিয়ে নেওয়ার সিদ্ধান্ত](https://www.prothomalo.com/bangladesh/pw9zon4ra5). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n57"></a>N57. Prothom Alo, 19 Jun 2025. [ইরান থেকে ১০০ বাংলাদেশিকে দেশে ফেরানোর প্রক্রিয়া শুরু](https://www.prothomalo.com/bangladesh/2gccjquc6h). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n58"></a>N58. Prothom Alo, 24 Jun 2025. [ইরান থেকে দেশে ফিরতে আড়াই শ বাংলাদেশির নিবন্ধন](https://www.prothomalo.com/bangladesh/str8nh91r4). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n59"></a>N59. Prothom Alo, 18 Mar 2026. [ঈদের আগেই ইরান থেকে দেশে আসছেন ২০০ বাংলাদেশি](https://www.prothomalo.com/bangladesh/iyqdrr55xt). Accessed 23 Nov 2026.
-- <a id="n60"></a>N60. Prothom Alo, 27 Aug 2026. [রাশিয়ায় গ্যাস কমপ্লেক্সে বিস্ফোরণে এক বাংলাদেশি শ্রমিক নিহত, আরেকজন নিখোঁজ](https://www.prothomalo.com/bangladesh/awccpsgclx). Accessed 23 Nov 2026.
-- <a id="n61"></a>N61. Prothom Alo, 30 May 2025. [গড়ে ৩৭ বছর বয়সে মারা যাচ্ছেন প্রবাসী কর্মীরা: রামরুর সংলাপ](https://www.prothomalo.com/bangladesh/lr4ijw2s4u). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n62"></a>N62. Prothom Alo, 25 Jun 2024. [রেমিট্যান্স–যোদ্ধাদের সম্মান নেই দেশের বিমানবন্দরে](https://www.prothomalo.com/opinion/reaction/naooc5xvrx). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n63"></a>N63. Prothom Alo, 31 Aug 2026. [লস অ্যাঞ্জেলেসে প্রবাসীদের নানা প্রত্যাশার কথা শুনলেন প্রবাসীকল্যাণমন্ত্রী](https://www.prothomalo.com/bangladesh/xr745r2u4c). Accessed 23 Nov 2026.
-- <a id="n64"></a>N64. Prothom Alo, 30 Sep 2025. [প্রবাসে বাংলাদেশিদের মধ্যে বাড়ছে আত্মহনন প্রবণতা](https://www.prothomalo.com/opinion/letter/g6wu72fsk3). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n65"></a>N65. Prothom Alo, 20 Oct 2026. [প্রবাসী কর্মীদের সন্তানেরা পাবে শিক্ষাবৃত্তি, আবেদনের খুঁটিনাটি জেনে নিন](https://www.prothomalo.com/education/scholarship/4xjbabm8wh). Accessed 23 Nov 2026.
-- <a id="n66"></a>N66. Prothom Alo, 20 Oct 2025. [প্রবাসী কর্মীর মেধাবী সন্তানদের শিক্ষাবৃত্তি, আবেদন শেষ ২৫ নভেম্বর](https://www.prothomalo.com/education/scholarship/b16i9frje9). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n67"></a>N67. Prothom Alo, 2 Jan 2024. [প্রবাসী কর্মীদের সন্তানের জন্য সরকারের শিক্ষাবৃত্তি](https://www.prothomalo.com/education/scholarship/ws1cgs3i1q). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n68"></a>N68. Prothom Alo, 17 Apr 2024. [সন্তান হিসেবে আমাদের অস্বীকার করছেন বিদেশ ফেরত বাবা](https://www.prothomalo.com/lifestyle/8l1c9npxq1). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n69"></a>N69. Prothom Alo, 19 Aug 2026. [বিদেশফেরত কর্মীদের পুনর্বাসনে সমন্বিত উদ্যোগ নিতে হবে](https://www.prothomalo.com/roundtable/q253lpvts1). Accessed 23 Nov 2026.
-- <a id="n70"></a>N70. Prothom Alo, 13 Jun 2025. [চুইঝাল চাষে সাফল্য পেয়ে প্রবাসফেরত শাহ আলম বললেন, ‘আর বিদেশে যাব না’](https://www.prothomalo.com/bangladesh/district/gd2lf12mxu). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n71"></a>N71. Prothom Alo, 23 Sep 2025. [অসময়ের তরমুজ চাষে সফল বিদেশফেরত লোকমান](https://www.prothomalo.com/bangladesh/district/04u2somvtx). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n72"></a>N72. Prothom Alo, 13 Aug 2026. [সমৃদ্ধ বাংলাদেশ বিনির্মাণে মানবসম্পদকে শক্তিতে রূপান্তরের মাধ্যমে জাতীয় আকাঙ্ক্ষা পূরণ সম্ভব](https://www.prothomalo.com/chakri/chakri-suggestion/4t1le1hk4b). Accessed 23 Nov 2026.
-- <a id="n73"></a>N73. Prothom Alo, 28 Apr 2026. [তথ্যপ্রযুক্তি, জ্বালানিসহ বিভিন্ন খাতে বিনিয়োগে প্রবাসীদের প্রতি আহ্বান](https://www.prothomalo.com/bangladesh/97zesnn0z8). Accessed 23 Nov 2026.
-- <a id="n74"></a>N74. Prothom Alo, 3 Jun 2025. [বৈষম্যহীন সমাজের ‘ভিশন’ বাজেটে আসেনি: নাহিদ](https://www.prothomalo.com/politics/q82eul9jqn). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n75"></a>N75. Prothom Alo, 6 Aug 2026. [নারী কর্মীদের বিদেশ যাওয়া কমে যাচ্ছে কেন](https://www.prothomalo.com/opinion/column/pefsw3b8s2). Accessed 23 Nov 2026.
+- <a id="n55"></a>N55. Prothom Alo, 28 Feb 2026. [কাতার, আমিরাত, কুয়েতসহ মধ্যপ্রাচ্যের ৬ দেশের প্রবাসী বাংলাদেশিদের জন্য জরুরি বার্তা](https://www.prothomalo.com/bangladesh/qujb76fbeq). Accessed 23 Nov 2026.
+- <a id="n56"></a>N56. Prothom Alo, 7 Mar 2026. [ফ্লাইট বাতিল হওয়া প্রবাসীদের ভিসার মেয়াদ শেষ হলে সরকার সহায়তা করবে: প্রবাসীকল্যাণমন্ত্রী](https://www.prothomalo.com/bangladesh/district/bu2risoxek). Accessed 23 Nov 2026.
+- <a id="n57"></a>N57. Prothom Alo, 8 Mar 2026. [মধ্যপ্রাচ্যের যুদ্ধে রেমিট্যান্সে প্রভাব পড়বে: প্রবাসীকল্যাণ মন্ত্রী](https://www.prothomalo.com/bangladesh/district/8euu93lxss). Accessed 23 Nov 2026.
+- <a id="n58"></a>N58. Prothom Alo, 3 Apr 2026. [বাহরাইনে নিহত প্রবাসী তারেকের মরদেহ দেশে পৌঁছেছে](https://www.prothomalo.com/bangladesh/n7jdtuclnr). Accessed 23 Nov 2026.
+- <a id="n59"></a>N59. Prothom Alo, 16 Jun 2025. [ইরানে বাংলাদেশিদের জন্য জরুরি যোগাযোগ হটলাইন চালু](https://www.prothomalo.com/bangladesh/c48c0a2gtu). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n60"></a>N60. Prothom Alo, 16 Jun 2025. [তেহরানে ঝুঁকিতে বাংলাদেশ দূতাবাস, সবাইকে দ্রুত সরিয়ে নেওয়ার সিদ্ধান্ত](https://www.prothomalo.com/bangladesh/pw9zon4ra5). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n61"></a>N61. Prothom Alo, 19 Jun 2025. [ইরান থেকে ১০০ বাংলাদেশিকে দেশে ফেরানোর প্রক্রিয়া শুরু](https://www.prothomalo.com/bangladesh/2gccjquc6h). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n62"></a>N62. Prothom Alo, 24 Jun 2025. [ইরান থেকে দেশে ফিরতে আড়াই শ বাংলাদেশির নিবন্ধন](https://www.prothomalo.com/bangladesh/str8nh91r4). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n63"></a>N63. Prothom Alo, 18 Mar 2026. [ঈদের আগেই ইরান থেকে দেশে আসছেন ২০০ বাংলাদেশি](https://www.prothomalo.com/bangladesh/iyqdrr55xt). Accessed 23 Nov 2026.
+- <a id="n64"></a>N64. Prothom Alo, 21 Oct 2024. [লেবানন থেকে প্রথম ধাপে দেশে ফিরলেন ৫৪ বাংলাদেশি](https://www.prothomalo.com/bangladesh/dkkws4hb3r). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n65"></a>N65. Prothom Alo, 27 Aug 2026. [রাশিয়ায় গ্যাস কমপ্লেক্সে বিস্ফোরণে এক বাংলাদেশি শ্রমিক নিহত, আরেকজন নিখোঁজ](https://www.prothomalo.com/bangladesh/awccpsgclx). Accessed 23 Nov 2026.
+- <a id="n66"></a>N66. Prothom Alo, 26 Nov 2024. [ফ্রান্সে বাংলাদেশিদের জন্য ই-পাসপোর্ট চালু](https://nagorik.prothomalo.com/durporobash/8717925vcn). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n67"></a>N67. Prothom Alo, 16 Sep 2024. [পুরোনো পাসপোর্ট ডেটা দিয়ে নতুন ই–পাসপোর্ট আবেদনের সুযোগ চান প্রবাসীরা](https://nagorik.prothomalo.com/durporobash/csikw424v2). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n68"></a>N68. Prothom Alo, 13 Sep 2025. [কানাডায় বাংলাদেশিদের জন্য এনআইডি ও ভোটার নিবন্ধন সেবা চালু](https://nagorik.prothomalo.com/durporobash/taukr3clfi). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n69"></a>N69. Prothom Alo, 15 Dec 2025. [কুরিয়ারে বিদেশে পণ্য পাঠানোর খরচ যেখানে এক-তৃতীয়াংশ](https://www.prothomalo.com/business/personal-finance/ocuuu2xnqj). Accessed 23 Nov 2026.
+- <a id="n70"></a>N70. Prothom Alo, 30 May 2025. [গড়ে ৩৭ বছর বয়সে মারা যাচ্ছেন প্রবাসী কর্মীরা: রামরুর সংলাপ](https://www.prothomalo.com/bangladesh/lr4ijw2s4u). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n71"></a>N71. Prothom Alo, 25 Jun 2024. [রেমিট্যান্স–যোদ্ধাদের সম্মান নেই দেশের বিমানবন্দরে](https://www.prothomalo.com/opinion/reaction/naooc5xvrx). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n72"></a>N72. Prothom Alo, 31 Aug 2026. [লস অ্যাঞ্জেলেসে প্রবাসীদের নানা প্রত্যাশার কথা শুনলেন প্রবাসীকল্যাণমন্ত্রী](https://www.prothomalo.com/bangladesh/xr745r2u4c). Accessed 23 Nov 2026.
+- <a id="n73"></a>N73. Prothom Alo, 5 May 2026. [লেবাননে ইসরায়েলি হামলায় নিহত বাংলাদেশি নারী শ্রমিক দিপালীর লাশ বৃহস্পতিবার দেশে আসছে](https://www.prothomalo.com/bangladesh/district/pdoxw4ux5m). Accessed 23 Nov 2026.
+- <a id="n74"></a>N74. Prothom Alo, 30 Sep 2025. [প্রবাসে বাংলাদেশিদের মধ্যে বাড়ছে আত্মহনন প্রবণতা](https://www.prothomalo.com/opinion/letter/g6wu72fsk3). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n75"></a>N75. Prothom Alo, 20 Oct 2026. [প্রবাসী কর্মীদের সন্তানেরা পাবে শিক্ষাবৃত্তি, আবেদনের খুঁটিনাটি জেনে নিন](https://www.prothomalo.com/education/scholarship/4xjbabm8wh). Accessed 23 Nov 2026.
+- <a id="n76"></a>N76. Prothom Alo, 20 Oct 2025. [প্রবাসী কর্মীর মেধাবী সন্তানদের শিক্ষাবৃত্তি, আবেদন শেষ ২৫ নভেম্বর](https://www.prothomalo.com/education/scholarship/b16i9frje9). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n77"></a>N77. Prothom Alo, 2 Jan 2024. [প্রবাসী কর্মীদের সন্তানের জন্য সরকারের শিক্ষাবৃত্তি](https://www.prothomalo.com/education/scholarship/ws1cgs3i1q). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n78"></a>N78. Prothom Alo, 17 Apr 2024. [সন্তান হিসেবে আমাদের অস্বীকার করছেন বিদেশ ফেরত বাবা](https://www.prothomalo.com/lifestyle/8l1c9npxq1). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n79"></a>N79. Prothom Alo, 19 Aug 2026. [বিদেশফেরত কর্মীদের পুনর্বাসনে সমন্বিত উদ্যোগ নিতে হবে](https://www.prothomalo.com/roundtable/q253lpvts1). Accessed 23 Nov 2026.
+- <a id="n80"></a>N80. Prothom Alo, 13 Jun 2025. [চুইঝাল চাষে সাফল্য পেয়ে প্রবাসফেরত শাহ আলম বললেন, ‘আর বিদেশে যাব না’](https://www.prothomalo.com/bangladesh/district/gd2lf12mxu). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n81"></a>N81. Prothom Alo, 23 Sep 2025. [অসময়ের তরমুজ চাষে সফল বিদেশফেরত লোকমান](https://www.prothomalo.com/bangladesh/district/04u2somvtx). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n82"></a>N82. Prothom Alo, 13 Aug 2026. [সমৃদ্ধ বাংলাদেশ বিনির্মাণে মানবসম্পদকে শক্তিতে রূপান্তরের মাধ্যমে জাতীয় আকাঙ্ক্ষা পূরণ সম্ভব](https://www.prothomalo.com/chakri/chakri-suggestion/4t1le1hk4b). Accessed 23 Nov 2026.
+- <a id="n83"></a>N83. Prothom Alo, 28 Apr 2026. [তথ্যপ্রযুক্তি, জ্বালানিসহ বিভিন্ন খাতে বিনিয়োগে প্রবাসীদের প্রতি আহ্বান](https://www.prothomalo.com/bangladesh/97zesnn0z8). Accessed 23 Nov 2026.
+- <a id="n84"></a>N84. Prothom Alo, 3 Jun 2025. [বৈষম্যহীন সমাজের ‘ভিশন’ বাজেটে আসেনি: নাহিদ](https://www.prothomalo.com/politics/q82eul9jqn). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n85"></a>N85. Prothom Alo, 6 Aug 2026. [নারী কর্মীদের বিদেশ যাওয়া কমে যাচ্ছে কেন](https://www.prothomalo.com/opinion/column/pefsw3b8s2). Accessed 23 Nov 2026.

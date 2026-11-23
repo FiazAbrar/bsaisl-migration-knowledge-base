@@ -144,3 +144,7 @@ Independent fact-check, 19 November 2026. About 150 sentences and list items che
 - New H3s: "NID and birth registration" and "Driving licence for driver jobs" (under Passport and police clearance); "Buying the ticket" and "When the flight is disrupted" (under Departure day at the airport). Attestation section gained an apostille explanation and a mygov.bd step list. Rajshahi (Feb 2025 inquiry) and Madaripur (May 2025) passport cases added; Supreme Court advocate's guide added to rights, papers and the offloading complaint steps.
 - Duplicates: Ferdous Ara Rumee's account (D0056, D0057), the High Court rule (D0046, D0047), the 2023 outpass returnees (AA0033), the Mymensingh code racket (OA0050-OA0054), the opinion column on the three women (D0042, D0049).
 - Not used: the Los Angeles migrants' wish list (no fact); the August 2025 note that online attestation predated the interim government (trivia). Wrong doc: TTC/NSDA training counts (FAQ), agency grading plan (agencies), Asif Nazrul's briefing to Oman (Oman).
+
+## Prothom Alo late chunk (lchunk-departure, 2 articles), agent GD
+
+Added facts GD0163-GD0173. Buying the ticket: the April 2025 editorial's tax comparison (airlines' figures), travel tax, the 80% migrant share of passengers, two workers' return fares and ATAB's call for monitoring. The passport office: the Narayanganj office's burning on 18 July 2024 (8,000+ passports and police papers lost), the nine months of applicants sent to Keraniganj, Narsingdi and Munshiganj, and its reopening on 4 May 2025.

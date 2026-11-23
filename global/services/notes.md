@@ -77,3 +77,12 @@ Not used: H-services-13/14 (BOESL Turkey textile jobs, Tk 56,350 pay order: belo
 - "RACE" vs RAISE: the 13 Oct 2026 report spells the project রেস ("Race"); the government's returnee project is RAISE (রেইজ in the May 2026 report), which the departure doc describes. Probably the same World Bank-funded project, but no source says so; the doc keeps the report's name in quotes.
 - Iran hotlines (June 2025): the article prints the Tehran embassy's first number with 13 digits (+98 9908 5777 368), likely a misprint; the numbers were for a past crisis, so none are printed in the doc.
 - Burial grant: the April 2026 Tarek case confirms the Board paid Tk 35,000 for burial in 2026 (GV0286). The FAQ's Need to know (Tk 35,000 or Tk 25,000) is in another folder; flagged in the output, not edited.
+
+## Prothom Alo late chunk (lchunk-services, 7 articles, 2024 to Dec 2025) and held2-services (3 items), agent GV
+
+Added facts GV0319-GV0324, GV0326-GV0358 (GV0325 was a duplicate of GV0322 and was removed). New sections: Ami Probashi: CV builder and online doctors (Before you go); Passports and NIDs from abroad and Sending parcels by post (While abroad). Added: the Wage Earners' Centre's Tk 200 stay (airport lounge section); the Beirut embassy's special service week around National Expatriates' Day (While abroad); the Lebanon evacuation of October 2024 (In a war or disaster); Dipali Begum's body and the Faridpur centre's account of the ambulance and grants (If a worker dies abroad). The Probashi card status lines now give the 5 September 2026 report date, matching the money doc.
+
+## Resolved conflicts (late chunk)
+
+- Wage Earners' Centre price: the May 2024 video's headline says Tk 300, its text says Tk 200 a day. The text is the specific statement; the doc gives Tk 200 and cites the text. The FAQ's booking line (wec.wewb.gov.bd) is linked rather than repeated.
+- Parcel times: the December 2025 report gives the cheaper Tk 2,400 figure for EMS but also says EMS is the faster, slightly dearer option and air parcels take 15 to 20 days. The doc reports both as printed and attributes the Tk 2,580 total to EMS, as the article does; no Need to know, since the 2022 air-parcel rate list gives the per-country prices.
