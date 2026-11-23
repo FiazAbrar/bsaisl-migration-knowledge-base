@@ -4,7 +4,7 @@
 
 Sources checked up to 23 Nov 2026.
 
-How Bangladeshis go to the United Kingdom (UK), visa by visa, as of November 2026. A raised number such as 3 is an official source; N3 is a news, NGO (non-governmental organisation), research or guide source, listed under "Needs an official source"; a year, like N3 (2022), marks a source older than 2025. This first version is built only from Prothom Alo reporting (2024 to November 2026), so every fact in it is cited as N and still needs an official source. "Need to know" marks a point no source has yet confirmed.
+How Bangladeshis go to the United Kingdom (UK), visa by visa, as of November 2026. A raised number such as 3 is an official source; N3 is a news, NGO (non-governmental organisation), research or guide source, listed under "Needs an official source"; a year, like N3 (2022), marks a source older than 2025. This first version is built only from Prothom Alo reporting (2024 to October 2026), so every fact in it is cited as N and still needs an official source. "Need to know" marks a point no source has yet confirmed.
 
 <a id="contents"></a>
 
@@ -55,7 +55,7 @@ How Bangladeshis go to the United Kingdom (UK), visa by visa, as of November 202
 
 ### 1.1 In one minute
 
-In this reporting Bangladeshis reach the UK mainly as students, and some come on student, visit or work visas and then claim asylum: about 11,000 did so in 2023, and 95% of those claims were refused <sup>[N1 (2024)](#n1)</sup>. Since May 2024 a UK-Bangladesh agreement lets the UK send back refused asylum seekers, offenders and overstayers by a fast-track procedure <sup>[N1 (2024)](#n1)</sup>. Since 1 June 2026 the UK has tightened its test of universities whose foreign students are refused visas, and in response at least 42 UK institutions have closed or limited admission for Bangladeshi students, 20 of them for students from the Sylhet region in particular <sup>[N2](#n2)</sup>. Using a forged document or an illegal route to reach the UK brings a 10-year ban on entering <sup>[N3](#n3), [N4](#n4)</sup>. A UK work visa, including for care work, needs a certificate of sponsorship from a registered employer, which costs the worker nothing; brokers inside the UK sold fake certificates to foreign students for up to £17,000 each <sup>[N5 (2024)](#n5)</sup>. Advisers also sell made-up asylum stories, and in October 2026 the Home Office raided a ring it suspects was linked to a Bangladeshi LGBT group in east London; status gained by fraud can be revoked and asylum fraud carries up to 10 years in prison <sup>[N6](#n6), [N7](#n7)</sup>.
+About 11,000 Bangladeshis who came to the UK on student, visit or work visas claimed asylum in 2023, and the UK refused 95% of those claims <sup>[N1 (2024)](#n1)</sup>. Since May 2024 a UK-Bangladesh agreement lets the UK send back refused asylum seekers, offenders and overstayers by a fast-track procedure <sup>[N1 (2024)](#n1)</sup>. Since 1 June 2026 the UK has tightened its test of universities whose foreign students are refused visas, and in response at least 42 UK institutions have closed or limited admission for Bangladeshi students, 20 of them for students from the Sylhet region in particular <sup>[N2](#n2)</sup>. Using visa fraud or an illegal route to reach the UK brings a 10-year travel ban, the British High Commissioner in Dhaka said in November 2025 <sup>[N3](#n3), [N4](#n4)</sup>. A UK work visa, including for care work, needs a certificate of sponsorship from a registered employer, which costs the worker nothing; brokers inside the UK sold fake certificates to foreign students for up to £17,000 each, and one network charged £10,000 to £20,000 per applicant, the BBC reported in 2024 <sup>[N5 (2024)](#n5)</sup>. Advisers also sell made-up asylum stories, the BBC reported in April 2026, and in October 2026 UK immigration officers raided a ring that investigators suspect was linked to a Bangladeshi LGBT (lesbian, gay, bisexual and transgender) group in east London; status gained by fraud can be revoked and proven asylum fraud carries up to 10 years in prison <sup>[N6](#n6), [N7](#n7)</sup>.
 
 <a id="is-it-open-now-and-who-can-go"></a>
 
@@ -68,7 +68,7 @@ Open to students who get past a university's checks and the visa decision, but a
 #### 1.2.1 Status
 
 - **16 May 2024:** the UK and Bangladesh signed an agreement for the return of Bangladeshis staying in the UK irregularly (see [Removal to Bangladesh](#removal-to-bangladesh)) <sup>[N8 (2024)](#n8), [N1 (2024)](#n1)</sup>.
-- **June-July 2024:** before the general election, Labour leader Keir Starmer said his government would send so-called illegal migrants back soon after taking power, naming Bangladeshis as an example, and that he would scrap the Conservative government's Rwanda policy <sup>[N9 (2024)](#n9), [N10 (2024)](#n10)</sup>. Labour won the election that month, ending 14 years of Conservative government <sup>[N11 (2024)](#n11)</sup>.
+- **June-July 2024:** before the general election, Labour leader Keir Starmer said his government would send so-called illegal migrants back soon after taking power, naming Bangladeshis as an example, and that he would scrap the Conservative government's Rwanda policy <sup>[N9 (2024)](#n9), [N10 (2024)](#n10)</sup>. Labour won the election in July 2024, ending 14 years of Conservative government <sup>[N11 (2024)](#n11)</sup>.
 - **15 July 2025:** student visas for Bangladeshis became e-visas, with no sticker in the passport (see [Step 3: Set up your e-visa before you fly](#step-3-set-up-your-e-visa-before-you-fly)) <sup>[N12](#n12)</sup>.
 - **November 2025:** the UK was preparing a major change to its asylum and immigration policy, modelled on Denmark's <sup>[N13](#n13)</sup>.
 - **25 November 2025:** the British High Commissioner in Dhaka announced a 10-year travel ban for anyone using visa fraud or an illegal route (see [Visa fraud and the 10-year ban](#visa-fraud-and-the-10-year-ban)) <sup>[N3](#n3)</sup>.
@@ -80,7 +80,7 @@ Open to students who get past a university's checks and the visa decision, but a
 
 #### 1.2.2 The channels
 
-- **Student visa:** the main route in this reporting (see [Student visa](#student-visa)) <sup>[N2](#n2)</sup>.
+- **Student visa:** sponsored by a UK university, which can withdraw its offer (see [Student visa](#student-visa)) <sup>[N2](#n2)</sup>.
 - **Skilled Worker visa, including care work:** needs a certificate of sponsorship from a registered UK employer (see [Care-worker and Skilled Worker visa](#care-worker-and-skilled-worker-visa)) <sup>[N5 (2024)](#n5)</sup>.
 - **Scholarships:** Commonwealth, GREAT and Women in STEM scholarships fund a small number of Bangladeshis for postgraduate study (see [Scholarships](#scholarships)) <sup>[N14 (2024)](#n14), [N15](#n15), [N16](#n16)</sup>.
 - **Asylum after arriving on another visa:** about 11,000 Bangladeshis in 2023, almost all refused (see [Asylum](#asylum)) <sup>[N1 (2024)](#n1)</sup>.
@@ -97,7 +97,7 @@ Open to students who get past a university's checks and the visa decision, but a
 
 - **British Bangladeshis:** 451,529 Bangladeshis lived in Britain as British citizens according to the 2011 government statistics, 52% of them born in Britain, three North South University researchers wrote <sup>[N8 (2024)](#n8)</sup>.
 - **Asylum claims:** about 11,000 Bangladeshis in 2023 <sup>[N1 (2024)](#n1)</sup>.
-- **Commonwealth Scholarships:** 1,867 Bangladeshis since 1960, 26 in 2024 <sup>[N14 (2024)](#n14)</sup>.
+- **Commonwealth Scholarships:** 1,867 Bangladeshis since 1960 (scholarships or fellowships), 26 in 2024 <sup>[N14 (2024)](#n14)</sup>.
 - **Remittance:** see Sending money home <sup>[N8 (2024)](#n8)</sup>.
 
 > **Need to know**
@@ -107,7 +107,7 @@ Open to students who get past a university's checks and the visa decision, but a
 
 ### 1.3 How a job reaches you, and who takes a cut
 
-For students, the way in is a university's admission, often through a student-recruitment agency; the university, not the agency, issues the CAS (Confirmation of Acceptance for Studies, the reference a student needs to apply for the visa) and can withdraw it (see [Step 2: Apply for the visa](#step-2-apply-for-the-visa)) <sup>[N4](#n4), [N2](#n2)</sup>. Gangs promise a guaranteed visa for extra fees, a job without the right qualifications, or fast processing, and the result is lost money, refusal, a travel ban or trafficking, the British High Commission said <sup>[N3](#n3)</sup>. Leading UK universities want access to UKVI's data on recruitment agents' behaviour <sup>[N4](#n4)</sup>. For work visas the root is the certificate of sponsorship: only a registered employer can issue one, and the worker pays nothing for it, but brokers posing as recruitment agents sold fake ones for £10,000 to £20,000 each (see [Care-worker and Skilled Worker visa](#care-worker-and-skilled-worker-visa)) <sup>[N5 (2024)](#n5)</sup>. For promises that a student can work freely, see "Student visas used as work routes" in the Illegal routes doc.
+For students, the way in is a university's admission, often through a student-recruitment agency; the university, not the agency, issues the CAS (Confirmation of Acceptance for Studies, the reference a student needs to apply for the visa) and can withdraw it (see [Step 2: Apply for the visa](#step-2-apply-for-the-visa)) <sup>[N4](#n4), [N2](#n2)</sup>. Gangs promise a guaranteed visa for extra fees, a job without the right qualifications, or fast processing, and the result is lost money, refusal, a travel ban or trafficking, the British High Commission said <sup>[N3](#n3)</sup>. Leading UK universities want access to UKVI's data on recruitment agents' behaviour <sup>[N4](#n4)</sup>. For work visas the root is the certificate of sponsorship: only a registered employer can issue one, and the worker pays nothing for it, but brokers acting as recruitment agents sold fake ones to foreign students for up to £17,000 each, and one network charged £10,000 to £20,000 per applicant, the BBC reported (see [Care-worker and Skilled Worker visa](#care-worker-and-skilled-worker-visa)) <sup>[N5 (2024)](#n5)</sup>. For promises that a student can work freely, see "Student visas used as work routes" in the Illegal routes doc.
 
 > **Need to know**
 > - What do Dhaka and Sylhet student-recruitment agencies charge students, and how much do UK universities pay them per student?
@@ -117,10 +117,10 @@ For students, the way in is a university's admission, often through a student-re
 
 ### 1.4 What you pay, and what you earn and keep
 
-Tighter admission, rising tuition fees, the taka's fall against the pound, and higher housing and visa costs in the UK put heavy financial pressure on students, and many now choose other countries, Global Admission's student adviser for the Sylhet region said in October 2026 <sup>[N2](#n2)</sup>.
+Tighter admission, rising tuition fees, the taka's fall against the pound, and higher housing and visa costs in the UK put heavy financial pressure on students, and many now choose other countries, the Sylhet-region student adviser at Global Admission, a UK student-recruitment firm, said in October 2026 <sup>[N2](#n2)</sup>.
 
-- **Certificate of sponsorship for a work visa:** free to the worker; victims of the care-visa fraud paid £8,000 to £17,000 for fake ones (see [Fake sponsorship certificates](#fake-sponsorship-certificates)) <sup>[N5 (2024)](#n5)</sup>.
-- **Made-up asylum evidence:** investigators allege the ring raided in October 2026 charged £1,000 to £4,500 per claimant; a BBC investigation found one firm charging up to £7,000 for a fake claim (see [False asylum stories and the advisers who sell them](#false-asylum-stories-and-the-advisers-who-sell-them)) <sup>[N7](#n7)</sup>.
+- **Certificate of sponsorship for a work visa:** free to the worker; victims of the care-visa fraud reported by the BBC paid from £8,000 to as much as £20,000 for fake ones (see [Fake sponsorship certificates](#fake-sponsorship-certificates)) <sup>[N5 (2024)](#n5)</sup>.
+- **Made-up asylum evidence:** investigators allege the ring raided in October 2026 charged £1,000 to £4,500 per claimant; a BBC investigation reported allegations that one firm charged up to £7,000 for a fake claim (see [False asylum stories and the advisers who sell them](#false-asylum-stories-and-the-advisers-who-sell-them)) <sup>[N7](#n7)</sup>.
 
 > **Need to know**
 > - What are the UK student visa fee, the Immigration Health Surcharge and the money a student must show in the bank in 2026?
@@ -150,7 +150,7 @@ The reported problems are university offers withdrawn from Bangladeshi students,
 
 - **"Claim asylum once you are in."** About 95% of the claims made by Bangladeshis in 2023 were refused, and refused claimants are now returned under the 2024 agreement <sup>[N1 (2024)](#n1)</sup>.
 - **"Pay extra and the visa is guaranteed."** The High Commission says such promises come from criminal gangs and end in refusal, a travel ban or worse <sup>[N3](#n3)</sup>.
-- **"A sponsorship certificate has to be bought."** The worker pays nothing for a certificate of sponsorship; paid-for certificates in the BBC's investigation were mostly fake and were cancelled by the Home Office <sup>[N5 (2024)](#n5)</sup>.
+- **"A sponsorship certificate has to be bought."** The worker pays nothing for a certificate of sponsorship; in one network the BBC investigated, 86 of 141 paid-for certificates were fake and refused by the Home Office <sup>[N5 (2024)](#n5)</sup>.
 - **"A paid adviser can make an asylum story work."** The Home Office is re-examining more than a hundred claims linked to one suspected ring, status gained by fraud can be revoked, and asylum fraud carries up to 10 years in prison <sup>[N7](#n7)</sup>.
 - **"A university offer means you will go."** Universities have withdrawn offers and sponsorship from Bangladeshi students, including after a UKVI interview call <sup>[N2](#n2)</sup>.
 
@@ -165,7 +165,7 @@ The reported problems are university offers withdrawn from Bangladeshi students,
 
 ## 2 Student visa
 
-The student visa is the main legal route in this reporting, and it is getting harder for Bangladeshis <sup>[N2](#n2)</sup>. In the first six months of 2026 the rate reported for Bangladeshi students' visa applications rose to 23.5% from 7.1% a year earlier, the second highest after Pakistan, according to the Financial Times' analysis of Home Office data; across all countries it rose from 2.3% to 10.5% <sup>[N2](#n2)</sup>.
+The student visa is getting harder for Bangladeshis to get, as universities withdraw offers to avoid losing their sponsor licence <sup>[N2](#n2)</sup>. In the first six months of 2026 the rate reported for Bangladeshi students' visa applications rose to 23.5% from 7.1% a year earlier, the second highest after Pakistan, according to the Financial Times' analysis of Home Office data; across all countries it rose from 2.3% to 10.5% <sup>[N2](#n2)</sup>.
 
 > **Need to know**
 > - Is the 23.5% figure for Bangladeshi students the share of applications refused or withdrawn? Prothom Alo calls it a withdrawal rate in a report about refusals.
@@ -174,7 +174,7 @@ The student visa is the main legal route in this reporting, and it is getting ha
 
 ### 2.1 Why universities are turning Bangladeshis away
 
-Since 1 June 2026 UKVI's Basic Compliance Assessment (its yearly test of universities that sponsor foreign students) allows a university a student visa refusal rate below 5%, down from below 10% <sup>[N2](#n2)</sup>. At least 95% of students who get a visa must enrol, up from 90%, and the course completion rate must reach 90% from June 2027, up from 85% <sup>[N2](#n2)</sup>. Universities are withdrawing offers to students from Bangladesh, Pakistan, Nigeria and some other countries to avoid losing their sponsor licence <sup>[N2](#n2)</sup>. The Home Office says universities must choose students more responsibly <sup>[N2](#n2)</sup>.
+Since 1 June 2026 UKVI's Basic Compliance Assessment (its test of universities that sponsor foreign students) allows a university a student visa refusal rate below 5%, down from below 10% <sup>[N2](#n2)</sup>. At least 95% of students who get a visa must enrol, up from 90%, and the course completion rate must reach 90% from June 2027, up from 85% <sup>[N2](#n2)</sup>. Universities are withdrawing offers to students from Bangladesh, Pakistan, Nigeria and some other countries to avoid losing their sponsor licence <sup>[N2](#n2)</sup>. The Home Office says universities must choose students more responsibly <sup>[N2](#n2)</sup>.
 
 Two lists from student-recruitment agencies reviewed by Prothom Alo in October 2026 show restrictions on Bangladeshi students at at least 42 UK institutions <sup>[N2](#n2)</sup>:
 
@@ -192,7 +192,7 @@ The University of East Anglia also said it had started withdrawing offers to stu
 ### 2.2 Step 1: Get an offer and a CAS
 
 1. Apply to a university and get an offer; the university then issues the CAS (Confirmation of Acceptance for Studies) <sup>[N4](#n4)</sup>.
-2. Expect the university to check everything before it issues the CAS. Russell Group universities (an association of 24 leading UK universities) add an extra approval step and a mandatory review by a second person <sup>[N4](#n4)</sup>. They check:
+2. Russell Group universities (an association of 24 leading UK universities) check applications before they issue the CAS, with an extra approval step and a mandatory review by a second person <sup>[N4](#n4)</sup>. They check:
    - **academic certificates** directly with the institution that issued them <sup>[N4](#n4)</sup>;
    - **English test results** with the test provider <sup>[N4](#n4)</sup>;
    - **bank and financial documents** through the bank and third-party verification <sup>[N4](#n4)</sup>.
@@ -207,7 +207,7 @@ The University of East Anglia also said it had started withdrawing offers to stu
 ### 2.3 Step 2: Apply for the visa
 
 1. Apply for the student visa with the CAS <sup>[N2](#n2)</sup>.
-2. You may be called for an interview by UKVI. In the September 2026 intake many students of the recruitment firm Global Admission were called; once the university learned of the interview it reassessed the application and withdrew its sponsorship, which happened to about 20 of the firm's students <sup>[N2](#n2)</sup>. The firm's consultant claimed several hundred students from Bangladesh faced the same in that intake <sup>[N2](#n2)</sup>.
+2. You may be called for an interview by UKVI. In the September 2026 intake many of Global Admission's students were called, the firm's consultant said; once the university was told of the interview it reassessed the application and withdrew its sponsorship, which happened to about 20 of the firm's students <sup>[N2](#n2)</sup>. The firm's consultant claimed several hundred students from Bangladesh faced the same in that intake <sup>[N2](#n2)</sup>.
 
 > **Need to know**
 > - Where is the UK visa application centre in Dhaka (and in Sylhet), what does the visa cost, and how long does a decision take?
@@ -225,7 +225,7 @@ Since 15 July 2025 Bangladeshi students get an e-visa, a digital record of the v
 3. Carry a printed or digital copy of the e-visa approval letter to show at the airport or at immigration <sup>[N12](#n12)</sup>.
 4. If you get a new passport, update its details in your UKVI profile <sup>[N12](#n12)</sup>.
 
-**Pre-departure briefing:** the British Council holds an online "Study UK Pre-departure Briefing" for Bangladeshi students with UK offers; in 2025 it ran on 29 July from 3:30 to 5:30 pm <sup>[N17](#n17)</sup>. UKVI officers give the latest on the visa process and take questions, alongside universities, BUILA (the British Universities International Liaison Association) and current students and graduates <sup>[N17](#n17)</sup>. It covers packing, budgeting, travel and settling in, and how to use UK health care, insurance and mental health support <sup>[N17](#n17)</sup>. Students register through a link in the announcement and get joining details by email <sup>[N17](#n17)</sup>.
+**Pre-departure briefing:** the British Council holds an online "Study UK Pre-departure Briefing" for Bangladeshi students with UK offers; in 2025 it ran on 29 July from 3:30 to 5:30 pm <sup>[N17](#n17)</sup>. UKVI representatives give the latest on the visa process and take questions, alongside universities and BUILA (the British Universities International Liaison Association) <sup>[N17](#n17)</sup>. It covers packing, budgeting, travel and settling in, and how to use UK health care, insurance and mental health support <sup>[N17](#n17)</sup>. Students register through a link in the announcement and get joining details by email <sup>[N17](#n17)</sup>.
 
 > **Need to know**
 > - What is the web address for creating the UKVI account, and what does an airline at Dhaka airport ask to see for a student with an e-visa?
@@ -251,7 +251,7 @@ Three UK scholarship schemes reported for Bangladeshis pay for postgraduate stud
 
 #### 2.6.1 Commonwealth Scholarship
 
-Commonwealth Scholarships pay for Bangladeshis to study for a master's degree at UK universities, funded by the UK government through the Commonwealth Scholarship Commission (CSC) <sup>[N14 (2024)](#n14)</sup>. 26 Bangladeshis won one in 2024, for universities including Oxford, Cambridge, SOAS (University of London), Warwick and Edinburgh; 1,867 have received one since 1960 <sup>[N14 (2024)](#n14)</sup>. Every scheme is highly competitive and needs an outstanding academic record <sup>[N14 (2024)](#n14)</sup>. In 2024 the British Council held a pre-departure briefing for the year's scholars at the British High Commissioner's residence, with essential information on studying in the UK <sup>[N14 (2024)](#n14)</sup>.
+Commonwealth Scholarships, funded by the UK government through the Commonwealth Scholarship Commission (CSC), pay for Bangladeshis to study at UK universities; the 2024 awards were for master's degrees <sup>[N14 (2024)](#n14)</sup>. 26 Bangladeshis won one in 2024, for universities including Oxford, Cambridge, SOAS (University of London), Warwick and Edinburgh; 1,867 have received a Commonwealth Scholarship or Fellowship since 1960 <sup>[N14 (2024)](#n14)</sup>. Every scheme is highly competitive and needs an outstanding academic record <sup>[N14 (2024)](#n14)</sup>. In 2024 the British Council held a pre-departure briefing for the year's scholars at the British High Commissioner's residence, with essential information on studying in the UK <sup>[N14 (2024)](#n14)</sup>.
 
 **PhD for public university teachers:** in August 2024 the scheme invited full-time faculty members of Bangladesh's public universities to apply for a UK PhD <sup>[N19 (2024)](#n19)</sup>. The themes were science and technology for development; health systems and capacity; global development; global peace, security and governance; resilience and response to crises; and access, inclusion and opportunity <sup>[N19 (2024)](#n19)</sup>. Applicants needed an upper second-class (2:1) honours degree or equivalent CGPA, or a lower second (2:2) plus a relevant postgraduate or master's degree <sup>[N19 (2024)](#n19)</sup>.
 
@@ -289,7 +289,7 @@ Anyone who uses visa fraud or an illegal route to go from Bangladesh to the UK g
 
 **Red flags the High Commission names:** a guaranteed visa for an extra fee; a job without the right qualifications; fast processing <sup>[N3](#n3)</sup>.
 
-**Frauds the UK has cracked down on before:** English test fraud, student visas through fake colleges, sham marriages for residence, fake job sponsorship and fake documents or financial information <sup>[N6](#n6)</sup>. The Home Office says anyone who seeks an immigration benefit with false information will have the application refused and may be removed <sup>[N6](#n6)</sup>.
+**Abuses of the UK system exposed before:** English test fraud, student visas through fake colleges, sham marriages for residence, fake job sponsorship and fake documents or financial information <sup>[N6](#n6)</sup>. The Home Office says anyone who seeks an immigration benefit with false information will have the application refused and may be removed <sup>[N6](#n6)</sup>.
 
 <a id="care-worker-and-skilled-worker-visa"></a>
 
@@ -305,13 +305,13 @@ To apply for a UK work visa, the Skilled Worker visa included, a worker needs a 
 
 ### 3.1 Fake sponsorship certificates
 
-In 2024 the BBC found that brokers acting as recruitment agents sold fake work-visa papers to students already in the UK who wanted care jobs, taking up to £17,000 (Tk 26.7 lakh) each <sup>[N5 (2024)](#n5)</sup>. The students found out when they applied for the Skilled Worker visa and the Home Office cancelled the papers <sup>[N5 (2024)](#n5)</sup>. The named cases are Indian students:
+In 2024 the BBC found that brokers acting as recruitment agents sold fake work-visa papers to students already in the UK who wanted care jobs, taking up to £17,000 (Tk 26.7 lakh) each <sup>[N5 (2024)](#n5)</sup>. The students found out when they applied for the Skilled Worker visa and the Home Office cancelled the papers <sup>[N5 (2024)](#n5)</sup>. The named cases are a broker's network and two Indian students:
 
 - **Taimur Raza's network:** Raza, a Pakistani national based in Wolverhampton and Birmingham, supplied one agency with papers for 141 applicants at £10,000 to £20,000 each, about £1.2 million, sent as PDFs on WhatsApp, the BBC reported <sup>[N5 (2024)](#n5)</sup>. 86 of the 141 were fake and refused; 55 applicants got visas, but the care homes named as sponsors said they had no record of them <sup>[N5 (2024)](#n5)</sup>. Raza called the allegations false and one-sided and has been in Pakistan since December 2023; a Sikh advice centre said he had repaid students £258,000 and that it had passed the case to the National Crime Agency <sup>[N5 (2024)](#n5)</sup>.
 - **Nadia, 21:** paid a broker £8,000 of a £10,000 fee and after six months got papers for a care home in Walsall; when she phoned the care home it said it had issued no certificate and had no vacancy, and the broker blocked her number <sup>[N5 (2024)](#n5)</sup>.
 - **Neela:** paid a training provider in Wolverhampton £15,000 to switch her student visa to a care-worker visa; its staff showed her emails, letters and copies of visas to look genuine, and the Home Office later cancelled her certificate as fake <sup>[N5 (2024)](#n5)</sup>.
 
-Victims who tried to stay on legally now risk being sent home <sup>[N5 (2024)](#n5)</sup>. Most did not go to the police for fear of the Home Office, said Luke Piper of the Work Rights Centre, a UK charity; many went instead to Sikh gurdwaras in the West Midlands, whose members recovered money for some <sup>[N5 (2024)](#n5)</sup>.
+Victims who tried to stay on legally now risk being sent home <sup>[N5 (2024)](#n5)</sup>. Most did not go to the police for fear of the Home Office, said Luke Piper, head of immigration at the Work Rights Centre; many went instead to Sikh gurdwaras in the West Midlands, whose members recovered money for some <sup>[N5 (2024)](#n5)</sup>.
 
 <a id="asylum"></a>
 
@@ -337,7 +337,7 @@ Some advisers sell made-up asylum and settlement cases, the BBC reported in Apri
 
 **The Aponjon raids:** on 6 October 2026 immigration officers raided several places in London and arrested three people, including a Bangladeshi singer, who was bailed and denies the allegation, and seized phones, jewellery and several thousand pounds in cash <sup>[N7](#n7)</sup>. Investigators suspect a ring linked to Aponjon, a Bangladeshi LGBT group in east London, sold fake attestation letters, staged photos and invented letters about same-sex relationships for £1,000 to £4,500 <sup>[N7](#n7)</sup>. Officers had noticed unusual similarities between applications, and the Home Office is re-examining more than a hundred claims that may be linked <sup>[N7](#n7)</sup>. Claims citing sexual orientation by Bangladeshis numbered 148 in 2018 and 175 in 2023, by Home Office figures that do not show whether they were false <sup>[N7](#n7)</sup>.
 
-**What happens:** Home Secretary Shabana Mahmood announced tough action against these rings; status gained by fraud can be revoked, and proven asylum fraud carries up to 10 years in prison <sup>[N7](#n7)</sup>. Downing Street said the people named by the BBC were under investigation <sup>[N6](#n6)</sup>. Regulators warn that only registered, authorised immigration advisers should be used <sup>[N6](#n6)</sup>. A UK immigration lawyer, Monowar Hossain, said unregistered advisers push false information for money, some working under the cover of authorised lawyers, and that many applicants spend large sums and still fail <sup>[N6](#n6)</sup>.
+**What happens:** Home Secretary Shabana Mahmood announced tough action against these rings; status gained by fraud can be revoked, and proven asylum fraud carries up to 10 years in prison <sup>[N7](#n7)</sup>. In April 2026, after the BBC's investigation, Downing Street said the people named in its report were under investigation <sup>[N6](#n6)</sup>. Regulators warn that only registered, authorised immigration advisers should be used <sup>[N6](#n6)</sup>. A UK immigration lawyer, Monowar Hossain, said unregistered advisers push false information for money, some working under the cover of authorised lawyers, and that many applicants spend large sums and still fail <sup>[N6](#n6)</sup>.
 
 > **Need to know**
 > - Where does someone check that a UK immigration adviser is registered (the regulator's name and register)?
@@ -350,7 +350,7 @@ Some advisers sell made-up asylum and settlement cases, the BBC reported in Apri
 
 ### 5.1 Crossing the Channel
 
-Researchers wrote in May 2024 that a large part of the Bangladeshis who entered Italy irregularly in 2023 then tried to reach the UK across the English Channel, and many of those who entered irregularly claimed asylum <sup>[N8 (2024)](#n8)</sup>. The Bangladesh High Commission told Keir Starmer in 2024 that no Bangladeshi had entered the UK illegally by boat and that Bangladesh was not among the top 20 countries of irregular migrants <sup>[N9 (2024)](#n9)</sup>. For the route to Italy, see "Libya to Italy by boat" in the Illegal routes doc.
+Researchers wrote in May 2024 that a large part of the Bangladeshis who entered Italy irregularly recently tried to reach the UK across the English Channel, and many of those who entered irregularly claimed asylum <sup>[N8 (2024)](#n8)</sup>. The Bangladesh High Commission told Keir Starmer in 2024 that no Bangladeshi had entered the UK illegally by boat and that Bangladesh was not among the top 20 countries of irregular migrants <sup>[N9 (2024)](#n9)</sup>. For the route to Italy, see "Libya to Italy by boat" in the Illegal routes doc.
 
 > **Need to know**
 > - How many Bangladeshis arrived in the UK by small boat in 2024 to 2026, according to Home Office statistics?
@@ -359,7 +359,7 @@ Researchers wrote in May 2024 that a large part of the Bangladeshis who entered 
 
 ### 5.2 Removal to Bangladesh
 
-Under the agreement signed on 16 May 2024, the UK sends back by a fast-track procedure Bangladeshis whose asylum claims are refused, foreign offenders, and people whose visas have expired <sup>[N8 (2024)](#n8), [N1 (2024)](#n1)</sup>. Where the evidence for removal is strong, people can be returned without the interview that used to be mandatory <sup>[N1 (2024)](#n1)</sup>. Labour said in June 2024 that its returns policy covers people with no legal right to stay in the UK, not British Bangladeshis, and that Bangladesh was named only because of the agreement <sup>[N10 (2024)](#n10)</sup>. The agreement came out of the first UK-Bangladesh joint working group on home affairs, which also committed to keep legal migration open through existing visa routes <sup>[N1 (2024)](#n1)</sup>. The UK government had also agreed to send a large share of irregular arrivals to Rwanda while their cases ran in the UK; in May 2024 it was not known whether Bangladeshis would be among them <sup>[N8 (2024)](#n8)</sup>.
+Under the agreement signed on 16 May 2024, the UK sends back by a fast-track procedure Bangladeshis whose asylum claims are refused, foreign offenders, and people whose visas have expired <sup>[N8 (2024)](#n8), [N1 (2024)](#n1)</sup>. Where the evidence for removal is strong, people can be returned without the interview that used to be mandatory <sup>[N1 (2024)](#n1)</sup>. Labour said in June 2024 that its returns policy covers people with no legal right to stay in the UK, not British Bangladeshis, and that Bangladesh was named only because of the agreement <sup>[N10 (2024)](#n10)</sup>. The agreement came out of the first UK-Bangladesh joint working group on home affairs, which also committed to keep legal migration open through existing visa routes <sup>[N1 (2024)](#n1)</sup>. The UK government had also agreed with Rwanda to send a large share of irregular arrivals there while their cases ran in the UK, and it was not known whether Bangladeshis would be among them, the North South University researchers wrote in May 2024 <sup>[N8 (2024)](#n8)</sup>.
 
 > **Need to know**
 > - How many Bangladeshis has the UK returned under the 2024 agreement, by year, and did the Labour government scrap the Rwanda plan as Starmer pledged in June 2024?
