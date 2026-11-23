@@ -4,7 +4,7 @@ The government, BRAC and other services that help people before they go, while t
 
 ## In one minute
 
-Most of the state's help for migrants comes from two bodies funded by migrants themselves. The Wage Earners' Welfare Board runs on a fund formed from migrants' own money, and it provided 95% of the capital of Probashi Kallyan Bank (PKB), the government bank for migrants [GV0020, GV0003]. PKB lends up to Tk 3 lakh to go abroad at 9% simple interest, with no property mortgaged, and if the borrower dies the rest of the loan is written off [GV0005, GV0011, GV0041]. Since 3 December 2025 a worker can apply for it online on MyGov, the government's service portal; more than 10,000 had applied by November 2026, and approval was taking 3 to 4 days, according to a press release from the government's a2i programme [GV0258, GV0259]. Since late 2025 PKB also lends up to Tk 10 lakh at 11% for a language or skills course abroad, and by October 2026 Bangladesh Bank had launched a Tk 1,000 crore scheme through PKB that lends workers up to Tk 10 lakh, without collateral and at no more than 9%, for language or skills training in the destination country [GV0152, GV0153, GV0236, GV0238, GV0240]. The TTCs (technical training centres) of BMET (Bureau of Manpower, Employment and Training) teach languages from Japanese to Arabic and Portuguese, though a Cornell University language-centre coordinator estimated that only about 2,500 of some 13 lakh workers who went abroad in a year had learned a language at a government centre [GV0172, GV0199, GV0183]. The Welfare Board's desk at the airport checks clearances on the way out, receives the sick and the dead on the way back, and pays the burial grant [GV0019, GV0023]. At home, the Board pays scholarships to migrants' children and a monthly allowance for a disabled child, for workers who left with BMET clearance or joined the Board, and for workers who died and whose family got its grant [GV0028, GV0037]. On one day in April 2025 the Board handed 103 people Tk 1 crore 93 lakh in grants, scholarships, insurance and other help, and said it had given Tk 273 crore 81 lakh to 12,158 people during the interim government's term [GV0123, GV0127]. Abroad, a worker in some Gulf countries, South Korea or Italy can finish SSC, HSC or a degree through Bangladesh Open University via the embassy [GV0055, GV0061, GV0064]. In March 2024 the state minister promised welfare cells to take services to the grassroots, and an NGO project, Helvetas's SIMS, worked in 23 upazilas of three districts [GV0089, GV0090]. The 2026-27 budget announced a Probashi card to make government services and welfare benefits easier to get, with Biman ticket and lounge discounts promised to holders, and "Bangladesh Support Centres" at embassies to rescue workers in jail or cheated and give them legal help; on 30 August 2026 the minister said the card was still to be finalised, and in early September 2026 it had not been introduced and was still being prepared [GV0213, GV0216, GV0208, GV0209, GV0230, GV0234, GV0235]. A women's advocacy group, CWCS, says some returnee women are not taken back by their husbands or families, and in 2024 it asked for guarantor-free loans and free legal help for them [GV0075, GV0093, GV0092].
+Most of the state's help for migrants comes from two bodies funded by migrants themselves. The Wage Earners' Welfare Board runs on a fund formed from migrants' own money, and it provided 95% of the capital of Probashi Kallyan Bank (PKB), the government bank for migrants [GV0020, GV0003]. PKB lends up to Tk 3 lakh to go abroad at 9% simple interest, with no property mortgaged, and if the borrower dies the rest of the loan is written off [GV0005, GV0011, GV0041]. Since 3 December 2025 a worker can apply for it online on MyGov, the government's service portal; more than 10,000 had applied by November 2026, and approval was taking 3 to 4 days, according to a press release from the government's a2i programme [GV0258, GV0259]. Since late 2025 PKB also lends up to Tk 10 lakh at 11% for a language or skills course abroad, and by October 2026 Bangladesh Bank had launched a Tk 1,000 crore scheme through PKB that lends workers up to Tk 10 lakh, without collateral and at no more than 9%, for language or skills training in the destination country [GV0152, GV0153, GV0236, GV0238, GV0240]. The TTCs (technical training centres) of BMET (Bureau of Manpower, Employment and Training) teach languages from Japanese to Arabic and Portuguese, though a Cornell University language-centre coordinator estimated that only about 2,500 of some 13 lakh workers who went abroad in a year had learned a language at a government centre [GV0172, GV0199, GV0183]. The Welfare Board's desk at the airport checks clearances on the way out, receives the sick and the dead on the way back, and pays the burial grant [GV0019, GV0023]. At home, the Board pays scholarships to migrants' children and a monthly allowance for a disabled child, for workers who left with BMET clearance or joined the Board, and for workers who died and whose family got its grant [GV0028, GV0037]. On one day in April 2025 the Board handed 103 people Tk 1 crore 93 lakh in grants, scholarships, insurance and other help, and said it had given Tk 273 crore 81 lakh to 12,158 people during the interim government's term [GV0123, GV0127]. Abroad, a worker in some Gulf countries, South Korea or Italy can finish SSC, HSC or a degree through Bangladesh Open University via the embassy [GV0055, GV0061, GV0064]. In March 2024 the state minister promised welfare cells to take services to the grassroots, and an NGO project, Helvetas's SIMS, worked in 23 upazilas of three districts [GV0089, GV0090]. The 2026-27 budget announced a Probashi card to make government services and welfare benefits easier to get, and "Bangladesh Support Centres" at embassies to rescue workers in jail or cheated and give them legal help; in early September 2026 the card had not been introduced and was still being prepared, and on 13 October 2026 the state minister said it was being piloted in four to five countries [GV0213, GV0208, GV0209, GV0234, GV0235, GV0268]. In the 2026 Middle East war the ministry ran a round-the-clock hotline for migrant workers, and the Welfare Board paid to bring 186 people home from Iran [GV0284, GV0288]. For returnees, the government's RAISE project and BRAC's Prottasha project work on rehabilitation, though the state minister called the Tk 13,500 given for it far too little [GV0304, GV0305, GV0303]. A women's advocacy group, CWCS, says some returnee women are not taken back by their husbands or families, and in 2024 it asked for guarantor-free loans and free legal help for them [GV0075, GV0093, GV0092].
 
 ## Before you go
 
@@ -21,21 +21,19 @@ At a roundtable on 5 May 2026 the state minister for expatriates' welfare, Nurul
 
 How far the state's own offices reach: Mohiuddin Ahmed, a Canada-based analyst, wrote in July 2026 that a World Bank assessment found BMET's databases are not linked to each other and that the DEMO (district employment and manpower) offices cannot reach the large population in remote areas [GV0214]. He cited a 2024 CPD (Centre for Policy Dialogue) study that of more than 11 lakh workers who went abroad in 2023, only 15,294 (1.3%) went through BOESL, the government's recruiting agency [GV0215]. The government said in its 2026-27 budget that the migration process had already been made fully digital through OEP [GV0211]. What BOESL offers and how to apply: see "Can I go through the government agency, BOESL?" in the Frequently asked questions about going abroad doc [GV0215].
 
-### The Probashi card
-
-The government has announced a Probashi card for people going abroad and for migrants already working abroad, to keep workers' information and make it easier to get government services and welfare benefits, as the 2026-27 budget of 11 June 2026 put it [GV0213]. The Prime Minister's adviser Mahdi Amin told an EU delegation on 10 June 2026 that a plan had been made to introduce an "Expatriate card" for better services and protection for migrant workers [GV0206]. At a meeting on 21 July 2026 on what airport bodies must do in distributing the card, the government set out benefits for card holders [GV0216, GV0217]:
-- **Biman Bangladesh Airlines tickets:** a special discount; the civil aviation and tourism minister, Afroza Khanam, said a policy decision had been taken [GV0218].
-- **Balaka lounge (Biman's airport lounge):** use at a special discount, under the same policy decision [GV0216, GV0218].
-- **Priority check-in and boarding:** the civil aviation ministry would arrange them, said its state minister, M Rashiduzzaman Millat [GV0220].
-- **Hotels and motels of Bangladesh Parjatan Corporation (the state tourism corporation):** a discount was being considered [GV0219].
-
-On 30 August 2026 the minister for expatriates' welfare, Ariful Haque Chowdhury, said the card's introduction would be finalised as part of the government's 180-day programme [GV0230]. Prothom Alo reported on 5 September 2026 that the card had not yet been introduced, unlike the government's Family card and Farmer card, and was still at the preparation stage, although the minister had announced in February 2026 that it would come soon [GV0234, GV0235]. The earlier announcements, and the Prime Minister's deputy press secretary's statement that a pilot would start from August 2026: see "Is there a list of good agencies?" in the Frequently asked questions about going abroad doc [GV0193].
-
 **Migrants' records.** TechGlobal Institute (TGI), a technology research institute, claims in a report covering January 2023 to May 2026 that in one incident the Ministry of Expatriates' Welfare's database put migrants' passports, NIDs, e-TINs (tax numbers) and financial and banking documents at risk of exposure together, and that there were three attempts to break into the migrant workers' database, which holds the data of more than 10 lakh workers, within about six weeks in April and May 2026 [GV0228, GV0229].
 
+### The Probashi card
+
+The Probashi card, its announced benefits and the July 2026 pilot plan (Janata Bank first, then Probashi Kallyan Bank) are in "The Probashi Card" in the Sending money home doc [GV0213]. In short, as reported:
+- **Announced:** in the 2026-27 budget of 11 June 2026, for people going abroad and migrants already working abroad, to keep workers' information and make government services and welfare benefits easier to get [GV0213].
+- **Early September 2026:** not yet introduced and still at the preparation stage, although the minister had announced in February 2026 that it would come soon [GV0234, GV0235].
+- **13 October 2026:** the state minister, Md. Nurul Haque, said it was being piloted in four to five countries, including Jordan, South Korea and several Middle Eastern countries, and that card holders were planned to get a 3% incentive on money sent home through legal channels, against the 2.5% paid now [GV0268, GV0269].
+
+The airport benefits promised to card holders are under At the airport (see The migrant lounge and helpers at Dhaka airport) [GV0216].
+
 > **Need to know**
-> - The card had not started by early September 2026 [GV0234]. Has it started since, and if so who can get one, where does a worker apply, with which papers, and does it cost anything?
-> - Do card holders get the Biman discount and Balaka lounge in practice, and how large is the discount [GV0218]?
+> - Who can get a card in the pilot, where does a worker apply, with which papers, and does it cost anything [GV0268]?
 
 ### Training centres
 
@@ -47,6 +45,11 @@ Prime Minister Sheikh Hasina said in May 2024 that her government had built 112 
 At the same roundtable Nurul Haque said the government had noticed 23 ministries giving similar training, wasting public money without results [GV0190, GV0191]. Answering an MP in parliament, as reported on 3 September 2026, he said the TTCs lack skilled staff to run them and that new staff cannot be recruited because of bureaucratic complications [GV0233].
 
 Md. Mamun Hasan, an instructor at Satkhira Government Polytechnic Institute, wrote in October 2026 that by 2025 figures about 43% of Bangladeshis going abroad were low-skilled and 34% semi-skilled, and that 621 of the 3,440 vocational institutions approved by the Technical Education Board had not admitted a single student in five years [GV0248, GV0249].
+
+Training in elderly caregiving is also given under the National Skills Development Authority (NSDA), alongside BMET's TTCs, nursing education and private training institutes, though Mohammad Jalal Uddin Sikder, a researcher at North South University, wrote in September 2026 that these efforts are scattered [GV0314].
+
+> **Need to know**
+> - Where does NSDA's caregiving training run, what does it cost, and does its certificate count for caregiver jobs abroad [GV0314]?
 
 #### Language courses at the TTCs
 
@@ -248,17 +251,24 @@ The desk's other services, its hours and phone numbers are under "At the airport
 
 ### The migrant lounge and helpers at Dhaka airport
 
-On 11 November 2024 the Chief Adviser, Muhammad Yunus, opened the first lounge for migrant workers (the Probashi lounge) at Hazrat Shahjalal International Airport, with space to rest and food at low prices subsidised by the government [GV0026]. The UN sponsored the lounge, according to the IOM (International Organization for Migration) deputy chief of mission in Bangladesh [GV0048]. The expatriates' welfare adviser, Asif Nazrul, said 100 staff sponsored by IOM had been appointed to look after and help migrants at the airport; IOM described them as about 100 volunteers [GV0027, GV0047]. The civil aviation minister said on 21 July 2026 that a shuttle bus service had been started at the airport for passengers [GV0218]. Lounge and priority check-in for Probashi card holders: see The Probashi card [GV0216].
+On 11 November 2024 the Chief Adviser, Muhammad Yunus, opened the first lounge for migrant workers (the Probashi lounge) at Hazrat Shahjalal International Airport, with space to rest and food at low prices subsidised by the government [GV0026]. The UN sponsored the lounge, according to the IOM (International Organization for Migration) deputy chief of mission in Bangladesh [GV0048]. The expatriates' welfare adviser, Asif Nazrul, said 100 staff sponsored by IOM had been appointed to look after and help migrants at the airport; IOM described them as about 100 volunteers [GV0027, GV0047]. The civil aviation minister said on 21 July 2026 that a shuttle bus service had been started at the airport for passengers [GV0218].
+
+**For Probashi card holders.** At a meeting on 21 July 2026 on what airport bodies must do in distributing the card, the government set out these benefits (see The Probashi card) [GV0216, GV0217]:
+- **Biman Bangladesh Airlines tickets:** a special discount; the civil aviation and tourism minister, Afroza Khanam, said a policy decision had been taken [GV0218].
+- **Balaka lounge (Biman's airport lounge):** use at a special discount, under the same policy decision [GV0216, GV0218].
+- **Priority check-in and boarding:** the civil aviation ministry would arrange them, said its state minister, M Rashiduzzaman Millat [GV0220].
+- **Hotels and motels of Bangladesh Parjatan Corporation (the state tourism corporation):** a discount was being considered [GV0219].
 
 The lounge was in use in March 2025: when Prothom Alo visited, 15 to 20 travellers were there, some talking to relatives, some eating food from the shop beside it and some charging their phones [GV0116]. The shop's worker said it was set up so migrants can buy food at low cost; Alif Hossain of Bancharampur, Brahmanbaria, in Kuwait since 1996, said he heard of the lounge after clearing immigration, and that it was much better than other places, with cheaper food [GV0118, GV0117]. On 16 April 2025 Asif Nazrul said the lounge offers quality food up to 30% cheaper, free Wi-Fi, a free telephone and mobile charging [GV0119].
 
 > **Need to know**
 > - Where is the Probashi lounge (which terminal, before or after immigration), who may use it, and is it still open in 2026 [GV0026, GV0116]?
 > - How does a migrant recognise and reach one of the IOM-sponsored helpers at the airport [GV0047]?
+> - Do card holders get the Biman discount and Balaka lounge in practice, and how large is the discount [GV0218]?
 
 ## While abroad
 
-The Welfare Board's Probash-Bondhu call centre answers questions on its services: 16135 toll-free from Bangladesh, +8809610102030 from abroad [GV0036]. Hotlines, the labour wings and legal help while abroad: see "Who can I call for help while abroad?" in the Frequently asked questions about going abroad doc [GV0036]. Boishommobirodhi Probashi Andolon (Anti-Discrimination Migrants' Movement), a migrants' rights group started in London during the July-August 2024 movement, asked in November 2024 for a direct way to complain from abroad to the relevant government offices and for a round-the-clock help desk for migrants in any emergency [GV0098, GV0102, GV0103].
+The Welfare Board's Probash-Bondhu call centre answers questions on its services: 16135 toll-free from Bangladesh, +8809610102030 from abroad [GV0036]. Hotlines, the labour wings and legal help while abroad: see "Who can I call for help while abroad?" in the Frequently asked questions about going abroad doc [GV0036]. The ministry had 29 labour welfare wings in 27 countries, but no separate expatriate welfare wing anywhere, according to a reader's column in Prothom Alo in November 2024 [GV0302]. Boishommobirodhi Probashi Andolon (Anti-Discrimination Migrants' Movement), a migrants' rights group started in London during the July-August 2024 movement, asked in November 2024 for a direct way to complain from abroad to the relevant government offices and for a round-the-clock help desk for migrants in any emergency [GV0098, GV0102, GV0103].
 
 The Welfare Board's director (finance and budget), ATM Mahbub-ul Karim, said in May 2026 that the Board stands by migrants abroad in illness, death or legal trouble [GV0194]. At the same event the state minister, Nurul Haque, spoke of a plan to hire legal firms to protect women workers abroad [GV0190].
 
@@ -267,6 +277,30 @@ The 2026-27 budget of 11 June 2026 said a "Bangladesh Support Centre" would be s
 > **Need to know**
 > - Has the Board or the ministry hired legal firms abroad, in which countries, and how does a worker in trouble reach one [GV0190]?
 > - Has any Bangladesh Support Centre opened, at which embassies, and how does a worker in jail or in a dispute reach it [GV0208]?
+
+### In a war or disaster
+
+When war or disaster has hit a host country, help has come through the embassy, the ministry's hotline and, for evacuations, money from the Welfare Board [GV0284, GV0288].
+
+**What the embassies told workers to do.** On 28 February 2026, as the Middle East war began, the Bangladesh embassies in Lebanon, Qatar, the UAE, Bahrain, Kuwait and Iraq told Bangladeshis to stay away from military sites, stay in a safe place, not spread rumours and keep papers and essentials at hand [GV0315]. They advised keeping these with you at all times [GV0316]:
+- cash, passport and local ID card;
+- health card or health insurance, and needed medicines;
+- mobile charger and power bank;
+- dry food and water.
+
+Some embassies warned that posting photos or videos of the situation on social media, or spreading baseless news, breaks those countries' laws [GV0317].
+
+**The ministry's hotline and control room.** Any migrant worker could call the Ministry of Expatriates' Welfare's hotline, +8809610102030 (the Probash-Bondhu number from abroad), at any time about the war, and from 10 to 16 March 2026 a control room ran from 8 am to 8 pm daily at the Probashi call centre, Lift 7, Probashi Kallyan Bhaban, Eskaton, Dhaka [GV0284, GV0285, GV0036]. The minister, Ariful Haque Chowdhury, said on 7 March 2026 that the ministry would help migrants whose visas were running out because flights were cancelled, as far as the government could, if they contacted it; on 8 March he said anyone injured would be treated and that bringing workers home depended on how the war went [GV0282, GV0283]. He said on 3 April 2026 that six Bangladeshis had died in the war so far (what one dead worker's family got: see If a worker dies abroad) [GV0287, GV0286].
+
+**How evacuations from Iran worked.** Two evacuations, as reported (why many Bangladeshis in Iran have no papers: see "Waiting in Iran" in the Illegal routes doc):
+- **June 2025, the Israel-Iran war:** the Foreign Ministry opened emergency hotlines, with WhatsApp, at the embassy in Tehran and at the ministry in Dhaka, and asked people to rely on them rather than unverified sources [GV0289, GV0290]. The government decided to move the Tehran mission's own staff to safety because it was within a kilometre of sites under attack [GV0291]. About 100 of some 400 Bangladeshis in Tehran contacted the embassy to return [GV0292]. The Foreign Ministry asked everyone wishing to return to register with the embassy in Tehran with their name, address and other details [GV0294]. By 24 June, 250 had registered; women, children and people in Iran for medical treatment were to go first, and 90 were to cross by land from Mirjaveh in Iran to Taftan in Pakistan, then fly from Karachi through Dubai to Dhaka [GV0295, GV0296, GV0293].
+- **March 2026, the war of the United States and Israel with Iran:** the government prepared to bring about 300 people home in two phases, by road to Azerbaijan and then on a Biman charter flight from Baku [GV0297]. Azerbaijan gave on-arrival visas to 274, and the embassy in Tehran gave travel passes to those without a passport [GV0298, GV0299]. The ministry told parliament's standing committee on 8 October 2026 that 186 people, including 12 women and 8 children, had been brought back from Iran with Welfare Board money [GV0288].
+
+**An industrial disaster: Russia.** After an explosion at a gas complex in Amur, Russia, in August 2026, the Bangladesh Embassy in Moscow said it would oversee the treatment of seven injured Bangladeshi workers being moved to a Moscow hospital, and opened a 24-hour hotline run by its head of chancery and its labour wing's first secretary [GV0300, GV0301].
+
+> **Need to know**
+> - Does an evacuated worker pay anything for the journey home, or repay the Welfare Board later [GV0288]?
+> - How did the ministry help migrants whose visas expired because flights were cancelled in 2026, and how many got that help [GV0282]?
 
 ### Finishing school or a degree from abroad
 
@@ -307,14 +341,16 @@ In 2024 admission closed on 30 March and classes began in April [GV0064]. Contac
 
 ## If a worker dies abroad
 
-What the family gets, and how the body comes home, are in "If a worker dies abroad, what does the family get?" and "How is the body brought home?" in the Frequently asked questions about going abroad doc [GV0023]. At the airport, the Probashi Kallyan desk receives the body, hands it to the family and pays the burial grant [GV0023]. If the worker had a PKB migration loan, the loan risk cover writes off everything still owed (see The loan risk cover) [GV0041].
+What the family gets, and how the body comes home, are in "If a worker dies abroad, what does the family get?" and "How is the body brought home?" in the Frequently asked questions about going abroad doc [GV0023]. At the airport, the Probashi Kallyan desk receives the body, hands it to the family and pays the burial grant [GV0023]. Speakers at a May 2025 dialogue said handing bodies over at Dhaka airport had been made easier and faster than before [GV0312]. If the worker had a PKB migration loan, the loan risk cover writes off everything still owed (see The loan risk cover) [GV0041].
+
+**What one family got.** The family of S M Tarek, killed in Bahrain in the Middle East war, was given Tk 35,000 for burial and Tk 50,000 at once by the Welfare Board, and was to get Tk 3 lakh in financial help and Tk 10 lakh of insurance, the minister said on 3 April 2026 [GV0286].
 
 A Bangladeshi migrant in Doha wrote in June 2024 that sending a body home costs a large sum many families can't pay, that in many Middle Eastern countries other migrants have to collect money to send a body home, and that a family left with the dead worker's migration debt gets no help from the state with it [GV0076, GV0077]. He wrote that at the embassy too, without going through a broker, a one-day task can take three months [GV0078]. In November 2024 Boishommobirodhi Probashi Andolon asked that the bodies of poor migrants be brought home free at the government's initiative [GV0099]. The 2026-27 budget of 11 June 2026 announced a move to make it easier to bring home the bodies of workers who die abroad [GV0210]. The minister, Ariful Haque Chowdhury, promised on 30 August 2026 that when a Bangladeshi dies abroad the body would be brought home and the family given financial help and help with the children's education [GV0231].
 
-**When the family doubts the cause of death.** Another migrant in Doha, Minhaj bin Mahbub, wrote in September 2025 that many families of migrants who took their own lives abroad believe their relative was murdered, pointing to wounds on the body, that most such bodies are of women domestic workers, and that the body should be examined again by post-mortem when it reaches Bangladesh [GV0141, GV0142].
+**When the family doubts the cause of death.** Another migrant in Doha, Minhaj bin Mahbub, wrote in September 2025 that many families of migrants who took their own lives abroad believe their relative was murdered, pointing to wounds on the body, that most such bodies are of women domestic workers, and that the body should be examined again by post-mortem when it reaches Bangladesh [GV0141, GV0142]. A paper presented at a dialogue held by RAMRU and the National Human Rights Commission in May 2025 said the government does no post-mortem to check the death certificates sent with bodies, though many bodies sent home as natural deaths had injury marks, and that 48% of dead workers' families do not believe the cause on the certificate; it recommended cold storage at the airport to keep bodies for post-mortem [GV0309, GV0311]. The ministry's senior secretary, Neyamat Ullah Bhuiyan, said there that a post-mortem after the body arrives is possible, but that the reaction of the country the body came from must be considered [GV0310]. A former National Human Rights Commission member, Selim Reza, said there are allegations in Middle Eastern countries of kidneys being taken from dying patients and kept to sell, and that embassies must make sure no worker's organs are sold [GV0313].
 
 > **Need to know**
-> - How does a family get a second post-mortem in Bangladesh: whom do they apply to (police, the magistrate, the Welfare Board desk at the airport), and does it cost anything [GV0142]?
+> - How does a family get a second post-mortem in Bangladesh: whom do they apply to (police, the magistrate, the Welfare Board desk at the airport), and does it cost anything [GV0142, GV0310]?
 
 > **Need to know**
 > - When a body is sent home through the embassy, who pays the cost abroad (the employer, the Welfare Board or the family), and is a collection among workers still needed in 2026 [GV0076]?
@@ -367,18 +403,50 @@ In 2024 applications ran from 16 May to 27 June, and those who had already appli
 > **Need to know**
 > - Is the disabled-child allowance open to new applicants in 2026, and when [GV0040]?
 
+### If a husband is violent at home
+
+A Supreme Court lawyer, Barrister Miti Sanjana, answering the child of a returnee who beats the mother, wrote in Prothom Alo in April 2024 that under the Domestic Violence (Prevention and Protection) Act 2010 the woman can seek protection [GV0272]:
+1. Apply to the officer in charge of any police station, to a women affairs officer, or directly to the court; an enforcement officer, a service provider or anyone else can also apply on her behalf [GV0272, GV0273].
+2. The court sets a hearing date within seven days of receiving the application [GV0273].
+
+What the court can order, as she listed it:
+- **Interim protection order:** made without hearing the husband first, if the court is satisfied violence has happened or may happen (section 13) [GV0274].
+- **Residence order:** bars the husband from living in or visiting the place where she lives, with safe shelter arranged for her and the children if the home is unsafe (section 15) [GV0277].
+- **Compensation and maintenance:** money for her and the children's upkeep, as a lump sum or monthly (section 16) [GV0275].
+- **Free legal help:** advice and help at no cost under the Legal Aid Act 2000, where it applies [GV0276].
+
+> **Need to know**
+> - Does filing under the 2010 Act at the court cost anything, and does the upazila women affairs officer help a woman fill in the application [GV0272]?
+
 ## Coming home
 
 ### PKB loans to restart
 
 PKB lends to returnees for self-employment without any mortgage of property, deciding within seven days if the papers are in order [GV0018, GV0011]. In July 2024 its six loans were the migration loan, the rehabilitation loan, the special rehabilitation loan, the Bangabandhu migrant large-family loan, the self-employment loan, and the women's migration and rehabilitation loan [GV0012]. Its managing director said in July 2024 that it lends to returnee women for self-employment at 4 to 7% interest [GV0016]. The rehabilitation loan's limits and what returnees say about the help that reaches them: see "What help is there when I come back?" in the Frequently asked questions about going abroad doc and "Help after you get home" in the Departure bottlenecks doc [GV0018]. In November 2024 Boishommobirodhi Probashi Andolon asked for jobs for returnees, enough interest-free PKB loans for those who want to start a business, compensation for workers cheated by brokers, and a pension for Middle East workers who retire and come home [GV0101, GV0100].
 
-### Help from NGO farm projects: one case
+### Government and BRAC reintegration projects
+
+RAISE, the government's returnee project, and BRAC's Prottasha project both work on rehabilitating returned workers [GV0304]. What RAISE offers through its district offices, and what returnees say about the help: see "Help after you get home" in the Departure bottlenecks doc [GV0304]. The state minister, Nurul Haque, said on 13 October 2026 that help, training and rehabilitation for workers who come home harmed within six months of going abroad is given through a project run with World Bank and donor support, which the report calls "RACE" [GV0270]. On 14 May 2026 he called the government's help to migrants perfunctory and said the Tk 13,500 given for rehabilitation is far too little and must be raised [GV0303].
+
+Prottasha, run with European Union and BRAC support, works on rehabilitating returned migrants; IOM worked with BRAC in its first phase and gives policy support in the second [GV0305, GV0306]. Two returnees told a Prottasha event in May 2026 what it gave them:
+- **Selina Begum, Tangail, back empty-handed from Cyprus:** a scooter bought with BRAC's help, which she uses to supply tea across her thana [GV0307].
+- **Sohel Rana, Tangail, back from Italy unable even to walk:** a grocery shop set up with Prottasha's help [GV0308].
+
+A concept paper presented in August 2026 by BRAC's associate director (migration), Shariful Islam Hasan, put returnees' main problems as having no savings, no chance to use skills gained abroad and being unable to start a new livelihood at home [GV0318].
+
+> **Need to know**
+> - How does a returnee join Prottasha: where does he register, who qualifies, and what papers are needed [GV0305]?
+> - Which programme pays the Tk 13,500 for rehabilitation the state minister mentioned, and who qualifies for it [GV0303]?
+
+### Farming after return: two cases
 
 Shah Alam (45), of Niamatpur village in Sadar upazila, Sirajganj, came home after about 12 years in Saudi Arabia and in 2022 began farming chui jhal, a spice vine, with the help of NDP (National Development Programme), a local NGO running a high-value spice demonstration for PKSF (Palli Karma-Sahayak Foundation) [GV0132, GV0133]. He leased 33 decimals next to his house for three years for Tk 60,000 on 30 August 2022 [GV0134]. By his own account, he had spent Tk 1 lakh 17 thousand since starting, and in 2025 sold Tk 7 lakh 37 thousand of chui jhal in two batches [GV0135].
 
+Lokman Hossain, of Charwadel village in Bauphal upazila, Patuakhali, went abroad in 2018 after graduating, came home in early 2022 and began farming with his father [GV0278]. In the 2025 monsoon he grew watermelon out of season for the third time, on 5 decimals beside his house, and he says that the time before he sold about Tk 1 lakh of watermelon after spending Tk 20,000 [GV0279, GV0280]. Bauphal's upazila agriculture officer, Md. Milon, said off-season watermelon is very profitable and that the agriculture department would give Lokman every kind of help [GV0281].
+
 > **Need to know**
 > - Do PKSF's partner NGOs give returnees priority for farm demonstrations or loans, and how does a returnee find the partner NGO in his upazila [GV0133]?
+> - What help (seed, training, advice) does an upazila agriculture office give a returnee starting a farm, and does it cost anything [GV0281]?
 
 ### A promised migrants' hospital
 
@@ -389,10 +457,11 @@ On 16 April 2025 the expatriates' welfare adviser, Asif Nazrul, said he intended
 
 ### Plans announced in 2026
 
-At the 5 May 2026 roundtable the state minister, Nurul Haque, spoke of a plan to form a large special fund to rehabilitate returnees [GV0190]. The 2026-27 budget of 11 June 2026 said various programmes would be taken for returnees' rehabilitation and social protection, without naming them [GV0210]. On 30 August 2026 the minister, Ariful Haque Chowdhury, described a plan to reintegrate returnees with financial and logistic support according to the work they did before [GV0232].
+At the 5 May 2026 roundtable the state minister, Nurul Haque, spoke of a plan to form a large special fund to rehabilitate returnees [GV0190]. The 2026-27 budget of 11 June 2026 said various programmes would be taken for returnees' rehabilitation and social protection, without naming them [GV0210]. On 30 August 2026 the minister, Ariful Haque Chowdhury, described a plan to reintegrate returnees with financial and logistic support according to the work they did before [GV0232]. On 13 October 2026 the state minister said steps were being taken to settle migrants' land-related legal disputes quickly, with a plan, discussed with the land and law ministries, to resolve them on priority within seven days [GV0271].
 
 > **Need to know**
 > - Has the returnee rehabilitation fund, or any of the budget's returnee programmes, started; how large is it, and who can apply [GV0190, GV0210]?
+> - Has the seven-day arrangement for migrants' land disputes started, and where does a migrant or the family apply [GV0271]?
 
 ### Bank loans to start a business
 
