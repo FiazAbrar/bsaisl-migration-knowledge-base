@@ -391,3 +391,14 @@ Checked 19 November 2026 against facts.csv quotes and the saved sources. All cha
 - **Two flights of 174 from Libya** (1 September and 27 October 2026) are separate flights with separate details (Tajoura detention centre; 36 from Tajoura, 41 ill), not a duplicate.
 - **Bosnia, September 2026:** 36 Bangladeshis of 96 [I0280] and 23 in the first group of 63 [GI0280] are consistent (the second group of 33 also held Bangladeshis); both kept.
 - **Old statistics:** the 2005 Western Sahara case is cited, dated, because it documents a route and its outcome; no figures from it are used as current numbers.
+
+## Held items from other ledgers (prefix GI, 23 Nov 2026)
+
+53 held items from other docs' Prothom Alo ledgers placed (facts GI0310 to GI0389, 24 articles saved). New: "From eastern Libya to Greece" (price, split payments, broker network, pointer to the Greece doc's "Irregular entry: Libya to Crete by boat"), "Tajoura detention centre", BRAC's February 2024 study of 557 Libya returnees, the PBI court route that brought a hostage home, the September 2026 Gavdos sinking, Rohingya on Bangladeshi passports, two India cases, Abdur Rahim's death in Russia.
+
+### Resolved conflicts
+
+- **March 2026 Libya to Greece boat: how many rescued.** Prothom Alo of 31 March 2026 (pa-2026-03-31-iky2lx7qxw) says the Greek coast guard rescued 22 alive; Md Touhid Hossain (LB0207) and the Greece doc (Frontex ship, 26 rescued: 21 Bangladeshis, 4 South Sudanese, 1 Chadian) give 26. Kept 26: two independent accounts agree and the Greece doc's figure is the more specific; the 22 is most likely the death toll repeated. The doc's figures (at least 22 dead, 18 Bangladeshi, 13 from Sunamganj) match the Greece doc.
+- **Russia: who the ten families applied to.** A Prothom Alo column of 29 November 2025 (GI0346) says at least 10 families applied to the Bangladesh government; the column cites BRAC's report, and BRAC's own statement (RU0018) says the 10 families asked BRAC. Kept RU0018; GI0346 logged, not cited.
+- **Sunamganj cases: one case against four, or two against nine.** The video headline (GI0249) names the Dirai case against four; the 31 March report (GI0320) gives two cases, five accused at Jagannathpur and four at Dirai, matching the Greece doc (XG0064). The doc now gives the two cases.
+- **Libya returns: 4,200.** The ambassador's "4,200 sent home last year" (GI0339, February 2025) and LB0138's "4,200 freed in the previous year and a half" are the same count; LB0138 kept for the number.
