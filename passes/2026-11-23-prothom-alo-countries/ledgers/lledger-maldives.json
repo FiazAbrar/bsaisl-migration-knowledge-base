@@ -1,0 +1,15 @@
+{
+ "articles": [
+  {
+   "article_id": "294dae4c-4131-4589-98e9-24ab8583f711",
+   "used": true,
+   "fact_ids": [
+    "PM0008",
+    "PM0009",
+    "PM0010"
+   ],
+   "reason_if_unused": "Other nationalities' tourist numbers, India-Maldives tension and resort counts skipped: no bearing on a Bangladeshi's decision.",
+   "held_for_global": []
+  }
+ ]
+}

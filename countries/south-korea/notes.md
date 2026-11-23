@@ -382,3 +382,22 @@ Each part's full change list is in `verify/part1-report.md` to `verify/part6-rep
 - The Bangladesh Embassy in Seoul's labour-wing contact is given three ways on its own pages.
 - Bangladesh's own 2026 EPS quota was not found.
 - When the Return Cost Insurance is paid conflicts: before departure (EPS) or after departure is confirmed (the Enforcement Decree).
+
+## Prothom Alo archive pass, chunk 1 (prefix PR)
+
+14 Prothom Alo (and Bondhushava) articles from 2024 to November 2026 read in full; 13 saved with save_pa.py and 57 facts logged (PR0001-PR0057). PR0010 is logged but not cited (conflict below).
+
+### Resolved conflicts
+
+- Part-time hours for master's students: a November 2025 student-written piece (PR0010) says up to 40 hours a week. The Ministry of Justice rules already cited (V0135: 15 hours without the language level, 30 weekday hours with it, 35 at a certified university, no weekend limit) are primary and official; kept V0135, PR0010 not cited.
+- BOESL's address and phones: an August 2024 article gives BOESL's EPS branch at Probashi Kallyan Bhaban, 4th floor, and phones 48319125, 48317515, 58311838. The doc's Contacts (B0250, from BOESL itself) give the 5th floor and 58313838. BOESL's own page is primary and newer; 58311838 looks like a misprint of 58313838. Not logged; the 4th-floor EPS branch may be a separate desk, but the 2025-26 notices send candidates to Room 701 (7th floor) for EPS applications anyway.
+- Bangladeshis in Korea: a March 2025 piece says "more than about 30,000"; Korea's own count of 44,721 on 30 September 2026 (C0044) is official and later. Not logged.
+- Departures since 1994 (53,678 to 2023, North South University researchers, PR0015) against BMET's 39,702 from 2004 to May 2025 (C0055): different start years (the 1994 figure includes the pre-EPS years), so both kept with their periods.
+- Education consultancy cost article (PR0011, PR0054): its own figures differ slightly between paragraphs (public tuition Tk 3.93 lakh vs 3.98 lakh; living Tk 8.24-11 lakh vs 8.40-11.20 lakh). The doc cites only the totals the writer uses for the budget.
+
+### Not used, and why
+
+- Ranking listicle (f1aa1ff7, 2024): unnamed ranking, no usable fact.
+- NSU column (9c22e166): 2022 sector shortage figures and the 2022 69,000 E-9 quota are stale against the 2026 quota (C0037); the "16 EPS countries" figure is superseded by 17 (C0004); annual departures 2019-2022 duplicate C0054; 2021-22 remittance duplicates C0102.
+- EPS worker opinion (77c0b798): his prediction that EPS in Bangladesh would close without a circular in one to two months is superseded by BOESL's July 2026 circular (C0001); his Vietnam comparisons are opinion.
+- Silver-economy column (5ac4bc98): only the Korea KDI figures are Korea-specific; the NSDA caregiving training line is held for the global modules.

@@ -22,11 +22,13 @@ On 9 November 2026 Kuwait is issuing company work visas (Article 18) to Banglade
 - **Visit visas:** a Bangladeshi can get a family visit visa online, but not a tourist e-visa without a US, UK, Schengen or GCC (Gulf Cooperation Council) visa or residence permit (see Visit visas (tourist, family, business)) [M0003, M0001, M0002].
 - **Residents stuck abroad:** the extra absence permits Kuwait gave from 28 February 2026 ended on 1 September 2026, except for people who left on or before 31 August 2026; the residence status certificate in Sahel shows the date by which you must be back [S0009, S0026, S0027, S0028].
 - **Getting there:** flights from Kuwait International Airport restarted on 26 April 2026, with Kuwait Airways planning Dhaka flights four times a week, but they have stopped again at short notice: a drone hit Terminal 1 on 3 June, the airspace closed again on 18 July, and the Bangladesh Embassy issued emergency hotlines after new attacks in early September (see Work visa: private-sector worker (Article 18), Step 6) [S0002, S0003, S0021, S0025, B0202].
+- **A new labour agreement:** in October 2025, after the first Bangladesh-Kuwait political consultation in Dhaka, Kuwait's Assistant Foreign Minister said a new agreement renewing labour cooperation was being prepared and could be signed on a future high-level visit; both sides were reviewing the memoranda of understanding (MOUs) on manpower still under discussion [PK0027, PK0028].
 
 > **Need to know**
 > - On what date, and by which MOI circular, did Kuwait resume issuing new entry visas after the April 2026 suspension?
 > - When a worker's Article 18 visa expired unused during the war, did the employer apply again at its own cost, and did brokers in Dhaka charge the worker again?
 > - Does the June 2026 domestic-worker circular also stop Bangladeshi men going as house drivers and cooks?
+> - Has the labour cooperation agreement discussed in October 2025 been signed, and does it cover women domestic workers?
 
 #### The channels
 
@@ -64,7 +66,7 @@ On 9 November 2026 Kuwait is issuing company work visas (Article 18) to Banglade
 - **March 2018:** the Interior Minister halted work visas for Bangladeshis again, after security reports that they had become a target of iqama traders and that their numbers had grown through the illegal trade in work and residence permits [N0037, N0040].
 - **2020-2021, the Papul case:** see Who controls it: the Papul case. In November 2021 Bangladesh was one of seven nationalities refused business, work and family visas except with special Interior Ministry approval [N0041]. That approval ("lamana", লামানা) was sought from the minister through brokers and could take years [N0071].
 - **May 2025:** all categories reopened to Bangladeshis [N0014].
-- **28 February 2026, the Iran war:** Kuwait closed its airspace to 23 April 2026, and its airlines flew from Al-Qaisumah and Dammam in Saudi Arabia, with passengers bussed four to five hours through the Nuwaiseeb border crossing [S0001, S0004, S0006]. On 22 April 2026 a Foreign Ministry circular said unused entry visas would not be extended and employers must reapply once issuing resumed [S0012, S0013]. BMET clearances fell from 2,610 in January to 1,376 in April and in May [S0031, B0024, B0019].
+- **28 February 2026, the Iran war:** Kuwait closed its airspace to 23 April 2026, and its airlines flew from Al-Qaisumah and Dammam in Saudi Arabia, with passengers bussed four to five hours through the Nuwaiseeb border crossing [S0001, S0004, S0006]. On 22 April 2026 a Foreign Ministry circular said unused entry visas would not be extended and employers must reapply once issuing resumed [S0012, S0013]. BMET clearances fell from 2,610 in January to 1,376 in April and in May [S0031, B0024, B0019]. Drone attacks hit Kuwait International Airport: one on 28 February injured four Bangladeshi workers, who were treated at Farwaniya Hospital, one around 1 April caused a fire, and one reported on 4 June injured at least four Bangladeshis and more than 60 other people and killed an Indian, the Bangladesh Embassy said [PK0034, PK0035, PK0036, PK0044, PK0045].
 - **June 2026:** new domestic-worker visas closed to Bangladeshis (see Status) [D0001, D0002].
 
 ### How a job reaches you, and who takes a cut
@@ -427,7 +429,7 @@ This happens in Kuwait, between the employer, PAM and MOI (the Ministry of Inter
    > **Need to know**
    > - Does BMET refuse clearance for a Kuwait visa that lacks the Embassy's attestation, and is the attestation number checked on OEP at clearance [B0194]?
 
-4. **The flight.** The employer pays the airfare, and an agency representative must fly with your group or meet you at Kuwait airport; the agency sends the flight schedule and worker list to the Embassy and BMET [B0171, B0173]. Kuwait's airspace was closed from 28 February to 23 April 2026; Kuwait Airways and Jazeera Airways restarted from Kuwait International Airport on 26 April, with Kuwait Airways planning Dhaka flights four times a week [S0001, S0002, S0003]. The airspace closed again on 18 July 2026, and the Bangladesh Embassy issued emergency hotlines after new missile and drone attacks in early September 2026 (see Contacts) [S0025, B0202].
+4. **The flight.** The employer pays the airfare, and an agency representative must fly with your group or meet you at Kuwait airport; the agency sends the flight schedule and worker list to the Embassy and BMET [B0171, B0173]. Kuwait's airspace was closed from 28 February to 23 April 2026; Kuwait Airways and Jazeera Airways restarted from Kuwait International Airport on 26 April, with Kuwait Airways planning Dhaka flights four times a week [S0001, S0002, S0003]. The airspace closed again on 18 July 2026, and the Bangladesh Embassy issued emergency hotlines after new missile and drone attacks in early September 2026 (see Contacts) [S0025, B0202]. Before the war, in October 2025, Kuwait's Assistant Foreign Minister said Kuwait Airways ran 7 flights a week, Jazeera Airways 14 and Biman Bangladesh Airlines 3 [PK0029].
 
    > **Need to know**
    > - Which airlines fly Dhaka or Chattogram to Kuwait in November 2026, and what does a one-way ticket cost?
@@ -617,7 +619,7 @@ You can stay as long as your employer keeps your work permit and residence valid
 - **Renewal fees:** KD 20 a year for the residence (doubled on 23 December 2025) and KD 100 a year for health insurance (up from KD 50) [W0021, W0025, W0027, W0028]. Renewing a work permit for the same job needs no new degree papers (see Work visa: professional and skilled) [W0053].
 - **Over 60 without a degree:** from 2020-21 Kuwait refused renewal to workers over 60 without a university degree, and many had to leave [W0040]. The later extra fees, which could total up to KD 900, were cancelled in November 2024, and these workers now renew and transfer on the same fees as everyone else [W0037, W0038, W0039].
 - **Six months abroad:** your residence lapses if you stay outside Kuwait more than six months in a row, unless MOI gives permission before the six months end, at KD 5 a month [W0042, L0421, W0016, W0023].
-- **If you were stuck abroad by the 2026 war:** the automatic extra absence permits given from 28 February 2026 ended on 1 September 2026, except for people who left Kuwait on or before 31 August 2026 [S0014, S0026, S0027]. The residence status certificate in Sahel shows the date by which you must be back [S0028]. The airspace closures came from the Iran conflict of February to July 2026 [S0029].
+- **If you were stuck abroad by the 2026 war:** the automatic extra absence permits given from 28 February 2026 ended on 1 September 2026, except for people who left Kuwait on or before 31 August 2026 [S0014, S0026, S0027]. The residence status certificate in Sahel shows the date by which you must be back [S0028]. In March 2026 Bangladesh's Ministry of Expatriates' Welfare said Kuwait had extended by one month the visas of workers on leave whose visas had expired or were about to, that workers could seek renewal through the employer (kafil) or online, and that it had set up a visa cell to take up expiring visas with the embassies [PK0043, PK0042, PK0037]. The airspace closures came from the Iran conflict of February to July 2026 [S0029].
 - **When the job ends:** if your residence ends or is not renewed, Residency Affairs may give you a departure notice of up to three months, renewable once, up to six months from the end of your service, at KD 10 a month [W0012, W0022]. How to leave properly is in Leaving at the end of the job [W0012].
 
 > **Need to know**
@@ -632,10 +634,11 @@ Your residence (iqama) is recorded on your Civil ID card, issued by PACI (the Pu
 1. **Check your Civil ID shows your residence and its expiry date** [W0013].
 2. **Check your fingerprints are enrolled** in Sahel (see Step 7: After arrival, item 3) [W0065].
 3. **If your residence expires or is cancelled,** call Residency Affairs on 25582960, 25582961, 97288200 or 97288211, or go to your governorate's Residency Affairs office, called Jawazat (see Step 7: After arrival, item 7) [W0061, W0082].
-4. **If you are trafficked or held against your will,** call MOI's Public Moral Protection and Anti-Human Trafficking department on 25589648, 25589655 or 25589696 [W0062].
+4. **Check your residence on Sahel.** It shows your residence (iqama) expiry, health insurance status, work permit details and government and court notices, and takes fee and fine payments [PK0046, PK0047].
+5. **If you are trafficked or held against your will,** call MOI's Public Moral Protection and Anti-Human Trafficking department on 25589648, 25589655 or 25589696 [W0062].
 
 > **Need to know**
-> - Can an Article 18 worker see his own residence and work-permit status in Sahel, and what does each status mean?
+> - What does each residence and work-permit status shown in Sahel mean for an Article 18 worker?
 
 ### What can get you jailed or deported
 
@@ -666,7 +669,11 @@ Alcohol is banned and drinking it is a serious crime [L0108]. Under the anti-dru
 
 #### Religion and social media
 
-Don't post or say anything against Islam or Kuwait's customs, including on social media [L0102].
+Don't post or say anything against Islam or Kuwait's customs, including on social media [L0102]. When the 2026 war began, Bangladesh embassies in six Middle East countries, including Kuwait's, issued alerts, and several warned that posting photos or videos of the situation or baseless news breaks these countries' laws [PK0030, PK0032].
+
+#### Violent crime
+
+In November 2026 a Kuwaiti criminal court sentenced a Bangladeshi to death for the premeditated murder of a friend [PK0048]. Prosecutors said the friend had shared private photos of the man's wife on Facebook and refused repeated requests to delete them, and according to the charges he waited with a knife outside the friend's workplace and stabbed him repeatedly when he came out [PK0049, PK0050].
 
 #### Traffic
 
@@ -1021,7 +1028,8 @@ An engineering job title from PAM is needed both for the work permit and for the
 Kuwait is the main overseas employer of Bangladeshi nurses, and the route runs government to government through BOESL (Bangladesh Overseas Employment and Services Limited, the government's own recruiting agency) [K0052, K0053, K0060]. In May 2023 the Bangladesh Embassy signed an agreement with Kuwait's Ministry of Health (MOH) on recruiting medical staff, and by the end of 2024, 677 Bangladeshi nurses had been placed in Kuwait's public hospitals since 2022 [K0060, K0059].
 
 - **The first round:** in 2022 BOESL nurses went to MOH hospitals without migration cost, on Tk 80,000 to 90,000 a month with overtime and a yearly increment [K0063, K0064].
-- **The 2025 round:** in October 2025 Kuwait asked BOESL for 100 nurses with English, at least 3 years' experience and basic life support certification, offering up to Tk 1.27 lakh for BSc and Tk 1.11 lakh for diploma nurses [K0053, K0054, K0055]. Of 100 who sat the exam, 15 were selected, and by May 2026 only five had finished visa processing, because Kuwait had not given clearance during the Middle East tensions [K0056, K0057, K0058].
+- **The 2025 round:** in 2025 Kuwait asked BOESL for 100 nurses; a May 2026 news feature said candidates needed English and basic life support certification [K0053, K0054]; BOESL's own circular asked for experience as a preference, not a set number of years (see the next item) [PK0015]. Of 100 who sat the exam, 15 were selected, and by May 2026 only five had finished visa processing, because Kuwait had not given clearance during the Middle East tensions [K0056, K0057, K0058].
+- **How the 2025 round was applied for:** BOESL's circular, open from 20 August 2025, asked for nurses up to 39 years old, preferring English and experience, for 20 male and 30 female BSc posts and 10 male and 40 female diploma posts, each paid Tk 1,27,360 [PK0014, PK0021, PK0015, PK0016]. The job had a three-month probation and was renewable for three years with increments [PK0015]. Nurses applied at brms.boesl.gov.bd with a Tk 100 fee, uploading one PDF of an English CV, all education and experience certificates, mark sheets, transcripts, registration and a colour passport copy; those finally selected needed a valid Basic Life Support certificate [PK0020, PK0021, PK0019]. Selected nurses paid BOESL a Tk 56,350 service charge, plus the GAMCA (GCC Approved Medical Centres Association, now Wafid) medical, the visa stamping fee at the Kuwait Embassy in Dhaka and other fees; a nurse who withdrew after handing in the visa papers lost the pay order lodged with BOESL [PK0017, PK0018, PK0022].
 
 1. **Come only on Article 18.** Nurses, home nurses and caretakers may be recruited only on Article 18, never Article 20 [W0077].
 2. **Get the MOH licence before you work.** A Kuwait MOH licence is required for any nursing job, including assistant nurse, and working without one can lead to deportation and jail [W0080]. Dataflow, a credential-checking company, verifies your certificates; the employer files the licence application with the Dataflow report on MOH's portal and pays online; then you sit a computer-based Prometric exam [K0066, K0067, K0068]. Nurses need 3 years' hospital inpatient experience, a good-standing certificate dated within 6 months, a criminal record check and vaccination records [K0069, K0070].
@@ -1029,7 +1037,7 @@ Kuwait is the main overseas employer of Bangladeshi nurses, and the route runs g
 4. **If hired inside Kuwait, get an MOH-attested contract** and check that the hospital has a valid MOH licence and an MOH/PAM quota [W0081].
 
 > **Need to know**
-> - Is BOESL recruiting nurses or doctors for Kuwait now, and where does it post the circular?
+> - Is BOESL recruiting nurses or doctors for Kuwait now?
 > - Do BOESL nurses sit the Prometric exam, or does MOH's selection panel replace it? [K0062, K0068]
 > - What do the Dataflow check and the MOH licence cost a Bangladeshi nurse, and who pays? [K0067]
 
@@ -1693,6 +1701,11 @@ The contract ends on the worker's death, and his heirs are owed full end-of-serv
 > - How do heirs in Bangladesh collect a dead worker's end-of-service pay and unpaid wages from Kuwait, and how long does it take?
 > - Does the Welfare Board still pay Tk 35,000 for transport and burial at the airport for a Kuwait worker?
 
+#### Cases
+
+- **Abdul Ali, driver, 2010:** a driver in Kuwait since 1985, he died on 27 November 2010 in Jleeb Al-Shuyoukh, two months after he began working for an owner other than the employer who brought him; a Kuwaiti paper reported he had not been paid for those two months [PK0004, PK0005, PK0006]. His family said the body had head injuries and broken teeth; his brother said he was hurried and told to bury him in Kuwait, was threatened by phone when he thought of filing a case, and alleges the Embassy staff gave him no help [PK0007, PK0008, PK0009]. The Kuwaiti death certificate gave the cause as "condition under consideration" [PK0011]. In 2011 the Embassy told BMET that the sponsor (kafil) would not help with compensation; the son says the number the Embassy gave as the kafil's was his uncle's [PK0010, PK0001]. By February 2024 the son had made more than 11 applications; the Welfare Board said it kept forwarding them without result, and a Foreign Ministry director said murder was hard to prove after so many years [PK0002, PK0012, PK0003]. The son regrets taking no photograph of the body [PK0013].
+- **Md. Zahed, camel herder, 2026:** Zahed, 35, of Sandwip, Chattogram, died in March 2026 in Kuwait's Saloni desert while grazing camels; his family, citing his co-workers, said the area has many unexploded landmines and a mine blast killed him [PK0038, PK0039, PK0040]. His father asked the government to bring the body home quickly, and the Sandwip Upazila Nirbahi Officer (the upazila's chief administrator) offered the administration's help [PK0051, PK0041].
+
 ### If you lose the job
 
 - **Closure or bankruptcy:** the contract ends and full end-of-service pay is due; if the firm is sold or merged, your contract carries on with the new owner [L0135, L0136, L0143]. If the firm is shut for reasons that aren't your fault while the employer wants you to keep working, you are paid for the closure [L0041].
@@ -1737,7 +1750,7 @@ The contract ends on the worker's death, and his heirs are owed full end-of-serv
    2. Attach copies of your passport and Civil ID and a colour photo, and hand it in at Room 13 [B0124, B0122].
    3. Pay KD 17 (about Tk 6,850) at counter 4; the card is ready in 7 working days [B0125, B0127, B0126, G0002].
    A lost card can be downloaded from wewb.gov.bd with your passport number, or a duplicate requested from the Labour Wing [B0129, B0128].
-4. **Renew your passport.** E-passport fees for workers (labourer, driver, cook, painter, cleaner), 48 pages: KD 9.500 regular or 14.000 urgent for 5 years; KD 15.500 or 23.500 for 10 years [B0157]. Professionals pay KD 31.000 or 46.500 for 5 years and KD 38.500 or 54.000 for 10 years [B0158]. Come in person with a copy of the old passport and your Civil ID, pay cash at the counter, give biometrics and keep the delivery slip; passports are handed out 2 to 4 pm against the old passport and the slip, and lists of new passports are posted on the Embassy's Facebook page [B0154, B0152, B0153, B0156, B0206].
+4. **Renew your passport.** E-passport fees for workers (labourer, driver, cook, painter, cleaner), 48 pages: KD 9.500 regular or 14.000 urgent for 5 years; KD 15.500 or 23.500 for 10 years [B0157]. Professionals pay KD 31.000 or 46.500 for 5 years and KD 38.500 or 54.000 for 10 years [B0158]. Come in person with a copy of the old passport and your Civil ID, pay cash at the counter, give biometrics and keep the delivery slip; passports are handed out 2 to 4 pm against the old passport and the slip, and lists of new passports are posted on the Embassy's Facebook page [B0154, B0152, B0153, B0156, B0206]. A Kuwait-based social worker wrote in October 2025 that online e-passport appointments were mostly unavailable, and those found were four to five months away; that the Embassy was crowded, with hours-long lines; and that its mobile consular camps in other areas of Kuwait had stopped long before [PK0025, PK0024, PK0026].
 5. **If you are detained.** Embassy staff visit the deportation centres and the Central Jail, issue travel permits and help send detained Bangladeshis home (see Going home without valid papers) [B0137, B0138].
 6. **If you are sick in hospital.** On request of the hospital or relatives, the Embassy gives money to send sick Bangladeshis home [B0139].
 7. **Power of attorney for land or money at home.** Sign it in person before the consular officer (the Embassy doesn't draft it); bring the original and a copy, 2 photos each of the giver and receiver, proof of Bangladeshi nationality and a Civil ID copy; KD 3.250 (6.250 urgent) [B0164, B0167].
@@ -1748,10 +1761,11 @@ The contract ends on the worker's death, and his heirs are owed full end-of-serv
 
 ### Contacts in Kuwait
 
-- **Bangladesh Embassy:** Messila, Block 7, Street 16, Villa 91 and 93; P.O. Box 26607, Safat 13084; +965 23900913; mission.kuwait@mofa.gov.bd [B0140, B0165, B0141, B0142]. Sunday to Thursday 8 am to 4 pm; attestation counters 8 am to 2 pm [B0150, B0168].
+- **Bangladesh Embassy:** Messila, Block 7, Street 16, Villa 91 and 93; P.O. Box 26607, Safat 13084; +965 23900913; mission.kuwait@mofa.gov.bd [B0140, B0165, B0141, B0142]. Sunday to Thursday 8 am to 4 pm; attestation counters 8 am to 2 pm [B0150, B0168]. Closed on Fridays and Saturdays, on all Bangladesh public holidays and on all Kuwait public holidays, a Kuwait-based social worker wrote in October 2025 [PK0023].
+  - Ambassador: Major General Syed Tareq Hossain (March 2026) [PK0035].
   - Labour Wing: Counsellor Md. Shoaib-ul-Islam Tarafder; +965 23910920; labourwing.kuwaitemb.bd@gmail.com [B0146, B0144, B0143].
   - Passport and Visa Wing: First Secretary Mohammad Atiqul Mamun; +965 23901007 [B0147, B0145].
-  - Emergency hotlines (September 2026): +965 69920013, +965 66516404, +965 50895161 [B0202].
+  - Emergency hotlines (February and September 2026): +965 69920013, +965 66516404, +965 50895161 [PK0033, B0202]. On 28 February 2026 the Embassy told Bangladeshis to stay away from military sites, stay somewhere safe, and keep cash, passport, Civil ID, health insurance card, medicines, a phone charger and power bank, dry food and water with them [PK0030, PK0031].
 - **Sonali Bank representative office** (bank accounts, Wage Earner Development Bonds, remittance complaints): +965 65762097, sbro.kuwait@sonalibank.com.bd [B0161].
 - **PAM:** hotline 103, answered 10:30 am to 1:30 pm, the same hours its offices take visitors [D0100]. Domestic workers: Domestic Labour Office, Rumaithiya, Block 7, Street 78, behind the main co-operative society [D0101].
 - **MOI Residency Affairs:** 25582960, 25582961, 97288200, 97288211 [W0061].

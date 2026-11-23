@@ -1,0 +1,44 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/kuwait/doc.md",
+  "section": "What closed it before",
+  "old_str": "and one reported on 4 June injured at least four Bangladeshis and more than 60 people in all and killed an Indian [PK0034, PK0035, PK0036, PK0044, PK0045].",
+  "new_str": "and one reported on 4 June injured at least four Bangladeshis and more than 60 other people and killed an Indian, the Bangladesh Embassy said [PK0034, PK0035, PK0036, PK0044, PK0045].",
+  "problem": "PK0045 says more than 60 others were injured besides the four ('আরও ৬০ জনের বেশি'), not 60 in all; also restores the Embassy attribution."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/kuwait/doc.md",
+  "section": "Religion and social media",
+  "old_str": "When the 2026 war began, Bangladesh embassies in the Gulf, including Kuwait's, issued alerts,",
+  "new_str": "When the 2026 war began, Bangladesh embassies in six Middle East countries, including Kuwait's, issued alerts,",
+  "problem": "The six embassies included Lebanon and Iraq, which are not Gulf countries (source pa-2026-02-28-qujb76fbeq)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/kuwait/doc.md",
+  "section": "Violent crime",
+  "old_str": "In November 2026 a Kuwaiti criminal court sentenced a Bangladeshi to death for the premeditated murder of a friend who had posted private photos of his wife on Facebook and refused to delete them; prosecutors said he waited with a knife outside the friend's workplace and stabbed him repeatedly [PK0048, PK0049, PK0050].",
+  "new_str": "In November 2026 a Kuwaiti criminal court sentenced a Bangladeshi to death for the premeditated murder of a friend [PK0048]. Prosecutors said the friend had shared private photos of the man's wife on Facebook and refused repeated requests to delete them, and according to the charges he waited with a knife outside the friend's workplace and stabbed him repeatedly when he came out [PK0049, PK0050].",
+  "problem": "The photo motive is the prosecutors' account (PK0049) but was stated as fact; the knife detail comes from the charges (PK0050), not prosecutors' statements."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/kuwait/doc.md",
+  "section": "Nurses and doctors",
+  "old_str": "in 2025 Kuwait asked BOESL for 100 nurses with English, at least 3 years' experience and basic life support certification [K0053, K0054].",
+  "new_str": "in 2025 Kuwait asked BOESL for 100 nurses; a May 2026 news feature said candidates needed English, at least 3 years' experience and basic life support certification [K0053, K0054].",
+  "problem": "Conflicts with the next bullet: BOESL's own circular (PK0015) only preferred English and experience, with no 3-year minimum. Attributing K0054 to the feature makes the difference visible; a human may instead drop the 3-year claim, following the resolved salary conflict that prefers BOESL's letter."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/kuwait/doc.md",
+  "section": "Nurses and doctors",
+  "old_str": "plus the GAMCA (now Wafid) medical,",
+  "new_str": "plus the GAMCA (GCC Approved Medical Centres Association, now Wafid) medical,",
+  "problem": "GAMCA is not explained anywhere in the doc (first and only use)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/kuwait/doc.md",
+  "section": "Contacts in Kuwait",
+  "old_str": "Closed on Fridays and Saturdays, on all Bangladesh public holidays and on all Kuwait public holidays [PK0023].",
+  "new_str": "Closed on Fridays and Saturdays, on all Bangladesh public holidays and on all Kuwait public holidays, a Kuwait-based social worker wrote in October 2025 [PK0023].",
+  "problem": "PK0023 comes from a reader's letter, not the Embassy; the attribution was dropped."
+ }
+]

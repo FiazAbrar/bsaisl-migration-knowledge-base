@@ -1,0 +1,18 @@
+{
+ "articles": [
+  {
+   "article_id": "1814b99c-2e1b-43d0-8e31-d2f97f73de55",
+   "used": true,
+   "fact_ids": [
+    "PS0041",
+    "PS0038",
+    "PS0036",
+    "PS0037",
+    "PS0039",
+    "PS0040"
+   ],
+   "reason_if_unused": "PS0040 (death on 3 April, from the article's opening) logged but not cited: the father's detailed account in the same article gives injury on 3 April and death on 20 April; see notes.md Resolved conflicts.",
+   "held_for_global": []
+  }
+ ]
+}

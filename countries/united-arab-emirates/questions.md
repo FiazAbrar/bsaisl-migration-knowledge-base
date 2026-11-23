@@ -15,6 +15,7 @@ These are the questions the guide can't yet answer, grouped by the guide's secti
 - In which jobs did most of the 764 women cleared by BMET for the UAE from January to 7 November 2026 go: cleaning, salons, hospitals, garments or others?
 - Of the final price a Bangladeshi worker pays for a UAE work visa in 2026, how much does each layer (the visa seller in the UAE, the Bangladeshi agency, the village broker) keep?
 - How many months does a UAE construction helper or cleaner who paid 2026 prices take to repay the cost of going?
+- Is Dubai Taxi's 2026 recruitment still taking Bangladeshis, and is Al Anas Overseas its only agency or one of three (with VIP Global and M Bahar Overseas)?
 
 ## Work visa: company worker
 
@@ -345,6 +346,7 @@ These are the questions the guide can't yet answer, grouped by the guide's secti
 - Where does a worker in the UAE complain when a licensed exchange house loses or delays a transfer (CBUAE's consumer complaint channel)?
 - Can a worker whose residence visa has expired or been cancelled still send money legally from a UAE exchange house without a valid Emirates ID?
 - Which UAE exchange houses sell the Wage Earner Development Bond, and what papers does a worker need there?
+- Have Janata Bank's UAE branches resumed opening new accounts since the September 2026 capital injection?
 
 ## Going home without valid papers
 
@@ -406,3 +408,7 @@ These are the questions the guide can't yet answer, grouped by the guide's secti
 ## Coming home
 
 - Does Dhaka airport immigration treat a returnee on a travel permit (outpass) differently, and do they keep the permit?
+
+## If war or attacks reach the UAE
+
+- Which online service did the March 2026 notice mean for renewing a UAE residence visa from Bangladesh, and did the one-month extension also cover entry permits of new workers who had not yet flown?

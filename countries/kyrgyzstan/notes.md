@@ -212,3 +212,11 @@ Save every file into `countries/kyrgyzstan/manual/` (NOT `sources/`). Keep the r
 19. **Kyrgyz Ministry of Health: list of accredited medical universities (2026)** and order No. 912 of 3 Aug 2026 (med.kg or gov.kg) → `moh-kg-medical-accreditation-2026.pdf`
 
 - 2026-11-17, insurance start date conflict: WEWB notice (ZZ0001, Jan 2026) says cover is for workers going from 1 January 2023; BMET's safe-migration leaflet (B0010, undated) says from 12 March 2023 (the date the JBC contract was signed; the JBC leaflet says the contract is effective from 1 January 2023). The doc follows the newer WEWB notice and asks the question as a Need to know.
+
+## Prothom Alo archive pass (prefix PY)
+
+Five articles read: four on the May 2024 Bishkek mob attacks (18, 19, 19 and 23 May 2024) and one on the students stuck at home since July 2025 (6 Apr 2026). All used (PY0001 to PY0019): Embassy's estimate of Bangladeshis in Kyrgyzstan (Size), how the attacks unfolded, workers also hurt, the Embassy's stay-indoors advice, the online-classes request (Student visa, Safety), and the stranded students' visa-extension refusals and demands (Student visa).
+
+### Resolved conflicts
+
+- Number of Bangladeshi students in May 2024: the same Prothom Alo report says "at least 800 medical students" (V0126, its English edition) and gives the Embassy's own estimate of 600 to 800 students (PY0001); a student told the Financial Express over 1,000 (V0135). Not a conflict that changes what anyone does: the doc keeps "at least 800" in the Student visa intro and adds the Embassy's estimate, attributed, under Size.

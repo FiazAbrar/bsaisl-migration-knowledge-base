@@ -1,0 +1,44 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/singapore/doc.md",
+  "section": "Extremist views and posts online",
+  "old_str": "ISD (the Internal Security Department, Singapore's security agency) has cancelled Bangladeshi workers' passes and sent them home for extremist views, including posts on social media where it found no attack plan [C0180, C0198]. Cases:",
+  "new_str": "Singapore has arrested or detained Bangladeshi workers for extremist views, and ISD (the Internal Security Department, Singapore's security agency) has cancelled passes and sent workers home, including over posts on social media where it found no attack plan [C0180, C0198]. Cases:",
+  "problem": "Lead says passes were cancelled and workers sent home in every case; the 2016 eight and the 2020 worker are only reported detained or arrested (PS0029, PS0031)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/singapore/doc.md",
+  "section": "Extremist views and posts online",
+  "old_str": "Five other Bangladeshi workers found in the investigation, not members but holding jihadi books, were also sent home [PS0034].",
+  "new_str": "Five other Bangladeshi workers found in the investigation, not members but holding jihadi books, were sent home [PS0034].",
+  "problem": "\"also sent home\" implies the eight were sent home; PS0031-PS0033 say only that they were detained."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/singapore/doc.md",
+  "section": "Extremist views and posts online",
+  "old_str": "- *2020.* A construction worker in Singapore since 2017, radicalised by pro-Islamic State material he viewed online, was arrested while planning armed attacks [PS0029, PS0030].",
+  "new_str": "- *2020.* A construction worker in Singapore since 2017 was arrested; investigators found he had been radicalised after viewing pro-Islamic State material online and was planning armed attacks [PS0029, PS0030].",
+  "problem": "Drops attribution: PS0029 says investigators found he was radicalised and planning attacks."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/singapore/doc.md",
+  "section": "Extremist views and posts online",
+  "old_str": "and the other inflammatory posts on the Israel-Iran conflict, calling Muslims who oppose Islamic law \"kafir\"",
+  "new_str": "and the other inflammatory posts on the Israel-Iran conflict and religiously divisive posts, calling Muslims who oppose Islamic law \"kafir\"",
+  "problem": "Merges two kinds of post: PS0025 lists the 'kafir' remark as a separate religiously divisive post, not part of the Israel-Iran posts."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/singapore/doc.md",
+  "section": "What goes wrong most, and what people wrongly believe",
+  "old_str": "On 3 April 2024 Rakib Hossain, 22, of Sharsha, Jashore, was crushed when the rope snapped as a bundle of rods was being lifted up the high-rise he was building; he died in hospital on 20 April, and his father said the family, already in debt from sending him, spent a lot more bringing the body home [PS0041, PS0038, PS0036, PS0037, PS0039].",
+  "new_str": "Rakib Hossain, 22, of Sharsha, Jashore, was crushed on 3 April 2024 when the rope snapped as a bundle of rods was being lifted up the high-rise where he worked, and died in hospital on 20 April, his father said; the family, already in debt from sending him, spent a lot more bringing the body home [PS0041, PS0038, PS0036, PS0037, PS0039].",
+  "problem": "Accident account is the father's (PS0036, PS0037) but read as established fact; attribution moved to cover it."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/singapore/doc.md",
+  "section": "Send through a bank or licensed remittance company, never hundi",
+  "old_str": "Agrani Bank (five branches in Singapore), National Bank and Prime Bank (three each) have taken remittances and deposits there since 2006 [PS0014, PS0016]. Standard Chartered, UOB and OCBC cut their accounts in about 2021 over money-laundering allegations, heavy use of cash and non-compliance, leaving DBS as the three banks' only Singapore bank [PS0015].",
+  "new_str": "Agrani Bank (five branches in Singapore), National Bank and Prime Bank (three each) have offered remittance services there since 2006, and their branches also take deposits [PS0014, PS0016]. The three banks' accounts with Standard Chartered, UOB and OCBC were cut off in about 2021 over money-laundering allegations, heavy use of cash and non-compliance, leaving DBS as their only Singapore bank [PS0015].",
+  "problem": "PS0014 gives 2006 for remittance services only, not deposits; PS0015 does not say which side cut the accounts (passive in source)."
+ }
+]

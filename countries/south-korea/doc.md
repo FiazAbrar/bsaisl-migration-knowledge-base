@@ -76,7 +76,7 @@ Korea is open to Bangladeshi EPS workers, but few are being picked: BMET (the Bu
 
 #### The size of the flow
 
-BOESL says 38,059 Bangladeshis had gone to Korea through it under EPS by 23 August 2026 [C0030]. By BMET's count 39,702 workers went to South Korea from 2004 to May 2025, 0.28% of all Bangladeshi overseas employment [C0055]. Workers who went to South Korea, by year:
+BOESL says 38,059 Bangladeshis had gone to Korea through it under EPS by 23 August 2026 [C0030]. By BMET's count 39,702 workers went to South Korea from 2004 to May 2025, 0.28% of all Bangladeshi overseas employment [C0055]. Counting from 1994, North South University researchers put the total at 53,678 to the end of 2023 [PR0015]. Workers who went to South Korea, by year:
 - 2014: 1,748 [C0054]
 - 2015: 2,359 [C0054]
 - 2016: 1,980 [C0054]
@@ -86,7 +86,7 @@ BOESL says 38,059 Bangladeshis had gone to Korea through it under EPS by 23 Augu
 - 2020: 208 [C0054]
 - 2021: 108 [C0054]
 - 2022: 5,910 [C0054]
-- 2023: 4,996 (BMET's online clearance system: 4,991) [C0054, C0058]
+- 2023: 4,996 (BMET's online clearance system: 4,991), 4,804 of them sent by BOESL and a few by private agencies [C0054, C0058, PR0027]
 - 2024: 3,038 (online clearance system: 3,022) [C0054, C0057]
 - 2025: 1,901 [C0056]
 - 2026, to 18 November: 1,349 [C0059]
@@ -105,7 +105,8 @@ Korea counted 44,721 Bangladeshis on 30 September 2026 (36,612 men and 8,109 wom
 #### What has closed it before
 
 - *2020-21, COVID-19.* Korea stopped admitting EPS workers from March 2020 to November 2021 and resumed in December 2021 [C0028]. Departures fell from 1,647 in 2019 to 208 in 2020 and 108 in 2021, then jumped to 5,910 in 2022 [C0054].
-- *Quotas Bangladesh cannot fill.* Since 2023 fewer than half of Bangladesh's places have been used [C0016]. The 2023 shortfall was put down to Korean employers' poor view of Bangladeshi workers for frequent job changes, weak employer demand, little promotion from Bangladesh, poor Korean and cultural differences [C0026]. A World Bank study ranked Bangladesh last of seven source countries in Korean employers' preference for 2011 to 2015 [C0023].
+- *2024, the situation in Bangladesh.* In August 2024 BOESL set the manufacturing skill test for 1 September, but HRD Korea said the final date depended on the situation in Bangladesh improving [PR0033, PR0034].
+- *Quotas Bangladesh cannot fill.* Since 2023 fewer than half of Bangladesh's places have been used [C0016]. The 2023 shortfall was put down to Korean employers' poor view of Bangladeshi workers for frequent job changes, weak employer demand, little promotion from Bangladesh, poor Korean and cultural differences [C0026]. A World Bank study ranked Bangladesh last of seven source countries in Korean employers' preference for 2011 to 2015 [C0023]. In March 2024 Korea's ambassador in Dhaka put the 2023 shortfall of the 10,200 quota down to problems learning Korean, and said the Ministry of Expatriates' Welfare had designated two TTCs (Technical Training Centres) where Korean trainers could teach language and technical skills [PR0013, PR0001].
 
 #### Where it may grow, and where it may tighten
 
@@ -116,6 +117,8 @@ Korea counted 44,721 Bangladeshis on 30 September 2026 (36,612 men and 8,109 wom
 > **Need to know**
 > - Was BOESL's US$1,200 payment per seasonal worker or per company, and does any of it come back to the worker as a charge?
 - *Fewer E-9 places.* The 2026 E-9 cut to 80,000 shrinks the pool all 17 sending countries compete for [C0037, C0004].
+- *Eldercare.* A 2026 study by KDI (the Korea Development Institute) projected that Korea may need about 332,000 more eldercare workers by 2033 and about 990,000 by 2043; KDI proposes easing foreign workers' entry alongside care robots [PR0052, PR0053].
+- *Training in Bangladesh.* In July 2024 KOICA (Korea International Cooperation Agency, Korea's aid agency) agreed US$10 million (Tk 117 crore) with the Ministry of Expatriates' Welfare, to modernise the Bangladesh-Korea Technical Training Centre in Chattogram [PR0031, PR0032].
 
 ### How a job reaches you, and who takes a cut
 
@@ -130,11 +133,11 @@ An EPS job starts with a Korean employer's request to a Korean job centre; it re
 5. A rostered candidate who is not picked within the roster period (two years) is deleted automatically and must pass the Korean, skills and medical tests again [C0014, C0018].
 6. When submitting the job application, every candidate signs an affidavit on Tk 300 stamp paper that passing the test and being rostered does not guarantee a job in Korea [C0007].
 
-Employers choose from the pool by nationality, age and physique as well as scores [C0043]. Bangladeshi workers go mainly to small and medium firms, not large companies, and BOESL has six representatives in Korea who keep in touch with employers [C0021, C0022].
+Employers choose from the pool by nationality, age and physique as well as scores [C0043]. Bangladeshi workers go mainly to small and medium firms, not large companies, and BOESL has six representatives in Korea who keep in touch with employers [C0021, C0022]. North South University researchers wrote in 2024 that some Korean employers believe Bangladeshis do not follow Korean cultural and work rules, and so mostly prefer workers from Vietnam or Nepal [PR0017]. In August 2025 a Bangladeshi EPS worker, vice chairman of the Korea-Bangla Press Club, wrote that he had often seen factionalism and fights among Bangladeshi workers put Korean owners off hiring them, and that Korean officials took a poor view of candidates' protests in front of BOESL; he quoted a senior Korean official: "we need workers without complaints, not protesters" [PR0006, PR0007, PR0008].
 
 #### The roster backlog
 
-A candidate waiting since 2024 told Bonik Barta in September 2025 that about 1,700 people rostered after passing in 2022 had reached the end of their two years without going, and that more than 7,400 passed in 2024 [C0019]. On 14 May 2026 people who had passed but were never sent protested at Probashi Kallyan Bhaban, saying about 12,000 from the 2022 and 2023 batches had been deleted, alleging irregularities and bribery by some BOESL officials, and demanding an "auto-roster" and a halt to new circulars [C0112, C0113]. They said they would pay any official cost to be sent [C0114]. In April 2026 BOESL's managing director said BOESL had asked Korea to take candidates whose certificates had expired [C0140].
+A candidate waiting since 2024 told Bonik Barta in September 2025 that about 1,700 people rostered after passing in 2022 had reached the end of their two years without going, and that more than 7,400 passed in 2024 [C0019]. On 14 May 2026 people who had passed but were never sent protested at Probashi Kallyan Bhaban, saying about 12,000 from the 2022 and 2023 batches had been deleted, alleging irregularities and bribery by some BOESL officials, and demanding an "auto-roster" and a halt to new circulars [C0112, C0113]. They said they would pay any official cost to be sent [C0114]. In August 2025 BOESL called 3,101 people who had passed the 2024 (lottery) EPS-TOPIK and the medical to hand in their job applications, from 17 to 30 August [PR0003, PR0004]. In April 2026 BOESL's managing director said BOESL had asked Korea to take candidates whose certificates had expired [C0140].
 
 #### Where dalals still get in
 
@@ -183,7 +186,7 @@ The employer must pay 8.3% of the worker's monthly ordinary wage each month into
 
 #### Remittances from Korea
 
-Bangladesh Bank recorded US$135.46 million of remittances from South Korea in 2021-22, US$118.69 million in 2022-23 and US$108.01 million in July to September 2026, 14th among source countries [C0102, L0001]. (Legal channels are under Sending money home.)
+Bangladesh Bank recorded US$96.29 million of remittances from South Korea in 2017-18 [PR0002], US$135.46 million in 2021-22, US$118.69 million in 2022-23 and US$108.01 million in July to September 2026, 14th among source countries [C0102, L0001]. (Legal channels are under Sending money home.)
 
 > **Need to know**
 > - Why are recorded remittances from Korea so low for some 19,000 Bangladeshi workers: is hundi (환치기) the main channel?
@@ -219,6 +222,8 @@ The top problems are being stuck with an employer you cannot leave, injury, unpa
 *"A broker or agency can get you an EPS visa."* Only BOESL may send EPS workers, and the employer, not anyone in Bangladesh, picks the worker [C0012, C0020]. People promised visas and passes have paid up to Tk 10 lakh [C0115].
 
 *"You can pay to pass the Korean test."* Proxy-exam sellers exist, but a cheater loses the result and is barred for three years in Bangladesh, and Korea has deported workers who used proxies [C0039, C0010, C0042].
+
+*"Four years in Korea earns Tk 1 crore."* Returnees told North South University researchers in 2024 that more than four years' work can earn at least Tk 1 crore [PR0016]. That needs the full stay: after three years the employer decides whether to re-employ you (see What ties you to the employer) [C0063].
 
 *"Korea pays Tk 2 to 3 lakh a month."* That needs overtime: the 2026 minimum is KRW 2,156,880 a month, and 68.9% of E-9 workers earned under KRW 3 million in 2025 [C0143, C0080, C0128].
 
@@ -312,7 +317,8 @@ Bangladeshis go mainly into manufacturing: food, paper, plastics, electrical and
 
 1. **Get the textbook.** Every EPS-TOPIK question comes from an unpublished question bank based on HRD Korea's "EPS-TOPIK Standard Textbook" [R0087]. Download it free from epstopik.hrdkorea.or.kr/epstopik/book/std/standardBookList.do?lang=ko [R0092].
 2. **Know what is tested.** The test checks basic everyday Korean, the Korean needed in industry and understanding of Korean workplace culture [R0134]. It has 40 multiple-choice questions in 50 minutes: 20 reading (100 marks, 25 minutes) then 20 listening (100 marks, 25 minutes), with no break between [R0085, R0087]. In the Special EPS-TOPIK for returning workers, 8 of the 20 reading questions for manufacturing are job-related [R0138].
-3. **Where to learn.** In 2022 BOESL said Korean was taught at 40 government technical training centres across the country [R0190].
+3. **Where to learn.** In 2022 BOESL said Korean was taught at 40 government technical training centres across the country [R0190]. Korean is also taught at Dhaka University's Institute of Modern Languages and the Bangladesh Korea Technical Training Centre [PR0014].
+4. **Know the gap.** Many who pass the test still lack practical Korean and cannot follow the regional dialects and accents of Korean cities, North South University researchers wrote in 2024 [PR0018].
 
 > **Need to know**
 > - Which TTCs (Technical Training Centres) and the Bangladesh-Korea Technical Training Centre teach EPS Korean in 2026, for how long and at what fee?
@@ -379,12 +385,13 @@ The final list for the roster is published from the Korean test and skills test 
 ### Step 7: Medical, job application and the roster
 
 1. **Medical at the Civil Surgeon's office.** Final passers take a medical at the Civil Surgeon's office before going on the roster [R0098]. A medical taken before your result is announced is not accepted [R0120]. If anyone there harasses you or asks for unofficial money, tell the Civil Surgeon's senior officials, then report it on BOESL's form forms.gle/FDqhMJd7GrM4ZkYD6 [R0123].
-2. **Job application.** BOESL calls passers who are medically fit (in its June 2026 notice, to a set date and time) to Room 701, Probashi Kallyan Bhaban (7th floor), for an EPS briefing; you hand in HRD Korea's job application form and get a receipt [R0120, R0098]. Late submission delays your roster [R0120].
+2. **Job application.** BOESL calls passers who are medically fit (in its June 2026 notice, to a set date and time) to Room 701, Probashi Kallyan Bhaban (7th floor), for an EPS briefing; you hand in HRD Korea's job application form and get a receipt [R0120, R0098]. Each candidate gets a time slot by serial number (in August 2025: 10:00, 10:30, 12:00, 14:30 or 15:00) [PR0043]. Late submission delays your roster [R0120].
 
    You'll need [R0120, R0121]:
    - 1 colour passport-size photo on a white background;
    - the original medical-pass certificate (keep a photocopy);
    - the original passport and a clear colour copy with at least 395 days' validity left;
+   - the original SSC or equivalent certificate and a photocopy (required in the August 2025 call) [PR0005];
    - if your name, date of birth or passport number is wrong anywhere, tell BOESL.
 
    You also sign an affidavit on Tk 300 non-judicial stamp paper that being on the roster does not guarantee a job [R0070].
@@ -449,7 +456,8 @@ BOESL's leaflet says an EPS job pays about Tk 2 lakh a month and allows up to ni
 2. **BMET clearance (the smart card).** BOESL's charges include the smart card fee (Tk 250), welfare fee, insurance premium and immigration clearance (Who pays what) [R0188]. The smart card is your emigration clearance; with it you need no separate Welfare Board membership, and your family gets a Tk 3 lakh grant if you die abroad [R0012, R0013]. Check it is real at portal.wewb.gov.bd/bmet-wewbm-check; welfare desks at Dhaka, Chattogram and Sylhet airports check smart cards before departure [R0012, R0042].
 3. **Bangladesh insurance.** Workers leaving with BMET clearance are insured by Jiban Bima Corporation for Tk 10 lakh, for a one-time Tk 1,000 premium, for 5 years from the smart card's date [R0014, R0035]. It pays on death, permanent disability, and Tk 50,000 for job loss with return within 6 months [R0046, R0015].
 4. **A loan, if you need one.** PKB (Probashi Kallyan Bank, the government bank for migrant workers) lends up to Tk 3 lakh at 9% simple interest a year over up to 3 years, decided within 7 working days of complete papers [R0048]. You must be 18 to 60, not in default, and live permanently in the branch's area, with two guarantors [R0049, R0052]. Apply at the branch for your permanent address or online on mygov.bd, paying nothing when you apply [R0018, R0016]. Bring the bank's free application form, 3 recent photos, copies of your NID, passport, visa and BMET card, and 3 signed cheque leaves from an active account in your own name with its statement, and open a PKB savings account with at least Tk 500 [R0050]. PKB helpline 16238; loans department 01716-175560, migration@pkb.gov.bd [R0053, R0054].
-5. **Pack and check.** Keep one set of copies of all papers at home and at least 3 with you, and open at least 2 bank accounts before going, one in your name and one in a family member's [R0057]. Never carry a packet for anyone whose contents you don't know [R0058].
+5. **Flights.** There is no direct Dhaka-Korea flight; Bangladeshis in Korea said in 2026 that they mostly fly through a third country, which takes longer and costs more [PR0051].
+6. **Pack and check.** Keep one set of copies of all papers at home and at least 3 with you, and open at least 2 bank accounts before going, one in your name and one in a family member's [R0057]. Never carry a packet for anyone whose contents you don't know [R0058].
 
 > **Need to know**
 > - Do EPS workers also do BMET's 3-day PDO (pre-departure orientation), or does BOESL's PEPT training replace it [R0033, R0188]?
@@ -503,7 +511,8 @@ It is allowed only once and gives another 3 years plus 1 year 10 months [R0184].
 
 The E-8 visa lets Korean local governments (counties and cities) hire foreign workers legally for a short period in the busy farming and fishing seasons [R0252, R0217]. Korea's Ministry of Justice shares out seasonal workers to local governments twice a year, judging each one's capacity to manage them and to prevent human-rights abuses and absconding [R0217, R0218].
 
-**Is Bangladesh a source?** Yes, through MoUs that BOESL runs:
+**Is Bangladesh a source?** Yes, through MoUs that BOESL runs; private agencies have not managed to send workers:
+- *Private agencies, 2023-24.* KM International got demand for over 2,000 seasonal workers and collected 700 passports; the Bangladesh Embassy's labour wing in Seoul inspected the employers and attested demand letters for 80, and the ministry approved, but the Korean Embassy issued no visas: the job letters were for 90 days, which needs a 3-month C-4-5 visa that Korea was not issuing for recruitment, and KM returned the passports [PR0019, PR0023, PR0020, PR0021, PR0024]. Korea's Hampyeong-gun (Hampyeong County) had signed an MoU with Chapainawabganj Zila Parishad (district council), but the agency Hope Human Resources could not send workers under Korea's rules [PR0025, PR0026]. The E-8, for up to eight months, needs an agreement with a Korean local government, and in April 2024 the Korean Embassy was not issuing visas for any job under a year [PR0022, PR0029].
 - In April 2025 the first 25 Bangladeshis went as E-8 workers to fisheries companies under an MoU between the Ministry of Expatriates' Welfare and a Korean company [R0216].
 - In March 2026 BOESL recruited 20 workers (16 men, 4 women) for farms in Hampyeong County under an MoU between the Ministry and the county, for 3 to 8 months at KRW 10,030 an hour [R0125, R0126].
 
@@ -517,7 +526,7 @@ BOESL says no organisation other than a government one can send E-8 workers from
 
 **The risks.** The worker must do whatever work the employer needs and return on time; workers who return get priority next time [R0127]. A worker who returns after seasonal work also earns 10 points towards a later Special EPS-TOPIK [R0146].
 
-**The scams.** BOESL says anyone asking money beyond its set charge is a fraudster [R0130]. Applying online does not guarantee an interview or selection, and BOESL takes no charge until you are finally selected [R0130].
+**The scams.** BOESL says anyone asking money beyond its set charge is a fraudster [R0130]. In 2024 private-sector recruiters described Korean seasonal farm work (dried-fish processing, vegetable farms, pig farms) as eight months' work, three months' leave and eight more months, with the employer paying the fares for the leave trip, over Tk 1.5 lakh a month and no Korean needed; Korea takes seasonal workers for jobs such as dried-fish processing, vegetable farming and pig farming, but none of KM International's workers got a visa [PR0028, PR0030, PR0020]. Applying online does not guarantee an interview or selection, and BOESL takes no charge until you are finally selected [R0130].
 
 **Where to get help:** BOESL, Probashi Kallyan Bhaban (5th floor), 71-72 Eskaton Garden, Ramna, Dhaka-1000, +88-02-58313838, 48319125 or 48317515, info@boesl.gov.bd [KB0007]; for fraud, see "Where to get help, by stage".
 
@@ -688,6 +697,10 @@ An E-9 worker who leaves Korea cannot be employed again under the EPS until 6 mo
 #### The alien registration card
 
 Registration, the card, address changes and the penalty for not registering are set out in Step 13: Alien registration card [E0127]. If your passport runs out while you are in Korea, the Bangladesh Embassy in Seoul issues a 48-page e-passport for KRW 150,000 (5 years) or KRW 187,000 (10 years), paid by bank or ATM, at the October to December 2026 rates [B0143].
+
+#### Ramadan, prayer and halal food
+
+Korea gives no concession on working hours in Ramadan, unlike Middle Eastern countries, the president of the Korea-Bangla Press Club wrote in 2025; most Bangladeshi workers break the fast with dates and water during work, and no iftar food is sold outside [PR0035, PR0036, PR0037]. Mosques across Korea hold iftar on Saturdays and Sundays; Korea has more than 300 mosques, and the Seoul Central Mosque and Islamic Center was built in 1969 on land the Korean government gave [PR0038, PR0041]. Most Korean food contains pork, the same writer said, so Muslims read the label even on snacks to check it is halal [PR0040, PR0039]. The Korea Muslim Federation counts about 65,000 Korean Muslims and more than 300,000 migrant Muslims [PR0042].
 
 #### Leaving and returning (holidays)
 
@@ -1257,10 +1270,14 @@ Students on degree courses (associate, bachelor's, master's, doctorate, research
 
 - **IEQAS-certified universities** (International Education Quality Assurance System, certified each year by the Ministries of Justice and Education): 184 institutions for degree programmes and 126 for Korean language programmes; their students get relaxed visa screening and more weekday work hours [V0148, KE0014, V0146]. The list is on studyinkorea.go.kr under "Accredited Universities" [V0148].
 - **Non-accredited universities** that fail inspection are designated for stricter visa screening on language and finances [V0147].
+- **E-visa universities.** A November 2025 student-written piece listed 11 universities whose students do the whole visa online without visiting the Embassy: Anyang, Busan University of Foreign Studies, Dong-Eui, Dongshin, Woosuk, Kyungsung, Konkuk (Seoul), Woosong, Korea Tech, Jeonbuk National and Sunchon National [PR0044, PR0009, PR0045, PR0046]. Education consultancies said these are Bangladeshi students' top choice; the piece said their master's classes meet one day a week, master's entry generally needs a bachelor's CGPA (cumulative grade point average) of at least 2.50 and IELTS (International English Language Testing System) 5.5 or equivalent, and many offer a spouse visa on conditions [PR0050, PR0049, PR0047, PR0048]. Part-time hours are set by law, not by the university (see Part-time work) [V0135].
 
 ### Costs
 
 - **Tuition (yearly averages):** undergraduate KRW 6,820,244 (private KRW 7,625,336; national and public KRW 4,265,842); graduate KRW 4,216,103 [V0144, KE0015, KE0016, V0145].
+- **Living costs:** KRW 750,000 to 1,000,000 a month for housing, food, transport and daily costs, by Korean government guidance as cited by an education consultancy's chief executive [PR0011].
+- **A first year in all, without a scholarship:** Tk 12.38 to 15.18 lakh at a national or public university (Tk 10.39 to 13.19 lakh with a 50% tuition waiver) and Tk 15.52 to 18.32 lakh at a private one, by one education consultancy's estimate; air fare, application and admission fees, visa, document attestation, setup and an emergency fund come on top [PR0054, PR0055, PR0012].
+- **Scholarships:** the Korean government's GKS (Global Korea Scholarship) 2027 undergraduate guideline is out; universities such as Kyungpook and Pusan National give tuition waivers on TOPIK results, on conditions [PR0056, PR0057].
 - **Visa fee:** USD 60 (Tk 7,500) single entry for a stay over 90 days, plus Tk 2,150 KVAC fee [V0088, V0024, V0007].
 - **What families actually paid in one 2026 case:** KRW 7.13 million (about Tk 600,000) per student for tuition, admission and dormitory at SinGyeongju University, paid before any visa [V0163].
 

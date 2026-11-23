@@ -1,0 +1,135 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/japan/doc.md",
+  "section": "The channels",
+  "old_str": "In October 2025 Japan was taking most Bangladeshi interns in care, industrial packaging, welding and car mechanics [PJ0053].",
+  "new_str": "In October 2025 Prothom Alo reported that Japan was taking the most technical interns in care, industrial packaging, welding and car mechanics [PJ0053].",
+  "problem": "PJ0053 says Japan is taking more technical interns in these fields; it does not say these are Bangladeshi interns."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/japan/doc.md",
+  "section": "The channels",
+  "old_str": "and the ministry signed a second zero-cost training agreement, with the Japanese company Onodera User Run [PJ0015, PJ0013].",
+  "new_str": "and the ministry signed another zero-cost training agreement, with the Japanese company Onodera User Run [PJ0015, PJ0013].",
+  "problem": "'Second' is not in the source; the article only says a new MoU followed the 2017 IM Japan MoU, and the doc elsewhere mentions a 2015 IM Japan understanding too."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/japan/doc.md",
+  "section": "The size of the flow",
+  "old_str": "The 100,000 figure first came from Japan's side: at a Tokyo seminar in May 2025 NBCC's chairman, Mikio Kesagayama, said",
+  "new_str": "At a Tokyo seminar in May 2025 NBCC's chairman, Mikio Kesagayama, said",
+  "problem": "'First came from Japan's side' is the writer's own conclusion; no cited fact says where the figure first came from."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/japan/doc.md",
+  "section": "The size of the flow",
+  "old_str": "In August 2025 a presentation by the Association of Japanese Language Institutes in Bangladesh (AJLIB) said at least 43,000 students could be sent in three years [PJ0037].",
+  "new_str": "In August 2025 a presentation by the Association of Japanese Language Institutes in Bangladesh (AJLIB) said at least 43,000 students could be sent in three years with proper planning [PJ0037].",
+  "problem": "Dropped the condition the presentation attached ('with proper planning and programmes')."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/japan/doc.md",
+  "section": "What has closed it before",
+  "old_str": " The Bangladesh Embassy in Tokyo said in January 2025 that after the 2018 and 2019 MOCs the number of Bangladeshis in Japan rose from 18,000 to about 32,000 in two and a half years [PJ0012].",
+  "new_str": "",
+  "problem": "Misreads PJ0012: the embassy said the rise from 18,000 to about 32,000 happened in the last two and a half years before January 2025, not in the two and a half years after the 2018-19 MOCs. It also contradicts the section's lead (the flow has stalled). Deleted here; corrected version moved to Who is in Japan (next entry)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/japan/doc.md",
+  "section": "Who is in Japan",
+  "old_str": "and the expatriates' ministry gave 26,000 in October 2025 [PJ0040, PJ0054].",
+  "new_str": "and the expatriates' ministry gave 26,000 in October 2025 [PJ0040, PJ0054]. The Bangladesh Embassy in Tokyo said in January 2025 that, after the MOCs of 2018 and 2019, the number of Bangladeshis in Japan had risen from 18,000 to about 32,000 in the previous two and a half years [PJ0012].",
+  "problem": "Receives the corrected embassy sentence removed from What has closed it before."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/japan/doc.md",
+  "section": "Where it may grow",
+  "old_str": "with Japanese lessons and preparation for Japan's professional exams, a columnist wrote in September 2026;",
+  "new_str": "with Japanese lessons and preparation for Japan's professional exams, the same North South University teacher wrote in September 2026;",
+  "problem": "PJ0098 is by the same North South University teacher cited in the Care bullet (PJ0097, same article); calling him 'a columnist' splits one source into two."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/japan/doc.md",
+  "section": "Where it may grow",
+  "old_str": "and that with the land they would have trained 30,000 people, Japanese included, within six months;",
+  "new_str": "and that with the land they would have trained and taken 30,000 people, including teaching them Japanese, within six months;",
+  "problem": "Mistranslation: PJ0084 says 30,000 workers would be trained 'including language teaching' (ভাষা শেখানোসহ), not that Japanese people would be among the 30,000."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/japan/doc.md",
+  "section": "Language centres and training",
+  "old_str": "Japanese companies are building their own pipelines [C0135]:",
+  "new_str": "Japanese companies and their partners are building their own training pipelines [C0128, C0135]:",
+  "problem": "C0135 alone does not support the lead, and the list includes KDS (a Japan-Bangladesh joint venture) and JBBRA (a recruiting agency), so 'Japanese companies' is not true of every item."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/japan/doc.md",
+  "section": "Language centres and training",
+  "old_str": "plans to train and place at least 3,000, and had sent 52 workers to Japan for construction and farm work [PJ0068, PJ0069];",
+  "new_str": "plans to train and place at least 3,000; he said 52 workers had already gone to Japan for construction and farm work [PJ0068, PJ0069];",
+  "problem": "PJ0068 says 52 workers have gone to Japan; it does not say the academy sent them."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/japan/doc.md",
+  "section": "Where to learn",
+  "old_str": "  - *Who:* aged 17 to 35 and physically fit; 50 seats in Dhaka (Mirpur) and 30 in Chattogram, for September to December 2025 [PJ0031, PJ0032, PJ0042, PJ0043, PJ0044].",
+  "new_str": "  - *Who:* aged 17 to 35; Dhaka also required physical fitness and Chattogram an SSC and an N5 pass; 50 seats in Dhaka (Mirpur) and 30 in Chattogram, for September to December 2025 [PJ0031, PJ0032, PJ0042, PJ0043, PJ0044].",
+  "problem": "Merges two courses: physical fitness is from the Dhaka notice only (PJ0031); Chattogram required SSC plus an N5 pass (PJ0043)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/japan/doc.md",
+  "section": "Where to learn",
+  "old_str": "  - *Who gets in first:* JLPT N5 passers, then NAT N5 passers",
+  "new_str": "  - *Who gets in first (Dhaka):* JLPT N5 passers, then NAT N5 passers",
+  "problem": "The priority order is from the Dhaka (Mirpur) notice (pa-2025-08-09); the Chattogram course required an N5 pass outright (PJ0043)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/japan/doc.md",
+  "section": "Where to learn",
+  "old_str": "  - *Classes:* from 1 September 2025, Sunday to Thursday, 8 am to 2 pm [PJ0036, PJ0045].",
+  "new_str": "  - *Classes:* from 1 September 2025 at 8 am; in Dhaka, Sunday to Thursday, 8 am to 2 pm [PJ0036, PJ0045].",
+  "problem": "The Sunday-Thursday 8-2 schedule is only in the Dhaka notice (PJ0036); Chattogram gives only the 1 September, 8 am start (PJ0045)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/japan/doc.md",
+  "section": "SSW scams",
+  "old_str": "The figure goes back to May 2025, when the chairman of NBCC, a Japanese business federation, told a Tokyo seminar his federation was ready to welcome 100,000 Bangladeshi workers over five years (see The size of the flow) [PJ0019].",
+  "new_str": "In May 2025 the chairman of NBCC, a Japanese business federation, told a Tokyo seminar his federation was ready to welcome 100,000 Bangladeshi workers over five years (see The size of the flow) [PJ0019].",
+  "problem": "'Goes back to' links the October 2026 claim to the May 2025 remark; Prothom Alo's fact-check (pa-2026-10-31) does trace it to the 29 May 2025 report, but no fact records that link and PJ0019 does not support it. Either neutral wording, or add a fact from pa-2026-10-31 lines 31-36 and keep the link attributed to Prothom Alo."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/japan/doc.md",
+  "section": "SSW scams",
+  "old_str": "The summit's joint statement instead expects up to 1 trillion yen of Japanese private investment to create 200,000 jobs inside Bangladesh, and the ESD MOC signed on 17 October 2026 sets no yearly number of workers [PJ0111, PJ0112].",
+  "new_str": "The summit's joint statement instead expects up to 1 trillion yen of Japanese private investment over five years to create 200,000 jobs inside Bangladesh, and Prothom Alo found that the ESD MOC signed on 17 October 2026 sets no target or guarantee of 100,000 workers a year [PJ0111, PJ0112].",
+  "problem": "Drops 'over five years' from PJ0111, and widens PJ0112 (no target or guarantee of 100,000 a year, per Prothom Alo's check) into 'no yearly number of workers' without attribution."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/japan/doc.md",
+  "section": "What changes from April 2027: Employment for Skill Development",
+  "old_str": "It sets no yearly number of workers [PJ0112].",
+  "new_str": "Prothom Alo found that it sets no target or guarantee of 100,000 workers a year [PJ0112].",
+  "problem": "Widens PJ0112 beyond what it says and drops the attribution."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/japan/doc.md",
+  "section": "The zero-cost government route (IM Japan)",
+  "old_str": " Prothom Alo described the route in 2025 as a four-month Japanese course at a TTC, then a test, then four more months of training run by IM Japan before going as interns, with pay of Tk 1,24,500 to 1,57,700 a month in Japan [PJ0016, PJ0065, PJ0017].",
+  "new_str": " Prothom Alo put pay on this route at Tk 1,24,500 to 1,57,700 a month in Japan in April 2025 [PJ0017].",
+  "problem": "Repeats the course sequence already given two sentences earlier in the same paragraph; PJ0065 (October 2025) says the extra four months are under Japanese management, not IM Japan."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/japan/doc.md",
+  "section": "Visit visa scams",
+  "old_str": "On 15 June 2025 he tried again with a 22-member \"team\"",
+  "new_str": "Investigators found that on 15 June 2025 he had tried to send a 22-member \"team\"",
+  "problem": "Drops the attribution: the source says the June 2025 attempt was found by the investigation (তদন্তে জানা গেছে); the man is a suspect, so it reads as established."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/japan/doc.md",
+  "section": "Scholarships and research internships",
+  "old_str": "- **MEXT scholarship (Japanese government):**",
+  "new_str": "- **MEXT scholarship (Japanese government, from its Ministry of Education, Culture, Sports, Science and Technology):**",
+  "problem": "MEXT is first used here; it is only spelled out later, in Step 1 of the student visa."
+ }
+]

@@ -1,0 +1,30 @@
+[
+ {
+  "held_id": "R3-countries-united-kingdom-1",
+  "outcome": "added",
+  "fact_ids": [
+   "XK0150",
+   "XK0151",
+   "XK0152",
+   "XK0153",
+   "XK0154",
+   "XK0155",
+   "XK0156",
+   "XK0157",
+   "XK0158",
+   "XK0159",
+   "XK0160",
+   "XK0161"
+  ],
+  "note": "New section 'Online harassment from other Bangladeshis': TikTok trolling from Paris, what victims tried (police, platforms, UK embassy in Paris and French prosecutor, ICO removal order)."
+ },
+ {
+  "held_id": "R3-countries-united-kingdom-2",
+  "outcome": "added",
+  "fact_ids": [
+   "XK0162",
+   "XK0163"
+  ],
+  "note": "New Student visa subsection 'Working during and after your studies'; answered the term-time hours Need to know (minimum wage still open); graduate visa length flagged as Need to know for currency."
+ }
+]

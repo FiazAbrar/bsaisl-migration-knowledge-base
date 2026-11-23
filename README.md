@@ -17,6 +17,12 @@ Countries:
 - [South Korea](countries/south-korea/) (draft, under review)
 - [Japan](countries/japan/) (draft, under review)
 - [Brunei](countries/brunei/) (draft, under review)
+- [United States](countries/united-states/) (first version, from Prothom Alo reporting; needs official sources)
+- [Canada](countries/canada/) (first version, from Prothom Alo reporting; needs official sources)
+- [United Kingdom](countries/united-kingdom/) (first version, from Prothom Alo reporting; needs official sources)
+- [India](countries/india/) (first version, from Prothom Alo reporting; needs official sources)
+- [Lebanon](countries/lebanon/) (first version, from Prothom Alo reporting; needs official sources)
+- [Greece](countries/greece/) (first version, from Prothom Alo reporting; needs official sources)
 
 For all countries:
 

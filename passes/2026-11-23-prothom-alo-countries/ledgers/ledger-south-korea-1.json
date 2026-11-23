@@ -1,0 +1,178 @@
+{
+ "articles": [
+  {
+   "article_id": "cdd80f38-bfe4-4b47-a9d4-69916762954e",
+   "used": true,
+   "fact_ids": [
+    "PR0013",
+    "PR0001"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "86e59db3-6622-49eb-b58e-edb27b061a13",
+   "used": true,
+   "fact_ids": [
+    "PR0014"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "9c22e166-fac3-4a5f-a1b1-8585c260dc22",
+   "used": true,
+   "fact_ids": [
+    "PR0015",
+    "PR0016",
+    "PR0002",
+    "PR0017",
+    "PR0018"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "a18c45ef-96a0-4503-a5d5-d100ee909c66",
+   "used": true,
+   "fact_ids": [
+    "PR0019",
+    "PR0020",
+    "PR0021",
+    "PR0022",
+    "PR0023",
+    "PR0024",
+    "PR0025",
+    "PR0026",
+    "PR0027",
+    "PR0028",
+    "PR0029",
+    "PR0030"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "676d3a61-13f3-403d-83e9-77d17845d2bb",
+   "used": true,
+   "fact_ids": [
+    "PR0031",
+    "PR0032"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "f1aa1ff7-c84c-442c-9abd-f42b240ae16d",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: an unsourced 'best work environment' ranking listicle with generic sector claims.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "fbe8d163-93e9-44aa-9ef3-552ba7e68a73",
+   "used": true,
+   "fact_ids": [
+    "PR0033",
+    "PR0034"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "8ddc5a5b-0b6f-443b-9475-e7b0d106ae2e",
+   "used": true,
+   "fact_ids": [
+    "PR0035",
+    "PR0036",
+    "PR0037",
+    "PR0038",
+    "PR0039",
+    "PR0040",
+    "PR0041",
+    "PR0042"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "1399d33c-dcf3-45ac-8d93-e69e5ed5f7bb",
+   "used": true,
+   "fact_ids": [
+    "PR0003",
+    "PR0004",
+    "PR0043",
+    "PR0005"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "77c0b798-0849-44ab-9110-816d7fbb0e5f",
+   "used": true,
+   "fact_ids": [
+    "PR0006",
+    "PR0007",
+    "PR0008"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "29722e69-21e9-4429-86d5-ef2691bf7d63",
+   "used": true,
+   "fact_ids": [
+    "PR0044",
+    "PR0009",
+    "PR0045",
+    "PR0046",
+    "PR0047",
+    "PR0010",
+    "PR0048",
+    "PR0049",
+    "PR0050"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "91487058-1084-4364-b2fc-9c2a5ac1cfe3",
+   "used": true,
+   "fact_ids": [
+    "PR0051"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "5ac4bc98-72b8-414a-8ff3-ac2296caf411",
+   "used": true,
+   "fact_ids": [
+    "PR0052",
+    "PR0053"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "An NSU researcher wrote in September 2026 that elderly caregiving training is already given in Bangladesh under the National Skills Development Authority (NSDA), alongside BMET's TTCs and nursing education.",
+     "quote": "জাতীয় দক্ষতা উন্নয়ন কর্তৃপক্ষ–এনএসডিএর অধীনে বয়স্কদের কেয়ারগিভিং প্রশিক্ষণও হচ্ছে।",
+     "suggested_module": "other: training and skills (caregiving)"
+    }
+   ]
+  },
+  {
+   "article_id": "5d1d636b-0907-415c-a34d-691f6e249d0f",
+   "used": true,
+   "fact_ids": [
+    "PR0011",
+    "PR0054",
+    "PR0012",
+    "PR0055",
+    "PR0056",
+    "PR0057"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  }
+ ]
+}

@@ -1,0 +1,285 @@
+{
+ "articles": [
+  {
+   "article_id": "b76c49c1-3eff-484d-a241-8a1dd2c562cf",
+   "used": true,
+   "fact_ids": [
+    "PJ0001",
+    "PJ0002",
+    "PJ0003"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "86e59db3-6622-49eb-b58e-edb27b061a13",
+   "used": true,
+   "fact_ids": [
+    "PJ0004"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "efaced75-c491-4239-8e29-395727111065",
+   "used": true,
+   "fact_ids": [
+    "PJ0005",
+    "PJ0006",
+    "PJ0007",
+    "PJ0008"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "816e70b6-87e9-473f-aba0-e63321ad0bf3",
+   "used": true,
+   "fact_ids": [
+    "PJ0009",
+    "PJ0010"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "A 2019 Bangladesh Bank survey found 62% of workers going abroad from Bangladesh were unskilled and 36% semi-skilled (cited by a columnist, November 2024)",
+     "quote": "২০১৯ সালে বাংলাদেশ ব্যাংকের জরিপ বলছে, বাংলাদেশ থেকে বিদেশে যাওয়া শ্রমিকদের ৬২ শতাংশ অদক্ষ ও ৩৬ শতাংশ আধা দক্ষ।",
+     "suggested_module": "other: corridor numbers"
+    },
+    {
+     "claim": "The expatriates' ministry has 29 labour welfare wings in 27 countries but no expatriate welfare wing anywhere (columnist, November 2024)",
+     "quote": "বর্তমানে এ মন্ত্রণালয়ের অধীনে ২৭টি দেশে ২৯টি শ্রমকল্যাণ উইং নিয়োজিত রয়েছে; যদিও কোনো দেশেই প্রবাসী কল্যাণ উইং নেই।",
+     "suggested_module": "other: services"
+    }
+   ]
+  },
+  {
+   "article_id": "6219c938-fc48-4753-8042-65db6f242daa",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Not about the Japan corridor except a remark that the Tokyo embassy excluded opposition-linked expatriates from state events, which changes nothing for a migrant; Bangladesh-side facts held for global modules.",
+   "held_for_global": [
+    {
+     "claim": "A columnist wrote in November 2024 that BMET's immigration clearance (smart) card, issued since 2010 for Tk 250, was temporarily suspended in February 2024 because of repeated forgery by brokers",
+     "quote": "২০১০ সালে প্রবাসী কল্যাণ মন্ত্রণালয়ের জনশক্তি, কর্মসংস্থান ও প্রশিক্ষণ ব্যুরো (বিএমইটি) ২৫০ টাকা ফির বিনিময়ে ইমিগ্রেশন ক্লিয়ারেন্স কার্ড বা স্মার্ট কার্ড প্রদান কার্যক্রম চালু করলেও দফায় দফায় আদম ব্যাপারীদের জালিয়াতির কারণে এ বছরের ফেব্রুয়ারি মাসে কার্যক্রমটি সাময়িকভাবে বন্ধ করে দেওয়া হয়।",
+     "suggested_module": "departure"
+    },
+    {
+     "claim": "The 2016 expatriates' welfare and overseas employment policy required a separate migration counter for migrant workers at the airport; the interim government implemented it in 2024 along with a Probashi lounge",
+     "quote": "২০১৬ সালের প্রবাসী কল্যাণ ও বৈদেশিক কর্মসংস্থান নীতিমালায় বলা হয়ছিল, অভিবাসী শ্রমিকদের জন্য বিমানবন্দরে পৃথক অভিবাসন কাউন্টার স্থাপন করতে হবে, যাতে বহির্গমন ও প্রত্যাবর্তন–সংক্রান্ত তথ্যসম্ভার সংরক্ষণ করা যায়। দীর্ঘ আট বছর পর অন্তর্বর্তী সরকার সেটি বাস্তবায়ন করায় অভিনন্দন জানাই।",
+     "suggested_module": "departure"
+    }
+   ]
+  },
+  {
+   "article_id": "3fdc17a3-5629-46af-8e54-c52befdfcdf6",
+   "used": true,
+   "fact_ids": [
+    "PJ0011",
+    "PJ0012"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "e72e5496-e454-4be4-aaaf-fbd477c41f4d",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: a press release saying Japan-based Bangladeshi businesspeople raised remittance, business and tuition-fee transfer problems with the Bangladesh Bank governor in February 2025, with no detail of the problems or any outcome.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "90e645a2-c2e2-4357-8378-fa2e52872a55",
+   "used": true,
+   "fact_ids": [
+    "PJ0013",
+    "PJ0014",
+    "PJ0015",
+    "PJ0016",
+    "PJ0017"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "198ca233-e662-46d9-8ed0-b4770bd4255e",
+   "used": true,
+   "fact_ids": [
+    "PJ0018",
+    "PJ0019",
+    "PJ0020",
+    "PJ0021",
+    "PJ0022",
+    "PJ0023"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "1deda8e6-c37f-486f-952f-4a5b650462c4",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Duplicate: the 100,000-workers-in-five-years plan and the May 2025 MoUs are already cited from the 29 May 2025 article (PJ0018, PJ0020) and C0134; the rest (Japanese loans for rail and budget support, Nikkei forum, honorary doctorate) is not about migration.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "bb964637-3387-418f-bea8-8fb1d8615287",
+   "used": true,
+   "fact_ids": [
+    "PJ0024",
+    "PJ0025",
+    "PJ0026",
+    "PJ0027",
+    "PJ0028",
+    "PJ0029",
+    "PJ0030"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "0d1903c7-9aec-4fc9-ad35-d5d34f546fbb",
+   "used": true,
+   "fact_ids": [
+    "PJ0031",
+    "PJ0032",
+    "PJ0033",
+    "PJ0034",
+    "PJ0035",
+    "PJ0036"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "d6397b49-8e67-465a-b19b-4ef24ad7d4ec",
+   "used": true,
+   "fact_ids": [
+    "PJ0037",
+    "PJ0038",
+    "PJ0039",
+    "PJ0040",
+    "PJ0041"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "c8d18d98-8f5b-4ca4-8f7e-7b7906e29ee4",
+   "used": true,
+   "fact_ids": [
+    "PJ0042",
+    "PJ0043",
+    "PJ0044",
+    "PJ0045"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "4f3bbbbd-ecc5-4478-b0c4-5e4cd946744c",
+   "used": true,
+   "fact_ids": [
+    "PJ0046",
+    "PJ0047"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "The Election Commission's senior secretary said in August 2025 that arrangements were being made for expatriates to vote by postal ballot in the next election",
+     "quote": "তিনি আগামী নির্বাচনে প্রবাসীরা যাতে পোস্টাল ব্যালটের মাধ্যমে ভোট দিতে পারে সে ব্যবস্থা করা হচ্ছে বলে জানান।",
+     "suggested_module": "faq"
+    }
+   ]
+  },
+  {
+   "article_id": "d4a6d9a4-683f-48ec-a798-5e82dd3fc979",
+   "used": true,
+   "fact_ids": [
+    "PJ0048",
+    "PJ0049",
+    "PJ0050",
+    "PJ0051",
+    "PJ0052"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "4d8f883b-2263-4b13-b160-c0536cc3b47d",
+   "used": true,
+   "fact_ids": [
+    "PJ0053",
+    "PJ0054",
+    "PJ0055",
+    "PJ0056",
+    "PJ0057",
+    "PJ0058",
+    "PJ0059",
+    "PJ0060",
+    "PJ0061",
+    "PJ0062",
+    "PJ0063",
+    "PJ0064",
+    "PJ0065",
+    "PJ0066"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "12278a90-e2f6-48dd-b75a-c8a3464214d7",
+   "used": true,
+   "fact_ids": [
+    "PJ0067",
+    "PJ0068",
+    "PJ0069",
+    "PJ0070"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "d8cefb27-b4db-41de-a602-79b358f774d1",
+   "used": true,
+   "fact_ids": [
+    "PJ0071",
+    "PJ0072",
+    "PJ0073",
+    "PJ0074",
+    "PJ0075",
+    "PJ0076"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "f9256456-c238-4596-b98c-84717bc77bfa",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: a sponsored profile of an education consultancy (MACES); the only Japan claim is the firm's own promotional statement, and the doc names no agency without outside evidence.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "82dce0c5-abf4-481b-a48c-04f58841c37e",
+   "used": true,
+   "fact_ids": [
+    "PJ0077",
+    "PJ0078",
+    "PJ0079",
+    "PJ0080"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "2f14294e-d41e-49dc-a3b6-a13787b0f249",
+   "used": true,
+   "fact_ids": [
+    "PJ0081"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  }
+ ]
+}

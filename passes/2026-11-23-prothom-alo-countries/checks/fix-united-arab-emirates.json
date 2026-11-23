@@ -1,0 +1,114 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-arab-emirates/doc.md",
+  "section": "The channels",
+  "old_str": "In June 2024 the state minister had said Dubai Taxi would take 1,000 motorcycle riders and 300 taxi drivers that year and at least 2,000 a year from 2025, after meeting the heads of 16 UAE companies that recruit from Bangladesh, Dubai Taxi among them, and the UAE ambassador said they would be paid under UAE labour law [PU0025, PU0024, PU0026, PU0027].",
+  "new_str": "In June 2024 the expatriates' welfare state minister had said Dubai Taxi would take at least 2,000 taxi and motorcycle drivers a year from Bangladesh, and that the UAE would take 1,000 motorcycle riders and 300 taxi drivers that year; in May 2024 he had met the heads of 16 UAE companies that recruit from Bangladesh, Dubai Taxi among them. The UAE ambassador said workers recruited from Bangladesh would be paid under UAE labour law [PU0024, PU0025, PU0026, PU0027].",
+  "problem": "Merges two claims: the 1,000 riders and 300 drivers for 2024 (and 2,000 a year from 2025) were said of 'the UAE', while Dubai Taxi was said to take at least 2,000 a year (PU0024 vs PU0025). 'The state minister' was also never identified (source: expatriates' welfare state minister)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-arab-emirates/doc.md",
+  "section": "The channels",
+  "old_str": "Prothom Alo's report of the same meeting called Al Anas Overseas the only approved agency for sending workers to Dubai Taxi, and its representatives said they also wanted to take cleaners, technicians and mechanics [PU0165, PU0166].",
+  "new_str": "Prothom Alo's report of the expatriates' welfare minister's 17 May 2026 meeting with a Dubai Taxi delegation called Al Anas Overseas the only approved agency for sending workers to Dubai Taxi, and its representatives said they also wanted to take cleaners, technicians and mechanics [PU0165, PU0166].",
+  "problem": "'The same meeting' refers to no meeting named in the doc; the preceding sentence mentions only agencies and screening. Name the meeting (17 May 2026, per the source)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-arab-emirates/doc.md",
+  "section": "What closed it before",
+  "old_str": "Visas were still not open in every trade: in March 2024 Bangladesh's foreign minister asked",
+  "new_str": "In March 2024 Bangladesh's foreign minister asked",
+  "problem": "'Visas were still not open in every trade' is the writer's inference from the minister's request, not a cited fact."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-arab-emirates/doc.md",
+  "section": "What closed it before",
+  "old_str": "Returnees also alleged in February 2025 that people had handed protesters' addresses and passport numbers to the consulate and that the then consul general, B M Jamal, passed them to UAE law enforcement [PU0069, PU0068, PU0063].",
+  "new_str": "Returnees also alleged in February 2025 that people had handed protesters' addresses and passport numbers to the consulate and that the then consul general, B M Jamal, passed them to UAE law enforcement [PU0069, PU0068]; in December 2024 a returnee had alleged that embassy officials made the lists that sent people to prison [PU0063].",
+  "problem": "PU0063 is a different allegation (embassy officials conspired to make lists) from a different date (December 2024), cited as support for the February 2025 claim."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-arab-emirates/doc.md",
+  "section": "What closed it before",
+  "old_str": "In January 2025 the consul general in Dubai asked MOHRE to make visas and visa transfers easier for Bangladeshis in Dubai and the northern emirates [PU0067],",
+  "new_str": "In January 2025 the consul general in Dubai met MOHRE to discuss easier visas and visa transfers for Bangladeshis in Dubai and the northern emirates [PU0067],",
+  "problem": "Source says these were discussed at the meeting, not that the consul general asked for them (his explicit requests were on hiring professionals and seafarer visas)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-arab-emirates/doc.md",
+  "section": "What closed it before",
+  "old_str": "- **March 2026, war:** Iranian missile and drone strikes hit the UAE, and about 102 flights from Dhaka to the Middle East were cancelled in three days (see If war or attacks reach the UAE) [PU0124, PU0130].\n",
+  "new_str": "",
+  "problem": "The lead sentence says the UAE closed to Bangladeshis twice; the war bullet is not a closure, so the lead is not true of it. The attacks also began 28 February, not March. The content is already in 'If war or attacks reach the UAE'."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-arab-emirates/doc.md",
+  "section": "Done to travellers",
+  "old_str": "**Girls trafficked on a tourist visa with a false age.** In 2023 a neighbour in Gazaria, Munshiganj, told a family her sister in Dubai could take their daughter there for Tk 3 lakh, which the family paid [PU0010].",
+  "new_str": "**A girl trafficked on a tourist visa with a false age.** According to her father, in 2023 a neighbour in Gazaria, Munshiganj, told the family her sister in Dubai could take their daughter there for Tk 3 lakh, which the family paid [PU0010].",
+  "problem": "Heading says 'Girls' but there is one case; the father's account is stated as established fact (PU0010: 'the father said')."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-arab-emirates/doc.md",
+  "section": "Done to travellers",
+  "old_str": "in January 2024 police said no CID investigating officer had yet been appointed [PU0013, PU0014].",
+  "new_str": "in January 2024 police said that although the tribunal had ordered the CID (Criminal Investigation Department, a police investigation branch) to investigate, no investigating officer had yet been appointed [PU0013, PU0014].",
+  "problem": "CID is not explained at first use in the doc."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-arab-emirates/doc.md",
+  "section": "Social media and insults",
+  "old_str": "- During the Iranian attacks of February 2026 the Bangladesh missions warned that uploading photos or videos of the situation, or spreading baseless news, is against the law [PU0121].",
+  "new_str": "- During the Iranian attacks of February 2026 some of the Bangladesh missions in six Middle East countries, the UAE among the six, warned that uploading photos or videos of the situation, or spreading baseless news, is against those countries' laws [PU0121].",
+  "problem": "Source says only 'some' of the six missions (Lebanon, Qatar, UAE, Bahrain, Kuwait, Iraq) gave this warning; it does not say the UAE missions did."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-arab-emirates/doc.md",
+  "section": "If war or attacks reach the UAE",
+  "old_str": "**Work during the attacks.** Workers on the ground said they got no effective guidance on shelters, safe evacuation routes or emergency help, according to Mustafa Qadri of the rights group Equidem [PU0149].",
+  "new_str": "**Work during the attacks.** Workers in the UAE, Qatar, Saudi Arabia and Jordan, where Equidem has researchers, said they got no effective guidance on shelters, safe evacuation routes or emergency help, according to Mustafa Qadri of the rights group Equidem [PU0149].",
+  "problem": "Qadri's statement covers Equidem's network in four countries, not the UAE alone; as written it reads as a UAE-specific finding."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-arab-emirates/doc.md",
+  "section": "If war or attacks reach the UAE",
+  "old_str": "- don't spread rumours, and don't upload photos or videos of the situation, which the missions said breaks local law;",
+  "new_str": "- don't spread rumours; some of the missions also said uploading photos or videos of the situation breaks local law;",
+  "problem": "PU0121: only 'some' missions gave the photo/video warning; not attributable to the missions as a whole or to the UAE missions specifically."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-arab-emirates/doc.md",
+  "section": "Sending money home",
+  "old_str": "Earlier it sent about USD 2,070 million in FY2021-22 and USD 3,030 million in FY2022-23, and it was the top source in July-September 2024 (USD 1,032 million), then fell to USD 330 million in October and USD 290 million in November 2024 [PU0023, PU0055, PU0059].",
+  "new_str": "Earlier it sent about USD 2,070 million in FY2021-22 and USD 3,030 million in FY2022-23, and it was the top source in July-September 2024 (USD 1,032 million); it sent USD 330 million in July, 340 million in August, 360 million in September and 330 million in October 2024, then USD 290 million in November [PU0023, PU0055, PU0056, PU0059].",
+  "problem": "'Then fell to USD 330 million in October' compares a three-month total with one month; monthly figures (PU0056) were flat at 330-360 million, so October was no fall. Only November fell."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-arab-emirates/doc.md",
+  "section": "Sending money home",
+  "old_str": "Sending at an exchange-house branch costs more than through its app or online: in 2024 all members of the UAE's Foreign Exchange and Remittance Group (FERG) raised the counter fee by AED 2.5 per transaction, about 15%, from about May 2024, while app and online fees stayed the same; the counter fee to India and the Philippines had been AED 22 plus VAT [PU0018, PU0019, PU0020, PU0022, PU0021].",
+  "new_str": "In April 2024 Gulf News reported that all members of the UAE's Foreign Exchange and Remittance Group (FERG) would raise the fee for sending at an exchange-house branch by AED 2.5 per transaction, about 15%, probably from May 2024, while app and online fees would not rise; the branch fee to India and the Philippines was then AED 22 plus VAT [PU0018, PU0019, PU0020, PU0022, PU0021].",
+  "problem": "Facts report a planned rise ('would raise', 'probably from May'), stated as done; the lead 'costs more than through its app' is the writer's conclusion (facts say only the branch fee was rising)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-arab-emirates/doc.md",
+  "section": "Saving at home: the Wage Earner Development Bond",
+  "old_str": "> **Need to know**\nIn the UAE the bond is sold at the four branches of Janata Bank (see \"Janata Bank in the UAE\") [PU0176].",
+  "new_str": "In the UAE the bond is sold at the four branches of Janata Bank (see \"Janata Bank in the UAE\") [PU0176].",
+  "problem": "A stray 'Need to know' header sits over a statement, not a question; a second Need to know block follows directly."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-arab-emirates/doc.md",
+  "section": "Cases",
+  "old_str": "relatives had helped pay for him to go [PU0001, PU0002, PU0006, PU0007].",
+  "new_str": "his younger brother said he was sent abroad with relatives' help [PU0001, PU0002, PU0006, PU0007].",
+  "problem": "PU0007 says he was sent 'with help from relatives', not that relatives paid; attribution (younger brother) dropped."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-arab-emirates/doc.md",
+  "section": "Bans after you leave",
+  "old_str": "In February 2025 one of them, Chhogir Talukdar, arrested at Dubai airport and sentenced to life, said he could not return unless his \"no entry\" was lifted;",
+  "new_str": "In February 2025 one of them, Chhogir Talukdar, who said he had been arrested at Dubai airport and sentenced to life for protesting, said he could not return unless his \"no entry\" was lifted;",
+  "problem": "His arrest and life sentence are his own account (PU0071), stated as established fact."
+ }
+]
