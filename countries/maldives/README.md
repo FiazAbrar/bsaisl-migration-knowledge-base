@@ -345,7 +345,7 @@ The Ministry's permission letters set the most the agency may take; how to read 
 - **New arrivals, April 2024:** workers flying to Malé told a reporter they had paid Tk 2.5 to 3.5 lakh each, on promises of Tk 40,000 to 60,000 a month with food and housing <sup>[N37 (2024)](#n37)</sup>.
 - **One 2024 deal:** a Chattogram man's deal was Tk 4.6 lakh (Tk 2.6 lakh paid, Tk 2 lakh more due on the visa) <sup>[N18 (2024)](#n18)</sup>.
 - **Maldives-side survey, 2024:** over 94% of 847 Bangladeshi workers had paid recruitment fees of up to USD 2,200 <sup>[N6 (2024)](#n6)</sup>.
-- **Putting a visa right, 2024:** a Bangladeshi worker in Malé wrote in September 2024 that many had spent Tk 2 lakh to fix their visas, and that keeping a visa valid costs a lot every year <sup>[N38 (2024)](#n38)</sup>.
+- **Putting a visa right, 2024:** a Bangladeshi worker in the Maldives wrote in September 2024 that many had spent Tk 2 lakh to fix their visas, and that keeping a visa valid costs a lot every year <sup>[N38 (2024)](#n38)</sup>.
 
 > **Need to know**
 > - What is the street price of a Maldives construction or resort work permit in Dhaka in 2026, and what is it called (চুক্তি, কন্ট্রাক্ট)?
@@ -1037,7 +1037,7 @@ The e-Visa is valid as long as your work permit, is renewed for at most one year
 3. <a id="going-home-on-leave-item-3"></a>**Come back within four months.** A work permit is cancelled if you stay outside the Maldives more than four months while it is valid <sup>[N49](#n49)</sup>.
 4. <a id="going-home-on-leave-item-4"></a>**Check your permit's expiry date before you book.** If it expires while you are abroad, the employer can get a temporary 15-day approval with a medical done abroad, and you need a Maldives medical within 15 days of return <sup>[87 (2024)](#o87)</sup>.
 
-A Bangladeshi worker in Malé wrote in September 2024 that some workers had their visas cancelled while home on leave <sup>[N38 (2024)](#n38)</sup>.
+A Bangladeshi worker in the Maldives wrote in September 2024 that some workers had their visas cancelled while home on leave <sup>[N38 (2024)](#n38)</sup>.
 
 > **Need to know**
 > - Who pays the ticket for annual leave in usual Maldives contracts, and does the work visa stay valid during leave, or is a re-entry step needed?
@@ -2057,7 +2057,7 @@ Report either to the High Commission or the Maldives Police as under "Work visa:
 
 ### 19.8 The crackdown
 
-- **Who is caught.** Raids target businesses, food courts and markets; Bangladeshis are mainly detained for running businesses on a work visa <sup>[N73 (2024)](#n73), [N53](#n53), [N52](#n52)</sup>. A Bangladeshi worker in Malé wrote in September 2024 that raids were taking people without valid visas from their houses as well as the streets, that those with valid visas were harassed too, and that raids aimed at Bangladeshis running businesses illegally picked up ordinary employees <sup>[N38 (2024)](#n38)</sup>. Locals can report workers anonymously on the "Immigration Watch" website <sup>[N51](#n51)</sup>. In April 2026 police handed 38 Bangladeshi men to Immigration for deportation over drugs and gambling <sup>[N92](#n92)</sup>.
+- **Who is caught.** Raids target businesses, food courts and markets; Bangladeshis are mainly detained for running businesses on a work visa <sup>[N73 (2024)](#n73), [N53](#n53), [N52](#n52)</sup>. A Bangladeshi worker in the Maldives wrote in September 2024 that raids were taking people without valid visas from their houses as well as the streets, that those with valid visas were harassed too, and that raids aimed at Bangladeshis running businesses illegally picked up ordinary employees <sup>[N38 (2024)](#n38)</sup>. Locals can report workers anonymously on the "Immigration Watch" website <sup>[N51](#n51)</sup>. In April 2026 police handed 38 Bangladeshi men to Immigration for deportation over drugs and gambling <sup>[N92](#n92)</sup>.
 - **Phase three, 9 May 2026.** More than 200 Immigration and 100 police officers swept 26 zones of Malé, detained 254 people and gave notices to 44 Maldivian employers <sup>[N130](#n130), [N131](#n131)</sup>. Those detained are deported at the earliest opportunity <sup>[N130](#n130)</sup>.
 - **Since then.** Raids detained 27 of 88 workers checked at the Malé West Harbour food courts, 12 of 20 in Hulhumalé in June, 20 of 55 at Hulhumalé's Rashu Market and 13 of 426 in Greater Malé in September 2026 <sup>[N53](#n53), [N132](#n132), [N52](#n52), [N133](#n133)</sup>.
 - **Numbers.** 12,552 people were deported between 17 November 2023 and 13 June 2026 <sup>[N52](#n52)</sup>. In July 2026 the government said it aimed to deport violators before 17 November 2026, and that the joint Police and Immigration operations would continue for six more months <sup>[N53](#n53), [N128](#n128)</sup>.
