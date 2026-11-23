@@ -1,0 +1,887 @@
+# Dalal scams
+
+The tricks brokers (dalals) and fake agencies use on people going abroad from Bangladesh, how to spot each one, and where to complain, as of November 2026. Each country's own doc gives the scams specific to that country. A raised number such as 3 is an official source; N3 is a news, NGO (non-governmental organisation), research or guide source, listed under "Needs an official source"; a year, like N3 (2022), marks a source older than 2025. "Need to know" marks a point no source has yet confirmed.
+
+## In one minute
+
+Most Bangladeshis who go abroad pay a dalal (দালাল, an unlicensed broker or middleman) somewhere along the way: in a 2023 national survey, 52% of migrants paid their migration costs to brokers, and 58% borrowed to go [S0088, S0114]. Estimates of how many are cheated differ: the programme director of RMMRU (the Refugee and Migratory Movements Research Unit) said in April 2026 that research shows about 31% of people who go abroad are cheated in one way or another, at steps starting from the passport, and its executive director, citing an RMMRU study, said in July 2026 that about 51% are cheated, 19% paid and still could not go, and 32% were tortured after going [AA0241, AA0242, MB0065]. An ILO (International Labour Organization) consultant says the dalal is often a friend or relative, because people trust them with large sums more than strangers [S0089]. Behind the village dalal sit more middlemen, a licensed agency and, abroad, a sponsor or broker who sells the visa itself; one agency owner counted five to six levels of brokers [S0091, S0064, S0068]. Each scam below works by selling something that is not what it seems: a visa with no job behind it, a tourist visa called a work visa, a contract that changes on arrival, a medical or skill-test "pass" for money, a fake clearance card, a European work permit that was never issued, or a marriage that is really trafficking [S0068, S0121, S0075, S0080, S0077, S0118, S0002, VS0004]. Getting the money back is hard: in the 2026 Cambodia cases the CID (Criminal Investigation Department of the police) said many returnees were reluctant to go to law and others bargained with brokers, and complaints without documents are rejected [S0122, S0060, S0061]. Taking money on a false job promise or holding someone's passport is a crime for anyone, not only agencies, with up to 5 years in prison, and trafficking carries at least 5 years up to life [S0159, S0052, VS0007]. Before paying, the official checks are free: BMET (the Bureau of Manpower, Employment and Training, the government body that licenses agencies and clears workers) checks a job visa or demand letter in 3 working days, and Saudi Arabia, Singapore and other destinations let you check a visa or permit online [S0158, S0066, S0154].
+
+> **Need to know**
+> - Which RMMRU studies give the 31% and the 51% cheated figures, from which year and sample, and which is the current one?
+
+## Who a dalal is
+
+The word dalal means broker [S0213]. Since 2023 the law recognises a "sub-agent", a person registered with BMET who collects workers for a licensed agency; anyone else who does that work, or claims to, commits a crime [S0133, S0170]. A 2024 study of Bangladeshi migrants named recruitment through a sub-agent or dalal among the top risk factors they face [S0214]. A Prothom Alo guide of July 2025 said dalals usually press people by promising to get the work done quickly, do not show proper papers, hide their own identity, and deceive with false visas, false job offers and demands for extra money [OA0111, OA0112].
+
+### Why people go through a dalal
+
+- **No agency nearby.** Because recruiting agencies are concentrated in Dhaka, dalals play the important role in the field, the director of WARBE Development Foundation said at a Cumilla roundtable in April 2026 [AA0220]. The associate director of BRAC's Migration Programme said in August 2026 that there is no agency in Sylhet, Tangail, Munshiganj or the other districts from which most people go, so people there reach Dhaka through middlemen; because of middlemen at home and abroad and workers' lack of skills, he said, Bangladeshi workers' cost of going abroad is the highest in the world and their income comparatively low [AB0105, AB0106]. A December 2025 Prothom Alo column said there are very few legal recruiting agencies in the Rangpur region, so people there cannot even learn how going abroad works, and named lack of agencies, lack of a migrant network, inability to raise several lakh taka and fear of dalal fraud among the reasons few people go abroad from Rangpur division [AA0208, AA0209, AA0210].
+- **One stop for everything.** Cumilla's additional deputy commissioner said in April 2026 that migrants have long demanded a one-stop service, and that because the government has not fully started one, many turn to dalals, who handle the whole process from start to finish; the person often does not know how or at what cost he is going [OA0181, AA0250].
+- **No other source of information.** An IOM (International Organization for Migration) officer said in May 2026 that for lack of correct, reliable information people at village level depend on dalals for it, and that a pilot funded by the Italian government delivers information through Union Digital Centres (UDCs, the government's grassroots service centres) [OA0224, OA0225]. A former secretary general of BAIRA (the Bangladesh Association of International Recruiting Agencies) said in August 2026 that dependence on brokers would fall if the list of legal recruiting agencies and correct information about jobs reached upazila level [AB0128].
+- **Who relies on them.** Dr Selim Reza, coordinator of the Centre for Migration Studies at North South University, wrote in September 2026 that recent studies show a large share of people waiting to go abroad have not finished secondary education and most rely on relatives, local brokers, sub-agents and informal networks instead of licensed agencies, adding that these indicate a trend and are not exact national statistics; by government figures, he wrote, 8 to 9 lakh of the roughly 22 to 23 lakh young people entering the labour market each year have to look for work abroad [MB0090, MB0091, MB0092]. Studies of Bangladeshi workers in the Maldives by RMMRU with the Asia Foundation found that 96% had gone through relatives or dalals, and that an irregular worker there works for lower pay and sends home more than Tk 2 lakh a year, against more than Tk 3 lakh for a legal one, Prothom Alo reported in May 2024 [OA0049].
+
+> **Need to know**
+> - In which unions does the IOM-backed UDC information pilot run, and what can a would-be migrant get there?
+
+### The chain from the village to the visa seller
+
+1. **The visa seller abroad.** In Saudi Arabia, a Bangladeshi agent in the trade told Bonik Barta in 2026 that sponsors (the employer or household that legally owns a worker's visa) take out work permits for workers they do not need and sell them; the worker enters as that sponsor's employee but then works for another company [S0068]. In Kuwait, brokers lure Kuwaiti citizens into obtaining worker visas, and a visa that costs KWD 6 (Kuwaiti dinars) in processing and attestation fees is sold for KWD 2,000-2,200 (about Tk 8-9 lakh), though the employer also spends about KWD 250 on the work permit and other costs [S0113, S0112, VS0025, VS0026]. The joint general secretary of the Bangladesh Press Club in Kuwait said in July 2025 that an organised broker ring there controls the visa trade, which is why Bangladeshis pay more than other South Asians [S0198].
+2. **The licensed recruiting agency in Dhaka.** It may take workers only through registered sub-agents, from BMET's database or directly [S0094]. In reviews from 835 Bangladeshi migrants on the ITUC's (International Trade Union Confederation) Recruitment Advisor, 78% had relied on a sub-agent to reach the agency [S0092]. The agency completes the visa process, but collecting workers and other important work is done through dalals, the Asia Foundation's deputy team leader said in April 2026 [AA0218]. RMMRU says Bangladesh once had 850 to 900 agencies and was taken to nearly 2,400 under the last Awami League government, against 192 in India, 464 in Pakistan, 416 in Nepal and 248 in Sri Lanka; the interim government approved 252 new licences in 2025, and 2,646 agencies in all have taken licences, Prothom Alo reported in September 2026 [RU0075, RU0076, RU0077]. The general secretary of the Bangladesh Ovibashi Mohila Sramik Association (an association of women migrant workers) said in May 2026 that of about 2,200 agencies 1,100 are valid, and that ethical recruitment has still not become real [OA0209]. Selim Reza wrote in May 2026 that many people, from village-level middlemen to licensed recruiting agencies, are part of the broker ring that controls the sector, and that overcharging, false promises, fake contract papers and supplying illegal visas have become a "normal" business process [AB0020, AB0021]. BAIRA's administrator said in August 2026 that not all recruiting businessmen are dishonest and many send workers by the rules, while some fraud rings spread their nets in remote areas and take people's money [AB0127].
+3. **Layers of middlemen.** A visa passes through six or seven hands before reaching the worker, according to TIB (Transparency International Bangladesh) [S0064]. One agency owner said that with five to six levels of brokers, agencies cannot control the cost [S0091]. A Bangladeshi worker in Riyadh wrote in August 2025 that he learned only after reaching Saudi Arabia that his visa had passed through six dalals' hands, that he had no way of knowing this in Bangladesh, and that after finding no work he spoke to five dalals (see Contract substitution: a different job or wage on arrival) [AA0154, AA0155]. In Sylhet the middleman is often a travel agency: the assistant director of the DEMO (District Employment and Manpower Office, BMET's district office) in Sylhet said in April 2026 that the about 2,900 licensed agencies are all Dhaka-centred, only a few work directly in Sylhet and the rest work as brokers under the cover of travel agencies, so money beyond the set limit is taken [LB0229, LB0230]. The general secretary of the Sylhet District Press Club said the same month, without giving a source, that Sylhet has over 150 licensed travel agencies but more than 500 work illegally, taking Tk 8 lakh to 20 lakh to send people abroad [LB0231].
+4. **The village dalal.** This is often a friend or relative, according to an ILO consultant [S0089]. In one 2025 Cambodia case the first meeting was at a tea stall across the highway from Dhaka airport; the man paid Tk 1 lakh to the dalal and the rest to a manpower agency in Fakirapool, Dhaka [S0192, S0194].
+5. **The online dalal.** Many dalals now work through Facebook pages and WhatsApp, with no signboard, no trade licence and sometimes no real name; they call themselves "recruitment consultant", "visa processing expert" or a foreign company's "official representative" [S0171, S0173].
+
+The minister for expatriates' welfare said in August 2026 that Dubai is taking 6,000 drivers and that the ministry is arranging for Dubai's representatives to come to Bangladesh and recruit directly once satisfied with the training, which he said would leave middlemen no scope for fraud [AB0101].
+
+> **Need to know**
+> - The 2026 counts of licensed agencies range from about 2,200 to about 2,900: how many hold a valid licence now, and on which BMET page is the current list?
+> - Has the Dubai drivers' direct recruitment started, and where does a driver apply?
+
+### The commonest abuses
+
+- **In the trade's own words.** Farzana Alam Majumder, a sub-agent and BAIRA member from Cumilla, said at the April 2026 Cumilla roundtable that the main problems are unlicensed dalals, false promises, cheating in cash transactions, fraud and keeping the contract paper hidden [OA0179, AA0221].
+- **What police see.** Cumilla's additional superintendent of police (Sadar Circle) said at the same roundtable that many people go abroad through dalals without a valid contract and later become undocumented, that complaints include not getting fair work or pay and even being held, and that action is hard because the necessary papers are missing [AA0222].
+- **Who is overcharged.** The assistant director of the Cumilla DEMO said there that agencies do not fully follow the policy and in many cases take extra money from unskilled or uneducated people [AA0225, AA0226].
+
+### The law on sub-agents
+
+- **Only registered sub-agents are legal.** Since the Overseas Employment and Migrants (Amendment) Act 2023, an agency may appoint only a registered person as its sub-agent or representative, and BMET issues the registration [S0093, S0097]. Under section 35 of the Overseas Employment and Migrants Act 2013 (the OEM Act), an agency that appoints an unregistered one faces 1 year's prison or a Tk 1-5 lakh fine, and the unregistered dalal faces 1 year or a Tk 50,000 to 2 lakh fine [S0132, S0170].
+- **What a registered sub-agent must show.** He must run an office with a signboard giving his name, registration number and date, the agency's name and licence number, and his addresses and phone numbers, and must display his registration certificate [S0096]. BMET issues the certificate, and BMET or the DEMO publishes sub-agents' details on its website [S0097].
+- **Where the list should be.** Each agency must publish its list of registered sub-agents on its own website, and may take workers only through registered sub-agents, from BMET's database or directly [S0094].
+- **Who pays if he cheats.** Under the 2025 licence and sub-agent rules, the agency and its sub-agent are each and jointly liable for whatever the sub-agent does [S0095]. Each sub-agent lodges Tk 3 lakh security with the agency by pay order, and a worker cheated by him is compensated from it once the irregularity is proved [S0098]. BMET's Director General can suspend or cancel a sub-agent's registration, after an inquiry and hearing, if a complaint by a worker, a relative or a well-wisher is proved [S0099].
+- **Not yet working in practice.** The Asia Foundation's deputy team leader said in April 2026 that rules followed the 2023 amendment in January 2025, but there has been little progress in registering dalals and bringing their work inside a structure [AA0217]. A senior ILO programme manager said in May 2026 that the 2025 rules clearly set out agencies' and sub-agents' responsibility and accountability, but effective enforcement has not yet begun [OA0206]. RMMRU's programme director said the same month that RMMRU helped the government frame the rules that provided for sub-agent registration, that this is still not fully implemented, and that RMMRU also worked on alternative dispute resolution to make BMET's arbitration more transparent [OA0207, OA0208]. The principal of the Cumilla Technical Training Centre said in April 2026 that a clear decision is needed on which body (the ministry, BMET or another) regulates sub-agents and middlemen, and that with no defined structure they often take advantage [AA0219]. The sub-agent Farzana Alam Majumder recommended in April 2026 that BMET bring all sub-agents under registration and that the ministry frame rules for the system [OA0180].
+- **Speakers who say there is no law.** At a Prothom Alo and Democracy International roundtable in Cumilla on 11 April 2026, RMMRU's programme director attributed the 31% of migrants cheated to the lack of a law for intermediaries or sub-agents, and the administrator of Cumilla City Corporation said most people cheated abroad are cheated because of intermediaries, that Bangladesh has no law for intermediaries in migration, and that one is needed at once [OA0174, OA0175, OA0176, OA0177, OA0178].
+
+> **Need to know**
+> - Has BMET registered any sub-agents yet, and where exactly is the public list (which page of bmet.gov.bd or OEP)?
+> - Do agencies actually publish their sub-agent lists on their websites, and how many do?
+> - Speakers in 2026 say there is no law for intermediaries, though the 2023 amendment and the 2025 rules provide for sub-agent registration: is section 35 being enforced against unregistered dalals, and has anyone been convicted under it?
+
+### What people pay, and to whom
+
+- **The average bill.** A 2020 survey by the Bangladesh Bureau of Statistics with the ILO found a worker spends Tk 416,789 on average to go abroad [S0115]. An OKUP (Ovibashi Karmi Unnayan Program, a migrant workers' organisation) survey put spending at five times the government-set cost on average [S0178]. The acting regional head of Probashi Kallyan Bank (PKB, the state bank for migrants) in Sylhet said in April 2026 that by the ministry's list going through the government channel costs about Tk 1.6-1.7 lakh, but most people in practice spend more than Tk 4-5 lakh, and that agencies' profit reaching Tk 2.5-3 lakh cannot be justified [LB0240, LB0241].
+- **To whom.** In the 2023 survey, 52.03% of migrants paid their migration costs to brokers [S0088]. Broker use was highest in Sylhet (58.53%) and Mymensingh (57.44%) divisions and lowest in Barishal (28.83%) [S0090].
+- **Example of the split.** In the 2025 Cambodia case above, the dalal asked Tk 7 lakh in all for a job he said would pay Tk 80,000 a month; the man paid Tk 1 lakh to the dalal and the rest to the agency [S0193, S0194]. A December 2025 Prothom Alo column estimated a Saudi pest-control job at about Tk 5.7 lakh: about Tk 4.6 lakh to the recruiting agency as its fee, about Tk 60,000 for the passport, medical test, Takamol certificate, PDO (pre-departure orientation) training and police clearance, and roughly Tk 50,000 to sub-agents at various levels [AA0203].
+- **The official figure.** The ministry fixed the official migration cost for Saudi Arabia in 2016 at Tk 165,000 [S0055]. In one BMET permission letter for Saudi kitchen workers, the agency could take at most Tk 50,000 per worker [S0058].
+
+> **Need to know**
+> - What does a village dalal keep per worker on a typical Saudi or Malaysia visa in 2026, and what does the sub-agent above him keep?
+
+## Fake visa, demand letter or job offer
+
+A demand letter is the employer's written request for workers, attested by a Bangladesh mission abroad [S0064].
+
+**How it works:**
+
+1. A dalal or unlicensed office shows a visa, demand letter or job offer, takes the passport and money, and the worker is sent to the airport or never hears again [VS0023, S0024].
+2. Some papers are entirely forged: one Dhaka ring printed Oman visas on a computer and supplied fake tickets and fake BMET clearance [S0024]. Another office held fake Fiji demand letters and fake contracts [S0022]. A broker in Fulbaria, Mymensingh, made fake tickets in the names of Jazeera Airways, Air Arabia, Salam Air, Egypt Air and other airlines, according to RAB (the Rapid Action Battalion, an elite police unit) [FV0057, FV0058].
+3. Some rings use local collectors: according to the CID (the Criminal Investigation Department of the police), Milon Mia of Faridpur, an earlier-arrested member of the ring led by Josna Khatun (see the 23 Sept 2025 case below), collected people from different areas in the name of sending them abroad, and the ring took several crore taka from at least a hundred people [FV0102].
+4. Some are real papers that lead nowhere: a broker told Bonik Barta in 2024 that some Saudi citizens issue visas under shell companies, and brokers disappear once paid [S0072]. A former BAIRA (Bangladesh Association of International Recruiting Agencies) official said in 2026 that some Saudi visas first appear in the online system and later disappear, and industry insiders said the Saudi labour ministry had cancelled several thousand applications filed on fake demand letters [S0065, VS0028].
+5. An attested demand letter is not proof: TIB found some Bangladeshi mission officials attest demand letters without checks or for bribes [S0064].
+6. Small demand letters slipped through: until 4 Nov 2026 a demand letter for up to seven workers needed no permission from the Ministry of Expatriates' Welfare, people concerned allege this was used to bring in fake appointment letters, and since that date every demand letter must be approved first [RU0189].
+7. Contracts with fake employers: a senior officer at the Sandwip branch of Probashi Kallyan Bank (PKB, the state migrant bank) said in May 2026 that in many cases they see fraudulent contracts between a fake employer and the worker, and that many people still sell their homestead to go abroad and end up in trouble [FV0107].
+
+**Red flags:**
+
+- an office with no recruiting licence that advertises online and collects passports [VS0023];
+- a Saudi visa whose company cannot be found in the Ministry of Commerce's commercial register (Saudi Arabia doc: Work visa: company worker, Step 1: Find a real job, Before you pay anyone) [S0204];
+- for a UAE job, any of the five signs of a fake offer named by MOHRE (the UAE Ministry of Human Resources and Emiratisation) [FV0232, FV0233, FV0234]:
+  - being asked to open a new bank account in your own name as part of recruitment [FV0232, FV0233, FV0234];
+  - being asked for confidential bank account details by an unverified person or company [FV0232, FV0233, FV0234];
+  - a demand for money to confirm the job or complete recruitment [FV0232, FV0233, FV0234];
+  - being asked to receive money into your account or transfer it on to another account [FV0232, FV0233, FV0234];
+  - contact only through WhatsApp or another messaging app, with no institutional phone number or address [FV0232, FV0233, FV0234].
+
+MOHRE says that anyone who meets these signs after a job offer should stop the process at once, verify the offer, and give no money or personal information until the offer letter is confirmed genuine [FV0237].
+
+**Check before paying:**
+
+1. **At BMET or your DEMO:** take a copy of the visa or demand letter (and, where relevant, the passport page with the visa) to BMET, 89/2 Kakrail, Dhaka-1000, or your DEMO; the check is free and takes 3 working days [S0158, S0063]. BMET checks Saudi, Qatar, Bahrain, Singapore and UAE visas online, and its visa-check app is on Google Play [S0067].
+2. **On the destination's own system:**
+   - Saudi Arabia: KSA Visa Track, with the visa or application number and your passport number (Saudi Arabia doc: Work visa: company worker, Step 7: Check the visa yourself) [S0066].
+   - Malaysia: MyIMMs application status, with the employer's registration number and application number (Malaysia doc: Work visa: company worker (PLKS), Step 5: Check the visa yourself) [S0206].
+   - Qatar: the Interior Ministry's Visa Inquiry (Qatar doc: Work visa: company worker, Step 5: Check the visa yourself) [S0152].
+   - UAE: the job offer, by its reference number, on MOHRE's enquiry service, inquiry.mohre.gov.ae (UAE doc: Work visa: company worker, Step 5: Check your visa and permit are real) [S0153]. Every valid offer issued through MOHRE's system carries a specific serial number and a barcode, and it can also be checked in the "MOHRE UAE" mobile app or by calling 600590000 [FV0235, FV0236].
+   - Singapore: the "Check work pass and application status" service of MOM (the Ministry of Manpower), no login needed (Singapore doc: Work visa: Work Permit (construction, marine shipyard, process and other sectors), Step 5: The employer applies; check your IPA) [S0154].
+   - Maldives: Work Permit Verification on xpat.egov.mv (Maldives doc: Work visa: company worker (construction, resort, shop), Step 5: Check your permit and visa are real) [S0155].
+   - Kyrgyzstan: Check status on the e-visa portal with the reference number (Kyrgyzstan doc: Work visa: company worker, Step 5: The work visa, and checking it is real) [S0156].
+   - Oman: the visa status shows only in the sponsor's own account, so only the employer can check it (Oman doc: Work visa: company worker, Step 6: The employer gets the employment visa from the ROP; check it) [S0157].
+   - Kuwait: BMET's check covers the visa and demand letter (Kuwait doc: Work visa: private-sector worker (Article 18), Step 5: Medical check and checking your visa is real) [S0158].
+
+**Cases:**
+
+- 15 Sept 2020: a RAB mobile court found that "Dream Visa", Road 4, Banani, had no recruiting licence, seized 32 passports, fake contracts and fake Fiji demand letters, and jailed the owner for six months after he admitted fraud [VS0023, S0022, VS0024].
+- Aug 2022: RAB arrested members of an unlicensed Dhaka ring that, according to RAB, took Tk 4 lakh each and supplied fake Oman visas, fake tickets and fake BMET clearance; victims were turned back at the airport [S0024].
+- 6 June 2023 (reported May 2024): Lailul Haque, 34, of Kafura village, Sherpur upazila, Bogura, said Abdul Alim, a local businessman who sends people abroad, sent him to Malaysia on a fake visa, and he was sent back to Bangladesh after six days in jail [MA0011, MA0012]. A Sherpur police sub-inspector said Alim took Tk 5 lakh 70 thousand from him and Tk 2 lakh 30 thousand, Tk 3 lakh 14 thousand, Tk 2 lakh 70 thousand and Tk 3 lakh 50 thousand from four other young men; Lailul put the total for the five at Tk 17 lakh 34 thousand [MA0013, MA0014, MA0015].
+- 7 Apr 2024: the CID said Jannat Trade International took Tk 5 lakh 12 thousand each from three people with a promise of well-paid jobs in Kyrgyzstan and gave them so-called Kyrgyz visas and air tickets; at Hazrat Shahjalal International Airport, immigration police found no record of the visas online and stopped them [FV0011, FV0012]. A case was filed at Paltan police station, Dhaka, under the Prevention and Suppression of Human Trafficking Act, and the CID arrested three people, including the proprietor, Ibrahim Mallik Nahid, whom it called the head of the ring [FV0013, FV0014].
+- 18 Feb 2025: Abdul Gani, 30, of Shushuti village, Fulbaria, Mymensingh, said he had paid a local manpower broker, Shafiqul Islam, Tk 6 lakh 10 thousand to go to Turkey; Shafiqul kept his passport and money for a year and a half, then said Turkey was not possible and he would go to Saudi Arabia within 20 days, and handed him a "Jazeera Airways" ticket and a visa that both turned out to be fake [FV0054, FV0055, FV0056]. Local residents alleged Shafiqul had taken nearly Tk 1 crore in a few years on promises of jobs abroad, and the two complainants said many people nearby had been cheated through him [FV0064, FV0065]. RAB-14 detained him in Gazipur on 29 May 2025 and handed him to Fulbaria police; RAB said he had been cheating village people for about three years and a case would be filed under the regular law, and the officer-in-charge said the complaint would be verified [FV0061, FV0062, FV0063].
+- 23 Sept 2025: the CID arrested Josna Khatun, 35, of Narail, named main accused in a fraud case at Paltan police station; the CID said in a press release that the ring lured people with jobs abroad, took large sums through several bank accounts and gave them fake visas [FV0098, FV0099]. According to Prothom Alo's report, the ring promised high-paid jobs in Italy, also took money on promises of important government posts, and its network covers Faridpur, Narail, Narsingdi, Kishoreganj, Chandpur, Chattogram and other districts [FV0100, FV0101].
+
+- Reported Sept 2026: Selim Reza wrote that, as far as he and his colleagues had learned, thousands of Bangladeshis were cheated over the past five years after paying large sums for promised factory jobs in Malaysia [MB0082].
+
+**What to do:** taking money on a false job promise is an offence under section 31 of the OEM Act (see File a police case) [S0159]; complain to BMET too (see Complain to BMET) [S0043]. The 2024 Kyrgyzstan case above was filed under the Prevention and Suppression of Human Trafficking Act (see File a trafficking case) [FV0013, FV0014].
+
+## Visa trading and the "free visa"
+
+A "free visa" (ফ্রি ভিসা) is a real visa bought from a sponsor who has no job for you [S0068, S0070].
+
+**How it works:**
+
+1. A sponsor abroad takes out a visa in its own name and sells it through brokers [S0068, S0113].
+2. Dalals sell it in Bangladesh, though it gives only permission to enter, with no job guaranteed [S0179, VS0027].
+3. On arrival in Saudi Arabia you are the sponsor's employee in name only: you must find your own work and housing, may pay the sponsor a monthly cut, and can be deported for breaking your visa's conditions [S0070, S0069].
+4. The visa may belong to a "supply company" (a labour-supply firm): a worker in Riyadh wrote in August 2025 that he later learned his visa and the villa he was housed in both belonged to one, and by his description such a company sells workers on to other places at a high price for its own profit, and the worker placed there is not paid [AA0165].
+
+**What dalals say:** "free visa" (ফ্রি ভিসা), "easy job" (সহজ চাকরি), "quick departure" (কম সময়ে যাত্রা) [S0179]. In Malaysia the same trick is sold as a "calling visa" [S0107].
+
+**Red flags:**
+
+- the words "free visa": BMET says there is no such thing [S0071], and a Prothom Alo editorial of October 2025 said that under ILO conventions there is no free visa, only a fraudulent arrangement in which the worker is given permission to enter, or a sponsorship is sold, with no specific job arranged [AA0200];
+- a household named as the employer on a work visa, with other signs listed in Saudi Arabia doc: Work visa: company worker, Avoid a "free visa" [S0070];
+- a price far above the official cost: a Kuwait visa that costs KWD 6 in fees is sold for Tk 8-9 lakh [S0112, VS0025].
+
+**Check before paying:** BMET says to have any so-called free visa and its papers checked at BMET in Dhaka or the DEMO, and to confirm the exact job, pay and benefits [S0203].
+
+**Cases:**
+
+- Reported July 2024: a Pirojpur man sold his business, mortgaged land and borrowed heavily to go to Oman on a free visa through a dalal, and got no work for a year [S0181].
+- Reported Jan 2026: many who went to Malaysia on a calling visa or free visa found no work on arrival [S0107].
+- Reported Sept 2026: hundreds of people from Munshiganj and Cumilla paid about Tk 4-6 lakh each after Facebook ads for Saudi "free visa" jobs, and many found the visa was not a work permit [S0172].
+
+**What to do:** obtaining a demand letter, visa or work permit by illegal means and buying or selling it inside Bangladesh is an offence under section 33 of the OEM Act, with 2 to 7 years' rigorous imprisonment and a fine of at least Tk 3 lakh [S0054, VS0042]. The government legal aid helpline is 16699 (see Free legal help) [S0051].
+
+## A visit or tourist visa sold as a job
+
+**How it works:**
+
+1. The dalal promises a work visa but the passport carries a tourist or visit visa [S0121, S0073].
+2. The worker enters legally, the visa runs out, and the worker is illegal with no job or employer [S0073].
+3. Full papers are no protection: Biswajit Bhowmik, an advocate with BNWLA (the Bangladesh National Women Lawyers' Association), said in June 2026 that many people from Cox's Bazar fly with a passport, visa and BMET card but are sent on 90-day visas, and after arriving get neither permission to stay permanently nor any work and are forced to come home empty-handed [MB0042].
+4. Some travellers are coached: a woman taken to Malaysia on a visit visa in November 2025 said she had been taught beforehand what to say at immigration [AB0043, AB0044].
+
+**What dalals say:** that a one- or two-month tourist visa is a two-year work visa [S0121], or that a 3-month tourist visa will become a 15-month iqama (Saudi residence permit) [S0073].
+
+**Red flags:**
+
+- a job offered on a tourist or visit visa: the ministry warns not to go to work on one on a broker's promise [S0117];
+- destinations in the ministry's 5 Feb 2025 warning: the Middle East, Russia, Greece, Libya, Lebanon, Egypt, Cambodia and Malaysia [S0116].
+
+**Check before paying:** the visa type shows in the destination's own visa check (Saudi Arabia doc: Work visa: company worker, Step 7: Check the visa yourself) [S0066], and BMET's free check says whether it is a work visa [S0158].
+
+**Cases:**
+
+- Apr 2023 to May 2026: a Keraniganj woman, then 20, promised a Tk 50,000-a-month restaurant job in Dubai, was given a visit visa, had her passport taken on arrival and was made to work in a dance bar for three years, she told Samakal [S0189].
+- 15 Nov 2025: Naznin Akter was taken to Malaysia on a visit visa for a promised restaurant job, having been taught what to say at immigration [AB0043, AB0044]. On arrival her passport, ticket and papers were taken and she was told she would get no work unless she paid the balance, although she had kept Tk 5,000 unpaid on the agreement that she would pay it after starting work, she told a roundtable at Prothom Alo in July 2026 [AB0045, AB0046, AB0047].
+- Reported July 2026: Cambodia victims travelled on one- or two-month tourist visas their brokers called two-year work visas [S0121].
+
+**What to do:** see File a police case and, if you were forced to work, File a trafficking case [S0159, VS0003].
+
+## Contract substitution: a different job or wage on arrival
+
+**How it works:**
+
+1. The contract shown in Bangladesh names one employer, job and wage [S0075].
+2. On arrival the worker signs a new contract at the real, lower wage, or is sent to a different employer [S0076, S0075].
+
+**What dalals say:** that the job title on the visa is temporary and will change once the worker proves himself [S0195]. In a 2025 Saudi case, asked directly whether the job was really at a chocolate factory, the seller said to have faith and not worry [AA0156, AA0157, AA0158].
+
+**Red flags:**
+
+- a job title on the visa that differs from the job promised: in a 2025 Cambodia case the visa named a construction job and the broker called it temporary [S0195];
+- no written contract: Cumilla's additional superintendent of police said in April 2026 that many people go through dalals without a valid contract, later become undocumented, and complain of unfair work or pay, and that action is hard because the papers are missing [AA0222].
+
+**Check before paying:** compare the employer, job and salary on the destination's record with what you were promised. Singapore's IPA (In-Principle Approval letter) states the job and salary, and MOM's online check shows Work Permit holders their salary information (Singapore doc: Work visa: Work Permit (construction, marine shipyard, process and other sectors), Step 5: The employer applies; check your IPA) [S0151, S0154].
+
+**Cases:**
+
+- Until 2020 (reported Oct 2024): Islam Hossain of Dumuria upazila, speaking at a workshop in Khulna, said that in Oman he was not given the wage and work promised and was made to work 12 to 15 hours; he stayed five years and came home in 2020 during the Covid pandemic [AA0067, AA0068, AA0069].
+- 2020 (reported Oct 2024): Md Shanto Khan of Jamira village, Phultala, Khulna, paid Tk 4.2 lakh to go to Saudi Arabia through a dalal to work as a cleaner in a bank; he said he was put to work at a petrol pump and then in a date garden and did not get the wage promised [AA0062, AA0063, AA0064]. He fell ill within two years, came home in mid-2023 by what he described as more or less running away, and in October 2024 the bank loan his father took and the money borrowed from relatives were still unpaid [AA0065, AA0066].
+- Oct 2022 (reported Sept 2024): a Narsingdi man who paid a broker Tk 4 lakh for a Saudi pharmacy job with a 15-month iqama got a restaurant cleaner's job with a 3-month iqama, and became undocumented [S0074].
+- Nov 2023 (reported May 2024): Nayem Uddin of Narsingdi went to Malaysia through a broker on Tk 5.2 lakh borrowed at interest; promised a tiles-factory job, he was given construction work for a company that stopped his work after 15 days, kept him in an office for another two and a half months and then sent him home, where he could not pay the loan instalments [MA0008, MA0009, MA0010].
+- July 2024 (reported Feb 2026): a Bangladeshi paid more than EUR 10,000 for a job with a Romanian transport company; on arrival there was no sign of the company, and he was sent to a cement manufacturer [S0007, S0008].
+- Reported Aug 2025: a Bangladeshi worker in Riyadh wrote that the man who sent him was from the next village, had lived in Saudi Arabia about five years and was known locally as polite and decent; he fixed the visa price at Tk 4 lakh and promised work at a good chocolate company [AA0156, AA0157, AA0158]. A driver took the group from King Khalid airport to a company room in Malaz, Riyadh; the worker bought his own food for a month with no work, the man who sent him, living far away near the Yemen border, put him off for two months with "today or tomorrow", and there was no chocolate factory [AA0162, AA0163, AA0164].
+- Reported Apr 2026: Fatema Akter, a returnee, told a Cumilla roundtable she worked in Oman for five years on a salary of only Tk 12,000, then two years in Saudi Arabia, where for some of the time she received a salary of about Tk 3,000; she said food was not given properly, wages were irregular, she was made to work all the time, and she came home ill [AA0243, AA0244, AA0245].
+- Apr-May 2026: an overseas agent sent a Singapore-bound worker from India a screenshot of an "approved" pass, took about S$8,000, then sent an IPA with a different job and lower salary [S0151].
+- 4 Oct 2026: the Attorney General said Bangladesh's labour market in Malaysia collapsed because of money taken beyond the fixed fees, people promised one job and given another, and fake visas, and that cases were filed against those involved under the interim government and charge sheets submitted after investigation [MB0098, MB0099].
+- Nov 2026: the minister told Parliament that complaints of wages below the contract are among those being investigated [S0185].
+
+**What to do:** being sent to a different job is grounds for a BMET complaint (see Complain to BMET) [S0043]; luring someone with false promises of higher pay is an offence under section 31 of the OEM Act [S0159].
+
+## The staged-payment trap, and no receipts
+
+**How it works:**
+
+1. The dalal takes money in instalments, each tied to a promised step: "processing", the visa, the medical, the ticket [S0174].
+2. The passport may be kept until the last instalment [VS0029].
+3. Money goes in cash or by mobile money, with no receipt [S0175, S0061]. In Malaysia recruitment in 2022-24, several BAIRA members allege that part of each Malaysia worker's cost went to Ruhul Amin, known as Swapan, part of it laundered to Malaysia through hundi, the rest to the agency in whose name the worker went, and that the money always changed hands in cash without a receipt; Ruhul Amin told Prothom Alo the allegations were false, that nothing was taken beyond the government-fixed Tk 78,990 and that no money was sent to Malaysia [MA0006, MA0007].
+4. When it fails, there is no proof of who was paid what [S0061].
+
+**What dalals say:** fees for "registration" (রেজিস্ট্রেশন), "visa processing" (ভিসা প্রসেসিং) or "document verification" (ডকুমেন্ট ভেরিফিকেশন) [S0174]. Police said a Nilphamari ring arrested in July 2026 took money in stages by mobile banking as "medical fee", "visa processing fee", "document verification", "ticket" and other costs, after assuring people the job was confirmed [FV0130].
+
+**Red flags:**
+
+- cash only, or payment to a personal bKash or Nagad number [S0175];
+- money asked before the visa, BMET clearance and flight are confirmed, which a BMET permission letter forbids [S0058].
+
+**Check before paying:** BMET says to deal with the agency through a bank and keep receipts [S0196, S0059]. In one BMET permission letter, the agency could take money only by cheque, bank draft or pay order, and only after the visa, BMET clearance and flight were confirmed [S0058]. At a BRAC Migration Programme workshop in Khulna on 31 October 2024, attended by district officials and police, speakers said migrants are cheated most when they go through brokers, that many keep no proof of the money they hand over, and advised keeping proof of every transaction [AA0070, AA0071, AA0072]. The minister said in April 2026 that the government plans, with the Bangladesh Bank governor, a "Probashi card" so that migrants are served through a set system instead of cash transactions [LB0216, LB0217].
+
+**Cases:**
+
+- Aug 2022: a Dhaka ring gave refund cheques that bounced [S0025].
+- Reported Feb 2025: a Bangladeshi who paid about EUR 18,000 to reach Italy said the man handling his papers in Bangladesh kept his passport until the last instalment [VS0030, VS0029].
+- Reported Aug 2025: the Riyadh worker in Contract substitution: a different job or wage on arrival wrote that he borrowed the Tk 4 lakh from relatives and paid the agency in instalments of Tk 50,000 or Tk 1 lakh, and that when he went to the agency's Dhaka office to collect his papers before the flight he was treated very badly and more money was taken on various pretexts [AA0159, AA0160, AA0161].
+
+**What to do:** BMET rejects complaints not backed by documents, and workers without written papers often fail to get compensation [S0060, S0061]. Keep every message and transfer record and complain (see Complain to BMET) [S0044].
+
+## The passport kept by the dalal
+
+**How it works:**
+
+1. The dalal or office collects the passport "for the visa" [S0021, S0101].
+2. The passport becomes a lever: to get it back, the worker must pay more or accept the deal [VS0029, S0123].
+3. It can happen again on arrival: Naznin Akter said that on arriving in Malaysia in November 2025 her passport, ticket and papers were taken and she was told there would be no work until the balance was paid [AB0050, AB0051]. A 2025 study by IIED (the International Institute for Environment and Development) counts the seizure of migrants' visas and passports abroad, with withheld wages, forced work and restricted movement, among the practices of modern slavery [OA0086].
+
+**Red flags:**
+
+- an office collecting many passports before any visa exists: in Sept 2026 a BMET mobile court seized three boxes of passports from one agency [S0101];
+- a request for the passport to arrange a medical: the ministry warned in Oct 2026 not to hand over a passport or money without confirming official approval [S0102].
+
+**Check before paying:** some steps need only the passport details, not the passport: for example, the Wafid medical slip is printed by entering the passport number and nationality [VS0031].
+
+**Cases:**
+
+- Reported Sept 2025: the CID said the Josna Khatun ring, which took money for jobs abroad and gave fake visas, also held on to many victims' passports to harass them [FV0103].
+- 15 Nov 2025: Naznin Akter told a Dhaka roundtable in July 2026 that on arrival in Malaysia her passport, ticket and papers were taken and she was told there would be no work until the balance was paid [AB0050, AB0051].
+- July 2026: in Cambodia a broker still held workers' passports and demanded USD 500 more from each [S0123].
+- 10 Sept 2026: a BMET mobile court sealed Triple A Overseas (RL-2630), fined it Tk 50,000 and seized three boxes of passports taken irregularly from workers, the ministry said, amid complaints that some agencies were collecting passports with promises of Malaysian visas [S0101]. The ministry said the passports were in BMET's custody and that returning them to their owners through legal process, and legal action against the agency, were under way [MB0093, MB0094, MB0095].
+
+> **Need to know**
+> - How does a worker whose passport was seized in a BMET raid claim it back from BMET's custody, and at which office?
+
+**What to do:** holding a migrant's passport, visa or papers without lawful reason is an offence under section 31(c) of the OEM Act: up to 5 years and a fine of at least Tk 1 lakh (see File a police case) [S0159, S0160].
+
+## The training-centre and skills-test racket
+
+**How it works:**
+
+1. Saudi-bound workers take a skill test under the SVP (Skill Verification Program) run by Takamol, for a set fee, USD 85 since early September 2026 (it was USD 50); dalals ask more, promising a pass [VS0051, F0091, VS0050].
+2. Jordan garment jobs go through a government channel that is meant to be free, and cheats charge for it [S0128]. A BOESL (Bangladesh Overseas Employment and Services Limited, the state recruiting company) deputy manager said in May 2026 that BOESL has sent women to Jordan's garment sector entirely free since 2010, its officers handling everything from the medical and pre-departure training to the airport, and that it tells workers each country's fixed migration cost in advance [OA0202, OA0203].
+3. Brokers wait where candidates gather: according to SRB (the Special Response Battalion), BOESL's test is held every Friday and Saturday at the Bangladesh-Korea Technical Training Centre (BKTTC), and a ring arrested in October 2026 worked mainly by targeting candidates there [FV0224, FV0225]. It promised a worker visa at low cost and a pass in the written test, took BDT 40,000 to 10 lakh depending on the case, then kept the money on various excuses [FV0222, FV0223].
+4. In Singapore, the state minister asked in July 2026 how agencies take Tk 12 to 15 lakh from a person going there, and said the Singapore authority does not take that money: six authorised training institutes charge it and, working as a syndicate, are making hundreds of crores of taka [MB0059, MB0060].
+5. Training is not a job: SRB-4's commander said BKTTC teaches 24 trades and its certificates help in getting work abroad, but it does not send workers or arrange jobs [FV0228]. Cumilla City Corporation's administrator said in April 2026 that some training centres give training but not a proper certificate, and promise jobs that do not happen [AA0249]. An ILO assessment of 40 TTCs (Technical Training Centres, BMET's training centres) found their training in many cases not fully in line with foreign labour markets' demand, an ILO programme manager said in May 2026 [OA0227].
+
+**What dalals say:** that they can fix the result; one ILO study found dalals telling candidates how to identify themselves to the interviewer, for example with a nail-polish colour on a set finger [S0137].
+
+**Red flags:**
+
+- any payment beyond the test fee (USD 85 since September 2026): BMET says paying extra cannot buy a Saudi skill-test pass [F0091, VS0050, S0077];
+- a fee for a government-to-government job: BOESL has no agent or sub-agent and takes no cash [S0130]; SRB said in October 2026 that BOESL takes no fee from candidates in recruitment, and that a person with only a passport can get work abroad through its test at no cost [FV0226, FV0227];
+- a job promised in a training centre's name [FV0228].
+
+> **Need to know**
+> - Does BOESL charge anything after final selection (by pay order), or nothing at all as SRB said in October 2026?
+
+**Check before paying:** see Saudi Arabia doc: Work visa: company worker, Step 3: Pass the skill test, for the official booking and fee [S0077]. A real BOESL recruitment, its deputy manager said, starts with a government-to-government agreement or an employer giving BOESL the recruitment; labour wing officers at the Bangladesh embassy verify the employer's demand, BOESL publishes a notice, and a test is held with the employer or its local representative present, after which BOESL helps with the legal steps [OA0204, OA0205].
+
+**Cases:**
+
+- 9 Oct 2026: SRB-4 arrested 12 members of a ring at Technical Mor, Dhaka, accused of taking money on promises of jobs abroad, worker visas and a guaranteed written-test pass; a mobile court sentenced seven to between seven days and three months in jail and fined five [FV0219, FV0220, FV0221]. The action began with complaints from BKTTC and BOESL, after which SRB investigated quietly and raided with an executive magistrate present [FV0229, FV0230, FV0231].
+- Reported 9 Oct 2026: 20 people arrested in a raid in Dhaka's Shyamoli were sentenced by a mobile court for taking Tk 5-10 lakh for Jordan garment jobs that are free through the government channel [S0128, S0129].
+
+> **Need to know**
+> - Are the 9 October 2026 raids at Technical Mor (12 arrested) and in Shyamoli (20 arrested) the same raid, and which count is right?
+
+**What to do:** a worker caught paying for a pass has the Takamol account locked and can't go to Saudi Arabia [S0078]. BMET asks people to hand anyone taking money for a pass to the police (emergency number 999) [VS0051, S0087]. SRB asked anyone cheated this way to inform the authorities quickly and to verify information through government offices and approved agencies [FV0229, FV0230, FV0231]. BMET's Takamol and Japan Support Centre is at BMET Bhaban 4th floor, Kakrail, Dhaka (01901165981, 01901165982) [S0079].
+
+## The medical "slip" and "unfit, pay to pass"
+
+Wafid is the Gulf states' online booking for the pre-departure medical; people still call it GAMCA, after the system it replaced [S0208, S0209]. The "slip" is the appointment confirmation [S0211].
+
+**How it works:**
+
+1. The slip costs USD 10 (standard) or USD 25 (premium) on wafid.com [S0199].
+2. Agencies sell a "package": in a 2025 case a Paltan agency offered Tk 10,000 standard, or Tk 20,000 with a guaranteed fit certificate [S0080].
+3. Centres are alleged to declare candidates unfit, then ask for a bribe for a fit report [S0082].
+4. Unauthorised centres test and issue reports without approval [S0103].
+
+**What dalals say:** "fit guaranteed" [S0080, S0210].
+
+**Red flags:**
+
+- any "guaranteed fit": a syndicate reportedly charged Tk 25,000-30,000 for one in 2025 [S0210];
+- a total well above about Tk 8,500-10,000 for a Gulf medical, the range reported as the proper cost in 2025 [S0210, VS0033]; for Malaysia the ministry set Tk 8,000 in Oct 2026 [S0200];
+- a centre not on the destination's approved list [S0103].
+
+**Check before paying:** book the slip yourself and check the result with your passport number or slip number on Wafid (Saudi Arabia doc: Work visa: company worker, Step 4: Pass the Wafid medical check) [S0209, S0211]. The Gulf country that issued the visa examines you again on arrival [S0081]; in a 2025 case a man who paid an agent Tk 25,000 for a fit certificate was found unfit in Saudi Arabia and deported [VS0032].
+
+> **Need to know**
+> - What is the official total for the Gulf (Wafid) medical in Bangladesh in 2026, and where is it published?
+
+**Cases:**
+
+- 1 Oct 2026: a mobile court sealed Human Diagnostic and Medical Center, Paltan, Dhaka, which the ministry said had tested 14 Malaysia-bound people without government authorisation [S0103].
+- Sept 2025: a former BAIRA official said only 2-5% of workers pay the set fee; the rest pay at least Tk 17,000-20,000 [S0083].
+
+**What to do:** the ministry asks people to email secretary@probashi.gov.bd about illegal or unauthorised medical tests, with the date, place, names and evidence [VS0034]; the Gulf Health Council complaint route is in Saudi Arabia doc: Work visa: company worker, If you are declared unfit or overcharged [S0081].
+
+## Fake BMET cards and fake clearance
+
+BMET clearance (the "smart card" or emigration clearance) is the government's permission to leave as a worker; airport desks check it [S0111].
+
+**How it works:** rings put fake visas in passports, then obtain BMET smart cards for them or forge the clearance itself, and send people to the airport [S0003, S0024]. Cards are issued offline by BMET and the district manpower offices, and online through Ami Probashi, a phone app run by a private organisation, with all data kept on a server at BMET's office [OA0001, OA0002]. In late 2023 and early 2024, rejected applications were approved through that system with a senior BMET official's login; BMET's inquiry said hackers used the app's lack of an automatic session time-out and of a one-time PIN (OTP), or other flaws, to do it [OA0005, OA0006, OA0007, OA0008]. People concerned told Prothom Alo in February 2024 that BMET's server could not be secured and ran on very old software, so fraud could not be stopped or traced; BMET was moving server management to the Bangladesh Computer Council (BCC), and two officials said fraud would stop once the move was done [OA0023, OA0024, OA0025].
+
+**Red flags:**
+
+- a BMET card or clearance supplied by the dalal or office itself [S0024];
+- a "clearance" for a country where the ministry has stopped clearances without its approval: since 4 Nov 2026 these include Serbia, Moldova, Belarus, Congo, Russia, Japan, Iraq, Laos, Vietnam, Cambodia, Ukraine and Libya [S0127].
+
+**Check before paying:** whether a BMET emigration clearance or card exists can be checked on the page of the WEWB (Wage Earners' Welfare Board), portal.wewb.gov.bd/bmet-wewbm-check [VS0035]. Police clearance certificates are forged too, with QR codes that lead to a fake website: apply only on pcc.police.gov.bd (Saudi Arabia doc: Work visa: company worker, Step 6: Give the agency your papers for the visa (start before Step 5)) [S0084].
+
+**Cases:**
+
+- Reported Oct 2022: workers who went to the UAE on fake smart cards got neither legal status nor jobs [S0147].
+- 27 Dec 2023 to 4 Jan 2024: 20 smart-card applications rejected in the Ami Probashi app were later given clearance, according to sources cited by Prothom Alo; BMET formed a six-member inquiry committee on 10 January, which reported on 7 February [OA0003, OA0004]. Of the 20 cards, 8 were in the name of Bangladesh Export Corporation (RL-803), on 2 and 3 January, and 12 in the name of Saad International Limited (RL-1068), on 1 and 3 January [OA0012]. Saad International's managing director said his agency applied by the rules as always, had never had a complaint, and knew of no irregularity; Bangladesh Export Corporation could not be reached [OA0013, OA0014, OA0015]. The inquiry found 19 cards were approved from an Android phone through two IP addresses and one from the computer of the Additional Director General, whose ID and password were saved on it [OA0005]. The Additional Director General (Training), then covering for the one on leave, told the inquiry he had not finalised any rejected application and that the app had been hacked before; the app's chief technical officer said no one but a system user could have done it [OA0009, OA0010, OA0011]. The committee, which included the Ministry, Ami Probashi and the BCC, held no one responsible [OA0006, OA0007, OA0008].
+- 31 Dec 2023: Alif Overseas (RL-847) took out smart cards for 24 Saudi-bound workers; in the third week of January BMET officials found no matching data on the server, the Director General was told in writing on 28 January, and BMET did not cancel the cards [OA0016, OA0017, OA0018]. On 5 February 2024 the Director General wrote to the Dhaka Metropolitan Police's cyber-crime deputy commissioner, saying Alif Overseas had taken the clearances by hacking the system; the deputy commissioner said the letter had not reached him [OA0019, OA0020, OA0021]. A BMET official said the cyber police had been asked to look at server fraud as a whole, and the BCC had been asked to audit the server [OA0026, OA0027]. The son of Alif Overseas's owner said the agency cannot hack BMET's server, never applied for the cards, and that someone inside BMET may have taken them out in its name [OA0022]. Tasneem Siddiqui of RMMRU (the Refugee and Migratory Movements Research Unit) said workers sent without proper checks can be cheated, and the agencies named should be investigated and punished if guilty [OA0031, OA0032].
+- FY2023-24: airport desks checked 1,391,988 clearances and stopped 1,098 travellers with no or fake BMET clearance [S0111].
+- July 2026: the CID said that after checks tightened, some recruiters allegedly used fake BMET cards to send workers to Cambodia [S0118].
+- August 2026: a Civil Aviation Authority deputy director said that in many cases passengers arrive at the airport with fake BMET cards, fake visas or other fake papers, which 24 agencies at the airport, including immigration and the airlines, check together [AB0124].
+
+BMET's inquiry made eight recommendations, among them OTP and session time-out in the app, BCC testing of its weaknesses, an IT audit, and keeping all of the app's data on BMET's server [OA0028, OA0029, OA0030].
+
+> **Need to know**
+> - Have the inquiry's recommendations been carried out, and has BMET's server moved to the BCC [OA0028, OA0023]?
+
+**What to do:** see File a police case [S0159].
+
+## Loan sharks and land mortgages
+
+**How it works:**
+
+1. The family raises the money by selling land, pawning jewellery or borrowing at high interest [S0176].
+2. In an OKUP survey, 72% borrowed, 11% mortgaged land and 6% sold family assets to go [S0178].
+3. Some dalals lend the money themselves: in a 2023 study of Bangladeshi women working in Jordan, loans from the brokers were the most problematic [S0136].
+4. What the worker sends home may not even cover the interest [S0183]. An IOM officer said in May 2026 that people often go at high cost on borrowed money and their income is almost used up repaying the loan, so a person needs to know beforehand what going will cost, what they will earn, how long they will stay and what is left at the end [OA0226].
+5. The debt keeps the worker in a bad job: a study by OKUP and IIED said people who go abroad on borrowed money are forced to accept any work and that it is almost impossible for them to come home without repaying the loan, and that with the distance, the cost of travel and the wish to provide for the family they bear everything in silence; 99% of the workers it surveyed had faced at least one sign of modern slavery (low or withheld wages, physical and mental abuse, restricted movement) and 81% more than five [OA0082, OA0083, AA0136, AA0137, AA0138].
+6. Disaster pushes families to migrate: OKUP's chairman said in March 2025 that when disasters leave people no other work locally the family decides to migrate and at least one member leaves in search of work, but there is no arrangement to protect these migrants [OA0087, OA0088].
+
+**Red flags:**
+
+- a loan arranged by the person selling you the job: in July 2026 the CID arrested an NGO loan officer accused of helping a woman take a Tk 1 lakh loan, keeping the money and her passport, and trafficking her to Cambodia [S0186, S0187];
+- a bribe asked for a government loan: in July 2026 the state minister said complaints allege migrants are asked for Tk 10,000-20,000 in bribes for Tk 3 lakh loans from Probashi Kallyan Bank (PKB, the state migrant bank), whose loan steps are in Saudi Arabia doc: Work visa: company worker, If you need to borrow [S0086].
+
+**The numbers:**
+
+- The OKUP and IIED study, "Exposed and Exploited: Climate Change, Migration and Modern Slavery in Bangladesh", published 18 February 2025, surveyed 648 households in 33 villages of Mathbaria, Pirojpur, and Gowainghat, Sylhet; sending a member abroad cost Tk 461,220 on average in Pirojpur and Tk 413,667 in Sylhet, and Mathbaria migrants raised 25% of it by selling land and 18% from high-interest loans [OA0080, OA0081, AA0134, AA0135].
+- The same study found climate risk raised the likelihood of these households sending someone abroad by 214% (161% for moving to another Bangladeshi town); most go to the Gulf, and a third work as construction labourers in risky conditions [OA0084, OA0085].
+
+**Cases:**
+
+- 2019 (reported Mar 2025): Abdullah Rubel of Padmapukur union, Shyamnagar, Satkhira, mortgaged his family's shrimp farm and spent Tk 5 lakh to go to Brunei; he found no work, did all the household work in a Bangladeshi's home for food and lodging with no wages, and after nine months borrowed again for a ticket home [AA0127, AA0128]. In March 2025 he still had not repaid the loan or recovered the farm [AA0129, AA0130].
+- Early 2023 (reported June 2026): a Madaripur man took loans from two banks to pay a broker EUR 16,000 for promised work in Italy [S0140, S0141].
+- Mar-Sept 2023 (reported May 2024): Md Selim of Narayanganj sold his auto-rickshaw and his wife's jewellery and borrowed to go to Malaysia; he got no promised job, paid his own fare home in September 2023 and was left destitute and in debt [MA0001, MA0002, MA0003].
+- Reported May 2024: five Sherpur, Bogura, men who paid Abdul Alim for work abroad said some had borrowed and some had sold land and cattle to raise the money [MA0021].
+- June 2024: in a Prothom Alo video, Mohammad Kolim of Barishal, unable to go to Malaysia, said he had paid with a loan at interest, and Belal Hossain of Cox's Bazar said his money came partly from his father, partly from uncles who mortgaged the homestead and partly from selling cattle, and all of it was lost [MA0041, MA0042].
+- July 2024 (reported Feb 2026): a Bangladeshi sold land and borrowed from relatives to raise more than EUR 10,000 for a Romania transport job that wasn't there on arrival [S0007, S0008].
+- 2024 (reported June 2025): Afaz Uddin said the BDT 24 lakh he paid for a promised Canada job was all his savings plus loans from acquaintances and relatives; his wife said the family was still paying interest [FV0084, FV0085].
+- Reported Feb 2026: a Prothom Alo editorial said an 18-year-old from Chandanaish, Chattogram, hoping to go to South Africa, was sent on a Tk 9 lakh loan beyond his family's means, and that his journey ended in his death abroad [AA0211].
+- Reported May 2026: Arif Hossain of Santoshpur, Sandwip, sold his electronics shop for a Saudi visa, was cheated there and came home after 27 days with nothing left [FV0108].
+- Reported May 2026: Selim Reza wrote that Bangladeshi workers he spoke to in Qatar had sold land, borrowed at high interest or left their families in debt to go, and that many who went on loans cannot send money home without regular work [AB0016, AB0017].
+
+> **Need to know**
+> - What monthly interest do village moneylenders charge migrants in 2026, and is land usually mortgaged by a written deed or informally?
+
+## Marriage, family-visa and fake-nikahnama schemes
+
+**How it works:**
+
+1. A broker arranges a marriage to a foreigner and promises a rich husband, a big house abroad or money for the family [S0021, VS0019].
+2. The woman travels on a family visa, such as China's Q-1 family-reunion visa [S0019].
+3. Abroad, the woman may be forced into sex work: a Chuadanga mother alleged in a 2024 case that this happened to her daughter in China [VS0020].
+
+Marriage has also been used to take women to India and Malaysia: women have been drawn into a love affair, married and taken to India with a child, then forced into sex work [AA0105], and many Rohingya girls found on one smuggling boat bound for Malaysia in April 2025 had been married over the phone, a police sub-inspector said; one, from a Cox's Bazar camp, had been married to a man in Malaysia she had never met (see "Malaysia: boats and land crossings" in the Illegal routes doc) [MA0098, MA0099, MA0100, MA0101].
+
+**What dalals say:** "the husband is rich" (স্বামী বিত্তশালী) [S0021]; in one case the family was told the Chinese groom had become Muslim, worked in a Gazipur factory and would stay in Bangladesh [S0014].
+
+**Red flags:**
+
+- a foreign groom found through "arrangers": middlemen allegedly dealt in up to Tk 10-20 lakh per woman sent to China [VS0018, S0017];
+- fake addresses, forged papers and suspect marriage documents [S0020];
+- a job or study offer that turns into a marriage: in a May 2024 case, a Rangamati woman's sister alleged she was taken to Dhaka with a promise of a nursing course and forced to marry a Chinese man [VS0022, S0018];
+- a poor village family: the Airport Armed Police Battalion (APBn, the police unit guarding Dhaka's Shahjalal airport) said in May 2025 that some rings, with local dalals, target women from simple, poor village families to take to China [AA0152, AA0153].
+
+**Cases:**
+
+- Mar 2024: a Chuadanga mother filed a case at a Dhaka tribunal alleging her daughter, married to a Chinese man in July 2023, was taken to China and forced into sex work; the daughter said Bangladeshi traffickers had sold her to him for Tk 10 lakh; the accused include a Jatrabari marriage registrar (kazi), and the CID was investigating in June 2024 [VS0020, S0015, S0016, VS0021].
+- Reported Mar 2025: a woman taken to India after marriage said her six-month-old child was held hostage and dangled from a balcony, with a threat to drop the child if she did not obey [AA0105].
+- 3 to 8 Apr 2025: a Rohingya woman from Balukhali camp (Camp 9), Ukhiya, was married by phone to a man in Malaysia she had never met, her parents agreeing on a broker's word; two days later she was handed to a broker, kept with other Rohingya women in a house in the Kachchhapia hills of Teknaf and put on a trawler for Malaysia that the navy seized on 8 April; her family had spent about Tk 50,000 by then [MA0099, MA0100, MA0101].
+- 26 May 2025: a 19-year-old woman being taken through Shahjalal airport told the APBn at the roundabout by the main entrance that two Chinese men were trying to traffic her to China; that night the APBn arrested Hu Junjun (30), Zhang Leiji (54) and a Bangladeshi, Md Nayan Ali (30), in Bashundhara, Dhaka [AA0143, AA0144, AA0145]. By the APBn's account, the two Chinese men had come to Bangladesh a year earlier, lived in Bashundhara and built ties with dalals around the country; with Nayan Ali's help the woman was pushed by threats and inducements to marry, a passport was made in her name at a false address, and she married Hu Junjun in March 2025 with a dower (denmohar) of Tk 10 lakh [AA0146, AA0147]. Zhang Leiji bought her air ticket without telling her, and the men took her by force to the airport [AA0148]. The APBn said a Bashundhara house held more traffickers and women victims; the others fled the raid, and police said they had initial proof the ring had long been trafficking [AA0149, AA0150]. Her mother filed a case at Airport police station on 28 May under sections 6(1), 6(2), 7, 8 and 10 of the 2012 trafficking act [AA0151]. The APBn's superintendent of police (operations) said this was the second recent detention of Chinese nationals for trafficking at Shahjalal airport [AA0152, AA0153].
+
+At least 4,226 Bangladeshi women took China's Q-1 family visa in 2020-2025: 35 in 2022, 1,016 in 2023, 1,378 in 2024 and 1,721 in 2025, according to data presented at an anti-trafficking-law workshop; the figure is not a count of trafficking victims [S0019, VS0015, VS0016, VS0017].
+
+**What to do:** exploitation through a fraudulent marriage counts as trafficking under the Prevention and Suppression of Human Trafficking and Migrant Smuggling Act 2026 (see File a trafficking case) [VS0004, VS0014].
+
+> **Need to know**
+> - Are forged nikahnamas (Muslim marriage contracts) used for Gulf or Italian family visas, and how does a family check one against the kazi's register?
+
+## Fake European work permits
+
+**How it works:**
+
+1. A dalal or agency sells a work permit for a European country such as Serbia, North Macedonia or Romania [S0001, S0148].
+2. The permit is forged; when the visa is refused, the ring attaches a counterfeit visa sticker, gets a BMET card for it, and sends the person to the airport [S0003].
+3. Most are stopped at immigration [S0004].
+4. Even real permits can lead to a different job, lower pay or no employer at all [S0008, S0009, S0013].
+
+**What dalals say:** that approval and a sticker visa will come within a month [S0006].
+
+**Red flags:**
+
+- an agency that controls your online application login: one Serbia applicant found the agency had changed his password [S0006];
+- a contract wage higher than what is really paid: in Romania, a legal expert said in 2026 that the contract filed for the visa often differs from the one signed on arrival and shows a much higher salary [S0009]; in Malta, an Identity Malta source said in 2024 that recruits earn much less than their contracts declare [S0013];
+- Romania sold as a stepping stone: in 2023 the Bangladesh ambassador to Romania said agencies encourage people who go there to move on to another country and process any file that pays more [S0150].
+
+**Check before paying:** BMET's free visa check (see Fake visa, demand letter or job offer) [S0158]. Since 4 Nov 2026, BMET must not clear workers for Serbia without the ministry's approval [S0127].
+
+**Cases:**
+
+- May 2023: private agencies were reported to charge Tk 6-8 lakh for Romania against BOESL's Tk 2.31 lakh, and the president of the Chamber of Commerce Romania-Bangladesh said he had handled at least 200 cases of workers who didn't get the promised job or pay [S0148, S0149].
+- May 2023: a Sylhet man said a broker took Tk 6 lakh for Poland, left him in Kyrgyzstan and disappeared [S0202].
+- Late 2023 to Mar 2024: Sajal Baidya, 35, of Jagannathpur, Sunamganj, back from Saudi Arabia for about three years, lost Tk 6 lakh trying to go to Romania through a dalal a few months before March 2024, then engaged another dalal to go to Italy for Tk 13 lakh, a relative said; he died under a train at Kulaura station, Moulvibazar, on 6 March 2024, and the railway police officer in charge said that, from talking to relatives, it appeared he had killed himself [OA0033, OA0034, OA0035].
+- July 2024 (reported Feb 2026): a Bangladeshi paid EUR 8,000 commission to a Bangladeshi agency for a Romania transport job; on arrival the company was not there [S0007, S0008].
+- July 2024: The Shift reported that Dhaka agencies were offering Maltese employers workers at EUR 600 a month, below Malta's EUR 925 minimum wage, plus a EUR 1,500 "gift" per worker [VS0046, VS0045, S0012].
+- Reported 28 Oct 2025: the embassies of Serbia and North Macedonia, having found fake work permits in visa applications, had issued no work permits to Bangladeshis for two months, and diplomatic sources said about 90% of the permits Bangladeshi applicants submitted to North Macedonia's embassy were fake, with the same situation in Serbia [S0001, S0002].
+
+**What to do:** in Romania a worker has a 90-day window by law to find a new job and get a new work permit, and a migrant caught working illegally is deported under escort [S0010, S0011]. In Bangladesh, see File a police case [S0159].
+
+> **Need to know**
+> - What does a Serbia, Croatia or Malta work permit sell for in Dhaka in 2026?
+> - Did Croatia suspend work visas for Bangladeshis, and is it still suspended?
+
+## Fake Australia and Canada work visas
+
+### Australia
+
+**How the real visas work:**
+
+- **The legal routes.** For Bangladeshis they are the study visa, skilled migration visas and employer-nominated work visas; the employer-sponsored temporary one is the Skills in Demand visa (subclass 482), in force since December 2024 [FV0211, FV0212]. These need an occupation on the approved list, proof of skill, work experience, English and an employer eligible to sponsor, and there is no easy, direct way to bring people from Bangladesh for ordinary work such as fruit picking or clearing fields, according to Kawsar Khan, a registered Australian migration consultant and immigration lawyer in Sydney [FV0211, FV0212].
+- **Experience.** In 2024 a 482 applicant needed at least two years' experience in the same occupation within the previous five years (for example, as a restaurant manager), and the immigration department had proposed cutting this to one year [FV0051, FV0052, FV0053].
+- **The sponsor.** Only an "approved sponsor", approved by Australia's immigration department, can nominate someone, and getting a job through one from Bangladesh is in practice very hard [FV0046, FV0047, FV0048]. An employer can apply to sponsor a worker from abroad only when suitable skilled people are not available locally, which is costly and slow [FV0158, FV0159, FV0160].
+- **English and skills.** Proof of English is a mandatory condition, and there is no way to get an Australian work visa directly without a language test or skills assessment [FV0049, FV0158, FV0159, FV0160].
+- **Who grants it.** The Department of Home Affairs alone can grant a visa, and no person, employer, organisation or lawyer can guarantee one [FV0158, FV0159, FV0160].
+- **Farm work.** There is no direct agricultural visa to Australia for Bangladeshis [FV0201, FV0202]. The main route for foreign farm workers, PALM (the Pacific Australia Labour Mobility scheme), is open only to Fiji, Kiribati, Nauru, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, Vanuatu and Timor-Leste; workers are selected through those countries' government labour-sending offices and stay up to 9 months for seasonal work or one to four years on long-term contracts [FV0205, FV0206]. PALM's official website says no one has to pay money or give a gift to join, and the employer pays the airfare at the start [FV0207, FV0208].
+- **The Working Holiday visa.** It goes only to citizens of listed countries, in two types, subclass 417 and 462, and Bangladesh is in neither; India joined the list in 2024 under a trade agreement, by lottery [FV0209, FV0210]. In September 2026 the minister said second-year Working Holiday visas would go by lottery, with 45,000 places against about 57,000 who qualified the year before, and third-year places would be 5,000 against about 31,000 [FV0216, FV0217].
+- **Skills still wanted.** Kawsar Khan wrote in September 2026 that the reforms give construction trade skills the same points as a higher university degree and prioritise shortage sectors such as health care, teaching and farm labour, and that construction engineering, nursing, health care, specialised teaching and technical occupations still need skilled migrants [FV0199, FV0200].
+
+**How it works:**
+
+1. The ring rides on real news: Australian immigration law changes almost every year, and fraud rings use wrong explanations of the changes and flashy news to take people's money [FV0050]. From July 2026 Australia slowed processing of Working Holiday visas, and on 17 September minister Tony Burke announced that agriculture and fisheries would join the priority list for skilled visa processing and first-year Working Holiday applications would again be processed at normal speed; what Australian media called "faster visas for farms" became "agricultural visas for Bangladeshis" in Bangladesh, though the announcement covered only people already eligible and citizens of listed countries [FV0203, FV0204]. Social media posts then claimed Australia was giving Bangladeshi farm workers visas in 10 to 15 days with no experience or English certificate [FV0201, FV0202].
+2. The seller takes money in the name of a sponsor: there are precedents of lakhs of taka taken this way [FV0046, FV0047, FV0048]. Law enforcers arrested several rings in Dhaka and elsewhere in 2026 accused of building copies of Australian government websites and giving fake sponsorships and "work visit visas" [FV0151].
+3. The papers are forged: wholly forged appointment letters on the letterhead and logo of a well-known Australian organisation, followed by a demand for an advance, and overseas or internet phone numbers so the call seems to come from Australia [FV0163, FV0164].
+4. The check is faked too: investigators said in July 2026 that a ring advertising Australia and Canada jobs on social media used fake work permits, visa approval letters and LMIAs (Canada's Labour Market Impact Assessment), and a fake visa-verification website made to look like an Australian government site that, when a passport number was entered, showed that the visa had been approved [FV0104, FV0105, FV0106].
+5. The recruiter poses as an expatriate: according to the CID (the Criminal Investigation Department of the police), a 19-year-old in Taraganj, Rangpur, ran a Facebook page as an Australia-based expatriate named "Khaja Mohammad Ali", posted attractive videos about Australian jobs, work permits and immigration, and contacted people through an imo (messaging app) account with an Australian number [FV0114, FV0115, FV0116].
+6. Money goes in stages under fee names: "processing", "online application", "form filling" and "visa costs" in one case, and a medical fee, visa processing fee and document charge in another, through bKash (mobile money) and then a bank account, with an accomplice moving it through many mobile banking accounts [FV0112, FV0113, FV0125, FV0126, FV0117, FV0118, FV0119].
+
+**What dalals say:** "recruitment for over a hundred posts with no experience", "guaranteed permanent citizenship in two months from a work visa", "no interview or English skill needed" [FV0162]; that anyone aged 18 to 30 can apply for a Working Holiday visa [FV0209, FV0210]; a farm visa in 10 to 15 days [FV0201, FV0202].
+
+**Red flags:**
+
+- a fee to join farm work: PALM is free to the worker, while people in Dhaka, Chattogram and Khulna were asking lakhs of taka for an "agricultural visa" [FV0207, FV0208];
+- a visa offered without proof of English: immigration experts say anyone who claims this should be identified as a fraud ring [FV0049];
+- a seller who cannot show a registered migration professional's number, cannot state the visa subclass and details, or talks of a "visa in ten days": Kawsar Khan wrote that the conversation should end there [FV0215];
+- a verification site on a .com or .net address: Australian government visa portals carry .gov.au, and fraudsters use .com or .net domains with almost the same name [FV0161];
+- the belief that money buys the visa: Bangladeshis living in Australia told Prothom Alo in August 2026 that many in Bangladesh think a visa comes for lakhs of taka but a work visa is impossible without proof of skill and language, and that fraudsters now send fake links that look exactly like government websites [FV0168, FV0169, FV0170];
+- the urge to pay a bit more after learning a paper is forged: Kawsar Khan wrote that people often reply "I have spent so much already, let me pay a bit more and see what happens", and call again only when stuck at the airport or abroad after losing their savings and homestead [FV0187, FV0188].
+
+**Check before paying:**
+
+1. **The agent.** Anyone giving Australian visa advice or services must be registered with OMARA (the Office of the Migration Agents Registration Authority); check the name or registration number free on the online list at www.mara.gov.au before paying anything [FV0153, FV0154, FV0165, FV0166, FV0167]. The Australian High Commission in Dhaka says to go only to a registered migration agent or a lawyer for visa advice [FV0152]. A registered agent must charge only a fair and reasonable fee, give a written agreement or written information on the cost and scope of the service before starting, and tell you the result as soon as it comes [FV0155, FV0156, FV0157]. OMARA has taken disciplinary action against more than 61 registered advisers since 2021-22, and several licences have been cancelled in Australia over allegations of lending them to unregistered brokers [FV0182, FV0183].
+2. **The offer.** Go to the employer's own website, take the contact details from there and verify the offer with them, or check it by speaking on a government number or through the embassy [FV0165, FV0166, FV0167, FV0184, FV0185, FV0186].
+3. **The visa.** Use only the government's official portal, immi.homeaffairs.gov.au [FV0165, FV0166, FV0167, FV0184, FV0185, FV0186]. A granted visa's approval letter carries a number that can be matched on VEVO, the Australian government's visa-checking service, though in some cases more checking is needed even when the visa shows there [FV0213, FV0214]. In one 2026 case the forgery showed when the application number and the grant number were matched [FV0179, FV0180].
+4. **The money.** Send no large sum to a personal bank or mobile banking number, and collect a written receipt for every payment [FV0165, FV0166, FV0167, FV0184, FV0185, FV0186].
+5. **The medical.** Do the health examination only at the clinic designated by the Australian High Commission in Dhaka [FV0184, FV0185, FV0186].
+
+**Cases:**
+
+- Dec 2025: according to the CID, an Oman-based Bangladeshi was put in touch through an acquaintance with "Khaja Mohammad Ali", who by phone, imo, WhatsApp and Messenger promised to take him to Australia and took Tk 1 lakh 46 thousand 400 in stages through bKash [FV0112, FV0113]. The accused then gave a bank account number to collect more; the phone numbers went dead and contact stopped [FV0117, FV0118, FV0119, FV0120, FV0121, FV0122]. The victim's nephew filed a case at Jatrabari police station, Dhaka, on 2 June 2026, and the CID arrested Md Roni Islam, 19, and Md Rakibul Hossain, 26, at Kamarpukur Bazar, Saidpur, Nilphamari, on 17 June, seizing six mobile phones and 12 SIM cards; it said Rakibul helped receive and move the money through various mobile banking accounts [FV0120, FV0121, FV0122, FV0114, FV0115, FV0116, FV0117, FV0118, FV0119].
+- Reported Apr 2026: Sujan Mia of Chhatak, who said he had been caught in France and sent back, said that when he later tried for an Australian visa, a broker and an agency took Tk 17 lakh from him and gave him a fake visa [LB0250, LB0251, LB0252].
+- Reported July 2026: Md Sayedul Haque, hoping for a job in Australia, paid about Tk 4 lakh 80 thousand in stages through bKash for a medical fee, visa processing fee, document charge and other heads, more was then demanded with no real arrangement to send him, and he filed a case at Pallabi police station, Dhaka, according to Dhaka Metropolitan Police [FV0125, FV0126]. On 28 July 2026 the police's Detective Branch arrested Mariful Islam, 21, and Bachcha Bau alias Hasinur, 28, in Nilphamari, seizing a laptop, seven mobile phones, 13 SIM cards and nine forged Bangladeshi passports; an additional deputy commissioner said the ring had cheated more than 72 people the same way [FV0127, FV0128, FV0129].
+- Reported Aug 2026: Harun ur Rashid, a businessman in Sydney, said a ring made a contract of about Tk 16 lakh with a relative of his to bring him on an "agricultural visa" with the lure of permanent citizenship in three years, though the relative lacked even the minimum English or occupational qualification for an ordinary work visa; the forgery showed when the application number and grant number were matched [FV0179, FV0180].
+
+### Canada
+
+**How the real work permit works:**
+
+1. A genuine job offer from a Canadian organisation [FV0131, FV0132, FV0133].
+2. The employer applies to the Canadian government for an LMIA (Labour Market Impact Assessment, proof that no citizen or permanent resident was found for the post) and gets it approved [FV0131, FV0132, FV0133]. Not every job needs one: permits are also given without an LMIA under international agreements, special programmes and for certain occupations [FV0134].
+3. The applicant submits the job offer, passport, proof of education and professional qualification, proof of language skill and, where required, a health examination [FV0131, FV0132, FV0133].
+4. After biometrics, security checks and assessment, the immigration authority decides [FV0131, FV0132, FV0133].
+5. The work permit itself is issued on arrival, on the border officer's final approval [FV0131, FV0132, FV0133].
+
+Canada has nothing like Saudi Arabia's kafil (sponsor) system through which a sponsor can arrange a visa: only the federal government issues Canadian visas, and even provincial governments cannot issue one [FV0135]. A work permit is temporary permission, never a right to live there permanently; permanent residence can be applied for later only by meeting qualification, work experience, language and programme conditions [FV0147, FV0148]. A Prothom Alo explainer of August 2026 said about 6% of Canada's population was unemployed and lakhs of international students already there were looking for jobs, and that without a good IELTS (English) or TEF or TCF (French) score a Canadian job visa "is not for you" [FV0149, FV0150].
+
+**How it works:** according to the same explainer, Canada fraudsters typically make fake job offer letters with well-known organisations' logos, show copies of forged LMIAs or work permits, send fake visa approval letters, build copies of government websites, use the photos or identities of people living in Canada on social media, and press for a quick decision and an advance payment [FV0138, FV0139, FV0140].
+
+**What dalals say:** "100 per cent guaranteed visa" (১০০ শতাংশ গ্যারান্টি ভিসা), "a job without an interview" (ইন্টারভিউ ছাড়াই চাকরি), "Canadian permanent residence (PR) in two or three months", "a high-paid job with no qualifications", "a special government quota" (সরকারি বিশেষ কোটা) and "no language skill needed" [FV0136].
+
+**Red flags:**
+
+- any guarantee: the Canadian government gives no one advance assurance of a visa, every application is checked separately, and no person, agency or representative can guarantee approval [FV0137];
+- "a work permit means guaranteed PR": this is misleading [FV0147, FV0148];
+- a recruiter who refuses a video call: in the case below, the victim's wife asked many times and he never agreed [FV0080].
+
+**Check before paying:**
+
+1. **The employer.** Check it exists by matching its address, phone number and website [FV0142, FV0143, FV0144].
+2. **The offer letter.** Check the pay, workplace, duties and contract terms are realistic, and that the email came from the organisation's own domain, not a free email service [FV0142, FV0143, FV0144].
+3. **The website.** If told to verify the visa on a website, check that it really is a government website [FV0142, FV0143, FV0144].
+4. **The money.** Send no large sums to a personal bank account or mobile banking number, keep receipts for every payment, and read and understand any document before signing [FV0145, FV0146]. In doubt, consult a Canada-authorised immigration consultant or lawyer [FV0145, FV0146].
+
+**Cases:**
+
+- Aug to Dec 2024: Afaz Uddin Molla, 58, a worker in Kuwait for 30 years, saw a Facebook advert offering "a chance to go to Canada for little money" and rang the number; the man who answered called himself Asadul Islam, said he was in Canada, and promised to take him from Kuwait to Canada quickly, and said the salary there would be Tk 4 to 5 lakh [FV0075, FV0076, FV0077]. According to the case statement, he took Tk 24 lakh for the visa through several bKash numbers, kept saying the visa would come very soon, and then switched off his phone [FV0078, FV0079]. When Prothom Alo rang the number in June 2025, the man who answered said he was not Asadul but Hanif, and cut the call [FV0083].
+
+### What to do
+
+- In both the Canada case and the Australia "Khaja Mohammad Ali" case above, a relative in Bangladesh filed the case at Jatrabari police station, Dhaka, while the victim was abroad: the wife on 22 May 2025, after which the court ordered the CID to investigate, and the nephew on 2 June 2026 (see File a police case) [FV0081, FV0082, FV0120, FV0121, FV0122].
+- The chief public prosecutor of the Dhaka Metropolitan Sessions Judge Court said in June 2025 that the CID should trace the bKash numbers named in such a case to find every member of the ring, that no one should pay on the strength of flashy social media adverts, and that people should go abroad through licensed institutions that regularly send people [FV0086, FV0087].
+
+## Online job adverts, Facebook and WhatsApp scams, and fake government sites
+
+**How it works:**
+
+1. A Facebook page or WhatsApp group posts jobs with foreign flags, company logos and photos of "successful" migrants [S0171, S0172]. At a Prothom Alo roundtable on 22 July 2026, a concept paper presented by Shariful Islam Hasan, associate director of BRAC's Migration Programme, said traffickers now lure people by spreading fake job adverts and posts about successfully reaching abroad on social media [AB0024, AB0025]. He said social media is a major tool of traffickers and that research says 82% of Bangladesh's young people want to leave the country if they get the chance [AB0080, AB0081].
+2. Contact moves to WhatsApp, payment goes by mobile money [S0175]. Dr Selim Reza, associate professor and coordinator of the Centre for Migration Studies at North South University, wrote in Prothom Alo in September 2026 that online brokering has created new ways to take money under names such as "registration", "visa processing" and "document verification" [MB0083].
+3. When the page closes or the number changes, the worker has nowhere to go [S0175].
+4. The tools are getting better: the director of Dhaka University's Institute of Information Technology said in July 2026 that traffickers use fake job adverts, videos made with artificial intelligence, cryptocurrency, identity-hiding technology and secure messaging apps, and that even mainstream media are sometimes fooled by the artificial videos [AB0072].
+5. Fake government sites back up the story: a ring forged apostille certificates (the Ministry of Foreign Affairs' certificate that makes a Bangladeshi document valid abroad) on fake domains resembling the government's, including apostillemygovbd.news and apostille-mygovbd.com, according to a2i, the government's digital-services programme [OA0130, OA0131]. For a fake Australian visa-verification site, see Fake Australia and Canada work visas [FV0104, FV0105, FV0106].
+6. The advert can be the first step to worse: Selim Reza also wrote that the recent warnings and data of IOM (the International Organization for Migration) and data say fake online job adverts are not only a way to take money but sometimes the first door to trafficking and to being used in forced criminality [MB0084].
+
+**What dalals say:** "free visa" (ফ্রি ভিসা), "guaranteed job" (নিশ্চিত চাকরি), "Tk 1 lakh a month salary" (মাসে এক লাখ টাকা বেতন) [S0171].
+
+**Red flags:**
+
+- an overseas job advert without government or BMET approval: publishing one is an offence under section 32 of the OEM Act, with up to 1 year in prison and a fine of at least Tk 50,000 [S0162, VS0043]. On 30 July 2026 the state minister for expatriates' welfare said advertising on social media to send people abroad without the Ministry's permission is plainly against the law, that the government has ordered tough action against flashy, fake adverts for Malaysia and other countries, and urged BMET to run mobile courts against them [MB0063, MB0064];
+- computer operator, typist, call-centre or data-entry jobs in Cambodia, the typical bait for scam compounds [S0119, S0124];
+- a travel agency advertising jobs: in a June 2026 Jordan case, the CID found the advertiser was a travel agency with no recruiting licence [S0138];
+- an offer in the name of a government body: in Aug 2025 BOESL warned that a ring was using its name to promise Malaysia jobs; BOESL has no agent and takes no fee until final selection, then only by bank pay order [VS0052, S0110];
+- an apostille site other than https://www.mygov.bd/: a2i asks people not to open suspicious links or give personal information on any other site for apostille [OA0134, OA0135];
+- a "visa processing centre" website whose details don't add up: the Bangladesh Embassy in Abu Dhabi found that uaevisaonline.com's registrant and technical contacts were in the United Kingdom, its registrar's number in the United States, its company number Indian, and its Dubai head-office building number did not exist [FV0094, FV0095, FV0096];
+- a visa bond or fee paid before the interview through a third-party site: the US Embassy in Dhaka warned in January 2026, "Do not pay the bond before the interview. Paying a bond in advance does not guarantee a visa, and third-party websites may be fraudulent", and said no money paid before the interview is refundable [OA0139, OA0140].
+
+**Check before paying:** check the agency's licence and the visa as in Fake visa, demand letter or job offer [S0158]. The Ministry of Expatriates' Welfare says the recruiting agency's or employer's details in an online advert can be checked on BMET's website or through the Probash-Bondhu call centre (see "Who can I call for help while abroad?" in the FAQ doc) [RU0005]. The CID asks people not to pay anything on an offer of a job abroad without checking the institution, the recruiter and the visa process [FV0123]. For Cambodia jobs, see Cambodia doc: Scam compounds and trafficking [S0119].
+
+**Cases:**
+
+- Jan 2023: the Daily Star found 30 Facebook groups and pages offering Cambodia jobs [S0120].
+- 2025 (reported Sept 2026): a Cumilla graduate recruited through a WhatsApp group advert for data entry in Phnom Penh paid about Tk 450,000, and his passport was taken within 48 hours of landing [S0124].
+- Aug to Dec 2025: after the Ministry of Foreign Affairs wrote to Bangladesh Police in August 2025 asking for fake apostille domains to be shut and the forgers prosecuted, two of them, apostile.mygov-bd.com and apostiller-bd.com, were closed; a2i said in December 2025 that work to identify the forgers and close the others was continuing [OA0132, OA0133].
+- 22 Sept 2025: the Bangladesh Embassy in Abu Dhabi said UAE authorities had confirmed no visa ban on Bangladeshis had been announced, and that news reports of a ban had cited an article on uaevisaonline.com, a so-called visa processing centre whose information was not correct; the embassy said most of the site's past customers complained of being cheated [FV0091, FV0092, FV0093, FV0097].
+- Aug 2026: a ring sold fake police clearance certificates with QR codes leading to a fake website [S0084].
+- For Australia and Canada jobs sold through Facebook, imo and WhatsApp, see Fake Australia and Canada work visas [FV0075, FV0076, FV0077, FV0114, FV0115, FV0116, FV0125, FV0126].
+
+**What to do:** see File a police case [S0162].
+
+## "Your visa is stuck, pay more"
+
+**How it works:**
+
+1. After the first payment, the dalal reports a problem: the visa is stuck, approval needs more money, or the worker must pay to leave [S0006, S0123].
+2. Sometimes the worker is already abroad and held, and the family is told to pay [S0029, S0030]. A prosecutor and special investigating officer at the International Crimes Tribunal said in July 2026 that in many cases a trafficking victim is taken abroad, tortured and a ransom demanded, and that with quick, coordinated action it is possible to bring the victim back and arrest the trafficker [AB0071].
+
+**What dalals say:** in a 2025 case, hostages in Nepal were forced at gunpoint to tell families "we have reached Canada; the company has arranged 15 days' training" (আমরা কানাডায় পৌঁছে গিয়েছি। কোম্পানির পক্ষ থেকে ১৫ দিনের ট্রেনিংয়ের ব্যবস্থা করা হয়েছে।) [S0031].
+
+**Red flags:**
+
+- "pay after you arrive" offers routed through Nepal, where Bangladeshis get a visa on arrival [VS0037, S0033];
+- photos of a visa and ticket in the passport sent to the family as proof of the trip [VS0038];
+- a fresh demand after arrival: in a 2025 Saudi case the worker said he was asked for another Tk 1.5 lakh for a driving licence the company was to get him; the accused denies it [AA0173, AA0174, AA0175, AA0181].
+
+**Check before paying:** the destination's own visa check, or BMET's (see Fake visa, demand letter or job offer) [S0158].
+
+**Cases:**
+
+- May 2025 (reported Sept 2025): the family of Shimul Sheikh, 35, of Bichhali village, Narail Sadar, allege that two neighbours, Khairul Islam (33) and Shariful Islam (28), promised him a good job and an iqama (work permit) in Saudi Arabia for Tk 5 lakh, raised by selling a motorcycle, mortgaging land and borrowing at interest [AA0170, AA0171, AA0172]. He said he was told he would drive a company vehicle for Tk 70,000-80,000 a month with a licence from the company, then was asked for another Tk 1.5 lakh for the licence; according to the family no work was arranged and, because they could not pay, no iqama was made [AA0173, AA0174, AA0175]. His mother said he was then held, a caller from an unknown number said he would be in danger unless money was paid, and he escaped; in September 2025 he said he was on the run, hungry, and had been chased by police the day before [AA0176, AA0177]. His father said a village arbitration failed because the accused would not accept it; his mother filed a case in a Narail court, which ordered the PBI (Police Bureau of Investigation) in Jashore to investigate, and a PBI sub-inspector said the investigation was continuing [AA0178, AA0179, AA0180]. Shariful Islam denied the allegations, saying Shimul got the driving job as agreed but could not drive, was placed with another company, ran away from it and works with one of Shariful's cousins, that the iqama was made, and that the fresh demand and threats are false; Khairul Islam was not found at his house [AA0181, AA0182].
+- Oct 2025: according to BRAC, three Sylhet men promised Canada jobs, to be paid for after arrival, were taken to Nepal on 13 Oct and held at gunpoint; families were told to pay a local broker Tk 5 lakh and then Tk 12 lakh more each; after a trafficking case at Sylhet's Kotwali police station, a joint police-CID raid arrested the local broker, and the traffickers released the men near Kathmandu airport [VS0037, S0029, S0030, S0032, VS0039].
+- Reported July 2026: in Cambodia a worker was told to pay USD 1,500 to quit, and the broker held workers' passports and demanded USD 500 more from each [S0123].
+- Reported July 2026: a Cumilla father said he paid Tk 20 lakh for his son's trip to Italy via Libya, where the son was held for ransom [S0143].
+
+**What to do:** call 999, then see File a trafficking case; holding someone and demanding ransom counts as exploitation under the trafficking law [S0087, VS0006].
+
+## Hundi and money mules
+
+Hundi is the informal, illegal money-transfer system that bypasses banks [S0028].
+
+**How it works:** hundi agents take money abroad and pay the family at home through mobile money accounts such as bKash and Nagad, often at a better rate than banks [S0125, S0126]. The CID's acting additional inspector general said in July 2026 that identifying technology-based money transactions is among the biggest challenges in trafficking cases, and that tracing cryptocurrency, hundi and online transfers needs modern software, training and international cooperation [AB0065]. Winrock International's Bangladesh country representative, who directs its Ashshash project, said at the same roundtable that the channels used to move money, including bKash, Nagad, hundi and cryptocurrency, must be effectively monitored and held accountable, and the flow of trafficking money brought under strict watch [AB0074].
+
+**Red flags:**
+
+- a rate better than the bank's (in Dec 2024, about Tk 115 a dollar against about Tk 108), with cash delivered to the doorstep [S0125, VS0036];
+- a recruiter who tells you to open a new bank account in your own name, or to receive money into your account or move it to another: MOHRE (the UAE's Ministry of Human Resources and Emiratisation) named both in November 2026 among five signs of a fake UAE job offer [FV0238, FV0239].
+
+**Cases:**
+
+- Sept 2022: the CID ran operations against alleged MFS (mobile financial services) agents running digital hundi [S0028].
+- Mar 2024: the CID arrested five people accused of laundering Tk 4 billion abroad through digital hundi using MFS [S0027].
+
+**At home:** Cumilla's additional deputy commissioner said in April 2026 that embezzlement of money sent from abroad and family disputes are prominent among migrants' complaints to the Deputy Commissioner's office, and that a person abroad cannot protect his family and property [AA0251].
+
+> **Need to know**
+> - Are migrants or their families asked to lend their bank or bKash accounts to move other people's money, and has anyone been charged for it?
+
+## Refund refusals after a failed departure
+
+**How it works:**
+
+1. The worker doesn't go, or comes back without the job [S0104].
+2. The agency or dalal delays, offers a fresh visa "soon", or gives cheques that bounce [S0025].
+3. A destination can close after people have paid: the Maldives stopped issuing new work visas to Bangladeshis from April 2024 because Bangladesh had filled the cap of 100,000 workers from any one country set by a Maldivian law, according to the Expatriates' Welfare Ministry and the Bangladesh High Commission, which announced the stop on 22 May 2024 [OA0036, OA0037, OA0038].
+4. Many victims bargain with the broker instead of going to law: the CID said so of Cambodia returnees in July 2026 [S0122]. A CID acting additional inspector general said in July 2026 that many people tortured abroad compromise after coming home or don't want to give evidence, which obstructs trials [AB0064].
+5. Some turn to local politicians: the administrator of Cumilla City Corporation said in 2026 that politicians like him receive many complaints that agencies took people's money and didn't send them, and have to pressure the middlemen to keep their promise or return the money [AA0227, AA0228].
+
+**Red flags:** a promise of a new visa instead of the money back [S0025].
+
+**Cases:**
+
+- 20 May 2024, Sherpur, Bogura: Lailul Haque said that after he came back from Malaysia he went to the dalal Abdul Alim several times for his money, that Alim gave assurances but didn't pay, then moved away from Sherpur and stopped answering his phone; local people said Alim was staying in Tarash, Sirajganj [MA0016, MA0017]. That night five young men who had first gone to Alim at least a year and a half earlier filed a written complaint at Sherpur police station; the officer-in-charge said the necessary legal action would be taken, and the report gives no case or arrest [MA0018, MA0019, MA0020].
+- 22 May 2024, the Maldives: 6,436 people had taken BMET clearance to go since unskilled workers began to be sent in January 2024, and a large share of them were stuck without visas, a number no one could confirm [OA0043].
+  - Monir Hossain of Chattogram said he paid Tk 2.6 lakh through an acquaintance, with Tk 2 lakh more due when the visa came; the visa promised for March had not come, he could not tell whether it ever would, and he was paying monthly interest on a Tk 1 lakh loan [OA0039, OA0040].
+  - Sheikh Alamin of Chandpur said he paid Tk 35,000 to a dalal he knew, the market closed again only three months after reopening, many who had deposited money were left uncertain, and the dalal was still giving assurances [OA0041, OA0042].
+- 31 May 2024, Malaysia: agencies failed to send about 17,777 workers with BMET clearance by Malaysia's deadline that day, and after a ministry probe the agencies were directed to refund them by 18 July 2024 [S0104]. In July 2024 the state minister said BAIRA reported 70% refunded but he could not yet say how many had been paid, and in Jan 2025 the ministry secretary said 81% of agencies had refunded [S0105, S0106].
+  - Orders of the National Human Rights Commission (NHRC), announced on 3 June 2024, cite an allegation that in the last 10 days of May about Tk 150 crore was taken from about 30,000 passengers in the name of air tickets, an extra Tk 50,000 each, and call for an investigation and legal action [MA0037, MA0038, MA0039].
+  - A Prothom Alo column of 4 June 2024, citing newspaper and television reports, said workers bought plane tickets at three to four times the price with money raised by selling or mortgaging land and livestock and borrowing at interest, and still could not go [MA0045].
+- April to May 2025: Abdul Gani said that after a fake ticket and visa the dalal Shafiqul Islam was to return his money but fled the area from 10 April, and that with no refund and under pressure from his dadon (high-interest informal) loan he filed a written complaint with RAB (the Rapid Action Battalion, an elite police force); another complainant said he sold everything and borrowed to pay, was not sent abroad, and was threatened when he asked for his money [FV0059, FV0060].
+- 18 Aug 2026: the Expatriates' Welfare and Overseas Employment Minister, Ariful Haque Chowdhury, said action was being taken against unauthorised and fake recruiting agencies and recruitment was being brought online; he gave no number or names [AB0099, AB0100].
+- 15 Nov 2026: the minister told Parliament 56 agencies' licences had recently been cancelled for irregularities and fraud [S0184].
+
+**What to do:** in a 2025 study by OKUP (Ovibashi Karmi Unnayan Program, a migrant workers' organisation) only 39% of the complainants' BMET cases were resolved, typically with Tk 20,000 to just over Tk 1 lakh, though workers had paid three to six times the government cost [S0057]. A civil suit can claim the full loss (see Sue for compensation) [S0161]. WARBE Development Foundation, a migrants' rights organisation, said in April 2026 that mediation had recovered a significant amount of money in the past three years (see Local committees and mediation) [AA0229].
+
+## Trafficking disguised as a job, especially for women
+
+**How it works:**
+
+1. A woman is offered a well-paid job: housekeeping, a restaurant, customer care [S0135, S0189, S0186].
+2. She is often sent on a visit visa [S0189].
+3. On arrival her passport is taken, and she may be sold or forced into sex work [S0189, S0135, VS0049].
+
+Trafficking used to be done by force and is now done mainly in the name of migration, through job advertisements, according to Shariful Hasan, associate director of BRAC, in July 2026 [RU0058].
+
+**Red flags:**
+
+- a recruiter she already owes money to [S0186];
+- a job with no BMET clearance or on a visit visa [S0117, S0189];
+- any job for a woman in Malaysia: the Ministry of Expatriates' Welfare said in February 2025 that the agreement between Bangladesh and Malaysia leaves no scope for women workers to be employed there [RU0004].
+
+**Cases:**
+
+- Reported Oct 2020: a Jhenaidah woman, lured by a fellow villager with a housekeeping job in Jordan at JD 250 (Jordanian dinars) a month, said she paid two brokers Tk 50,000, was sold in Amman and was held in a house from which women were sent out for sex work [VS0048, S0135, VS0047, VS0049].
+- 15 Sept 2020: a RAB mobile court team arrested two owners of Fatema Overseas, Road 10, Banani, on a charge of trafficking a young woman to Saudi Arabia [S0205].
+- July 2022: a 34-year-old Narayanganj woman went to Saudi Arabia on a promise of housework at Tk 30,000 a month and was physically and mentally abused; her husband said the people who sent her demanded Tk 3 lakh 20 thousand to bring her back, and that she was put out of the house after threatening suicide and came home [AA0019, AA0020, AA0021]. He filed a case at Hatirjheel police station on 24 November 2022 naming three men; in January 2024 the investigation was unfinished, and the investigating officer said institutions he had written to had not replied [AA0022, AA0023].
+- 21 Nov 2024: a Satkhira woman went to Saudi Arabia to work as a cleaner, was put to domestic work in a house, said she was sexually abused there and came back in January 2025 [AA0106]. She filed a case in a Satkhira court on 16 February 2025; Monirul Islam, owner of Lamim Visa Care in Satkhira, was arrested, while another accused, Md Rafiqul Islam, owner of M/s Siam Trade International in Dhaka, said she came back because she was already ill [AA0107, AA0108].
+- 29 May 2025: the Anti-Corruption Commission (ACC) raided BMET's Dhaka office, and on 3 July 2025 filed a case against four BMET officials and the owners and officials of five agencies for trafficking women abroad on forged papers; it alleges applications were filed with another woman's passport number in place of the real applicant's and cleared without a check against BMET's database [OA0105, OA0106, OA0107]. In a letter to BMET on 23 July 2026 the ACC said it had filed a case in June 2025 against five agencies over this, and that its investigation had found allegations against 52 more agencies [MB0073, MB0074, MB0075].
+- 14 May 2026: a Keraniganj woman made to work in a Dubai dance bar for three years was rescued at Dhaka airport as the ring tried to take her back; investigators found at least 14 more women held in Dubai [S0189, S0190].
+- July 2026: the CID arrested an NGO loan officer accused of trafficking a woman to Cambodia; she came home on 1 July with help from the BRAC Migration Welfare Centre [S0186, S0188].
+- Told July 2026: Naznin Akter, separated from her husband and struggling to support two children, went to Malaysia to get free of debt after an acquaintance offered her restaurant work at about BDT 60 thousand a month; she paid more than BDT 2.5 lakh, raised by selling jewellery and borrowing [AB0041, AB0042]. In Malaysia her family was pressed for money, and she was kept in a hotel, then held in a closed room for six days and tortured for asking where she was; she got home on 21 November through her brothers' efforts [AB0048, AB0049].
+
+> **Need to know**
+> - Did the ACC file its case over forged clearances for women in June 2025 or on 3 July 2025, and is it one case or two?
+
+**The numbers:**
+
+- The CID's trafficking unit had 122 cases under investigation in 2025, against 114 in 2022, 86 in 2023 and 100 in 2024 [S0191].
+- BRAC's Migration Programme said in January 2024 that women domestic workers keep coming home from Saudi Arabia after abuse by employers, that some who were sexually abused come back pregnant, and that with no safe working environment women domestic workers are forced to return almost every month [AA0042, AA0043].
+- A 2025 study by Badabon Sangha, a women migrant workers' rights organisation, in seven districts found 27.6% of women migrated with no source of income; its programme manager said many took high-interest loans or sold assets, and abroad face low pay, losing control of their passports, long hours and abuse [OA0214, OA0215, OA0216].
+- Women's migration fell by about 41% in 2025 against 2022 because of various kinds of fraud, according to Professor Tasneem Siddiqui of RMMRU in July 2026 [MB0066].
+
+**Action against agencies:** a Prothom Alo editorial of January 2024 said there is almost no example of action against the accused agencies after women come back empty-handed and abused [AA0049]. Traffickers do not get exemplary punishment, according to BRAC's Shariful Hasan in July 2026 [RU0058].
+
+**What to do:** see File a trafficking case [VS0002].
+
+## When the visa, the agency and the clearance are all real
+
+In the cases below the worker went abroad, or tried to, through a recruiting agency or a broker, in several with BMET clearance [PA0001, PA0017, PA0022, PA0031, MA0040]. Volunteers of several organisations working on migration told Prothom Alo in November 2026 that a visa or job offer through a recruiting agency is not by itself a guarantee of legal and safe migration [RU0191, RU0192].
+
+### How it works
+
+1. **Malaysia, 2022 to 2024.** Workers went through recruiting agencies picked for the syndicate, and many who reached Malaysia got no job [PA0001, PA0002, PA0003]. UN experts said in a statement published on the website of the UN human rights office (OHCHR) on 19 April 2024 that Bangladeshi workers promised jobs did not get the work after entering Malaysia, and that many were forced to stay on after their visas expired, at risk of arrest, detention, ill-treatment and deportation [MA0022, MA0023]. They said criminal networks in Bangladesh and Malaysia recruited workers to companies that did not exist, and the workers fell into debt paying the networks for it [MA0024]. A survey of 357 migrants in Malaysia by Verite and four other organisations found workers paid BDT 544,000 on average, against a government-fixed cost of BDT 79,000 [PA0004, PA0005, PA0006]. Selim of Narayanganj was put on construction piling work instead of the job promised, was injured, got no treatment from the company and bought his own ticket home [PA0007, PA0008].
+2. **The agency on the papers is not the one that sent the worker.** Prothom Alo reported in May 2024 that government records showed a worker going to Malaysia in the name of a syndicate agency even when that agency did not send him; in several written undertakings the paper collected, the agency actually sending the worker, as "sub-agent" or representative, promised to take responsibility if the worker got no job, although its name appeared in no government record of the sending [MA0004, MA0005]. Prothom Alo reported in September 2026 that agencies of three Awami League-era MPs, of one MP's family member, of Awami League leaders and of a city corporation councillor did business inside the 2022-24 Malaysia syndicate, and that these agencies themselves said publicly they had sent no workers: other agencies sent workers in their names [MB0078, MB0079].
+3. **Saudi Arabia.** Ali Haider Chowdhury, former secretary general of BAIRA (the recruiting agencies' association), claimed in September 2026 that 70% of workers going to Saudi Arabia go for a short term and that many find no work after arriving; Prothom Alo added that there are complaints of workers not getting work according to their contracts there, and that there is not work at the rate workers are going [RU0072, RU0073].
+4. **Russia, a different employer.** According to a BRAC Migration Programme press release, 35 Bangladeshi workers dismissed from their jobs in Russia returned to Dhaka on 18 January 2026, and the workers told BRAC a recruiting agency had sent them in July 2025 with BMET clearance [PA0014, PA0015, PA0016]. They complained that their clearance named the Russian firm Mars International Limited Trade Development but they were placed with a different firm on arrival, and were made to do building construction although the contract was for factory work [PA0017, PA0018, PA0019]. Six of them said going had cost each BDT 700,000 on average [PA0020, PA0021].
+5. **Russia, the army.** Research by BRAC's Migration Programme in November 2025 found, as Prothom Alo summarises it, that the deception begins in Bangladesh: the men left with valid visas, job contracts and the required papers, and were sent to the war after being taken to Russia [RU0127]. According to a written complaint that the families of Ali Hasan Sohel of Goalanda, Rajbari, and three other men filed with the Expatriates' Welfare Ministry on 19 May 2026, the men were sent to Russia on 7 May 2026 with BMET clearance after contact with Jabel-e-Noor International Limited, a recruiting agency in Malibagh, Dhaka; Sohel's father said the family had been told he was going to a company job for two years [PA0022, PA0023, PA0024]. The families allege that after arrival a group of 30 was kept in a hotel for three days and then handed over to the army [PA0025]. Rajon Hossain of Jhenaidah, one of the 30, said that on 12 May they were made to sign a contract after being told it was for a bank card, SIM card and work permit, that they could not understand it because it was written in Russian, and that they later learned it was a contract to join the Russian army [PA0048, PA0049]. According to the Special Response Battalion (SRB), a police unit, the 30 went through three firms, Jabale Noor, RS International and TS Group [PA0046].
+   - **The embassy had refused.** According to a letter the labour wing of the Bangladesh Embassy in Russia sent to the Expatriates' Welfare Ministry on 25 May 2026, Jabale Noor sought permission on 5 May to send 70 workers and the embassy did not attest it, and RS International was at first told it could bring 10 workers but that was suspended when suspicion arose [RU0096, RU0097]. The letter says the two agencies, unable to get attestation, sent the workers in the name of TS Overseas, and asks the Ministry to check how workers were sent without the embassy's permission [RU0098]. Prothom Alo found that TS Overseas had taken clearance in the names of 266 workers for Russia, and that the names of the other two agencies could not be found in BMET's database [RU0123].
+   - Prothom Alo reported that the Expatriates' Welfare Ministry cancelled the licences of Jabale Noor, TS Overseas and RS International (see "Russia: recruited into the war" in the Illegal routes doc) [PA0047].
+6. **Russia, the government's own agency.** A responsible official of BOESL, the government recruiting agency, which took the second-highest number of Russia clearances at 771, told Prothom Alo in October 2026 that it had been sending workers to three Russian companies, that after one worker ran off with a vehicle and another became involved in the war two of the companies stopped taking workers, that 14 more people were still due to go to the third on its old demand letter, and that BOESL had received no new demand letter for a year [RU0124, RU0125, RU0126].
+7. **Cambodia.** Md Shafiqul Islam, sent to Cambodia in October 2025 on the promise of a computer data-entry job, said he made a BDT 450,000 agreement with the broker Masud on BDT 200 stamp paper on 1 September 2025 [PA0029, PA0030]. He said he attended three days of BMET training at Probashi Kalyan Bhaban in Dhaka and received BMET clearance (the smart card) [PA0031]. He said that on 27 October 2025 he was taken to a walled complex near the Thai border, which he described as a scam centre, and that his phone and passport were taken there [PA0032, PA0033, PA0034]. Tofayel Ahmed, another returnee from a scam centre in Cambodia, told a roundtable at the Prothom Alo office in Dhaka on 18 August 2026 that he went to Cambodia with a BMET smart card and was sold to a scam centre there [AB0089, AB0090]. Dipta Rakshit, Bangladesh country representative of Winrock International, an international development organisation, and director of its Ashshash project, told a roundtable at the Prothom Alo office on 22 July 2026 that information from people who returned from Cambodia shows 80 percent went abroad through the legal migration process [AB0073]. Anirban Survivor Voice Foundation, an organisation led by trafficking survivors, filed an application with the Expatriates' Welfare Ministry on 18 October 2026 and said in a press release that many Bangladeshis who went to Cambodia with valid passports, visas and government clearance were forced to work in online scam compounds; Prothom Alo reported more than 1,800 workers stranded there (see Cambodia, Myanmar and Laos: scam compounds) [PA0038, PA0039, PA0040].
+8. **Attested demand letters and clearance.** The state minister for expatriates' welfare told Parliament in June 2026 that nominal companies abroad bring in 100 people where there is work for 10 [PA0041, PA0042, PA0043]. He said that, because the Bangladesh embassy in the destination country attests the demand letters sent from abroad, stricter surveillance, monitoring and verification are needed at embassy level [PA0044, PA0045]. Migration expert Asif Munir told Prothom Alo in September 2026 that responsibility for approving clearance lies with the government, and asked why workers are sent to countries whose appointment letters cannot be verified and how clearance is given for countries like Russia and Cambodia [RU0074]. Md Al-Amin Noyon, president of Anirban Survivors' Voice, told the July 2026 roundtable that in the past year and a half 56,000 Bangladeshis went through BMET to 28 countries where Bangladesh has no embassy or consulate, and that there is no information on how they are or whether they are safe [AB0082]. He said it is also BMET's responsibility to monitor whether workers reached the workplace and whether their pay and housing are right, and that the state could identify, if it wished, how many went on tourist visas and did not return [AB0084]. Shakirul Islam, chairperson of OKUP (Ovibashi Karmi Unnayan Program, a migrant workers' organisation), told the same roundtable that because workers go abroad on BMET's clearance, the state must also take responsibility for that process [AB0056].
+
+### Red flags
+
+- an employer on arrival that is not the one named on the BMET clearance [PA0017, PA0018];
+- an agency other than the one named on the clearance taking the money, with a private written undertaking instead of the government record [MA0004, MA0005];
+- a paper to sign in a language the worker cannot read [PA0049, PA0214]; in one case it was described as being for a bank card, SIM card and work permit [PA0049].
+
+### Check before paying
+
+Migration volunteers said in November 2026 that these all need to be verified: the real job opportunities in the destination country, the employer's identity, the job contract, the pay and allowances, the visa type and Bangladesh government approval [RU0191, RU0192].
+
+> **Need to know**
+> - How can a worker check, before paying, whether the Bangladesh embassy's labour wing attested the demand letter behind his visa, and which agency it was attested for?
+
+### Cases
+
+- On 31 May 2024, the last day for approved workers to enter Malaysia, thousands of people crowded Dhaka's Hazrat Shahjalal International Airport without tickets in a last attempt to go, according to the National Human Rights Commission [MA0040]. Several thousand were turned back from the airport on 1 June 2024; they said they had paid the company BDT 500,000 to 600,000 and still could not go [PA0009, PA0010, PA0011]. Many said the agencies they had paid could no longer be reached by phone, and many who went to the agencies' offices found them shut [PA0012, PA0013]. Tanvir Mia (22) of Akhaura, Brahmanbaria, who could not fly to Malaysia by the deadline, fell from the door of the Upakul Express train into the Meghna at the Bhairab rail bridge on his way home from the airport and went missing, Prothom Alo reported [MA0043, MA0044].
+- The wife of Bazlur Rahman Sardar (30) of Jashore said in February 2025 that he had gone back to Malaysia two months earlier after an earlier two-year stay, that while he was working there police detained more than a hundred people together, and that because nobody appeared for the recruiting agency he had gone through, a red seal was put in his passport and he was to be sent home within about a week; Prothom Alo reported he had been in a Malaysian jail for a month and a half after a fault was found in his papers [RU0013, RU0014].
+- Md Shafiqul Islam said the Bangladeshi community in Cambodia, approached by his younger brother, paid USD 3,200 to get him released, and that after he came home the broker Masud spoke of compensation, then could not be traced and his office was closed [PA0035, PA0036, PA0037].
+- Sohel's father said the agreed BDT 700,000 was paid in full with borrowed money, and Sohel's wife said not one taka of it has come back [PA0026, PA0027, PA0028].
+
+### Action against agencies and officials
+
+- **April 2024, UN experts:** they said high-level officials of the Bangladesh and Malaysian governments were involved with the networks, that little action had been taken against the firms involved in either country, and that victims who spoke out faced reprisals and harassment [MA0025, MA0026].
+- **June 2024, National Human Rights Commission:** taking up the Malaysia situation on its own motion, it ordered on 3 June 2024 that the allegations of extra money taken by fraud, of workers sent to name-only companies and of workers finding no work in Malaysia be investigated and action taken, called for identifying the firms and people responsible for workers with visas and clearance failing to go in time, and gave the Expatriates' Welfare Ministry secretary until 10 July 2024 to report [MA0034, MA0035, MA0036].
+- **The Paltan syndicate case:** filed on 3 September (the report gives no year) at Paltan police station, Dhaka, by Altab Khan, owner of a firm named Afia Overseas, on charges of embezzlement through a syndicate and human trafficking, it names 103 accused, among them Masud Uddin Chowdhury, former expatriates' welfare minister Imran Ahmed, former secretary Ahmed Munirus Salehin, Benjir Ahmed, a former member of parliament and owner of Ahmed International, and Md Ruhul Amin Swapan, owner of Catharsis International [OA0150, OA0151].
+  - The case alleges that, although there are more than two thousand recruiting agents, the accused formed a syndicate and discriminated among them, took from the complainant by intimidation and force an extra Tk 1.5 lakh per person for 841 people, Tk 12 crore 56 lakh 1 thousand in all, and collected about Tk 24 thousand crore from other businessmen and embezzled it [OA0152, OA0153, OA0154].
+  - It alleges that Salehin, while in government service, used his son as a member of the syndicate under his own ministry, and that Imran Ahmed helped the ring by irregularly approving the launch of an app named "Probashi" for his wife's elder brother's son [OA0155, OA0156].
+  - On 23 March 2026 Dhaka's detective police (DB) arrested Lt Gen (retd) Masud Uddin Chowdhury, a former member of parliament for Feni-3 and managing director of M International Limited, in Baridhara; on 24 March a Dhaka metropolitan magistrate granted five days' remand, and police said there are 11 cases against him in Feni and Dhaka [OA0147, OA0148, OA0149]. The public prosecutor, Omar Faruq Faruqi, told the court that Masud Uddin Chowdhury had taken Tk 24 thousand crore in the name of sending people abroad and that remand was needed to learn who shared the money and where it was laundered; the investigating officer sought the recovery of the money and the arrest of absconding accused [OA0157, OA0158, OA0159].
+  - He was remanded a second time on 29 March 2026 and a third time, for three days, on 4 April; prosecutors told the court the syndicate traded in commissions from more than two thousand recruiting agencies, which got no work unless they paid, and that every member except him was absconding [OA0160, OA0161, OA0162]. His lawyer, Touhidul Islam, told the court on 4 April that after 11 days of remand the investigating officer's application recorded no progress, that recovering money cannot be a ground for remand, and that his client is over 72 and has had brain surgery and two heart stents [OA0163, OA0164, OA0165].
+- **July 2026, licences withdrawn:** on 19 July 2026 the Expatriates' Welfare Ministry withdrew the licences of 49 recruiting agencies, which Prothom Alo described as linked to the Malaysia syndicate, because charge sheets against them under sections 406, 420, 385, 386, 427 and 34 of the Penal Code 1860 had been filed and accepted in court [MB0055, MB0056, MB0057, RU0078]. Expatriates' Welfare Minister Ariful Haque Chowdhury said that month that the licences of three agencies that sent workers to Russia had also been cancelled, and that BMET had been told to be more careful before giving clearance for Cambodia [RU0048].
+
+### What to do
+
+Taking money on a false job promise is an offence under section 31 of the OEM Act (see File a police case) [S0159]; complain to BMET too (see Complain to BMET) [S0043].
+
+## A flight to a different country first
+
+In the cases below the person was first flown, or in one case about to be flown, to a country other than the promised destination; in several they were held there and more money was demanded [PA0055, PA0063, PA0081, FV0177].
+
+**How it works:**
+
+1. **"Visa processing" abroad.** According to victims' relatives at a press conference in Bhairab, Kishoreganj, on 8 January 2025, the owner of a travel agency with an office in Gulshan, Dhaka, that had promised to send them to Europe took seven people to India and Nepal on 12 March 2024 for "visa processing", and they were sent home from India on 28 June after complications caused by visa forgery [PA0050, PA0051, PA0052]. A relative said the owner took BDT 80 lakh from the seven, and the victims later found the Gulshan office padlocked [PA0054, PA0053].
+2. **Nepal.** A Cumilla man promised passage to the United States said he was sent to Nepal on 7 December 2023 and locked in a godown in Kathmandu, where his phone, passport and other papers were taken [PA0055, PA0056]. He said he was forced at gunpoint to send his father a WhatsApp voice recording saying he was in Mexico, after which his father paid the remaining BDT 43 lakh of the contract [PA0057, PA0058]. The Cumilla man is Tarek Aziz of Khanatua village, Manoharganj, who alleged at a press conference on 1 March 2025 that Ashek Elahi, a former president of the Cumilla South district unit of the student organisation Chhatra Shibir, took him to Nepal on the promise of taking him to the United States, held him hostage there and took BDT 45 lakh from his family; Ashek Elahi denied it at his own press conference on 3 March 2025, said the allegation was baseless and that he was himself a victim of the same fraud [PA0055, AA0073, AA0074, AA0075]. By Ashek Elahi's account, a man named Jobayer Hossain of Chhatarpaiya, Senbag, Noakhali, an acquaintance of Tarek Aziz's father, was the one who sent people to America; Ashek, Tarek and several others went to Nepal with Jobayer on 7 December 2023, where Jobayer held several of them hostage and took their phones, passports and other papers [AA0076, AA0077]. Ashek Elahi said that, in fear for their lives, the hostages told their families and his father paid Tk 40 lakh to Jobayer in cash and through a bank, after which what he called Jobayer's Nepali mafia ring let them go [AA0078]. Tarek Aziz told Prothom Alo on 3 March 2025 that his family knows nobody named Jobayer from Noakhali, that their contract was with Ashek Elahi, that Ashek Elahi took their money and that he has all the proof [AA0086, AA0087]. A young man from Jashore promised a labourer's job in Australia was taken to Kathmandu instead (on 14 September 2025, according to his father) and kept in a hotel, where his passport and dollars worth BDT 1 lakh were taken and a further BDT 1.5 lakh was demanded [PA0063, PA0064, PA0065]. He was still missing in April 2026 [PA0070].
+3. **Australia through a visa-free country.** Kawsar Khan wrote in Prothom Alo in August 2026 that Australia fraud rings sometimes use the Maritime Crew (subclass 988) visa, and then send the victim first to a country where Bangladeshis usually need no visa, such as Nepal, the Maldives, Fiji or Indonesia; he wrote that an offer to route a person through another country instead of a direct Dhaka to Australia ticket is a sure sign of danger [FV0175, FV0176]. Tabarak Khan, a resident of Botany, Sydney, said his nephew fell into an agency's trap: the government checking system showed a visa, but from its type he was sure it was fake; the nephew ignored repeated warnings, and the fraud was caught at the last moment when the ticket to Nepal was being bought [FV0177, FV0178].
+4. **Egypt.** A Madaripur man was promised a work permit for Morocco and onward travel to Spain or Italy for BDT 17 lakh [PA0071, PA0072, PA0073]. At the airport in Egypt the group's passports were taken for 23 hours and returned with Libyan visas [PA0074, PA0075, PA0076]. By his account, one of the brokers told them not to worry: they would be taken from Libya through Algeria to Morocco [PA0077]. He came home after 104 days, after ransom was paid [PA0078]. One of two Bangladeshi women trafficked to Egypt said she was told she would go to Italy legally: the process would be completed at the Italian embassy in Egypt [PA0079, PA0080]. She said she was held there for about a year and a half, that her passport and phone were taken, and that she and another Bangladeshi woman were kept locked in a room [PA0081, PA0082, PA0083].
+5. **Several stops.** A Noakhali man who contracted to reach Italy for BDT 1,200,000 handed his passport to an office in Ashkona, Dhaka, and was sent through New Delhi, Colombo, Sharjah and Cairo before being driven into Libya [PA0096, PA0090, PA0091, PA0092]. According to his complaint, after he had stayed about 16 days in Colombo more money was taken from his family in stages on various pretexts, and in Cairo a ring member held him in a house for about five days, after which a further USD 6,000 was demanded and taken [PA0093, PA0094, PA0095].
+6. **A country nobody mentioned.** Men promised jobs in Cuba were taken through Kolkata, Delhi, Singapore and Fiji to Vanuatu and locked in an isolated house [PA0097, PA0098, PA0099]. Vanuatu police rescued 103 more Bangladeshis, and on 12 November 2024 the Barishal Human Trafficking Tribunal sentenced two brothers to life imprisonment in the case [PA0100, PA0101, PA0102]. Mohammad Akram Hossain said a labour-supply firm promised him and his brother-in-law jobs in Cyprus, but in September 2024 their group of 10 was first taken to Saudi Arabia on Hajj visas, kept there a few weeks, flown to Russia and taken by bus from St Petersburg to an army camp [PA0103, PA0104, PA0105]. According to his family, Jafar Sardar (35) of Bara Meghla village, Jashore Sadar, left home on 17 August 2024 bound for Cyprus through a Dhaka agency named "Dream Home Travels", which had submitted his papers to the Cyprus embassy; when no visa came in two years it took him to Saudi Arabia with talk of a job in Russia, and two months later he was taken to Russia through Dubai, Libya or Turkey [RU0006, RU0007]. His family said they paid Dream Home Travels BDT 8 lakh in all, raised from a BDT 4 lakh NGO loan, the sale of his mother's and wife's jewellery and money borrowed at interest [RU0008].
+7. **A forged visa and a real flight.** According to the CID, a ring gave two people tickets for Nepal- and Italy-bound flights, boarding passes and fake Italian Schengen visas; they flew on 26 May 2026, Italian immigration at Rome's Leonardo da Vinci airport found the visas to be fake, and after two days in custody they were sent back on 28 May [PA0106, PA0107, PA0108]. The CID said each had a contract of BDT 30 lakh, of which BDT 20 lakh was taken in advance, and it arrested a Biman Bangladesh Airlines ground-service junior officer in the case [PA0109, PA0110, PA0111, PA0112].
+
+An analysis reported by Prothom Alo on 31 March 2026 found that people trafficked from Bangladesh to Italy are taken through Nepal, India or Sri Lanka to Dubai, then through Egypt or Tunisia to Libya, where they are kept, and from there across the Mediterranean (see "Libya to Italy by boat" in the Illegal routes doc) [PA0113, PA0114, PA0115]. According to the SRB, which arrested one ring's alleged leader in Dhaka in September 2026, several victims were assured they would reach Italy through Serbia and Belarus; the ring took BDT 20 to 25 lakh per person, in some cases up to BDT 40 lakh, and sent people abroad under the names of unlicensed agencies, among them "Arzu Immigration Limited" and "Nafis Air Immigration Limited" [PA0084, PA0085, PA0086, PA0087, PA0088, PA0089].
+
+**Red flags:**
+
+- a ticket to Nepal, India, Sri Lanka or Egypt when the job promised is in another country [PA0050, PA0055, PA0063, PA0091];
+- for a job in Australia, a route through Nepal, the Maldives, Fiji or Indonesia instead of a direct ticket [FV0175, FV0176];
+- being told the visa or the embassy paperwork will be completed in the transit country [PA0050, PA0079];
+- a visa for a country that was never discussed appearing in the passport [PA0074, PA0076, PA0077].
+
+**What to do:** taking money on a false job promise is an offence under section 31 of the OEM Act (see File a police case) [S0159]; luring someone abroad for work knowing they may be exploited counts as trafficking (see File a trafficking case) [VS0003]. By Ashek Elahi's account, the group held in Nepal came home after filing a complaint at the Bangladesh mission in Nepal, and Tarek Aziz, as complainant, accused Jobayer of human trafficking to the Nepal police and to the mission in a complaint that bears Tarek Aziz's signature [AA0079]. Ashek Elahi said in March 2025 that a case under the human trafficking act had been filed against him and his family, that he and all the other accused in Tarek Aziz's case were on bail, that Jobayer Hossain was not named as an accused, that he and several other victims had complained against Jobayer at Motijheel police station, and that Jobayer and a man named Masud of Kishoreganj were still absconding [AA0080, AA0081, AA0082].
+
+## Proof that is not proof
+
+Each item below is something that made a recruiter's offer look real, in a reported case in which people were cheated, or in a 2026 newspaper warning or UN finding [PA0029, PA0119, PA0133, PA0181, FV0141, FV0171, RU0160].
+
+- **A stamp-paper agreement.** Md Shafiqul Islam said his BDT 450,000 agreement with his broker was on BDT 200 stamp paper, and that he was then taken to a complex in Cambodia which he described as a scam centre [PA0029, PA0030, PA0032, PA0034]. The Cumilla man held in Nepal claimed that in arbitration after his return the accused signed a stamp paper promising to pay BDT 45 lakh plus BDT 1 lakh compensation and then paid nothing; the accused said his signature was taken by force [PA0060, PA0061, PA0062]. In another dispute, Ashek Elahi, accused in a trafficking case, alleged in March 2025 that on 14 December 2023 a group attacked his house and forced his mother to sign four blank bank cheques and 20 blank non-judicial stamp papers, that on 17 March 2024 Tarek Aziz's father took his uncle's signature on five more, that his family filed a court case to recover them, and that they were then used to file the case against him [AA0083, AA0084, AA0085].
+- **Cheques.** The complainant in a Sylhet UK-visa case said that, after mediation by local people, the accused gave six cheques of BDT 2 lakh each on 21 July 2024, that they were dishonoured, and that on 10 December the bank again said the account did not have enough money [PA0119, PA0120]. The complainants' lawyer told a Dhaka court on 15 July 2025 that the cheques the chairman of BSB Global Network gave in the name of refunds were repeatedly rejected by the bank [PA0122, PA0123]. According to the case against VisaGuide, a firm that promised to send people abroad on student visas, victims were given cheques and receipts after paying, but no one was sent in the agreed time and the money was not returned [PA0131, PA0132].
+- **"Pay the balance after the visa."** Kawsar Khan wrote in a Prothom Alo column in August 2026 that "visa first, money later" (আগে ভিসা, পরে টাকা) is the biggest bait of Australia visa fraudsters [FV0181]. According to a case petition reported on 13 November 2024, Abul Hossain of Hijla, Barishal, made a BDT 350,000 deal with his neighbour for a well-paid job in Dubai, paid BDT 200,000 in 2021, and was to pay the balance after getting the visa [PA0133, PA0134]. He was sent to Dubai in February 2021 on a seven-day tourist visa, was held there by a local broker ring that demanded BDT 100,000, and was later sent back by Dubai police for entering illegally [PA0135, PA0136, PA0137]. When he asked for his money back, the accused demanded another BDT 400,000 to send him to Kyrgyzstan [PA0138]. According to a case statement reported on 21 July 2026, a woman whose husband lives in Italy was taken to a travel agency in Gulshan 1, Dhaka, where the accused made a financial agreement with her that said the full money was to be paid after the visa was issued [PA0139, PA0140, PA0141]. She had met one of the accused when she went to collect her passport from the Italian embassy for renewal; he presented himself as someone who could get passports renewed quickly and get Italy visas [PA0144, PA0145, PA0146]. The CID said that after an Italy visa was issued and she collected her passport, immigration officers at Dhaka airport told her another woman had already gone to Italy on 24 April using the visa in her passport; the CID seized 56 passports and 153 seals from the ring [PA0142, PA0143, PA0147].
+- **A visa that shows online.** Kawsar Khan wrote in August 2026 that fraud rings usually pick Australian visa categories such as Working Holiday (subclass 417) or eVisitor (subclass 651), which Bangladeshis are not eligible for: they enter an eligible country in the online application to get a quick digital visa, then use the correction facility to add the applicant's Bangladeshi passport number [FV0171, FV0172]. The government's checking system then shows the visa as granted, but it is impossible to travel on it; people he warns answer "but the visa is showing online!" [FV0173, FV0174].
+- **A foreign phone number.** A Prothom Alo explainer of August 2026 said fraudsters call on WhatsApp or imo from numbers with Canada's country code (+1), and that anyone outside Canada can make a call from a Canadian number online [FV0141].
+- **An office.** According to complaints filed with police in Jashore and Natore in September 2025, a man took BDT 58 lakh from four Jashore men to send them to Canada on worker visas, wound up his Jashore office and opened a new one named Euro Visa Help Center BD in Natore Sadar; one of the four claims he handed over BDT 15 lakh from selling his mother's land and an NGO loan [PA0126, PA0127, PA0128]. According to the case against VisaGuide, victims went to its office on 5 July 2026 and found it had been moved away [PA0129, PA0130]. The Uttara office of RS International, the agency through which four Patgram men were sent to Moscow, was found locked on 7 June 2026 [PA0175, PA0176]. Police and relatives said Rashed Khan of Charjadabpur, Shariatpur Sadar, arrested in a Shariatpur case reported in February 2025, works at sending manpower to various countries and has a firm named Lamisa Enterprise; the wife of one man said her husband left home with him on 3 February 2024 to go to Italy [LB0150, LB0151].
+- **An appointment letter, an interview and a medical test.** Victims of S Alam Overseas, whose office was on the second floor of a house in Sector 12, Uttara, Dhaka, said in November 2026 that the agency gave them fake appointment letters from an Azerbaijan company named Colin Construction and visas, had foreigners interview them online, and sent everyone who submitted a passport for a medical test at a centre in Banani [PA0181, PA0182, PA0183]. The 23 victims Prothom Alo spoke to said they each paid between BDT 80,000 and BDT 350,000, taken in four stages, plus BDT 5,000 for the medical test [PA0184, PA0185, PA0186]. On 23 October the receptionist phoned to say the company had closed; about 200 people were cheated, according to the victims [PA0187, PA0188, PA0189]. Dhaka detective police said on 31 March 2024 that a father and son they had arrested told victims they held valid licences for four to five recruiting agencies when they had none, and had victims take a medical test after they paid [PA0190, PA0191, PA0192]. According to the father of the Jashore man held in Nepal, the brokers gave him fake Australian government visa-grant papers when demanding the remaining BDT 12 lakh, and after taking the money took his son to Uttara, Dhaka, for a medical test and fingerprints [PA0066, PA0067].
+- **Papers showing government approval.** A UN commission found that Russia job offers seemed credible to recruits because of the recruiters' assurances, their own earlier work abroad, others who said they had got the same work, and documents showing the recruiting firm's government approval; in some cases an acquaintance had told them about the job (see "Russia: recruited into the war" in the Illegal routes doc) [RU0160, RU0161].
+- **A visa in hand.** Police in Chattogram said on 22 November 2026 that an arrested ring member admitted the ring offered to send people to Serbia for BDT 600,000, took the money, and gave a visa to win their trust; the visa was forged, which immigration police at the airport caught [PA0193, PA0194]. Police said that when the forged visa was caught, ring members claimed the victim had some other problem [PA0195, PA0196]. A man from Osmaninagar, Sylhet, alleged on 11 February 2025 that the accused agreed in early 2022 to arrange six UK work permit visas for BDT 10 lakh each, some months later sent photos of the visas on WhatsApp, and then sent the passport back by courier with no visa in it [PA0116, PA0117, PA0118].
+- **People he has already sent.** A Madaripur broker was known locally for having sent more than 300 young men to Italy through Libya [PA0155, PA0156]. Locals said a Libya-based broker from Adityapur, Madaripur, had sent over 50 young men from the village to Italy in one year [PA0157, PA0158, PA0159]. Local people in Bhairab, Kishoreganj, said in July 2024 that several rings sending people to Italy by sea through Libya had been active there for 10 years and many people did reach Italy through them; the most active, Rasel Mia's ring, then took several crore taka from 24 people, none of whom reached Italy [LB0055, LB0056]. The sister-in-law of a Madaripur man whom relatives of two dead migrants accuse of trafficking said many people in the area came to him after his two sons went to Italy [PA0148, PA0149]. Relatives allege he took BDT 30 lakh from the two families and said they would cross the Mediterranean by ship, but they were put on a small engine boat that left Libya on 14 October 2025 with fifty people, and the two died of cold at sea on 21 October; one man's brother said the family learned of the death 21 days after it, and his father said the broker had told them the men were alive [PA0150, PA0151, PA0152, PA0153, PA0154]. The complainant in the Sylhet UK-visa case said the accused had sent his own two sisters to England [PA0121].
+- **A friend.** Abdullah Al Zobayer, 24, of Mirsarai, Chattogram, said in June 2024 that he trusted a friend who was the younger brother of a Libya-based broker and a member of the ring, was taken to Libya on the promise of Italy, and that the ring collected BDT 4 lakh from his family [LB0039, LB0040, LB0041].
+- **Local standing.** In Kalia union, Sakhipur, Tangail, three villagers said in May 2024 that they each gave BDT 100,000 directly to the union parishad chairman, and a fourth said he gave BDT 72,000 through a union parishad member; six months on, they said, the chairman had given neither a visa nor a refund [PA0160, PA0161, PA0162]. Two Madaripur brothers who drowned off Tunisia had been sent by a man who is the local union parishad chairman, according to the family; he denies it [PA0163, PA0164, PA0165]. The brokers kept telling the family the brothers were alive and avoided letting them speak by phone; a relative in Italy told the parents about four months later [PA0166, PA0167, PA0168]. Families of four Patgram men say local people took BDT 900,000 from each for good jobs in Russia; a sister of one alleged that two local Jamaat-e-Islami office-holders and an employee of one of them took the money [PA0172, PA0173, PA0174]. The CID, citing a woman's case, said in July 2026 that she met a man who worked at the NGO she had borrowed from, that he helped her take a BDT 100,000 loan from the NGO towards the cost of going abroad, and that she was sent to Cambodia in August 2025, where, according to her case, ring members forcibly took her passport and money [PA0177, PA0178, PA0179, PA0180]. The complainants' lawyer in the BSB Global Network case showed the court photos of the firm's chairman with the former prime minister and ministers [PA0124, PA0125].
+
+**What to do:** taking money on a false job promise is an offence under section 31 of the OEM Act (see File a police case) [S0159]. A person harmed can also file a civil suit for compensation (see Sue for compensation) [S0161].
+
+## Recruited while abroad or just back
+
+- **In the Gulf.** Abdullah Al Zobayer, who came back from captivity in Libya in 2024, said the ring that took him has many members and also targets Bangladeshi expatriates in the Middle East, taking them to Libya with talk of good jobs or passage to Europe and holding them hostage to collect money from their families [LB0042]. Afaz Uddin Molla, a worker in Kuwait, said he answered a Facebook advert in August 2024 offering a cheap route to Canada and was promised he would be taken there from Kuwait; according to the case statement, the man calling himself Asadul took BDT 24 lakh from him by December 2024 [FV0088, FV0089, FV0090]. According to his family and local sources, Elias Howlader of Kalkini, Madaripur, went to Qatar about three years before March 2026, decided from there to go to Italy illegally after being lured by a Bangladeshi broker, and reached Libya from Qatar in early August 2025; his father said the family learned of it only after he had gone [PA0197, PA0198, PA0199]. According to the family, brokers took BDT 20 lakh from them in instalments while he was held and tortured in a Libyan detention camp, where he died on 23 March 2026 [PA0200, PA0201, PA0202]. In a case over a promised job in Australia reported in June 2026, the victim was a Bangladeshi working in Oman whom a person he already knew approached in December 2025 with an offer of work in Australia, according to CID (the police's Criminal Investigation Department) citing the case [FV0124].
+- **In Libya.** One of a group of 113 returnees told the ambassador he had lived in Libya for 14 years before deciding, in old age, to try the "game", the boat crossing to Italy (see "Libya to Italy by boat" in the Illegal routes doc) [LB0202].
+- **In Malaysia.** Shariful Islam Hasan, associate director of BRAC's Migration Programme and Youth Platform, told a roundtable at the Prothom Alo office in Dhaka on 22 July 2026 that many people in Malaysia are being cheated with assurances that they will be sent to Australia [AB0077]. Kuddus Bepari (33) of Majumdarkandi, Rajoir, Madaripur, who had worked in Malaysia for 7 years and came home in August 2024 to see his newborn child, was frustrated because the Malaysian labour market was not going well, and the local broker Monir Sheikh, learning of it, lured him into a BDT 16 lakh "body contract" to reach Italy through Libya, according to police, family and local sources (see "Deaths" in the Illegal routes doc) [CQ0075, CQ0076, CQ0077].
+- **On the flight home.** According to CID sources, a man from Senbag, Noakhali, who had worked in Saudi Arabia for about three years met a fellow passenger on the flight home, and through him was introduced to a member of a trafficking ring (see A flight to a different country first) [PA0203, PA0204].
+- **Back home.** Mannan Soyal, who returned from a scam centre in Cambodia, told the July 2026 roundtable that he went to Saudi Arabia in 2022, stayed three years and decided to go abroad again after coming home, and that a relative from his area then sent him to Cambodia for BDT 5 lakh with talk of a restaurant job (see Cambodia, Myanmar and Laos: scam compounds) [AB0035].
+- **In Russia, after the job ends.** Ali Hossain of Mymensingh said in November 2025 that his son Afzal Hossain Meraj, who went to Russia on 10 August 2024 through the travel agency Friendship and Co-operative Recruitment, worked four months at the company he was recruited for, was laid off, and then went to fight through a ring; he was wounded in a mine blast and spent 25 days in hospital [RU0026, RU0027]. An unnamed young man told Prothom Alo that the firm he worked for in Russia put 15 to 20 workers out after two to three months, and that when four or five of them went to the airport in late February 2025 to fly home, a Russian broker took them to a hotel with talk of work [PA0205, PA0206]. He said the broker took their passports and all their papers "for visa renewal", three or four Russians had them sign a contract, and they were then taken to a forest to cut trees, where guns and ammunition arrived some days later [PA0208, PA0209]. Another man, from Trishal, Mymensingh, met a Russian broker while jobless in Moscow for about a month and a half after losing his job [PA0207]. According to his family, after the construction firm employing Shahriar Sumon of Trishal, Mymensingh, stopped work six months in, a broker in Moscow first took him away with a promise of vineyard work and then, promising to send him to Italy, took BDT 5 lakh from him and a Bangladeshi companion; they were made to sign papers in Russian whose meaning they did not understand, and later learned they had been enrolled in the Russian army [PA0210, PA0211, PA0212, PA0213, PA0214]. According to the wife of Kamrul Hasan of Brahmanbaria, after he went to Moscow looking for work and was cheated by one broker, another took BDT 5 lakh from him with a promise to send him to Italy, and he was then handed over to the Russian army (see "Russia: recruited into the war" in the Illegal routes doc) [PA0215, PA0216].
+- **In Russian custody.** The UN's Independent International Commission of Inquiry on Ukraine says foreigners already in Russia were also taken into the armed forces by deception or coercion: some were in police custody or in temporary detention centres for foreign nationals and some were serving prison sentences, and several were told that signing a military contract would spare them prosecution, a long sentence, solitary confinement or torture, with threats of torture or a longer sentence if they did not sign [RU0171, RU0172].
+
+## Study-abroad firms that take the fee
+
+- **BSB Global Network.** Complainants told Prothom Alo in July 2025 that they paid the firm BDT 17 lakh each (a lawyer couple) and BDT 13 lakh (another complainant) for Canadian visas for higher education, and that it arranged no visas and did not return the money [PA0217, PA0218, PA0219]. According to the CID's preliminary inquiry, from 2018 to 2024 its chairman, Khairul Bashar, with his wife Khandaker Selima Rowshan and son Arosh Ibne Bashar, built an organised ring that took large sums from students for admission to foreign universities, scholarships and visa processing, drawing them in with fake visa processing, made-up claims of representation and flashy adverts [FV0070, FV0071]. The CID found that for many students the firm had made no application to any foreign university [PA0220, PA0221, PA0222, PA0223]. The CID said the family kept the money in various bank accounts and withdrew it to buy property, run businesses and transfer money illegally [FV0074].
+  - **The cases.** The CID filed a money-laundering case against Khairul Bashar at Gulshan police station on 4 May 2025, arrested him in Dhanmondi, Dhaka, on 14 July 2025, and questioned him on 10 days' remand [FV0068, FV0069, PA0220]. On 13 August 2025 a Dhaka court gave 13 more days' remand in five separate fraud cases [FV0066, FV0067].
+  - **The victims.** The CID said in August 2025 that 448 victims had so far reported being cheated, that the real number could be higher, that several had filed fraud and forgery cases at different police stations, and that many students who did go abroad were cheated in various ways there [FV0072, FV0073].
+- **VisaGuide.** According to the case against it, victims were given cheques and receipts after paying, no one was sent abroad in the agreed time, and on 5 July 2026 victims found its office had been moved away (see Proof that is not proof) [PA0131, PA0132, PA0129, PA0130].
+
+## People who offer to get your money back
+
+- **Money owed abroad.** According to case documents, Rahima Begum of Dhaka, whose husband had paid his Saudi sponsor BDT 35 lakh to take 17 people to Saudi Arabia and never got it back, contacted advertisers she saw on Facebook and YouTube on 8 March 2022 that promised recovery of owed money, and they took BDT 10 lakh 20 thousand from her in stages before cutting contact [PA0224, PA0225, PA0226]. They promised to recover the money within 72 hours by supernatural means [PA0227]. Police charged 23 people on 13 July 2026 [PA0228].
+- **A relative held hostage.** According to the CID, after the family of a man held in Libya paid BDT 5 lakh in August 2025, a man named Sohel contacted the hostage's wife, said he had all the information and would go to Libya himself if necessary to rescue him, and told her to come to the Kadamtali area of Dhaka; when she went, his phone was switched off [LB0266, LB0267].
+
+## Where to complain and get help
+
+### Complain to BMET
+
+1. **Online:** since 30 July 2026, the worker or a family member can file on OEP's Online Complaint Management Module (OEP is the Overseas Employment Platform, BMET's online system), upload evidence, follow progress and get a notification at each stage [S0045, MB0068, MB0069]. The module, built by BMET and RMMRU (the Refugee and Migratory Movements Research Unit), is to bring every District Employment and Manpower Office (DEMO) and BMET's central complaint handling into one system [MB0068, MB0070].
+2. **On paper:** BMET's complaint form (Form Ka) asks for your name, NID (national ID card), passport and BMET smart card numbers, addresses and the agency's or broker's details; hand it in at BMET, 89/2 Kakrail, Dhaka-1000, or your DEMO [S0044, S0063].
+3. **What happens:** free; an inquiry committee holds a hearing, BMET recommends and the ministry decides, within 30 working days [S0043].
+4. **If nothing happens:** BMET's complaint officer, the Director (Employment), diremi@bmet.gov.bd, 01711111544 (3 months); then the ministry Secretary, secretary@probashi.gov.bd (1 month); then grs.gov.bd (3 months) [S0046].
+
+Under section 41 of the OEM Act the inquiry must finish within 30 working days, and a proven complaint may be settled by order or arbitration within 3 months of the inquiry's end [S0167, S0168, VS0041]. If an agency refuses to pay an arbitration award, BMET may deduct it from the agency's security deposit, according to a 2026 study by RMMRU [VS0040].
+
+**In practice:** many complaints stay unresolved for years [S0056]. BMET's Director General said in July 2026 that in 2025 BMET settled 500 complaints by the manual process and obtained Tk 10 crore in compensation for migrants [MB0067]. In Cox's Bazar, the DEMO's assistant director said in June 2026 that about 30 complaints lodged with BMET and his office had been settled and reports sent on them; he gave no period [MB0032].
+
+### Complain to the Ministry
+
+- **Enforcement-2 branch** of the Ministry of Expatriates' Welfare: application with proof, your full address and the agency's RL (recruiting licence) number and address; free; action in 3-5 working days, settlement in 30; 02-41030255, sasenforcement@probashi.gov.bd [S0047].
+- **Mobile courts** under the OEM Act give immediate remedies; free; 7 working days [S0139].
+- **Hotline:** 16135 (toll free), +880 9610102030 from abroad [S0048].
+- **Coming:** the expatriates' welfare minister said on 26 October 2026 that an open email service to settle any complaint is being launched and publicised, and that work is under way on technology at BMET to check visa validity quickly [CQ0202].
+
+The Ministry's secretary said in July 2026 that most complaints it gets from migrants turn out to be true, and that the most common are money taken on a promise of sending someone abroad, a migrant's property at home being seized, and a person going missing abroad [MB0071, MB0072]. The state minister said in May 2026 that complaints of irregularities and excess cost do come, that there are syndicate, test and recruitment problems in Malaysia, Korea, Saudi Arabia and other countries, that insecurity for women migrants is more frequent in some Middle Eastern countries, that the scope for legal remedy used to be limited, and that agreements with some countries, which he did not name, have now created scope to file cases and recover compensation [OA0190, OA0191, OA0192].
+
+> **Need to know**
+> - Which countries' agreements now let a worker file a case and recover compensation there, and how does a worker start one?
+> - What is the address of the Ministry's open complaint email announced in October 2026, and is it live [CQ0202]?
+
+### File a police case
+
+- **Section 31 of the OEM Act:** taking or trying to take money on a false promise of a job abroad, holding a migrant's passport or papers without lawful reason, or luring someone with false promises of higher pay: up to 5 years' prison and a fine of at least Tk 1 lakh [S0159, S0160]. It applies to any person, not only agencies [S0052].
+- **Section 33:** obtaining a demand letter, visa or work permit by illegal means and buying or selling it in Bangladesh: 2 to 7 years' rigorous imprisonment and at least Tk 3 lakh [S0054, VS0042].
+- **Section 35:** an unregistered sub-agent: 1 year or a fine of Tk 50,000 to 2 lakh [S0170].
+- **Section 34:** sending someone out other than through an official exit point: up to 10 years and at least Tk 5 lakh [S0164].
+- **How it is handled:** sections 31, 33 and 34 are cognisable (police can register a case and arrest without a warrant), non-bailable and can't be settled privately; sections 32, 33A, 35 and 35A can be tried by a mobile court [S0165, S0166]. Cases are tried by a first-class judicial or metropolitan magistrate [S0169].
+- **Emergency:** 999 [S0087].
+
+### File a trafficking case
+
+- **The law:** the Prevention and Suppression of Human Trafficking and Migrant Smuggling Act 2026 replaced the 2012 trafficking act [VS0014, VS0001].
+- **What counts:** recruiting, moving or holding someone by deceit or by exploiting their vulnerability, for sexual, labour or other exploitation inside or outside Bangladesh, is trafficking (section 5) [VS0002]. So is luring or helping someone to go abroad for work knowing they may be exploited [VS0003]. Exploitation includes a fraudulent marriage, forcing someone into online scamming, and holding someone for ransom [VS0004, VS0005, VS0006].
+- **Penalty:** at least 5 years' rigorous imprisonment up to life and at least Tk 50,000; for an organised group, death, life or at least 7 years and at least Tk 5 lakh [VS0007, VS0008]. Migrant smuggling, getting someone illegally into a country where they are not a citizen or resident, carries 3 to 10 years and at least Tk 1 lakh [VS0044].
+- **Where:** a complaint can go to a police station or directly to the Tribunal, and police must protect the complainant and keep their identity secret (section 28) [VS0009]. Until Human Trafficking and Migrant Smuggling Suppression Tribunals are set up, the government can appoint the district's Women and Children Repression Prevention Tribunal judge, or the district and sessions judge, to hear these cases [VS0010].
+- **Who files:** cheated workers returning from various countries file trafficking cases, and in some cases so do the families of migrants killed abroad, Prothom Alo reported in July 2026 [RU0059].
+- **Compensation:** on conviction the Tribunal can order the trafficker to pay the victim (section 46) [VS0011].
+- **In practice:** in the roughly 4,400 to 4,500 trafficking cases of 2020 to 2024, 94 to 95% of the accused were acquitted, according to Home Ministry data, and in January to May 2026 about 500 new cases were filed while 17 were disposed of (see "What happens to trafficking cases" in the Illegal routes doc) [RU0051, LB0187, LB0188, RU0050].
+
+### Sue for compensation
+
+Anyone harmed by a breach of the OEM Act or the employment contract can file a civil suit for compensation alongside a criminal case (OEM Act section 28) [S0161]. A trafficking or smuggling victim has the same right under section 56 of the 2026 trafficking act [VS0012]. In practice workers often can't keep a case going for lack of money and legal aid [S0109].
+
+### Local committees and mediation
+
+- **Mediation:** Jesia Khatun of WARBE Development Foundation, a migrants' rights organisation, said in April 2026 that a significant amount of money had been recovered through mediation in the past three years; she gave no amount [AA0229].
+- **Grievance redress committees:** Iqbal Mahmud of The Asia Foundation said at the same time that committees formed through municipalities, upazila (sub-district) and union parishads (the lowest tier of local government) are working at district and local level, but on a limited scale [AA0230].
+- **Calls to activate committees:** at an April 2026 roundtable in Cumilla, the principal of the Cumilla Technical Training Centre recommended activating union-level complaint settlement committees, making sub-agent registration compulsory, expanding airport help desks, opening one-stop service centres and making payment through banks compulsory, and WARBE's Cumilla officer called for migration information services and a "migration corner" in each union [OA0185, OA0186, OA0187]. At the same roundtable a union parishad member from Amratoli, Cumilla Sadar, named getting no help with complaints among the main problems, alongside torture, excessive workload and withheld wages, and WARBE's officer listed dalal fraud, excess cost, unpaid wages and missing papers abroad, going without skills and little rehabilitation on return [OA0188, OA0189]. In Cox's Bazar in June 2026 the regional head of the NGO YPSA said counter-trafficking committees exist at district, upazila and union level and need to be made active [MB0036].
+- **District committees:** the Cox's Bazar DEMO's assistant director said in June 2026 that a District Migration Coordination Committee and a District Vigilance Task Force Committee are active against unsafe migration there, that upazilas have been told to form the same committees, and that a pilot programme helps people in Chakaria decide before going abroad [MB0033, MB0034, MB0035].
+
+> **Need to know**
+> - How does a cheated worker bring a complaint to the union or upazila grievance committee, and which ones actually meet?
+> - Does WARBE Development Foundation mediate refunds for walk-in complainants, and at which offices?
+
+### Free legal help
+
+- **The right:** migrants and people cheated in the name of migration have a right to reasonable legal aid (OEM Act section 27) [S0134].
+- **Government legal aid helpline:** 16699 [S0051].
+- **OKUP:** free, confidential legal advice and help filing a case, 01842773300 [S0049].
+- **BNWLA** (the Bangladesh National Women Lawyers' Association): an advocate said in June 2026 that it was conducting the cases of about 100 returnees from abroad in the Cox's Bazar court, and that about 465 human trafficking cases were pending [MB0043].
+
+> **Need to know**
+> - Which CID or police anti-trafficking unit phone number takes complaints directly from families, and does it answer?
+> - Does BRAC's Migration Welfare Centre take walk-in fraud cases, and at which addresses?
+> - What number does BNWLA give returnees who need a lawyer, and does it take cases outside Cox's Bazar?

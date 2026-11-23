@@ -16,4 +16,4 @@ Inputs too large for git (the Prothom Alo article dumps, 319 MB raw and 23 MB fi
 | PF | agencies | 2026-11-23-prothom-alo-agency-flags |
 | MP | countries/malaysia | 2026-11-23-prothom-alo-malaysia-saudi |
 | SP | countries/saudi-arabia | 2026-11-23-prothom-alo-malaysia-saudi |
-| CQ | cross-country | 2026-11-23-prothom-alo-malaysia-saudi |
+| CQ | cross-country (now global/) | 2026-11-23-prothom-alo-malaysia-saudi |
