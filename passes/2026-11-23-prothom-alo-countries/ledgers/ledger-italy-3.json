@@ -1,0 +1,367 @@
+{
+ "articles": [
+  {
+   "article_id": "e693dbdd-feb0-4bb7-a1b8-949052b732da",
+   "used": true,
+   "fact_ids": [
+    "PI0225",
+    "PI0226",
+    "PI0227",
+    "PI0228",
+    "PI0229",
+    "PI0230",
+    "PI0231",
+    "PI0232"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "1f50f55e-8fe8-4352-b8a7-fa3d526adcda",
+   "used": true,
+   "fact_ids": [
+    "PI0233",
+    "PI0234",
+    "PI0235",
+    "PI0236",
+    "PI0237",
+    "PI0238",
+    "PI0249",
+    "PI0250",
+    "PI0251",
+    "PI0252",
+    "PI0253",
+    "PI0254"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "2d1d6851-16b0-4672-96bb-5d71e95a9482",
+   "used": true,
+   "fact_ids": [
+    "PI0239",
+    "PI0240",
+    "PI0241",
+    "PI0242",
+    "PI0243",
+    "PI0255",
+    "PI0256"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "98ddcd8c-71a6-4ed2-8be9-84c2f211e074",
+   "used": true,
+   "fact_ids": [
+    "PI0244",
+    "PI0245",
+    "PI0246",
+    "PI0257",
+    "PI0258",
+    "PI0259"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "95c2425d-3feb-41d3-9c2f-e15cc863e2db",
+   "used": true,
+   "fact_ids": [
+    "PI0247",
+    "PI0248"
+   ],
+   "held_for_global": [
+    {
+     "claim": "Bangladeshi men recruited by brokers for jobs in Russia were made contract fighters for the Russian army, sent to Ukraine after 15 days' training, and killed by missiles (Akram Hossain of Sarail, 14 April 2025; Yasin Mia of Gouripur).",
+     "quote": "ওয়েল্ডিংয়ের কাজ শিখে তিনি রাশিয়ায় যান। কিন্তু দালালেরা তাঁকে রুশ সেনাবাহিনীতে ‘চুক্তিভিত্তিক যোদ্ধা’ হিসেবে নিয়োগ করে।",
+     "suggested_module": "other: Russia country doc / scams"
+    },
+    {
+     "claim": "A BRAC Migration Programme report says brokers lure workers to Russia with false promises of high-paid oil, construction or logistics jobs; on arrival passports are seized and they are forced into the military.",
+     "quote": "অনেকে তেল, নির্মাণ বা লজিস্টিকস খাতে কাজের আশায় রাশিয়া গেছেন। রাশিয়ায় পৌঁছানোর পর পাসপোর্ট বাজেয়াপ্ত করে সামরিক বাহিনীতে যোগ দিতে বাধ্য করা হয়।",
+     "suggested_module": "other: Russia country doc / scams"
+    },
+    {
+     "claim": "At least 10 families applied to the Bangladesh government to bring relatives back from the Ukraine battlefield.",
+     "quote": "অন্তত ১০টি পরিবার তাদের স্বজনদের ইউক্রেনের যুদ্ধক্ষেত্র থেকে ফেরানোর জন্য বাংলাদেশ সরকারের কাছে আবেদন করেছে।",
+     "suggested_module": "other: Russia country doc"
+    },
+    {
+     "claim": "About 30,000 people died or went missing crossing the Mediterranean in 2014-2024 (columnist's figure).",
+     "quote": "২০১৪-২০২৪—এই ১০ বছরে প্রায় ৩০ হাজার মানুষ এই পথে পাড়ি দিতে গিয়ে মারা গেছেন অথবা নিখোঁজ হয়েছেন।",
+     "suggested_module": "illegal-routes"
+    }
+   ]
+  },
+  {
+   "article_id": "719bf47e-f77f-4381-af22-1fcabd2c74af",
+   "used": true,
+   "fact_ids": [
+    "PI0260",
+    "PI0261"
+   ],
+   "held_for_global": [
+    {
+     "claim": "An op-ed by a migration researcher says many countries have stopped tourist visas for Bangladeshis or added documents, interviews and long checks because of overstays and unfounded asylum claims.",
+     "quote": "এই অপব্যবহারের কারণে অনেক দেশ বাংলাদেশি নাগরিকদের পর্যটক ভিসা দেওয়া বন্ধ করে দিয়েছে।",
+     "suggested_module": "faq"
+    }
+   ]
+  },
+  {
+   "article_id": "f774c764-d083-4367-b7f1-a8c6fd984a95",
+   "used": true,
+   "fact_ids": [
+    "PI0262",
+    "PI0263",
+    "PI0264",
+    "PI0265",
+    "PI0266",
+    "PI0267",
+    "PI0268",
+    "PI0269",
+    "PI0270",
+    "PI0271"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "315fecdc-f37b-4b8b-91fb-15347244a153",
+   "used": false,
+   "fact_ids": [],
+   "held_for_global": [],
+   "reason_if_unused": "Editorial repeating the 30 January 2026 report (duplicate of PI0262, PI0265, PI0271); no new fact."
+  },
+  {
+   "article_id": "15fd6066-5a1e-4545-a1d8-379ec1569b6b",
+   "used": true,
+   "fact_ids": [
+    "PI0272",
+    "PI0273",
+    "PI0274",
+    "PI0275"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "1009d5d5-c787-46de-aa6a-b7cba22c0ee0",
+   "used": true,
+   "fact_ids": [
+    "PI0276",
+    "PI0277",
+    "PI0278",
+    "PI0279",
+    "PI0280",
+    "PI0281",
+    "PI0282",
+    "PI0283",
+    "PI0284",
+    "PI0285",
+    "PI0286",
+    "PI0287",
+    "PI0288",
+    "PI0309",
+    "PI0330",
+    "PI0331"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "6e95b75d-f4ef-41fa-a097-1d47eea45383",
+   "used": true,
+   "fact_ids": [
+    "PI0289",
+    "PI0290",
+    "PI0291",
+    "PI0292",
+    "PI0310"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "a22df12d-cf82-4279-92a7-00552794abc3",
+   "used": true,
+   "fact_ids": [
+    "PI0293",
+    "PI0294",
+    "PI0295",
+    "PI0296",
+    "PI0297",
+    "PI0298",
+    "PI0299",
+    "PI0300"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "cdd3a1b1-1abf-4abe-ae6d-d062a671905e",
+   "used": true,
+   "fact_ids": [
+    "PI0301",
+    "PI0302",
+    "PI0303"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "57a0b9a8-8a09-4a1b-9b47-1e54a273171e",
+   "used": true,
+   "fact_ids": [
+    "PI0304",
+    "PI0305",
+    "PI0306",
+    "PI0307",
+    "PI0308"
+   ],
+   "held_for_global": [
+    {
+     "claim": "The State Minister for Expatriates' Welfare said the government reintegration support of Tk 13,500 is far too little and must be raised.",
+     "quote": "পুনর্বাসনে সাড়ে ১৩ হাজার টাকা খুবই কম।",
+     "suggested_module": "other: coming home / reintegration"
+    },
+    {
+     "claim": "A government project called RAISE works on reintegrating returned workers, alongside BRAC.",
+     "quote": "ব্র্যাকের পাশাপাশি ফিরে আসা কর্মীদের পুনর্বাসনে রেইজ নামে সরকারের একটি প্রকল্প কাজ করছে।",
+     "suggested_module": "other: coming home / reintegration"
+    },
+    {
+     "claim": "The State Minister said there are over 3,000 recruiting agencies, which will be graded after scrutiny, and more than 600 may not survive.",
+     "quote": "বর্তমানে তিন হাজারের বেশি রিক্রুটিং এজেন্সি আছে। যাচাই–বাছাই করে এদের গ্রেডিং করা হবে, এতে ৬০০–এর বেশি এজেন্সি হয়তো টিকবে না।",
+     "suggested_module": "departure"
+    },
+    {
+     "claim": "A Tangail woman who went to Cyprus through a broker returned empty-handed and rebuilt her life with BRAC's help.",
+     "quote": "পরিবারের ভাগ্য ফেরাতে স্বামীর সহায়তায় দালালের মাধ্যমে সাইপ্রাস যান টাঙ্গাইলের সেলিনা বেগম।",
+     "suggested_module": "other: Cyprus country doc"
+    }
+   ]
+  },
+  {
+   "article_id": "6117b62d-9577-4e43-8d9e-f942b7898889",
+   "used": false,
+   "fact_ids": [],
+   "held_for_global": [],
+   "reason_if_unused": "Travel diary; only a general remark on Bangladeshis' hard life in Ventimiglia; no usable fact."
+  },
+  {
+   "article_id": "6ac45399-d081-46f7-a979-e7f8220d6344",
+   "used": true,
+   "fact_ids": [
+    "PI0311",
+    "PI0312",
+    "PI0313",
+    "PI0314"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "62578319-de87-45ea-92bf-852d96c988c7",
+   "used": true,
+   "fact_ids": [
+    "PI0315",
+    "PI0316",
+    "PI0317",
+    "PI0318",
+    "PI0339"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "772ae5b1-22eb-4731-ae2e-d9841e8cedcc",
+   "used": true,
+   "fact_ids": [
+    "PI0319",
+    "PI0320",
+    "PI0321",
+    "PI0332",
+    "PI0361",
+    "PI0362"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "5a158e5c-a972-4098-8d02-b1ad0f883b76",
+   "used": true,
+   "fact_ids": [
+    "PI0322",
+    "PI0323",
+    "PI0324",
+    "PI0325",
+    "PI0333",
+    "PI0334",
+    "PI0335",
+    "PI0336",
+    "PI0337",
+    "PI0338"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "cc908684-4a83-4ce6-915a-092e0b4c5279",
+   "used": true,
+   "fact_ids": [
+    "PI0326",
+    "PI0327",
+    "PI0328",
+    "PI0329",
+    "PI0340"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "18aea952-d378-4681-a572-a85fc96c51bb",
+   "used": true,
+   "fact_ids": [
+    "PI0341",
+    "PI0342",
+    "PI0343",
+    "PI0344",
+    "PI0345",
+    "PI0346",
+    "PI0347",
+    "PI0348",
+    "PI0349",
+    "PI0350",
+    "PI0351"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "701fbd33-42b6-4afa-8da9-724631018d32",
+   "used": true,
+   "fact_ids": [
+    "PI0352",
+    "PI0353",
+    "PI0354",
+    "PI0355",
+    "PI0356",
+    "PI0357",
+    "PI0358",
+    "PI0359",
+    "PI0360",
+    "PI0363",
+    "PI0364",
+    "PI0365",
+    "PI0366",
+    "PI0367",
+    "PI0368",
+    "PI0369"
+   ],
+   "held_for_global": [
+    {
+     "claim": "A BRAC study of 557 Bangladeshis returned from Libya found 60% of families were promised good jobs by local brokers, 89% got no job in Libya, 63% were detained on the way; of those detained 93% were held in camps and 79% physically abused.",
+     "quote": "লিবিয়া থেকে ফেরত আসা ৫৫৭ জন বাংলাদেশির তথ্য বিশ্লেষণ করে সংস্থাটি জানিয়েছে, তাঁদের ৬০ শতাংশের পরিবারকে স্থানীয় দালালেরা ভালো চাকরির আশ্বাস দিয়েছিলেন; কিন্তু লিবিয়ায় পৌঁছে ৮৯ শতাংশই কোনো চাকরি বা কাজ পাননি।",
+     "suggested_module": "illegal-routes"
+    },
+    {
+     "claim": "In the same study 68% lost freedom of movement after reaching Libya, 54% never got three meals a day and 22% got one meal a day.",
+     "quote": "এ ছাড়া লিবিয়ায় পৌঁছানোর পর ৬৮ শতাংশ মুক্তভাবে চলাচলের স্বাধীনতা হারান।",
+     "suggested_module": "illegal-routes"
+    },
+    {
+     "claim": "BRAC's Shariful Islam said Libya has more than 100 camps where people are held hostage and tortured, and ransoms of Tk 5 lakh to Tk 76 lakh have been taken from families.",
+     "quote": "লিবিয়ায় শতাধিক ক্যাম্প রয়েছে, যেখানে জিম্মি করে মানুষকে নির্যাতন করা হয়। লিবিয়ায় জিম্মি করে পরিবারের কাছে ৫ থেকে ৭৬ লাখ টাকা পর্যন্ত মুক্তিপণ নেওয়া হয়েছে।",
+     "suggested_module": "illegal-routes"
+    }
+   ]
+  }
+ ]
+}

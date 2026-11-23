@@ -1,0 +1,239 @@
+{
+ "articles": [
+  {
+   "article_id": "9ea82aad-0743-416b-a1e8-395b5c13eb49",
+   "used": true,
+   "fact_ids": [
+    "PK0001",
+    "PK0002",
+    "PK0003",
+    "PK0004",
+    "PK0005",
+    "PK0006",
+    "PK0007",
+    "PK0008",
+    "PK0009",
+    "PK0010",
+    "PK0011",
+    "PK0012",
+    "PK0013"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "fdf5fe0b-d8a5-4579-8b5c-fb3573da0d1d",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: a BCS viva account; the only Kuwait content is a candidate's father who worked there 25 years and was helped by the Embassy (anecdote, nothing a migrant can act on).",
+   "held_for_global": []
+  },
+  {
+   "article_id": "033ae726-1efe-4fb3-aade-0aa4f0dab3c4",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: a Kuwait diaspora group's list of demands to the Bangladesh government (airport VIP status, pensions etc.), not rules or practice.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "fae522e8-9bd1-448c-a830-20268cf5f8d3",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: a cricket association event; the ambassador's name is taken from the newer 1 March 2026 article (PK0035) and the Labour Minister's name is already in the doc (M0015).",
+   "held_for_global": []
+  },
+  {
+   "article_id": "c283d148-2dcf-4de7-a8e1-7fdbec5ddd35",
+   "used": true,
+   "fact_ids": [
+    "PK0014",
+    "PK0015",
+    "PK0016",
+    "PK0017",
+    "PK0018",
+    "PK0019",
+    "PK0020",
+    "PK0021",
+    "PK0022"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "bddd2bac-7f9d-4072-a4e0-e35e97a0455e",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Duplicate: KD 1 = about Tk 400 is already in the doc from the Central Bank of Kuwait rate (G0002).",
+   "held_for_global": []
+  },
+  {
+   "article_id": "a4ddfc13-7208-45b4-8eed-ff92b07e4065",
+   "used": true,
+   "fact_ids": [
+    "PK0023",
+    "PK0024",
+    "PK0025",
+    "PK0026"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "d4dd420b-2174-48f9-9087-c6095587e3c1",
+   "used": true,
+   "fact_ids": [
+    "PK0027",
+    "PK0028",
+    "PK0029"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "4842bf90-b294-474a-bea2-713d574ec67d",
+   "used": true,
+   "fact_ids": [
+    "PK0030",
+    "PK0031",
+    "PK0032",
+    "PK0033"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "48b44223-200d-4449-94ac-362d15f45512",
+   "used": true,
+   "fact_ids": [
+    "PK0034",
+    "PK0035"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "35515a1c-dfcd-4eed-be1f-dbdd5cba9b1b",
+   "used": true,
+   "fact_ids": [
+    "PK0036",
+    "PK0037"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "In March 2026 the government promised to arrange travel quickly for people waiting to go to the Middle East once flights resumed after the war.",
+     "quote": "পাশাপাশি পরিস্থিতি স্বাভাবিক হওয়ার পর ফ্লাইট চালু হলে দ্রুততম সময়ের মধ্যে মধ্যপ্রাচ্যে গমনেচ্ছু যাত্রীদের যাত্রার ব্যবস্থা করে দেওয়ার আশ্বাস দিয়েছে সরকার।",
+     "suggested_module": "departure"
+    }
+   ]
+  },
+  {
+   "article_id": "373f4e36-c0e1-4522-96f0-2b211e2d724b",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable Kuwait fact beyond one resident's fear of going to work in March 2026 (no decision value); Cumilla statistic held for global.",
+   "held_for_global": [
+    {
+     "claim": "The Cumilla District Employment and Manpower Office's assistant director said in March 2026 that more than 10% of Cumilla's population lives abroad, 80% of them in the Middle East.",
+     "quote": "কুমিল্লার মোট জনসংখ্যার ১০ শতাংশের বেশি মানুষ বিশ্বের বিভিন্ন দেশে রয়েছেন। এর মধ্যে মধ্যপ্রাচ্যেই আছেন প্রবাসীদের ৮০ শতাংশ।",
+     "suggested_module": "other: corridor numbers / Bangladesh-side migration statistics"
+    }
+   ]
+  },
+  {
+   "article_id": "6f977e26-093c-4bae-bf3d-b22b756d3e67",
+   "used": true,
+   "fact_ids": [
+    "PK0038",
+    "PK0039",
+    "PK0040",
+    "PK0041",
+    "PK0051"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "7c93bcfe-a14a-41bf-9b4d-1669aa217257",
+   "used": true,
+   "fact_ids": [
+    "PK0042",
+    "PK0043"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "e5d48621-0902-4b35-943b-e3a4aa642c25",
+   "used": true,
+   "fact_ids": [
+    "PK0044"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "7d260f93-55a0-4142-96a1-391c9e2e639e",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Not about this country: a Libya-Greece boat death; Kuwait is only a transit stop. Held for the illegal-routes module.",
+   "held_for_global": [
+    {
+     "claim": "A father from Sunamganj said he paid a broker Tk 4.5 lakh, selling land, to send his son to Serbia two years earlier; the son never went and the money could not be recovered.",
+     "quote": "শেষে দুবছর আগে এক দালালের সঙ্গে যোগাযোগ করি। কিছু জমি বিক্রি করে ছেলেকে সার্বিয়ায় পাঠানোর জন্য সাড়ে চার লাখ টাকা দিই। আজ না কাল, হবে-হচ্ছে করে করে আর হয় না। পরে টাকাটাই মার যায়। চেষ্টা করেও দালালের কাছ থেকে টাকা উদ্ধার করা যায়নি।",
+     "suggested_module": "illegal-routes"
+    },
+    {
+     "claim": "For the Libya-Greece boat route, the broker took Tk 4.5 lakh before departure and Tk 7.5 lakh more once the migrant was in Libya, before putting him on a boat ('game').",
+     "quote": "এখন সাড়ে চার লাখ আর লিবিয়ায় যাওয়ার পর গেমে তোলার আগে বাকি সাড়ে সাত লাখ।",
+     "suggested_module": "illegal-routes"
+    },
+    {
+     "claim": "The son travelled first to Saudi Arabia, then via Kuwait and Egypt to Libya.",
+     "quote": "প্রথমে সৌদি আরব, পরে কুয়েত, মিসর হয়ে লিবিয়া।",
+     "suggested_module": "illegal-routes"
+    },
+    {
+     "claim": "The father said migrants were held crammed in one room in Libya, phones taken, beaten for money, with photos and videos of beatings sent to families to speed payment.",
+     "quote": "আসলে ওটা কোনো ক্যাম্প নয়। একটি ঘরে সবাইকে ঠেসে রাখা। খাবার কষ্ট, থাকার কষ্ট। একধরনের জিম্মি অবস্থা। অনেকের মুঠোফোন কেড়ে নেওয়া হয়। টাকার জন্য মারধর করা হয়। সেই মারধরের ছবি, ভিডিও পাঠানো হয় যাতে দ্রুত টাকা পাঠানো হয়।",
+     "suggested_module": "illegal-routes"
+    },
+    {
+     "claim": "22 people died of lack of water and food on a small boat crossing the Mediterranean to Greece on 21 March 2026, among them Shayek Ahmad of Sunamganj.",
+     "quote": "গত ২১ মার্চ ছোট নৌকায় করে ভূমধ্যসাগর পাড়ি দিয়ে গ্রিসে যাওয়ার পথে পানি আর খাবারের অভাবে মারা গেছেন ২২ জন। তাঁদের একজন সুনামগঞ্জের শায়েক আহমদ।",
+     "suggested_module": "illegal-routes"
+    }
+   ]
+  },
+  {
+   "article_id": "ead5b182-71a8-478f-aec4-876a1992d36d",
+   "used": true,
+   "fact_ids": [
+    "PK0045"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "f85e7475-c643-4741-a11e-4524510f2cfd",
+   "used": true,
+   "fact_ids": [
+    "PK0046",
+    "PK0047"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "cb3a2189-99d7-429b-b2e3-6eebe7100643",
+   "used": true,
+   "fact_ids": [
+    "PK0048",
+    "PK0049",
+    "PK0050"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  }
+ ]
+}

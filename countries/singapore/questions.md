@@ -164,6 +164,8 @@ These are the questions the Singapore migration guide can't yet answer, grouped 
 - Does money used to buy Wage Earner Development Bonds, freelancing income, gifts, trade payments or donations get the 2.5% incentive, when a bank's 2025 guide says not?
 - Which Nagad remittance partners operate in Singapore?
 - Is the Tk 1,000 contribution still offered, when the scheme's English brief lists only the other four?
+- Did DBS stop taking cash from remittance houses after 31 October 2025, and can a worker still hand over cash at Agrani, NBL or Prime exchange houses in 2026?
+- Is Hometown listed in MAS's Financial Institutions Directory, or which licensed company sends its money?
 
 ## Going home without valid papers
 

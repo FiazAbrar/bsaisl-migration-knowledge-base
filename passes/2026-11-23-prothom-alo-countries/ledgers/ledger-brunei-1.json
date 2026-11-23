@@ -1,0 +1,79 @@
+{
+ "articles": [
+  {
+   "article_id": "2d5c6f2a-0136-4197-9f88-49012d615d8d",
+   "used": true,
+   "fact_ids": [
+    "PB0001",
+    "PB0002",
+    "PB0003",
+    "PB0004",
+    "PB0005",
+    "PB0006"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "930cfcde-2317-4558-bdf5-9e095bb2ca55",
+   "used": true,
+   "fact_ids": [
+    "PB0007",
+    "PB0008",
+    "PB0009",
+    "PB0010",
+    "PB0011"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "8ce0d7bf-2ea5-4774-9853-4848b74d5e9b",
+   "used": true,
+   "fact_ids": [
+    "PB0012",
+    "PB0013",
+    "PB0014"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "5af67b0d-bf9a-4260-92a1-83d5c853c0da",
+   "used": true,
+   "fact_ids": [
+    "PB0015",
+    "PB0016",
+    "PB0017",
+    "PB0018",
+    "PB0019",
+    "PB0020",
+    "PB0021",
+    "PB0022",
+    "PB0023"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "cf5b0f2a-6dc4-4345-94f0-dba6a6ecb764",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Not about Brunei: BOESL circular for 300 women machine operators in Jordan's garment factories.",
+   "held_for_global": [
+    {
+     "claim": "BOESL (in a Jordan circular, Sep 2026): no fee is paid to BOESL until the worker is finally selected; all fees and charges are paid through the bank",
+     "quote": "চূড়ান্তভাবে কর্মী নির্বাচন না হওয়া পর্যন্ত বোয়েসেলকে কোনো ফি প্রদান করতে হয় না। সব ফি/চার্জ ব্যাংকের মাধ্যমে প্রদান করতে হয়।",
+     "suggested_module": "other: BOESL government channel"
+    }
+   ]
+  },
+  {
+   "article_id": "af4e7457-ea40-4d00-b46b-bd763484cd17",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Duplicate: reports BOESL's 29 Sep 2026 circular (148 jobs at Unity Land Sdn Bhd), already in the doc from BOESL's own circular (KB0001-KB0010, C0034, C0037); its taka conversion uses the US dollar rate and is not used.",
+   "held_for_global": []
+  }
+ ]
+}

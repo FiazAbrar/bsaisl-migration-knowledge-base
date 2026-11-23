@@ -1,0 +1,63 @@
+{
+ "articles": [
+  {
+   "article_id": "3545e6d4-1d2a-4dd5-916d-78a7ad98f81e",
+   "used": true,
+   "fact_ids": [
+    "PY0001",
+    "PY0002",
+    "PY0003",
+    "PY0004",
+    "PY0005",
+    "PY0018",
+    "PY0019"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "7875a262-61b0-422f-b514-fa42e2d4c522",
+   "used": true,
+   "fact_ids": [
+    "PY0006",
+    "PY0007"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "fa1d566a-20ec-43e7-8d62-f9ccf708d996",
+   "used": true,
+   "fact_ids": [
+    "PY0008",
+    "PY0009",
+    "PY0010"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "8652b2ae-0154-4300-9fa5-9b857e7633a3",
+   "used": true,
+   "fact_ids": [
+    "PY0011",
+    "PY0012",
+    "PY0013"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "7ae1f4af-e77f-441d-bd3d-f676c88dc1a0",
+   "used": true,
+   "fact_ids": [
+    "PY0014",
+    "PY0015",
+    "PY0016",
+    "PY0017"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  }
+ ]
+}

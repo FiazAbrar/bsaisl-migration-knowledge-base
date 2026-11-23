@@ -1,0 +1,25 @@
+{
+ "articles": [
+  {
+   "article_id": "217a95b6-1a94-4c66-bc7b-16836f612a07",
+   "used": true,
+   "fact_ids": [
+    "PI0412",
+    "PI0414",
+    "PI0413"
+   ],
+   "reason_if_unused": "PI0413 (56,588 arrivals from four countries in 2023) logged but not cited: not Bangladesh-specific and changes nothing for a reader. First Albania transfer itself was already in the doc (PI0090).",
+   "held_for_global": []
+  },
+  {
+   "article_id": "61d532d0-521d-41df-aa43-51b77103307b",
+   "used": true,
+   "fact_ids": [
+    "PI0415",
+    "PI0416"
+   ],
+   "reason_if_unused": "The 497,550 quota and 164,850 for 2026 were already in the doc (N0026). Population decline, Coldiretti and minister quotes, and the 10 million by 2050 study skipped as no bearing on a migrant's decision.",
+   "held_for_global": []
+  }
+ ]
+}

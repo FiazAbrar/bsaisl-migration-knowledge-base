@@ -18,6 +18,14 @@ How to write an entry: add it at the top, under this line, in this shape. Keep i
 
 ---
 
+## 2026-11-23 · Prothom Alo archive into the country docs · agent for FiazAbrar
+
+- **Done:** about 1,960 new facts from Prothom Alo (2024 to Nov 2026) in 15 existing country docs (largest: Italy 416, UAE 185, Japan 115) and six new first-version docs built from the reporting: United States (221), Canada (167), United Kingdom (163), India (141), Lebanon (89), Greece (88). `questions.md` synced for every changed doc.
+- **Where:** `countries/`; trace in `passes/2026-11-23-prothom-alo-countries/` (briefs, ledgers, checker verdicts, scripts); METHOD.md section 12 (the simplified process).
+- **Checked by:** an independent final check of every new or changed sentence in all 21 docs; 245 fixes applied. Conflicts settled from sources and recorded in each `notes.md` (for example Kuwait nurse pay and experience settled on BOESL's circular; Oman's September 2023 departures on BMET's count; women need no mahram for Umrah, per Saudi Arabia's Hajj minister).
+- **Tried and dropped:** the five-step draft, check, log, write and check pipeline of the earlier passes (too many hand-offs; replaced by section 12); leaving source conflicts for a human (Abrar asked that agents settle them).
+- **Open:** the six new docs have no official sources yet; their "Need to know" bullets are the research list. PKB's loan page (pkb.gov.bd) blocks automated reading and would settle whether the 9% skills loan replaced the 11% language loan.
+
 ## 2026-11-23 · Work log started · agent for FiazAbrar
 
 - **Done:** this file, with entries back-filled from the commit history and pull requests #1 to #10; a rule in CLAUDE.md that every change adds an entry; a pull-request check that enforces it.

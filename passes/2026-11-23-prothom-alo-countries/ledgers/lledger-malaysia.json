@@ -1,0 +1,24 @@
+{
+ "articles": [
+  {
+   "article_id": "38dfbfdc-cc54-4cd2-b656-e6a7636282ff",
+   "used": true,
+   "fact_ids": [
+    "MP0772",
+    "MP0773",
+    "MP0774",
+    "MP0775",
+    "MP0776"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "c6fc525c-1257-4103-adc5-88e8ef1c96ee",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Video blurb (251 characters): a ring trying to get into the reopened market and inexperienced agencies being let in. Already covered in the doc (MB0054, MB0055, A0027, MP0434). No new fact.",
+   "held_for_global": []
+  }
+ ]
+}

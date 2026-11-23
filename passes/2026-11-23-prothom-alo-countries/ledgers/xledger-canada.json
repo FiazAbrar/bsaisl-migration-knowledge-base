@@ -1,0 +1,231 @@
+{
+ "articles": [
+  {
+   "article_id": "6dae8c69-b5ac-4e5d-a0f3-6b2ee622ba6c",
+   "used": true,
+   "fact_ids": [
+    "XC0001",
+    "XC0002",
+    "XC0003",
+    "XC0004",
+    "XC0005",
+    "XC0006",
+    "XC0007",
+    "XC0008",
+    "XC0009"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "31e756bd-66ac-4558-b35f-ca07dd4fcad8",
+   "used": true,
+   "fact_ids": [
+    "XC0010",
+    "XC0011",
+    "XC0012",
+    "XC0013",
+    "XC0014",
+    "XC0015",
+    "XC0016",
+    "XC0017",
+    "XC0018",
+    "XC0019"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "c4fe9969-8598-46d0-9531-da896cda661a",
+   "used": true,
+   "fact_ids": [
+    "XC0020",
+    "XC0021",
+    "XC0022",
+    "XC0023",
+    "XC0024",
+    "XC0025",
+    "XC0026",
+    "XC0027",
+    "XC0028",
+    "XC0029",
+    "XC0030",
+    "XC0031"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "1d9a1990-82b0-43ff-8bdb-5ce2d7f38ec6",
+   "used": true,
+   "fact_ids": [
+    "XC0032",
+    "XC0033",
+    "XC0034",
+    "XC0035",
+    "XC0036",
+    "XC0037"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "9f9a3290-2a8a-4137-aac8-0263558d98b3",
+   "used": true,
+   "fact_ids": [
+    "XC0038",
+    "XC0039"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/faq",
+     "claim": "Election Commission officials said in September 2025 that about 1 crore (10 million) Bangladeshi citizens live abroad, in the context of extending voter registration and NID services to them.",
+     "quote": "কর্মকর্তারা জানিয়েছেন, এই উদ্যোগ প্রায় এক কোটি প্রবাসী নাগরিকের গণতান্ত্রিক অধিকার সংরক্ষণ ও নিশ্চিত করার সরকারের প্রতিশ্রুতির প্রতিফলন।"
+    }
+   ]
+  },
+  {
+   "article_id": "0b10b4eb-a980-4174-84de-367e8d7b2dd3",
+   "used": true,
+   "fact_ids": [
+    "XC0040",
+    "XC0041",
+    "XC0042",
+    "XC0043",
+    "XC0044",
+    "XC0045",
+    "XC0046",
+    "XC0047",
+    "XC0048",
+    "XC0049"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "481fff31-a923-4a22-9420-ffcda4d5be20",
+   "used": true,
+   "fact_ids": [
+    "XC0050",
+    "XC0051",
+    "XC0052",
+    "XC0053",
+    "XC0054",
+    "XC0055",
+    "XC0056",
+    "XC0057",
+    "XC0058",
+    "XC0059",
+    "XC0060",
+    "XC0061"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "c39b7ecd-0a18-4c9d-9e8f-9415065a450c",
+   "used": true,
+   "fact_ids": [
+    "XC0062",
+    "XC0063",
+    "XC0064",
+    "XC0065",
+    "XC0066",
+    "XC0067",
+    "XC0068",
+    "XC0069"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "0ae7d0a5-f935-4e20-9005-b6b576a7493d",
+   "used": true,
+   "fact_ids": [
+    "XC0070",
+    "XC0071",
+    "XC0072",
+    "XC0073",
+    "XC0074",
+    "XC0075",
+    "XC0076",
+    "XC0077"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "b37260ac-5eff-4cb7-b60a-59cea8e13057",
+   "used": true,
+   "fact_ids": [
+    "XC0078",
+    "XC0079",
+    "XC0080",
+    "XC0081",
+    "XC0082",
+    "XC0083",
+    "XC0084",
+    "XC0085"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "6f19d290-92f1-40c2-ba95-cd7a3d332cab",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Prime Minister's meeting with Canada's Minister of State for International Development on Rohingya, energy, food security, climate finance and training cooperation in Bangladesh; no migration content a migrant could act on.",
+   "held": []
+  },
+  {
+   "article_id": "69ddd1b9-17ae-4769-9449-1089ecd9c666",
+   "used": true,
+   "fact_ids": [
+    "XC0086",
+    "XC0087",
+    "XC0088",
+    "XC0089",
+    "XC0090",
+    "XC0091"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "f95b2f7f-5817-4a2b-816f-b72b563faeea",
+   "used": true,
+   "fact_ids": [
+    "XC0092",
+    "XC0093",
+    "XC0094",
+    "XC0095",
+    "XC0096",
+    "XC0097",
+    "XC0098",
+    "XC0099",
+    "XC0100",
+    "XC0101",
+    "XC0102",
+    "XC0110"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "4f04dadb-e7de-42da-84a1-81880226e31d",
+   "used": true,
+   "fact_ids": [
+    "XC0103",
+    "XC0104",
+    "XC0105",
+    "XC0106",
+    "XC0107",
+    "XC0108",
+    "XC0109"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  }
+ ]
+}

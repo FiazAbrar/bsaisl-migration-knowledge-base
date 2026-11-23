@@ -21,7 +21,6 @@ These are the questions the Brunei migration guide can't yet answer, grouped by 
 
 ## Work visa: employment pass
 
-- On BOESL's 2026 Brunei jobs, does the employer give any food allowance, as the MoC requires, or does the worker pay all his food?
 - What is the Department of Labour's current security deposit for a Bangladeshi worker, and is any of it ever taken from the worker's salary?
 - Does the Tk 56,350 / Tk 44,850 also cover the BMET smart card and clearance fee (Step 5, item 3), the fingerprint fee and the pre-departure orientation fee (Step 5, item 2), or are those paid separately?
 - Which embassy's visa fee does BOESL's circular mean (Brunei's High Commission in Dhaka for the endorsement, or Bangladesh's in Brunei for attestation), and how much is it?
@@ -42,6 +41,7 @@ These are the questions the Brunei migration guide can't yet answer, grouped by 
 - Does the Department of Labour order unpaid wages to be paid to the worker, and can a worker stay and work elsewhere while the case runs?
 - Does a worker need his current employer's release letter to transfer, and can he transfer if the employer has not paid him?
 - What is the BND 600 "exit fine" in law, and how does a worker whose employer refuses approval leave legally?
+- Where a BOESL circular says the worker pays his own food, does the employer still give a food allowance, as the MoC requires?
 
 ## Work visa: domestic worker
 

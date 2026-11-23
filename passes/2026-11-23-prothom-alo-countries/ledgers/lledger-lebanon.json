@@ -1,0 +1,30 @@
+{
+ "articles": [
+  {
+   "article_id": "6e210884-038d-4b13-8e7b-d60affc1c181",
+   "used": true,
+   "fact_ids": [
+    "XL0079",
+    "XL0080",
+    "XL0081",
+    "XL0082"
+   ],
+   "reason_if_unused": "Strike date, hospital and her age already in the doc (XL0073, XL0078). Minister's condolences and sister's quote skipped as no bearing on a decision.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "197df896-9758-49ad-9b80-73c8349a9176",
+   "used": true,
+   "fact_ids": [
+    "XL0083",
+    "XL0084",
+    "XL0085",
+    "XL0086",
+    "XL0088",
+    "XL0087"
+   ],
+   "reason_if_unused": "XL0087 (strike hit a bread vehicle) logged but not cited: conflicts with the embassy-based 'residence' (XL0074); see notes.md Resolved conflicts.",
+   "held_for_global": []
+  }
+ ]
+}

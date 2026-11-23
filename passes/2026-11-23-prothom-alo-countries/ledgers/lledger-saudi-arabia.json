@@ -1,0 +1,173 @@
+{
+ "articles": [
+  {
+   "article_id": "1b14eccf-1981-4a56-865f-0358e5ec0888",
+   "used": true,
+   "fact_ids": [
+    "SQ0048",
+    "SQ0035",
+    "SQ0036",
+    "SQ0037",
+    "SQ0012",
+    "SQ0001"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "2a5e8a4c-d28c-4fb7-a63f-f0dc5938eb0b",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "About a man killed in the July-August 2024 protests in Savar; the only Saudi mention is one line that a brother is 'stuck' in Saudi Arabia after falling to a broker, with no detail. No usable fact.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "e4ac603b-5ff4-4bcf-a449-06c4a44f6ce2",
+   "used": true,
+   "fact_ids": [
+    "SQ0013",
+    "SQ0014",
+    "SQ0015",
+    "SQ0038",
+    "SQ0039"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "f547b80b-f350-469c-87d6-680135b0fdfb",
+   "used": true,
+   "fact_ids": [
+    "SQ0049",
+    "SQ0016",
+    "SQ0002",
+    "SQ0003",
+    "SQ0017",
+    "SQ0004"
+   ],
+   "reason_if_unused": "SQ0004 (Saudi-UAE pay gap 5-8%) logged but not cited: concerns senior professionals moving between the UAE and Saudi Arabia.",
+   "held_for_global": [
+    {
+     "claim": "Trefor Murphy, CEO of Dubai-based Cooper Fitch, said in November 2025 that the pay gap between Saudi Arabia and the UAE was now on average only 5 to 8%.",
+     "quote": "দুবাইভিত্তিক কুপার ফিচের সিইও ট্রেফর মারফি বলেন, এখন সৌদি আরব ও সংযুক্ত আরব আমিরাতের বেতনের মধ্যে পার্থক্য খুবই কম—গড়ে মাত্র ৫ থেকে ৮ শতাংশ।",
+     "suggested_module": "other: UAE country doc (corridor comparison)"
+    }
+   ]
+  },
+  {
+   "article_id": "da87537c-6389-4b30-b7d9-ccbb7b5c1aef",
+   "used": true,
+   "fact_ids": [
+    "SQ0018",
+    "SQ0019",
+    "SQ0020",
+    "SQ0021",
+    "SQ0022"
+   ],
+   "reason_if_unused": "SQ0021 (Umrah on tourist e-visa via Nusuk) and SQ0022 (Android phone for biometrics) conflict with official sources D0087/D0083/D0127/D0168 and are not cited; see notes.md Resolved conflicts.",
+   "held_for_global": [
+    {
+     "claim": "A December 2025 Prothom Alo Umrah guide says most Bangladeshi pilgrims go through agencies, and advises checking the agency is approved, talking to experienced muallims or past pilgrims, getting everything in writing in the contract and keeping payment receipts.",
+     "quote": "বাংলাদেশ থেকে অধিকাংশ যাত্রী এজেন্সির মাধ্যমে ওমরাহ করেন, কারণ এতে ভিসা, টিকিট, হোটেল বুকিং এবং খাবারের ব্যবস্থা সহজ হয়। নির্ভরযোগ্য এজেন্সি বেছে নিন। খোঁজ নিন তারা হজ্জ ও ওমরাহ মন্ত্রণালয়ের অনুমোদিত কি না। অভিজ্ঞ মোয়াল্লিম বা আগের যাত্রীদের সঙ্গে কথা বলে যাচাই করুন। চুক্তি সই করার সময় যাবতীয় তথ্য লিখিতভাবে নিন এবং অর্থ পরিশোদের রসিদ রাখুন।",
+     "suggested_module": "scams"
+    }
+   ]
+  },
+  {
+   "article_id": "a64e8aae-3872-4630-8414-c43c0f4db427",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Duplicate: Mosharraf Hossain killed in the 8 March 2026 Al Kharj strike is already in Current situation [SP0641].",
+   "held_for_global": []
+  },
+  {
+   "article_id": "4d29a8c7-eb9a-4f96-94d3-becf1b61621d",
+   "used": true,
+   "fact_ids": [
+    "SQ0040",
+    "SQ0041",
+    "SQ0023",
+    "SQ0005",
+    "SQ0007",
+    "SQ0006"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "fb92b434-2e1b-4e70-8992-afd7f5ef412c",
+   "used": true,
+   "fact_ids": [
+    "SQ0024",
+    "SQ0025",
+    "SQ0026",
+    "SQ0027",
+    "SQ0008"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "7dec879d-9168-405c-ac18-a8baa503ae6b",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Duplicate: video blurb; 9 fire victims' bodies arriving is SP0735-SP0740, Mohan and Sumon Pramanik is SP0722-SP0723.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "b075161a-4f5a-4de9-bbe2-43fe4e2b0447",
+   "used": true,
+   "fact_ids": [
+    "SQ0044",
+    "SQ0042",
+    "SQ0043",
+    "SQ0028",
+    "SQ0029",
+    "SQ0009"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "eaadd8b7-4e84-43c3-8dd5-546e013a2eae",
+   "used": true,
+   "fact_ids": [
+    "SQ0045",
+    "SQ0046",
+    "SQ0030",
+    "SQ0010"
+   ],
+   "reason_if_unused": "Rest duplicates SP0794-SP0795 and SP0524-SP0526; SQ0010 logged but duplicates SP0779-SP0781 and SP0823, not cited.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "da1b617c-9bf0-4924-99b6-e10457c95968",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Duplicate: video blurb; 2 dead and 24 injured already in Current situation [SP0524, SP0525, SP0526].",
+   "held_for_global": []
+  },
+  {
+   "article_id": "b52ddbce-ac10-48d3-9c30-da97269e3b29",
+   "used": true,
+   "fact_ids": [
+    "SQ0031"
+   ],
+   "reason_if_unused": "7,500 prisoners duplicates SP0536; 11 bodies duplicates SP0538.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "1e895f4b-328f-4dee-97ca-11378ebd9aaa",
+   "used": true,
+   "fact_ids": [
+    "SQ0032",
+    "SQ0047",
+    "SQ0011",
+    "SQ0033",
+    "SQ0034"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  }
+ ]
+}

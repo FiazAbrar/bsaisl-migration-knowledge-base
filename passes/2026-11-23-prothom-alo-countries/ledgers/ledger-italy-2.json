@@ -1,0 +1,383 @@
+{
+ "articles": [
+  {
+   "article_id": "61dddcc9-44f3-472c-82f7-bd34e4ac524a",
+   "used": true,
+   "fact_ids": [
+    "PI0085"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "40c559ea-1c78-4e19-a8b9-9a5e21cd3ea1",
+   "used": true,
+   "fact_ids": [
+    "PI0086",
+    "PI0087"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "358926d2-eff5-4b60-82d4-771ed894a6be",
+   "used": true,
+   "fact_ids": [
+    "PI0088",
+    "PI0160",
+    "PI0161",
+    "PI0162",
+    "PI0163",
+    "PI0221",
+    "PI0222"
+   ],
+   "held_for_global": [
+    {
+     "claim": "When a family member is held for ransom abroad, a case filed at the court under the human trafficking law can be sent to PBI for investigation; in one case the PBI officer contacted the accused abroad, who arranged the victim's return.",
+     "quote": "আদালত মামলাটি তদন্তের জন্য পিবিআই যশোরকে নির্দেশ দেন। মামলার তদন্তকারী কর্মকর্তা পিবিআইয়ের (যশোর) পরিদর্শক মীর রেজাউল হোসেন বিদেশে থাকা মানব পাচারকারী চক্রের সদস্য আসামি নওয়াব আলীর সঙ্গে যোগাযোগ করেন। নওয়াব আলী ভিডিও কলের মাধ্যমে সৈয়দ আবদুস সালামের সঙ্গে তদন্তকারী কর্মকর্তার কথা বলিয়ে দেন। এরপর নওয়াব আলী লিবিয়া থেকে সালামকে দেশে ফেরত পাঠানোর ব্যবস্থা করেন।",
+     "suggested_module": "illegal-routes"
+    }
+   ]
+  },
+  {
+   "article_id": "199f58fc-0ba2-49dd-b9f1-2a86f7cab97a",
+   "used": true,
+   "fact_ids": [
+    "PI0089",
+    "PI0090",
+    "PI0164",
+    "PI0165"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "1081c9f7-ad5e-41b0-81c0-a5f1cc21fe42",
+   "used": true,
+   "fact_ids": [
+    "PI0091",
+    "PI0092",
+    "PI0093",
+    "PI0166",
+    "PI0167",
+    "PI0168",
+    "PI0169",
+    "PI0170",
+    "PI0171",
+    "PI0172",
+    "PI0173"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "83a64dc0-0226-4ce7-9c5c-dc47b34bbb3b",
+   "used": true,
+   "fact_ids": [
+    "PI0094",
+    "PI0095",
+    "PI0096",
+    "PI0097",
+    "PI0098",
+    "PI0174",
+    "PI0175",
+    "PI0176"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "b4e4faa5-420c-46d3-a089-4b2e8798f3fa",
+   "used": true,
+   "fact_ids": [
+    "PI0099"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "e40a2eda-c893-4e3c-98de-b3363e041420",
+   "used": true,
+   "fact_ids": [
+    "PI0100",
+    "PI0101",
+    "PI0102"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "480c32dd-8139-4ea7-ae95-63576a70ab07",
+   "used": true,
+   "fact_ids": [
+    "PI0103",
+    "PI0104",
+    "PI0177",
+    "PI0178",
+    "PI0179",
+    "PI0180"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "19ea4d76-7861-40f4-b8f8-f44f4c709e59",
+   "used": true,
+   "fact_ids": [
+    "PI0105",
+    "PI0106",
+    "PI0107",
+    "PI0108",
+    "PI0181",
+    "PI0182"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "cb3bf7b0-9b2b-447f-88e7-8aa673bdc913",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Video teaser with no usable fact (only says people die each year on the Libya-Italy route).",
+   "held_for_global": []
+  },
+  {
+   "article_id": "22e37ede-265a-4c92-9a88-7a7ab1f1a717",
+   "used": true,
+   "fact_ids": [
+    "PI0109",
+    "PI0110",
+    "PI0111",
+    "PI0112",
+    "PI0113",
+    "PI0114",
+    "PI0115",
+    "PI0116",
+    "PI0117",
+    "PI0118",
+    "PI0119",
+    "PI0120",
+    "PI0183",
+    "PI0184",
+    "PI0185",
+    "PI0186",
+    "PI0187",
+    "PI0188",
+    "PI0189",
+    "PI0190",
+    "PI0191",
+    "PI0192",
+    "PI0193",
+    "PI0194"
+   ],
+   "held_for_global": [
+    {
+     "claim": "IOM's annual report says the Libyan coast guard intercepted 21,700 irregular migrants in the Mediterranean in 2024, including 1,500 women and 700 minors.",
+     "quote": "২০২৪ সালে ২১ হাজার ৭০০ অবৈধ অভিবাসীকে ভূমধ্যসাগর থেকে আটক করেছে লিবিয়ার কোস্টগার্ড। এর মধ্যে দেড় হাজার নারী ও ৭০০ জন অপ্রাপ্তবয়স্ক।",
+     "suggested_module": "illegal-routes"
+    },
+    {
+     "claim": "Bangladesh's Ambassador to Libya said more than 21,000 Bangladeshi migrants work in Libya, 80% without legal papers, and that the Bangladesh government has a list of traffickers and brokers.",
+     "quote": "বর্তমানে লিবিয়ায় ২১ হাজারের বেশি বাংলাদেশি অভিবাসী হিসেবে কাজ করছেন, যাঁদের শতকরা ৮০ ভাগেরই বৈধ কাগজপত্র নাই। গত বছর ৪ হাজার ২০০ জন বাংলাদেশিকে লিবিয়া থেকে দেশে ফেরত পাঠানো হয়েছে জানিয়ে আবুল হাসনাত মুহাম্মদ খায়রুল বাশার বলেন, বাংলাদেশ সরকারের কাছে মানব পাচারকারী এবং দালালদের তালিকা আছে।",
+     "suggested_module": "illegal-routes"
+    }
+   ]
+  },
+  {
+   "article_id": "600b35c0-c381-4c24-b7d3-e2688d9cbe06",
+   "used": true,
+   "fact_ids": [
+    "PI0121",
+    "PI0122",
+    "PI0123",
+    "PI0195",
+    "PI0196",
+    "PI0197"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "0a677a80-6ced-4d7e-b8a4-dd70f77715bf",
+   "used": true,
+   "fact_ids": [
+    "PI0124",
+    "PI0125",
+    "PI0126",
+    "PI0127",
+    "PI0128",
+    "PI0198",
+    "PI0199",
+    "PI0200",
+    "PI0201"
+   ],
+   "held_for_global": [
+    {
+     "claim": "A broker who took an Italy deal said afterwards that his contract was only to take the man as far as Libya.",
+     "quote": "আমার চুক্তি ছিল লিবিয়া পর্যন্ত নেওয়ার। এরপর কী হয়েছে, আমি জানি না। আমাকে দায়ী করে কোনো লাভ নাই।",
+     "suggested_module": "scams"
+    }
+   ]
+  },
+  {
+   "article_id": "63e5461c-8e36-461a-9dd1-6c09dee43155",
+   "used": true,
+   "fact_ids": [
+    "PI0129",
+    "PI0130",
+    "PI0131",
+    "PI0202",
+    "PI0203"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "69bf98fb-b5d5-4e08-a913-705d13af8cab",
+   "used": true,
+   "fact_ids": [
+    "PI0132",
+    "PI0133",
+    "PI0134",
+    "PI0135",
+    "PI0136"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "a4f6d469-048c-4496-9f02-d191534d8abd",
+   "used": true,
+   "fact_ids": [
+    "PI0137",
+    "PI0138",
+    "PI0139",
+    "PI0140",
+    "PI0141",
+    "PI0142",
+    "PI0143",
+    "PI0204",
+    "PI0205"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "bde33aac-946d-4a48-a44b-7bdee9940f51",
+   "used": true,
+   "fact_ids": [
+    "PI0144",
+    "PI0145",
+    "PI0206",
+    "PI0207"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "fcfc6aa1-2d42-4cef-b64f-06bbbc11e151",
+   "used": true,
+   "fact_ids": [
+    "PI0146",
+    "PI0147",
+    "PI0148",
+    "PI0149",
+    "PI0208",
+    "PI0209",
+    "PI0210",
+    "PI0211",
+    "PI0223",
+    "PI0224"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "3add3407-8c9f-48a5-a741-c51e5e1f09d7",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Not about Italy: global UNHCR refugee and asylum figures for Bangladeshis; held for the FAQ module.",
+   "held_for_global": [
+    {
+     "claim": "UNHCR data: in 2024, 28,473 Bangladeshis registered with the UN as refugees and 108,131 sought political asylum in various countries, mostly in Europe and the Americas.",
+     "quote": "২০২৪ সালে ২৮ হাজার ৪৭৩ জন বাংলাদেশি জাতিসংঘের কাছে শরণার্থী হিসেবে নিবন্ধিত হয়েছেন। একই বছর ১ লাখ ৮ হাজার ১৩১ বাংলাদেশি বিভিন্ন দেশে রাজনৈতিক আশ্রয় প্রার্থনা করেছেন।",
+     "suggested_module": "faq"
+    },
+    {
+     "claim": "Diplomats say most Bangladeshis who went abroad as asylum seekers or refugees left for economic reasons, with fewer income opportunities during Covid, shrinking legal migration and political conflict in 2023-24 adding to the trend.",
+     "quote": "কূটনীতিকেরা বলছেন, রাজনৈতিক আশ্রয়প্রার্থী ও শরণার্থী হিসেবে বিদেশে চলে যাওয়া ব্যক্তিদের বেশির ভাগই অর্থনৈতিক কারণে দেশ ছেড়েছেন। করোনা মহামারির সময় দেশে আয়ের সুযোগ কমে যাওয়া ও বৈধ পথে বিদেশে যাওয়া সংকুচিত হওয়ার পাশাপাশি ২০২৩ ও ২০২৪ সালে রাজনৈতিক সংঘাতময় পরিস্থিতিও এ প্রবণতা বাড়িয়েছে বলে তাঁদের মত।",
+     "suggested_module": "faq"
+    },
+    {
+     "claim": "Traffickers are forcing people bound for Europe to join the Russian forces in the Ukraine war.",
+     "quote": "মানব পাচারকারীরা ইউরোপগামী লোকজনকে পাচার করে রুশ বাহিনীতে যুক্ত হতে বাধ্য করছে।",
+     "suggested_module": "illegal-routes"
+    }
+   ]
+  },
+  {
+   "article_id": "dbfae21e-9c22-4f45-afca-bd9548ccecc6",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Not Italy-specific: a returnee killed at home in a family dispute over remittances; held for a global module.",
+   "held_for_global": [
+    {
+     "claim": "An Italy expatriate from Rajoir who had sent his father-in-law about Tk 60 lakh over time, and money for a motorcycle bought in his brother-in-law's name, asked for the money and motorcycle back on returning home; relatives allege he was beaten and strangled at his in-laws' house, which the wife denies.",
+     "quote": "হালিম বিদেশ থেকে বিভিন্ন সময় রেশমার বাবাকে প্রায় ৬০ লাখ টাকা দেন। সম্প্রতি ইতালি থেকে ফেরার আগে নিজের জন্য মোটরসাইকেল কিনতে হালিম টাকা পাঠালে তাঁর শ্যালকের নামে মোটরসাইকেল কেনা হয়। ইতালি থেকে দেশে ফিরে হালিম পাওনা টাকা ও মোটরসাইকেল ফেরত চান। এ নিয়ে হালিমের সঙ্গে তাঁর দ্বিতীয় স্ত্রী, শ্যালকসহ শ্বশুরবাড়ির লোকজনের কথা-কাটাকাটি হয়।",
+     "suggested_module": "other: coming home / protecting remittance savings"
+    }
+   ]
+  },
+  {
+   "article_id": "114a18d1-4249-48a0-89d1-24c144c18b12",
+   "used": true,
+   "fact_ids": [
+    "PI0150",
+    "PI0151",
+    "PI0152",
+    "PI0212",
+    "PI0213",
+    "PI0214",
+    "PI0215",
+    "PI0216"
+   ],
+   "held_for_global": []
+  },
+  {
+   "article_id": "4612baf2-f403-41e2-a87c-218487147b2c",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Editorial repeating the 30 July 2025 report: duplicate of PI0152, PI0212, PI0213, PI0216.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "7e33c5e4-f9c7-4d9a-b6e3-acd2d483a905",
+   "used": true,
+   "fact_ids": [
+    "PI0153",
+    "PI0154",
+    "PI0217",
+    "PI0218"
+   ],
+   "held_for_global": [
+    {
+     "claim": "Returnees from Libya on embassy outpasses are questioned at Dhaka airport and their details taken on a Home Ministry form, where trafficking suspects have been identified and arrested.",
+     "quote": "যাত্রীদের জিজ্ঞাসাবাদ ও স্বরাষ্ট্র মন্ত্রণালয়ের নির্ধারিত ফরমে তথ্য নেওয়ার সময় জাতীয় নিরাপত্তা গোয়েন্দা সংস্থার (এনএসআই) দেওয়া তথ্যের ভিত্তিতে মানব পাচার মামলার আসামি সাখাওয়াত হোসেনকে শনাক্ত করা হয়। পরে তাঁকে গ্রেপ্তার করে সিআইডি।",
+     "suggested_module": "illegal-routes"
+    }
+   ]
+  },
+  {
+   "article_id": "0d07e0f7-fa4d-451a-b1ed-c0cd88598d0a",
+   "used": true,
+   "fact_ids": [
+    "PI0155",
+    "PI0156",
+    "PI0219",
+    "PI0220"
+   ],
+   "held_for_global": [
+    {
+     "claim": "A Bangladeshi in Paris said he paid Tk 10 lakh to go to Cyprus, worked two years, lost the job, paid another Tk 10 lakh to come to Paris, and after seven months had no work, paying EUR 150 rent and about EUR 100 for food.",
+     "quote": "১০ লাখ টাকা খরচ করে এসেছিলেন সাইপ্রাসে। দুই বছর কাজ করে কিছু টাকা দেশে পাঠিয়েছেন। কিন্তু এরপর কাজ চলে যায়। সাইপ্রাসে কিছু না করতে পেরে ১০ লাখ টাকা দিয়ে প্যারিসে আসেন। এখানে এসেছেন সাত মাস হলো। কিন্তু কোনো কাজ নেই। কাজ না করলেও তো খেতে হয়, বাসাভাড়া দিতে হয়। বাসাভাড়া দেড় শ ইউরো। খাওয়া এক শর মতো লাগে।",
+     "suggested_module": "other: France / Cyprus country docs"
+    }
+   ]
+  },
+  {
+   "article_id": "d349a68d-8a71-4d67-91b9-1e8f6254710e",
+   "used": true,
+   "fact_ids": [
+    "PI0157",
+    "PI0158",
+    "PI0159"
+   ],
+   "held_for_global": []
+  }
+ ]
+}

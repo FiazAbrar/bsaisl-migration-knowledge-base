@@ -1,0 +1,44 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/oman/doc.md",
+  "section": "What is open, and for whom",
+  "old_str": "On 16 September 2026 the Prime Minister's Office spokesperson, Mahdi Amin, said the ban had been overcome and new openings created for Bangladeshi workers in agriculture and modern fishing [PO0033].",
+  "new_str": "On 16 September 2026 the Prime Minister's Office spokesperson, Mahdi Amin, said new openings had been created for Bangladeshi workers in agriculture and modern fishing, getting past the ban [PO0033].",
+  "problem": "PO0033 says openings were created in two sectors despite the ban; 'the ban had been overcome' reads as the whole suspension lifted, which conflicts with 'Still closed' and the later timeline."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/oman/doc.md",
+  "section": "The 2023 suspension: why, and what has happened since",
+  "old_str": "and that a fine of Tk 12,000 a month per worker had been waived at Bangladesh's request [PO0011].",
+  "new_str": "and that a fine of Tk 12,000 a month per worker had been waived at Bangladesh's request [PO0011, PO0012].",
+  "problem": "The 24-31 May visit dates come from PO0012, which was not cited."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/oman/doc.md",
+  "section": "The size of the flow",
+  "old_str": "Prothom Alo reported in May 2024 that 28,201 Bangladeshi nationals went to Oman in September 2023",
+  "new_str": "Prothom Alo reported in May 2024, without naming its source, that 28,201 Bangladeshi nationals went to Oman in September 2023",
+  "problem": "The 28,201 figure for September 2023 sits next to BMET's 9,570 clearances for the same month with nothing to tell the reader they measure different things; the article gives no source for it. Human may prefer to drop the figure."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/oman/doc.md",
+  "section": "Step 5: After you arrive",
+  "old_str": "4. **School.** Bangladesh School Muscat is run under Oman's Ministry of Education rules by five parents' representatives elected for two years and three Embassy representatives [PO0024]. Its fees are much lower than other international schools in Muscat, and about 1,000 families send their children there; in November 2025 a founding member of a Bangladeshi community association wrote that parents were dissatisfied with its teaching standard [PO0023, PO0025].",
+  "new_str": "4. **School.** In November 2025 a founding member of a Bangladeshi community association wrote that Bangladesh School Muscat is run under Oman's Ministry of Education rules by five parents' representatives elected for two years and three Embassy representatives, that its fees are much lower than other international schools in Muscat, that about 1,000 families send their children there, and that parents were dissatisfied with its teaching standard [PO0024, PO0023, PO0025].",
+  "problem": "All three facts come from one opinion piece; the attribution covered only the last clause, so the governance, fee and enrolment claims read as established."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/oman/doc.md",
+  "section": "Cases",
+  "old_str": "Leaders of the Chattogram Samity Oman (a district association of Bangladeshis in Oman) said the four, aged 25 to 35, had set out from Barka for Muladdah in the evening; after 8 pm one sent a relative a voice message and their location saying they could not get out of the car and had foam at the nose and mouth; local people found them unconscious in a car parked in front of a clinic and called the police [PO0039, PO0040, PO0041].",
+  "new_str": "Leaders of the Chattogram Samity Oman (a district association of Bangladeshis in Oman) said the four had set out from Barka for Muladdah in the evening; after 8 pm one sent a relative a voice message and their location saying they could not get out of the car and had foam at the nose and mouth; local people found them unconscious in a car parked in front of a clinic and called the police [PO0039, PO0040].",
+  "problem": "Cited PO0041 (the cost statement) instead of PO0042 for the ages; and the ages 25 to 35 (PO0042) conflict with the 15 May report that the eldest, Rashed, was 40 (PO0027), so the age range is dropped."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/oman/doc.md",
+  "section": "Cases",
+  "old_str": "because the Oman government would not bear the cost of a death that was not a road accident [PO0042].",
+  "new_str": "because the Oman government would not bear the cost of a death that was not a road accident [PO0041].",
+  "problem": "Wrong citation: PO0042 is the ages; the cost statement is PO0041."
+ }
+]

@@ -1,0 +1,190 @@
+{
+ "articles": [
+  {
+   "article_id": "35bdf8db-7c99-42d5-8d7b-f43af074f450",
+   "used": true,
+   "fact_ids": [
+    "PO0001",
+    "PO0007",
+    "PO0008"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "f9ffd07a-01c9-4291-859b-d714b5115f7d",
+   "used": true,
+   "fact_ids": [
+    "PO0009",
+    "PO0010"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "56c1becb-c11d-4bf1-bfe4-108dc9772e24",
+   "used": true,
+   "fact_ids": [
+    "PO0011",
+    "PO0012"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "c25b260d-6cec-4a70-8f42-04dc775f6f1a",
+   "used": true,
+   "fact_ids": [
+    "PO0013",
+    "PO0014",
+    "PO0015"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "ed3650be-f556-4fb0-8e4f-03e1281c7f2e",
+   "used": true,
+   "fact_ids": [
+    "PO0002",
+    "PO0003",
+    "PO0016"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "a8a54eb1-2908-4c7a-b458-0e089de8f358",
+   "used": true,
+   "fact_ids": [
+    "PO0017",
+    "PO0034",
+    "PO0035",
+    "PO0036"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "c0ece990-7fb1-45d9-8928-498a2e9cf5d7",
+   "used": true,
+   "fact_ids": [
+    "PO0018"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "Prothom Alo (17 Jun 2025): in earlier wars in the Middle East, Bangladeshi workers were forced to return home",
+     "quote": "এর আগেও মধ্যপ্রাচ্যে যুদ্ধের সময় বাংলাদেশি শ্রমিকেরা দেশে ফিরতে বাধ্য হয়েছেন।",
+     "suggested_module": "other: Gulf-wide risks / corridor context"
+    }
+   ]
+  },
+  {
+   "article_id": "bddd2bac-7f9d-4072-a4e0-e35e97a0455e",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact for the doc: only an approximate rial rate (about Tk 316), duplicate of the doc's official rate [KA0001, KA0002]; rest is about other currencies.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "ec2d4864-c37d-4739-9610-f4b49904c8da",
+   "used": true,
+   "fact_ids": [
+    "PO0004",
+    "PO0019",
+    "PO0020"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "b3336e97-4fa5-4b15-946f-8a7083618855",
+   "used": true,
+   "fact_ids": [
+    "PO0005",
+    "PO0021",
+    "PO0022"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "3a42ba41-1a29-43d7-9d71-01651cd463e8",
+   "used": true,
+   "fact_ids": [
+    "PO0023",
+    "PO0024",
+    "PO0025",
+    "PO0026"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "33501296-e75c-43db-b032-4e35599b831e",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Duplicate of facts already in the doc: Riyadh meeting 26 Jan 2026, two-month reopening promise, regularisation without fines, JTC and MoU [C0039, C0040, C0041, C0042].",
+   "held_for_global": [
+    {
+     "claim": "Prothom Alo (27 Jan 2026): Adviser Asif Nazrul told Oman's labour minister of the interim government's migration initiatives: technology for transparency and accountability, legal reform, skill verification before departure, and pre-departure training in the host country's language, culture and law",
+     "quote": "প্রযুক্তির ব্যবহারের মাধ্যমে স্বচ্ছতা ও জবাবদিহি প্রতিষ্ঠা, আইনি সংস্কার, কর্মী পাঠানোর আগে দক্ষতা যাচাই, প্রাক্‌-বহির্গমন প্রশিক্ষণের মাধ্যমে স্বাগতিক দেশের ভাষা, সংস্কৃতি আর আইন সম্পর্কে অন্তর্বর্তী সরকারের বিভিন্ন উদ্যোগের",
+     "suggested_module": "departure"
+    }
+   ]
+  },
+  {
+   "article_id": "0060e1a8-de5b-4323-bb03-c956ecaa1320",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Duplicate of facts already in the doc (same Riyadh meeting, Embassy Riyadh release) [C0039, C0040, C0041, C0042].",
+   "held_for_global": []
+  },
+  {
+   "article_id": "6d7c7e8f-6883-4b04-8a9a-be1215e87960",
+   "used": true,
+   "fact_ids": [
+    "PO0027",
+    "PO0028",
+    "PO0029",
+    "PO0030",
+    "PO0031"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "04549c59-87a0-471a-9ad7-ad0e01f640ce",
+   "used": true,
+   "fact_ids": [
+    "PO0006",
+    "PO0032"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "a1c0579d-670b-48f1-901a-f4ff99d06553",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: arrest in Noakhali of an Oman migrant on home leave on an arms charge (family alleges framing); nothing about the Oman corridor or the migration process.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "448b36be-4301-4f43-a0d3-524a0a73efd2",
+   "used": true,
+   "fact_ids": [
+    "PO0033"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "Prothom Alo (16 Sep 2026): the Prime Minister's Office spokesperson said a possibility was being created for 10,000 Bangladeshi workers a year to migrate legally to Italy after language and technical training",
+     "quote": "ভাষা ও কারিগরি প্রশিক্ষণ শেষ করে প্রতিবছর ১০ হাজার বাংলাদেশি কর্মীর বৈধ উপায়ে ইতালিতে অভিবাসনের সম্ভাবনা সৃষ্টি হচ্ছে।",
+     "suggested_module": "other: Italy doc"
+    }
+   ]
+  }
+ ]
+}
