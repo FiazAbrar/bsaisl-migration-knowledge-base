@@ -1,0 +1,121 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-states/doc.md",
+  "section": "In one minute",
+  "old_str": "All US asylum decisions have been on hold since November 2025, and the US had revoked",
+  "new_str": "USCIS halted all asylum decisions in November 2025, and the US had revoked",
+  "problem": "XU0187 reports the halt on 28 Nov 2025; nothing supports that it is still in force (the doc's own Need to know asks whether it has resumed)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-states/doc.md",
+  "section": "In one minute",
+  "old_str": "staying on to work needs an employer to sponsor an H-1B visa, whose fee for applicants from abroad has been USD 100,000 since September 2025 [",
+  "new_str": "staying on to work needs an employer to sponsor an H-1B visa, whose fee on a new application has been USD 100,000 since September 2025, though not for someone who was in the US on a student visa [",
+  "problem": "'applicants from abroad' is the writer's inference; the cited facts say the fee applies to new applications and exempts former student-visa holders (XU0164, XU0212)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-states/doc.md",
+  "section": "Status",
+  "old_str": "- **30 October 2025:** work permits (EADs) stopped",
+  "new_str": "- **30 October 2025:** work permits (EADs, Employment Authorization Documents) stopped",
+  "problem": "EAD used before it is explained (first expansion is in Work permits)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-states/doc.md",
+  "section": "The channels",
+  "old_str": "the employer pays USD 100,000 on a new application from abroad (see Work visa: H-1B)",
+  "new_str": "the employer pays USD 100,000 on a new application (see Work visa: H-1B)",
+  "problem": "'from abroad' not in the cited facts; the exemption is for former student-visa holders, not everyone in the US (XU0212)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-states/doc.md",
+  "section": "How a job reaches you, and who takes a cut",
+  "old_str": "In this reporting no job reaches a worker in Bangladesh through a recruiting agency: the way in is a university's admission, a Fulbright grant, or a relative's immigrant petition, and the cut is taken by brokers selling the irregular route or a fake promise (see Irregular routes and undocumented stay) [XU0013, XU0052, XU0086, XU0114].",
+  "new_str": "The reported ways in are a university's admission, a Fulbright grant or a relative's immigrant petition, and brokers in Bangladesh sell the irregular route (see Irregular routes and undocumented stay) [XU0013, XU0052, XU0086, XU0114].",
+  "problem": "Research narration ('In this reporting') and the writer's own conclusion ('no job reaches... through a recruiting agency', 'the cut is taken by...'); no cited fact says either."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-states/doc.md",
+  "section": "What you pay, and what you earn and keep",
+  "old_str": "with 15-20% tax in the first five years and rent of USD 1,500-2,500 for one bedroom",
+  "new_str": "with 15-20% tax in the first five years and one-bedroom rent of USD 2,500 a month in a big city and up to 1,500 in a small one",
+  "problem": "XU0155 gives USD 2,500 in a big city and at most 1,500 in a small one, not a 1,500-2,500 range; also matches the After graduation section."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-states/doc.md",
+  "section": "Irregular routes, and where an irregular stay ends",
+  "old_str": "and the alleged organiser, extradited from Brazil, faces 5 to 15 years",
+  "new_str": "and a third Bangladeshi accused, extradited from Brazil, faces 5 to 15 years if convicted",
+  "problem": "No fact calls Saifullah the organiser; the source names him as one of three co-accused (XU0111, XU0112), and the 5-15 years is 'if convicted' (XU0116)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-states/doc.md",
+  "section": "Step 2: Apply for the visa early",
+  "old_str": "2. Attend the interview in person: since January 2026 every US visa applicant must [XU0062].",
+  "new_str": "2. Attend the interview in person: every US visa applicant must [XU0062].",
+  "problem": "XU0062 says 'under the new rule' in a January 2026 report; it gives no start date, so 'since January 2026' is unsupported."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-states/doc.md",
+  "section": "Fulbright Teaching Excellence and Achievement (TEA)",
+  "old_str": "2. If shortlisted, take a paper-based IELTS (score 6.0",
+  "new_str": "2. If shortlisted, take a paper-based IELTS (International English Language Testing System) test (score 6.0",
+  "problem": "Acronym IELTS not explained at first use."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-states/doc.md",
+  "section": "The pause from 21 January 2026",
+  "old_str": "On a list of 120 countries ranked by immigrant welfare use, Bangladesh was 19th",
+  "new_str": "On a list of 120 countries ranked by immigrant welfare use that President Trump posted on social media in January 2026, Bangladesh was 19th",
+  "problem": "Attribution dropped: the source says the list was posted by President Trump on Truth Social (pa-2026-01-05, pa-2026-01-08), not an official or neutral ranking."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-states/doc.md",
+  "section": "If your husband abuses you",
+  "old_str": "- **Case:** Nowrin Nahar Tuli, 21, who had a protection order, was strangled by her husband Nasib Ahsan in Texas on 24 December 2023; he is held in Collin County jail [XU0136, XU0135].",
+  "new_str": "- **Case:** Nowrin Nahar Tuli, 21, who had a protection order, was strangled by her husband Nasib Ahsan in Texas on 24 December 2023, the columnist reported; he is held in Collin County jail [XU0136, XU0135].",
+  "problem": "Attribution dropped: the killing is reported by a columnist (XU0135) and the husband is held, not convicted; stated as established fact."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-states/doc.md",
+  "section": "Money paid to brokers who never send you",
+  "old_str": "in August 2025 he and a friend were found dead in his car in a Dhaka hospital car park",
+  "new_str": "in August 2025 he and a friend were found dead in a car in a Dhaka hospital car park",
+  "problem": "No fact says the car was his; the source says Zakir was a driver found in the driver's seat of a car (XU0123)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-states/doc.md",
+  "section": "Deportation to Bangladesh",
+  "old_str": "put on the plane in handcuffs that were removed on landing in Dhaka [",
+  "new_str": "put on the plane in handcuffs that were removed on landing in Dhaka, they told law enforcement [",
+  "problem": "Attribution dropped: the handcuff account is what the returnees told law enforcement (XU0051)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-states/doc.md",
+  "section": "Scams",
+  "old_str": "and took Tk 1 crore 9 lakh from her for a passport, visa and other pretexts [XU0002, XU0003]. She sent the money to 13 different mobile numbers, sold 37 bhori of gold and took a bank loan [XU0004, XU0003].",
+  "new_str": "and took Tk 1 crore 9 lakh from her, which she said he asked for in instalments for a passport, visa and other pretexts [XU0002, XU0003]. She sent the money to 13 different mobile numbers, and said she sold 37 bhori of gold and took a bank loan [XU0004, XU0003].",
+  "problem": "Attribution dropped: the pretexts, gold sale and loan are the victim's claims (XU0003 'ভুক্তভোগী নারী দাবি করেন')."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-states/doc.md",
+  "section": "If a student or worker dies",
+  "old_str": "> **Need to know**\n**Other cases:**",
+  "new_str": "**Other cases:**",
+  "problem": "Stray empty 'Need to know' block header; it pulls the 'Other cases' list into a quote block."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-states/doc.md",
+  "section": "If a student or worker dies",
+  "old_str": "was shot dead there on 29 December 2023 by people stealing cigarettes; four days later his body had still not reached his family because of US holiday-season staffing, and fellow students raised USD 55,000 for the family through GoFundMe [",
+  "new_str": "was shot dead at a shop in Beaumont on 29 December 2023 by people stealing cigarettes, police said; four days later his body had still not reached his family because of US holiday-season staffing, a local journalist said, and Bangladeshi students at Lamar opened a GoFundMe fundraiser to which about 14,000 people gave USD 55,000 [",
+  "problem": "XU0128 says 'a shop in Beaumont', not the food shop where he worked; the cigarette-theft motive is police's initial CCTV finding (XU0130) and the delay a journalist's account (XU0132); the students opened the fund but about 14,000 people gave the USD 55,000 (XU0133)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-states/doc.md",
+  "section": "If a student or worker dies",
+  "old_str": "- **Mohammad Mahfuzul Haque,** a DoorDash food-delivery worker of Bangladeshi origin, was shot dead",
+  "new_str": "- **Mohammad Mahfuzul Haque,** a DoorDash food-delivery worker described by Bangladeshi community media in the US as of Bangladeshi origin, was shot dead",
+  "problem": "Attribution dropped: only community media called him of Bangladeshi origin (XU0206)."
+ }
+]

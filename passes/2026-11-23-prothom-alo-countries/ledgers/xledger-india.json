@@ -1,0 +1,365 @@
+{
+ "articles": [
+  {
+   "article_id": "a313f0a3-69ab-4398-bcb6-8dd2dc0db1be",
+   "used": true,
+   "fact_ids": [
+    "XI0001",
+    "XI0002",
+    "XI0003",
+    "XI0004",
+    "XI0005",
+    "XI0006",
+    "XI0007",
+    "XI0008",
+    "XI0009",
+    "XI0010",
+    "XI0011",
+    "XI0012",
+    "XI0013"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "3605ae6d-f458-4f35-a023-5274977a8d26",
+   "used": true,
+   "fact_ids": [
+    "XI0014",
+    "XI0015",
+    "XI0016",
+    "XI0017",
+    "XI0139"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/illegal-routes",
+     "claim": "The officer-in-charge said Tarek's wife Jhumu Akter befriended women garment workers, especially those who had lost their jobs, and lured them with higher-paid parlour work in India; they were taken across the Jashore border to Jharkhand state and held in hotels for sex work",
+     "quote": "পোশাকশ্রমিকদের লক্ষ্য করে নগরের বিভিন্ন কারখানার বিশেষ করে চাকরিচ্যুত হওয়ার নারীদের সঙ্গে সখ্য করেন তারেকের স্ত্রী ঝুমু আক্তার। পরে তাঁদের বেশি বেতনে ভারতে পারলারে নিয়ে যাওয়ার প্রলোভন দেখান। যশোরের সীমান্ত ব্যবহার করে ভারতের ঝাড়খন্ড রাজ্য নিয়ে হোটেলে আটকে রেখে তাঁদের যৌন কাজে বাধ্য করা হতো।"
+    },
+    {
+     "target": "global/illegal-routes",
+     "claim": "According to the case statement, the woman and a friend went to Jashore with Tarek on 29 May 2024, saw the border fence six kilometres on, were kept in a room by the border, and on 2 June were taken across the fence to a hotel in Jharkhand",
+     "quote": "রাজি হলে ওই নারী ও তাঁর এক বান্ধবী গত ২৯ মে যশোরে যান তারেকের সঙ্গে। ছয় কিলোমিটার পর তাঁরা ভারত বাংলাদেশ সীমান্তের কাঁটাতারের বেড়া দেখতে পান। সীমান্তের পাশে একটি ঘরে তাঁদের রাখা হয়। ২ জুন কাঁটাতারের বেড়া পার করে তাঁদের ঝাড়খন্ড রাজ্যের একটি হোটেলে নিয়ে যাওয়া হয়।"
+    }
+   ]
+  },
+  {
+   "article_id": "3de751c6-8bdb-4e5a-b0af-a3b79a6d4fc2",
+   "used": true,
+   "fact_ids": [
+    "XI0018",
+    "XI0019",
+    "XI0020",
+    "XI0021",
+    "XI0022"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "c05019b7-f411-473d-a9f6-eb575dcb3cf9",
+   "used": true,
+   "fact_ids": [
+    "XI0023",
+    "XI0024"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "fe3a6181-985f-4664-8642-c058b34bbaf9",
+   "used": true,
+   "fact_ids": [
+    "XI0025",
+    "XI0026"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "70b91f83-c214-4c06-ad02-c8bece534d84",
+   "used": true,
+   "fact_ids": [
+    "XI0027",
+    "XI0028",
+    "XI0029",
+    "XI0030"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "42b533a3-d023-4ac6-9dc9-46581e163594",
+   "used": true,
+   "fact_ids": [
+    "XI0031",
+    "XI0032",
+    "XI0033",
+    "XI0034",
+    "XI0035",
+    "XI0036",
+    "XI0037"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "227d2f2b-e19c-4bcd-8500-f8501a059648",
+   "used": true,
+   "fact_ids": [
+    "XI0038",
+    "XI0039"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ab36bc75-4d42-4b0b-a0b2-d66b6a91046d",
+   "used": true,
+   "fact_ids": [
+    "XI0040",
+    "XI0041",
+    "XI0042"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "c5ac86c3-29a2-4dfd-b40f-29282d7e1a20",
+   "used": true,
+   "fact_ids": [
+    "XI0043",
+    "XI0044",
+    "XI0045",
+    "XI0046",
+    "XI0047",
+    "XI0048",
+    "XI0049",
+    "XI0050",
+    "XI0051",
+    "XI0052",
+    "XI0053",
+    "XI0054",
+    "XI0055",
+    "XI0056",
+    "XI0057",
+    "XI0058",
+    "XI0059",
+    "XI0060",
+    "XI0140"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "a476dda1-e4fd-4271-94a2-dc2760470db9",
+   "used": true,
+   "fact_ids": [
+    "XI0061",
+    "XI0062"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "2393c4c5-8a02-4e72-90ef-53162dd7248d",
+   "used": true,
+   "fact_ids": [
+    "XI0063",
+    "XI0064",
+    "XI0065"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "f02eb40e-eb52-4e30-a4b1-ee940d4b68d8",
+   "used": true,
+   "fact_ids": [
+    "XI0066",
+    "XI0067",
+    "XI0068",
+    "XI0069",
+    "XI0070",
+    "XI0071",
+    "XI0072"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "f3e52605-491e-493c-bb97-27410561a0cb",
+   "used": true,
+   "fact_ids": [
+    "XI0073",
+    "XI0074",
+    "XI0075",
+    "XI0076"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "706ae497-a16a-4a96-8023-6e7cd0654236",
+   "used": true,
+   "fact_ids": [
+    "XI0077",
+    "XI0078",
+    "XI0079"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/illegal-routes",
+     "claim": "On 30 September 2025 the Faridpur Women and Children Repression Prevention Tribunal sentenced Md Shahinur Rahman alias Sabuj Sheikh (37), absconding, to life imprisonment and a Tk 50,000 fine for trafficking to India a 19-year-old woman he had eloped with and married on 5 August 2010",
+     "quote": "ফরিদপুরে মানব পাচার মামলার ১৫ বছর পর এক ব্যক্তিকে যাবজ্জীবন কারাদণ্ড ও ৫০ হাজার টাকা জরিমানা করেছেন আদালত। জরিমানা অনাদায়ে তাঁকে আরও এক বছর বিনাশ্রম কারাদণ্ড ভোগ করতে হবে। আজ মঙ্গলবার ফরিদপুর নারী ও শিশু নির্যাতন দমন আদালতের বিচারক (জেলা ও দায়রা জজ) শামীমা পারভীন এ রায় দেন।"
+    },
+    {
+     "target": "global/illegal-routes",
+     "claim": "Because Madhukhali police station did not take the case under the trafficking law, the woman's father filed it at the Faridpur Women and Children Repression Prevention Tribunal on 24 December 2010",
+     "quote": "এ বিষয়ে মধুখালী থানা মানব পাচার আইনে মামলা না নেওয়ায় ভুক্তভোগীর বাবা ২০১০ সালের ২৪ ডিসেম্বর ফরিদপুর নারী ও শিশু নির্যাতন দমন আদালতে মানব পাচার আইনে মামলা করেন।"
+    }
+   ]
+  },
+  {
+   "article_id": "28b3c35e-d2ff-4c44-accf-279fc2272fc6",
+   "used": true,
+   "fact_ids": [
+    "XI0080",
+    "XI0081",
+    "XI0082",
+    "XI0083",
+    "XI0084",
+    "XI0085"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "b5913d6a-05ef-48fc-9bcb-573ca3786c0a",
+   "used": true,
+   "fact_ids": [
+    "XI0086",
+    "XI0087",
+    "XI0088",
+    "XI0089",
+    "XI0090"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "3141f745-a69c-405c-84dd-8b0ff32f44e2",
+   "used": true,
+   "fact_ids": [
+    "XI0091",
+    "XI0092",
+    "XI0093"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "9895002d-29e9-453b-89b1-47a49533246d",
+   "used": true,
+   "fact_ids": [
+    "XI0094",
+    "XI0095",
+    "XI0096",
+    "XI0097"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "3aaa065f-ab10-42fe-814d-a278e9a7fdd7",
+   "used": true,
+   "fact_ids": [
+    "XI0098",
+    "XI0099"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "926f8910-b0a3-4d3e-a427-bc815f92389f",
+   "used": true,
+   "fact_ids": [
+    "XI0100",
+    "XI0101"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "2570f933-36e7-4868-96bc-eab7f418171b",
+   "used": true,
+   "fact_ids": [
+    "XI0102",
+    "XI0103",
+    "XI0104",
+    "XI0105",
+    "XI0106",
+    "XI0107",
+    "XI0108",
+    "XI0109",
+    "XI0110"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "026567c4-5679-4fa1-9524-d1a9f4a64eec",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Video teaser duplicating article 2570f933 (West Bengal CAA announcement, 20 May 2026), which is used.",
+   "held": []
+  },
+  {
+   "article_id": "b551d88f-02d8-483f-b53a-d21345266536",
+   "used": true,
+   "fact_ids": [
+    "XI0111",
+    "XI0112",
+    "XI0113",
+    "XI0114",
+    "XI0115",
+    "XI0116",
+    "XI0117",
+    "XI0118",
+    "XI0119",
+    "XI0120",
+    "XI0121",
+    "XI0122",
+    "XI0123",
+    "XI0124",
+    "XI0125",
+    "XI0126",
+    "XI0127",
+    "XI0128",
+    "XI0129",
+    "XI0130",
+    "XI0131",
+    "XI0132",
+    "XI0133"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "f6573021-557a-4be7-ae81-dcfa7b395b25",
+   "used": true,
+   "fact_ids": [
+    "XI0134",
+    "XI0135",
+    "XI0136",
+    "XI0137",
+    "XI0138"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  }
+ ]
+}

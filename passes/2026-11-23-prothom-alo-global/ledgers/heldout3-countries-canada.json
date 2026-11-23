@@ -1,0 +1,10 @@
+[
+ {
+  "held_id": "R3-countries-canada-1",
+  "outcome": "added",
+  "fact_ids": [
+   "XC0166"
+  ],
+  "note": "Added only 'no separate work permit needed' to Can you work? item 1; the 20-hour figure is superseded by the newer 24-hour rule [XC0054, XC0158], recorded in notes.md Resolved conflicts."
+ }
+]

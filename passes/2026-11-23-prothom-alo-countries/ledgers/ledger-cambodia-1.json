@@ -1,0 +1,50 @@
+{
+ "articles": [
+  {
+   "article_id": "f1aa1ff7-c84c-442c-9abd-f42b240ae16d",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: an unsourced 2024 ranking of 'top 10 countries for work environment' placing Cambodia 10th, with one generic line on Cambodia.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "71200b43-c600-4c26-858f-ab6bdfefc43b",
+   "used": true,
+   "fact_ids": [
+    "PC0001",
+    "PC0002",
+    "PC0003"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "0586aaaf-c34b-496b-8777-199aa89e87f9",
+   "used": true,
+   "fact_ids": [
+    "PC0004",
+    "PC0005",
+    "PC0006",
+    "PC0007"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "Police said foreigners arrested in two September 2026 raids in Chattogram and Cox's Bazar (citizens of China, Pakistan, Laos, Nepal, Vietnam and Taiwan) were trying to set up scam centres in Bangladesh",
+     "quote": "চট্টগ্রাম ও কক্সবাজারের দুই ঘটনায় গ্রেপ্তার ব্যক্তিদের মধ্যে রয়েছে চীন, পাকিস্তান, লাওস, নেপাল, ভিয়েতনাম ও তাইওয়ানের নাগরিক। তাঁরা বাংলাদেশে স্ক্যাম বা প্রতারণা কেন্দ্র গড়ে তোলার চেষ্টা করছিলেন বলে পুলিশের কাছে তথ্য রয়েছে।",
+     "suggested_module": "scams"
+    },
+    {
+     "claim": "On 11 September 2026 police arrested 70 foreign nationals in a building in Jalalabad, Khulshi, Chattogram, over scam-centre-style online fraud, seizing 170 devices",
+     "quote": "গত ১১ সেপ্টেম্বর চট্টগ্রাম নগরের খুলশী থানার জালালাবাদ আবাসিক এলাকার একটি ভবনে অভিযান চালিয়ে স্ক্যাম সেন্টার আদলে অনলাইন প্রতারণায় জড়িত থাকার অভিযোগে ৭০ বিদেশি নাগরিককে গ্রেপ্তার করে পুলিশ।",
+     "suggested_module": "scams"
+    },
+    {
+     "claim": "Prothom Alo (Nov 2026): Cambodia- and Myanmar-based scam centres, where people trafficked abroad on promises of high pay are held hostage, have many Bangladeshi victims",
+     "quote": "প্রসঙ্গত, উচ্চ বেতনের আশ্বাসে বিদেশে মানব পাচার ও পরে জিম্মি করার ঘটনায় সাম্প্রতিক সময়ে কম্বোডিয়া ও মিয়ামানমারকেন্দ্রিক স্ক্যাম সেন্টারগুলো আলোচনায় এসেছে, যেখানে অনেক বাংলাদেশি নাগরিকও ভুক্তভোগী।",
+     "suggested_module": "illegal-routes"
+    }
+   ]
+  }
+ ]
+}

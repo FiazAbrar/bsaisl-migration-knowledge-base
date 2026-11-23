@@ -1,0 +1,184 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-kingdom/doc.md",
+  "section": "United Kingdom: migration guide",
+  "old_str": "This first version is built only from Prothom Alo reporting (2024 to November 2026)",
+  "new_str": "This first version is built only from Prothom Alo reporting (2024 to October 2026)",
+  "problem": "The latest saved article is dated 13 October 2026; no November 2026 article is in the source set."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-kingdom/doc.md",
+  "section": "In one minute",
+  "old_str": "In this reporting Bangladeshis reach the UK mainly as students, and some come on student, visit or work visas and then claim asylum: about 11,000 did so in 2023, and 95% of those claims were refused [XK0003].",
+  "new_str": "About 11,000 Bangladeshis who came to the UK on student, visit or work visas claimed asylum in 2023, and the UK refused 95% of those claims [XK0003].",
+  "problem": "'Mainly as students' is the writer's own characterisation; XK0003 says nothing about which route most Bangladeshis use."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-kingdom/doc.md",
+  "section": "In one minute",
+  "old_str": "Using a forged document or an illegal route to reach the UK brings a 10-year ban on entering [XK0033, XK0046].",
+  "new_str": "Using visa fraud or an illegal route to reach the UK brings a 10-year travel ban, the British High Commissioner in Dhaka said in November 2025 [XK0033, XK0046].",
+  "problem": "XK0033 says 'visa fraud', not 'a forged document' (narrower meaning); the High Commissioner's attribution was dropped."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-kingdom/doc.md",
+  "section": "In one minute",
+  "old_str": "brokers inside the UK sold fake certificates to foreign students for up to £17,000 each [XK0092, XK0096, XK0093].",
+  "new_str": "brokers inside the UK sold fake certificates to foreign students for up to £17,000 each, and one network charged £10,000 to £20,000 per applicant, the BBC reported in 2024 [XK0092, XK0096, XK0093, XK0097].",
+  "problem": "'Up to £17,000' contradicts the doc's own Raza figure of £10,000 to £20,000 per applicant (XK0097) given elsewhere; the source article itself carries both figures, so both are now given with attribution."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-kingdom/doc.md",
+  "section": "In one minute",
+  "old_str": "Advisers also sell made-up asylum stories, and in October 2026 the Home Office raided a ring it suspects was linked to a Bangladeshi LGBT group in east London; status gained by fraud can be revoked and asylum fraud carries up to 10 years in prison [XK0123, XK0131, XK0148, XK0149, XK0145].",
+  "new_str": "Advisers also sell made-up asylum stories, the BBC reported in April 2026, and in October 2026 UK immigration officers raided a ring that investigators suspect was linked to a Bangladeshi LGBT (lesbian, gay, bisexual and transgender) group in east London; status gained by fraud can be revoked and proven asylum fraud carries up to 10 years in prison [XK0123, XK0131, XK0148, XK0149, XK0145].",
+  "problem": "Drops the attribution of XK0123 ('the BBC found'), so the allegation reads as established; 'the Home Office ... it suspects' recasts the investigators' suspicion; XK0145 is for 'proven' fraud; first use of 'Home Office' and 'LGBT' were unexplained (Home Office is explained later under Status)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-kingdom/doc.md",
+  "section": "Status",
+  "old_str": "Labour won the election that month, ending 14 years of Conservative government [XK0089].",
+  "new_str": "Labour won the election in July 2024, ending 14 years of Conservative government [XK0089].",
+  "problem": "'That month' is ambiguous after a 'June-July 2024' label; XK0089 gives July 2024."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-kingdom/doc.md",
+  "section": "The channels",
+  "old_str": "- **Student visa:** the main route in this reporting (see Student visa) [XK0053].",
+  "new_str": "- **Student visa:** sponsored by a UK university, which can withdraw its offer (see Student visa) [XK0053].",
+  "problem": "'The main route in this reporting' is the writer's characterisation; XK0053 only says universities are withdrawing offers to avoid losing their sponsor licence."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-kingdom/doc.md",
+  "section": "How a job reaches you, and who takes a cut",
+  "old_str": "but brokers posing as recruitment agents sold fake ones for £10,000 to £20,000 each (see Care-worker and Skilled Worker visa) [XK0096, XK0093, XK0097].",
+  "new_str": "but brokers acting as recruitment agents sold fake ones to foreign students for up to £17,000 each, and one network charged £10,000 to £20,000 per applicant, the BBC reported (see Care-worker and Skilled Worker visa) [XK0090, XK0096, XK0093, XK0097].",
+  "problem": "£10,000 to £20,000 is one network's charge (XK0097) stated as the general price, contradicting 'up to £17,000' (XK0093) used in In one minute; XK0090 says brokers 'working as' recruitment agents, not 'posing as'; BBC attribution missing."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-kingdom/doc.md",
+  "section": "What you pay, and what you earn and keep",
+  "old_str": "many now choose other countries, Global Admission's student adviser for the Sylhet region said in October 2026 [XK0068].",
+  "new_str": "many now choose other countries, the Sylhet-region student adviser at Global Admission, a UK student-recruitment firm, said in October 2026 [XK0068].",
+  "problem": "First use of Global Admission in the doc is unexplained (XK0065 describes it as a UK student-recruitment firm)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-kingdom/doc.md",
+  "section": "What you pay, and what you earn and keep",
+  "old_str": "- **Certificate of sponsorship for a work visa:** free to the worker; victims of the care-visa fraud paid £8,000 to £17,000 for fake ones (see Fake sponsorship certificates) [XK0093, XK0101, XK0104].",
+  "new_str": "- **Certificate of sponsorship for a work visa:** free to the worker; victims of the care-visa fraud reported by the BBC paid from £8,000 to as much as £20,000 for fake ones (see Fake sponsorship certificates) [XK0093, XK0101, XK0104, XK0097].",
+  "problem": "Range £8,000-£17,000 contradicts the doc's own Fake sponsorship certificates section, where Raza's network charged £10,000 to £20,000 per applicant (XK0097)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-kingdom/doc.md",
+  "section": "What you pay, and what you earn and keep",
+  "old_str": "a BBC investigation found one firm charging up to £7,000 for a fake claim",
+  "new_str": "a BBC investigation reported allegations that one firm charged up to £7,000 for a fake claim",
+  "problem": "XK0140: the firm 'was alleged' to charge up to £7,000; the allegation was stated as a finding."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-kingdom/doc.md",
+  "section": "What people believe, and the facts",
+  "old_str": "paid-for certificates in the BBC's investigation were mostly fake and were cancelled by the Home Office [XK0096, XK0098].",
+  "new_str": "in one network the BBC investigated, 86 of 141 paid-for certificates were fake and refused by the Home Office [XK0096, XK0098].",
+  "problem": "XK0098 covers one network (Raza's), not the whole investigation; 'mostly fake' generalises 86 of 141 to all paid-for certificates."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-kingdom/doc.md",
+  "section": "Student visa",
+  "old_str": "The student visa is the main legal route in this reporting, and it is getting harder for Bangladeshis [XK0053].",
+  "new_str": "The student visa is getting harder for Bangladeshis to get, as universities withdraw offers to avoid losing their sponsor licence [XK0053].",
+  "problem": "'Main legal route in this reporting' is the writer's own characterisation, not supported by XK0053."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-kingdom/doc.md",
+  "section": "Why universities are turning Bangladeshis away",
+  "old_str": "UKVI's Basic Compliance Assessment (its yearly test of universities that sponsor foreign students)",
+  "new_str": "UKVI's Basic Compliance Assessment (its test of universities that sponsor foreign students)",
+  "problem": "'Yearly' is not in XK0057 or the source article."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-kingdom/doc.md",
+  "section": "Step 1: Get an offer and a CAS",
+  "old_str": "2. Expect the university to check everything before it issues the CAS. Russell Group universities (an association of 24 leading UK universities) add an extra approval step and a mandatory review by a second person [XK0046, XK0048]. They check:",
+  "new_str": "2. Russell Group universities (an association of 24 leading UK universities) check applications before they issue the CAS, with an extra approval step and a mandatory review by a second person [XK0046, XK0048]. They check:",
+  "problem": "'Expect the university to check everything' generalises the Russell Group's own checks (XK0048-50) to every university, and is the writer's advice."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-kingdom/doc.md",
+  "section": "Step 2: Apply for the visa",
+  "old_str": "In the September 2026 intake many students of the recruitment firm Global Admission were called; once the university learned of the interview it reassessed the application and withdrew its sponsorship, which happened to about 20 of the firm's students [XK0066].",
+  "new_str": "In the September 2026 intake many of Global Admission's students were called, the firm's consultant said; once the university was told of the interview it reassessed the application and withdrew its sponsorship, which happened to about 20 of the firm's students [XK0066].",
+  "problem": "XK0066 is the consultant's own account; the attribution was dropped so it reads as established."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-kingdom/doc.md",
+  "section": "Step 3: Set up your e-visa before you fly",
+  "old_str": "UKVI officers give the latest on the visa process and take questions, alongside universities, BUILA (the British Universities International Liaison Association) and current students and graduates [XK0110, XK0112].",
+  "new_str": "UKVI representatives give the latest on the visa process and take questions, alongside universities and BUILA (the British Universities International Liaison Association) [XK0110, XK0112].",
+  "problem": "'Current students and graduates' is in the source (pa-2025-07-26, para 'যুক্তরাজ্যে অধ্যয়নরত বর্তমান শিক্ষার্থী ও অ্যালামনাই') but in no cited fact; log a fact to restore it. 'Officers' vs 'representatives' (প্রতিনিধি)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-kingdom/doc.md",
+  "section": "Size",
+  "old_str": "- **Commonwealth Scholarships:** 1,867 Bangladeshis since 1960, 26 in 2024 [XK0022, XK0020].",
+  "new_str": "- **Commonwealth Scholarships:** 1,867 Bangladeshis since 1960 (scholarships or fellowships), 26 in 2024 [XK0022, XK0020].",
+  "problem": "XK0022's 1,867 counts Commonwealth Scholarships or Fellowships."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-kingdom/doc.md",
+  "section": "Commonwealth Scholarship",
+  "old_str": "Commonwealth Scholarships pay for Bangladeshis to study for a master's degree at UK universities, funded by the UK government through the Commonwealth Scholarship Commission (CSC) [XK0022, XK0024].",
+  "new_str": "Commonwealth Scholarships, funded by the UK government through the Commonwealth Scholarship Commission (CSC), pay for Bangladeshis to study at UK universities; the 2024 awards were for master's degrees [XK0022, XK0024].",
+  "problem": "Lead says the scheme is for a master's degree, but the same section describes a Commonwealth PhD call (XK0078); XK0024 is about the 2024 awards only."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-kingdom/doc.md",
+  "section": "Commonwealth Scholarship",
+  "old_str": "1,867 have received one since 1960 [XK0020, XK0022].",
+  "new_str": "1,867 have received a Commonwealth Scholarship or Fellowship since 1960 [XK0020, XK0022].",
+  "problem": "XK0022's 1,867 includes fellowships."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-kingdom/doc.md",
+  "section": "Visa fraud and the 10-year ban",
+  "old_str": "**Frauds the UK has cracked down on before:**",
+  "new_str": "**Abuses of the UK system exposed before:**",
+  "problem": "XK0126 and its source list past abuses that 'came to light'; nothing says the UK cracked down on them."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-kingdom/doc.md",
+  "section": "Fake sponsorship certificates",
+  "old_str": "The named cases are Indian students:",
+  "new_str": "The named cases are a broker's network and two Indian students:",
+  "problem": "Lead is not true of every item: the first bullet is Taimur Raza's network (a Pakistani broker), not an Indian student."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-kingdom/doc.md",
+  "section": "Fake sponsorship certificates",
+  "old_str": "said Luke Piper of the Work Rights Centre, a UK charity;",
+  "new_str": "said Luke Piper, head of immigration at the Work Rights Centre;",
+  "problem": "'A UK charity' is not in XK0106 or the source; the source gives his title."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-kingdom/doc.md",
+  "section": "False asylum stories and the advisers who sell them",
+  "old_str": "Downing Street said the people named by the BBC were under investigation [XK0127].",
+  "new_str": "In April 2026, after the BBC's investigation, Downing Street said the people named in its report were under investigation [XK0127].",
+  "problem": "XK0127 is from the April 2026 article, not the October raids; placed in the Aponjon paragraph without a date it reads as a statement about the Aponjon suspects (two events merged)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-kingdom/doc.md",
+  "section": "Crossing the Channel",
+  "old_str": "a large part of the Bangladeshis who entered Italy irregularly in 2023 then tried to reach the UK",
+  "new_str": "a large part of the Bangladeshis who entered Italy irregularly recently tried to reach the UK",
+  "problem": "'In 2023' is not in XK0009 (it says 'recently'); the year comes from an uncited neighbouring sentence of the article."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/united-kingdom/doc.md",
+  "section": "Removal to Bangladesh",
+  "old_str": "The UK government had also agreed to send a large share of irregular arrivals to Rwanda while their cases ran in the UK; in May 2024 it was not known whether Bangladeshis would be among them [XK0012, XK0017].",
+  "new_str": "The UK government had also agreed with Rwanda to send a large share of irregular arrivals there while their cases ran in the UK, and it was not known whether Bangladeshis would be among them, the North South University researchers wrote in May 2024 [XK0012, XK0017].",
+  "problem": "Both facts are the researchers' statements (XK0012, XK0017); the attribution was dropped."
+ }
+]

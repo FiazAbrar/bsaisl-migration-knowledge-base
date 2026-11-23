@@ -1,0 +1,436 @@
+{
+ "articles": [
+  {
+   "article_id": "dbd99fef-de7e-4368-b6f2-817d991797a4",
+   "used": true,
+   "fact_ids": [
+    "XU0001"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "49d51e2c-16a7-4691-872d-7e3e7c1a26bc",
+   "used": true,
+   "fact_ids": [
+    "XU0002",
+    "XU0003",
+    "XU0004",
+    "XU0005",
+    "XU0006",
+    "XU0127"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "28e63aa0-9e51-4287-b325-ce903077b42f",
+   "used": true,
+   "fact_ids": [
+    "XU0007",
+    "XU0008",
+    "XU0009",
+    "XU0010",
+    "XU0011",
+    "XU0012"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "9bed9c67-bf3c-4f25-9d0b-d7caa8a7142a",
+   "used": true,
+   "fact_ids": [
+    "XU0013",
+    "XU0014",
+    "XU0015",
+    "XU0016"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "03abede1-cb14-4c1b-b793-777fece6b59e",
+   "used": true,
+   "fact_ids": [
+    "XU0017",
+    "XU0018",
+    "XU0019",
+    "XU0126"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ea1c8cf8-dea9-4d95-9b1b-961480154aaf",
+   "used": true,
+   "fact_ids": [
+    "XU0020",
+    "XU0021",
+    "XU0022",
+    "XU0023",
+    "XU0024",
+    "XU0025",
+    "XU0026",
+    "XU0027"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "03fe0325-dec6-4e20-91c3-e62f6aad3465",
+   "used": true,
+   "fact_ids": [
+    "XU0028"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "dad572b3-9453-4c8b-aeaf-0b8f75da48b0",
+   "used": true,
+   "fact_ids": [
+    "XU0029",
+    "XU0030",
+    "XU0031"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "70d54d87-14ad-4f19-8d19-f9bda4289e67",
+   "used": true,
+   "fact_ids": [
+    "XU0032",
+    "XU0033",
+    "XU0034"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "4eedc88e-35c9-42d9-a01e-6d312cf6d896",
+   "used": true,
+   "fact_ids": [
+    "XU0035",
+    "XU0036",
+    "XU0037"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/money",
+     "claim": "According to the World Bank, Bangladesh was sixth among low- and middle-income countries for remittance in 2024, receiving USD 26.6 billion; India was first with USD 129 billion.",
+     "quote": "বিশ্বব্যাংকের তথ্যানুসারে, ২০২৪ সালে বিশ্বের নিম্ন ও মধ্যম আয়ের দেশগুলোর মধ্যে সবচেয়ে বেশি প্রবাসী আয় এসেছে ভারতে। সে বছর তারা পেয়েছে ১২৯ বিলিয়ন বা ১২ হাজার ৯০০ কোটি ডলার। বাংলাদেশের অবস্থান ছিল ষষ্ঠ। বাংলাদেশ পেয়েছে ২৬ দশমিক ৬ বিলিয়ন বা ২ হাজার ৬৬০ কোটি ডলার।"
+    },
+    {
+     "target": "global/money",
+     "claim": "Bangladesh received USD 24.53 billion in remittance in July-April FY2024-25, 28% more than the USD 19.11 billion a year earlier, according to Bangladesh Bank.",
+     "quote": "চলতি অর্থবছরের জুলাই-এপ্রিল সময়ে আয় এসেছে ২ হাজার ৪৫৩ কোটি ডলার, যা আগের অর্থবছরের একই সময়ের তুলনায় ২৮ শতাংশ বেশি। আগের অর্থবছরে জুলাই-এপ্রিল সময়ে আয় এসেছিল ১ হাজার ৯১১ কোটি ডলার।"
+    }
+   ]
+  },
+  {
+   "article_id": "d1dbab0e-5425-4db2-bca0-717566ba3ceb",
+   "used": true,
+   "fact_ids": [
+    "XU0038"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/money",
+     "claim": "Bangladesh received a record USD 3.29 billion in remittance in March 2025.",
+     "quote": "২০২৫ সালের মার্চে বাংলাদেশ রেকর্ড পরিমাণ ৩ দশমিক ২৯ বিলিয়ন বা ৩২৯ কোটি মার্কিন ডলার প্রবাসী আয় হিসেবে পেয়েছে।"
+    }
+   ]
+  },
+  {
+   "article_id": "fddc0adb-6e9a-4d5b-a8e4-d5f3f406c98f",
+   "used": true,
+   "fact_ids": [
+    "XU0039",
+    "XU0040",
+    "XU0041",
+    "XU0124"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/money",
+     "claim": "In January-March 2025 remittance came from the UK (USD 970 million), Malaysia (630 million), Kuwait (460 million), Oman (440 million), Italy (400 million) and Qatar (310 million).",
+     "quote": "যুক্তরাজ্য থেকে ৯৭ কোটি ডলার; মালয়েশিয়া থেকে ৬৩ কোটি ডলার; কুয়েত থেকে ৪৬ কোটি ডলার; ওমান থেকে ৪৪ কোটি ডলার; ইতালি থেকে ৪০ কোটি ডলার এবং কাতার থেকে এসেছে ৩১ কোটি ডলার।"
+    },
+    {
+     "target": "global/money",
+     "claim": "Total remittance in January-March 2025 was USD 8.01 billion against USD 6.27 billion a year earlier, growth of about 28%.",
+     "quote": "গত জানুয়ারি–মার্চ প্রান্তিকে দেশে সব মিলিয়ে প্রবাসী আয় এসেছে ৮০১ কোটি ডলার। গত বছরের একই সময়ে এসেছিল ৬২৭ কোটি ডলার। সেই হিসাবে গত বছরের তুলনায় চলতি বছরের প্রথম তিন মাসে প্রবাসী আয়ে প্রবৃদ্ধি হয়েছে প্রায় ২৮ শতাংশ।"
+    },
+    {
+     "target": "global/money",
+     "claim": "Bankers attribute the rise in legal remittance to the narrowing gap between formal and informal dollar exchange rates.",
+     "quote": "ব্যাংক খাত–সংশ্লিষ্টরা বলছেন, মূলত ডলারের আনুষ্ঠানিক ও অনানুষ্ঠানিক বিনিময় হারের মধ্যে পার্থক্য কমে আসায় এই বৈধ পথে প্রবাসী আয় পাঠানো বেড়েছে।"
+    }
+   ]
+  },
+  {
+   "article_id": "592e7a70-60c7-41a3-a9e1-a920c4118155",
+   "used": true,
+   "fact_ids": [
+    "XU0042",
+    "XU0043"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "d97392f7-4c84-44db-ada0-f8327668aa97",
+   "used": true,
+   "fact_ids": [
+    "XU0044"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "392139df-f989-419a-99ae-5fc79af7ab1a",
+   "used": true,
+   "fact_ids": [
+    "XU0045",
+    "XU0046",
+    "XU0047",
+    "XU0123"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "bacd092f-dab2-4217-8fe6-4ea9494c1bb5",
+   "used": true,
+   "fact_ids": [
+    "XU0048",
+    "XU0049",
+    "XU0050",
+    "XU0051"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "1415b31b-e0c8-4212-b141-d6a5d4d5fc56",
+   "used": true,
+   "fact_ids": [
+    "XU0052",
+    "XU0053",
+    "XU0054"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "b1cd591e-5441-4e73-a1cf-6375f7a960d3",
+   "used": true,
+   "fact_ids": [
+    "XU0055",
+    "XU0056",
+    "XU0057",
+    "XU0058",
+    "XU0059"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "957286c0-0bb3-40a0-a809-6ea039f2ad22",
+   "used": true,
+   "fact_ids": [
+    "XU0060",
+    "XU0061",
+    "XU0062",
+    "XU0063",
+    "XU0064",
+    "XU0065",
+    "XU0066",
+    "XU0067",
+    "XU0068",
+    "XU0069",
+    "XU0070",
+    "XU0071",
+    "XU0072",
+    "XU0073"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "a5926a77-3603-4082-a07b-f45c56ec7c52",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "One-paragraph excerpt duplicating 957286c0-0bb3-40a0-a809-6ea039f2ad22 (analysts' view only).",
+   "held": []
+  },
+  {
+   "article_id": "74193c0c-3cc5-439b-bca4-dc1268104b52",
+   "used": true,
+   "fact_ids": [
+    "XU0074",
+    "XU0075"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/illegal-routes",
+     "claim": "Foreign Adviser Touhid Hossain said in January 2026 that a village youth who goes to Kenya on a tourist visa cannot really afford to go to Kenya or Turkey, and that until this is stopped people will keep dying in the Mediterranean.",
+     "quote": "গ্রামের যে ছেলেটি এখান থেকে ট্যুরিস্ট ভিসা (পর্যটন ভিসা) নিয়ে কেনিয়ায় যায়, তার তো আসলে কেনিয়াতে-তুরস্কে যাওয়ার সামর্থ্য নাই। এটা আমরা কেন থামাতে পারি না? এটা আমরা যতক্ষণ পর্যন্ত থামাতে না পারব, ততক্ষণ ভূমধ্যসাগরে মানুষ মরতে থাকবে।’"
+    }
+   ]
+  },
+  {
+   "article_id": "91a6dc51-09d1-4001-b77b-9e6f8cb8853a",
+   "used": true,
+   "fact_ids": [
+    "XU0076"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "990704cd-c436-4746-8660-55e1c48feba8",
+   "used": true,
+   "fact_ids": [
+    "XU0077",
+    "XU0078",
+    "XU0079",
+    "XU0080",
+    "XU0081",
+    "XU0082",
+    "XU0083",
+    "XU0084",
+    "XU0085"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "51c15ebb-5ad6-4642-9379-bd676b365a1d",
+   "used": true,
+   "fact_ids": [
+    "XU0086",
+    "XU0087",
+    "XU0088",
+    "XU0089",
+    "XU0090",
+    "XU0091",
+    "XU0092",
+    "XU0093",
+    "XU0094",
+    "XU0095",
+    "XU0096",
+    "XU0097",
+    "XU0098"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/money",
+     "claim": "Bangladesh received a record USD 32.82 billion in remittance in 2025.",
+     "quote": "গত বছর দেশের ইতিহাসে সর্বোচ্চ প্রবাসী আয় এসেছে। প্রবাসীরা পাঠিয়েছেন ৩ হাজার ২৮২ কোটি ডলার।"
+    }
+   ]
+  },
+  {
+   "article_id": "20de2808-3220-4689-95a4-89820f9bb1e5",
+   "used": true,
+   "fact_ids": [
+    "XU0099",
+    "XU0100"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "05364a84-3ae5-466d-82fd-1a2bfe6762fb",
+   "used": true,
+   "fact_ids": [
+    "XU0101",
+    "XU0102",
+    "XU0103",
+    "XU0104"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "55aef898-3b7b-4578-a1bd-44c74a678dbf",
+   "used": true,
+   "fact_ids": [
+    "XU0105",
+    "XU0106"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "8cb963a4-aba6-4a4d-a274-72e931a8f910",
+   "used": true,
+   "fact_ids": [
+    "XU0107",
+    "XU0108",
+    "XU0125"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "e6989c96-907b-434b-9c18-d24e173826f4",
+   "used": true,
+   "fact_ids": [
+    "XU0109"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "324e2104-b217-45ad-bb14-ab42c26cdc0d",
+   "used": true,
+   "fact_ids": [
+    "XU0110",
+    "XU0111",
+    "XU0112",
+    "XU0113",
+    "XU0114",
+    "XU0115",
+    "XU0116",
+    "XU0117"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "f3699f8c-957a-4c28-9c67-26b9ab43d83b",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Opinion on diaspora philanthropy and trade fairs; nothing about going to or living in the US; one Bangladesh-side fact held for global/money.",
+   "held": [
+    {
+     "target": "global/money",
+     "claim": "A Sylhet charity hospital could not receive a USD 50,000 donation from New York because it was not registered with the NGO Affairs Bureau, its founder wrote in September 2026.",
+     "quote": "সে সময় নিউইয়র্কে থাকা আমার বন্ধু, ফার্মাসিস্ট লিয়াকত, ৫০ হাজার ডলার অনুদান দিতে চেয়েছিলেন। কিন্তু কিডনি ফাউন্ডেশন এনজিওবিষয়ক ব্যুরোর নিবন্ধনভুক্ত না হওয়ায় অর্থটি পাঠানো সম্ভব হয়নি।"
+    }
+   ]
+  },
+  {
+   "article_id": "08f83df0-3e74-418e-81a4-65f91ec86441",
+   "used": true,
+   "fact_ids": [
+    "XU0118",
+    "XU0119",
+    "XU0120",
+    "XU0121",
+    "XU0122"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  }
+ ]
+}

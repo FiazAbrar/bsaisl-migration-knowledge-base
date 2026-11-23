@@ -291,7 +291,6 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 ### The Libya sea route
 
 - How many Bangladeshis died or went missing on the central Mediterranean in 2024, 2025 and 2026?
-- What are the street names in Bangla for the Libya route and for the "game house"?
 
 - What are the Bangladesh Embassy in Tripoli's emergency phone and WhatsApp numbers?
 - Does IOM Libya still take Bangladeshis for voluntary return in 2026, and how does a family register a relative?
@@ -316,6 +315,8 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 
 - Are deportees from Italy questioned or charged by Bangladesh police or immigration at Dhaka airport?
 - Does the Bangladesh Embassy in Rome issue travel documents for deportation, and how long does identification take?
+- Does the Wage Earners' Welfare Board pay its airport cheque and death grant for a migrant who died on an irregular crossing?
+- Does the government bring home at its own cost every body found in Libya or Tunisia after a shipwreck, or only when the family applies to the Foreign Ministry, and what papers does the application need?
 
 ## Going home without valid papers
 
@@ -400,4 +401,3 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 - What does the Milan Consulate charge for each certificate and for a power of attorney, and how many working days does each take?
 
 - Does the Rome Embassy's labour welfare wing take unpaid-wage complaints against Italian employers, and what does it do with them?
-

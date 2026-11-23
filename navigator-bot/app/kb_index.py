@@ -178,9 +178,9 @@ def build(kb: Path | None = None, extra_meta: dict | None = None) -> dict:
     """Index the guides in kb (default: KB_DIR or the repository this bot sits in)."""
     kb = kb or _kb_dir()
     docs = [(p.parent.name, p) for p in sorted((kb / "countries").glob("*/doc.md"))]
-    for shared in ("agencies", "cross-country"):  # guides that apply to every country
-        if (kb / shared / "doc.md").exists():
-            docs.append((shared, kb / shared / "doc.md"))
+    if (kb / "agencies" / "doc.md").exists():  # guides that apply to every country
+        docs.append(("agencies", kb / "agencies" / "doc.md"))
+    docs += [(p.parent.name, p) for p in sorted((kb / "global").glob("*/doc.md"))]
 
     DB_PATH.parent.mkdir(parents=True, exist_ok=True)
     tmp = DB_PATH.with_suffix(".building")

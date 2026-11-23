@@ -10,11 +10,14 @@ These are the questions the Japan migration guide can't yet answer, grouped by t
 - Designated Activities covers many situations: how many of the 821 Bangladeshis on it are job-seeking graduates, and how many are refused refugee claimants on temporary permission?
 - How many Vietnamese and Indonesians held technical intern and SSW status at the end of 2025, and what do they pay to come, for comparison with Bangladesh?
 - Did Japan or Bangladesh suspend departures to Japan in 2020-21, and when did they resume?
-- Has Bangladesh signed the cooperation document Japan requires for ESD, and when will Bangladesh's ESD sending organisations be approved?
 - What do private Japanese language centres in Dhaka charge for an N4 or JFT-Basic course in 2026, and what do they promise about jobs?
 - Which Bangladeshi agencies actually sent SSW and TITP workers in 2025-26, and how many each?
 - Which government circular sets the Tk 148,500 Japan cost, what does it cover, and does it apply to SSW, TITP or both?
 - What does a Bangladeshi SSW or TITP worker typically pay in all in 2026 (course, tests, agency, medical, ticket), and how much of it is borrowed?
+- When will Japan publish the final list of Bangladesh's ESD sending organisations?
+- Does the Bangladesh-Japan EPA signed in February 2026 open a nurse or caregiver route like the Philippines' EPA?
+- Has Sapporo's special visa for foreign engineers been introduced, under what name, and what does it require?
+- Has Watami Group opened its driving school in Bangladesh, where, and does it lead to the SSW automobile transportation test?
 
 ## Visas not open to Bangladeshis
 
@@ -31,12 +34,12 @@ These are the questions the Japan migration guide can't yet answer, grouped by t
 - Who runs the building cleaning and automobile transportation SSW tests in Dhaka, where, at what fee, and how does a worker book?
 - Does ISA or the Japanese Embassy require a police clearance certificate for an SSW COE or visa, or do only some employers ask for it?
 - Where is the official list of agencies the Ministry has approved for Japan SSW, and does BMET's OEP show which agency holds an attested Japan demand letter?
-- What are the Japan Cell's phone number, email and office address?
 - Which Japanese job portals or matching services do Bangladeshi SSW workers actually find employers through, and are any run or approved by a Japanese ministry?
 - How long is a COE valid for an SSW visa application, and what happens if it expires before the visa is issued?
 - What do Japan-bound SSW workers report being charged by language schools and agencies in 2026, and for what?
 - Has the Labour Welfare Wing in Tokyo recovered unpaid wages for any SSW worker, and how long did it take?
 - Which email does the labour wing answer now: fstokyo@probashi.gov.bd, given on OTIT's list, or fslabor@mofa.gov.bd, given on the embassy's labour wing page?
+- What are the Japan Cell's phone number, email and office address, and does it take enquiries from individual workers?
 
 ## Work visa: Technical Intern Training (TITP) and the new Employment for Skill Development system
 
@@ -44,6 +47,7 @@ These are the questions the Japan migration guide can't yet answer, grouped by t
 - Is the Ministry's 2019 zero-cost TITP guideline still in force, what fee in taka does it set, and what do trainees really pay?
 - What did BOESL's September 2026 caregiver intern call require, what does BOESL charge, and how does a candidate apply?
 - Has Bangladesh's ESD MOC been published in English, and does it set a lower fee cap than 2 months' salary?
+- Has anyone gone to Japan under the Onodera User Run MoU, where is its training held, and how does a worker apply?
 
 ## Living and working in Japan (SSW workers and technical interns)
 
@@ -64,6 +68,7 @@ These are the questions the Japan migration guide can't yet answer, grouped by t
 - What do brokers charge Bangladeshi SSW workers in Japan to find a transfer job?
 - Under ESD, must a worker's own-choice transfer stay within the same job category ("gyōmu kubun") of the same field?
 - How much do agents or administrative scriveners in Japan or Dhaka charge Bangladeshi workers to claim the pension refund and tax refund, and how long does payment to a Bangladeshi bank take?
+- How many direct Biman Dhaka-Narita flights a week run in late 2026, and which connecting routes do Bangladeshi workers in Japan mostly use?
 
 ## Skilled and professional visas
 
@@ -109,6 +114,7 @@ These are the questions the Japan migration guide can't yet answer, grouped by t
 - How long is the job-hunting Designated Activities stay, and how many times can it be renewed in 2026?
 - What share of Bangladeshi language-school graduates go on to a vocational school, a university or a job?
 - Does the Tokyo embassy's Labour Welfare Wing take complaints from students about employers or schools, and what does it do with them?
+- When does the Ministry of Education open MEXT nominations for 2027, and through which portal?
 
 ## Transit
 

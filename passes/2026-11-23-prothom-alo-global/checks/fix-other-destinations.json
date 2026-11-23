@@ -1,0 +1,107 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/other-destinations/doc.md",
+  "section": "In one minute",
+  "old_str": "In the one South Africa case reported, brokers took an 18-year-old overland through Ethiopia and Zimbabwe and he died on arrival in February 2026 [GO0212, GO0213, GO0193].",
+  "new_str": "In one South Africa case, brokers took an 18-year-old overland through Ethiopia and Zimbabwe and news of his death came the night he arrived, in February 2026 [GO0212, GO0213, GO0193].",
+  "problem": "The South Africa section now reports two cases (Fahad, and the July 2026 Queenstown fire that killed six Bangladeshis), so 'the one South Africa case reported' is false; GO0193 says news of the death came that night, not that he died on arrival."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/other-destinations/doc.md",
+  "section": "In one minute",
+  "old_str": "Spain's 2026 regularisation could cover about 20,000 Bangladeshis who arrived before 31 December 2025 [GO0155]",
+  "new_str": "Spain's 2026 regularisation could cover about 20,000 Bangladeshis who arrived before 1 January 2026 [GO0155, GO0349]",
+  "problem": "Contradicts the Spain section, which gives the approved condition as entry before 1 January 2026 (GO0349, April 2026); the 31 December 2025 cut-off is from the earlier February 2026 report."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/other-destinations/doc.md",
+  "section": "In one minute",
+  "old_str": "Australia and Denmark tightened student rules in 2025-26 and named family members and course-hopping as targets, Denmark naming Bangladesh and Nepal outright,",
+  "new_str": "Australia and Denmark tightened student rules in 2025-26; both limited family members, Australia also targeted course-hopping, and Denmark named Bangladesh and Nepal outright,",
+  "problem": "Reads as if both countries named course-hopping; only Australia's rules (GO0255) do. Denmark's measures (GO0132) target family numbers and entry to the labour market."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/other-destinations/doc.md",
+  "section": "Australia > Is it open, and how people go",
+  "old_str": "Bangladeshis go to Australia mainly as students: Australia granted student visas to more than 166,000 of 179,000 applicants (all nationalities) in 2022-23 [GO0003].",
+  "new_str": "Australia granted student visas to more than 166,000 of 179,000 applicants (all nationalities) in 2022-23 [GO0003].",
+  "problem": "'Bangladeshis go to Australia mainly as students' is not supported by GO0003 (an all-nationalities student-visa count) or any cited fact; writer's own conclusion."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/other-destinations/doc.md",
+  "section": "Australia > Is it open, and how people go",
+  "old_str": "IELTS must be at least 6.5 with no band below 6 [GO0326, GO0327].",
+  "new_str": "IELTS (the International English Language Testing System) must be at least 6.5 with no band below 6 [GO0326, GO0327].",
+  "problem": "IELTS not explained at first use in the doc."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/other-destinations/doc.md",
+  "section": "Ireland > Is it open, and how people go",
+  "old_str": "IELTS of at least 7.0 or OET grade B is compulsory",
+  "new_str": "IELTS of at least 7.0 or OET (Occupational English Test) grade B is compulsory",
+  "problem": "OET not explained at first use."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/other-destinations/doc.md",
+  "section": "Germany > Is it open, and how people go",
+  "old_str": "for skilled people from outside the EU, EEA and Switzerland to come and look for a job [GO0063].",
+  "new_str": "for skilled people from outside the EU, the EEA (European Economic Area) and Switzerland to come and look for a job [GO0063].",
+  "problem": "EEA not explained at first use."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/other-destinations/doc.md",
+  "section": "Iraq > Is it open, and how people go",
+  "old_str": "Since 4 November 2026 BMET clears no one for Iraq without the Ministry's recruitment permission (see \"Why won't BMET clear workers for some countries?\" in the Frequently asked questions about going abroad doc).",
+  "new_str": "Whether BMET now clears workers for Iraq: see \"Why won't BMET clear workers for some countries?\" in the Frequently asked questions about going abroad doc.",
+  "problem": "States a dated fact with no citation in this doc (it rests on F0187 in the FAQ, not logged here); make it a pointer or log the fact."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/other-destinations/doc.md",
+  "section": "South Africa > What goes wrong",
+  "old_str": "He reached Musina on 15 February and died that night [GO0175, GO0193].",
+  "new_str": "He reached Musina on 15 February, and news of his death came by phone that night [GO0175, GO0193].",
+  "problem": "GO0193 says news of the death came that night; the time of death is not given."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/other-destinations/doc.md",
+  "section": "Bahrain > Help and contacts",
+  "old_str": "The embassy in Manama holds weekend consular camps: on 24 April 2026 in Hamad Town",
+  "new_str": "The embassy in Manama held a consular camp on a weekly holiday: on 24 April 2026 in Hamad Town",
+  "problem": "Generalises one reported camp (GO0196) into a regular practice; workers there asked for more camps (GO0184), which suggests they are not routine."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/other-destinations/doc.md",
+  "section": "France > What goes wrong",
+  "old_str": "Authorities told foreign residents to carry proof of legal papers and avoid Bastille, République, Nation and Les Halles [GO0293, GO0294].",
+  "new_str": "Authorities told foreign residents to carry proof of legal papers, to avoid protest centres and large crowds, and to take care around Bastille, République, Nation and Les Halles [GO0293, GO0294].",
+  "problem": "GO0293 says take care in those four areas, not avoid them; the 'avoid' advice (GO0294) is for protest centres and crowds."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/other-destinations/doc.md",
+  "section": "Portugal > Is it open, and how people go",
+  "old_str": "The Casa do Bangladesh organisation said the embassy and government had been told [GO0146].",
+  "new_str": "The Casa do Bangladesh organisation said the matter had come to the attention of the Bangladesh embassy and government [GO0146].",
+  "problem": "GO0146 says the matter had come to their attention, not that anyone told them."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/other-destinations/doc.md",
+  "section": "Egypt > Is it open, and how people go",
+  "old_str": "Applicants need basic Arabic (proficiency gets priority) and ministry-attested copies of their latest certificate, birth registration, police clearance, a doctor's fitness certificate and a negative PCR test, plus six photos and a passport valid six months [GO0297, GO0298, GO0299].",
+  "new_str": "Applicants need basic Arabic (proficiency gets priority); the latest certificate, police clearance, a doctor's fitness certificate and a negative PCR test, each attested by the ministry; the original birth registration, showing the mother's name and nationality and attested by the ministry; six photos; and the original passport, valid at least six months [GO0297, GO0298, GO0299].",
+  "problem": "GO0298 requires the original birth registration (with mother's name and nationality) and the original passport, not copies."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/other-destinations/doc.md",
+  "section": "Thailand > Is it open, and how people go",
+  "old_str": "Bangladeshis were looking to Thailand for travel and treatment [GO0091].",
+  "new_str": "Bangladeshis were looking elsewhere for travel, shopping and treatment [GO0091].",
+  "problem": "GO0091 says Bangladeshis were looking for alternatives; it does not name Thailand."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/other-destinations/doc.md",
+  "section": "Indonesia > What goes wrong",
+  "old_str": "In early September 2026 Indonesia's navy detained 16 migrants,",
+  "new_str": "On Monday 31 August 2026 Indonesia's navy detained 16 migrants,",
+  "problem": "GO0261 (report of Friday 4 September 2026) says the operation was 'last Monday', i.e. 31 August 2026, not early September."
+ }
+]

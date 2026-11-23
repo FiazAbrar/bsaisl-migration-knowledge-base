@@ -1,0 +1,305 @@
+[
+ {
+  "held_id": "H-services-1",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GV0190"
+  ],
+  "note": "Same 5-6 May 2026 Badabon Sangho/Prothom Alo roundtable; GV0190 already gives the special returnee fund and the legal-firms plan (Plans announced in 2026; While abroad)."
+ },
+ {
+  "held_id": "H-services-2",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0270"
+  ],
+  "note": "Coming home > Government and BRAC reintegration projects; report spells the project 'RACE', kept in quotes (probably RAISE, see notes)."
+ },
+ {
+  "held_id": "H-services-3",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0271"
+  ],
+  "note": "Coming home > Plans announced in 2026, with a Need to know."
+ },
+ {
+  "held_id": "H-services-4",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0272",
+   "GV0274",
+   "GV0277",
+   "GV0275",
+   "GV0276"
+  ],
+  "note": "New section Help for the family at home > If a husband is violent at home (steps plus court orders)."
+ },
+ {
+  "held_id": "H-services-5",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0273"
+  ],
+  "note": "Step 2 of the same section; also who may apply on her behalf."
+ },
+ {
+  "held_id": "H-services-6",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0278",
+   "GV0279",
+   "GV0280",
+   "GV0281"
+  ],
+  "note": "Coming home > Farming after return: two cases (renamed from 'Help from NGO farm projects: one case'); upazila agriculture office added as the how."
+ },
+ {
+  "held_id": "H-services-7",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0282"
+  ],
+  "note": "While abroad > In a war or disaster."
+ },
+ {
+  "held_id": "H-services-8",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0283"
+  ],
+  "note": "While abroad > In a war or disaster."
+ },
+ {
+  "held_id": "H-services-9",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0284",
+   "GV0285"
+  ],
+  "note": "While abroad > In a war or disaster; control room ran 10-16 March 2026, 8 am-8 pm."
+ },
+ {
+  "held_id": "H-services-10",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0286"
+  ],
+  "note": "If a worker dies abroad > What one family got. Also confirms the Tk 35,000 burial payment in 2026 (relevant to the FAQ's Tk 35,000 vs 25,000 Need to know)."
+ },
+ {
+  "held_id": "H-services-11",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0287"
+  ],
+  "note": "While abroad > In a war or disaster."
+ },
+ {
+  "held_id": "H-services-12",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0288"
+  ],
+  "note": "In one minute and In a war or disaster (Iran evacuations); consistent with Illegal routes doc (186 on the Baku flight)."
+ },
+ {
+  "held_id": "H-services-13",
+  "outcome": "wrong doc",
+  "fact_ids": [],
+  "note": "BOESL Turkey textile recruitment (Feb 2024): belongs in global/faq 'Can I go through the government agency, BOESL?' (or a Turkey section in other-destinations)."
+ },
+ {
+  "held_id": "H-services-14",
+  "outcome": "wrong doc",
+  "fact_ids": [],
+  "note": "Same as H-services-13 (March 2024 call, USD 470/month, Tk 56,350 pay order plus Turkish visa fee): global/faq BOESL question."
+ },
+ {
+  "held_id": "H-services-15",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0289",
+   "GV0290"
+  ],
+  "note": "Iran evacuation list, June 2025. Numbers not printed: stale crisis lines, and the article's first embassy number has 13 digits (likely misprint; held claim also dropped a digit)."
+ },
+ {
+  "held_id": "H-services-16",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0291"
+  ],
+  "note": "Iran evacuation list, June 2025."
+ },
+ {
+  "held_id": "H-services-17",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0292"
+  ],
+  "note": "Iran evacuation list, June 2025. The Bandar Abbas line was left out (no action or route)."
+ },
+ {
+  "held_id": "H-services-18",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0293",
+   "GV0294",
+   "GV0295",
+   "GV0296"
+  ],
+  "note": "Iran evacuation list, June 2025: register with the embassy, who went first, the Mirjaveh-Taftan-Karachi-Dubai route."
+ },
+ {
+  "held_id": "H-services-19",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0297",
+   "GV0298",
+   "GV0299"
+  ],
+  "note": "Iran evacuation list, March 2026."
+ },
+ {
+  "held_id": "H-services-20",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0300",
+   "GV0301"
+  ],
+  "note": "While abroad > In a war or disaster (An industrial disaster: Russia)."
+ },
+ {
+  "held_id": "H-services-21",
+  "outcome": "duplicate",
+  "fact_ids": [],
+  "note": "Covered by global/faq CQ0240 ('How is the body brought home?', The numbers); this doc points to the FAQ for death payments and repatriation."
+ },
+ {
+  "held_id": "H-services-22",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GV0023"
+  ],
+  "note": "Tk 35,000 burial cash, insurance and compensation via the embassy are in the FAQ (F0328, F0324, F0331), which this doc links to; the airport burial grant is GV0023 here."
+ },
+ {
+  "held_id": "H-services-23",
+  "outcome": "wrong doc",
+  "fact_ids": [],
+  "note": "Body counts (4,813 in 2024; about 38,000 in 2015-2024, mostly under 40): belongs in global/faq 'How is the body brought home?' under The numbers."
+ },
+ {
+  "held_id": "H-services-24",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0302"
+  ],
+  "note": "While abroad, first paragraph; attributed to a reader's column (no byline in the archive text)."
+ },
+ {
+  "held_id": "H-services-25",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0303"
+  ],
+  "note": "Coming home > Government and BRAC reintegration projects, with a Need to know on which programme pays Tk 13,500."
+ },
+ {
+  "held_id": "H-services-26",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0304",
+   "GV0305",
+   "GV0306",
+   "GV0307",
+   "GV0308"
+  ],
+  "note": "Same section; also logged BRAC's Prottasha project and two returnee cases from the article."
+ },
+ {
+  "held_id": "H-services-27",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0309",
+   "GV0311"
+  ],
+  "note": "If a worker dies abroad > When the family doubts the cause of death; RAMRU-NHRC dialogue, May 2025."
+ },
+ {
+  "held_id": "H-services-28",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0310"
+  ],
+  "note": "Same paragraph; added to the second post-mortem Need to know."
+ },
+ {
+  "held_id": "H-services-29",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0312"
+  ],
+  "note": "If a worker dies abroad, first paragraph."
+ },
+ {
+  "held_id": "H-services-30",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0313"
+  ],
+  "note": "When the family doubts the cause of death; attributed allegation."
+ },
+ {
+  "held_id": "H-services-31",
+  "outcome": "no usable fact",
+  "fact_ids": [],
+  "note": "One returnee's suicide (Qatar, April 2025); no service, route or mechanism a migrant could act on."
+ },
+ {
+  "held_id": "H-services-32",
+  "outcome": "no usable fact",
+  "fact_ids": [],
+  "note": "An MP saying a body-repatriation process exists; the process itself is in global/faq 'How is the body brought home?'."
+ },
+ {
+  "held_id": "H-services-33",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0314"
+  ],
+  "note": "Before you go > Training centres, with a Need to know."
+ },
+ {
+  "held_id": "H-services-34",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0315",
+   "GV0316",
+   "GV0317"
+  ],
+  "note": "While abroad > In a war or disaster; countries: Lebanon, Qatar, UAE, Bahrain, Kuwait, Iraq."
+ },
+ {
+  "held_id": "H-services-35",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0318"
+  ],
+  "note": "Coming home > Government and BRAC reintegration projects."
+ },
+ {
+  "money_doc_change": {
+   "section": "global/money/doc.md, 'The Probashi Card' (and the matching sentence in 'In one minute')",
+   "why": "The money doc's latest status is 31 Aug 2026 ('Janata Bank pilot due to start in September', GM0351) with a Need to know asking whether it started. Later reports: Prothom Alo 5 Sep 2026 says the card had not been introduced and was still at the preparation stage; on 13 Oct 2026 the state minister said it was being piloted in four to five countries. The services doc now carries only a short summary pointing to the money doc, so the money doc should hold the full account including these.",
+   "add_after_the_31_August_line": [
+    "Prothom Alo reported on 5 September 2026 that the card had not yet been introduced, unlike the government's Family card and Farmer card, and was still at the preparation stage, although the minister had announced in February 2026 that it would come soon. Source: pa-2026-09-05-qgoar1unuj (https://www.prothomalo.com/bangladesh/qgoar1unuj); quotes in services facts GV0234, GV0235.",
+    "On 13 October 2026 the state minister for expatriates' welfare, Md. Nurul Haque, said the card was being piloted in four to five countries, including Jordan, South Korea and several Middle Eastern countries, that it is planned to allow financial transactions and payments at home and abroad, and that card holders are planned to get a 3% incentive on remittances sent through legal channels, against 2.5% now. Source: pa-2026-10-13-12w6w1o0ym (https://www.prothomalo.com/bangladesh/12w6w1o0ym); quotes in services GV0268, GV0269 (also dalal-scams GS0073).",
+    "Optional, for completeness: Mahdi Amin, the Prime Minister's adviser, told an EU delegation on 10 June 2026 that an 'Expatriate card' was planned (pa-2026-06-10-72vsv7uhob, GV0206); the minister said on 30 August 2026 the card would be finalised under the government's 180-day programme (pa-2026-08-31-xr745r2u4c, GV0230); the 21 July 2026 civil aviation ministry meeting set out a special Biman ticket discount and Balaka lounge discount (policy decision taken), priority check-in and boarding, and a discount under consideration at Parjatan Corporation hotels (pa-2026-07-21-chrjiusr0h, GV0216-GV0220). The services doc keeps these airport benefits under its airport section."
+   ],
+   "need_to_know_change": "Replace 'Did the Janata Bank pilot start in September 2026, ...' with: 'Is the pilot the state minister described in October 2026 (Jordan, South Korea, Middle East) the Janata Bank debit card, who qualifies, where does a migrant or his family apply, what papers are needed, and what does it cost?'",
+   "in_one_minute": "Change 'was due to be piloted from September 2026' to say it had not been introduced by early September 2026 and that on 13 October 2026 the state minister said it was being piloted in four to five countries."
+  }
+ }
+]

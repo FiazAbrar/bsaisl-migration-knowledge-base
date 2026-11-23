@@ -1,0 +1,128 @@
+{
+ "articles": [
+  {
+   "article_id": "7cdb98ee-f0a0-4388-a3dc-345d7df3e410",
+   "used": true,
+   "fact_ids": [
+    "GF0064",
+    "GF0065"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "6aaf3590-845e-462e-91ef-6bd68a97570c",
+   "used": true,
+   "fact_ids": [
+    "GF0066",
+    "GF0067",
+    "GF0068",
+    "GF0069",
+    "GF0070",
+    "GF0071",
+    "GF0072",
+    "GF0073"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "400361fa-b337-44ed-a81b-51681099622b",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: party manifesto commentary; its 'about two lakh youth enter the labour market each year' conflicts with the doc's 20-22 lakh (GF0013) and looks misprinted.",
+   "held": []
+  },
+  {
+   "article_id": "4c9e94d4-67d5-4615-9209-7d183c6d02d7",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: a single road accident on the way to the airport.",
+   "held": []
+  },
+  {
+   "article_id": "c8e3a4bc-9604-4065-b6db-4611e04e1850",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: the committee only listed the Overseas Employment and Migrants (Amendment) and trafficking ordinances among those discussed; no outcome reported.",
+   "held": []
+  },
+  {
+   "article_id": "dcc780e6-8237-4ea6-9521-bbfd725ce20e",
+   "used": true,
+   "fact_ids": [
+    "GF0074"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "d7637b5d-acae-4152-9fb4-41f055e00058",
+   "used": true,
+   "fact_ids": [
+    "GF0075",
+    "GF0076",
+    "GF0077",
+    "GF0078",
+    "GF0079",
+    "GF0080",
+    "GF0081",
+    "GF0082",
+    "GF0083",
+    "GF0084",
+    "GF0085"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ddaa77e2-8d7a-419e-856e-4cf646a84555",
+   "used": true,
+   "fact_ids": [
+    "GF0086"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "30888d9a-c033-426c-8ec1-c6efbfef6a9f",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: the State Minister spoke on domestic politics; only a list of speakers.",
+   "held": []
+  },
+  {
+   "article_id": "82d06b15-594c-47ca-9b4c-fe3e5ba8e53a",
+   "used": true,
+   "fact_ids": [
+    "GF0087",
+    "GF0088",
+    "GF0089",
+    "GF0090"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "18e0af83-5ea1-4cde-9a32-02188ad2678c",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: historical foreign-policy column (BMET founded 1976; no bearing on a migrant's decisions).",
+   "held": []
+  },
+  {
+   "article_id": "b52b74a1-3841-469d-aa47-c81436768e1f",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: local political-crime investigation; two expatriate extortion cases in Raozan with no general rule or service.",
+   "held": []
+  },
+  {
+   "article_id": "03fe020f-3b98-4e39-ae7b-a6c9c5620ed3",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: opinion on diaspora identity.",
+   "held": []
+  }
+ ]
+}

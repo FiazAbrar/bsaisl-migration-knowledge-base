@@ -1,0 +1,9 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/malaysia/doc.md",
+  "section": "Militancy and terrorism charges",
+  "old_str": "- **Two more charged (August 2025):** in a Malaysian sessions court, Md Mamun Ali",
+  "new_str": "- **Two Bangladeshis charged (August 2025; Prothom Alo did not link them to the 36):** in a Malaysian sessions court, Md Mamun Ali",
+  "problem": "'Two more' under the lead 'What happened to those arrested' presents them as part of the 36 arrested in the April-June 2025 operations; the source (MP0772-MP0776) does not link them to those arrests, and Rifat Bishat's alleged offence is dated 10 July 2025, after them."
+ }
+]

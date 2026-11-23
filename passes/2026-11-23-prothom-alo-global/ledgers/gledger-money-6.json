@@ -1,0 +1,278 @@
+{
+ "articles": [
+  {
+   "article_id": "acc6497f-b465-4be2-9b3a-78ff76d56b7c",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no new usable fact: dollar at Tk 122 and the first-half FY 2025-26 total duplicate GM0262 and the monthly figures already in the doc",
+   "held": []
+  },
+  {
+   "article_id": "17ec4aae-1eda-4178-b4ce-cf19d5fa31ac",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of GM0257 (2025 total), GM0262 (Tk 122-123, Tk 128 peak), GM0269/GM0270 (monthly figures) and GM0271/GM0272 (election funding)",
+   "held": []
+  },
+  {
+   "article_id": "aa5b4c21-787f-4551-b5aa-10044b084968",
+   "used": true,
+   "fact_ids": [
+    "GM0273",
+    "GM0274",
+    "GM0275",
+    "GM0276",
+    "GM0277",
+    "GM0278"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "d60c9f57-7940-4c4c-ba58-a0864ef0cfd2",
+   "used": true,
+   "fact_ids": [
+    "GM0279",
+    "GM0280",
+    "GM0281",
+    "GM0282"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "b9c4037d-4153-4427-8f5d-80ac01ec237a",
+   "used": true,
+   "fact_ids": [
+    "GM0283",
+    "GM0284"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "188e9e63-5bdc-4068-a7bf-ac0c935dec6a",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate: early-February 2026 partial figure superseded by the full February figure GM0287",
+   "held": []
+  },
+  {
+   "article_id": "6bdb113e-832b-4c2e-8918-d6977545d56c",
+   "used": true,
+   "fact_ids": [
+    "GM0285",
+    "GM0286"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "cec76493-b08d-422f-8cb1-f15ebc0e97e9",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate: mid-February 2026 partial figure superseded by GM0287; election-funding claim duplicates GM0271",
+   "held": []
+  },
+  {
+   "article_id": "c313f148-e598-4d8c-a8df-01b51b4a514d",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of GM0270 (December 2025) and the half-year total; no other money fact",
+   "held": [
+    {
+     "target": "global/faq",
+     "claim": "MCCI reported that in October-December 2025 the number of workers going abroad fell 6.29% from a year earlier to 293,452.",
+     "quote": "এদিকে অক্টোবর-ডিসেম্বর প্রান্তিকে বিদেশে কর্মী পাঠানোর হার আগের বছরের একই সময়ের তুলনায় ৬ দশমিক ২৯ শতাংশ কমে ২ লাখ ৯৩ হাজার ৪৫২ জনে নেমেছে।"
+    }
+   ]
+  },
+  {
+   "article_id": "94f4e870-f318-485a-aeaa-4fc87b01e120",
+   "used": true,
+   "fact_ids": [
+    "GM0287"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "29e52b69-d58d-4485-bef4-ef263d56176b",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate: 24-day March 2026 partial figure superseded by GM0288; rate rise duplicates GM0290",
+   "held": []
+  },
+  {
+   "article_id": "464c5780-8415-4f7d-92d3-91143c8ab15c",
+   "used": true,
+   "fact_ids": [
+    "GM0288",
+    "GM0289",
+    "GM0290",
+    "GM0291"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "411ad7f9-dceb-4aa8-afe0-108b7893c4ed",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact (award ceremony for Pubali Bank)",
+   "held": []
+  },
+  {
+   "article_id": "cdeddef6-dd65-42ce-9c10-1a387999615d",
+   "used": true,
+   "fact_ids": [
+    "GM0292"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "0d432cd9-102d-421a-bbb0-88cc10fc7dc2",
+   "used": true,
+   "fact_ids": [
+    "GM0293",
+    "GM0294"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "32928ea9-9efe-4726-b09b-38fa0a9c48a0",
+   "used": true,
+   "fact_ids": [
+    "GM0295",
+    "GM0296"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "fb9fb022-2d6a-4085-a406-bda64b952e43",
+   "used": true,
+   "fact_ids": [
+    "GM0297",
+    "GM0298"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/dalal-scams",
+     "claim": "Selim Reza of North South University's Centre for Migration Studies wrote in May 2026 that a worker often spends Tk 3-8 lakh to go abroad, much of it going to brokers or unregulated agents.",
+     "quote": "বাংলাদেশ থেকে বিদেশে যেতে একজন শ্রমিককে প্রায়ই ৩-৮ লাখ টাকা পর্যন্ত খরচ করতে হয়। এই ব্যয়ের বড় অংশ যায় দালাল বা মধ্যস্বত্বভোগী বা অনিয়ন্ত্রিত এজেন্টদের হাতে, যারা কোনো জবাবদিহির মধ্যে থাকে না।"
+    }
+   ]
+  },
+  {
+   "article_id": "c2d2f5ff-1e5b-4d05-a63a-538474d4d2dd",
+   "used": true,
+   "fact_ids": [
+    "GM0299"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "032f2090-6665-488f-9d35-16706e6370fb",
+   "used": true,
+   "fact_ids": [
+    "GM0300",
+    "GM0301",
+    "GM0302",
+    "GM0303",
+    "GM0304",
+    "GM0321"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "f4ab8785-bcd2-4dea-ab38-7a85964dc86c",
+   "used": true,
+   "fact_ids": [
+    "GM0305",
+    "GM0306",
+    "GM0307"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/faq",
+     "claim": "The finance minister said in the 2026-27 budget speech (11 June 2026) that the government had begun moves to sign bilateral agreements with Russia, Portugal, Romania, Brazil, Greece, Serbia and North Macedonia as alternative labour markets.",
+     "quote": "বিকল্প শ্রমবাজার হিসেবে সরকার রাশিয়া, পর্তুগাল, রোমানিয়া, ব্রাজিল, গ্রিস, সার্বিয়া, নর্থ মেসেডোনিয়া—এই দেশগুলোর সঙ্গে ইতিমধ্যে দ্বিপক্ষীয় চুক্তি স্বাক্ষরের উদ্যোগ নিয়েছে।"
+    },
+    {
+     "target": "global/faq",
+     "claim": "He said the government had begun the process of reopening the long-closed Malaysia, Oman, UAE and Kuwait labour markets.",
+     "quote": "এ ছাড়া দীর্ঘদিন বন্ধ থাকার পর আবারও মালয়েশিয়া, ওমান, সংযুক্ত আরব আমিরাত ও কুয়েতের শ্রমবাজার খোলার প্রক্রিয়া শুরু করেছে সরকার।"
+    },
+    {
+     "target": "global/faq",
+     "claim": "The finance minister announced on 11 June 2026 that the existing 2.5% cash incentive for remittances through legal channels would continue (answers the FAQ's 2.5%-or-2% Need to know; newer than the ministry's June 2025 rejoinder CQ0203). Logged in the money doc as GM0307.",
+     "quote": "বৈধ চ্যানেলে প্রবাসী আয় পাঠানো উৎসাহিত করতে বিদ্যমান আড়াই শতাংশ নগদ প্রণোদনা অব্যাহত রাখার ঘোষণা দিয়েছেন অর্থমন্ত্রী।"
+    }
+   ]
+  },
+  {
+   "article_id": "c900da97-3b2a-44ad-b529-bde78be7ad26",
+   "used": true,
+   "fact_ids": [
+    "GM0308",
+    "GM0309",
+    "GM0310",
+    "GM0311",
+    "GM0312",
+    "GM0313"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ee80afb1-c766-4707-aafe-58845bccaf87",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate: 22-day June 2026 partial figure; monthly figures duplicate GM0300/GM0301",
+   "held": []
+  },
+  {
+   "article_id": "aa4b1867-97c2-42f2-ad45-751b6299b610",
+   "used": true,
+   "fact_ids": [
+    "GM0314",
+    "GM0315"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "26b6da20-63d2-485f-a95c-50f38eb7b712",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact for the money doc (column on press labelling of returnees detained at airports)",
+   "held": []
+  },
+  {
+   "article_id": "0b67564f-bf65-4dba-b021-a80912d15c04",
+   "used": true,
+   "fact_ids": [
+    "GM0316",
+    "GM0317",
+    "GM0318",
+    "GM0319",
+    "GM0320"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/services",
+     "claim": "According to the Wage Earners' Welfare Board, the bodies of 4,813 Bangladeshi migrant workers were returned from abroad in 2024, the most so far, and about 38,000 in 2015-2024, mostly under 40.",
+     "quote": "ওয়েজ আর্নার্স কল্যাণ বোর্ডের তথ্যানুযায়ী, ২০২৪ সালে বিদেশ থেকে ৪ হাজার ৮১৩ জন বাংলাদেশি অভিবাসী কর্মীর মরদেহ দেশে ফিরেছে, যা এ পর্যন্ত সর্বোচ্চ। ২০১৫ থেকে ২০২৪ সালের মধ্যে প্রায় ৩৮ হাজার অভিবাসী কর্মীর মরদেহ দেশে এসেছে; তাঁদের অধিকাংশই ছিলেন ৪০ বছরের কম বয়সী কর্মক্ষম তরুণ।"
+    }
+   ]
+  }
+ ]
+}

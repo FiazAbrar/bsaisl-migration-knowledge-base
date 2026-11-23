@@ -2,7 +2,7 @@
 
 # United Arab Emirates: migration guide
 
-Sources checked up to 8 Nov 2026.
+Sources checked up to 23 Nov 2026.
 
 How to go to the United Arab Emirates (UAE) on a Bangladeshi passport, visa by visa, step by step. \[3\] is an official source; \[N3\] is a news, NGO, research or guide source, listed under "Needs an official source"; a year, like \[N3 (2022)\], marks a source older than 2025. "Need to know" marks a point no source has yet confirmed. "You'll need:" lists what to have before starting a procedure.
 
@@ -176,6 +176,7 @@ Tk is the Bangladeshi taka (1 lakh is Tk 100,000); AED is the UAE dirham, conver
   - [20.1 Unmarried parents](#unmarried-parents)
 - [21 Sending money home](#sending-money-home)
   - [21.1 Saving at home: the Wage Earner Development Bond](#saving-at-home-the-wage-earner-development-bond)
+  - [21.2 Janata Bank in the UAE](#janata-bank-in-the-uae)
 - [22 Going home without valid papers](#going-home-without-valid-papers)
   - [22.1 Step 1: Get a passport or outpass](#step-1-get-a-passport-or-outpass)
   - [22.2 Step 2: Settle fines and status](#step-2-settle-fines-and-status)
@@ -186,20 +187,22 @@ Tk is the Bangladeshi taka (1 lakh is Tk 100,000); AED is the UAE dirham, conver
     - [22.5.2 What the family does](#what-the-family-does)
   - [22.6 If your family in Bangladesh asks for help](#if-your-family-in-bangladesh-asks-for-help)
   - [22.7 Bans after you leave](#bans-after-you-leave)
-- [23 If a worker dies, is injured or loses the job](#if-a-worker-dies-is-injured-or-loses-the-job)
-  - [23.1 Get Welfare Board membership if you have no BMET card](#get-welfare-board-membership-if-you-have-no-bmet-card)
-  - [23.2 If you are injured or fall ill at work](#if-you-are-injured-or-fall-ill-at-work)
-    - [23.2.1 In the UAE](#in-the-uae)
-    - [23.2.2 In Bangladesh](#in-bangladesh)
-  - [23.3 If a worker dies](#if-a-worker-dies)
-    - [23.3.1 In the UAE](#in-the-uae-1)
-    - [23.3.2 The family in Bangladesh](#the-family-in-bangladesh)
-  - [23.4 If you lose the job](#if-you-lose-the-job)
-  - [23.5 Claiming the BMET insurance (Jiban Bima)](#claiming-the-bmet-insurance-jiban-bima)
-- [24 Coming home](#coming-home)
-- [25 Contacts](#contacts)
-  - [25.1 In the UAE](#in-the-uae-2)
-  - [25.2 In Bangladesh](#in-bangladesh-1)
+- [23 If war or attacks reach the UAE](#if-war-or-attacks-reach-the-uae)
+- [24 If a worker dies, is injured or loses the job](#if-a-worker-dies-is-injured-or-loses-the-job)
+  - [24.1 Get Welfare Board membership if you have no BMET card](#get-welfare-board-membership-if-you-have-no-bmet-card)
+  - [24.2 If you are injured or fall ill at work](#if-you-are-injured-or-fall-ill-at-work)
+    - [24.2.1 In the UAE](#in-the-uae)
+    - [24.2.2 In Bangladesh](#in-bangladesh)
+  - [24.3 If a worker dies](#if-a-worker-dies)
+    - [24.3.1 In the UAE](#in-the-uae-1)
+    - [24.3.2 The family in Bangladesh](#the-family-in-bangladesh)
+    - [24.3.3 Cases](#cases)
+  - [24.4 If you lose the job](#if-you-lose-the-job)
+  - [24.5 Claiming the BMET insurance (Jiban Bima)](#claiming-the-bmet-insurance-jiban-bima)
+- [25 Coming home](#coming-home)
+- [26 Contacts](#contacts)
+  - [26.1 In the UAE](#in-the-uae-2)
+  - [26.2 In Bangladesh](#in-bangladesh-1)
 - [References](#references)
 
 <a id="background"></a>
@@ -221,17 +224,17 @@ By law a UAE job should cost the worker nothing: it starts with a MOHRE offer le
 Mostly closed. New work and visit visas for Bangladeshis have been restricted since July 2024, and the few work visas still issued slowed to almost nothing in October and November 2026 <sup>[N1](#n1), [10](#o10)</sup>. Who can still go: a worker whom a UAE employer still able to get permits for Bangladeshis names on a MOHRE work permit, in 2026 mostly through bulk recruitment of construction helpers, drivers, cleaners and masons, plus some skilled titles such as managers and accountants <sup>[6](#o6), [4](#o4)</sup>. Visit visas, including family visits, have been almost nil since October 2025 <sup>[N12](#n12)</sup>. Bangladeshis already working there who go home on leave risk having their residence visa cancelled, as has happened since July 2026 <sup>[N5](#n5)</sup>.
 
 **Visa by visa, November 2026** (details in each visa section):
-- **New work visa through a named employer recruiting in bulk:** the main route in 2026, alongside skilled titles such as Marketing Manager (988), Accountant (803) and Sales Manager (758) <sup>[4](#o4)</sup>. The largest 2026 clearance categories are construction helper (5,935), driver (2,591), cleaner (1,960), mason (1,756) and steel fixer (1,503), and 788 workers were cleared as delivery bike riders <sup>[4](#o4)</sup>. Dubai Taxi Company plans to hire 6,000 Bangladeshi drivers in 2026; Bangladeshis are already the largest group among its 15,000 drivers, about 8,000, and it has taken about 3,000 from Bangladesh since 2017 <sup>[N3](#n3)</sup>. A 2025 BMET permission letter for Transguard Group, Dubai, recruited helpers, cleaners, masons and steel fixers in the same way (see [Work visa: company worker](#work-visa-company-worker), [Step 1, item 3: Through a recruiting agency: find an agency that holds a UAE job order, then check its permission letter](#step-1-find-a-real-job-item-3)) <sup>[3](#o3)</sup>. The government's June 2026 budget speech says it has begun the process of reopening the UAE labour market <sup>[16](#o16)</sup>.
-- **New low-skilled work visa, individual:** restricted since July 2024 <sup>[N13](#n13)</sup>. A ministry official said no visit or work visas were issued in 2025, though BMET cleared 13,750 workers that year; the largest titles were cleaner (1,691), driver (1,252), accountant (1,157), helper (1,051) and manager (986) <sup>[N1](#n1), [17](#o17)</sup>.
+- **New work visa through a named employer recruiting in bulk:** the main route in 2026, alongside skilled titles such as Marketing Manager (988), Accountant (803) and Sales Manager (758) <sup>[4](#o4)</sup>. The largest 2026 clearance categories are construction helper (5,935), driver (2,591), cleaner (1,960), mason (1,756) and steel fixer (1,503), and 788 workers were cleared as delivery bike riders <sup>[4](#o4)</sup>. Dubai Taxi Company plans to hire 6,000 Bangladeshi drivers in 2026; Bangladeshis are already the largest group among its 15,000 drivers, about 8,000, and it has taken about 3,000 from Bangladesh since 2017 <sup>[N3](#n3)</sup>. In June 2024 the expatriates' welfare state minister had said Dubai Taxi would take at least 2,000 taxi and motorcycle drivers a year from Bangladesh, and that the UAE would take 1,000 motorcycle riders and 300 taxi drivers that year; in May 2024 he had met the heads of 16 UAE companies that recruit from Bangladesh, Dubai Taxi among them. The UAE ambassador said workers recruited from Bangladesh would be paid under UAE labour law <sup>[N13 (2024)](#n13)</sup>. On 13 October 2026 the UAE ambassador and the Prime Minister's adviser Mahdi Amin discussed creating taxi-driver and truck-driver jobs for Bangladeshis in the UAE and sending more skilled workers, according to Amin's office <sup>[N14](#n14)</sup>. A 2025 BMET permission letter for Transguard Group, Dubai, recruited helpers, cleaners, masons and steel fixers in the same way (see [Work visa: company worker](#work-visa-company-worker), [Step 1, item 3: Through a recruiting agency: find an agency that holds a UAE job order, then check its permission letter](#step-1-find-a-real-job-item-3)) <sup>[3](#o3)</sup>. The government's June 2026 budget speech says it has begun the process of reopening the UAE labour market <sup>[16](#o16)</sup>.
+- **New low-skilled work visa, individual:** restricted since July 2024 <sup>[N15](#n15)</sup>. A ministry official said no visit or work visas were issued in 2025, though BMET cleared 13,750 workers that year; the largest titles were cleaner (1,691), driver (1,252), accountant (1,157), helper (1,051) and manager (986) <sup>[N1](#n1), [17](#o17)</sup>.
 
   > **Need to know**
   > - Were the 13,750 workers BMET cleared for the UAE in 2025 on new UAE visas, on visas issued before the July 2024 restriction, or on skilled job titles?
 
-- **Skilled work visa:** in May 2025 MOHRE reactivated its online system for skilled Bangladeshi workers; what counts as skilled is under Work visa: company worker <sup>[N14](#n14)</sup>. Whether only some kinds of permit are being issued in 2026 is a Need to know under the Status line of Work visa: company worker.
-- **Visit visa:** almost none since October 2025, when travel agents called tourist and transit visas "almost zero"; in May 2025 the UAE Embassy in Dhaka had been issuing 30 to 50 a day <sup>[N12](#n12), [N14](#n14)</sup>. This includes family visits (see [Family visit visa](#family-visit-visa)).
+- **Skilled work visa:** in May 2025 MOHRE reactivated its online system for skilled Bangladeshi workers; what counts as skilled is under Work visa: company worker <sup>[N16](#n16)</sup>. Whether only some kinds of permit are being issued in 2026 is a Need to know under the Status line of Work visa: company worker.
+- **Visit visa:** almost none since October 2025, when travel agents called tourist and transit visas "almost zero"; in May 2025 the UAE Embassy in Dhaka had been issuing 30 to 50 a day <sup>[N12](#n12), [N16](#n16)</sup>. This includes family visits (see [Family visit visa](#family-visit-visa)).
 - **Residence visa of people now in Bangladesh on leave:** at risk of automatic cancellation; details under "Visas cancelled while home on leave" below <sup>[N5](#n5), [N11](#n11)</sup>.
 
-**Status on 8 November 2026:** clearances have collapsed. BMET cleared over 4,000 workers a month for the UAE in July to September 2026, then 951 in October and 63 in the first week of November <sup>[10](#o10)</sup>. The Expatriates' Welfare Minister says family, student, tourist and employment visas, and transfers of a visa from one company to another, have all been restricted or stalled since July 2024 <sup>[N13](#n13)</sup>. No published UAE ban exists <sup>[18](#o18)</sup>, and the year's total, 23,044 cleared from 1 January to 7 November 2026, came almost all before October: 22,030 had been cleared by the end of September <sup>[4](#o4), [N4](#n4)</sup>.
+**Status on 8 November 2026:** clearances have collapsed. BMET cleared over 4,000 workers a month for the UAE in July to September 2026, then 951 in October and 63 in the first week of November <sup>[10](#o10)</sup>. The Expatriates' Welfare Minister says family, student, tourist and employment visas, and transfers of a visa from one company to another, have all been restricted or stalled since July 2024 <sup>[N15](#n15)</sup>. No published UAE ban exists <sup>[18](#o18)</sup>, and the year's total, 23,044 cleared from 1 January to 7 November 2026, came almost all before October: 22,030 had been cleared by the end of September <sup>[4](#o4), [N4](#n4)</sup>.
 
 > **Need to know**
 > - Why did BMET clearances for the UAE fall from 4,442 in September 2026 to 951 in October: a new UAE restriction, flight disruption, or a pause in BMET processing?
@@ -240,14 +243,14 @@ Mostly closed. New work and visit visas for Bangladeshis have been restricted si
 
 #### 1.2.1 The channels
 
-- **A named employer recruiting through a licensed agency:** the main route in 2026, mostly bulk recruitment of low-skilled workers <sup>[4](#o4)</sup>. Dubai Taxi's 2026 drive went through three agencies, Al Anas Overseas, VIP Global and M Bahar Overseas, with screening at the Bangladesh-Korea Technical Training Centre from 18 May 2026 <sup>[N3](#n3)</sup>. How to find and check such a job order is under Work visa: company worker, [Step 1, item 3: Through a recruiting agency: find an agency that holds a UAE job order, then check its permission letter](#step-1-find-a-real-job-item-3).
-- **A visa found by a relative in the UAE:** the most common route before 2024; workers say it is safer than agents <sup>[N8](#n8), [N15 (2019)](#n15)</sup>. Employment visas for Bangladeshis have been restricted since July 2024 (see ["Is it open now, and who can go?"](#is-it-open-now-and-who-can-go)) <sup>[N13](#n13)</sup>.
+- **A named employer recruiting through a licensed agency:** the main route in 2026, mostly bulk recruitment of low-skilled workers <sup>[4](#o4)</sup>. Dubai Taxi's 2026 drive went through three agencies, Al Anas Overseas, VIP Global and M Bahar Overseas, with screening at the Bangladesh-Korea Technical Training Centre from 18 May 2026 <sup>[N3](#n3)</sup>; Prothom Alo's report of the expatriates' welfare minister's 17 May 2026 meeting with a Dubai Taxi delegation called Al Anas Overseas the only approved agency for sending workers to Dubai Taxi, and its representatives said they also wanted to take cleaners, technicians and mechanics <sup>[N17](#n17)</sup>. In August 2026 the expatriates' welfare minister said that for these 6,000 drivers the employer's representatives check the workers' training in Bangladesh and hire only when satisfied, a method he said cuts the scope for middlemen <sup>[N18](#n18)</sup>. How to find and check such a job order is under Work visa: company worker, [Step 1, item 3: Through a recruiting agency: find an agency that holds a UAE job order, then check its permission letter](#step-1-find-a-real-job-item-3).
+- **A visa found by a relative in the UAE:** the most common route before 2024; workers say it is safer than agents <sup>[N8](#n8), [N19 (2019)](#n19)</sup>. Employment visas for Bangladeshis have been restricted since July 2024 (see ["Is it open now, and who can go?"](#is-it-open-now-and-who-can-go)) <sup>[N15](#n15)</sup>.
 - **Partner or investor visa:** a residence visa tied to a trade licence, sold as a way in when labour visas closed; working for anyone else on it is illegal (see ["Free visa, partner visa, company visa"](#free-visa-partner-visa-company-visa)) <sup>[N10 (2019)](#n10)</sup>.
 - **Government-to-government, for domestic workers only:** Bangladesh and the UAE signed an MoU (memorandum of understanding, a government-to-government agreement) in April 2018 on recruiting domestic workers, covering 19 job categories (see [Work visa: domestic worker](#work-visa-domestic-worker)) <sup>[19 (2018)](#o19), [13 (2019)](#o13)</sup>.
 
 > **Need to know**
 > - Is there any government channel for UAE company jobs in 2026, through BOESL (Bangladesh Overseas Employment and Services Limited, the state recruiting agency) or a government-to-government agreement?
-> - Is Dubai Taxi's 2026 recruitment still taking Bangladeshis, and through which agencies?
+> - Is Dubai Taxi's 2026 recruitment still taking Bangladeshis, and is Al Anas Overseas its only agency or one of three (with VIP Global and M Bahar Overseas)?
 
 <a id="who-qualifies"></a>
 
@@ -257,7 +260,7 @@ A UAE employer that can still get permits for Bangladeshis must name you on a MO
 
 - **Age:** at least 18 for a work permit <sup>[20](#o20)</sup>. A woman going as a domestic worker must be 25 to 45 for BMET clearance and bring proof of age and a no-objection letter from her legal guardian (details under Work visa: domestic worker, [Step 1: Check you qualify](#step-1-check-you-qualify)) <sup>[21](#o21)</sup>.
 - **Skill or certificate:** none for MOHRE skill levels 6 to 9 (farm, craft and construction workers, machine operators and "simple professions") <sup>[22](#o22), [23](#o23)</sup>. A job counts as skilled only at levels 1 to 5, with an attested certificate (a bachelor's degree for levels 1 and 2, a diploma for 3 and 4, high school for 5) and at least AED 4,000 a month <sup>[22](#o22), [23](#o23)</sup>. Dubai Taxi drivers must communicate in English, according to the CEO of a recruiting agency <sup>[N3](#n3)</sup>.
-- **Sex:** both men and women go; 764 women were cleared for the UAE in 2026 to 7 November <sup>[24](#o24)</sup>. Women going as domestic workers must first do housekeeping training at a TTC (Technical Training Centre) <sup>[21](#o21)</sup>; how many women went as domestic workers, and that route's status, are under Work visa: domestic worker, Status.
+- **Sex:** both men and women go; 764 women were cleared for the UAE in 2026 to 7 November <sup>[24](#o24)</sup>. Dubai Taxi's representatives said in May 2026 that Bangladeshi women work as drivers at Dubai airport <sup>[N17](#n17)</sup>. Women going as domestic workers must first do housekeeping training at a TTC (Technical Training Centre) <sup>[21](#o21)</sup>; how many women went as domestic workers, and that route's status, are under Work visa: domestic worker, Status.
 - **Barred:** the protesters deported in 2024 (see [Bans after you leave](#bans-after-you-leave)).
 
 A genuine job comes with a MOHRE offer letter signed by the employer's authorised manager <sup>[6](#o6)</sup>; how to check it is under Work visa: company worker, [Step 2: The job offer and contract (MOHRE offer letter)](#step-2-the-job-offer-and-contract-mohre-offer-letter); and Work visa: company worker, [Step 5: Check your visa and permit are real](#step-5-check-your-visa-and-permit-are-real).
@@ -269,17 +272,17 @@ A genuine job comes with a MOHRE offer letter signed by the employer's authorise
 
 #### 1.2.3 Visas cancelled while home on leave
 
-- **How it happens (July 2026 onward):** notices arrive by email, text message or through the kafil (sponsor), often with no reason; some people learned only at check-in, when the airline system refused them a boarding pass <sup>[N16](#n16), [N17](#n17), [N11](#n11), [N18](#n18)</sup>. People whose visas still had more than a year to run were hit <sup>[N19](#n19)</sup>. How to check your visa before flying back, and what to do if it was cancelled, are under "Check your visa before you fly back" and "If your visa was cancelled while on leave".
+- **How it happens (July 2026 onward):** notices arrive by email, text message or through the kafil (sponsor), often with no reason; some people learned only at check-in, when the airline system refused them a boarding pass <sup>[N20](#n20), [N21](#n21), [N11](#n11), [N22](#n22)</sup>. People whose visas still had more than a year to run were hit <sup>[N23](#n23)</sup>. How to check your visa before flying back, and what to do if it was cancelled, are under "Check your visa before you fly back" and "If your visa was cancelled while on leave".
 
   The reported count:
-  - 626 on 30 July 2026 (Foreign Affairs State Minister Shama Obaed, who said Pakistanis, Egyptians, Filipinos and Nepalis were also affected) <sup>[N20](#n20)</sup>;
+  - 626 on 30 July 2026 (Foreign Affairs State Minister Shama Obaed, who said Pakistanis, Egyptians, Filipinos and Nepalis were also affected) <sup>[N24](#n24)</sup>;
   - 985 sent to the UAE by diplomatic note by 3 August, out of about 2,500 emails the embassy received <sup>[N7](#n7), [N5](#n5)</sup>;
   - 4,000 on 6 September (State Minister Nurul Haque Nur) <sup>[N5](#n5)</sup>;
-  - 4,800 by mid-September <sup>[N16](#n16), [N17](#n17)</sup>;
-  - about 6,600, the protesters' own figure, given outside Probashi Kallyan Bhaban on 7 October <sup>[N21](#n21)</sup>;
+  - 4,800 by mid-September <sup>[N20](#n20), [N21](#n21)</sup>;
+  - about 6,600, the protesters' own figure, given outside Probashi Kallyan Bhaban on 7 October <sup>[N25](#n25)</sup>;
   - 5,000 on 13 October, the government's latest figure (Law Minister Md Asaduzzaman, who added that many renewals were pending) <sup>[N6](#n6)</sup>.
-- **The reasons given:** the UAE has given no formal explanation <sup>[N7](#n7)</sup>. The state minister says the UAE cites internal security <sup>[N17](#n17)</sup>. A senior embassy official listed possible causes: the company hired over its quota, the job on the visa does not match the real work, Wage Protection System (WPS, the UAE's electronic salary-payment system) violations, company licence problems, a labourer working on an investor visa, social media posts against UAE law, and criminal or disciplinary cases <sup>[N7](#n7)</sup>. Bangladesh's ministers warn workers not to film sensitive events or post them online <sup>[N20](#n20), [N13](#n13)</sup>.
-- **What Bangladesh has done:** the embassy collects cases by email and forwards them to the UAE; being on its list does not guarantee reinstatement, because only the UAE government can reactivate a visa <sup>[N17](#n17), [N7](#n7)</sup>. Bangladesh asked the UAE to reconsider the decision and re-examine the cancelled visas <sup>[N17](#n17)</sup>. On 7 September 2026, affected returnees organised as "Amra Remittance Joddha" (We Are Remittance Fighters) demanded monthly allowances of Tk 15,000-20,000, jobs in other countries and high-level talks with the UAE <sup>[N5](#n5)</sup>.
+- **The reasons given:** the UAE has given no formal explanation <sup>[N7](#n7)</sup>. The state minister says the UAE cites internal security <sup>[N21](#n21)</sup>. A senior embassy official listed possible causes: the company hired over its quota, the job on the visa does not match the real work, Wage Protection System (WPS, the UAE's electronic salary-payment system) violations, company licence problems, a labourer working on an investor visa, social media posts against UAE law, and criminal or disciplinary cases <sup>[N7](#n7)</sup>. Bangladesh's ministers warn workers not to film sensitive events or post them online <sup>[N24](#n24), [N15](#n15)</sup>.
+- **What Bangladesh has done:** on 16 July 2026 the expatriates' welfare minister said diplomatic talks were under way on extending visa validity in Dubai, with a clear position expected within about a week, and that the ministry was checking for misinformation about the Dubai labour market <sup>[N26](#n26)</sup>. The embassy collects cases by email and forwards them to the UAE; being on its list does not guarantee reinstatement, because only the UAE government can reactivate a visa <sup>[N21](#n21), [N7](#n7)</sup>. Bangladesh asked the UAE to reconsider the decision and re-examine the cancelled visas <sup>[N21](#n21)</sup>. On 7 September 2026, affected returnees organised as "Amra Remittance Joddha" (We Are Remittance Fighters) demanded monthly allowances of Tk 15,000-20,000, jobs in other countries and high-level talks with the UAE <sup>[N5](#n5)</sup>.
 
 > **Need to know**
 > - Has the UAE reinstated any of the cancelled residence visas, and through which office (ICP, GDRFA or MOHRE)?
@@ -291,36 +294,36 @@ A genuine job comes with a MOHRE offer letter signed by the employer's authorise
 The flow has shrunk: BMET clearances for the UAE were 98,201 in 2023 (4th destination), 47,158 in 2024 (5th), 13,750 in 2025 (6th) and 23,044 in 2026 up to 7 November (6th, behind Saudi Arabia, Singapore, Qatar, the Maldives and Kuwait) <sup>[25](#o25), [26](#o26), [27](#o27), [28](#o28), [17](#o17), [29](#o29), [4](#o4), [30](#o30)</sup>.
 
 - **The 2026 rebound has stalled:** in January to September 2026 UAE clearances more than doubled on the year before while Saudi Arabia's fell 45.5%, Qatar's 37.4% and Kuwait's 33.4%, but then collapsed, cause unknown (see ["Is it open now, and who can go?"](#is-it-open-now-and-who-can-go)) <sup>[N4](#n4), [10](#o10)</sup>. Before the curbs about 5,000 to 6,000 a month went <sup>[N12](#n12)</sup>.
-- **Over time:** from 2004 to May 2025 BMET counts 2,207,991 Bangladeshis sent to the UAE, with a peak of 419,355 in 2008 <sup>[31](#o31)</sup>; Saudi Arabia took 38.85 lakh from 2004 to April 2024 <sup>[N22 (2024)](#n22)</sup>.
-- **Bangladeshis living there:** estimates differ. Unofficial estimates reported in Bangladesh put them at more than 12 lakh, the third-largest foreign community after Indians and Pakistanis <sup>[N16](#n16), [N12](#n12)</sup>. A private estimate puts them at 0.84 million, against 4.36 million Indians, 1.9 million Pakistanis, 0.78 million Filipinos and 0.36 million Nepalis <sup>[N23](#n23)</sup>.
+- **Over time:** from 2004 to May 2025 BMET counts 2,207,991 Bangladeshis sent to the UAE, with a peak of 419,355 in 2008 <sup>[31](#o31)</sup>; counted from 1976 to June 2024 it is 26,35,491, more than 17% of all Bangladeshi workers sent abroad, the second-largest market after Saudi Arabia <sup>[N27 (2024)](#n27)</sup>. Saudi Arabia took 38.85 lakh from 2004 to April 2024 <sup>[N28 (2024)](#n28)</sup>.
+- **Bangladeshis living there:** estimates differ. Unofficial estimates reported in Bangladesh put them at more than 12 lakh, the third-largest foreign community after Indians and Pakistanis <sup>[N20](#n20), [N12](#n12)</sup>; in July 2024 the Bangladesh Embassy in Abu Dhabi said more than 10 lakh, and the UAE foreign ministry ranked Bangladeshis third after Pakistanis and Indians <sup>[N29 (2024)](#n29)</sup>. A private estimate puts them at 0.84 million, against 4.36 million Indians, 1.9 million Pakistanis, 0.78 million Filipinos and 0.36 million Nepalis <sup>[N30](#n30)</sup>.
 - **Remittances from the UAE:** USD 4,583.9 million in FY2025-26, of USD 35,589.39 million in total; in July to September 2026 the UAE was the third source after Saudi Arabia and the UK <sup>[32](#o32), [33](#o33)</sup>.
 
 <a id="what-closed-it-before"></a>
 
 #### 1.2.5 What closed it before
 
-The UAE has closed to Bangladeshis twice: from 2012 to 2020, possibly over recruitment practices and the UAE's policy of giving jobs to its own nationals, and again since July 2024, after Bangladeshis protested in UAE streets; visa violations and fraud kept it shut after a brief 2025 reopening <sup>[13 (2019)](#o13), [N24](#n24), [N12](#n12)</sup>.
+The UAE has closed to Bangladeshis twice: from 2012 to 2020, possibly over recruitment practices and the UAE's policy of giving jobs to its own nationals, and again since July 2024, after Bangladeshis protested in UAE streets; visa violations and fraud kept it shut after a brief 2025 reopening <sup>[13 (2019)](#o13), [N31](#n31), [N12](#n12)</sup>.
 
-- **2012 to 2020, recruitment practices and jobs for nationals:** the UAE largely stopped labour visas for Bangladeshis from 2012; the Ministry links this possibly to concerns about recruitment practices and the UAE's policy of giving jobs to its own nationals; migration fell until 2021 <sup>[13 (2019)](#o13), [N1](#n1), [N2](#n2)</sup>. From 2021 to mid-2024 flows rose again on various visas, to 101,000 in 2022 and 98,000 in 2023 <sup>[N2](#n2), [N24](#n24)</sup>.
-- **July 2024, street protests:** on 19 July 2024 Bangladeshis marched in UAE streets in support of the quota reform movement. Protests without permission are banned. On 21 July a federal court sentenced 57: three to life, 53 to ten years, one (who had entered illegally) to eleven years, all to be deported afterwards <sup>[N25 (2024)](#n25), [9 (2024)](#o9)</sup>. Recording and sharing videos of the gathering counted against them <sup>[9 (2024)](#o9)</sup>. Visa applications for Bangladeshis were blocked from 22 July 2024 <sup>[N24](#n24), [N2](#n2)</sup>. On 3 September 2024 the UAE President pardoned them and ordered deportation; 131 more were arrested and 188 freed in all, most flown home in November and December 2024, jobless <sup>[34 (2024)](#o34), [N26 (2024)](#n26), [N27 (2024)](#n27)</sup>. What their deportation means for returning is under Bans after you leave.
-- **2025, visa violations and fraud:** government insiders say recruitment fraud, fake documents and visa violations also led the UAE to tighten screening, and visit visas were curbed because Bangladeshis used them to find work <sup>[N12](#n12), [N28](#n28)</sup>; the chief adviser's special envoy was told over 25% of the UAE's visa and residency violators are Bangladeshis <sup>[N12](#n12)</sup>. Bangladesh's Foreign Ministry calls the restrictions a UAE policy decision <sup>[N12](#n12)</sup>. The envoy's lobbying won a limited reopening (30 to 50 visit visas a day, skilled visas, 500 security-guard visas granted and 1,000 more approved), but by October 2025 visit visas were "almost zero" again <sup>[N14](#n14), [N12](#n12)</sup>. In January 2026 industry insiders listed the UAE among countries that often reject Bangladeshi visa applications <sup>[N28](#n28)</sup>.
+- **2012 to 2020, recruitment practices and jobs for nationals:** the UAE largely stopped labour visas for Bangladeshis from 2012; the Ministry links this possibly to concerns about recruitment practices and the UAE's policy of giving jobs to its own nationals; migration fell until 2021 <sup>[13 (2019)](#o13), [N1](#n1), [N2](#n2)</sup>. From 2021 to mid-2024 flows rose again on various visas, to 101,000 in 2022 and 98,000 in 2023 <sup>[N2](#n2), [N31](#n31)</sup>. In March 2024 Bangladesh's foreign minister asked the UAE to reopen visas for Bangladeshi workers of all categories in all trades, simplify the process and ease transfers between employers, and said work permits for Bangladeshis outside Dubai had been discussed; the UAE's human resources minister replied there was no barrier and that the UAE wanted skilled workers <sup>[N32 (2024)](#n32), [N33 (2024)](#n33)</sup>.
+- **July 2024, street protests:** on 19 July 2024 Bangladeshis marched in UAE streets in support of the quota reform movement. Protests without permission are banned. On 21 July a federal court sentenced 57: three to life, 53 to ten years, one (who had entered illegally) to eleven years, all to be deported afterwards <sup>[N34 (2024)](#n34), [9 (2024)](#o9)</sup>. Recording and sharing videos of the gathering counted against them <sup>[9 (2024)](#o9)</sup>. Visa applications for Bangladeshis were blocked from 22 July 2024 <sup>[N31](#n31), [N2](#n2)</sup>, although on 24 July both the expatriates' welfare state minister and the foreign minister said the UAE had told Bangladesh of no visa ban <sup>[N27 (2024)](#n27), [N35 (2024)](#n35)</sup>; the state minister said the government would not intervene for those jailed <sup>[N27 (2024)](#n27)</sup>. In December 2024 the Foreign Ministry's spokesman said Bangladesh hoped the UAE would reconsider opening new visas once the amnesty ended <sup>[N36 (2024)](#n36)</sup>. On 3 September 2024 the UAE President pardoned them and ordered deportation; 131 more were arrested and 188 freed in all, most flown home in November and December 2024, jobless <sup>[34 (2024)](#o34), [N37 (2024)](#n37), [N38 (2024)](#n38)</sup>. Embassy sources said in December 2024 that 57 were held in a first case and 56 in another, and 186 from several cases had been pardoned and returned <sup>[N39 (2024)](#n39)</sup>. Returnees said in December 2024 and February 2025 that arrests over the protest were continuing, while embassy sources said they had no complaint of anyone then detained <sup>[N39 (2024)](#n39), [N40](#n40)</sup>. Returnees also alleged in February 2025 that people had handed protesters' addresses and passport numbers to the consulate and that the then consul general, B M Jamal, passed them to UAE law enforcement <sup>[N41](#n41)</sup>; in December 2024 a returnee had alleged that embassy officials made the lists that sent people to prison <sup>[N39 (2024)](#n39)</sup>. What their deportation means for returning is under Bans after you leave.
+- **2025, visa violations and fraud:** government insiders say recruitment fraud, fake documents and visa violations also led the UAE to tighten screening, and visit visas were curbed because Bangladeshis used them to find work <sup>[N12](#n12), [N42](#n42)</sup>; the chief adviser's special envoy was told over 25% of the UAE's visa and residency violators are Bangladeshis <sup>[N12](#n12)</sup>. Bangladesh's Foreign Ministry calls the restrictions a UAE policy decision <sup>[N12](#n12)</sup>. In January 2025 the consul general in Dubai met MOHRE to discuss easier visas and visa transfers for Bangladeshis in Dubai and the northern emirates <sup>[N43](#n43)</sup>, and in February 2025 the chief adviser, Muhammad Yunus, asked the UAE to lift the visa ban on Bangladeshis and recruit more Bangladeshi workers <sup>[N44](#n44)</sup>. The envoy's lobbying won a limited reopening (30 to 50 visit visas a day, skilled visas, 500 security-guard visas granted and 1,000 more approved), but by October 2025 visit visas were "almost zero" again <sup>[N16](#n16), [N12](#n12)</sup>. In January 2026 industry insiders listed the UAE among countries that often reject Bangladeshi visa applications <sup>[N42](#n42)</sup>. In February 2026 the expatriates' welfare adviser told the UAE's human resources minister that its visa restriction policy had cut the flow of workers from Bangladesh and that Bangladeshis in the UAE face visa problems, and asked for help with family, seafarer and transfer visas <sup>[N45](#n45)</sup>.
 - **July 2026 onward, no formal reason given:** residence visas of people on leave cancelled (see "Visas cancelled while home on leave" above) <sup>[N5](#n5), [N7](#n7)</sup>.
 
 <a id="how-a-job-reaches-you-and-who-takes-a-cut"></a>
 
 ### 1.3 How a job reaches you, and who takes a cut
 
-A UAE visa passes through layers of middlemen and the price rises at each hand, though by law it costs the worker nothing because the employer pays recruitment costs <sup>[N8](#n8), [N29 (2022)](#n29), [6](#o6)</sup>.
+A UAE visa passes through layers of middlemen and the price rises at each hand, though by law it costs the worker nothing because the employer pays recruitment costs <sup>[N8](#n8), [N46 (2022)](#n46), [6](#o6)</sup>.
 
 <a id="the-chain-from-the-visa-to-the-village"></a>
 
 #### 1.3.1 The chain, from the visa to the village
 
-1. <a id="the-chain-from-the-visa-to-the-village-item-1"></a>**The visa in the UAE:** the chain starts with a UAE visa that can be sold; visa trading starts in whichever market Bangladeshis go to in numbers, and buying and selling visas is a punishable offence under Middle East laws <sup>[N30 (2024)](#n30)</sup>. Brokers sell "free visas", work permits in a company's name with no job behind them (see ["Free visa, partner visa, company visa"](#free-visa-partner-visa-company-visa)) <sup>[N9](#n9)</sup>. Known cut: for a partner visa the Arab partner on the trade licence is paid over a lakh taka <sup>[N10 (2019)](#n10)</sup>. Who sells the visas to Bangladeshi brokers is a Need to know (below).
-2. <a id="the-chain-from-the-visa-to-the-village-item-2"></a>**BMET clearance:** the smart card that lets a worker leave Bangladesh has itself been sold: in 2022 cards issued in agencies' names went to manpower traders and brokers for Tk 3 to 4.5 lakh per worker (see ["The choke point"](#the-choke-point)) <sup>[N29 (2022)](#n29)</sup>.
+1. <a id="the-chain-from-the-visa-to-the-village-item-1"></a>**The visa in the UAE:** the chain starts with a UAE visa that can be sold; visa trading starts in whichever market Bangladeshis go to in numbers, and buying and selling visas is a punishable offence under Middle East laws <sup>[N47 (2024)](#n47)</sup>. Brokers sell "free visas", work permits in a company's name with no job behind them (see ["Free visa, partner visa, company visa"](#free-visa-partner-visa-company-visa)) <sup>[N9](#n9)</sup>. Known cut: for a partner visa the Arab partner on the trade licence is paid over a lakh taka <sup>[N10 (2019)](#n10)</sup>. Who sells the visas to Bangladeshi brokers is a Need to know (below).
+2. <a id="the-chain-from-the-visa-to-the-village-item-2"></a>**BMET clearance:** the smart card that lets a worker leave Bangladesh has itself been sold: in 2022 cards issued in agencies' names went to manpower traders and brokers for Tk 3 to 4.5 lakh per worker (see ["The choke point"](#the-choke-point)) <sup>[N46 (2022)](#n46)</sup>.
 3. <a id="the-chain-from-the-visa-to-the-village-item-3"></a>**The licensed agency:** a licensed Bangladeshi agency holds the BMET permission letter for an employer's job order (see [Work visa: company worker](#work-visa-company-worker), [Step 1, item 3: Through a recruiting agency: find an agency that holds a UAE job order, then check its permission letter](#step-1-find-a-real-job-item-3)) <sup>[3](#o3)</sup>, and recruits through informal agents who handle the recruiting and the money <sup>[35 (2020)](#o35)</sup>.
 4. <a id="the-chain-from-the-visa-to-the-village-item-4"></a>**The village broker:** recruits by word of mouth and takes payments even without a receipt; 71% of migrants paid a broker's fee <sup>[35 (2020)](#o35)</sup>.
-5. <a id="the-chain-from-the-visa-to-the-village-item-5"></a>**Relatives:** most workers come through a relative already in the UAE instead, and see relatives as safer because "there is a lot of fraud through agents" <sup>[N8](#n8), [N15 (2019)](#n15)</sup>.
+5. <a id="the-chain-from-the-visa-to-the-village-item-5"></a>**Relatives:** most workers come through a relative already in the UAE instead, and see relatives as safer because "there is a lot of fraud through agents" <sup>[N8](#n8), [N19 (2019)](#n19)</sup>.
 
 What the worker pays at the end of the chain is under "What people really pay".
 
@@ -351,9 +354,9 @@ In 2023 and 2024 the largest UAE clearance titles were office ones such as "Mana
 
 #### 1.3.4 The choke point
 
-The choke point in 2026 is the UAE government: it decides whether to issue a visa to a Bangladeshi passport at all, and since July 2024 its visa submission system has blocked most visit and work visas for Bangladeshis, with no letter or statement <sup>[N2](#n2), [N13](#n13)</sup>. Only a UAE employer still able to get permits for Bangladeshis can open the way (see ["Is it open now, and who can go?"](#is-it-open-now-and-who-can-go)) <sup>[6](#o6)</sup>.
+The choke point in 2026 is the UAE government: it decides whether to issue a visa to a Bangladeshi passport at all, and since July 2024 its visa submission system has blocked most visit and work visas for Bangladeshis, with no letter or statement <sup>[N2](#n2), [N15](#n15)</sup>. Only a UAE employer still able to get permits for Bangladeshis can open the way (see ["Is it open now, and who can go?"](#is-it-open-now-and-who-can-go)) <sup>[6](#o6)</sup>.
 
-BMET's emigration clearance (the smart card) is the second gate, on the Bangladesh side, and it has been sold: a 2022 Ministry inquiry found BMET had issued 6,938 smart cards against UAE permissions for 2,960 workers, sold to manpower traders and brokers for Tk 3 to 4.5 lakh each, and named BMET officials in the ring <sup>[N29 (2022)](#n29)</sup>. Workers sent on those cards got neither legal status nor jobs, and many slept in parks <sup>[N29 (2022)](#n29)</sup>. In September 2026 a politician alleged that BMET had suspended clearance cards for a week while cards were being issued through back channels for more money <sup>[N31](#n31)</sup>. Which agencies hold UAE job orders is under Work visa: company worker, [Step 1, item 3: Through a recruiting agency: find an agency that holds a UAE job order, then check its permission letter](#step-1-find-a-real-job-item-3).
+BMET's emigration clearance (the smart card) is the second gate, on the Bangladesh side, and it has been sold: a 2022 Ministry inquiry found BMET had issued 6,938 smart cards against UAE permissions for 2,960 workers, sold to manpower traders and brokers for Tk 3 to 4.5 lakh each, and named BMET officials in the ring <sup>[N46 (2022)](#n46)</sup>. Workers sent on those cards got neither legal status nor jobs, and many slept in parks <sup>[N46 (2022)](#n46)</sup>. In September 2026 a politician alleged that BMET had suspended clearance cards for a week while cards were being issued through back channels for more money <sup>[N48](#n48)</sup>. Which agencies hold UAE job orders is under Work visa: company worker, [Step 1, item 3: Through a recruiting agency: find an agency that holds a UAE job order, then check its permission letter](#step-1-find-a-real-job-item-3).
 
 <a id="what-you-pay-and-what-you-earn-and-keep"></a>
 
@@ -387,9 +390,9 @@ How the money is handed over is covered under "The cap" (the agency's cheque, ba
 
 #### 1.4.4 What the job pays
 
-For 2026's main UAE jobs, the 2025 Transguard permission letter gives AED 800 (about Tk 27,200) a month for helpers and cleaners and AED 1,150 (about Tk 39,100) for masons, with housing, transport and a food allowance from the company (see [Work visa: company worker](#work-visa-company-worker), [Step 1, item 3: Through a recruiting agency: find an agency that holds a UAE job order, then check its permission letter](#step-1-find-a-real-job-item-3)) <sup>[3](#o3), [2](#o2)</sup>. Dubai Taxi drivers earn more: a 35% commission per ride, about AED 2,500 to 4,000 a month (about Tk 85,000 to 1.36 lakh) <sup>[N3](#n3), [2](#o2)</sup>. The UAE has no minimum wage (see [Work visa: company worker](#work-visa-company-worker), Your rights at work, Pay) <sup>[38](#o38)</sup>.
+For 2026's main UAE jobs, the 2025 Transguard permission letter gives AED 800 (about Tk 27,200) a month for helpers and cleaners and AED 1,150 (about Tk 39,100) for masons, with housing, transport and a food allowance from the company (see [Work visa: company worker](#work-visa-company-worker), [Step 1, item 3: Through a recruiting agency: find an agency that holds a UAE job order, then check its permission letter](#step-1-find-a-real-job-item-3)) <sup>[3](#o3), [2](#o2)</sup>. Dubai Taxi drivers earn more: a 35% commission per ride, about AED 2,500 to 4,000 a month (about Tk 85,000 to 1.36 lakh) <sup>[N3](#n3), [2](#o2)</sup>; in May 2026 the expatriates' welfare minister asked Dubai Taxi to pay workers wages and allowances during their training period after they reach Dubai <sup>[N17](#n17)</sup>. The wife of a farm worker near Dubai, killed in April 2026 after 18 years there, said he earned Tk 30,000-35,000 a month and sent home Tk 20,000-25,000 <sup>[N49](#n49)</sup>. The UAE has no minimum wage (see [Work visa: company worker](#work-visa-company-worker), Your rights at work, Pay) <sup>[38](#o38)</sup>.
 
-In the BBS survey of 2015-18 migrants to all destinations, workers earned on average Tk 23,629 a month (unskilled) and Tk 29,477 (skilled) in their first three months abroad <sup>[35 (2020)](#o35)</sup>. In a 2019 study 44% of low-skilled workers got less than promised <sup>[N15 (2019)](#n15)</sup>.
+In the BBS survey of 2015-18 migrants to all destinations, workers earned on average Tk 23,629 a month (unskilled) and Tk 29,477 (skilled) in their first three months abroad <sup>[35 (2020)](#o35)</sup>. In a 2019 study 44% of low-skilled workers got less than promised <sup>[N19 (2019)](#n19)</sup>. In October 2026 the law minister said Bangladeshi workers are paid much less than workers from other countries <sup>[N50](#n50)</sup>.
 
 > **Need to know**
 > - What do UAE construction helpers, cleaners, security guards and salesmen actually take home in 2026, after food and accommodation deductions?
@@ -412,42 +415,42 @@ You are tied to the employer at every stage: only the employer can apply for, re
 - **To enter:** only the employer holding your MOHRE work permit can bring you in <sup>[14](#o14)</sup>.
 - **To renew:** the employer renews, every two years <sup>[20](#o20), [39](#o39)</sup>.
 - **To quit:** 30 to 90 days' written notice; in probation, 14 days to leave the UAE or one month to move to another employer <sup>[15](#o15), [12 (2021)](#o12)</sup>.
-- **To change employer:** restricted for Bangladeshis since July 2024, when company-to-company transfers stalled <sup>[N13](#n13)</sup>. In law you may move when the contract ends or is lawfully ended; quitting in probation against the rules, or a proven abandonment report, brings a one-year work ban (see ["If you want to change employer"](#if-you-want-to-change-employer)) <sup>[15](#o15), [40](#o40)</sup>.
+- **To change employer:** restricted for Bangladeshis since July 2024, when company-to-company transfers stalled <sup>[N15](#n15)</sup>. In law you may move when the contract ends or is lawfully ended; quitting in probation against the rules, or a proven abandonment report, brings a one-year work ban (see ["If you want to change employer"](#if-you-want-to-change-employer)) <sup>[15](#o15), [40](#o40)</sup>.
 - **To leave:** the employer cancels the permit and residence; you then have 30 days to leave or change status <sup>[41](#o41)</sup>.
 - **Which law:** domestic workers come under their own law, not the main labour law; free-zone workers are under the free zone's rules together with the labour law <sup>[42 (2022)](#o42), [43](#o43)</sup>.
-- **Running away:** more than 7 days' absence lets the employer file a work abandonment report, which, if proven, brings a one-year ban, blocks any unemployment insurance payout while open, and Human Rights Watch says is used against workers fleeing abuse (see "If your employer reports you absent (work abandonment)") <sup>[44 (2022)](#o44), [40](#o40), [45](#o45), [N32](#n32)</sup>.
+- **Running away:** more than 7 days' absence lets the employer file a work abandonment report, which, if proven, brings a one-year ban, blocks any unemployment insurance payout while open, and Human Rights Watch says is used against workers fleeing abuse (see "If your employer reports you absent (work abandonment)") <sup>[44 (2022)](#o44), [40](#o40), [45](#o45), [N51](#n51)</sup>.
 - **An expired visa:** you are fined AED 50 a day after the grace period (see ["Going home without valid papers"](#going-home-without-valid-papers)) <sup>[41](#o41)</sup>.
 
 <a id="what-goes-wrong-most-and-what-people-wrongly-believe"></a>
 
 ### 1.6 What goes wrong most, and what people wrongly believe
 
-The biggest losses are visas cancelled while on leave, visas with no job behind them, pay below what was promised, and being stuck with an employer; the commonest false belief is that a job keeps the visa safe <sup>[N5](#n5), [N9](#n9), [N15 (2019)](#n15), [N11](#n11)</sup>.
+The biggest losses are visas cancelled while on leave, visas with no job behind them, pay below what was promised, and being stuck with an employer; the commonest false belief is that a job keeps the visa safe <sup>[N5](#n5), [N9](#n9), [N19 (2019)](#n19), [N11](#n11)</sup>.
 
 <a id="the-commonest-losses"></a>
 
 #### 1.6.1 The commonest losses
 
-Losing the visa while on leave (2026); arriving on a visa with no job behind it (free visa, fake smart card); pay lower than promised; and being stuck with an employer you cannot leave <sup>[N5](#n5), [N9](#n9), [N29 (2022)](#n29), [N15 (2019)](#n15)</sup>.
+Losing the visa while on leave (2026); arriving on a visa with no job behind it (free visa, fake smart card); pay lower than promised; and being stuck with an employer you cannot leave <sup>[N5](#n5), [N9](#n9), [N46 (2022)](#n46), [N19 (2019)](#n19)</sup>.
 
 <a id="what-people-believe-and-the-facts"></a>
 
 #### 1.6.2 What people believe, and the facts
 
-- **"If I have a job, my visa is safe."** The employer can cancel it online without the worker knowing; check it before you fly (see ["Check your visa before you fly back"](#check-your-visa-before-you-fly-back)) <sup>[N11](#n11), [N18](#n18)</sup>.
-- **"The job will be what the agent or relative described."** A 2019 study found agents and relatives alike paint the job rosier than it is, and the contract signed in Bangladesh often differs from the one the company holds <sup>[N15 (2019)](#n15)</sup>.
+- **"If I have a job, my visa is safe."** The employer can cancel it online without the worker knowing; check it before you fly (see ["Check your visa before you fly back"](#check-your-visa-before-you-fly-back)) <sup>[N11](#n11), [N22](#n22)</sup>.
+- **"The job will be what the agent or relative described."** A 2019 study found agents and relatives alike paint the job rosier than it is, and the contract signed in Bangladesh often differs from the one the company holds <sup>[N19 (2019)](#n19)</sup>.
 - **"A free visa lets me work anywhere."** No such visa exists; working outside the sponsoring company is illegal <sup>[N9](#n9)</sup>.
 - **"Go on a visit visa; the work visa gets done there."** A visit visa gives no right to work, and working on one brings fines <sup>[6](#o6)</sup>.
-- **"The UAE banned Bangladeshis from January 2026."** No formal ban exists, but most visas for Bangladeshis have been restricted since July 2024 (see ["Is it open now, and who can go?"](#is-it-open-now-and-who-can-go)) <sup>[18](#o18), [N13](#n13)</sup>. The ban claim came from a private visa website; the embassy said the site's Dubai address does not exist and most of its customers say they were cheated <sup>[N24](#n24), [18](#o18)</sup>.
+- **"The UAE banned Bangladeshis from January 2026."** No formal ban exists, but most visas for Bangladeshis have been restricted since July 2024 (see ["Is it open now, and who can go?"](#is-it-open-now-and-who-can-go)) <sup>[18](#o18), [N15](#n15)</sup>. The ban claim came from a private visa website; the embassy said the site's Dubai address does not exist and most of its customers say they were cheated <sup>[N31](#n31), [18](#o18)</sup>.
 - **"A partner visa is a work visa."** It allows work only for your own licence <sup>[N10 (2019)](#n10)</sup>.
 
 <a id="how-irregular-routes-end"></a>
 
 #### 1.6.3 How irregular routes end
 
-Irregular routes usually end in jail, deportation or re-entry bans, unless an amnesty opens <sup>[N26 (2024)](#n26), [9 (2024)](#o9), [46 (2024)](#o46)</sup>.
+Irregular routes usually end in jail, deportation or re-entry bans, unless an amnesty opens <sup>[N37 (2024)](#n37), [9 (2024)](#o9), [46 (2024)](#o46)</sup>.
 
-- **Bans:** a Foreign Ministry official says a cancelled residence or a broken law bars re-entry for 5 to 10 years <sup>[N26 (2024)](#n26)</sup>.
+- **Bans:** a Foreign Ministry official says a cancelled residence or a broken law bars re-entry for 5 to 10 years <sup>[N37 (2024)](#n37)</sup>.
 - **Protest:** jail, then deportation (see ["What closed it before"](#what-closed-it-before)) <sup>[9 (2024)](#o9), [34 (2024)](#o34)</sup>.
 - **Amnesty:** the 2024 amnesty, how many Bangladeshis used it and what followed when it ended are under "Going home without valid papers".
 
@@ -460,7 +463,7 @@ Irregular routes usually end in jail, deportation or re-entry bans, unless an am
 - **Visa on arrival or visa-free entry:** not for Bangladeshis; only listed nationalities get it on arrival <sup>[7](#o7), [8](#o8)</sup>.
 - **14-day or 60-day visa for holders of a US, UK, EU or other approved residence or visa (including a US green card):** limited to nationals of India, Indonesia, Kenya, the Philippines, South Africa, Thailand and Vietnam; Bangladeshis are not eligible even with a US, UK or EU visa or residence <sup>[47](#o47), [48](#o48), [8](#o8)</sup>.
 - **Tourist visa applied at a UAE embassy:** UAE embassies, including Dhaka, do not issue tourist visas <sup>[49](#o49)</sup>. The embassy can issue courtesy visit visas, with ICP approval, to people it chooses and to diplomatic and UN passport holders <sup>[50 (2022)](#o50)</sup>.
-- **Converting a visit visa to a work visa inside the UAE:** closed to Bangladeshis for several years <sup>[N28](#n28)</sup>. A residence visa can only be processed after the person enters on a valid entry permit <sup>[6](#o6)</sup>.
+- **Converting a visit visa to a work visa inside the UAE:** closed to Bangladeshis for several years <sup>[N42](#n42)</sup>. A residence visa can only be processed after the person enters on a valid entry permit <sup>[6](#o6)</sup>.
 
 <a id="work-visa-company-worker"></a>
 
@@ -507,16 +510,16 @@ There are two routes: a visa found by a relative in the UAE ([Step 1, item 5: Th
 
    The agencies, by posts:
 
-   - **Matco Enterprise (RL0250, Active):** 10 letters, 4,940 posts <sup>[57](#o57), [59](#o59)</sup>. Red flag: BSS, the state news agency, calls it the business of Shariatpur-2 MP Shafiqur Rahman Kiron (August 2026); Desh Rupantor (August 2026) reports allegations by members of BAIRA (Bangladesh Association of International Recruiting Agencies, the agencies' trade body) that it is among MPs' agencies in an attempt to form a new 25-agency Malaysia syndicate, which Kiron denies <sup>[N33](#n33), [N34](#n34)</sup>.
+   - **Matco Enterprise (RL0250, Active):** 10 letters, 4,940 posts <sup>[57](#o57), [59](#o59)</sup>. Red flag: BSS, the state news agency, calls it the business of Shariatpur-2 MP Shafiqur Rahman Kiron (August 2026); Desh Rupantor (August 2026) reports allegations by members of BAIRA (Bangladesh Association of International Recruiting Agencies, the agencies' trade body) that it is among MPs' agencies in an attempt to form a new 25-agency Malaysia syndicate, which Kiron denies <sup>[N52](#n52), [N53](#n53)</sup>.
    - **AVR Bangladesh (RL1135, Active):** 10 letters, 3,171 posts <sup>[57](#o57), [59](#o59)</sup>.
-   - **Al-Anas Overseas (RL2735, Active):** 6 letters, 2,765 posts <sup>[57](#o57), [59](#o59)</sup>. One of the three agencies in Dubai Taxi's 2026 driver hiring (see ["The channels"](#the-channels)) <sup>[N3](#n3)</sup>.
+   - **Al-Anas Overseas (RL2735, Active):** 6 letters, 2,765 posts <sup>[57](#o57), [59](#o59)</sup>. One of the three agencies in Dubai Taxi's 2026 driver hiring, or by Prothom Alo's account its only approved agency (see ["The channels"](#the-channels)) <sup>[N3](#n3), [N17](#n17)</sup>.
    - **Visa International (RL0963, Active):** 4 letters, 1,965 posts <sup>[57](#o57), [59](#o59)</sup>.
-   - **Al Saad Labour Supply (RL0939, Active):** 2 letters, 1,645 posts <sup>[57](#o57), [59](#o59)</sup>. Red flag: it has the same OEP office phone (01711891957) and holding (7014 Islambagh, Badda) as Matco, and its proprietor on BAIRA's list is, per BSS, Matco's chairman and, per Asian TV (January 2026), Kiron's wife <sup>[59](#o59), [N35](#n35), [N33](#n33), [N36](#n36)</sup>.
+   - **Al Saad Labour Supply (RL0939, Active):** 2 letters, 1,645 posts <sup>[57](#o57), [59](#o59)</sup>. Red flag: it has the same OEP office phone (01711891957) and holding (7014 Islambagh, Badda) as Matco, and its proprietor on BAIRA's list is, per BSS, Matco's chairman and, per Asian TV (January 2026), Kiron's wife <sup>[59](#o59), [N54](#n54), [N52](#n52), [N55](#n55)</sup>.
    - **Meum Overseas (RL0528, Active):** 3 letters, 1,532 posts <sup>[57](#o57), [59](#o59)</sup>.
-   - **Navira Limited (RL0712, Active):** 4 letters, 1,491 posts, among them the Transguard letter earlier in this item <sup>[57](#o57), [59](#o59), [58](#o58)</sup>. Red flag: in September 2025 the ACC (Anti-Corruption Commission) filed a case against the owners of Navira and 12 other agencies over human trafficking to Malaysia, accused in the ACC charge sheet of forming a syndicate and charging workers nearly five times the government rate <sup>[N37](#n37)</sup>.
+   - **Navira Limited (RL0712, Active):** 4 letters, 1,491 posts, among them the Transguard letter earlier in this item <sup>[57](#o57), [59](#o59), [58](#o58)</sup>. Red flag: in September 2025 the ACC (Anti-Corruption Commission) filed a case against the owners of Navira and 12 other agencies over human trafficking to Malaysia, accused in the ACC charge sheet of forming a syndicate and charging workers nearly five times the government rate <sup>[N56](#n56)</sup>.
    - **Al Sourav Overseas (RL1028, Active):** 4 letters, 1,155 posts <sup>[57](#o57), [59](#o59)</sup>.
 
-   In July 2026 the ministry revoked 49 licences in the Malaysia syndicate case, among them ISMT Human Resource Development (RL1194), Catharsis International (RL0549), JG Alfalah Management (RL1861), Imperial Resources (RL1874) and Thanex International (RL1779), which held UAE letters for 1,100, 985, 500, 200 and 100 posts; the Appellate Division let the revocation stand in October 2026, and OEP shows all five Cancelled <sup>[N38](#n38), [57](#o57), [N39](#n39), [59](#o59)</sup>.
+   In July 2026 the ministry revoked 49 licences in the Malaysia syndicate case, among them ISMT Human Resource Development (RL1194), Catharsis International (RL0549), JG Alfalah Management (RL1861), Imperial Resources (RL1874) and Thanex International (RL1779), which held UAE letters for 1,100, 985, 500, 200 and 100 posts; the Appellate Division let the revocation stand in October 2026, and OEP shows all five Cancelled <sup>[N57](#n57), [57](#o57), [N58](#n58), [59](#o59)</sup>.
 
    > **Need to know**
    > - Which of these agencies place workers in the promised UAE job at no more than the letter's maximum fee?
@@ -606,11 +609,11 @@ Taking money on a false job promise or holding a migrant's passport is a crime p
 
    > **Need to know**
    > - Must the employer register the contract within 14 days of arrival (u.ae) or within 60 days (MOHRE's service page) <sup>[11](#o11), [83](#o83)</sup>?
-   > - What does the Tawjeeh session cost in 2026, who pays it, and is it compulsory for levels 6 to 9 <sup>[N40 (2018)](#n40)</sup>?
+   > - What does the Tawjeeh session cost in 2026, who pays it, and is it compulsory for levels 6 to 9 <sup>[N59 (2018)](#n59)</sup>?
 
 5. <a id="step-2-the-job-offer-and-contract-mohre-offer-letter-item-5"></a>**Know the probation rules.** Probation is at most six months; the employer must give 14 days' written notice to end it <sup>[84](#o84)</sup>. If you resign in probation to leave the UAE you give 14 days' notice; to move to another UAE employer, one month, and the new employer compensates your current employer for your recruitment cost unless you and your current employer agreed otherwise <sup>[84](#o84)</sup>.
 
-**Scam:** fraudsters sell "jobs" and "visas" for cash on social media and messaging apps under unlicensed company names or posing as official bodies <sup>[N41](#n41)</sup>. A visit or tourist visa never lets you work, and working on one brings fines for worker and employer <sup>[85](#o85)</sup>.
+**Scam:** fraudsters sell "jobs" and "visas" for cash on social media and messaging apps under unlicensed company names or posing as official bodies <sup>[N60](#n60)</sup>. A visit or tourist visa never lets you work, and working on one brings fines for worker and employer <sup>[85](#o85)</sup>.
 
 <a id="step-3-the-employer-gets-your-work-permit-and-entry-permit"></a>
 
@@ -693,7 +696,7 @@ Taking money on a false job promise or holding a migrant's passport is a crime p
 3. <a id="step-4-passport-police-clearance-and-certificates-item-3"></a>**Certificates, only for skill levels 1 to 5.** The chain is: issuing authority and Ministry of Education <sup>[98](#o98)</sup>, then MoFA (Ministry of Foreign Affairs) Bangladesh, then the UAE Embassy in Dhaka through UAE MOFA's "Attestation through UAE Missions Abroad" service <sup>[99](#o99)</sup>. In that order:
    1. **Issuing authority and Ministry of Education.** SSC and HSC certificates are verified by the Education Board, degrees by the university, then by the Ministry of Education <sup>[98](#o98)</sup>. Experience certificates instead must be attested by BMET or the Ministry of Expatriates' Welfare and notarised; MoFA then attests them free <sup>[100](#o100)</sup>.
    2. **MoFA online.** On mygov.bd, register, choose the attestation service for the document, upload it as JPEG/JPG/PNG and pay Tk 200 a page; it takes 5 working days, and an SMS tells you when MoFA has issued the Apostille, its attestation certificate, which you download from your mygov account <sup>[100](#o100)</sup>.
-   3. **MoFA consular counter.** The UAE does not accept Bangladesh's e-Apostille on its own <sup>[100](#o100), [N42](#n42)</sup>, so take the Apostille and documents to MoFA's consular counter, 10:00-13:00, for a consular sticker <sup>[100](#o100)</sup>.
+   3. **MoFA consular counter.** The UAE does not accept Bangladesh's e-Apostille on its own <sup>[100](#o100), [N61](#n61)</sup>, so take the Apostille and documents to MoFA's consular counter, 10:00-13:00, for a consular sticker <sup>[100](#o100)</sup>.
    4. **UAE MOFA.** Apply online: sign in, choose "Attestation through UAE Missions Abroad", pay and note the reference number; if you can't apply online, go to the mission <sup>[99](#o99)</sup>.
 
    **Check it is real:** UAE MOFA's digital verification, verify.mofa.gov.ae <sup>[99](#o99)</sup>. **If it fails:** UAE MOFA support +97180044444 <sup>[99](#o99)</sup>.
@@ -717,7 +720,7 @@ Taking money on a false job promise or holding a migrant's passport is a crime p
 > - Does the GDRFA form accept a search by passport number for an entry permit?
 > - What does a genuine result show on MOHRE's job-offer and work-permit enquiries and on GDRFA's Visa Status page (name, passport number, employer, job, validity)?
 
-**If a check fails:** stop paying. Report it to MOHRE (+971 6 802 7666, ask@mohre.gov.ae) and, for a Dubai scam, to Dubai Police on 901 or its eCrime platform <sup>[6](#o6), [N41](#n41)</sup>. The Bangladesh-side complaint routes are in [Step 1: Find a real job](#step-1-find-a-real-job) (see ["If an agency or broker takes your money"](#if-an-agency-or-broker-takes-your-money)).
+**If a check fails:** stop paying. Report it to MOHRE (+971 6 802 7666, ask@mohre.gov.ae) and, for a Dubai scam, to Dubai Police on 901 or its eCrime platform <sup>[6](#o6), [N60](#n60)</sup>. The Bangladesh-side complaint routes are in [Step 1: Find a real job](#step-1-find-a-real-job) (see ["If an agency or broker takes your money"](#if-an-agency-or-broker-takes-your-money)).
 
 <a id="step-6-orientation-bmet-clearance-and-the-flight"></a>
 
@@ -732,11 +735,11 @@ Taking money on a false job promise or holding a migrant's passport is a crime p
    - source tax Tk 1,200 (skilled) or Tk 800 (unskilled) on a group visa <sup>[21](#o21)</sup>.
 
    > **Need to know**
-   > - Is the Tk 250 clearance fee still charged, given the Ministry reportedly abolished the smart card fee in December 2024 <sup>[N43 (2024)](#n43)</sup>?
+   > - Is the Tk 250 clearance fee still charged, given the Ministry reportedly abolished the smart card fee in December 2024 <sup>[N62 (2024)](#n62)</sup>?
 
    **Individual visa:** apply at BMET's emigration branch, Dhaka, or the Chattogram DEMO with your application, visa copy, any contract, attested OEP card copy, a Tk 300 stamp declaration and the pay order for the welfare fee and insurance <sup>[21](#o21)</sup>. Women on a single visa need a guardian's no-objection letter <sup>[106 (2021)](#o106)</sup>.
 
-   **Check it is real** at portal.wewb.gov.bd/bmet-wewbm-check: type your passport number (or membership ID) and the captcha <sup>[107](#o107)</sup>; the airport welfare desks check smart cards <sup>[21](#o21)</sup>. Workers sent on fake smart cards got neither legal status nor jobs <sup>[N29 (2022)](#n29)</sup>. **If it fails:** BMET's Director (Emigration), +8802222222415, 01711-135901, diremi@bmet.gov.bd, or the OEP hotline 09614445271 <sup>[21](#o21), [54](#o54)</sup>.
+   **Check it is real** at portal.wewb.gov.bd/bmet-wewbm-check: type your passport number (or membership ID) and the captcha <sup>[107](#o107)</sup>; the airport welfare desks check smart cards <sup>[21](#o21)</sup>. Workers sent on fake smart cards got neither legal status nor jobs <sup>[N46 (2022)](#n46)</sup>. **If it fails:** BMET's Director (Emigration), +8802222222415, 01711-135901, diremi@bmet.gov.bd, or the OEP hotline 09614445271 <sup>[21](#o21), [54](#o54)</sup>.
 4. <a id="step-6-orientation-bmet-clearance-and-the-flight-item-4"></a>**The flight.** The employer pays the airfare, and an agency representative must fly with you or meet you at the UAE airport <sup>[3](#o3)</sup>.
 5. <a id="step-6-orientation-bmet-clearance-and-the-flight-item-5"></a>**Before you fly:** keep one set of copies at home and 3 with you, open 2 bank accounts, and never carry a packet you don't know <sup>[37](#o37)</sup>. Save the labour wing numbers (see ["Contacts"](#contacts)).
 
@@ -771,12 +774,12 @@ Taking money on a false job promise or holding a migrant's passport is a crime p
 
 6. <a id="step-7-after-arrival-medical-fitness-test-emirates-id-residence-bank-account-sim-item-6"></a>**Keep your passport.** Possession of your own passport is your right <sup>[85](#o85)</sup>. If the employer keeps it, see ["No fees, no passport-keeping"](#no-fees-no-passport-keeping).
 
-7. <a id="step-7-after-arrival-medical-fitness-test-emirates-id-residence-bank-account-sim-item-7"></a>**Salary account.** Your wage is paid through the Wage Protection System (WPS) into a bank, an exchange house or another institution licensed by the Central Bank, not necessarily a bank <sup>[38](#o38)</sup>. To open a bank account yourself you need your original Emirates ID and a salary letter, contract or payslip; Emirates NBD, for example, asks for a salary transfer of at least AED 5,000 <sup>[N44](#n44)</sup>.
+7. <a id="step-7-after-arrival-medical-fitness-test-emirates-id-residence-bank-account-sim-item-7"></a>**Salary account.** Your wage is paid through the Wage Protection System (WPS) into a bank, an exchange house or another institution licensed by the Central Bank, not necessarily a bank <sup>[38](#o38)</sup>. To open a bank account yourself you need your original Emirates ID and a salary letter, contract or payslip; Emirates NBD, for example, asks for a salary transfer of at least AED 5,000 <sup>[N63](#n63)</sup>.
 
    > **Need to know**
    > - Which payroll cards or exchange-house accounts do employers use for workers earning under AED 5,000, and what do they charge?
 
-8. <a id="step-7-after-arrival-medical-fitness-test-emirates-id-residence-bank-account-sim-item-8"></a>**SIM card.** A normal prepaid or postpaid line needs your Emirates ID under the telecom regulator's (TDRA) rules <sup>[N45 (2022)](#n45)</sup>. Until it arrives, buy a visitor or tourist SIM on your passport (e& (Etisalat) visitor line: 90 days) and convert it once you have the Emirates ID <sup>[N45 (2022)](#n45)</sup>.
+8. <a id="step-7-after-arrival-medical-fitness-test-emirates-id-residence-bank-account-sim-item-8"></a>**SIM card.** A normal prepaid or postpaid line needs your Emirates ID under the telecom regulator's (TDRA) rules <sup>[N64 (2022)](#n64)</sup>. Until it arrives, buy a visitor or tourist SIM on your passport (e& (Etisalat) visitor line: 90 days) and convert it once you have the Emirates ID <sup>[N64 (2022)](#n64)</sup>.
 
 <a id="scams"></a>
 
@@ -788,13 +791,13 @@ Taking money on a false job promise or holding a migrant's passport is a crime p
 
 1. <a id="scams-done-to-you-item-1"></a>**A "free visa" or job that doesn't exist.** The visa is real but has no job behind it; you pay again to renew <sup>[N9](#n9)</sup>.
    **Check it is real:** ask for the MOHRE offer letter and check it by reference number; check an entry permit on GDRFA Dubai (if issued in Dubai) or ICP (the other emirates) <sup>[6](#o6)</sup>. **Report it:** MOHRE, +971 6 802 7666 or ask@mohre.gov.ae <sup>[6](#o6)</sup>; in Bangladesh, 16135 or a written complaint to BMET (see ["If an agency or broker takes your money"](#if-an-agency-or-broker-takes-your-money)) <sup>[75](#o75), [21](#o21)</sup>.
-2. <a id="scams-done-to-you-item-2"></a>**A fake or oversold smart card.** It gives you neither legal status nor a job: in 2022 cards were sold beyond the UAE permissions, and workers flown on fake cards got neither <sup>[N29 (2022)](#n29)</sup>.
+2. <a id="scams-done-to-you-item-2"></a>**A fake or oversold smart card.** It gives you neither legal status nor a job: in 2022 cards were sold beyond the UAE permissions, and workers flown on fake cards got neither <sup>[N46 (2022)](#n46)</sup>.
    **Check it is real:** on portal.wewb.gov.bd/bmet-wewbm-check (see [Step 6, item 3: BMET clearance (the smart card)](#step-6-orientation-bmet-clearance-and-the-flight-item-3)) <sup>[107](#o107)</sup>. **Report it:** 16135, or in writing to BMET's Director General (see ["If an agency or broker takes your money"](#if-an-agency-or-broker-takes-your-money)) <sup>[75](#o75), [21](#o21)</sup>.
-3. <a id="scams-done-to-you-item-3"></a>**"Your cancelled visa can be reinstated for a fee."** Only the UAE government can reactivate a visa; the embassy only collects details and passes them to the UAE government <sup>[N7](#n7)</sup>. In July 2026 the embassy warned that false information was circulating under the Bangladesh government's logo, the national flag and even the embassy's email address <sup>[N46](#n46), [N47](#n47)</sup>.
-   **Check it is real:** check the visa yourself on GDRFA (Dubai) or ICP (the other emirates), as in [Step 5, item 2: The entry permit](#step-5-check-your-visa-and-permit-are-real-item-2) <sup>[6](#o6)</sup>; trust only official sources <sup>[N47](#n47)</sup>. **Report it:** to Dubai Police on 901, its app or the eCrime platform <sup>[N41](#n41)</sup>; in Bangladesh, taking money on a false job promise is a crime: call 16135 <sup>[78 (2023)](#o78), [75](#o75)</sup>.
+3. <a id="scams-done-to-you-item-3"></a>**"Your cancelled visa can be reinstated for a fee."** Only the UAE government can reactivate a visa; the embassy only collects details and passes them to the UAE government <sup>[N7](#n7)</sup>. In July 2026 the embassy warned that false information was circulating under the Bangladesh government's logo, the national flag and even the embassy's email address <sup>[N65](#n65), [N66](#n66)</sup>.
+   **Check it is real:** check the visa yourself on GDRFA (Dubai) or ICP (the other emirates), as in [Step 5, item 2: The entry permit](#step-5-check-your-visa-and-permit-are-real-item-2) <sup>[6](#o6)</sup>; trust only official sources <sup>[N66](#n66)</sup>. **Report it:** to Dubai Police on 901, its app or the eCrime platform <sup>[N60](#n60)</sup>; in Bangladesh, taking money on a false job promise is a crime: call 16135 <sup>[78 (2023)](#o78), [75](#o75)</sup>.
 4. <a id="scams-done-to-you-item-4"></a>**"Visa ban" or "visa open" posts.** The 2025 ban story came from a website that cheated customers (see [Tourist visa](#tourist-visa), Scams, "Done to travellers") <sup>[18](#o18)</sup>.
-   **Check it is real:** only the Embassy's own channels (see ["Contacts"](#contacts)) <sup>[114](#o114), [N47](#n47)</sup>. **Report it:** a fraudulent visa website to Dubai Police's app or eCrime platform <sup>[N41](#n41)</sup>.
-5. <a id="scams-done-to-you-item-5"></a>**Ticket gouging.** During the cancellations, Dhaka-UAE one-way fares of Tk 15,000-20,000 were sold for Tk 70,000 to 1 lakh <sup>[N19](#n19)</sup>. No check or report route is known yet (Need to know below).
+   **Check it is real:** only the Embassy's own channels (see ["Contacts"](#contacts)) <sup>[114](#o114), [N66](#n66)</sup>. **Report it:** a fraudulent visa website to Dubai Police's app or eCrime platform <sup>[N60](#n60)</sup>.
+5. <a id="scams-done-to-you-item-5"></a>**Ticket gouging.** During the cancellations, Dhaka-UAE one-way fares of Tk 15,000-20,000 were sold for Tk 70,000 to 1 lakh <sup>[N23](#n23)</sup>. No check or report route is known yet (Need to know below).
 
    > **Need to know**
    > - Where can a worker check the normal Dhaka-UAE fare and complain about an overpriced ticket?
@@ -841,7 +844,7 @@ Recruitment, travel and residence-permit costs are the employer's <sup>[116](#o1
 
 #### 3.9.4 Summer midday break
 
-No work in direct sun or open places from 12:30 pm to 3 pm, 15 June to 15 September every year <sup>[119](#o119)</sup>. Exempt: asphalt or concrete work that cannot wait, urgent public repairs, and permit-controlled work <sup>[119](#o119)</sup>. Employers must give shade, cooling, drinking water and first aid <sup>[120](#o120)</sup>. The fine is AED 5,000 per worker, up to AED 50,000 <sup>[121 (2023)](#o121)</sup>. Report a breach on 600590000, the MOHRE app or website ("Add Complaint") <sup>[120](#o120)</sup>; anyone can also report heat-rule, overtime, accommodation and safety breaches through MOHRE's community reporting service or 80084 <sup>[N48](#n48)</sup>.
+No work in direct sun or open places from 12:30 pm to 3 pm, 15 June to 15 September every year <sup>[119](#o119)</sup>. Exempt: asphalt or concrete work that cannot wait, urgent public repairs, and permit-controlled work <sup>[119](#o119)</sup>. Employers must give shade, cooling, drinking water and first aid <sup>[120](#o120)</sup>. The fine is AED 5,000 per worker, up to AED 50,000 <sup>[121 (2023)](#o121)</sup>. Report a breach on 600590000, the MOHRE app or website ("Add Complaint") <sup>[120](#o120)</sup>; anyone can also report heat-rule, overtime, accommodation and safety breaches through MOHRE's community reporting service or 80084 <sup>[N67](#n67)</sup>.
 
 <a id="rest-and-holidays"></a>
 
@@ -885,6 +888,8 @@ The employer must give licensed housing, or pay a housing allowance, or include 
 - your own bed, side table and 2-metre lockable cupboard; no three-tier bunks <sup>[123](#o123)</sup>;
 - one toilet and one shower per 8 people <sup>[123](#o123)</sup>;
 - air-conditioning in every room <sup>[123](#o123)</sup>.
+
+In October 2026 the law minister said that on a visit to Dubai he saw workers queue long for the bathroom in the morning and set out for work well before their start time <sup>[N50](#n50)</sup>.
 
 > **Need to know**
 > - Is there any limit on what an employer may charge for housing or food when housing is "included in the wage"?
@@ -946,7 +951,7 @@ Since July 2026 many Bangladeshis' visas were cancelled while they were at home 
 
 #### 3.10.2 Going home on leave
 
-Since July 2026 the UAE has cancelled the residence visas of Bangladeshis while they were home on leave, so check your visa before you fly back (see ["Check your visa before you fly back"](#check-your-visa-before-you-fly-back)) <sup>[N5](#n5)</sup>. Staying under 180 days does not protect you: in many cases the person had been away less than six months, so the visa had not lapsed under the 180-day rule, and the main cause was cancellation through the sponsor <sup>[N11](#n11)</sup>. Some learned only at check-in or at UAE immigration <sup>[N16](#n16)</sup>. For the counts, how notices came and possible causes, see ["Is it open now, and who can go?"](#is-it-open-now-and-who-can-go).
+Since July 2026 the UAE has cancelled the residence visas of Bangladeshis while they were home on leave, so check your visa before you fly back (see ["Check your visa before you fly back"](#check-your-visa-before-you-fly-back)) <sup>[N5](#n5)</sup>. Staying under 180 days does not protect you: in many cases the person had been away less than six months, so the visa had not lapsed under the 180-day rule, and the main cause was cancellation through the sponsor <sup>[N11](#n11)</sup>. Some learned only at check-in or at UAE immigration <sup>[N20](#n20)</sup>. For the counts, how notices came and possible causes, see ["Is it open now, and who can go?"](#is-it-open-now-and-who-can-go).
 
 The normal leave rules still apply. Agree the dates in writing; the employer sets leave dates with a month's notice <sup>[118](#o118)</sup>. A worker who does not come back on time without a good reason is unpaid for the absence, and over 7 days can bring dismissal or an abandonment report <sup>[12 (2021)](#o12), [15](#o15), [44 (2022)](#o44)</sup>. More than 180 days in a row abroad ends the visa on its own <sup>[108](#o108)</sup>.
 
@@ -961,7 +966,7 @@ The normal leave rules still apply. Agree the dates in writing; the employer set
 
 #### 3.10.4 If your visa was cancelled while on leave
 
-Only the UAE government can reinstate a cancelled visa <sup>[N7](#n7)</sup>. The Embassy collects cases and forwards them to the UAE (985 by diplomatic note by 3 August 2026), but being on its list does not guarantee reinstatement, and whether any visa has been reinstated is not confirmed (Need to know below) <sup>[N17](#n17), [N7](#n7)</sup>. These are the steps open to you:
+Only the UAE government can reinstate a cancelled visa <sup>[N7](#n7)</sup>. The Embassy collects cases and forwards them to the UAE (985 by diplomatic note by 3 August 2026), but being on its list does not guarantee reinstatement, and whether any visa has been reinstated is not confirmed (Need to know below) <sup>[N21](#n21), [N7](#n7)</sup>. These are the steps open to you:
 
 1. <a id="if-your-visa-was-cancelled-while-on-leave-item-1"></a>**Email your details to the Bangladesh Embassy,** mission.abudhabi@mofa.gov.bd, with the subject "Visa Cancellation Issue - [your name]" <sup>[130](#o130)</sup>. You'll need <sup>[130](#o130)</sup>:
    - your name, profession, current location, mobile or WhatsApp number and email address;
@@ -971,8 +976,8 @@ Only the UAE government can reinstate a cancelled visa <sup>[N7](#n7)</sup>. The
    - the date of your last visit to Bangladesh.
 
    If you already sent these, you need not send them again <sup>[130](#o130)</sup>. For urgent help call the Embassy, +971566117215, or the Dubai Consulate, +971508168253; from Bangladesh, the Probashi call centre, 16135 (+8809610102030 from abroad) <sup>[130](#o130), [131](#o131)</sup>.
-2. Ask the employer whether it cancelled or can re-apply; the Embassy was checking with employers <sup>[N20](#n20)</sup>.
-3. Don't buy a ticket until the visa shows valid (see ["Check your visa before you fly back"](#check-your-visa-before-you-fly-back)): some who bought tickets were refused boarding because the airline system showed the visa invalid, and fares rose to Tk 70,000-1 lakh (see [Scams done to you, item 5: Ticket gouging](#scams-done-to-you-item-5)) <sup>[N11](#n11), [N19](#n19)</sup>.
+2. Ask the employer whether it cancelled or can re-apply; the Embassy was checking with employers <sup>[N24](#n24)</sup>.
+3. Don't buy a ticket until the visa shows valid (see ["Check your visa before you fly back"](#check-your-visa-before-you-fly-back)): some who bought tickets were refused boarding because the airline system showed the visa invalid, and fares rose to Tk 70,000-1 lakh (see [Scams done to you, item 5: Ticket gouging](#scams-done-to-you-item-5)) <sup>[N11](#n11), [N23](#n23)</sup>.
 4. For unpaid wages or gratuity, email the labour wing (labourwingauh@gmail.com) <sup>[132](#o132)</sup>; an ILOE payout needs you to be in the UAE <sup>[45](#o45)</sup>.
 
 > **Need to know**
@@ -983,7 +988,7 @@ Only the UAE government can reinstate a cancelled visa <sup>[N7](#n7)</sup>. The
 
 #### 3.10.5 Bringing your family
 
-New family visas for Bangladeshis have been restricted or stalled since July 2024 (see "Status for Bangladeshis" under "Family residence (spouse, children and parents)") <sup>[N49](#n49)</sup>. A family visit visa is restricted too (see ["Family visit visa"](#family-visit-visa)) <sup>[N1](#n1)</sup>.
+New family visas for Bangladeshis have been restricted or stalled since July 2024 (see "Status for Bangladeshis" under "Family residence (spouse, children and parents)") <sup>[N68](#n68)</sup>. A family visit visa is restricted too (see ["Family visit visa"](#family-visit-visa)) <sup>[N1](#n1)</sup>.
 
 In law, a worker can sponsor a spouse and children only with a salary of at least AED 4,000 a month (about Tk 1.36 lakh), or AED 3,000 plus housing given by the employer, and housing big enough for the family (for the steps, see ["Family residence (spouse, children and parents)"](#family-residence-spouse-children-and-parents)) <sup>[133](#o133), [91 (2024)](#o91), [2](#o2)</sup>.
 
@@ -1003,7 +1008,9 @@ In law, a worker can sponsor a spouse and children only with a salary of at leas
 
 #### 3.11.2 Protests
 
-Joining a public gathering of 5 or more people that disturbs order and not leaving when told: at least 1 year and AED 100,000; at least 5 years if it disrupts security, traffic or work <sup>[135](#o135)</sup>. Calling for unpermitted demonstrations online: jail and/or AED 200,000 to 1 million <sup>[136](#o136)</sup>. In July 2024, 57 Bangladeshis who protested in UAE streets got 10 years to life; they were pardoned and deported in September 2024 <sup>[9 (2024)](#o9), [34 (2024)](#o34)</sup>. Recording and sharing videos of the gatherings counted against them <sup>[9 (2024)](#o9)</sup>. Joining a strike or non-peaceful protest also cancels any ILOE claim <sup>[45](#o45)</sup>.
+Joining a public gathering of 5 or more people that disturbs order and not leaving when told: at least 1 year and AED 100,000; at least 5 years if it disrupts security, traffic or work <sup>[135](#o135)</sup>. Calling for unpermitted demonstrations online: jail and/or AED 200,000 to 1 million <sup>[136](#o136)</sup>. In July 2024, 57 Bangladeshis who protested in UAE streets got 10 years to life; they were pardoned and deported in September 2024 <sup>[9 (2024)](#o9), [34 (2024)](#o34)</sup>. The Abu Dhabi court sentenced them after a one-day hearing, investigation to verdict in under 48 hours, according to Human Rights Watch, which notes the penal code bans protests and gatherings outright <sup>[N69 (2024)](#n69)</sup>. Recording and sharing videos of the gatherings counted against them <sup>[9 (2024)](#o9)</sup>. On 20 July 2024 the Embassy and the Dubai Consulate warned that any meeting, gathering or slogan without prior permission is banned, as is spreading rumours or posting statements, photos or videos that could cause unrest, panic or confusion; the penalty can be visa cancellation, jail or fines, deportation and a future entry ban <sup>[N29 (2024)](#n29)</sup>.
+
+What followed for those jailed: the UAE waived the sentences after the chief adviser asked its President, and the freed began returning from the first week of September 2024 <sup>[N70](#n70)</sup>; by February 2026 the UAE had pardoned 212 convicted Bangladeshis, the expatriates' welfare adviser said <sup>[N45](#n45)</sup>. Others were still in jail in 2025. A Feni woman said in June 2025 that her husband had been in a UAE jail since 29 October 2024 for joining the movement, and her brother was held too <sup>[N71](#n71)</sup>; returnees counted about 23 still jailed in August 2025 <sup>[N70](#n70)</sup>. In October 2025 the Ministry of Expatriates' Welfare said 25 were still in Abu Dhabi prison <sup>[N72](#n72)</sup>. The embassy had asked for consular access to them on 1 July 2025, the ministry hired a law firm, Hamdan Al Kaabi, on 8 July, and on 22 September the UAE foreign ministry asked for their passport copies and visa numbers, sent on 30 September <sup>[N72](#n72)</sup>. The law firm said their state-security cases made legal steps slow <sup>[N72](#n72)</sup>. Joining a strike or non-peaceful protest also cancels any ILOE claim <sup>[45](#o45)</sup>.
 
 <a id="social-media-and-insults"></a>
 
@@ -1011,6 +1018,7 @@ Joining a public gathering of 5 or more people that disturbs order and not leavi
 
 - False news or rumours online: at least 1 year and AED 100,000 <sup>[136](#o136)</sup>.
 - Insulting someone online: jail and/or AED 250,000 to 500,000 <sup>[136](#o136)</sup>.
+- During the Iranian attacks of February 2026 some of the Bangladesh missions in six Middle East countries, the UAE among the six, warned that uploading photos or videos of the situation, or spreading baseless news, is against those countries' laws <sup>[N73](#n73)</sup>. Mustafa Qadri of the rights group Equidem said in March 2026 that the risk of arrest for this is highest in the UAE, which has a record of jailing people for filming security incidents <sup>[N74](#n74)</sup>.
 - Photographing people without consent, or posting photos of accident victims: at least 6 months and/or AED 150,000 to 500,000 <sup>[136](#o136)</sup>.
 - Insulting someone by phone or in front of others: up to 6 months or AED 5,000; publicly, up to 1 year or AED 20,000 <sup>[135](#o135)</sup>.
 
@@ -1039,7 +1047,7 @@ Consensual sex outside marriage: at least 6 months for both, but only on a compl
 
 #### 3.11.7 Other
 
-Begging: up to 3 months and AED 5,000 <sup>[135](#o135)</sup>. Assault causing under 20 days' injury: up to 1 year and AED 10,000 <sup>[135](#o135)</sup>. A bounced cheque for lack of funds has been a civil matter since January 2022, but an unpaid cheque debt can bring a travel ban and frozen assets, and a cheque on a closed account or with fraud is still criminal <sup>[N50](#n50)</sup>.
+Begging: up to 3 months and AED 5,000 <sup>[135](#o135)</sup>. Assault causing under 20 days' injury: up to 1 year and AED 10,000 <sup>[135](#o135)</sup>. A bounced cheque for lack of funds has been a civil matter since January 2022, but an unpaid cheque debt can bring a travel ban and frozen assets, and a cheque on a closed account or with fraud is still criminal <sup>[N75](#n75)</sup>.
 
 <a id="after-arrest"></a>
 
@@ -1074,7 +1082,7 @@ Keep photos of your contract, MOHRE job offer, Emirates ID, passport, WPS bank o
 - day 16: labour disputes opened automatically for unpaid workers in firms of 25 or more;
 - day 21: an executive (enforceable) order to pay in firms under 50 workers, or a collective labour dispute in firms of 50 or more; attachment of assets and a travel ban on the person in charge; prosecution for repeat offenders with 50 or more <sup>[38](#o38)</sup>.
 
-**In practice:** Human Rights Watch reports wage theft, recruitment fees and passport confiscation continuing, with Bangladeshi workers among those hit <sup>[N32](#n32)</sup>. Workers cannot form unions or protest <sup>[N51](#n51)</sup>.
+**In practice:** Human Rights Watch reports wage theft, recruitment fees and passport confiscation continuing, with Bangladeshi workers among those hit <sup>[N51](#n51)</sup>. Workers cannot form unions or protest <sup>[N76](#n76)</sup>.
 
 <a id="1-confidential-salary-complaint"></a>
 
@@ -1136,7 +1144,7 @@ What a report does to you and how to cancel it are under "What follows a work ab
 
 #### 3.12.7 What follows a work abandonment report
 
-A proven report means no new work permit for a year <sup>[40](#o40)</sup>, no temporary permit during a court case <sup>[44 (2022)](#o44)</sup>, no ILOE payout while it is open <sup>[45](#o45)</sup>, and removal from WPS <sup>[38](#o38)</sup>. Human Rights Watch says false reports are used against workers who leave abuse, risking detention and deportation <sup>[N32](#n32)</sup>.
+A proven report means no new work permit for a year <sup>[40](#o40)</sup>, no temporary permit during a court case <sup>[44 (2022)](#o44)</sup>, no ILOE payout while it is open <sup>[45](#o45)</sup>, and removal from WPS <sup>[38](#o38)</sup>. Human Rights Watch says false reports are used against workers who leave abuse, risking detention and deportation <sup>[N51](#n51)</sup>.
 
 <a id="how-to-cancel-a-work-abandonment-report"></a>
 
@@ -1166,7 +1174,7 @@ What you get back: an SMS with the result within 14 working days; free <sup>[146
 
 #### 3.13.1 If you want to change employer
 
-For Bangladeshis, company-to-company transfers have been restricted or stalled since July 2024, so a transfer may not go through even when the law allows it <sup>[N13](#n13)</sup>. In law you can move to a new employer without your current employer's consent in the three cases below <sup>[15](#o15)</sup>. Outside them, moving needs the employer's consent; the one-year work ban applies only in its own three cases (see "The one-year ban" under "How the move happens") <sup>[40](#o40)</sup>.
+For Bangladeshis, company-to-company transfers have been restricted or stalled since July 2024, so a transfer may not go through even when the law allows it <sup>[N15](#n15)</sup>. In law you can move to a new employer without your current employer's consent in the three cases below <sup>[15](#o15)</sup>. Outside them, moving needs the employer's consent; the one-year work ban applies only in its own three cases (see "The one-year ban" under "How the move happens") <sup>[40](#o40)</sup>.
 
 **When you can move freely** <sup>[15](#o15)</sup>:
 - the contract expired and was not renewed;
@@ -1176,7 +1184,7 @@ For Bangladeshis, company-to-company transfers have been restricted or stalled s
 > **Need to know**
 > - Is MOHRE approving transfer work permits for Bangladeshi workers in November 2026?
 
-These rules replaced stricter ones: before 2011 an employer could refuse a no-objection certificate (NOC), forcing the worker to leave the UAE for six months, and under the 2011 rules unskilled and semi-skilled workers still needed the employer's consent to move in their first two years <sup>[N52 (2011)](#n52)</sup>.
+These rules replaced stricter ones: before 2011 an employer could refuse a no-objection certificate (NOC), forcing the worker to leave the UAE for six months, and under the 2011 rules unskilled and semi-skilled workers still needed the employer's consent to move in their first two years <sup>[N77 (2011)](#n77)</sup>.
 
 <a id="quitting-with-notice"></a>
 
@@ -1194,7 +1202,7 @@ To move to another UAE employer give one month's written notice; the new employe
 
 #### 3.13.4 How the move happens
 
-These are the legal steps; for Bangladeshis, transfers have been restricted or stalled since July 2024 (see ["If you want to change employer"](#if-you-want-to-change-employer)) <sup>[N13](#n13)</sup>.
+These are the legal steps; for Bangladeshis, transfers have been restricted or stalled since July 2024 (see ["If you want to change employer"](#if-you-want-to-change-employer)) <sup>[N15](#n15)</sup>.
 
 1. <a id="how-the-move-happens-item-1"></a>**Get a new MOHRE job offer.** The new employer issues it on MOHRE's system and you both sign it (see [Step 2, item 2: Sign it](#step-2-the-job-offer-and-contract-mohre-offer-letter-item-2)) <sup>[6](#o6), [147](#o147)</sup>. Check it at inquiry.mohre.gov.ae, "Inquire about job offers" (see [Step 2, item 3: Check the offer is real before you pay anything](#step-2-the-job-offer-and-contract-mohre-offer-letter-item-3)) <sup>[6](#o6)</sup>.
 2. <a id="how-the-move-happens-item-2"></a>**Make sure the old permit is cancelled.** You may not hold an active work permit when the new one is applied for, and the new employer must apply within 90 days of the cancellation <sup>[147](#o147)</sup>.
@@ -1228,7 +1236,7 @@ Claims under the labour law cannot be heard more than two years after the job en
 
 ## 4 Work visa: free zone employee
 
-**Status:** whether free zones issue new employment visas to Bangladeshis is not confirmed; employment visas for Bangladeshis in general have been restricted or stalled since July 2024 (see ["Is it open now, and who can go?"](#is-it-open-now-and-who-can-go)) <sup>[N13](#n13)</sup>.
+**Status:** whether free zones issue new employment visas to Bangladeshis is not confirmed; employment visas for Bangladeshis in general have been restricted or stalled since July 2024 (see ["Is it open now, and who can go?"](#is-it-open-now-and-who-can-go)) <sup>[N15](#n15)</sup>.
 
 > **Need to know**
 > - Are free zones (Jafza, SAIF Zone, Hamriyah, RAKEZ, KEZAD) issuing new employment visas to Bangladeshis in 2026?
@@ -1254,7 +1262,7 @@ Free zones are business areas with their own authority, such as Jebel Ali Free Z
 > - Are UAE recruitment offices getting domestic worker entry permits for Bangladeshi nationals, women or men, in November 2026, or are they refused at the visa stage?
 > - What does a UAE housemaid or house-driver visa cost a Bangladeshi worker in 2026, and who sells it?
 
-Housemaids, cooks, nannies, gardeners, home nurses, family drivers and guards working in a household come under the domestic workers law (Federal Decree-Law No. 9 of 2022, amended by Decree-Law No. 21 of 2023), not the main labour law; it lists 19 such occupations <sup>[42 (2022)](#o42), [115](#o115)</sup>. Only offices licensed by MOHRE (the Ministry of Human Resources and Emiratisation) may recruit them, and the worker must be at least 18 <sup>[42 (2022)](#o42)</sup>. Bangladesh and the UAE signed a domestic worker MoU (memorandum of understanding) on 18 April 2018: recruitment goes only through MOHRE-licensed Tadbeer centres, only licensed Bangladeshi agencies may put forward workers, and the contract must state the job, salary, food, accommodation and transport, with salary paid through the WPS (Wage Protection System, the UAE's electronic salary transfer) <sup>[N53 (2018)](#n53), [19 (2018)](#o19)</sup>. In 2022 MOHRE announced that licensed "domestic worker recruitment offices" would replace Tadbeer centres; 138 such offices were active in July 2026 <sup>[N54 (2022)](#n54), [N55](#n55)</sup>.
+Housemaids, cooks, nannies, gardeners, home nurses, family drivers and guards working in a household come under the domestic workers law (Federal Decree-Law No. 9 of 2022, amended by Decree-Law No. 21 of 2023), not the main labour law; it lists 19 such occupations <sup>[42 (2022)](#o42), [115](#o115)</sup>. Only offices licensed by MOHRE (the Ministry of Human Resources and Emiratisation) may recruit them, and the worker must be at least 18 <sup>[42 (2022)](#o42)</sup>. Bangladesh and the UAE signed a domestic worker MoU (memorandum of understanding) on 18 April 2018: recruitment goes only through MOHRE-licensed Tadbeer centres, only licensed Bangladeshi agencies may put forward workers, and the contract must state the job, salary, food, accommodation and transport, with salary paid through the WPS (Wage Protection System, the UAE's electronic salary transfer) <sup>[N78 (2018)](#n78), [19 (2018)](#o19)</sup>. In 2022 MOHRE announced that licensed "domestic worker recruitment offices" would replace Tadbeer centres; 138 such offices were active in July 2026 <sup>[N79 (2022)](#n79), [N80](#n80)</sup>.
 
 <a id="step-1-check-you-qualify"></a>
 
@@ -1301,15 +1309,15 @@ The certificate is valid 2 years for a first departure; between 2 and 3 years yo
 1. <a id="step-3-get-the-job-through-a-licensed-agency-at-both-ends-item-1"></a>**Bangladesh side.** Only agencies the ministry has approved may send women domestic workers <sup>[21](#o21), [157](#o157)</sup>. Each must lodge a Tk 15 lakh FDR (fixed deposit) security with BMET, employ at least one woman in its office, take **no migration cost** from the woman, and sign an undertaking that its licence can be cancelled if she is abused <sup>[157](#o157)</sup>. The ministry's order of 1 September 2025 approved 21 agencies on these conditions <sup>[157](#o157)</sup>. The list of the 21 is in the order, a PDF in Bangla: [the ministry's order](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-probashi/2024/12/8a41985149db47f88907870f3a49f02c.pdf) <sup>[157](#o157)</sup>. These Bangladesh-side rules (approved agencies, zero cost) are written for women domestic workers <sup>[157](#o157)</sup>.
 2. <a id="step-3-get-the-job-through-a-licensed-agency-at-both-ends-item-2"></a>**UAE side.** Recruiting domestic workers without a MOHRE licence is a crime: up to a year in prison and/or a fine of AED 200,000 to 1,000,000 <sup>[42 (2022)](#o42)</sup>. A licensed office may deal only with licensed agencies abroad and must follow the MoU with the sending country <sup>[155 (2022)](#o155)</sup>. The UAE-side rules (licensed offices, no fees; items 2 and 3) cover every domestic worker, men included <sup>[42 (2022)](#o42)</sup>.
 
-   **Check it is real:** ask for the UAE office's trade licence number, then search Services, Enquiry services, "Company Information" on mohre.gov.ae <sup>[N54 (2022)](#n54)</sup>; MOHRE's list of licensed offices is under Services, Authorised Service Centres <sup>[158 (2023)](#o158)</sup>. For the Bangladesh agency's RL number, see [Work visa: company worker](#work-visa-company-worker), [Step 1, item 3: Through a recruiting agency: find an agency that holds a UAE job order, then check its permission letter](#step-1-find-a-real-job-item-3).
+   **Check it is real:** ask for the UAE office's trade licence number, then search Services, Enquiry services, "Company Information" on mohre.gov.ae <sup>[N79 (2022)](#n79)</sup>; MOHRE's list of licensed offices is under Services, Authorised Service Centres <sup>[158 (2023)](#o158)</sup>. For the Bangladesh agency's RL number, see [Work visa: company worker](#work-visa-company-worker), [Step 1, item 3: Through a recruiting agency: find an agency that holds a UAE job order, then check its permission letter](#step-1-find-a-real-job-item-3).
 
 3. <a id="step-3-get-the-job-through-a-licensed-agency-at-both-ends-item-3"></a>**Pay nothing.** A UAE office may not ask for or accept any commission or expense from you, before or after you start, directly or through anyone else, nor charge you for completing your employment papers <sup>[42 (2022)](#o42), [159 (2024)](#o159)</sup>. It must give a document saying it pays any commission abroad itself without charging you, and MOHRE tells offices to make sure brokers abroad charged the worker nothing <sup>[155 (2022)](#o155), [160 (2024)](#o160)</sup>. Your employer may not take money from you either <sup>[42 (2022)](#o42)</sup>. An office that collects extra money is fined AED 5,000 per case <sup>[155 (2022)](#o155)</sup>.
 
-   **What happens in practice:** many workers still pay fees at home and arrive in debt; the government registered 10,646 recruitment-fee complaints in 2025, across company and domestic work together <sup>[N56](#n56)</sup>.
+   **What happens in practice:** many workers still pay fees at home and arrive in debt; the government registered 10,646 recruitment-fee complaints in 2025, across company and domestic work together <sup>[N81](#n81)</sup>.
 
 4. <a id="step-3-get-the-job-through-a-licensed-agency-at-both-ends-item-4"></a>**Named ("direct") recruitment.** If a relative finds you a household, the office brings you by name at the employer's request; the office then skips some checks and owes the employer no refund if you leave <sup>[155 (2022)](#o155)</sup>. If you quit after probation for your own reasons, you pay your own ticket home (the employer pays if you cannot) <sup>[42 (2022)](#o42)</sup>.
 
-5. <a id="step-3-get-the-job-through-a-licensed-agency-at-both-ends-item-5"></a>**The employer gets your work permit and entry permit.** The employer applies for your MOHRE domestic work permit with UAE Pass (the national digital ID) on MOHRE's website or app, at a service centre or through a Tawseel service provider; it is issued in 2 working days, free online apart from federal charges, and a centre's commission is capped at AED 72 <sup>[154](#o154)</sup>. The employer then gets your entry permit <sup>[N57](#n57)</sup>. A foreign-resident employer must prove a family income of at least AED 25,000 a month by a recent salary certificate (expatriate employer) and three months' bank statements (investor/employer); the permit lasts two years with a UAE citizen employer and one year with a resident employer <sup>[154](#o154)</sup>.
+5. <a id="step-3-get-the-job-through-a-licensed-agency-at-both-ends-item-5"></a>**The employer gets your work permit and entry permit.** The employer applies for your MOHRE domestic work permit with UAE Pass (the national digital ID) on MOHRE's website or app, at a service centre or through a Tawseel service provider; it is issued in 2 working days, free online apart from federal charges, and a centre's commission is capped at AED 72 <sup>[154](#o154)</sup>. The employer then gets your entry permit <sup>[N82](#n82)</sup>. A foreign-resident employer must prove a family income of at least AED 25,000 a month by a recent salary certificate (expatriate employer) and three months' bank statements (investor/employer); the permit lasts two years with a UAE citizen employer and one year with a resident employer <sup>[154](#o154)</sup>.
 
 > **Need to know**
 > - Which Bangladeshi agencies may send men as house drivers, cooks or gardeners, and does the zero-cost rule cover them?
@@ -1321,26 +1329,26 @@ The certificate is valid 2 years for a first departure; between 2 and 3 years yo
 ### 5.4 Step 4: See the job offer and contract before you sign
 
 1. The office must tell you the type of work and the wage before bringing you, let you read the job offer that matches the contract and sign it yourself <sup>[42 (2022)](#o42), [155 (2022)](#o155)</sup>. MOHRE tells offices that the agency in Bangladesh must explain every term in a language you understand <sup>[160 (2024)](#o160)</sup>. The office must also tell you your rights and where to turn if they are broken <sup>[159 (2024)](#o159)</sup>.
-2. Check the contract is on MOHRE's standard form: two years, renewable <sup>[42 (2022)](#o42)</sup>. It must state the workplace, the type of work, the start date, the total wage and basic wage, how you are paid, your leave, any probation, your rest periods and how it can end <sup>[42 (2022)](#o42)</sup>. For the wage, a Dubai maid-agency website gives Tadbeer minimum rates of AED 1,000-1,400 a month for general housemaids and AED 1,400-1,800 for nannies, and lists no Bangladeshi rate <sup>[N58](#n58)</sup>. It is in Arabic plus a language you understand <sup>[42 (2022)](#o42)</sup>; four copies are signed, one for you <sup>[160 (2024)](#o160)</sup>.
+2. Check the contract is on MOHRE's standard form: two years, renewable <sup>[42 (2022)](#o42)</sup>. It must state the workplace, the type of work, the start date, the total wage and basic wage, how you are paid, your leave, any probation, your rest periods and how it can end <sup>[42 (2022)](#o42)</sup>. For the wage, a Dubai maid-agency website gives Tadbeer minimum rates of AED 1,000-1,400 a month for general housemaids and AED 1,400-1,800 for nannies, and lists no Bangladeshi rate <sup>[N83](#n83)</sup>. It is in Arabic plus a language you understand <sup>[42 (2022)](#o42)</sup>; four copies are signed, one for you <sup>[160 (2024)](#o160)</sup>.
 3. The Embassy's labour wing in Abu Dhabi and the Consulate's in Dubai attest individual housemaid visas <sup>[66](#o66), [65 (2021)](#o65)</sup>. The Embassy's form states the basic salary in AED per month and makes the employer pay your ticket out and your ticket home <sup>[161](#o161)</sup>.
 4. Have BMET check the UAE visa online: free, 3 working days; bring the visa and a copy of the passport visa page <sup>[21](#o21)</sup>. At BMET clearance a single visa costs Tk 250 tax if attested, Tk 400 if not <sup>[21](#o21)</sup>. For the rest of BMET clearance, see [Work visa: company worker](#work-visa-company-worker), [Step 6, item 3: BMET clearance (the smart card)](#step-6-orientation-bmet-clearance-and-the-flight-item-3).
 
 > **Need to know**
-> - What minimum monthly salary does the Embassy require before attesting a Bangladeshi housemaid visa in 2026 (it was Dh750 in 2014 <sup>[N59 (2014)](#n59)</sup>)?
+> - What minimum monthly salary does the Embassy require before attesting a Bangladeshi housemaid visa in 2026 (it was Dh750 in 2014 <sup>[N84 (2014)](#n84)</sup>)?
 > - What do Bangladeshi housemaids in the UAE actually earn in 2026?
 
 <a id="step-5-arrive-and-get-your-residence-visa"></a>
 
 ### 5.5 Step 5: Arrive and get your residence visa
 
-The employer or office does the residence steps ([Step 5, item 1: Go through the residence steps](#step-5-arrive-and-get-your-residence-visa-item-1)) within 60 days of entry, or fines apply; until the residence visa is stamped you cannot leave the UAE, except by cancelling the entry permit in an emergency <sup>[91 (2024)](#o91), [N57](#n57)</sup>.
+The employer or office does the residence steps ([Step 5, item 1: Go through the residence steps](#step-5-arrive-and-get-your-residence-visa-item-1)) within 60 days of entry, or fines apply; until the residence visa is stamped you cannot leave the UAE, except by cancelling the entry permit in an emergency <sup>[91 (2024)](#o91), [N82](#n82)</sup>.
 
-1. <a id="step-5-arrive-and-get-your-residence-visa-item-1"></a>**Go through the residence steps** (the employer or office applies) <sup>[N57](#n57)</sup>. The work permit and entry permit come first ([Step 3, item 5: The employer gets your work permit and entry permit](#step-3-get-the-job-through-a-licensed-agency-at-both-ends-item-5)):
+1. <a id="step-5-arrive-and-get-your-residence-visa-item-1"></a>**Go through the residence steps** (the employer or office applies) <sup>[N82](#n82)</sup>. The work permit and entry permit come first ([Step 3, item 5: The employer gets your work permit and entry permit](#step-3-get-the-job-through-a-licensed-agency-at-both-ends-item-5)):
 
-   1. If you are already in the UAE, the employer files a change of status, valid up to 60 days <sup>[N57](#n57)</sup>.
-   2. **Medical fitness test** at an approved government health centre; it includes a pregnancy test <sup>[N57](#n57), [85](#o85)</sup>. The certificate is valid 90 days <sup>[N57](#n57)</sup>.
-   3. **Emirates ID:** give fingerprints (biometrics) within 10 days of the application, or it lapses <sup>[N57](#n57)</sup>. Track it at smartservices.icp.gov.ae with the application number starting 010 <sup>[92](#o92)</sup>.
-   4. The employer buys health insurance and prints the MOHRE contract; then the residence sticker goes in your passport <sup>[N57](#n57)</sup>. The Emirates ID application is valid 1 year with a foreign resident employer or 2 years with an Emirati one <sup>[N57](#n57)</sup>.
+   1. If you are already in the UAE, the employer files a change of status, valid up to 60 days <sup>[N82](#n82)</sup>.
+   2. **Medical fitness test** at an approved government health centre; it includes a pregnancy test <sup>[N82](#n82), [85](#o85)</sup>. The certificate is valid 90 days <sup>[N82](#n82)</sup>.
+   3. **Emirates ID:** give fingerprints (biometrics) within 10 days of the application, or it lapses <sup>[N82](#n82)</sup>. Track it at smartservices.icp.gov.ae with the application number starting 010 <sup>[92](#o92)</sup>.
+   4. The employer buys health insurance and prints the MOHRE contract; then the residence sticker goes in your passport <sup>[N82](#n82)</sup>. The Emirates ID application is valid 1 year with a foreign resident employer or 2 years with an Emirati one <sup>[N82](#n82)</sup>.
 2. Wages are due from the day you enter the UAE <sup>[42 (2022)](#o42)</sup>. Probation can last up to six months <sup>[42 (2022)](#o42)</sup>. Under the "classic package" you are recruited onto the household's file and live with it for the two-year contract <sup>[159 (2024)](#o159)</sup>. Under the office's "temporary" (two-year) or "flexible" (hourly to yearly) packages you stay on the office's file: the office gets your residence visa and pays your salary, and flexible-package work is capped at 8 hours a day <sup>[159 (2024)](#o159)</sup>.
 3. The employer must insure you on its file before MOHRE issues your work permit <sup>[154](#o154)</sup>, and must buy health insurance before your residence permit is issued or renewed (from 1 January 2025; enforced in Abu Dhabi and Dubai, to be extended to the other five emirates with no date given; see ["Health insurance"](#health-insurance)) <sup>[39](#o39)</sup>; the basic package is AED 320 a year <sup>[39](#o39)</sup>. The employer's worker insurance covers up to AED 20,000 of unpaid wages (last 120 days), end-of-service pay, ticket home, work-injury costs and body repatriation <sup>[126](#o126)</sup>.
 
@@ -1353,21 +1361,21 @@ The employer or office does the residence steps ([Step 5, item 1: Go through the
 
 ### 5.6 Scams
 
-- **Unlicensed offices and online "maid" sales.** The UAE shut 230 social media accounts recruiting domestic workers without a licence in 2025; some sponsors and agents advertise "selling" workers online <sup>[N56](#n56)</sup>.
-- **The visit-visa job.** Some workers enter on tourist visas and are kept working illegally, then threatened with their status <sup>[N56](#n56)</sup>. A visit or tourist visa gives no right to work, and working on one brings fines and legal liability <sup>[6](#o6)</sup> (see [Tourist visa](#tourist-visa), Don't work). To hire someone already in the UAE on a tourist visa, the household must first get a MOHRE domestic work permit for them <sup>[154](#o154), [6](#o6)</sup>.
-- **Big salary promises and contract switching.** Fake recruiters promise high pay; some workers find a lower wage on the UAE contract <sup>[N56](#n56), [N59 (2014)](#n59)</sup>.
+- **Unlicensed offices and online "maid" sales.** The UAE shut 230 social media accounts recruiting domestic workers without a licence in 2025; some sponsors and agents advertise "selling" workers online <sup>[N81](#n81)</sup>.
+- **The visit-visa job.** Some workers enter on tourist visas and are kept working illegally, then threatened with their status <sup>[N81](#n81)</sup>. A visit or tourist visa gives no right to work, and working on one brings fines and legal liability <sup>[6](#o6)</sup> (see [Tourist visa](#tourist-visa), Don't work). To hire someone already in the UAE on a tourist visa, the household must first get a MOHRE domestic work permit for them <sup>[154](#o154), [6](#o6)</sup>.
+- **Big salary promises and contract switching.** Fake recruiters promise high pay; some workers find a lower wage on the UAE contract <sup>[N81](#n81), [N84 (2014)](#n84)</sup>.
 - **Fees.** An approved Bangladeshi agency or a UAE recruitment office that asks a woman domestic worker for money breaks the zero-cost rule and UAE law <sup>[157](#o157), [42 (2022)](#o42)</sup>; so does a UAE employer <sup>[42 (2022)](#o42)</sup>.
 
 **Check it is real:**
 
 1. <a id="scams-1-item-1"></a>**The Bangladeshi agency** must be one of the agencies the ministry approved for women domestic workers (21 in September 2025; see [Step 3, item 1: Bangladesh side](#step-3-get-the-job-through-a-licensed-agency-at-both-ends-item-1)) <sup>[157](#o157)</sup>.
-2. <a id="scams-1-item-2"></a>**The UAE office:** call MOHRE on 80060, choose your language, press 2 (domestic workers), choose to speak to a staff member and ask whether the office is licensed; or on mohre.gov.ae open Services > Enquiry services > Company Information and enter the licence number <sup>[N54 (2022)](#n54)</sup>. MOHRE also lists licensed offices under Services > Authorised Service Centres <sup>[158 (2023)](#o158)</sup>.
+2. <a id="scams-1-item-2"></a>**The UAE office:** call MOHRE on 80060, choose your language, press 2 (domestic workers), choose to speak to a staff member and ask whether the office is licensed; or on mohre.gov.ae open Services > Enquiry services > Company Information and enter the licence number <sup>[N79 (2022)](#n79)</sup>. MOHRE also lists licensed offices under Services > Authorised Service Centres <sup>[158 (2023)](#o158)</sup>.
 3. <a id="scams-1-item-3"></a>**The visa:** have BMET check it (see [Step 4, item 4](#step-4-see-the-job-offer-and-contract-before-you-sign)) <sup>[21](#o21)</sup>.
 
 **How to report:**
 
-1. <a id="work-visa-domestic-worker-item-1"></a>**A UAE recruitment office:** MOHRE on 600590000, its website or app, or the Labour Claims and Advisory Centre on 80084 <sup>[158 (2023)](#o158), [N55](#n55)</sup>.
-2. <a id="work-visa-domestic-worker-item-2"></a>**A fake job or visa online, in Dubai:** the Dubai Police app or eCrime platform <sup>[N41](#n41)</sup>.
+1. <a id="work-visa-domestic-worker-item-1"></a>**A UAE recruitment office:** MOHRE on 600590000, its website or app, or the Labour Claims and Advisory Centre on 80084 <sup>[158 (2023)](#o158), [N80](#n80)</sup>.
+2. <a id="work-visa-domestic-worker-item-2"></a>**A fake job or visa online, in Dubai:** the Dubai Police app or eCrime platform <sup>[N60](#n60)</sup>.
 3. <a id="work-visa-domestic-worker-item-3"></a>**Abuse or trafficking of a woman:** DFWAC's free 24-hour helpline 800111 <sup>[162](#o162)</sup>.
 4. <a id="work-visa-domestic-worker-item-4"></a>**A Bangladeshi agency:** a written complaint with evidence to BMET's Director General (free, 30 working days); Director (Employment) 01711111544, diremi@bmet.gov.bd <sup>[21](#o21)</sup>.
 
@@ -1379,9 +1387,9 @@ These are minimums; any contract term worse than the law is void <sup>[42 (2022)
 
 - **Rest.** At least 12 hours' rest a day, 8 of them in a row <sup>[42 (2022)](#o42)</sup>. One paid day off a week, agreed with the employer; if you work it you get another day off or a day's wage, and not more than two rest days in two weeks unless you agree <sup>[42 (2022)](#o42), [155 (2022)](#o155)</sup>.
 - **Leave.** 30 days' paid annual leave, paid before you go; 2 days a month if you worked 6-12 months <sup>[42 (2022)](#o42)</sup>. A return ticket home every two years, a one-way ticket if the contract ends after the leave, and cash for unused leave when you finish <sup>[42 (2022)](#o42)</sup>. Sick leave up to 30 days a year with a medical report: the first 15 days on full pay <sup>[42 (2022)](#o42)</sup>.
-- **Pay.** In dirhams, within 10 days of the due date, proved by a written receipt <sup>[42 (2022)](#o42)</sup>. Deductions only for damage from your grave mistake, at most a quarter of the cost, with your consent or MOHRE's approval <sup>[42 (2022)](#o42)</sup>. WPS is compulsory only for private tutors, trainers, home care providers, private agricultural engineers and messengers <sup>[163 (2022)](#o163)</sup>; for housemaids it is voluntary <sup>[163 (2022)](#o163), [N56](#n56)</sup>.
+- **Pay.** In dirhams, within 10 days of the due date, proved by a written receipt <sup>[42 (2022)](#o42)</sup>. Deductions only for damage from your grave mistake, at most a quarter of the cost, with your consent or MOHRE's approval <sup>[42 (2022)](#o42)</sup>. WPS is compulsory only for private tutors, trainers, home care providers, private agricultural engineers and messengers <sup>[163 (2022)](#o163)</sup>; for housemaids it is voluntary <sup>[163 (2022)](#o163), [N81](#n81)</sup>.
 - **Food, room and care.** Suitable accommodation, meals and work clothes; medical treatment or health insurance; protective gloves and shoes <sup>[42 (2022)](#o42), [155 (2022)](#o155)</sup>. You may work for anyone else only through MOHRE's procedures, or for the employer's relatives (up to second degree) with your consent, and you may not be moved to another occupation without your consent <sup>[42 (2022)](#o42), [155 (2022)](#o155)</sup>.
-- **Your passport.** You keep your own passport and ID <sup>[42 (2022)](#o42), [115](#o115)</sup>. The fine on an employer who keeps them is only AED 500, and in practice it does not stop employers <sup>[155 (2022)](#o155), [N56](#n56)</sup>.
+- **Your passport.** You keep your own passport and ID <sup>[42 (2022)](#o42), [115](#o115)</sup>. The fine on an employer who keeps them is only AED 500, and in practice it does not stop employers <sup>[155 (2022)](#o155), [N81](#n81)</sup>.
 - **Abuse.** Sexual harassment, forced labour and discrimination are banned <sup>[42 (2022)](#o42)</sup>. An employer whose household assaults or harasses you is fined AED 20,000, and MOHRE may suspend its file <sup>[155 (2022)](#o155)</sup>.
 - **Travel with the family.** The UAE contract still applies abroad unless that country's law says otherwise <sup>[42 (2022)](#o42)</sup>.
 - **End-of-service pay.** MOHRE says 14 days' wage per year after a year's service, lost if you stop work illegally <sup>[160 (2024)](#o160)</sup>; dues are paid within 10 days of the end <sup>[42 (2022)](#o42)</sup>. Domestic workers get no unemployment insurance (ILOE) <sup>[45](#o45)</sup>.
@@ -1401,8 +1409,8 @@ These are minimums; any contract term worse than the law is void <sup>[42 (2022)
 
 1. <a id="if-you-are-mistreated-or-not-paid-item-1"></a>**MOHRE complaint.** You or the employer may complain during the contract and up to 3 months after it ends <sup>[164 (2022)](#o164), [42 (2022)](#o42)</sup>. Call 600590000, the Labour Claims and Advisory Centre on 80084, or use MOHRE's online domestic worker platform (eservices.mohre.gov.ae/Mohre.Domestic.UI) <sup>[160 (2024)](#o160), [145](#o145), [115](#o115)</sup>. A legal researcher hears both sides; if there is no settlement within two weeks MOHRE refers the case to court <sup>[155 (2022)](#o155), [115](#o115)</sup>. MOHRE itself decides claims up to AED 50,000, and its decision can be enforced; either side can go to court within 15 working days <sup>[42 (2022)](#o42)</sup>. Workers pay no court fees and cases are urgent <sup>[42 (2022)](#o42)</sup>. After referral you must file at the court within 14 days, and within 30 days you can ask for a temporary permit to work for someone else (not if you have been reported absconding); meanwhile the recruiting office must house and feed you <sup>[164 (2022)](#o164)</sup>.
 2. <a id="if-you-are-mistreated-or-not-paid-item-2"></a>**If you are assaulted.** You may leave at once if the employer or their representative assaults, humiliates or sexually assaults you; report to the police promptly and notify MOHRE within 3 days <sup>[155 (2022)](#o155)</sup>. Then go back to your recruiting office, or give MOHRE another address and a phone number <sup>[155 (2022)](#o155)</sup>. If you leave without telling the employer for any reason, lodge a complaint within 48 hours, so MOHRE can protect you <sup>[164 (2022)](#o164), [160 (2024)](#o160)</sup>.
-3. <a id="if-you-are-mistreated-or-not-paid-item-3"></a>**Police and shelters.** Police 999, ambulance 998 <sup>[160 (2024)](#o160)</sup>. Dubai Police: human trafficking hotline 8007283, labour complaints 8005005 <sup>[165](#o165)</sup>; its human rights directorate gives temporary shelter, visas and tickets home <sup>[165](#o165)</sup>. DFWAC (Dubai Foundation for Women and Children) runs a free 24/7 helpline, 800111, also on WhatsApp, with shelter, medical, legal, consular and immigration help <sup>[162](#o162), [165](#o165)</sup>. In Abu Dhabi, Ewa'a shelters victims of violence and trafficking; Sharjah's women's protection line is 800700 <sup>[165](#o165)</sup>. **In practice:** shelters need formal recognition as a trafficking victim, and police sometimes send women to their embassy instead <sup>[N56](#n56)</sup>.
-4. <a id="if-you-are-mistreated-or-not-paid-item-4"></a>**The Bangladesh missions.** The Embassy in Abu Dhabi (Villa 46-48, Al Jawwalah Street, Al Saadah; +971-2-4465100; mission.abudhabi@mofa.gov.bd) takes complaints, attends labour courts and gives distressed workers money or a ticket home <sup>[114](#o114), [66](#o66)</sup>. The Consulate in Dubai's labour wing (weekdays 9 am-5 pm; WhatsApp text +971 50 816 8253 or +971 50 816 8363) counsels women workers and forwards complaints to Bangladesh <sup>[65 (2021)](#o65), [166](#o166)</sup>. Bangladesh runs no safe home for women in the UAE; its three are in Riyadh, Jeddah and Muscat <sup>[N60](#n60)</sup>.
+3. <a id="if-you-are-mistreated-or-not-paid-item-3"></a>**Police and shelters.** Police 999, ambulance 998 <sup>[160 (2024)](#o160)</sup>. Dubai Police: human trafficking hotline 8007283, labour complaints 8005005 <sup>[165](#o165)</sup>; its human rights directorate gives temporary shelter, visas and tickets home <sup>[165](#o165)</sup>. DFWAC (Dubai Foundation for Women and Children) runs a free 24/7 helpline, 800111, also on WhatsApp, with shelter, medical, legal, consular and immigration help <sup>[162](#o162), [165](#o165)</sup>. In Abu Dhabi, Ewa'a shelters victims of violence and trafficking; Sharjah's women's protection line is 800700 <sup>[165](#o165)</sup>. **In practice:** shelters need formal recognition as a trafficking victim, and police sometimes send women to their embassy instead <sup>[N81](#n81)</sup>.
+4. <a id="if-you-are-mistreated-or-not-paid-item-4"></a>**The Bangladesh missions.** The Embassy in Abu Dhabi (Villa 46-48, Al Jawwalah Street, Al Saadah; +971-2-4465100; mission.abudhabi@mofa.gov.bd) takes complaints, attends labour courts and gives distressed workers money or a ticket home <sup>[114](#o114), [66](#o66)</sup>. The Consulate in Dubai's labour wing (weekdays 9 am-5 pm; WhatsApp text +971 50 816 8253 or +971 50 816 8363) counsels women workers and forwards complaints to Bangladesh <sup>[65 (2021)](#o65), [166](#o166)</sup>. Bangladesh runs no safe home for women in the UAE; its three are in Riyadh, Jeddah and Muscat <sup>[N85](#n85)</sup>.
 5. <a id="if-you-are-mistreated-or-not-paid-item-5"></a>**From Bangladesh.** A complaint against the agency goes in writing, with evidence, to BMET's Director General: free, 30 working days; Director (Employment) 01711111544, diremi@bmet.gov.bd <sup>[21](#o21)</sup>. A woman who returns within a year after abuse gets Tk 5,000 at the airport welfare desk <sup>[21](#o21)</sup>.
 
 > **Need to know**
@@ -1416,7 +1424,7 @@ These are minimums; any contract term worse than the law is void <sup>[42 (2022)
 1. <a id="changing-employer-or-leaving-1-item-1"></a>**Changing employer.** Moving straight to a new household is narrower than leaving: MOHRE approves a transfer only when the contract has ended, a court finds the employer broke the contract, or the employer agrees in writing <sup>[164 (2022)](#o164)</sup>. If your wage is cut or the employer breaks the contract, notify MOHRE; after two weeks without a fix you may leave, keep your rights, and transfer or go home <sup>[155 (2022)](#o155)</sup>. For a named recruit who moves in the first contract, the new employer repays part of the old employer's costs <sup>[155 (2022)](#o155)</sup>.
 2. <a id="changing-employer-or-leaving-1-item-2"></a>**Cancelling your permit and going home.** You can ask MOHRE to cancel your work permit for any reason without the employer's consent; if the employer does not answer within 10 days it is processed <sup>[164 (2022)](#o164)</sup>. You must then change status or leave the UAE <sup>[155 (2022)](#o155)</sup>. Your residence visa is then cancelled through MOHRE or the Domestic Work Bundle <sup>[41](#o41)</sup>. If the employer ends the contract for a reason that is not your fault, it pays your ticket and all dues <sup>[42 (2022)](#o42)</sup>; dues are due within 10 days <sup>[42 (2022)](#o42)</sup>. Claims die 3 months after the job ends <sup>[42 (2022)](#o42)</sup>.
 3. <a id="changing-employer-or-leaving-1-item-3"></a>**Absconding ("absence") reports.** The employer must report you within 5 days of an unexcused absence <sup>[42 (2022)](#o42), [160 (2024)](#o160)</sup>. Ten days in a row, or 15 days in a year, without an excuse ends the contract <sup>[42 (2022)](#o42)</sup>. MOHRE can cancel the report if you were absent under 10 days or lawfully, were at work or on leave, or went back to the recruiting office <sup>[164 (2022)](#o164)</sup>. A true report bars a new work permit for a year after you leave; so do drunkenness at work, assaulting the family, or posting photos or videos of the home <sup>[164 (2022)](#o164)</sup>. A false report costs the employer AED 5,000 <sup>[155 (2022)](#o155)</sup>.
-4. <a id="changing-employer-or-leaving-1-item-4"></a>**Going back to the recruiting office.** The office must house and feed you if you come back to it for any reason, including being sent back, refusing work, illness or injury <sup>[159 (2024)](#o159), [42 (2022)](#o42)</sup>. Under the classic package the office guarantees you to the employer for two years <sup>[159 (2024)](#o159)</sup>. During the six-month probation it must replace you or refund the employer if you prove incompetent or badly behaved, are medically unfit, quit or refuse to work, or the agreed conditions are not met; after probation, if you refuse to work or abscond <sup>[159 (2024)](#o159), [155 (2022)](#o155)</sup>. The refund is the full recruitment fee in your first month, the full recruitment and government fees if you are found medically unfit during probation, and otherwise (cost ÷ contract months) × months left; for example AED 7,000 of AED 12,000 after 10 of 24 months <sup>[159 (2024)](#o159), [155 (2022)](#o155), [160 (2024)](#o160)</sup>. It is due within 14 days of your return to the office or the absence report <sup>[159 (2024)](#o159), [155 (2022)](#o155)</sup>. Late refunds were 106 of 135 fines on offices in the first half of 2026 <sup>[N55](#n55)</sup>.
+4. <a id="changing-employer-or-leaving-1-item-4"></a>**Going back to the recruiting office.** The office must house and feed you if you come back to it for any reason, including being sent back, refusing work, illness or injury <sup>[159 (2024)](#o159), [42 (2022)](#o42)</sup>. Under the classic package the office guarantees you to the employer for two years <sup>[159 (2024)](#o159)</sup>. During the six-month probation it must replace you or refund the employer if you prove incompetent or badly behaved, are medically unfit, quit or refuse to work, or the agreed conditions are not met; after probation, if you refuse to work or abscond <sup>[159 (2024)](#o159), [155 (2022)](#o155)</sup>. The refund is the full recruitment fee in your first month, the full recruitment and government fees if you are found medically unfit during probation, and otherwise (cost ÷ contract months) × months left; for example AED 7,000 of AED 12,000 after 10 of 24 months <sup>[159 (2024)](#o159), [155 (2022)](#o155), [160 (2024)](#o160)</sup>. It is due within 14 days of your return to the office or the absence report <sup>[159 (2024)](#o159), [155 (2022)](#o155)</sup>. Late refunds were 106 of 135 fines on offices in the first half of 2026 <sup>[N80](#n80)</sup>.
 
 > **Need to know**
 > - Can a domestic worker move to a company (labour law) visa without leaving the UAE, and how?
@@ -1426,7 +1434,7 @@ These are minimums; any contract term worse than the law is void <sup>[42 (2022)
 
 ## 6 Tourist visa
 
-**Status, November 2026:** tourist visas for Bangladeshis have been effectively stopped since mid-2024 <sup>[N1](#n1), [N13](#n13)</sup>. In October 2025 the immediate past secretary general of the Association of Travel Agents of Bangladesh (ATAB) said tourist and transit visas were "almost zero" <sup>[N12](#n12)</sup>, and a director of the Tour Operators Association of Bangladesh (TOAB) who processed over 2,000 UAE tourist visas a year from 2021 to mid-2024 had not managed one in the year since <sup>[N12](#n12)</sup>. Even a 27-member official delegation to an Abu Dhabi congress got its visas only the night before the flight, after Foreign Ministry intervention <sup>[N12](#n12)</sup>. 
+**Status, November 2026:** tourist visas for Bangladeshis have been effectively stopped since mid-2024 <sup>[N1](#n1), [N15](#n15)</sup>. In October 2025 the immediate past secretary general of the Association of Travel Agents of Bangladesh (ATAB) said tourist and transit visas were "almost zero" <sup>[N12](#n12)</sup>, and a director of the Tour Operators Association of Bangladesh (TOAB) who processed over 2,000 UAE tourist visas a year from 2021 to mid-2024 had not managed one in the year since <sup>[N12](#n12)</sup>. Even a 27-member official delegation to an Abu Dhabi congress got its visas only the night before the flight, after Foreign Ministry intervention <sup>[N12](#n12)</sup>. Already in September 2024 the president of the Bangladesh Outbound Tour Operators Forum said Dubai visas had been closed for a long time <sup>[N86 (2024)](#n86)</sup>, and in May 2026 five people who travel abroad regularly told Prothom Alo that Dubai had been closed for a long time <sup>[N87](#n87)</sup>.
 
 > **Need to know**
 > - Does ICP's or GDRFA's system still reject an application at submission when the passport nationality is Bangladesh, for every visit visa type, as of November 2026?
@@ -1505,14 +1513,14 @@ The official fees are:
 
 ### 6.5 Step 5: Board the flight
 
-1. <a id="step-5-board-the-flight-item-1"></a>**At Dhaka or Chattogram airport, answer immigration police's questions** about your purpose and family. They can stop you flying: in 2021 they stamped "offload" in the passports of visitors to Dubai they doubted <sup>[N61 (2021)](#n61)</sup>. For the "airport contract" agencies sold to get past them, see [Scams](#scams-2), Done to travellers.
+1. <a id="step-5-board-the-flight-item-1"></a>**At Dhaka or Chattogram airport, answer immigration police's questions** about your purpose and family. They can stop you flying: in 2021 they stamped "offload" in the passports of visitors to Dubai they doubted <sup>[N88 (2021)](#n88)</sup>. For the "airport contract" agencies sold to get past them, see [Scams](#scams-2), Done to travellers.
 
 2. <a id="step-5-board-the-flight-item-2"></a>**On Air Arabia, get "OK to Board" on your booking before you fly;** passengers from Bangladesh with a copy of the visa or an e-visa need it <sup>[170](#o170)</sup>:
 
    1. The sponsor or a representative takes the original visa to the nearest Air Arabia office at least 24 hours before departure <sup>[170](#o170)</sup>.
    2. They pay AED 15 to 20 <sup>[170](#o170)</sup>.
 
-   flydubai's OK to Board page lists advance approval only for flights from India and Pakistan and to Iraq, Bosnia, Syria and Libya, not from Bangladesh <sup>[N62](#n62)</sup>.
+   flydubai's OK to Board page lists advance approval only for flights from India and Pakistan and to Iraq, Bosnia, Syria and Libya, not from Bangladesh <sup>[N89](#n89)</sup>.
 
    > **Need to know**
    > - Do Biman, US-Bangla and Emirates require OK to Board for Bangladeshi visit-visa passengers, and at what fee?
@@ -1552,14 +1560,14 @@ Open to Bangladeshis in law, but tourist visas for Bangladeshis have been effect
 > **Need to know**
 > - Has any Bangladeshi-passport holder been granted the 5-year visa since mid-2024?
 
-The terms: self-sponsored, valid 5 years, up to 90 days each visit, extendable by 90 days, no more than 180 days a year <sup>[49](#o49), [174](#o174), [N63](#n63)</sup>. The year counts from the first entry, and unused days don't carry over <sup>[174](#o174)</sup>.
+The terms: self-sponsored, valid 5 years, up to 90 days each visit, extendable by 90 days, no more than 180 days a year <sup>[49](#o49), [174](#o174), [N90](#n90)</sup>. The year counts from the first entry, and unused days don't carry over <sup>[174](#o174)</sup>.
 
 > **Need to know**
 > - The ICP card also says the holder must not exceed 90 days a year <sup>[174](#o174)</sup>: is the yearly limit 90 or 180 days?
 
 You'll need:
 
-- a bank statement showing at least USD 4,000 (about Tk 5 lakh) throughout the 6 months before applying <sup>[174](#o174), [N63](#n63)</sup>;
+- a bank statement showing at least USD 4,000 (about Tk 5 lakh) throughout the 6 months before applying <sup>[174](#o174), [N90](#n90)</sup>;
 - UAE-issued health insurance valid 180 days <sup>[174](#o174)</sup>;
 - a return ticket and proof of where you'll stay <sup>[174](#o174)</sup>;
 - passport valid 6 months and a photo <sup>[174](#o174)</sup>.
@@ -1591,18 +1599,20 @@ This GCC-resident entry permit is open in law, but whether it has been issued to
 
 #### 6.9.1 Done to travellers
 
-**"Job on a visit visa" packages.** In 2021 travel agencies charged Bangladeshis Tk 1.2 to 1.5 lakh for a UAE visit visa package covering visa processing, the ticket, a promised job and "airport contract" money; agencies said the Tk 30,000 airport-contract charge went to immigration police <sup>[N61 (2021)](#n61)</sup>.
+**"Job on a visit visa" packages.** In 2021 travel agencies charged Bangladeshis Tk 1.2 to 1.5 lakh for a UAE visit visa package covering visa processing, the ticket, a promised job and "airport contract" money; agencies said the Tk 30,000 airport-contract charge went to immigration police <sup>[N88 (2021)](#n88)</sup>.
 
 > **Need to know**
 > - Does the "airport contract" for UAE visit-visa travellers still operate in 2026, and at what price?
 
-**Fake visa websites and false news.** In September 2025 a visa-agency website, uaevisaonline.com, posted that the UAE would ban tourist and work visas for Bangladesh and eight other countries from January 2026; Bangladeshi media repeated it <sup>[N64](#n64)</sup>. The Bangladesh Embassy in Abu Dhabi said the claim was false, that the UAE had made no such announcement, that the site's contacts were in the UK, US and India, that its Dubai head-office address did not exist, and that most of its customers complained of being cheated <sup>[18](#o18)</sup>.
+**A girl trafficked on a tourist visa with a false age.** According to her father, in 2023 a neighbour in Gazaria, Munshiganj, told the family her sister in Dubai could take their daughter there for Tk 3 lakh, which the family paid <sup>[N91 (2024)](#n91)</sup>. According to the family, the girl was 17 but the broker showed her as 21 on paper, and she was promised a cleaner's job in a Dubai hospital; she never got it and was sold by traffickers <sup>[N91 (2024)](#n91)</sup>. According to the case filing, the neighbour had her passport made through a broker at a Narayanganj address and sent her on a tourist visa on 16 August 2023 <sup>[N91 (2024)](#n91)</sup>. She died on 8 September, cause given as a fall from height; the family learned in late November and the body came home in December <sup>[N91 (2024)](#n91)</sup>. Her father filed a trafficking and murder case in the Dhaka Human Trafficking Offence Suppression Tribunal against the two sisters; in January 2024 police said that although the tribunal had ordered the CID (Criminal Investigation Department, a police investigation branch) to investigate, no investigating officer had yet been appointed <sup>[N91 (2024)](#n91)</sup>.
+
+**Fake visa websites and false news.** In September 2025 a visa-agency website, uaevisaonline.com, posted that the UAE would ban tourist and work visas for Bangladesh and eight other countries from January 2026; Bangladeshi media repeated it <sup>[N92](#n92)</sup>. The Bangladesh Embassy in Abu Dhabi said the claim was false, that the UAE had made no such announcement, that the site's contacts were in the UK, US and India, that its Dubai head-office address did not exist, and that most of its customers complained of being cheated <sup>[18](#o18)</sup>.
 
 On 19 June 2026 GDRFA Dubai said it had acted against entities selling unauthorised visa and residence services on social media, and told people to use only official channels and to check the source before sharing personal information or paying <sup>[179](#o179)</sup>.
 
 **Check before you pay or fly.** Tourist entry permits are issued by UAE airlines (Emirates, Etihad, flydubai, Air Arabia), licensed hotels and licensed travel agencies (a Bangladeshi agency must go through one of them) <sup>[6](#o6)</sup>. Check any visa on GDRFA's website if it was issued in Dubai, or on ICP's eChannels platform if it was issued in another emirate (see [Tourist visa](#tourist-visa), [Step 4: Check the visa is real](#step-4-check-the-visa-is-real)) <sup>[6](#o6)</sup>.
 
-**Report it.** If someone sold you a fake visa or a "job on a visit visa", or holds you in the UAE, report it to MOHRE (+971 6 802 7666, ask@mohre.gov.ae) and, in Dubai, to Dubai Police on 901, its app or eCrime platform (see [Work visa: company worker](#work-visa-company-worker), [Step 5: Check your visa and permit are real](#step-5-check-your-visa-and-permit-are-real), "If a check fails") <sup>[6](#o6), [N41](#n41)</sup>.
+**Report it.** If someone sold you a fake visa or a "job on a visit visa", or holds you in the UAE, report it to MOHRE (+971 6 802 7666, ask@mohre.gov.ae) and, in Dubai, to Dubai Police on 901, its app or eCrime platform (see [Work visa: company worker](#work-visa-company-worker), [Step 5: Check your visa and permit are real](#step-5-check-your-visa-and-permit-are-real), "If a check fails") <sup>[6](#o6), [N60](#n60)</sup>.
 
 <a id="tried-by-travellers"></a>
 
@@ -1620,7 +1630,7 @@ A visit or tourist visa gives no right to work; working on one brings fines and 
 
 ## 7 Job-seeker visit visa
 
-**Status, November 2026:** not confirmed whether job-seeker visas are being issued to Bangladeshis. Visit visas for Bangladeshis are restricted (see ["Is it open now, and who can go?"](#is-it-open-now-and-who-can-go)) <sup>[N1](#n1)</sup>; the January 2026 report that "skill visas" and "high-profile visas" were still available to Bangladeshis did not name this visa <sup>[N28](#n28)</sup>.
+**Status, November 2026:** not confirmed whether job-seeker visas are being issued to Bangladeshis. Visit visas for Bangladeshis are restricted (see ["Is it open now, and who can go?"](#is-it-open-now-and-who-can-go)) <sup>[N1](#n1)</sup>; the January 2026 report that "skill visas" and "high-profile visas" were still available to Bangladeshis did not name this visa <sup>[N42](#n42)</sup>.
 
 > **Need to know**
 > - Are ICP and GDRFA issuing job-seeker visas to Bangladeshi passport holders in 2026?
@@ -1672,7 +1682,7 @@ You'll need:
    > **Need to know**
    > - Who files the guarantee refund once the visitor has left, and how long does it take?
 
-3. <a id="step-3-extend-then-leave-item-3"></a>**If you find a job, get a MOHRE offer letter, then leave;** Bangladeshis can't switch from a visit visa to a work visa inside the UAE <sup>[N28](#n28)</sup>, so the employer sends you an electronic entry permit for employment (see ["Work visa: company worker"](#work-visa-company-worker)) <sup>[6](#o6)</sup>.
+3. <a id="step-3-extend-then-leave-item-3"></a>**If you find a job, get a MOHRE offer letter, then leave;** Bangladeshis can't switch from a visit visa to a work visa inside the UAE <sup>[N42](#n42)</sup>, so the employer sends you an electronic entry permit for employment (see ["Work visa: company worker"](#work-visa-company-worker)) <sup>[6](#o6)</sup>.
 
 <a id="scams-3"></a>
 
@@ -1707,12 +1717,12 @@ The job-seeker visa is for looking, not working; the penalties in Tourist visa, 
 
 ## 8 Family visit visa
 
-**Status, November 2026:** visit visas for Bangladeshis were restricted from July 2024 and a ministry official said none were issued in 2025, though the UAE ambassador said in May 2025 the embassy was issuing 30 to 50 visit visas a day <sup>[N1](#n1), [N65](#n65)</sup>.
+**Status, November 2026:** visit visas for Bangladeshis were restricted from July 2024 and a ministry official said none were issued in 2025, though the UAE ambassador said in May 2025 the embassy was issuing 30 to 50 visit visas a day <sup>[N1](#n1), [N93](#n93)</sup>.
 
 > **Need to know**
 > - Are UAE residents (including Golden Visa holders) able to get visit visas for Bangladeshi parents, spouses or children in 2026?
 
-A UAE resident can sponsor a relative's or friend's visit for 30, 60 or 90 days, single or multiple entry <sup>[89](#o89), [N66](#n66), [182](#o182)</sup>. The sponsor must earn at least <sup>[89](#o89), [183](#o183)</sup>:
+A UAE resident can sponsor a relative's or friend's visit for 30, 60 or 90 days, single or multiple entry <sup>[89](#o89), [N94](#n94), [182](#o182)</sup>. The sponsor must earn at least <sup>[89](#o89), [183](#o183)</sup>:
 
 - AED 4,000 a month for a first-degree relative: father, mother, spouse, son, daughter;
 - AED 8,000 for a second- or third-degree relative: sibling, grandparent, grandchild, uncle, aunt, cousin;
@@ -1726,25 +1736,25 @@ In humanitarian cases ICP's Director General of Identity and Foreigners Affairs 
 
 You'll need:
 
-- a passport valid at least 6 months and a recent photo <sup>[89](#o89), [N66](#n66)</sup>;
-- the attested marriage, birth or family certificate proving the relationship <sup>[N66](#n66), [89](#o89)</sup>;
+- a passport valid at least 6 months and a recent photo <sup>[89](#o89), [N94](#n94)</sup>;
+- the attested marriage, birth or family certificate proving the relationship <sup>[N94](#n94), [89](#o89)</sup>;
 - a return ticket and UAE-valid health insurance <sup>[89](#o89)</sup>.
 
 <a id="step-2-the-sponsor-applies-in-the-uae"></a>
 
 ### 8.2 Step 2: The sponsor applies in the UAE
 
-You'll need (the sponsor): a valid UAE residence visa and Emirates ID, an active sponsor file, and proof of income (salary certificate from a government or free-zone employer, employment contract for a private company, or partnership contract), plus proof of accommodation <sup>[N66](#n66), [89](#o89), [182](#o182)</sup>.
+You'll need (the sponsor): a valid UAE residence visa and Emirates ID, an active sponsor file, and proof of income (salary certificate from a government or free-zone employer, employment contract for a private company, or partnership contract), plus proof of accommodation <sup>[N94](#n94), [89](#o89), [182](#o182)</sup>.
 
 1. <a id="step-2-the-sponsor-applies-in-the-uae-item-1"></a>**Apply** through one of these:
 
    - **Abu Dhabi and the northern emirates (ICP):** open [smartservices.icp.gov.ae](https://smartservices.icp.gov.ae/echannels/web/client/default.html#/login) or the ICP Smart App, log in with UAE Pass, choose "Issuance of a Visa" and the category "Visitor – For visiting relatives, friends", fill in the form and upload the papers <sup>[89](#o89)</sup>.
-   - **Dubai (GDRFA), online:** open [smart.gdrfad.gov.ae](https://smart.gdrfad.gov.ae/SmartChannels_Th/Login.aspx?Lang=ar-AE) or the GDRFA app, log in with UAE Pass or a username, search for the relative or friend visit visa, fill in the application and pay <sup>[182](#o182), [N66](#n66)</sup>.
-   - **Dubai, at a counter:** at an Amer centre or a Customer Happiness Centre, take the automatic queue ticket, hand the application and papers to the employee and pay <sup>[182](#o182), [N66](#n66)</sup>.
+   - **Dubai (GDRFA), online:** open [smart.gdrfad.gov.ae](https://smart.gdrfad.gov.ae/SmartChannels_Th/Login.aspx?Lang=ar-AE) or the GDRFA app, log in with UAE Pass or a username, search for the relative or friend visit visa, fill in the application and pay <sup>[182](#o182), [N94](#n94)</sup>.
+   - **Dubai, at a counter:** at an Amer centre or a Customer Happiness Centre, take the automatic queue ticket, hand the application and papers to the employee and pay <sup>[182](#o182), [N94](#n94)</sup>.
    - **Emirates passengers:** at any Emirates ticketing office in the UAE <sup>[8](#o8)</sup>.
 2. <a id="step-2-the-sponsor-applies-in-the-uae-item-2"></a>**Pay:**
    - ICP: AED 100 application, AED 100 per month (single entry) or AED 200 per month (multiple entry), AED 100 smart-service fee, and a refundable guarantee of AED 1,000 (single) or AED 2,000 (multiple) plus AED 20 <sup>[89](#o89)</sup>;
-   - GDRFA: AED 200 (30 days), AED 300 (60) or AED 400 (90) single entry, or AED 300, 500 or 700 multiple entry, plus 5% VAT, insurance AED 40 to 90, and a refundable AED 1,000 (single) or AED 2,000 (multiple) deposit <sup>[182](#o182), [N66](#n66)</sup>.
+   - GDRFA: AED 200 (30 days), AED 300 (60) or AED 400 (90) single entry, or AED 300, 500 or 700 multiple entry, plus 5% VAT, insurance AED 40 to 90, and a refundable AED 1,000 (single) or AED 2,000 (multiple) deposit <sup>[182](#o182), [N94](#n94)</sup>.
 3. <a id="step-2-the-sponsor-applies-in-the-uae-item-3"></a>**Wait about 48 hours**; the visa is emailed <sup>[92](#o92)</sup>. Track an ICP application at smartservices.icp.gov.ae under application tracking, with the application number starting 010 <sup>[92](#o92)</sup>.
 4. <a id="step-2-the-sponsor-applies-in-the-uae-item-4"></a>**Send the visa to the visitor,** who must enter within 60 days <sup>[89](#o89)</sup>.
 
@@ -1768,7 +1778,7 @@ You'll need (the sponsor): a valid UAE residence visa and Emirates ID, an active
 
 #### 8.4.1 Done to families
 
-**"Family visit visas" sold by agents or online sellers.** Entities online offer visa and residence services they are not authorised to give; GDRFA warned in June 2026 that these could expose people to exploitation <sup>[179](#o179)</sup>. A seller who is not your relative or friend in the UAE cannot get you a genuine family visit visa: only the UAE-resident sponsor can apply, and the sponsor must have an active sponsor file, a valid residence visa and Emirates ID, and proof of income <sup>[89](#o89), [N66](#n66)</sup>.
+**"Family visit visas" sold by agents or online sellers.** Entities online offer visa and residence services they are not authorised to give; GDRFA warned in June 2026 that these could expose people to exploitation <sup>[179](#o179)</sup>. A seller who is not your relative or friend in the UAE cannot get you a genuine family visit visa: only the UAE-resident sponsor can apply, and the sponsor must have an active sponsor file, a valid residence visa and Emirates ID, and proof of income <sup>[89](#o89), [N94](#n94)</sup>.
 
 **Check before you pay or fly.** Check any family visit visa you are sold on ICP's File Validity page or GDRFA's Status Inquiry page (see [Tourist visa](#tourist-visa), [Step 4: Check the visa is real](#step-4-check-the-visa-is-real)) <sup>[103](#o103)</sup>.
 
@@ -1795,7 +1805,7 @@ A visit visa holder may not work (see [Tourist visa](#tourist-visa), Don't work)
 
 ### 9.1 Status for Bangladeshis
 
-The rules in this section are the law, but new family visas for Bangladeshis have been restricted and stalled since July 2024, as have student, tourist and employment visas and company-to-company transfers; Bangladesh's Expatriates' Welfare Minister said so on 18 August 2026 <sup>[N49](#n49)</sup>. Reporting in January 2026 said only "skill visas" and "high-profile visas" were being issued to Bangladeshis <sup>[N28](#n28)</sup>. For a short family visit, see [Family visit visa](#family-visit-visa).
+The rules in this section are the law, but new family visas for Bangladeshis have been restricted and stalled since July 2024, as have student, tourist and employment visas and company-to-company transfers; Bangladesh's Expatriates' Welfare Minister said so on 18 August 2026 <sup>[N68](#n68)</sup>. Reporting in January 2026 said only "skill visas" and "high-profile visas" were being issued to Bangladeshis <sup>[N42](#n42)</sup>. For a short family visit, see [Family visit visa](#family-visit-visa).
 
 > **Need to know**
 > - Are GDRFA and ICP approving new family residence applications by Bangladeshi sponsors in November 2026, and for which salary or job levels?
@@ -1825,14 +1835,14 @@ How long the family's visa lasts and what happens if the sponsor's is cancelled:
 
 ### 9.3 Step 1: Get the marriage and birth certificates attested
 
-The UAE accepts a Bangladeshi certificate only after three attestations: Bangladesh's Ministry of Foreign Affairs (MoFA), then the UAE Embassy in Bangladesh, then the UAE Ministry of Foreign Affairs (UAE MOFA) <sup>[N67](#n67)</sup>.
+The UAE accepts a Bangladeshi certificate only after three attestations: Bangladesh's Ministry of Foreign Affairs (MoFA), then the UAE Embassy in Bangladesh, then the UAE Ministry of Foreign Affairs (UAE MOFA) <sup>[N95](#n95)</sup>.
 
 1. <a id="step-1-get-the-marriage-and-birth-certificates-attested-item-1"></a>**Notarise the certificates.** MoFA works from a notarised scan of the nikahnama or marriage documents issued by the nikah registrar, and of the birth certificate issued by the city corporation, municipality or union parishad <sup>[100](#o100)</sup>. A hospital birth certificate must first be attested by the Civil Surgeon or the Health Ministry <sup>[100](#o100)</sup>.
 2. <a id="step-1-get-the-marriage-and-birth-certificates-attested-item-2"></a>**Apply to MoFA on mygov.bd.** Register, choose the option for the document type (marriage certificate or birth certificate), fill in the form and upload the scan as JPEG, JPG or PNG <sup>[100](#o100)</sup>. It is free and takes 5 working days; an SMS tells you when the attested copy is ready to download from your mygov account <sup>[100](#o100)</sup>. Questions: MoFA consular section, 024152830, asconsular2@mofa.gov.bd <sup>[100](#o100)</sup>.
-3. <a id="step-1-get-the-marriage-and-birth-certificates-attested-item-3"></a>**Apply for the UAE attestations online.** Make a UAE Pass account, log in at mofa.gov.ae and choose Services > Services for Individuals > Document Attestation > UAE Embassy and Consulate abroad > Bangladesh > mission "VFS delivery service" > "Issued from Outside UAE" <sup>[N67](#n67)</sup>. Pay AED 300 per personal document on the portal (AED 150 Embassy + AED 150 UAE MOFA) plus the service fee of VFS Global, the private company that collects and returns documents for the UAE Embassy in Bangladesh <sup>[N67](#n67)</sup>. If the application is rejected only the Embassy fee comes back <sup>[N67](#n67)</sup>.
-4. <a id="step-1-get-the-marriage-and-birth-certificates-attested-item-4"></a>**Hand over the originals.** A VFS courier collects them within 48-72 hours, or you drop them at the VFS UAE Attestation Centre; the Embassy and UAE MOFA attest digitally in 2-3 working days and nothing more is needed inside the UAE <sup>[N67](#n67)</sup>. VFS call centre: +8809606 777 919 <sup>[N67](#n67)</sup>.
+3. <a id="step-1-get-the-marriage-and-birth-certificates-attested-item-3"></a>**Apply for the UAE attestations online.** Make a UAE Pass account, log in at mofa.gov.ae and choose Services > Services for Individuals > Document Attestation > UAE Embassy and Consulate abroad > Bangladesh > mission "VFS delivery service" > "Issued from Outside UAE" <sup>[N95](#n95)</sup>. Pay AED 300 per personal document on the portal (AED 150 Embassy + AED 150 UAE MOFA) plus the service fee of VFS Global, the private company that collects and returns documents for the UAE Embassy in Bangladesh <sup>[N95](#n95)</sup>. If the application is rejected only the Embassy fee comes back <sup>[N95](#n95)</sup>.
+4. <a id="step-1-get-the-marriage-and-birth-certificates-attested-item-4"></a>**Hand over the originals.** A VFS courier collects them within 48-72 hours, or you drop them at the VFS UAE Attestation Centre; the Embassy and UAE MOFA attest digitally in 2-3 working days and nothing more is needed inside the UAE <sup>[N95](#n95)</sup>. VFS call centre: +8809606 777 919 <sup>[N95](#n95)</sup>.
 
-**Check it is real:** the original is not stamped; download the attested document at verify.mofa.gov.ae with the reference number and issue date <sup>[N67](#n67), [185](#o185)</sup>.
+**Check it is real:** the original is not stamped; download the attested document at verify.mofa.gov.ae with the reference number and issue date <sup>[N95](#n95), [185](#o185)</sup>.
 
 > **Need to know**
 > - What is VFS Global's service fee in Taka for one UAE attestation in Dhaka?
@@ -1910,7 +1920,7 @@ A family member can work, but only with a work permit. A foreigner may not work,
 
 ## 10 Business visit
 
-**Status, November 2026:** visit visas for Bangladeshis have been restricted since mid-2024 (see [Tourist visa](#tourist-visa)), and business visits are no exception <sup>[N1](#n1)</sup>. Group visas for business delegations were said to be speeded up in May 2025 <sup>[N68](#n68)</sup>, but in October 2025 even a Bangladeshi delegation to a conference in Abu Dhabi got its visas only on the night before its flight, after intervention by the Ministry of Foreign Affairs <sup>[N12](#n12)</sup>.
+**Status, November 2026:** visit visas for Bangladeshis have been restricted since mid-2024 (see [Tourist visa](#tourist-visa)), and business visits are no exception <sup>[N1](#n1)</sup>. Group visas for business delegations were said to be speeded up in May 2025 <sup>[N96](#n96)</sup>, but in October 2025 even a Bangladeshi delegation to a conference in Abu Dhabi got its visas only on the night before its flight, after intervention by the Ministry of Foreign Affairs <sup>[N12](#n12)</sup>.
 
 <a id="explore-business-or-investment"></a>
 
@@ -1966,7 +1976,7 @@ Meetings and exploring are allowed; work is not (see [Tourist visa](#tourist-vis
 
 ## 11 Medical visit
 
-**Status, November 2026:** visit visas for Bangladeshis are restricted <sup>[N1](#n1)</sup>; the UAE ambassador promised flexibility for humanitarian cases raised by Bangladeshi authorities (May 2025) <sup>[N65](#n65)</sup>.
+**Status, November 2026:** visit visas for Bangladeshis are restricted <sup>[N1](#n1)</sup>; the UAE ambassador promised flexibility for humanitarian cases raised by Bangladeshi authorities (May 2025) <sup>[N93](#n93)</sup>.
 
 A licensed UAE hospital applies for the patient, single or multiple entry; in Dubai the visa is for 90 or 180 days <sup>[195](#o195)</sup>.
 
@@ -2022,7 +2032,7 @@ No work on a medical visa (see [Tourist visa](#tourist-visa), Don't work) <sup>[
 
 ## 12 Mission work visa (temporary work)
 
-**Status, November 2026:** not confirmed whether mission visas are issued to Bangladeshis. Work visas for Bangladeshis are restricted except skilled categories (see ["Work visa: company worker"](#work-visa-company-worker)) <sup>[N1](#n1), [N28](#n28)</sup>.
+**Status, November 2026:** not confirmed whether mission visas are issued to Bangladeshis. Work visas for Bangladeshis are restricted except skilled categories (see ["Work visa: company worker"](#work-visa-company-worker)) <sup>[N1](#n1), [N42](#n42)</sup>.
 
 > **Need to know**
 > - Are mission visas being issued to Bangladeshis in 2026?
@@ -2074,7 +2084,7 @@ Work only for the company named on the permit; working for others breaks the per
 
 ## 13 Transit
 
-**Status, November 2026:** transit visas for Bangladeshis were reported restricted and "almost zero" in October 2025 <sup>[N12](#n12)</sup>.
+**Status, November 2026:** transit visas for Bangladeshis were reported restricted and "almost zero" in October 2025 <sup>[N12](#n12)</sup>. Seafarers are affected too: in January 2025 the Bangladesh consul general in Dubai asked MOHRE for help with Bangladeshi seafarers' difficulties getting sign-off and transit visas at UAE ports <sup>[N43](#n43)</sup>; in February 2026 the expatriates' welfare adviser also asked the UAE for help with seafarer visas <sup>[N45](#n45)</sup>.
 
 Leaving the airport during a connection needs a pre-arranged transit visa for anyone not eligible for visa on arrival, which includes Bangladeshis <sup>[198](#o198), [7](#o7), [8](#o8), [47](#o47)</sup>. It is for 48 or 96 hours, single entry, not extendable <sup>[198](#o198)</sup>. It needs a passport valid for the UAE and the next country and an onward ticket <sup>[50 (2022)](#o50)</sup>.
 
@@ -2103,7 +2113,7 @@ A transit visa allows no work or overstay (see [Tourist visa](#tourist-visa), Do
 
 ## 14 Student visa
 
-**Status for Bangladeshis, November 2026:** new student visas for Bangladeshis are among those stalled since July 2024, the Expatriates' Welfare Minister said on 18 August 2026 <sup>[N49](#n49)</sup>.
+**Status for Bangladeshis, November 2026:** new student visas for Bangladeshis are among those stalled since July 2024, the Expatriates' Welfare Minister said on 18 August 2026 <sup>[N68](#n68)</sup>.
 
 > **Need to know**
 > - Are UAE universities currently getting student visas approved for applicants from Bangladesh, and which universities?
@@ -2124,7 +2134,7 @@ A student stays either on a resident parent's sponsorship or on the university's
 
 ### 14.2 Step 2: Apply through the university
 
-1. <a id="step-2-apply-through-the-university-item-1"></a>**Get an unconditional offer and pay what the university asks before the visa.** Middlesex University Dubai, for example, wants 25% of the year's tuition paid first, a passport valid one year, and a parent's no-objection letter for anyone under 18 <sup>[N69](#n69)</sup>.
+1. <a id="step-2-apply-through-the-university-item-1"></a>**Get an unconditional offer and pay what the university asks before the visa.** Middlesex University Dubai, for example, wants 25% of the year's tuition paid first, a passport valid one year, and a parent's no-objection letter for anyone under 18 <sup>[N97](#n97)</sup>.
 2. <a id="step-2-apply-through-the-university-item-2"></a>**Send the university your papers.** You'll need <sup>[199](#o199), [91 (2024)](#o91)</sup>:
 
    - passport and photo;
@@ -2139,9 +2149,9 @@ A student stays either on a resident parent's sponsorship or on the university's
 > **Need to know**
 > - Does a student need a UAE medical fitness test before the student residence is issued?
 
-Fees are set by each university. Examples: Middlesex University Dubai charges AED 5,555.22 if you apply from outside the UAE (AED 7,235.22 inside), covering processing, Emirates ID and medical insurance, plus a refundable AED 2,500 deposit, and wants 25% of the year's tuition paid first <sup>[N69](#n69)</sup>. The American University in Dubai charges AED 2,000 plus a refundable AED 3,000 deposit, and its compulsory health insurance comes on top (AED 3,200, non-refundable, for a student starting in the autumn semester) <sup>[N70](#n70)</sup>. If the visa is refused the deposit comes back but the government fee may not <sup>[N69](#n69)</sup>. Leaving without cancelling the visa forfeits the deposit <sup>[N70](#n70)</sup>.
+Fees are set by each university. Examples: Middlesex University Dubai charges AED 5,555.22 if you apply from outside the UAE (AED 7,235.22 inside), covering processing, Emirates ID and medical insurance, plus a refundable AED 2,500 deposit, and wants 25% of the year's tuition paid first <sup>[N97](#n97)</sup>. The American University in Dubai charges AED 2,000 plus a refundable AED 3,000 deposit, and its compulsory health insurance comes on top (AED 3,200, non-refundable, for a student starting in the autumn semester) <sup>[N98](#n98)</sup>. If the visa is refused the deposit comes back but the government fee may not <sup>[N97](#n97)</sup>. Leaving without cancelling the visa forfeits the deposit <sup>[N98](#n98)</sup>.
 
-The visa lasts for the programme; ICP lets a student stay 180 days after finishing, but some universities keep it active only 3 months after graduation <sup>[91 (2024)](#o91), [N70](#n70)</sup>.
+The visa lasts for the programme; ICP lets a student stay 180 days after finishing, but some universities keep it active only 3 months after graduation <sup>[91 (2024)](#o91), [N98](#n98)</sup>.
 
 <a id="can-a-student-work"></a>
 
@@ -2156,7 +2166,7 @@ A student can work only through an employer's MOHRE student training and work pe
 
 ## 15 Green visa
 
-**Status for Bangladeshis, November 2026:** not confirmed whether green visas are approved for Bangladeshis; reporting in January 2026 said only "skill visas" and "high-profile visas" were being issued to them <sup>[N28](#n28)</sup>. The skilled-worker route needs a salary of at least AED 15,000 a month, a bachelor's degree and MOHRE skill level 1 to 3 <sup>[202](#o202)</sup>.
+**Status for Bangladeshis, November 2026:** not confirmed whether green visas are approved for Bangladeshis; reporting in January 2026 said only "skill visas" and "high-profile visas" were being issued to them <sup>[N42](#n42)</sup>. The skilled-worker route needs a salary of at least AED 15,000 a month, a bachelor's degree and MOHRE skill level 1 to 3 <sup>[202](#o202)</sup>.
 
 > **Need to know**
 > - Are green visas being approved for Bangladeshi skilled workers in 2026?
@@ -2196,9 +2206,9 @@ A green visa is a 5-year renewable residence with no employer sponsor, and the h
 
 The main routes need a salary of at least AED 30,000 a month (skilled professional) or at least AED 2 million invested (investor) <sup>[50 (2022)](#o50), [207](#o207)</sup>.
 
-**Status for Bangladeshis:** Bangladeshis have received golden residence, many through investment or business <sup>[N71](#n71)</sup>; journalist Keramat Ullah Biplob got a 10-year golden residence in the "expert journalist" category in March 2025, after actor Shakib Khan and cricketers Ashraful and Tamim Iqbal <sup>[N71](#n71)</sup>.
+**Status for Bangladeshis:** Bangladeshis have received golden residence, many through investment or business <sup>[N99](#n99)</sup>; journalist Keramat Ullah Biplob got a 10-year golden residence in the "expert journalist" category in March 2025, after actor Shakib Khan and cricketers Ashraful and Tamim Iqbal <sup>[N99](#n99)</sup>. Bangladesh Bank's spokesman said in February 2025 that every permission it has given to send money abroad was for business, and none was for buying a flat or house <sup>[N100](#n100)</sup>.
 
-**Scam:** on 7 July 2025 Bangladeshi media reported a cheap "nomination-based" golden visa for Bangladeshis and Indians <sup>[N72](#n72)</sup>. ICP denied it the next day: golden visas go only through official UAE channels, no consultancy inside or outside the UAE is authorised, and nobody should pay fees or hand over documents to anyone selling one <sup>[208](#o208)</sup>. Check eligibility on icp.gov.ae or call 600522222 <sup>[208](#o208)</sup>.
+**Scam:** on 7 July 2025 Bangladeshi media reported a cheap "nomination-based" golden visa for Bangladeshis and Indians <sup>[N101](#n101)</sup>. ICP denied it the next day: golden visas go only through official UAE channels, no consultancy inside or outside the UAE is authorised, and nobody should pay fees or hand over documents to anyone selling one <sup>[208](#o208)</sup>. Check eligibility on icp.gov.ae or call 600522222 <sup>[208](#o208)</sup>.
 
 A golden visa is a 5- or 10-year renewable residence with no sponsor; the holder may stay abroad more than six months and sponsor a spouse, children of any age and parents <sup>[207](#o207), [50 (2022)](#o50)</sup>. Employers hire a golden visa holder on a 2-year golden visa work permit <sup>[20](#o20)</sup>.
 
@@ -2213,7 +2223,7 @@ A golden visa is a 5- or 10-year renewable residence with no sponsor; the holder
 
 **Categories** <sup>[207](#o207)</sup>:
 
-- **Skilled professional (10 years):** MOHRE work permit, skill level 1 or 2, bachelor's degree, salary of at least AED 30,000 a month, and a practice licence where required <sup>[50 (2022)](#o50)</sup>. In Dubai without a government nomination, the AED 30,000 must be basic salary excluding allowances (since November 2025), and since December 2025 it must also have been earned for the previous two years <sup>[N73](#n73)</sup>.
+- **Skilled professional (10 years):** MOHRE work permit, skill level 1 or 2, bachelor's degree, salary of at least AED 30,000 a month, and a practice licence where required <sup>[50 (2022)](#o50)</sup>. In Dubai without a government nomination, the AED 30,000 must be basic salary excluding allowances (since November 2025), and since December 2025 it must also have been earned for the previous two years <sup>[N102](#n102)</sup>.
 - **Investor:** AED 2 million in a fund, bank deposit or company, or a company paying AED 250,000 a year in federal tax (10 years); or property worth AED 2 million, wholly owned or with an approved local bank loan (5 years) <sup>[207](#o207), [50 (2022)](#o50)</sup>.
 - **Entrepreneur (5 years):** an approved innovative project <sup>[207](#o207)</sup>.
 - **Exceptional talent, scientists and specialists (10 years):** by recommendation <sup>[207](#o207)</sup>.
@@ -2224,7 +2234,7 @@ A golden visa is a 5- or 10-year renewable residence with no sponsor; the holder
 
 ## 17 Other residence visas (freelance, partner or investor, remote work, retirement, property owner)
 
-**Status for Bangladeshis, November 2026:** not confirmed whether these residence visas are being granted to Bangladeshis; reporting in January 2026 said only "skill visas" and "high-profile visas" were being issued to them <sup>[N28](#n28)</sup>.
+**Status for Bangladeshis, November 2026:** not confirmed whether these residence visas are being granted to Bangladeshis; reporting in January 2026 said only "skill visas" and "high-profile visas" were being issued to them <sup>[N42](#n42)</sup>.
 
 > **Need to know**
 > - What do Bangladeshis pay, all in, for a "partner visa" through a free-zone or mainland trade licence in 2026?
@@ -2251,13 +2261,13 @@ A golden visa is a 5- or 10-year renewable residence with no sponsor; the holder
 
 ## 18 Changing visa type
 
-**Status for Bangladeshis, November 2026:** the switches below are legal for every nationality, but for Bangladeshis visit-to-work has been closed for several years, and new family and employment visas and company-to-company transfers have been restricted and stalled since July 2024 (see Family residence (spouse, children and parents), Status for Bangladeshis) <sup>[N28](#n28), [N49](#n49)</sup>.
+**Status for Bangladeshis, November 2026:** the switches below are legal for every nationality, but for Bangladeshis visit-to-work has been closed for several years, and new family and employment visas and company-to-company transfers have been restricted and stalled since July 2024 (see Family residence (spouse, children and parents), Status for Bangladeshis) <sup>[N42](#n42), [N68](#n68)</sup>.
 
 - **Visit visa to family or employment residence:** in law an entry visa can be converted to residence without leaving the UAE after paying the fee <sup>[50 (2022)](#o50)</sup>; ICP charges AED 500 for the status change, and in Dubai GDRFA charges AED 500 for a person inside the country <sup>[91 (2024)](#o91), [186](#o186)</sup>.
 - **Family residence to work:** a family member can work without changing visa. The employer gets a MOHRE dependant work permit (see ["Can a family member work?"](#can-a-family-member-work)) <sup>[189](#o189)</sup>.
 - **Employment to family residence:** you can switch if the spouse or parent qualifies to sponsor; the new residence is issued after the old one is cancelled, for AED 500 inside the country <sup>[91 (2024)](#o91)</sup>.
 - **Expired or cancelled residence to new residence:** you can get a new residence without leaving, after paying the fee <sup>[50 (2022)](#o50)</sup>.
-- **Employment to green or golden visa:** yes in law, if you meet the salary, skill-level and degree thresholds <sup>[202](#o202), [50 (2022)](#o50)</sup>; whether green visas are approved for Bangladeshis is unconfirmed (see [Green visa](#green-visa)) <sup>[N28](#n28)</sup>.
+- **Employment to green or golden visa:** yes in law, if you meet the salary, skill-level and degree thresholds <sup>[202](#o202), [50 (2022)](#o50)</sup>; whether green visas are approved for Bangladeshis is unconfirmed (see [Green visa](#green-visa)) <sup>[N42](#n42)</sup>.
 - **Student to work:** a student can work only with a work permit; a foreigner may not work, paid or unpaid, without one <sup>[50 (2022)](#o50)</sup>. A student may stay 180 days after study ends <sup>[91 (2024)](#o91)</sup>.
 
 **How to change status inside the UAE:**
@@ -2277,7 +2287,7 @@ A golden visa is a 5- or 10-year renewable residence with no sponsor; the holder
 
 ## 19 Asylum
 
-The UAE is not party to the 1951 Refugee Convention or its 1967 Protocol, and its law gives no asylum or refugee status <sup>[N74](#n74), [N75 (2024)](#n75)</sup>. Anyone without legal residence is treated under immigration law and can be detained; some people seeking protection have been held in a section of the airport while waiting for resettlement elsewhere <sup>[N75 (2024)](#n75)</sup>. People without legal residence, including those on visit or expired visas, generally cannot work legally <sup>[N75 (2024)](#n75)</sup>. The refugees UNHCR (the UN refugee agency) recognises in the UAE come mainly from Iraq, Syria and Palestine; it counts 1,377 refugees and 6,257 asylum seekers <sup>[N74](#n74)</sup>.
+The UAE is not party to the 1951 Refugee Convention or its 1967 Protocol, and its law gives no asylum or refugee status <sup>[N103](#n103), [N104 (2024)](#n104)</sup>. Anyone without legal residence is treated under immigration law and can be detained; some people seeking protection have been held in a section of the airport while waiting for resettlement elsewhere <sup>[N104 (2024)](#n104)</sup>. People without legal residence, including those on visit or expired visas, generally cannot work legally <sup>[N104 (2024)](#n104)</sup>. The refugees UNHCR (the UN refugee agency) recognises in the UAE come mainly from Iraq, Syria and Palestine; it counts 1,377 refugees and 6,257 asylum seekers <sup>[N103](#n103)</sup>.
 
 > **Need to know**
 > - Does UNHCR's office in Abu Dhabi register new asylum claims, and how is it contacted?
@@ -2286,12 +2296,12 @@ The UAE is not party to the 1951 Refugee Convention or its 1967 Protocol, and it
 
 ## 20 Having a child in the UAE
 
-The baby's residence is a family residence, so the parent must meet the family-sponsorship salary and housing rules (see [Who can sponsor](#who-can-sponsor)) <sup>[133](#o133)</sup>, and new family visas for Bangladeshis have been stalled since July 2024 (see Family residence (spouse, children and parents), Status for Bangladeshis) <sup>[N49](#n49)</sup>. If the parents are not married, read Unmarried parents first.
+The baby's residence is a family residence, so the parent must meet the family-sponsorship salary and housing rules (see [Who can sponsor](#who-can-sponsor)) <sup>[133](#o133)</sup>, and new family visas for Bangladeshis have been stalled since July 2024 (see Family residence (spouse, children and parents), Status for Bangladeshis) <sup>[N68](#n68)</sup>. If the parents are not married, read Unmarried parents first.
 
 1. <a id="having-a-child-in-the-uae-item-1"></a>**Get the birth certificate within 30 days** at the hospital or the emirate's health authority (the Ministry of Health and Prevention, MOHAP; the Dubai Health Authority, DHA, in Dubai; the Department of Health, DoH, in Abu Dhabi) <sup>[212](#o212)</sup>. You'll need the attested marriage certificate translated into Arabic, both parents' passports (originals and copies), the hospital's birth notification and discharge summary <sup>[212](#o212)</sup>. Late reporting can be fined up to AED 5,000 <sup>[213 (2022)](#o213)</sup>.
 2. <a id="having-a-child-in-the-uae-item-2"></a>**Attest it** with MOHAP (a DHA or DoH stamp counts) and the UAE MOFA <sup>[212](#o212), [214](#o214)</sup>; the UAE MOFA fee is AED 150 <sup>[214](#o214)</sup>.
 3. <a id="having-a-child-in-the-uae-item-3"></a>**Register the birth with Bangladesh.**
-   - Dubai Consulate: apply online at bdris.gov.bd, then take the printed form, 2 photos, parents' passport copies, the child's UAE birth certificate attested by UAE MOFA, and the marriage certificate attested by MoFA Dhaka to Foshwa Global, 3 Reem Residency, Umm Hurair, Karama, Dubai (appointment needed; 8 am-4 pm Mon-Fri; +971 4 288 0190, WhatsApp +971 50 729 2294) <sup>[215](#o215), [N76](#n76)</sup>. Free within 45 days, then AED 10, plus AED 31.50 service charge; certificate in 3 working days <sup>[N76](#n76), [215](#o215)</sup>.
+   - Dubai Consulate: apply online at bdris.gov.bd, then take the printed form, 2 photos, parents' passport copies, the child's UAE birth certificate attested by UAE MOFA, and the marriage certificate attested by MoFA Dhaka to Foshwa Global, 3 Reem Residency, Umm Hurair, Karama, Dubai (appointment needed; 8 am-4 pm Mon-Fri; +971 4 288 0190, WhatsApp +971 50 729 2294) <sup>[215](#o215), [N105](#n105)</sup>. Free within 45 days, then AED 10, plus AED 31.50 service charge; certificate in 3 working days <sup>[N105](#n105), [215](#o215)</sup>.
    - Abu Dhabi: parents' digital birth certificates, the child's photo and original UAE birth certificate and parents' original passports to Room 102 at the Embassy; free within 45 days, then AED 5, cash only, 15 days <sup>[216](#o216)</sup>.
 4. <a id="having-a-child-in-the-uae-item-4"></a>**Get the child a Bangladeshi passport.** Apply online at epassport.gov.bd, then go to the Consulate or Embassy with the 17-digit online-verifiable birth certificate in English, two 3R lab photos on white, the UAE birth certificate in English and the parents' passports or NIDs; children under 5 need not attend <sup>[217](#o217)</sup>. A first passport needs police verification in Bangladesh; otherwise a regular passport takes 4-6 weeks <sup>[217](#o217)</sup>. Missions charge general applicants USD 100 (express USD 150) for a 48-page, 5-year passport <sup>[94](#o94)</sup>; in Abu Dhabi that was AED 405 (express AED 610), cash only <sup>[218 (2024)](#o218)</sup>.
 5. <a id="having-a-child-in-the-uae-item-5"></a>**Get the residence visa within 120 days.** The baby's passport, Emirates ID and residence must be done within 120 days of birth; after that AED 100 a day is charged and the baby cannot leave the UAE <sup>[212](#o212)</sup>.
@@ -2301,7 +2311,7 @@ In Dubai a newborn is covered under the mother's health insurance for its first 
 > **Need to know**
 > - What does a normal delivery cost at a government hospital for an uninsured or basic-insured Bangladeshi mother in Dubai and Abu Dhabi?
 > - What does the Dubai Consulate charge in dirhams for a child's e-passport (the official mission rate is USD 100, express USD 150 <sup>[94](#o94)</sup>)?
-> - Is the Consulate service centre's (Foshwa Global, Umm Hurair) phone +971 4 288 0190 <sup>[N76](#n76)</sup> or +971 4 570 1648 <sup>[220](#o220)</sup>, or does each serve a different desk?
+> - Is the Consulate service centre's (Foshwa Global, Umm Hurair) phone +971 4 288 0190 <sup>[N105](#n105)</sup> or +971 4 570 1648 <sup>[220](#o220)</sup>, or does each serve a different desk?
 
 <a id="unmarried-parents"></a>
 
@@ -2313,16 +2323,16 @@ A man and an adult woman who have a child outside marriage face at least 2 years
 
 ## 21 Sending money home
 
-**Use a bank or a licensed exchange house, never hundi** (sending through an unlicensed agent) <sup>[37](#o37)</sup>. Bangladesh's Financial Intelligence Unit (BFIU) had suspended or frozen about 55,000 mobile-money (MFS) accounts linked to digital hundi and online gambling by June 2026, and decided in August 2026 to freeze about 14,000 more <sup>[N77](#n77)</sup>.
+**Use a bank or a licensed exchange house, never hundi** (sending through an unlicensed agent) <sup>[37](#o37)</sup>. Bangladeshi bankers regard the UAE as one of the main centres of hundi <sup>[N100](#n100)</sup>. Bangladesh's Financial Intelligence Unit (BFIU) had suspended or frozen about 55,000 mobile-money (MFS) accounts linked to digital hundi and online gambling by June 2026, and decided in August 2026 to freeze about 14,000 more <sup>[N106](#n106)</sup>.
 
-The UAE was Bangladesh's third-largest source of remittances in July-September 2026, USD 777 million, after Saudi Arabia and the UK <sup>[33](#o33)</sup>. It sent USD 4,636 million in FY2023-24, USD 4,168 million in FY2024-25 and USD 4,584 million in FY2025-26, out of USD 35,589 million from all countries in FY2025-26 <sup>[32](#o32)</sup>. Sending from the UAE is the most expensive of Bangladesh's ten main corridors: 2.92% of the amount on average in April-June 2026, and 6.49% for transfers up to USD 200 (about AED 735) <sup>[222](#o222), [2](#o2)</sup>.
+The UAE was Bangladesh's third-largest source of remittances in July-September 2026, USD 777 million, after Saudi Arabia and the UK <sup>[33](#o33)</sup>. It sent USD 4,636 million in FY2023-24, USD 4,168 million in FY2024-25 and USD 4,584 million in FY2025-26, out of USD 35,589 million from all countries in FY2025-26 <sup>[32](#o32)</sup>. Earlier it sent about USD 2,070 million in FY2021-22 and USD 3,030 million in FY2022-23, and it was the top source in July-September 2024 (USD 1,032 million); it sent USD 330 million in July, 340 million in August, 360 million in September and 330 million in October 2024, then USD 290 million in November <sup>[N107 (2024)](#n107), [N108 (2024)](#n108), [N109 (2024)](#n109), [N110](#n110)</sup>. It had still been the top source in August 2024 and was second in December 2024 (USD 370 million); in January 2025 remittances from the UAE fell significantly and the UK overtook both it and Saudi Arabia <sup>[N111](#n111)</sup>. From September 2024 the US overtook it in Bangladesh Bank's figures, but bankers say this may not reflect real US earnings: Western Union, MoneyGram and similar firms collect money from many countries and send it from the US, which is then recorded as the source <sup>[N109 (2024)](#n109), [N110](#n110)</sup>. Sending from the UAE is the most expensive of Bangladesh's ten main corridors: 2.92% of the amount on average in April-June 2026, and 6.49% for transfers up to USD 200 (about AED 735) <sup>[222](#o222), [2](#o2)</sup>.
 
 You'll need:
-- the receiver's bKash number (bKash is a Bangladeshi mobile-money account) and their full name exactly as given when the account was opened <sup>[N78](#n78)</sup>.
+- the receiver's bKash number (bKash is a Bangladeshi mobile-money account) and their full name exactly as given when the account was opened <sup>[N112](#n112)</sup>.
 
 1. <a id="sending-money-home-item-1"></a>**Check the licence.** Exchange houses must be licensed by the Central Bank of the UAE (CBUAE). Open centralbank.ae/en/licensing, "Search Financial Institutions", choose licence type "Exchange Business" and look for the name on the shop's sign <sup>[223](#o223)</sup>. Licensed examples include Lulu International Exchange, Al Fardan Exchange, Al Rostamani International Exchange, Sharaf Exchange, Index Exchange, GCC Exchange, Al Ahalia Money Exchange Bureau, Al Dahab Exchange and Unimoni Exchange <sup>[223](#o223)</sup>. A shop or person not on the register is not licensed <sup>[223](#o223)</sup>.
-2. <a id="sending-money-home-item-2"></a>**Send.** For bKash, bKash lists these UAE partners: Al Ahalia Exchange, Al Ansari, Al Dahab Exchange, Al Fardan Exchange, Al Rostamani, GCC Remit, Index Exchange, Ria, e&money, Wise, Worldwide CE, Western Union, Taptap Send, MoneyGram and Remitly <sup>[N78](#n78)</sup>. At the counter give the bKash number and registered name and hand over the cash; up to Tk 2.5 lakh per transfer, any number of times <sup>[N78](#n78)</sup>. 
-3. <a id="sending-money-home-item-3"></a>**The family** gets the government's 2.5% cash incentive on money sent through legal channels, kept in the FY2026-27 budget <sup>[16](#o16)</sup>, and can cash out bKash remittance at Tk 7 per thousand at BRAC Bank, City Bank and Q-Cash ATMs <sup>[N78](#n78)</sup>.
+2. <a id="sending-money-home-item-2"></a>**Send.** For bKash, bKash lists these UAE partners: Al Ahalia Exchange, Al Ansari, Al Dahab Exchange, Al Fardan Exchange, Al Rostamani, GCC Remit, Index Exchange, Ria, e&money, Wise, Worldwide CE, Western Union, Taptap Send, MoneyGram and Remitly <sup>[N112](#n112)</sup>. At the counter give the bKash number and registered name and hand over the cash; up to Tk 2.5 lakh per transfer, any number of times <sup>[N112](#n112)</sup>. In April 2024 Gulf News reported that all members of the UAE's Foreign Exchange and Remittance Group (FERG) would raise the fee for sending at an exchange-house branch by AED 2.5 per transaction, about 15%, probably from May 2024, while app and online fees would not rise; the branch fee to India and the Philippines was then AED 22 plus VAT <sup>[N107 (2024)](#n107)</sup>.
+3. <a id="sending-money-home-item-3"></a>**The family** gets the government's 2.5% cash incentive on money sent through legal channels, kept in the FY2026-27 budget <sup>[16](#o16)</sup>, and can cash out bKash remittance at Tk 7 per thousand at BRAC Bank, City Bank and Q-Cash ATMs <sup>[N112](#n112)</sup>.
 
 > **Need to know**
 > - What ID does a UAE exchange house ask for to send money (Emirates ID only, or is a passport enough)?
@@ -2336,8 +2346,21 @@ You'll need:
 
 A 5-year government bond for workers abroad, bought in taka or foreign currency in the worker's own name or a named beneficiary in Bangladesh, at authorised-dealer bank branches in Bangladesh or at Bangladeshi banks' branches and exchange houses abroad <sup>[224](#o224)</sup>. Denominations run from Tk 25,000 to Tk 50 lakh, with no upper limit on purchases <sup>[224](#o224)</sup>. It pays 12% simple profit at maturity on holdings up to Tk 15 lakh (11% for Tk 15-30 lakh, 10% for Tk 30-50 lakh, 9% above), paid every six months; the money and profit are income-tax free, you can borrow against it, name a nominee, and take the principal back in US dollars <sup>[224](#o224)</sup>.
 
+In the UAE the bond is sold at the four branches of Janata Bank (see ["Janata Bank in the UAE"](#janata-bank-in-the-uae)) <sup>[N113](#n113)</sup>.
+
 > **Need to know**
 > - Which UAE exchange houses sell the Wage Earner Development Bond, and what papers does a worker need there?
+
+<a id="janata-bank-in-the-uae"></a>
+
+### 21.2 Janata Bank in the UAE
+
+Janata Bank, a Bangladeshi state-owned bank, has four UAE branches, in Abu Dhabi, Dubai, Sharjah and Al Ain, used by Bangladeshi workers <sup>[N113](#n113)</sup>. There Bangladeshis can send money home, open savings, current and term accounts, and buy the Wage Earner Development Bond and the US Dollar Premium Bond <sup>[N113](#n113)</sup>.
+
+In 2026 the UAE central bank ordered the branches to wind down because Janata Bank had not kept up its paid-up capital, and told them to stop opening new customer accounts or offering any new service <sup>[N113](#n113)</sup>. In September 2026 the Bangladesh government put in AED 300 million (about Tk 1,003 crore) so that all four branches can keep serving <sup>[N113](#n113)</sup>.
+
+> **Need to know**
+> - Have Janata Bank's UAE branches resumed opening new accounts since the September 2026 capital injection?
 
 <a id="going-home-without-valid-papers"></a>
 
@@ -2345,7 +2368,7 @@ A 5-year government bond for workers abroad, bought in taka or foreign currency 
 
 If your visa or residence permit has expired or been cancelled, the UAE fines you AED 50 (about Tk 1,700) for every day you stay after the grace period <sup>[41](#o41), [128](#o128)</sup>. The grace period after a residence permit expires or is cancelled is 30 days for most workers, 60 days for permits held with a guarantor or host, 90 days for skilled workers at levels 1-3, and 180 days for Golden, Green and Blue residence holders <sup>[41](#o41)</sup>. To leave you pay the fines, get an exit (departure) permit, and fly out within 7 days <sup>[129](#o129)</sup>. Not paying the fine can bring up to 3 months' prison or a fine of up to AED 4,000 (about Tk 1.36 lakh), and the court may deport you <sup>[225 (2021)](#o225)</sup>.
 
-The last general amnesty (a period when overstay fines are waived) ran from 1 September to 31 December 2024 <sup>[46 (2024)](#o46), [226 (2024)](#o226), [227 (2024)](#o227)</sup>; about 50,000 Bangladeshis regularised and more than 5,500 went home on travel permits without a ban <sup>[N79](#n79)</sup>. After it ended the UAE announced inspections and arrests of violators from January 2025 <sup>[N79](#n79)</sup>. In 2026 ICP (the Federal Authority for Identity, Citizenship, Customs and Port Security, the federal immigration authority) waived only fines run up from 28 February 2026 by people stranded by the regional airspace closures, then gave them a final 30-day grace period, 10 June to 9 July 2026, to leave or regularise <sup>[228](#o228), [229](#o229), [230](#o230)</sup>.
+The last general amnesty (a period when overstay fines are waived) ran from 1 September to 31 December 2024 <sup>[46 (2024)](#o46), [226 (2024)](#o226), [227 (2024)](#o227)</sup>; about 50,000 Bangladeshis regularised and more than 5,500 went home on travel permits without a ban <sup>[N114](#n114)</sup>. Those who regularised did so by getting new jobs, Bangladesh's Foreign Ministry said <sup>[N36 (2024)](#n36)</sup>. After it ended the UAE announced inspections and arrests of violators from January 2025 <sup>[N114](#n114)</sup>. In 2026 ICP (the Federal Authority for Identity, Citizenship, Customs and Port Security, the federal immigration authority) waived only fines run up from 28 February 2026 by people stranded by the regional airspace closures, then gave them a final 30-day grace period, 10 June to 9 July 2026, to leave or regularise <sup>[228](#o228), [229](#o229), [230](#o230)</sup>.
 
 > **Need to know**
 > - Is a new UAE amnesty expected for 2026-2027, as Bangladeshi missions have asked?
@@ -2381,7 +2404,7 @@ The Embassy in Abu Dhabi also issues travel permits (address and hours in "Conta
 ### 22.2 Step 2: Settle fines and status
 
 1. <a id="step-2-settle-fines-and-status-item-1"></a>**Check your fines.** In Dubai use the Fines Inquiry Service of GDRFA (Dubai's immigration office), gdrfad.gov.ae/en/fines-inquiry-service, with your passport number <sup>[235](#o235)</sup>. For any emirate, call ICP on 600522222 (+971600522222 from abroad) <sup>[236](#o236)</sup>.
-2. <a id="step-2-settle-fines-and-status-item-2"></a>**Check for a travel ban.** An unpaid debt, such as a bounced cheque, can bring a travel ban that stops you leaving even after the fines are paid <sup>[N50](#n50)</sup>. Dubai Police's free "Circulars and travel bans" service on the Dubai Police app or website (log in with UAE Pass, the national digital ID), at smart police stations or at police stations shows at once whether a financial-case circular or travel ban exists <sup>[237](#o237)</sup>. In Abu Dhabi, the Abu Dhabi Judicial Department (ADJD, the emirate's courts and prosecution) has an Estafser inquiry page, adjd.gov.ae/sites/eServices/EN/Pages/Estafser.aspx, that asks only for your UID number and a captcha code, with no login <sup>[238](#o238)</sup>; ADJD answers on 600 599 799, +971 2 651 2222 from abroad, WhatsApp +971 2 600 599 799 or info@adjd.gov.ae <sup>[238](#o238)</sup>.
+2. <a id="step-2-settle-fines-and-status-item-2"></a>**Check for a travel ban.** An unpaid debt, such as a bounced cheque, can bring a travel ban that stops you leaving even after the fines are paid <sup>[N75](#n75)</sup>. Dubai Police's free "Circulars and travel bans" service on the Dubai Police app or website (log in with UAE Pass, the national digital ID), at smart police stations or at police stations shows at once whether a financial-case circular or travel ban exists <sup>[237](#o237)</sup>. In Abu Dhabi, the Abu Dhabi Judicial Department (ADJD, the emirate's courts and prosecution) has an Estafser inquiry page, adjd.gov.ae/sites/eServices/EN/Pages/Estafser.aspx, that asks only for your UID number and a captcha code, with no login <sup>[238](#o238)</sup>; ADJD answers on 600 599 799, +971 2 651 2222 from abroad, WhatsApp +971 2 600 599 799 or info@adjd.gov.ae <sup>[238](#o238)</sup>.
 3. <a id="step-2-settle-fines-and-status-item-3"></a>**Check for a labour ban or absconding report.** Call MOHRE (the Ministry of Human Resources and Emiratisation) on 600590000, 8 am to 8 pm <sup>[40](#o40)</sup>. A proven "work abandonment" report (the official name for an absconding report) bars a new work permit for a year, counted from the day you leave; workers on a family visa, workers rejoining the same company, skilled workers and Golden visa holders are exempt <sup>[40](#o40)</sup>. An employer who reports that a worker has left work is exempt from the AED 50,000 fine for employing or harbouring violators <sup>[225 (2021)](#o225)</sup>.
 4. <a id="step-2-settle-fines-and-status-item-4"></a>**Pay the fines.** Online on ICP's smart services site or app (UAE Pass login, plus an AED 100 smart-services fee), or at an ICP Customer Happiness Centre <sup>[128](#o128)</sup>. After paying you must either regularise (get a new visa) or leave <sup>[128](#o128)</sup>.
 
@@ -2473,8 +2496,8 @@ You'll need <sup>[242](#o242)</sup>:
 
 **Entry bans** stop you coming back to the UAE. How long you are kept out depends on how you left:
 
-- **Deported:** you can't return unless ICP's chairman gives permission <sup>[225 (2021)](#o225)</sup>; the protesters deported in 2024 had their fingerprints kept and may not get into the UAE or other Gulf states again <sup>[N26 (2024)](#n26)</sup>. Forging or using a forged visa or residence permit can bring up to 10 years' prison and deportation <sup>[225 (2021)](#o225)</sup>.
-- **Became illegal (broke the law, or stayed after your residence was cancelled):** an unnamed Foreign Ministry official, speaking about Gulf states in general, says re-entry is barred for 5 to 10 years <sup>[N26 (2024)](#n26)</sup>.
+- **Deported:** you can't return unless ICP's chairman gives permission <sup>[225 (2021)](#o225)</sup>; the protesters deported in 2024 had their fingerprints kept and may not get into the UAE or other Gulf states again <sup>[N37 (2024)](#n37)</sup>. In February 2025 one of them, Chhogir Talukdar, who said he had been arrested at Dubai airport and sentenced to life for protesting, said he could not return unless his "no entry" was lifted; in December 2024 the expatriates' welfare adviser said a country's entry ban is not lifted just by asking, and that the chief adviser would be asked to raise it with the UAE <sup>[N40](#n40), [N39 (2024)](#n39)</sup>. Forging or using a forged visa or residence permit can bring up to 10 years' prison and deportation <sup>[225 (2021)](#o225)</sup>.
+- **Became illegal (broke the law, or stayed after your residence was cancelled):** an unnamed Foreign Ministry official, speaking about Gulf states in general, says re-entry is barred for 5 to 10 years <sup>[N37 (2024)](#n37)</sup>.
 - **Left under an amnesty:** people who left on an amnesty exit permit had no "entry ban stamp" <sup>[227 (2024)](#o227)</sup>; in the 2018 amnesty, people who had entered the UAE illegally left with a two-year entry ban <sup>[246 (2018)](#o246)</sup>.
 
 **Work ban** stops you getting a new UAE work permit, not entering. A proven work abandonment report bars a new work permit for one year from the day you leave; skilled workers and Golden visa holders are exempt <sup>[40](#o40)</sup>. A labour ban can be checked and contested (see ["If you want to change employer"](#if-you-want-to-change-employer)) <sup>[40](#o40)</sup>.
@@ -2484,15 +2507,37 @@ You'll need <sup>[242](#o242)</sup>:
 > - How can a worker in Bangladesh check whether they have a UAE entry ban before paying for a new visa?
 > - How does a deportee apply for the ICP chairman's permission to return, and has any Bangladeshi worker succeeded?
 
+<a id="if-war-or-attacks-reach-the-uae"></a>
+
+## 23 If war or attacks reach the UAE
+
+From 28 February 2026 Iranian missiles and drones struck the UAE; on 1 March the UAE defence ministry said three people had been killed, one of them a Bangladeshi, and 58 injured, Bangladeshis among them <sup>[N115](#n115), [N116](#n116)</sup>. By 9 March the expatriates' welfare minister counted four Bangladeshis killed in the war across the region, one in the UAE, and said the injured were being treated in local hospitals, with a hotline and a crisis team of three ministries <sup>[N117](#n117)</sup>. On 1 April 2026 debris of a drone used in the war killed another Bangladeshi, Shah Alam Bhuiyan, on his way to work at a farm near Dubai; Prothom Alo's video report that day gave the place of a Bangladeshi's death from Iranian drone debris as Fujairah <sup>[N49](#n49), [N118](#n118)</sup>. Middle East Eye reported in March 2026 that every civilian killed in the UAE by then was a migrant worker from Bangladesh, Nepal or Pakistan <sup>[N74](#n74)</sup>. Both Bangladeshis killed are listed under If a worker dies (see ["Cases"](#cases)).
+
+**Work during the attacks.** Workers in the UAE, Qatar, Saudi Arabia and Jordan, where Equidem has researchers, said they got no effective guidance on shelters, safe evacuation routes or emergency help, according to Mustafa Qadri of the rights group Equidem <sup>[N74](#n74)</sup>. Three riders for large UAE delivery platforms told Middle East Eye they had to keep working at risk of death with no guidance, support or alternative <sup>[N74](#n74)</sup>. A Bangladeshi rider said the streets were empty on the day of the first attack but he had to go out delivering again from the next day; a Pakistani rider in Dubai on 12-hour shifts said his company pays only per delivery, so no work means no income <sup>[N74](#n74)</sup>.
+
+**What the Bangladesh missions told people to do (28 February 2026)** <sup>[N73](#n73)</sup>:
+- stay away from military installations and stay in a safe place until the danger passes; go out only when essential; avoid gatherings and meetings;
+- don't spread rumours; some of the missions also said uploading photos or videos of the situation breaks local law;
+- always carry cash, passport, local ID card, health card or health insurance, medicines, a phone charger and power bank, dry food and water.
+
+**Emergency lines the missions gave:** Abu Dhabi +971 56 611 7215, +971 2 446 5100, +971 54 743 9392, +971 50 264 3396, mission.abudhabi@mofa.gov.bd; Dubai +971 50 816 8253, +971 50 816 8363, mission.dubai@mofa.gov.bd <sup>[N73](#n73)</sup>.
+
+**If your flight from Bangladesh is cancelled.** About 102 flights from Dhaka to the Middle East were cancelled in three days in early March 2026, and many travellers' visas were running out <sup>[N119](#n119)</sup>. The ministry took the details of people whose flights were cancelled through the Probashi call centre, 16135, to contact them when flights resumed, and said it would ask for extensions of expired visas; the minister said a visa cell had been set up to work with the embassies <sup>[N117](#n117), [N120](#n120)</sup>. The government promised to arrange travel quickly once flights resumed, and the ministry's senior secretary said it would charter planes to bring migrants home if needed <sup>[N120](#n120), [N117](#n117)</sup>.
+
+**If your visa ran out while on leave.** A ministry public notice of March 2026 said the UAE government had extended by one month the visas of workers whose visas had expired or were about to expire, because workers on leave in Bangladesh could not go back to renew them during the war <sup>[N121](#n121)</sup>. It said workers could seek renewal through their employer or kafil (sponsor), or apply online <sup>[N121](#n121)</sup>.
+
+> **Need to know**
+> - Which online service did the March 2026 notice mean for renewing a UAE residence visa from Bangladesh, and did the one-month extension also cover entry permits of new workers who had not yet flown?
+
 <a id="if-a-worker-dies-is-injured-or-loses-the-job"></a>
 
-## 23 If a worker dies, is injured or loses the job
+## 24 If a worker dies, is injured or loses the job
 
-In Bangladesh the Wage Earners' Welfare Board (the Welfare Board; Probashi Kallyan Bhaban, 71-72 Eskaton Garden, Ramna, Dhaka) pays grants and handles the insurance bought at BMET clearance <sup>[244](#o244), [247](#o247)</sup>. Most grants need either BMET emigration clearance (the smart card) or Welfare Board membership <sup>[248](#o248), [249](#o249)</sup>. Bangladeshis who went to the UAE on their own, often on visit visas, have no BMET clearance; Bangladesh missions register them for Welfare Board membership so they come under the government database and its welfare services <sup>[N28](#n28), [220](#o220)</sup>.
+In Bangladesh the Wage Earners' Welfare Board (the Welfare Board; Probashi Kallyan Bhaban, 71-72 Eskaton Garden, Ramna, Dhaka) pays grants and handles the insurance bought at BMET clearance <sup>[244](#o244), [247](#o247)</sup>. Most grants need either BMET emigration clearance (the smart card) or Welfare Board membership <sup>[248](#o248), [249](#o249)</sup>. Bangladeshis who went to the UAE on their own, often on visit visas, have no BMET clearance; Bangladesh missions register them for Welfare Board membership so they come under the government database and its welfare services <sup>[N42](#n42), [220](#o220)</sup>.
 
 <a id="get-welfare-board-membership-if-you-have-no-bmet-card"></a>
 
-### 23.1 Get Welfare Board membership if you have no BMET card
+### 24.1 Get Welfare Board membership if you have no BMET card
 
 Workers who already have a BMET clearance card do not need membership <sup>[250](#o250)</sup>. Any Bangladeshi aged 18 to 65 in the UAE without one can register for membership (the "Probashi Kallyan Card") <sup>[220](#o220)</sup>. The Dubai Consulate issued 5,028 cards from January to June 2026 <sup>[231](#o231)</sup>.
 
@@ -2517,11 +2562,11 @@ You'll need <sup>[220](#o220)</sup>:
 
 <a id="if-you-are-injured-or-fall-ill-at-work"></a>
 
-### 23.2 If you are injured or fall ill at work
+### 24.2 If you are injured or fall ill at work
 
 <a id="in-the-uae"></a>
 
-#### 23.2.1 In the UAE
+#### 24.2.1 In the UAE
 
 1. <a id="in-the-uae-item-1"></a>**Get treatment** at any government or private facility; the employer pays all of it, including hospital, surgery, tests, medicine, rehabilitation, artificial limbs and transport, until you recover or a disability is confirmed <sup>[79 (2022)](#o79), [252](#o252)</sup>. Accidents on the usual route to or from work count <sup>[252](#o252)</sup>.
 2. <a id="in-the-uae-item-2"></a>**Make sure it is reported.** The employer must report to MOHRE within 48 hours, via its website, app or service centre <sup>[252](#o252), [119](#o119)</sup>. If it does not, call MOHRE on 600590000 or its toll-free Labour Claims and Advisory Centre, 80084 <sup>[253](#o253), [145](#o145)</sup>.
@@ -2535,7 +2580,7 @@ You'll need <sup>[220](#o220)</sup>:
 
 <a id="in-bangladesh"></a>
 
-#### 23.2.2 In Bangladesh
+#### 24.2.2 In Bangladesh
 
 1. <a id="in-bangladesh-item-1"></a>**Going home injured.** On your or your family's application, with proof of clearance or membership and a passport copy, the Welfare Board asks the mission to bring you home <sup>[255](#o255)</sup>. The Board's ambulance at Dhaka and Chattogram airports is free on request (Dhaka desk +8802 8901040, 01404 413388) <sup>[256](#o256)</sup>.
 2. <a id="in-bangladesh-item-2"></a>**Treatment money in Bangladesh.** A returnee with clearance or membership who is injured, sick or disabled can get up to Tk 2 lakh; the family applies within 1 year of return through the Board's web portal, the district probashi kallyan (migrant welfare) centre or the Board <sup>[249](#o249), [244](#o244)</sup>.
@@ -2555,13 +2600,13 @@ You'll need <sup>[220](#o220)</sup>:
 
 <a id="if-a-worker-dies"></a>
 
-### 23.3 If a worker dies
+### 24.3 If a worker dies
 
 <a id="in-the-uae-1"></a>
 
-#### 23.3.1 In the UAE
+#### 24.3.1 In the UAE
 
-1. <a id="in-the-uae-1-item-1"></a>**Police and death certificate.** A death outside hospital goes to the police, who arrange a post-mortem; the body is released with the prosecutor's permission <sup>[N80](#n80)</sup>. The death certificate is issued on the police registration, the hospital's death notification, passport and Emirates ID <sup>[N80](#n80)</sup>.
+1. <a id="in-the-uae-1-item-1"></a>**Police and death certificate.** A death outside hospital goes to the police, who arrange a post-mortem; the body is released with the prosecutor's permission <sup>[N122](#n122)</sup>. The death certificate is issued on the police registration, the hospital's death notification, passport and Emirates ID <sup>[N122](#n122)</sup>.
 2. <a id="in-the-uae-1-item-2"></a>**Consulate NOC.** The Embassy (Abu Dhabi) or Consulate (Dubai) issues the no-objection certificate (NOC) for the body <sup>[258](#o258), [259](#o259)</sup>. The Dubai Consulate's is free and issued the same day, Room 14, 9 am to 3 pm Monday to Thursday, 9 to 11:30 am Friday; hotline +971 50 816 8253 (WhatsApp only) <sup>[259](#o259)</sup>. The employer, sponsor, a colleague or a relative in the UAE applies with <sup>[259](#o259)</sup>:
 
    - the death certificate and the deceased's passport (originals and copies) and Emirates ID copy;
@@ -2580,7 +2625,7 @@ You'll need <sup>[220](#o220)</sup>:
 
 <a id="the-family-in-bangladesh"></a>
 
-#### 23.3.2 The family in Bangladesh
+#### 24.3.2 The family in Bangladesh
 
 These steps are for the family in Bangladesh. The Dubai Consulate handled 213 body repatriations from January to June 2026 <sup>[231](#o231)</sup>.
 
@@ -2616,16 +2661,30 @@ These steps are for the family in Bangladesh. The Dubai Consulate handled 213 bo
 
 7. <a id="the-family-in-bangladesh-item-7"></a>**UAE compensation and dues.** When the mission reports that compensation, unpaid wages or end-of-service benefits may be due, the Welfare Board asks the family for a power of attorney and papers (with free help from its legal cell), sends them to the mission and follows the case; it pays the heirs within 60 working days of having the papers and the money <sup>[267](#o267), [244](#o244)</sup>. The Abu Dhabi labour wing recovers death compensation from courts, companies and sponsors <sup>[66](#o66)</sup>. The family can also write to the Ministry, aswelfare@probashi.gov.bd, which writes to the mission and the Board within 7 working days <sup>[242](#o242)</sup>.
 
+   On 9 March 2026 the expatriates' welfare minister said the government would arrange financial help for the families of migrants killed in the war, and the senior secretary said compensation could be arranged once the war situation normalised <sup>[N117](#n117)</sup>.
+
    > **Need to know**
-   > - Is any compensation paid to the families of Bangladeshis killed in the UAE by the 2026 Iranian strikes, such as a water-delivery driver <sup>[N81](#n81)</sup>?
+   > - Has any compensation been paid to the families of Bangladeshis killed in the UAE by the 2026 Iranian strikes, such as a water-delivery driver <sup>[N123](#n123)</sup>?
+
+<a id="cases"></a>
+
+#### 24.3.3 Cases
+
+- **Fleeing a police raid, Rolla, January 2024.** Sourav Majhi (23), from Naria, Shariatpur, went to the UAE in 2021 and worked as a painter in Sharjah; according to his family the company did not pay regularly, so he left for Rolla; his younger brother said he was sent abroad with relatives' help <sup>[N124 (2024)](#n124), [N125 (2024)](#n125)</sup>. When police raided the building where he and two friends were staying, he fell while jumping to the next building and was declared dead at hospital; his cousin said his visa was still valid <sup>[N124 (2024)](#n124)</sup>. On the day the family heard, the local UNO (Upazila Nirbahi Officer) said he did not know where the body was and would contact the mission <sup>[N124 (2024)](#n124)</sup>.
+- **Vehicle explosion, Dubai, 7 July 2024.** Five Bangladeshis working for the same company were killed when their vehicle exploded on the way to work; four were from Balenga village, Nawabganj, Dhaka, and one from Dohar <sup>[N126 (2024)](#n126)</sup>. One victim's mother had borrowed Tk 1.5 lakh from an NGO a year earlier to send him and must still pay the instalments; another's mother had sent him on borrowed money not yet repaid <sup>[N126 (2024)](#n126)</sup>.
+- **Mpox, Sharjah, 2024.** Kamal Hossain (38), from Chauddagram, Cumilla, who had worked for a UAE company for about 7 years, died of mpox in a Sharjah hospital on 30 September 2024, according to his family; the body reached Dhaka on 10 October and was buried under health ministry and district administration rules <sup>[N127 (2024)](#n127)</sup>.
+- **Killed by colleagues, Abu Dhabi, April 2025.** Faizul Haque (55), of Bhurki village, Bishwanath, Sylhet, back from leave about three months, was stabbed around midday on a Tuesday at his workplace in Shamkha, Abu Dhabi <sup>[N128](#n128)</sup>. His cousin said the family heard through a colleague, and that two Bangladeshi colleagues did it and were arrested <sup>[N128](#n128)</sup>. On 4 April the family said there was no real progress on bringing the body home <sup>[N128](#n128)</sup>.
+- **Iranian strike, Ajman, 28 February 2026.** Saleh Ahmad (55, according to Middle East Eye), of Barlekha, Moulvibazar, known in the UAE as Ahmad Ali, drove a water tanker in Ajman <sup>[N74](#n74), [N115](#n115), [N116](#n116)</sup>. According to his family a missile hit his vehicle after iftar while he was out delivering water; the Foreign Ministry said he died under rubble after an air strike on a civilian installation <sup>[N115](#n115), [N120](#n120)</sup>. His two brothers in Ajman went to the hospital but were not allowed to see him, and confirmed the death through his kafil (sponsor-employer) <sup>[N115](#n115)</sup>. The embassy said it would send the body once commercial flights resumed; the expatriates' welfare minister received it at Sylhet airport on 9 March <sup>[N120](#n120), [N117](#n117)</sup>.
+- **Drone debris, near Dubai, 1 April 2026.** Shah Alam Bhuiyan (45), of Jiruin village, Brahmanpara, Cumilla, worked at a farm near Dubai and had spent 18 years in Dubai after about eight in Oman <sup>[N49](#n49)</sup>. According to relatives he was walking to work with a colleague at about 6 am when debris of a drone used in the war fell on him and killed him on the spot; police recovered the body <sup>[N49](#n49)</sup>. He left a wife and four children <sup>[N49](#n49)</sup>. The next day the family demanded the body be brought home quickly, and the Brahmanpara UNO said higher authorities had been informed and she hoped it would come home soon through the ministry <sup>[N49](#n49)</sup>.
+- **Trafficked girl, Dubai, 2023:** see [Tourist visa](#tourist-visa), Scams, "Done to travellers".
 
 <a id="if-you-lose-the-job"></a>
 
-### 23.4 If you lose the job
+### 24.4 If you lose the job
 
 - **Last pay.** Within 14 days of the job ending the employer must pay all wages, unused leave and gratuity (see "Leaving at the end of the job" and "Gratuity (end-of-service pay)") <sup>[127](#o127), [118](#o118)</sup>.
 - **Time to stay.** Once the residence is cancelled an ordinary worker has 30 days' grace to leave or change status, 90 days for a skilled worker at MOHRE level 1-3 <sup>[41](#o41)</sup>; after that see ["Going home without valid papers"](#going-home-without-valid-papers).
-- **A new job.** You may work for another employer once the contract has ended lawfully or was ended by the employer without your fault <sup>[15](#o15)</sup>, but transfers for Bangladeshis have been restricted since July 2024 (see ["If you want to change employer"](#if-you-want-to-change-employer)) <sup>[N13](#n13)</sup>.
+- **A new job.** You may work for another employer once the contract has ended lawfully or was ended by the employer without your fault <sup>[15](#o15)</sup>, but transfers for Bangladeshis have been restricted since July 2024 (see ["If you want to change employer"](#if-you-want-to-change-employer)) <sup>[N15](#n15)</sup>.
 
 UAE unemployment insurance (ILOE, Involuntary Loss of Employment) pays 60% of your average basic salary, up to AED 10,000 a month, for up to 3 months, if you claim within 30 days of the job ending <sup>[268](#o268), [45](#o45)</sup>.
 
@@ -2650,7 +2709,7 @@ What you get back: the monthly payout, worked out on your average basic salary o
 
 <a id="claiming-the-bmet-insurance-jiban-bima"></a>
 
-### 23.5 Claiming the BMET insurance (Jiban Bima)
+### 24.5 Claiming the BMET insurance (Jiban Bima)
 
 1. <a id="claiming-the-bmet-insurance-jiban-bima-item-1"></a>**Call 16135** (+8809610102030 from abroad); the Welfare Board helps claim the insurance bought at BMET clearance from Jiban Bima Corporation, the state life insurer <sup>[247](#o247), [75](#o75)</sup>.
 2. <a id="claiming-the-bmet-insurance-jiban-bima-item-2"></a>**Apply.** For a death, nothing is needed if the body came through the airport desk; after burial abroad or a death after return, apply at portal.wewb.gov.bd or at the Board <sup>[244](#o244)</sup>. For disability or a lost job, apply to the Board's welfare section <sup>[244](#o244)</sup>:
@@ -2664,7 +2723,7 @@ What you get back: the monthly payout, worked out on your average basic salary o
 
 <a id="coming-home"></a>
 
-## 24 Coming home
+## 25 Coming home
 
 - **Cancel the visa properly.** The employer cancels the residence permit through ICP (AED 50 application plus AED 100 smart-services fee); a domestic worker's residence is cancelled through MOHRE or the Domestic Work Bundle <sup>[41](#o41)</sup>. Within 14 days of the job ending the employer must pay all wages, unused leave and gratuity ([Leaving at the end of the job](#leaving-at-the-end-of-the-job)) <sup>[127](#o127), [118](#o118)</sup>. The Dubai Consulate has a "Final Settlement" form and a complaint format on bcgdubai.gov.bd, "Download Forms" <sup>[232 (2024)](#o232)</sup>. After cancellation you have the grace period in "Going home without valid papers" to leave <sup>[41](#o41)</sup>.
 - **Check for bans before you buy the ticket:** travel bans (Dubai Police service; see [Going home without valid papers](#going-home-without-valid-papers), [Step 2: Settle fines and status](#step-2-settle-fines-and-status)) and fines <sup>[237](#o237), [235](#o235)</sup>.
@@ -2675,6 +2734,7 @@ What you get back: the monthly payout, worked out on your average basic salary o
   - No alcohol on a Bangladeshi passport <sup>[272](#o272)</sup>.
   - Declare foreign currency over USD 10,000 on the FMJ form <sup>[273](#o273)</sup>.
   - Customs emergency line: +88 01319-056591 <sup>[273](#o273)</sup>.
+- **A free ticket for carrying something.** In April 2025 two Sylhet men returning from Dubai, Shajahan and Alim, were arrested at Dhaka and Sylhet airports and jailed in a Special Powers Act case after customs burned their clothes to recover more than 4 kg of gold <sup>[N129](#n129)</sup>. According to investigators, Shajahan (38, in Dubai four years) wanted to go home for gallbladder surgery that would cost over Tk 2 lakh in Dubai; one Ziaur Rahman offered to pay his travel if he carried "valuables" <sup>[N129](#n129)</sup>. The two men sent photos of themselves and their passports to Ziaur's WhatsApp; he bought their tickets, and in a fifth-floor room in Deira gave them three underpants and three vests to wear, saying his people at the airport would find them <sup>[N129](#n129)</sup>. The clothes were coated with gold <sup>[N129](#n129)</sup>. Police call Ziaur one of the smuggling ringleaders <sup>[N129](#n129)</sup>.
 - **Airport help.** The Welfare Board's desks at Dhaka, Chattogram and Sylhet airports give food and water to people returning from jail or on an outpass, money to workers coming back from war, disaster or lay-off, help with customs and lost luggage, and take complaints of abuse or cheating <sup>[266](#o266)</sup>. Women returning within a year after abuse or fraud get Tk 5,000 cash <sup>[21](#o21)</sup>. Dhaka desk +8802 8901040, 01404 413388; Chattogram 01913631797; Sylhet 01558277904 <sup>[256](#o256), [21](#o21)</sup>.
 - **A place to stay.** The Wage Earners' Centre (Lonjonipara, Borua, Khilkhet, Dhaka-1229, near Shahjalal airport): Tk 100 admission, Tk 200 a night; book at wec.wewb.gov.bd or in person with proof of clearance or membership, a passport copy and the ticket; 01310 350555, 01754 715720 (24 hours) <sup>[274](#o274)</sup>. The Probashi Lounge at Shahjalal airport gives free wifi and phone calls and food at up to 30% off with proof of clearance or membership <sup>[275](#o275)</sup>.
 - **If your family needs legal help in Bangladesh, such as protecting its property,** apply to the Welfare Board (directly, through the Deputy Commissioner's expatriate welfare branch or the DEMO); it writes to the local administration <sup>[276](#o276), [220](#o220)</sup>.
@@ -2683,17 +2743,18 @@ What you get back: the monthly payout, worked out on your average basic salary o
 > - Does Dhaka airport immigration treat a returnee on a travel permit (outpass) differently, and do they keep the permit?
 
 - **Business loan:** PKB's rehabilitation loan, up to Tk 50 lakh (Tk 3 lakh without collateral), 9% over up to 10 years, at the branch for the project's area with a trade licence and return papers <sup>[277](#o277)</sup>; fees 0.5% processing (max Tk 15,000) and 0.5% documentation <sup>[277](#o277)</sup>.
+- **Help given to the 2024 protesters sent back:** BRAC's migration programme paid the transport of 26 returning on 13 September 2024 (31 had come in three earlier batches) through the airport welfare desk, and said it and the Welfare Board would give psychosocial and economic reintegration support <sup>[N130 (2024)](#n130)</sup>. On 28 December 2024, 186 of them got Tk 50,000 cheques each from the Welfare Board; the expatriates' welfare adviser said they would get top priority when BOESL (Bangladesh Overseas Employment and Services Limited, the state recruiting agency) sends workers, and that 60 had already asked PKB (Probashi Kallyan Bank) for loans <sup>[N39 (2024)](#n39)</sup>. One returnee said in February 2025 that they did not get even a glass of water at the airport when sent back <sup>[N41](#n41)</sup>. Six returnees said in August 2025 that they had left unpaid wages, businesses and savings behind, had to protest to get the promised rehabilitation, and had received money in two rounds <sup>[N70](#n70)</sup>. The Welfare Board listed returnees by district and asked what help they wanted: most wanted to go abroad again, those staying wanted business support, and some wanted help repaying old loans <sup>[N70](#n70)</sup>. One, Md Yasin of Noakhali, 13 years in the UAE with a business in Dubai, jailed for a week and home on 28 October 2024, wanted a loan on easy terms to start a business at home <sup>[N70](#n70)</sup>. In June 2025 returnees protested in Dhaka for the release of those still jailed in the UAE and Saudi Arabia and for rehabilitation; they counted 189 back from UAE prisons (the ministry said 188 in August 2025), and organiser Sagir Talukdar said the adviser's promised rehabilitation had not happened <sup>[N71](#n71), [N70](#n70)</sup>. When talks at the Foreign Ministry that day brought only an official's verbal assurance, the protesters announced a hunger strike until death; Talukdar said 25 were held in the UAE's Al Sadr prison <sup>[N131](#n131)</sup>.
 - **BRAC** gives returnees airport help, counselling, money or materials to restart earning, and legal help <sup>[278](#o278)</sup>.
 
 <a id="contacts"></a>
 
-## 25 Contacts
+## 26 Contacts
 
 <a id="in-the-uae-2"></a>
 
-### 25.1 In the UAE
+### 26.1 In the UAE
 
-- **Bangladesh Embassy, Abu Dhabi:** Villa No. 46, 48, Sector-19, Zone-W31, Al Jawwalah Street, Al Saadah Area, P.O. Box 2504; +971 2 446 5100; mission.abudhabi@mofa.gov.bd; facebook.com/BangladeshEmbassyAbuDhabi <sup>[114](#o114)</sup>. Consular and welfare applications Monday to Thursday 9 am to 3 pm (break 1 to 2 pm), Friday 8:30 to 11 am <sup>[279](#o279)</sup>.
+- **Bangladesh Embassy, Abu Dhabi:** Villa No. 46, 48, Sector-19, Zone-W31, Al Jawwalah Street, Al Saadah Area, P.O. Box 2504; +971 2 446 5100; mission.abudhabi@mofa.gov.bd; facebook.com/BangladeshEmbassyAbuDhabi <sup>[114](#o114)</sup>. Consular and welfare applications Monday to Thursday 9 am to 3 pm (break 1 to 2 pm), Friday 8:30 to 11 am <sup>[279](#o279)</sup>. Emergency numbers given in February 2026: +971 56 611 7215, +971 54 743 9392, +971 50 264 3396 <sup>[N73](#n73)</sup>.
   - Labour wing: Counsellor (Labour) Mohammad Ullah Khan, counselorabudhabi@probashi.gov.bd, +971 2 446 2745; First Secretary (Labour) Mohammad Ismail, fsabudhabi@probashi.gov.bd, +971 2 445 2216 <sup>[280](#o280)</sup>; Legal Officer Mohammed Rezaul Alam (ext. 331), Welfare Officer Mollah Osman Goni (ext. 209), labourwingauh@gmail.com, direct line +971 2 445 8182 <sup>[132](#o132)</sup>.
 - **Bangladesh Consulate General, Dubai:** Villa No. 36 & 145, Abdulla Hussain Al Malik Villa, 123/3 Street, Abu Hail Road, Al Wuheida, Deira; P.O. Box 4336; +971 4 238 8199, +971 4 265 1116; mission.dubai@mofa.gov.bd <sup>[140](#o140), [234 (2024)](#o234)</sup>. Monday to Thursday 9 am to 3:30 pm, Friday 9 to 11:30 am <sup>[233](#o233)</sup>.
   - Helplines (WhatsApp text): labour welfare +971 50 816 8253, +971 50 816 8363; consular and passport +971 50 505 5834, during office hours <sup>[234 (2024)](#o234), [231](#o231)</sup>.
@@ -2708,7 +2769,7 @@ What you get back: the monthly payout, worked out on your average basic salary o
 
 <a id="in-bangladesh-1"></a>
 
-### 25.2 In Bangladesh
+### 26.2 In Bangladesh
 
 - **BMET emigration:** Director (Emigration) +8802222222415, 01711-135901, diremi@bmet.gov.bd <sup>[21](#o21)</sup>; OEP hotline 09614445271 <sup>[54](#o54)</sup>.
 - **Ministry and Welfare Board:** Probashi Kallyan Bhaban, 71-72 Old Elephant Road, Eskaton Garden, Ramna, Dhaka <sup>[283](#o283), [244](#o244)</sup>.
@@ -3030,72 +3091,123 @@ These facts come only from news or third-party sources. Each needs an official s
 - <a id="n10"></a>N10. Dibalok, 26 Dec 2019. [পার্টনার ভিসায় দুবাই গেলে নিশ্চিত বেকার!](https://www.dibalok.com/news/details/middle-east/6952). Accessed 8 Nov 2026. Possibly outdated.
 - <a id="n11"></a>N11. Dainik Azadi, 26 Jul 2026. [আমিরাতে ভিসা 'অটো ক্যান্সেল', আতংকে ১২ লাখ প্রবাসী](https://dainikazadi.net/%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%AD%E0%A6%BF%E0%A6%B8%E0%A6%BE-%E0%A6%85%E0%A6%9F%E0%A7%8B-%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D/). Accessed 8 Nov 2026.
 - <a id="n12"></a>N12. The Business Standard, 12 Oct 2025. [How UAE's visa 'restrictions' hit Bangladesh labour market](https://www.tbsnews.net/bangladesh/how-uaes-visa-restrictions-hit-bangladesh-labour-market-1258336). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n13"></a>N13. Dhaka Post, 17 Aug 2026. [আমিরাতে বাংলাদেশিদের ভিসা বাতিলের সুনির্দিষ্ট কারণ এখনো অজানা: প্রবাসীকল্যাণমন্ত্রী](https://www.dhakapost.com/national/475731). Accessed 8 Nov 2026.
-- <a id="n14"></a>N14. Bangladesh Monitor, 17 May 2025. [UAE visa issuance for Bangladeshis progresses](https://www.bangladeshmonitor.com.bd/en/uae-visa-issuance-for-bangladeshis-progresses). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n15"></a>N15. Gulf Labour Markets, Migration and Population (GLMM) programme, Gulf Research Center, 1 Jan 2019. [Working and Living Conditions of Low-Income Migrant Workers in the Hospitality and Construction Sectors in the UAE (Research Report 2/2019)](https://gulfmigration.grc.net/media/pubs/rp/GLMM_EN_2019_RR02.pdf). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n16"></a>N16. Asia News Network (The Daily Star), 15 Sep 2026. [UAE cancels visas of over 4,000 Bangladeshis, leaving many unable to return to jobs](https://asianews.network/uae-cancels-visas-of-over-4000-bangladeshis-leaving-many-unable-to-return-to-jobs/). Accessed 8 Nov 2026.
-- <a id="n17"></a>N17. The Daily Ittefaq, 14 Sep 2026. [আমিরাতে ৪৮০০ বাংলাদেশির ভিসা বাতিল, অনিশ্চয়তায় প্রবাসীরা](https://www.ittefaq.com.bd/809551/%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A7%AA%E0%A7%AE%E0%A7%A6%E0%A7%A6-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%B0-%E0%A6%AD%E0%A6%BF%E0%A6%B8%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B2-%E0%A6%85%E0%A6%A8%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%9A%E0%A7%9F%E0%A6%A4%E0%A6%BE%E0%A7%9F). Accessed 8 Nov 2026.
-- <a id="n18"></a>N18. Ekhon TV, 26 Jul 2026. [আমিরাতে স্বয়ংক্রিয়ভাবে বাতিল হচ্ছে ভিসা; আতঙ্কে ১২ লাখ বাংলাদেশি প্রবাসী](https://ekhon.tv/article/6a65e07f3af806efa485fc53). Accessed 8 Nov 2026.
-- <a id="n19"></a>N19. Shomoyer Alo, 27 Jul 2026. [আমিরাতে ভিসা বাতিল, সমাধানের দাবি প্রবাসীদের](https://www.shomoyeralo.com/news/374907). Accessed 8 Nov 2026.
-- <a id="n20"></a>N20. BSS (Bangladesh Sangbad Sangstha), 30 Jul 2026. [UAE visa cancellations not country-specific: Shama](https://www.bssnews.net/news/410351). Accessed 8 Nov 2026.
-- <a id="n21"></a>N21. Amader Shomoy, 7 Oct 2026. [ছুটিতে এসে আমিরাতের ভিসা বাতিল, কর্মস্থলে ফিরতে ৬৬০০ প্রবাসীর মানববন্ধন](https://www.amadershomoy.com/migrants/article/201230). Accessed 8 Nov 2026.
-- <a id="n22"></a>N22. The Daily Star Bangla, 1 May 2024. [বেশি রেমিট্যান্স আসছে আরব আমিরাত থেকে, পাচারের অর্থ কিনা প্রশ্ন বিশেষজ্ঞদের](https://bangla.thedailystar.net/economy/news-592696). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n23"></a>N23. Global Media Insight (GMI), 19 Oct 2026. [United Arab Emirates (UAE) Population Statistics 2026](https://www.globalmediainsight.com/blog/uae-population-statistics/). Accessed 8 Nov 2026.
-- <a id="n24"></a>N24. The Daily Star, 21 Sep 2025. [Bangladesh still locked out of key labour markets](https://www.thedailystar.net/news/bangladesh/news/dhaka-still-shut-out-major-labour-markets-3991396). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n25"></a>N25. Prothom Alo, 24 Jul 2024. [সংযুক্ত আরব আমিরাত বাংলাদেশের নাগরিকদের ভিসা বন্ধ করেনি: পররাষ্ট্রমন্ত্রী](https://www.prothomalo.com/bangladesh/d12kfq4arj). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n26"></a>N26. Jagonews24, 18 Dec 2024. [এক মিছিলেই অনিশ্চিত জীবন আমিরাত ফেরত প্রবাসীদের](https://www.jagonews24.com/national/news/988956). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n27"></a>N27. Bangla Tribune, 2 Dec 2024. [আমিরাতে ক্ষমা পাওয়া ২৪ বাংলাদেশি ফিরছেন আজ](https://www.banglatribune.com/others/875517/%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%BE-%E0%A6%AA%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A7%A8%E0%A7%AA-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%86%E0%A6%9C). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n28"></a>N28. Dhaka Tribune, 24 Jan 2026. [Visa doors slam shut worldwide for Bangladeshis](https://www.dhakatribune.com/bangladesh/401698/global-visa-crackdown-leaves-bangladeshis-facing). Accessed 8 Nov 2026.
-- <a id="n29"></a>N29. Samakal, 7 Oct 2022. [মানব পাচারে জড়িত সরকারি কর্মকর্তারাই (UAE smart-card fraud inquiry)](https://samakal.com/bangladesh/article/2210135525/%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC-%E0%A6%AA%E0%A6%BE%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%9C%E0%A7%9C%E0%A6%BF%E0%A6%A4-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%87). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n30"></a>N30. Bangla Tribune, 18 Dec 2024. [বিশ্বে যে কারণে সবচেয়ে বেশি অভিবাসন ব্যয় বাংলাদেশে](https://www.banglatribune.com/others/877773/%E0%A6%AF%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A7%87-%E0%A6%B8%E0%A6%AC%E0%A6%9A%E0%A7%87%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A7%9F-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n31"></a>N31. New Age, 17 Sep 2026. [NCP leader accuses BMET of harassing migrants](https://www.newagebd.net/post/country/314238/ncp-leader-hasnat-abdullah-accuses-bmet-of-harassing-migrants). Accessed 8 Nov 2026.
-- <a id="n32"></a>N32. Human Rights Watch, 1 Jan 2026. [World Report 2026: United Arab Emirates](https://www.hrw.org/world-report/2026/country-chapters/united-arab-emirates). Accessed 8 Nov 2026.
-- <a id="n33"></a>N33. BSS (Bangladesh Sangbad Sangstha), 19 Aug 2026. [MP Kiron hands visas and air tickets to 53 unemployed youths](https://www.bssnews.net/bangla/national/334076). Accessed 8 Nov 2026.
-- <a id="n34"></a>N34. Desh Rupantor, 11 Aug 2026. [Attempt to form a 25-member syndicate, Tk 17 crore per member](https://www.deshrupantor.com/711758/%E0%A7%A8%E0%A7%AB-%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F-%E0%A6%97%E0%A7%9C%E0%A6%BE%E0%A6%B0-%E0%A6%9A%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BE-%E0%A6%9C%E0%A6%A8%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF-%E0%A6%9A%E0%A6%BE%E0%A6%81%E0%A6%A6%E0%A6%BE-%E0%A7%A7%E0%A7%AD). Accessed 8 Nov 2026.
-- <a id="n35"></a>N35. BAIRA (Bangladesh Association of International Recruiting Agencies). [Member directory: agency information, RL0939](https://baira.org.bd/dir/agency-information/939). Accessed 8 Nov 2026. Undated: possibly outdated.
-- <a id="n36"></a>N36. Asian TV, 23 Jan 2026. [Vote for the sheaf of paddy: Farhana Kadir Rahman](https://www.asiantvonline.com/news/District-news/57099/a1d8-20260123). Accessed 8 Nov 2026.
-- <a id="n37"></a>N37. The Financial Express, 15 Sep 2025. [ACC files cases against 31 bosses of 13 agencies](https://today.thefinancialexpress.com.bd/print/acc-files-cases-against-31-bosses-of-13-agencies-1757871247). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n38"></a>N38. New Age, Jul 2026. [Malaysia syndicate fraud: Govt revokes licences of 49 recruiting agencies](https://www.newagebd.net/post/country/306955/malaysia-syndicate-fraud-govt-revokes-licences-of-49-recruiting-agencies). Accessed 7 Nov 2026.
-- <a id="n39"></a>N39. Prothom Alo, 4 Oct 2026. [Decision to withdraw 49 recruiting agencies' licences upheld (Bangla)](https://www.prothomalo.com/bangladesh/2o2duezc6j). Accessed 7 Nov 2026.
-- <a id="n40"></a>N40. Fragomen, 31 Oct 2018. [Mandatory Training Requirement Implemented for Some Employees in the Mainland](https://www.fragomen.com/insights/mandatory-training-requirement-implemented-for-some-employees-in-the-mainland.html). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n41"></a>N41. The National, 25 Aug 2026. [Dubai Police issue warning over online visa and job scams](https://www.thenationalnews.com/news/uae/2026/08/25/dubai-police-fake-visa-job-offer-warning/). Accessed 8 Nov 2026.
-- <a id="n42"></a>N42. BD Govt Guide, 4 Nov 2026. [Apostille Bangladesh: e-Apostille and certificate attestation online](https://bdgovtguide.com/apostille-bangladesh/). Accessed 8 Nov 2026.
-- <a id="n43"></a>N43. Dhaka Tribune, 1 Dec 2024. [BMET smart card to be issued free of charge](https://www.dhakatribune.com/bangladesh/366807/bmet-smart-card-to-be-issued-free-of-charge). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n44"></a>N44. Emirates NBD. [Current Account: requirements](https://www.emiratesnbd.com/en/accounts/current-accounts/standard-current-account). Accessed 8 Nov 2026. Undated: possibly outdated.
-- <a id="n45"></a>N45. Gulf News, 29 Jun 2022. [New to the UAE - what are my SIM card options?](https://gulfnews.com/living-in-uae/telephone-internet/new-to-the-uae--what-are-my-sim-card-options-1.1656337696506). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n46"></a>N46. Khaleej Times, 28 Jul 2026. [Bangladesh Embassy responds to UAE visa cancellation reports, warns against rumours](https://www.khaleejtimes.com/uae/uae-visa-cancellation-reports-bangladesh-embassy-responds-warns-against-rumours). Accessed 8 Nov 2026.
-- <a id="n47"></a>N47. Kaler Kantho, 28 Jul 2026. [UAE embassy statement on visa cancellations](https://www.kalerkantho.com/online/national/2026/07/28/1717449). Accessed 8 Nov 2026.
-- <a id="n48"></a>N48. Gulf News, 4 Sep 2026. [UAE workers can report 11 types of labour violations to MOHRE](https://gulfnews.com/uae/uae-workers-can-report-11-types-of-labour-violations-to-mohre-1.500663000). Accessed 8 Nov 2026.
-- <a id="n49"></a>N49. Jugantor, 18 Aug 2026. [Visa cancellation of Bangladeshis in the UAE has come to the ministry's notice: Ariful Haque](https://www.jugantor.com/national/1141864). Accessed 8 Nov 2026.
-- <a id="n50"></a>N50. Lucent Legal (law firm guide). [Cheque Bounce Case in UAE 2026: Punishment, Travel Ban](https://lucent-legal.com/en/guides/bounced-cheque-uae/). Accessed 8 Nov 2026. Undated: possibly outdated.
-- <a id="n51"></a>N51. Amnesty International, 1 Apr 2026. [United Arab Emirates 2025](https://www.amnesty.org/en/location/middle-east-and-north-africa/middle-east/united-arab-emirates/report-united-arab-emirates/). Accessed 8 Nov 2026.
-- <a id="n52"></a>N52. Littler, 1 Jan 2011. [United Arab Emirates: New Regulations Enable Skilled Foreign Workers to Change Jobs](https://www.littler.com/news-analysis/asap/united-arab-emirates-new-regulations-enable-skilled-foreign-workers-change-jobs). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n53"></a>N53. Arabian Business, 18 Apr 2018. [UAE signs deal to recruit domestic workers from Bangladesh](https://www.arabianbusiness.com/politics/394500-uae-signs-deal-to-recruit-domestic-workers-from-bangladesh). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n54"></a>N54. Gulf News, 9 May 2022. [Want to hire a domestic worker? You can choose from three plans](https://gulfnews.com/living-in-uae/housing/want-to-hire-a-domestic-worker-you-can-choose-from-three-plans-1.1652093448404). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n55"></a>N55. Gulf News, 27 Jul 2026. [UAE fines 42 domestic worker recruitment offices over 135 labour law violations](https://gulfnews.com/uae/government/uae-fines-42-domestic-worker-recruitment-offices-over-135-labour-law-violations-1.500621480). Accessed 8 Nov 2026.
-- <a id="n56"></a>N56. US Department of State, 2026. [2026 Trafficking in Persons Report: United Arab Emirates](https://www.state.gov/reports/2026-trafficking-in-persons-report/united-arab-emirates). Accessed 8 Nov 2026.
-- <a id="n57"></a>N57. Housekeeping Domestic Workers Services LLC (tadbeer.ae, a private Tadbeer centre). [New Domestic Worker Visa: step-by-step process](https://www.tadbeer.ae/process/new). Accessed 8 Nov 2026. Undated: possibly outdated.
-- <a id="n58"></a>N58. Excellence Center (Tadbeer centre, Dubai). [Maid Salary in Dubai: Legal Rates, Packages, and Real Costs](https://excellencecenter.ae/what-is-the-basic-salary-for-a-maid-in-dubai/). Accessed 8 Nov 2026. Undated: possibly outdated.
-- <a id="n59"></a>N59. Human Rights Watch, 22 Oct 2014. [I Already Bought You: Abuse and Exploitation of Female Migrant Domestic Workers in the United Arab Emirates](https://www.hrw.org/report/2014/10/22/i-already-bought-you/abuse-and-exploitation-female-migrant-domestic-workers). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n60"></a>N60. BSS (Bangladesh Sangbad Sangstha), Sep 2026. [State minister in parliament on safe homes and UAE visa cancellations (Bangla)](https://www.bssnews.net/bangla/national-parliament-session/338695). Accessed 8 Nov 2026.
-- <a id="n61"></a>N61. Dhaka Post, 27 Feb 2021. [টাকায় অফলোড সিলও মুছে দেয় ইমিগ্রেশন পুলিশ (Immigration police erase offload seals for money)](https://www.dhakapost.com/exclusive/13964). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n62"></a>N62. flydubai. [OK to Board](https://www.flydubai.com/en/flying-with-us/ok-to-board/). Accessed 8 Nov 2026. Undated: possibly outdated.
-- <a id="n63"></a>N63. Shomoyer Alo, 16 Jul 2026. [আমিরাতে বাংলাদেশিরাও পাবেন ৫ বছরের মাল্টিপল ট্যুরিস্ট ভিসা (Bangladeshis also eligible for UAE 5-year tourist visa)](https://www.shomoyeralo.com/news/372961). Accessed 8 Nov 2026.
-- <a id="n64"></a>N64. The Business Standard, 20 Sep 2025. [Bangladesh Embassy working to verify UAE visa ban news, suspects visa processing centre's post malicious](https://www.tbsnews.net/bangladesh/uae-visa-ban-post-appears-be-malicious-ambassador-tareq-ahmed-1241431). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n65"></a>N65. Jugantor, 4 May 2025. [বাংলাদেশিদের সুখবর দিল আরব আমিরাত (UAE reopens visit visas for Bangladeshis on a limited scale)](https://www.jugantor.com/national/949565). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n66"></a>N66. KPMG (GMS Flash Alert 2026-210), 1 Aug 2026. [United Arab Emirates - GDRFA Dubai clarifies visit visa rules for relatives and friends](https://kpmg.com/xx/en/our-insights/gms-flash-alert/2026/flash-alert-2026-210.html). Accessed 8 Nov 2026.
-- <a id="n67"></a>N67. VFS Global Bangladesh (UAE Attestation Services, empanelled by UAE MOFA). [Apply for an Attestation](https://services.vfsglobal.com/bgd/en/atu/apply-attestation-new). Accessed 8 Nov 2026. Undated: possibly outdated.
-- <a id="n68"></a>N68. Samakal, 4 May 2025. [বাংলাদেশিদের ভিজিট ভিসা ফের চালু করেছে আমিরাত (UAE resumes visit visas for Bangladeshis)](https://samakal.com/bangladesh/article/293754/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A6%BF%E0%A6%9F-%E0%A6%AD%E0%A6%BF%E0%A6%B8%E0%A6%BE-%E0%A6%AB%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A7%81-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%A4). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n69"></a>N69. Middlesex University Dubai. [New student visa application](https://www.mdx.ac.ae/student-visa/new-student-visa-application). Accessed 8 Nov 2026. Undated: possibly outdated.
-- <a id="n70"></a>N70. American University in Dubai. [Visa Information - All Applicants](https://www.aud.edu/admissions/prospective-students/visa-information/visa-information-all-applicants/). Accessed 8 Nov 2026. Undated: possibly outdated.
-- <a id="n71"></a>N71. Independent TV (itvbd), 15 Mar 2025. [Bangladeshi journalist gets golden visa in the UAE](https://www.itvbd.com/probash/207340/%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%A8-%E0%A6%AD%E0%A6%BF%E0%A6%B8%E0%A6%BE-%E0%A6%AA%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%B8%E0%A6%BE%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%BF%E0%A6%95). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n72"></a>N72. NTV Online, 7 Jul 2025. [Golden visa at unbelievably low cost for Bangladeshis](https://www.ntvbd.com/world/news-1583861). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n73"></a>N73. Fragomen, 5 Jan 2026. [Minimum Salary Changes Announced](https://www.fragomen.com/insights/minimum-salary-changes-announced.html). Accessed 8 Nov 2026.
-- <a id="n74"></a>N74. UNHCR Rights Mapping and Analysis Platform. [United Arab Emirates](https://rimap.unhcr.org/countries/united-arab-emirates). Accessed 8 Nov 2026. Undated: possibly outdated.
-- <a id="n75"></a>N75. US Department of State, 22 Apr 2024. [2023 Country Reports on Human Rights Practices: United Arab Emirates](https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/united-arab-emirates/). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n76"></a>N76. Foshwa Global (Consulate's service centre). [Birth Registration services and fees](https://www.foshwaglobal.ae/BRS.php). Accessed 8 Nov 2026. Undated: possibly outdated.
-- <a id="n77"></a>N77. The Business Standard, 3 Aug 2026. [BFIU to freeze 14,000 more MFS accounts over online gambling, hundi links](https://www.tbsnews.net/bangladesh/bfiu-freeze-14000-more-mfs-accounts-over-online-gambling-hundi-links-1505811). Accessed 8 Nov 2026.
-- <a id="n78"></a>N78. bKash Limited. [Money Transfer Service (remittance)](https://www.bkash.com/en/products-services/remittance/money-transfer-service). Accessed 8 Nov 2026. Undated: possibly outdated.
-- <a id="n79"></a>N79. Dhaka Times, 3 Jan 2025. [How many Bangladeshis took the UAE amnesty?](https://www.dhakatimes24.com/2025/01/03/376188). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n80"></a>N80. UK Foreign, Commonwealth & Development Office (GOV.UK). [When someone dies in the United Arab Emirates](https://www.gov.uk/guidance/when-someone-dies-in-the-united-arab-emirates). Accessed 8 Nov 2026. Undated: possibly outdated.
-- <a id="n81"></a>N81. Arab News Japan (AFP), 17 Mar 2026. [Migrant workers bear brunt of Iran attacks in Gulf](https://www.arabnews.jp/en/middle-east/migrant-workers-bear-brunt-of-iran-attacks-in-gulf-166110). Accessed 8 Nov 2026.
+- <a id="n13"></a>N13. Prothom Alo, 27 Jun 2024. [বছরে দুই হাজার ট্যাক্সি ও মোটরসাইকেলচালক নেবে আমিরাত](https://www.prothomalo.com/bangladesh/gklocgre6z). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n14"></a>N14. Prothom Alo, 13 Oct 2026. [আরব আমিরাতে শ্রমবাজার ও নতুন সুযোগের সম্ভাবনা নিয়ে মাহদী আমিন-রাষ্ট্রদূতের বৈঠক](https://www.prothomalo.com/bangladesh/bc11uznzd0). Accessed 23 Nov 2026.
+- <a id="n15"></a>N15. Dhaka Post, 17 Aug 2026. [আমিরাতে বাংলাদেশিদের ভিসা বাতিলের সুনির্দিষ্ট কারণ এখনো অজানা: প্রবাসীকল্যাণমন্ত্রী](https://www.dhakapost.com/national/475731). Accessed 8 Nov 2026.
+- <a id="n16"></a>N16. Bangladesh Monitor, 17 May 2025. [UAE visa issuance for Bangladeshis progresses](https://www.bangladeshmonitor.com.bd/en/uae-visa-issuance-for-bangladeshis-progresses). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n17"></a>N17. Prothom Alo, 17 May 2026. [বাংলাদেশ থেকে ৬০০০ ট্যাক্সিচালক নেবে দুবাইয়ের কোম্পানি, খরচ ১ লাখে নামানোর আহ্বান প্রতিমন্ত্রীর](https://www.prothomalo.com/chakri/chakri-news/2i3gb650xh). Accessed 23 Nov 2026.
+- <a id="n18"></a>N18. Prothom Alo, 18 Aug 2026. [বিদেশে কর্মী পাঠানোর পুরো প্রক্রিয়া অনলাইনে আনার উদ্যোগ নেওয়া হচ্ছে: প্রবাসীকল্যাণমন্ত্রী](https://www.prothomalo.com/bangladesh/mm77d8s4h4). Accessed 23 Nov 2026.
+- <a id="n19"></a>N19. Gulf Labour Markets, Migration and Population (GLMM) programme, Gulf Research Center, 1 Jan 2019. [Working and Living Conditions of Low-Income Migrant Workers in the Hospitality and Construction Sectors in the UAE (Research Report 2/2019)](https://gulfmigration.grc.net/media/pubs/rp/GLMM_EN_2019_RR02.pdf). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n20"></a>N20. Asia News Network (The Daily Star), 15 Sep 2026. [UAE cancels visas of over 4,000 Bangladeshis, leaving many unable to return to jobs](https://asianews.network/uae-cancels-visas-of-over-4000-bangladeshis-leaving-many-unable-to-return-to-jobs/). Accessed 8 Nov 2026.
+- <a id="n21"></a>N21. The Daily Ittefaq, 14 Sep 2026. [আমিরাতে ৪৮০০ বাংলাদেশির ভিসা বাতিল, অনিশ্চয়তায় প্রবাসীরা](https://www.ittefaq.com.bd/809551/%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A7%AA%E0%A7%AE%E0%A7%A6%E0%A7%A6-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%B0-%E0%A6%AD%E0%A6%BF%E0%A6%B8%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B2-%E0%A6%85%E0%A6%A8%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%9A%E0%A7%9F%E0%A6%A4%E0%A6%BE%E0%A7%9F). Accessed 8 Nov 2026.
+- <a id="n22"></a>N22. Ekhon TV, 26 Jul 2026. [আমিরাতে স্বয়ংক্রিয়ভাবে বাতিল হচ্ছে ভিসা; আতঙ্কে ১২ লাখ বাংলাদেশি প্রবাসী](https://ekhon.tv/article/6a65e07f3af806efa485fc53). Accessed 8 Nov 2026.
+- <a id="n23"></a>N23. Shomoyer Alo, 27 Jul 2026. [আমিরাতে ভিসা বাতিল, সমাধানের দাবি প্রবাসীদের](https://www.shomoyeralo.com/news/374907). Accessed 8 Nov 2026.
+- <a id="n24"></a>N24. BSS (Bangladesh Sangbad Sangstha), 30 Jul 2026. [UAE visa cancellations not country-specific: Shama](https://www.bssnews.net/news/410351). Accessed 8 Nov 2026.
+- <a id="n25"></a>N25. Amader Shomoy, 7 Oct 2026. [ছুটিতে এসে আমিরাতের ভিসা বাতিল, কর্মস্থলে ফিরতে ৬৬০০ প্রবাসীর মানববন্ধন](https://www.amadershomoy.com/migrants/article/201230). Accessed 8 Nov 2026.
+- <a id="n26"></a>N26. Prothom Alo, 16 Jul 2026. [দুবাইয়ে ভিসার মেয়াদ বৃদ্ধি নিয়ে কূটনৈতিক পর্যায়ে আলোচনা চলছে: প্রবাসীকল্যাণমন্ত্রী](https://www.prothomalo.com/bangladesh/district/6k6eu54818). Accessed 23 Nov 2026.
+- <a id="n27"></a>N27. Prothom Alo, 24 Jul 2024. [আরব আমিরাতের ভিসা বন্ধের কোনো তথ্য নেই: প্রবাসী প্রতিমন্ত্রী](https://www.prothomalo.com/bangladesh/xa1q1wnbr3). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n28"></a>N28. The Daily Star Bangla, 1 May 2024. [বেশি রেমিট্যান্স আসছে আরব আমিরাত থেকে, পাচারের অর্থ কিনা প্রশ্ন বিশেষজ্ঞদের](https://bangla.thedailystar.net/economy/news-592696). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n29"></a>N29. Prothom Alo, 24 Jul 2024. [আমিরাতে বিক্ষোভ করায় ৫৭ বাংলাদেশির কারাদণ্ড](https://www.prothomalo.com/world/middle-east/ecj20eahx2). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n30"></a>N30. Global Media Insight (GMI), 19 Oct 2026. [United Arab Emirates (UAE) Population Statistics 2026](https://www.globalmediainsight.com/blog/uae-population-statistics/). Accessed 8 Nov 2026.
+- <a id="n31"></a>N31. The Daily Star, 21 Sep 2025. [Bangladesh still locked out of key labour markets](https://www.thedailystar.net/news/bangladesh/news/dhaka-still-shut-out-major-labour-markets-3991396). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n32"></a>N32. Prothom Alo, 8 Mar 2024. [আমিরাতে বাংলাদেশি শ্রমিকদের ভিসা পদ্ধতি সহজ করার জন্য পররাষ্ট্রমন্ত্রীর আহ্বান](https://www.prothomalo.com/bangladesh/ricc9ob69y). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n33"></a>N33. Prothom Alo, 19 Mar 2024. [জলদস্যুদের হাতে জিম্মি নাবিকদের উদ্ধারে কৌশলে এগোচ্ছি: পররাষ্ট্রমন্ত্রী](https://www.prothomalo.com/bangladesh/lr8529ua06). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n34"></a>N34. Prothom Alo, 24 Jul 2024. [সংযুক্ত আরব আমিরাত বাংলাদেশের নাগরিকদের ভিসা বন্ধ করেনি: পররাষ্ট্রমন্ত্রী](https://www.prothomalo.com/bangladesh/d12kfq4arj). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n35"></a>N35. Prothom Alo, 24 Jul 2024. [সংযুক্ত আরব আমিরাত বাংলাদেশের নাগরিকদের ভিসা বন্ধ করেনি: পররাষ্ট্রমন্ত্রী](https://www.prothomalo.com/bangladesh/d12kfq4arj). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n36"></a>N36. Prothom Alo, 5 Dec 2024. [সংযুক্ত আরব আমিরাতে সাধারণ ক্ষমা পেয়েছেন ৫০ হাজার বাংলাদেশি](https://www.prothomalo.com/bangladesh/p9h3jk2gbf). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n37"></a>N37. Jagonews24, 18 Dec 2024. [এক মিছিলেই অনিশ্চিত জীবন আমিরাত ফেরত প্রবাসীদের](https://www.jagonews24.com/national/news/988956). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n38"></a>N38. Bangla Tribune, 2 Dec 2024. [আমিরাতে ক্ষমা পাওয়া ২৪ বাংলাদেশি ফিরছেন আজ](https://www.banglatribune.com/others/875517/%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%BE-%E0%A6%AA%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A7%A8%E0%A7%AA-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%86%E0%A6%9C). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n39"></a>N39. Prothom Alo, 28 Dec 2024. [৫০ হাজার টাকার চেক পেলেন আমিরাত থেকে ফেরত ১৮৬ কর্মী](https://www.prothomalo.com/bangladesh/8667vnueeq). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n40"></a>N40. Prothom Alo, 10 Feb 2025. [ছয় দফা দাবিতে টিঅ্যান্ডটি ভবনের সামনে প্রবাসী শ্রমিকদের বিক্ষোভ](https://www.prothomalo.com/bangladesh/capital/0c8696r3ba). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n41"></a>N41. Prothom Alo, 7 Feb 2025. [গণ-অভ্যুত্থানে ক্ষতিগ্রস্ত প্রবাসীদের জন্য কর্মসংস্থানের দাবি](https://www.prothomalo.com/bangladesh/pi33y8kz5b). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n42"></a>N42. Dhaka Tribune, 24 Jan 2026. [Visa doors slam shut worldwide for Bangladeshis](https://www.dhakatribune.com/bangladesh/401698/global-visa-crackdown-leaves-bangladeshis-facing). Accessed 8 Nov 2026.
+- <a id="n43"></a>N43. Prothom Alo, 2 Feb 2025. [ভিসা সহজীকরণসহ আমিরাতপ্রবাসীদের সমস্যা সমাধানে কর্তৃপক্ষের সঙ্গে কনসাল জেনারেলের বৈঠক](https://nagorik.prothomalo.com/durporobash/6qu3aeyk1f). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n44"></a>N44. Prothom Alo, 14 Feb 2025. [সংযুক্ত আরব আমিরাত সফর শেষে দেশে ফিরেছেন প্রধান উপদেষ্টা](https://www.prothomalo.com/bangladesh/l5p6g4udiw). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n45"></a>N45. Prothom Alo, 1 Feb 2026. [শ্রম অভিবাসনে পারস্পরিক সহযোগিতা জোরদারের আহ্বান আসিফ নজরুলের](https://www.prothomalo.com/bangladesh/mh7mi1cvoz). Accessed 23 Nov 2026.
+- <a id="n46"></a>N46. Samakal, 7 Oct 2022. [মানব পাচারে জড়িত সরকারি কর্মকর্তারাই (UAE smart-card fraud inquiry)](https://samakal.com/bangladesh/article/2210135525/%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC-%E0%A6%AA%E0%A6%BE%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%9C%E0%A7%9C%E0%A6%BF%E0%A6%A4-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%87). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n47"></a>N47. Bangla Tribune, 18 Dec 2024. [বিশ্বে যে কারণে সবচেয়ে বেশি অভিবাসন ব্যয় বাংলাদেশে](https://www.banglatribune.com/others/877773/%E0%A6%AF%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A7%87-%E0%A6%B8%E0%A6%AC%E0%A6%9A%E0%A7%87%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A7%9F-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n48"></a>N48. New Age, 17 Sep 2026. [NCP leader accuses BMET of harassing migrants](https://www.newagebd.net/post/country/314238/ncp-leader-hasnat-abdullah-accuses-bmet-of-harassing-migrants). Accessed 8 Nov 2026.
+- <a id="n49"></a>N49. Prothom Alo, 2 Apr 2026. [‘আপনেরা আমার স্বামীর লাশডা আইন্যা দেন, শেষবারের মতো দেখতাম চাই’](https://www.prothomalo.com/bangladesh/district/gw0r43r8vn). Accessed 23 Nov 2026.
+- <a id="n50"></a>N50. Prothom Alo, 13 Oct 2026. [প্রবাসীদের জন্য বিশেষ আদালত গঠন করা হবে: আইনমন্ত্রী](https://www.prothomalo.com/bangladesh/1855xs487l). Accessed 23 Nov 2026.
+- <a id="n51"></a>N51. Human Rights Watch, 1 Jan 2026. [World Report 2026: United Arab Emirates](https://www.hrw.org/world-report/2026/country-chapters/united-arab-emirates). Accessed 8 Nov 2026.
+- <a id="n52"></a>N52. BSS (Bangladesh Sangbad Sangstha), 19 Aug 2026. [MP Kiron hands visas and air tickets to 53 unemployed youths](https://www.bssnews.net/bangla/national/334076). Accessed 8 Nov 2026.
+- <a id="n53"></a>N53. Desh Rupantor, 11 Aug 2026. [Attempt to form a 25-member syndicate, Tk 17 crore per member](https://www.deshrupantor.com/711758/%E0%A7%A8%E0%A7%AB-%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F-%E0%A6%97%E0%A7%9C%E0%A6%BE%E0%A6%B0-%E0%A6%9A%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BE-%E0%A6%9C%E0%A6%A8%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF-%E0%A6%9A%E0%A6%BE%E0%A6%81%E0%A6%A6%E0%A6%BE-%E0%A7%A7%E0%A7%AD). Accessed 8 Nov 2026.
+- <a id="n54"></a>N54. BAIRA (Bangladesh Association of International Recruiting Agencies). [Member directory: agency information, RL0939](https://baira.org.bd/dir/agency-information/939). Accessed 8 Nov 2026. Undated: possibly outdated.
+- <a id="n55"></a>N55. Asian TV, 23 Jan 2026. [Vote for the sheaf of paddy: Farhana Kadir Rahman](https://www.asiantvonline.com/news/District-news/57099/a1d8-20260123). Accessed 8 Nov 2026.
+- <a id="n56"></a>N56. The Financial Express, 15 Sep 2025. [ACC files cases against 31 bosses of 13 agencies](https://today.thefinancialexpress.com.bd/print/acc-files-cases-against-31-bosses-of-13-agencies-1757871247). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n57"></a>N57. New Age, Jul 2026. [Malaysia syndicate fraud: Govt revokes licences of 49 recruiting agencies](https://www.newagebd.net/post/country/306955/malaysia-syndicate-fraud-govt-revokes-licences-of-49-recruiting-agencies). Accessed 7 Nov 2026.
+- <a id="n58"></a>N58. Prothom Alo, 4 Oct 2026. [Decision to withdraw 49 recruiting agencies' licences upheld (Bangla)](https://www.prothomalo.com/bangladesh/2o2duezc6j). Accessed 7 Nov 2026.
+- <a id="n59"></a>N59. Fragomen, 31 Oct 2018. [Mandatory Training Requirement Implemented for Some Employees in the Mainland](https://www.fragomen.com/insights/mandatory-training-requirement-implemented-for-some-employees-in-the-mainland.html). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n60"></a>N60. The National, 25 Aug 2026. [Dubai Police issue warning over online visa and job scams](https://www.thenationalnews.com/news/uae/2026/08/25/dubai-police-fake-visa-job-offer-warning/). Accessed 8 Nov 2026.
+- <a id="n61"></a>N61. BD Govt Guide, 4 Nov 2026. [Apostille Bangladesh: e-Apostille and certificate attestation online](https://bdgovtguide.com/apostille-bangladesh/). Accessed 8 Nov 2026.
+- <a id="n62"></a>N62. Dhaka Tribune, 1 Dec 2024. [BMET smart card to be issued free of charge](https://www.dhakatribune.com/bangladesh/366807/bmet-smart-card-to-be-issued-free-of-charge). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n63"></a>N63. Emirates NBD. [Current Account: requirements](https://www.emiratesnbd.com/en/accounts/current-accounts/standard-current-account). Accessed 8 Nov 2026. Undated: possibly outdated.
+- <a id="n64"></a>N64. Gulf News, 29 Jun 2022. [New to the UAE - what are my SIM card options?](https://gulfnews.com/living-in-uae/telephone-internet/new-to-the-uae--what-are-my-sim-card-options-1.1656337696506). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n65"></a>N65. Khaleej Times, 28 Jul 2026. [Bangladesh Embassy responds to UAE visa cancellation reports, warns against rumours](https://www.khaleejtimes.com/uae/uae-visa-cancellation-reports-bangladesh-embassy-responds-warns-against-rumours). Accessed 8 Nov 2026.
+- <a id="n66"></a>N66. Kaler Kantho, 28 Jul 2026. [UAE embassy statement on visa cancellations](https://www.kalerkantho.com/online/national/2026/07/28/1717449). Accessed 8 Nov 2026.
+- <a id="n67"></a>N67. Gulf News, 4 Sep 2026. [UAE workers can report 11 types of labour violations to MOHRE](https://gulfnews.com/uae/uae-workers-can-report-11-types-of-labour-violations-to-mohre-1.500663000). Accessed 8 Nov 2026.
+- <a id="n68"></a>N68. Jugantor, 18 Aug 2026. [Visa cancellation of Bangladeshis in the UAE has come to the ministry's notice: Ariful Haque](https://www.jugantor.com/national/1141864). Accessed 8 Nov 2026.
+- <a id="n69"></a>N69. Prothom Alo, 28 Jul 2024. [সংযুক্ত আরব আমিরাতে বাংলাদেশি বিক্ষোভকারীদের সাজা অন্যায্য: এইচআরডব্লিউ](https://www.prothomalo.com/bangladesh/ovtob7xg09). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n70"></a>N70. Prothom Alo, 2 Aug 2025. [মিছিলে গিয়ে কারাবন্দী হওয়া ১৮৮ প্রবাসী দেশে ফিরেছেন](https://www.prothomalo.com/bangladesh/kxuoteag2n). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n71"></a>N71. Prothom Alo, 22 Jun 2025. [জুলাই আন্দোলনে ‘অংশ নেওয়া' কারাবন্দী-আটক প্রবাসীদের মুক্তিসহ চার দাবিতে বিক্ষোভ](https://www.prothomalo.com/bangladesh/capital/lpqvga8odm). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n72"></a>N72. Prothom Alo, 9 Oct 2025. [আরব আমিরাতে বন্দী ২৫ জনের শিগগিরই মুক্তি, আশাবাদী সরকার](https://www.prothomalo.com/bangladesh/x6ixa3clq9). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n73"></a>N73. Prothom Alo, 28 Feb 2026. [কাতার, আমিরাত, কুয়েতসহ মধ্যপ্রাচ্যের ৬ দেশের প্রবাসী বাংলাদেশিদের জন্য জরুরি বার্তা](https://www.prothomalo.com/bangladesh/qujb76fbeq). Accessed 23 Nov 2026.
+- <a id="n74"></a>N74. Prothom Alo, 16 Mar 2026. [জীবিকার জন্য বিদেশে এসে এখন যুদ্ধের মধ্যে পড়ে নিরুপায়](https://www.prothomalo.com/world/middle-east/gnlgxv71kj). Accessed 23 Nov 2026.
+- <a id="n75"></a>N75. Lucent Legal (law firm guide). [Cheque Bounce Case in UAE 2026: Punishment, Travel Ban](https://lucent-legal.com/en/guides/bounced-cheque-uae/). Accessed 8 Nov 2026. Undated: possibly outdated.
+- <a id="n76"></a>N76. Amnesty International, 1 Apr 2026. [United Arab Emirates 2025](https://www.amnesty.org/en/location/middle-east-and-north-africa/middle-east/united-arab-emirates/report-united-arab-emirates/). Accessed 8 Nov 2026.
+- <a id="n77"></a>N77. Littler, 1 Jan 2011. [United Arab Emirates: New Regulations Enable Skilled Foreign Workers to Change Jobs](https://www.littler.com/news-analysis/asap/united-arab-emirates-new-regulations-enable-skilled-foreign-workers-change-jobs). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n78"></a>N78. Arabian Business, 18 Apr 2018. [UAE signs deal to recruit domestic workers from Bangladesh](https://www.arabianbusiness.com/politics/394500-uae-signs-deal-to-recruit-domestic-workers-from-bangladesh). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n79"></a>N79. Gulf News, 9 May 2022. [Want to hire a domestic worker? You can choose from three plans](https://gulfnews.com/living-in-uae/housing/want-to-hire-a-domestic-worker-you-can-choose-from-three-plans-1.1652093448404). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n80"></a>N80. Gulf News, 27 Jul 2026. [UAE fines 42 domestic worker recruitment offices over 135 labour law violations](https://gulfnews.com/uae/government/uae-fines-42-domestic-worker-recruitment-offices-over-135-labour-law-violations-1.500621480). Accessed 8 Nov 2026.
+- <a id="n81"></a>N81. US Department of State, 2026. [2026 Trafficking in Persons Report: United Arab Emirates](https://www.state.gov/reports/2026-trafficking-in-persons-report/united-arab-emirates). Accessed 8 Nov 2026.
+- <a id="n82"></a>N82. Housekeeping Domestic Workers Services LLC (tadbeer.ae, a private Tadbeer centre). [New Domestic Worker Visa: step-by-step process](https://www.tadbeer.ae/process/new). Accessed 8 Nov 2026. Undated: possibly outdated.
+- <a id="n83"></a>N83. Excellence Center (Tadbeer centre, Dubai). [Maid Salary in Dubai: Legal Rates, Packages, and Real Costs](https://excellencecenter.ae/what-is-the-basic-salary-for-a-maid-in-dubai/). Accessed 8 Nov 2026. Undated: possibly outdated.
+- <a id="n84"></a>N84. Human Rights Watch, 22 Oct 2014. [I Already Bought You: Abuse and Exploitation of Female Migrant Domestic Workers in the United Arab Emirates](https://www.hrw.org/report/2014/10/22/i-already-bought-you/abuse-and-exploitation-female-migrant-domestic-workers). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n85"></a>N85. BSS (Bangladesh Sangbad Sangstha), Sep 2026. [State minister in parliament on safe homes and UAE visa cancellations (Bangla)](https://www.bssnews.net/bangla/national-parliament-session/338695). Accessed 8 Nov 2026.
+- <a id="n86"></a>N86. Prothom Alo, 5 Sep 2024. [দুঃসময় কাটিয়ে ঘুরে দাঁড়ানোর প্রত্যাশা বাংলাদেশের পর্যটনশিল্পের](https://www.haal.fashion/travel/tourism/g2wz5d8z0s). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n87"></a>N87. Prothom Alo, 28 May 2026. [ভিসা সীমিত, টিকিটের দাম চড়া, তাই বেড়ানোও বন্ধ তাঁদের](https://www.prothomalo.com/bangladesh/zsjjvaite8). Accessed 23 Nov 2026.
+- <a id="n88"></a>N88. Dhaka Post, 27 Feb 2021. [টাকায় অফলোড সিলও মুছে দেয় ইমিগ্রেশন পুলিশ (Immigration police erase offload seals for money)](https://www.dhakapost.com/exclusive/13964). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n89"></a>N89. flydubai. [OK to Board](https://www.flydubai.com/en/flying-with-us/ok-to-board/). Accessed 8 Nov 2026. Undated: possibly outdated.
+- <a id="n90"></a>N90. Shomoyer Alo, 16 Jul 2026. [আমিরাতে বাংলাদেশিরাও পাবেন ৫ বছরের মাল্টিপল ট্যুরিস্ট ভিসা (Bangladeshis also eligible for UAE 5-year tourist visa)](https://www.shomoyeralo.com/news/372961). Accessed 8 Nov 2026.
+- <a id="n91"></a>N91. Prothom Alo, 28 Jan 2024. [‘বাবা, আমাকে নির্যাতন করা হচ্ছে’: দুবাই থেকে এই বার্তা পাঠানো মেয়েটির লাশ ফিরেছে](https://www.prothomalo.com/bangladesh/crime/bpcki7g9w2). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n92"></a>N92. The Business Standard, 20 Sep 2025. [Bangladesh Embassy working to verify UAE visa ban news, suspects visa processing centre's post malicious](https://www.tbsnews.net/bangladesh/uae-visa-ban-post-appears-be-malicious-ambassador-tareq-ahmed-1241431). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n93"></a>N93. Jugantor, 4 May 2025. [বাংলাদেশিদের সুখবর দিল আরব আমিরাত (UAE reopens visit visas for Bangladeshis on a limited scale)](https://www.jugantor.com/national/949565). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n94"></a>N94. KPMG (GMS Flash Alert 2026-210), 1 Aug 2026. [United Arab Emirates - GDRFA Dubai clarifies visit visa rules for relatives and friends](https://kpmg.com/xx/en/our-insights/gms-flash-alert/2026/flash-alert-2026-210.html). Accessed 8 Nov 2026.
+- <a id="n95"></a>N95. VFS Global Bangladesh (UAE Attestation Services, empanelled by UAE MOFA). [Apply for an Attestation](https://services.vfsglobal.com/bgd/en/atu/apply-attestation-new). Accessed 8 Nov 2026. Undated: possibly outdated.
+- <a id="n96"></a>N96. Samakal, 4 May 2025. [বাংলাদেশিদের ভিজিট ভিসা ফের চালু করেছে আমিরাত (UAE resumes visit visas for Bangladeshis)](https://samakal.com/bangladesh/article/293754/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A6%BF%E0%A6%9F-%E0%A6%AD%E0%A6%BF%E0%A6%B8%E0%A6%BE-%E0%A6%AB%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A7%81-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%A4). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n97"></a>N97. Middlesex University Dubai. [New student visa application](https://www.mdx.ac.ae/student-visa/new-student-visa-application). Accessed 8 Nov 2026. Undated: possibly outdated.
+- <a id="n98"></a>N98. American University in Dubai. [Visa Information - All Applicants](https://www.aud.edu/admissions/prospective-students/visa-information/visa-information-all-applicants/). Accessed 8 Nov 2026. Undated: possibly outdated.
+- <a id="n99"></a>N99. Independent TV (itvbd), 15 Mar 2025. [Bangladeshi journalist gets golden visa in the UAE](https://www.itvbd.com/probash/207340/%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%A8-%E0%A6%AD%E0%A6%BF%E0%A6%B8%E0%A6%BE-%E0%A6%AA%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%B8%E0%A6%BE%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%BF%E0%A6%95). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n100"></a>N100. Prothom Alo, 4 Jul 2025. [চট্টগ্রামের রাউজান থেকে আজমানে গিয়ে আবাসন সম্রাট, অর্থের উৎস নিয়ে প্রশ্ন](https://www.prothomalo.com/business/industry/a783ax7fv7). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n101"></a>N101. NTV Online, 7 Jul 2025. [Golden visa at unbelievably low cost for Bangladeshis](https://www.ntvbd.com/world/news-1583861). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n102"></a>N102. Fragomen, 5 Jan 2026. [Minimum Salary Changes Announced](https://www.fragomen.com/insights/minimum-salary-changes-announced.html). Accessed 8 Nov 2026.
+- <a id="n103"></a>N103. UNHCR Rights Mapping and Analysis Platform. [United Arab Emirates](https://rimap.unhcr.org/countries/united-arab-emirates). Accessed 8 Nov 2026. Undated: possibly outdated.
+- <a id="n104"></a>N104. US Department of State, 22 Apr 2024. [2023 Country Reports on Human Rights Practices: United Arab Emirates](https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/united-arab-emirates/). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n105"></a>N105. Foshwa Global (Consulate's service centre). [Birth Registration services and fees](https://www.foshwaglobal.ae/BRS.php). Accessed 8 Nov 2026. Undated: possibly outdated.
+- <a id="n106"></a>N106. The Business Standard, 3 Aug 2026. [BFIU to freeze 14,000 more MFS accounts over online gambling, hundi links](https://www.tbsnews.net/bangladesh/bfiu-freeze-14000-more-mfs-accounts-over-online-gambling-hundi-links-1505811). Accessed 8 Nov 2026.
+- <a id="n107"></a>N107. Prothom Alo, 8 Apr 2024. [আরব আমিরাত থেকে প্রবাসী আয় পাঠানোর খরচ বাড়বে](https://www.prothomalo.com/business/bank/v3spxgeb8q). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n108"></a>N108. Prothom Alo, 18 Nov 2024. [জুলাই–সেপ্টেম্বরে প্রবাসী আয় বেশি ঢাকায়, কম বান্দরবানে](https://www.prothomalo.com/business/bank/rl1bbdhn9t). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n109"></a>N109. Prothom Alo, 27 Nov 2024. [ক্ষমতার পালাবদলের পর যুক্তরাষ্ট্র 
+থেকে প্রবাসী আয় বেড়ে দ্বিগুণ](https://www.prothomalo.com/business/bank/85wgqxkord). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n110"></a>N110. Prothom Alo, 14 Jan 2025. [প্রবাসী আয় প্রেরণকারী দেশের তালিকায় যুক্তরাষ্ট্র এখন শীর্ষে](https://www.prothomalo.com/business/bank/36lvztu5xi). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n111"></a>N111. Prothom Alo, 9 Mar 2025. [মধ্যপ্রাচ্যকে ছাড়িয়ে প্রবাসী আয়ের শীর্ষে পশ্চিমা দেশগুলো](https://www.prothomalo.com/business/g9pu81w9id). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n112"></a>N112. bKash Limited. [Money Transfer Service (remittance)](https://www.bkash.com/en/products-services/remittance/money-transfer-service). Accessed 8 Nov 2026. Undated: possibly outdated.
+- <a id="n113"></a>N113. Prothom Alo, 9 Sep 2026. [জনতা ব্যাংকের ইউএই কার্যক্রম টিকিয়ে রাখতে এক হাজার কোটি টাকা দিল সরকার](https://www.prothomalo.com/business/bank/txm5f5010m). Accessed 23 Nov 2026.
+- <a id="n114"></a>N114. Dhaka Times, 3 Jan 2025. [How many Bangladeshis took the UAE amnesty?](https://www.dhakatimes24.com/2025/01/03/376188). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n115"></a>N115. Prothom Alo, 2 Mar 2026. [চার মাস আগে শেষবারের মতো মৌলভীবাজার এসেছিলেন সালেহ](https://www.prothomalo.com/bangladesh/district/qu8twy2tic). Accessed 23 Nov 2026.
+- <a id="n116"></a>N116. Prothom Alo, 1 Mar 2026. [ইরানের হামলায় আমিরাতে এক বাংলাদেশি নিহত](https://www.prothomalo.com/bangladesh/62j81vxyef). Accessed 23 Nov 2026.
+- <a id="n117"></a>N117. Prothom Alo, 9 Mar 2026. [মধ্যপ্রাচ্যে যুদ্ধকালে নিহত প্রবাসীদের আর্থিক সহযোগিতার ব্যবস্থা করা হবে: প্রবাসীকল্যাণমন্ত্রী](https://www.prothomalo.com/bangladesh/district/0w0ch0fdvv). Accessed 23 Nov 2026.
+- <a id="n118"></a>N118. Prothom Alo, 1 Apr 2026. [আরব আমিরাতে ইরানের ড্রোন হামলায় এক বাংলাদেশি নিহত](https://www.prothomalo.com/video/international/v4qfhvyg8f). Accessed 23 Nov 2026.
+- <a id="n119"></a>N119. Prothom Alo, 3 Mar 2026. [প্রবাসীদের নিরাপত্তায় অগ্রাধিকার দিন](https://www.prothomalo.com/opinion/editorial/sfmrwd5r35). Accessed 23 Nov 2026.
+- <a id="n120"></a>N120. Prothom Alo, 3 Mar 2026. [ফ্লাইট চালু হলে প্রবাসীদের দ্রুত যাত্রার ব্যবস্থা করবে সরকার](https://www.prothomalo.com/bangladesh/o89w8b1gvf). Accessed 23 Nov 2026.
+- <a id="n121"></a>N121. Prothom Alo, 14 Mar 2026. [ভিসা নবায়নের সুযোগ পাচ্ছেন মধ্যপ্রাচ্যের প্রবাসীরা](https://www.prothomalo.com/bangladesh/8gv5tgnc8e). Accessed 23 Nov 2026.
+- <a id="n122"></a>N122. UK Foreign, Commonwealth & Development Office (GOV.UK). [When someone dies in the United Arab Emirates](https://www.gov.uk/guidance/when-someone-dies-in-the-united-arab-emirates). Accessed 8 Nov 2026. Undated: possibly outdated.
+- <a id="n123"></a>N123. Arab News Japan (AFP), 17 Mar 2026. [Migrant workers bear brunt of Iran attacks in Gulf](https://www.arabnews.jp/en/middle-east/migrant-workers-bear-brunt-of-iran-attacks-in-gulf-166110). Accessed 8 Nov 2026.
+- <a id="n124"></a>N124. Prothom Alo, 16 Jan 2024. [সংযুক্ত আরব আমিরাতে ভবন থেকে পড়ে বাংলাদেশি তরুণের মৃত্যু](https://www.prothomalo.com/bangladesh/district/oyt4fuil2z). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n125"></a>N125. Prothom Alo, 17 Jan 2024. [‘শেষবারের মতো ছেলের মুখ দেখতে চাই’](https://www.prothomalo.com/bangladesh/district/1m8slo0q77). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n126"></a>N126. Prothom Alo, 8 Jul 2024. [দুবাইয়ে ৫ বাংলাদেশি নিহত : ‘আমার রাজুকে এনে দাও, একবার ওর মুখটা দেখি’](https://www.prothomalo.com/bangladesh/district/7d3m8bn47g). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n127"></a>N127. Prothom Alo, 11 Oct 2024. [আরব আমিরাতে মাঙ্কিপক্সে বাংলাদেশির মৃত্যু, স্বাস্থ্যবিধি মেনে কুমিল্লায় লাশ দাফন](https://www.prothomalo.com/bangladesh/district/ri6tgdzbyj). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n128"></a>N128. Prothom Alo, 4 Apr 2025. [সিলেটের এক প্রবাসী মধ্যপ্রাচ্যে সহকর্মীর হাতে খুন, আরেকজন দুর্ঘটনায় নিহত](https://www.prothomalo.com/bangladesh/district/5rx007z5wi). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n129"></a>N129. Prothom Alo, 5 May 2025. [দুবাইফেরত দুই বাংলাদেশির জামাকাপড় পুড়িয়ে চার কেজি সোনা উদ্ধার](https://www.prothomalo.com/bangladesh/crime/3cthu9penw). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n130"></a>N130. Prothom Alo, 13 Sep 2024. [ক্ষমা পেয়ে আরব আমিরাত থেকে ফিরলেন আরও ২৬ বাংলাদেশি](https://www.prothomalo.com/bangladesh/m1v0e7gvyi). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n131"></a>N131. Prothom Alo, 22 Jun 2025. [দাবি আদায় না হওয়া পর্যন্ত আমরণ অনশনের ঘোষণা প্রবাসী ও স্বজনদের](https://www.prothomalo.com/bangladesh/2eqhxnqgj6). Accessed 23 Nov 2026. Possibly outdated.

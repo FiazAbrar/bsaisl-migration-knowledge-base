@@ -1,0 +1,72 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/faq/doc.md",
+  "section": "Is there a job for someone with no skills?",
+  "old_str": "Most who go are not counted as skilled: of about 11,28,000 workers who went abroad in 2025, 43.47% were low-skilled",
+  "new_str": "Most who go are not counted as skilled: of the workers who went abroad in 2025, 43.47% were low-skilled",
+  "problem": "Cites the October 2026 column's total of 'about 11,28,000' for 2025, which notes.md (Resolved conflicts, 2025 departures) says the doc no longer cites; it contradicts the 11,32,519 given under 'Which countries can I go to for work right now?'. The percentages stand without it."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/faq/doc.md",
+  "section": "Is there a job for someone with no skills?",
+  "old_str": "A certificate bought to look skilled is no way round this: the Chief Adviser, Muhammad Yunus, said on 16 February 2025",
+  "new_str": "The Chief Adviser, Muhammad Yunus, said on 16 February 2025",
+  "problem": "'A certificate bought to look skilled is no way round this' is the writer's own conclusion; GF0036 only reports Yunus saying many workers go abroad with fake certificates."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/faq/doc.md",
+  "section": "Can I go abroad to study instead?",
+  "old_str": "What Prothom Alo's 2024 guides and the students they quoted say it takes:",
+  "new_str": "What Prothom Alo's guides and columns of 2024 to 2026, and the students they quoted, say it takes:",
+  "problem": "Lead sentence not true of every item: the list also draws on a May 2025 student's column, the October 2025 papers guide and the October 2026 guide (GF0045-GF0048, GF0056-GF0062, GF0098-GF0101, GF0106)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/faq/doc.md",
+  "section": "Can I go abroad to study instead?",
+  "old_str": "- **English test:** most universities accept the academic IELTS or TOEFL",
+  "new_str": "- **Language test:** most universities accept the academic IELTS or TOEFL",
+  "problem": "The bullet label does not fit all its content: it also covers learning Chinese for China (GF0045-GF0048)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/faq/doc.md",
+  "section": "What happens if war breaks out where I work?",
+  "old_str": "Workers have been killed in the Gulf in the 2026 Middle East war:",
+  "new_str": "Workers have been killed or injured in the Gulf in the 2026 Middle East war:",
+  "problem": "Lead sentence not true of every case: the last bullet (GF0187) is about at least 12 people injured, not killed."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/faq/doc.md",
+  "section": "How do I send money home safely?",
+  "old_str": "Money sent through legal channels earns the receiver a 2.5% government cash incentive, sometimes with another 2.5% from the bank, and the 2026-27 budget keeps it [F0136, F0137].",
+  "new_str": "Money sent through legal channels earns the receiver a 2.5% government cash incentive, and the 2026-27 budget keeps it [F0136, F0137]; the banks' own extra 2.5% stopped in May 2024 (see \"The banks' own incentive, October 2023 to May 2024\" in the Sending money home doc).",
+  "problem": "Cross-doc disagreement: the Sending money home doc says banks stopped their own 2.5% in May 2024 and that from September 2024 the government's 2.5% was the only incentive (GM0059, GM0122); the FAQ, on an undated bKash page (F0136), still says banks sometimes add 2.5%."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/faq/doc.md",
+  "section": "Can I get a government loan to go abroad?",
+  "old_str": "Interest is 11% a year, over up to three years; ask at the nearest PKB branch or on 16238 [GF0131, F0117].",
+  "new_str": "Interest is 11% a year, over up to three years; ask at the nearest PKB branch or on 16238 [GF0131, F0117]. PKB's terms as reported in December 2025 differ: N4 for Japan, a term of two to five years, and land or a registered mortgage as security above Tk 3 lakh (see \"The PKB loan for language study and skills abroad\" in the Services for migrants and their families doc).",
+  "problem": "Cross-doc disagreement: the Services doc gives this loan's December 2025 terms (GV0157, GV0153, GV0161-GV0163) as N4 for Japan, two to five years, and property collateral above Tk 3 lakh, and flags both as open; the FAQ states N5, up to three years and 'without collateral' up to Tk 10 lakh (GF0127, GF0128, GF0131) as settled."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/faq/doc.md",
+  "section": "Is there a list of good agencies?",
+  "old_str": "The expatriates' welfare minister said the same month that the card would be finalised under the government's 180-day programme and might give migrants priority in land, sub-registry and other government offices, with special health-care benefits planned [GF0140].",
+  "new_str": "The expatriates' welfare minister said the same month that the card would be finalised under the government's 180-day programme and might give migrants priority in land, sub-registry and other government offices, with special health-care benefits planned [GF0140]. Its later status (not yet introduced on 5 September 2026; piloted in four to five countries by 13 October 2026) is in \"The Probashi Card\" in the Sending money home doc.",
+  "problem": "Cross-doc disagreement on dates: the FAQ leaves the card 'to start on a pilot basis from August 2026', while the Sending money home and Services docs record that the pilot was due in September, had not started on 5 September 2026, and was running in four to five countries by 13 October 2026 (GM0351, GM0425, GM0381). The FAQ's Need to know on whether the pilot has started is partly answered there."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/faq/doc.md",
+  "section": "Which countries can I go to for work right now?",
+  "old_str": "> - How many Bangladeshis went to Russia in 2025: 4,663 or 4,727, the two figures RMMRU is reported as giving [CQ0211, RU0046]?",
+  "new_str": "",
+  "problem": "Cross-doc disagreement: the Illegal routes doc states 4,727 for 2025 as both BMET's and RMMRU's figure (RU0061, RU0046), with no conflict noted, while the FAQ body gives RMMRU's 4,663. The FAQ's Need to know should record that BMET's count is 4,727; the Illegal routes doc should also carry the 4,663 conflict. Resolved: BMET's 4,727 is the primary count; the Need to know is removed."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/faq/doc.md",
+  "section": "Who pays for the air ticket?",
+  "old_str": "a Tk 1 lakh ticket abroad carries Tk 40,000 in government taxes [CQ0091, CQ0092, CQ0093].",
+  "new_str": "a Tk 1 lakh ticket abroad carries Tk 40,000 in government taxes [CQ0091, CQ0092, CQ0093]. By airlines' account, reported in April 2025, Bangladesh takes Tk 9,890 a passenger on routes such as Dhaka-Dubai, plus Tk 4,000 travel tax outside SAARC countries (see \"Buying the ticket\" in the Departure bottlenecks doc).",
+  "problem": "Cross-doc disagreement on the same figure: the Departure bottlenecks doc (GD0164, GD0165, April 2025) puts the Bangladesh tax on Gulf and Kuala Lumpur routes at Tk 9,890 plus Tk 2,000-4,000 travel tax, far below the Tk 40,000 per Tk 1 lakh ticket the FAQ gives from one aviation expert, with no pointer between them."
+ }
+]

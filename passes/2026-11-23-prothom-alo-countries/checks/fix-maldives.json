@@ -1,0 +1,23 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/maldives/doc.md",
+  "section": "What people really pay",
+  "old_str": "a Bangladeshi worker in Malé wrote in September 2024 that many had spent Tk 2 lakh",
+  "new_str": "a Bangladeshi worker in the Maldives wrote in September 2024 that many had spent Tk 2 lakh",
+  "problem": "The letter (pa-2024-09-22-fuqsd1uv5p) is signed only 'মালদ্বীপপ্রবাসী' (living in the Maldives); it does not say Malé."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/maldives/doc.md",
+  "section": "Going home on leave",
+  "old_str": "A Bangladeshi worker in Malé wrote in September 2024 that some workers had their visas cancelled while home on leave [PM0003].",
+  "new_str": "A Bangladeshi worker in the Maldives wrote in September 2024 that some workers had their visas cancelled while home on leave [PM0003].",
+  "problem": "The letter (pa-2024-09-22-fuqsd1uv5p) is signed only 'মালদ্বীপপ্রবাসী' (living in the Maldives); it does not say Malé."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/maldives/doc.md",
+  "section": "The crackdown",
+  "old_str": "A Bangladeshi worker in Malé wrote in September 2024 that raids were taking people",
+  "new_str": "A Bangladeshi worker in the Maldives wrote in September 2024 that raids were taking people",
+  "problem": "The letter (pa-2024-09-22-fuqsd1uv5p) is signed only 'মালদ্বীপপ্রবাসী' (living in the Maldives); it does not say Malé."
+ }
+]

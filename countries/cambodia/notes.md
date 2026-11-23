@@ -207,3 +207,7 @@ Retrieved by me in your Chrome (11 Nov, evening): the Embassy of Bangladesh Bang
 12. **Western Union, Cambodia to Bangladesh**: price estimator at westernunion.com (send from Cambodia to Bangladesh, USD 200, to bKash or a bank) → `wu-kh-to-bd-estimate.png`
 
 - 2026-11-17, insurance start date conflict: WEWB notice (ZZ0001, Jan 2026) says cover is for workers going from 1 January 2023; BMET's safe-migration leaflet (B0009, undated) says from 12 March 2023 (the date the JBC contract was signed; the JBC leaflet says the contract is effective from 1 January 2023). The doc follows the newer WEWB notice and asks the question as a Need to know.
+
+## Prothom Alo archive pass (prefix PC)
+
+Three articles read. Used two (PC0001 to PC0007): the CTTC arrest of an alleged Cambodia trafficking-ring member in Agargaon on 29 July 2026, and the Additional IGP's November 2026 statement that a foreign ring that set up scam centres in Cambodia with Bangladeshis is trying to do the same in Bangladesh (both under The crackdown, In Bangladesh; the arrested man is not named, as he is not convicted). PC0005 to PC0007 (scam-centre raids in Chattogram and Cox's Bazar, September 2026) are Bangladesh-side and held for the global scams module, not written here. Unused: a 2024 "top 10 countries for work environment" list placing Cambodia 10th, with no named source and no usable fact. No conflicts with the doc.

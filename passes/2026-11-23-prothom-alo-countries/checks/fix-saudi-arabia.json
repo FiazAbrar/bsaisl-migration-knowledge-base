@@ -1,0 +1,58 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/saudi-arabia/doc.md",
+  "section": "Current situation",
+  "old_str": "Prothom Alo reported on 10 April that the seven killed in the war's first 40 days died in Saudi Arabia, Oman, Bahrain and Iraq [SQ0051].",
+  "new_str": "Prothom Alo reported on 10 April that seven Bangladeshis had been killed in Saudi Arabia, Oman, Bahrain and Iraq in the war's first 40 days [SQ0051].",
+  "problem": "'the seven' ties Prothom Alo's count to the minister's 6 April count of seven deaths; the article does not say they are the same seven (it counts a Lebanon death as the eighth). Merges two counts."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/saudi-arabia/doc.md",
+  "section": "Current situation",
+  "old_str": "On 11 October diplomatic sources in Riyadh said the unhurt Bangladeshi passengers of US-Bangla, Saudia and Riyadh Air were staying 17 at the Marriott, 25 at the Radisson and 40 in Princess Nourah University's residential halls, and the state minister said four injured were in the ICU of King Khalid Hospital; Biman suspended its Riyadh flights [SQ0045, SQ0046, SQ0030].",
+  "new_str": "On 11 October diplomatic sources in Riyadh said that of the unhurt Bangladeshi passengers of US-Bangla, Saudia and Riyadh Air, 17 were staying at the Marriott, 25 at the Radisson and 40 in Princess Nourah University's residential halls, and State Minister for Foreign Affairs Shama Obaid Islam said four injured Bangladeshis were in the ICU of King Khalid Hospital; Biman Bangladesh Airlines suspended its Riyadh flights for the time being [SQ0045, SQ0046, SQ0030].",
+  "problem": "Source gives 17/25/40 as some of the unhurt passengers ('of them'), not all of them (the same bullet says about 500 were stranded); 'the state minister' is unnamed and no state minister is introduced in this bullet; 'for the time being' dropped."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/saudi-arabia/doc.md",
+  "section": "Where demand is growing and shrinking",
+  "old_str": "Saudi workers in the private sector rose 31% from 2016 to mid-2025, as government reforms to bring Saudis into private jobs raised competition [SQ0017].",
+  "new_str": "Government reforms and initiatives to bring Saudis into private-sector jobs had raised competition and the number of applicants, and the number of Saudi workers in the private sector rose 31% from 2016 to the second quarter of 2025 [SQ0017].",
+  "problem": "'as' makes the reforms' rise in competition the cause of the 31% rise; the article states the two separately."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/saudi-arabia/doc.md",
+  "section": "The iqama: the employer's bill",
+  "old_str": "From January 2025 Abshir Business, the interior ministry's platform for employers, also charges service fees, which are outside employers' annual packages [SQ0013, SQ0014, SQ0015]:",
+  "new_str": "Absher Business, the interior ministry's business platform, raised its fees for seven services, Prothom Alo reported in January 2025; Absher said on X that the fees apply to services taken through Absher Business and are not part of the annual packages employers pay for [SQ0013, SQ0014, SQ0015]:",
+  "problem": "Source does not give January 2025 as a start date (it is the report date) and says fees were raised, not newly charged; the X statement is Absher's, attribution dropped; 'Abshir' contradicts the doc's spelling 'Absher' used everywhere else for the same system."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/saudi-arabia/doc.md",
+  "section": "Family visit visa",
+  "old_str": "A visitor on a personal or family visit visa who disappears can be reported as absconded or missing by the host on Abshir Individuals, from 7 to 14 days after the visa expires [SQ0038, SQ0039].",
+  "new_str": "A visitor on a personal or family visit visa who absconds or goes missing can be reported by the host on Absher Individuals, from 7 to 14 days after the visa expires, Prothom Alo reported in January 2025 [SQ0038, SQ0039].",
+  "problem": "Spelling 'Abshir' differs from 'Absher' used elsewhere in the doc for the same platform; the rule comes from a January 2025 news report and should carry that."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/saudi-arabia/doc.md",
+  "section": "Umrah visa",
+  "old_str": "If a Saudi-based relative or acquaintance books your hotel instead, check it is approved by the Saudi government for Umrah pilgrims: many Makkah hotels are being cleared as the government rebuilds the city, the same guide says [SQ0019].",
+  "new_str": "If someone living in Saudi Arabia books your hotel instead, check it is approved by the Saudi government for Umrah pilgrims: many Makkah hotels are being cleared as the government rebuilds the city, the same guide says [SQ0019].",
+  "problem": "Source says 'a Saudi-based expatriate' (সৌদি প্রবাসী কাউকে), not a relative or acquaintance."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/saudi-arabia/doc.md",
+  "section": "Cases",
+  "old_str": "- **April 2026, Sobahan Khan (42) of West Maijpara, Dasar, Madaripur,** who had gone on 19 November 2025, fell from the lift of an under-construction building in Riyadh on 7 April, was taken by co-workers to Al-Jazeera hospital with a head injury and died on 11 April; the family, left without its only earner, learned of it the next night and asked for the body to be brought home through the government [SQ0040, SQ0041, SQ0023, SQ0005, SQ0007].",
+  "new_str": "- **April 2026, Sobahan Khan (42) of West Maijpara, Dasar, Madaripur,** who had gone on 19 November 2025, fell from the lift of an under-construction building in Riyadh on 7 April, was taken by co-workers to Al-Jazeera hospital with a head injury and died on 11 April, relatives and local people said; the family, left without its only earner, learned of it the next night, and his wife asked for the body to be brought home through the government [SQ0040, SQ0041, SQ0023, SQ0005, SQ0007].",
+  "problem": "Drops the source's attribution of the account to relatives and local people; the request was made by his wife, not 'the family'."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/saudi-arabia/doc.md",
+  "section": "Cases",
+  "old_str": "- **September 2026, Mohammad Shafiq (52) of Matlab Uttar, Chandpur,** a labourer near Dammam for about 26 years, was hit by a speeding car while cycling to work on 10 September and declared dead at a local hospital, his family said [SQ0044, SQ0042, SQ0043]. Eleven days later the body was still in the morgue; the family had contacted BMET but not yet reached the embassy, and the Matlab Uttar UNO said the upazila would help with bringing the body home and the burial [SQ0028, SQ0029, SQ0009].",
+  "new_str": "- **September 2026, Mohammad Shafiq (52) of Matlab Uttar, Chandpur,** who had gone to Saudi Arabia about 26 years earlier and worked as a labourer near Dammam, was hit by a speeding car while cycling to work on 10 September and declared dead at a local hospital, his family said [SQ0044, SQ0042, SQ0043]. Eleven days later the body was still in the morgue; the family had contacted BMET but not yet reached the embassy, his younger brother said, and the Matlab Uttar UNO said the upazila would help with bringing the body home and the burial [SQ0028, SQ0029, SQ0009].",
+  "problem": "Source says he went to Saudi Arabia about 26 years earlier, not that he was a labourer near Dammam for 26 years; the BMET/embassy contact is the younger brother's account, attribution dropped."
+ }
+]

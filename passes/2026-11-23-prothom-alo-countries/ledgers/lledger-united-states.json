@@ -1,0 +1,313 @@
+{
+ "articles": [
+  {
+   "article_id": "3ff3f436-a0a6-433d-8271-22f2dc635c69",
+   "used": true,
+   "fact_ids": [
+    "XU0128",
+    "XU0129",
+    "XU0130",
+    "XU0131",
+    "XU0132",
+    "XU0133",
+    "XU0134"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "30da5074-3faf-4341-bd08-5b6305935b13",
+   "used": true,
+   "fact_ids": [
+    "XU0135",
+    "XU0136",
+    "XU0137",
+    "XU0138",
+    "XU0139",
+    "XU0140",
+    "XU0141",
+    "XU0142",
+    "XU0143",
+    "XU0144",
+    "XU0145",
+    "XU0146",
+    "XU0147"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "A US-based human rights columnist wrote that before marrying a daughter to a man living abroad, families must check his immigration plans, any disagreement over her studying and working, and any previous marriage or history of domestic violence.",
+     "quote": "ঠিকমতো সব খবর নেওয়া হয়েছে কি না, অভিবাসনের কী পরিকল্পনা, মেয়ের পড়াশোনা ও কাজ করার বিষয়ে কোনো মতবিরোধ, আগের কোনো বিয়ে কিংবা পারিবারিক নির্যাতনের ইতিহাস রয়েছে কি না, অবশ্যই তা খতিয়ে দেখতে হবে।",
+     "suggested_module": "faq"
+    }
+   ]
+  },
+  {
+   "article_id": "e504b729-5cad-4347-8e8f-b2573fc7f253",
+   "used": true,
+   "fact_ids": [
+    "XU0148",
+    "XU0149",
+    "XU0150",
+    "XU0151",
+    "XU0152",
+    "XU0153",
+    "XU0154",
+    "XU0155",
+    "XU0156",
+    "XU0157",
+    "XU0220",
+    "XU0221"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "8168bded-db49-4e52-a5d3-c1f4a0d55c2b",
+   "used": true,
+   "fact_ids": [
+    "XU0158"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "6b338f00-c2fa-447c-b345-aef486c0f385",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: a one-line video teaser (migrants including asylum seekers afraid of the US crackdown); covered by XU0158.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "1ea30d47-e27c-44a5-bffe-8c1e2e34a1f6",
+   "used": true,
+   "fact_ids": [
+    "XU0159",
+    "XU0160",
+    "XU0161",
+    "XU0162",
+    "XU0163"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "98a72e5c-b51a-496e-a391-db73781346aa",
+   "used": true,
+   "fact_ids": [
+    "XU0164",
+    "XU0165"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "44e9daf8-730c-4940-87cb-3d09f35fe501",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Duplicate: a short summary of article 98a72e5c (H-1B fee); facts XU0164, XU0165.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "8f16cb1d-c554-4015-bbfa-faec17b74347",
+   "used": true,
+   "fact_ids": [
+    "XU0166",
+    "XU0167",
+    "XU0168",
+    "XU0169",
+    "XU0170"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "91941d83-a970-4b7c-bcd2-7f53dc75f2c0",
+   "used": true,
+   "fact_ids": [
+    "XU0171",
+    "XU0172",
+    "XU0173",
+    "XU0174"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "a365c9e5-b1b5-4066-a1d6-10bf24668862",
+   "used": true,
+   "fact_ids": [
+    "XU0175",
+    "XU0176",
+    "XU0177",
+    "XU0178",
+    "XU0179"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "9f08986a-c119-4ffa-8924-ce0cab11b665",
+   "used": true,
+   "fact_ids": [
+    "XU0180",
+    "XU0181",
+    "XU0182",
+    "XU0183"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "f3d06da2-ac0e-4d07-81c7-0e9b7323556b",
+   "used": true,
+   "fact_ids": [
+    "XU0184",
+    "XU0185",
+    "XU0186"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "76b5575b-5ad4-4dd1-8d30-a0eded8c55b1",
+   "used": true,
+   "fact_ids": [
+    "XU0187",
+    "XU0188"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "81896393-6b7d-4d69-9ee1-aa0e82cbbaba",
+   "used": true,
+   "fact_ids": [
+    "XU0189",
+    "XU0190"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "08eac0f3-9209-41ed-ae0f-b3cef2e77f29",
+   "used": true,
+   "fact_ids": [
+    "XU0191",
+    "XU0192",
+    "XU0193",
+    "XU0194"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "32f19b25-ab5f-4cd3-aecc-541e7c0e18ab",
+   "used": true,
+   "fact_ids": [
+    "XU0195",
+    "XU0196",
+    "XU0197"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "100130bd-4e9f-4726-9834-ffa93f9cd1d8",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Duplicate: one-paragraph teaser of the visa bond list already in the doc as XU0060.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "a643e16d-1498-4ef2-93af-14e14d3c8067",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Duplicate: one-paragraph teaser of the immigrant visa pause already in the doc as XU0077.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "a98db91c-79d3-48b0-8b1d-d37f077039b6",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Duplicate: one-paragraph teaser of the lawyers' article already in the doc as XU0087 and XU0088.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "7a54ffef-a86c-48ce-b040-1138e7a28987",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Duplicate: missing-students report already in the doc as XU0101, XU0103 (the only new detail, that they were not in ICE custody, changes nothing for a reader).",
+   "held_for_global": []
+  },
+  {
+   "article_id": "39693f59-20b9-47ab-87c5-ccfb869d5a0b",
+   "used": true,
+   "fact_ids": [
+    "XU0198"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "2d33693d-b516-4d2f-90ba-2c9ca697b266",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: video teaser about mourning in Jamalpur and Madaripur; case already covered by XU0101-XU0108.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "97805b18-3852-4461-a5bb-51a960f04a54",
+   "used": true,
+   "fact_ids": [
+    "XU0199",
+    "XU0200",
+    "XU0201",
+    "XU0202",
+    "XU0203",
+    "XU0204"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "38bd53d5-2590-4e53-9e5f-bb54bf4eb55e",
+   "used": true,
+   "fact_ids": [
+    "XU0205",
+    "XU0206",
+    "XU0207",
+    "XU0208"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "827449d4-2e79-4c0d-9d10-868022cb9165",
+   "used": true,
+   "fact_ids": [
+    "XU0209",
+    "XU0210",
+    "XU0211",
+    "XU0212"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "fdcc992a-20fb-43c5-b45b-9e1dfe340427",
+   "used": true,
+   "fact_ids": [
+    "XU0213",
+    "XU0214",
+    "XU0215",
+    "XU0216",
+    "XU0217",
+    "XU0218",
+    "XU0219"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  }
+ ]
+}

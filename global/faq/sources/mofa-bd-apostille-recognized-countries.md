@@ -1,0 +1,260 @@
+## Recognized by 114 Countries
+
+##### Bangladesh Apostille will be enforceable for the following 114 countries:
+
+As of now, among 127 countries that are signatories to the Hague Apostille Convention, 114 countries accepted Bangladesh accession and apostilled documents from Bangladesh. These countries are bound by the Convention to recognize apostilled documents from other member states, including Bangladesh. The countries are:
+
+1.Albania
+
+2.Andorra
+
+3.Antigua and Barbuda
+
+4.Armenia
+
+5.Australia
+
+6.Azerbaijan
+
+7.Bahamas
+
+8.Bahrain
+
+9.Barbados
+
+10.Belarus
+
+11.Belize
+
+12.Bolivia (Plurinational State of)
+
+13.Bosnia and Herzegovina
+
+14.Botswana
+
+15.Brazil
+
+16.Brunei Darussalam
+
+17.Bulgaria
+
+18.Burundi
+
+19.Cabo Verde
+
+20.Canada
+
+21.Chile
+
+22.China
+
+23.Colombia
+
+24.Cook Islands
+
+25.Costa Rica
+
+26.Croatia
+
+27.Cyprus
+
+28.Dominica
+
+29.Dominican Republic
+
+30.Ecuador
+
+31.El Salvador
+
+32.Eswatini
+
+33.Fiji
+
+34.Georgia
+
+35.Grenada
+
+36.Guatemala
+
+37.Guyana
+
+38.Honduras
+
+39.Hungary
+
+40.Iceland
+
+41.India
+
+42.Indonesia
+
+43.Ireland
+
+44.Israel
+
+45.Italy
+
+46.Jamaica
+
+47.Japan
+
+48.Kazakhstan
+
+49.Kosovo
+
+50.Kyrgyzstan
+
+51.Latvia
+
+52.Lesotho
+
+53.Liberia
+
+54.Liechtenstein
+
+55.Luxembourg
+
+56.Malawi
+
+57.Malta
+
+58.Marshall Islands
+
+59.Mauritius
+
+60.Mexico
+
+61.Monaco
+
+62.Mongolia
+
+63.Montenegro
+
+64.Morocco
+
+65.Namibia
+
+66.New Zealand
+
+67.Nicaragua
+
+68.Niue
+
+69.North Macedonia
+
+70.Norway
+
+71.Oman
+
+72.Pakistan
+
+73.Palau
+
+74.Panama
+
+75.Paraguay
+
+76.Peru
+
+77.Philippines
+
+78.Poland
+
+79.Portugal
+
+80.Republic of Korea
+
+81.Republic of Moldova
+
+82.Romania
+
+83.Russian Federation
+
+84.Rwanda
+
+85.Saint Kitts and Nevis
+
+86.Saint Lucia
+
+87.Saint Vincent and the Grenadines
+
+88.Samoa
+
+89.San Marino
+
+90.Sao Tome and Principe
+
+91.Saudi Arabia
+
+92.Senegal
+
+93.Serbia
+
+94.Seychelles
+
+95.Singapore
+
+96.Slovakia
+
+97.Slovenia
+
+98.South Africa
+
+99.Spain
+
+100.Suriname
+
+101.Sweden
+
+102.Switzerland
+
+103.Tajikistan
+
+104.Tonga
+
+105.Trinidad and Tobago
+
+106.Tunisia
+
+107.Türkiye
+
+108.Ukraine
+
+109.United Kingdom of Great Britain and Northern Ireland
+
+110.United States of America
+
+111.Uruguay
+
+112.Uzbekistan
+
+113.Vanuatu
+
+114.Venezuela (Bolivarian Republic of)
+
+#### Quick Links
+
+- [About Us](/eapostille)
+- [Services](/services)
+
+#### Contact Us
+
+Segunbagicha, Dhaka 1000, Bangladesh
+
++8802-223381852
+
+dgcnw@mofa.gov.bd
+
+# Others
+
+[Privacy Policy](/quality-policy)[](https://digisigchecker.cca.gov.bd/)
+
+Verify Signature
+
+![](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbd-monogram.51781720.png&w=96&q=75)
+
+Copyright © 2026 All Rights Reserved Government of the Peoples Republic of Bangladesh
+
+Planning and Implementation
+
+![](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fa2i-logo-set.dc6ea149.png&w=640&q=75)

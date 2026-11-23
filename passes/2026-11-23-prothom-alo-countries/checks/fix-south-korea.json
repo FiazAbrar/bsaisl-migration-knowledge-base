@@ -1,0 +1,58 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/south-korea/doc.md",
+  "section": "What has closed it before",
+  "old_str": "- *2024, unrest in Bangladesh.* In August 2024",
+  "new_str": "- *2024, the situation in Bangladesh.* In August 2024",
+  "problem": "\"Unrest\" is not in the cited facts; PR0034 says only that HRD Korea tied the date to the situation in Bangladesh improving."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/south-korea/doc.md",
+  "section": "E-8 seasonal agricultural work",
+  "old_str": "**Is Bangladesh a source?** Yes, through MoUs that BOESL runs:\n- In 2023-24 private agencies tried and failed. KM International",
+  "new_str": "**Is Bangladesh a source?** Yes, through MoUs that BOESL runs; private agencies have not managed to send workers:\n- *Private agencies, 2023-24.* KM International",
+  "problem": "Lead sentence (\"Yes, through MoUs that BOESL runs\") is not true of the new first bullet, which is about private agencies (and a district-council MoU) that failed."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/south-korea/doc.md",
+  "section": "E-8 seasonal agricultural work",
+  "old_str": "with the employer paying the air fare, over Tk 1.5 lakh a month and no Korean needed; none of KM International's workers got a visa [PR0028, PR0030, PR0020].",
+  "new_str": "with the employer paying the fares for the leave trip, over Tk 1.5 lakh a month and no Korean needed; Korea takes seasonal workers for jobs such as dried-fish processing, vegetable farming and pig farming, but none of KM International's workers got a visa [PR0028, PR0030, PR0020].",
+  "problem": "Merges sources: the job list (PR0030) is the reporter's statement, not the recruiters' description; also PR0028 says the employer pays the fares for the leave trip, not the air fare generally."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/south-korea/doc.md",
+  "section": "Ramadan, prayer and halal food",
+  "old_str": "Korea gives no shorter working hours in Ramadan, unlike Gulf countries; most Bangladeshi workers break the fast with dates and water during work, and no iftar food is sold outside [PR0035, PR0036, PR0037].",
+  "new_str": "Korea gives no concession on working hours in Ramadan, unlike Middle Eastern countries, the president of the Korea-Bangla Press Club wrote in 2025; most Bangladeshi workers break the fast with dates and water during work, and no iftar food is sold outside [PR0035, PR0036, PR0037].",
+  "problem": "PR0035 says Middle Eastern countries, not Gulf, and \"no concession\" rather than specifically shorter hours; attribution to the writer dropped."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/south-korea/doc.md",
+  "section": "Ramadan, prayer and halal food",
+  "old_str": "Most Korean food contains pork, so Muslims read the label even on snacks to check it is halal [PR0040, PR0039].",
+  "new_str": "Most Korean food contains pork, the same writer said, so Muslims read the label even on snacks to check it is halal [PR0040, PR0039].",
+  "problem": "PR0040 is the writer's claim; attribution dropped."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/south-korea/doc.md",
+  "section": "Step 11: Before you fly",
+  "old_str": "There is no direct Dhaka-Korea flight; Bangladeshis fly through a third country, which takes longer and costs more [PR0051].",
+  "new_str": "There is no direct Dhaka-Korea flight; Bangladeshis in Korea said in 2026 that they mostly fly through a third country, which takes longer and costs more [PR0051].",
+  "problem": "PR0051 says \"mostly\" and is what Bangladeshis in Korea said; both dropped."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/south-korea/doc.md",
+  "section": "Which university to choose",
+  "old_str": "master's entry generally needs a CGPA of 2.50 and IELTS 5.5, and many offer a spouse visa on conditions",
+  "new_str": "master's entry generally needs a bachelor's CGPA (cumulative grade point average) of at least 2.50 and IELTS (International English Language Testing System) 5.5 or equivalent, and many offer a spouse visa on conditions",
+  "problem": "CGPA and IELTS not explained at first use; PR0047 says \"at least\" 2.50, bachelor's, and IELTS \"or equivalent\"."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/south-korea/doc.md",
+  "section": "Costs",
+  "old_str": "- **Living costs:** KRW 750,000 to 1,000,000 a month for housing, food, transport and daily costs, by Korean government guidance [PR0011].",
+  "new_str": "- **Living costs:** KRW 750,000 to 1,000,000 a month for housing, food, transport and daily costs, by Korean government guidance as cited by an education consultancy's chief executive [PR0011].",
+  "problem": "PR0011 is government guidance as cited by a consultancy CEO; the intermediary attribution was dropped."
+ }
+]

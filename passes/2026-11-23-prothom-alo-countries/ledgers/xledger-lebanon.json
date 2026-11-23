@@ -1,0 +1,261 @@
+{
+ "articles": [
+  {
+   "article_id": "71bcff34-3f89-478b-b9ef-6700c5a36045",
+   "used": true,
+   "fact_ids": [
+    "XL0001",
+    "XL0002",
+    "XL0003",
+    "XL0004",
+    "XL0005",
+    "XL0006",
+    "XL0007"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/services",
+     "claim": "30 December is National Expatriates' Day in Bangladesh, declared to recognise migrants' contribution.",
+     "quote": "৩০ ডিসেম্বরকে জাতীয় প্রবাসী দিবস ঘোষণার মধ্য দিয়ে দেশের উন্নয়নে প্রবাসী বাংলাদেশিদের গুরুত্বপূর্ণ অবদানের আনুষ্ঠানিক স্বীকৃতি প্রদান করা হয়েছে।"
+    }
+   ]
+  },
+  {
+   "article_id": "0fbd40c4-390f-474d-b02a-61ab36fc5221",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Embassy's International Mother Language Day event in Beirut: ceremonial, nothing a migrant would act on.",
+   "held": []
+  },
+  {
+   "article_id": "b942b2f4-ac2d-4479-b426-1575eecc9e88",
+   "used": true,
+   "fact_ids": [
+    "XL0008",
+    "XL0009",
+    "XL0010"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "44b233f5-cc99-4774-b7c9-abac27c515c9",
+   "used": true,
+   "fact_ids": [
+    "XL0011",
+    "XL0012",
+    "XL0013",
+    "XL0014",
+    "XL0015",
+    "XL0016"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "5c8f3f01-3a9f-45ba-8329-fe2c7fd07f30",
+   "used": true,
+   "fact_ids": [
+    "XL0017",
+    "XL0018",
+    "XL0019",
+    "XL0020",
+    "XL0021",
+    "XL0022"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "9bab0a31-c341-471a-a485-2ffd78ad5ff4",
+   "used": true,
+   "fact_ids": [
+    "XL0023",
+    "XL0024",
+    "XL0025",
+    "XL0026",
+    "XL0027",
+    "XL0028"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/services",
+     "claim": "IOM has been helping the Bangladesh government bring Bangladeshis home from many countries (IOM Bangladesh acting head, October 2024).",
+     "quote": "আইওএম অনেক দেশ থেকেই বাংলাদেশিদের ফিরিয়ে আনতে বাংলাদেশ সরকারকে সহায়তা করে যাচ্ছে।"
+    }
+   ]
+  },
+  {
+   "article_id": "7c6e2536-b5b9-4ae6-a716-12e37b3d4ff3",
+   "used": true,
+   "fact_ids": [
+    "XL0029",
+    "XL0030",
+    "XL0031",
+    "XL0032",
+    "XL0033",
+    "XL0034"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "45069707-b03d-463f-8870-8980ccb1e761",
+   "used": true,
+   "fact_ids": [
+    "XL0035",
+    "XL0036",
+    "XL0037",
+    "XL0038"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "6668bbe2-08c5-42d7-b256-ef063bbea1bd",
+   "used": true,
+   "fact_ids": [
+    "XL0039",
+    "XL0040",
+    "XL0041"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "f58eb302-334c-4e8c-b2cc-7057d011d752",
+   "used": true,
+   "fact_ids": [
+    "XL0042",
+    "XL0043",
+    "XL0076"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "d271daa5-377a-48b4-a752-43ebe512651a",
+   "used": true,
+   "fact_ids": [
+    "XL0044",
+    "XL0045"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "a921ba05-492c-41ab-8c59-44799504f14f",
+   "used": true,
+   "fact_ids": [
+    "XL0046",
+    "XL0047",
+    "XL0048"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "4a097c47-318e-4ad4-a119-f34fcc86b2dd",
+   "used": true,
+   "fact_ids": [
+    "XL0049",
+    "XL0050",
+    "XL0051"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "048b7d93-5777-4a93-9f71-a0bc675440e2",
+   "used": true,
+   "fact_ids": [
+    "XL0052",
+    "XL0053",
+    "XL0054",
+    "XL0055",
+    "XL0056",
+    "XL0057",
+    "XL0058",
+    "XL0059",
+    "XL0077"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "countries/saudi-arabia",
+     "claim": "In the 40 days of the Middle East war from 28 February 2026, seven Bangladeshis were killed in Saudi Arabia, Oman, Bahrain and Iraq.",
+     "quote": "গত ৪০ দিনের এই যুদ্ধে সৌদি আরব, ওমান, বাহরাইন, ইরাকে সাতজন বাংলাদেশি নিহত হন।"
+    },
+    {
+     "target": "countries/oman",
+     "claim": "In the 40 days of the Middle East war from 28 February 2026, seven Bangladeshis were killed in Saudi Arabia, Oman, Bahrain and Iraq.",
+     "quote": "গত ৪০ দিনের এই যুদ্ধে সৌদি আরব, ওমান, বাহরাইন, ইরাকে সাতজন বাংলাদেশি নিহত হন।"
+    }
+   ]
+  },
+  {
+   "article_id": "7d151194-6998-4a6e-9050-cb9aedf7365b",
+   "used": true,
+   "fact_ids": [
+    "XL0060"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "b50dd30a-e13c-48a7-ba6e-4a4f08956c79",
+   "used": true,
+   "fact_ids": [
+    "XL0061",
+    "XL0062",
+    "XL0063",
+    "XL0064",
+    "XL0065",
+    "XL0066",
+    "XL0067"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "f3764822-d9c5-4a4a-85fb-3fbfdf5880b2",
+   "used": true,
+   "fact_ids": [
+    "XL0068",
+    "XL0069",
+    "XL0070",
+    "XL0071",
+    "XL0072",
+    "XL0073",
+    "XL0078"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/services",
+     "claim": "After a migrant worker's body arrives, the government sends it home by free ambulance and the family gets Tk 35,000 for burial at the airport and later Tk 3 lakh in financial assistance (Faridpur Probashi Kallyan Centre, May 2026).",
+     "quote": "দেশে আসার পর সরকারি ব্যবস্থাপনায় ফ্রি অ্যাম্বুলেন্সে লাশটি গ্রামের বাড়িতে পাঠানো হবে। দাফন বাবদ এয়ারপোর্ট থেকে তাঁর পরিবারের সদস্যদের হাতে ৩৫ হাজার টাকা এবং পরে তিন লাখ টাকা আর্থিক সহায়তা প্রদান করা হবে।"
+    }
+   ]
+  },
+  {
+   "article_id": "952f0096-7c38-4310-8730-8a1e3c1e35a4",
+   "used": true,
+   "fact_ids": [
+    "XL0074",
+    "XL0075"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "653aea8d-5e29-4482-8fb0-04690b15ee4a",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Shorter duplicate of 952f0096 (two Satkhira workers killed in Nabatieh, 11 May 2026); facts logged from that article.",
+   "held": []
+  }
+ ]
+}

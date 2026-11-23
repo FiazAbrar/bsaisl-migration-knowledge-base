@@ -2,7 +2,7 @@
 
 # Kyrgyzstan: migration guide
 
-Sources checked up to 11 Nov 2026.
+Sources checked up to 23 Nov 2026.
 
 How to go to Kyrgyzstan on a Bangladeshi passport, visa by visa, step by step. A raised number such as 3 is an official source; N3 is a news, NGO, research or guide source, listed under "Needs an official source"; a year, like N3 (2022), marks a source older than 2025. "Need to know" marks a point no source has yet confirmed. "You'll need:" lists what to have before starting a procedure.
 
@@ -206,6 +206,7 @@ Anyone a Kyrgyz employer names in its Unified Permit application; any company or
 - **Job titles on OEP:** in 2023, 954 of 1,713 were recorded only as "Worker", with 185 garments workers and 122 tailors <sup>[37](#o37)</sup>; in 2024, 9,384 of 12,747 were recorded only as "Worker", with 1,213 garments workers, 892 "Swing Line Checker" (sewing line checker) and 182 construction workers; in 2025, 2,356 "Worker", 874 sewing equipment operators, 649 "A Casual Worker", 646 garments workers, 555 general labour and 522 sewing line checkers; in 2026, 7 general labour, 3 casual workers and 1 worker <sup>[20](#o20), [21](#o21), [38](#o38)</sup>.
 - **Kyrgyz work permits for Bangladeshis:** 2,758 in 2024, 11,677 in 2025 and 3,872 in 2026 to 1 October <sup>[N6](#n6)</sup>. By 30 April 2025 Bangladeshis held 2,573 of 12,232 first (60-day) permits, second only to Chinese citizens (2,844) <sup>[N36](#n36)</sup>. In April 2024, 47% of applications for 16,814 quota places came from Bangladesh <sup>[N8 (2024)](#n8)</sup>.
 - **Against other nationalities:** of 47,686 foreign workers with permits on 18 December 2025, 40% were Chinese, 24% Bangladeshi, 17% Pakistani, 5% Indian and 4% Uzbek <sup>[N25](#n25)</sup>. In 2026 to 1 October, Chinese citizens received 37,133 permits and Pakistanis 11,404, up from 2,146 in 2024; Indians held 2,652 and Uzbeks 2,182 <sup>[N6](#n6), [N21](#n21)</sup>. Kyrgyzstan issued over 60,000 work visas in the first half of 2026, about 60% of them to Chinese citizens <sup>[N34](#n34)</sup>.
+- **Living there:** in May 2024 the Bangladesh Embassy had no count of Bangladeshis in Kyrgyzstan and estimated 600 to 800 students and about 1,000 workers <sup>[N38 (2024)](#n38)</sup>.
 - **Without papers:** the GKNB (State Committee for National Security, Kyrgyzstan's security service) estimated about 5,000 undocumented migrants in May 2025, and the MFA gave the same figure in September 2026 <sup>[N33](#n33), [N34](#n34)</sup>.
 
 > **Need to know**
@@ -215,34 +216,34 @@ Anyone a Kyrgyz employer names in its Unified Permit application; any company or
 
 #### 1.2.5 What closed it before
 
-- **September 2021:** Kyrgyzstan blocked tourist visas for citizens of Bangladesh, Pakistan, India and Nepal, and the MFA replaced self-application with an invitation from a host organisation, which is made responsible for the visitor; a Bishkek tour operator said such "tourists" were passing through to work visas in the UAE or Saudi Arabia <sup>[N38 (2021)](#n38), [N39 (2021)](#n39)</sup>.
-- **April 2024:** the Ministry of Labour suspended quotas because of the rise in migrants, especially from Bangladesh, Pakistan and India, until everyone illegally present was found, deported or registered <sup>[N8 (2024)](#n8)</sup>. In mid-April 2024, Kyrgyzstan's Deputy Foreign Minister, Avazbek Atakhanov, visited Bangladesh seeking skilled workers for its export production <sup>[N8 (2024)](#n8), [N40 (2024)](#n40)</sup>. By 1 April 2024, 12,000 quotas had been issued for Bangladeshis but only 3,000 used, and a deputy labour minister said Bangladeshis broke the law most, so quotas for Bangladesh and Pakistan were stopped; about 4,000 issued quotas were cancelled <sup>[N41 (2024)](#n41), [N8 (2024)](#n8)</sup>. The security chief, Kamchybek Tashiev, said 1,000 Bangladeshis and 1,500 Pakistanis had been deported and officers were catching 20 to 50 irregular migrants a day, and mobs attacked South Asian students in Bishkek on 17-18 May 2024 <sup>[N42 (2024)](#n42)</sup>. BMET clearances fell from 5,236 in April to 232 in July and 172 in September <sup>[35](#o35), [36](#o36)</sup>.
-- **December 2024:** the Ministry said it was issuing quotas again little by little, and an MP, Chingiz Aidarbekov, asked the authorities to help garment shops hire Bangladeshis and Pakistanis <sup>[N41 (2024)](#n41)</sup>.
+- **September 2021:** Kyrgyzstan blocked tourist visas for citizens of Bangladesh, Pakistan, India and Nepal, and the MFA replaced self-application with an invitation from a host organisation, which is made responsible for the visitor; a Bishkek tour operator said such "tourists" were passing through to work visas in the UAE or Saudi Arabia <sup>[N39 (2021)](#n39), [N40 (2021)](#n40)</sup>.
+- **April 2024:** the Ministry of Labour suspended quotas because of the rise in migrants, especially from Bangladesh, Pakistan and India, until everyone illegally present was found, deported or registered <sup>[N8 (2024)](#n8)</sup>. In mid-April 2024, Kyrgyzstan's Deputy Foreign Minister, Avazbek Atakhanov, visited Bangladesh seeking skilled workers for its export production <sup>[N8 (2024)](#n8), [N41 (2024)](#n41)</sup>. By 1 April 2024, 12,000 quotas had been issued for Bangladeshis but only 3,000 used, and a deputy labour minister said Bangladeshis broke the law most, so quotas for Bangladesh and Pakistan were stopped; about 4,000 issued quotas were cancelled <sup>[N42 (2024)](#n42), [N8 (2024)](#n8)</sup>. The security chief, Kamchybek Tashiev, said 1,000 Bangladeshis and 1,500 Pakistanis had been deported and officers were catching 20 to 50 irregular migrants a day, and mobs attacked South Asian students in Bishkek on 17-18 May 2024 <sup>[N43 (2024)](#n43)</sup>. BMET clearances fell from 5,236 in April to 232 in July and 172 in September <sup>[35](#o35), [36](#o36)</sup>.
+- **December 2024:** the Ministry said it was issuing quotas again little by little, and an MP, Chingiz Aidarbekov, asked the authorities to help garment shops hire Bangladeshis and Pakistanis <sup>[N42 (2024)](#n42)</sup>.
 - **August 2025:** BMET clearances stopped (see [Status](#status)) <sup>[22](#o22), [23](#o23)</sup>.
 
 <a id="how-a-job-reaches-you-and-who-takes-a-cut"></a>
 
 ### 1.3 How a job reaches you, and who takes a cut
 
-A legal job starts as a Kyrgyz employer's application for a Unified Permit naming one worker, inside the yearly quota, and reaches the village through a Bishkek recruiting firm and its partner in Bangladesh, a Bangladeshi agency or a compatriot already in Kyrgyzstan <sup>[N1 (2024)](#n1), [N3](#n3), [N8 (2024)](#n8), [N9 (2022)](#n9)</sup>. The choke point is the permit: only the employer can file it, on the e-Visa portal, and the GKNB tells foreigners to apply only through that portal; the people who sell visas and "legalisation" outside it are where workers lose money <sup>[N3](#n3), [N43](#n43), [N11](#n11)</sup>.
+A legal job starts as a Kyrgyz employer's application for a Unified Permit naming one worker, inside the yearly quota, and reaches the village through a Bishkek recruiting firm and its partner in Bangladesh, a Bangladeshi agency or a compatriot already in Kyrgyzstan <sup>[N1 (2024)](#n1), [N3](#n3), [N8 (2024)](#n8), [N9 (2022)](#n9)</sup>. The choke point is the permit: only the employer can file it, on the e-Visa portal, and the GKNB tells foreigners to apply only through that portal; the people who sell visas and "legalisation" outside it are where workers lose money <sup>[N3](#n3), [N44](#n44), [N11](#n11)</sup>.
 
 <a id="the-quota"></a>
 
 #### 1.3.1 The quota
 
-The Cabinet of Ministers sets the number of foreign workers each year, and Unified Permits are issued only within it <sup>[N44](#n44), [N3](#n3)</sup>. It was just over 16,000 in 2022-2023 and 25,000 in 2024, rose to 42,000 in 2025, was set at 52,000 and then 100,000 for 2026, and is 120,000 for 2027 <sup>[N21](#n21), [N25](#n25), [N45](#n45), [N29](#n29), [N23](#n23)</sup>. Since 2025 the quota no longer lists types of work, and the commission that shared out places is gone: employers apply directly for a named worker <sup>[N45](#n45), [N1 (2024)](#n1)</sup>. How the employer applies and pays: Work visa: company worker, [Step 3: The employer gets your work permit](#step-3-the-employer-gets-your-work-permit) <sup>[N3](#n3)</sup>.
+The Cabinet of Ministers sets the number of foreign workers each year, and Unified Permits are issued only within it <sup>[N45](#n45), [N3](#n3)</sup>. It was just over 16,000 in 2022-2023 and 25,000 in 2024, rose to 42,000 in 2025, was set at 52,000 and then 100,000 for 2026, and is 120,000 for 2027 <sup>[N21](#n21), [N25](#n25), [N46](#n46), [N29](#n29), [N23](#n23)</sup>. Since 2025 the quota no longer lists types of work, and the commission that shared out places is gone: employers apply directly for a named worker <sup>[N46](#n46), [N1 (2024)](#n1)</sup>. How the employer applies and pays: Work visa: company worker, [Step 3: The employer gets your work permit](#step-3-the-employer-gets-your-work-permit) <sup>[N3](#n3)</sup>.
 
 <a id="the-employer"></a>
 
 #### 1.3.2 The employer
 
-The jobs are mostly in garment workshops and construction, the sectors that want foreign workers most, and the Labour Ministry says Pakistani, Indian and Bangladeshi citizens usually work in garments <sup>[N45](#n45), [N25](#n25), [N46](#n46)</sup>. 46% of all foreign workers are in Jalal-Abad region in the south, not in the capital, Bishkek <sup>[N47](#n47)</sup>. Garment owners and Legprom have lobbied to hire Bangladeshis, and Legprom says those employed through companies are registered and pay tax <sup>[N41 (2024)](#n41), [N28](#n28)</sup>. Legprom's director, Azamat Kerimbek uulu, says some employers break their contracts by not providing housing <sup>[N28](#n28)</sup>. A deputy labour minister, Mirlan Baigonchokov, said in April 2026 that foreigners will work even for low wages <sup>[N46](#n46)</sup>.
+The jobs are mostly in garment workshops and construction, the sectors that want foreign workers most, and the Labour Ministry says Pakistani, Indian and Bangladeshi citizens usually work in garments <sup>[N46](#n46), [N25](#n25), [N47](#n47)</sup>. 46% of all foreign workers are in Jalal-Abad region in the south, not in the capital, Bishkek <sup>[N48](#n48)</sup>. Garment owners and Legprom have lobbied to hire Bangladeshis, and Legprom says those employed through companies are registered and pay tax <sup>[N42 (2024)](#n42), [N28](#n28)</sup>. Legprom's director, Azamat Kerimbek uulu, says some employers break their contracts by not providing housing <sup>[N28](#n28)</sup>. A deputy labour minister, Mirlan Baigonchokov, said in April 2026 that foreigners will work even for low wages <sup>[N47](#n47)</sup>.
 
 <a id="the-middlemen-in-bishkek"></a>
 
 #### 1.3.3 The middlemen in Bishkek
 
-Nurislam Kambarov said in 2024 that 70-80% of the intermediaries who bring foreigners take large sums, then arrange no visa or job, or a job at lower pay than promised <sup>[N8 (2024)](#n8)</sup>. He described dozens of Bangladeshis living in houses for 5-6 months with no visa or work, 80 of them at Orozbekova 158 in Bishkek, many with their passports taken <sup>[N8 (2024)](#n8)</sup>. In his account they were brought mostly by fellow Bangladeshis, one of whom was arrested, working with a few Kyrgyz partners <sup>[N8 (2024)](#n8)</sup>. Bangladeshis flown to Osh, Kyrgyzstan's second city, were given no visas, locked in, and had their promised USD 500 (about Tk 62,200) a month cut to USD 300 (about Tk 37,300) <sup>[N8 (2024)](#n8), [2](#o2)</sup>. Kyrgyzstan ratified ILO Convention 181 on private employment agencies in October 2025 and keeps a public database of licensed agencies, but in 2025 it did not report holding any recruiter liable for fraudulent recruitment <sup>[N25](#n25), [N12](#n12)</sup>. In May 2025 the GKNB arrested a Bangladeshi who had taken USD 66,500 (about Tk 82.7 lakh) to "legalise" migrants and forged their permits; over 120 expired Bangladeshi passports were found <sup>[N43](#n43), [2](#o2)</sup>. In March 2026 it broke up a Bishkek scheme selling form 086 medical certificates without any examination, used to extend the stay of mainly Pakistanis and Bangladeshis <sup>[N48](#n48)</sup>.
+Nurislam Kambarov said in 2024 that 70-80% of the intermediaries who bring foreigners take large sums, then arrange no visa or job, or a job at lower pay than promised <sup>[N8 (2024)](#n8)</sup>. He described dozens of Bangladeshis living in houses for 5-6 months with no visa or work, 80 of them at Orozbekova 158 in Bishkek, many with their passports taken <sup>[N8 (2024)](#n8)</sup>. In his account they were brought mostly by fellow Bangladeshis, one of whom was arrested, working with a few Kyrgyz partners <sup>[N8 (2024)](#n8)</sup>. Bangladeshis flown to Osh, Kyrgyzstan's second city, were given no visas, locked in, and had their promised USD 500 (about Tk 62,200) a month cut to USD 300 (about Tk 37,300) <sup>[N8 (2024)](#n8), [2](#o2)</sup>. Kyrgyzstan ratified ILO Convention 181 on private employment agencies in October 2025 and keeps a public database of licensed agencies, but in 2025 it did not report holding any recruiter liable for fraudulent recruitment <sup>[N25](#n25), [N12](#n12)</sup>. In May 2025 the GKNB arrested a Bangladeshi who had taken USD 66,500 (about Tk 82.7 lakh) to "legalise" migrants and forged their permits; over 120 expired Bangladeshi passports were found <sup>[N44](#n44), [2](#o2)</sup>. In March 2026 it broke up a Bishkek scheme selling form 086 medical certificates without any examination, used to extend the stay of mainly Pakistanis and Bangladeshis <sup>[N49](#n49)</sup>.
 
 > **Need to know**
 > - Where is Kyrgyzstan's database of licensed private employment agencies, and can a worker check a Bishkek firm's licence there by name?
@@ -252,10 +253,10 @@ Nurislam Kambarov said in 2024 that 70-80% of the intermediaries who bring forei
 #### 1.3.4 The visa trade in Dhaka
 
 - **A visa with no job:** in July 2025 a Bangladeshi bought a Kyrgyz work visa from intermediaries for USD 5,000 (about Tk 6.2 lakh) and found no work <sup>[N11](#n11), [2](#o2)</sup>.
-- **A fake agency:** in 2024 Jannat Trade International, an office in Naya Paltan, Dhaka, with only a tours and travel licence, advertised car-wash jobs at Tk 60,000-65,000 a month on YouTube, filmed people receiving "visas", and took Tk 5 lakh for a visa, papers and a ticket; the CID (Criminal Investigation Department of the Bangladesh police) arrested its owner and two associates (see [Done to workers](#done-to-workers)) <sup>[N10 (2024)](#n10), [N49](#n49)</sup>.
-- **Social media:** in 2025 Facebook pages, WhatsApp groups and YouTube channels advertised Central Asian jobs using real employers' names without their knowledge, and those who went found no jobs, contracts or sponsors <sup>[N50](#n50)</sup>.
-- **Licensed agencies:** Documents reported in 2022 show that Makkah Madina Trade Int (RL 810) and Al-Jabeen Establishment Ltd (RL 884) sent as garment workers the men who said their agency sold them to a factory owner for USD 8,300 (about Tk 10.3 lakh) <sup>[N9 (2022)](#n9), [2](#o2)</sup>. Al-Jabeen's managing director said the returnees could not do the work, and the broker the workers named denied their claims <sup>[N51 (2022)](#n51)</sup>. All 14 men sent through Al-Jabeen worked for the same Kyrgyz company, LLC AL. 1-AG/AM and Co <sup>[N51 (2022)](#n51)</sup>.
-- **Visas that are never used:** a Bishkek agency head said in 2024 that he opened visas for about 250 Bangladeshis in four months but brought only 50, because leaving Bangladesh with the required training and papers is hard <sup>[N52 (2024)](#n52)</sup>.
+- **A fake agency:** in 2024 Jannat Trade International, an office in Naya Paltan, Dhaka, with only a tours and travel licence, advertised car-wash jobs at Tk 60,000-65,000 a month on YouTube, filmed people receiving "visas", and took Tk 5 lakh for a visa, papers and a ticket; the CID (Criminal Investigation Department of the Bangladesh police) arrested its owner and two associates (see [Done to workers](#done-to-workers)) <sup>[N10 (2024)](#n10), [N50](#n50)</sup>.
+- **Social media:** in 2025 Facebook pages, WhatsApp groups and YouTube channels advertised Central Asian jobs using real employers' names without their knowledge, and those who went found no jobs, contracts or sponsors <sup>[N51](#n51)</sup>.
+- **Licensed agencies:** Documents reported in 2022 show that Makkah Madina Trade Int (RL 810) and Al-Jabeen Establishment Ltd (RL 884) sent as garment workers the men who said their agency sold them to a factory owner for USD 8,300 (about Tk 10.3 lakh) <sup>[N9 (2022)](#n9), [2](#o2)</sup>. Al-Jabeen's managing director said the returnees could not do the work, and the broker the workers named denied their claims <sup>[N52 (2022)](#n52)</sup>. All 14 men sent through Al-Jabeen worked for the same Kyrgyz company, LLC AL. 1-AG/AM and Co <sup>[N52 (2022)](#n52)</sup>.
+- **Visas that are never used:** a Bishkek agency head said in 2024 that he opened visas for about 250 Bangladeshis in four months but brought only 50, because leaving Bangladesh with the required training and papers is hard <sup>[N53 (2024)](#n53)</sup>.
 
 > **Need to know**
 > - What does a Kyrgyz Unified Permit sell for in Dhaka in 2026, and who sells it: Bangladeshi agencies, Bishkek firms, or Bangladeshis living in Kyrgyzstan?
@@ -272,7 +273,7 @@ The legal costs are small for the worker: the employer pays the Unified Permit f
 #### 1.4.1 The cap
 
 - **Recruiting agency in Kyrgyzstan:** a one-time fee of at most half of the worker's monthly wage <sup>[N12](#n12)</sup>.
-- **Unified Permit:** under the 2025 rules (Resolution No. 367), 30,000 som plus USD 300 per worker (about Tk 80,000), paid by the employer in two stages <sup>[N53](#n53), [N3](#n3), [N1 (2024)](#n1), [2](#o2), [1](#o1)</sup>. Garment companies in the Chamber of Commerce and Industry paid the same amounts as a special rate (USD 75 plus 20,000 som and a 5,000 som deposit for the permit, USD 225 plus 5,000 som for the resident card) until that rate lapsed on 1 November 2026 (see [Work visa: company worker](#work-visa-company-worker), [Step 3: The employer gets your work permit](#step-3-the-employer-gets-your-work-permit)) <sup>[41](#o41)</sup>. Whoever invites a foreigner must arrange his stay documents <sup>[N44](#n44)</sup>.
+- **Unified Permit:** under the 2025 rules (Resolution No. 367), 30,000 som plus USD 300 per worker (about Tk 80,000), paid by the employer in two stages <sup>[N54](#n54), [N3](#n3), [N1 (2024)](#n1), [2](#o2), [1](#o1)</sup>. Garment companies in the Chamber of Commerce and Industry paid the same amounts as a special rate (USD 75 plus 20,000 som and a 5,000 som deposit for the permit, USD 225 plus 5,000 som for the resident card) until that rate lapsed on 1 November 2026 (see [Work visa: company worker](#work-visa-company-worker), [Step 3: The employer gets your work permit](#step-3-the-employer-gets-your-work-permit)) <sup>[41](#o41)</sup>. Whoever invites a foreigner must arrange his stay documents <sup>[N45](#n45)</sup>.
 - **BMET's fees:** a Tk 5,500 welfare fee, Tk 1,000 insurance and a Tk 250 clearance fee ([Work visa: company worker](#work-visa-company-worker), [Step 6: Orientation, BMET clearance and the flight](#step-6-orientation-bmet-clearance-and-the-flight)) <sup>[39](#o39), [40](#o40), [4](#o4)</sup>.
 
 > **Need to know**
@@ -282,7 +283,7 @@ The legal costs are small for the worker: the employer pays the Unified Permit f
 
 #### 1.4.2 What people really pay
 
-- **Tk 2.8 to 3.25 lakh (2021-22):** workers said the broker took Tk 3.25 lakh per visa, the broker said he took no more than Tk 2.80 lakh, and one worker paid his agency Tk 3.10 lakh <sup>[N54 (2022)](#n54), [N9 (2022)](#n9)</sup>.
+- **Tk 2.8 to 3.25 lakh (2021-22):** workers said the broker took Tk 3.25 lakh per visa, the broker said he took no more than Tk 2.80 lakh, and one worker paid his agency Tk 3.10 lakh <sup>[N55 (2022)](#n55), [N9 (2022)](#n9)</sup>.
 - **Tk 5 lakh (2024):** Jannat Trade's price for a visa, "manpower" papers and a ticket; the CID said it took Tk 5 to 7 lakh a person <sup>[N10 (2024)](#n10)</sup>.
 - **USD 5,000 (about Tk 6.2 lakh, 2025):** a work visa bought from intermediaries, with no job behind it <sup>[N11](#n11), [2](#o2)</sup>.
 - **Tk 4.8 lakh (2025) and Tk 6 lakh (2023):** "Europe through Kyrgyzstan" deals for Italy and Poland (see [Irregular routes](#irregular-routes-and-where-an-irregular-stay-ends), and where an irregular stay ends) <sup>[N17](#n17), [N18 (2023)](#n18)</sup>.
@@ -291,7 +292,7 @@ The legal costs are small for the worker: the employer pays the Unified Permit f
 
 #### 1.4.3 How it is paid
 
-BMET tells workers to pay an agency only into its bank account and to keep every receipt ([Work visa: company worker](#work-visa-company-worker), [Step 1: Find a real job](#step-1-find-a-real-job)) <sup>[40](#o40)</sup>. Part can be taken later from the wage: in 2022 an employer kept Tk 7,000 of a worker's first Tk 10,000, saying he had paid the broker to bring them <sup>[N51 (2022)](#n51), [N54 (2022)](#n54)</sup>. Workers who said their agency had sold them to a factory owner were told they could leave only if they paid him back <sup>[N9 (2022)](#n9)</sup>.
+BMET tells workers to pay an agency only into its bank account and to keep every receipt ([Work visa: company worker](#work-visa-company-worker), [Step 1: Find a real job](#step-1-find-a-real-job)) <sup>[40](#o40)</sup>. Part can be taken later from the wage: in 2022 an employer kept Tk 7,000 of a worker's first Tk 10,000, saying he had paid the broker to bring them <sup>[N52 (2022)](#n52), [N55 (2022)](#n55)</sup>. Workers who said their agency had sold them to a factory owner were told they could leave only if they paid him back <sup>[N9 (2022)](#n9)</sup>.
 
 > **Need to know**
 > - How is a Kyrgyzstan deal paid in 2026: how much with the passport, how much when the permit comes, how much before the flight, and with what receipts?
@@ -311,18 +312,18 @@ Families sell land, a rickshaw, cattle or the house, and borrow from relatives o
 
 Offers in Bangladesh have promised Tk 55,000 to 65,000 a month with food and housing <sup>[N9 (2022)](#n9), [N10 (2024)](#n10)</sup>. Inside Kyrgyzstan, messenger groups advertise jobs at USD 500-600 a month (about Tk 62,200 to 74,700) <sup>[N28](#n28), [2](#o2)</sup>. For comparison, a 2024 job order for garment workers in Bishkek approved by Pakistan's government paid 35,000 to 37,000 som (about Tk 49,800 to 52,600) a month, with free housing, food, medical care and transport but no free air ticket <sup>[43 (2024)](#o43), [1](#o1)</sup>. What Bangladeshi workers reported getting:
 
-- **A garment shop in Bishkek, 2024:** 11 hours a day, six days a week, plus two paid extra hours; housing from the employer, food at the workers' own cost; one worker who had earned USD 150 (about Tk 18,700) in Dhaka said he was satisfied <sup>[N52 (2024)](#n52), [2](#o2)</sup>.
-- **A worker who stayed with a 2022 employer:** Tk 40,000 to 50,000 a month <sup>[N51 (2022)](#n51)</sup>.
-- **A 2022 sewing-shop contract:** USD 600 (about Tk 74,700) promised, 15,000 som (about Tk 21,300) paid <sup>[N55 (2022)](#n55), [2](#o2), [1](#o1)</sup>.
+- **A garment shop in Bishkek, 2024:** 11 hours a day, six days a week, plus two paid extra hours; housing from the employer, food at the workers' own cost; one worker who had earned USD 150 (about Tk 18,700) in Dhaka said he was satisfied <sup>[N53 (2024)](#n53), [2](#o2)</sup>.
+- **A worker who stayed with a 2022 employer:** Tk 40,000 to 50,000 a month <sup>[N52 (2022)](#n52)</sup>.
+- **A 2022 sewing-shop contract:** USD 600 (about Tk 74,700) promised, 15,000 som (about Tk 21,300) paid <sup>[N56 (2022)](#n56), [2](#o2), [1](#o1)</sup>.
 
-Kyrgyzstan's legal minimum wage is 3,280 som (about Tk 4,670) a month in 2026 and 3,608 som (about Tk 5,130) in 2027, and minimum pay for foreign workers is set by region and sector <sup>[44](#o44), [1](#o1), [N3](#n3)</sup>. The average wage was 46,300 som (about Tk 65,900) across Kyrgyzstan in the first quarter of 2026 and about 60,000 som (about Tk 85,400) in Bishkek <sup>[N56](#n56), [1](#o1)</sup>. Wages must be paid to a bank card, and for a worker that card is the resident card <sup>[25](#o25), [45](#o45), [N2](#n2)</sup>. Income tax and Social Fund (state social insurance) contributions come out of the pay (see [Tax and deductions from your pay](#tax-and-deductions-from-your-pay)) <sup>[46](#o46)</sup>.
+Kyrgyzstan's legal minimum wage is 3,280 som (about Tk 4,670) a month in 2026 and 3,608 som (about Tk 5,130) in 2027, and minimum pay for foreign workers is set by region and sector <sup>[44](#o44), [1](#o1), [N3](#n3)</sup>. The average wage was 46,300 som (about Tk 65,900) across Kyrgyzstan in the first quarter of 2026 and about 60,000 som (about Tk 85,400) in Bishkek <sup>[N57](#n57), [1](#o1)</sup>. Wages must be paid to a bank card, and for a worker that card is the resident card <sup>[25](#o25), [45](#o45), [N2](#n2)</sup>. Income tax and Social Fund (state social insurance) contributions come out of the pay (see [Tax and deductions from your pay](#tax-and-deductions-from-your-pay)) <sup>[46](#o46)</sup>.
 
-A worker who pays his own housing and food spends far more than the government's subsistence minimum for Bishkek, which was 9,569.55 som (about Tk 13,600) per person a month in early 2026 <sup>[N57](#n57), [1](#o1)</sup>:
+A worker who pays his own housing and food spends far more than the government's subsistence minimum for Bishkek, which was 9,569.55 som (about Tk 13,600) per person a month in early 2026 <sup>[N58](#n58), [1](#o1)</sup>:
 
-- **A room or a shared place:** 8,000 to 20,000 som a month (about Tk 11,400 to 28,500) in June 2026 listings <sup>[N56](#n56), [1](#o1)</sup>.
-- **Food, cooked at home:** about 10,000 to 13,000 som a month (about Tk 14,200 to 18,500) <sup>[N56](#n56), [1](#o1)</sup>.
-- **Bus:** 17 som a ride by card, 20 som in cash; a monthly transport card costs 1,020 som (about Tk 1,450) <sup>[N56](#n56), [1](#o1)</sup>.
-- **In all, living as cheaply as possible:** about 27,000 to 42,000 som a month (about Tk 38,400 to 59,800) <sup>[N56](#n56), [1](#o1)</sup>.
+- **A room or a shared place:** 8,000 to 20,000 som a month (about Tk 11,400 to 28,500) in June 2026 listings <sup>[N57](#n57), [1](#o1)</sup>.
+- **Food, cooked at home:** about 10,000 to 13,000 som a month (about Tk 14,200 to 18,500) <sup>[N57](#n57), [1](#o1)</sup>.
+- **Bus:** 17 som a ride by card, 20 som in cash; a monthly transport card costs 1,020 som (about Tk 1,450) <sup>[N57](#n57), [1](#o1)</sup>.
+- **In all, living as cheaply as possible:** about 27,000 to 42,000 som a month (about Tk 38,400 to 59,800) <sup>[N57](#n57), [1](#o1)</sup>.
 
 > **Need to know**
 > - What do Bangladeshi garment and construction workers in Kyrgyzstan earn a month in 2026, after deductions?
@@ -332,10 +333,10 @@ A worker who pays his own housing and food spends far more than the government's
 
 #### 1.4.6 What goes unpaid
 
-- **Months with no pay:** a welder whose visa expired the day after he arrived worked seven months unpaid, then served three months in jail; another man went four months unpaid and surrendered to the police <sup>[N58](#n58)</sup>.
-- **The broker's fee taken from pay:** see How it is paid <sup>[N51 (2022)](#n51)</sup>.
+- **Months with no pay:** a welder whose visa expired the day after he arrived worked seven months unpaid, then served three months in jail; another man went four months unpaid and surrendered to the police <sup>[N59](#n59)</sup>.
+- **The broker's fee taken from pay:** see How it is paid <sup>[N52 (2022)](#n52)</sup>.
 - **A fraction of the promise:** workers promised Tk 55,000 a month for 7-8 hours a day were made to work 17-18 hours for Tk 10,000 <sup>[N9 (2022)](#n9)</sup>.
-- **Piece rates instead of a wage:** garment workers told they would earn Tk 52,000 a month were paid by the number of pieces sewn <sup>[N59 (2022)](#n59)</sup>.
+- **Piece rates instead of a wage:** garment workers told they would earn Tk 52,000 a month were paid by the number of pieces sewn <sup>[N60 (2022)](#n60)</sup>.
 
 How to claim: see [If you aren't paid](#if-you-arent-paid).
 
@@ -343,13 +344,13 @@ How to claim: see [If you aren't paid](#if-you-arent-paid).
 
 #### 1.4.7 Money sent home
 
-Bangladesh Bank publishes no separate figure for remittances from Kyrgyzstan; it counts them under "Others" <sup>[47 (2024)](#o47)</sup>. bKash's list of countries with partners that pay into a bKash wallet does not include Kyrgyzstan <sup>[N60](#n60)</sup>. Western Union, MoneyGram and Ria are on the National Bank of the Kyrgyz Republic's register of licensed money-transfer systems, and hundi (money passed outside the banks through private agents) is illegal in Bangladesh (see [Sending money home](#sending-money-home)) <sup>[48](#o48), [N61 (2024)](#n61)</sup>.
+Bangladesh Bank publishes no separate figure for remittances from Kyrgyzstan; it counts them under "Others" <sup>[47 (2024)](#o47)</sup>. bKash's list of countries with partners that pay into a bKash wallet does not include Kyrgyzstan <sup>[N61](#n61)</sup>. Western Union, MoneyGram and Ria are on the National Bank of the Kyrgyz Republic's register of licensed money-transfer systems, and hundi (money passed outside the banks through private agents) is illegal in Bangladesh (see [Sending money home](#sending-money-home)) <sup>[48](#o48), [N62 (2024)](#n62)</sup>.
 
 <a id="how-long-the-debt-takes"></a>
 
 #### 1.4.8 How long the debt takes
 
-A Tk 5 lakh deal equals 10 to 12.5 months of the Tk 40,000 to 50,000 a month that one worker who stayed reported earning <sup>[N10 (2024)](#n10), [N51 (2022)](#n51)</sup>.
+A Tk 5 lakh deal equals 10 to 12.5 months of the Tk 40,000 to 50,000 a month that one worker who stayed reported earning <sup>[N10 (2024)](#n10), [N52 (2022)](#n52)</sup>.
 
 > **Need to know**
 > - How many months does a garment worker in Bishkek who paid Tk 4 to 5 lakh take to clear the debt in 2026, after food and rent?
@@ -358,50 +359,50 @@ A Tk 5 lakh deal equals 10 to 12.5 months of the Tk 40,000 to 50,000 a month tha
 
 ### 1.5 What ties you to the employer
 
-Fully: the Unified Permit names one employer, position and period, can't be passed to another employer, and lapses when the job ends <sup>[N62](#n62), [25](#o25)</sup>.
+Fully: the Unified Permit names one employer, position and period, can't be passed to another employer, and lapses when the job ends <sup>[N63](#n63), [25](#o25)</sup>.
 
 - **To enter:** only the employer can apply, by a statement letter naming you, your passport number, the purpose and the period ([Work visa: company worker](#work-visa-company-worker), [Step 3: The employer gets your work permit](#step-3-the-employer-gets-your-work-permit)) <sup>[24](#o24), [N3](#n3)</sup>.
-- **To renew:** the employer or you apply for the resident card before the 60-day permit ends, and the employer that applied renews it; each card lasts up to a year (see [Your residence permit](#your-residence-permit)) <sup>[9](#o9), [N63](#n63), [N2](#n2)</sup>. If the employer pays no tax for 3 months, the permit is cancelled, and the resident card too if tax and social contributions go unpaid for 3 months <sup>[25](#o25)</sup>.
+- **To renew:** the employer or you apply for the resident card before the 60-day permit ends, and the employer that applied renews it; each card lasts up to a year (see [Your residence permit](#your-residence-permit)) <sup>[9](#o9), [N64](#n64), [N2](#n2)</sup>. If the employer pays no tax for 3 months, the permit is cancelled, and the resident card too if tax and social contributions go unpaid for 3 months <sup>[25](#o25)</sup>.
 - **To quit:** give one month's written notice; leaving a fixed-term contract early without a valid reason can cost up to one month's average pay, and the permit lapses with the job <sup>[45](#o45), [25](#o25)</sup>.
 - **To change employer:** a new employer must get you a new work visa and permit (see [Changing employer](#changing-employer)) <sup>[25](#o25), [N12](#n12)</sup>. If you leave without notice and the employer tells the police, no other employer may hire you, nor may the same one again <sup>[25](#o25)</sup>. Legprom says workers drawn by USD 500-600 job ads leave at night, are reported by their employers and become illegal <sup>[N28](#n28)</sup>.
-- **To leave:** you have 30 days after the job ends; the employer must pay for your departure and see that you leave, or go on the Register of Bad-Faith Employers (see [Leaving at the end of the job](#leaving-at-the-end-of-the-job)) <sup>[25](#o25), [N63](#n63)</sup>.
-- **Which law covers you:** the Labour Code covers foreigners employed by organisations in Kyrgyzstan (see [Your rights at work](#your-rights-at-work)); the Law On External Migration and the Temporary Regulation cover permits and stay <sup>[45](#o45), [N44](#n44), [49](#o49)</sup>. The tax patent, which lets a foreigner work for private individuals, applies only during a visa-free stay, which Bangladeshis do not have <sup>[N64](#n64), [6](#o6)</sup>.
-- **Your passport:** employers and brokers have kept workers' passports, in one 2022 sewing shop "for registration" <sup>[N55 (2022)](#n55), [N8 (2024)](#n8)</sup>.
-- **If the permit expires:** you are fined from 5,500 som (about Tk 7,800) for up to a month to 20,000 som (about Tk 28,500) for over a year, a court orders expulsion if you don't put it right within 30 days of a written order, and expulsion brings a 2-year entry ban (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[26](#o26), [N65](#n65), [1](#o1), [27](#o27)</sup>.
+- **To leave:** you have 30 days after the job ends; the employer must pay for your departure and see that you leave, or go on the Register of Bad-Faith Employers (see [Leaving at the end of the job](#leaving-at-the-end-of-the-job)) <sup>[25](#o25), [N64](#n64)</sup>.
+- **Which law covers you:** the Labour Code covers foreigners employed by organisations in Kyrgyzstan (see [Your rights at work](#your-rights-at-work)); the Law On External Migration and the Temporary Regulation cover permits and stay <sup>[45](#o45), [N45](#n45), [49](#o49)</sup>. The tax patent, which lets a foreigner work for private individuals, applies only during a visa-free stay, which Bangladeshis do not have <sup>[N65](#n65), [6](#o6)</sup>.
+- **Your passport:** employers and brokers have kept workers' passports, in one 2022 sewing shop "for registration" <sup>[N56 (2022)](#n56), [N8 (2024)](#n8)</sup>.
+- **If the permit expires:** you are fined from 5,500 som (about Tk 7,800) for up to a month to 20,000 som (about Tk 28,500) for over a year, a court orders expulsion if you don't put it right within 30 days of a written order, and expulsion brings a 2-year entry ban (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[26](#o26), [N66](#n66), [1](#o1), [27](#o27)</sup>.
 
 <a id="what-goes-wrong-most-and-what-people-wrongly-believe"></a>
 
 ### 1.6 What goes wrong most, and what people wrongly believe
 
-The commonest outcomes reported are no job or no permit on arrival, pay far below the promise and passports taken, then months without papers ending in jail or deportation <sup>[N8 (2024)](#n8), [N13 (2024)](#n13), [N58](#n58), [N42 (2024)](#n42)</sup>. All 27 male forced-labour victims Kyrgyzstan identified in 2025 were from Pakistan and Bangladesh, and the government did not report referring any victim to protection services <sup>[N12](#n12)</sup>. The US State Department's Trafficking in Persons report kept Kyrgyzstan on its Tier 2 Watch List in 2025, for the second year running, and its 2026 report names Pakistanis and Bangladeshis in construction and garment workshops as vulnerable to trafficking <sup>[N66](#n66), [N12](#n12)</sup>. On 10 September 2025, 180 Bangladeshis lured with garment and construction jobs came home on a special flight from Bishkek; BRAC said many had been unpaid, jobless, undocumented or tortured, and some families paid ransom <sup>[N67](#n67), [N58](#n58)</sup>.
+The commonest outcomes reported are no job or no permit on arrival, pay far below the promise and passports taken, then months without papers ending in jail or deportation <sup>[N8 (2024)](#n8), [N13 (2024)](#n13), [N59](#n59), [N43 (2024)](#n43)</sup>. All 27 male forced-labour victims Kyrgyzstan identified in 2025 were from Pakistan and Bangladesh, and the government did not report referring any victim to protection services <sup>[N12](#n12)</sup>. The US State Department's Trafficking in Persons report kept Kyrgyzstan on its Tier 2 Watch List in 2025, for the second year running, and its 2026 report names Pakistanis and Bangladeshis in construction and garment workshops as vulnerable to trafficking <sup>[N67](#n67), [N12](#n12)</sup>. On 10 September 2025, 180 Bangladeshis lured with garment and construction jobs came home on a special flight from Bishkek; BRAC said many had been unpaid, jobless, undocumented or tortured, and some families paid ransom <sup>[N68](#n68), [N59](#n59)</sup>.
 
 <a id="what-people-believe-and-the-facts"></a>
 
 #### 1.6.1 What people believe, and the facts
 
-- **"Kyrgyzstan is a door to Europe."** In 2024 the CID called Kyrgyzstan a popular trafficking route because it is seen as close to Europe <sup>[N35 (2024)](#n35)</sup>. A 21-year-old from Shariatpur paid Tk 4.8 lakh on a promise of Italy, was flown via Dubai to Bishkek in May 2025, and spent 44 days in prison instead <sup>[N17](#n17)</sup>. A Fenchuganj man paid a broker Tk 6 lakh for Poland; the broker left for Dubai promising a Ukrainian visa and disappeared, a Pakistani broker held his passport, and his family borrowed for his ticket home <sup>[N18 (2023)](#n18), [N19 (2023)](#n19)</sup>. Bangladeshis who walked on into Kazakhstan in 2024 got six months in prison and a five-year ban, and the 180 flown home on 10 September 2025 had been left jobless and undocumented <sup>[N20 (2024)](#n20), [N68](#n68)</sup>.
-- **"A tourist visa now, the work permit after you arrive."** A business visa gives no right to work, and a valid visa or registration alone doesn't let anyone hire you (see [Work visa: company worker](#work-visa-company-worker), [Step 2: The job offer and contract](#step-2-the-job-offer-and-contract)) <sup>[9](#o9), [N62](#n62)</sup>. Six people Jannat Trade sent on 59-day tourist visas got no jobs, and in May 2025 each of 46 tourist-visa holders found on a Bishkek building site was fined 10,000 som (about Tk 14,200) <sup>[N35 (2024)](#n35), [N69](#n69), [1](#o1)</sup>.
+- **"Kyrgyzstan is a door to Europe."** In 2024 the CID called Kyrgyzstan a popular trafficking route because it is seen as close to Europe <sup>[N35 (2024)](#n35)</sup>. A 21-year-old from Shariatpur paid Tk 4.8 lakh on a promise of Italy, was flown via Dubai to Bishkek in May 2025, and spent 44 days in prison instead <sup>[N17](#n17)</sup>. A Fenchuganj man paid a broker Tk 6 lakh for Poland; the broker left for Dubai promising a Ukrainian visa and disappeared, a Pakistani broker held his passport, and his family borrowed for his ticket home <sup>[N18 (2023)](#n18), [N19 (2023)](#n19)</sup>. Bangladeshis who walked on into Kazakhstan in 2024 got six months in prison and a five-year ban, and the 180 flown home on 10 September 2025 had been left jobless and undocumented <sup>[N20 (2024)](#n20), [N69](#n69)</sup>.
+- **"A tourist visa now, the work permit after you arrive."** A business visa gives no right to work, and a valid visa or registration alone doesn't let anyone hire you (see [Work visa: company worker](#work-visa-company-worker), [Step 2: The job offer and contract](#step-2-the-job-offer-and-contract)) <sup>[9](#o9), [N63](#n63)</sup>. Six people Jannat Trade sent on 59-day tourist visas got no jobs, and in May 2025 each of 46 tourist-visa holders found on a Bishkek building site was fined 10,000 som (about Tk 14,200) <sup>[N35 (2024)](#n35), [N70](#n70), [1](#o1)</sup>.
 - **"A valid visa, permit and BMET card mean a real job."** In 2022 workers holding all three said their agency had sold them to a garment factory owner for USD 8,300 (about Tk 10.3 lakh) <sup>[N9 (2022)](#n9), [2](#o2)</sup>.
 - **"The quota is 100,000, so it's easy to go."** The quota rose, but permits for Bangladeshis fell in 2026 and BMET cleared 11 people (see [Status](#status)) <sup>[N7](#n7), [N21](#n21), [23](#o23)</sup>.
-- **"Videos of people getting visas prove the agency is real."** Jannat Trade filmed visa handovers for YouTube; it had no recruiting licence, and at Dhaka airport its visa was not on record and its ticket was fake <sup>[N10 (2024)](#n10), [N49](#n49)</sup>.
+- **"Videos of people getting visas prove the agency is real."** Jannat Trade filmed visa handovers for YouTube; it had no recruiting licence, and at Dhaka airport its visa was not on record and its ticket was fake <sup>[N10 (2024)](#n10), [N50](#n50)</sup>.
 - **"You can earn more in taxi or delivery."** No work visa is issued for those jobs, so everyone doing them works illegally; the MFA says irregular workers register with a firm and then move to taxis <sup>[N34](#n34)</sup>.
-- **"An agent in Bishkek can legalise you."** The GKNB arrested a Bangladeshi who took USD 66,500 to "legalise" migrants and gave them forged permits, and it tells foreigners to apply for permits only on the official e-Visa portal (see [The middlemen in Bishkek](#the-middlemen-in-bishkek)) <sup>[N43](#n43)</sup>.
+- **"An agent in Bishkek can legalise you."** The GKNB arrested a Bangladeshi who took USD 66,500 to "legalise" migrants and gave them forged permits, and it tells foreigners to apply for permits only on the official e-Visa portal (see [The middlemen in Bishkek](#the-middlemen-in-bishkek)) <sup>[N44](#n44)</sup>.
 
 <a id="irregular-routes-and-where-an-irregular-stay-ends"></a>
 
 #### 1.6.2 Irregular routes, and where an irregular stay ends
 
-- **To Europe via Dubai and Bishkek: it ends in a Central Asian prison or a borrowed ticket home.** The CID said a trafficking syndicate it arrested sent people to Dubai on visit visas and then on to Kyrgyzstan <sup>[N35 (2024)](#n35)</sup>. A Shariatpur man promised Italy in 2025 spent 44 days in prison, and a Fenchuganj man promised Poland flew home in 2023 from Manas airport, Bishkek, on Air Arabia through Sharjah, on a ticket his family borrowed to pay for <sup>[N17](#n17), [N18 (2023)](#n18), [N19 (2023)](#n19)</sup>. The pitch is old: in 2004, 32 Bangladeshis were arrested in Bishkek and Chui region waiting for forged papers to travel on through Kazakhstan and Russia to Europe <sup>[N70 (2004)](#n70)</sup>.
+- **To Europe via Dubai and Bishkek: it ends in a Central Asian prison or a borrowed ticket home.** The CID said a trafficking syndicate it arrested sent people to Dubai on visit visas and then on to Kyrgyzstan <sup>[N35 (2024)](#n35)</sup>. A Shariatpur man promised Italy in 2025 spent 44 days in prison, and a Fenchuganj man promised Poland flew home in 2023 from Manas airport, Bishkek, on Air Arabia through Sharjah, on a ticket his family borrowed to pay for <sup>[N17](#n17), [N18 (2023)](#n18), [N19 (2023)](#n19)</sup>. The pitch is old: in 2004, 32 Bangladeshis were arrested in Bishkek and Chui region waiting for forged papers to travel on through Kazakhstan and Russia to Europe <sup>[N71 (2004)](#n71)</sup>.
 - **Across the border to Kazakhstan: it ends in a Kazakh prison.** Bangladeshis who crossed from Kyrgyzstan away from the checkpoints in June 2024 were caught in Kostanay region, on the Russian border, and each got six months in prison and expulsion with a five-year ban <sup>[N20 (2024)](#n20)</sup>. Kyrgyz law punishes illegal border crossing with up to 2 years in prison <sup>[50](#o50)</sup>.
-- **In from Uzbekistan: it ends at the Kyrgyz border.** In June 2024 border guards in Jalal-Abad caught 11 Bangladeshis who had found no work in Uzbekistan and tried to cross away from the checkpoints, with the Kyrgyz citizen who organised it <sup>[N71 (2024)](#n71)</sup>.
-- **Staying on after the visa or permit ends: it ends in a raid, a fine and expulsion.** The GKNB and the MVD (Ministry of Internal Affairs) raid building sites and sewing workshops in Operation "Nelegal" ("Illegal"); on 1-10 October 2026 they wrote 1,487 reports and fines of 13,407,000 som <sup>[N72](#n72), [N14](#n14), [N15](#n15)</sup>. Those caught are taken to a filtration centre and handed to the MVD's service against illegal migration, and expulsion goes ahead even if the fine is unpaid (see [Irregular routes and undocumented workers](#irregular-routes-and-undocumented-workers)) <sup>[N72](#n72), [26](#o26)</sup>. The Kyrgyz government flew 180 such Bangladeshis home on 10 September 2025 (see [Going home without valid papers](#going-home-without-valid-papers)) <sup>[N16](#n16), [N17](#n17)</sup>.
+- **In from Uzbekistan: it ends at the Kyrgyz border.** In June 2024 border guards in Jalal-Abad caught 11 Bangladeshis who had found no work in Uzbekistan and tried to cross away from the checkpoints, with the Kyrgyz citizen who organised it <sup>[N72 (2024)](#n72)</sup>.
+- **Staying on after the visa or permit ends: it ends in a raid, a fine and expulsion.** The GKNB and the MVD (Ministry of Internal Affairs) raid building sites and sewing workshops in Operation "Nelegal" ("Illegal"); on 1-10 October 2026 they wrote 1,487 reports and fines of 13,407,000 som <sup>[N73](#n73), [N14](#n14), [N15](#n15)</sup>. Those caught are taken to a filtration centre and handed to the MVD's service against illegal migration, and expulsion goes ahead even if the fine is unpaid (see [Irregular routes and undocumented workers](#irregular-routes-and-undocumented-workers)) <sup>[N73](#n73), [26](#o26)</sup>. The Kyrgyz government flew 180 such Bangladeshis home on 10 September 2025 (see [Going home without valid papers](#going-home-without-valid-papers)) <sup>[N16](#n16), [N17](#n17)</sup>.
 
 <a id="visas-not-open-to-bangladeshis"></a>
 
 ## 2 Visas not open to Bangladeshis
 
 - **Visa-free entry:** Bangladesh is not on Kyrgyzstan's visa-free list; it is on the list of countries whose citizens get short-term visas in a simplified way <sup>[7](#o7), [6](#o6)</sup>.
-- **A tourist visa on your own application from Bangladesh:** the simplified tourist visa is only for Bangladeshis holding a valid resident card of the UAE, Saudi Arabia, Kuwait, Qatar, Brunei, Oman or Bahrain, and in September 2021 the MFA suspended self-applied tourist visas for Bangladeshis and others and required an invitation from a host organisation instead (see [Visit visa](#visit-visa)) <sup>[7](#o7), [N73 (2021)](#n73)</sup>.
+- **A tourist visa on your own application from Bangladesh:** the simplified tourist visa is only for Bangladeshis holding a valid resident card of the UAE, Saudi Arabia, Kuwait, Qatar, Brunei, Oman or Bahrain, and in September 2021 the MFA suspended self-applied tourist visas for Bangladeshis and others and required an invitation from a host organisation instead (see [Visit visa](#visit-visa)) <sup>[7](#o7), [N74 (2021)](#n74)</sup>.
 - **7-day visa-free stay with a long-term US, UK or Schengen visa:** Chinese and Indian citizens only <sup>[7](#o7)</sup>.
 - **Investment visa:** needs a contribution of at least 10 million som (about Tk 1.42 crore) to the Kyrgyz economy <sup>[9](#o9), [1](#o1)</sup>.
 - **Sapar visa (type J):** issued only on a reasoned request from a Kyrgyz state or local government body <sup>[9](#o9)</sup>.
@@ -410,13 +411,13 @@ The commonest outcomes reported are no job or no permit on arrival, pay far belo
 - **Religious visa (type R):** only for missionaries with a permit from the state religious affairs body <sup>[9](#o9)</sup>.
 - **Driver's visa (type T):** only for drivers of international freight trucks <sup>[9](#o9)</sup>.
 - **Diplomatic (D) and official (O) visas:** only for diplomatic and service passports <sup>[9](#o9)</sup>.
-- **Working on a tourist or business visa:** a business visa gives no right to work, and staying for a purpose other than the one declared on entry is fined 100 calculation units (10,000 som) (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[9](#o9), [26](#o26), [N74](#n74)</sup>.
+- **Working on a tourist or business visa:** a business visa gives no right to work, and staying for a purpose other than the one declared on entry is fined 100 calculation units (10,000 som) (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[9](#o9), [26](#o26), [N75](#n75)</sup>.
 
 <a id="work-visa-company-worker"></a>
 
 ## 3 Work visa: company worker
 
-A Kyrgyz employer applies online for a Unified Permit (Единое разрешение, Yedinoye razresheniye), one electronic document that combines the work visa, the permit to employ foreign labour and the work permit; you enter on it for up to 60 days, and the employer then applies for a resident card (резидент-карта), a plastic card that lets you stay for up to a year and carries your work and pay details <sup>[8](#o8), [9](#o9), [N75](#n75), [N2](#n2)</sup>. These rules sit in a Temporary Regulation approved by Cabinet Resolution No. 312 and set to expire on 31 December 2026, and presidential decree No. 337 of 28 September 2026 moved the Unified Permit and resident card from the MFA (Ministry of Foreign Affairs) to a new Department for Migration Affairs in the Ministry of Labour, Social Security and Migration, which is to hand the service to an outside contractor <sup>[N76](#n76), [N63](#n63), [49](#o49), [11](#o11)</sup>. The Cabinet was given two months to bring its rules into line <sup>[11](#o11)</sup>. BMET (the Bureau of Manpower, Employment and Training) cleared 11 workers for Kyrgyzstan from 1 January to 9 November 2026 (see [Status](#status)) <sup>[23](#o23)</sup>.
+A Kyrgyz employer applies online for a Unified Permit (Единое разрешение, Yedinoye razresheniye), one electronic document that combines the work visa, the permit to employ foreign labour and the work permit; you enter on it for up to 60 days, and the employer then applies for a resident card (резидент-карта), a plastic card that lets you stay for up to a year and carries your work and pay details <sup>[8](#o8), [9](#o9), [N76](#n76), [N2](#n2)</sup>. These rules sit in a Temporary Regulation approved by Cabinet Resolution No. 312 and set to expire on 31 December 2026, and presidential decree No. 337 of 28 September 2026 moved the Unified Permit and resident card from the MFA (Ministry of Foreign Affairs) to a new Department for Migration Affairs in the Ministry of Labour, Social Security and Migration, which is to hand the service to an outside contractor <sup>[N77](#n77), [N64](#n64), [49](#o49), [11](#o11)</sup>. The Cabinet was given two months to bring its rules into line <sup>[11](#o11)</sup>. BMET (the Bureau of Manpower, Employment and Training) cleared 11 workers for Kyrgyzstan from 1 January to 9 November 2026 (see [Status](#status)) <sup>[23](#o23)</sup>.
 
 > **Need to know**
 > - Since October 2026, does the employer still apply for a Unified Permit on the e-Visa portal (evisa.e-gov.kg), or through a new Ministry of Labour portal or contractor, and who is the contractor?
@@ -442,7 +443,7 @@ A company worker's Unified Permit is applied for by the employer, for a worker i
 
    **If it fails:** call the Probashi call centre, 16135 (free), or +8809610102030 from abroad <sup>[53](#o53)</sup>.
 
-2. <a id="step-1-find-a-real-job-item-2"></a>**Know which jobs exist.** The Kyrgyz Ministry of Labour names construction and light industry as the sectors most in need of foreign workers, and says Bangladeshis usually work in garments <sup>[N45](#n45), [N46](#n46)</sup>. Beyond the plain "Worker" title, the jobs BMET cleared for Kyrgyzstan were mostly garment jobs: garments worker, sewing equipment operator and swing line checker (sewing line checker) <sup>[20](#o20), [21](#o21)</sup>. Garment shops keep the workers who can sew and leave the rest without shelter or money, a Bishkek shop owner said in 2024 <sup>[N8 (2024)](#n8)</sup>. Nearly half of all foreign workers (46%) are in Jalal-Abad region, not in Bishkek <sup>[N47](#n47)</sup>. BMET's TTCs (Technical Training Centres) are listed on its website <sup>[54](#o54)</sup>.
+2. <a id="step-1-find-a-real-job-item-2"></a>**Know which jobs exist.** The Kyrgyz Ministry of Labour names construction and light industry as the sectors most in need of foreign workers, and says Bangladeshis usually work in garments <sup>[N46](#n46), [N47](#n47)</sup>. Beyond the plain "Worker" title, the jobs BMET cleared for Kyrgyzstan were mostly garment jobs: garments worker, sewing equipment operator and swing line checker (sewing line checker) <sup>[20](#o20), [21](#o21)</sup>. Garment shops keep the workers who can sew and leave the rest without shelter or money, a Bishkek shop owner said in 2024 <sup>[N8 (2024)](#n8)</sup>. Nearly half of all foreign workers (46%) are in Jalal-Abad region, not in Bishkek <sup>[N48](#n48)</sup>. BMET's TTCs (Technical Training Centres) are listed on its website <sup>[54](#o54)</sup>.
 
    > **Need to know**
    > - Do Kyrgyz garment employers test sewing skill before hiring Bangladeshis, and where (in Dhaka, by video, or on arrival)?
@@ -454,7 +455,7 @@ A company worker's Unified Permit is applied for by the employer, for a worker i
    2. Go to the address on that list, not a middleman's office <sup>[55](#o55)</sup>.
    3. Ask whether the job order has BMET's permission or the Ministry's approval. Industry insiders said in November 2026 that demand letters for up to seven workers had needed no Ministry approval, and that this was used to send workers on fake job offers <sup>[N31](#n31)</sup>.
 
-   A licence and a BMET smart card are no guarantee: in 2022, garment workers sent with valid visas, work permits and BMET smart cards by Makkah Madina Trade International (RL 810) and Al-Jabeen Establishment Ltd (RL 884) said they had been sold to a garment factory owner in Kyrgyzstan for USD 8,300 (about Tk 10.3 lakh) <sup>[N9 (2022)](#n9), [2](#o2)</sup>. Al-Jabeen's managing director said the returnees could not do the work <sup>[N51 (2022)](#n51)</sup>.
+   A licence and a BMET smart card are no guarantee: in 2022, garment workers sent with valid visas, work permits and BMET smart cards by Makkah Madina Trade International (RL 810) and Al-Jabeen Establishment Ltd (RL 884) said they had been sold to a garment factory owner in Kyrgyzstan for USD 8,300 (about Tk 10.3 lakh) <sup>[N9 (2022)](#n9), [2](#o2)</sup>. Al-Jabeen's managing director said the returnees could not do the work <sup>[N52 (2022)](#n52)</sup>.
 
    > **Need to know**
    > - Which licensed agencies sent workers to Kyrgyzstan in 2024-2025, and for which Kyrgyz employers?
@@ -465,14 +466,14 @@ A company worker's Unified Permit is applied for by the employer, for a worker i
    > **Need to know**
    > - Where is the Kyrgyz database of licensed private employment agencies, and can a worker in Bangladesh search it by firm name?
 
-5. <a id="step-1-find-a-real-job-item-5"></a>**Never go on a tourist or business visa on a broker's promise of a job.** The Ministry of Expatriates' Welfare warns against it <sup>[5](#o5)</sup>. A business visa (type B) gives no right to work or earn income in Kyrgyzstan, and a valid visa or registration alone does not let anyone hire you <sup>[9](#o9), [N62](#n62)</sup>. Working on one is fined (see [Tried by workers](#tried-by-workers)) <sup>[26](#o26)</sup>.
+5. <a id="step-1-find-a-real-job-item-5"></a>**Never go on a tourist or business visa on a broker's promise of a job.** The Ministry of Expatriates' Welfare warns against it <sup>[5](#o5)</sup>. A business visa (type B) gives no right to work or earn income in Kyrgyzstan, and a valid visa or registration alone does not let anyone hire you <sup>[9](#o9), [N63](#n63)</sup>. Working on one is fined (see [Tried by workers](#tried-by-workers)) <sup>[26](#o26)</sup>.
 
    > **Need to know**
    > - Can a Bangladeshi already in Kyrgyzstan on a tourist or business visa get a Unified Permit without leaving, and do agents sell this "conversion"?
 
 6. <a id="step-1-find-a-real-job-item-6"></a>**Have the papers checked before you pay.** BMET checks job visas free within 3 working days at its DEMOs or at BMET, 89/2 Kakrail, Dhaka; its online check covers only Saudi, Qatari, Bahraini, Singapore and UAE visas, not Kyrgyz ones <sup>[40](#o40), [4](#o4), [56 (2021)](#o56)</sup>. Check the Unified Permit yourself as in [Step 5: The work visa, and checking it is real](#step-5-the-work-visa-and-checking-it-is-real) <sup>[57](#o57)</sup>.
 
-7. <a id="step-1-find-a-real-job-item-7"></a>**Know what you should pay.** Pay any Bangladeshi agency only into its own bank account, and keep every receipt <sup>[40](#o40)</sup>. Under Kyrgyz law whoever invites you must arrange your stay documents, and the employer files and pays the permit fees ([Step 3, item 2: The employer pays](#step-3-the-employer-gets-your-work-permit-item-2)) <sup>[N44](#n44), [N53](#n53), [N1 (2024)](#n1)</sup>. The official costs on your side, each in the step that owns it:
+7. <a id="step-1-find-a-real-job-item-7"></a>**Know what you should pay.** Pay any Bangladeshi agency only into its own bank account, and keep every receipt <sup>[40](#o40)</sup>. Under Kyrgyz law whoever invites you must arrange your stay documents, and the employer files and pays the permit fees ([Step 3, item 2: The employer pays](#step-3-the-employer-gets-your-work-permit-item-2)) <sup>[N45](#n45), [N54](#n54), [N1 (2024)](#n1)</sup>. The official costs on your side, each in the step that owns it:
 
    - OEP registration: Tk 200 ([Step 1, item 1: Register on the OEP (Overseas Employment Platform)](#step-1-find-a-real-job-item-1)) <sup>[3](#o3)</sup>;
    - passport: Tk 4,025 to Tk 10,350 ([Step 4, item 1: Get an e-passport](#step-4-passport-police-clearance-and-certificates-item-1)) <sup>[58](#o58)</sup>;
@@ -506,16 +507,16 @@ A company worker's Unified Permit is applied for by the employer, for a worker i
    1. BMET's Additional Director General (Employment): 02-48321949, 01720105492, adgemp@bmet.gov.bd <sup>[4](#o4)</sup>.
    2. The Ministry of Expatriates' Welfare's grievance officer: 02-41030224, 01712992086, adsadmin@probashi.gov.bd (30 working days) <sup>[63](#o63)</sup>.
    3. The Probashi call centre, 16135 <sup>[53](#o53)</sup>.
-   4. For an unlicensed office, the police: Jannat Trade International had no legal papers to send workers abroad, a victim filed a case under the human trafficking law at Paltan police station, and the CID (Criminal Investigation Department) arrested the owner (see [Done to workers](#done-to-workers)) <sup>[N10 (2024)](#n10), [N49](#n49)</sup>.
+   4. For an unlicensed office, the police: Jannat Trade International had no legal papers to send workers abroad, a victim filed a case under the human trafficking law at Paltan police station, and the CID (Criminal Investigation Department) arrested the owner (see [Done to workers](#done-to-workers)) <sup>[N10 (2024)](#n10), [N50](#n50)</sup>.
 
 <a id="step-2-the-job-offer-and-contract"></a>
 
 ### 3.2 Step 2: The job offer and contract
 
-1. <a id="step-2-the-job-offer-and-contract-item-1"></a>**Get the employer's details in writing before you pay anyone.** The employer's application is a statement letter to the Director of the MFA's Consular Department naming you, your passport number, the purpose and the period, in which the head of the company undertakes to keep your stay legal <sup>[24](#o24)</sup>. The permit ties you to that employer, the type of work, the position and the period, and it cannot be passed to another employer <sup>[N62](#n62), [25](#o25)</sup>. Ask whoever brings the job for:
+1. <a id="step-2-the-job-offer-and-contract-item-1"></a>**Get the employer's details in writing before you pay anyone.** The employer's application is a statement letter to the Director of the MFA's Consular Department naming you, your passport number, the purpose and the period, in which the head of the company undertakes to keep your stay legal <sup>[24](#o24)</sup>. The permit ties you to that employer, the type of work, the position and the period, and it cannot be passed to another employer <sup>[N63](#n63), [25](#o25)</sup>. Ask whoever brings the job for:
 
    - the employer's full legal name and its address in Kyrgyzstan <sup>[24](#o24)</sup>;
-   - the job title and the town or region of the workplace <sup>[N62](#n62), [N3](#n3)</sup>;
+   - the job title and the town or region of the workplace <sup>[N63](#n63), [N3](#n3)</sup>;
    - the monthly wage in som (KGS, the Kyrgyz currency), since minimum pay for foreign workers is set by region and sector <sup>[N3](#n3)</sup>;
    - a copy of the statement letter <sup>[24](#o24)</sup>.
 
@@ -527,8 +528,8 @@ A company worker's Unified Permit is applied for by the employer, for a worker i
 
 2. <a id="step-2-the-job-offer-and-contract-item-2"></a>**Get the employment contract before the permit is filed, and read it.** The employer uploads the employment contract with its application, so the contract exists before the permit is issued <sup>[N3](#n3)</sup>. Documents on the portal must be in Kyrgyz or Russian or translated into one of them <sup>[8](#o8)</sup>. Get the contract from the agency at least 2 days before you go and check the job, employer, workplace, length, pay, leave and airfare against what you were promised <sup>[64 (2021)](#o64)</sup>. Check in particular:
 
-   - **Housing, food and medical care:** the inviting side pays for your keep and medical care unless you agree otherwise in writing <sup>[N44](#n44)</sup>. The garment association Legprom's director said in January 2026 that some employers break their contracts by not providing housing <sup>[N28](#n28)</sup>.
-   - **How you are paid:** the employer must pay wages to a bank card, not in cash ([Step 7, item 4: Use the resident card as your bank card](#step-7-after-arrival-item-4)) <sup>[N53](#n53), [25](#o25)</sup>.
+   - **Housing, food and medical care:** the inviting side pays for your keep and medical care unless you agree otherwise in writing <sup>[N45](#n45)</sup>. The garment association Legprom's director said in January 2026 that some employers break their contracts by not providing housing <sup>[N28](#n28)</sup>.
+   - **How you are paid:** the employer must pay wages to a bank card, not in cash ([Step 7, item 4: Use the resident card as your bank card](#step-7-after-arrival-item-4)) <sup>[N54](#n54), [25](#o25)</sup>.
    - **Your copy:** the contract is made in two copies, and one is yours <sup>[45](#o45)</sup>.
 
    What a contract must contain under the Labour Code is in Your rights at work <sup>[45](#o45)</sup>.
@@ -545,11 +546,11 @@ A company worker's Unified Permit is applied for by the employer, for a worker i
 
 ### 3.3 Step 3: The employer gets your work permit
 
-You do nothing at this step except send documents; the employer files everything on the e-Visa portal, evisa.e-gov.kg, and pays <sup>[N53](#n53), [N1 (2024)](#n1)</sup>. There is no longer a commission that shares out quota places: since 1 January 2025 the employer applies directly for a named worker <sup>[N1 (2024)](#n1)</sup>. The MFA's Consular Department issued the permit under Resolution No. 312 until decree No. 337 of 28 September 2026 moved this to the Ministry of Labour <sup>[N76](#n76), [N5](#n5), [11](#o11)</sup>.
+You do nothing at this step except send documents; the employer files everything on the e-Visa portal, evisa.e-gov.kg, and pays <sup>[N54](#n54), [N1 (2024)](#n1)</sup>. There is no longer a commission that shares out quota places: since 1 January 2025 the employer applies directly for a named worker <sup>[N1 (2024)](#n1)</sup>. The MFA's Consular Department issued the permit under Resolution No. 312 until decree No. 337 of 28 September 2026 moved this to the Ministry of Labour <sup>[N77](#n77), [N5](#n5), [11](#o11)</sup>.
 
-**The quota.** Each year the Cabinet of Ministers sets the maximum number of foreign workers, and Unified Permits are issued only within it <sup>[N44](#n44), [N3](#n3)</sup>. The 2026 limit was set at 52,000 and raised to 100,000 by an order of 30 April 2026 <sup>[N45](#n45), [N29](#n29)</sup>. Since 2025 the quota no longer lists types of work <sup>[N45](#n45)</sup>. When Kyrgyzstan stopped quotas for Bangladeshis before is in Background (see [What closed it before](#what-closed-it-before)).
+**The quota.** Each year the Cabinet of Ministers sets the maximum number of foreign workers, and Unified Permits are issued only within it <sup>[N45](#n45), [N3](#n3)</sup>. The 2026 limit was set at 52,000 and raised to 100,000 by an order of 30 April 2026 <sup>[N46](#n46), [N29](#n29)</sup>. Since 2025 the quota no longer lists types of work <sup>[N46](#n46)</sup>. When Kyrgyzstan stopped quotas for Bangladeshis before is in Background (see [What closed it before](#what-closed-it-before)).
 
-1. <a id="step-3-the-employer-gets-your-work-permit-item-1"></a>**The employer applies on the e-Visa portal.** In its personal account (Личный кабинет, Lichnyy kabinet) on [evisa.e-gov.kg](https://www.evisa.e-gov.kg/) the employer <sup>[N3](#n3), [N53](#n53)</sup>:
+1. <a id="step-3-the-employer-gets-your-work-permit-item-1"></a>**The employer applies on the e-Visa portal.** In its personal account (Личный кабинет, Lichnyy kabinet) on [evisa.e-gov.kg](https://www.evisa.e-gov.kg/) the employer <sup>[N3](#n3), [N54](#n54)</sup>:
 
    1. creates the company account;
    2. fills in the online quota form;
@@ -560,7 +561,7 @@ You do nothing at this step except send documents; the employer files everything
    > **Need to know**
    > - What exact documents does the portal ask of a Bangladeshi worker for a Unified Permit in 2026 (police clearance, education certificate, medical certificate)?
 
-2. <a id="step-3-the-employer-gets-your-work-permit-item-2"></a>**The employer pays.** The fee is paid when the application is filed and covers the work visa and the work permit; the employer also pays a non-refundable guarantee deposit <sup>[N1 (2024)](#n1)</sup>. The guarantee fee, 50 RP (calculation units) per worker, pays for the departure or expulsion of a worker who has no money of his own <sup>[25](#o25)</sup>. Under the 2025 rules (Resolution No. 367) the costs per worker were <sup>[N53](#n53), [2](#o2), [1](#o1)</sup>:
+2. <a id="step-3-the-employer-gets-your-work-permit-item-2"></a>**The employer pays.** The fee is paid when the application is filed and covers the work visa and the work permit; the employer also pays a non-refundable guarantee deposit <sup>[N1 (2024)](#n1)</sup>. The guarantee fee, 50 RP (calculation units) per worker, pays for the departure or expulsion of a worker who has no money of his own <sup>[25](#o25)</sup>. Under the 2025 rules (Resolution No. 367) the costs per worker were <sup>[N54](#n54), [2](#o2), [1](#o1)</sup>:
 
    - permit to employ foreign labour: 20,000 som (about Tk 28,400);
    - guarantee deposit: 5,000 som (about Tk 7,100);
@@ -569,17 +570,17 @@ You do nothing at this step except send documents; the employer files everything
    - extension to 360 days: USD 225 (about Tk 28,000);
    - in total, 30,000 som plus USD 300 (about Tk 80,000).
 
-   They are paid in two stages: first for two months, then for 12 months <sup>[N53](#n53)</sup>. Resolution No. 312 replaced these rules on 30 April 2026 <sup>[N77](#n77)</sup>. Resolution No. 506 of 23 July 2026 gave garment companies a special rate until 1 November 2026, on a letter from the Chamber of Commerce and Industry confirming membership <sup>[41](#o41)</sup>: USD 75 for the Unified Permit, paid in som at the National Bank rate, plus 20,000 som state duty and a 5,000 som guarantee deposit; and USD 225 for the resident card plus 5,000 som for the electronic work permit <sup>[41](#o41)</sup>. These are the same amounts as the 2025 rates, and the special rate lapsed on 1 November 2026 <sup>[N53](#n53), [41](#o41)</sup>. Fees paid on the portal are not refunded if the application is refused <sup>[8](#o8)</sup>.
+   They are paid in two stages: first for two months, then for 12 months <sup>[N54](#n54)</sup>. Resolution No. 312 replaced these rules on 30 April 2026 <sup>[N78](#n78)</sup>. Resolution No. 506 of 23 July 2026 gave garment companies a special rate until 1 November 2026, on a letter from the Chamber of Commerce and Industry confirming membership <sup>[41](#o41)</sup>: USD 75 for the Unified Permit, paid in som at the National Bank rate, plus 20,000 som state duty and a 5,000 som guarantee deposit; and USD 225 for the resident card plus 5,000 som for the electronic work permit <sup>[41](#o41)</sup>. These are the same amounts as the 2025 rates, and the special rate lapsed on 1 November 2026 <sup>[N54](#n54), [41](#o41)</sup>. Fees paid on the portal are not refunded if the application is refused <sup>[8](#o8)</sup>.
 
    > **Need to know**
    > - What are the standard Unified Permit and resident card fees under Resolution No. 312 (Annex 5) since 1 November 2026, and was the garment rate extended?
    > - How much of the permit cost do agencies or brokers charge Bangladeshi workers, and under what name?
 
-3. <a id="step-3-the-employer-gets-your-work-permit-item-3"></a>**The permit is decided.** Under the 2025 rules a decision took 7 to 10 working days, and the 2026 garment rate set up to 7 working days <sup>[N3](#n3), [41](#o41)</sup>. Since 2026 the permit can be issued urgently for an extra fee <sup>[N63](#n63)</sup>. If the portal returns the application for corrections, the 5-working-day review starts again once they are made <sup>[8](#o8)</sup>. The approved permit, with its QR code, appears in the employer's account <sup>[N53](#n53)</sup>.
+3. <a id="step-3-the-employer-gets-your-work-permit-item-3"></a>**The permit is decided.** Under the 2025 rules a decision took 7 to 10 working days, and the 2026 garment rate set up to 7 working days <sup>[N3](#n3), [41](#o41)</sup>. Since 2026 the permit can be issued urgently for an extra fee <sup>[N64](#n64)</sup>. If the portal returns the application for corrections, the 5-working-day review starts again once they are made <sup>[8](#o8)</sup>. The approved permit, with its QR code, appears in the employer's account <sup>[N54](#n54)</sup>.
 
    **If it is refused:** the reasons are not explained, and the refusal can be challenged in court <sup>[25](#o25)</sup>. A permit is annulled for false information, a crime, a dangerous disease, a security threat or terrorist links <sup>[N3](#n3)</sup>.
 
-**What you get back:** a copy of the Unified Permit with its QR code, and the 8-character reference number of the application ([Step 5: The work visa, and checking it is real](#step-5-the-work-visa-and-checking-it-is-real)) <sup>[N53](#n53), [57](#o57)</sup>.
+**What you get back:** a copy of the Unified Permit with its QR code, and the 8-character reference number of the application ([Step 5: The work visa, and checking it is real](#step-5-the-work-visa-and-checking-it-is-real)) <sup>[N54](#n54), [57](#o57)</sup>.
 
 <a id="step-4-passport-police-clearance-and-certificates"></a>
 
@@ -635,7 +636,7 @@ There is no visa sticker to collect: the Unified Permit is itself the electronic
 
 1. <a id="work-visa-company-worker-item-1"></a>**On the portal.** On [evisa.e-gov.kg](https://www.evisa.e-gov.kg/) open Services, then Check status, and enter the reference number: it shows the status of the application <sup>[57](#o57), [71](#o71)</sup>.
 2. <a id="step-5-the-work-visa-and-checking-it-is-real-item-2"></a>**The QR code.** The permit carries a QR code that can be read <sup>[8](#o8)</sup>.
-3. <a id="step-5-the-work-visa-and-checking-it-is-real-item-3"></a>**The details.** Your name and passport number, the employer, the type of work, the position and the period must match what you were promised; a permit from a different company is not the same job, and it cannot be moved to another employer <sup>[N62](#n62), [25](#o25)</sup>.
+3. <a id="step-5-the-work-visa-and-checking-it-is-real-item-3"></a>**The details.** Your name and passport number, the employer, the type of work, the position and the period must match what you were promised; a permit from a different company is not the same job, and it cannot be moved to another employer <sup>[N63](#n63), [25](#o25)</sup>.
 4. <a id="step-5-the-work-visa-and-checking-it-is-real-item-4"></a>**Ask the MFA directly.** Visa Center hotline (WhatsApp): +996703428865; Consular Department 24-hour hotline: +996999312002; e-visa@mfa.gov.kg; 10 Togolok-Moldo Street, Bishkek; Monday to Friday, 9 am to 6 pm <sup>[72](#o72)</sup>. You can send this message <sup>[57](#o57), [24](#o24)</sup>:
 
    "I am [name], Bangladeshi passport [number]. My employer [company name] applied for a Unified Permit for me, reference [code]. Please confirm it is approved, for which employer and position, and until what date."
@@ -646,7 +647,7 @@ There is no visa sticker to collect: the Unified Permit is itself the electronic
 
 **If any check fails:** don't travel; complain as in [Step 1, item 9: If an agency or broker takes your money](#step-1-find-a-real-job-item-9) <sup>[8](#o8), [4](#o4)</sup>.
 
-**Scams:** the GKNB (State Committee for National Security, Kyrgyzstan's security service) tells foreigners and employers to apply for permits only through the MFA's portal <sup>[N43](#n43)</sup>. The old ework.e-gov.kg portal closed for quota and permit applications on 25 December 2024, so a quota letter from it is out of date <sup>[N78 (2024)](#n78)</sup>. In 2024 Jannat Trade International handed out visas of which Dhaka airport immigration found no online record (see [Done to workers](#done-to-workers)) <sup>[N10 (2024)](#n10)</sup>.
+**Scams:** the GKNB (State Committee for National Security, Kyrgyzstan's security service) tells foreigners and employers to apply for permits only through the MFA's portal <sup>[N44](#n44)</sup>. The old ework.e-gov.kg portal closed for quota and permit applications on 25 December 2024, so a quota letter from it is out of date <sup>[N79 (2024)](#n79)</sup>. In 2024 Jannat Trade International handed out visas of which Dhaka airport immigration found no online record (see [Done to workers](#done-to-workers)) <sup>[N10 (2024)](#n10)</sup>.
 
 <a id="step-6-orientation-bmet-clearance-and-the-flight"></a>
 
@@ -669,30 +670,30 @@ There is no visa sticker to collect: the Unified Permit is itself the electronic
    - clearance (smart card) fee: Tk 250 <sup>[4](#o4)</sup>;
    - source tax: Tk 1,200 (skilled) or Tk 800 (unskilled) on a group visa; Tk 400 on an unattested single visa, Tk 250 on an attested one <sup>[4](#o4)</sup>.
 
-   **Check it is real** at [portal.wewb.gov.bd/bmet-wewbm-check](https://portal.wewb.gov.bd/bmet-wewbm-check) with your passport number or membership ID and the captcha <sup>[75](#o75)</sup>. The Welfare Board's desks at Dhaka, Chattogram and Sylhet airports check departing workers' smart cards <sup>[4](#o4)</sup>. In the Jannat Trade case, immigration at Dhaka airport found the visa, ticket and BMET card fake <sup>[N49](#n49)</sup>.
+   **Check it is real** at [portal.wewb.gov.bd/bmet-wewbm-check](https://portal.wewb.gov.bd/bmet-wewbm-check) with your passport number or membership ID and the captcha <sup>[75](#o75)</sup>. The Welfare Board's desks at Dhaka, Chattogram and Sylhet airports check departing workers' smart cards <sup>[4](#o4)</sup>. In the Jannat Trade case, immigration at Dhaka airport found the visa, ticket and BMET card fake <sup>[N50](#n50)</sup>.
 
    **If it fails:** BMET's Director (Emigration), +8802222222415, 01711-135901, diremi@bmet.gov.bd <sup>[4](#o4)</sup>.
 
    > **Need to know**
    > - In 2026, does BMET's emigration branch clear a worker who shows a printed Kyrgyz Unified Permit, and does it treat it as a group or single visa?
 
-3. <a id="step-6-orientation-bmet-clearance-and-the-flight-item-3"></a>**The flight.** Never route through Dubai on a visit visa at a broker's suggestion: the CID describes that as the trafficking syndicates' route to Kyrgyzstan <sup>[N49](#n49)</sup>. A 2022 group of workers flew Dhaka-Dubai-Bishkek <sup>[N55 (2022)](#n55)</sup>.
+3. <a id="step-6-orientation-bmet-clearance-and-the-flight-item-3"></a>**The flight.** Never route through Dubai on a visit visa at a broker's suggestion: the CID describes that as the trafficking syndicates' route to Kyrgyzstan <sup>[N50](#n50)</sup>. A 2022 group of workers flew Dhaka-Dubai-Bishkek <sup>[N56 (2022)](#n56)</sup>.
 
    > **Need to know**
    > - Which airlines and transit points do Kyrgyzstan-bound workers use in 2026, does the transit airport ask for anything, and what does a one-way ticket cost?
 
-4. <a id="step-6-orientation-bmet-clearance-and-the-flight-item-4"></a>**Before you fly,** keep one set of copies at home and at least 3 with you, open at least 2 bank accounts (one yours, one a family member's), and never carry a packet whose contents you don't know <sup>[40](#o40)</sup>. Bangladesh has no embassy in Kyrgyzstan; save the numbers of the Embassy in Tashkent, Uzbekistan, which covers it: +99871 2556520, +99871 2551971, +99878 1209101 (see [The Bangladesh Embassy in Tashkent](#the-bangladesh-embassy-in-tashkent)) <sup>[N79 (2024)](#n79), [76](#o76)</sup>.
+4. <a id="step-6-orientation-bmet-clearance-and-the-flight-item-4"></a>**Before you fly,** keep one set of copies at home and at least 3 with you, open at least 2 bank accounts (one yours, one a family member's), and never carry a packet whose contents you don't know <sup>[40](#o40)</sup>. Bangladesh has no embassy in Kyrgyzstan; save the numbers of the Embassy in Tashkent, Uzbekistan, which covers it: +99871 2556520, +99871 2551971, +99878 1209101 (see [The Bangladesh Embassy in Tashkent](#the-bangladesh-embassy-in-tashkent)) <sup>[N80 (2024)](#n80), [76](#o76)</sup>.
 
 <a id="step-7-after-arrival"></a>
 
 ### 3.7 Step 7: After arrival
 
-The first Unified Permit lasts up to 60 days; get registered at your address as soon as you arrive, and before the permit ends you or the employer that invited you applies for a resident card to extend your stay <sup>[N63](#n63), [77](#o77), [9](#o9)</sup>.
+The first Unified Permit lasts up to 60 days; get registered at your address as soon as you arrive, and before the permit ends you or the employer that invited you applies for a resident card to extend your stay <sup>[N64](#n64), [77](#o77), [9](#o9)</sup>.
 
 > **Need to know**
 > - Is there a Bangladeshi community association in Bishkek that helps new arrivals and stranded workers, and who runs it?
 
-1. <a id="step-7-after-arrival-item-1"></a>**Get registered at your address at once.** Bangladesh is not on the list of 92 countries whose citizens get a registration-free period, and you must register within 5 working days of entry <sup>[77](#o77), [8](#o8)</sup>. Whoever invites you must arrange your registration, and an employer that gives you company housing must register you <sup>[N44](#n44), [78](#o78)</sup>. You need not go to the office yourself unless the system has no record of your border crossing; registration is made on the passport you entered with <sup>[78](#o78)</sup>. The rules are in Cabinet Resolution No. 600 of 4 September 2026, and decree No. 337 moved registration from Kyzmat, the state service agency, to the Ministry of Labour <sup>[77](#o77), [11](#o11)</sup>.
+1. <a id="step-7-after-arrival-item-1"></a>**Get registered at your address at once.** Bangladesh is not on the list of 92 countries whose citizens get a registration-free period, and you must register within 5 working days of entry <sup>[77](#o77), [8](#o8)</sup>. Whoever invites you must arrange your registration, and an employer that gives you company housing must register you <sup>[N45](#n45), [78](#o78)</sup>. You need not go to the office yourself unless the system has no record of your border crossing; registration is made on the passport you entered with <sup>[78](#o78)</sup>. The rules are in Cabinet Resolution No. 600 of 4 September 2026, and decree No. 337 moved registration from Kyzmat, the state service agency, to the Ministry of Labour <sup>[77](#o77), [11](#o11)</sup>.
 
    You'll need <sup>[78](#o78)</sup>:
 
@@ -703,7 +704,7 @@ The first Unified Permit lasts up to 60 days; get registered at your address as 
    - if the host does not own the flat or hostel, the owner's notarised consent;
    - a receipt for the state duty and registration fee.
 
-   1. The host applies through the ESUVM (Unified External Migration Accounting System) at any office of the population registration service, on the Online Registration of Foreign Citizens website, or in its mobile app <sup>[78](#o78)</sup>. Kyzmat ran Service Centres for Foreign Citizens in Bishkek at 121 Jumabek Street (Wedding Palace building) and in Osh at 211 Kurmanjan Datka Street, Monday to Friday, 9:00 to 18:00 <sup>[N80](#n80)</sup>.
+   1. The host applies through the ESUVM (Unified External Migration Accounting System) at any office of the population registration service, on the Online Registration of Foreign Citizens website, or in its mobile app <sup>[78](#o78)</sup>. Kyzmat ran Service Centres for Foreign Citizens in Bishkek at 121 Jumabek Street (Wedding Palace building) and in Osh at 211 Kurmanjan Datka Street, Monday to Friday, 9:00 to 18:00 <sup>[N81](#n81)</sup>.
    2. The host pays the state duty and fee within 3 working days of getting the payment code, or the application is deleted; a fee is not refunded if registration is refused <sup>[78](#o78)</sup>.
    3. An office registers you in 1 working day; an online application takes 3 working days, or 1 if urgent <sup>[78](#o78)</sup>. You get a registration slip, on paper or electronic, with a QR code that shows the registration <sup>[78](#o78)</sup>.
 
@@ -714,7 +715,7 @@ The first Unified Permit lasts up to 60 days; get registered at your address as 
    > - How much are the registration state duty and fee for a worker in 2026?
    > - Do employers in practice register Bangladeshi workers, or leave it to them?
 
-2. <a id="step-7-after-arrival-item-2"></a>**Get the medical papers for the resident card.** A resident card, and a long-term special work visa (type SW1 or SW2), needs a certificate of no HIV antibodies from the Republican Centre for control of blood-borne hepatitis and HIV, a medical certificate on form 086/U (форма 086/У) and a compulsory medical insurance policy <sup>[41](#o41), [9](#o9)</sup>. Under the pre-2025 rules the HIV certificate came from the Republican AIDS Center, 8 Logvinenko Street, Bishkek <sup>[79](#o79)</sup>. In March 2026 the GKNB broke up a Bishkek scheme selling form 086 certificates without any examination, used to extend the stay of mainly Pakistanis and Bangladeshis <sup>[N48](#n48)</sup>.
+2. <a id="step-7-after-arrival-item-2"></a>**Get the medical papers for the resident card.** A resident card, and a long-term special work visa (type SW1 or SW2), needs a certificate of no HIV antibodies from the Republican Centre for control of blood-borne hepatitis and HIV, a medical certificate on form 086/U (форма 086/У) and a compulsory medical insurance policy <sup>[41](#o41), [9](#o9)</sup>. Under the pre-2025 rules the HIV certificate came from the Republican AIDS Center, 8 Logvinenko Street, Bishkek <sup>[79](#o79)</sup>. In March 2026 the GKNB broke up a Bishkek scheme selling form 086 certificates without any examination, used to extend the stay of mainly Pakistanis and Bangladeshis <sup>[N49](#n49)</sup>.
 
    > **Need to know**
    > - Where in Bishkek and Jalal-Abad do Bangladeshi workers get the HIV test, form 086/U and the insurance policy, what does each cost, and who pays?
@@ -728,12 +729,12 @@ The first Unified Permit lasts up to 60 days; get registered at your address as 
 
 5. <a id="step-7-after-arrival-item-5"></a>**Note your taxpayer number.** A resident card holder is given an INN (ИНН, the taxpayer identification number); tax on your pay is in Your rights at work <sup>[N2](#n2)</sup>.
 
-6. <a id="step-7-after-arrival-item-6"></a>**Buy a SIM card with your passport.** Register the number to your passport in the operator's app, or, if you can't or have a button phone, at the operator's sales office with your passport <sup>[N81 (2024)](#n81)</sup>. Until it is registered the SIM only calls the operator and gives enough internet to download its app <sup>[N81 (2024)](#n81)</sup>.
+6. <a id="step-7-after-arrival-item-6"></a>**Buy a SIM card with your passport.** Register the number to your passport in the operator's app, or, if you can't or have a button phone, at the operator's sales office with your passport <sup>[N82 (2024)](#n82)</sup>. Until it is registered the SIM only calls the operator and gives enough internet to download its app <sup>[N82 (2024)](#n82)</sup>.
 
 > **Need to know**
 > - Which mobile operator do Bangladeshi workers in Kyrgyzstan use, and what do a SIM and a monthly package cost?
 
-7. <a id="step-7-after-arrival-item-7"></a>**Keep your papers valid and on you.** Working without the required permit leads to expulsion (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[N44](#n44)</sup>. Raids on 1-10 June 2026 at building sites and sewing workshops produced 922 offence reports against foreigners <sup>[N82](#n82)</sup>.
+7. <a id="step-7-after-arrival-item-7"></a>**Keep your papers valid and on you.** Working without the required permit leads to expulsion (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[N45](#n45)</sup>. Raids on 1-10 June 2026 at building sites and sewing workshops produced 922 offence reports against foreigners <sup>[N83](#n83)</sup>.
 
 <a id="scams"></a>
 
@@ -743,13 +744,13 @@ The first Unified Permit lasts up to 60 days; get registered at your address as 
 
 #### 3.8.1 Done to workers
 
-- **The visa with no job.** A Bangladeshi who came in July 2025 on a work visa bought from intermediaries for USD 5,000 (about Tk 6.2 lakh) found no work and had no money for a ticket home <sup>[N11](#n11), [2](#o2)</sup>. In 2025, Facebook pages, WhatsApp groups and YouTube channels drew recruits with Central Asian jobs, naming employers who did not know their names were used; arrivals found no jobs, contracts or sponsors <sup>[N50](#n50)</sup>. Check the permit yourself ([Step 5: The work visa, and checking it is real](#step-5-the-work-visa-and-checking-it-is-real)) <sup>[57](#o57)</sup>.
-- **The unlicensed office with tourist visas.** In 2024 Jannat Trade International, an office in Naya Paltan, Dhaka, with only a tours and travel licence, advertised car-wash jobs in Kyrgyzstan on YouTube at Tk 60,000-65,000 a month and took Tk 5 lakh for a visa, ticket and BMET card <sup>[N10 (2024)](#n10), [N49](#n49)</sup>. It filmed people receiving visas at its office for its YouTube channel <sup>[N10 (2024)](#n10)</sup>. At Dhaka airport the papers proved fake, and the six people it did send went on 59-day tourist visas and got no jobs <sup>[N49](#n49), [N35 (2024)](#n35)</sup>. The CID's counter-trafficking unit arrested the owner and two associates <sup>[N10 (2024)](#n10), [N49](#n49)</sup>.
+- **The visa with no job.** A Bangladeshi who came in July 2025 on a work visa bought from intermediaries for USD 5,000 (about Tk 6.2 lakh) found no work and had no money for a ticket home <sup>[N11](#n11), [2](#o2)</sup>. In 2025, Facebook pages, WhatsApp groups and YouTube channels drew recruits with Central Asian jobs, naming employers who did not know their names were used; arrivals found no jobs, contracts or sponsors <sup>[N51](#n51)</sup>. Check the permit yourself ([Step 5: The work visa, and checking it is real](#step-5-the-work-visa-and-checking-it-is-real)) <sup>[57](#o57)</sup>.
+- **The unlicensed office with tourist visas.** In 2024 Jannat Trade International, an office in Naya Paltan, Dhaka, with only a tours and travel licence, advertised car-wash jobs in Kyrgyzstan on YouTube at Tk 60,000-65,000 a month and took Tk 5 lakh for a visa, ticket and BMET card <sup>[N10 (2024)](#n10), [N50](#n50)</sup>. It filmed people receiving visas at its office for its YouTube channel <sup>[N10 (2024)](#n10)</sup>. At Dhaka airport the papers proved fake, and the six people it did send went on 59-day tourist visas and got no jobs <sup>[N50](#n50), [N35 (2024)](#n35)</sup>. The CID's counter-trafficking unit arrested the owner and two associates <sup>[N10 (2024)](#n10), [N50](#n50)</sup>.
 - **The visa that ends on arrival.** A Lalmonirhat welder who reached Bishkek on 3 June 2024 found his visa expired the next day; he worked seven months unpaid and served three months in jail <sup>[N17](#n17)</sup>.
-- **Sold to an employer.** In 2022 a worker with a valid visa, work permit and BMET card said the recruiting agency had sold his group to a garment factory owner, who would let them leave only if they paid him back ([Step 1, item 3: Through a Bangladeshi recruiting agency: check the licence and the approval](#step-1-find-a-real-job-item-3)) <sup>[N9 (2022)](#n9)</sup>. One was paid Tk 10,000 in his first month, of which the employer kept Tk 7,000, saying he had paid the broker <sup>[N51 (2022)](#n51)</sup>.
-- **A different job, and the passport taken.** A 2022 group sent to sew was made to work on a building site and tend livestock, and the shop owner took their passports "for registration" and kept them <sup>[N55 (2022)](#n55)</sup>. In June 2024 a sewing-shop owner near Bishkek and a district police officer took workers' passports, withheld wages and threatened them with prison for illegal stay; both were detained <sup>[N83 (2024)](#n83)</sup>.
-- **"Legalisation" in Bishkek.** In 2025 the GKNB arrested a Bangladeshi who took USD 66,500 (about Tk 82.7 lakh) from fellow Bangladeshis for papers to stay legally and gave them forged permits; more than 120 passports with expired documents were seized <sup>[N84](#n84), [2](#o2)</sup>.
-- **"Europe through Kyrgyzstan."** See What people believe, and the facts <sup>[N67](#n67), [N18 (2023)](#n18)</sup>.
+- **Sold to an employer.** In 2022 a worker with a valid visa, work permit and BMET card said the recruiting agency had sold his group to a garment factory owner, who would let them leave only if they paid him back ([Step 1, item 3: Through a Bangladeshi recruiting agency: check the licence and the approval](#step-1-find-a-real-job-item-3)) <sup>[N9 (2022)](#n9)</sup>. One was paid Tk 10,000 in his first month, of which the employer kept Tk 7,000, saying he had paid the broker <sup>[N52 (2022)](#n52)</sup>.
+- **A different job, and the passport taken.** A 2022 group sent to sew was made to work on a building site and tend livestock, and the shop owner took their passports "for registration" and kept them <sup>[N56 (2022)](#n56)</sup>. In June 2024 a sewing-shop owner near Bishkek and a district police officer took workers' passports, withheld wages and threatened them with prison for illegal stay; both were detained <sup>[N84 (2024)](#n84)</sup>.
+- **"Legalisation" in Bishkek.** In 2025 the GKNB arrested a Bangladeshi who took USD 66,500 (about Tk 82.7 lakh) from fellow Bangladeshis for papers to stay legally and gave them forged permits; more than 120 passports with expired documents were seized <sup>[N85](#n85), [2](#o2)</sup>.
+- **"Europe through Kyrgyzstan."** See What people believe, and the facts <sup>[N68](#n68), [N18 (2023)](#n18)</sup>.
 
 Complain in Bangladesh as in [Step 1, item 9: If an agency or broker takes your money](#step-1-find-a-real-job-item-9) <sup>[4](#o4)</sup>.
 
@@ -760,8 +761,8 @@ Complain in Bangladesh as in [Step 1, item 9: If an agency or broker takes your 
 
 #### 3.8.2 Tried by workers
 
-- **Working on a tourist or business visa.** Staying for a purpose other than the one declared on entry is fined 100 RP (10,000 som, about Tk 14,200); in May 2025, 46 foreigners found working on tourist visas on a Bishkek building site were each fined 10,000 som <sup>[26](#o26), [N74](#n74), [N69](#n69), [1](#o1), [N85](#n85)</sup>.
-- **Forged or bought papers.** Using a document you know is forged is punished with a fine of 500 to 1,000 RP or 2 to 5 years in prison; RP is the unit fines are set in, and a 100 RP fine is 10,000 som <sup>[50](#o50), [26](#o26), [N74](#n74)</sup>. False information in an application gets a visa refused and a Unified Permit annulled <sup>[27](#o27), [N3](#n3)</sup>.
+- **Working on a tourist or business visa.** Staying for a purpose other than the one declared on entry is fined 100 RP (10,000 som, about Tk 14,200); in May 2025, 46 foreigners found working on tourist visas on a Bishkek building site were each fined 10,000 som <sup>[26](#o26), [N75](#n75), [N70](#n70), [1](#o1), [N86](#n86)</sup>.
+- **Forged or bought papers.** Using a document you know is forged is punished with a fine of 500 to 1,000 RP or 2 to 5 years in prison; RP is the unit fines are set in, and a 100 RP fine is 10,000 som <sup>[50](#o50), [26](#o26), [N75](#n75)</sup>. False information in an application gets a visa refused and a Unified Permit annulled <sup>[27](#o27), [N3](#n3)</sup>.
 - **Walking out for taxi or delivery work.** No work visa has been issued for taxi or delivery work, so every foreigner doing it works illegally <sup>[N34](#n34)</sup>. Once an employer reports to the police that you left without notice, no other employer may hire you <sup>[25](#o25)</sup>. What follows is in What can get you jailed or deported <sup>[27](#o27)</sup>.
 - **Crossing into Kazakhstan without papers.** Illegal border crossing is punished with 1 to 3 years' corrective labour, a fine of 500 to 1,000 RP or up to 2 years in prison (see [Irregular routes and undocumented workers](#irregular-routes-and-undocumented-workers)) <sup>[50](#o50)</sup>.
 
@@ -790,7 +791,7 @@ The Labour Code of the Kyrgyz Republic covers foreigners working for organisatio
 
 **Pay**
 
-- At least the legal minimum wage <sup>[45](#o45)</sup>: 3,280 som (KGS, the Kyrgyz currency; about Tk 4,700) a month in 2026, the pay for unskilled work over a full month of normal hours <sup>[44](#o44), [1](#o1)</sup>. The budget law sets 3,608 som (about Tk 5,100) for 2027 <sup>[44](#o44), [1](#o1)</sup>; in October 2026 the government proposed raising it to 9,800 som (about Tk 13,900), which parliament has to pass <sup>[N86](#n86), [1](#o1)</sup>. Kyrgyzstan also sets minimum pay for foreign workers by region and sector <sup>[N3](#n3)</sup>.
+- At least the legal minimum wage <sup>[45](#o45)</sup>: 3,280 som (KGS, the Kyrgyz currency; about Tk 4,700) a month in 2026, the pay for unskilled work over a full month of normal hours <sup>[44](#o44), [1](#o1)</sup>. The budget law sets 3,608 som (about Tk 5,100) for 2027 <sup>[44](#o44), [1](#o1)</sup>; in October 2026 the government proposed raising it to 9,800 som (about Tk 13,900), which parliament has to pass <sup>[N87](#n87), [1](#o1)</sup>. Kyrgyzstan also sets minimum pay for foreign workers by region and sector <sup>[N3](#n3)</sup>.
 - In money, in som: pay in IOUs, receipts or food or goods coupons is banned <sup>[45](#o45)</sup>.
 - At least once a month, by bank transfer, not cash; this applies to companies and to individual entrepreneurs who employ foreigners, and the wage goes onto your bank card <sup>[45](#o45), [25](#o25)</sup>.
 - With each payment, a written statement of every part of your wage and the size and reason of every deduction (a payslip) <sup>[45](#o45)</sup>.
@@ -798,7 +799,7 @@ The Labour Code of the Kyrgyz Republic covers foreigners working for organisatio
 
 **Deductions**
 
-Only in the cases the Labour Code or another law allows, and all together at most 20% of each payment (50% where a law allows) <sup>[45](#o45)</sup>. In 2022 one Bangladeshi got Tk 10,000 for his first month, of which the employer kept Tk 7,000, saying he had paid the broker to bring the workers <sup>[N87 (2022)](#n87)</sup>. Garment workers told by the broker they would earn Tk 52,000 a month were paid by the number of pieces sewn <sup>[N59 (2022)](#n59)</sup>.
+Only in the cases the Labour Code or another law allows, and all together at most 20% of each payment (50% where a law allows) <sup>[45](#o45)</sup>. In 2022 one Bangladeshi got Tk 10,000 for his first month, of which the employer kept Tk 7,000, saying he had paid the broker to bring the workers <sup>[N88 (2022)](#n88)</sup>. Garment workers told by the broker they would earn Tk 52,000 a month were paid by the number of pieces sewn <sup>[N60 (2022)](#n60)</sup>.
 
 > **Need to know**
 > - Do employers deduct food, housing or "visa cost" from Bangladeshi workers' pay, and how much?
@@ -807,9 +808,9 @@ Only in the cases the Labour Code or another law allows, and all together at mos
 
 #### 3.9.3 Tax and deductions from your pay
 
-Income tax is 10% <sup>[46](#o46)</sup>. When a company or an individual entrepreneur employs a foreigner, the employer, as tax agent, must take the income tax out of your pay and pay it, with every other compulsory payment, to the State Tax Service <sup>[N88](#n88)</sup>. Contributions to the Social Fund (the state social insurance fund) are also charged on foreign employees' pay, at main rates of 27.25% or 12.25%, of which 10% comes out of your pay and the rest is paid by the employer <sup>[46](#o46)</sup>. For garment workers, the State Tax Service said in March 2026 that it had cut the compulsory payments per worker (income tax and social insurance together) from 5,500 to 9,500 som (about Tk 7,800 to 13,500) to a single 2,500 som (about Tk 3,560) <sup>[N89](#n89), [1](#o1)</sup>.
+Income tax is 10% <sup>[46](#o46)</sup>. When a company or an individual entrepreneur employs a foreigner, the employer, as tax agent, must take the income tax out of your pay and pay it, with every other compulsory payment, to the State Tax Service <sup>[N89](#n89)</sup>. Contributions to the Social Fund (the state social insurance fund) are also charged on foreign employees' pay, at main rates of 27.25% or 12.25%, of which 10% comes out of your pay and the rest is paid by the employer <sup>[46](#o46)</sup>. For garment workers, the State Tax Service said in March 2026 that it had cut the compulsory payments per worker (income tax and social insurance together) from 5,500 to 9,500 som (about Tk 7,800 to 13,500) to a single 2,500 som (about Tk 3,560) <sup>[N90](#n90), [1](#o1)</sup>.
 
-Unpaid tax can cost you the permit: the Unified Permit (Единое разрешение, the electronic document that is both work visa and work permit) can be refused or cancelled when no tax has been paid for 3 months or more, and the resident card (резидент-карта, the card that replaces it after the first 60 days) when tax and social contributions go unpaid for 3 months or more <sup>[25](#o25), [N63](#n63)</sup>. Check your payslip shows both ([Pay and deductions](#pay-and-deductions)) <sup>[45](#o45)</sup>.
+Unpaid tax can cost you the permit: the Unified Permit (Единое разрешение, the electronic document that is both work visa and work permit) can be refused or cancelled when no tax has been paid for 3 months or more, and the resident card (резидент-карта, the card that replaces it after the first 60 days) when tax and social contributions go unpaid for 3 months or more <sup>[25](#o25), [N64](#n64)</sup>. Check your payslip shows both ([Pay and deductions](#pay-and-deductions)) <sup>[45](#o45)</sup>.
 
 > **Need to know**
 > - How much income tax and Social Fund contribution is actually taken each month from a Bangladeshi garment or construction worker's pay?
@@ -834,7 +835,7 @@ Unpaid tax can cost you the permit: the Unified Permit (Единое разре�
 
 #### 3.9.5 Housing, food and health care
 
-Unless you agree otherwise in writing, the side that invites you bears your keep and medical care <sup>[27](#o27), [N44](#n44)</sup>. Whether housing, food and treatment are yours to pay therefore depends on the contract ([Work visa: company worker](#work-visa-company-worker), [Step 2: The job offer and contract](#step-2-the-job-offer-and-contract)) <sup>[N44](#n44)</sup>. The director of Legprom, the garment employers' association, says some employers break their contracts by not providing housing <sup>[N28](#n28)</sup>.
+Unless you agree otherwise in writing, the side that invites you bears your keep and medical care <sup>[27](#o27), [N45](#n45)</sup>. Whether housing, food and treatment are yours to pay therefore depends on the contract ([Work visa: company worker](#work-visa-company-worker), [Step 2: The job offer and contract](#step-2-the-job-offer-and-contract)) <sup>[N45](#n45)</sup>. The director of Legprom, the garment employers' association, says some employers break their contracts by not providing housing <sup>[N28](#n28)</sup>.
 
 > **Need to know**
 > - Where does a sick Bangladeshi worker get treated in Bishkek, and what does it cost without insurance?
@@ -843,7 +844,7 @@ Unless you agree otherwise in writing, the side that invites you bears your keep
 
 #### 3.9.6 Your passport
 
-Taking someone's passport as security, or otherwise unlawfully, is fined 30 RP (about Tk 4,300) for a person or 130 RP (about Tk 18,500) for a company <sup>[26](#o26), [1](#o1)</sup>. RP (расчетный показатель, the calculation unit) is the unit Kyrgyz fines are set in; a 100 RP fine is 10,000 som, so 1 RP is about Tk 142 <sup>[26](#o26), [N74](#n74), [1](#o1)</sup>. Many South Asians brought on ordinary visas have had their passports taken <sup>[N13 (2024)](#n13)</sup>. In June 2024 a sewing-shop owner near Bishkek and a district police officer who took South Asian workers' passports, held back their wages and threatened them with prison were detained <sup>[N83 (2024)](#n83)</sup>. If yours is taken, use the routes under If you aren't paid <sup>[45](#o45), [N85](#n85)</sup>.
+Taking someone's passport as security, or otherwise unlawfully, is fined 30 RP (about Tk 4,300) for a person or 130 RP (about Tk 18,500) for a company <sup>[26](#o26), [1](#o1)</sup>. RP (расчетный показатель, the calculation unit) is the unit Kyrgyz fines are set in; a 100 RP fine is 10,000 som, so 1 RP is about Tk 142 <sup>[26](#o26), [N75](#n75), [1](#o1)</sup>. Many South Asians brought on ordinary visas have had their passports taken <sup>[N13 (2024)](#n13)</sup>. In June 2024 a sewing-shop owner near Bishkek and a district police officer who took South Asian workers' passports, held back their wages and threatened them with prison were detained <sup>[N84 (2024)](#n84)</sup>. If yours is taken, use the routes under If you aren't paid <sup>[45](#o45), [N86](#n86)</sup>.
 
 > **Need to know**
 > - Does the passport fine (Code of Offences, Article 137) cover a foreigner's passport, or only a Kyrgyz citizen's?
@@ -870,11 +871,11 @@ What you get back: after 10 years of unbroken payments, a monthly pension into y
 
 #### 3.10.1 How long you can stay
 
-- **Unified Permit:** the first one lasts up to 60 days <sup>[N63](#n63), [9](#o9)</sup>.
-- **Resident card:** up to 1 year, renewable; it lets you live and work for up to 360 days at a time <sup>[N2](#n2), [N90](#n90), [9](#o9)</sup>.
+- **Unified Permit:** the first one lasts up to 60 days <sup>[N64](#n64), [9](#o9)</sup>.
+- **Resident card:** up to 1 year, renewable; it lets you live and work for up to 360 days at a time <sup>[N2](#n2), [N91](#n91), [9](#o9)</sup>.
 - **Your address registration** lasts as long as the permit or card ([Work visa: company worker](#work-visa-company-worker), [Step 7: After arrival](#step-7-after-arrival)) <sup>[78](#o78)</sup>.
 
-The law requires labour migrants to keep a permanent home outside Kyrgyzstan <sup>[N44](#n44)</sup>.
+The law requires labour migrants to keep a permanent home outside Kyrgyzstan <sup>[N45](#n45)</sup>.
 
 > **Need to know**
 > - Is there a limit on how many years a worker can keep renewing a resident card?
@@ -883,12 +884,12 @@ The law requires labour migrants to keep a permanent home outside Kyrgyzstan <su
 
 #### 3.10.2 Renewing
 
-1. <a id="renewing-item-1"></a>**The employer applies, online, before the current document runs out.** Renewal is filed by the inviting party that applied before, and you need not appear in person <sup>[9](#o9), [N2](#n2)</sup>. Under the 2025 rules (Resolution No. 367) it had to be filed at least 10 working days before expiry <sup>[N3](#n3), [N53](#n53)</sup>. Arranging your stay documents is the employer's duty ([Work visa: company worker](#work-visa-company-worker), [Step 3: The employer gets your work permit](#step-3-the-employer-gets-your-work-permit)) <sup>[N44](#n44)</sup>.
+1. <a id="renewing-item-1"></a>**The employer applies, online, before the current document runs out.** Renewal is filed by the inviting party that applied before, and you need not appear in person <sup>[9](#o9), [N2](#n2)</sup>. Under the 2025 rules (Resolution No. 367) it had to be filed at least 10 working days before expiry <sup>[N3](#n3), [N54](#n54)</sup>. Arranging your stay documents is the employer's duty ([Work visa: company worker](#work-visa-company-worker), [Step 3: The employer gets your work permit](#step-3-the-employer-gets-your-work-permit)) <sup>[N45](#n45)</sup>.
 2. <a id="renewing-item-2"></a>**Keep your passport valid:** a Kyrgyz visa needs a passport valid at least 6 months beyond the visa, with 2 free pages <sup>[8](#o8)</sup>. For a new passport, the Bangladesh Embassy in Tashkent charges workers USD 33 (about Tk 4,100) for a 48-page, 5-year e-passport and USD 55 (about Tk 6,800) for 10 years, and has taken applications from Bangladeshis living in Kyrgyzstan (see [The Bangladesh Embassy in Tashkent](#the-bangladesh-embassy-in-tashkent)) <sup>[82](#o82), [68](#o68), [2](#o2)</sup>.
-3. <a id="renewing-item-3"></a>**Wait up to 10 working days** for the decision <sup>[9](#o9), [N75](#n75)</sup>.
+3. <a id="renewing-item-3"></a>**Wait up to 10 working days** for the decision <sup>[9](#o9), [N76](#n76)</sup>.
 4. <a id="renewing-item-4"></a>**Check the new card:** scan its QR code and read the end date <sup>[N2](#n2)</sup>.
 
-**If it is refused or cut short:** no reasons are given, and a refusal or cancellation can be challenged in court <sup>[9](#o9), [N75](#n75)</sup>. The police or the GKNB (State Committee for National Security) can shorten a card for breaking the rules of stay <sup>[25](#o25)</sup>. You then get an exit visa (type L), valid up to 10 days, to leave <sup>[8](#o8)</sup>.
+**If it is refused or cut short:** no reasons are given, and a refusal or cancellation can be challenged in court <sup>[9](#o9), [N76](#n76)</sup>. The police or the GKNB (State Committee for National Security) can shorten a card for breaking the rules of stay <sup>[25](#o25)</sup>. You then get an exit visa (type L), valid up to 10 days, to leave <sup>[8](#o8)</sup>.
 
 **If the employer lets your papers lapse,** it is fined, from 10 RP (individual) or 55 RP (company) for up to a month up to 125 or 300 RP for over a year <sup>[26](#o26)</sup>. You are fined too, and can be expelled ([What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[26](#o26), [27](#o27)</sup>.
 
@@ -917,8 +918,8 @@ The law requires labour migrants to keep a permanent home outside Kyrgyzstan <su
 
 #### 3.10.4 Permanent residence and citizenship
 
-- **Temporary residence permit (вид на жительство):** for a foreigner staying over six months with a legal income, including work under a contract with a work permit; up to one year, renewable yearly for up to five years <sup>[N44](#n44)</sup>. Kyzmat, the state agency that registers foreigners, has issued it at its Service Centres for Foreign Citizens: 121 Jumabek Street, Bishkek (Wedding Palace building), and 211 Kurmanjan Datka Street, Osh; Monday to Friday, 9:00 to 18:00 <sup>[N80](#n80), [11](#o11)</sup>. Decree No. 337 moves residence permits, registration and citizenship matters from Kyzmat to a new Department for Migration Affairs in the Ministry of Labour, Social Security and Migration <sup>[11](#o11)</sup>.
-- **Immigrant (permanent) status:** decided within a yearly immigration quota, 400 people for 2026, within nine months, and needs a permanent source of income <sup>[N44](#n44), [N91](#n91)</sup>. Draft amendments of April 2026 proposed dropping this stage <sup>[N92](#n92)</sup>.
+- **Temporary residence permit (вид на жительство):** for a foreigner staying over six months with a legal income, including work under a contract with a work permit; up to one year, renewable yearly for up to five years <sup>[N45](#n45)</sup>. Kyzmat, the state agency that registers foreigners, has issued it at its Service Centres for Foreign Citizens: 121 Jumabek Street, Bishkek (Wedding Palace building), and 211 Kurmanjan Datka Street, Osh; Monday to Friday, 9:00 to 18:00 <sup>[N81](#n81), [11](#o11)</sup>. Decree No. 337 moves residence permits, registration and citizenship matters from Kyzmat to a new Department for Migration Affairs in the Ministry of Labour, Social Security and Migration <sup>[11](#o11)</sup>.
+- **Immigrant (permanent) status:** decided within a yearly immigration quota, 400 people for 2026, within nine months, and needs a permanent source of income <sup>[N45](#n45), [N92](#n92)</sup>. Draft amendments of April 2026 proposed dropping this stage <sup>[N93](#n93)</sup>.
 - **Citizenship:** marrying a Kyrgyz citizen doesn't change your citizenship <sup>[83](#o83)</sup>. A recognised refugee can apply by a simplified procedure after 3 years ([Asylum](#asylum)) <sup>[12](#o12)</sup>.
 
 > **Need to know**
@@ -933,15 +934,15 @@ The law requires labour migrants to keep a permanent home outside Kyrgyzstan <su
 
 #### 3.11.1 No valid papers, or overstay
 
-**The fine.** Being in Kyrgyzstan without a valid visa, registration, residence permit or work permit, with expired ones, or staying after your legal stay ends <sup>[26](#o26), [N65](#n65), [1](#o1)</sup>:
+**The fine.** Being in Kyrgyzstan without a valid visa, registration, residence permit or work permit, with expired ones, or staying after your legal stay ends <sup>[26](#o26), [N66](#n66), [1](#o1)</sup>:
 
-- up to 1 month: 55 RP, 5,500 som (about Tk 7,800) <sup>[26](#o26), [N65](#n65), [N85](#n85)</sup>;
-- 1 to 3 months: 100 RP, 10,000 som (about Tk 14,200) <sup>[26](#o26), [N65](#n65), [N85](#n85)</sup>;
-- 3 to 6 months: 150 RP, 15,000 som (about Tk 21,300) <sup>[26](#o26), [N65](#n65), [N85](#n85)</sup>;
-- 6 months to a year: 175 RP, 17,500 som (about Tk 24,900) <sup>[26](#o26), [N65](#n65), [N85](#n85)</sup>;
-- over a year: 200 RP, 20,000 som (about Tk 28,500) <sup>[26](#o26), [N65](#n65), [N85](#n85)</sup>.
+- up to 1 month: 55 RP, 5,500 som (about Tk 7,800) <sup>[26](#o26), [N66](#n66), [N86](#n86)</sup>;
+- 1 to 3 months: 100 RP, 10,000 som (about Tk 14,200) <sup>[26](#o26), [N66](#n66), [N86](#n86)</sup>;
+- 3 to 6 months: 150 RP, 15,000 som (about Tk 21,300) <sup>[26](#o26), [N66](#n66), [N86](#n86)</sup>;
+- 6 months to a year: 175 RP, 17,500 som (about Tk 24,900) <sup>[26](#o26), [N66](#n66), [N86](#n86)</sup>;
+- over a year: 200 RP, 20,000 som (about Tk 28,500) <sup>[26](#o26), [N66](#n66), [N86](#n86)</sup>.
 
-Staying for a purpose other than the one you declared on entry, such as working on a tourist visa, is fined 100 RP (10,000 som, about Tk 14,200) <sup>[26](#o26), [N74](#n74), [N69](#n69), [1](#o1)</sup>. Working without the required permit makes you liable to expulsion <sup>[27](#o27), [N44](#n44), [N85](#n85)</sup>.
+Staying for a purpose other than the one you declared on entry, such as working on a tourist visa, is fined 100 RP (10,000 som, about Tk 14,200) <sup>[26](#o26), [N75](#n75), [N70](#n70), [1](#o1)</sup>. Working without the required permit makes you liable to expulsion <sup>[27](#o27), [N45](#n45), [N86](#n86)</sup>.
 
 **The 30 days.** With the fine comes a written order to put things right; if you don't within 30 days, a court orders expulsion <sup>[26](#o26), [27](#o27)</sup>.
 
@@ -954,7 +955,7 @@ Staying for a purpose other than the one you declared on entry, such as working 
 
 It is free when a court has ordered expulsion <sup>[25](#o25)</sup>. Someone too ill to leave alone gets a free emergency exit visa (type E); with no passport, see Going home without valid papers <sup>[25](#o25), [8](#o8)</sup>.
 
-**In practice:** a Bangladeshi welder whose visa expired the day after he reached Bishkek worked seven months unpaid, was caught and served three months in jail <sup>[N93](#n93)</sup>. How people fall out of status, and the raids: Irregular routes and undocumented workers <sup>[N13 (2024)](#n13)</sup>.
+**In practice:** a Bangladeshi welder whose visa expired the day after he reached Bishkek worked seven months unpaid, was caught and served three months in jail <sup>[N94](#n94)</sup>. How people fall out of status, and the raids: Irregular routes and undocumented workers <sup>[N13 (2024)](#n13)</sup>.
 
 > **Need to know**
 > - Is the exit visa fee charged on top of the overstay fine?
@@ -966,10 +967,10 @@ It is free when a court has ordered expulsion <sup>[25](#o25)</sup>. Someone too
 
 - A court orders expulsion; you are handed to Bangladesh's authorities or leave on your own under control <sup>[26](#o26)</sup>.
 - If you don't leave by the court's deadline, you are held in a special centre for up to 30 days until you are removed <sup>[26](#o26)</sup>.
-- Unpaid fines don't stop it <sup>[26](#o26)</sup>. You pay its cost; if you can't, the employer or host who invited you pays, and only exceptionally the state <sup>[27](#o27)</sup>. Employers pay a guarantee fee of 50 RP (5,000 som, about Tk 7,100) per worker that funds this when the worker has no money <sup>[25](#o25), [26](#o26), [N65](#n65), [1](#o1), [N85](#n85)</sup>.
+- Unpaid fines don't stop it <sup>[26](#o26)</sup>. You pay its cost; if you can't, the employer or host who invited you pays, and only exceptionally the state <sup>[27](#o27)</sup>. Employers pay a guarantee fee of 50 RP (5,000 som, about Tk 7,100) per worker that funds this when the worker has no money <sup>[25](#o25), [26](#o26), [N66](#n66), [1](#o1), [N86](#n86)</sup>.
 - Expulsion for an offence brings a 2-year entry ban; after a prison sentence it is 5 years for less serious crimes, 10 for serious ones and life for especially serious ones <sup>[27](#o27)</sup>. No visa is issued until the ban ends <sup>[27](#o27)</sup>.
 
-In detention, the Ombudsman's (Akyikatchy's) free hotline, 115, is meant for people in closed institutions facing torture, violence or cruel treatment <sup>[84](#o84)</sup>. A returnee held over three months said detainees were made to stand for hours in the sun <sup>[N94](#n94), [N93](#n93)</sup>.
+In detention, the Ombudsman's (Akyikatchy's) free hotline, 115, is meant for people in closed institutions facing torture, violence or cruel treatment <sup>[84](#o84)</sup>. A returnee held over three months said detainees were made to stand for hours in the sun <sup>[N95](#n95), [N94](#n94)</sup>.
 
 > **Need to know**
 > - Where are the special centres for people awaiting expulsion, and does the Bangladesh Embassy in Tashkent visit them?
@@ -978,7 +979,7 @@ In detention, the Ombudsman's (Akyikatchy's) free hotline, 115, is meant for peo
 
 #### 3.11.3 False papers
 
-Using a document you know is forged: a fine of 500 to 1,000 RP (about Tk 71,100 to 1.42 lakh) or 2 to 5 years in prison <sup>[50](#o50), [26](#o26), [N65](#n65), [1](#o1)</sup>. False information in a visa, registration or work permit application gets the visa refused, and forged documents given at hiring are grounds for dismissal <sup>[27](#o27), [45](#o45), [N85](#n85)</sup>.
+Using a document you know is forged: a fine of 500 to 1,000 RP (about Tk 71,100 to 1.42 lakh) or 2 to 5 years in prison <sup>[50](#o50), [26](#o26), [N66](#n66), [1](#o1)</sup>. False information in a visa, registration or work permit application gets the visa refused, and forged documents given at hiring are grounds for dismissal <sup>[27](#o27), [45](#o45), [N86](#n86)</sup>.
 
 > **Need to know**
 > - Have Bangladeshis who used forged permits bought from "legalisation" agents been prosecuted in Kyrgyzstan, or only fined and expelled?
@@ -987,7 +988,7 @@ Using a document you know is forged: a fine of 500 to 1,000 RP (about Tk 71,100 
 
 #### 3.11.4 Crossing the border illegally
 
-Crossing the state border illegally, for example into Kazakhstan without papers, is punished by 1 to 3 years' corrective labour, a fine of 500 to 1,000 RP (about Tk 71,100 to 1.42 lakh) or up to 2 years in prison (see [Irregular routes and undocumented workers](#irregular-routes-and-undocumented-workers)) <sup>[50](#o50), [N20 (2024)](#n20), [26](#o26), [N65](#n65), [1](#o1), [N85](#n85)</sup>.
+Crossing the state border illegally, for example into Kazakhstan without papers, is punished by 1 to 3 years' corrective labour, a fine of 500 to 1,000 RP (about Tk 71,100 to 1.42 lakh) or up to 2 years in prison (see [Irregular routes and undocumented workers](#irregular-routes-and-undocumented-workers)) <sup>[50](#o50), [N20 (2024)](#n20), [26](#o26), [N66](#n66), [1](#o1), [N86](#n86)</sup>.
 
 <a id="drugs"></a>
 
@@ -995,7 +996,7 @@ Crossing the state border illegally, for example into Kazakhstan without papers,
 
 - Making, buying, keeping or carrying drugs to sell, or selling them: 5 to 8 years in prison, with property confiscated <sup>[50](#o50)</sup>.
 - Especially large amounts, or sale to a child: 12 to 15 years <sup>[50](#o50)</sup>.
-- Keeping or carrying a large amount without intent to sell: a fine of 1,000 to 2,000 RP (about Tk 1.42 to 2.85 lakh) or up to 5 years <sup>[50](#o50), [26](#o26), [N65](#n65), [1](#o1), [N85](#n85)</sup>.
+- Keeping or carrying a large amount without intent to sell: a fine of 1,000 to 2,000 RP (about Tk 1.42 to 2.85 lakh) or up to 5 years <sup>[50](#o50), [26](#o26), [N66](#n66), [1](#o1), [N86](#n86)</sup>.
 
 > **Need to know**
 > - What happens to a foreigner caught with a small amount of drugs (below "large"), and is he expelled?
@@ -1006,16 +1007,16 @@ Crossing the state border illegally, for example into Kazakhstan without papers,
 
 **Deadlines:** complain within 3 months of learning of the breach (2 months from a dismissal order); unpaid wages can be claimed for 3 years; the same limits apply to complaints to the prosecutor and the labour inspection <sup>[45](#o45)</sup>.
 
-**Keep evidence, even without a contract:** WhatsApp or Telegram messages, photos of documents, payment records and colleagues' statements <sup>[N95](#n95)</sup>. Ask the employer in writing for certified copies of your job papers ([Contract](#contract)) <sup>[45](#o45)</sup>. An employer that puts people to work without a written contract is fined 75 RP (about Tk 10,700) as a person or 230 RP (about Tk 32,700) as a company <sup>[26](#o26), [N65](#n65), [1](#o1)</sup>. Late pay earns you 0.25% a day ([Pay and deductions](#pay-and-deductions)) <sup>[45](#o45), [N85](#n85)</sup>.
+**Keep evidence, even without a contract:** WhatsApp or Telegram messages, photos of documents, payment records and colleagues' statements <sup>[N96](#n96)</sup>. Ask the employer in writing for certified copies of your job papers ([Contract](#contract)) <sup>[45](#o45)</sup>. An employer that puts people to work without a written contract is fined 75 RP (about Tk 10,700) as a person or 230 RP (about Tk 32,700) as a company <sup>[26](#o26), [N66](#n66), [1](#o1)</sup>. Late pay earns you 0.25% a day ([Pay and deductions](#pay-and-deductions)) <sup>[45](#o45), [N86](#n86)</sup>.
 
 **Act in this order:**
 
 1. <a id="if-you-arent-paid-item-1"></a>**Complain to the labour inspection,** the Service for Control and Supervision of Labour Legislation (Служба по контролю и надзору за соблюдением трудового законодательства) under the Ministry of Labour, Social Security and Migration <sup>[13](#o13)</sup>.
-   1. Write a complaint to its local office where the employer is, or hand it in at a TsON (ЦОН, public service centre) in the regions <sup>[N95](#n95)</sup>.
-   2. State the breach. Sample wording: "Я, [ФИО], паспорт [номер], работаю в [работодатель, адрес] [должность] с [дата]. Не выплачена зарплата за [месяцы]. Прошу провести проверку." ("I, [name], passport [number], have worked at [employer, address] as [job] since [date]. My wages for [months] have not been paid. I ask for an inspection.") <sup>[N95](#n95)</sup>
-   3. You may complain anonymously, but the check may then go less deep <sup>[N95](#n95)</sup>.
+   1. Write a complaint to its local office where the employer is, or hand it in at a TsON (ЦОН, public service centre) in the regions <sup>[N96](#n96)</sup>.
+   2. State the breach. Sample wording: "Я, [ФИО], паспорт [номер], работаю в [работодатель, адрес] [должность] с [дата]. Не выплачена зарплата за [месяцы]. Прошу провести проверку." ("I, [name], passport [number], have worked at [employer, address] as [job] since [date]. My wages for [months] have not been paid. I ask for an inspection.") <sup>[N96](#n96)</sup>
+   3. You may complain anonymously, but the check may then go less deep <sup>[N96](#n96)</sup>.
 
-   What you get back: an order to the employer to put the breach right <sup>[N95](#n95)</sup>. In the first half of 2026 inspectors recovered 4.4 million som (about Tk 62.6 lakh) of unpaid wages for all workers <sup>[N96](#n96), [1](#o1)</sup>. Presidential decree No. 362 of 26 October 2026 orders the Cabinet to give the same Service migration-control powers over foreign workers, within three months <sup>[13](#o13)</sup>.
+   What you get back: an order to the employer to put the breach right <sup>[N96](#n96)</sup>. In the first half of 2026 inspectors recovered 4.4 million som (about Tk 62.6 lakh) of unpaid wages for all workers <sup>[N97](#n97), [1](#o1)</sup>. Presidential decree No. 362 of 26 October 2026 orders the Cabinet to give the same Service migration-control powers over foreign workers, within three months <sup>[13](#o13)</sup>.
 
    > **Need to know**
    > - What are the address and phone of the labour inspection in Bishkek, and does it take complaints in English?
@@ -1028,11 +1029,11 @@ Crossing the state border illegally, for example into Kazakhstan without papers,
 4. <a id="if-you-arent-paid-item-4"></a>**The prosecutor's office,** which supervises the labour laws <sup>[45](#o45)</sup>.
 5. <a id="if-you-arent-paid-item-5"></a>**A court,** which you may also go to directly, after a compulsory mediation step <sup>[45](#o45)</sup>. A claim for harm to health from work, or over a refused or disputed accident report, goes straight to court <sup>[45](#o45)</sup>. Money claims found justified are paid in full <sup>[45](#o45)</sup>.
 6. <a id="if-you-arent-paid-item-6"></a>**The Ombudsman (Akyikatchy),** free: call 115, WhatsApp (0999) 000-115, write to the office, or use ombudsman.kg <sup>[84](#o84)</sup>.
-7. <a id="if-you-arent-paid-item-7"></a>**From the Bangladesh side:** email the Bangladesh Embassy in Tashkent, mission.tashkent@mofa.gov.bd ([The Bangladesh Embassy in Tashkent](#the-bangladesh-embassy-in-tashkent)), and call the Probashi call centre, 16135 (free in Bangladesh) or +8809610102030 from abroad <sup>[76](#o76), [53](#o53)</sup>. BRAC says stranded migrants can contact its Migration Welfare Centre ([Contacts in Bangladesh](#contacts-in-bangladesh)) <sup>[N93](#n93)</sup>.
+7. <a id="if-you-arent-paid-item-7"></a>**From the Bangladesh side:** email the Bangladesh Embassy in Tashkent, mission.tashkent@mofa.gov.bd ([The Bangladesh Embassy in Tashkent](#the-bangladesh-embassy-in-tashkent)), and call the Probashi call centre, 16135 (free in Bangladesh) or +8809610102030 from abroad <sup>[76](#o76), [53](#o53)</sup>. BRAC says stranded migrants can contact its Migration Welfare Centre ([Contacts in Bangladesh](#contacts-in-bangladesh)) <sup>[N94](#n94)</sup>.
 
 **Employers on the bad list:** the MFA keeps a Register of Bad-Faith Employers for unpaid wages, worse working conditions or not paying a worker's way home; a listed employer stays on it for a year <sup>[25](#o25)</sup>.
 
-**In practice:** unpaid Bangladeshis in Kyrgyzstan have ended up undocumented and jailed rather than paid <sup>[N93](#n93)</sup>. A welder injured at work, without a contract, went four months unpaid, surrendered to the police and spent over three months in jail <sup>[N94](#n94), [N93](#n93)</sup>. A Kyrgyz human rights organisation helped rescue a group of Bangladeshi workers, while their rights group, Rights Jessore, said BMET (Bureau of Manpower, Employment and Training) stalled on bringing them home although they had gone with BMET clearance <sup>[N59 (2022)](#n59)</sup>. BRAC said many of the 180 Bangladeshis flown home from Bishkek on 10 September 2025 had no work, no wages and no papers, and some families paid ransom <sup>[N93](#n93)</sup>.
+**In practice:** unpaid Bangladeshis in Kyrgyzstan have ended up undocumented and jailed rather than paid <sup>[N94](#n94)</sup>. A welder injured at work, without a contract, went four months unpaid, surrendered to the police and spent over three months in jail <sup>[N95](#n95), [N94](#n94)</sup>. A Kyrgyz human rights organisation helped rescue a group of Bangladeshi workers, while their rights group, Rights Jessore, said BMET (Bureau of Manpower, Employment and Training) stalled on bringing them home although they had gone with BMET clearance <sup>[N60 (2022)](#n60)</sup>. BRAC said many of the 180 Bangladeshis flown home from Bishkek on 10 September 2025 had no work, no wages and no papers, and some families paid ransom <sup>[N94](#n94)</sup>.
 
 > **Need to know**
 > - Has any Bangladeshi in Kyrgyzstan recovered unpaid wages through the inspection, a court, a notary or the Embassy in Tashkent?
@@ -1051,7 +1052,7 @@ Crossing the state border illegally, for example into Kazakhstan without papers,
 
 **Resigning.** Give one month's written notice <sup>[45](#o45)</sup>. If you leave a fixed-term contract early without a valid reason, the employer may claim the compensation set in the contract, up to one month's average pay <sup>[45](#o45)</sup>. You can also end it by agreement: the other side must answer a written proposal within 3 working days <sup>[45](#o45)</sup>. If the employer has broken the law or the contract, and the labour inspection, a trade union or a court confirms it, the employer must release you on the date you ask <sup>[45](#o45)</sup>.
 
-**Leaving without notice.** If you walk out and the employer reports you to the police, no other employer may hire you, nor may the same one again <sup>[25](#o25)</sup>. An employer that breaks the rules on hiring and using foreign workers is fined 200 RP (20,000 som, about Tk 28,400) as a person or 650 RP (65,000 som, about Tk 92,300) as a company <sup>[26](#o26), [N85](#n85), [1](#o1)</sup>. Your permit then ends with the job ([If you lose your job](#if-you-lose-your-job)) <sup>[25](#o25)</sup>.
+**Leaving without notice.** If you walk out and the employer reports you to the police, no other employer may hire you, nor may the same one again <sup>[25](#o25)</sup>. An employer that breaks the rules on hiring and using foreign workers is fined 200 RP (20,000 som, about Tk 28,400) as a person or 650 RP (65,000 som, about Tk 92,300) as a company <sup>[26](#o26), [N86](#n86), [1](#o1)</sup>. Your permit then ends with the job ([If you lose your job](#if-you-lose-your-job)) <sup>[25](#o25)</sup>.
 
 > **Need to know**
 > - Can a worker whose permit lapsed get a new Unified Permit from a new employer without leaving Kyrgyzstan?
@@ -1060,7 +1061,7 @@ Crossing the state border illegally, for example into Kazakhstan without papers,
 
 #### 3.13.2 Going home on leave
 
-Annual leave is 28 paid days (Hours, rest and leave) <sup>[45](#o45)</sup>. If you are out of Kyrgyzstan for 30 days or more, your address registration ends automatically and must be done again when you return <sup>[78](#o78), [N97](#n97)</sup>.
+Annual leave is 28 paid days (Hours, rest and leave) <sup>[45](#o45)</sup>. If you are out of Kyrgyzstan for 30 days or more, your address registration ends automatically and must be done again when you return <sup>[78](#o78), [N98](#n98)</sup>.
 
 > **Need to know**
 > - Does the resident card let a worker leave and re-enter Kyrgyzstan for home leave without a new visa?
@@ -1089,13 +1090,13 @@ Your spouse, children under 18 and dependent parents can come on a family visa (
 
 ## 4 Other work routes
 
-Besides a job with one employer (see [Work visa: company worker](#work-visa-company-worker)), the rules open three narrow routes, and close one that people ask about <sup>[N3](#n3), [86](#o86), [9](#o9), [N64](#n64)</sup>.
+Besides a job with one employer (see [Work visa: company worker](#work-visa-company-worker)), the rules open three narrow routes, and close one that people ask about <sup>[N3](#n3), [86](#o86), [9](#o9), [N65](#n65)</sup>.
 
 <a id="working-for-more-than-one-employer"></a>
 
 ### 4.1 Working for more than one employer
 
-Under the 2025 rules (Resolution No. 367) a foreign worker could work for up to three organisations at once, with one of them as the main employer <sup>[N3](#n3), [N53](#n53)</sup>. The permit is tied to the named worker, employer, type of work, position and period ([Work visa: company worker](#work-visa-company-worker), [Step 3: The employer gets your work permit](#step-3-the-employer-gets-your-work-permit)) <sup>[N62](#n62)</sup>.
+Under the 2025 rules (Resolution No. 367) a foreign worker could work for up to three organisations at once, with one of them as the main employer <sup>[N3](#n3), [N54](#n54)</sup>. The permit is tied to the named worker, employer, type of work, position and period ([Work visa: company worker](#work-visa-company-worker), [Step 3: The employer gets your work permit](#step-3-the-employer-gets-your-work-permit)) <sup>[N63](#n63)</sup>.
 
 > **Need to know**
 > - Does Resolution No. 312 keep the three-employer rule, and how does a second employer add a worker on the e-Visa portal?
@@ -1120,15 +1121,15 @@ A Bangladeshi with a valid resident card of Saudi Arabia, the UAE, Qatar, Kuwait
 
 ### 4.4 The patent: not open to Bangladeshis
 
-The State Tax Service's patent, a fixed monthly tax of 800 som (KGS, the Kyrgyz currency; about Tk 1,140) that serves as a work permit, lets a foreigner work only for private individuals, and only during a visa-free stay <sup>[N64](#n64), [1](#o1)</sup>. The Tax Service describes it as for migrant workers from neighbouring countries hired by Kyrgyz citizens for construction, crop farming, livestock or personal services <sup>[N88](#n88)</sup>. Bangladeshis have no visa-free stay, so they can't use it <sup>[6](#o6), [7](#o7)</sup>.
+The State Tax Service's patent, a fixed monthly tax of 800 som (KGS, the Kyrgyz currency; about Tk 1,140) that serves as a work permit, lets a foreigner work only for private individuals, and only during a visa-free stay <sup>[N65](#n65), [1](#o1)</sup>. The Tax Service describes it as for migrant workers from neighbouring countries hired by Kyrgyz citizens for construction, crop farming, livestock or personal services <sup>[N89](#n89)</sup>. Bangladeshis have no visa-free stay, so they can't use it <sup>[6](#o6), [7](#o7)</sup>.
 
 <a id="student-visa"></a>
 
 ## 5 Student visa
 
-A foreign student enters on a study visa (type S), valid up to 90 days, and then gets a resident card (резидент-карта, the plastic card that lets a foreigner stay up to a year), renewed through the university <sup>[9](#o9)</sup>. In 2022, 28,239 foreigners made up 77% of students at Kyrgyzstan's 22 medical universities <sup>[N98 (2022)](#n98)</sup>. In May 2024 at least 800 Bangladeshi medical students lived in Bishkek <sup>[N99 (2024)](#n99)</sup>.
+A foreign student enters on a study visa (type S), valid up to 90 days, and then gets a resident card (резидент-карта, the plastic card that lets a foreigner stay up to a year), renewed through the university <sup>[9](#o9)</sup>. In 2022, 28,239 foreigners made up 77% of students at Kyrgyzstan's 22 medical universities <sup>[N99 (2022)](#n99)</sup>. In May 2024 at least 800 Bangladeshi medical students lived in Bishkek <sup>[N100 (2024)](#n100)</sup>.
 
-Bangladeshis have had trouble getting this visa. Over 150 Bangladeshi medical students have been stuck in Bangladesh since July 2025, saying the Kyrgyz government stopped issuing them visas without notice; in April 2026 the e-visa portal showed the student category as open, but Bangladeshi applications were not approved, and no reason was given <sup>[N27](#n27)</sup>.
+Bangladeshis have had trouble getting this visa. Over 150 Bangladeshi medical students have been stuck in Bangladesh since July 2025, saying the Kyrgyz government stopped issuing them visas without notice; in April 2026 the e-visa portal showed the student category as open, but Bangladeshi applications were not approved, and no reason was given <sup>[N27](#n27)</sup>. They had come home for short visits, and their visa applications to return were held up without explanation; one, Sadril Huda, said he applied to extend his visa before it expired, was refused, was told to apply afresh, and then could not get that application accepted <sup>[N101](#n101)</sup>. At a press conference in Dhaka on 6 April 2026 they said they had lost a full semester and faced expulsion from their universities, that the Bangladesh Ambassador's visit to Kyrgyzstan had brought no solution, and asked for a special visa route for continuing students and an embassy or consular section in Kyrgyzstan <sup>[N101](#n101)</sup>.
 
 > **Need to know**
 > - Is Kyrgyzstan approving study visas for Bangladeshis for the 2026-27 intake, and were the students stuck since July 2025 let back in?
@@ -1137,32 +1138,32 @@ Bangladeshis have had trouble getting this visa. Over 150 Bangladeshi medical st
 
 ### 5.1 Step 1: Choose an accredited university
 
-1. <a id="step-1-choose-an-accredited-university-item-1"></a>**Check the university passed state accreditation.** An August 2025 presidential decree brought in a state monopoly on medical education; private medical universities had to pass state accreditation by 1 June 2026, and only accreditation gives the right to issue diplomas <sup>[N100](#n100)</sup>. The study visa itself needs proof of the university's state accreditation and, for a medical school, its medical accreditation <sup>[9](#o9)</sup>. The results in May 2026:
-   - **Accredited for six years:** Osh State University; International University of Kyrgyzstan; International Higher School of Medicine; Asian International University (named after Tentishev) <sup>[N101](#n101)</sup>.
-   - **Accredited for one year only:** Kyrgyz National University; Jalal-Abad State University; Kyrgyz-Uzbek International University; Issyk-Kul State University; Jalal-Abad International University; University of South Asia; International European University <sup>[N101](#n101)</sup>.
-   - **Not subject to accreditation:** Kyrgyz State Medical Academy (KSMA, named after Akhunbaev); Kyrgyz-Russian Slavic University; Kyrgyz-Turkish Manas University <sup>[N101](#n101)</sup>.
-   - **Failed:** Avicenna; ADAM; Royal Metropolitan; Altamimi; Ala-Too; International Medical University; Kyrgyz Medical-Dental Institute; Salymbekov; Eurasian International; Bishkek International Medical Institute; International University of Medicine and Science; Central Asian International Medical University; Osh International Medical University <sup>[N101](#n101)</sup>.
+1. <a id="step-1-choose-an-accredited-university-item-1"></a>**Check the university passed state accreditation.** An August 2025 presidential decree brought in a state monopoly on medical education; private medical universities had to pass state accreditation by 1 June 2026, and only accreditation gives the right to issue diplomas <sup>[N102](#n102)</sup>. The study visa itself needs proof of the university's state accreditation and, for a medical school, its medical accreditation <sup>[9](#o9)</sup>. The results in May 2026:
+   - **Accredited for six years:** Osh State University; International University of Kyrgyzstan; International Higher School of Medicine; Asian International University (named after Tentishev) <sup>[N103](#n103)</sup>.
+   - **Accredited for one year only:** Kyrgyz National University; Jalal-Abad State University; Kyrgyz-Uzbek International University; Issyk-Kul State University; Jalal-Abad International University; University of South Asia; International European University <sup>[N103](#n103)</sup>.
+   - **Not subject to accreditation:** Kyrgyz State Medical Academy (KSMA, named after Akhunbaev); Kyrgyz-Russian Slavic University; Kyrgyz-Turkish Manas University <sup>[N103](#n103)</sup>.
+   - **Failed:** Avicenna; ADAM; Royal Metropolitan; Altamimi; Ala-Too; International Medical University; Kyrgyz Medical-Dental Institute; Salymbekov; Eurasian International; Bishkek International Medical Institute; International University of Medicine and Science; Central Asian International Medical University; Osh International Medical University <sup>[N103](#n103)</sup>.
 
-   A school that failed may run only pre-university preparatory courses or act as a clinical teaching base <sup>[N100](#n100)</sup>.
+   A school that failed may run only pre-university preparatory courses or act as a clinical teaching base <sup>[N102](#n102)</sup>.
 
    > **Need to know**
    > - Where does Kyrgyzstan's Ministry of Health publish its official list of accredited medical universities, and will the seven one-year accreditations be renewed in 2027?
 
-2. <a id="step-1-choose-an-accredited-university-item-2"></a>**If you were enrolled at a school that failed,** Ministry of Health order No. 912 of 3 August 2026 moved students free of charge to accredited schools <sup>[N102](#n102)</sup>:
-   - Royal Metropolitan to the University of South Asia <sup>[N102](#n102)</sup>;
-   - Salymbekov and ADAM to the International Higher School of Medicine <sup>[N102](#n102)</sup>;
-   - Avicenna and Altamimi to the International European University <sup>[N102](#n102)</sup>;
-   - Eurasian International and International Medical University to the International University of Kyrgyzstan <sup>[N102](#n102)</sup>;
-   - Bishkek International Medical Institute and the International University of Medicine and Science to Asian International University <sup>[N102](#n102)</sup>;
-   - Osh International Medical University to Osh State University <sup>[N102](#n102)</sup>.
+2. <a id="step-1-choose-an-accredited-university-item-2"></a>**If you were enrolled at a school that failed,** Ministry of Health order No. 912 of 3 August 2026 moved students free of charge to accredited schools <sup>[N104](#n104)</sup>:
+   - Royal Metropolitan to the University of South Asia <sup>[N104](#n104)</sup>;
+   - Salymbekov and ADAM to the International Higher School of Medicine <sup>[N104](#n104)</sup>;
+   - Avicenna and Altamimi to the International European University <sup>[N104](#n104)</sup>;
+   - Eurasian International and International Medical University to the International University of Kyrgyzstan <sup>[N104](#n104)</sup>;
+   - Bishkek International Medical Institute and the International University of Medicine and Science to Asian International University <sup>[N104](#n104)</sup>;
+   - Osh International Medical University to Osh State University <sup>[N104](#n104)</sup>.
 
-   Transfer applications closed on 10 August 2026 <sup>[N102](#n102)</sup>.
+   Transfer applications closed on 10 August 2026 <sup>[N104](#n104)</sup>.
 
    > **Need to know**
    > - What happened to Bangladeshi students who missed the 10 August 2026 transfer deadline, and does BMDC accept a degree finished at the receiving university?
 
-3. <a id="step-1-choose-an-accredited-university-item-3"></a>**Plan to start in the first year.** A December 2025 draft rule would let foreigners study medicine only from the first year, with no transfer into senior years and no recognition of partly completed foreign courses <sup>[N103](#n103)</sup>.
-4. <a id="step-1-choose-an-accredited-university-item-4"></a>**Apply through the state channel.** Kyrgyzstan created a state enterprise, the Centre for admission of foreign students (Центр по приему иностранных студентов), so that foreign applicants submit documents, are checked and enter universities through one channel <sup>[N100](#n100)</sup>. Its single online platform, built by Tunduk (the state's e-government data system), handles registration, documents and enrolment, lists universities, fees and teaching language, and sells insurance, in English and Russian <sup>[N104](#n104)</sup>.
+3. <a id="step-1-choose-an-accredited-university-item-3"></a>**Plan to start in the first year.** A December 2025 draft rule would let foreigners study medicine only from the first year, with no transfer into senior years and no recognition of partly completed foreign courses <sup>[N105](#n105)</sup>.
+4. <a id="step-1-choose-an-accredited-university-item-4"></a>**Apply through the state channel.** Kyrgyzstan created a state enterprise, the Centre for admission of foreign students (Центр по приему иностранных студентов), so that foreign applicants submit documents, are checked and enter universities through one channel <sup>[N102](#n102)</sup>. Its single online platform, built by Tunduk (the state's e-government data system), handles registration, documents and enrolment, lists universities, fees and teaching language, and sells insurance, in English and Russian <sup>[N106](#n106)</sup>.
 
    > **Need to know**
    > - What is the web address of the single admission platform, and is it the only channel for medical admission in 2026-27?
@@ -1181,7 +1182,7 @@ What the RQE asks for shapes what you keep during your studies:
 - the education ministry's listing showing the university's name <sup>[89 (2018)](#o89)</sup>;
 - a processing fee of Tk 8,000 in cash or by pay order to BMDC <sup>[89 (2018)](#o89)</sup>.
 
-The application is made online at payment.bmdc.org.bd <sup>[88](#o88)</sup>. No college is obliged to give a foreign graduate an internship, and some colleges outside Dhaka have demanded Tk 80,000 to 1 lakh for one <sup>[N105 (2017)](#n105)</sup>.
+The application is made online at payment.bmdc.org.bd <sup>[88](#o88)</sup>. No college is obliged to give a foreign graduate an internship, and some colleges outside Dhaka have demanded Tk 80,000 to 1 lakh for one <sup>[N107 (2017)](#n107)</sup>.
 
 > **Need to know**
 > - How do you apply for BMDC's Eligibility Certificate (form, fee, office), and must it be obtained before leaving for a 2026-27 admission?
@@ -1226,7 +1227,7 @@ The card itself is a plastic bank debit card with a QR code, and its issue and s
 
 ### 5.5 Can you work?
 
-The study visa is issued for study, and a foreigner who works without the required permit is to be expelled <sup>[N44](#n44), [9](#o9)</sup>. The GKNB (State Committee for National Security, Kyrgyzstan's security service) has said foreigners come as would-be tourists and students but in fact work illegally <sup>[N33](#n33)</sup>.
+The study visa is issued for study, and a foreigner who works without the required permit is to be expelled <sup>[N45](#n45), [9](#o9)</sup>. The GKNB (State Committee for National Security, Kyrgyzstan's security service) has said foreigners come as would-be tourists and students but in fact work illegally <sup>[N33](#n33)</sup>.
 
 > **Need to know**
 > - Can a foreign student work part time in Kyrgyzstan, with or without a Unified Permit?
@@ -1241,7 +1242,7 @@ If you finish, stop studying or are expelled, you get an exit visa (type L), val
 
 ### 5.7 Safety
 
-On the night of 17-18 May 2024 mobs in Bishkek attacked foreign students and migrants, entering medical college hostels and using social media apps to find students; at least 28 people were hurt <sup>[N106 (2024)](#n106), [N99 (2024)](#n99)</sup>. Bangladeshi students at Royal Metropolitan and the International School of Medicine were caught up, and students from Bangladesh, India and Pakistan in some cases share hostels <sup>[N99 (2024)](#n99), [N106 (2024)](#n106)</sup>. Bangladesh's Embassy in Uzbekistan, which covers Kyrgyzstan, gave students a 24-hour emergency number, +998 93 000 9780 (see [The Bangladesh Embassy in Tashkent](#the-bangladesh-embassy-in-tashkent)) <sup>[N106 (2024)](#n106)</sup>.
+On the night of 17-18 May 2024 mobs in Bishkek attacked foreign students and migrants, entering medical college hostels and using social media apps to find students; at least 28 people were hurt <sup>[N108 (2024)](#n108), [N100 (2024)](#n100)</sup>. Bangladeshi students at Royal Metropolitan and the International School of Medicine were caught up, and students from Bangladesh, India and Pakistan in some cases share hostels <sup>[N100 (2024)](#n100), [N108 (2024)](#n108)</sup>. According to Bangladeshi students, it began after locals clashed with some Egyptian medical students on 13 May; from the night of 16 May attackers went house to house beating foreigners, and police deployed across the city failed to stop it <sup>[N38 (2024)](#n38)</sup>. Students said foreign workers were attacked as well as students, and Bangladeshi workers and students were hurt, but no one could give a number <sup>[N38 (2024)](#n38)</sup>. Bangladesh's Embassy in Uzbekistan, which covers Kyrgyzstan, told students not to leave their homes and gave them a 24-hour emergency number, +998 93 000 9780 (see [The Bangladesh Embassy in Tashkent](#the-bangladesh-embassy-in-tashkent)) <sup>[N38 (2024)](#n38), [N108 (2024)](#n108)</sup>. On 19 May the Foreign Minister said there was no report of a Bangladeshi student badly hurt; some students asked to be flown home by charter, and the Ambassador said he would pass this on <sup>[N109 (2024)](#n109), [N110 (2024)](#n110)</sup>. On 22 May, in Bishkek, the Ambassador asked Kyrgyzstan's deputy education minister, Rasul Avazbek uulu, to let Bangladeshi students study online for the next few months, and the deputy minister said he would consider it positively <sup>[N111 (2024)](#n111)</sup>.
 
 > **Need to know**
 > - Is the Embassy's 2024 emergency number, +998 93 000 9780, still answered?
@@ -1250,34 +1251,34 @@ On the night of 17-18 May 2024 mobs in Bishkek attacked foreign students and mig
 
 ### 5.8 Scams
 
-- **Agents' mark-up:** in 2022 a foreign medical student's tuition was USD 2,000 to 3,000 (about Tk 2.5 to 3.7 lakh), schools declared a lower price for tax, and agents who bring students took the lion's share of the difference <sup>[N98 (2022)](#n98), [2](#o2)</sup>.
-- **Dead schools:** places sold at universities that failed accreditation can't lead to a diploma ([Step 1, item 1: Check the university passed state accreditation](#step-1-choose-an-accredited-university-item-1)) <sup>[N101](#n101), [N100](#n100)</sup>.
-- **Senior-year transfers:** offers to move you into a later year run against the draft first-year-only rule ([Step 1, item 3: Plan to start in the first year](#step-1-choose-an-accredited-university-item-3)) <sup>[N103](#n103)</sup>.
-- **Student visa as a work route:** working on a study visa is working without a permit, and can end in expulsion <sup>[N44](#n44), [N33](#n33)</sup>.
+- **Agents' mark-up:** in 2022 a foreign medical student's tuition was USD 2,000 to 3,000 (about Tk 2.5 to 3.7 lakh), schools declared a lower price for tax, and agents who bring students took the lion's share of the difference <sup>[N99 (2022)](#n99), [2](#o2)</sup>.
+- **Dead schools:** places sold at universities that failed accreditation can't lead to a diploma ([Step 1, item 1: Check the university passed state accreditation](#step-1-choose-an-accredited-university-item-1)) <sup>[N103](#n103), [N102](#n102)</sup>.
+- **Senior-year transfers:** offers to move you into a later year run against the draft first-year-only rule ([Step 1, item 3: Plan to start in the first year](#step-1-choose-an-accredited-university-item-3)) <sup>[N105](#n105)</sup>.
+- **Student visa as a work route:** working on a study visa is working without a permit, and can end in expulsion <sup>[N45](#n45), [N33](#n33)</sup>.
 
 <a id="visit-visa"></a>
 
 ## 6 Visit visa
 
-Kyrgyzstan has two short visit visas: the tourist visa (type TS, up to 30 days) and the business visa (type B, up to 90 days), which also covers medical treatment <sup>[9](#o9)</sup>. A transit visa (type TR), for passing through Kyrgyzstan to a third country, needs a ticket to your final destination or that country's visa or permit, is valid up to 3 calendar days, and costs 1,783 som or USD 25 (about Tk 2,500 to 3,100) <sup>[9](#o9), [90](#o90), [1](#o1), [2](#o2)</sup>. A business visa gives no right to work or earn money, people on tourist visas have no right to work, and inside Kyrgyzstan you can be issued a visa that matches your purpose, but not a tourist, transit or religious visa (see [Changing visa type](#changing-visa-type)) <sup>[9](#o9), [N69](#n69)</sup>. Every Bangladeshi needs a visa <sup>[7](#o7), [6](#o6)</sup>. Visas are issued by the MFA (Ministry of Foreign Affairs), Kyrgyz embassies and consulates, and online on the e-Visa portal, evisa.e-gov.kg <sup>[9](#o9), [10](#o10)</sup>. Bangladesh's Ministry of Expatriates' Welfare warns people not to go to work on a tourist or visit visa on a broker's promise <sup>[5](#o5)</sup>.
+Kyrgyzstan has two short visit visas: the tourist visa (type TS, up to 30 days) and the business visa (type B, up to 90 days), which also covers medical treatment <sup>[9](#o9)</sup>. A transit visa (type TR), for passing through Kyrgyzstan to a third country, needs a ticket to your final destination or that country's visa or permit, is valid up to 3 calendar days, and costs 1,783 som or USD 25 (about Tk 2,500 to 3,100) <sup>[9](#o9), [90](#o90), [1](#o1), [2](#o2)</sup>. A business visa gives no right to work or earn money, people on tourist visas have no right to work, and inside Kyrgyzstan you can be issued a visa that matches your purpose, but not a tourist, transit or religious visa (see [Changing visa type](#changing-visa-type)) <sup>[9](#o9), [N70](#n70)</sup>. Every Bangladeshi needs a visa <sup>[7](#o7), [6](#o6)</sup>. Visas are issued by the MFA (Ministry of Foreign Affairs), Kyrgyz embassies and consulates, and online on the e-Visa portal, evisa.e-gov.kg <sup>[9](#o9), [10](#o10)</sup>. Bangladesh's Ministry of Expatriates' Welfare warns people not to go to work on a tourist or visit visa on a broker's promise <sup>[5](#o5)</sup>.
 
 <a id="step-1-check-which-route-you-are-on"></a>
 
 ### 6.1 Step 1: Check which route you are on
 
-1. <a id="step-1-check-which-route-you-are-on-item-1"></a>**If you hold a resident card of the UAE, Saudi Arabia, Kuwait, Qatar, Brunei, Oman or Bahrain,** you can get a tourist visa of up to 1 month in the simplified way: on your own application, with no invitation and no security vetting <sup>[7](#o7), [9](#o9)</sup>. In 2021 the MFA said this worked on arrival in Kyrgyzstan too <sup>[N107 (2021)](#n107)</sup>.
+1. <a id="step-1-check-which-route-you-are-on-item-1"></a>**If you hold a resident card of the UAE, Saudi Arabia, Kuwait, Qatar, Brunei, Oman or Bahrain,** you can get a tourist visa of up to 1 month in the simplified way: on your own application, with no invitation and no security vetting <sup>[7](#o7), [9](#o9)</sup>. In 2021 the MFA said this worked on arrival in Kyrgyzstan too <sup>[N112 (2021)](#n112)</sup>.
 
    > **Need to know**
    > - In 2026, does Manas airport in Bishkek issue tourist visas on arrival to Bangladeshis with a Gulf resident card, and at what fee?
 
-2. <a id="step-1-check-which-route-you-are-on-item-2"></a>**If you live in Bangladesh,** expect to need a host. In September 2021 the MFA suspended self-applied tourist visas for Bangladesh, India, Pakistan and Nepal, removed the "Tourism" option for them, and required an invitation from a host organisation, as for business visas <sup>[N73 (2021)](#n73), [N108 (2021)](#n108)</sup>. A Bishkek tour firm's director said people from these countries were coming as tourists in transit to work visas for the UAE or Saudi Arabia <sup>[N108 (2021)](#n108)</sup>. The 2026 rules allow a tourist visa on either a host tour company's written request or the applicant's own request <sup>[9](#o9)</sup>.
+2. <a id="step-1-check-which-route-you-are-on-item-2"></a>**If you live in Bangladesh,** expect to need a host. In September 2021 the MFA suspended self-applied tourist visas for Bangladesh, India, Pakistan and Nepal, removed the "Tourism" option for them, and required an invitation from a host organisation, as for business visas <sup>[N74 (2021)](#n74), [N113 (2021)](#n113)</sup>. A Bishkek tour firm's director said people from these countries were coming as tourists in transit to work visas for the UAE or Saudi Arabia <sup>[N113 (2021)](#n113)</sup>. The 2026 rules allow a tourist visa on either a host tour company's written request or the applicant's own request <sup>[9](#o9)</sup>.
 
    > **Need to know**
    > - On evisa.e-gov.kg in November 2026, what does "Do I need visa?" show for Bangladesh: is the tourist e-visa open to self-application, or only with a tour company's letter?
    > - What does a Bishkek tour company charge a Bangladeshi for a tourist-visa letter, and must a tour be booked?
 
 3. <a id="step-1-check-which-route-you-are-on-item-3"></a>**For a business or medical visit,** a company registered in Kyrgyzstan (business) or a Kyrgyz medical institution (treatment) sends a written request, with its founding and registration documents or the treatment papers <sup>[9](#o9)</sup>. The MFA's invitation issued on that request (visa support, визовая поддержка) costs 352 som or USD 5 (about Tk 500 to 620) per person, is valid 30 calendar days, can be used once and can't be extended <sup>[90](#o90), [9](#o9), [1](#o1), [2](#o2)</sup>.
-4. <a id="step-1-check-which-route-you-are-on-item-4"></a>**If you mean to look for work, a visit visa won't do.** Work needs a Unified Permit (Единое разрешение, the electronic permit that combines the work visa and work permit), which the employer applies for on the e-Visa portal (see [Work visa: company worker](#work-visa-company-worker), [Step 3: The employer gets your work permit](#step-3-the-employer-gets-your-work-permit)) <sup>[9](#o9), [8](#o8), [N53](#n53)</sup>.
+4. <a id="step-1-check-which-route-you-are-on-item-4"></a>**If you mean to look for work, a visit visa won't do.** Work needs a Unified Permit (Единое разрешение, the electronic permit that combines the work visa and work permit), which the employer applies for on the e-Visa portal (see [Work visa: company worker](#work-visa-company-worker), [Step 3: The employer gets your work permit](#step-3-the-employer-gets-your-work-permit)) <sup>[9](#o9), [8](#o8), [N54](#n54)</sup>.
 
 <a id="step-2-apply-on-the-e-visa-portal"></a>
 
@@ -1302,7 +1303,7 @@ You'll need:
 5. <a id="step-2-apply-on-the-e-visa-portal-item-5"></a>**Wait:** an e-visa takes up to 5 working days, or up to 2 at the urgent rate <sup>[9](#o9)</sup>. The application also goes to the national security body for up to 4 working days (1 at the urgent rate) <sup>[9](#o9)</sup>. If the documents don't match or look doubtful, it may call the applicant or employer in, or phone to check the details <sup>[9](#o9)</sup>.
 6. <a id="step-2-apply-on-the-e-visa-portal-item-6"></a>**Print the e-visa** when it arrives by email <sup>[9](#o9)</sup>. Don't buy your air ticket before it is approved <sup>[71](#o71)</sup>.
 
-To apply at a Kyrgyz embassy instead (the ambassador in New Delhi is also accredited to Bangladesh; see [Contacts in Bangladesh](#contacts-in-bangladesh)), bring the visa form, a 35 x 45 mm colour photo, proof of payment and the documents for your visa type; the embassy may also ask for a guarantee letter from your host to pay all costs of your stay and departure <sup>[9](#o9), [N109 (2022)](#n109)</sup>.
+To apply at a Kyrgyz embassy instead (the ambassador in New Delhi is also accredited to Bangladesh; see [Contacts in Bangladesh](#contacts-in-bangladesh)), bring the visa form, a 35 x 45 mm colour photo, proof of payment and the documents for your visa type; the embassy may also ask for a guarantee letter from your host to pay all costs of your stay and departure <sup>[9](#o9), [N114 (2022)](#n114)</sup>.
 
 > **Need to know**
 > - Does the e-Visa portal or its bank add a card or service charge on top of the 3,589 som consular fee for a 30-day single-entry e-visa?
@@ -1327,13 +1328,13 @@ To apply at a Kyrgyz embassy instead (the ambassador in New Delhi is also accred
 
 ### 6.4 Can you work?
 
-No. A business visa gives no right to work, run a business or earn income <sup>[9](#o9)</sup>. Staying for a purpose other than the one declared on entry, such as working on a visit visa, is fined 100 calculation units (расчетный показатель, RP, the unit Kyrgyz fines are set in), 10,000 som (about Tk 14,200), and working without a permit makes you liable to expulsion <sup>[26](#o26), [N74](#n74), [1](#o1), [27](#o27)</sup>. In May 2025, 46 foreigners who had come on tourist visas were found working on a Bishkek building site; each was fined 10,000 som, and a criminal case was opened against the organisers <sup>[N69](#n69), [N85](#n85)</sup>.
+No. A business visa gives no right to work, run a business or earn income <sup>[9](#o9)</sup>. Staying for a purpose other than the one declared on entry, such as working on a visit visa, is fined 100 calculation units (расчетный показатель, RP, the unit Kyrgyz fines are set in), 10,000 som (about Tk 14,200), and working without a permit makes you liable to expulsion <sup>[26](#o26), [N75](#n75), [1](#o1), [27](#o27)</sup>. In May 2025, 46 foreigners who had come on tourist visas were found working on a Bishkek building site; each was fined 10,000 som, and a criminal case was opened against the organisers <sup>[N70](#n70), [N86](#n86)</sup>.
 
 <a id="scams-2"></a>
 
 ### 6.5 Scams
 
-- **Tourist visa sold as a job:** in 2024 CID (the Bangladesh Police's Criminal Investigation Department) arrested the owner of Jannat Trade International, which had only a tours and travel licence; it admitted sending six people to Kyrgyzstan on 59-day tourist visas, routed through Dubai on visit visas (see [Work visa: company worker](#work-visa-company-worker), Scams) <sup>[N49](#n49), [N35 (2024)](#n35)</sup>.
+- **Tourist visa sold as a job:** in 2024 CID (the Bangladesh Police's Criminal Investigation Department) arrested the owner of Jannat Trade International, which had only a tours and travel licence; it admitted sending six people to Kyrgyzstan on 59-day tourist visas, routed through Dubai on visit visas (see [Work visa: company worker](#work-visa-company-worker), Scams) <sup>[N50](#n50), [N35 (2024)](#n35)</sup>.
 - **Agent keeps the application:** if someone applies for you, get your own reference number and check the status yourself ([Step 2: Apply on the e-visa portal](#step-2-apply-on-the-e-visa-portal), Check it is real) <sup>[71](#o71)</sup>.
 
 <a id="family"></a>
@@ -1366,9 +1367,9 @@ A worker or student can bring a spouse, children under 18 and dependent parents 
 ## 8 Changing visa type
 
 - **Any visa, or a visa-free stay, to a visa matching your real purpose:** Allowed inside Kyrgyzstan, but a tourist, transit or religious visa can't be issued this way <sup>[9](#o9), [7](#o7)</sup>. For a long-term visa, the inviting party that got your current visa files the request at least 5 working days before it ends <sup>[9](#o9)</sup>.
-- **Any visa to work:** Only through an employer: it gets a Unified Permit for up to 60 days, then a resident card (see [Work visa: company worker](#work-visa-company-worker), [Step 3: The employer gets your work permit](#step-3-the-employer-gets-your-work-permit)) <sup>[9](#o9)</sup>. A valid visa or registration alone does not let anyone hire you <sup>[N62](#n62)</sup>.
-- **Unified Permit to resident card:** After the permit's first 60 days, a resident card is issued if you stay on (see [Your residence permit](#your-residence-permit)) <sup>[N63](#n63), [N2](#n2)</sup>.
-- **Resident card to temporary residence permit (вид на жительство):** Possible after more than six months with a legal income, including work under a contract with a work permit (see [Your residence permit](#your-residence-permit)) <sup>[N44](#n44)</sup>.
+- **Any visa to work:** Only through an employer: it gets a Unified Permit for up to 60 days, then a resident card (see [Work visa: company worker](#work-visa-company-worker), [Step 3: The employer gets your work permit](#step-3-the-employer-gets-your-work-permit)) <sup>[9](#o9)</sup>. A valid visa or registration alone does not let anyone hire you <sup>[N63](#n63)</sup>.
+- **Unified Permit to resident card:** After the permit's first 60 days, a resident card is issued if you stay on (see [Your residence permit](#your-residence-permit)) <sup>[N64](#n64), [N2](#n2)</sup>.
+- **Resident card to temporary residence permit (вид на жительство):** Possible after more than six months with a legal income, including work under a contract with a work permit (see [Your residence permit](#your-residence-permit)) <sup>[N45](#n45)</sup>.
 - **Study visa to resident card:** The usual path for students ([Student visa](#student-visa), [Step 4: Resident card after arrival](#step-4-resident-card-after-arrival)) <sup>[9](#o9)</sup>.
 - **Family visa to work:** The family visa gives no right to work <sup>[9](#o9)</sup>.
 
@@ -1395,7 +1396,7 @@ A child born in Kyrgyzstan to two Bangladeshi parents is not Kyrgyz: Kyrgyz citi
 
 ## 10 Asylum
 
-Asylum is protection for someone who cannot return to their own country, and the claim must explain why <sup>[12](#o12)</sup>. Kyrgyzstan has signed the 1951 Refugee Convention and has its own refugee law, run by the Ministry of Labour, Social Security and Migration (Минсоцтруда, Kyrgyzstan's labour and migration ministry) <sup>[12](#o12)</sup>. On 30 June 2025 there were 2,186 refugees and asylum seekers in the country, 524 of them Afghans, and the state had recognised 168 refugees in all <sup>[92](#o92)</sup>. If the last appeal fails and you have no other legal status, you may have to leave <sup>[12](#o12)</sup>. In September 2026 the Ministry proposed refusing to register repeat claims that bring no new facts, saying they let people with no other legal grounds stay longer; about 160 were filed from 2022 to mid-2026 <sup>[N110](#n110)</sup>.
+Asylum is protection for someone who cannot return to their own country, and the claim must explain why <sup>[12](#o12)</sup>. Kyrgyzstan has signed the 1951 Refugee Convention and has its own refugee law, run by the Ministry of Labour, Social Security and Migration (Минсоцтруда, Kyrgyzstan's labour and migration ministry) <sup>[12](#o12)</sup>. On 30 June 2025 there were 2,186 refugees and asylum seekers in the country, 524 of them Afghans, and the state had recognised 168 refugees in all <sup>[92](#o92)</sup>. If the last appeal fails and you have no other legal status, you may have to leave <sup>[12](#o12)</sup>. In September 2026 the Ministry proposed refusing to register repeat claims that bring no new facts, saying they let people with no other legal grounds stay longer; about 160 were filed from 2022 to mid-2026 <sup>[N115](#n115)</sup>.
 
 > **Need to know**
 > - Has any Bangladeshi applied for refugee status in Kyrgyzstan since 2023, and with what result?
@@ -1436,11 +1437,11 @@ Many Bangladeshis without papers in Kyrgyzstan came in legally on a visa and los
 
 ### 11.1 How people lose their papers
 
-- **A tourist visa sold as a work visa.** In 2024 Bangladesh police's CID (Criminal Investigation Department) said Jannat Trade International, which held only a tours and travel licence, sent six people on 59-day tourist visas with promises of garment, chocolate and food-packaging jobs; none got work <sup>[N35 (2024)](#n35)</sup>. Working on a tourist visa breaks the purpose of entry: in May 2025 each of 46 tourist-visa holders found on a Bishkek building site was fined 10,000 som (Kyrgyz som, KGS; about Tk 14,200) <sup>[26](#o26), [N69](#n69), [1](#o1)</sup>.
+- **A tourist visa sold as a work visa.** In 2024 Bangladesh police's CID (Criminal Investigation Department) said Jannat Trade International, which held only a tours and travel licence, sent six people on 59-day tourist visas with promises of garment, chocolate and food-packaging jobs; none got work <sup>[N35 (2024)](#n35)</sup>. Working on a tourist visa breaks the purpose of entry: in May 2025 each of 46 tourist-visa holders found on a Bishkek building site was fined 10,000 som (Kyrgyz som, KGS; about Tk 14,200) <sup>[26](#o26), [N70](#n70), [1](#o1)</sup>.
 - **A visa that ends on arrival.** A Lalmonirhat man who reached Bishkek on 3 June 2024 for a welding job found his visa expired the next day; he worked seven months unpaid and was jailed for three months <sup>[N17](#n17)</sup>.
 - **"Your work visa comes later."** Many South Asians were brought on ordinary visas with promises of work visas that never came; they move from workshop to workshop without wages, and many have had their passports taken <sup>[N13 (2024)](#n13)</sup>. Bangladeshis flown to Osh, in the south, were given no visas, locked in and had their promised pay cut from USD 500 to USD 300 a month <sup>[N8 (2024)](#n8)</sup>.
 - **The sponsor does not renew.** The GKNB chairman said in 2025 that employers and universities often fail to extend visas, leaving foreigners with expired documents <sup>[N33](#n33)</sup>.
-- **Brought legally, then sold.** In 2022 men sent as garment workers with visas, work permits and BMET smart cards (the emigration clearance card of BMET, the Bureau of Manpower, Employment and Training) by M/S Makkah Madina Trade Int (RL-810, its recruiting licence number) and M/S Al-Jabeen Establishment Ltd (RL-884) said the agency had sold them to a factory owner for USD 8,300 (about Tk 10.3 lakh) <sup>[N111 (2022)](#n111), [2](#o2)</sup>. They were promised Tk 55,000 a month for seven to eight hours' work a day and made to work 17 to 18 hours for Tk 10,000; the owner said they could leave only if they paid him back <sup>[N111 (2022)](#n111)</sup>.
+- **Brought legally, then sold.** In 2022 men sent as garment workers with visas, work permits and BMET smart cards (the emigration clearance card of BMET, the Bureau of Manpower, Employment and Training) by M/S Makkah Madina Trade Int (RL-810, its recruiting licence number) and M/S Al-Jabeen Establishment Ltd (RL-884) said the agency had sold them to a factory owner for USD 8,300 (about Tk 10.3 lakh) <sup>[N116 (2022)](#n116), [2](#o2)</sup>. They were promised Tk 55,000 a month for seven to eight hours' work a day and made to work 17 to 18 hours for Tk 10,000; the owner said they could leave only if they paid him back <sup>[N116 (2022)](#n116)</sup>.
 - **Moving to taxi or delivery work.** No work visa has been issued for taxi or delivery work; the MFA (Ministry of Foreign Affairs) says irregular workers usually register with a firm and then move to taxis for higher pay <sup>[N34](#n34)</sup>.
 
 > **Need to know**
@@ -1452,9 +1453,9 @@ Many Bangladeshis without papers in Kyrgyzstan came in legally on a visa and los
 ### 11.2 Onward routes: Uzbekistan, Kazakhstan, Russia
 
 - **Towards Europe.** In 2024 CID said Kyrgyzstan had become a popular trafficking route because it is seen as close to Europe, with people sent through Dubai on visit visas and on to Kyrgyzstan <sup>[N35 (2024)](#n35)</sup>. In 2025 a 21-year-old from Shariatpur paid a broker Tk 4.8 lakh for Italy, was flown Dubai to Bishkek, and spent 44 days in prison instead <sup>[N17](#n17)</sup>. In 2023 a Sylhet broker took Tk 6 lakh for Poland, left his client in Kyrgyzstan saying he would fetch a Ukraine visa from Dubai, and disappeared; the man's family borrowed for his ticket home <sup>[N19 (2023)](#n19)</sup>.
-- **In from Uzbekistan.** In June 2024 border guards in Jalal-Abad caught 11 Bangladeshis who had gone to Uzbekistan for work on 8 June, found none, and tried to cross into Kyrgyzstan away from the official crossings; the Kyrgyz organiser was arrested with them <sup>[N71 (2024)](#n71)</sup>. A Bishkek facilitator said in 2024 that stranded Bangladeshis had to go to Uzbekistan and come back to get new visas <sup>[N13 (2024)](#n13)</sup>.
-- **Out to Kazakhstan.** In November 2023 Kazakh prosecutors arrested three organisers who had smuggled 20 South Asians from Kyrgyzstan around the border checkpoints <sup>[N112 (2023)](#n112)</sup>. Bangladeshis who crossed from Kyrgyzstan without a visa in June 2024 were caught at a checkpoint in Kostanay region, on the Russian border, and each got six months in prison and expulsion from Kazakhstan with a five-year ban <sup>[N20 (2024)](#n20)</sup>. Crossing the Kyrgyz border illegally is itself a crime (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[50](#o50)</sup>.
-- **Russia and its war.** In October 2026 Bangladesh's Special Response Battalion said 30 Bangladeshis who paid about Tk 10 lakh each to Jabal-e-Noor, RS International and TS Group for construction jobs in Russia had their passports and phones taken on arrival and were handed to the army; 20 are provisionally confirmed dead <sup>[N113](#n113)</sup>. The network included a Kyrgyz woman <sup>[N113](#n113)</sup>.
+- **In from Uzbekistan.** In June 2024 border guards in Jalal-Abad caught 11 Bangladeshis who had gone to Uzbekistan for work on 8 June, found none, and tried to cross into Kyrgyzstan away from the official crossings; the Kyrgyz organiser was arrested with them <sup>[N72 (2024)](#n72)</sup>. A Bishkek facilitator said in 2024 that stranded Bangladeshis had to go to Uzbekistan and come back to get new visas <sup>[N13 (2024)](#n13)</sup>.
+- **Out to Kazakhstan.** In November 2023 Kazakh prosecutors arrested three organisers who had smuggled 20 South Asians from Kyrgyzstan around the border checkpoints <sup>[N117 (2023)](#n117)</sup>. Bangladeshis who crossed from Kyrgyzstan without a visa in June 2024 were caught at a checkpoint in Kostanay region, on the Russian border, and each got six months in prison and expulsion from Kazakhstan with a five-year ban <sup>[N20 (2024)](#n20)</sup>. Crossing the Kyrgyz border illegally is itself a crime (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[50](#o50)</sup>.
+- **Russia and its war.** In October 2026 Bangladesh's Special Response Battalion said 30 Bangladeshis who paid about Tk 10 lakh each to Jabal-e-Noor, RS International and TS Group for construction jobs in Russia had their passports and phones taken on arrival and were handed to the army; 20 are provisionally confirmed dead <sup>[N118](#n118)</sup>. The network included a Kyrgyz woman <sup>[N118](#n118)</sup>.
 
 > **Need to know**
 > - What do brokers charge in 2026 for Bishkek-Almaty, Bishkek-Russia or Bishkek-Europe "packages", and which border crossings do smugglers use?
@@ -1464,18 +1465,18 @@ Many Bangladeshis without papers in Kyrgyzstan came in legally on a visa and los
 
 ### 11.3 Raids
 
-Raids under Operation Nelegal ("Illegal") are run by the GKNB with the MVD (Ministry of Internal Affairs, the police) several times a year, on building sites and sewing workshops <sup>[N72](#n72), [N14](#n14), [N114](#n114), [N15](#n15)</sup>.
+Raids under Operation Nelegal ("Illegal") are run by the GKNB with the MVD (Ministry of Internal Affairs, the police) several times a year, on building sites and sewing workshops <sup>[N73](#n73), [N14](#n14), [N119](#n119), [N15](#n15)</sup>.
 
-- **2024:** in April the GKNB found over 130 Pakistanis and Bangladeshis in Bishkek lodgings, 64 with expired visas and no registration <sup>[N37 (2024)](#n37)</sup>. In May 46 Bangladeshis were detained for illegal work in Bazar-Korgon, Jalal-Abad region, and in August 28 were detained and fined in Bishkek <sup>[N71 (2024)](#n71), [N115 (2024)](#n115)</sup>. The GKNB chairman, Kamchybek Tashiev, said 1,000 Bangladeshis and 1,500 Pakistanis had been deported, with officers catching 20 to 50 irregular migrants a day <sup>[N13 (2024)](#n13), [N42 (2024)](#n42)</sup>.
-- **2025:** Decree No. 164 of 22 May 2025 gave foreigners until 10 June 2025 to legalise their stay or leave without fines; in that campaign about 9,600 foreigners legalised their stay without leaving and over 1,700 left <sup>[N72](#n72), [N116](#n116), [N25](#n25)</sup>. Operation Nelegal-2025 began on 11 June <sup>[N72](#n72)</sup>. In May 2025 Bishkek police found about 800 breaches of the rules on hiring foreigners, and detected cases of illegal hiring rose from 59 in 2023 to 265 in 2025 <sup>[N43](#n43), [N117](#n117)</sup>.
-- **2026:** raids on 1-10 June produced 922 reports against foreigners, and 4 Bangladeshis and 16 Pakistanis were expelled after June raids in Issyk-Kul region <sup>[N14](#n14), [N118](#n118)</sup>. On 1-10 October the GKNB and MVD wrote 1,487 reports with fines totalling 13,407,000 som <sup>[N15](#n15)</sup>.
+- **2024:** in April the GKNB found over 130 Pakistanis and Bangladeshis in Bishkek lodgings, 64 with expired visas and no registration <sup>[N37 (2024)](#n37)</sup>. In May 46 Bangladeshis were detained for illegal work in Bazar-Korgon, Jalal-Abad region, and in August 28 were detained and fined in Bishkek <sup>[N72 (2024)](#n72), [N120 (2024)](#n120)</sup>. The GKNB chairman, Kamchybek Tashiev, said 1,000 Bangladeshis and 1,500 Pakistanis had been deported, with officers catching 20 to 50 irregular migrants a day <sup>[N13 (2024)](#n13), [N43 (2024)](#n43)</sup>.
+- **2025:** Decree No. 164 of 22 May 2025 gave foreigners until 10 June 2025 to legalise their stay or leave without fines; in that campaign about 9,600 foreigners legalised their stay without leaving and over 1,700 left <sup>[N73](#n73), [N121](#n121), [N25](#n25)</sup>. Operation Nelegal-2025 began on 11 June <sup>[N73](#n73)</sup>. In May 2025 Bishkek police found about 800 breaches of the rules on hiring foreigners, and detected cases of illegal hiring rose from 59 in 2023 to 265 in 2025 <sup>[N44](#n44), [N122](#n122)</sup>.
+- **2026:** raids on 1-10 June produced 922 reports against foreigners, and 4 Bangladeshis and 16 Pakistanis were expelled after June raids in Issyk-Kul region <sup>[N14](#n14), [N123](#n123)</sup>. On 1-10 October the GKNB and MVD wrote 1,487 reports with fines totalling 13,407,000 som <sup>[N15](#n15)</sup>.
 
 <a id="what-happens-when-you-are-caught"></a>
 
 #### 11.3.1 What happens when you are caught
 
-1. <a id="what-happens-when-you-are-caught-item-1"></a>**You are taken to a filtration centre** and handed to the MVD's Service for Combating Extremism and Illegal Migration <sup>[N72](#n72)</sup>.
-2. <a id="what-happens-when-you-are-caught-item-2"></a>**You get a report (protocol) and a fine** by the length of your overstay, from 5,500 som (about Tk 7,800) to 20,000 som (about Tk 28,500), with a written order to fix the violation (amounts under What can get you jailed or deported) <sup>[26](#o26), [N65](#n65), [1](#o1)</sup>.
+1. <a id="what-happens-when-you-are-caught-item-1"></a>**You are taken to a filtration centre** and handed to the MVD's Service for Combating Extremism and Illegal Migration <sup>[N73](#n73)</sup>.
+2. <a id="what-happens-when-you-are-caught-item-2"></a>**You get a report (protocol) and a fine** by the length of your overstay, from 5,500 som (about Tk 7,800) to 20,000 som (about Tk 28,500), with a written order to fix the violation (amounts under What can get you jailed or deported) <sup>[26](#o26), [N66](#n66), [1](#o1)</sup>.
 3. <a id="what-happens-when-you-are-caught-item-3"></a>**A court orders expulsion** if the violation isn't fixed within 30 days, and working without a permit makes you liable to expulsion <sup>[27](#o27), [26](#o26)</sup>. Unpaid fines do not stop it <sup>[26](#o26)</sup>.
 4. <a id="what-happens-when-you-are-caught-item-4"></a>**Jail is possible.** Returnees in 2025 described three months in jail, more than three months after surrendering to the police, and 44 days in prison, with detainees made to stand in strong sun <sup>[N17](#n17)</sup>.
 5. <a id="what-happens-when-you-are-caught-item-5"></a>**An entry ban follows expulsion** (see [Bans after you leave](#bans-after-you-leave)) <sup>[27](#o27)</sup>.
@@ -1487,13 +1488,13 @@ Raids under Operation Nelegal ("Illegal") are run by the GKNB with the MVD (Mini
 
 ### 11.4 If an employer holds you or you are trafficked
 
-In June 2024 a sewing-shop owner near Bishkek and a district police officer took South Asian workers' passports, withheld wages and threatened them with prison for illegal stay; both were arrested <sup>[N83 (2024)](#n83)</sup>. All 27 male forced-labour victims Kyrgyzstan identified in 2025 were from Pakistan and Bangladesh, and the government did not report referring victims to protection services <sup>[N12](#n12)</sup>. Foreign trafficking victims get the same benefits as citizens but no legal alternative to removal, and there are no shelters for men <sup>[N66](#n66)</sup>.
+In June 2024 a sewing-shop owner near Bishkek and a district police officer took South Asian workers' passports, withheld wages and threatened them with prison for illegal stay; both were arrested <sup>[N84 (2024)](#n84)</sup>. All 27 male forced-labour victims Kyrgyzstan identified in 2025 were from Pakistan and Bangladesh, and the government did not report referring victims to protection services <sup>[N12](#n12)</sup>. Foreign trafficking victims get the same benefits as citizens but no legal alternative to removal, and there are no shelters for men <sup>[N67](#n67)</sup>.
 
 What has worked, in reported cases:
 
-1. <a id="if-an-employer-holds-you-or-you-are-trafficked-item-1"></a>**An NGO in Bangladesh.** In the 2022 garment-factory case, seven workers got home with help from Rights Jashore and RMMRU (Refugee and Migratory Movements Research Unit), and a Kyrgyz human rights group helped rescue them <sup>[N111 (2022)](#n111), [N59 (2022)](#n59)</sup>. Rights Jashore said BMET stalled although the men had gone with BMET clearance <sup>[N59 (2022)](#n59)</sup>.
-2. <a id="if-an-employer-holds-you-or-you-are-trafficked-item-2"></a>**A criminal case at home.** One of those returnees filed a case in a Kishoreganj court, which the district Detective Branch investigated <sup>[N111 (2022)](#n111)</sup>. A Jannat Trade victim filed a case under the human trafficking law at Paltan police station, Dhaka, on 23 April 2024, and CID arrested the owner with two others <sup>[N10 (2024)](#n10), [N49](#n49)</sup>.
-3. <a id="if-an-employer-holds-you-or-you-are-trafficked-item-3"></a>**BRAC.** BRAC said in 2025 that stranded migrants can get help by contacting its Migration Welfare Centre <sup>[N93](#n93)</sup>.
+1. <a id="if-an-employer-holds-you-or-you-are-trafficked-item-1"></a>**An NGO in Bangladesh.** In the 2022 garment-factory case, seven workers got home with help from Rights Jashore and RMMRU (Refugee and Migratory Movements Research Unit), and a Kyrgyz human rights group helped rescue them <sup>[N116 (2022)](#n116), [N60 (2022)](#n60)</sup>. Rights Jashore said BMET stalled although the men had gone with BMET clearance <sup>[N60 (2022)](#n60)</sup>.
+2. <a id="if-an-employer-holds-you-or-you-are-trafficked-item-2"></a>**A criminal case at home.** One of those returnees filed a case in a Kishoreganj court, which the district Detective Branch investigated <sup>[N116 (2022)](#n116)</sup>. A Jannat Trade victim filed a case under the human trafficking law at Paltan police station, Dhaka, on 23 April 2024, and CID arrested the owner with two others <sup>[N10 (2024)](#n10), [N50](#n50)</sup>.
+3. <a id="if-an-employer-holds-you-or-you-are-trafficked-item-3"></a>**BRAC.** BRAC said in 2025 that stranded migrants can get help by contacting its Migration Welfare Centre <sup>[N94](#n94)</sup>.
 
 > **Need to know**
 > - Which Bishkek NGO or hotline takes trafficking reports from foreign men?
@@ -1503,9 +1504,9 @@ What has worked, in reported cases:
 
 ### 11.5 Stranded workers: what has happened
 
-- **10 September 2025: 180 sent home.** The Kyrgyz government flew home 180 Bangladeshis who had become irregular, with the Bangladesh Embassy in Tashkent handling the case; they reached Dhaka on a special flight from Bishkek at 3:30 am <sup>[N16](#n16), [N119](#n119), [N17](#n17)</sup>. They had been lured by promises of garment and construction jobs; BRAC said many got no job or pay, became undocumented, and some families paid ransom <sup>[N68](#n68), [N17](#n17)</sup>. A Kushtia welder injured at work got no help from his employer, went unpaid for four months and surrendered to the police <sup>[N17](#n17)</sup>.
+- **10 September 2025: 180 sent home.** The Kyrgyz government flew home 180 Bangladeshis who had become irregular, with the Bangladesh Embassy in Tashkent handling the case; they reached Dhaka on a special flight from Bishkek at 3:30 am <sup>[N16](#n16), [N124](#n124), [N17](#n17)</sup>. They had been lured by promises of garment and construction jobs; BRAC said many got no job or pay, became undocumented, and some families paid ransom <sup>[N69](#n69), [N17](#n17)</sup>. A Kushtia welder injured at work got no help from his employer, went unpaid for four months and surrendered to the police <sup>[N17](#n17)</sup>.
 - **2024: stuck on tourist visas.** The six people Jannat Trade International sent on tourist visas were left without work, and CID said the syndicate takes no responsibility once people arrive <sup>[N35 (2024)](#n35)</sup>.
-- **2022: held in a garment factory.** The workers said the broker took Tk 3.25 lakh per visa; he said he took no more than Tk 2.80 lakh <sup>[N54 (2022)](#n54)</sup>. The employer kept Tk 7,000 of a first month's Tk 10,000, saying he had paid the broker <sup>[N54 (2022)](#n54)</sup>.
+- **2022: held in a garment factory.** The workers said the broker took Tk 3.25 lakh per visa; he said he took no more than Tk 2.80 lakh <sup>[N55 (2022)](#n55)</sup>. The employer kept Tk 7,000 of a first month's Tk 10,000, saying he had paid the broker <sup>[N55 (2022)](#n55)</sup>.
 
 > **Need to know**
 > - How many Bangladeshis are undocumented or in detention in Kyrgyzstan in November 2026?
@@ -1515,17 +1516,17 @@ What has worked, in reported cases:
 
 ### 11.6 Scams
 
-- **Forged "legalisation".** In May 2025 the GKNB arrested a Bangladeshi who had taken USD 66,500 (about Tk 82.7 lakh) from fellow Bangladeshis for papers to stay legally and given them forgeries; more than 120 passports with expired documents were seized <sup>[N84](#n84), [2](#o2)</sup>. Using a document you know is forged is a crime (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[50](#o50)</sup>.
-- **Medical certificates without a medical.** In March 2026 the GKNB broke up a Bishkek scheme selling form 086 medical certificates without any examination, used to extend the stay of mainly Pakistanis and Bangladeshis <sup>[N48](#n48)</sup>.
+- **Forged "legalisation".** In May 2025 the GKNB arrested a Bangladeshi who had taken USD 66,500 (about Tk 82.7 lakh) from fellow Bangladeshis for papers to stay legally and given them forgeries; more than 120 passports with expired documents were seized <sup>[N85](#n85), [2](#o2)</sup>. Using a document you know is forged is a crime (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[50](#o50)</sup>.
+- **Medical certificates without a medical.** In March 2026 the GKNB broke up a Bishkek scheme selling form 086 medical certificates without any examination, used to extend the stay of mainly Pakistanis and Bangladeshis <sup>[N49](#n49)</sup>.
 - **"Europe after some work."** See Onward routes: Uzbekistan, Kazakhstan, Russia <sup>[N17](#n17), [N19 (2023)](#n19)</sup>.
 
-The GKNB tells foreigners to apply for permits only through the MFA's official e-Visa portal (evisa.e-gov.kg, the website for Kyrgyz visas and permits) <sup>[N84](#n84), [N4 (2024)](#n4)</sup>.
+The GKNB tells foreigners to apply for permits only through the MFA's official e-Visa portal (evisa.e-gov.kg, the website for Kyrgyz visas and permits) <sup>[N85](#n85), [N4 (2024)](#n4)</sup>.
 
 <a id="going-home-without-valid-papers"></a>
 
 ## 12 Going home without valid papers
 
-Fine-free exit windows were opened by Decree No. 164 (to 10 June 2025) and Decree No. 233 (1 to 31 July 2026) <sup>[N72](#n72), [N116](#n116), [N120](#n120), [N121](#n121)</sup>. Outside a window, an overstayer leaves on an exit visa (выездная виза, type L) applied for on the e-Visa portal, and pays the overstay fine as well <sup>[8](#o8), [N122](#n122), [N123](#n123)</sup>. The alternative is detention and expulsion (see [What happens when you are caught](#what-happens-when-you-are-caught)) <sup>[N72](#n72), [27](#o27), [N74](#n74)</sup>.
+Fine-free exit windows were opened by Decree No. 164 (to 10 June 2025) and Decree No. 233 (1 to 31 July 2026) <sup>[N73](#n73), [N121](#n121), [N125](#n125), [N126](#n126)</sup>. Outside a window, an overstayer leaves on an exit visa (выездная виза, type L) applied for on the e-Visa portal, and pays the overstay fine as well <sup>[8](#o8), [N127](#n127), [N128](#n128)</sup>. The alternative is detention and expulsion (see [What happens when you are caught](#what-happens-when-you-are-caught)) <sup>[N73](#n73), [27](#o27), [N75](#n75)</sup>.
 
 <a id="help-from-bangladesh"></a>
 
@@ -1533,8 +1534,8 @@ Fine-free exit windows were opened by Decree No. 164 (to 10 June 2025) and Decre
 
 - **Probashi call centre** (run by the Wage Earners' Welfare Board, WEWB): 16135, free in Bangladesh, or +8809610102030 from abroad <sup>[53](#o53)</sup>.
 - **Ministry of Expatriates' Welfare and Overseas Employment:** a family can write to its grievance officer, the Joint Secretary (Admin and Finance), 02-41030224, 01712992086, adsadmin@probashi.gov.bd, who has 30 working days to reply <sup>[63](#o63)</sup>.
-- **The Bangladesh Embassy in Tashkent,** Uzbekistan, covers Kyrgyzstan (see [The Bangladesh Embassy in Tashkent](#the-bangladesh-embassy-in-tashkent)) <sup>[N79 (2024)](#n79), [N16](#n16)</sup>.
-- **NGOs and BRAC:** see If an employer holds you or you are trafficked <sup>[N111 (2022)](#n111), [N93](#n93)</sup>.
+- **The Bangladesh Embassy in Tashkent,** Uzbekistan, covers Kyrgyzstan (see [The Bangladesh Embassy in Tashkent](#the-bangladesh-embassy-in-tashkent)) <sup>[N80 (2024)](#n80), [N16](#n16)</sup>.
+- **NGOs and BRAC:** see If an employer holds you or you are trafficked <sup>[N116 (2022)](#n116), [N94](#n94)</sup>.
 
 > **Need to know**
 > - Does the Ministry or the Welfare Board pay the ticket, the overstay fine or the exit visa for a stranded worker in Kyrgyzstan?
@@ -1544,7 +1545,7 @@ Fine-free exit windows were opened by Decree No. 164 (to 10 June 2025) and Decre
 
 ### 12.2 Step 1: Get a valid passport
 
-The exit visa is applied for on the e-Visa portal, which needs scanned copies of your documents, so with a valid passport in your hands, go to [Step 2: Get a certificate of no criminal record](#step-2-get-a-certificate-of-no-criminal-record) <sup>[N122](#n122), [10](#o10)</sup>. If it has expired or been lost, the Bangladesh Embassy in Tashkent has offered e-passport services to Bangladeshis living in Kyrgyzstan since its Ambassador's visit to Bishkek on 13-14 December 2025 <sup>[68](#o68)</sup>. A 48-page, 5-year e-passport costs workers USD 33 (about Tk 4,100) <sup>[82](#o82), [2](#o2)</sup>.
+The exit visa is applied for on the e-Visa portal, which needs scanned copies of your documents, so with a valid passport in your hands, go to [Step 2: Get a certificate of no criminal record](#step-2-get-a-certificate-of-no-criminal-record) <sup>[N127](#n127), [10](#o10)</sup>. If it has expired or been lost, the Bangladesh Embassy in Tashkent has offered e-passport services to Bangladeshis living in Kyrgyzstan since its Ambassador's visit to Bishkek on 13-14 December 2025 <sup>[68](#o68)</sup>. A 48-page, 5-year e-passport costs workers USD 33 (about Tk 4,100) <sup>[82](#o82), [2](#o2)</sup>.
 
 > **Need to know**
 > - Does the Embassy in Tashkent issue Travel Permits (one-way travel documents home) to Bangladeshis in Kyrgyzstan without a trip to Tashkent, at what fee, and how fast?
@@ -1554,8 +1555,8 @@ The exit visa is applied for on the e-Visa portal, which needs scanned copies of
 
 ### 12.3 Step 2: Get a certificate of no criminal record
 
-1. <a id="step-2-get-a-certificate-of-no-criminal-record-item-1"></a>**Get the certificate of no criminal record** (справка об отсутствии судимости); the exit visa application needs it <sup>[N124](#n124)</sup>.
-2. <a id="step-2-get-a-certificate-of-no-criminal-record-item-2"></a>**Go early.** On 2 July 2026 foreigners queued from the morning outside the Main Directorate of Internal Affairs (GUVD, Bishkek's police headquarters), and none had been issued a certificate by midday <sup>[N124](#n124)</sup>.
+1. <a id="step-2-get-a-certificate-of-no-criminal-record-item-1"></a>**Get the certificate of no criminal record** (справка об отсутствии судимости); the exit visa application needs it <sup>[N129](#n129)</sup>.
+2. <a id="step-2-get-a-certificate-of-no-criminal-record-item-2"></a>**Go early.** On 2 July 2026 foreigners queued from the morning outside the Main Directorate of Internal Affairs (GUVD, Bishkek's police headquarters), and none had been issued a certificate by midday <sup>[N129](#n129)</sup>.
 
 > **Need to know**
 > - Which office issues the certificate outside Bishkek, what does it cost, and how many days does it take?
@@ -1564,8 +1565,8 @@ The exit visa is applied for on the e-Visa portal, which needs scanned copies of
 
 ### 12.4 Step 3: Report to the MVD and pay the fine
 
-1. <a id="step-3-report-to-the-mvd-and-pay-the-fine-item-1"></a>**Go to the MVD office where you are staying.** It writes a report (protocol) of the migration violation <sup>[N123](#n123)</sup>. In the July 2026 window this office gave the letter needed for the exit visa <sup>[N125](#n125), [N120](#n120)</sup>.
-2. <a id="step-3-report-to-the-mvd-and-pay-the-fine-item-2"></a>**Pay the fine** for the length of your overstay (amounts under [What happens when you are caught, item 2: You get a report (protocol) and a fine](#what-happens-when-you-are-caught-item-2)) <sup>[26](#o26)</sup>. In a window the fine is waived, except for people with criminal cases, court judgments, unpaid fines or tax debts <sup>[N120](#n120)</sup>.
+1. <a id="step-3-report-to-the-mvd-and-pay-the-fine-item-1"></a>**Go to the MVD office where you are staying.** It writes a report (protocol) of the migration violation <sup>[N128](#n128)</sup>. In the July 2026 window this office gave the letter needed for the exit visa <sup>[N130](#n130), [N125](#n125)</sup>.
+2. <a id="step-3-report-to-the-mvd-and-pay-the-fine-item-2"></a>**Pay the fine** for the length of your overstay (amounts under [What happens when you are caught, item 2: You get a report (protocol) and a fine](#what-happens-when-you-are-caught-item-2)) <sup>[26](#o26)</sup>. In a window the fine is waived, except for people with criminal cases, court judgments, unpaid fines or tax debts <sup>[N125](#n125)</sup>.
 
 > **Need to know**
 > - Outside a window, does an overstayer need an MVD letter before applying for the exit visa, and is the fine paid at a bank or at the MVD?
@@ -1580,11 +1581,11 @@ The exit visa (type L) is valid up to 10 days <sup>[25](#o25)</sup>. Its fee ris
 - 1 to 2 years: 192,500 som or USD 2,200 (about Tk 2.74 lakh) <sup>[49](#o49), [1](#o1)</sup>;
 - each further year: USD 1,100 (about Tk 1.37 lakh) more <sup>[49](#o49), [2](#o2)</sup>.
 
-In July 2026 the MFA's consular director said an exit visa costs almost 100,000 som and, with the MVD's violation report, the total comes to about 120,000 to 130,000 som (about Tk 1.7 to 1.85 lakh) <sup>[N123](#n123), [1](#o1)</sup>. It is free when a court has ordered your expulsion, and a free emergency exit visa (type E) is given to someone too ill to leave alone <sup>[25](#o25)</sup>.
+In July 2026 the MFA's consular director said an exit visa costs almost 100,000 som and, with the MVD's violation report, the total comes to about 120,000 to 130,000 som (about Tk 1.7 to 1.85 lakh) <sup>[N128](#n128), [1](#o1)</sup>. It is free when a court has ordered your expulsion, and a free emergency exit visa (type E) is given to someone too ill to leave alone <sup>[25](#o25)</sup>.
 
-1. <a id="step-4-apply-for-the-exit-visa-on-the-e-visa-portal-item-1"></a>**Apply yourself** on evisa.e-gov.kg; the MFA says to apply without third parties or intermediaries <sup>[N122](#n122), [N125](#n125), [N4 (2024)](#n4)</sup>.
-2. <a id="step-4-apply-for-the-exit-visa-on-the-e-visa-portal-item-2"></a>**Apply before you go to the airport.** Getting the exit visa at Manas airport (Bishkek) before the flight is only for citizens of 67 listed states, not Bangladesh, and costs three times the fee <sup>[N122](#n122)</sup>.
-3. <a id="step-4-apply-for-the-exit-visa-on-the-e-visa-portal-item-3"></a>**If stuck,** message the MFA Consular Department on WhatsApp, +996 999 312 002, or call the MVD on 0312 266170 or 0312 266165 <sup>[N126](#n126)</sup>.
+1. <a id="step-4-apply-for-the-exit-visa-on-the-e-visa-portal-item-1"></a>**Apply yourself** on evisa.e-gov.kg; the MFA says to apply without third parties or intermediaries <sup>[N127](#n127), [N130](#n130), [N4 (2024)](#n4)</sup>.
+2. <a id="step-4-apply-for-the-exit-visa-on-the-e-visa-portal-item-2"></a>**Apply before you go to the airport.** Getting the exit visa at Manas airport (Bishkek) before the flight is only for citizens of 67 listed states, not Bangladesh, and costs three times the fee <sup>[N127](#n127)</sup>.
+3. <a id="step-4-apply-for-the-exit-visa-on-the-e-visa-portal-item-3"></a>**If stuck,** message the MFA Consular Department on WhatsApp, +996 999 312 002, or call the MVD on 0312 266170 or 0312 266165 <sup>[N131](#n131)</sup>.
 
 > **Need to know**
 > - How many days does the portal take to issue an exit visa, and which documents does the form ask for?
@@ -1594,13 +1595,13 @@ In July 2026 the MFA's consular director said an exit visa costs almost 100,000 
 ### 12.6 Step 5: Fly home
 
 1. <a id="step-5-fly-home-item-1"></a>**Buy a ticket** that leaves within the exit visa's 10 days <sup>[25](#o25)</sup>. One returnee flew Manas to Sharjah on Air Arabia, then on to Dhaka; his family borrowed for the ticket <sup>[N19 (2023)](#n19)</sup>.
-2. <a id="step-5-fly-home-item-2"></a>**At Dhaka airport,** BRAC's Migration Programme gave the September 2025 returnees emergency money and help, with the Foreign and Expatriates' Welfare ministries (see [Coming home](#coming-home)) <sup>[N68](#n68)</sup>.
+2. <a id="step-5-fly-home-item-2"></a>**At Dhaka airport,** BRAC's Migration Programme gave the September 2025 returnees emergency money and help, with the Foreign and Expatriates' Welfare ministries (see [Coming home](#coming-home)) <sup>[N69](#n69)</sup>.
 
 <a id="if-you-are-detained"></a>
 
 ### 12.7 If you are detained
 
-What happens from arrest to expulsion is under What happens when you are caught <sup>[N72](#n72), [26](#o26)</sup>. A foreigner who does not leave by the court's deadline is held in a special centre for up to 30 days, and the expelled person pays the cost of expulsion before the employer or host does (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[26](#o26), [27](#o27)</sup>. The Ombudsman's (Akyikatchy's) free hotline 115 is for people in detention facing torture, violence or cruel treatment <sup>[84](#o84)</sup>.
+What happens from arrest to expulsion is under What happens when you are caught <sup>[N73](#n73), [26](#o26)</sup>. A foreigner who does not leave by the court's deadline is held in a special centre for up to 30 days, and the expelled person pays the cost of expulsion before the employer or host does (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[26](#o26), [27](#o27)</sup>. The Ombudsman's (Akyikatchy's) free hotline 115 is for people in detention facing torture, violence or cruel treatment <sup>[84](#o84)</sup>.
 
 > **Need to know**
 > - Can the Bangladesh Embassy in Tashkent visit Bangladeshis held for expulsion, and how does a family in Bangladesh find out where a relative is held?
@@ -1610,7 +1611,7 @@ What happens from arrest to expulsion is under What happens when you are caught 
 ### 12.8 Bans after you leave
 
 - **After expulsion for an offence:** a 2-year entry ban; after a prison sentence, 5 years for less serious crimes, 10 for serious ones and life for especially serious ones <sup>[27](#o27)</sup>. No visa is issued until the ban ends <sup>[27](#o27)</sup>.
-- **After leaving on an exit visa:** you are entered in a database of violators <sup>[25](#o25)</sup>. Under Cabinet resolution No. 602 of 7 September 2026, the automated system EISUM counts each foreigner's days of stay <sup>[N127](#n127)</sup>.
+- **After leaving on an exit visa:** you are entered in a database of violators <sup>[25](#o25)</sup>. Under Cabinet resolution No. 602 of 7 September 2026, the automated system EISUM counts each foreigner's days of stay <sup>[N132](#n132)</sup>.
 
 > **Need to know**
 > - Does leaving on a paid exit visa bring an entry ban, and for how long?
@@ -1620,20 +1621,20 @@ What happens from arrest to expulsion is under What happens when you are caught 
 
 ## 13 Sending money home
 
-**Send through a bank or a money-transfer company on the register of the NBKR (National Bank of the Kyrgyz Republic, the central bank), never hundi** <sup>[48](#o48), [N61 (2024)](#n61)</sup>. Hundi (sending money through unlicensed private agents outside the banking system) is illegal in Bangladesh, and hundi brokers settle their deals through bKash and Nagad, Bangladesh's mobile-money wallets <sup>[N61 (2024)](#n61)</sup>. By June 2026 Bangladesh's Financial Intelligence Unit (BFIU) had frozen or suspended about 55,000 mobile-money accounts linked to digital hundi and online gambling, and in August 2026 it decided to freeze about 14,000 more <sup>[N128](#n128)</sup>. Kyrgyzstan prosecutes informal channels too: in May 2025 the GKNB (State Committee for National Security, Kyrgyzstan's security service) detained two men who had moved more than USD 20 million (about Tk 249 crore) through Bishkek exchange points outside official records and kept some clients' money, including USD 2 million (about Tk 24.9 crore) handed over by one man <sup>[N129](#n129), [2](#o2)</sup>. Money sent legally earns the family Bangladesh's 2.5% cash incentive, kept in the FY2026-27 budget, and in some cases a further 2.5% from the bank <sup>[93](#o93), [N60](#n60)</sup>. Bangladesh Bank publishes no separate figure for money sent from Kyrgyzstan; it counts it under "Others" <sup>[47 (2024)](#o47)</sup>.
+**Send through a bank or a money-transfer company on the register of the NBKR (National Bank of the Kyrgyz Republic, the central bank), never hundi** <sup>[48](#o48), [N62 (2024)](#n62)</sup>. Hundi (sending money through unlicensed private agents outside the banking system) is illegal in Bangladesh, and hundi brokers settle their deals through bKash and Nagad, Bangladesh's mobile-money wallets <sup>[N62 (2024)](#n62)</sup>. By June 2026 Bangladesh's Financial Intelligence Unit (BFIU) had frozen or suspended about 55,000 mobile-money accounts linked to digital hundi and online gambling, and in August 2026 it decided to freeze about 14,000 more <sup>[N133](#n133)</sup>. Kyrgyzstan prosecutes informal channels too: in May 2025 the GKNB (State Committee for National Security, Kyrgyzstan's security service) detained two men who had moved more than USD 20 million (about Tk 249 crore) through Bishkek exchange points outside official records and kept some clients' money, including USD 2 million (about Tk 24.9 crore) handed over by one man <sup>[N134](#n134), [2](#o2)</sup>. Money sent legally earns the family Bangladesh's 2.5% cash incentive, kept in the FY2026-27 budget, and in some cases a further 2.5% from the bank <sup>[93](#o93), [N61](#n61)</sup>. Bangladesh Bank publishes no separate figure for money sent from Kyrgyzstan; it counts it under "Others" <sup>[47 (2024)](#o47)</sup>.
 
 <a id="your-salary-and-a-bank-account"></a>
 
 ### 13.1 Your salary and a bank account
 
-Companies, and since 1 January 2026 individual entrepreneurs, must pay a foreign worker's wages by bank transfer to a card; cash is allowed only in exceptional cases <sup>[45](#o45), [N47](#n47), [25](#o25)</sup>. The resident card (the plastic permit that follows the first Unified Permit) works as a bank card, a special bank account is opened for it, and your wages are paid onto it ([Work visa: company worker](#work-visa-company-worker), [Step 7: After arrival](#step-7-after-arrival)) <sup>[N75](#n75), [9](#o9), [N2](#n2)</sup>. A bank can also open a current account of your own for a foreigner who doesn't live permanently in Kyrgyzstan (a "non-resident"); Bakai Bank, for example, does <sup>[N130](#n130)</sup>.
+Companies, and since 1 January 2026 individual entrepreneurs, must pay a foreign worker's wages by bank transfer to a card; cash is allowed only in exceptional cases <sup>[45](#o45), [N48](#n48), [25](#o25)</sup>. The resident card (the plastic permit that follows the first Unified Permit) works as a bank card, a special bank account is opened for it, and your wages are paid onto it ([Work visa: company worker](#work-visa-company-worker), [Step 7: After arrival](#step-7-after-arrival)) <sup>[N76](#n76), [9](#o9), [N2](#n2)</sup>. A bank can also open a current account of your own for a foreigner who doesn't live permanently in Kyrgyzstan (a "non-resident"); Bakai Bank, for example, does <sup>[N135](#n135)</sup>.
 
-You'll need <sup>[N130](#n130)</sup>:
+You'll need <sup>[N135](#n135)</sup>:
 - your passport and a copy;
 - where the bank asks for it, the document that gives you the right to stay in Kyrgyzstan (the Unified Permit or resident card) and a copy.
 
-1. <a id="your-salary-and-a-bank-account-item-1"></a>**Fill in the bank's papers:** a client form, an application, a signature card and the account agreement <sup>[N130](#n130)</sup>.
-2. <a id="your-salary-and-a-bank-account-item-2"></a>**Show the originals** of the documents you copied, for comparison <sup>[N130](#n130)</sup>.
+1. <a id="your-salary-and-a-bank-account-item-1"></a>**Fill in the bank's papers:** a client form, an application, a signature card and the account agreement <sup>[N135](#n135)</sup>.
+2. <a id="your-salary-and-a-bank-account-item-2"></a>**Show the originals** of the documents you copied, for comparison <sup>[N135](#n135)</sup>.
 
 > **Need to know**
 > - Do Kyrgyz employers in practice pay Bangladeshi garment and construction workers onto a card, or in cash?
@@ -1645,21 +1646,21 @@ You'll need <sup>[N130](#n130)</sup>:
 ### 13.2 How to send
 
 **The channels:**
-- **Transfer systems licensed in Kyrgyzstan.** The NBKR's register lists the operators allowed to send money; Western Union (registered 2018), MoneyGram (2014) and Ria Money Transfer (2017) are on it, among 20 international systems in July 2026, with Zolotaya Korona, Unistream and Hello <sup>[48](#o48), [N131](#n131)</sup>.
-- **Banks.** Optima Bank, for example, sends money without a bank account through Western Union, Zolotaya Korona, MoneyGram, Astrasend and Ria, and to bank accounts abroad through SWIFT (the international bank-transfer network), at all its branches <sup>[N132](#n132)</sup>. Western Union has agents in Bishkek, Osh and Jalal-Abad <sup>[N133](#n133)</sup>.
-- **Bank apps.** MBANK's app sends money to 160 countries, to phone numbers, mobile wallets and bank accounts; the fee depends on the bank's partner <sup>[N134 (2024)](#n134)</sup>.
-- **Straight to bKash: no Kyrgyz partner.** bKash's list of countries with partners that pay into a bKash wallet does not include Kyrgyzstan (checked 10 November 2026) <sup>[N60](#n60)</sup>. Profee, a transfer app, advertises card payments from Kyrgyzstan to bKash, Nagad and Rocket wallets, but it is not among the 20 international operators on the NBKR register <sup>[N135](#n135), [48](#o48), [N131](#n131)</sup>.
+- **Transfer systems licensed in Kyrgyzstan.** The NBKR's register lists the operators allowed to send money; Western Union (registered 2018), MoneyGram (2014) and Ria Money Transfer (2017) are on it, among 20 international systems in July 2026, with Zolotaya Korona, Unistream and Hello <sup>[48](#o48), [N136](#n136)</sup>.
+- **Banks.** Optima Bank, for example, sends money without a bank account through Western Union, Zolotaya Korona, MoneyGram, Astrasend and Ria, and to bank accounts abroad through SWIFT (the international bank-transfer network), at all its branches <sup>[N137](#n137)</sup>. Western Union has agents in Bishkek, Osh and Jalal-Abad <sup>[N138](#n138)</sup>.
+- **Bank apps.** MBANK's app sends money to 160 countries, to phone numbers, mobile wallets and bank accounts; the fee depends on the bank's partner <sup>[N139 (2024)](#n139)</sup>.
+- **Straight to bKash: no Kyrgyz partner.** bKash's list of countries with partners that pay into a bKash wallet does not include Kyrgyzstan (checked 10 November 2026) <sup>[N61](#n61)</sup>. Profee, a transfer app, advertises card payments from Kyrgyzstan to bKash, Nagad and Rocket wallets, but it is not among the 20 international operators on the NBKR register <sup>[N140](#n140), [48](#o48), [N136](#n136)</sup>.
 
 You'll need:
-- the receiver's surname, first name and patronymic, and his bank account number, or if he has no account, his identity document details <sup>[N132](#n132)</sup>;
-- for a bKash wallet, if your channel pays into bKash, the receiver's bKash number and full name exactly as registered when the account was opened <sup>[N60](#n60)</sup>.
+- the receiver's surname, first name and patronymic, and his bank account number, or if he has no account, his identity document details <sup>[N137](#n137)</sup>;
+- for a bKash wallet, if your channel pays into bKash, the receiver's bKash number and full name exactly as registered when the account was opened <sup>[N61](#n61)</sup>.
 
 1. <a id="how-to-send-item-1"></a>**Check the company is licensed.** On [nbkr.kg](https://www.nbkr.kg/index1.jsp?item=2665&lang=RUS), open "Реестр международных и локальных систем денежных переводов" (register of international and local money transfer systems) and look under "Операторы международных систем денежных переводов" (operators of international money transfer systems) <sup>[48](#o48)</sup>.
-2. <a id="how-to-send-item-2"></a>**Change som into dollars only at a bank or licensed exchange bureau.** In February 2026 the NBKR fined 14 people in Bishkek 17,500 som (about Tk 24,900) each for changing cash currency without a licence <sup>[N136](#n136), [1](#o1)</sup>.
+2. <a id="how-to-send-item-2"></a>**Change som into dollars only at a bank or licensed exchange bureau.** In February 2026 the NBKR fined 14 people in Bishkek 17,500 som (about Tk 24,900) each for changing cash currency without a licence <sup>[N141](#n141), [1](#o1)</sup>.
 3. <a id="how-to-send-item-3"></a>**Send.**
-   1. At a bank branch, write the receiver's exact details on the bank's application form, hand over the money and pay the commission at the bank's tariff <sup>[N132](#n132)</sup>.
-   2. In the MBANK app, tap Payments, then Transfers, then "В другую страну" (to another country), then choose the transfer type and payment service <sup>[N134 (2024)](#n134)</sup>.
-4. <a id="how-to-send-item-4"></a>**The family collects.** A bKash wallet takes up to Tk 2.5 lakh (about USD 2,000) per transfer, any number of times, and cashes out at Tk 7 per thousand at BRAC Bank, City Bank and Q-Cash ATMs; the 2.5% government incentive is added <sup>[N60](#n60), [2](#o2)</sup>.
+   1. At a bank branch, write the receiver's exact details on the bank's application form, hand over the money and pay the commission at the bank's tariff <sup>[N137](#n137)</sup>.
+   2. In the MBANK app, tap Payments, then Transfers, then "В другую страну" (to another country), then choose the transfer type and payment service <sup>[N139 (2024)](#n139)</sup>.
+4. <a id="how-to-send-item-4"></a>**The family collects.** A bKash wallet takes up to Tk 2.5 lakh (about USD 2,000) per transfer, any number of times, and cashes out at Tk 7 per thousand at BRAC Bank, City Bank and Q-Cash ATMs; the 2.5% government incentive is added <sup>[N61](#n61), [2](#o2)</sup>.
 
 > **Need to know**
 > - Which channel do Bangladeshi workers in Bishkek actually use in 2026, and what does sending 30,000 som (about Tk 42,700) cost?
@@ -1676,7 +1677,7 @@ Complain in this order:
 
 1. <a id="if-the-money-doesnt-arrive-item-1"></a>**The bank or transfer company,** in writing, by letter or electronically, with your full name, address, phone numbers, what happened and copies of your documents; the answer must be signed by the head of the bank or branch and give its reasons <sup>[94 (2022)](#o94)</sup>.
 2. <a id="if-the-money-doesnt-arrive-item-2"></a>**The NBKR,** if you disagree with the answer or get none: by letter or e-mail to mail@nbkr.kg, with the same details and copies of documents <sup>[94 (2022)](#o94)</sup>. Public reception (0312) 61 04 86 (+996 312 61 04 86), also 0555 85 57 48 and 0770 73 73 49; Osh office (03222) 48434 <sup>[94 (2022)](#o94)</sup>.
-3. <a id="if-the-money-doesnt-arrive-item-3"></a>**bKash,** for a wallet transfer: 16247 in Bangladesh, +88-02-55663001 from abroad, support@bkash.com <sup>[N60](#n60)</sup>.
+3. <a id="if-the-money-doesnt-arrive-item-3"></a>**bKash,** for a wallet transfer: 16247 in Bangladesh, +88-02-55663001 from abroad, support@bkash.com <sup>[N61](#n61)</sup>.
 
 > **Need to know**
 > - Does the NBKR take complaints in English, and how long does it take to answer?
@@ -1695,7 +1696,7 @@ Complain in this order:
 
 ## 14 If a worker dies, is injured or loses the job
 
-In Kyrgyzstan the employer is liable for work injuries, and a claim for them goes straight to court <sup>[45](#o45)</sup>. In Bangladesh the Wage Earners' Welfare Board (the Welfare Board, the government board for migrants' welfare) pays grants to injured workers and to dead workers' families, and runs the Probashi call centre, 16135 <sup>[96](#o96), [97](#o97), [53](#o53)</sup>. Its grants go only to workers who left with BMET (Bureau of Manpower, Employment and Training) clearance or are Board members, and the Tk 10 lakh migrant-worker insurance only to those who left with BMET clearance <sup>[96](#o96), [97](#o97), [40](#o40)</sup>. Bangladesh has no embassy in Kyrgyzstan; the Embassy in Tashkent, Uzbekistan, covers it (see [The Bangladesh Embassy in Tashkent](#the-bangladesh-embassy-in-tashkent)) <sup>[N79 (2024)](#n79)</sup>.
+In Kyrgyzstan the employer is liable for work injuries, and a claim for them goes straight to court <sup>[45](#o45)</sup>. In Bangladesh the Wage Earners' Welfare Board (the Welfare Board, the government board for migrants' welfare) pays grants to injured workers and to dead workers' families, and runs the Probashi call centre, 16135 <sup>[96](#o96), [97](#o97), [53](#o53)</sup>. Its grants go only to workers who left with BMET (Bureau of Manpower, Employment and Training) clearance or are Board members, and the Tk 10 lakh migrant-worker insurance only to those who left with BMET clearance <sup>[96](#o96), [97](#o97), [40](#o40)</sup>. Bangladesh has no embassy in Kyrgyzstan; the Embassy in Tashkent, Uzbekistan, covers it (see [The Bangladesh Embassy in Tashkent](#the-bangladesh-embassy-in-tashkent)) <sup>[N80 (2024)](#n80)</sup>.
 
 > **Need to know**
 > - How can a Bangladeshi in Kyrgyzstan who left without BMET clearance become a Welfare Board member, and does the Embassy in Tashkent enrol members?
@@ -1706,7 +1707,7 @@ In Kyrgyzstan the employer is liable for work injuries, and a claim for them goe
 
 1. <a id="if-you-are-injured-or-fall-ill-item-1"></a>**Get treated.** The employer is responsible for work injuries, including on transport it provides to and from work <sup>[45](#o45)</sup>. Unless agreed otherwise in writing, the side that invited you bears your upkeep and medical care <sup>[27](#o27)</sup>. Sick pay is under Your rights at work <sup>[45](#o45)</sup>.
 2. <a id="if-you-are-injured-or-fall-ill-item-2"></a>**Ask the employer for a work-accident report.** If it refuses, or you disagree with what it says, take it to court <sup>[45](#o45)</sup>.
-3. <a id="if-you-are-injured-or-fall-ill-item-3"></a>**Claim compensation in court.** It covers lost earnings, extra costs, a one-off sum set by the Cabinet of Ministers for disability, and moral damage, and can't be refused entirely even if you were careless <sup>[45](#o45)</sup>. A Kushtia welder injured at work, without a contract, got no help from his employer, went four months unpaid, surrendered to the police and spent over three months in jail <sup>[N17](#n17), [N94](#n94), [N93](#n93)</sup>.
+3. <a id="if-you-are-injured-or-fall-ill-item-3"></a>**Claim compensation in court.** It covers lost earnings, extra costs, a one-off sum set by the Cabinet of Ministers for disability, and moral damage, and can't be refused entirely even if you were careless <sup>[45](#o45)</sup>. A Kushtia welder injured at work, without a contract, got no help from his employer, went four months unpaid, surrendered to the police and spent over three months in jail <sup>[N17](#n17), [N95](#n95), [N94](#n94)</sup>.
 4. <a id="if-you-are-injured-or-fall-ill-item-4"></a>**Too ill to travel alone?** A free emergency exit visa (type E) is issued on a medical opinion and a petition from the health authority <sup>[25](#o25), [8](#o8)</sup>.
 5. <a id="if-you-are-injured-or-fall-ill-item-5"></a>**Going home.** The Welfare Board's airport desks take sick returnees to hospital, with a free ambulance from Dhaka or Chattogram airport <sup>[4](#o4), [98](#o98)</sup>.
 6. <a id="if-you-are-injured-or-fall-ill-item-6"></a>**Claim the treatment grant in Bangladesh.** The Welfare Board pays up to Tk 2 lakh for treatment to workers who come home disabled or critically ill, if they had BMET clearance or Board membership <sup>[97](#o97)</sup>.
@@ -1760,7 +1761,7 @@ In Kyrgyzstan the employer is liable for work injuries, and a claim for them goe
 2. <a id="if-you-lose-the-job-item-2"></a>**Get everything owed by the last working day:** all wages and pay for unused leave, and, if the employer closes or cuts staff, severance of at least 2 months' average pay (see [Changing employer or leaving](#changing-employer-or-leaving)) <sup>[45](#o45)</sup>.
 3. <a id="if-you-lose-the-job-item-3"></a>**The employer pays your ticket home;** one that doesn't goes on the Register of Bad-Faith Employers, where it stays for a year (see [Changing employer or leaving](#changing-employer-or-leaving), Leaving at the end of the job) <sup>[25](#o25)</sup>.
 4. <a id="if-you-lose-the-job-item-4"></a>**If you were dismissed unfairly or not paid,** bring a dismissal dispute within 2 months of the dismissal order, and any other claim, such as unpaid pay, within 3 months of learning of it (see [If you aren't paid](#if-you-arent-paid)) <sup>[45](#o45)</sup>.
-5. <a id="if-you-lose-the-job-item-5"></a>**Staying on without a permit** brings a fine and can lead to expulsion (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[26](#o26), [27](#o27), [N114](#n114)</sup>.
+5. <a id="if-you-lose-the-job-item-5"></a>**Staying on without a permit** brings a fine and can lead to expulsion (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[26](#o26), [27](#o27), [N119](#n119)</sup>.
 
 > **Need to know**
 > - Does Kyrgyzstan pay any unemployment benefit to a foreign worker who loses his job?
@@ -1771,11 +1772,11 @@ In Kyrgyzstan the employer is liable for work injuries, and a claim for them goe
 ## 15 Coming home
 
 - **Airport help.** The Welfare Board's desks at Dhaka, Chattogram and Sylhet airports help with customs clearance and lost luggage, and take complaints from workers returning after abuse or fraud <sup>[103](#o103)</sup>. Dhaka desk: +8802 8901040, 01404 413388; Chattogram: 01913631797; Sylhet: 01558277904 <sup>[98](#o98), [4](#o4)</sup>. Women returning within a year after abuse or fraud get Tk 5,000, and sick or injured workers are taken to hospital, with a free ambulance from Dhaka or Chattogram airport <sup>[4](#o4), [98](#o98)</sup>.
-- **BRAC's help.** At Dhaka airport BRAC's Migration Programme gave the 180 Bangladeshis flown home from Bishkek on 10 September 2025 emergency money and help, with the Foreign Ministry, the Ministry of Expatriates' Welfare and the Civil Aviation Authority <sup>[N68](#n68), [N17](#n17)</sup>. BRAC says stranded migrants can get help through its Migration Welfare Centre <sup>[N93](#n93)</sup>.
+- **BRAC's help.** At Dhaka airport BRAC's Migration Programme gave the 180 Bangladeshis flown home from Bishkek on 10 September 2025 emergency money and help, with the Foreign Ministry, the Ministry of Expatriates' Welfare and the Civil Aviation Authority <sup>[N69](#n69), [N17](#n17)</sup>. BRAC says stranded migrants can get help through its Migration Welfare Centre <sup>[N94](#n94)</sup>.
 - **A place to stay.** The Wage Earners' Centre near Shahjalal airport costs Tk 100 to enter and Tk 200 a night; book at wec.wewb.gov.bd <sup>[104](#o104)</sup>. The Probashi Lounge at Shahjalal airport gives free wifi and telephone and cheaper food to workers who show BMET clearance or Welfare Board membership <sup>[105](#o105)</sup>.
 - **Legal help for your family in Bangladesh:** apply to the Welfare Board directly, or through the expatriate welfare branch of the Deputy Commissioner's office (the district administration) or your DEMO <sup>[106](#o106)</sup>. A complaint against the agency that sent you goes in writing, with evidence, to BMET's Director General; it is free and should be settled in 30 working days <sup>[4](#o4)</sup>.
 - **A business loan.** PKB (Probashi Kallyan Bank, the government bank for migrants) lends returnees up to Tk 50 lakh, up to Tk 3 lakh without collateral; you need an up-to-date trade licence <sup>[107](#o107)</sup>. Helpline 16238, or +880 9677-787878 from abroad <sup>[42](#o42)</sup>.
-- **If Kyrgyzstan sent you home,** as it did the 180 in September 2025, see Going home without valid papers <sup>[N137](#n137)</sup>.
+- **If Kyrgyzstan sent you home,** as it did the 180 in September 2025, see Going home without valid papers <sup>[N142](#n142)</sup>.
 
 > **Need to know**
 > - What is the phone number of BRAC's Migration Welfare Centre, and what help does it give returnees from Kyrgyzstan?
@@ -1785,7 +1786,7 @@ In Kyrgyzstan the employer is liable for work injuries, and a claim for them goe
 
 ### 15.1 What you can carry home
 
-- **Leaving Kyrgyzstan with cash.** A foreigner may not take more than USD 5,000 (about Tk 6.2 lakh) in cash US dollars out of Kyrgyzstan, under a temporary restriction in force since 13 January 2023 that stays until the Cabinet decides otherwise; the GKNB's Border Service and the State Customs Service enforce it <sup>[108](#o108), [85 (2024)](#o85), [2](#o2)</sup>. Cash of more than USD 10,000 (about Tk 12.4 lakh) in total, counting foreign currency and som together at the day's rate, must be declared on the passenger customs declaration (ПТД); below that, declaring is voluntary <sup>[108](#o108), [2](#o2)</sup>. The Border Service reminded travellers of the ban in September 2024, after stopping an Uzbek citizen with USD 30,000 (about Tk 37.3 lakh) <sup>[N138 (2024)](#n138), [2](#o2)</sup>. In July 2026 customs at Manas airport (Bishkek) stopped an Uzbek citizen taking out USD 28,100 (about Tk 35 lakh) undeclared, and opened a criminal case <sup>[N139](#n139), [2](#o2)</sup>. Banks such as Optima Bank also send money abroad by SWIFT bank transfer (see [How to send](#how-to-send)) <sup>[N132](#n132)</sup>.
+- **Leaving Kyrgyzstan with cash.** A foreigner may not take more than USD 5,000 (about Tk 6.2 lakh) in cash US dollars out of Kyrgyzstan, under a temporary restriction in force since 13 January 2023 that stays until the Cabinet decides otherwise; the GKNB's Border Service and the State Customs Service enforce it <sup>[108](#o108), [85 (2024)](#o85), [2](#o2)</sup>. Cash of more than USD 10,000 (about Tk 12.4 lakh) in total, counting foreign currency and som together at the day's rate, must be declared on the passenger customs declaration (ПТД); below that, declaring is voluntary <sup>[108](#o108), [2](#o2)</sup>. The Border Service reminded travellers of the ban in September 2024, after stopping an Uzbek citizen with USD 30,000 (about Tk 37.3 lakh) <sup>[N143 (2024)](#n143), [2](#o2)</sup>. In July 2026 customs at Manas airport (Bishkek) stopped an Uzbek citizen taking out USD 28,100 (about Tk 35 lakh) undeclared, and opened a criminal case <sup>[N144](#n144), [2](#o2)</sup>. Banks such as Optima Bank also send money abroad by SWIFT bank transfer (see [How to send](#how-to-send)) <sup>[N137](#n137)</sup>.
 - **Arriving in Bangladesh:**
   - **Cash:** any amount of foreign currency, but more than USD 10,000 (about Tk 12.4 lakh) must be declared on the FMJ form (the customs currency declaration) <sup>[109](#o109), [2](#o2)</sup>.
   - **Phones:** 2 used phones, plus 1 new phone once a year, without duty or tax <sup>[109](#o109)</sup>.
@@ -1804,11 +1805,11 @@ In Kyrgyzstan the employer is liable for work injuries, and a claim for them goe
 
 ### 16.1 The Bangladesh Embassy in Tashkent
 
-Bangladesh has no embassy in Kyrgyzstan; its Embassy in Tashkent, Uzbekistan, covers Kyrgyzstan, and Ambassador Mohammad Monirul Islam is accredited to the Kyrgyz Republic from there <sup>[N79 (2024)](#n79), [N140](#n140)</sup>. In May 2024, after mob attacks on foreigners in Bishkek, the Ambassador was sent to Bishkek to look after Bangladeshis, and the Embassy gave a 24-hour emergency number <sup>[N79 (2024)](#n79), [N106 (2024)](#n106)</sup>. When Kyrgyzstan flew home 180 Bangladeshis who had become irregular, in September 2025, the Embassy reported the return flight's schedule <sup>[N16](#n16)</sup>.
+Bangladesh has no embassy in Kyrgyzstan; its Embassy in Tashkent, Uzbekistan, covers Kyrgyzstan, and Ambassador Mohammad Monirul Islam is accredited to the Kyrgyz Republic from there <sup>[N80 (2024)](#n80), [N145](#n145)</sup>. In May 2024, after mob attacks on foreigners in Bishkek, the Ambassador was sent to Bishkek to look after Bangladeshis, and the Embassy gave a 24-hour emergency number <sup>[N80 (2024)](#n80), [N108 (2024)](#n108)</sup>. When Kyrgyzstan flew home 180 Bangladeshis who had become irregular, in September 2025, the Embassy reported the return flight's schedule <sup>[N16](#n16)</sup>.
 
 - **Address:** Hamid Sulaymanov 56-58, Yakkasaray district, Tashkent 100070, Uzbekistan <sup>[76](#o76)</sup>.
 - **Phone:** +99871 2556520, +99871 2551971, +99878 1209101 <sup>[76](#o76)</sup>.
-- **24-hour emergency number (given in May 2024):** +998 93 000 9780 <sup>[N106 (2024)](#n106)</sup>.
+- **24-hour emergency number (given in May 2024):** +998 93 000 9780 <sup>[N108 (2024)](#n108)</sup>.
 - **Email:** mission.tashkent@mofa.gov.bd <sup>[76](#o76)</sup>.
 - **Consular hours:** Monday to Friday, 11:00 to 16:00 Tashkent time (lunch 13:00 to 14:00); closed Saturday and Sunday <sup>[110](#o110)</sup>.
 
@@ -1821,7 +1822,7 @@ Bangladesh has no embassy in Kyrgyzstan; its Embassy in Tashkent, Uzbekistan, co
 
 **If a Bangladeshi dies in Kyrgyzstan,** see [If a worker dies](#if-a-worker-dies); the Embassy's "Repatriation of Dead Body" page is empty <sup>[100](#o100)</sup>.
 
-**Honorary consul in Bishkek.** Temirbek Erkinov has served as Bangladesh's Honorary Consul in Bishkek <sup>[N141](#n141)</sup>.
+**Honorary consul in Bishkek.** Temirbek Erkinov has served as Bangladesh's Honorary Consul in Bishkek <sup>[N146](#n146)</sup>.
 
 > **Need to know**
 > - Is Temirbek Erkinov still Bangladesh's Honorary Consul in Bishkek, and what are his office address and phone?
@@ -1834,10 +1835,10 @@ Bangladesh has no embassy in Kyrgyzstan; its Embassy in Tashkent, Uzbekistan, co
 
 ### 16.2 Contacts in Kyrgyzstan
 
-- **e-Visa portal** ([evisa.e-gov.kg](https://www.evisa.e-gov.kg), the official portal of the MFA, the Ministry of Foreign Affairs, for permits and exit visas) <sup>[N84](#n84), [N4 (2024)](#n4), [N122](#n122)</sup>. Visa Center hotline, WhatsApp +996 703 428865; Consular Department 24-hour hotline and WhatsApp, +996 999 312002 <sup>[72](#o72), [N126](#n126)</sup>. Work-permit enquiries: +996 312 603070 <sup>[N4 (2024)](#n4)</sup>.
-- **MVD (Ministry of Internal Affairs), lines for exit questions:** 0312 266170, 0312 266165 <sup>[N126](#n126)</sup>.
-- **Service Centres for Foreign Citizens** (registration and residence permits): Bishkek, 121 Jumabek Street (Wedding Palace building); Osh, 211 Kurmanjan Datka Street; Monday to Friday, 9:00 to 18:00 <sup>[N80](#n80)</sup>.
-- **Labour inspection** (the Service for Control and Supervision of Labour Legislation, under the Ministry of Labour, Social Security and Migration), for unpaid wages: a written complaint to its local office where the employer is, or through a TsON (public service centre) in the regions (see [If you aren't paid](#if-you-arent-paid)) <sup>[N142](#n142), [N95](#n95)</sup>.
+- **e-Visa portal** ([evisa.e-gov.kg](https://www.evisa.e-gov.kg), the official portal of the MFA, the Ministry of Foreign Affairs, for permits and exit visas) <sup>[N85](#n85), [N4 (2024)](#n4), [N127](#n127)</sup>. Visa Center hotline, WhatsApp +996 703 428865; Consular Department 24-hour hotline and WhatsApp, +996 999 312002 <sup>[72](#o72), [N131](#n131)</sup>. Work-permit enquiries: +996 312 603070 <sup>[N4 (2024)](#n4)</sup>.
+- **MVD (Ministry of Internal Affairs), lines for exit questions:** 0312 266170, 0312 266165 <sup>[N131](#n131)</sup>.
+- **Service Centres for Foreign Citizens** (registration and residence permits): Bishkek, 121 Jumabek Street (Wedding Palace building); Osh, 211 Kurmanjan Datka Street; Monday to Friday, 9:00 to 18:00 <sup>[N81](#n81)</sup>.
+- **Labour inspection** (the Service for Control and Supervision of Labour Legislation, under the Ministry of Labour, Social Security and Migration), for unpaid wages: a written complaint to its local office where the employer is, or through a TsON (public service centre) in the regions (see [If you aren't paid](#if-you-arent-paid)) <sup>[N147](#n147), [N96](#n96)</sup>.
 - **Ombudsman (Akyikatchy):** 115, free; WhatsApp (0999) 000-115; in writing at the office or through [ombudsman.kg](https://ombudsman.kg) <sup>[84](#o84)</sup>. The 115 line is meant for people in closed institutions, such as detention, facing torture, violence or cruel treatment <sup>[84](#o84)</sup>.
 - **Asylum:** the Ministry of Labour, Social Security and Migration's Department for work with kairylmans (ethnic Kyrgyz returnees) and refugees, 215 Tynystanov Street, Bishkek, +996 312 62-13-93 (see [Asylum](#asylum)) <sup>[12](#o12)</sup>. The NGO Legal Clinic Adilet helps free with writing and translating the application <sup>[12](#o12)</sup>.
 - **NBKR (central bank), complaints about banks and transfers:** (0312) 61 04 86, 0555 85 57 48, 0770 73 73 49, mail@nbkr.kg; Osh office (03222) 48434 <sup>[94 (2022)](#o94)</sup>.
@@ -1858,8 +1859,8 @@ Bangladesh has no embassy in Kyrgyzstan; its Embassy in Tashkent, Uzbekistan, co
 - **PKB:** 16238, or +880 9677-787878 from abroad <sup>[42](#o42)</sup>.
 - **Passport helpline, 24 hours:** 16445, or 09666716445 from abroad <sup>[67 (2023)](#o67)</sup>.
 - **Police clearance helpdesk,** Sunday to Thursday, 9 am to 5 pm: 01320001824, 01320001825, help.pcc@police.gov.bd <sup>[60](#o60)</sup>.
-- **Embassy of the Kyrgyz Republic in New Delhi,** whose ambassador has been accredited to Bangladesh as well: D 2/2 Vasant Vihar, New Delhi 110057; +91 11 2614 8019; hotline +91 98103 04863; kgembassy.in@mfa.gov.kg <sup>[N109 (2022)](#n109), [N143](#n143)</sup>.
-- **bKash:** 16247, or +88-02-55663001 from abroad, support@bkash.com <sup>[N60](#n60)</sup>.
+- **Embassy of the Kyrgyz Republic in New Delhi,** whose ambassador has been accredited to Bangladesh as well: D 2/2 Vasant Vihar, New Delhi 110057; +91 11 2614 8019; hotline +91 98103 04863; kgembassy.in@mfa.gov.kg <sup>[N114 (2022)](#n114), [N148](#n148)</sup>.
+- **bKash:** 16247, or +88-02-55663001 from abroad, support@bkash.com <sup>[N61](#n61)</sup>.
 
 > **Need to know**
 > - Is the Kyrgyz ambassador in New Delhi still accredited to Bangladesh in 2026, and is there a Kyrgyz honorary consul in Dhaka?
@@ -2030,109 +2031,114 @@ These facts come only from news or third-party sources. Each needs an official s
 - <a id="n35"></a>N35. The Daily Star, 7 May 2024. [Fake job offer in Kyrgyzstan: 3 of a trafficking syndicate held](https://thedailystar.net/news/bangladesh/news/fake-job-offer-kyrgyzstan-3-trafficking-syndicate-held-3604471). Accessed 10 Nov 2026. Possibly outdated.
 - <a id="n36"></a>N36. 24.kg, 16 May 2025. [Over 12,000 foreigners receive permission to work in Kyrgyzstan in 2025](https://24.kg/english/329358_Over_12000_foreigners_receive_permission_to_work_in_Kyrgyzstan_in_2025/). Accessed 10 Nov 2026. Possibly outdated.
 - <a id="n37"></a>N37. Economist.kg, 15 Apr 2024. [V Bishkeke vyyavili 64 nelegalov iz Pakistana i Bangladesha (64 undocumented Pakistanis and Bangladeshis found in Bishkek, to be expelled)](https://economist.kg/novosti/2024/04/15/v-bishkiekie-vyiavili-64-nielieghalov-iz-pakistana-i-banghladiesha-ikh-vydvoriat-iz-strany/). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n38"></a>N38. 24.kg, 2 Sep 2021. [Kyrgyzstan blocked issue of visas to citizens of Pakistan and three other countries](https://24.kg/obschestvo/205828_kyirgyizstan_zablokiroval_vyidachu_viz_grajdanam_pakistana_iesche_treh_stran/). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n39"></a>N39. 24.kg, 2 Sep 2021. [MFA explained why citizens of Pakistan and three other countries are not issued visas](https://24.kg/vlast/205884_mid_obyyasnil_pochemu_grajdanam_pakistana_iesche_treh_stran_nevyidayut_vizyi/amp/). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n40"></a>N40. The Business Standard, 22 Apr 2024. [Kyrgyzstan wants to hire skilled manpower from Bangladesh: Salman F Rahman](https://www.tbsnews.net/node/834041). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n41"></a>N41. 24.kg, 16 Dec 2024. [MP asked to help garment shops hire citizens of Bangladesh](https://24.kg/vlast/314373_deputat_poprosil_pomoch_shveynyim_tseham_nanimat_grajdan_izbangladesh_/). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n42"></a>N42. RFE/RL, 21 May 2024. [Why mass labor exporter Kyrgyzstan faces migrant worker fear at home](https://www.rferl.org/a/mass-labor-kyrgyzstan-migrant-worker-fear/32957992.html). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n43"></a>N43. Radio Azattyk (RFE/RL Kyrgyz Service), 20 May 2025. [GKNB: Bangladeshi citizen detained on suspicion of making fake Kyrgyz visas](https://www.azattyqasia.org/a/33419244.html). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n44"></a>N44. Zakon.kg (reproduces the Ministry of Justice legal database), 21 May 2026. [Закон Кыргызской Республики «О внешней миграции» (редакция от 21.05.2026)](https://zakon.kg/law/o-vneshney-migracii/). Accessed 10 Nov 2026.
-- <a id="n45"></a>N45. 24.kg, 20 Feb 2026. [Квота на трудовую миграцию в Кыргызстане увеличена до 52 тысяч](https://www.24.kg/obschestvo/362851_kvota_natrudovuyu_migratsiyu_vkyirgyizstane_uvelichena_do52tyisyach/). Accessed 10 Nov 2026.
-- <a id="n46"></a>N46. 24.kg, 24 Apr 2026. [Quota for foreign workers in Kyrgyzstan for 2026 reaches 52,000](https://24.kg/en/article/371832). Accessed 10 Nov 2026.
-- <a id="n47"></a>N47. Economist.kg, 19 Feb 2026. [Migration in the Kyrgyz Republic: results of 2025](https://economist.kg/ekonomika/2026/02/19/mighratsiia-v-kr-novyie-pravila-stroitielnyi-bum-i-pritok-rabochiei-sily-itoghi-2025-ghoda/). Accessed 10 Nov 2026.
-- <a id="n48"></a>N48. Economist.kg, 18 Mar 2026. [V Bishkeke nakryli kanal legalizatsii migrantov iz Pakistana i Bangladesh cherez fiktivnye medosmotry (Channel legalising Pakistani and Bangladeshi migrants through fake medical checks busted in Bishkek)](https://economist.kg/society/2026/03/18/v-bishkiekie-nakryli-kanal-lieghalizatsii-mighrantov-iz-pakistana-i-banghladiesh-chieriez-fiktivnyie-miedosmotry/). Accessed 10 Nov 2026.
-- <a id="n49"></a>N49. The Daily Star. [Fake job offer in Kyrgyzstan: 3 of a trafficking syndicate held](https://thedailystar.net/news/bangladesh/news/fake-job-offer-kyrgyzstan-3-trafficking-syndicate-held-3604471). Accessed 10 Nov 2026. Undated: possibly outdated.
-- <a id="n50"></a>N50. The Business Standard, 25 Nov 2025. [Digital recruitment scams: a nightmare for thousands of Bangladeshi migrants](https://www.tbsnews.net/thoughts/digital-recruitment-scams-nightmare-thousands-bangladeshi-migrants-1294116). Accessed 10 Nov 2026.
-- <a id="n51"></a>N51. The Business Standard, 16 Aug 2022. [Labour migration: allegations of falling victims of fraud in Kyrgyzstan](https://www.tbsnews.net/node/478598). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n52"></a>N52. Radio Azattyk (RFE/RL Kyrgyz Service), 21 Feb 2024. [I plan to work three years: Bangladeshis in Kyrgyzstan's sewing shops](https://www.azattyqasia.org/a/32828599.html). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n53"></a>N53. tour.too.kg (Bishkek travel and visa agency), Nov 2025. [Единое разрешение: Рабочая виза в Кыргызстан 2025 (Wayback copy)](https://tour.too.kg/rabochaya-viza-kyrgyzstan-2025). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n54"></a>N54. The Business Standard, 16 Aug 2022. [Labour migration: Allegations of falling victims of fraud in Kyrgyzstan](https://www.tbsnews.net/node/478598). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n55"></a>N55. Radio Azattyk (RFE/RL Kyrgyz Service), 5 Mar 2022. [Citizens of Bangladesh allege labour slavery in Bishkek](https://www.azattyqasia.org/a/31737347.html). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n56"></a>N56. Kaktus.media, 26 Jun 2026. [How much you need to earn to live alone in Bishkek in 2026](https://kaktus.media/doc/548694_skolko_nyjno_zarabatyvat_chtoby_jit_odnomy_v_bishkeke_v_2026_gody.html). Accessed 10 Nov 2026.
-- <a id="n57"></a>N57. Akchabar, 28 Apr 2026. [The cost of basic living expenses in Kyrgyzstan ranges from 8,300 to 9,600 KGS](https://www.akchabar.kg/en/news/stoimost-bazovoj-zhizni-v-kirgizstane-variruetsya-ot-83-do-96-tisyachi-somov-unmyunesnibniesf). Accessed 10 Nov 2026.
-- <a id="n58"></a>N58. Ajker Patrika, 10 Sep 2025. [180 Bangladeshis return home from Kyrgyzstan](https://www.ajkerpatrika.com/national/ajpardcwyibhk). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n59"></a>N59. Prothom Alo, 16 Aug 2022. [They suffered cruelty abroad and face danger after coming home (Bangla)](https://www.prothomalo.com/bangladesh/lpwnnmshbo). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n60"></a>N60. bKash Limited. [Money Transfer Service (remittance to bKash, list of partner countries)](https://www.bkash.com/en/products-services/remittance/money-transfer-service). Accessed 10 Nov 2026. Undated: possibly outdated.
-- <a id="n61"></a>N61. The Business Standard, 5 Dec 2024. [As remittance grows, can hundi be reined in?](https://www.tbsnews.net/node/1011376). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n62"></a>N62. Legis Group (Bishkek law firm), Aug 2026. [Work Permits for Foreigners in Kyrgyzstan: A Step-by-Step Guide](https://legis.kg/en/articles/work-permits-for-foreigners-kyrgyzstan). Accessed 10 Nov 2026.
-- <a id="n63"></a>N63. Akchabar, 2 May 2026. [Kyrgyzstan has simplified visa and work procedures for foreigners - new rules introduced](https://www.akchabar.kg/en/news/kirgizstan-uprostil-vizi-i-rabotu-dlya-inostrantsev-vvedeni-novie-pravila-milkosrxdvkjdimy). Accessed 10 Nov 2026.
-- <a id="n64"></a>N64. Economist.kg, 7 Jul 2026. [Как иностранцу легально работать у частного лица в Кыргызстане - гайд](https://economist.kg/pravo-znat/2026/07/07/inostranets-rabota-patent-kyrgyzstan/). Accessed 10 Nov 2026.
-- <a id="n65"></a>N65. Economist.kg, 29 Apr 2025. [New fines for migration violations in Kyrgyzstan: the list (Russian)](https://economist.kg/novosti/2025/04/29/v-kyrghyzstanie-ustanovlieny-novyie-shtrafy-za-mighratsionnyie-narushieniia-spisok/). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n66"></a>N66. US Department of State (copy on ecoi.net), 29 Sep 2025. [2025 Trafficking in Persons Report: Kyrgyz Republic](https://www.ecoi.net/en/document/2130647.html). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n67"></a>N67. The Business Standard, 10 Sep 2025. [180 Bangladeshis return home after falling victim to fraud in Kyrgyzstan](https://www.tbsnews.net/bangladesh/migration/180-bangladeshis-return-home-after-falling-victim-fraud-kyrgyzstan-1232821). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n68"></a>N68. Views Bangladesh, 10 Sep 2025. [180 Bangladeshi migrant workers return from Kyrgyzstan](https://viewsbangladesh.com/180-bangladeshi-migrant-workers-return-from-kyrgyzstan). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n69"></a>N69. Economist.kg, 19 May 2025. [Na stroyke v Bishkeke vyyavleny 46 nelegalov (46 undocumented workers found on a Bishkek building site)](https://economist.kg/novosti/2025/05/19/na-stroikie-v-bishkiekie-vyiavlieny-46-nielieghalov-za-orghanizatsiiu-skhiemy-zadierzhany-inostrantsy/). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n70"></a>N70. Caravan.kz, 12 Aug 2004. [V Kyrgyzstane vyyavlen mezhdunarodnyy kanal nezakonnoy migratsii (International illegal migration channel found in Kyrgyzstan)](https://www.caravan.kz/news/v-kyrgyzstane-vyyavlen-mezhdunarodnyjj-kanal-nezakonnojj-migracii-199850/). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n71"></a>N71. Economist.kg, 3 Jul 2024. [V Dzhalal-Abade zaderzhali grazhdan Bangladesh, pytavshikhsya nezakonno popast v Kyrgyzstan (Bangladeshis detained in Jalal-Abad trying to enter Kyrgyzstan illegally)](https://economist.kg/novosti/2024/07/03/v-dzhalal-abadie-zadierzhali-ghrazhdan-banghladiesh-pytavshikhsia-niezakonno-popast-v-kyrghyzstan). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n72"></a>N72. Economist.kg, 11 Jun 2025. [V Kyrgyzstane startovala operatsiya Nelegal-2025 (Operation Illegal-2025 starts)](https://economist.kg/novosti/2025/06/11/v-kyrghyzstanie-startovala-opieratsiia-nielieghal-2025-gknb-nachal-provierki/). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n73"></a>N73. 24.kg, 2 Sep 2021. [MFA explained why citizens of Pakistan and three other countries are not issued visas](https://24.kg/vlast/205884_mid_obyyasnil_pochemu_grajdanam_pakistana_iesche_treh_stran_nevyidayut_vizyi/). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n74"></a>N74. Economist.kg, 29 Apr 2025. [V Kyrgyzstane ustanovleny novye shtrafy za migratsionnye narusheniya: spisok (New fines for migration violations: list)](https://economist.kg/novosti/2025/04/29/v-kyrghyzstanie-ustanovlieny-novyie-shtrafy-za-mighratsionnyie-narushieniia-spisok/). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n75"></a>N75. Caravan-Info KG, 4 Jul 2025. [В Кыргызстане введена пластиковая резидент-карта с QR-кодом для контроля иностранных граждан](https://caravan-info.kg/ru/obschestvo/597473-v-kyrgyzstane-vvedena-plastikovaya-rezident-karta-s-qr-kodom-dlya-kontrolya-inostrannyh-grazhdan.html). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n76"></a>N76. Akchabar, 11 May 2026. [The Kyrgyz Ministry of Foreign Affairs has been temporarily tasked with issuing work permits to foreigners](https://www.akchabar.kg/en/news/midu-kirgizstana-vremenno-peredali-vidachu-razreshenij-na-rabotu-inostrantsam-qexjjoyznfalyyun). Accessed 10 Nov 2026.
-- <a id="n77"></a>N77. SoyuzPravoInform (base.spinform.ru). [Постановление Кабинета Министров КР от 2 декабря 2024 года №721 (утратил силу)](https://base.spinform.ru/show_doc.fwx?rgn=163636). Accessed 10 Nov 2026. Undated: possibly outdated.
-- <a id="n78"></a>N78. 24.kg, 18 Dec 2024. [Labor Ministry introduces new rules for foreigners wishing to work in Kyrgyzstan](https://24.kg/english/314633_Labor_Ministry_introduces_new_rules_for_foreigners_wishing_to_work_in_Kyrgyzstan/). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n79"></a>N79. Prothom Alo, 19 May 2024. [বাংলাদেশিদের দেখভালে উজবেকিস্তান থেকে রাষ্ট্রদূত যাচ্ছেন বিশকেকে](https://www.prothomalo.com/bangladesh/1irto725j8). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n80"></a>N80. Economist.kg, 17 Apr 2025. [Где иностранцам получить госуслуги в Кыргызстане: адреса ВИП-центров](https://economist.kg/novosti/2025/04/17/gdie-inostrantsam-poluchit-ghosuslughi-v-kyrghyzstanie-adriesa-vip-tsientrov/). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n81"></a>N81. Kaktus.media, 18 Mar 2024. [Новые правила регистрации SIM-карт в Кыргызстане. Ответы на популярные вопросы абонентов](https://kaktus.media/doc/497733_novye_pravila_registracii_sim_kart_v_kyrgyzstane._otvety_na_popyliarnye_voprosy_abonentov.html). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n82"></a>N82. 24.kg, 23 Jun 2026. [ГКНБ оштрафовал мигрантов и их работодателей на миллионы сомов](https://24.kg/proisshestvija/379080_gknb_oshtrafoval_migrantov_iihrabotodateley_namillionyi_somov/). Accessed 10 Nov 2026.
-- <a id="n83"></a>N83. The Times of Central Asia, 22 Jun 2024. [In Kyrgyzstan, a Woman Kept Foreigners in Slave Labor](https://timesca.com/?p=19321). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n84"></a>N84. Akchabar, 20 May 2025. [The State Committee for National Security of the Kyrgyz Republic has shut down a channel for producing fake visas for migrants from Bangladesh](https://www.akchabar.kg/en/news/gknb-kr-presek-kanal-izgotovleniya-poddelnikh-viz-dlya-migrantov-iz-bangladesh-zepukuqrnacbolud). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n85"></a>N85. Kaktus.media, 25 Apr 2025. [Sadyr Japarov signed a law allowing foreigners to be expelled: for what](https://kaktus.media/doc/522648_sadyr_japarov_podpisal_zakon_pozvoliaushiy_vydvoriat_inostrancev_iz_strany._za_chto.html). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n86"></a>N86. Economist.kg, 22 Oct 2026. [Minimum wage proposed to rise from 3,280 to 9,800 som from 2027 (Russian)](https://economist.kg/ekonomika/2026/10/22/minimalnaya-zarplata-kyrgyzstan-2027/). Accessed 10 Nov 2026.
-- <a id="n87"></a>N87. The Business Standard, 16 Aug 2022. [Labour migration: Allegations of falling victims of fraud in Kyrgyzstan](https://www.tbsnews.net/node/478598). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n88"></a>N88. Akchabar, 26 Jun 2026. [Migrant workers from neighboring countries were reminded of their tax obligations in Kyrgyzstan](https://www.akchabar.kg/en/news/trudovym-migrantam-iz-sosednikh-stran-napomnili-o-nalogovykh-obyazatelstvakh-v-kyrgyzstane). Accessed 10 Nov 2026.
-- <a id="n89"></a>N89. 24.kg, 11 Mar 2026. [Payments for garment industry workers reduced in Kyrgyzstan](https://24.kg/english/365413_Payments_for_garment_industry_workers_reduced_in_Kyrgyzstan/). Accessed 10 Nov 2026.
-- <a id="n90"></a>N90. Economist.kg, 18 Dec 2025. [МИД выдал более 1 тысячи резидент-карт иностранцам в Кыргызстане](https://economist.kg/society/2025/12/18/mid-vydal-bolieie-1-tysiachi-riezidient-kart-inostrantsam-v-kyrghyzstanie/). Accessed 10 Nov 2026.
-- <a id="n91"></a>N91. Economist.kg, 13 Jan 2026. [Кабмин установил квоту на иммиграцию в 2026 году - подробности](https://economist.kg/society/2026/01/13/kabmin-ustanovil-kvotu-na-immighratsiiu-v-2026-ghodu-podrobnosti/). Accessed 10 Nov 2026.
-- <a id="n92"></a>N92. Economist.kg, 27 Apr 2026. [В Кыргызстане планируют упростить получение ВНЖ](https://economist.kg/society/2026/04/27/v-kyrgyzstane-planiruiut-uprostit-poluchenie-vnzh/). Accessed 10 Nov 2026.
-- <a id="n93"></a>N93. The Business Standard (Bangla), 10 Sep 2025. [180 Bangladeshis defrauded in Kyrgyzstan return home (Bangla)](https://www.tbsnews.net/bangla/bangladesh/news-details-388016). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n94"></a>N94. Views Bangladesh, 10 Sep 2025. [180 Bangladeshi migrant workers return from Kyrgyzstan](https://viewsbangladesh.com/180-bangladeshi-migrant-workers-return-from-kyrgyzstan). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n95"></a>N95. Economist.kg (guide by headhunter.kg), 15 Feb 2026. [Labour rights in Kyrgyzstan: what to do if wages are delayed or you are threatened with dismissal (Russian)](https://economist.kg/pravo-znat/2026/02/15/trudovyie-prava-v-kr-chto-dielat-pri-zadierzhkie-zarplaty-i-ughrozakh-uvolnieniia/). Accessed 10 Nov 2026.
-- <a id="n96"></a>N96. Economist.kg, 5 Aug 2026. [Labour inspectors recovered 4.4 million som of wage debts (Russian)](https://economist.kg/society/2026/08/05/dolgi-zarplata-trudovye-inspektory/). Accessed 10 Nov 2026.
-- <a id="n97"></a>N97. Economist.kg, 21 Sep 2026. [В Кыргызстане изменили порядок регистрации иностранных граждан - что нужно знать](https://economist.kg/pravo-znat/2026/09/21/v-kyrgyzstane-izmenili-poriadok-registratsii-inostrannykh-grazhdan-chto-nuzhno-znat/). Accessed 10 Nov 2026.
-- <a id="n98"></a>N98. 24.kg, 11 Feb 2022. [Most medical students in Kyrgyzstan are foreigners](https://24.kg/obschestvo/223664_bolshinstvo_studentov-medikov_vkyirgyizstane_inostrantsyi/). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n99"></a>N99. Prothom Alo English, 19 May 2024. [Foreigners under attack in Kyrgyzstan, Bangladeshi students in fear](https://en.prothomalo.com/bangladesh/azvbv1y1zo). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n100"></a>N100. Kaktus.media, 1 May 2026. [State monopoly on medical education and accreditation of universities: what is known](https://kaktus.media/doc/545060_gosmonopoliia_na_medobrazovanie_i_akkreditaciia_vyzov._chto_ob_etom_izvestno_na_segodnia.html). Accessed 10 Nov 2026.
-- <a id="n101"></a>N101. 24.kg, 4 Jun 2026. [Thirteen medical universities failed state accreditation](https://24.kg/obschestvo/376569_trinadtsat_meditsinskih_vuzov_vkr_nesmogli_proyti_gosudarstvennuyu_akkreditatsiyu/). Accessed 10 Nov 2026.
-- <a id="n102"></a>N102. Kaktus.media, 4 Aug 2026. [What will happen to students of unaccredited medical universities and colleges? Ministry of Health answer](https://kaktus.media/doc/550875_chto_bydet_so_stydentami_medvyzov_i_kolledjey_ne_proshedshih_akkreditaciu_otvet_minzdrava.html). Accessed 10 Nov 2026.
-- <a id="n103"></a>N103. Kaktus.media, 30 Dec 2025. [Medical universities of Kyrgyzstan want to change rules for admitting foreigners](https://kaktus.media/doc/538012_v_medvyzah_kyrgyzstana_hotiat_izmenit_pravila_priema_inostrancev.html). Accessed 10 Nov 2026.
-- <a id="n104"></a>N104. 24.kg, 24 Apr 2026. [A single platform for admitting foreign applicants is being launched](https://24.kg/obschestvo/371761_edinuyu_platformu_priema_inostrannyih_abiturientov_zapuskayut_vkyirgyizstane/). Accessed 10 Nov 2026.
-- <a id="n105"></a>N105. Jago News 24, 10 Jan 2017. [Is graduating from a foreign medical college a crime?](https://www.jagonews24.com/health/news/190717). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n106"></a>N106. The Financial Express (Bangladesh), 19 May 2024. [Bangladeshis among S Asian students facing night of horrors in Kyrgyz capital](https://today.thefinancialexpress.com.bd/print/bangladeshis-among-s-asian-students-facing-night-of-horrors-in-kyrgyz-capital-1716051978). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n107"></a>N107. Kaktus.media, 17 Aug 2021. [MFA explained the increase in Pakistani citizens](https://kaktus.media/doc/444486_vy_toje_zametili_yvelichenie_kolichestva_grajdan_pakistana_v_mid_obiasnili_prichiny.html). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n108"></a>N108. 24.kg, 2 Sep 2021. [Kyrgyzstan blocked visas for citizens of Pakistan and three other countries](https://24.kg/obschestvo/205828_kyirgyizstan_zablokiroval_vyidachu_viz_grajdanam_pakistana_iesche_treh_stran/). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n109"></a>N109. 24.kg, 31 Oct 2022. [Asein Isaev relieved of post of Ambassador of Kyrgyzstan to India](https://24.kg/english/249622_Asein_Isaev_relieved_of_post_of_Ambassador_of_Kyrgyzstan_to_India). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n110"></a>N110. Economist.kg, 17 Sep 2026. [V Kyrgyzstane planiruyut izmenit poryadok predostavleniya statusa bezhentsa (Plan to change refugee status procedure)](https://economist.kg/society/2026/09/17/status-bezhentsa-poryadok/). Accessed 10 Nov 2026.
-- <a id="n111"></a>N111. The Daily Star, 17 Aug 2022. [Illegal trafficking, legal means](https://www.thedailystar.net/node/3097501). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n112"></a>N112. 24.kg, 24 Nov 2023. [V Kazakhstane zaderzhany organizatory kanala nezakonnoy migratsii iz Kyrgyzstana (Organisers of an illegal migration channel from Kyrgyzstan detained in Kazakhstan)](https://24.kg/proisshestvija/280596_vkazahstane_zaderjanyi_organizatoryi_kanala_nezakonnoy_migratsii_izkyirgyizstana/). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n113"></a>N113. Prothom Alo, 14 Oct 2026. [Bangladeshis sent to Russia for jobs, used as 'prey' in war, 20 killed: SRB](https://en.prothomalo.com/bangladesh/uvrhp22g3j). Accessed 10 Nov 2026.
-- <a id="n114"></a>N114. Economist.kg, 25 Aug 2026. [Nelegal-2026: na Issyk-Kule vyyavili 303 narushitelya (Illegal-2026: 303 violators found on Issyk-Kul)](https://economist.kg/society/2026/08/25/nelegal-2026-na-issyk-kule-vyiavili-303-narushitelia-i-oshtrafovali-na-2-7-mln-somov/). Accessed 10 Nov 2026.
-- <a id="n115"></a>N115. The Times of Central Asia, 12 Aug 2024. [Despite Labor Shortages, Kyrgyzstan Continues to Round-Up Undocumented Migrants](https://timesca.com/despite-labor-shortages-kyrgyzstan-continues-to-round-up-illegal-migrants/). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n116"></a>N116. 24.kg, 3 Jun 2025. [Legalizatsiya inostrantsev v Kyrgyzstane. Algoritm deystviy (Legalisation of foreigners in Kyrgyzstan: what to do)](https://24.kg/obschestvo/331453_legalizatsiya_inostrantsev_vkyirgyizstane_algoritm_deystviy/). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n117"></a>N117. 24.kg, 19 Jun 2026. [В Кыргызстане ужесточают наказание за незаконный наем иностранцев](https://24.kg/obschestvo/378678_vnbspkyirgyizstane_ujestochayut_nakazanie_zanbspnezakonnyiy_naem_inostrantsev/). Accessed 10 Nov 2026.
-- <a id="n118"></a>N118. 24.kg, 5 Jun 2026. [Iz Kyrgyzstana vydvorili 20 inostrantsev posle reydov na Issyk-Kule (20 foreigners expelled after Issyk-Kul raids)](https://24.kg/proisshestvija/376766_izkyirgyizstana_vyidvorili_20inostrantsev_posle_reydov_naissyik-kule/). Accessed 10 Nov 2026.
-- <a id="n119"></a>N119. Bangla Tribune, 8 Sep 2025. [Kirgizstan theke pherot asbe 180 Bangladeshi (180 Bangladeshis to be returned from Kyrgyzstan)](https://www.banglatribune.com/national/914520/%E0%A6%95%E0%A6%BF%E0%A6%B0%E0%A6%97%E0%A6%BF%E0%A6%9C%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%B0%E0%A6%A4-%E0%A6%86%E0%A6%B8%E0%A6%AC%E0%A7%87-%E0%A7%A7%E0%A7%AE%E0%A7%A6-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n120"></a>N120. Economist.kg, 1 Jul 2026. [Kyrgyzstan obyavil mesyats dobrovolnogo vyezda dlya migrantov-narushiteley bez shtrafov (A month of voluntary exit without fines)](https://economist.kg/society/2026/07/01/migranty-dobrovolny-vyezd-bez-shtrafov/). Accessed 10 Nov 2026.
-- <a id="n121"></a>N121. Kaktus.media (statement of the Ministry of Labour, Social Security and Migration), 1 Jul 2026. [S 1 iyulya migranty-narushiteli mogut pokinut Kyrgyzstan bez shtrafov (From 1 July migrants in breach can leave Kyrgyzstan without fines)](https://kaktus.media/doc/549035_s_1_iulia_migranty_naryshiteli_mogyt_pokinyt_kyrgyzstan_bez_shtrafov.html). Accessed 10 Nov 2026.
-- <a id="n122"></a>N122. Economist.kg, 25 Oct 2026. [Inostrantsy smogut oformit vyezdnuyu vizu v aeroportu Manas, no vtroe dorozhe (Exit visa at Manas airport at triple the fee)](https://economist.kg/pravo-znat/2026/10/25/manas-vyezdnaya-viza-troynoy-tarif/). Accessed 10 Nov 2026.
-- <a id="n123"></a>N123. Kaktus.media, 14 Jul 2026. [V MID poyasnili, pochemu inostrantsam vygodno nakhoditsya v Kyrgyzstane legalno (MFA explains why it pays foreigners to stay legally)](https://kaktus.media/doc/549683_v_mid_poiasnili_pochemy_inostrancam_vygodno_nahoditsia_v_kyrgyzstane_legalno.html). Accessed 10 Nov 2026.
-- <a id="n124"></a>N124. Kaktus.media, 2 Jul 2026. [U GUVD ochered iz inostrantsev, zhelayushchikh vyekhat iz Kyrgyzstana bez shtrafa (Queue of foreigners at Bishkek police HQ wanting to leave without a fine)](https://kaktus.media/doc/549114_y_gyvd_ochered_iz_inostrancev_jelaushih_vyehat_iz_kyrgyzstana_bez_shtrafa_video.html). Accessed 10 Nov 2026.
-- <a id="n125"></a>N125. Kaktus.media, 26 Jun 2026. [Zhaparov vvel zelenyy koridor dlya inostrantsev. Chto eto takoe? (Japarov introduces a green corridor for foreigners)](https://kaktus.media/doc/548790_japarov_vvel_zelenyy_koridor_dlia_inostrancev._chto_eto_takoe.html). Accessed 10 Nov 2026.
-- <a id="n126"></a>N126. 24.kg, 26 Jun 2026. [MID obyasnil, kak nelegalnye migranty mogut pokinut Kyrgyzstan bez shtrafov (MFA explains how undocumented migrants can leave without fines)](https://www.24.kg/obschestvo/379701_mid_obyyasnil_kak_nelegalnyie_migrantyi_mogut_pokinut_kyirgyizstan_bez_shtrafov/). Accessed 10 Nov 2026.
-- <a id="n127"></a>N127. Economist.kg, 8 Sep 2026. [Prosrochivshim srok prebyvaniya inostrantsam ogranichat vezd v Kyrgyzstan (Overstayers to be refused re-entry)](https://economist.kg/society/2026/09/08/inostrantsy-prosrochka-ogranichenie-vezda/). Accessed 10 Nov 2026.
-- <a id="n128"></a>N128. The Business Standard, 3 Aug 2026. [BFIU to freeze 14,000 more MFS accounts over online gambling, hundi links](https://www.tbsnews.net/bangladesh/bfiu-freeze-14000-more-mfs-accounts-over-online-gambling-hundi-links-1505811). Accessed 10 Nov 2026.
-- <a id="n129"></a>N129. Economist.kg, 22 May 2025. [More than $20 million from Russia legalised through 'gypsy mail'; GKNB detained suspects](https://economist.kg/dengi/2025/05/22/v-kr-lieghalizovali-chieriez-tsyghanskuiu-pochtu-bolieie-20-mln-iz-rf-gknb-zadierzhal-podozrievaiemykh/). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n130"></a>N130. Bakai Bank OJSC. [List of documents for opening an account in Bakai Bank OJSC for non-resident clients](https://www.bakai.kg/media/no_rez_gzmID0z_ENG.pdf). Accessed 10 Nov 2026. Undated: possibly outdated.
-- <a id="n131"></a>N131. Economist.kg, 30 Jul 2026. [NBKR registered the 20th money transfer system, Olmapay](https://economist.kg/dengi/2026/07/30/nbkr-20-sistema-perevodov-olmapay/). Accessed 10 Nov 2026.
-- <a id="n132"></a>N132. Optima Bank OJSC. [Money transfers (individuals)](https://optimabank.kg/ru/for-individuals/money-transfers). Accessed 10 Nov 2026. Undated: possibly outdated.
-- <a id="n133"></a>N133. Western Union. [Western Union Kyrgyzstan home page](https://www.westernunion.com/kg/en/home.html). Accessed 10 Nov 2026. Undated: possibly outdated.
-- <a id="n134"></a>N134. Economist.kg (MBANK company news), 13 Aug 2024. [Instant money transfers from Kyrgyzstan to 160 countries from the MBANK app](https://economist.kg/novosti-kompanii/2024/08/13/mghnoviennyie-dieniezhnyie-pierievody-iz-kyrghyzstana-v-160-stran-napriamuiu-iz-prilozhieniia-mbank/). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n135"></a>N135. Profee. [Send money from Kyrgyzstan to Bangladesh](https://www.profee.com/send-money/from-kyrgyzstan-to-bangladesh). Accessed 10 Nov 2026. Undated: possibly outdated.
-- <a id="n136"></a>N136. Economist.kg, 26 Feb 2026. [National Bank fined 14 people for illegal currency exchange in Bishkek](https://economist.kg/dengi/2026/02/26/natsbank-kr-oshtrafoval-14-chieloviek-za-niezakonnyi-obmien-valiuty-v-bishkiekie/). Accessed 10 Nov 2026.
-- <a id="n137"></a>N137. Dhaka Tribune, 8 Sep 2025. [180 Bangladeshis to be sent back from Kyrgyzstan](https://www.dhakatribune.com/bangladesh/foreign-affairs/391008/180-bangladeshis-to-be-repatriated-from-kyrgyzstan). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n138"></a>N138. Economist.kg, 23 Sep 2024. [Uzbek citizen tried to take $30,000 out of Kyrgyzstan illegally and was detained](https://economist.kg/dengi/2024/09/23/uzbiekistaniets-niezakonno-pytalsia-vyviezti-iz-kr-30-tysiach-iegho-zadierzhali/). Accessed 10 Nov 2026. Possibly outdated.
-- <a id="n139"></a>N139. Economist.kg, 10 Jul 2026. [At Manas airport an attempt to take out $28.1 thousand without declaration was stopped](https://economist.kg/dengi/2026/07/10/v-aeroportu-manas-presekli-popytku-vyvoza-28-1-tysiachi-bez-deklaratsii/). Accessed 10 Nov 2026.
-- <a id="n140"></a>N140. Trend News Agency, 18 Apr 2026. [Kyrgyzstan, Bangladesh discuss consular cooperation and future engagement](https://www.trend.az/casia/kyrgyzstan/4176143.html). Accessed 10 Nov 2026.
-- <a id="n141"></a>N141. OSCE Academy in Bishkek. [Ambassador of the Republic of Bangladesh visits the Academy](https://osce-academy.net/ambassador-of-the-republic-of-bangladesh-visits-the-academy/). Accessed 10 Nov 2026. Undated: possibly outdated.
-- <a id="n142"></a>N142. Economist.kg, 27 Oct 2026. [Labour supervision service to get control over foreign labour (Russian)](https://economist.kg/vlast/2026/10/27/mvd-kontrol-trudovoe-zakonodatelstvo-2026/). Accessed 10 Nov 2026.
-- <a id="n143"></a>N143. 24.kg, 21 Aug 2025. [Если едете за рубеж. Адреса и телефоны посольств и консульств Кыргызстана](https://24.kg/obschestvo/319690_esli_edete_zarubej_adresa_itelefonyi_posolstv_ikonsulstv_kyirgyizstana/). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n38"></a>N38. Prothom Alo, 18 May 2024. [কিরগিজস্তানে বিদেশিদের ওপর হামলা, আতঙ্কে বাংলাদেশি শিক্ষার্থীরা](https://www.prothomalo.com/bangladesh/zyjzgmvg09). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n39"></a>N39. 24.kg, 2 Sep 2021. [Kyrgyzstan blocked issue of visas to citizens of Pakistan and three other countries](https://24.kg/obschestvo/205828_kyirgyizstan_zablokiroval_vyidachu_viz_grajdanam_pakistana_iesche_treh_stran/). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n40"></a>N40. 24.kg, 2 Sep 2021. [MFA explained why citizens of Pakistan and three other countries are not issued visas](https://24.kg/vlast/205884_mid_obyyasnil_pochemu_grajdanam_pakistana_iesche_treh_stran_nevyidayut_vizyi/amp/). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n41"></a>N41. The Business Standard, 22 Apr 2024. [Kyrgyzstan wants to hire skilled manpower from Bangladesh: Salman F Rahman](https://www.tbsnews.net/node/834041). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n42"></a>N42. 24.kg, 16 Dec 2024. [MP asked to help garment shops hire citizens of Bangladesh](https://24.kg/vlast/314373_deputat_poprosil_pomoch_shveynyim_tseham_nanimat_grajdan_izbangladesh_/). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n43"></a>N43. RFE/RL, 21 May 2024. [Why mass labor exporter Kyrgyzstan faces migrant worker fear at home](https://www.rferl.org/a/mass-labor-kyrgyzstan-migrant-worker-fear/32957992.html). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n44"></a>N44. Radio Azattyk (RFE/RL Kyrgyz Service), 20 May 2025. [GKNB: Bangladeshi citizen detained on suspicion of making fake Kyrgyz visas](https://www.azattyqasia.org/a/33419244.html). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n45"></a>N45. Zakon.kg (reproduces the Ministry of Justice legal database), 21 May 2026. [Закон Кыргызской Республики «О внешней миграции» (редакция от 21.05.2026)](https://zakon.kg/law/o-vneshney-migracii/). Accessed 10 Nov 2026.
+- <a id="n46"></a>N46. 24.kg, 20 Feb 2026. [Квота на трудовую миграцию в Кыргызстане увеличена до 52 тысяч](https://www.24.kg/obschestvo/362851_kvota_natrudovuyu_migratsiyu_vkyirgyizstane_uvelichena_do52tyisyach/). Accessed 10 Nov 2026.
+- <a id="n47"></a>N47. 24.kg, 24 Apr 2026. [Quota for foreign workers in Kyrgyzstan for 2026 reaches 52,000](https://24.kg/en/article/371832). Accessed 10 Nov 2026.
+- <a id="n48"></a>N48. Economist.kg, 19 Feb 2026. [Migration in the Kyrgyz Republic: results of 2025](https://economist.kg/ekonomika/2026/02/19/mighratsiia-v-kr-novyie-pravila-stroitielnyi-bum-i-pritok-rabochiei-sily-itoghi-2025-ghoda/). Accessed 10 Nov 2026.
+- <a id="n49"></a>N49. Economist.kg, 18 Mar 2026. [V Bishkeke nakryli kanal legalizatsii migrantov iz Pakistana i Bangladesh cherez fiktivnye medosmotry (Channel legalising Pakistani and Bangladeshi migrants through fake medical checks busted in Bishkek)](https://economist.kg/society/2026/03/18/v-bishkiekie-nakryli-kanal-lieghalizatsii-mighrantov-iz-pakistana-i-banghladiesh-chieriez-fiktivnyie-miedosmotry/). Accessed 10 Nov 2026.
+- <a id="n50"></a>N50. The Daily Star. [Fake job offer in Kyrgyzstan: 3 of a trafficking syndicate held](https://thedailystar.net/news/bangladesh/news/fake-job-offer-kyrgyzstan-3-trafficking-syndicate-held-3604471). Accessed 10 Nov 2026. Undated: possibly outdated.
+- <a id="n51"></a>N51. The Business Standard, 25 Nov 2025. [Digital recruitment scams: a nightmare for thousands of Bangladeshi migrants](https://www.tbsnews.net/thoughts/digital-recruitment-scams-nightmare-thousands-bangladeshi-migrants-1294116). Accessed 10 Nov 2026.
+- <a id="n52"></a>N52. The Business Standard, 16 Aug 2022. [Labour migration: allegations of falling victims of fraud in Kyrgyzstan](https://www.tbsnews.net/node/478598). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n53"></a>N53. Radio Azattyk (RFE/RL Kyrgyz Service), 21 Feb 2024. [I plan to work three years: Bangladeshis in Kyrgyzstan's sewing shops](https://www.azattyqasia.org/a/32828599.html). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n54"></a>N54. tour.too.kg (Bishkek travel and visa agency), Nov 2025. [Единое разрешение: Рабочая виза в Кыргызстан 2025 (Wayback copy)](https://tour.too.kg/rabochaya-viza-kyrgyzstan-2025). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n55"></a>N55. The Business Standard, 16 Aug 2022. [Labour migration: Allegations of falling victims of fraud in Kyrgyzstan](https://www.tbsnews.net/node/478598). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n56"></a>N56. Radio Azattyk (RFE/RL Kyrgyz Service), 5 Mar 2022. [Citizens of Bangladesh allege labour slavery in Bishkek](https://www.azattyqasia.org/a/31737347.html). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n57"></a>N57. Kaktus.media, 26 Jun 2026. [How much you need to earn to live alone in Bishkek in 2026](https://kaktus.media/doc/548694_skolko_nyjno_zarabatyvat_chtoby_jit_odnomy_v_bishkeke_v_2026_gody.html). Accessed 10 Nov 2026.
+- <a id="n58"></a>N58. Akchabar, 28 Apr 2026. [The cost of basic living expenses in Kyrgyzstan ranges from 8,300 to 9,600 KGS](https://www.akchabar.kg/en/news/stoimost-bazovoj-zhizni-v-kirgizstane-variruetsya-ot-83-do-96-tisyachi-somov-unmyunesnibniesf). Accessed 10 Nov 2026.
+- <a id="n59"></a>N59. Ajker Patrika, 10 Sep 2025. [180 Bangladeshis return home from Kyrgyzstan](https://www.ajkerpatrika.com/national/ajpardcwyibhk). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n60"></a>N60. Prothom Alo, 16 Aug 2022. [They suffered cruelty abroad and face danger after coming home (Bangla)](https://www.prothomalo.com/bangladesh/lpwnnmshbo). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n61"></a>N61. bKash Limited. [Money Transfer Service (remittance to bKash, list of partner countries)](https://www.bkash.com/en/products-services/remittance/money-transfer-service). Accessed 10 Nov 2026. Undated: possibly outdated.
+- <a id="n62"></a>N62. The Business Standard, 5 Dec 2024. [As remittance grows, can hundi be reined in?](https://www.tbsnews.net/node/1011376). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n63"></a>N63. Legis Group (Bishkek law firm), Aug 2026. [Work Permits for Foreigners in Kyrgyzstan: A Step-by-Step Guide](https://legis.kg/en/articles/work-permits-for-foreigners-kyrgyzstan). Accessed 10 Nov 2026.
+- <a id="n64"></a>N64. Akchabar, 2 May 2026. [Kyrgyzstan has simplified visa and work procedures for foreigners - new rules introduced](https://www.akchabar.kg/en/news/kirgizstan-uprostil-vizi-i-rabotu-dlya-inostrantsev-vvedeni-novie-pravila-milkosrxdvkjdimy). Accessed 10 Nov 2026.
+- <a id="n65"></a>N65. Economist.kg, 7 Jul 2026. [Как иностранцу легально работать у частного лица в Кыргызстане - гайд](https://economist.kg/pravo-znat/2026/07/07/inostranets-rabota-patent-kyrgyzstan/). Accessed 10 Nov 2026.
+- <a id="n66"></a>N66. Economist.kg, 29 Apr 2025. [New fines for migration violations in Kyrgyzstan: the list (Russian)](https://economist.kg/novosti/2025/04/29/v-kyrghyzstanie-ustanovlieny-novyie-shtrafy-za-mighratsionnyie-narushieniia-spisok/). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n67"></a>N67. US Department of State (copy on ecoi.net), 29 Sep 2025. [2025 Trafficking in Persons Report: Kyrgyz Republic](https://www.ecoi.net/en/document/2130647.html). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n68"></a>N68. The Business Standard, 10 Sep 2025. [180 Bangladeshis return home after falling victim to fraud in Kyrgyzstan](https://www.tbsnews.net/bangladesh/migration/180-bangladeshis-return-home-after-falling-victim-fraud-kyrgyzstan-1232821). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n69"></a>N69. Views Bangladesh, 10 Sep 2025. [180 Bangladeshi migrant workers return from Kyrgyzstan](https://viewsbangladesh.com/180-bangladeshi-migrant-workers-return-from-kyrgyzstan). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n70"></a>N70. Economist.kg, 19 May 2025. [Na stroyke v Bishkeke vyyavleny 46 nelegalov (46 undocumented workers found on a Bishkek building site)](https://economist.kg/novosti/2025/05/19/na-stroikie-v-bishkiekie-vyiavlieny-46-nielieghalov-za-orghanizatsiiu-skhiemy-zadierzhany-inostrantsy/). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n71"></a>N71. Caravan.kz, 12 Aug 2004. [V Kyrgyzstane vyyavlen mezhdunarodnyy kanal nezakonnoy migratsii (International illegal migration channel found in Kyrgyzstan)](https://www.caravan.kz/news/v-kyrgyzstane-vyyavlen-mezhdunarodnyjj-kanal-nezakonnojj-migracii-199850/). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n72"></a>N72. Economist.kg, 3 Jul 2024. [V Dzhalal-Abade zaderzhali grazhdan Bangladesh, pytavshikhsya nezakonno popast v Kyrgyzstan (Bangladeshis detained in Jalal-Abad trying to enter Kyrgyzstan illegally)](https://economist.kg/novosti/2024/07/03/v-dzhalal-abadie-zadierzhali-ghrazhdan-banghladiesh-pytavshikhsia-niezakonno-popast-v-kyrghyzstan). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n73"></a>N73. Economist.kg, 11 Jun 2025. [V Kyrgyzstane startovala operatsiya Nelegal-2025 (Operation Illegal-2025 starts)](https://economist.kg/novosti/2025/06/11/v-kyrghyzstanie-startovala-opieratsiia-nielieghal-2025-gknb-nachal-provierki/). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n74"></a>N74. 24.kg, 2 Sep 2021. [MFA explained why citizens of Pakistan and three other countries are not issued visas](https://24.kg/vlast/205884_mid_obyyasnil_pochemu_grajdanam_pakistana_iesche_treh_stran_nevyidayut_vizyi/). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n75"></a>N75. Economist.kg, 29 Apr 2025. [V Kyrgyzstane ustanovleny novye shtrafy za migratsionnye narusheniya: spisok (New fines for migration violations: list)](https://economist.kg/novosti/2025/04/29/v-kyrghyzstanie-ustanovlieny-novyie-shtrafy-za-mighratsionnyie-narushieniia-spisok/). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n76"></a>N76. Caravan-Info KG, 4 Jul 2025. [В Кыргызстане введена пластиковая резидент-карта с QR-кодом для контроля иностранных граждан](https://caravan-info.kg/ru/obschestvo/597473-v-kyrgyzstane-vvedena-plastikovaya-rezident-karta-s-qr-kodom-dlya-kontrolya-inostrannyh-grazhdan.html). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n77"></a>N77. Akchabar, 11 May 2026. [The Kyrgyz Ministry of Foreign Affairs has been temporarily tasked with issuing work permits to foreigners](https://www.akchabar.kg/en/news/midu-kirgizstana-vremenno-peredali-vidachu-razreshenij-na-rabotu-inostrantsam-qexjjoyznfalyyun). Accessed 10 Nov 2026.
+- <a id="n78"></a>N78. SoyuzPravoInform (base.spinform.ru). [Постановление Кабинета Министров КР от 2 декабря 2024 года №721 (утратил силу)](https://base.spinform.ru/show_doc.fwx?rgn=163636). Accessed 10 Nov 2026. Undated: possibly outdated.
+- <a id="n79"></a>N79. 24.kg, 18 Dec 2024. [Labor Ministry introduces new rules for foreigners wishing to work in Kyrgyzstan](https://24.kg/english/314633_Labor_Ministry_introduces_new_rules_for_foreigners_wishing_to_work_in_Kyrgyzstan/). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n80"></a>N80. Prothom Alo, 19 May 2024. [বাংলাদেশিদের দেখভালে উজবেকিস্তান থেকে রাষ্ট্রদূত যাচ্ছেন বিশকেকে](https://www.prothomalo.com/bangladesh/1irto725j8). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n81"></a>N81. Economist.kg, 17 Apr 2025. [Где иностранцам получить госуслуги в Кыргызстане: адреса ВИП-центров](https://economist.kg/novosti/2025/04/17/gdie-inostrantsam-poluchit-ghosuslughi-v-kyrghyzstanie-adriesa-vip-tsientrov/). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n82"></a>N82. Kaktus.media, 18 Mar 2024. [Новые правила регистрации SIM-карт в Кыргызстане. Ответы на популярные вопросы абонентов](https://kaktus.media/doc/497733_novye_pravila_registracii_sim_kart_v_kyrgyzstane._otvety_na_popyliarnye_voprosy_abonentov.html). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n83"></a>N83. 24.kg, 23 Jun 2026. [ГКНБ оштрафовал мигрантов и их работодателей на миллионы сомов](https://24.kg/proisshestvija/379080_gknb_oshtrafoval_migrantov_iihrabotodateley_namillionyi_somov/). Accessed 10 Nov 2026.
+- <a id="n84"></a>N84. The Times of Central Asia, 22 Jun 2024. [In Kyrgyzstan, a Woman Kept Foreigners in Slave Labor](https://timesca.com/?p=19321). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n85"></a>N85. Akchabar, 20 May 2025. [The State Committee for National Security of the Kyrgyz Republic has shut down a channel for producing fake visas for migrants from Bangladesh](https://www.akchabar.kg/en/news/gknb-kr-presek-kanal-izgotovleniya-poddelnikh-viz-dlya-migrantov-iz-bangladesh-zepukuqrnacbolud). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n86"></a>N86. Kaktus.media, 25 Apr 2025. [Sadyr Japarov signed a law allowing foreigners to be expelled: for what](https://kaktus.media/doc/522648_sadyr_japarov_podpisal_zakon_pozvoliaushiy_vydvoriat_inostrancev_iz_strany._za_chto.html). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n87"></a>N87. Economist.kg, 22 Oct 2026. [Minimum wage proposed to rise from 3,280 to 9,800 som from 2027 (Russian)](https://economist.kg/ekonomika/2026/10/22/minimalnaya-zarplata-kyrgyzstan-2027/). Accessed 10 Nov 2026.
+- <a id="n88"></a>N88. The Business Standard, 16 Aug 2022. [Labour migration: Allegations of falling victims of fraud in Kyrgyzstan](https://www.tbsnews.net/node/478598). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n89"></a>N89. Akchabar, 26 Jun 2026. [Migrant workers from neighboring countries were reminded of their tax obligations in Kyrgyzstan](https://www.akchabar.kg/en/news/trudovym-migrantam-iz-sosednikh-stran-napomnili-o-nalogovykh-obyazatelstvakh-v-kyrgyzstane). Accessed 10 Nov 2026.
+- <a id="n90"></a>N90. 24.kg, 11 Mar 2026. [Payments for garment industry workers reduced in Kyrgyzstan](https://24.kg/english/365413_Payments_for_garment_industry_workers_reduced_in_Kyrgyzstan/). Accessed 10 Nov 2026.
+- <a id="n91"></a>N91. Economist.kg, 18 Dec 2025. [МИД выдал более 1 тысячи резидент-карт иностранцам в Кыргызстане](https://economist.kg/society/2025/12/18/mid-vydal-bolieie-1-tysiachi-riezidient-kart-inostrantsam-v-kyrghyzstanie/). Accessed 10 Nov 2026.
+- <a id="n92"></a>N92. Economist.kg, 13 Jan 2026. [Кабмин установил квоту на иммиграцию в 2026 году - подробности](https://economist.kg/society/2026/01/13/kabmin-ustanovil-kvotu-na-immighratsiiu-v-2026-ghodu-podrobnosti/). Accessed 10 Nov 2026.
+- <a id="n93"></a>N93. Economist.kg, 27 Apr 2026. [В Кыргызстане планируют упростить получение ВНЖ](https://economist.kg/society/2026/04/27/v-kyrgyzstane-planiruiut-uprostit-poluchenie-vnzh/). Accessed 10 Nov 2026.
+- <a id="n94"></a>N94. The Business Standard (Bangla), 10 Sep 2025. [180 Bangladeshis defrauded in Kyrgyzstan return home (Bangla)](https://www.tbsnews.net/bangla/bangladesh/news-details-388016). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n95"></a>N95. Views Bangladesh, 10 Sep 2025. [180 Bangladeshi migrant workers return from Kyrgyzstan](https://viewsbangladesh.com/180-bangladeshi-migrant-workers-return-from-kyrgyzstan). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n96"></a>N96. Economist.kg (guide by headhunter.kg), 15 Feb 2026. [Labour rights in Kyrgyzstan: what to do if wages are delayed or you are threatened with dismissal (Russian)](https://economist.kg/pravo-znat/2026/02/15/trudovyie-prava-v-kr-chto-dielat-pri-zadierzhkie-zarplaty-i-ughrozakh-uvolnieniia/). Accessed 10 Nov 2026.
+- <a id="n97"></a>N97. Economist.kg, 5 Aug 2026. [Labour inspectors recovered 4.4 million som of wage debts (Russian)](https://economist.kg/society/2026/08/05/dolgi-zarplata-trudovye-inspektory/). Accessed 10 Nov 2026.
+- <a id="n98"></a>N98. Economist.kg, 21 Sep 2026. [В Кыргызстане изменили порядок регистрации иностранных граждан - что нужно знать](https://economist.kg/pravo-znat/2026/09/21/v-kyrgyzstane-izmenili-poriadok-registratsii-inostrannykh-grazhdan-chto-nuzhno-znat/). Accessed 10 Nov 2026.
+- <a id="n99"></a>N99. 24.kg, 11 Feb 2022. [Most medical students in Kyrgyzstan are foreigners](https://24.kg/obschestvo/223664_bolshinstvo_studentov-medikov_vkyirgyizstane_inostrantsyi/). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n100"></a>N100. Prothom Alo English, 19 May 2024. [Foreigners under attack in Kyrgyzstan, Bangladeshi students in fear](https://en.prothomalo.com/bangladesh/azvbv1y1zo). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n101"></a>N101. Prothom Alo, 6 Apr 2026. [কিরগিজ ভিসা জটিলতায় দেশে আটকে পড়েছেন দেড় শতাধিক বাংলাদেশি শিক্ষার্থী](https://www.prothomalo.com/education/higher-education/fjwe8zyo6m). Accessed 23 Nov 2026.
+- <a id="n102"></a>N102. Kaktus.media, 1 May 2026. [State monopoly on medical education and accreditation of universities: what is known](https://kaktus.media/doc/545060_gosmonopoliia_na_medobrazovanie_i_akkreditaciia_vyzov._chto_ob_etom_izvestno_na_segodnia.html). Accessed 10 Nov 2026.
+- <a id="n103"></a>N103. 24.kg, 4 Jun 2026. [Thirteen medical universities failed state accreditation](https://24.kg/obschestvo/376569_trinadtsat_meditsinskih_vuzov_vkr_nesmogli_proyti_gosudarstvennuyu_akkreditatsiyu/). Accessed 10 Nov 2026.
+- <a id="n104"></a>N104. Kaktus.media, 4 Aug 2026. [What will happen to students of unaccredited medical universities and colleges? Ministry of Health answer](https://kaktus.media/doc/550875_chto_bydet_so_stydentami_medvyzov_i_kolledjey_ne_proshedshih_akkreditaciu_otvet_minzdrava.html). Accessed 10 Nov 2026.
+- <a id="n105"></a>N105. Kaktus.media, 30 Dec 2025. [Medical universities of Kyrgyzstan want to change rules for admitting foreigners](https://kaktus.media/doc/538012_v_medvyzah_kyrgyzstana_hotiat_izmenit_pravila_priema_inostrancev.html). Accessed 10 Nov 2026.
+- <a id="n106"></a>N106. 24.kg, 24 Apr 2026. [A single platform for admitting foreign applicants is being launched](https://24.kg/obschestvo/371761_edinuyu_platformu_priema_inostrannyih_abiturientov_zapuskayut_vkyirgyizstane/). Accessed 10 Nov 2026.
+- <a id="n107"></a>N107. Jago News 24, 10 Jan 2017. [Is graduating from a foreign medical college a crime?](https://www.jagonews24.com/health/news/190717). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n108"></a>N108. The Financial Express (Bangladesh), 19 May 2024. [Bangladeshis among S Asian students facing night of horrors in Kyrgyz capital](https://today.thefinancialexpress.com.bd/print/bangladeshis-among-s-asian-students-facing-night-of-horrors-in-kyrgyz-capital-1716051978). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n109"></a>N109. Prothom Alo, 19 May 2024. [কিরগিজস্তানে বাংলাদেশি ছাত্র খুব জখম হয়েছে এমন খবর নেই: পররাষ্ট্রমন্ত্রী](https://www.prothomalo.com/bangladesh/w6xua1js60). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n110"></a>N110. Prothom Alo, 19 May 2024. [বাংলাদেশিদের দেখভালে উজবেকিস্তান থেকে রাষ্ট্রদূত যাচ্ছেন বিশকেকে](https://www.prothomalo.com/bangladesh/1irto725j8). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n111"></a>N111. Prothom Alo, 23 May 2024. [কিরগিজস্তানের বাংলাদেশি শিক্ষার্থীদের জন্য অনলাইন ক্লাস চালুর প্রস্তাব](https://www.prothomalo.com/education/higher-education/857tkgozyk). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n112"></a>N112. Kaktus.media, 17 Aug 2021. [MFA explained the increase in Pakistani citizens](https://kaktus.media/doc/444486_vy_toje_zametili_yvelichenie_kolichestva_grajdan_pakistana_v_mid_obiasnili_prichiny.html). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n113"></a>N113. 24.kg, 2 Sep 2021. [Kyrgyzstan blocked visas for citizens of Pakistan and three other countries](https://24.kg/obschestvo/205828_kyirgyizstan_zablokiroval_vyidachu_viz_grajdanam_pakistana_iesche_treh_stran/). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n114"></a>N114. 24.kg, 31 Oct 2022. [Asein Isaev relieved of post of Ambassador of Kyrgyzstan to India](https://24.kg/english/249622_Asein_Isaev_relieved_of_post_of_Ambassador_of_Kyrgyzstan_to_India). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n115"></a>N115. Economist.kg, 17 Sep 2026. [V Kyrgyzstane planiruyut izmenit poryadok predostavleniya statusa bezhentsa (Plan to change refugee status procedure)](https://economist.kg/society/2026/09/17/status-bezhentsa-poryadok/). Accessed 10 Nov 2026.
+- <a id="n116"></a>N116. The Daily Star, 17 Aug 2022. [Illegal trafficking, legal means](https://www.thedailystar.net/node/3097501). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n117"></a>N117. 24.kg, 24 Nov 2023. [V Kazakhstane zaderzhany organizatory kanala nezakonnoy migratsii iz Kyrgyzstana (Organisers of an illegal migration channel from Kyrgyzstan detained in Kazakhstan)](https://24.kg/proisshestvija/280596_vkazahstane_zaderjanyi_organizatoryi_kanala_nezakonnoy_migratsii_izkyirgyizstana/). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n118"></a>N118. Prothom Alo, 14 Oct 2026. [Bangladeshis sent to Russia for jobs, used as 'prey' in war, 20 killed: SRB](https://en.prothomalo.com/bangladesh/uvrhp22g3j). Accessed 10 Nov 2026.
+- <a id="n119"></a>N119. Economist.kg, 25 Aug 2026. [Nelegal-2026: na Issyk-Kule vyyavili 303 narushitelya (Illegal-2026: 303 violators found on Issyk-Kul)](https://economist.kg/society/2026/08/25/nelegal-2026-na-issyk-kule-vyiavili-303-narushitelia-i-oshtrafovali-na-2-7-mln-somov/). Accessed 10 Nov 2026.
+- <a id="n120"></a>N120. The Times of Central Asia, 12 Aug 2024. [Despite Labor Shortages, Kyrgyzstan Continues to Round-Up Undocumented Migrants](https://timesca.com/despite-labor-shortages-kyrgyzstan-continues-to-round-up-illegal-migrants/). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n121"></a>N121. 24.kg, 3 Jun 2025. [Legalizatsiya inostrantsev v Kyrgyzstane. Algoritm deystviy (Legalisation of foreigners in Kyrgyzstan: what to do)](https://24.kg/obschestvo/331453_legalizatsiya_inostrantsev_vkyirgyizstane_algoritm_deystviy/). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n122"></a>N122. 24.kg, 19 Jun 2026. [В Кыргызстане ужесточают наказание за незаконный наем иностранцев](https://24.kg/obschestvo/378678_vnbspkyirgyizstane_ujestochayut_nakazanie_zanbspnezakonnyiy_naem_inostrantsev/). Accessed 10 Nov 2026.
+- <a id="n123"></a>N123. 24.kg, 5 Jun 2026. [Iz Kyrgyzstana vydvorili 20 inostrantsev posle reydov na Issyk-Kule (20 foreigners expelled after Issyk-Kul raids)](https://24.kg/proisshestvija/376766_izkyirgyizstana_vyidvorili_20inostrantsev_posle_reydov_naissyik-kule/). Accessed 10 Nov 2026.
+- <a id="n124"></a>N124. Bangla Tribune, 8 Sep 2025. [Kirgizstan theke pherot asbe 180 Bangladeshi (180 Bangladeshis to be returned from Kyrgyzstan)](https://www.banglatribune.com/national/914520/%E0%A6%95%E0%A6%BF%E0%A6%B0%E0%A6%97%E0%A6%BF%E0%A6%9C%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%B0%E0%A6%A4-%E0%A6%86%E0%A6%B8%E0%A6%AC%E0%A7%87-%E0%A7%A7%E0%A7%AE%E0%A7%A6-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n125"></a>N125. Economist.kg, 1 Jul 2026. [Kyrgyzstan obyavil mesyats dobrovolnogo vyezda dlya migrantov-narushiteley bez shtrafov (A month of voluntary exit without fines)](https://economist.kg/society/2026/07/01/migranty-dobrovolny-vyezd-bez-shtrafov/). Accessed 10 Nov 2026.
+- <a id="n126"></a>N126. Kaktus.media (statement of the Ministry of Labour, Social Security and Migration), 1 Jul 2026. [S 1 iyulya migranty-narushiteli mogut pokinut Kyrgyzstan bez shtrafov (From 1 July migrants in breach can leave Kyrgyzstan without fines)](https://kaktus.media/doc/549035_s_1_iulia_migranty_naryshiteli_mogyt_pokinyt_kyrgyzstan_bez_shtrafov.html). Accessed 10 Nov 2026.
+- <a id="n127"></a>N127. Economist.kg, 25 Oct 2026. [Inostrantsy smogut oformit vyezdnuyu vizu v aeroportu Manas, no vtroe dorozhe (Exit visa at Manas airport at triple the fee)](https://economist.kg/pravo-znat/2026/10/25/manas-vyezdnaya-viza-troynoy-tarif/). Accessed 10 Nov 2026.
+- <a id="n128"></a>N128. Kaktus.media, 14 Jul 2026. [V MID poyasnili, pochemu inostrantsam vygodno nakhoditsya v Kyrgyzstane legalno (MFA explains why it pays foreigners to stay legally)](https://kaktus.media/doc/549683_v_mid_poiasnili_pochemy_inostrancam_vygodno_nahoditsia_v_kyrgyzstane_legalno.html). Accessed 10 Nov 2026.
+- <a id="n129"></a>N129. Kaktus.media, 2 Jul 2026. [U GUVD ochered iz inostrantsev, zhelayushchikh vyekhat iz Kyrgyzstana bez shtrafa (Queue of foreigners at Bishkek police HQ wanting to leave without a fine)](https://kaktus.media/doc/549114_y_gyvd_ochered_iz_inostrancev_jelaushih_vyehat_iz_kyrgyzstana_bez_shtrafa_video.html). Accessed 10 Nov 2026.
+- <a id="n130"></a>N130. Kaktus.media, 26 Jun 2026. [Zhaparov vvel zelenyy koridor dlya inostrantsev. Chto eto takoe? (Japarov introduces a green corridor for foreigners)](https://kaktus.media/doc/548790_japarov_vvel_zelenyy_koridor_dlia_inostrancev._chto_eto_takoe.html). Accessed 10 Nov 2026.
+- <a id="n131"></a>N131. 24.kg, 26 Jun 2026. [MID obyasnil, kak nelegalnye migranty mogut pokinut Kyrgyzstan bez shtrafov (MFA explains how undocumented migrants can leave without fines)](https://www.24.kg/obschestvo/379701_mid_obyyasnil_kak_nelegalnyie_migrantyi_mogut_pokinut_kyirgyizstan_bez_shtrafov/). Accessed 10 Nov 2026.
+- <a id="n132"></a>N132. Economist.kg, 8 Sep 2026. [Prosrochivshim srok prebyvaniya inostrantsam ogranichat vezd v Kyrgyzstan (Overstayers to be refused re-entry)](https://economist.kg/society/2026/09/08/inostrantsy-prosrochka-ogranichenie-vezda/). Accessed 10 Nov 2026.
+- <a id="n133"></a>N133. The Business Standard, 3 Aug 2026. [BFIU to freeze 14,000 more MFS accounts over online gambling, hundi links](https://www.tbsnews.net/bangladesh/bfiu-freeze-14000-more-mfs-accounts-over-online-gambling-hundi-links-1505811). Accessed 10 Nov 2026.
+- <a id="n134"></a>N134. Economist.kg, 22 May 2025. [More than $20 million from Russia legalised through 'gypsy mail'; GKNB detained suspects](https://economist.kg/dengi/2025/05/22/v-kr-lieghalizovali-chieriez-tsyghanskuiu-pochtu-bolieie-20-mln-iz-rf-gknb-zadierzhal-podozrievaiemykh/). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n135"></a>N135. Bakai Bank OJSC. [List of documents for opening an account in Bakai Bank OJSC for non-resident clients](https://www.bakai.kg/media/no_rez_gzmID0z_ENG.pdf). Accessed 10 Nov 2026. Undated: possibly outdated.
+- <a id="n136"></a>N136. Economist.kg, 30 Jul 2026. [NBKR registered the 20th money transfer system, Olmapay](https://economist.kg/dengi/2026/07/30/nbkr-20-sistema-perevodov-olmapay/). Accessed 10 Nov 2026.
+- <a id="n137"></a>N137. Optima Bank OJSC. [Money transfers (individuals)](https://optimabank.kg/ru/for-individuals/money-transfers). Accessed 10 Nov 2026. Undated: possibly outdated.
+- <a id="n138"></a>N138. Western Union. [Western Union Kyrgyzstan home page](https://www.westernunion.com/kg/en/home.html). Accessed 10 Nov 2026. Undated: possibly outdated.
+- <a id="n139"></a>N139. Economist.kg (MBANK company news), 13 Aug 2024. [Instant money transfers from Kyrgyzstan to 160 countries from the MBANK app](https://economist.kg/novosti-kompanii/2024/08/13/mghnoviennyie-dieniezhnyie-pierievody-iz-kyrghyzstana-v-160-stran-napriamuiu-iz-prilozhieniia-mbank/). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n140"></a>N140. Profee. [Send money from Kyrgyzstan to Bangladesh](https://www.profee.com/send-money/from-kyrgyzstan-to-bangladesh). Accessed 10 Nov 2026. Undated: possibly outdated.
+- <a id="n141"></a>N141. Economist.kg, 26 Feb 2026. [National Bank fined 14 people for illegal currency exchange in Bishkek](https://economist.kg/dengi/2026/02/26/natsbank-kr-oshtrafoval-14-chieloviek-za-niezakonnyi-obmien-valiuty-v-bishkiekie/). Accessed 10 Nov 2026.
+- <a id="n142"></a>N142. Dhaka Tribune, 8 Sep 2025. [180 Bangladeshis to be sent back from Kyrgyzstan](https://www.dhakatribune.com/bangladesh/foreign-affairs/391008/180-bangladeshis-to-be-repatriated-from-kyrgyzstan). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n143"></a>N143. Economist.kg, 23 Sep 2024. [Uzbek citizen tried to take $30,000 out of Kyrgyzstan illegally and was detained](https://economist.kg/dengi/2024/09/23/uzbiekistaniets-niezakonno-pytalsia-vyviezti-iz-kr-30-tysiach-iegho-zadierzhali/). Accessed 10 Nov 2026. Possibly outdated.
+- <a id="n144"></a>N144. Economist.kg, 10 Jul 2026. [At Manas airport an attempt to take out $28.1 thousand without declaration was stopped](https://economist.kg/dengi/2026/07/10/v-aeroportu-manas-presekli-popytku-vyvoza-28-1-tysiachi-bez-deklaratsii/). Accessed 10 Nov 2026.
+- <a id="n145"></a>N145. Trend News Agency, 18 Apr 2026. [Kyrgyzstan, Bangladesh discuss consular cooperation and future engagement](https://www.trend.az/casia/kyrgyzstan/4176143.html). Accessed 10 Nov 2026.
+- <a id="n146"></a>N146. OSCE Academy in Bishkek. [Ambassador of the Republic of Bangladesh visits the Academy](https://osce-academy.net/ambassador-of-the-republic-of-bangladesh-visits-the-academy/). Accessed 10 Nov 2026. Undated: possibly outdated.
+- <a id="n147"></a>N147. Economist.kg, 27 Oct 2026. [Labour supervision service to get control over foreign labour (Russian)](https://economist.kg/vlast/2026/10/27/mvd-kontrol-trudovoe-zakonodatelstvo-2026/). Accessed 10 Nov 2026.
+- <a id="n148"></a>N148. 24.kg, 21 Aug 2025. [Если едете за рубеж. Адреса и телефоны посольств и консульств Кыргызстана](https://24.kg/obschestvo/319690_esli_edete_zarubej_adresa_itelefonyi_posolstv_ikonsulstv_kyirgyizstana/). Accessed 10 Nov 2026. Possibly outdated.

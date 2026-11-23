@@ -1,0 +1,216 @@
+{
+ "articles": [
+  {
+   "article_id": "7c93bcfe-a14a-41bf-9b4d-1669aa217257",
+   "used": true,
+   "fact_ids": [
+    "PU0144",
+    "PU0145",
+    "PU0146"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "c2262a76-7a9a-435f-94d6-3252b4ee8564",
+   "used": true,
+   "fact_ids": [
+    "PU0147",
+    "PU0148",
+    "PU0149",
+    "PU0150",
+    "PU0151",
+    "PU0152",
+    "PU0153"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "ac84a83a-870d-4d47-b105-6c5846a46a99",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact for migrant workers: a Bangladesh Shipping Corporation ship crew's account of missile strikes near Jebel Ali and failing to cross Hormuz; the ship being stuck with its crew safe is already logged as PU0136.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "e5d48621-0902-4b35-943b-e3a4aa642c25",
+   "used": true,
+   "fact_ids": [
+    "PU0154"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "8b72801e-9d2e-4971-a6ab-b37652d50a9f",
+   "used": true,
+   "fact_ids": [
+    "PU0155",
+    "PU0156",
+    "PU0157",
+    "PU0158",
+    "PU0159",
+    "PU0160",
+    "PU0161",
+    "PU0162"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "bd90e1b0-3e11-4c65-b209-0f466a4fec18",
+   "used": true,
+   "fact_ids": [
+    "PU0163",
+    "PU0164",
+    "PU0165",
+    "PU0166"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "82995a3b-1b90-48de-8128-e6ce7580931f",
+   "used": true,
+   "fact_ids": [
+    "PU0167",
+    "PU0168"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "2bbf2310-41fc-4aee-85c8-2baab87e5ce8",
+   "used": true,
+   "fact_ids": [
+    "PU0169",
+    "PU0170",
+    "PU0171"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "On 18 August 2026 the expatriates' welfare minister said the whole process of sending workers abroad is to be put online, with more transparency on recruiting agencies' legitimacy and foreign job demand",
+     "quote": "বাংলাদেশ থেকে বিদেশে কর্মী পাঠানোর পুরো প্রক্রিয়া অনলাইনভিত্তিক করার উদ্যোগ নেওয়া হচ্ছে বলে জানিয়েছেন প্রবাসীকল্যাণ ও বৈদেশিক কর্মসংস্থানমন্ত্রী আরিফুল হক চৌধুরী। তিনি বলেছেন, রিক্রুটিং এজেন্সিগুলোর বৈধতা, বিদেশে কর্মীর চাহিদাসহ অন্যান্য তথ্য ব্যবস্থাপনায় আরও স্বচ্ছতা আনা হবে।",
+     "suggested_module": "departure"
+    },
+    {
+     "claim": "The minister said a month-long awareness campaign against irregular migration was planned in several districts from Sunamganj and Habiganj to Madaripur",
+     "quote": "এই চক্রের রুট চিহ্নিত করে ব্যবস্থা নেওয়ার উদ্যোগ চলছে। এ ব্যাপারে সুনামগঞ্জ–হবিগঞ্জ থেকে শুরু করে মাদারীপুরসহ কয়েকটি জেলায় আগামী এক মাস ব্যাপক প্রচার চালানোর পরিকল্পনার কথা জানান তিনি।",
+     "suggested_module": "illegal-routes"
+    },
+    {
+     "claim": "The minister said employers often get workers without the skill they asked for, for example people who do not know the work sent as plumbers or electricians",
+     "quote": "বিদেশি নিয়োগকর্তারা যে ধরনের কর্মীর চাহিদা দেন, অনেক ক্ষেত্রে সেই দক্ষতার কর্মী পাঠানো হয় না। যেমন প্লাম্বার বা ইলেকট্রিশিয়ানের চাহিদা থাকলেও সংশ্লিষ্ট কাজ না জানা ব্যক্তিকে পাঠানোর ঘটনা ঘটে। এতে কর্মী ও নিয়োগকর্তা উভয়ই সমস্যায় পড়েন।",
+     "suggested_module": "scams"
+    },
+    {
+     "claim": "The minister said the government was considering delivering passports and other documents to migrants by post or courier through third parties",
+     "quote": "সরকারি সেবা দেওয়ার ক্ষেত্রে তৃতীয় পক্ষের মাধ্যমে কিছু সেবা দেওয়ার বিষয়টি তাঁরা বিবেচনা করছেন। পাসপোর্টসহ বিভিন্ন নথি ডাক বা কুরিয়ার সেবার মাধ্যমে প্রবাসীদের বাড়িতে পৌঁছে দেওয়ার ব্যবস্থা করা যায় কি না, তা নিয়ে চিন্তাভাবনা চলছে।",
+     "suggested_module": "faq"
+    },
+    {
+     "claim": "The minister said a 'Probashi Card' for migrants would be finalised under the government's 180-day programme",
+     "quote": "প্রবাসীদের জন্য ‘প্রবাসী কার্ড’ চালুর সরকারি পরিকল্পনার কথা উল্লেখ করেন প্রবাসীকল্যাণমন্ত্রী। তিনি বলেন, সরকারের ১৮০ দিনের কর্মসূচির অংশ হিসেবে এই কার্ড চালুর বিষয়টি চূড়ান্ত করা হবে।",
+     "suggested_module": "faq"
+    },
+    {
+     "claim": "The minister said the card may give migrants priority in land, sub-registry and other government services, with special health-care benefits planned",
+     "quote": "এতে ভূমি, সাবরেজিস্ট্রি অফিসসহ বিভিন্ন সরকারি সেবায় প্রবাসীদের অগ্রাধিকার দেওয়ার ব্যবস্থা থাকতে পারে। স্বাস্থ্যসেবার ক্ষেত্রেও বিশেষ সুবিধা দেওয়ার পরিকল্পনা রয়েছে।",
+     "suggested_module": "faq"
+    },
+    {
+     "claim": "The minister said there was a plan to raise Probashi Kallyan Bank's education loan for migrants' children from Tk 3 lakh to up to Tk 10 lakh",
+     "quote": "প্রবাসীকল্যাণ ব্যাংকের মাধ্যমে এই ঋণের পরিমাণ ৩ লাখ টাকা থেকে ১০ লাখ টাকা পর্যন্ত বাড়ানোর পরিকল্পনার কথা বলেন তিনি।",
+     "suggested_module": "faq"
+    }
+   ]
+  },
+  {
+   "article_id": "72ca4ea0-7bf3-4e9d-a6b8-8ae92d86feaf",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Duplicate for the UAE: its only UAE fact (employer verification for 6,000 drivers) is logged from the same roundtable as PU0169-PU0171 (article 2bbf2310); general points held for global modules.",
+   "held_for_global": [
+    {
+     "claim": "The DIG (operations) of the Airport Armed Police Battalion said the risk of irregularities rose after police verification for passports was removed",
+     "quote": "পাসপোর্ট দেওয়ার ক্ষেত্রে পুলিশ ভেরিফিকেশন তুলে দেওয়ার পর অনিয়মের ঝুঁকি বেড়েছে।",
+     "suggested_module": "departure"
+    },
+    {
+     "claim": "A Civil Aviation Authority deputy director said screening is done at the airport to stop attempts to go abroad with fake visas, documents and BMET cards",
+     "quote": "ভুয়া ভিসা, নথি ও বিএমইটি কার্ড নিয়ে বিদেশ যাওয়ার চেষ্টা ঠেকাতে যাচাই-বাছাই করা হচ্ছে।",
+     "suggested_module": "scams"
+    },
+    {
+     "claim": "BRAC's concept paper said returnees' main problems are no savings, no chance to use skills gained abroad and being unable to restart a livelihood",
+     "quote": "বিদেশফেরত ব্যক্তিদের বড় সমস্যা হলো সঞ্চয় না থাকা, বিদেশে অর্জিত দক্ষতা কাজে লাগানোর সুযোগ না পাওয়া এবং দেশে ফিরে নতুন করে জীবিকা শুরু করতে না পারা।",
+     "suggested_module": "other: coming home"
+    },
+    {
+     "claim": "An additional DG of the Department of Immigration and Passports said there are complaints of harassment and extra costs in passport renewal",
+     "quote": "পাসপোর্ট নবায়নে হয়রানি ও অতিরিক্ত অর্থ ব্যয়ের অভিযোগ রয়েছে।",
+     "suggested_module": "departure"
+    }
+   ]
+  },
+  {
+   "article_id": "57fff82c-b06c-4d2e-9d54-1216572cdada",
+   "used": true,
+   "fact_ids": [
+    "PU0172",
+    "PU0173",
+    "PU0174",
+    "PU0175",
+    "PU0176"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "d6c8f716-b7fd-4180-a1bf-082b6ceb646a",
+   "used": true,
+   "fact_ids": [
+    "PU0177"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "6f88b365-dcaf-4bd6-906f-600cd82ae7b9",
+   "used": true,
+   "fact_ids": [
+    "PU0178",
+    "PU0179"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "On 13 October 2026 the law minister said migrants facing harassment can call a hotline to get initial legal help from the government",
+     "quote": "নানা ধরনের হয়রানির শিকার প্রবাসীরা হটলাইনে ফোন করে সরকারের কাছ থেকে প্রাথমিক আইনি সহায়তা নিতে পারবেন বলে জানিয়েছেন আইনমন্ত্রী মো. আসাদুজ্জামান।",
+     "suggested_module": "faq"
+    },
+    {
+     "claim": "The law minister said special courts for migrants' legal problems were being set up, with their launch at divisional level in process",
+     "quote": "প্রবাসীদের আইনি সমস্যা সমাধানে বিশেষ আদালত গঠনের উদ্যোগ নেওয়া হয়েছে। বিভাগীয় পর্যায়ে এসব আদালত চালুর বিষয়টি প্রক্রিয়াধীন।",
+     "suggested_module": "faq"
+    }
+   ]
+  },
+  {
+   "article_id": "061a2753-224b-416a-8bd5-8303a339ead8",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Not about migrating to the UAE: a road accident in Daudkandi, Cumilla; the UAE link is only that the victim's brother works in Dubai.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "ffd54948-ac03-4988-a9cc-24f778960f98",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: a courtesy meeting between the UAE ambassador and Bangladesh's IGP on cooperation against trafficking and visa fraud, with no decision or measure reported.",
+   "held_for_global": []
+  }
+ ]
+}

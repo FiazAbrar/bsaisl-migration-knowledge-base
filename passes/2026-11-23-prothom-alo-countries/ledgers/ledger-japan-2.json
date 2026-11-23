@@ -1,0 +1,192 @@
+{
+ "articles": [
+  {
+   "article_id": "94ae7177-27ce-4668-ae19-b7d17a1cc6fa",
+   "used": true,
+   "fact_ids": [
+    "PJ0082",
+    "PJ0083",
+    "PJ0084"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "24950b3c-aad5-4ae6-ac00-d842ac8d1673",
+   "used": true,
+   "fact_ids": [
+    "PJ0085",
+    "PJ0086",
+    "PJ0087",
+    "PJ0088"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "A March 2026 ministry meeting was told that, per the latest census, about 25 million working-age people remain surplus after domestic labour demand is met",
+     "quote": "বাংলাদেশের সর্বশেষ জনশুমারি অনুযায়ী অভ্যন্তরীণ শ্রমবাজারের চাহিদা পূরণের পরও প্রায় আড়াই কোটি কর্মক্ষম জনগোষ্ঠী অতিরিক্ত রয়েছে।",
+     "suggested_module": "other: corridor numbers"
+    }
+   ]
+  },
+  {
+   "article_id": "91487058-1084-4364-b2fc-9c2a5ac1cfe3",
+   "used": true,
+   "fact_ids": [
+    "PJ0089"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "c2a04c89-a663-403d-93db-924db6303501",
+   "used": true,
+   "fact_ids": [
+    "PJ0092",
+    "PJ0093",
+    "PJ0094",
+    "PJ0095",
+    "PJ0096"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "5ac4bc98-72b8-414a-8ff3-ac2296caf411",
+   "used": true,
+   "fact_ids": [
+    "PJ0097",
+    "PJ0098"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "02467052-c71d-4990-9be3-c522b0ad4672",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No new Japan fact: the Japan Cell is already in the doc (R0250); the rest is Bangladesh-wide (held for global).",
+   "held_for_global": [
+    {
+     "claim": "An additional secretary of the expatriates' ministry said on 28 September 2026 that Bangladesh's current capacity to reach the goal of sending 10 million workers in five years is 55 to 60 percent",
+     "quote": "‘আগামী পাঁচ বছরে এক কোটি কর্মী বিদেশে পাঠানোর লক্ষ্যে পৌঁছানোর জন্য বাংলাদেশের বর্তমান সক্ষমতা ৫৫ থেকে ৬০ শতাংশ।’",
+     "suggested_module": "other: corridor numbers"
+    },
+    {
+     "claim": "Bangladesh has 110 government technical training institutes, 104 TTCs and six Institutes of Marine Technology, running 55 courses and certifying more than 1.2 million people a year",
+     "quote": "এর মধ্যে ১০৪টি কারিগরি প্রশিক্ষণ কেন্দ্র (টিটিসি) এবং ছয়টি ইনস্টিটিউট অব মেরিন টেকনোলজি। এসব কেন্দ্রে বর্তমানে ৫৫টি বিভিন্ন মেয়াদি প্রশিক্ষণ কোর্স চালু রয়েছে এবং প্রতিবছর ১২ লাখের বেশি মানুষকে কারিগরি সনদ দেওয়া হচ্ছে।",
+     "suggested_module": "departure"
+    },
+    {
+     "claim": "BOESL sent a record 19,197 workers in FY2025-26: 14,543 to Jordan, 1,812 to Brunei and 1,404 to South Korea",
+     "quote": "২০২৫-২৬ অর্থবছরে প্রতিষ্ঠানটি তাদের ইতিহাসের সর্বোচ্চ ১৯ হাজার ১৯৭ জন কর্মী বিভিন্ন দেশে পাঠিয়েছে। এর মধ্যে জর্ডানে সর্বোচ্চ ১৪ হাজার ৫৪৩ জন, ব্রুনেইয়ে ১ হাজার ৮১২ জন এবং দক্ষিণ কোরিয়ায় ১ হাজার ৪০৪ জন কর্মী গেছেন।",
+     "suggested_module": "other: corridor numbers"
+    },
+    {
+     "claim": "More than 700,000 workers have been certified in over 2,300 NSDA institutions, but international recognition of these certificates remains a big challenge",
+     "quote": "জাতীয় দক্ষতা উন্নয়ন কর্তৃপক্ষের (এনএসডিএ) অধীনে ২ হাজার ৩০০টির বেশি প্রতিষ্ঠানে সাত লাখের বেশি কর্মী সনদ পেলেও বৈশ্বিক বাজারে এই সনদের আন্তর্জাতিক স্বীকৃতি পাওয়ার বিষয়টি বড় চ্যালেঞ্জ হিসেবে রয়ে গেছে।",
+     "suggested_module": "departure"
+    }
+   ]
+  },
+  {
+   "article_id": "861fbda7-d81c-4674-af7d-2835cdc2a91d",
+   "used": true,
+   "fact_ids": [
+    "PJ0099",
+    "PJ0100",
+    "PJ0101",
+    "PJ0102",
+    "PJ0103",
+    "PJ0104"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "a490b1dd-5531-4155-a474-2838c9f86fd6",
+   "used": true,
+   "fact_ids": [
+    "PJ0105",
+    "PJ0106",
+    "PJ0107",
+    "PJ0108",
+    "PJ0114"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "f3f2ba07-a7a6-49f5-b5c6-568c0fac214a",
+   "used": true,
+   "fact_ids": [
+    "PJ0090",
+    "PJ0091"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "30d9c329-ebc7-4f2e-acff-d265c9fd834e",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Japan facts duplicate the doc: NBCC 2,000/6,000/18,000 plan (C0134, PJ0020, PJ0072), 50,000 by 2030 (C0125), 400,000 nurses (PJ0076); its 820,000-in-16-fields target to March 2029 is superseded by the official 23 January 2026 ceiling (C0151). Bangladesh-wide figures held for global.",
+   "held_for_global": [
+    {
+     "claim": "By BMET data about 1,128,000 workers went abroad in 2025: 43.47% low-skilled, 34.46% semi-skilled, 19.13% skilled and 2.94% professional",
+     "quote": "জনশক্তি কর্মসংস্থান ও প্রশিক্ষণ ব্যুরোর (বিএমইটি) তথ্য অনুযায়ী, ২০২৫ সালে বাংলাদেশ থেকে প্রায় ১১ লাখ ২৮ হাজার কর্মী বিদেশে গেছেন। তাঁদের মধ্যে ৪৩ দশমিক ৪৭ শতাংশ স্বল্পদক্ষ এবং ৩৪ দশমিক ৪৬ শতাংশ আধা দক্ষ। দক্ষ কর্মী ছিলেন মাত্র ১৯ দশমিক ১৩ শতাংশ। পেশাজীবীর হার ছিল আরও কম, ২ দশমিক ৯৪ শতাংশ।",
+     "suggested_module": "other: corridor numbers"
+    },
+    {
+     "claim": "Only 5.5 percent of Bangladeshi workers going abroad in 2025 were women",
+     "quote": "২০২৫ সালে বিদেশগামী বাংলাদেশি কর্মীদের মাত্র ৫ দশমিক ৫ শতাংশ ছিলেন নারী।",
+     "suggested_module": "other: corridor numbers"
+    },
+    {
+     "claim": "Remittances reached a record US$35.56 billion in FY2025-26",
+     "quote": "২০২৫-২৬ অর্থবছরে প্রবাসী আয় রেকর্ড ৩৫ দশমিক ৫৬ বিলিয়ন ডলারে পৌঁছেছে।",
+     "suggested_module": "other: corridor numbers"
+    }
+   ]
+  },
+  {
+   "article_id": "3c4895d7-a99e-4545-a457-e1769ff6f843",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Opinion column on Japanese investment and trade in Bangladesh; no fact a migrant to Japan can use; the 200,000 jobs-in-Bangladesh figure is logged from the fact-check article (PJ0111).",
+   "held_for_global": []
+  },
+  {
+   "article_id": "0805b648-d2f3-486d-8fbf-0271feb2d0a4",
+   "used": true,
+   "fact_ids": [
+    "PJ0109",
+    "PJ0110",
+    "PJ0111",
+    "PJ0112"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "6663d643-510d-4338-b98b-e4fd2ffc46fe",
+   "used": true,
+   "fact_ids": [
+    "PJ0113"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "RMMRU reported that 1,130,757 workers went abroad in 2025",
+     "quote": "অভিবাসন বিষয়ক গবেষণা সংস্থা রামরুর প্রতিবেদনে বলা হয়েছে, ২০২৫ সালে ১১ লাখ ৩০ হাজার ৭৫৭ জন কর্মী বিদেশে গেছেন।",
+     "suggested_module": "other: corridor numbers"
+    },
+    {
+     "claim": "By Bangladesh Bank data students sent more than US$660 million abroad for study in FY2024-25",
+     "quote": "বাংলাদেশ ব্যাংকের তথ্য অনুযায়ী ২০২৪-২৫ অর্থবছরে শিক্ষার্থীরা বিদেশে পড়াশোনা বাবদ ৬৬ কোটি ডলারের বেশি পাঠিয়েছেন।",
+     "suggested_module": "other: student migration"
+    }
+   ]
+  }
+ ]
+}

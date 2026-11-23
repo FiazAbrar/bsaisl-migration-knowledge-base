@@ -1,0 +1,78 @@
+[
+ {
+  "held_id": "R2-illegal-routes-1",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0433",
+   "GI0434"
+  ],
+  "note": "The law in Bangladesh > Why cases fail, new bullet 'Victims who don't see it as trafficking'."
+ },
+ {
+  "held_id": "R2-illegal-routes-2",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0435",
+   "GI0436",
+   "GI0437"
+  ],
+  "note": "Asylum claims built on a false story > The numbers; added the 2020-2023 series too."
+ },
+ {
+  "held_id": "R2-illegal-routes-3",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0438",
+   "GI0439",
+   "GI0440"
+  ],
+  "note": "Asylum claims > The numbers, 'Why people claim', with the officials' view alongside the diplomats'."
+ },
+ {
+  "held_id": "R2-illegal-routes-4",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0441",
+   "GI0442"
+  ],
+  "note": "Libya to Italy by boat > The numbers > All irregular routes to Europe. Writers are NSU Centre for Migration Studies researchers."
+ },
+ {
+  "held_id": "R2-illegal-routes-5",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0443",
+   "GI0442"
+  ],
+  "note": "The Balkans and Eastern Europe > What happens > Being sent back."
+ },
+ {
+  "held_id": "R2-illegal-routes-6",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "GI0364"
+  ],
+  "note": "Route via Saudi Arabia and Kuwait to Libya already in Libya to Italy by boat > The path, item 2."
+ },
+ {
+  "held_id": "R2-illegal-routes-7",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0444",
+   "GI0445",
+   "GI0446",
+   "GI0447",
+   "GI0449",
+   "GI0450"
+  ],
+  "note": "Libya to Italy by boat > Deaths, new bullet 'October 2026, Libya to Greece'."
+ },
+ {
+  "held_id": "R2-illegal-routes-8",
+  "outcome": "added",
+  "fact_ids": [
+   "GI0448"
+  ],
+  "note": "Libya to Italy by boat > Where to get help > At home."
+ }
+]

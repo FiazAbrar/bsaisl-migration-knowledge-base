@@ -1,0 +1,190 @@
+{
+ "articles": [
+  {
+   "article_id": "f09445d2-8afc-43b9-af62-ae64637ae685",
+   "used": true,
+   "fact_ids": [
+    "PD0001",
+    "PD0002",
+    "PD0003",
+    "PD0004",
+    "PD0005",
+    "PD0006",
+    "PD0007"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "591cd4cb-e9f8-4a1d-bc7e-0f52dcaa7680",
+   "used": true,
+   "fact_ids": [
+    "PD0008",
+    "PD0009",
+    "PD0010",
+    "PD0011",
+    "PD0012"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "360e9301-a999-401f-b4f6-aef5ef57e036",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: embassy fashion show report, nothing on work, costs or conditions",
+   "held_for_global": []
+  },
+  {
+   "article_id": "14ecb0f0-9463-4e2e-a137-d98f108bcc66",
+   "used": true,
+   "fact_ids": [
+    "PD0013",
+    "PD0014"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "64cd5a61-294a-4f2e-b480-991c0cb540fe",
+   "used": true,
+   "fact_ids": [
+    "PD0015"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "775d1379-ebdd-4d04-b141-cc9574d3433b",
+   "used": true,
+   "fact_ids": [
+    "PD0016",
+    "PD0017",
+    "PD0018",
+    "PD0019",
+    "PD0020",
+    "PD0021",
+    "PD0022",
+    "PD0023"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "363de19b-c69b-4d6a-8553-4b49bc99cbdf",
+   "used": true,
+   "fact_ids": [
+    "PD0024"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "In December 2024 the ambassador in Amman said Bangladeshi expatriates face legal complications sending money home and the embassy is working to reduce them",
+     "quote": "দেশে অর্থ প্রেরণে প্রবাসী বাংলাদেশিরা বিভিন্ন আইনি জটিলতার শিকার হয়ে থাকেন। আমরা এই জটিলতা কমাতে কাজ করে যাচ্ছি।",
+     "suggested_module": "faq"
+    }
+   ]
+  },
+  {
+   "article_id": "bb9492f8-9b33-46f7-9512-8251e16a8d12",
+   "used": true,
+   "fact_ids": [
+    "PD0025",
+    "PD0026",
+    "PD0027",
+    "PD0028"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "98a8b667-7c47-40e6-9644-1f493cf5b549",
+   "used": true,
+   "fact_ids": [
+    "PD0029"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "At a 29 May 2025 NHRC-RMMRU dialogue, a paper said 31% of Bangladeshi workers who die abroad die unnatural deaths: 16% in accidents and 15% by suicide",
+     "quote": "বিভিন্ন দেশে কাজ করতে যাওয়া কর্মীদের মধ্যে প্রবাসে যাঁরা মারা যান, তাঁদের মধ্যে ৩১ শতাংশের অস্বাভাবিক মৃত্যু হয়। এর মধ্যে ১৬ শতাংশের মৃত্যু হয় দুর্ঘটনায়। আর ১৫ শতাংশ আত্মহত্যা করেন।",
+     "suggested_module": "faq"
+    },
+    {
+     "claim": "The RMMRU paper, analysing 554 dead migrants from 2017 to October 2021, said the average age of Bangladeshi workers dying abroad is 37",
+     "quote": "এতে ২০১৭ থেকে ২০২১ সালের অক্টোবর পর্যন্ত ৫৫৪ জন মৃত প্রবাসীর তথ্য বিশ্লেষণ করে বলা হয়, প্রবাসে মারা যাওয়া বাংলাদেশি কর্মীদের গড় বয়স ৩৭ বছর।",
+     "suggested_module": "faq"
+    },
+    {
+     "claim": "The paper said 40,713 workers died abroad in the last 12 years, and the bodies of 4,813 came home in 2024",
+     "quote": "গত ১২ বছরে প্রবাসে ৪০ হাজার ৭১৩ কর্মীর মৃত্যু হয়। এর মধ্যে ২০২৪ সালে দেশে এসেছে ৪ হাজার ৮১৩ কর্মীর মৃতদেহ।",
+     "suggested_module": "faq"
+    },
+    {
+     "claim": "The paper said the Bangladesh government does no autopsy to check death certificates sent with bodies, though injury marks were found on many bodies sent as natural deaths, and 48% of families do not believe the certificate's cause",
+     "quote": "প্রবাসের মৃতদেহের সঙ্গে পাঠানো মৃত্যুসনদ যাচাইয়ে বাংলাদেশ সরকারের পক্ষ থেকে কোনো ময়নাতদন্ত করা হয় না। অথচ স্বাভাবিক মৃত্যু বলে পাঠানো অনেক মৃতদেহে আঘাতের চিহ্ন পাওয়া গেছে। মৃত প্রবাসী কর্মীদের পরিবারের মধ্যে ৪৮ শতাংশ মৃত্যুসনদে থাকা কারণ বিশ্বাস করে না।",
+     "suggested_module": "other: deaths and repatriation"
+    },
+    {
+     "claim": "Expatriates' Welfare Senior Secretary Neyamat Ullah Bhuiyan said an autopsy after the body arrives is possible, but destination countries' reaction must be considered",
+     "quote": "প্রবাসীকল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়ের সিনিয়র সচিব নেয়ামত উল্ল্যা ভূঁইয়া বলেন, দেশে আসার পর ময়নাতদন্ত করা সম্ভব। এতে মৃত্যুসনদে থাকা তথ্যের ভুল ধরলে যে দেশ থেকে কর্মীর মৃতদেহ এসেছে, তারা কী ধরনের প্রতিক্রিয়া ব্যক্ত করতে পারে;",
+     "suggested_module": "other: deaths and repatriation"
+    },
+    {
+     "claim": "Speakers said women commit suicide after sexual abuse, and men from despair at failing to repay high migration costs",
+     "quote": "বক্তারা বলেন, নারীরা যৌন নির্যাতনের শিকার হয়ে আত্মহত্যা করেন। আর উচ্চ অভিবাসন খরচ তুলতে গিয়ে বাড়তি পরিশ্রম করেও না পারার হতাশা থেকে আত্মহত্যা করেন পুরুষ কর্মীরা।",
+     "suggested_module": "faq"
+    },
+    {
+     "claim": "Speakers said handover of bodies at Dhaka airport is now easier and faster than before",
+     "quote": "তবে ঢাকা বিমানবন্দরে এখন মৃতদেহ হস্তান্তর আগের চেয়ে সহজ ও দ্রুত করা হয়েছে।",
+     "suggested_module": "other: deaths and repatriation"
+    },
+    {
+     "claim": "Former BAIRA secretary general Ali Haider Chowdhury said there is disorder in pre-departure medical tests at Middle East-recognised centres, with allegations of tests done for money",
+     "quote": "বায়রার সাবেক মহাসচিব আলী হায়দার চৌধুরী বলেন, কর্মীদের বিদেশ পাঠানোর আগে মধ্যপ্রাচ্যের স্বীকৃত মেডিকেল সেন্টার থেকে স্বাস্থ্য পরীক্ষা করানো হয়। এ খাতে অরাজকতা আছে। টাকার বিনিময়ে পরীক্ষা করানোর অভিযোগ আছে।",
+     "suggested_module": "scams"
+    },
+    {
+     "claim": "Former NHRC member Selim Reza said there are allegations in Middle Eastern countries of kidneys taken from dying patients and sold, and embassies must guard against workers' organs being sold",
+     "quote": "মানবাধিকার কমিশনের সাবেক সদস্য সেলিম রেজা বলেন, মধ্যপ্রাচ্যের দেশগুলোতে অঙ্গ প্রতিস্থাপন করা হয়। বিশেষ করে তাঁদের দ্রুত কিডনি নষ্ট হওয়ায় মুমূর্ষু রোগীর থেকে কিডনি নিয়ে রেখে বিক্রির অভিযোগ আছে।",
+     "suggested_module": "other: deaths and repatriation"
+    }
+   ]
+  },
+  {
+   "article_id": "bddd2bac-7f9d-4072-a4e0-e35e97a0455e",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate: dinar's fixed rate to the US dollar and its taka value already in the doc (A0016, A0017); rest not about Jordan migration",
+   "held_for_global": []
+  },
+  {
+   "article_id": "d2b9c234-83f3-44ae-895a-c0a5198a7844",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of BOESL's own March 2026 notice already in the doc (A0078, A0018, G0024, G0025, G0026)",
+   "held_for_global": []
+  },
+  {
+   "article_id": "8931e9d7-e486-4049-b60a-4fe6d22abca0",
+   "used": true,
+   "fact_ids": [
+    "A0083"
+   ],
+   "reason_if_unused": "saved and logged earlier (A0081, A0082, A0083, G0107, G0108); A0083 now cited in the pay list, the rest were already in the doc",
+   "held_for_global": []
+  },
+  {
+   "article_id": "cf5b0f2a-6dc4-4345-94f0-dba6a6ecb764",
+   "used": true,
+   "fact_ids": [
+    "PD0030",
+    "PD0031",
+    "PD0032"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  }
+ ]
+}

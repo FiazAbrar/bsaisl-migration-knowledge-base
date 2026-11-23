@@ -1,0 +1,27 @@
+{
+ "articles": [
+  {
+   "article_id": "e304d121-b970-4adf-abbe-e4ff4c459d88",
+   "used": true,
+   "fact_ids": [
+    "PM0001",
+    "PM0002",
+    "PM0003",
+    "PM0004",
+    "PM0006",
+    "PM0007"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "ec2693db-6f16-4c8d-b7f2-f4fb8234cf5f",
+   "used": true,
+   "fact_ids": [
+    "PM0005"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  }
+ ]
+}

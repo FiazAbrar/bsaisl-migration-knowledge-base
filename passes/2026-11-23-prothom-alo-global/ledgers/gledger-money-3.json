@@ -1,0 +1,239 @@
+{
+ "articles": [
+  {
+   "article_id": "14e589b1-55fc-4a8d-a4d8-9ff966ff538d",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of facts GM0130-GM0142 (proposal superseded by the 3 Nov 2024 notification)",
+   "held": []
+  },
+  {
+   "article_id": "496df1f0-e8da-4b20-aa59-64285469643d",
+   "used": true,
+   "fact_ids": [
+    "GM0150"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "def28036-8f53-4cc1-b11b-bb4572a99a92",
+   "used": true,
+   "fact_ids": [
+    "GM0151",
+    "GM0152"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "b668b75d-6539-467a-9117-05ab8eff80f9",
+   "used": true,
+   "fact_ids": [
+    "GM0153"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "6c1c8463-eb58-4c04-b350-25b54419710f",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "partial-month update; duplicate of monthly total GM0155",
+   "held": []
+  },
+  {
+   "article_id": "6fd04fd3-b60d-49fc-87b7-45dc7092ec32",
+   "used": true,
+   "fact_ids": [
+    "GM0145",
+    "GM0146",
+    "GM0147"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "804bf106-c98f-432c-9681-01ef81088a02",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "partial-month update; duplicate of monthly total GM0155",
+   "held": []
+  },
+  {
+   "article_id": "51fad2e5-1281-4d4f-8f75-a8b14670467a",
+   "used": true,
+   "fact_ids": [
+    "GM0154"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "7a2a9ee4-2bb7-4273-b612-49ca7f65911d",
+   "used": true,
+   "fact_ids": [
+    "GM0130",
+    "GM0131",
+    "GM0132",
+    "GM0133",
+    "GM0134",
+    "GM0135",
+    "GM0136",
+    "GM0137",
+    "GM0138",
+    "GM0139",
+    "GM0140",
+    "GM0141",
+    "GM0142"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "a9d8966a-c7bc-487b-82ea-765e0c1aa83d",
+   "used": true,
+   "fact_ids": [
+    "GM0155",
+    "GM0156"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "e703a9c1-c5b7-4162-96e3-29f1f0921174",
+   "used": true,
+   "fact_ids": [
+    "GM0143",
+    "GM0144"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "acb4632d-4753-481c-b87b-fb4fdfc9035a",
+   "used": true,
+   "fact_ids": [
+    "GM0157"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "64661d1c-fe76-4f86-998f-e3a6d2881be4",
+   "used": true,
+   "fact_ids": [
+    "GM0148",
+    "GM0149"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "38f1b00a-5709-4047-b606-8fe069ea888d",
+   "used": true,
+   "fact_ids": [
+    "GM0158"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "0d79d460-ba61-4307-a621-cae460361490",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "partial-month update; duplicate of monthly total GM0169",
+   "held": []
+  },
+  {
+   "article_id": "04582296-b13a-4b43-ae09-22d4af005745",
+   "used": true,
+   "fact_ids": [
+    "GM0159",
+    "GM0160"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "437fbe22-ecaa-49a8-9fac-84510c2a46a8",
+   "used": true,
+   "fact_ids": [
+    "GM0161",
+    "GM0162",
+    "GM0163"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "8813ce21-e575-4f26-ae36-ff00fe3939df",
+   "used": true,
+   "fact_ids": [
+    "GM0166",
+    "GM0167"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "bfce8b79-2f12-43ae-933d-0535844a36df",
+   "used": true,
+   "fact_ids": [
+    "GM0164",
+    "GM0165"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "d1a615f8-e711-4b59-b054-58347b4b0f6a",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "partial-month update; duplicate of GM0169 and rate facts GM0159-GM0160",
+   "held": []
+  },
+  {
+   "article_id": "0361498c-faea-4a4d-8257-43f392b9d89a",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "partial-month update; duplicate of monthly total GM0169",
+   "held": []
+  },
+  {
+   "article_id": "8390c93b-1f99-4881-9bf5-7e654064b45a",
+   "used": true,
+   "fact_ids": [
+    "GM0168",
+    "GM0169"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "873c9074-eba5-4e44-96f9-8b64d807ee56",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact (opinion piece; market-based rate signal duplicates GM0086)",
+   "held": []
+  },
+  {
+   "article_id": "f5251a44-0e7d-4956-95b9-6c8e4fe98cee",
+   "used": true,
+   "fact_ids": [
+    "GM0170",
+    "GM0171",
+    "GM0172"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "56f53dd9-69b7-44e8-a46c-40d592a414c9",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact (opinion piece; remittance stoppage during the uprising duplicates GM0099/GM0115)",
+   "held": []
+  }
+ ]
+}

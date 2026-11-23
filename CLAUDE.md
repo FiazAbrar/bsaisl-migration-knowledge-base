@@ -33,6 +33,7 @@ Two drafts exist: Saudi Arabia (`countries/saudi-arabia/`) and Malaysia (`countr
   - `facts.csv`: one row per fact used in the doc: the claim, the exact quote that supports it, which saved source it comes from, the page's date, whether the source is official or news, and its status. Some rows also carry a visa, field and value, so the chatbot can look facts up directly.
   - `sources.csv` and `sources/`: every source used. `sources/` holds a saved copy of each page or PDF with a text copy, so the evidence survives when links break; `sources.csv` lists them with publisher, title, URL, date and whether each is official.
   - `notes.md`: research notes: what was searched, conflicts between sources, what happens in practice, open questions, and pages we could not download.
+- `global/`: docs that apply to every country, built and cited the same way as a country doc: `faq/` (the questions people ask most), `dalal-scams/` (broker tricks and where to complain), `departure/` (where people get stuck or asked for bribes leaving and coming back), `illegal-routes/` (irregular routes and how they end), `money/` (sending money home), `services/` (services for migrants and their families) and `other-destinations/` (countries with no doc of their own yet, one section each). A fact true for every country goes in the global doc; a fact specific to one country goes in that country's doc. Each country doc has its own FAQ, scams, departure and irregular-route parts for what is specific to it, and points to the global doc for the rest (for example "see "Fake BMET cards and fake clearance" in the Dalal scams doc"); the two must not contradict each other.
 - `agencies/`: the shared list of the most active recruiting agencies (`agencies.csv`), counted from BMET's permission letters, with cited red flags, and a readable doc built the same way as a country doc. Country docs name an agency's flags from here.
 - `tools/`: the shared scripts every country uses. Run them from inside your country folder.
 - `official-pdfs/`: official Bangladesh-side documents. Most apply to every country: the Ministry of Expatriates' Welfare citizen charter, the Wage Earners' Welfare Board citizen charter and annual report, the Probashi Kallyan Bank (PKB) loan page and charter, and BMET's safe migration leaflet. The rest are Saudi-specific BMET notices (skill test, permission letter, Takamol warning), useful as examples of what to look for.
@@ -94,7 +95,7 @@ Two drafts exist: Saudi Arabia (`countries/saudi-arabia/`) and Malaysia (`countr
 
 ## Tools and building the doc
 
-Needs Python 3 and pandoc (`brew install pandoc` on a Mac). Every script is in `tools/` and runs from inside your country folder, for example `cd countries/<country>` then `python3 ../../tools/build.py`. Each script explains its options at the top of the file.
+Needs Python 3 and pandoc (`brew install pandoc` on a Mac). Every script is in `tools/` and runs from inside your country or global folder, for example `cd countries/<country>` or `cd global/faq` then `python3 ../../tools/build.py`. Each script explains its options at the top of the file.
 
 - `fetch.py <url> <name>`: saves a page or PDF into `sources/` with a text copy, and refuses a URL already saved. `wayback.py <url> <name> official|news` gets an archived copy of a page that won't load.
 - `facts.py source` registers a saved source in `sources.csv`; `facts.py add` adds a fact to `facts.csv` and checks its quote; `facts.py cited doc.md` lists the facts behind a stretch of the doc, for checking. Give each person or agent working at the same time its own `--prefix` letter, so fact ids never clash.
@@ -114,6 +115,10 @@ claude mcp login firecrawl
 
 Restart Claude Code after logging in.
 
+## Work log
+
+`LOG.md` records what was done, by whom, how it was checked, what was tried and dropped, and what is left open, newest first. Before you finish any piece of work that changes a doc, `tools/`, `agencies/`, `data/` or `datasets/`, add an entry at the top of `LOG.md` in the shape shown there and commit it with the work. This applies to every person and every agent: an agent's final step is the log entry, not the commit. A pull request that changes those folders without changing `LOG.md` fails its check. For a large pass, keep the entry short and put the full trace (briefs, drafts, checker verdicts, scripts) in `passes/`. Read the latest entries before starting, so you don't redo or undo someone else's work.
+
 ## Version control
 
-This folder is a git repository. Commit after each meaningful change (a section researched, a batch of sources added, a rebuild) with a message that says what changed. Commit `doc.md`, `facts.csv`, `sources.csv`, `sources/`, `notes.md`, `README.md` and the .docx together, so they never drift apart. Never commit passwords or personal data about migrants.
+This folder is a git repository. Commit after each meaningful change (a section researched, a batch of sources added, a rebuild) with a message that says what changed, and add a `LOG.md` entry (see Work log). Commit `doc.md`, `facts.csv`, `sources.csv`, `sources/`, `notes.md`, `README.md` and the .docx together, so they never drift apart. Never commit passwords or personal data about migrants.

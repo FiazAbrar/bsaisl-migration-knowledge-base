@@ -1,0 +1,102 @@
+{
+ "articles": [
+  {
+   "article_id": "b4e3be6a-8f79-4f95-aef4-5c91aef8a20f",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: video page with only speaker names",
+   "held": []
+  },
+  {
+   "article_id": "f82e47b8-c19d-48f9-82c7-7304523a5a89",
+   "used": true,
+   "fact_ids": [
+    "GF0093"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "6ecf7c46-257a-4810-9849-e68d8787f20f",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: PM's New York meetings with Kuwait, Saudi and UAE leaders discussed workers in general terms only",
+   "held": []
+  },
+  {
+   "article_id": "ff6b1d02-1763-413b-b5b0-a8c0810c39f5",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: finance adviser's Bangkok speech on social protection, nothing for migrants",
+   "held": []
+  },
+  {
+   "article_id": "a7b26d1d-23bb-41fe-bcb2-2a87e2857fcb",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: opinion column urging compulsory language courses, no data or checkable claims",
+   "held": []
+  },
+  {
+   "article_id": "0f14cc45-2554-40e0-b0b0-4fd4c052bada",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: Study Abroad Fair 2026 event report (past event, list of exhibitors)",
+   "held": []
+  },
+  {
+   "article_id": "9aee663f-aff5-4271-837d-9566fdce7044",
+   "used": true,
+   "fact_ids": [
+    "GF0098",
+    "GF0099",
+    "GF0100",
+    "GF0101",
+    "GF0102",
+    "GF0106"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "86644b42-fb13-4a90-b603-222d04ad859a",
+   "used": true,
+   "fact_ids": [
+    "GF0103",
+    "GF0104",
+    "GF0105"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "02f21c30-4439-42ff-8b0f-f4279a9b4dbb",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: video page with only speaker names",
+   "held": []
+  },
+  {
+   "article_id": "15627a1b-bf00-48e5-a8df-9fc9e11644a7",
+   "used": true,
+   "fact_ids": [
+    "GF0094",
+    "GF0095",
+    "GF0096",
+    "GF0097"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "44875749-bed6-46fd-b9e6-7ba27ce83ca1",
+   "used": true,
+   "fact_ids": [
+    "GF0091",
+    "GF0092"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  }
+ ]
+}

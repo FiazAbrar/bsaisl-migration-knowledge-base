@@ -91,7 +91,7 @@ Bangladesh time.
 ## Where the knowledge base comes from
 
 The bot lives in the knowledge-base repository and reads the guides from the folder above it
-(`../countries/*/doc.md`, `../agencies/doc.md`, `../cross-country/doc.md`). It never edits them.
+(`../countries/*/doc.md`, `../agencies/doc.md`, `../global/*/doc.md`). It never edits them.
 To use a copy somewhere else, set `KB_DIR` in `.env`. On a server, `KB_REPO` makes the bot fetch the
 guides from GitHub instead (see Run in the cloud).
 

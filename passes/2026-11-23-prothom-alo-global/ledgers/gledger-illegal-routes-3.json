@@ -1,0 +1,89 @@
+{
+ "articles": [
+  {
+   "article_id": "73f772ea-3e9c-4233-8cc6-b25bc6348a0e",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact for the illegal-routes doc (airport harassment recommendation, workers sent, Iran returns, Biman routes); usable facts held for other docs",
+   "held": [
+    {
+     "target": "departure",
+     "claim": "On 8 October 2026 the parliamentary standing committee on the Ministry of Expatriates' Welfare and Overseas Employment recommended that a watch be kept so that migrant workers suffer no neglect or harassment at the airport.",
+     "quote": "প্রবাসী কর্মীরা যেন বিমানবন্দরে কোনো রকম অবহেলা বা হয়রানির শিকার না হন, সে বিষয়ে নজর রাখার সুপারিশ করেছে"
+    },
+    {
+     "target": "faq",
+     "claim": "The ministry told the parliamentary committee on 8 October 2026 that 432,786 workers, 36,590 of them women, were sent abroad from 18 February to 30 September 2026, and that remittance inflow in that period was USD 24.75 billion.",
+     "quote": "চলতি বছরের ১৮ ফেব্রুয়ারি থেকে ৩০ সেপ্টেম্বর পর্যন্ত সময়ে বিশ্বের বিভিন্ন দেশে মোট ৪ লাখ ৩২ হাজার ৭৮৬ জন কর্মী পাঠানো হয়েছে। এর মধ্যে ৩৬ হাজার ৫৯০ জন নারী কর্মী। এ সময়ে রেমিট্যান্স প্রবাহ ছিল ২৪ দশমিক ৭৫ বিলিয়ন ডলার।"
+    },
+    {
+     "target": "services",
+     "claim": "The ministry told the parliamentary committee on 8 October 2026 that, in the Middle East war situation, 186 people including 12 women and 8 children were brought back from Iran with Wage Earners' Welfare Board funding.",
+     "quote": "মন্ত্রণালয় জানায়, মধ্যপ্রাচ্যে যুদ্ধ পরিস্থিতিতে ওয়েজ আর্নার্স কল্যাণ বোর্ডের অর্থায়নে ইরান থেকে ১২ জন নারী ও ৮ জন শিশুসহ মোট ১৮৬ জনকে দেশে ফেরত আনা হয়েছে।"
+    }
+   ]
+  },
+  {
+   "article_id": "e4e34343-306d-443b-bf1b-c19ae5896ab5",
+   "used": true,
+   "fact_ids": [
+    "GI0096",
+    "GI0097",
+    "GI0098",
+    "GI0099",
+    "GI0100",
+    "GI0101",
+    "GI0102",
+    "GI0103"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "5557e99d-9111-45cb-826c-f934c92b5529",
+   "used": true,
+   "fact_ids": [
+    "GI0104",
+    "GI0105",
+    "GI0109",
+    "GI0110"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "cf47d0c1-c835-442a-9ca6-a6ab2f121b08",
+   "used": true,
+   "fact_ids": [
+    "GI0111",
+    "GI0112"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "2b3b02da-c3a0-458c-bd14-da2396ed9c6f",
+   "used": true,
+   "fact_ids": [
+    "GI0106",
+    "GI0107",
+    "GI0108"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  }
+ ],
+ "extra_sources": [
+  {
+   "article_id": "397f14c5-e057-43ca-91e9-53c3a141e9b5",
+   "note": "not in this chunk; saved to settle the Andaman Need to know",
+   "fact_ids": [
+    "GI0113",
+    "GI0114",
+    "GI0115",
+    "GI0116",
+    "GI0117"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/greece/doc.md",
+  "section": "Greece: migration guide (intro)",
+  "old_str": "Frontex is the European Union's border and coast guard agency [XG0070].",
+  "new_str": "Frontex is the European Union's (EU's) border and coast guard agency [XG0070].",
+  "problem": "'EU' is used from 'In one minute'/Status onward but never spelled out; define it at first use."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/greece/doc.md",
+  "section": "In one minute",
+  "old_str": "The regularisation happened: more than 10,000 got residence cards, and many went home to see their families for the first time in years [XG0015, XG0010, XG0012].",
+  "new_str": "The regularisation happened: more than 10,000 were given legal residence, and many went home to Bangladesh as soon as they got their resident card, the Bangladesh ambassador said [XG0015, XG0012].",
+  "problem": "'for the first time in years' generalises one man's account (Mohammad Kamal, XG0010) to 'many'; XG0012 (ambassador) only says many went home as soon as they got the card. XG0015 says 'given legal residence', not 'residence cards'."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/greece/doc.md",
+  "section": "In one minute",
+  "old_str": "The other door is a rubber boat from eastern Libya to Crete, sold in villages of Sunamganj and Habiganj for Tk 12 to 15 lakh, part of it paid only once the young man is in Libya [XG0043, XG0083, XG0052].",
+  "new_str": "The other door is a rubber boat from Libya to Crete, sold to young men from Sunamganj and Habiganj for Tk 12 to 15 lakh, part of it paid only once the young man is in Libya [XG0076, XG0043, XG0083, XG0052].",
+  "problem": "'eastern Libya' rests on one boat (Tobruk, XG0035, not cited here); the Habiganj boat's port is not reported. 'Crete' as the destination needs XG0076. The Habiganj families dealt with Dhaka-based brokers (XG0084), so 'sold in villages' is not supported for Habiganj."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/greece/doc.md",
+  "section": "Is it open now, and who can go?",
+  "old_str": "the boat from Libya to Crete, now the main entry point for asylum seekers into Greece, was still carrying Bangladeshis in November 2026 [XG0005, XG0015, XG0076, XG0079].",
+  "new_str": "the boat from Libya to Crete, now the main entry point for asylum seekers into Greece, was still carrying Bangladeshis at the end of October 2026 [XG0005, XG0015, XG0076, XG0079].",
+  "problem": "XG0079: the Habiganj boat left Libya on 31 October 2026; only the report is from November."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/greece/doc.md",
+  "section": "How a job reaches you, and who takes a cut",
+  "old_str": "For the legal seasonal route the reporting gives no chain at all; for the boat route it is a broker who lives in Libya, a relative of his who collects the money in the village, and a payment split between home and Libya [XG0049, XG0059, XG0043, XG0052].",
+  "new_str": "For the legal seasonal route the reporting gives no chain at all; for the boat route it names brokers living in Libya, one broker's father collecting the money at home, brokers based in Dhaka, and payments split between home and Libya [XG0049, XG0059, XG0084, XG0043, XG0052].",
+  "problem": "Lead not true of every case under it: a home collector who is the broker's relative appears in one case only (Mohibur, XG0059), and the Habiganj families dealt with brokers in Dhaka (XG0084), not a Libya-based broker."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/greece/doc.md",
+  "section": "The work",
+  "old_str": "Bangladeshis in Greece work mainly on farms, picking strawberries, olives and oranges in western Manolada [XG0002].",
+  "new_str": "A significant number of Bangladeshi workers live in western Manolada and work mainly on Greek farms: strawberries, olives, oranges and other crops [XG0002].",
+  "problem": "XG0002 is about the Bangladeshis in western Manolada, not all Bangladeshis in Greece; the sentence generalises to the whole country."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/greece/doc.md",
+  "section": "What people believe, and the facts",
+  "old_str": "The March 2026 boat was rubber, and the November 2026 one an inflatable rubber boat [XG0032, XG0079].",
+  "new_str": "The March 2026 boat was rubber, and the 31 October 2026 one an inflatable rubber boat [XG0032, XG0079].",
+  "problem": "XG0079: the Habiganj boat left on 31 October 2026, not in November."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/greece/doc.md",
+  "section": "What people believe, and the facts",
+  "old_str": "- **\"There will be food for the trip.\"** The boats leave with food for 24 hours; on the March 2026 boat the food and water ran out after one day [XG0055].",
+  "new_str": "- **\"There will be food for the trip.\"** These boats leave with food for 24 hours, and on the March 2026 boat the food and water ran out after one day, Shayek Ahmad's uncle said [XG0055].",
+  "problem": "Drops attribution: XG0055 is the uncle's account (relaying Sohel Ahmad), stated as established fact."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/greece/doc.md",
+  "section": "How it is sold",
+  "old_str": "Mohibur Rahman (20) went through Saudi Arabia, and stayed in Saudi Arabia and Libya with a friend from home [XG0051, XG0058, XG0068].",
+  "new_str": "Mohibur Rahman (20) went through Saudi Arabia, and stayed in Saudi Arabia and Libya with Maruf Ahmad, another Sunamganj man who left Bangladesh with him [XG0051, XG0058, XG0068].",
+  "problem": "XG0068 and the source say only that Mohibur and Maruf left the country together and stayed together (Maruf is from Sadipur, Jagannathpur); 'a friend from home' is not stated."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/greece/doc.md",
+  "section": "The crossing",
+  "old_str": "- **Food.** These boats are sent off with food for 24 hours [XG0055].",
+  "new_str": "- **Food.** These boats are sent off with food for 24 hours, Shayek Ahmad's uncle said [XG0055].",
+  "problem": "Drops attribution: the 24-hour figure is the uncle's statement (XG0055), not an established fact."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/greece/doc.md",
+  "section": "Arrival on Crete",
+  "old_str": "1. **Spotted and brought in.** Boats are spotted by Frontex aircraft or EU drones and brought into port by the coast guard; in August 2026 boats came into Ierapetra, and 79 people, Bangladeshis and at least two women and two children among them, were rescued near Kali Limenes in south Crete [XG0070, XG0073, XG0074, XG0075].",
+  "new_str": "1. **Spotted and brought in.** In August 2026 a Frontex aircraft spotted a boat of 40 that was then brought into Ierapetra port with the help of a coast guard patrol ship and a fishing boat; later that month an EU drone spotted two boats near Kali Limenes port in south Crete, and the coast guard rescued 79 people from them near Crete, Bangladeshis and at least two women and two children among them [XG0070, XG0073, XG0074, XG0075].",
+  "problem": "Turns two reported cases into a general rule ('boats are spotted... and brought into port by the coast guard'); XG0070's source says a patrol ship and a fishing boat brought the 40 in. XG0074 says the boats were spotted near Kali Limenes; XG0073 says the 79 were rescued near Crete, not 'near Kali Limenes'."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/greece/doc.md",
+  "section": "Deaths on the crossing",
+  "old_str": "Greek authorities arrested two South Sudanese men, aged 19 and 22, suspected of being the smugglers, for illegal entry and negligent homicide [XG0038].",
+  "new_str": "Greek authorities arrested two South Sudanese men, aged 19 and 22, suspected of being the smugglers, who were under investigation for illegal entry and negligent homicide [XG0038].",
+  "problem": "XG0038 says they were under investigation for these offences, not arrested on these charges."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/greece/doc.md",
+  "section": "Deaths on the crossing",
+  "old_str": "Only Masum Mia of Puraikala village survived: he floated for two days, washed ashore unconscious and reached Greece with the help of local people [XG0081, XG0082].",
+  "new_str": "Of the seven, only Masum Mia of Puraikala village survived: he floated for two days, washed ashore unconscious and reached Greece with the help of local people, his father said [XG0081, XG0082].",
+  "problem": "Reads as if Masum was the only survivor of about 50 passengers; XG0081 says only of the seven Habiganj men. The account of his survival is his father's (XG0082) and needs attribution."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/greece/doc.md",
+  "section": "If a relative dies or goes missing on the crossing",
+  "old_str": "**How families find out.** News comes from a survivor or a man from the same area already in Greece, not from the broker:",
+  "new_str": "**How families find out.** In the reported cases, news came from a survivor or a man from the same area already in Greece, not from the broker:",
+  "problem": "Turns four reported cases into a general rule (writer's conclusion); limit it to the cases reported."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/greece/doc.md",
+  "section": "Work and life in Greece",
+  "old_str": "Since the regularisation they work freely in various firms, and the embassy said they now send money home through legal channels [XG0008, XG0009].",
+  "new_str": "Since the regularisation, regularised Bangladeshis work freely in various firms, and the embassy said they now send money home through legal channels [XG0008, XG0009].",
+  "problem": "'they' refers back to the Manolada farm workers (XG0002); XG0008 and XG0009 are about regularised Bangladeshis in general, so the sentence merges the two groups."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/greece/doc.md",
+  "section": "If a relative dies or goes missing on the crossing",
+  "old_str": "does the Wage Earners' Welfare Board pay anything for a man who left without BMET clearance?",
+  "new_str": "does the Wage Earners' Welfare Board (the Bangladesh government board for the welfare of migrant workers and their families) pay anything for a man who left without BMET clearance?",
+  "problem": "Organisation not explained at first use in the doc."
+ }
+]

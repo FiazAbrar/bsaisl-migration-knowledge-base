@@ -1,0 +1,349 @@
+{
+ "articles": [
+  {
+   "article_id": "d6e7b723-5caa-40e5-988c-83e996521f1b",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "belongs to the Illegal routes doc (held)",
+   "held": [
+    {
+     "target": "global/illegal-routes",
+     "claim": "A local Swechchhasebak League leader in Majhardia, Saltha, Faridpur, said in March 2024 that Turap Molla is a people-smuggler and the main accused in the case over Nur Alam of Majhardia, who was taken to Libya on a promise of Italy and tortured and killed there on 12 February 2023, and that a court had issued an arrest warrant against him; on 1 March 2024 Turap escaped from police after arrest.",
+     "quote": "তুরাপ আদম ব্যবসায়ী। ২০২৩ সালের ১২ ফেব্রুয়ারি মাঝারদিয়া গ্রামে নুর আলম নামের এক ব্যক্তিকে ইতালি পাঠানোর কথা বলে লিবিয়ায় নিয়ে নির্যাতন করে হত্যা করা হয়। ওই মামলার প্রধান আসামি তুরাপ মোল্লা। ওই মামলায় তাঁর বিরুদ্ধে গ্রেপ্তারি পরোয়ানা জারি করেন আদালত।’"
+    }
+   ]
+  },
+  {
+   "article_id": "24ee991a-4ca5-4dd8-ac85-bf75db5b1f83",
+   "used": true,
+   "fact_ids": [
+    "GS0005",
+    "GS0012",
+    "GS0013"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "8a371a02-0a80-4318-b809-c47acdb7d1e9",
+   "used": true,
+   "fact_ids": [
+    "GS0001",
+    "GS0006",
+    "GS0014",
+    "GS0015",
+    "GS0021"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "604dd654-ad9b-4810-bf77-e875e045c9a3",
+   "used": true,
+   "fact_ids": [
+    "GS0007"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "4c1c799e-5a98-44d7-8468-3a4b4669ceb2",
+   "used": true,
+   "fact_ids": [
+    "GS0002",
+    "GS0003",
+    "GS0016",
+    "GS0017"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "38dc1df8-2a26-478a-9a74-e052885e330b",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "belongs to the Illegal routes doc (held)",
+   "held": [
+    {
+     "target": "global/illegal-routes",
+     "claim": "Police Special Branch wrote on 26 May 2024 that 102 people, Rohingya from Myanmar, got birth registrations from various places through dalal rings, dishonest officials and local representatives and made Bangladeshi passports with false permanent addresses.",
+     "quote": "ওই ব্যক্তিরা বিভিন্ন স্থান থেকে দালাল চক্র, অসৎ কর্মকর্তা-কর্মচারী ও স্থানীয় জনপ্রতিনিধিদের মাধ্যমে প্রতারণা করে জন্মনিবন্ধন নিয়েছেন। ওই ব্যক্তিরা রোহিঙ্গা সম্প্রদায়ভুক্ত  মিয়ানমারের নাগরিক।"
+    }
+   ]
+  },
+  {
+   "article_id": "23f2f05d-9013-4bd9-a766-03da6761e40c",
+   "used": true,
+   "fact_ids": [
+    "GS0008",
+    "GS0009",
+    "GS0010",
+    "GS0018"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "e25dbe12-6f61-4f39-8c3d-5db218921df3",
+   "used": true,
+   "fact_ids": [
+    "GS0004",
+    "GS0011"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "4f4197a9-60ae-41d1-b804-07c8a1db77b7",
+   "used": true,
+   "fact_ids": [
+    "GS0019",
+    "GS0020"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "b6b3250a-b58a-434a-8020-6f91493f3a95",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: arrest of a trafficking suspect at Chattogram airport with no detail of the scheme",
+   "held": []
+  },
+  {
+   "article_id": "b993d249-d73b-464e-8632-132d50f5f6d4",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "belongs to the Departure doc (held)",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "On 11 February 2025 the Civil Aviation Ministry ordered that every ticket booking, including group bookings, carry the passenger's name, passport number and passport copy, and that a booking not issued in the passenger's name within three days be cancelled automatically after 72 hours.",
+     "quote": "১. অনতিবিলম্বে গ্রুপ-টিকিট বুকিংসহ যেকোনো টিকিট সংরক্ষণের ক্ষেত্রে যাত্রীর নাম, পাসপোর্ট নম্বর এবং পাসপোর্টের ফটোকপি বাধ্যতামূলকভাবে সংযুক্ত করতে হবে। বুকিংয়ের তিন দিনের মধ্যে নির্দিষ্ট যাত্রীর নামে টিকিট ইস্যু না হলে ৭২ ঘণ্টা পর স্বয়ংক্রিয়ভাবে তা বাতিল হয়ে যাবে।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "The February 2025 directive says no airline or travel agency may sell tickets above the CAAB-approved fare and travel agencies must give the passenger the airline's set-price ticket and a sale receipt.",
+     "quote": "৬. কোনো এয়ারলাইনস কিংবা ট্রাভেল এজেন্সি বেবিচকের অনুমোদিত ভাড়ার বাইরে অতিরিক্ত দামে টিকিট বিক্রি করতে পারবে না। ট্রাভেল এজেন্সিগুলো বাধ্যতামূলকভাবে যাত্রীকে এয়ারলাইনস থেকে নির্ধারিত মূল্যের টিকিট ও বিক্রির রসিদ দেবে।"
+    }
+   ]
+  },
+  {
+   "article_id": "f307010f-b151-4a64-88f3-4c3b15221259",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "belongs to the Departure doc (held)",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "At a February 2025 inquiry into the Rajshahi regional passport office, a social worker said that even when papers are correct, mistakes are shown and applicants sent round repeatedly to force them to take a dalal, and that Ansar members solve every problem there.",
+     "quote": "কাগজপত্র নির্ভুল থাকলেও ভুল দেখিয়ে বারবার ঘুরিয়ে সেবাপ্রত্যাশীকে দালাল ধরতে বাধ্য করা হয়। সেখানে সব সমস্যার সমাধান দেন আনসার সদস্যেরা।"
+    }
+   ]
+  },
+  {
+   "article_id": "7cd6e411-76ef-4035-833e-b463a42b2aba",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "belongs to the Departure doc (held); duplicate of article b993d249",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "The ministry's 10-point directive against air-ticket price rises was published as a notification on 18 February 2025; bookings must be issued in the passenger's name within three days or be cancelled automatically.",
+     "quote": "১৮ ফেব্রুয়ারি মন্ত্রণালয়ের এই নির্দেশনা প্রজ্ঞাপন আকারে প্রকাশ করা হয়েছে।"
+    }
+   ]
+  },
+  {
+   "article_id": "c053c6a8-a2d5-4cec-a9e4-40f957e4cc5c",
+   "used": true,
+   "fact_ids": [
+    "GS0022",
+    "GS0023",
+    "GS0044",
+    "GS0045"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "b4e8e21e-c036-4440-8503-f7f9eecdee2a",
+   "used": true,
+   "fact_ids": [
+    "GS0024",
+    "GS0025"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "11b45706-0a1c-4c1b-be58-fd59ffa4f9b1",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "belongs to the Illegal routes doc (held)",
+   "held": [
+    {
+     "target": "global/illegal-routes",
+     "claim": "On 3 August 2025 local people in Feni held a dalal, Md Abdul Mannan (34) of Parshuram, with two Rohingya from Balukhali camp whom he and associates had brought from the camp with promises of Bangladeshi passports and sending abroad, and kept them at Parshuram on the Indian border to traffic them to India before bringing them back to Feni, police said the Rohingya told them.",
+     "quote": "পুলিশের জিজ্ঞাসাবাদে আটক রোহিঙ্গা শরণার্থীরা জানান, তাঁদের বাংলাদেশি পাসপোর্ট দেওয়ার কথা বলে এবং বিদেশে পাঠানোর প্রলোভন দেখিয়ে ক্যাম্প থেকে ফেনীতে আনেন দালাল মান্নান ও তাঁর সহযোগীরা। পরে ভারতে পাচারের জন্য ভারতীয় সীমান্তবর্তী পরশুরামে রেখে আসা হয়। সেখান থেকে আবার ফেনীতে আনা হয় তাঁদের।"
+    }
+   ]
+  },
+  {
+   "article_id": "d6333cc6-1c4d-4a23-950a-d6aae9d3e35a",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "belongs to the Illegal routes doc (held)",
+   "held": [
+    {
+     "target": "global/illegal-routes",
+     "claim": "BGB said in September 2025 that two Cox's Bazar teenagers it rescued at Keruntali, Teknaf, were being trafficked to Myanmar across the Naf river with a job lure.",
+     "quote": "তাদের চাকরির প্রলোভন দেখিয়ে টেকনাফের কেরুনতলী এলাকায় নাফ নদী দিয়ে পাচারের চেষ্টা করা হচ্ছিল বলে জানিয়েছে বিজিবি।"
+    }
+   ]
+  },
+  {
+   "article_id": "7ee647cc-5a0d-4e6e-a520-a08bb46bb06c",
+   "used": true,
+   "fact_ids": [
+    "GS0026",
+    "GS0027",
+    "GS0046",
+    "GS0047",
+    "GS0048",
+    "GS0049"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "687cb1b0-4a11-4b65-856d-96bad88830a9",
+   "used": true,
+   "fact_ids": [
+    "GS0028",
+    "GS0029",
+    "GS0030",
+    "GS0031",
+    "GS0032"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "8740c074-2af4-4738-a5b5-d0a9d4ff3113",
+   "used": true,
+   "fact_ids": [
+    "GS0033",
+    "GS0034",
+    "GS0050",
+    "GS0051"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "f277dfa6-7652-4ce1-ace8-6d89722b1fc1",
+   "used": true,
+   "fact_ids": [
+    "GS0052",
+    "GS0053"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "3ef3746f-df1b-4428-9b7d-057051c8cc2f",
+   "used": true,
+   "fact_ids": [
+    "GS0035",
+    "GS0036"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "2159feaf-6c6f-484a-bd22-c47b1c9a0f3c",
+   "used": true,
+   "fact_ids": [
+    "GS0037",
+    "GS0038"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "355aa1a5-0d1d-404e-b8bd-b784d8fe87e8",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of facts OA0147-OA0149 (Masud Uddin Chowdhury's arrest, 11 cases)",
+   "held": []
+  },
+  {
+   "article_id": "ed46d82a-7076-4e7f-bf39-d0ee1eebe2dd",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of OA0147-OA0149 (video summary of the same arrest)",
+   "held": []
+  },
+  {
+   "article_id": "cea99676-0fbf-42fb-8010-cf4bb0acb867",
+   "used": true,
+   "fact_ids": [
+    "GS0039"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "fc45b26b-64fb-4b34-a7f7-aaaa09af5d79",
+   "used": true,
+   "fact_ids": [
+    "GS0040",
+    "GS0041"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/illegal-routes",
+     "claim": "A Taraphasha villager said in March 2026 that half of the total contract is paid to the dalal in advance and the rest when the 'game' (the boat crossing from Libya) is ready.",
+     "quote": "দালালকে চুক্তির মোট টাকার অর্ধেক দিতে হয় আগে। বাকিটা ‘গেম’ প্রস্তুত হলে।"
+    },
+    {
+     "target": "global/illegal-routes",
+     "claim": "Before the Libya to Greece 'game', the family of Shayek Ahmed (23) paid a dalal Tk 12 lakh in two instalments, his father selling cattle and haor land, and Shayek died in the Mediterranean in March 2026.",
+     "quote": "লিবিয়া থেকে গ্রিস ঝুঁকিপূর্ণ ‘গেমযাত্রার’ আগে শায়েক আহমদের (২৩) পরিবার দুই দফা দালালকে ১২ লাখ টাকা দিয়েছিল। টাকার জন্য দরিদ্র বাবা আখলুছ মিয়াকে গোয়ালের গরু, হাওরের জমি বিক্রি করতে হয়েছে। কিন্তু শেষমেশ আর গন্তব্যে পৌঁছাতে পারেননি শায়েক। এর আগেই ভূমধ্যসাগরে প্রাণ গেছে তাঁর।"
+    }
+   ]
+  },
+  {
+   "article_id": "8803a820-abf0-43f6-9e02-d6c60f5ce9f8",
+   "used": true,
+   "fact_ids": [
+    "GS0042",
+    "GS0043"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/illegal-routes",
+     "claim": "On 27 March 2026 the Greek coast guard rescued 22 people alive from the Libya to Greece boat drifting off the Greek coast.",
+     "quote": "২৭ মার্চ গ্রিস উপকূলে ভাসতে থাকা বোট থেকে ২২ জনকে জীবিত উদ্ধার করে সে দেশের কোস্টগার্ড।"
+    }
+   ]
+  },
+  {
+   "article_id": "d06b3d14-1bde-4630-ba7e-3a6f418cc5bf",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: one-line video summary, the warning's content is not given",
+   "held": []
+  },
+  {
+   "article_id": "6e0ce106-834c-4c2d-a5a5-292f82ab9cca",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of OA0174-OA0181 and AA0217-AA0230 (editorial restating the April 2026 Cumilla roundtable)",
+   "held": []
+  }
+ ]
+}

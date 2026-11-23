@@ -1,0 +1,12 @@
+name: Work log entry
+on:
+  pull_request:
+jobs:
+  log-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Every change to the knowledge base adds a LOG.md entry
+        run: python3 tools/check_log.py origin/${{ github.base_ref }}

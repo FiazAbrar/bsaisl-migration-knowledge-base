@@ -1,0 +1,31 @@
+[
+ {
+  "held_id": "R2-dalal-scams-1",
+  "outcome": "added",
+  "fact_ids": [
+   "GS0110",
+   "GS0111"
+  ],
+  "note": "Action against agencies and officials: May 2026 grading plan."
+ },
+ {
+  "held_id": "R2-dalal-scams-2",
+  "outcome": "wrong doc",
+  "fact_ids": [],
+  "note": "illegal-routes, 'Cambodia, Myanmar and Laos: scam compounds' (foreign nationals setting up scam centres inside Bangladesh, not a scam on migrants)."
+ },
+ {
+  "held_id": "R2-dalal-scams-3",
+  "outcome": "wrong doc",
+  "fact_ids": [],
+  "note": "illegal-routes, 'Cambodia, Myanmar and Laos: scam compounds' (11 Sept 2026 Khulshi raid on 70 foreigners)."
+ },
+ {
+  "held_id": "R2-dalal-scams-4",
+  "outcome": "added",
+  "fact_ids": [
+   "GS0112"
+  ],
+  "note": "File a police case, 'In practice' bullet, with a link to 'Libya to Italy by boat' in the Illegal routes doc."
+ }
+]

@@ -410,3 +410,9 @@ E has "The lump-sum pension refund (dattai ichijikin)", "Selling or lending your
 - Embassy NOC papers/fee for a body; airfare cost Tokyo-Dhaka for remains; who pays for TITP/SSW deaths; Muslim burial in Japan.
 - Does WEWB membership taken in Japan bring JBC insurance?
 - Japan-returnee reintegration schemes; any business start-up grant for returned interns.
+
+
+## Resolved conflicts (23 Nov 2026)
+
+- IM Japan course length: 6 months of BMET Japanese plus 5 of IM Japan training (bdnews24, Aug 2023, C0166) against 4 plus 4 (Prothom Alo, Apr 2025, PJ0016). Different dates, not a contradiction: the doc gives the 2025 lengths as current and the 2023 ones as earlier.
+- Bangladeshis in Japan: Japan's official count (44,938 at end 2025, C0010) is the doc's figure; the Bangladeshi estimates (columnist, embassy-side remarks) are given only as dated, attributed history.

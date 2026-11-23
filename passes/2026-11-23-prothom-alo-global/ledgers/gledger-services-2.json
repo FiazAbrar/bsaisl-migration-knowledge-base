@@ -1,0 +1,409 @@
+{
+ "articles": [
+  {
+   "article_id": "4081f208-7b69-4e1e-aa5c-8b0f9505f82e",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: a BOESL essay competition for students, no bearing on migrants' decisions",
+   "held": []
+  },
+  {
+   "article_id": "52b796a8-0f1f-4ca5-8b39-5e251655bcf3",
+   "used": true,
+   "fact_ids": [
+    "GV0095",
+    "GV0096",
+    "GV0097"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "2e417eef-bd9a-44f6-a45c-5673ee770332",
+   "used": true,
+   "fact_ids": [
+    "GV0098",
+    "GV0099",
+    "GV0100",
+    "GV0101",
+    "GV0102",
+    "GV0103"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "1ea49853-3420-4bdb-baa0-704fbd14d611",
+   "used": true,
+   "fact_ids": [
+    "GV0104",
+    "GV0105"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ce853b5c-8892-4af8-80d4-50dbbac2d9f1",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of the 22 Nov 2024 essay-competition article; no usable fact",
+   "held": []
+  },
+  {
+   "article_id": "58db4e16-a2d7-4b74-ae71-e97d5d865a38",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "facts belong in another doc; held",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "Online attestation of public exam certificates started on 1 October 2024, so originals no longer have to be taken to the Ministry of Education.",
+     "quote": "গত ১ অক্টোবর থেকে এ কার্যক্রম শুরু হয়। এর ফলে সনদের মূল কপি নিয়ে আর ছুটতে হয় না শিক্ষা মন্ত্রণালয়ে।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "Education certificates are attested first by the Ministry of Education, then MoFA, then the destination's embassy; for countries without an embassy in Bangladesh, people go to Delhi.",
+     "quote": "শিক্ষাসংক্রান্ত সনদ হলে প্রথমে শিক্ষা মন্ত্রণালয়, পরে পররাষ্ট্র মন্ত্রণালয় থেকে সত্যায়িত করতে হয়। এরপর সংশ্লিষ্ট দেশের দূতাবাস সত্যায়িত করে। তারপর ওই দেশে কার্যকর হয়। যেসব দেশের দূতাবাস বাংলাদেশে নেই, দিল্লিতে গিয়ে ওই সব দেশের দূতাবাসে সনদ জমা দিয়ে সত্যায়িত করতে হয়।"
+    }
+   ]
+  },
+  {
+   "article_id": "f202cc6d-14d6-47a2-90fb-006f20352ca0",
+   "used": true,
+   "fact_ids": [
+    "GV0112",
+    "GV0113",
+    "GV0114",
+    "GV0115"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "9131a998-d8d6-4ee0-b23f-39c88d18bea3",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "facts belong in another doc; held",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "For online certificate attestation on mygov.bd only an NID or an online-listed birth registration is needed.",
+     "quote": "শিক্ষাসংক্রান্ত যাবতীয় কাগজপত্রের জন্য শুধু জাতীয় পরিচয়পত্র (ন্যাশনাল আইডি বা এনআইডি) অথবা অনলাইনে তালিকাভূক্ত জন্মনিবন্ধন সনদ লাগবে"
+    },
+    {
+     "target": "global/departure",
+     "claim": "Scans for MyGov must be JPEG, JPG or PNG and under 1 MB.",
+     "quote": "স্ক্যান করা ফাইলগুলো অবশ্যই জেপিইজি, জেপিজি বা পিএনজি ফরম্যাটে কম্পিউটারে সংরক্ষণ করতে হবে। ফাইলের সাইজ অবশ্যই ১ এমবির (মেগাবাইট) মধ্যে হতে হবে"
+    },
+    {
+     "target": "global/departure",
+     "claim": "One NID can verify only one MyGov account.",
+     "quote": "এটি তাৎক্ষণিকভাবে এনআইডি অথবা জন্ম নিবন্ধন নাম্বার কিংবা জন্ম সাল দিয়ে যাচাই করে নিতে হবে। একটি এনআইডি দিয়ে শুধু একটি মাইগভ অ্যাকাউন্ট যাচাই করা যাবে।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "Each submitted application gets a tracking number, checked under 'Sheba Babosthapona'.",
+     "quote": "চূড়ান্তভাবে আবেদন জমা দেওয়ার পর প্রতিটি আবেদনের জন্য একটি স্বতন্ত্র ট্রাকিং নম্বর দেন। এই নাম্বার ব্যবহার করে পরবর্তীতে ‘সেবা ব্যবস্থাপনা’ অপশন থেকে আবেদনের সর্বশেষ অবস্থান সম্পর্কে জানা যাবে।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "Fees are paid by online banking, card or mobile payment gateway; some services are free.",
+     "quote": "এ ছাড়া কোনো কোনো সেবা বিনা মূল্যেই পাওয়া যাবে, আবার কোনো কোনোটির ক্ষেত্রে রয়েছে নির্দিষ্ট আবেদন ফি। এই ফি পরিশোধের জন্য রয়েছে অনলাইন ব্যাংকিং, কার্ড এবং মোবাইল পেমেন্ট গেটওয়ে সিস্টেম।"
+    }
+   ]
+  },
+  {
+   "article_id": "85b9892c-89db-4485-befa-e500f6c87c56",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of the 2024 scholarship round already in the doc (GV0028-GV0034, GV0049-GV0050, GV0104)",
+   "held": []
+  },
+  {
+   "article_id": "29e38bfe-7b06-4e79-828a-23156d6fd538",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "facts belong in another doc; held",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "On 29 January 2025 the foreign affairs adviser opened an integrated online attestation system under the 1961 Apostille Convention, expected to save service users Tk 500 to 700 crore a year.",
+     "quote": "বর্তমানে প্রচলিত ম্যানুয়াল (সনাতনী) প্রথার বদলে আজ বুধবার সমন্বিত অনলাইন সত্যায়ন ব্যবস্থাপনার উদ্বোধন করা হয়েছে।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "Foreign embassies in Dhaka charge a service fee of Tk 3,000 to 20,000 per page to attest a document; with the apostille this is not needed.",
+     "quote": "ঢাকায় অবস্থিত বিদেশি দূতাবাসগুলোতে প্রতি পাতা ডকুমেন্ট সত্যায়ন করতে তিন হাজার থেকে ২০ হাজার টাকা সার্ভিস ফি আদায় করে থাকে।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "The convention has 127 member countries, but documents attested from Bangladesh are currently accepted in 117 (the FAQ cites MoFA's list of 114).",
+     "quote": "এই কনভেনশনের পক্ষভুক্ত দেশের বর্তমান সংখ্যা ১২৭টি। তবে বর্তমানে ১১৭টি দেশে বাংলাদেশ থেকে সত্যায়নকৃত দলিল গ্রহণযোগ্য হবে।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "The issuing authority's controlling ministry countersigns and sends the document online to MoFA, which issues an e-apostille.",
+     "quote": "নিয়ন্ত্রণকারী মন্ত্রণালয় ডকুমেন্টটি প্রতিসত্যায়ন করে অনলাইনে পররাষ্ট্র মন্ত্রণালয়ে পাঠাবে। পররাষ্ট্র মন্ত্রণালয় এপোস্টিল কনভেনশনের নিয়ম মেনে ডকুমেন্টটিতে প্রতিসত্যায়ন করবে এবং সত্যায়নের সনদ হিসেবে অনলাইনে ই-এপোস্টিল সার্টিফিকেট প্রদান করবে।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "When MoFA finishes, an SMS goes to the registered mobile and the e-apostille is downloaded from the MyGov dashboard.",
+     "quote": "পররাষ্ট্র মন্ত্রণালয় কর্তৃক সত্যায়ন কার্যক্রম সম্পন্ন হলে সেবা প্রার্থীর রেজিস্ট্রেশনকৃত মোবাইল নম্বরে নোটিফিকেশন যাবে। এরপর সেবা প্রার্থীরা তাঁদের মাইগভ পোর্টালের ব্যক্তিগত ড্যাশবোর্ডের ‘ডাউনলোড’ বাটনে ক্লিক করে ই-এপোস্টিল সার্টিফিকেট ডাউনলোড করে নিতে পারবেন।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "With manual attestation, applicants stand in long queues at government offices and fall into brokers' hands.",
+     "quote": "সরকারি বিভিন্ন দপ্তরে ডকুমেন্টের হার্ডকপিতে ম্যানুয়্যালি সত্যায়ন করার সময় সেবা প্রার্থীরা দীর্ঘ লাইনে দাঁড়িয়ে থাকেন এবং দালালের খপ্পরে পড়েন।"
+    }
+   ]
+  },
+  {
+   "article_id": "783c88e4-a26e-4628-8842-f355ba1bba31",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "facts belong in another doc; held",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "Under a February 2025 MoU of MoFA, UGC and a2i, students of UGC universities can pay attestation fees on MyGov through the ekPay gateway.",
+     "quote": "এর মাধ্যমে মাইগভ প্ল্যাটফর্মে সনদ সত্যায়নের আবেদনে ন্যাশনাল পেমেন্ট গেটওয়ে ‘একপে’ ব্যবহার করে ইউজিসির আওতাধীন বিশ্ববিদ্যালয়গুলোর শিক্ষার্থীরা সেবার ফি প্রদান করতে পারবেন।"
+    }
+   ]
+  },
+  {
+   "article_id": "e5cf42b4-4bac-4efe-8097-97e6759be5a4",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: road accident of two Italy migrants on leave",
+   "held": []
+  },
+  {
+   "article_id": "32cd72e6-50ae-4328-97c6-50daa112bd50",
+   "used": true,
+   "fact_ids": [
+    "GV0116",
+    "GV0117",
+    "GV0118"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "In March 2025, passengers who used Dhaka airport's e-gates still had to go through normal immigration, so they avoided them.",
+     "quote": "ই-গেটে পাসপোর্টের তথ্য যাচাই করার পর আবার অন্যদের মতো একই প্রক্রিয়ায় ইমিগ্রেশন সম্পন্ন করতে হচ্ছে। এ জন্য যাত্রীরা ই-গেট ব্যবহার করতে স্বচ্ছন্দ বোধ করছেন না।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "From September 2024 to 8 March 2025 immigration police detected 46 fake visas, 5 residency cards, 4 fake or tampered passports and 30 impostors.",
+     "quote": "গত সেপ্টেম্বর থেকে শনিবার (৮ মার্চ) পর্যন্ত ইমিগ্রেশন পুলিশ ডকুমেন্ট অ্যানালাইসিস সেন্টার থেকে ৪৬টি জাল ভিসা, ৫টি রেসিডেন্সি কার্ড, ৪টি জাল/টেম্পারিং পাসপোর্ট এবং একজনের পাসপোর্টের তথ্য ব্যবহার করে অন্যজনের ছবি ব্যবহার (ইমপোস্টার) করা ৩০ জনকে শনাক্ত করে।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "Immigration has 48 arrival and 42 departure counters, staffed by 500+ police in four shifts.",
+     "quote": "বর্তমানে বিমানবন্দরের আগমনীতে ইমিগ্রেশন পুলিশের ৪৮টি কাউন্টার এবং বহির্গমনে ৪২টি কাউন্টার রয়েছে। চার পালায় এসব কাউন্টারসহ পুরো ইমিগ্রেশন–প্রক্রিয়ায় কাজ করেন পাঁচ শতাধিক পুলিশ সদস্য।"
+    }
+   ]
+  },
+  {
+   "article_id": "bec0d8aa-f26c-4306-9828-aca09580757f",
+   "used": true,
+   "fact_ids": [
+    "GV0119",
+    "GV0120",
+    "GV0121",
+    "GV0122",
+    "GV0123",
+    "GV0124",
+    "GV0125",
+    "GV0126",
+    "GV0127"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "The expatriates' welfare adviser said on 16 April 2025 that harassment of migrants at the airport had stopped due to steps taken.",
+     "quote": "প্রবাসীকল্যাণ উপদেষ্টা বলেন, বিমানবন্দরে গৃহীত নানা পদক্ষেপের কারণে প্রবাসীদের হয়রানি বন্ধ হয়েছে।"
+    }
+   ]
+  },
+  {
+   "article_id": "5b386ca0-12bb-4103-9346-72b80bc73dd5",
+   "used": true,
+   "fact_ids": [
+    "GV0128",
+    "GV0129",
+    "GV0130"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "46c0324a-5e52-4ccd-ac3f-0c5a31fab0fe",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "facts belong in another doc; held",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "In Madaripur a young man paid a broker Tk 9,500 for a 10-year 48-page passport whose government fee is Tk 5,750.",
+     "quote": "এটা সরকার নির্ধারিত ফি ৫ হাজার ৭৫০ টাকা। তবে তিনি দালালকে দিয়েছেন সাড়ে ৯ হাজার টাকা।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "At Madaripur passport office, applicants without brokers had applications returned if the original NID and an attested online copy were not brought.",
+     "quote": "দালাল ছাড়া যাঁরা আবেদন জমা দিচ্ছেন, তাঁদের যদি কারও জাতীয় পরিচয়পত্রের মূল কপি, অনলাইনের কপি সত্যায়িত না থাকে, তাহলে তাঁদের আবেদন ফিরিয়ে দেওয়া হচ্ছে।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "17 unsigned computer shops outside the Madaripur passport office, known as local brokers, fill in applications.",
+     "quote": "এই ১৭ দোকানে যাঁরা কাজ করেন, তাঁরা সবাই পাসপোর্ট কার্যালয়ের স্থানীয় দালাল হিসেবে পরিচিত।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "e-passport fees (2025): 48-page 10-year Tk 5,750 (21 days), 8,050 (10 days), 10,350 (2 days).",
+     "quote": "এ ছাড়া একই পৃষ্ঠায় ১০ বছর মেয়াদি পাসপোর্ট ২১ দিনের মধ্যে পেতে সরকার নির্ধারিত ফি ৫ হাজার ৭৫০ টাকা, ১০ দিনের মধ্যে দ্রুত ডেলিভারি জন্য ৮ হাজার ৫০ টাকা এবং দুই দিনের মধ্যে অতি দ্রুত পাসপোর্ট পেতে হলে ১০ হাজার ৩৫০ টাকা ফি।"
+    }
+   ]
+  },
+  {
+   "article_id": "cc72c21f-840b-4785-a0ad-71550750a00e",
+   "used": true,
+   "fact_ids": [
+    "GV0131"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "6caf35d7-d92c-4476-bd54-a4568001858a",
+   "used": true,
+   "fact_ids": [
+    "GV0132",
+    "GV0133",
+    "GV0134",
+    "GV0135"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "d7d95157-909b-4093-b944-539142533cd0",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "facts belong in another doc; held",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "With two online birth registrations, the fix is to apply at the Registrar General's office to cancel one; its investigation report goes to the ward office in about a month.",
+     "quote": "রেজিস্ট্রার জেনারেলের কার্যালয় তদন্ত করে সেই প্রতিবেদন পাঠাবেন ওয়ার্ড কার্যালয়ে। সে জন্য মাসখানেক সময় লাগবে।"
+    },
+    {
+     "target": "global/departure",
+     "claim": "A returnee from Saudi Arabia whose daughter's e-passport application was cancelled was asked Tk 10,000 by a broker before learning he must apply to cancel one birth registration.",
+     "quote": "উল্টো এক দালাল ১০ হাজার টাকা দাবি করেন। পরে পাসপোর্ট কার্যালয় থেকে তাঁকে রেজিস্ট্রার জেনারেলের কার্যালয়ে যোগাযোগ করতে বলা হয়। এখানে এসে তিনি জানতে পারলেন, একটি জন্মনিবন্ধন বাতিলের জন্য আবেদন করতে হবে।"
+    }
+   ]
+  },
+  {
+   "article_id": "ca91aab6-fc75-4393-a526-a2cba399d87d",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "duplicate of 9131a998 (MyGov attestation steps), held for departure there",
+   "held": []
+  },
+  {
+   "article_id": "34ecc413-e93d-4602-aab8-f964838591b0",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "facts belong in another doc; held",
+   "held": [
+    {
+     "target": "global/faq",
+     "claim": "A letter writer reported in August 2025 that the expatriates' welfare adviser Asif Nazrul said even loading/unloading or construction jobs abroad now need some skill.",
+     "quote": "প্রবাসীকল্যাণ উপদেষ্টা আসিফ নজরুলও জানিয়েছেন, এখন পণ্য ওঠানো–নামানো বা নির্মাণ অবকাঠামো খাতে কাজ করতে হলেও কিছু দক্ষতা প্রয়োজন।"
+    }
+   ]
+  },
+  {
+   "article_id": "61f09c9f-9fe2-4d96-85ca-d5ad36a8af6a",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "facts belong in another doc; held",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "Prothom Alo noted in August 2025 that the electronic certificate attestation system began before the interim government took office (the Chief Adviser's page claimed Tk 700 crore a year in savings).",
+     "quote": "যদিও বিদেশে উচ্চশিক্ষার আবেদন কিংবা শিক্ষাগ্রহণের জন্য শিক্ষাগত যোগ্যতার বিভিন্ন সনদপত্রের সত্যায়নের ইলেক্ট্রনিক পদ্ধতি অন্তর্বর্তী সরকার দায়িত্ব নেওয়ার আগেই চালু হয়েছে।"
+    }
+   ]
+  },
+  {
+   "article_id": "af414194-5766-4fa3-938c-7599ae6931b4",
+   "used": true,
+   "fact_ids": [
+    "GV0136",
+    "GV0137",
+    "GV0138",
+    "GV0139",
+    "GV0140",
+    "GV0143",
+    "GV0144"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "f00b6874-ff61-43d1-8fc9-ebb12e657f9c",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact for workers: extra domestic baggage for Umrah pilgrims and students on NovoAir",
+   "held": []
+  },
+  {
+   "article_id": "c6dae17a-168a-4011-aa3e-b2670cf54a07",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: general opinion piece with no specific cost, case or service",
+   "held": []
+  },
+  {
+   "article_id": "65104fce-0bd5-4668-b2d5-c3b921b04464",
+   "used": true,
+   "fact_ids": [
+    "GV0141",
+    "GV0142"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "04c8047d-38aa-4c67-91a1-6769501e79f0",
+   "used": true,
+   "fact_ids": [
+    "GV0106",
+    "GV0107",
+    "GV0108",
+    "GV0109",
+    "GV0110",
+    "GV0111",
+    "GV0145"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "ac9a618b-db4c-46b5-8144-30c2253908d7",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "facts belong in another doc; held",
+   "held": [
+    {
+     "target": "global/departure",
+     "claim": "The home affairs adviser said on 20 October 2025 that a decision had been taken to cut passport fees for migrants to a reasonable level.",
+     "quote": "উপদেষ্টা আরও বলেন, প্রবাসীরা অর্থনীতির প্রাণ। তাঁদের জন্য পাসপোর্ট ফি যৌক্তিক পর্যায়ে কমিয়ে আনার সিদ্ধান্ত হয়েছে।"
+    }
+   ]
+  }
+ ]
+}

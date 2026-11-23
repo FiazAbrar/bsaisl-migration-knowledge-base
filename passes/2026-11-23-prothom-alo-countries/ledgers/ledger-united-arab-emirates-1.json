@@ -1,0 +1,347 @@
+{
+ "articles": [
+  {
+   "article_id": "53ec1a3d-6cb0-4882-b470-118e4fbf2c64",
+   "used": true,
+   "fact_ids": [
+    "PU0001",
+    "PU0002",
+    "PU0003",
+    "PU0004",
+    "PU0005"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "bedd1a6d-9fe8-4e42-93c7-4cb5142bef1a",
+   "used": true,
+   "fact_ids": [
+    "PU0006",
+    "PU0007"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "247263c5-2554-4905-b833-d305e590b195",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact for migrants: FBCCI president's call for expatriate business investment in Bangladesh.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "3c8852e8-b100-486b-88d5-33356c7094fd",
+   "used": true,
+   "fact_ids": [
+    "PU0008",
+    "PU0009",
+    "PU0010",
+    "PU0011",
+    "PU0012",
+    "PU0013",
+    "PU0014"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "91bb6694-c903-4a65-ae6b-427251b3147e",
+   "used": true,
+   "fact_ids": [
+    "PU0015",
+    "PU0016"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "aa952876-95de-4f83-8070-221e8a9a7d81",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: foreign minister's political speech at an Abu Dhabi reception (remittance via legal channels already covered).",
+   "held_for_global": []
+  },
+  {
+   "article_id": "8c0ed801-144c-428b-a31b-0231d6ae9783",
+   "used": true,
+   "fact_ids": [
+    "PU0017"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "8ba92ed4-83b5-4abf-814b-8fc4596f63c8",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: engineers' iftar event in Dubai.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "76d3eb01-87da-47fd-809d-c9d0fe54fe7b",
+   "used": true,
+   "fact_ids": [
+    "PU0018",
+    "PU0019",
+    "PU0020",
+    "PU0021",
+    "PU0022",
+    "PU0023"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "d31044c8-f5f0-478f-9d2a-24d88ce556e2",
+   "used": true,
+   "fact_ids": [
+    "PU0024",
+    "PU0025",
+    "PU0026",
+    "PU0027"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "d3c7088c-b082-49ee-a707-c52b86e3deaa",
+   "used": true,
+   "fact_ids": [
+    "PU0028",
+    "PU0029",
+    "PU0030",
+    "PU0031",
+    "PU0032"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "c3aa7df6-3b09-4d55-8be5-c4a6c9ff6395",
+   "used": true,
+   "fact_ids": [
+    "PU0033",
+    "PU0034",
+    "PU0035",
+    "PU0036",
+    "PU0037"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "6957c73d-54d0-4417-9cc7-23c6a3bd5674",
+   "used": true,
+   "fact_ids": [
+    "PU0038",
+    "PU0039",
+    "PU0040",
+    "PU0041"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "d50e8d12-cfa2-4335-a19e-fb3dd6d2cef3",
+   "used": true,
+   "fact_ids": [
+    "PU0042"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "7976874f-5bc8-423f-8d9e-afb66c94ddb0",
+   "used": true,
+   "fact_ids": [
+    "PU0043",
+    "PU0044",
+    "PU0045"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "2e53928e-9653-44bf-8d8a-30b2f2ed6630",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Duplicate: the chief adviser's planned call that led to the pardon; outcome already in doc (N0035, PU0048).",
+   "held_for_global": []
+  },
+  {
+   "article_id": "9dfa81d2-5ce7-409d-b370-9415f3848150",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No UAE-specific usable fact: rally demanding release of protesters; 60 arrested figure covers UAE, Saudi Arabia and Qatar together.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "664d9af4-5683-4777-8e4a-5f88f16221ae",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Not about the UAE beyond the 57 sentenced, already in doc (N0033): op-ed on diaspora protests in Germany.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "f04e2ef8-ef66-4d92-87d1-b115604c5cb1",
+   "used": true,
+   "fact_ids": [
+    "PU0046",
+    "PU0047"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "In September 2024 the Bangladesh Outbound Tour Operators Forum said outbound tourist numbers had fallen about 80% since July 2024",
+     "quote": "গেল জুলাই থেকে চলমান পরিস্থিতির কারণ বাংলাদেশ থেকে বিদেশগামী পর্যটকের সংখ্যা প্রায় ৮০ শতাংশ কমেছে বলে জানিয়েছে বাংলাদেশ আউটবাউন্ড ট্যুর অপারেটরস ফোরাম।",
+     "suggested_module": "other: tourism"
+    }
+   ]
+  },
+  {
+   "article_id": "f370a45c-d695-483a-9caf-500946184f63",
+   "used": true,
+   "fact_ids": [
+    "PU0048",
+    "PU0049",
+    "PU0050",
+    "PU0051"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "c0d4f1a9-5b9a-4242-b38b-34296e975b83",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: Big Ticket lottery win by a Dubai-based Bangladeshi.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "42e79e1b-a3e0-41e2-a1ce-7b03c973bd12",
+   "used": true,
+   "fact_ids": [
+    "PU0052",
+    "PU0053",
+    "PU0054"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "721eeb8a-dc28-4f5f-94a9-06e4cd357bea",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Not UAE-specific for migrants: op-ed on money laundering and hundi; claim of 13,000 Bangladeshi firms in Dubai is about businessmen, not workers.",
+   "held_for_global": [
+    {
+     "claim": "In October 2024 the banking-channel rate was Tk 121 per dollar against at most Tk 123.50 in the open market, and an analyst said the narrow gap made migrants comfortable using banks",
+     "quote": "ব্যাংকিং চ্যানেলে বর্তমানে প্রতি ডলারের বিপরীতে ১২১ টাকা পাচ্ছেন প্রবাসীরা।",
+     "suggested_module": "other: sending money home"
+    },
+    {
+     "claim": "A parliamentary standing committee listed obstacles to legal remittance including the gap between legal and hundi rates, migrants lacking legal papers, and too few Bangladeshi bank branches and exchange houses abroad",
+     "quote": "প্রতিবন্ধকতাগুলো হলো বৈধ পথের তুলনায় অবৈধ পথে রেমিট্যান্স বিনিময় হারের ফারাক, প্রবাসী কর্মীর বৈধ কাগজপত্র না থাকা, প্রবাসে বাংলাদেশি বাণিজ্যিক ব্যাংকের শাখা না থাকা বা পর্যাপ্ত শাখার অভাব।",
+     "suggested_module": "other: sending money home"
+    }
+   ]
+  },
+  {
+   "article_id": "47fe2fed-a263-43be-9a44-b7f8a28eb1b2",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: DP World and Chattogram port; FY2023-24 UAE remittance already in doc (G0097).",
+   "held_for_global": []
+  },
+  {
+   "article_id": "9714926e-70b4-4d80-9c42-3d52aef53e51",
+   "used": true,
+   "fact_ids": [
+    "PU0055"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "5fcc47b4-76d4-42c8-b57a-e5e5c5d709e8",
+   "used": true,
+   "fact_ids": [
+    "PU0056",
+    "PU0057"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "c0618e81-77e5-49c8-9616-31888c1398a6",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Duplicate: 75 more pardoned, 188 in total, already in doc (N0102, N0035).",
+   "held_for_global": []
+  },
+  {
+   "article_id": "7aafa94b-fd97-4dc5-b780-a1d5adeea63b",
+   "used": true,
+   "fact_ids": [
+    "PU0060",
+    "PU0061",
+    "PU0062",
+    "PU0063",
+    "PU0064",
+    "PU0065",
+    "PU0066"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "The expatriates' welfare adviser said complaints of hostile behaviour by diplomats would be investigated through the Foreign Ministry if made in writing",
+     "quote": "লিখিত অভিযোগ দিলে পররাষ্ট্র মন্ত্রণালয়ের মাধ্যমে তদন্ত করা হবে।",
+     "suggested_module": "faq"
+    }
+   ]
+  },
+  {
+   "article_id": "c06b384b-d3d1-40ed-9f77-b83e906d22f4",
+   "used": true,
+   "fact_ids": [
+    "PU0058",
+    "PU0059"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "5fa98959-4295-4846-8dbf-256b3dbeb5ef",
+   "used": true,
+   "fact_ids": [
+    "PU0067",
+    "PU0074"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "2f9b5ed9-34e9-4a57-abd7-8a880fa9fad2",
+   "used": true,
+   "fact_ids": [
+    "PU0068",
+    "PU0069",
+    "PU0070"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "acc9d68e-b45a-4154-836f-47b63d9f8520",
+   "used": true,
+   "fact_ids": [
+    "PU0071",
+    "PU0072",
+    "PU0073"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  }
+ ]
+}

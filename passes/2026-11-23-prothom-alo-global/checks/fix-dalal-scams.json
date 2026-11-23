@@ -1,0 +1,121 @@
+[
+ {
+  "section": "What people pay, and to whom",
+  "old_str": "Mohiuddin Ahmed, a Canada-based analyst, wrote in a June 2026 Prothom Alo column that the government sets a cost and dalals and middlemen take several times more [GS0059]",
+  "new_str": "Mohiuddin Ahmed, a Canada-based analyst, wrote in a June 2026 Prothom Alo column that the government sets a cost and dalals and middlemen take several times more [GS0058]",
+  "problem": "Wrong citation: GS0059 is about a September 2026 parliamentary committee meeting on the foreign ministry; the Mohiuddin Ahmed June 2026 claim is GS0058.",
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/dalal-scams/doc.md"
+ },
+ {
+  "section": "The commonest abuses",
+  "old_str": "- **Who is overcharged.** The assistant director of the Cumilla DEMO said there that",
+  "new_str": "- **Who is overcharged.** The assistant director of the Cumilla DEMO said at the April 2026 Cumilla roundtable that",
+  "problem": "The new GS0009 (August 2024 column) and GS0089/GS0090 (July 2024 BRAC roundtable) bullets were inserted above this one, so \"there\" now points to the July 2024 BRAC roundtable instead of the Cumilla roundtable (AA0225/AA0226).",
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/dalal-scams/doc.md"
+ },
+ {
+  "section": "The staged-payment trap, and no receipts",
+  "old_str": "The state minister said on 13 October 2026 that the card is being piloted",
+  "new_str": "The state minister for expatriates' welfare, Md Nurul Haque, said on 13 October 2026 that the card is being piloted",
+  "problem": "The paragraph's previous minister is Ariful Haque Chowdhury (the minister); \"the state minister\" is not introduced in this section and reads as the same person. GS0073 is Md Nurul Haque (state minister).",
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/dalal-scams/doc.md"
+ },
+ {
+  "section": "Loan sharks and land mortgages",
+  "old_str": "until relatives traced him through social media to Kumarkhali railway station, Kushtia, in June 2026 [GS0055, GS0058]",
+  "new_str": "until relatives traced him through social media to Kumarkhali railway station, Kushtia, in June 2026 [GS0055, GS0061]",
+  "problem": "Wrong citation (ids shifted by one): GS0058 is the Mohiuddin Ahmed column; the June 2026 tracing to Kumarkhali station is GS0061.",
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/dalal-scams/doc.md"
+ },
+ {
+  "section": "How it works",
+  "old_str": "for sending workers through verified recruiting agencies [GS0060, GS0061]",
+  "new_str": "for sending workers through verified recruiting agencies [GS0059, GS0060]",
+  "problem": "Wrong citation (ids shifted by one): the committee's 'systemic weaknesses' remark is GS0059 and its recommendation is GS0060; GS0061 is the Isak Mia case.",
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/dalal-scams/doc.md"
+ },
+ {
+  "section": "Action against agencies and officials",
+  "old_str": "  - Imran Ahmad, five times MP for Sylhet-4, was state minister for expatriates' welfare from 2018 and minister from 2019 [GS0044, GS0023].",
+  "new_str": "  - Imran Ahmed (also spelled Imran Ahmad), five times MP for Sylhet-4, was state minister for expatriates' welfare from 2018 and minister from 2019 [GS0044, GS0022].",
+  "problem": "Citations swapped: the 2018 state minister / 2019 minister claim is GS0022, not GS0023 (GS0023 is the May 2025 move to hospital). Also the bullet spells the name Imran Ahmad while the bullets around it (OA0150, OA0156) spell it Imran Ahmed, which can read as two people.",
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/dalal-scams/doc.md"
+ },
+ {
+  "section": "Action against agencies and officials",
+  "old_str": "and in May 2025 he was moved from Sylhet Central Jail to Osmani Medical College Hospital [GS0044, GS0045, GS0022].",
+  "new_str": "and in May 2025 he was moved from Sylhet Central Jail to Osmani Medical College Hospital [GS0044, GS0045, GS0023].",
+  "problem": "Citations swapped: the May 2025 move from Sylhet Central Jail to hospital is GS0023; GS0022 is his ministerial posts.",
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/dalal-scams/doc.md"
+ },
+ {
+  "section": "Trafficking disguised as a job, especially for women",
+  "old_str": "confined in a house, abused and pressed towards \"immoral work\", according to SRB",
+  "new_str": "confined in a house, abused and even proposed \"immoral work\", according to SRB",
+  "problem": "GS0074 says they were 'even proposed' (প্রস্তাবও দেওয়া হয়েছিল) immoral work; 'pressed towards' overstates it.",
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/dalal-scams/doc.md"
+ },
+ {
+  "section": "Proof that is not proof",
+  "old_str": "Both had already been sentenced in fraud cases in Madaripur, in 2023 and 2024, and had been in hiding [GS0032].",
+  "new_str": "According to police and victims, a Madaripur court had already sentenced both in fraud cases, Jahirul in 2023 and Nur Nahar in 2024, and they had been in hiding [GS0032].",
+  "problem": "Drops the attribution: GS0032 is what police and victims said, not an independently reported court record.",
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/dalal-scams/doc.md"
+ },
+ {
+  "section": "Proof that is not proof",
+  "old_str": "Nurul Haque Nur is the state minister for expatriates' welfare and president of the Gono Odhikar Parishad; he wrote on Facebook",
+  "new_str": "Nurul Haque Nur (\"VP Nur\") is the state minister for expatriates' welfare, quoted elsewhere in this doc as Md Nurul Haque, and president of the Gono Odhikar Parishad, a political party; he wrote on Facebook",
+  "problem": "The same person is named Md Nurul Haque in The chain from the village to the visa seller and Action against agencies and officials, and Nurul Haque Nur / VP Nur here, so readers see two people; Gono Odhikar Parishad is not explained at first use (the source calls it a party, দল).",
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/dalal-scams/doc.md"
+ },
+ {
+  "section": "File a trafficking case",
+  "old_str": "against nine dalals at Jagannathpur and Derai police stations on 30 March",
+  "new_str": "against nine dalals at Jagannathpur and Dirai police stations on 30 March",
+  "problem": "Same upazila spelled Dirai in File a police case (GS0112) and Derai here; unify so the two sections read as the same two cases.",
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/dalal-scams/doc.md"
+ },
+ {
+  "section": "In one minute",
+  "old_str": "its founding chair wrote in August 2024 that 19% of migrants paid part or all of the cost and still could not go",
+  "new_str": "its founding chair, Tasneem Siddiqui, wrote in August 2024 that 19% of migrants paid part or all of the cost and still could not go",
+  "problem": "GS0008 (founding chair) and MB0065 (executive director) are the same person, Tasneem Siddiqui; unnamed, the two titles read as two different RMMRU people.",
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/dalal-scams/doc.md"
+ },
+ {
+  "section": "In one minute",
+  "old_str": "and its executive director said in July 2026 that about 51% are cheated in all",
+  "new_str": "and Tasneem Siddiqui, as its executive director, said in July 2026 that about 51% are cheated in all",
+  "problem": "Pairs with the fix above: names the same person under her second title.",
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/dalal-scams/doc.md"
+ },
+ {
+  "section": "How it works",
+  "old_str": "Prothom Alo reported more than 1,800 workers stranded there (see Cambodia, Myanmar and Laos: scam compounds) [PA0038, PA0039, PA0040]",
+  "new_str": "Prothom Alo reported more than 1,800 workers stranded there (see \"Cambodia, Myanmar and Laos: scam compounds\" in the Illegal routes doc) [PA0038, PA0039, PA0040]",
+  "problem": "Cross-reference names a heading that does not exist in this doc; it is in the Illegal routes doc (global/illegal-routes/doc.md). Pre-existing sentence, flagged under the structure check.",
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/dalal-scams/doc.md"
+ },
+ {
+  "section": "Recruited while abroad or just back",
+  "old_str": "with talk of a restaurant job (see Cambodia, Myanmar and Laos: scam compounds) [AB0035]",
+  "new_str": "with talk of a restaurant job (see \"Cambodia, Myanmar and Laos: scam compounds\" in the Illegal routes doc) [AB0035]",
+  "problem": "Cross-reference names a heading that does not exist in this doc; it is in the Illegal routes doc. Pre-existing sentence, flagged under the structure check.",
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/dalal-scams/doc.md"
+ },
+ {
+  "section": "The chain from the village to the visa seller",
+  "old_str": "The trade also sat inside Parliament: a May 2024 Prothom Alo opinion article said Nizam Uddin Hazari",
+  "new_str": "A May 2024 Prothom Alo opinion article said Nizam Uddin Hazari",
+  "problem": "\"The trade also sat inside Parliament\" is the writer's own conclusion; GS0007 only says one committee member was in the manpower export business.",
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/dalal-scams/doc.md"
+ },
+ {
+  "section": "Hundi and money mules",
+  "old_str": "Visa buying feeds hundi too: RMMRU's founding chair wrote in August 2024",
+  "new_str": "RMMRU's founding chair wrote in August 2024",
+  "problem": "\"Visa buying feeds hundi too\" is the writer's inference; GS0018 says agencies' need for money abroad to buy visas is among the reasons formal remittances fall, and does not mention hundi.",
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-modules/global/dalal-scams/doc.md"
+ }
+]

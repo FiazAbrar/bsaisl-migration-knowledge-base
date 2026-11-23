@@ -1,0 +1,28 @@
+{
+ "articles": [
+  {
+   "article_id": "47223d86-1d73-4f55-804f-b6a2e10f3c95",
+   "used": true,
+   "fact_ids": [
+    "PO0046",
+    "PO0047",
+    "PO0037",
+    "PO0038"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "b4d6c706-bc11-4c1a-be6d-6a60e61d098b",
+   "used": true,
+   "fact_ids": [
+    "PO0039",
+    "PO0040",
+    "PO0041",
+    "PO0042"
+   ],
+   "reason_if_unused": "Carbon monoxide cause and ROP warning already cited (PO0032, from a separate 16 May article); the mother not being told and the MP's visit skipped as no bearing on a decision.",
+   "held_for_global": []
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+[
+ {
+  "held_id": "R2-services-1",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0356",
+   "GV0357"
+  ],
+  "note": "The Day itself is not a service; logged instead the Beirut embassy's special consular and welfare service week (22-31 Dec 2023) and public hearing held for it, in While abroad."
+ },
+ {
+  "held_id": "R2-services-2",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0353",
+   "GV0348",
+   "GV0349",
+   "GV0350",
+   "GV0351",
+   "GV0352"
+  ],
+  "note": "Lebanon evacuation of October 2024 added under In a war or disaster; IOM's Tk 5,000, food and mental-health support; government bears cost."
+ },
+ {
+  "held_id": "R2-services-3",
+  "outcome": "added",
+  "fact_ids": [
+   "GV0354",
+   "GV0355"
+  ],
+  "note": "Dipali Begum case under If a worker dies abroad (free ambulance, Tk 35,000 burial at airport, Tk 3 lakh later)."
+ }
+]
