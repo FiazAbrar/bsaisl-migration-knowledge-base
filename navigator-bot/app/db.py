@@ -37,7 +37,9 @@ def _connect():
     if url:
         import psycopg  # only needed on servers that use Postgres
 
-        _conn = psycopg.connect(url, autocommit=True, connect_timeout=15)
+        # prepare_threshold=None: no server-side prepared statements, so a pooled address (Neon's "-pooler",
+        # PgBouncer) works as well as a direct one.
+        _conn = psycopg.connect(url, autocommit=True, connect_timeout=15, prepare_threshold=None)
         _is_pg = True
     else:
         SQLITE_PATH.parent.mkdir(parents=True, exist_ok=True)
