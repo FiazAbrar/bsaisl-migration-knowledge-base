@@ -589,3 +589,8 @@ Status fixes after copying: B0034 (welfare-fee circular, Tk 5,500 from 1 Oct 202
 - Open conflicts not resolved in the doc: Bangladesh Bank's remittance series (US$1.49 billion for 2025-26 against quarterly figures); MOM pages on the maximum age at application (62 or under 62) and on the no-consent transfer deadline (7 or 14 days); the birth-registration deadline (MOM 14 days, ICA 42 days).
 
 - 2026-11-17, BMET clearance fee: the citizen charter lists one Tk 250 per route: "ইমিগ্রেশন ক্লিয়ারেন্স ফি (একক ও দলীয় বহির্গমন): কর্মী প্রতি ২৫০" on the agency route (its papers include a pay order for "কল্যাণ ফি ও স্মার্ট কার্ড ফি"), and "স্মার্ট সার্টিফিকেট ফি ২৫০" on the own-visa route. The doc used to list both as separate fees, which read as Tk 500; it now gives one Tk 250 "on either route". This merge is our reading of the charter. Dhaka Tribune (Dec 2024) reported the smart card fee abolished; unresolved.
+
+## Prothom Alo batch (PS facts, Nov 2026)
+
+- Conflict: Prothom Alo (18 Sep 2025, PS0022), citing BMET, gives 58,878 departures in 2024 and 919,159 for 2004 to May 2025; BMET's own table gives 56,878 (C0001) and 913,159 (C0002). Kept BMET's figures; the article's look like typos (one digit each). Does not change what a worker would do, so no Need to know.
+- PS0018 (NBL Money Transfer CEO: a sudden end to cash deposits would cause a crisis) logged but not cited: opinion with no bearing on what a worker does.
