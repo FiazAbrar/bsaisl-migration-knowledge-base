@@ -326,6 +326,11 @@ These are the questions the Maldives migration guide can't yet answer, grouped b
 - Regulation 2025/R-120 reportedly keeps "an article on legalising expatriates living and working against regulations": does any case-by-case legalisation exist after 2 May 2026, and who applies?
 - What do brokers in Malé charge to "fix papers" for an undocumented worker in 2026, and what do they actually do?
 
+### The crackdown
+
+- How many people had the Maldives deported in its crackdown on undocumented workers by 17 November 2026 (12,552 were deported from 17 November 2023 to 13 June 2026)?
+  - Have the joint police and Immigration operations continued into 2027?
+
 ## Going home without valid papers
 
 - Is the MVR 15,000-50,000 fine actually charged to a deported or departing worker, and who pays it?

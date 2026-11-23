@@ -25,6 +25,8 @@ These are the questions the Malaysia migration guide can't yet answer, grouped b
 - Can a worker get the Check-Out Memo (the employer's application for a foreign worker to leave Malaysia) without the employer?
 - How long does a worker reported as lari (absconded) by the employer, but not deported, stay blacklisted?
 - What does a tourist-visa entry arranged for work in Malaysia sell for in Dhaka in 2026, and what is the street word for it?
+- How many Bangladeshi workers were stranded by Malaysia's 31 May 2024 entry deadline? Reports give 16,970, 17,777, 31,304, about 40,000, or about 11,000 with valid calling visas.
+- Was the fee the 2022-24 recruitment syndicate took for Malaysia a flat Tk 1,52,000 a worker, or up to Tk 1,65,000, as three agency owners said in May 2024?
 
 ## Work visa: company worker (PLKS)
 
@@ -399,6 +401,7 @@ These are the questions the Malaysia migration guide can't yet answer, grouped b
 - What documents does a VDR for DE Rantau need?
 - How long does a VDR for DE Rantau take?
 - Is there any official warning about DE Rantau scams?
+- Did DE Rantau Nomad Pass applications reopen on 1 December 2026, and what changed?
 
 ## Other passes
 
