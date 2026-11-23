@@ -1,0 +1,649 @@
+[
+ {
+  "key": "SA3e-1",
+  "article_id": "2e3f11ca-39ce-46f2-afb7-d10e35ae2cea",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "In January 2026 Bangladesh's interim government set a special Biman Bangladesh Airlines fare for migrant workers of at least Tk 20,500 one way on the Madinah-Dhaka and Jeddah-Dhaka routes and Tk 42,000 return on Madinah-Dhaka-Madinah and Jeddah-Dhaka-Jeddah, according to the Chief Adviser's press wing.",
+  "quotes": [
+   "মদিনা–ঢাকা ও জেদ্দা–ঢাকা রুটে একমুখী সর্বনিম্ন ভাড়া নির্ধারণ করা হয়েছে ২০ হাজার ৫০০ টাকা",
+   "মদিনা–ঢাকা–মদিনা ও জেদ্দা–ঢাকা–জেদ্দা রুটে রিটার্ন টিকিটের সর্বনিম্ন ভাড়া পড়বে ৪২ হাজার টাকা",
+   "আজ শুক্রবার প্রধান উপদেষ্টার প্রেস উইং এ তথ্য জানায়"
+  ]
+ },
+ {
+  "key": "SA3e-2",
+  "article_id": "2e3f11ca-39ce-46f2-afb7-d10e35ae2cea",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The special fare applied to travel to Bangladesh from 18 April to 25 May 2026 and back to Saudi Arabia from 30 May to 30 June 2026, using flights that the civil aviation adviser said usually return empty during Hajj, with a target of 80,000 tickets sold in Saudi Arabia and Bangladesh combined.",
+  "quotes": [
+   "বাংলাদেশে আসার ক্ষেত্রে ২০২৬ সালের ১৮ এপ্রিল থেকে ২৫ মে পর্যন্ত কার্যকর থাকবে। আর বাংলাদেশ থেকে সৌদি আরবে ফেরার ক্ষেত্রে ২০২৬ সালের ৩০ মে থেকে ৩০ জুন পর্যন্ত",
+   "পবিত্র হজের সময় সাধারণত বিমান একমুখী যাত্রী নিয়ে চলাচল করে। ফেরার পথে অনেক ফ্লাইট ফাঁকা থাকে।",
+   "সৌদি আরব ও বাংলাদেশ মিলিয়ে মোট ৮০ হাজার টিকিট বিক্রির লক্ষ্যমাত্রা নির্ধারণ করা হয়েছে"
+  ]
+ },
+ {
+  "key": "SA3e-3",
+  "article_id": "eb7fe1ac-233a-49b5-9d4a-0bbe0a19ae2b",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Prothom Alo reported in February 2026 that Saudi Arabia, Kuwait, Qatar, the UAE and several other Middle Eastern countries do not let foreigners with HIV stay, under their immigration and public health laws or residence regulations.",
+  "quotes": [
+   "সৌদি আরব, কুয়েত, কাতার, সংযুক্ত আরব আমিরাতসহ মধ্যপ্রাচ্যের বেশ কয়েকটি দেশে ইমিগ্রেশন ও জনস্বাস্থ্য আইনের আওতায় এইচআইভি আক্রান্ত বিদেশিদের থাকার অনুমতি দেওয়া হয় না",
+   "আইনগতভাবে এসব সিদ্ধান্ত নেওয়া হয় দেশগুলোর ইমিগ্রেশন অ্যাক্ট, পাবলিক হেলথ ল বা রেসিডেন্স রেগুলেশন অনুযায়ী"
+  ]
+ },
+ {
+  "key": "SA3e-4",
+  "article_id": "eb7fe1ac-233a-49b5-9d4a-0bbe0a19ae2b",
+  "verdict": "partly",
+  "problem": "The article says the construction worker's visa was cancelled within a few days and he was then sent home quickly; it does not say he was deported 'within days'. It says he was given no chance to discuss a treatment plan, counselling or next steps.",
+  "corrected_claim": "According to the same February 2026 report, HIV is usually found in these countries at the compulsory medical check for work-permit renewal or when a sick worker goes to hospital, after which the visa is cancelled and the worker is quickly sent home; in one case a Bangladeshi construction worker in an unnamed Middle Eastern country had his visa cancelled within a few days of testing positive and was quickly sent home, with no chance to discuss a treatment plan or counselling.",
+  "quotes": [
+   "সাধারণত ওয়ার্ক পারমিট নবায়নের সময় বাধ্যতামূলক স্বাস্থ্য পরীক্ষায় অথবা অসুস্থ হয়ে হাসপাতালে গেলে এইচআইভি ধরা পড়লে ভিসা বাতিল করা হয় এবং দ্রুত নিজ দেশে ফেরত পাঠানো হয়।",
+   "কয়েক দিনের মধ্যেই ভিসা বাতিল। কাজের অনুমতি শেষ। কোনো চিকিৎসা পরিকল্পনা, কাউন্সেলিং বা ভবিষ্যৎ করণীয় নিয়ে আলোচনার সুযোগও দেওয়া হয়নি। দ্রুত তাঁকে দেশে ফেরত পাঠানো হয়।"
+  ]
+ },
+ {
+  "key": "SA3e-5",
+  "article_id": "eb7fe1ac-233a-49b5-9d4a-0bbe0a19ae2b",
+  "verdict": "partly",
+  "problem": "The article describes RMMRU only as a non-governmental organisation working on migration and gives Tasneem Siddiqui's title as acting executive director; 'Dhaka research group' and the expansion of the acronym are not in the article.",
+  "corrected_claim": "Tasneem Siddiqui, acting executive director of RMMRU, a non-governmental organisation working on migration, told Prothom Alo in February 2026 that in these Middle Eastern countries a woman worker who becomes pregnant is also sent back at once.",
+  "quotes": [
+   "অভিবাসন নিয়ে কাজ করে বেসরকারি প্রতিষ্ঠান রামরু। প্রতিষ্ঠানটির ভারপ্রাপ্ত নির্বাহী পরিচালক তাসনিম সিদ্দিকী প্রথম আলোকে বলেন",
+   "শুধু এইচআইভি আক্রান্তদেরই নয়, ওই সব দেশে কোনো নারী অন্তঃসত্ত্বা হলে তাঁকেও তৎক্ষণাৎ ফেরত পাঠিয়ে দেওয়া হয়।"
+  ]
+ },
+ {
+  "key": "SA3e-6",
+  "article_id": "eb7fe1ac-233a-49b5-9d4a-0bbe0a19ae2b",
+  "verdict": "partly",
+  "problem": "The point that the deported worker got counselling only from a private organisation is said by Mir, president of Brave Dimension Global, not stated by Prothom Alo itself.",
+  "corrected_claim": "According to Prothom Alo (February 2026), the Bangladesh government supplies antiretroviral (ARV) drugs free, but counselling, mental health support and livelihood rehabilitation for returnees are very limited; Mir of the youth organisation Brave Dimension Global said one deported worker got counselling not from any government agency but from a private organisation.",
+  "quotes": [
+   "বাংলাদেশ সরকার বিনা মূল্যে অ্যান্টিরেট্রোভাইরাল (এআরভি) ওষুধ সরবরাহ করে। কিন্তু কাউন্সেলিং, মানসিক স্বাস্থ্য সহায়তা ও জীবিকা পুনর্বাসনের ব্যবস্থা খুব সীমিত।",
+   "সরকারি কোনো সংস্থা নয়, শেষ পর্যন্ত বেসরকারি সংগঠন থেকেই তিনি কাউন্সেলিং সহায়তা পান।"
+  ]
+ },
+ {
+  "key": "SA3e-7",
+  "article_id": "eb7fe1ac-233a-49b5-9d4a-0bbe0a19ae2b",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "According to Prothom Alo (February 2026), an HIV-negative certificate is compulsory before going abroad, but pre-departure briefings say very little about HIV, safe behaviour or the right to health care abroad.",
+  "quotes": [
+   "বিদেশে যাওয়ার আগে এইচআইভি নেগেটিভ সনদ বাধ্যতামূলক হলেও",
+   "প্রি-ডিপারচার ব্রিফিংয়ে এইচআইভি, নিরাপদ আচরণ বা বিদেশে স্বাস্থ্যসেবা পাওয়ার অধিকার নিয়ে আলোচনা খুবই সীমিত।"
+  ]
+ },
+ {
+  "key": "SA3e-8",
+  "article_id": "eb7fe1ac-233a-49b5-9d4a-0bbe0a19ae2b",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "According to the national AIDS/STD control programme of Bangladesh's Directorate General of Health Services, 1,891 people were found infected with HIV in Bangladesh from December 2024 to November 2025, 12% of them people who had come back from abroad.",
+  "quotes": [
+   "স্বাস্থ্য অধিদপ্তরের জাতীয় এইডস ও এসটিডি নিয়ন্ত্রণ কর্মসূচির দেওয়া তথ্য অনুযায়ী, ২০২৫ সালে (২০২৪ সালের ডিসেম্বর থেকে ২০২৫ সালের নভেম্বর পর্যন্ত) বাংলাদেশে ১ হাজার ৮৯১ জন",
+   "এসব আক্রান্ত ব্যক্তির মধ্যে বিদেশ থেকে ফেরত আসা ব্যক্তি ১২ শতাংশ।"
+  ]
+ },
+ {
+  "key": "SA3e-9",
+  "article_id": "73400020-ec2d-4a5f-a222-f0c3c81ddf15",
+  "verdict": "partly",
+  "problem": "The NID, biometric registration at the High Commission and mobile-app steps are described for voters in the UK, not for Saudi Arabia. The article does not name itself as an Al Jazeera report (it only mentions people who spoke to Al Jazeera).",
+  "corrected_claim": "For Bangladesh's 12 February 2026 national election, the first in which Bangladeshis abroad could vote (by postal ballot), more than 239,000 Bangladeshis in Saudi Arabia registered, according to Election Commission figures; in the UK, voting required an NID card, biometric registration at the High Commission and then a mobile app.",
+  "quotes": [
+   "সৌদি আরবে নিবন্ধিত হয়েছে ২ লাখ ৩৯ হাজারের বেশি",
+   "নির্বাচন কমিশনের তথ্য অনুযায়ী, উপসাগরীয় দেশগুলোতে অংশগ্রহণ অনেক বেশি।",
+   "এনআইডি কার্ড, হাইকমিশনে দীর্ঘ লাইনে দাঁড়িয়ে বায়োমেট্রিক নিবন্ধন, এরপর মোবাইল অ্যাপ"
+  ]
+ },
+ {
+  "key": "SA3e-10",
+  "article_id": "9437853d-ac64-4d7a-afe5-142b2abe4cf2",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "On 15 February 2026 five Bangladeshis from Ramganj, Lakshmipur, died when their private car crashed in Abha on the way home after Umrah: Mizanur Rahman (42), who had long run a hotel business in Abha, his wife, two daughters and their driver Mohammad Jilani alias Babor (30); an 11-year-old daughter was seriously injured.",
+  "quotes": [
+   "নিহত ব্যক্তিরা হলেন অসিম উদ্দিন ব্যাপারী বাড়ির মিজানুর রহমান (৪২), তাঁর স্ত্রী মেহের আফরোজ সুমি (৩০), মেয়ে মোহনা (১৩) ও দেড় বছরের শিশু সুবাহ। এ ছাড়া তাঁদের গাড়িচালক মোহাম্মদ জিলানী ওরফে বাবর (৩০) নিহত হয়েছেন।",
+   "মিজানুর রহমান দীর্ঘদিন ধরে সৌদি আরবের আবহা শহরে হোটেল ব্যবসা করতেন",
+   "ওমরাহ পালন শেষে প্রাইভেট কারে বাসায় ফেরার পথে আবহা এলাকায় তাঁদের গাড়ি দুর্ঘটনার কবলে পড়ে"
+  ]
+ },
+ {
+  "key": "SA3e-11",
+  "article_id": "a43ba21d-c47e-468f-b042-74df8309fe17",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Saudi ambassador Abdullah Zafer H. bin Abiyah told Bangladesh's foreign minister on 22 February 2026 that Saudi Arabia issued 750,000 work visas and 1.4 million visas in all to Bangladeshis in 2025, and that ongoing development work there means more jobs for skilled and semi-skilled workers.",
+  "quotes": [
+   "তিনি জানান, ২০২৫ সালে সৌদি আরব বাংলাদেশি নাগরিকদের জন্য ৭ লাখ ৫০ হাজার কর্মভিসা এবং সর্বমোট ১৪ লাখ ভিসা ইস্যু করেছে। সেখানে চলমান বিভিন্ন উন্নয়ন কর্মকাণ্ডের কারণে দক্ষ ও আধা দক্ষ কর্মীদের জন্য আরও কর্মসংস্থানের সুযোগ রয়েছে।",
+   "আজ রোববার সকালে পররাষ্ট্রমন্ত্রী খলিলুর রহমানের সঙ্গে সৌজন্য সাক্ষাতের সময় বাংলাদেশে নিযুক্ত সৌদি আরবের রাষ্ট্রদূত আবদুল্লাহ জাফের এইচ বিন আবিয়াহ"
+  ]
+ },
+ {
+  "key": "SA3e-12",
+  "article_id": "5e2e532a-f321-48c4-b390-d9d745bb97e6",
+  "verdict": "partly",
+  "problem": "The article says Mehedi's flight to Saudi Arabia was scheduled for 1:20 pm and that he had to leave without burying his brother; it does not confirm he took off at 1:20 pm.",
+  "corrected_claim": "On 23 February 2026 Mehedi Hasan (25) of Brahmanpara, Cumilla, whose flight to Saudi Arabia was due at 1:20 pm, had to leave for Saudi Arabia without burying his 14-year-old brother, who died that morning in a crash of the microbus taking him to Dhaka airport, because, his uncle said, his visa had no time left.",
+  "quotes": [
+   "সৌদি আরবে যাওয়ার জন্য মেহেদী হাসানের ফ্লাইট ছিল গতকাল বেলা ১টা ২০ মিনিটে",
+   "ইব্রাহিমের চাচা জহিরুল ইসলাম প্রথম আলোকে বলেন, ‘মেহেদীর ভিসার মেয়াদ ছিল না। চোখের সামনে একই গাড়িতে থাকা ছোট ভাইয়ের লাশ রেখে নিরুপায় হয়ে মেহেদীকে চলে যেতে হয়েছে।",
+   "গতকাল সোমবার সকাল ছয়টার দিকে দাউদকান্দি উপজেলার মালিখিল এলাকায় ঢাকা–চট্টগ্রাম মহাসড়কে এ দুর্ঘটনা ঘটে।"
+  ]
+ },
+ {
+  "key": "SA3e-13",
+  "article_id": "ceb8b5df-2cfe-4c4b-a0a3-f7116ad3a778",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "In early March 2026 Lokman Hossain (35) of Madaripur, a super-shop worker who has lived in Riyadh for a decade, told Prothom Alo that panic spread when the US embassy in Saudi Arabia was hit by a drone, and that Bangladeshis were still working but in fear.",
+  "quotes": [
+   "লোকমান হোসেন (৩৫) দীর্ঘ এক দশক ধরে সৌদি আরবের রিয়াদে পরিবার নিয়ে থাকেন। তিনি একটি সুপারশপে চাকরি করেন।",
+   "‘সৌদির মার্কিন দূতাবাসে যখন ড্রোন হামলা হলো, তখন চারদিকে আতঙ্ক ছড়িয়ে পড়ে। বাঙালিরা কাজ করছেন। তবে তাঁদের আতঙ্কের মধ্যে থাকতে হচ্ছে।"
+  ]
+ },
+ {
+  "key": "SA3e-14",
+  "article_id": "55df9a1b-1f1d-4262-b3f8-998742f3ef43",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Mofizur Rahman (65) of Patiya, Chattogram, who had worked in Makkah for 12 years at whatever job he found and last came home in 2009, was hit by a car walking home from Tarawih prayers on 9 March 2026 and died in hospital; his kafil confirmed the death to the family and, at his dying request to the kafil, he was to be buried in Makkah.",
+  "quotes": [
+   "মফিজুর ১২ বছর ধরে মক্কায় জীবিকার তাগিদে বসবাস করছেন। যখন যে চাকরি পেতেন, তা করেই সংসার চালাতেন তিনি। সর্বশেষ গত ২০০৯ সালে দেশে আসেন তিনি।",
+   "গত সোমবার রাতে তারাবিহর নামাজ পড়ে বাসায় ফেরার পথে হঠাৎ একটি গাড়ির ধাক্কায় তিনি গুরুতর আহত হন।",
+   "‘আমার বাবার কফিল (নিয়োগকর্তা) তাঁর মৃত্যুসংবাদ নিশ্চিত করেছেন। বাবা মুমূর্ষু অবস্থায় কফিলকে অনুরোধ করেছিলেন, মৃত্যু হলে যেন তাঁকে মক্বায় দাফন করা হয়।"
+  ]
+ },
+ {
+  "key": "SA3e-15",
+  "article_id": "63cad1bc-e89f-4da9-8098-0e948ca34fc1",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "According to BMET, 1,130,757 Bangladeshi workers went abroad in 2025, 67% of them to Saudi Arabia.",
+  "quotes": [
+   "২০২৫ সালে মোট ১১ লাখ ৩০ হাজার ৭৫৭ জন কর্মী বিদেশে গেছেন। এর মধ্যে ৬৭ শতাংশ গেছেন সৌদি আরবে।"
+  ]
+ },
+ {
+  "key": "SA3e-16",
+  "article_id": "63cad1bc-e89f-4da9-8098-0e948ca34fc1",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "BMET data show 21,122 people took emigration clearance from 1 to 10 March 2026, against 46,744 in the same days of 2025, after the war that began with US and Israeli strikes on Iran on 28 February 2026.",
+  "quotes": [
+   "১ থেকে ১০ মার্চ পর্যন্ত বিদেশ যেতে ছাড়পত্র নিয়েছেন ২১ হাজার ১২২ জন। গত বছর একই সময়ে ছাড়পত্র নিয়েছেন ৪৬ হাজার ৭৪৪ জন।",
+   "গত ২৮ ফেব্রুয়ারি ইরানে হামলা চালায় যুক্তরাষ্ট্র ও ইসরায়েল।"
+  ]
+ },
+ {
+  "key": "SA3e-17",
+  "article_id": "63cad1bc-e89f-4da9-8098-0e948ca34fc1",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Fakhrul Islam, a former joint secretary general of BAIRA (the recruiting agencies' association), said in March 2026 that because flights to Jeddah and Riyadh were still running some workers were still going to Saudi Arabia, but fewer, some were afraid to take visas, and those who had not done their medical were not taking clearance.",
+  "quotes": [
+   "বায়রার সাবেক যুগ্ম মহাসচিব ফখরুল ইসলাম প্রথম আলোকে বলেন, শ্রমবাজার মূলত সৌদিতে। দেশটির জেদ্দা ও রিয়াদে ফ্লাইট চালু থাকায় কিছু কর্মী যাচ্ছেন। তবে সেখানেও কর্মী যাওয়া কমেছে। ভিসা নিতে আতঙ্ক কাজ করছে কারও কারও। যাঁরা স্বাস্থ্য পরীক্ষা করেননি, তাঁরা ছাড়পত্র নিচ্ছেন না।"
+  ]
+ },
+ {
+  "key": "SA3e-18",
+  "article_id": "63cad1bc-e89f-4da9-8098-0e948ca34fc1",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Bangladesh's expatriates' welfare ministry opened a round-the-clock hotline and control room for migrants affected by the war, and on 9 March 2026 asked the foreign ministry to seek visa extensions for affected and stranded workers.",
+  "quotes": [
+   "যুদ্ধকবলিত প্রবাসীদের সহায়তায় সার্বক্ষণিক হটলাইন ও নিয়ন্ত্রণ কক্ষ চালু করা হয়েছে। একই সঙ্গে ক্ষতিগ্রস্ত ও আটকে পড়া কর্মীদের ভিসার মেয়াদ বাড়াতে ৯ মার্চ পররাষ্ট্র মন্ত্রণালয়কে অনুরোধ জানানো হয়েছে।"
+  ]
+ },
+ {
+  "key": "SA3e-19",
+  "article_id": "63cad1bc-e89f-4da9-8098-0e948ca34fc1",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "As of 14 March 2026 two Bangladeshis had died in Saudi Arabia in the war, according to Prothom Alo.",
+  "quotes": [
+   "চলমান যুদ্ধে এখন পর্যন্ত সৌদি আরবে দুজন, বাহরাইনে ও আরব আমিরাতে একজন করে প্রবাসী বাংলাদেশি মারা গেছেন।"
+  ]
+ },
+ {
+  "key": "SA3e-20",
+  "article_id": "63cad1bc-e89f-4da9-8098-0e948ca34fc1",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Prothom Alo reported in March 2026 that seven agreements were signed with Italy, South Korea, Japan and Saudi Arabia under the interim government to expand the labour market.",
+  "quotes": [
+   "শ্রমবাজার সম্প্রসারণে অন্তর্বর্তী সরকারের সময়ে ইতালি, দক্ষিণ কোরিয়া, জাপান ও সৌদি আরবের সঙ্গে মোট সাতটি চুক্তি স্বাক্ষরিত হয়েছে।"
+  ]
+ },
+ {
+  "key": "SA3e-21",
+  "article_id": "63cad1bc-e89f-4da9-8098-0e948ca34fc1",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "According to BMET, Bangladeshi workers went to 141 of the 168 countries on its list in 2025, 90% of them to just five countries; 13 countries received one worker each.",
+  "quotes": [
+   "কর্মী পাঠানোর তালিকায় ১৬৮টি দেশের নাম থাকলেও গত বছর বাংলাদেশ থেকে কর্মীরা ১৪১টি দেশে গেছেন। এর মধ্যে ৯০ ভাগ কর্মী গেছেন মাত্র ৫টি দেশে। ১৩টি দেশে মাত্র ১ জন করে কর্মী গেছেন"
+  ]
+ },
+ {
+  "key": "SA3e-22",
+  "article_id": "63cad1bc-e89f-4da9-8098-0e948ca34fc1",
+  "verdict": "partly",
+  "problem": "RMMRU says a part of the ring (not the ring as a whole), together with unscrupulous Russian rings, is sending Bangladeshi workers to the Russia-Ukraine war.",
+  "corrected_claim": "RMMRU said in March 2026 that 4,663 Bangladeshis went to Russia in 2025 against 993 the year before, and that a ring had begun recruiting migrants with promises of good pay and Russian citizenship, part of which, together with unscrupulous Russian rings, was sending Bangladeshi workers to the Russia-Ukraine war.",
+  "quotes": [
+   "গত বছর দেশটিতে গেছেন ৪ হাজার ৬৬৩ জন। আগের বছর এটি ছিল ৯৯৩ জন।",
+   "ভালো বেতন ও রাশিয়ার নাগরিকত্ব পাওয়ার প্রলোভন দেখিয়ে অভিবাসী সংগ্রহের কাজ শুরু করেছে একটি চক্র। এই চক্রের একাংশ রাশিয়ার অসাধু চক্রের সঙ্গে মিলে বাংলাদেশি কর্মীদের রাশিয়া-ইউক্রেন যুদ্ধের জন্য পাঠাচ্ছে।"
+  ]
+ },
+ {
+  "key": "SA3e-23",
+  "article_id": "21969299-42ff-4fa7-a80c-7d507c1f41d1",
+  "verdict": "partly",
+  "problem": "Mamun's father (the family) described the 8 March attack on the labour camp and Mamun's death on life support; the deaths of Bachchu Mia and Mosharraf Hossain and the other injuries are stated by the article itself, not attributed to the family.",
+  "corrected_claim": "Abdullah Al Mamun (35) of Gaffargaon, Mymensingh, was seriously injured just before iftar on 8 March 2026 when an Iranian missile hit a labour camp of the Al Toaik Baladiya company in Al Kharj, Saudi Arabia, and was declared dead on life support on 17 March, his father said; Prothom Alo reported that the same attack killed Bachchu Mia of Kishoreganj and Mosharraf Hossain of Tangail and injured several Bangladeshis.",
+  "quotes": [
+   "৮ মার্চ ইফতারের আগমুহূর্তে আল খারিজ শহরে আল তোয়াইক বলদিয়া কোম্পানির একটি শ্রমিক ক্যাম্পে থাকা মামুন ক্ষেপণাস্ত্র হামলায় গুরুতর আহত হন।",
+   "গতকাল মঙ্গলবার সৌদি আরবের সময় রাত সাড়ে ১১টার দিকে লাইফ সাপোর্টে থাকা মামুনকে চিকিৎসক মৃত ঘোষণা করেন।",
+   "৮ মার্চের ওই হামলায় কিশোরগঞ্জের বাচ্চু মিয়া ও টাঙ্গাইলের মোশাররফ হোসেন নিহত হন। মামুন মিয়াসহ বেশ কয়েকজন প্রবাসী বাংলাদেশি আহত হন।"
+  ]
+ },
+ {
+  "key": "SA3e-24",
+  "article_id": "f572e505-7dee-4e16-8dc4-d592b5859bd3",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "After Abdullah Al Mamun's death in March 2026, the Gaffargaon upazila nirbahi officer (UNO, the upazila's chief government officer) said efforts were starting through the Wage Earners' Welfare Board to bring the body home quickly, and Mymensingh's deputy commissioner said the UNO had been told to plan help for the family.",
+  "quotes": [
+   "দেশে দ্রুত লাশ আনার জন্য ওয়েজ আর্নার্স কল্যাণ বোর্ডের মাধ্যমে প্রচেষ্টা শুরু করা হচ্ছে।",
+   "যিনি মারা গেছেন, তাঁর পরিবারকে কীভাবে পুনর্বাসন করা যায়, সেই বিষয়ে পরিকল্পনার জন্য ইউএনওকে বলা হয়েছে।"
+  ]
+ },
+ {
+  "key": "SA3e-25",
+  "article_id": "470dd5f5-e3dd-4604-8244-0d88352e0462",
+  "verdict": "partly",
+  "problem": "The article does not give the date of death, so 'about three weeks after his death' is not stated in it.",
+  "corrected_claim": "Abdullah Al Mamun's body reached Dhaka on a Saudi Airlines flight on 6 April 2026, and the expatriates' welfare minister Ariful Haque Chowdhury received it at the airport.",
+  "quotes": [
+   "সকাল পৌনে ১০টার দিকে সৌদি এয়ারলাইনসের একটি ফ্লাইটে আবদুল্লাহ আল মামুনের মরদেহ ঢাকার হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে পৌঁছায়। সেখানে প্রবাসী কল্যাণ ও বৈদেশিক কর্মসংস্থানমন্ত্রী আরিফুল হক চৌধুরী তাঁর মরদেহ গ্রহণ করেন।"
+  ]
+ },
+ {
+  "key": "SA3e-26",
+  "article_id": "470dd5f5-e3dd-4604-8244-0d88352e0462",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "For Abdullah Al Mamun's funeral in April 2026, the Wage Earners' Welfare Board gave his family Tk 35,000 and Tk 50,000 in cash on the spot, with Tk 3 lakh in financial aid to follow.",
+  "quotes": [
+   "আবদুল্লাহর দাফন কাজের জন্য তাঁর পরিবারকে ওয়েজ ওর্নার্স কল্যাণ বোর্ডের পক্ষ থেকে  ৩৫ হাজার টাকা এবং নগদ ৫০ হাজার টাকা তাৎক্ষণিকভাবে দেওয়া হয়েছে। এ ছাড়া আর্থিক সহায়তা হিসেবে ৩ লাখ  টাকা দেওয়া হবে।"
+  ]
+ },
+ {
+  "key": "SA3e-27",
+  "article_id": "470dd5f5-e3dd-4604-8244-0d88352e0462",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Minister Ariful Haque Chowdhury said on 6 April 2026 that seven deaths of Bangladeshis from the Middle East war had been reported, four bodies had been received in Bangladesh and one had been buried in Saudi Arabia with the family's consent.",
+  "quotes": [
+   "‘মধ্যপ্রাচ্যে যুদ্ধের কারণে এ পর্যন্ত ৭ জনের মৃত্যুর খবর আমাদের কাছে এসেছে। এর মধ্যে ৪ জনের লাশ আমরা গ্রহণ করেছি আর একজনের লাশ পরিবারের সম্মতিতে সৌদি আরবেই দাফন করা হয়েছে।’"
+  ]
+ },
+ {
+  "key": "SA3e-28",
+  "article_id": "c5b7cd3c-5184-4298-82e1-97db48cc66e1",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "In the first week of March 2026 the Bangladesh embassy in Riyadh asked Bangladeshis, out of respect for Saudi law, not to upload photos or videos of the war on social media, or to post, share, like or comment on war news.",
+  "quotes": [
+   "রিয়াদের বাংলাদেশ দূতাবাস চলতি মার্চের প্রথম সপ্তাহে প্রবাসীদের উদ্দেশে দেওয়া এক জরুরি বিজ্ঞপ্তিতে বলেছে, ‘সৌদি আরবের স্থানীয় আইনের প্রতি শ্রদ্ধাশীল থেকে সামাজিক যোগাযোগমাধ্যমে এ–সংক্রান্ত কোনো ছবি বা ভিডিও আপলোড, কোনো সংবাদ প্রচার, শেয়ার, লাইক বা মন্তব্য করা থেকে বিরত থাকার জন্য অনুরোধ করা যাচ্ছে।’"
+  ]
+ },
+ {
+  "key": "SA3e-29",
+  "article_id": "c5b7cd3c-5184-4298-82e1-97db48cc66e1",
+  "verdict": "partly",
+  "problem": "The two said the tension in the east and the situation in Riyadh citing acquaintances, and the article says Riyadh had 'extra caution', not extra security.",
+  "corrected_claim": "Two Bangladeshis in Makkah and Jeddah told Prothom Alo in March 2026 that early panic had largely eased and people in Makkah, Madinah and Jeddah were going to work, and, citing acquaintances, that areas in the east, especially on the Gulf coast, were tense and Riyadh was on extra alert.",
+  "quotes": [
+   "সৌদি আরবের মক্কা ও জেদ্দায় থাকা দুজন প্রবাসী বাংলাদেশি প্রথম আলোকে বলেন, শুরুর দিকে কিছুটা আতঙ্ক থাকলেও এখন তা অনেক কমে এসেছে। মক্কা, মদিনা ও জেদ্দার মতো শহরগুলোতে মানুষ কাজে যাচ্ছেন",
+   "পরিচিতজনদের বরাত দিয়ে ওই দুই প্রবাসীই জানান, দেশের পূর্বাঞ্চলের এলাকাগুলোতে আতঙ্কের পরিবেশ আছে, বিশেষ করে যেসব এলাকা উপসাগরের তীরবর্তী। সৌদির রাজধানী রিয়াদেও বাড়তি সতর্কতা আছে।"
+  ]
+ },
+ {
+  "key": "SA3e-30",
+  "article_id": "9c70c0af-4cc0-43b8-b288-f5546b63697d",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "According to expatriates' welfare ministry statistics reported in March 2026, about 20 lakh (2 million) Bangladeshi workers are in Saudi Arabia.",
+  "quotes": [
+   "প্রবাসীকল্যাণ মন্ত্রণালয়ের পরিসংখ্যান অনুযায়ী, বর্তমানে উপসাগরীয় ছয় দেশের মধ্যে সৌদি আরবে প্রায় ২০ লাখ"
+  ]
+ },
+ {
+  "key": "SA3e-31",
+  "article_id": "9c70c0af-4cc0-43b8-b288-f5546b63697d",
+  "verdict": "partly",
+  "problem": "The article does not give the calendar year; it says the October-December second quarter of the 'current 2026-27 fiscal year'. That it means October-December 2025 is an inference.",
+  "corrected_claim": "A Bangladesh Bank report showed USD 1.31 billion of remittances came from Saudi Arabia in the October-December second quarter of what the article calls the current 2026-27 fiscal year, the most of the six Gulf countries, ahead of the UAE at USD 1.18 billion.",
+  "quotes": [
+   "চলতি ২০২৬-২৭ অর্থবছরের প্রথম প্রান্তিক জুলাই-সেপ্টেম্বরে",
+   "দ্বিতীয় প্রান্তিক অক্টোবর-ডিসেম্বরে",
+   "এর মধ্যে সৌদি আরব থেকে ১৩১ কোটি এবং ইউএই থেকে ১১৮ কোটি ডলারের প্রবাসী আয় দেশে এসেছে।"
+  ]
+ },
+ {
+  "key": "SA3e-32",
+  "article_id": "9c70c0af-4cc0-43b8-b288-f5546b63697d",
+  "verdict": "partly",
+  "problem": "The article gives these figures without attributing them to the Bangladesh Bank report or the ministry; 'the same report' suggests a source the article does not name.",
+  "corrected_claim": "Prothom Alo reported in March 2026, without naming a source, that 743,000 of the 1,116,000 Bangladeshis who went abroad for work in 2025 went to Saudi Arabia.",
+  "quotes": [
+   "গত বছর দেশ থেকে মোট ১১ লাখ ১৬ হাজার শ্রমজীবী মানুষ বিদেশে যান। এর মধ্যে শুধু সৌদি আরবেই গেছেন ৭ লাখ ৪৩ হাজার।"
+  ]
+ },
+ {
+  "key": "SA3e-33",
+  "article_id": "bdee3cfa-c030-44b0-9a31-89e87b6b5de0",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The Bangladesh embassy in Riyadh announced on Monday 23 March 2026 that the fine-free exit until 18 April 2026 covered all kinds of visit visa, Umrah visas, transit visas and final exit visas whose validity had passed 25 February, and warned that anyone not leaving by then could face serious legal trouble and punishment.",
+  "quotes": [
+   "এ সুবিধার আওতায় সব ধরনের ভিজিট ভিসা, ওমরাহ ভিসা, ট্রানজিট ও ফাইনাল এক্সিট ভিসাধারীরা অন্তর্ভুক্ত থাকবেন।",
+   "যেসব ভিসাধারীর ভিসার মেয়াদ ২৫ ফেব্রুয়ারি পার হয়ে গেছে, তাঁরা কোনো প্রকার জরিমানা প্রদান বা ভিসার মেয়াদ বৃদ্ধি ছাড়াই সরাসরি আন্তর্জাতিক বিমানবন্দরে চলে যেতে পারবেন।",
+   "এ সময়ের মধ্যে দেশত্যাগ না করলে পরবর্তীকালে বড় ধরনের আইনি জটিলতা ও শাস্তির মুখে পড়তে হতে পারে।"
+  ]
+ },
+ {
+  "key": "SA3e-34",
+  "article_id": "0c1d661c-d3c7-4467-b3df-090a6f238965",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Fahim Ahmed Munna (20) of Dowarabazar, Sunamganj, whose father has worked in Saudi Arabia for 18 years, left home on 16 February 2026, spent two days in Saudi Arabia, was taken to Libya and put on a small rubber boat (a 'game') on 21 March, and died of hunger and thirst at sea, his uncle said; he had been sent through a relative acting as dalal.",
+  "quotes": [
+   "গত ১৬ ফেব্রুয়ারি বাড়ি থেকে বিদায় নেন ফাহিম। এরপর যান সৌদি আরবে। সেখানে দুদিন ছিলেন। সেখান থেকে তাঁকে নেওয়া হয় লিবিয়ায়। লিবিয়া থেকে অন্যদের সঙ্গে তাঁকে গেমে (ছোট রাবারের নৌযান) তোলা হয় ২১ মার্চ।",
+   "বাবা ফয়েজ উদ্দিন ১৮ বছর ধরে আছেন সৌদি আরবে।",
+   "তাঁর এক আত্মীয়ের মাধ্যমেই পাঠানো হয়েছিল। ওই ‘দালাল’র মাধ্যমে"
+  ]
+ },
+ {
+  "key": "SA3e-35",
+  "article_id": "0c1d661c-d3c7-4467-b3df-090a6f238965",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "According to a survivor from Fahim's area, the boat carrying 38 people from Libya lost its way and drifted six days; 18 died for lack of food and clean water, their bodies were kept on the boat two days and then thrown into the sea, and the survivors were taken to a camp after the boat reached the Greek coast on 27 March 2026.",
+  "quotes": [
+   "তাঁদের বোটে ৩৮ জন ছিলেন। বোটটি পথ হারিয়ে সাগরে ছয় দিন ছিল। এতে খাবার ও বিশুদ্ধ পানির অভাবে ফাহিমসহ বোটে থাকা ১৮ জন মারা যান। তাঁদের লাশ দুই দিন বোটে ছিল।",
+   "বোটটি ২৭ মার্চ গ্রিসের উপকূলে ভিড়লে জীবিতদের উদ্ধার করে সেখানে একটি ক্যাম্পে নিয়ে রাখা হয়।"
+  ]
+ },
+ {
+  "key": "SA3e-36",
+  "article_id": "4c3bed19-738f-4d2f-bcfc-7e960a9d9166",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Azgar Bepari (38) of Dohar, Dhaka, who went to Saudi Arabia through a dalal on borrowed money three and a half years earlier and had worked illegally for a year as a welder's helper, fell from a roof in Hara, Riyadh, on 24 March 2026 and died in hospital; his sister-in-law said the family had heard bringing the body home would cost Tk 4 lakh, which they could not pay.",
+  "quotes": [
+   "সাড়ে তিন বছর আগে ধারদেনা করে দালালের মাধ্যমে সৌদি আরবে যান আজগর ব্যাপারী (৩৮)। ভিসা জটিলতায় এক বছর ধরে অবৈধভাবে ওয়েল্ডিংমিস্ত্রির সহকারী হিসেবে কাজ করছিলেন।",
+   "গত ২৪ মার্চ রিয়াদের হারা শহরের একটি ভবনে কাজ করার সময় পা পিছলে পড়ে মাথায় গুরুতর আঘাত পান আজগর।",
+   "বিভিন্ন মাধ্যমে শুনতে পাচ্ছি, লাশ আনতে চার লাখ টাকা লাগবে। এ টাকা দেওয়ার মতো সামর্থ্য নেই।"
+  ]
+ },
+ {
+  "key": "SA3e-37",
+  "article_id": "4c3bed19-738f-4d2f-bcfc-7e960a9d9166",
+  "verdict": "partly",
+  "problem": "The article was published on 1 April 2026; it does not say she spoke in March.",
+  "corrected_claim": "Azgar Bepari's sister-in-law told Prothom Alo (reported 1 April 2026) that he had paid money for his iqama twice without getting it.",
+  "quotes": [
+   "দুবার আকামার জন্য টাকা জমা দিয়েও পায়নি।"
+  ]
+ },
+ {
+  "key": "SA3e-38",
+  "article_id": "4c3bed19-738f-4d2f-bcfc-7e960a9d9166",
+  "verdict": "partly",
+  "problem": "The article was published on 1 April 2026; it does not say the UNO spoke in March.",
+  "corrected_claim": "The Dohar UNO said, in a report published 1 April 2026, that if someone contacts the Bangladesh embassy in Riyadh on the dead worker's behalf, it will arrange to send the body home with government help.",
+  "quotes": [
+   "দোহার উপজেলা নির্বাহী কর্মকর্তা মো. মাঈদুল ইসলাম বলেন, সৌদি আরবের রিয়াদে বাংলাদেশের দূতাবাস আছে। সেখানে মৃত ব্যক্তির পক্ষ হয়ে যোগাযোগ করলে সরকারি সহায়তায় লাশ দেশে পাঠানোর ব্যবস্থা করবে।"
+  ]
+ },
+ {
+  "key": "SA3e-39",
+  "article_id": "fa1e9f68-f3bd-4cd5-be78-309892f14568",
+  "verdict": "partly",
+  "problem": "The article says workers were detained or sent home on allegations of sharing war videos or photos; the claim drops 'accused of'. It is also an opinion piece and does not name a country.",
+  "corrected_claim": "Mohammad Jalal Uddin Sikder of North South University wrote in a Prothom Alo opinion piece in April 2026 that during the Iran war many migrant workers were being detained or sent home after being accused of sharing war videos or photos on social media.",
+  "quotes": [
+   "অনেক অভিবাসী শ্রমিককে যুদ্ধের ভিডিও বা ছবি সামাজিক যোগাযোগমাধ্যমে শেয়ার করার অভিযোগে আটক বা দেশে ফেরত পাঠানো হচ্ছে।",
+   "মোহাম্মদ জালাল উদ্দিন শিকদার শিক্ষক ও গবেষক, রাষ্ট্র ও সমাজবিজ্ঞান বিভাগ, নর্থ সাউথ বিশ্ববিদ্যালয়"
+  ]
+ },
+ {
+  "key": "SA3e-40",
+  "article_id": "fa1e9f68-f3bd-4cd5-be78-309892f14568",
+  "verdict": "partly",
+  "problem": "Only the migration figures are cited to BMET; the remittance figures are cited to Bangladesh Bank (2026).",
+  "corrected_claim": "According to BMET figures cited in Prothom Alo in April 2026, 919,981 (about 82.4%) of the 1,116,399 Bangladeshis who went abroad in 2025 went to the Middle East or GCC countries, and according to Bangladesh Bank about 46% (USD 15.07 billion) of USD 32.8 billion remittances in 2025 came from GCC countries.",
+  "quotes": [
+   "জনশক্তি কর্মসংস্থান ও প্রশিক্ষণ ব্যুরোর (বিএমইটি) তথ্য অনুসারে, ২০২৫ সালে মোট ১১ লাখ ১৬ হাজার ৩৯৯ জন অভিবাসীর মধ্যে প্রায় ৮২ দশমিক ৪ শতাংশ (৯ লাখ ১৯ হাজার ৯৮১ জন) গেছেন মধ্যপ্রাচ্যে বা গালফ কো-অপারেশন কাউন্সিলের (জিসিসি) দেশগুলোতে।",
+   "২০২৫ সালে বাংলাদেশ মোট ৩২ দশমিক ৮ বিলিয়ন ডলার রেমিট্যান্স পেয়েছে। এর মধ্যে প্রায় ৪৬ শতাংশ (১৫ দশমিক শূন্য ৭ বিলিয়ন ডলার) এসেছে জিসিসি দেশগুলো থেকে (বাংলাদেশ ব্যাংক, ২০২৬)।"
+  ]
+ },
+ {
+  "key": "SA3e-41",
+  "article_id": "2847a95a-e622-49bb-b688-5311d5b09d87",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The expatriates' welfare minister told parliament on 5 April 2026 that Bangladesh's agreement with Saudi Arabia secures a woman domestic worker's right to keep a mobile phone, so she can alert her family, the embassy or the ministry at any time.",
+  "quotes": [
+   "সৌদি আরবে নারী গৃহকর্মীদের নিরাপত্তায় দেশটির সঙ্গে চুক্তিতে নারী কর্মীর সঙ্গে মুঠোফোন রাখার বিষয়টি নিশ্চিত করা হয়েছে। যাতে কর্মী যেকোনো সময় পরিবার, দূতাবাস, মন্ত্রণালয়সহ সংশ্লিষ্ট ব্যক্তিদের তাৎক্ষণিকভাবে অবহিত করতে পারেন।"
+  ]
+ },
+ {
+  "key": "SA3e-42",
+  "article_id": "2847a95a-e622-49bb-b688-5311d5b09d87",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The expatriates' welfare minister told parliament on 5 April 2026 that 1,132,519 workers went abroad in 2025, 62,352 of them women, and that more than 1.5 crore (15 million) Bangladeshis work in 176 countries.",
+  "quotes": [
+   "২০২৫ সালে ১১ লাখ ৩২ হাজার ৫১৯ জন কর্মীর বৈদেশিক কর্মস্থান হয়েছে। এর মধ্যে ৬২ হাজার ৩৫২ জন নারী কর্মী রয়েছেন।",
+   "বর্তমানে বিশ্বের ১৭৬টি দেশে দেড় কোটির বেশি বাংলাদেশি কর্মী কর্মরত রয়েছেন।"
+  ]
+ },
+ {
+  "key": "SA3e-43",
+  "article_id": "0ba00687-4bf5-494f-bb3b-67ac05687000",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The Prime Minister's spokesman Mahdi Amin said on 18 April 2026 that the cost of Hajj travel had been cut by Tk 12,000 per ticket.",
+  "quotes": [
+   "তিনি আরও বলেন, হজযাত্রার খরচ টিকিটপ্রতি ১২ হাজার টাকা কমানো হয়েছে।",
+   "প্রধানমন্ত্রী তারেক রহমানের উপদেষ্টা ও প্রধানমন্ত্রীর কার্যালয়ের মুখপাত্র মাহদী আমিন এ কথা বলেছেন।"
+  ]
+ },
+ {
+  "key": "SA3e-44",
+  "article_id": "0ba00687-4bf5-494f-bb3b-67ac05687000",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The Prime Minister's spokesman said on 18 April 2026 that the government had begun work on a 'Probashi card' for migrants; no details were given.",
+  "quotes": [
+   "প্রবাসীদের জন্য ‘প্রবাসী কার্ড’ চালুর উদ্যোগ নেওয়া হয়েছে।"
+  ]
+ },
+ {
+  "key": "SA3e-45",
+  "article_id": "2ca11b0c-9121-49be-b6fb-77c63281e130",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Murad Sheikh (34) of Goalanda, Rajbari, who went to Saudi Arabia about a year earlier through his brother Atikur working there, died in a road accident; his brother said the company gave no help and the body came home on 9 May 2026, 15 days later, paid for privately by a Goalanda expatriate named Hussain with help from the Bangladesh embassy.",
+  "quotes": [
+   "আরেক ভাই সৌদিপ্রবাসী আতিকুরের মাধ্যমে প্রায় এক বছর আগে তিনি সৌদি আরব যান। দুর্ঘটনার পর প্রতিষ্ঠান কোনো সহযোগিতা করেনি। পরে গোয়ালন্দের হুসাইন নামের এক প্রবাসীর ব্যক্তিগত অর্থায়নে এবং বাংলাদেশ দূতাবাসের সহযোগিতায় ভাইয়ের মরদেহ দেশে আনা হয়।",
+   "সৌদি আরবে সড়ক দুর্ঘটনায় নিহত বাংলাদেশি শ্রমিক মুরাদ শেখের (৩৪) মরদেহ ১৫ দিন পর দেশে ফিরেছে। আজ শনিবার ভোরে"
+  ]
+ },
+ {
+  "key": "SA3e-46",
+  "article_id": "0310d375-6946-42d8-99ef-a3a56ec1cc8a",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "At a press conference on 13 May 2026, RMMRU quoted a packaging worker at the warehouse of an app-based delivery company in Saudi Arabia as saying the warehouse had over 400 workers and now only 65, the rest laid off as sales fell, and said Gulf workers faced heavy wage cuts and higher living costs and airfares.",
+  "quotes": [
+   "সৌদি আরবের একটি অ্যাপভিত্তিক ডেলিভারি প্রতিষ্ঠানের গুদামের প্যাকেজিং কর্মী জানান, গুদামে ৪০০ জনের বেশি কর্মী ছিলেন। এখন আছেন মাত্র ৬৫ জন। বিক্রি কমায় বাকিদের সবাইকে ছাঁটাই করা হয়েছে।",
+   "উপসাগরীয় অঞ্চলের শ্রমিকেরা ব্যাপক মজুরি কর্তনের শিকার হচ্ছেন।",
+   "জীবনযাত্রার খরচ বেড়েছে, বিমানভাড়া বেড়েছে।"
+  ]
+ },
+ {
+  "key": "SA3e-47",
+  "article_id": "0310d375-6946-42d8-99ef-a3a56ec1cc8a",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "RMMRU said on 13 May 2026 that at least 9 workers had died in the Gulf and Middle East because of the war and that emigration clearances in March 2026 were 50% below March 2025.",
+  "quotes": [
+   "যুদ্ধের কারণে এ পর্যন্ত অন্তত ৯ জন শ্রমিক মারা গেছেন।",
+   "গত বছরের তুলনায় এবারের মার্চে বিদেশ যেতে কর্মসংস্থান ছাড়পত্র কমেছে ৫০ শতাংশ।"
+  ]
+ },
+ {
+  "key": "SA3e-48",
+  "article_id": "c237577f-6069-4490-b899-92fac595318c",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Nure Alam (42) and Yunus Mia (43) of Cumilla, friends who ran a business together in Riyadh, died in a head-on collision at Afif on the Jeddah-Riyadh highway on the night of Friday 15 May 2026 while bringing shop goods from Jeddah, a relative said.",
+  "quotes": [
+   "গত শুক্রবার রাতে জেদ্দা-রিয়াদ মহাসড়কের আফিফ এলাকায় এ দুর্ঘটনা ঘটে।",
+   "নুরে আলম (৪২) ও চৌদ্দগ্রাম উপজেলার শ্রীপুর ইউনিয়নের বসুয়ারা গ্রামের ইউনুস মিয়া (৪৩)। তাঁরা দুই বন্ধু রিয়াদে যৌথভাবে ব্যবসা করতেন",
+   "জেদ্দা থেকে দোকানের মালামাল নিয়ে রিয়াদে ফেরার পথে তাঁরা দুর্ঘটনার কবলে পড়েন। নিয়ন্ত্রণ হারিয়ে দুটি গাড়ির মুখোমুখি সংঘর্ষ হলে"
+  ]
+ },
+ {
+  "key": "SA3e-49",
+  "article_id": "e19fa814-e94d-45e4-afc6-a28b2f542511",
+  "verdict": "partly",
+  "problem": "The official quoted is the Assistant Commissioner (Land) in charge of the UNO of Kendua upazila, not of Madan; the claim's 'the acting UNO' leaves this unclear.",
+  "corrected_claim": "Ripon Mia (37) of Madan, Netrokona, who went to Saudi Arabia in October 2025 to work for a private company, was killed near Madinah in May 2026 when a lorry hit his taxi; with little work for a few days he had set out to visit an acquaintance, his family said, and the official acting as Kendua upazila's UNO said the papers had been collected and the expatriates' welfare ministry contacted to bring the body home.",
+  "quotes": [
+   "সংসারে সচ্ছলতা ফেরাতে গত বছরের অক্টোবরে সৌদি আরবে যান রিপন মিয়া। সেখানে একটি বেসরকারি প্রতিষ্ঠানে শ্রমিক হিসেবে কাজ করতেন তিনি। কয়েক দিন কাজ কম থাকায় পরিচিতজনের কাছে যেতে ট্যাক্সিক্যাবে রওনা হন।",
+   "মদিনার কাছে মালবাহী লরির ধাক্কায় তাঁর মৃত্যু হয়।",
+   "কেন্দুয়া উপজেলা নির্বাহী কর্মকর্তার (ইউএনও) দায়িত্বে থাকা সহকারী কমিশনার (ভূমি) শাওলিন নাহার বলেন, রিপন মিয়ার মরদেহ দেশে আনার জন্য প্রয়োজনীয় কাগজপত্র নেওয়া হয়েছে।"
+  ]
+ },
+ {
+  "key": "SA3e-50",
+  "article_id": "599bfff3-477b-43b0-b023-068c0477c1eb",
+  "verdict": "partly",
+  "problem": "The Tk 10.5 lakh is the total over all four attempts including the 2002 Saudi one (1.3 + 2.5 + 3 + 3.6 lakh), not a further sum after 2002; the claim lists only three attempts as 'four'. He sold 12.5 decimals of homestead.",
+  "corrected_claim": "Lal Mia (54) of Shalikha, Magura, said he paid a broker Tk 1.3 lakh in 2002 to go to Saudi Arabia but could not go, then paid brokers Tk 2.5 lakh for Malaysia in 2006, Tk 3 lakh for Malaysia in 2010 and Tk 3.6 lakh for Dubai in 2012, about Tk 10.5 lakh over the four attempts, selling four bighas of farmland and 12.5 decimals of homestead, and never went abroad or got the money back.",
+  "quotes": [
+   "‘২০০২ সালে প্রথমবার সৌদি আরবে যাওয়ার জন্য দালালকে দিয়েছিলাম এক লাখ ৩০ হাজার টাকা; কিন্তু যেতে পারিনি। এরপর মালয়েশিয়া যাওয়ার জন্য ২০০৬ সালে দিলাম আড়াই লাখ টাকা, চার বছর পর ২০১০ সালে আবারও মালয়েশিয়া যাওয়ার জন্য তিন লাখ টাকা দিয়েছি।",
+   "সবশেষ ২০১২ সালে দুবাই নিয়ে যাবে বলে এক দালাল আমাকে ভুলিয়েভালিয়ে নেয় ৩ লাখ ৬০ হাজার টাকা।",
+   "বিদেশ যাওয়ার জন্য মাঠের চার বিঘা ও সাড়ে ১২ শতক বসতভিটা বিক্রি করে দালালের হাতে চারবার প্রায় সাড়ে ১০ লাখ টাকা তুলে দেন। কিন্তু তিনি বিদেশ যেতে পারেননি। টাকাও ফেরত পাননি।"
+  ]
+ },
+ {
+  "key": "SA3e-51",
+  "article_id": "9fde68df-e504-4269-91ad-17b616c652b3",
+  "verdict": "partly",
+  "problem": "The uncle described iqama-related 'complications' with the employer, not a dispute.",
+  "corrected_claim": "Shakil Mia (28) of Kishoreganj went to Saudi Arabia in 2019 on borrowed money through Altab Recruiting Agency of Banani, Dhaka, left his workplace because of complications with his employer over his iqama (work permit), and was arrested by Saudi police while working illegally and jailed, his uncle said.",
+  "quotes": [
+   "২০১৯ সালে ঋণ করে ঢাকার বনানী এলাকার আলতাব রিক্রুটিং এজেন্সির মাধ্যমে সৌদি আরবে যান শাকিল। সেখানে নিয়োগকর্তার সঙ্গে কাজের অনুমতিপত্র (ইকামা)–সংক্রান্ত জটিলতার কারণে তিনি কর্মস্থল ত্যাগ করেন। পরে অবৈধভাবে কাজ করতে গিয়ে সৌদি পুলিশের হাতে আটক হন এবং কারাগারে পাঠানো হয় তাঁকে।"
+  ]
+ },
+ {
+  "key": "SA3e-52",
+  "article_id": "9fde68df-e504-4269-91ad-17b616c652b3",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "From jail Shakil told his family he needed about Tk 2 lakh for bail to come home, and his father said they borrowed and sent about Tk 1.8 lakh to a lawyer in Saudi Arabia; Shakil died in custody on 15 May 2026 after, his family said, an air conditioner exploded and the smoke left him unable to breathe.",
+  "quotes": [
+   "কারাগার থেকে পরিবারের সদস্যদের সঙ্গে যোগাযোগ করে দেশে ফেরার জন্য জামিন করাতে প্রায় দুই লাখ টাকা প্রয়োজন বলে শাকিল জানান।",
+   "ঋণ করে প্রায় ১ লাখ ৮০ হাজার টাকা সৌদিতে আইনজীবীর কাছে পাঠানো হয়েছিল",
+   "১৫ মে কারাগারে থাকা অবস্থায় একটি শীতাতপ নিয়ন্ত্রিত যন্ত্র (এসি) বিস্ফোরিত হয়ে ধোঁয়া সৃষ্টি হলে শাকিল শ্বাসকষ্টে আক্রান্ত হন। সেখানেই তাঁর মৃত্যু হয় বলে দাবি স্বজনদের।"
+  ]
+ },
+ {
+  "key": "SA3e-53",
+  "article_id": "9fde68df-e504-4269-91ad-17b616c652b3",
+  "verdict": "partly",
+  "problem": "Shariful Alam is MP for Kishoreganj-6 (Bhairab-Kuliarchar) and state minister for textiles and jute; Shakil was from Kishoreganj Sadar, so 'local MP' is not stated. The body reached Dhaka around midnight on Friday 12 June and reached home on 13 June, 28 days after the death.",
+  "corrected_claim": "Shakil's father said bringing the body home needed about SR 8,000, which the family did not have; after Shariful Alam, MP for Kishoreganj-6 and state minister for textiles and jute, intervened, the body came back with government help on a Biman flight that reached Dhaka around midnight on 12 June 2026 and reached his home on 13 June, 28 days after the death.",
+  "quotes": [
+   "‘সৌদি আরব থেকে ছেলের মরদেহ আনতে প্রায় আট হাজার সৌদি রিয়ালের দরকার ছিল; কিন্তু আমাদের কাছে ছেলের মরদেহ আনতে কোনো টাকাপয়সা ছিল না। পরে বিষয়টি জানার পর কিশোরগঞ্জ-৬ (ভৈরব-কুলিয়ারচর) আসনের সংসদ সদস্য, বস্ত্র ও পাট প্রতিমন্ত্রী শরীফুল আলম ছেলের মরদেহ বাংলাদেশে আনার উদ্যোগ নেন।",
+   "গতকাল শুক্রবার রাত ১২টার দিকে সৌদি আরব থেকে বাংলাদেশ বিমানের একটি ফ্লাইটে শাকিলের মরদেহ ঢাকার হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে পৌঁছায়।",
+   "সৌদি আরবে মারা যাওয়ার ২৮ দিন পর কিশোরগঞ্জের এক প্রবাসী তরুণের মরদেহ বাড়ি আনা হয়েছে।"
+  ]
+ },
+ {
+  "key": "SA3e-54",
+  "article_id": "a5e0a89b-2466-4460-9229-cb553d1cd996",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The assistant director of the Faridpur Probashi Kallyan (expatriate welfare) Centre said in June 2026 that in such cases the company usually sends the body home and gives other help, that the Bangladesh government gives Tk 3 lakh after the body arrives, and that if the company won't, the government brings the body home on the family's application.",
+  "quotes": [
+   "ফরিদপুর প্রবাসীকল্যাণ সেন্টারের সহকারী পরিচালক আশিক সিদ্দিকী বলেন, এসব ক্ষেত্রে সাধারণত কোম্পানি মরদেহ দেশে পাঠানোসহ অন্যান্য সহায়তা প্রদান করে থাকে। লাশ দেশে আসার পর বাংলাদেশ সরকারের পক্ষ থেকে তিন লাখ টাকা সহায়তা দেওয়া হবে।",
+   "যদি কোনো কারণে বিদেশের কোম্পানি লাশ দেশে আনার জন্য সহায়তা দিতে না চায়, তাহলে পরিবারের সদস্যদের আবেদনের ভিত্তিতে ওই প্রবাসীর মরদেহ বাড়িতে এনে দেওয়াসহ সার্বিক সহযোগিতা বাংলাদেশ সরকার করবে।"
+  ]
+ },
+ {
+  "key": "SA3e-55",
+  "article_id": "d54e3d42-888e-46bd-a4ee-b13ecd149b1c",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Civil aviation minister Afroza Khanam told parliament on 18 June 2026 that Biman had set a Tk 20,000 fare for migrant workers on empty Hajj-season return flights from Jeddah and Madinah, against Tk 50,000-55,000 before on the same routes.",
+  "quotes": [
+   "হজ মৌসুমে জেদ্দা ও মদিনা থেকে ফেরত আসা খালি ফ্লাইটে প্রবাসী কর্মীদের জন্য টিকিটের মূল্য ২০ হাজার টাকা নির্ধারণ করা হয়েছে, যেখানে আগে একই রুটে ভাড়া ছিল ৫০ থেকে ৫৫ হাজার টাকা।",
+   "বেসামরিক বিমান পরিবহনমন্ত্রী আফরোজা খানম বলেন, প্রবাসী শ্রমিকদের যাতায়াত ব্যয় কমাতে বিমান বাংলাদেশ এয়ারলাইনস বিভিন্ন উদ্যোগ নিয়েছে।"
+  ]
+ },
+ {
+  "key": "SA3e-56",
+  "article_id": "d54e3d42-888e-46bd-a4ee-b13ecd149b1c",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The minister also said Biman's discounted 'T-class' fares cut Dhaka-Jeddah from Tk 62,000 to Tk 48,000 and Dhaka-Riyadh or Dammam from Tk 53,000 to Tk 48,000.",
+  "quotes": [
+   "ঢাকা-জেদ্দা রুটে ভাড়া ৬২ হাজার থেকে ৪৮ হাজার টাকা, ঢাকা-রিয়াদ বা দাম্মাম রুটে ৫৩ হাজার থেকে ৪৮ হাজার টাকা"
+  ]
+ },
+ {
+  "key": "SA3e-57",
+  "article_id": "d54e3d42-888e-46bd-a4ee-b13ecd149b1c",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Biman's T-class fares announced in parliament on 18 June 2026 also cut Dhaka-Doha from Tk 53,000 to Tk 46,000, Dhaka-Muscat from Tk 39,000 to Tk 30,000 and Dhaka-Kuala Lumpur from Tk 28,000 to Tk 21,000.",
+  "quotes": [
+   "ঢাকা-দোহা রুটে ৫৩ হাজার থেকে ৪৬ হাজার টাকা, ঢাকা-মাসকাট রুটে ৩৯ হাজার থেকে ৩০ হাজার টাকা এবং ঢাকা-কুয়ালালামপুর রুটে ২৮ হাজার থেকে ২১ হাজার টাকায় নামিয়ে আনা হয়েছে।"
+  ]
+ },
+ {
+  "key": "SA3e-58",
+  "article_id": "eea35190-30e8-4523-a2b3-61b5da5382c1",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The expatriates' welfare minister told parliament on 23 June 2026 that of USD 30.32 billion remittances in fiscal 2024-25, the most, USD 4.26 billion, came from Saudi Arabia.",
+  "quotes": [
+   "২০২৪-২৫ অর্থবছরে দেশে মোট ৩ হাজার ৩২ কোটি মার্কিন ডলার রেমিট্যান্স এসেছে। এর মধ্যে সর্বোচ্চ ৪২৬ কোটি ডলার এসেছে সৌদি আরব থেকে।"
+  ]
+ },
+ {
+  "key": "SA3e-59",
+  "article_id": "727ecc6d-f8b4-4281-98a1-d34f8a4d48fb",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "On 30 June 2026 the Bangladesh embassy in Riyadh relayed on its verified Facebook page the Saudi Ministry of Human Resources and Social Development's call for every work permit (rukhsa amal) expired over 12 months, or not issued over six months after entry or transfer, to be issued or renewed within 2026, warning of legal action otherwise.",
+  "quotes": [
+   "যেসব প্রবাসী কর্মীর ওয়ার্ক পারমিটের মেয়াদ শেষ হওয়ার পর ১২ মাসের বেশি সময় অতিবাহিত হয়েছে, যেসব কর্মী সৌদি আরবে নতুন করে প্রবেশ অথবা কোনো প্রতিষ্ঠানে স্থানান্তরের (ট্রান্সফার) পর ছয় মাসের বেশি সময় পরও তাঁদের অনুকূলে ওয়ার্ক পারমিট ইস্যু হয়নি, তাঁদের ২০২৬ সালের মধ্যেই",
+   "মঙ্গলবার সৌদি আরবের রিয়াদে অবস্থিত বাংলাদেশ দূতাবাসের ভেরিফায়েড ফেসবুক পেজে এ তথ্য জানানো হয়।",
+   "অন্যথায় প্রচলিত আইন অনুযায়ী সংশ্লিষ্ট ব্যক্তিদের বিরুদ্ধে প্রয়োজনীয় ব্যবস্থা নেওয়া হবে বলে সতর্ক করা হয়েছে।"
+  ]
+ }
+]

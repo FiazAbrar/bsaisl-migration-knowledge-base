@@ -1,0 +1,229 @@
+[
+ {
+  "key": "D01",
+  "article_id": "b9949e61-75cd-463f-a05d-1ba33ec223f6",
+  "verdict": "partly",
+  "problem": "The article says he went to Qatar about three years ago and reached Libya in early August 2025, so it does not say he had worked in Qatar for about three years before leaving; it does not say he 'worked' there or that the broker was in Qatar ('from there, lured by a Bangladeshi broker'). The account is attributed to family and local sources.",
+  "corrected_claim": "According to his family and local sources, Elias Howlader of Kalkini, Madaripur went to Qatar about three years before March 2026, decided from there to go to Italy illegally after being lured by a Bangladeshi broker, and reached Libya from Qatar in early August 2025; his father said the family learned of it only after he had gone to Libya.",
+  "quotes": [
+   "নিহত ব্যক্তিদের পরিবার ও স্থানীয় সূত্রে জানা গেছে, উন্নত জীবনের আশায় প্রায় তিন বছর আগে মধ্যপ্রাচ্যের দেশ কাতারে গিয়েছিলেন ইলিয়াস।",
+   "সেখান থেকে বাংলাদেশি এক দালালের প্রলোভনে পড়ে অবৈধ পথে ইতালি যাওয়ার সিদ্ধান্ত নেন তিনি। পরে গত বছরের আগস্টের শুরুতে কাতার থেকে দালালের সহযোগিতায় লিবিয়ায় পৌঁছান ইলিয়াস।",
+   "বড় ছেলে ইলিয়াস আমাদের কাউকে কিছু না জানিয়ে নিজের সিদ্ধান্তে ইতালি যাওয়ার উদ্দেশ্যে লিবিয়া যায়। লিবিয়াতে যাওয়ার পরে আমরা জানতে পারি।"
+  ]
+ },
+ {
+  "key": "D02",
+  "article_id": "b9949e61-75cd-463f-a05d-1ba33ec223f6",
+  "verdict": "partly",
+  "problem": "Facts match; only the attribution the article gives is missing from the claim. The BDT 20 lakh is from the family and local sources (and the father's own statement); the year 2026 is inferred from the publication date (article says '23 March').",
+  "corrected_claim": "According to his family, brokers took BDT 20 lakh (2,000,000) from them in several instalments while Elias Howlader of Madaripur was held and tortured in a Libyan detention camp, where he died on 23 March 2026.",
+  "quotes": [
+   "সেখানকার একটি বন্দিশালায় ইলিয়াসকে বন্দী রেখে শারীরিক ও মানসিক নির্যাতন চালিয়ে পরিবারের কাছ থেকে কয়েক দফায় ২০ লাখ টাকা হাতিয়ে নেন দালাল চক্রের সদস্যরা।",
+   "২৩ মার্চ ওই বন্দিশালায় দালালের নির্যাতনে গুরুতর অসুস্থ হয়ে মারা যান ইলিয়াস।",
+   "ছেলের মুখের দিকে চাইয়ে আমি অনেক কষ্ট করে ২০ লাখ টাকা দালাল হাবিব মাস্টারের কাছে দিই।"
+  ]
+ },
+ {
+  "key": "D03",
+  "article_id": "42d5aef3-35e4-405f-b2c3-2e5653ef265e",
+  "verdict": "partly",
+  "problem": "Facts match; only the attribution the article gives is missing from the claim. The account, including 'about three years', is attributed to CID sources.",
+  "corrected_claim": "According to CID sources, a man from Senbag, Noakhali who had worked in Saudi Arabia for about three years met a fellow passenger on the flight home, and through that person was introduced to a member of a human-trafficking ring.",
+  "quotes": [
+   "সিআইডি সূত্র জানায়, নোয়াখালীর সেনবাগের বাসিন্দা ওই যুবক প্রায় তিন বছর সৌদি আরবে কর্মরত ছিলেন।",
+   "দেশে ফেরার পথে বিমানে এক সহযাত্রীর সঙ্গে তাঁর পরিচয় হয়। ওই ব্যক্তির মাধ্যমে তিনি মানব পাচার চক্রের এক সদস্যের সঙ্গে পরিচিত হন।"
+  ]
+ },
+ {
+  "key": "D04",
+  "article_id": "c37d0328-0350-42e5-99fc-53c1d3770a6f",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Bangladeshi workers dismissed by their company in Russia were approached by brokers at the airport when they tried to fly home, or in Moscow while jobless",
+  "quotes": [
+   "দু-তিন মাস পর প্রতিষ্ঠানটি তাঁদের ১৫ থেকে ২০ জনকে বের করে দেয়।",
+   "এই তরুণ বলেন, গত ফেব্রুয়ারির শেষের দিকে দেশে ফিরে আসতে তাঁরা চার থেকে পাঁচজন বিমানবন্দরে যান। সেখানে রাশিয়ার এক দালাল কাজের কথা বলে হোটেলে নিয়ে যান তাঁদের।",
+   "প্রায় দেড় মাস মস্কোতে বেকার থাকার সময় পরিচয় হয় রুশ এক দালালের সঙ্গে।"
+  ]
+ },
+ {
+  "key": "D05",
+  "article_id": "c37d0328-0350-42e5-99fc-53c1d3770a6f",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Their passports and papers were taken 'for visa renewal', and after signing a contract they were taken to a forest to cut trees before weapons arrived",
+  "quotes": [
+   "এরপর ভিসা নবায়নের কথা বলে তাঁদের পাসপোর্টসহ সব কাগজপত্র নিয়ে যান। সেখানে তিন থেকে চারজন রুশ একটি চুক্তিনামায় তাঁদের স্বাক্ষর নেন।",
+   "এরপর আমাদের জঙ্গলে নিয়ে গাছ কাটার কাজ করান। কিছুদিন পর দেখি বন্দুকসহ গোলাবারুদ আনা হচ্ছে।"
+  ]
+ },
+ {
+  "key": "D06",
+  "article_id": "e8f126b2-6f27-43bb-89d6-ea09e568ca8e",
+  "verdict": "partly",
+  "problem": "The BDT 5 lakh was taken from him and a Bangladeshi companion together, not from him alone; the broker account is attributed to the family. The vineyard offer was a job he was taken away for, then the Italy promise followed.",
+  "corrected_claim": "According to his family, after the construction firm employing Shahriar Sumon of Trishal, Mymensingh in Russia stopped work six months in, a broker in Moscow first took him away with a promise of vineyard work and then, promising to send him to Italy, took BDT 5 lakh from him and a Bangladeshi companion.",
+  "quotes": [
+   "রাশিয়ায় গিয়ে একটি নির্মাণপ্রতিষ্ঠানে কাজ শুরু করেন শাহরিয়ার। বাংলাদেশে থাকতেই তিন মাস প্রশিক্ষণ নিয়ে গিয়েছিলেন। কিন্তু ছয় মাসের মাথায় প্রতিষ্ঠানটির কাজ বন্ধ হয়ে যায়।",
+   "পরিবারের ভাষ্য, মস্কোতে এক দালাল প্রথমে আঙুরবাগানে কাজ দেওয়ার কথা বলে তাঁকে নিয়ে যায়। পরে ইতালিতে পাঠানোর প্রলোভন দেখিয়ে শাহরিয়ার ও তাঁর এক বাংলাদেশি সঙ্গীর কাছ থেকে পাঁচ লাখ টাকা নেয়।",
+   "তাঁদের বাড়ি ময়মনসিংহের ত্রিশাল উপজেলার ধানীখোলা ইউনিয়নের উজান ভাটিপাড়া গ্রামে।"
+  ]
+ },
+ {
+  "key": "D07",
+  "article_id": "e8f126b2-6f27-43bb-89d6-ea09e568ca8e",
+  "verdict": "partly",
+  "problem": "The article says they did not understand the meaning of the Russian-language papers, not that he could not read them; it speaks of him and his companion, and the account is the family's.",
+  "corrected_claim": "According to the family of Shahriar Sumon of Mymensingh, he and a Bangladeshi companion were made to sign papers written in Russian whose meaning they did not understand, and later learned they had been enrolled in the Russian army.",
+  "quotes": [
+   "পরিবারের ভাষ্য, মস্কোতে এক দালাল প্রথমে আঙুরবাগানে কাজ দেওয়ার কথা বলে তাঁকে নিয়ে যায়।",
+   "এরপর রুশ ভাষায় লেখা কিছু কাগজে স্বাক্ষর করানো হয়, যার অর্থ তাঁরা বুঝতেই পারেননি। পরে জানতে পারেন, তাঁদের রাশিয়ার সেনাবাহিনীতে অন্তর্ভুক্ত করা হয়েছে।"
+  ]
+ },
+ {
+  "key": "D08",
+  "article_id": "f07c8ed1-9fb6-49ef-a2fd-a7be29412c2d",
+  "verdict": "partly",
+  "problem": "The account is attributed to his wife; the article says 'another broker' after he went to Moscow but does not explicitly place the second broker in Moscow.",
+  "corrected_claim": "According to his wife, after Kamrul Hasan of Brahmanbaria went to Moscow looking for work and was cheated by one broker, another broker took BDT 5 lakh (500,000) from him with a promise to send him to Italy, and he was then handed over to the Russian army through deception.",
+  "quotes": [
+   "নাজমীনের ভাষ্য, রাশিয়ার একটি পাহাড়ি এলাকায় পাঁচ-ছয় মাস থাকার পর কাজের সন্ধানে মস্কো যান কামরুল।",
+   "সেখানে এক দালালের প্রতারণার শিকার হয়ে তাঁকে খোলা আকাশের নিচে দুই রাত কাটাতে হয়। পরে আরেক দালাল ইতালিতে পাঠানোর প্রলোভন দেখিয়ে পাঁচ লাখ টাকা হাতিয়ে নেয়। এরপর প্রতারণার মাধ্যমে তাঁকে রাশিয়ার সেনাবাহিনীর কাছে হস্তান্তর করা হয়।"
+  ]
+ },
+ {
+  "key": "D09",
+  "article_id": "48807698-f041-4f42-8801-43c827d39498",
+  "verdict": "partly",
+  "problem": "The article gives no '13 to 17 lakh each' range; it reports individual complainants' own statements: a lawyer couple (BDT 17 lakh each) and Amir Hossain (BDT 13 lakh) who say they got no visa and no refund; a third (BDT 16 lakh) is only an allegation of money taken.",
+  "corrected_claim": "Complainants told Prothom Alo in July 2025 that they paid the study-abroad firm BSB Global Network BDT 17 lakh each (a lawyer couple) and BDT 13 lakh (Amir Hossain) for Canadian visas for higher education, and that the firm arranged no visas and did not return the money.",
+  "quotes": [
+   "আইনজীবী জাহিদুল বলেন, কানাডায় দুজনের শিক্ষার্থী ভিসার ব্যবস্থা করে দেওয়ার প্রতিশ্রুতি দেয় প্রতিষ্ঠানটি। তাঁরা প্রতিষ্ঠানটিকে ১৭ লাখ করে মোট ৩৪ লাখ টাকা দেন; কিন্তু প্রতিষ্ঠানটি আর ভিসার ব্যবস্থা করে দেয়নি।",
+   "ভিসা না পেয়ে তাঁরা টাকা ফেরত চান। তবে প্রতিষ্ঠানটি টাকা ফেরত দেয়নি।",
+   "তিনি প্রথম আলোকে বলেন, উচ্চশিক্ষার জন্য বিএসবি গ্লোবাল নেটওয়ার্ককে ১৩ লাখ টাকা দিয়েছেন। তাঁকে কানাডার ভিসার ব্যবস্থা করার কথা ছিল; কিন্তু ভিসার ব্যবস্থা করেনি প্রতিষ্ঠানটি। টাকাও ফেরত দেয়নি।"
+  ]
+ },
+ {
+  "key": "D10",
+  "article_id": "48807698-f041-4f42-8801-43c827d39498",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "CID arrested its chairman, Khairul Bashar, on 14 July 2025",
+  "quotes": [
+   "উচ্চশিক্ষার জন্য বিদেশে পাঠানোর কথা বলে কোটি কোটি টাকা হাতিয়ে নেওয়ার অভিযোগে গতকাল সোমবার বাশারকে গ্রেপ্তার করেছে পুলিশের অপরাধ তদন্ত বিভাগ (সিআইডি)।",
+   "প্রতারণার মাধ্যমে টাকা আত্মসাতের অভিযোগে জাহিদুল-রওনক দম্পতিসহ মোট ১৮ ব্যক্তির পক্ষে গত ৫ মে রাজধানীর গুলশান থানায় বিএসবি গ্লোবাল নেটওয়ার্কের চেয়ারম্যান খায়রুল বাশারের বিরুদ্ধে মামলা হয়।"
+  ]
+ },
+ {
+  "key": "D11",
+  "article_id": "e892ca03-1342-46b7-ba4f-1f2e9bcb9dd3",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "CID's inquiry found that for many students the firm had made no application to any foreign university",
+  "quotes": [
+   "কিন্তু অনুসন্ধানে জানা যায়, শিক্ষার্থীদের অনেকের নামে বিদেশি কোনো বিশ্ববিদ্যালয়ে আবেদনই করা হয়নি।",
+   "সিআইডির পক্ষ থেকে বলা হয়, সংস্থাটির প্রাথমিক অনুসন্ধানে জানা যায়, ২০১৮ থেকে ২০২৪ সাল পর্যন্ত খায়রুল বাশার তাঁর স্ত্রী খন্দকার সেলিমা রওশন ও ছেলে আরশ ইবনে বাশারকে সঙ্গে নিয়ে একটি সংঘবদ্ধ প্রতারক চক্র গড়ে তোলেন।"
+  ]
+ },
+ {
+  "key": "D12",
+  "article_id": "1ab0b5e1-4490-4258-b953-c126b9358a36",
+  "verdict": "partly",
+  "problem": "The article says the husband paid his Saudi sponsor BDT 35 lakh to take 17 people to Saudi Arabia (not 'for 17 visas'); the amount lost is BDT 10 lakh 20 thousand per the case findings ('about 10 lakh' in her words); the contact was on 8 March 2022; details are from the case documents.",
+  "corrected_claim": "According to case documents, Rahima Begum of Dhaka, whose husband had paid his Saudi sponsor BDT 35 lakh to take 17 people to Saudi Arabia and never got it back, contacted advertisers she saw on Facebook and YouTube on 8 March 2022 that promised recovery of owed money, and they took BDT 10 lakh 20 thousand from her in stages before cutting contact.",
+  "quotes": [
+   "বাংলাদেশ থেকে ১৭ জনকে সৌদি আরবে নিতে নিজের কফিলকে ৩৫ লাখ টাকা দেন। কিন্তু পরে ভিসা জটিলতায় তাঁদের সৌদি পাঠানো না গেলেও টাকা ফেরত দেননি কফিল।",
+   "একপর্যায়ে ২০২২ সালের ৮ মার্চ ফেসবুক ও ইউটিউবে ‘হাবিবুল্লাহ হুজুরের দরবার শরীফ’, ‘জৈনপুরী মা-ফাতেমা দরবার শরীফ’ ও ‘তান্ত্রিককম.ঘর’ নামে বিজ্ঞাপন দেখে যোগাযোগ করেন রহিমা বেগম। বিজ্ঞাপনে পাওনা টাকা উদ্ধার, স্বামী-স্ত্রীর মিল, ভাগ্য পরিবর্তন ও লটারিতে জেতানোর মতো নানা আশ্বাস দেওয়া হয়।",
+   "এভাবে বিভিন্ন ধাপে ১০ লাখ ২০ হাজার টাকা নেওয়ার পর প্রতারকেরা যোগাযোগ বন্ধ করে দেয়।"
+  ]
+ },
+ {
+  "key": "D13",
+  "article_id": "1ab0b5e1-4490-4258-b953-c126b9358a36",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The fraudsters promised to recover the money within 72 hours by supernatural means",
+  "quotes": [
+   "‘জিনের বাদশা’ পরিচয়ে চক্রটি অলৌকিক ক্ষমতায় ৭২ ঘণ্টার মধ্যে টাকা উদ্ধারের প্রতিশ্রুতি দেয়।"
+  ]
+ },
+ {
+  "key": "D14",
+  "article_id": "1ab0b5e1-4490-4258-b953-c126b9358a36",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Police charged 23 people on 13 July 2026",
+  "quotes": [
+   "মামলার তদন্ত শেষে ২৩ জনকে আসামি করে গত ১৩ জুলাই আদালতে অভিযোগপত্র দিয়েছে পুলিশ ব্যুরো অব ইনভেস্টিগেশন (পিবিআই)।"
+  ]
+ },
+ {
+  "key": "D15",
+  "article_id": "4e818018-68c2-44b1-b75e-17f3a5477e4b",
+  "verdict": "partly",
+  "problem": "The article says the BDT 25 lakh was taken from the man himself (Tachhir Fakir), not that the family paid it; the breakdown is attributed to relatives and local sources; he died in a Libyan hospital. The family separately puts the ransom at BDT 48 lakh, which does not match the breakdown.",
+  "corrected_claim": "According to relatives and local sources, a broker first took BDT 25 lakh from Tachhir Fakir of Rajoir, Madaripur for the journey to Italy, brokers in Libya then held him in a detention camp and took BDT 20 lakh ransom from his family and another BDT 2.5 lakh said to be for treatment, and he died in a Libyan hospital in May 2026.",
+  "quotes": [
+   "প্রথমে তছিরের কাছ থেকে ২৫ লাখ টাকা নিয়ে তাঁকে দুবাই হয়ে পাঠানো হয় লিবিয়ায়।",
+   "সেখানে পৌঁছানোর পর বন্দিশালায় আটকে রেখে অমানবিক নির্যাতনের পর পরিবারের কাছ থেকে মুক্তিপণের ২০ লাখ টাকা আদায় করে লিবিয়ায় বসবাসকারী বাংলাদেশি দালালেরা।",
+   "চিকিৎসার কথা বলে দালাল চক্র আরও আড়াই লাখ টাকা হাতিয়ে নেয়। মঙ্গলবার বাংলাদেশ সময় বেলা ১টার দিকে চিকিৎসাধীন অবস্থায় তাঁর মৃত্যু হয়।"
+  ]
+ },
+ {
+  "key": "D16",
+  "article_id": "4e818018-68c2-44b1-b75e-17f3a5477e4b",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The family sold all its land to pay",
+  "quotes": [
+   "ভাইকে বিদেশে পাঠানোর জন্য জমিজমা সব বিক্রি করে দালালকে টাকা দিয়েছি।"
+  ]
+ },
+ {
+  "key": "D17",
+  "article_id": "b614fe5d-e3da-4f80-a310-6d11ec0f7645",
+  "verdict": "partly",
+  "problem": "The article says BDT 45 lakh, with no 'about', and gives it as the relatives' claim; the BDT 9.5 lakh contract and the new BDT 25 lakh demand match.",
+  "corrected_claim": "The family of Dipu Mia of Bhairab, Kishoreganj contracted with a broker from the same village for BDT 9.5 lakh (950,000) to reach Italy via Libya, and relatives said in August 2025 that the brokers had so far taken BDT 45 lakh and were demanding BDT 25 lakh more.",
+  "quotes": [
+   "শেষে লিবিয়া হয়ে ইতালি যেতে তাঁর মাধ্যমে সাড়ে ৯ লাখ টাকায় চুক্তিবদ্ধ হন।",
+   "স্বজনদের দাবি, ইতালি পৌঁছে দেওয়া ও নির্যাতন থেকে রক্ষা পাওয়ার আশায় দালাল চক্র পরিবারের কাছ থেকে এখন পর্যন্ত ৪৫ লাখ টাকা হাতিয়ে নিয়েছে। নতুন করে ২৫ লাখ টাকা চাওয়া হয়েছে।",
+   "বাড়ির পাশের বলে দিপু দালাল ফজলুল হকের মাধ্যমে বিদেশ যেতে আগ্রহী হন।"
+  ]
+ },
+ {
+  "key": "D18",
+  "article_id": "b614fe5d-e3da-4f80-a310-6d11ec0f7645",
+  "verdict": "partly",
+  "problem": "The article counts the month and a half from after the family learned of his detention (a few days after he reached Libya on 23 September 2023), not from his arrival; the account is the family's.",
+  "corrected_claim": "According to his family, Dipu Mia of Bhairab reached Libya on 23 September 2023, was detained a few days later and passed to a mafia group, and a month and a half after that the family got a call showing a torture video and demanding BDT 11 lakh (1,100,000) within one day.",
+  "quotes": [
+   "২০২৩ সালের ২৩ সেপ্টেম্বর লিবিয়া পৌঁছান দিপু। কয়েক দিন পর জানতে পারেন, দিপু আইনশৃঙ্খলা রক্ষাকারী বাহিনীর হাতে আটক হয়েছেন। পরে মাফিয়া চক্রের হাতে চলে যান।",
+   "দেড় মাস পর ফোন আসে পরিবারের কাছে। নির্যাতনের ভিডিও দেখিয়ে এক দিনের মধ্যে ১১ লাখ টাকা দাবি করা হয়।"
+  ]
+ },
+ {
+  "key": "D19",
+  "article_id": "b14c4a97-1b0d-4d52-9c0f-ae05148a0ac4",
+  "verdict": "partly",
+  "problem": "Facts match; only the attribution the article gives is missing from the claim. The amounts and events come from relatives and neighbours; the 'however long, with lodging, food and airfare' terms are the article's general description of body contracts; the accused broker claims the death was an accident.",
+  "corrected_claim": "According to relatives and neighbours, the family of Saidul Bepari of Madaripur paid BDT 20 lakh ransom to free him in Libya and then agreed a BDT 16 lakh 'body contract' through a Bangladeshi broker, an arrangement under which brokers promise to deliver the migrant alive to Italy however long it takes and bear lodging, food and airfare; he died in a Libyan detention camp on 14 February 2025 after torture.",
+  "quotes": [
+   "প্রায় এক সপ্তাহ পরে ২০ লাখ টাকা মুক্তিপণের মাধ্যমে সাইদুলকে মুক্ত করে তাঁর পরিবার। এরপর বাংলাদেশি এক দালালের মাধ্যমে সাইদুলের পরিবার আরও ১৬ লাখ টাকায় ‘বডি কন্ট্রাক্ট’ করেন।",
+   "এই চুক্তির আওতায় যত দিন লাগুক, অভিবাসনপ্রত্যাশীকে ইতালি জীবিত পৌঁছে দেওয়ার প্রতিশ্রুতিতে টাকা নেন দালালেরা। সে পর্যন্ত একজন অভিবাসনপ্রত্যাশীর থাকা, খাওয়া, বিমানভাড়া-সবকিছুই বহন করে দালাল চক্র।",
+   "তবে মাফিয়াদের নির্যাতন সইতে না পেরে ১৪ ফেব্রুয়ারি লিবিয়ার একটি বন্দিশালায় মারা যান সাইদুল।"
+  ]
+ },
+ {
+  "key": "D20",
+  "article_id": "2ade7362-a0af-4076-83a5-2c37d7bee67d",
+  "verdict": "partly",
+  "problem": "Facts match; only the attribution the article gives is missing from the claim. All figures and the account of the death come from the family (who heard of the death from a broker); the article says pirates shot him shortly after the boat left on the night of 1 November.",
+  "corrected_claim": "According to his family, a BDT 22 lakh contract was made to send Imran Khan of Madaripur to Italy, brokers took BDT 20 lakh more while he was held in a detention camp in Benghazi, Libya, and he was shot dead by pirates on a migrant boat on 1 November 2025, which the family learned from a broker on 18 November.",
+  "quotes": [
+   "পরিবারের সদস্যদের ভাষ্য, গতকাল মঙ্গলবার তাঁরা এক দালালের মাধ্যমে জেনেছেন, ১ নভেম্বর লিবিয়ার উপকূলে অভিবাসনপ্রত্যাশীদের নৌকায় জলদস্যুদের গুলিতে নিহত হন ইমরান।",
+   "ইমরানের পরিবার জানায়, শিপনের ভাই সেলিম খানের মাধ্যমে ২২ লাখ টাকায় ইমরানকে ইতালি পাঠানোর চুক্তি হয়।",
+   "গত ৮ অক্টোবর দেশ ছাড়ার পর ভারত, শ্রীলঙ্কা ও মিসর হয়ে তাঁকে লিবিয়ার বেনগাজিতে নেওয়া হয়। সেখানে বন্দিশালায় আটকে রেখে আরও ২০ লাখ টাকা আদায় করে দালাল চক্র।"
+  ]
+ }
+]

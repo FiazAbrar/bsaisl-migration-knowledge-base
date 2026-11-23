@@ -1,0 +1,741 @@
+[
+ {
+  "key": "LB1-68",
+  "article_id": "c3b462e3-d3d4-459d-aeb8-42224541bf98",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "A Prothom Alo editorial of 6 February 2025 stated that 84,000 Bangladeshis went to Europe by sea from 2009 to 2024 and that on average at least 100 Bangladeshis die each year when boats sink (it gives no source for either figure).",
+  "quotes": [
+   "২০০৯ থেকে ২০২৪ সাল পর্যন্ত ৮৪ হাজার বাংলাদেশি এভাবে সমুদ্রপথে ইউরোপে গেছেন। প্রতিবছর গড়ে অন্তত ১০০ বাংলাদেশি নৌকা ডুবে মারা যান।"
+  ]
+ },
+ {
+  "key": "LB1-69",
+  "article_id": "c3b462e3-d3d4-459d-aeb8-42224541bf98",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The migration analyst Asif Munir told Deutsche Welle that each person needs BDT 16 to 20 lakh for this journey and that international as well as local rings are involved, as quoted in a Prothom Alo editorial of 6 February 2025.",
+  "quotes": [
+   "অভিবাসনবিষয়ক বিশ্লেষক আসিফ মুনির ডয়চে ভেলেকে বলেন, এর সঙ্গে শুধু দেশীয় নয়, আন্তর্জাতিক চক্রও জড়িত। প্রত্যেকের ১৬ থেকে ২০ লাখ টাকা লাগে।"
+  ]
+ },
+ {
+  "key": "LB1-70",
+  "article_id": "c3b462e3-d3d4-459d-aeb8-42224541bf98",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "A Prothom Alo editorial of 6 February 2025 stated that some licensed manpower-exporting firms are behind these broker rings and send people abroad through them, and that cases against many such firms in the past led to no action because many of those involved were influential people linked to the then ruling party.",
+  "quotes": [
+   "এই দালাল চক্রের পেছনে কিছু অনুমোদিত জনশক্তি রপ্তানিকারক প্রতিষ্ঠান জড়িত, যাদের মাধ্যমে তারা বিদেশে লোক পাঠিয়ে থাকে।",
+   "অতীতে এ রকম অনেক প্রতিষ্ঠানের বিরুদ্ধে মামলা হলেও কোনো ব্যবস্থা নেওয়া হয়নি। কেননা এ চক্রের সঙ্গে জড়িতদের অনেকেই ছিলেন ক্ষমতাসীন রাজনৈতিক দলের সঙ্গে যুক্ত প্রভাবশালী।"
+  ]
+ },
+ {
+  "key": "LB1-71",
+  "article_id": "18bf304c-b5cb-425c-a754-21a7e0f676fa",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "According to relatives and police, 24 young men from Shariatpur and Madaripur who were taken from home in 2022 and 2023 to be sent to Italy from Libya by an illegal route went missing in Libya; relatives claim none of the 24 has contacted family since 21 and 22 March 2024.",
+  "quotes": [
+   "শরীয়তপুর ও মাদারীপুর জেলার বিভিন্ন এলাকার ২৪ যুবক ও তরুণ ইতালিতে যাওয়ার উদ্দেশ্যে বাড়ি থেকে বের হয়ে লিবিয়ায় গিয়ে নিখোঁজ হয়েছেন। এখন তাঁদের কোনো হদিস পাওয়া যাচ্ছে না। নিখোঁজ ব্যক্তিদের স্বজন ও পুলিশ সূত্রে এ তথ্য জানা যায়।",
+   "২৪ যুবক ও তরুণকে অবৈধ পথে লিবিয়া থেকে ইতালি পাঠানোর জন্য বাড়ি থেকে নিয়ে যাওয়া হয়।",
+   "গত বছরের ২১ ও ২২ মার্চ থেকে ওই ২৪ জন পরিবারের সঙ্গে আর কোনো যোগাযোগ করছেন না বলে দাবি করেছেন স্বজনেরা।"
+  ]
+ },
+ {
+  "key": "LB1-72",
+  "article_id": "18bf304c-b5cb-425c-a754-21a7e0f676fa",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The 24 Shariatpur and Madaripur men were sent first to the United Arab Emirates, then through Egypt to Libya, according to Palong Model police station and relatives.",
+  "quotes": [
+   "শরীয়তপুর সদরের পালং মডেল থানা ও নিখোঁজ ব্যক্তিদের স্বজনেরা জানান",
+   "তাঁদের প্রথমে সংযুক্ত আরব আমিরাত, তারপর মিসর হয়ে লিবিয়া পাঠানো হয়।"
+  ]
+ },
+ {
+  "key": "LB1-73",
+  "article_id": "18bf304c-b5cb-425c-a754-21a7e0f676fa",
+  "verdict": "partly",
+  "problem": "The article says several men were detained by police in Libya 'in two rounds' (দুই দফায়), not that each of them was arrested twice.",
+  "corrected_claim": "In the Shariatpur case the broker ring took BDT 12 lakh to 20 lakh from the 24 families in various ways; some of the men were detained by police in Libya on two occasions and jailed, some were held hostage and tortured, and they were freed from captivity and jail after money was collected from their families.",
+  "quotes": [
+   "ওই ২৪ তরুণ-যুবকের পরিবারের কাছ থেকে বিভিন্নভাবে ১২ লাখ থেকে ২০ লাখ টাকা হাতিয়ে নিয়েছে দালাল চক্রটি। এর মধ্যে কয়েকজন লিবিয়ায় দুই দফায় পুলিশের হাতে আটক হয়ে কারাগারে যান। কয়েকজনকে জিম্মি করে নির্যাতন করা হয়।",
+   "পরে পরিবারের সদস্যদের কাছ থেকে টাকা আদায় করে তাঁদের জিম্মিদশা ও কারাগার থেকে ছাড়ানো হয়।"
+  ]
+ },
+ {
+  "key": "LB1-74",
+  "article_id": "18bf304c-b5cb-425c-a754-21a7e0f676fa",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The man arrested in the Shariatpur case, Rashed Khan of Charjadabpur village, Shariatpur Sadar, works at sending manpower to various countries and has a firm named Lamisa Enterprise, according to police and relatives; one wife said her husband left home with him on 3 February 2024.",
+  "quotes": [
+   "শরীয়তপুর সদর উপজেলার আংগারীয়া ইউনিয়নের চরযাদবপুর গ্রামের রাশেদ খান বিভিন্ন দেশে জনশক্তি পাঠানোর কাজ করেন। লামিসা এন্টারপ্রাইজ নামে একটি প্রতিষ্ঠান আছে তাঁর।",
+   "২০২৪ সালের ৩ ফেব্রুয়ারি আমার স্বামী ইতালি যাওয়ার উদ্দেশ্যে রাশেদ খানের সঙ্গে বাড়ি ছাড়েন।"
+  ]
+ },
+ {
+  "key": "LB1-75",
+  "article_id": "18bf304c-b5cb-425c-a754-21a7e0f676fa",
+  "verdict": "partly",
+  "problem": "The article does not say where Fatema Akter lives ('of Shariatpur' is not stated); she joined the hunger strike in Shariatpur.",
+  "corrected_claim": "Fatema Akter, whose husband Shahin Sikdar (26) went missing on the way to Italy, said he left home with the broker on 3 February 2024, phoned some days later to say they would be sent from Libya to Italy illegally by sea, last spoke to the family on the night of 22 March 2024, that the broker took BDT 18 lakh from them at various times, and that she could not stay in her area because of debt pressure.",
+  "quotes": [
+   "তাঁর স্বামী শাহীন সিকদার (২৬) ইতালি যাওযার পথে নিখোঁজ হয়েছেন।",
+   "কিছুদিন পরে তিনি (স্বামী) ফোন করে জানান, সমুদ্রপথে লিবিয়া থেকে অবৈধভাবে তাঁদের ইতালি পাঠানো হবে। গত বছরের ২২ মার্চ রাতে শেষ আমাদের সঙ্গে তাঁর যোগাযোগ হয়।",
+   "দালাল রাশেদ বিভিন্ন সময় আমদের কাছ থেকে ১৮ লাখ টাকা নিয়েছে। একদিকে স্বামীর খোঁজ পাচ্ছি না, অন্যদিকে ঋণের চাপে এলাকায় থাকতে পারছি না।"
+  ]
+ },
+ {
+  "key": "LB1-76",
+  "article_id": "18bf304c-b5cb-425c-a754-21a7e0f676fa",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Riaz Akon said his family gave the broker BDT 20 lakh, raised by selling land and a cattle farm, to send his younger brother to Italy, had had no trace of him for a year, and that the broker gave no information when asked.",
+  "quotes": [
+   "জমি ও গরুর খামার বিক্রি করে ছোট ভাইকে ইতালি পাঠানোর জন্য দালালকে ২০ লাখ টাকা দিই।",
+   "কিন্তু এক বছর ধরে ভাইয়ের সন্ধান পাচ্ছি না।",
+   "রাশেদকে জিজ্ঞেস করলে সে কোনো তথ্য দেয় না।"
+  ]
+ },
+ {
+  "key": "LB1-77",
+  "article_id": "18bf304c-b5cb-425c-a754-21a7e0f676fa",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Relatives of the 24 missing men filed 11 cases against Rashed Khan and his associates in the Shariatpur court and at Palong Model police station; the CID arrested him in Jatrabari, Dhaka, on 14 February 2025 in a case under the trafficking Act filed by the father of a missing man from Kalkini, Madaripur, and a Shariatpur magistrate sent him to jail the next day, fixing a later date to hear the police's remand request and his bail application.",
+  "quotes": [
+   "রাশেদ খান ও তাঁর সহযোগীদের বিরুদ্ধে শরীয়তপুরের আদালত ও সদরের পালং মডেল থানায় ১১টি মামলা করেছেন ভুক্তভোগী ব্যক্তিদের স্বজনেরা।",
+   "শুক্রবার পুলিশের অপরাধ তদন্ত বিভাগ ঢাকার যাত্রাবাড়ী এলাকায় অভিযান চালিয়ে রাশেদ খানকে গ্রেপ্তার করে।",
+   "ইতালি যাওয়ার পথে নিখোঁজ মাদারীপুরের কালকিনি উপজেলার সূর্যমণি এলাকার সাইফুলের বাবা ফারুক পেদার করা মামলায় রাশেদ খান নামে দালাল চক্রের এক সদস্যকে গ্রেপ্তার করেছে পুলিশ।"
+  ]
+ },
+ {
+  "key": "LB1-78",
+  "article_id": "18bf304c-b5cb-425c-a754-21a7e0f676fa",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "On 15 February 2025, on hearing of the arrest, relatives of the missing men began a hunger strike in the grounds of the Shariatpur District and Sessions Judge's court demanding exemplary punishment and the tracing of the missing men.",
+  "quotes": [
+   "দোষী ব্যক্তিদের দৃষ্টান্তমূলক শাস্তি দাবি ও নিখোঁজ ব্যক্তিদের সন্ধান চেয়ে শনিবার দুপুরে শরীয়তপুর জেলা ও দায়রা জজ আদালত চত্বরে অনশনে বসেন স্বজনেরা।"
+  ]
+ },
+ {
+  "key": "LB1-79",
+  "article_id": "246f4782-2d69-4490-a040-47a2391b0ceb",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "BDT 15 lakh, then BDT 30 lakh more: according to his family, Md Rasel Mia (25) of Dharmandal village, Nasirnagar, Brahmanbaria, went to Libya in early 2024 through a broker from his own village for BDT 15 lakh, raised by selling the ancestral homestead and borrowing from relatives; he was sold to a local ring on arrival, which sent videos of his torture to Bangladesh and took a further BDT 30 lakh from the family in rounds.",
+  "quotes": [
+   "পরিবারের শেষ সম্বল পৈতৃক ভিটা বিক্রি করে ও স্বজনদের কাছ থেকে ঋণ নিয়ে মোট ১৫ লাখ টাকা দিয়ে একই গ্রামের দালাল লিলু মিয়ার মাধ্যমে তিনি লিবিয়ায় যান।",
+   "লিবিয়ায় পৌঁছানোর পর তাঁকে স্থানীয় দালাল চক্রের কাছে বিক্রি করে দেওয়া হয়। এরপর শুরু হয় নির্যাতন। দালাল চক্র রাসেলকে নির্যাতন করে ভিডিও বাংলাদেশে পাঠিয়ে পরিবারের কাছ থেকে বিভিন্ন দফায় আরও ৩০ লাখ টাকা হাতিয়ে নেন।",
+   "রাসেলের পরিবারের সঙ্গে কথা বলে জানা গেছে, পাঁচ ভাই–বোনের মধ্যে রাসেল ছিল সবার বড়। ২০২৪ সালের শুরুর দিকে ইতালি যাওয়ার জন্য লিবিয়ায় পাড়ি জমান তিনি।"
+  ]
+ },
+ {
+  "key": "LB1-80",
+  "article_id": "246f4782-2d69-4490-a040-47a2391b0ceb",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "According to Rasel Mia's family, the ring demanded BDT 10 lakh more a few days before his death, and when the family could not pay he was tortured and died in Libya on 21 February 2025; the family learned of the death the next day through an expatriate, and his father, who said he had paid BDT 50 lakh in stages by selling his homestead and farmland, alleged his son was killed with a poisonous injection.",
+  "quotes": [
+   "সর্বশেষ কয়েক দিন আগে আরও ১০ লাখ টাকা দাবি করে চক্রটি; কিন্তু টাকা দিতে না পারায় দালাল চক্রের সদস্যরা তাঁকে নির্যাতন করা শুরু করেন। এতে গতকাল শুক্রবার তাঁর মৃত্যু হয়। আজ দুপুরে এক প্রবাসীর মাধ্যমে স্বজনেরা তাঁর মৃত্যুর সংবাদ জানতে পারেন।",
+   "আমার জীবনের শেষ সম্বল বসতভিটা ও ফসলি জমি বিক্রি কইরা কয়েক ধাপে ৫০ লাখ টাকা দিছি।",
+   "টাকা না দেওয়ায় বিষাক্ত ইনজেকশন দিয়ে ছেলেকে হত্যা করেছে।"
+  ]
+ },
+ {
+  "key": "LB1-81",
+  "article_id": "246f4782-2d69-4490-a040-47a2391b0ceb",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "After Rasel Mia's death the broker from his village fled with his family, Prothom Alo reported on 22 February 2025; the officer-in-charge of Nasirnagar police station said legal steps would be taken if the victim's family gave a written complaint.",
+  "quotes": [
+   "গণমাধ্যমকর্মীরা ধরমণ্ডল গ্রামের দালাল লিলু মিয়ার বাড়িতে গেলেও তাঁকে পাওয়া যায়নি। ঘটনার পর থেকে পরিবার নিয়ে তিনি পলাতক।",
+   "নাসিরনগর থানার ভারপ্রাপ্ত কর্মকর্তা (ওসি) মো. খায়রুল আলম বলেন",
+   "ভুক্তভোগীর পরিবারের কাছ থেকে লিখিত অভিযোগ পেলে এ ব্যাপারে আইনি পদক্ষেপ নেওয়া হবে।"
+  ]
+ },
+ {
+  "key": "LB1-82",
+  "article_id": "729986e7-7ba1-433b-84c0-f0b333fcd04f",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Khurshed Mia (35), a vegetable seller in Bhairab, Kishoreganj, said he first went to Libya on 14 June 2023 for BDT 4 lakh on the understanding that the broker would find him work in Libya until he went on to Italy, and that he got work there as a painter.",
+  "quotes": [
+   "কিশোরগঞ্জের ভৈরব পৌর শহরের কমলপুর এলাকায় সবজি বিক্রি করে ভাতের অভাব দূর করতে পেরেছিলেন খুরশেদ মিয়া (৩৫)।",
+   "সচ্ছল জীবনের আশায় ২০২৩ সালের ১৪ জুন চার লাখ টাকা দিয়ে প্রথমে লিবিয়ায় যান তিনি। কথা ছিল, ইতালিতে যাওয়ার আগপর্যন্ত দালাল লিবিয়ায় কাজ বের করে দেবেন। লিবিয়ায় রংমিস্ত্রির কাজ পান খুরশেদ।"
+  ]
+ },
+ {
+  "key": "LB1-83",
+  "article_id": "729986e7-7ba1-433b-84c0-f0b333fcd04f",
+  "verdict": "partly",
+  "problem": "The article says he got the shopping-mall job 'in exchange for 500 dinars' (৫০০ দিনারের বিনিময়ে) without saying he paid that sum to get it; 'paid 500 dinars to get a job' is an interpretation.",
+  "corrected_claim": "Khurshed Mia said that in Libya, after a month without work, he got a job at a shopping mall 'in exchange for 500 dinars' that was to pay 1,400 dinars at the end of the month but paid him half, and then worked four months at an oil company for 1,200 dinars a month.",
+  "quotes": [
+   "তিনি কর্মহীন ছিলেন এক মাস। পরে ৫০০ দিনারের বিনিময়ে একটি শপিং মলে কাজ জোটে তাঁর। মাস শেষে ১ হাজার ৪০০ দিনার দেওয়ার কথা থাকলেও দেওয়া হয় অর্ধেক।",
+   "প্রতি মাসে ১ হাজার ২০০ দিনার বেতনে সেখানে ছিলেন চার মাস।"
+  ]
+ },
+ {
+  "key": "LB1-84",
+  "article_id": "729986e7-7ba1-433b-84c0-f0b333fcd04f",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Khurshed Mia said that while working in Libya he agreed with a broker to be taken by sea to Italy for BDT 9 lakh and paid BDT 6 lakh in two rounds without reaching Italy; he said the whole attempt cost him BDT 19 lakh, plus several lakh for treatment, and that he had to sell the land his house stood on.",
+  "quotes": [
+   "এর মধ্যে ৯ লাখ টাকার বিনিময়ে লিবিয়া থেকে সাগরপথে ইতালিতে পৌঁছে দেওয়ার কথা হয় এক দালালের সঙ্গে। দুই দফায় ছয় লাখ টাকা দিয়েও ইতালিতে পৌঁছাতে পারেননি তিনি।",
+   "ইতালিতে যাওয়ার জন্য সব মিলিয়ে তাঁর ১৯ লাখ টাকা খরচ হয়েছে। চিকিৎসায়ও খরচ হয়েছে কয়েক লাখ টাকা। বাধ্য হয়ে বসতঘরের জায়গা বিক্রি করে দিতে হয়েছে।"
+  ]
+ },
+ {
+  "key": "LB1-85",
+  "article_id": "729986e7-7ba1-433b-84c0-f0b333fcd04f",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Khurshed Mia said law-enforcement officers raided the fourth-floor flat where 11 of them lived at about 1:30 am on 10 July 2024 and he hid for two hours on the window ledge; later he was kept in a place with 210 other people, where a raid at 10 pm took away 160 while he hid for four hours in a tree.",
+  "quotes": [
+   "গত বছরের ১০ জুলাই রাত দেড়টার দিকে আইনশৃঙ্খলা রক্ষাকারী বাহিনীর সদস্যরা খুরশেদদের বাসায় অভিযান চালান। ভবনটির চতুর্থ তলায় তাঁরা থাকতেন ১১ জন।",
+   "বিপদ বুঝে খুরশেদ জানালার নেট কেটে চারতলা ভবনের কার্নিশে গিয়ে আশ্রয় নেন। দুই ঘণ্টা বসে ছিলেন কার্নিশে।",
+   "সেখানে তাঁর সঙ্গে আরও ২১০ জনকে রাখা হয়। একদিন রাত ১০টায় আবার ওই স্থানে আইনশৃঙ্খলা রক্ষাকারী বাহিনীর সদস্যরা অভিযান চালান।"
+  ]
+ },
+ {
+  "key": "LB1-86",
+  "article_id": "729986e7-7ba1-433b-84c0-f0b333fcd04f",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Khurshed Mia said a mafia group attacked the building the broker had moved him to and he jumped from the first floor to save himself, injuring his arm and leg; he got no treatment for five days, the broker's men moved him from a private hospital to a government hospital because they could not bear the cost, he had five operations in three and a half months there, and he came home on 13 February 2025 unable to walk.",
+  "quotes": [
+   "কিছুদিনের মধ্যে ওই ভবনে মাফিয়া চক্র হামলা চালায়। প্রাণে বাঁচতে এবার খুরশেদ দোতলা থেকে লাফ দিয়ে নিচে পড়েন। এতে তাঁর হাত ও পা ক্ষতিগ্রস্ত হয়।",
+   "পাঁচ দিন পর খুরশেদকে একটি বেসরকারি হাসপাতালে নেওয়া হয়।",
+   "ব্যয়ভার বহন করতে না পেরে দালালের লোকজন খুরশেদকে বেসরকারি হাসপাতাল থেকে সরিয়ে একটি সরকারি হাসপাতালে ভর্তি করেন। সেখানে ছিলেন সাড়ে তিন মাস। এ সময়ে তাঁর পাঁচটি অস্ত্রোপচার হয়।"
+  ]
+ },
+ {
+  "key": "LB1-87",
+  "article_id": "755a8ab9-0d8d-40e3-98d2-8c59dbca2591",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "A Prothom Alo editorial of 1 April 2026 said the family of Shayek Ahmed (23) of Sunamganj gave brokers BDT 12 lakh by selling their cows and land, that the rubber boat he left on from Libya for Greece on 21 March lost its way and drifted for six days, that he died of starvation when the food ran out, and that 12 young men from Sunamganj died on that journey and their bodies were thrown into the sea.",
+  "quotes": [
+   "সুনামগঞ্জের এই তরুণকে তাঁর দরিদ্র পরিবার নিজেদের শেষ সম্বল গরু, জমি বিক্রি করে ১২ লাখ টাকা দালালদের হাতে দিয়েছিল।",
+   "গত ২১ মার্চ রওনা দেওয়া রাবারের নৌকাটি ভূমধ্যসাগরে পথ হারিয়ে ছয় দিন ভেসে ছিল। খাবার ফুরিয়ে যাওয়ায় অনাহারে তাঁর মৃত্যু হয়।",
+   "এই যাত্রায় শুধু এই তরুণ নন, সুনামগঞ্জেরই ১২ তরুণের মৃত্যু হয়েছে। তাঁদের লাশগুলো সমুদ্রে ফেলে দেওয়া হয়েছে।"
+  ]
+ },
+ {
+  "key": "LB1-88",
+  "article_id": "755a8ab9-0d8d-40e3-98d2-8c59dbca2591",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "According to CID information cited in a Prothom Alo editorial of 1 April 2026, 17,000 Bangladeshis were sent to Italy by illegal routes in the previous year.",
+  "quotes": [
+   "পুলিশের অপরাধ তদন্ত বিভাগের (সিআইডি) তথ্যই বলছে, বহুস্তরের এই মানব পাচার চক্র কতটা মুক্তভাবে তাদের অপরাধের জাল বিস্তার করেছে। গত এক বছরে অবৈধ পথে ১৭ হাজার বাংলাদেশিকে ইতালিতে পাঠানো হয়েছে।"
+  ]
+ },
+ {
+  "key": "LB1-89",
+  "article_id": "755a8ab9-0d8d-40e3-98d2-8c59dbca2591",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "According to Home Ministry data cited in a Prothom Alo editorial of 1 April 2026, about 4,500 cases were filed under the trafficking Act in the five years 2020 to 2024, and 94 to 95 per cent of the accused in them were acquitted; the editorial added that in most incidents no case is filed at all.",
+  "quotes": [
+   "বেশির ভাগ ক্ষেত্রেই মামলা হয় না",
+   "স্বরাষ্ট্র মন্ত্রণালয়ের তথ্য বলছে, ২০২০ থেকে ২০২৪—এই পাঁচ বছরে মানব পাচার প্রতিরোধ ও দমন আইনে প্রায় সাড়ে চার হাজার মামলা হলেও এসব মামলায় ৯৪–৯৫ শতাংশ আসামিই খালাস পেয়ে যান।"
+  ]
+ },
+ {
+  "key": "LB1-90",
+  "article_id": "aef1b5a3-5115-4f49-a1ae-33a7674b62f4",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Speakers at a roundtable held by BRAC and Prothom Alo in Sylhet on 18 April 2026 said there is no legal way to go abroad by sea and that no one can lawfully leave Bangladesh for work abroad except through the Dhaka, Chattogram and Sylhet airports.",
+  "quotes": [
+   "সমুদ্রপথে বৈধভাবে বিদেশে যাওয়ার কোনো সুযোগ নেই।",
+   "মনে রাখতে হবে, দেশের ঢাকা, চট্টগ্রাম ও সিলেট বিমানবন্দর ছাড়া বৈধভাবে প্রবাসে যাওয়ার সুযোগ নেই।",
+   "গতকাল শনিবার ইউরোপীয় ইউনিয়নের সহযোগিতায় প্রথম আলো ও ব্র্যাকের যৌথ উদ্যোগে আয়োজিত এক গোলটেবিল বৈঠকে বক্তারা এ কথা বলেন।"
+  ]
+ },
+ {
+  "key": "LB1-91",
+  "article_id": "aef1b5a3-5115-4f49-a1ae-33a7674b62f4",
+  "verdict": "partly",
+  "problem": "The article is inconsistent on his time in the UK: it introduces him as returning after 10 years there but then says he was there about eight years; the claim gives only ten years.",
+  "corrected_claim": "Shahriar Zaman, a returnee from the United Kingdom (introduced as having stayed 10 years, though the article also says he was there about eight years), told a roundtable in Sylhet on 18 April 2026 that he went there to study through brokers who said he could work legally alongside his studies, that he found nothing of the kind and had to work illegally, and that he was paid GBP 1 an hour where others got GBP 8.",
+  "quotes": [
+   "১০ বছর যুক্তরাজ্যে অবস্থান করে ফেরা শাহরিয়ার জামান বলেন, তিনি দালালের মাধ্যমে যুক্তরাজ্যে পড়াশোনার জন্য গিয়েছিলেন। সেখানে প্রায় আট বছর ছিলেন।",
+   "প্রথমে দালালেরা পড়াশোনার পাশাপাশি বৈধভাবে কাজ করার সুযোগ দেওয়ার কথা জানালেও সেখানে গিয়ে তেমন কিছু মেলেনি। অবৈধভাবে কাজ করতে হয়েছে।",
+   "যেখানে অন্যরা ঘণ্টায় আট পাউন্ড পেতেন, সেখানে তাঁকে ঘণ্টায় এক পাউন্ডে কাজ করতে হয়েছে।"
+  ]
+ },
+ {
+  "key": "LB1-92",
+  "article_id": "aef1b5a3-5115-4f49-a1ae-33a7674b62f4",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Joni Lal Deb, Assistant Superintendent of Police with 7 APBn (Armed Police Battalion) at Sylhet's Osmani International Airport, said on 18 April 2026 that an active group of human traffickers and smugglers operates in the airport area and tries to mislead ordinary passengers with various inducements.",
+  "quotes": [
+   "সিলেট ওসমানী আন্তর্জাতিক বিমানবন্দরে দায়িত্ব পালন করা ৭ এপিবিএনের সহকারী পুলিশ সুপার জনি লাল দেব বলেন, বিমানবন্দর–সংশ্লিষ্ট এলাকায় মানব পাচারকারী ও চোরাচালানিদের একটি সক্রিয় গোষ্ঠী রয়েছে, যারা সাধারণ যাত্রীদের নানা ধরনের প্রলোভন দেখিয়ে ভুল পথে পরিচালিত করার চেষ্টা করে।"
+  ]
+ },
+ {
+  "key": "LB1-93",
+  "article_id": "da1ed7da-9ca2-4c1e-b285-d70115229886",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "According to an account by Bangladesh's ambassador to Libya, Major General Habib Ullah, quoted by former foreign affairs adviser Md Touhid Hossain in Prothom Alo on 27 April 2026, among 113 irregular migrants sent home from Libya one had paid brokers and mafia BDT 82 lakh in stages and another BDT 73 lakh, and when asked how many had paid a broker more than BDT 20 lakh, over fifty of the 113 raised their hands.",
+  "quotes": [
+   "মেজর জেনারেল হাবিব উল্লাহ লিবিয়ায় বাংলাদেশের রাষ্ট্রদূত।",
+   "জানা গেল, একজন ধাপে ধাপে বিরাশি লাখ টাকা দিয়েছেন দালাল-মাফিয়াদের। একজন পাওয়া গেল তিয়াত্তর লাখ টাকা দেওয়া শেষ।",
+   "কতজন বিশ লাখের ওপরে টাকা দিয়েছে দালালকে?’—এ প্রশ্নে ১১৩ জনের মধ্যে অর্ধশতাধিক লোক হাত তুলেছে।"
+  ]
+ },
+ {
+  "key": "LB1-94",
+  "article_id": "da1ed7da-9ca2-4c1e-b285-d70115229886",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "By the ambassador's account, about two-thirds of the 113 returnees on that flight identified themselves as from Madaripur.",
+  "quotes": [
+   "ততক্ষণে জমায়েতের প্রায় দুই–তৃতীয়াংশ ‘মাদারীপুরবাসী’ হিসেবে জানান দিলেন নিজেদের উপস্থিতি।"
+  ]
+ },
+ {
+  "key": "LB1-95",
+  "article_id": "da1ed7da-9ca2-4c1e-b285-d70115229886",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Returnees told the ambassador to Libya before their flight home in spring 2026 that one had eaten rice once after twenty days, five men sharing one bowl with no curry, that another got a handful after twenty-five days, and that a piece of bread was thrown at them 'the way food is given to a dog' and they were beaten as well.",
+  "quotes": [
+   "‘স্যার, বিশ দিন পরে ভাত খাইছি এক দিন; পাঁচজনে মিল্যা এক বাটি। তরকারি ছাড়া। ওই ভাই খাইছে পঁচিশ দিন পরে, এক মুঠ।’",
+   "—স্যার, ঢিল মাইরা খবজা দেয় একটা, কুত্তারে খাবার দেওনের মতো। আবার মারেও।"
+  ]
+ },
+ {
+  "key": "LB1-96",
+  "article_id": "da1ed7da-9ca2-4c1e-b285-d70115229886",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "One of the 113 returnees told the ambassador he had lived in Libya for 14 years before deciding, in old age, to try the 'game' (the boat crossing to Italy).",
+  "quotes": [
+   "—ইতালি পাট্টির গরমে থাকা যায় না। এই জন্য বুড়া বয়সে একটা ভুল কইরা ফালাইছি ‘গেম দিতে’ যাইয়া। ১৪ বছর ধইরা আছি লিবিয়া, কী মনে হইলো, গেলাম গিয়া।"
+  ]
+ },
+ {
+  "key": "LB1-97",
+  "article_id": "da1ed7da-9ca2-4c1e-b285-d70115229886",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The 113 migrants reached Dhaka the next day, and IOM paid the whole cost from the airfare to their travel back to their own villages, Md Touhid Hossain wrote in Prothom Alo on 27 April 2026; they went home with nothing.",
+  "quotes": [
+   "পরদিন ওই ১১৩ জন অভিবাসী ঢাকায় পৌঁছান। তাঁদের বিমানভাড়া থেকে শুরু করে নিজ নিজ গ্রামে ফেরার পুরো খরচই দিয়েছে আন্তর্জাতিক সংস্থা ‘আইওএম’।",
+   "একেবারে শূন্য হাতে পরিবারের কাছে ফিরে যান এই মানুষগুলো।"
+  ]
+ },
+ {
+  "key": "LB1-98",
+  "article_id": "da1ed7da-9ca2-4c1e-b285-d70115229886",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "On 4 April 2026 a wooden boat that left Tajoura, Libya, for the Italian island of Lampedusa with about 105 passengers sank; 32 people were rescued alive and 2 bodies recovered, the other 71 were missing, and Bangladeshis were among both the rescued and the missing, Md Touhid Hossain wrote in Prothom Alo on 27 April 2026.",
+  "quotes": [
+   "এদিকে ৪ এপ্রিল লিবিয়ার তাজোরা থেকে প্রায় ১০৫ জন যাত্রী নিয়ে ইতালির লেম্পেদুসা দ্বীপের উদ্দেশে রওনা দেওয়া একটি কাঠের নৌকা সাগরে ডুবে যায়। পরে সেখান থেকে ৩২ জনকে জীবিত এবং ২ জনের মৃতদেহ উদ্ধার করা হয়। বাকি ৭১ জন নিখোঁজ;",
+   "উদ্ধার হওয়া এবং নিখোঁজ হওয়া এই যাত্রীদের মধ্যে বাংলাদেশিরাও আছেন।"
+  ]
+ },
+ {
+  "key": "LB1-99",
+  "article_id": "da1ed7da-9ca2-4c1e-b285-d70115229886",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Md Touhid Hossain wrote in Prothom Alo on 27 April 2026 that a boat that left Libya for Greece on 21 March 2026 with 48 passengers drifted for six days before 26 people were rescued alive, 21 of them Bangladeshis, and that 20 of the 22 dead or missing were reported to be Bangladeshi.",
+  "quotes": [
+   "এর আগে গত ২১ মার্চ লিবিয়া থেকে ৪৮ জন যাত্রী নিয়ে গ্রিসের দিকে আরেকটি নৌকা রওনা দিয়েছিল। ছয় দিন সাগরে ভেসে থাকার পর সেখান থেকে ২৬ জনকে জীবিত উদ্ধার করা হয়, যাঁদের মধ্যে ২১ জনই বাংলাদেশি।",
+   "ওই ঘটনায় মৃত বা নিখোঁজ ২২ জনের মধ্যে ২০ জন বাংলাদেশি বলে জানা গেছে।"
+  ]
+ },
+ {
+  "key": "LB1-100",
+  "article_id": "da1ed7da-9ca2-4c1e-b285-d70115229886",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Md Touhid Hossain, the former foreign affairs adviser, wrote in April 2026 that because surveillance and restrictions on the route to Italy had recently increased, traffickers were now using the Greece route.",
+  "quotes": [
+   "সম্প্রতি ইতালির পথে নজরদারি ও কড়াকড়ি বাড়ায় মানব পাচারকারীরা এখন গ্রিস রুট ব্যবহার করছে।",
+   "মো. তৌহিদ হোসেন সাবেক অন্তর্বর্তী সরকারের পররাষ্ট্রবিষয়ক উপদেষ্টা"
+  ]
+ },
+ {
+  "key": "LB1-101",
+  "article_id": "da1ed7da-9ca2-4c1e-b285-d70115229886",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Md Touhid Hossain wrote that the main route to Italy by sea used to be a flight to Kenya, then overland to Libya, then the boat, and that a person boards the plane to Kenya on a false story of a safari or tourism; along the way people change hands several times like goods.",
+  "quotes": [
+   "সমুদ্রপথে ইতালি যাওয়ার মূল রুটটি ছিল—প্রথমে বিমানে কেনিয়া, এরপর স্থলপথে লিবিয়া হয়ে সেখান থেকে নৌকায় ওঠা।",
+   "এই দীর্ঘ যাত্রাপথে পাচার হওয়া মানুষগুলো পণ্যের মতো কয়েক দফায় হাতবদল হন",
+   "একজন ভিকটিম যখন সাফারি বা পর্যটনের ভুয়া কথা বলে কেনিয়া যাওয়ার জন্য বিমানে ওঠেন"
+  ]
+ },
+ {
+  "key": "LB1-102",
+  "article_id": "da1ed7da-9ca2-4c1e-b285-d70115229886",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Md Touhid Hossain wrote that many Bengalis are among those who torture the hostages in Libya, and that the people who collect ransom from families in Bangladesh by showing torture videos live undisturbed in the same society.",
+  "quotes": [
+   "লিবিয়ায় জিম্মি এসব মানুষের ওপর যারা নির্যাতন চালায়, তাদের মধ্যে অনেক বাঙালিও জড়িত।",
+   "নির্যাতনের ভিডিও দেখিয়ে দেশে পরিবারের কাছ থেকে যারা মুক্তিপণ আদায় করে, তারা এই সমাজেই নির্বিঘ্নে বাস করছে।"
+  ]
+ },
+ {
+  "key": "LB1-103",
+  "article_id": "c9a1d235-b7f2-4b38-8853-7680aa43b9ab",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The Minister for Expatriates' Welfare and Overseas Employment, Ariful Haque Chowdhury, said at a roundtable in Sylhet on 18 April 2026 that the government is building a system to stop people being cheated by paying brokers, and plans, in discussion with the Bangladesh Bank governor, to introduce a 'Probashi card' so that migrants are served through a set system instead of cash transactions.",
+  "quotes": [
+   "দালালদের টাকা দিয়ে প্রতারিত হওয়া থেকে বাঁচাতে সরকার একটি সিস্টেম তৈরির কাজ করছে। বাংলাদেশ ব্যাংকের গভর্নরের সঙ্গে আলোচনার মাধ্যমে ‘প্রবাসী কার্ড’ প্রবর্তনের পরিকল্পনা রয়েছে, যাতে ক্যাশ লেনদেনের বদলে একটি নির্দিষ্ট সিস্টেমের মাধ্যমে প্রবাসীরা সহায়তা পেতে পারেন।",
+   "গোলটেবিল বৈঠক অনুষ্ঠিত হয় গত ১৮ এপ্রিল ২০২৬ সিলেটের একটি অভিজাত হোটেলে।"
+  ]
+ },
+ {
+  "key": "LB1-104",
+  "article_id": "c9a1d235-b7f2-4b38-8853-7680aa43b9ab",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The Minister for Expatriates' Welfare said on 18 April 2026 that the government had declared zero tolerance of the 'mafia syndicate' at home and abroad and was determined to identify the Bangladeshi members of trafficking rings in Libya and elsewhere, bring them back and try them.",
+  "quotes": [
+   "আমরা জানি দেশে–বিদেশে একটি শক্তিশালী মাফিয়া সিন্ডিকেট বা চক্র গড়ে উঠেছে, যারা সাধারণ মানুষকে প্রতারণার জালে ফেলছে। বর্তমান সরকার এই সিন্ডিকেটের বিরুদ্ধে জিরো টলারেন্স নীতি ঘোষণা করেছে।",
+   "লিবিয়াসহ বিশ্বের যেকোনো প্রান্তের মানব পাচারকারী চক্রের বাংলাদেশি সদস্যদের চিহ্নিত করে দেশে ফিরিয়ে আনা এবং তাঁদের বিচার করতে আমরা বদ্ধপরিকর।"
+  ]
+ },
+ {
+  "key": "LB1-105",
+  "article_id": "c9a1d235-b7f2-4b38-8853-7680aa43b9ab",
+  "verdict": "partly",
+  "problem": "The final clause about a separate news report naming Kishoreganj is not in this article (it comes from a different article); in this article he names Madaripur, Shariatpur, Sylhet, Sunamganj and Habiganj only.",
+  "corrected_claim": "Shariful Islam Hasan, associate director of BRAC's Migration Programme, said on 18 April 2026 that Bangladeshis are the largest group in the world crossing the Mediterranean to Europe, a situation that has lasted a decade, and that people from 8 to 10 districts, among them Madaripur, Shariatpur, Sylhet, Sunamganj and Habiganj, are losing their lives going this way.",
+  "quotes": [
+   "সারা বিশ্বের মধ্যে বাংলাদেশের মানুষ সবচেয়ে বেশি ভূমধ্যসাগর পাড়ি দিয়ে ইউরোপে যান। এই প্রথম হওয়া গৌরবের নয়, লজ্জার। এক দশক ধরে এই পরিস্থিতি চলছে।",
+   "মাদারীপুর, শরীয়তপুর, সিলেট, সুনামগঞ্জ, হবিগঞ্জসহ ৮-১০টি জেলার মানুষ এভাবে বিদেশ যেতে গিয়ে প্রাণ হারাচ্ছেন।"
+  ]
+ },
+ {
+  "key": "LB1-106",
+  "article_id": "c9a1d235-b7f2-4b38-8853-7680aa43b9ab",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Shariful Islam Hasan of BRAC's Migration Programme said on 18 April 2026 that the programme had helped about 39,000 people at the airport in the previous eight years, and gives returnees reintegration support and training, followed by counselling and help to set up as entrepreneurs.",
+  "quotes": [
+   "ফেরত আসাদের পুনরেকত্রীকরণ সহায়তা ও প্রশিক্ষণ দেওয়া হচ্ছে, গত আট বছরে বিমানবন্দরে প্রায় ৩৯ হাজার মানুষকে সহায়তা দেওয়া হয়েছে। পরবর্তী সময়ে তাদের কাউন্সেলিং ও উদ্যোক্তা হিসেবে প্রতিষ্ঠিত করার চেষ্টা চলছে।"
+  ]
+ },
+ {
+  "key": "LB1-107",
+  "article_id": "c9a1d235-b7f2-4b38-8853-7680aa43b9ab",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Roksana Akter of Bishwanath, Sylhet, said on 18 April 2026 that she went to Saudi Arabia through a broker from Sunamganj, was abused in various ways at her workplace and had to borrow to come home, where she faced insult and neglect; she said the EU and BRAC's Prottasha-2 project then helped her set up a shop, whose income now runs her household.",
+  "quotes": [
+   "আমি সিলেট জেলার বিশ্বনাথ থানার বাসিন্দা। সুনামগঞ্জের এক দালালের মাধ্যমে আমি সৌদি আরবে গিয়েছিলাম। সেখানে কষ্ট করে কিছু অর্থ উপার্জন করি, কিন্তু কাজের জায়গায় নানা ধরনের নির্যাতনের শিকার হই। একপর্যায়ে ঋণ করে দেশে ফিরে আসতে বাধ্য হই।",
+   "দেশে ফিরে এসে সামাজিকভাবে আমি অপমান ও অবহেলার মুখে পড়ি।",
+   "এ অবস্থায় ইউরোপীয় ইউনিয়ন ও ব্র্যাকের প্রত্যাশা-২ প্রকল্প আমার পাশে এসে দাঁড়ায়। তাদের সহযোগিতায় আমি একটি দোকান করতে সক্ষম হই। দোকানের আয় দিয়ে আমি এখন আমার সংসার ভালোভাবে চালাতে পারছি।"
+  ]
+ },
+ {
+  "key": "LB1-108",
+  "article_id": "c9a1d235-b7f2-4b38-8853-7680aa43b9ab",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Joni Lal Deb, Assistant Superintendent of Police with 7 APBn at Osmani International Airport, Sylhet, said on 18 April 2026 that various rings use people going abroad for the first time as easy targets, especially to draw them into carrying drugs or smuggled goods, and that many do not realise they are becoming part of a crime ring.",
+  "quotes": [
+   "আরেকটি উদ্বেগের বিষয় হলো, প্রথমবার বিদেশে যাওয়া অনেক মানুষকে বিভিন্ন চক্র সহজ লক্ষ্য হিসেবে ব্যবহার করে, বিশেষ করে মাদকদ্রব্য বা চোরাচালানের কাজে জড়িয়ে ফেলার চেষ্টা করা হয়। অনেক সময় তাঁরা বুঝতেও পারেন না যে তাঁরা একটি অপরাধ চক্রের অংশ হয়ে যাচ্ছেন।"
+  ]
+ },
+ {
+  "key": "LB1-109",
+  "article_id": "c9a1d235-b7f2-4b38-8853-7680aa43b9ab",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The same officer said the armed police unit at Sylhet's Osmani airport should have more than three hundred members but has about one hundred, and that intelligence and plain-clothes members work the airport to stop anyone luring passengers.",
+  "quotes": [
+   "এখানে তিন শ জনের বেশি সদস্য থাকার কথা থাকলেও আমরা আছি প্রায় এক শ জনের মতো।",
+   "আমাদের গোয়েন্দা বাহিনী এবং সাধারণ পোশাকে দায়িত্বপ্রাপ্ত সদস্যরা মাঠে সক্রিয় রয়েছেন, যাতে কেউ যাত্রীদের ভুল পথে প্রলুব্ধ করতে না পারে"
+  ]
+ },
+ {
+  "key": "LB1-110",
+  "article_id": "c9a1d235-b7f2-4b38-8853-7680aa43b9ab",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Md Nazmus Sakib, assistant director of the District Employment and Manpower Office in Sylhet, said on 18 April 2026 that about 2,900 licensed agencies send workers abroad but all are Dhaka-centred, that only a few agencies work directly in Sylhet and the rest work as brokers under the cover of travel agencies, and that money beyond the set limit is being taken as a result.",
+  "quotes": [
+   "প্রায় ২ হাজার ৯০০ লাইসেন্সধারী এজেন্সি বিদেশে কর্মী পাঠায়; কিন্তু সবাই ঢাকাকেন্দ্রিক।",
+   "সিলেটে মাত্র কয়েকটি এজেন্সি সরাসরি কাজ করে, বাকিগুলো ট্রাভেল এজেন্সির আড়ালে দালাল হিসেবে কাজ করছে। এতে নির্ধারিত সীমার বাইরে অতিরিক্ত অর্থ নেওয়ার ঘটনা ঘটছে।"
+  ]
+ },
+ {
+  "key": "LB1-111",
+  "article_id": "c9a1d235-b7f2-4b38-8853-7680aa43b9ab",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Mohammad Nasir Uddin, general secretary of the Sylhet District Press Club, said on 18 April 2026 that Sylhet has over 150 licensed travel agencies but more than 500 agencies are in fact active illegally, taking BDT 8 lakh to 20 lakh to send people abroad (he gave no source for the figures).",
+  "quotes": [
+   "সিলেটে দেড় শতাধিক ট্রাভেল এজেন্সি লাইসেন্সধারী হলেও বাস্তবে পাঁচ শতাধিক এজেন্সি অবৈধভাবে সক্রিয়, যারা ৮ থেকে ২০ লাখ টাকা পর্যন্ত নিয়ে মানুষকে বিদেশে পাঠাচ্ছে।"
+  ]
+ },
+ {
+  "key": "LB1-112",
+  "article_id": "c9a1d235-b7f2-4b38-8853-7680aa43b9ab",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The assistant director of Sylhet's District Employment and Manpower Office said on 18 April 2026 that the office gives people who want to go abroad through the government channel registration, fingerprinting and a three-day pre-decision training covering legal migration, avoiding brokers and safety, that many people fall in with brokers before the training, and that the office completed registration and biometrics for 35,290 people in 2025 and 6,290 up to March 2026.",
+  "quotes": [
+   "আমাদের অফিসে সরকারি মাধ্যমে বিদেশ যেতে আগ্রহীদের নিবন্ধন, আঙুলের ছাপ ও তিন দিনের প্রাক্-সিদ্ধান্ত গ্রহণ প্রশিক্ষণ দেওয়া হয়। এখানে বৈধ অভিবাসন, দালাল এড়িয়ে চলা ও নিরাপত্তা বিষয়ে ধারণা দেওয়া হয়। বাস্তবে অনেকেই প্রশিক্ষণের আগেই দালাল চক্রে পড়ে।",
+   "২০২৫ সালে আমরা ৩৫ হাজার ২৯০ জন এবং ২০২৬ সালের মার্চ পর্যন্ত ৬ হাজার ২৯০ জনের নিবন্ধন ও বায়োমেট্রিক সম্পন্ন করেছি।"
+  ]
+ },
+ {
+  "key": "LB1-113",
+  "article_id": "c9a1d235-b7f2-4b38-8853-7680aa43b9ab",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Md Salah Uddin, deputy director of the Divisional Passport and Visa Office in Sylhet, said on 18 April 2026 that the regular-service passport fee is BDT 4,025 for five years and BDT 5,750 for ten years and the super-express fee is BDT 10,350, and that with super-express service a person who completes biometrics in the morning can get the passport in Dhaka by the afternoon.",
+  "quotes": [
+   "অতি জরুরি সেবায় আজ সকালে বায়োমেট্রিক সম্পন্ন করলে বিকেলের মধ্যেই ঢাকায় পাসপোর্ট পাওয়া সম্ভব। সাধারণ সেবার ফি পাঁচ বছরের জন্য ৪ হাজার ২৫ টাকা, ১০ বছরের জন্য ৫ হাজার ৭৫০ টাকা; আর অতি জরুরি সেবার ফি ১০ হাজার ৩৫০ টাকা।"
+  ]
+ },
+ {
+  "key": "LB1-114",
+  "article_id": "c9a1d235-b7f2-4b38-8853-7680aa43b9ab",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The same passport official said a person aged 18 or over can apply with a national ID card and a person under 18 with a birth registration, paying the set fee at a bank and giving fingerprints.",
+  "quotes": [
+   "জাতীয় পরিচয়পত্র থাকলে এবং বয়স ১৮ বছর বা তার বেশি হলে; আর ১৮ বছরের নিচে হলে জন্মনিবন্ধন থাকলে সহজেই আবেদন করা যায়। নির্ধারিত ফি ব্যাংকে জমা দিয়ে আঙুলের ছাপসহ প্রক্রিয়া সম্পন্ন করলে দ্রুত পাসপোর্ট পাওয়া যায়।"
+  ]
+ },
+ {
+  "key": "LB1-115",
+  "article_id": "c9a1d235-b7f2-4b38-8853-7680aa43b9ab",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Zakir Hossain, senior instructor at the Sylhet government Technical Training Centre, said on 18 April 2026 that the centre runs regular Japanese, Italian, Korean and Arabic language courses and, with International Labour Organization support, level-three training in electrical installation and maintenance and in food preparation that combines language with the trade, with a possibility of work in Italy after the training.",
+  "quotes": [
+   "আমাদের কেন্দ্রে ইতিমধ্যে জাপানি, ইতালীয়, কোরিয়ান ও আরবি ভাষার কোর্স চালু আছে এবং নিয়মিত চলছে। পাশাপাশি আন্তর্জাতিক শ্রম সংস্থার সহায়তায় কিছু প্রশিক্ষণ কর্মসূচি পরিচালিত হচ্ছে।",
+   "এর আওতায় ইলেকট্রিক্যাল ইনস্টলেশন অ্যান্ড মেইনটেন্যান্স এবং খাদ্য প্রস্তুতসংক্রান্ত তৃতীয় স্তরের প্রশিক্ষণ দেওয়া হচ্ছে। এসব কোর্সে ভাষাশিক্ষার সঙ্গে কারিগরি দক্ষতাও যুক্ত করা হয়েছে। প্রশিক্ষণ শেষে ইতালিতে কাজের সুযোগ তৈরির সম্ভাবনাও রয়েছে।"
+  ]
+ },
+ {
+  "key": "LB1-116",
+  "article_id": "c9a1d235-b7f2-4b38-8853-7680aa43b9ab",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The Sylhet TTC instructor said that many of the people who most need the training do not come, that college and university students with no immediate need to go abroad come instead, and that in the centre's experience about 99 per cent of people go abroad without acquiring any skill.",
+  "quotes": [
+   "বড় সমস্যা হলো যাঁদের এই প্রশিক্ষণ সবচেয়ে বেশি প্রয়োজন, তাঁরা অনেকেই আসেন না; বরং কলেজ বা বিশ্ববিদ্যালয়ে পড়া এমন শিক্ষার্থীরাই বেশি আসেন, যাদের তাৎক্ষণিকভাবে বিদেশে যাওয়ার প্রয়োজন নেই।",
+   "আমাদের অভিজ্ঞতায় দেখা যায়, প্রায় ৯৯ শতাংশ মানুষ কোনো দক্ষতা অর্জন না করেই বিদেশে পাড়ি দিচ্ছেন।"
+  ]
+ },
+ {
+  "key": "LB1-117",
+  "article_id": "c9a1d235-b7f2-4b38-8853-7680aa43b9ab",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Mahbubul Mannan Chowdhury, acting regional head of Probashi Kallyan Bank (PKB, the state bank for migrants) in Sylhet, said on 18 April 2026 that by the ministry's list going abroad through the government channel costs about BDT 1 lakh 60 to 70 thousand, but that most people in practice spend more than BDT 4 to 5 lakh, and that agencies' profit reaching BDT 2.5 to 3 lakh cannot be justified.",
+  "quotes": [
+   "প্রবাসীকল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়ের তালিকা অনুযায়ী সরকারি মাধ্যমে বিদেশে যেতে প্রায় ১ লাখ ৬০ থেকে ৭০ হাজার টাকা লাগে। কিন্তু বাস্তবে দেখা যায়, অধিকাংশ মানুষ চার থেকে পাঁচ লাখ টাকার বেশি খরচ করে বিদেশ যাচ্ছেন।",
+   "এজেন্সিগুলোও কিছুটা লাভ করতে পারে, তবে সেই লাভ যদি আড়াই থেকে তিন লাখ টাকা পর্যন্ত পৌঁছে যায়, তা কোনোভাবেই যুক্তিযুক্ত নয়।"
+  ]
+ },
+ {
+  "key": "LB1-118",
+  "article_id": "c9a1d235-b7f2-4b38-8853-7680aa43b9ab",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The PKB acting regional head in Sylhet said on 18 April 2026 that many people come to the bank and have to take loans of BDT 3 to 4 lakh, with a monthly instalment of about BDT 14,000, and that many take four to five months or longer to get work after going abroad, during which the loan weighs on them more.",
+  "quotes": [
+   "এই বাস্তবতায় অনেকে আমাদের কাছে এসে ৩ থেকে ৪ লাখ টাকার ঋণ নিতে বাধ্য হন, যার মাসিক কিস্তি প্রায় ১৪ হাজার টাকার মতো দাঁড়ায়। বিদেশে গিয়ে অনেকেরই কাজ পেতে চার থেকে পাঁচ মাস বা তারও বেশি সময় লেগে যায়।"
+  ]
+ },
+ {
+  "key": "LB1-119",
+  "article_id": "c9a1d235-b7f2-4b38-8853-7680aa43b9ab",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The PKB acting regional head in Sylhet said on 18 April 2026 that the bank tries to help returnees who come back having suffered losses with loans at 8 per cent interest, but that in many cases this is not succeeding.",
+  "quotes": [
+   "পরে ক্ষতিগ্রস্ত হয়ে দেশে ফিরে এসে তাঁরা পুনর্বাসনের চেষ্টা করেন, যেখানে আরও জটিলতা দেখা দেয়। আমরা বিভিন্ন সময় ৮ শতাংশ সুদের ঋণের মাধ্যমে কিছু সহায়তা দেওয়ার চেষ্টা করলেও অনেক ক্ষেত্রেই তা সফল হচ্ছে না।"
+  ]
+ },
+ {
+  "key": "LB1-120",
+  "article_id": "c9a1d235-b7f2-4b38-8853-7680aa43b9ab",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The director of Osmani International Airport, Sylhet, said on 18 April 2026 that many of the victims heard at that day's roundtable had spent BDT 10 to 15 lakh, and up to BDT 20 lakh, to go abroad.",
+  "quotes": [
+   "আজ আমরা যেসব ভুক্তভোগীর কথা শুনেছি, তাদের অনেকেই বিদেশে যাওয়ার জন্য ১০ থেকে ১৫ লাখ টাকা, এমনকি ২০ লাখ টাকা পর্যন্ত ব্যয় করেছেন।"
+  ]
+ },
+ {
+  "key": "LB1-121",
+  "article_id": "c9a1d235-b7f2-4b38-8853-7680aa43b9ab",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The general secretary of the Sylhet District Press Club said on 18 April 2026 that over the previous 10 years at least 10,000 people had died or gone missing, more than two and a half lakh had been trafficked abroad by illegal routes and at least 15,000 had been jailed in various countries (he gave no source).",
+  "quotes": [
+   "গত ১০ বছরের একটি চিত্র তুলে ধরলে দেখা যায়, অন্তত ১০ হাজার মানুষ নিহত বা নিখোঁজ হয়েছেন, আড়াই লাখের বেশি মানুষ অবৈধ পথে পাচার হয়ে বিদেশে গেছেন এবং অন্তত ১৫ হাজার মানুষ পৃথিবীর বিভিন্ন দেশে বন্দী হয়েছেন।"
+  ]
+ },
+ {
+  "key": "LB1-122",
+  "article_id": "c9a1d235-b7f2-4b38-8853-7680aa43b9ab",
+  "verdict": "partly",
+  "problem": "The article says he is from Simtola village, Chhatak upazila, but does not name Sunamganj district.",
+  "corrected_claim": "Sujan Mia of Simtola village, Chhatak upazila, said on 18 April 2026 that he first went from Bangladesh to Oman for construction work, moved to Dubai after a problem with his iqama (residence permit) and then worked in Qatar, and later returned to Dubai to head for Europe, going through Oman to Iran, Turkey, Greece, North Macedonia and Serbia, working illegally to survive.",
+  "quotes": [
+   "আমি ছাতক উপজেলার সীমতলা গ্রামের বাসিন্দা। জীবিকার তাগিদে প্রথমে বাংলাদেশ থেকে ওমানে গিয়ে বিল্ডিং কনস্ট্রাকশনের কাজ করি। সেখানে কিছুদিন পর আকামা নিয়ে সমস্যার কারণে দুবাই চলে যাই, এরপর কাতারে গিয়ে কাজ করি।",
+   "পরে ইউরোপে যাওয়ার উদ্দেশ্যে আবার দুবাই ফিরে আসি। আবার ওমান হয়ে ইরান, তুরস্ক, গ্রিস, নর্থ মেসিডোনিয়া ও সার্বিয়া যাই। নানা দেশে টিকে থাকতে অবৈধভাবে কাজ করি।"
+  ]
+ },
+ {
+  "key": "LB1-123",
+  "article_id": "c9a1d235-b7f2-4b38-8853-7680aa43b9ab",
+  "verdict": "partly",
+  "problem": "He did not say he found no legal work 'in Serbia' specifically; he said that, working illegally in various countries and finding no chance of legal work, he went back to Greece.",
+  "corrected_claim": "Sujan Mia said that, finding no chance of legal work in the countries he passed through, he went back to Greece and from there travelled through Bulgaria, Albania and Bosnia and across Italy to France, where he worked about four years and eight months and tried to regularise; though he paid tax and completed the process, he was caught before he got legal papers and came back to Bangladesh.",
+  "quotes": [
+   "নানা দেশে টিকে থাকতে অবৈধভাবে কাজ করি। বৈধ কাজের সুযোগ না পেয়ে আবার গ্রিসে ফিরে আসি। এরপর গ্রিস থেকে বুলগেরিয়া, আলবেনিয়া, বসনিয়া হয়ে ইতালি পেরিয়ে ফ্রান্সে পৌঁছাই।",
+   "ফ্রান্সে আমি প্রায় চার বছর আট মাস কাজ করি এবং বৈধ হওয়ার চেষ্টা করি। ট্যাক্স দিয়ে প্রক্রিয়া সম্পন্ন করলেও বৈধ কাগজ পাওয়ার আগেই আমি ধরা পড়ে বাংলাদেশে ফেরত চলে আসি।"
+  ]
+ },
+ {
+  "key": "LB1-124",
+  "article_id": "c9a1d235-b7f2-4b38-8853-7680aa43b9ab",
+  "verdict": "partly",
+  "problem": "The article names Chhatak upazila but not Sunamganj, and says he was caught in France and came back rather than using the word deported.",
+  "corrected_claim": "Sujan Mia of Chhatak upazila, who said he was caught in France and returned to Bangladesh, said on 18 April 2026 that when he later tried for an Australian visa a broker and an agency took BDT 17 lakh from him and gave him a fake visa.",
+  "quotes": [
+   "আমি ছাতক উপজেলার সীমতলা গ্রামের বাসিন্দা।",
+   "বৈধ কাগজ পাওয়ার আগেই আমি ধরা পড়ে বাংলাদেশে ফেরত চলে আসি।",
+   "এরপর অস্ট্রেলিয়ার জন্য ভিসার চেষ্টা করি। এ সময় দালাল ও এজেন্সি ১৭ লাখ টাকা নিয়ে আমাকে ভুয়া ভিসা দিয়েছিল।"
+  ]
+ },
+ {
+  "key": "LB1-125",
+  "article_id": "a65f4570-eb37-4098-bbd5-9cceca3618c5",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Mizanur Rahman of Phulsuti village, Nagarkanda, Faridpur, alleged at a human chain outside the Faridpur Deputy Commissioner's office on 14 October 2026 that a Faridpur trafficking ring, having promised to take him to Italy, held and tortured him in Libya and took BDT 60 lakh in three rounds.",
+  "quotes": [
+   "বুধবার বেলা সাড়ে ১১টার দিকে ফরিদপুর জেলা প্রশাসকের কার্যালয়ের সামনে এ মানববন্ধনের আয়োজন করা হয়।",
+   "মিজানুর নগরকান্দা উপজেলার ফুলসুতি গ্রামের গেন্দু মাতুব্বরের ছেলে। মিজানুর রহমান অভিযোগ করেন, তাঁকে ইতালি নেওয়ার কথা বলে লিবিয়ায় আটকিয়ে নির্যাতন করে তিন দফায় ৬০ লাখ টাকা হাতিয়ে নিয়েছে ফরিদপুরের মানব পাচারের একটি মাফিয়া চক্র।"
+  ]
+ },
+ {
+  "key": "LB1-126",
+  "article_id": "a65f4570-eb37-4098-bbd5-9cceca3618c5",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Mizanur Rahman said that, still not released after the payments and seeing how severe the torture was, he broke a window, escaped and gave himself up to Libyan police, and later came home in 2026 through IOM; eleven people tortured by the same ring came home from Libya through IOM in 2026 and joined the human chain.",
+  "quotes": [
+   "এরপরও মুক্তি না পেয়ে ও নির্যাতনের ভয়াবহতা দেখে জানালা ভেঙে পালিয়ে দেশটির পুলিশের হাতে ধরা দেন। পরে আন্তর্জাতিক অভিবাসন সংস্থার (আইওএম) মাধ্যমে চলতি বছরে দেশে এসেছেন।",
+   "চক্রটির হাতে নির্যাতনের শিকার হয়ে চলতি বছর লিবিয়া থেকে অভিবাসন সংস্থার মাধ্যমে দেশে এসেছেন ১১ জন। তাঁরাও ওই মানববন্ধনে অংশ নেন।"
+  ]
+ },
+ {
+  "key": "LB1-127",
+  "article_id": "a65f4570-eb37-4098-bbd5-9cceca3618c5",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "At the same human chain, Taslima Begum said her husband Habib was killed because the family could not pay a ransom of BDT 10 lakh; she now lives with their three children at her father's house.",
+  "quotes": [
+   "স্বামী হত্যার বিচারের দাবিতে মানববন্ধনে আসেন হাবিবের স্ত্রী তাসলিমা বেগম।",
+   "মানববন্ধনে তাসলিমা বেগম বলেন, মুক্তিপণের ১০ লাখ টাকা দিতে না পারায় তাঁর স্বামীকে হত্যা করা হয়েছে। বর্তমানে তিন সন্তান নিয়ে বাবার বাড়িতে থাকছেন।"
+  ]
+ },
+ {
+  "key": "LB1-128",
+  "article_id": "a65f4570-eb37-4098-bbd5-9cceca3618c5",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "Asked about the returnees' demand for trial of the Faridpur ring, the Additional Superintendent of Police (Crime and Ops) of Faridpur said on 14 October 2026 that legal action would be taken if the victims' families complained, and that steps would follow investigation if anyone had filed a case; one victim at the human chain asked, 'Where do I go to get justice?'",
+  "quotes": [
+   "এ বিষয়ে জানতে চাইলে ফরিদপুরের অতিরিক্ত পুলিশ সুপার (ক্রাইম অ্যান্ড অপস) মো. শামসুল আজম বলেন, ভুক্তভোগী পরিবারগুলো অভিযোগ দিলে আইনগত ব্যবস্থা নেওয়া হবে। এ ছাড়া কেউ মামলা করে থাকলে তদন্ত সাপেক্ষে পদক্ষেপ নেওয়া হবে।",
+   "‘ও ভাই, কোন জায়গায় গেলে বিচার পাব?"
+  ]
+ },
+ {
+  "key": "LB1-129",
+  "article_id": "d3a95147-effc-424f-9276-b4f2966edc18",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "According to investigators, on 5 August 2025 the wife of Md Saiful (39) of Sundarganj, Gaibandha, who had gone to Libya about two years before November 2026 through a Bangladeshi broker, got a call from a Libyan mobile number saying he was in the callers' custody, that BDT 30 lakh ransom must be paid or he would be killed, and that no one in the family would be allowed to speak to him until half the ransom was paid.",
+  "quotes": [
+   "সিআইডি বলছে, ভুক্তভোগী আবদুস সামাদের বাড়ি গাইবান্ধার সুন্দরগঞ্জ উপজেলার মনমত বিপুজিপাড়া গ্রামে। তাঁর ছেলে মো. সাইফুলের বয়স ৩৯ বছর।",
+   "প্রায় দুই বছর আগে বাংলাদেশি দালাল সোহেলের মাধ্যমে লিবিয়ায় পাড়ি জমান তিনি।",
+   "গত বছরের ৫ আগস্ট দুপুর ১২টার দিকে লিবিয়ার একটি মুঠোফোন নম্বর থেকে সাইফুলের স্ত্রীর মুঠোফোনে কল আসে। ফোনে জানানো হয়, সাইফুল তাঁদের হেফাজতে আটক আছেন। তাঁকে জীবিত ফিরে পেতে হলে ৩০ লাখ টাকা মুক্তিপণ দিতে হবে। অন্যথায় তাঁকে হত্যা করা হবে।"
+  ]
+ },
+ {
+  "key": "LB1-130",
+  "article_id": "d3a95147-effc-424f-9276-b4f2966edc18",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The CID said the family sent BDT 5 lakh in all between 10 and 25 August 2025 from a bKash shop at Bamandanga Hall Mor, Sundarganj, to several mobile numbers the accused gave, and that even after the money was received the family was not put in touch with Saiful.",
+  "quotes": [
+   "গত বছরের ১০ থেকে ২৫ আগস্ট পর্যন্ত বিভিন্ন সময়ে সুন্দরগঞ্জ থানার বামনডাঙ্গা হল মোড় এলাকার একটি বিকাশের দোকান থেকে অভিযুক্ত ব্যক্তিদের দেওয়া একাধিক মুঠোফোন নম্বরে মোট পাঁচ লাখ টাকা পাঠান তাঁরা।",
+   "কিন্তু টাকা পাওয়ার পরও সাইফুলের সঙ্গে তাঁদের কোনো যোগাযোগ করিয়ে দেওয়া হয়নি।"
+  ]
+ },
+ {
+  "key": "LB1-131",
+  "article_id": "d3a95147-effc-424f-9276-b4f2966edc18",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "According to the CID, after the family of a man held in Libya had paid BDT 5 lakh in August 2025, a man named Sohel contacted the hostage's wife, said he had all the information and would if necessary go to Libya himself to rescue him, and told her to come to the Kadamtali area of Dhaka; when she went there his phone was switched off.",
+  "quotes": [
+   "এরপর সোহেল নামের এক ব্যক্তি সাইফুলের স্ত্রীর সঙ্গে যোগাযোগ করেন। সাইফুলের বিষয়ে সব তথ্য তাঁর কাছে আছে জানিয়ে তিনি বলেন, প্রয়োজনে নিজে লিবিয়ায় গিয়ে তাঁকে উদ্ধার করে দেশে ফিরিয়ে আনবেন।",
+   "এ আশ্বাস দিয়ে সাইফুলের স্ত্রীকে ঢাকার কদমতলী এলাকায় আসতে বলেন তিনি। কিন্তু সেখানে গিয়ে যোগাযোগের চেষ্টা করলে সোহেলের মুঠোফোন বন্ধ পাওয়া যায়।"
+  ]
+ },
+ {
+  "key": "LB1-132",
+  "article_id": "d3a95147-effc-424f-9276-b4f2966edc18",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "According to the CID, the father of the Gaibandha hostage was then contacted from another number and asked for a further BDT 42 lakh in the name of rescuing his son, and was told his son was held by two men in Libya named Mokarram and Anwar from whom the caller had got the father's number; the father said he would pay nothing more unless he could speak to his son directly, and no more calls came to him or to his son's wife.",
+  "quotes": [
+   "এরপর অন্য একটি নম্বর থেকে সাইফুলের বাবা আবদুস সামাদের সঙ্গে যোগাযোগ করা হয়। এবার ছেলেকে উদ্ধারের কথা বলে তাঁর কাছে আরও ৪২ লাখ টাকা মুক্তিপণ দাবি করা হয়।",
+   "জানানো হয়, লিবিয়ায় অবস্থানরত মোকাররম ও আনোয়ার নামের দুই ব্যক্তির কাছে সাইফুল আটক আছেন। তাঁদের কাছ থেকেই আবদুস সামাদের মুঠোফোন নম্বর সংগ্রহ করা হয়েছে।",
+   "শেষ পর্যন্ত ছেলের সঙ্গে সরাসরি কথা বলিয়ে না দিলে আর কোনো টাকা দেবেন না বলে জানিয়ে দেন তিনি। এরপর থেকে তাঁর ও সাইফুলের স্ত্রীর মুঠোফোনে আর কোনো কল আসেনি।"
+  ]
+ },
+ {
+  "key": "LB1-133",
+  "article_id": "d3a95147-effc-424f-9276-b4f2966edc18",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "The father of the Gaibandha hostage filed a case under the trafficking Act at Sundarganj police station on 5 September 2025, the case was sent to the CID for investigation, and on 12 November 2026 the CID arrested two men from Chandpur village, Singra, at Singra Bazar, Natore; the CID said it was still gathering information on where in Libya the son was held and on rescuing him.",
+  "quotes": [
+   "গত বছরের ৫ সেপ্টেম্বর সুন্দরগঞ্জ থানায় মামলা করেন। মানব পাচার প্রতিরোধ ও দমন আইনে করা মামলাটির বাদী তিনি। পরে মামলাটি তদন্তের জন্য সিআইডিতে পাঠানো হয়।",
+   "সিংড়া উপজেলার চাঁদপুর গ্রামের মো. মনোয়ার হোসেন (৪০) ও মো. সোহেল রানা (৪৫)।\nগতকাল বৃহস্পতিবার দুপুরে নাটোরের সিংড়া বাজার এলাকা থেকে তাঁদের গ্রেপ্তার করা হয়েছে।",
+   "একই সঙ্গে সাইফুলকে লিবিয়ায় কোথায় আটক রাখা হয়েছে এবং তাঁকে উদ্ধারের বিষয়ে তথ্য সংগ্রহ করা হচ্ছে।"
+  ]
+ },
+ {
+  "key": "LB1-134",
+  "article_id": "d3a95147-effc-424f-9276-b4f2966edc18",
+  "verdict": "supported",
+  "problem": null,
+  "corrected_claim": "In its statement on the Gaibandha case on 13 November 2026 the CID asked everyone to verify the legality of the person, the agency, the visa and the employing firm before going abroad.",
+  "quotes": [
+   "বিদেশে যাওয়ার আগে সংশ্লিষ্ট ব্যক্তি, এজেন্সি, ভিসা ও নিয়োগকারী প্রতিষ্ঠানের বৈধতা যাচাই করার জন্য সবার প্রতি অনুরোধ জানিয়েছে সিআইডি।"
+  ]
+ }
+]

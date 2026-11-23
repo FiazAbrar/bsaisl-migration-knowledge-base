@@ -1,0 +1,1813 @@
+[
+ {
+  "key": "SA3a-15",
+  "fact_ids": [
+   "SP0016",
+   "SP0017"
+  ],
+  "claim": "According to Prothom Alo (February 2024), Bangladesh and Saudi Arabia signed an agreement on recruiting Bangladeshi health workers in 2022, and the first group of about 60 Bangladeshi health workers went to Saudi Arabia in November 2023.",
+  "target_section": "Channels",
+  "placement": "other: health workers",
+  "why_new": "The guide has no channel for doctors and nurses.",
+  "published": "2024-02-04"
+ },
+ {
+  "key": "SA3a-16",
+  "fact_ids": [
+   "SP0018",
+   "SP0019"
+  ],
+  "claim": "Saudi ambassador in Dhaka Essa Al-Duhailan told Arab News (February 2024) that Saudi Arabia had long hired no Bangladeshi health workers but had started because they now met Saudi standards, and that a Saudi health ministry team visited Bangladesh twice in 2023 and would keep visiting to recruit more.",
+  "target_section": "Channels",
+  "placement": "other: health workers",
+  "why_new": "Shows the health-worker route is run with the Saudi health ministry; not in the guide.",
+  "published": "2024-02-04"
+ },
+ {
+  "key": "SA3a-17",
+  "fact_ids": [
+   "SP0020",
+   "SP0021"
+  ],
+  "claim": "Khairul Alam, additional secretary at Bangladesh's expatriates' welfare ministry, told Arab News (February 2024) that Saudi authorities had asked Bangladesh to send more than 150 trained nurses, that the ministry was examining the Saudi demand, such as whether the nurses would go to government or private hospitals, and that because the matter was new the government was drawing up a procedure to speed up recruitment of health workers.",
+  "target_section": "Channels",
+  "placement": "Need to know (health workers)",
+  "why_new": "Not in the guide; would support a Need to know on how nurses apply.",
+  "published": "2024-02-04"
+ },
+ {
+  "key": "SA3a-20",
+  "fact_ids": [
+   "SP0025",
+   "SP0026"
+  ],
+  "claim": "Migration experts told Prothom Alo in February 2024 that in the Middle East it is workers already abroad who open the way for new ones, collecting job demand there and sending it to acquaintances and relatives at home, and that about 90% of demand letters reach Bangladesh this way.",
+  "target_section": "Channels",
+  "placement": "The channels (relatives)",
+  "why_new": "The guide gives IOM's 33.2% relatives figure and the Cumilla 80% figure [RD0021, A0078]; this 90% of demand letters figure (Middle East, experts' estimate) is not there.",
+  "published": "2024-02-14"
+ },
+ {
+  "key": "SA3b-70",
+  "fact_ids": [
+   "SP0251"
+  ],
+  "claim": "BAIRA members said in March 2025 that 85% of workers sent from Bangladesh to Saudi Arabia go on small demand letters for 1 to 24 workers.",
+  "target_section": "Channels",
+  "placement": "The numbers",
+  "why_new": "Agency-side estimate of the single-visa share; fits the guide's BMET five-year figure (21.36 lakh single vs 90,000 group) and partly answers its Need to know on single-visa clearances.",
+  "published": "2025-03-11"
+ },
+ {
+  "key": "SA3c-3",
+  "fact_ids": [
+   "SP0258",
+   "SP0259"
+  ],
+  "claim": "BAIRA members said in March 2025 that 85% of workers going from Bangladesh to Saudi Arabia go on small demand letters for 1 to 24 workers, so embassy attestation delays had stopped visas being processed.",
+  "target_section": "Channels",
+  "placement": "The channels",
+  "why_new": "Adds the recruiters' estimate of the share going on small (single-visa) demand letters; the guide gives only BMET's five-year single vs group totals [RD0015].",
+  "published": "2025-03-13"
+ },
+ {
+  "key": "SA3c-51",
+  "fact_ids": [
+   "SP0368"
+  ],
+  "claim": "Sector people said in June 2025 that most workers going to Saudi Arabia get the recruitment demand letter through acquaintances or relatives, and that a class of brokers has grown up around this who pass off fake appointment letters, so some reach Saudi Arabia, find no work and are cheated.",
+  "target_section": "Channels",
+  "placement": "The channels (relatives)",
+  "why_new": "Supports the guide's relatives channel [A0078] for 2025 and adds fake appointment letters passed through it.",
+  "published": "2025-06-24"
+ },
+ {
+  "key": "SA3d-4",
+  "fact_ids": [
+   "SP0384",
+   "SP0385",
+   "SP0386"
+  ],
+  "claim": "In August 2025 Asif Nazrul said an agreement on migrant workers and employment was being signed with Saudi Arabia, the first ever on migrant workers, that it would increase workers' safety and protection there, that the previous government had tried many times and failed, and that India and Pakistan do not have such an agreement with Saudi Arabia.",
+  "target_section": "Channels",
+  "placement": "Status: the 2025 agreement",
+  "why_new": "Guide states only the signing date and that private agencies carry it; adds what it was meant to change and the India/Pakistan comparison.",
+  "published": "2025-08-02"
+ },
+ {
+  "key": "SA3d-19",
+  "fact_ids": [
+   "SP0409",
+   "SP0410",
+   "SP0411"
+  ],
+  "claim": "At the bilateral meeting before the 6 October 2025 signing in Riyadh, Asif Nazrul asked that employment contracts be correct, that employers carry out the duty of renewing the iqama, and that workers wanting to go home get an exit visa quickly; Saudi Minister of Human Resources Ahmed bin Sulaiman Al-Rajhi told officials to take effective steps on these.",
+  "target_section": "Channels",
+  "placement": "Status: the 2025 agreement",
+  "why_new": "Shows the three problems Bangladesh raised (contracts, iqama renewal, exit visas); guide records only the signing.",
+  "published": "2025-10-06"
+ },
+ {
+  "key": "SA3d-32",
+  "fact_ids": [
+   "SP0434"
+  ],
+  "claim": "Of the 51% (554) of workers in OKUP's 2022 Gulf survey who went knowingly on a free visa, 54% went through illegal broker networks, 7% directly through a recruiting agency, 8% through a family member and 31% through distant relatives.",
+  "target_section": "Channels",
+  "placement": "The channels",
+  "why_new": "Answers in part the guide's Need to know on channel shares, though for five Gulf countries combined; cross-country has only the 51%.",
+  "published": "2025-10-19"
+ },
+ {
+  "key": "SA3d-1",
+  "fact_ids": [
+   "SP0378"
+  ],
+  "claim": "In July 2025 Expatriates' Welfare Adviser Asif Nazrul said that in one place in Saudi Arabia Bangladeshi thugs go and attack other Bangladeshis to snatch and loot their money.",
+  "target_section": "Complaints",
+  "placement": "other: violence among Bangladeshis",
+  "why_new": "The guide says nothing about Bangladeshi gangs robbing other Bangladeshi workers in Saudi Arabia; the place is not named.",
+  "published": "2025-07-02"
+ },
+ {
+  "key": "SA3c-54",
+  "fact_ids": [
+   "SP0374",
+   "SP0375"
+  ],
+  "claim": "The expatriates' ministry said in June 2025 that an earlier productive meeting with the Saudi government led by adviser Asif Nazrul had brought positive responses, that a government-level memorandum of understanding with Saudi Arabia was at the final stage of signing, and that sending more skilled and unskilled workers to Saudi Arabia had been discussed with the Saudi government.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "Background to the 6 October 2025 agreement the guide cites [SB0001]; low priority.",
+  "published": "2025-06-24"
+ },
+ {
+  "key": "SA3d-7",
+  "fact_ids": [
+   "SP0388"
+  ],
+  "claim": "Prothom Alo reported in August 2025 that a joint task force had been formed to resolve the problems of Bangladeshis in Saudi Arabia.",
+  "target_section": "Current situation",
+  "placement": "other: 2025 government steps",
+  "why_new": "The guide does not mention the joint task force; its membership and how a worker reaches it are unknown (Need to know).",
+  "published": "2025-08-20"
+ },
+ {
+  "key": "SA3e-13",
+  "fact_ids": [
+   "SP0629",
+   "SP0630"
+  ],
+  "claim": "In early March 2026 Lokman Hossain (35) of Madaripur, a super-shop worker who has lived in Riyadh for a decade, told Prothom Alo that panic spread when the US embassy in Saudi Arabia was hit by a drone, and that Bangladeshis were still working but in fear.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "Guide mentions the Iran war only for flights. Low priority.",
+  "published": "2026-03-04"
+ },
+ {
+  "key": "SA3e-16",
+  "fact_ids": [
+   "SP0635",
+   "SP0636"
+  ],
+  "claim": "BMET data show 21,122 people took emigration clearance from 1 to 10 March 2026, against 46,744 in the same days of 2025, after the war that began with US and Israeli strikes on Iran on 28 February 2026.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "Early-war fall in clearances; guide has only the Jan-Oct 2026 45% fall (E0129).",
+  "published": "2026-03-14"
+ },
+ {
+  "key": "SA3e-17",
+  "fact_ids": [
+   "SP0637"
+  ],
+  "claim": "Fakhrul Islam, a former joint secretary general of BAIRA (the recruiting agencies' association), said in March 2026 that because flights to Jeddah and Riyadh were still running some workers were still going to Saudi Arabia, but fewer, some were afraid to take visas, and those who had not done their medical were not taking clearance.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "March 2026 state of the corridor; guide's current situation is dated November.",
+  "published": "2026-03-14"
+ },
+ {
+  "key": "SA3e-18",
+  "fact_ids": [
+   "SP0638"
+  ],
+  "claim": "Bangladesh's expatriates' welfare ministry opened a round-the-clock hotline and control room for migrants affected by the war, and on 9 March 2026 asked the foreign ministry to seek visa extensions for affected and stranded workers.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "Earlier date for the visa-extension request the guide reports as still under discussion in October 2026 (SG0036). The hotline number is not given.",
+  "published": "2026-03-14"
+ },
+ {
+  "key": "SA3e-19",
+  "fact_ids": [
+   "SP0639"
+  ],
+  "claim": "As of 14 March 2026 two Bangladeshis had died in Saudi Arabia in the war, according to Prothom Alo.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "War deaths in Saudi Arabia not in guide; see later figures from A9/A20.",
+  "published": "2026-03-14"
+ },
+ {
+  "key": "SA3e-23",
+  "fact_ids": [
+   "SP0641",
+   "SP0642",
+   "SP0643"
+  ],
+  "claim": "Abdullah Al Mamun (35) of Gaffargaon, Mymensingh, was seriously injured just before iftar on 8 March 2026 when an Iranian missile hit a labour camp of the Al Toaik Baladiya company in Al Kharj, Saudi Arabia, and was declared dead on life support on 17 March, his father said; Prothom Alo reported that the same attack killed Bachchu Mia of Kishoreganj and Mosharraf Hossain of Tangail and injured several Bangladeshis.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "Guide has no war casualties in Saudi Arabia.",
+  "published": "2026-03-18"
+ },
+ {
+  "key": "SA3e-29",
+  "fact_ids": [
+   "SP0650",
+   "SP0651"
+  ],
+  "claim": "Two Bangladeshis in Makkah and Jeddah told Prothom Alo in March 2026 that early panic had largely eased and people in Makkah, Madinah and Jeddah were going to work, and, citing acquaintances, that areas in the east, especially on the Gulf coast, were tense and Riyadh was on extra alert.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "Regional picture during the war. Low priority.",
+  "published": "2026-03-19"
+ },
+ {
+  "key": "SA3e-27",
+  "fact_ids": [
+   "SP0648"
+  ],
+  "claim": "Minister Ariful Haque Chowdhury said on 6 April 2026 that seven deaths of Bangladeshis from the Middle East war had been reported, four bodies had been received in Bangladesh and one had been buried in Saudi Arabia with the family's consent.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "Region-wide war death count; RMMRU gave 'at least 9' on 13 May 2026 (A24).",
+  "published": "2026-04-06"
+ },
+ {
+  "key": "SA3e-46",
+  "fact_ids": [
+   "SP0677",
+   "SP0678",
+   "SP0679"
+  ],
+  "claim": "At a press conference on 13 May 2026, RMMRU quoted a packaging worker at the warehouse of an app-based delivery company in Saudi Arabia as saying the warehouse had over 400 workers and now only 65, the rest laid off as sales fell, and said Gulf workers faced heavy wage cuts and higher living costs and airfares.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "War-time layoffs and wage cuts in Saudi Arabia; not in guide.",
+  "published": "2026-05-13"
+ },
+ {
+  "key": "SA3e-47",
+  "fact_ids": [
+   "SP0680",
+   "SP0681"
+  ],
+  "claim": "RMMRU said on 13 May 2026 that at least 9 workers had died in the Gulf and Middle East because of the war and that emigration clearances in March 2026 were 50% below March 2025.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "Region-wide; conflicts with the minister's 7 deaths on 6 April (A20), likely a later count.",
+  "published": "2026-05-13"
+ },
+ {
+  "key": "SA3f-1",
+  "fact_ids": [
+   "SP0707",
+   "SP0708",
+   "SP0709"
+  ],
+  "claim": "In a July 2026 column, a North South University migration researcher cited an ILO 2026 forecast that if the US-Iran war drags on, total working hours in the Arab region could fall by up to 3.7%, or 10.2% if things get worse, and that the ILO warned migrant workers would bear the biggest burden as there were early signs of reduced new hiring and weaker remittances in these countries.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "The guide describes the 2026 war disruption to flights but not its forecast effect on hiring in the Gulf.",
+  "published": "2026-07-24"
+ },
+ {
+  "key": "SA3f-24",
+  "fact_ids": [
+   "SP0757",
+   "SP0758"
+  ],
+  "claim": "International media reported that on 9 August 2026 Yemen's Houthis attacked an Aramco facility in the Jazan area of Saudi Arabia, two days after Saudi Arabia, Turkey and Pakistan signed a joint defence pact in Makkah.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "The guide mentions Houthi attacks on airports only; attacks also hit oil facilities where Bangladeshis work (see 74b2212a).",
+  "published": "2026-09-03"
+ },
+ {
+  "key": "SA3f-36",
+  "fact_ids": [
+   "SP0777",
+   "SP0778"
+  ],
+  "claim": "Diplomatic sources said in September 2026 that Prime Minister Tarique Rahman might visit Riyadh in the second half of November 2026 at the invitation of Crown Prince and Prime Minister Mohammed bin Salman, with strengthening bilateral relations, energy imports, investment agreements, regional and international issues and continued Saudi support on the Rohingya question as possible topics.",
+  "target_section": "Current situation",
+  "placement": "other: diplomatic context",
+  "why_new": "Upcoming high-level visit where stranded-visa or labour issues could be raised; low priority for the doc.",
+  "published": "2026-09-27"
+ },
+ {
+  "key": "SA3f-37",
+  "fact_ids": [
+   "SP0779",
+   "SP0780",
+   "SP0781"
+  ],
+  "claim": "On 4 October 2026 a Houthi missile or drone hit an Aramco facility at Al Khurais in Saudi Arabia's Eastern Province and killed Bangladeshi worker Md Sajib Hossain (26) of Brahmanpara, Cumilla; the Foreign Ministry said the embassy had contacted his family and employer and was coordinating with the Saudi authorities to send his body home.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "The guide's status line mentions attacks on airports only; workers at oil facilities have also been killed.",
+  "published": "2026-10-05"
+ },
+ {
+  "key": "SA3f-48",
+  "fact_ids": [
+   "SP0792",
+   "SP0793"
+  ],
+  "claim": "State Minister for Foreign Affairs Humayun Kabir said on 10 October 2026 that Bangladesh was in positive talks with Saudi Arabia on sending skilled and professional workers, and that Bangladesh had already expressed interest in joining the Makkah defence agreement.",
+  "target_section": "Current situation",
+  "placement": "other: diplomatic context",
+  "why_new": "Status of talks on skilled-worker recruitment; no details or dates were given.",
+  "published": "2026-10-10"
+ },
+ {
+  "key": "SA3f-49",
+  "fact_ids": [
+   "SP0794",
+   "SP0795"
+  ],
+  "claim": "At 3:20 pm local time on 10 October 2026 a Houthi missile hit Terminal 3 of King Khalid International Airport in Riyadh, where passengers from Bangladesh and other countries were waiting, killing two Bangladeshis, according to the Expatriates' Welfare Ministry.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "The guide mentions Houthi attacks on airports but no casualties; the embassy's labour wing put the time at about 3:15 pm (3c48fdff).",
+  "published": "2026-10-11"
+ },
+ {
+  "key": "SA3f-52",
+  "fact_ids": [
+   "SP0801",
+   "SP0802",
+   "SP0803"
+  ],
+  "claim": "After the 10 October 2026 attack about 500 Bangladeshi passengers were stranded at Riyadh airport; the embassy, with the airport authority, Saudi immigration and the airlines, arranged hotel rooms, food and onward travel, including a special bus to Jeddah for 67 Umrah pilgrims in ihram, flights home via King Fahd airport in Dammam for about 400 passengers of the cancelled Saudia flight SV804, and the Al Khobar land border crossing for two Bahrain-bound workers.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "Evidence of what the embassy actually did for stranded passengers; the guide's status line has no such detail.",
+  "published": "2026-10-11"
+ },
+ {
+  "key": "SA3f-54",
+  "fact_ids": [
+   "SP0807",
+   "SP0808",
+   "SP0809"
+  ],
+  "claim": "On 12 October 2026 the Bangladesh Embassy in Riyadh asked Bangladeshis in Saudi Arabia to stay alert, follow Saudi authorities' instructions and avoid risky and crowded places; flights were halted that day at two Saudi airports including King Khalid in Riyadh, and the US, Canada, the UK, South Korea, Japan, Australia and New Zealand issued travel advisories for Saudi Arabia.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "The embassy's safety notice; the hotlines it listed match the guide's Contacts.",
+  "published": "2026-10-12"
+ },
+ {
+  "key": "SA3f-55",
+  "fact_ids": [
+   "SP0810",
+   "SP0811",
+   "SP0812"
+  ],
+  "claim": "The embassy labour wing's report on the 10 October 2026 Riyadh airport attack put the dead at 13 of various nationalities, including two Bangladeshis, and 309 injured, including 27 Bangladeshis (11 workers and 16 on Umrah visas), of whom 15 were in hospital and one, an Umrah pilgrim from Naogaon, was critical.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "Conflicts within Prothom Alo reporting: other articles give 12 dead and 24 Bangladeshis injured (198bf3f6, 43568e1a); this is the embassy's later count.",
+  "published": "2026-10-12"
+ },
+ {
+  "key": "SA3f-56",
+  "fact_ids": [
+   "SP0813",
+   "SP0814",
+   "SP0815"
+  ],
+  "claim": "After the 10 October 2026 Riyadh airport attack, the Civil Aviation Authority of Bangladesh said late on 12 October that restrictions at Saudi airports had hit 61 flights between Bangladesh and Saudi Arabia, direct and transit, some cancelled and some suspended, affecting 8,381 passengers due to fly from Dhaka; Biman suspended all Dhaka-Riyadh flights until 17 October and US-Bangla cancelled its Dhaka-Riyadh-Dhaka flights until 21 October, and some Dhaka-Jeddah flights were also cancelled.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "Dated detail behind the guide's flight-disruption line; the CAAB breakdown as printed (12 direct, 39 transit; direct by airline 9+2+4+7) doesn't add up.",
+  "published": "2026-10-13"
+ },
+ {
+  "key": "SA3f-57",
+  "fact_ids": [
+   "SP0816",
+   "SP0817"
+  ],
+  "claim": "Members of BAIRA (the recruiting agencies' association) and BMET sources said that in 2026 about 1,200 new workers a day went to Saudi Arabia and 600 to 700 a day returned after leave, and by that reckoning about 5,500 workers would have been stranded by three days of flight disruption in October 2026.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "Daily flow figures and the scale of stranding; not in the guide.",
+  "published": "2026-10-13"
+ },
+ {
+  "key": "SA3f-58",
+  "fact_ids": [
+   "SP0818",
+   "SP0819"
+  ],
+  "claim": "State Minister Md Nurul Haque said in October 2026 that the government would hold talks to arrange travel for stranded workers and that visa validity had been extended automatically earlier, at the start of the Middle East war; former BAIRA secretary general Ali Haider Chowdhury said visas of stranded workers had been renewed during the Kuwait war and the Covid pandemic.",
+  "target_section": "Current situation",
+  "placement": "Need to know",
+  "why_new": "Partly answers the guide's Need to know on whether Saudi Arabia extended stranded workers' visas: an automatic extension happened at the war's start, but nothing was agreed for October.",
+  "published": "2026-10-13"
+ },
+ {
+  "key": "SA3f-62",
+  "fact_ids": [
+   "SP0827"
+  ],
+  "claim": "State Minister Md Nurul Haque said in October 2026 that the Saudi situation meant the target of sending 15 lakh workers in the government's first year would probably not be met, and that work on alternative labour markets continued.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "Government's own expectation for the corridor; minor.",
+  "published": "2026-10-13"
+ },
+ {
+  "key": "SA3g-15",
+  "fact_ids": [
+   "SP0485",
+   "SP0486"
+  ],
+  "claim": "On 19 October 2026 Civil Aviation Minister M Rashiduzzaman Millat said Riyadh-bound flights were suspended by decision of the Saudi authorities and would restart once permission was given, and that work was under way to carry some passengers via Dammam or Madinah instead.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "Guide has the Riyadh suspension (SH0007) but not that it was a Saudi decision pending Saudi permission.",
+  "published": "2026-10-19"
+ },
+ {
+  "key": "SA3g-35",
+  "fact_ids": [
+   "SP0520",
+   "SP0521"
+  ],
+  "claim": "An attack on King Fahd International Airport in Dammam at about 9 pm on 21 October 2026 killed at least two people and injured eight, including two Bangladeshis (Sajal Chandra Das of Cumilla and Mohammad Abdur Rahim of Noakhali) who lost consciousness from heat and smoke and were treated at the Saudi German Hospital in Dammam, where an embassy representative visited them, the Expatriates' Welfare Ministry said.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "Guide says Biman resumed Dhaka-Dammam from 7 Nov; it doesn't say Dammam airport itself was attacked on 21 Oct.",
+  "published": "2026-10-22"
+ },
+ {
+  "key": "SA3g-36",
+  "fact_ids": [
+   "SP0522",
+   "SP0523"
+  ],
+  "claim": "According to Al Jazeera as reported by Prothom Alo (22 October 2026), an attack on Riyadh's King Khalid International Airport on 10 October 2026 killed 12 and injured over 300, and another attack on a Saudi airport on 11 October killed one and injured 11, by Saudi figures.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "Guide mentions Houthi attacks generally; adds dates and casualties. Note conflict with 14 killed given in ed9d900f.",
+  "published": "2026-10-22"
+ },
+ {
+  "key": "SA3g-37",
+  "fact_ids": [
+   "SP0524",
+   "SP0525",
+   "SP0526"
+  ],
+  "claim": "Bangladeshi worker Md Shahed Ahammed, a plumber with a valid iqama on a contractor's Jeddah project, was killed in the 10 October 2026 Houthi missile attack on Riyadh's King Khalid airport while returning via Riyadh from leave in Bangladesh; another Bangladeshi, Md Nasrullah Badarpuri of Nangalkot, Cumilla, was also killed and 24 Bangladeshis were injured, the ministries said.",
+  "target_section": "Current situation",
+  "placement": "Cases",
+  "why_new": "Bangladeshi casualties of the airport attacks are not in the guide; relevant to workers returning from leave through Riyadh. Article gives 14 killed in total (Al Jazeera via f4e59036 gives 12).",
+  "published": "2026-10-22"
+ },
+ {
+  "key": "SA3g-46",
+  "fact_ids": [
+   "SP0538",
+   "SP0539",
+   "SP0540"
+  ],
+  "claim": "On 23 October 2026 the state minister said the bodies of 11 Bangladeshis killed in the Middle East conflict had been brought home in the previous six months, that three Bangladeshis had been killed by missile attacks in Saudi Arabia in the past month, and that talks with Saudi Arabia were under way on extending and renewing the visas of workers stranded in Bangladesh.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "Conflict deaths not in guide; visa-extension talks already in guide (SG0036), this dates them to 23 Oct 2026 and confirms no outcome yet.",
+  "published": "2026-10-23"
+ },
+ {
+  "key": "SA3h-9",
+  "fact_ids": [
+   "SP0559",
+   "SP0560"
+  ],
+  "claim": "On 26 October 2026 Expatriates' Welfare Minister Ariful Haque Chowdhury said Saudi-based workers stranded in Bangladesh by the flight disruption whose iqama has expired will be allowed to enter Saudi Arabia: when they can travel, they will be included automatically in the Saudi system and given permission to enter.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "New: partly answers the guide's Need to know on stranded workers (guide only says Bangladesh was discussing an extension, SG0036); concerns iqama holders on leave, not new entry visas. Also relevant to Going home on leave and coming back.",
+  "published": "2026-10-26"
+ },
+ {
+  "key": "SA3h-10",
+  "fact_ids": [
+   "SP0561"
+  ],
+  "claim": "According to the expatriates' ministry on 26 October 2026, Houthi attacks on Saudi airports had so far disrupted 144 flights on direct and transit routes between Bangladesh and Saudi Arabia, so many workers could not get back after leave on time and their iqamas could expire.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "Different figure: the guide says over 1,000 flights cancelled since February (E0130), likely all routes; this is Bangladesh routes only. Adds that workers on leave risk iqama expiry.",
+  "published": "2026-10-26"
+ },
+ {
+  "key": "SA3h-28",
+  "fact_ids": [
+   "SP0584",
+   "SP0585"
+  ],
+  "claim": "In an October 2026 Prothom Alo column, Professor A K M Ahsan Ullah (Universiti Brunei Darussalam) wrote that if the Houthi-Saudi conflict is prolonged, new hiring may fall, construction projects may slow and wages and overtime may become uncertain, while demand may hold in repair, health care, transport and emergency supply.",
+  "target_section": "Current situation",
+  "placement": "other: outlook (attributed opinion)",
+  "why_new": "Forecast by a columnist, not a fact; the guide has no outlook line. Reviewer may drop under the no-opinion rule.",
+  "published": "2026-10-27"
+ },
+ {
+  "key": "SA3h-33",
+  "fact_ids": [
+   "SP0591"
+  ],
+  "claim": "According to a letter signed by labour counsellor Muhammad Rezaye Rabbi, all flights from Riyadh have been suspended since 10 October 2026, so the bodies of the fire victims were taken by road to King Abdulaziz International Airport in Jeddah and flown to Dhaka on Biman.",
+  "target_section": "Current situation",
+  "placement": "Status",
+  "why_new": "New: start date (10 October) of the Riyadh flight suspension; the guide says Dhaka-Riyadh is suspended without a date. Also relevant to If a worker dies in Saudi Arabia, item 2 (bodies from Riyadh go via Jeddah).",
+  "published": "2026-10-30"
+ },
+ {
+  "key": "SA3b-64",
+  "fact_ids": [
+   "SP0237",
+   "SP0238"
+  ],
+  "claim": "Prothom Alo reported in March 2025 that Md. Kawsar (30), a construction worker from Trishal, Mymensingh, had gone to Saudi Arabia about 16 months earlier for BDT 7 lakh in all, BDT 5 lakh of it taken as dadon (an informal loan) costing BDT 10,000 a month per lakh, and that his family took a further BDT 2.10 lakh from two NGOs to pay the dadon.",
+  "target_section": "How they pay",
+  "placement": "other: moneylender interest",
+  "why_new": "The guide says moneylenders charge 'far higher interest' without a figure; this gives the word dadon and a rate (10% a month).",
+  "published": "2025-03-10"
+ },
+ {
+  "key": "SA3d-31",
+  "fact_ids": [
+   "SP0433"
+  ],
+  "claim": "In OKUP's 2022 Gulf survey (released October 2025), 72% of free-visa workers took loans, 11% mortgaged land and 6% sold land, and those who came home without work could not recover mortgaged land.",
+  "target_section": "How they pay",
+  "placement": "other: borrowing",
+  "why_new": "Adds land mortgage and sale shares; guide gives 81% borrowing (BBS) and lender types only.",
+  "published": "2025-10-19"
+ },
+ {
+  "key": "SA3a-51",
+  "fact_ids": [
+   "SP0085"
+  ],
+  "claim": "At a 1 July 2024 political dialogue in Riyadh, Foreign Minister Hasan Mahmud asked the Saudi foreign minister for a special opportunity for Bangladeshi expatriates running businesses in Saudi Arabia to register them, according to Bangladesh's foreign ministry.",
+  "target_section": "Irregular routes and how they end",
+  "placement": "other: business owners",
+  "why_new": "Relates to the guide's tasattur (commercial concealment) warning [SM0020]; whether any registration window followed is a Need to know.",
+  "published": "2024-07-01"
+ },
+ {
+  "key": "SA3a-57",
+  "fact_ids": [
+   "SP0094"
+  ],
+  "claim": "Foreign Minister Hasan Mahmud said on 15 July 2024 that he had discussed with the Saudi ambassador in Dhaka, Essa Yousef Essa Al-Duhailan, the joint task force to protect Bangladeshis wanting Saudi jobs from fraud and the registration of businesses in Saudi Arabia in Bangladeshis' own names.",
+  "target_section": "Irregular routes and how they end",
+  "placement": "other: business owners",
+  "why_new": "Confirms the business-registration ask (articles db249f15, cbb5ea51) was about businesses in Bangladeshis' own names, the alternative to tasattur [SM0020]; outcome unknown.",
+  "published": "2024-07-15"
+ },
+ {
+  "key": "SA3b-19",
+  "fact_ids": [
+   "SP0157"
+  ],
+  "claim": "The same writer reported from field work in Saudi Arabia (December 2024) that Bangladeshis who open a baqala (small grocery shop) or other small business have to keep a Sudanese or Egyptian employee, paid a large sum, to handle daily correspondence and legal formalities.",
+  "target_section": "Irregular routes and how they end",
+  "placement": "other: small shops",
+  "why_new": "Ground-level detail on how Bangladeshi-run baqalas operate; relates to the guide's tasattur (commercial concealment) paragraph but the article does not say whether these shops are registered in a Saudi's name.",
+  "published": "2024-12-18"
+ },
+ {
+  "key": "SA3b-28",
+  "fact_ids": [
+   "SP0175",
+   "SP0176"
+  ],
+  "claim": "Mosammat Hanifa of Narayanganj said in December 2024 that she paid a broker BDT 4 lakh to go to Saudi Arabia for a company job, found no job, was kept in a room with 20 to 25 others for some days, made to work a month in pilgrims' houses and then turned out, worked illegally in various places, and came home with kidney problems and diabetes.",
+  "target_section": "Irregular routes and how they end",
+  "placement": "Cases",
+  "why_new": "Case of a woman sold a company-job visa and paying BDT 4 lakh; bears on the guide's Need to know on whether women go on company visas.",
+  "published": "2024-12-29"
+ },
+ {
+  "key": "SA3b-31",
+  "fact_ids": [
+   "SP0183"
+  ],
+  "claim": "Prothom Alo reported in January 2025 that there were complaints of workers in Saudi Arabia not getting work as per contract, becoming illegal, being detained by Saudi police and sent home, and that Saudi Arabia tops the list of countries from which workers return empty-handed without a passport.",
+  "target_section": "Irregular routes and how they end",
+  "placement": "other: how it ends",
+  "why_new": "Adds that Saudi Arabia leads returns without passports (outpass returns); the guide's Irregular routes says detainees land with almost nothing but not this ranking.",
+  "published": "2025-01-03"
+ },
+ {
+  "key": "SA3c-36",
+  "fact_ids": [
+   "SP0338",
+   "SP0339",
+   "SP0340"
+  ],
+  "claim": "Abdul Jabbar Sardar, a farm labourer from Hiranandapur, Tanore, Rajshahi, borrowed Tk 7 lakh and went to Saudi Arabia on 16 January 2018, where, his wife Adori Khatun said, he was put to work as a cleaner on landing, later realised brokers had 'sold' him as an airport cleaner, and after three years of unpaid work was sent away empty-handed; the loan was still unpaid in May 2025.",
+  "target_section": "Irregular routes and how they end",
+  "placement": "Cases",
+  "why_new": "New case: three years' unpaid work as an airport cleaner, then cast out undocumented.",
+  "published": "2025-05-29"
+ },
+ {
+  "key": "SA3e-34",
+  "fact_ids": [
+   "SP0660",
+   "SP0661",
+   "SP0662"
+  ],
+  "claim": "Fahim Ahmed Munna (20) of Dowarabazar, Sunamganj, whose father has worked in Saudi Arabia for 18 years, left home on 16 February 2026, spent two days in Saudi Arabia, was taken to Libya and put on a small rubber boat (a 'game') on 21 March, and died of hunger and thirst at sea, his uncle said; he had been sent through a relative acting as dalal.",
+  "target_section": "Irregular routes and how they end",
+  "placement": "other: Saudi as a transit to Libya",
+  "why_new": "Saudi Arabia used as a stepping stone to Libya; not in guide.",
+  "published": "2026-03-30"
+ },
+ {
+  "key": "SA3e-37",
+  "fact_ids": [
+   "SP0666"
+  ],
+  "claim": "Azgar Bepari's sister-in-law told Prothom Alo (reported 1 April 2026) that he had paid money for his iqama twice without getting it.",
+  "target_section": "Irregular routes and how they end",
+  "placement": "other: kafil keeps renewal money",
+  "why_new": "Another case of the guide's 'kafil who keeps the renewal money' (SL0028).",
+  "published": "2026-04-01"
+ },
+ {
+  "key": "SA3f-17",
+  "fact_ids": [
+   "SP0741"
+  ],
+  "claim": "Rabiul Islam (28) of Naldanga, Natore, was sent to Saudi Arabia about five years before his death in the August 2026 Riyadh fire on a Tk 5 lakh loan, went through a broker ring and did not get an iqama for his first three years, so he could not work regularly or earn much, his father said.",
+  "target_section": "Irregular routes and how they end",
+  "placement": "Cases",
+  "why_new": "A named case of the no-iqama route the guide describes in general terms.",
+  "published": "2026-08-28"
+ },
+ {
+  "key": "SA3a-4",
+  "fact_ids": [
+   "SP0006"
+  ],
+  "claim": "The Bangladesh embassy in Riyadh said in January 2024 that Saudi Arabia's selection to host World Expo 2030 and the 2034 FIFA World Cup had opened wide job opportunities for skilled workers in construction, cleaning, maintenance, and tourism and hospitality.",
+  "target_section": "Is it open now, and who can go?",
+  "placement": "other: growth opportunities",
+  "why_new": "The guide has no growth-opportunity line for the corridor (an aim the audit asks for).",
+  "published": "2024-01-02"
+ },
+ {
+  "key": "SA3b-15",
+  "fact_ids": [
+   "SP0148"
+  ],
+  "claim": "People in the sector told Prothom Alo in December 2024 that Saudi demand for Bangladeshi workers was coming regularly because Saudi Arabia will host the 2034 football World Cup and has begun preparing football infrastructure.",
+  "target_section": "Is it open now, and who can go?",
+  "placement": "Status",
+  "why_new": "The guide never names what drives Saudi demand (World Cup 2034 and other projects).",
+  "published": "2024-12-18"
+ },
+ {
+  "key": "SA3b-17",
+  "fact_ids": [
+   "SP0152",
+   "SP0153"
+  ],
+  "claim": "BAIRA (the recruiting agency owners' association) secretary general Ali Haider Chowdhury said in December 2024 that the labour market was shrinking, workers were going mainly to Saudi Arabia, and a meeting of the two countries' technical committee should be called to discuss existing problems.",
+  "target_section": "Is it open now, and who can go?",
+  "placement": "other: dependence",
+  "why_new": "Context on Bangladesh's dependence on Saudi Arabia in late 2024; not in the guide.",
+  "published": "2024-12-18"
+ },
+ {
+  "key": "SA3b-22",
+  "fact_ids": [
+   "SP0162",
+   "SP0163"
+  ],
+  "claim": "The embassy's chargé d'affaires said in December 2024 that Saudi Arabia's hosting of the 2027 AFC Asian Cup, the 2029 Asian Winter Games, World Expo 2030 and the 2034 FIFA World Cup, and giga projects such as NEOM, Red Sea, Qiddiya, Green Riyadh, Amaala, Diriyah and Roshn, opened great prospects for expanding the Bangladeshi labour market.",
+  "target_section": "Is it open now, and who can go?",
+  "placement": "Status",
+  "why_new": "Names the projects and events behind Saudi demand; not in the guide.",
+  "published": "2024-12-19"
+ },
+ {
+  "key": "SA3b-44",
+  "fact_ids": [
+   "SP0207"
+  ],
+  "claim": "Per a press release of 29 January 2025, Saudi recruitment companies told Adviser Asif Nazrul that they recognise skilled Bangladeshi professionals but face a lack of information, marketing and networking, slow visa processing, language barriers and a lack of pre-boarding training.",
+  "target_section": "Is it open now, and who can go?",
+  "placement": "other: skilled workers",
+  "why_new": "Saudi employers' stated barriers to hiring skilled Bangladeshis; not in the guide.",
+  "published": "2025-01-29"
+ },
+ {
+  "key": "SA3b-61",
+  "fact_ids": [
+   "SP0232",
+   "SP0233"
+  ],
+  "claim": "Bangladesh's ambassador to Saudi Arabia, Mohammad Delwar Hossain, said at a Jeddah consulate seminar in late February 2025 that bringing skilled people to Saudi Arabia was their number one manpower priority, and that talks across Saudi Arabia showed skilled professionals were an important obstacle.",
+  "target_section": "Is it open now, and who can go?",
+  "placement": "other: skilled workers",
+  "why_new": "Official mission priority; not in the guide.",
+  "published": "2025-03-02"
+ },
+ {
+  "key": "SA3d-51",
+  "fact_ids": [
+   "SP0467"
+  ],
+  "claim": "Syed Saiful Haque, chairperson of WARBE and a returnee who spent about 10 years in Saudi Arabia, said in December 2025 that the government has twice banned women from going abroad and twice lifted the ban.",
+  "target_section": "Is it open now, and who can go?",
+  "placement": "other: women",
+  "why_new": "Past bans on women going abroad (not Saudi-specific) are not in the guide; dates not given.",
+  "published": "2026-01-12"
+ },
+ {
+  "key": "SA3a-3",
+  "fact_ids": [
+   "SP0005"
+  ],
+  "claim": "According to the Bangladesh embassy in Riyadh, Bangladeshi migrants sent USD 21.61 billion home in fiscal year 2022-23, of which USD 3.07 billion, 16% of the total, came from Saudi Arabia.",
+  "target_section": "Size",
+  "placement": "The numbers (remittances)",
+  "why_new": "The guide gives no remittance figure from Saudi Arabia.",
+  "published": "2024-01-02"
+ },
+ {
+  "key": "SA3a-18",
+  "fact_ids": [
+   "SP0022"
+  ],
+  "claim": "According to the Bangladesh Medical Association (February 2024), about 30 lakh Bangladeshi workers are in Saudi Arabia, only a few of them health workers.",
+  "target_section": "Size",
+  "placement": "The numbers (stock)",
+  "why_new": "The guide gives yearly departures but no stock of Bangladeshi workers in Saudi Arabia.",
+  "published": "2024-02-04"
+ },
+ {
+  "key": "SA3a-19",
+  "fact_ids": [
+   "SP0023",
+   "SP0024"
+  ],
+  "claim": "By BMET figures analysed by Prothom Alo (February 2024), of more than 1 crore 60 lakh workers sent abroad since 1976, 35% went to Saudi Arabia, and in the five years 2019-2023 about 55% of all workers who left went there.",
+  "target_section": "Size",
+  "placement": "The numbers (share)",
+  "why_new": "Long-run share not in the guide, which gives only 2025-2026 departures and 'two of every three' [E0129].",
+  "published": "2024-02-14"
+ },
+ {
+  "key": "SA3a-22",
+  "fact_ids": [
+   "SP0029",
+   "SP0030"
+  ],
+  "claim": "Foreign Minister Hasan Mahmud told Bangladeshis in Jeddah on 6 March 2024 that about 30 lakh Bangladeshis live in Saudi Arabia, and urged them to send money home through legal channels.",
+  "target_section": "Size",
+  "placement": "The numbers (stock)",
+  "why_new": "An official (ministerial) figure for the stock of Bangladeshis in Saudi Arabia, which the guide lacks; matches the Bangladesh Medical Association's 30 lakh.",
+  "published": "2024-03-06"
+ },
+ {
+  "key": "SA3a-28",
+  "fact_ids": [
+   "SP0040"
+  ],
+  "claim": "By BMET figures cited in a March 2024 opinion piece, 1 crore 45 lakh 8 thousand Bangladeshis had gone abroad with BMET clearance since 1976, 51 lakh 82 thousand of them to Saudi Arabia.",
+  "target_section": "Size",
+  "placement": "The numbers (cumulative)",
+  "why_new": "Cumulative Saudi departures not in the guide. Conflict with article 1017c704 (Prothom Alo, February 2024), which puts total departures since 1976 at over 1 crore 60 lakh with 35% to Saudi Arabia (about 56 lakh).",
+  "published": "2024-03-18"
+ },
+ {
+  "key": "SA3a-38",
+  "fact_ids": [
+   "SP0062"
+  ],
+  "claim": "The Saudi labour ministry's assistant deputy minister said in May 2024 that Bangladeshis are the largest group of foreign workers in Saudi Arabia.",
+  "target_section": "Size",
+  "placement": "The numbers (stock)",
+  "why_new": "An official Saudi statement that Bangladeshis are the largest foreign workforce; not in the guide.",
+  "published": "2024-05-30"
+ },
+ {
+  "key": "SA3a-41",
+  "fact_ids": [
+   "SP0068"
+  ],
+  "claim": "By the expatriates' welfare ministry's count, 11,25,833 workers went abroad for jobs in fiscal 2022-23, the most, nearly 4.5 lakh, to Saudi Arabia.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "A fiscal-year Saudi departure figure not in the guide (which gives calendar 2025 and 2026).",
+  "published": "2024-06-16"
+ },
+ {
+  "key": "SA3a-56",
+  "fact_ids": [
+   "SP0093"
+  ],
+  "claim": "By BMET figures, about 39 lakh Bangladeshi workers went to Saudi Arabia from 2004 to June 2024, against about 21.5 lakh to the UAE.",
+  "target_section": "Size",
+  "placement": "The numbers (cumulative)",
+  "why_new": "A 20-year comparison with the next-largest Gulf corridor; not in the guide.",
+  "published": "2024-07-13"
+ },
+ {
+  "key": "SA3b-14",
+  "fact_ids": [
+   "SP0146",
+   "SP0147"
+  ],
+  "claim": "Prothom Alo reported on 18 December 2024 that 60% of the workers who went abroad from Bangladesh that year went to Saudi Arabia, and more than 80% of overseas employment in the previous two months (October and November) was in Saudi Arabia.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "The guide's Size has 2025 and 2026 figures only; this adds 2024 share. Conflicts slightly with Ami Probashi's 62% for 2024 (see SA3b draft from the 5 February 2025 article).",
+  "published": "2024-12-18"
+ },
+ {
+  "key": "SA3b-20",
+  "fact_ids": [
+   "SP0158",
+   "SP0159"
+  ],
+  "claim": "At the Bangladesh embassy in Riyadh on 18 December 2024, chargé d'affaires S M Rakib Ullah referred to 33 lakh (3.3 million) expatriate Bangladeshis in Saudi Arabia.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "The guide gives departures but no stock of Bangladeshis in Saudi Arabia. Other figures: 30 lakh (foreign adviser, January 2025; expatriates' adviser, 'more than 30 lakh'), and the cross-country guide's 'at least 25 lakh'.",
+  "published": "2024-12-19"
+ },
+ {
+  "key": "SA3b-30",
+  "fact_ids": [
+   "SP0180",
+   "SP0181",
+   "SP0182"
+  ],
+  "claim": "Prothom Alo reported on 3 January 2025 that about 5 lakh Bangladeshi workers went to Saudi Arabia in 2023 and more than 6.25 lakh in 2024, that Saudi Arabia was the only country to take more than one lakh workers in 2024, and that more than 80% of overseas employment in the last three months was in Saudi Arabia.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Guide's Size starts at 2025 (755,194); this gives 2023 and 2024.",
+  "published": "2025-01-03"
+ },
+ {
+  "key": "SA3b-39",
+  "fact_ids": [
+   "SP0198",
+   "SP0199"
+  ],
+  "claim": "Saudi ambassador in Dhaka Essa Yousef Essa Alduhailan said on 28 January 2025 that the Saudi embassy had issued visas for 22 lakh (2.2 million) Bangladeshi workers in the last three years and was issuing 7,000 visas a day.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Visa issuance figure from the Saudi side; not in the guide. A foreign ministry official in the same article said about 14 lakh workers went in the ambassador's roughly five years, so visas issued far exceed departures.",
+  "published": "2025-01-28"
+ },
+ {
+  "key": "SA3b-40",
+  "fact_ids": [
+   "SP0200",
+   "SP0201",
+   "SP0202"
+  ],
+  "claim": "A Bangladesh foreign ministry official said in January 2025 that about 14 lakh Bangladeshi workers had gone to Saudi Arabia during the Saudi ambassador's roughly five years in Dhaka, and that worker migration never fully stopped even during the coronavirus pandemic; Foreign Adviser M Touhid Hossain spoke of 30 lakh Bangladeshis in Saudi Arabia.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Stock figure 30 lakh conflicts with the embassy's 33 lakh (December 2024) and the cross-country guide's 'at least 25 lakh'.",
+  "published": "2025-01-28"
+ },
+ {
+  "key": "SA3b-53",
+  "fact_ids": [
+   "SP0221",
+   "SP0222"
+  ],
+  "claim": "The 2024 annual report of the digital migration platform Ami Probashi says 1,009,146 Bangladeshi workers went abroad in 2024, 27% fewer than the 1,390,811 of 2023, and that Saudi Arabia was again the top destination with 62% of them.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "2024 Saudi share; conflicts slightly with Prothom Alo's 60% (December 2024, 11 months' data).",
+  "published": "2025-02-05"
+ },
+ {
+  "key": "SA3b-63",
+  "fact_ids": [
+   "SP0236"
+  ],
+  "claim": "The ambassador said in February 2025 that, as community leaders told him, five thousand Bangladeshi businesspeople were already registered in Saudi Arabia.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Low priority; count of registered Bangladeshi businesspeople.",
+  "published": "2025-03-02"
+ },
+ {
+  "key": "SA3b-69",
+  "fact_ids": [
+   "SP0250"
+  ],
+  "claim": "BMET figures reported in March 2025 show 44,229 workers went to Saudi Arabia in September 2024, 83,582 in October 2024, about the same for the next two months, 76,618 in January 2025 and 44,258 in February 2025.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Monthly departures show the size of the early-2025 stall; not in the guide.",
+  "published": "2025-03-11"
+ },
+ {
+  "key": "SA3c-10",
+  "fact_ids": [
+   "SP0277",
+   "SP0278"
+  ],
+  "claim": "By Saudi government figures about 5 lakh workers from Kenya and Uganda, mostly women domestic workers, work in Saudi Arabia, and at least 274 Kenyan workers, mostly women, died there in the five years to early 2025, 55 of them in 2024, double the year before, the New York Times reported.",
+  "target_section": "Size",
+  "placement": "other: other countries' workers",
+  "why_new": "Corridor comparison (East African competition for domestic-worker jobs); the guide has no comparison with other sending countries for domestic work. Low priority.",
+  "published": "2025-03-19"
+ },
+ {
+  "key": "SA3c-12",
+  "fact_ids": [
+   "SP0282",
+   "SP0283"
+  ],
+  "claim": "A banker's column in Prothom Alo in April 2025 said about 28 lakh Bangladeshis live in Middle Eastern countries, more than 21 lakh of them in Saudi Arabia, making Bangladesh third among Saudi Arabia's foreign workforces after India and Pakistan.",
+  "target_section": "Size",
+  "placement": "The numbers (stock)",
+  "why_new": "The guide gives departures but no stock of Bangladeshis in Saudi Arabia. CONFLICT within this batch: 21 lakh+ here, about 32 lakh (Foreign Adviser, SA3c drafts from 79b9bcde), about 35 lakh working (religious affairs adviser, 851093ae), more than 30 lakh (Asif Nazrul, bb65a329). A reviewer should pick an official figure.",
+  "published": "2025-04-07"
+ },
+ {
+  "key": "SA3c-20",
+  "fact_ids": [
+   "SP0302"
+  ],
+  "claim": "Foreign Adviser Touhid Hossain said in April 2025 that about 32 lakh Bangladeshis live in Saudi Arabia and asked how a mission's 50 officials could handle the problems of so many people.",
+  "target_section": "Size",
+  "placement": "The numbers (stock)",
+  "why_new": "Stock figure and embassy staffing (50 officials); the guide has neither. CONFLICT with other stock figures in this batch (21 lakh+, 30 lakh+, 35 lakh).",
+  "published": "2025-04-19"
+ },
+ {
+  "key": "SA3c-24",
+  "fact_ids": [
+   "SP0311",
+   "SP0312"
+  ],
+  "claim": "Religious affairs adviser A F M Khalid Hossain said in May 2025 that about 35 lakh Bangladeshis work in Saudi Arabia and that the highest remittance comes from Saudi Arabia.",
+  "target_section": "Size",
+  "placement": "The numbers (stock)",
+  "why_new": "Stock figure; CONFLICT with 21 lakh+ (column), 32 lakh (Foreign Adviser) and 30 lakh+ (Asif Nazrul) in this batch; the guide gives no stock.",
+  "published": "2025-05-02"
+ },
+ {
+  "key": "SA3c-31",
+  "fact_ids": [
+   "SP0327"
+  ],
+  "claim": "Asif Nazrul thanked Saudi Arabia in May 2025 for hosting more than 30 lakh Bangladeshis.",
+  "target_section": "Size",
+  "placement": "The numbers (stock)",
+  "why_new": "Stock figure; CONFLICT with 21 lakh+, 32 lakh and 35 lakh in this batch.",
+  "published": "2025-05-06"
+ },
+ {
+  "key": "SA3c-47",
+  "fact_ids": [
+   "SP0359",
+   "SP0360",
+   "SP0361"
+  ],
+  "claim": "By BMET figures total departures of Bangladeshi workers fell from 13 lakh in 2023 to 10 lakh in 2024 because the Malaysia, UAE and Oman markets were closed, while, according to information gathered by Prothom Alo and unnamed sources, about 5 lakh workers went to Saudi Arabia in 2023 and about 6.25 lakh in 2024, Saudi Arabia being the only country to take more than 1 lakh.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "The guide gives 2025 and 2026 departures only; adds 2023 and 2024.",
+  "published": "2025-06-16"
+ },
+ {
+  "key": "SA3c-48",
+  "fact_ids": [
+   "SP0362",
+   "SP0363"
+  ],
+  "claim": "Prothom Alo reported in June 2025 that 34% of all Bangladeshi workers who have gone abroad so far went to Saudi Arabia and 73% of those who left in the five months to May 2025 went there, and by BMET data 3 lakh of the 4.2 lakh workers who left in the first five months of 2025 went to Saudi Arabia, followed by Qatar with 40,000 and Singapore with over 26,000.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Adds the all-time share (34%) and the early-2025 share (73%); the guide says 'two of every three' for 2025-2026.",
+  "published": "2025-06-24"
+ },
+ {
+  "key": "SA3d-12",
+  "fact_ids": [
+   "SP0396"
+  ],
+  "claim": "Prothom Alo reported in August 2025 that demand for unskilled workers has fallen in Saudi Arabia, the largest labour market.",
+  "target_section": "Size",
+  "placement": "other: demand trend",
+  "why_new": "Guide gives numbers but not the stated fall in demand for unskilled workers.",
+  "published": "2025-08-20"
+ },
+ {
+  "key": "SA3d-25",
+  "fact_ids": [
+   "SP0423"
+  ],
+  "claim": "Policy Exchange chairman Masrur Reaz said on 7 October 2025 that about 21 lakh Bangladeshis work in Saudi Arabia, only 22 percent of them skilled.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Guide gives yearly departures but no stock of Bangladeshis in Saudi Arabia or skill share; another column (891d19ee) says 25 lakh.",
+  "published": "2025-10-07"
+ },
+ {
+  "key": "SA3d-27",
+  "fact_ids": [
+   "SP0425"
+  ],
+  "claim": "A Prothom Alo opinion column (October 2025) stated there are about 25 lakh Bangladeshi expatriates in Saudi Arabia.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Stock figure not in guide; conflicts with the 21 lakh given at the October 2025 business summit (97cc1097).",
+  "published": "2025-10-10"
+ },
+ {
+  "key": "SA3d-37",
+  "fact_ids": [
+   "SP0440"
+  ],
+  "claim": "More than 10 lakh Bangladeshis work in Jeddah and Saudi Arabia's western region, served by the Bangladesh Consulate in Jeddah (October 2025).",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Regional stock figure not in guide.",
+  "published": "2025-10-22"
+ },
+ {
+  "key": "SA3d-46",
+  "fact_ids": [
+   "SP0456",
+   "SP0457",
+   "SP0458"
+  ],
+  "claim": "RMMRU's report released on 7 January 2026 said 1,130,757 workers went abroad in 2025, 67% of them (754,369) to Saudi Arabia, followed by Qatar 10%, Singapore 6%, Kuwait 4% and the Maldives 4%.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Conflict: guide gives BMET's 755,194 to Saudi Arabia of 1,132,360 [SB0017]; RMMRU gives 754,369 of 1,130,757.",
+  "published": "2026-01-07"
+ },
+ {
+  "key": "SA3e-11",
+  "fact_ids": [
+   "SP0624",
+   "SP0625"
+  ],
+  "claim": "Saudi ambassador Abdullah Zafer H. bin Abiyah told Bangladesh's foreign minister on 22 February 2026 that Saudi Arabia issued 750,000 work visas and 1.4 million visas in all to Bangladeshis in 2025, and that ongoing development work there means more jobs for skilled and semi-skilled workers.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Saudi-side visa count; guide gives BMET departures (755,194 in 2025, SB0017). Different measure, close figure; no real conflict.",
+  "published": "2026-02-22"
+ },
+ {
+  "key": "SA3e-15",
+  "fact_ids": [
+   "SP0634"
+  ],
+  "claim": "According to BMET, 1,130,757 Bangladeshi workers went abroad in 2025, 67% of them to Saudi Arabia.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Share supports In one minute's 'two of every three'; the 2025 total conflicts slightly with other figures (1,116,399 in A18; 1,132,519 from the minister in A19).",
+  "published": "2026-03-14"
+ },
+ {
+  "key": "SA3e-30",
+  "fact_ids": [
+   "SP0652"
+  ],
+  "claim": "According to expatriates' welfare ministry statistics reported in March 2026, about 20 lakh (2 million) Bangladeshi workers are in Saudi Arabia.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Guide gives departures but no stock of Bangladeshi workers in Saudi Arabia.",
+  "published": "2026-03-20"
+ },
+ {
+  "key": "SA3e-31",
+  "fact_ids": [
+   "SP0653",
+   "SP0654",
+   "SP0655"
+  ],
+  "claim": "A Bangladesh Bank report showed USD 1.31 billion of remittances came from Saudi Arabia in the October-December second quarter of what the article calls the current 2026-27 fiscal year, the most of the six Gulf countries, ahead of the UAE at USD 1.18 billion.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Guide has no quarterly Saudi remittance figure. Article's fiscal-year label looks wrong (published March 2026).",
+  "published": "2026-03-20"
+ },
+ {
+  "key": "SA3e-32",
+  "fact_ids": [
+   "SP0656"
+  ],
+  "claim": "Prothom Alo reported in March 2026, without naming a source, that 743,000 of the 1,116,000 Bangladeshis who went abroad for work in 2025 went to Saudi Arabia.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "CONFLICT: guide says 755,194 went to Saudi Arabia in 2025 (SB0017).",
+  "published": "2026-03-20"
+ },
+ {
+  "key": "SA3e-40",
+  "fact_ids": [
+   "SP0670",
+   "SP0671"
+  ],
+  "claim": "According to BMET figures cited in Prothom Alo in April 2026, 919,981 (about 82.4%) of the 1,116,399 Bangladeshis who went abroad in 2025 went to the Middle East or GCC countries, and according to Bangladesh Bank about 46% (USD 15.07 billion) of USD 32.8 billion remittances in 2025 came from GCC countries.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Regional context; better cross-country. Conflicts with the 1,130,757 total in A8.",
+  "published": "2026-04-03"
+ },
+ {
+  "key": "SA3e-58",
+  "fact_ids": [
+   "SP0703"
+  ],
+  "claim": "The expatriates' welfare minister told parliament on 23 June 2026 that of USD 30.32 billion remittances in fiscal 2024-25, the most, USD 4.26 billion, came from Saudi Arabia.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Guide has no yearly remittance figure for Saudi Arabia.",
+  "published": "2026-06-23"
+ },
+ {
+  "key": "SA3f-2",
+  "fact_ids": [
+   "SP0710",
+   "SP0711",
+   "SP0712"
+  ],
+  "claim": "The same July 2026 column says demand across the Arab world is rising for industrial automation technicians, advanced welders, electrical and mechanical technicians, health workers, renewable energy specialists, logistics operators, IT-skilled workers and digital maintenance specialists, that repetitive and easily replaced jobs will come under pressure from automation, robotics, AI and digital management, and separately that demand for large numbers of construction workers has fallen as big infrastructure projects mature.",
+  "target_section": "Size",
+  "placement": "other: outlook",
+  "why_new": "Growth-opportunity and outlook information (one of the corridor-info aims) that the guide lacks; it is a columnist's view citing the ILO, not Saudi-specific data.",
+  "published": "2026-07-24"
+ },
+ {
+  "key": "SA3f-23",
+  "fact_ids": [
+   "SP0756"
+  ],
+  "claim": "A September 2026 column, citing BMET via the BSS news agency, says about 11.17 lakh Bangladeshis went abroad for work in 2025, more than 7.52 lakh of them to Saudi Arabia.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Conflict: the guide gives 755,194 to Saudi Arabia in 2025 [SB0017]; 8cd6aabe gives 11.32 lakh total abroad in 2025 vs 11.17 lakh here.",
+  "published": "2026-09-03"
+ },
+ {
+  "key": "SA3f-35",
+  "fact_ids": [
+   "SP0776"
+  ],
+  "claim": "More than 28 lakh Bangladeshi workers were working in Saudi Arabia in September 2026, making it Bangladesh's largest labour market, according to Prothom Alo.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "The guide gives yearly departures but no figure for Bangladeshis working in Saudi Arabia now.",
+  "published": "2026-09-27"
+ },
+ {
+  "key": "SA3f-59",
+  "fact_ids": [
+   "SP0820",
+   "SP0821",
+   "SP0822"
+  ],
+  "claim": "By BMET figures, clearances for Saudi Arabia up to 12 October fell from 572,054 in 2025 to 311,567 in 2026, about 46%, and in the first 12 days of October alone from 3,971 to 1,850; the article also reports that about 6.25 lakh Bangladeshis went to Saudi Arabia for work in 2024 and more than 7.55 lakh in 2025.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Consistent with the guide's 315,935 to 17 October (45% down) [E0129]; adds the 2024 figure and the October collapse.",
+  "published": "2026-10-13"
+ },
+ {
+  "key": "SA3g-5",
+  "fact_ids": [
+   "SP0474"
+  ],
+  "claim": "In April 2026 the Expatriates' Welfare Minister said about 30 lakh (3 million) Bangladeshis were working in Saudi Arabia, according to a Prothom Alo opinion column (17 October 2026).",
+  "target_section": "Size",
+  "placement": "Status / stock of workers",
+  "why_new": "Guide's Size gives flows only; facts.csv E0121 gives 2.59 million Bangladeshis in Saudi Arabia. Conflict: minister says ~3 million; state minister Shama Obaid said over 4 million on 23 Oct 2026 (see SA3g draft from 512d9f3e).",
+  "published": "2026-10-17"
+ },
+ {
+  "key": "SA3g-45",
+  "fact_ids": [
+   "SP0537"
+  ],
+  "claim": "On 23 October 2026 State Minister for Foreign Affairs Shama Obaid Islam said over 40 lakh (4 million) Bangladeshis work in Saudi Arabia.",
+  "target_section": "Size",
+  "placement": "Status / stock of workers",
+  "why_new": "CONFLICT: facts.csv E0121 gives 2.59 million; the Expatriates' Welfare Minister said ~3 million in April 2026 (45082f82).",
+  "published": "2026-10-23"
+ },
+ {
+  "key": "SA3h-4",
+  "fact_ids": [
+   "SP0550"
+  ],
+  "claim": "According to Bangladesh's foreign ministry in October 2026, about 1 lakh 69 thousand (169,000) Bangladeshi women workers are now in Saudi Arabia.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "New: the guide has departure numbers but no stock of women workers.",
+  "published": "2026-10-25"
+ },
+ {
+  "key": "SA3h-13",
+  "fact_ids": [
+   "SP0564"
+  ],
+  "claim": "Saudi ambassador Abdullah Zafer H bin Abiyah said on 26 October 2026 that, after Saudi citizens, Bangladeshi workers are the largest group living in Saudi Arabia.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "New: Saudi official statement on the size of the Bangladeshi community; the guide has flows but no stock.",
+  "published": "2026-10-26"
+ },
+ {
+  "key": "SA3h-20",
+  "fact_ids": [
+   "SP0571",
+   "SP0572"
+  ],
+  "claim": "Prothom Alo reported in October 2026 that Bangladeshis are the largest group of foreign workers in Saudi Arabia, at least 25 lakh (2.5 million), followed by Indians, Pakistanis, Yemenis and Egyptians, and that migrant workers are about 77 percent of Saudi Arabia's workforce.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "New: stock of Bangladeshi workers; the guide gives only yearly departures. No primary source named for the 25 lakh.",
+  "published": "2026-10-27"
+ },
+ {
+  "key": "SA3b-16",
+  "fact_ids": [
+   "SP0149",
+   "SP0150",
+   "SP0151"
+  ],
+  "claim": "Experts told Prothom Alo in December 2024 that embassy attestation of demand letters should end and recruiting agencies be made liable instead, that labour wings fail to serve workers because administration-cadre officers work there temporarily and are transferred, and that brokers (dalals) should be brought under registration.",
+  "target_section": "The Bangladesh embassy's attestation, and the missing contract",
+  "placement": "other: reform proposals",
+  "why_new": "Insider criticism of the attestation and labour wings; the guide cites TIB on attestation for bribes but not this.",
+  "published": "2024-12-18"
+ },
+ {
+  "key": "SA3b-47",
+  "fact_ids": [
+   "SP0211",
+   "SP0212"
+  ],
+  "claim": "At the 30 January 2025 meeting in Riyadh, Bangladesh and Saudi Arabia discussed making sure workers receive their employment contract before leaving Bangladesh, and Saudi officials said a task force would soon be formed against illegal workers and recruitment irregularities, welcoming Bangladesh's proposal for a joint team.",
+  "target_section": "The Bangladesh embassy's attestation, and the missing contract",
+  "placement": "other: official acknowledgement",
+  "why_new": "Supports the guide's point on missing contracts with a bilateral acknowledgement; the task force outcome is unknown.",
+  "published": "2025-02-01"
+ },
+ {
+  "key": "SA3b-55",
+  "fact_ids": [
+   "SP0223",
+   "SP0224"
+  ],
+  "claim": "In a memorandum to the expatriates' welfare secretary on 5 February 2025, several BAIRA leaders said that for Saudi Arabia the rule had become that any visa lot of more than one must be attested by the embassy, whereas earlier this exemption applied up to 25, and demanded that 24-person visas be treated as a single item and given emigration clearance without embassy attestation.",
+  "target_section": "The Bangladesh embassy's attestation, and the missing contract",
+  "placement": "Status",
+  "why_new": "CONFLICT: the guide says the embassy attests single visas too since 2025; here, a single one-worker visa is exempt and lots of 2+ need attestation. Also 'up to 25' here vs 'up to 24' in the 11 March 2025 article, and the guide's BMET definition of a group visa as 25 or more.",
+  "published": "2025-02-05"
+ },
+ {
+  "key": "SA3b-71",
+  "fact_ids": [
+   "SP0252",
+   "SP0253"
+  ],
+  "claim": "Former BAIRA joint secretary general Fakhrul Islam said in March 2025 that the embassy lacks the capacity to attest every worker's demand letter, so the sudden rule change had cut departures.",
+  "target_section": "The Bangladesh embassy's attestation, and the missing contract",
+  "placement": "other: capacity",
+  "why_new": "Agency-side view of the attestation bottleneck, relevant to how long attestation takes (the guide's Need to know on processing time).",
+  "published": "2025-03-11"
+ },
+ {
+  "key": "SA3c-30",
+  "fact_ids": [
+   "SP0326"
+  ],
+  "claim": "In the May 2025 Riyadh meeting Asif Nazrul proposed that Saudi Arabia verify an employer's capacity and whether work actually exists before issuing a work visa, and that employment contracts be signed online before the worker arrives; these were proposals, not agreed measures.",
+  "target_section": "The Bangladesh embassy's attestation, and the missing contract",
+  "placement": "other: proposals",
+  "why_new": "Shows Bangladesh's ask on the missing-contract and no-job problems; status only, no rule changed.",
+  "published": "2025-05-06"
+ },
+ {
+  "key": "SA3b-45",
+  "fact_ids": [
+   "SP0208",
+   "SP0209"
+  ],
+  "claim": "At a meeting in Riyadh on 30 January 2025 between Expatriates' Welfare Adviser Asif Nazrul and Saudi Human Resources Vice Minister Abdullah Abuthnain, the main topic was high iqama renewal fees and workers losing their jobs because of them; Saudi Arabia said its labour law was being reformed to protect both sides' rights.",
+  "target_section": "The iqama: the employer's bill",
+  "placement": "other: official acknowledgement",
+  "why_new": "Government-level confirmation that iqama fees cost workers their jobs; the guide has the fee amounts but not this.",
+  "published": "2025-02-01"
+ },
+ {
+  "key": "SA3d-15",
+  "fact_ids": [
+   "SP0399",
+   "SP0400",
+   "SP0401"
+  ],
+  "claim": "Physician Arifur Rahman, now Premier Bank chairman, told Prothom Alo (August 2025) that years ago a contractor named Al Khodari, who had the Saudi government contract to clean Dammam, needed 2,700 people from Bangladesh and later divided that job among several people, and that a later job for 4,000 people was also shared among several businessmen who approached him.",
+  "target_section": "The root: a visa the sponsor owns",
+  "placement": "other: history of the trade",
+  "why_new": "Historical example (before 2010) of how a large Saudi demand was split among Bangladeshi recruiters; date not stated in the article.",
+  "published": "2025-09-04"
+ },
+ {
+  "key": "SA3c-34",
+  "fact_ids": [
+   "SP0332",
+   "SP0333",
+   "SP0334"
+  ],
+  "claim": "Manpower businessman Motiur Rahman said that on 18 May 2025 seven masked young men beat him on a train after Altafnagar station and tried to push him off until he fell at Nasratpur station, Adamdighi, Bogura, and he filed an attempted-murder case at Santahar Junction GRP (railway police) station naming as main accused Sumon, brother-in-law of Sajib, a man Motiur had sent to Saudi Arabia who had not found work; Sajib's father said his son had gone 40 days earlier, still had no work and Motiur was hiding from the family, but denied any part in the attack.",
+  "target_section": "The village end",
+  "placement": "Cases",
+  "why_new": "Shows village-level disputes between families and brokers when a worker gets no job or iqama; low priority for a migrant's decisions.",
+  "published": "2025-05-20"
+ },
+ {
+  "key": "SA3a-30",
+  "fact_ids": [
+   "SP0042",
+   "SP0043",
+   "SP0044"
+  ],
+  "claim": "A March 2024 opinion piece quoted OKUP chairman Shakirul Islam as saying in a 2023 Business Standard Bangla report that in the Middle East women domestic workers face physical abuse and other problems because they don't know the language, and that men, though not directly harmed by it, lag in earnings because without the local language they stay in low-skilled work.",
+  "target_section": "What goes wrong most, and what people wrongly believe",
+  "placement": "Complaints (language)",
+  "why_new": "Language as a cause of abuse and low pay is not in the guide; the housekeeping course includes language (Step 3), but nothing for men.",
+  "published": "2024-03-18"
+ },
+ {
+  "key": "SA3a-37",
+  "fact_ids": [
+   "SP0060",
+   "SP0061"
+  ],
+  "claim": "At a 29 May 2024 meeting with the Saudi Ministry of Human Resources and Social Development, the Bangladesh embassy's deputy head of mission Md. Abul Hasan Mridha asked for Saudi cooperation on visa issues including assurance of work and iqama, sending women workers home when their contracts end, quick return of workers whose iqamas have expired, and settling Bangladeshi recruiting agencies' complaints on the Musaned system, and asked the ministry to name a focal point for quick solutions to workers' problems, which the assistant deputy minister agreed to.",
+  "target_section": "What goes wrong most, and what people wrongly believe",
+  "placement": "Complaints",
+  "why_new": "The embassy's own list of the main problems (no work or iqama on arrival, women not sent home at contract end, expired-iqama returns) corroborates the guide's complaint types [E0128, SL0014]; the agreed ministry focal point is new.",
+  "published": "2024-05-30"
+ },
+ {
+  "key": "SA3c-19",
+  "fact_ids": [
+   "SP0300",
+   "SP0301"
+  ],
+  "claim": "Foreign Adviser Touhid Hossain said in April 2025 that about 80% of the problems Bangladeshi migrant workers face arise from processes in Bangladesh before they leave and 20% in the destination country, citing Saudi Arabia, where about 32 lakh Bangladeshis live, as an example of a mission's workload.",
+  "target_section": "What goes wrong most, and what people wrongly believe",
+  "placement": "Complaints",
+  "why_new": "An official's estimate of where migrant problems originate; not in the guide. Opinion-level, low priority.",
+  "published": "2025-04-18"
+ },
+ {
+  "key": "SA3f-4",
+  "fact_ids": [
+   "SP0716",
+   "SP0717",
+   "SP0718"
+  ],
+  "claim": "A fire at midday on Sunday 9 August 2026 at a sofa-making factory in Riyadh killed 16 Bangladeshis: 13 from Atrai upazila, Naogaon, 2 from Naldanga, Natore, and 1 from Bagmara, Rajshahi, by the Expatriates' Welfare Ministry's preliminary identification.",
+  "target_section": "What goes wrong most, and what people wrongly believe",
+  "placement": "Cases",
+  "why_new": "No workplace-fire case in the guide. A later article (6c96dbb7) says 12 were from Atrai and 1 from Naogaon Sadar.",
+  "published": "2026-08-10"
+ },
+ {
+  "key": "SA3h-27",
+  "fact_ids": [
+   "SP0583"
+  ],
+  "claim": "In December 2024 the UN Committee on the Elimination of Racial Discrimination said migrant workers and domestic workers, including women, face arbitrary detention, torture and ill-treatment in Saudi Arabia's criminal justice system.",
+  "target_section": "What goes wrong most, and what people wrongly believe",
+  "placement": "other: top complaint types",
+  "why_new": "New, but general; reviewer may drop under the actionable rule.",
+  "published": "2026-10-27"
+ },
+ {
+  "key": "SA3h-38",
+  "fact_ids": [
+   "SP0599",
+   "SP0600",
+   "SP0601"
+  ],
+  "claim": "Akkas Pramanik of Atrai, Naogaon, said he sent his son Minhaz to Saudi Arabia in 2025 on a Tk 7 lakh loan through a broker ring; Minhaz got no iqama for a year, found work at a Riyadh sofa factory four months before he died in the August 2026 fire, and the family is left with the debt.",
+  "target_section": "What goes wrong most, and what people wrongly believe",
+  "placement": "Cases",
+  "why_new": "New case of the guide's top complaint (no iqama) with a real cost of Tk 7 lakh; 'in 2025' is derived from 'a year ago' in an October 2026 article. Raises a Need to know: can a family claim the Tk 3 lakh grant/insurance for a worker who had no iqama?",
+  "published": "2026-10-31"
+ },
+ {
+  "key": "SA3a-52",
+  "fact_ids": [
+   "SP0086"
+  ],
+  "claim": "Bangladesh's foreign ministry said the two foreign ministers had a fruitful discussion in Riyadh on 1 July 2024 on forming a joint task force to bring more transparency to sending Bangladeshi workers to Saudi Arabia and stop harassment of workers by vested interests.",
+  "target_section": "What has closed it before",
+  "placement": "other: bilateral measures",
+  "why_new": "Not in the guide; whether the task force was ever formed, and what it did, is a Need to know.",
+  "published": "2024-07-01"
+ },
+ {
+  "key": "SA3b-32",
+  "fact_ids": [
+   "SP0184",
+   "SP0185"
+  ],
+  "claim": "People in the sector told Prothom Alo in January 2025 that sending workers to Saudi Arabia might fall after June 2025, while BAIRA's secretary general warned that with almost every other market closed, a Saudi closure for any reason would be a disaster.",
+  "target_section": "What has closed it before",
+  "placement": "other: forecasts",
+  "why_new": "Context: the forecast fall did not happen by the guide's 2025 figure (755,194), useful to reviewers only.",
+  "published": "2025-01-03"
+ },
+ {
+  "key": "SA3b-68",
+  "fact_ids": [
+   "SP0247",
+   "SP0248",
+   "SP0249"
+  ],
+  "claim": "Prothom Alo reported on 11 March 2025 that since 22 December the government has required the Bangladesh embassy's attestation of any Saudi demand letter for more than one worker, whereas earlier letters for up to 24 workers did not need it (former BAIRA joint secretary general Fakhrul Islam said only BMET's attestation was taken), that BAIRA members blamed this attestation complication for falling departures, and that departures to Saudi Arabia, over 80,000 a month on average since October, fell by half in February.",
+  "target_section": "What has closed it before",
+  "placement": "Status",
+  "why_new": "CONFLICT: the guide dates the single-visa attestation stall 'from late January' 2025 and says single visas need attestation 'since 2025'; this article gives 22 December 2024 and says a one-worker letter is exempt.",
+  "published": "2025-03-11"
+ },
+ {
+  "key": "SA3c-1",
+  "fact_ids": [
+   "SP0254",
+   "SP0255"
+  ],
+  "claim": "A Prothom Alo editorial of 13 March 2025 said that under a rule the Bangladesh government introduced on 22 December 2024, a Saudi demand letter for one worker needs no attestation by the Bangladesh embassy but any letter for more than one worker must be attested, whereas before demand letters for up to 24 workers needed no attestation.",
+  "target_section": "What has closed it before",
+  "placement": "Status",
+  "why_new": "CONFLICT: the guide dates the single-visa attestation stall 'from late January' 2025 [SB0031] and says attestation applies 'for single visas too since 2025' [A0087]; this editorial dates the rule from 22 December 2024 and says a one-worker letter is still exempt, the change being that 2-24 worker letters now need attestation.",
+  "published": "2025-03-13"
+ },
+ {
+  "key": "SA3c-2",
+  "fact_ids": [
+   "SP0256",
+   "SP0257"
+  ],
+  "claim": "From October 2024 more than 80,000 workers a month on average went to Saudi Arabia, but in February 2025 the number fell to half, which members of BAIRA (the Bangladesh Association of International Recruiting Agencies) blamed on delays in attesting demand letters, a Prothom Alo editorial said in March 2025.",
+  "target_section": "What has closed it before",
+  "placement": "Status",
+  "why_new": "Gives the size of the early-2025 attestation stall (monthly departures halved in February 2025); the guide names the stall but not its effect.",
+  "published": "2025-03-13"
+ },
+ {
+  "key": "SA3c-50",
+  "fact_ids": [
+   "SP0367"
+  ],
+  "claim": "Former BAIRA secretary general Ali Haider Chowdhury said in June 2025 that Saudi visas had been closed for a month, new demand had also fallen, and Saudi Arabia might introduce more screening in recruitment when it made an announcement expected in July.",
+  "target_section": "What has closed it before",
+  "placement": "Status",
+  "why_new": "Confirms the June 2025 visa closure the guide ties to the Hajj season [SB0043, E0123], and adds falling demand.",
+  "published": "2025-06-24"
+ },
+ {
+  "key": "SA3c-53",
+  "fact_ids": [
+   "SP0371",
+   "SP0372",
+   "SP0373"
+  ],
+  "claim": "The expatriates' ministry said on 24 June 2025 that Saudi recruitment had slowed somewhat because of complications in the visa process, vaccine-related restrictions and changes in Saudi labour policy, that construction projects for the 2034 World Cup were nearing completion and cutting labour demand, and that in June 2024 Saudi Arabia temporarily suspended visa processing for Bangladeshi workers, as it has done before, this time as it seeks under Vision 2030 a more technology-based, localised workforce that prioritises women workers.",
+  "target_section": "What has closed it before",
+  "placement": "Status",
+  "why_new": "Official reasons for the mid-2025 stall. The ministry's text says June 2024, but the report it answers (a89dbb34, same day) puts the pause in June 2025; likely a misprint. 'Vaccine-related restrictions' are unexplained: Need to know which vaccine rule (possibly meningitis or polio) affected workers.",
+  "published": "2025-06-24"
+ },
+ {
+  "key": "SA3d-11",
+  "fact_ids": [
+   "SP0394",
+   "SP0395"
+  ],
+  "claim": "Prothom Alo reported in August 2025 that after Bangladeshis abroad protested last year in support of the uprising, 188 people were freed from the UAE and 12 from Saudi Arabia and returned home.",
+  "target_section": "What has closed it before",
+  "placement": "other: pardons",
+  "why_new": "Guide has nothing on Bangladeshis jailed in Saudi Arabia for political protest; relevant to what can get you jailed.",
+  "published": "2025-08-20"
+ },
+ {
+  "key": "SA3d-18",
+  "fact_ids": [
+   "SP0408"
+  ],
+  "claim": "According to the Expatriates' Welfare Ministry (October 2025), recruitment to Saudi Arabia began informally in 1976 with no formal agreement on general workers; two special agreements were signed before 2025, on domestic worker recruitment in 2015 and on skill verification in 2022.",
+  "target_section": "What has closed it before",
+  "placement": "other: history",
+  "why_new": "Guide cites the 2015 domestic agreement's wage (D0193) but not the 1976 start or the 2022 skill-verification agreement.",
+  "published": "2025-10-06"
+ },
+ {
+  "key": "SA3e-20",
+  "fact_ids": [
+   "SP0640"
+  ],
+  "claim": "Prothom Alo reported in March 2026 that seven agreements were signed with Italy, South Korea, Japan and Saudi Arabia under the interim government to expand the labour market.",
+  "target_section": "What has closed it before",
+  "placement": "other: agreements",
+  "why_new": "Guide doesn't mention any 2024-26 Bangladesh-Saudi agreement; which one is unnamed. Better as a Need to know.",
+  "published": "2026-03-14"
+ },
+ {
+  "key": "SA3a-29",
+  "fact_ids": [
+   "SP0041"
+  ],
+  "claim": "By IOM figures for 2019 cited in a March 2024 opinion piece, a Bangladeshi migrant worker sent home USD 203.33 a month on average, against USD 546.10 for a Filipino worker.",
+  "target_section": "What reaches home, and how long the debt takes",
+  "placement": "The numbers",
+  "why_new": "An average monthly remittance per worker (all destinations) is not in the guide; it sits beside the guide's Tk 15,000-20,000 a month figure [SB0022].",
+  "published": "2024-03-18"
+ },
+ {
+  "key": "SA3a-61",
+  "fact_ids": [
+   "SP0104"
+  ],
+  "claim": "Prothom Alo reported in August 2024 that about 17 lakh workers went to Saudi Arabia in the previous three years, yet remittances from there fell from over USD 5.5 billion a year three years earlier to about USD 3.5 billion, which it read as workers going in greater numbers but not earning well.",
+  "target_section": "What reaches home, and how long the debt takes",
+  "placement": "The numbers",
+  "why_new": "Sets the rise in departures against the fall in remittances; not in the guide. Conflict: Bangladesh Bank's figure for 2021-22 was USD 4.54 billion (article 2b2f2ed1), not over USD 5.5 billion.",
+  "published": "2024-08-19"
+ },
+ {
+  "key": "SA3b-65",
+  "fact_ids": [
+   "SP0239",
+   "SP0240"
+  ],
+  "claim": "Prothom Alo reported in March 2025 that the BDT 50,000-55,000 Kawsar sent home each month from Saudi Arabia all went on interest, and his wife said he was to come home after the loan was repaid.",
+  "target_section": "What reaches home, and how long the debt takes",
+  "placement": "Cases",
+  "why_new": "Concrete case of debt eating all remittances.",
+  "published": "2025-03-10"
+ },
+ {
+  "key": "SA3d-42",
+  "fact_ids": [
+   "SP0447",
+   "SP0448",
+   "SP0449"
+  ],
+  "claim": "The ILO country director and IOM chief of mission wrote in December 2025 of a worker, Shafiqul, who borrowed about USD 5,000 (over Tk 5 lakh), the price village brokers demanded, for an ordinary construction job in Saudi Arabia the year before, and on Tk 30,000-40,000 a month spent almost his whole first year repaying it.",
+  "target_section": "What reaches home, and how long the debt takes",
+  "placement": "Cases",
+  "why_new": "A case consistent with the guide's repayment estimate, from ILO/IOM heads.",
+  "published": "2025-12-18"
+ },
+ {
+  "key": "SA3f-9",
+  "fact_ids": [
+   "SP0726",
+   "SP0727"
+  ],
+  "claim": "Moyen Sheikh of Ujanpoi, Atrai, said in August 2026 that he was deep in debt from sending his son Farid, the family's only earner, to Saudi Arabia about a year and a half earlier, and did not know how he would repay it after Farid died in the Riyadh fire.",
+  "target_section": "What reaches home, and how long the debt takes",
+  "placement": "Cases",
+  "why_new": "Case of migration debt outliving the worker; the guide gives repayment time but no such case.",
+  "published": "2026-08-10"
+ },
+ {
+  "key": "SA3f-13",
+  "fact_ids": [
+   "SP0734"
+  ],
+  "claim": "Rubel Pramanik of Atrai, Naogaon, was sent to Saudi Arabia on borrowed money about three months before he died in the August 2026 Riyadh fire, in the hope that he would repay the debt and ease the family's hardship, the article reports.",
+  "target_section": "What reaches home, and how long the debt takes",
+  "placement": "Cases",
+  "why_new": "Case of a worker dying within months of arrival with the whole debt outstanding.",
+  "published": "2026-08-12"
+ },
+ {
+  "key": "SA3h-37",
+  "fact_ids": [
+   "SP0597",
+   "SP0598"
+  ],
+  "claim": "Md Shahin of Par Naogaon went to Saudi Arabia in April 2026 on a Tk 5 lakh 70 thousand loan from a samity (a lending society), found work, and died in the Riyadh factory fire three months after arriving, according to his mother.",
+  "target_section": "What reaches home, and how long the debt takes",
+  "placement": "Cases",
+  "why_new": "New: real 2026 cost and source of the loan (samity).",
+  "published": "2026-10-31"
+ },
+ {
+  "key": "SA3a-50",
+  "fact_ids": [
+   "SP0084"
+  ],
+  "claim": "Foreign Minister Hasan Mahmud told parliament on 1 July 2024 that West Asia is the source of 60% of Bangladesh's remittances and that about 60% of the Bangladeshi workers employed there are semi-skilled or unskilled.",
+  "target_section": "What the job pays",
+  "placement": "other: skill level",
+  "why_new": "An official skill-mix figure for the Middle East; the guide gives recruiters' estimate that nearly 80% going to Saudi Arabia are low-skilled [SJ0008].",
+  "published": "2024-07-01"
+ },
+ {
+  "key": "SA3b-18",
+  "fact_ids": [
+   "SP0154",
+   "SP0155",
+   "SP0156"
+  ],
+  "claim": "A writer from King Saud University in Riyadh wrote in December 2024 that most Bangladeshis in Saudi Arabia are seen doing low-level work because they lack Arabic, while Indian and Pakistani workers skilled in Arabic are seen being hired for various office jobs.",
+  "target_section": "What the job pays",
+  "placement": "other: language and job level",
+  "why_new": "Opinion piece; adds the claim that Arabic affects job level. Low evidential weight.",
+  "published": "2024-12-18"
+ },
+ {
+  "key": "SA3b-43",
+  "fact_ids": [
+   "SP0206"
+  ],
+  "claim": "Bangladeshis in Saudi Arabia complained to Expatriates' Welfare Adviser Asif Nazrul in Riyadh in January 2025 about high air ticket prices and recruiting agencies collecting extra money, and he promised solutions.",
+  "target_section": "What you pay, and what you earn and keep",
+  "placement": "other: complaints",
+  "why_new": "Low priority; confirms overcharging and ticket prices as top complaints in early 2025.",
+  "published": "2025-01-29"
+ },
+ {
+  "key": "SA3f-7",
+  "fact_ids": [
+   "SP0722",
+   "SP0723"
+  ],
+  "claim": "Guffar Pramanik of Gondogohali, Atrai, Naogaon, said sending his elder son Mohan to Saudi Arabia cost Tk 5 lakh and his younger son Sumon Tk 7 lakh; according to their uncle, Mohan went about seven years before August 2026 after mortgaging the family land, brought Sumon over two years before, and both worked at the same Riyadh factory where they died in the fire.",
+  "target_section": "What you pay, and what you earn and keep",
+  "placement": "Cases",
+  "why_new": "A Tk 7 lakh price around 2024 for a visa through a brother already working at the factory is above the guide's usual Tk 4-5 lakh range.",
+  "published": "2026-08-10"
+ },
+ {
+  "key": "SA3a-58",
+  "fact_ids": [
+   "SP0095",
+   "SP0096",
+   "SP0097"
+  ],
+  "claim": "A July 2024 Prothom Alo editorial, citing the daily Bonik Barta, said that during the unrest in Bangladesh all Saudi Airlines flights were cancelled on 19 and 20 July, that four of those flights had 1,200 passengers, that many travellers with only two to seven days left on their visas faced an uncertain journey to Saudi Arabia, and that the expatriates' welfare ministry said it had discussed with the Saudi embassy extending by 15 days the visas of workers that would expire in the meantime.",
+  "target_section": "When to pay, when to fly, and Hajj-season pauses",
+  "placement": "other: precedent for stranded visas",
+  "why_new": "A precedent for the guide's Need to know on extending visas of workers stranded by flight cuts (Current situation); whether the 15 days were granted is not reported.",
+  "published": "2024-07-24"
+ },
+ {
+  "key": "SA3d-29",
+  "fact_ids": [
+   "SP0428",
+   "SP0429"
+  ],
+  "claim": "Sarowar Hossain Rabbi (27) of Dakshin Panan, Hossainpur, Kishoreganj said in October 2025 that he had been unable to go to Saudi Arabia for three or four months for lack of Tk 1 lakh, that his visa and medical would both expire on 30 October, and that his visa had expired twice before.",
+  "target_section": "When to pay, when to fly, and Hajj-season pauses",
+  "placement": "Cases",
+  "why_new": "A case of a visa expiring repeatedly while the worker raises money; guide notes expired work visas are hard to renew but has no case, and doesn't say the medical expires too.",
+  "published": "2025-10-19"
+ },
+ {
+  "key": "SA3e-12",
+  "fact_ids": [
+   "SP0626",
+   "SP0627",
+   "SP0628"
+  ],
+  "claim": "On 23 February 2026 Mehedi Hasan (25) of Brahmanpara, Cumilla, whose flight to Saudi Arabia was due at 1:20 pm, had to leave for Saudi Arabia without burying his 14-year-old brother, who died that morning in a crash of the microbus taking him to Dhaka airport, because, his uncle said, his visa had no time left.",
+  "target_section": "When to pay, when to fly, and Hajj-season pauses",
+  "placement": "Cases",
+  "why_new": "Shows the pressure of a visa near expiry at departure. Low priority; reviewer may drop.",
+  "published": "2026-02-24"
+ },
+ {
+  "key": "SA3a-2",
+  "fact_ids": [
+   "SP0003",
+   "SP0004"
+  ],
+  "claim": "According to the Bangladesh embassy in Riyadh (January 2024), BMET and Takamol for Business Services signed the agreement to run the Skills Verification Programme (SVP) on 27 September 2022, under which workers in 29 occupations could pass the test in Bangladesh and get the Saudi skill certificate.",
+  "target_section": "Who qualifies",
+  "placement": "Status (skill test history)",
+  "why_new": "Gives the start date of SVP in Bangladesh. Conflict: the guide says 108 listed trades by late 2026 [SM0037]; this 2022-2024 figure is 29 occupations, so the list has grown.",
+  "published": "2024-01-02"
+ },
+ {
+  "key": "SA3b-21",
+  "fact_ids": [
+   "SP0160",
+   "SP0161"
+  ],
+  "claim": "The Bangladesh embassy's chargé d'affaires said on 18 December 2024 that under the Skill Verification Programme the Saudi government was holding tests in Bangladesh in 33 occupations and issuing skills certificates, and urged workers to train in a trade at a Technical Training Centre (TTC) and come with a skills certificate.",
+  "target_section": "Who qualifies",
+  "placement": "other: SVP history",
+  "why_new": "Conflict in scope over time: the guide says SVP covers 108 trades by late 2026; this gives 33 occupations in December 2024, showing the list's growth.",
+  "published": "2024-12-19"
+ },
+ {
+  "key": "SA3b-50",
+  "fact_ids": [
+   "SP0216"
+  ],
+  "claim": "On 30 January 2025 Bangladesh invited Saudi authorities to inspect its Technical Training Centres (TTCs) and consider skills recognition for some of them, and Saudi Arabia agreed to a possible evaluation.",
+  "target_section": "Who qualifies",
+  "placement": "other: TTC recognition",
+  "why_new": "Background to whether TTC certificates count in Saudi Arabia; outcome unknown.",
+  "published": "2025-02-01"
+ },
+ {
+  "key": "SA3d-17",
+  "fact_ids": [
+   "SP0405",
+   "SP0406",
+   "SP0407"
+  ],
+  "claim": "A nursing teaching assistant at Bangladesh Medical University wrote in September 2025 that nurses can get work in Saudi Arabia and the Middle East by taking the 'Prometric' exam, and that demand for male nurses abroad is rising.",
+  "target_section": "Who qualifies",
+  "placement": "other: nurses",
+  "why_new": "The guide has nothing on nurses or the Prometric licensing exam; route, fee and agency rules are a gap.",
+  "published": "2025-09-21"
+ },
+ {
+  "key": "SA3a-6",
+  "fact_ids": [
+   "SP0008",
+   "SP0009",
+   "SP0010"
+  ],
+  "claim": "On 15 January 2024 Saudi Arabia's Ministry of Human Resources and Social Development lowered the maximum that may be paid to a recruitment service provider for hiring a domestic worker, setting SR 11,750 for a worker from Bangladesh, against SR 14,700 for the Philippines, SR 13,800 for Sri Lanka, SR 9,000 for Kenya, SR 8,300 for Uganda and SR 5,900 for Ethiopia, and said the caps may not be exceeded.",
+  "target_section": "Women domestic workers: the money should run the other way",
+  "placement": "Status",
+  "why_new": "The guide has the SR 11,750 figure dated July 2026 [SM0035] but not when it was set (15 January 2024, as a reduction) or the comparison with other sending countries.",
+  "published": "2024-01-16"
+ },
+ {
+  "key": "SA3b-26",
+  "fact_ids": [
+   "SP0172"
+  ],
+  "claim": "In OKUP's survey of returnees from six Middle East countries (December 2024), 21% of 666 women said they had spent BDT 2 to 3 lakh to migrate though women should pay nothing, and 29% of men said they had spent more than BDT 6 lakh.",
+  "target_section": "Women domestic workers: the money should run the other way",
+  "placement": "other: what women really pay",
+  "why_new": "Newer figure (2020-2023 returnees) than the guide's 2020 IOM evidence that no woman went free; not Saudi-only (55% of sample from Saudi).",
+  "published": "2024-12-29"
+ },
+ {
+  "key": "SA3d-49",
+  "fact_ids": [
+   "SP0462",
+   "SP0463",
+   "SP0464"
+  ],
+  "claim": "Asma Begum, a woman returnee from Saudi Arabia, said at a December 2025 roundtable that she paid Tk 45,000 through a broker to go, was subjected to much abuse while working there, was ill for six months after coming home with high treatment costs, and has not fully repaid the loan she took to go.",
+  "target_section": "Women domestic workers: the money should run the other way",
+  "placement": "Cases",
+  "why_new": "A named returnee case of a woman paying when she should pay nothing; job type not stated (likely domestic, not confirmed).",
+  "published": "2026-01-12"
+ },
+ {
+  "key": "SA3f-34",
+  "fact_ids": [
+   "SP0775"
+  ],
+  "claim": "People in the migration sector said in September 2026 that women workers going abroad don't know the language and have no cooking or housework training, that employers (kafils) make them work in several homes and abuse them, and that Saudi Arabia is turning to alternative markets, taking workers from African countries.",
+  "target_section": "Women domestic workers: the money should run the other way",
+  "placement": "other",
+  "why_new": "Competition from African workers is new; training gaps contrast with the compulsory one-month course in the guide.",
+  "published": "2026-09-13"
+ }
+]

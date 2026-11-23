@@ -1,0 +1,550 @@
+[
+ {
+  "article_id": "b414d2d6-2c4f-4ea3-9044-a519e967fd87",
+  "url": "https://www.prothomalo.com/bangladesh/crime/fay7l3ni3c",
+  "published": "2024-03-31",
+  "agency_as_printed": "Al-Rifat International (আল-রিফাত ইন্টারন্যাশনাল)",
+  "rl_printed": null,
+  "oep_match": "RL0304 M/S. Al Riffat International (Suspended); uncertain: spelling variant only, the OEP entry has no address to check against",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "arrest",
+  "date": "2024-03-30",
+  "summary": "Prothom Alo reports the DMP Detective Branch arrested Kamrul Hasan and his son, saying Kamrul had worked at the agency since 2001 and after its owner died in 2022 passed it off as his own to take money from about 1,500 people for jobs in Turkey, Canada, Serbia, Malaysia and other countries (Tk 10,000 each for medicals, Tk 12 lakh to 30-35 lakh each for visa processing).",
+  "quote": "দেশে ফিরে ২০০১ সালে থেকে আল-রিফাত ইন্টারন্যাশনাল নামের একটি রিক্রুটিং এজেন্সিতে চাকরি করতেন। ২০২২ সালে এজেন্সিটির মালিক মারা যাওয়ার পর তিনি প্রতিষ্ঠানটিকে নিজের বলে পরিচয় দিয়ে প্রতারণা শুরু করেন।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "Kamrul Hasan (কামরুল হাসান)",
+    "role": "former employee who passed the agency off as his own; arrested"
+   },
+   {
+    "name": "Md Fahad Hasan Siam (মো. ফাহাদ হাসান সিয়াম)",
+    "role": "Kamrul's son; arrested"
+   }
+  ]
+ },
+ {
+  "article_id": "46b5670c-05c6-4f83-9a21-bbd01e7efac5",
+  "url": "https://www.prothomalo.com/bangladesh/crime/thwa14gfpq",
+  "published": "2024-05-07",
+  "agency_as_printed": "Jannat Trade International (জান্নাত ট্রেড ইন্টারন্যাশনাল)",
+  "rl_printed": null,
+  "oep_match": null,
+  "firm_kind": "other",
+  "flag_type": "arrest",
+  "date": "2024-05-07",
+  "summary": "Prothom Alo reports the CID arrested the proprietor and two others in a human-trafficking case at Paltan police station; the CID says the firm took Tk 5.12 lakh each from three people for Kyrgyzstan jobs and gave them so-called visas and tickets, and immigration police stopped them at Dhaka airport on 7 April because no visa record was found.",
+  "quote": "সিআইডি বলছে, কিরগিজস্তানে ভালো বেতন-সুবিধাসহ চাকরির চাকরির কথা বলে তিন ব্যক্তির কাছ থেকে ৫ লাখ ১২ হাজার করে টাকা নেয় জান্নাত ট্রেড ইন্টারন্যাশনাল। তিনজনকে কিরগিজস্তানের কথিত ভিসা ও উড়োজাহাজের টিকিট দেয় প্রতিষ্ঠানটি।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "Ibrahim Mallik Nahid (ইব্রাহীম মল্লিক নাহিদ)",
+    "role": "proprietor and ring head; arrested"
+   },
+   {
+    "name": "Sharmin Hossain alias Laboni (শারমিন হোসেন ওরফে লাবণী)",
+    "role": "arrested as ring member"
+   },
+   {
+    "name": "Arifur Rahman alias Sadi (আরিফুর রহমান ওরফে সাদী)",
+    "role": "arrested as ring member"
+   }
+  ]
+ },
+ {
+  "article_id": "b464b061-6daf-41ac-96de-4e2a89870289",
+  "url": "https://www.prothomalo.com/bangladesh/7c3d4n7qte",
+  "published": "2024-05-31",
+  "agency_as_printed": "Ahad Enterprise (আহাদ এন্টারপ্রাইজ)",
+  "rl_printed": null,
+  "oep_match": null,
+  "firm_kind": "other",
+  "flag_type": "worker-complaint",
+  "date": "2024-05-31",
+  "summary": "Prothom Alo reports Rubel Mia of Narsingdi says he paid the firm Tk 6 lakh to go to Malaysia as a construction worker and, on the 31 May 2024 deadline, had waited two days at Dhaka airport without an air ticket while its staff said they would arrange it.",
+  "quote": "এমন আরেকজন নরসিংদীর রুবেল মিয়া নির্মাণশ্রমিক হিসেবে কাজ করতে মালয়েশিয়ায় যেতে চান। এ জন্য আহাদ এন্টারপ্রাইজ নামের একটি প্রতিষ্ঠানকে ছয় লাখ টাকা দিয়েছেন তিনি।",
+  "already_flagged": null,
+  "people": []
+ },
+ {
+  "article_id": "a03452d4-dc5b-4c57-9e1b-685f94d048ef",
+  "url": "https://www.prothomalo.com/bangladesh/kkcx70515r",
+  "published": "2024-08-18",
+  "agency_as_printed": "Snigdha Overseas Limited (স্নিগ্ধা ওভারসিজ লিমিটেড)",
+  "rl_printed": null,
+  "oep_match": "RL1551 M/S. Snigdha Overseas Ltd. (Cancelled); exact",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "acc-inquiry",
+  "date": "2024-08-18",
+  "summary": "Prothom Alo reports the ACC began an inquiry into four former MPs in the Malaysia syndicate; the ACC summary says owner Nizam Uddin Hazari licensed the agency in December 2018, it sent only 100 workers in 3.5 years, then about 8,000 went to Malaysia in its name in 1.5 years after it joined the syndicate.",
+  "quote": "এরপর সাড়ে তিন বছরে মাত্র ১০০ কর্মী বিদেশে পাঠায় স্নিগ্ধা। মালয়েশিয়া সিন্ডিকেট বা চক্রে যোগ দেওয়ার পর দেড় বছরে প্রায় ৮ হাজার কর্মী গেছেন নিজাম হাজারীর এজেন্সির নামে।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "Nizam Uddin Hazari (নিজাম উদ্দিন হাজারী)",
+    "role": "owner; former Feni-2 MP"
+   }
+  ]
+ },
+ {
+  "article_id": "a03452d4-dc5b-4c57-9e1b-685f94d048ef",
+  "url": "https://www.prothomalo.com/bangladesh/kkcx70515r",
+  "published": "2024-08-18",
+  "agency_as_printed": "Five M International (ফাইভ এম ইন্টারন্যাশনাল)",
+  "rl_printed": null,
+  "oep_match": "RL1327 5M International ltd (Cancelled); spelling variant",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "acc-inquiry",
+  "date": "2024-08-18",
+  "summary": "Prothom Alo reports the ACC began an inquiry into four former MPs in the Malaysia syndicate; the ACC summary says Masud Uddin Chowdhury set up the agency in 2015 and it is the top single sender to Malaysia, with 8,592 workers.",
+  "quote": "মালয়েশিয়ায় এককভাবে শ্রমিক পাঠানোর শীর্ষে রয়েছে ফাইভ এম। প্রতিষ্ঠার পর থেকে মধ্যপ্রাচ্যে আড়াই হাজারের মতো কর্মী পাঠালেও মালয়েশিয়ায় পাঠিয়েছে ৮ হাজার ৫৯২ কর্মী।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "Lt Gen (retd) Masud Uddin Chowdhury (মাসুদ উদ্দিন চৌধুরী)",
+    "role": "founder; former Feni-3 MP"
+   }
+  ]
+ },
+ {
+  "article_id": "a03452d4-dc5b-4c57-9e1b-685f94d048ef",
+  "url": "https://www.prothomalo.com/bangladesh/kkcx70515r",
+  "published": "2024-08-18",
+  "agency_as_printed": "Ahmed International (আহমেদ ইন্টারন্যাশনাল)",
+  "rl_printed": null,
+  "oep_match": "RL1146 AHMED INTERNATIONAL (Cancelled); exact",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "acc-inquiry",
+  "date": "2024-08-18",
+  "summary": "Prothom Alo reports the ACC began an inquiry into four former MPs in the Malaysia syndicate; the ACC summary says the agency had sent only 238 workers abroad before, then sent 7,849 to Malaysia after entering the syndicate, while owner Benzir Ahmed was BAIRA president.",
+  "quote": "প্রতিষ্ঠানটির মাধ্যমে মালয়েশিয়া গেছেন ৭ হাজার ৮৪৯ কর্মী। চক্র গঠনের সময় বেনজীর ছিলেন রিক্রুটিং এজেন্সিগুলোর সংগঠন বায়রার সভাপতি।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "Benzir Ahmed (বেনজীর আহমেদ)",
+    "role": "owner; former Dhaka-20 MP; BAIRA president when the syndicate formed"
+   }
+  ]
+ },
+ {
+  "article_id": "a03452d4-dc5b-4c57-9e1b-685f94d048ef",
+  "url": "https://www.prothomalo.com/bangladesh/kkcx70515r",
+  "published": "2024-08-18",
+  "agency_as_printed": "Orbitals Enterprise (অরবিটালস এন্টারপ্রাইজ)",
+  "rl_printed": null,
+  "oep_match": "RL0113 Orbitals Enterprise (Cancelled); exact",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "acc-inquiry",
+  "date": "2024-08-18",
+  "summary": "Prothom Alo reports the ACC began an inquiry into four former MPs in the Malaysia syndicate, including former finance minister A H M Mustafa Kamal; the agency is in his wife Kashmeri Kamal's name, and it and Orbitals International sent 9,861 people to Malaysia.",
+  "quote": "কাশমেরী কামালের অরবিটালস এন্টারপ্রাইজ ও মেয়ে নাফিসা কামালের অরবিটালস ইন্টারন্যাশনালের মাধ্যমে মালয়েশিয়া গেছেন মোট ৯ হাজার ৮৬১ জন।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "Kashmeri Kamal (কাশমেরী কামাল)",
+    "role": "owner of record; wife of A H M Mustafa Kamal"
+   }
+  ]
+ },
+ {
+  "article_id": "a03452d4-dc5b-4c57-9e1b-685f94d048ef",
+  "url": "https://www.prothomalo.com/bangladesh/kkcx70515r",
+  "published": "2024-08-18",
+  "agency_as_printed": "Orbitals International (অরবিটালস ইন্টারন্যাশনাল)",
+  "rl_printed": null,
+  "oep_match": "RL1457 Orbitals International (Cancelled); exact",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "acc-inquiry",
+  "date": "2024-08-18",
+  "summary": "Prothom Alo reports the ACC began an inquiry into four former MPs in the Malaysia syndicate, including former finance minister A H M Mustafa Kamal; the agency is in his daughter Nafisa Kamal's name, and it and Orbitals Enterprise sent 9,861 people to Malaysia.",
+  "quote": "কাশমেরী কামালের অরবিটালস এন্টারপ্রাইজ ও মেয়ে নাফিসা কামালের অরবিটালস ইন্টারন্যাশনালের মাধ্যমে মালয়েশিয়া গেছেন মোট ৯ হাজার ৮৬১ জন।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "Nafisa Kamal (নাফিসা কামাল)",
+    "role": "owner of record; daughter of A H M Mustafa Kamal"
+   }
+  ]
+ },
+ {
+  "article_id": "a03452d4-dc5b-4c57-9e1b-685f94d048ef",
+  "url": "https://www.prothomalo.com/bangladesh/kkcx70515r",
+  "published": "2024-08-18",
+  "agency_as_printed": "Oishi International (ঐশী ইন্টারন্যাশনাল)",
+  "rl_printed": null,
+  "oep_match": "RL1141 Oichi International (Active); spelling variant",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "acc-inquiry",
+  "date": "2024-08-18",
+  "summary": "Prothom Alo reports the ACC's inquiry summary names the agency among the Malaysia syndicate agencies, which the ACC says took at least Tk 1.5 lakh 'syndicate fee' per worker; the ACC says the average worker paid Tk 5.44 lakh against the government cap of Tk 78,990.",
+  "quote": "অন্যান্য এজেন্সির মধ্যে অন্যতম হলো ঐশী ইন্টারন্যাশনাল, নিউ এজ ইন্টারন্যাশনাল, ক্যাথারসিস ইন্টারন্যাশনাল, বিএনএস ওভারসিজ লিমিটেড, পিআর ওভারসিজ, সাদিয়া ইন্টারন্যাশনাল, ইম্পেরিয়াল ওভারসিজ, বিএম ট্রাভেলস লিমিটেড এবং অনন্য অপূর্ব রিক্রুটিং এজেন্সি।",
+  "already_flagged": null,
+  "people": []
+ },
+ {
+  "article_id": "a03452d4-dc5b-4c57-9e1b-685f94d048ef",
+  "url": "https://www.prothomalo.com/bangladesh/kkcx70515r",
+  "published": "2024-08-18",
+  "agency_as_printed": "New Age International (নিউ এজ ইন্টারন্যাশনাল)",
+  "rl_printed": null,
+  "oep_match": null,
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "acc-inquiry",
+  "date": "2024-08-18",
+  "summary": "Prothom Alo reports the ACC's inquiry summary names the agency among the Malaysia syndicate agencies, which the ACC says took at least Tk 1.5 lakh 'syndicate fee' per worker; the ACC says the average worker paid Tk 5.44 lakh against the government cap of Tk 78,990.",
+  "quote": "অন্যান্য এজেন্সির মধ্যে অন্যতম হলো ঐশী ইন্টারন্যাশনাল, নিউ এজ ইন্টারন্যাশনাল, ক্যাথারসিস ইন্টারন্যাশনাল, বিএনএস ওভারসিজ লিমিটেড, পিআর ওভারসিজ, সাদিয়া ইন্টারন্যাশনাল, ইম্পেরিয়াল ওভারসিজ, বিএম ট্রাভেলস লিমিটেড এবং অনন্য অপূর্ব রিক্রুটিং এজেন্সি।",
+  "already_flagged": null,
+  "people": []
+ },
+ {
+  "article_id": "a03452d4-dc5b-4c57-9e1b-685f94d048ef",
+  "url": "https://www.prothomalo.com/bangladesh/kkcx70515r",
+  "published": "2024-08-18",
+  "agency_as_printed": "Catharsis International (ক্যাথারসিস ইন্টারন্যাশনাল)",
+  "rl_printed": null,
+  "oep_match": "RL0549 M/S CATHARSIS INTERNATIONAL (Cancelled); exact",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "acc-inquiry",
+  "date": "2024-08-18",
+  "summary": "Prothom Alo reports the ACC's inquiry summary names the agency among the Malaysia syndicate agencies, which the ACC says took at least Tk 1.5 lakh 'syndicate fee' per worker; the ACC says the average worker paid Tk 5.44 lakh against the government cap of Tk 78,990.",
+  "quote": "অন্যান্য এজেন্সির মধ্যে অন্যতম হলো ঐশী ইন্টারন্যাশনাল, নিউ এজ ইন্টারন্যাশনাল, ক্যাথারসিস ইন্টারন্যাশনাল, বিএনএস ওভারসিজ লিমিটেড, পিআর ওভারসিজ, সাদিয়া ইন্টারন্যাশনাল, ইম্পেরিয়াল ওভারসিজ, বিএম ট্রাভেলস লিমিটেড এবং অনন্য অপূর্ব রিক্রুটিং এজেন্সি।",
+  "already_flagged": null,
+  "people": []
+ },
+ {
+  "article_id": "a03452d4-dc5b-4c57-9e1b-685f94d048ef",
+  "url": "https://www.prothomalo.com/bangladesh/kkcx70515r",
+  "published": "2024-08-18",
+  "agency_as_printed": "BNS Overseas Limited (বিএনএস ওভারসিজ লিমিটেড)",
+  "rl_printed": null,
+  "oep_match": "RL1450 BNS OVERSEAS LIMITED (Cancelled); exact",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "acc-inquiry",
+  "date": "2024-08-18",
+  "summary": "Prothom Alo reports the ACC's inquiry summary names the agency among the Malaysia syndicate agencies, which the ACC says took at least Tk 1.5 lakh 'syndicate fee' per worker; the ACC says the average worker paid Tk 5.44 lakh against the government cap of Tk 78,990.",
+  "quote": "অন্যান্য এজেন্সির মধ্যে অন্যতম হলো ঐশী ইন্টারন্যাশনাল, নিউ এজ ইন্টারন্যাশনাল, ক্যাথারসিস ইন্টারন্যাশনাল, বিএনএস ওভারসিজ লিমিটেড, পিআর ওভারসিজ, সাদিয়া ইন্টারন্যাশনাল, ইম্পেরিয়াল ওভারসিজ, বিএম ট্রাভেলস লিমিটেড এবং অনন্য অপূর্ব রিক্রুটিং এজেন্সি।",
+  "already_flagged": null,
+  "people": []
+ },
+ {
+  "article_id": "a03452d4-dc5b-4c57-9e1b-685f94d048ef",
+  "url": "https://www.prothomalo.com/bangladesh/kkcx70515r",
+  "published": "2024-08-18",
+  "agency_as_printed": "PR Overseas (পিআর ওভারসিজ)",
+  "rl_printed": null,
+  "oep_match": "RL1928 PR OVERSEAS LTD (Cancelled); exact",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "acc-inquiry",
+  "date": "2024-08-18",
+  "summary": "Prothom Alo reports the ACC's inquiry summary names the agency among the Malaysia syndicate agencies, which the ACC says took at least Tk 1.5 lakh 'syndicate fee' per worker; the ACC says the average worker paid Tk 5.44 lakh against the government cap of Tk 78,990.",
+  "quote": "অন্যান্য এজেন্সির মধ্যে অন্যতম হলো ঐশী ইন্টারন্যাশনাল, নিউ এজ ইন্টারন্যাশনাল, ক্যাথারসিস ইন্টারন্যাশনাল, বিএনএস ওভারসিজ লিমিটেড, পিআর ওভারসিজ, সাদিয়া ইন্টারন্যাশনাল, ইম্পেরিয়াল ওভারসিজ, বিএম ট্রাভেলস লিমিটেড এবং অনন্য অপূর্ব রিক্রুটিং এজেন্সি।",
+  "already_flagged": null,
+  "people": []
+ },
+ {
+  "article_id": "a03452d4-dc5b-4c57-9e1b-685f94d048ef",
+  "url": "https://www.prothomalo.com/bangladesh/kkcx70515r",
+  "published": "2024-08-18",
+  "agency_as_printed": "Sadia International (সাদিয়া ইন্টারন্যাশনাল)",
+  "rl_printed": null,
+  "oep_match": "RL0492 SADIA INTERNATIONAL (Cancelled); exact",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "acc-inquiry",
+  "date": "2024-08-18",
+  "summary": "Prothom Alo reports the ACC's inquiry summary names the agency among the Malaysia syndicate agencies, which the ACC says took at least Tk 1.5 lakh 'syndicate fee' per worker; the ACC says the average worker paid Tk 5.44 lakh against the government cap of Tk 78,990.",
+  "quote": "অন্যান্য এজেন্সির মধ্যে অন্যতম হলো ঐশী ইন্টারন্যাশনাল, নিউ এজ ইন্টারন্যাশনাল, ক্যাথারসিস ইন্টারন্যাশনাল, বিএনএস ওভারসিজ লিমিটেড, পিআর ওভারসিজ, সাদিয়া ইন্টারন্যাশনাল, ইম্পেরিয়াল ওভারসিজ, বিএম ট্রাভেলস লিমিটেড এবং অনন্য অপূর্ব রিক্রুটিং এজেন্সি।",
+  "already_flagged": null,
+  "people": []
+ },
+ {
+  "article_id": "a03452d4-dc5b-4c57-9e1b-685f94d048ef",
+  "url": "https://www.prothomalo.com/bangladesh/kkcx70515r",
+  "published": "2024-08-18",
+  "agency_as_printed": "Imperial Overseas (ইম্পেরিয়াল ওভারসিজ)",
+  "rl_printed": null,
+  "oep_match": null,
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "acc-inquiry",
+  "date": "2024-08-18",
+  "summary": "Prothom Alo reports the ACC's inquiry summary names the agency among the Malaysia syndicate agencies, which the ACC says took at least Tk 1.5 lakh 'syndicate fee' per worker; the ACC says the average worker paid Tk 5.44 lakh against the government cap of Tk 78,990.",
+  "quote": "অন্যান্য এজেন্সির মধ্যে অন্যতম হলো ঐশী ইন্টারন্যাশনাল, নিউ এজ ইন্টারন্যাশনাল, ক্যাথারসিস ইন্টারন্যাশনাল, বিএনএস ওভারসিজ লিমিটেড, পিআর ওভারসিজ, সাদিয়া ইন্টারন্যাশনাল, ইম্পেরিয়াল ওভারসিজ, বিএম ট্রাভেলস লিমিটেড এবং অনন্য অপূর্ব রিক্রুটিং এজেন্সি।",
+  "already_flagged": null,
+  "people": []
+ },
+ {
+  "article_id": "a03452d4-dc5b-4c57-9e1b-685f94d048ef",
+  "url": "https://www.prothomalo.com/bangladesh/kkcx70515r",
+  "published": "2024-08-18",
+  "agency_as_printed": "BM Travels Limited (বিএম ট্রাভেলস লিমিটেড)",
+  "rl_printed": null,
+  "oep_match": "RL1421 BM Travels Ltd. (Cancelled); exact",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "acc-inquiry",
+  "date": "2024-08-18",
+  "summary": "Prothom Alo reports the ACC's inquiry summary names the agency among the Malaysia syndicate agencies, which the ACC says took at least Tk 1.5 lakh 'syndicate fee' per worker; the ACC says the average worker paid Tk 5.44 lakh against the government cap of Tk 78,990.",
+  "quote": "অন্যান্য এজেন্সির মধ্যে অন্যতম হলো ঐশী ইন্টারন্যাশনাল, নিউ এজ ইন্টারন্যাশনাল, ক্যাথারসিস ইন্টারন্যাশনাল, বিএনএস ওভারসিজ লিমিটেড, পিআর ওভারসিজ, সাদিয়া ইন্টারন্যাশনাল, ইম্পেরিয়াল ওভারসিজ, বিএম ট্রাভেলস লিমিটেড এবং অনন্য অপূর্ব রিক্রুটিং এজেন্সি।",
+  "already_flagged": null,
+  "people": []
+ },
+ {
+  "article_id": "a03452d4-dc5b-4c57-9e1b-685f94d048ef",
+  "url": "https://www.prothomalo.com/bangladesh/kkcx70515r",
+  "published": "2024-08-18",
+  "agency_as_printed": "Ananya Apurba Recruiting Agency (অনন্য অপূর্ব রিক্রুটিং এজেন্সি)",
+  "rl_printed": null,
+  "oep_match": "RL2101 ANONNO APURBO RECRUITING AGENCY (Cancelled); spelling variant",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "acc-inquiry",
+  "date": "2024-08-18",
+  "summary": "Prothom Alo reports the ACC's inquiry summary names the agency among the Malaysia syndicate agencies, which the ACC says took at least Tk 1.5 lakh 'syndicate fee' per worker; the ACC says the average worker paid Tk 5.44 lakh against the government cap of Tk 78,990.",
+  "quote": "অন্যান্য এজেন্সির মধ্যে অন্যতম হলো ঐশী ইন্টারন্যাশনাল, নিউ এজ ইন্টারন্যাশনাল, ক্যাথারসিস ইন্টারন্যাশনাল, বিএনএস ওভারসিজ লিমিটেড, পিআর ওভারসিজ, সাদিয়া ইন্টারন্যাশনাল, ইম্পেরিয়াল ওভারসিজ, বিএম ট্রাভেলস লিমিটেড এবং অনন্য অপূর্ব রিক্রুটিং এজেন্সি।",
+  "already_flagged": null,
+  "people": []
+ },
+ {
+  "article_id": "5f7691c2-ee32-42e4-9f69-36371d5729ea",
+  "url": "https://www.prothomalo.com/bangladesh/om2e9577xe",
+  "published": "2025-04-18",
+  "agency_as_printed": "Bestinet (বেস্টিনেট)",
+  "rl_printed": null,
+  "oep_match": null,
+  "firm_kind": "other",
+  "flag_type": "allegation",
+  "date": "2025-04-18",
+  "summary": "Prothom Alo reports Bestinet, the company of Aminul Islam (Amin Noor) that owns the Migram software used for Malaysia's FWCMS agency selection, was to get MYR 100 (about Tk 2,500) per worker but is alleged to have controlled the whole process and done illegal business in the name of selecting Bangladeshi agencies.",
+  "quote": "মাইগ্রাম নামের সফটওয়ারটির মালিকানা প্রতিষ্ঠান আমিনুল ইসলামের কোম্পানি বেস্টিনেট। এতে করে কর্মীপ্রতি ১০০ মালেশিয়ান রিঙ্গিত বা আড়াই হাজার টাকা পাওয়ার কথা প্রতিষ্ঠানটির। তবে পুরো প্রক্রিয়া নিয়ন্ত্রণ করে এজেন্সি বাছাইয়ের নামে তারা অবৈধ বাণিজ্য করেছে বলে অভিযোগ।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "Aminul Islam alias Amin Noor (আমিনুল ইসলাম, আমিন নূর)",
+    "role": "owner; called a ringleader of the Malaysia syndicate by agency owners"
+   }
+  ]
+ },
+ {
+  "article_id": "88bb940d-14d7-4554-b5d1-011aaf2415bc",
+  "url": "https://www.prothomalo.com/bangladesh/crime/b0ino54l0n",
+  "published": "2025-08-13",
+  "agency_as_printed": "BSB Global Network (বিএসবি গ্লোবাল নেটওয়ার্ক)",
+  "rl_printed": null,
+  "oep_match": null,
+  "firm_kind": "visa or study consultancy",
+  "flag_type": "court-case",
+  "date": "2025-08-13",
+  "summary": "Prothom Alo reports a Dhaka CMM court granted 13 more days' remand of chairman Khairul Bashar in five separate fraud cases, police alleging he embezzled large sums promising higher education abroad; the CID, which arrested him on 14 July in a money-laundering case filed on 4 May 2025, says he ran a ring with his wife and son from 2018 to 2024 and 448 victims have come forward.",
+  "quote": "আবেদনে বলা হয়, উচ্চশিক্ষার জন্য বিদেশ পাঠানোর নামে বিএসবি গ্লোবাল নেটওয়ার্কের চেয়ারম্যান খায়রুল বাশার বিপুল অঙ্কের টাকা আত্মসাৎ করেছেন।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "Khairul Bashar (খায়রুল বাশার)",
+    "role": "chairman; arrested, on remand"
+   },
+   {
+    "name": "Khandaker Selima Rowshan (খন্দকার সেলিমা রওশন)",
+    "role": "wife; named by CID as part of the ring"
+   },
+   {
+    "name": "Arosh Ibne Bashar (আরশ ইবনে বাশার)",
+    "role": "son; named by CID as part of the ring"
+   }
+  ]
+ },
+ {
+  "article_id": "f97cd166-9660-481c-9bf1-0789349ffc02",
+  "url": "https://www.prothomalo.com/bangladesh/rltqfzsm3f",
+  "published": "2025-08-28",
+  "agency_as_printed": "FiveM International (ফাইভএম ইন্টারন্যাশনাল)",
+  "rl_printed": null,
+  "oep_match": "RL1327 5M International ltd (Cancelled); spelling variant",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "cid-case",
+  "date": "2025-08-28",
+  "summary": "Prothom Alo reports the CID filed a money-laundering case at Banani police station against 33 people in the Malaysia syndicate; the case alleges the agency took Tk 1.5 lakh from each of 9,372 workers it sent to Malaysia, of which Tk 1,07,510 each was laundered, over Tk 100 crore in all.",
+  "quote": "লেফট্যানেন্ট জেনারেল (অবসরপ্রাপ্ত) মাসুদ উদ্দিন চৌধুরীর রিক্রুটিং এজেন্সি ফাইভএম ইন্টারন্যাশনালের মাধ্যমে মালয়েশিয়ায় পাঠানো ৯ হাজার ৩৭২ কর্মীর কাছ থেকে আসামিরা পরস্পর যোগসাজশে টাকা নিয়েছেন। কর্মীপ্রতি ফাইভএম দেড় লাখ টাকা নিয়েছেন। এর মধ্যে এক লাখ ৭ হাজার ৫১০ টাকা পাচার হয়েছে।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "Lt Gen (retd) Masud Uddin Chowdhury (মাসুদ উদ্দিন চৌধুরী)",
+    "role": "owner; accused"
+   },
+   {
+    "name": "Jesmin Masud (জেসমিন মাসুদ)",
+    "role": "wife; accused"
+   },
+   {
+    "name": "Tasnia Masud (তাসনিয়া মাসুদ)",
+    "role": "daughter; accused"
+   }
+  ]
+ },
+ {
+  "article_id": "f97cd166-9660-481c-9bf1-0789349ffc02",
+  "url": "https://www.prothomalo.com/bangladesh/rltqfzsm3f",
+  "published": "2025-08-28",
+  "agency_as_printed": "Ahmed International (আহমেদ ইন্টারন্যাশনাল)",
+  "rl_printed": null,
+  "oep_match": "RL1146 AHMED INTERNATIONAL (Cancelled); exact",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "cid-case",
+  "date": "2025-08-28",
+  "summary": "Prothom Alo reports owner Benzir Ahmed is among 33 accused in the CID's money-laundering case over the Malaysia syndicate, filed at Banani police station.",
+  "quote": "আহমেদ ইন্টারন্যাশনালের মালিক ঢাকা-২০ আসনের সংসদ সদস্য বেনজীর আহমেদ, স্নিগ্ধা ওভারসিজ লিমিটেডের স্বত্বাধিকারী ফেনী-২ আসনের সাবেক সংসদ সদস্য নিজাম উদ্দিন হাজারী।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "Benzir Ahmed (বেনজীর আহমেদ)",
+    "role": "owner; former Dhaka-20 MP; accused"
+   }
+  ]
+ },
+ {
+  "article_id": "f97cd166-9660-481c-9bf1-0789349ffc02",
+  "url": "https://www.prothomalo.com/bangladesh/rltqfzsm3f",
+  "published": "2025-08-28",
+  "agency_as_printed": "Snigdha Overseas Limited (স্নিগ্ধা ওভারসিজ লিমিটেড)",
+  "rl_printed": null,
+  "oep_match": "RL1551 M/S. Snigdha Overseas Ltd. (Cancelled); exact",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "cid-case",
+  "date": "2025-08-28",
+  "summary": "Prothom Alo reports proprietor Nizam Uddin Hazari is among 33 accused in the CID's money-laundering case over the Malaysia syndicate, filed at Banani police station.",
+  "quote": "আহমেদ ইন্টারন্যাশনালের মালিক ঢাকা-২০ আসনের সংসদ সদস্য বেনজীর আহমেদ, স্নিগ্ধা ওভারসিজ লিমিটেডের স্বত্বাধিকারী ফেনী-২ আসনের সাবেক সংসদ সদস্য নিজাম উদ্দিন হাজারী।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "Nizam Uddin Hazari (নিজাম উদ্দিন হাজারী)",
+    "role": "proprietor; former Feni-2 MP; accused"
+   }
+  ]
+ },
+ {
+  "article_id": "f97cd166-9660-481c-9bf1-0789349ffc02",
+  "url": "https://www.prothomalo.com/bangladesh/rltqfzsm3f",
+  "published": "2025-08-28",
+  "agency_as_printed": "Orbitals Enterprise (অরবিটালস এন্টারপ্রাইজ)",
+  "rl_printed": null,
+  "oep_match": "RL0113 Orbitals Enterprise (Cancelled); exact",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "cid-case",
+  "date": "2025-08-28",
+  "summary": "Prothom Alo reports Kashmeri Kamal, who holds ownership of this family firm of former finance minister A H M Mustafa Kamal, is among 33 accused in the CID's money-laundering case over the Malaysia syndicate.",
+  "quote": "সাবেক অর্থমন্ত্রী ও সংসদ সদস্য আ হ ম মুস্তফা কামালের পারিবারিক প্রতিষ্ঠান অরবিটালস এন্টারপ্রাইজের মালিকানায় থাকা তাঁর স্ত্রী কাশমেরী কামাল।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "Kashmeri Kamal (কাশমেরী কামাল)",
+    "role": "owner; accused"
+   }
+  ]
+ },
+ {
+  "article_id": "f97cd166-9660-481c-9bf1-0789349ffc02",
+  "url": "https://www.prothomalo.com/bangladesh/rltqfzsm3f",
+  "published": "2025-08-28",
+  "agency_as_printed": "Catharsis International (ক্যাথারসিস ইন্টারন্যাশনাল)",
+  "rl_printed": null,
+  "oep_match": "RL0549 M/S CATHARSIS INTERNATIONAL (Cancelled); exact",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "cid-case",
+  "date": "2025-08-28",
+  "summary": "Prothom Alo reports owner Ruhul Amin, former BAIRA secretary general and known as a main ringleader of the Malaysia syndicate, is among 33 accused in the CID's money-laundering case filed at Banani police station.",
+  "quote": "এ ছাড়া আছেন বায়রার সাবেক মহাসচিব ও ক্যাথারসিস ইন্টারন্যাশনালের মালিক রুহুল আমিন।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "Ruhul Amin alias Swapan (রুহুল আমিন ওরফে স্বপন)",
+    "role": "owner; former BAIRA secretary general; accused"
+   }
+  ]
+ },
+ {
+  "article_id": "7edc0e9d-3301-4349-bfaa-3b4ce9381076",
+  "url": "https://www.prothomalo.com/bangladesh/31bl4mep89",
+  "published": "2026-03-24",
+  "agency_as_printed": "M International Limited (এম ইন্টারন্যাশনাল লিমিটেড)",
+  "rl_printed": null,
+  "oep_match": "RL1327 5M International ltd (Cancelled); uncertain: the article prints 'M International Limited' with Masud Uddin Chowdhury as managing director; other Prothom Alo reports name his agency Five M International, and OEP has no 'M International'",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "arrest",
+  "date": "2026-03-23",
+  "summary": "Prothom Alo reports DB arrested the agency's managing director Masud Uddin Chowdhury on 23 March 2026 and a court gave 5 days' remand in the Paltan human-trafficking case filed by Afia Overseas' owner, which alleges the Malaysia syndicate extorted Tk 1.5 lakh per worker (Tk 12.56 crore for 841 workers) from the plaintiff and about Tk 24,000 crore from other agencies.",
+  "quote": "এম ইন্টারন্যাশনাল লিমিটেডের ব্যবস্থাপনা পরিচালক মাসুদ উদ্দিন চৌধুরী ছাড়াও মামলায় সাবেক প্রবাসীকল্যাণমন্ত্রী ইমরান আহমেদ, সচিব আহমেদ মুনিরুছ সালেহীন, আহমেদ ইন্টারন্যাশনালের মালিক ও সাবেক সংসদ সদস্য বেনজীর আহমেদ এবং ক্যাথারসিস ইন্টারন্যাশনালের মালিক মো. রুহুল আমীন স্বপনসহ ১০৩ জনকে আসামি করা হয়।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "Lt Gen (retd) Masud Uddin Chowdhury (মাসুদ উদ্দিন চৌধুরী)",
+    "role": "managing director; arrested, remanded"
+   }
+  ]
+ },
+ {
+  "article_id": "7edc0e9d-3301-4349-bfaa-3b4ce9381076",
+  "url": "https://www.prothomalo.com/bangladesh/31bl4mep89",
+  "published": "2026-03-24",
+  "agency_as_printed": "Ahmed International (আহমেদ ইন্টারন্যাশনাল)",
+  "rl_printed": null,
+  "oep_match": "RL1146 AHMED INTERNATIONAL (Cancelled); exact",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "court-case",
+  "date": "2024-09-03",
+  "summary": "Prothom Alo reports owner Benzir Ahmed is among 103 accused in the Paltan human-trafficking case filed on 3 September 2024 by Afia Overseas' owner, which alleges the Malaysia syndicate extorted Tk 1.5 lakh per worker; DB arrested co-accused Masud Uddin Chowdhury in March 2026.",
+  "quote": "এম ইন্টারন্যাশনাল লিমিটেডের ব্যবস্থাপনা পরিচালক মাসুদ উদ্দিন চৌধুরী ছাড়াও মামলায় সাবেক প্রবাসীকল্যাণমন্ত্রী ইমরান আহমেদ, সচিব আহমেদ মুনিরুছ সালেহীন, আহমেদ ইন্টারন্যাশনালের মালিক ও সাবেক সংসদ সদস্য বেনজীর আহমেদ এবং ক্যাথারসিস ইন্টারন্যাশনালের মালিক মো. রুহুল আমীন স্বপনসহ ১০৩ জনকে আসামি করা হয়।",
+  "already_flagged": "N0016",
+  "people": [
+   {
+    "name": "Benzir Ahmed (বেনজীর আহমেদ)",
+    "role": "owner; former MP; accused"
+   }
+  ]
+ },
+ {
+  "article_id": "7edc0e9d-3301-4349-bfaa-3b4ce9381076",
+  "url": "https://www.prothomalo.com/bangladesh/31bl4mep89",
+  "published": "2026-03-24",
+  "agency_as_printed": "Catharsis International (ক্যাথারসিস ইন্টারন্যাশনাল)",
+  "rl_printed": null,
+  "oep_match": "RL0549 M/S CATHARSIS INTERNATIONAL (Cancelled); exact",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "court-case",
+  "date": "2024-09-03",
+  "summary": "Prothom Alo reports owner Md Ruhul Amin Swapan is among 103 accused in the Paltan human-trafficking case filed on 3 September 2024 by Afia Overseas' owner, which alleges the Malaysia syndicate extorted Tk 1.5 lakh per worker; DB arrested co-accused Masud Uddin Chowdhury in March 2026.",
+  "quote": "এম ইন্টারন্যাশনাল লিমিটেডের ব্যবস্থাপনা পরিচালক মাসুদ উদ্দিন চৌধুরী ছাড়াও মামলায় সাবেক প্রবাসীকল্যাণমন্ত্রী ইমরান আহমেদ, সচিব আহমেদ মুনিরুছ সালেহীন, আহমেদ ইন্টারন্যাশনালের মালিক ও সাবেক সংসদ সদস্য বেনজীর আহমেদ এবং ক্যাথারসিস ইন্টারন্যাশনালের মালিক মো. রুহুল আমীন স্বপনসহ ১০৩ জনকে আসামি করা হয়।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "Md Ruhul Amin Swapan (মো. রুহুল আমীন স্বপন)",
+    "role": "owner; accused"
+   }
+  ]
+ },
+ {
+  "article_id": "b90f744f-c62c-4efd-a5f1-53425060f232",
+  "url": "https://www.prothomalo.com/bangladesh/district/bt238ay8oo",
+  "published": "2026-09-10",
+  "agency_as_printed": "Jabal-e-Noor International Limited (জাবাল-এ নূর ইন্টারন্যাশনাল লিমিটেড)",
+  "rl_printed": null,
+  "oep_match": "RL2505 JABAL-E-NOOR INTERNATIONAL LTD. (Cancelled); exact",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "worker-complaint",
+  "date": "2026-09-10",
+  "summary": "Prothom Alo reports returnee Rajon Hossain says 30 Bangladeshis went to Russia through the agency on 7 May 2026 on a promise of electrician jobs, were made to sign a Russian-language army contract and sent to the front, where he says 17 died on 14 June; a relative of the dead worker Al Mamun alleges the fraud was done through the agency, and the family says it spent about Tk 8.5 lakh.",
+  "quote": "তিনি জানান, ‘জাবাল-এ নূর ইন্টারন্যাশনাল লিমিটেড’ নামের একটি এজেন্সির মাধ্যমে ৭ মে একই ফ্লাইটে ৩০ বাংলাদেশি রাশিয়ায় যান। তাঁদের ইলেকট্রিশিয়ান হিসেবে কাজ দেওয়ার কথা বলা হয়েছিল।",
+  "already_flagged": null,
+  "people": []
+ },
+ {
+  "article_id": "20ee67d1-a29c-4ce0-9e4f-d9e1a8622d14",
+  "url": "https://www.prothomalo.com/bangladesh/bm9shmfh2z",
+  "published": "2026-10-07",
+  "agency_as_printed": "Aponjon (আপনজন)",
+  "rl_printed": null,
+  "oep_match": null,
+  "firm_kind": "other",
+  "flag_type": "arrest",
+  "date": "2026-10-06",
+  "summary": "Prothom Alo reports UK Home Office immigration officers arrested three people in London in a raid tied to fake asylum claims linked to Aponjon, a Whitechapel-based Bangladeshi LGBT group; officials say suspects charged asylum seekers £1,000 to £4,500 for fake papers, staged photos and support letters that may come from the group.",
+  "quote": "ক্রিস ফস্টার বলেন, মঙ্গলবারের গ্রেপ্তারের ঘটনাগুলো পূর্ব লন্ডনের হোয়াইট চ্যাপেলভিত্তিক বাংলাদেশিদের এলজিবিটি সংগঠন ‘আপনজন’-এর সঙ্গে যুক্ত কয়েকটি ভুয়া আশ্রয় আবেদনকে কেন্দ্র করে হয়েছে।",
+  "already_flagged": null,
+  "people": []
+ }
+]

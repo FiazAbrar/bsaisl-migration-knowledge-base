@@ -1,0 +1,307 @@
+[
+ {
+  "file": "fix-my-rest.json",
+  "section": "### Step 1: Find a real job",
+  "problem": "States as done ('held ... and chose the final 112') what the 12 Nov source gives only as a plan ('would hold'); no fact reports the tests completed or 112 chosen."
+ },
+ {
+  "file": "fix-my-rest.json",
+  "section": "### Your residence permit",
+  "problem": "Acronym ESKL is never explained in the section or anywhere in the guide; the source does not explain it either."
+ },
+ {
+  "file": "fix-my-rest.json",
+  "section": "### Your residence permit",
+  "problem": "'need not apply' is left without an object; the source says they need not apply anew for a multiple-entry visa. As written it can read as 'the circular does not apply to them'."
+ },
+ {
+  "file": "fix-my-rest.json",
+  "section": "### What can get you jailed or deported",
+  "problem": "Bullet is labelled 'Malaysia's account (27 June 2025)' but this sentence is the police chief's 4 July 2025 statement; date added so the two statements are not merged."
+ },
+ {
+  "file": "fix-my-rest.json",
+  "section": "### Help from Bangladesh",
+  "problem": "Wrong date: the source says he was found and identified 'six months ago' as of 22 April 2026 (about October 2025), not in 2026."
+ },
+ {
+  "file": "fix-my-rest.json",
+  "section": "## Contacts",
+  "problem": "Person introduced without identification at first use in this section (he is identified only in Background)."
+ },
+ {
+  "file": "fix-cc.json",
+  "section": "Deciding",
+  "problem": "Uncited lead is the writer's own summary and is not true of the bullets under it: 2025 (11.3 lakh) was up on 2024 (10.1 lakh), and the top five destinations in the last fiscal year include Singapore and the Maldives, which are not Gulf countries [CQ0176]."
+ },
+ {
+  "file": "fix-cc.json",
+  "section": "Papers",
+  "problem": "ILO is not explained at its first use in the Papers section (it is explained only later, in the TTC answer)."
+ },
+ {
+  "file": "fix-cc.json",
+  "section": "In the destination",
+  "problem": "'Reaches few people' is the writer's own conclusion; the cited facts give only the numbers [CQ0199, CQ0200]."
+ },
+ {
+  "file": "fix-cc.json",
+  "section": "Problems and coming home",
+  "problem": "The source (pa-2024-01-22) says the Welfare Board's annual report records the payment in the passive; it does not say the Board paid it (the insurer is JBC)."
+ },
+ {
+  "file": "fix-cc.json",
+  "section": "Malaysia: boats and land crossings",
+  "problem": "Listed under the lead 'A first payment, then extortion', but in the November 2026 trawler case no extortion is reported: the crew landed the passengers on Cox's Bazar beach and fled [CQ0196-CQ0198]. The fact is already in the 16 to 20 Nov 2026 timeline item."
+ },
+ {
+  "file": "fix-cc.json",
+  "section": "Malaysia: boats and land crossings",
+  "problem": "UNHCR is first used here without explanation; it is explained only further down the section."
+ },
+ {
+  "file": "fix-cc.json",
+  "section": "Malaysia: boats and land crossings",
+  "problem": "The 8 April date is Prothom Alo's own narrative in pa-2026-04-19, not a police statement [CQ0162]."
+ },
+ {
+  "file": "fix-cc.json",
+  "section": "Malaysia: boats and land crossings",
+  "problem": "Merges two groups: 'the rest from Teknaf, Naikhongchhari and other districts' is the police OC's description of the 28 rescued, not of all 72 [CQ0198]; moved to the 28."
+ },
+ {
+  "file": "fix-cc.json",
+  "section": "Malaysia: boats and land crossings",
+  "problem": "Companion to the previous fix: puts the origin of the rescued where the source gives it [CQ0198]."
+ },
+ {
+  "file": "fix-cc.json",
+  "section": "Russia: recruited into the war",
+  "problem": "CID is not explained at its first use in the Russia section."
+ },
+ {
+  "file": "fix-sa-b.json",
+  "section": "### How many women go",
+  "problem": "BAIRA not explained at first use in this section (explained only under Step 3)."
+ },
+ {
+  "file": "fix-sa-b.json",
+  "section": "### If something goes wrong",
+  "problem": "Bangladesh Nari Sramik Kendra not explained at first use in this section."
+ },
+ {
+  "file": "fix-sa-b.json",
+  "section": "### If something goes wrong",
+  "problem": "'across destinations' is not in SP0773 or the source; the article does not say which countries the study covered."
+ },
+ {
+  "file": "fix-sa-b.json",
+  "section": "### Amnesties and grace periods",
+  "problem": "'every work permit' overstates SP0704-0706: the call covers only permits expired over 12 months or not issued over 6 months after entry or transfer."
+ },
+ {
+  "file": "fix-sa-b.json",
+  "section": "## Sending money home",
+  "problem": "'would have taxed' implies the tax was not enacted, which SP0063-0065 don't say (the Need to know asks exactly this)."
+ },
+ {
+  "file": "fix-sa-b.json",
+  "section": "### If you are detained",
+  "problem": "'Giving yourself up doesn't guarantee that' is the writer's generalisation from one case; the case itself stays."
+ },
+ {
+  "file": "fix-sa-b.json",
+  "section": "### If a worker dies in Saudi Arabia",
+  "problem": "SP0246 is a statement of intent ('we will send it'); the sentence states the forwarding as done, and 'also works' is the writer's conclusion."
+ },
+ {
+  "file": "fix-sa-b.json",
+  "section": "### If a worker dies in Saudi Arabia",
+  "problem": "SP0527 is an advance ministry announcement (would be received), not a report that it was."
+ },
+ {
+  "file": "fix-sa-b.json",
+  "section": "### If a worker dies in Saudi Arabia",
+  "problem": "The deputy commissioner confirmed only the count of 10; 'all from Atrai' is the article's lead, contradicted in the same article by the minister and the upazila (7 from Atrai). The same article's upazila and minister figures put 7 of the dead from Atrai; that number isn't in the cited facts, so the fix drops 'all from Atrai'."
+ },
+ {
+  "file": "fix-sa-b.json",
+  "section": "### If a worker dies in Saudi Arabia",
+  "problem": "The 28 days in SP0697 is to the body reaching home (13 June), not to the 12 June Dhaka arrival."
+ },
+ {
+  "file": "fix-sa-b.json",
+  "section": "### What the family can claim",
+  "problem": "Placed under the Tk 10 lakh insurance (from 1 January 2023), but per SP0013 she left in November 2022 and her father asked about the Tk 3 lakh; without the date the case reads as a rejected Tk 10 lakh claim. Reviewer may instead move the sentence to the death-grant item."
+ },
+ {
+  "file": "fix-sa-b.json",
+  "section": "### What the family can claim",
+  "problem": "SP0001: the statement was made at the Expatriates' Day event (30 December 2023), reported 2 January 2024, so 'said in January 2024' is unsupported and 'the previous December' is ambiguous."
+ },
+ {
+  "file": "fix-sa-b.json",
+  "section": "### Injured or ill",
+  "problem": "OKUP not explained at first use in this section."
+ },
+ {
+  "file": "fix-sa-b.json",
+  "section": "### Injured or ill",
+  "problem": "UNO not explained at first use in this section."
+ },
+ {
+  "file": "fix-sa-b.json",
+  "section": "### Mental health",
+  "problem": "OKUP not explained at first use in this section."
+ },
+ {
+  "file": "fix-sa-b.json",
+  "section": "## Contacts",
+  "problem": "ILO not explained at first use."
+ },
+ {
+  "file": "fix-my-bg.json",
+  "section": "Is it open now, and who can go?",
+  "problem": "The source (Prothom Alo, 15 May 2025) says the MoU ran to 'আগামী ডিসেম্বর', i.e. December 2025; bare 'December' reads as the 31 December 2026 expiry given elsewhere, hiding a third conflicting expiry date."
+ },
+ {
+  "file": "fix-my-bg.json",
+  "section": "Is it open now, and who can go?",
+  "problem": "Need to know omits the third expiry date reported (December 2025, MP0538) and the conflict over the signing date: BMET's office order (W0027) dates the MoU to 19 December 2021, and the guide elsewhere calls it the 2021 MoU, while the Ministry's 2026 releases (MP0438, Z0156) say 18 December 2022."
+ },
+ {
+  "file": "fix-my-bg.json",
+  "section": "Is it open now, and who can go?",
+  "problem": "MP0197 is about something else (Anwar Ibrahim's 4 October 2024 press conference on 18,000 workers), not Humayun Kabir's interview."
+ },
+ {
+  "file": "fix-my-bg.json",
+  "section": "Is it open now, and who can go?",
+  "problem": "The source says the five MoUs 'might be' signed; the sentence states them as part of the agenda and ties them to the official's statement."
+ },
+ {
+  "file": "fix-my-bg.json",
+  "section": "Is it open now, and who can go?",
+  "problem": "Lead sentence not true of the cases cited/listed: MP0412 is Mahdi Amin, the Prime Minister's adviser, and MP0630 an interim-government adviser, not ministers; and the list's first forecasts (MP0205, MP0253, MP0260) are from 2024."
+ },
+ {
+  "file": "fix-my-bg.json",
+  "section": "Is it open now, and who can go?",
+  "problem": "The source says fewer than one lakh went in all of 2024, not after the closure; as written it says up to a lakh went after Malaysia shut, contradicting the closure."
+ },
+ {
+  "file": "fix-my-bg.json",
+  "section": "Is it open now, and who can go?",
+  "problem": "The 'Ruhul Amin' at the agencies' 4 June 2024 briefing is the businessman Ruhul Amin alias Swapan (the source's line 31), not the expatriates' welfare secretary Md Ruhul Amin named a few items later; the bare name merges the two people."
+ },
+ {
+  "file": "fix-my-bg.json",
+  "section": "Is it open now, and who can go?",
+  "problem": "Attribution: that the agencies held the workers' papers is Prothom Alo's own reporting (MP0127), not the state minister's statement."
+ },
+ {
+  "file": "fix-my-bg.json",
+  "section": "Is it open now, and who can go?",
+  "problem": "States as fact the 337 from a newspaper summary (MP0441) where the Ministry's own announcement (Z0144) gives 338 (1 + 25 + 312), as the guide itself does under The processing agency; prefer the official figure (the 337/338 Need to know can stay). The MoU date '18 December 2022' contradicts BMET's office order dating the MoU to 19 December 2021 (W0027) and the guide's 'the 2021 MoU' elsewhere; leave the date to the Need to know."
+ },
+ {
+  "file": "fix-my-bg.json",
+  "section": "How a job reaches you, and who takes a cut",
+  "problem": "MP0381 is about something else (the 22 June 2026 talks on regularising or returning irregular and jailed Bangladeshis), not Mahdi Amin's 30 July 2026 statement."
+ },
+ {
+  "file": "fix-my-bg.json",
+  "section": "What you pay, and what you earn and keep",
+  "problem": "2026 status contradiction: says in the present tense that no cap is set, though the next sentence (MP0459, 15 November 2026) says the cost has been fixed at Tk 1,54,000 and the section lead says the same. Also 'the figure the minister expects' overstates YA0066, where he said the cost 'could be' Tk 2.5 to 3 lakh."
+ },
+ {
+  "file": "fix-my-bg.json",
+  "section": "Step 1 (outside Background; 2026 status consistency)",
+  "problem": "2026 status contradiction: still says no cap is set for 2026, which the newer cited fact in The cap and Status (MP0459, 15 November 2026: cost fixed at Tk 1,54,000) contradicts."
+ },
+ {
+  "file": "fix-my-bg.json",
+  "section": "Work visa: company worker (PLKS) (outside Background; 2026 status consistency)",
+  "problem": "2026 status contradiction: the opening still reads as if the corridor were simply closed and the Ministry's instructions not yet issued, while Status now says recruitment restarted on 15 October and medical tests began by 19 November under the Ministry's 28 October instructions (Z0151, MP0465)."
+ },
+ {
+  "file": "fix-my-bg.json",
+  "section": "How a job reaches you, and who takes a cut",
+  "problem": "Drops attribution: that the Bangladesh government had no part is the Ministry's own statement (A0029), and the 17 is Prothom Alo's analysis (A0027); as written both read as established fact."
+ },
+ {
+  "file": "fix-sa-a.json",
+  "section": "### Step 1: Find a real job",
+  "problem": "Contradicts the Background (The Bangladesh embassy's attestation; What has closed it before): under the 22 December 2024 rule only demand letters for more than one worker need embassy attestation, a one-worker letter does not. Rewritten to the facts the Background cites; A0087 (attestation reinstated for single visas) still holds for single visas covering a few workers."
+ },
+ {
+  "file": "fix-sa-a.json",
+  "section": "### Step 2: See the attested demand letter",
+  "problem": "Same contradiction with the Background: states every demand letter is embassy-attested, but since 22 December 2024 a one-worker letter needs no embassy attestation."
+ },
+ {
+  "file": "fix-sa-a.json",
+  "section": "### Step 2: See the attested demand letter",
+  "problem": "'For single and group visas alike' contradicts the Background: a single visa can be for one worker, and a one-worker demand letter needs no embassy attestation since 22 December 2024."
+ },
+ {
+  "file": "fix-sa-a.json",
+  "section": "### Step 2: See the attested demand letter",
+  "problem": "Tells every worker to demand an attested letter and not pay otherwise; a worker on a one-worker visa will have no embassy-attested letter (Background, 22 December 2024 rule)."
+ },
+ {
+  "file": "fix-sa-a.json",
+  "section": "### Step 1: Find a real job",
+  "problem": "Implies every demand letter carries embassy attestation; contradicts the Background's one-worker exemption."
+ },
+ {
+  "file": "fix-sa-a.json",
+  "section": "### Is it open now, and who can go?",
+  "problem": "Attribution: the ministry's release covers only the two injured Bangladeshis; the 'at least two dead, eight injured' count is Prothom Alo's own report (source line 11 vs 13)."
+ },
+ {
+  "file": "fix-sa-a.json",
+  "section": "### Is it open now, and who can go?",
+  "problem": "Dropped attribution: the drone strike on the US embassy is known only from Lokman Hossain's quote, but the text states it as established fact."
+ },
+ {
+  "file": "fix-sa-a.json",
+  "section": "### Is it open now, and who can go?",
+  "problem": "Conflates two lists: 'the list' here is Takamol's list of trades where the test is compulsory (108), but SP0003/SP0004 give the 29 occupations testable in Bangladesh under the 2022 agreement."
+ },
+ {
+  "file": "fix-sa-a.json",
+  "section": "### Is it open now, and who can go?",
+  "problem": "Stray comma between subject and verb."
+ },
+ {
+  "file": "fix-sa-a.json",
+  "section": "### Step 1: Find a real job",
+  "problem": "Misattribution and hidden conflict: the uncle did not say 'two years'; that comes from unnamed 'family sources' (পারিবারিক সূত্র, not clearly Motiur's family), and the Background (The village end) quotes Sajib's father saying he went 40 days earlier. The guide stated both as fact in different places."
+ },
+ {
+  "file": "fix-sa-a.json",
+  "section": "### Who pays what",
+  "problem": "Timing is the widow's account but read as fact; the Background (The Riyadh factory fire) has what is likely the same man (Md Shahin of Par Naogaon, Tk 5.7 lakh samity loan) going in April 2026 and dying three months after arriving, per his mother. Attribution added so the two accounts don't read as two contradicting facts."
+ },
+ {
+  "file": "fix-sa-a.json",
+  "section": "### What can get you jailed or deported",
+  "problem": "The cited source says the 2013 code (সৌদি আরবের ২০১৩ সালের ‘ফৌজদারি কার্যবিধি’); 'Royal Decree M/39 of 2001' is not in it and names the superseded 2001 law."
+ },
+ {
+  "file": "fix-sa-a.json",
+  "section": "### What can get you jailed or deported",
+  "problem": "Dropped attribution: ESOHR's documentation reads as established fact."
+ },
+ {
+  "file": "fix-sa-a.json",
+  "section": "### If something goes wrong",
+  "problem": "Wrong case: the investigation-report order went to Mehendiganj police in the SJ Group case (filed 28 October), not the first-filed case (Rubel, Kazirhat police, 27 October), which is the first listed under Scams."
+ },
+ {
+  "file": "fix-sa-a.json",
+  "section": "### Staying long-term",
+  "problem": "A January 2024 embassy statement is presented as current fact with no date or attribution."
+ }
+]

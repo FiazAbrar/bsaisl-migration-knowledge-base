@@ -1,0 +1,1690 @@
+[
+ {
+  "key": "SA3c-29",
+  "fact_ids": [
+   "SP0324",
+   "SP0325"
+  ],
+  "claim": "According to a press release reported in May 2025, Asif Nazrul thanked the Saudi side for forming the working team of officials from the Saudi Ministry of Human Resources and Social Development and the Bangladesh embassy, promised at a 30 January 2025 meeting, to solve specific problems of irregular Bangladeshi workers in Saudi Arabia, and a high-powered task force had already been formed under the latest Foreign Office Consultations to solve the problem of illegal workers and remove recruitment irregularities.",
+  "target_section": "Amnesties and grace periods",
+  "placement": "Status",
+  "why_new": "New: the joint working team and task force on irregular workers; the guide's amnesty section does not mention them. Need to know: what did they deliver?",
+  "published": "2025-05-06"
+ },
+ {
+  "key": "SA3c-41",
+  "fact_ids": [
+   "SP0352"
+  ],
+  "claim": "Asif Nazrul said on 31 May 2025 that Saudi Arabia had assured him it would regularise Bangladeshis who were irregular workers there and had already started doing so.",
+  "target_section": "Amnesties and grace periods",
+  "placement": "Status",
+  "why_new": "Official claim of a 2025 regularisation for irregular workers (not only women); the guide's amnesty section has only the employer-led permit regularisation to end-2026 [G0014]. Need to know: was this the same scheme?",
+  "published": "2025-05-31"
+ },
+ {
+  "key": "SA3d-8",
+  "fact_ids": [
+   "SP0389",
+   "SP0390"
+  ],
+  "claim": "The Expatriates' Welfare Ministry's one-year report (August 2025) said measures had been taken to regularise irregular women workers in Saudi Arabia, Jordan and Oman.",
+  "target_section": "Amnesties and grace periods",
+  "placement": "Need to know",
+  "why_new": "Guide says women domestic workers are excluded from SEP and asks how they get an exit visa; this names a regularisation measure for irregular women without details.",
+  "published": "2025-08-20"
+ },
+ {
+  "key": "SA3e-33",
+  "fact_ids": [
+   "SP0657",
+   "SP0658",
+   "SP0659"
+  ],
+  "claim": "The Bangladesh embassy in Riyadh announced on Monday 23 March 2026 that the fine-free exit until 18 April 2026 covered all kinds of visit visa, Umrah visas, transit visas and final exit visas whose validity had passed 25 February, and warned that anyone not leaving by then could face serious legal trouble and punishment.",
+  "target_section": "Amnesties and grace periods",
+  "placement": "other: who was covered",
+  "why_new": "Guide (E0087) lists visit, Umrah and final exit; adds transit visas. Otherwise duplicate.",
+  "published": "2026-03-26"
+ },
+ {
+  "key": "SA3e-59",
+  "fact_ids": [
+   "SP0704",
+   "SP0705",
+   "SP0706"
+  ],
+  "claim": "On 30 June 2026 the Bangladesh embassy in Riyadh relayed on its verified Facebook page the Saudi Ministry of Human Resources and Social Development's call for every work permit (rukhsa amal) expired over 12 months, or not issued over six months after entry or transfer, to be issued or renewed within 2026, warning of legal action otherwise.",
+  "target_section": "Amnesties and grace periods",
+  "placement": "other: regularising work permits",
+  "why_new": "Guide already has this (G0014-16); adds the Arabic term workers use (rukhsa amal) and the embassy Facebook page as where it was announced.",
+  "published": "2026-07-01"
+ },
+ {
+  "key": "SA3c-40",
+  "fact_ids": [
+   "SP0349",
+   "SP0350",
+   "SP0351"
+  ],
+  "claim": "When Jabbar was flown home unconscious in May 2025, the escorts who had promised to bring him to a hospital with a doctor and nurse and to give some money gave nothing and left him at the airport, and a private hospital in Dhaka cost Tk 70,000 for seven hours before his wife hired an oxygen-equipped vehicle to Rajshahi for Tk 25,000, she said.",
+  "target_section": "At Dhaka airport",
+  "placement": "other: injured returnees",
+  "why_new": "The guide says the Board's airport desk takes injured returnees to hospital by ambulance [E0014, E0040]; this case (undocumented, not Board-registered as far as reported) got no such help.",
+  "published": "2025-05-29"
+ },
+ {
+  "key": "SA3d-45",
+  "fact_ids": [
+   "SP0453",
+   "SP0454",
+   "SP0455"
+  ],
+  "claim": "Abul Hashem (42) of Telibila, Chorombo, Lohagara, Chattogram, who went to Saudi Arabia in 2005 and owned two shops in Mecca, was forced to wind up the business and come home after a stomach cancer diagnosis in 2021, spent about Tk 68 lakh on treatment, and now farms two acres with technical advice, incentives and training from the upazila agriculture office (January 2026).",
+  "target_section": "Coming home",
+  "placement": "Cases",
+  "why_new": "Shows the upazila agriculture office as a source of reintegration help; guide lists PKB, BRAC and the Board only.",
+  "published": "2026-01-05"
+ },
+ {
+  "key": "SA3b-13",
+  "fact_ids": [
+   "SP0143",
+   "SP0144",
+   "SP0145"
+  ],
+  "claim": "A December 2024 Ministry of Expatriates' Welfare notice to fill labour-wing posts abroad, open only to serving BCS (Bangladesh Civil Service) officers, included a Minister (Labour) post in Riyadh and a First Secretary (Labour) and a Second Secretary (Labour) post in Jeddah.",
+  "target_section": "Contacts",
+  "placement": "other: who staffs the labour wings",
+  "why_new": "The guide lists labour-wing contacts but not that the posts are filled by rotating BCS officers; relevant context to experts' criticism (see SA3b draft from the 18 December 2024 article).",
+  "published": "2024-12-11"
+ },
+ {
+  "key": "SA3b-23",
+  "fact_ids": [
+   "SP0164",
+   "SP0165",
+   "SP0166"
+  ],
+  "claim": "The Greater Noakhali Association-Jeddah, a Bangladeshi community association in Jeddah, says its main aims include helping unskilled people into work through training and helping distressed and helpless people, and its president Omar Faruk Chowdhury said on 20 December 2024 it would organise more training to raise members' professional skills.",
+  "target_section": "Contacts",
+  "placement": "other: community associations",
+  "why_new": "The guide lists no community associations; whether they actually help is unproven (no contact details in the article).",
+  "published": "2024-12-23"
+ },
+ {
+  "key": "SA3d-21",
+  "fact_ids": [
+   "SP0414"
+  ],
+  "claim": "In October 2025 Bangladesh's ambassador to Saudi Arabia was Md. Delwar Hossain, the deputy chief of mission S M Nazmul Hasan and the labour counsellor Muhammad Rezae Rabbi.",
+  "target_section": "Contacts",
+  "placement": "other: named officials",
+  "why_new": "Contacts list the labour counsellor's phone and email but not names.",
+  "published": "2025-10-06"
+ },
+ {
+  "key": "SA3d-34",
+  "fact_ids": [
+   "SP0435"
+  ],
+  "claim": "The Bangladesh Consulate in Jeddah runs a toll-free hotline, 8002440051, which expatriates can call free for immediate help every day from 8 am to 9 pm Saudi time except weekly and other holidays (October 2025).",
+  "target_section": "Contacts",
+  "placement": "Jeddah consulate",
+  "why_new": "The Jeddah consulate's toll-free hotline is missing from Contacts, which has only direct numbers for Jeddah.",
+  "published": "2025-10-22"
+ },
+ {
+  "key": "SA3d-36",
+  "fact_ids": [
+   "SP0437",
+   "SP0438",
+   "SP0439"
+  ],
+  "claim": "The Jeddah hotline began in April 2019 as a pilot under a ministry-ILO agreement, is now funded by the Wage Earners' Welfare Board, and had received more than 2 lakh calls by October 2025; a Bisha worker said it took several tries to get through and operators could not check his e-passport status, telling him to check online himself.",
+  "target_section": "Contacts",
+  "placement": "Jeddah consulate",
+  "why_new": "What the hotline can and can't do in practice; not in the guide.",
+  "published": "2025-10-22"
+ },
+ {
+  "key": "SA3h-8",
+  "fact_ids": [
+   "SP0558"
+  ],
+  "claim": "Applications to the Bangladesh Hajj Office in Jeddah go by hand or by email to missionhajj@gmail.com, with a handwritten application and CV, 2 passport photos, copies of the iqama and passport and attested copies of certificates (October 2026 notice).",
+  "target_section": "Contacts",
+  "placement": "other: Bangladesh Hajj Office, Jeddah",
+  "why_new": "New: the guide lists no contact for the Bangladesh Hajj Office in Jeddah.",
+  "published": "2026-10-26"
+ },
+ {
+  "key": "SA3c-32",
+  "fact_ids": [
+   "SP0328"
+  ],
+  "claim": "Expatriates' welfare adviser Asif Nazrul said on 6 May 2025, after a visit to Saudi Arabia, that an opportunity had been created to regularise women workers living illegally in Saudi Arabia; he gave no procedure.",
+  "target_section": "Going home without valid papers",
+  "placement": "Need to know (women domestic workers)",
+  "why_new": "The guide says it is not known how an undocumented woman domestic worker gets an exit visa; this reports a regularisation chance (no how). Need to know: what is the procedure, and is it still open?",
+  "published": "2025-05-06"
+ },
+ {
+  "key": "SA3c-37",
+  "fact_ids": [
+   "SP0341",
+   "SP0342"
+  ],
+  "claim": "Believing Saudi police would send him home if they caught him, Jabbar gave himself up to the police, who took his fingerprints and released him, leaving him with no money for food, his wife said.",
+  "target_section": "Going home without valid papers",
+  "placement": "other: surrendering to police",
+  "why_new": "Counters a common belief that surrendering to police gets an undocumented worker deported home; the guide does not address self-surrender.",
+  "published": "2025-05-29"
+ },
+ {
+  "key": "SA3c-55",
+  "fact_ids": [
+   "SP0376"
+  ],
+  "claim": "The expatriates' ministry said in June 2025 that, following the adviser's talks, an opportunity had been created to regularise women workers living illegally in Saudi Arabia; it gave no procedure, deadline or cost.",
+  "target_section": "Going home without valid papers",
+  "placement": "Need to know (women domestic workers)",
+  "why_new": "Official ministry confirmation of the women's regularisation chance (see also SA3c draft from 44b3e5e8); the guide says how undocumented women domestic workers get out is not known.",
+  "published": "2025-06-24"
+ },
+ {
+  "key": "SA3d-35",
+  "fact_ids": [
+   "SP0436"
+  ],
+  "claim": "Prothom Alo reported in October 2025 that workers seeking special exit, and domestic workers, call the Jeddah consulate's hotline from Jeddah and from outside Jeddah to get service through the Labour Welfare Wing.",
+  "target_section": "Going home without valid papers",
+  "placement": "other: western region",
+  "why_new": "Guide says sponsors under Makkah, Madinah and other western labour offices aren't covered by SEP and to contact the Jeddah labour wing; this gives the hotline route used for special exit and by domestic workers.",
+  "published": "2025-10-22"
+ },
+ {
+  "key": "SA3b-1",
+  "fact_ids": [
+   "SP0118",
+   "SP0119",
+   "SP0120"
+  ],
+  "claim": "For Hajj 2025 Bangladesh announced government packages of BDT 478,242 (housing within 3 km of Masjid al-Haram) and BDT 575,680 (within 1.5 km) and a private general package of BDT 483,156, against 2024's government general package of BDT 578,840 and private general package of BDT 589,800.",
+  "target_section": "Hajj visa",
+  "placement": "other: past package prices",
+  "why_new": "The guide gives only 2027 package prices; this gives the 2024 and 2025 prices, useful as a price history (one package about BDT 1 lakh cheaper in 2025). The 2025 packages were priced at BDT 32.50 per riyal against BDT 29.74 in 2024.",
+  "published": "2024-11-01"
+ },
+ {
+  "key": "SA3b-2",
+  "fact_ids": [
+   "SP0121",
+   "SP0122"
+  ],
+  "claim": "For Hajj 2025 the government's rule was that the whole package money be paid only into the Hajj agency's bank account or directly at the agency, with the pilgrim keeping the receipt, no dealings with middlemen, and women and children depositing together with their mahram.",
+  "target_section": "Hajj visa",
+  "placement": "Step 2 item",
+  "why_new": "Guide says private-package money goes into the agency account on the Hajj portal, but not the keep-the-receipt, no-middlemen and mahram-deposits-together rules.",
+  "published": "2024-11-01"
+ },
+ {
+  "key": "SA3b-3",
+  "fact_ids": [
+   "SP0123",
+   "SP0124"
+  ],
+  "claim": "For Hajj 2025 each pilgrim had to pay the sacrifice (qurbani) cost of 1,000 riyal separately from the package, people aged 65 or over could go, and passports had to be valid to 31 December 2025.",
+  "target_section": "Hajj visa",
+  "placement": "Step 3 item",
+  "why_new": "Guide does not say the sacrifice is paid on top of the package, nor the passport validity rule (given here for 2025; the current year's equivalent is a gap).",
+  "published": "2024-11-01"
+ },
+ {
+  "key": "SA3b-4",
+  "fact_ids": [
+   "SP0125",
+   "SP0126"
+  ],
+  "claim": "Pilgrims who had performed Hajj several times told Prothom Alo (November 2024) that going for less than the announced package price risks being cheated, that no agreement should be made with a middleman, broker or so-called moallem, and that pilgrims should check which agencies have complaints from the Saudi Hajj Ministry against them.",
+  "target_section": "Hajj visa",
+  "placement": "Scams",
+  "why_new": "Guide has no Hajj scam patterns (cheap packages, fake moallems).",
+  "published": "2024-11-01"
+ },
+ {
+  "key": "SA3b-5",
+  "fact_ids": [
+   "SP0127",
+   "SP0128"
+  ],
+  "claim": "According to experienced pilgrims quoted by Prothom Alo (November 2024), there are moallems numbered 1 to 115 for South Asian countries, the distance from the Jamarat to the pilgrim's tent in Mina depends on the price of the moallem cluster, and extra services a moallem gives for extra charges should be taken in writing because they cause disputes in Mina.",
+  "target_section": "Hajj visa",
+  "placement": "other: what to check in a package",
+  "why_new": "Ground-level detail on how Hajj packages differ; not in the guide.",
+  "published": "2024-11-01"
+ },
+ {
+  "key": "SA3b-6",
+  "fact_ids": [
+   "SP0129",
+   "SP0130"
+  ],
+  "claim": "Experienced pilgrims quoted by Prothom Alo (November 2024) said that to avoid fraud over the sacrifice it is better to buy an Islamic Development Bank (IDB) coupon, and that pilgrims should ask in advance whether the package has a 'fitra' (moving between houses in Makkah, nearer or farther from the Kaaba) before or after Hajj.",
+  "target_section": "Hajj visa",
+  "placement": "other: what to check in a package",
+  "why_new": "Insider terms (IDB coupon, fitra) not in the guide.",
+  "published": "2024-11-01"
+ },
+ {
+  "key": "SA3b-7",
+  "fact_ids": [
+   "SP0131",
+   "SP0132"
+  ],
+  "claim": "Prothom Alo reported on 1 November 2024 that 127,198 people from Bangladesh would be able to perform Hajj in 2025, with the Hajj agreement with Saudi Arabia due on 13 January 2025, Hajj visas from 19 February 2025 and Hajj flights from 29 April 2025.",
+  "target_section": "Hajj visa",
+  "placement": "Status",
+  "why_new": "Guide gives the 2027 quota (78,500); this gives the 2025 quota and the usual sequence and months of the Hajj calendar (agreement January, visas February, flights late April).",
+  "published": "2024-11-01"
+ },
+ {
+  "key": "SA3b-41",
+  "fact_ids": [
+   "SP0203"
+  ],
+  "claim": "A Bangladesh foreign ministry official said in January 2025 that the Saudi ambassador played an important role in including Bangladesh in Saudi initiatives such as the 'Route to Makkah Initiative'.",
+  "target_section": "Hajj visa",
+  "placement": "other: Route to Makkah",
+  "why_new": "The guide does not mention Route to Makkah (Saudi immigration pre-clearance for pilgrims in Dhaka); the article does not explain how it works, so a Need to know may be needed.",
+  "published": "2025-01-28"
+ },
+ {
+  "key": "SA3c-21",
+  "fact_ids": [
+   "SP0303",
+   "SP0304",
+   "SP0305"
+  ],
+  "claim": "For Hajj 2025, from 1 Zilqad (29 April) to 14 Zilhajj (10 June), Saudi Arabia barred anyone from entering or staying in Makkah and the surrounding holy sites without a valid permit to work at the holy sites, a Makkah-registered iqama or an official Hajj permit, and said visit-visa holders would be under the closest surveillance.",
+  "target_section": "Hajj visa",
+  "placement": "other: Hajj-season restrictions in Saudi Arabia",
+  "why_new": "The guide gives the SR 20,000 fine and ban for Hajj on another visa [D0109, D0110] but not the Makkah entry rule, which also binds iqama holders living outside Makkah.",
+  "published": "2025-05-02"
+ },
+ {
+  "key": "SA3e-43",
+  "fact_ids": [
+   "SP0673",
+   "SP0674"
+  ],
+  "claim": "The Prime Minister's spokesman Mahdi Amin said on 18 April 2026 that the cost of Hajj travel had been cut by Tk 12,000 per ticket.",
+  "target_section": "Hajj visa",
+  "placement": "other: cost",
+  "why_new": "Guide gives 2027 package prices, which may already include this; check.",
+  "published": "2026-04-18"
+ },
+ {
+  "key": "SA3a-13",
+  "fact_ids": [
+   "SP0015"
+  ],
+  "claim": "OKUP chairperson Shakirul Islam told Prothom Alo in January 2024 that once a destination country sends a death certificate saying 'suicide', the worker's family can do nothing more about it, and that demands have been raised to bring suicide and AIDS deaths under insurance cover and for health insurance for workers.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "item 1 (cause of death)",
+  "why_new": "Adds to the guide's note that the cause of death is recorded in Saudi Arabia and Bangladesh does not check it [E0093].",
+  "published": "2024-01-22"
+ },
+ {
+  "key": "SA3a-31",
+  "fact_ids": [
+   "SP0045",
+   "SP0046",
+   "SP0047"
+  ],
+  "claim": "By Bangladesh government data reported by the Guardian (March 2024), at least 13,685 Bangladeshi workers died in Saudi Arabia in 2008-2022, 1,502 of them in 2022, more than four a day; Bangladeshi authorities, working from Saudi documents, recorded 76% of deaths from January to October 2022 as 'natural', and the average age of those 'natural' deaths in 2022 was 44.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "The numbers",
+  "why_new": "The guide says deaths are usually recorded as natural [E0093] but gives no death numbers. Note: the same article says about 50,000 workers went to Saudi Arabia in 2023, far below BMET's figures elsewhere; not drafted.",
+  "published": "2024-03-20"
+ },
+ {
+  "key": "SA3a-32",
+  "fact_ids": [
+   "SP0048",
+   "SP0049",
+   "SP0050"
+  ],
+  "claim": "Abdul Jalil Sheikh, 35, went to Saudi Arabia in early 2023 on a Tk 5 lakh loan and came home in a coffin within a year; the note on the coffin read 'Cause of death: natural. Post-mortem: not requested. Compensation: none', and his wife, told by co-workers he died of a stroke, was left with two children and the Tk 5 lakh debt (Guardian, March 2024).",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "Shows what a 'natural' death record means for compensation in practice; the guide has the rule [E0093] but no case.",
+  "published": "2024-03-20"
+ },
+ {
+  "key": "SA3a-33",
+  "fact_ids": [
+   "SP0051",
+   "SP0052"
+  ],
+  "claim": "The Guardian found (March 2024) that in most cases the cause of death was not explained, Saudi death certificates giving 'natural causes', 'heart problems' or 'respiratory problems', so no post-mortem is done; FairSquare, a UK rights group, says the cause is unexplained in over half of migrant deaths in the Gulf.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "item 1 (cause of death)",
+  "why_new": "Adds the wording of Saudi certificates and FairSquare's figure to the guide's one-line rule [E0093].",
+  "published": "2024-03-20"
+ },
+ {
+  "key": "SA3a-34",
+  "fact_ids": [
+   "SP0053",
+   "SP0054"
+  ],
+  "claim": "Saudi Arabia's Ministry of Human Resources and Social Development said in a statement (March 2024) that it is committed to safe working conditions for all migrant workers, including more than 25 lakh Bangladeshis, that post-mortems are done where needed and death certificates issued transparently, and that it had found no negligence.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "item 1 (Saudi position)",
+  "why_new": "The Saudi labour ministry's own position on post-mortems, and an official Saudi figure (over 25 lakh) for Bangladeshi workers; neither is in the guide. Bears on the guide's Need to know on how a family can ask for a post-mortem.",
+  "published": "2024-03-20"
+ },
+ {
+  "key": "SA3a-35",
+  "fact_ids": [
+   "SP0055",
+   "SP0056",
+   "SP0057"
+  ],
+  "claim": "Rights groups told the Guardian (March 2024) that hard labour, living conditions, exploitation, stress and heat stroke may be driving the death rate, and BRAC migration programme associate director Shariful Hasan said that since workers can go only after passing a medical at a Saudi-designated centre, Bangladesh and Saudi Arabia must investigate why they die there.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "other: suspected causes",
+  "why_new": "Not in the guide; links to heat rules under Hours, rest and leave.",
+  "published": "2024-03-20"
+ },
+ {
+  "key": "SA3a-59",
+  "fact_ids": [
+   "SP0098",
+   "SP0099",
+   "SP0100"
+  ],
+  "claim": "Mister Ali, 38, of Adarbhita village, Madarganj, Jamalpur, who had gone to Saudi Arabia two and a half years earlier and worked as a street cleaner in a city there, was killed on 28 July 2024 when an out-of-control private car hit him from behind while he worked on the road, according to his family and local people; his younger brother Razzak Ali said the family depended on his income and demanded that his body be brought home at government cost as soon as possible.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "A case of a road-cleaner killed at work, the occupation most men go for (What the job pays); the guide has no street-cleaner death case and covers compensation for work deaths only through GOSI [E0157].",
+  "published": "2024-07-29"
+ },
+ {
+  "key": "SA3b-66",
+  "fact_ids": [
+   "SP0241",
+   "SP0242",
+   "SP0243"
+  ],
+  "claim": "Relatives, citing Kawsar's acquaintances in Saudi Arabia, said he died on 3 March in an accident while working on a gas transmission line in Dammam, where he worked for a company named Sacco (সাক্কো); the family learned of the death through a neighbour who is also a migrant, and as of 10 March 2025 the body had not come home and his father did not know through which Bangladeshi agency or when it would be returned.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "Case showing families often hear of a death informally and don't know the repatriation route.",
+  "published": "2025-03-10"
+ },
+ {
+  "key": "SA3b-67",
+  "fact_ids": [
+   "SP0244",
+   "SP0245",
+   "SP0246"
+  ],
+  "claim": "On 10 March 2025 Kawsar's father applied in writing for the body at the Wage Earners' Welfare Board's welfare centre in Mymensingh city, whose assistant director said the centre would forward the application to the Welfare Board, which would then make all arrangements.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Step 2 item",
+  "why_new": "Answers part of the guide's Need to know ('How does the family apply to the Welfare Board to have the body brought home: in person, by email or on its portal?'): a written application in person at a district welfare centre is accepted and forwarded.",
+  "published": "2025-03-10"
+ },
+ {
+  "key": "SA3c-9",
+  "fact_ids": [
+   "SP0274",
+   "SP0275",
+   "SP0276"
+  ],
+  "claim": "In cases the New York Times investigated, Saudi authorities declared the deaths of foreign domestic workers natural despite signs of violence: Ugandan Aisha Meeme's Saudi autopsy found three broken ribs and severe electrical burns on her ears, hands and feet, and her husband said the employer offered him the choice of her body or her USD 2,800 in unpaid wages.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "item 1 (cause of death)",
+  "why_new": "Supports the guide's line that cause of death is usually recorded as natural [E0093] with a documented example, and adds the body-or-wages trade-off offered to a family. Not a Bangladeshi case.",
+  "published": "2025-03-19"
+ },
+ {
+  "key": "SA3c-35",
+  "fact_ids": [
+   "SP0335",
+   "SP0336",
+   "SP0337"
+  ],
+  "claim": "Saiful Islam (28) of East Belagaon, Juri, Moulvibazar, a labourer on a poultry farm near Riyadh for about three years, whose employer had just given him three months' leave, was killed on 20 May 2025 when the goods truck he and a co-worker were riding to Riyadh on their weekly day off hit a camel on the road and overturned; his body was kept at a Riyadh hospital morgue.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "A road-death case for a farm worker; the guide has no case of a non-work road death. Low priority; may also show farm workers riding goods trucks.",
+  "published": "2025-05-21"
+ },
+ {
+  "key": "SA3d-3",
+  "fact_ids": [
+   "SP0382",
+   "SP0383"
+  ],
+  "claim": "In July 2025 Magnama Union Parishad panel chairman Badiul Alam said papers were being collected to bring Sakibur Rahman's body home, and that such a death a month and a half after going abroad was hard to accept.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "Shows the Union Parishad's role in gathering papers for repatriation; the guide lists the heirship certificate but no case.",
+  "published": "2025-07-24"
+ },
+ {
+  "key": "SA3d-23",
+  "fact_ids": [
+   "SP0418",
+   "SP0419",
+   "SP0420"
+  ],
+  "claim": "Habib Khan died of a heart attack in a Mecca hospital in October 2025 with his Tk 5.5 lakh loan still unpaid; his father said worry over lack of work made him ill, and the family was waiting for the body.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "Case linking a free visa, debt and a young worker's death; guide's death section has procedure, no case.",
+  "published": "2025-10-07"
+ },
+ {
+  "key": "SA3d-39",
+  "fact_ids": [
+   "SP0444",
+   "SP0445",
+   "SP0446"
+  ],
+  "claim": "In December 2025 family members said Nurul Alam's father was rushing to send the papers needed to bring the body home, and no one yet knew when it would arrive; the Adhunagar Union Parishad chairman said the Union Parishad and upazila administration were giving all necessary help.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "Shows the family-side paper gathering and uncertainty over timing; guide has a Need to know on how long it takes.",
+  "published": "2025-12-07"
+ },
+ {
+  "key": "SA3e-14",
+  "fact_ids": [
+   "SP0631",
+   "SP0632",
+   "SP0633"
+  ],
+  "claim": "Mofizur Rahman (65) of Patiya, Chattogram, who had worked in Makkah for 12 years at whatever job he found and last came home in 2009, was hit by a car walking home from Tarawih prayers on 9 March 2026 and died in hospital; his kafil confirmed the death to the family and, at his dying request to the kafil, he was to be buried in Makkah.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "Case of burial in Saudi Arabia at the worker's own wish, arranged through the kafil.",
+  "published": "2026-03-11"
+ },
+ {
+  "key": "SA3e-24",
+  "fact_ids": [
+   "SP0644",
+   "SP0645"
+  ],
+  "claim": "After Abdullah Al Mamun's death in March 2026, the Gaffargaon upazila nirbahi officer (UNO, the upazila's chief government officer) said efforts were starting through the Wage Earners' Welfare Board to bring the body home quickly, and Mymensingh's deputy commissioner said the UNO had been told to plan help for the family.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "Shows the local administration as an entry point to the Board for a family; guide gives only direct application to the Board.",
+  "published": "2026-03-19"
+ },
+ {
+  "key": "SA3e-36",
+  "fact_ids": [
+   "SP0663",
+   "SP0664",
+   "SP0665"
+  ],
+  "claim": "Azgar Bepari (38) of Dohar, Dhaka, who went to Saudi Arabia through a dalal on borrowed money three and a half years earlier and had worked illegally for a year as a welder's helper, fell from a roof in Hara, Riyadh, on 24 March 2026 and died in hospital; his sister-in-law said the family had heard bringing the body home would cost Tk 4 lakh, which they could not pay.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "Undocumented death case with a cost families hear quoted; guide says only that it takes longer.",
+  "published": "2026-04-01"
+ },
+ {
+  "key": "SA3e-38",
+  "fact_ids": [
+   "SP0667"
+  ],
+  "claim": "The Dohar UNO said, in a report published 1 April 2026, that if someone contacts the Bangladesh embassy in Riyadh on the dead worker's behalf, it will arrange to send the body home with government help.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "other: undocumented route",
+  "why_new": "Official's statement for an undocumented worker; consistent with guide's Welfare-2 route.",
+  "published": "2026-04-01"
+ },
+ {
+  "key": "SA3e-25",
+  "fact_ids": [
+   "SP0646"
+  ],
+  "claim": "Abdullah Al Mamun's body reached Dhaka on a Saudi Airlines flight on 6 April 2026, and the expatriates' welfare minister Ariful Haque Chowdhury received it at the airport.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "Timeline for a war death's repatriation.",
+  "published": "2026-04-06"
+ },
+ {
+  "key": "SA3e-45",
+  "fact_ids": [
+   "SP0675",
+   "SP0676"
+  ],
+  "claim": "Murad Sheikh (34) of Goalanda, Rajbari, who went to Saudi Arabia about a year earlier through his brother Atikur working there, died in a road accident; his brother said the company gave no help and the body came home on 9 May 2026, 15 days later, paid for privately by a Goalanda expatriate named Hussain with help from the Bangladesh embassy.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "Case where the employer did not pay to send the body home, though the guide says Saudi rules make it the employer's cost (E0135).",
+  "published": "2026-05-09"
+ },
+ {
+  "key": "SA3e-49",
+  "fact_ids": [
+   "SP0685",
+   "SP0686",
+   "SP0687"
+  ],
+  "claim": "Ripon Mia (37) of Madan, Netrokona, who went to Saudi Arabia in October 2025 to work for a private company, was killed near Madinah in May 2026 when a lorry hit his taxi; with little work for a few days he had set out to visit an acquaintance, his family said, and the official acting as Kendua upazila's UNO said the papers had been collected and the expatriates' welfare ministry contacted to bring the body home.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "Case showing the upazila office collecting papers for repatriation. Low priority.",
+  "published": "2026-05-26"
+ },
+ {
+  "key": "SA3e-53",
+  "fact_ids": [
+   "SP0695",
+   "SP0696",
+   "SP0697"
+  ],
+  "claim": "Shakil's father said bringing the body home needed about SR 8,000, which the family did not have; after Shariful Alam, MP for Kishoreganj-6 and state minister for textiles and jute, intervened, the body came back with government help on a Biman flight that reached Dhaka around midnight on 12 June 2026 and reached his home on 13 June, 28 days after the death.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "Cost quoted to a family of a worker who died in custody; guide has no figure.",
+  "published": "2026-06-13"
+ },
+ {
+  "key": "SA3e-54",
+  "fact_ids": [
+   "SP0698",
+   "SP0699"
+  ],
+  "claim": "The assistant director of the Faridpur Probashi Kallyan (expatriate welfare) Centre said in June 2026 that in such cases the company usually sends the body home and gives other help, that the Bangladesh government gives Tk 3 lakh after the body arrives, and that if the company won't, the government brings the body home on the family's application.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "other: who pays",
+  "why_new": "Partly answers the Need to know 'When does the Board or the ministry pay instead of the employer?'; also names district welfare centres as a contact. Case: Gias Uddin Shikder (60), farm worker in Al-Jouf, killed crossing a road.",
+  "published": "2026-06-18"
+ },
+ {
+  "key": "SA3f-3",
+  "fact_ids": [
+   "SP0713",
+   "SP0714",
+   "SP0715"
+  ],
+  "claim": "After the 9 August 2026 sofa-factory fire in Riyadh, Expatriates' Welfare Minister Ariful Haque Chowdhury said the embassy was in constant contact with the site and local authorities and that officials had been told to bring the bodies home quickly and secure all government help and compensation for the families; the first night's reports put the toll at 10, all from Atrai, Naogaon, by the Naogaon deputy commissioner's count.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "The guide has no case of a mass workplace death in Saudi Arabia; the initial toll of 10 was later revised to 16 (see the 10 August reports).",
+  "published": "2026-08-09"
+ },
+ {
+  "key": "SA3f-5",
+  "fact_ids": [
+   "SP0719",
+   "SP0720"
+  ],
+  "claim": "After the August 2026 Riyadh factory fire, the Foreign Ministry said Bangladesh Embassy officials went to the site straight away and worked with the Saudi authorities on identifying the dead and the formalities for the bodies, and that once identification was complete the bodies would be brought home in line with the families' consent.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "Shows identification comes before repatriation in a mass-casualty case; the guide's death steps don't mention identification.",
+  "published": "2026-08-10"
+ },
+ {
+  "key": "SA3f-8",
+  "fact_ids": [
+   "SP0724",
+   "SP0725"
+  ],
+  "claim": "The Naogaon deputy commissioner said on 10 August 2026 that the Bangladesh Embassy's labour welfare wing was identifying the fire victims and arranging to bring the bodies home, and that completing the process might take some days.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "Who handles identification and repatriation in practice.",
+  "published": "2026-08-10"
+ },
+ {
+  "key": "SA3f-10",
+  "fact_ids": [
+   "SP0728",
+   "SP0729"
+  ],
+  "claim": "Prime Minister Tarique Rahman directed the Foreign Ministry, the Expatriates' Welfare Ministry and the Bangladesh Embassy in Riyadh to bring the bodies of the 16 fire victims home in the shortest possible time, with the Prime Minister's Office giving all cooperation, his press secretary said in August 2026.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "Context for how long the high-profile case took despite top-level orders (bodies arrived 27 August, see SA3f drafts from bc861f5d). This article dates the fire to Monday, the others to Sunday 9 August.",
+  "published": "2026-08-11"
+ },
+ {
+  "key": "SA3f-14",
+  "fact_ids": [
+   "SP0735",
+   "SP0736",
+   "SP0737"
+  ],
+  "claim": "Of the 16 Bangladeshis killed in the 9 August 2026 Riyadh fire, 9 were identified by fingerprint checks and their bodies were due to arrive on Biman flight BG-340 at Hazrat Shahjalal airport on Thursday 27 August, while the other 7 were still being identified by DNA test.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "Gives a real timeline (18 days for fingerprint-identified bodies; longer for DNA) that the guide's 'How long does the Board take' Need to know lacks.",
+  "published": "2026-08-26"
+ },
+ {
+  "key": "SA3f-15",
+  "fact_ids": [
+   "SP0738",
+   "SP0739"
+  ],
+  "claim": "In August 2026 the embassy's Counsellor (Labour) in Riyadh sent a signed letter to the Atrai upazila administration giving the arrival date of the bodies, and the upazila told the families to receive them at Shahjalal airport.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Step 3 item",
+  "why_new": "How families learn when a body will arrive (via the upazila administration); the guide says only that the Board's desk calls the family.",
+  "published": "2026-08-26"
+ },
+ {
+  "key": "SA3f-16",
+  "fact_ids": [
+   "SP0740"
+  ],
+  "claim": "When the nine identified bodies from the Riyadh fire were received at Dhaka airport at about 4:30 pm on 27 August 2026, one relative from each family was present, and the bodies were then taken home by vehicle, according to the Atrai upazila executive officer.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Step 3 item",
+  "why_new": "Practical detail on airport hand-over; also notes the welfare minister and foreign state minister received the bodies.",
+  "published": "2026-08-27"
+ },
+ {
+  "key": "SA3f-18",
+  "fact_ids": [
+   "SP0742",
+   "SP0743",
+   "SP0744"
+  ],
+  "claim": "As of 28 August 2026, seven of the 16 Riyadh fire victims were still unidentified and their families demanded that the bodies be identified and returned quickly; the Naldanga acting UNO said two Naldanga victims' bodies had not yet been identified and so could not be brought home, and the Naogaon deputy commissioner said DNA tests were being used to identify the remaining Naogaon victims.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "Bodies that need DNA identification wait longer; not in the guide.",
+  "published": "2026-08-28"
+ },
+ {
+  "key": "SA3f-19",
+  "fact_ids": [
+   "SP0745",
+   "SP0746",
+   "SP0747"
+  ],
+  "claim": "Shyamal Uddin Majhi (46) of Bagmara, Rajshahi, who went to Saudi Arabia on borrowed money eight years earlier, died in the Riyadh fire; his coffin was opened at home in the presence of police on 28 August 2026, his elder sister was worried about how his debt would be repaid, and a former union chairman asked the government for financial help for the family.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "Shows a coffin opened under police presence at home; a detail families may meet.",
+  "published": "2026-08-28"
+ },
+ {
+  "key": "SA3f-20",
+  "fact_ids": [
+   "SP0748",
+   "SP0749",
+   "SP0750"
+  ],
+  "claim": "Md Kamrul Zaman (37) of Begumganj, Noakhali, who worked at a shopping mall in Taif, was shot dead at dawn on Sunday 30 August 2026 while phoning his wife after his shift; according to his cousin the gunman was a young Saudi who he heard then shot himself, and the motive was not known.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "A violent-death case; the guide has no homicide case. Family account only; the Begumganj UNO had no details.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "SA3f-25",
+  "fact_ids": [
+   "SP0759",
+   "SP0760",
+   "SP0761"
+  ],
+  "claim": "Md Sohag of Companiganj, Noakhali, died of a reported heart attack at home in Abha on Monday 31 August 2026; according to his sister, his iqama had expired some months earlier and his passport had also expired and he had been unable to renew them; his body was in a hospital cold store and his sister asked the government to bring it home.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "Case of a death with expired iqama and passport, where the guide says repatriation takes much longer [E0090].",
+  "published": "2026-09-06"
+ },
+ {
+  "key": "SA3f-26",
+  "fact_ids": [
+   "SP0762",
+   "SP0763"
+  ],
+  "claim": "Md Sohag's sister said their father Rafiq Uddin also died in Saudi Arabia, in 2003, and the family could not bring his body home, so he was buried there.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "Older case of burial abroad because repatriation failed; one sentence in the article garbles this, the quoted words are the sister's.",
+  "published": "2026-09-06"
+ },
+ {
+  "key": "SA3f-27",
+  "fact_ids": [
+   "SP0764",
+   "SP0765",
+   "SP0766"
+  ],
+  "claim": "On 7 September 2026, Abdul Karim of Kanaighat, Sylhet, who had a ticket home after about three years in Saudi Arabia, and his neighbour Khalid Ahmad were killed when their car crashed at Al-Khurma on the way from Taif to Jeddah airport; Karim's son, also working there, broke an arm.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "Road deaths are the largest accident category (see b9d4992b); the guide has no Saudi road-death case.",
+  "published": "2026-09-08"
+ },
+ {
+  "key": "SA3f-28",
+  "fact_ids": [
+   "SP0767"
+  ],
+  "claim": "Another migrant from Kanaighat, Sylhet, died in a road accident in Saudi Arabia in July 2026, after five Kanaighat migrants died in a road accident in Qatar in June 2026.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "Pattern of road deaths among workers from one upazila.",
+  "published": "2026-09-08"
+ },
+ {
+  "key": "SA3f-38",
+  "fact_ids": [
+   "SP0782"
+  ],
+  "claim": "For Sajib Hossain, killed in Saudi Arabia in October 2026, the Brahmanpara UNO said his father and brother, who also lived in Saudi Arabia, would lead the effort to bring his body home.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "Shows relatives on the Saudi side handling repatriation; minor.",
+  "published": "2026-10-05"
+ },
+ {
+  "key": "SA3f-40",
+  "fact_ids": [
+   "SP0783",
+   "SP0784"
+  ],
+  "claim": "About 2,000 Bangladeshi workers died in Saudi Arabia in 2026 up to the end of September, more than in any other country, Prothom Alo reported; the head of BRAC's Migration Programme said over 70% of bodies come from the Middle East, most from Saudi Arabia, and that young men aged 25 to 30 are also dying.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "The numbers",
+  "why_new": "The guide has no Saudi death figure.",
+  "published": "2026-10-06"
+ },
+ {
+  "key": "SA3f-41",
+  "fact_ids": [
+   "SP0785",
+   "SP0786",
+   "SP0787"
+  ],
+  "claim": "By the Expatriates' Welfare Ministry's data, the papers with returned bodies gave the cause as natural death in 66% of cases in January to September 2026, against about 70% before, and more than 16% died in road or work accidents, fires, falls from buildings or electrocution; the minister said on 1 October 2026 that steps to verify causes of death abroad would be decided.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Step 1 item",
+  "why_new": "Adds numbers to the guide's statement that the cause is usually recorded as natural and not checked [E0093]; all destinations, not Saudi only.",
+  "published": "2026-10-06"
+ },
+ {
+  "key": "SA3f-43",
+  "fact_ids": [
+   "SP0788",
+   "SP0789"
+  ],
+  "claim": "Brothers Foyez Ahmed, ten years in Saudi Arabia, and Sujon Ahmed, who had joined him seven months earlier, of Noakhali, who carried dates in the same vehicle, died in a road accident on 16 July 2026; their bodies reached Bangladesh on 28 July and the Welfare Board paid Tk 35,000 each for burial, their father said.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "Real timeline (12 days) and confirmation that the Tk 35,000 burial payment is paid per body in 2026 (cross-country doc asks whether it is Tk 35,000 or Tk 25,000).",
+  "published": "2026-10-06"
+ },
+ {
+  "key": "SA3f-60",
+  "fact_ids": [
+   "SP0823"
+  ],
+  "claim": "By Expatriates' Welfare Ministry sources, 14 Bangladeshis had been killed in attacks in the Middle East from the start of the 2026 war to 12 October 2026, 8 of them registered as migrant workers.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "The numbers",
+  "why_new": "War deaths are new; region-wide, not Saudi only.",
+  "published": "2026-10-13"
+ },
+ {
+  "key": "SA3g-7",
+  "fact_ids": [
+   "SP0478"
+  ],
+  "claim": "According to Wage Earners' Welfare Board data cited by The Daily Star and a Prothom Alo column (17 October 2026), the bodies of 799 women migrant workers came home to Bangladesh in eight years, most from Saudi Arabia, and many death certificates gave suicide as the cause.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Item 1 (cause of death)",
+  "why_new": "Guide says the cause is usually recorded as 'natural' and not checked (E0093); this adds the women's death count and suicide recordings.",
+  "published": "2026-10-17"
+ },
+ {
+  "key": "SA3g-31",
+  "fact_ids": [
+   "SP0512"
+  ],
+  "claim": "Prothom Alo reported that the body of Murad Sheikh of Goalanda, Rajbari, killed in a road accident in Saudi Arabia, reached his home 16 days after his death, on 9 May 2026.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Need to know (how long the body takes)",
+  "why_new": "A data point for the guide's Need to know on how long bringing a body home takes.",
+  "published": "2026-10-20"
+ },
+ {
+  "key": "SA3g-38",
+  "fact_ids": [
+   "SP0527"
+  ],
+  "claim": "The Expatriates' Welfare Ministry said the body of Md Shahed Ahammed would be received at cargo gate 8 of Hazrat Shahjalal International Airport, Dhaka, on its arrival at 8:35 am on 23 October 2026.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Item 3 (At the airport)",
+  "why_new": "Guide says bodies are handed over 'at cargo'; this names the gate (cargo gate 8) used in one case.",
+  "published": "2026-10-22"
+ },
+ {
+  "key": "SA3h-25",
+  "fact_ids": [
+   "SP0579",
+   "SP0580"
+  ],
+  "claim": "Saudi law does not guarantee that the body of an executed person is handed over: in all three executions of January-June 2025 among the cases Amnesty International documented, Saudi Arabia neither returned the body to the family nor told them where the grave is.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "other: executed workers",
+  "why_new": "New: the repatriation steps in the guide do not apply to executed workers.",
+  "published": "2026-10-27"
+ },
+ {
+  "key": "SA3h-31",
+  "fact_ids": [
+   "SP0588"
+  ],
+  "claim": "Sixteen Bangladeshi workers died in a fire at a sofa factory in Riyadh on 9 August 2026; nine bodies were sent home on 27 August, and the other seven, identified by DNA tests, were due in Dhaka on 31 October, nearly three months later.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "New: the guide has no case of this fire or of DNA identification delaying a body by months.",
+  "published": "2026-10-30"
+ },
+ {
+  "key": "SA3h-34",
+  "fact_ids": [
+   "SP0592",
+   "SP0593"
+  ],
+  "claim": "For the bodies flown home on 31 October 2026, the expatriates' ministry sent its letter with the flight time to the district deputy commissioners, upazila nirbahi officers and expatriate-welfare offices concerned, and the Atrai UNO confirmed the families had been told.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Step 3 item",
+  "why_new": "New: how a family learns when a body will arrive (via the DC/UNO offices).",
+  "published": "2026-10-30"
+ },
+ {
+  "key": "SA3h-32",
+  "fact_ids": [
+   "SP0589",
+   "SP0590"
+  ],
+  "claim": "The seven bodies from the 9 August 2026 Riyadh sofa-factory fire were burned beyond recognition, identified by DNA tests and reached Dhaka on 31 October 2026, 2 months 22 days after the deaths.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Cases",
+  "why_new": "New: confirms arrival and the timeline for DNA cases. Possible Need to know: how does a family give a DNA sample from Bangladesh?",
+  "published": "2026-10-31"
+ },
+ {
+  "key": "SA3h-35",
+  "fact_ids": [
+   "SP0594",
+   "SP0595"
+  ],
+  "claim": "On 31 October 2026 the Biman flight with the seven bodies landed in Dhaka at about 8:30 am; after airport formalities expatriates' ministry officials handed the bodies to relatives, who took them home to Naogaon and Natore, where they were buried that afternoon and evening.",
+  "target_section": "If a worker dies in Saudi Arabia",
+  "placement": "Step 3 item",
+  "why_new": "Consistent with the guide's airport handover step; adds a real same-day timeline. Low priority.",
+  "published": "2026-10-31"
+ },
+ {
+  "key": "SA3g-24",
+  "fact_ids": [
+   "SP0499",
+   "SP0500",
+   "SP0501"
+  ],
+  "claim": "According to a Prothom Alo column (20 October 2026), embassy efforts freed 49,503 Bangladeshis from 20 countries in 2012-2016, 17,335 of them from Saudi Arabia, most of them workers whose iqama or visa had expired, for whom 'release' meant arranging an air ticket and an out-pass.",
+  "target_section": "If you are detained",
+  "placement": "other: numbers",
+  "why_new": "Adds what embassy 'release' of detainees means in practice (ticket and travel permit).",
+  "published": "2026-10-20"
+ },
+ {
+  "key": "SA3g-28",
+  "fact_ids": [
+   "SP0506",
+   "SP0507"
+  ],
+  "claim": "According to a Prothom Alo column (20 October 2026), in October 2011 a Dammam high court asked what the Bangladesh government was doing to bring home about 500 Bangladeshis held in Dammam prison whom Saudi Arabia was willing to send home under a general pardon, but tickets and out-passes were not arranged because of embassy indifference and errors in the paperwork.",
+  "target_section": "If you are detained",
+  "placement": "Cases",
+  "why_new": "Older (2011) case showing pardoned detainees can stay held if the embassy doesn't produce tickets and travel permits.",
+  "published": "2026-10-20"
+ },
+ {
+  "key": "SA3b-27",
+  "fact_ids": [
+   "SP0173",
+   "SP0174"
+  ],
+  "claim": "Shefali Begum of Narsingdi, who went to Saudi Arabia lured by a broker, said in December 2024 that she was made to work a lot but not fed, the householder physically abused her and beat her when she complained, broke her hand and did not get it treated; after she came home she filed a case but, under local pressure, settled with the broker for BDT 30,000 compensation and withdrew it.",
+  "target_section": "If you are sexually abused",
+  "placement": "Cases",
+  "why_new": "A case of what a domestic worker's case against a broker yields in practice (BDT 30,000 under local pressure). Placement could also be Work visa: domestic worker, If something goes wrong.",
+  "published": "2024-12-29"
+ },
+ {
+  "key": "SA3c-8",
+  "fact_ids": [
+   "SP0272",
+   "SP0273"
+  ],
+  "claim": "Ugandan domestic worker Farida Nassanga told the New York Times that her employer's husband raped her in Saudi Arabia, and that when she became pregnant the employer blamed her and put her on a flight home.",
+  "target_section": "If you are sexually abused",
+  "placement": "item 3 (pregnancy)",
+  "why_new": "Adds a case of what happened to a worker made pregnant by rape (sent home); the guide notes only the legal risk [SG0008]. Not a Bangladeshi case.",
+  "published": "2025-03-19"
+ },
+ {
+  "key": "SA3b-25",
+  "fact_ids": [
+   "SP0170",
+   "SP0171"
+  ],
+  "claim": "The OKUP study (December 2024) found returnees came back with back pain, workplace injuries, heart disease, kidney problems, cancer, high blood pressure, tumours and skin disease; some migrants borrowed money from home for treatment, and many came home because they could not get treatment.",
+  "target_section": "Injured or ill",
+  "placement": "other: what returnees come back with",
+  "why_new": "Evidence of what illness costs workers; not in the guide.",
+  "published": "2024-12-29"
+ },
+ {
+  "key": "SA3c-16",
+  "fact_ids": [
+   "SP0292",
+   "SP0293",
+   "SP0294"
+  ],
+  "claim": "Mizanur Rahman (62) of Noakhali, a day labourer in Jubail who had worked in Saudi Arabia since 1993 and who, his family said, had been without valid papers since 2017, was admitted to Jubail General Hospital after a stroke on 28 February 2025; his family said his first week's hospital bill was waived but his treatment largely stopped afterwards because there was no guarantee the bill would be paid.",
+  "target_section": "Injured or ill",
+  "placement": "Cases (worker without valid papers)",
+  "why_new": "The guide's Injured or ill covers insured workers; nothing on hospital treatment for a worker without papers. Adds a case.",
+  "published": "2025-04-18"
+ },
+ {
+  "key": "SA3c-17",
+  "fact_ids": [
+   "SP0295",
+   "SP0296"
+  ],
+  "claim": "Mizanur's wife said the Bangladesh embassy in Saudi Arabia told the family it would arrange to send him home once a compensation case his employer had filed against him was resolved; the family said the employer had since died but the case remained, and she said she did not know how to resolve it from Bangladesh.",
+  "target_section": "Injured or ill",
+  "placement": "To get home (worker with a case against him)",
+  "why_new": "Shows an employer's case blocking repatriation of a sick worker, as with matloob [SM0046]; the guide does not cover this for a sick worker.",
+  "published": "2025-04-18"
+ },
+ {
+  "key": "SA3c-18",
+  "fact_ids": [
+   "SP0297",
+   "SP0298",
+   "SP0299"
+  ],
+  "claim": "The Wage Earners' Welfare Board cannot directly help workers without valid papers, so it forwarded Mizanur's wife's 9 April 2025 application, made with help from BRAC's Migration Programme, to the expatriates' ministry, which wrote to the embassy's labour wing on 16 April 2025 asking it to send him home urgently.",
+  "target_section": "Injured or ill",
+  "placement": "To get home (worker without valid papers)",
+  "why_new": "The guide's To get home route needs BMET clearance or Board membership [E0014]; this shows the route for an undocumented sick worker (Board forwards to ministry, ministry writes to labour wing), parallel to the guide's route for bodies [E0091].",
+  "published": "2025-04-18"
+ },
+ {
+  "key": "SA3c-38",
+  "fact_ids": [
+   "SP0343",
+   "SP0344",
+   "SP0345"
+  ],
+  "claim": "His wife said that after Jabbar, who worked at a tile factory owned by an Indian national and had no papers, was badly injured in a road accident on 10 May 2024 and put in a Saudi hospital ICU, those she spoke to three months later asked Tk 70 lakh to send him home because he had no papers, and later people she was connected with, whom she could not identify, asked Tk 70 lakh and then Tk 19,000 for the airfare, which she could not raise.",
+  "target_section": "Injured or ill",
+  "placement": "To get home (worker without valid papers)",
+  "why_new": "Shows what families are asked to pay to repatriate an injured undocumented worker; the guide has no figure.",
+  "published": "2025-05-29"
+ },
+ {
+  "key": "SA3c-39",
+  "fact_ids": [
+   "SP0346",
+   "SP0347",
+   "SP0348"
+  ],
+  "claim": "Jabbar's wife said her application to the Wage Earners' Welfare Board brought no result until the Tanore UNO (Upazila Nirbahi Officer, the sub-district's chief executive), whose office she waited 22 days to enter, reached the Bangladesh embassy after 15 days of trying.",
+  "target_section": "Injured or ill",
+  "placement": "To get home (what happened)",
+  "why_new": "Shows the UNO as an alternative push when the Board stalls; the guide's 'If the Board doesn't deliver' lists only Board/ministry/GRS. CONFLICT with the Board's own account in f8925d9a (it wrote to the embassy and sent a reminder on 9 April 2025).",
+  "published": "2025-05-29"
+ },
+ {
+  "key": "SA3c-42",
+  "fact_ids": [
+   "SP0353",
+   "SP0354",
+   "SP0355"
+  ],
+  "claim": "Jabbar's wife applied in writing to the Wage Earners' Welfare Board's director general on 13 January 2025; the Board wrote to the embassy, sent a reminder on 9 April, and he was flown home unconscious on 23 May 2025, after more than a year in a Saudi ICU, the Board's assistant director Main Uddin and the family said.",
+  "target_section": "Injured or ill",
+  "placement": "To get home (timeline)",
+  "why_new": "Gives a real timeline (about four months) for the Board's bring-home route; the guide gives no time.",
+  "published": "2025-06-01"
+ },
+ {
+  "key": "SA3c-43",
+  "fact_ids": [
+   "SP0356"
+  ],
+  "claim": "The Welfare Board's assistant director Main Uddin said in June 2025 that Jabbar's family could now apply for treatment help, and that if he was a registered worker the Board could give up to Tk 1.5 lakh quickly.",
+  "target_section": "Injured or ill",
+  "placement": "Treatment money after coming home",
+  "why_new": "CONFLICT: the guide says the Board pays up to Tk 2 lakh in treatment money after coming home [E0014]; a Board official said up to Tk 1.5 lakh in June 2025.",
+  "published": "2025-06-01"
+ },
+ {
+  "key": "SA3a-11",
+  "fact_ids": [
+   "SP0011",
+   "SP0012"
+  ],
+  "claim": "Shariful Islam of Tangail went to Saudi Arabia in October 2023 at a cost of Tk 5 lakh, worked 22 days, was detained by police and sent home on an outpass in December; he told Prothom Alo he did not know why he was sent back or whether he had paid for insurance, and that he had applied nowhere since returning and nobody had told him to.",
+  "target_section": "Job lost within 6 months",
+  "placement": "Cases",
+  "why_new": "A Saudi case of a worker sent home within six months who never claimed the Tk 50,000 job-loss benefit; the guide has the benefit [E0011] but no case.",
+  "published": "2024-01-22"
+ },
+ {
+  "key": "SA3a-64",
+  "fact_ids": [
+   "SP0107",
+   "SP0108",
+   "SP0109"
+  ],
+  "claim": "Khokon Howlader of West Subidkhali, Mirzaganj, Patuakhali, who had lived in Saudi Arabia for seven or eight years, hanged himself on 24 September 2024 while on a video call with his wife and twin sons, according to the family; his body reached Dhaka on a Biman flight 22 days later, on 16 October.",
+  "target_section": "Mental health",
+  "placement": "Cases",
+  "why_new": "A suicide case with the time a body took to come home (22 days); the guide has no Saudi case under Mental health. The article also says he returned to Saudi Arabia on 14 October after leave, which conflicts with the 24 September date; not drafted.",
+  "published": "2024-10-17"
+ },
+ {
+  "key": "SA3b-24",
+  "fact_ids": [
+   "SP0167",
+   "SP0168",
+   "SP0169"
+  ],
+  "claim": "In an OKUP (Ovibashi Karmi Unnayan Program) survey presented on 29 December 2024 of 1,096 returnees from six Middle East countries who came for health services (returned 2020-2023, seven districts), 55% had returned from Saudi Arabia and 48% came with mental health problems, more often men; domestic workers reported mental problems most.",
+  "target_section": "Mental health",
+  "placement": "The numbers",
+  "why_new": "The guide's Mental health section gives only helplines; this shows the scale among returnees.",
+  "published": "2024-12-29"
+ },
+ {
+  "key": "SA3b-29",
+  "fact_ids": [
+   "SP0177",
+   "SP0178",
+   "SP0179"
+  ],
+  "claim": "At the OKUP event (29 December 2024) a joint secretary of the Ministry of Expatriates' Welfare, Mohammad Shahin, said a way must be found for migrants to complain immediately, and the Bangladesh Nari Sramik Kendra's executive director said women workers in the Middle East cannot even leave the house.",
+  "target_section": "Mental health",
+  "placement": "other: officials' view",
+  "why_new": "Low priority; official acknowledgement of the complaint gap. Could be cut.",
+  "published": "2024-12-29"
+ },
+ {
+  "key": "SA3b-51",
+  "fact_ids": [
+   "SP0217"
+  ],
+  "claim": "According to Khilgaon police in Dhaka, on 11 January 2025 an organised gang of expatriate Bangladeshis kidnapped Russell, a Bangladeshi long resident in Saudi Arabia, from Riyadh, tortured him and demanded BDT 35 lakh ransom from his family, who deposited it into a bank account the gang gave them.",
+  "target_section": "NEW: If you or a relative is kidnapped (after If you or a relative is arrested)",
+  "placement": "Cases",
+  "why_new": "The guide has nothing on Bangladeshi gangs kidnapping Bangladeshis in Saudi Arabia for ransom paid at home.",
+  "published": "2025-02-01"
+ },
+ {
+  "key": "SA3b-52",
+  "fact_ids": [
+   "SP0218",
+   "SP0219",
+   "SP0220"
+  ],
+  "claim": "After Russell's father-in-law filed a case at Khilgaon police station in Dhaka on 21 January 2025, police arrested three men in Lakshmipur and Brahmanbaria on 31 January, and BDT 12 lakh of the BDT 35 lakh ransom was frozen by court order.",
+  "target_section": "NEW: If you or a relative is kidnapped (after If you or a relative is arrested)",
+  "placement": "other: what the family can do",
+  "why_new": "Shows a family in Bangladesh can file a case at a Bangladeshi police station over a kidnapping in Saudi Arabia, and ransom paid into Bangladeshi accounts can be partly frozen.",
+  "published": "2025-02-01"
+ },
+ {
+  "key": "SA3h-7",
+  "fact_ids": [
+   "SP0555",
+   "SP0556",
+   "SP0557"
+  ],
+  "claim": "In October 2026 the Bangladesh Hajj Office in Jeddah (under Bangladesh's Ministry of Religious Affairs) advertised posts open to Bangladeshis living in Saudi Arabia with a valid iqama and passport, and to Saudis: protocol assistant and computer operator cum interpreter at SR 4,425-6,875, caretaker cum night guard at SR 2,815-5,090 and two drivers at SR 3,250-5,525 a month, age limit 32, deadline 4 pm on 12 November 2026.",
+  "target_section": "NEW: Jobs at Bangladesh government offices in Saudi Arabia (after If you want to change employer)",
+  "placement": "other: example vacancy",
+  "why_new": "New: the guide does not mention Bangladesh mission jobs open to iqama holders; deadline has passed, so useful only as an example that such posts are advertised. Reviewer may drop.",
+  "published": "2026-10-26"
+ },
+ {
+  "key": "SA3b-10",
+  "fact_ids": [
+   "SP0136",
+   "SP0137",
+   "SP0138"
+  ],
+  "claim": "In November 2024 BOESL (Bangladesh Overseas Employment and Services Limited) advertised 15 male and 15 female Nursing Specialist (BSc) posts at Afras Trading and Contracting Company in Saudi Arabia, requiring a BSc Nursing certificate from a government-approved institute, a Prometric pass certificate, at least three years' experience, ability to communicate in English and age within 40, with applications closing on 30 December 2024.",
+  "target_section": "NEW: Nurses and other skilled jobs (after House drivers)",
+  "placement": "Status",
+  "why_new": "The guide has no nursing or other skilled-professional route, and says nothing on women going on non-domestic company visas (its Need to know asks whether a woman can go on a company visa: this ad recruited women nurses for a company). Note the guide's rule not to recommend BOESL for Saudi; this is a factual record of one ad.",
+  "published": "2024-11-29"
+ },
+ {
+  "key": "SA3b-11",
+  "fact_ids": [
+   "SP0139",
+   "SP0140",
+   "SP0141"
+  ],
+  "claim": "BOESL's November 2024 ad for Saudi nursing specialists at Afras Trading and Contracting Company gave a monthly salary of SR 3,000 (BDT 95,315) plus SR 300 a month for food, 8-hour days 6 days a week, a renewable two-year contract with three months' probation, 21 days' annual leave, and housing, transport to work, primary medical care and the joining and return airfare paid by the company.",
+  "target_section": "NEW: Nurses and other skilled jobs (after House drivers)",
+  "placement": "other: pay and terms",
+  "why_new": "Wage and terms for a skilled Saudi job; the guide's wage list stops at heavy equipment operators (SR 1,500).",
+  "published": "2024-11-29"
+ },
+ {
+  "key": "SA3b-12",
+  "fact_ids": [
+   "SP0142"
+  ],
+  "claim": "Selected candidates for BOESL's 2024 Saudi nursing posts had to pay BOESL a service charge of BDT 56,350 plus the other fees set by rule, including the GAMCA medical fee and the visa stamping fee.",
+  "target_section": "NEW: Nurses and other skilled jobs (after House drivers)",
+  "placement": "other: what you pay",
+  "why_new": "What a worker pays on a state-agency Saudi job; not in the guide.",
+  "published": "2024-11-29"
+ },
+ {
+  "key": "SA3a-25",
+  "fact_ids": [
+   "SP0033",
+   "SP0034",
+   "SP0035"
+  ],
+  "claim": "Prothom Alo reported in March 2024 that remittances from Saudi Arabia fell from USD 4.54 billion in fiscal 2021-22, when it was the top source, to USD 3.76 billion in 2022-23, and that by Bangladesh Bank figures about USD 1.79 billion came from Saudi Arabia in July 2023-February 2024, putting it third behind the UAE (about USD 2.91 billion) and the UK (about USD 1.88 billion).",
+  "target_section": "Sending money home",
+  "placement": "The numbers",
+  "why_new": "No remittance trend in the guide. Conflict: the Bangladesh embassy's press release (article 71b15965) gives USD 3.07 billion for 2022-23, against Bangladesh Bank's USD 3.76 billion here.",
+  "published": "2024-03-14"
+ },
+ {
+  "key": "SA3a-26",
+  "fact_ids": [
+   "SP0036"
+  ],
+  "claim": "RMMRU founding chair Tasneem Siddiqui said in March 2024 that remittances from Saudi Arabia had fallen because many send through hundi over the exchange-rate gap and distrust of banks, and because many workers who recently went to Saudi Arabia on legal visas were not getting jobs, many of them coming home without work.",
+  "target_section": "Sending money home",
+  "placement": "other: why remittances fell",
+  "why_new": "Links falling Saudi remittances to hundi and to workers arriving on legal visas without jobs (the free-visa problem in What goes wrong most); not in the guide.",
+  "published": "2024-03-14"
+ },
+ {
+  "key": "SA3a-27",
+  "fact_ids": [
+   "SP0037",
+   "SP0038",
+   "SP0039"
+  ],
+  "claim": "People in the sector told Prothom Alo in March 2024 that banks' official dollar rate for remittances was Tk 110, plus the government's 2.5% incentive and an equal incentive from many banks, so a legal transfer fetched over Tk 115 a dollar, and some banks short of dollars paid over Tk 120.",
+  "target_section": "Sending money home",
+  "placement": "other: rate",
+  "why_new": "The guide has the 2.5% government incentive [E0076] but not that banks add their own matching incentive; the 2024 rate is dated.",
+  "published": "2024-03-14"
+ },
+ {
+  "key": "SA3a-39",
+  "fact_ids": [
+   "SP0063",
+   "SP0064",
+   "SP0065"
+  ],
+  "claim": "Under the budget proposal reported in June 2024, cash and gifts, including remittances, received from anyone other than a spouse, child or parent, such as a brother, sister or in-law, would be taxable for the recipient, and a National Board of Revenue (NBR) official said tax could be avoided only if the sender shows the money as his own and the recipient shows it as a liability in the tax return, though Prothom Alo noted the NBR had given no formal explanation and the matter was unclear.",
+  "target_section": "Sending money home",
+  "placement": "other: tax on remittances",
+  "why_new": "Not in the guide; Saudi workers often send to brothers' accounts. It was a proposal in June 2024: whether it was enacted is a Need to know. Better placed in CROSS-COUNTRY: How do I send money home safely?",
+  "published": "2024-06-16"
+ },
+ {
+  "key": "SA3a-40",
+  "fact_ids": [
+   "SP0066",
+   "SP0067"
+  ],
+  "claim": "Prothom Alo reported in June 2024 that many workers in Saudi Arabia and other Gulf countries send remittances to brothers', sisters', in-laws' and friends' bank accounts because in villages many elderly parents have no bank account, children are minors and wives don't open accounts.",
+  "target_section": "Sending money home",
+  "placement": "other: why workers send to relatives",
+  "why_new": "Explains a common practice behind the proposed tax; the guide's Before you fly item 4 says to open a bank account for a family member [B0104] but not why many don't.",
+  "published": "2024-06-16"
+ },
+ {
+  "key": "SA3a-55",
+  "fact_ids": [
+   "SP0090",
+   "SP0091",
+   "SP0092"
+  ],
+  "claim": "By Bangladesh Bank figures, remittances from Saudi Arabia fell by USD 1.03 billion, about 27%, in fiscal 2023-24, dropping it from first place in 2022-23 to fourth, behind the UAE, the United States and the UK.",
+  "target_section": "Sending money home",
+  "placement": "The numbers",
+  "why_new": "Full-year 2023-24 figure, completing the trend drafted from article 2b2f2ed1; not in the guide.",
+  "published": "2024-07-13"
+ },
+ {
+  "key": "SA3a-63",
+  "fact_ids": [
+   "SP0105",
+   "SP0106"
+  ],
+  "claim": "Saudi ambassador in Dhaka Essa Yousef Essa Al-Duhailan told Chief Adviser Muhammad Yunus on 27 August 2024 that about 32 lakh Bangladeshis work in Saudi Arabia and send about USD 5 billion a year through legal channels and another USD 5 billion through informal channels.",
+  "target_section": "Sending money home",
+  "placement": "The numbers (hundi share)",
+  "why_new": "An official Saudi estimate that half of Saudi remittances go through hundi; not in the guide. Conflict: Bangladesh Bank recorded about USD 2.7 billion from Saudi Arabia in 2023-24 (articles 2b2f2ed1 and 5f8f2c2f), well below the ambassador's USD 5 billion legal figure.",
+  "published": "2024-08-27"
+ },
+ {
+  "key": "SA3c-4",
+  "fact_ids": [
+   "SP0260",
+   "SP0261",
+   "SP0262"
+  ],
+  "claim": "Bangladesh Bank governor Ahsan H Mansur said at several recent events (reported 19 March 2025) that not all remittances from Saudi Arabia come directly to Bangladesh but come via Dubai, that a dishonest ring buys remittances from Saudi Arabia, hoards them and sells them to Bangladeshi banks at a higher price, and that banks would not be allowed to buy dollars at higher prices from such firms.",
+  "target_section": "Sending money home",
+  "placement": "other: why the legal channel is hard to trace",
+  "why_new": "The guide covers hundi and costs but not this routing of Saudi remittances through Dubai aggregators; low direct use to a worker, background only.",
+  "published": "2025-03-19"
+ },
+ {
+  "key": "SA3c-57",
+  "fact_ids": [
+   "SP0284"
+  ],
+  "claim": "A banker's column in April 2025 described the incentive for remittances through banking channels as 2.5% and proposed raising it to 3.5%.",
+  "target_section": "Sending money home",
+  "placement": "To a bKash account (incentive)",
+  "why_new": "Supports the guide's 2.5% [E0076]; conflicts with the ministry's 2% in June 2025 (5afce1f2).",
+  "published": "2025-04-07"
+ },
+ {
+  "key": "SA3c-56",
+  "fact_ids": [
+   "SP0377"
+  ],
+  "claim": "The expatriates' ministry said in June 2025 that the government continues a 2% cash incentive on remittances sent through banks.",
+  "target_section": "Sending money home",
+  "placement": "To a bKash account (incentive)",
+  "why_new": "CONFLICT: the guide says the family gets a 2.5% government incentive [E0076], and an April 2025 column in this batch (85959aa3) also says 2.5%; the ministry says 2%. Check the current rate.",
+  "published": "2025-06-24"
+ },
+ {
+  "key": "SA3d-24",
+  "fact_ids": [
+   "SP0421",
+   "SP0422"
+  ],
+  "claim": "Bangladesh Bank Governor Ahsan H. Mansur said on 7 October 2025 that expatriates in Saudi Arabia pay 6 to 10 percent to send remittances, comparatively much higher, a huge burden on them.",
+  "target_section": "Sending money home",
+  "placement": "other: cost",
+  "why_new": "Consistent with the guide's 7-9% app range [E0080]; adds the central bank's own estimate.",
+  "published": "2025-10-07"
+ },
+ {
+  "key": "SA3d-26",
+  "fact_ids": [
+   "SP0424"
+  ],
+  "claim": "The Bangladesh Bank Governor said in October 2025 that Saudi Arabia is Bangladesh's biggest source of remittances and of foreign currency inflow.",
+  "target_section": "Sending money home",
+  "placement": "other: context",
+  "why_new": "Remittance share not in guide; RMMRU (df8d2ef1) gives 15.52% in 2025.",
+  "published": "2025-10-07"
+ },
+ {
+  "key": "SA3d-47",
+  "fact_ids": [
+   "SP0459"
+  ],
+  "claim": "RMMRU said in January 2026 that of 2025's USD 32.82 billion in remittances, the highest in 25 years, Saudi Arabia sent the largest share among the top 10 countries, 15.52%, followed by the UAE at 12.58%.",
+  "target_section": "Sending money home",
+  "placement": "other: context",
+  "why_new": "Remittance share not in guide.",
+  "published": "2026-01-07"
+ },
+ {
+  "key": "SA3b-34",
+  "fact_ids": [
+   "SP0188"
+  ],
+  "claim": "BAIRA's secretary general Ali Haider Chowdhury said in January 2025 that the training for women going abroad had been extended from one month to two, lengthening the process.",
+  "target_section": "Step 3: Do the one-month housekeeping course (women)",
+  "placement": "other: course length",
+  "why_new": "CONFLICT: the guide says the compulsory housekeeping course is one month (24 working days). On 30 January 2025 Bangladesh promised Saudi Arabia to shorten domestic-worker training (see the 1 February 2025 article draft). The current length needs checking.",
+  "published": "2025-01-13"
+ },
+ {
+  "key": "SA3b-48",
+  "fact_ids": [
+   "SP0213"
+  ],
+  "claim": "At the 30 January 2025 meeting Bangladesh promised Saudi Arabia to shorten domestic-worker training while improving its quality.",
+  "target_section": "Step 3: Do the one-month housekeeping course (women)",
+  "placement": "other: course length",
+  "why_new": "Relates to the conflict on course length (BAIRA said in January 2025 it had gone from one month to two; the guide says one month).",
+  "published": "2025-02-01"
+ },
+ {
+  "key": "SA3c-28",
+  "fact_ids": [
+   "SP0321",
+   "SP0322",
+   "SP0323"
+  ],
+  "claim": "Expatriates' welfare adviser Asif Nazrul told Saudi Arabia's vice minister of human resources, Abdullah bin Nasser Abuthnain, in Riyadh in May 2025 that women domestic workers would complete the one-month training before getting a Saudi visa and be sent within two weeks of the visa after a short training, and that the ministry was committed to shortening domestic workers' training; the Saudi vice minister welcomed this.",
+  "target_section": "Step 3: Do the one-month housekeeping course (women)",
+  "placement": "Status",
+  "why_new": "Changes the order of steps for women (course before the visa, flight within two weeks of it); the guide puts the course at Step 3 without saying it must come before the visa. Need to know: was this implemented?",
+  "published": "2025-05-06"
+ },
+ {
+  "key": "SA3a-43",
+  "fact_ids": [
+   "SP0070",
+   "SP0071",
+   "SP0072"
+  ],
+  "claim": "According to a June 2024 Prothom Alo guide, Bangladeshi students can't apply directly for a bachelor's at Saudi universities: they first apply for the four-level Diploma in Arabic at the university's Arabic language institute, which takes two years (one to one and a half for those who start at level two or three), and enter the degree only with satisfactory results; Arabic and Islamic subjects are taught wholly in Arabic, others in English.",
+  "target_section": "Student visa",
+  "placement": "Step 1 item (Arabic diploma)",
+  "why_new": "The guide's Student visa section doesn't mention the Arabic diploma route. Conflict: the guide says IELTS 5.5 or English-medium schooling for courses in English [D0151]; this source says Bangladeshis must go through the Arabic diploma first.",
+  "published": "2024-06-29"
+ },
+ {
+  "key": "SA3a-44",
+  "fact_ids": [
+   "SP0073",
+   "SP0074"
+  ],
+  "claim": "The same June 2024 guide says applicants must be 17 to 23 (25 at some universities) with at least GPA 4 at HSC or Alim, though some universities state no grade or accept below 4.00.",
+  "target_section": "Student visa",
+  "placement": "Step 1 (Check you qualify)",
+  "why_new": "Conflict: the guide gives ages 17 to 25 for a bachelor's [D0151]; the minimum GPA is not in the guide.",
+  "published": "2024-06-29"
+ },
+ {
+  "key": "SA3a-45",
+  "fact_ids": [
+   "SP0075",
+   "SP0076"
+  ],
+  "claim": "According to the June 2024 guide, the scholarship pays a monthly stipend of about SR 840, with no tuition fee, free housing and medical care, a return ticket home once a year and a preparation allowance, and some universities give married students a family visa and quarters.",
+  "target_section": "Student visa",
+  "placement": "other: scholarship",
+  "why_new": "The guide lists scholarship items [D0148, D0154] but not the stipend amount or family visa for married students.",
+  "published": "2024-06-29"
+ },
+ {
+  "key": "SA3a-46",
+  "fact_ids": [
+   "SP0077",
+   "SP0078",
+   "SP0079"
+  ],
+  "claim": "According to the June 2024 guide, applicants upload PDFs of at most 200 KB: a passport valid at least two years, a white-background photo without cap or glasses, a medical fitness certificate from the civil surgeon or any medical centre, and HSC or Alim certificates and mark sheets translated into Arabic at an approved centre, notarised, attested by the Islamic Foundation, then by the education board, the education and foreign ministries and finally the Saudi embassy in Bangladesh, plus a character certificate from the Islamic Foundation, two known scholars or a college teacher.",
+  "target_section": "Student visa",
+  "placement": "Step 2 item (papers)",
+  "why_new": "The guide says 'attested certificates' [D0188] without the chain; whether the apostille now replaces the embassy step (as it does for work papers [B0068]) is a Need to know.",
+  "published": "2024-06-29"
+ },
+ {
+  "key": "SA3a-47",
+  "fact_ids": [
+   "SP0080"
+  ],
+  "claim": "According to the June 2024 guide, a woman applying needs a copy of her mahram (male guardian relative) guardian's iqama, because Saudi rules do not allow women higher education without a mahram.",
+  "target_section": "Student visa",
+  "placement": "Step 1 (women)",
+  "why_new": "Not in the guide; whether the rule still applies in 2026 is a Need to know.",
+  "published": "2024-06-29"
+ },
+ {
+  "key": "SA3a-48",
+  "fact_ids": [
+   "SP0081"
+  ],
+  "claim": "Universities that take foreign students named in the June 2024 guide include the Islamic University of Madinah, King Abdulaziz University in Jeddah, Umm Al-Qura University in Makkah and Taibah University in Madinah.",
+  "target_section": "Student visa",
+  "placement": "other: universities",
+  "why_new": "The guide names no universities.",
+  "published": "2024-06-29"
+ },
+ {
+  "key": "SA3b-58",
+  "fact_ids": [
+   "SP0227",
+   "SP0228",
+   "SP0229"
+  ],
+  "claim": "According to the CID (February 2025), a trafficking ring promising jobs in Russia at BDT 2 to 2.5 lakh a month first sent 10 Bangladeshis to Saudi Arabia on Umrah visas, had them perform Umrah, then took them to Russia, sold them to a 'Sultan' who handed them to Russian soldiers, and they were forced to fight against Ukraine; one, Humayun Kabir of Singra, Natore, was killed and another badly injured.",
+  "target_section": "Umrah visa",
+  "placement": "Scams",
+  "why_new": "The guide's Umrah section has no case of the Umrah visa used as a transit route for trafficking; the cross-country guide mentions RMMRU saying many go to Russia via Saudi tourist or Umrah visas but not this case.",
+  "published": "2025-02-06"
+ },
+ {
+  "key": "SA3b-59",
+  "fact_ids": [
+   "SP0230",
+   "SP0231"
+  ],
+  "claim": "According to the CID (February 2025), a second group of 10 trafficked Bangladeshis was in Saudi Arabia after refusing to go on to Russia on learning they would be forced to fight; their passports were taken, so they could neither work nor come home, and the CID was trying to bring them back.",
+  "target_section": "Umrah visa",
+  "placement": "Scams",
+  "why_new": "Shows people stranded in Saudi Arabia on Umrah visas without passports; links to Going home without valid papers.",
+  "published": "2025-02-06"
+ },
+ {
+  "key": "SA3c-45",
+  "fact_ids": [
+   "SP0357",
+   "SP0358"
+  ],
+  "claim": "A second group of 10 recruited by the same ring was in Saudi Arabia in June 2025: when it became known that recruits were forced to fight, they refused to go on to Russia, their passports were taken from them, and they could neither work in Saudi Arabia nor go home, CID said.",
+  "target_section": "Umrah visa",
+  "placement": "Scams",
+  "why_new": "New: Umrah visas used as the first leg of trafficking to Russia, leaving men stranded in Saudi Arabia without passports; the guide's Umrah section has no scams beyond fake agencies.",
+  "published": "2025-06-13"
+ },
+ {
+  "key": "SA3f-51",
+  "fact_ids": [
+   "SP0799",
+   "SP0800"
+  ],
+  "claim": "Of the 24 Bangladeshis injured in the 10 October 2026 Riyadh airport attack, 11 worked in Saudi Arabia and 13 had come on Umrah visas, according to Foreign Ministry sources citing the embassy, and the embassy was in touch with the hospitals to secure their treatment.",
+  "target_section": "Umrah visa",
+  "placement": "Cases",
+  "why_new": "Umrah pilgrims routed via Riyadh were among the casualties; the embassy's later count was 27 injured, 16 on Umrah visas (3c48fdff, 8cd6aabe).",
+  "published": "2026-10-11"
+ },
+ {
+  "key": "SA3g-16",
+  "fact_ids": [
+   "SP0487"
+  ],
+  "claim": "On 19 October 2026 Expatriates' Welfare Minister Ariful Haque Chowdhury said many Umrah pilgrims were stranded in Saudi Arabia because of the situation, some trying alternative routes but many unable to return because of flight cancellations, and that they would be brought home when the situation normalised.",
+  "target_section": "Umrah visa",
+  "placement": "other: stranded pilgrims",
+  "why_new": "Guide's Umrah section doesn't mention 2026 stranding of pilgrims.",
+  "published": "2026-10-19"
+ },
+ {
+  "key": "SA3a-1",
+  "fact_ids": [
+   "SP0001",
+   "SP0002"
+  ],
+  "claim": "Bangladesh's ambassador in Riyadh, Mohammad Javed Patwary, said at the embassy's National Expatriates' Day event (reported in an embassy press release, January 2024) that, on the embassy's initiative, contracts had been signed with two Saudi law firms to recover the unpaid wages and dues of Bangladeshis who died in Saudi Arabia, and that 'last December' Tk 33 crore owed to the families of 65 dead Bangladeshis was recovered and sent home.",
+  "target_section": "What the family can claim",
+  "placement": "Compensation and unpaid wages from Saudi Arabia",
+  "why_new": "The guide says the embassy pursues compensation in Saudi courts with the heirs' power of attorney [E0032] but not that it uses two contracted Saudi law firms, nor any recovery figure.",
+  "published": "2024-01-02"
+ },
+ {
+  "key": "SA3a-12",
+  "fact_ids": [
+   "SP0013",
+   "SP0014"
+  ],
+  "claim": "Amirun Begum of Narsingdi went to Saudi Arabia in November 2022 and, by the Saudi death certificate, died by suicide on 4 September 2023; her body came home two months later, and when her father asked at Probashi Kallyan Bhaban in Dhaka on 14 January 2024 about the Tk 3 lakh, a staff member there looked at the certificate and said that because she had killed herself she would not get the insurance money.",
+  "target_section": "What the family can claim",
+  "placement": "Cases (suicide)",
+  "why_new": "A Saudi case behind the guide's line that suicide claims are often rejected [E0097].",
+  "published": "2024-01-22"
+ },
+ {
+  "key": "SA3e-26",
+  "fact_ids": [
+   "SP0647"
+  ],
+  "claim": "For Abdullah Al Mamun's funeral in April 2026, the Wage Earners' Welfare Board gave his family Tk 35,000 and Tk 50,000 in cash on the spot, with Tk 3 lakh in financial aid to follow.",
+  "target_section": "What the family can claim",
+  "placement": "other: what was paid in practice",
+  "why_new": "Guide has the Tk 35,000 cheque and Tk 3 lakh grant but not an extra Tk 50,000 cash payment, which may be war-specific.",
+  "published": "2026-04-06"
+ },
+ {
+  "key": "SA3g-14",
+  "fact_ids": [
+   "SP0484"
+  ],
+  "claim": "On 19 October 2026 State Minister for Foreign Affairs Humayun Kabir, asked whether there was any chance of compensation for the two executed Bangladeshis, said there was none because the sentence had already been carried out.",
+  "target_section": "What the family can claim",
+  "placement": "other: executed workers",
+  "why_new": "Guide's What the family can claim does not address families of executed workers.",
+  "published": "2026-10-19"
+ },
+ {
+  "key": "SA3h-36",
+  "fact_ids": [
+   "SP0596"
+  ],
+  "claim": "The Atrai upazila nirbahi officer said in October 2026 that each family of the Riyadh fire victims would get Tk 35,000 now for burial and a Tk 3 lakh grant after three months.",
+  "target_section": "What the family can claim",
+  "placement": "Cases",
+  "why_new": "Consistent with the guide (Tk 35,000 at the airport, Tk 3 lakh grant); timing 'after three months' vs the guide's 'within 60 working days of complete papers'.",
+  "published": "2026-10-31"
+ },
+ {
+  "key": "SA3a-24",
+  "fact_ids": [
+   "SP0031",
+   "SP0032"
+  ],
+  "claim": "Selim Reza, a full-time member of the Jatiya Manobadhikar Parishad (National Human Rights Council), said at a March 2024 meeting in Dhaka that when he went to Saudi Arabia for Hajj he had seen Bangladeshi workers in a terrible condition, and asked where the accountability was of those who sent them.",
+  "target_section": "Work visa: domestic worker",
+  "placement": "Cases (conditions seen)",
+  "why_new": "A senior official's first-hand account; weak on detail, offered for reviewer judgement.",
+  "published": "2024-03-07"
+ },
+ {
+  "key": "SA3b-33",
+  "fact_ids": [
+   "SP0186",
+   "SP0187"
+  ],
+  "claim": "BMET data reported in January 2025 show that 61,158 Bangladeshi women went abroad for work in 2024, down from 76,108 in 2023 and 105,466 in 2022, and that Saudi Arabia took 66% of them in 2024, more than 40,000.",
+  "target_section": "Work visa: domestic worker",
+  "placement": "The numbers",
+  "why_new": "The guide gives no count of women going to Saudi Arabia.",
+  "published": "2025-01-13"
+ },
+ {
+  "key": "SA3b-35",
+  "fact_ids": [
+   "SP0189"
+  ],
+  "claim": "BAIRA's secretary general said in January 2025 that Saudi employers were no longer placing demand for Bangladeshi women domestic workers as before and were taking workers from various African countries, and that negative publicity had reduced women's interest in going.",
+  "target_section": "Work visa: domestic worker",
+  "placement": "Status",
+  "why_new": "Demand-side reason for the fall in women's departures; not in the guide.",
+  "published": "2025-01-13"
+ },
+ {
+  "key": "SA3b-36",
+  "fact_ids": [
+   "SP0190",
+   "SP0191",
+   "SP0192"
+  ],
+  "claim": "Firoza of Manikganj, back in October 2024 after two years in Saudi Arabia, said her pay was low but regular in the first year, was raised in the second but then not paid for 11 straight months and paid all at once when she left, that there were problems with food and she was beaten, and that women should not go to Saudi Arabia for housework.",
+  "target_section": "Work visa: domestic worker",
+  "placement": "Cases",
+  "why_new": "Case of wages withheld until exit, a common domestic-worker pattern; the guide's domestic-worker section has no case.",
+  "published": "2025-01-13"
+ },
+ {
+  "key": "SA3b-37",
+  "fact_ids": [
+   "SP0193",
+   "SP0194"
+  ],
+  "claim": "Shahida Begum (40) of Faridpur, back in October 2024 after two years three months in one Saudi household, said she was not fed regularly, was paid little, was sometimes beaten by the kafil's son, got no treatment after spraining her leg on the stairs, and had 700 riyals (BDT 17,500) deducted from her pay for the return ticket the employer was supposed to provide.",
+  "target_section": "Work visa: domestic worker",
+  "placement": "Cases",
+  "why_new": "Concrete case of the return ticket being charged to the worker; the guide's domestic-worker rights say the employer pays.",
+  "published": "2025-01-13"
+ },
+ {
+  "key": "SA3b-38",
+  "fact_ids": [
+   "SP0195",
+   "SP0196",
+   "SP0197"
+  ],
+  "claim": "Officials of BRAC, OKUP and the Bangladesh Nari Sramik Kendra told Prothom Alo in January 2025 that returning women workers complain of being taken on lies, being made to work in more than one house, 14 to 16 hours' work, low and irregular pay and irregular food, some also of physical and mental abuse, and that some who ran from the kafil's house were detained by police and sent home.",
+  "target_section": "Work visa: domestic worker",
+  "placement": "other: top complaints",
+  "why_new": "Top complaint types for domestic workers (Middle East-wide, Saudi the main destination); the guide's Complaints covers men's company visas.",
+  "published": "2025-01-13"
+ },
+ {
+  "key": "SA3c-49",
+  "fact_ids": [
+   "SP0364",
+   "SP0365",
+   "SP0366"
+  ],
+  "claim": "By BMET data, 17,786 of the 24,617 Bangladeshi women who went abroad for work in January-May 2025 went to Saudi Arabia, and women's departures overall fell from 1,05,466 in 2022 to 76,108 in 2023 and 61,158 in 2024.",
+  "target_section": "Work visa: domestic worker",
+  "placement": "other: numbers",
+  "why_new": "The guide gives no count of women going to Saudi Arabia.",
+  "published": "2025-06-24"
+ },
+ {
+  "key": "SA3c-52",
+  "fact_ids": [
+   "SP0369",
+   "SP0370"
+  ],
+  "claim": "Sumaiya Islam, executive director of Bangladesh Nari Sramik Kendra (BNSK, a women migrant workers' organisation), said in June 2025 that domestic work in Saudi homes pays little for the labour it demands, that necessary support for women workers in the Middle East has not been ensured, and that Middle Eastern countries are taking workers from Africa instead.",
+  "target_section": "Work visa: domestic worker",
+  "placement": "other: why fewer women go",
+  "why_new": "An NGO view on the domestic-worker corridor; opinion, low priority.",
+  "published": "2025-06-24"
+ }
+]

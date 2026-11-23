@@ -1,0 +1,1841 @@
+[
+ {
+  "key": "RU1-5",
+  "fact_ids": [
+   "RU0006",
+   "RU0007"
+  ],
+  "claim": "According to his family, Jafar Sardar (35) of Bara Meghla village, Jashore Sadar, left home on 17 August 2024 bound for Cyprus through a Dhaka agency named 'Dream Home Travels', which had submitted his papers to the Cyprus embassy; when no visa came in two years it took him to Saudi Arabia with talk of a job in Russia, and two months later he was taken to Russia through Dubai, Libya or Turkey.",
+  "target_section": "A flight to a different country first",
+  "placement": "Cases",
+  "why_new": "A second, named member of the group of 10 the guide describes through Akram Hossain, with the agency's name, the Cyprus embassy filing and the switch of destination from Cyprus to Russia.",
+  "published": "2025-02-17"
+ },
+ {
+  "key": "RU1-6",
+  "fact_ids": [
+   "RU0008"
+  ],
+  "claim": "Jafar Sardar's family said they paid Dream Home Travels BDT 8 lakh in all, raised from a BDT 4 lakh NGO loan, the sale of his mother's and wife's jewellery and money borrowed at interest.",
+  "target_section": "A flight to a different country first",
+  "placement": "Cases",
+  "why_new": "What this family paid, to whom, and how it was financed.",
+  "published": "2025-02-17"
+ },
+ {
+  "key": "AB1-38",
+  "fact_ids": [
+   "AA0073",
+   "AA0074",
+   "AA0075"
+  ],
+  "claim": "Tarek Aziz of Khanatua village, Manoharganj, Cumilla, alleged at a press conference on 1 March 2025 that Ashek Elahi, a former president of Cumilla South district Chhatra Shibir, took him to Nepal on the promise of taking him to the United States, held him hostage there and took Tk 45 lakh from his family; Ashek Elahi denied it at his own press conference on 3 March 2025, said the allegation was baseless and that he was himself a victim of the same fraud.",
+  "target_section": "A flight to a different country first",
+  "placement": "Cases",
+  "why_new": "The guide tells this Nepal case from the victim's side without names; this adds the accused's denial.",
+  "published": "2025-03-03"
+ },
+ {
+  "key": "AB1-39",
+  "fact_ids": [
+   "AA0076",
+   "AA0077"
+  ],
+  "claim": "By Ashek Elahi's account, a man named Jobayer Hossain of Chhatarpaiya, Senbag, Noakhali, an acquaintance of Tarek Aziz's father, was the one who sent people to America; Ashek, Tarek and several others went to Nepal with Jobayer on 7 December 2023, where Jobayer held several of them hostage and took their phones, passports and other papers.",
+  "target_section": "A flight to a different country first",
+  "placement": "Cases",
+  "why_new": "The accused names a different organiser; Tarek Aziz told Prothom Alo he does not know anyone of that name.",
+  "published": "2025-03-03"
+ },
+ {
+  "key": "AB1-40",
+  "fact_ids": [
+   "AA0078"
+  ],
+  "claim": "Ashek Elahi said that, in fear for their lives, the hostages told their families and his father paid Tk 40 lakh to Jobayer in cash and through a bank, after which what he called Jobayer's Nepali mafia ring let them go.",
+  "target_section": "A flight to a different country first",
+  "placement": "Cases",
+  "why_new": "A second ransom claimed in the same Nepal episode, paid partly through a bank.",
+  "published": "2025-03-03"
+ },
+ {
+  "key": "AB1-41",
+  "fact_ids": [
+   "AA0079"
+  ],
+  "claim": "Ashek Elahi said the group came home after filing a complaint at the Bangladesh mission in Nepal (he called it the High Commission), and that at the time Tarek Aziz, as complainant, accused Jobayer of human trafficking to the Nepal police and to the mission in a complaint that bears Tarek Aziz's signature.",
+  "target_section": "A flight to a different country first",
+  "placement": "What to do",
+  "why_new": "Shows what hostages in Nepal did to get home: complaints to the Nepal police and the Bangladesh mission. It is the accused's account.",
+  "published": "2025-03-03"
+ },
+ {
+  "key": "AB1-42",
+  "fact_ids": [
+   "AA0080",
+   "AA0081",
+   "AA0082"
+  ],
+  "claim": "Ashek Elahi said in March 2025 that a case under the human trafficking act had been filed against him and his family, that he and all the other accused in the case filed by Tarek Aziz were on bail, that Jobayer Hossain was not named as an accused, that he and several other victims had complained against Jobayer at Motijheel police station, and that Jobayer and a man named Masud of Kishoreganj were still absconding.",
+  "target_section": "A flight to a different country first",
+  "placement": "The law",
+  "why_new": "State of the case in March 2025: accused on bail, a rival complaint, two named men absconding.",
+  "published": "2025-03-03"
+ },
+ {
+  "key": "AB1-44",
+  "fact_ids": [
+   "AA0086",
+   "AA0087"
+  ],
+  "claim": "Tarek Aziz told Prothom Alo by phone on 3 March 2025 that his family knows nobody named Jobayer from Noakhali, that their contract was with Ashek Elahi, that Ashek Elahi took their money and that he has all the proof.",
+  "target_section": "A flight to a different country first",
+  "placement": "Cases",
+  "why_new": "The victim's reply to the accused's version.",
+  "published": "2025-03-03"
+ },
+ {
+  "key": "FV1-89",
+  "fact_ids": [
+   "FV0175",
+   "FV0176"
+  ],
+  "claim": "According to Kawsar Khan in August 2026, Australia fraud rings sometimes use the Maritime Crew (subclass 988) visa, and then send the victim first to a country where Bangladeshis usually need no visa, such as Nepal, the Maldives, Fiji or Indonesia; he wrote that an offer to route a person through another country instead of a direct Dhaka to Australia ticket is a sure sign of danger.",
+  "target_section": "A flight to a different country first",
+  "placement": "How it works",
+  "why_new": "Explains why Australia offers are routed through Nepal (the guide has the Jashore-Kathmandu case but not the reason), and names the other transit countries.",
+  "published": "2026-08-20"
+ },
+ {
+  "key": "FV1-90",
+  "fact_ids": [
+   "FV0177",
+   "FV0178"
+  ],
+  "claim": "Tabarak Khan, a resident of Botany, Sydney, said his nephew fell into an agency's trap: the government checking system showed a visa, but from its type he was sure it was fake; the nephew ignored repeated warnings, and the fraud was caught at the last moment when the ticket to Nepal was being bought.",
+  "target_section": "A flight to a different country first",
+  "placement": "other: Nepal case",
+  "why_new": "A named relative's account linking the 'visa shows online' trick to a Nepal ticket.",
+  "published": "2026-08-20"
+ },
+ {
+  "key": "OT1-86",
+  "fact_ids": [
+   "OA0182"
+  ],
+  "claim": "Cumilla's additional superintendent of police (Sadar circle) Saiful Malik said in April 2026 that people are cheated and fall into dalals' hands more because they do not know the rules, and that in his duties he has seen that those who go abroad through illegal channels are mostly the ones who face more problems.",
+  "target_section": "Illegal routes",
+  "placement": "other: police observation",
+  "why_new": "A named police officer's field observation; general, low priority.",
+  "published": "2026-04-11"
+ },
+ {
+  "key": "MY2-17",
+  "fact_ids": [
+   "MB0030",
+   "MB0031"
+  ],
+  "claim": "Shariful Islam Hasan of BRAC said at the 6 June 2026 Cox's Bazar roundtable that about a lakh people go abroad legally each month, yet many still try risky routes because the legal process is complicated, expensive and in many cases controlled by broker rings.",
+  "target_section": "Illegal routes",
+  "placement": "other: In one minute",
+  "why_new": "A named expert's explanation of why people choose irregular routes, linking them to the cost and broker control of the legal one.",
+  "published": "2026-06-23"
+ },
+ {
+  "key": "AB1-109",
+  "fact_ids": [
+   "AA0212",
+   "AA0213"
+  ],
+  "claim": "A Prothom Alo editorial of 21 February 2026 says, citing UNHCR data, that Bangladeshis were the largest group among migrants who crossed the Mediterranean to Italy from January to October 2024, as in 2023; the editorial also states, without naming a source, that more than 25,000 people drowned in the Mediterranean in the past decade, of whom at least 500 each year were Bangladeshi.",
+  "target_section": "Libya to Italy by boat",
+  "placement": "The numbers",
+  "why_new": "The guide has arrival counts for 2025-26 and deaths for 2024; it has no figure for Bangladeshi deaths. The 500-a-year figure is stated by the editorial without a clear source and needs checking.",
+  "published": "2026-02-21"
+ },
+ {
+  "key": "AB1-110",
+  "fact_ids": [
+   "AA0214",
+   "AA0215",
+   "AA0216"
+  ],
+  "claim": "The editorial says local dalals win trust through social ties and point to relatives' success abroad, that the journey begins with a promise of a valid visa and safe travel and the route is changed midway, and that in many cases people are held in Libya or another country and videos of their torture are sent to the family to extract ransom.",
+  "target_section": "Libya to Italy by boat",
+  "placement": "How it is sold",
+  "why_new": "Mostly already in the guide (ransom calls, route changes); adds the torture-video detail if the section lacks it. It is the newspaper's general description, not a case.",
+  "published": "2026-02-21"
+ },
+ {
+  "key": "MY2-16",
+  "fact_ids": [
+   "MB0028",
+   "MB0029"
+  ],
+  "claim": "Shariful Islam Hasan of BRAC's Migration Programme said at a 6 June 2026 roundtable in Cox's Bazar that about one lakh Bangladeshis have been detained while trying to cross the Mediterranean in the past 16 years, and that about six and a half lakh Bangladeshis currently have asylum applications lodged in various countries.",
+  "target_section": "Libya to Italy by boat",
+  "placement": "The numbers",
+  "why_new": "Two aggregate figures from BRAC (16-year Mediterranean detentions; pending asylum applications); he gives no source for either.",
+  "published": "2026-06-23"
+ },
+ {
+  "key": "RU1-35",
+  "fact_ids": [
+   "RU0052"
+  ],
+  "claim": "UNHCR (the UN refugee agency) data show that Bangladeshis were again in 2026 the top nationality among people crossing the Mediterranean to Italy, and for the first time the top nationality among sea crossings to Greece, Prothom Alo reported on 30 July 2026.",
+  "target_section": "Libya to Italy by boat",
+  "placement": "The numbers",
+  "why_new": "Bangladesh first on the Greece sea route for the first time; the guide's numbers cover Italy only.",
+  "published": "2026-07-30"
+ },
+ {
+  "key": "RU1-36",
+  "fact_ids": [
+   "RU0053"
+  ],
+  "claim": "BRAC, citing Frontex (the EU border agency), said 20,259 Bangladeshis entered Europe across the Mediterranean in 2025, and that in the first six months of 2026, 4,249 Bangladeshis entered Italy this way and 3,608 went from Libya to Greece by sea.",
+  "target_section": "Libya to Italy by boat",
+  "placement": "The numbers",
+  "why_new": "First-half 2026 figures and the Libya-to-Greece count (3,608), which the guide lacks.",
+  "published": "2026-07-30"
+ },
+ {
+  "key": "RU1-37",
+  "fact_ids": [
+   "RU0054"
+  ],
+  "claim": "People in the migration sector told Prothom Alo in July 2026 that workers bound for Italy or Greece are sent to Libya, tortured in many camps there, and held hostage until BDT 25 to 30 lakh is extracted.",
+  "target_section": "Libya to Italy by boat",
+  "placement": "What happens",
+  "why_new": "Raises the reported ransom range to BDT 30 lakh (the guide has BDT 25 lakh) and names Greece as a destination sold through Libya.",
+  "published": "2026-07-30"
+ },
+ {
+  "key": "RU1-38",
+  "fact_ids": [
+   "RU0055"
+  ],
+  "claim": "Of the at least 18 Bangladeshis who died in March 2026 on the way from Libya to Greece, 12 were from Sunamganj.",
+  "target_section": "Libya to Italy by boat",
+  "placement": "What happens",
+  "why_new": "The home district of 12 of the 18 dead; the guide has the incident but not where the men came from.",
+  "published": "2026-07-30"
+ },
+ {
+  "key": "AB2-64",
+  "fact_ids": [
+   "AB0095",
+   "AB0096"
+  ],
+  "claim": "Hridoy Chowdhury, a Bangladeshi who returned from Libya, told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that friends who had gone to Libya told him there would be work there and that later one could go on to Greece or Italy, and that he went with the help of a broker from his own area, Habiganj in Sylhet, whom he trusted because he knew him; the broker is still in Libya.",
+  "target_section": "Libya to Italy by boat",
+  "placement": "How it is sold",
+  "why_new": "A first-person account of the pitch coming from friends already in Libya (work first, Greece or Italy later) and of a broker from the same area who operates from Libya.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "AB2-65",
+  "fact_ids": [
+   "AB0097"
+  ],
+  "claim": "Hridoy Chowdhury, a Bangladeshi who returned from Libya, told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that after reaching Libya he worked for a company for two months in a row, was then taken to Benghazi and boarded a boat for Greece, and that after about 14 hours on the boat the coast guard detained them and sent them back to Libya, where he was held as a prisoner in a jail in Tobruk.",
+  "target_section": "Libya to Italy by boat",
+  "placement": "What happens",
+  "why_new": "A survivor account of the eastern Libya (Benghazi) to Greece crossing ending in interception and a Tobruk jail; the section's path describes the western route to Lampedusa and mentions the Tobruk-Greece boat only for deaths.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "AB2-66",
+  "fact_ids": [
+   "AB0098"
+  ],
+  "claim": "Hridoy Chowdhury, a Bangladeshi who returned from Libya, told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that he finally got out of the jail in Tobruk, Libya, by contacting his broker, and that he had to come home empty-handed despite spending a huge amount of money.",
+  "target_section": "Libya to Italy by boat",
+  "placement": "What happens",
+  "why_new": "Shows release from a Libyan jail going through the broker; he does not say what it cost or what he paid in all.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "AB2-72",
+  "fact_ids": [
+   "AB0107",
+   "AB0108"
+  ],
+  "claim": "Shariful Islam Hasan, associate director of BRAC's Migration Programme and Youth Platform, told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that people from eight to ten districts, including Madaripur, Shariatpur, Sylhet, Sunamganj, Habiganj, Kishoreganj and Narsingdi, try to reach Europe across the Mediterranean, that many first go to Libya through Egypt or Dubai and are physically tortured there, and that some pay BDT 25 lakh, some BDT 30 lakh, and some as much as BDT 65 to 67 lakh.",
+  "target_section": "Libya to Italy by boat",
+  "placement": "How it is sold",
+  "why_new": "Names the source districts and gives BRAC's top-end figure of BDT 65 to 67 lakh; the section's highest quoted figure is Tk 45 lakh taken from one family.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "AB2-73",
+  "fact_ids": [
+   "AB0109"
+  ],
+  "claim": "Shariful Islam Hasan, associate director of BRAC's Migration Programme and Youth Platform, told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that BRAC has started a campaign with the slogan \"No going abroad by sea\", trying to raise awareness through police, mosque imams, religious leaders, schools and social media.",
+  "target_section": "Libya to Italy by boat",
+  "placement": "Where to get help",
+  "why_new": "Minor: names BRAC's campaign against the sea route; include only if the section wants it.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "RU1-48",
+  "fact_ids": [
+   "RU0065",
+   "RU0066"
+  ],
+  "claim": "Prothom Alo reported on 5 September 2026 that 66,316 people of all nationalities crossed the Mediterranean to Italy in 2025 and 1,126 of them died or went missing at sea, and that of 14,194 who crossed up to June 2026 the largest share, 32% or 3,691 people, were Bangladeshis.",
+  "target_section": "Libya to Italy by boat",
+  "placement": "The numbers",
+  "why_new": "Half-year 2026 arrivals with the Bangladeshi share (32%); the article names no source for these figures.",
+  "published": "2026-09-05"
+ },
+ {
+  "key": "RU1-49",
+  "fact_ids": [
+   "RU0067"
+  ],
+  "claim": "Prothom Alo reported on 5 September 2026 that only 100 people took clearance to go to Libya in 2025 and 63 in 2026, which it reads as meaning the workers reach Libya through the Middle East and other countries.",
+  "target_section": "Libya to Italy by boat",
+  "placement": "The numbers",
+  "why_new": "Shows almost nobody on the Libya route leaves with clearance for Libya.",
+  "published": "2026-09-05"
+ },
+ {
+  "key": "RU1-50",
+  "fact_ids": [
+   "RU0068"
+  ],
+  "claim": "Mashiur Rahman of Madaripur, who came home on 1 September 2026 with a group of Bangladeshis returned from detention in Libya with IOM's help, said he had left his own restaurant business to try for Italy and came back having lost BDT 32 lakh.",
+  "target_section": "Libya to Italy by boat",
+  "placement": "What happens",
+  "why_new": "A named returnee with the total lost (BDT 32 lakh) and what he gave up.",
+  "published": "2026-09-05"
+ },
+ {
+  "key": "MY2-82",
+  "fact_ids": [
+   "MB0085",
+   "MB0086"
+  ],
+  "claim": "Dr Selim Reza wrote on 9 September 2026 that brokers' networks show flashy YouTube videos of an easy way to Europe and use Facebook, imo and WhatsApp groups to make the offer, keep contact and pass on travel information, and that a Prothom Alo investigation about four years earlier had found Facebook groups used for sending people to Europe across the Mediterranean.",
+  "target_section": "Libya to Italy by boat",
+  "placement": "other: How it is sold",
+  "why_new": "Names the apps used to sell the Europe route (YouTube, Facebook, imo, WhatsApp); second-hand reference to an earlier Prothom Alo investigation.",
+  "published": "2026-09-09"
+ },
+ {
+  "key": "LB1-16",
+  "fact_ids": [
+   "LB0027",
+   "LB0028",
+   "LB0029"
+  ],
+  "claim": "Azmir Hossain (24) of Mirsarai, Chattogram, said Libya-based Shahadat Hossain kept tempting his mother with a job in Italy paying BDT 50,000 a month, took BDT 1.5 lakh in advance, and had Azmir carry the rest of the money himself; a local union parishad member said Shahadat is from the same area.",
+  "target_section": "Libya to Italy by boat > How it is sold",
+  "placement": "Cases",
+  "why_new": "The seller is a neighbour living in Libya who pitches the mother, names a salary and takes a small advance.",
+  "published": "2024-06-07"
+ },
+ {
+  "key": "LB1-57",
+  "fact_ids": [
+   "LB0120",
+   "LB0121"
+  ],
+  "claim": "The brother of Abul Bashar Akon (32) of Rajoir, Madaripur, who died with his nephew Titu Howlader (19) in the January 2025 sinking, said a BDT 14 lakh contract had been made a year and a half earlier with a broker from Mahendradi to send the two to Italy on an agricultural visa, and that when that broker could not deliver they were forced to decide on the Libya route and made a new contract through another broker.",
+  "target_section": "Libya to Italy by boat > How it is sold",
+  "placement": "Cases",
+  "why_new": "A named case of a paid-for legal visa (agricultural, Italy) failing and the family being moved onto the boat route.",
+  "published": "2025-02-03"
+ },
+ {
+  "key": "LB1-58",
+  "fact_ids": [
+   "LB0122",
+   "LB0123",
+   "LB0124"
+  ],
+  "claim": "The same brother said the broker had told the family the two men would reach Italy without any problem, that the family first heard of the nephew's death from the broker, and that the broker could no longer be found; the mother said both had told her by phone that they were fine and the broker would give them a 'game' very soon.",
+  "target_section": "Libya to Italy by boat > How it is sold",
+  "placement": "Cases",
+  "why_new": "The reassurance given before the boat and the broker's disappearance after it.",
+  "published": "2025-02-03"
+ },
+ {
+  "key": "LB1-69",
+  "fact_ids": [
+   "LB0140"
+  ],
+  "claim": "The migration analyst Asif Munir told Deutsche Welle that each person needs BDT 16 to 20 lakh for this journey and that international as well as local rings are involved, as quoted in a Prothom Alo editorial of 6 February 2025.",
+  "target_section": "Libya to Italy by boat > How it is sold",
+  "placement": "The numbers",
+  "why_new": "A named analyst's price range in taka for early 2025.",
+  "published": "2025-02-06"
+ },
+ {
+  "key": "LB1-75",
+  "fact_ids": [
+   "LB0152",
+   "LB0153",
+   "LB0154"
+  ],
+  "claim": "Fatema Akter, whose husband Shahin Sikdar (26) went missing on the way to Italy, said he left home with the broker on 3 February 2024, phoned some days later to say they would be sent from Libya to Italy illegally by sea, last spoke to the family on the night of 22 March 2024, that the broker took BDT 18 lakh from them at various times, and that she could not stay in her area because of debt pressure.",
+  "target_section": "Libya to Italy by boat > How it is sold",
+  "placement": "Cases",
+  "why_new": "The family learned the journey was the illegal sea route only by phone after he had left.",
+  "published": "2025-02-15"
+ },
+ {
+  "key": "LB1-82",
+  "fact_ids": [
+   "LB0171",
+   "LB0172"
+  ],
+  "claim": "Khurshed Mia (35), a vegetable seller in Bhairab, Kishoreganj, said he first went to Libya on 14 June 2023 for BDT 4 lakh on the understanding that the broker would find him work in Libya until he went on to Italy, and that he got work there as a painter.",
+  "target_section": "Libya to Italy by boat > How it is sold",
+  "placement": "Cases",
+  "why_new": "A named case of the 'work in Libya first' offer, with the entry price (BDT 4 lakh).",
+  "published": "2025-03-10"
+ },
+ {
+  "key": "LB1-12",
+  "fact_ids": [
+   "LB0020",
+   "LB0021"
+  ],
+  "claim": "The brother of Sajal Bairagi (22) of Sendia village, Rajoir, Madaripur, one of the eight who died on the boat off Tunisia in February 2024, told Prothom Alo the family gave BDT 14 lakh to a broker named Mosharraf by selling land and cows and borrowing.",
+  "target_section": "Libya to Italy by boat > The contract price and the final price",
+  "placement": "Cases",
+  "why_new": "A 2024 price and how it was raised (land, cattle, loans).",
+  "published": "2024-05-03"
+ },
+ {
+  "key": "LB1-26",
+  "fact_ids": [
+   "LB0049",
+   "LB0050",
+   "LB0051"
+  ],
+  "claim": "Prothom Alo reported in July 2024 that Rasel Mia took BDT 24 lakh from the father of Faruk Mia of Bhairab and BDT 22 lakh each from Tofayel Ahmed and Sabuj Mia for Italy; the father of Shafiqul Islam of Shibpur, Narsingdi, said Rasel took BDT 23 lakh and that BDT 10 lakh was now being demanded to free his son.",
+  "target_section": "Libya to Italy by boat > The contract price and the final price",
+  "placement": "Cases",
+  "why_new": "2023-24 prices of BDT 22 to 24 lakh paid up front to a Bhairab broker, then a further demand to free the hostage.",
+  "published": "2024-07-13"
+ },
+ {
+  "key": "LB1-33",
+  "fact_ids": [
+   "LB0063",
+   "LB0064",
+   "LB0065"
+  ],
+  "claim": "Returnees from Nasirnagar, Brahmanbaria, and Austagram, Kishoreganj, said each of them gave the broker Farhad Mia BDT 4 lakh before leaving, that he took BDT 4.5 lakh more from each while holding them in a camp in Libya, and that after they were caught on the boat and jailed and he got them out, he again took BDT 2.5 lakh from each family promising to send them to Italy through the 'game' (the boat crossing).",
+  "target_section": "Libya to Italy by boat > The contract price and the final price",
+  "placement": "Cases",
+  "why_new": "The instalment structure of one deal: before departure, in the camp, and again for each new boat attempt.",
+  "published": "2024-09-21"
+ },
+ {
+  "key": "LB1-51",
+  "fact_ids": [
+   "LB0108",
+   "LB0109",
+   "LB0110"
+  ],
+  "claim": "According to their families, three men from Noli Joynagar village, Mathbaria, Pirojpur, left for Libya through a broker in July 2023 on a contract of BDT 3 lakh and went first to Dubai, after which contact was lost; some time later they called on imo from Libya to report torture, and the ring demanded BDT 12 lakh ransom per person.",
+  "target_section": "Libya to Italy by boat > The contract price and the final price",
+  "placement": "Cases",
+  "why_new": "A BDT 3 lakh contract turned into a BDT 12 lakh ransom demand; the article does not say Italy was promised.",
+  "published": "2025-01-19"
+ },
+ {
+  "key": "LB1-52",
+  "fact_ids": [
+   "LB0111",
+   "LB0112"
+  ],
+  "claim": "The wife of one of the three Mathbaria men said in January 2025 she had sold 15 katha of land to raise the BDT 12 lakh ransom, and the father of another said he had paid BDT 15 lakh since his son left and did not know how much more he would have to pay.",
+  "target_section": "Libya to Italy by boat > The contract price and the final price",
+  "placement": "Cases",
+  "why_new": "Five times the contract already paid by one family, eighteen months on, with the men still held.",
+  "published": "2025-01-19"
+ },
+ {
+  "key": "LB1-61",
+  "fact_ids": [
+   "LB0128",
+   "LB0129"
+  ],
+  "claim": "According to police and local sources in Madaripur in February 2025, the ringleaders of the broker ring taking people to Italy through Libya, from Rajoir and from Bhanga in Faridpur, take BDT 18 to 25 lakh from each person under a contract for Europe, and several times more must be paid if the person is caught by Libyan police or held by mafia there.",
+  "target_section": "Libya to Italy by boat > The contract price and the final price",
+  "placement": "The numbers",
+  "why_new": "The 2025 Madaripur price range, with the police's own statement that capture multiplies it.",
+  "published": "2025-02-03"
+ },
+ {
+  "key": "LB1-65",
+  "fact_ids": [
+   "LB0135",
+   "LB0136"
+  ],
+  "claim": "Sujan Faraji of Madaripur, who died in the January 2025 sinking, set out with BDT 16 lakh taken from his aunt without telling his father, who had not agreed to the journey; a broker named Monir Sheikh of Majumdarkandi, Rajoir, had contracted to take him to Italy for BDT 15 lakh, according to a Prothom Alo editorial of 6 February 2025.",
+  "target_section": "Libya to Italy by boat > The contract price and the final price",
+  "placement": "Cases",
+  "why_new": "A young man leaving against his father's wishes on a relative's money; a BDT 15 lakh contract.",
+  "published": "2025-02-06"
+ },
+ {
+  "key": "LB1-73",
+  "fact_ids": [
+   "LB0148",
+   "LB0149"
+  ],
+  "claim": "In the Shariatpur case the broker ring took BDT 12 lakh to 20 lakh from the 24 families in various ways; some of the men were detained by police in Libya on two occasions and jailed, some were held hostage and tortured, and they were freed from captivity and jail after money was collected from their families.",
+  "target_section": "Libya to Italy by boat > The contract price and the final price",
+  "placement": "Cases",
+  "why_new": "Money taken both for release from hostage-takers and for release from Libyan jail.",
+  "published": "2025-02-15"
+ },
+ {
+  "key": "LB1-79",
+  "fact_ids": [
+   "LB0162",
+   "LB0163",
+   "LB0164"
+  ],
+  "claim": "BDT 15 lakh, then BDT 30 lakh more: according to his family, Md Rasel Mia (25) of Dharmandal village, Nasirnagar, Brahmanbaria, went to Libya in early 2024 through a broker from his own village for BDT 15 lakh, raised by selling the ancestral homestead and borrowing from relatives; he was sold to a local ring on arrival, which sent videos of his torture to Bangladesh and took a further BDT 30 lakh from the family in rounds.",
+  "target_section": "Libya to Italy by boat > The contract price and the final price",
+  "placement": "Cases",
+  "why_new": "A further contract-versus-final-price case: BDT 15 lakh agreed, BDT 45-50 lakh paid, and the man died.",
+  "published": "2025-02-22"
+ },
+ {
+  "key": "LB1-84",
+  "fact_ids": [
+   "LB0175",
+   "LB0176"
+  ],
+  "claim": "Khurshed Mia said that while working in Libya he agreed with a broker to be taken by sea to Italy for BDT 9 lakh and paid BDT 6 lakh in two rounds without reaching Italy; he said the whole attempt cost him BDT 19 lakh, plus several lakh for treatment, and that he had to sell the land his house stood on.",
+  "target_section": "Libya to Italy by boat > The contract price and the final price",
+  "placement": "Cases",
+  "why_new": "The price of the sea leg alone when bought inside Libya (BDT 9 lakh) against the total spent (BDT 19 lakh).",
+  "published": "2025-03-10"
+ },
+ {
+  "key": "LB1-93",
+  "fact_ids": [
+   "LB0196",
+   "LB0197",
+   "LB0198"
+  ],
+  "claim": "According to an account by Bangladesh's ambassador to Libya, Major General Habib Ullah, quoted by former foreign affairs adviser Md Touhid Hossain in Prothom Alo on 27 April 2026, among 113 irregular migrants sent home from Libya one had paid brokers and mafia BDT 82 lakh in stages and another BDT 73 lakh, and when asked how many had paid a broker more than BDT 20 lakh, over fifty of the 113 raised their hands.",
+  "target_section": "Libya to Italy by boat > The contract price and the final price",
+  "placement": "The numbers",
+  "why_new": "The highest totals on record in these articles (BDT 82 and 73 lakh), and a share: nearly half of one return flight had paid over BDT 20 lakh.",
+  "published": "2026-04-27"
+ },
+ {
+  "key": "LB1-120",
+  "fact_ids": [
+   "LB0244"
+  ],
+  "claim": "The director of Osmani International Airport, Sylhet, said on 18 April 2026 that many of the victims heard at that day's roundtable had spent BDT 10 to 15 lakh, and up to BDT 20 lakh, to go abroad.",
+  "target_section": "Libya to Italy by boat > The contract price and the final price",
+  "placement": "The numbers",
+  "why_new": "A Sylhet-side spending range for irregular journeys, from survivors' testimony at one meeting.",
+  "published": "2026-05-05"
+ },
+ {
+  "key": "LB1-125",
+  "fact_ids": [
+   "LB0253",
+   "LB0254"
+  ],
+  "claim": "Mizanur Rahman of Phulsuti village, Nagarkanda, Faridpur, alleged at a human chain outside the Faridpur Deputy Commissioner's office on 14 October 2026 that a Faridpur trafficking ring, having promised to take him to Italy, held and tortured him in Libya and took BDT 60 lakh in three rounds.",
+  "target_section": "Libya to Italy by boat > The contract price and the final price",
+  "placement": "Cases",
+  "why_new": "BDT 60 lakh in three rounds, the largest named single-victim total in the 2026 cases here.",
+  "published": "2026-10-14"
+ },
+ {
+  "key": "LB1-13",
+  "fact_ids": [
+   "LB0022"
+  ],
+  "claim": "Sajal Bairagi's brother said in May 2024 that the broker was telling the family not to file a case and had said he would return some money but was not giving it, and that, being poor and unable to afford a case, the family was trying to settle with the broker.",
+  "target_section": "Libya to Italy by boat > The law",
+  "placement": "The law",
+  "why_new": "Shows why no case follows a death: the broker discourages it with a refund promise and the family cannot afford one.",
+  "published": "2024-05-03"
+ },
+ {
+  "key": "LB1-14",
+  "fact_ids": [
+   "LB0023",
+   "LB0024"
+  ],
+  "claim": "The Madaripur Superintendent of Police, Masud Alam, told Prothom Alo in May 2024 that police would give all legal help if relatives of the eight dead filed a case, but that the victims had little interest in filing cases.",
+  "target_section": "Libya to Italy by boat > The law",
+  "placement": "The law",
+  "why_new": "Police position: they act only if the family files, and families mostly do not.",
+  "published": "2024-05-03"
+ },
+ {
+  "key": "LB1-23",
+  "fact_ids": [
+   "LB0043",
+   "LB0044"
+  ],
+  "claim": "After returning, Azmir Hossain filed a case in a Chattogram court against six people, including the Libya-based broker and his brother; his lawyer told Prothom Alo in June 2024 that it was a criminal case over cheating and torture in Libya and that the court took cognisance of the complaint and ordered an investigation.",
+  "target_section": "Libya to Italy by boat > The law",
+  "placement": "The law",
+  "why_new": "A returnee filing directly in court, and what the court did.",
+  "published": "2024-06-07"
+ },
+ {
+  "key": "LB1-30",
+  "fact_ids": [
+   "LB0057",
+   "LB0058",
+   "LB0059"
+  ],
+  "claim": "Prothom Alo reported that on 5 July 2024, when Rasel Mia came to his home in Jagannathpur, Bhairab, victims' families surrounded and beat him and handed him to police, who sent him to Kishoreganj district jail under the trafficking Act; the officer-in-charge of Bhairab police station said the father of one victim filed a case after the arrest and Rasel was sent to jail in that case.",
+  "target_section": "Libya to Italy by boat > The law",
+  "placement": "The law",
+  "why_new": "The case and arrest came only after the families themselves caught the broker.",
+  "published": "2024-07-13"
+ },
+ {
+  "key": "LB1-31",
+  "fact_ids": [
+   "LB0060"
+  ],
+  "claim": "Rasel Mia admitted under police questioning that he took money on the promise of sending people to Italy, and said he had made all the arrangements but could not send everyone because new problems had arisen on the sea route, at which everyone grew impatient.",
+  "target_section": "Libya to Italy by boat > The law",
+  "placement": "other: the broker's account",
+  "why_new": "The broker's own explanation, on record.",
+  "published": "2024-07-13"
+ },
+ {
+  "key": "LB1-38",
+  "fact_ids": [
+   "LB0075",
+   "LB0076"
+  ],
+  "claim": "The Nasirnagar Upazila Nirbahi Officer told Prothom Alo in September 2024 that the administration had not known of the 26 men's cases until journalists told them, that none of the victims had complained to it, and that legal action would follow an investigation if a complaint came; relatives had held a human chain demanding the brokers' trial and compensation.",
+  "target_section": "Libya to Italy by boat > The law",
+  "placement": "The law",
+  "why_new": "What did not happen: no complaint, so no official action, 26 victims notwithstanding.",
+  "published": "2024-09-21"
+ },
+ {
+  "key": "LB1-39",
+  "fact_ids": [
+   "LB0077"
+  ],
+  "claim": "One man the Nasirnagar families accuse, a cousin of the alleged ring leader, told Prothom Alo he had himself gone to Libya through that cousin, spent a month and a half in jail there with the others and 18 months in Libya in all, and took money from no one.",
+  "target_section": "Libya to Italy by boat > The law",
+  "placement": "other: the accused's account",
+  "why_new": "The accused's denial; also shows a relative of the broker travelling in the same batch.",
+  "published": "2024-09-21"
+ },
+ {
+  "key": "LB1-54",
+  "fact_ids": [
+   "LB0115",
+   "LB0116"
+  ],
+  "claim": "The wife of one Mathbaria hostage filed a case under the trafficking Act at Mathbaria police station in 2024; the station's officer-in-charge said in January 2025 that the investigation had been given to the district detective branch and that it could say what progress there was.",
+  "target_section": "Libya to Italy by boat > The law",
+  "placement": "The law",
+  "why_new": "A case filed while the men were still hostages, with no reported result months later.",
+  "published": "2025-01-19"
+ },
+ {
+  "key": "LB1-62",
+  "fact_ids": [
+   "LB0130",
+   "LB0131",
+   "LB0132"
+  ],
+  "claim": "After the January 2025 sinking, local brokers in Rajoir went into hiding for fear of arrest, Prothom Alo reported; Madaripur's Additional Superintendent of Police said police were investigating the broker ring, and the Additional Deputy Commissioner said the district administration had started work through the embassy to bring the bodies home.",
+  "target_section": "Libya to Italy by boat > The law",
+  "placement": "The law",
+  "why_new": "What the authorities did in the first days: investigation announced, no arrest reported, repatriation of bodies through the district administration.",
+  "published": "2025-02-03"
+ },
+ {
+  "key": "LB1-70",
+  "fact_ids": [
+   "LB0141",
+   "LB0142"
+  ],
+  "claim": "A Prothom Alo editorial of 6 February 2025 stated that some licensed manpower-exporting firms are behind these broker rings and send people abroad through them, and that cases against many such firms in the past led to no action because many of those involved were influential people linked to the then ruling party.",
+  "target_section": "Libya to Italy by boat > The law",
+  "placement": "The law",
+  "why_new": "The newspaper's own assertion, not a sourced finding, that licensed agencies sit behind the boat brokers; flag as editorial opinion.",
+  "published": "2025-02-06"
+ },
+ {
+  "key": "LB1-77",
+  "fact_ids": [
+   "LB0158",
+   "LB0159",
+   "LB0160"
+  ],
+  "claim": "Relatives of the 24 missing men filed 11 cases against Rashed Khan and his associates in the Shariatpur court and at Palong Model police station; the CID arrested him in Jatrabari, Dhaka, on 14 February 2025 in a case under the trafficking Act filed by the father of a missing man from Kalkini, Madaripur, and a Shariatpur magistrate sent him to jail the next day, fixing a later date to hear the police's remand request and his bail application.",
+  "target_section": "Libya to Italy by boat > The law",
+  "placement": "The law",
+  "why_new": "Eleven cases by families led to a CID arrest in Dhaka; shows the route from family case to arrest.",
+  "published": "2025-02-15"
+ },
+ {
+  "key": "LB1-81",
+  "fact_ids": [
+   "LB0168",
+   "LB0169",
+   "LB0170"
+  ],
+  "claim": "After Rasel Mia's death the broker from his village fled with his family, Prothom Alo reported on 22 February 2025; the officer-in-charge of Nasirnagar police station said legal steps would be taken if the victim's family gave a written complaint.",
+  "target_section": "Libya to Italy by boat > The law",
+  "placement": "The law",
+  "why_new": "No case at the time of death: police wait for a written complaint while the broker absconds.",
+  "published": "2025-02-22"
+ },
+ {
+  "key": "LB1-104",
+  "fact_ids": [
+   "LB0218",
+   "LB0219"
+  ],
+  "claim": "The Minister for Expatriates' Welfare said on 18 April 2026 that the government had declared zero tolerance of the 'mafia syndicate' at home and abroad and was determined to identify the Bangladeshi members of trafficking rings in Libya and elsewhere, bring them back and try them.",
+  "target_section": "Libya to Italy by boat > The law",
+  "placement": "The law",
+  "why_new": "A ministerial commitment on Bangladeshi traffickers based in Libya; a statement of intent, not an action taken.",
+  "published": "2026-05-05"
+ },
+ {
+  "key": "LB1-128",
+  "fact_ids": [
+   "LB0259",
+   "LB0260"
+  ],
+  "claim": "Asked about the returnees' demand for trial of the Faridpur ring, the Additional Superintendent of Police (Crime and Ops) of Faridpur said on 14 October 2026 that legal action would be taken if the victims' families complained, and that steps would follow investigation if anyone had filed a case; one victim at the human chain asked, 'Where do I go to get justice?'",
+  "target_section": "Libya to Italy by boat > The law",
+  "placement": "The law",
+  "why_new": "Eleven returnees protesting publicly and the police still asking for a complaint: no case or arrest is reported.",
+  "published": "2026-10-14"
+ },
+ {
+  "key": "LB1-3",
+  "fact_ids": [
+   "LB0004",
+   "LB0005"
+  ],
+  "claim": "A Prothom Alo editorial of 25 February 2024 stated that BRAC's Migration Programme rescued and brought home 629 people in 2022 who had been living in misery abroad without valid papers, and that they had been taken to Libya with the promise of attractive jobs in Europe.",
+  "target_section": "Libya to Italy by boat > The numbers",
+  "placement": "The numbers",
+  "why_new": "A returns figure for BRAC's programme for 2022; the section gives only IOM-assisted returns.",
+  "published": "2024-02-25"
+ },
+ {
+  "key": "LB1-4",
+  "fact_ids": [
+   "LB0006"
+  ],
+  "claim": "According to UNHCR, as cited in a Prothom Alo editorial of 25 February 2024, 13 per cent of the 5,236 refugees and migrant workers who went to Italy by sea were Bangladeshi citizens (the editorial does not state the period).",
+  "target_section": "Libya to Italy by boat > The numbers",
+  "placement": "The numbers",
+  "why_new": "An early-2024 share figure; the period is not printed, so it needs a check against UNHCR before use.",
+  "published": "2024-02-25"
+ },
+ {
+  "key": "LB1-63",
+  "fact_ids": [
+   "LB0133"
+  ],
+  "claim": "Intelligence sources said in February 2025 that, besides the two dead, eight more people from Rajoir upazila, all aged 20 to 30, were reported missing, though it was not confirmed whether they were on the boat that sank on 25 January.",
+  "target_section": "Libya to Italy by boat > The numbers",
+  "placement": "The numbers",
+  "why_new": "Concentration in one upazila: ten dead or missing from Rajoir around one sinking.",
+  "published": "2025-02-03"
+ },
+ {
+  "key": "LB1-66",
+  "fact_ids": [
+   "LB0137"
+  ],
+  "claim": "Relatives said at least 12 people from Madaripur and Faridpur were among those killed in Libya, according to a Prothom Alo editorial of 6 February 2025 that discussed the January 2025 boat sinking.",
+  "target_section": "Libya to Italy by boat > The numbers",
+  "placement": "The numbers",
+  "why_new": "District concentration of the dead in the January 2025 sinking.",
+  "published": "2025-02-06"
+ },
+ {
+  "key": "LB1-67",
+  "fact_ids": [
+   "LB0138"
+  ],
+  "claim": "According to Bangladesh embassy sources in Tripoli cited in a Prothom Alo editorial of 6 February 2025, 4,200 Bangladeshis had been freed from various detention centres in Libya and sent home in the previous year and a half, and more than a thousand irregular Bangladeshis were still held in Libya.",
+  "target_section": "Libya to Italy by boat > The numbers",
+  "placement": "The numbers",
+  "why_new": "An embassy figure for returns from detention (mid-2023 to early 2025) and the number still held.",
+  "published": "2025-02-06"
+ },
+ {
+  "key": "LB1-68",
+  "fact_ids": [
+   "LB0139"
+  ],
+  "claim": "A Prothom Alo editorial of 6 February 2025 stated that 84,000 Bangladeshis went to Europe by sea from 2009 to 2024 and that on average at least 100 Bangladeshis die each year when boats sink (it gives no source for either figure).",
+  "target_section": "Libya to Italy by boat > The numbers",
+  "placement": "The numbers",
+  "why_new": "A Bangladeshi death estimate per year; the guide gives only all-nationality deaths. Unsourced in the article, so needs a source before use.",
+  "published": "2025-02-06"
+ },
+ {
+  "key": "LB1-88",
+  "fact_ids": [
+   "LB0186"
+  ],
+  "claim": "According to CID information cited in a Prothom Alo editorial of 1 April 2026, 17,000 Bangladeshis were sent to Italy by illegal routes in the previous year.",
+  "target_section": "Libya to Italy by boat > The numbers",
+  "placement": "The numbers",
+  "why_new": "A CID figure for the year to March 2026; differs from the 20,164 sea arrivals for 2025 the section already gives, so note the source.",
+  "published": "2026-04-01"
+ },
+ {
+  "key": "LB1-94",
+  "fact_ids": [
+   "LB0199"
+  ],
+  "claim": "By the ambassador's account, about two-thirds of the 113 returnees on that flight identified themselves as from Madaripur.",
+  "target_section": "Libya to Italy by boat > The numbers",
+  "placement": "The numbers",
+  "why_new": "How concentrated the route is in one district, from a head count on a return flight.",
+  "published": "2026-04-27"
+ },
+ {
+  "key": "LB1-105",
+  "fact_ids": [
+   "LB0220",
+   "LB0221"
+  ],
+  "claim": "Shariful Islam Hasan, associate director of BRAC's Migration Programme, said on 18 April 2026 that Bangladeshis are the largest group in the world crossing the Mediterranean to Europe, a situation that has lasted a decade, and that people from 8 to 10 districts, among them Madaripur, Shariatpur, Sylhet, Sunamganj and Habiganj, are losing their lives going this way.",
+  "target_section": "Libya to Italy by boat > The numbers",
+  "placement": "The numbers",
+  "why_new": "The source districts, named by BRAC; the guide gives no district list for the boat route.",
+  "published": "2026-05-05"
+ },
+ {
+  "key": "LB1-121",
+  "fact_ids": [
+   "LB0245"
+  ],
+  "claim": "The general secretary of the Sylhet District Press Club said on 18 April 2026 that over the previous 10 years at least 10,000 people had died or gone missing, more than two and a half lakh had been trafficked abroad by illegal routes and at least 15,000 had been jailed in various countries (he gave no source).",
+  "target_section": "Libya to Italy by boat > The numbers",
+  "placement": "The numbers",
+  "why_new": "Ten-year totals from a speaker with no source given; usable only with attribution or after checking.",
+  "published": "2026-05-05"
+ },
+ {
+  "key": "LB1-6",
+  "fact_ids": [
+   "LB0008"
+  ],
+  "claim": "The Counter Terrorism and Transnational Crime unit identified a Libya-based trafficker who had appointed 40 brokers across Bangladesh whose job was to find young people wanting to go abroad, according to a Prothom Alo editorial of 25 February 2024.",
+  "target_section": "Libya to Italy by boat > The path",
+  "placement": "How it works",
+  "why_new": "Shows the scale of one Libya-based trafficker's recruiting network in Bangladesh (40 brokers).",
+  "published": "2024-02-25"
+ },
+ {
+  "key": "LB1-17",
+  "fact_ids": [
+   "LB0030",
+   "LB0031"
+  ],
+  "claim": "Azmir Hossain said he reached Dubai on 21 March 2024, where the broker's men met him at the airport and kept 30 to 35 people together in a room of a small house for two days, then flew them to Egypt, held them 24 hours in a warehouse-like place in the airport area, and put them on another plane to Libya.",
+  "target_section": "Libya to Italy by boat > The path",
+  "placement": "Cases",
+  "why_new": "Stop-by-stop detail of the Dubai and Egypt legs: who meets them, how many per room, how long at each.",
+  "published": "2024-06-07"
+ },
+ {
+  "key": "LB1-59",
+  "fact_ids": [
+   "LB0125",
+   "LB0126"
+  ],
+  "claim": "The boat crossing from Libya to Europe is known as the 'game'; small boats are mainly used and are loaded beyond capacity, Prothom Alo wrote in February 2025.",
+  "target_section": "Libya to Italy by boat > The path",
+  "placement": "other: the word used",
+  "why_new": "The guide uses 'game houses' without saying that the crossing itself is called the 'game'.",
+  "published": "2025-02-03"
+ },
+ {
+  "key": "LB1-60",
+  "fact_ids": [
+   "LB0127"
+  ],
+  "claim": "According to relatives, police and local sources, the two Rajoir men left home on 1 January 2025, flew from Dhaka through Dubai to Libya, were sent by the broker to the coast, and left the Libyan coast on an engine boat on 24 January.",
+  "target_section": "Libya to Italy by boat > The path",
+  "placement": "Cases",
+  "why_new": "Timing: 23 days from leaving home in Madaripur to the boat.",
+  "published": "2025-02-03"
+ },
+ {
+  "key": "LB1-72",
+  "fact_ids": [
+   "LB0146",
+   "LB0147"
+  ],
+  "claim": "The 24 Shariatpur and Madaripur men were sent first to the United Arab Emirates, then through Egypt to Libya, according to Palong Model police station and relatives.",
+  "target_section": "Libya to Italy by boat > The path",
+  "placement": "Cases",
+  "why_new": "Confirms the UAE-Egypt-Libya routing for 2022-24 departures from Shariatpur.",
+  "published": "2025-02-15"
+ },
+ {
+  "key": "LB1-100",
+  "fact_ids": [
+   "LB0209",
+   "LB0210"
+  ],
+  "claim": "Md Touhid Hossain, the former foreign affairs adviser, wrote in April 2026 that because surveillance and restrictions on the route to Italy had recently increased, traffickers were now using the Greece route.",
+  "target_section": "Libya to Italy by boat > The path",
+  "placement": "How it works",
+  "why_new": "A named former official on the 2026 shift from Italy to Greece as the destination from Libya.",
+  "published": "2026-04-27"
+ },
+ {
+  "key": "LB1-101",
+  "fact_ids": [
+   "LB0211",
+   "LB0212",
+   "LB0213"
+  ],
+  "claim": "Md Touhid Hossain wrote that the main route to Italy by sea used to be a flight to Kenya, then overland to Libya, then the boat, and that a person boards the plane to Kenya on a false story of a safari or tourism; along the way people change hands several times like goods.",
+  "target_section": "Libya to Italy by boat > The path",
+  "placement": "How it works",
+  "why_new": "A Kenya entry point and the cover story used at departure; the guide's path lists only Dubai, Egypt, India and Sri Lanka.",
+  "published": "2026-04-27"
+ },
+ {
+  "key": "LB1-5",
+  "fact_ids": [
+   "LB0007"
+  ],
+  "claim": "On 15 February 2024 a boat carrying 52 migrants caught fire and sank in the Mediterranean off the Tunisian coast; 8 Bangladeshis died, 26 others were rescued and one was seriously injured, according to a Prothom Alo editorial of 25 February 2024.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "The February 2024 Tunisia boat deaths are not in the Death list.",
+  "published": "2024-02-25"
+ },
+ {
+  "key": "LB1-10",
+  "fact_ids": [
+   "LB0014",
+   "LB0015",
+   "LB0016"
+  ],
+  "claim": "According to relatives, police and local sources, several young men from Rajoir, Madaripur, and Muksudpur, Gopalganj, left home for Italy on 14 January 2024, flew through Dubai to Libya, and on 14 February left Libya on an engine boat through brokers; eight of them died on the boat in the Mediterranean off Tunisia (five from Rajoir and three from Muksudpur), along with one Pakistani.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "Home districts, dates and route of the February 2024 Tunisia boat deaths.",
+  "published": "2024-05-03"
+ },
+ {
+  "key": "LB1-11",
+  "fact_ids": [
+   "LB0017",
+   "LB0018",
+   "LB0019"
+  ],
+  "claim": "Relatives of the eight dead told journalists at Dhaka airport on 2 May 2024 that brokers had put 52 people on a small boat that could take 30, that the eight who died had been forced to stay below the deck, and that when they tried to come out for lack of oxygen the brokers beat them and sent them back down; the relatives said they died of the torture and lack of oxygen.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "How people die on these boats without the boat sinking: overloading and being held below deck.",
+  "published": "2024-05-03"
+ },
+ {
+  "key": "LB1-18",
+  "fact_ids": [
+   "LB0032",
+   "LB0033"
+  ],
+  "claim": "Azmir Hossain said everyone's passport was taken as soon as they reached Libya, that he was beaten whenever he mentioned the promised job, and that BDT 6 lakh was collected from his family in stages by phone.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "A survivor's first-person account of what follows arrival.",
+  "published": "2024-06-07"
+ },
+ {
+  "key": "LB1-19",
+  "fact_ids": [
+   "LB0034",
+   "LB0035"
+  ],
+  "claim": "Azmir Hossain said that after collecting BDT 6 lakh from his family the broker sold him to another group at a high price and left him in a Libyan desert to be handed over; he said he escaped with a Libyan citizen's help and took shelter with a Bangladeshi he knew, and that the broker then came and took him back.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "Being sold on after the ransom is paid, by the same Bangladeshi who recruited him.",
+  "published": "2024-06-07"
+ },
+ {
+  "key": "LB1-20",
+  "fact_ids": [
+   "LB0036",
+   "LB0037",
+   "LB0038"
+  ],
+  "claim": "Azmir Hossain said he was locked in a room and beaten regularly for trying to escape, went eight days without food, and reached home on 5 May 2024 in a critical condition, 41 days after leaving home according to Prothom Alo; his mother said he is now mentally ill from blows to the head and that she owes BDT 6 lakh.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "The whole trip lasted 41 days and never left Libya; the outcome for the family.",
+  "published": "2024-06-07"
+ },
+ {
+  "key": "LB1-25",
+  "fact_ids": [
+   "LB0047",
+   "LB0048"
+  ],
+  "claim": "Prothom Alo reported on 13 July 2024 that at least 24 people from Bhairab and elsewhere in Kishoreganj, Habiganj and Narsingdi went to Libya at about the same time through a broker ring led by Rasel Mia of Bhairab to cross to Italy by sea, that none had reached Italy, and that some were hostages of kidnappers and others were in Libyan jails.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "A whole batch from one broker stranded; two outcomes, kidnappers or Libyan jail.",
+  "published": "2024-07-13"
+ },
+ {
+  "key": "LB1-27",
+  "fact_ids": [
+   "LB0052"
+  ],
+  "claim": "Families of two hostages in the Bhairab case said in July 2024 that large ransoms were being demanded but that they could find no one who could assure them that paying would get the men released.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "Families' own statement that nobody guarantees release after payment.",
+  "published": "2024-07-13"
+ },
+ {
+  "key": "LB1-28",
+  "fact_ids": [
+   "LB0053",
+   "LB0054"
+  ],
+  "claim": "According to local people in Bhairab, when the hostages phoned home begging to be freed, the broker Rasel Mia and his ring members hid and cut off contact with the families; the families then went to community leaders for a remedy and got no result.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "How it works",
+  "why_new": "What the local broker does once people are taken hostage, and that village arbitration failed.",
+  "published": "2024-07-13"
+ },
+ {
+  "key": "LB1-32",
+  "fact_ids": [
+   "LB0061",
+   "LB0062"
+  ],
+  "claim": "Prothom Alo reported on 21 September 2024 that a broker ring sent 26 young men from 25 families in Goalnagar union, Nasirnagar, Brahmanbaria, and Ratani village, Austagram, Kishoreganj, to Libya on the promise of Italy, each paying BDT 11 lakh; nine came home after torture and harassment, some of the rest were captive and several were missing.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "A village cluster case with the outcome counted: 9 of 26 back, none in Italy.",
+  "published": "2024-09-21"
+ },
+ {
+  "key": "LB1-34",
+  "fact_ids": [
+   "LB0066",
+   "LB0067"
+  ],
+  "claim": "Returnees from Nasirnagar, Brahmanbaria, and Austagram, Kishoreganj, said that two and a half to three months after the last payment the broker sold them, that after three months in jail they reached their families through a Pakistani man with the help of a man from Bhairab, and could come home only after each paid a further BDT 1 lakh 20 thousand for the air ticket and other costs; they returned between 7 August and 14 September 2024 after release from Libyan jail.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "Getting out of Libyan jail and home cost each man a further BDT 1.2 lakh, paid by the family.",
+  "published": "2024-09-21"
+ },
+ {
+  "key": "LB1-35",
+  "fact_ids": [
+   "LB0068",
+   "LB0069"
+  ],
+  "claim": "Suman Mia of Nasirnagar told Prothom Alo he paid the broker BDT 11 lakh in all and was told he would be taken to Italy within a week; he said 60 people were put on a boat from Benghazi, and after it had run for an hour they understood they had all been sold.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "A 'boat to Italy' that was in fact the handover to buyers.",
+  "published": "2024-09-21"
+ },
+ {
+  "key": "LB1-36",
+  "fact_ids": [
+   "LB0070",
+   "LB0071"
+  ],
+  "claim": "Suman Mia said the 60 were held in a camp for a month and a half, beaten every day and fed once in 24 hours, given two litres of salt water for bathing and the toilet and one bread at night, and made to do cleaning work from morning to evening at the house of a man named Ahammad, whose son beat them with a pistol when they did not work.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "Conditions and forced unpaid labour in the camp, in a survivor's words.",
+  "published": "2024-09-21"
+ },
+ {
+  "key": "LB1-37",
+  "fact_ids": [
+   "LB0072",
+   "LB0073",
+   "LB0074"
+  ],
+  "claim": "Enamul Haque of Lalurtuk village, Nasirnagar, said he spent BDT 22 lakh to send two sons (land sold for BDT 7 lakh, a BDT 12 lakh loan and savings), that one son was 'sold four times', and that he last spoke to the other a year earlier; both were missing in September 2024.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "Repeated resale of one person (four times), and disappearance for a year.",
+  "published": "2024-09-21"
+ },
+ {
+  "key": "LB1-53",
+  "fact_ids": [
+   "LB0113",
+   "LB0114"
+  ],
+  "claim": "The wife of one Mathbaria hostage refused to name the brokers to Prothom Alo in January 2025, saying she wanted her husband back, and the family of another refused to speak at all, believing someone known to the brokers lived near their home and that the torture would increase if word got out.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "Why families stay silent while a relative is held: the ring has eyes in the village.",
+  "published": "2025-01-19"
+ },
+ {
+  "key": "LB1-56",
+  "fact_ids": [
+   "LB0118",
+   "LB0119"
+  ],
+  "claim": "According to the Bangladesh embassy in Libya, a boat carrying 56 people trying to reach Italy from Libya sank in the Mediterranean on 25 January 2025 and 23 bodies washed up on the beach between 28 and 31 January; the bodies were decomposed and not formally identified, but the embassy, citing local sources, said nearly all were Bangladeshi.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "The January 2025 sinking (23 bodies) is not in the Death list.",
+  "published": "2025-02-03"
+ },
+ {
+  "key": "LB1-64",
+  "fact_ids": [
+   "LB0134"
+  ],
+  "claim": "The father of Hridoy Howlader of Kamarkhali, Faridpur, said the group was to be taken to Italy by ship on the night of 24 January 2025, that many refused to board when a small boat was offered instead, and that those who refused were shot dead while those who boarded drowned, according to a Prothom Alo editorial of 6 February 2025.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "A family's allegation that people who refused the small boat were shot; the guide has no account of forced boarding.",
+  "published": "2025-02-06"
+ },
+ {
+  "key": "LB1-71",
+  "fact_ids": [
+   "LB0143",
+   "LB0144",
+   "LB0145"
+  ],
+  "claim": "According to relatives and police, 24 young men from Shariatpur and Madaripur who were taken from home in 2022 and 2023 to be sent to Italy from Libya by an illegal route went missing in Libya; relatives claim none of the 24 has contacted family since 21 and 22 March 2024.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "A batch of 24 from one broker lost on the same two days with no word for 11 months.",
+  "published": "2025-02-15"
+ },
+ {
+  "key": "LB1-76",
+  "fact_ids": [
+   "LB0155",
+   "LB0156",
+   "LB0157"
+  ],
+  "claim": "Riaz Akon said his family gave the broker BDT 20 lakh, raised by selling land and a cattle farm, to send his younger brother to Italy, had had no trace of him for a year, and that the broker gave no information when asked.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "A second family's payment and the broker's silence.",
+  "published": "2025-02-15"
+ },
+ {
+  "key": "LB1-80",
+  "fact_ids": [
+   "LB0165",
+   "LB0166",
+   "LB0167"
+  ],
+  "claim": "According to Rasel Mia's family, the ring demanded BDT 10 lakh more a few days before his death, and when the family could not pay he was tortured and died in Libya on 21 February 2025; the family learned of the death the next day through an expatriate, and his father, who said he had paid BDT 50 lakh in stages by selling his homestead and farmland, alleged his son was killed with a poisonous injection.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "Death after the family ran out of money, having paid BDT 50 lakh; guide's Death list has boats only, plus the two contract-price cases.",
+  "published": "2025-02-22"
+ },
+ {
+  "key": "LB1-83",
+  "fact_ids": [
+   "LB0173",
+   "LB0174"
+  ],
+  "claim": "Khurshed Mia said that in Libya, after a month without work, he got a job at a shopping mall 'in exchange for 500 dinars' that was to pay 1,400 dinars at the end of the month but paid him half, and then worked four months at an oil company for 1,200 dinars a month.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "What work in Libya paid in 2024, the fee to get a job, and wage theft.",
+  "published": "2025-03-10"
+ },
+ {
+  "key": "LB1-85",
+  "fact_ids": [
+   "LB0177",
+   "LB0178",
+   "LB0179"
+  ],
+  "claim": "Khurshed Mia said law-enforcement officers raided the fourth-floor flat where 11 of them lived at about 1:30 am on 10 July 2024 and he hid for two hours on the window ledge; later he was kept in a place with 210 other people, where a raid at 10 pm took away 160 while he hid for four hours in a tree.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "Raids by Libyan forces on migrants' housing and on a holding house of over 200 people.",
+  "published": "2025-03-10"
+ },
+ {
+  "key": "LB1-86",
+  "fact_ids": [
+   "LB0180",
+   "LB0181",
+   "LB0182"
+  ],
+  "claim": "Khurshed Mia said a mafia group attacked the building the broker had moved him to and he jumped from the first floor to save himself, injuring his arm and leg; he got no treatment for five days, the broker's men moved him from a private hospital to a government hospital because they could not bear the cost, he had five operations in three and a half months there, and he came home on 13 February 2025 unable to walk.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "Permanent disability as an outcome, and what medical care looked like for an injured migrant in Libya.",
+  "published": "2025-03-10"
+ },
+ {
+  "key": "LB1-87",
+  "fact_ids": [
+   "LB0183",
+   "LB0184",
+   "LB0185"
+  ],
+  "claim": "A Prothom Alo editorial of 1 April 2026 said the family of Shayek Ahmed (23) of Sunamganj gave brokers BDT 12 lakh by selling their cows and land, that the rubber boat he left on from Libya for Greece on 21 March lost its way and drifted for six days, that he died of starvation when the food ran out, and that 12 young men from Sunamganj died on that journey and their bodies were thrown into the sea.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "Adds to the March 2026 Greece boat already in the Death list: rubber boat, six days adrift, death by starvation, 12 of the dead from Sunamganj, price paid.",
+  "published": "2026-04-01"
+ },
+ {
+  "key": "LB1-95",
+  "fact_ids": [
+   "LB0200",
+   "LB0201"
+  ],
+  "claim": "Returnees told the ambassador to Libya before their flight home in spring 2026 that one had eaten rice once after twenty days, five men sharing one bowl with no curry, that another got a handful after twenty-five days, and that a piece of bread was thrown at them 'the way food is given to a dog' and they were beaten as well.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "Detainees' own words on food in captivity.",
+  "published": "2026-04-27"
+ },
+ {
+  "key": "LB1-98",
+  "fact_ids": [
+   "LB0205",
+   "LB0206"
+  ],
+  "claim": "On 4 April 2026 a wooden boat that left Tajoura, Libya, for the Italian island of Lampedusa with about 105 passengers sank; 32 people were rescued alive and 2 bodies recovered, the other 71 were missing, and Bangladeshis were among both the rescued and the missing, Md Touhid Hossain wrote in Prothom Alo on 27 April 2026.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "The April 2026 Tajoura sinking is not in the Death list; names Tajoura as a departure point.",
+  "published": "2026-04-27"
+ },
+ {
+  "key": "LB1-99",
+  "fact_ids": [
+   "LB0207",
+   "LB0208"
+  ],
+  "claim": "Md Touhid Hossain wrote in Prothom Alo on 27 April 2026 that a boat that left Libya for Greece on 21 March 2026 with 48 passengers drifted for six days before 26 people were rescued alive, 21 of them Bangladeshis, and that 20 of the 22 dead or missing were reported to be Bangladeshi.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "Different counts from the guide's for the same March 2026 boat (guide: 43 aboard, 38 Bangladeshis, at least 18 dead); record the conflict.",
+  "published": "2026-04-27"
+ },
+ {
+  "key": "LB1-102",
+  "fact_ids": [
+   "LB0214",
+   "LB0215"
+  ],
+  "claim": "Md Touhid Hossain wrote that many Bengalis are among those who torture the hostages in Libya, and that the people who collect ransom from families in Bangladesh by showing torture videos live undisturbed in the same society.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "How it works",
+  "why_new": "A former foreign adviser stating that Bangladeshis do the torturing and the ransom collection is done at home.",
+  "published": "2026-04-27"
+ },
+ {
+  "key": "LB1-126",
+  "fact_ids": [
+   "LB0255",
+   "LB0256"
+  ],
+  "claim": "Mizanur Rahman said that, still not released after the payments and seeing how severe the torture was, he broke a window, escaped and gave himself up to Libyan police, and later came home in 2026 through IOM; eleven people tortured by the same ring came home from Libya through IOM in 2026 and joined the human chain.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "A way out that worked: escaping and surrendering to Libyan police, then return through IOM.",
+  "published": "2026-10-14"
+ },
+ {
+  "key": "LB1-127",
+  "fact_ids": [
+   "LB0257",
+   "LB0258"
+  ],
+  "claim": "At the same human chain, Taslima Begum said her husband Habib was killed because the family could not pay a ransom of BDT 10 lakh; she now lives with their three children at her father's house.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "Cases",
+  "why_new": "A killing alleged over an unpaid BDT 10 lakh ransom.",
+  "published": "2026-10-14"
+ },
+ {
+  "key": "LB1-129",
+  "fact_ids": [
+   "LB0261",
+   "LB0262",
+   "LB0263"
+  ],
+  "claim": "According to investigators, on 5 August 2025 the wife of Md Saiful (39) of Sundarganj, Gaibandha, who had gone to Libya about two years before November 2026 through a Bangladeshi broker, got a call from a Libyan mobile number saying he was in the callers' custody, that BDT 30 lakh ransom must be paid or he would be killed, and that no one in the family would be allowed to speak to him until half the ransom was paid.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "How it works",
+  "why_new": "A ransom demand with no proof of life: half must be paid before the family may hear the man's voice.",
+  "published": "2026-11-13"
+ },
+ {
+  "key": "LB1-130",
+  "fact_ids": [
+   "LB0264",
+   "LB0265"
+  ],
+  "claim": "The CID said the family sent BDT 5 lakh in all between 10 and 25 August 2025 from a bKash shop at Bamandanga Hall Mor, Sundarganj, to several mobile numbers the accused gave, and that even after the money was received the family was not put in touch with Saiful.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "How it works",
+  "why_new": "How ransom is paid inside Bangladesh: mobile-wallet transfers from a local agent shop to several numbers.",
+  "published": "2026-11-13"
+ },
+ {
+  "key": "LB1-132",
+  "fact_ids": [
+   "LB0268",
+   "LB0269",
+   "LB0270"
+  ],
+  "claim": "According to the CID, the father of the Gaibandha hostage was then contacted from another number and asked for a further BDT 42 lakh in the name of rescuing his son, and was told his son was held by two men in Libya named Mokarram and Anwar from whom the caller had got the father's number; the father said he would pay nothing more unless he could speak to his son directly, and no more calls came to him or to his son's wife.",
+  "target_section": "Libya to Italy by boat > What happens",
+  "placement": "How it works",
+  "why_new": "Successive callers demanding rising sums (30, then 42 lakh) with no proof of life; when the family insisted on speaking to him, the calls stopped.",
+  "published": "2026-11-13"
+ },
+ {
+  "key": "LB1-24",
+  "fact_ids": [
+   "LB0045",
+   "LB0046"
+  ],
+  "claim": "A union parishad member in Karerhat, Mirsarai, said he phoned the Libya-based broker several times to get Azmir Hossain sent home and saw the marks of beating on Azmir's head and body on a video call.",
+  "target_section": "Libya to Italy by boat > Where to get help",
+  "placement": "other: what was tried",
+  "why_new": "An elected local representative negotiating directly with the broker in Libya, and a witness to the injuries.",
+  "published": "2024-06-07"
+ },
+ {
+  "key": "LB1-55",
+  "fact_ids": [
+   "LB0117"
+  ],
+  "claim": "The Deputy Commissioner of Pirojpur, asked in January 2025 about three local men held for ransom in Libya, said the administration has little it can do in such cases, but that if the family complains it can inform the Ministry of Foreign Affairs in writing.",
+  "target_section": "Libya to Italy by boat > Where to get help",
+  "placement": "Where to get help",
+  "why_new": "What a district administration says it can actually do for a hostage's family: forward a written complaint to the Foreign Ministry.",
+  "published": "2025-01-19"
+ },
+ {
+  "key": "LB1-78",
+  "fact_ids": [
+   "LB0161"
+  ],
+  "claim": "On 15 February 2025, on hearing of the arrest, relatives of the missing men began a hunger strike in the grounds of the Shariatpur District and Sessions Judge's court demanding exemplary punishment and the tracing of the missing men.",
+  "target_section": "Libya to Italy by boat > Where to get help",
+  "placement": "other: what families did",
+  "why_new": "Arrest did not produce information on the missing; families resorted to a hunger strike.",
+  "published": "2025-02-15"
+ },
+ {
+  "key": "LB1-97",
+  "fact_ids": [
+   "LB0203",
+   "LB0204"
+  ],
+  "claim": "The 113 migrants reached Dhaka the next day, and IOM paid the whole cost from the airfare to their travel back to their own villages, Md Touhid Hossain wrote in Prothom Alo on 27 April 2026; they went home with nothing.",
+  "target_section": "Libya to Italy by boat > Where to get help",
+  "placement": "Where to get help",
+  "why_new": "Says exactly what IOM covers on a return flight: airfare and onward travel to the village.",
+  "published": "2026-04-27"
+ },
+ {
+  "key": "LB1-133",
+  "fact_ids": [
+   "LB0271",
+   "LB0272",
+   "LB0273"
+  ],
+  "claim": "The father of the Gaibandha hostage filed a case under the trafficking Act at Sundarganj police station on 5 September 2025, the case was sent to the CID for investigation, and on 12 November 2026 the CID arrested two men from Chandpur village, Singra, at Singra Bazar, Natore; the CID said it was still gathering information on where in Libya the son was held and on rescuing him.",
+  "target_section": "Libya to Italy by boat > Where to get help",
+  "placement": "Where to get help",
+  "why_new": "A second example of a family's police case reaching the CID and producing arrests, here 14 months after filing, with the hostage still not found.",
+  "published": "2026-11-13"
+ },
+ {
+  "key": "LB1-134",
+  "fact_ids": [
+   "LB0274"
+  ],
+  "claim": "In its statement on the Gaibandha case on 13 November 2026 the CID asked everyone to verify the legality of the person, the agency, the visa and the employing firm before going abroad.",
+  "target_section": "Libya to Italy by boat > Where to get help",
+  "placement": "other: advice from the CID",
+  "why_new": "The CID's stated advice (it does not say how to verify).",
+  "published": "2026-11-13"
+ },
+ {
+  "key": "LB1-40",
+  "fact_ids": [
+   "LB0078",
+   "LB0079",
+   "LB0080"
+  ],
+  "claim": "Faridul Alam of Chandanaish, Chattogram, who had worked in Dubai since 2003, told a columnist writing in Prothom Alo in December 2024 that he made a verbal contract of BDT 5 lakh with a Bangladeshi broker from Noakhali to be taken as far as Greece: BDT 50,000 in advance, BDT 1.5 lakh after reaching Iran and the remaining BDT 3 lakh after reaching Turkey.",
+  "target_section": "NEW: From the Gulf overland through Iran and Turkey to Greece",
+  "placement": "How it works",
+  "why_new": "A stage-payment contract tied to borders crossed (advance, Iran, Turkey) on a route the guide does not cover.",
+  "published": "2024-12-29"
+ },
+ {
+  "key": "LB1-41",
+  "fact_ids": [
+   "LB0081",
+   "LB0082",
+   "LB0083"
+  ],
+  "claim": "By Faridul Alam's account, at the end of 2010 the smugglers put him and several others in a taxi in Dubai that crossed the UAE border into a coastal hill area of Oman though the passengers had no passport or visa, and from there about thirty young men were put on a boat to Bandar Abbas in Iran, where another Bangladeshi broker received them.",
+  "target_section": "NEW: From the Gulf overland through Iran and Turkey to Greece",
+  "placement": "The path",
+  "why_new": "First legs of the Gulf-to-Greece route: Dubai, Oman by taxi, boat to Bandar Abbas.",
+  "published": "2024-12-29"
+ },
+ {
+  "key": "LB1-42",
+  "fact_ids": [
+   "LB0084",
+   "LB0085"
+  ],
+  "claim": "By Faridul Alam's account, after he reached Iran a relative in Dubai deposited BDT 1.5 lakh into an Iranian bank account the brokers gave, and the balance of the contract was paid into a bank account the brokers gave while the group was held in Istanbul.",
+  "target_section": "NEW: From the Gulf overland through Iran and Turkey to Greece",
+  "placement": "How it works",
+  "why_new": "How the stage payments are collected: bank accounts supplied by the brokers in the transit country.",
+  "published": "2024-12-29"
+ },
+ {
+  "key": "LB1-43",
+  "fact_ids": [
+   "LB0086",
+   "LB0087",
+   "LB0088"
+  ],
+  "claim": "Faridul Alam said the group was kept about seven days in Iran and taken by taxi and then bus into Turkey, that police took them off the bus on the way to Istanbul and sent them back to the border six times, and that the broker's men sent them again each time until they reached Istanbul on the seventh attempt.",
+  "target_section": "NEW: From the Gulf overland through Iran and Turkey to Greece",
+  "placement": "The path",
+  "why_new": "Iran-Turkey leg, with six failed attempts inside Turkey.",
+  "published": "2024-12-29"
+ },
+ {
+  "key": "LB1-44",
+  "fact_ids": [
+   "LB0089",
+   "LB0090"
+  ],
+  "claim": "Faridul Alam said that in Istanbul many people were kept crammed in one room and not allowed outside for more than a month, and that about a hundred people were then loaded for Greece into a closed lorry-like vehicle with room for 25 to 30 at most.",
+  "target_section": "NEW: From the Gulf overland through Iran and Turkey to Greece",
+  "placement": "What happens",
+  "why_new": "Holding house in Istanbul and the overloaded closed lorry across the Greek border.",
+  "published": "2024-12-29"
+ },
+ {
+  "key": "LB1-45",
+  "fact_ids": [
+   "LB0091",
+   "LB0092",
+   "LB0093"
+  ],
+  "claim": "By Faridul Alam's account, Greek soldiers or border guards caught the group where the lorry dropped them and put them in jail, UN refugee agency staff then moved them to a refugee camp, and after about ten days they were given a document called a 'stay paper' and took a bus to Athens with the EUR 60 per person the smugglers had handed them in Istanbul.",
+  "target_section": "NEW: From the Gulf overland through Iran and Turkey to Greece",
+  "placement": "What happens",
+  "why_new": "What arrival in Greece looked like on this route.",
+  "published": "2024-12-29"
+ },
+ {
+  "key": "LB1-46",
+  "fact_ids": [
+   "LB0094",
+   "LB0095",
+   "LB0096"
+  ],
+  "claim": "Faridul Alam said he presented himself as Rohingya in all his asylum applications in Greece because the smuggling ring's brokers advised that asylum might be easier that way; the court did not accept his application and stamped his stay paper, which let him stay one month, and he never got asylum in Greece despite four or five interviews.",
+  "target_section": "NEW: From the Gulf overland through Iran and Turkey to Greece",
+  "placement": "What happens",
+  "why_new": "Brokers coaching a false nationality for asylum, and that it did not work.",
+  "published": "2024-12-29"
+ },
+ {
+  "key": "LB1-47",
+  "fact_ids": [
+   "LB0097",
+   "LB0098",
+   "LB0099"
+  ],
+  "claim": "Faridul Alam said he lived about four years in Athens hawking and doing manual work, with police at times detaining him and taking his goods, and that what he earned fed him and left nothing to send to his family in Bangladesh.",
+  "target_section": "NEW: From the Gulf overland through Iran and Turkey to Greece",
+  "placement": "What happens",
+  "why_new": "The economic outcome: no remittance after reaching Europe.",
+  "published": "2024-12-29"
+ },
+ {
+  "key": "LB1-49",
+  "fact_ids": [
+   "LB0103",
+   "LB0104",
+   "LB0105"
+  ],
+  "claim": "Faridul Alam's asylum applications were rejected in Germany, where he lived on EUR 350 a month from a refugee camp from 2015 to 2018, and again in Paris, where the process took from 2018 to 2021; in December 2024 he was cooking for a mess of Bangladeshis in La Courneuve, Paris.",
+  "target_section": "NEW: From the Gulf overland through Iran and Turkey to Greece",
+  "placement": "What happens",
+  "why_new": "Fourteen years after leaving Dubai: three countries' asylum refusals and no legal status.",
+  "published": "2024-12-29"
+ },
+ {
+  "key": "LB1-50",
+  "fact_ids": [
+   "LB0106",
+   "LB0107"
+  ],
+  "claim": "Faridul Alam said the Bangladesh embassy in Paris took his application and fingerprints for a passport and, after a long wait, told him it could not issue a new passport unless he submitted his old Bangladeshi one, which he had thrown away when he set out from Dubai because, he said, an asylum application cannot be made while holding it.",
+  "target_section": "NEW: From the Gulf overland through Iran and Turkey to Greece",
+  "placement": "What happens",
+  "why_new": "The cost of destroying the passport for an asylum claim: he cannot get a new one to go home.",
+  "published": "2024-12-29"
+ },
+ {
+  "key": "LB1-122",
+  "fact_ids": [
+   "LB0246",
+   "LB0247"
+  ],
+  "claim": "Sujan Mia of Simtola village, Chhatak upazila, said on 18 April 2026 that he first went from Bangladesh to Oman for construction work, moved to Dubai after a problem with his iqama (residence permit) and then worked in Qatar, and later returned to Dubai to head for Europe, going through Oman to Iran, Turkey, Greece, North Macedonia and Serbia, working illegally to survive.",
+  "target_section": "NEW: From the Gulf overland through Iran and Turkey to Greece",
+  "placement": "Cases",
+  "why_new": "A second, later account of the Dubai-Oman-Iran-Turkey-Greece route, supporting a section for it.",
+  "published": "2026-05-05"
+ },
+ {
+  "key": "OT1-66",
+  "fact_ids": [
+   "OA0136",
+   "OA0137",
+   "OA0138"
+  ],
+  "claim": "From 21 January 2026, Bangladeshi citizens approved for a US business or tourist visa (B1/B2) must post a bond of up to USD 15,000, the US Embassy in Dhaka said in a notice on its verified Facebook page on 19 January 2026, and the condition does not apply to holders of valid B1/B2 visas issued before that date; Prothom Alo put USD 15,000 at about Tk 18 lakh 35 thousand at Tk 122.31 a dollar.",
+  "target_section": "NEW: The United States",
+  "placement": "other: the rule",
+  "why_new": "A new, large payment tied to a US visitor visa that the guide does not mention.",
+  "published": "2026-01-20"
+ },
+ {
+  "key": "OT1-68",
+  "fact_ids": [
+   "OA0141",
+   "OA0142"
+  ],
+  "claim": "The US State Department's travel website said on 6 January 2026 that citizens of 38 countries including Bangladesh must post a visa bond of up to USD 15,000 when applying to enter the United States, and the embassy's notice said the bond money is returned if the visa's conditions are properly followed.",
+  "target_section": "NEW: The United States",
+  "placement": "other: the rule",
+  "why_new": "Scope of the bond and the refund condition.",
+  "published": "2026-01-20"
+ },
+ {
+  "key": "OT1-69",
+  "fact_ids": [
+   "OA0143",
+   "OA0144"
+  ],
+  "claim": "The US Embassy in Dhaka said in a Facebook post on 26 January 2026 that an applicant found eligible after the visa interview is given payment instructions by the consular officer with a direct link to pay.gov, and must pay the bond within 30 days.",
+  "target_section": "NEW: The United States",
+  "placement": "How it works",
+  "why_new": "Says how and where the genuine payment is made (only after the interview, on the link the consular officer gives), which is the check against a fake payment site.",
+  "published": "2026-01-26"
+ },
+ {
+  "key": "OT1-70",
+  "fact_ids": [
+   "OA0145",
+   "OA0146"
+  ],
+  "claim": "Under the visa bond pilot programme the visa issued is single-entry and valid for at most three months, the holder must enter the United States through certain designated ports of entry, and the bond is cancelled automatically and the money returned after the holder comes home if all the visa's conditions are met, among them not working in the United States and returning within the set time, the embassy said.",
+  "target_section": "NEW: The United States",
+  "placement": "How it works",
+  "why_new": "The conditions under which the bond is lost: working in the US or overstaying.",
+  "published": "2026-01-26"
+ },
+ {
+  "key": "OT1-78",
+  "fact_ids": [
+   "OA0166",
+   "OA0167",
+   "OA0168"
+  ],
+  "claim": "In a column in Prothom Alo on 27 March 2026, Dr Delwar Arif, an associate professor at Canisius University in New York, wrote that according to reports aired by ABC's Channel 7, MSN and Bangla channels in the United States, a Bangladeshi in New York who posed as an immigration lawyer without being one, and his firm, took millions of dollars from Bangladeshi and other legal and illegal immigration-seekers in the United States, USD 60 thousand from one person alone.",
+  "target_section": "NEW: The United States",
+  "placement": "Cases",
+  "why_new": "A fake-immigration-lawyer fraud against Bangladeshis already in the US; a pattern the guide lacks. Source is an opinion column citing US media, so weaker than a news report.",
+  "published": "2026-03-27"
+ },
+ {
+  "key": "OT1-79",
+  "fact_ids": [
+   "OA0169"
+  ],
+  "claim": "The same column says the ring also took crores of taka from thousands of people in the name of sending them to the United States, through well-furnished offices in upmarket areas of Dhaka and eye-catching advertisements.",
+  "target_section": "NEW: The United States",
+  "placement": "How it works",
+  "why_new": "Shows the Dhaka end: a smart office and advertising as the lure.",
+  "published": "2026-03-27"
+ },
+ {
+  "key": "OT1-80",
+  "fact_ids": [
+   "OA0170",
+   "OA0171"
+  ],
+  "claim": "According to the column, the fraudsters' advertisements say \"Do you want to settle in America?\" (আপনি কি আমেরিকায় স্থায়ী হতে চান?) and \"Get a green card in America by investing only Tk 50 to 60 lakh\"; the writer says they take Tk 50 to 60 lakh a head only to bring a person across the southern or northern border of the United States, and that the dalals and traffickers do not care what happens after arrival or whether the person is caught.",
+  "target_section": "NEW: The United States",
+  "placement": "What dalals say",
+  "why_new": "The exact advertising lines and the price, with what is actually delivered (a border crossing, not a green card).",
+  "published": "2026-03-27"
+ },
+ {
+  "key": "OT1-81",
+  "fact_ids": [
+   "OA0172",
+   "OA0173"
+  ],
+  "claim": "The columnist writes that in his nearly two decades in the United States he has heard of many cases of people being cheated through Bangladeshi immigration lawyers, that many highly educated Bangladeshis are among the victims, and that US embassies could protect would-be migrants through public awareness campaigns and joint work with local law enforcement.",
+  "target_section": "NEW: The United States",
+  "placement": "other: expert comment",
+  "why_new": "Who gets caught (including the educated); opinion of a named academic.",
+  "published": "2026-03-27"
+ },
+ {
+  "key": "AB1-28",
+  "fact_ids": [
+   "AA0050",
+   "AA0051",
+   "AA0052"
+  ],
+  "claim": "A US Embassy official filed a case at Gulshan police station, Dhaka, on the Monday before 14 February 2024 against five Bangladeshis on charges of involvement in human trafficking; the case says two of them, Mofizur Rahman (54) and Ashraful Alam Bhuiyan (33), went for US visa interviews on 11 February and admitted during the interviews that they are involved in trafficking people from Bangladesh to various countries and work mainly as dalals.",
+  "target_section": "NEW: The United States through South America and Mexico",
+  "placement": "The law",
+  "why_new": "An embassy itself filing a trafficking case after a visa interview; not in the guide.",
+  "published": "2024-02-14"
+ },
+ {
+  "key": "AB1-29",
+  "fact_ids": [
+   "AA0053",
+   "AA0054"
+  ],
+  "claim": "According to the US Embassy's case statement of February 2024, Mofizur Rahman traffics people from Bangladesh to Dubai and, with other dalals, to the United States, and sent his own brother from Bangladesh first through India to Suriname in South America, from where the brother went to the United States across the Mexico border.",
+  "target_section": "NEW: The United States through South America and Mexico",
+  "placement": "The path",
+  "why_new": "A named route: India, Suriname, the Mexico border.",
+  "published": "2024-02-14"
+ },
+ {
+  "key": "AB1-30",
+  "fact_ids": [
+   "AA0055"
+  ],
+  "claim": "According to the same case statement, Ashraful Alam Bhuiyan said in his interview that he helps traffic people to the United States through Paraguay in South America.",
+  "target_section": "NEW: The United States through South America and Mexico",
+  "placement": "The path",
+  "why_new": "A second route, through Paraguay.",
+  "published": "2024-02-14"
+ },
+ {
+  "key": "AB1-33",
+  "fact_ids": [
+   "AA0059",
+   "AA0060",
+   "AA0061"
+  ],
+  "claim": "The US Embassy's case names two associates, Mohammad Zaman and Bhasani, and says a man named Mohammad Nur Alam heads the ring; the police Counter Terrorism and Transnational Crime (CTTC) unit was given the investigation, and its deputy commissioner said in February 2024 that the process of formally taking over the case file from Gulshan police station had begun.",
+  "target_section": "NEW: The United States through South America and Mexico",
+  "placement": "The law",
+  "why_new": "Which police unit investigates this kind of case.",
+  "published": "2024-02-14"
+ },
+ {
+  "key": "AB1-93",
+  "fact_ids": [
+   "AA0183",
+   "AA0184",
+   "AA0185"
+  ],
+  "claim": "Hossain, a rice farmer from Feni whose land had flooded repeatedly and who said ruling-party members were threatening him over his opposition politics, sold his land and borrowed about USD 33,000 from relatives and friends, raising USD 41,000 in all for travel and the dalal's costs, according to an investigation by Columbia Journalism Investigations (CJI) and Documented republished by Prothom Alo in October 2025.",
+  "target_section": "NEW: The United States through South America and Mexico",
+  "placement": "The contract price and the final price",
+  "why_new": "A price for the US land route from a named-source investigation: USD 41,000.",
+  "published": "2025-10-23"
+ },
+ {
+  "key": "AB1-94",
+  "fact_ids": [
+   "AA0186"
+  ],
+  "claim": "Hossain left Bangladesh in February 2023 and crossed 11 countries by air and land over nine months before giving himself up to border officers in the US state of Arizona, who held him for three days in a room with 15 people and then released him.",
+  "target_section": "NEW: The United States through South America and Mexico",
+  "placement": "The path",
+  "why_new": "Length of the journey and what happened at the border.",
+  "published": "2025-10-23"
+ },
+ {
+  "key": "AB1-95",
+  "fact_ids": [
+   "AA0187",
+   "AA0188"
+  ],
+  "claim": "A legal firm in Manhattan filed Hossain's asylum application in April 2024 on the ground that he supports a Bangladeshi opposition party; the effect of climate-driven floods on his income and livelihood is not an accepted ground for asylum, and the investigation says the United States has no specific provision protecting people who flee climate disasters.",
+  "target_section": "NEW: The United States through South America and Mexico",
+  "placement": "What happens",
+  "why_new": "What an asylum claim can and cannot rest on.",
+  "published": "2025-10-23"
+ },
+ {
+  "key": "AB1-96",
+  "fact_ids": [
+   "AA0189",
+   "AA0190",
+   "AA0191"
+  ],
+  "claim": "While waiting for his hearing in the immigration court, Hossain got a US work permit after seven months; he worked first as a kitchen helper in a local restaurant, then delivering food by bike in Brooklyn, and in 2025 worked full time, six days a week, at a Bengali sweet shop and cafe in Kensington, Brooklyn, sharing a nearby basement apartment with two roommates.",
+  "target_section": "NEW: The United States through South America and Mexico",
+  "placement": "What happens",
+  "why_new": "What the person actually does after arrival.",
+  "published": "2025-10-23"
+ },
+ {
+  "key": "AB1-97",
+  "fact_ids": [
+   "AA0192"
+  ],
+  "claim": "Hossain had hoped that once granted asylum he could apply to bring his wife and daughter; he said that had he known how hard it now is, he would not have come to the United States.",
+  "target_section": "NEW: The United States through South America and Mexico",
+  "placement": "What happens",
+  "why_new": "The migrant's own verdict on the route.",
+  "published": "2025-10-23"
+ },
+ {
+  "key": "AB1-98",
+  "fact_ids": [
+   "AA0193",
+   "AA0194"
+  ],
+  "claim": "The investigation reports that officers of US Immigration and Customs Enforcement (ICE) detained two Bangladeshis from Noakhali who were working in Buffalo, New York, and that Hossain keeps copies of his asylum application and court hearing notices to hand and his lawyer's number on speed dial in case ICE comes to his home.",
+  "target_section": "NEW: The United States through South America and Mexico",
+  "placement": "What happens",
+  "why_new": "Detention risk in 2025 even for those with a pending claim.",
+  "published": "2025-10-23"
+ },
+ {
+  "key": "AB1-99",
+  "fact_ids": [
+   "AA0195",
+   "AA0196"
+  ],
+  "claim": "According to CJI and Documented's analysis of US Customs and Border Protection records, border crossings from Bangladesh rose 150% from 2019 to 2024; Noakhali is the top district of origin, with more than 30% of the Bangladeshis detained at the border, and Feni is among the top 10 Bangladeshi towns from which people reached the US-Mexico border.",
+  "target_section": "NEW: The United States through South America and Mexico",
+  "placement": "The numbers",
+  "why_new": "Growth of the route and the home districts. The data record birthplace, not last residence, and about 35% of records leave birthplace blank, by the article's own account.",
+  "published": "2025-10-23"
+ },
+ {
+  "key": "AB1-100",
+  "fact_ids": [
+   "AA0197"
+  ],
+  "claim": "The same investigation says that among people detained in 2024 whose records it examined, about 100 were born in Bangladesh, against more than 520 born in Guatemala and about 350 in Senegal.",
+  "target_section": "NEW: The United States through South America and Mexico",
+  "placement": "The numbers",
+  "why_new": "Printed count for 2024. Note for the editor: the article does not say what subset these figures cover and they look low for all detentions, so this needs checking against the original English investigation before use.",
+  "published": "2025-10-23"
+ },
+ {
+  "key": "AB1-101",
+  "fact_ids": [
+   "AA0198",
+   "AA0199"
+  ],
+  "claim": "The investigation says Bangladeshi migrants arriving in New York first settle around the Bangladeshi grocery shops and restaurants of Kensington, Brooklyn, and that an estimated 1 lakh Bangladeshis live in New York City.",
+  "target_section": "NEW: The United States through South America and Mexico",
+  "placement": "What happens",
+  "why_new": "Where arrivals go; low priority.",
+  "published": "2025-10-23"
+ },
+ {
+  "key": "RU1-119",
+  "fact_ids": [
+   "RU0187",
+   "RU0188"
+  ],
+  "claim": "As Prothom Alo reported it on 5 November 2026, the Expatriates' Welfare Ministry's letter of 4 November 2026 to BMET's Director General names Serbia, Moldova, Belarus, Congo, Russia, Japan, Iraq, Laos, Vietnam, Cambodia, Ukraine and Libya, and BAIRA (the recruiting agencies' association) sent a copy of the instruction to all its member agencies the same day.",
+  "target_section": "The Balkans and Eastern Europe",
+  "placement": "The law",
+  "why_new": "Prothom Alo's version of the 12-country list (with Congo, Russia and Cambodia), which bears on the guide's open question about the exact list, and the fact that every BAIRA member agency was told the same day.",
+  "published": "2026-11-05"
+ },
+ {
+  "key": "RU1-121",
+  "fact_ids": [
+   "RU0190"
+  ],
+  "claim": "People in the sector told Prothom Alo in November 2026 that workers interested in jobs in the 12 countries should hold back from any payment or final decision until the appointment letter, the Ministry's approval and the emigration clearance have all been confirmed.",
+  "target_section": "The Balkans and Eastern Europe",
+  "placement": "other: Red flags",
+  "why_new": "Attributed advice on the order of events for the 12 countries: three confirmations before any money.",
+  "published": "2026-11-05"
+ },
+ {
+  "key": "LB1-48",
+  "fact_ids": [
+   "LB0100",
+   "LB0101",
+   "LB0102"
+  ],
+  "claim": "Faridul Alam said that at the end of 2014 he left Athens by bus with two or three other Bangladeshis for Macedonia, then Serbia, then Hungary, where the bus of Afghan, Pakistani and Bangladeshi refugees was taken to a refugee camp; he then left for Austria and Germany, and in the Czech Republic police held him eight to ten days and took the money and papers in his bag and pockets and did not return them.",
+  "target_section": "The Balkans and Eastern Europe > The path",
+  "placement": "Cases",
+  "why_new": "The Greece-Macedonia-Serbia-Hungary overland leg, from a man who did it.",
+  "published": "2024-12-29"
+ },
+ {
+  "key": "LB1-123",
+  "fact_ids": [
+   "LB0248",
+   "LB0249"
+  ],
+  "claim": "Sujan Mia said that, finding no chance of legal work in the countries he passed through, he went back to Greece and from there travelled through Bulgaria, Albania and Bosnia and across Italy to France, where he worked about four years and eight months and tried to regularise; though he paid tax and completed the process, he was caught before he got legal papers and came back to Bangladesh.",
+  "target_section": "The Balkans and Eastern Europe > The path",
+  "placement": "Cases",
+  "why_new": "A Greece-Bulgaria-Albania-Bosnia-Italy-France overland path, and deportation after nearly five years.",
+  "published": "2026-05-05"
+ }
+]

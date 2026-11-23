@@ -1,0 +1,86 @@
+[
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Who a dalal is",
+  "old_str": "Outside Dhaka the middleman is often a travel agency: the assistant director",
+  "new_str": "In Sylhet the middleman is often a travel agency: the assistant director",
+  "problem": "Lead generalises to all of 'outside Dhaka' from one Sylhet official's statement; LB0229/LB0230 are about Sylhet only."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Who a dalal is",
+  "old_str": "- **Officials who speak of no law.** At a Prothom Alo",
+  "new_str": "- **Speakers who say there is no law.** At a Prothom Alo",
+  "problem": "Label calls the speakers officials, but RMMRU's programme director (OA0174) is a researcher at an NGO, not an official; only the city corporation administrator is."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Contract substitution: a different job or wage on arrival",
+  "old_str": "- Reported Apr 2026: Fatema Akter, a returnee, told a Cumilla roundtable she worked in Oman for five years on a salary of only Tk 12,000, then two years in Saudi Arabia, where for some of the time she received a salary of about Tk 3,000; she said food was not given properly, wages were irregular, she was made to work all the time, and she came home ill [AA0243, AA0244, AA0245].\n",
+  "new_str": "",
+  "problem": "Case does not fit the section: AA0243-AA0245 say nothing about a job or wage promised in Bangladesh and changed on arrival, only low and irregular pay and poor conditions. Delete here (could go under a pay or abuse section instead)."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### The staged-payment trap, and no receipts",
+  "old_str": "Even between agencies: several BAIRA members allege that in 2022-24",
+  "new_str": "In Malaysia recruitment in 2022-24, several BAIRA members allege that",
+  "problem": "'Even between agencies' is unsupported framing: MA0006 is about money taken from each worker going to Ruhul Amin and to the agency, not payments between agencies."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### The passport kept by the dalal",
+  "old_str": "3. It can happen again on arrival: the passport, ticket and papers are taken and the worker is told there is no work until the balance is paid [AB0050, AB0051].",
+  "new_str": "3. It can happen again on arrival: Naznin Akter said that on arriving in Malaysia in November 2025 her passport, ticket and papers were taken and she was told there would be no work until the balance was paid [AB0050, AB0051].",
+  "problem": "States as a general pattern what AB0050/AB0051 report as one woman's account; attribution dropped."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Loan sharks and land mortgages",
+  "old_str": "5. The debt keeps the worker in a bad job: a study by OKUP and IIED said people who go abroad on borrowed money are forced to accept any work and cannot come home without repaying the loan, so they bear everything in silence;",
+  "new_str": "5. The debt keeps the worker in a bad job: a study by OKUP and IIED said people who go abroad on borrowed money are forced to accept any work and that it is almost impossible for them to come home without repaying the loan, and that with the distance, the cost of travel and the wish to provide for the family they bear everything in silence;",
+  "problem": "Causal link invented: OA0083 says they bear it in silence because of distance, travel cost and wanting to provide for the family, not 'so' because of the loan; OA0082 says coming home without repaying is 'almost impossible', not impossible."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Loan sharks and land mortgages",
+  "old_str": "6. Disaster pushes families into it: OKUP's chairman said",
+  "new_str": "6. Disaster pushes families to migrate: OKUP's chairman said",
+  "problem": "'Into it' (into loans and mortgages) is unsupported: OA0087/OA0088 say disasters push families to send a member away for work, and say nothing about borrowing."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### \"Your visa is stuck, pay more\"",
+  "old_str": "and that quick, coordinated action has made it possible to bring the victim back and arrest the trafficker [AB0071].",
+  "new_str": "and that with quick, coordinated action it is possible to bring the victim back and arrest the trafficker [AB0071].",
+  "problem": "AB0071 is conditional ('if quick, coordinated steps are taken, it is possible'); the sentence turned it into a past achievement."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### \"Your visa is stuck, pay more\"",
+  "old_str": "- a fresh demand after arrival: in a 2025 Saudi case, Tk 1.5 lakh for a driving licence the company was to get the worker [AA0173, AA0174, AA0175].",
+  "new_str": "- a fresh demand after arrival: in a 2025 Saudi case the worker said he was asked for another Tk 1.5 lakh for a driving licence the company was to get him; the accused denies it [AA0173, AA0174, AA0175, AA0181].",
+  "problem": "Drops attribution: the demand is the worker's account, and the accused says the fresh demand is false (AA0181), so it reads as established."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### \"Your visa is stuck, pay more\"",
+  "old_str": "promised him a good job and an iqama (work permit) for Tk 5 lakh, raised by",
+  "new_str": "promised him a good job and an iqama (work permit) in Saudi Arabia for Tk 5 lakh, raised by",
+  "problem": "Case never names the country; AA0170 says Saudi Arabia (the red flag above calls it 'a 2025 Saudi case')."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Proof that is not proof",
+  "old_str": " In another dispute, Ashek Elahi, accused in a trafficking case, alleged in March 2025 that on 14 December 2023 a group attacked his house and forced his mother to sign four blank bank cheques and 20 blank non-judicial stamp papers, that on 17 March 2024 Tarek Aziz's father took his uncle's signature on five more, that his family filed a court case to recover them, and that they were then used to file the case against him [AA0083, AA0084, AA0085].",
+  "new_str": "",
+  "problem": "Does not fit the lead ('something that made a recruiter's offer look real'): AA0083-AA0085 are an accused trafficker's allegation that blank stamp papers were taken from his family by force and used to file a case against him; nothing about a recruiter's offer."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Proof that is not proof",
+  "old_str": "works at sending manpower to various countries and has a firm named Lamisa Enterprise; one wife said her husband left home with him on 3 February 2024 [LB0150, LB0151].",
+  "new_str": "works at sending manpower to various countries and has a firm named Lamisa Enterprise; the wife of one man said her husband left home with him on 3 February 2024 to go to Italy [LB0150, LB0151].",
+  "problem": "'One wife' is unclear and drops what LB0151 says (the husband left with him to go to Italy). Reviewer may also judge whether a named firm, with no office described, fits the 'An office' item."
+ }
+]

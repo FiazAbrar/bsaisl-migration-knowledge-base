@@ -1,0 +1,1011 @@
+[
+ {
+  "key": "MY3d-49",
+  "fact_ids": [
+   "MP0592",
+   "MP0593"
+  ],
+  "claim": "A diplomatic source said in July 2025 that the High Commission had contacted Malaysia's foreign, home and human resources ministries from the start for help over the 35 Bangladeshis arrested in the counter-terrorism raids but had not received the expected response, and had not been told at the time that a counter-terrorism operation was under way.",
+  "target_section": "After arrest",
+  "placement": "other: what consular help reaches people",
+  "why_new": "Evidence on the limits of consular help after arrest; guide's After arrest gives only the consular line.",
+  "published": "2025-07-08"
+ },
+ {
+  "key": "MY3e-58",
+  "fact_ids": [
+   "MP0718",
+   "MP0719"
+  ],
+  "claim": "Those aged 20 to 54 among the people arrested in the Cameron Highlands raid were to be sent to detention depots in Kelantan, Perak and Selangor, and Immigration figures showed 83,994 foreigners had been detained across Malaysia from the start of 2025 to 18 November.",
+  "target_section": "After arrest",
+  "placement": "other",
+  "why_new": "Depot locations and the 2025 national detention count.",
+  "published": "2025-11-21"
+ },
+ {
+  "key": "MY3e-1",
+  "fact_ids": [
+   "MP0616",
+   "MP0617"
+  ],
+  "claim": "On 13 August 2025 Chief Adviser Muhammad Yunus raised a Graduate Plus visa for Bangladeshi students with Malaysia's Higher Education Minister Zambry Abdul Kadir in Kuala Lumpur, and expatriates' welfare adviser Asif Nazrul said afterwards that the minister had agreed in principle but that both sides had formalities to complete before it could take effect.",
+  "target_section": "Can you work?",
+  "placement": "Student visa (Student Pass) > Can you work?: other: history of the Graduate Pass claim",
+  "why_new": "Origin of the claim the guide calls false [N0034]; CONFLICT with the Malaysian minister's denial of 23 August 2025 (draft from article eba0bf40) and with the guide's line that Bangladesh is not among the Graduate Pass nationalities [S0044].",
+  "published": "2025-08-13"
+ },
+ {
+  "key": "MY3e-2",
+  "fact_ids": [
+   "MP0618"
+  ],
+  "claim": "Prothom Alo reported in August 2025 that about 10,000 Bangladeshi students were studying at Malaysian universities and that, unlike students of other countries, they had no access to Malaysia's labour market.",
+  "target_section": "Can you work?",
+  "placement": "Student visa (Student Pass) > Can you work?",
+  "why_new": "Number of Bangladeshi students in Malaysia, not in the guide.",
+  "published": "2025-08-13"
+ },
+ {
+  "key": "MY3c-18",
+  "fact_ids": [
+   "MP0242"
+  ],
+  "claim": "The Chief Adviser opened a lounge for migrants at the airport on 11 November 2024, according to Prothom Alo's timeline of the interim government's first 100 days.",
+  "target_section": "Coming home",
+  "placement": "A place to stay (Probashi Lounge)",
+  "why_new": "Dates the opening of the airport migrants' lounge the guide lists (it does not say this is the same 'Probashi Lounge'); low priority, arguably cross-country.",
+  "published": "2024-11-17"
+ },
+ {
+  "key": "MY3f-34",
+  "fact_ids": [
+   "MP0329"
+  ],
+  "claim": "Amir Hossain was received at Dhaka airport on the night of 21-22 April 2026 by BRAC's Migration Programme and his family, with the help of Civil Aviation Security (AVSEC) and the Probashi Kallyan desk.",
+  "target_section": "Coming home",
+  "placement": "Airport help",
+  "why_new": "An example of BRAC's airport reception that the guide lists without a case.",
+  "published": "2026-04-22"
+ },
+ {
+  "key": "MY3b-9",
+  "fact_ids": [
+   "MP0112",
+   "MP0113"
+  ],
+  "claim": "Bangladeshi migrants in Malaysia use a Facebook group named \"Malaysia Kajer Khobor\" (মালয়েশিয়া কাজের খবর, Malaysia work news) and a Facebook page named \"Malaysiaprobashi Bangladeshi\", one of whose admins is Rakib Rana, Prothom Alo reported in June 2024.",
+  "target_section": "Contacts",
+  "placement": "other: migrant online communities",
+  "why_new": "The guide names the 'Malaysia Probashi Bangladeshi' group only as a source; 'Malaysia Kajer Khobor' is not in it.",
+  "published": "2024-06-17"
+ },
+ {
+  "key": "MY3e-42",
+  "fact_ids": [
+   "MP0687",
+   "MP0688"
+  ],
+  "claim": "The column said the Election Commission planned to start expatriate voting on a trial basis in Saudi Arabia, Malaysia, the UAE and the UK, first at booths in the missions, with voters registering online in advance and voting on the set day after their passport and NID are checked.",
+  "target_section": "Contacts",
+  "placement": "other: voting from abroad",
+  "why_new": "Only a plan as of October 2025; low priority for the guide.",
+  "published": "2025-10-10"
+ },
+ {
+  "key": "MY3f-46",
+  "fact_ids": [
+   "MP0346",
+   "MP0347"
+  ],
+  "claim": "Selim Reza wrote in June 2026 that most consular services require Bangladeshis to travel to Kuala Lumpur, and that coming from Sabah, Sarawak, Penang or Johor to Kuala Lumpur to renew a passport or get other services is time-consuming and costly.",
+  "target_section": "Contacts",
+  "placement": "other: consular services outside Kuala Lumpur",
+  "why_new": "The guide does not say whether the High Commission offers any service outside Kuala Lumpur; suggests a Need to know (are there consular camps in Sabah, Sarawak, Penang or Johor?).",
+  "published": "2026-06-16"
+ },
+ {
+  "key": "MY3c-25",
+  "fact_ids": [
+   "MP0255",
+   "MP0256",
+   "MP0257"
+  ],
+  "claim": "Malaysia's Immigration Department said that in a coordinated operation at three places in Cheras, Kuala Lumpur, on the night of Wednesday 11 December 2024 it rescued 11 Bangladeshis aged 30 to 38 from a trafficking ring believed to be led by three Bangladeshis, and arrested three main suspects aged 35 to 38 and a 32-year-old Bangladeshi woman with one of them.",
+  "target_section": "Done to workers",
+  "placement": "Cases",
+  "why_new": "A case of Bangladeshis trafficked and exploited by Bangladeshi-led rings inside Malaysia; the guide's Cheras mention is a July 2026 smuggling transit house, a different case.",
+  "published": "2024-12-14"
+ },
+ {
+  "key": "MY3c-26",
+  "fact_ids": [
+   "MP0258",
+   "MP0259"
+  ],
+  "claim": "In the 11 December 2024 Cheras operation, Malaysia's Immigration Department said in a statement that it seized 17 Bangladeshi passports, 20 mobile phones, RM800 and USD 800 in cash and two cars, that the victims had been trafficked and exploited by the syndicate for financial gain, and the rescued were in its care while the investigation continued; Director General Datuk Zakaria Shaban confirmed the rescue of the 11.",
+  "target_section": "Done to workers",
+  "placement": "Cases",
+  "why_new": "Shows what happens to rescued trafficking victims (held in Immigration's care); the guide has nothing on this.",
+  "published": "2024-12-14"
+ },
+ {
+  "key": "MY3h-30",
+  "fact_ids": [
+   "MP0449",
+   "MP0450"
+  ],
+  "claim": "In November 2026 a young man from Feni was added to a WhatsApp group offering to take him to Malaysia free of cost, paying only after arrival, and ended up held by traffickers in the Teknaf hills awaiting a boat, he told Prothom Alo.",
+  "target_section": "Done to workers",
+  "placement": "Other scams",
+  "why_new": "The Malaysia guide's scam list covers fake zero-cost BOESL places but not a 'free Malaysia' offer that leads to the sea route.",
+  "published": "2026-11-07"
+ },
+ {
+  "key": "MY3c-34",
+  "fact_ids": [
+   "MP0268",
+   "MP0269"
+  ],
+  "claim": "Chief Adviser Muhammad Yunus asked Malaysia's High Commissioner in Dhaka, Mohd Shuhada Othman, at a meeting reported by Prothom Alo on 13 January 2025, to give Bangladeshi workers multiple-entry visas so that they could go home easily when needed.",
+  "target_section": "Going home on leave and coming back",
+  "placement": "other: background",
+  "why_new": "POSSIBLE CONFLICT: the guide says the yearly PLKS renewal already includes a multiple-entry visa for Bangladeshi workers; the Chief Adviser's January 2025 request implies workers lacked one then. Worth a Need to know.",
+  "published": "2025-01-13"
+ },
+ {
+  "key": "MY3d-31",
+  "fact_ids": [
+   "MP0549",
+   "MP0550"
+  ],
+  "claim": "On 15 May 2025 Asif Nazrul said Bangladeshi workers got single-entry visas and that he had asked Malaysia's home minister to give them multiple-entry visas like other countries' workers, and the minister told his officials to act quickly.",
+  "target_section": "Going home on leave and coming back",
+  "placement": "other: history of the multiple-entry visa",
+  "why_new": "Background to the multiple-entry visa the guide says is now included with renewal [H0027]; shows it is new since 2025.",
+  "published": "2025-05-15"
+ },
+ {
+  "key": "MY3d-52",
+  "fact_ids": [
+   "MP0600",
+   "MP0601",
+   "MP0602"
+  ],
+  "claim": "Asif Nazrul said on 15 July 2025 that a circular signed on behalf of Malaysia's Immigration Director General and issued on 10 July 2025 gave Bangladeshi workers multiple-entry visas: workers already issued a single-entry visa and a PLKS (temporary employment visit pass) before the circular need not apply, the multiple-entry visa is issued automatically when the PLKS is renewed, workers with a single-entry visa and a valid PLKS can travel home and back without a new multiple visa, and instructions were sent to all of Malaysia's international airports and land ports.",
+  "target_section": "Going home on leave and coming back",
+  "placement": "other: source and how it works",
+  "why_new": "Guide states the rule [H0027] but not that a valid PLKS alone suffices before renewal, nor the 10 July 2025 circular date; partly answers the guide's Need to know on checking the visa.",
+  "published": "2025-07-16"
+ },
+ {
+  "key": "MY3d-53",
+  "fact_ids": [
+   "MP0603"
+  ],
+  "claim": "Asif Nazrul said that of the 15 countries Malaysia takes workers from, only Bangladeshi workers had been given single-entry rather than multiple-entry visas before July 2025, causing them much hardship.",
+  "target_section": "Going home on leave and coming back",
+  "placement": "other: background",
+  "why_new": "Background; source count 15 countries conflicts with 14 in other articles (minor).",
+  "published": "2025-07-16"
+ },
+ {
+  "key": "MY3e-7",
+  "fact_ids": [
+   "MP0628"
+  ],
+  "claim": "The Ministry's first-year report of August 2025 said a multiple-entry visa had been introduced for Bangladeshi workers in Malaysia for the first time.",
+  "target_section": "Going home on leave and coming back",
+  "placement": "other: date the multiple-entry visa began",
+  "why_new": "Guide says the yearly renewal includes a multiple-entry visa [H0027]; this dates it as new in 2025 by the Ministry's account.",
+  "published": "2025-08-20"
+ },
+ {
+  "key": "MY3g-1",
+  "fact_ids": [
+   "MP0365",
+   "MP0366",
+   "MP0367"
+  ],
+  "claim": "In June 2026 the civil aviation minister, Afroza Khanom, told parliament that Biman Bangladesh Airlines had introduced a low-fare 'T-class' ticket for migrant workers, bringing the Dhaka-Kuala Lumpur fare down from Tk 28,000 to Tk 21,000.",
+  "target_section": "Going home on leave and coming back",
+  "placement": "other: fare for the trip",
+  "why_new": "The guide gives no fare for Dhaka-Kuala Lumpur and has a Need to know on the usual fare (Going home without valid papers, Step 2: Buy a ticket home). The article gives the Dhaka-KL route only and does not say one-way or return, or whether it applies from KL.",
+  "published": "2026-06-18"
+ },
+ {
+  "key": "MY3f-33",
+  "fact_ids": [
+   "MP0326",
+   "MP0327",
+   "MP0328"
+  ],
+  "claim": "In the case of Amir Hossain of Naria, Shariatpur, found mentally unwell in a forest in Penang after 27 years out of contact, the Bangladesh mission in Malaysia sent his photo and the information he gave to the Naria UNO, who verified it with the family; Chamta Union Parishad, with the upazila administration's help, issued him a birth registration; that and family members' documents were sent to the mission, which issued a travel pass, and he reached Dhaka in the night after 21 April 2026, about six months after he was found.",
+  "target_section": "Going home without valid papers",
+  "placement": "Step 1: Get a passport or Travel Permit (case answering the UNO Need to know)",
+  "why_new": "Shows in practice how identity is proved when a worker has no passport or NID (mission to UNO to union parishad birth registration to travel pass), which the guide lists as Need to know (how a worker gets the UNO certificate, how long it takes).",
+  "published": "2026-04-22"
+ },
+ {
+  "key": "MY3f-35",
+  "fact_ids": [
+   "MP0330",
+   "MP0331"
+  ],
+  "claim": "Amir Hossain, who went to Malaysia through a broker in 1996 after selling inherited farmland and worked as a painter, was traced after two Bangladeshis in Malaysia, an expatriate named Dipu and expatriate journalist Bappi Kumar Das, found him in a tin hut in a Penang forest, rescued him and posted video on social media, from which his wife recognised him.",
+  "target_section": "Going home without valid papers",
+  "placement": "Help from Bangladesh (case)",
+  "why_new": "Shows how a missing worker was found (through other expatriates, not an official channel); low priority.",
+  "published": "2026-04-22"
+ },
+ {
+  "key": "MY3b-7",
+  "fact_ids": [
+   "MP0108",
+   "MP0109"
+  ],
+  "claim": "Migrants told Prothom Alo in June 2024 that a large share of workers in Malaysia get no holiday even on Eid day and go to work instead of to Eid prayers; Md Raihan Kashem, in Malaysia six to seven years and working at a supershop in Malacca, said he gets no leave on Eid and has never in any year been given time to pray.",
+  "target_section": "Hours, rest and leave",
+  "placement": "other: what happens in practice on Eid",
+  "why_new": "The guide gives the legal holiday entitlement (11 paid public holidays) but no account of practice on Eid.",
+  "published": "2024-06-17"
+ },
+ {
+  "key": "MY3b-8",
+  "fact_ids": [
+   "MP0110",
+   "MP0111"
+  ],
+  "claim": "On Eid day 2024 a migrant named Iftekhar Ahmed wrote in the Facebook group \"Malaysia Kajer Khobor\" that he was going to duty from 10 am to 10 pm and had been refused a single day off, and another migrant, Md Ashraful Ahmed, replied that he worked from 6 am to 8 pm.",
+  "target_section": "Hours, rest and leave",
+  "placement": "other: what happens in practice on Eid",
+  "why_new": "Worker-reported 12- and 14-hour Eid shifts, against the guide's 12-hour legal limit and holiday pay rules.",
+  "published": "2024-06-17"
+ },
+ {
+  "key": "MY3c-19",
+  "fact_ids": [
+   "MP0243",
+   "MP0244",
+   "MP0245"
+  ],
+  "claim": "Law Adviser Asif Nazrul said on 20 November 2024 that he hoped delivery of renewed passports to migrant workers in Malaysia and other countries would start from 10 December, that officials had told him foil paper for printing passports was being brought in, and that passport problems affected not only Malaysia but many Middle Eastern countries.",
+  "target_section": "How long you can stay and renewing",
+  "placement": "Passport renewal",
+  "why_new": "The guide gives the passport fee in Kuala Lumpur but nothing on the late-2024 printing backlog that held up renewals (which renewals of the PLKS depend on).",
+  "published": "2024-11-21"
+ },
+ {
+  "key": "MY3c-20",
+  "fact_ids": [
+   "MP0246"
+  ],
+  "claim": "Asif Nazrul said in November 2024 that there was no crisis in issuing e-passports but that migrant workers want MRP (machine-readable) passports rather than e-passports, that the MRP is outdated, and that the national aim is to move from MRP to e-passports.",
+  "target_section": "How long you can stay and renewing",
+  "placement": "Passport renewal",
+  "why_new": "The guide mentions only the e-passport; adds that workers abroad preferred MRP renewals in 2024. Arguably CROSS-COUNTRY: The passport office.",
+  "published": "2024-11-21"
+ },
+ {
+  "key": "MY3c-22",
+  "fact_ids": [
+   "MP0249",
+   "MP0250"
+  ],
+  "claim": "The same writer said in November 2024 that migrants coming for services at the office in charge of e-passports in Malaysia were perhaps being lightly struck by security guards of the private company handling passports while many crowded and pushed, and guessed, without knowing for sure, that the pushing may have been the reason.",
+  "target_section": "How long you can stay and renewing",
+  "placement": "Passport renewal: in practice",
+  "why_new": "Ground-level detail on the passport office in Malaysia (the guide names the ESKL charge but not conditions there).",
+  "published": "2024-11-24"
+ },
+ {
+  "key": "MY3c-23",
+  "fact_ids": [
+   "MP0251",
+   "MP0252"
+  ],
+  "claim": "The writer said that because Bangladesh missions expect migrants to know all the rules and have no time to explain them, many migrants hire brokers and pay extra to avoid harassment over passports, travel passes and document attestation.",
+  "target_section": "How long you can stay and renewing",
+  "placement": "Passport renewal: in practice",
+  "why_new": "Shows brokers operate around High Commission services in Malaysia; the guide does not mention this.",
+  "published": "2024-11-24"
+ },
+ {
+  "key": "MY3d-37",
+  "fact_ids": [
+   "MP0563",
+   "MP0564"
+  ],
+  "claim": "In a 13-point proposal handed to the foreign adviser on 21 May 2025, the AB Party (Amar Bangladesh Party) demanded that passport renewal be completed within seven days with courier delivery, and that the corruption and syndicate 'in the name of business' at ESKL in Malaysia be stopped and the service decentralised under the High Commission's control.",
+  "target_section": "How long you can stay and renewing",
+  "placement": "other: passport renewal in Malaysia",
+  "why_new": "Guide mentions ESKL's RM32 charge [Z0020] but not complaints about it. A political party's allegation only.",
+  "published": "2025-05-21"
+ },
+ {
+  "key": "MY3c-1",
+  "fact_ids": [
+   "MP0215",
+   "MP0216",
+   "MP0217"
+  ],
+  "claim": "An explosion at a chemical factory in Malaysia at about 11:30 am on the Thursday before 14 October 2024 burned three Bangladeshi workers from the same Ramzanbeg area of Munshiganj municipality over most of their bodies; Jabbar Ali (42) died on the Friday, Abu Taher (32) at dawn on the Saturday and his nephew Abdus Salam (24) at about 5 pm on the Sunday while under treatment, Prothom Alo reported on 14 October 2024.",
+  "target_section": "If a worker dies",
+  "placement": "other: Cases (deaths at work)",
+  "why_new": "The guide has the death procedure but no case of a workplace explosion; a dated case of three deaths in one factory blast.",
+  "published": "2024-10-14"
+ },
+ {
+  "key": "MY3c-2",
+  "fact_ids": [
+   "MP0218"
+  ],
+  "claim": "Jabbar Ali's nephew Khairul Islam said the three workers burned in the October 2024 Malaysian chemical-factory blast lay on the road for an hour and a half afterwards, and that some of them might have survived if treatment had started in time.",
+  "target_section": "If a worker dies",
+  "placement": "other: Cases (deaths at work)",
+  "why_new": "Family's account of delayed emergency care after a workplace accident; not in the guide.",
+  "published": "2024-10-14"
+ },
+ {
+  "key": "MY3c-3",
+  "fact_ids": [
+   "MP0219",
+   "MP0220",
+   "MP0221"
+  ],
+  "claim": "On 14 October 2024 the Munshiganj Deputy Commissioner, Fatema Tul Jannat, said the district was in contact with the Bangladesh High Commission in Malaysia on how to bring home quickly the bodies of the three workers killed in the factory blast, while the families demanded that the government bring the bodies quickly.",
+  "target_section": "If a worker dies",
+  "placement": "other: Cases (bringing bodies home)",
+  "why_new": "Shows the district administration's role in repatriation of bodies; the guide's procedure runs through the Welfare Board and does not mention the DC's office.",
+  "published": "2024-10-14"
+ },
+ {
+  "key": "MY3d-50",
+  "fact_ids": [
+   "MP0594",
+   "MP0595",
+   "MP0596"
+  ],
+  "claim": "Farhad Hossain alias Rony, 31, of Baguri village, Kayba union, Sharsha upazila, Jashore, who went to Malaysia in January 2023 at a cost of Tk 5 lakh, which his father borrowed, and worked as a labourer for a construction company in Seremban, was killed on 5 July 2025 when a crane chain snapped and he was crushed under it; his family said Bangladeshi workers there were trying to bring the body home, and his father said the loan had not yet been fully repaid.",
+  "target_section": "If a worker dies",
+  "placement": "other: Cases",
+  "why_new": "A 2025 construction death case with cost and debt; the guide's death section is procedural.",
+  "published": "2025-07-06"
+ },
+ {
+  "key": "MY3h-4",
+  "fact_ids": [
+   "MP0418",
+   "MP0419",
+   "MP0420"
+  ],
+  "claim": "On Monday 3 August 2026 three Bangladeshi men were killed in a fight among Bangladeshi plantation workers who all lived in the same house in Taman Linggi, Port Dickson, Negeri Sembilan, and police arrested a 40-year-old Bangladeshi with no previous record and filed a murder case under section 302 of the Penal Code, the Negeri Sembilan police chief, DCP Aljafni Ahmed, said.",
+  "target_section": "If a worker dies",
+  "placement": "Cases",
+  "why_new": "No case of workers killed in fights among themselves is in the guide.",
+  "published": "2026-08-04"
+ },
+ {
+  "key": "MY3b-57",
+  "fact_ids": [
+   "MP0207",
+   "MP0208",
+   "MP0209"
+  ],
+  "claim": "On 5 October 2024 Bangladesh's Wage Earners' Welfare Board and PERKESO, the social security organisation under Malaysia's labour ministry, signed a cooperation memorandum on the health, occupational safety and welfare of Bangladeshi workers in Malaysia, under which every Bangladeshi worker there is to be registered with PERKESO.",
+  "target_section": "If a worker dies, is injured or loses the job",
+  "placement": "other: Bangladesh-Malaysia agreement",
+  "why_new": "The WEWB-PERKESO memorandum is not in the guide.",
+  "published": "2024-10-05"
+ },
+ {
+  "key": "MY3b-58",
+  "fact_ids": [
+   "MP0210",
+   "MP0211"
+  ],
+  "claim": "As stated at the signing on 5 October 2024, 12 lakh 15 thousand 536 Bangladeshi workers had registered with PERKESO, 7 lakh 11 thousand 655 of them active; by August 2024, 11,439 had received temporary disablement benefit totalling about RM15 million (Tk 37 crore), 364 permanent disablement benefit totalling RM1.27 million, and 175 funeral benefit totalling RM870,000.",
+  "target_section": "If a worker dies, is injured or loses the job",
+  "placement": "The numbers",
+  "why_new": "Evidence that PERKESO claims do pay Bangladeshis, with counts; the guide gives the schemes but no payout numbers.",
+  "published": "2024-10-05"
+ },
+ {
+  "key": "MY3a-18",
+  "fact_ids": [
+   "MP0022"
+  ],
+  "claim": "Meherpur's Deputy Commissioner said in February 2024 that the district law-and-order committee had advised the families to file cases, but none was willing to.",
+  "target_section": "If an agency or broker takes your money",
+  "placement": "other: what happens in practice",
+  "why_new": "Evidence of families' reluctance to file cases.",
+  "published": "2024-02-11"
+ },
+ {
+  "key": "MY3f-36",
+  "fact_ids": [
+   "MP0332"
+  ],
+  "claim": "At a community event in Putrajaya on 1 June 2026, Md Siddiqur Rahman, Minister (Labour) at the Bangladesh High Commission in Kuala Lumpur, said any Bangladeshi in trouble anywhere in Malaysia should tell the High Commission by writing on its Facebook page, by email or by phone, and it would try to solve the problem.",
+  "target_section": "If something goes wrong",
+  "placement": "Where to complain, in Malaysia and from Bangladesh",
+  "why_new": "The guide gives his email and phone but not the Facebook page as a channel the labour wing says it takes; no page address is printed, so a reviewer may need to add it.",
+  "published": "2026-06-02"
+ },
+ {
+  "key": "MY3f-39",
+  "fact_ids": [
+   "MP0333",
+   "MP0334"
+  ],
+  "claim": "In June 2026 all workers at Aerofoam Manufacturing (1969) Sdn Bhd, a Malaysian maker of bedding products employing Bangladeshis, had gone three months without wages, according to documents of the Migrant Welfare Network (MWN), a rights platform for Bangladeshi migrants; they could not meet daily costs or send money home, and many who had borrowed at high interest to migrate could not pay their instalments.",
+  "target_section": "If something goes wrong",
+  "placement": "If you aren't paid (case)",
+  "why_new": "The guide mentions 'nearly three [months] at Aerofoam' [F0038] only; MWN as a source of help is not in the guide.",
+  "published": "2026-06-08"
+ },
+ {
+  "key": "MY3f-41",
+  "fact_ids": [
+   "MP0337",
+   "MP0338",
+   "MP0339"
+  ],
+  "claim": "The Aerofoam workers alleged in June 2026 that the company held most of their passports, forced them to work overtime against their will without enough rest, gave no transport to the workplace and had no working grievance mechanism; their complaint to JTK demanded payment of arrears, return of passports, an end to forced overtime, a safe workplace, an investigation of high recruitment fees and no retaliation against them.",
+  "target_section": "If something goes wrong",
+  "placement": "If you are abused, denied food or medical care, or your passport is taken (case)",
+  "why_new": "Shows what a collective JTK complaint asked for; outcome not reported.",
+  "published": "2026-06-08"
+ },
+ {
+  "key": "MY3e-81",
+  "fact_ids": [
+   "MP0764",
+   "MP0765",
+   "MP0766"
+  ],
+  "claim": "Md Jahangir Alam, 40, of Satkhira, who went to Malaysia through a broker at great cost in 2018, fell seriously ill there with a severe stomach problem, lost everything to brokers in the name of treatment in Malaysia without getting proper care, came home on 17 February 2026 and died on 19 February at Dhaka Medical College Hospital, where no ICU bed could be found for him.",
+  "target_section": "If you are injured or fall ill",
+  "placement": "other: Cases (the section under If a worker dies, is injured or loses the job)",
+  "why_new": "Case of brokers exploiting sick workers for 'treatment' in Malaysia; the article does not say whether he was documented.",
+  "published": "2026-02-24"
+ },
+ {
+  "key": "MY3e-82",
+  "fact_ids": [
+   "MP0767",
+   "MP0768"
+  ],
+  "claim": "His son Afzal Hossain, 18, said the family had to mortgage land and sell cattle to pay for his treatment in Malaysia and his hospital costs after he came home, and that he had been unable to send money home regularly.",
+  "target_section": "If you are injured or fall ill",
+  "placement": "same case",
+  "why_new": "Cost of illness falling on the family.",
+  "published": "2026-02-24"
+ },
+ {
+  "key": "MY3a-6",
+  "fact_ids": [
+   "MP0006",
+   "MP0007"
+  ],
+  "claim": "Malaysia's human resources minister said in January 2024 that 751 Bangladeshi migrant workers had filed cases with Malaysia's Labour Department claiming unpaid wages of about Tk 5.11 crore (at RM1 = Tk 23.26).",
+  "target_section": "If you aren't paid",
+  "placement": "Cases",
+  "why_new": "A count of Bangladeshi wage claims at the Labour Department, not in the guide.",
+  "published": "2024-01-17"
+ },
+ {
+  "key": "MY3a-8",
+  "fact_ids": [
+   "MP0009"
+  ],
+  "claim": "Malaysia's home minister said in January 2024 that the government would also allow workers to be transferred between sectors in line with quotas.",
+  "target_section": "If you want to change employer",
+  "placement": "When it is allowed",
+  "why_new": "Bears on the guide's Need to know on whether cross-sector moves are possible [J0063, F0077].",
+  "published": "2024-01-17"
+ },
+ {
+  "key": "MY3a-23",
+  "fact_ids": [
+   "MP0027",
+   "MP0028",
+   "MP0029"
+  ],
+  "claim": "Malaysia's tourism minister told its parliament that 3,604 Bangladeshis held MM2H passes on 31 January 2024, the fifth-largest group after China, Australia, South Korea and Japan, out of 56,066 active pass holders including dependants; Bangladeshis had once been third.",
+  "target_section": "MM2H (Malaysia My Second Home)",
+  "placement": "other: numbers",
+  "why_new": "Bangladeshi MM2H numbers are not in the guide.",
+  "published": "2024-03-31"
+ },
+ {
+  "key": "MY3a-24",
+  "fact_ids": [
+   "MP0030",
+   "MP0031",
+   "MP0032"
+  ],
+  "claim": "Prothom Alo reported in March 2024 that under the December 2023 restructuring, MM2H applicants had to be 30 or older and hold a fixed deposit of RM5 million (Platinum), RM2 million (Gold) or RM500,000 (Silver), and spend 60 days a year in Malaysia.",
+  "target_section": "MM2H (Malaysia My Second Home)",
+  "placement": "Tiers",
+  "why_new": "CONFLICT with the guide (official sources): age 25+ [Z0041], deposits USD 150,000/500,000/1,000,000 [E0106], 90 days a year for under-50s [E0103]. Likely the 2024 article reflects the December 2023 rules since revised; keep the guide's version unless re-verified.",
+  "published": "2024-03-31"
+ },
+ {
+  "key": "MY3a-25",
+  "fact_ids": [
+   "MP0033",
+   "MP0034"
+  ],
+  "claim": "Prothom Alo reported in March 2024 that Bangladesh Bank had permitted only a small number of institutions to invest abroad, and that there were allegations that money laundered out of Bangladesh was being invested in Malaysian 'second homes'.",
+  "target_section": "MM2H (Malaysia My Second Home)",
+  "placement": "How to apply, item 1",
+  "why_new": "Supports the guide's point that money for MM2H can't legally leave Bangladesh [N0051].",
+  "published": "2024-03-31"
+ },
+ {
+  "key": "MY3b-44",
+  "fact_ids": [
+   "MP0187"
+  ],
+  "claim": "As of September 2024, 3,604 Bangladeshis had settled in Malaysia under its \"Second Home\" programme, Prothom Alo reported.",
+  "target_section": "MM2H (Malaysia My Second Home)",
+  "placement": "other: the numbers",
+  "why_new": "The MM2H section has no count of Bangladeshi participants.",
+  "published": "2024-09-22"
+ },
+ {
+  "key": "MY3e-72",
+  "fact_ids": [
+   "MP0744"
+  ],
+  "claim": "Prothom Alo reported in December 2025 that 3,604 Bangladeshis had joined MM2H by 2024, fourth among nationalities, and that a 5-year visa comes with an investment of Tk 3 crore 60 lakh and a 20-year visa with more, on condition of investing in property.",
+  "target_section": "MM2H (Malaysia My Second Home)",
+  "placement": "other: Bangladeshi uptake",
+  "why_new": "Bangladeshi MM2H count; guide notes Bangladesh Bank had not approved sending money abroad for MM2H [N0051], which this number sits uneasily with.",
+  "published": "2025-12-14"
+ },
+ {
+  "key": "MY3d-41",
+  "fact_ids": [
+   "MP0571",
+   "MP0572",
+   "MP0573"
+  ],
+  "claim": "Malaysia's home minister, Saifuddin Nasution Ismail, said on 27 June 2025 that police had arrested 36 Bangladeshis on allegations of direct involvement in a 'radical militant movement', in three phases of operations in Selangor and Johor from 24 April 2025; five were charged under 6A of Malaysia's Penal Code, which applies to terrorism-related offences, at the Shah Alam and Johor Bahru sessions courts, removal orders were issued for 15, and 16 were still under investigation.",
+  "target_section": "NEW: Militancy and terrorism charges (after What can get you jailed or deported > Drugs)",
+  "placement": "other: new H4 under What can get you jailed or deported",
+  "why_new": "Guide has nothing on terrorism/militancy arrests of Bangladeshi workers.",
+  "published": "2025-06-27"
+ },
+ {
+  "key": "MY3d-42",
+  "fact_ids": [
+   "MP0574",
+   "MP0575"
+  ],
+  "claim": "The home minister said police found the group, inspired by Islamic State ideology, had formed a cell to spread extremism within its own community, radicalise people, raise money for terrorist activities and work to overthrow the legitimate government of its home country.",
+  "target_section": "NEW: Militancy and terrorism charges (after What can get you jailed or deported > Drugs)",
+  "placement": "other: new H4",
+  "why_new": "What the cell was accused of; not in guide.",
+  "published": "2025-06-27"
+ },
+ {
+  "key": "MY3d-43",
+  "fact_ids": [
+   "MP0576",
+   "MP0577",
+   "MP0578"
+  ],
+  "claim": "Malaysia's police chief, Khalid Ismail, told a press conference in Kuala Lumpur on 4 July 2025, as reported by Reuters and citing intelligence, that the ring targeted other Bangladeshi workers to recruit members and spread extremist ideology through social media and online messaging platforms, that those detained sent money to Islamic State in Syria and Bangladesh, and that 100 to 150 people might be involved; those less involved would be sent home and those deeply involved dealt with under Malaysian law.",
+  "target_section": "NEW: Militancy and terrorism charges (after What can get you jailed or deported > Drugs)",
+  "placement": "other: new H4",
+  "why_new": "How recruitment of workers into the cell worked, per police; not in guide.",
+  "published": "2025-07-04"
+ },
+ {
+  "key": "MY3d-44",
+  "fact_ids": [
+   "MP0579",
+   "MP0580",
+   "MP0581"
+  ],
+  "claim": "The expatriates' welfare adviser, Asif Nazrul, told Prothom Alo on the night of 4 July 2025 that three of the arrested workers had already returned to Bangladesh and were being questioned, that everyone returned on this allegation would be questioned, and that those against whom proof of involvement was found would be put on trial.",
+  "target_section": "NEW: Militancy and terrorism charges (after What can get you jailed or deported > Drugs)",
+  "placement": "other: new H4",
+  "why_new": "What happens on return to Bangladesh after deportation on such charges; not in guide.",
+  "published": "2025-07-04"
+ },
+ {
+  "key": "MY3d-45",
+  "fact_ids": [
+   "MP0582",
+   "MP0583",
+   "MP0584"
+  ],
+  "claim": "Bangladesh's foreign ministry said on 5 July 2025 that the High Commission in Kuala Lumpur contacted Malaysian authorities right after the arrests, that Bangladesh had formally asked for the identities of those held and the charges against them, that it would cooperate fully with Malaysia's investigation, and that the High Commission would give Bangladeshis the help they needed.",
+  "target_section": "NEW: Militancy and terrorism charges (after What can get you jailed or deported > Drugs)",
+  "placement": "other: new H4",
+  "why_new": "Government response; low priority.",
+  "published": "2025-07-05"
+ },
+ {
+  "key": "MY3d-46",
+  "fact_ids": [
+   "MP0585"
+  ],
+  "claim": "Malaysia's police chief said all those detained had been working in factories, construction and services in Malaysia.",
+  "target_section": "NEW: Militancy and terrorism charges (after What can get you jailed or deported > Drugs)",
+  "placement": "other: new H4",
+  "why_new": "Confirms those arrested were ordinary workers; not in guide.",
+  "published": "2025-07-05"
+ },
+ {
+  "key": "MY3d-47",
+  "fact_ids": [
+   "MP0586",
+   "MP0587",
+   "MP0588"
+  ],
+  "claim": "Bangladesh High Commission sources in Kuala Lumpur said in July 2025 that the Royal Malaysia Police counter-terrorism division had arrested 35, not 36, Bangladeshis between April and June 2025; 14 of them had overstayed their visas and were handed to immigration, six of whom had been sent back to Bangladesh, five were charged with terrorism offences, and 16 were under further investigation.",
+  "target_section": "NEW: Militancy and terrorism charges (after What can get you jailed or deported > Drugs)",
+  "placement": "other: new H4",
+  "why_new": "Conflict between Malaysian (36) and High Commission (35) counts; shows overstayers arrested in such raids are handed to immigration and deported.",
+  "published": "2025-07-08"
+ },
+ {
+  "key": "MY3d-48",
+  "fact_ids": [
+   "MP0589",
+   "MP0590",
+   "MP0591"
+  ],
+  "claim": "The five charged were held in two prisons, two in Selangor and three in Johor Bahru, and High Commission officials were due to visit them on 9 July 2025 to give consular service after the prison authorities gave permission, to learn whether they needed legal or other basic help.",
+  "target_section": "NEW: Militancy and terrorism charges (after What can get you jailed or deported > Drugs)",
+  "placement": "other: new H4",
+  "why_new": "How consular access to a jailed Bangladeshi works in practice; complements 'After arrest'.",
+  "published": "2025-07-08"
+ },
+ {
+  "key": "MY3e-23",
+  "fact_ids": [
+   "MP0647"
+  ],
+  "claim": "Malaysia's Home Ministry said in August 2025 that 790 Bangladeshis who had overstayed their visas or whose work permits had expired had been detained.",
+  "target_section": "No valid pass or passport",
+  "placement": "other: numbers",
+  "why_new": "Official detention figure; the article gives no period.",
+  "published": "2025-08-26"
+ },
+ {
+  "key": "MY3e-57",
+  "fact_ids": [
+   "MP0715",
+   "MP0716",
+   "MP0717"
+  ],
+  "claim": "On 20 November 2025 Immigration raided commercial areas, construction sites and vegetable farms in four areas of Cameron Highlands, Pahang, checked 1,886 foreigners and arrested 468, 174 of them Bangladeshi, for offences such as expired passports and no travel documents; some showed temporary work permits that appeared fake, Immigration's Director General Zakaria Shaaban said.",
+  "target_section": "No valid pass or passport",
+  "placement": "other: Cases",
+  "why_new": "Raid case with fake-permit detail.",
+  "published": "2025-11-21"
+ },
+ {
+  "key": "MY3e-59",
+  "fact_ids": [
+   "MP0720",
+   "MP0721",
+   "MP0722"
+  ],
+  "claim": "Zakaria Shaaban said intelligence showed Cameron Highlands had become an attractive work centre for foreigners, drawn by its hills and distance from towns, and that local businesses often prefer to hire them; the raids followed complaints from local people.",
+  "target_section": "No valid pass or passport",
+  "placement": "other: why there",
+  "why_new": "Where undocumented work concentrates; may fit Irregular routes instead.",
+  "published": "2025-11-21"
+ },
+ {
+  "key": "MY3e-63",
+  "fact_ids": [
+   "MP0731"
+  ],
+  "claim": "Citing Malaysian media, Prothom Alo reported in December 2025 that 182 Bangladeshis were detained in November alone and 377 in one raid in September, and added that Bangladeshis are detained in almost every Malaysian Immigration raid and are later sent home.",
+  "target_section": "No valid pass or passport",
+  "placement": "other: Cases / numbers",
+  "why_new": "Recent arrest counts.",
+  "published": "2025-12-14"
+ },
+ {
+  "key": "MY3e-60",
+  "fact_ids": [
+   "MP0723",
+   "MP0724",
+   "MP0725"
+  ],
+  "claim": "Bangladesh Krishi Bank, the second-largest collector of remittances in January to November 2025 (USD 277 crore), receives the most from Malaysia's Merchantrade, and also from CBL Money and NBL Money in Malaysia; its general manager said families can now receive the money directly into their own account, 24 hours a day through Bangladesh Bank, instead of collecting it with a secret PIN.",
+  "target_section": "Sending money home",
+  "placement": "other: which remitters reach which bank",
+  "why_new": "Guide lists Merchantrade, CBL and NBL as remitters to bKash; adds the Krishi Bank payout route with its 1,038 rural branches.",
+  "published": "2025-12-06"
+ },
+ {
+  "key": "MY3e-61",
+  "fact_ids": [
+   "MP0726",
+   "MP0727"
+  ],
+  "claim": "Krishi Bank has 1,038 branches and 5 sub-branches across Bangladesh, more than any other bank in remote areas, and has run several savings schemes for migrants that held about Tk 220 crore by December 2025.",
+  "target_section": "Sending money home",
+  "placement": "other",
+  "why_new": "Rural payout network; low priority.",
+  "published": "2025-12-06"
+ },
+ {
+  "key": "MY3h-14",
+  "fact_ids": [
+   "MP0433"
+  ],
+  "claim": "The expatriates' welfare secretary said on 16 September 2026 that a mobile court had sealed the office of Triple A Overseas, fined it and seized three boxes of passports.",
+  "target_section": "Step 1: Find a real job",
+  "placement": "\"Before paying\" (Triple A Overseas line)",
+  "why_new": "Adds the scale (three boxes of passports) to the guide's 10 September Triple A raid [A0043].",
+  "published": "2026-09-16"
+ },
+ {
+  "key": "MY3h-25",
+  "fact_ids": [
+   "MP0443",
+   "MP0444",
+   "MP0445"
+  ],
+  "claim": "BOESL's DHL Supply Chain (Malaysia) circular of November 2026 had two posts: Operations Assistant, needing at least SSC, English reading, writing and communication, physical fitness for warehouse work and one to two years' experience, with forklift, power pallet truck or reach truck skills a plus; and Technical Skill Workers, needing at least HSC and good knowledge of warehouse network cabling, racking and IT equipment, with electrical vocational, polytechnic or degree holders preferred.",
+  "target_section": "Step 1: Find a real job",
+  "placement": "Step 1, item 3 (BOESL DHL example)",
+  "why_new": "The guide gives the age limit and SSC/HSC but not the posts or their skill requirements.",
+  "published": "2026-11-06"
+ },
+ {
+  "key": "MY3h-26",
+  "fact_ids": [
+   "MP0446",
+   "MP0447"
+  ],
+  "claim": "The DHL circular offered a three-year renewable contract at RM1,700 (about Tk 52,000) a month, eight hours a day, six days a week, with overtime as the company needs and Malaysian labour law allows, and said the employer would provide housing, first aid and transport.",
+  "target_section": "Step 1: Find a real job",
+  "placement": "Step 1, item 3 (BOESL DHL example)",
+  "why_new": "Contract length, hours and what the employer provides are not in the guide's DHL example.",
+  "published": "2026-11-06"
+ },
+ {
+  "key": "MY3h-27",
+  "fact_ids": [
+   "MP0448"
+  ],
+  "claim": "Under the DHL circular, a software lottery first picks 300 applicants, whose list BOESL posts on its website, and the employer's representatives then choose the final 112 by technical and oral tests.",
+  "target_section": "Step 1: Find a real job",
+  "placement": "Step 1, item 3, sub-step 3",
+  "why_new": "Adds the shortlist size (300 for 112 places).",
+  "published": "2026-11-06"
+ },
+ {
+  "key": "MY3h-33",
+  "fact_ids": [
+   "MP0451",
+   "MP0452"
+  ],
+  "claim": "BOESL held the DHL lottery electronically on 8 November 2026 at the Probashi Kallyan Bhaban auditorium, with Ministry representatives, BOESL officials and journalists present, picking 300 of 4,029 applicants (200 for Operations Assistant, 100 for Technical Skill Workers) for practical and oral tests before DHL's representatives.",
+  "target_section": "Step 1: Find a real job",
+  "placement": "Step 1, item 3 (BOESL DHL example)",
+  "why_new": "Gives the odds (about 1 in 36 applicants reached the final 112) and how the lottery was run.",
+  "published": "2026-11-08"
+ },
+ {
+  "key": "MY3h-36",
+  "fact_ids": [
+   "MP0455",
+   "MP0456"
+  ],
+  "claim": "The Ministry said on 12 November 2026 that a nine-member delegation from Malaysia would hold practical tests and interviews of the 300 shortlisted DHL candidates from 12 to 15 November, that BOESL would not interfere in the selection, and that the candidates the employer picks are final.",
+  "target_section": "Step 1: Find a real job",
+  "placement": "Step 1, item 3, sub-step 4",
+  "why_new": "Adds who runs the selection test and that BOESL has no say, which matters for anyone offered a 'BOESL place' for money.",
+  "published": "2026-11-12"
+ },
+ {
+  "key": "MY3h-37",
+  "fact_ids": [
+   "MP0457"
+  ],
+  "claim": "BOESL's managing director said on 12 November 2026 that if any broker, middleman or unauthorised person tries to take money at any stage of the recruitment, or any candidate takes part in an unethical transaction, strict legal action will be taken against both on proof.",
+  "target_section": "Step 1: Find a real job",
+  "placement": "Step 1, item 3 (warning paragraph)",
+  "why_new": "New: the candidate who pays is also liable, not only the broker.",
+  "published": "2026-11-12"
+ },
+ {
+  "key": "MY3h-7",
+  "fact_ids": [
+   "MP0423",
+   "MP0424"
+  ],
+  "claim": "The Ministry said on 28 August 2026 that Bangladesh had asked to change the approved medical centres, that a joint delegation of Malaysia's health, human resources and home ministries had inspected every centre in Bangladesh, and that Malaysia had decided to start with the remaining 16 centres on its existing list after dropping, at Bangladesh's request, controversial centres linked to the previous government.",
+  "target_section": "Step 2: Medical check in Bangladesh (Bio-Medical), once your VDR is approved",
+  "placement": "\"Not yet\" paragraph (timeline of approved centres)",
+  "why_new": "The guide gives 46 centres sent for vetting (4 November) and no approved centre; this gives an earlier figure of 16 and conflicts with the 51 approved reported on 19 November.",
+  "published": "2026-08-28"
+ },
+ {
+  "key": "MY3h-22",
+  "fact_ids": [
+   "MP0439",
+   "MP0440"
+  ],
+  "claim": "The Ministry said on 15 October 2026 that the medical checks would start through the centres listed on Malaysia's website, that Bangladesh had asked for the existing centres to be changed and a joint Malaysian delegation would give final approval after inspecting each centre, and that any new centre added would be published on that website.",
+  "target_section": "Step 2: Medical check in Bangladesh (Bio-Medical), once your VDR is approved",
+  "placement": "\"Not yet\" paragraph (timeline of approved centres)",
+  "why_new": "Adds the 15 October position (start with centres on Malaysia's website), between the 28 August '16 centres' and the 4 November '46 sent for vetting'.",
+  "published": "2026-10-15"
+ },
+ {
+  "key": "MY3h-24",
+  "fact_ids": [
+   "MP0442"
+  ],
+  "claim": "The Ministry's instructions of 28 October 2026 say a medical centre or recruiting agency that disobeys them may have its operations shut (centre) or its overseas recruitment suspended and Ministry approval cancelled (agency).",
+  "target_section": "Step 2: Medical check in Bangladesh (Bio-Medical), once your VDR is approved",
+  "placement": "Scams / penalties for centres and agencies",
+  "why_new": "The guide says a centre is removed from the list [Z0160] but not the penalty on agencies.",
+  "published": "2026-10-28"
+ },
+ {
+  "key": "MY3h-43",
+  "fact_ids": [
+   "MP0465",
+   "MP0466"
+  ],
+  "claim": "Workers had started Malaysia medical tests by 19 November 2026, and 51 medical centres had been approved from Malaysia to run them, the Ministry said.",
+  "target_section": "Step 2: Medical check in Bangladesh (Bio-Medical), once your VDR is approved",
+  "placement": "\"Not yet\" paragraph: replace with current status",
+  "why_new": "CONFLICT: the guide says no centre is approved and medicals have not started (as of 4 November), and gives 46 centres sent for vetting; the In one minute and Status lines also need updating.",
+  "published": "2026-11-19"
+ },
+ {
+  "key": "MY3h-44",
+  "fact_ids": [
+   "MP0467"
+  ],
+  "claim": "Under the Ministry's 11 instructions of 19 November 2026, a medical centre may issue medical slips only for the number of workers in the Malaysian employer's demand letter plus at most 5%, and may not issue more on its own or to send extra workers.",
+  "target_section": "Step 2: Medical check in Bangladesh (Bio-Medical), once your VDR is approved",
+  "placement": "item 2 / centre rules",
+  "why_new": "New rule; lets a worker check that a slip is tied to a real demand letter.",
+  "published": "2026-11-19"
+ },
+ {
+  "key": "MY3h-45",
+  "fact_ids": [
+   "MP0468",
+   "MP0469",
+   "MP0470"
+  ],
+  "claim": "The 19 November 2026 instructions say a centre must not deliberately declare a worker unfit to make him test again, must not make or use fake reports, must charge nothing above Tk 8,000 and nothing in the name of MiGRAMS, and must report each day's tests online to the Ministry with each worker's name, passport number and visa number.",
+  "target_section": "Step 2: Medical check in Bangladesh (Bio-Medical), once your VDR is approved",
+  "placement": "item 2 / centre rules",
+  "why_new": "New: bans the 'unfit, pay to retest' trick for Malaysia and shows the centre records the passport and visa numbers.",
+  "published": "2026-11-19"
+ },
+ {
+  "key": "MY3h-46",
+  "fact_ids": [
+   "MP0471"
+  ],
+  "claim": "Under the 19 November 2026 instructions, if a worker declared fit in Bangladesh is found unfit in Malaysia before being employed, the medical centre must bear all the worker's related costs, including sending him home.",
+  "target_section": "Step 2: Medical check in Bangladesh (Bio-Medical), once your VDR is approved",
+  "placement": "item 2, after 'If you pass'",
+  "why_new": "New: who pays if FOMEMA fails a worker the Dhaka centre passed; the guide (After you arrive; Step 1 item 5 'After you land') says the employer sends him home and the worker keeps the debt.",
+  "published": "2026-11-19"
+ },
+ {
+  "key": "MY3h-47",
+  "fact_ids": [
+   "MP0472",
+   "MP0473"
+  ],
+  "claim": "The 19 November 2026 instructions require every approved centre to put up a large, visible billboard at its entrance, and say a centre that breaks the conditions faces forfeiture of its security deposit and cancellation of its licence, with a Ministry monitoring team overseeing them.",
+  "target_section": "Step 2: Medical check in Bangladesh (Bio-Medical), once your VDR is approved",
+  "placement": "item 1 (Check the centre is approved)",
+  "why_new": "New: a visible sign a worker can check at the door; the article does not say what the billboard must show.",
+  "published": "2026-11-19"
+ },
+ {
+  "key": "MY3a-34",
+  "fact_ids": [
+   "MP0044"
+  ],
+  "claim": "The Wage Earners' Welfare Board's director general said in May 2024 that a Tk 1,000 insurance premium is paid in the name of zero-cost BOESL workers too, giving them five years' insurance cover and the Board's other help.",
+  "target_section": "Step 6: Orientation, BMET clearance and the flight",
+  "placement": "other: insurance",
+  "why_new": "Confirms zero-cost workers are insured; relevant to the 'zero cost' Need to know.",
+  "published": "2024-05-16"
+ },
+ {
+  "key": "MY3a-38",
+  "fact_ids": [
+   "MP0052",
+   "MP0053"
+  ],
+  "claim": "Prothom Alo reported in May 2024 that in normal times the cheapest Dhaka-Kuala Lumpur ticket cost Tk 24,000 to 25,000, against Tk 14,000 to 15,000 from Kolkata, and the flight from Dhaka takes 3 hours 55 minutes.",
+  "target_section": "Step 6: Orientation, BMET clearance and the flight",
+  "placement": "item 4 (The ticket)",
+  "why_new": "Normal fare level, useful against the Tk 45,000 airfare in BOESL's 2025 costing [YI0025].",
+  "published": "2024-05-27"
+ },
+ {
+  "key": "MY3f-55",
+  "fact_ids": [
+   "MP0364"
+  ],
+  "claim": "More than 10,000 Bangladeshi students were studying at Malaysian universities in June 2026, Prothom Alo reported.",
+  "target_section": "Student visa (Student Pass)",
+  "placement": "other: size",
+  "why_new": "The student section gives no number of Bangladeshi students.",
+  "published": "2026-06-16"
+ },
+ {
+  "key": "MY3g-7",
+  "fact_ids": [
+   "MP0376"
+  ],
+  "claim": "Bangladeshi diplomats told Prothom Alo in June 2026 that at least 11,000 Bangladeshi students were studying in Malaysia, the second-largest group of foreign students after the Chinese (about 62,000).",
+  "target_section": "Student visa (Student Pass)",
+  "placement": "other: opening paragraph, scale",
+  "why_new": "The guide's Student visa section gives no count of Bangladeshi students.",
+  "published": "2026-06-22"
+ },
+ {
+  "key": "MY3d-56",
+  "fact_ids": [
+   "MP0609",
+   "MP0610"
+  ],
+  "claim": "At the Chief Adviser's meeting with Bangladeshis in Kuala Lumpur on 12 August 2025, the problems discussed included more staff at the mission, a 'graduate plus' visa for Bangladeshi students, and regularising those who had become irregular.",
+  "target_section": "Visas not open to Bangladeshis",
+  "placement": "other: Graduate Pass item",
+  "why_new": "Shows Bangladeshi students lacked a post-study visa in August 2025 and regularisation was unresolved; consistent with guide.",
+  "published": "2025-08-12"
+ },
+ {
+  "key": "MY3f-42",
+  "fact_ids": [
+   "MP0340",
+   "MP0341"
+  ],
+  "claim": "Lal Mia, 54, of Chhoto Amian village, Shalikha, Magura, said he paid a broker Tk 2.5 lakh in 2006 and Tk 3 lakh in 2010 to go to Malaysia, never went and never got the money back; across four attempts from 2002 to 2012 (also Saudi Arabia and Dubai) he paid about Tk 10.5 lakh, selling four bighas of farmland and his 12.5-decimal homestead, and in June 2026 lived in a house on someone else's land, selling eggs by bicycle.",
+  "target_section": "Work visa: company worker (PLKS)",
+  "placement": "Step 1: Find a real job > If an agency or broker takes your money (case)",
+  "why_new": "An older case (2006, 2010) of repeated loss to brokers; the guide's cases are 2022-26. Low priority.",
+  "published": "2026-06-10"
+ },
+ {
+  "key": "MY3f-50",
+  "fact_ids": [
+   "MP0356",
+   "MP0357"
+  ],
+  "claim": "Malaysia's Human Resources Minister Ramanan Ramakrishnan proposed a new system called 'Turap' to stop the exploitation of Bangladeshi workers at village level; Turap is also built by Bestinet, and some stakeholders in Bangladesh and Malaysia suspect it is another way to keep recruitment concentrated in a few firms, Prothom Alo reported from The Edge on 16 June 2026.",
+  "target_section": "Work visa: company worker (PLKS)",
+  "placement": "Step 1: Find a real job (TURAP)",
+  "why_new": "The guide says only that TURAP was approved by Malaysia's Cabinet in April 2026 and has not launched; that Bestinet built it and the concentration concern are new.",
+  "published": "2026-06-16"
+ },
+ {
+  "key": "MY3f-40",
+  "fact_ids": [
+   "MP0335",
+   "MP0336"
+  ],
+  "claim": "About 35 Aerofoam workers who entered Malaysia legally had no valid work permit (PLKS) in June 2026 because the company did not renew it on time, leaving them in fear of arrest or fines; their written complaint to the Labour Department (Jabatan Tenaga Kerja, JTK) asked that the 35 workers' visas and permits be regularised quickly.",
+  "target_section": "Your residence permit",
+  "placement": "How long you can stay and renewing (case for the Need to know on unrenewed passes)",
+  "why_new": "Partly answers the guide's Need to know 'Does the Labour Department take a complaint about a pass that isn't renewed?': workers did file one with JTK; the outcome is not reported.",
+  "published": "2026-06-08"
+ }
+]

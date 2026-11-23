@@ -1,0 +1,1612 @@
+[
+ {
+  "key": "MY3f-1",
+  "fact_ids": [
+   "MP0300"
+  ],
+  "claim": "On 24 March 2026 the state minister for expatriates' welfare, Md Nurul Haque Nur, said government-level talks were under way to open the Malaysian and Vietnamese labour markets quickly and that he hoped for a positive response soon.",
+  "target_section": "Is it open now, and who can go?",
+  "placement": "Status",
+  "why_new": "Adds a dated March 2026 point to the Status timeline, which jumps from 31 May 2024 to June 2026.",
+  "published": "2026-03-24"
+ },
+ {
+  "key": "MY3f-15",
+  "fact_ids": [
+   "MP0312",
+   "MP0313"
+  ],
+  "claim": "On 5 April 2026 the expatriates' welfare minister, Ariful Haque Chowdhury, told parliament that the government was not interested in sending workers to Malaysia through a syndicate of a limited number of recruiting agencies as before, that it was trying to keep the market open to all eligible licensed agencies, and that it was corresponding with the Malaysian authorities through the Bangladesh High Commission.",
+  "target_section": "Is it open now, and who can go?",
+  "placement": "Status",
+  "why_new": "The guide has the minister's 5 November 2026 wish that every licensed agency be allowed in; this shows the same position stated in April, before Malaysia chose 25.",
+  "published": "2026-04-05"
+ },
+ {
+  "key": "MY3f-17",
+  "fact_ids": [
+   "MP0314",
+   "MP0315"
+  ],
+  "claim": "On 9 April 2026 Bangladesh and Malaysia held a bilateral labour-migration meeting in Putrajaya, led by Malaysia's Human Resources Minister Ramanan Ramakrishnan and Bangladesh's expatriates' welfare minister Ariful Haque Chowdhury, and agreed to speed up reopening the market to Bangladeshi workers based on Malaysia's sector-wise demand, with a fair, ethical and transparent recruitment process, the Prime Minister's adviser Mahdi Amin said.",
+  "target_section": "Is it open now, and who can go?",
+  "placement": "Status",
+  "why_new": "The Status timeline has no April 2026 entry; the guide cites only 'April 2026 both governments said employers will bear the full cost' [A0097].",
+  "published": "2026-04-09"
+ },
+ {
+  "key": "MY3f-18",
+  "fact_ids": [
+   "MP0316"
+  ],
+  "claim": "The two governments' joint press statement of 9 April 2026 said steps would be taken to cut migration cost by reducing intermediaries, to use credible recruiting agencies, and to complete quickly the recruitment of workers who are stuck.",
+  "target_section": "Is it open now, and who can go?",
+  "placement": "Status",
+  "why_new": "Commitment to the stuck workers and to fewer intermediaries is not in the guide.",
+  "published": "2026-04-09"
+ },
+ {
+  "key": "MY3f-21",
+  "fact_ids": [
+   "MP0320",
+   "MP0321"
+  ],
+  "claim": "On 12 April 2026 the Prime Minister's adviser Mahdi Amin said reopening the Malaysian market was a procedural matter being worked on as fast as possible, gave no date, and said Bangladesh had asked Malaysia to do whatever was needed to make the process syndicate-free.",
+  "target_section": "Is it open now, and who can go?",
+  "placement": "Status",
+  "why_new": "Dated April 2026 status point; Bangladesh's ask to Malaysia on the syndicate is not in the guide.",
+  "published": "2026-04-12"
+ },
+ {
+  "key": "MY3f-22",
+  "fact_ids": [
+   "MP0322"
+  ],
+  "claim": "Speaking in Sylhet on 12 April 2026 about his Malaysia visit, the expatriates' welfare minister Ariful Haque Chowdhury said 'we have signed a joint venture, it is in our favour' and called the meeting very fruitful, without saying what was signed.",
+  "target_section": "Is it open now, and who can go?",
+  "placement": "Status",
+  "why_new": "The minister claims something was signed in April; the joint statement (article dc450226) mentions no signed agreement. A reviewer may want a Need to know on what, if anything, was signed.",
+  "published": "2026-04-12"
+ },
+ {
+  "key": "MY3f-23",
+  "fact_ids": [
+   "MP0323"
+  ],
+  "claim": "Prime Minister Tarique Rahman told parliament on 15 April 2026 that the government was working to open the Malaysian labour market and that the minister and adviser in charge of the expatriates' welfare ministry had visited Malaysia on 8 to 11 April.",
+  "target_section": "Is it open now, and who can go?",
+  "placement": "Status",
+  "why_new": "Gives the dates of the April ministerial visit.",
+  "published": "2026-04-15"
+ },
+ {
+  "key": "MY3f-43",
+  "fact_ids": [
+   "MP0342",
+   "MP0343"
+  ],
+  "claim": "In parliament on 10 June 2026 the home minister, Salahuddin Ahmed, said the Prime Minister's first visit abroad had been fixed for Malaysia, to open its labour market, and the state minister for expatriates' welfare, Nurul Haque, said the market opens and closes again, was closed then, that MPs wanted no syndicate there, and that the Prime Minister had given strict instructions that the government must not be given a bad name.",
+  "target_section": "Is it open now, and who can go?",
+  "placement": "Status",
+  "why_new": "Dated June 2026 status point before the PM's visit.",
+  "published": "2026-06-10"
+ },
+ {
+  "key": "MY3f-45",
+  "fact_ids": [
+   "MP0344",
+   "MP0345"
+  ],
+  "claim": "Dr Selim Reza of North South University's Centre for Migration Studies wrote in Prothom Alo on 16 June 2026 that sending workers to Malaysia began in 1978 with a few workers, and that the market closed in 2008, reopened in 2016, closed in 2018, reopened in a new form in 2022 and was suspended again in 2024.",
+  "target_section": "Is it open now, and who can go?",
+  "placement": "What closed it before (conflict on 2008/2009)",
+  "why_new": "CONFLICT: the guide (What closed it before) dates the first closure to 2009 (freeze after 2007-08 surge); this column says 2008. The 1978 start is new.",
+  "published": "2026-06-16"
+ },
+ {
+  "key": "MY3f-48",
+  "fact_ids": [
+   "MP0349",
+   "MP0350",
+   "MP0351",
+   "MP0352"
+  ],
+  "claim": "Prothom Alo, drawing on Malaysia's The Edge, reported on 16 June 2026 that Prime Minister Tarique Rahman's first foreign visit was to be two days in Kuala Lumpur on 21 and 22 June 2026, with a bilateral meeting with Prime Minister Anwar Ibrahim on the second day; the High Commission opened formal talks on the visit with Malaysia's foreign ministry on 24 May and Anwar confirmed the invitation on 1 June, and reopening the labour market was a key priority.",
+  "target_section": "Is it open now, and who can go?",
+  "placement": "Status",
+  "why_new": "The guide's 'June 2026' entry has no dates for the visit.",
+  "published": "2026-06-16"
+ },
+ {
+  "key": "MY3f-53",
+  "fact_ids": [
+   "MP0360",
+   "MP0361"
+  ],
+  "claim": "When Malaysia stopped workers entering in early 2024, about 18,000 workers who had already paid agents in Bangladesh could not enter, and many of those agents went into hiding in the crackdown under Bangladesh's new government, The Edge reported (Prothom Alo, 16 June 2026).",
+  "target_section": "Is it open now, and who can go?",
+  "placement": "What closed it before (stranded count)",
+  "why_new": "Another stranded-worker count (about 18,000) to add to the guide's Need to know list of counts (16,970, 17,777, 31,304, about 40,000, about 11,000).",
+  "published": "2026-06-16"
+ },
+ {
+  "key": "MY3a-7",
+  "fact_ids": [
+   "MP0008"
+  ],
+  "claim": "Prothom Alo reported in January 2024 that more than 70% of foreign workers in Malaysia came from Bangladesh, Indonesia and Nepal, and the remaining 30% from India, Vietnam, Pakistan and Thailand.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Share of the foreign workforce by source country, not in Size.",
+  "published": "2024-01-17"
+ },
+ {
+  "key": "MY3a-13",
+  "fact_ids": [
+   "MP0010",
+   "MP0011"
+  ],
+  "claim": "RMMRU (Refugee and Migratory Movements Research Unit) reported in January 2024 that Malaysia was the second-largest destination for Bangladeshi workers in 2023, after Saudi Arabia, in a year when more than 13 lakh workers left Bangladesh, the most ever.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Malaysia's rank among destinations in 2023 is not in Size.",
+  "published": "2024-01-31"
+ },
+ {
+  "key": "MY3a-20",
+  "fact_ids": [
+   "MP0023",
+   "MP0024"
+  ],
+  "claim": "By BMET data reported in February 2024, 97% of workers Bangladesh sent abroad in 2019-2023 went to just 10 countries, and Malaysia was one of eight countries that took more than 10,000 a year on average.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Malaysia's place among the few large corridors (corridor comparison).",
+  "published": "2024-02-14"
+ },
+ {
+  "key": "MY3a-43",
+  "fact_ids": [
+   "MP0062",
+   "MP0063"
+  ],
+  "claim": "At a Ministry press conference on 2 June 2024, 101 agencies were said to have got approval for 5,26,676 workers in the 2022-24 round; not all got final approval from Malaysia, BMET cleared 4,93,642, of whom 4,76,672 went and 16,970 could not go in time.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Official totals for the 2022-24 round; the guide's Size says 'about 4.5 lakh went' [A0001], other figures 5.5 lakh [MA0070].",
+  "published": "2024-06-02"
+ },
+ {
+  "key": "MY3b-16",
+  "fact_ids": [
+   "MP0125"
+  ],
+  "claim": "At a Ministry press conference on 4 July 2024 it was stated that 5 lakh 32 thousand workers had been approved to go to Malaysia, 4 lakh 76 thousand had actually gone, and 17,000 with clearance could not go.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Conflict: the guide says about 4.5 lakh went in 2022-24 [A0001]; the Ministry's figure is 4.76 lakh, with 5.32 lakh approved.",
+  "published": "2024-07-04"
+ },
+ {
+  "key": "MY3b-24",
+  "fact_ids": [
+   "MP0142",
+   "MP0143"
+  ],
+  "claim": "Prothom Alo reported in July 2024, in an article based on a press release, that there were about 1.4 million Bangladeshi expatriates in Malaysia, besides about 5,000 Bangladeshi students.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Conflict in scale: the guide gives about 8 lakh work-pass holders [U0057]; this is a total-expatriate estimate (14 lakh) plus a student count the guide lacks.",
+  "published": "2024-07-27"
+ },
+ {
+  "key": "MY3b-53",
+  "fact_ids": [
+   "MP0200"
+  ],
+  "claim": "About eight lakh Bangladeshis were working in Malaysia in October 2024, about four and a half lakh of whom had migrated between August 2022 and May 2024, Prothom Alo reported.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Matches the guide's 8 lakh (end-2025) and 4.5 lakh; adds an October 2024 date point. Low priority.",
+  "published": "2024-10-04"
+ },
+ {
+  "key": "MY3b-54",
+  "fact_ids": [
+   "MP0201",
+   "MP0202"
+  ],
+  "claim": "On 4 October 2024 President Mohammed Shahabuddin, meeting Malaysia's Prime Minister, called Malaysia the second-largest destination for Bangladesh's workers and asked Malaysia's cooperation in sending more.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "The guide does not rank Malaysia among Bangladesh's destinations.",
+  "published": "2024-10-04"
+ },
+ {
+  "key": "MY3c-21",
+  "fact_ids": [
+   "MP0247",
+   "MP0248"
+  ],
+  "claim": "A Malaysia-based Bangladeshi expatriate with 21 years of life abroad wrote in Prothom Alo on 24 November 2024 that about 15 lakh expatriates live in Malaysia.",
+  "target_section": "Size",
+  "placement": "Stock of Bangladeshis in Malaysia",
+  "why_new": "CONFLICT: the guide says about 8 lakh held work passes at end-2025; this is a writer's unsourced estimate of all Bangladeshis living there (would include the undocumented). Use only as a Need to know if at all.",
+  "published": "2024-11-24"
+ },
+ {
+  "key": "MY3c-31",
+  "fact_ids": [
+   "MP0262"
+  ],
+  "claim": "By BMET data reported by Prothom Alo on 3 January 2025, more than 3.5 lakh workers went to Malaysia in 2023, but after the market closed in June 2024 fewer than one lakh went in all of 2024, a fall of more than two lakh.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "The guide gives 2022 and 2023 departures but no 2024 figure.",
+  "published": "2025-01-03"
+ },
+ {
+  "key": "MY3c-32",
+  "fact_ids": [
+   "MP0263",
+   "MP0264",
+   "MP0265"
+  ],
+  "claim": "In 2024, 90% of the 10 lakh Bangladeshi workers who went abroad went to five countries, Saudi Arabia, Malaysia, Qatar, Singapore and the UAE, and as of January 2025 the Malaysian and UAE markets were closed and recruitment to Oman stopped, leaving Saudi Arabia the only large market open, BMET data and Prothom Alo reported.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Corridor comparison (audit item 4: Bangladesh numbers vs other corridors); could also go CROSS-COUNTRY.",
+  "published": "2025-01-03"
+ },
+ {
+  "key": "MY3c-46",
+  "fact_ids": [
+   "MP0287"
+  ],
+  "claim": "The 2024 annual report of the digital migration platform Ami Probashi, reported on 5 February 2025, says Malaysia remained the second largest destination for Bangladeshi workers in 2024 but departures there fell sharply to 93,000, and names Malaysia's new labour policy as the main reason.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Gives a 2024 Malaysia figure (93,000), consistent with BMET's 'fewer than one lakh'; the guide has no 2024 figure. Note the Paltan case alleges the Ami Probashi app was set up by the then minister's relative.",
+  "published": "2025-02-05"
+ },
+ {
+  "key": "MY3c-55",
+  "fact_ids": [
+   "MP0291",
+   "MP0292"
+  ],
+  "claim": "A February 2025 piece in Prothom Alo's expatriate section said Bangladeshi workers are seen at every tourist spot in Cameron Highlands, Pahang, and that Bangladeshis exclusively dominate the vegetable farms there.",
+  "target_section": "Size",
+  "placement": "other: where Bangladeshis work",
+  "why_new": "Ground detail on where Bangladeshis work (agriculture in Cameron Highlands); low priority, a reader's piece.",
+  "published": "2025-02-26"
+ },
+ {
+  "key": "MY3d-14",
+  "fact_ids": [
+   "MP0506",
+   "MP0507",
+   "MP0508"
+  ],
+  "claim": "At a human chain outside Probashi Kallyan Bhaban, Eskaton, Dhaka, on 24 April 2025, BAIRA's general members said 13 countries had accepted Malaysia's conditions and kept sending workers while Bangladesh lagged behind, and estimated that a reopened Malaysia could take at least 2 lakh Bangladeshi workers a year, 10 lakh in five years, bringing at least USD 500 crore a year in remittances.",
+  "target_section": "Size",
+  "placement": "other: corridor numbers and claims",
+  "why_new": "Agency owners' projection of the corridor's size; not in guide. Low priority.",
+  "published": "2025-04-24"
+ },
+ {
+  "key": "MY3d-17",
+  "fact_ids": [
+   "MP0514",
+   "MP0515",
+   "MP0516"
+  ],
+  "claim": "The Ministry committee's report says Malaysia allocated Bangladesh a quota of 5,32,162 workers, sending ran from August 2022 to 31 May 2024, the Ministry gave recruitment permission for 5,27,999 workers, agencies took BMET smart cards for 4,93,729, and 17,777 with clearance cards (3.66%) could not go.",
+  "target_section": "Size",
+  "placement": "other: 2022-24 round",
+  "why_new": "Exact official quota and clearance figures for 2022-24; the guide says 'about 4.5 lakh'.",
+  "published": "2025-04-27"
+ },
+ {
+  "key": "MY3e-20",
+  "fact_ids": [
+   "MP0642",
+   "MP0643"
+  ],
+  "claim": "Malaysia's Home Ministry told parliament, as reported by The Star on 26 August 2025, that 803,332 Bangladeshis held valid work permits at the end of June 2025, 37% of all foreign workers, making Bangladesh the largest source of unskilled foreign workers.",
+  "target_section": "Size",
+  "placement": "other: Malaysian official numbers",
+  "why_new": "Exact official figure and date; guide has 'about 8 lakh at the end of 2025' [U0057].",
+  "published": "2025-08-26"
+ },
+ {
+  "key": "MY3e-21",
+  "fact_ids": [
+   "MP0644",
+   "MP0645"
+  ],
+  "claim": "By the same Home Ministry figures, 49,353 Bangladeshi workers entered Malaysia in 2022 and 397,548 in 2023.",
+  "target_section": "Size",
+  "placement": "other: Malaysian official numbers",
+  "why_new": "Malaysian entry counts; CONFLICT with BMET's departures cited in the guide (50,000 in 2022, more than 3.5 lakh in 2023 [MA0013]) and with 351,683 for 2023 (article c0f5665e).",
+  "published": "2025-08-26"
+ },
+ {
+  "key": "MY3e-33",
+  "fact_ids": [
+   "MP0666"
+  ],
+  "claim": "Prothom Alo reported in September 2025 that Malaysia has more than 21 lakh foreign workers, over 38% of them (more than 8 lakh) Bangladeshi.",
+  "target_section": "Size",
+  "placement": "other",
+  "why_new": "Bangladeshi share of the foreign workforce; slightly differs from the Home Ministry's 37% (article 04298691).",
+  "published": "2025-09-21"
+ },
+ {
+  "key": "MY3e-41",
+  "fact_ids": [
+   "MP0685",
+   "MP0686"
+  ],
+  "claim": "A Prothom Alo column of 10 October 2025 by Subail Bin Alam and Shafiqur Rahman put the number of Bangladeshis in Malaysia at about 12 lakh.",
+  "target_section": "Size",
+  "placement": "other: estimates of all Bangladeshis in Malaysia",
+  "why_new": "Higher than the 8 lakh work-pass holders the guide gives; an estimate of all Bangladeshis, not only pass holders.",
+  "published": "2025-10-10"
+ },
+ {
+  "key": "MY3e-65",
+  "fact_ids": [
+   "MP0733",
+   "MP0734"
+  ],
+  "claim": "Bangladeshis in Malaysia told Prothom Alo in December 2025 that about twice the number of work-permit holders actually work there, many having gone on student visas and not returned, and an IOM report said 25 lakh people who entered Malaysia to travel had not left by 2024, 38% of them Bangladeshi.",
+  "target_section": "Size",
+  "placement": "other: estimates of the undocumented",
+  "why_new": "Size of the undocumented population; guide has an activists' 100,000-200,000 jobless estimate only.",
+  "published": "2025-12-14"
+ },
+ {
+  "key": "MY3e-67",
+  "fact_ids": [
+   "MP0737",
+   "MP0738"
+  ],
+  "claim": "By the figures Prothom Alo gave in December 2025, 50,090 Bangladeshis went to Malaysia in 2022, a record 3,51,683 in 2023, 93,632 in 2024 before the ban, and 2,486 in 2025 up to May.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Exact yearly departures (guide: 50,000 and 'more than 3.5 lakh'); adds 2024 and 2025. Conflicts with Malaysia's own entry counts (49,353 and 397,548).",
+  "published": "2025-12-14"
+ },
+ {
+  "key": "MY3e-78",
+  "fact_ids": [
+   "MP0756",
+   "MP0757"
+  ],
+  "claim": "RMMRU reported that 11,30,757 Bangladeshis went abroad for work in 2025, 67% of them to Saudi Arabia, then Qatar (10%), Singapore (6%), Kuwait (4%) and the Maldives (4%).",
+  "target_section": "Size",
+  "placement": "other: Malaysia against other destinations",
+  "why_new": "Corridor comparison the format asks for: the five top destinations of 2025 listed do not include Malaysia (the article does not mention Malaysia in this list).",
+  "published": "2026-01-07"
+ },
+ {
+  "key": "MY3g-5",
+  "fact_ids": [
+   "MP0374"
+  ],
+  "claim": "Several Bangladeshis who do or did specialised work in Malaysia told Prothom Alo in June 2026 that about 10 lakh Bangladeshi workers, legal and illegal combined, were working in Malaysia.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "The guide gives about 8 lakh work-pass holders at end-2025 [U0057]; this is an informal estimate that includes undocumented workers.",
+  "published": "2026-06-22"
+ },
+ {
+  "key": "MY3g-6",
+  "fact_ids": [
+   "MP0375"
+  ],
+  "claim": "Prothom Alo wrote in June 2026 that for a decade Malaysia has been regarded as the second main destination for new recruitment of Bangladeshi workers, after Saudi Arabia.",
+  "target_section": "Size",
+  "placement": "The numbers",
+  "why_new": "Size section has no comparison with other destinations.",
+  "published": "2026-06-22"
+ },
+ {
+  "key": "MY3h-38",
+  "fact_ids": [
+   "MP0458"
+  ],
+  "claim": "BOESL's managing director called Malaysia Bangladesh's second-largest labour market on 12 November 2026.",
+  "target_section": "Size",
+  "placement": "BOESL",
+  "why_new": "A ranking the Size section lacks; low priority.",
+  "published": "2026-11-12"
+ },
+ {
+  "key": "MY3d-30",
+  "fact_ids": [
+   "MP0548"
+  ],
+  "claim": "On 15 May 2025 Bangladesh proposed that Malaysia take skilled workers including security guards, nurses and caregivers, Asif Nazrul said.",
+  "target_section": "Skill tests and narrower job orders",
+  "placement": "other: new sentence",
+  "why_new": "Proposal only; guide has nothing on these job types. Low priority.",
+  "published": "2025-05-15"
+ },
+ {
+  "key": "MY3b-56",
+  "fact_ids": [
+   "MP0205",
+   "MP0206"
+  ],
+  "claim": "Asif Nazrul said on 5 October 2024 that Bangladesh had made three proposals to Anwar Ibrahim: reopen the closed market, open recruitment to all agencies instead of a few, and consider raising Bangladeshi workers' wages.",
+  "target_section": "Status",
+  "placement": "other: 2024 requests to Malaysia",
+  "why_new": "The guide's Status starts in June 2026; this is Bangladesh's 2024 position. Low priority.",
+  "published": "2024-10-05"
+ },
+ {
+  "key": "MY3d-8",
+  "fact_ids": [
+   "MP0492"
+  ],
+  "claim": "Prothom Alo reported in April 2025 that the existing Bangladesh-Malaysia MoU was valid until August 2026, that agency selection would stay in Malaysia's hands if sending started within that period, and that the clause could be amended by agreement at renewal.",
+  "target_section": "Status",
+  "placement": "other: MoU dates",
+  "why_new": "Conflict: the guide says the MoU runs to 31 December 2026 [Z0156]; this April 2025 article says August 2026 (and a May 2025 article says December).",
+  "published": "2025-04-18"
+ },
+ {
+  "key": "MY3d-24",
+  "fact_ids": [
+   "MP0533",
+   "MP0534",
+   "MP0535"
+  ],
+  "claim": "BCSM's recommendations of May 2025 to the delegation in Malaysia led by the expatriates' welfare adviser, Asif Nazrul, were that Malaysia be persuaded to take Bangladeshi workers by the same process as from its 14 other source countries, that cost be cut and a job on arrival guaranteed, and that a letter be sent to Malaysia's Prime Minister to drop one clause of the MoU.",
+  "target_section": "Status",
+  "placement": "other: 2025 timeline",
+  "why_new": "Civil-society position in 2025 negotiations; low priority context.",
+  "published": "2025-05-14"
+ },
+ {
+  "key": "MY3d-25",
+  "fact_ids": [
+   "MP0536",
+   "MP0537",
+   "MP0538"
+  ],
+  "claim": "A three-member delegation led by the expatriates' welfare adviser, Asif Nazrul, with senior secretary Neyamat Ullah Bhuiyan and deputy secretary Md Sarwar Alam, went to Malaysia on 13 May 2025 to meet Malaysia's human resources and home ministers about reopening; Ministry officials said Bangladesh would propose at the joint technical committee that all legal agencies be allowed to send workers, and that since the MoU ran to December there was no scope for a new agreement, only for amending the existing one.",
+  "target_section": "Status",
+  "placement": "other: 2025 timeline (new dated bullet)",
+  "why_new": "2025 negotiation timeline absent from Status (which jumps from May 2024 to June 2026). MoU 'to December' conflicts with the April 2025 article's 'August 2026' and agrees with guide's 31 December 2026.",
+  "published": "2025-05-15"
+ },
+ {
+  "key": "MY3d-28",
+  "fact_ids": [
+   "MP0543",
+   "MP0544",
+   "MP0545"
+  ],
+  "claim": "After meeting Malaysia's home, human resources and trade ministers on 15 May 2025, the adviser Asif Nazrul said in a Facebook video that Malaysia might take 1 to 1.5 lakh foreign workers in the coming months, that human resources minister Steven Sim Chee Keong had assured Bangladesh top priority, and that Bangladesh had asked that all its recruiting agencies be allowed to send workers, which Malaysia said it would consider.",
+  "target_section": "Status",
+  "placement": "other: 2025 timeline (new dated bullet)",
+  "why_new": "2025 negotiation step not in guide's Status.",
+  "published": "2025-05-15"
+ },
+ {
+  "key": "MY3d-35",
+  "fact_ids": [
+   "MP0559",
+   "MP0560",
+   "MP0561"
+  ],
+  "claim": "At the opening of the two countries' joint working group meeting at the InterContinental hotel, Dhaka, on 21 May 2025, the Chief Adviser's special envoy Lutfey Siddiqi said Malaysia wanted to take workers through a limited number of agencies because Bangladesh has so many, that amending the MoU would be discussed if needed for transparency, and that Malaysia had set no conditions, including withdrawal of the cases against those who formed the syndicate.",
+  "target_section": "Status",
+  "placement": "other: 2025 timeline (new dated bullet)",
+  "why_new": "Malaysia's stated reason for limiting agencies (the root of the 25-agency list) and the denial of conditions; not in guide.",
+  "published": "2025-05-21"
+ },
+ {
+  "key": "MY3d-39",
+  "fact_ids": [
+   "MP0568",
+   "MP0569",
+   "MP0570"
+  ],
+  "claim": "In a rejoinder to Prothom Alo on 24 June 2025 the Ministry said Malaysia's market had been closed since June 2024, that several joint working group and high-level meetings had been held, that it hoped the market would reopen soon by a transparent, broker-free method, and that a proposal for a joint, technology-based recruitment process was at its final stage.",
+  "target_section": "Status",
+  "placement": "other: 2025 timeline",
+  "why_new": "Ministry's June 2025 position; not in guide. Low priority.",
+  "published": "2025-06-24"
+ },
+ {
+  "key": "MY3d-55",
+  "fact_ids": [
+   "MP0606",
+   "MP0607",
+   "MP0608"
+  ],
+  "claim": "Prothom Alo reported on 9 August 2025 that Chief Adviser Muhammad Yunus was to make a three-day visit to Malaysia from 11 August and meet Prime Minister Anwar Ibrahim in Putrajaya on Tuesday 12 August, that five MoUs (on defence, energy, BIISS-ISIS, BMCCI-MIMOS and business chambers) and three exchange notes (halal ecosystem, foreign service academies, higher education) might be signed, and that a senior foreign ministry official said removing Bangladeshis' problems in Malaysia's labour market and taking more workers would get priority.",
+  "target_section": "Status",
+  "placement": "other: 2025 timeline (new dated bullet)",
+  "why_new": "The August 2025 summit is absent from the guide's Status timeline. 'None concerned labour' is read from the listed MoUs (defence, energy, BIISS-ISIS, BMCCI-MIMOS, FBCCI).",
+  "published": "2025-08-09"
+ },
+ {
+  "key": "MY3e-6",
+  "fact_ids": [
+   "MP0627"
+  ],
+  "claim": "The same August 2025 Ministry report said that after top-level bilateral talks a process had been started to open Malaysia's market to new workers.",
+  "target_section": "Status",
+  "placement": "other: timeline, August 2025",
+  "why_new": "Guide's Status timeline jumps from 31 May 2024 to June 2026; adds the August 2025 position.",
+  "published": "2025-08-20"
+ },
+ {
+  "key": "MY3e-11",
+  "fact_ids": [
+   "MP0630",
+   "MP0631"
+  ],
+  "claim": "Expatriates' welfare adviser Asif Nazrul wrote in Prothom Alo on 20 August 2025 that after bilateral talks sending workers to Malaysia would start within about a month.",
+  "target_section": "Status",
+  "placement": "other: timeline, August 2025",
+  "why_new": "A dated promise that did not happen (the guide records no restart until October 2026); shows the pattern of announced restarts.",
+  "published": "2025-08-20"
+ },
+ {
+  "key": "MY3e-69",
+  "fact_ids": [
+   "MP0740"
+  ],
+  "claim": "Prothom Alo's report of 14 December 2025 said the market that closed on 31 May 2024 had later reopened on various conditions.",
+  "target_section": "Status",
+  "placement": "other: conflicting report",
+  "why_new": "CONFLICT: guide says closed to new workers through agencies since 31 May 2024; Prothom Alo of 14 March 2026 also says it had been closed for nearly two years (article 63cad1bc). Likely refers to the BOESL/CLAB sending of stranded workers.",
+  "published": "2025-12-14"
+ },
+ {
+  "key": "MY3e-83",
+  "fact_ids": [
+   "MP0769"
+  ],
+  "claim": "Prothom Alo reported on 14 March 2026 that Malaysia's labour market had been closed since June 2024 over allegations of syndicate trading and could not be reopened under the interim government despite its efforts.",
+  "target_section": "Status",
+  "placement": "other: timeline, March 2026",
+  "why_new": "Confirms closure as of March 2026; conflicts with the 14 December 2025 'reopened on various conditions' report.",
+  "published": "2026-03-14"
+ },
+ {
+  "key": "MY3g-4",
+  "fact_ids": [
+   "MP0372",
+   "MP0373"
+  ],
+  "claim": "Before the June 2026 visit, Bangladesh's High Commissioner to Malaysia, Manjurul Karim Khan Chowdhury, told Prothom Alo that Malaysia's new industrial policy is changing its traditional pattern of hiring, that the market for the kind of workers Bangladesh sends is shrinking, and that Bangladesh had therefore started contacts on recruitment of skilled and semi-skilled workers.",
+  "target_section": "Status",
+  "placement": "Status (June 2026 bullet)",
+  "why_new": "New: the High Commissioner's view that demand for the low-skilled workers Bangladesh sends is shrinking. The article ties this to Malaysia's New Industrial Master Plan (NIMP) 2030, aimed at advanced-technology production.",
+  "published": "2026-06-22"
+ },
+ {
+  "key": "MY3g-8",
+  "fact_ids": [
+   "MP0377",
+   "MP0378"
+  ],
+  "claim": "At the prime ministers' talks in Putrajaya on 22 June 2026, reopening the labour market for Bangladeshi workers, regularising Bangladeshis who had become irregular and renewing work permits were among the issues discussed; the only documents signed or exchanged were a culture MoU and documents on counter-terrorism research and on investment.",
+  "target_section": "Status",
+  "placement": "Status (June 2026 bullet)",
+  "why_new": "The guide's June 2026 bullet does not give the date or say that no labour agreement was signed.",
+  "published": "2026-06-22"
+ },
+ {
+  "key": "MY3g-9",
+  "fact_ids": [
+   "MP0379",
+   "MP0380"
+  ],
+  "claim": "At a joint press conference in Putrajaya on 22 June 2026, Prime Minister Tarique Rahman said he had asked Anwar Ibrahim to consider hiring more Bangladeshi workers and opening the labour market quickly, had raised legalising irregular workers and the possible repatriation of detained Bangladeshis, and that the two agreed recruitment must be transparent, fair and affordable so that the role of middlemen shrinks and workers' costs fall.",
+  "target_section": "Status",
+  "placement": "Status (June 2026 bullet)",
+  "why_new": "Shows the visit produced a request and a principle, not a reopening; the guide's June bullet relies only on a 22 July editorial saying the market was reopening.",
+  "published": "2026-06-22"
+ },
+ {
+  "key": "MY3g-11",
+  "fact_ids": [
+   "MP0382",
+   "MP0383"
+  ],
+  "claim": "Mahdi Amin said on 22 June 2026 that Tarique Rahman had asked Malaysia for employment for more Bangladeshi workers at low cost through a transparent process, and that a 33-point joint statement on nine areas of cooperation was issued after the 18-hour visit.",
+  "target_section": "Status",
+  "placement": "Status (June 2026 bullet)",
+  "why_new": "Adds the joint statement's existence and scope to the June 2026 Status line.",
+  "published": "2026-06-22"
+ },
+ {
+  "key": "MY3g-12",
+  "fact_ids": [
+   "MP0384",
+   "MP0385"
+  ],
+  "claim": "At their 22 June 2026 meeting, Anwar Ibrahim and Tarique Rahman agreed to form a joint working group (JWG) that will review the existing labour MoU and serve as the basis for drafting a new MoU in line with both countries' current needs.",
+  "target_section": "Status",
+  "placement": "Status (June 2026 bullet)",
+  "why_new": "The guide mentions a new MoU to be signed 31 December 2026 (minister, 5 November) but not its origin in the June 2026 JWG decision.",
+  "published": "2026-06-22"
+ },
+ {
+  "key": "MY3g-13",
+  "fact_ids": [
+   "MP0386",
+   "MP0387",
+   "MP0388"
+  ],
+  "claim": "Malaysia's Human Resources Minister, R Ramanan, said in a Facebook statement on 22 June 2026 that his ministry would keep strengthening governance so that recruitment of Bangladeshi workers is transparent, fair and ethical and free of exploitation, discrimination and unethical practices.",
+  "target_section": "Status",
+  "placement": "Status (June 2026 bullet)",
+  "why_new": "Malaysia's own ministerial position after the visit; not in the guide.",
+  "published": "2026-06-22"
+ },
+ {
+  "key": "MY3g-14",
+  "fact_ids": [
+   "MP0389",
+   "MP0390"
+  ],
+  "claim": "The joint statement after the 22 June 2026 meeting says a JWG meeting would be called to ensure continued, safe and mutually beneficial migration of Bangladeshi workers to Malaysia, so that a new MoU on worker recruitment can be drafted from that meeting's discussion.",
+  "target_section": "Status",
+  "placement": "Status (June 2026 bullet)",
+  "why_new": "The joint statement's own wording on the new MoU; the guide does not have it.",
+  "published": "2026-06-22"
+ },
+ {
+  "key": "MY3g-16",
+  "fact_ids": [
+   "MP0393",
+   "MP0394"
+  ],
+  "claim": "On 23 June 2026 the expatriates' welfare minister, Ariful Haque Chowdhury, told parliament that the government was working to open Malaysia's labour market and hoped the way to send workers would be cleared very soon, and that it was making efforts to legalise Bangladeshi workers staying in Malaysia irregularly or in difficulty.",
+  "target_section": "Status",
+  "placement": "Status (June 2026 bullet)",
+  "why_new": "Confirms the market was still not open on 23 June 2026.",
+  "published": "2026-06-23"
+ },
+ {
+  "key": "MY3g-18",
+  "fact_ids": [
+   "MP0396",
+   "MP0397"
+  ],
+  "claim": "On 24 June 2026 the minister, Ariful Haque Chowdhury, said at Osmani International Airport, Sylhet, that good news on the Malaysian labour market could come within July and that Malaysia's human resources minister and home minister would visit Bangladesh within July.",
+  "target_section": "Status",
+  "placement": "Status (June-July 2026)",
+  "why_new": "Part of the timeline of promised dates; the guide has none between June and August 2026.",
+  "published": "2026-06-24"
+ },
+ {
+  "key": "MY3g-20",
+  "fact_ids": [
+   "MP0400"
+  ],
+  "claim": "Selim Reza wrote on 30 June 2026 that the most significant outcome of the prime ministers' meeting was the decision to hold a JWG meeting and draft a new MoU for safe and regular migration of Bangladeshi workers.",
+  "target_section": "Status",
+  "placement": "Status (June 2026 bullet)",
+  "why_new": "Independent confirmation of the JWG/new-MoU outcome (see MY3g-12, MY3g-14).",
+  "published": "2026-06-30"
+ },
+ {
+  "key": "MY3g-21",
+  "fact_ids": [
+   "MP0401"
+  ],
+  "claim": "The Prime Minister's deputy press secretary, Shahadat Swadhin, wrote on 1 July 2026 that at the 22 June meeting Tarique Rahman asked Anwar Ibrahim to consider regularising Bangladeshis who had become irregular and renewing their work permits, and asked Malaysia to recruit skilled workers from Bangladesh.",
+  "target_section": "Status",
+  "placement": "Status (June 2026 bullet)",
+  "why_new": "Adds the explicit request for skilled-worker recruitment and work-permit renewal.",
+  "published": "2026-07-01"
+ },
+ {
+  "key": "MY3g-22",
+  "fact_ids": [
+   "MP0402",
+   "MP0403"
+  ],
+  "claim": "On 7 July 2026 the minister, Ariful Haque Chowdhury, told journalists at Sylhet Circuit House that Malaysia's labour market had reopened for Bangladesh from Monday 6 July 2026 as a result of the prime minister's visit; he gave no terms, quota or costs.",
+  "target_section": "Status",
+  "placement": "Status (July 2026)",
+  "why_new": "Conflict: the guide says the corridor stayed closed and the restart was only announced on 15 October 2026 [Z0151]; two days later (9 July) the same minister told parliament he hoped the way would open soon (MY3g-23). Useful as a 'premature reopening announcement' case.",
+  "published": "2026-07-07"
+ },
+ {
+  "key": "MY3g-23",
+  "fact_ids": [
+   "MP0404",
+   "MP0405"
+  ],
+  "claim": "On 9 July 2026 the minister told parliament that bilateral talks with a high-level Malaysian representative had been held in April 2026, that the prime minister had recently visited, that a Malaysian delegation would visit Bangladesh in July, and that he hoped the way to send workers would open very soon.",
+  "target_section": "Status",
+  "placement": "Status (July 2026)",
+  "why_new": "Contradicts his 7 July statement that the market had reopened on 6 July; adds April 2026 talks not in the guide.",
+  "published": "2026-07-09"
+ },
+ {
+  "key": "MY3h-1",
+  "fact_ids": [
+   "MP0412",
+   "MP0413"
+  ],
+  "claim": "On 30 July 2026, at a press conference at the Bangladesh High Commission in Kuala Lumpur, the Prime Minister's adviser and spokesperson Mahdi Amin said Bangladesh and Malaysia had agreed in principle to reopen the labour market at once, with work open to Bangladeshi workers in all sectors, and had set a target for workers to start arriving from the last week of August 2026.",
+  "target_section": "Status",
+  "placement": "Status timeline",
+  "why_new": "The Status timeline has no entry between June 2026 and 21 August 2026; this dates the in-principle agreement and the missed late-August target.",
+  "published": "2026-07-30"
+ },
+ {
+  "key": "MY3h-6",
+  "fact_ids": [
+   "MP0421",
+   "MP0422"
+  ],
+  "claim": "On 18 August 2026 in Putrajaya, Malaysia's deputy tourism, arts and culture minister Chiew Choon Man and Bangladesh's state minister for civil aviation and tourism M Rashiduzzaman Millat discussed how to increase the recruitment of qualified Bangladeshi workers in Malaysia's tourism and hospitality sector, which needs skilled and trained staff, as well as easier visa processing and pre-verification, according to the Bangladesh ministry's press release; no decision was reported.",
+  "target_section": "Status",
+  "placement": "Status timeline",
+  "why_new": "Adds the tourism and hospitality sector as a discussed opening; the guide mentions tourism only for stranded 2024 workers.",
+  "published": "2026-08-19"
+ },
+ {
+  "key": "MY3h-9",
+  "fact_ids": [
+   "MP0427",
+   "MP0428"
+  ],
+  "claim": "On 30 August 2026, after Malaysia's High Commissioner in Dhaka, Mohammad Suhadha bin Osman, called on the local government minister, State Minister for Local Government Mir Shahe Alam told reporters that Malaysia would start taking two lakh workers from Bangladesh towards the end of the next month through listed companies, plus another 10,000 entirely free of cost, and that the process would be completed within six months.",
+  "target_section": "Status",
+  "placement": "Status timeline",
+  "why_new": "A dated government claim of two lakh workers from late September 2026 that did not happen; the guide has two lakh only as a figure in 'various statements' (Selim Reza).",
+  "published": "2026-08-30"
+ },
+ {
+  "key": "MY3h-11",
+  "fact_ids": [
+   "MP0429"
+  ],
+  "claim": "The minister told parliament on 3 September 2026 that after the Prime Minister's recent visit to Malaysia and a visit by the Ministry's adviser and minister in late July, the way to send Bangladeshi workers to Malaysia was expected to open very soon.",
+  "target_section": "Status",
+  "placement": "Status timeline",
+  "why_new": "Shows that as of 3 September 2026 the government still described sending as not yet started, against the late-August target.",
+  "published": "2026-09-03"
+ },
+ {
+  "key": "MY3h-12",
+  "fact_ids": [
+   "MP0430"
+  ],
+  "claim": "On 16 September 2026 the expatriates' welfare secretary, Md Mokhtar Ahmed, said the process to reopen Malaysia's closed market was still under way, that the administrative work on which process would be used to send workers was pending, and that it would be announced formally once confirmed.",
+  "target_section": "Status",
+  "placement": "Status timeline",
+  "why_new": "Dates that the method of sending was still undecided in mid-September 2026.",
+  "published": "2026-09-16"
+ },
+ {
+  "key": "MY3h-21",
+  "fact_ids": [
+   "MP0438"
+  ],
+  "claim": "The Ministry's press release of 15 October 2026 dates the Bangladesh-Malaysia MoU to 18 December 2022 and says that under it choosing and listing the recruiting agencies is the job of Malaysia's human resources ministry.",
+  "target_section": "Status",
+  "placement": "MoU sentence",
+  "why_new": "The guide gives the MoU's end date (31 December 2026) but not its signing date; elsewhere the guide calls it the 2021 MoU (What closed it before), which this contradicts.",
+  "published": "2026-10-15"
+ },
+ {
+  "key": "MY3h-34",
+  "fact_ids": [
+   "MP0453"
+  ],
+  "claim": "BOESL's managing director, Mohammad Rashedul Haque, said on 8 November 2026 that this was the first time a lottery had been used to choose workers for government-channel sending to Malaysia, and that flights for the selected DHL workers would start from the first week of December.",
+  "target_section": "Status",
+  "placement": "Status timeline",
+  "why_new": "A dated first-flight target for BOESL's DHL workers; the guide has only the minister's hope of December flights [YD0005].",
+  "published": "2026-11-08"
+ },
+ {
+  "key": "MY3h-41",
+  "fact_ids": [
+   "MP0462"
+  ],
+  "claim": "The minister told parliament on 15 November 2026 that the list of medical centres for Malaysia-bound workers would be published the next day, and that workers should be able to go to Malaysia from the end of the following week to the end of November.",
+  "target_section": "Status",
+  "placement": "Status timeline",
+  "why_new": "Updates the guide's 'first flights hoped for in December' [YD0005] with a late-November target.",
+  "published": "2026-11-15"
+ },
+ {
+  "key": "MY3h-42",
+  "fact_ids": [
+   "MP0463",
+   "MP0464"
+  ],
+  "claim": "Prime Minister Tarique Rahman told parliament on 18 November 2026 that 10,000 people could be sent to Malaysia at almost no cost, and that of them 1,000 were to be sent from the families of victims of enforced disappearance and killing under the previous government and of those killed or injured in the 2024 movement.",
+  "target_section": "Status",
+  "placement": "zero-cost paragraph",
+  "why_new": "New: 1,000 of the 10,000 zero-cost places reserved for these families, so not all go by open OEP lottery; the PM says 'almost no cost', adding to the guide's conflict on what zero cost means.",
+  "published": "2026-11-18"
+ },
+ {
+  "key": "MY3a-31",
+  "fact_ids": [
+   "MP0037",
+   "MP0038",
+   "MP0039"
+  ],
+  "claim": "BOESL said on 16 May 2024 that it had been given the chance to send 10,000 workers to Malaysia at zero migration cost, had received demand for 1,695, and had sent 1,308 since October 2022 (331 in 2022, 839 in 2023 and 138 in 2024), with 73 more due to fly the next day.",
+  "target_section": "The channels",
+  "placement": "BOESL",
+  "why_new": "CONFLICT: adds a fourth count to the guide's Need to know (1,381 [A0059], ~1,500 [MB0059], 1,467 cleared [MA0063]); with the 73 the total would be 1,381, matching A0059. Also gives demand of 1,695 vs 'more than 10,000' [MA0063].",
+  "published": "2024-05-16"
+ },
+ {
+  "key": "MY3a-32",
+  "fact_ids": [
+   "MP0040",
+   "MP0041",
+   "MP0042"
+  ],
+  "claim": "The 73 BOESL workers flying on 17 May 2024 at the employer's cost were to earn RM1,500 a month (Tk 37,500) with housing provided by the company; BOESL said it holds job fairs around the country, selects marginal and farm workers, and trains them on the work, Malaysian language and culture, and sending money home legally.",
+  "target_section": "The channels",
+  "placement": "BOESL",
+  "why_new": "Wage, housing and selection method for the 2022-24 BOESL route.",
+  "published": "2024-05-16"
+ },
+ {
+  "key": "MY3a-33",
+  "fact_ids": [
+   "MP0043"
+  ],
+  "claim": "BOESL's managing director, Mallik Anwar Hossain, said in May 2024 that under the agreement, if a worker works properly for three years another member of his family can go to the same company at no cost.",
+  "target_section": "The channels",
+  "placement": "BOESL",
+  "why_new": "A BOESL benefit not in the guide.",
+  "published": "2024-05-16"
+ },
+ {
+  "key": "MY3c-5",
+  "fact_ids": [
+   "MP0223"
+  ],
+  "claim": "Abu Taher had worked in Malaysia for 10 years at the same company and, because the company was good, took his nephew Abdus Salam there about a year and a half before October 2024, relatives said.",
+  "target_section": "The channels",
+  "placement": "Through a relative in Malaysia: case",
+  "why_new": "A case of the relative route into the relative's own company; the guide describes the route but gives no case.",
+  "published": "2024-10-14"
+ },
+ {
+  "key": "MY3g-17",
+  "fact_ids": [
+   "MP0395"
+  ],
+  "claim": "The minister told parliament on 23 June 2026 that no workers are sent to Malaysia, the second-largest labour market for Bangladeshi workers, by the government itself, and that workers can go there through government-approved recruiting agencies.",
+  "target_section": "The channels",
+  "placement": "other: BOESL bullet",
+  "why_new": "Conflict: the guide lists BOESL (government-owned) as a channel that sent workers in 2022-24 and stranded workers from November 2025, and the same minister later said zero-cost workers would go through BOESL (Status).",
+  "published": "2026-06-23"
+ },
+ {
+  "key": "MY3h-35",
+  "fact_ids": [
+   "MP0454"
+  ],
+  "claim": "BOESL's managing director said on 8 November 2026 that BOESL had received demand letters for 558 more workers in Malaysia's tourism, manufacturing and caregiving sectors, with the employers bearing all costs including the medical and airfare, so these workers too would go with no migration cost.",
+  "target_section": "The channels",
+  "placement": "BOESL bullet",
+  "why_new": "New: further BOESL demand (558) beyond DHL, including caregiving; bears on the guide's Need-to-know whether zero-cost workers pay the medical and airfare (here the employer pays both).",
+  "published": "2026-11-08"
+ },
+ {
+  "key": "MY3a-4",
+  "fact_ids": [
+   "MP0001",
+   "MP0002",
+   "MP0003"
+  ],
+  "claim": "On 16 January 2024 Malaysia's human resources minister, Steven Sim, and home minister, Saifuddin Ismail, spoke about Malaysia's review of its bilateral foreign-worker agreements with 15 countries including Bangladesh, saying labour was unevenly distributed across the economy, and the home minister said recruitment fees, other costs, contract clauses and health would be reviewed.",
+  "target_section": "What closed it before",
+  "placement": "other: 2024 events",
+  "why_new": "The guide's 2024 closure account starts with the March 2024 deadlines; this January 2024 review announcement is missing. The guide counts 14 source countries elsewhere; Malaysia's ministers and its High Commissioner say 15.",
+  "published": "2024-01-17"
+ },
+ {
+  "key": "MY3a-22",
+  "fact_ids": [
+   "MP0026"
+  ],
+  "claim": "A Prothom Alo editorial of 24 March 2024 said Malaysia decided to stop new recruitment as pressure on its government from international human rights organisations grew.",
+  "target_section": "What closed it before",
+  "placement": "31 May 2024",
+  "why_new": "Adds the stated reason for the 2024 freeze. The editorial dates the 2022 reopening to August 2022; the guide says July 2022 [MA0021] (conflict).",
+  "published": "2024-03-24"
+ },
+ {
+  "key": "MY3a-36",
+  "fact_ids": [
+   "MP0046",
+   "MP0047",
+   "MP0048"
+  ],
+  "claim": "In May 2024, with the 31 May deadline approaching, the Dhaka-Kuala Lumpur fare, normally Tk 20,000 to 25,000 at most, rose to Tk 80,000 to 1 lakh by mid-month, and all seats from 27 to 31 May showed sold out on Biman's website.",
+  "target_section": "What closed it before",
+  "placement": "31 May 2024",
+  "why_new": "Airfare surge before the 2024 deadline is not in the guide; it explains why some cleared workers could not fly [MA0111].",
+  "published": "2024-05-27"
+ },
+ {
+  "key": "MY3a-37",
+  "fact_ids": [
+   "MP0049",
+   "MP0050",
+   "MP0051"
+  ],
+  "claim": "Ethar Fariel Hamid, managing director of Fariel Tours and Travels, complained to the Prime Minister's Office on 26 May 2024 that Biman's special-flight tickets for Malaysia were not shown on the GDS (global distribution system) and Biman officials were profiting corruptly, and told Prothom Alo that tickets were opened on the GDS only for a bribe of Tk 20,000 to 25,000 each, pushing the price to Tk 1.05 to 1.10 lakh; Biman sources said special-flight fares started at Tk 68,000 and its acting marketing director said 99% were sold through the GDS.",
+  "target_section": "What closed it before",
+  "placement": "31 May 2024",
+  "why_new": "Bribery allegation over special-flight tickets; new.",
+  "published": "2024-05-27"
+ },
+ {
+  "key": "MY3a-39",
+  "fact_ids": [
+   "MP0054",
+   "MP0055"
+  ],
+  "claim": "The civil aviation minister, Muhammad Faruk Khan, said on 30 May 2024 that Biman was running three or four flights a day to Malaysia, that agencies had known a month ahead that 31 May was the last date but made no arrangements, and that on 29 May permission was given for a charter flight on an Air Cambodia aircraft requested by some people from Malaysia.",
+  "target_section": "What closed it before",
+  "placement": "31 May 2024",
+  "why_new": "Government's account of the last-week flight crunch; new.",
+  "published": "2024-05-30"
+ },
+ {
+  "key": "MY3a-40",
+  "fact_ids": [
+   "MP0056",
+   "MP0057",
+   "MP0058"
+  ],
+  "claim": "On 31 May 2024 thousands of people crowded Dhaka airport, many without tickets, hoping to reach Malaysia before the deadline; Habibur Rahman of Natore, who had paid Tk 6.5 lakh raised by mortgaging land and a bank loan, had waited three days at the airport while the firm stopped answering his calls, and Rubel Mia of Narsingdi had paid Tk 6 lakh to a firm named Ahad Enterprise to go as a construction worker.",
+  "target_section": "What closed it before",
+  "placement": "What happened to the stranded workers of 2024",
+  "why_new": "Airport scenes and named cases of the last day; new.",
+  "published": "2024-05-31"
+ },
+ {
+  "key": "MY3a-42",
+  "fact_ids": [
+   "MP0060",
+   "MP0061"
+  ],
+  "claim": "The state minister for expatriates' welfare, Shafiqur Rahman Chowdhury, said on 1 June 2024 that Malaysia had given quota for more than about 5 lakh workers, that BAIRA could not give the Ministry a list of who had visas and when they would fly, which caused the flight problems, and that the Ministry had arranged about 22 special flights.",
+  "target_section": "What closed it before",
+  "placement": "31 May 2024",
+  "why_new": "Quota size for the 2022-24 round; the next day he gave 23 special flights (article d42dfb7f, 2 June 2024).",
+  "published": "2024-06-01"
+ },
+ {
+  "key": "MY3a-44",
+  "fact_ids": [
+   "MP0064",
+   "MP0065"
+  ],
+  "claim": "On 2 June 2024 the Ministry formed a six-member committee headed by Additional Secretary (Employment) Nur Md Mahbubul Haque to investigate the 2022-24 corruption, report within 7 working days and work to get affected workers compensated; anyone could complain to it, including workers charged more than the Tk 78,990 cap.",
+  "target_section": "What closed it before",
+  "placement": "What happened to the stranded workers of 2024",
+  "why_new": "The 2024 investigation committee is not in the guide.",
+  "published": "2024-06-02"
+ },
+ {
+  "key": "MY3a-45",
+  "fact_ids": [
+   "MP0066"
+  ],
+  "claim": "The expatriates' welfare secretary, Md Ruhul Amin, said on 2 June 2024 that recruiting agencies would refund those who got clearance but could not go, that BAIRA had taken responsibility for this, and that agencies that did not refund would face legal action.",
+  "target_section": "What closed it before",
+  "placement": "What happened to the stranded workers of 2024",
+  "why_new": "The promise behind the refunds; the guide says many got none [YI0011].",
+  "published": "2024-06-02"
+ },
+ {
+  "key": "MY3a-47",
+  "fact_ids": [
+   "MP0068"
+  ],
+  "claim": "The secretary said the Ministry had not allowed workers to be sent in the names of companies Malaysia had blacklisted.",
+  "target_section": "What closed it before",
+  "placement": "What happened to the stranded workers of 2024",
+  "why_new": "Links to BAIRA's claim that 47 companies were blacklisted at the end (article d4c9264f).",
+  "published": "2024-06-02"
+ },
+ {
+  "key": "MY3a-48",
+  "fact_ids": [
+   "MP0069",
+   "MP0070",
+   "MP0071"
+  ],
+  "claim": "Tanvir Mia (22) of Debgram, Akhaura, Brahmanbaria, for whom Tk 6.5 lakh had been paid a year earlier, according to his uncle, to broker Alamgir Hossain of Nayadil village and his brother in Malaysia for a supermarket job, had a flight date of 19 January cancelled and another flight cancelled at the end of May 2024; on Friday 31 May he fell from the train taking him home from Dhaka into the Meghna at Bhairab and went missing, and rescuers believed he had drowned.",
+  "target_section": "What closed it before",
+  "placement": "What happened to the stranded workers of 2024",
+  "why_new": "New case of the 2024 deadline.",
+  "published": "2024-06-02"
+ },
+ {
+  "key": "MY3a-53",
+  "fact_ids": [
+   "MP0078",
+   "MP0079",
+   "MP0080"
+  ],
+  "claim": "At a 4 June 2024 press briefing held on behalf of the panel of 101 agencies, it was said that 2 to 3% of cleared workers usually fail to go, that this time Malaysia blacklisted 47 companies near the end over various complaints so workers with visas under them could not go, and that few were stopped by air tickets.",
+  "target_section": "What closed it before",
+  "placement": "What happened to the stranded workers of 2024",
+  "why_new": "The 47 blacklisted employers are a new cause of the 2024 stranding.",
+  "published": "2024-06-04"
+ },
+ {
+  "key": "MY3a-54",
+  "fact_ids": [
+   "MP0081",
+   "MP0082",
+   "MP0083"
+  ],
+  "claim": "At the same briefing Ruhul Amin Swapan said the real number of workers who could not go was 5,000 to 6,000, that if diplomatic efforts to send them failed their migration costs would be returned, and that those affected could apply to get money back from the original agency; BAIRA's secretary general, Ali Haider Chowdhury, said the number was not certain and BAIRA would help the Ministry's committee list them.",
+  "target_section": "What closed it before",
+  "placement": "What happened to the stranded workers of 2024",
+  "why_new": "CONFLICT: adds 5,000-6,000 to the guide's Need to know on the stranded count (16,970 / 17,777 / 31,304 / 40,000 / 11,000).",
+  "published": "2024-06-04"
+ },
+ {
+  "key": "MY3a-55",
+  "fact_ids": [
+   "MP0084",
+   "MP0085"
+  ],
+  "claim": "At the 4 June 2024 briefing BAIRA's secretary general, Ali Haider Chowdhury, said the last-minute rush would not have happened had Malaysia stopped visas from 15 May, and Ruhul Amin said Malaysia issued visas to the end, some on 30 May.",
+  "target_section": "What closed it before",
+  "placement": "What happened to the stranded workers of 2024",
+  "why_new": "Late visa issue as a cause of stranding.",
+  "published": "2024-06-04"
+ },
+ {
+  "key": "MY3a-58",
+  "fact_ids": [
+   "MP0091",
+   "MP0092",
+   "MP0093"
+  ],
+  "claim": "Malaysia's High Commissioner in Dhaka, Haznah Md Hashim, said on 5 June 2024 that Malaysia was not extending the deadline for taking workers because the same deadline applied to all 15 source countries, and on BAIRA's allegation that e-visas had been issued on 2 June said Malaysia could not accept any allegation without proof.",
+  "target_section": "What closed it before",
+  "placement": "31 May 2024",
+  "why_new": "Malaysia's refusal of the extension is not in the guide.",
+  "published": "2024-06-05"
+ },
+ {
+  "key": "MY3a-59",
+  "fact_ids": [
+   "MP0094"
+  ],
+  "claim": "The state minister said on 5 June 2024 that those holding a BMET card or e-visa who could not go would be arranged compensation.",
+  "target_section": "What closed it before",
+  "placement": "What happened to the stranded workers of 2024",
+  "why_new": "Government's compensation promise; set against 'many got no refund' [YI0011].",
+  "published": "2024-06-05"
+ },
+ {
+  "key": "MY3a-60",
+  "fact_ids": [
+   "MP0095",
+   "MP0096"
+  ],
+  "claim": "On 9 June 2024, after the time for complaints to the committee had ended, the state minister said action would follow its investigation, that its report would recommend penalties, and that steps would be taken for those harmed.",
+  "target_section": "What closed it before",
+  "placement": "What happened to the stranded workers of 2024",
+  "why_new": "Shows the complaint window was short; outcome of the committee unknown (possible Need to know).",
+  "published": "2024-06-09"
+ },
+ {
+  "key": "MY3b-2",
+  "fact_ids": [
+   "MP0099",
+   "MP0100"
+  ],
+  "claim": "The same column of 10 June 2024 said Malaysia's step of taking no new Bangladeshi workers, announced in March 2024, was meant to curb recruitment irregularities and frame proper policy, and was mainly part of re-evaluating its labour policy and filling the quota for foreign workers set in the 12th Malaysia Plan.",
+  "target_section": "What closed it before",
+  "placement": "other: why Malaysia closed in 2024",
+  "why_new": "The guide gives the 2024 closure dates but not Malaysia's policy reasons (labour-policy review, 12th Malaysia Plan foreign-worker quota) as these researchers put them.",
+  "published": "2024-06-10"
+ },
+ {
+  "key": "MY3b-3",
+  "fact_ids": [
+   "MP0101",
+   "MP0102"
+  ],
+  "claim": "By 11 June 2024, 3,000 complaints from workers who could not go to Malaysia had reached the Ministry of Expatriates' Welfare, the state minister, Shafiqur Rahman Chowdhury, said; a Ministry official told Prothom Alo that some applications carried several workers' names, so the number of workers complaining was higher and no final count had been made.",
+  "target_section": "What closed it before",
+  "placement": "Stranded workers of 2024",
+  "why_new": "The guide does not record the complaints stranded workers filed with the Ministry in June 2024.",
+  "published": "2024-06-11"
+ },
+ {
+  "key": "MY3b-10",
+  "fact_ids": [
+   "MP0114",
+   "MP0115",
+   "MP0116"
+  ],
+  "claim": "The state minister for expatriates' welfare, Shafiqur Rahman Chowdhury, told Parliament on 24 June 2024 that a six-member inquiry committee had been formed, that workers who held the required papers but could not go to Malaysia had been asked to complain to it, that more than 3,000 complaints had been received, and that steps would be taken so affected workers got compensation.",
+  "target_section": "What closed it before",
+  "placement": "Stranded workers of 2024",
+  "why_new": "The guide does not say stranded workers were told to complain to the inquiry committee or that compensation was promised in Parliament.",
+  "published": "2024-06-24"
+ },
+ {
+  "key": "MY3b-14",
+  "fact_ids": [
+   "MP0120",
+   "MP0121",
+   "MP0122"
+  ],
+  "claim": "At a meeting on 2 July 2024 the Ministry told Parliament's standing committee on expatriates' welfare that its inquiry committee had submitted its report on 24 June but the report was not complete, and that it had received about 3,000 complaints from workers who could not go; the standing committee, chaired by Imran Ahmad, asked the Ministry to establish exactly how many could not go, since the media reported 17,000.",
+  "target_section": "What closed it before",
+  "placement": "Stranded workers of 2024",
+  "why_new": "Adds that in July 2024 the government itself had no exact count of stranded workers; relevant to the guide's Need to know on the count.",
+  "published": "2024-07-02"
+ },
+ {
+  "key": "MY3b-15",
+  "fact_ids": [
+   "MP0123",
+   "MP0124"
+  ],
+  "claim": "On 4 July 2024 the state minister, Shafiqur Rahman Chowdhury, said that at a meeting the day before BAIRA had agreed that agencies would refund workers who could not go to Malaysia, paying back as much as each worker could prove he had deposited, by 18 July, and that agencies that did not would face legal action.",
+  "target_section": "What closed it before",
+  "placement": "Stranded workers of 2024",
+  "why_new": "The guide says only that many stranded workers got no refund and some a small one; the official refund order and its proof-of-payment condition are missing.",
+  "published": "2024-07-04"
+ },
+ {
+  "key": "MY3b-17",
+  "fact_ids": [
+   "MP0126"
+  ],
+  "claim": "The Ministry said on 4 July 2024 that it had formed the inquiry committee on 2 June, the committee had reported on 24 June, and 2,055 workers had complained to it with their papers.",
+  "target_section": "What closed it before",
+  "placement": "Stranded workers of 2024",
+  "why_new": "Gives the count of stranded workers who complained with papers (2,055), against the 3,000 complaint figure used in June.",
+  "published": "2024-07-04"
+ },
+ {
+  "key": "MY3b-18",
+  "fact_ids": [
+   "MP0127",
+   "MP0128",
+   "MP0129"
+  ],
+  "claim": "On 4 July 2024 the state minister said more or less all of the 100 approved agencies were responsible, and that stranded workers would be put on a priority list to go first when the market reopened after a joint technical committee meeting due at the end of July; Prothom Alo reported that the papers of the workers who could not go were held, more or less, by all 100 agencies.",
+  "target_section": "What closed it before",
+  "placement": "Stranded workers of 2024",
+  "why_new": "The priority-list promise of 2024 is not in the guide, which records only the later BOESL route for 7,873.",
+  "published": "2024-07-04"
+ },
+ {
+  "key": "MY3b-22",
+  "fact_ids": [
+   "MP0138",
+   "MP0139",
+   "MP0140"
+  ],
+  "claim": "On 25 July 2024 the state minister, Shafiqur Rahman Chowdhury, said BAIRA had told him 70% of the workers who could not go to Malaysia had got their money back, but the number could not yet be given: each worker was to confirm in writing once paid, BAIRA was to submit the list to the Ministry, and agencies that could not refund in full would face legal action.",
+  "target_section": "What closed it before",
+  "placement": "Stranded workers of 2024",
+  "why_new": "Conflict: the guide says many got no refund [YI0011]; BAIRA claimed 70% by July 2024, and the adviser later confirmed only 25% (see MY3b draft from 7680462f).",
+  "published": "2024-07-25"
+ },
+ {
+  "key": "MY3b-23",
+  "fact_ids": [
+   "MP0141"
+  ],
+  "claim": "The state minister said on 25 July 2024 that a letter had been sent to the Malaysian government about the workers who could not go, and that whether the market would reopen would be known at the two countries' joint technical committee meeting the following month.",
+  "target_section": "What closed it before",
+  "placement": "Stranded workers of 2024",
+  "why_new": "Adds the July 2024 letter to Malaysia about stranded workers.",
+  "published": "2024-07-25"
+ },
+ {
+  "key": "MY3b-45",
+  "fact_ids": [
+   "MP0188"
+  ],
+  "claim": "On 24 September 2024 the expatriates' welfare adviser, Asif Nazrul, said it had been confirmed that 25% of the 17,000 workers who could not go to Malaysia had got their money back, and that refunds to all of them would be ensured.",
+  "target_section": "What closed it before",
+  "placement": "Stranded workers of 2024",
+  "why_new": "Conflict: BAIRA claimed 70% refunded by July 2024 (a7e606e6); the government confirmed 25% in September 2024. The guide says only that many got no refund.",
+  "published": "2024-09-24"
+ },
+ {
+  "key": "MY3b-49",
+  "fact_ids": [
+   "MP0189",
+   "MP0190"
+  ],
+  "claim": "BAIRA members said at a press conference on 3 October 2024 that because of corruption and irregularity 50,000 workers could not go to Malaysia, 17,000 of whom had completed every step, and that 95% of recruiting agencies were discriminated against by the syndicate.",
+  "target_section": "What closed it before",
+  "placement": "Stranded workers of 2024",
+  "why_new": "Conflict: adds a 50,000 count to the guide's list of stranded-worker figures (16,970, 17,777, 31,304, about 40,000, about 11,000).",
+  "published": "2024-10-03"
+ },
+ {
+  "key": "MY3b-52",
+  "fact_ids": [
+   "MP0197",
+   "MP0198",
+   "MP0199"
+  ],
+  "claim": "At a joint press conference in Dhaka with the Chief Adviser, Muhammad Yunus, on 4 October 2024, Malaysia's Prime Minister Anwar Ibrahim said his government would give immediate attention to 18,000 Bangladeshi workers going to Malaysia in a first phase, subject to all conditions being met, and that workers must not be treated as modern slaves.",
+  "target_section": "What closed it before",
+  "placement": "Stranded workers of 2024",
+  "why_new": "The 18,000 pledge is not in the guide; it later sent 7,873 through BOESL.",
+  "published": "2024-10-04"
+ },
+ {
+  "key": "MY3b-55",
+  "fact_ids": [
+   "MP0203",
+   "MP0204"
+  ],
+  "claim": "The expatriates' welfare adviser, Asif Nazrul, said on 5 October 2024 that the 18,000 workers Anwar Ibrahim promised to take were not new workers but those who had completed every step and could not go, that a promise does not mean certainty, and that Bangladesh would formally request through its embassy that the promise be carried out.",
+  "target_section": "What closed it before",
+  "placement": "Stranded workers of 2024",
+  "why_new": "Identifies the 18,000 as stranded workers; not in the guide.",
+  "published": "2024-10-05"
+ },
+ {
+  "key": "MY3b-68",
+  "fact_ids": [
+   "MP0212",
+   "MP0213",
+   "MP0214"
+  ],
+  "claim": "Three North South University researchers wrote in Prothom Alo on 9 October 2024 that the Bangladesh government had tried business-to-business (B2B), government-to-government (G2G) and G-plus-B2B models to solve the Malaysia problem and none had yet proved effective, and that because of powerful syndicates, brokers and middlemen Bangladeshi workers were forced to bear high costs.",
+  "target_section": "What closed it before",
+  "placement": "other: models tried",
+  "why_new": "The guide names G2G Plus for 2016-18 only; this names all three models. Opinion; low priority.",
+  "published": "2024-10-09"
+ },
+ {
+  "key": "MY3c-14",
+  "fact_ids": [
+   "MP0235"
+  ],
+  "claim": "In a notice reported by Prothom Alo on 4 November 2024, the Ministry of Expatriates' Welfare and Overseas Employment announced recruitment of Bangladeshi workers for a plantation sector in Malaysia, with 31 January 2025 as the last date for those workers to enter Malaysia.",
+  "target_section": "What closed it before",
+  "placement": "What happened to the stranded workers of 2024 / Status history: plantation window",
+  "why_new": "CONFLICT/gap: the guide says the corridor has been shut to new workers since 31 May 2024 with no exception before the 2025 stranded-worker scheme; this records a Ministry-announced plantation-sector window in Nov 2024 to Jan 2025.",
+  "published": "2024-11-04"
+ },
+ {
+  "key": "MY3c-15",
+  "fact_ids": [
+   "MP0236",
+   "MP0237"
+  ],
+  "claim": "The November 2024 plantation notice required the medical test, the visa, BMET clearance, pre-departure orientation and the air ticket all to be completed by 15 January 2025, and said no money beyond the government-fixed migration fee of Tk 78,990 was to be paid to a recruiting agent or anyone else.",
+  "target_section": "What closed it before",
+  "placement": "Status history: plantation window",
+  "why_new": "Shows the Tk 78,990 cap still applied in the Nov 2024 window; the guide's cap section refers only to the July 2022 order.",
+  "published": "2024-11-04"
+ },
+ {
+  "key": "MY3c-16",
+  "fact_ids": [
+   "MP0238",
+   "MP0239",
+   "MP0240"
+  ],
+  "claim": "The November 2024 notice told plantation workers to learn the job terms, pay and benefits from the recruiting agent, to deal money with no one but an approved recruiting agent, to make every payment against a written receipt or document or through a bank account, and to verify the agent on the Ministry's website or through the call centre 16135.",
+  "target_section": "What closed it before",
+  "placement": "Status history: plantation window",
+  "why_new": "Mostly consistent with Step 1 'Before paying'; adds that the Ministry's own notice told workers to verify the agent via its website or 16135. Low priority if Step 1 already covers it.",
+  "published": "2024-11-04"
+ },
+ {
+  "key": "MY3c-17",
+  "fact_ids": [
+   "MP0241"
+  ],
+  "claim": "On 4 October 2024 Malaysia's prime minister gave an assurance that Malaysia would take 18,000 workers, according to Prothom Alo's timeline of the interim government's first 100 days.",
+  "target_section": "What closed it before",
+  "placement": "What happened to the stranded workers of 2024",
+  "why_new": "The guide's stranded-worker timeline starts the remedy only in 2025; this dates the first Malaysian commitment (4 Oct 2024, Anwar Ibrahim's Dhaka visit).",
+  "published": "2024-11-17"
+ },
+ {
+  "key": "MY3c-24",
+  "fact_ids": [
+   "MP0253",
+   "MP0254"
+  ],
+  "claim": "Former ambassador M Humayun Kabir, president of the Bangladesh Enterprise Institute, said in an interview published on 1 December 2024 that Bangladesh's labour market in Malaysia had closed and had reopened on the Chief Adviser's initiative.",
+  "target_section": "What closed it before",
+  "placement": "What happened to the stranded workers of 2024",
+  "why_new": "CONFLICT: the guide (and other Dec 2024-Jan 2025 articles in this batch) say the market stayed closed; this is a commentator's claim, likely referring to the 18,000-worker assurance. Include only if useful as an example of mistaken 'Malaysia has opened' claims (see CROSS-COUNTRY myth 'Malaysia has opened again').",
+  "published": "2024-12-01"
+ },
+ {
+  "key": "MY3c-27",
+  "fact_ids": [
+   "MP0260",
+   "MP0261"
+  ],
+  "claim": "Expatriates' Welfare Secretary Md Ruhul Amin told Prothom Alo in December 2024 that the two countries would meet soon to reopen Malaysia's labour market, closed since June 2024, and that Brunei had been opened and workers were going to Russia.",
+  "target_section": "What closed it before",
+  "placement": "What happened to the stranded workers of 2024",
+  "why_new": "Dated official statement in the gap between the closure and the 2025 joint technical group; minor.",
+  "published": "2024-12-18"
+ },
+ {
+  "key": "MY3c-33",
+  "fact_ids": [
+   "MP0266",
+   "MP0267"
+  ],
+  "claim": "A Prothom Alo editorial of 6 January 2025 said Malaysia's market closed for all source countries because of allegations of a ring (syndicate) being formed, that not even everyone registered to go could go, and that Bangladesh raised the problem with Malaysia's prime minister on his short visit to Dhaka after the interim government took office, with no progress known since.",
+  "target_section": "What closed it before",
+  "placement": "31 May 2024 bullet",
+  "why_new": "Largely in the guide (closure for all countries, blamed on the Bangladeshi syndicate); adds only that as of 6 Jan 2025 no progress was known after the Anwar visit. Low priority.",
+  "published": "2025-01-06"
+ },
+ {
+  "key": "MY3c-35",
+  "fact_ids": [
+   "MP0270",
+   "MP0271"
+  ],
+  "claim": "At the same January 2025 meeting Yunus asked Malaysia to let in the 18,000 Bangladeshi workers who could not join work by the May 2024 deadline, and High Commissioner Mohd Shuhada Othman said a joint technical committee of Malaysian and Bangladeshi officials had been formed on the matter, had met in Kuala Lumpur on 31 December 2024 and was to meet again the next day.",
+  "target_section": "What closed it before",
+  "placement": "What happened to the stranded workers of 2024",
+  "why_new": "The guide lacks the joint technical committee and its meetings (31 Dec 2024, 14 Jan 2025).",
+  "published": "2025-01-13"
+ },
+ {
+  "key": "MY3c-37",
+  "fact_ids": [
+   "MP0272",
+   "MP0273",
+   "MP0274"
+  ],
+  "claim": "On 22 January 2025, about a hundred workers who had been unable to go to Malaysia, some wearing burial shrouds, blocked one side of the SAARC Fountain intersection at Karwan Bazar, Dhaka, from 9 am, chanting against the syndicate and demanding to go to Malaysia and to meet the Chief Adviser, then moved to the front of the expatriates' welfare ministry after police cleared them.",
+  "target_section": "What closed it before",
+  "placement": "What happened to the stranded workers of 2024",
+  "why_new": "The guide's stranded-worker list has no account of the workers' protests.",
+  "published": "2025-01-22"
+ },
+ {
+  "key": "MY3c-38",
+  "fact_ids": [
+   "MP0275",
+   "MP0276",
+   "MP0277"
+  ],
+  "claim": "Expatriates' Welfare Secretary Md Ruhul Amin said on 22 January 2025 that the technical committees of the Bangladesh High Commission in Malaysia and of Malaysia's Home Ministry had met twice, that Malaysia had agreed in principle, that another meeting was due in February, that he hoped the matter would be final by April, and that 18,000 workers would go in phases.",
+  "target_section": "What closed it before",
+  "placement": "What happened to the stranded workers of 2024",
+  "why_new": "Fills the 2025 gap in the guide's stranded-worker timeline.",
+  "published": "2025-01-22"
+ },
+ {
+  "key": "MY3c-39",
+  "fact_ids": [
+   "MP0278",
+   "MP0279"
+  ],
+  "claim": "The secretary said on 22 January 2025 that the workers' list had been sent to Malaysia, the method was not yet fixed and would be discussed at Malaysian minister level, sending would start within 15 days of Malaysia's decision, and efforts were being made so that the workers would not face a new burden of costs to go.",
+  "target_section": "What closed it before",
+  "placement": "What happened to the stranded workers of 2024",
+  "why_new": "Set against the guide's fact that BOESL later charged them another Tk 1,62,500 each: the Ministry had said in Jan 2025 it was trying to avoid new costs.",
+  "published": "2025-01-22"
+ },
+ {
+  "key": "MY3c-40",
+  "fact_ids": [
+   "MP0280"
+  ],
+  "claim": "The secretary said that, as of two days before 22 January 2025, recruiting agencies had refunded the money of 81% of the workers who could not go to Malaysia and submitted lists with the workers' signatures to the Ministry, that the deadline for the rest was Thursday 23 January, and that action would be taken against agencies that did not refund.",
+  "target_section": "What closed it before",
+  "placement": "What happened to the stranded workers of 2024",
+  "why_new": "CONFLICT: the guide says 'Many got no refund and some a small one [YI0011]'; the Ministry claimed 81% had been refunded by Jan 2025 (amount refunded per worker not stated). Reviewer should reconcile.",
+  "published": "2025-01-22"
+ },
+ {
+  "key": "MY3c-41",
+  "fact_ids": [
+   "MP0281"
+  ],
+  "claim": "Prothom Alo reported on 22 January 2025 that 16,970 workers who had completed every step and held final clearance could not reach Malaysia by the 31 May 2024 deadline, that the protesting workers put the number at 18,000, and that the government had promised to recover their money from the recruiting agencies.",
+  "target_section": "What closed it before",
+  "placement": "What happened to the stranded workers of 2024",
+  "why_new": "Adds the 18,000 figure (workers' own count, also used by both governments) to the guide's Need-to-know list of stranded counts.",
+  "published": "2025-01-22"
+ },
+ {
+  "key": "MY3c-44",
+  "fact_ids": [
+   "MP0282",
+   "MP0283"
+  ],
+  "claim": "Foreign Ministry spokesperson Mohammad Rafiqul Alam said on 27 January 2025 that the Bangladesh High Commissioner met Malaysia's Home Minister Saifuddin Nasution Ismail on 5 December 2024 about the roughly 18,000 workers who missed the 31 May 2024 deadline, and the Home Minister proposed a Joint Technical Group of Malaysian Immigration and High Commission representatives to take them in phases.",
+  "target_section": "What closed it before",
+  "placement": "What happened to the stranded workers of 2024",
+  "why_new": "The guide has no account of how the stranded-worker scheme was set up.",
+  "published": "2025-01-27"
+ },
+ {
+  "key": "MY3c-45",
+  "fact_ids": [
+   "MP0284",
+   "MP0285",
+   "MP0286"
+  ],
+  "claim": "The spokesperson said the Joint Technical Group met on 31 December 2024 and 14 January 2025, and that Bangladesh, after checking its list of more than 17,000 workers with Malaysian stakeholders, informed them of an initial list of 7,964 workers identified as eligible to enter Malaysia in the first phase; the group would decide by what process they would go.",
+  "target_section": "What closed it before",
+  "placement": "What happened to the stranded workers of 2024",
+  "why_new": "Differs from the guide's 7,873 later cleared through BOESL: 7,964 was the initial first-phase eligible list in Jan 2025. Both may stand with dates.",
+  "published": "2025-01-27"
+ },
+ {
+  "key": "MY3c-58",
+  "fact_ids": [
+   "MP0299"
+  ],
+  "claim": "Before Malaysia's market closed in June 2024 the price of a ticket to Malaysia rose above Tk 1 lakh, Prothom Alo reported on 9 April 2025.",
+  "target_section": "What closed it before",
+  "placement": "What happened to the stranded workers of 2024",
+  "why_new": "The guide says some stranded workers could not get air tickets; this gives the price reached. Could also go to Step 6 item 4 (the ticket).",
+  "published": "2025-04-09"
+ },
+ {
+  "key": "MY3d-7",
+  "fact_ids": [
+   "MP0491"
+  ],
+  "claim": "Prothom Alo reported in April 2025 that 17,000 workers who had completed every procedure could not go by the 31 May 2024 deadline, while BAIRA members said about 50,000 workers who had paid money and were in process were harmed.",
+  "target_section": "What closed it before",
+  "placement": "other: stranded workers of 2024, counts",
+  "why_new": "Adds BAIRA's count of about 50,000 who paid and were in process; the guide's counts run to about 40,000.",
+  "published": "2025-04-18"
+ },
+ {
+  "key": "MY3d-16",
+  "fact_ids": [
+   "MP0511",
+   "MP0512",
+   "MP0513"
+  ],
+  "claim": "A six-member Ministry committee formed on 2 June 2024 found that the failure to send 17,777 workers who had BMET clearance cards lay entirely with the recruiting agencies concerned; its report was filed in the High Court in a writ by Supreme Court lawyer Tanvir Ahmed, and on 27 April 2025 a High Court bench of Justices Fahmida Quader and Mubina Asaf ordered a progress report on the action taken by 27 August 2025.",
+  "target_section": "What closed it before",
+  "placement": "other: stranded workers of 2024",
+  "why_new": "Guide has the 17,777 count but not the committee's finding that agencies were wholly to blame, nor the High Court case.",
+  "published": "2025-04-27"
+ },
+ {
+  "key": "MY3d-18",
+  "fact_ids": [
+   "MP0517",
+   "MP0518",
+   "MP0519"
+  ],
+  "claim": "The committee found that some agencies took Ministry recruitment permission but never applied for BMET smart cards for 34,270 workers, which it called clear negligence, and recommended legal action against the agencies, an order to refund at once the money taken from workers who could not go, and settlement under the law of complaints that agencies took more than the Tk 78,990 cap.",
+  "target_section": "What closed it before",
+  "placement": "other: stranded workers of 2024",
+  "why_new": "Committee's refund recommendation and the 34,270 figure not in guide; relevant to stranded workers seeking refunds.",
+  "published": "2025-04-27"
+ },
+ {
+  "key": "MY3d-19",
+  "fact_ids": [
+   "MP0520",
+   "MP0521",
+   "MP0522"
+  ],
+  "claim": "According to the writ petitioner's lawyer Tanvir Ahmed, at the 27 April 2025 High Court hearing the government side said workers who could not go would be taken to Malaysia on a priority basis, and the court asked to be told what had been done to refund in full those charged more than the fixed Tk 78,990.",
+  "target_section": "What closed it before",
+  "placement": "other: stranded workers of 2024",
+  "why_new": "Court-ordered refund question; not in guide.",
+  "published": "2025-04-27"
+ },
+ {
+  "key": "MY3d-26",
+  "fact_ids": [
+   "MP0539",
+   "MP0540",
+   "MP0541"
+  ],
+  "claim": "Prothom Alo reported in May 2025 that more than 4 lakh workers went in 2007-08 before the first closure, about 3 lakh in 2017-18 before the second, and about 5 lakh from August 2022 to May 2024; about 13 lakh Bangladeshi workers went to Malaysia from 2004 to May 2024, the most in a single year in 2023, more than 3.5 lakh.",
+  "target_section": "What closed it before",
+  "placement": "other: lead-in",
+  "why_new": "Adds the 2017-18 surge (about 3 lakh) before the 2018 closure; the guide says about 2 lakh went through the 10 agencies. 2022-24: about 5 lakh here vs 4.5 lakh in guide.",
+  "published": "2025-05-15"
+ },
+ {
+  "key": "MY3d-27",
+  "fact_ids": [
+   "MP0542"
+  ],
+  "claim": "Prothom Alo reported in May 2025 that Malaysia had taken workers from 14 countries but closed its labour market to all of them, Bangladesh included, at the start of 2024, amid allegations of a syndicate in sending workers.",
+  "target_section": "What closed it before",
+  "placement": "other: 31 May 2024 bullet",
+  "why_new": "Minor: confirms closure applied to all source countries; guide has this via MA0003. Low priority.",
+  "published": "2025-05-15"
+ },
+ {
+  "key": "MY3d-29",
+  "fact_ids": [
+   "MP0546",
+   "MP0547"
+  ],
+  "claim": "Asif Nazrul said on 15 May 2025 that Malaysia had confirmed the first batch of 7,926 workers who could not go would be taken and that the process had begun; the Malaysian Prime Minister had promised during his 2024 visit to Bangladesh to let those workers go.",
+  "target_section": "What closed it before",
+  "placement": "other: stranded workers of 2024",
+  "why_new": "Conflict: guide says Malaysia cleared 7,873 [YI0011]; this says 7,926 in the first batch (May 2025).",
+  "published": "2025-05-15"
+ },
+ {
+  "key": "MY3d-36",
+  "fact_ids": [
+   "MP0562"
+  ],
+  "claim": "Lutfey Siddiqi said on 21 May 2025 that about 8,000 workers who had completed every procedure but could not go when the market closed would go first, sent quickly through BOESL under government management.",
+  "target_section": "What closed it before",
+  "placement": "other: stranded workers of 2024",
+  "why_new": "Dates the decision to route the stranded workers through BOESL to May 2025; guide has the August 2025 notice and the 7,873 figure.",
+  "published": "2025-05-21"
+ },
+ {
+  "key": "MY3e-5",
+  "fact_ids": [
+   "MP0625",
+   "MP0626"
+  ],
+  "claim": "Prothom Alo reported in August 2025 that 15,000 workers who had completed every procedure could not go when Malaysia's labour market closed in 2024, and the Ministry's first-year report said an agreement had been signed with Malaysia to send 8,000 workers in an initial phase, which BOESL had taken on at nominal cost.",
+  "target_section": "What closed it before",
+  "placement": "What happened to the stranded workers of 2024",
+  "why_new": "Adds a sixth stranded count (15,000) to the guide's list (16,970 / 17,777 / 31,304 / 40,000 / 11,000). CONFLICT: 'nominal cost' against the guide's Tk 1,62,500 BOESL charge [YI0011, A0056].",
+  "published": "2025-08-20"
+ },
+ {
+  "key": "MY3e-18",
+  "fact_ids": [
+   "MP0641"
+  ],
+  "claim": "At the same 20 August 2025 press conference, the adviser said an agreement had been signed with Malaysia to send 8,000 workers who could not go in 2024 because the market closed, and that BOESL had taken on sending them at nominal cost.",
+  "target_section": "What closed it before",
+  "placement": "What happened to the stranded workers of 2024",
+  "why_new": "CONFLICT: 'nominal cost' vs the Tk 1,62,500 BOESL charged in the guide [YI0011]; the guide cites only a column for the 8,000 figure [MA0102].",
+  "published": "2025-08-20"
+ },
+ {
+  "key": "MY3e-68",
+  "fact_ids": [
+   "MP0739"
+  ],
+  "claim": "The first 23 Bangladeshi workers went to Malaysia in 1978, and the formal manpower agreement between the two countries was signed in 1992, Prothom Alo reported.",
+  "target_section": "What closed it before",
+  "placement": "other: history",
+  "why_new": "Corridor origin; low priority.",
+  "published": "2025-12-14"
+ }
+]
