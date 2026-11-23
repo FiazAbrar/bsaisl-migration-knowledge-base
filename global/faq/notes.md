@@ -165,3 +165,6 @@ About 330 cited sentences and list items were checked against the facts' quotes,
 ## Open, not in the doc
 
 - Postal-vote app name: GF0122 (NSU researcher, January 2026) calls it "Postal Vote BD"; a London report of November 2025 (GF0183's source) says the Election Commission's "Nagorik" app. The doc keeps "Postal Vote BD" and the new sentence says only "the app".
+## Conflicts resolved, 22 Nov 2026 (from the bot's prompt test, carried over from the cross-country doc)
+
+- Debt payback example aligned with the Saudi guide's rate (SR 1 = Tk 33): Tk 8,250, about 55 months (was Tk 8,300 at Tk 33.20, 54 months).

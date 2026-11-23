@@ -120,6 +120,7 @@ All 17 country-doc links checked against `countries/<c>/doc.md`; all named secti
 - **Rest of the 2026 trafficking Act** not mined: e.g. s.20 (advertising for migrant smuggling, 3-7 years, logged as VS0013 but not cited) could go in the Online scams section.
 - The Need to know items in the doc were not researched further in this pass.
 
+<<<<<<< HEAD
 ## Resolved conflicts
 
 - **RMMRU "31% cheated" vs "51% cheated" (AA0241, MB0065, GS0008).** Not a conflict once the saved passages are read: AA0241's Bangla says 31% are cheated "after going abroad" (বিদেশে গিয়ে); Tasneem Siddiqui's August 2024 column (GS0008) gives RMMRU's split as 19% who paid and could not go plus 31% harassed after going; her July 2026 figure (MB0065) is 51% in all = 19% who could not go + 32% tortured after going. The doc now presents them as parts of one breakdown. Still open: which study, year and sample (kept as a Need to know).
@@ -127,3 +128,8 @@ All 17 country-doc links checked against `countries/<c>/doc.md`; all named secti
 ## Held items round 2 and 3 (held2-dalal-scams, held3-dalal-scams; 6 items), agent GS
 
 Added GS0110-GS0116: the May 2026 agency grading plan (Action against agencies and officials), the Sunamganj cases against 9 dalals after the March 2026 Libya-Greece deaths (File a police case, "In practice"), and two writers' accounts of study-abroad agency tricks (Study-abroad firms that take the fee). R2-dalal-scams-2 and -3 (foreigners arrested in Chattogram and Cox's Bazar in September 2026 for setting up scam centres inside Bangladesh) are not broker scams on migrants; marked wrong doc, for the Illegal routes doc's "Cambodia, Myanmar and Laos: scam compounds". The agency count (more than 3,000, May 2026) sits inside the range already noted in the Need to know on licensed agencies, so that bullet stays.
+=======
+## Conflicts resolved, 22 Nov 2026 (from the bot's prompt test, carried over from the cross-country doc)
+
+- SVP fee: the skills-test racket section said USD 50 (BMET leaflets VS0050/VS0051, Oct-Dec 2025); the fee rose to USD 85 in early September 2026 (F0091). Section now says USD 85 since September 2026.
+>>>>>>> global-modules

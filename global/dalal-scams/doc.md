@@ -268,7 +268,7 @@ A "free visa" (ফ্রি ভিসা) is a real visa bought from a sponsor w
 
 **How it works:**
 
-1. Saudi-bound workers take a skill test under the SVP (Skill Verification Program) run by Takamol, for a set fee of USD 50 (about Tk 6,200); dalals ask more, promising a pass [VS0051, VS0050].
+1. Saudi-bound workers take a skill test under the SVP (Skill Verification Program) run by Takamol, for a set fee, USD 85 since early September 2026 (it was USD 50); dalals ask more, promising a pass [VS0051, F0091, VS0050].
 2. Jordan garment jobs go through a government channel that is meant to be free, and cheats charge for it [S0128]. A BOESL (Bangladesh Overseas Employment and Services Limited, the state recruiting company) deputy manager said in May 2026 that BOESL has sent women to Jordan's garment sector entirely free since 2010, its officers handling everything from the medical and pre-departure training to the airport, and that it tells workers each country's fixed migration cost in advance [OA0202, OA0203].
 3. Brokers wait where candidates gather: according to SRB (the Special Response Battalion), BOESL's test is held every Friday and Saturday at the Bangladesh-Korea Technical Training Centre (BKTTC), and a ring arrested in October 2026 worked mainly by targeting candidates there [FV0224, FV0225]. It promised a worker visa at low cost and a pass in the written test, took BDT 40,000 to 10 lakh depending on the case, then kept the money on various excuses [FV0222, FV0223].
 4. In Singapore, the state minister asked in July 2026 how agencies take Tk 12 to 15 lakh from a person going there, and said the Singapore authority does not take that money: six authorised training institutes charge it and, working as a syndicate, are making hundreds of crores of taka [MB0059, MB0060].
@@ -279,7 +279,7 @@ A "free visa" (ফ্রি ভিসা) is a real visa bought from a sponsor w
 
 **Red flags:**
 
-- any payment beyond the USD 50 test fee: BMET says paying extra cannot buy a Saudi skill-test pass [VS0050, S0077];
+- any payment beyond the test fee (USD 85 since September 2026): BMET says paying extra cannot buy a Saudi skill-test pass [F0091, VS0050, S0077];
 - a fee for a government-to-government job: BOESL has no agent or sub-agent and takes no cash [S0130]; SRB said in October 2026 that BOESL takes no fee from candidates in recruitment, and that a person with only a passport can get work abroad through its test at no cost [FV0226, FV0227];
 - a job promised in a training centre's name [FV0228].
 

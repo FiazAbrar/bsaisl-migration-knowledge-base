@@ -8,7 +8,7 @@ Tk is the Bangladeshi taka (1 lakh is Tk 100,000), SR the Saudi riyal and USD th
 
 ### In one minute
 
-Saudi Arabia takes two of every three Bangladeshis who go abroad for work, though 2026 departures are 45% down on 2025 [E0129]. In 2026 the war reached Saudi Arabia: missiles and drones hit a labour camp, Aramco oil sites and the Riyadh and Dammam airports, killing and injuring Bangladeshis, and Dhaka-Riyadh flights are suspended (see Current situation) [SP0641, SP0779, SP0794, SP0520, SH0007]. Every work visa belongs to a Saudi sponsor (kafil, কফিল), who can sell it, and it reaches the village through agents and brokers at several times its price [SB0007]. A man pays Tk 3.5-5 lakh or more, most often Tk 4-5 lakh, mostly borrowed, against a legal maximum of Tk 1.65 lakh [SJ0004, SB0024, SJ0025, A0013]. A cleaner or labourer earns SR 500-1,200 a month (Tk 16,500-40,000) [SJ0007, SL0033]. The sponsor holds the iqama (আকামা, the residence card), and a visa sold for a job that doesn't exist (a "free visa") leaves the worker without an iqama, work or pay [E0128]. A woman going as a domestic worker should pay nothing, yet none of the returnee women IOM interviewed in 2020 had gone free [D0059, SI0030].
+Saudi Arabia takes two of every three Bangladeshis who go abroad for work, though 2026 departures are 45% down on 2025 [E0129]. In 2026 the war reached Saudi Arabia: missiles and drones hit a labour camp, Aramco oil sites and the Riyadh and Dammam airports, killing and injuring Bangladeshis, and Dhaka-Riyadh flights are suspended (see Current situation) [SP0641, SP0779, SP0794, SP0520, SH0007]. Every work visa belongs to a Saudi sponsor (kafil, কফিল), who can sell it, and it reaches the village through agents and brokers at several times its price [SB0007]. A man pays Tk 3.5-5 lakh or more, most often Tk 4-5 lakh, mostly borrowed, against a legal maximum of Tk 1.65 lakh [SJ0004, SB0024, SJ0025, A0013, KR0001]. A cleaner or labourer earns SR 500-1,200 a month (Tk 16,500-40,000) [SJ0007, SL0033]. The sponsor holds the iqama (আকামা, the residence card), and a visa sold for a job that doesn't exist (a "free visa") leaves the worker without an iqama, work or pay [E0128]. A woman going as a domestic worker should pay nothing, yet none of the returnee women IOM interviewed in 2020 had gone free [D0059, SI0030].
 
 ### Is it open now, and who can go?
 
@@ -264,7 +264,7 @@ Brokers sell guaranteed "fit" results from the Wafid medical check (the Gulf hea
 The Saudi employer is meant to pay nearly every cost, and the legal maximum a worker may pay is Tk 1.65 lakh in all; yet a man pays two to three times that, about Tk 5 lakh on average and up to Tk 9 lakh, mostly borrowed [C0020, A0013, A0014, SJ0025]. Most of the jobs pay SR 800-1,000 a month [SJ0007]; a man on SR 800 who buys his own food and phone keeps at most SR 250 (Tk 8,250) (see What reaches home, and how long the debt takes) [SM0008]. The rule and the whole cost: see The legal maximum and what people really pay.
 
 #### What the visa, medical and fingerprints really cost
-- The visa: it costs the Saudi sponsor about SR 2,000 to issue, the sponsor sells it for Tk 1-1.5 lakh, and with each commission on the way the worker ends up paying three or four times the original price [SB0006, SI0037, SB0007]. On a genuine company visa you should pay only the Bangladesh-side fees, about Tk 19,800 in all, before the skill test, passport and ticket (see If a relative or friend offers you a visa, What it costs, official against real) [A0028, RB0021, B0052, RB0024, B0166, A0011, A0012, B0096]. A free visa (also called an azad visa, আযাদ ভিসা) is the scam visa with no real job [SM0045]; what it costs: see the same section. What men who died in the 2026 Riyadh factory fire had paid: see The Riyadh factory fire [SP0722, SP0723].
+- The visa: it costs the Saudi sponsor about SR 2,000 to issue, the sponsor sells it for Tk 1-1.5 lakh, and with each commission on the way the worker ends up paying three or four times the original price [SB0006, SI0037, SB0007]. On a genuine company visa you should pay only the Bangladesh-side fees, about Tk 19,800 in all, plus the skill test and passport (who pays the ticket: see Who pays what; what it costs on a relative's visa: see If a relative or friend offers you a visa, What it costs, official against real) [A0028, RB0021, B0052, RB0024, B0166, A0011, A0012, B0096]. A free visa (also called an azad visa, আযাদ ভিসা) is the scam visa with no real job [SM0045]; what it costs: see the same section. What men who died in the 2026 Riyadh factory fire had paid: see The Riyadh factory fire [SP0722, SP0723].
 - The medical: the set fee is about Tk 10,000, but most workers pay double or more; a worker declared unfit pays Tk 30,000-80,000 for a "fit" report, and many make a "contract" (কন্ট্রাক্ট) with a broker in advance to be passed [SJ0013, SJ0014]. A bought "fit" report can get you deported (see The medical) [B0031].
 - Tasheer's fingerprints: the service fee is about Tk 660-694, or about Tk 2,100-2,200 in its premium Lounge; the appointment slip is free, so an agency asking money for it is overcharging (see Who pays what) [RB0024, SJ0010, RB0026].
 - The ticket and extras: in January 2025 Bangladeshis in Saudi Arabia complained to Asif Nazrul in Riyadh about high air ticket prices and recruiting agencies collecting extra money, and he promised solutions [SP0206].
@@ -454,18 +454,18 @@ This visa is for a job with a Saudi company. The whole process usually takes abo
 - The pre-departure orientation (PDO): Tk 100 plus a Tk 100 platform charge (see Step 8) [B0166].
 - The Wage Earners' Welfare Board fee: Tk 5,500 [A0011].
 - Migrant worker insurance: Tk 1,000, covering death or permanent disability for Tk 10 lakh over 5 years [A0012].
+- BMET clearance and smart card: Tk 250 [B0096].
 - Source income tax at BMET clearance: Tk 500 for a Saudi single visa [B0096].
 
 > **Need to know**
 > - What is the medical centre's official fee for the tests?
-> - Does BMET still charge Tk 250 for clearance and the smart card?
 > - Does the DEMO charge for fingerprints?
 > - On a single visa, who pays the outbound ticket: the employer or the worker?
 
 #### The legal maximum and what people really pay
 
 **The rule**
-The expatriates' ministry set a maximum of Tk 1.65 lakh in all in 2016-2017 and has not changed it; in October 2026 the state minister said new country-by-country maximums are coming [A0013, SJ0019, SJ0001, SB0016]. Only group job orders need the ministry's recruitment permission (2017) [RB0034]. In October 2025 the expatriates' welfare secretary, Neyamat Ullah Bhuiyan, said the government is pushing, through bilateral agreements, for workers to be sent at the employer's cost [SP0604, SP0605]. Two BMET permission letters from September 2025 (RL-1059 and RL-0579) put every Saudi-side cost, levy and airfare included, on the employer, and let the agency take only what the letter allows, Tk 50,000 and Tk 58,610 respectively, by cheque or pay order [A0016, ZZ0017, A0019]. A worker on a single visa has no such letter, so only the Tk 1.65 lakh cap applies (how many go on single visas: see "Is it open now, and who can go?", Channels) [RB0034]. The fees a worker legitimately pays in Bangladesh are listed at the start of this section (see Who pays what).
+The expatriates' ministry set a maximum of Tk 1.65 lakh in all in 2016-2017 and has not changed it; in October 2026 the state minister said new country-by-country maximums are coming [KR0001, A0013, SJ0019, SJ0001, SB0016]. The maximum covers the air fare, passport, medical and related fees [KR0002]. Only group job orders need the ministry's recruitment permission (2017) [RB0034]. In October 2025 the expatriates' welfare secretary, Neyamat Ullah Bhuiyan, said the government is pushing, through bilateral agreements, for workers to be sent at the employer's cost [SP0604, SP0605]. Two BMET permission letters from September 2025 (RL-1059 and RL-0579) put every Saudi-side cost, levy and airfare included, on the employer, and let the agency take only what the letter allows, Tk 50,000 and Tk 58,610 respectively, by cheque or pay order [A0016, ZZ0017, A0019]. A worker on a single visa has no such letter, so only the Tk 1.65 lakh cap applies (how many go on single visas: see "Is it open now, and who can go?", Channels) [RB0034]. The fees a worker legitimately pays in Bangladesh are listed at the start of this section (see Who pays what).
 
 **What people really pay**
 In 2026 agencies put the whole cost at Tk 3.5-5 lakh and a press investigation at about Tk 5 lakh on average, up to Tk 9 lakh [SJ0004, A0014]. In October 2026 the expatriates' welfare minister told agencies that where it is possible to go for Tk 3 lakh, taking Tk 7-8 lakh is improper, and urged them to stop collecting extra money from workers [SP0562].
@@ -660,7 +660,7 @@ Some are free visas or household visas with no real job (2020, 2025) [SH0024, RA
 
 **What it costs, official against real.** A relative's visa is not cheaper than an agency's: workers paid relatives Tk 286,642 on average, brokers Tk 303,351 and agencies Tk 243,531 [RD0023].
 
-- *Genuine company visa:* you pay only the Bangladesh-side fees, about Tk 19,800 in all (the list under Who pays what), before the skill test, passport and ticket [A0028, RB0021, B0052, RB0024, B0166, A0011, A0012, B0096]. In practice the agency's processing fee is whatever you negotiate [RB0047], and a visa seller can rent an agency's licence for Tk 15,000-20,000 a visa to get the clearance [RD0006].
+- *Genuine company visa:* you pay only the Bangladesh-side fees, about Tk 19,800 in all (the list under Who pays what), plus the skill test and passport [A0028, RB0021, B0052, RB0024, B0166, A0011, A0012, B0096]. In practice the agency's processing fee is whatever you negotiate [RB0047], and a visa seller can rent an agency's licence for Tk 15,000-20,000 a visa to get the clearance [RD0006].
 - *Free visa:* Tk 3-5 lakh through an agency and up to Tk 5-7 lakh through a broker [SM0026, SM0011]; another 2026 account puts the whole trip at Tk 8-9 lakh [RA0030], and in July 2026 two relatives of a Cumilla worker paid one man Tk 12 lakh between them, with Tk 4 lakh more due after arrival [RA0029].
 
 > **Need to know**
@@ -957,7 +957,7 @@ BMET clearance is the emigration clearance, on a smart card [B0083, B0095]. The 
 
 1. **Do the orientation first** and get clearance within 3 months of its certificate (see Do the compulsory 3-day pre-departure orientation) [B0084].
 2. **Give BMET's own fingerprint,** the bio-enrolment ("bio finger"), for the clearance card; this is a second fingerprint after the Tasheer one, and the agency then gets the card [RB0028].
-3. **Pay the fees:** the Wage Earners' Welfare Board's Tk 5,500 welfare fee and the one-time Tk 1,000 insurance premium (5 years, Tk 10 lakh on death) [B0099, E0099, E0044, E0045], and income tax: Tk 500 for a single visa; group visas Tk 1,200 skilled, Tk 800 unskilled [B0096]. The agency hands BMET the welfare fee as a pay order and the tax as a challan (list below) [B0095]. Agencies expect you to settle their bill before they take the clearance and buy the ticket [RB0030].
+3. **Pay the fees:** the Wage Earners' Welfare Board's Tk 5,500 welfare fee and the one-time Tk 1,000 insurance premium (5 years, Tk 10 lakh on death) [B0099, E0099, E0044, E0045], the Tk 250 clearance and smart card fee, and income tax: Tk 500 for a single visa; group visas Tk 1,200 skilled, Tk 800 unskilled [B0096]. The agency hands BMET the welfare fee as a pay order and the tax as a challan (list below) [B0095]. Agencies expect you to settle their bill before they take the clearance and buy the ticket [RB0030].
 4. **Download the card** from [OEP](https://www.oep.gov.bd/employee-card) [B0107].
 
 The agency applies with these [B0095]:
@@ -986,7 +986,6 @@ If it isn't done [B0097]:
 > **Need to know**
 > - Since September 2025, has BMET's emigration branch cleared a Saudi single visa for a worker who applied without an agency?
 > - How does a worker applying alone pay the welfare fee and premium?
-> - Is the Tk 250 clearance or smart card fee still charged [B0096, B0102]?
 
 #### Before you fly
 
@@ -1654,7 +1653,7 @@ The length and the order have been in flux. BAIRA (the Bangladesh Association of
 
 1. **Medical check, Tasheer fingerprints and checking the visa:** as in Work visa: company worker, Step 4 (the Wafid medical check), Step 5 and Step 7.
 2. **BMET clearance** as for a company worker (see Get BMET clearance), also bringing proof of age and the guardian's letter [D0039].
-3. **Before you fly,** save the embassy labour wing's free line 8001000125 [E0086, E0024] and the Probashi call centre 16135 (+880 8000102030 from abroad) [E0021], in your phone and on paper.
+3. **Before you fly,** save the embassy labour wing's free line 8001000125 [E0086, E0024] and the Probashi call centre 16135 (+880 9610102030 from abroad) [E0021, KR0003], in your phone and on paper.
 
 ### How many women go
 
@@ -2616,7 +2615,7 @@ Security depends on the amount [E0113, E0114]:
   - Labour wing first secretary: +966126335082, fsjeddah@probashi.gov.bd [E0166, E0167].
   - Toll-free hotline: 8002440051, free, every day 8 am to 9 pm Saudi time except weekly and other holidays [SP0435]. It began in April 2019 as a pilot under an agreement between the ministry and the ILO (International Labour Organization), is now funded by the Wage Earners' Welfare Board, and had taken more than 2 lakh calls by October 2025; a worker in Bisha said it took several tries to get through and operators couldn't check his e-passport status, telling him to check online himself [SP0437, SP0438, SP0439].
 - **Bangladesh Hajj Office, Jeddah** (under Bangladesh's Ministry of Religious Affairs): missionhajj@gmail.com [SP0558]. It advertises some posts to Bangladeshis in Saudi Arabia with a valid iqama and passport: in October 2026, protocol assistant and computer operator cum interpreter at SR 4,425-6,875, caretaker cum night guard at SR 2,815-5,090 and drivers at SR 3,250-5,525 a month, age limit 32 [SP0555, SP0556, SP0557]. Applications go by hand or by email, with a handwritten application and CV, 2 passport photos, iqama and passport copies and attested copies of certificates [SP0558].
-- **Probashi call centre (Welfare Board):** 16135 free from Bangladesh, 09610102030, +8808000102030 from abroad, pbcc@wewb.gov.bd [E0021].
+- **Probashi call centre (Welfare Board):** 16135 free from Bangladesh, +880 9610102030 from abroad, pbcc@wewb.gov.bd [E0021, KR0003].
 - **Ministry of Expatriates' Welfare:**
   - Unpaid wages and insurance: Welfare-1, saswelfare@probashi.gov.bd, 02-41030251 [E0001].
   - Deaths, return home and women workers: Welfare-2, aswelfare@probashi.gov.bd [E0004, E0006].

@@ -53,7 +53,6 @@ These are the questions the Saudi Arabia migration guide can't yet answer, group
 
 - What is the Wafid medical test fee?
 - What is the pre-departure orientation (PDO) fee?
-- Does BMET still charge Tk 250 for clearance and the smart card?
 - Does the DEMO (district employment and manpower office) charge for taking a worker's fingerprints after OEP (Overseas Employment Platform) registration?
 - Do the new country-by-country maximum migration costs, which the state minister said in October 2026 were coming, replace the Tk 1.65 lakh legal maximum for a Saudi job?
 - On a Saudi single visa (a visa issued for one named worker), who pays the outbound ticket: the employer or the worker?
@@ -145,7 +144,6 @@ These are the questions the Saudi Arabia migration guide can't yet answer, group
 
 - What is BMET's own document list for the pre-departure orientation (PDO)?
 - How does a worker applying alone for BMET clearance pay the Wage Earners' Welfare Board fee (Tk 5,500) and the insurance premium (Tk 1,000)?
-- Is the Tk 250 clearance or smart card fee still charged?
 - Does the USD 360 base fare for new workers with a BMET smart card (Dhaka-Jeddah, Dhaka-Madinah, Dhaka-Riyadh) still apply?
 - Where does a worker complain if an airline or agency refuses the USD 360 worker fare?
 
