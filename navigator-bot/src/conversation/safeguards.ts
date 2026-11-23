@@ -19,6 +19,7 @@ export const REMOVED = "[number removed]";
 export function cleanText(text: string): string {
   return text
     .replace(/\r\n?/g, "\n")
+    // biome-ignore lint/suspicious/noControlCharactersInRegex: removing control characters is the point
     .replace(/[\u0000-\u0008\u000B-\u001F\u007F]/g, "")
     .trim();
 }
