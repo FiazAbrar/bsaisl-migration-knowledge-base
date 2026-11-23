@@ -162,10 +162,13 @@ These are the questions the Qatar migration guide can't yet answer, grouped by t
 - What riyal amount does the Bangladesh Embassy counter in Doha charge now for Welfare Board membership taken from Qatar, given that its own pages say QR 140 and QR 170, both set before the welfare fee rose on 1 October 2026?
 - Does Welfare Board (WEWB) membership taken from Qatar expire?
   - How is Welfare Board membership taken from Qatar renewed?
+- Qatar's health insurance law exempts holders of temporary residence permits from compulsory insurance: does that exemption apply to any company worker, for example before his residence permit is issued?
+  - If it does, who pays for his medical care?
 
 ### What can get you jailed or deported
 
 - Can an ordinary unpaid debt (not a cheque) lead to prison or a travel ban in Qatar?
+- What penalty, if any, does Qatari law set for a worker who sends money home through hundi (unlicensed money transfer), as distinct from the hundi operator, and can it lead to deportation?
 
 ### If you aren't paid
 
@@ -361,6 +364,7 @@ These are the questions the Qatar migration guide can't yet answer, grouped by t
 - What is the appeal route for a Bangladeshi business, meeting or training visitor to Qatar?
 - Can a business visitor to Qatar bring a spouse?
 - What scams are reported around Qatar business visas?
+- For a meeting or work-mission visit visa to Qatar, where does the inviting company or body apply, and what is the fee?
 
 ## Temporary work visa and work visit
 
@@ -379,6 +383,7 @@ These are the questions the Qatar migration guide can't yet answer, grouped by t
 - Is there an appeal if the Multiple Entry Work Visit Visa is refused?
 - Can the holder of a Multiple Entry Work Visit Visa bring a spouse?
 - What scams are reported around the Multiple Entry Work Visit Visa?
+- Can a private company outside the list of bodies on the Ministry of Labour's (MOL's) 2022 page get a Qatar temporary work visa, given that the 2019 regulations let private companies apply?
 
 ### Seafarers and truck drivers
 
@@ -428,6 +433,7 @@ These are the questions the Qatar migration guide can't yet answer, grouped by t
 ### Scams
 
 - What student-visa scams are reported for Bangladeshis going to Qatar?
+- Who offers students in Qatar paid jobs off campus and outside Sahem (the official part-time jobs platform for students), and how are students who take them caught and punished in practice?
 
 ## Hayya A2, A3 and A4 (if you live in a Gulf country, hold certain visas or travel with a Gulf citizen)
 
@@ -445,6 +451,7 @@ These are the questions the Qatar migration guide can't yet answer, grouped by t
 - Has the medical visa MoPH was reported in April 2026 to be exploring, with an online portal for patients abroad to submit medical reports, launched?
 - Can a refusal of a Qatar conference, event or medical visa be appealed?
 - What scams are reported for the Qatar conference, event and medical visas?
+- What do HMC (Hamad Medical Corporation) and PHCC (the Primary Health Care Corporation) charge a visitor on a medical treatment visa for a consultation, tests or surgery under Ministerial Decisions 28 and 29 of 2023?
 
 ## Permanent residency, property and investor residence
 
@@ -458,6 +465,8 @@ These are the questions the Qatar migration guide can't yet answer, grouped by t
 ### Property residence
 
 - Has the list of areas where non-Qataris may own property and get residency on that basis changed since 2023?
+- After a property purchase is registered, is the property-owner residence permit requested through the Ministry of Justice's offices for non-Qatari ownership of real estate or from the Ministry of Interior (MOI)?
+  - What papers, fee and time does it take?
 
 ### Investor, entrepreneur, talent and researcher residence
 
@@ -540,6 +549,12 @@ These are the questions the Qatar migration guide can't yet answer, grouped by t
 ### Grace periods and crisis flights
 
 - Is a Qatar grace period for people breaking the residence law open now?
+
+### If you are detained
+
+- Can a worker held in Qatar's deportation centre phone out?
+- Does the Bangladesh Embassy in Doha visit the deportation centre? (Its site lists "Deportation Centre and Hospital Visits", but the page describes only hospital visits.)
+- How does a family in Bangladesh find out where a worker detained in Qatar is held?
 
 ## If a worker dies, is injured or loses the job
 

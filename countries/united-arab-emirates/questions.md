@@ -10,11 +10,17 @@ These are the questions the guide can't yet answer, grouped by the guide's secti
 - What does a UAE company work visa (construction helper, cleaner, driver) sell for in Dhaka in 2026, and what does a "free visa" or partner visa sell for?
 - Who sells UAE visas to Bangladeshi brokers: the UAE sponsor (kafil) himself, Bangladeshi-owned companies in the UAE, or typing-centre agents?
 - What do UAE construction helpers, cleaners, security guards and salesmen actually take home in 2026, after food and accommodation deductions?
+- Is there any government channel for UAE company jobs in 2026, through BOESL (Bangladesh Overseas Employment and Services Limited, the state recruiting company) or a government-to-government agreement?
+- Is Dubai Taxi's 2026 recruitment drive still taking Bangladeshis, and through which Bangladeshi agencies?
+- In which jobs did most of the 764 women cleared by BMET for the UAE from January to 7 November 2026 go: cleaning, salons, hospitals, garments or others?
+- Of the final price a Bangladeshi worker pays for a UAE work visa in 2026, how much does each layer (the visa seller in the UAE, the Bangladeshi agency, the village broker) keep?
+- How many months does a UAE construction helper or cleaner who paid 2026 prices take to repay the cost of going?
 
 ## Work visa: company worker
 
 - Is MOHRE issuing new work permits for Bangladeshi workers in skill levels 6 to 9 as of November 2026, or only for skilled levels?
 - Does MOHRE's system currently block or refuse any work-permit applications because the worker is Bangladeshi?
+- Which new UAE work permits for Bangladeshis are being refused in November 2026: individual low-skilled visas found through a relative, all low-skilled visas outside bulk recruitment by named employers, or all new permits?
 
 ### Step 1: Find a real job
 
@@ -49,6 +55,7 @@ These are the questions the guide can't yet answer, grouped by the guide's secti
 
 - With "Visa" or "Passport Information" selected, which fields does ICP's File Validity form ask for, where is the "Emirate Unified Number" printed, and what does the result show for an employment entry permit?
 - Does the GDRFA form accept a search by passport number for an entry permit?
+- What does a genuine result show on the job-offer and work-permit enquiries of MOHRE (the UAE labour ministry) and on the Visa Status page of GDRFA (Dubai's residency directorate): name, passport number, employer, job, validity?
 
 ### Step 6: Orientation, BMET clearance and the flight
 
@@ -68,6 +75,8 @@ These are the questions the guide can't yet answer, grouped by the guide's secti
 - Where does a worker complain if the employer deducts the health insurance premium outside Dubai?
 - How does an individual worker claim the worker protection insurance: through MOHRE only, or directly with the insurer?
 - Does a foreign private-sector worker get any pension or social-security contribution in the UAE, or only the end-of-service gratuity, and can low-wage workers join MOHRE's voluntary end-of-service savings scheme?
+- Does MOHRE take a complaint about an employer keeping a worker's passport through its "Register Labour Complaints" service, and what does it do to the employer?
+- As of November 2026, is the employer-paid health insurance policy required for issuing and renewing a worker's residence in Sharjah, Ajman, Umm Al Quwain, Ras Al Khaimah and Fujairah, as it is in Dubai and Abu Dhabi?
 
 ### How long you can stay
 
@@ -83,6 +92,7 @@ These are the questions the guide can't yet answer, grouped by the guide's secti
 - How long do MOHRE complaints by Bangladeshi workers actually take, and how many end in payment?
 - Does the labour wing accompany workers to MOHRE meetings, and does it charge anything?
 - Does MOHRE still run 80060 (option 2 for domestic workers) for checking a recruitment office, alongside 80084 and 600590000?
+- What happens after the 14 working days of a confidential salary complaint to MOHRE: does MOHRE inspect or fine the employer, and does the worker get paid?
 
 ### If your employer reports you absent (work abandonment)
 
@@ -98,15 +108,24 @@ These are the questions the guide can't yet answer, grouped by the guide's secti
 
 - Where can a worker check the normal Dhaka-UAE fare and complain about an overpriced ticket?
 
+### Changing employer or leaving
+
+- Is MOHRE approving transfer work permits (moving to a new employer) for Bangladeshi workers in November 2026?
+
 ## Work visa: free zone employee
 
 - Which free zones employ most Bangladeshi workers (Jafza, SAIF Zone, Hamriyah, RAKEZ, KEZAD)?
 - Does a free-zone worker file wage complaints with MOHRE or with the free zone authority?
+- Are UAE free zones (Jafza, SAIF Zone, Hamriyah, RAKEZ, KEZAD) issuing new employment visas to Bangladeshis in 2026?
 
 ## Work visa: domestic worker
 
 - Are UAE recruitment offices getting domestic worker entry permits for Bangladeshi nationals in November 2026, or are they refused at the visa stage?
 - What does a UAE housemaid or house-driver visa cost a Bangladeshi worker in 2026, and who sells it?
+
+### Step 1: Check you qualify
+
+- If a domestic worker's UAE residence medical shows she is pregnant, is she sent home, and who pays for her return?
 
 ### Step 2: Do the 30-day housekeeping course (women)
 
@@ -119,6 +138,8 @@ These are the questions the guide can't yet answer, grouped by the guide's secti
 
 - Which of the 21 approved agencies actually sent women to the UAE in 2025-26?
 - Does the MoU's list of approved Bangladeshi agencies still apply, and where is it published?
+- Which Bangladeshi agencies may send men to the UAE as house drivers, cooks or gardeners, and does the zero-cost rule for domestic workers cover these men?
+- Under the 2018 Bangladesh-UAE memorandum of understanding (MoU) on domestic workers, may any BMET-licensed agency send domestic workers to the UAE, or only the 21 agencies approved to send women in September 2025?
 
 ### Step 4: See the job offer and contract before you sign
 
@@ -181,10 +202,12 @@ These are the questions the guide can't yet answer, grouped by the guide's secti
 ### Bangladeshis living in another Gulf country
 
 - Which professions are on the approved list for the GCC-resident entry permit?
+- Is GDRFA or ICP (the federal identity and citizenship authority) issuing the entry permit for residents of other GCC (Gulf Cooperation Council) countries to Bangladeshi passport holders in 2026?
 
 ## Job-seeker visit visa
 
 - How does a Bangladeshi abroad get MOHRE's certificate of skill level, which ICP lists as a document?
+- Are ICP and GDRFA issuing job-seeker visas to Bangladeshi passport holders in 2026?
 
 ### Step 2: Apply
 
@@ -206,6 +229,10 @@ These are the questions the guide can't yet answer, grouped by the guide's secti
 
 - ICP's two service cards give a different maximum total stay for a relative's visit (120 days and 180 days): which applies?
 
+### Scams
+
+- What do sellers in Bangladesh charge for a fake or third-party "family visit visa" to the UAE in 2026, and how is the scam usually done?
+
 ## Family residence (spouse, children and parents)
 
 - Are GDRFA and ICP approving new family residence applications by Bangladeshi sponsors in November 2026, and for which salary or job levels?
@@ -221,6 +248,7 @@ These are the questions the guide can't yet answer, grouped by the guide's secti
 
 - Does GDRFA still require an Ejari (Dubai) or Tawtheeq (Abu Dhabi) tenancy contract to sponsor a spouse and children, or only for parents?
 - Is a bed-space or shared-flat tenancy accepted for a family visa?
+- When a wife sponsors her family in Dubai, whose no-objection does GDRFA want (her husband's, the children's father's or her own father's), and in what form (a letter, attested, in Arabic)?
 
 ### Step 3: Apply for the entry permit, then the residence
 
