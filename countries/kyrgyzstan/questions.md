@@ -280,6 +280,7 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 ### If a worker dies
 
 - Where and with which papers does a family claim the Tk 10 lakh insurance?
+- Does the Tk 10 lakh death cover of the BMET (Bureau of Manpower, Employment and Training) migrant-worker insurance apply to workers who left Bangladesh from 1 January 2023, as the Wage Earners' Welfare Board's notice says, or from 12 March 2023, as BMET's leaflet says?
 
 ### If you lose the job
 

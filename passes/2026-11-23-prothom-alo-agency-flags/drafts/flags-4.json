@@ -1,0 +1,531 @@
+[
+ {
+  "article_id": "660763df-9014-45fa-9da3-5f6ca1efa8a6",
+  "url": "https://www.prothomalo.com/bangladesh/1xphukcej7",
+  "published": "2024-02-10",
+  "agency_as_printed": "Alif Overseas (আলিফ ওভারসিজ)",
+  "rl_printed": "RL-847",
+  "oep_match": "RL0847 ALIF OVERSEAS (Active)",
+  "oep_match_confidence": "exact",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "allegation",
+  "date": "2024-02-05",
+  "summary": "Prothom Alo reports that smart cards (emigration clearances) for 24 Saudi-bound workers were taken out in the agency's name on 31 Dec 2023 with no matching data on BMET's server, and that BMET's director general wrote to DMP cyber crime police on 5 Feb 2024 saying the agency took the 24 clearances by hacking the system; the owner's son denied it, saying the agency never applied for the cards and someone inside BMET may be involved.",
+  "quote": "আলিফ ওভারসিজ সিস্টেম হ্যাকের মাধ্যমে ২৪টি বহির্গমন ছাড়পত্র নিয়েছে।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "মো. মনিরুল হক (Md Monirul Haque)",
+    "role": "proprietor"
+   },
+   {
+    "name": "আকিব জাবেদ (Akib Jabed)",
+    "role": "proprietor's son, spoke for the agency"
+   }
+  ]
+ },
+ {
+  "article_id": "660763df-9014-45fa-9da3-5f6ca1efa8a6",
+  "url": "https://www.prothomalo.com/bangladesh/1xphukcej7",
+  "published": "2024-02-10",
+  "agency_as_printed": "Bangladesh Export Corporation (বাংলাদেশ এক্সপোর্ট করপোরেশন)",
+  "rl_printed": "RL-803",
+  "oep_match": "RL0803 BANGLADESH EXPORT CORPORATION (Active)",
+  "oep_match_confidence": "exact",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "allegation",
+  "date": "2024-01-02 to 2024-01-03 (cards); BMET inquiry report 2024-02-07",
+  "summary": "Prothom Alo reports, citing a BMET source, that 8 of 20 smart cards whose applications had been rejected on the 'Ami Probashi' app and then approved through the additional director general's login (the subject of a BMET inquiry) were taken in the agency's name on 2 and 3 Jan 2024; the inquiry committee held no one responsible, and the agency could not be reached for comment.",
+  "quote": "রিক্রুটিং এজেন্সি বাংলাদেশ এক্সপোর্ট করপোরেশনের (আরএল-৮০৩) নামে গত ২ জানুয়ারি ৭টি ও ৩ জানুয়ারি ১টি স্মার্ট কার্ড নেওয়া হয়েছে।",
+  "already_flagged": null,
+  "people": []
+ },
+ {
+  "article_id": "660763df-9014-45fa-9da3-5f6ca1efa8a6",
+  "url": "https://www.prothomalo.com/bangladesh/1xphukcej7",
+  "published": "2024-02-10",
+  "agency_as_printed": "Saad International Limited (সাদ ইন্টারন্যাশনাল লিমিটেড)",
+  "rl_printed": "RL-1068",
+  "oep_match": "RL1068 SAAD INTERNATIONAL LTD. (Active)",
+  "oep_match_confidence": "exact",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "allegation",
+  "date": "2024-01-01 to 2024-01-03 (cards); BMET inquiry report 2024-02-07",
+  "summary": "Prothom Alo reports, citing a BMET source, that 12 of the 20 rejected-then-approved smart cards under BMET inquiry were taken in the agency's name on 1 and 3 Jan 2024; the inquiry committee held no one responsible, and the managing director said the agency applied and got clearance as usual and knew nothing of any irregularity.",
+  "quote": "সাদ ইন্টারন্যাশনাল লিমিটেডের (আরএল-১০৬৮) নামে গত ১ জানুয়ারি ৭টি ও ৩ জানুয়ারি ৫টি স্মার্ট কার্ড নেওয়া হয়েছে।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "শামীম মাহমুদ পাটোয়ারী (Shamim Mahmud Patwari)",
+    "role": "managing director"
+   }
+  ]
+ },
+ {
+  "article_id": "47c45f01-ee81-4810-8515-658a927ea596",
+  "url": "https://www.prothomalo.com/politics/t1te9tn2k5",
+  "published": "2024-02-12",
+  "agency_as_printed": "Snigdha Overseas (‘স্নিগ্ধা ওভারসিস’)",
+  "rl_printed": null,
+  "oep_match": "RL1551 M/S. Snigdha Overseas Ltd. (Cancelled)",
+  "oep_match_confidence": "spelling variant",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "ownership-link",
+  "date": "2024-02-12",
+  "summary": "Prothom Alo reports that MP Nizam Uddin Hazari, named on BAIRA's website as chairman of Snigdha Overseas and said to be in the manpower export business, was made a member of the parliamentary standing committee on the Expatriates' Welfare Ministry, a possible conflict of interest.",
+  "quote": "জনশক্তি রপ্তানিকারক ব্যবসায়ীদের সংগঠন বাংলাদেশ অ্যাসোসিয়েশন অব ইন্টারন্যাশনাল রিক্রুটিং এজেন্সিসের (বায়রা) ওয়েবসাইটে ‘স্নিগ্ধা ওভারসিস’-এর চেয়ারম্যান হিসেবে নিজাম উদ্দিন হাজারীর নাম রয়েছে।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "নিজাম উদ্দিন হাজারী (Nizam Uddin Hazari)",
+    "role": "chairman per BAIRA's website; MP on the expatriates' welfare standing committee"
+   }
+  ]
+ },
+ {
+  "article_id": "0d47526d-6773-473b-a82b-1668ed1b4f5e",
+  "url": "https://www.prothomalo.com/bangladesh/sc7vnxp1fw",
+  "published": "2024-03-21",
+  "agency_as_printed": "Synerflux (সিনারফ্ল্যাক্স)",
+  "rl_printed": null,
+  "oep_match": null,
+  "oep_match_confidence": "none: Malaysian company, not a Bangladeshi recruiting agency",
+  "firm_kind": "other",
+  "flag_type": "allegation",
+  "date": "2024-03-21",
+  "summary": "Prothom Alo reports that Synerflux, owned by Bangladeshi-origin Malaysian citizen Dato Seri Abdul bin Amin Nur, got Malaysia's online recruitment system contract in 2016 and that with his help 10 Bangladeshi agencies formed a syndicate in which workers paid Tk 2 lakh to 3.5 lakh against a set Tk 33,375 (about Tk 5,500 crore taken in two years), and that he again helped form the 2022-24 syndicate.",
+  "quote": "২০১৬ সালে মালয়েশিয়ায় কর্মী নিয়োগের অনলাইন কাঠামোর কাজটি পায় সিনারফ্ল্যাক্স নামের একটি প্রতিষ্ঠান। বাংলাদেশি বংশোদ্ভূত মালয়েশিয়ার নাগরিক দাতো সেরি আবদুল বিন আমিন নূর হলেন এ প্রতিষ্ঠানের মালিক। তাঁর সহযোগিতায় দেশের ১০টি এজেন্সি মিলে তৈরি হয় চক্র।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "দাতো সেরি আবদুল বিন আমিন নূর (Dato Seri Abdul bin Amin Nur, \"Dato Amin\")",
+    "role": "owner"
+   }
+  ]
+ },
+ {
+  "article_id": "94721f6d-28d4-4739-aef9-14fb2a171cc8",
+  "url": "https://www.prothomalo.com/bangladesh/district/wq8m6wz7li",
+  "published": "2024-10-29",
+  "agency_as_printed": "SJ Group (এসজে গ্রুপ), Purana Paltan, Dhaka",
+  "rl_printed": null,
+  "oep_match": null,
+  "oep_match_confidence": "none: no SJ Group in the OEP list",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "court-case",
+  "date": "2024-10-28",
+  "summary": "Prothom Alo reports that a father filed a case at the Barishal Human Trafficking Offences Tribunal (recorded as an FIR, Mehendiganj police to investigate) alleging the agency's managing director and two others took Tk 4.5 lakh each (Tk 1.035 crore in all) from 23 young men for 1,800-riyal solar-panel company jobs in Saudi Arabia, but after arrival on 4 May they worked 45 days on a Hajj project for 615 riyals; 12 were caught as irregular migrants and deported and 11 are untraced, the case alleges.",
+  "quote": "মামলার আসামিরা হলেন সৌদিপ্রবাসী ও ঢাকার পুরানা পল্টন এলাকার রিক্রুটিং এজেন্সি এসজে গ্রুপের ব্যবস্থাপনা পরিচালক আরাফ হোসেন ওরফে সিফাত",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "আরাফ হোসেন ওরফে সিফাত (Araf Hossain alias Sifat)",
+    "role": "managing director, Saudi-based"
+   }
+  ]
+ },
+ {
+  "article_id": "94721f6d-28d4-4739-aef9-14fb2a171cc8",
+  "url": "https://www.prothomalo.com/bangladesh/district/wq8m6wz7li",
+  "published": "2024-10-29",
+  "agency_as_printed": "M R International (এম আর ইন্টারন্যাশনাল), Chairmanbari, Dhaka",
+  "rl_printed": null,
+  "oep_match": null,
+  "oep_match_confidence": "none: no M R International in the OEP list",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "court-case",
+  "date": "2024-10-27",
+  "summary": "Prothom Alo reports that a father filed a case at the Barishal Human Trafficking Offences Tribunal (Kazirhat police ordered to record it) alleging that an official of the firm and a woman took Tk 3.8 lakh to send his son to Saudi Arabia on 15 May 2024, where he got no job, was handed to a trafficking ring, tortured, and the ring demanded Tk 5 lakh under threat of death.",
+  "quote": "এ মামলার আসামিরা হলেন ঢাকা চেয়ারম্যানবাড়ি এলাকার এম আর ইন্টারন্যাশনালের কর্মকর্তা ও নরসিংদী বালুরচর মহল্লা আট পাইকা এলাকার বাসিন্দা জাকির হোসেনের ছেলে মো. রানা",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "মো. রানা (Md Rana)",
+    "role": "official (কর্মকর্তা)"
+   },
+   {
+    "name": "হাবিবা আক্তার (Habiba Akter)",
+    "role": "co-accused; received the money with Rana (no firm role stated)"
+   }
+  ]
+ },
+ {
+  "article_id": "18bf304c-b5cb-425c-a754-21a7e0f676fa",
+  "url": "https://www.prothomalo.com/bangladesh/district/sjzly65tx0",
+  "published": "2025-02-15",
+  "agency_as_printed": "Lamisa Enterprise (লামিসা এন্টারপ্রাইজ)",
+  "rl_printed": null,
+  "oep_match": null,
+  "oep_match_confidence": "none: not in the OEP list; licence status not stated",
+  "firm_kind": "other",
+  "flag_type": "arrest",
+  "date": "2025-02-14",
+  "summary": "Prothom Alo reports that CID arrested Rashed Khan of Shariatpur, who runs Lamisa Enterprise and sends people abroad, in a human trafficking case; police and families say he and associates took Tk 12-20 lakh each from 24 young men to send them to Italy irregularly via the UAE, Egypt and Libya, where some were held hostage and jailed, and the 24 have been missing since March 2024; families have filed 11 cases.",
+  "quote": "রাশেদ খান বিভিন্ন দেশে জনশক্তি পাঠানোর কাজ করেন। লামিসা এন্টারপ্রাইজ নামে একটি প্রতিষ্ঠান আছে তাঁর।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "রাশেদ খান (Rashed Khan)",
+    "role": "owner; arrested"
+   }
+  ]
+ },
+ {
+  "article_id": "916c510d-3241-4506-a78d-225a0955036c",
+  "url": "https://www.prothomalo.com/bangladesh/crime/263s72up7l",
+  "published": "2025-06-13",
+  "agency_as_printed": "Dream Home Travels and Tours Limited (ড্রিম হোম ট্রাভেলস অ্যান্ড ট্যুরস লিমিটেড), Banani, Dhaka",
+  "rl_printed": null,
+  "oep_match": null,
+  "oep_match_confidence": "none: travel agency, not BMET-licensed",
+  "firm_kind": "travel agency",
+  "flag_type": "arrest",
+  "date": "2025-02-05",
+  "summary": "Prothom Alo reports, citing a CID press release, that CID arrested Fabiha Jerin alias Tamanna, a partner of the agency and a member of a ring that lured people to Russia with chocolate-factory cleaner or cook jobs and forced them to fight against Ukraine, at Dhaka airport on 5 Feb 2025 as she tried to flee to Nepal.",
+  "quote": "ফাবিহা জেরিন ঢাকার বনানীর ড্রিম হোম ট্রাভেলস অ্যান্ড ট্যুরস লিমিটেডের অংশীদার।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "ফাবিহা জেরিন ওরফে তামান্না (Fabiha Jerin alias Tamanna)",
+    "role": "partner; arrested"
+   }
+  ]
+ },
+ {
+  "article_id": "6bda4e5b-3402-4810-9a92-629cad7bbd5f",
+  "url": "https://www.prothomalo.com/bangladesh/district/xqisnpwo1f",
+  "published": "2025-09-29",
+  "agency_as_printed": "Euro Visa Help Center BD (ইউরো ভিসা হেল্প সেন্টার বিডি), Baro Harishpur, Natore Sadar",
+  "rl_printed": null,
+  "oep_match": null,
+  "oep_match_confidence": "none: visa office, not in the OEP list",
+  "firm_kind": "visa or study consultancy",
+  "flag_type": "worker-complaint",
+  "date": "2025-09-18 and 2025-09-27",
+  "summary": "Prothom Alo reports that four young men from Jashore filed written complaints with Natore and Jashore police alleging Mizanur Rahman took Tk 58 lakh to send them to Canada on worker visas, then fled and opened the new office Euro Visa Help Center BD in Natore; a Natore police officer said he opens offices in different districts, takes Tk 20-50 lakh and disappears, and police say he and his wife took crores from 40 others for Portugal and other countries.",
+  "quote": "‘বৈধ পথে শ্রমিক ভিসায় কানাডায় পাঠাতে আমাদের চারজনের কাছ থেকে মোট ৫৮ লাখ টাকা হাতিয়ে নিয়ে যশোর থেকে পালিয়ে নাটোর সদর উপজেলার বড় হরিশপুর এলাকায় ইউরো ভিসা হেল্প সেন্টার বিডি নামের একটি নতুন অফিস খুলেছেন মিজানুর রহমান।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "মিজানুর রহমান (Mizanur Rahman)",
+    "role": "runs the office; absconding"
+   },
+   {
+    "name": "বৃষ্টি বেগম (Brishti Begum)",
+    "role": "wife; questioned by police"
+   }
+  ]
+ },
+ {
+  "article_id": "701f4744-ea3d-43a6-8b08-f2374553bea6",
+  "url": "https://www.prothomalo.com/bangladesh/esf4ye8f0f",
+  "published": "2025-11-05",
+  "agency_as_printed": "Friendship and Co-operative Recruitment (ফ্রেন্ডশিপ অ্যান্ড কো–অপারেটিভ রিক্রুটমেন্ট)",
+  "rl_printed": null,
+  "oep_match": null,
+  "oep_match_confidence": "none: called a travel agency; no matching name in the OEP list",
+  "firm_kind": "travel agency",
+  "flag_type": "allegation",
+  "date": "2025-04-22",
+  "summary": "Prothom Alo reports that Afzal Hossain Meraj went to Russia through this travel agency on 10 Aug 2024 and that his father, in a 22 Apr 2025 application to the Foreign Ministry, alleged his son had been sold to the Russian army; the father later told Prothom Alo the son worked four months at the promised company, was laid off, then went to fight through a ring, and has since returned.",
+  "quote": "তরুণ আফজাল হোসেন মেরাজ ট্রাভেল এজেন্সি ফ্রেন্ডশিপ অ্যান্ড কো–অপারেটিভ রিক্রুটমেন্টের মাধ্যমে রাশিয়ায় গিয়েছিলেন গত বছরের ১০ আগস্ট।",
+  "already_flagged": null,
+  "people": []
+ },
+ {
+  "article_id": "bb65fdac-fbec-4a12-8074-febeae68ae78",
+  "url": "https://www.prothomalo.com/bangladesh/rtpq7m2zl6",
+  "published": "2026-09-16",
+  "agency_as_printed": "Triple A Overseas (‘ত্রিপল আ ওভারসিজ’)",
+  "rl_printed": null,
+  "oep_match": "RL2630 TRIPLE A OVERSEAS. (Suspended)",
+  "oep_match_confidence": "spelling variant",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "mobile-court-fine-sealed",
+  "date": "before 2026-09-16 (raid of 10 Sep 2026 per existing rows)",
+  "summary": "Prothom Alo reports the Expatriates' Welfare Secretary said a mobile court sealed the agency's office, fined it and seized three boxes of passports, as action against fraud around the Malaysia market.",
+  "quote": "ইতিমধ্যে এ রকম অবৈধ ও প্রতারণামূলক কর্মকাণ্ডের বিরুদ্ধে ভ্রাম্যমাণ আদালত পরিচালনা করে ‘ত্রিপল আ ওভারসিজ’–এর অফিস সিলগালা করা হয়েছে, জরিমানা আরোপ করা হয়েছে এবং তিন বক্স পাসপোর্ট জব্দ করা হয়েছে।",
+  "already_flagged": "C0010;C0011 (flags.csv); AE0002;AE0003 (flags-press.csv)",
+  "people": []
+ },
+ {
+  "article_id": "9f572e80-744d-40f8-89dc-538f1cf57820",
+  "url": "https://www.prothomalo.com/bangladesh/mkf2is07uv",
+  "published": "2026-10-21",
+  "agency_as_printed": "Jabale Noor International (জাবালে নূর ইন্টারন্যাশনাল; also জাবালে নূর), Khilkhet",
+  "rl_printed": null,
+  "oep_match": "RL2505 JABAL-E-NOOR INTERNATIONAL LTD. (Cancelled)",
+  "oep_match_confidence": "uncertain: spelling variant and OEP shows Cancelled, which fits the reported cancellation, but families' letters place it in Khilkhet while OEP gives Purana Paltan",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "licence-cancelled",
+  "date": "by 2026-10-21 (1 Jun 2026 per existing rows)",
+  "summary": "Prothom Alo reports the Expatriates' Welfare Ministry cancelled the licences of Jabale Noor, TS Overseas and RS International, the three agencies linked to sending 30 men to Russia on 7 May 2026 who were sent to the Ukraine war front after 21 days' training (at least 20 reported dead by the SRB).",
+  "quote": "৩০ কর্মী পাঠানোর সঙ্গে যুক্ত জাবালে নূর, টিএস ওভারসিজ ও আরএস ইন্টারন্যাশনালের লাইসেন্স বাতিল করেছে প্রবাসীকল্যাণ মন্ত্রণালয়।",
+  "already_flagged": "C0009;C0008 (flags.csv)",
+  "people": []
+ },
+ {
+  "article_id": "9f572e80-744d-40f8-89dc-538f1cf57820",
+  "url": "https://www.prothomalo.com/bangladesh/mkf2is07uv",
+  "published": "2026-10-21",
+  "agency_as_printed": "RS International (আর এস ইন্টারন্যাশনাল; also আরএস ইন্টারন্যাশনাল), Ashulia",
+  "rl_printed": null,
+  "oep_match": "RL1428 M/S RS INTERNATIONAL (Cancelled)",
+  "oep_match_confidence": "exact (name and Ashulia address match)",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "licence-cancelled",
+  "date": "by 2026-10-21 (1 Jun 2026 per existing rows)",
+  "summary": "Prothom Alo reports the Expatriates' Welfare Ministry cancelled the licences of Jabale Noor, TS Overseas and RS International, the three agencies linked to sending 30 men to Russia on 7 May 2026 who were sent to the Ukraine war front after 21 days' training (at least 20 reported dead by the SRB).",
+  "quote": "৩০ কর্মী পাঠানোর সঙ্গে যুক্ত জাবালে নূর, টিএস ওভারসিজ ও আরএস ইন্টারন্যাশনালের লাইসেন্স বাতিল করেছে প্রবাসীকল্যাণ মন্ত্রণালয়।",
+  "already_flagged": "C0009;C0008 (flags.csv)",
+  "people": []
+ },
+ {
+  "article_id": "9f572e80-744d-40f8-89dc-538f1cf57820",
+  "url": "https://www.prothomalo.com/bangladesh/mkf2is07uv",
+  "published": "2026-10-21",
+  "agency_as_printed": "TS Overseas (টিএস ওভারসিজ); called TS Group (টিএস গ্রুপ) by the SRB",
+  "rl_printed": null,
+  "oep_match": "RL1755 T S OVERSEAS LTD (Cancelled)",
+  "oep_match_confidence": "spelling variant",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "licence-cancelled",
+  "date": "by 2026-10-21 (1 Jun 2026 per existing rows)",
+  "summary": "Prothom Alo reports the Expatriates' Welfare Ministry cancelled the licences of Jabale Noor, TS Overseas and RS International, the three agencies linked to sending 30 men to Russia on 7 May 2026 who were sent to the Ukraine war front after 21 days' training (at least 20 reported dead by the SRB).",
+  "quote": "৩০ কর্মী পাঠানোর সঙ্গে যুক্ত জাবালে নূর, টিএস ওভারসিজ ও আরএস ইন্টারন্যাশনালের লাইসেন্স বাতিল করেছে প্রবাসীকল্যাণ মন্ত্রণালয়।",
+  "already_flagged": "C0009;C0008 (flags.csv)",
+  "people": []
+ },
+ {
+  "article_id": "9f572e80-744d-40f8-89dc-538f1cf57820",
+  "url": "https://www.prothomalo.com/bangladesh/mkf2is07uv",
+  "published": "2026-10-21",
+  "agency_as_printed": "Jabale Noor International (জাবালে নূর ইন্টারন্যাশনাল; also জাবালে নূর), Khilkhet",
+  "rl_printed": null,
+  "oep_match": "RL2505 JABAL-E-NOOR INTERNATIONAL LTD. (Cancelled)",
+  "oep_match_confidence": "uncertain: spelling variant and OEP shows Cancelled, which fits the reported cancellation, but families' letters place it in Khilkhet while OEP gives Purana Paltan",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "embassy-attestation-refused",
+  "date": "2026-05-25",
+  "summary": "Prothom Alo reports a 25 May 2026 letter from the Bangladesh Embassy's labour wing in Moscow to the Ministry saying the embassy did not attest Jabale Noor's 5 May request to send 70 workers to Russia.",
+  "quote": "রিক্রুটিং এজেন্সি জাবালে নূর গত ৫ মে ৭০ জন কর্মী পাঠানোর অনুমতি চাইলেও সত্যায়ন করেনি দূতাবাস।",
+  "already_flagged": "C0476 (flags.csv)",
+  "people": []
+ },
+ {
+  "article_id": "9f572e80-744d-40f8-89dc-538f1cf57820",
+  "url": "https://www.prothomalo.com/bangladesh/mkf2is07uv",
+  "published": "2026-10-21",
+  "agency_as_printed": "RS International (আর এস ইন্টারন্যাশনাল; also আরএস ইন্টারন্যাশনাল), Ashulia",
+  "rl_printed": null,
+  "oep_match": "RL1428 M/S RS INTERNATIONAL (Cancelled)",
+  "oep_match_confidence": "exact (name and Ashulia address match)",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "embassy-attestation-refused",
+  "date": "2026-05-25",
+  "summary": "Prothom Alo reports the Moscow embassy labour wing's 25 May 2026 letter says RS International was first told it could bring 10 workers but this was suspended when suspicion arose, and a worker's family told the embassy on 18 May that 30 men who came through Jabale Noor and RS International were being sent to the war front.",
+  "quote": "প্রাথমিকভাবে আর এস ইন্টারন্যাশনালকে ১০ জন কর্মী নিয়ে আসার কথা বলা হলেও সন্দেহ তৈরি হলে তা স্থগিত করা হয়।",
+  "already_flagged": null,
+  "people": []
+ },
+ {
+  "article_id": "9f572e80-744d-40f8-89dc-538f1cf57820",
+  "url": "https://www.prothomalo.com/bangladesh/mkf2is07uv",
+  "published": "2026-10-21",
+  "agency_as_printed": "TS Overseas (টিএস ওভারসিজ); called TS Group (টিএস গ্রুপ) by the SRB",
+  "rl_printed": null,
+  "oep_match": "RL1755 T S OVERSEAS LTD (Cancelled)",
+  "oep_match_confidence": "spelling variant",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "allegation",
+  "date": "2026-05-25",
+  "summary": "Prothom Alo reports the Moscow embassy labour wing's 25 May 2026 letter says the two other agencies, unable to get attestation, sent the workers in TS Overseas' name, and Prothom Alo found TS Overseas took BMET clearances for 266 people to Russia.",
+  "quote": "চিঠিতে বলা হয়েছে, দুটি এজেন্সি সত্যায়ন করাতে না পারায় টিএস ওভারসিজের নামে কর্মীদের পাঠিয়েছে।",
+  "already_flagged": null,
+  "people": []
+ },
+ {
+  "article_id": "9f572e80-744d-40f8-89dc-538f1cf57820",
+  "url": "https://www.prothomalo.com/bangladesh/mkf2is07uv",
+  "published": "2026-10-21",
+  "agency_as_printed": "Jabale Noor International (জাবালে নূর ইন্টারন্যাশনাল; also জাবালে নূর), Khilkhet",
+  "rl_printed": null,
+  "oep_match": "RL2505 JABAL-E-NOOR INTERNATIONAL LTD. (Cancelled)",
+  "oep_match_confidence": "uncertain: spelling variant and OEP shows Cancelled, which fits the reported cancellation, but families' letters place it in Khilkhet while OEP gives Purana Paltan",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "arrest",
+  "date": "2026-10-13",
+  "summary": "Prothom Alo reports the SRB (Special Response Battalion) said the 30 men went to Russia on 7 May 2026 through Jabale Noor, RS International and TS Group, paying about Tk 10 lakh each for promised construction jobs, and were handed to the Russian army; Jabale Noor's founder Mizanur Rahman and Abu Taher alias Lentu, described as ringleaders, were arrested on 13 Oct.",
+  "quote": "এ ঘটনায় মানব পাচার চক্রের অন্যতম হোতা জাবালে নূর ইন্টারন্যাশনালের প্রতিষ্ঠাতা মিজানুর রহমান ও আবু তাহের ওরফে লেন্টুকে ১৩ অক্টোবর গ্রেপ্তার করা হয়েছে।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "মিজানুর রহমান (Mizanur Rahman)",
+    "role": "founder; arrested"
+   },
+   {
+    "name": "আবু তাহের ওরফে লেন্টু (Abu Taher alias Lentu)",
+    "role": "arrested with him (role in firm not stated)"
+   }
+  ]
+ },
+ {
+  "article_id": "9f572e80-744d-40f8-89dc-538f1cf57820",
+  "url": "https://www.prothomalo.com/bangladesh/mkf2is07uv",
+  "published": "2026-10-21",
+  "agency_as_printed": "RS International (আর এস ইন্টারন্যাশনাল; also আরএস ইন্টারন্যাশনাল), Ashulia",
+  "rl_printed": null,
+  "oep_match": "RL1428 M/S RS INTERNATIONAL (Cancelled)",
+  "oep_match_confidence": "exact (name and Ashulia address match)",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "allegation",
+  "date": "2026-10-14",
+  "summary": "Prothom Alo reports the SRB said 30 Bangladeshis went to Russia on 7 May 2026 through Jabale Noor, RS International and TS Group, each paying about Tk 10 lakh for promised construction jobs, and on arrival were handed to the Russian army instead of the promised work.",
+  "quote": "এসআরবি জানিয়েছে, চলতি বছরের ৭ মে জাবালে নূর, আরএস ইন্টারন্যাশনাল ও টিএস গ্রুপ নামের তিন প্রতিষ্ঠানের মাধ্যমে ওই ৩০ জন বাংলাদেশি রাশিয়ায় যান। নির্মাণ প্রতিষ্ঠানে কাজের কথা বলে তাঁদের প্রত্যেকের কাছ থেকে গড়ে প্রায় ১০ লাখ টাকা করে নেওয়া হয়।",
+  "already_flagged": null,
+  "people": []
+ },
+ {
+  "article_id": "9f572e80-744d-40f8-89dc-538f1cf57820",
+  "url": "https://www.prothomalo.com/bangladesh/mkf2is07uv",
+  "published": "2026-10-21",
+  "agency_as_printed": "TS Overseas (টিএস ওভারসিজ); called TS Group (টিএস গ্রুপ) by the SRB",
+  "rl_printed": null,
+  "oep_match": "RL1755 T S OVERSEAS LTD (Cancelled)",
+  "oep_match_confidence": "uncertain: the SRB says 'TS Group'; taken as TS Overseas because the article treats them as the same third agency",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "allegation",
+  "date": "2026-10-14",
+  "summary": "Prothom Alo reports the SRB said 30 Bangladeshis went to Russia on 7 May 2026 through Jabale Noor, RS International and TS Group, each paying about Tk 10 lakh for promised construction jobs, and on arrival were handed to the Russian army instead of the promised work.",
+  "quote": "এসআরবি জানিয়েছে, চলতি বছরের ৭ মে জাবালে নূর, আরএস ইন্টারন্যাশনাল ও টিএস গ্রুপ নামের তিন প্রতিষ্ঠানের মাধ্যমে ওই ৩০ জন বাংলাদেশি রাশিয়ায় যান। নির্মাণ প্রতিষ্ঠানে কাজের কথা বলে তাঁদের প্রত্যেকের কাছ থেকে গড়ে প্রায় ১০ লাখ টাকা করে নেওয়া হয়।",
+  "already_flagged": null,
+  "people": []
+ },
+ {
+  "article_id": "9f572e80-744d-40f8-89dc-538f1cf57820",
+  "url": "https://www.prothomalo.com/bangladesh/mkf2is07uv",
+  "published": "2026-10-21",
+  "agency_as_printed": "Jabale Noor International (জাবালে নূর ইন্টারন্যাশনাল; also জাবালে নূর), Khilkhet",
+  "rl_printed": null,
+  "oep_match": "RL2505 JABAL-E-NOOR INTERNATIONAL LTD. (Cancelled)",
+  "oep_match_confidence": "uncertain: spelling variant and OEP shows Cancelled, which fits the reported cancellation, but families' letters place it in Khilkhet while OEP gives Purana Paltan",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "worker-complaint",
+  "date": "2026-07",
+  "summary": "Prothom Alo reports that 28 letters families submitted to the Expatriates' Welfare Ministry in July 2026 say Jabale Noor International of Khilkhet and RS International of Ashulia sent their relatives to Russia, where, lured by high pay, they were sold to the Russian army and readied for war.",
+  "quote": "খিলক্ষেতের জাবালে নূর ইন্টারন্যাশনাল ও আশুলিয়ার আর এস ইন্টারন্যাশনাল তাদের রাশিয়া পাঠায়। উচ্চ বেতনের প্রলোভনে তাঁদের নিয়ে রাশিয়ার সেনাবাহিনীর কাছে বিক্রি করে দেওয়া হয়।",
+  "already_flagged": null,
+  "people": []
+ },
+ {
+  "article_id": "9f572e80-744d-40f8-89dc-538f1cf57820",
+  "url": "https://www.prothomalo.com/bangladesh/mkf2is07uv",
+  "published": "2026-10-21",
+  "agency_as_printed": "RS International (আর এস ইন্টারন্যাশনাল; also আরএস ইন্টারন্যাশনাল), Ashulia",
+  "rl_printed": null,
+  "oep_match": "RL1428 M/S RS INTERNATIONAL (Cancelled)",
+  "oep_match_confidence": "exact (name and Ashulia address match)",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "worker-complaint",
+  "date": "2026-07",
+  "summary": "Prothom Alo reports that 28 letters families submitted to the Expatriates' Welfare Ministry in July 2026 say Jabale Noor International of Khilkhet and RS International of Ashulia sent their relatives to Russia, where, lured by high pay, they were sold to the Russian army and readied for war.",
+  "quote": "খিলক্ষেতের জাবালে নূর ইন্টারন্যাশনাল ও আশুলিয়ার আর এস ইন্টারন্যাশনাল তাদের রাশিয়া পাঠায়। উচ্চ বেতনের প্রলোভনে তাঁদের নিয়ে রাশিয়ার সেনাবাহিনীর কাছে বিক্রি করে দেওয়া হয়।",
+  "already_flagged": null,
+  "people": []
+ },
+ {
+  "article_id": "9f572e80-744d-40f8-89dc-538f1cf57820",
+  "url": "https://www.prothomalo.com/bangladesh/mkf2is07uv",
+  "published": "2026-10-21",
+  "agency_as_printed": "Bonna Bijoy Overseas (বন্যা বিজয় ওভারসিজ)",
+  "rl_printed": null,
+  "oep_match": "RL1314 M/S. BANNA BIJOY OVERSEAS LTD (Server Locked)",
+  "oep_match_confidence": "spelling variant",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "allegation",
+  "date": "2026-10-21",
+  "summary": "Prothom Alo reports the agency took the most BMET clearances for Russia (27%, about 2,500 workers), faces allegations of trafficking in the name of sending workers to Algeria, has a human trafficking case against it and faces allegations over Russia; the managing director did not respond.",
+  "quote": "এই এজেন্সির বিরুদ্ধে আলজেরিয়ায় কর্মী পাঠানোর নামে পাচারের অভিযোগ আছে। মানব পাচারের মামলাও আছে। রাশিয়ায় কর্মী পাঠানোর নামেও অভিযোগ আছে।",
+  "already_flagged": "C0030 (flags.csv)",
+  "people": [
+   {
+    "name": "বরুণ দেবনাথ (Barun Debnath)",
+    "role": "managing director"
+   }
+  ]
+ },
+ {
+  "article_id": "9f572e80-744d-40f8-89dc-538f1cf57820",
+  "url": "https://www.prothomalo.com/bangladesh/mkf2is07uv",
+  "published": "2026-10-21",
+  "agency_as_printed": "Bonna Bijoy Overseas (বন্যা বিজয় ওভারসিজ)",
+  "rl_printed": null,
+  "oep_match": "RL1314 M/S. BANNA BIJOY OVERSEAS LTD (Server Locked)",
+  "oep_match_confidence": "spelling variant",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "licence-suspended",
+  "date": "by 2026-10-21",
+  "summary": "Prothom Alo reports the agency's server access has been locked so it can no longer take new BMET clearances.",
+  "quote": "সবচেয়ে বেশি কর্মী পাঠানো বন্যা বিজয়ের সার্ভার বন্ধ (লক্‌ড) করে দেওয়া হয়েছে। তারা নতুন করে আর ছাড়পত্র নিতে পারছে না।",
+  "already_flagged": "C0346 (flags.csv, OEP status Server Locked)",
+  "people": []
+ },
+ {
+  "article_id": "a3140b9d-b9fa-4871-9487-420040697b5e",
+  "url": "https://www.prothomalo.com/bangladesh/x3zind3vkt",
+  "published": "2026-11-20",
+  "agency_as_printed": "S Alam Overseas (এস আলম ওভারসিজ), House 17 (Ma Nibash), Road 4, Sector 12, Uttara",
+  "rl_printed": null,
+  "oep_match": null,
+  "oep_match_confidence": "none: OEP has M/S. S. Alam Overseas RL0754 (Cancelled) at Purana Paltan; the article places this office in an Uttara flat rented 4-5 months earlier and says the director used a fake NID, so not matched",
+  "firm_kind": "other",
+  "flag_type": "police-case",
+  "date": "2026-10-24",
+  "summary": "Prothom Alo reports victims filed a case at Uttara West police station on 24 Oct 2026 alleging the firm took Tk 3.061 crore from about 200 people (Tk 80,000 to 3.5 lakh each, in four instalments) for jobs in Azerbaijan, gave fake appointment letters from 'Colin Construction' and fake visas, then shut down; police say the director's NID was fake and arrests are being sought, and victims handed the receptionist to police.",
+  "quote": "প্রতারণার ঘটনায় গত ২৪ অক্টোবর উত্তরা পশ্চিম থানায় একটি মামলা করেছেন ভুক্তভোগীরা। ওই মামলায় ২০০ জন ভুক্তভোগীর পাসপোর্ট নম্বর ও টাকার হিসাব রয়েছে। হিসাব অনুযায়ী, আত্মসাৎ করা টাকার পরিমাণ ৩ কোটি ৬ লাখ ১০ হাজার।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "শফিকুল ইসলাম (Shafiqul Islam)",
+    "role": "director"
+   },
+   {
+    "name": "মেহেদী হাসান (Mehedi Hasan)",
+    "role": "manager"
+   },
+   {
+    "name": "মোশারফ হোসেন (Mosharraf Hossain)",
+    "role": "assistant manager"
+   },
+   {
+    "name": "মাসুদ রানা (Masud Rana)",
+    "role": "marketing manager"
+   },
+   {
+    "name": "মিলি আক্তার (Mili Akter)",
+    "role": "receptionist; handed to police by victims"
+   }
+  ]
+ },
+ {
+  "article_id": "a3140b9d-b9fa-4871-9487-420040697b5e",
+  "url": "https://www.prothomalo.com/bangladesh/x3zind3vkt",
+  "published": "2026-11-20",
+  "agency_as_printed": "Sunmoon Medical Center Limited (বনানী সানমুন মেডিকেল সেন্টার লিমিটেড), Banani",
+  "rl_printed": null,
+  "oep_match": null,
+  "oep_match_confidence": "none: medical centre, not a recruiting agency",
+  "firm_kind": "medical centre",
+  "flag_type": "allegation",
+  "date": "2026-11-20",
+  "summary": "Prothom Alo reports victims of S Alam Overseas' Azerbaijan scam allege the medical centre colluded with the firm, which made all of them take medical tests there for Tk 5,000 each; the centre's managing director denied any collusion, saying it charged Tk 2,500 each for 70-80 tests and is itself owed about Tk 1.5 lakh.",
+  "quote": "ভুক্তভোগীদের অভিযোগ, সানমুন মেডিকেল সেন্টারের সঙ্গে এস আলম ওভারসিজের যোগসাজশ রয়েছে।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "মো. জসিমউদদীন (Md Jasimuddin)",
+    "role": "managing director (denies)"
+   }
+  ]
+ }
+]

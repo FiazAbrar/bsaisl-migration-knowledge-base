@@ -1,0 +1,51 @@
+[
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### A flight to a different country first",
+  "old_str": "Tarek Aziz of Khanatua village, Manoharganj, Cumilla, alleged at a press conference on 1 March 2025 that Ashek Elahi, a former president of the Cumilla South district unit of the student organisation Chhatra Shibir, took him to Nepal on the promise of taking him to the United States, held him hostage there and took Tk 45 lakh from his family; Ashek Elahi denied it at his own press conference on 3 March 2025, said the allegation was baseless and that he was himself a victim of the same fraud [AA0073, AA0074, AA0075].",
+  "new_str": "The Cumilla man is Tarek Aziz of Khanatua village, Manoharganj, who alleged at a press conference on 1 March 2025 that Ashek Elahi, a former president of the Cumilla South district unit of the student organisation Chhatra Shibir, took him to Nepal on the promise of taking him to the United States, held him hostage there and took BDT 45 lakh from his family; Ashek Elahi denied it at his own press conference on 3 March 2025, said the allegation was baseless and that he was himself a victim of the same fraud [PA0055, AA0073, AA0074, AA0075].",
+  "problem": "Splits one case into two: the 'Cumilla man' of the preceding sentences (PA0055: 'তারেক আজিজকে নেপালে পাঠানো হয়', same 7 December 2023 date, same US promise, same accused) is Tarek Aziz, but the new sentence introduces him as if a second victim. Also Tk to BDT for consistency with the item."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Libya to Italy by boat",
+  "old_str": "Khurshed Mia, who went to Libya on 14 June 2023 (see How it is sold),",
+  "new_str": "Khurshed Mia, who went to Libya on 14 June 2023 (see Libya to Italy by boat),",
+  "problem": "Cross-reference '(see How it is sold)' is ambiguous: 14 headings in the guide are named 'How it is sold', so build.py's find() returns no link. Point to the unique H3 instead (or the writer can rephrase to 'How people were drawn in, under How it is sold' in prose)."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Libya to Italy by boat",
+  "old_str": "Abul Bashar Akon and his nephew Titu Howlader also died (see How it is sold) [LB0120].",
+  "new_str": "Abul Bashar Akon and his nephew Titu Howlader also died (see Libya to Italy by boat) [LB0120].",
+  "problem": "Same ambiguous cross-reference: 'How it is sold' names 14 headings, so it cannot link."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Libya to Italy by boat",
+  "old_str": "- In early 2025 the migration analyst Asif Munir told Deutsche Welle (DW, Germany's public international broadcaster)",
+  "new_str": "- The migration analyst Asif Munir told Deutsche Welle (DW, Germany's public international broadcaster)",
+  "problem": "Date not supported: LB0140 and the 6 February 2025 editorial do not say when Asif Munir spoke to DW; 'In early 2025' is the writer's inference. The editorial date already stays in the sentence."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Libya to Italy by boat",
+  "old_str": "Dr Selim Reza wrote in Prothom Alo on 9 September 2026 that brokers' networks",
+  "new_str": "Dr Selim Reza, coordinator of the Centre for Migration Studies at North South University, wrote in Prothom Alo on 9 September 2026 that brokers' networks",
+  "problem": "Writer not identified at first use in the section (nor at his first mention elsewhere in the guide); the saved column's byline (news-prothomalo-digital-dalal.txt line 66-67) gives 'সহযোগী অধ্যাপক ও সমন্বয়ক, সেন্টার ফর মাইগ্রেশন স্টাডিজ, নর্থ সাউথ ইউনিভার্সিটি'. Citation MB0085/MB0086 unchanged; the byline is not a logged fact, so log it or drop the description."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Libya to Italy by boat",
+  "old_str": "or the CID's 17,000 for the year to March 2026?",
+  "new_str": "or the 17,000 sent to Italy by illegal routes \"in the past year\", from CID information cited in a Prothom Alo editorial of 1 April 2026?",
+  "problem": "Need to know misstates the CID figure: LB0186 says 'গত এক বছরে' (in the past year) in an editorial of 1 April 2026; 'the year to March 2026' is an inference, and the figure may mean calendar 2025."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### The United States through South America and Mexico",
+  "old_str": "a Dhaka dalal, Mofizur Rahman, traffics people",
+  "new_str": "one of the accused, Mofizur Rahman, traffics people",
+  "problem": "'Dhaka dalal' is not in the source: the case statement (pa-2024-02-14-2slibwetna.md, AA0053) says he traffics people from Bangladesh to Dubai and the US but gives no home or base; the case was only filed in Gulshan, Dhaka."
+ }
+]

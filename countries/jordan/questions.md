@@ -225,6 +225,7 @@ These are the questions the Jordan migration guide can't yet answer, grouped by 
 - Can an employer stop a worker leaving by filing an absconding report or a debt case, and how is that lifted?
 - Who pays the ticket for a detained Bangladeshi deported under the Residence Law, or when no employer is found: the worker, the Embassy or WEWB?
 - How does a family in Bangladesh find out whether a worker is in detention in Jordan?
+- Did Jordan's Cabinet extend the 2026 regularisation for workers without valid papers past 1 December 2026, or did the deportation flag from 1 January 2027 take effect?
 
 ## If a worker dies, is injured or loses the job
 

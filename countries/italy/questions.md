@@ -370,6 +370,7 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 - Which papers does the family need for the Tk 35,000 airport cheque, the Tk 3 lakh grant and the insurance, and where does it apply?
 - What does INAIL pay the family in Bangladesh after a fatal work accident, and how does a widow in Bangladesh claim it?
 - Can heirs in Bangladesh claim the worker's unpaid wages and TFR (trattamento di fine rapporto, end-of-service pay), and through whom?
+- Does the Tk 10 lakh death cover of the BMET (Bureau of Manpower, Employment and Training) migrant-worker insurance apply to workers who left Bangladesh from 1 January 2023, as the Wage Earners' Welfare Board's notice says, or from 12 March 2023, as BMET's leaflet says?
 
 ### If you lose the job
 

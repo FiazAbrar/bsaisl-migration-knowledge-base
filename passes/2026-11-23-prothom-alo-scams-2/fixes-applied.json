@@ -1,0 +1,627 @@
+[
+ {
+  "file": "fix-law-help.json",
+  "section": "### Refund refusals after a failed departure",
+  "problem": "AA0230 is about grievance committees working on a limited scale, not about recovering money; and the source says WARBE's mediation recovered money, not 'local mediation'."
+ },
+ {
+  "file": "fix-law-help.json",
+  "section": "### Where to complain and get help",
+  "problem": "Lead label is the writer's conclusion and not true of every item under it: the cited speakers recommended activating committees or listed general migration problems; none said the committees sit idle."
+ },
+ {
+  "file": "fix-law-help.json",
+  "section": "### The law in Bangladesh",
+  "problem": "'Said the same' overstates: the Sylhet speakers said there is no lawful sea route and only the three airports are lawful; they did not mention BMET clearance or call it a punishable offence."
+ },
+ {
+  "file": "fix-law-help.json",
+  "section": "### The law in Bangladesh",
+  "problem": "CID not explained at first use in the section."
+ },
+ {
+  "file": "fix-law-help.json",
+  "section": "### The law in Bangladesh",
+  "problem": "RMMRU not explained at first use in the section."
+ },
+ {
+  "file": "fix-law-help.json",
+  "section": "### The law in Bangladesh",
+  "problem": "OKUP not explained at first use in the section."
+ },
+ {
+  "file": "fix-law-help.json",
+  "section": "### Where victims and families get help",
+  "problem": "'Funded by the EU' is not in the source; she said 'the European Union and BRAC's Prottasha-2 project stood by me'."
+ },
+ {
+  "file": "fix-law-help.json",
+  "section": "### Where victims and families get help",
+  "problem": "Source says the programme is 'trying' to establish returnees as entrepreneurs, not that it gives help to start a business as an established service."
+ },
+ {
+  "file": "fix-law-help.json",
+  "section": "### Where victims and families get help",
+  "problem": "BNWLA not explained at first use in the section; and the source says Justice and Care reported that the return process for at least 10 women and girls was under way, not that Justice and Care was arranging it."
+ },
+ {
+  "file": "fix-dalal-tricks-nodel.json",
+  "section": "### Who a dalal is",
+  "problem": "Lead generalises to all of 'outside Dhaka' from one Sylhet official's statement; LB0229/LB0230 are about Sylhet only."
+ },
+ {
+  "file": "fix-dalal-tricks-nodel.json",
+  "section": "### Who a dalal is",
+  "problem": "Label calls the speakers officials, but RMMRU's programme director (OA0174) is a researcher at an NGO, not an official; only the city corporation administrator is."
+ },
+ {
+  "file": "fix-dalal-tricks-nodel.json",
+  "section": "### The staged-payment trap, and no receipts",
+  "problem": "'Even between agencies' is unsupported framing: MA0006 is about money taken from each worker going to Ruhul Amin and to the agency, not payments between agencies."
+ },
+ {
+  "file": "fix-dalal-tricks-nodel.json",
+  "section": "### The passport kept by the dalal",
+  "problem": "States as a general pattern what AB0050/AB0051 report as one woman's account; attribution dropped."
+ },
+ {
+  "file": "fix-dalal-tricks-nodel.json",
+  "section": "### Loan sharks and land mortgages",
+  "problem": "Causal link invented: OA0083 says they bear it in silence because of distance, travel cost and wanting to provide for the family, not 'so' because of the loan; OA0082 says coming home without repaying is 'almost impossible', not impossible."
+ },
+ {
+  "file": "fix-dalal-tricks-nodel.json",
+  "section": "### Loan sharks and land mortgages",
+  "problem": "'Into it' (into loans and mortgages) is unsupported: OA0087/OA0088 say disasters push families to send a member away for work, and say nothing about borrowing."
+ },
+ {
+  "file": "fix-dalal-tricks-nodel.json",
+  "section": "### \"Your visa is stuck, pay more\"",
+  "problem": "AB0071 is conditional ('if quick, coordinated steps are taken, it is possible'); the sentence turned it into a past achievement."
+ },
+ {
+  "file": "fix-dalal-tricks-nodel.json",
+  "section": "### \"Your visa is stuck, pay more\"",
+  "problem": "Drops attribution: the demand is the worker's account, and the accused says the fresh demand is false (AA0181), so it reads as established."
+ },
+ {
+  "file": "fix-dalal-tricks-nodel.json",
+  "section": "### \"Your visa is stuck, pay more\"",
+  "problem": "Case never names the country; AA0170 says Saudi Arabia (the red flag above calls it 'a 2025 Saudi case')."
+ },
+ {
+  "file": "fix-dalal-tricks-nodel.json",
+  "section": "### Proof that is not proof",
+  "problem": "'One wife' is unclear and drops what LB0151 says (the husband left with him to go to Italy). Reviewer may also judge whether a named firm, with no office described, fits the 'An office' item."
+ },
+ {
+  "file": "fix-russia.json",
+  "section": "### When the visa, the agency and the clearance are all real",
+  "problem": "OA0157: the prosecutor said 'this accused' (এই আসামি), i.e. Masud Uddin Chowdhury; 'the accused' reads as all 103 accused in the case."
+ },
+ {
+  "file": "fix-russia.json",
+  "section": "### When the visa, the agency and the clearance are all real",
+  "problem": "RU0013 says 'সে দেশে কর্মরত অবস্থায়' (while employed in that country), not that he was at his workplace when detained."
+ },
+ {
+  "file": "fix-russia.json",
+  "section": "### Recruited while abroad or just back",
+  "problem": "FV0124: the acquaintance himself contacted the victim (not 'through' him), and the account is CID's, citing the case; attribution was dropped."
+ },
+ {
+  "file": "fix-russia.json",
+  "section": "### Russia: recruited into the war",
+  "problem": "RU0125: that a BOESL worker became involved in the war is a BOESL official's statement; attribution dropped."
+ },
+ {
+  "file": "fix-russia.json",
+  "section": "### Russia: recruited into the war",
+  "problem": "Acronym SRB used before it is explained in this section (the expansion comes only in the next bullet, 'Death')."
+ },
+ {
+  "file": "fix-russia.json",
+  "section": "### Russia: recruited into the war",
+  "problem": "AFP not explained at first use in the section."
+ },
+ {
+  "file": "fix-russia.json",
+  "section": "### Russia: recruited into the war",
+  "problem": "OHCHR not explained at first use in the section."
+ },
+ {
+  "file": "fix-russia.json",
+  "section": "### Russia: recruited into the war",
+  "problem": "CID not explained at first use in the section (expanded only later under Where to get help)."
+ },
+ {
+  "file": "fix-fake-papers-nodel.json",
+  "section": "### Fake visa, demand letter or job offer",
+  "problem": "CID not explained at first use in the section; 'feed on' generalises from one case; the source says 'at least a hundred' (অন্তত শতাধিক) and Milon belongs to the Josna Khatun ring, which the text does not say, so the two items read as separate rings."
+ },
+ {
+  "file": "fix-fake-papers-nodel.json",
+  "section": "### Fake visa, demand letter or job offer",
+  "problem": "Italy detail and the government-posts and network details come from the Prothom Alo report's own lead (FV0100, FV0101), not the CID press release (FV0098, FV0099), which says only 'jobs abroad'; attribution was merged."
+ },
+ {
+  "file": "fix-fake-papers-nodel.json",
+  "section": "### A visit or tourist visa sold as a job",
+  "problem": "Source says 'permission to stay permanently' (স্থায়ীভাবে থাকার অনুমতি), not 'permission to stay'; it does not say the 90-day visas were visit or tourist visas, so the lead 'A BMET card does not stop it' (i.e. a visit visa sold as a job) overstates it."
+ },
+ {
+  "file": "fix-fake-papers-nodel.json",
+  "section": "### Fake Australia and Canada work visas",
+  "problem": "CID not explained at first use in the section."
+ },
+ {
+  "file": "fix-fake-papers-nodel.json",
+  "section": "### Fake Australia and Canada work visas",
+  "problem": "As written, 'who it said moved the money' attaches to both men; the CID said only Rakibul Hossain did this (FV0118). Roni is the one it said ran the 'Khaja Mohammad Ali' page."
+ },
+ {
+  "file": "fix-fake-papers-nodel.json",
+  "section": "### Fake Australia and Canada work visas",
+  "problem": "FV0187 describes the victims' own reply ('let me pay a bit more and see'), not someone asking them to pay; 'being asked to' changes who acts."
+ },
+ {
+  "file": "fix-fake-papers-nodel.json",
+  "section": "### Fake Australia and Canada work visas",
+  "problem": "'for a salary of' reads as a price or condition; FV0077 says the salary in Canada would be Tk 4 to 5 lakh."
+ },
+ {
+  "file": "fix-fake-papers-nodel.json",
+  "section": "### Online job adverts, Facebook and WhatsApp scams, and fake government sites",
+  "problem": "Merges two sources: the fake-adverts line is from the concept paper; 'major tool' and the 82% research were said by Shariful Islam Hasan himself. Attributing all to 'BRAC's Migration Programme' drops the speaker and the roundtable setting."
+ },
+ {
+  "file": "fix-fake-papers-nodel.json",
+  "section": "### Online job adverts, Facebook and WhatsApp scams, and fake government sites",
+  "problem": "Opinion-column claim stated as established fact with no attribution; Selim Reza is never introduced in the section (role from the saved source, news-prothomalo-digital-dalal.md, author line)."
+ },
+ {
+  "file": "fix-fake-papers-nodel.json",
+  "section": "### Online job adverts, Facebook and WhatsApp scams, and fake government sites",
+  "problem": "IOM not explained at first use in the section; author introduction moved to item 2 where he is first cited."
+ },
+ {
+  "file": "fix-fake-papers-nodel.json",
+  "section": "### Study-abroad firms that take the fee",
+  "problem": "Source says only 'মনগড়া প্রতিনিধিত্ব' (made-up representation); 'of universities' is added."
+ },
+ {
+  "file": "fix-fake-papers-nodel.json",
+  "section": "### Visit and tourist visas sold as jobs",
+  "problem": "CID not explained at first use in the section; speaker unnamed."
+ },
+ {
+  "file": "fix-fake-papers-nodel.json",
+  "section": "### Visit and tourist visas sold as jobs",
+  "problem": "Unattributed, and 'in 2024' is the report date, not when the money was spent (source says they had spent it when getting the visa, before arriving)."
+ },
+ {
+  "file": "fix-fake-papers-nodel.json",
+  "section": "### Visit and tourist visas sold as jobs",
+  "problem": "OKUP and BAIRA not explained at first use in the section."
+ },
+ {
+  "file": "fix-fake-papers-nodel.json",
+  "section": "### Asylum claims built on a false story",
+  "problem": "Label says approved claims were reopened; the source says linked claims were under review. The 'undoubtedly approved' remark was Chris Foster's, not a Home Office statement."
+ },
+ {
+  "file": "fix-malaysia-doc.json",
+  "section": "### Is it open now, and who can go?",
+  "problem": "Drops the attribution: the 11,000 figure comes from a 2 June 2025 opinion column reporting what Malaysia said, not a dated Malaysian statement 'by June 2025'."
+ },
+ {
+  "file": "fix-malaysia-doc.json",
+  "section": "### Is it open now, and who can go?",
+  "problem": "Date not supported: the column of 2 June 2025 says the adviser said it 'recently' (সম্প্রতি), so the statement was not necessarily made in June 2025; the 'no visible step' is the columnist's view and needs the attribution."
+ },
+ {
+  "file": "fix-malaysia-doc.json",
+  "section": "### How a job reaches you, and who takes a cut",
+  "problem": "'later reported as Migrams' is unsupported: the September 2026 article (MB0039) prints মাইগ্রামের, the genitive of মাইগ্রাম (Migram), the same name as in 2024; the 's' came from the fact's English claim."
+ },
+ {
+  "file": "fix-malaysia-doc.json",
+  "section": "### How a job reaches you, and who takes a cut",
+  "problem": "The rewrite removed BAIRA's expansion; this is BAIRA's first use in the section, so the acronym is now unexplained."
+ },
+ {
+  "file": "fix-malaysia-doc.json",
+  "section": "### How a job reaches you, and who takes a cut",
+  "problem": "MoU is not explained anywhere in this section (it is expanded only in 'Is it open now'); the source says the MoU signed between the two countries (MA0009)."
+ },
+ {
+  "file": "fix-malaysia-doc.json",
+  "section": "### How a job reaches you, and who takes a cut",
+  "problem": "'Late 2024' is unsupported: the 2 June 2025 column (MA0100) says only that police and the ACC began investigating in light of last year's irregularities, with no start date; only the October 2024 extradition request is dated."
+ },
+ {
+  "file": "fix-malaysia-doc.json",
+  "section": "### What you pay, and what you earn and keep",
+  "problem": "Drops the hedge: both sources are predictions (BAIRA members: 'may have to spend'; Jamaat: 'it is feared ... could cost up to'), not a stated price. Also BAIRA is unexplained at its first use in this section and Jamaat-e-Islami is not identified."
+ },
+ {
+  "file": "fix-malaysia-doc.json",
+  "section": "### What you pay, and what you earn and keep",
+  "problem": "CID is not explained in this section (it is expanded only in 'How a job reaches you')."
+ },
+ {
+  "file": "fix-malaysia-doc.json",
+  "section": "### Step 1: Find a real job",
+  "problem": "The referenced bullet ('19 July 2026') names the seven agencies but gives an owner only for Unique Eastern (Noor Ali), so 'with their owners' is not true of that cross-reference."
+ },
+ {
+  "file": "fix-routes-west.json",
+  "section": "### A flight to a different country first",
+  "problem": "Splits one case into two: the 'Cumilla man' of the preceding sentences (PA0055: 'তারেক আজিজকে নেপালে পাঠানো হয়', same 7 December 2023 date, same US promise, same accused) is Tarek Aziz, but the new sentence introduces him as if a second victim. Also Tk to BDT for consistency with the item."
+ },
+ {
+  "file": "fix-routes-west.json",
+  "section": "### Libya to Italy by boat",
+  "problem": "Cross-reference '(see How it is sold)' is ambiguous: 14 headings in the guide are named 'How it is sold', so build.py's find() returns no link. Point to the unique H3 instead (or the writer can rephrase to 'How people were drawn in, under How it is sold' in prose)."
+ },
+ {
+  "file": "fix-routes-west.json",
+  "section": "### Libya to Italy by boat",
+  "problem": "Same ambiguous cross-reference: 'How it is sold' names 14 headings, so it cannot link."
+ },
+ {
+  "file": "fix-routes-west.json",
+  "section": "### Libya to Italy by boat",
+  "problem": "Date not supported: LB0140 and the 6 February 2025 editorial do not say when Asif Munir spoke to DW; 'In early 2025' is the writer's inference. The editorial date already stays in the sentence."
+ },
+ {
+  "file": "fix-routes-west.json",
+  "section": "### Libya to Italy by boat",
+  "problem": "Writer not identified at first use in the section (nor at his first mention elsewhere in the guide); the saved column's byline (news-prothomalo-digital-dalal.txt line 66-67) gives 'সহযোগী অধ্যাপক ও সমন্বয়ক, সেন্টার ফর মাইগ্রেশন স্টাডিজ, নর্থ সাউথ ইউনিভার্সিটি'. Citation MB0085/MB0086 unchanged; the byline is not a logged fact, so log it or drop the description."
+ },
+ {
+  "file": "fix-routes-west.json",
+  "section": "### Libya to Italy by boat",
+  "problem": "Need to know misstates the CID figure: LB0186 says 'গত এক বছরে' (in the past year) in an editorial of 1 April 2026; 'the year to March 2026' is an inference, and the figure may mean calendar 2025."
+ },
+ {
+  "file": "fix-routes-west.json",
+  "section": "### The United States through South America and Mexico",
+  "problem": "'Dhaka dalal' is not in the source: the case statement (pa-2024-02-14-2slibwetna.md, AA0053) says he traffics people from Bangladesh to Dubai and the US but gives no home or base; the case was only filed in Gulshan, Dhaka."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### Deciding",
+  "problem": "Overstates the analysts: the source says the closures made workers interested in risky countries (যাওয়ার আগ্রহ তৈরি), not that they have turned to them; it also covers shrinking (UAE), not only closure."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### Deciding",
+  "problem": "The shortfall is stated against a cost the reader is never given; the cost figure (AA0203) the arithmetic depends on is missing."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### Deciding",
+  "problem": "AA0223 only says 'the same police officer'; the place, date and roundtable come from AA0222, which is not cited."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### Agencies and dalals",
+  "problem": "'A valid licence proves little' is the writer's own conclusion, not in MB0061/MB0062; the minister's statement can stand on its own."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### Papers",
+  "problem": "Generalises one office (Gazipur, May 2025) to 'passport offices' and says the brokers are 'outside' the offices, which the facts do not say."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### Papers",
+  "problem": "Cited facts (OB0014/OB0015) give neither Chattogram nor the 'quick' promise (that is OB0016, police); drops the attribution to the brother and police, and omits that the man had a criminal case and deliberately avoided the normal route, which changes what the case shows."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### Papers",
+  "problem": "'Few migrants train first' is the writer's generalisation from one instructor's account; 'no immediate plan' misstates 'no immediate need' (তাৎক্ষণিকভাবে বিদেশে যাওয়ার প্রয়োজন নেই) and drops that they are college and university students."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### Loans",
+  "problem": "LB0242 says many people (অনেকে) have to take Tk 3 to 4 lakh loans, not most."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### At the airport",
+  "problem": "After a sentence listing desks at three airports, 'The desk' reads as all of them; AB0125 is one official speaking about 'the airport' desk, not an institutional statement by the Civil Aviation Authority."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### Problems and coming home",
+  "problem": "AA0233 limits the financial help (আর্থিক সহায়তা) to BMET card holders; dropping 'financial' makes all help, including the free ambulance, read as card-holders only."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### Problems and coming home",
+  "problem": "AA0253 does not say 'often'; the speaker called the information gap a major humanitarian problem, without a frequency."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### Passport and police clearance",
+  "problem": "LB0234 names him as deputy director, not head of the office."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### Passport and police clearance",
+  "problem": "The cited fact D0024 already answers this: Tk 8,625 is the 5-year super-express fee and Tk 10,350 the 10-year super-express fee, so the Sylhet official was quoting the 10-year rate. The 'Need to know' is not a real gap; if kept, the LB0234 sentence should instead say 'that super express costs Tk 10,350 (the official 10-year super-express fee [D0024])'. If this was the only item in its Need to know block, delete the block header too."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### Passport and police clearance",
+  "problem": "OB0014/OB0015 give neither Chattogram nor the 'quick' promise (OB0016, police); drops the attribution to the brother and police; omits that the man had a criminal case and avoided the normal route, so 'instead' wrongly implies an ordinary applicant chose a broker over a slow police process."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### BMET clearance and the smart card",
+  "problem": "OA0003 says the 20 applications were rejected in the Ami Probashi app, not issued 'through BMET's own system'; drops the attribution to sources cited by Prothom Alo; merges two separate incidents into one sentence without saying who took out the 24 cards."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### BMET clearance and the smart card",
+  "problem": "ACC is not explained at first use in this section."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### Departure day at the airport",
+  "problem": "DIG is not explained at first use in the section."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### Departure day at the airport",
+  "problem": "AB0068 is one official (joint secretary, Political-1) speaking at a Prothom Alo roundtable, not a ministry statement."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### Departure day at the airport",
+  "problem": "ATSEC South Asia is not explained; AB0060 gives her roles as chairperson of ATSEC South Asia and adviser to the Women Lawyers' Association, not 'women's rights lawyer'. Reviewer: the gloss 'an anti-trafficking network' is not in the facts file; drop it if unwanted."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### Coming back",
+  "problem": "AB0125 is one deputy director speaking at a roundtable, not a statement by the Civil Aviation Authority."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### Coming back",
+  "problem": "Drops the attribution: AA0034 gives the 2023 figure as what unnamed sources told Prothom Alo."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### Coming back",
+  "problem": "AB0126 is one deputy director's statement at a roundtable, not an institutional statement by the Civil Aviation Authority."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### Coming back",
+  "problem": "IOM, SME and TIN are not explained at first use in the section."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### Coming back",
+  "problem": "ILO is not explained at first use in the section; date of the statement missing (AB0136: 18 August 2026)."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### Fake BMET cards and fake clearance",
+  "problem": "'its data' is ambiguous (reads as the inquiry's or BCC's data); OA0028 says all of the Ami Probashi app's data."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### Forged documents and impersonation",
+  "problem": "Drops the attribution: AB0121 is the additional director general's claim at a roundtable, stated here as established fact."
+ },
+ {
+  "file": "fix-departure-faq.json",
+  "section": "### Forged documents and impersonation",
+  "problem": "OB0014/OB0015 are the brother's account ('according to Nur Hossain'); the sentence states it without attribution."
+ },
+ {
+  "file": "fix-east-women.json",
+  "section": "### Women",
+  "problem": "AA0246 does not say an agent raised Fatema Akter's age: she said her age has gone up and her passport also shows a higher age, so she cannot go again. 'A raised age also stays' is the writer's inference. Delete."
+ },
+ {
+  "file": "fix-east-women.json",
+  "section": "### Marriage, family-visa and fake-nikahnama schemes",
+  "problem": "The general plural claim cites only MA0099-0101, which cover one woman. The 'many girls married by phone' statement is the police sub-inspector's (MA0098), about one boat; cite it and attribute it."
+ },
+ {
+  "file": "fix-east-women.json",
+  "section": "### Marriage, family-visa and fake-nikahnama schemes",
+  "problem": "AA0146 says they came to Bangladesh a year earlier and lived in Bashundhara, not that they lived in Bashundhara for a year."
+ },
+ {
+  "file": "fix-east-women.json",
+  "section": "### Marriage, family-visa and fake-nikahnama schemes",
+  "problem": "AA0152 says it was the second such detention at the airport, not 'its' (the APBn's) second; the speaker is the APBn's SP (operations)."
+ },
+ {
+  "file": "fix-east-women.json",
+  "section": "### Trafficking disguised as a job, especially for women",
+  "problem": "Merges two statements: the source gives 'almost every month' as returns caused by the lack of a safe working environment, separately from 'returns after abuse by employers do not stop'."
+ },
+ {
+  "file": "fix-east-women.json",
+  "section": "### Trafficking disguised as a job, especially for women",
+  "problem": "OA0215 says 'losing control of the passport' (পাসপোর্ট নিয়ন্ত্রণ হারানো), not loss of the passport."
+ },
+ {
+  "file": "fix-east-women.json",
+  "section": "### Malaysia: boats and land crossings",
+  "problem": "The new 'By land' label now covers the 17,777 sentence, which is about cleared workers missing the deadline, not about land crossings; it reads as if they went by land."
+ },
+ {
+  "file": "fix-east-women.json",
+  "section": "### Malaysia: boats and land crossings",
+  "problem": "Neither MB0049-51 nor MB0005 says how he entered Myanmar (overland or by boat); he only says he later realised they had entered Myanmar, then walked over hills."
+ },
+ {
+  "file": "fix-east-women.json",
+  "section": "### Malaysia: boats and land crossings",
+  "problem": "MA0056 says Shikalbaha in Karnaphuli upazila, not on the Karnaphuli river."
+ },
+ {
+  "file": "fix-east-women.json",
+  "section": "### Malaysia: boats and land crossings",
+  "problem": "RAB is not explained at first use in the section."
+ },
+ {
+  "file": "fix-east-women.json",
+  "section": "### Malaysia: boats and land crossings",
+  "problem": "MB0054 says fighting began while he was in Thandwe prison, not that it reached the prison."
+ },
+ {
+  "file": "fix-east-women.json",
+  "section": "### Malaysia: boats and land crossings",
+  "problem": "'The embassy's help varies' is the writer's conclusion drawn from two accounts; state the accounts only."
+ },
+ {
+  "file": "fix-east-women.json",
+  "section": "### India: women and girls taken across the land border",
+  "problem": "The sources do not say the lure was fame; they say only 'in the name of TikTok'."
+ },
+ {
+  "file": "fix-east-women.json",
+  "section": "### India: women and girls taken across the land border",
+  "problem": "AA0093: Tk 50,000 a month is the promised salary, not a course price; 'a dance course ... at Tk 50,000 a month' reads as a fee."
+ },
+ {
+  "file": "fix-east-women.json",
+  "section": "### India: women and girls taken across the land border",
+  "problem": "'More' implies these 10 are in addition to the 186/133 figures; AA0090 does not say so (they are women trafficked August 2024 to February 2025, which may overlap)."
+ },
+ {
+  "file": "fix-east-women.json",
+  "section": "### Cambodia, Myanmar and Laos: scam compounds",
+  "problem": "AB0152 is the Foundation's press release; the sale is stated as established fact without attribution."
+ },
+ {
+  "file": "fix-east-women.json",
+  "section": "### Cambodia, Myanmar and Laos: scam compounds",
+  "problem": "Ambiguous: 'on their own' reads as applying to the Bangladeshis; OB0032 says no person, company, employer or labour supplier may on its own initiative let them enter or work."
+ },
+ {
+  "file": "fix-east-women.json",
+  "section": "### Cambodia, Myanmar and Laos: scam compounds",
+  "problem": "The second half is Prothom Alo's own reporting (AB0178), not what 'people in the sector' said; the sentence attributes it to them."
+ },
+ {
+  "file": "fix-agency.json",
+  "section": null,
+  "problem": "New sentence is now the first use of CID in doc.md; it is spelled out only later, in 'The 2022-24 round'"
+ },
+ {
+  "file": "fix-agency.json",
+  "section": null,
+  "problem": "Prothom Alo prints this list in the paragraph after 'the ACC says' without saying it is the ACC's list; flags-press.csv and agencies.csv correctly say 'Prothom Alo lists', doc.md attributes it to the ACC"
+ },
+ {
+  "file": "fix-agency.json",
+  "section": null,
+  "problem": "Prothom Alo prints this list in the paragraph after 'the ACC says' without saying it is the ACC's list; flags-press.csv and agencies.csv correctly say 'Prothom Alo lists', doc.md attributes it to the ACC"
+ },
+ {
+  "file": "fix-agency.json",
+  "section": null,
+  "problem": "Prothom Alo prints this list in the paragraph after 'the ACC says' without saying it is the ACC's list; flags-press.csv and agencies.csv correctly say 'Prothom Alo lists', doc.md attributes it to the ACC"
+ },
+ {
+  "file": "fix-agency.json",
+  "section": null,
+  "problem": "Prothom Alo prints this list in the paragraph after 'the ACC says' without saying it is the ACC's list; flags-press.csv and agencies.csv correctly say 'Prothom Alo lists', doc.md attributes it to the ACC"
+ },
+ {
+  "file": "fix-agency.json",
+  "section": null,
+  "problem": "Prothom Alo prints this list in the paragraph after 'the ACC says' without saying it is the ACC's list; flags-press.csv and agencies.csv correctly say 'Prothom Alo lists', doc.md attributes it to the ACC"
+ },
+ {
+  "file": "fix-agency.json",
+  "section": null,
+  "problem": "Prothom Alo prints this list in the paragraph after 'the ACC says' without saying it is the ACC's list; flags-press.csv and agencies.csv correctly say 'Prothom Alo lists', doc.md attributes it to the ACC"
+ },
+ {
+  "file": "fix-agency.json",
+  "section": null,
+  "problem": "Prothom Alo prints this list in the paragraph after 'the ACC says' without saying it is the ACC's list; flags-press.csv and agencies.csv correctly say 'Prothom Alo lists', doc.md attributes it to the ACC"
+ },
+ {
+  "file": "fix-agency.json",
+  "section": null,
+  "problem": "Prothom Alo prints this list in the paragraph after 'the ACC says' without saying it is the ACC's list; flags-press.csv and agencies.csv correctly say 'Prothom Alo lists', doc.md attributes it to the ACC"
+ },
+ {
+  "file": "fix-agency.json",
+  "section": null,
+  "problem": "The 9,861 paragraph is Prothom Alo's text, not marked as the ACC summary (only the Snigdha and 5M paragraphs are)"
+ },
+ {
+  "file": "fix-agency.json",
+  "section": null,
+  "problem": "Same as above (Orbitals International)"
+ },
+ {
+  "file": "fix-agency.json",
+  "section": null,
+  "problem": "The Ahmed International paragraph (238 then 7,849) is not introduced as the ACC summary in the article, unlike the Snigdha and 5M paragraphs"
+ },
+ {
+  "file": "fix-agency.json",
+  "section": null,
+  "problem": "The Ahmed International paragraph (238 then 7,849) is not introduced as the ACC summary in the article, unlike the Snigdha and 5M paragraphs"
+ },
+ {
+  "file": "fix-agency.json",
+  "section": null,
+  "problem": "Article: local men promised 'good jobs in Russia'; the garment/IT promise and the sale to a mercenary force are an unattributed allegation against the agency, not what the families say local men promised"
+ },
+ {
+  "file": "fix-agency.json",
+  "section": null,
+  "problem": "'as ringleaders' reads as established; it is the SRB's label"
+ },
+ {
+  "file": "fix-agency.json",
+  "section": null,
+  "problem": "Allegation reads as fact; the article attributes all of it to the SRB"
+ },
+ {
+  "file": "fix-agency.json",
+  "section": null,
+  "problem": "That Ashek Elahi took him to the agency is Tareq Aziz's account"
+ },
+ {
+  "file": "fix-agency.json",
+  "section": null,
+  "problem": "448 victims is a CID officer's statement in court, not established"
+ },
+ {
+  "file": "fix-agency.json",
+  "section": null,
+  "problem": "'no one was sent and the office moved' are the case's allegations"
+ },
+ {
+  "file": "fix-agency.json",
+  "section": null,
+  "problem": "The Tk 80,000-3.5 lakh range, fake letters and visas come from 23 victims Prothom Alo spoke to (PF0118), not from the case (PF0117)"
+ },
+ {
+  "file": "fix-agency.json",
+  "section": null,
+  "problem": "Same mix of the case (PF0117) and victims' accounts (PF0118)"
+ },
+ {
+  "file": "fix-agency.json",
+  "section": null,
+  "problem": "Says 'without an RL number' and then lists a contradicting RL as a reason (Bonna Bijoy '-1214')"
+ }
+]

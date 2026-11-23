@@ -1,0 +1,65 @@
+[
+ {
+  "doc": "countries/malaysia/doc.md",
+  "section": "### Is it open now, and who can go?",
+  "old_str": "By June 2025 Malaysia said about 11,000 had been unable to go despite valid calling visas, while agency owners and the press put the number much higher [MA0102, MA0103, MA0104].",
+  "new_str": "A Prothom Alo column of 2 June 2025 said Malaysia had put at about 11,000 those unable to go despite valid calling visas, while agency owners and the press put the number much higher [MA0102, MA0103, MA0104].",
+  "problem": "Drops the attribution: the 11,000 figure comes from a 2 June 2025 opinion column reporting what Malaysia said, not a dated Malaysian statement 'by June 2025'."
+ },
+ {
+  "doc": "countries/malaysia/doc.md",
+  "section": "### Is it open now, and who can go?",
+  "old_str": "- In June 2025 the expatriates' welfare adviser said Malaysia would at first arrange work for about eight thousand of them, though no visible step had yet been taken [MA0102, MA0103, MA0104].",
+  "new_str": "- A Prothom Alo column of 2 June 2025 said the expatriates' welfare adviser had recently said Malaysia would at first arrange work for about eight thousand of them, though no visible step had yet been taken [MA0102, MA0103, MA0104].",
+  "problem": "Date not supported: the column of 2 June 2025 says the adviser said it 'recently' (সম্প্রতি), so the statement was not necessarily made in June 2025; the 'no visible step' is the columnist's view and needs the attribution."
+ },
+ {
+  "doc": "countries/malaysia/doc.md",
+  "section": "### How a job reaches you, and who takes a cut",
+  "old_str": "Bestinet owns Migram (later reported as Migrams), the software of FWCMS;",
+  "new_str": "Bestinet owns Migram, the software of FWCMS;",
+  "problem": "'later reported as Migrams' is unsupported: the September 2026 article (MB0039) prints মাইগ্রামের, the genitive of মাইগ্রাম (Migram), the same name as in 2024; the 's' came from the fact's English claim."
+ },
+ {
+  "doc": "countries/malaysia/doc.md",
+  "section": "### How a job reaches you, and who takes a cut",
+  "old_str": "RM5,500 (about Tk 1.68 lakh), the figure BAIRA members allege (2022-24 toll:",
+  "new_str": "RM5,500 (about Tk 1.68 lakh), the figure BAIRA (Bangladesh Association of International Recruiting Agencies) members allege (2022-24 toll:",
+  "problem": "The rewrite removed BAIRA's expansion; this is BAIRA's first use in the section, so the acronym is now unexplained."
+ },
+ {
+  "doc": "countries/malaysia/doc.md",
+  "section": "### How a job reaches you, and who takes a cut",
+  "old_str": "BAIRA members said the MoU gave Malaysia the job of finalising the agencies",
+  "new_str": "BAIRA members said the MoU (memorandum of understanding) between the two countries gave Malaysia the job of finalising the agencies",
+  "problem": "MoU is not explained anywhere in this section (it is expanded only in 'Is it open now'); the source says the MoU signed between the two countries (MA0009)."
+ },
+ {
+  "doc": "countries/malaysia/doc.md",
+  "section": "### How a job reaches you, and who takes a cut",
+  "old_str": "- **Late 2024:** police and the ACC began investigating the recruitment process,",
+  "new_str": "- **2024-25:** police and the ACC began investigating the recruitment process,",
+  "problem": "'Late 2024' is unsupported: the 2 June 2025 column (MA0100) says only that police and the ACC began investigating in light of last year's irregularities, with no start date; only the October 2024 extradition request is dated."
+ },
+ {
+  "doc": "countries/malaysia/doc.md",
+  "section": "### What you pay, and what you earn and keep",
+  "old_str": "BAIRA members (September 2026) and Jamaat-e-Islami (23 August 2026) put it at Tk 6 to 7 lakh (see Who controls it) [MB0033, MB0034, MB0022, MB0023].",
+  "new_str": "members of BAIRA (Bangladesh Association of International Recruiting Agencies) said in September 2026 that workers may have to spend Tk 6 to 7 lakh, and the opposition party Jamaat-e-Islami said on 23 August 2026 it feared the cost could reach that (see Who controls it) [MB0033, MB0034, MB0022, MB0023].",
+  "problem": "Drops the hedge: both sources are predictions (BAIRA members: 'may have to spend'; Jamaat: 'it is feared ... could cost up to'), not a stated price. Also BAIRA is unexplained at its first use in this section and Jamaat-e-Islami is not identified."
+ },
+ {
+  "doc": "countries/malaysia/doc.md",
+  "section": "### What you pay, and what you earn and keep",
+  "old_str": "**The syndicate's share.** In the CID's August 2025 case,",
+  "new_str": "**The syndicate's share.** In the August 2025 money-laundering case filed by the CID (the police Criminal Investigation Department),",
+  "problem": "CID is not explained in this section (it is expanded only in 'How a job reaches you')."
+ },
+ {
+  "doc": "countries/malaysia/doc.md",
+  "section": "### Step 1: Find a real job",
+  "old_str": "Seven are named with their owners in The cases against the syndicate [MB0003, MB0004, MB0005].",
+  "new_str": "Seven are named in The cases against the syndicate [MB0003, MB0004, MB0005].",
+  "problem": "The referenced bullet ('19 July 2026') names the seven agencies but gives an owner only for Unique Eastern (Noor Ali), so 'with their owners' is not true of that cross-reference."
+ }
+]

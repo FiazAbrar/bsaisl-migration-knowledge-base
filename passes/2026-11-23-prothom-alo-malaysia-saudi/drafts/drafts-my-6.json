@@ -1,0 +1,782 @@
+{
+ "drafts": [
+  {
+   "key": "MY3f-1",
+   "article_id": "ef3c2de3-535f-4cb6-a6eb-865b84b2fb0a",
+   "target_section": "Is it open now, and who can go?",
+   "placement": "Status",
+   "claim": "On 24 March 2026 the state minister for expatriates' welfare, Md Nurul Haque Nur, said government-level talks were under way to open the Malaysian and Vietnamese labour markets quickly and that he hoped for a positive response soon.",
+   "quotes": [
+    "মালয়েশিয়া ও ভিয়েতনামের শ্রমবাজার দ্রুত চালুর বিষয়ে সরকারি পর্যায়ে আলোচনা চলছে এবং শিগগিরই ইতিবাচক সাড়া পাওয়ার আশা ব্যক্ত করেন তিনি।"
+   ],
+   "why_new": "Adds a dated March 2026 point to the Status timeline, which jumps from 31 May 2024 to June 2026."
+  },
+  {
+   "key": "MY3f-2",
+   "article_id": "ef3c2de3-535f-4cb6-a6eb-865b84b2fb0a",
+   "target_section": "CROSS-COUNTRY: Can I get a government loan to go abroad?",
+   "placement": "other: students",
+   "claim": "On 24 March 2026 the state minister for expatriates' welfare, Md Nurul Haque Nur, said the Prime Minister had directed that students going abroad for higher study (to South Korea, Japan, China, Germany and other countries) get loans of up to Tk 10 lakh through Probashi Kallyan Bank as proof of bank solvency, paid not in cash but against tuition fees or other required payments.",
+   "quotes": [
+    "দক্ষিণ কোরিয়া, জাপান, চীন ও জার্মানিসহ বিভিন্ন দেশে গমনেচ্ছুক শিক্ষার্থীদের উচ্চশিক্ষার জন্য ব্যাংক সলভেন্সি বা আর্থিক সক্ষমতার প্রমাণ হিসেবে ১০ লাখ টাকা পর্যন্ত ঋণ প্রদানের নির্দেশনা দিয়েছেন প্রধানমন্ত্রী তারেক রহমান।",
+    "এই ঋণ সুবিধাটি আমাদের মন্ত্রণালয়ের বিশেষায়িত ‘প্রবাসী কল্যাণ ব্যাংক’-এর মাধ্যমে প্রদান করা হবে।",
+    "‘তবে এই ঋণ নগদ আকারে হাতে দেওয়া হবে না; বরং টিউশন ফি বা অন্যান্য প্রয়োজনীয় পেমেন্টের ক্ষেত্রে সরাসরি সাপোর্ট হিসেবে কাজ করা যাবে।’"
+   ],
+   "why_new": "The cross-country doc has no PKB loan for students' solvency proof."
+  },
+  {
+   "key": "MY3f-3",
+   "article_id": "ef3c2de3-535f-4cb6-a6eb-865b84b2fb0a",
+   "target_section": "CROSS-COUNTRY: How much does it really cost to go?",
+   "placement": "other: cost ceiling plan",
+   "claim": "On 24 March 2026 the state minister for expatriates' welfare said the government was working, as part of its 180-day action plan, to fix migration costs, and that once final this would stop extra money being taken.",
+   "quotes": [
+    "সরকার আগামী ১৮০ দিনের কর্মপরিকল্পনার অংশ হিসেবে অভিবাসন ব্যয় সুনির্দিষ্ট করে দেওয়ার কাজ করছে। এটি চূড়ান্ত হলে অতিরিক্ত অর্থ আদায় বন্ধ হবে।"
+   ],
+   "why_new": "A dated government commitment to fix costs; check whether any fixed cost was later issued."
+  },
+  {
+   "key": "MY3f-4",
+   "article_id": "09d828c6-b83b-4f7e-ac81-41cb9248fcd0",
+   "target_section": "How a job reaches you, and who takes a cut",
+   "placement": "The cases against the syndicate (conflict: date of Paltan case)",
+   "claim": "Prothom Alo, reviewing the case documents, reported on 25 March 2026 that Altab Khan, owner of a firm named Afia Overseas, filed the human-trafficking case over Malaysia recruitment at Paltan police station, Dhaka, naming 103 accused, on 3 September 2024, after the fall of the Awami League government.",
+   "quotes": [
+    "আওয়ামী লীগ সরকারের পতনের পর ২০২৪ সালের ৩ সেপ্টেম্বর মানব পাচার আইনে ঢাকার পল্টন থানায় ১০৩ জনকে আসামি করে মামলা করেন আফিয়া ওভারসিজ নামের একটি প্রতিষ্ঠানের মালিক আলতাব খান।"
+   ],
+   "why_new": "CONFLICT: the guide (The cases against the syndicate, '3 September 2025' entry and the March 2026 entry) dates the Paltan case to 3 September 2025; this article says 3 September 2024, which fits the CID final report of 15 July 2025."
+  },
+  {
+   "key": "MY3f-5",
+   "article_id": "09d828c6-b83b-4f7e-ac81-41cb9248fcd0",
+   "target_section": "How a job reaches you, and who takes a cut",
+   "placement": "The cases against the syndicate",
+   "claim": "The accused in the Paltan Malaysia-trafficking case include former expatriates' welfare minister Imran Ahmed, former senior secretary of the expatriates' welfare ministry Ahmed Munirus Salehin, former Feni MP Nizam Hazari and former Dhaka-20 MP Benzir Ahmed, with Lt Gen (retd) Masud Uddin Chowdhury as accused no. 3, according to the case documents reported by Prothom Alo in March 2026.",
+   "quotes": [
+    "মাসুদ উদ্দিন চৌধুরী এ মামলার ৩ নম্বর আসামি।",
+    "সাবেক প্রবাসীকল্যাণ ও বৈদেশিক কর্মসংস্থানমন্ত্রী ইমরান আহমেদ, প্রবাসীকল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়ের সাবেক সিনিয়র সচিব আহমেদ মুনিরুছ সালেহীন এবং ঢাকা–২০ আসনের সাবেক সংসদ সদস্য বেনজীর আহমেদও এ মামলার আসামি।"
+   ],
+   "why_new": "The guide names neither the former minister nor the former senior secretary among the accused."
+  },
+  {
+   "key": "MY3f-6",
+   "article_id": "09d828c6-b83b-4f7e-ac81-41cb9248fcd0",
+   "target_section": "How a job reaches you, and who takes a cut",
+   "placement": "The cases against the syndicate",
+   "claim": "The Paltan case was first investigated by Paltan police and then the CID, which on 15 July 2025 filed a final report calling the case false and recommending action against the complainant; the complainant filed a no-confidence petition, and the court ordered the DB (Detective Branch) to reinvestigate, Prothom Alo reported in March 2026.",
+   "quotes": [
+    "শুরুতে এ মামলা তদন্ত করে পল্টন থানা–পুলিশ। পরে সিআইডিতে মামলা স্থানান্তরিত হয়। গত বছরের ১৫ জুলাই সিআইডি আদালতে চূড়ান্ত প্রতিবেদন দিয়ে বলেছে, মামলাটি মিথ্যা। এখন আদালতের নির্দেশে মামলাটি পুনঃ তদন্ত করছে ডিবি।",
+    "তিনি মিথ্যা মামলা করেছেন উল্লেখ করে তাঁর বিরুদ্ধে ব্যবস্থা নিতেও চূড়ান্ত প্রতিবেদনে সুপারিশ করেছে সিআইডি। পরে তিনি বিষয়টি জানতে পেরে আদালতে না রাজি দেন।"
+   ],
+   "why_new": "New: the CID first closed the case as false; the guide has only the March 2026 arrest and remand."
+  },
+  {
+   "key": "MY3f-7",
+   "article_id": "09d828c6-b83b-4f7e-ac81-41cb9248fcd0",
+   "target_section": "How a job reaches you, and who takes a cut",
+   "placement": "The cases against the syndicate",
+   "claim": "The CID's supervising officer, Additional Special SP Mostafizur Rahman, said that when the CID took the case 76 of the 103 accused were on bail and the rest absconding, so they could not be questioned, that the complainant could not produce enough evidence, and that a Penal Code extortion section in the case also got a final report, which the court accepted; the complainant, Altab Khan, said the CID had compromised with the accused and never told him the result.",
+   "quotes": [
+    "১০৩ জন আসামির মধ্যে ৭৬ জন জামিনে ছিলেন। অন্যরা পলাতক ছিলেন। ফলে আসামিদের জিজ্ঞাসাবাদ করা যায়নি। মামলার বাদীও যথেষ্ট তথ্য–প্রমাণ হাজির করতে পারেননি। ফলে আদালতে চূড়ান্ত প্রতিবেদন দেওয়া হয়েছিল।",
+    "আসামিদের সঙ্গে সমঝোতা করে সিআইডি মামলাটিকে মিথ্যা বলে উল্লেখ করে। মামলার ফলাফল তাঁকে জানানো হয়নি।"
+   ],
+   "why_new": "Shows why trafficking cases over Malaysia stall; not in the guide."
+  },
+  {
+   "key": "MY3f-8",
+   "article_id": "09d828c6-b83b-4f7e-ac81-41cb9248fcd0",
+   "target_section": "How a job reaches you, and who takes a cut",
+   "placement": "The cases against the syndicate",
+   "claim": "In December 2025, after the DB began reinvestigating, accused no. 12 in the Paltan case, S M Rafiq, gave a confessional statement in court, which a DB officer said contains information that human trafficking and embezzlement of a huge sum took place in the name of sending workers to Malaysia.",
+   "quotes": [
+    "১২ নম্বর আসামি এস এম রফিক আদালতে স্বীকারোক্তিমূলক জবানবন্দি দিয়েছেন।",
+    "স্বীকারোক্তিমূলক জবানবন্দিতে মালয়েশিয়ায় জনশক্তি রপ্তানির নামে মানব পাচার ও বিপুল পরিমাণ অর্থ আত্মসাতের ঘটনা ঘটেছে, সে তথ্য-উপাত্ত উঠে এসেছে।"
+   ],
+   "why_new": "The confession is not in the guide."
+  },
+  {
+   "key": "MY3f-9",
+   "article_id": "09d828c6-b83b-4f7e-ac81-41cb9248fcd0",
+   "target_section": "How a job reaches you, and who takes a cut",
+   "placement": "The cases against the syndicate",
+   "claim": "DMP Detective Branch Joint Commissioner Mohammad Nasirul Islam said in March 2026 that a ring was built around sending workers to Malaysia under the previous government, that Masud Uddin Chowdhury was a powerful member of it, and that he was being questioned about the ring and the source of his power.",
+   "quotes": [
+    "বিগত সরকারের সময়ে মালয়েশিয়ায় জনশক্তি রপ্তানির ক্ষেত্রে একটি চক্র গড়ে তোলা হয়েছিল। সেই চক্রে একজন ক্ষমতাশালী ছিলেন মাসুদ উদ্দিন চৌধুরী। সেই চক্র সম্পর্কে জিজ্ঞাসাবাদের পাশাপাশি ক্ষমতার উৎস সম্পর্কেও জিজ্ঞাসাবাদ করা হচ্ছে।"
+   ],
+   "why_new": "Guide quotes a DB additional commissioner and an unnamed joint commissioner; this names the joint commissioner and his allegation."
+  },
+  {
+   "key": "MY3f-10",
+   "article_id": "4982c3ee-a5da-42b1-b005-61320e2f5e62",
+   "target_section": "CROSS-COUNTRY: Which countries can I go to for work right now?",
+   "placement": "numbers",
+   "claim": "BMET data cited in a Prothom Alo editorial of 28 March 2026 show that the number of workers taking clearance to go abroad in the first 10 days of March 2026 fell by about 50 percent from the same period a year earlier, after the Middle East war closed airspace and several hundred flights from Dhaka's Shahjalal airport were cancelled.",
+   "quotes": [
+    "চলতি মার্চের প্রথম ১০ দিনে বিদেশে যেতে ছাড়পত্র নেওয়া কর্মীর সংখ্যা গত বছরের একই সময়ের তুলনায় প্রায় ৫০ শতাংশ কমেছে।",
+    "ঢাকার হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দর থেকে কয়েক শ ফ্লাইট বাতিল হয়েছে।"
+   ],
+   "why_new": "Adds the March 2026 war-related drop; the cross-country doc gives Jan-Aug totals only."
+  },
+  {
+   "key": "MY3f-11",
+   "article_id": "4982c3ee-a5da-42b1-b005-61320e2f5e62",
+   "target_section": "CROSS-COUNTRY: Which countries can I go to for work right now?",
+   "placement": "numbers",
+   "claim": "According to a Prothom Alo editorial of 28 March 2026, 67 percent of the workers who went abroad in 2025 went to Saudi Arabia and about 90 percent to just five countries, although 168 countries are on the list of destinations.",
+   "quotes": [
+    "গত বছর বিদেশে যাওয়া মোট কর্মীর ৬৭ শতাংশই গেছেন সৌদি আরবে।",
+    "সামগ্রিকভাবে প্রায় ৯০ শতাংশ কর্মী গেছেন মাত্র পাঁচটি দেশে।",
+    "কর্মী পাঠানোর তালিকায় যদিও ১৬৮টি দেশের নাম রয়েছে"
+   ],
+   "why_new": "Concentration figures for 2025 not in the cross-country doc."
+  },
+  {
+   "key": "MY3f-12",
+   "article_id": "ea00ffe3-0171-4836-8e38-999e57cfa444",
+   "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+   "placement": "Cases",
+   "claim": "On the afternoon of 30 March 2026 the Coast Guard raided a house in Dakshin Lombori, Teknaf, which it called a traffickers' den, and rescued seven people including women and children who had been brought there, with promises of a better life, high-paid jobs and a cheap passage, to be taken to Malaysia by sea; the traffickers fled and the seven were handed to Teknaf Model Police Station.",
+   "quotes": [
+    "কক্সবাজারের টেকনাফের দক্ষিণ লম্বরী এলাকার একটি বসতঘর থেকে নারী-শিশুসহ সাতজনকে উদ্ধার করেছে কোস্টগার্ড। কোস্টগার্ডের দাবি, বসতঘরটি মানব পাচারকারীদের আস্তানা। সাগরপথে মালয়েশিয়া পাচারের উদ্দেশ্যে ওই সাতজনকে সেখানে আনা হয়।",
+    "বিদেশে উন্নত জীবনযাপনের স্বপ্ন, উচ্চ বেতনের চাকরি এবং অল্প খরচে বিদেশে নেওয়ার প্রলোভন",
+    "উদ্ধার হওয়া সাতজনকে টেকনাফ মডেল থানায় হস্তান্তর করা হয়েছে।"
+   ],
+   "why_new": "A 2026 case not in the Cases list (which has a December 2024 Dakshin Lambari Para case)."
+  },
+  {
+   "key": "MY3f-13",
+   "article_id": "fa1e9f68-f3bd-4cd5-be78-309892f14568",
+   "target_section": "What goes wrong most, and what people wrongly believe",
+   "placement": "other: history of crackdowns",
+   "claim": "A Prothom Alo column of 3 April 2026 by Mohammad Jalal Uddin Sikder of North South University cites a 21 May 2020 statement of the UN human rights office (OHCHR), 'Malaysia: Stop crackdown on migrants, journalists and civil society', saying that during COVID-19 migrant workers in Malaysia were blamed for spreading the virus, detained, and many sent back.",
+   "quotes": [
+    "জাতিসংঘের মানবাধিকারবিষয়ক হাইকমিশনারের দপ্তরের (ওএইচসিএইচআর) ২০২০ সালের ২১ মে এক বিজ্ঞপ্তিতে (মালয়েশিয়া: স্টপ ক্র্যাকডাউন অন মাইগ্র্যান্টস, জার্নালিস্টস অ্যান্ড সিভিল সোসাইটি) জানিয়েছে, করোনাকালে অভিবাসী শ্রমিকদের ভাইরাস ছড়ানোর জন্য দায়ী করা হয়, তাঁদের আটক করা হয় এবং অনেককে ফেরত পাঠানো হয়।"
+   ],
+   "why_new": "The guide has no COVID-period crackdown; low priority, may not change what a worker does."
+  },
+  {
+   "key": "MY3f-14",
+   "article_id": "fa1e9f68-f3bd-4cd5-be78-309892f14568",
+   "target_section": "CROSS-COUNTRY: Which countries can I go to for work right now?",
+   "placement": "numbers (conflict with A07 figure)",
+   "claim": "By BMET data cited in a Prothom Alo column of 3 April 2026, 11,16,399 Bangladeshis migrated in 2025, about 82.4 percent of them (9,19,981) to the Middle East or GCC countries, and of USD 32.8 billion in remittances in 2025 about 46 percent (USD 15.07 billion) came from GCC countries (Bangladesh Bank, 2026).",
+   "quotes": [
+    "২০২৫ সালে মোট ১১ লাখ ১৬ হাজার ৩৯৯ জন অভিবাসীর মধ্যে প্রায় ৮২ দশমিক ৪ শতাংশ (৯ লাখ ১৯ হাজার ৯৮১ জন) গেছেন মধ্যপ্রাচ্যে বা গালফ কো-অপারেশন কাউন্সিলের (জিসিসি) দেশগুলোতে।",
+    "২০২৫ সালে বাংলাদেশ মোট ৩২ দশমিক ৮ বিলিয়ন ডলার রেমিট্যান্স পেয়েছে। এর মধ্যে প্রায় ৪৬ শতাংশ (১৫ দশমিক শূন্য ৭ বিলিয়ন ডলার) এসেছে জিসিসি দেশগুলো থেকে"
+   ],
+   "why_new": "CONFLICT: the minister told parliament on 5 April 2026 that 11,32,519 went in 2025 (draft from article 2847a95a)."
+  },
+  {
+   "key": "MY3f-15",
+   "article_id": "2847a95a-e622-49bb-b688-5311d5b09d87",
+   "target_section": "Is it open now, and who can go?",
+   "placement": "Status",
+   "claim": "On 5 April 2026 the expatriates' welfare minister, Ariful Haque Chowdhury, told parliament that the government was not interested in sending workers to Malaysia through a syndicate of a limited number of recruiting agencies as before, that it was trying to keep the market open to all eligible licensed agencies, and that it was corresponding with the Malaysian authorities through the Bangladesh High Commission.",
+   "quotes": [
+    "বর্তমান সরকার আগের মতো সীমিতসংখ্যক রিক্রুটিং এজেন্সির মাধ্যমে সিন্ডিকেট পদ্ধতিতে মালয়েশিয়ায় কর্মী পাঠাতে আগ্রহী নয়।",
+    "সরকার স্বচ্ছতা, জবাবদিহি ও প্রতিযোগিতার মাধ্যমে যোগ্য সব লাইসেন্সপ্রাপ্ত রিক্রুটিং এজেন্সির জন্য শ্রমবাজার উন্মুক্ত রাখতে সচেষ্ট রয়েছে। এ উদ্দেশ্যে বাংলাদেশ সরকার মালয়েশিয়া কর্তৃপক্ষের সঙ্গে বাংলাদেশ হাইকমিশন, মালয়েশিয়ার মাধ্যমে পত্র যোগাযোগ অব্যাহত রেখেছে।"
+   ],
+   "why_new": "The guide has the minister's 5 November 2026 wish that every licensed agency be allowed in; this shows the same position stated in April, before Malaysia chose 25."
+  },
+  {
+   "key": "MY3f-16",
+   "article_id": "2847a95a-e622-49bb-b688-5311d5b09d87",
+   "target_section": "CROSS-COUNTRY: Which countries can I go to for work right now?",
+   "placement": "numbers",
+   "claim": "The expatriates' welfare minister told parliament on 5 April 2026 that 11,32,519 workers went abroad for jobs in 2025, 62,352 of them women, and that more than 1.5 crore Bangladeshi workers were then working in 176 countries.",
+   "quotes": [
+    "২০২৫ সালে ১১ লাখ ৩২ হাজার ৫১৯ জন কর্মীর বৈদেশিক কর্মস্থান হয়েছে। এর মধ্যে ৬২ হাজার ৩৫২ জন নারী কর্মী রয়েছেন।",
+    "বর্তমানে বিশ্বের ১৭৬টি দেশে দেড় কোটির বেশি বাংলাদেশি কর্মী কর্মরত রয়েছেন।"
+   ],
+   "why_new": "Official 2025 totals; CONFLICT with 11,16,399 cited from BMET in a 3 April 2026 column (article fa1e9f68)."
+  },
+  {
+   "key": "MY3f-17",
+   "article_id": "dc450226-288c-4a17-a89a-132098572ecb",
+   "target_section": "Is it open now, and who can go?",
+   "placement": "Status",
+   "claim": "On 9 April 2026 Bangladesh and Malaysia held a bilateral labour-migration meeting in Putrajaya, led by Malaysia's Human Resources Minister Ramanan Ramakrishnan and Bangladesh's expatriates' welfare minister Ariful Haque Chowdhury, and agreed to speed up reopening the market to Bangladeshi workers based on Malaysia's sector-wise demand, with a fair, ethical and transparent recruitment process, the Prime Minister's adviser Mahdi Amin said.",
+   "quotes": [
+    "মালয়েশিয়ার খাতভিত্তিক চাহিদার ওপর ভিত্তি করে বাংলাদেশি শ্রমিকদের জন্য শ্রমবাজার আবার খোলার প্রক্রিয়া ত্বরান্বিত করতে এবং একটি ন্যায্য, নৈতিক ও স্বচ্ছ নিয়োগপ্রক্রিয়া নিশ্চিত করতে সম্মত হয়েছে।",
+    "মালয়েশিয়ার প্রতিনিধিদলের নেতৃত্ব দেন দেশটির মানবসম্পদমন্ত্রী দাতো শ্রী রামানন রামকৃষ্ণন।"
+   ],
+   "why_new": "The Status timeline has no April 2026 entry; the guide cites only 'April 2026 both governments said employers will bear the full cost' [A0097]."
+  },
+  {
+   "key": "MY3f-18",
+   "article_id": "dc450226-288c-4a17-a89a-132098572ecb",
+   "target_section": "Is it open now, and who can go?",
+   "placement": "Status",
+   "claim": "The two governments' joint press statement of 9 April 2026 said steps would be taken to cut migration cost by reducing intermediaries, to use credible recruiting agencies, and to complete quickly the recruitment of workers who are stuck.",
+   "quotes": [
+    "মধ্যস্থতাকারী কমিয়ে অভিবাসনের ব্যয় হ্রাস, বিশ্বাসযোগ্য নিয়োগকারী সংস্থা ব্যবহার এবং আটকে থাকা শ্রমিকদের নিয়োগ দ্রুত সম্পন্ন করার বিষয়ে পদক্ষেপ নেওয়া হবে।"
+   ],
+   "why_new": "Commitment to the stuck workers and to fewer intermediaries is not in the guide."
+  },
+  {
+   "key": "MY3f-19",
+   "article_id": "dc450226-288c-4a17-a89a-132098572ecb",
+   "target_section": "How a job reaches you, and who takes a cut",
+   "placement": "Who controls it",
+   "claim": "The joint statement of 9 April 2026 said Malaysia had begun introducing an AI-based, technology-driven recruitment system for all source countries, meant to cut middlemen and migration cost and bring the cost to workers to zero in line with the ILO 'employer pays' principle, and Bangladesh said it fully supported such a digital platform as a global initiative involving all sending countries.",
+   "quotes": [
+    "মালয়েশিয়া সব উৎসদেশের জন্য এআই–ভিত্তিক প্রযুক্তিনির্ভর নিয়োগব্যবস্থা চালুর উদ্যোগ নিয়েছে। এতে মধ্যস্বত্বভোগী কমবে, অভিবাসন খরচ কমবে এবং আন্তর্জাতিক শ্রম সংস্থার (আইএলও) নির্দেশনা অনুযায়ী ‘নিয়োগকর্তাই অর্থ প্রদান করবেন’ নীতির সঙ্গে সংগতি রেখে শ্রমিকদের জন্য খরচ শূন্য হবে।",
+    "বাংলাদেশের পক্ষ থেকে অন্যান্য সব প্রেরণকারী দেশকে সম্পৃক্ত করে একটি বৈশ্বিক উদ্যোগ হিসেবে এ ধরনের ডিজিটাল প্ল্যাটফর্ম বাস্তবায়নে পূর্ণ সমর্থন ও সহযোগিতার প্রস্তুতি ব্যক্ত করা হয়।"
+   ],
+   "why_new": "The guide mentions TURAP (Step 1) but not that Bangladesh endorsed Malaysia's new system in April; relevant to who will control recruitment."
+  },
+  {
+   "key": "MY3f-20",
+   "article_id": "dc450226-288c-4a17-a89a-132098572ecb",
+   "target_section": "How a job reaches you, and who takes a cut",
+   "placement": "The cases against the syndicate",
+   "claim": "At the 9 April 2026 Putrajaya meeting the two sides discussed concerns about the ongoing human-trafficking cases, and Bangladesh reaffirmed its commitment to rule of law, due process, accountability and timely justice, the joint statement said.",
+   "quotes": [
+    "মানব পাচারসংক্রান্ত চলমান আইনি মামলাসম্পর্কিত উদ্বেগ নিয়ে দুই পক্ষই আলোচনা করেছে। বাংলাদেশ পক্ষ আইনের শাসন, যথাযথ প্রক্রিয়া, জবাবদিহি এবং সময়োপযোগী বিচার নিশ্চিত করার প্রতি তাদের অঙ্গীকার পুনর্ব্যক্ত করেছে।"
+   ],
+   "why_new": "Links the trafficking cases to the reopening talks; the guide has Malaysia's 2025 call to withdraw allegations but nothing from 2026."
+  },
+  {
+   "key": "MY3f-21",
+   "article_id": "59575fd8-93e3-40bf-859a-86efc337d4ed",
+   "target_section": "Is it open now, and who can go?",
+   "placement": "Status",
+   "claim": "On 12 April 2026 the Prime Minister's adviser Mahdi Amin said reopening the Malaysian market was a procedural matter being worked on as fast as possible, gave no date, and said Bangladesh had asked Malaysia to do whatever was needed to make the process syndicate-free.",
+   "quotes": [
+    "‘এটি প্রক্রিয়াগত বিষয়। আমরা যত দ্রুত সম্ভব, এটি উন্মোচনের জন্য কাজ করে যাচ্ছি।’",
+    "মালেশিয়াকে আহ্বান জানিয়েছি, এই প্রক্রিয়াকে সিন্ডিকেট–মুক্ত করার জন্য যা কিছু করা প্রয়োজন, তা যেন করে।"
+   ],
+   "why_new": "Dated April 2026 status point; Bangladesh's ask to Malaysia on the syndicate is not in the guide."
+  },
+  {
+   "key": "MY3f-22",
+   "article_id": "d01ecfa2-a04a-43d9-804d-3b5ef5e672a0",
+   "target_section": "Is it open now, and who can go?",
+   "placement": "Status",
+   "claim": "Speaking in Sylhet on 12 April 2026 about his Malaysia visit, the expatriates' welfare minister Ariful Haque Chowdhury said 'we have signed a joint venture, it is in our favour' and called the meeting very fruitful, without saying what was signed.",
+   "quotes": [
+    "‘জয়েন্ট ভেঞ্চার স্বাক্ষর করেছি, সেটি আমাদের ফেবারে আছে। অনুষ্ঠিত বৈঠক অত্যন্ত ফলপ্রসূ হয়েছে।"
+   ],
+   "why_new": "The minister claims something was signed in April; the joint statement (article dc450226) mentions no signed agreement. A reviewer may want a Need to know on what, if anything, was signed."
+  },
+  {
+   "key": "MY3f-23",
+   "article_id": "75e4c254-919b-4642-94fc-ffc5274696ef",
+   "target_section": "Is it open now, and who can go?",
+   "placement": "Status",
+   "claim": "Prime Minister Tarique Rahman told parliament on 15 April 2026 that the government was working to open the Malaysian labour market and that the minister and adviser in charge of the expatriates' welfare ministry had visited Malaysia on 8 to 11 April.",
+   "quotes": [
+    "মালয়েশিয়ার শ্রমবাজার উন্মুক্তকরণের লক্ষ্যে সরকার কাজ করছে। প্রবাসীকল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়ের দায়িত্বপ্রাপ্ত মন্ত্রী ও উপদেষ্টা এ মাসের ৮-১১ তারিখ দেশটি সফর করেছেন।"
+   ],
+   "why_new": "Gives the dates of the April ministerial visit."
+  },
+  {
+   "key": "MY3f-24",
+   "article_id": "75e4c254-919b-4642-94fc-ffc5274696ef",
+   "target_section": "CROSS-COUNTRY: Which countries can I go to for work right now?",
+   "placement": "other: planned markets",
+   "claim": "Prime Minister Tarique Rahman told parliament on 15 April 2026 that steps had been taken to sign bilateral agreements to expand labour markets in Serbia, Greece, North Macedonia, Romania, Portugal, Brazil and Russia, and a recruitment agreement to open Thailand's labour market.",
+   "quotes": [
+    "সার্বিয়া, গ্রিস, নর্থ মেসিডোনিয়া, রোমানিয়া, পর্তুগাল, ব্রাজিল, রাশিয়া ইত্যাদি নতুন দেশগুলোয় বিকল্প শ্রমবাজার সম্পসারণে দ্বিপক্ষীয় চুক্তি স্বাক্ষরের উদ্যোগ গ্রহণ করা হয়েছে।",
+    "থাইল্যান্ডে শ্রমবাজার খোলার বিষয়ে কর্মী নিয়োগসংক্রান্ত চুক্তি স্বাক্ষরের উদ্যোগ নেওয়া হয়েছে।"
+   ],
+   "why_new": "Planned agreements (not open routes); the cross-country list has none of these."
+  },
+  {
+   "key": "MY3f-25",
+   "article_id": "651388d3-321e-4b77-975c-64504ad8cf38",
+   "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+   "placement": "The numbers",
+   "claim": "According to UNHCR, reported by Prothom Alo on 17 April 2026, about 900 Rohingya refugees went missing or died in the Andaman Sea and Bay of Bengal in 2025, the deadliest year on record for sea journeys in South and South-East Asia, with one in seven of the more than 6,500 who attempted the crossing dying or going missing.",
+   "quotes": [
+    "আন্দামান সাগর ও বঙ্গোপসাগরে ২০২৫ সালে প্রায় ৯০০ রোহিঙ্গা শরণার্থী নিখোঁজ বা নিহত হয়েছেন।",
+    "গত বছর সাড়ে ৬ হাজারের বেশি রোহিঙ্গা জীবনের ঝুঁকি নিয়ে সমুদ্র পাড়ি দেওয়ার চেষ্টা করেন। এর মধ্যে প্রতি সাতজনে একজন মারা গেছেন বা নিখোঁজ হয়েছেন।"
+   ],
+   "why_new": "2025 UNHCR figures; the section has 2023 figures only."
+  },
+  {
+   "key": "MY3f-26",
+   "article_id": "651388d3-321e-4b77-975c-64504ad8cf38",
+   "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+   "placement": "The numbers",
+   "claim": "UNHCR said that more than half of the Rohingya crossing by sea in recent years were women and children, that more than 2,800 had taken the journey in 2026 up to 13 April, and that the boats usually leave Cox's Bazar in Bangladesh or Rakhine State in Myanmar for Indonesia or Malaysia.",
+   "quotes": [
+    "সমুদ্র পাড়ি দেওয়া রোহিঙ্গাদের অর্ধেকের বেশিই নারী ও শিশু।",
+    "চলতি বছরের ১৩ এপ্রিল পর্যন্ত ২ হাজার ৮০০-এর বেশি রোহিঙ্গা এই বিপজ্জনক সমুদ্রযাত্রা বেছে নিয়েছেন।",
+    "সাধারণত বাংলাদেশের কক্সবাজার কিংবা মিয়ানমারের রাখাইন রাজ্য থেকে ইন্দোনেশিয়া বা মালয়েশিয়ার উদ্দেশে ছেড়ে যায়।"
+   ],
+   "why_new": "2026 year-to-date figure not in the cross-country doc."
+  },
+  {
+   "key": "MY3f-27",
+   "article_id": "651388d3-321e-4b77-975c-64504ad8cf38",
+   "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+   "placement": "Cases (conflict on departure date)",
+   "claim": "UNHCR said an overloaded boat that left Bangladesh on 26 March 2026 sank in rough sea with about 250 people missing, and only nine were rescued alive near the Andaman Islands on 9 April.",
+   "quotes": [
+    "গত ২৬ মার্চ বাংলাদেশ থেকে অতিরিক্ত যাত্রী নিয়ে একটি নৌকা সমুদ্রপথে রওনা দেয়। উত্তাল সাগরে নৌকাটি ডুবে গেলে নিখোঁজ হন প্রায় ২৫০ জন। পরে ৯ এপ্রিল আন্দামান দ্বীপপুঞ্জের কাছ থেকে মাত্র ৯ জনকে জীবিত উদ্ধার করা সম্ভব হয়।"
+   ],
+   "why_new": "Same sinking as article 646aca07, which says it sank on 8 April and that the missing Pekua men left on 4 April; the 26 March departure date differs."
+  },
+  {
+   "key": "MY3f-28",
+   "article_id": "0ba00687-4bf5-494f-bb3b-67ac05687000",
+   "target_section": "CROSS-COUNTRY: Can I get a government loan to go abroad?",
+   "placement": "other: students",
+   "claim": "On 18 April 2026 the Prime Minister's adviser Mahdi Amin said a collateral-free bank guarantee of up to Tk 10 lakh had been arranged for higher study abroad, and that a 'Probashi Card' for expatriates was being introduced.",
+   "quotes": [
+    "বিদেশে উচ্চশিক্ষার জন্য ১০ লাখ টাকা পর্যন্ত জামানতবিহীন ব্যাংক গ্যারান্টির ব্যবস্থা করা হয়েছে।",
+    "প্রবাসীদের জন্য ‘প্রবাসী কার্ড’ চালুর উদ্যোগ নেওয়া হয়েছে।"
+   ],
+   "why_new": "Pairs with the 24 March student-loan statement; the Probashi Card is not described in the cross-country doc (it has 'Probashi card' only in other contexts; check)."
+  },
+  {
+   "key": "MY3f-29",
+   "article_id": "646aca07-fe2c-4e64-9708-4662e1929df4",
+   "target_section": "What goes wrong most, and what people wrongly believe",
+   "placement": "Irregular routes, and where an irregular stay ends (new bullet: by sea)",
+   "claim": "A Malaysia-bound trawler that left the Teknaf coast of Cox's Bazar, carrying at least 250 Bangladeshi and Rohingya men and women, sank in the Andaman Sea on the morning of 8 April 2026 in strong wind, rough sea and overloading; nine were rescued and the Coast Guard said no trace of the missing or the wreck had been found.",
+   "quotes": [
+    "প্রচণ্ড বাতাস, উত্তাল সমুদ্র ও অতিরিক্ত যাত্রীর কারণে ৮ এপ্রিল সকালে আন্দামান সাগরে মালয়েশিয়াগামী একটি ট্রলার ডুবে যায়। এই ট্রলারে বাংলাদেশি ও রোহিঙ্গা মিলে অন্তত ২৫০ জন নারী-পুরুষ ছিলেন।",
+    "নিখোঁজদের কোনো হদিস এখন পর্যন্ত মেলেনি এবং ডুবে যাওয়া ট্রলারটিরও কোনো ধ্বংসাবশেষ পাওয়া যায়নি।"
+   ],
+   "why_new": "The country guide's Irregular routes list has land and airport routes but no sea route; a one-line pointer to the cross-country section may belong there."
+  },
+  {
+   "key": "MY3f-30",
+   "article_id": "646aca07-fe2c-4e64-9708-4662e1929df4",
+   "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+   "placement": "What happens",
+   "claim": "The nine survivors of the 8 April 2026 sinking, picked up from water drums and pieces of wood near the Andaman Islands on 9 April by the Bangladesh-flagged merchant ship Meghna Pride and handed to the Coast Guard, were taken to Teknaf police: the three Rohingya were sent back to the camps after giving statements in court, and the six Bangladeshis were charged under the trafficking prevention law and sent to jail, with 10 to 15 unnamed accused added, police inspector Sukanta Chowdhury said.",
+   "quotes": [
+    "৯ এপ্রিল দুপুরে আন্দামান সাগর থেকে বাংলাদেশের পতাকাবাহী বাণিজ্যিক জাহাজ ‘মেঘনা প্রাইড’ নয়জনকে উদ্ধার করে।",
+    "আদালতের মাধ্যমে তিন রোহিঙ্গার জবানবন্দি গ্রহণ করে ক্যাম্পে পাঠিয়ে দেওয়া হয়। বাকি ছয়জনের বিরুদ্ধে মানব পাচার প্রতিরোধ ও দমন আইনে মামলা রুজু করে কারাগারে পাঠানো হয়েছে। এ ছাড়া মামলায় ১০-১৫ জনকে অজ্ঞাতনামা আসামি করা হয়েছে।"
+   ],
+   "why_new": "New and decision-relevant: Bangladeshi survivors themselves were charged under the trafficking law and jailed."
+  },
+  {
+   "key": "MY3f-31",
+   "article_id": "646aca07-fe2c-4e64-9708-4662e1929df4",
+   "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+   "placement": "How it is sold",
+   "claim": "Brokers target unemployed, needy young men of poor families and offer to take them to Malaysia by boat for free, saying they can pay after reaching Malaysia and promising very high wages, Parvez Siddiqui, executive director of the NGO Films for Peace Foundation, said in April 2026; the wife of one missing man, Belal Uddin, said he went because brokers told him he could go without money.",
+   "quotes": [
+    "দালালেরা মূলত অসহায় শ্রেণির দরিদ্র পরিবারের বেকার ও অভাবী মানুষগুলোকে টার্গেট করে থাকে এবং বিনে পয়সায় মালয়েশিয়া নিয়ে যাওয়ার লোভ দেখায়। বলে মালয়েশিয়া পৌঁছে টাকা দিলেই হবে। বিশাল অঙ্কের বেতনের চাকরির লোভ দেখিয়েই বোটে তুলে তাদের।",
+    "টাকাপয়সা ছাড়া মালয়েশিয়া নেওয়ার কথা বলেছে। এ কারণে তিনি গেছেন।"
+   ],
+   "why_new": "The 'go free, pay on arrival' lure is not in the How it is sold paragraph, which gives up-front prices."
+  },
+  {
+   "key": "MY3f-32",
+   "article_id": "646aca07-fe2c-4e64-9708-4662e1929df4",
+   "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+   "placement": "Cases",
+   "claim": "Seven young men from Hajipara, Miapara and Natun Ghona villages of Rajakhali union, Pekua, Cox's Bazar, left the Teknaf coast on 4 April 2026 on one of three trawlers that left for Malaysia at about the same time, phoned home until 8 April and have not been heard from since; the Teknaf brokers stopped answering their phones, and one missing man's uncle said Teknaf police only took photos and addresses and sent the family away.",
+   "quotes": [
+    "পরিবারের সদস্যরা বলেন, ৪ এপ্রিল সাতজন ট্রলারে টেকনাফ উপকূল থেকে রওনা দেন। রওনা দেওয়ার আগে ও পরে ওই যুবকদের সঙ্গে বিভিন্নভাবে স্বজনদের যোগাযোগের হলেও ৮ এপ্রিল থেকে পুরোপুরিভাবে সব ধরনের যোগাযোগ বন্ধ হয়ে যায়। টেকনাফের দালালেরাও ফোন ধরছেন না।",
+    "কক্সবাজারের টেকনাফ উপকূল থেকে ওই সময় আরও দুটি ট্রলারও মালয়েশিয়ার উদ্দেশে ছেড়ে যায়।",
+    "‘ছবি আর ঠিকানা নিয়েই থানা-পুলিশ আমাদের তাড়িয়ে দিয়েছে। বলেছে খোঁজ পেলে জানাব।’"
+   ],
+   "why_new": "A 2026 case with what families met at the police; not in the cross-country Cases."
+  },
+  {
+   "key": "MY3f-33",
+   "article_id": "1938efe2-9672-433a-8ac8-62db273475fc",
+   "target_section": "Going home without valid papers",
+   "placement": "Step 1: Get a passport or Travel Permit (case answering the UNO Need to know)",
+   "claim": "In the case of Amir Hossain of Naria, Shariatpur, found mentally unwell in a forest in Penang after 27 years out of contact, the Bangladesh mission in Malaysia sent his photo and the information he gave to the Naria UNO, who verified it with the family; Chamta Union Parishad, with the upazila administration's help, issued him a birth registration; that and family members' documents were sent to the mission, which issued a travel pass, and he reached Dhaka in the night after 21 April 2026, about six months after he was found.",
+   "quotes": [
+    "মালয়েশিয়ায় বাংলাদেশ দূতাবাসের কর্মকর্তারা আমির হোসেনের ছবি ও তাঁর দেওয়া তথ্য পাঠায় নড়িয়া উপজেলা নির্বাহী কর্মকর্তার (ইউএনও) কাছে। তাঁর মাধ্যমে তথ্য যাচাই করা হয়। এরপর উপজেলা প্রশাসনের সহায়তায় চামটা ইউনিয়ন পরিষদ হতে আমির হোসেনের জন্মনিবন্ধন করা হয়।",
+    "ওই জন্মনিবন্ধন ও পরিবারের সদস্যদের বিভিন্ন ডকুমেন্ট পাঠানো হয় মালয়েশিয়ায় বাংলাদেশ দূতাবাসে। এরপর তাঁকে সেখান থেকে ট্রাভেল পাস প্রদান করে দেশে ফেরার ব্যবস্থা করা হয়।",
+    "দীর্ঘ ছয় মাসের প্রচেষ্টার পর গতকাল মঙ্গলবার গভীর রাতে আমির হোসেন পা রাখেন বাংলাদেশের মাটিতে।"
+   ],
+   "why_new": "Shows in practice how identity is proved when a worker has no passport or NID (mission to UNO to union parishad birth registration to travel pass), which the guide lists as Need to know (how a worker gets the UNO certificate, how long it takes)."
+  },
+  {
+   "key": "MY3f-34",
+   "article_id": "1938efe2-9672-433a-8ac8-62db273475fc",
+   "target_section": "Coming home",
+   "placement": "Airport help",
+   "claim": "Amir Hossain was received at Dhaka airport on the night of 21-22 April 2026 by BRAC's Migration Programme and his family, with the help of Civil Aviation Security (AVSEC) and the Probashi Kallyan desk.",
+   "quotes": [
+    "বিমানবন্দরে সিভিল অ্যাভিয়েশন সিকিউরিটি (এভসেক) ও প্রবাসীকল্যাণ ডেস্কের সহায়তায় ব্র্যাক মাইগ্রেশন প্রোগ্রাম ও পরিবারের সদস্যরা আমির হোসেনকে গ্রহণ করে‌ন।"
+   ],
+   "why_new": "An example of BRAC's airport reception that the guide lists without a case."
+  },
+  {
+   "key": "MY3f-35",
+   "article_id": "1938efe2-9672-433a-8ac8-62db273475fc",
+   "target_section": "Going home without valid papers",
+   "placement": "Help from Bangladesh (case)",
+   "claim": "Amir Hossain, who went to Malaysia through a broker in 1996 after selling inherited farmland and worked as a painter, was traced after two Bangladeshis in Malaysia, an expatriate named Dipu and expatriate journalist Bappi Kumar Das, found him in a tin hut in a Penang forest, rescued him and posted video on social media, from which his wife recognised him.",
+   "quotes": [
+    "পারিবারিকভাবে পাওয়া কৃষিজমি বিক্রি করে ১৯৯৬ সালে দালালের মাধ্যমে মালয়েশিয়ায় পাড়ি জমান আমির হোসেন।",
+    "ছয় মাস আগে মালয়েশিয়ার পেনাংয়ের একটি জঙ্গলে গিয়ে একটা ছোট্ট টিনের ঘরে মানসিক ভারসাম্যহীন অবস্থায় আমির হোসেনকে দেখতে পান দীপু নামের এক প্রবাসী এবং প্রবাসী সংবাদকর্মী বাপ্পি কুমার দাস। সেখান থেকে তাঁরা তাঁকে উদ্ধার করে সামাজিক যোগাযোগমাধ্যমে ছবি ও ভিডিও প্রকাশ করেন।"
+   ],
+   "why_new": "Shows how a missing worker was found (through other expatriates, not an official channel); low priority."
+  },
+  {
+   "key": "MY3f-36",
+   "article_id": "d7f5056d-6a87-447f-8fda-5922cb249022",
+   "target_section": "If something goes wrong",
+   "placement": "Where to complain, in Malaysia and from Bangladesh",
+   "claim": "At a community event in Putrajaya on 1 June 2026, Md Siddiqur Rahman, Minister (Labour) at the Bangladesh High Commission in Kuala Lumpur, said any Bangladeshi in trouble anywhere in Malaysia should tell the High Commission by writing on its Facebook page, by email or by phone, and it would try to solve the problem.",
+   "quotes": [
+    "যেকোনো প্রবাসী মালয়েশিয়ার যেখানেই সমস্যায় পড়ুক, আমাদের জানাবেন। আমাদের ফেসবুক পেজে লিখে জানাতে পারেন, মেইল করতে পারেন, ফোন করতে পারেন। আমরা সমাধানের চেষ্টা করব।"
+   ],
+   "why_new": "The guide gives his email and phone but not the Facebook page as a channel the labour wing says it takes; no page address is printed, so a reviewer may need to add it."
+  },
+  {
+   "key": "MY3f-37",
+   "article_id": "80f9484d-afa1-4107-9a51-f771b2e5e620",
+   "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+   "placement": "Cases",
+   "claim": "On the evening of 5 June 2026 the Coast Guard chased and seized a fishing trawler off Baharchhara on the Teknaf coast that was taking people to Malaysia by sea, rescued 50 people including women and children (39 Bangladeshis and 11 Rohingya) and arrested nine traffickers, who were handed to Teknaf Model Police Station with a case filed, station in-charge Lt Cdr Md Muttakin Siddiqui said.",
+   "quotes": [
+    "উদ্ধার হওয়া ৫০ জন ভুক্তভোগীর মধ্যে ১১ জন রোহিঙ্গা, ৩৯ জন বাংলাদেশি নাগরিক।",
+    "বাহারছড়া উপকূলবর্তী সাগরে সন্দেহজনক একটি ট্রলার দেখতে পেয়ে কোস্টগার্ডের সদস্যরা ট্রলারটিকে থামার জন্য সংকেত দেন। কোস্টগার্ডের সদস্যদের উপস্থিতি টের পেয়ে পাচারকারীরা ট্রলারটি দ্রুত চালিয়ে পালানোর চেষ্টা চালায়। পরে ধাওয়া দিয়ে ট্রলারটিকে জব্দ করতে সক্ষম হয় কোস্টগার্ড।",
+    "এ সময় মানব পাচারে জড়িত ৯ পাচারকারীকে গ্রেপ্তার করা হয়।"
+   ],
+   "why_new": "A June 2026 case with a majority of Bangladeshi passengers; not in Cases."
+  },
+  {
+   "key": "MY3f-38",
+   "article_id": "80f9484d-afa1-4107-9a51-f771b2e5e620",
+   "target_section": "CROSS-COUNTRY: Malaysia: boats and land crossings",
+   "placement": "What happens",
+   "claim": "Organised rings bring Bangladeshis and Rohingya to the Teknaf coast with promises of high-paid jobs abroad and a better life, then lock them in secret hideouts and extract ransom through torture, the Coast Guard's Teknaf station in-charge said on 6 June 2026.",
+   "quotes": [
+    "সংঘবদ্ধ পাচারকারী চক্র বিদেশে উচ্চ বেতনের চাকরি ও উন্নত জীবনের প্রলোভন দেখিয়ে বাংলাদেশি ও রোহিঙ্গা নাগরিকদের টেকনাফ উপকূলে নিয়ে আসে। পরে তাদের গোপন আস্তানায় আটকে রেখে নির্যাতনের মাধ্যমে মুক্তিপণ আদায় করা হয়।"
+   ],
+   "why_new": "Confirms the ransom-before-departure pattern in 2026 (the section's examples are 2024-25)."
+  },
+  {
+   "key": "MY3f-39",
+   "article_id": "4dd55972-96dc-40e9-a713-d544d64f6f81",
+   "target_section": "If something goes wrong",
+   "placement": "If you aren't paid (case)",
+   "claim": "In June 2026 all workers at Aerofoam Manufacturing (1969) Sdn Bhd, a Malaysian maker of bedding products employing Bangladeshis, had gone three months without wages, according to documents of the Migrant Welfare Network (MWN), a rights platform for Bangladeshi migrants; they could not meet daily costs or send money home, and many who had borrowed at high interest to migrate could not pay their instalments.",
+   "quotes": [
+    "অ্যারোফোম ম্যানুফ্যাকচারিংয়ের সব শ্রমিক গত তিন মাস কোনো বেতন পাচ্ছেন না।",
+    "শ্রমিকদের অনেকেই চড়া সুদে ঋণ নিয়ে মালয়েশিয়ায় গিয়েছিলেন। কিন্তু এখন কিস্তি শোধ করতে না পেরে চরম মানসিক চাপে রয়েছেন তাঁরা।"
+   ],
+   "why_new": "The guide mentions 'nearly three [months] at Aerofoam' [F0038] only; MWN as a source of help is not in the guide."
+  },
+  {
+   "key": "MY3f-40",
+   "article_id": "4dd55972-96dc-40e9-a713-d544d64f6f81",
+   "target_section": "Your residence permit",
+   "placement": "How long you can stay and renewing (case for the Need to know on unrenewed passes)",
+   "claim": "About 35 Aerofoam workers who entered Malaysia legally had no valid work permit (PLKS) in June 2026 because the company did not renew it on time, leaving them in fear of arrest or fines; their written complaint to the Labour Department (Jabatan Tenaga Kerja, JTK) asked that the 35 workers' visas and permits be regularised quickly.",
+   "quotes": [
+    "প্রায় ৩৫ জন শ্রমিকের বর্তমানে কোনো বৈধ ভিসা বা ওয়ার্ক পারমিট (পিএলকেএস) নেই। শ্রমিকেরা বৈধভাবে মালয়েশিয়ায় প্রবেশ করে কাজ করছিল। কিন্তু প্রতিষ্ঠানটি সময়মতো কর্মীদের কাজ করার অনুমতি নবায়ন করেনি। ফলে এসব শ্রমিক যেকোনো সময় গ্রেপ্তার বা জরিমানার আতঙ্কে দিন কাটাচ্ছেন।",
+    "৩৫ জন শ্রমিকের ভিসা ও ওয়ার্ক পারমিট দ্রুত বৈধ করা"
+   ],
+   "why_new": "Partly answers the guide's Need to know 'Does the Labour Department take a complaint about a pass that isn't renewed?': workers did file one with JTK; the outcome is not reported."
+  },
+  {
+   "key": "MY3f-41",
+   "article_id": "4dd55972-96dc-40e9-a713-d544d64f6f81",
+   "target_section": "If something goes wrong",
+   "placement": "If you are abused, denied food or medical care, or your passport is taken (case)",
+   "claim": "The Aerofoam workers alleged in June 2026 that the company held most of their passports, forced them to work overtime against their will without enough rest, gave no transport to the workplace and had no working grievance mechanism; their complaint to JTK demanded payment of arrears, return of passports, an end to forced overtime, a safe workplace, an investigation of high recruitment fees and no retaliation against them.",
+   "quotes": [
+    "অধিকাংশ শ্রমিকের পাসপোর্ট কোম্পানি নিজেদের কাছে আটকে রেখেছে",
+    "তাঁদের ইচ্ছার বিরুদ্ধে অতিরিক্ত সময় (ওভারটাইম) কাজ করতে বাধ্য করা হয়। পর্যাপ্ত বিশ্রাম না পাওয়ায় তাঁরা শারীরিক ও মানসিকভাবে অসুস্থ হয়ে পড়ছেন। কর্মস্থলে যাতায়াতের জন্য কোনো পরিবহন–সুবিধাও দেওয়া হয় না এবং শ্রমিকদের অভিযোগ শোনার মতো কোনো কার্যকর ব্যবস্থাও কোম্পানিটিতে নেই।",
+    "বকেয়া বেতন দ্রুত পরিশোধ করা, ৩৫ জন শ্রমিকের ভিসা ও ওয়ার্ক পারমিট দ্রুত বৈধ করা, কোম্পানির হেফাজতে থাকা পাসপোর্ট ফেরত দেওয়া, জোর করে অতিরিক্ত কাজ করানো বন্ধ করা, নিরাপদ কর্মপরিবেশ নিশ্চিত করা এবং চড়া নিয়োগ ফি ও অভিবাসন প্রক্রিয়ায় অনিয়মের তদন্ত করা।"
+   ],
+   "why_new": "Shows what a collective JTK complaint asked for; outcome not reported."
+  },
+  {
+   "key": "MY3f-42",
+   "article_id": "599bfff3-477b-43b0-b023-068c0477c1eb",
+   "target_section": "Work visa: company worker (PLKS)",
+   "placement": "Step 1: Find a real job > If an agency or broker takes your money (case)",
+   "claim": "Lal Mia, 54, of Chhoto Amian village, Shalikha, Magura, said he paid a broker Tk 2.5 lakh in 2006 and Tk 3 lakh in 2010 to go to Malaysia, never went and never got the money back; across four attempts from 2002 to 2012 (also Saudi Arabia and Dubai) he paid about Tk 10.5 lakh, selling four bighas of farmland and his 12.5-decimal homestead, and in June 2026 lived in a house on someone else's land, selling eggs by bicycle.",
+   "quotes": [
+    "মালয়েশিয়া যাওয়ার জন্য ২০০৬ সালে দিলাম আড়াই লাখ টাকা, চার বছর পর ২০১০ সালে আবারও মালয়েশিয়া যাওয়ার জন্য তিন লাখ টাকা দিয়েছি।",
+    "মাঠের চার বিঘা ও সাড়ে ১২ শতক বসতভিটা বিক্রি করে দালালের হাতে চারবার প্রায় সাড়ে ১০ লাখ টাকা তুলে দেন। কিন্তু তিনি বিদেশ যেতে পারেননি। টাকাও ফেরত পাননি।"
+   ],
+   "why_new": "An older case (2006, 2010) of repeated loss to brokers; the guide's cases are 2022-26. Low priority."
+  },
+  {
+   "key": "MY3f-43",
+   "article_id": "5f759d1d-c03c-4879-9ddc-3056a4c61756",
+   "target_section": "Is it open now, and who can go?",
+   "placement": "Status",
+   "claim": "In parliament on 10 June 2026 the home minister, Salahuddin Ahmed, said the Prime Minister's first visit abroad had been fixed for Malaysia, to open its labour market, and the state minister for expatriates' welfare, Nurul Haque, said the market opens and closes again, was closed then, that MPs wanted no syndicate there, and that the Prime Minister had given strict instructions that the government must not be given a bad name.",
+   "quotes": [
+    "মালয়েশিয়ায় প্রধানমন্ত্রীর প্রথম সফর নির্ধারিত হয়েছে। মালয়েশিয়াকে তিনি গুরুত্ব দিয়েছেন, মালয়েশিয়ার শ্রমবাজার উন্মুক্ত করার জন্যই।",
+    "মালয়েশিয়ার শ্রমবাজার একবার খোলে, আবার বন্ধ হয়। এখন বন্ধ আছে। সংসদ সদস্যরা বলেছেন, এখানে যেন সিন্ডিকেট না হয়। প্রধানমন্ত্রীও কড়া নির্দেশ দিয়েছেন, সরকারের বদনাম করা যাবে না।"
+   ],
+   "why_new": "Dated June 2026 status point before the PM's visit."
+  },
+  {
+   "key": "MY3f-44",
+   "article_id": "5f759d1d-c03c-4879-9ddc-3056a4c61756",
+   "target_section": "CROSS-COUNTRY: How do I get a passport, and what does it cost?",
+   "placement": "other: problems abroad",
+   "claim": "The opposition leader, Shafiqur Rahman, told parliament on 10 June 2026 that many expatriates could not get e-passports because their MRP (machine-readable passport) and national ID data did not match, through small spelling differences in vowel signs or names or a mismatch in age, and that many abroad were becoming or risked becoming undocumented as a result.",
+   "quotes": [
+    "প্রবাসীদের ই-পাসপোর্ট করতে গিয়ে এমআরপি ও জাতীয় পরিচয়পত্রের তথ্য মিল না থাকার কারণে অনেকেই সমস্যায় পড়ছেন। আকার-ইকার, নামের সামান্য পার্থক্য কিংবা বয়সের অমিলের কারণে অনেকের ই-পাসপোর্ট হচ্ছে না। এতে বহু প্রবাসী বিদেশে অবৈধ হয়ে পড়ছেন বা অবৈধ হওয়ার ঝুঁকিতে আছেন।"
+   ],
+   "why_new": "The cross-country passport answer says to apply exactly as the NID reads but not what happens to workers abroad whose old MRP differs."
+  },
+  {
+   "key": "MY3f-45",
+   "article_id": "0aad1cd4-d17f-46f7-a6ed-8d8d766dfe10",
+   "target_section": "Is it open now, and who can go?",
+   "placement": "What closed it before (conflict on 2008/2009)",
+   "claim": "Dr Selim Reza of North South University's Centre for Migration Studies wrote in Prothom Alo on 16 June 2026 that sending workers to Malaysia began in 1978 with a few workers, and that the market closed in 2008, reopened in 2016, closed in 2018, reopened in a new form in 2022 and was suspended again in 2024.",
+   "quotes": [
+    "১৯৭৮ সালে মাত্র কয়েকজন কর্মী পাঠানোর মধ্য দিয়ে যে যাত্রা শুরু হয়েছিল",
+    "২০০৮ সালে বন্ধ, ২০১৬ সালে আবার চালু, ২০১৮ সালে আবার বন্ধ, ২০২২ সালে নতুনভাবে চালু এবং ২০২৪ সালে আবার স্থগিত"
+   ],
+   "why_new": "CONFLICT: the guide (What closed it before) dates the first closure to 2009 (freeze after 2007-08 surge); this column says 2008. The 1978 start is new."
+  },
+  {
+   "key": "MY3f-46",
+   "article_id": "0aad1cd4-d17f-46f7-a6ed-8d8d766dfe10",
+   "target_section": "Contacts",
+   "placement": "other: consular services outside Kuala Lumpur",
+   "claim": "Selim Reza wrote in June 2026 that most consular services require Bangladeshis to travel to Kuala Lumpur, and that coming from Sabah, Sarawak, Penang or Johor to Kuala Lumpur to renew a passport or get other services is time-consuming and costly.",
+   "quotes": [
+    "বেশির ভাগ কনস্যুলার সেবা পেতে তাঁদের কুয়ালালামপুরে যেতে হয়।",
+    "সাবা, সারাওয়াক, পেনাং কিংবা জহুর থেকে কুয়ালালামপুরে এসে পাসপোর্ট নবায়ন বা অন্যান্য সেবা নেওয়া সময়সাপেক্ষ ও ব্যয়বহুল।"
+   ],
+   "why_new": "The guide does not say whether the High Commission offers any service outside Kuala Lumpur; suggests a Need to know (are there consular camps in Sabah, Sarawak, Penang or Johor?)."
+  },
+  {
+   "key": "MY3f-47",
+   "article_id": "0aad1cd4-d17f-46f7-a6ed-8d8d766dfe10",
+   "target_section": "What ties you to the employer",
+   "placement": "What running away or an expired pass does to you",
+   "claim": "Selim Reza wrote in June 2026 that most undocumented Bangladeshis in Malaysia are not involved in crime but lost legal status through employer fraud, company closure, visa-renewal complications or administrative weakness.",
+   "quotes": [
+    "মালয়েশিয়ায় অনথিভুক্ত বাংলাদেশিদের বড় অংশ কোনো অপরাধমূলক কর্মকাণ্ডে জড়িত নন। বরং নিয়োগকর্তার প্রতারণা, কোম্পানি বন্ধ হয়ে যাওয়া, ভিসা নবায়নের জটিলতা কিংবা প্রশাসনিক দুর্বলতার কারণে তাঁরা বৈধ মর্যাদা হারিয়ে অনিয়মিত অবস্থায় পড়েছেন।"
+   ],
+   "why_new": "A columnist's view, consistent with the IOM study the guide cites; adds company closure and renewal complications as causes. Low priority."
+  },
+  {
+   "key": "MY3f-48",
+   "article_id": "5f5ea5b1-0c7a-420c-ad7e-1dfd86a4d787",
+   "target_section": "Is it open now, and who can go?",
+   "placement": "Status",
+   "claim": "Prothom Alo, drawing on Malaysia's The Edge, reported on 16 June 2026 that Prime Minister Tarique Rahman's first foreign visit was to be two days in Kuala Lumpur on 21 and 22 June 2026, with a bilateral meeting with Prime Minister Anwar Ibrahim on the second day; the High Commission opened formal talks on the visit with Malaysia's foreign ministry on 24 May and Anwar confirmed the invitation on 1 June, and reopening the labour market was a key priority.",
+   "quotes": [
+    "২১ ও ২২ জুন দুই দিনের এই কুয়ালালামপুর সফর অনুষ্ঠিত হওয়ার কথা। সফরের দ্বিতীয় দিনে মালয়েশিয়ার প্রধানমন্ত্রী আনোয়ার ইব্রাহিমের সঙ্গে তারেক রহমানের দ্বিপক্ষীয় বৈঠক হওয়ার কথা আছে।",
+    "বাংলাদেশ হাইকমিশন গত ২৪ মে মালয়েশিয়ার পররাষ্ট্র মন্ত্রণালয়ের সঙ্গে সফর নিয়ে আনুষ্ঠানিক আলোচনা শুরু করে।",
+    "১ জুন আনোয়ার ইব্রাহিম আনুষ্ঠানিকভাবে আমন্ত্রণ নিশ্চিত করেন।",
+    "তারেক রহমানের সফরের একটি গুরুত্বপূর্ণ অগ্রাধিকারের জায়গা হলো মালয়েশিয়ায় বাংলাদেশি শ্রমিকদের জন্য বিদেশি শ্রমবাজার আবারও চালু করা।"
+   ],
+   "why_new": "The guide's 'June 2026' entry has no dates for the visit."
+  },
+  {
+   "key": "MY3f-49",
+   "article_id": "5f5ea5b1-0c7a-420c-ad7e-1dfd86a4d787",
+   "target_section": "How a job reaches you, and who takes a cut",
+   "placement": "The processing agency: the toll gate (conflict on number of approved firms)",
+   "claim": "According to The Edge, as reported by Prothom Alo on 16 June 2026, 102 Bangladeshi firms were then approved under FWCMS, built by Bestinet, and Bangladesh was considering including 432 recruiting agencies instead; a manpower-sector executive told The Edge that Bangladesh wanted Malaysia to open recruitment to more Bangladeshi companies rather than a few chosen by some influential people.",
+   "quotes": [
+    "বর্তমানে ১০২টি অনুমোদিত প্রতিষ্ঠানের পরিবর্তে ৪৩২টি নিয়োগকারী সংস্থাকে অন্তর্ভুক্ত করার বিষয়টি বিবেচনা করছে বলে জানা গেছে।",
+    "বর্তমান ১০২টি প্রতিষ্ঠান ফরেন ওয়ার্কার সেন্ট্রালাইজড ম্যানেজমেন্ট সিস্টেমের আওতায় অনুমোদনপ্রাপ্ত।",
+    "‘বাংলাদেশ চায় না যে বিদেশি শ্রমিক নিয়োগের বর্তমান পদ্ধতি অব্যাহত থাকুক। তারা চায় মালয়েশিয়া সরকার বিদেশি শ্রমিক নিয়োগের সুযোগটি আরও বেশিসংখ্যক বাংলাদেশি কোম্পানির জন্য খুলে দিক, কয়েকজন প্রভাবশালী ব্যক্তির বাছাইকৃত অল্প কিছু প্রতিষ্ঠানের মধ্যে তা সীমাবদ্ধ না রাখুক।’"
+   ],
+   "why_new": "CONFLICT: the guide says the 2022 list grew to 100 and in 2026 Malaysia chose 25 (from a final Bangladeshi list of 423); this June 2026 report says 102 approved firms and 432 under consideration."
+  },
+  {
+   "key": "MY3f-50",
+   "article_id": "5f5ea5b1-0c7a-420c-ad7e-1dfd86a4d787",
+   "target_section": "Work visa: company worker (PLKS)",
+   "placement": "Step 1: Find a real job (TURAP)",
+   "claim": "Malaysia's Human Resources Minister Ramanan Ramakrishnan proposed a new system called 'Turap' to stop the exploitation of Bangladeshi workers at village level; Turap is also built by Bestinet, and some stakeholders in Bangladesh and Malaysia suspect it is another way to keep recruitment concentrated in a few firms, Prothom Alo reported from The Edge on 16 June 2026.",
+   "quotes": [
+    "মালয়েশিয়ার মানবসম্পদমন্ত্রী রামানান রামাকৃষ্ণন বাংলাদেশি শ্রমিকদের গ্রাম পর্যায়ে শোষণ বন্ধ করার জন্য তুরাপ নামে একটি নতুন ব্যবস্থা প্রস্তাব করেছেন। তুরাপও বেস্টিনেটের তৈরি একটি ব্যবস্থা।",
+    "তাঁদের ধারণা, এটি আসলে আরেকটি এমন ব্যবস্থা, যার মাধ্যমে বাংলাদেশি শ্রমিক নিয়োগ আবারও কয়েকটি প্রতিষ্ঠানের হাতেই কেন্দ্রীভূত থাকবে।"
+   ],
+   "why_new": "The guide says only that TURAP was approved by Malaysia's Cabinet in April 2026 and has not launched; that Bestinet built it and the concentration concern are new."
+  },
+  {
+   "key": "MY3f-51",
+   "article_id": "5f5ea5b1-0c7a-420c-ad7e-1dfd86a4d787",
+   "target_section": "How a job reaches you, and who takes a cut",
+   "placement": "Who controls it",
+   "claim": "Bangladesh sought the extradition of Bestinet's founder Aminul Islam Abdul Nor and his associate Ruhul Amin in 2024, after the fall of the Sheikh Hasina government, and in June 2026 the matter was still under discussion between the two governments, according to The Edge as reported by Prothom Alo.",
+   "quotes": [
+    "শেখ হাসিনা সরকারের পতনের পর ২০২৪ সালে বাংলাদেশ সরকার আমিনুল ও তাঁর সহযোগী রুহুল আমিনের প্রত্যর্পণ চেয়ে আবেদন করেছিল। বিষয়টি এখনো দুই দেশের সরকার পর্যায়ে আলোচনা ও প্রক্রিয়াধীন আছে।"
+   ],
+   "why_new": "Updates the extradition request's status to June 2026."
+  },
+  {
+   "key": "MY3f-52",
+   "article_id": "5f5ea5b1-0c7a-420c-ad7e-1dfd86a4d787",
+   "target_section": "What you pay, and what you earn and keep",
+   "placement": "What people really pay (conflict)",
+   "claim": "According to The Edge as reported by Prothom Alo in June 2026, the problem peaked in 2023, when many workers spent up to USD 6,600 each (about Tk 8 lakh, as printed) to reach Malaysia and then found that the jobs promised did not exist.",
+   "quotes": [
+    "তখন অনেক শ্রমিক জনপ্রতি ৬ হাজার ৬০০ মার্কিন ডলার (প্রায় ৮ লাখ টাকা) পর্যন্ত খরচ করে মালয়েশিয়ায় পৌঁছানোর পর দেখতে পান, নিয়োগদাতাদের প্রতিশ্রুত চাকরিগুলোর বাস্তবে কোনো অস্তিত্বই নেই।"
+   ],
+   "why_new": "CONFLICT: the guide gives up to USD 5,000 (What closed it before) and a 2022-24 average of Tk 5.44 lakh; this gives an upper figure of USD 6,600."
+  },
+  {
+   "key": "MY3f-53",
+   "article_id": "5f5ea5b1-0c7a-420c-ad7e-1dfd86a4d787",
+   "target_section": "Is it open now, and who can go?",
+   "placement": "What closed it before (stranded count)",
+   "claim": "When Malaysia stopped workers entering in early 2024, about 18,000 workers who had already paid agents in Bangladesh could not enter, and many of those agents went into hiding in the crackdown under Bangladesh's new government, The Edge reported (Prothom Alo, 16 June 2026).",
+   "quotes": [
+    "২০২৪ সালের শুরুতে মালয়েশিয়া শ্রমিক প্রবেশ বন্ধ করে দিলে বাংলাদেশে এজেন্টদের অর্থ পরিশোধ করা প্রায় ১৮ হাজার শ্রমিক মালয়েশিয়ায় ঢুকতে পারেননি।",
+    "নতুন সরকারের সময় বাংলাদেশে শুরু হওয়া অভিযানের মধ্যে এসব এজেন্টের অনেকেই গা ঢাকা দিয়েছেন।"
+   ],
+   "why_new": "Another stranded-worker count (about 18,000) to add to the guide's Need to know list of counts (16,970, 17,777, 31,304, about 40,000, about 11,000)."
+  },
+  {
+   "key": "MY3f-54",
+   "article_id": "5f5ea5b1-0c7a-420c-ad7e-1dfd86a4d787",
+   "target_section": "What you pay, and what you earn and keep",
+   "placement": "other: employer pays",
+   "claim": "Malaysia officially follows an 'employer pays' policy for recruitment costs, but under the current system it is still hard to implement, and the money changing hands in the Bangladeshi recruitment market runs to several hundred crore ringgit while the real cost of recruitment is far lower, The Edge reported (Prothom Alo, 16 June 2026).",
+   "quotes": [
+    "মালয়েশিয়া আনুষ্ঠানিকভাবে ‘নিয়োগকর্তা খরচ বহন করবে’ নীতি অনুসরণ করে। কিন্তু বর্তমান ব্যবস্থায় এই নীতির কার্যকর বাস্তবায়ন এখনো কঠিন।",
+    "বাংলাদেশি শ্রমিক নিয়োগের বাজারে যে অর্থের লেনদেন হয়, তা কয়েক শ কোটি রিঙ্গিত পর্যন্ত পৌঁছায় বলে জানা গেছে।"
+   ],
+   "why_new": "Supports the guide's opening line on the gap between the employer-pays rule and what is paid; low priority."
+  },
+  {
+   "key": "MY3f-55",
+   "article_id": "5f5ea5b1-0c7a-420c-ad7e-1dfd86a4d787",
+   "target_section": "Student visa (Student Pass)",
+   "placement": "other: size",
+   "claim": "More than 10,000 Bangladeshi students were studying at Malaysian universities in June 2026, Prothom Alo reported.",
+   "quotes": [
+    "বর্তমানে ১০ হাজারের বেশি বাংলাদেশি শিক্ষার্থী মালয়েশিয়ার বিভিন্ন বিশ্ববিদ্যালয়ে পড়াশোনা করছেন।"
+   ],
+   "why_new": "The student section gives no number of Bangladeshi students."
+  }
+ ],
+ "named_actors": [
+  {
+   "article_id": "09d828c6-b83b-4f7e-ac81-41cb9248fcd0",
+   "name": "Altab Khan (Afia Overseas)",
+   "kind": "complainant, recruiting firm owner",
+   "what_the_article_says": "Filed the Paltan trafficking case on 3 September 2024 against 103 accused; says CID compromised with the accused.",
+   "quote": "আসামিদের সঙ্গে সমঝোতা করে সিআইডি মামলাটিকে মিথ্যা বলে উল্লেখ করে।"
+  },
+  {
+   "article_id": "09d828c6-b83b-4f7e-ac81-41cb9248fcd0",
+   "name": "Lt Gen (retd) Masud Uddin Chowdhury",
+   "kind": "former MP, agency owner",
+   "what_the_article_says": "Accused no. 3 in the Paltan case; arrested by DB and remanded; called a powerful member of the Malaysia ring by a DB joint commissioner.",
+   "quote": "সেই চক্রে একজন ক্ষমতাশালী ছিলেন মাসুদ উদ্দিন চৌধুরী।"
+  },
+  {
+   "article_id": "09d828c6-b83b-4f7e-ac81-41cb9248fcd0",
+   "name": "Imran Ahmed",
+   "kind": "former expatriates' welfare minister",
+   "what_the_article_says": "Accused in the Paltan Malaysia-trafficking case.",
+   "quote": "সাবেক প্রবাসীকল্যাণ ও বৈদেশিক কর্মসংস্থানমন্ত্রী ইমরান আহমেদ"
+  },
+  {
+   "article_id": "09d828c6-b83b-4f7e-ac81-41cb9248fcd0",
+   "name": "Ahmed Munirus Salehin",
+   "kind": "former senior secretary, expatriates' welfare ministry",
+   "what_the_article_says": "Accused in the Paltan Malaysia-trafficking case.",
+   "quote": "সাবেক সিনিয়র সচিব আহমেদ মুনিরুছ সালেহীন"
+  },
+  {
+   "article_id": "09d828c6-b83b-4f7e-ac81-41cb9248fcd0",
+   "name": "S M Rafiq",
+   "kind": "accused no. 12",
+   "what_the_article_says": "Gave a confessional statement in court in December 2025.",
+   "quote": "১২ নম্বর আসামি এস এম রফিক আদালতে স্বীকারোক্তিমূলক জবানবন্দি দিয়েছেন।"
+  },
+  {
+   "article_id": "dc450226-288c-4a17-a89a-132098572ecb",
+   "name": "Ramanan Ramakrishnan",
+   "kind": "Malaysia's Human Resources Minister",
+   "what_the_article_says": "Led Malaysia's side at the 9 April 2026 Putrajaya meeting.",
+   "quote": "মালয়েশিয়ার প্রতিনিধিদলের নেতৃত্ব দেন দেশটির মানবসম্পদমন্ত্রী দাতো শ্রী রামানন রামকৃষ্ণন।"
+  },
+  {
+   "article_id": "dc450226-288c-4a17-a89a-132098572ecb",
+   "name": "Mahdi Amin",
+   "kind": "Prime Minister's adviser on expatriates' welfare",
+   "what_the_article_says": "Accompanied the minister to Malaysia and described the meeting's agreement.",
+   "quote": "তাঁর সঙ্গে ছিলেন প্রধানমন্ত্রীর উপদেষ্টা মাহদী আমিন।"
+  },
+  {
+   "article_id": "646aca07-fe2c-4e64-9708-4662e1929df4",
+   "name": "Parvez Siddiqui (Films for Peace Foundation)",
+   "kind": "NGO executive director",
+   "what_the_article_says": "Says brokers lure poor unemployed youths with a free boat trip to Malaysia, payment on arrival and high wages.",
+   "quote": "বিনে পয়সায় মালয়েশিয়া নিয়ে যাওয়ার লোভ দেখায়।"
+  },
+  {
+   "article_id": "646aca07-fe2c-4e64-9708-4662e1929df4",
+   "name": "Meghna Pride",
+   "kind": "Bangladesh-flagged merchant ship",
+   "what_the_article_says": "Rescued nine survivors near the Andaman Islands on 9 April 2026.",
+   "quote": "৯ এপ্রিল দুপুরে আন্দামান সাগর থেকে বাংলাদেশের পতাকাবাহী বাণিজ্যিক জাহাজ ‘মেঘনা প্রাইড’ নয়জনকে উদ্ধার করে।"
+  },
+  {
+   "article_id": "1938efe2-9672-433a-8ac8-62db273475fc",
+   "name": "Abdul Kaiyum",
+   "kind": "UNO, Naria",
+   "what_the_article_says": "Verified the photo and information the mission sent with the family and sent documents back to the mission.",
+   "quote": "আমরা ওই ব্যক্তির পরিবারের সঙ্গে যোগাযোগ করে তথ্যগুলো যাচাই শেষে আবার মালয়েশিয়া দূতাবাসে পাঠিয়েছি।"
+  },
+  {
+   "article_id": "4dd55972-96dc-40e9-a713-d544d64f6f81",
+   "name": "Aerofoam Manufacturing (1969) Sdn Bhd",
+   "kind": "Malaysian employer (bedding products)",
+   "what_the_article_says": "Workers allege three months' unpaid wages, about 35 permits not renewed, passports held, forced overtime, no transport.",
+   "quote": "মালয়েশিয়ার ওই কোম্পানির নাম অ্যারোফোম ম্যানুফ্যাকচারিং (১৯৬৯) এসডিএন বিএইচডি।"
+  },
+  {
+   "article_id": "4dd55972-96dc-40e9-a713-d544d64f6f81",
+   "name": "Migrant Welfare Network (MWN)",
+   "kind": "rights platform for Bangladeshi migrants",
+   "what_the_article_says": "Its documents record the Aerofoam workers' situation.",
+   "quote": "মাইগ্রেন্ট ওয়েলফেয়ার নেটওয়ার্কের (এমডব্লিউএন)"
+  },
+  {
+   "article_id": "5f5ea5b1-0c7a-420c-ad7e-1dfd86a4d787",
+   "name": "Bestinet Sdn Bhd",
+   "kind": "Malaysian IT company",
+   "what_the_article_says": "Built FWCMS, under which 102 Bangladeshi firms are approved, and also built the proposed Turap system.",
+   "quote": "তুরাপও বেস্টিনেটের তৈরি একটি ব্যবস্থা।"
+  },
+  {
+   "article_id": "5f5ea5b1-0c7a-420c-ad7e-1dfd86a4d787",
+   "name": "Aminul Islam Abdul Nor",
+   "kind": "Bestinet founder",
+   "what_the_article_says": "Bangladesh-born Malaysian whose extradition Bangladesh sought in 2024; still under discussion in June 2026.",
+   "quote": "বেস্টিনেটের প্রতিষ্ঠাতা আমিনুল ইসলাম আবদুল নূর জন্মসূত্রে বাংলাদেশি হলেও বর্তমানে মালয়েশিয়ার নাগরিক।"
+  },
+  {
+   "article_id": "5f5ea5b1-0c7a-420c-ad7e-1dfd86a4d787",
+   "name": "Ruhul Amin",
+   "kind": "Aminul's associate",
+   "what_the_article_says": "Bangladesh sought his extradition with Aminul in 2024.",
+   "quote": "আমিনুল ও তাঁর সহযোগী রুহুল আমিনের প্রত্যর্পণ চেয়ে আবেদন করেছিল।"
+  }
+ ],
+ "nothing_to_add": [
+  {
+   "article_id": "3a294fb7-6bfc-4d02-a2a3-770a4e969c85",
+   "reason": "A single expired vacancy (AIBD Programme Coordinator in Kuala Lumpur, deadline 27 March 2026) at an intergovernmental broadcasting body; not a migration route or rule a worker can use."
+  },
+  {
+   "article_id": "f29b3e5b-c45e-4938-8b40-78ac8a90a45a",
+   "reason": "Personal Eid travel essay (Kuala Lumpur to Malacca); nothing a migrant can act on, no rule, cost or case."
+  },
+  {
+   "article_id": "67c20388-91ca-4df7-a7b4-0ce139854fd7",
+   "reason": "Video caption only: Mahdi Amin presented the plan to reopen Malaysia on 12 April 2026, with no details; covered by the draft from article 59575fd8."
+  },
+  {
+   "article_id": "e4007149-f203-4285-ab7b-5727877b3578",
+   "reason": "BRAC journalists' workshop in Cox's Bazar (20 April 2026): general statements that sea trafficking has increased and many die, with no numbers, dates, prices or cases beyond what the cross-country section already says."
+  }
+ ]
+}

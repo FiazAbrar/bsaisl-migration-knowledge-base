@@ -1,0 +1,65 @@
+[
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Refund refusals after a failed departure",
+  "old_str": "Local mediation has also recovered money (see Local committees and mediation) [AA0229, AA0230].",
+  "new_str": "WARBE Development Foundation, a migrants' rights organisation, said in April 2026 that mediation had recovered a significant amount of money in the past three years (see Local committees and mediation) [AA0229].",
+  "problem": "AA0230 is about grievance committees working on a limited scale, not about recovering money; and the source says WARBE's mediation recovered money, not 'local mediation'."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Where to complain and get help",
+  "old_str": "- **Committees that exist but sit idle:** at an April 2026 roundtable in Cumilla",
+  "new_str": "- **Calls to activate committees:** at an April 2026 roundtable in Cumilla",
+  "problem": "Lead label is the writer's conclusion and not true of every item under it: the cited speakers recommended activating committees or listed general migration problems; none said the committees sit idle."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### The law in Bangladesh",
+  "old_str": "Speakers at a BRAC and Prothom Alo roundtable in Sylhet in April 2026 said the same [LB0189, LB0190, LB0191].",
+  "new_str": "Speakers at a BRAC and Prothom Alo roundtable in Sylhet in April 2026 said there is no lawful way to go abroad by sea, and that no one can lawfully go abroad for work except through the Dhaka, Chattogram and Sylhet airports [LB0189, LB0190, LB0191].",
+  "problem": "'Said the same' overstates: the Sylhet speakers said there is no lawful sea route and only the three airports are lawful; they did not mention BMET clearance or call it a punishable offence."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### The law in Bangladesh",
+  "old_str": "**2018 to 2025 (CID):** the CID's Trafficking in Human Being (THB) unit counts",
+  "new_str": "**2018 to 2025 (CID):** the Trafficking in Human Being (THB) unit of the CID (the police's Criminal Investigation Department) counts",
+  "problem": "CID not explained at first use in the section."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### The law in Bangladesh",
+  "old_str": "- **No dedicated investigators:** RMMRU's legal coordinator said in July 2026",
+  "new_str": "- **No dedicated investigators:** the legal coordinator of RMMRU (the Refugee and Migratory Movements Research Unit) said in July 2026",
+  "problem": "RMMRU not explained at first use in the section."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### The law in Bangladesh",
+  "old_str": "- **Known traffickers left alone:** OKUP's chairperson said in July 2026",
+  "new_str": "- **Known traffickers left alone:** the chairperson of OKUP (Ovibashi Karmi Unnayan Program, a migrant workers' organisation) said in July 2026",
+  "problem": "OKUP not explained at first use in the section."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Where victims and families get help",
+  "old_str": "said in April 2026 that BRAC's Prottasha-2 project, funded by the EU, helped her set up a shop whose income now runs her household [LB0223, LB0224, LB0225].",
+  "new_str": "said in April 2026 that the EU and BRAC's Prottasha-2 project helped her set up a shop whose income now runs her household [LB0223, LB0224, LB0225].",
+  "problem": "'Funded by the EU' is not in the source; she said 'the European Union and BRAC's Prottasha-2 project stood by me'."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Where victims and families get help",
+  "old_str": "and gives returnees reintegration support, training, counselling and help to start a business [LB0222].",
+  "new_str": "and gives returnees reintegration support and training, and then counselling, and is trying to set them up as entrepreneurs [LB0222].",
+  "problem": "Source says the programme is 'trying' to establish returnees as entrepreneurs, not that it gives help to start a business as an established service."
+ },
+ {
+  "doc": "cross-country/doc.md",
+  "section": "### Where victims and families get help",
+  "old_str": "13. **Women trafficked to India:** BNWLA rehabilitated a woman from near the Jashore border rescued from an Indian brothel, BGB (Border Guard Bangladesh) has handed victims it rescued to Justice and Care, an NGO, and Justice and Care was arranging the return of women rescued by Indian police in early 2025 [AA0123, AA0124, AA0125].",
+  "new_str": "13. **Women trafficked to India:** BNWLA (the Bangladesh National Women Lawyers' Association) rehabilitated a woman from near the Jashore border rescued from an Indian brothel, BGB (Border Guard Bangladesh) has handed victims it rescued to Justice and Care, an NGO, and Justice and Care said in early 2025 that the return of at least 10 women and girls trafficked across the border since August 2024 and rescued by Indian police was under way [AA0123, AA0124, AA0125].",
+  "problem": "BNWLA not explained at first use in the section; and the source says Justice and Care reported that the return process for at least 10 women and girls was under way, not that Justice and Care was arranging it."
+ }
+]

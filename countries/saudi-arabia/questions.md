@@ -20,6 +20,10 @@ These are the questions the Saudi Arabia migration guide can't yet answer, group
 - Does a shepherd visa need the SVP certificate?
 - Does a private driver visa need the SVP certificate?
 - Does the Saudi embassy in Dhaka still apply its 2019 minimum-age rules (for example industrial tailor 30, barber 35, garment shop worker 40)?
+- Can a Bangladeshi woman go to Saudi Arabia on a company visa (for example as a cleaner, hospital worker, factory worker or salon worker), and does BMET clear her?
+  - If she can, what age and training rules apply?
+- Of workers who went to Saudi Arabia in 2025-2026, what share got their visa through a recruiting agency, through a relative or friend, or as a free visa (a visa bought from a sponsor with no real job behind it)?
+- When did the 2025 stalls in Saudi recruitment end: the one over the Bangladesh embassy's single-visa attestation rule (from late January 2025) and the one over the skill-test rule (from mid-2025)?
 
 ### How a job reaches you, and who takes a cut
 
@@ -31,6 +35,7 @@ These are the questions the Saudi Arabia migration guide can't yet answer, group
 ### What you pay, and what you earn and keep
 
 - What does a worker in a labour camp whose contract gives no food spend a month on a shared mess in 2026?
+- On a free visa, is the extra SR 5,000-6,000 a worker pays the kafil (sponsor) when the iqama (residence permit) comes up for renewal the yearly kamishon (the kafil's regular cut) itself, or paid on top of it?
 
 ### What ties you to the employer
 
@@ -39,6 +44,8 @@ These are the questions the Saudi Arabia migration guide can't yet answer, group
 - Which regulation covers Bangladeshi farm workers and shepherds in Saudi Arabia?
 - Can a farm worker or shepherd in Saudi Arabia change employer without the employer's consent?
 - What does a worker pay in 2026 to have a huroob (absent-from-work) report lifted?
+- What do brokers or kafils charge a worker in 2026 to arrange a transfer to a new employer (officially the new employer pays the government transfer fee)?
+- How do kafils file huroob (absent-from-work) reports against company workers whose contracts are recorded on Qiwa (the Saudi labour ministry's platform)?
 
 ## Work visa: company worker
 
@@ -46,9 +53,9 @@ These are the questions the Saudi Arabia migration guide can't yet answer, group
 
 - What is the Wafid medical test fee?
 - What is the pre-departure orientation (PDO) fee?
-- Does BMET still charge Tk 250 for clearance and the smart card?
 - Does the DEMO (district employment and manpower office) charge for taking a worker's fingerprints after OEP (Overseas Employment Platform) registration?
 - Do the new country-by-country maximum migration costs, which the state minister said in October 2026 were coming, replace the Tk 1.65 lakh legal maximum for a Saudi job?
+- On a Saudi single visa (a visa issued for one named worker), who pays the outbound ticket: the employer or the worker?
 
 ### Step 1: Find a real job
 
@@ -78,6 +85,7 @@ These are the questions the Saudi Arabia migration guide can't yet answer, group
   - Has a stamp-paper deed or a security cheque from a relative selling a visa ever won a case?
 - Since September 2025, has BMET's emigration branch cleared a Saudi single visa for a worker who applied without an agency?
 - What does a free-visa worker pay a broker or kafil in 2026 to transfer his sponsorship to a real employer?
+- What does a Saudi free visa cost in all in 2026: Tk 3-7 lakh or Tk 8-9 lakh?
 
 #### Before paying
 
@@ -106,6 +114,8 @@ These are the questions the Saudi Arabia migration guide can't yet answer, group
 - Does a card in someone else's name work for paying the SVP skill test fee?
 - What is the exact SVP page for checking that a certificate is genuine?
 - How does a worker dispute an SVP skill test fail?
+- Where is the official, current list of occupations that need the SVP skill test?
+  - If a worker's occupation isn't on BMET's list of occupations by test centre, does that mean no test is needed, or that the test can't be taken in Bangladesh?
 
 ### Step 4: Pass the Wafid medical check
 
@@ -117,6 +127,7 @@ These are the questions the Saudi Arabia migration guide can't yet answer, group
 - What is Tasheer's own document list for Bangladeshi applicants?
 - What is Tasheer's own fee for Bangladeshi applicants, against the Tk 660 (about Tk 2,200 in the Lounge) workers pay through agencies?
 - What are Tasheer's phone, email and complaint route in Bangladesh?
+- Is Tasheer's own service fee for Bangladeshi applicants Tk 660 or Tk 694 in 2026, and is its Lounge fee Tk 2,100 or Tk 2,200?
 
 ### Step 6: Give the agency your papers for the visa
 
@@ -133,7 +144,6 @@ These are the questions the Saudi Arabia migration guide can't yet answer, group
 
 - What is BMET's own document list for the pre-departure orientation (PDO)?
 - How does a worker applying alone for BMET clearance pay the Wage Earners' Welfare Board fee (Tk 5,500) and the insurance premium (Tk 1,000)?
-- Is the Tk 250 clearance or smart card fee still charged?
 - Does the USD 360 base fare for new workers with a BMET smart card (Dhaka-Jeddah, Dhaka-Madinah, Dhaka-Riyadh) still apply?
 - Where does a worker complain if an airline or agency refuses the USD 360 worker fare?
 
@@ -146,6 +156,7 @@ These are the questions the Saudi Arabia migration guide can't yet answer, group
 
 - Which number does the Council of Health Insurance's insurance check on chi.gov.sa ask for (iqama or passport)?
 - What does the chi.gov.sa insurance check result show?
+- Did the February 2025 amendments to the Saudi Labour Law change the limits on wage deductions and fines (Articles 70, 91, 92 and 93)?
 
 ### How long you can stay
 
@@ -159,6 +170,9 @@ These are the questions the Saudi Arabia migration guide can't yet answer, group
 
 - What legal help does the Bangladesh embassy give an arrested worker in practice (lawyer, visits)?
 - How does a family in Bangladesh find out where a relative is held in Saudi Arabia?
+- Which online acts count as crimes under Saudi Arabia's cybercrime law (for example posts, videos, photos of other people, messages)?
+- Can a worker arrested in Saudi Arabia call family or the Bangladesh embassy from custody?
+  - Does Saudi law give an arrested foreign worker a lawyer?
 
 ### If you aren't paid
 
@@ -260,6 +274,9 @@ These are the questions the Saudi Arabia migration guide can't yet answer, group
 - What is the fee for the Bangladeshi passport of a baby born in Saudi Arabia?
 - How long does a Saudi-born baby's Bangladeshi passport take?
 - Does the Riyadh embassy follow the same steps as the Jeddah consulate for a Saudi-born baby's birth registration and passport?
+- How does a parent in Saudi Arabia add a newborn baby as a dependant on their iqama, on Absher (the interior ministry's online platform) or at Jawazat (the passports directorate), and what does it cost?
+  - Does the baby need its Bangladeshi passport before the residence can be issued?
+  - Does the monthly SR 400 dependant fee apply to a newborn?
 
 ## Family visit visa
 
@@ -317,6 +334,8 @@ These are the questions the Saudi Arabia migration guide can't yet answer, group
 - What does a transfer from a household to a company cost, and who pays it?
 - How long does a transfer from a household to a company take?
 - What can a worker do if the employer refuses to change the job title on the iqama?
+- Can an Umrah visa be changed to a work visa or an iqama inside Saudi Arabia?
+- When a domestic worker qualifies for a transfer to another household without the employer's consent (for example after three months' unpaid wages, or no iqama within 30 days), how does she ask the labour ministry for it, and how long does it take?
 
 ## Sending money home
 
@@ -336,6 +355,8 @@ These are the questions the Saudi Arabia migration guide can't yet answer, group
 - Can a friendly-settlement claim be filed, or continued, from Bangladesh after deportation?
 - How does a worker check whether their case qualifies for the 2026 work-permit regularisation?
 - What can a worker do if the employer won't regularise the work permit?
+- How does a woman domestic worker without valid papers in Saudi Arabia get an exit visa, given that she is excluded from the Bangladesh Embassy's Special Exit Programme (SEP)?
+- Is any Saudi amnesty for overstayers open in November 2026, or announced?
 
 ## If a worker dies, is injured or loses the job
 
@@ -350,6 +371,10 @@ These are the questions the Saudi Arabia migration guide can't yet answer, group
 - Does the Saudi Health Ministry's psychological consultation line, 920033360, answer in Bangla or English?
 - Does the embassy labour wing give counselling?
 - Does the Probashi call centre (16135) give counselling?
+- What are the time limits and the method for an employer to register a worker with GOSI, and to report a work injury to GOSI?
+- What medical care, daily allowance and lump sums does Saudi Arabia's earlier Social Insurance Law (2000) give an injured worker who was registered with GOSI before July 2024?
+- Which papers does GOSI need for a work-injury compensation claim, and how long does it take to pay?
+- Can a worker injured in Saudi Arabia who has already come home claim GOSI compensation from Bangladesh through the embassy?
 
 ## Coming home
 

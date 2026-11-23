@@ -1,0 +1,3 @@
+# Prothom Alo scams, second pass (PR #4)
+
+Every remaining scam and harm article (140) read in full by nine drafters (`briefs/DRAFT-SPEC.md`, `drafts/drafts-*.json`); 950 draft sentences. Each checked against the full article (`briefs/CHECK-SPEC.md`, `checks/checked-*.json`): about 88% supported as written, none unsupported. 987 claims logged (`scripts/add_facts2.py`, `keymap2.json`). Eight writers owning disjoint sections placed them (`briefs/WRITE-SPEC.md`, `drafts/out-*.md`, spliced by `scripts/splice.py`); 978 cited, 9 unused with reasons (`drafts/out-*-unused.json`). Final sentence check (`briefs/FINAL-CHECK-SPEC.md`, `checks/fix-*.json`): 106 problems found and fixed (`scripts/apply_fixes.py`, `fixes-applied.json`).

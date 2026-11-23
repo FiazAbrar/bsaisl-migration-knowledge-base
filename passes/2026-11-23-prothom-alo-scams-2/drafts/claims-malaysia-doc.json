@@ -1,0 +1,1256 @@
+[
+ {
+  "key": "MY2-77",
+  "fact_ids": [
+   "MB0065",
+   "MB0066",
+   "MB0067"
+  ],
+  "claim": "Dr Selim Reza wrote on 4 September 2026 that if information on who may apply for the 10,000 zero-cost places, what qualifications are needed, how they are chosen and where to apply is not published, the scheme could become a new line of business for brokers, that a claim that paying money will get a name onto the list of 10,000 should be treated as likely fraud, and that the Ministry's warning not to hand over money, a medical test or a passport until government instructions come must be enforced.",
+  "target_section": "MALAYSIA DOC: Scams",
+  "placement": "Red flags",
+  "why_new": "A named academic's warning about the specific pitch of selling a place on the 10,000 list. He describes a risk, not a reported case.",
+  "published": "2026-09-04"
+ },
+ {
+  "key": "MY1-9",
+  "fact_ids": [
+   "MA0013"
+  ],
+  "claim": "According to BMET data cited by Prothom Alo, 12.5 lakh Bangladeshi workers went to Malaysia legally from 1992 to January 2024, more than 3.5 lakh of them in 2023 and 50,000 in 2022.",
+  "target_section": "MALAYSIA DOC: Size",
+  "placement": "The numbers",
+  "why_new": "Cumulative and yearly BMET departure counts.",
+  "published": "2024-03-21"
+ },
+ {
+  "key": "MY2-42",
+  "fact_ids": [
+   "MB0017"
+  ],
+  "claim": "A Prothom Alo editorial of 22 July 2026 said the Malaysian labour market was reopening to Bangladeshis after talks between Prime Minister Tarique Rahman and Malaysia's Prime Minister Anwar Ibrahim during Tarique Rahman's visit to Malaysia the previous month.",
+  "target_section": "MALAYSIA DOC: Status",
+  "placement": "other: timeline",
+  "why_new": "The doc's Status timeline starts at the 15 October 2026 announcement; this gives the political step before it (the June 2026 prime ministers' talks).",
+  "published": "2026-07-22"
+ },
+ {
+  "key": "MY2-76",
+  "fact_ids": [
+   "MB0063",
+   "MB0064"
+  ],
+  "claim": "Dr Selim Reza of North South University's Centre for Migration Studies wrote in Prothom Alo on 4 September 2026 that, according to the government, the plan is to send the first 10,000 workers through BOESL on special chartered flights free of every cost including airfare, that more workers are to follow, and that various statements have mentioned the possibility of about two lakh workers.",
+  "target_section": "MALAYSIA DOC: Status",
+  "placement": "other",
+  "why_new": "Adds the chartered-flight plan and the two-lakh figure in circulation; check against the doc's Status, which already records the dispute over whether airfare is included.",
+  "published": "2026-09-04"
+ },
+ {
+  "key": "MY2-54",
+  "fact_ids": [
+   "MB0024",
+   "MB0025",
+   "MB0026"
+  ],
+  "claim": "Bhaluka Overseas, one of the 25 agencies chosen for Malaysia, was licensed in 2022 and had taken clearance for 235 workers up to 23 August 2026, none of them for Malaysia; its proprietor, Md Abu Sohag Khan, told Prothom Alo he had earlier sent more than a thousand workers to Malaysia in the names of various other agencies, was selected automatically from Malaysia and paid no one for it.",
+  "target_section": "MALAYSIA DOC: Step 1: Find a real job",
+  "placement": "other: item 4, Which agencies",
+  "why_new": "The doc lists the eight agencies with a Malaysia record and Goodness among the 17 without; Bhaluka is not named. The owner's own statement also documents the practice of sending workers under other agencies' licences.",
+  "published": "2026-09-02"
+ },
+ {
+  "key": "MY2-55",
+  "fact_ids": [
+   "MB0027",
+   "MB0028"
+  ],
+  "claim": "The 17 of the 25 agencies with no record of sending workers to Malaysia in BMET data from January 2004 to 23 August 2026 are, as printed by Prothom Alo: Tania Trade, Satkhira International, A-Plus, Al Hayat Overseas, Valley Trade, Khan Jahan Ali Overseas, Bengal Human Resource, Earth Smart, At Taqwa, Motherland, Mangrove, Jewel Rinku Enterprise, Bangladesh One Overseas, Annesha Air, Chandpur International, Godness Services and Bhaluka Overseas.",
+  "target_section": "MALAYSIA DOC: Step 1: Find a real job",
+  "placement": "other: item 4, Which agencies",
+  "why_new": "The doc gives the count (17) and names only Goodness; these are all 17 names. Spellings are transliterated; match to the FWCMS list and RL numbers.",
+  "published": "2026-09-02"
+ },
+ {
+  "key": "MY2-56",
+  "fact_ids": [
+   "MB0029",
+   "MB0030"
+  ],
+  "claim": "Of the eight agencies among the 25 that had sent workers to Malaysia, BMET data analysed by Prothom Alo show five sent 11, 74, 100, 150 and 202 workers and the other three 436, 333 and 306; Bangladesh One Overseas Limited, also on the list, had taken clearance for 795 workers in all and none for Malaysia.",
+  "target_section": "MALAYSIA DOC: Step 1: Find a real job",
+  "placement": "other: item 4, Which agencies",
+  "why_new": "The doc has the total (1,612 across eight) but not how thin each agency's record is; the largest sent 436 in about 23 years. The article does not say which agency sent which number, except The Anchor Care (11).",
+  "published": "2026-09-02"
+ },
+ {
+  "key": "MY2-57",
+  "fact_ids": [
+   "MB0031",
+   "MB0032"
+  ],
+  "claim": "United Gulf Services, on the list of 25, is owned by Laila Arzuman Banu; Greenland Overseas, the firm of her husband Abdul Hai, was a member of the previous syndicate and is now run by their daughter Rehana Arzuman Hai; Laila Arzuman Banu did not answer Prothom Alo's several calls and her daughter also did not answer.",
+  "target_section": "MALAYSIA DOC: Step 1: Find a real job",
+  "placement": "other: item 4, Which agencies",
+  "why_new": "The doc has the link between United Gulf and Greenland but not the three names or that the daughter now runs Greenland.",
+  "published": "2026-09-02"
+ },
+ {
+  "key": "MY1-50",
+  "fact_ids": [
+   "MA0063",
+   "MA0064"
+  ],
+  "claim": "BOESL, the government recruiting agency, had received demand for more than 10,000 workers for Malaysia but had taken only 1,467 clearances by 24 April 2024; two BOESL officials told Prothom Alo that workers went through BOESL free, at the employer's cost, while private agencies charged Tk 4 to 5 lakh, so obstacles came in many ways, including demand letters going into other agencies' names and taking time to bring back.",
+  "target_section": "MALAYSIA DOC: The channels",
+  "placement": "other: BOESL",
+  "why_new": "Why the zero-cost government channel sent so few: its demand letters were diverted to private agencies.",
+  "published": "2024-05-31"
+ },
+ {
+  "key": "MY1-103",
+  "fact_ids": [
+   "MA0112",
+   "MA0113",
+   "MA0114"
+  ],
+  "claim": "In a warning posted on its Facebook page on 1 August 2025, the Bangladesh High Commission in Kuala Lumpur said an organised ring was collecting passports and cash from Bangladeshis by promising to send them to work in Malaysia's Sabah state, that there was no agreement or understanding between the two governments on recruiting for Sabah and no decision from the Sabah authorities to hire Bangladeshi workers, and that any permission would be announced on the High Commission's website.",
+  "target_section": "MALAYSIA DOC: The channels",
+  "placement": "other: Sabah",
+  "why_new": "The guide has the Sabah warning; this adds its date and where a real opening would be announced (the High Commission's website).",
+  "published": "2025-08-01"
+ },
+ {
+  "key": "MY2-73",
+  "fact_ids": [
+   "MB0059",
+   "MB0060"
+  ],
+  "claim": "Prothom Alo reported that in 2022 BOESL received demand for more than 10,000 workers for Malaysia but sent about one and a half thousand; two responsible BOESL officials said that because its workers went free, at the employer's cost, obstacles came in various ways, and that BOESL itself had to spend money to get demand letters for employer-paid recruitment.",
+  "target_section": "MALAYSIA DOC: The channels",
+  "placement": "other: BOESL",
+  "why_new": "The doc says BOESL sent only 1,381; this adds the demand it had (over 10,000) and BOESL officials' explanation of the shortfall.",
+  "published": "2026-09-02"
+ },
+ {
+  "key": "MY1-24",
+  "fact_ids": [
+   "MA0024"
+  ],
+  "claim": "Owners of three agencies outside the syndicate told Prothom Alo in May 2024 that they obtained worker demand themselves and sent people to Malaysia in a syndicate agency's name, paying that agency Tk 1 lakh 52 thousand to Tk 1 lakh 65 thousand per worker.",
+  "target_section": "MALAYSIA DOC: The processing agency: the toll gate",
+  "placement": "other: the toll",
+  "why_new": "First-hand figure for the 2022-24 toll, from agencies that paid it (the guide gives Tk 1.07 to 1.52 lakh).",
+  "published": "2024-05-30"
+ },
+ {
+  "key": "MY1-42",
+  "fact_ids": [
+   "MA0053",
+   "MA0054"
+  ],
+  "claim": "Once a Malaysian demand letter is finalised it is distributed through the FWCMS software among the approved agencies, not equally, and the workers must be sent through the agency in whose name it arrives; three agencies outside the list told Prothom Alo that demand letters they collected from Malaysian companies went to a listed agency because their own names were not in FWCMS, and they then had to pay that agency Tk 1 lakh 52 thousand to Tk 1 lakh 65 thousand per worker.",
+  "target_section": "MALAYSIA DOC: The processing agency: the toll gate",
+  "placement": "How it works",
+  "why_new": "The mechanism by which a listed agency earns on demand it did not collect.",
+  "published": "2024-05-31"
+ },
+ {
+  "key": "MY1-44",
+  "fact_ids": [
+   "MA0055",
+   "MA0056"
+  ],
+  "claim": "Sarkar International sent 7,745 workers to Malaysia as a single agency; its proprietor Mohammad Ali Sarkar told Prothom Alo that many who had obtained demand from Malaysia sent workers through his agency, that written undertakings on responsibility for the workers were taken from those agencies, and that only the government-fixed amount was taken.",
+  "target_section": "MALAYSIA DOC: The processing agency: the toll gate",
+  "placement": "other: named agency",
+  "why_new": "A listed agency's owner confirming the written-undertaking practice.",
+  "published": "2024-05-31"
+ },
+ {
+  "key": "MY2-51",
+  "fact_ids": [
+   "MB0018",
+   "MB0019"
+  ],
+  "claim": "Malaysia published the names of the 25 Bangladeshi recruiting agencies on FWCMS, its online foreign-worker management platform, on Friday 21 August 2026, and the opposition parties Jamaat-e-Islami and the National Citizen Party (NCP) issued statements of concern on 22 and 23 August.",
+  "target_section": "MALAYSIA DOC: The processing agency: the toll gate",
+  "placement": "other: timeline",
+  "why_new": "Gives the date the list of 25 appeared on FWCMS. The date is derived from \"last Friday\" in an article published Sunday 23 August 2026.",
+  "published": "2026-08-23"
+ },
+ {
+  "key": "MY2-68",
+  "fact_ids": [
+   "MB0051",
+   "MB0052",
+   "MB0053"
+  ],
+  "claim": "Prothom Alo reported that in the 2022-24 round the agencies inside the syndicate, without doing anything, took at least Tk 1.5 lakh in \"syndicate fee\" for each worker, an allegation the ACC is investigating; four owners of agencies outside the list said Malaysian companies sent demand letters to them because of their long business there, and they then had to go to a syndicate agency and pay Tk 1,52,000 per worker to send the workers.",
+  "target_section": "MALAYSIA DOC: The processing agency: the toll gate",
+  "placement": "other: how the toll worked in 2022-24",
+  "why_new": "The doc has the toll range; this adds who actually held the demand (experienced agencies outside the list) and that the listed agency's only role was to collect the fee, from four agency owners.",
+  "published": "2026-09-02"
+ },
+ {
+  "key": "MY2-69",
+  "fact_ids": [
+   "MB0054",
+   "MB0055"
+  ],
+  "claim": "The four agency owners told Prothom Alo that an associate agency's position in 2026 will be the same, since it cannot send workers directly, and that listed agencies approved without experience are unknown to Malaysian employers, so they will send workers through experienced agencies and take the syndicate fee in return.",
+  "target_section": "MALAYSIA DOC: The processing agency: the toll gate",
+  "placement": "other: 2026",
+  "why_new": "Agency owners' prediction of how the 17 inexperienced agencies will operate: as fee collectors for others' workers.",
+  "published": "2026-09-02"
+ },
+ {
+  "key": "MY2-70",
+  "fact_ids": [
+   "MB0056",
+   "MB0057"
+  ],
+  "claim": "Riazul Islam, BAIRA's immediate past senior vice-president, told Prothom Alo that no agency applied to be an associate, they were simply made associates, that jobs will come in the names of the 25 and not of the associates, and that at least 817 agencies sent workers in the earlier round by paying the syndicate fee.",
+  "target_section": "MALAYSIA DOC: The processing agency: the toll gate",
+  "placement": "other: associates",
+  "why_new": "Adds that associate status was assigned, not applied for; check whether the doc's existing 817 figure is this one.",
+  "published": "2026-09-02"
+ },
+ {
+  "key": "MY2-71",
+  "fact_ids": [
+   "MB0058"
+  ],
+  "claim": "BAIRA members told Prothom Alo that about 1,400 Bangladeshi agencies were once listed on FWCMS, but only 10 were approved in 2016 and, in 2022, 25 at first and finally 100.",
+  "target_section": "MALAYSIA DOC: The processing agency: the toll gate",
+  "placement": "other: history of the list",
+  "why_new": "Shows the narrowing from about 1,400 listed agencies to 10, then 25 and 100; not in the doc.",
+  "published": "2026-09-02"
+ },
+ {
+  "key": "MY1-1",
+  "fact_ids": [
+   "MA0001",
+   "MA0002"
+  ],
+  "claim": "Prothom Alo reported on 21 March 2024, citing Expatriates' Welfare Ministry sources, that Malaysia had stopped approving new applications to hire foreign workers, that visa applications for already-approved workers had to be filed by 31 March 2024, and that those with visas had to enter Malaysia by 31 May 2024.",
+  "target_section": "MALAYSIA DOC: What closed it before",
+  "placement": "other: timeline",
+  "why_new": "Adds the 31 March 2024 visa-application cut-off that preceded the 31 May entry deadline.",
+  "published": "2024-03-21"
+ },
+ {
+  "key": "MY1-2",
+  "fact_ids": [
+   "MA0003"
+  ],
+  "claim": "From 1 June 2024 no worker from any other source country could enter Malaysia either, and Prothom Alo reported that the other countries blamed the Bangladeshi syndicate for this.",
+  "target_section": "MALAYSIA DOC: What closed it before",
+  "placement": "other: timeline",
+  "why_new": "The 2024 stop applied to all source countries, not only Bangladesh.",
+  "published": "2024-03-21"
+ },
+ {
+  "key": "MY1-8",
+  "fact_ids": [
+   "MA0011",
+   "MA0012"
+  ],
+  "claim": "Prothom Alo reported that in 2016 the online framework for recruiting workers to Malaysia went to a firm named Synerflux, whose owner the article names as Dato Seri Abdul bin Amin Nur, a Malaysian citizen of Bangladeshi origin, that with his help 10 Bangladeshi agencies formed a ring, that workers spent Tk 2 to 3.5 lakh against a set cost of Tk 33,375, and that the ring took about Tk 5,500 crore in two years.",
+  "target_section": "MALAYSIA DOC: What closed it before",
+  "placement": "other: 2016-18 round",
+  "why_new": "Names the 2016 system firm (Synerflux) and gives this article's figures for the 10-agency round (Tk 33,375 set cost; the guide has Tk 37,000 from another source).",
+  "published": "2024-03-21"
+ },
+ {
+  "key": "MY1-40",
+  "fact_ids": [
+   "MA0048",
+   "MA0049",
+   "MA0050"
+  ],
+  "claim": "Prothom Alo reported on 31 May 2024 that Malaysia's labour market had closed to Bangladesh three times in 15 years: in 2009, then (after reopening at the end of 2016 with a ring of 10 agencies) from September 2018 over allegations of corruption and irregularities, and again from 1 June 2024.",
+  "target_section": "MALAYSIA DOC: What closed it before",
+  "placement": "other: timeline",
+  "why_new": "Confirms the three closures and the end-2016 reopening.",
+  "published": "2024-05-31"
+ },
+ {
+  "key": "MY1-56",
+  "fact_ids": [
+   "MA0068",
+   "MA0069"
+  ],
+  "claim": "Counts of those who could not go to Malaysia by 31 May 2024 differ: the Expatriates' Welfare Ministry and BMET put those with final clearance at 16,970, a responsible BMET source said 31,304 in all could not go because of visa and approval complications, and BAIRA officials said the number would be about 40,000, according to a Prothom Alo column of 4 June 2024.",
+  "target_section": "MALAYSIA DOC: What closed it before",
+  "placement": "The numbers",
+  "why_new": "The guide gives only 17,777; these are the early official count and the wider counts of those with visas or approvals but no clearance.",
+  "published": "2024-06-04"
+ },
+ {
+  "key": "MY1-99",
+  "fact_ids": [
+   "MA0102",
+   "MA0103",
+   "MA0104"
+  ],
+  "claim": "According to the June 2025 column, Malaysia said about 11,000 people had been unable to go despite holding valid calling visas, the expatriates' welfare adviser said Malaysia would initially arrange work for about eight thousand of them, no visible step had yet been taken, and recruiting agency owners and the press put the number much higher.",
+  "target_section": "MALAYSIA DOC: What closed it before",
+  "placement": "The numbers",
+  "why_new": "Malaysia's own count of the stranded (about 11,000) against Bangladesh's, as of mid-2025.",
+  "published": "2025-06-02"
+ },
+ {
+  "key": "MY1-100",
+  "fact_ids": [
+   "MA0105",
+   "MA0106",
+   "MA0107"
+  ],
+  "claim": "A revised notice from the Bangladesh High Commission in Malaysia on 1 August 2025 said the Malaysian authorities had approved employment through BOESL (Bangladesh Overseas Employment and Services Limited) for workers from among those who could not come by 31 May 2024, and that the Malaysian government had decided to hire them in the construction or tourism sectors.",
+  "target_section": "MALAYSIA DOC: What closed it before",
+  "placement": "other: the stranded workers",
+  "why_new": "The sectors (construction or tourism) and the date of Malaysia's decision on the stranded workers.",
+  "published": "2025-08-01"
+ },
+ {
+  "key": "MY1-101",
+  "fact_ids": [
+   "MA0108",
+   "MA0109",
+   "MA0110"
+  ],
+  "claim": "Under the High Commission's 1 August 2025 notice, for tourism-sector workers all information on the attached checklist for attesting the demand letter is to be submitted on Malaysia's FWCMS online portal, applications for construction workers go through CLAB (Construction Labour Exchange Centre Berhad) onto the same portal, and the originals plus one set of photocopies of everything submitted are to be lodged with the High Commission.",
+  "target_section": "MALAYSIA DOC: What closed it before",
+  "placement": "other: the stranded workers",
+  "why_new": "How the employer-side filing for the stranded workers was to be done (FWCMS, CLAB, hard copies to the mission).",
+  "published": "2025-08-01"
+ },
+ {
+  "key": "MY1-102",
+  "fact_ids": [
+   "MA0111"
+  ],
+  "claim": "Of the 16,970 workers who had final clearance but could not go to Malaysia in 2024, Prothom Alo reported that one part could not get air tickets and another part did not get the employer's final consent from Malaysia: the employer had not sent the assurance that it would receive them at the airport.",
+  "target_section": "MALAYSIA DOC: What closed it before",
+  "placement": "other: the stranded workers",
+  "why_new": "The two reasons cleared workers did not fly, including the employer's missing airport-reception assurance.",
+  "published": "2025-08-01"
+ },
+ {
+  "key": "MY2-41",
+  "fact_ids": [
+   "MB0015",
+   "MB0016"
+  ],
+  "claim": "A Prothom Alo editorial of 22 July 2026 said that although 14 countries including Bangladesh send workers to Malaysia, a syndicate system grew up only for Bangladesh, and that the UN human rights office (OHCHR) had issued a statement on the plight of Bangladeshi workers in Malaysia.",
+  "target_section": "MALAYSIA DOC: What closed it before",
+  "placement": "other",
+  "why_new": "States that the syndicate arrangement was unique to Bangladesh among source countries. Conflict to resolve: this editorial prints 14 source countries, the 2 Sept 2026 report (ede539c0) prints 11.",
+  "published": "2026-07-22"
+ },
+ {
+  "key": "MY2-67",
+  "fact_ids": [
+   "MB0049",
+   "MB0050"
+  ],
+  "claim": "Prothom Alo reported in September 2026 that 11 countries including Bangladesh are on the list of countries sending workers to Malaysia, and that no country other than Bangladesh had had such a syndicate system.",
+  "target_section": "MALAYSIA DOC: What closed it before",
+  "placement": "other",
+  "why_new": "Same point as the 22 July editorial but with 11 source countries, not 14; one of the two figures is wrong.",
+  "published": "2026-09-02"
+ },
+ {
+  "key": "MY1-5",
+  "fact_ids": [
+   "MA0006"
+  ],
+  "claim": "BAIRA joint secretary general Fakhrul Islam told Prothom Alo in March 2024 that although a worker was supposed to go to Malaysia for Tk 80,000, nobody could go for less than Tk 4.5 lakh.",
+  "target_section": "MALAYSIA DOC: What people really pay",
+  "placement": "other: quote",
+  "why_new": "A named industry official's floor price for 2022-24.",
+  "published": "2024-03-21"
+ },
+ {
+  "key": "MY2-40",
+  "fact_ids": [
+   "MB0013",
+   "MB0014"
+  ],
+  "claim": "Prothom Alo reported in July 2026 that about four and a half lakh workers were sent to Malaysia in a year and a half, making a trade of Tk 24,000 crore, with workers spending Tk 5,44,000 on average against a government-set maximum of Tk 78,990, and that agencies of former MPs, Awami League leaders and a city corporation councillor, and many firms new to the sector, sent large numbers of workers after getting into the syndicate.",
+  "target_section": "MALAYSIA DOC: What people really pay",
+  "placement": "The numbers",
+  "why_new": "The doc has the per-worker figures but not the total (Tk 24,000 crore) or who the new entrants were.",
+  "published": "2026-07-20"
+ },
+ {
+  "key": "MY2-53",
+  "fact_ids": [
+   "MB0022",
+   "MB0023"
+  ],
+  "claim": "Jamaat-e-Islami said in a statement on 23 August 2026 that it feared the arrangement of 25 agencies could push a worker's cost of going to Malaysia to Tk 6 to 7 lakh, and that Bangladesh has more than two thousand valid recruiting agencies.",
+  "target_section": "MALAYSIA DOC: What people really pay",
+  "placement": "other: 2026 expectations",
+  "why_new": "A third source for the Tk 6-7 lakh expectation (the doc has it from brokers and an agency owner); a political party's fear, not a measured price.",
+  "published": "2026-08-23"
+ },
+ {
+  "key": "MY1-3",
+  "fact_ids": [
+   "MA0004"
+  ],
+  "claim": "Prothom Alo reported in March 2024 that Tk 1.5 lakh per Malaysia-bound worker had to be paid to the ring formed in the name of the 100 agencies, that a business in the name of medical tests ran under the same ring, and that a worker spent Tk 4 to 5 lakh on average to go, though many found no job on arrival.",
+  "target_section": "MALAYSIA DOC: Where a Tk 5.5 lakh deal goes",
+  "placement": "other: the syndicate toll",
+  "why_new": "Ties the per-worker toll and the medical-test business to the same ring of 100 agencies.",
+  "published": "2024-03-21"
+ },
+ {
+  "key": "MY1-4",
+  "fact_ids": [
+   "MA0005"
+  ],
+  "claim": "Members of BAIRA (the recruiting agencies' association) said in March 2024 that the ring alone took Tk 1.5 lakh per worker, more than Tk 6,000 crore on over four lakh workers, and that the Malaysia labour market generated Tk 18,000 crore of business in the previous year and a half.",
+  "target_section": "MALAYSIA DOC: Where a Tk 5.5 lakh deal goes",
+  "placement": "The numbers",
+  "why_new": "Total size of the syndicate toll and of the trade, as claimed by BAIRA members.",
+  "published": "2024-03-21"
+ },
+ {
+  "key": "MY1-33",
+  "fact_ids": [
+   "MA0042"
+  ],
+  "claim": "People in the sector told Prothom Alo in May 2024 that sending about 4.5 lakh people to Malaysia in a year and a half generated Tk 24,000 crore of business, about Tk 20,000 crore of it above the government-fixed fee, including more than Tk 6,500 crore of syndicate fee at Tk 1.5 lakh a head.",
+  "target_section": "MALAYSIA DOC: Where a Tk 5.5 lakh deal goes",
+  "placement": "The numbers",
+  "why_new": "Aggregate overcharge estimate for 2022-24.",
+  "published": "2024-05-30"
+ },
+ {
+  "key": "MY1-46",
+  "fact_ids": [
+   "MA0057",
+   "MA0058",
+   "MA0059"
+  ],
+  "claim": "Agencies inside the syndicate told Prothom Alo that the workers' extra cost was the fault of agencies outside it, which bought demand letters from Malaysia at high prices in unhealthy competition; Five M International's managing director Masud Uddin Chowdhury said on 30 May 2024 that he had not bought even 100 jobs, that all came automatically through the software, that those whose jobs came sent workers through Five M, and that his agency only did visa processing and took only the government-fixed fee.",
+  "target_section": "MALAYSIA DOC: Where a Tk 5.5 lakh deal goes",
+  "placement": "other: who blames whom",
+  "why_new": "The listed agencies' own account: they only 'process', others buy the demand.",
+  "published": "2024-05-31"
+ },
+ {
+  "key": "MY1-105",
+  "fact_ids": [
+   "MA0117",
+   "MA0118"
+  ],
+  "claim": "The CID's case statement of 28 August 2025 alleges that the accused, in collusion, took money from 9,372 workers sent to Malaysia through Five M International, the recruiting agency of Lt Gen (retd) Masud Uddin Chowdhury, that Five M took Tk 1.5 lakh per worker, and that Tk 1 lakh 7 thousand 510 of this was laundered, more than Tk 100 crore in all, a figure that may change during investigation.",
+  "target_section": "MALAYSIA DOC: Where a Tk 5.5 lakh deal goes",
+  "placement": "other: the syndicate toll",
+  "why_new": "A police case putting numbers on the split of the per-worker toll: Tk 1.5 lakh taken, Tk 1,07,510 of it sent out.",
+  "published": "2025-08-28"
+ },
+ {
+  "key": "MY2-59",
+  "fact_ids": [
+   "MB0035",
+   "MB0036"
+  ],
+  "claim": "BAIRA members told Prothom Alo in September 2026 that on top of a syndicate fee of RM5,500 (Tk 1,68,000), bringing each demand letter, that is buying each visa, will cost RM8,000 to 9,000 (Tk 2,65,000 to 2,75,000), so that more than Tk 4,30,000 per worker will be siphoned off to Malaysia.",
+  "target_section": "MALAYSIA DOC: Where a Tk 5.5 lakh deal goes",
+  "placement": "other: 2026 figures",
+  "why_new": "The doc has the RM5,500 toll and a demand-letter range of RM8,000-12,000 from another source; this adds BAIRA members' RM8,000-9,000 figure and their total of over Tk 4.3 lakh a worker leaving for Malaysia.",
+  "published": "2026-09-02"
+ },
+ {
+  "key": "MY1-10",
+  "fact_ids": [
+   "MA0014",
+   "MA0015"
+  ],
+  "claim": "Two officials of the Bangladesh mission in Malaysia, speaking anonymously, told Prothom Alo in March 2024 that 1.5 to 2 lakh Bangladeshi workers there were unemployed and living in inhuman conditions, that many came to the mission regularly for help, and that the mission could do little.",
+  "target_section": "MALAYSIA DOC: Which employer",
+  "placement": "The numbers",
+  "why_new": "The jobless estimate comes from mission officials themselves, with their admission that the mission can do little.",
+  "published": "2024-03-21"
+ },
+ {
+  "key": "MY1-11",
+  "fact_ids": [
+   "MA0016"
+  ],
+  "claim": "In March 2024 a member of the Facebook group 'Malaysia Probashi Bangladeshi' wrote that his brother, newly arrived in Malaysia, had found no work for four months.",
+  "target_section": "MALAYSIA DOC: Which employer",
+  "placement": "Cases",
+  "why_new": "A worker-side account of months without work after arrival.",
+  "published": "2024-03-21"
+ },
+ {
+  "key": "MY1-34",
+  "fact_ids": [
+   "MA0043",
+   "MA0044"
+  ],
+  "claim": "By the Expatriates' Welfare Ministry's own count in May 2024, five thousand workers who went to Malaysia found no work, while long-settled Bangladeshis there told Prothom Alo that thousands were jobless, some selling goods on pavements or umbrellas in the rain to pay for food.",
+  "target_section": "MALAYSIA DOC: Which employer",
+  "placement": "The numbers",
+  "why_new": "The government's own figure for workers without jobs, set against community accounts.",
+  "published": "2024-05-30"
+ },
+ {
+  "key": "MY1-35",
+  "fact_ids": [
+   "MA0045"
+  ],
+  "claim": "From January to 24 March 2024, 453 workers returned from Malaysia empty-handed and without passports, travelling on travel permits, Prothom Alo reported.",
+  "target_section": "MALAYSIA DOC: Which employer",
+  "placement": "The numbers",
+  "why_new": "Count of workers coming home on travel permits without passports in early 2024.",
+  "published": "2024-05-30"
+ },
+ {
+  "key": "MY1-6",
+  "fact_ids": [
+   "MA0007",
+   "MA0008",
+   "MA0009"
+  ],
+  "claim": "Prothom Alo reported that 25 Bangladeshi agencies were first given the Malaysia work in 2022, later raised to 100, and that a ring of private agencies in Malaysia assists this ring; BAIRA members said the MoU between the two countries gave Malaysia the job of finalising the agencies, which let one group trade illegally.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: who",
+  "why_new": "Growth from 25 to 100 agencies and the MoU clause that left agency selection to Malaysia.",
+  "published": "2024-03-21"
+ },
+ {
+  "key": "MY1-7",
+  "fact_ids": [
+   "MA0010"
+  ],
+  "claim": "Malaysia's High Commissioner in Dhaka, Haznah Md Hashim, told journalists on 12 March 2024 that one cause of the problem was syndicates active in both Bangladesh and Malaysia.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: quote",
+  "why_new": "Malaysia's own envoy naming the syndicate as a cause.",
+  "published": "2024-03-21"
+ },
+ {
+  "key": "MY1-12",
+  "fact_ids": [
+   "MA0017",
+   "MA0018"
+  ],
+  "claim": "A statement on 20 March 2024 by Bangladesh Civil Society for Migrants (BCSM), a platform of 23 organisations, demanded punishment of those responsible for the closure, and Tasneem Siddiqui, founding chair of RMMRU, told Prothom Alo that the agencies involved in past irregularities should have been held accountable and that the same recruitment process was repeated when the market reopened in 2022.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: what was not done",
+  "why_new": "Records that the agencies from the 2016-18 round were not held to account before 2022.",
+  "published": "2024-03-21"
+ },
+ {
+  "key": "MY1-21",
+  "fact_ids": [
+   "MA0019",
+   "MA0020"
+  ],
+  "claim": "Prothom Alo described the 'Malaysia syndicate' in May 2024 as an arrangement in which only a few agencies may send workers: 25 at the start, rising in three steps to 100; the ring's leaders are alleged to have taken large sums from each agency to put its name in, and the agencies inside received at least Tk 1.5 lakh 'syndicate fee' per worker while sitting idle, part of which went to the ring's controllers in Malaysia.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: how the syndicate works",
+  "why_new": "The entry payment to join the list and the split of the per-worker fee with Malaysia.",
+  "published": "2024-05-30"
+ },
+ {
+  "key": "MY1-22",
+  "fact_ids": [
+   "MA0021",
+   "MA0022"
+  ],
+  "claim": "When the market reopened in July 2022 the Expatriates' Welfare Ministry sent Malaysia a list of 1,520 recruiting agencies and only 25 were chosen; Prothom Alo reported that there was no policy for the selection and that there are many allegations of influence and bribery in it.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: how the syndicate works",
+  "why_new": "1,520 proposed against 25 chosen, with no selection policy.",
+  "published": "2024-05-30"
+ },
+ {
+  "key": "MY1-23",
+  "fact_ids": [
+   "MA0023"
+  ],
+  "claim": "Fourteen countries send workers to Malaysia, and Prothom Alo reported that no country except Bangladesh has such a syndicate arrangement.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: how the syndicate works",
+  "why_new": "Only Bangladesh's agencies are restricted this way.",
+  "published": "2024-05-30"
+ },
+ {
+  "key": "MY1-25",
+  "fact_ids": [
+   "MA0025",
+   "MA0026"
+  ],
+  "claim": "Analysing a list obtained from relevant sources, Prothom Alo found that Five M International, whose managing director according to BAIRA's website is MP Lt Gen (retd) Masud Uddin Chowdhury, was the top single sender to Malaysia and alone obtained clearances for 8,592 workers, though BMET said it had sent about 2,500 workers to the Middle East since it was founded in 2015.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: named agencies",
+  "why_new": "Named agency, owner and clearance count.",
+  "published": "2024-05-30"
+ },
+ {
+  "key": "MY1-26",
+  "fact_ids": [
+   "MA0027",
+   "MA0028",
+   "MA0029"
+  ],
+  "claim": "Snigdha Overseas Limited, the agency of Feni Awami League MP Nizam Uddin Hazari, took its licence in December 2018 and sent only 100 workers abroad in three and a half years, but after joining the syndicate about 8,000 workers went to Malaysia in its name in a year and a half, making it the fourth-largest sender; its executive director Shahela Parvin told Prothom Alo that various agencies had sent workers through it and that it took nothing beyond the government-fixed cost.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: named agencies",
+  "why_new": "Named agency with before and after volumes and its reply.",
+  "published": "2024-05-30"
+ },
+ {
+  "key": "MY1-27",
+  "fact_ids": [
+   "MA0030",
+   "MA0031",
+   "MA0032"
+  ],
+  "claim": "Ahmed International, the firm of Dhaka-20 MP Benzir Ahmed, who was BAIRA president when the syndicate was formed, had sent only 238 workers abroad before the Malaysia market opened and then sent 7,849 to Malaysia, the fifth-highest; Orbitals Enterprise and Orbitals International, in the names of the wife (Kashmeri Kamal) and daughter (Nafisa Kamal) of then finance minister A H M Mustafa Kamal, sent 9,861 in total.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: named agencies",
+  "why_new": "Named agencies and counts for two more politically connected owners.",
+  "published": "2024-05-30"
+ },
+ {
+  "key": "MY1-28",
+  "fact_ids": [
+   "MA0033"
+  ],
+  "claim": "Oishi International was second and New Age International third on the list of agencies sending workers to Malaysia, and relevant sources claimed to Prothom Alo that both were active members of the syndicate.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: named agencies",
+  "why_new": "Names the second- and third-largest senders.",
+  "published": "2024-05-30"
+ },
+ {
+  "key": "MY1-29",
+  "fact_ids": [
+   "MA0034",
+   "MA0035"
+  ],
+  "claim": "BAIRA members allege that former BAIRA secretary general Ruhul Amin, known as Swapan, led the forming of the 2022 syndicate, fixed the names of 69 of its 100 agencies and was the channel through which money was transacted in Malaysia; by BMET's count 7,102 workers went in the name of his agency Catharsis International, and he did not respond to Prothom Alo.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: named agencies",
+  "why_new": "Adds the '69 of 100' allegation and Catharsis's own count.",
+  "published": "2024-05-30"
+ },
+ {
+  "key": "MY1-30",
+  "fact_ids": [
+   "MA0036",
+   "MA0037",
+   "MA0038"
+  ],
+  "claim": "The Nur Ali-Abul Bashar panel won BAIRA's 2022 election after campaigning against the Malaysia syndicate, yet BNS Overseas Limited (of BAIRA president Mohammad Abul Bashar's son Ishtiaque Ahmed) and PR Overseas (of his son-in-law Golam Rakib, licensed October 2021, more than 4,000 workers sent) joined the syndicate, as did Sadia International, the agency of Shamim Ahmed Chowdhury, who was elected BAIRA secretary general in the last election and later resigned; Bashar told Prothom Alo the ring listed the two firms for money to damage his image, while his son claimed no money changed hands.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: named agencies",
+  "why_new": "The syndicate's opponents inside BAIRA ended up in it.",
+  "published": "2024-05-30"
+ },
+ {
+  "key": "MY1-31",
+  "fact_ids": [
+   "MA0039",
+   "MA0040",
+   "MA0041"
+  ],
+  "claim": "Agencies new to the trade became top Malaysia senders after joining the syndicate: Imperial Overseas (licensed March 2021; 344 workers sent by July 2022, more than 7,000 in the next year and a half), BM Travels Limited of Dhaka North ward 39 councillor Md Shafiqul Islam (7,225 clearances, no earlier Malaysia experience) and Ananya Apurba Recruiting Agency of Dhaka South Awami League joint general secretary Mohiuddin Ahmed (licensed July 2022, 2,600 clearances); two agencies confirmed to Prothom Alo that they sent workers through Imperial by paying the syndicate fee.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: named agencies",
+  "why_new": "New, inexperienced agencies as fronts through which others sent workers.",
+  "published": "2024-05-30"
+ },
+ {
+  "key": "MY1-36",
+  "fact_ids": [
+   "MA0046",
+   "MA0047"
+  ],
+  "claim": "Prothom Alo reported in May 2024 that the ministry had never taken action despite repeated allegations of syndicate-forming and overcharging, and that the state minister, Shafiqur Rahman Chowdhury, said on 11 May 2024 that Malaysia had set the list of agencies and that the complaints were being looked into.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: what was not done",
+  "why_new": "The ministry's record of inaction as of May 2024.",
+  "published": "2024-05-30"
+ },
+ {
+  "key": "MY1-41",
+  "fact_ids": [
+   "MA0051",
+   "MA0052"
+  ],
+  "claim": "Bestinet, the firm that owns Migram, the software of Malaysia's Foreign Workers Centralised Management System (FWCMS), has among its owners Aminul Islam bin Abdul Nor, known as Amin Nor, a Malaysian citizen of Bangladeshi origin; it is alleged that he controls the whole worker-sending trade from Malaysia, that former BAIRA secretary general Ruhul Amin, known as Swapan, acts as his representative in Bangladesh, and that the two decided who would be in the syndicate.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: who",
+  "why_new": "Names the software (Migram) and states the Amin-Swapan allegation as Prothom Alo printed it.",
+  "published": "2024-05-31"
+ },
+ {
+  "key": "MY1-47",
+  "fact_ids": [
+   "MA0060"
+  ],
+  "claim": "BAIRA joint secretary general Fakhrul Islam told Prothom Alo in May 2024 that there were no set rules for making the agency list, so some got on it with no experience of sending workers, in collusion with the ringleaders, and then earned money sitting at home at Tk 1 lakh 52 thousand per worker.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: quote",
+  "why_new": "A named official on how inexperienced agencies got listed.",
+  "published": "2024-05-31"
+ },
+ {
+  "key": "MY1-49",
+  "fact_ids": [
+   "MA0061",
+   "MA0062"
+  ],
+  "claim": "As of 31 May 2024 the Expatriates' Welfare Ministry was not separately investigating the allegations about sending workers to Malaysia and wanted to discuss them at a meeting of the two countries' joint technical committee, for which it had written to Malaysia; no date had been fixed.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: what was not done",
+  "why_new": "No separate ministry inquiry as of the deadline day.",
+  "published": "2024-05-31"
+ },
+ {
+  "key": "MY1-51",
+  "fact_ids": [
+   "MA0065",
+   "MA0066"
+  ],
+  "claim": "BAIRA member Mostafa Mahmud told Prothom Alo that in 2017 several agencies filed two separate complaints, with Bangladesh's ACC and Malaysia's MACC; he said the ACC did not proceed because the accused were from the private sector, and alleged that Amin Nor used influence to stop the Malaysian investigation.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: what was not done",
+  "why_new": "Earlier complaints to both anti-corruption bodies and what became of them.",
+  "published": "2024-05-31"
+ },
+ {
+  "key": "MY1-52",
+  "fact_ids": [
+   "MA0067"
+  ],
+  "claim": "Malaysia's High Commissioner in Dhaka, Haznah Md Hashim, told journalists on 29 May 2024 that there may be syndicates beyond the control of both the Bangladesh and Malaysian governments.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: quote",
+  "why_new": "Malaysia's envoy saying the syndicate is beyond both governments' control.",
+  "published": "2024-05-31"
+ },
+ {
+  "key": "MY1-73",
+  "fact_ids": [
+   "MA0070",
+   "MA0071"
+  ],
+  "claim": "RMMRU, a migration research body, said in its report 'Trends in labour migration from Bangladesh 2024', presented on 28 December 2024, that Dato Amin, owner of Malaysia's foreign-worker recruitment software, and his Bangladeshi associate Ruhul Amin jointly built the syndicate, which sent five and a half lakh workers and embezzled USD 200 crore (Tk 24,000 crore) from migrants.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "The numbers",
+  "why_new": "A research body, not only the press, naming the two and putting a figure on the take.",
+  "published": "2024-12-28"
+ },
+ {
+  "key": "MY1-74",
+  "fact_ids": [
+   "MA0072",
+   "MA0073"
+  ],
+  "claim": "According to RMMRU's December 2024 report, the Bangladesh government had started legal proceedings against four members of parliament for involvement with the Malaysia syndicate and had written to the Malaysian government asking it to hand over the syndicate's two ringleaders.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: what the authorities did",
+  "why_new": "Action taken after August 2024: proceedings against the four MPs and the extradition request.",
+  "published": "2024-12-28"
+ },
+ {
+  "key": "MY1-82",
+  "fact_ids": [
+   "MA0074",
+   "MA0075",
+   "MA0076"
+  ],
+  "claim": "On 11 March 2025 the Anti-Corruption Commission (ACC) filed cases against 32 owners and officials of 12 recruiting agencies, alleging they took five times the government-fixed Tk 78,990 from 67,380 Malaysia-bound workers and embezzled Tk 1,128 crore, its director general Md Akhtar Hossain told a press conference.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "The law",
+  "why_new": "The first batch of ACC cases, with date, number of accused, workers and amount; the guide says only that cases were filed against dozens of agencies.",
+  "published": "2025-03-11"
+ },
+ {
+  "key": "MY1-83",
+  "fact_ids": [
+   "MA0077",
+   "MA0078"
+  ],
+  "claim": "In the ACC's 11 March 2025 cases, M/s Orbital Enterprise (owner Kashmiri Kamal, wife of former finance minister A H M Mustafa Kamal) is alleged to have taken an extra Tk 100 crore 98 lakh 57 thousand 500 from 6,029 workers and M/s Orbital International (owner his daughter Nafisa Kamal) an extra Tk 50 crore 16 lakh 62 thousand from 2,995; Mustafa Kamal is an accused in both cases.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "The law",
+  "why_new": "Per-agency allegation with worker count and amount.",
+  "published": "2025-03-11"
+ },
+ {
+  "key": "MY1-84",
+  "fact_ids": [
+   "MA0079",
+   "MA0080",
+   "MA0081"
+  ],
+  "claim": "In the ACC's 11 March 2025 cases, Snigdha Overseas Limited is alleged to have taken an extra Tk 111 crore 50 lakh 47 thousand 500 from 6,657 workers (accused: owner and former MP Nizam Uddin Hazari, his wife Nurjahan Begum and five staff) and Binimoy International an extra Tk 91 crore 42 lakh 15 thousand from 5,458 (accused: owner Abdus Sobhan Bhuiyan, former Chauddagram upazila chairman, and his wife Taslima Akter).",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "The law",
+  "why_new": "Per-agency allegation with worker count and amount.",
+  "published": "2025-03-11"
+ },
+ {
+  "key": "MY1-85",
+  "fact_ids": [
+   "MA0082",
+   "MA0083",
+   "MA0084"
+  ],
+  "claim": "In the ACC's 11 March 2025 cases, FiveM International is alleged to have taken an extra Tk 119 crore 32 lakh 70 thousand from 7,124 workers (accused: owner and former Feni MP Lt Gen (retd) Masud Uddin Chowdhury, his daughter Tasnia Masud and two others who worked there) and M/s Unique Eastern Private Limited Tk 63 crore 44 lakh 90 thousand from 3,788 (accused: owner Md Noor Ali, his wife Selina Ali, daughter Nabila Ali and former secretary Khondaker Shawkat Hossain).",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "The law",
+  "why_new": "Per-agency allegation with worker count and amount.",
+  "published": "2025-03-11"
+ },
+ {
+  "key": "MY1-86",
+  "fact_ids": [
+   "MA0085",
+   "MA0086",
+   "MA0087"
+  ],
+  "claim": "In the ACC's 11 March 2025 cases, Catharsis International Limited is alleged to have taken an extra Tk 130 crore 43 lakh 22 thousand 500 from 7,787 workers (accused: owner Mohammad Ruhul Amin and his wife Lutfur Nesa Shelly), M/s Ahmad International Tk 143 crore 91 lakh 60 thousand from 8,592 (accused: owner and former Dhaka-20 MP Benzir Ahmad) and BM Travels Limited Tk 135 crore 55 lakh 77 thousand 500 from 8,093 (accused: owner and former Dhaka North councillor Shafiqul Islam and his wife Mousumi Akter).",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "The law",
+  "why_new": "Per-agency allegation with worker count and amount.",
+  "published": "2025-03-11"
+ },
+ {
+  "key": "MY1-87",
+  "fact_ids": [
+   "MA0088",
+   "MA0089",
+   "MA0090"
+  ],
+  "claim": "In the ACC's 11 March 2025 cases, BNS Overseas Limited is alleged to have taken Tk 70 crore 60 lakh 12 thousand 500 from 4,215 workers (accused: owner and Jubo League leader Ishtiaque Ahmed Saikat and his wife Nasrun Nesa), Rubel Bangladesh Limited Tk 47 crore 65 lakh 37 thousand 500 from 2,845 (accused: owner Muhammad Mojibul Haque Rubel and his wife Kamrun Nahar Hiramoni) and The Ifti Overseas an extra Tk 63 crore 59 lakh 97 thousand 500 from 3,797 (accused: owners Md Rubel and Borhan Uddin Panna).",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "The law",
+  "why_new": "Per-agency allegation with worker count and amount.",
+  "published": "2025-03-11"
+ },
+ {
+  "key": "MY1-94",
+  "fact_ids": [
+   "MA0091",
+   "MA0092"
+  ],
+  "claim": "In a memorandum handed to the Chief Adviser's office on 5 May 2025, BAIRA members alleged that in the last round Tk 1 lakh 52 thousand per worker had to be paid to the syndicate, that agencies were made syndicate members for Tk 5 crore each, and that this time Tk 14 crore each was being collected.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: the entry price",
+  "why_new": "A stated price for an agency's place on the list, last round and in 2025.",
+  "published": "2025-05-05"
+ },
+ {
+  "key": "MY1-95",
+  "fact_ids": [
+   "MA0093",
+   "MA0094"
+  ],
+  "claim": "The BAIRA members' 5 May 2025 memorandum alleged that the syndicate's ringleaders, Bangladesh-born Malaysian citizen Amin Nor and the fugitive Ruhul Amin, known as Swapan, and their Awami League associates were currently active in forming a syndicate with some influential political leaders, and demanded that Malaysia be asked to scrap the disputed online recruitment software.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: who",
+  "why_new": "The allegation, a year before the 2026 list, that the same two were rebuilding the ring; Ruhul Amin described as a fugitive.",
+  "published": "2025-05-05"
+ },
+ {
+  "key": "MY1-96",
+  "fact_ids": [
+   "MA0095",
+   "MA0096"
+  ],
+  "claim": "The memorandum of 5 May 2025 proposed an alternative: BMET would build a database of interested workers, recruiting agencies would take workers from it, the worker would deposit the government-fixed cost through a bank and BMET would supervise the whole process; 453 recruiting agency owners had signed a memorandum with the same demand submitted to the Expatriates' Welfare Ministry on 21 April 2025.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: what agencies proposed",
+  "why_new": "The agencies' own proposal to cut out brokers and cash, and how many agencies backed opening the market.",
+  "published": "2025-05-05"
+ },
+ {
+  "key": "MY1-97",
+  "fact_ids": [
+   "MA0097",
+   "MA0098",
+   "MA0099"
+  ],
+  "claim": "Writing in Prothom Alo on 2 June 2025, Dhaka University associate professor and RMMRU researcher Mohammad Rashed Alam Bhuiyan said that in a letter of 23 April 2025, reported by Bloomberg News, Azman Mohd Yusof, secretary general of Malaysia's human resources ministry, called on Bangladesh to review and withdraw 'unsubstantiated allegations' of wrongdoing in labour migration between the two countries in order to improve Malaysia's rating in the annual US trafficking report.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: what the authorities did",
+  "why_new": "Malaysia's request that Bangladesh drop the allegations, relevant to how the cases ended.",
+  "published": "2025-06-02"
+ },
+ {
+  "key": "MY1-98",
+  "fact_ids": [
+   "MA0100",
+   "MA0101"
+  ],
+  "claim": "The same June 2025 column said that Bangladesh's police and Anti-Corruption Commission had begun investigating the recruitment process, that a complaint under the human trafficking law was made against the syndicate, and that in October 2024 Bangladesh police asked the Malaysian government to arrest and return two migration businessmen accused of trafficking migrant workers, money laundering and embezzlement.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: what the authorities did",
+  "why_new": "Dates the police request to Malaysia to October 2024 and records the trafficking-law complaint.",
+  "published": "2025-06-02"
+ },
+ {
+  "key": "MY1-104",
+  "fact_ids": [
+   "MA0115",
+   "MA0116"
+  ],
+  "claim": "On 28 August 2025 a CID sub-inspector, Md Moniruzzaman, filed a money-laundering case at Banani police station against 33 people of the Malaysia labour-market syndicate, among them three former MPs, a former minister's wife and Ruhul Amin, known as Swapan; the case says an inquiry into laundering of money taken by fraud found preliminary evidence of the accused's involvement.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "The law",
+  "why_new": "The CID's money-laundering case: date, station, number of accused.",
+  "published": "2025-08-28"
+ },
+ {
+  "key": "MY1-106",
+  "fact_ids": [
+   "MA0119",
+   "MA0120",
+   "MA0121"
+  ],
+  "claim": "The accused named in the CID's August 2025 money-laundering case include former Feni-3 MP Masud Uddin Chowdhury, his wife Jesmin Masud and daughter Tasnia Masud, Ahmed International's owner Benzir Ahmed, Snigdha Overseas Limited's proprietor Nizam Uddin Hazari, Kashmeri Kamal of Orbitals Enterprise, and Ruhul Amin, former BAIRA secretary general and owner of Catharsis International; the case was filed under the Money Laundering Prevention Act.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "The law",
+  "why_new": "Who is named and under which Act.",
+  "published": "2025-08-28"
+ },
+ {
+  "key": "MY1-107",
+  "fact_ids": [
+   "MA0122",
+   "MA0123"
+  ],
+  "claim": "On 4 November 2025 the Anti-Corruption Commission approved six cases against 11 owners and officials of six recruiting agencies, alleging that on average five times the government-fixed Tk 78,990 was collected from 31,331 Malaysia-bound workers and Tk 525 crore 22 lakh 97 thousand 500 embezzled and laundered, its director general Md Akhtar Hossain said on 6 November.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "The law",
+  "why_new": "The third batch of ACC cases, with date, workers and amount.",
+  "published": "2025-11-06"
+ },
+ {
+  "key": "MY1-108",
+  "fact_ids": [
+   "MA0124",
+   "MA0125",
+   "MA0126"
+  ],
+  "claim": "The ACC cases approved in November 2025 allege extra collections by M/s Amin Tours and Travels (owner Ruhul Amin) of Tk 124 crore 45 lakh 25 thousand from 7,430 people, by M/s Merit Trade International Limited (chairman Hasan Ahmed Chowdhury Kiron) of Tk 58 crore 44 lakh 7 thousand 500 from 3,489, and by Sadia International (Shamim Ahmed Chowdhury alias Noman) of Tk 55 crore 62 lakh 67 thousand 500 from 3,321.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "The law",
+  "why_new": "Per-agency allegation with worker count and amount.",
+  "published": "2025-11-06"
+ },
+ {
+  "key": "MY1-109",
+  "fact_ids": [
+   "MA0127",
+   "MA0128",
+   "MA0129"
+  ],
+  "claim": "The ACC cases approved in November 2025 also allege collections by Imperial Resource Limited (chairman Md Iqbal Hossain, managing director Badruddoza Chowdhury) of Tk 135 crore 69 lakh 17 thousand 500 from 8,101 people, by RRC Human Resource Service Limited (chairman Mohammad Moniruzzaman, managing director Md Alamgir Kabir) of an extra Tk 87 crore 13 lakh 35 thousand from 5,202, and by Thanex International Limited (former manager Abdullah Shahed, director Md Joynal Abedin Nomani, current manager Shamser Ahmed) of an extra Tk 63 crore 88 lakh 90 thousand from 3,788.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "The law",
+  "why_new": "Per-agency allegation with worker count and amount.",
+  "published": "2025-11-06"
+ },
+ {
+  "key": "MY1-110",
+  "fact_ids": [
+   "MA0130"
+  ],
+  "claim": "Before the November 2025 cases the ACC had filed cases on 11 March 2025 against 32 people over Tk 1,128 crore and on 14 September 2025 against the top officials of 13 recruiting agencies over Tk 1,159 crore, all over sending workers to Malaysia.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "The law",
+  "why_new": "Gives the three ACC batches together: 12, 13 and 6 agencies.",
+  "published": "2025-11-06"
+ },
+ {
+  "key": "MY1-111",
+  "fact_ids": [
+   "MA0131",
+   "MA0132",
+   "MA0133"
+  ],
+  "claim": "Dhaka Metropolitan Police's Detective Branch (DB) arrested Lt Gen (retd) Masud Uddin Chowdhury, a former Feni-3 MP who had obtained a recruiting licence, at his home in Baridhara DOHS, Dhaka, at midnight on a Monday (reported by Prothom Alo on 24 March 2026), and a court granted five days' remand in a human trafficking case of Paltan police station.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "The law",
+  "why_new": "The first reported arrest of a syndicate agency owner; the guide records cases and licence cancellations but no arrest.",
+  "published": "2026-03-24"
+ },
+ {
+  "key": "MY1-112",
+  "fact_ids": [
+   "MA0134"
+  ],
+  "claim": "The Paltan police station case in which Masud Uddin Chowdhury was remanded was filed on 3 September 2025 by Altab Khan, owner of a firm named Afia Overseas, alleging embezzlement through a syndicate and human trafficking, and names 103 accused in all.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "The law",
+  "why_new": "A trafficking case against the syndicate brought by another agency owner, with 103 accused.",
+  "published": "2026-03-24"
+ },
+ {
+  "key": "MY1-113",
+  "fact_ids": [
+   "MA0135",
+   "MA0136",
+   "MA0137"
+  ],
+  "claim": "A DB additional commissioner said in March 2026 that Masud Uddin Chowdhury faces 11 cases in Feni and Dhaka, including cases at Dhaka's Paltan, Banani, Kotwali, Mirpur and Hatirjheel police stations on charges including murder, attempted murder and human trafficking, and that the ACC and the CID are investigating several allegations against him; at the remand hearing the public prosecutor said the accused had made off with Tk 24,000 crore in the name of sending people abroad.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "The law",
+  "why_new": "Number and kind of cases pending against one syndicate agency owner.",
+  "published": "2026-03-24"
+ },
+ {
+  "key": "MY1-114",
+  "fact_ids": [
+   "MA0138"
+  ],
+  "claim": "Prothom Alo reported that Masud Uddin Chowdhury went into business after retiring in 2014, later obtained a manpower-export (recruiting) licence, and was then accused of making huge sums through the syndicate for sending workers to Malaysia.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: who",
+  "why_new": "Background of the owner of the top Malaysia sender.",
+  "published": "2026-03-24"
+ },
+ {
+  "key": "MY1-115",
+  "fact_ids": [
+   "MA0139",
+   "MA0140"
+  ],
+  "claim": "A law-enforcement source told Prothom Alo in March 2026 that the ACC has a case against Masud Uddin Chowdhury alleging embezzlement of Tk 119 crore and has applied to the court to show him arrested in it, and that the court fixed 9 April 2026 for an order; a DB joint commissioner said he was on remand in a specific case and that information obtained from him was being verified.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "The law",
+  "why_new": "Where the ACC's Five M case stood a year after filing: the accused only now being shown arrested.",
+  "published": "2026-03-27"
+ },
+ {
+  "key": "MY1-116",
+  "fact_ids": [
+   "MA0141",
+   "MA0142"
+  ],
+  "claim": "Sources involved in the questioning told Prothom Alo that Masud Uddin Chowdhury is being asked how he used the state machinery in starting a manpower-export business after retirement and in allegedly building a syndicate in the name of sending workers to Malaysia and embezzling large sums.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: who",
+  "why_new": "What investigators are asking about.",
+  "published": "2026-03-27"
+ },
+ {
+  "key": "MY2-32",
+  "fact_ids": [
+   "MB0001",
+   "MB0002"
+  ],
+  "claim": "On 19 July 2026 the Expatriates' Welfare Ministry issued a notification withdrawing the licences of 49 recruiting agencies, including agencies of former Awami League MPs, that Prothom Alo linked to the Malaysia syndicate; the notification says charge sheets against them under sections 406, 420, 385, 386, 427 and 34 of the Penal Code 1860 were filed in court and accepted, and that the licences were withdrawn under the migration Act for that reason.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: Action in Bangladesh",
+  "why_new": "The Malaysia doc says 49 licences were cancelled in July 2026; this adds the exact date, the legal ground (an accepted charge sheet) and the Penal Code sections. The date 19 July is confirmed by article 2ec8c523.",
+  "published": "2026-07-20"
+ },
+ {
+  "key": "MY2-34",
+  "fact_ids": [
+   "MB0003",
+   "MB0004"
+  ],
+  "claim": "Among the 49 agencies whose licences were withdrawn on 19 July 2026 are Orbitals Enterprise and Orbital International, owned by the wife and daughter of former Awami League finance minister A H M Mustafa Kamal; Ahmed International of Benzir Ahmed, MP for Dhaka-20; Snigdha Overseas Limited of former Feni-2 MP Nizam Uddin Hazari; and Five M International of former Feni-3 MP Lt Gen (retd) Masud Uddin Chowdhury.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: Action in Bangladesh",
+  "why_new": "The Malaysia doc names only Catharsis among the 49; these are the politically owned agencies, named with their owners.",
+  "published": "2026-07-20"
+ },
+ {
+  "key": "MY2-35",
+  "fact_ids": [
+   "MB0005"
+  ],
+  "claim": "The 49 agencies whose licences were withdrawn on 19 July 2026 also include Unique Eastern Private Limited, of Noor Ali, whom Prothom Alo calls a much-discussed manpower businessman, and Catharsis International, of Ruhul Amin alias Swapan, whom it calls one of the members of the Malaysia syndicate.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: Action in Bangladesh",
+  "why_new": "Adds Unique Eastern (Noor Ali) to the named withdrawals; Catharsis is already in the doc.",
+  "published": "2026-07-20"
+ },
+ {
+  "key": "MY2-36",
+  "fact_ids": [
+   "MB0006",
+   "MB0007",
+   "MB0008"
+  ],
+  "claim": "The other agencies whose licences the Ministry withdrew on 19 July 2026, as named by Prothom Alo, include: M/s Shaheen Travels, Irving Enterprise, Hridoy Trade International, Rabbi International, Jahrat International, 4 Site International, Binimoy International, Akash Bhraman Limited, QK Quick Express Limited, United Export Limited, GMG Trading Private Limited, Sadia International, The Super Eastern Limited, Elegants Overseas Limited, Midway Overseas Limited, Madina Overseas, Al Khamis International, New Age International, Damashi Corporation Limited, Galaxy Corporation, Sultan Overseas, Provati International, Manispower Corporation, Amin Tours and Travels, ISMT Human Resource Development, Darbar Global Overseas, Natasha Overseas, Aparajita Overseas, Stanford Employment Private Limited, Jannat Overseas, BM Travels, BNS Overseas Limited, Rubel Bangladesh Limited.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: Action in Bangladesh (list of the 49; belongs with the agency records)",
+  "why_new": "The doc points to agency records for the syndicate agencies but names none of the 49; this is the printed list (42 names besides the seven named with their owners). English spellings are transliterated from the Bangla and should be matched to RL numbers on OEP; the article prints no licence numbers.",
+  "published": "2026-07-20"
+ },
+ {
+  "key": "MY2-37",
+  "fact_ids": [
+   "MB0009",
+   "MB0010"
+  ],
+  "claim": "The other agencies whose licences the Ministry withdrew on 19 July 2026, as named by Prothom Alo, include: Trans Asia Integrate Services Limited, Al Farah Human Resources and Consultancy, Brothers International, Thanex International Limited, JG Alfalah Management, Imperial Resources Limited, PR Overseas Limited, MEF Global Bangladesh Limited, Ananya Apurba Recruiting Agency.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: Action in Bangladesh (list of the 49; belongs with the agency records)",
+  "why_new": "The doc points to agency records for the syndicate agencies but names none of the 49; this is the printed list (42 names besides the seven named with their owners). English spellings are transliterated from the Bangla and should be matched to RL numbers on OEP; the article prints no licence numbers.",
+  "published": "2026-07-20"
+ },
+ {
+  "key": "MY2-39",
+  "fact_ids": [
+   "MB0011",
+   "MB0012"
+  ],
+  "claim": "When Malaysia reopened in July 2022 after nearly four years, the selection of agencies was left to the Malaysian government, to which the Ministry sent a list of 1,520 recruiting agencies; the syndicate began with 25 agencies and grew in three steps to 100, and it is alleged that a large sum was taken from each agency to get its name in.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: how the 2022-24 syndicate was formed",
+  "why_new": "The doc describes the 2026 list of 25 but not the 2022 numbers: 1,520 proposed, 25 chosen, then 100, with an alleged entry payment by each agency.",
+  "published": "2026-07-20"
+ },
+ {
+  "key": "MY2-52",
+  "fact_ids": [
+   "MB0020",
+   "MB0021"
+  ],
+  "claim": "The NCP's spokesperson, Asif Mahmud, said in a statement on 22 August 2026 that the Bangladesh government had earlier sent Malaysia a list of 423 recruiting agencies that met Malaysia's conditions, and that the process, criteria and basis on which only 25 were chosen from it were still not clear.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: The 2026 list of 25",
+  "why_new": "The doc says a Malaysian committee chose the 25 but not that they came from a Bangladesh-approved list of 423, or that the selection criteria were never published.",
+  "published": "2026-08-23"
+ },
+ {
+  "key": "MY2-58",
+  "fact_ids": [
+   "MB0033",
+   "MB0034"
+  ],
+  "claim": "Several members of BAIRA, the recruiting agency owners' association, told Prothom Alo in September 2026 that the earlier syndicate agencies and the firms of ministers or MPs are not directly on the new list, but that the old ringleaders of the syndicate are behind the unfamiliar agencies, and that workers may have to spend Tk 6 to 7 lakh to go this time.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: The 2026 list of 25",
+  "why_new": "Explains, as BAIRA members allege it, why the 2026 list is made of unknown agencies: they front for the earlier organisers.",
+  "published": "2026-09-02"
+ },
+ {
+  "key": "MY2-60",
+  "fact_ids": [
+   "MB0037",
+   "MB0038"
+  ],
+  "claim": "Prothom Alo reported in September 2026 that Ruhul Amin alias Swapan, a former BAIRA secretary general alleged to act in Bangladesh as the representative of Amin Nur, has been in hiding abroad since the fall of the Awami League in the 2024 uprising, that his agency's licence has been withdrawn, a case against him is under way and the ACC is also investigating.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: Amin and Swapan",
+  "why_new": "The doc says police sought his extradition; this adds that he is abroad in hiding and the state of the proceedings as of September 2026.",
+  "published": "2026-09-02"
+ },
+ {
+  "key": "MY2-61",
+  "fact_ids": [
+   "MB0039",
+   "MB0040"
+  ],
+  "claim": "Prothom Alo reported in September 2026 that Bestinet owns Migrams, the software of Malaysia's FWCMS recruitment system, and is owned by Aminul Islam bin Abdul Nur, a Malaysian citizen of Bangladeshi origin known as Amin Nur.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: Bestinet",
+  "why_new": "Adds the software's name (Migrams) and the name \"Amin Nur\" by which he is known in the Bangla press; the doc calls him \"Amin\".",
+  "published": "2026-09-02"
+ },
+ {
+  "key": "MY2-62",
+  "fact_ids": [
+   "MB0041"
+  ],
+  "claim": "The state minister for expatriates' welfare, Md Nurul Haque, told Prothom Alo in September 2026 that the Ministry would set a cost ceiling for sending workers to Malaysia, and that if any agency accused of trafficking or corruption is on the list Malaysia would be told and its licence withdrawn.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: Action in Bangladesh",
+  "why_new": "A dated commitment by the state minister on two open points in the doc: a cost cap, and removal of accused agencies from the list.",
+  "published": "2026-09-02"
+ },
+ {
+  "key": "MY2-64",
+  "fact_ids": [
+   "MB0042",
+   "MB0043"
+  ],
+  "claim": "In a notice of 28 August 2026 the Expatriates' Welfare Ministry said the agencies were vetted by a high-level joint committee of Malaysia's human resources, foreign and home ministries, its anti-corruption commission and law enforcement agencies, with not the slightest involvement of the Bangladesh government.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: The 2026 list of 25",
+  "why_new": "The doc says \"a Malaysian committee\"; this gives its composition and the date of the Ministry's notice. Note: the same notice, as printed, dates the MoU to 18 December 2022.",
+  "published": "2026-09-02"
+ },
+ {
+  "key": "MY2-65",
+  "fact_ids": [
+   "MB0044",
+   "MB0045"
+  ],
+  "claim": "Prothom Alo reported that Malaysia set 10 conditions for the agency list, that 163 agencies first qualified, and that after Malaysia relaxed three conditions and then one more at Bangladesh's request, the Ministry under the interim government sent Malaysia a final list of 423.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: The 2026 list of 25",
+  "why_new": "How the long list was made (10 conditions, 163 qualifying, 423 after four conditions were relaxed); not in the doc. The article does not say what the conditions were.",
+  "published": "2026-09-02"
+ },
+ {
+  "key": "MY2-66",
+  "fact_ids": [
+   "MB0046",
+   "MB0047",
+   "MB0048"
+  ],
+  "claim": "Prothom Alo reported in September 2026 that Malaysia approved 25 agencies each for Nepal and Bangladesh and 10 each for India, Pakistan and Myanmar, that the agency owners' associations of four countries protested in a joint statement, that everyone on the lists sent by countries such as Sri Lanka and the Philippines was approved, and that Nepal has begun an investigation into its list of 25.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: The 2026 list of 25",
+  "why_new": "Comparison with other source countries in 2026, absent from the doc: the limited list is no longer unique to Bangladesh, and Nepal is investigating its own.",
+  "published": "2026-09-02"
+ },
+ {
+  "key": "MY2-75",
+  "fact_ids": [
+   "MB0061",
+   "MB0062"
+  ],
+  "claim": "Shariful Hasan, associate director and head of BRAC's migration programme, told Prothom Alo in September 2026 that the choice of 25 agencies proved the syndicate is stronger than the two governments, and that workers are again being recruited through Amin Nur's system.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: The 2026 list of 25",
+  "why_new": "A named expert's assessment that the 2026 arrangement runs on the same system as 2022-24.",
+  "published": "2026-09-02"
+ },
+ {
+  "key": "MY2-86",
+  "fact_ids": [
+   "MB0068",
+   "MB0069"
+  ],
+  "claim": "On 4 October 2026 the Appellate Division's chamber judge, Justice Md Rezaul Haque, stayed a High Court order that had suspended the Ministry's 19 July 2026 notification, so the withdrawal of the 49 recruiting agencies' licences remains in force.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: Action in Bangladesh",
+  "why_new": "The doc records the July withdrawal but not that agencies challenged it and that it was upheld (so far) at the Appellate Division in October 2026.",
+  "published": "2026-10-04"
+ },
+ {
+  "key": "MY2-87",
+  "fact_ids": [
+   "MB0070",
+   "MB0071",
+   "MB0072"
+  ],
+  "claim": "The Attorney General, Md Ruhul Quddus Kajal, said that after one agency challenged the withdrawal by writ the High Court issued a rule and stayed the notification on 15 September 2026, the chamber court stayed that order on 30 September, and 11 more agencies then obtained a stay from a vacation bench in a second writ, which the chamber court also stayed; Prothom Alo names New Age International among the agencies that filed writs.",
+  "target_section": "MALAYSIA DOC: Who controls it",
+  "placement": "other: Action in Bangladesh",
+  "why_new": "The sequence of court orders: for two weeks in September 2026 the withdrawal was suspended, which matters to anyone checking whether one of the 49 could legally recruit on a given date.",
+  "published": "2026-10-04"
+ }
+]

@@ -1,0 +1,3 @@
+# Prothom Alo, Malaysia and Saudi Arabia (PR #7)
+
+434 articles (224 Malaysia, 210 Saudi Arabia) read in full by 16 drafters (`briefs/COUNTRY-DRAFT-SPEC.md`, `drafts/drafts-*.json`); 916 draft sentences. 11 of 16 sets were checked claim by claim (`checks/checked-*.json`); the process was then simplified and the other 5 went straight to writing. 912 claims logged as MP, SP and CQ facts (`scripts/add_facts3.py`, `keymap3.json`). Seven writers placed them (`drafts/out-*.md`); 901 cited, 11 left out with reasons. Final sentence check by five checkers (`briefs/FINAL-CHECK-SPEC.md`, `checks/fix-*.json`): 70 problems found and fixed (`fixes-applied.json`).

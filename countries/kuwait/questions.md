@@ -71,6 +71,7 @@ These are the questions the Kuwait migration guide can't yet answer, grouped by 
 
 - Does a worker who resigns before 3 years on an open-ended contract get no indemnity at all, as Article 53 implies [L0031]?
 - Is the indemnity calculated on basic salary only, as the Indian Embassy says, or on the full wage with regular allowances, as Article 55 suggests [L0103, L0034]?
+- By which monthly deadline does PAM (the Public Authority for Manpower) enforce payment of wages in 2026: the 20th of the month, as the Interior Minister announced in October 2026, or before the 7th of the following month, as PAM's Director General announced the same month?
 
 ### How long you can stay
 
@@ -386,6 +387,7 @@ These are the questions the Kuwait migration guide can't yet answer, grouped by 
 ### Help from the Bangladesh Embassy in Kuwait
 
 - Does the Labour Wing answer WhatsApp messages, and on which number?
+- Does a worker holding a Wage Earners' Welfare Board card get the Tk 1 lakh for bringing home and treatment that the Bangladesh Embassy in Kuwait's page mentions as well as the Board's payment of up to Tk 2 lakh for treatment after return, or only one of them?
 
 ### Contacts in Kuwait
 

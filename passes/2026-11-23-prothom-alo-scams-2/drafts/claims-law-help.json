@@ -1,0 +1,841 @@
+[
+ {
+  "key": "MY2-18",
+  "fact_ids": [
+   "MB0032"
+  ],
+  "claim": "Liton Kanti Chowdhury, assistant director of the Cox's Bazar District Employment and Manpower Office (DEMO), said at the 6 June 2026 roundtable that about 30 complaints lodged with BMET and the Cox's Bazar DEMO had been settled under the grievance system and reports sent on them.",
+  "target_section": "Complain to BMET",
+  "placement": "other: What happens",
+  "why_new": "Shows a district DEMO actually handling complaints, with a count; the section says a complaint can be handed in at the DEMO but gives no evidence of what one does. He gives no period for the 30.",
+  "published": "2026-06-23"
+ },
+ {
+  "key": "MY2-48",
+  "fact_ids": [
+   "MB0067"
+  ],
+  "claim": "BMET's Director General, Jamil Ahmed, said on 30 July 2026 that in 2025 BMET settled 500 complaints by the manual process and obtained Tk 10 crore in compensation for migrants.",
+  "target_section": "Complain to BMET",
+  "placement": "other: What happens",
+  "why_new": "BMET's own count of complaints settled and money recovered in a year; the section has only OKUP's and RMMRU's figures on outcomes.",
+  "published": "2026-07-30"
+ },
+ {
+  "key": "MY2-49",
+  "fact_ids": [
+   "MB0068",
+   "MB0069",
+   "MB0070"
+  ],
+  "claim": "Prothom Alo reported that the Online Complaint Management Module on the Overseas Employment Platform, developed jointly by BMET and RMMRU and launched on 30 July 2026, lets migrant workers and their family members file a complaint online, upload evidence, follow its progress and receive notifications at each stage, and will bring every District Employment and Manpower Office (DEMO) and BMET's central complaint handling into one digital framework.",
+  "target_section": "Complain to BMET",
+  "placement": "other: Online",
+  "why_new": "The guide already has the module and its launch date; this adds that family members can file, that it sends stage notifications, and that DEMO complaints are in the same system.",
+  "published": "2026-07-30"
+ },
+ {
+  "key": "MY2-50",
+  "fact_ids": [
+   "MB0071",
+   "MB0072"
+  ],
+  "claim": "The Expatriates' Welfare Ministry's secretary, Md Mokhtar Ahmed, said on 30 July 2026 that most of the complaints the Ministry receives from migrants turn out to be true, and that the most common are money taken on a promise of sending someone abroad, a migrant's property at home being seized, and a person going missing abroad.",
+  "target_section": "Complain to the Ministry",
+  "placement": "other: What happens",
+  "why_new": "The Ministry's own ranking of complaint types, not in the section.",
+  "published": "2026-07-30"
+ },
+ {
+  "key": "RU1-32",
+  "fact_ids": [
+   "RU0049"
+  ],
+  "claim": "According to the Home Ministry's human trafficking report, 1,126 new cases were filed under the trafficking law in 2025, and 5,284 cases including older ones were pending up to May 2026, of which 3,306 were under trial and 1,978 still under investigation.",
+  "target_section": "File a trafficking case",
+  "placement": "other: what happens to cases",
+  "why_new": "The backlog a new trafficking case joins; the guide has only the CID unit's own caseload.",
+  "published": "2026-07-30"
+ },
+ {
+  "key": "RU1-33",
+  "fact_ids": [
+   "RU0050"
+  ],
+  "claim": "Prothom Alo reported on 30 July 2026 that 71 new trafficking cases were filed in January 2026, 66 in February, 110 in March, 130 in April and 123 in May, and that only 17 cases were disposed of in that period.",
+  "target_section": "File a trafficking case",
+  "placement": "other: what happens to cases",
+  "why_new": "Monthly filings against disposals in 2026: 500 filed, 17 disposed.",
+  "published": "2026-07-30"
+ },
+ {
+  "key": "RU1-34",
+  "fact_ids": [
+   "RU0051"
+  ],
+  "claim": "Home Ministry data show that in 4,427 cases under the Prevention and Suppression of Human Trafficking Act over the five years 2020 to 2024, 94 to 95% of the accused were acquitted.",
+  "target_section": "File a trafficking case",
+  "placement": "other: what happens to cases",
+  "why_new": "The acquittal rate; the guide says nothing on how trafficking cases end.",
+  "published": "2026-07-30"
+ },
+ {
+  "key": "RU1-42",
+  "fact_ids": [
+   "RU0059"
+  ],
+  "claim": "Prothom Alo reported in July 2026 that cheated workers returning from various countries are filing human trafficking cases, and that in some cases the families of migrants killed abroad file them.",
+  "target_section": "File a trafficking case",
+  "placement": "other: who files",
+  "why_new": "That families of the dead, not only returnees, file trafficking cases.",
+  "published": "2026-07-30"
+ },
+ {
+  "key": "RU1-52",
+  "fact_ids": [
+   "RU0071"
+  ],
+  "claim": "The CID's Trafficking in Human Being (THB) unit counts 1,657 people charged in 536 cases from 2018 to 2025, of whom only 353 could be arrested.",
+  "target_section": "File a trafficking case",
+  "placement": "other: what happens to cases",
+  "why_new": "Arrest rate in CID trafficking cases (353 of 1,657 accused).",
+  "published": "2026-09-05"
+ },
+ {
+  "key": "MY2-25",
+  "fact_ids": [
+   "MB0043"
+  ],
+  "claim": "A BNWLA advocate said at the 6 June 2026 Cox's Bazar roundtable that the association is conducting the cases of about 100 returnees from abroad in the Cox's Bazar court, and that about 465 human trafficking cases are pending.",
+  "target_section": "Free legal help",
+  "placement": "Where to get help",
+  "why_new": "BNWLA is not in the free-legal-help list; this shows it runs returnees' court cases in Cox's Bazar. The article gives no contact details, and does not say whether the 465 pending cases are in Cox's Bazar or BNWLA's own.",
+  "published": "2026-06-23"
+ },
+ {
+  "key": "MY1-18",
+  "fact_ids": [
+   "MA0016",
+   "MA0017"
+  ],
+  "claim": "Lailul Haque of Sherpur, Bogura, said that after he came back from Malaysia he went to Abdul Alim several times for his money, that Alim gave assurances but did not pay, then moved away from Sherpur and could not be reached by phone; local residents said Alim was staying in Tarash, Sirajganj.",
+  "target_section": "Refund refusals after a failed departure",
+  "placement": "Cases",
+  "why_new": "Shows the refund pattern: assurances, then the broker leaves the area.",
+  "published": "2024-05-21"
+ },
+ {
+  "key": "MY1-19",
+  "fact_ids": [
+   "MA0018",
+   "MA0019",
+   "MA0020"
+  ],
+  "claim": "The five young men filed a written complaint at Sherpur police station, Bogura, on the night of 20 May 2024, having first gone to Abdul Alim at least a year and a half earlier, and the officer-in-charge said the necessary legal action would be taken; the article reports no case or arrest.",
+  "target_section": "Refund refusals after a failed departure",
+  "placement": "What to do",
+  "why_new": "What the police did at the point of reporting: a written complaint received, no case yet.",
+  "published": "2024-05-21"
+ },
+ {
+  "key": "OT1-16",
+  "fact_ids": [
+   "OA0036",
+   "OA0037",
+   "OA0038"
+  ],
+  "claim": "The Maldives stopped issuing new work visas to Bangladeshis from April 2024 because Bangladesh had filled the cap of 100,000 workers from any single country set by a law passed under the previous Maldivian government, according to the Expatriates' Welfare Ministry, the Bangladesh High Commission and its first secretary (labour) Md Sohel Parvez; the High Commission announced the stop in a notice on 22 May 2024.",
+  "target_section": "Refund refusals after a failed departure",
+  "placement": "How it works",
+  "why_new": "A mechanism the section lacks: a destination closing mid-process (country quota) after people have paid.",
+  "published": "2024-05-24"
+ },
+ {
+  "key": "OT1-17",
+  "fact_ids": [
+   "OA0039",
+   "OA0040"
+  ],
+  "claim": "Monir Hossain of Chattogram told Prothom Alo in May 2024 that he paid Tk 2 lakh 60 thousand to go to the Maldives through an acquaintance, with Tk 2 lakh more due once the visa came; the visa was promised for March 2024 and had not come, he could not tell whether the Maldives would issue it at all, and he was paying monthly interest on a Tk 1 lakh loan.",
+  "target_section": "Refund refusals after a failed departure",
+  "placement": "Cases",
+  "why_new": "A named, dated case of money paid before a visa that the destination then stopped issuing.",
+  "published": "2024-05-24"
+ },
+ {
+  "key": "OT1-18",
+  "fact_ids": [
+   "OA0041",
+   "OA0042"
+  ],
+  "claim": "Sheikh Alamin of Chandpur said in May 2024 that he had paid Tk 35 thousand to a dalal he knew to go to the Maldives, that the market closed again only three months after reopening and many like him who had deposited money were left in uncertainty, and that the dalal was still giving various assurances.",
+  "target_section": "Refund refusals after a failed departure",
+  "placement": "Cases",
+  "why_new": "Shows the dalal keeping the money and offering assurances after the market closed.",
+  "published": "2024-05-24"
+ },
+ {
+  "key": "OT1-19",
+  "fact_ids": [
+   "OA0043"
+  ],
+  "claim": "By 22 May 2024, 6,436 people had taken BMET clearance to go to the Maldives after unskilled workers began to be sent from January 2024, and a large share of them were stuck without visas, a number no one could confirm, Prothom Alo reported.",
+  "target_section": "Refund refusals after a failed departure",
+  "placement": "The numbers",
+  "why_new": "Shows people holding BMET clearance and still stuck without a visa; the section has only the Malaysia 2024 figure.",
+  "published": "2024-05-24"
+ },
+ {
+  "key": "MY1-54",
+  "fact_ids": [
+   "MA0037",
+   "MA0038",
+   "MA0039"
+  ],
+  "claim": "The National Human Rights Commission's orders, announced on 3 June 2024, cite an allegation that in the last 10 days of May about Tk 150 crore was taken from about 30,000 passengers in the name of air tickets, an extra Tk 50,000 from each in the name of airfare, and call for it to be investigated and legal action taken.",
+  "target_section": "Refund refusals after a failed departure",
+  "placement": "How it works",
+  "why_new": "A further charge laid on workers just before the deadline: the airfare surcharge.",
+  "published": "2024-06-03"
+ },
+ {
+  "key": "MY1-59",
+  "fact_ids": [
+   "MA0045"
+  ],
+  "claim": "A Prothom Alo column of 4 June 2024 said, citing newspaper and television reports, that workers had bought plane tickets at three to four times the price with money raised by selling or mortgaging land and livestock and borrowing at interest, and still could not go to Malaysia.",
+  "target_section": "Refund refusals after a failed departure",
+  "placement": "How it works",
+  "why_new": "Ticket prices in the last days before the deadline.",
+  "published": "2024-06-04"
+ },
+ {
+  "key": "FV1-30",
+  "fact_ids": [
+   "FV0059",
+   "FV0060"
+  ],
+  "claim": "Abdul Gani said that after the fake ticket and visa Shafiqul Islam was to return his money but fled the area from 10 April (2025), and that under pressure from his dadon loan and with no refund he filed a written complaint with RAB; another complainant said he had sold all he had and borrowed through dadon to pay, was not sent abroad, and was threatened when he asked for his money.",
+  "target_section": "Refund refusals after a failed departure",
+  "placement": "Cases",
+  "why_new": "Refund promised, broker absconds, threats when money is asked for; the victim's route was a written complaint to RAB.",
+  "published": "2025-05-30"
+ },
+ {
+  "key": "AB1-118",
+  "fact_ids": [
+   "AA0227",
+   "AA0228"
+  ],
+  "claim": "Md Yusuf Molla, administrator of Cumilla City Corporation, said some dishonest agencies take everything people have on various inducements and then do not send them abroad as promised, and that politicians like him receive many such complaints and have to put pressure on the middlemen to do what they promised or return the money.",
+  "target_section": "Refund refusals after a failed departure",
+  "placement": "How it works",
+  "why_new": "How refunds are actually pursued locally: pressure through political figures, as stated by one.",
+  "published": "2026-04-30"
+ },
+ {
+  "key": "AB1-119",
+  "fact_ids": [
+   "AA0229",
+   "AA0230"
+  ],
+  "claim": "Jesia Khatun of WARBE Development Foundation said a significant amount of money had been recovered through mediation in the past three years, and Iqbal Mahmud of The Asia Foundation said grievance redress committees formed through municipalities, upazila and union parishads are working at district and local level but on a limited scale.",
+  "target_section": "Refund refusals after a failed departure",
+  "placement": "What to do",
+  "why_new": "Local mediation and grievance committees as a route to getting money back; the guide lists BMET, the ministry and courts only. No amount or contact is given.",
+  "published": "2026-04-30"
+ },
+ {
+  "key": "AB2-39",
+  "fact_ids": [
+   "AB0064"
+  ],
+  "claim": "Ali Akbar Khan, acting additional inspector general of police at the CID, told a roundtable on technology-driven fraud and human trafficking held at the Prothom Alo office in Dhaka on 22 July 2026 that many people who were tortured abroad compromise after returning home or do not want to give evidence, which obstructs trials.",
+  "target_section": "Refund refusals after a failed departure",
+  "placement": "How it works",
+  "why_new": "The section cites the CID on Cambodia returnees bargaining with brokers; this is a broader CID statement that returnees settle or refuse to testify and that it blocks trials.",
+  "published": "2026-07-30"
+ },
+ {
+  "key": "AB2-67",
+  "fact_ids": [
+   "AB0099",
+   "AB0100"
+  ],
+  "claim": "Ariful Haque Chowdhury MP, the Expatriates' Welfare and Overseas Employment Minister, told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that action is being taken against unauthorised and fake recruiting agencies and that the recruitment process is being brought online.",
+  "target_section": "Refund refusals after a failed departure",
+  "placement": "other: what the government says it is doing",
+  "why_new": "The minister's August 2026 statement; he gave no number of agencies or names.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "LB1-90",
+  "fact_ids": [
+   "LB0189",
+   "LB0190",
+   "LB0191"
+  ],
+  "claim": "Speakers at a roundtable held by BRAC and Prothom Alo in Sylhet on 18 April 2026 said there is no legal way to go abroad by sea and that no one can lawfully leave Bangladesh for work abroad except through the Dhaka, Chattogram and Sylhet airports.",
+  "target_section": "The Overseas Employment and Migrants Act 2013",
+  "placement": "The law",
+  "why_new": "States in plain words which exits are lawful; the guide cites section 34 ('official exit point') without naming them.",
+  "published": "2026-04-19"
+ },
+ {
+  "key": "MY2-38",
+  "fact_ids": [
+   "MB0058"
+  ],
+  "claim": "Expatriates' Welfare Ministry sources told Prothom Alo in July 2026 that an agency's licence is cancelled when it breaks the licence conditions and is withdrawn when it commits a serious offence or is a threat to national security, and that getting a withdrawn licence back may require a legal fight.",
+  "target_section": "The Overseas Employment and Migrants Act 2013",
+  "placement": "The law",
+  "why_new": "The guide treats \"cancelled\" as one status; the ministry distinguishes cancellation (breach of conditions) from withdrawal (serious offence), which explains the two words a reader sees in orders and news.",
+  "published": "2026-07-20"
+ },
+ {
+  "key": "AB1-1",
+  "fact_ids": [
+   "AA0001",
+   "AA0002"
+  ],
+  "claim": "A Home Ministry report on human trafficking dated November 2023 says that in January to September 2023 courts disposed of 332 cases under the trafficking act and all the accused were acquitted in 316 of them, 95.18% of the total.",
+  "target_section": "The law in Bangladesh",
+  "placement": "The numbers",
+  "why_new": "The section gives penalties but no conviction or acquittal rate.",
+  "published": "2024-01-11"
+ },
+ {
+  "key": "AB1-2",
+  "fact_ids": [
+   "AA0003"
+  ],
+  "claim": "According to the same Home Ministry report, 12,279 accused were acquitted in the cases disposed of in January to September 2023, and in the 16 cases that ended in punishment 56 people were sentenced, only two of them to life imprisonment.",
+  "target_section": "The law in Bangladesh",
+  "placement": "The numbers",
+  "why_new": "Number of people acquitted against number punished; not in the guide.",
+  "published": "2024-01-11"
+ },
+ {
+  "key": "AB1-3",
+  "fact_ids": [
+   "AA0004"
+  ],
+  "claim": "Home Ministry sources told Prothom Alo in January 2024 that no accused was convicted in a single trafficking case in 2021 and 2022.",
+  "target_section": "The law in Bangladesh",
+  "placement": "The numbers",
+  "why_new": "Two full years with no conviction; not in the guide.",
+  "published": "2024-01-11"
+ },
+ {
+  "key": "AB1-4",
+  "fact_ids": [
+   "AA0005",
+   "AA0006"
+  ],
+  "claim": "According to Home Ministry sources, 683 new trafficking cases were filed in the nine months to September 2023, charge sheets were given in 31 of them and final reports in 18; of 30,539 cases under the trafficking act in courts up to September 2023, 25,000 were under trial and 5,327 more under investigation.",
+  "target_section": "The law in Bangladesh",
+  "placement": "The numbers",
+  "why_new": "Size of the backlog. Note for the editor: the same article also says 49 cases were disposed of \"in this period\", which does not match the 332 disposed cases it gives from the ministry report; only the figures quoted here are used.",
+  "published": "2024-01-11"
+ },
+ {
+  "key": "AB1-5",
+  "fact_ids": [
+   "AA0007"
+  ],
+  "claim": "According to Home Ministry sources cited by Prothom Alo in January 2024, cases under the trafficking act have been filed against 289,472 people, of whom 132,638 have been arrested.",
+  "target_section": "The law in Bangladesh",
+  "placement": "The numbers",
+  "why_new": "Accused against arrested; not in the guide.",
+  "published": "2024-01-11"
+ },
+ {
+  "key": "AB1-6",
+  "fact_ids": [
+   "AA0008"
+  ],
+  "claim": "Experts who work against trafficking told Prothom Alo in January 2024 that accused are acquitted because cases are not investigated properly, witnesses cannot be produced in court, and cases are compromised with the trafficking rings for money.",
+  "target_section": "The law in Bangladesh",
+  "placement": "other: why cases fail",
+  "why_new": "The reasons cases collapse; the guide says only that workers cannot keep a case going.",
+  "published": "2024-01-11"
+ },
+ {
+  "key": "AB1-7",
+  "fact_ids": [
+   "AA0009",
+   "AA0010"
+  ],
+  "claim": "Salma Ali, president of the Bangladesh National Women Lawyers' Association (BNWLA), told Prothom Alo in January 2024 that trafficking cases are very profitable for the police: investigating officers take money from both the victim and the accused and hold up the investigation for a long time, and ring members threaten victims into a compromise.",
+  "target_section": "The law in Bangladesh",
+  "placement": "other: why cases fail",
+  "why_new": "A named lawyer on how investigations are stalled and victims pressured to settle; relevant to the 2026 Act offence of pressuring a victim to settle.",
+  "published": "2024-01-11"
+ },
+ {
+  "key": "AB1-8",
+  "fact_ids": [
+   "AA0011",
+   "AA0012",
+   "AA0013"
+  ],
+  "claim": "After no convictions in 2021 and 2022 the Home Ministry issued an instruction on investigating trafficking cases which says the crime takes place in six stages from going abroad to returning, and tells investigators to collect who trafficked the victim, who introduced the victim to the ring, whether the victim was threatened, abducted by force or trafficked by exploiting a vulnerability, and by what route the ring moved the victim.",
+  "target_section": "The law in Bangladesh",
+  "placement": "other: what an investigation must establish",
+  "why_new": "Tells a victim or family what facts investigators are instructed to gather (recruiter, introducer, means, route).",
+  "published": "2024-01-11"
+ },
+ {
+  "key": "AB1-10",
+  "fact_ids": [
+   "AA0015",
+   "AA0016"
+  ],
+  "claim": "The Savar woman's father, who filed the trafficking case, told Prothom Alo in January 2024 that the accused then filed a false case against him at Savar police station, that he was arrested and spent four months in jail, that it cost him Tk 5 to 6 lakh, and that he had now heard all the accused in his case had been acquitted.",
+  "target_section": "The law in Bangladesh",
+  "placement": "Cases",
+  "why_new": "A counter-case against the complainant and an acquittal: what did not work.",
+  "published": "2024-01-11"
+ },
+ {
+  "key": "AB1-11",
+  "fact_ids": [
+   "AA0017",
+   "AA0018"
+  ],
+  "claim": "The Savar father said the investigating officer told him many times that he would be taken to court to testify but never took him, and that two of the acquitted accused were back in the area; the Savar police sub-inspector who had investigated said the case had long since gone to the CID and he had no update.",
+  "target_section": "The law in Bangladesh",
+  "placement": "Cases",
+  "why_new": "Shows the complainant was never produced as a witness, one of the reasons experts give for acquittals.",
+  "published": "2024-01-11"
+ },
+ {
+  "key": "AB1-24",
+  "fact_ids": [
+   "AA0044"
+  ],
+  "claim": "Farida Yasmin, a Supreme Court lawyer and adviser to the Bangladesh Migrant Women Workers Association (বাংলাদেশ অভিবাসী নারী শ্রমিক অ্যাসোসিয়েশন), told Prothom Alo in January 2024 that although the migrants' law had been amended it does not separately address the protection of women.",
+  "target_section": "The law in Bangladesh",
+  "placement": "other: gap in the law",
+  "why_new": "A named lawyer on what the amended OEM Act lacks.",
+  "published": "2024-01-13"
+ },
+ {
+  "key": "LB1-7",
+  "fact_ids": [
+   "LB0009",
+   "LB0010"
+  ],
+  "claim": "A Home Ministry report on trafficking from the previous year (2023) said that in the nine months from January to September, courts disposed of 332 cases under the trafficking Act; in 316 of them (95.18 per cent) all the accused were acquitted, and in 16 cases 56 people were punished, only two of them with life imprisonment, according to a Prothom Alo editorial of 25 February 2024.",
+  "target_section": "The law in Bangladesh",
+  "placement": "The law",
+  "why_new": "The guide states penalties but not how trafficking cases actually end; this is the acquittal rate.",
+  "published": "2024-02-25"
+ },
+ {
+  "key": "LB1-8",
+  "fact_ids": [
+   "LB0011",
+   "LB0012"
+  ],
+  "claim": "The father of a woman from Savar said the people he had sued for trafficking his daughter to India on the promise of taking her to Canada were all released, and that he himself spent four months in jail in a case the defendants filed against him, according to a Prothom Alo editorial of 25 February 2024.",
+  "target_section": "The law in Bangladesh",
+  "placement": "The law",
+  "why_new": "A complainant jailed in a counter-case after the accused were acquitted; the guide has no counter-case example.",
+  "published": "2024-02-25"
+ },
+ {
+  "key": "LB1-9",
+  "fact_ids": [
+   "LB0013"
+  ],
+  "claim": "Salma Ali, president of the Bangladesh National Women Lawyers' Association, said trafficking cases are not investigated properly because ring members are very influential, and the Prothom Alo editorial of 25 February 2024 adds that they threaten victims into compromise settlements.",
+  "target_section": "The law in Bangladesh",
+  "placement": "The law",
+  "why_new": "A named expert's explanation of why cases fail: influence, and threats that force compromise.",
+  "published": "2024-02-25"
+ },
+ {
+  "key": "AB1-62",
+  "fact_ids": [
+   "AA0117",
+   "AA0118",
+   "AA0119"
+  ],
+  "claim": "According to the US State Department's Trafficking in Persons report on Bangladesh for 2024, the government identified 1,210 trafficking victims in 2023 (210 of sex trafficking, 795 of forced labour and 205 of other kinds), while civil society and international organisations counted at least 10,135 victims, 1,784 of them of sex trafficking; the report says the government does not regularly publish anti-trafficking data.",
+  "target_section": "The law in Bangladesh",
+  "placement": "The numbers",
+  "why_new": "Official against civil-society victim counts. Note for the editor: the article says \"last year\" for the 10,135 figure without restating the year.",
+  "published": "2025-03-08"
+ },
+ {
+  "key": "AB1-64",
+  "fact_ids": [
+   "AA0121",
+   "AA0122"
+  ],
+  "claim": "According to the Home Ministry, 1,135 trafficking cases were filed at police stations in 2024 and 4,291 cases in all were pending, 1,310 of them under investigation; one third of all the accused had been arrested; in 2024, after trials of earlier cases, five people were sentenced to life imprisonment and 55 to other terms, and 1,250 were acquitted.",
+  "target_section": "The law in Bangladesh",
+  "placement": "The numbers",
+  "why_new": "2024 case, conviction and acquittal figures; the guide has none.",
+  "published": "2025-03-08"
+ },
+ {
+  "key": "OT1-55",
+  "fact_ids": [
+   "OA0113",
+   "OA0114"
+  ],
+  "claim": "Citing BMET's website, Prothom Alo wrote in July 2025 that a worker should leave with BMET's emigration clearance (smart card) by lawful means, and that going abroad by sea or any route other than the three international airports (Dhaka, Chattogram, Sylhet) is a punishable offence.",
+  "target_section": "The law in Bangladesh",
+  "placement": "The law",
+  "why_new": "States the rule in the plain form BMET gives workers (three airports only); the guide gives section 34 without naming the exit points.",
+  "published": "2025-07-07"
+ },
+ {
+  "key": "LB1-89",
+  "fact_ids": [
+   "LB0187",
+   "LB0188"
+  ],
+  "claim": "According to Home Ministry data cited in a Prothom Alo editorial of 1 April 2026, about 4,500 cases were filed under the trafficking Act in the five years 2020 to 2024, and 94 to 95 per cent of the accused in them were acquitted; the editorial added that in most incidents no case is filed at all.",
+  "target_section": "The law in Bangladesh",
+  "placement": "The law",
+  "why_new": "Five-year case count and acquittal rate under the old Act.",
+  "published": "2026-04-01"
+ },
+ {
+  "key": "AB2-16",
+  "fact_ids": [
+   "AB0028",
+   "AB0029"
+  ],
+  "claim": "Mannan Soyal, who was cheated in Cambodia, told a Prothom Alo roundtable in Dhaka in July 2026 that after he filed a case against the people through whom he was cheated, the accused side filed a counter-case, and he alleged that the fraudsters are now pressing him to take money and withdraw the case.",
+  "target_section": "The law in Bangladesh",
+  "placement": "other: what happens after a victim files a case",
+  "why_new": "The guide states the penalty for pressuring a victim to settle but has no reported case of a counter-case or of pressure to withdraw.",
+  "published": "2026-07-23"
+ },
+ {
+  "key": "AB2-18",
+  "fact_ids": [
+   "AB0032"
+  ],
+  "claim": "Salma Ali, adviser to the Bangladesh National Women Lawyers' Association, alleged at a Prothom Alo roundtable in Dhaka in July 2026 that trafficking cases drag on for lack of skilled public prosecutors and judges, although good laws and policies exist.",
+  "target_section": "The law in Bangladesh",
+  "placement": "other: courts in practice",
+  "why_new": "The law section describes the Act and tribunals but says nothing on why cases are slow.",
+  "published": "2026-07-23"
+ },
+ {
+  "key": "AB2-25",
+  "fact_ids": [
+   "AB0040"
+  ],
+  "claim": "Mannan Soyal, a Bangladeshi who returned from a scam centre in Cambodia, told a roundtable on technology-driven fraud and human trafficking held at the Prothom Alo office in Dhaka on 22 July 2026 that after his human trafficking case the accused side filed a counter-case, that he is now himself an accused in a case, and that he does not have the money to fight it.",
+  "target_section": "The law in Bangladesh",
+  "placement": "other: what happens after a victim files a case",
+  "why_new": "A reported instance of a trafficking complainant becoming an accused through a counter-case; the guide has none.",
+  "published": "2026-07-30"
+ },
+ {
+  "key": "AB2-31",
+  "fact_ids": [
+   "AB0052",
+   "AB0053"
+  ],
+  "claim": "Shakirul Islam, chairperson of OKUP (Ovibashi Karmi Unnayan Program), told a roundtable on technology-driven fraud and human trafficking held at the Prothom Alo office in Dhaka on 22 July 2026 that at a recent consultation meeting in Madaripur the deputy commissioner said he knows the traffickers but does not have the power to act against them.",
+  "target_section": "The law in Bangladesh",
+  "placement": "other: enforcement in practice",
+  "why_new": "A reported admission by a district's top administrator, in the main Libya-route district, that known traffickers are not acted against.",
+  "published": "2026-07-30"
+ },
+ {
+  "key": "AB2-32",
+  "fact_ids": [
+   "AB0054",
+   "AB0055"
+  ],
+  "claim": "Shakirul Islam, chairperson of OKUP, told a roundtable on technology-driven fraud and human trafficking held at the Prothom Alo office in Dhaka on 22 July 2026 that OKUP supported the case of an abused woman who returned from the Middle East in 2019, that the long investigation found elements of human trafficking, and that in 2025 the judge at the special tribunal proposed an out-of-court settlement; he said the victim stated clearly that she wanted justice and dignity, not money, but the case was in the end settled for a little over BDT 4 lakh.",
+  "target_section": "The law in Bangladesh",
+  "placement": "other: courts in practice",
+  "why_new": "The guide says trafficking offences can't be settled privately; this is a reported case, six years long, where a tribunal judge proposed settlement and the case ended with about BDT 4 lakh.",
+  "published": "2026-07-30"
+ },
+ {
+  "key": "AB2-34",
+  "fact_ids": [
+   "AB0057"
+  ],
+  "claim": "Mahmudul Hasan, legal coordinator of RMMRU (the Refugee and Migratory Movements Research Unit), told a roundtable on technology-driven fraud and human trafficking held at the Prothom Alo office in Dhaka on 22 July 2026 that a human trafficking case takes two to three years to go from investigation to the trial stage, that many victims cannot keep the case going in that time because they are left with nothing after spending lakhs of taka to go abroad, and that many lose a day's income each time they appear in court.",
+  "target_section": "The law in Bangladesh",
+  "placement": "other: courts in practice",
+  "why_new": "How long a trafficking case takes to reach trial and why victims drop out; the guide only notes that workers often can't keep a case going.",
+  "published": "2026-07-30"
+ },
+ {
+  "key": "AB2-35",
+  "fact_ids": [
+   "AB0058",
+   "AB0059"
+  ],
+  "claim": "Mahmudul Hasan, legal coordinator of RMMRU (the Refugee and Migratory Movements Research Unit), told a roundtable on technology-driven fraud and human trafficking held at the Prothom Alo office in Dhaka on 22 July 2026 that there is no designated or separate investigation agency for the human trafficking tribunals, so investigation reports are not submitted on time and in many cases a proper investigation is not done, and that the Dhaka human trafficking tribunal has had no judge for five months.",
+  "target_section": "The law in Bangladesh",
+  "placement": "other: courts in practice",
+  "why_new": "A dated (July 2026) fact about the Dhaka tribunal having no judge and about who investigates; the section lists the courts but not their working state.",
+  "published": "2026-07-30"
+ },
+ {
+  "key": "AB2-37",
+  "fact_ids": [
+   "AB0061",
+   "AB0062"
+  ],
+  "claim": "Salma Ali, chairperson of ATSEC South Asia and adviser to the Bangladesh National Women Lawyers' Association, told a roundtable on technology-driven fraud and human trafficking held at the Prothom Alo office in Dhaka on 22 July 2026 that trials are long in many cases and many victims in the end do not want to continue the case over the question of confidentiality, so organised criminals get away, and that trafficking in the name of migration is still going on through land ports, airports and sea routes.",
+  "target_section": "The law in Bangladesh",
+  "placement": "other: courts in practice",
+  "why_new": "Gives confidentiality as a reason victims drop cases; the 2026 Act's confidentiality duty is in the guide but not how it plays out.",
+  "published": "2026-07-30"
+ },
+ {
+  "key": "AB2-41",
+  "fact_ids": [
+   "AB0066"
+  ],
+  "claim": "Rebeka Khan, joint secretary (Political-1) at the Home Ministry, told a roundtable on technology-driven fraud and human trafficking held at the Prothom Alo office in Dhaka on 22 July 2026 that the new 2026 law covers, alongside human trafficking, migrant smuggling and fraud through fake job advertisements online, and that the biggest challenge now is implementing the law and preventing fraud within the regular migration process.",
+  "target_section": "The law in Bangladesh",
+  "placement": "The 2026 trafficking and smuggling Act",
+  "why_new": "A Home Ministry official's statement that the Act reaches fraud through fake online job adverts; the section lists advertising for smuggling but not this official reading.",
+  "published": "2026-07-30"
+ },
+ {
+  "key": "OT1-88",
+  "fact_ids": [
+   "OA0185",
+   "OA0186",
+   "OA0187"
+  ],
+  "claim": "At the Cumilla roundtable the principal of the Cumilla Technical Training Centre, Kamruzzaman, recommended making sub-agent registration compulsory, activating union-level complaint settlement committees, expanding airport help desks, opening one-stop service centres and making lawful banking transactions compulsory, and the officer in charge of WARBE Development Foundation's Cumilla centre called for migration information services and a \"migration corner\" at union level.",
+  "target_section": "Where to complain and get help",
+  "placement": "other: recommendations by officials",
+  "why_new": "Shows that union-level complaint committees exist but are inactive, in officials' words; recommendations, not decisions.",
+  "published": "2026-04-11"
+ },
+ {
+  "key": "OT1-89",
+  "fact_ids": [
+   "OA0188",
+   "OA0189"
+  ],
+  "claim": "A union parishad member from Amratoli, Cumilla Sadar, named torture, excessive workload, withheld wages and getting no help with complaints as the main problems, and WARBE's Cumilla officer listed going without skills, dalal fraud, excess cost, not getting wages or papers abroad, and limited rehabilitation on return.",
+  "target_section": "Where to complain and get help",
+  "placement": "other: what goes wrong abroad",
+  "why_new": "Local-level list of problems, including no help with complaints; general.",
+  "published": "2026-04-11"
+ },
+ {
+  "key": "OT1-90",
+  "fact_ids": [
+   "OA0190",
+   "OA0191",
+   "OA0192"
+  ],
+  "claim": "The state minister for expatriates' welfare, Md Nurul Haque, said at a Prothom Alo roundtable on 5 May 2026 that insecurity for women migrants is more frequent in some Middle Eastern countries, that the scope for legal remedy used to be limited, and that agreements with some countries have now created scope to file cases and recover compensation; he said there are problems with syndicates, tests and recruitment in Malaysia, Korea, Saudi Arabia and other countries and that complaints of irregularities and excess cost do come.",
+  "target_section": "Where to complain and get help",
+  "placement": "other: what the minister said",
+  "why_new": "The minister's own admission of syndicate and overcharging problems by country, and his claim of new legal remedies abroad (he does not name the countries).",
+  "published": "2026-06-06"
+ },
+ {
+  "key": "AB1-65",
+  "fact_ids": [
+   "AA0123",
+   "AA0124",
+   "AA0125"
+  ],
+  "claim": "BNWLA (the Bangladesh National Women Lawyers' Association) rehabilitated a woman from near the Jashore border who was rescued from an Indian brothel, the BGB has handed victims it rescued to the custody of Justice and Care, and Justice and Care was arranging the return of women rescued by Indian police in early 2025.",
+  "target_section": "Where victims and families get help",
+  "placement": "Where to get help",
+  "why_new": "Two organisations shown actually handling women trafficked to India; the help list has neither for this purpose.",
+  "published": "2025-03-08"
+ },
+ {
+  "key": "AB1-73",
+  "fact_ids": [
+   "AA0141"
+  ],
+  "claim": "Officials of BRAC's Migration Programme said in March 2025 that 250 to 300 migrant workers a day were coming back empty-handed, without proper clothes or money in their pockets, and that BRAC gives each Tk 1,000 for the fare home.",
+  "target_section": "Where victims and families get help",
+  "placement": "Where to get help",
+  "why_new": "The amount BRAC gives a destitute returnee for the fare home; the help list says \"money to get home\" without a figure.",
+  "published": "2025-03-30"
+ },
+ {
+  "key": "AB1-120",
+  "fact_ids": [
+   "AA0231",
+   "AA0232"
+  ],
+  "claim": "Md Main Uddin, assistant director of the Probashi Kallyan Centre in Cumilla, said the centre is the district-level office of the Wage Earners' Welfare Board and began work in July 2023, taking over services earlier given through the district manpower office; when a migrant is in trouble abroad, an application made through the centre gets legal help with the embassy's assistance.",
+  "target_section": "Where victims and families get help",
+  "placement": "Where to get help",
+  "why_new": "A district office families can apply through; the help list does not mention Probashi Kallyan Centres.",
+  "published": "2026-04-30"
+ },
+ {
+  "key": "AB1-122",
+  "fact_ids": [
+   "AA0234",
+   "AA0235",
+   "AA0236"
+  ],
+  "claim": "The same official said the Welfare Board gives education stipends to migrant workers' children and an allowance for disabled children, helps through the embassy to recover unpaid insurance and compensation abroad, offers overnight stay at the Wage Earners' dormitory near the airport, and that safe homes for women workers operate abroad and embassies can appoint lawyers for legal help.",
+  "target_section": "Where victims and families get help",
+  "placement": "Where to get help",
+  "why_new": "Services as listed by the district welfare office; most are in the FAQ, the disabled-child allowance and embassy lawyers may not be.",
+  "published": "2026-04-30"
+ },
+ {
+  "key": "LB1-106",
+  "fact_ids": [
+   "LB0222"
+  ],
+  "claim": "Shariful Islam Hasan of BRAC's Migration Programme said on 18 April 2026 that the programme had helped about 39,000 people at the airport in the previous eight years, and gives returnees reintegration support and training, followed by counselling and help to set up as entrepreneurs.",
+  "target_section": "Where victims and families get help",
+  "placement": "Where to get help",
+  "why_new": "Scale of BRAC's airport help (39,000 in eight years) for the BRAC item in the help list.",
+  "published": "2026-05-05"
+ },
+ {
+  "key": "LB1-107",
+  "fact_ids": [
+   "LB0223",
+   "LB0224",
+   "LB0225"
+  ],
+  "claim": "Roksana Akter of Bishwanath, Sylhet, said on 18 April 2026 that she went to Saudi Arabia through a broker from Sunamganj, was abused in various ways at her workplace and had to borrow to come home, where she faced insult and neglect; she said the EU and BRAC's Prottasha-2 project then helped her set up a shop, whose income now runs her household.",
+  "target_section": "Where victims and families get help",
+  "placement": "Cases",
+  "why_new": "Evidence from a returnee that BRAC's reintegration help (Prottasha-2) produced a working livelihood.",
+  "published": "2026-05-05"
+ },
+ {
+  "key": "OT1-92",
+  "fact_ids": [
+   "OA0195",
+   "OA0196"
+  ],
+  "claim": "Dr A T M Mahbub-ul Karim, joint secretary and director (finance and budget) of the Wage Earners' Welfare Board, said in May 2026 that anyone, documented or undocumented, can become a member of the Board for Tk 400, and that if a worker abroad falls ill, is jailed or is in danger the Board gives legal help through the labour wing.",
+  "target_section": "Where victims and families get help",
+  "placement": "Where to get help",
+  "why_new": "Says undocumented workers can also join the Welfare Board, and the fee; the section does not say who is eligible.",
+  "published": "2026-06-06"
+ },
+ {
+  "key": "OT1-93",
+  "fact_ids": [
+   "OA0197"
+  ],
+  "claim": "The Welfare Board official said a worker who applies because of illness within one year of returning home gets a one-time grant of up to Tk 2 lakh, and that a family gets Tk 2,000 a month for up to seven years for each disabled child, for at most two children.",
+  "target_section": "Where victims and families get help",
+  "placement": "Where to get help",
+  "why_new": "Two Board benefits with amounts and time limits that this section does not list.",
+  "published": "2026-06-06"
+ },
+ {
+  "key": "OT1-94",
+  "fact_ids": [
+   "OA0198",
+   "OA0199"
+  ],
+  "claim": "The same official said a worker injured or maimed abroad gets up to Tk 4 lakh against a Tk 500 premium, that there is a five-year life insurance policy for Tk 1,000, and that on a death, with a Tk 300 membership, the body is brought home from any country and Tk 35 thousand is paid for burial and transport, a further Tk 3 lakh goes to the heirs, and up to Tk 10 lakh more is paid if there is insurance.",
+  "target_section": "Where victims and families get help",
+  "placement": "Where to get help",
+  "why_new": "The injury benefit (Tk 4 lakh against a Tk 500 premium) is not in the guide; the death amounts match the FAQ. He gives the membership fee as Tk 400 in one sentence and Tk 300 in another, which needs checking.",
+  "published": "2026-06-06"
+ },
+ {
+  "key": "OT1-95",
+  "fact_ids": [
+   "OA0200",
+   "OA0201"
+  ],
+  "claim": "The Welfare Board helps recover dues owed abroad through 22 law firms in 12 countries, and under its reintegration policy more than 2 lakh 39 thousand people have so far been given training, counselling and financial help, its director (finance and budget) said in May 2026.",
+  "target_section": "Where victims and families get help",
+  "placement": "Where to get help",
+  "why_new": "A route for unpaid wages (law firms retained abroad) and the scale of reintegration help; neither is in the section.",
+  "published": "2026-06-06"
+ },
+ {
+  "key": "MY2-19",
+  "fact_ids": [
+   "MB0033",
+   "MB0034",
+   "MB0035"
+  ],
+  "claim": "The assistant director of the Cox's Bazar DEMO said at the 6 June 2026 roundtable that a District Migration Coordination Committee and a District Vigilance Task Force Committee are active against unsafe migration, that upazilas have been instructed to form the same committees, and that a pilot pre-decision programme for people thinking of going abroad is running in Chakaria.",
+  "target_section": "Where victims and families get help",
+  "placement": "Where to get help",
+  "why_new": "Names district-level bodies (vigilance task force, migration coordination committee) the help list does not mention. The article does not say how a worker reaches them.",
+  "published": "2026-06-23"
+ },
+ {
+  "key": "MY2-20",
+  "fact_ids": [
+   "MB0036"
+  ],
+  "claim": "Mohammad Shahidul Islam, regional head of the NGO YPSA, said at the 6 June 2026 Cox's Bazar roundtable that there are counter-trafficking committees at district, upazila and union level and that they need to be made active.",
+  "target_section": "Where victims and families get help",
+  "placement": "Where to get help",
+  "why_new": "The help list does not mention the counter-trafficking committees; the speaker's own point is that they are not active.",
+  "published": "2026-06-23"
+ },
+ {
+  "key": "AB2-42",
+  "fact_ids": [
+   "AB0067"
+  ],
+  "claim": "Rebeka Khan, joint secretary (Political-1) at the Home Ministry, told a roundtable on technology-driven fraud and human trafficking held at the Prothom Alo office in Dhaka on 22 July 2026 that the government is working on implementing a national referral system and on drawing up a National Plan of Action (NPA) 2026-30 so that victims get protection, legal aid and services in a coordinated way.",
+  "target_section": "Where victims and families get help",
+  "placement": "other: planned government systems",
+  "why_new": "The help section lists existing contacts; it does not mention the national referral system or the NPA 2026-30, both described as work in progress in July 2026.",
+  "published": "2026-07-30"
+ },
+ {
+  "key": "AB2-79",
+  "fact_ids": [
+   "AB0116",
+   "AB0117"
+  ],
+  "claim": "Dr Md Al-Mamunul Ansari, DIG (Operations) of the Airport Armed Police Battalion at APBn headquarters, told a roundtable on safe migration and the reintegration of returnees held at the Prothom Alo office in Dhaka on 18 August 2026 that the airport police counsel trafficking victims and victims returning from abroad, try to get them rehabilitated through BRAC and other organisations, take cases from victims and investigate them, have brought victims back from Iran, Libya and Greece by sending officers abroad or by other arrangements, and try to identify and arrest accused persons who are in Bangladesh even when the crime took place abroad.",
+  "target_section": "Where victims and families get help",
+  "placement": "other: airport police (APBn)",
+  "why_new": "Adds the Airport Armed Police Battalion as a body that says it takes and investigates victims' cases and has brought victims back from Iran, Libya and Greece; the help list has the CID and local police only. No contact number is given.",
+  "published": "2026-08-31"
+ },
+ {
+  "key": "AB2-101",
+  "fact_ids": [
+   "AB0149",
+   "AB0150",
+   "AB0151"
+  ],
+  "claim": "Following an application by Anirban Survivor Voice Foundation, the Wage Earners' Welfare Board had written to the First Secretary of the labour wing at the Bangladesh embassy in Bangkok asking for arrangements to free and quickly return the 30 Bangladeshis held in Cambodian immigration detention, who flew home on 20 October 2026, Prothom Alo reported.",
+  "target_section": "Where victims and families get help",
+  "placement": "other: example of the Welfare Board route",
+  "why_new": "A completed example for the help list: an application to the Welfare Board through a survivors' organisation ended in release and return.",
+  "published": "2026-10-20"
+ },
+ {
+  "key": "AB2-111",
+  "fact_ids": [
+   "AB0170",
+   "AB0171"
+  ],
+  "claim": "After two youths trafficked to Cambodia returned home on 3 September 2026, a case was filed at Paltan police station in Dhaka on 26 October naming two men, and the CID arrested both the next day, 27 October, according to the CID.",
+  "target_section": "Where victims and families get help",
+  "placement": "File a criminal case with the local police (example)",
+  "why_new": "A second example, beside the Chandpur one, of a police case by returnees leading to an arrest, here within a day.",
+  "published": "2026-10-27"
+ }
+]
