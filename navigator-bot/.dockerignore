@@ -1,11 +1,15 @@
-# Docker build context = this folder. Keep keys, local environments and local data out of the image.
+# Docker build context = this folder. Keep keys, local data and development files out of the image.
 .env
 .env.*
 !.env.example
-.venv/
+node_modules/
 data/
-**/__pycache__/
-**/*.pyc
+web/dist/
+coverage/
+test/
 evals/
+docs/
+*.md
+!prompts/*.md
 start.bat
 start.ps1

@@ -1,0 +1,50 @@
+name: Bot checks
+# Lint, type-check, test and build the Navigator bot (navigator-bot/) on every change to it.
+on:
+  pull_request:
+    paths:
+      - "navigator-bot/**"
+      - ".github/workflows/bot-ci.yml"
+  push:
+    branches: [main]
+    paths:
+      - "navigator-bot/**"
+      - ".github/workflows/bot-ci.yml"
+permissions:
+  contents: read
+concurrency:
+  group: bot-ci-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: navigator-bot
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          sparse-checkout: navigator-bot
+      - uses: actions/setup-node@v5
+        with:
+          node-version-file: navigator-bot/.nvmrc
+          cache: npm
+          cache-dependency-path: navigator-bot/package-lock.json
+      - run: npm ci --ignore-scripts
+      - name: Lint and format
+        run: npx biome ci .
+      - name: Type-check
+        run: npm run typecheck
+      - name: Tests
+        run: npm test
+      - name: Build the web page
+        run: npm run build:web
+  docker:
+    runs-on: ubuntu-latest
+    needs: check
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          sparse-checkout: navigator-bot
+      - name: Build the image
+        run: docker build -t navigator-bot navigator-bot
