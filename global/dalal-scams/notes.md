@@ -119,3 +119,7 @@ All 17 country-doc links checked against `countries/<c>/doc.md`; all named secti
 - **S0055:** the Tk 165,000 Saudi cost dates from 2016; no newer official figure checked.
 - **Rest of the 2026 trafficking Act** not mined: e.g. s.20 (advertising for migrant smuggling, 3-7 years, logged as VS0013 but not cited) could go in the Online scams section.
 - The Need to know items in the doc were not researched further in this pass.
+
+## Resolved conflicts
+
+- **RMMRU "31% cheated" vs "51% cheated" (AA0241, MB0065, GS0008).** Not a conflict once the saved passages are read: AA0241's Bangla says 31% are cheated "after going abroad" (বিদেশে গিয়ে); Tasneem Siddiqui's August 2024 column (GS0008) gives RMMRU's split as 19% who paid and could not go plus 31% harassed after going; her July 2026 figure (MB0065) is 51% in all = 19% who could not go + 32% tortured after going. The doc now presents them as parts of one breakdown. Still open: which study, year and sample (kept as a Need to know).
