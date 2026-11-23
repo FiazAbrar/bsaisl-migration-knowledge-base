@@ -2,17 +2,17 @@
 
 How Bangladeshis go to Greece, route by route, as of November 2026. A raised number such as 3 is an official source; N3 is a news, NGO (non-governmental organisation), research or guide source, listed under "Needs an official source"; a year, like N3 (2022), marks a source older than 2025. This first version is built only from Prothom Alo reporting (2024 to November 2026), so every fact in it is cited as N and still needs an official source. "Need to know" marks a point no source has yet confirmed.
 
-Tk is the Bangladeshi taka (1 lakh is Tk 100,000); EUR is the euro. The MoU (memorandum of understanding) is the migration and mobility agreement Bangladesh and Greece signed in February 2022 [XG0004, XG0015]. Frontex is the European Union's border and coast guard agency [XG0070]. UNHCR is the United Nations refugee agency [XG0025]. The upazila nirbahi officer (UNO) is the government's chief administrative officer of an upazila, the subdistrict [XG0085].
+Tk is the Bangladeshi taka (1 lakh is Tk 100,000); EUR is the euro. The MoU (memorandum of understanding) is the migration and mobility agreement Bangladesh and Greece signed in February 2022 [XG0004, XG0015]. Frontex is the European Union's (EU's) border and coast guard agency [XG0070]. UNHCR is the United Nations refugee agency [XG0025]. The upazila nirbahi officer (UNO) is the government's chief administrative officer of an upazila, the subdistrict [XG0085].
 
 ## Background
 
 ### In one minute
 
-Greece has two doors for Bangladeshis. The legal door is the 2022 MoU: Greece is to give 4,000 Bangladeshis seasonal work visas a year, and to give 15,000 Bangladeshis already living there without papers temporary legal status for five years [XG0005]. The regularisation happened: more than 10,000 got residence cards, and many went home to see their families for the first time in years [XG0015, XG0010, XG0012]. In April 2024 Bangladesh was still asking Greece to implement the MoU's second part, and Greece had no embassy in Dhaka [XG0015, XG0014]. The other door is a rubber boat from eastern Libya to Crete, sold in villages of Sunamganj and Habiganj for Tk 12 to 15 lakh, part of it paid only once the young man is in Libya [XG0043, XG0083, XG0052]. Brokers call the crossing the "game" [XG0063]. In March 2026 a boat lost its way, drifted six days, and at least 22 people died for lack of food and water, at least 13 of them from Sunamganj; the bodies were thrown into the sea [XG0032, XG0036, XG0041, XG0037, XG0046, XG0057]. Those who reach Crete are registered and held in camps, and since September 2025 Greek law says that people not entitled to asylum must be sent home or detained for at least 24 months and fined up to EUR 10,000 [XG0070, XG0072, XG0022].
+Greece has two doors for Bangladeshis. The legal door is the 2022 MoU: Greece is to give 4,000 Bangladeshis seasonal work visas a year, and to give 15,000 Bangladeshis already living there without papers temporary legal status for five years [XG0005]. The regularisation happened: more than 10,000 were given legal residence, and many went home to Bangladesh as soon as they got their resident card, the Bangladesh ambassador said [XG0015, XG0012]. In April 2024 Bangladesh was still asking Greece to implement the MoU's second part, and Greece had no embassy in Dhaka [XG0015, XG0014]. The other door is a rubber boat from Libya to Crete, sold to young men from Sunamganj and Habiganj for Tk 12 to 15 lakh, part of it paid only once the young man is in Libya [XG0076, XG0043, XG0083, XG0052]. Brokers call the crossing the "game" [XG0063]. In March 2026 a boat lost its way, drifted six days, and at least 22 people died for lack of food and water, at least 13 of them from Sunamganj; the bodies were thrown into the sea [XG0032, XG0036, XG0041, XG0037, XG0046, XG0057]. Those who reach Crete are registered and held in camps, and since September 2025 Greek law says that people not entitled to asylum must be sent home or detained for at least 24 months and fined up to EUR 10,000 [XG0070, XG0072, XG0022].
 
 ### Is it open now, and who can go?
 
-The legal route exists on paper through the 2022 MoU, and Bangladesh was still asking Greece to implement its second part in April 2024; the boat from Libya to Crete, now the main entry point for asylum seekers into Greece, was still carrying Bangladeshis in November 2026 [XG0005, XG0015, XG0076, XG0079].
+The legal route exists on paper through the 2022 MoU, and Bangladesh was still asking Greece to implement its second part in April 2024; the boat from Libya to Crete, now the main entry point for asylum seekers into Greece, was still carrying Bangladeshis at the end of October 2026 [XG0005, XG0015, XG0076, XG0079].
 
 #### Status
 
@@ -48,7 +48,7 @@ The legal route exists on paper through the 2022 MoU, and Bangladesh was still a
 
 ### How a job reaches you, and who takes a cut
 
-For the legal seasonal route the reporting gives no chain at all; for the boat route it is a broker who lives in Libya, a relative of his who collects the money in the village, and a payment split between home and Libya [XG0049, XG0059, XG0043, XG0052].
+For the legal seasonal route the reporting gives no chain at all; for the boat route it names brokers living in Libya, one broker's father collecting the money at home, brokers based in Dhaka, and payments split between home and Libya [XG0049, XG0059, XG0084, XG0043, XG0052].
 
 - **The broker in Libya.** Akhlus Mia, father of Shayek Ahmad, said he paid broker Azizul Islam of Ichgaon village Tk 12 lakh to send his son, and that Azizul lives in Libya and sends local young men from Libya to Greece [XG0049]. Mohibur Rahman of Chhatak upazila went through Nabi Hossain of Pagla, Shantiganj upazila, who is also in Libya [XG0086, XG0059].
 - **The collector at home.** Nabi Hossain's father, Abdul Mannan, handled all the money in Bangladesh; he met Mohibur through masonry work and encouraged him to go to Greece, a cousin said [XG0059].
@@ -73,7 +73,7 @@ How brokers stage payments to keep families paying is explained under "The stage
 
 #### The work
 
-Bangladeshis in Greece work mainly on farms, picking strawberries, olives and oranges in western Manolada [XG0002]. The embassy said regularised workers now send money home through legal channels [XG0009].
+A significant number of Bangladeshi workers live in western Manolada and work mainly on Greek farms: strawberries, olives, oranges and other crops [XG0002]. The embassy said regularised workers now send money home through legal channels [XG0009].
 
 > **Need to know**
 > - What does a Bangladeshi farm worker in Manolada earn a day or a month, with papers and without?
@@ -91,8 +91,8 @@ Regularised Bangladeshis work freely in various firms, where before they were ke
 
 #### What people believe, and the facts
 
-- **"The broker will put you on a proper boat."** Mohibur Rahman's father said the broker promised a wooden boat and put his son on a plastic one [XG0061]. The March 2026 boat was rubber, and the November 2026 one an inflatable rubber boat [XG0032, XG0079].
-- **"There will be food for the trip."** The boats leave with food for 24 hours; on the March 2026 boat the food and water ran out after one day [XG0055].
+- **"The broker will put you on a proper boat."** Mohibur Rahman's father said the broker promised a wooden boat and put his son on a plastic one [XG0061]. The March 2026 boat was rubber, and the 31 October 2026 one an inflatable rubber boat [XG0032, XG0079].
+- **"There will be food for the trip."** These boats leave with food for 24 hours, and on the March 2026 boat the food and water ran out after one day, Shayek Ahmad's uncle said [XG0055].
 - **"The broker will tell the family the truth."** Broker Nabi Hossain told Mohibur's family he had reached Greece and was in a camp where he could not talk, while his body was already in the sea (see If a relative dies or goes missing on the crossing) [XG0066].
 - **"Once in Greece, you can claim asylum."** In July 2025 Greece suspended asylum applications from people arriving from North Africa, and since September 2025 those not entitled to asylum must be returned or detained (see Asylum) [XG0024, XG0022].
 
@@ -128,7 +128,7 @@ Crete and the small island of Gavdos south of it are now the main entry point fo
 ### How it is sold
 
 - **The deal.** The Derai men each agreed Tk 12 lakh with a broker to go to Greece, left home in February 2026 and paid half after reaching Libya [XG0043].
-- **The way to Libya.** Shayek Ahmad (23) went through Saudi Arabia, Kuwait and other countries to Libya; Mohibur Rahman (20) went through Saudi Arabia, and stayed in Saudi Arabia and Libya with a friend from home [XG0051, XG0058, XG0068]. How brokers route people through a third country is under "A flight to a different country first" in the Dalal scams doc.
+- **The way to Libya.** Shayek Ahmad (23) went through Saudi Arabia, Kuwait and other countries to Libya; Mohibur Rahman (20) went through Saudi Arabia, and stayed in Saudi Arabia and Libya with Maruf Ahmad, another Sunamganj man who left Bangladesh with him [XG0051, XG0058, XG0068]. How brokers route people through a third country is under "A flight to a different country first" in the Dalal scams doc.
 - **More money in Libya.** From Libya the broker demanded Tk 7.5 lakh more before Shayek would be put on the boat, and his father sold land and cows to pay it [XG0052]. Both Shayek's and Mohibur's fathers said the broker beat their sons for money before the boat [XG0050, XG0061].
 - **Wanting to come home.** Mohibur messaged his family from the journey begging to be brought home because he was suffering, his cousin said [XG0058].
 
@@ -136,7 +136,7 @@ Crete and the small island of Gavdos south of it are now the main entry point fo
 
 - **The "game".** Local people and brokers call the rubber-boat crossing from Libya to Greece a "game" [XG0042, XG0063].
 - **Where from.** The March 2026 boat left Tobruk, the eastern Libyan port city, on 21 March [XG0035].
-- **Food.** These boats are sent off with food for 24 hours [XG0055]. People are sent from Libya to Greece in small boats with limited food, a Bangladeshi in a Greek camp said [XG0048].
+- **Food.** These boats are sent off with food for 24 hours, Shayek Ahmad's uncle said [XG0055]. People are sent from Libya to Greece in small boats with limited food, a Bangladeshi in a Greek camp said [XG0048].
 - **Boarding.** Shayek hurt his leg trying to board on the first day and could not go, and was put on the next "game" on 21 March [XG0053].
 
 ### Pushbacks at sea
@@ -145,7 +145,7 @@ A BBC analysis of 15 incidents between May 2020 and May 2023 found that 43 peopl
 
 ### Arrival on Crete
 
-1. **Spotted and brought in.** Boats are spotted by Frontex aircraft or EU drones and brought into port by the coast guard; in August 2026 boats came into Ierapetra, and 79 people, Bangladeshis and at least two women and two children among them, were rescued near Kali Limenes in south Crete [XG0070, XG0073, XG0074, XG0075].
+1. **Spotted and brought in.** In August 2026 a Frontex aircraft spotted a boat of 40 that was then brought into Ierapetra port with the help of a coast guard patrol ship and a fishing boat; later that month an EU drone spotted two boats near Kali Limenes port in south Crete, and the coast guard rescued 79 people from them near Crete, Bangladeshis and at least two women and two children among them [XG0070, XG0073, XG0074, XG0075].
 2. **Registered.** At the port the migrants are registered and identity checks begin [XG0070].
 3. **Held in a camp.** In August 2026 all those rescued were held at a temporary shelter camp at Heraklion port, as numbers on Crete rose; at least 202 people reached Crete from Libya in under 48 hours that month [XG0072, XG0069]. A Habiganj man who arrived on 6 March 2026 was kept in a camp, and the survivors of the 27 March boat were brought to the same camp [XG0044].
 4. **Health check, then asylum.** About 540 people rescued south of Crete in December 2025, Bangladeshis among them, were taken to Rethymno on Crete, where their asylum process was to begin after health checks [XG0027, XG0028].
@@ -157,12 +157,12 @@ A BBC analysis of 15 incidents between May 2020 and May 2023 found that 43 peopl
 
 ### Deaths on the crossing
 
-- **March 2026, from Tobruk.** The boat left on 21 March, lost its way and drifted six days without food or water; at least 22 people died, and survivors said the bodies were thrown into the sea on the order of one of the smugglers [XG0035, XG0032, XG0036, XG0037]. The fuel ran out, and the bodies were kept two days on the boat until they began to smell [XG0062, XG0048]. A Frontex ship rescued 26 people about 53 nautical miles south of Ierapetra on 27 March: 21 Bangladeshis, 4 South Sudanese and a Chadian [XG0033, XG0034, XG0039]. Sunamganj police confirmed 12 dead from the district, six from Derai, five from Jagannathpur and one from Dowarabazar, and the family of Mohibur Rahman of Chhatak later learned he had also died on the boat [XG0046, XG0057]. Greek authorities arrested two South Sudanese men, aged 19 and 22, suspected of being the smugglers, for illegal entry and negligent homicide [XG0038]. More on this boat is under "Deaths" in the Illegal routes doc.
-- **31 October 2026, Habiganj.** Seven young men from Madhabpur and Lakhai upazilas left Libya for Greece through brokers on an inflatable rubber boat with about 50 passengers; it sprang a leak mid-sea and sank [XG0079, XG0080]. Only Masum Mia of Puraikala village survived: he floated for two days, washed ashore unconscious and reached Greece with the help of local people [XG0081, XG0082]. The other six, aged 25 to 30, were still missing in mid-November 2026 [XG0081].
+- **March 2026, from Tobruk.** The boat left on 21 March, lost its way and drifted six days without food or water; at least 22 people died, and survivors said the bodies were thrown into the sea on the order of one of the smugglers [XG0035, XG0032, XG0036, XG0037]. The fuel ran out, and the bodies were kept two days on the boat until they began to smell [XG0062, XG0048]. A Frontex ship rescued 26 people about 53 nautical miles south of Ierapetra on 27 March: 21 Bangladeshis, 4 South Sudanese and a Chadian [XG0033, XG0034, XG0039]. Sunamganj police confirmed 12 dead from the district, six from Derai, five from Jagannathpur and one from Dowarabazar, and the family of Mohibur Rahman of Chhatak later learned he had also died on the boat [XG0046, XG0057]. Greek authorities arrested two South Sudanese men, aged 19 and 22, suspected of being the smugglers, who were under investigation for illegal entry and negligent homicide [XG0038]. More on this boat is under "Deaths" in the Illegal routes doc.
+- **31 October 2026, Habiganj.** Seven young men from Madhabpur and Lakhai upazilas left Libya for Greece through brokers on an inflatable rubber boat with about 50 passengers; it sprang a leak mid-sea and sank [XG0079, XG0080]. Of the seven, only Masum Mia of Puraikala village survived: he floated for two days, washed ashore unconscious and reached Greece with the help of local people, his father said [XG0081, XG0082]. The other six, aged 25 to 30, were still missing in mid-November 2026 [XG0081].
 
 ### If a relative dies or goes missing on the crossing
 
-**How families find out.** News comes from a survivor or a man from the same area already in Greece, not from the broker: Rohan Ahmad, on the March boat, phoned Tarapasha village; Sohel Ahmad, living in Greece, went to the camp and phoned Shayek's family; Masum Mia phoned his own family, and his father told the families of the six missing [XG0041, XG0054, XG0087, XG0088]. Broker Nabi Hossain hid Mohibur's death for two days, and only confirmed he had been put on the boat when the family went to his house in Pagla [XG0066, XG0067]. A survivor who travelled with Mohibur then phoned home to say he had died first [XG0068]. The Habiganj families could not reach the brokers at all [XG0084].
+**How families find out.** In the reported cases, news came from a survivor or a man from the same area already in Greece, not from the broker: Rohan Ahmad, on the March boat, phoned Tarapasha village; Sohel Ahmad, living in Greece, went to the camp and phoned Shayek's family; Masum Mia phoned his own family, and his father told the families of the six missing [XG0041, XG0054, XG0087, XG0088]. Broker Nabi Hossain hid Mohibur's death for two days, and only confirmed he had been put on the boat when the family went to his house in Pagla [XG0066, XG0067]. A survivor who travelled with Mohibur then phoned home to say he had died first [XG0068]. The Habiganj families could not reach the brokers at all [XG0084].
 
 **Getting the authorities to search.** The Madhabpur UNO said in November 2026 that families must apply formally to the relevant government ministry, after which a search can be arranged abroad through the foreign ministry and the embassy [XG0085].
 
@@ -170,7 +170,7 @@ A BBC analysis of 15 incidents between May 2020 and May 2023 found that 43 peopl
 
 > **Need to know**
 > - Which ministry takes the formal application for a missing migrant, and what papers must the family bring?
-> - Can the family get the death of a man whose body was thrown into the sea recognised in Bangladesh, and does the Wage Earners' Welfare Board pay anything for a man who left without BMET clearance?
+> - Can the family get the death of a man whose body was thrown into the sea recognised in Bangladesh, and does the Wage Earners' Welfare Board (the Bangladesh government board for the welfare of migrant workers and their families) pay anything for a man who left without BMET clearance?
 
 ## Irregular entry: overland through Turkey
 
@@ -196,7 +196,7 @@ Before the regularisation, Bangladeshis without papers in Greece lived in inhuma
 
 ## Work and life in Greece
 
-A significant number of Bangladeshi workers live in western Manolada, working mainly on Greek farms: strawberries, olives, oranges and other crops [XG0002]. Since the regularisation they work freely in various firms, and the embassy said they now send money home through legal channels [XG0008, XG0009]. How to send money and what each way costs is under "Ways to send money and what each costs" in the Sending money home doc.
+A significant number of Bangladeshi workers live in western Manolada, working mainly on Greek farms: strawberries, olives, oranges and other crops [XG0002]. Since the regularisation, regularised Bangladeshis work freely in various firms, and the embassy said they now send money home through legal channels [XG0008, XG0009]. How to send money and what each way costs is under "Ways to send money and what each costs" in the Sending money home doc.
 
 > **Need to know**
 > - What are the minimum wage, working hours and housing for farm workers in Manolada, and where does a worker complain if not paid?
