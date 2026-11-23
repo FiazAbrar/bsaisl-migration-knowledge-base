@@ -86,3 +86,5 @@ Added facts GV0319-GV0324, GV0326-GV0358 (GV0325 was a duplicate of GV0322 and w
 
 - Wage Earners' Centre price: the May 2024 video's headline says Tk 300, its text says Tk 200 a day. The text is the specific statement; the doc gives Tk 200 and cites the text. The FAQ's booking line (wec.wewb.gov.bd) is linked rather than repeated.
 - Parcel times: the December 2025 report gives the cheaper Tk 2,400 figure for EMS but also says EMS is the faster, slightly dearer option and air parcels take 15 to 20 days. The doc reports both as printed and attributes the Tk 2,580 total to EMS, as the article does; no Need to know, since the 2022 air-parcel rate list gives the per-country prices.
+
+- **IOM official's name (23 Nov 2026):** the Prothom Alo article spells her গারজালি; IOM's own pages give Fathima Nusrath Ghazzali, used in the doc.
