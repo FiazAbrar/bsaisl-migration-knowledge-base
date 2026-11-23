@@ -9,6 +9,8 @@ WORKDIR /build
 COPY package.json package-lock.json ./
 RUN npm ci --ignore-scripts --no-audit --no-fund
 COPY web ./web
+# The page shares the personal-number rules with the server (src/conversation/safeguards.ts).
+COPY src/conversation/safeguards.ts ./src/conversation/safeguards.ts
 COPY tsconfig.json ./
 RUN npm run build:web
 
