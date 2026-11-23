@@ -922,6 +922,15 @@ Citation-precision or wording points found in the final independent check and no
 - All 34 new or changed fact quotes (ZZ0001-ZZ0017, ZY0001-ZY0008, ZX0001-ZX0007, A0016, A0019) were found verbatim in their saved files after whitespace and NFC normalisation. The A0019 page_date correction to 2025-09-17 matches the letter (17 Sep 2025). The 'assuming free housing' addition matches SM0008, which covers food and phone only. The 'how: see Before you pay anyone' cross-reference does lead to the BMET permission-letter search steps.
 - 2026-11-17: Current situation (Background) dated 7 Nov 2026; re-check by 7 Dec 2026 (reminder moved here from the doc).
 
+## Resolved conflicts (Prothom Alo missed-articles pass, SQ ids, 23 Nov 2026)
+
+- Riyadh fire victim from Mohishdanga, Naldanga: Prothom Alo 11 Aug 2026 (SQ0027) calls him "Rabiul Awal (25), son of Aslam Hossain", gone about two years; Prothom Alo 28 Aug 2026 (SP0741) calls him "Rabiul Islam (28)", father Ashraful Islam interviewed, gone five years ago, funeral in Mohishdanga. Same village and fire, so one person. Kept the later, first-hand funeral report (father quoted directly) for name, age and departure; used the 11 Aug article only for what SP0741 lacks: not on the government's list of the dead for want of an iqama, and his brother survived.
+- Umrah visa route: a December 2025 Prothom Alo guide (SQ0021) says Bangladeshis can do Umrah on the tourist e-visa applied for on Nusuk. The doc's sourced statements (D0087, D0083: Bangladeshis can't apply on Nusuk themselves; D0127: the online tourist e-visa needs a US, UK or Schengen visa) are more specific and primary. Kept the doc; SQ0021 not cited.
+- Umrah biometrics: the same guide (SQ0022) says an Android phone is needed; D0168 says Saudi Visa Bio is on Google Play and the App Store. Kept D0168; SQ0022 not cited.
+- Mahram proof for women (SQ0018): only this guide states it; added attributed, with a Need to know, as it could not be checked against an official source in this pass (no network).
+- SQ0010 (state minister: one Bangladeshi killed in an earlier Houthi attack; 14 lost in the war) duplicates SP0779-SP0781 (Sajib Hossain) and SP0823 (14 killed); not cited.
+
+- **Mahram for women on Umrah (23 Nov 2026):** a December 2025 Prothom Alo Umrah guide (SQ0018) lists proof of a mahram relationship. Saudi Arabia's Minister of Hajj and Umrah announced in October 2022 that women can perform Hajj and Umrah without a mahram (Arab News, SQ0050). The minister's statement is the primary source and stands; the doc mentions the guide's line only so readers know agencies may still list it, and the Need to know now asks whether Bangladeshi agencies still ask for it.
 ## Conflicts resolved, 22 Nov 2026 (from the bot's prompt test)
 
 - 16135 from abroad: E0021 (WEWB citizen charter) lists +8808000102030; WEWB's call-centre, membership and ambulance pages and insurance notice give +880 9610102030. Doc now uses +880 9610102030 (KR0003). Open: confirm with WEWB which number the charter means.

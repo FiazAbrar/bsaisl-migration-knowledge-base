@@ -182,3 +182,17 @@ Today the traces of a country's first build sit in `drafts/`, `verify/` and `wor
 - **Per-agent work folders** are transient staging. After a clean merge and this audit they need not be committed (the `work/` folders across all countries hold about 5,250 tracked files), which also helps the repo-size problem in `plans.md`.
 - **One format for checker output** across country and archive passes. The JSON `{old_str, new_str, problem}` form applies more safely (it refuses ambiguous matches; apply.py silently replaces the first match). Keep a `round` field in every entry.
 - **Existing folders stay where they are;** a short `PASS.md` for each past pass can point to them.
+
+## 12. The simplified archive process (from 23 Nov 2026)
+
+The first archive passes (sections 9 to 11) drafted claims, checked them, logged them, wrote sections and checked again: five hand-offs per fact. From the country pass of 23 Nov 2026 on, a pass has three steps, and the evidence rules are unchanged.
+
+1. **Read, log and write in one go.** One agent per doc and chunk of about 85,000 characters reads every article in full, saves each one it uses as a source, logs every fact with `facts.py add` (exact quote, checked against the saved text), writes into `doc.md`, builds, and does its own line-by-line pass. It accounts for every article in a ledger (used, or unused with a reason) and holds, with a quote, any fact that belongs in another doc. Only one agent edits a doc at a time; chunks of the same doc run one after another.
+2. **Place held facts** in the doc they belong to, re-reading the article first. Repeat until nothing is held.
+3. **Independent final check** of every new or changed sentence by an agent that has not seen the writing; its fixes (old text, new text, reason) are applied by script and kept in the pass folder.
+
+Conflicts are settled by the agent that meets them, from the sources: a primary document (or a report quoting one) beats a secondhand summary, a specific dated figure beats a vague or later restatement, and an obvious misprint is not a conflict. The reasoning goes in `notes.md` under "Resolved conflicts"; only a conflict no source can settle becomes a "Need to know".
+
+Coverage is tracked article by article: a story is used, read with nothing new, not relevant, or not yet accounted for, and a pass isn't finished until none is in the last group. The keyword filter's rejects are checked too: stories with two or more migration signals or one in the headline are triaged, and the useful ones read in full.
+
+Briefs, ledgers, checker verdicts and scripts for each pass are in `passes/<date>-<name>/`; every pass also gets a `LOG.md` entry.

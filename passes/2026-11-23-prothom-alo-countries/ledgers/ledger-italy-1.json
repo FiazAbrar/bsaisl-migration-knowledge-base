@@ -1,0 +1,349 @@
+{
+ "articles": [
+  {
+   "article_id": "0abc867a-81e3-4eeb-8629-3043194b5e37",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: a student association congress; the Embassy's offer to help students with paperwork is generic and names no service or procedure.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "eaa66855-022d-4e84-872c-0371fc4f1417",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Not used in the doc: the EU's USD 1 billion-a-year remittance figure from Italy (as quoted by the minister) is superseded by Bangladesh Bank figures already cited (G0007); policy statement held for global.",
+   "held_for_global": [
+    {
+     "claim": "Finance Minister Abul Hassan Mahmood Ali said on 5 February 2024 that EU countries could be a big market for Bangladeshi migrants but Bangladeshis must stay there legally, and the government does not want any Bangladeshi living there irregularly.",
+     "quote": "শুধু পণ্য রপ্তানি নয়, অভিবাসী পাঠানোর ক্ষেত্রেও ইউরোপীয় ইউনিয়নভুক্ত (ইইউ) দেশগুলো হতে পারে বাংলাদেশের জন্য বড় বাজার। তবে বাংলাদেশিদের ওই দেশগুলোয় অবশ্যই বৈধভাবে থাকতে হবে। কোনো বাংলাদেশি অবৈধ অভিবাসী হিসেবে থাকুক, তা আমরা চাই না।’",
+     "suggested_module": "other: Bangladesh-EU migration policy"
+    }
+   ]
+  },
+  {
+   "article_id": "2621e600-95ca-4472-bfa3-851f101b8fe5",
+   "used": true,
+   "fact_ids": [
+    "PI0001",
+    "PI0002",
+    "PI0003",
+    "PI0004",
+    "PI0005",
+    "PI0006",
+    "PI0007",
+    "PI0008",
+    "PI0009"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "ce5a9f0c-c4b8-47c0-95a7-d3a119a6af54",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: travelogue about Germany; the Embassy's estimate of about 160,000 Bangladeshis in Italy is superseded by the official 195,523 permit holders already in the doc (N0155).",
+   "held_for_global": []
+  },
+  {
+   "article_id": "2e3a6a3b-7efc-4370-ba45-d4a030f2732c",
+   "used": true,
+   "fact_ids": [
+    "PI0010",
+    "PI0011",
+    "PI0012",
+    "PI0013",
+    "PI0014",
+    "PI0015",
+    "PI0016",
+    "PI0017"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [],
+   "uncited_fact_ids": [
+    "PI0016"
+   ],
+   "uncited_reason": "PI0016 general police statement covered by PI0017; PI0031 duplicate of B0040; PI0064 duplicate of A0002"
+  },
+  {
+   "article_id": "1576c5b5-6612-4b85-bb19-ab58c689b4d9",
+   "used": true,
+   "fact_ids": [
+    "PI0018",
+    "PI0019"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "A BRAC study of 557 Bangladeshis who returned from Libya, released 23 February 2024, found 63% of those taken to Libya with the promise of Europe had been held captive and most physically tortured.",
+     "quote": "বাংলাদেশ থেকে ইউরোপে পাঠানোর প্রলোভন দেখিয়ে যাঁদের লিবিয়া নেওয়া হয়েছে, তাঁদের ৬৩ শতাংশই বন্দী হয়েছেন এবং অধিকাংশই শারীরিক নির্যাতনের শিকার হয়েছেন।",
+     "suggested_module": "illegal-routes"
+    },
+    {
+     "claim": "In the BRAC study, 68% lost freedom of movement on reaching Libya, 54% never got three meals a day, at least 22% got one meal a day, 93% of the captives were held in camps and 79% physically tortured.",
+     "quote": "লিবিয়ায় পৌঁছানোর পর ৬৮ শতাংশই মুক্তভাবে চলাচলের স্বাধীনতা হারিয়েছেন। ৫৪ শতাংশই বলেছেন, তাঁরা কখনো তিন বেলা খাবার পাননি। অন্তত ২২ শতাংশ দিনে মাত্র এক বেলা খাবার পেয়েছেন। যাঁরা বন্দী হয়েছেন, তাঁদের মধ্যে ৯৩ শতাংশ ক্যাম্পে বন্দী ছিলেন আর ৭৯ শতাংশই শারীরিক নির্যাতনের শিকার হয়েছেন।",
+     "suggested_module": "illegal-routes"
+    },
+    {
+     "claim": "BRAC found people aged 26 to 40, most of all 31 to 35, try most to enter Europe this way, mostly from Madaripur, Shariatpur, Faridpur, Sylhet, Sunamganj, Munshiganj, Noakhali, Brahmanbaria and Cumilla.",
+     "quote": "২৬ থেকে ৪০ বছর বয়সী লোকজন সবচেয়ে বেশি ইউরোপে ঢোকার চেষ্টা করছেন। এর মধ্যে ৩১ থেকে ৩৫ বছরের লোক সবচেয়ে বেশি। তাঁদের বেশির ভাগেরই বাড়ি মাদারীপুর, শরীয়তপুর, ফরিদপুর, সিলেট, সুনামগঞ্জ, মুন্সিগঞ্জ, নোয়াখালী, ব্রাহ্মণবাড়িয়া, কুমিল্লা জেলায়।",
+     "suggested_module": "illegal-routes"
+    },
+    {
+     "claim": "Local brokers lured the families of 60% of the 557 with good jobs, but 89% got no job or work.",
+     "quote": "তাঁদের ৬০ শতাংশের পরিবারকে স্থানীয় দালালেরা ভালো চাকরির প্রলোভন দেখিয়েছিল। কিন্তু ৮৯ শতাংশই চাকরির বা কোনো কাজ পাননি।",
+     "suggested_module": "illegal-routes"
+    },
+    {
+     "claim": "Most went Dhaka-Dubai-Egypt-Libya; others via Istanbul and Dubai, via Qatar, via Dubai and Syria, and a few directly from Dhaka.",
+     "quote": "ঢাকা থেকে দুবাই-মিসর হয়ে লিবিয়া গেছেন সবচেয়ে বেশি মানুষ। এ ছাড়া ঢাকা থেকে ইস্তাম্বুল-দুবাই হয়ে লিবিয়া, ঢাকা থেকে কাতার হয়ে লিবিয়া, ঢাকা থেকে দুবাই-সিরিয়া হয়ে লিবিয়া এবং অল্প কিছু লোক ঢাকা থেকে সরাসরি লিবিয়া গেছেন।",
+     "suggested_module": "illegal-routes"
+    },
+    {
+     "claim": "56% said they raised the money themselves and 23% had financial help from family.",
+     "quote": "৫৬ শতাংশ বলেছেন, তাঁরা নিজেরাই এই টাকা জোগাড় করেছেন। ২৩ শতাংশ বলেছেন, তাঁরা পরিবারের কাছ থেকে অর্থসহায়তা নিয়েছেন।",
+     "suggested_module": "illegal-routes"
+    },
+    {
+     "claim": "UNHCR figures: from 2015 to June (2023) 25 lakh people crossed the sea to Europe and about 22,000 drowned, many Bangladeshis among them.",
+     "quote": "ইউএনএইচসিআরের তথ্য অনুযায়ী, ২০১৫ সাল থেকে এ বছরের জুন পর্যন্ত নানা দেশের ২৫ লাখ মানুষ এভাবে সাগরপথ পাড়ি দিয়ে ইউরোপে গেছেন। এভাবে যেতে গিয়ে প্রায় ২২ হাজার মানুষ সাগরে ডুবে প্রাণ হারিয়েছেন।",
+     "suggested_module": "illegal-routes"
+    }
+   ],
+   "note": "BRAC study findings on conditions inside Libya held for the illegal-routes module per instruction; only Frontex route figure and a 2024 return count used."
+  },
+  {
+   "article_id": "4f37010f-f7c3-4c63-88e7-d32d33706374",
+   "used": true,
+   "fact_ids": [
+    "PI0020",
+    "PI0021",
+    "PI0022",
+    "PI0023",
+    "PI0024",
+    "PI0025",
+    "PI0026"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "b953299d-18be-4844-b5eb-54a3f23be038",
+   "used": true,
+   "fact_ids": [
+    "PI0027",
+    "PI0028",
+    "PI0029"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "31974bbd-30ec-46ab-aa6a-d220c9f80a41",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact for this doc: Embassy remittance award ceremony; pension-scheme and remittance items held for global.",
+   "held_for_global": [
+    {
+     "claim": "The Bangladesh Embassy in Rome started a 'Remittance Award' in 2019 to encourage sending money through legal channels; the April 2024 event also covered registration for the universal pension scheme.",
+     "quote": "বৈধ পথে রেমিট্যান্স প্রেরণকারীদের উৎসাহ প্রদানের লক্ষ্যে ২০১৯ সালে বাংলাদেশ দূতাবাস, রোম ‘রেমিট্যান্স পুরস্কার’ চালু করে।",
+     "suggested_module": "other: remittance incentives"
+    },
+    {
+     "claim": "The embassy event discussed the universal pension scheme's benefits and simplified registration for expatriates.",
+     "quote": "সর্বজনীন পেনশন স্কিমের সুবিধা ও রেজিস্ট্রেশন–প্রক্রিয়া সহজীকরণ",
+     "suggested_module": "other: Probash pension scheme"
+    }
+   ]
+  },
+  {
+   "article_id": "75de01da-3138-4e8e-98b2-fbafdafc16d4",
+   "used": true,
+   "fact_ids": [
+    "PI0030",
+    "PI0031",
+    "PI0032",
+    "PI0033",
+    "PI0034",
+    "PI0035"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [],
+   "uncited_fact_ids": [
+    "PI0031"
+   ],
+   "uncited_reason": "PI0016 general police statement covered by PI0017; PI0031 duplicate of B0040; PI0064 duplicate of A0002"
+  },
+  {
+   "article_id": "915a8536-2d28-4801-9390-a19be1ae5e71",
+   "used": true,
+   "fact_ids": [
+    "PI0036",
+    "PI0037",
+    "PI0038",
+    "PI0039"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "81e7ae60-98e7-44da-8f47-994e96c98c0d",
+   "used": true,
+   "fact_ids": [
+    "PI0040",
+    "PI0041",
+    "PI0042",
+    "PI0043"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "6980a074-946c-49d7-b56a-9df8fbd46020",
+   "used": true,
+   "fact_ids": [
+    "PI0044",
+    "PI0045",
+    "PI0046"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "aa739179-1f02-4ffd-9966-efe844817178",
+   "used": true,
+   "fact_ids": [
+    "PI0047",
+    "PI0048",
+    "PI0049"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "963686b1-8f95-4fae-a77e-79ce36fbf4aa",
+   "used": true,
+   "fact_ids": [
+    "PI0050",
+    "PI0051",
+    "PI0052",
+    "PI0053",
+    "PI0054"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "IOM's Director General said traffickers use social media in sophisticated ways, and people do not get proper information on legal migration routes and the skills needed.",
+     "quote": "মানব পাচারকারীরা পরিশীলিতভাবে সামাজিক যোগাযোগমাধ্যম ব্যবহার করে থাকে। কারণ, তারা সারা বিশ্বের পরিস্থিতিকে বিবেচনায় রাখে।",
+     "suggested_module": "scams"
+    }
+   ]
+  },
+  {
+   "article_id": "5308c56b-f1ed-4c8c-acf9-176dd2da9bdf",
+   "used": true,
+   "fact_ids": [
+    "PI0055",
+    "PI0056",
+    "PI0057",
+    "PI0058",
+    "PI0059",
+    "PI0060",
+    "PI0061",
+    "PI0062",
+    "PI0063",
+    "PI0064",
+    "PI0084"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [],
+   "uncited_fact_ids": [
+    "PI0064"
+   ],
+   "uncited_reason": "PI0016 general police statement covered by PI0017; PI0031 duplicate of B0040; PI0064 duplicate of A0002"
+  },
+  {
+   "article_id": "309c0b6a-c203-4100-89e5-1eacadab6ba5",
+   "used": true,
+   "fact_ids": [
+    "PI0065",
+    "PI0066",
+    "PI0067",
+    "PI0068",
+    "PI0069"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "3366caaf-e783-4288-9ab5-fd808de0fd1c",
+   "used": true,
+   "fact_ids": [
+    "PI0070",
+    "PI0071",
+    "PI0072",
+    "PI0073",
+    "PI0074",
+    "PI0075"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "b8da8b81-f49b-489a-b3b8-b3de0c18a3c7",
+   "used": true,
+   "fact_ids": [
+    "PI0076",
+    "PI0077",
+    "PI0078",
+    "PI0079",
+    "PI0080",
+    "PI0081",
+    "PI0082"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "042dd69b-aa68-4f12-9113-954e35b0d245",
+   "used": true,
+   "fact_ids": [
+    "PI0083"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "BRAC's Shariful Hasan said a BRAC study found only 5% of ordinary people can tell migration from trafficking.",
+     "quote": "সাধারণ মানুষের মাত্র ৫ শতাংশ মাইগ্রেশন এবং ট্রাফিকিং আলাদা করে বোঝে।",
+     "suggested_module": "faq"
+    },
+    {
+     "claim": "BRAC's Shariful Hasan said that before going abroad people keep everything secret on the broker's advice.",
+     "quote": "প্রবাসে যাওয়ার আগে তারা দালালের পরামর্শ অনুযায়ী সব গোপন রাখে।",
+     "suggested_module": "scams"
+    },
+    {
+     "claim": "RMMRU's C R Abrar said trafficking-like cases in labour migration are often directed to be tried under the 2013 migration act rather than the anti-trafficking law.",
+     "quote": "বরং মানব পাচার বিরোধী আইনের পরিবর্তে ২০১৩ সালের অভিবাসন আইনে এ ধরনের ঘটনার বিচার করতে",
+     "suggested_module": "illegal-routes"
+    },
+    {
+     "claim": "Justice and Care's country director said 40% of recent trafficking victims they learned of had been connected through social platforms like Facebook and TikTok, and traffickers use WhatsApp on foreign SIMs to avoid tracking.",
+     "quote": "তার ৪০ শতাংশ ভুক্তভোগীই ফেসবুক, টিকটকের মতো কোনো সোশ্যাল প্ল্যাটফর্ম ব্যবহার করে সংযুক্ত হয়েছিল।",
+     "suggested_module": "scams"
+    },
+    {
+     "claim": "Salma Ali (BNWLA) said girls of 14 have been trafficked shown as 21-23 with fake ID cards, with promises of jobs.",
+     "quote": "১৪ বছরের মেয়েদের ২১-২৩ বছরের দেখিয়ে নিয়ে চাকরি দেওয়ার কথা বলে পাচার করা হয়েছে। এ ক্ষেত্রে মিথ্যা আইডি কার্ড বানানো হয়।",
+     "suggested_module": "scams"
+    }
+   ]
+  },
+  {
+   "article_id": "c77f9c3c-5d2b-49cc-b61a-395b99a54604",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: road accident in Bangladesh killing the wife of an Italy-based Bangladeshi on her way to collect family-reunification papers; no procedure, cost or rule stated.",
+   "held_for_global": []
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "articles": [
+  {
+   "article_id": "022127eb-fd16-4c4c-9fad-9f833493e6c0",
+   "used": true,
+   "fact_ids": [
+    "PU0180",
+    "PU0181",
+    "PU0182"
+   ],
+   "reason_if_unused": "The 50,000 figure was already in the doc (G0094). PU0182 (amnesty from 1 July) logged but not cited: conflicts with the UAE's official 1 September start; see notes.md Resolved conflicts. The spokesman's call to Bangladeshis 'in the EU' to take the amnesty is an apparent slip and was skipped.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "e7b2ed5b-ac8e-4d87-9b48-c9f66f5f38c8",
+   "used": true,
+   "fact_ids": [
+    "PU0184",
+    "PU0185",
+    "PU0183"
+   ],
+   "reason_if_unused": "The July 2024 protests, 57 pardoned and 189 returned were already in the doc (N0033, N0035, PU0098).",
+   "held_for_global": []
+  },
+  {
+   "article_id": "b19ee9e6-7dc8-4c77-9bd6-cbfbda7ed507",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Video blurb on Shah Alam Bhuiyan's death by drone debris near Dubai on 1 April 2026; already in the doc from the full article (PU0156-PU0162).",
+   "held_for_global": []
+  }
+ ]
+}

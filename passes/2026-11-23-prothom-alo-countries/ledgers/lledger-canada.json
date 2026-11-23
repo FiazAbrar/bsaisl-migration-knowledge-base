@@ -1,0 +1,99 @@
+{
+ "articles": [
+  {
+   "article_id": "86620866-c260-419d-b434-3b3927bef692",
+   "used": true,
+   "fact_ids": [
+    "XC0111",
+    "XC0112",
+    "XC0113",
+    "XC0114",
+    "XC0115",
+    "XC0116",
+    "XC0117",
+    "XC0118",
+    "XC0119",
+    "XC0120"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "cca583ae-6cc4-4266-a8d7-34d3126740b2",
+   "used": true,
+   "fact_ids": [
+    "XC0121",
+    "XC0122",
+    "XC0123",
+    "XC0124",
+    "XC0125",
+    "XC0126",
+    "XC0127"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "352c5503-fc51-42e8-b97f-c321ccab667f",
+   "used": true,
+   "fact_ids": [
+    "XC0128",
+    "XC0129",
+    "XC0130",
+    "XC0131",
+    "XC0132",
+    "XC0133",
+    "XC0134"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "8816763e-88ec-47ce-84aa-7ab2522d0129",
+   "used": true,
+   "fact_ids": [
+    "XC0135",
+    "XC0136",
+    "XC0137",
+    "XC0138",
+    "XC0139"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "47e303bb-6c70-4b0a-ad4b-e20e88be32c7",
+   "used": true,
+   "fact_ids": [
+    "XC0140",
+    "XC0141",
+    "XC0142",
+    "XC0143",
+    "XC0144",
+    "XC0145",
+    "XC0146",
+    "XC0147",
+    "XC0148",
+    "XC0149",
+    "XC0150",
+    "XC0151",
+    "XC0152",
+    "XC0153",
+    "XC0154",
+    "XC0155",
+    "XC0156",
+    "XC0157",
+    "XC0158",
+    "XC0159",
+    "XC0160",
+    "XC0161",
+    "XC0162",
+    "XC0163",
+    "XC0164",
+    "XC0165"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  }
+ ]
+}

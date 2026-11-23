@@ -1,0 +1,37 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/brunei/doc.md",
+  "section": "Is it open now, and who can go?",
+  "old_str": "172 jobs with several Brunei companies in August, 279 on 23 September and 148",
+  "new_str": "172 jobs with several Brunei companies in August, 279 in a circular Prothom Alo reported on 23 September and 148",
+  "problem": "The circular's own date is not given; 23 September 2026 is the date Prothom Alo reported it (PB0015 source)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/brunei/doc.md",
+  "section": "What the job pays",
+  "old_str": "Its circular of 23 September 2026 paid BND 20 a day",
+  "new_str": "Its circular reported by Prothom Alo on 23 September 2026 paid BND 20 a day",
+  "problem": "The circular's own date is not given; 23 September 2026 is the date Prothom Alo reported it (PB0015 source)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/brunei/doc.md",
+  "section": "What the employer pays",
+  "old_str": "Its circular of 23 September 2026 says the company pays for both housing and food [PB0022].",
+  "new_str": "Its circular reported by Prothom Alo on 23 September 2026 says the company pays for both housing and food [PB0022].",
+  "problem": "The circular's own date is not given; 23 September 2026 is the date Prothom Alo reported it (PB0015 source)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/brunei/doc.md",
+  "section": "What you pay",
+  "old_str": "BOESL's circular of 23 September 2026 set it at Tk 200, Prothom Alo reported",
+  "new_str": "the circular Prothom Alo reported on 23 September 2026 set it at Tk 200",
+  "problem": "The circular's own date is not given; 23 September 2026 is the date Prothom Alo reported it (PB0015 source)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/brunei/doc.md",
+  "section": "Step 2: Apply through BOESL",
+  "old_str": "the 23 September 2026 circular set the fee at Tk 200 [PB0020]",
+  "new_str": "the circular Prothom Alo reported on 23 September 2026 set the fee at Tk 200 [PB0020]",
+  "problem": "The circular's own date is not given; 23 September 2026 is the date Prothom Alo reported it (PB0015 source)."
+ }
+]

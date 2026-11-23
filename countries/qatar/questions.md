@@ -555,6 +555,7 @@ These are the questions the Qatar migration guide can't yet answer, grouped by t
 - Can a worker held in Qatar's deportation centre phone out?
 - Does the Bangladesh Embassy in Doha visit the deportation centre? (Its site lists "Deportation Centre and Hospital Visits", but the page describes only hospital visits.)
 - How does a family in Bangladesh find out where a worker detained in Qatar is held?
+- Can a worker in Qatar now get a new passport delivered without going to the Embassy, as the Foreign Adviser said in January 2025?
 
 ## If a worker dies, is injured or loses the job
 

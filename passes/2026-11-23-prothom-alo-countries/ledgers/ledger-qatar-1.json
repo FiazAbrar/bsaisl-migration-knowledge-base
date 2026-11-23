@@ -1,0 +1,285 @@
+{
+ "articles": [
+  {
+   "article_id": "43055efa-dec7-4965-95c4-bdebbb89c2c0",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: feature on Bangladeshi volunteers at the 2024 AFC Asian Cup in Doha (unpaid volunteering, recruited only from residents of Qatar); nothing a migrant would act on.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "115aa091-6cec-498e-a710-b880c8668200",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: a Doha restaurant discount card for Bangladeshi drivers (community trivia).",
+   "held_for_global": []
+  },
+  {
+   "article_id": "82d91833-3497-4e57-94c3-17c8ef46b2f9",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: Qatar Bondhushava gave Eid food packs to 65 jobless Bangladeshis in April 2024; one-off charity event, no service a reader can use.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "39dcd2fa-b891-4ac1-9ee1-81122d02d579",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Duplicate: the April 2024 Amir visit and the labour MoU are already in the doc [W0011]; the article only says the MoUs were expected to be signed.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "56c1becb-c11d-4bf1-bfe4-108dc9772e24",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Not about this country beyond a line that the state minister met Qatar's Labour Minister in May 2024 to discuss workers' issues (no content). Oman facts belong to the Oman doc.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "b4e4faa5-420c-46d3-a089-4b2e8798f3fa",
+   "used": true,
+   "fact_ids": [
+    "PQ0001",
+    "PQ0002"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "63e5461c-8e36-461a-9dd1-6c09dee43155",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Not about this country: Libya-Italy smuggling death of a man who had earlier worked 8 years in Qatar. Held for global (illegal routes).",
+   "held_for_global": [
+    {
+     "claim": "Family said a broker contracted to take Sohag Mia (28, Bhairab) to Italy via Libya by sea for Tk 16 lakh, and took him to Libya about 7 months earlier after receiving Tk 5 lakh (April 2025)",
+     "quote": "দালাল চক্রের সঙ্গে চুক্তি ছিল, ১৬ লাখ টাকার বিনিময়ে সোহাগ মিয়া (২৮) নামের এক যুবককে লিবিয়া হয়ে সাগর পথে ইতালি পৌঁছে দেওয়া হবে। ৫ লাখ টাকা পাওয়ার পর প্রায় ৭ মাস আগে তাঁকে লিবিয়া নেওয়া হয়।",
+     "suggested_module": "illegal-routes"
+    },
+    {
+     "claim": "The family said the gang extracted the full Tk 16 lakh in instalments while holding him in Libya, and he died in its custody after torture",
+     "quote": "লিবিয়ায় তাঁকে আটকে রেখে কৌশলে এবং দফায় দফায় চুক্তির পুরো টাকা আদায় করে চক্রটি। এটি নিয়ে কথা বললে তাঁর ওপর শারীরিক ও মানসিক নির্যাতন চালানো হতো।",
+     "suggested_module": "illegal-routes"
+    },
+    {
+     "claim": "His wife said she could only speak to him by paying money the brokers demanded",
+     "quote": "দালালের দাবি করা টাকার বিনিময়ে সোহাগের সঙ্গে বলতে হতো।",
+     "suggested_module": "illegal-routes"
+    }
+   ]
+  },
+  {
+   "article_id": "b56da558-25ba-4552-94d5-bebd9e8698ce",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No Qatar-specific usable fact: a 24-year Qatar migrant who found no work after returning to Qatar died by suspected suicide on the day he came home (Noakhali). Held for global.",
+   "held_for_global": [
+    {
+     "claim": "Abul Basar (48), 24 years in Qatar, went back after his daughter's wedding, found no work there, returned to Bangladesh without telling his family and died on a railway line the same day; police suspected suicide over a family quarrel (April 2025)",
+     "quote": "সেখানে কোনো কাজ না পেয়ে তিনি হতাশায় ভুগছিলেন। দেশে ফিরে আসার সিদ্ধান্ত জানালে স্ত্রী তাঁকে নিষেধ করেন। এরপর পরিবারের কাউকে কিছু না জানিয়ে গতকাল সকালে তিনি দেশে ফেরেন।",
+     "suggested_module": "other: returnee wellbeing / reintegration"
+    }
+   ]
+  },
+  {
+   "article_id": "f0a49d06-db7c-4c40-b1c0-798bae921c43",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: opinion piece on diplomatic reform; opens with an illustrative vignette of a queue for MRP passports outside the Doha embassy, not reported fact.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "e7800cb2-c0a1-4e4f-a22c-dbf71c2a3621",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: Qatar Bondhushava courtesy call on the ambassador (Mohammad Hazrat Ali Khan) and an entrepreneurship workshop announcement.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "c52461f6-3e0d-4cf9-9ff8-5ef48211aa31",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: profile of a Bangladeshi food-delivery rider whose Quran recitation went viral; nothing that changes what a migrant does.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "4842bf90-b294-474a-bea2-713d574ec67d",
+   "used": true,
+   "fact_ids": [
+    "PQ0003",
+    "PQ0004",
+    "PQ0005",
+    "PQ0006"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "373f4e36-c0e1-4522-96f0-2b211e2d724b",
+   "used": true,
+   "fact_ids": [
+    "PQ0007"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "d6c9dd08-9e26-4028-abf4-304d756d1683",
+   "used": true,
+   "fact_ids": [
+    "PQ0008",
+    "PQ0009",
+    "PQ0010",
+    "PQ0011",
+    "PQ0012"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "Ministry statistics (March 2026): about 2 million Bangladeshi workers in Saudi Arabia, 1 million UAE, 700,000 Oman, 450,000 Qatar, 150,000 Bahrain, 140,000 Kuwait",
+     "quote": "প্রবাসীকল্যাণ মন্ত্রণালয়ের পরিসংখ্যান অনুযায়ী, জিসিসিভুক্ত ছয়টি দেশের মধ্যে সৌদি আরবে প্রায় ২০ লাখ, সংযুক্ত আরব আমিরাতে ১০ লাখ, ওমানে ৭ লাখ, কাতারে ৪ লাখ ৫০ হাজার, বাহরাইনে ১ লাখ ৫০ হাজার ও কুয়েতে ১ লাখ ৪০ হাজার বাংলাদেশি কর্মী আছেন।",
+     "suggested_module": "other: corridor comparison"
+    }
+   ]
+  },
+  {
+   "article_id": "69f16b3f-79ea-46ea-b3cf-c3ead02c73b2",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Duplicate/no usable fact: oil and food prices; Iranian strikes on a Qatar data centre and gas facility are covered by the doc's statement that Iran hit strategic installations in Qatar [QM0003].",
+   "held_for_global": []
+  },
+  {
+   "article_id": "c44b97f5-4275-4cd0-ba5f-634194a47649",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Duplicate: the March 2026 Embassy special flight (priority groups, Google Form on official social media) is already in the doc [H0040].",
+   "held_for_global": []
+  },
+  {
+   "article_id": "7c93bcfe-a14a-41bf-9b4d-1669aa217257",
+   "used": true,
+   "fact_ids": [
+    "PQ0013",
+    "PQ0014"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "c2262a76-7a9a-435f-94d6-3252b4ee8564",
+   "used": true,
+   "fact_ids": [
+    "PQ0015",
+    "PQ0016"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "Early in March 2026 Bahrain arrested five Pakistani workers and one Bangladeshi accused of praising Iran's attack while filming its aftermath",
+     "quote": "চলতি সপ্তাহের শুরুর দিকে বাহরাইন পাঁচজন পাকিস্তানি এবং একজন বাংলাদেশি শ্রমিককে গ্রেপ্তার করে। তাঁদের বিরুদ্ধে অভিযোগ, হামলার পরবর্তী দৃশ্য ধারণ করার সময় তাঁরা ইরানের এই হামলার প্রশংসা করছিলেন।",
+     "suggested_module": "other: Gulf war 2026 / Bahrain doc"
+    }
+   ]
+  },
+  {
+   "article_id": "e2b07335-90fe-458f-a560-b3ea64958537",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Duplicate: the only migrant fact (about 450,000 Bangladeshis in Qatar) is already logged from another article [PQ0012]; the rest is diplomatic courtesy.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "aba23c78-9ce8-4143-9904-68ecbb3c343d",
+   "used": true,
+   "fact_ids": [
+    "PQ0017",
+    "PQ0018",
+    "PQ0019",
+    "PQ0020"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "The minister said 110 TTCs under the Ministry give training in 55 overseas-employment trades (May 2026)",
+     "quote": "মন্ত্রণালয়ের অধীন ১১০টি কারিগরি প্রশিক্ষণকেন্দ্রে বৈদেশিক কর্মসংস্থান–সংশ্লিষ্ট ৫৫টি ট্রেডে মানসম্মত প্রশিক্ষণ প্রদান করা হচ্ছে।",
+     "suggested_module": "departure"
+    }
+   ]
+  },
+  {
+   "article_id": "6676e1fe-c30a-433d-a305-95bdf023fd75",
+   "used": true,
+   "fact_ids": [
+    "PQ0021",
+    "PQ0022"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "253f75a2-4f38-40ab-9ff3-62a09c348718",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Duplicate: the five-death crash and Embassy-arranged repatriation are covered by [F0038, H0028, PQ0021, PQ0022, PQ0023].",
+   "held_for_global": []
+  },
+  {
+   "article_id": "e69eb8a7-c2a5-44ef-90a3-f6983d995686",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: video stub on the same crash (one victim had five children); covered by [PQ0021].",
+   "held_for_global": []
+  },
+  {
+   "article_id": "866d7886-94d4-4567-af6e-35b9bbfd1790",
+   "used": true,
+   "fact_ids": [
+    "PQ0023"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "21a2a965-fa52-42d9-9934-6360cb8a6de4",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: a man travelling on a Qatar worker visa was arrested at Dhaka airport on extremism charges; an individual criminal case with nothing a migrant would act on.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "a5dc1d7b-8fc2-4460-bcce-68cc5bc80a73",
+   "used": true,
+   "fact_ids": [
+    "PQ0024",
+    "PQ0025",
+    "PQ0026"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "6133559d-9e3d-4653-a573-22247f9a869a",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Not about this country: Libya-Greece boat sinking; one of the men had earlier spent six months in Qatar. Held for global (illegal routes).",
+   "held_for_global": [
+    {
+     "claim": "Families in Bhairab said a local broker agreed Tk 14 lakh each to take young men to Greece, Tk 9 lakh up front and Tk 5 lakh on arrival (September 2026)",
+     "quote": "প্রত্যেকের জন্য ১৪ লাখ টাকা করে চুক্তি হয়। প্রথমে নেওয়া হয় ৯ লাখ টাকা। গ্রিসে পৌঁছানোর পর বাকি পাঁচ লাখ টাকা দেওয়ার কথা ছিল।",
+     "suggested_module": "illegal-routes"
+    },
+    {
+     "claim": "The route went first to Saudi Arabia (where they performed Umrah), then via Egypt to Libya, and after over a month in Libya a boat left for Greece on 14 September 2026 and sank south of Gavdos",
+     "quote": "প্রথমে তাঁদের সৌদি আরব নেওয়া হয়। সেখানে তাঁরা ওমরাহ পালন করেন। এরপর মিসর হয়ে লিবিয়ায় নেওয়া হয়। লিবিয়ায় এক মাসের বেশি সময় থাকার পর ১৪ সেপ্টেম্বর রাতে গ্রিসের উদ্দেশে নৌকাটি ছাড়ে। গ্রিসের গাভদোস দ্বীপের দক্ষিণে নৌকাটি ডুবে যায়।",
+     "suggested_module": "illegal-routes"
+    },
+    {
+     "claim": "AFP reported 77 people on the boat; 51 rescued, one body found, 25 missing",
+     "quote": "বার্তা সংস্থা এএফপির খবর অনুযায়ী, দুর্ঘটনাকবলিত নৌকায় ছিলেন ৭৭ জন। এ ঘটনায় ৫১ জনকে উদ্ধার করা হয়। একজনের মরদেহ পাওয়া যায়। ২৫ জন নিখোঁজ আছেন।",
+     "suggested_module": "illegal-routes"
+    }
+   ]
+  }
+ ]
+}

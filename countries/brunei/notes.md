@@ -262,3 +262,14 @@ Researcher prefix V. Facts V0001 to V0207 (103 verified, 76 possibly-outdated, 2
 - Remittance cost from Brunei (Bangladesh Bank survey excludes Brunei); hundi rate and operators.
 - Annual deaths of Bangladeshis in Brunei; who pays body repatriation for documented workers under EO2009; RIPAS mortuary procedure.
 - Current Cap 74 amounts.
+
+## Prothom Alo archive pass (prefix PB)
+
+Six articles read (Nov 2024 to Oct 2026); four used (PB0001 to PB0023): BOESL circulars of Nov 2024 (Tk 1,600 a day), May 2026 (88 construction workers, age 20 to 50, no experience), Aug 2026 (172 jobs) and 23 Sep 2026 (279 jobs). The 3 Oct 2026 article reports the 29 Sep circular already in the doc from BOESL's own PDF (KB0001 to KB0010); the Jordan article is not about Brunei.
+
+### Resolved conflicts
+
+- Food: the 29 Sep 2026 circular (KB0005) has the worker pay for food; the 23 Sep 2026 circular as reported (PB0022) has the company pay. Different circulars and employers, so both kept, each dated.
+- Application fee: Tk 100 in BOESL's own 29 Sep circular and the Aug 2026 report; Tk 200 in Prothom Alo's report of the 23 Sep circular. Different circulars; both kept, attributed.
+- Age and experience differ by circular (25-45 with 2-3 years' experience on 29 Sep; 20-50 with none in May 2026); written as per-circular, not as one rule.
+- The 3 Oct 2026 article converts BND 20 to Tk 2,458.85 (about Tk 123 per BND, the US dollar rate); not used. The 23 Sep article's conversion (BND 600 about Tk 57,866) matches the par-with-SGD rate already in the doc.

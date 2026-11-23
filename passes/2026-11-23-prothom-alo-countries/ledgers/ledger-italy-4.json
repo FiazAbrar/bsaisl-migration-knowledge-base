@@ -1,0 +1,143 @@
+{
+ "articles": [
+  {
+   "article_id": "a93dcf0d-3d9a-47e8-ba5e-b227ab16e2d1",
+   "used": true,
+   "fact_ids": [
+    "PI0370",
+    "PI0371",
+    "PI0372",
+    "PI0373",
+    "PI0374",
+    "PI0375",
+    "PI0376",
+    "PI0377",
+    "PI0378",
+    "PI0379",
+    "PI0380",
+    "PI0381"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "38a6b915-ee93-4d4d-a5d3-7790999e9aa8",
+   "used": true,
+   "fact_ids": [
+    "PI0382",
+    "PI0383",
+    "PI0384",
+    "PI0385"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "On 3 August 2026 a rubber boat built for 25 left Tobruk, Libya, for Greece carrying 42 Bangladeshi and Sudanese nationals.",
+     "quote": "৩ আগস্ট ২৫ জনের ধারণক্ষমতাসম্পন্ন রাবারের নৌকাটিতে ৪২ জন বাংলাদেশি ও সুদানি নাগরিক লিবিয়ার তবরুক থেকে গ্রিসের উদ্দেশে যাত্রা শুরু করেন।",
+     "suggested_module": "illegal-routes"
+    },
+    {
+     "claim": "The Bangladesh Embassy in Cairo confirmed that 10 people, 9 of them Bangladeshi, died on a rubber boat from Libya to Greece, and 29 more Bangladeshis rescued from it were being treated in an Egyptian hospital (August 2026).",
+     "quote": "মিসরের কায়রোতে বাংলাদেশ দূতাবাস নিশ্চিত করেছে, লিবিয়া থেকে রাবারের নৌকায় গ্রিস যাওয়ার পথে ৯ বাংলাদেশিসহ ১০ জন মারা গেছেন। নৌকাটি থেকে আরও ২৯ জন বাংলাদেশিকে উদ্ধার করে মিসরের একটি হাসপাতালে চিকিৎসা দেওয়া হচ্ছে।",
+     "suggested_module": "illegal-routes"
+    },
+    {
+     "claim": "A Prothom Alo editorial said that after each big disaster one or two local brokers are caught but the ringleaders stay out of reach, and those arrested are rarely tried because of weak FIRs and lack of evidence.",
+     "quote": "প্রতিটি বড় দুর্ঘটনা ও প্রাণহানির পর দু-একজন স্থানীয় পর্যায়ের দালালদের ধরা হলেও মানব পাচারকারী চক্রের মূল হোতারা ধরাছোঁয়ার বাইরেই থেকে যান। আবার যাঁরা গ্রেপ্তার হন, দুর্বল এজাহার ও সাক্ষ্যপ্রমাণের অভাবে তাঁদের বিচার হয় না বললেই চলে।",
+     "suggested_module": "illegal-routes"
+    }
+   ]
+  },
+  {
+   "article_id": "44394f2c-349c-465b-a54c-48f1f86e9176",
+   "used": true,
+   "fact_ids": [
+    "PI0386",
+    "PI0387",
+    "PI0388",
+    "PI0389",
+    "PI0390",
+    "PI0391",
+    "PI0392",
+    "PI0393",
+    "PI0394",
+    "PI0395",
+    "PI0396",
+    "PI0398",
+    "PI0399",
+    "PI0400",
+    "PI0411"
+   ],
+   "reason_if_unused": "PI0397 (date IOM confirmed one man's return) logged but not cited: trivia.",
+   "held_for_global": [
+    {
+     "claim": "A man held 45 days at Libya's Tajoura detention centre in 2026 said breakfast was one khubz (thick bread) at 10 am and lunch was pasta at 3 pm, with one medium bowl for seven people, and lunch served again at night.",
+     "quote": "সকাল ১০টায় নাশতা হিসেবে দেওয়া হতো একটি খুবজ (মোটা রুটি)। বেলা তিনটায় দুপুরের খাবারে দেওয়া হতো পাস্তা। সাতজনের জন্য দেওয়া হতো মাঝারি এক বাটি খাবার। দুপুরের জন্য রান্না হওয়া ওই খাবারই দেওয়া হতো রাতে।",
+     "suggested_module": "illegal-routes"
+    },
+    {
+     "claim": "A returnee from Tajoura said they had to survive by drinking salty tap water.",
+     "quote": "কলের লোনাপানি খেয়েই তাঁদের বেঁচে থাকতে হয়েছে।",
+     "suggested_module": "illegal-routes"
+    }
+   ]
+  },
+  {
+   "article_id": "a4fdcb53-0d13-4928-81d7-34506378e680",
+   "used": true,
+   "fact_ids": [
+    "PI0401",
+    "PI0402"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "c94b1a79-61fc-4f62-8d80-0645f4549550",
+   "used": true,
+   "fact_ids": [
+    "PI0403"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "448b36be-4301-4f43-a0d3-524a0a73efd2",
+   "used": true,
+   "fact_ids": [
+    "PI0404"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "f3d99d6c-2047-49dd-88dc-bd878daf7c64",
+   "used": true,
+   "fact_ids": [
+    "PI0405",
+    "PI0406"
+   ],
+   "reason_if_unused": "The November 2026 event itself was already in the doc (B0046); the about 2.5 lakh Bangladeshis in Italy figure duplicates PI0272.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "3376accd-7e0d-49a7-91db-b2a0c5e06225",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "No usable fact: October 2026 youth protests in Italy; the article says there is no reliable information on attacks on Bangladeshi shops or Bangladeshis among those detained.",
+   "held_for_global": []
+  },
+  {
+   "article_id": "61a95148-4c0c-4377-b6de-2bd054119f95",
+   "used": true,
+   "fact_ids": [
+    "PI0407",
+    "PI0408",
+    "PI0409",
+    "PI0410"
+   ],
+   "reason_if_unused": "HSC result statistics for Rajoir colleges not used (not about migration).",
+   "held_for_global": []
+  }
+ ]
+}

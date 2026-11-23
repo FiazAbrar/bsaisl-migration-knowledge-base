@@ -44,7 +44,7 @@ Brunei is a small, steady market for Bangladeshi workers: BMET (the Bureau of Ma
 
 ### Is it open now, and who can go?
 
-Brunei is open to Bangladeshi men through BOESL, in small numbers: Bangladesh cleared 1,726 workers for Brunei from 1 January to 7 November 2026, and BOESL advertised 172 jobs with several Brunei companies in August 2026 and 148 with one employer in its circular of 29 September 2026 [C0006, R0216, C0034, KB0001]. In 2018 and 2019, by the High Commission's count, three in four went through illegal channels, many on visas from companies with no work for them [C0189, C0192].
+Brunei is open to Bangladeshi men through BOESL, in small numbers: Bangladesh cleared 1,726 workers for Brunei from 1 January to 7 November 2026, and BOESL advertised 88 construction jobs in May 2026, 172 jobs with several Brunei companies in August, 279 in a circular Prothom Alo reported on 23 September and 148 with one employer in its circular of 29 September 2026 [C0006, PB0007, R0216, PB0015, C0034, KB0001]. In 2018 and 2019, by the High Commission's count, three in four went through illegal channels, many on visas from companies with no work for them [C0189, C0192].
 
 #### Status
 
@@ -71,8 +71,8 @@ Brunei's Minister of Home Affairs said in August 2026 that the Labour Department
 #### Who qualifies
 
 - *Sex.* Men: BOESL's circular of 29 September 2026 was for 148 male workers, and its 2024 trades were masonry, painting, carpentry, construction labour, chefs, waiters and kitchen assistants [C0034, C0032].
-- *Age.* 25 to 45 in BOESL's circular of 29 September 2026 [C0037].
-- *Skill.* At least two to three years' experience in the trade, with no education requirement, in the same circular [C0037, KB0006]. BOESL's agreement with Brunei agencies covers construction, oil and gas, garments, care giving, nursing, hospitality, bakery, agriculture and other sectors [C0116].
+- *Age.* It differs by circular: 25 to 45 in BOESL's circular of 29 September 2026, 20 to 50 in its May 2026 construction circular, and between 18 and 45 in November 2024, with each employer setting its own range [C0037, PB0008, PB0002, PB0003].
+- *Skill.* At least two to three years' experience in the trade, with no education requirement, in the 29 September 2026 circular [C0037, KB0006]. The May 2026 circular for 88 construction workers asked for no schooling and no experience, preferring physically fit, hard-working people; the November 2024 circular asked for experience in the trade [PB0008, PB0002]. BOESL's agreement with Brunei agencies covers construction, oil and gas, garments, care giving, nursing, hospitality, bakery, agriculture and other sectors [C0116].
 - *Health.* A medical test in Bangladesh before departure and a Ministry of Health medical examination in Brunei after arrival [C0040, C0105].
 
 > **Need to know**
@@ -178,7 +178,8 @@ In 2020 a worker borrowed his Tk 3.8 lakh and still owed it after returning; ano
 #### What the job pays
 
 There is no minimum wage for construction or domestic work in Brunei: the minimum wage covers only banking, finance and ICT (information and communications technology) from July 2023 and, from 1 April 2025, nine sub-industries including accommodation and food services [C0010, C0181, C0179, R0211]. Reported pay:
-- *BOESL, 2026.* BOESL's circular of 29 September 2026 for Unity Land Sdn Bhd pays BND 20 a day for carpenters, construction labourers and masons and BND 22 a day for electricians, drivers, operators, plumbers and welders, for 8 hours' duty a day on a two-year renewable contract, with housing paid by the company, the air fare by the employer and food by the worker (Work visa: employment pass, Step 2, item 1) [KB0003, KB0004, KB0005]. BOESL's August 2026 circular gave BND 20 to 21 a day or BND 600 to 1,000 a month, depending on the job [R0216].
+- *BOESL, 2026.* BOESL's circular of 29 September 2026 for Unity Land Sdn Bhd pays BND 20 a day for carpenters, construction labourers and masons and BND 22 a day for electricians, drivers, operators, plumbers and welders, for 8 hours' duty a day on a two-year renewable contract, with housing paid by the company, the air fare by the employer and food by the worker (Work visa: employment pass, Step 2, item 1) [KB0003, KB0004, KB0005]. BOESL's August 2026 circular gave BND 20 to 21 a day or BND 600 to 1,000 a month, depending on the job, the BND 1,000 being for a foreman at IRR Contractor [R0216, PB0012]. Its circular reported by Prothom Alo on 23 September 2026 paid BND 20 a day (about Tk 1,929, Prothom Alo reported) at Serikat Nor Awan Sdn Bhd, whose listing was headed 180 construction workers, and BND 21 to its operators and technicians; BND 22 a day to electricians and foremen at ABD Sdn Bhd; and BND 600 a month (about Tk 57,866) to a construction worker at CY Construction; the circular has the company paying housing and food [PB0017, PB0016, PB0019, PB0018, PB0022]. The May 2026 construction circular paid BND 20 a day for 8 hours a day, 6 days a week, with overtime available [PB0009, PB0010].
+- *BOESL, November 2024.* Tk 1,600 a day at Mahfuz Enterprise Sdn Bhd, or Tk 48,000 a month for general labourers and Tk 56,000 for a mechanic at others, with the worker paying his own food [PB0002, PB0003, PB0004, PB0005].
 - *BOESL, 2024.* About Tk 50,000 a month, said BOESL's managing director; the High Commission said it aimed for a minimum of BND 600 a month [C0084, C0030].
 - *2021.* About US$200 a month, less than other foreign workers; the High Commission's labour attaché said Filipino workers earn more because they are skilled and recruited under a better process [C0143, C0147].
 - *2015.* BND 254 a month as day labourers, against US$400 promised [C0077].
@@ -270,10 +271,10 @@ Under the MoC every Brunei agency signs with BOESL, the employer pays [R0082, R0
 - an open round-trip air ticket, Dhaka to Brunei and back [R0074];
 - free food or a food allowance, free housing and medicine [R0078].
 
-BOESL's circular of 29 September 2026 says the company pays for housing and the employer for the air fare, but the worker pays for his own food [KB0005].
+Food differs by circular. BOESL's circular of 29 September 2026 says the company pays for housing and the employer for the air fare, but the worker pays for his own food, as did its November 2024 circular [KB0005, PB0005]. Its circular reported by Prothom Alo on 23 September 2026 says the company pays for both housing and food [PB0022].
 
 > **Need to know**
-> - On BOESL's 2026 Brunei jobs, does the employer give any food allowance, as the MoC requires, or does the worker pay all his food?
+> - Where a BOESL circular says the worker pays his own food, does the employer still give a food allowance, as the MoC requires?
 
 The Brunei agency may not charge you any money or deduct anything from your salary [R0081]. Under Brunei's Employment Agencies Order 2004 the government lets agencies charge a recruitment fee of up to BND 2,000 for a migrant worker and requires the employer to pay it; the US State Department's 2026 trafficking report says observers found fees above this cap, with employers shifting part of them onto workers [R0159].
 
@@ -293,7 +294,7 @@ In BOESL's Brunei circular of 29 September 2026 (148 jobs at Unity Land Sdn Bhd)
 - the visa fee set by the embassy;
 - the medical test fee in Bangladesh.
 
-The application fee is Tk 100, paid by bKash [KB0007]. When BOESL started the G2G (government-to-government) route in March 2024 it gave the total cost as Tk 44,000 to Tk 56,000 [R0170].
+The application fee is Tk 100, paid by bKash; the circular Prothom Alo reported on 23 September 2026 set it at Tk 200 [KB0007, PB0013, PB0020]. That circular set the same BOESL charge of Tk 56,350 or Tk 44,850 [PB0021]. When BOESL started the G2G (government-to-government) route in March 2024 it gave the total cost as Tk 44,000 to Tk 56,000 [R0170].
 
 > **Need to know**
 > - Does the Tk 56,350 / Tk 44,850 also cover the BMET smart card and clearance fee (Step 5, item 3), the fingerprint fee and the pre-departure orientation fee (Step 5, item 2), or are those paid separately?
@@ -345,8 +346,8 @@ Pay BOESL's charge by pay order in the name "BOESL, Dhaka", made at Sonali Bank'
 
 How a job reaches BOESL: a Brunei employer goes to a licensed Brunei employment agency, which fills in a demand letter with the employer and takes it to the Bangladesh High Commission in Bandar Seri Begawan for attestation, then sends the attested demand letter and a copy of the employment contract to BOESL [R0095]. BOESL then advertises the jobs in newspapers, on its website and notice board, or from BMET's database [R0083].
 
-1. **Find the circular.** BOESL posts its Brunei jobs on BRMS (BOESL Recruitment Management System), brms.boesl.gov.bd, and the circulars are carried by newspapers [R0219, R0174]. Each circular names the Brunei company, the trades, the number of workers, the wage, the deadline and the cost [R0174, R0216, KB0001]. In 2026 Brunei circulars paid BND 20 to 22 a day or BND 600 to 1,000 a month, depending on the job; at Unity Land Sdn Bhd, carpenters, construction labourers and masons get BND 20 a day and electricians, drivers, operators, plumbers and welders BND 22 a day, for 8 hours' duty [R0216, KB0003, KB0004, KB0005].
-2. **Register and apply on BRMS.** Register free on brms.boesl.gov.bd, choose the job and submit the application with your passport number, schooling and experience; pay the Tk 100 application fee by bKash and enter the transaction ID, or the application is rejected [R0219, KB0007]. You can see the application's status on BRMS, and updates come by email and phone [R0219].
+1. **Find the circular.** BOESL posts its Brunei jobs on BRMS (BOESL Recruitment Management System), brms.boesl.gov.bd, and the circulars are carried by newspapers [R0219, R0174]. Each circular names the Brunei company, the trades, the number of workers, the wage, the deadline and the cost [R0174, R0216, KB0001]. In 2026 Brunei circulars paid BND 20 to 22 a day or BND 600 to 1,000 a month, depending on the job; at Unity Land Sdn Bhd, carpenters, construction labourers and masons get BND 20 a day and electricians, drivers, operators, plumbers and welders BND 22 a day, for 8 hours' duty [R0216, KB0003, KB0004, KB0005]. The May 2026 circular went up on 11 May and closed on 15 May, and the one Prothom Alo reported on 23 September 2026 closed on 26 September at 4pm [PB0007, PB0011, PB0015].
+2. **Register and apply on BRMS.** Register free on brms.boesl.gov.bd, choose the job and submit the application with your passport number, schooling and experience; pay the Tk 100 application fee by bKash and enter the transaction ID, or the application is rejected [R0219, KB0007]; the circular Prothom Alo reported on 23 September 2026 set the fee at Tk 200 [PB0020]. The May 2026 circular accepted applications only online through BOESL's website, not in person or through anyone else [PB0011]. You can see the application's status on BRMS, and updates come by email and phone [R0219].
 3. **Interview.** BOESL sends the applications to the company, which draws up a shortlist; shortlisted men are called by SMS to a final interview with the employer or its representative, online or in person [KB0008, R0083]. Bring your original passport, an English CV and your experience certificates [KB0008]. The employer's choice is final [KB0013].
 4. **Medical in Dhaka** (Step 3).
 

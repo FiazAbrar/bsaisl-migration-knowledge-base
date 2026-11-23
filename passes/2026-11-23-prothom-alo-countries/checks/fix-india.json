@@ -1,0 +1,226 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "India: migration guide",
+  "old_str": "A flag meeting is a meeting of the two forces' local commanders at the border, where people held by one side are handed to the other [XI0040, XI0080].",
+  "new_str": "A flag meeting is a meeting of the two forces at the border, where people held by one side are handed to the other [XI0040, XI0080].",
+  "problem": "'local commanders' is not in XI0040 or XI0080."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "In one minute",
+  "old_str": "Since July 2024 India has limited visas for Bangladeshis to little more than emergency medical treatment, according to bankers [XI0023].",
+  "new_str": "India tightened visas for Bangladeshis from July 2024, and by November 2024 limited tourist and other visas except for emergency medical treatment, bankers said [XI0023].",
+  "problem": "XI0023 is a November 2024 statement; 'Since July 2024 India has limited' reads as still true in November 2026."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "In one minute",
+  "old_str": "The people who work there go across the land border through brokers, for Tk 10,000 a person or about USD 250 (about Tk 30,700) for a family, and have worked as labourers and masons in Delhi, Haryana and Kolkata; couples in Kolkata earned about USD 10 to 12 (about Tk 1,230 to 1,470) a day [XI0074, XI0113, XI0041, XI0081, XI0114, XI0121].",
+  "new_str": "The people who work there have crossed the land border with brokers' help, one Satkhira family paying a broker about USD 250 (about Tk 30,700), and have worked as labourers and masons in Delhi, Haryana and Kolkata; couples in Kolkata earned about USD 10 to 12 (about Tk 1,230 to 1,470) a day [XI0120, XI0113, XI0041, XI0081, XI0114, XI0121].",
+  "problem": "Tk 10,000 a person (XI0074) was paid by six men going to India for Durga Puja, not by workers; presenting it as the workers' crossing price is unsupported."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "In one minute",
+  "old_str": "Those caught are jailed in India, wait for Bangladesh to verify their nationality, and are handed back at a flag meeting, some to face a case at home for crossing illegally [XI0063, XI0038, XI0087, XI0090].",
+  "new_str": "Many of those caught have served jail terms in India and waited for Bangladesh to verify their nationality before being handed back at a flag meeting or land port, some to face a case at home for crossing illegally [XI0063, XI0038, XI0087, XI0064, XI0090].",
+  "problem": "Overgeneralises: XI0063/XI0087 say many served jail terms, not all; West Bengal detainees are sent back from detention centres without court (XI0116, XI0126); the Tamabil handover was at a land port, not a flag meeting."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "Size",
+  "old_str": "No count of Bangladeshis living in India appears in the reporting. The figures are of people sent back:",
+  "new_str": "The figures below are of people held, pushed in or sent back:",
+  "problem": "Uncited research-log sentence; also the list includes pending cases and push-ins, not only people sent back."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "Size",
+  "old_str": "Assam's chief minister said more than 300 Muslims had been pushed into Bangladesh from May 2025; most of those pushed in were Indian citizens, according to Al Jazeera [XI0044, XI0140].",
+  "new_str": "Assam's chief minister said more than 300 Muslims had been pushed into Bangladesh from May 2025; most of the people India pushed into Bangladesh were Indian citizens, according to Al Jazeera [XI0044, XI0140].",
+  "problem": "XI0140 is about people pushed in from India generally, not specifically Assam's 300; the wording attached it to the Assam figure."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "How a job reaches you, and who takes a cut",
+  "old_str": "There is no recruiting chain for India in the reporting: no visa is sold. The cut goes to brokers who take people across the border [XI0018, XI0120].",
+  "new_str": "The reporting describes no recruiting chain for India; the money goes to brokers who take people across the border [XI0018, XI0120].",
+  "problem": "'no visa is sold' is the writer's own conclusion; no cited fact says it."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "The broker at the border",
+  "old_str": "In September 2025 six men from Khaliajuri, Netrokona, said three men from Jamburachhara, Sreemangal, whom BGB described as members of a trafficking ring, offered to take each of them to India for Tk 10,000 [XI0075].",
+  "new_str": "In September 2025 six men from Khaliajuri, Netrokona, caught on their way to India for Durga Puja, said three members of a trafficking ring from Jamburachhara, Sreemangal, offered to take each of them to India for Tk 10,000 [XI0075, XI0074].",
+  "problem": "Wrong attribution: in XI0075 it is the detained men who called the three trafficking-ring members, not BGB. Purpose of the trip (Durga Puja) added so the price is not read as a work route."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "The broker at the border",
+  "old_str": "**Price:** Tk 10,000 a person in Habiganj in September 2025; about USD 250 (about Tk 30,700) for a family from Satkhira, by its own account in June 2026 [XI0074, XI0113].",
+  "new_str": "**Price:** Tk 10,000 a person for six men going for Durga Puja, caught in Habiganj in September 2025; about USD 250 (about Tk 30,700) for a family from Satkhira that went to work, by its own account in June 2026 [XI0074, XI0113, XI0112].",
+  "problem": "XI0074's Tk 10,000 was for a Durga Puja trip; without that, it reads as a work-crossing price."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "Offers that hide a crime",
+  "old_str": "A job in India has been offered as a lure: a Dhaka ring promised jobs and took kidneys, and a Chattogram couple promised parlour jobs and forced women into sex work (see Trafficked and held in India) [XI0001, XI0014].",
+  "new_str": "A job in India has been offered as a lure: a Dhaka ring promised jobs and took kidneys, and a man arrested in Chattogram confessed to taking women garment workers to India with offers of parlour jobs, where they were forced into sex work, police said (see Trafficked and held in India) [XI0001, XI0014].",
+  "problem": "'couple' rests on XI0015 (Tarek's wife), which is not cited; XI0014 is a police account of Tarek's confession, so the attribution was dropped."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "What you pay, and what you earn and keep",
+  "old_str": "**To cross:** Tk 10,000 a person, or about USD 250 (about Tk 30,700) for a family (see The broker at the border) [XI0074, XI0113].",
+  "new_str": "**To cross:** about USD 250 (about Tk 30,700) for a Satkhira family that went to work (see The broker at the border) [XI0113].",
+  "problem": "Tk 10,000 (XI0074) was paid for a Durga Puja trip, not a work crossing."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "What you pay, and what you earn and keep",
+  "old_str": "**Housing:** families rented a room on the outskirts of Kolkata [XI0113].",
+  "new_str": "**Housing:** Raisul Islam's family rented a room on the outskirts of Kolkata [XI0113].",
+  "problem": "XI0113 is one family; 'families' generalises."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "What ties you to the employer",
+  "old_str": "The people in the reporting entered India illegally and worked as labourers and masons, many with no valid papers, so no employer sponsored their stay [XI0081, XI0114, XI0120].",
+  "new_str": "The people in the reporting entered India illegally and worked as labourers and masons, many with no valid papers [XI0081, XI0114, XI0120].",
+  "problem": "'so no employer sponsored their stay' is the writer's inference, not in the facts."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "What goes wrong most",
+  "old_str": "**Being pushed across the border** with no food or shelter, sometimes into no man's land, with shots fired (see Push-ins) [XI0045, XI0059, XI0060].",
+  "new_str": "**Being pushed across the border** with no food or shelter, sometimes into no man's land, under threat of shooting and with rubber bullets fired (see Push-ins) [XI0045, XI0059, XI0060].",
+  "problem": "XI0059/XI0060: a threat to shoot and rubber bullets; 'shots fired' overstates."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "What goes wrong most",
+  "old_str": "**Trafficking:** kidney removal in Delhi and Gujarat, and women held in brothels and hotels (see Trafficked and held in India) [XI0010, XI0014].",
+  "new_str": "**Trafficking:** kidney removal after people were taken to Delhi (one victim's kidney was removed in Gujarat), and women held in hotels and brothels (see Trafficked and held in India) [XI0001, XI0010, XI0014, XI0067].",
+  "problem": "XI0010 puts the removal in Gujarat only; Delhi needs XI0001; 'brothels' is not in XI0014 (needs XI0067)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "What can get a visa cancelled",
+  "old_str": "Police took him from a protesting crowd to the police station, and an immigration official said his visa was cancelled after consulting the FRRO (Foreigners Regional Registration Office) in Kolkata [XI0030, XI0029].",
+  "new_str": "As the situation grew heated, Mekhliganj police took him to the police station, and an immigration official, quoted by Indian media, said his visa was cancelled after consulting the FRRO (Foreigners Regional Registration Office) in Kolkata [XI0030, XI0029].",
+  "problem": "'protesting crowd' is not in XI0030; XI0029 is an official quoted by Indian media."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "What can get a visa cancelled",
+  "old_str": "**Political campaigning:** in 2019 Bangladeshi actor Ferdous Ahmed, in India on a business visa, joined a Trinamool Congress candidate's campaign in Raiganj;",
+  "new_str": "**Political campaigning:** in 2019 Bangladeshi actor Ferdous Ahmed, in India on a business visa, joined a road show for a candidate of the Trinamool Congress, an Indian political party, in Raiganj, according to media reports;",
+  "problem": "Trinamool Congress not explained at first use; XI0135 is 'according to media reports'."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "Caught on the Bangladesh side",
+  "old_str": "BGB hands people caught crossing to the local police with a case for attempting to cross illegally:",
+  "new_str": "BGB hands people caught crossing to the local police, and a case is filed against them:",
+  "problem": "Lead not true of every case: the Bokchar case (XI0093) is a case, but not stated to be for attempting to cross; lead also uncited."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "Caught on the Bangladesh side",
+  "old_str": "- 21 September 2025: six men from Boail, Khaliajuri, Netrokona, going for Durga Puja, caught before dawn at Chunarughat, Habiganj; the brokers fled [XI0073, XI0074, XI0076].",
+  "new_str": "- 21 September 2025: six men from Boail, Khaliajuri, Netrokona, going for Durga Puja, caught before dawn at Chunarughat, Habiganj; a case was filed against them for attempting to cross illegally [XI0073, XI0074, XI0076].",
+  "problem": "'the brokers fled' is in the article headline only and in no cited fact."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "Caught on the Bangladesh side",
+  "old_str": "- 14 January 2026: three men going to Chennai as masons, and the man accused of sending them, arrested 200 yards inside the zero line at Bokchar,",
+  "new_str": "- 14 January 2026: three men going to Chennai as masons, and the man accused of sending them, arrested 200 yards inside the zero line (the border line itself) at Bokchar,",
+  "problem": "'zero line' not explained at first use."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "Assam: detention camp and Foreigners Tribunals",
+  "old_str": "India's 2019 Citizenship Amendment Act (CAA) eases citizenship for non-Muslims who faced religious persecution in neighbouring Muslim-majority countries and entered before that date [XI0057].",
+  "new_str": "India's 2019 Citizenship Amendment Act (CAA) eases citizenship for non-Muslims who faced religious persecution in neighbouring Muslim-majority countries and entered before that date; the cut-off was later moved to 31 December 2024 (see West Bengal since May 2026) [XI0057, XI0107].",
+  "problem": "Two sections give different CAA cut-offs (2014 here, 2024 under West Bengal) without reconciling them."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "West Bengal since May 2026",
+  "old_str": "**\"Detect, delete, deport\":** state police arrest and detain those not covered and hand them to the BSF, which arranges deportation with Bangladesh's border force [XI0108, XI0103].",
+  "new_str": "**\"Detect, delete, deport\":** state police arrest and detain those not covered and hand them to the BSF, which arranges deportation with Bangladesh's border force, Adhikari said [XI0108, XI0103].",
+  "problem": "Dropped attribution: XI0108/XI0103 are Adhikari's announcement of what would happen."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "Other states",
+  "old_str": "- **Gujarat:** Ahmedabad police said they had identified more than 250 people they said were Bangladeshis living illegally, and expulsion was under way [XI0052, XI0053]. 78 people left by the BSF on a Sundarbans char in May 2025",
+  "new_str": "- **Gujarat:** Ahmedabad police said they had identified more than 250 people they said were Bangladeshis living illegally, and expulsion was under way, a police officer told local media [XI0052, XI0053]. 78 people left by the BSF on a Sundarbans char (a river island) in May 2025",
+  "problem": "'char' not explained at first use; expulsion under way is per local media quoting an officer."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "Other states",
+  "old_str": "West Bengal's government intervened and they were brought back from the border on 15 June [XI0054, XI0055].",
+  "new_str": "West Bengal's government intervened and they were brought back from the border on 15 June, a Trinamool Congress legislator said [XI0054, XI0055].",
+  "problem": "Dropped attribution (XI0055 is a Trinamool legislator's statement)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "Push-ins",
+  "old_str": "- **In no man's land:** people pushed out of Assam on 27 May 2025 said they stood knee-deep in water for 12 hours with no food or shelter; the BSF threatened to shoot them if they turned back and fired rubber bullets [XI0045, XI0059, XI0060].",
+  "new_str": "- **In no man's land:** people pushed out of Assam on 27 May 2025 stood knee-deep in water for 12 hours with no food or shelter; one of them, Ali, said the BSF threatened to shoot them if they tried to go back toward India, and that Indian security personnel fired rubber bullets when they begged not to be pushed [XI0045, XI0059, XI0060].",
+  "problem": "Merges two moments: XI0060's rubber bullets were fired when people begged not to be pushed, by 'Indian security personnel', and both are Ali's account."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "Kidney removal",
+  "old_str": "Masum and 10 to 12 others named in the case were absconding [XI0002, XI0003].",
+  "new_str": "10 to 12 people named in the case, including Masum, were absconding [XI0002, XI0003].",
+  "problem": "XI0003: '...সহ ১০–১২ জন' means 10 to 12 including Masum, not Masum plus 10 to 12 others."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "Women held for sex work",
+  "old_str": "- **Hotels in Jharkhand:** women garment workers in Chattogram were taken to India with offers of higher-paid parlour jobs and kept in hotels, forced into sex work and tortured if they refused, according to the police; one woman and a friend escaped, and her case led to the arrest of Md Tarek (34) on 24 June 2024 [XI0014, XI0017, XI0139].",
+  "new_str": "- **Hotels in Jharkhand:** women garment workers in Chattogram were taken across the Jashore border to hotels in Jharkhand with offers of higher-paid parlour jobs, forced into sex work and tortured if they refused, according to the police; one woman and a friend escaped, and her case led to the arrest of Md Tarek (34) on 24 June 2024 [XI0014, XI0015, XI0017, XI0139].",
+  "problem": "Jharkhand is supported only by XI0015/XI0016, neither cited; XI0017's quote does not name Jharkhand."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "Women held for sex work",
+  "old_str": "Trafficking rings operate in Attapur, Bandlaguda, Chintalmet, Himayatsagar Road and Champapet [XI0072].",
+  "new_str": "Trafficking ring leaders operate in Hyderabad's Attapur, Bandlaguda, Chintalmet, Himayatsagar Road and Champapet, Prothom Alo reported [XI0072].",
+  "problem": "Unattributed and says 'rings' where the source says ring leaders."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "Through a flag meeting or land port",
+  "old_str": "2. **Verification:** BGB checks names and addresses and confirms each person is Bangladeshi [XI0089].",
+  "new_str": "2. **Verification:** the BSF sends BGB the names, and BGB checks them through various means and confirms each person is Bangladeshi [XI0089].",
+  "problem": "'addresses' not in XI0089 (address checks are by Darshana police, XI0083)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "Through a flag meeting or land port",
+  "old_str": "3. **The police station:** BGB hands them to the local police station [XI0083, XI0097].",
+  "new_str": "3. **The police station:** BGB usually hands them to the local police station [XI0083, XI0097, XI0090].",
+  "problem": "Not true of every case: the Phulbari 24 were handed to their families with local people's help (XI0042), listed under step 4."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "Through a flag meeting or land port",
+  "old_str": "   - kept at the union parishad while police tell relatives and help them home (Darshana, Chuadanga, October 2025) [XI0084];",
+  "new_str": "   - kept at the union parishad (the local council office) while police tell relatives and help them home (Darshana, Chuadanga, October 2025) [XI0084];",
+  "problem": "'union parishad' not explained at first use."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/india/doc.md",
+  "section": "How a job reaches you, and who takes a cut",
+  "old_str": "Awami League leaders and others fleeing after August 2024 paid Tk 50,000 to Tk 25-30 lakh a person, according to their families and colleagues [XI0018].",
+  "new_str": "People who left Bangladesh illegally after the fall of the Sheikh Hasina government in August 2024 paid brokers Tk 50,000 to Tk 25-30 lakh a person, according to their families and colleagues [XI0018].",
+  "problem": "'Awami League' not explained at first use and not in XI0018, which says 'several people who left', not specifically Awami League leaders."
+ }
+]

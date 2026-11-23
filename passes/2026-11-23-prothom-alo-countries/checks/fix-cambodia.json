@@ -1,0 +1,9 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/cambodia/doc.md",
+  "section": "The crackdown",
+  "old_str": "said a foreign ring that had taken some Bangladeshis to Cambodia to set up scam centres was now trying, with that ring's help, to set them up in Bangladesh, and that law enforcers were watching it [PC0004].",
+  "new_str": "said a foreign ring had taken some Bangladeshis to Cambodia and set up scam centres there, that with that ring's help they were now trying to set up scam centres in Bangladesh, and that law enforcers were watching them [PC0004].",
+  "problem": "Garbled the quote: the ring cannot be trying 'with that ring's help'; per PC0004 the ring set up the centres in Cambodia, and 'they' (not the ring itself) are trying, with the ring's help, to set them up in Bangladesh. Also implied the Bangladeshis were taken in order to set up the centres."
+ }
+]

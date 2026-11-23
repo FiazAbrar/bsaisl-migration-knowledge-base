@@ -1,0 +1,142 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/italy/doc.md",
+  "section": "Size",
+  "old_str": "after ranking fourth in 2023, IOM's Director General said [PI0050, PI0052, PI0051].",
+  "new_str": "after ranking fourth in 2023, the Director General of IOM (International Organization for Migration, the UN migration agency) said [PI0050, PI0052, PI0051].",
+  "problem": "IOM is first used here (new sentence) but only explained much later, under What goes wrong in Libya."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/italy/doc.md",
+  "section": "The broker and the village",
+  "old_str": "the Italian Ambassador says (a Winrock International project director adds Faridpur, with climate change one cause)",
+  "new_str": "the Italian Ambassador says (the director of a climate-change project run by Winrock International, an international development NGO, adds Faridpur, with climate change one cause)",
+  "problem": "Winrock International is new to the doc and not explained at first use."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/italy/doc.md",
+  "section": "How they borrow",
+  "old_str": "For the Libya route in 2024, a Chuadanga man borrowed from an \"Agun-Pani Samiti\" (a local lending group) at Tk 15,000 a month for each lakh,",
+  "new_str": "For the Libya route in 2024, a Chuadanga man borrowed from an \"Agun-Pani Samiti\" (a local lending group) at Tk 15,000 a month for each lakh to send his son-in-law,",
+  "problem": "PI0097: the borrower was the migrant's father-in-law, borrowing to send his son-in-law; the sentence reads as if the migrant borrowed for himself."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/italy/doc.md",
+  "section": "Irregular routes, and where an irregular stay ends",
+  "old_str": "on 16 June 2026 he was flown to the United Arab Emirates, then taken through North Macedonia and Serbia",
+  "new_str": "on 16 June 2026 he was taken to the United Arab Emirates, then through North Macedonia and Serbia",
+  "problem": "PI0320 says he was 'taken' (নেওয়া হয়) to the UAE; 'flown' is not in the fact."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/italy/doc.md",
+  "section": "Long-term EU permit",
+  "old_str": "and can work in another country only after getting this residence permit; going earlier makes him an irregular worker there [PI0141].",
+  "new_str": "and can work in another country only after getting a residence permit; going earlier makes him an irregular worker there [PI0141].",
+  "problem": "PI0141 speaks of a residence permit in general (আবাসিক অনুমতি); 'this' equates it with the long-term EU permit, which the source does not say."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/italy/doc.md",
+  "section": "How the route works",
+  "old_str": "In 2024 cases the broker was a neighbour home from Italy who promised a high-paid job there (Faridpur),",
+  "new_str": "In 2024 cases the broker was a neighbour, recently home, who promised a high-paid job in Italy (Faridpur),",
+  "problem": "PI0023/source say Mukul Thakur had come home a while earlier, not that he came from Italy (a neighbour later said he was 'now in Italy')."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/italy/doc.md",
+  "section": "How the route works",
+  "old_str": "Brokers promise a big boat or a fishing trawler; in 2024 relatives said one boat built for 30 carried about 70 people and split open, and another carried 52 with eight forced below deck [PI0039, PI0047, PI0007, PI0037].",
+  "new_str": "Brokers promise a big boat or a fishing trawler; relatives of the eight Bangladeshis who died off Tunisia in February 2024 said their boat, built for 30, carried about 70 people and split open, or carried 52 with the eight forced below deck [PI0039, PI0047, PI0007, PI0037].",
+  "problem": "Splits one event into two: PI0007, PI0047 and PI0037 all describe the same 14-15 February 2024 sinking off Tunisia (Deaths at sea treats them as different accounts of one boat)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/italy/doc.md",
+  "section": "What goes wrong in Libya",
+  "old_str": "CID (the police Criminal Investigation Department) filed a case against 34 people on 13 April 2026 over a ring led from Kalia, Narail, that lured people with Italy,",
+  "new_str": "CID (the police Criminal Investigation Department) filed a case against 34 people on 13 April 2026 over a ring that lured people with Italy,",
+  "problem": "'Led from Kalia, Narail' is not in any cited fact (the leaders' homes are in Kalia but the source says one ran the holding in Libya); uncited."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/italy/doc.md",
+  "section": "What goes wrong in Libya",
+  "old_str": "the Cumilla six were handed by their broker to other brokers or a \"mafia\" ring after about eight months, and their families suspect the brokers helped [PI0348, PI0335, PI0334].",
+  "new_str": "the Cumilla six, their families allege, were handed by their broker to other brokers or a \"mafia\" ring after about eight months, and the families suspect the brokers helped [PI0348, PI0335, PI0334].",
+  "problem": "PI0335 is the families' allegation; the sentence states it as fact."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/italy/doc.md",
+  "section": "What goes wrong in Libya",
+  "old_str": "Returns do happen with IOM (International Organization for Migration, the UN migration agency): 144 Bangladeshis came home from Libya on 22 February 2024 and 175 on 26 February 2026 [PI0019, U0101, U0102].",
+  "new_str": "Returns do happen: 144 Bangladeshis came home from Libya on 22 February 2024, and 175 came home with IOM on 26 February 2026 [PI0019, U0101, U0102].",
+  "problem": "PI0019 (and its source) does not mention IOM for the 22 February 2024 return; IOM explanation moves to its first use under Size."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/italy/doc.md",
+  "section": "What goes wrong in Libya",
+  "old_str": "and at Dhaka airport police questioned them and took their details on a Home Ministry form [PI0217, PI0218].",
+  "new_str": "and at Dhaka airport they were questioned and their details taken on a Home Ministry form [PI0217, PI0218].",
+  "problem": "PI0218 and the source do not say police did the questioning (CID made the arrest after it)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/italy/doc.md",
+  "section": "What goes wrong in Libya",
+  "old_str": "He came home in September 2024 after a court case (see If a relative is held for ransom in Libya) [PI0163].",
+  "new_str": "He came home in September 2024 after a court case (see If a relative is held for ransom in Libya) [PI0088, PI0163].",
+  "problem": "The court case is not supported by the only cited fact (PI0163 gives just the return date); PI0088 supports it."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/italy/doc.md",
+  "section": "What goes wrong in Libya",
+  "old_str": "paid Tk 38 lakh in ransom and died in Libya on 24 July 2026 (see Paying to be sent home) [PI0343, PI0349, PI0341, PI0345].",
+  "new_str": "paid Tk 38 lakh in ransom and died in Libya on 24 July 2026 (see the \"Paying to be sent home\" bullet above) [PI0343, PI0349, PI0341, PI0345].",
+  "problem": "Cross-reference names 'Paying to be sent home', which is a bullet label, not a heading."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/italy/doc.md",
+  "section": "What goes wrong in Libya",
+  "old_str": "the family paid Tk 9 lakh through another broker, Golam Mowla, and he has been missing since 13 November 2025 [PI0373, PI0374, PI0375].",
+  "new_str": "the family paid Tk 9 lakh through another broker, Golam Mowla, and the family says he has been missing since 13 November 2025, though the same report dates his boat to 15 November [PI0373, PI0374, PI0375].",
+  "problem": "The doc says he boarded on 15 November (PI0372) and went missing on 13 November (PI0375); the source itself gives both dates. Needs a human decision on how to present it; proposed text keeps both and attributes them."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/italy/doc.md",
+  "section": "What goes wrong in Libya",
+  "old_str": "two men were brought home from Libya on 1 September 2026 (see What goes wrong in Libya):",
+  "new_str": "two men were brought home from Libya on 1 September 2026 (see the return flights above):",
+  "problem": "Cross-reference points to the section it sits in."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/italy/doc.md",
+  "section": "What goes wrong in Libya",
+  "old_str": "- **Muksudpur, Gopalganj, 2026:**",
+  "new_str": "- **Muksudpur, Gopalganj, told to Prothom Alo in July 2026:**",
+  "problem": "No cited fact dates the events to 2026; the woman spoke to Prothom Alo on 15 July 2026 and the source gives no year for the deal or the crossing."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/italy/doc.md",
+  "section": "If a relative is held for ransom in Libya",
+  "old_str": "applied to the Foreign Ministry and the Ministry of Expatriates' Welfare without result,",
+  "new_str": "applied to the Foreign Ministry without result and to the Ministry of Expatriates' Welfare,",
+  "problem": "PI0170 says only the Foreign Ministry application brought no result; PI0091 records the Expatriates' Welfare application without an outcome."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/italy/doc.md",
+  "section": "If a relative is held for ransom in Libya",
+  "old_str": "a local Chhatra League leader,",
+  "new_str": "a local leader of Chhatra League (the Awami League's student wing),",
+  "problem": "Chhatra League is new to the doc and not explained at first use."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/italy/doc.md",
+  "section": "Scams",
+  "old_str": "a neighbour, Mukul Thakur, who had come home from Italy promising their son a high-paid job there;",
+  "new_str": "a neighbour, Mukul Thakur, who had come home a while earlier promising their son a high-paid job in Italy;",
+  "problem": "PI0023/source do not say he came home from Italy."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/italy/doc.md",
+  "section": "Scams",
+  "old_str": "while the broker, back in Italy,",
+  "new_str": "while the broker, now in Italy,",
+  "problem": "PI0025 says he was 'now in Italy'; 'back' implies he came from Italy, which no fact states."
+ }
+]

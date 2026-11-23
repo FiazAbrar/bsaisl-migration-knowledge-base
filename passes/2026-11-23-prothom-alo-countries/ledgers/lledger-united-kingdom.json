@@ -1,0 +1,172 @@
+{
+ "articles": [
+  {
+   "article_id": "9a13cd36-1caf-45c5-9fdf-9e3dda7c9c69",
+   "used": true,
+   "fact_ids": [
+    "XK0070",
+    "XK0071"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "13a9eb22-54ed-4ea5-b566-b2aa2e9164a4",
+   "used": true,
+   "fact_ids": [
+    "XK0085",
+    "XK0086",
+    "XK0087",
+    "XK0088"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "8f2ab9b6-0009-4c47-a20f-b24633f20165",
+   "used": true,
+   "fact_ids": [
+    "XK0089"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "d6ec4ace-2536-4430-b23e-f86829d044fb",
+   "used": true,
+   "fact_ids": [
+    "XK0078",
+    "XK0079",
+    "XK0080",
+    "XK0081",
+    "XK0082",
+    "XK0083",
+    "XK0084"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "3370ddb1-541f-4451-ab36-9ae39a3d9ab5",
+   "used": true,
+   "fact_ids": [
+    "XK0090",
+    "XK0091",
+    "XK0092",
+    "XK0093",
+    "XK0094",
+    "XK0095",
+    "XK0096",
+    "XK0097",
+    "XK0098",
+    "XK0099",
+    "XK0100",
+    "XK0101",
+    "XK0102",
+    "XK0103",
+    "XK0104",
+    "XK0105",
+    "XK0106",
+    "XK0107",
+    "XK0108"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "9c987cae-1898-4a20-9a57-173b1acda71b",
+   "used": true,
+   "fact_ids": [
+    "XK0072",
+    "XK0073",
+    "XK0074",
+    "XK0075",
+    "XK0076",
+    "XK0077"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "8c99b3b7-ce1b-4a5a-8ced-37608b869378",
+   "used": true,
+   "fact_ids": [
+    "XK0109",
+    "XK0110",
+    "XK0111",
+    "XK0112",
+    "XK0113",
+    "XK0146"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "bf57df5d-ce1d-4b43-a2f3-2fd27f742ae5",
+   "used": true,
+   "fact_ids": [
+    "XK0114"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "42fd7834-259c-404a-a59e-be6d0d44a0dd",
+   "used": true,
+   "fact_ids": [
+    "XK0115",
+    "XK0116",
+    "XK0117",
+    "XK0118",
+    "XK0119",
+    "XK0120"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "28c77ae3-4e78-4858-a251-f89bc1e252b8",
+   "used": true,
+   "fact_ids": [
+    "XK0121",
+    "XK0122",
+    "XK0123",
+    "XK0124",
+    "XK0125",
+    "XK0126",
+    "XK0127",
+    "XK0128",
+    "XK0129",
+    "XK0130",
+    "XK0147"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "a9797904-bc07-4e6c-a561-9e4bd3536f70",
+   "used": true,
+   "fact_ids": [
+    "XK0131",
+    "XK0132",
+    "XK0133",
+    "XK0134",
+    "XK0135",
+    "XK0136",
+    "XK0137",
+    "XK0138",
+    "XK0139",
+    "XK0140",
+    "XK0141",
+    "XK0142",
+    "XK0143",
+    "XK0144",
+    "XK0145",
+    "XK0148",
+    "XK0149"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  }
+ ]
+}

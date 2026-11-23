@@ -1,0 +1,198 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "Lebanon: migration guide",
+  "old_str": "IOM is the International Organization for Migration, the UN migration agency, which helped bring Bangladeshis home from Lebanon in 2024 and 2025 [XL0014, XL0038].",
+  "new_str": "IOM is the International Organization for Migration, the UN migration agency, which helped bring Bangladeshis home from Lebanon in 2024 [XL0014, XL0038, XL0044].",
+  "problem": "Cited facts show IOM's role in 2024 only (the 2025 fact XL0049 is cash at the airport, and is not cited here)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "Lebanon: migration guide",
+  "old_str": "A \"kafil\" is the employer who sponsors a worker's stay; the word is used in Lebanon for a domestic worker's employer [XL0054].",
+  "new_str": "\"Kafil\" is the word the Bangladesh Embassy in Beirut used for the employer of Dipali Begum, a Bangladeshi woman worker in Beirut (see Cases) [XL0054].",
+  "problem": "XL0054 supports neither 'sponsors a worker's stay' nor that she was a domestic worker: no source calls Dipali a domestic worker, only a woman worker (nari shromik) whose employer was her kafil."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "In one minute",
+  "old_str": "by the research group's count more than half are women; the reporting shows women working as domestic workers who live in the employer's house (see The size of the community) [XL0017, XL0058, XL0031, XL0054].",
+  "new_str": "by the research group's count more than half are women; the reporting shows one woman who worked there as a domestic worker, and another who lived and moved with her employer's family (see The size of the community) [XL0017, XL0058, XL0031, XL0054, XL0056].",
+  "problem": "Generalises from two cases; Lipi (XL0031) is not said to live in the employer's house, and Dipali (XL0054) is not called a domestic worker in any source."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "In one minute",
+  "old_str": "Lebanon has twice been a war zone for them since 2024.",
+  "new_str": "Lebanon has twice been a war zone for them since 2024 [XL0016, XL0059].",
+  "problem": "Sentence carries no citation."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "In one minute",
+  "old_str": "Many stayed despite the danger because they had spent a lot of money to go and saw no work waiting at home [XL0018].",
+  "new_str": "Many did not want to come home despite the danger, the Foreign Adviser said, because they had spent a lot of money to go and did not know what they would do at home [XL0018].",
+  "problem": "Drops the Foreign Adviser attribution and turns 'did not want to return' / 'did not know what they would do' into 'stayed' / 'saw no work waiting'."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "In one minute",
+  "old_str": "In the 2026 war, a woman domestic worker was killed with her employer's family in Beirut in April",
+  "new_str": "In the 2026 war, a woman worker was killed with her employer and members of his family in Beirut in April",
+  "problem": "No source calls Dipali a domestic worker (only 'nari shromik', woman worker)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "Status",
+  "old_str": "As of the latest reporting (May 2026), Israel was still attacking Lebanon, and Bangladeshi workers there were living in fear; the Middle East war began on 28 February 2026, and the attacks on Lebanon did not stop with the US-Iran ceasefire of 8 April 2026 [XL0059, XL0077, XL0073].",
+  "new_str": "In April 2026 Israel was still attacking Lebanon, and Bangladeshi workers there were living in fear; the Middle East war began on 28 February 2026, and the attacks on Lebanon did not stop with the US-Iran ceasefire of 8 April 2026 [XL0059, XL0077, XL0073]. On 11 May 2026 an Israeli drone strike killed two Bangladeshi workers in south Lebanon [XL0074].",
+  "problem": "XL0059 ('living in fear', attacks continuing) is from a 10 April article, not May; the May evidence is the 11 May strike (XL0074), which was not cited."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "Who works there and where",
+  "old_str": "The reporting shows women working as domestic workers, living in the employer's house [XL0031, XL0054].",
+  "new_str": "The reporting shows a woman who worked as a domestic worker, and a woman worker who lived and moved with her employer's family [XL0031, XL0054, XL0056].",
+  "problem": "Lipi (XL0031) is not said to live in the employer's house; Dipali (XL0054) is not called a domestic worker in any source."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "Who works there and where",
+  "old_str": "Some families live there together, and children are born there (see Family in Lebanon) [XL0024].",
+  "new_str": "One man lived there with his wife, and their son was born there (see Family in Lebanon) [XL0024].",
+  "problem": "Generalises one family (XL0024) to 'some families' and 'children are born there'."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "How a job reaches you, and who takes a cut",
+  "old_str": "The reporting says little about how Lebanon jobs reach workers in Bangladesh. In 2026 a Satkhira man went through a neighbour already working there [XL0083, XL0086].",
+  "new_str": "In 2026 a Satkhira man went to Lebanon through a neighbour, his family said [XL0083, XL0086].",
+  "problem": "First sentence uncited research narration (a gap belongs in Need to know, which follows); 'already working there' is not in the quote (only 'went through neighbour Nahidul'); family attribution dropped."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "How a job reaches you, and who takes a cut",
+  "old_str": "What it also shows is that people spend a lot of money to go, enough that many would not leave in a war for fear of losing it [XL0018].",
+  "new_str": "The Foreign Adviser said in October 2024 that many did not want to come home from the war because they had spent a lot of money to go [XL0018].",
+  "problem": "Drops the Foreign Adviser attribution and adds 'for fear of losing it', which XL0018 does not say."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "What you pay, and what you earn and keep",
+  "old_str": "In 2026 a Satkhira man who went to work in a fruit orchard spent about Tk 12 lakh, most of it borrowed: his father sold a cow, took a loan from an NGO and borrowed from relatives [XL0084, XL0085]. The reporting gives no wage figures.",
+  "new_str": "In 2026 a Satkhira man who went to work in a fruit orchard spent about Tk 12 lakh, most of it borrowed, his family said: his father sold a cow, took a loan from an NGO and borrowed from relatives [XL0083, XL0084, XL0085].",
+  "problem": "Orchard job uncited (XL0083); family attribution dropped; 'The reporting gives no wage figures' is uncited research narration (the Need to know covers it)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "What ties you to the employer",
+  "old_str": "A domestic worker's employer is her kafil, and in the reporting she lives in the kafil's house and moves with the family: in 2026 one woman fled the war with her employer's family from Tyre to Beirut, where she, her employer and members of his family were killed in an air strike on his house [XL0054, XL0056].",
+  "new_str": "In 2026 one woman worker moved with her employer's (kafil's) family from the Tyre area to Beirut to escape the war, where she, her employer and members of his family were killed in an air strike on his house [XL0054, XL0056].",
+  "problem": "Generalises one case into a rule for domestic workers; no source calls her a domestic worker."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "What ties you to the employer",
+  "old_str": "Losing legal status is common among those who leave: about 90% of those who registered to leave in 2024 had become irregular, and leaving then needed an exit pass that carries a fine (see Without valid papers) [XL0022].",
+  "new_str": "About 90% of those who registered to leave in 2024 had become irregular, the Foreign Adviser said, and to leave they needed an exit pass that carries a fine (see Without valid papers) [XL0022].",
+  "problem": "'Losing legal status is common among those who leave' is the writer's generalisation; Foreign Adviser attribution dropped."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "War",
+  "old_str": "and some ended up living by the sea in the open, the Expatriates' Welfare Adviser said, relaying returnees' accounts [XL0033].",
+  "new_str": "and were living in inhuman conditions by the sea, returnees told the Expatriates' Welfare Adviser [XL0033].",
+  "problem": "XL0033 says 'inhuman conditions by the sea', not 'in the open', and it is the returnees' account to the Adviser, not the Adviser speaking."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "Work visa: domestic worker",
+  "old_str": "More than half of the Bangladeshi workers in Lebanon are women, by RMMRU's count, and women work there as domestic workers living in the employer's house (see Who works there and where) [XL0058, XL0031, XL0054]. It gives no steps for getting the job or the visa.",
+  "new_str": "More than half of the Bangladeshi workers in Lebanon are women, by RMMRU's count, and the reporting shows one woman who worked there as a domestic worker (see Who works there and where) [XL0058, XL0031].",
+  "problem": "Generalisation not supported (XL0054 does not call Dipali a domestic worker; XL0031 does not say Lipi lived in the employer's house); 'It gives no steps' is uncited, with an unclear 'It'."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "Without valid papers",
+  "old_str": "About 90% of the Bangladeshis who registered to leave Lebanon in October 2024 had become irregular; to leave, they needed an exit pass, which carries a fine, and the government said it was arranging to have the fine waived [XL0022].",
+  "new_str": "About 90% of the Bangladeshis who registered to leave Lebanon in October 2024 had become irregular, the Foreign Adviser said; to leave, they needed an exit pass, which carries a fine, and he said the government was arranging to have the fine waived [XL0022].",
+  "problem": "The 90% figure is the Foreign Adviser's statement; attribution dropped."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "Leaving during a war: the 2024 evacuation",
+  "old_str": "When Israel's 2024 attacks began, the Bangladesh government flew home, free of charge, everyone who registered and wanted to return, with IOM's help [XL0025, XL0048].",
+  "new_str": "When Israel's 2024 attacks began, the Bangladesh government said it would bring home everyone who wanted to return and bear the cost, and it paid the repatriation costs, with IOM's help [XL0025, XL0048, XL0038].",
+  "problem": "XL0025 is a promise, not an outcome; about 1,800 registered but 1,246 came home by January 2025, so 'flew home everyone who registered' is unsupported. IOM partnership needs XL0038."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "Step 3: The flight",
+  "old_str": "1. Beirut's airport was not safe for flights at first, and the government advised Bangladeshis to look for places outside the war zone [XL0015].",
+  "new_str": "1. In early October 2024 Beirut's airport was not safe for flights, the Foreign Adviser said, and the government had advised looking for alternative places outside the war zone from which to evacuate Bangladeshis [XL0015].",
+  "problem": "Misreads XL0015: the advice was to find alternative evacuation points outside the war zone, not advice to Bangladeshis to move; attribution dropped."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "Step 3: The flight",
+  "old_str": "2. No more than about 50 seats a day were available from Beirut; the government considered taking people by sea to Mersin in Turkey and flying them on [XL0021, XL0020].",
+  "new_str": "2. No more than about 50 seats a day were available from Beirut, the Foreign Adviser said, so the government considered taking people by sea to Mersin in Turkey and flying them on [XL0021, XL0020].",
+  "problem": "Foreign Adviser attribution dropped."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "Step 4: At Dhaka airport",
+  "old_str": "1. Officials from the Ministry of Foreign Affairs, the Ministry of Expatriates' Welfare and IOM met the returnees [XL0046, XL0049].",
+  "new_str": "1. Officials from the Ministry of Foreign Affairs, the Ministry of Expatriates' Welfare and IOM met the returnees at the airport [XL0089].",
+  "problem": "HUMAN: the cited facts' claims and quotes do not say this (XL0046 is the 5 Dec flight, XL0049 is the Tk 5,000). The saved sources do (pa-2024-12-06-zqws7xgf68.md: 'পররাষ্ট্র মন্ত্রণালয়ের কর্মকর্তা, প্রবাসীকল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয় এবং আইওএম প্রতিনিধিরা বিমানবন্দরে প্রবাসীদের স্বাগত জানান'; pa-2025-01-18-8s0qw09gzs.md similar). Log a new fact with that quote and cite it; text unchanged."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "Sending money home",
+  "old_str": "Some workers send money through a shop: a domestic worker's family learned of her death from the owner of the shop she sent money through [XL0057].",
+  "new_str": "One woman worker sent money home through a shop: her family learned of her death from the shop's owner, who phoned them [XL0057].",
+  "problem": "Generalises one case to 'some workers'; no source calls Dipali a domestic worker."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "Bringing the body home",
+  "old_str": "In November 2024 the embassy told a killed man's wife in Lebanon that his body could not be sent to Bangladesh because there were no flights during the war [XL0043].",
+  "new_str": "In November 2024 a killed man's wife in Lebanon was told that his body could not be sent to Bangladesh because there were no flights during the war, diplomatic sources said [XL0043].",
+  "problem": "XL0043 does not say the embassy told her (passive 'she was told'); 'diplomatic sources said' attribution dropped."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "Bringing the body home",
+  "old_str": "2. In Faridpur, her home district, the family were told by officials to come and apply; her sister applied to the Foreign Minister and to the Faridpur Probashi Kallyan Centre, the government's migrant welfare office in the district [XL0061, XL0062].",
+  "new_str": "2. Her sister said officials told the family to come to Faridpur, their home district, and apply; she said she would apply to the Foreign Minister and to the Faridpur Probashi Kallyan Centre, the government's migrant welfare office in the district [XL0061, XL0062].",
+  "problem": "XL0062 says she would apply that Sunday, not that she applied; the officials' instruction is the sister's account (attribution dropped)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "Bringing the body home",
+  "old_str": "> - Who pays to fly a body home from Lebanon, and what does the employer, the embassy or the Wage Earners' Welfare Board each cover?",
+  "new_str": "> - Who pays to fly a body home from Lebanon, and what does the employer, the embassy or the Wage Earners' Welfare Board (the Bangladesh government board that runs welfare services for migrant workers and their families) each cover?",
+  "problem": "Wage Earners' Welfare Board not explained at first use."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "Cases",
+  "old_str": "- **8 April 2026:** Dipali Begum, 34, of Charbhadrasan, Faridpur, a domestic worker, killed",
+  "new_str": "- **8 April 2026:** Dipali Begum, 34, of Charbhadrasan, Faridpur, a woman worker, killed",
+  "problem": "No source calls Dipali a domestic worker; all say 'nari shromik' (woman worker)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "Cases",
+  "old_str": "killed by an Israeli drone strike on their residence in the Zebdine area",
+  "new_str": "killed by an Israeli drone strike on a residence in the Zebdine area",
+  "problem": "XL0074 says 'a residence', not theirs."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/lebanon/doc.md",
+  "section": "Bangladesh Embassy in Beirut",
+  "old_str": "handled the papers to send bodies home;",
+  "new_str": "handled the papers to send a body home in 2026;",
+  "problem": "Only one body (Dipali's, XL0068) is reported; 'bodies' overstates."
+ }
+]

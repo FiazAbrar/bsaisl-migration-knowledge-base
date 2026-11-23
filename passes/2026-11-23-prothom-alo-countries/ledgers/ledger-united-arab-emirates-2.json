@@ -1,0 +1,260 @@
+{
+ "articles": [
+  {
+   "article_id": "6fa7d231-571b-4cac-bf09-3e97eff252cb",
+   "used": true,
+   "fact_ids": [
+    "PU0075"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "ed2032b5-7cf4-4336-8c36-99695c4f9ac8",
+   "used": true,
+   "fact_ids": [
+    "PU0076",
+    "PU0077",
+    "PU0078",
+    "PU0079"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "86ad9692-4c72-4d07-a83b-786447bc420d",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "LDC-graduation interview; only UAE mention is gold imports and money laundering via Dubai, no fact usable by migrants",
+   "held_for_global": []
+  },
+  {
+   "article_id": "30da692a-aca1-461e-93e2-83b99dc665ca",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Opinion column; its UAE fact (protesters arrested and later freed) duplicates PU0103/N0035; general fact held for global",
+   "held_for_global": [
+    {
+     "claim": "A columnist wrote (March 2025) that 19,387 Bangladeshis came home dead from abroad from 2019 to 2023",
+     "quote": "২০১৯ থেকে ২০২৩ সাল পর্যন্ত প্রবাসে থেকে লাশ হয়ে ফিরেছেন ১৯ হাজার ৩৮৭ জন।",
+     "suggested_module": "other: corridor numbers (deaths abroad)"
+    }
+   ]
+  },
+  {
+   "article_id": "a8a54eb1-2908-4c7a-b458-0e089de8f358",
+   "used": true,
+   "fact_ids": [
+    "PU0080",
+    "PU0081",
+    "PU0082",
+    "PU0083",
+    "PU0084"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "26642b24-c12d-4785-be3c-79d7d5965ade",
+   "used": true,
+   "fact_ids": [
+    "PU0085",
+    "PU0086",
+    "PU0087",
+    "PU0088",
+    "PU0089",
+    "PU0090",
+    "PU0091",
+    "PU0092",
+    "PU0093",
+    "PU0094",
+    "PU0095"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "0965af38-7628-40af-abe1-13b47c8a8010",
+   "used": true,
+   "fact_ids": [
+    "PU0096",
+    "PU0097",
+    "PU0098",
+    "PU0099",
+    "PU0100"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "9846f8ef-cee4-4af5-a27a-3fd026286d87",
+   "used": true,
+   "fact_ids": [
+    "PU0101",
+    "PU0102"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "768aa7ca-755a-4867-ba9a-19ca0ba6bca0",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Community event notice (Khulna association workshop in Sharjah); no usable fact",
+   "held_for_global": []
+  },
+  {
+   "article_id": "f5fd222b-27cc-48d9-a9f5-ee1e2229ce78",
+   "used": true,
+   "fact_ids": [
+    "PU0103",
+    "PU0104",
+    "PU0105",
+    "PU0106",
+    "PU0107",
+    "PU0108",
+    "PU0109",
+    "PU0110"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "45d3991c-3e6b-4ebc-a045-a35dccbba4a0",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Lottery win by a Sharjah taxi driver; no usable fact for migrants",
+   "held_for_global": []
+  },
+  {
+   "article_id": "6007107d-5775-47dc-b7f6-27a94976ce19",
+   "used": true,
+   "fact_ids": [
+    "PU0111",
+    "PU0112",
+    "PU0113",
+    "PU0114"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "fda3847d-f8ea-4da2-a8da-40c1cbbef254",
+   "used": true,
+   "fact_ids": [
+    "PU0115",
+    "PU0116",
+    "PU0117"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "4842bf90-b294-474a-bea2-713d574ec67d",
+   "used": true,
+   "fact_ids": [
+    "PU0118",
+    "PU0119",
+    "PU0120",
+    "PU0121",
+    "PU0122",
+    "PU0123"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "In a crisis, Bangladesh missions in the Gulf told migrants to keep cash, passport, local ID, health card or insurance, medicines, charger, power bank, dry food and water with them at all times (February 2026)",
+     "quote": "একই সঙ্গে নগদ টাকা, পাসপোর্ট, স্থানীয় আইডি কার্ড, স্বাস্থ্য কার্ড বা হেলথ ইনস্যুরেন্স, প্রয়োজনীয় ওষুধ, মোবাইল চার্জার, পাওয়ার ব্যাংক, শুকনো খাবার ও পানি সব সময় সঙ্গে রাখার পরামর্শ দেওয়া হয়েছে।",
+     "suggested_module": "other: crisis and war advice (all Gulf countries)"
+    }
+   ]
+  },
+  {
+   "article_id": "bd1e5e7d-677d-4f2d-862c-98251b410b5a",
+   "used": true,
+   "fact_ids": [
+    "PU0124",
+    "PU0125"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "4ec5b307-5cb6-4bc4-b323-0fa1c5464e53",
+   "used": true,
+   "fact_ids": [
+    "PU0126",
+    "PU0127",
+    "PU0128",
+    "PU0129"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "5eb26f61-e4f2-4cd3-bccc-c5b84f7606a7",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "About a Bangladeshi killed in Bahrain; not about this country",
+   "held_for_global": []
+  },
+  {
+   "article_id": "63d404dc-8287-477f-8644-b9cc9e475757",
+   "used": true,
+   "fact_ids": [
+    "PU0130",
+    "PU0131"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "About 102 Dhaka-Middle East flights were cancelled in three days in early March 2026 because of the Iran war",
+     "quote": "মধ্যপ্রাচ্যে সংঘাত পরিস্থিতির কারণে তিন দিনে ঢাকা থেকে মধ্যপ্রাচ্যগামী প্রায় ১০২টি ফ্লাইট বাতিল হয়েছে।",
+     "suggested_module": "departure"
+    }
+   ]
+  },
+  {
+   "article_id": "35515a1c-dfcd-4eed-be1f-dbdd5cba9b1b",
+   "used": true,
+   "fact_ids": [
+    "PU0132",
+    "PU0133",
+    "PU0134",
+    "PU0135",
+    "PU0136"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [],
+   "note": "PU0136 (ship Banglar Joyjatra stuck at Jebel Ali) logged but not cited: no bearing on workers"
+  },
+  {
+   "article_id": "da1af350-b3ed-45ed-ab35-0de082e3d205",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "About a Bangladeshi killed in Bahrain; not about this country",
+   "held_for_global": []
+  },
+  {
+   "article_id": "ab6887e0-51f0-45eb-a3bc-63e662894319",
+   "used": true,
+   "fact_ids": [
+    "PU0137",
+    "PU0138",
+    "PU0139",
+    "PU0140",
+    "PU0141",
+    "PU0142",
+    "PU0143"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "In March 2026 the ministry's senior secretary said information on people whose Middle East flights were cancelled was being taken through hotline 16135",
+     "quote": "ইতিমধ্যে যাঁদের ফ্লাইট বাতিল হয়েছে, তাঁদের বিষয়ে হটলাইন ১৬১৩৫–এর মাধ্যমে তথ্য নেওয়া হচ্ছে।",
+     "suggested_module": "departure"
+    }
+   ]
+  }
+ ]
+}

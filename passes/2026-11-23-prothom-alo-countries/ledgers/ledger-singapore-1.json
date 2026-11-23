@@ -1,0 +1,173 @@
+{
+ "articles": [
+  {
+   "article_id": "bfbe663d-97a3-4c51-a497-e44efa05a04d",
+   "used": true,
+   "fact_ids": [
+    "PS0001",
+    "PS0002"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  },
+  {
+   "article_id": "37c84e60-7d25-4ef6-8668-44dc296bb249",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: a Taiwan-based researcher's tourist travelogue (conference visit); nothing on workers beyond Bangladeshi restaurants near Little India",
+   "held_for_global": []
+  },
+  {
+   "article_id": "11ed80e4-3e70-42c0-b7e8-6ab62072002f",
+   "used": true,
+   "fact_ids": [
+    "PS0003",
+    "PS0004",
+    "PS0005",
+    "PS0006",
+    "PS0007",
+    "PS0008",
+    "PS0009"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": [
+    {
+     "claim": "Go Zayan founder Ridwan Hafiz said migrants buy 60% of the tickets on Bangladesh's international flights",
+     "quote": "দেশের আন্তর্জাতিক ফ্লাইটের ৬০ শতাংশের টিকিটই প্রবাসীরা কেনেন।",
+     "suggested_module": "other: travel and tickets"
+    },
+    {
+     "claim": "Go Zayan's own research found 32% of migrant workers had been cheated at least once when buying air tickets, and they often pay 20% above the market price",
+     "quote": "তাঁদের গবেষণায় দেখা গেছে, ৩২ শতাংশ অভিবাসী শ্রমিক টিকিট কাটার ক্ষেত্রে কমপক্ষে একবার প্রতারণার শিকার হয়েছেন এবং প্রায়ই তাঁরা বাজারমূল্যের চেয়ে ২০ শতাংশ বেশি পরিশোধ করেন টিকিটের জন্য।",
+     "suggested_module": "scams"
+    }
+   ]
+  },
+  {
+   "article_id": "a2b247ac-50f9-40ec-b36c-6fa34955a805",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: profile of a Singapore-based migrant poet and singer",
+   "held_for_global": []
+  },
+  {
+   "article_id": "b7d643ab-f2aa-4f11-bcbd-0826ba80001e",
+   "used": true,
+   "fact_ids": [
+    "PS0010",
+    "PS0011",
+    "PS0012",
+    "PS0013",
+    "PS0014",
+    "PS0015",
+    "PS0016",
+    "PS0017",
+    "PS0018",
+    "PS0019",
+    "PS0020",
+    "PS0021",
+    "PS0022"
+   ],
+   "reason_if_unused": "PS0018 (CEO opinion) logged but not cited; PS0022 departures conflict with BMET C0001/C0002, logged and noted in notes.md, BMET figures kept",
+   "held_for_global": []
+  },
+  {
+   "article_id": "d567ffb7-be7d-41e2-8a76-b7e1ebc69d36",
+   "used": true,
+   "fact_ids": [
+    "PS0023"
+   ],
+   "reason_if_unused": "only the Singapore part (2015 loan and land mortgage) used; the rest is about Russia",
+   "held_for_global": [
+    {
+     "claim": "According to his family, Abdur Rahim (30) of Fulbaria, Mymensingh, a former Singapore welder, went to Russia on 7 December 2024 after spending about Tk 5 lakh, believing he would work as a welder",
+     "quote": "দেশে ফিরে কিছুদিন থাকার পর ২০২৪ সালের ৭ ডিসেম্বর প্রায় পাঁচ লাখ টাকা খরচ করে রাশিয়ায় যান। পরিবার জানত, সেখানেও তিনি ওয়েল্ডিংয়ের কাজ করছেন।",
+     "suggested_module": "illegal-routes"
+    },
+    {
+     "claim": "His family said that three months before his death he took Tk 3 lakh more from them saying he had a new power-plant job; he was in fact in Russian army training, joined on 1 May after a month's training and was killed by a drone the next day on his first day in the Ukraine war",
+     "quote": "তিন মাস আগে বিদ্যুৎকেন্দ্রে নতুন চাকরির কথা বলে পরিবারের কাছ থেকে আরও তিন লাখ টাকা নেন। পরে জানা যায়, তিনি রুশ সেনাবাহিনীর প্রশিক্ষণে ছিলেন। এক মাসের প্রশিক্ষণ শেষে ১ মে কাজে যোগ দেন। পরদিন ইউক্রেন যুদ্ধে অংশ নিতে গিয়ে প্রথম দিনেই ড্রোন হামলায় নিহত হন।",
+     "suggested_module": "illegal-routes"
+    },
+    {
+     "claim": "His mother said a broker took him from a welding job into the army and had told the family he had a power-plant job; she wants the broker tried and the body returned",
+     "quote": "আমার ছেলে ওয়েল্ডিংয়ের কাজে গেছে। পরে এক দালাল তারে সেনাবাহিনীতে নিছে।",
+     "suggested_module": "illegal-routes"
+    },
+    {
+     "claim": "His brother said Rahim had told them the new company would pay Tk 2 lakh a month, and he had sent Tk 1 lakh 40 thousand the previous month",
+     "quote": "নতুন কোম্পানিতে গেলে মাসে দুই লাখ টাকা বেতন দিবে বলছিল। গত মাসে ১ লাখ ৪০ হাজার টাকাও পাঠাইছিল।",
+     "suggested_module": "illegal-routes"
+    },
+    {
+     "claim": "Local MP Kamrul Hasan said there is a process for bringing the body home and the family had been told to apply under it",
+     "quote": "মরদেহ দেশে আনার একটি প্রক্রিয়া আছে। পরিবারকে এ অনুযায়ী আবেদন করতে বলা হয়েছে।",
+     "suggested_module": "other: deaths abroad"
+    }
+   ]
+  },
+  {
+   "article_id": "ab18a06a-4348-4c52-b88f-ca2ffd15af5d",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: award to a Bangladeshi MWC volunteer; MWC already in the doc (Help organisations)",
+   "held_for_global": []
+  },
+  {
+   "article_id": "b34f3f8d-e1ab-4760-9c7b-88e028183467",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: May Day cultural show by the group Migrant Workers Singapore; mentions a catering-food campaign and a silence for lorry-accident deaths without details",
+   "held_for_global": []
+  },
+  {
+   "article_id": "70aa057b-c2dc-4872-9304-16a364927856",
+   "used": true,
+   "fact_ids": [
+    "PS0024",
+    "PS0025",
+    "PS0026",
+    "PS0027",
+    "PS0028",
+    "PS0029",
+    "PS0030",
+    "PS0031",
+    "PS0032",
+    "PS0033",
+    "PS0034"
+   ],
+   "reason_if_unused": "2015 case already in doc as C0180; July 2026 repatriation already C0198/C0199",
+   "held_for_global": []
+  },
+  {
+   "article_id": "026e94f0-d932-4cb8-8c96-f4bb8ad92cfe",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: a migrant singer invited to Singapore's National Day",
+   "held_for_global": []
+  },
+  {
+   "article_id": "c7c30e55-edfc-4d84-8f96-f44e389ff238",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: arts festival; a short film's warning about online scams and poor catering food gives no case or detail",
+   "held_for_global": []
+  },
+  {
+   "article_id": "23228eee-dad0-4ae9-bae5-6d3798eeb074",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "no usable fact: Singapore Silent Heroes award to Bangladeshi volunteers",
+   "held_for_global": []
+  },
+  {
+   "article_id": "5be56dfc-8d21-4c53-975b-add07bbaa28f",
+   "used": true,
+   "fact_ids": [
+    "PS0035"
+   ],
+   "reason_if_unused": "",
+   "held_for_global": []
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/qatar/doc.md",
+  "section": "Step 1: Get a passport or Travel Permit",
+  "old_str": "and said more staff had been approved and passports would be delivered to people who submit correct papers, without a visit to the mission [PQ0001, PQ0002].",
+  "new_str": "and said a decision had been taken to add staff and that the aim was for passports to reach people who submit the right papers, without a visit to the mission [PQ0001, PQ0002].",
+  "problem": "PQ0002 is a stated aim ('we have to do something digitalised'), not a promise that passports would be delivered; the sentence presented it as settled."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/qatar/doc.md",
+  "section": "Where it may grow",
+  "old_str": "Bangladesh's minister said he hoped Qatar would take double the 107,598 Bangladeshi workers he cited for a past year,",
+  "new_str": "Bangladesh's minister cited 107,598 Bangladeshi workers going to Qatar in a past year and said he hoped Qatar would take double that this year,",
+  "problem": "Dropped the time frame from PQ0017: the minister hoped for double 'this year' (2026)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-countries/countries/qatar/doc.md",
+  "section": "Step 4: Qatar Visa Center: contract, fingerprints and medical",
+  "old_str": "and Qatar's Labour Minister said he would personally ask Qatar's Interior Minister to do it [M0063, PQ0020].",
+  "new_str": "and Qatar's Labour Minister said he would personally ask Qatar's Interior Minister to act on the visa-centre request [M0063, PQ0020].",
+  "problem": "PQ0020: the Labour Minister's reply was to the request for more visa centres in divisional cities; 'to do it' extended his promise to medical centres too."
+ }
+]

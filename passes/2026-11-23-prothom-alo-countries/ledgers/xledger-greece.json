@@ -1,0 +1,242 @@
+{
+ "articles": [
+  {
+   "article_id": "4adb55e5-8a49-4746-b429-c4025189bf11",
+   "used": true,
+   "fact_ids": [
+    "XG0001",
+    "XG0002",
+    "XG0003",
+    "XG0004",
+    "XG0005",
+    "XG0006",
+    "XG0007",
+    "XG0008",
+    "XG0009",
+    "XG0010",
+    "XG0011",
+    "XG0012"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "564ec4df-c655-4770-89ba-7cbb79a8fbee",
+   "used": true,
+   "fact_ids": [
+    "XG0013",
+    "XG0014",
+    "XG0015"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "1256bd62-79d1-4ba7-b012-50c5caf5b9bd",
+   "used": true,
+   "fact_ids": [
+    "XG0016",
+    "XG0017",
+    "XG0018",
+    "XG0019"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "080f76bb-b58c-41fd-85fa-ae2f49bf6346",
+   "used": true,
+   "fact_ids": [
+    "XG0020",
+    "XG0021",
+    "XG0022",
+    "XG0023",
+    "XG0024",
+    "XG0025",
+    "XG0026"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "90ad8557-ae33-4ce6-b5a2-334dfcf475e1",
+   "used": true,
+   "fact_ids": [
+    "XG0027",
+    "XG0028",
+    "XG0029",
+    "XG0030",
+    "XG0031"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "feb3e082-ca06-4dd2-ae1b-d6749e3b9d39",
+   "used": true,
+   "fact_ids": [
+    "XG0032",
+    "XG0033",
+    "XG0034",
+    "XG0035",
+    "XG0036",
+    "XG0037",
+    "XG0038",
+    "XG0039"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "675621ce-7c74-4627-b5c1-a403736119f1",
+   "used": true,
+   "fact_ids": [
+    "XG0040",
+    "XG0041",
+    "XG0042",
+    "XG0043"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "6e4e8399-67fa-486e-a3f8-586431207fd9",
+   "used": false,
+   "fact_ids": [],
+   "reason_if_unused": "Three-sentence summary repeating 675621ce (same day, same Derai deaths); every fact is logged from the fuller article.",
+   "held": []
+  },
+  {
+   "article_id": "3a22f5d6-56ee-49e8-853b-4b40426a219d",
+   "used": true,
+   "fact_ids": [
+    "XG0044",
+    "XG0045"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "24e5fc1c-0084-4bdd-8224-125f091ba1dd",
+   "used": true,
+   "fact_ids": [
+    "XG0046",
+    "XG0047",
+    "XG0048",
+    "XG0049"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "97ca2aaa-c801-45c8-b1f5-54833b53af6a",
+   "used": true,
+   "fact_ids": [
+    "XG0050",
+    "XG0051",
+    "XG0052",
+    "XG0053",
+    "XG0054",
+    "XG0055",
+    "XG0056"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/illegal-routes",
+     "claim": "Shayek Ahmad reached Libya through Saudi Arabia, Kuwait and other countries on the way to the Libya-Greece boat.",
+     "quote": "তাঁর ছেলে শায়েক এলাকার আরও কয়েকজনের সঙ্গে এলাকার দালাল আজিজুল ইসলামের মাধ্যমে গ্রিসে যেতে চার মাস আগে বাড়ি ছাড়েন। এ জন্য প্রথমে দালালকে সাড়ে চার লাখ টাকা দেন তিনি। এরপর সৌদি আরব, কুয়েতসহ আরও কয়েক দেশ ঘুরে লিবিয়া পৌঁছান।"
+    }
+   ]
+  },
+  {
+   "article_id": "cd7fd233-c1d8-4a23-bea2-46a0e7527166",
+   "used": true,
+   "fact_ids": [
+    "XG0057",
+    "XG0058",
+    "XG0059",
+    "XG0060",
+    "XG0061",
+    "XG0062",
+    "XG0063",
+    "XG0064",
+    "XG0065",
+    "XG0086"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/dalal-scams",
+     "claim": "After the March 2026 Libya-Greece deaths, two fathers filed two cases against 9 brokers at Jagannathpur and Derai police stations; some accused are in Libya, Greece and Italy.",
+     "quote": "সুনামগঞ্জের দুটি থানায় ৯ দালালের বিরুদ্ধে দুটি মামলা হয়েছে। জগন্নাথপুর থানায় পাঁচজন এবং দিরাই থানার মামলায় আসামি আছেন চারজন। ভূমধ্যসাগরে মারা যাওয়া দুই তরুণের বাবা সোমবার রাতে এই দুটি মামলা করেছেন। আসামিদের মধ্যে কেউ কেউ লিবিয়া, গ্রিস ও ইতালিতে আছেন।"
+    }
+   ]
+  },
+  {
+   "article_id": "9f57b690-d263-498f-82d4-f6932b371c29",
+   "used": true,
+   "fact_ids": [
+    "XG0066",
+    "XG0067",
+    "XG0068"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "8936dac3-baa8-4a26-af7d-61172b7509ef",
+   "used": true,
+   "fact_ids": [
+    "XG0069",
+    "XG0070",
+    "XG0071",
+    "XG0072"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "76280fc0-828d-47a6-ac92-6e63ab1334e9",
+   "used": true,
+   "fact_ids": [
+    "XG0073",
+    "XG0074",
+    "XG0075",
+    "XG0076",
+    "XG0077",
+    "XG0078"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "8b9f437b-0356-49e7-8437-595e0d4e5a09",
+   "used": true,
+   "fact_ids": [
+    "XG0079",
+    "XG0080",
+    "XG0081",
+    "XG0082",
+    "XG0083",
+    "XG0084",
+    "XG0085",
+    "XG0087",
+    "XG0088"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/illegal-routes",
+     "claim": "On 31 October 2026 seven young men from Madhabpur and Lakhai, Habiganj, left Libya for Greece on an inflatable rubber boat with about 50 passengers; it sank mid-sea, one survived and six were missing (add to the Deaths list).",
+     "quote": "গত ৩১ অক্টোবর দালালদের মাধ্যমে লিবিয়া থেকে বাতাসে ফোলানো রাবারের নৌকায় গ্রিসের উদ্দেশে যাত্রা করেন মাধবপুর ও লাখাই উপজেলার সাত তরুণ। ওই নৌকায় অর্ধশত যাত্রী ছিলেন।"
+    },
+    {
+     "target": "global/illegal-routes",
+     "claim": "The Madhabpur UNO said families of missing migrants must apply formally to the relevant ministry, after which a search can be arranged abroad through the foreign ministry and the embassy.",
+     "quote": "নিখোঁজ যুবকদের সন্ধান পেতে ভুক্তভোগী পরিবারগুলোকে যথাযথ প্রক্রিয়ায় সরকারের সংশ্লিষ্ট মন্ত্রণালয়ে আবেদন করতে হবে। আনুষ্ঠানিক আবেদন পেলে পররাষ্ট্র মন্ত্রণালয় ও দূতাবাসের মাধ্যমে আন্তর্জাতিক পর্যায়ে তাঁদের খোঁজ নেওয়ার ব্যবস্থা করা সম্ভব হবে।"
+    }
+   ]
+  }
+ ]
+}

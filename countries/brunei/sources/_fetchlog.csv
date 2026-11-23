@@ -266,3 +266,7 @@ aiti-sim-cop-2024,https://aiti.gov.bn/media/o0xl2j4x/cop_mobileprepaidsimcardreg
 dst-easi-prepaid,https://dst.com.bn/easi/,2026-11-19,200,text/html; charset=UTF-8,curl,dst-easi-prepaid.html;dst-easi-prepaid.md;dst-easi-prepaid.txt
 bibd-general-saver,https://bibd.com.bn/personal-banking/accounts/general-saver/,2026-11-19,200,text/html; charset=UTF-8,wayback:20260610113619,bibd-general-saver.html;bibd-general-saver.md;bibd-general-saver.txt
 pwc-brunei-other-taxes,https://taxsummaries.pwc.com/brunei-darussalam/individual/other-taxes,2026-11-19,200,text/html; charset=utf-8,curl,pwc-brunei-other-taxes.html;pwc-brunei-other-taxes.md;pwc-brunei-other-taxes.txt
+pa-2024-11-09-qibca7l1a3,https://www.prothomalo.com/chakri/employment/qibca7l1a3,2026-11-23,200,,manual,pa-2024-11-09-qibca7l1a3.md
+pa-2026-05-12-0l5y75n79o,https://www.prothomalo.com/chakri/employment/0l5y75n79o,2026-11-23,200,,manual,pa-2026-05-12-0l5y75n79o.md
+pa-2026-08-20-nysycytzq5,https://www.prothomalo.com/chakri/employment/nysycytzq5,2026-11-23,200,,manual,pa-2026-08-20-nysycytzq5.md
+pa-2026-09-23-0p4d6pc6vl,https://www.prothomalo.com/chakri/employment/0p4d6pc6vl,2026-11-23,200,,manual,pa-2026-09-23-0p4d6pc6vl.md

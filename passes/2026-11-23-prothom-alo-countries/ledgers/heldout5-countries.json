@@ -1,0 +1,8 @@
+[
+ {"held_id": "R5-united-arab-emirates-1", "outcome": "added", "fact_ids": ["PU0186"], "note": "Tourist visa, Status paragraph: May 2026 update after the Sept 2024 PU0046 line (same fact, newer date). Source is a 28 May 2026 Prothom Alo news article quoting five regular travellers, not a 2024 guide."},
+ {"held_id": "R5-cambodia-1", "outcome": "added", "fact_ids": ["PC0008"], "note": "Visit visa: new 'Status for Bangladeshi tourists' line before the existing Need to know on whether the T e-visa is open; Need to know kept because a traveller report does not settle it officially."},
+ {"held_id": "R5-india-1", "outcome": "added", "fact_ids": ["XI0142"], "note": "Short-stay visas, Who gets a visa now: May 2026 update after the Dec 2024 XI0141 line."},
+ {"held_id": "R5-malaysia-1", "outcome": "added", "fact_ids": ["MP0780"], "note": "Tourist visa (social visit), opening paragraph. Attributed to tourism-sector people, May 2026."},
+ {"held_id": "R5-singapore-1", "outcome": "added", "fact_ids": ["PS0042"], "note": "Visit visa (tourism, family and friends), opening paragraph. Attributed to tourism-sector people, May 2026."},
+ {"held_id": "R5-maldives-1", "outcome": "added", "fact_ids": ["PM0011"], "note": "Tourist visa, 'How many go': cost keeps tourist numbers low (May 2026). The 'apply online first' half not added: the doc already covers visa on arrival plus the free IMUGA Traveller Declaration from official sources (V0001, V0005)."}
+]

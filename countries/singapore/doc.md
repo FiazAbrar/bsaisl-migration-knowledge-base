@@ -84,7 +84,7 @@ In 2025 Tangail sent 10,423 of the 70,832 workers cleared for Singapore, about o
 
 #### The size of the flow
 
-About 135,000 Bangladeshis work in Singapore by BMET's count, mostly in construction and also in shipyards, process plants, conservancy (town-council cleaning) and landscaping; other estimates run to 200,000 [C0132, C0165]. MOM does not publish its data by nationality [C0074]. Labour migration to Singapore began in 1979 with 110 workers, and 913,159 went from 2004 to May 2025, 6.54% of all Bangladeshi overseas employment [C0124, C0002]. By BMET's online clearance reports, Singapore was the fourth destination in 2024, after Saudi Arabia, Malaysia and Qatar, and the sixth in 2023 [C0005, C0006]. Workers who went to Singapore, by year:
+About 135,000 Bangladeshis work in Singapore by BMET's count, mostly in construction and also in shipyards, process plants, conservancy (town-council cleaning) and landscaping; other estimates run from about 130,000 to 200,000 [C0132, PS0003, C0165]. MOM does not publish its data by nationality [C0074]. Labour migration to Singapore began in 1979 with 110 workers, and 913,159 went from 2004 to May 2025, 6.54% of all Bangladeshi overseas employment [C0124, C0002]. By BMET's online clearance reports, Singapore was the fourth destination in 2024, after Saudi Arabia, Malaysia and Qatar, and the sixth in 2023 [C0005, C0006]. Workers who went to Singapore, by year:
 - 2014: 54,750 [C0001]
 - 2015: 55,523 [C0001]
 - 2016: 54,730 [C0001]
@@ -116,6 +116,8 @@ About 1,600 dormitories held about 467,000 beds for migrant workers in June 2026
 - *2028: dearer basic-skilled shipyard and process workers.* The monthly levy employers pay for a basic-skilled worker rises by S$100 in shipyards and S$150 in process plants [C0150].
 - *Competition from India and Myanmar.* In 2024 Singapore recruiters said employers were turning to workers from other countries, naming Myanmar and India, and blamed false insurance claims and complaints filed against employers [C0031]. In construction, Bangladeshis' average basic salary (S$820) is close to Myanmar workers' (S$829) and below Indians' (S$911) [C0068].
 - *Skills.* Migration researcher Mohammad Jalal Uddin Sikder of North South University said in September 2026 that demand may shift from low- and semi-skilled to skilled and highly skilled workers [C0171].
+- *Recruitment costs.* On 10 November 2024 Chief Adviser Muhammad Yunus asked Singapore's High Commissioner, Derek Loh, for Singapore to work with Dhaka to cut the cost of recruiting Bangladeshi workers significantly, through a model framework the two could build [PS0001]. Loh said Singapore was also keen to stop illegal money changing hands in recruitment, and advised Bangladesh to digitalise its overseas recruitment to reduce trafficking and exploitation [PS0002].
+- *Seafarers.* On 14 November 2026 the managing director of Bernhard Schulte Shipmanagement (BSM), a ship-management company, told a gathering of the Bangladeshi Mariners Community Singapore (BMCS) that his company wants to recruit more Bangladeshi seafarers and maritime cadets [PS0035].
 
 > **Need to know**
 > - Is there a Bangladesh-Singapore memorandum of understanding (MoU) on labour, or one under negotiation?
@@ -194,7 +196,7 @@ MOM's own survey puts typical 2024 fees for first-time workers who paid far lowe
 
 #### How they pay
 
-Most of the 114 workers described under Down the chain had paid in taka to an agent in Bangladesh; a few paid the Singapore boss directly, one into his bank account in instalments [C0080]. Training centres have demanded more after the test without giving receipts, and one worker believes his centre failed him on purpose because it had no visa for him yet [C0110, C0111]. In the 2020 survey of all destinations, 78% of migration costs were borrowed from relatives, NGOs, moneylenders and microcredit lenders [C0120]. One worker who lost his job in 2026 still owed a S$6,000 loan for his trip [C0018].
+Most of the 114 workers described under Down the chain had paid in taka to an agent in Bangladesh; a few paid the Singapore boss directly, one into his bank account in instalments [C0080]. Training centres have demanded more after the test without giving receipts, and one worker believes his centre failed him on purpose because it had no visa for him yet [C0110, C0111]. In the 2020 survey of all destinations, 78% of migration costs were borrowed from relatives, NGOs, moneylenders and microcredit lenders [C0120]. One worker who lost his job in 2026 still owed a S$6,000 loan for his trip [C0018]. A welder from Fulbaria, Mymensingh, who went in 2015 paid with loans and by mortgaging land, according to his family [PS0023].
 
 > **Need to know**
 > - In 2026, what are the payment stages for a Singapore construction job (training-centre admission, after the test, on the IPA, at BMET clearance), and how much is paid at each?
@@ -214,7 +216,7 @@ At 2026 averages a worker needs about 2.9 months of salary to recover what he pa
 
 #### Sending money home
 
-Bangladesh Bank recorded US$385 million of remittance from Singapore in 2021-22 and US$423 million in 2022-23 [C0130]. The expatriates' welfare minister told Parliament in September 2026 that it reached US$1.49 billion in 2025-26 [C0127, C0166]; Bangladesh Bank's own figures for July to September 2026 show US$87.71 million, the eighth-largest source [C0129]. The legal channels are under Sending money home.
+Bangladesh Bank recorded US$385 million of remittance from Singapore in 2021-22 and US$423 million in 2022-23 [C0130]. The expatriates' welfare minister told Parliament in September 2026 that it reached US$1.49 billion in 2025-26 [C0127, C0166]; Bangladesh Bank's own figures for July to September 2026 show US$87.71 million, the eighth-largest source [C0129]. From July 2024 to April 2025 Bangladesh Bank recorded between US$24.6 million (September 2024) and US$73.0 million (February 2025) a month from Singapore [PS0021]. The legal channels are under Sending money home.
 
 > **Need to know**
 > - Which figure is right for remittance from Singapore: about US$1.5 billion a year, as the minister said, or under US$100 million a quarter, as Bangladesh Bank's July-September 2026 figures show?
@@ -239,7 +241,7 @@ In 2026 salary claims more than doubled, and whole companies of mostly Banglades
 
 *What goes wrong.*
 - *Unpaid salary.* From November 2025 TWC2 registered 114 unpaid Bangladeshis from three connected companies, all of whom had been asked to pay S$9,000 to 13,000 for the job [C0079]. When workers told MOM they had paid for their jobs in Bangladesh or in cash, they were told MOM could do nothing [C0083].
-- *Injury and death.* 36 people died at work in Singapore in 2025, 13 of them in construction; across all sectors, vehicle accidents, falls from height and collapsing structures caused 78% of the deaths [C0172, C0173]. Workers ride to sites in the backs of lorries: in April 2021 a Bangladeshi died when a lorry carrying 17 workers was hit on the Pan-Island Expressway, and in 2016 a reversing lorry killed two Bangladeshis resting after lunch [C0175, C0176]. There were 28,895 work injury claims in 2025; how to claim is under "If you are injured" [C0174].
+- *Injury and death.* 36 people died at work in Singapore in 2025, 13 of them in construction; across all sectors, vehicle accidents, falls from height and collapsing structures caused 78% of the deaths [C0172, C0173]. Workers ride to sites in the backs of lorries: in April 2021 a Bangladeshi died when a lorry carrying 17 workers was hit on the Pan-Island Expressway, and in 2016 a reversing lorry killed two Bangladeshis resting after lunch [C0175, C0176]. Rakib Hossain, 22, of Sharsha, Jashore, was crushed on 3 April 2024 when the rope snapped as a bundle of rods was being lifted up the high-rise where he worked, and died in hospital on 20 April, his father said; the family, already in debt from sending him, spent a lot more bringing the body home [PS0041, PS0038, PS0036, PS0037, PS0039]. There were 28,895 work injury claims in 2025; how to claim is under "If you are injured" [C0174].
 - *Forced repatriation.* Employers and agents have used "repatriation agents" to march a complaining worker to the airport; in a 2014 case an officer at the airport checkpoint told the worker he could simply walk out if he did not want to board [C0159, C0161]. In 2013 MOM stepped in on 23 departures flagged at the airport because the worker had unsettled employment matters [C0160].
 - *Few complain.* Workers told the Bangladesh High Commission at meetings from May to July 2026 about high costs and low pay, but none filed a written complaint with evidence [C0133]. BMET's director general said in 2020 that no worker questioned at the airport admitted what he paid [C0121].
 
@@ -259,7 +261,7 @@ In 2026 salary claims more than doubled, and whole companies of mostly Banglades
 *How the irregular routes end.*
 - *Overstaying and illegal work.* Jail, caning, deportation and a ban; the employer can be jailed too [C0182, C0181].
 - *A test centre without BCA approval.* Ittefaq reported in 2023 that about 60,000 workers were sent through the Weltec centre's agencies in the five years after BCA cancelled its licence (see The Weltec case) [C0051].
-- *Extremist views, including online.* In late 2015 Singapore arrested 27 Bangladeshi construction workers for radical religious activity, cancelled their passes and sent 26 home [C0180]. In July 2026 it cancelled the permits of two Bangladeshis for extremist posts on social media, though it found no attack plans, and sent them home, where they were detained at Dhaka airport [C0198, C0199].
+- *Extremist views, including online.* In late 2015 Singapore arrested 27 Bangladeshi construction workers for radical religious activity, cancelled their passes and sent 26 home [C0180]. In July 2026 it cancelled the permits of two Bangladeshis for extremist posts on social media, though it found no attack plans, and sent them home, where they were detained at Dhaka airport (see Extremist views and posts online) [C0198, C0199].
 
 ## Visas not open to Bangladeshis
 
@@ -866,6 +868,8 @@ If you plan to travel shortly before the permit expires, the employer should ren
 3. **Your employer's side:** it keeps paying the levy while you are away and can claim a waiver for leave of 7 days or more, up to 60 days a year [E0156]. Leave of over 3 months may need tax clearance [E0158].
 4. **If you stay away long,** the employer may cancel your permit to stop the levy and would then need a new Work Permit to bring you back [E0157]. If you don't return, it cancels the permit; if you come back before its security bond is discharged, it must send you home [E0178].
 
+Hometown, an app made by the Bangladeshi travel start-up Go Zayan and launched in December 2022 only for Bangladeshis in Singapore, sells air tickets home with a Bangla interface; it had 38% of the Singapore-Bangladesh flight market in April 2025 [PS0004, PS0009]. It takes your passport and photo when you open the account, and you pay by uploading the QR code it gives you into your Singapore bank's app [PS0005, PS0006].
+
 > **Need to know**
 > - Does any rule require the employer to pay the ticket for home leave, or is it only what the contract says?
 > - How many days' home leave do Bangladeshi construction and shipyard workers usually get, and who usually pays the ticket?
@@ -938,6 +942,14 @@ Once your Work Permit or Special Pass ends, you must leave before it expires or 
 
 - **Marriage:** a Work Permit holder, or someone whose last pass in Singapore was a Work Permit, must get MOM's approval before marrying a Singapore Citizen or Permanent Resident, in Singapore or abroad, in any form of marriage [E0229]. How to apply is under Family passes, Spouse of a Singapore citizen or PR, Step 2; MOM decides within 4 weeks of getting all the documents [KC0035, E0232]. Marrying without approval can cost you the right to work in Singapore and bring a ban on entering [E0231]. The rule applies even after your permit has ended [E0230].
 - **Pregnancy:** a female Work Permit holder may become pregnant and give birth in Singapore only if she is already married, with MOM's approval, to a Singapore Citizen or Permanent Resident [E0233].
+
+#### Extremist views and posts online
+
+Singapore has arrested or detained Bangladeshi workers for extremist views, and ISD (the Internal Security Department, Singapore's security agency) has cancelled passes and sent workers home, including over posts on social media where it found no attack plan [C0180, C0198]. Cases:
+- *2015.* 27 Bangladeshi construction workers arrested under the Internal Security Act for radical religious activity; their passes were cancelled and 26 sent home [C0180].
+- *2016.* ISD detained eight Bangladeshis working in construction and the marine industry, members of a secret group called "Islamic State in Bangladesh" who held documents on weapons and bomb-making, planned to recruit other Bangladeshis in Singapore and had raised money to buy weapons for attacks in Bangladesh [PS0031, PS0032, PS0033]. Five other Bangladeshi workers found in the investigation, not members but holding jihadi books, were sent home [PS0034].
+- *2020.* A construction worker in Singapore since 2017 was arrested; investigators found he had been radicalised after viewing pro-Islamic State material online and was planning armed attacks [PS0029, PS0030].
+- *July 2026.* Two construction workers lost their Work Permits over social-media posts: ISD said one had posted support for Shafiur Rahman Farabi, a radical Islamist writer from Bangladesh, and the other inflammatory posts on the Israel-Iran conflict and religiously divisive posts, calling Muslims who oppose Islamic law "kafir" [PS0024, PS0025, C0198, PS0027]. One told a Dhaka court he was arrested over Facebook posts about Farabi he wrote in 2023 [PS0026]. Bangladeshi media reported both were detained on landing at Dhaka airport on 8 July and three phones and three passports seized; police told the court they had admitted involvement with a militant group while in Singapore, and they were remanded [PS0027, PS0028, C0199].
 
 #### Bans on coming back
 
@@ -1515,7 +1527,7 @@ Take your passport and digital work pass or card to come back in [D0181]. Pay du
 
 ## Visit visa (tourism, family and friends)
 
-A Bangladeshi with an ordinary passport visiting Singapore as a tourist, to see family or friends, or for business needs an entry visa, applied for and approved before travelling (see Visas not open to Bangladeshis) [V0002, V0153]. The visa is only permission to travel and ask for entry: at Changi, ICA officers decide whether to let you in and for how many days, and a valid visa doesn't guarantee entry [V0003, V0095]. The same visa covers social and business visits; Form 14A (the visa application form) asks which purpose applies [V0031, V0105]. A visit pass doesn't allow work, apart from a few short activities MOM exempts (see Can you work?) [V0071].
+A Bangladeshi with an ordinary passport visiting Singapore as a tourist, to see family or friends, or for business needs an entry visa, applied for and approved before travelling (see Visas not open to Bangladeshis) [V0002, V0153]. The visa is only permission to travel and ask for entry: at Changi, ICA officers decide whether to let you in and for how many days, and a valid visa doesn't guarantee entry [V0003, V0095]. The same visa covers social and business visits; Form 14A (the visa application form) asks which purpose applies [V0031, V0105]. A visit pass doesn't allow work, apart from a few short activities MOM exempts (see Can you work?) [V0071]. People in the tourism sector told Prothom Alo in May 2026 that Singapore was not giving e-visas to Bangladeshis on new passports, only to those with earlier travel experience [PS0042].
 
 There are two ways to apply:
 
@@ -2363,6 +2375,11 @@ Bangladesh's government asks workers to send money only through legal channels, 
 
 In Singapore, every remittance business needs a MAS licence under the Payment Services Act, unless exempted; the penalties for unlicensed remittance are under What can get you jailed or deported, "Money" [B0246, B0250]. Hundi in the dormitories is prosecuted: in September 2024 police charged a 38-year-old man who, from 2021 to 2023, collected cash from construction workers in a dormitory and had his family in Bangladesh pay out the taka (over S$118,000), and a 33-year-old Bangladeshi who ran the same scheme from 2020 to 2022 [B0251, B0252]. In April 2026 two Indian men were charged after a raid on Norris Road (Little India): one had moved more than S$38.6 million abroad, police seized more than S$314,000 in cash and 30 ATM cards, and the other held 22 ATM cards belonging to other Indian nationals [B0254, B0255]. The police tell people to use only banks and remittance companies licensed by MAS, because unlicensed ones are not regulated [B0253].
 
+About half of Bangladeshis in Singapore send money by handing cash to a remittance house, which deposits it in a Singapore bank that sends it on to Bangladesh; many are paid their wages in cash, said Anis A Khan, former chairman of the Association of Bankers Bangladesh [PS0010, PS0020]. Agrani Bank (five branches in Singapore), National Bank and Prime Bank (three each) have offered remittance services there since 2006, and their branches also take deposits [PS0014, PS0016]. The three banks' accounts with Standard Chartered, UOB and OCBC were cut off in about 2021 over money-laundering allegations, heavy use of cash and non-compliance, leaving DBS as their only Singapore bank [PS0015]. In early August 2025 DBS told several remittance houses it would stop taking cash, with money laundering given as the reason, and at Bangladesh Bank's request agreed to keep taking it until 31 October 2025 [PS0011, PS0013, PS0012]. Without a bank that takes their cash, remittance houses could take workers' money but not send it home [PS0017]. Islami Bank brings remittances through Mustafa Foreign Exchange [PS0019].
+
+> **Need to know**
+> - Did DBS stop taking cash from remittance houses after 31 October 2025, and can a worker still hand over cash at Agrani, NBL or Prime exchange houses in 2026?
+
 **Never lend, sell or "rent out" your bank account, ATM card or iBanking login:** letting anyone else use your POSB account is prohibited by the bank, and the penalties for money mules, up to caning, are under What can get you jailed or deported, "Money" [B0244, B0258].
 
 You'll need:
@@ -2370,7 +2387,7 @@ You'll need:
 - For a bank account: your own or a relative's account in Bangladesh [B0072].
 
 1. **Check the company is licensed.** Open MAS's Financial Institutions Directory (eservices.mas.gov.sg/fid) and check the company is listed as a "Major Payment Institution" for "Cross-border Money Transfer Service"; 221 companies were listed in November 2026, each with its phone and address [B0247, B0249]. For example, Agrani Exchange House (of Agrani Bank) is listed at 5A Lembu Road, +65 6295 9731 [B0248, B0272]. MAS says to check a company's contact details there if in doubt, because scammers pose as licensed firms [B0247].
-2. **Choose the channel.** bKash's partners for sending from Singapore are Agrani Exchange, DBS Bank, NBL Singapore, Nium, Prime Exchange, SG QuickPay, Western Union, Dash, MoneyGram and Remitly [B0213]. To send to a Nagad wallet, use a Nagad partner agent, bank or exchange house, including Western Union by agent, app or website; the receiver is told by SMS and gets the 2.5% incentive [B0318]. To send straight into a bank account, use a bank or exchange house with a "drawing arrangement" with a Bangladeshi bank [B0072].
+2. **Choose the channel.** bKash's partners for sending from Singapore are Agrani Exchange, DBS Bank, NBL Singapore, Nium, Prime Exchange, SG QuickPay, Western Union, Dash, MoneyGram and Remitly [B0213]. To send to a Nagad wallet, use a Nagad partner agent, bank or exchange house, including Western Union by agent, app or website; the receiver is told by SMS and gets the 2.5% incentive [B0318]. To send straight into a bank account, use a bank or exchange house with a "drawing arrangement" with a Bangladeshi bank [B0072]. Hometown (see Going home on leave and coming back) has also sent money home since November 2023; a user said in 2025 it charges a flat S$3 whatever the amount, and it was processing US$8 million a month [PS0007, PS0008, PS0009].
 3. **Compare the cost.** In August 2025, sending S$260 (USD 200) to Bangladesh cost 6.54% on average: a S$4.95 fee plus a 4.64% exchange-rate margin, about S$17; sending S$645 (USD 500) cost 5.71% [B0271]. For S$260 [B0272]:
    - NBL Money Transfer: 3.37% (S$5 fee, 1.45% margin), cash, under an hour.
    - InstaReM: 4.39%, to a bank account, same day.
@@ -2386,6 +2403,7 @@ You'll need:
 > **Need to know**
 > - Does money used to buy Wage Earner Development Bonds, freelancing income, gifts, trade payments or donations get the 2.5% incentive, when a bank's 2025 guide says not [B0075, B0076]?
 > - Which Nagad remittance partners operate in Singapore?
+> - Is Hometown listed in MAS's Financial Institutions Directory, or which licensed company sends its money?
 
 **If something goes wrong:**
 - bKash helpline: 16247, or +88-02-55663001 from abroad [B0217].

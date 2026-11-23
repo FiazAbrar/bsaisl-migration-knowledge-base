@@ -1,0 +1,32 @@
+[
+ {
+  "held_id": "R3-countries-malaysia-1",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "S0059",
+   "S0049"
+  ],
+  "note": "RM750 personal bond, refunded at end of study, already in Student visa Step 2 item 6 from official sources."
+ },
+ {
+  "held_id": "R3-countries-malaysia-2",
+  "outcome": "duplicate",
+  "fact_ids": [
+   "S0013",
+   "S0039",
+   "S0015",
+   "S0041"
+  ],
+  "note": "20 hours a week in breaks, applied for with the institution, already in Student visa: Can you work? from official sources."
+ },
+ {
+  "held_id": "R3-countries-malaysia-3",
+  "outcome": "added",
+  "fact_ids": [
+   "MP0778",
+   "MP0779",
+   "MP0777"
+  ],
+  "note": "Added as a bullet under Irregular routes, and where an irregular stay ends (eight of the 16 were Bangladeshi)."
+ }
+]

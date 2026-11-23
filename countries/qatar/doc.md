@@ -20,7 +20,9 @@ QR 1 is about Tk 34: Bangladesh Bank's rate on 19 October 2026 was USD 1 = Tk 12
 
 As of 8 November 2026: open to Bangladeshi workers, at about 60% of 2025's pace. BMET (the Bureau of Manpower, Employment and Training, the Bangladesh government body that registers and clears migrant workers) is on course to clear about 63,000 for Qatar in 2026, against 107,598 in 2025, and Qatar has dropped to third destination, behind Saudi Arabia and Singapore (yearly figures: see The size of the flow) [W0051, W0001, B0131]. About 97% of those cleared are men; the age, sex and skill rules are in Who qualifies [QM0005, W0051].
 
-Whether the 2026 war has cut new work visas is not known (Need to know below). After Israel and the United States struck Iran on 28 February 2026, Iran hit US bases and strategic installations in Qatar, Kuwait, the UAE and Bahrain [QM0004, QM0003]. Qatar extended expired or expiring entry visas by a month from 28 February; that extension ended on 7 June 2026, when standard procedures were restored [V0125, V0126].
+Whether the 2026 war has cut new work visas is not known (Need to know below). After Israel and the United States struck Iran on 28 February 2026, Iran hit US bases and strategic installations in Qatar, Kuwait, the UAE and Bahrain [QM0004, QM0003]. Qatar extended expired or expiring entry visas by a month from 28 February; that extension ended on 7 June 2026, when standard procedures were restored [V0125, V0126]. MOI said the extension was applied automatically in its electronic system, with no fee, application or office visit [PQ0011]. Bangladesh's Ministry of Expatriates' Welfare said in March 2026 that Qatar, Kuwait and the UAE had extended by a month the visas of workers that had expired or were about to, because workers on leave in Bangladesh could not go back to renew them [PQ0013, PQ0014].
+
+In early March 2026 Gulf airspace was closed, scheduled flights were cancelled and many workers were stranded, Bangladesh mission sources said, and sending new workers to the six Gulf countries had practically stalled [PQ0008, PQ0009]. A government official said Biman Bangladesh would reschedule cancelled tickets and other airlines had been asked to do the same for Bangladeshi workers [PQ0010]. Inside Qatar, a Doha businessman with over 200 Bangladeshi workers said on 3 March that the government had told people not to go out unless necessary, so only his 10 to 12 office staff and some transport workers were working [PQ0007]; a Doha shop owner said shops, restaurants and delivery services could not close and nobody could take a day off [PQ0015]. Mustafa Qadri of the rights group Equidem said workers in the UAE, Qatar, Saudi Arabia and Jordan reported getting no usable guidance on shelters, safe routes out or emergency help [PQ0016]. What the Embassy told Bangladeshis to do and carry is under Contacts (see In Qatar).
 
 > **Need to know**
 > - Since the February 2026 strikes, have Qatar employers cut new visa requests for Bangladeshis or cancelled visas already issued, and in which trades?
@@ -73,7 +75,7 @@ How many women go is in The size of the flow.
 
 #### Where the workers come from and what they do
 
-In 2025 Chattogram division sent 36% of the workers cleared for Qatar and Sylhet division 20.5%, against 8.2% of all Bangladeshi workers from Sylhet [QB0003, QB0004]. About 473,000 Bangladeshis work in Qatar, 30% in development projects, Qatar's Labour Minister said in May 2026 [M0067].
+In 2025 Chattogram division sent 36% of the workers cleared for Qatar and Sylhet division 20.5%, against 8.2% of all Bangladeshi workers from Sylhet [QB0003, QB0004]. About 473,000 Bangladeshis work in Qatar, 30% in development projects, Qatar's Labour Minister said in May 2026 [M0067]; the Ministry of Expatriates' Welfare's figure in March 2026 was about 450,000 [PQ0012].
 
 > **Need to know**
 > - In 2025-26, which trades are most Bangladeshis hired into in Qatar (cleaning, security, facility management, hospitality, labour supply, construction), and in what shares?
@@ -106,7 +108,7 @@ BMET cleared 107,598 workers for Qatar in 2025, the most since 2016, making Qata
 
 #### Where it may grow
 
-Qatar's Labour Minister asked on 18 May 2026 for electricians, plumbers, AC (air-conditioning) technicians and welders from 5 named TTCs (Work visa: company worker, Step 1, item 2) [M0059, M0060]. MOL's 2024-2030 strategy aims to raise the share of high-skilled workers among expatriates from 20% to 24% [O0001, B0168]. A 2025 agreement opened a new channel, deployment of Bangladeshi personnel to the Qatar Armed Forces [B0158]. The two governments also signed a labour cooperation memorandum of understanding (MoU) during the Amir of Qatar's Dhaka visit in April 2024 [W0011]. Against this, the same strategy aims to raise the share of Qataris in private and joint-sector jobs from 17% to 20% [O0001, B0168].
+Qatar's Labour Minister asked on 18 May 2026 for electricians, plumbers, AC (air-conditioning) technicians and welders from 5 named TTCs (Work visa: company worker, Step 1, item 2) [M0059, M0060]. At the same meeting, the 7th Bangladesh-Qatar joint committee, he said Qatar had set up two special training centres to make unskilled workers skilled [PQ0019]; Bangladesh's minister cited 107,598 Bangladeshi workers going to Qatar in a past year and said he hoped Qatar would take double that this year, and the state minister asked Qatar to recruit doctors, engineers, nurses, caregivers, imams, muezzins, khatibs (Friday sermon preachers) and religious teachers [PQ0017, PQ0018]. MOL's 2024-2030 strategy aims to raise the share of high-skilled workers among expatriates from 20% to 24% [O0001, B0168]. A 2025 agreement opened a new channel, deployment of Bangladeshi personnel to the Qatar Armed Forces [B0158]. The two governments also signed a labour cooperation memorandum of understanding (MoU) during the Amir of Qatar's Dhaka visit in April 2024 [W0011]. Against this, the same strategy aims to raise the share of Qataris in private and joint-sector jobs from 17% to 20% [O0001, B0168].
 
 ### How a job reaches you, and who takes a cut
 
@@ -681,7 +683,7 @@ At QVC your documents are checked, your fingerprints, iris and face are recorded
    > **Need to know**
    > - What does QVC's booking form ask for?
 
-   **Where:** QVC Dhaka, Rupayan Trade Center (11th floor), 114 Kazi Nazrul Islam Avenue, Bangla Motor, Ramna, Dhaka-1000; +880 9666 777 101 (Sunday to Thursday, 08:30 to 17:00); info.bgd@qatarvisacenter.com [M0001, M0003]. Fingerprints and photos 08:30 to 16:30, medical 09:00 to 17:00, Sunday to Thursday [M0004]; its 2026 holiday closures (such as Eid-ul-Adha and Victory Day, 16 December) are listed on its site [M0005].
+   **Where:** QVC Dhaka, Rupayan Trade Center (11th floor), 114 Kazi Nazrul Islam Avenue, Bangla Motor, Ramna, Dhaka-1000; +880 9666 777 101 (Sunday to Thursday, 08:30 to 17:00); info.bgd@qatarvisacenter.com [M0001, M0003]. Fingerprints and photos 08:30 to 16:30, medical 09:00 to 17:00, Sunday to Thursday [M0004]; its 2026 holiday closures (such as Eid-ul-Adha and Victory Day, 16 December) are listed on its site [M0005]. On 18 May 2026 Bangladesh asked Qatar to open visa and medical centres in its 8 divisional cities, and Qatar's Labour Minister said he would personally ask Qatar's Interior Minister to act on the visa-centre request [M0063, PQ0020].
 
    > **Need to know**
    > - Does QVC Sylhet take appointments, given that QVC's pages list a Sylhet centre open Sunday to Thursday, 8:30 to 16:30 [M0013, M0014], while the Ministry said in May 2026 that the only centre is in Dhaka [M0063]?
@@ -2697,10 +2699,11 @@ A close relative in Bangladesh can ask the Ministry to help bring a worker home;
 
 ### Step 1: Get a passport or Travel Permit
 
-With a valid passport, go to Step 2. Without one, apply at the Embassy for a Travel Permit, as below [L0154]. A new e-passport at a Bangladesh mission costs workers USD 30 regular or USD 45 express (48 pages, 5 years) [S0124]. If you stay in Qatar on a new passport, the RP is moved to it for QR 100 (see Work visa: company worker, Step 7, item 2) [L0141].
+With a valid passport, go to Step 2. Without one, apply at the Embassy for a Travel Permit, as below [L0154]. A new e-passport at a Bangladesh mission costs workers USD 30 regular or USD 45 express (48 pages, 5 years) [S0124]. If you stay in Qatar on a new passport, the RP is moved to it for QR 100 (see Work visa: company worker, Step 7, item 2) [L0141]. In January 2025 Bangladesh's Foreign Adviser gave the Doha mission as an example of short staffing, saying even a night guard sent from Bangladesh had to stamp passports, and said a decision had been taken to add staff and that the aim was for passports to reach people who submit the right papers, without a visit to the mission [PQ0001, PQ0002].
 
 > **Need to know**
 > - Does the Embassy still extend a passport that has only expired, as its 2021 FAQ said [L0177]?
+> - Can a worker in Qatar now get a new passport delivered without going to the Embassy, as the Foreign Adviser said in January 2025 [PQ0002]?
 
 You'll need:
 - The completed form [L0155].
@@ -2844,7 +2847,7 @@ WEWB's death grant needs BMET emigration clearance or Board membership, and deat
 
 #### What happens in practice
 
-Most deaths are recorded as "natural causes" (71% of deaths of Bangladeshis in Qatar, November 2016 to October 2020), and without investigation or post-mortem that rules out compensation from the employer or Qatar [H0032, H0033]; WEWB's grant is still paid [B0070]. None of the families of six workers whose deaths Amnesty International investigated had been compensated [GE0005]. When five Bangladeshis died in a road crash in Al-Shahaniya on 21 June 2026, the labour wing did the legal steps and WEWB paid to fly the bodies to Sylhet nine days later [F0038, H0028]; the families got the Tk 3 lakh cheques about two months after the deaths [H0029].
+Most deaths are recorded as "natural causes" (71% of deaths of Bangladeshis in Qatar, November 2016 to October 2020), and without investigation or post-mortem that rules out compensation from the employer or Qatar [H0032, H0033]; WEWB's grant is still paid [B0070]. None of the families of six workers whose deaths Amnesty International investigated had been compensated [GE0005]. When five Bangladeshis died in a road crash in Al-Shahaniya on 21 June 2026, the labour wing did the legal steps and WEWB paid to fly the bodies to Sylhet nine days later [F0038, H0028]; the families got the Tk 3 lakh cheques about two months after the deaths [H0029]. Their relatives said the five, all from Kanaighat in Sylhet, were travelling to work in a pickup van that lost control [PQ0021]. State Minister Nurul Haque said the Ministry had told the labour wing to give the repatriation and the families' compensation top priority, and the bodies reached Osmani airport, Sylhet, on Biman flight BG-226 on 30 June [PQ0022, PQ0023]. On the night of 12 September 2026 Azam Mia, 35, a mason from Kulaura in Moulvibazar, fell to his death from a multi-storey building in Doha when a rope snapped, and two workers with him were seriously injured, relatives in Qatar said [PQ0025]; he had told his wife that evening that they had to work at night because of the daytime heat [PQ0024]. The next day his family had not decided whether to bring the body home [PQ0026].
 
 ### If you lose the job
 
@@ -2955,6 +2958,14 @@ Up to USD 10,000 in foreign currency comes in without declaring, and that amount
 - **Government Contact Center:** 109, 24/7 [D0007].
 - **Hukoomi:** contact@hukoomi.qa, +974 44069999 [M0048].
 - **QCB consumer protection:** 44456412, 44456456 [B0161].
+
+**In a war or emergency.** On 28 February 2026 the Bangladesh embassies in Qatar and five other Middle East countries told Bangladeshis to [PQ0003, PQ0004]:
+- stay away from military installations and in a safe place, and avoid gatherings;
+- not spread rumours;
+- keep with them cash, passport, local ID card (QID), health card or insurance, medicines, a phone charger and power bank, dry food and water;
+- call their embassy's hotline or email it (Qatar: mission.doha@mofa.gov.bd) [PQ0006].
+
+Several of those notices said posting photos or videos of the situation, or baseless news, on social media broke these countries' laws [PQ0005]; Qatar's own rules on photos and posts are covered separately (see What can get you jailed or deported). The Embassy's special flights home in March 2026 are covered separately (see Amnesties and grace periods) [H0040].
 
 > **Need to know**
 > - Which Embassy counter hours apply, when its Travel Permit and birth registration pages say applications are taken 08:30-16:00 [L0156, S0106]?

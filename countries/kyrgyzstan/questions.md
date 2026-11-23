@@ -315,4 +315,3 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 ### Contacts in Bangladesh
 
 - Is the Kyrgyz ambassador in New Delhi still accredited to Bangladesh in 2026, and is there a Kyrgyz honorary consul in Dhaka?
-

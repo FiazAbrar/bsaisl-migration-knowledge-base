@@ -39,6 +39,7 @@ These are the questions the Kuwait migration guide can't yet answer, grouped by 
 - What does a KD 90 government-contract cleaner take home in 2026 after food, and do companies give food or a food allowance?
 
 - How many months does a KD 90 cleaner need to repay a Tk 7-9 lakh visa in 2026?
+- Has the labour cooperation agreement discussed in October 2025 been signed, and does it cover women domestic workers?
 
 ## Work visa: private-sector worker (Article 18)
 
@@ -81,7 +82,6 @@ These are the questions the Kuwait migration guide can't yet answer, grouped by 
 
 ### Your residence permit
 
-- Can an Article 18 worker see his own residence and work-permit status in Sahel, and what does each status mean?
 
 ### What can get you jailed or deported
 
@@ -106,6 +106,7 @@ These are the questions the Kuwait migration guide can't yet answer, grouped by 
 
 - Does the employer have to cancel the residence and pay the ticket home at the end of a contract under any Kuwaiti rule, or only if the contract says so? Law 6/2010 makes it pay only when it recruited workers it didn't need [L0193].
 - Are the "pay before you leave" checks still enforced at the airport in 2026, and has any bill been added or dropped [G0046]?
+- What does each residence and work-permit status shown in Sahel mean for an Article 18 worker?
 
 ## Work visa: domestic worker (Article 20)
 
@@ -166,7 +167,6 @@ These are the questions the Kuwait migration guide can't yet answer, grouped by 
 
 ### Nurses and doctors
 
-- Is BOESL recruiting nurses or doctors for Kuwait now, and where does it post the circular?
 - Do BOESL nurses sit the Prometric exam, or does MOH's selection panel replace it? [K0062, K0068]
 - What do the Dataflow check and the MOH licence cost a Bangladeshi nurse, and who pays? [K0067]
 
@@ -174,6 +174,7 @@ These are the questions the Kuwait migration guide can't yet answer, grouped by 
 
 - How do company drivers on Article 18 get a Kuwaiti licence, and what does the test cost?
 - How long is an expatriate's licence valid in 2026?
+- Is BOESL recruiting nurses or doctors for Kuwait now?
 
 ## Family visa (dependants)
 
@@ -392,4 +393,3 @@ These are the questions the Kuwait migration guide can't yet answer, grouped by 
 ### Contacts in Kuwait
 
 - What are the addresses and phone numbers of PAM's Labour Relations Departments in Capital, Farwaniya, Ahmadi, Jahra and Mubarak Al-Kabeer?
-

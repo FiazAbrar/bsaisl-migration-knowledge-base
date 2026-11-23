@@ -1,0 +1,170 @@
+{
+ "articles": [
+  {
+   "article_id": "a26f4720-618d-404a-a121-8e86cd625d84",
+   "used": true,
+   "fact_ids": [
+    "XK0001",
+    "XK0002",
+    "XK0003",
+    "XK0004",
+    "XK0005",
+    "XK0006"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "0af2a040-7e25-4df4-9f16-9372d8d3a375",
+   "used": true,
+   "fact_ids": [
+    "XK0007",
+    "XK0008",
+    "XK0009",
+    "XK0010",
+    "XK0011",
+    "XK0012",
+    "XK0013",
+    "XK0014",
+    "XK0015",
+    "XK0016",
+    "XK0017"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/illegal-routes",
+     "claim": "More than 40,000 Bangladeshis went to Europe irregularly in 2023, more than 15,000 of them entering Italy, North South University researchers wrote in May 2024.",
+     "quote": "২০২৩ সালে ৪০ হাজারের বেশি বাংলাদেশি অবৈধভাবে ইউরোপে পাড়ি জমিয়েছেন। এর মধ্যে শুধু গত বছরে ইতালিতে ১৫ হাজারের বেশি বাংলাদেশি অভিবাসী হিসেবে প্রবেশ করেছেন।"
+    },
+    {
+     "target": "global/illegal-routes",
+     "claim": "In 2017 Bangladesh signed Standard Operating Procedures (SOP) with the European Union to return about 90,000 irregular Bangladeshi migrants in Europe who are not granted asylum after the legal process.",
+     "quote": "এর আগে ২০১৭ সালে ইউরোপে বসবাসরত প্রায় ৯০ হাজার অবৈধ অভিবাসীকে ফেরত পাঠাতে ইউরোপীয় ইউনিয়নের সঙ্গে এসওপি ‘স্ট্যান্ডার্ড অপারেটিং প্রসিডিউরস’ স্বাক্ষরিত হয়েছিল।"
+    }
+   ]
+  },
+  {
+   "article_id": "63ba9751-4f43-4f6a-8d04-90b12f516d94",
+   "used": true,
+   "fact_ids": [
+    "XK0018",
+    "XK0019"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "81daa828-3452-4eed-b896-4806e005aafb",
+   "used": true,
+   "fact_ids": [
+    "XK0020",
+    "XK0021",
+    "XK0022",
+    "XK0023",
+    "XK0024"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "205d2453-4fc6-4b67-aa6f-8b8bd15f2db0",
+   "used": true,
+   "fact_ids": [
+    "XK0025",
+    "XK0026",
+    "XK0027",
+    "XK0028",
+    "XK0029",
+    "XK0030",
+    "XK0031",
+    "XK0032"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "7252cef0-13b1-48ae-b896-250fe9db52c5",
+   "used": true,
+   "fact_ids": [
+    "XK0033",
+    "XK0034",
+    "XK0035",
+    "XK0036"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "15640aef-fd7d-412f-84aa-ec2088c0d109",
+   "used": true,
+   "fact_ids": [
+    "XK0037",
+    "XK0038",
+    "XK0039",
+    "XK0040"
+   ],
+   "reason_if_unused": "",
+   "held": [
+    {
+     "target": "global/faq",
+     "claim": "The Election Commission moved to let the 1.5 to 2 crore Bangladeshis living abroad vote, for the first time by postal ballot, in the coming national election (November 2025).",
+     "quote": "দীর্ঘদিনের দাবির পর অবশেষে বাংলাদেশের বাইরে বসবাসরত দেড় থেকে দুই কোটি প্রবাসী বাংলাদেশির ভোটাধিকার বাস্তবায়নের উদ্যোগ নিয়েছে নির্বাচন কমিশন। প্রথমবারের মতো প্রবাসীরা ডাকযোগে বা পোস্টাল ব্যালটের মাধ্যমে আসন্ন জাতীয় সংসদ নির্বাচনে ভোট দিতে পারবেন।"
+    }
+   ]
+  },
+  {
+   "article_id": "9da66baa-f6ef-47ee-a3bd-ca3b13f72c76",
+   "used": true,
+   "fact_ids": [
+    "XK0041",
+    "XK0042",
+    "XK0043",
+    "XK0044",
+    "XK0045"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "c659b0f0-80d8-45a9-ae32-779b83f172f3",
+   "used": true,
+   "fact_ids": [
+    "XK0046",
+    "XK0047",
+    "XK0048",
+    "XK0049",
+    "XK0050",
+    "XK0051",
+    "XK0052"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  },
+  {
+   "article_id": "f963e138-7103-4599-aff2-016a1e564561",
+   "used": true,
+   "fact_ids": [
+    "XK0053",
+    "XK0054",
+    "XK0055",
+    "XK0056",
+    "XK0057",
+    "XK0058",
+    "XK0059",
+    "XK0060",
+    "XK0061",
+    "XK0062",
+    "XK0063",
+    "XK0064",
+    "XK0065",
+    "XK0066",
+    "XK0067",
+    "XK0068",
+    "XK0069"
+   ],
+   "reason_if_unused": "",
+   "held": []
+  }
+ ]
+}
