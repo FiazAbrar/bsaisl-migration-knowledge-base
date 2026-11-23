@@ -42,3 +42,29 @@
 - Did Faruki Hasan take the cash incentive? Prothom Alo's 19 Mar report says he did (GM0189); he says he did not (GM0194). Neither is a primary document; both are given in the doc with attribution.
 - 3 Feb 2025 report lists foreign banks bringing "65 crore" dollars in January 2025, which with the other bank groups exceeds the month total of USD 2.1852 billion; an evident misprint, not used.
 - Calendar 2023 total: 20 Jan 2025 op-ed says USD 21.82 billion; the doc keeps the Bangladesh Bank figure already cited (GM0003). Op-ed not used.
+
+## Prothom Alo chunk money-5 (articles Jun 2025 to Jan 2026), added 23 Nov 2026
+
+- 35 articles read in full; 19 used (facts GM0223-GM0272). Newest values given as dated current: incentive 2.5% (people in banking, Jan 2026); dollar Tk 122-123 in the banking sector (Jan 2026); bond rates 12% to 9% with no upper limit (Aug 2025); FY 2024-25 total about USD 30.33 billion; calendar 2025 USD 32.82 billion; monthly totals June-December 2025. Nov 2026 rate and charge questions stay open.
+- Answered and removed: the bond "Need to know" on which papers are needed (NID, passport, valid visa copy, proof of employment, savings account in Bangladesh; GM0226). A valid visa is listed, so the expired-permit half of that question is covered by the list.
+- New content: bank rankings for July 2025, Jan-Aug 2025 and all of 2025 (Krishi Bank's rise); how families receive money (cash pickup vs digital, MFS links); BRAC Bank remittance campaign; election-related remittance (Jan 2026) and Sunamganj candidates' funding from abroad; Bangladesh Bank dollar purchases by auction from July 2025; country sources for Jul-Nov 2025 with the US attribution corrected (confirms the aggregator allegation in GM0213/GM0214).
+- GM0254 (September 2024 = USD 2.4041 billion) logged but not cited: the doc already gives USD 2.40 billion (GM0151).
+- Unused: partial-month updates duplicating monthly totals (Jul 1-26 rate facts used, but Aug 1-12, Aug 1-27, Sep 1-9, Sep 1-21, Oct 1-25, Oct 1-29, Nov 1-18, Dec 1-17, Jan 1-14); 29 Jun 2025 report (FY figure to 28 June, superseded); Shoeb Sammo Siddique op-ed (no new fact; its table mislabels fiscal years); BIDS oil-price seminar (theoretical, no bearing on sending money).
+- Held for other docs (ledger gledger-money-5.json): NBR baggage-rule changes of 2 July 2025 and phone/goods allowances of Nov 2025 (faq); Bangladesh Bank lifting the USD 300 card limit for air tickets, Nov 2025 (departure).
+
+### Resolved conflicts (chunk 5)
+
+- FY 2024-25 total: 29 Jun and 28 Jul 2025 reports give USD 30.04 billion (counted to 28 June); 2 Jul, 3 Aug, 13 Aug (MCCI) and Nov-Dec 2025 reports give about USD 30.33 billion for the full year. The full-year figure is used (GM0234); GM0220 (29.46 by late June) is no longer cited.
+- 2023-24 comparison: 23.74 (same period to 28 June) vs 23.91 (full year, GM0079); different periods, not a conflict.
+- Rate peak: Jan 2026 reports say the bank dollar reached Tk 128 during the crisis around August 2024; the doc's dated Dec 2024 peak of Tk 127.50 for remittance dollars (GM0164) is a different measure; the Tk 128 is given undated as "during the dollar crisis".
+
+## Prothom Alo chunk money-6 (articles Jan to Jul 2026), added 23 Nov 2026
+
+- 25 articles read; mostly monthly totals (kept to one line per month under Months in 2026), the bKash 2025 figures, the February 2026 election bank closure, the Islami Bank board dissolution of June 2026, the 2026-27 budget (incentive kept, Probashi Card announced), no-frills accounts, and the land-dispute column.
+- Monthly figures repeated across many articles (December 2025, January 2026 election-funding claim, 2025 total, FY 2024-25 over USD 30 billion) were already in the doc from chunk 5 and were not logged again.
+- The first-seven-days figure for January 2026 (GM0233) is no longer cited now the full January figure (GM0283) is in.
+- FY 2025-26: 2 July 2026 report gives USD 35.20 billion to 27 June; 14 July 2026 column cites Bangladesh Bank's full-year USD 35.56 billion. Different periods; the full-year figure is used (GM0316).
+
+### Resolved conflicts (chunk 6)
+
+- Incentive 2.5% or 2%: the FAQ cites a Ministry of Expatriates' Welfare rejoinder of 24 June 2025 saying 2% (CQ0203). The finance minister's 2026-27 budget speech of 11 June 2026 (GM0307) says the existing 2.5% continues, and bKash in January 2026 (GM0274) describes it as Tk 25 per Tk 1,000 (2.5%). Newer and from the budget speech itself: 2.5% is used. Held for the FAQ doc to answer its "Need to know".
