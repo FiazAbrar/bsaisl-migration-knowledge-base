@@ -43,3 +43,22 @@ Status of announced plans as reported: the Probashi card was announced (budget, 
 ## Resolved conflicts (chunk services-4)
 
 - PKB loan ceiling: the 2026-27 budget speaks of PKB loans "up to Tk 10 lakh" for migrant workers [GV0207], while the migration loan is up to Tk 3 lakh [GV0005] and the language/skills-abroad loan up to Tk 10 lakh [GV0152]. The budget line is a one-sentence summary and likely refers to the Tk 10 lakh language/skills loan, but the source does not say so; the doc keeps Tk 3 lakh as the migration loan limit and asks in a Need to know.
+
+## Prothom Alo chunk services-5 (10 articles, Sep to Nov 2026), agent GV
+
+Added facts GV0233-GV0267. New sections: Applying online on MyGov (under The PKB migration loan); The skills and language loan funded by Bangladesh Bank (Before you go). Updated: In one minute; the Probashi card (not introduced by early September 2026); Training centres (TTC staffing shortage, Sept 2026; skill mix of departing workers and empty vocational institutes, from a polytechnic instructor's column); scholarships (2026 round: 25 Oct to 24 Nov 2026, two-children cap, diploma GPA 3.25, birth registration accepted, no agent-banking accounts, five years for MBBS/BDS/DVM/B.Arch).
+
+Status of announced plans, from this chunk:
+- Probashi card: not started; Prothom Alo, 5 Sep 2026, says still at the preparation stage [GV0234, GV0235]. Need to know narrowed.
+- PKB "up to Tk 10 lakh" (budget): answered. The migration loan is still capped at Tk 3 lakh in Nov 2026 [GV0260]; the Tk 10 lakh loans are the language/skills loans, including Bangladesh Bank's Tk 1,000 crore scheme, running since at least Oct 2026 with 481 borrowers [GV0236, GV0246]. Need to know removed.
+- Online migration loan (MyGov): started 3 Dec 2025, running at 122 branches [GV0258, GV0261].
+- 2026 scholarship round: started (25 Oct 2026). Two Need to know items answered and removed.
+- Bangladesh Support Centres, the returnee rehabilitation fund, the district one-stop service, legal firms abroad, the ILO cash scheme for returnee women, BRTC driver training: no article in this chunk reports any of them; Need to know items left open.
+
+Logged but not cited: GV0247 (Bangladesh Bank's monitoring department; no use to a migrant); GV0257 (scholarship helpline: see resolved conflict).
+
+## Resolved conflicts (chunk services-5)
+
+- Probash-Bondhu number from abroad: the 20 Oct 2026 scholarship article prints +880 9610 203030 [GV0257]; the April 2024 article [GV0036], BMET's safe migration leaflet and the Welfare Board's 2023-24 annual report (both in global/dalal-scams/sources) give 09610102030. The official sources win; the 2026 figure is a misprint (digits shifted). The doc keeps +8809610102030 and does not cite GV0257.
+- Diploma scholarship threshold: 3.50 in the 2025 round [GV0109], 3.25 in the 2026 round [GV0253]. A change between rounds, not a conflict; the doc gives both.
+- PKB language/skills loans: the 9% Bangladesh Bank-funded scheme (collateral-free to Tk 10 lakh, two guarantors, 3 years plus extension to 5, students excluded) differs from the 11% loan reported in Dec 2025 (tiered collateral). The April 2026 report's "collateral-free up to Tk 10 lakh" matches the new scheme, so it may have described it early, but no source says whether the 11% loan was replaced. Kept as a Need to know.

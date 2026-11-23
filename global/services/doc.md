@@ -4,7 +4,7 @@ The government, BRAC and other services that help people before they go, while t
 
 ## In one minute
 
-Most of the state's help for migrants comes from two bodies funded by migrants themselves. The Wage Earners' Welfare Board runs on a fund formed from migrants' own money, and it provided 95% of the capital of Probashi Kallyan Bank (PKB), the government bank for migrants [GV0020, GV0003]. PKB lends up to Tk 3 lakh to go abroad at 9% simple interest, with no property mortgaged, and if the borrower dies the rest of the loan is written off [GV0005, GV0011, GV0041]. Since late 2025 it also lends up to Tk 10 lakh at 11% for a language or skills course abroad [GV0152, GV0153]. The TTCs (technical training centres) of BMET (Bureau of Manpower, Employment and Training) teach languages from Japanese to Arabic and Portuguese, though a Cornell University language-centre coordinator estimated that only about 2,500 of some 13 lakh workers who went abroad in a year had learned a language at a government centre [GV0172, GV0199, GV0183]. The Welfare Board's desk at the airport checks clearances on the way out, receives the sick and the dead on the way back, and pays the burial grant [GV0019, GV0023]. At home, the Board pays scholarships to migrants' children and a monthly allowance for a disabled child, for workers who left with BMET clearance or joined the Board, and for workers who died and whose family got its grant [GV0028, GV0037]. On one day in April 2025 the Board handed 103 people Tk 1 crore 93 lakh in grants, scholarships, insurance and other help, and said it had given Tk 273 crore 81 lakh to 12,158 people during the interim government's term [GV0123, GV0127]. Abroad, a worker in some Gulf countries, South Korea or Italy can finish SSC, HSC or a degree through Bangladesh Open University via the embassy [GV0055, GV0061, GV0064]. In March 2024 the state minister promised welfare cells to take services to the grassroots, and an NGO project, Helvetas's SIMS, worked in 23 upazilas of three districts [GV0089, GV0090]. The 2026-27 budget announced a Probashi card to make government services and welfare benefits easier to get, with Biman ticket and lounge discounts promised to holders, and "Bangladesh Support Centres" at embassies to rescue workers in jail or cheated and give them legal help; on 30 August 2026 the minister said the card was still to be finalised [GV0213, GV0216, GV0208, GV0209, GV0230]. A women's advocacy group, CWCS, says some returnee women are not taken back by their husbands or families, and in 2024 it asked for guarantor-free loans and free legal help for them [GV0075, GV0093, GV0092].
+Most of the state's help for migrants comes from two bodies funded by migrants themselves. The Wage Earners' Welfare Board runs on a fund formed from migrants' own money, and it provided 95% of the capital of Probashi Kallyan Bank (PKB), the government bank for migrants [GV0020, GV0003]. PKB lends up to Tk 3 lakh to go abroad at 9% simple interest, with no property mortgaged, and if the borrower dies the rest of the loan is written off [GV0005, GV0011, GV0041]. Since 3 December 2025 a worker can apply for it online on MyGov, the government's service portal; more than 10,000 had applied by November 2026, and approval was taking 3 to 4 days, according to a press release from the government's a2i programme [GV0258, GV0259]. Since late 2025 PKB also lends up to Tk 10 lakh at 11% for a language or skills course abroad, and by October 2026 Bangladesh Bank had launched a Tk 1,000 crore scheme through PKB that lends workers up to Tk 10 lakh, without collateral and at no more than 9%, for language or skills training in the destination country [GV0152, GV0153, GV0236, GV0238, GV0240]. The TTCs (technical training centres) of BMET (Bureau of Manpower, Employment and Training) teach languages from Japanese to Arabic and Portuguese, though a Cornell University language-centre coordinator estimated that only about 2,500 of some 13 lakh workers who went abroad in a year had learned a language at a government centre [GV0172, GV0199, GV0183]. The Welfare Board's desk at the airport checks clearances on the way out, receives the sick and the dead on the way back, and pays the burial grant [GV0019, GV0023]. At home, the Board pays scholarships to migrants' children and a monthly allowance for a disabled child, for workers who left with BMET clearance or joined the Board, and for workers who died and whose family got its grant [GV0028, GV0037]. On one day in April 2025 the Board handed 103 people Tk 1 crore 93 lakh in grants, scholarships, insurance and other help, and said it had given Tk 273 crore 81 lakh to 12,158 people during the interim government's term [GV0123, GV0127]. Abroad, a worker in some Gulf countries, South Korea or Italy can finish SSC, HSC or a degree through Bangladesh Open University via the embassy [GV0055, GV0061, GV0064]. In March 2024 the state minister promised welfare cells to take services to the grassroots, and an NGO project, Helvetas's SIMS, worked in 23 upazilas of three districts [GV0089, GV0090]. The 2026-27 budget announced a Probashi card to make government services and welfare benefits easier to get, with Biman ticket and lounge discounts promised to holders, and "Bangladesh Support Centres" at embassies to rescue workers in jail or cheated and give them legal help; on 30 August 2026 the minister said the card was still to be finalised, and in early September 2026 it had not been introduced and was still being prepared [GV0213, GV0216, GV0208, GV0209, GV0230, GV0234, GV0235]. A women's advocacy group, CWCS, says some returnee women are not taken back by their husbands or families, and in 2024 it asked for guarantor-free loans and free legal help for them [GV0075, GV0093, GV0092].
 
 ## Before you go
 
@@ -29,12 +29,12 @@ The government has announced a Probashi card for people going abroad and for mig
 - **Priority check-in and boarding:** the civil aviation ministry would arrange them, said its state minister, M Rashiduzzaman Millat [GV0220].
 - **Hotels and motels of Bangladesh Parjatan Corporation (the state tourism corporation):** a discount was being considered [GV0219].
 
-On 30 August 2026 the minister for expatriates' welfare, Ariful Haque Chowdhury, said the card's introduction would be finalised as part of the government's 180-day programme [GV0230]. The earlier announcements, and the Prime Minister's deputy press secretary's statement that a pilot would start from August 2026: see "Is there a list of good agencies?" in the Frequently asked questions about going abroad doc [GV0193].
+On 30 August 2026 the minister for expatriates' welfare, Ariful Haque Chowdhury, said the card's introduction would be finalised as part of the government's 180-day programme [GV0230]. Prothom Alo reported on 5 September 2026 that the card had not yet been introduced, unlike the government's Family card and Farmer card, and was still at the preparation stage, although the minister had announced in February 2026 that it would come soon [GV0234, GV0235]. The earlier announcements, and the Prime Minister's deputy press secretary's statement that a pilot would start from August 2026: see "Is there a list of good agencies?" in the Frequently asked questions about going abroad doc [GV0193].
 
 **Migrants' records.** TechGlobal Institute (TGI), a technology research institute, claims in a report covering January 2023 to May 2026 that in one incident the Ministry of Expatriates' Welfare's database put migrants' passports, NIDs, e-TINs (tax numbers) and financial and banking documents at risk of exposure together, and that there were three attempts to break into the migrant workers' database, which holds the data of more than 10 lakh workers, within about six weeks in April and May 2026 [GV0228, GV0229].
 
 > **Need to know**
-> - Has distribution of the Probashi card started, who can get one, where does a worker apply, with which papers, and does it cost anything [GV0230]?
+> - The card had not started by early September 2026 [GV0234]. Has it started since, and if so who can get one, where does a worker apply, with which papers, and does it cost anything?
 > - Do card holders get the Biman discount and Balaka lounge in practice, and how large is the discount [GV0218]?
 
 ### Training centres
@@ -44,7 +44,9 @@ Prime Minister Sheikh Hasina said in May 2024 that her government had built 112 
 > **Need to know**
 > - Was KOICA's USD 1 crore for the Chattogram Bangladesh-Korea TTC signed, and what courses does the centre now run [GV0069]?
 
-At the same roundtable Nurul Haque said the government had noticed 23 ministries giving similar training, wasting public money without results [GV0190, GV0191].
+At the same roundtable Nurul Haque said the government had noticed 23 ministries giving similar training, wasting public money without results [GV0190, GV0191]. Answering an MP in parliament, as reported on 3 September 2026, he said the TTCs lack skilled staff to run them and that new staff cannot be recruited because of bureaucratic complications [GV0233].
+
+Md. Mamun Hasan, an instructor at Satkhira Government Polytechnic Institute, wrote in October 2026 that by 2025 figures about 43% of Bangladeshis going abroad were low-skilled and 34% semi-skilled, and that 621 of the 3,440 vocational institutions approved by the Technical Education Board had not admitted a single student in five years [GV0248, GV0249].
 
 #### Language courses at the TTCs
 
@@ -117,9 +119,19 @@ Applying costs nothing; you fill in the bank's own form, and you must first open
 
 Because the visa and smart card are needed, you can apply only near the end of the process (see "When can I apply for the PKB loan?" in the Frequently asked questions about going abroad doc) [GV0007, GV0008].
 
+#### Applying online on MyGov
+
+Since 3 December 2025 the migration loan can be applied for online through MyGov, the government's digital service platform; after a pilot, the service runs at 122 of PKB's branches [GV0258, GV0261]. The applicant applies and follows the application's progress from home, instead of going to the branch several times to hand in papers [GV0262]. The amount is set after PKB checks what the worker's migration actually costs, up to the Tk 3 lakh limit, at 9% interest [GV0260]. As reported in November 2026 [GV0258, GV0259, GV0263]:
+- **Uptake:** more than 10,000 workers had applied online and PKB had approved more than Tk 200 crore in about a year.
+- **Speed:** approval was taking 3 to 4 days from application, according to a press release from the government's a2i programme.
+- **Cost to the applicant:** a survey PKB published found that applicants' time, travel and application costs each fell by 50%.
+
+> **Need to know**
+> - After a MyGov approval, does the worker still have to go to the branch with the guarantors to sign and to collect the money, and how many visits does that take?
+
 #### How the loan is decided and repaid
 
-1. If every paper is in order, the bank gives its decision within seven days of the application [GV0011].
+1. If every paper is in order, the bank gives its decision within seven days of the application; for online applications on MyGov, a2i said in November 2026 that approval takes 3 to 4 days [GV0011, GV0259].
 2. Once the application is processed, PKB tells you by SMS that the loan is approved [GV0010].
 3. Repay monthly at any PKB branch or at any Sonali Bank branch, under an agreement between the two banks [GV0013].
 
@@ -141,8 +153,9 @@ From 2011 to the 2023-24 financial year PKB lent Tk 3,311 crore 86 lakh to 1,70,
 
 On 5 March 2026 the Prime Minister told the ministries concerned to arrange low-interest bank loans and make loans easier to get, so that no one has to sell their property to go abroad for work, his additional press secretary said [GV0177]. The 2026-27 budget, presented on 11 June 2026 by the finance minister, Amir Khasru Mahmud Chowdhury, said PKB loans of up to Tk 10 lakh on easy terms for migrant workers would continue and the programme would be widened [GV0207]. In parliament in June 2026 an MP, Kamrul Hasan, asked whether the government would arrange interest-free bank loans for people going abroad; the state minister, Nurul Haque, described the government's plans, which the report does not detail [GV0203, GV0204].
 
+In November 2026 the migration loan was still up to Tk 3 lakh [GV0260]; the two loans of up to Tk 10 lakh in this doc are for language or skills training (see The PKB loan for language study and skills abroad; see The skills and language loan funded by Bangladesh Bank) [GV0152, GV0236].
+
 > **Need to know**
-> - Does the budget's "up to Tk 10 lakh" mean the migration loan's Tk 3 lakh limit has been raised, or does it refer to the language-study loan [GV0207, GV0005]?
 > - Has the government announced an interest-free loan for people going abroad, and on what terms [GV0204]?
 
 ### The PKB loan for language study and skills abroad
@@ -167,10 +180,36 @@ PKB lends Tk 1 lakh to Tk 10 lakh to students and trainees who want to take a la
 **Apply** online or in person at the nearest branch only; PKB has warned of fraud in loan processing and says it has no agents [GV0164]. Helpline 16238 [GV0164, GV0182]. The student loan of up to Tk 10 lakh as proof of solvency for higher study is in "Can I get a government loan to go abroad?" in the Frequently asked questions about going abroad doc [GV0178].
 
 > **Need to know**
-> - Does PKB still take property collateral above Tk 3 lakh, or is the loan collateral-free up to Tk 10 lakh as the April 2026 report says [GV0162, GV0178]?
+> - Is this 11% loan still offered alongside the 9% loan (see The skills and language loan funded by Bangladesh Bank), or has that scheme replaced it; and does PKB still take property collateral above Tk 3 lakh on it [GV0162, GV0236]?
 > - Which Japanese level does PKB accept, N4 or N5, and is the longest term three or five years [GV0157, GV0180, GV0153, GV0181]?
 > - Is this the same loan as the Tk 10 lakh solvency loan for students announced in March 2026, and how many people have taken it?
 > - Has the special bank-loan programme for meritorious students going abroad for higher study, proposed in the 2026-27 budget, started, and is it separate from PKB's loan [GV0212]?
+
+### The skills and language loan funded by Bangladesh Bank
+
+Bangladesh Bank, the central bank, has launched a Tk 1,000 crore pre-finance scheme, lent through PKB, to pay for skills and language training for Bangladeshis going abroad to work, as reported in October 2026 [GV0236]. Bangladesh Bank's additional director Mohammad Salahuddin Tafadar said the money goes to PKB in five instalments of Tk 200 crore, each released after the previous one is checked to have been properly used [GV0237]. By PKB's figures, Tk 13.03 crore had been lent to 481 people by 4 October 2026 [GV0246].
+
+**What it pays for:** tuition fees for language or job-skills training in the destination country after the worker arrives, and in certain cases living costs; not the air ticket [GV0240].
+
+**Who can borrow:** anyone going abroad legally to work; students going abroad to study cannot [GV0241]. PKB's managing director, Wahida Begum, said people going through any legal channel, government or private, can borrow under the bank's migration loan policy [GV0242].
+
+**Terms** [GV0238, GV0239]:
+- **Amount:** up to Tk 10 lakh, with no collateral.
+- **Guarantors:** two, one a closest family member and the other an established person in society able to repay the loan.
+- **Interest:** at most 9%.
+- **Term:** three years, including six months' grace before repayment, extendable to five years if needed.
+
+**Bring:** a valid passport and visa, the "certificate of eligibility" required, the certificate of qualification for the language or skills training, and an offer letter from the training or educational institution stating the tuition fee, how many months the training lasts and who pays living costs [GV0243].
+
+To apply [GV0244, GV0245]:
+1. Apply on PKB's website; there is no need to go to a branch to apply, and the application's progress can be followed online.
+2. The branch checks the information and papers and sends the application to PKB's head office.
+3. If head office approves, it sends the approval letter to the branch.
+4. Go to the branch in person to give consent to take the loan.
+
+> **Need to know**
+> - What is the "certificate of eligibility" PKB asks for, and who issues it [GV0243]?
+> - Which training abroad has the loan paid for so far (which countries and courses), and is the money sent straight to the institution [GV0240]?
 
 ### Private insurance: Guardian Probashi Prohori
 
@@ -284,20 +323,20 @@ A Bangladeshi migrant in Doha wrote in June 2024 that sending a body home costs 
 
 ### Scholarships for migrants' children
 
-The Welfare Board pays scholarships to high-achieving children of migrants; the amounts are in "Is there help for my children?" in the Frequently asked questions about going abroad doc [GV0028]. The rules, from the latest round reported, which closed on 25 November 2025 [GV0106]:
-- **Whose children:** of a worker who left with BMET emigration clearance or holds Welfare Board membership, or of a worker who died and whose family got or will get the Board's grant [GV0028].
-- **Which students:** in the 2024 round, those who passed SSC in 2024 and were in class 11 or a diploma course, or passed HSC in 2023 and were at a university or medical college; the 2025 round took SSC 2025, HSC 2024 and Diploma in Engineering 2024 results [GV0104, GV0107, GV0108, GV0109].
-- **Results needed, child of a worker abroad:** SSC GPA 5.00 in science or 4.75 in humanities and business studies; HSC GPA 4.80 in science or 4.50 in humanities and business studies; Diploma in Engineering GPA 3.50 [GV0107, GV0108, GV0109].
-- **Results needed, child of a worker who died abroad:** GPA 4.00 in any group at SSC or HSC; GPA 3.00 for the diploma [GV0107, GV0108, GV0109].
-- **How long it is paid:** from SSC, two years for classes 11 and 12 or four years for a diploma; from HSC, three years for a pass degree, four for honours and five for medical, whatever the session delays; from the Diploma in Engineering, four years [GV0049, GV0050, GV0110].
+The Welfare Board pays scholarships to high-achieving children of migrants; the amounts are in "Is there help for my children?" in the Frequently asked questions about going abroad doc [GV0028]. The 2026 round takes online applications from 25 October to 24 November 2026 [GV0250]. Its rules:
+- **Whose children:** the father or mother must have taken BMET emigration clearance or be a Welfare Board member, and at most two children of one worker can apply [GV0252]. Earlier rounds also named children of a worker who died and whose family got or will get the Board's grant [GV0028].
+- **Which students:** those who passed SSC in 2026 and are in class 11 or the first semester or year of a Diploma in Engineering; those who passed HSC in 2025 and are in the first semester or year at a university or medical college; and those who passed the Diploma in Engineering in 2025 and are in the first semester or year of a BSc in Engineering [GV0250, GV0266, GV0267, GV0251].
+- **Results needed, child of a worker abroad:** SSC GPA 5.00 in science or 4.75 in humanities and business studies; HSC GPA 4.80 in science or 4.50 in humanities and business studies; Diploma in Engineering GPA 3.25, down from 3.50 in the 2025 round [GV0264, GV0265, GV0253, GV0109].
+- **Results needed, child of a worker who died abroad:** GPA 4.00 in any group at SSC or HSC; GPA 3.00 for the diploma [GV0264, GV0265, GV0253].
+- **How long it is paid:** from SSC, two years for classes 11 and 12 or four years for a diploma; from HSC, three years for a pass degree, four for honours and five for MBBS, BDS, DVM, B.Arch and similar courses, whatever the session delays; from the Diploma in Engineering, four years [GV0049, GV0050, GV0256, GV0110].
 
-Papers to scan, as listed for the 2025 round [GV0111, GV0145]:
-- proof that the mother or father is a migrant worker;
-- a certificate from the head of the student's institution, with the head's mobile number;
-- for a child of a worker who died abroad, a certificate from the Bangladesh embassy;
-- a statement of the student's own bank account, with the account and routing numbers;
-- one photo and the student's signature;
-- a copy of the student's NID card (the 2024 round accepted a birth registration copy instead) [GV0105].
+Papers to scan, as listed for the 2026 round [GV0254, GV0255, GV0111]:
+- a copy of the migrant worker's passport, and the BMET emigration clearance or proof of Welfare Board membership;
+- a certificate from the student's institution, carrying the institution head's mobile number;
+- for a child of a worker who died abroad, an NOC (no-objection certificate) from the Bangladesh mission abroad;
+- a statement of the student's own account at a scheduled bank, with the account and routing numbers; an agent-banking account is not accepted;
+- the student's photo and signature;
+- a copy of the student's birth registration or NID.
 
 To apply:
 1. Go to www.wewb.gov.bd or http://stipen.wewb.gov.bd/stipend; applications are online only, not in person or by post [GV0030, GV0032].
@@ -308,8 +347,7 @@ To apply:
 Past rounds: the 2025 round closed on 25 November 2025; the 2024 round ran from 25 November to 24 December 2024; the round before closed on 31 January 2024, and its winners' lists were published in April 2024 [GV0106, GV0033, GV0035, GV0036]. At one Welfare Board event on 16 April 2025, 65 students were given scholarships [GV0124]. For details the Board asks people to call Probash-Bondhu: 16135 toll-free in Bangladesh, +8809610102030 from abroad [GV0036].
 
 > **Need to know**
-> - When does the 2026 scholarship round open, and are the 2025 rules unchanged [GV0106]?
-> - Can a student with no NID yet (under 18) apply with a birth registration in 2025 and later rounds [GV0111]?
+> - When are the 2026 round's winners published, and when is the first payment made [GV0250]?
 
 ### Allowance for a migrant's disabled child
 
