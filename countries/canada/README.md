@@ -60,7 +60,7 @@ CAD is the Canadian dollar; Tk is the Bangladeshi taka (1 lakh is Tk 100,000). I
 
 ### 1.1 In one minute
 
-Bangladeshis go to Canada as students and visitors, and some on work permits tied to a job offer <sup>[N4](#n4), [N2](#n2), [N5](#n5)</sup>. Since 2024 Canada has been cutting back: it capped international students, tied the post-study work permit to listed subjects and a language score, and planned to roughly halve new students in 2026 <sup>[N6 (2024)](#n6), [N1 (2024)](#n1), [N7](#n7)</sup>. Many people got Canadian visit visas after COVID-19 with fake documents and then crossed into the United States or claimed asylum, so Canada now refuses far more visas, stops suspect travellers before they board, and from March 2026 made asylum much harder to get <sup>[N2](#n2), [N8](#n8)</sup>. A false document or false statement, even one an agent put in the application, can bring a ban of at least five years <sup>[N9](#n9)</sup>. In October 2026 CBSA charged a ring that filed 243 visit-visa applications for 209 Bangladeshis with fake hosts and forged papers, and a Saskatchewan court jailed two Bangladeshi-origin restaurant owners for trafficking a Bangladeshi woman promised a job and permanent residence <sup>[N3](#n3), [N5](#n5)</sup>. When Canada sought powers in 2025 to cancel visas en masse, its internal documents named India and Bangladesh as "specific challenging countries", and 10 of the 45 Bangladeshis given visitor visas for the 2026 FIFA World Cup claimed asylum <sup>[N10](#n10), [N11](#n11)</sup>. Students arrive to a weak job market: in early 2026 unemployment among 15- to 24-year-olds was 14.1% <sup>[N12](#n12)</sup>. Fake Canadian job offers sold in Bangladesh are covered in the Dalal scams doc (see "Fake Australia and Canada work visas" in the Dalal scams doc).
+Bangladeshis go to Canada as students and visitors, and some on work permits tied to a job offer <sup>[N4](#n4), [N2](#n2), [N5](#n5)</sup>. Since 2024 Canada has been cutting back: it capped international students, tied the post-study work permit for college graduates to listed subjects, required a language score for it, and planned to roughly halve new students in 2026 <sup>[N6 (2024)](#n6), [N1 (2024)](#n1), [N7](#n7)</sup>. Many people got Canadian visit visas after COVID-19 with fake documents and then crossed into the United States or claimed asylum, a Canada-based journalist wrote <sup>[N2](#n2)</sup>. Canada now refuses far more visas, stops suspect travellers before they board, and from March 2026 made asylum much harder to get <sup>[N2](#n2), [N8](#n8)</sup>. A false document or false statement, even one an agent put in the application, can bring a ban of at least five years <sup>[N9](#n9)</sup>. In October 2026 CBSA charged five people accused of running a ring that filed 243 visit-visa applications for 209 Bangladeshis with fake hosts and forged papers <sup>[N3](#n3)</sup>, and a Saskatchewan court jailed two Bangladeshi-origin restaurant owners for trafficking a Bangladeshi woman promised a job and permanent residence <sup>[N3](#n3), [N5](#n5)</sup>. When Canada sought powers in 2025 to cancel visas en masse, its internal documents named India and Bangladesh as "specific challenging countries", and 10 of the 45 Bangladeshis given visitor visas for the 2026 FIFA World Cup claimed asylum <sup>[N10](#n10), [N11](#n11)</sup>. Students arrive to a weak job market: in early 2026 unemployment among 15- to 24-year-olds was 14.1% <sup>[N12](#n12)</sup>. Fake Canadian job offers sold in Bangladesh are covered in the Dalal scams doc (see "Fake Australia and Canada work visas" in the Dalal scams doc).
 
 <a id="is-it-open-now-and-who-can-go"></a>
 
@@ -74,15 +74,15 @@ Open for students, visitors and workers with a genuine job offer, but with fewer
 
 - **22 January 2024:** Canada announced a two-year cap on international students: at most 360,000 a year, about 35% fewer than in 2023, because of a housing crisis (see [Student visa](#student-visa)) <sup>[N6 (2024)](#n6)</sup>.
 - **March 2024:** Canada began re-checking visas for fraud, after which more than 2,000 Indian and Bangladeshi nationals were stopped from boarding flights to Canada, according to a Global Affairs Canada document <sup>[N2](#n2)</sup>.
-- **June 2024:** with enhanced visa checks, the refusal rate for new Canadian visa applications reached 63%, according to the same document <sup>[N2](#n2)</sup>.
+- **From June 2024:** Canada introduced enhanced visa checks, after which the refusal rate for new Canadian visa applications reached 63%, according to the same document <sup>[N2](#n2)</sup>.
 - **1 November 2024:** new rules for the post-graduation work permit took effect (see [Step 4: Apply for the post-graduation work permit](#step-4-apply-for-the-post-graduation-work-permit)) <sup>[N1 (2024)](#n1)</sup>.
 - **4 November 2025:** the 2025 federal budget cut the 2026 target for new temporary residents to 385,000, about 43% below 2025 <sup>[N7](#n7)</sup>.
-- **Early 2026:** 178 programs were removed from the post-study work permit list and 119 fields added <sup>[N13](#n13)</sup>.
 - **November 2025:** Bill C-12, before Parliament, included a power to cancel visas en masse; internal documents named India and Bangladesh (see [Visa cancellation powers](#visa-cancellation-powers)) <sup>[N10](#n10)</sup>.
+- **Early 2026:** 178 programs were removed from the post-study work permit list and 119 fields added <sup>[N13](#n13)</sup>.
 - **January-February 2026:** Canada lost about 109,000 jobs, 64,000 of them held by young people (see [Can you work?](#can-you-work)) <sup>[N12](#n12)</sup>.
 - **26 March 2026:** Bill C-12, the Strengthening Canada's Immigration System and Borders Act, took effect and made asylum much harder to get (see [Asylum](#asylum)) <sup>[N8](#n8)</sup>.
 - **19 June 2026:** new asylum laws were proposed, which many expect to tighten the system further <sup>[N8](#n8)</sup>.
-- **June-July 2026, FIFA World Cup:** 10 of the 45 Bangladeshis given World Cup visitor visas claimed asylum after arriving (see [World Cup visitors who claimed asylum](#world-cup-visitors-who-claimed-asylum)) <sup>[N11](#n11)</sup>.
+- **2026 FIFA World Cup:** 10 of the 45 Bangladeshis given World Cup visitor visas claimed asylum after arriving (see [World Cup visitors who claimed asylum](#world-cup-visitors-who-claimed-asylum)) <sup>[N11](#n11)</sup>.
 - **1 September 2026:** for study permit applications from this date, a single applicant outside Quebec must show at least CAD 23,448 for living costs on top of tuition (see [Step 2: Apply for the study permit](#step-2-apply-for-the-study-permit)) <sup>[N14](#n14)</sup>. Parts of Quebec's secularism law took effect the same day, banning prayer rooms at public universities and colleges (see [Step 1: Choose the institution and program](#step-1-choose-the-institution-and-program)) <sup>[N14](#n14)</sup>.
 - **22 October 2026:** CBSA announced charges against five people over a Bangladeshi visit-visa fraud ring (see [Fake hosts and invitation letters: the CBSA case](#fake-hosts-and-invitation-letters-the-cbsa-case)) <sup>[N3](#n3)</sup>.
 
@@ -94,9 +94,9 @@ Open for students, visitors and workers with a genuine job offer, but with fewer
 
 #### 1.2.2 The channels
 
-- **Student visa (study permit), then the post-graduation work permit:** the route most Bangladeshis use (see [Student visa](#student-visa)) <sup>[N4](#n4), [N13](#n13)</sup>.
+- **Student visa (study permit), then the post-graduation work permit:** see Student visa <sup>[N4](#n4), [N13](#n13)</sup>.
 - **Visit visa (temporary resident visa, TRV):** for visits; now refused far more often (see [Visit visa](#visit-visa)) <sup>[N3](#n3), [N2](#n2)</sup>.
-- **Work permit with a job offer:** through the Temporary Foreign Worker Program, with an LMIA (Labour Market Impact Assessment, the employer's proof that no Canadian was found for the job) (see [Work permit](#work-permit)) <sup>[N7](#n7), [N5](#n5)</sup>.
+- **Work permit with a job offer:** through the Temporary Foreign Worker Program, with an LMIA (Labour Market Impact Assessment; how it works is in "Fake Australia and Canada work visas" in the Dalal scams doc) (see [Work permit](#work-permit)) <sup>[N7](#n7), [N5](#n5)</sup>.
 - **Permanent residence:** later, for some temporary workers and graduates, not on arrival (see [Permanent residence](#permanent-residence)) <sup>[N7](#n7)</sup>.
 - **Not a legal route:** going on to the United States across the land border (see [Irregular routes and undocumented stay](#irregular-routes-and-undocumented-stay)) <sup>[N4](#n4), [N2](#n2)</sup>.
 
@@ -118,7 +118,7 @@ Open for students, visitors and workers with a genuine job offer, but with fewer
 
 ### 1.3 How a job reaches you, and who takes a cut
 
-In this reporting a Bangladeshi reaches Canada through a college or university admission, a visit visa backed by a Canadian host, or a job offer through the temporary foreign worker process, and the cut is taken by people who fake one of those papers <sup>[N4](#n4), [N3](#n3), [N5](#n5)</sup>. The 2026 CBSA case shows the visit-visa version: men in Montreal and Toronto and a partner in Bangladesh are accused of building applications for 209 Bangladeshis with fake Canadian hosts and forged documents (see [Fake hosts and invitation letters: the CBSA case](#fake-hosts-and-invitation-letters-the-cbsa-case)) <sup>[N3](#n3)</sup>. The Saskatchewan case shows the job version: two Bangladeshi-origin restaurant owners promised a woman a restaurant job and permanent residence through the temporary foreign worker process, then worked her without a valid permit (see [The Saskatchewan restaurant case](#the-saskatchewan-restaurant-case)) <sup>[N5](#n5)</sup>. On the student side, an immigration consultant can be the weak point: one Bangladeshi's first asylum claim was rejected because a fraudulent consultant filed it <sup>[N15](#n15)</sup>.
+In this reporting a Bangladeshi reaches Canada through a college or university admission, a visit visa backed by a Canadian host, or a job offer through the temporary foreign worker process, and each reported fraud or abuse case turns on one of those routes <sup>[N4](#n4), [N3](#n3), [N5](#n5)</sup>. The 2026 CBSA case shows the visit-visa version: men in Montreal and Toronto and a partner in Bangladesh are accused of building applications for 209 Bangladeshis with fake Canadian hosts and forged documents (see [Fake hosts and invitation letters: the CBSA case](#fake-hosts-and-invitation-letters-the-cbsa-case)) <sup>[N3](#n3)</sup>. The Saskatchewan case shows the job version: two Bangladeshi-origin restaurant owners promised a woman a restaurant job and permanent residence through the temporary foreign worker process, then worked her without a valid permit (see [The Saskatchewan restaurant case](#the-saskatchewan-restaurant-case)) <sup>[N5](#n5)</sup>. Immigration consultants can also cheat: one Bangladeshi refugee claimant's first asylum claim was rejected because a fraudulent immigration consultant filed it <sup>[N15](#n15)</sup>.
 
 > **Need to know**
 > - What do Bangladeshi brokers charge in 2026 for a Canadian visit visa file with a host's invitation letter, and for an LMIA job offer?
@@ -154,7 +154,7 @@ In this reporting a Bangladeshi reaches Canada through a college or university a
 
 ### 1.6 What goes wrong most, and what people wrongly believe
 
-The reported problems are fake documents in visit-visa files, students who never start their courses, asylum claims that no longer succeed, and workers held without valid permits <sup>[N3](#n3), [N4](#n4), [N8](#n8), [N5](#n5)</sup>.
+The reported problems are fake documents in visit-visa files, students who never start their courses, asylum claims that are now examined strictly and harder to win, and workers held without valid permits <sup>[N3](#n3), [N4](#n4), [N8](#n8), [N5](#n5)</sup>.
 
 <a id="what-people-believe-and-the-facts"></a>
 
@@ -191,14 +191,14 @@ Canada capped new international students in 2024 because of a housing crisis, cu
 
 ### 3.1 Step 1: Choose the institution and program
 
-1. Start 10 to 12 months ahead: the main intake is September (some institutions also take students in January or May), applications for September usually open late in the year before, and international deadlines are often earlier <sup>[N14](#n14)</sup>.
+1. Plan at least 10 to 12 months ahead, a November 2026 study guide advises, because September applications open late in the previous year and international deadlines are often earlier <sup>[N14](#n14)</sup>. The main intake is September (some institutions also take students in January or May), applications for September usually open late in the year before, and international deadlines are often earlier <sup>[N14](#n14)</sup>.
 2. Check the entry requirements: a Bangladeshi HSC (Higher Secondary Certificate) is enough to apply for a three- to four-year bachelor's degree; each university's website shows how it rates the HSC, the subjects it requires (higher mathematics and physics for engineering) and the minimum marks; a GPA 5 alone does not guarantee admission or a scholarship, because competitive programs look at subject marks <sup>[N14](#n14)</sup>.
 3. Take an English test: most English-medium universities accept IELTS Academic, TOEFL iBT or another test they recognise; many bachelor's programs ask for IELTS 6.5 overall, with minimums for each part that vary by department, and French-language institutions may require French <sup>[N14](#n14)</sup>.
 4. Check that the program leads to a post-graduation work permit if you want to work in Canada afterwards:
    - a university bachelor's degree qualifies in any field, for a permit of up to three years <sup>[N1 (2024)](#n1)</sup>;
    - a college program qualifies only if it is on IRCC's list: 966 programs in agriculture and agri-food, health care, STEM (science, technology, engineering and mathematics), skilled trades and transportation <sup>[N1 (2024)](#n1)</sup>;
    - tourism, hospitality and business studies are not on the list <sup>[N1 (2024)](#n1)</sup>;
-   - since 2024 only programs on IRCC's approved Classification of Instructional Programs (CIP) list qualify; 119 fields were added and 178 programs removed from early 2026 <sup>[N13](#n13)</sup>.
+   - the list is IRCC's approved Classification of Instructional Programs (CIP) list; from early 2026, 119 fields were added to it and 178 programs removed <sup>[N13](#n13)</sup>;
    - not every institution or program qualifies, so check before admission <sup>[N14](#n14)</sup>.
 5. For a diploma or certificate, confirm the program's CIP code, and re-check it if you change program midway <sup>[N13](#n13)</sup>.
 6. Look for scholarships early: universities offer entrance and merit scholarships and some offer need-based aid, but full bachelor's scholarships are few and very competitive, and many scholarship deadlines close before the admission deadline <sup>[N14](#n14)</sup>.
@@ -257,7 +257,7 @@ The post-graduation work permit (PGWP) is an open work permit for graduates of C
 - proof of program completion (degree, diploma or transcript) <sup>[N13](#n13)</sup>;
 - proof of full-time enrolment <sup>[N13](#n13)</sup>;
 - proof that the program is eligible <sup>[N13](#n13)</sup>;
-- language test results from an approved test in English or French, no more than two years old: CLB (Canadian Language Benchmarks) 7 or NCLC 7 for university graduates, CLB 5 or NCLC 5 in reading, writing, listening and speaking for college graduates <sup>[N1 (2024)](#n1), [N13](#n13)</sup>;
+- language test results from an approved test in English or French, no more than two years old: CLB (Canadian Language Benchmarks) 7 or the French equivalent, NCLC 7, for university graduates, CLB 5 or NCLC 5 in reading, writing, listening and speaking for college graduates <sup>[N1 (2024)](#n1), [N13](#n13)</sup>;
 - medical results, where needed <sup>[N13](#n13)</sup>;
 - a passport valid long enough: the permit cannot run past the passport's expiry, so renew it first, the article advised <sup>[N13](#n13)</sup>.
 
@@ -280,7 +280,6 @@ Since the 2024 cap, only spouses of master's, PhD and postdoctoral students get 
 #### 3.7.1 Done to students
 
 - **Fake colleges:** many Indian students found on arrival that their college was fake or lacked facilities, according to the Economic Times <sup>[N4](#n4)</sup>. One from Haryana dealt with his agent only by phone, and after he paid 4 lakh rupees the agent assured him he could pay the rest from part-time work; he had paid 4.2 lakh rupees of a 12 lakh rupee "tuition fee" before finding the college was an empty office <sup>[N4](#n4)</sup>.
-- **Fraudulent consultants:** see Asylum <sup>[N15](#n15)</sup>.
 
 <a id="done-by-students"></a>
 
@@ -311,7 +310,7 @@ Documents obtained by CBC News in 2025 show IRCC and CBSA officials set up a wor
 
 ### 4.2 World Cup visitors who claimed asylum
 
-Canada issued 26,111 FIFA-related temporary resident permits or visas for the 2026 World Cup matches in Toronto and Vancouver, and by 20 July 2026, 175 of the holders had claimed asylum after arriving, according to IRCC data reported by The Globe and Mail <sup>[N11](#n11)</sup>. Only 45 of the visas went to Bangladeshis, and 10 of them claimed asylum, about one in five <sup>[N11](#n11)</sup>. Ghana and China had 25 claimants each; Egypt, Colombia and Kenya 15; Bangladesh, Nigeria and Senegal 10; Pakistan, Nepal, Burundi and Ecuador 5 <sup>[N11](#n11)</sup>. IRCC had warned that ticket holders at risk of not going home could be stopped at the border, and immigration analysts fear the claims will make visas harder for genuine fans at future events <sup>[N11](#n11)</sup>.
+Canada issued 26,111 FIFA-related temporary resident permits or visas for the 2026 World Cup matches in Toronto and Vancouver, and by 20 July 2026, 175 of the holders had claimed asylum after arriving, according to IRCC data reported by The Globe and Mail <sup>[N11](#n11)</sup>. Only 45 of the visas went to Bangladeshis, and 10 of them claimed asylum, about one in five <sup>[N11](#n11)</sup>. Ghana and China had 25 claimants each; Egypt, Colombia and Kenya 15; Bangladesh, Nigeria and Senegal 10; Pakistan, Nepal, Burundi and Ecuador 5 <sup>[N11](#n11)</sup>. Canada's immigration authorities had warned that ticket holders at risk of not going home could be stopped at the border, and immigration analysts fear the claims will make visas harder for genuine fans at future events <sup>[N11](#n11)</sup>.
 
 <a id="fake-hosts-and-invitation-letters-the-cbsa-case"></a>
 
@@ -378,7 +377,7 @@ Under IRPA, forging or altering a passport, visa, education certificate or simil
 
 ## 8 Asylum
 
-Asylum claims by temporary visa holders (visitors and students) fell from 10,095 in April 2024 to 1,580 in April 2026, an 84% drop, according to IRCC <sup>[N8](#n8)</sup>. People used to enter on a visit or student visa and claim asylum later; now any mismatch between the reasons given for the visa and the asylum claim is examined strictly <sup>[N8](#n8)</sup>. Bill C-12, in force since 26 March 2026, made asylum eligibility much harder, especially for those who claim long after entering Canada <sup>[N8](#n8)</sup>. Claims are now filed through a digital portal with strict deadlines, and more are being dismissed or declared abandoned <sup>[N8](#n8)</sup>. Many visit-visa holders who claimed asylum after COVID-19 still had cases in the courts in June 2025 <sup>[N2](#n2)</sup>. Of the 45 Bangladeshis given visitor visas for the 2026 World Cup, 10 claimed asylum (see [World Cup visitors who claimed asylum](#world-cup-visitors-who-claimed-asylum)) <sup>[N11](#n11)</sup>. (see "Asylum claims built on a false story" in the Illegal routes doc).
+Asylum claims by temporary visa holders (visitors and students) fell from 10,095 in April 2024 to 1,580 in April 2026, an 84% drop, according to IRCC <sup>[N8](#n8)</sup>. People used to enter on a visit or student visa and claim asylum later; now any mismatch between the reasons given for the visa and the asylum claim is examined strictly <sup>[N8](#n8)</sup>. Bill C-12, in force since 26 March 2026, made asylum eligibility much harder, especially for those who claim long after entering Canada <sup>[N8](#n8)</sup>. Claims are now filed through a digital portal with strict deadlines, and more are being dismissed or declared abandoned <sup>[N8](#n8)</sup>. Many visit-visa holders who claimed asylum after COVID-19 still had cases in the courts in June 2025 <sup>[N2](#n2)</sup>. Of the 45 Bangladeshis given visitor visas for the 2026 World Cup, 10 claimed asylum (see [World Cup visitors who claimed asylum](#world-cup-visitors-who-claimed-asylum)) <sup>[N11](#n11)</sup>. How false asylum stories are sold is covered in the Illegal routes doc (see "Asylum claims built on a false story" in the Illegal routes doc).
 
 One Bangladeshi refugee claimant's first claim was rejected because it was filed through a fraudulent immigration consultant (see [Crossing into the United States](#crossing-into-the-united-states)) <sup>[N15](#n15)</sup>.
 
@@ -390,11 +389,11 @@ One Bangladeshi refugee claimant's first claim was rejected because it was filed
 
 ### 9.1 Crossing into the United States
 
-Many people who came on visit visas after COVID-19 crossed illegally into the US, and Indian authorities said some students did the same <sup>[N2](#n2), [N4](#n4)</sup>. A Global Affairs Canada document said stricter visa rules for travellers from Mexico, India and Bangladesh cut illegal crossings from Canada into the US by 84% between June and November 2024 <sup>[N2](#n2)</sup>.
+Many people who came on visit visas after COVID-19 crossed illegally into the US, a Canada-based journalist wrote, and Indian authorities said some students did the same <sup>[N2](#n2), [N4](#n4)</sup>. A Global Affairs Canada document said stricter visa rules for travellers from Mexico, India and Bangladesh cut illegal crossings from Canada into the US by 84% between June and November 2024 <sup>[N2](#n2)</sup>.
 
 Mahin Shahriar, a Bangladeshi-origin refugee claimant who his lawyer says has lived in Canada since 2019, shows how a crossing can end <sup>[N15](#n15)</sup>:
 1. On 12 May 2025 he followed directions sent to a friend's phone to an address near Montreal that was very close to the border, and crossed into the US without knowing it, he said <sup>[N15](#n15)</sup>.
-2. US ICE (Immigration and Customs Enforcement) held him in Buffalo; ICE was ready to return him but CBSA did not approve his entry, and CBSA said every entry decision is made case by case <sup>[N15](#n15)</sup>.
+2. US ICE (Immigration and Customs Enforcement) held him in Buffalo; his lawyer said ICE was ready to return him but CBSA did not approve his entry, and CBSA said every entry decision is made case by case <sup>[N15](#n15)</sup>.
 3. ICE could not send him to Bangladesh because he had no travel document, and US authorities accepted that he might be tortured there, his lawyer said <sup>[N15](#n15)</sup>.
 4. His lawyer, Wasim Ahmed, said the Safe Third Country Agreement has a rule to return such an asylum seeker to Canada within 14 days, and asked the Federal Court for an urgent hearing on humanitarian grounds <sup>[N15](#n15)</sup>.
 
@@ -423,7 +422,7 @@ Biman Bangladesh Airlines flies Dhaka to Toronto with a stopover in Rome; one fl
 
 ## 11 Contacts
 
-- **Bangladesh High Commission, Ottawa, and Consulate General, Toronto:** voter registration and smart NID (national identity card) services for Bangladeshis in Canada, available since 11 September 2025 <sup>[N19](#n19)</sup>.
+- **Bangladesh High Commission, Ottawa, and Consulate General, Toronto:** voter registration and NID (national identity card) services for Bangladeshis in Canada, available since 11 September 2025 <sup>[N19](#n19)</sup>.
 
 > **Need to know**
 > - The addresses, phone numbers and emergency helplines of the Bangladesh High Commission in Ottawa and the Consulate General in Toronto.
