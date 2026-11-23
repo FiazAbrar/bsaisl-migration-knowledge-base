@@ -358,3 +358,12 @@ Checked 19 November 2026 against facts.csv quotes and the saved sources. All cha
 - Fortify Rights/Truth Hounds figures (104 recruited, 34 killed) come from RFE/RL (Nov 2026); the saved Fortify Rights March 2026 page doesn't contain them.
 - Embassy contacts for Tripoli and Moscow and the CID THB Unit's public number remain Need to know items (not re-searched).
 - Not every source behind every sentence was opened in full; numbers and allegations were all checked against saved text, other sentences against the quotes.
+
+## Prothom Alo chunk illegal-routes-1 (prefix GI, Nov 2026)
+
+29 articles read; 16 used (facts GI0001 to GI0056). The March 2026 Middle East war articles (flights cancelled, ministry hotline and control room, remittances) and a column on bodies sent home were held for the departure, services, money and FAQ docs (see the ledger gledger-illegal-routes-1.json).
+
+### Resolved conflicts
+
+- **Bangladeshis crossing the Mediterranean since 2009.** Three figures: 84,000 for 2009 to 2024 (Prothom Alo editorial, 6 Feb 2025) [LB0139], 106,598 for 2009 to May 2024 (Prothom Alo editorial, 31 Aug 2024) [GI0023], and about 110,000 for 2009 to June 2026 (Frontex) [I0351]. Settled for Frontex: it is the EU border agency that counts the crossings, while both editorials name no source and disagree with each other by over 20,000 for almost the same period. The doc keeps Frontex's figure and the yearly arrival counts; the two editorial totals are no longer cited (the 6 Feb 2025 editorial is still cited, attributed, for its deaths-per-year statement). No Need to know.
+- **Trafficking cases in 2023.** BNWLA's Safayet Bin Kamal said 137 trafficking cases were recorded nationwide in 2023 [GI0038]; the Home Ministry counted 683 new cases in January to September 2023 alone [AA0005]. These are probably different counts (BNWLA's own record versus police cases), and the Home Ministry figure is the primary one, so it stays the national figure under "What happens to trafficking cases"; the BNWLA figure is kept only in the Malaysia numbers, attributed, for its 44% Cox's Bazar share. No "Need to know": it changes nothing a migrant would do.
