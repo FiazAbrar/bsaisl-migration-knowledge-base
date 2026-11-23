@@ -378,3 +378,16 @@ Checked 19 November 2026 against facts.csv quotes and the saved sources. All cha
 - The UNHCR/IOM statement also mentions a second late-June boat of about 250 with which contact was lost. This is a different event from the April boat of about 250 (different months and departure points); both are kept as separate cases.
 
 - **2008 essay on trafficking to India and Pakistan (GI0111, GI0112):** logged but not cited. The figures are from January 2008 and give no source; newer, sourced numbers are in the doc, and these change nothing a reader would do.
+
+## Prothom Alo chunk illegal-routes-x (prefix GI, Nov 2026)
+
+64 articles read (mostly Libya ransom cases and returns, Russia's war recruitment, the 2025 and 2026 Iran evacuations); facts GI0118 to GI0309. New: "Kidnapped after years of work", "Where the ransom is paid" and "The kidnappers speak Bangla" under Ransom and resale; December 2024 Zawiya sinking; charter returns 2024 to 2026; ten more broker cases; Kalkini and Narail rings; new sections Waiting in Iran, Through West Africa and the Sahara to Morocco (a 2005 case) and Legal jobs in Russia; Russia additions (brokers inside Russia, the April 2025 first-hand account, Suruj Kazi, the Jamalpur two, Sagar, Ali Hasan Sohel, captured men). Iran war evacuation logistics and hotlines, the Turkey BOESL notice and the Albania offer were held (see gledger-illegal-routes-x.json).
+
+### Resolved conflicts
+
+- **March 2026 Libya to Greece boat: how many Bangladeshis died.** The State Minister confirmed at least 18 [I0333]; Prothom Alo's local report of 5 April 2026 gives 22 dead, 18 of them Bangladeshi, 13 from Sunamganj with an upazila breakdown [GI0251, GI0252]; Md Touhid Hossain's column of 27 April 2026 relays "20 of the 22 dead or missing reported Bangladeshi" [LB0207]. The official figure and the specific local count agree on 18; the column is a later secondhand restatement. The doc now states 22 dead, 18 Bangladeshi, and no longer cites the column for the 20; the "Need to know" bullet is removed. The passenger count (43 per a survivor, 48 per the column) is left as reported; it changes nothing a reader would do.
+- **Sunamganj dead: 12 or 13.** 12 was the early count (Prothom Alo 29 to 31 March, the 1 April editorial, the Dirai case filed over 12 deaths); 13 is the 5 April count with each upazila named. The specific, later count wins; RU0055 (12) is no longer cited, and the editorial is cited without its number. The Dirai case is still described as filed over 12 deaths, as reported.
+- **Training for the group of 30: 21 days or 5.** Prothom Alo and the SRB report 21 days for the group [RU0084]; Ali Hasan Sohel says his group of 16 was sent after five days [GI0297]. Both are attributed in the doc; not raised as a Need to know because it changes nothing a reader would do.
+- **Two flights of 174 from Libya** (1 September and 27 October 2026) are separate flights with separate details (Tajoura detention centre; 36 from Tajoura, 41 ill), not a duplicate.
+- **Bosnia, September 2026:** 36 Bangladeshis of 96 [I0280] and 23 in the first group of 63 [GI0280] are consistent (the second group of 33 also held Bangladeshis); both kept.
+- **Old statistics:** the 2005 Western Sahara case is cited, dated, because it documents a route and its outcome; no figures from it are used as current numbers.
