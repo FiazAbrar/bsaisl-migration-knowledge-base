@@ -3787,7 +3787,6 @@ Up to USD 10,000 in foreign currency comes in without declaring, and that amount
 Several of those notices said posting photos or videos of the situation, or baseless news, on social media broke these countries' laws <sup>[N155](#n155)</sup>; Qatar's own rules on photos and posts are covered separately (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)). The Embassy's special flights home in March 2026 are covered separately (see [Amnesties and grace periods](#amnesties-and-grace-periods)) <sup>[N145](#n145)</sup>.
 
 > **Need to know**
-> - Is the Embassy hotline +974 3366 2000, as on its contact page <sup>[138](#o138)</sup>, or +974 3336 2000, as printed with its 28 February 2026 emergency notice <sup>[N155](#n155)</sup>?
 > - Which Embassy counter hours apply, when its Travel Permit and birth registration pages say applications are taken 08:30-16:00 <sup>[246](#o246), [230](#o230)</sup>?
 > - Does 16008 (MOL's 2024 report) still answer, given that Hukoomi (August 2026) and a November 2026 news report give 16505 <sup>[159](#o159), [129](#o129), [N124](#n124)</sup>?
 
