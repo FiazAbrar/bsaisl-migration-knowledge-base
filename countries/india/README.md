@@ -168,7 +168,7 @@ The people in the reporting entered India illegally and worked as labourers and 
 
 ### 2.1 Who gets a visa now
 
-Since July 2024 India has limited tourist and other visas for Bangladeshis, except for emergency medical treatment, bankers said in November 2024 <sup>[N6 (2024)](#n6)</sup>. Travel to India for treatment and tourism fell sharply as a result, people in the sector said in March 2025 <sup>[N14](#n14)</sup>.
+Since July 2024 India has limited tourist and other visas for Bangladeshis, except for emergency medical treatment, bankers said in November 2024 <sup>[N6 (2024)](#n6)</sup>. In December 2024 Prothom Alo reported tourist visas closed, with medical and higher-education visas given only on a limited scale <sup>[N21 (2024)](#n21)</sup>. Travel to India for treatment and tourism fell sharply as a result, people in the sector said in March 2025 <sup>[N14](#n14)</sup>.
 
 > **Need to know**
 > - Where does a Bangladeshi apply for an Indian visa in 2026 (the Indian Visa Application Centres in Bangladesh), what does each visa cost, and how long does a medical visa take?
@@ -178,8 +178,8 @@ Since July 2024 India has limited tourist and other visas for Bangladeshis, exce
 ### 2.2 What can get a visa cancelled
 
 - **Speaking against India:** on 25 March 2025 Indian authorities cancelled the visa of Md Azadur Rahman of Magura and sent him back through Changrabandha immigration, Cooch Behar, after an argument with a taxi driver at the stand by the checkpoint, over allegations that he spoke against India <sup>[N15](#n15)</sup>. Police took him from a protesting crowd to the police station, and an immigration official said his visa was cancelled after consulting the FRRO (Foreigners Regional Registration Office) in Kolkata <sup>[N15](#n15)</sup>.
-- **Political campaigning:** in 2019 Bangladeshi actor Ferdous Ahmed, in India on a business visa, joined a Trinamool Congress candidate's campaign in Raiganj; India's Home Ministry cancelled his visa and told him to leave, and reports say he was blacklisted <sup>[N21](#n21)</sup>.
-- **Overstaying:** Bangladeshi actor Gazi Abdun Noor stayed about nine months after his visa expired on 6 July 2018; India's Home Ministry told him to leave in 2019 and to apply for a new visa from Bangladesh <sup>[N21](#n21)</sup>.
+- **Political campaigning:** in 2019 Bangladeshi actor Ferdous Ahmed, in India on a business visa, joined a Trinamool Congress candidate's campaign in Raiganj; India's Home Ministry cancelled his visa and told him to leave, and reports say he was blacklisted <sup>[N22](#n22)</sup>.
+- **Overstaying:** Bangladeshi actor Gazi Abdun Noor stayed about nine months after his visa expired on 6 July 2018; India's Home Ministry told him to leave in 2019 and to apply for a new visa from Bangladesh <sup>[N22](#n22)</sup>.
 
 > **Need to know**
 > - What fine or ban does India impose on a Bangladeshi who overstays a visa by days or months in 2026?
@@ -195,8 +195,8 @@ For women and girls taken across the border and sold, see "India: women and girl
 ### 3.1 Where people cross
 
 - Families and colleagues of people who fled after August 2024 named Sylhet, Akhaura (Brahmanbaria), Netrokona, Haluaghat (Mymensingh), the Jashore area, Lalmonirhat and other northern border areas as the most used <sup>[N17 (2024)](#n17)</sup>.
-- In reported attempts: border pillar 1961/7-S, Chunarughat, Habiganj (September 2025); Bokchar, Chapainawabganj Sadar (January 2026); Uttar Jhaukuti, Nageshwari, Kurigram, into Dhubri district, Assam (April 2026) <sup>[N7](#n7), [N19](#n19), [N22](#n22)</sup>.
-- Of West Bengal's 2,200 km of border with Bangladesh, 1,600 km is fenced and about 600 km is not, its chief minister said in May 2026 <sup>[N5](#n5)</sup>. India is giving BSF border posts devices to take fingerprints and eye scans of undocumented Bangladeshis for its Foreigners Registration Office, according to Indian security sources quoted by PTI (Press Trust of India) in July 2025 <sup>[N23](#n23)</sup>.
+- In reported attempts: border pillar 1961/7-S, Chunarughat, Habiganj (September 2025); Bokchar, Chapainawabganj Sadar (January 2026); Uttar Jhaukuti, Nageshwari, Kurigram, into Dhubri district, Assam (April 2026) <sup>[N7](#n7), [N19](#n19), [N23](#n23)</sup>.
+- Of West Bengal's 2,200 km of border with Bangladesh, 1,600 km is fenced and about 600 km is not, its chief minister said in May 2026 <sup>[N5](#n5)</sup>. India is giving BSF border posts devices to take fingerprints and eye scans of undocumented Bangladeshis for its Foreigners Registration Office, according to Indian security sources quoted by PTI (Press Trust of India) in July 2025 <sup>[N24](#n24)</sup>.
 
 <a id="what-happens-on-the-way"></a>
 
@@ -287,7 +287,7 @@ Human Rights Watch's Asia director Elaine Pearson said detainees should have the
 - **May 2025:** 167 people were pushed in through Khagrachhari (73), Kurigram (46), Sylhet (23), Moulvibazar (15) and Chuadanga (10) from 4 to 7 May; on 9 May the BSF left 78 people on Mandarbaria char in the western Sundarbans, ill after days without food, one with a broken hand and several with marks of torture <sup>[N3](#n3)</sup>. By BGB's information those pushed in included Indian, Myanmar and Bangladeshi nationals <sup>[N3](#n3)</sup>. Bangladesh protested with a diplomatic note on 9 May <sup>[N3](#n3)</sup>.
 - **In no man's land:** people pushed out of Assam on 27 May 2025 said they stood knee-deep in water for 12 hours with no food or shelter; the BSF threatened to shoot them if they turned back and fired rubber bullets <sup>[N8](#n8)</sup>.
 - **June 2026:** BGB said it had stopped at least 18 BSF push-in attempts involving about 180 people since 4 June <sup>[N4](#n4)</sup>.
-- **Evidence:** the BSF is getting about 5,000 body cameras to record the sending back of undocumented Bangladeshis, according to Indian security sources in July 2025 <sup>[N23](#n23)</sup>.
+- **Evidence:** the BSF is getting about 5,000 body cameras to record the sending back of undocumented Bangladeshis, according to Indian security sources in July 2025 <sup>[N24](#n24)</sup>.
 - **Before:** push-ins were frequent around 2002-03, when the BJP-led NDA (National Democratic Alliance) governed India, writer Kallol Mustafa wrote in May 2025 <sup>[N3](#n3)</sup>.
 
 Faisal Mahmud, spokesperson of the Bangladesh High Commission in New Delhi, said in June 2025 that Bangladesh had told India the BSF's push-ins did not follow international procedure <sup>[N8](#n8)</sup>. BGB's Cumilla battalion commander said in October 2025 that BGB had asked the BSF not to push anyone across and to send it the names of any illegal Bangladeshi it held <sup>[N11](#n11)</sup>.
@@ -319,7 +319,7 @@ Robin filed a case at Dhanmondi police station, and police arrested three member
 - **Hotels in Jharkhand:** women garment workers in Chattogram were taken to India with offers of higher-paid parlour jobs and kept in hotels, forced into sex work and tortured if they refused, according to the police; one woman and a friend escaped, and her case led to the arrest of Md Tarek (34) on 24 June 2024 <sup>[N13 (2024)](#n13)</sup>.
 - **Brothels in Hyderabad:** police in Hyderabad rescued a Bangladeshi teenage girl from forced sex work in August 2025, the fourth such rescue in the city, from red-light areas in Khairatabad, Chaderghat and Bandlaguda <sup>[N18](#n18)</sup>. Trafficking rings operate in Attapur, Bandlaguda, Chintalmet, Himayatsagar Road and Champapet <sup>[N18](#n18)</sup>.
 - **Sold in other cities:** women trafficked from Bangladesh are sold to brokers in Kolkata, Delhi, Hyderabad, Mumbai and other cities, and a study by India's Central Social Welfare Board found 2.7% of women commercially sexually exploited in India are Bangladeshi <sup>[N18](#n18)</sup>.
-- **Jailed after rescue:** in November 2010 the family of a 19-year-old Faridpur woman learned she was held in Dum Dum Central Jail, Kolkata, after police rescued her from a brothel; she later killed herself in that jail <sup>[N24](#n24)</sup>.
+- **Jailed after rescue:** in November 2010 the family of a 19-year-old Faridpur woman learned she was held in Dum Dum Central Jail, Kolkata, after police rescued her from a brothel; she later killed herself in that jail <sup>[N25](#n25)</sup>.
 
 <a id="coming-home"></a>
 
@@ -331,14 +331,14 @@ Robin filed a case at Dhanmondi police station, and police arrested three member
 
 1. <a id="through-a-flag-meeting-or-land-port-item-1"></a>**The handover:** the BSF hands people to BGB at a flag meeting on the zero line, or Indian immigration hands them over at a land port such as Tamabil, on the Bangladeshi authorities' application <sup>[N2](#n2), [N9](#n9)</sup>.
 2. <a id="through-a-flag-meeting-or-land-port-item-2"></a>**Verification:** BGB checks names and addresses and confirms each person is Bangladeshi <sup>[N11](#n11)</sup>.
-3. <a id="through-a-flag-meeting-or-land-port-item-3"></a>**The police station:** BGB hands them to the local police station <sup>[N2](#n2), [N22](#n22)</sup>.
+3. <a id="through-a-flag-meeting-or-land-port-item-3"></a>**The police station:** BGB hands them to the local police station <sup>[N2](#n2), [N23](#n23)</sup>.
 4. <a id="through-a-flag-meeting-or-land-port-item-4"></a>**Home or court:** what follows has varied:
-   - handed to families (Phulbari, Kurigram, May 2025) or after the legal process (Tamabil, August 2025; Kachakata, Kurigram, April 2026) <sup>[N1](#n1), [N9](#n9), [N22](#n22)</sup>;
+   - handed to families (Phulbari, Kurigram, May 2025) or after the legal process (Tamabil, August 2025; Kachakata, Kurigram, April 2026) <sup>[N1](#n1), [N9](#n9), [N23](#n23)</sup>;
    - kept at the union parishad while police tell relatives and help them home (Darshana, Chuadanga, October 2025) <sup>[N2](#n2)</sup>;
    - a case filed by BGB and sent to court the next day (Chauddagram, Cumilla, October 2025) <sup>[N11](#n11)</sup>;
    - sent to court after the legal process: two men caught by the BSF on 27 April 2026 trying to come home without passports at Boirchuna, Pirganj, Thakurgaon <sup>[N20](#n20)</sup>.
 
-Two men who crossed into Assam on 12 April 2026, by their families' account after losing their way in bad weather, were handed back after their families told the Chouddoghori BGB outpost, BGB wrote to the BSF, and the two forces held a flag meeting <sup>[N22](#n22)</sup>.
+Two men who crossed into Assam on 12 April 2026, by their families' account after losing their way in bad weather, were handed back after their families told the Chouddoghori BGB outpost, BGB wrote to the BSF, and the two forces held a flag meeting <sup>[N23](#n23)</sup>.
 
 For help after reaching home, see "Help after you get home" in the Departure bottlenecks doc.
 
@@ -381,7 +381,8 @@ These facts come only from news or third-party sources. Each needs an official s
 - <a id="n18"></a>N18. Prothom Alo, 17 Aug 2025. [হায়দরাবাদে বাংলাদেশি কিশোরী উদ্ধার, বেরিয়ে আসছে ভারত–বাংলাদেশ মানব পাচার চক্রের তথ্য](https://www.prothomalo.com/bangladesh/crime/7bf0ydth30). Accessed 23 Nov 2026. Possibly outdated.
 - <a id="n19"></a>N19. Prothom Alo, 15 Jan 2026. [চাঁপাইনবাবগঞ্জ সীমান্তে সন্দেহভাজন মানব পাচারকারীসহ গ্রেপ্তার ৪](https://www.prothomalo.com/bangladesh/district/pe225flh1e). Accessed 23 Nov 2026.
 - <a id="n20"></a>N20. Prothom Alo, 28 Apr 2026. [অবৈধভাবে দেশে ফেরার সময় ঠাকুরগাঁও সীমান্তে আটক দুই বাংলাদেশিকে ফেরত দিল বিএসএফ](https://www.prothomalo.com/bangladesh/district/na8x2emo6v). Accessed 23 Nov 2026.
-- <a id="n21"></a>N21. Prothom Alo, 18 Oct 2026. [ফেরদৌস থেকে ইমরান–অক্ষয়, ভারতে নাগরিকত্ব–ভিসা নিয়ে বিতর্কে যাঁরা](https://www.prothomalo.com/entertainment/bollywood/bsd9fwcul2). Accessed 23 Nov 2026.
-- <a id="n22"></a>N22. Prothom Alo, 14 Apr 2026. [ভারতে অনুপ্রবেশকারী দুই বাংলাদেশিকে ফেরত দিল বিএসএফ](https://www.prothomalo.com/bangladesh/district/8zi33pgjk8). Accessed 23 Nov 2026.
-- <a id="n23"></a>N23. Prothom Alo, 27 Jul 2025. [বাংলাদেশ সীমান্তের জন্য ৫ হাজার বডিক্যাম পাচ্ছে বিএসএফ](https://www.prothomalo.com/world/india/hvim3huxw9). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n24"></a>N24. Prothom Alo, 30 Sep 2025. [ফরিদপুরে মানব পাচার মামলার ১৫ বছর পর এক ব্যক্তির যাবজ্জীবন কারাদণ্ড](https://www.prothomalo.com/bangladesh/district/62m64uywgl). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n21"></a>N21. Prothom Alo, 19 Dec 2024. [ঘরে বসে ১০ দিনেই মিলবে থাইল্যান্ডের ভিসা](https://www.prothomalo.com/lifestyle/travel/mt7mb0z3q8). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n22"></a>N22. Prothom Alo, 18 Oct 2026. [ফেরদৌস থেকে ইমরান–অক্ষয়, ভারতে নাগরিকত্ব–ভিসা নিয়ে বিতর্কে যাঁরা](https://www.prothomalo.com/entertainment/bollywood/bsd9fwcul2). Accessed 23 Nov 2026.
+- <a id="n23"></a>N23. Prothom Alo, 14 Apr 2026. [ভারতে অনুপ্রবেশকারী দুই বাংলাদেশিকে ফেরত দিল বিএসএফ](https://www.prothomalo.com/bangladesh/district/8zi33pgjk8). Accessed 23 Nov 2026.
+- <a id="n24"></a>N24. Prothom Alo, 27 Jul 2025. [বাংলাদেশ সীমান্তের জন্য ৫ হাজার বডিক্যাম পাচ্ছে বিএসএফ](https://www.prothomalo.com/world/india/hvim3huxw9). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n25"></a>N25. Prothom Alo, 30 Sep 2025. [ফরিদপুরে মানব পাচার মামলার ১৫ বছর পর এক ব্যক্তির যাবজ্জীবন কারাদণ্ড](https://www.prothomalo.com/bangladesh/district/62m64uywgl). Accessed 23 Nov 2026. Possibly outdated.

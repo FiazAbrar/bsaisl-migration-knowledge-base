@@ -24,6 +24,7 @@ The reporting covers the 2024 war and evacuation (registration with the embassy,
 - **Her name:** Dipali Begum (most articles) vs Dipali Akter (12 April and 5 May articles); father named differently too. Same person (same age, village, date and place of death). The doc uses "Dipali Begum".
 - **Flight counts in the 2024 evacuation:** 697 people on 11 flights by 21 November 2024 [XL0045] but 963 on 9 flights by 5 December 2024 [XL0046]; 1,246 on 19 flights by 17 January 2025 [XL0050]. The people counts rise consistently; the flight counts don't. The doc gives people counts, and the flight count only for the final total.
 - **First flight:** expected 53 on 20 October (Foreign Adviser, 17 October) [XL0017 article], actually 54 on 21 October [XL0023]. The actual figure is used.
+- **Where the 11 May 2026 drone struck:** the embassy-based report of 11 May says a residence in Zebdine [XL0074]; the Satkhira district report of 12 May says a vehicle carrying bread [XL0087]. The earlier report quotes the embassy, so the doc keeps "residence"; it changes nothing a migrant would do. XL0087 is left uncited.
 - **Wanting to return:** about 1,000 (initial information, 9 October 2024) [XL0013], then 1,800 registered (17 to 31 October) [XL0017, XL0037]. A rising count, not a conflict; the later figure is used.
 
 ## Facts logged but not cited

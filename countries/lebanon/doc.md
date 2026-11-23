@@ -28,11 +28,11 @@ As of the latest reporting (May 2026), Israel was still attacking Lebanon, and B
 
 #### Who works there and where
 
-The reporting shows women working as domestic workers, living in the employer's house [XL0031, XL0054]. It shows men working in Beirut (one was killed in the Hazmieh area on his way to work) and living in the south, in Nabatieh [XL0042, XL0074]. Some families live there together, and children are born there (see Family in Lebanon) [XL0024].
+The reporting shows women working as domestic workers, living in the employer's house [XL0031, XL0054]. It shows men working in Beirut (one was killed in the Hazmieh area on his way to work) and living in the south, in Nabatieh, one of them as a labourer in a fruit orchard [XL0042, XL0074, XL0083]. Some families live there together, and children are born there (see Family in Lebanon) [XL0024].
 
 ### How a job reaches you, and who takes a cut
 
-The reporting does not say how Lebanon jobs reach workers in Bangladesh. What it shows is that people spend a lot of money to go, enough that many would not leave in a war for fear of losing it [XL0018].
+The reporting says little about how Lebanon jobs reach workers in Bangladesh. In 2026 a Satkhira man went through a neighbour already working there [XL0083, XL0086]. What it also shows is that people spend a lot of money to go, enough that many would not leave in a war for fear of losing it [XL0018].
 
 > **Need to know**
 > - How does a Lebanon domestic-worker job reach a woman in Bangladesh: through licensed agencies with BMET permission letters, through relatives already in Lebanon, or through brokers?
@@ -40,7 +40,7 @@ The reporting does not say how Lebanon jobs reach workers in Bangladesh. What it
 
 ### What you pay, and what you earn and keep
 
-The reporting gives no cost or wage figures for Lebanon. A man who returned in October 2024 after 10 years in Lebanon said he came back empty-handed [XL0032].
+In 2026 a Satkhira man who went to work in a fruit orchard spent about Tk 12 lakh, most of it borrowed: his father sold a cow, took a loan from an NGO and borrowed from relatives [XL0084, XL0085]. The reporting gives no wage figures. A man who returned in October 2024 after 10 years in Lebanon said he came back empty-handed [XL0032].
 
 > **Need to know**
 > - What does a woman pay to go to Lebanon as a domestic worker in 2026, and what does a man pay?
@@ -151,21 +151,22 @@ In both wars, flights limited when a body could come home. In November 2024 the 
 3. The Faridpur centre started work and contacted Lebanon through the embassy [XL0065].
 4. The embassy got a certified police report and a permit to send the body, and completed the other paperwork [XL0068].
 5. The body flew from Beirut on Emirates through Dubai to Dhaka [XL0069].
+6. At Dhaka airport on 7 May 2026 the State Minister for Foreign Affairs handed the body to the family, who took it to the village overnight in a government-arranged ambulance [XL0079, XL0080].
 
-The Faridpur centre's assistant director said the war and disrupted flights caused the delay [XL0072].
+The Faridpur centre's assistant director said the war and disrupted flights caused the delay [XL0072]. The State Minister said that in wartime a body comes home only through talks with various countries and when flights are running, often with Saudi Arabia's help, and that following each government's rules takes time [XL0081].
 
 > **Need to know**
 > - Who pays to fly a body home from Lebanon, and what does the employer, the embassy or the Wage Earners' Welfare Board each cover?
 
 ### What the family gets
 
-In the April 2026 case, Faridpur officials said the government would take the body home by free ambulance, give the family Tk 35,000 for burial at the airport and later Tk 3 lakh [XL0064, XL0071]. It could not be said whether any help would come from the Lebanese government, since she died in war, the district employment and manpower office said [XL0063]. The upazila nirbahi officer (UNO, the head of the sub-district administration) gave the family Tk 10,000 and a dry-food package from the Ministry of Relief [XL0066]. The general rules for all countries are covered elsewhere (see "If a worker dies abroad" in the Services for migrants and their families doc).
+In the April 2026 case, Faridpur officials said the government would take the body home by free ambulance, give the family Tk 35,000 for burial at the airport and later Tk 3 lakh [XL0064, XL0071]. When the body arrived in May, the Tk 35,000 was paid at the airport, with the Tk 3 lakh to follow under government rules [XL0082]. It could not be said whether any help would come from the Lebanese government, since she died in war, the district employment and manpower office said [XL0063]. The upazila nirbahi officer (UNO, the head of the sub-district administration) gave the family Tk 10,000 and a dry-food package from the Ministry of Relief [XL0066]. The general rules for all countries are covered elsewhere (see "If a worker dies abroad" in the Services for migrants and their families doc).
 
 ### Cases
 
 - **2 November 2024:** Mohammad Nizam, 31, of Kasba, Brahmanbaria, killed by an air strike at a coffee shop in Beirut's Hazmieh area on his way to work [XL0076, XL0042].
 - **8 April 2026:** Dipali Begum, 34, of Charbhadrasan, Faridpur, a domestic worker, killed with her employer and his family, seven people in all, when an Israeli air strike brought down the employer's house in Beirut's Hamra area; she died in Rafic Hariri Hospital [XL0054, XL0073, XL0077].
-- **11 May 2026:** two men from Satkhira district killed by an Israeli drone strike on their residence in the Zebdine area of Nabatieh, south Lebanon; their bodies were at Nabih Berri Hospital in Nabatieh [XL0074, XL0075].
+- **11 May 2026:** two men from Satkhira district, Shafikul Islam, 45, of Satkhira Sadar, a fruit-orchard labourer who had arrived two and a half months earlier, and Nahidul Islam, 40, of Ashashuni, the neighbour through whom he went, killed by an Israeli drone strike on their residence in the Zebdine area of Nabatieh, south Lebanon; their bodies were at Nabih Berri Hospital in Nabatieh; Shafikul's wife, left with two children, asked how she would repay the money he borrowed to go [XL0074, XL0075, XL0083, XL0086, XL0088].
 
 ## Coming home
 

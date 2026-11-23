@@ -594,3 +594,7 @@ Status fixes after copying: B0034 (welfare-fee circular, Tk 5,500 from 1 Oct 202
 
 - Conflict: Prothom Alo (18 Sep 2025, PS0022), citing BMET, gives 58,878 departures in 2024 and 919,159 for 2004 to May 2025; BMET's own table gives 56,878 (C0001) and 913,159 (C0002). Kept BMET's figures; the article's look like typos (one digit each). Does not change what a worker would do, so no Need to know.
 - PS0018 (NBL Money Transfer CEO: a sudden end to cash deposits would cause a crisis) logged but not cited: opinion with no bearing on what a worker does.
+
+## Resolved conflicts
+
+- **When Rakib Hossain died (2024):** the article's opening says he died on 3 April [PS0040]; his father's detailed account in the same article says he was crushed on 3 April and died in hospital on 20 April after 18 days [PS0036, PS0037]. The specific account is used; PS0040 is left uncited.

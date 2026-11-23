@@ -1073,6 +1073,8 @@ Bangladeshis, like all other nationalities except Israeli passport holders, get 
 
 **Status for Bangladeshis (8 November 2026):** the visa on arrival is open to them; no suspension or quota for Bangladeshi tourists is published [V0001, V0012]. Bangladeshis are nonetheless turned back at Velana International Airport for fake hotel bookings and for not knowing where they will stay (see Step 3) [V0084, V0085, V0086].
 
+**How many go:** Bangladeshi tourists rose from 3,000 to 4,000 a year to 16,807 in 2022 and 28,336 in 2023, helped by direct Dhaka-Malé flights and cheap packages; in January to August 2024, 20,840 went, 29% more than a year earlier, by the Maldives Tourism Ministry's count [PM0008, PM0010, PM0009].
+
 ### Step 1: Prepare
 
 You'll need:

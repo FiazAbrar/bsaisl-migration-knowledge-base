@@ -80,13 +80,13 @@ As of the latest reporting (May 2026), Israel was still attacking Lebanon, and B
 
 #### 1.2.3 Who works there and where
 
-The reporting shows women working as domestic workers, living in the employer's house <sup>[N5 (2024)](#n5), [N3](#n3)</sup>. It shows men working in Beirut (one was killed in the Hazmieh area on his way to work) and living in the south, in Nabatieh <sup>[N12 (2024)](#n12), [N8](#n8)</sup>. Some families live there together, and children are born there (see [Family in Lebanon](#family-in-lebanon)) <sup>[N11 (2024)](#n11)</sup>.
+The reporting shows women working as domestic workers, living in the employer's house <sup>[N5 (2024)](#n5), [N3](#n3)</sup>. It shows men working in Beirut (one was killed in the Hazmieh area on his way to work) and living in the south, in Nabatieh, one of them as a labourer in a fruit orchard <sup>[N12 (2024)](#n12), [N8](#n8), [N13](#n13)</sup>. Some families live there together, and children are born there (see [Family in Lebanon](#family-in-lebanon)) <sup>[N11 (2024)](#n11)</sup>.
 
 <a id="how-a-job-reaches-you-and-who-takes-a-cut"></a>
 
 ### 1.3 How a job reaches you, and who takes a cut
 
-The reporting does not say how Lebanon jobs reach workers in Bangladesh. What it shows is that people spend a lot of money to go, enough that many would not leave in a war for fear of losing it <sup>[N4 (2024)](#n4)</sup>.
+The reporting says little about how Lebanon jobs reach workers in Bangladesh. In 2026 a Satkhira man went through a neighbour already working there <sup>[N13](#n13)</sup>. What it also shows is that people spend a lot of money to go, enough that many would not leave in a war for fear of losing it <sup>[N4 (2024)](#n4)</sup>.
 
 > **Need to know**
 > - How does a Lebanon domestic-worker job reach a woman in Bangladesh: through licensed agencies with BMET permission letters, through relatives already in Lebanon, or through brokers?
@@ -96,7 +96,7 @@ The reporting does not say how Lebanon jobs reach workers in Bangladesh. What it
 
 ### 1.4 What you pay, and what you earn and keep
 
-The reporting gives no cost or wage figures for Lebanon. A man who returned in October 2024 after 10 years in Lebanon said he came back empty-handed <sup>[N5 (2024)](#n5)</sup>.
+In 2026 a Satkhira man who went to work in a fruit orchard spent about Tk 12 lakh, most of it borrowed: his father sold a cow, took a loan from an NGO and borrowed from relatives <sup>[N13](#n13)</sup>. The reporting gives no wage figures. A man who returned in October 2024 after 10 years in Lebanon said he came back empty-handed <sup>[N5 (2024)](#n5)</sup>.
 
 > **Need to know**
 > - What does a woman pay to go to Lebanon as a domestic worker in 2026, and what does a man pay?
@@ -169,7 +169,7 @@ When Israel's 2024 attacks began, the Bangladesh government flew home, free of c
 ### 5.1 Step 1: Register with the embassy or IOM
 
 1. On 9 October 2024 the Bangladesh Embassy in Beirut asked Bangladeshis who wanted to come home to register their names with it <sup>[N1 (2024)](#n1)</sup>.
-2. Some registered with IOM instead: of 82 who came home on 21 November 2024, 76 had registered with the embassy and came at government expense, and 6 had registered with IOM and came on IOM's funding <sup>[N13 (2024)](#n13)</sup>.
+2. Some registered with IOM instead: of 82 who came home on 21 November 2024, 76 had registered with the embassy and came at government expense, and 6 had registered with IOM and came on IOM's funding <sup>[N14 (2024)](#n14)</sup>.
 
 > **Need to know**
 > - How did people register with the embassy in 2024: by phone, by a form, or in person, and what did they need to give?
@@ -186,7 +186,7 @@ When Israel's 2024 attacks began, the Bangladesh government flew home, free of c
 
 1. Beirut's airport was not safe for flights at first, and the government advised Bangladeshis to look for places outside the war zone <sup>[N1 (2024)](#n1)</sup>.
 2. No more than about 50 seats a day were available from Beirut; the government considered taking people by sea to Mersin in Turkey and flying them on <sup>[N4 (2024)](#n4)</sup>.
-3. Groups flew from Rafic Hariri International Airport in Beirut to Dhaka through Jeddah, or through Dubai; later groups came on Emirates, including a flight the government chartered <sup>[N2 (2024)](#n2), [N10 (2024)](#n10), [N13 (2024)](#n13), [N6 (2024)](#n6)</sup>.
+3. Groups flew from Rafic Hariri International Airport in Beirut to Dhaka through Jeddah, or through Dubai; later groups came on Emirates, including a flight the government chartered <sup>[N2 (2024)](#n2), [N10 (2024)](#n10), [N14 (2024)](#n14), [N6 (2024)](#n6)</sup>.
 
 <a id="step-4-at-dhaka-airport"></a>
 
@@ -202,7 +202,7 @@ When Israel's 2024 attacks began, the Bangladesh government flew home, free of c
 - 54 on 21 October 2024, the first group, including 7 children <sup>[N11 (2024)](#n11)</sup>.
 - 119 by 23 October 2024, after a second group of 65 <sup>[N2 (2024)](#n2)</sup>.
 - 268 by 31 October 2024, in six groups <sup>[N10 (2024)](#n10)</sup>.
-- 697 by 21 November 2024 <sup>[N13 (2024)](#n13)</sup>.
+- 697 by 21 November 2024 <sup>[N14 (2024)](#n14)</sup>.
 - 963 by 5 December 2024 <sup>[N6 (2024)](#n6)</sup>.
 - 1,246 on 19 flights by 17 January 2025 <sup>[N7](#n7)</sup>.
 
@@ -212,7 +212,7 @@ By 21 October 2024 the government had spent Tk 17.55 crore on support, Tk 55 lak
 
 ## 6 Health care
 
-On 23 June 2024 the Bangladesh Embassy in Beirut ran a free health camp at the Al Classico stadium in Beirut, where more than 300 Bangladeshis got free care and medicine; the medical team of the Bangladesh Navy ship BNS Sangram, serving in the UN peacekeeping mission in Lebanon, gave the advice and medicine <sup>[N14 (2024)](#n14)</sup>.
+On 23 June 2024 the Bangladesh Embassy in Beirut ran a free health camp at the Al Classico stadium in Beirut, where more than 300 Bangladeshis got free care and medicine; the medical team of the Bangladesh Navy ship BNS Sangram, serving in the UN peacekeeping mission in Lebanon, gave the advice and medicine <sup>[N15 (2024)](#n15)</sup>.
 
 > **Need to know**
 > - Does a domestic worker in Lebanon have health insurance through her employer, and who pays a hospital bill?
@@ -221,7 +221,7 @@ On 23 June 2024 the Bangladesh Embassy in Beirut ran a free health camp at the A
 
 ## 7 Sending money home
 
-The Bangladesh Embassy in Beirut gave awards for the first time to the workers who sent the most money home through legal channels in 2023: nine workers, two of them women <sup>[N15 (2024)](#n15)</sup>. Some workers send money through a shop: a domestic worker's family learned of her death from the owner of the shop she sent money through <sup>[N3](#n3)</sup>. Informal transfers carry their own risks (see "Hundi: how it works and the risks" in the Sending money home doc).
+The Bangladesh Embassy in Beirut gave awards for the first time to the workers who sent the most money home through legal channels in 2023: nine workers, two of them women <sup>[N16 (2024)](#n16)</sup>. Some workers send money through a shop: a domestic worker's family learned of her death from the owner of the shop she sent money through <sup>[N3](#n3)</sup>. Informal transfers carry their own risks (see "Hundi: how it works and the risks" in the Sending money home doc).
 
 > **Need to know**
 > - Which banks and exchange houses in Lebanon send money to Bangladesh legally, and what do they charge?
@@ -234,15 +234,16 @@ The Bangladesh Embassy in Beirut gave awards for the first time to the workers w
 
 ### 8.1 Bringing the body home
 
-In both wars, flights limited when a body could come home. In November 2024 the embassy told a killed man's wife in Lebanon that his body could not be sent to Bangladesh because there were no flights during the war <sup>[N12 (2024)](#n12)</sup>. In April 2026 the State Minister for Foreign Affairs said flights were not good enough to bring a killed woman's body home at once <sup>[N16](#n16)</sup>. The Ministry of Foreign Affairs said the embassy would bring her body home when the situation allowed <sup>[N17](#n17)</sup>. Her body came home a month after her death; the steps in her case were:
+In both wars, flights limited when a body could come home. In November 2024 the embassy told a killed man's wife in Lebanon that his body could not be sent to Bangladesh because there were no flights during the war <sup>[N12 (2024)](#n12)</sup>. In April 2026 the State Minister for Foreign Affairs said flights were not good enough to bring a killed woman's body home at once <sup>[N17](#n17)</sup>. The Ministry of Foreign Affairs said the embassy would bring her body home when the situation allowed <sup>[N18](#n18)</sup>. Her body came home a month after her death; the steps in her case were:
 
 1. The body was kept at the hospital morgue in Beirut, and the embassy contacted the hospital <sup>[N3](#n3)</sup>.
-2. In Faridpur, her home district, the family were told by officials to come and apply; her sister applied to the Foreign Minister and to the Faridpur Probashi Kallyan Centre, the government's migrant welfare office in the district <sup>[N16](#n16)</sup>.
-3. The Faridpur centre started work and contacted Lebanon through the embassy <sup>[N16](#n16)</sup>.
+2. In Faridpur, her home district, the family were told by officials to come and apply; her sister applied to the Foreign Minister and to the Faridpur Probashi Kallyan Centre, the government's migrant welfare office in the district <sup>[N17](#n17)</sup>.
+3. The Faridpur centre started work and contacted Lebanon through the embassy <sup>[N17](#n17)</sup>.
 4. The embassy got a certified police report and a permit to send the body, and completed the other paperwork <sup>[N9](#n9)</sup>.
 5. The body flew from Beirut on Emirates through Dubai to Dhaka <sup>[N9](#n9)</sup>.
+6. At Dhaka airport on 7 May 2026 the State Minister for Foreign Affairs handed the body to the family, who took it to the village overnight in a government-arranged ambulance <sup>[N19](#n19)</sup>.
 
-The Faridpur centre's assistant director said the war and disrupted flights caused the delay <sup>[N9](#n9)</sup>.
+The Faridpur centre's assistant director said the war and disrupted flights caused the delay <sup>[N9](#n9)</sup>. The State Minister said that in wartime a body comes home only through talks with various countries and when flights are running, often with Saudi Arabia's help, and that following each government's rules takes time <sup>[N19](#n19)</sup>.
 
 > **Need to know**
 > - Who pays to fly a body home from Lebanon, and what does the employer, the embassy or the Wage Earners' Welfare Board each cover?
@@ -251,7 +252,7 @@ The Faridpur centre's assistant director said the war and disrupted flights caus
 
 ### 8.2 What the family gets
 
-In the April 2026 case, Faridpur officials said the government would take the body home by free ambulance, give the family Tk 35,000 for burial at the airport and later Tk 3 lakh <sup>[N16](#n16), [N9](#n9)</sup>. It could not be said whether any help would come from the Lebanese government, since she died in war, the district employment and manpower office said <sup>[N16](#n16)</sup>. The upazila nirbahi officer (UNO, the head of the sub-district administration) gave the family Tk 10,000 and a dry-food package from the Ministry of Relief <sup>[N16](#n16)</sup>. The general rules for all countries are covered elsewhere (see "If a worker dies abroad" in the Services for migrants and their families doc).
+In the April 2026 case, Faridpur officials said the government would take the body home by free ambulance, give the family Tk 35,000 for burial at the airport and later Tk 3 lakh <sup>[N17](#n17), [N9](#n9)</sup>. When the body arrived in May, the Tk 35,000 was paid at the airport, with the Tk 3 lakh to follow under government rules <sup>[N19](#n19)</sup>. It could not be said whether any help would come from the Lebanese government, since she died in war, the district employment and manpower office said <sup>[N17](#n17)</sup>. The upazila nirbahi officer (UNO, the head of the sub-district administration) gave the family Tk 10,000 and a dry-food package from the Ministry of Relief <sup>[N17](#n17)</sup>. The general rules for all countries are covered elsewhere (see "If a worker dies abroad" in the Services for migrants and their families doc).
 
 <a id="cases"></a>
 
@@ -259,7 +260,7 @@ In the April 2026 case, Faridpur officials said the government would take the bo
 
 - **2 November 2024:** Mohammad Nizam, 31, of Kasba, Brahmanbaria, killed by an air strike at a coffee shop in Beirut's Hazmieh area on his way to work <sup>[N12 (2024)](#n12)</sup>.
 - **8 April 2026:** Dipali Begum, 34, of Charbhadrasan, Faridpur, a domestic worker, killed with her employer and his family, seven people in all, when an Israeli air strike brought down the employer's house in Beirut's Hamra area; she died in Rafic Hariri Hospital <sup>[N3](#n3), [N9](#n9)</sup>.
-- **11 May 2026:** two men from Satkhira district killed by an Israeli drone strike on their residence in the Zebdine area of Nabatieh, south Lebanon; their bodies were at Nabih Berri Hospital in Nabatieh <sup>[N8](#n8)</sup>.
+- **11 May 2026:** two men from Satkhira district, Shafikul Islam, 45, of Satkhira Sadar, a fruit-orchard labourer who had arrived two and a half months earlier, and Nahidul Islam, 40, of Ashashuni, the neighbour through whom he went, killed by an Israeli drone strike on their residence in the Zebdine area of Nabatieh, south Lebanon; their bodies were at Nabih Berri Hospital in Nabatieh; Shafikul's wife, left with two children, asked how she would repay the money he borrowed to go <sup>[N8](#n8), [N13](#n13)</sup>.
 
 <a id="coming-home"></a>
 
@@ -275,8 +276,8 @@ Returnees of 2024 asked the government for help to restart: one, back with his w
 
 ### 10.1 Bangladesh Embassy in Beirut
 
-- **Who:** in May 2026 the embassy was headed by Mohammad Anwar Hossain, First Secretary (Labour) <sup>[N9](#n9)</sup>. In early 2024 he was First Secretary (Labour) and Md. Baki Billah was Counsellor (Political) and head of chancery <sup>[N15 (2024)](#n15)</sup>.
-- **What it has done:** registered people to fly home in 2024; handled the papers to send bodies home; held a special service week for consular and welfare services from 22 to 31 December 2023, with a public hearing, and a free health camp in June 2024 <sup>[N1 (2024)](#n1), [N9](#n9), [N15 (2024)](#n15), [N14 (2024)](#n14)</sup>.
+- **Who:** in May 2026 the embassy was headed by Mohammad Anwar Hossain, First Secretary (Labour) <sup>[N9](#n9)</sup>. In early 2024 he was First Secretary (Labour) and Md. Baki Billah was Counsellor (Political) and head of chancery <sup>[N16 (2024)](#n16)</sup>.
+- **What it has done:** registered people to fly home in 2024; handled the papers to send bodies home; held a special service week for consular and welfare services from 22 to 31 December 2023, with a public hearing, and a free health camp in June 2024 <sup>[N1 (2024)](#n1), [N9](#n9), [N16 (2024)](#n16), [N15 (2024)](#n15)</sup>.
 
 > **Need to know**
 > - What are the embassy's address, phone, WhatsApp and emergency numbers, and its hours for workers?
@@ -308,8 +309,10 @@ These facts come only from news or third-party sources. Each needs an official s
 - <a id="n10"></a>N10. Prothom Alo, 31 Oct 2024. [রাতে দেশে ফিরছেন ৫২ লেবাননপ্রবাসী](https://www.prothomalo.com/bangladesh/hzv9obu26x). Accessed 23 Nov 2026. Possibly outdated.
 - <a id="n11"></a>N11. Prothom Alo, 21 Oct 2024. [লেবানন থেকে প্রথম ধাপে দেশে ফিরলেন ৫৪ বাংলাদেশি](https://www.prothomalo.com/bangladesh/dkkws4hb3r). Accessed 23 Nov 2026. Possibly outdated.
 - <a id="n12"></a>N12. Prothom Alo, 3 Nov 2024. [লেবাননের রাজধানী বৈরুতে বিমান হামলায় বাংলাদেশি নিহত](https://www.prothomalo.com/bangladesh/rjna7sd6tb). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n13"></a>N13. Prothom Alo, 22 Nov 2024. [লেবানন থেকে দেশে ফিরলেন আরও ৮২ প্রবাসী বাংলাদেশি](https://www.prothomalo.com/bangladesh/grr8euuebh). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n14"></a>N14. Prothom Alo, 29 Jun 2024. [লেবাননে প্রবাসী বাংলাদেশিরা পেলেন বিনা মূল্যে স্বাস্থ্যসেবা](https://nagorik.prothomalo.com/durporobash/sai5l3bc1r). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n15"></a>N15. Prothom Alo, 2 Jan 2024. [লেবাননে জাতীয় প্রবাসী দিবস পালিত](https://nagorik.prothomalo.com/durporobash/8isxerrepk). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n16"></a>N16. Prothom Alo, 12 Apr 2026. [‘সবাই সান্ত্বনা দেয়, কেউ কয় না আপারে কবে আইনা দেবে’](https://www.prothomalo.com/bangladesh/district/vx26rse37x). Accessed 23 Nov 2026.
-- <a id="n17"></a>N17. Prothom Alo, 11 Apr 2026. [লেবাননে ইসরায়েলি হামলা ও দিপালী নিহতের ঘটনায় বাংলাদেশের নিন্দা](https://www.prothomalo.com/bangladesh/3yzjmcnw5b). Accessed 23 Nov 2026.
+- <a id="n13"></a>N13. Prothom Alo, 12 May 2026. [সচ্ছলতার আশায় ঋণ করে গিয়েছিলেন লেবাননে, আড়াই মাসে ফিরছেন কফিনে](https://www.prothomalo.com/bangladesh/district/nadmbwv0it). Accessed 23 Nov 2026.
+- <a id="n14"></a>N14. Prothom Alo, 22 Nov 2024. [লেবানন থেকে দেশে ফিরলেন আরও ৮২ প্রবাসী বাংলাদেশি](https://www.prothomalo.com/bangladesh/grr8euuebh). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n15"></a>N15. Prothom Alo, 29 Jun 2024. [লেবাননে প্রবাসী বাংলাদেশিরা পেলেন বিনা মূল্যে স্বাস্থ্যসেবা](https://nagorik.prothomalo.com/durporobash/sai5l3bc1r). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n16"></a>N16. Prothom Alo, 2 Jan 2024. [লেবাননে জাতীয় প্রবাসী দিবস পালিত](https://nagorik.prothomalo.com/durporobash/8isxerrepk). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n17"></a>N17. Prothom Alo, 12 Apr 2026. [‘সবাই সান্ত্বনা দেয়, কেউ কয় না আপারে কবে আইনা দেবে’](https://www.prothomalo.com/bangladesh/district/vx26rse37x). Accessed 23 Nov 2026.
+- <a id="n18"></a>N18. Prothom Alo, 11 Apr 2026. [লেবাননে ইসরায়েলি হামলা ও দিপালী নিহতের ঘটনায় বাংলাদেশের নিন্দা](https://www.prothomalo.com/bangladesh/3yzjmcnw5b). Accessed 23 Nov 2026.
+- <a id="n19"></a>N19. Prothom Alo, 8 May 2026. [লেবাননে হামলায় নিহত দিপালীর মরদেহ এক মাস পর দেশে এল](https://www.prothomalo.com/bangladesh/district/9l29my32co). Accessed 23 Nov 2026.

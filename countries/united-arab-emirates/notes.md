@@ -2315,6 +2315,8 @@ Smaller: upper age limit for men (Q12, line 472).
 
 ## Resolved conflicts (23 Nov 2026)
 
+- **When the 2024 amnesty began:** Bangladesh's Foreign Ministry spokesman said on 5 December 2024 that it ran from 1 July [PU0182]; the UAE's own announcements give 1 September to 31 December 2024 [G0092, G0093, G0138]. The official UAE dates are kept; PU0182 is left uncited.
+
 - 2024 protesters freed and returned: 186 (embassy sources, 28 Dec 2024, PU0065), 188 (Jago News Dec 2024, N0102; the ministry in Aug 2025), 189 (returnees, June 2025), 212 pardoned by Feb 2026. Not a contradiction: a running count taken on different dates, and the doc gives each with its date. No Need to know.
 - Saleh Ahmad's years abroad (35 vs 27 in two articles): left out of the doc; it changes nothing for a reader.
 - Dubai Taxi's agencies (chunk 3): TBS (N0078) says three agencies were authorised (Al Anas Overseas, VIP Global, M Bahar Overseas); Prothom Alo's report of the same 17 May 2026 meeting (PU0165) calls Al Anas the "only approved" agency for sending workers to the company. Both are secondhand reports of one meeting, neither quotes a permission letter, and BMET's posted letters stop in December 2025, so it can't be settled from the sources. Doc gives both, attributed, and the existing Need to know now asks which is right.
