@@ -1,8 +1,8 @@
 """Abuse limits and daily spending caps, shared by every channel (web, WhatsApp, Telegram).
 
 Every message goes through check() before any answer is worked out, so a flood of messages
-costs almost nothing. Counters live in data/state.sqlite, next to the conversation memory,
-and survive restarts. Days run on Bangladesh time (midnight to midnight, UTC+6).
+costs almost nothing. Counters live in the bot's database (app/db.py: data/state.sqlite, or Postgres
+when DATABASE_URL is set), next to the conversation memory, and survive restarts. Days run on Bangladesh time (midnight to midnight, UTC+6).
 
 Limits (override any of them with the environment variable in brackets). The defaults are LENIENT,
 set for the testing phase; tighten them in .env before a public launch (suggested public values in
@@ -28,13 +28,11 @@ Callers pass users and IP addresses already hashed (store.user_key); nothing raw
 """
 import logging
 import os
-import sqlite3
 import threading
 import time
-from contextlib import closing
 from dataclasses import dataclass
 
-from app.store import DB_PATH
+from app import db as database
 
 BD_OFFSET = 6 * 3600  # Bangladesh is UTC+6: days reset at midnight in Dhaka
 MINUTE, HOUR, DAY = 60, 3600, 86400
@@ -91,14 +89,15 @@ def refusal_text(d: Decision) -> str:
     return REFUSALS.get(d.reason, REFUSALS["minute"])
 
 
-def _db() -> sqlite3.Connection:
-    DB_PATH.parent.mkdir(parents=True, exist_ok=True)
-    db = sqlite3.connect(DB_PATH, timeout=10)
-    db.executescript("""
-        CREATE TABLE IF NOT EXISTS guard_counts (key TEXT PRIMARY KEY, n INTEGER, expires REAL);
-        CREATE TABLE IF NOT EXISTS guard_spend (channel TEXT, day INTEGER, usd REAL, PRIMARY KEY (channel, day));
-    """)
-    return db
+SCHEMA = [
+    "CREATE TABLE IF NOT EXISTS guard_counts (key TEXT PRIMARY KEY, n INTEGER, expires DOUBLE PRECISION)",
+    "CREATE TABLE IF NOT EXISTS guard_spend (channel TEXT, day INTEGER, usd DOUBLE PRECISION, "
+    "PRIMARY KEY (channel, day))",
+]
+
+
+def _ready():
+    database.ensure("guard", SCHEMA)
 
 
 def _bucket(window: int, now: float) -> int:
@@ -109,31 +108,32 @@ def _bucket_end(window: int, now: float) -> float:
     return (_bucket(window, now) + 1) * window - BD_OFFSET
 
 
-def _count(db, key: str, expires: float) -> int:
-    db.execute("INSERT INTO guard_counts VALUES (?, 1, ?) ON CONFLICT(key) DO UPDATE SET n = n + 1",
-               (key, expires))
-    return db.execute("SELECT n FROM guard_counts WHERE key = ?", (key,)).fetchone()[0]
+def _count(key: str, expires: float) -> int:
+    database.execute("INSERT INTO guard_counts VALUES (?, 1, ?) "
+                     "ON CONFLICT (key) DO UPDATE SET n = guard_counts.n + 1", (key, expires))
+    return database.one("SELECT n FROM guard_counts WHERE key = ?", (key,))[0]
 
 
-def _refuse(db, reason: str, key: str, window: int, now: float) -> Decision:
+def _refuse(reason: str, key: str, window: int, now: float) -> Decision:
     end = _bucket_end(window, now)
-    first = _count(db, f"refused:{key}", end + 60) == 1
+    first = _count(f"refused:{key}", end + 60) == 1
     return Decision(False, reason, max(1, int(end - now)), first)
 
 
 def _apply(rules: list[tuple[str, int, float, str]], now: float, channel: str = "") -> Decision:
     """rules: (key, window in seconds, limit, reason). Refuses at the first rule already at its limit;
     otherwise counts the message against every rule."""
-    with _lock, closing(_db()) as db, db:
-        if channel and _spent(db, channel, now) >= limit(f"BUDGET_{channel.upper()}_USD"):
-            return _refuse(db, "budget", f"budget:{channel}:{rules[0][0]}", DAY, now)
+    _ready()
+    with _lock:
+        if channel and _spent(channel, now) >= limit(f"BUDGET_{channel.upper()}_USD"):
+            return _refuse("budget", f"budget:{channel}:{rules[0][0]}", DAY, now)
         keys = [(f"{key}:{window}:{_bucket(window, now)}", window, lim, reason) for key, window, lim, reason in rules]
         for k, window, lim, reason in keys:
-            row = db.execute("SELECT n FROM guard_counts WHERE key = ?", (k,)).fetchone()
+            row = database.one("SELECT n FROM guard_counts WHERE key = ?", (k,))
             if row and row[0] >= lim:
-                return _refuse(db, reason, k, window, now)
+                return _refuse(reason, k, window, now)
         for k, window, _, _ in keys:
-            _count(db, k, _bucket_end(window, now) + 60)
+            _count(k, _bucket_end(window, now) + 60)
     _maybe_purge(now)
     return Decision(True)
 
@@ -162,9 +162,8 @@ def new_session(ip: str) -> Decision:
     return _apply([(f"sessions:ip:{ip}", HOUR, limit("GUARD_SESSIONS_PER_HOUR"), "sessions")], time.time())
 
 
-def _spent(db, channel: str, now: float) -> float:
-    row = db.execute("SELECT usd FROM guard_spend WHERE channel = ? AND day = ?",
-                     (channel, _bucket(DAY, now))).fetchone()
+def _spent(channel: str, now: float) -> float:
+    row = database.one("SELECT usd FROM guard_spend WHERE channel = ? AND day = ?", (channel, _bucket(DAY, now)))
     return row[0] if row else 0.0
 
 
@@ -174,10 +173,12 @@ def add_cost(channel: str, usd: float):
     if usd <= 0:
         return
     now = time.time()
-    with _lock, closing(_db()) as db, db:
-        before = _spent(db, channel, now)
-        db.execute("INSERT INTO guard_spend VALUES (?, ?, ?) ON CONFLICT(channel, day) DO UPDATE SET usd = usd + ?",
-                   (channel, _bucket(DAY, now), usd, usd))
+    _ready()
+    with _lock:
+        before = _spent(channel, now)
+        database.execute("INSERT INTO guard_spend VALUES (?, ?, ?) "
+                         "ON CONFLICT (channel, day) DO UPDATE SET usd = guard_spend.usd + ?",
+                         (channel, _bucket(DAY, now), usd, usd))
     budget = limit(f"BUDGET_{channel.upper()}_USD")
     if before < 0.8 * budget <= before + usd:
         logging.warning("%s has used 80%% of today's AI budget ($%.2f of $%.2f)", channel, before + usd, budget)
@@ -187,8 +188,9 @@ def status() -> dict:
     """Today's spending against each channel's budget. Kept off the public /health page so an attacker
     can't watch a budget drain; on the server run `python -m app.guard` to see it."""
     now = time.time()
-    with _lock, closing(_db()) as db:
-        return {ch: {"spent_usd": round(_spent(db, ch, now), 4), "budget_usd": limit(f"BUDGET_{ch.upper()}_USD")}
+    _ready()
+    with _lock:
+        return {ch: {"spent_usd": round(_spent(ch, now), 4), "budget_usd": limit(f"BUDGET_{ch.upper()}_USD")}
                 for ch in ("web", "whatsapp", "telegram")}
 
 
@@ -197,9 +199,9 @@ def _maybe_purge(now: float):
     if now - _last_purge < HOUR:
         return
     _last_purge = now
-    with _lock, closing(_db()) as db, db:
-        db.execute("DELETE FROM guard_counts WHERE expires < ?", (now,))
-        db.execute("DELETE FROM guard_spend WHERE day < ?", (_bucket(DAY, now) - 60,))
+    with _lock:
+        database.execute("DELETE FROM guard_counts WHERE expires < ?", (now,))
+        database.execute("DELETE FROM guard_spend WHERE day < ?", (_bucket(DAY, now) - 60,))
 
 
 if __name__ == "__main__":

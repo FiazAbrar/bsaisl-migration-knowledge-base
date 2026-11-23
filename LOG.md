@@ -18,6 +18,14 @@ How to write an entry: add it at the top, under this line, in this shape. Keep i
 
 ---
 
+## 2026-11-23 · Bot reads every guide automatically; structure rules and a pull-request check · agent for Angkon-Dutta-Joy
+
+- **Done:** the navigator bot now finds every folder with a `doc.md` by itself (countries under `countries/`, everything else shared), so new guides and countries such as `global/` and the UK, US, Canada, Greece, India and Lebanon need no bot change. Added `KB-STRUCTURE.md` (what the bot reads), a pointer to it in CLAUDE.md, and the pull-request check `.github/workflows/bot-kb-check.yml`, which fails if a guide on `main` would disappear, lose more than half of its sections (when it has 20 or more), or have no text. The live bot applies the same rule before swapping in a new index and otherwise keeps the last good one.
+- **Where:** `KB-STRUCTURE.md`, `CLAUDE.md`, `.github/workflows/bot-kb-check.yml`, `navigator-bot/`.
+- **Checked by:** the check run against `main` (29 guides, all readable); a deliberately broken copy (Saudi folder deleted, Qatar cut to 4 sections) was refused and the old index kept; a fresh server start pulled all 29 guides from GitHub in 12 seconds.
+- **Tried and dropped:** a fixed list of guide folders in the bot (it silently missed `global/` when the cross-country doc was split).
+- **Open:** a deliberate rename or deletion of a guide needs `python -m app.kb_index --force` on the server after merge; tell the bot team first.
+
 ## 2026-11-23 · Prothom Alo archive into the global docs; three new global docs · agent for FiazAbrar
 
 - **Done:** about 2,115 new facts in the global docs: Illegal routes (465), FAQ (188), Departure bottlenecks (181), Dalal scams (116), and three new docs, Sending money home (428), Services for migrants and their families (357) and Other destinations (380, 24 countries). `questions.md` synced. The article-by-article coverage ledger added to the dataset: 1,904 stories, none unaccounted for.

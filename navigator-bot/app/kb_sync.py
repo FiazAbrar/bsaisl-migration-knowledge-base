@@ -22,13 +22,13 @@ from . import kb_index
 
 ROOT = Path(__file__).resolve().parent.parent
 REPO_DIR = ROOT / "data" / "kb-repo"
-PATTERNS = [
-    "/countries/*/doc.md", "/countries/*/facts.csv", "/countries/*/sources.csv",
-    "/agencies/doc.md", "/agencies/facts.csv", "/agencies/sources.csv",
-    "/cross-country/doc.md", "/cross-country/facts.csv", "/cross-country/sources.csv",
-]
+# Any guide anywhere in the repository (each doc.md with its facts.csv and sources.csv), so a new
+# folder needs no change here; never the source archives or the bot's own folder.
+PATTERNS = ["doc.md", "facts.csv", "sources.csv", "!/navigator-bot/", "!sources/"]
 
 _lock = threading.Lock()
+# What the last sync did, for /health: when it ran, the commit it saw, and any problem.
+status: dict = {"last_sync": None, "commit": None, "error": None, "index_refused": None}
 
 
 def _settings() -> tuple[str, str, int, str]:
@@ -75,12 +75,21 @@ def sync(force_index: bool = False) -> bool:
             before = ""
         else:
             before = _head()
+            _git("sparse-checkout", "set", "--no-cone", *PATTERNS, cwd=REPO_DIR)  # in case PATTERNS changed
             _git("fetch", "--depth", "1", "origin", branch, cwd=REPO_DIR, token=token)
             _git("reset", "--hard", "FETCH_HEAD", cwd=REPO_DIR, token=token)
         after = _head()
+        status.update(last_sync=time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), commit=after[:7], error=None)
         if after == before and not force_index and kb_index.DB_PATH.exists():
             return False
-        counts = kb_index.build(REPO_DIR, extra_meta={"kb_commit": after})
+        try:
+            counts = kb_index.build(REPO_DIR, extra_meta={"kb_commit": after})
+        except kb_index.IndexCheckFailed as e:
+            # A suspicious push (a guide gone, or most of one): keep answering from the last good index.
+            status["index_refused"] = f"commit {after[:7]}: {e}"
+            logging.error("Knowledge base at %s NOT loaded, keeping the last good index: %s", after[:7], e)
+            return False
+        status["index_refused"] = None
         logging.info("Knowledge base %s: index rebuilt at commit %s (%d sections)",
                      "updated" if before else "loaded", after[:7], sum(counts.values()))
         return True
@@ -102,7 +111,8 @@ def start_background_sync():
             time.sleep(max(minutes, 1) * 60)
             try:
                 sync()
-            except Exception:
+            except Exception as e:
+                status["error"] = f"{type(e).__name__}: {str(e)[:200]}"
                 logging.exception("Knowledge-base sync failed; the bot keeps using the last good index")
 
     threading.Thread(target=loop, name="kb-sync", daemon=True).start()

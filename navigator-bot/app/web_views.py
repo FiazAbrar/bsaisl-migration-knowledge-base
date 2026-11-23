@@ -24,7 +24,7 @@ import requests
 from flask import Blueprint, abort, current_app, jsonify, request, send_from_directory
 
 from . import answer, guard, kb_index, store
-from .countries import DISPLAY
+from .countries import display
 
 web_blueprint = Blueprint("web", __name__)
 
@@ -181,7 +181,7 @@ def config():
         updated = kb_index.info().get("guides_updated") or kb_index.info().get("built_at", "")[:10]
     except FileNotFoundError:
         have, updated = set(), ""
-    countries = [{"slug": s, "en": en, "bn": bn} for s, en, bn in DISPLAY if s in have]
+    countries = [{"slug": s, "en": en, "bn": bn} for s, en, bn in display() if s in have]
     return jsonify(turnstile_site_key=current_app.config.get("TURNSTILE_SITE_KEY", ""), max_chars=guard.MAX_CHARS,
                    countries=countries, guides_updated=updated)
 

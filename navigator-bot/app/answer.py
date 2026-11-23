@@ -14,12 +14,9 @@ def is_memory_command(text: str) -> bool:
     return text.strip().lower() in FORGET_WORDS | RESET_WORDS
 
 
-SHARED_GUIDES = {"agencies", "faq", "dalal-scams", "departure", "illegal-routes", "money", "services", "other-destinations"}  # apply to every country, not destinations
-
-
 def _country_list() -> str:
-    names = [c["title"].split(":")[0] for c in kb_index.list_countries() if c["slug"] not in SHARED_GUIDES]
-    return ", ".join(names)
+    """Destination guides only (folders under countries/); shared guides such as agencies apply to all."""
+    return ", ".join(c["title"].split(":")[0] for c in kb_index.list_countries("country"))
 
 
 def welcome() -> str:

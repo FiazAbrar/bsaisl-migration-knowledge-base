@@ -1,14 +1,23 @@
 """Build and search the knowledge-base index.
 
-The bot only reads the knowledge base (KB_DIR); it never changes it. Each country's doc.md
-(and agencies/doc.md) is split into sections at its headings and stored in a SQLite full-text
-index at data/kb.sqlite, together with each cited fact's source (from facts.csv).
+The bot only reads the knowledge base (KB_DIR); it never changes it. Every guide (a folder holding a
+doc.md: countries/<country>/, agencies/, global/<topic>/, or any new folder) is found automatically,
+split into sections at its headings and stored in a SQLite full-text index at data/kb.sqlite, together
+with each cited fact's source (from facts.csv beside it, if there is one). Folders under countries/ are
+destinations; every other guide applies to all countries. The structure the bot expects is written
+down in KB-STRUCTURE.md at the repository root.
+
+Safe swap: a new index replaces the old one only if no guide disappeared and none lost most of its
+sections; otherwise the bot keeps answering from the old index and reports why on /health.
 
 Rebuild after every knowledge-base update:
-    python -m app.kb_index
+    python -m app.kb_index            (refuses a suspicious index)
+    python -m app.kb_index --force    (replaces the index anyway)
 """
 import csv
 import hashlib
+import json
+import logging
 import os
 import re
 import sqlite3
@@ -30,6 +39,17 @@ STOPWORDS = set(
     "when where which who whom why will would should could i me my we our you your he she it they them "
     "this that these those there here about into as if not no yes any all".split()
 )
+
+
+# Folders never searched for guides: source archives, tooling, working files and the bot itself.
+SKIP_DIRS = {".git", ".github", ".venv", "__pycache__", "node_modules", "sources", "navigator-bot", "data",
+             "datasets", "official-pdfs", "tools", "passes", "drafts", "manual", "verify", "work"}
+SHRINK_LIMIT = 0.5        # refuse a swap when a guide keeps less than half its sections...
+SHRINK_MIN_SECTIONS = 20  # ...if it had at least this many
+
+
+class IndexCheckFailed(Exception):
+    """The new index looks broken (a guide vanished or shrank sharply); the old one was kept."""
 
 
 # ---------- building ----------
@@ -160,10 +180,47 @@ def _load_facts(folder: Path, slug: str) -> list[tuple]:
     return rows
 
 
+def discover(kb: Path) -> list[tuple[str, str, Path]]:
+    """Every guide in the knowledge base: (slug, kind, path to doc.md). kind is "country" for
+    countries/<name>/doc.md and "shared" for every other folder with a doc.md (agencies, global/*, ...)."""
+    found = []
+    for dirpath, dirnames, filenames in os.walk(kb):
+        dirnames[:] = sorted(d for d in dirnames if d not in SKIP_DIRS and not d.startswith("."))
+        here = Path(dirpath)
+        if "doc.md" not in filenames or here == kb:
+            continue
+        parts = here.relative_to(kb).parts
+        kind = "country" if len(parts) == 2 and parts[0] == "countries" else "shared"
+        found.append((parts, kind, here / "doc.md"))
+    names = [p[-1] for p, _, _ in found]
+    # A folder name is the guide's id; if two folders share a name, use the whole path instead.
+    return [(p[-1] if names.count(p[-1]) == 1 else "-".join(p), kind, path) for p, kind, path in found]
+
+
+def _section_counts(db_path: Path) -> dict:
+    if not db_path.exists():
+        return {}
+    try:
+        with sqlite3.connect(f"file:{db_path}?mode=ro", uri=True) as db:
+            return dict(db.execute("SELECT slug, COUNT(*) FROM sections GROUP BY slug").fetchall())
+    except sqlite3.Error:
+        return {}
+
+
+def compare(old: dict, new: dict) -> list[str]:
+    """Reasons a new index looks broken next to the old one (empty = fine)."""
+    problems = [f"guide '{slug}' disappeared" for slug in sorted(old) if slug not in new]
+    for slug, n_old in sorted(old.items()):
+        n_new = new.get(slug, 0)
+        if slug in new and n_old >= SHRINK_MIN_SECTIONS and n_new < SHRINK_LIMIT * n_old:
+            problems.append(f"guide '{slug}' shrank from {n_old} to {n_new} sections")
+    return problems
+
+
 def _guides_updated(kb: Path) -> str:
     """Date (YYYY-MM-DD) of the newest commit that changed the guides, or of the newest commit at all
     (a shallow clone may not reach the commit that touched them), or today if git isn't there."""
-    for args in (["log", "-1", "--format=%cs", "--", "countries", "cross-country", "agencies"],
+    for args in (["log", "-1", "--format=%cs", "--", "countries", "global", "agencies"],
                  ["log", "-1", "--format=%cs"]):
         try:
             out = subprocess.run(["git", "-C", str(kb), *args], capture_output=True, text=True, timeout=20)
@@ -174,13 +231,13 @@ def _guides_updated(kb: Path) -> str:
     return datetime.now(timezone.utc).date().isoformat()
 
 
-def build(kb: Path | None = None, extra_meta: dict | None = None) -> dict:
-    """Index the guides in kb (default: KB_DIR or the repository this bot sits in)."""
+def build(kb: Path | None = None, extra_meta: dict | None = None, force: bool = False) -> dict:
+    """Index the guides in kb (default: KB_DIR or the repository this bot sits in).
+    Raises IndexCheckFailed, keeping the old index, if the new one lost a guide or most of one,
+    unless force is set."""
     kb = kb or _kb_dir()
-    docs = [(p.parent.name, p) for p in sorted((kb / "countries").glob("*/doc.md"))]
-    if (kb / "agencies" / "doc.md").exists():  # guides that apply to every country
-        docs.append(("agencies", kb / "agencies" / "doc.md"))
-    docs += [(p.parent.name, p) for p in sorted((kb / "global").glob("*/doc.md"))]
+    docs = discover(kb)
+    warnings = []
 
     DB_PATH.parent.mkdir(parents=True, exist_ok=True)
     tmp = DB_PATH.with_suffix(".building")
@@ -188,7 +245,7 @@ def build(kb: Path | None = None, extra_meta: dict | None = None) -> dict:
     db = sqlite3.connect(tmp)
     db.executescript("""
         CREATE TABLE meta (key TEXT PRIMARY KEY, value TEXT);
-        CREATE TABLE countries (slug TEXT PRIMARY KEY, title TEXT, doc_sha1 TEXT, doc_modified TEXT);
+        CREATE TABLE countries (slug TEXT PRIMARY KEY, title TEXT, kind TEXT, doc_sha1 TEXT, doc_modified TEXT);
         CREATE TABLE sections (id INTEGER PRIMARY KEY, slug TEXT, path TEXT, heading TEXT, level INT,
                                part INT, text TEXT, facts TEXT, open_q INT, words INT);
         CREATE VIRTUAL TABLE sections_fts USING fts5(path, text, content='sections', content_rowid='id',
@@ -197,14 +254,26 @@ def build(kb: Path | None = None, extra_meta: dict | None = None) -> dict:
                             page_date TEXT, PRIMARY KEY (slug, id));
     """)
     summary = {}
-    for slug, path in docs:
-        fact_rows = _load_facts(path.parent, slug)
+    for slug, kind, path in docs:
+        # One broken file must not take every other guide down with it.
+        try:
+            fact_rows = _load_facts(path.parent, slug)
+        except (OSError, csv.Error, KeyError, UnicodeDecodeError) as e:
+            warnings.append(f"{slug}: facts.csv unreadable ({type(e).__name__}); sources not labelled")
+            fact_rows = []
         kinds = {r[0]: (r[4], (r[6] or "")[:4]) for r in fact_rows}
-        title, sections = parse_doc(path, slug, kinds)
+        try:
+            title, sections = parse_doc(path, slug, kinds)
+        except (OSError, UnicodeDecodeError) as e:
+            warnings.append(f"{slug}: doc.md unreadable ({type(e).__name__}); guide skipped")
+            continue
+        if not sections:
+            warnings.append(f"{slug}: doc.md has no text under its headings; guide skipped")
+            continue
         raw = path.read_bytes()
         modified = datetime.fromtimestamp(path.stat().st_mtime, timezone.utc).isoformat(timespec="seconds")
-        db.execute("INSERT INTO countries VALUES (?,?,?,?)",
-                   (slug, title, hashlib.sha1(raw).hexdigest(), modified))
+        db.execute("INSERT INTO countries VALUES (?,?,?,?,?)",
+                   (slug, title, kind, hashlib.sha1(raw).hexdigest(), modified))
         for s in sections:
             db.execute(
                 "INSERT INTO sections (slug,path,heading,level,part,text,facts,open_q,words) VALUES (?,?,?,?,?,?,?,?,?)",
@@ -217,11 +286,18 @@ def build(kb: Path | None = None, extra_meta: dict | None = None) -> dict:
         ("built_at", datetime.now(timezone.utc).isoformat(timespec="seconds")),
         ("kb_dir", str(kb)),
         ("guides_updated", _guides_updated(kb)),
+        ("warnings", json.dumps(warnings)),
         *(extra_meta or {}).items(),
     ])
     db.commit()
     db.close()
+    problems = compare(_section_counts(DB_PATH), summary)
+    if problems and not force:
+        tmp.unlink(missing_ok=True)
+        raise IndexCheckFailed("; ".join(problems))
     os.replace(tmp, DB_PATH)  # atomic swap: the running bot never sees a half-built index
+    for w in warnings:
+        logging.warning("Knowledge base: %s", w)
     return summary
 
 
@@ -235,9 +311,15 @@ def _connect() -> sqlite3.Connection:
     return db
 
 
-def list_countries() -> list[dict]:
+def list_countries(kind: str | None = None) -> list[dict]:
+    """Every guide (slug, title, kind), or only "country" or "shared" guides."""
     with _connect() as db:
-        return [dict(r) for r in db.execute("SELECT slug, title FROM countries ORDER BY slug")]
+        try:
+            rows = [dict(r) for r in db.execute("SELECT slug, title, kind FROM countries ORDER BY slug")]
+        except sqlite3.OperationalError:  # an index built before guide kinds existed: rebuild to fix
+            rows = [dict(r, kind="shared" if r["slug"] in ("agencies", "cross-country") else "country")
+                    for r in db.execute("SELECT slug, title FROM countries ORDER BY slug")]
+    return [r for r in rows if kind is None or r["kind"] == kind]
 
 
 def get_contents(slug: str) -> list[dict]:
@@ -287,11 +369,16 @@ def info() -> dict:
     with _connect() as db:
         meta = dict(db.execute("SELECT key, value FROM meta").fetchall())
         meta["sections"] = db.execute("SELECT COUNT(*) FROM sections").fetchone()[0]
+        meta["guides"] = db.execute("SELECT COUNT(*) FROM countries").fetchone()[0]
+        meta["warnings"] = json.loads(meta.get("warnings") or "[]")
         return meta
 
 
 if __name__ == "__main__":
-    counts = build()
+    try:
+        counts = build(force="--force" in sys.argv)
+    except IndexCheckFailed as e:
+        sys.exit(f"Index NOT replaced (the bot keeps the old one): {e}\nCheck the guides, or run with --force.")
     for slug, n in counts.items():
         print(f"{slug:24} {n:5} sections")
     print(f"Index written to {DB_PATH}  ({sum(counts.values())} sections)")

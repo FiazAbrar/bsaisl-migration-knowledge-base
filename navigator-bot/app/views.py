@@ -3,7 +3,7 @@ import threading
 
 from flask import Blueprint, current_app, jsonify, request
 
-from . import kb_index, store
+from . import db, kb_index, kb_sync, store
 from .decorators.security import signature_required
 from .utils.whatsapp_utils import app_config, extract_messages, process_message
 
@@ -51,4 +51,6 @@ def health():
     except FileNotFoundError as e:
         return jsonify({"status": "error", "message": str(e)}), 500
     return jsonify({"status": "ok", "kb_built_at": kb["built_at"], "kb_sections": kb["sections"],
-                    "kb_commit": kb.get("kb_commit", "local")}), 200
+                    "kb_guides": kb["guides"], "kb_commit": kb.get("kb_commit", "local"),
+                    "kb_warnings": kb["warnings"], "kb_sync": kb_sync.status,
+                    "database": db.kind()}), 200

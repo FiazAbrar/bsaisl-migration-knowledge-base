@@ -1,7 +1,8 @@
 # Prompts
 
 - `system.md`: the system prompt the AI gets with every message. The bot fills in `{{TODAY}}`,
-  `{{COUNTRIES}}` and `{{KB_BUILT_AT}}` before sending it.
+  `{{COUNTRIES}}`, `{{SHARED_GUIDES}}` and `{{KB_BUILT_AT}}` before sending it, from the index
+  (`kb_index.list_countries("country")` and `("shared")`), so new guides need no prompt change.
 
 ## Test it in a fresh Claude chat (no code needed)
 
@@ -10,7 +11,7 @@
    `{{TODAY}}` → `22 November 2026`; `{{COUNTRIES}}` → `Saudi Arabia, Malaysia, Qatar` (the guides you attach);
    `{{KB_BUILT_AT}}` → today's date.
 3. Attach the guides the bot would read: a country's `countries/<country>/doc.md`, plus
-   `cross-country/doc.md` and `agencies/doc.md`.
+   the shared guides it needs (`global/faq/doc.md`, `global/dalal-scams/doc.md`, ...) and `agencies/doc.md`.
 4. Send: "Act as Migration Navigator from now on. Use the attached guides as the guides." Then ask
    questions as a migrant would. `evals/questions.csv` has 41, in Bangla, Banglish and English,
    with what each answer must and must not say.

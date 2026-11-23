@@ -90,15 +90,24 @@ Bangladesh time.
 
 ## Where the knowledge base comes from
 
-The bot lives in the knowledge-base repository and reads the guides from the folder above it
-(`../countries/*/doc.md`, `../agencies/doc.md`, `../global/*/doc.md`). It never edits them.
+The bot lives in the knowledge-base repository and reads the guides from the folder above it. It never edits them.
+A guide is any folder with a `doc.md` (`countries/<country>/`, `agencies/`, `global/<topic>/`, or a new one);
+folders under `countries/` are destinations, the rest apply to every country. New guides and new countries
+need no code change. The rules the team keeps to are in `../KB-STRUCTURE.md`.
 To use a copy somewhere else, set `KB_DIR` in `.env`. On a server, `KB_REPO` makes the bot fetch the
 guides from GitHub instead (see Run in the cloud).
+
+**Safe swap.** A new index replaces the old one only if no guide disappeared and none with 20 or more sections
+lost more than half of them; otherwise the bot keeps the old index, logs why and shows it on `/health`
+(`kb_sync.index_refused`). To accept a deliberate removal or rename: `python -m app.kb_index --force`.
+A pull-request check (`.github/workflows/bot-kb-check.yml`, running `python -m app.kb_check`) catches the
+same problems before they reach `main`.
 
 ## When the knowledge base changes
 
 `git pull`, then restart with `.\start.ps1 -Reindex`
 (or run `python -m app.kb_index` while the bot keeps running; the new index is swapped in at once).
+After updating the bot's code to this version, reindex once so the index learns which guides are countries.
 
 ## Run in the cloud (Docker)
 
@@ -123,12 +132,18 @@ settings (or in `.env` on a server of your own, which stays outside git), using 
   (keep the same verify token as before), and `KB_REPO` (the repository's GitHub URL).
 - Also set: `WHATSAPP_BUSINESS_ACCOUNT_ID`, `GRAPH_API_VERSION` (v27.0), `PUBLIC_DOMAIN` (the new host name,
   without https://), and the `LLM_*` values once the AI step is on. `TELEGRAM_BOT_TOKEN` only if Telegram is used.
+- `DATABASE_URL`: a Postgres connection string (e.g. a free Neon database) on hosts whose disk is wiped at
+  restart, such as Render's free plan. Chat memory, duplicate checks and abuse counters then live there.
+  Leave it empty on a PC or a server with a disk: they stay in `data/state.sqlite`.
+- Web chat: `PROXY_IP_HEADER=X-Forwarded-For` behind a cloud host's proxy, and `TURNSTILE_SITE_KEY` /
+  `TURNSTILE_SECRET_KEY` before the page goes public. Tighten the `GUARD_*` limits to the public values.
 - Optional: `KB_BRANCH` (main), `KB_SYNC_MINUTES` (15), `KB_GITHUB_TOKEN` only if the repository becomes private.
 - Leave `KB_DIR` empty. `PORT` is usually set by the platform (8000 if not).
 
-**Keep `data/`.** Mount a persistent volume at `/srv/navigator-bot/data`. Without one the bot still works and
-re-fetches the guides at each start, but it forgets the 30-day chat memory and the list of answered message
-ids, so a Meta retry arriving just after a restart could be answered twice.
+**Keep the chat memory.** Either set `DATABASE_URL` (Postgres), or mount a persistent volume at
+`/srv/navigator-bot/data`. With neither, the bot still works and re-fetches the guides at each start, but it
+forgets the 30-day chat memory, the abuse counters and the list of answered message ids, so a Meta retry
+arriving just after a restart could be answered twice. `/health` shows `"database": "postgres"` or `"sqlite"`.
 
 **Pick a host that never sleeps.** Meta retries webhooks that time out, and a cold start makes the first
 reply feel broken. Avoid free tiers that spin down when idle, and serverless platforms that pause the CPU
@@ -154,7 +169,9 @@ Copy `.env.example` to `.env` and fill it in on each machine that runs the bot.
 - `app/telegram_views.py` and `app/utils/telegram_utils.py`: Telegram webhook, formatting (HTML) and sending
 - `app/kb_index.py`: builds and searches `data/kb.sqlite` from each guide's `doc.md`
 - `app/kb_sync.py`: on servers, pulls the guides from GitHub into `data/kb-repo` and re-indexes when they change
-- `app/store.py`: conversation memory and duplicate checks in `data/state.sqlite` (users stored as hashes, deleted after 30 days)
+- `app/db.py`: the read-write database: `data/state.sqlite`, or Postgres when `DATABASE_URL` is set
+- `app/store.py`: conversation memory and duplicate checks (users stored as hashes, deleted after 30 days)
+- `app/kb_check.py`: the pull-request check that every guide on `main` is still readable
 - `app/answer.py`: turns a message into a reply for every channel (search-only test mode until the AI is connected)
 - `app/countries.py`: country names in English and Bangla
 - `app/web_views.py` and `app/static/web/`: the web chat page and its API
