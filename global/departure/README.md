@@ -34,11 +34,13 @@ Where people going abroad from Bangladesh get stuck, offloaded or asked for brib
   - [6.9 If you are offloaded](#if-you-are-offloaded)
 - [7 Refused entry at the destination](#refused-entry-at-the-destination)
 - [8 Coming back](#coming-back)
-  - [8.1 At the airport: the welfare desk](#at-the-airport-the-welfare-desk)
-  - [8.2 Deportees and outpass holders](#deportees-and-outpass-holders)
-  - [8.3 Customs and luggage](#customs-and-luggage)
-  - [8.4 After deportation: bans on going back](#after-deportation-bans-on-going-back)
-  - [8.5 Help after you get home](#help-after-you-get-home)
+  - [8.1 Who comes back and why](#who-comes-back-and-why)
+  - [8.2 At the airport: the welfare desk](#at-the-airport-the-welfare-desk)
+  - [8.3 Deportees and outpass holders](#deportees-and-outpass-holders)
+  - [8.4 Customs and luggage](#customs-and-luggage)
+  - [8.5 On the road from the airport](#on-the-road-from-the-airport)
+  - [8.6 After deportation: bans on going back](#after-deportation-bans-on-going-back)
+  - [8.7 Help after you get home](#help-after-you-get-home)
 - [9 Where to complain](#where-to-complain)
 - [References](#references)
 
@@ -200,7 +202,7 @@ For women going as domestic workers, BMET needs proof of age 25 to 45 and a guar
 
 TIB found in 2017 that some workers are handed their job contract only on reaching the airport <sup>[N4 (2017)](#n4)</sup>. A UNDP Bangladesh gender expert said in May 2026 that women workers are often seen standing confused at the airport with no idea what to do, and that the same goes for men <sup>[N33](#n33)</sup>.
 
-Besides SB immigration, the air force, the police, the Airport Armed Police Battalion (APBn, at the airport since 2013) and an anti-human-trafficking investigation team work at the airport, APBn's DIG (Deputy Inspector General) for operations said in August 2026 <sup>[N14](#n14)</sup>. A Home Ministry joint secretary said at a July 2026 roundtable that the Passenger Name Record and Advance Passenger Information systems, which give the authorities airline passenger data, are being expanded at airports to detect fake travel documents <sup>[N34](#n34)</sup>. At Sylhet's Osmani airport, APBn said in April 2026 that an active group of traffickers and smugglers works the airport area and tries to mislead passengers with inducements, and that rings use first-time travellers as easy targets to carry drugs or smuggled goods (see "What should I carry?" in the Frequently asked questions about going abroad doc) <sup>[N35](#n35), [N13](#n13)</sup>. Its unit there should have more than 300 members but has about 100, with intelligence and plain-clothes members deployed to stop anyone luring passengers <sup>[N13](#n13)</sup>.
+Besides SB immigration, the air force, the police, the Airport Armed Police Battalion (APBn, at the airport since 2013) and an anti-human-trafficking investigation team work at the airport, APBn's DIG (Deputy Inspector General) for operations said in August 2026 <sup>[N14](#n14)</sup>. A Home Ministry joint secretary said at a July 2026 roundtable that the Passenger Name Record and Advance Passenger Information systems, which give the authorities airline passenger data, are being expanded at airports to detect fake travel documents <sup>[N34](#n34)</sup>. At Sylhet's Osmani airport, APBn said in April 2026 that an active group of traffickers and smugglers works the airport area and tries to mislead passengers with inducements, and that rings use first-time travellers as easy targets to carry drugs or smuggled goods (see "What should I carry?" in the FAQ doc) <sup>[N35](#n35), [N13](#n13)</sup>. Its unit there should have more than 300 members but has about 100, with intelligence and plain-clothes members deployed to stop anyone luring passengers <sup>[N13](#n13)</sup>.
 
 > **Need to know**
 > - Which other airlines flying from Dhaka require OK to Board in 2026, and for which destinations?
@@ -244,7 +246,7 @@ Special Branch figures, as reported by Bonik Barta <sup>[N6](#n6)</sup>:
 
 ### 6.5 Documented cases
 
-- **8 August 2026, Dhaka, Nepal.** Three adult women with passports, visas or entry permits, return tickets and hotel bookings, one also carrying a dollar endorsement, were taken to an office after getting boarding passes <sup>[N7](#n7), [N38](#n38)</sup>. They say officers asked why they were unmarried and whether their families consented, phoned their parents, and told one of them that unmarried women may not travel abroad alone <sup>[N7](#n7), [N38](#n38)</sup>. They say they were escorted out through arrivals with no written document and one woman's passport was kept, and their lawyer says they lost money on tickets and bookings <sup>[N38](#n38), [N7](#n7)</sup>. Police officers said the women showed no invitation letter for the seminar they mentioned <sup>[N37](#n37)</sup>.
+- **8 August 2026, Dhaka, Nepal.** Three adult women with passports, visas or entry permits, return tickets and hotel bookings, one also carrying a dollar endorsement, were taken to an office after getting boarding passes <sup>[N7](#n7), [N38](#n38)</sup>. They say officers asked why they were unmarried and whether their families consented, phoned their parents, and told one of them that unmarried women may not travel abroad alone <sup>[N7](#n7), [N38](#n38)</sup>. They say they were escorted out through arrivals with no written document and one woman's passport was kept, and their lawyer says they lost money on tickets and bookings <sup>[N38](#n38), [N7](#n7)</sup>. Police officers said the women showed no invitation letter for the seminar they mentioned <sup>[N37](#n37)</sup>. In statements to a police inquiry on 8 October 2026, one woman said that when they asked why they were being put out, an officer told them it was because they were unmarried, and that when she refused to leave the terminal he said they would have problems if they stayed <sup>[N39](#n39)</sup>. Another said an officer mocked the hijab photo on her student ID, and that police phoned her father and asked how a farmer's daughter was going abroad to travel; she said her father fell into trauma, had an accident on 17 August and later died <sup>[N39](#n39)</sup>. They also said officers remarked on a Nepali person's name on the hotel booking, asked one woman the source of her travel money, and told her to phone her university's dean <sup>[N39](#n39)</sup>.
 - **November 2025, Dhaka, Nepal.** A 52-year-old woman travelling with a family she did not belong to was held until she argued her passport back <sup>[N37](#n37)</sup>.
 - **Reported 2026, Dhaka, Thailand and Malaysia.** The student and first-time traveller above were let go only after naming a university or after a senior official's video call <sup>[N6](#n6)</sup>.
 - **Reported 2026, Dhaka, Oman.** The spouse-visa woman above <sup>[N6](#n6)</sup>.
@@ -256,7 +258,7 @@ Special Branch figures, as reported by Bonik Barta <sup>[N6](#n6)</sup>:
 
 ### 6.6 The "airport contract"
 
-In 2021 Dhaka Post found travel agencies charging Tk 30,000 for an "airport contract" for visit-visa trips to Dubai, saying the money went to immigration police <sup>[N32 (2021)](#n32)</sup>. Travellers given an "offload" stamp were told to pay more, such as Tk 45,000 to immigration police through the agency, and one who paid a broker Tk 1.65 lakh was waved through when an officer said "cut his offload" <sup>[N32 (2021)](#n32)</sup>. In 2026 a Home Ministry additional secretary said some complaints of people paying police to get through, or being unjustly stopped, are true <sup>[N6](#n6)</sup>. In a case the US Embassy in Dhaka filed in February 2024, an accused broker, Ashraful Alam Bhuiyan, admitted that an immigration officer at Shahjalal airport helps him with trafficking for money (see "Forged documents and impersonation" in the Illegal routes doc) <sup>[N39 (2024)](#n39), [N40 (2024)](#n40)</sup>.
+In 2021 Dhaka Post found travel agencies charging Tk 30,000 for an "airport contract" for visit-visa trips to Dubai, saying the money went to immigration police <sup>[N32 (2021)](#n32)</sup>. Travellers given an "offload" stamp were told to pay more, such as Tk 45,000 to immigration police through the agency, and one who paid a broker Tk 1.65 lakh was waved through when an officer said "cut his offload" <sup>[N32 (2021)](#n32)</sup>. In 2026 a Home Ministry additional secretary said some complaints of people paying police to get through, or being unjustly stopped, are true <sup>[N6](#n6)</sup>. In a case the US Embassy in Dhaka filed in February 2024, an accused broker, Ashraful Alam Bhuiyan, admitted that an immigration officer at Shahjalal airport helps him with trafficking for money (see "Forged documents and impersonation" in the Illegal routes doc) <sup>[N40 (2024)](#n40), [N41 (2024)](#n41)</sup>.
 
 <a id="your-rights"></a>
 
@@ -265,6 +267,7 @@ In 2021 Dhaka Post found travel agencies charging Tk 30,000 for an "airport cont
 - The Constitution guarantees equality, non-discrimination by sex, protection of law, personal liberty and freedom of movement (Articles 27, 28, 31, 32 and 36); the three women's writ rests on these <sup>[N36](#n36)</sup>.
 - On 29 September 2026 the High Court issued a rule asking why stopping them should not be declared unlawful, ordered the Additional IGP (immigration) to investigate and resolve their complaint within seven days and report to the court, and told immigration not to obstruct their future travel, subject to law <sup>[N7](#n7), [N36](#n36)</sup>.
 - The court also asked why the government should not issue guidelines so adult women are not stopped for being unmarried or travelling without guardians <sup>[N36](#n36)</sup>.
+- After the order, police formed a three-member committee to investigate the women's complaint and questioned them at the relevant police office in Rajarbagh, Dhaka, on 8 October 2026 for about six hours, their lawyer said <sup>[N39](#n39)</sup>.
 - Withholding a would-be emigrant's travel documents for money is an offence under the Emigration Ordinance <sup>[20](#o20)</sup>.
 
 > **Need to know**
@@ -275,7 +278,8 @@ In 2021 Dhaka Post found travel agencies charging Tk 30,000 for an "airport cont
 
 ### 6.8 Papers officers have asked for
 
-- A hotel booking and an invitation letter for the stated purpose (the Nepal case) <sup>[N37](#n37)</sup>.
+- A hotel booking and an invitation letter for the stated purpose (the Nepal case) <sup>[N37](#n37)</sup>. At the later police inquiry the women were asked whether they had a hotel booking and return ticket, whether they had an invitation to meet Nepal's Chief Justice, and whether they had a no-objection certificate (NOC) from the institution where they intern; they said they had the booking and ticket, that the trip was for travel with an informal meeting planned through the Nepal branch of BIMS (Bangladesh International Mediation Society), and that they need no NOC <sup>[N39](#n39)</sup>.
+- A student ID, with a call to the university's dean, and the source of the money for the trip (the Nepal case) <sup>[N39](#n39)</sup>.
 - A registered nikahnama for a spouse visa <sup>[N6](#n6)</sup>.
 - For workers, the BMET card; the airport says getting the welfare desk's seal speeds immigration <sup>[17](#o17)</sup>.
 
@@ -304,7 +308,7 @@ The three women were given no written document when they were sent out <sup>[N38
 
 Destinations also turn Bangladeshis back on arrival. Over 3,500 were refused entry and sent home in January to April 2025 <sup>[N8](#n8)</sup>. Border officers flag visitors with little money, unclear plans or conflicting papers <sup>[N8](#n8)</sup>.
 
-- **Malaysia (KLIA, Kuala Lumpur International Airport).** Immigration refused 80 Bangladeshis with valid tourist visas in July 2025 for lacking "satisfactory justification", put 123 on the "Not to Land" list the same month, and refused 204 on 13 August and 98 on 15 August 2025 <sup>[N41](#n41), [N42](#n42), [N8](#n8), [N43](#n43)</sup>. Reasons given were fake hotel bookings, no return ticket, too little money and no clear purpose <sup>[N43](#n43), [N44](#n44)</sup>. Travellers are told to carry RM500 to 1,000, and officers may look at photos on phones <sup>[N45](#n45)</sup>. More than 200 refused at KLIA were deported in 2025 <sup>[N9](#n9)</sup>. In 2024 a "counter setting" syndicate was reported to sell entry through bribed officers at RM200 to 2,500 a head; Malaysia's anti-corruption agency arrested 60 people, including 49 immigration officers <sup>[N46 (2024)](#n46)</sup>.
+- **Malaysia (KLIA, Kuala Lumpur International Airport).** Immigration refused 80 Bangladeshis with valid tourist visas in July 2025 for lacking "satisfactory justification", put 123 on the "Not to Land" list the same month, and refused 204 on 13 August and 98 on 15 August 2025 <sup>[N42](#n42), [N43](#n43), [N8](#n8), [N44](#n44)</sup>. Reasons given were fake hotel bookings, no return ticket, too little money and no clear purpose <sup>[N44](#n44), [N45](#n45)</sup>. Travellers are told to carry RM500 to 1,000, and officers may look at photos on phones <sup>[N46](#n46)</sup>. More than 200 refused at KLIA were deported in 2025 <sup>[N9](#n9)</sup>. In 2024 a "counter setting" syndicate was reported to sell entry through bribed officers at RM200 to 2,500 a head; Malaysia's anti-corruption agency arrested 60 people, including 49 immigration officers <sup>[N47 (2024)](#n47)</sup>.
 - **UAE.** The UAE tightened visitor and employment visas for Bangladeshis from July 2024 <sup>[N8](#n8)</sup>.
 
 > **Need to know**
@@ -315,9 +319,21 @@ Destinations also turn Bangladeshis back on arrival. Over 3,500 were refused ent
 
 ## 8 Coming back
 
+<a id="who-comes-back-and-why"></a>
+
+### 8.1 Who comes back and why
+
+The BBS (Bangladesh Bureau of Statistics) Socio-Economic and Demographic Survey 2023, published in June 2024, counted migrants who had come home for good in the previous five years <sup>[N48 (2024)](#n48)</sup>:
+- **Why they came back:** by choice 17.28%, visa expired 12.80%, sent back by the authorities 11.67%, health 9.24%, Covid 9.21%, to live with family 7.96%, lost the job 7.18% <sup>[N48 (2024)](#n48)</sup>.
+- **Where from:** Saudi Arabia 38.37%, the UAE 14%, Malaysia 13.15%, Oman 9.20%, Qatar 5.67%, Kuwait 4.37%, Singapore 3.12% <sup>[N48 (2024)](#n48)</sup>.
+- **Home division:** Chattogram 36.36%, Dhaka 35.25% <sup>[N48 (2024)](#n48)</sup>.
+- **Schooling:** 42.28% had studied to class five to eight, and 25.38% had never been to school <sup>[N48 (2024)](#n48)</sup>.
+
+An official of RAISE (Recovery and Advancement of Informal Sector Employment, the returnee project run by the Ministry of Expatriates' Welfare and the Wage Earners' Welfare Board) said more than 4 lakh workers came back in 2020 <sup>[N49](#n49)</sup>. By BRAC Migration Programme's 2025 count about 5 lakh workers came back unexpectedly in six years, and a Bangladesh Open University researcher wrote in September 2026 that the rate in 2026 is much higher and that the Iran-United States war has pushed the number up <sup>[N50](#n50)</sup>. BRAC said in May 2025 that more than 67,000 women had been forced home by crises in the previous six years, many of them after abuse <sup>[N51](#n51)</sup>.
+
 <a id="at-the-airport-the-welfare-desk"></a>
 
-### 8.1 At the airport: the welfare desk
+### 8.2 At the airport: the welfare desk
 
 The Probashi Kallyan desks at Dhaka, Chattogram and Sylhet, run by the Wage Earners' Welfare Board, meet returning workers free <sup>[5](#o5), [3](#o3)</sup>. They:
 - give food and water to workers back from jail or on an outpass <sup>[5](#o5)</sup>;
@@ -336,15 +352,16 @@ Desks: Dhaka +88 02 8901040, +880 1971 430203, welfaredesk@gmail.com; Chattogram
 
 <a id="deportees-and-outpass-holders"></a>
 
-### 8.2 Deportees and outpass holders
+### 8.3 Deportees and outpass holders
 
-Bangladesh missions issue outpasses (Travel Permits) to send home people without a usable passport; the Abu Dhabi embassy's labour wing, for example, visits jails and the deportation centre to find Bangladeshis and issues them <sup>[25](#o25)</sup>. In Malaysia it costs RM38 from 16 January 2026 <sup>[26](#o26)</sup>. Government agencies count only returnees who come on an outpass, recorded by the Welfare Board's airport desk; according to sources cited by Prothom Alo, 86,621 workers came back empty-handed in 2023, 2,902 of them women <sup>[N47 (2024)](#n47)</sup>; about 89,000 came back this way in 2024 <sup>[N48](#n48)</sup>. Airport sources counted 15,245 travel-pass returns in January to March 2026 and 8,215 in April alone <sup>[N49](#n49)</sup>.
+Bangladesh missions issue outpasses (Travel Permits) to send home people without a usable passport; the Abu Dhabi embassy's labour wing, for example, visits jails and the deportation centre to find Bangladeshis and issues them <sup>[25](#o25)</sup>. In Malaysia it costs RM38 from 16 January 2026 <sup>[26](#o26)</sup>. Government agencies count only returnees who come on an outpass, recorded by the Welfare Board's airport desk; according to sources cited by Prothom Alo, 86,621 workers came back empty-handed in 2023, 2,902 of them women <sup>[N52 (2024)](#n52)</sup>; about 89,000 came back this way in 2024 <sup>[N53](#n53)</sup>. Airport sources counted 15,245 travel-pass returns in January to March 2026 and 8,215 in April alone <sup>[N54](#n54)</sup>.
 
 - In 2020 at least 255 workers deported from Qatar, Kuwait and Bahrain were jailed at Kashimpur after quarantine under section 54 of the Code of Criminal Procedure (arrest on suspicion), though most had been deported for overstaying or petty offences and pardoned <sup>[N10 (2020)](#n10)</sup>.
-- Nearly 70,000 Bangladeshi workers were deported from Saudi Arabia in 2022, mostly for lacking a valid iqama (residence permit) <sup>[N50 (2024)](#n50)</sup>.
-- Hasan Gazi of Shyamnagar, Satkhira, went to Kuwait through India in 2018 on Tk 5.5 lakh borrowed from relatives, did various jobs for four years, was detained by police and sent home, and in 2025 was driving an auto-rickshaw in Keraniganj and living in the garage <sup>[N48](#n48)</sup>.
-- More than 250 were deported from the US from early 2024 to December 2025; one said he was shackled for 75 hours before landing in Dhaka <sup>[N51](#n51)</sup>. BRAC says at least seven of one flight's 31 had gone to Brazil with BMET clearance and then entered the US irregularly via Mexico, and that such journeys cost Tk 30 to 35 lakh <sup>[N51](#n51)</sup>.
-- About 5,000 have been returned from Europe under a 2017 agreement; on 23 October 2026 a charter brought 35 from Italy, Greece and Cyprus, met by BRAC's Migration Programme with emergency help, counselling and fare home <sup>[N52](#n52)</sup>. Later economic help follows counselling and training under the EU-BRAC Prottasha-2 project <sup>[N52](#n52)</sup>. The EU delegation's programme manager said in August 2026 that EU-funded reintegration work began in 2017 and that the projects run through BRAC and IOM are essentially a pilot <sup>[N14](#n14)</sup>.
+- Nearly 70,000 Bangladeshi workers were deported from Saudi Arabia in 2022, mostly for lacking a valid iqama (residence permit) <sup>[N55 (2024)](#n55)</sup>.
+- Hasan Gazi of Shyamnagar, Satkhira, went to Kuwait through India in 2018 on Tk 5.5 lakh borrowed from relatives, did various jobs for four years, was detained by police and sent home, and in 2025 was driving an auto-rickshaw in Keraniganj and living in the garage <sup>[N53](#n53)</sup>.
+- More than 250 were deported from the US from early 2024 to December 2025; one said he was shackled for 75 hours before landing in Dhaka <sup>[N56](#n56)</sup>. BRAC says at least seven of one flight's 31 had gone to Brazil with BMET clearance and then entered the US irregularly via Mexico, and that such journeys cost Tk 30 to 35 lakh <sup>[N56](#n56)</sup>.
+- About 5,000 have been returned from Europe under a 2017 agreement, most from Cyprus, Italy, Romania and France, though BRAC says it has received the most in recent years from Italy, Greece and Germany <sup>[N57](#n57), [N58](#n58)</sup>. On 23 October 2026 a chartered flight (PVG 9445) landed at Dhaka at 8:15 am with 35: 19 from Italy, 10 from Greece and 6 from Cyprus <sup>[N58](#n58)</sup>. BRAC's Migration Programme met them with emergency help, counselling and money to get home, working with Civil Aviation Security and the Probashi Kallyan desk <sup>[N57](#n57), [N58](#n58)</sup>.
+- Bangladeshi workers found HIV-positive in Middle Eastern countries are sent home in haste without any treatment, a practice of many years, a Prothom Alo editorial said in February 2026; WHO (the World Health Organization) and the ILO (International Labour Organization) have said expelling someone only for HIV is discriminatory <sup>[N59](#n59)</sup>. The editorial said that at home medicine is free but counselling, mental-health support and livelihood help are very limited, that many are afraid to tell even their families, and that although an HIV-negative certificate is mandatory before going abroad, workers get no practical training on risk or sexual health <sup>[N59](#n59)</sup>. Later economic help follows counselling and training under the EU-BRAC Prottasha-2 project <sup>[N57](#n57)</sup>. The EU delegation's programme manager said in August 2026 that EU-funded reintegration work began in 2017 and that the projects run through BRAC and IOM are essentially a pilot <sup>[N14](#n14)</sup>.
 
 > **Need to know**
 > - Are deportees questioned or held by police at Dhaka airport in 2026, and on what legal basis?
@@ -352,28 +369,34 @@ Bangladesh missions issue outpasses (Travel Permits) to send home people without
 
 <a id="customs-and-luggage"></a>
 
-### 8.3 Customs and luggage
+### 8.4 Customs and luggage
 
 Every arriving passenger fills in the baggage declaration (Schedule 1) or submits it online; with nothing dutiable you use the green channel, where up to 5% of bags are scanned at random <sup>[27](#o27)</sup>. If by mistake or another unavoidable reason you could not declare, you can declare within 30 days of arrival on the Schedule 1 form to a customs officer not below Assistant Commissioner, under rule 8(3) of the Baggage Rules 2025 <sup>[27](#o27)</sup>. A passenger aged 12 or over may bring 65 kg duty-free plus 35 kg of clothes and personal items <sup>[27](#o27)</sup>. The welfare desk helps with customs and lost luggage <sup>[5](#o5)</sup>. A Civil Aviation Authority deputy director said in August 2026 that its investigations found that in 95% of cases of the cut or damaged luggage seen in social-media videos, the damage happened at the airport where the journey began, not in Bangladesh or in transit <sup>[N14](#n14)</sup>.
 
 > **Need to know**
 > - Where does a returnee complain about a customs officer demanding money: NBR (the National Board of Revenue), the customs house, or the welfare desk?
 
+<a id="on-the-road-from-the-airport"></a>
+
+### 8.5 On the road from the airport
+
+On 19 May 2024 at about 3 pm, Abdul Khalek, back from Saudi Arabia, was being driven from Shah Amanat International Airport in Chattogram when Aminul Islam, a sub-inspector of Khulshi police station who was not on duty, stopped his car at Tiger Pass and with two associates took 16 bhori of gold, police said <sup>[N60 (2024)](#n60)</sup>. By the police account they drove him around the city and tried to put him out on the Akhtaruzzaman Chowdhury flyover; he held on to the officer's clothes, a crowd gathered, and Panchlaish police detained the sub-inspector and one associate while the other fled <sup>[N60 (2024)](#n60)</sup>. The city police said the sub-inspector was suspended and a case was being filed against him <sup>[N60 (2024)](#n60)</sup>.
+
 <a id="after-deportation-bans-on-going-back"></a>
 
-### 8.4 After deportation: bans on going back
+### 8.6 After deportation: bans on going back
 
 - **Kuwait:** deportees are fingerprinted at the airport and banned for life <sup>[N11](#n11)</sup>.
-- **Malaysia:** deported undocumented migrants are blacklisted for 1 to 5 years, and serious cases for life <sup>[N12 (2017)](#n12)</sup>; all 140 deported from KLIA in September 2026 were blacklisted <sup>[N53](#n53)</sup>.
+- **Malaysia:** deported undocumented migrants are blacklisted for 1 to 5 years, and serious cases for life <sup>[N12 (2017)](#n12)</sup>; all 140 deported from KLIA in September 2026 were blacklisted <sup>[N61](#n61)</sup>.
 - **UAE:** a deportee may return only with permission of the ICP (Federal Authority for Identity, Citizenship, Customs and Port Security) chairman <sup>[28 (2021)](#o28)</sup>.
 - **Qatar:** someone deported by court judgment may return only by the Minister's decision <sup>[29 (2015)](#o29)</sup>.
 - **Italy:** a re-entry ban of 3 to 5 years, longer in some cases, entered in the Schengen Information System, so it also bars entry to EU and other Schengen states <sup>[30](#o30)</sup>.
 
 <a id="help-after-you-get-home"></a>
 
-### 8.5 Help after you get home
+### 8.7 Help after you get home
 
-**Where to apply.** The Minister said in August 2026 that a returnee who is jobless can apply to the Ministry or the Wage Earners' Welfare Board, and that the government plans to give financial and logistic support suited to the person's occupation and to monitor it <sup>[N14](#n14)</sup>. The government's RAISE project says it has brought 2,53,000 returnees under its reintegration programme and gives referral, training and counselling through 35 district offices, working with seven NGOs including BRAC and IOM (the International Organization for Migration) <sup>[N14](#n14)</sup>. The SME (small and medium enterprise) Foundation trains returnees in business planning, financial literacy, trade licences, TIN (tax identification number), BSTI (Bangladesh Standards and Testing Institution) certificates and markets, work its managing director called still at a very early stage <sup>[N14](#n14)</sup>.
+**Where to apply.** The Minister said in August 2026 that a returnee who is jobless can apply to the Ministry or the Wage Earners' Welfare Board, and that the government plans to give financial and logistic support suited to the person's occupation and to monitor it <sup>[N14](#n14)</sup>. The government's RAISE project says it has brought 2,53,000 returnees under its reintegration programme and gives referral, training and counselling through 35 district offices, working with seven NGOs including BRAC and IOM (the International Organization for Migration) <sup>[N14](#n14)</sup>. A Welfare Board official said in December 2025 that the project registers, counsels and gives incentives to its returnees, about 7% of whom are women, and that it could not rehabilitate everyone who came back <sup>[N49](#n49)</sup>. In May 2025 its project director said the government had identified and served about 31,000 returnee women, and a ministry additional secretary said the government was working to improve services for returnee women from the airport onward <sup>[N51](#n51)</sup>. The government's Reintegration Policy for Returnee Migrant Workers 2024 includes gender, according to RAMRU (Refugee and Migratory Movements Research Unit, a research group) <sup>[N49](#n49)</sup>. The chairperson of the SME (small and medium enterprise) Foundation said in May 2025 that most returnees have no skills and that the foundation would work on entrepreneurship, training and finance for returnee women; BRAC said its Network for Bangladeshi Women Migrants would bring organisations together to serve them <sup>[N51](#n51)</sup>. The SME Foundation trains returnees in business planning, financial literacy, trade licences, TIN (tax identification number), BSTI (Bangladesh Standards and Testing Institution) certificates and markets, work its managing director called still at a very early stage <sup>[N14](#n14)</sup>.
 
 **Loans.** PKB's returnee loans are the rehabilitation, women's rehabilitation, special rehabilitation and self-employment loans; it also lends where a migrant's family runs a business at home, and has lent Tk 702 crore to 24,971 people under them, its deputy managing director said in August 2026 <sup>[N14](#n14)</sup>. PKB's acting regional head in Sylhet said in April 2026 that the bank lends to returnees who suffered losses at 8% interest, but that in many cases this is not succeeding <sup>[N13](#n13)</sup>. Under an agreement between the NSDA (National Skills Development Authority) and PKB, returnees with a skills certificate can get a collateral-free loan of up to Tk 5 lakh, and RPL (recognition of prior learning, certifying skills learnt on the job) is being extended to workers in Saudi Arabia and Singapore, an NSDA director said in August 2026 <sup>[N14](#n14)</sup>. An ILO (International Labour Organization) officer said in August 2026 that 94% of returnees want to start a business but find loans hard to get because of paperwork, and that Karmasangsthan Bank now lends to them across the country at 7% interest on just three documents <sup>[N14](#n14)</sup>.
 
@@ -381,7 +404,7 @@ Every arriving passenger fills in the baggage declaration (Schedule 1) or submit
 > - Is PKB's rehabilitation loan at 9% or 8%, and is the collateral-free limit Tk 3 lakh or Tk 5 lakh with a skills certificate <sup>[31](#o31), [N13](#n13), [N14](#n14)</sup>?
 > - Which three documents does Karmasangsthan Bank ask returnees for, and up to what amount <sup>[N14](#n14)</sup>?
 
-**What reaches people.** The ILO officer said the government recently drew up a reintegration policy for returnees, that many people don't know PKB lends, and that support is usually project-based and stops when the project ends <sup>[N14](#n14)</sup>. BRAC's Migration Programme said many people return empty-handed after finding no work, and many have no savings even after 20 to 25 years abroad <sup>[N14](#n14)</sup>. RAISE's project director said many women returnees miss out on support because their families sent them abroad but suspect and undervalue them on return, and that the project is considering a union-level officer to record which woman has returned to which house and when <sup>[N14](#n14)</sup>. The general secretary of the Ovibashi Nari Sramik Federation said in May 2026 that women who come home after harassment and abuse get hardly any rehabilitation help and struggle to fit back into family and society, and that those returning at 45 to 50 are in a pitiable state; another speaker, Sheikh Romana, said many women return after abuse with a child, and questioned how many returnees really get the help that exists <sup>[N33](#n33)</sup>.
+**What reaches people.** The ILO officer said the government recently drew up a reintegration policy for returnees, that many people don't know PKB lends, and that support is usually project-based and stops when the project ends <sup>[N14](#n14)</sup>. BRAC's Migration Programme said many people return empty-handed after finding no work, and many have no savings even after 20 to 25 years abroad <sup>[N14](#n14)</sup>. RAISE's project director said many women returnees miss out on support because their families sent them abroad but suspect and undervalue them on return, and that the project is considering a union-level officer to record which woman has returned to which house and when <sup>[N14](#n14)</sup>. The general secretary of the Ovibashi Nari Sramik Federation said in May 2026 that women who come home after harassment and abuse get hardly any rehabilitation help and struggle to fit back into family and society, and that those returning at 45 to 50 are in a pitiable state; another speaker, Sheikh Romana, said many women return after abuse with a child, and questioned how many returnees really get the help that exists <sup>[N33](#n33)</sup>. Three women back from Jordan and Saudi Arabia told a December 2025 roundtable that all had paid a dalal to go abroad and had heard much negative talk in society since returning; one, Asma Begum, runs a tea stall in Dhaka <sup>[N49](#n49)</sup>.
 
 <a id="where-to-complain"></a>
 
@@ -480,18 +503,27 @@ These facts come only from news or third-party sources. Each needs an official s
 - <a id="n36"></a>N36. New Age, 29 Sep 2026. [HC issues rule over blocking 3 women from travelling to Nepal](https://www.newagebd.net/post/human-rights/315849/hc-issues-rule-over-blocking-3-women-from-travelling-to-nepal). Accessed 19 Nov 2026.
 - <a id="n37"></a>N37. Prothom Alo, Oct 2026. [Bideshjatray narike eka dekhlei immigration-e keno eto proshno](https://www.prothomalo.com/bangladesh/ojdq76uwoy). Accessed 19 Nov 2026.
 - <a id="n38"></a>N38. Prothom Alo English, Oct 2026. [3 women barred from travelling abroad describe what happened at the airport](https://en.prothomalo.com/bangladesh/ckil8ucz6b). Accessed 19 Nov 2026.
-- <a id="n39"></a>N39. Prothom Alo, 14 Feb 2024. [মানব পাচারের অভিযোগে ৫ বাংলাদেশির বিরুদ্ধে মার্কিন দূতাবাসের মামলা (US embassy files case against 5 Bangladeshis over human trafficking)](https://www.prothomalo.com/bangladesh/crime/2slibwetna). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n40"></a>N40. Prothom Alo, 25 Feb 2024. [প্রত্যেক অপরাধীকে শাস্তির আওতায় আনুন (Bring every offender to justice (editorial))](https://www.prothomalo.com/opinion/editorial/sr35jk03m3). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n41"></a>N41. The Financial Express (Bangladesh), 27 Jul 2025. [Malaysia denies entry to 80 Bangladeshis over visa entry conditions](https://thefinancialexpress.com.bd/national/malaysia-denies-entry-to-80-bangladeshis-over-visa-entry-conditions). Accessed 6 Nov 2026. Possibly outdated.
-- <a id="n42"></a>N42. The Financial Express (Bangladesh), 25 Jul 2025. [123 Bangladeshis with tourist visas denied entry at Kuala Lumpur airport](https://thefinancialexpress.com.bd/national/123-bangladeshis-with-tourist-visas-denied-entry-at-kuala-lumpur-airport). Accessed 6 Nov 2026. Possibly outdated.
-- <a id="n43"></a>N43. The Star (Malaysia), 15 Aug 2025. [Almost 100 Bangladeshis denied entry at KLIA, says border control agency](https://www.thestar.com.my/news/nation/2025/08/15/almost-100-bangladeshis-denied-entry-at-klia-says-border-control-agency). Accessed 6 Nov 2026. Possibly outdated.
-- <a id="n44"></a>N44. The Star (Malaysia), 21 Mar 2025. [51 Bangladeshi nationals denied entry at KLIA](https://www.thestar.com.my/news/nation/2025/03/21/51-bangladeshi-nationals-denied-entry-at-klia). Accessed 6 Nov 2026. Possibly outdated.
-- <a id="n45"></a>N45. Migration Concern, 27 Jul 2025. [Biman bondor theke Bangladeshider keno ferot pathacche Malaysia?](https://www.migrationconcern.com/asia/2085). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n46"></a>N46. The Edge Malaysia, 18 Sep 2024. [MACC: 'Focal person' in immigration's 'counter setting' syndicate arrested](https://theedgemalaysia.com/node/727127). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n47"></a>N47. Prothom Alo, 13 Jan 2024. [বিদেশে সর্বোচ্চ কর্মসংস্থানের মধ্যেও কমেছে নারী কর্মীর সংখ্যা (Number of women workers falls even amid record overseas employment)](https://www.prothomalo.com/bangladesh/zjz9a463x7). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n48"></a>N48. Prothom Alo, 30 Mar 2025. [ভাগ্য ফেরাতে বিদেশ গিয়ে ফিরছেন আরও নিঃস্ব হয়ে (Went abroad to change their fortune, returning even poorer)](https://www.prothomalo.com/bangladesh/4qsrpilh2s). Accessed 23 Nov 2026. Possibly outdated.
-- <a id="n49"></a>N49. Prothom Alo, 5 Sep 2026. [ছোট হয়েছে মধ্যপ্রাচ্যের বড় শ্রমবাজার, নতুন বাজারের নামে প্রতারণা](https://www.prothomalo.com/bangladesh/c5ok3b3xae). Accessed 11 Nov 2026.
-- <a id="n50"></a>N50. The Guardian, 21 Mar 2024. [Used, abused and deported: migrant workers land back in Bangladesh after Saudi dreams turn sour](https://www.theguardian.com/global-development/2024/mar/21/used-abused-and-deported-migrant-workers-land-back-in-bangladesh-after-saudi-dreams-turn-sour). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n51"></a>N51. BBC Bangla, Dec 2025. ['Poshupakhikeo emon khabar dey na': Jukrorashtro theke ferot pathano Bangladeshir bhoyaboho obhiggota](https://www.bbc.com/bengali/articles/ckg9qr3l4y1o). Accessed 19 Nov 2026.
-- <a id="n52"></a>N52. Bangla Telegraph, 23 Oct 2026. [Europe theke ferot pathano holo 35 Bangladeshike](https://www.banglatelegraph.com/article/231868). Accessed 19 Nov 2026.
-- <a id="n53"></a>N53. Berita RTM, 10 Sep 2026. [140 PATI pelbagai negara dihantar pulang melalui KLIA, KLIA2](https://berita.rtm.gov.my/?p=691872). Accessed 6 Nov 2026.
+- <a id="n39"></a>N39. Prothom Alo, 8 Oct 2026. [বিদেশ যেতে বাধা, বিমানবন্দরে কী ঘটেছিল তা বললেন সেই তিন নারী](https://www.prothomalo.com/bangladesh/7a90u1joqu). Accessed 23 Nov 2026.
+- <a id="n40"></a>N40. Prothom Alo, 14 Feb 2024. [মানব পাচারের অভিযোগে ৫ বাংলাদেশির বিরুদ্ধে মার্কিন দূতাবাসের মামলা (US embassy files case against 5 Bangladeshis over human trafficking)](https://www.prothomalo.com/bangladesh/crime/2slibwetna). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n41"></a>N41. Prothom Alo, 25 Feb 2024. [প্রত্যেক অপরাধীকে শাস্তির আওতায় আনুন (Bring every offender to justice (editorial))](https://www.prothomalo.com/opinion/editorial/sr35jk03m3). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n42"></a>N42. The Financial Express (Bangladesh), 27 Jul 2025. [Malaysia denies entry to 80 Bangladeshis over visa entry conditions](https://thefinancialexpress.com.bd/national/malaysia-denies-entry-to-80-bangladeshis-over-visa-entry-conditions). Accessed 6 Nov 2026. Possibly outdated.
+- <a id="n43"></a>N43. The Financial Express (Bangladesh), 25 Jul 2025. [123 Bangladeshis with tourist visas denied entry at Kuala Lumpur airport](https://thefinancialexpress.com.bd/national/123-bangladeshis-with-tourist-visas-denied-entry-at-kuala-lumpur-airport). Accessed 6 Nov 2026. Possibly outdated.
+- <a id="n44"></a>N44. The Star (Malaysia), 15 Aug 2025. [Almost 100 Bangladeshis denied entry at KLIA, says border control agency](https://www.thestar.com.my/news/nation/2025/08/15/almost-100-bangladeshis-denied-entry-at-klia-says-border-control-agency). Accessed 6 Nov 2026. Possibly outdated.
+- <a id="n45"></a>N45. The Star (Malaysia), 21 Mar 2025. [51 Bangladeshi nationals denied entry at KLIA](https://www.thestar.com.my/news/nation/2025/03/21/51-bangladeshi-nationals-denied-entry-at-klia). Accessed 6 Nov 2026. Possibly outdated.
+- <a id="n46"></a>N46. Migration Concern, 27 Jul 2025. [Biman bondor theke Bangladeshider keno ferot pathacche Malaysia?](https://www.migrationconcern.com/asia/2085). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n47"></a>N47. The Edge Malaysia, 18 Sep 2024. [MACC: 'Focal person' in immigration's 'counter setting' syndicate arrested](https://theedgemalaysia.com/node/727127). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n48"></a>N48. Prothom Alo, 18 Jun 2024. [পাঁচ বছরে বিদেশ থেকে ফেরত আসা 
+প্রতি তিনজনের একজনই চট্টগ্রামের](https://www.prothomalo.com/business/economics/91w510kgp6). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n49"></a>N49. Prothom Alo, 19 Dec 2025. [অভিবাসী নারীর অন্তর্ভুক্তিতে গুরুত্ব দিন](https://www.prothomalo.com/bangladesh/qzu3mzg3me). Accessed 23 Nov 2026.
+- <a id="n50"></a>N50. Prothom Alo, 16 Sep 2026. [১০ বছরে ১০ লাখ প্রত্যাগত অভিবাসী, অর্থনীতির জন্য বড় বিপদ](https://www.prothomalo.com/opinion/column/2gt7sa0cjy). Accessed 23 Nov 2026.
+- <a id="n51"></a>N51. Prothom Alo, 7 May 2025. [অভিবাসী নারীদের অধিকার রক্ষায় সমন্বিত উদ্যোগ জরুরি](https://www.prothomalo.com/bangladesh/qyhc587vkk). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n52"></a>N52. Prothom Alo, 13 Jan 2024. [বিদেশে সর্বোচ্চ কর্মসংস্থানের মধ্যেও কমেছে নারী কর্মীর সংখ্যা (Number of women workers falls even amid record overseas employment)](https://www.prothomalo.com/bangladesh/zjz9a463x7). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n53"></a>N53. Prothom Alo, 30 Mar 2025. [ভাগ্য ফেরাতে বিদেশ গিয়ে ফিরছেন আরও নিঃস্ব হয়ে (Went abroad to change their fortune, returning even poorer)](https://www.prothomalo.com/bangladesh/4qsrpilh2s). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n54"></a>N54. Prothom Alo, 5 Sep 2026. [ছোট হয়েছে মধ্যপ্রাচ্যের বড় শ্রমবাজার, নতুন বাজারের নামে প্রতারণা](https://www.prothomalo.com/bangladesh/c5ok3b3xae). Accessed 11 Nov 2026.
+- <a id="n55"></a>N55. The Guardian, 21 Mar 2024. [Used, abused and deported: migrant workers land back in Bangladesh after Saudi dreams turn sour](https://www.theguardian.com/global-development/2024/mar/21/used-abused-and-deported-migrant-workers-land-back-in-bangladesh-after-saudi-dreams-turn-sour). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n56"></a>N56. BBC Bangla, Dec 2025. ['Poshupakhikeo emon khabar dey na': Jukrorashtro theke ferot pathano Bangladeshir bhoyaboho obhiggota](https://www.bbc.com/bengali/articles/ckg9qr3l4y1o). Accessed 19 Nov 2026.
+- <a id="n57"></a>N57. Bangla Telegraph, 23 Oct 2026. [Europe theke ferot pathano holo 35 Bangladeshike](https://www.banglatelegraph.com/article/231868). Accessed 19 Nov 2026.
+- <a id="n58"></a>N58. Prothom Alo, 23 Oct 2026. [ইতালি, গ্রিস ও সাইপ্রাস থেকে ৩৫ বাংলাদেশিকে ফেরত পাঠানো হয়েছে](https://www.prothomalo.com/bangladesh/v0fngdd2ql). Accessed 23 Nov 2026.
+- <a id="n59"></a>N59. Prothom Alo, 3 Feb 2026. [রোগী নয়, রোগ দূর করুন](https://www.prothomalo.com/opinion/editorial/hzoua6qt60). Accessed 23 Nov 2026.
+- <a id="n60"></a>N60. Prothom Alo, 19 May 2024. [সৌদিফেরত প্রবাসীর কাছ থেকে সোনা ছিনতাইকালে এসআইকে ধরল জনতা](https://www.prothomalo.com/bangladesh/crime/yw1qyt92y8). Accessed 23 Nov 2026. Possibly outdated.
+- <a id="n61"></a>N61. Berita RTM, 10 Sep 2026. [140 PATI pelbagai negara dihantar pulang melalui KLIA, KLIA2](https://berita.rtm.gov.my/?p=691872). Accessed 6 Nov 2026.

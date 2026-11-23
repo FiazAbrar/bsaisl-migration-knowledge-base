@@ -129,3 +129,10 @@ Independent fact-check, 19 November 2026. About 150 sentences and list items che
 - **Unexplained title:** "SS Immigration" is left as SB prints it. Its meaning is not given in any saved source.
 - **Country-doc links:** the part has no links to country docs, so there was nothing to check. The internal cross-references ("see Where to complain", "see BMET clearance and the smart card") match real headings.
 - **Build:** `build.py` runs clean.
+
+## Resolved conflicts
+- Date the three women complained to the Additional IGP (immigration): TBS gives 31 August 2026 (D0044); Prothom Alo (8 Oct 2026) gives 30 August (GD0037). Both are secondhand news; neither quotes the complaint itself. The doc says "late August 2026", which both support, so the exact day does not change anything a reader would do; GD0037 is logged but not cited.
+
+## Prothom Alo batch (GD prefix, departure-1)
+- 9 articles read; 8 used (GD0001-GD0053). New H3s under "Coming back": "Who comes back and why" (BBS SEDS 2023 return reasons, countries, divisions, schooling; RAISE, BRAC and column counts of forced returns) and "On the road from the airport" (Chattogram police SI gold robbery, 19 May 2024). Nepal case extended with the women's 8 Oct 2026 police-inquiry statements; HIV-based deportation from the Middle East added to "Deportees and outpass holders"; Europe returns broken down by country.
+- Left out: the "6-7 lakh workers go abroad each month" line in Sudip Roy's 16 Sep 2026 column (an obvious misprint for a yearly figure) and the column's policy proposals (opinion); the BAIRA blacklist call and roundtable recommendations (opinion, no fact).
