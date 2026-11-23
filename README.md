@@ -21,9 +21,12 @@ Countries:
 For all countries:
 
 - [Recruiting agencies](agencies/): the most active licensed agencies, by country, with cited red flags
-- [Going abroad from Bangladesh](cross-country/): frequently asked questions, dalal scams, departure bottlenecks (offloading, airport checks, bribes, deportation) and illegal routes, across all countries
+- [Frequently asked questions](global/faq/): the questions people ask most before, during and after working abroad
+- [Dalal scams](global/dalal-scams/): the tricks brokers and fake agencies use, how to spot each, and where to complain
+- [Departure bottlenecks](global/departure/): passports, police clearance, the Gulf medical, BMET clearance, offloading and bribes at the airport, refused entry and deportation
+- [Illegal routes](global/illegal-routes/): the irregular routes people are sold, how they end, and the law and help in Bangladesh
 
-Each country folder has the same files:
+Each country and global folder has the same files:
 
 - README.md and the .docx: the doc. GitHub shows README.md when you open the folder.
 - doc.md: the doc's text with citations. The only file edited by hand; README.md and the .docx are built from it.
@@ -36,6 +39,7 @@ Elsewhere:
 
 - tools: scripts that save sources, check each quote against its saved copy, and build the doc (numbered headings, linked references and a .pdf if LibreOffice is installed)
 - official-pdfs and data: Bangladesh-side documents and BMET's recruiting-agency list
+- datasets: raw collections behind the docs, such as the Prothom Alo migration archive, with the scripts that built them
 - LOG.md: what has been done, by whom, how it was checked, what was tried and dropped, and what is open
 - CLAUDE.md: the rules every doc follows
 - PROMPT.md: the message to paste into Claude Code to start a new country
