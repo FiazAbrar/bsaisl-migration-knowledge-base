@@ -114,6 +114,10 @@ claude mcp login firecrawl
 
 Restart Claude Code after logging in.
 
+## Work log
+
+`LOG.md` records what was done, by whom, how it was checked, what was tried and dropped, and what is left open, newest first. Before you finish any piece of work that changes a doc, `tools/`, `agencies/`, `data/` or `datasets/`, add an entry at the top of `LOG.md` in the shape shown there and commit it with the work. This applies to every person and every agent: an agent's final step is the log entry, not the commit. A pull request that changes those folders without changing `LOG.md` fails its check. For a large pass, keep the entry short and put the full trace (briefs, drafts, checker verdicts, scripts) in `passes/`. Read the latest entries before starting, so you don't redo or undo someone else's work.
+
 ## Version control
 
-This folder is a git repository. Commit after each meaningful change (a section researched, a batch of sources added, a rebuild) with a message that says what changed. Commit `doc.md`, `facts.csv`, `sources.csv`, `sources/`, `notes.md`, `README.md` and the .docx together, so they never drift apart. Never commit passwords or personal data about migrants.
+This folder is a git repository. Commit after each meaningful change (a section researched, a batch of sources added, a rebuild) with a message that says what changed, and add a `LOG.md` entry (see Work log). Commit `doc.md`, `facts.csv`, `sources.csv`, `sources/`, `notes.md`, `README.md` and the .docx together, so they never drift apart. Never commit passwords or personal data about migrants.
