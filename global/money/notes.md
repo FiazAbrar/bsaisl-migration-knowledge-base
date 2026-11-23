@@ -29,3 +29,16 @@
 - Wage Earners' Development Bond launch year: the 16 Oct 2024 article says 1988; the 28 Sep, 3 Nov, 4 Nov and 13 Nov 2024 articles say 1981 and name the rules "Wage Earners' Development Bond Rules 1981". 1981 kept (GM0134); 1988 treated as a misprint.
 - Date of the IRD bond notification: the 3 Nov 2024 report says issued "today, Sunday" and the 4 Nov report "yesterday, Sunday" (3 Nov 2024); the 13 Nov report says 4 November. The doc gives only the effective date, 1 December 2024, which all agree on.
 - Bank cash-dollar selling rate in December 2024: 19 Dec report says Tk 120, 20 Dec report Tk 123. Not settled from the sources; immaterial to any 2026 decision, so neither figure is used in the doc.
+
+## Prothom Alo chunk money-4 (articles Jan to Jun 2025), added 23 Nov 2026
+
+- 25 articles read in full; 13 used (facts GM0173-GM0222). Newest values given as dated current: incentive still 2.5% and remittances income-tax-free by law (NBR chairman, Mar 2025); market-based dollar rate from May 2025; banks' remittance dollar at most Tk 123 (Mar-Jun 2025), Tk 122.70-122.80 by late June 2025; open-market dollar Tk 124.30-126 (May-Jun 2025). Nov 2026 rate and charge questions stay open.
+- New sections: Abuse of the tax exemption and incentive (Pratik Group case, both sides); Months in 2025; Where it comes from (US/UK as top source, aggregator attribution). Aggregators added to How the rate is set; S Alam banks allegation to After the change of government.
+- Unused: partial-month updates duplicating monthly totals (Mar 1-15, Mar 1-26, Apr 1-19, Jun 1-3 with 11-month total, Jun 1-21); Sohrab Hassan column (March 2025 total, duplicate); 8 Jun 2025 balance-of-payments report (market-rate float already GM0208); two opinion pieces with no usable fact (Nurunnabi Sohan; pension and gratuity demand); voting op-ed (diaspora count held for faq); Bangladesh Bank order on exam fees sent abroad (not about migrants).
+- Held for other docs (ledger gledger-money-4.json): VIP lounge for migrants opened at the airport (departure); estimates of the number of Bangladeshis abroad (faq).
+
+### Resolved conflicts (chunk 4)
+
+- Did Faruki Hasan take the cash incentive? Prothom Alo's 19 Mar report says he did (GM0189); he says he did not (GM0194). Neither is a primary document; both are given in the doc with attribution.
+- 3 Feb 2025 report lists foreign banks bringing "65 crore" dollars in January 2025, which with the other bank groups exceeds the month total of USD 2.1852 billion; an evident misprint, not used.
+- Calendar 2023 total: 20 Jan 2025 op-ed says USD 21.82 billion; the doc keeps the Bangladesh Bank figure already cited (GM0003). Op-ed not used.
