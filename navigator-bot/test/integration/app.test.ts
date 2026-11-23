@@ -81,6 +81,16 @@ afterAll(async () => {
 });
 
 function whatsappUpdate(id: string, text: string) {
+  return whatsappRaw({
+    from: "15551234567",
+    id,
+    timestamp: "1700000000",
+    type: "text",
+    text: { body: text },
+  });
+}
+
+function whatsappRaw(message: Record<string, unknown>) {
   return JSON.stringify({
     object: "whatsapp_business_account",
     entry: [
@@ -93,9 +103,7 @@ function whatsappUpdate(id: string, text: string) {
               messaging_product: "whatsapp",
               metadata: { display_phone_number: "15550001111", phone_number_id: "1234567890" },
               contacts: [{ profile: { name: "Test" }, wa_id: "15551234567" }],
-              messages: [
-                { from: "15551234567", id, timestamp: "1700000000", type: "text", text: { body: text } },
-              ],
+              messages: [message],
             },
           },
         ],
@@ -157,6 +165,27 @@ describe("WhatsApp", () => {
     await new Promise((r) => setTimeout(r, 300));
     const replies = calls.filter((c) => JSON.stringify(c.body).includes("Closest sections"));
     expect(replies).toHaveLength(1);
+  });
+});
+
+describe("WhatsApp voice notes and photos", () => {
+  it("asks for text instead of searching the guides for '[Voice message]'", async () => {
+    calls.length = 0;
+    const body = whatsappRaw({
+      from: "15551234567",
+      id: "wamid.voice1",
+      timestamp: "1700000000",
+      type: "audio",
+      audio: { id: "media1", mime_type: "audio/ogg; codecs=opus", voice: true },
+    });
+    const headers = { "x-hub-signature-256": sign(body), "content-type": "application/json" };
+    expect((await app.http.request("/webhook", { method: "POST", body, headers })).status).toBe(200);
+    const sent = await waitFor(() =>
+      calls.find(
+        (c) => c.url.endsWith("/1234567890/messages") && JSON.stringify(c.body).includes("as a text message"),
+      ),
+    );
+    expect(JSON.stringify(sent.body)).not.toContain("Closest sections");
   });
 });
 

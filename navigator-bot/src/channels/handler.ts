@@ -30,6 +30,17 @@ export function channelOf(threadId: string): Channel | undefined {
   return prefix === "whatsapp" || prefix === "telegram" || prefix === "web" ? prefix : undefined;
 }
 
+/**
+ * Text the adapters put in place of a voice note, photo, sticker, video, document or location
+ * (WhatsApp: "[Voice message]", "[Image]", "[Location: ...]"). It is not something the person typed.
+ */
+const PLACEHOLDER =
+  /^\[(?:voice message|audio message|image|video|sticker|document|location|file|photo|audio|voice)\b[^\]]*\]$/i;
+
+export function isPlaceholder(text: string): boolean {
+  return PLACEHOLDER.test(text.trim());
+}
+
 /** What the person sent, as the conversation sees it. */
 export function toIncoming(
   channel: Channel,
@@ -37,7 +48,7 @@ export function toIncoming(
   messages: readonly Pick<Message, "text" | "attachments">[],
   ipKey?: string,
 ): IncomingMessage {
-  const texts = messages.map((m) => m.text.trim()).filter(Boolean);
+  const texts = messages.map((m) => m.text.trim()).filter((t) => t && !isPlaceholder(t));
   const base = { channel, userKey: key, ...(ipKey ? { ipKey } : {}) };
   if (texts.length === 0) return { ...base, kind: "other" };
   return { ...base, kind: "text", text: texts.join("\n") };
