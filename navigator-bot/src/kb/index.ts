@@ -14,6 +14,7 @@ import { parse as parseCsv } from "csv-parse/sync";
 import { CountryMatcher } from "./countries.ts";
 import { discover, type GuideKind } from "./discover.ts";
 import { type FactKinds, parseDoc } from "./parse.ts";
+import { BANGLISH_STOPWORDS, englishFor } from "./synonyms.ts";
 
 const run = promisify(execFile);
 
@@ -240,8 +241,11 @@ export class KnowledgeBase {
 
   /** Full-text search; a match in the heading path counts four times a match in the text. */
   search(query: string, slug?: string, limit = 6): SearchHit[] {
-    const queryTerms = [...new Set(words(query).filter((w) => w.length > 1 && !STOPWORDS.has(w)))];
+    const typed = words(query).filter((w) => w.length > 1 && !STOPWORDS.has(w) && !BANGLISH_STOPWORDS.has(w));
+    // Bangla and Banglish words also search for the English words the guides use (synonyms.ts).
+    const queryTerms = [...new Set(typed.flatMap((w) => [w, ...englishFor(w)]))];
     if (queryTerms.length === 0) return [];
+    // No typo tolerance: tried on the evals (Nov 2026), it lowered English results and fixed no typos.
     const result = oramaSearch(this.db, {
       term: queryTerms.join(" "),
       properties: ["path", "text"],

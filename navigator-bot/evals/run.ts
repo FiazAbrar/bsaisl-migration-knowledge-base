@@ -19,6 +19,7 @@ import { z } from "zod";
 import { AiAnswerer, costOf } from "../src/ai/answerer.ts";
 import { openRouterModel } from "../src/ai/factory.ts";
 import { BOT_ROOT, config } from "../src/config.ts";
+import { closestSections } from "../src/conversation/answerer.ts";
 import { KnowledgeBase } from "../src/kb/index.ts";
 
 interface Question {
@@ -29,7 +30,10 @@ interface Question {
   question: string;
   must_include: string;
   must_not: string;
+  /** Heading paths that answer the question; several are separated by "; ". */
   source_section: string;
+  /** English keywords a model would send to search_guides, several queries separated by " | ". */
+  search_words: string;
 }
 
 const { values } = parseArgs({
@@ -50,26 +54,50 @@ async function loadQuestions(): Promise<Question[]> {
   return only ? rows.filter((r) => only.includes(r.id)) : rows;
 }
 
-/** Test mode: is the expected section among the top 5 search results for the question? */
+/** A hit counts when it is one of the expected sections or inside one (never a parent of it). */
+function isExpected(hitPath: string, sourceSection: string): boolean {
+  const p = hitPath.toLowerCase();
+  return sourceSection
+    .split(";")
+    .map((s) => s.trim().toLowerCase())
+    .some((e) => e !== "" && p.startsWith(e));
+}
+
+/**
+ * No AI key: is an expected section found
+ * - in test mode: the 3 sections test mode shows for the question as typed;
+ * - by the AI's search: the top 8 for each English keyword query in `search_words`, as search_guides returns.
+ */
 function retrievalRun(kb: KnowledgeBase, questions: Question[]): string[][] {
-  const rows: string[][] = [["id", "language", "expected", "found", "top_hit"]];
-  const byLang = new Map<string, { hit: number; total: number }>();
+  const rows: string[][] = [["id", "language", "expected", "test_mode", "ai_search", "test_mode_top_hit"]];
+  const byLang = new Map<string, { test: number; ai: number; total: number }>();
   for (const q of questions) {
     if (!q.source_section) continue;
     const country = q.country || kb.countries.detect(q.question);
-    const hits = kb.search(kb.countries.strip(q.question), country, 5);
-    const expected = q.source_section.trim().toLowerCase();
-    const found = hits.some(
-      (h) => h.path.toLowerCase().startsWith(expected) || expected.startsWith(h.path.toLowerCase()),
-    );
-    const stat = byLang.get(q.language) ?? { hit: 0, total: 0 };
+    const testHits = country ? closestSections(kb, q.question, country) : [];
+    const guide = kb.guide(country ?? "") ? country : undefined;
+    const aiHits = q.search_words
+      .split("|")
+      .map((s) => s.trim())
+      .filter(Boolean)
+      .flatMap((query) => kb.search(query, guide, 8));
+    const inTest = testHits.some((h) => isExpected(h.path, q.source_section));
+    const inAi = aiHits.some((h) => isExpected(h.path, q.source_section));
+    const stat = byLang.get(q.language) ?? { test: 0, ai: 0, total: 0 };
     stat.total++;
-    if (found) stat.hit++;
+    if (inTest) stat.test++;
+    if (inAi) stat.ai++;
     byLang.set(q.language, stat);
-    rows.push([q.id, q.language, q.source_section, found ? "yes" : "no", hits[0]?.path ?? ""]);
+    const yes = (b: boolean) => (b ? "yes" : "no");
+    rows.push([q.id, q.language, q.source_section, yes(inTest), yes(inAi), testHits[0]?.path ?? ""]);
   }
-  console.log("Search finds the expected section (top 5):");
-  for (const [lang, s] of byLang) console.log(`  ${lang.padEnd(9)} ${s.hit}/${s.total}`);
+  console.log("Expected section found:      test mode (top 3)   AI search words (top 8 per query)");
+  for (const [lang, s] of byLang) {
+    console.log(
+      `  ${lang.padEnd(9)} ${String(s.total).padStart(3)} questions  ${s.test}/${s.total}`.padEnd(48) +
+        `${s.ai}/${s.total}`,
+    );
+  }
   return rows;
 }
 

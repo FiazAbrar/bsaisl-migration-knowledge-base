@@ -18,6 +18,14 @@ How to write an entry: add it at the top, under this line, in this shape. Keep i
 
 ---
 
+## 2026-11-24 · Bot eval set corrected; Bangla and Banglish search words · agent for Angkon-Dutta-Joy
+
+- **Done:** `evals/questions.csv`: 8 out-of-date expected sections updated to the current headings and 4 expected answers that the guides now contradict rewritten (Malaysia Q02 and Q09, Saudi PDO Q17, house-driver price Q37); new `search_words` column with the English keywords a model would send, written blind to the answers. `evals/run.ts`: splits several expected sections on `;`, no longer counts a parent section as a hit, and reports test mode (top 3) and the AI's search (top 8 per query) per language. New `src/kb/synonyms.ts`: Bangla (with case endings) and Banglish words also search for the English words the guides use, and Banglish filler words are ignored. Result on the 38 questions with a section: test mode 14 → 21 (Bangla 3 → 10, English 9 → 10, Banglish 2 → 1); AI search words 35/38 before and after.
+- **Where:** `navigator-bot/` (`evals/`, `src/kb/`, `src/conversation/answerer.ts`, README); research and plan in this session (industry RAG practice, Bangla retrieval, peer migrant bots, an independent review).
+- **Checked by:** `npm run eval` before and after each change; 102 tests pass (5 new); type-check; lint on the changed files. An independent agent audited every expected section against the current `doc.md` headings.
+- **Tried and dropped:** typo tolerance (English 10 → 8, fixed no typos); searching the shared guides in test mode (English 10 → 3, general sections crowd out the country's); adding embeddings now (the AI's English keywords already find 35 of 38, so deferred until pilot data shows misses).
+- **Open:** connect OpenRouter and compare models on the eval; the authors should review the 41 questions (`reviewer_ok` is empty); Banglish Q10 now shows a visit-visa "Cost" section first in test mode.
+
 ## 2026-11-24 · Official-source research on the docs built from news; agency-flag check · agent for FiazAbrar
 
 - **Done:** the official research pass CLAUDE.md requires on the six country docs and three global docs first built from Prothom Alo: about 1,280 facts from official sources (US 127, Canada 155, UK 220, India 107, Lebanon 96, Greece 96, money 126, services 127, other destinations 230), Need-to-know questions answered where official pages answer them, news claims replaced where official sources differ. Also: the 23 Nov articles checked for agency flags (one new row, Lamisa Enterprise); the Illegal routes doc's US visa-bond section and the FAQ's PKB loan lines aligned with the official pages; plans.md records the one-file-per-doc restructure.

@@ -75,6 +75,11 @@ Set `OPENROUTER_API_KEY` and `LLM_MODEL` (an OpenRouter model id). The model wor
 question in `evals/questions.csv` and a judge model grades it against `must_include` and `must_not`. Results go
 to `evals/results/` (not committed). Every run costs money; the summary prints the total.
 
+**Without an AI key** `npm run eval` is free and checks search only, per language: does test mode show an
+expected section (`source_section`, several separated by `;`) among its 3 results, and do the English keywords
+the AI would send (`search_words`, queries separated by `|`) find one in the top 8? When a guide's headings
+change, update `source_section` for the questions on that guide.
+
 ## Telegram
 
 ### Create the bot (once, about 2 minutes)

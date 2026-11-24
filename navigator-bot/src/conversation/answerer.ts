@@ -46,6 +46,11 @@ export function guideName(kb: KnowledgeBase, slug: string, lang: Lang): string {
   return (title.split(":")[0] ?? title).trim();
 }
 
+/** Test mode's search: the message, country names removed, in the chosen guide. Shared with the evals. */
+export function closestSections(kb: KnowledgeBase, text: string, country: string, limit = 3) {
+  return kb.search(kb.countries.strip(text), country, limit);
+}
+
 export class TestModeAnswerer implements Answerer {
   readonly mode = "test" as const;
 
@@ -53,9 +58,8 @@ export class TestModeAnswerer implements Answerer {
     const m = MESSAGES[lang];
     if (!country) return { text: m.whichCountry(countryList(kb, lang)) };
     const guide = guideName(kb, country, lang);
-    const query = kb.countries.strip(text);
-    if (!query) return { text: `${m.testMode}\n${m.guideChosen(guide)}` };
-    const hits = kb.search(query, country, 3);
+    if (!kb.countries.strip(text)) return { text: `${m.testMode}\n${m.guideChosen(guide)}` };
+    const hits = closestSections(kb, text, country);
     if (hits.length === 0) return { text: `${m.testMode}\n${m.noMatch(guide)}` };
     const lines = [m.testMode, m.closest(guide)];
     hits.forEach((h, i) => {
