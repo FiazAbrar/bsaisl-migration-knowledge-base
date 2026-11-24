@@ -1,0 +1,512 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Navigator bot: WhatsApp setup tutorial</title>
+<style>
+  :root { --ink: #1d2433; --muted: #5b6475; --line: #d9dee7; --accent: #0b5cad; --soft: #f3f6fa; --warn: #fff6e0; --warnline: #e8c45c; --ok: #eef8f0; --okline: #4caf6a; }
+  @page { size: A4; margin: 15mm 15mm 16mm; }
+  * { box-sizing: border-box; }
+  body { font: 10.6pt/1.5 "Segoe UI", Arial, sans-serif; color: var(--ink); background: #fff; margin: 0 auto; max-width: 840px; padding: 16px; }
+  h1 { font-size: 22pt; line-height: 1.2; margin: 30px 0 8px; }
+  h2 { font-size: 14.5pt; margin: 0 0 6px; padding-bottom: 4px; border-bottom: 2px solid var(--accent); break-after: avoid; }
+  h2 .n { color: var(--accent); margin-right: 6px; }
+  h3 { font-size: 11pt; margin: 12px 0 4px; break-after: avoid; }
+  .part { break-before: page; }
+  .meta { color: var(--muted); font-size: 9.6pt; margin: 0 0 8px; }
+  p { margin: 5px 0; }
+  ol, ul { margin: 5px 0 5px 22px; padding: 0; }
+  li { margin: 3px 0; }
+  .why { margin: 6px 0 8px; padding: 6px 10px; background: var(--soft); border-left: 3px solid var(--accent); }
+  .note { margin: 8px 0; padding: 6px 10px; background: var(--warn); border-left: 3px solid var(--warnline); break-inside: avoid; }
+  .ok { margin: 10px 0 4px; padding: 6px 10px; background: var(--ok); border-left: 3px solid var(--okline); break-inside: avoid; }
+  .k { font-family: Consolas, "Courier New", monospace; font-size: 9.3pt; background: var(--soft); padding: 0 3px; border-radius: 3px; }
+  pre { margin: 6px 0; padding: 8px 10px; background: #10161f; color: #e6edf6; border-radius: 4px; font: 8.8pt/1.45 Consolas, "Courier New", monospace; white-space: pre-wrap; word-break: break-all; break-inside: avoid; }
+  .b { font-weight: 600; }
+  table { width: 100%; border-collapse: collapse; margin: 6px 0 8px; font-size: 9.8pt; }
+  tr { break-inside: avoid; }
+  th, td { text-align: left; vertical-align: top; padding: 4px 7px; border: 1px solid var(--line); }
+  th { background: var(--soft); }
+  .problems th:first-child { width: 40%; }
+  figure { margin: 8px 0 10px; break-inside: avoid; text-align: center; }
+  figure img { max-width: 100%; max-height: 76mm; border: 1px solid var(--line); border-radius: 4px; }
+  figcaption { font-size: 9pt; color: var(--muted); margin-top: 3px; }
+  .flow { font: 9.4pt/1.6 Consolas, "Courier New", monospace; background: var(--soft); padding: 8px 12px; border-radius: 4px; white-space: pre; overflow-x: auto; }
+  .cover { padding-top: 40px; }
+  .cover .lead { font-size: 12pt; margin: 6px 0 16px; }
+  .cards { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 14px 0; }
+  .card { border: 1px solid var(--line); border-radius: 6px; padding: 9px 12px; }
+  .card h3 { margin: 0 0 4px; }
+  .toc { columns: 2; margin: 6px 0 0 20px; }
+  .toc li { margin: 2px 0; }
+  .tick { width: 30px; text-align: center; }
+  td.box { width: 45%; height: 22px; }
+  @media (max-width: 640px) { .cards { grid-template-columns: 1fr; } .toc { columns: 1; } }
+</style>
+</head>
+<body>
+
+<!-- Cover -->
+<section class="cover">
+  <p class="meta">BSAISL Migration Pathway Navigator</p>
+  <h1>Setting up WhatsApp for the Navigator bot</h1>
+  <p class="lead">A step-by-step tutorial for the admin of the <b>BRAC IT Stories</b> business portfolio. It walks through every screen in order, says why each step matters, shows what the Meta pages look like, and warns about every problem we hit when we set up our own test account.</p>
+  <div class="cards">
+    <div class="card">
+      <h3>What you will have at the end</h3>
+      <p>A WhatsApp Business Account inside the BRAC IT Stories portfolio, BRAC's own WhatsApp number for the bot, a permanent access token, billing, a published app, and the bot answering migrants on BRAC's number. Business verification will be under way.</p>
+    </div>
+    <div class="card">
+      <h3>How long it takes</h3>
+      <p>About 1½–2 hours of work. Meta's own checks (business verification, display-name review) take from a few hours to two weeks, but you don't have to wait for them: everything works while they run.</p>
+    </div>
+  </div>
+  <div class="note"><b>The bot is already running.</b> It answers on WhatsApp (on our test number), Telegram and the web today. This tutorial moves its WhatsApp side onto BRAC's own account. Only the bot's settings change, not its code.</div>
+  <p class="meta"><b>Before you begin.</b> Meta renames buttons often. The labels and screenshots here are from November 2026. If a label looks different, choose the closest match: the order of the steps stays the same. Screenshots come from our test account, so names like "Navigator Bot Test" will read differently on yours; personal details are hidden in grey.</p>
+  <h3>Contents</h3>
+  <ol class="toc" start="0">
+    <li>Read this first: what comes after what</li>
+    <li>Before you start: what to prepare</li>
+    <li>Check the business portfolio</li>
+    <li>Start business verification</li>
+    <li>Create the Meta app</li>
+    <li>Create the WhatsApp Business Account and try the test number</li>
+    <li>Create the permanent access token (System User)</li>
+    <li>Add and verify the bot's phone number</li>
+    <li>Register the phone number (one command)</li>
+    <li>App secret and verify token</li>
+    <li>Billing</li>
+    <li>Privacy policy and publishing the app</li>
+    <li>Hand the credentials to the bot team</li>
+    <li>Final steps together: webhook, link, test</li>
+    <li>Quick troubleshooting index</li>
+    <li>Checklist and values sheet</li>
+  </ol>
+  <p class="meta" style="margin-top:18px">Prepared by the BSAISL Navigator bot team, 24 November 2026. Based on Meta's WhatsApp Cloud API documentation (Graph API v27.0, checked November 2026) and our own setup.</p>
+</section>
+
+<!-- 0 -->
+<section class="part">
+<h2><span class="n">0</span>Read this first: what comes after what</h2>
+<p>Each step needs something from the step before it. Doing them out of order caused most of our own problems, so follow this order.</p>
+<div class="note"><b>Who logs in:</b> each admin with their <b>own</b> Facebook account. Never a shared login, and never "as the Facebook Page": a Page has no login of its own.</div>
+<div class="flow"> 1  Prepare SIM, documents, password manager ..................... Part 1
+ 2  Check the portfolio: admins and name .......................... Part 2
+ 3  Start verification  -&gt; runs in the background for days ...... Part 3
+         | don't wait, continue:
+ 4  Meta app (inside the portfolio) ............................... Part 4
+ 5  WhatsApp Business Account (inside the app's setup) ............ Part 5
+ 6  System User + permanent token (needs the app AND the WABA) .... Part 6
+ 7  Add + verify the bot's number (needs the WABA + the SIM) ...... Part 7
+ 8  Register the number (needs the token AND the number) .......... Part 8
+ 9  App secret, verify token ...................................... Part 9
+10  Billing ....................................................... Part 10
+11  Privacy policy + publish the app .............................. Part 11
+12  Hand the credentials to the bot team .......................... Part 12
+13  TOGETHER with the bot team: webhook, link, test ............... Part 13</div>
+
+<h3>Where things live</h3>
+<p>Everything sits inside one business portfolio, Meta's company account. The portfolio already exists: <b>BRAC IT Stories</b>.</p>
+<div class="flow">BRAC IT Stories business portfolio        business.facebook.com
+|- People: 2+ BRAC IT admins
+|- Meta app "BRAC Navigator Bot"          developers.facebook.com/apps  -&gt; app secret
+|- WhatsApp Business Account (WABA)       WhatsApp Manager              -&gt; WABA ID
+|  '- the bot's phone number (new SIM)                                  -&gt; Phone number ID
+'- System user "navigator-bot"            Business settings &gt; Users    -&gt; access token</div>
+<table>
+  <tr><th>Website</th><th>What you do there</th></tr>
+  <tr><td>business.facebook.com</td><td>The portfolio: people, verification, System Users and tokens, billing</td></tr>
+  <tr><td>developers.facebook.com</td><td>The Meta app: WhatsApp setup screens, app secret, webhook, publishing</td></tr>
+  <tr><td>business.facebook.com/latest/whatsapp_manager</td><td>WhatsApp Manager: phone numbers, display name, PIN, payment</td></tr>
+</table>
+
+<!-- 1 -->
+<h2 style="margin-top:18px"><span class="n">1</span>Before you start: what to prepare</h2>
+<p>Missing any of the first four items stops the setup halfway, so gather them first.</p>
+<ol>
+  <li><b>Two BRAC IT staff as portfolio admins</b>, each with their own Facebook account and <b>two-factor authentication on</b> (Facebook → Settings → Accounts Center → Password and security → Two-factor authentication). Several token screens refuse to work without it.</li>
+  <li><b>Company documents for verification:</b> the trade licence or certificate of incorporation showing BRAC IT's exact legal name; if the address isn't on it, a recent utility bill or bank statement in the company's name.</li>
+  <li><b>A way to prove you control BRAC IT:</b> the person who manages BRAC IT's website domain (they add one DNS record), or access to the business email or phone printed on the documents.</li>
+  <li><b>A brand-new mobile SIM (+880) for the bot:</b>
+    <ul>
+      <li>never used with WhatsApp or WhatsApp Business;</li>
+      <li>in a phone with signal that can receive SMS and calls from abroad (Meta's code comes from outside Bangladesh);</li>
+      <li>owned by BRAC long term: you need it again to move or delete the number, and the number itself can never be changed.</li>
+    </ul></li>
+  <li><b>The display name</b> users will see: a name that clearly belongs to BRAC. Meta reviews it and rejects generic names such as "Migration Help".</li>
+  <li><b>A payment method</b> for WhatsApp charges (company card, or BRAC's billing arrangement with Meta).</li>
+  <li><b>A square app icon</b>, 1024 × 1024 pixels.</li>
+  <li><b>A password manager</b> (or BRAC IT's secrets vault) for the token, app secret, verify token and PIN.</li>
+</ol>
+<h3>What you'll save along the way</h3>
+<p>Create one entry called <b>"Navigator WhatsApp bot"</b> in the password manager now and fill it in as you go. Meta shows some values only once.</p>
+<table>
+  <tr><th>Save</th><th>Where you get it</th><th>Secret?</th><th>Needed later for</th></tr>
+  <tr><td>Access token (System User)</td><td>Part 6</td><td><b>Yes</b>, shown only once</td><td>The bot's settings; renewing before expiry</td></tr>
+  <tr><td>Token expiry date</td><td>Part 6</td><td>No</td><td>A calendar reminder to renew</td></tr>
+  <tr><td>App secret</td><td>Part 9</td><td><b>Yes</b></td><td>The bot's settings</td></tr>
+  <tr><td>Verify token</td><td>Part 9 (you make it up)</td><td><b>Yes</b></td><td>Connecting the webhook (Part 13)</td></tr>
+  <tr><td>Phone number PIN (6 digits)</td><td>Part 8 (you choose it)</td><td><b>Yes</b></td><td>Moving or deleting the number; re-registering</td></tr>
+  <tr><td>WABA ID</td><td>Part 5</td><td>No</td><td>The bot's settings; commands</td></tr>
+  <tr><td>Phone number ID</td><td>Part 7</td><td>No</td><td>The bot's settings; commands</td></tr>
+</table>
+<div class="note"><b>Secrets</b> (token, app secret, verify token, PIN) live in the password manager only. Never in email, chat, a shared document or a screenshot. Everything else may also go on the values sheet (Part 15).</div>
+<h3>Problems you may hit here</h3>
+<table class="problems">
+  <tr><th>What you may see</th><th>What to do</th></tr>
+  <tr><td>The SIM already had WhatsApp on it</td><td>Delete that WhatsApp account first: WhatsApp app → Settings → Account → Delete account. Uninstalling the app is not enough; Meta will refuse the number.</td></tr>
+</table>
+</section>
+
+<!-- 2 -->
+<section class="part">
+<h2><span class="n">2</span>Check the business portfolio</h2>
+<p class="meta">Done by the admin who has full access. About 5 minutes.</p>
+<div class="why"><b>Why this step:</b> the app, the WhatsApp account, the token and the billing will all live in this portfolio, and only its admins can create them. Two choices are hard to undo later: which portfolio everything is created in, and its verified legal name.</div>
+<ol>
+  <li>Go to <span class="k">business.facebook.com</span> and log in with your own Facebook account. Check <b>BRAC IT Stories</b> is selected in the portfolio menu at the top left.</li>
+  <li>Open <b>Settings</b> (gear, bottom left) → <b>Users → People</b>. Check your name shows <b>Full control</b> (Admin).</li>
+  <li>Add a second BRAC IT admin now: <b>Add</b> → their work email → <b>Full control</b> → <b>Send invite</b>. They accept from their email. One admin leaving is exactly how BRAC IT lost access to its old portfolio.</li>
+  <li>Open <b>Settings → Business info</b> and compare the <b>business name</b> with the legal name on BRAC IT's trade licence. Verification (Part 3) is rejected unless they match character for character. If the portfolio is named "BRAC IT Stories" but the documents say BRAC IT's legal name, <b>rename it here before Part 3</b>.</li>
+</ol>
+<div class="note"><b>Talk to us if you're unsure.</b> If BRAC IT Stories is meant to stay a separate brand and can't carry BRAC IT's legal name, tell us before Part 4: it decides whether this portfolio is the permanent home for the bot or only for the pilot.</div>
+<div class="ok"><b>Check it worked:</b> Settings → Users → People lists two admins with Full control, and the business name matches the documents.</div>
+
+<!-- 3 -->
+<h2 style="margin-top:18px"><span class="n">3</span>Start business verification</h2>
+<p class="meta">Done by an admin with the documents. About 20 minutes of work, then a few days to two weeks of waiting.</p>
+<div class="why"><b>Why this step:</b> verification proves to Meta that the portfolio really is BRAC IT. It raises messaging limits, allows more phone numbers, helps the display name get approved, usually unlocks a token that never expires, and is likely needed for Meta's non-profit message exemption. It's free.</div>
+<ol>
+  <li>Go to <span class="k">business.facebook.com/latest/settings</span> with BRAC IT Stories selected.</li>
+  <li>Open <b>Security Center</b> (on some screens under Business info) and click <b>Start verification</b>.</li>
+  <li>Enter the legal name, address, phone number and website <b>exactly as on the documents</b>. Use BRAC IT's own website domain.</li>
+  <li>Upload the trade licence or registration certificate; add a utility bill or bank statement if the address or phone isn't on it.</li>
+  <li>Choose how to confirm you control the business:
+    <ul>
+      <li><b>Domain verification</b> (most reliable): Meta shows a DNS TXT record. Send it to whoever manages BRAC IT's domain; once they've added it, come back and click <b>Verify</b>.</li>
+      <li><b>Email or phone code</b>: sent to the business email or phone on the documents.</li>
+    </ul></li>
+  <li>Click <b>Submit</b>. Meta emails the decision; Security Center then shows <b>Verified</b>.</li>
+</ol>
+<div class="note"><b>Don't wait. Go on to Part 4 now.</b> Everything works while verification is pending. An unverified portfolio can register up to 2 phone numbers and is limited only in messages the business sends first; the bot only replies to people who write first, so it works normally.</div>
+<h3>Problems you may hit here</h3>
+<table class="problems">
+  <tr><th>What you may see</th><th>What to do</th></tr>
+  <tr><td>A blue "Get a verified badge" button next to the Page name</td><td>That is Meta Verified, a paid badge for a Page. It is not business verification. Don't buy it.</td></tr>
+  <tr><td>Verification rejected: name doesn't match</td><td>The portfolio name, the form and the documents must use the same legal name. Rename the portfolio (Settings → Business info) and resubmit.</td></tr>
+  <tr><td>Unsure which documents Meta accepts</td><td>The verification page lists the accepted documents for Bangladesh when you start; follow that list.</td></tr>
+</table>
+<div class="ok"><b>Check it worked:</b> Security Center shows "In review" (later "Verified").</div>
+</section>
+
+<!-- 4 -->
+<section class="part">
+<h2><span class="n">4</span>Create the Meta app</h2>
+<p class="meta">Done by an admin. About 10 minutes.</p>
+<div class="why"><b>Why this step:</b> the app is what connects the bot to WhatsApp. It holds the app secret, the webhook (where Meta delivers incoming messages) and the published status.</div>
+<ol>
+  <li>Go to <span class="k">developers.facebook.com</span> with the same Facebook account. First time only: <b>Get Started</b> → accept the terms → verify phone and email → choose <b>Developer</b> → <b>Complete registration</b>.</li>
+  <li>Go to <span class="k">developers.facebook.com/apps</span> → <b>Create App</b>.</li>
+  <li><b>App details:</b> name <b>BRAC Navigator Bot</b>, a BRAC contact email → <b>Next</b>.</li>
+  <li><b>Use case:</b> <b>Connect with customers through WhatsApp</b> → <b>Next</b>.</li>
+  <li><b>Business:</b> select <b>BRAC IT Stories</b>. An app can't easily move to another portfolio later → <b>Next</b>.</li>
+  <li><b>Requirements:</b> usually none → <b>Next</b> → check the overview → <b>Create app</b>. Enter your Facebook password if asked.</li>
+  <li>You land on the app Dashboard (Figure 1). Click <b>Customize the Connect with customers through WhatsApp use case</b>.</li>
+  <li>The WhatsApp menu opens (Figure 2). Keep <b>Integrate with API</b> selected. The menu shows <b>Step 1. Try it out</b>, <b>Step 2. Production setup</b> and <b>Step 3. Business verification</b>.</li>
+</ol>
+<figure><img src="setup-guide-img/1-app-dashboard.png" alt="The app Dashboard"><figcaption>Figure 1. The app Dashboard. Click the first row, "Customize the Connect with customers through WhatsApp use case".</figcaption></figure>
+<figure><img src="setup-guide-img/2-whatsapp-menu.png" alt="The WhatsApp use-case menu"><figcaption>Figure 2. The WhatsApp menu: Overview, then Basic setup with Steps 1–3. Keep "Integrate with API" selected.</figcaption></figure>
+<h3>Problems you may hit here</h3>
+<table class="problems">
+  <tr><th>What you may see</th><th>What to do</th></tr>
+  <tr><td>Older guides mention "Quickstart", "API Setup" or "Configuration"</td><td>Meta renamed them: Quickstart / API Setup is now Step 1. Try it out; Configuration (webhooks) is under Step 2. Production setup.</td></tr>
+  <tr><td>The dashboard offers "Become a Tech Provider", "Facebook Login for Business" or "Embedded Signup"</td><td>Ignore all three. They're for companies that build WhatsApp for other businesses.</td></tr>
+  <tr><td>The wrong portfolio was picked in step 5</td><td>Create the app again and pick BRAC IT Stories.</td></tr>
+</table>
+<div class="ok"><b>Check it worked:</b> the app appears at developers.facebook.com/apps with "BRAC IT Stories" under it.</div>
+</section>
+
+<!-- 5 -->
+<section class="part">
+<h2><span class="n">5</span>Create the WhatsApp Business Account (WABA) and try the test number</h2>
+<p class="meta">Done in the app. About 10 minutes.</p>
+<div class="why"><b>Why this step:</b> the WABA (Meta also calls it a "Messaging account") holds the bot's phone number, display name and billing. Its free test number lets you check everything works before the real SIM is involved.</div>
+<ol>
+  <li>In the WhatsApp menu, click <b>Step 1. Try it out</b>.</li>
+  <li>Find the <b>Messaging account</b> selector. If none is selected, click <b>Create a WhatsApp Business account</b> and enter the business name, category and time zone <b>Asia/Dhaka</b>. (Meta sometimes creates one automatically with the app; then just check it's selected.)</li>
+  <li>Write down the <b>Messaging account ID</b> (also shown as WhatsApp Business Account ID). This is the <b>WABA ID</b>.</li>
+  <li>Click <b>Generate access token</b> and follow the pop-ups. On "Choose the WhatsApp accounts you want … to access" (Figure 3) choose <b>Opt in to current WhatsApp accounts only</b>, tick the new account, then <b>Continue</b> on each screen. This token is temporary, for this test only.</li>
+  <li>Test with Meta's free test number (+1 555 …, already in the WABA):
+    <ul>
+      <li>under <b>To</b>, open <b>Manage phone number list</b>, add your own WhatsApp number with +880 and type the code WhatsApp sends you;</li>
+      <li>click <b>Send message</b>. A "Hello World" message arrives on your phone within a minute or two.</li>
+    </ul></li>
+</ol>
+<figure><img src="setup-guide-img/3-opt-in.png" alt="The access pop-up"><figcaption>Figure 3. The access pop-up after Generate access token. Choose "current WhatsApp accounts only" and tick the new account.</figcaption></figure>
+<h3>Problems you may hit here</h3>
+<table class="problems">
+  <tr><th>What you may see</th><th>What to do</th></tr>
+  <tr><td>The opt-in screen lists no account to tick</td><td>Go back and choose "Opt in to all current and future WhatsApp accounts" instead. The account hasn't appeared yet.</td></tr>
+  <tr><td>"Recipient phone number not in allowed list" (error 131030)</td><td>The test number only sends to numbers added under To → Manage phone number list. Add yours.</td></tr>
+  <tr><td>The token from this page stops working after a few hours</td><td>Expected: it's temporary. The permanent token comes in Part 6.</td></tr>
+</table>
+<div class="ok"><b>Check it worked:</b> "Hello World" arrived on your phone, and the WABA ID is saved.</div>
+</section>
+
+<!-- 6 -->
+<section class="part">
+<h2><span class="n">6</span>Create the permanent access token (System User)</h2>
+<p class="meta">Done by an admin in Business settings. About 15 minutes.</p>
+<div class="why"><b>Why this step:</b> the bot needs a token that belongs to BRAC IT, not to a person, and doesn't expire. Meta calls the account that owns it a System User.</div>
+<ol>
+  <li>Go to <span class="k">business.facebook.com/latest/settings</span> with BRAC IT Stories selected.</li>
+  <li>Open <b>Users → System users → + Add</b>. Name <span class="k">navigator-bot</span>, role <b>Admin</b> → <b>Create system user</b>.</li>
+  <li>Click the new user's name, then <b>Assign assets</b> (Figure 4):
+    <ul>
+      <li><b>Apps</b> → tick <b>BRAC Navigator Bot</b> → turn on <b>Manage app</b> (Full control);</li>
+      <li><b>WhatsApp accounts</b> → tick the new WABA → turn on <b>Full access → Everything</b>;</li>
+      <li><b>Messaging accounts → Linked accounts</b>: if the WABA is listed there too, tick it and give Full access (Meta's docs say the token needs both).</li>
+    </ul></li>
+  <li>Click <b>Assign assets</b>. Wait a minute, then reload the page: the app and the WABA must now be listed under the system user.</li>
+  <li>Back on the system user's panel, next to Assign assets, click <b>Generate token</b> (it may read Generate new token, or sit under the ⋯ menu):
+    <ul>
+      <li>Select app: <b>BRAC Navigator Bot</b>;</li>
+      <li>Set expiry: <b>Never</b>;</li>
+      <li>Assign permissions (Figure 5): tick <span class="k">whatsapp_business_messaging</span> and <span class="k">whatsapp_business_management</span>. Leave the others unticked.</li>
+    </ul></li>
+  <li>Click <b>Generate token</b> and copy it <b>at once</b> into the password manager. Meta shows it only once.</li>
+</ol>
+<figure><img src="setup-guide-img/4-assign-assets.png" alt="Assign assets"><figcaption>Figure 4. Assign assets: WhatsApp accounts → the account ticked → Full access → Everything.</figcaption></figure>
+<figure><img src="setup-guide-img/5-token-permissions.png" alt="Generate token permissions"><figcaption>Figure 5. Generate token, Assign permissions: the two WhatsApp permissions ticked.</figcaption></figure>
+<h3>Problems you may hit here</h3>
+<table class="problems">
+  <tr><th>What you may see</th><th>What to do</th></tr>
+  <tr><td>You can't find the Generate token button</td><td>It's on the system user's own panel (Users → System users → click the name), not inside the Assign assets window. It appears only once the app is assigned: reload after a minute. Some accounts must turn on two-factor authentication first.</td></tr>
+  <tr><td>Expiry only offers "60 days", not "Never"</td><td>Normal before verification. Take 60 days and put a reminder in BRAC IT's calendar a week before it ends. Renewing = Generate token again and give the bot team the new one. Once verified, generate a Never token.</td></tr>
+  <tr><td>business_management is not in the permissions list</td><td>That's fine. The two WhatsApp permissions are enough.</td></tr>
+  <tr><td>Later, commands fail with error code 200 or "permission"</td><td>The system user is missing an asset or a permission: redo step 3 and step 5, then generate a new token.</td></tr>
+</table>
+<p><b>Optional check.</b> In Windows <b>Command Prompt</b> (Start → type <span class="k">cmd</span> → Enter; not PowerShell), with the token in both places:</p>
+<pre>curl "https://graph.facebook.com/v27.0/debug_token?input_token=&lt;TOKEN&gt;" -H "Authorization: Bearer &lt;TOKEN&gt;"</pre>
+<div class="ok"><b>Check it worked:</b> the answer shows <span class="k">"is_valid": true</span>, <span class="k">"type": "SYSTEM_USER"</span>, both WhatsApp permissions, and <span class="k">"expires_at": 0</span> (never) or a date you've noted.</div>
+</section>
+
+<!-- 7 -->
+<section class="part">
+<h2><span class="n">7</span>Add and verify the bot's phone number</h2>
+<p class="meta">Done in WhatsApp Manager, with the new SIM at hand. About 10 minutes.</p>
+<div class="why"><b>Why this step:</b> the test number can only talk to a few listed phones. BRAC's own number lets anyone message the bot.</div>
+<ol>
+  <li>Go to <span class="k">business.facebook.com/latest/whatsapp_manager</span>, select BRAC IT Stories and the new WABA.</li>
+  <li>Open <b>Account tools → Phone numbers → Add phone number</b>. (Same thing from the app: Step 2. Production setup → Register your WhatsApp phone number.)</li>
+  <li>Enter the <b>display name</b>, category (<b>Nonprofit</b> or <b>Education</b>), a short description, and time zone <b>Asia/Dhaka</b>.</li>
+  <li>Enter the SIM's number (+880…), pick <b>Text message</b> or <b>Phone call</b>, and type the 6-digit code.</li>
+  <li>Click the new number in the list and write down its <b>Phone number ID</b>: a long number, different from the phone number itself.</li>
+</ol>
+<h3>Problems you may hit here</h3>
+<table class="problems">
+  <tr><th>What you may see</th><th>What to do</th></tr>
+  <tr><td>"This number is already in use"</td><td>The SIM still has a WhatsApp account. Delete it in the WhatsApp app (Settings → Account → Delete account), wait a few minutes, try again.</td></tr>
+  <tr><td>No code arrives</td><td>Try Phone call instead of SMS; make sure the phone has signal and can receive international SMS and calls; don't request codes repeatedly within a few minutes.</td></tr>
+  <tr><td>Display name pending or declined</td><td>Until approved, users may see only the number. If declined, change it under WhatsApp Manager → Phone numbers → the number → Profile, wait for approval, then register again (Part 8). Verification (Part 3) helps.</td></tr>
+  <tr><td>The number is listed but messages don't work</td><td>Expected at this point: it's added and verified, not yet registered. Do Part 8.</td></tr>
+</table>
+<div class="ok"><b>Check it worked:</b> the number is listed in WhatsApp Manager, and its Phone number ID is saved.</div>
+
+<!-- 8 -->
+<h2 style="margin-top:18px"><span class="n">8</span>Register the phone number (one command)</h2>
+<p class="meta">Needs the token (Part 6) and the Phone number ID (Part 7). About 5 minutes.</p>
+<div class="why"><b>Why this step:</b> Meta only switches a number on for the bot through this command; there is no dashboard button. If nobody at BRAC IT is comfortable with it, do it on a short screen-share with the bot team: the token never has to leave BRAC IT's computer.</div>
+<ol>
+  <li>Pick a <b>6-digit PIN</b>. It becomes the number's two-step verification PIN. Save it in the password manager: it's needed to move or delete the number later.</li>
+  <li>Open Windows <b>Command Prompt</b> (not PowerShell: there, curl means something else). Paste this, with your three values in place of the &lt;…&gt;:
+<pre>curl -X POST "https://graph.facebook.com/v27.0/&lt;PHONE_NUMBER_ID&gt;/register" -H "Authorization: Bearer &lt;TOKEN&gt;" -H "Content-Type: application/json" -d "{\"messaging_product\":\"whatsapp\",\"pin\":\"&lt;6-DIGIT-PIN&gt;\"}"</pre>
+    Expected answer: <span class="k">{"success":true}</span>. (On Mac or Linux, use Terminal.)</li>
+  <li>Check the number's state:
+<pre>curl "https://graph.facebook.com/v27.0/&lt;PHONE_NUMBER_ID&gt;?fields=status,name_status,code_verification_status" -H "Authorization: Bearer &lt;TOKEN&gt;"</pre></li>
+</ol>
+<table>
+  <tr><th>Field</th><th>Good value</th><th>If not</th></tr>
+  <tr><td>status</td><td>CONNECTED</td><td>Run the register command again (check the token and PIN first)</td></tr>
+  <tr><td>code_verification_status</td><td>VERIFIED</td><td>Redo Part 7, step 4</td></tr>
+  <tr><td>name_status</td><td>APPROVED or AVAILABLE_WITHOUT_REVIEW</td><td>PENDING_REVIEW: wait. DECLINED: change the display name</td></tr>
+</table>
+<h3>Problems you may hit here</h3>
+<table class="problems">
+  <tr><th>What you may see</th><th>What to do</th></tr>
+  <tr><td>Error 133016</td><td>More than 10 register attempts in 72 hours. Wait 72 hours; check the token and PIN before the next try.</td></tr>
+  <tr><td>Error code 200 / permission</td><td>The token lacks the WABA or a permission: Part 6, steps 3 and 5.</td></tr>
+  <tr><td>The display name changed later</td><td>After Meta approves the new name, run the register command again, or the old name stays.</td></tr>
+</table>
+<div class="ok"><b>Check it worked:</b> status is CONNECTED.</div>
+</section>
+
+<!-- 9 -->
+<section class="part">
+<h2><span class="n">9</span>App secret and verify token</h2>
+<p class="meta">About 3 minutes.</p>
+<div class="why"><b>Why this step:</b> the bot uses the app secret to check that every message really comes from Meta, and the verify token once, when the webhook is connected (Part 13).</div>
+<ol>
+  <li><b>App secret:</b> <span class="k">developers.facebook.com/apps</span> → the app → <b>App settings → Basic</b> → next to App secret click <b>Show</b> → enter your password → copy it into the password manager.</li>
+  <li><b>Verify token:</b> make up a random string of about 30 letters and digits (the password manager's generator works) and save it.</li>
+</ol>
+<div class="note">If the app secret is ever exposed, reset it under App settings → Basic and give the bot team the new one.</div>
+
+<!-- 10 -->
+<h2 style="margin-top:18px"><span class="n">10</span>Billing</h2>
+<p class="meta">About 10 minutes, plus a question to Meta.</p>
+<div class="why"><b>Why this step:</b> since 1 October 2026 each number gets 1,000 free service messages (replies) a month; after that, each reply is charged. With no payment method, replies simply stop being delivered once the 1,000 are used.</div>
+<ol>
+  <li>In WhatsApp Manager (or Business settings → <b>Billing and payments</b>), open the WhatsApp payment settings and add the payment method.</li>
+  <li>Ask Meta support (or BRAC's Meta contact) whether BRAC qualifies for the <b>non-profit exemption</b>: Meta announced that eligible non-profit and government organisations keep free service messages beyond 1,000 a month until 31 December 2027. Meta decides; verification likely matters.</li>
+  <li>Note the current Bangladesh rates shown in WhatsApp Manager before user testing starts.</li>
+</ol>
+<h3>Problems you may hit here</h3>
+<table class="problems">
+  <tr><th>What you may see</th><th>What to do</th></tr>
+  <tr><td>The bot replies fine, then stops late in the month</td><td>The free 1,000 are used up and there's no payment method. Add one.</td></tr>
+</table>
+
+<!-- 11 -->
+<h2 style="margin-top:18px"><span class="n">11</span>Privacy policy and publishing the app</h2>
+<p class="meta">About 10 minutes.</p>
+<div class="why"><b>Why this step:</b> an unpublished app gets <b>no real messages</b>, not even from its own admins: only test events sent from the dashboard. Meta shows this as a yellow warning on the webhook screen (Figure 7). Publishing needs a privacy policy link.</div>
+<ol>
+  <li><b>Privacy policy link:</b> use the bot's own privacy notice, which is already online: <span class="k">https://navigator-bot-i1tv.onrender.com/privacy</span>. It covers what the bot stores, that it uses Meta and an AI provider, deletion of messages after 90 days and of the person's short profile 12 months after their last message, and the "delete my data" command. BRAC's legal or data-protection contact should approve it; it can be replaced by a page on a BRAC domain later.</li>
+  <li>In the app, left menu <b>Publish</b> (Figure 6) → <b>Go to app settings</b>. Fill in <b>Privacy policy URL</b>, the <b>App icon</b> (1024 × 1024) and a <b>Category</b> (e.g. Education) → <b>Save changes</b>.</li>
+  <li>Back on Publish, open <b>Connect with customers through WhatsApp</b> and check nothing is flagged as missing.</li>
+  <li>Click <b>Publish</b>. For BRAC's own WhatsApp account no App Review is needed; it goes live at once.</li>
+</ol>
+<figure><img src="setup-guide-img/6-publish.png" alt="The Publish page"><figcaption>Figure 6. The Publish page: it asks for the Privacy policy URL and lists the use case to review.</figcaption></figure>
+<h3>Problems you may hit here</h3>
+<table class="problems">
+  <tr><th>What you may see</th><th>What to do</th></tr>
+  <tr><td>Publish button greyed out</td><td>Something is missing: the use-case row on the Publish page lists it.</td></tr>
+</table>
+<div class="ok"><b>Check it worked:</b> the app's status at the top of the dashboard reads Published / Live.</div>
+</section>
+
+<!-- 12 -->
+<section class="part">
+<h2><span class="n">12</span>Hand the credentials to the bot team</h2>
+<div class="why"><b>Why this step:</b> this is the move itself. The bot runs on our hosting (Render) and switches from our test account to BRAC's by changing six settings. No code changes. Telegram and the web chat are not affected.</div>
+<table>
+  <tr><th>Setting in the bot</th><th>From</th><th>Secret?</th></tr>
+  <tr><td><span class="k">WHATSAPP_BUSINESS_ACCOUNT_ID</span></td><td>Part 5 (WABA ID)</td><td>No</td></tr>
+  <tr><td><span class="k">WHATSAPP_PHONE_NUMBER_ID</span></td><td>Part 7, step 5</td><td>No</td></tr>
+  <tr><td><span class="k">WHATSAPP_ACCESS_TOKEN</span></td><td>Part 6</td><td><b>Yes</b></td></tr>
+  <tr><td><span class="k">WHATSAPP_APP_SECRET</span></td><td>Part 9</td><td><b>Yes</b></td></tr>
+  <tr><td><span class="k">WHATSAPP_VERIFY_TOKEN</span></td><td>Part 9</td><td><b>Yes</b></td></tr>
+  <tr><td><span class="k">WHATSAPP_API_VERSION</span></td><td>v27.0</td><td>No</td></tr>
+</table>
+<p>Hand over the three secret values one of these ways, safest first:</p>
+<ol>
+  <li><b>You type them in.</b> On a screen-share, a BRAC IT admin pastes them into the bot's hosting settings while the bot team guides. Nobody else sees them.</li>
+  <li><b>One-time secret link.</b> Send them through a self-destructing password-manager link (e.g. Bitwarden Send or a 1Password share link) set to expire after one view. Send the link and its passphrase through two different channels.</li>
+</ol>
+<div class="note"><b>Never</b> send the token, app secret, verify token or PIN by WhatsApp, email, Slack or inside a document. If one leaks, generate a new token (Part 6) or reset the app secret (Part 9) and give the bot team the new value.</div>
+<p><b>Send the bot team openly</b> (not secret): the values sheet on the last page.</p>
+<p>Once the settings are saved, the bot restarts in about 2–3 minutes. From then on it answers on BRAC's number, and our test number stops answering.</p>
+
+<!-- 13 -->
+<h2 style="margin-top:18px"><span class="n">13</span>Final steps together: connect the webhook, link the app, test</h2>
+<p class="meta">With the bot team on a call, right after Part 12. About 15 minutes.</p>
+<div class="why"><b>Why this step:</b> the webhook is the address where Meta delivers each incoming message to the bot. Meta checks that address the moment you save it, so the bot must already have your settings (Part 12).</div>
+<h3>A. Connect the webhook</h3>
+<ol>
+  <li>In the app: <b>Use cases → Customize → Step 2. Production setup → Configure Webhooks</b> (Figure 7).</li>
+  <li><b>Callback URL:</b> <span class="k">https://navigator-bot-i1tv.onrender.com/webhook</span></li>
+  <li><b>Verify token:</b> the value from Part 9.</li>
+  <li>Leave <b>Attach a client certificate to Webhook requests</b> off.</li>
+  <li>Click <b>Verify and save</b>. It must show success.</li>
+  <li>A <b>Webhook fields</b> list now appears under it (Figure 8). Find <b>messages</b> and switch it to <b>Subscribed</b>. Leave the rest as they are.</li>
+</ol>
+<figure><img src="setup-guide-img/7-configure-webhooks.png" alt="Configure Webhooks"><figcaption>Figure 7. Configure Webhooks under Step 2. Production setup. Note the yellow warning about unpublished apps (Part 11). Our URL and token are hidden.</figcaption></figure>
+<figure><img src="setup-guide-img/8-webhook-fields.png" alt="Webhook fields"><figcaption>Figure 8. Webhook fields after a successful Verify and save: "messages" switched to Subscribed.</figcaption></figure>
+<h3>B. Link the app to the WABA</h3>
+<p>On our test account, messages went to Meta's own sample app ("WA DevX Webhook Events 1P App") until we ran this. Check and fix it in Command Prompt:</p>
+<pre>curl "https://graph.facebook.com/v27.0/&lt;WABA_ID&gt;/subscribed_apps" -H "Authorization: Bearer &lt;TOKEN&gt;"
+
+REM if BRAC Navigator Bot is not listed, add it:
+curl -X POST "https://graph.facebook.com/v27.0/&lt;WABA_ID&gt;/subscribed_apps" -H "Authorization: Bearer &lt;TOKEN&gt;"</pre>
+<p>The POST answers <span class="k">{"success":true}</span>; run the first command again and BRAC Navigator Bot must be listed.</p>
+<h3>C. Test from a phone</h3>
+<ol>
+  <li>Send <b>hi</b> to the bot's number. Within a few seconds the bot replies and asks which country.</li>
+  <li>Send <b>Saudi Arabia</b>, then <b>medical check cost</b>. It answers about the Wafid medical check.</li>
+  <li>Send <b>delete my data</b>. It confirms the history was deleted.</li>
+</ol>
+<h3>Problems you may hit here</h3>
+<table class="problems">
+  <tr><th>What you may see</th><th>What to do</th></tr>
+  <tr><td>"The callback URL or verify token couldn't be validated"</td><td>The bot hasn't restarted with your settings yet (wait 2–3 minutes after Part 12), or the verify token differs by a character. The bot team checks the bot's /health page; compare the token exactly.</td></tr>
+  <tr><td>You can't find Webhook fields</td><td>It appears only after a successful Verify and save.</td></tr>
+  <tr><td>Webhook verified, but the bot never receives messages</td><td>Do B (link the app). Check messages is Subscribed (A6) and the app is Published (Part 11).</td></tr>
+  <tr><td>It worked, then the bot stops replying; the bot's log shows error 190</td><td>The token expired or was regenerated: new token (Part 6), give it to the bot team.</td></tr>
+  <tr><td>Replies stop late in the month</td><td>Billing: see Part 10.</td></tr>
+</table>
+<div class="ok"><b>Check it worked:</b> steps C1–C3 all work from a phone that isn't registered anywhere in Meta.</div>
+</section>
+
+<!-- 14 -->
+<section class="part">
+<h2><span class="n">14</span>Quick troubleshooting index</h2>
+<table>
+  <tr><th>Symptom</th><th>See</th></tr>
+  <tr><td>Only see a Page, not the portfolio; only one admin</td><td>Part 2</td></tr>
+  <tr><td>"Get a verified badge" (paid) offered; verification rejected</td><td>Part 3</td></tr>
+  <tr><td>Can't find Quickstart / API Setup / Configuration</td><td>Part 4</td></tr>
+  <tr><td>Error 131030: recipient not in allowed list</td><td>Part 5</td></tr>
+  <tr><td>Generate token button missing; only 60-day expiry</td><td>Part 6</td></tr>
+  <tr><td>API error code 200 / permission</td><td>Part 6, Part 8</td></tr>
+  <tr><td>Number already in use / no code arrives / display name declined</td><td>Part 7</td></tr>
+  <tr><td>Error 133016 on register</td><td>Part 8</td></tr>
+  <tr><td>Bot gets no messages although the webhook is verified</td><td>Part 11, Part 13 B</td></tr>
+  <tr><td>Callback URL couldn't be validated / no Webhook fields</td><td>Part 13</td></tr>
+  <tr><td>Error 190 / bot stops replying</td><td>Part 6, Part 13</td></tr>
+  <tr><td>Replies stop late in the month</td><td>Part 10</td></tr>
+</table>
+
+<!-- 15 -->
+<h2 style="margin-top:18px"><span class="n">15</span>Checklist and values sheet</h2>
+<p>Tick each line. Fill in the non-secret values and send this page, or a photo of it, to the bot team.</p>
+<table>
+  <tr><th class="tick">✓</th><th>Step</th></tr>
+  <tr><td class="tick"></td><td>Part 2: two admins; business name matches the documents</td></tr>
+  <tr><td class="tick"></td><td>Part 3: verification submitted (status: ____________ )</td></tr>
+  <tr><td class="tick"></td><td>Part 4: app "BRAC Navigator Bot" created in BRAC IT Stories</td></tr>
+  <tr><td class="tick"></td><td>Part 5: WABA created; Hello World received</td></tr>
+  <tr><td class="tick"></td><td>Part 6: System User token saved (expiry: ________ ); calendar reminder set</td></tr>
+  <tr><td class="tick"></td><td>Part 7: bot number added and verified</td></tr>
+  <tr><td class="tick"></td><td>Part 8: number registered; status CONNECTED; PIN saved</td></tr>
+  <tr><td class="tick"></td><td>Part 9: app secret and verify token saved</td></tr>
+  <tr><td class="tick"></td><td>Part 10: payment method added; non-profit exemption asked</td></tr>
+  <tr><td class="tick"></td><td>Part 11: privacy policy URL added; app published</td></tr>
+  <tr><td class="tick"></td><td>Part 12: secrets handed over safely</td></tr>
+  <tr><td class="tick"></td><td>Part 13: webhook verified, messages subscribed, app linked, phone test passed</td></tr>
+</table>
+<p class="b" style="margin-top:10px">Values for the bot team (not secret):</p>
+<table>
+  <tr><td>Bot phone number</td><td class="box"></td></tr>
+  <tr><td>Display name</td><td class="box"></td></tr>
+  <tr><td>WABA ID (Messaging account ID)</td><td class="box"></td></tr>
+  <tr><td>Phone number ID</td><td class="box"></td></tr>
+  <tr><td>Business verification status</td><td class="box"></td></tr>
+  <tr><td>Display-name status (name_status)</td><td class="box"></td></tr>
+  <tr><td>Token expiry date</td><td class="box"></td></tr>
+  <tr><td>BRAC IT contact for this setup</td><td class="box"></td></tr>
+</table>
+<p class="b" style="margin-top:10px">Saved in the password manager (tick only; never write the values here):</p>
+<table>
+  <tr><th class="tick">✓</th><th>Item</th></tr>
+  <tr><td class="tick"></td><td>Access token (System User)</td></tr>
+  <tr><td class="tick"></td><td>App secret</td></tr>
+  <tr><td class="tick"></td><td>Verify token</td></tr>
+  <tr><td class="tick"></td><td>Phone number PIN</td></tr>
+</table>
+<div class="note">The token, app secret, verify token and PIN never go on this sheet.</div>
+</section>
+
+</body>
+</html>
