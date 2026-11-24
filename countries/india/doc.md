@@ -12,13 +12,13 @@ India gives Bangladeshis no work visa for ordinary jobs: its employment visa is 
 
 ### Is it open now, and who can go?
 
-Not for work: Bangladeshis can get medical, tourist, student, business and family visas, but India's employment visa is only for professionals, and the people who work in India crossed irregularly (see Which visas Bangladeshis can get) [OI0001, OI0002, XI0120].
+Not for work: the High Commission of India lists medical, tourist, student and family visas for Bangladeshis, but India's employment visa is only for professionals, and the people who work in India crossed irregularly (see Which visas Bangladeshis can get) [OI0003, OI0005, OI0007, OI0008, OI0001, OI0002, XI0120].
 
 #### Status
 
 - **July-August 2024:** India tightened visas for Bangladeshis after the political change in Bangladesh, and by November 2024 limited tourist and other visas except for emergency medical treatment, bankers said [XI0023, XI0026]. Bangladeshi credit-card spending in India fell from Tk 92 crore in June 2024 to Tk 51 crore in September, by Bangladesh Bank data, and India fell from first to sixth place for such spending within six months [XI0024, XI0025].
 - **May 2025:** push-ins resumed; 167 people were pushed in through five districts in four days (see Push-ins) [XI0031].
-- **1 September 2025:** an order under India's Immigration and Foreigners Act 2025, which replaced the Foreigners Act 1946, exempted Hindu, Sikh, Buddhist, Jain, Parsi and Christian people from Bangladesh who entered by 31 December 2024 from the passport and visa rules (see What the law says) [OI0102, OI0052].
+- **1 September 2025:** an order under India's Immigration and Foreigners Act 2025, which replaced the Foreigners Act 1946, exempted Hindu, Sikh, Buddhist, Jain, Parsi and Christian people from Bangladesh who sought shelter in India for fear of religious persecution and entered by 31 December 2024 from the passport and visa rules (see What the law says) [OI0102, OI0052].
 - **20 May 2026:** West Bengal put the Citizenship Amendment Act (CAA) into force in the state and began arresting people it treats as illegal entrants (see West Bengal since May 2026) [XI0102, XI0108].
 - **June 2026:** Bangladesh's state minister for foreign affairs, Shama Obaed, said Bangladesh had sent Delhi 12 to 13 letters and that India must follow the established mechanism; BGB raised push-ins at the 57th BGB-BSF director-general-level border conference in Delhi [XI0127, XI0128, XI0133].
 - **28 June 2026:** India's High Commissioner Dinesh Trivedi said tourist visa applications could be submitted again from this date, at the five IVACs [OI0104, OI0037].
@@ -28,7 +28,7 @@ Not for work: Bangladeshis can get medical, tourist, student, business and famil
 
 #### The channels
 
-- **Medical, tourist, student, business and family visas:** the visas the High Commission of India in Dhaka lists for Bangladeshis (see Which visas Bangladeshis can get) [OI0003, OI0005, OI0007, OI0008].
+- **Medical, tourist, student and family visas:** the visas the High Commission of India in Dhaka lists for Bangladeshis (see Which visas Bangladeshis can get) [OI0003, OI0005, OI0007, OI0008].
 - **Employment visa:** professionals only (see Work visas: professionals only) [OI0001, OI0002].
 - **Crossing the land border through a broker:** the way people who work in India went, by their own accounts and those of BGB (see Crossing the border without papers) [XI0120, XI0081].
 
@@ -104,7 +104,7 @@ The High Commission of India in Dhaka lists these visas for Bangladeshis:
 - **Entry (X):** for Bangladeshis married to Indian citizens or to their children; the applicant brings a marriage certificate or nikahnama apostilled (certified for use abroad) by Bangladesh's Ministry of Foreign Affairs and attested by the High Commission, plus the Indian spouse's voter card or Aadhaar card [OI0008, OI0020, OI0021].
 - **Double entry (X-3):** for going to India to attend a visa appointment at a foreign embassy there that also covers Bangladesh; someone going on to a job in a third country shows the embassy's appointment confirmation and the employment contract [OI0022, OI0024, OI0023].
 - **Transit:** Bangladeshi seamen joining a ship from an Indian port apply for a transit visa [OI0025].
-- **Business, journalist, research, conference and employment visas** (see Work visas: professionals only) [OI0001].
+- **Employment:** for professionals only (see Work visas: professionals only) [OI0001].
 
 Since July 2024 India had limited tourist and other visas for Bangladeshis, except for emergency medical treatment, bankers said in November 2024 [XI0023]. In December 2024 Prothom Alo reported tourist visas closed, with medical and higher-education visas given only on a limited scale [XI0141]. In May 2026 five people who travel abroad regularly told Prothom Alo that India's visa had been closed for nearly two years [XI0142]. On 25 June 2026 India's High Commissioner said tourist applications could be submitted from 28 June 2026 and that urgent medical cases would still be helped on humanitarian grounds [OI0104, OI0105].
 
@@ -114,7 +114,7 @@ Since July 2024 India had limited tourist and other visas for Bangladeshis, exce
 ### How to apply
 
 1. **Fill in the online form, book and pay:** fill in the online visa application form, then book an appointment and pay the Tk 1,500 IVAC processing fee at appointment.ivacbd.com; the Government of India charges Bangladeshis no visa fee [OI0027, OI0045, OI0038, OI0039].
-2. **Gather the papers** for every visa type:
+2. **Gather the papers** for a tourist visa (other visa types have their own lists):
    - passport valid for at least six months with at least two blank pages, plus all old passports [OI0011, OI0012];
    - one recent 2x2 colour photo on a white background, and a copy of the national ID card or birth certificate [OI0011, OI0013];
    - a copy of an electricity, gas or landline telephone bill as proof of address [OI0014];
@@ -136,7 +136,7 @@ Since July 2024 India had limited tourist and other visas for Bangladeshis, exce
 
 ### Work visas: professionals only
 
-India's employment visa is for Bangladeshi professionals appointed by the Government of India, or on regular assignment with reputed organisations of both countries [OI0001, OI0002]. The applicant needs an invitation letter from the registered Indian company, firm or organisation stating the job, and proof of the employment, contract or engagement in India [OI0009, OI0010]. No visa lets a Bangladeshi labourer, mason or domestic worker take a job in India [OI0001, OI0002].
+India's employment visa is for Bangladeshi professionals appointed by the Government of India, or on regular assignment with reputed organisations of both countries [OI0001, OI0002]. The applicant needs an invitation letter from the registered Indian company, firm or organisation stating the job, and proof of the employment, contract or engagement in India [OI0009, OI0010].
 
 ### Scams at the visa stage
 
@@ -164,7 +164,7 @@ For women and girls taken across the border and sold, see "India: women and girl
 
 - **In India:** a foreigner who enters without a valid passport and visa can be jailed for up to five years, fined up to Rs 5 lakh, or both, and any police officer of head constable rank or above can arrest a suspect without a warrant [OI0096, OI0046, OI0101]. If it is disputed whether someone is a foreigner, that person must prove they are not [OI0048].
 - **The exemption:** Hindu, Sikh, Buddhist, Jain, Parsi and Christian people from Bangladesh who sought shelter in India for fear of religious persecution and entered on or before 31 December 2024 are exempt from the passport and visa requirement, whether they came without papers or their papers have expired [OI0052].
-- **In Bangladesh:** no one may leave Bangladesh without a valid passport, and doing so carries up to three months in jail, a fine of up to Tk 500, or both (see Cases at home) [OI0082, OI0083].
+- **In Bangladesh:** no one may leave Bangladesh without a valid passport, and doing so carries up to six months in jail, a fine of up to Tk 2,000, or both (see Cases at home) [OI0082, OI0107].
 
 ### Where people cross
 
@@ -297,7 +297,7 @@ For help after reaching home, see "Help after you get home" in the Departure bot
 
 ### Cases at home
 
-- **The offence:** the Bangladesh Passport Order 1973 bars anyone from leaving Bangladesh without a valid passport, and breaking it carries up to three months in jail, a fine of up to Tk 500, or both [OI0082, OI0083]. The Control of Entry Act 1952 is not the law for returnees: it covers Indian citizens entering Bangladesh [OI0084, OI0085].
+- **The offence:** the Bangladesh Passport Order 1973 bars anyone from leaving Bangladesh without a valid passport, and breaking it carries up to six months in jail, a fine of up to Tk 2,000, or both [OI0082, OI0107]. The Control of Entry Act 1952 is not the law for returnees: it covers Indian citizens entering Bangladesh [OI0084, OI0085].
 - **Legal aid:** the Overseas Employment and Migrants Act 2013 counts a Bangladeshi who has come back from abroad, employed there or not, as a migrant worker, and gives migrant workers and people defrauded in the name of migration the right to reasonable legal aid [OI0086, OI0087].
 - **Against the broker:** the same Act punishes whoever arranged the crossing (see The broker at the border), and a migrant harmed by a breach of it can also file a civil case for compensation [OI0093, OI0090].
 
@@ -320,7 +320,7 @@ To bring a body home, the relative sends the Bangladesh High Commission in New D
 - **Deputy High Commission, Chennai:** 24/46 Agni Business Centre, K.B. Dasan Road, Alwarpet, Chennai 600028; +91 44 40064314 [OI0075, OI0076].
 - **Assistant High Commission, Agartala:** Kunjaban, near Circuit House, Agartala, Tripura 799006; +91 381 232 4807 [OI0077, OI0078].
 - **Assistant High Commission, Guwahati:** Green Valley Tower, Old Post Office Lane, MRD Road, Silpukhuri, Guwahati, Assam 781003; +91 7578939304 and +91 9954713763 [OI0079, OI0080].
-- The Bangladesh missions in India open 0900 to 1700, and close on Saturday and Sunday [OI0081].
+- The Deputy and Assistant High Commissions in Kolkata, Mumbai, Chennai, Agartala and Guwahati open 0900 to 1700, and close on Saturday and Sunday [OI0081].
 - **High Commission of India, Dhaka:** Plot 1-3, Park Road, Baridhara, Dhaka 1212; emergency number 01937400591; visa queries visahelp.dhaka@mea.gov.in [OI0035, OI0036, OI0030].
 - **IVAC fraud line** (people selling appointment slots): 01325089975 [OI0041].
 

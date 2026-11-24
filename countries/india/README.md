@@ -72,7 +72,7 @@ India gives Bangladeshis no work visa for ordinary jobs: its employment visa is 
 
 ### 1.2 Is it open now, and who can go?
 
-Not for work: Bangladeshis can get medical, tourist, student, business and family visas, but India's employment visa is only for professionals, and the people who work in India crossed irregularly (see [Which visas Bangladeshis can get](#which-visas-bangladeshis-can-get)) <sup>[1](#o1), [N4](#n4)</sup>.
+Not for work: the High Commission of India lists medical, tourist, student and family visas for Bangladeshis, but India's employment visa is only for professionals, and the people who work in India crossed irregularly (see [Which visas Bangladeshis can get](#which-visas-bangladeshis-can-get)) <sup>[1](#o1), [N4](#n4)</sup>.
 
 <a id="status"></a>
 
@@ -80,7 +80,7 @@ Not for work: Bangladeshis can get medical, tourist, student, business and famil
 
 - **July-August 2024:** India tightened visas for Bangladeshis after the political change in Bangladesh, and by November 2024 limited tourist and other visas except for emergency medical treatment, bankers said <sup>[N6 (2024)](#n6), [N14](#n14)</sup>. Bangladeshi credit-card spending in India fell from Tk 92 crore in June 2024 to Tk 51 crore in September, by Bangladesh Bank data, and India fell from first to sixth place for such spending within six months <sup>[N6 (2024)](#n6), [N14](#n14)</sup>.
 - **May 2025:** push-ins resumed; 167 people were pushed in through five districts in four days (see [Push-ins](#push-ins)) <sup>[N3](#n3)</sup>.
-- **1 September 2025:** an order under India's Immigration and Foreigners Act 2025, which replaced the Foreigners Act 1946, exempted Hindu, Sikh, Buddhist, Jain, Parsi and Christian people from Bangladesh who entered by 31 December 2024 from the passport and visa rules (see [What the law says](#what-the-law-says)) <sup>[4](#o4), [5](#o5)</sup>.
+- **1 September 2025:** an order under India's Immigration and Foreigners Act 2025, which replaced the Foreigners Act 1946, exempted Hindu, Sikh, Buddhist, Jain, Parsi and Christian people from Bangladesh who sought shelter in India for fear of religious persecution and entered by 31 December 2024 from the passport and visa rules (see [What the law says](#what-the-law-says)) <sup>[4](#o4), [5](#o5)</sup>.
 - **20 May 2026:** West Bengal put the Citizenship Amendment Act (CAA) into force in the state and began arresting people it treats as illegal entrants (see [West Bengal since May 2026](#west-bengal-since-may-2026)) <sup>[N5](#n5)</sup>.
 - **June 2026:** Bangladesh's state minister for foreign affairs, Shama Obaed, said Bangladesh had sent Delhi 12 to 13 letters and that India must follow the established mechanism; BGB raised push-ins at the 57th BGB-BSF director-general-level border conference in Delhi <sup>[N4](#n4)</sup>.
 - **28 June 2026:** India's High Commissioner Dinesh Trivedi said tourist visa applications could be submitted again from this date, at the five IVACs <sup>[N7](#n7), [3](#o3)</sup>.
@@ -92,7 +92,7 @@ Not for work: Bangladeshis can get medical, tourist, student, business and famil
 
 #### 1.2.2 The channels
 
-- **Medical, tourist, student, business and family visas:** the visas the High Commission of India in Dhaka lists for Bangladeshis (see [Which visas Bangladeshis can get](#which-visas-bangladeshis-can-get)) <sup>[1](#o1)</sup>.
+- **Medical, tourist, student and family visas:** the visas the High Commission of India in Dhaka lists for Bangladeshis (see [Which visas Bangladeshis can get](#which-visas-bangladeshis-can-get)) <sup>[1](#o1)</sup>.
 - **Employment visa:** professionals only (see [Work visas: professionals only](#work-visas-professionals-only)) <sup>[1](#o1)</sup>.
 - **Crossing the land border through a broker:** the way people who work in India went, by their own accounts and those of BGB (see [Crossing the border without papers](#crossing-the-border-without-papers)) <sup>[N4](#n4), [N2](#n2)</sup>.
 
@@ -190,7 +190,7 @@ The High Commission of India in Dhaka lists these visas for Bangladeshis:
 - **Entry (X):** for Bangladeshis married to Indian citizens or to their children; the applicant brings a marriage certificate or nikahnama apostilled (certified for use abroad) by Bangladesh's Ministry of Foreign Affairs and attested by the High Commission, plus the Indian spouse's voter card or Aadhaar card <sup>[1](#o1), [2](#o2)</sup>.
 - **Double entry (X-3):** for going to India to attend a visa appointment at a foreign embassy there that also covers Bangladesh; someone going on to a job in a third country shows the embassy's appointment confirmation and the employment contract <sup>[2](#o2)</sup>.
 - **Transit:** Bangladeshi seamen joining a ship from an Indian port apply for a transit visa <sup>[2](#o2)</sup>.
-- **Business, journalist, research, conference and employment visas** (see [Work visas: professionals only](#work-visas-professionals-only)) <sup>[1](#o1)</sup>.
+- **Employment:** for professionals only (see [Work visas: professionals only](#work-visas-professionals-only)) <sup>[1](#o1)</sup>.
 
 Since July 2024 India had limited tourist and other visas for Bangladeshis, except for emergency medical treatment, bankers said in November 2024 <sup>[N6 (2024)](#n6)</sup>. In December 2024 Prothom Alo reported tourist visas closed, with medical and higher-education visas given only on a limited scale <sup>[N21 (2024)](#n21)</sup>. In May 2026 five people who travel abroad regularly told Prothom Alo that India's visa had been closed for nearly two years <sup>[N22](#n22)</sup>. On 25 June 2026 India's High Commissioner said tourist applications could be submitted from 28 June 2026 and that urgent medical cases would still be helped on humanitarian grounds <sup>[N7](#n7)</sup>.
 
@@ -202,7 +202,7 @@ Since July 2024 India had limited tourist and other visas for Bangladeshis, exce
 ### 2.2 How to apply
 
 1. <a id="how-to-apply-item-1"></a>**Fill in the online form, book and pay:** fill in the online visa application form, then book an appointment and pay the Tk 1,500 IVAC processing fee at appointment.ivacbd.com; the Government of India charges Bangladeshis no visa fee <sup>[8](#o8), [3](#o3)</sup>.
-2. <a id="how-to-apply-item-2"></a>**Gather the papers** for every visa type:
+2. <a id="how-to-apply-item-2"></a>**Gather the papers** for a tourist visa (other visa types have their own lists):
    - passport valid for at least six months with at least two blank pages, plus all old passports <sup>[2](#o2)</sup>;
    - one recent 2x2 colour photo on a white background, and a copy of the national ID card or birth certificate <sup>[2](#o2)</sup>;
    - a copy of an electricity, gas or landline telephone bill as proof of address <sup>[2](#o2)</sup>;
@@ -228,7 +228,7 @@ Since July 2024 India had limited tourist and other visas for Bangladeshis, exce
 
 ### 2.4 Work visas: professionals only
 
-India's employment visa is for Bangladeshi professionals appointed by the Government of India, or on regular assignment with reputed organisations of both countries <sup>[1](#o1)</sup>. The applicant needs an invitation letter from the registered Indian company, firm or organisation stating the job, and proof of the employment, contract or engagement in India <sup>[2](#o2)</sup>. No visa lets a Bangladeshi labourer, mason or domestic worker take a job in India <sup>[1](#o1)</sup>.
+India's employment visa is for Bangladeshi professionals appointed by the Government of India, or on regular assignment with reputed organisations of both countries <sup>[1](#o1)</sup>. The applicant needs an invitation letter from the registered Indian company, firm or organisation stating the job, and proof of the employment, contract or engagement in India <sup>[2](#o2)</sup>.
 
 <a id="scams-at-the-visa-stage"></a>
 
@@ -266,7 +266,7 @@ For women and girls taken across the border and sold, see "India: women and girl
 
 - **In India:** a foreigner who enters without a valid passport and visa can be jailed for up to five years, fined up to Rs 5 lakh, or both, and any police officer of head constable rank or above can arrest a suspect without a warrant <sup>[4](#o4)</sup>. If it is disputed whether someone is a foreigner, that person must prove they are not <sup>[4](#o4)</sup>.
 - **The exemption:** Hindu, Sikh, Buddhist, Jain, Parsi and Christian people from Bangladesh who sought shelter in India for fear of religious persecution and entered on or before 31 December 2024 are exempt from the passport and visa requirement, whether they came without papers or their papers have expired <sup>[5](#o5)</sup>.
-- **In Bangladesh:** no one may leave Bangladesh without a valid passport, and doing so carries up to three months in jail, a fine of up to Tk 500, or both (see [Cases at home](#cases-at-home)) <sup>[9](#o9)</sup>.
+- **In Bangladesh:** no one may leave Bangladesh without a valid passport, and doing so carries up to six months in jail, a fine of up to Tk 2,000, or both (see [Cases at home](#cases-at-home)) <sup>[9](#o9)</sup>.
 
 <a id="where-people-cross"></a>
 
@@ -433,7 +433,7 @@ For help after reaching home, see "Help after you get home" in the Departure bot
 
 ### 7.2 Cases at home
 
-- **The offence:** the Bangladesh Passport Order 1973 bars anyone from leaving Bangladesh without a valid passport, and breaking it carries up to three months in jail, a fine of up to Tk 500, or both <sup>[9](#o9)</sup>. The Control of Entry Act 1952 is not the law for returnees: it covers Indian citizens entering Bangladesh <sup>[14](#o14)</sup>.
+- **The offence:** the Bangladesh Passport Order 1973 bars anyone from leaving Bangladesh without a valid passport, and breaking it carries up to six months in jail, a fine of up to Tk 2,000, or both <sup>[9](#o9)</sup>. The Control of Entry Act 1952 is not the law for returnees: it covers Indian citizens entering Bangladesh <sup>[14](#o14)</sup>.
 - **Legal aid:** the Overseas Employment and Migrants Act 2013 counts a Bangladeshi who has come back from abroad, employed there or not, as a migrant worker, and gives migrant workers and people defrauded in the name of migration the right to reasonable legal aid <sup>[6](#o6)</sup>.
 - **Against the broker:** the same Act punishes whoever arranged the crossing (see [The broker at the border](#the-broker-at-the-border)), and a migrant harmed by a breach of it can also file a civil case for compensation <sup>[6](#o6)</sup>.
 
@@ -462,7 +462,7 @@ To bring a body home, the relative sends the Bangladesh High Commission in New D
 - **Deputy High Commission, Chennai:** 24/46 Agni Business Centre, K.B. Dasan Road, Alwarpet, Chennai 600028; +91 44 40064314 <sup>[12](#o12)</sup>.
 - **Assistant High Commission, Agartala:** Kunjaban, near Circuit House, Agartala, Tripura 799006; +91 381 232 4807 <sup>[12](#o12)</sup>.
 - **Assistant High Commission, Guwahati:** Green Valley Tower, Old Post Office Lane, MRD Road, Silpukhuri, Guwahati, Assam 781003; +91 7578939304 and +91 9954713763 <sup>[12](#o12)</sup>.
-- The Bangladesh missions in India open 0900 to 1700, and close on Saturday and Sunday <sup>[12](#o12)</sup>.
+- The Deputy and Assistant High Commissions in Kolkata, Mumbai, Chennai, Agartala and Guwahati open 0900 to 1700, and close on Saturday and Sunday <sup>[12](#o12)</sup>.
 - **High Commission of India, Dhaka:** Plot 1-3, Park Road, Baridhara, Dhaka 1212; emergency number 01937400591; visa queries visahelp.dhaka@mea.gov.in <sup>[18](#o18), [8](#o8)</sup>.
 - **IVAC fraud line** (people selling appointment slots): 01325089975 <sup>[3](#o3)</sup>.
 

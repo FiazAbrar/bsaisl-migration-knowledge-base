@@ -84,3 +84,5 @@ The reporting covers students, Fulbright exchanges, the visit-visa bond, the Jan
 - https://www.uscis.gov/working-in-the-united-states/options-for-nonimmigrant-workers-following-termination-of-employment (404). Should give the 60-day grace period after an H-1B job ends. Suggested name: uscis-options-after-termination.
 - US Justice Department press release on Saifullah Al-Mamun's extradition (July 2026): URL not found. Suggested name: doj-saifullah-extradition.
 - Web search hit its usage limit during the pass, so Open Doors 2025, Bangladesh Bank country-wise remittance and the WEWB rule for deaths of non-registered migrants were not searched.
+
+- **AILA copy of the State Department pause page (24 Nov 2026):** the immigrant-visa pause facts (OU0026 and any others from the same file) come from the American Immigration Lawyers Association's verbatim copy of the State Department page, not the government site, so the source is now marked non-official and the facts unofficial. The live travel.state.gov page is on the list of pages to download.

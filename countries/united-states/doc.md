@@ -60,11 +60,11 @@ Open for students, exchange visitors, visitors (with a bond) and family immigran
 The reported ways in are a university's admission, a Fulbright grant or a relative's immigrant petition, and brokers in Bangladesh sell the irregular route (see Irregular routes and undocumented stay) [XU0013, XU0052, XU0086, XU0114]. In a US Justice Department case, migrants paid large sums to brokers in Bangladesh, and a Bangladeshi ring then housed them in São Paulo, Brazil, and in Tapachula and Monterrey, Mexico, before telling them how to cross the Rio Grande river into the US [XU0114, XU0112, XU0113]. A young man from Chatkhil, Noakhali, paid Tk 25 lakh to a broker ring from Lakshmipur and Feni to go to the US and had not gone two and a half years later [XU0045]. For a skilled job, one reported route is a US degree, then a US employer that agrees to sponsor an H-1B visa, which is usually the only realistic way for a skilled foreigner to work long-term in the US and later get a green card (see After graduation: getting a US job) [XU0152, XU0178].
 
 > **Need to know**
-> - How many Bangladeshis did BMET (the Bureau of Manpower, Employment and Training, which clears Bangladeshis going abroad for work) clear for the United States in 2024, 2025 and 2026, and on which visas (H-1B, H-2A, H-2B, EB-3)?
+> - How many Bangladeshis did BMET (the Bureau of Manpower, Employment and Training, which clears Bangladeshis going abroad for work) clear for the United States in 2024, 2025 and 2026, and on which visas (H-1B; H-2A seasonal farm work; H-2B seasonal non-farm work; EB-3, an employer-sponsored green card for skilled and other workers)?
 
 ### What you pay, and what you earn and keep
 
-- **Visa fees:** USD 185 for a visitor, student or exchange visa, USD 205 for an H-1B; students also pay a USD 350 SEVIS fee (see Step 1: Get admission and the I-20) [OU0061, OU0062, OU0064].
+- **Visa fees:** USD 185 for a visitor, student or exchange visa, USD 205 for an H-1B; students also pay a USD 350 SEVIS fee, for the Student and Exchange Visitor Information System (see Step 1: Get admission and the I-20) [OU0061, OU0062, OU0064].
 - **The visa bond:** USD 10,000, 15,000 or 20,000 for a visit visa, set by the officer, usually 15,000; it is returned without interest if the conditions are kept (see Visit visa and the visa bond) [OU0005, OU0006, OU0012].
 - **A family immigrant visa:** USD 675 for the relative's I-130 petition and USD 325 per person for the visa application (see Family immigrant visa: the green card) [OU0039, OU0038].
 - **The H-1B payment:** USD 100,000 on certain new petitions for workers outside the US, paid by the employer; a court vacated the guidance for it in June 2026 and DHS said it would comply; not charged when a former US student changes status inside the US (see Work visa: H-1B) [OU0075, OU0125, OU0072, OU0074, OU0076].
@@ -123,7 +123,7 @@ In July 2026 the US Ambassador, Brent Christensen, said the US encourages Bangla
 
 1. Apply as soon as you have admission: the Embassy said on 31 July 2025 that qualified students should apply quickly so there is enough time for processing. A new student's visa can be issued up to 365 days before the course starts [XU0042, OU0057].
 2. Fill in the DS-160 online application and create a profile and book the interview at www.ustraveldocs.com/bd/en or through its call centre (+880-9610202040). Submit the DS-160 more than 7 calendar days before the interview; changes within 7 days cancel the appointment, and the DS-160 barcode (starting AA) must match the one used to book [OU0047, OU0052, OU0044, OU0045].
-3. Pay the USD 185 visa fee at an Eastern Bank (EBL) branch, by BEFTN or EBL Skybanking transfer, or by card [OU0061, OU0046].
+3. Pay the USD 185 visa fee at an Eastern Bank (EBL) branch, by BEFTN (Bangladesh Electronic Funds Transfer Network) or EBL Skybanking transfer, or by card [OU0061, OU0046].
 4. Set all your social media accounts to "public": the Embassy instructs student visa applicants to, so they can be vetted [OU0055]. The US has revoked visas over protest participation and posts, and since August 2025 USCIS vetting of immigration applications includes searches for "anti-American activity" [XU0216, XU0217, XU0071].
 5. Go to the interview in person at the US Embassy, Madani Avenue, Baridhara, Dhaka, with your passport (valid six months beyond your stay), the fee receipt, the DS-160 confirmation page, the appointment letter and the I-20 [XU0062, OU0054, OU0046, OU0056].
 6. Enter the US no earlier than 30 days before your course starts [OU0058].
@@ -135,7 +135,7 @@ In July 2026 the US Ambassador, Brent Christensen, said the US encourages Bangla
 
 - **On campus:** up to 20 hours a week while school is in session, for example in a university bookstore or cafeteria [OU0066].
 - **Off campus:** only after a full academic year, with an economic hardship the school's designated school official (DSO) accepts and a work permit (EAD) from USCIS; you cannot start while the application is pending [OU0067].
-- **OPT:** up to 12 months of work permission during or after the degree, recommended by the DSO on your I-20 and approved by USCIS on Form I-765; a graduate in a listed STEM (science, technology, engineering and mathematics) subject working for an employer enrolled in E-Verify can get 24 months more. Work starts only after the EAD arrives [OU0068, OU0071, OU0069, OU0070].
+- **OPT:** up to 12 months of work permission during or after the degree, recommended by the DSO on your I-20 and approved by USCIS on Form I-765; a graduate in a listed STEM (science, technology, engineering and mathematics) subject working for an employer enrolled in E-Verify (the US government's online check of a worker's right to work) can get 24 months more. Work starts only after the EAD arrives [OU0068, OU0071, OU0069, OU0070].
 
 ### Family and leaving
 
@@ -196,7 +196,7 @@ A fully funded grant for one academic year of research or teaching at a US insti
 
 ## Visit visa and the visa bond
 
-The B1/B2 visa is for business and tourism [XU0064]. Since 21 January 2026 a Bangladeshi found eligible for it must post a bond before the visa is issued, wherever they apply; the rule began as a pilot and was made permanent from 3 August 2026 for countries with high overstay rates [OU0022, OU0001, OU0003]. In US fiscal 2024, 5.73% of Bangladeshi visitors overstayed, more than twice the 2.33% for all visitors who need a visa [OU0098, OU0099].
+The B1/B2 visa is for business and tourism [XU0064]. Since 21 January 2026 a Bangladeshi found eligible for it must post a bond before the visa is issued, wherever they apply; the rule began as a pilot and was made permanent from 3 August 2026 [OU0022, OU0001, OU0003]. In US fiscal 2024, 5.73% of Bangladeshi visitors overstayed, more than twice the 2.33% for all visitors who need a visa [OU0098, OU0099].
 
 ### Step 1: Apply and attend the interview
 
@@ -228,12 +228,12 @@ The bond is breached and the whole amount forfeited if the holder overstays, tak
 
 ### Business travellers
 
-Bangladesh's National Security Adviser asked the US Trade Representative on 8 January 2026 to ease travel for Bangladeshi businesspeople, and Bangladesh planned to ask in March 2026 for the B-1 business category to be exempted [XU0076, XU0100]. There is no procedure for an applicant to apply for a waiver, and in November 2026 the US Embassy still required the bond of every Bangladeshi B1/B2 applicant [OU0019, OU0001].
+Bangladesh's National Security Adviser asked the US Trade Representative on 8 January 2026 to ease travel for Bangladeshi businesspeople, and Bangladesh planned to ask in March 2026 for the B-1 business category to be exempted [XU0076, XU0100]. There is no procedure for an applicant to apply for a waiver, and in November 2026 the US Embassy still required the bond of every Bangladeshi found eligible for a B1/B2 visa [OU0019, OU0001].
 
 ### Scams
 
 - **Tried by travellers:** Facebook posts showing how to come on a visitor visa and switch to asylum, which puts the bond at risk (see Losing the bond) [XU0025, OU0023].
-- **Done to travellers:** fake "visa fee" and bond demands by phone or email (see Scams and mistakes); (see "A visit or tourist visa sold as a job" in the Dalal scams doc) [OU0048, OU0024].
+- **Done to travellers:** fake "visa fee" demands by phone or email (see Scams and mistakes), and third-party websites for posting the bond, which the State Department says not to use (see "A visit or tourist visa sold as a job" in the Dalal scams doc) [OU0048, OU0024].
 
 ## Family immigrant visa: the green card
 
@@ -260,7 +260,7 @@ Since 1 June 2026 the US Embassy in Dhaka handles every immigrant visa in two vi
 - **What it did:** from 21 January to 21 August 2026 no immigrant visa was issued to citizens of 75 countries including Bangladesh, although applications and interviews continued [OU0026, XU0079].
 - **Why:** on 27 November 2025 President Trump wrote that he would permanently pause immigration from all third-world countries [XU0189]. The State Department said the pause follows a November 2025 order to tighten screening of would-be immigrants who might become a financial burden [XU0078]. On a list of 120 countries ranked by immigrant welfare use that President Trump posted on social media in January 2026, Bangladesh was 19th, with 54.8% of Bangladeshi immigrant households in the US taking US government benefits [XU0070].
 - **Who was hit:** relatives of US citizens with petitions already filed, including people whose interviews were already scheduled, and US citizens who newly married; three US immigration lawyers said lakhs of Bangladeshis would be harmed [XU0087, XU0089, XU0088, XU0091].
-- **How it ended:** on 21 August 2026 a federal court in CLINIC v. Rubio struck the pause down and the State Department said it was no longer in effect; the plaintiffs then reported a new global pause on immigrant visa appointments, which the State Department linked to training [OU0026, OU0027, OU0028].
+- **How it ended:** on 21 August 2026 a federal court in CLINIC v. Rubio struck the pause down and the State Department said it was no longer in effect; the plaintiffs then reported that the State Department had ordered a new global pause on immigrant visa appointments, citing a training programme [OU0026, OU0027, OU0028].
 - **Screening:** USCIS updated its policy in August 2025 to extend social media vetting of applications to searches for "anti-American activity" [XU0071].
 
 ### Children who turn 21
@@ -296,7 +296,7 @@ US employers use the H-1B visa to hire skilled foreign workers, mostly in techno
 - It does not apply to valid H-1B visas or petitions filed earlier, to H-1B holders travelling in and out, or to a petition for someone inside the US who is granted a change of status or extension, such as a student moving to H-1B [OU0126, OU0076].
 - On 8 June 2026 a federal court in Massachusetts vacated the guidance that put it into effect; on 24 July 2026 the appeals court refused to pause that ruling, and DHS said it would comply while considering next steps but still plans to collect the payment if the ruling is lifted [OU0072, OU0073, OU0074].
 - In September 2026 the proclamation was extended for another year [XU0209].
-- The normal legal and filing costs to the employer are USD 2,000 to 5,000 [XU0210].
+- The normal H-1B fee is USD 2,000 to 5,000 [XU0210].
 
 In October 2025 DHS also proposed a rule to change which employers are exempt from the limit, scrutinise employers that break the rules more strictly and watch third-party placements (workers placed at another company) more closely [XU0176, XU0177].
 
@@ -312,7 +312,7 @@ In October 2025 DHS also proposed a rule to change which employers are exempt fr
 
 ## Work permits
 
-An EAD (Employment Authorization Document, Form I-766) proves permission to work in the US for a set period; green card holders do not need one, and H-1B and L-1B holders generally do not either [XU0183]. A renewal application filed on or after 30 October 2025 no longer extends the old permit automatically; before, a timely renewal kept it valid for up to 540 days [OU0117, OU0118]. USCIS advises applying 180 days before the permit expires, warning that the later the application, the greater the risk of having to stop work [XU0182].
+An EAD (Employment Authorization Document, Form I-766) proves permission to work in the US for a set period; green card holders do not need one, and H-1B and L-1B (intra-company transfer) holders generally do not either [XU0183]. A renewal application filed on or after 30 October 2025 no longer extends the old permit automatically; before, a timely renewal kept it valid for up to 540 days [OU0117, OU0118]. USCIS advises applying 180 days before the permit expires, warning that the later the application, the greater the risk of having to stop work [XU0182].
 
 ## Joining a husband in the US
 
@@ -323,7 +323,7 @@ A columnist who works with abused women wrote in February 2024 that the wives of
 - **What abusers use:** a new wife who does not know the immigration rules may be threatened with being sent back, divorced or separated from her children; in a 2019 Pew survey only 55% of Bangladeshis in the US were comfortable in English, against 72% of Asians, which keeps many women from getting out [XU0137, XU0138].
 - **The law:** the US has domestic violence laws, and a victim can get a protection order [XU0141, XU0136].
 - **Your own papers:** a wife abused by a husband who is a US citizen or green card holder can petition for her own green card under the Violence Against Women Act (VAWA) without his knowledge or help, on Form I-360 with no fee, and can then apply for a work permit [OU0093, OU0094, OU0095, OU0096].
-- **Help:** call the National Domestic Violence Hotline on 800-799-7233 (TTY 800-787-3224) [OU0097]. Many organisations give free services, and South Asian women's organisations in many cities can be contacted in Bangla, among them Daya Houston in Texas (https://www.dayahouston.org/) and Maitri in California (www.maitri.org) [XU0141, XU0140, XU0142, XU0144, XU0143].
+- **Help:** call the National Domestic Violence Hotline on 800-799-7233 (TTY, for deaf callers, 800-787-3224) [OU0097]. Many organisations give free services, and South Asian women's organisations in many cities can be contacted in Bangla, among them Daya Houston in Texas (https://www.dayahouston.org/) and Maitri in California (www.maitri.org) [XU0141, XU0140, XU0142, XU0144, XU0143].
 - **Case:** Nowrin Nahar Tuli, 21, who had a protection order, was strangled by her husband Nasib Ahsan in Texas on 24 December 2023, the columnist reported; he is held in Collin County jail [XU0136, XU0135].
 
 > **Need to know**
@@ -401,7 +401,7 @@ In April 2026 two Bangladeshi PhD students at the University of South Florida we
 2. The district commissioner said the family must submit an application, which the district sends to the Ministry of Expatriates' Welfare to bring the body home [XU0107].
 3. The upazila officer said the embassy does the main work and the local administration gives the embassy any local information it needs [XU0106].
 
-**Sending the body home:** the Bangladesh Embassy issues the certificate needed to carry a body to Bangladesh. Send it, by post to 3510 International Drive NW, Washington DC 20008 or as PDF scans to consular.bdusa@gmail.com: a copy of the deceased's Bangladesh passport (or US passport with the NVR page, NID or birth certificate), the death certificate, the local health department's disposition or transit permit, and the funeral home's embalmer's, non-infectious, non-contraband and sanitary affidavits. Include a prepaid, self-addressed USPS certified, priority or express envelope with tracking to get the original back [OU0109, OU0110, OU0111].
+**Sending the body home:** the Bangladesh Embassy issues the certificate needed to carry a body to Bangladesh. Send it, by post to 3510 International Drive NW, Washington DC 20008 or as PDF scans to consular.bdusa@gmail.com: a copy of the deceased's Bangladesh passport (or US passport with the NVR (No Visa Required) page, Bangladeshi NID (national identity card) or Bangladeshi birth certificate), the death certificate, the local health department's disposition or transit permit, and the funeral home's embalmer's, non-infectious, non-contraband and sanitary affidavits. Include a prepaid, self-addressed USPS (US Postal Service) certified, priority or express envelope with tracking to get the original back [OU0109, OU0110, OU0111].
 
 **Other cases:**
 - **Sheikh Abir Hossain, 38,** a research assistant at Lamar University, Texas, on a scholarship, who also worked part-time in a food shop in Beaumont, was shot dead at a shop in Beaumont on 29 December 2023 by people stealing cigarettes, police said; four days later his body had still not reached his family because of US holiday-season staffing, a local journalist said, and Bangladeshi students at Lamar opened a GoFundMe fundraiser to which about 14,000 people gave USD 55,000 [XU0134, XU0129, XU0128, XU0130, XU0132, XU0133].
