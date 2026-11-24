@@ -1,10 +1,10 @@
 # Other destinations
 
-Countries with no doc of their own yet where Bangladeshis go, or are sold a way to go, for work, study or refuge, as of November 2026, one section per country. This version is built from Prothom Alo reporting, with official sources added for Australia, Ireland, Germany, Spain, Austria, Taiwan, New Zealand, Denmark and South Africa. A raised number such as 3 is an official source; N3 is a news, NGO (non-governmental organisation), research or guide source, listed under "Needs an official source"; a year, like N3 (2022), marks a source older than 2025. "Need to know" marks a point no source has yet confirmed.
+Countries with no doc of their own yet where Bangladeshis go, or are sold a way to go, for work, study or refuge, as of November 2026, one section per country. This version is built from Prothom Alo reporting, with official sources added for every country section except Iraq, Bahrain and Indonesia, where none was found. A raised number such as 3 is an official source; N3 is a news, NGO (non-governmental organisation), research or guide source, listed under "Needs an official source"; a year, like N3 (2022), marks a source older than 2025. "Need to know" marks a point no source has yet confirmed.
 
 ## In one minute
 
-For work, the reporting shows Bangladeshis going to Iraq through relatives already there, some working irregularly, with deaths from fire, missiles, poisoning and murder over unpaid wages [GO0116, GO0130, GO0131, GO0217, GO0126, GO0179]; Bangladesh and Iraq signed an MoU (memorandum of understanding) in October 2025 for recruitment on embassy-attested demand letters [GO0161, GO0142]. In November 2025 Bangladesh asked Bahrain to reopen visas for Bangladeshis, and Bahrain said it was reopening them step by step, but in July 2026 new labour visas were still frozen, as they had been since 2018 [GO0149, GO0151, OD0113]. Fiji takes small numbers through BOESL, the government recruiting company [GO0188], and Mauritius agreed in principle in June 2026 to reopen its closed market [GO0221]. In one South Africa case, brokers took an 18-year-old overland through Ethiopia and Zimbabwe and news of his death came the night he arrived, in February 2026 [GO0212, GO0213, GO0193]. In Spain, Portugal and France there are settled communities; Spain's 2026 regularisation could cover about 20,000 Bangladeshis who arrived before 1 January 2026 [GO0155, GO0349], while Portugal has made residence renewals harder [GO0140].
+For work, the reporting shows Bangladeshis going to Iraq through relatives already there, some working irregularly, with deaths from fire, missiles, poisoning and murder over unpaid wages [GO0116, GO0130, GO0131, GO0217, GO0126, GO0179]; Bangladesh and Iraq signed an MoU (memorandum of understanding) in October 2025 for recruitment on embassy-attested demand letters [GO0161, GO0142]. In November 2025 Bangladesh asked Bahrain to reopen visas for Bangladeshis, and Bahrain said it was reopening them step by step, but in July 2026 new labour visas were still frozen, as they had been since 2018 [GO0149, GO0151, OD0113]. Fiji takes small numbers through BOESL, the government recruiting company [GO0188], and Mauritius agreed in principle in June 2026 to reopen its closed market [GO0221]. Hungary has given no work or guest-worker residence permits to Bangladeshis since 1 January 2025 [OD0172, OD0173]. In one South Africa case, brokers took an 18-year-old overland through Ethiopia and Zimbabwe and news of his death came the night he arrived, in February 2026 [GO0212, GO0213, GO0193]. In Spain, Portugal and France there are settled communities; Spain's 2026 regularisation could cover about 20,000 Bangladeshis who arrived before 1 January 2026 [GO0155, GO0349], while Portugal has made residence renewals harder and, since October 2025, makes most residents wait 2 years before bringing family [GO0140, OD0156].
 
 For study, Australia, Ireland, Germany, Austria, Taiwan, Denmark, New Zealand, Cyprus, Egypt and China all take Bangladeshi students, several of them through embassies in New Delhi [GO0038, GO0029, GO0055]. Australia and Denmark tightened student rules in 2025-26; both limited family members, Australia also targeted course-hopping, and Denmark named Bangladesh and Nepal outright, and in January 2026 Australia put Bangladesh in its highest-risk student visa category [GO0255, GO0263, GO0132, GO0316]. What goes wrong most in this reporting: a family pays a dalal for "Australia" and the young man is flown to Nepal or Kazakhstan, held and beaten for more money, and returned with the family in debt [GO0187, GO0224, GO0238, GO0239]; and workers die abroad, after which the body takes weeks or months to come home [GO0218, GO0129].
 
@@ -130,6 +130,10 @@ In the death cases above, the Bangladesh embassy in Baghdad and the district adm
 
 About 2,000 Bangladeshis were in Iran in June 2025, about 400 of them in Tehran, a foreign ministry official said [GO0352, GO0376]. After Israel's attacks on Iran began on 13 June 2025, 250 registered to come home, and 92 of them were to come back over Pakistan's land border [GO0367]. The first group of 28 reached the Pakistan border by road on 26 June 2025, through the Taftan crossing; the foreign adviser, Md Touhid Hossain, said Pakistan's government would take them to Karachi, from where they could fly home [GO0355, GO0353, GO0356, GO0377]. After the ceasefire many who had registered no longer wanted to return, and Bangladeshis in Iran were advised to stay safe until things returned to normal [GO0368, GO0354]. In March 2026, with US and Israeli attacks on Iran continuing, the government decided to bring several hundred home, starting with about 200 through Baku, Azerbaijan, on 19 March [GO0357]. For Iran as a stop on the overland route to Europe, see "Waiting in Iran" in the Illegal routes doc.
 
+### Help and contacts
+
+The Bangladesh Embassy in Tehran is at No. 7, 12 Metri Esdasi, 1st Alley, 64th Street, North of Yousef Abad, Tehran (postal code 1436843713); phone +98 21 8860 1781-3; consular and welfare email consular.bdoot.tehran@gmail.com [OD0217, OD0218].
+
 ## Spain
 
 ### Is it open, and how people go
@@ -212,6 +216,10 @@ The permit is usually issued for 12 months, and to extend it you must show you m
 
 ### Is it open, and how people go
 
+**No work route.** Under Hungary's Government Decree 450/2024, employment visa applications made after 1 January 2025 can be approved only for citizens of the countries listed in the decree's Annex 1, with no end date; Bangladesh is not among them, so Bangladeshis cannot get a Hungarian residence permit for employment or as a guest worker [OD0172, OD0173]. The Hungarian embassy gives no appointments for employment D (long-stay) visa applications [OD0174].
+
+**Where Bangladeshis apply.** The Consular Section of the Embassy of Hungary in New Delhi (2/50-M Niti Marg, Chanakyapuri, New Delhi 110021) covers Bangladesh [OD0169]. Its Dhaka Office takes D-visa cases (for study and other long stays) by appointment, booked by email to consulate.dec@mfa.gov.hu; Schengen short-stay visas for Hungary are handled by the Embassy of Switzerland in Dhaka [OD0170, OD0171]. A D visa lets the holder enter Hungary within 3 months of issue to collect the residence permit, and fingerprints are taken when applying [OD0175]. Bangladesh's ambassador in Vienna also covers Hungary: Embassy of Bangladesh, Peter-Jordan-Strasse 50, 1190 Vienna, phone +43 1 3681111, consular email consular.vienna@mofa.gov.bd [OD0180, OD0181].
+
 **The Stipendium Hungaricum,** the Hungarian government's scholarship, as described in January 2024:
 
 - It started in Bangladesh in 2019, and more than a hundred Bangladeshi students get it each year [GO0308, GO0307].
@@ -219,6 +227,9 @@ The permit is usually issued for 12 months, and to extend it you must show you m
 - It pays full tuition, health insurance and, for bachelor's and master's students, a monthly living allowance until the end of study [GO0308, GO0310].
 - The applicant must be 18 by 31 August of the year, and incomplete applications are not accepted [GO0311, GO0312].
 - The application form comes from the Stipendium Hungaricum website; for 2024-25 the deadline was 15 January 2024, with selection from 28 February, medical certificates by 15 April, results in mid-June, visa applications in July and August, and arrival by 30 September [GO0306, GO0313].
+- Bangladesh's nominating office (the "sending partner") is the Secondary and Higher Education Division of the Ministry of Education, Building 6, floors 17-18, Bangladesh Secretariat, Dhaka; its deadline is the same as that of the Tempus Public Foundation, which runs the programme, and Bangladeshis may apply in any field, including medicine [OD0178, OD0179].
+- There is one deadline a year; a late application is not accepted and the applicant must wait a year [OD0177].
+- Applying is free; the programme tells applicants not to apply through agencies or pay them, since it works only through the sending partners [OD0176].
 
 ## Taiwan
 
@@ -295,12 +306,22 @@ The embassy in Manama held a consular camp on a weekly holiday: on 24 April 2026
 
 In the case reported, a Bangladeshi went to Cyprus on a student visa after enrolling online from home, and then looked for work there [GO0243, GO0231]. For how student visas are used as work routes, see "Student visas used as work routes" in the Illegal routes doc.
 
+**Student rules,** from the EU's immigration portal and Cyprus's Department of Higher Education:
+
+1. Get admission to a recognised higher education institution as a full-time student; permits are issued only to full-time students [OD0162, OD0164].
+2. Before travelling, get a visa from a Cypriot consulate or an entry permit from the Civil Registry and Migration Department; you need proof of enough money for living costs and health insurance, a criminal record certificate (police clearance) and a passport copy [OD0162, OD0163].
+3. On arrival, register at the District Aliens and Immigration Unit of the Police, have the medical check, and apply to the Civil Registry and Migration Department for a residence permit within 10 days [OD0165, OD0168].
+4. The residence permit lasts one year; apply to renew it a month before it expires [OD0164].
+
+A student may work at most 20 hours a week, and only in listed sectors (domestic work, waste management, restaurants, recreation centres, cleaning, wholesale trade and repairs, health and social care, agriculture, animal husbandry, fishing, manufacturing and food delivery), on a contract certified by the Department of Labour [OD0166]. A refused or cancelled permit can be challenged before the Administrative Court [OD0167].
+
 ### What goes wrong
 
 - **Shahriar Ahmed Emon, Larnaca, June 2026.** He went on a student visa three months earlier and needed Tk 40,000-50,000 a month from home, so he looked for work [GO0243, GO0231]. On 11 June he told his mother he had a night job starting that evening, and disappeared after 9 pm [GO0248, GO0247]. Unknown people used his WhatsApp to demand 35,000 euros from his father; the family agreed to pay Tk 5 lakh but were refused proof he was alive [GO0228, GO0232]. His buried body was found in the Kofinou area ten days after he left; police arrested a Bangladeshi, Shahin Babu, 22, whose information led to the body and knife, and relatives said police told them he was stabbed the night he vanished [GO0246, GO0229, GO0230]. The Raipura upazila executive officer said no official word had come from the embassy [GO0233].
 
 > **Need to know**
-> - Which Bangladesh mission covers Cyprus, and how does a family there reach it?
+> - Which Bangladesh embassy is accredited to Cyprus, and does the Bangladesh honorary consulate in Larnaca that directories list still help families?
+> - Does the Cyprus High Commission in New Delhi take Bangladeshi students' entry-permit papers, or does the Cypriot college file everything with the Civil Registry and Migration Department in Nicosia?
 
 ## France
 
@@ -310,7 +331,14 @@ During cost-of-living protests in October 2026, Bangladeshi businesses in Paris 
 
 ### Help and contacts
 
-The Paris and Île-de-France Chamber of Commerce and Industry helps damaged businesses with insurance papers and compensation claims [GO0276]. The French government offered partial-unemployment pay for workers, more time for taxes, interest-free loans up to 50,000 euros and a small-business fund [GO0277].
+The Paris and Île-de-France Chamber of Commerce and Industry helps damaged businesses with insurance papers and compensation claims [GO0276].
+
+The Bangladesh Embassy in Paris is at 109 Avenue Henri Martin, 75116 Paris; the consular counter takes applications Monday to Friday 9:30 am to 12:30 pm and hands documents back 3:00 to 4:30 pm [OD0225]. A Bangladeshi without a valid passport who needs to go home can get a Travel Permit there [OD0221]:
+
+1. Download the Travel Permit form from paris.mofa.gov.bd and fill it in [OD0222].
+2. Bring a copy of the old Bangladeshi passport, a valid 17-digit digital birth registration certificate and three passport photos, and come in person for an interview [OD0222].
+3. Pay 20 euros by debit or credit card at the counter (no cash or cheques; not refunded) [OD0223].
+4. Collect it after at least 2-3 working days; it is valid for 3 months [OD0224]. The French government offered partial-unemployment pay for workers, more time for taxes, interest-free loans up to 50,000 euros and a small-business fund [GO0277].
 
 ## Portugal
 
@@ -318,12 +346,22 @@ The Paris and Île-de-France Chamber of Commerce and Industry helps damaged busi
 
 More than 50,000 Bangladeshis live in Portugal, which has no embassy or consular office in Bangladesh, so relatives must go to Delhi, and there is no direct flight, community members said in September 2024 [GO0061]. Talks on a Portuguese mission in Dhaka never produced one [GO0062].
 
-**Residence.** Migrants could not renew residence cards for a long time; when AIMA (Portugal's immigration agency) reopened renewals in June 2025 it asked for a declaration from the property's actual owner as proof of address and detailed proof of income scaled to family size [GO0140, GO0141]. A Bangladeshi there six years said he had always used a municipality address certificate, and his landlord would not give the declaration [GO0124]. Parliament passed a stricter immigration law on 30 September 2025, including on family reunification, pending the president's approval [GO0125].
+**Residence.** Migrants could not renew residence cards for a long time; when AIMA (Portugal's immigration agency) reopened renewals in June 2025 it asked for a declaration from the property's actual owner as proof of address and detailed proof of income scaled to family size [GO0140, GO0141]. A Bangladeshi there six years said he had always used a municipality address certificate, and his landlord would not give the declaration [GO0124]. AIMA's form requires it of tenants: a tenant must give a declaration from the landlord or housing provider stating on what basis they live there [OD0145].
+
+**Bringing family.** Parliament passed a stricter immigration law on 30 September 2025 [GO0125]; as Law 61/2025 it came into force on 23 October 2025 [OD0155]. A resident must now have held a valid residence permit for at least 2 years before asking to bring family, with exceptions including spouses, minor children and highly qualified workers, and family members who join must attend Portuguese language training [OD0156, OD0157, OD0158]. Family who may come: the spouse, minor children, dependent adult children who are single and studying in Portugal, and dependent parents of the resident or spouse [OD0146]. The steps:
+
+1. The resident books an appointment and applies in person at any AIMA office, on AIMA's form, with the residence permit, an authenticated copy of the relative's passport, authenticated birth or marriage certificates, the sworn address declaration with the landlord's declaration or property record, proof of means of subsistence, and the relative's criminal record [OD0143, OD0144]. AIMA's contact centre: +351 217 115 000, Monday to Friday 8:00 to 20:00 [OD0147].
+2. Within 90 days of AIMA's approval notice, the relative applies for a D6 (family reunification) visa through the Embassy of Portugal in New Delhi, which covers Bangladesh; missing the 90 days cancels the approval [OD0148, OD0149]. The Consular Section is at N4 Panchsheel Marg, Chanakyapuri, New Delhi 110021, phone +91 11 460 71001, email visas.novadeli@mne.pt [OD0153].
+3. Before applying, have the police clearance certificate and the birth and marriage certificates legalised by Bangladesh's Ministry of Foreign Affairs and then by the embassy in New Delhi; originals are shown at VFS (the embassy's visa centre), which keeps copies [OD0150, OD0151]. The visa fee is not refunded if the visa is refused [OD0154].
+4. The D6 visa gives two entries and lasts 4 months (120 days); in that time the relative applies to AIMA in Portugal for a residence permit [OD0152].
+
+**Bangladesh Embassy in Lisbon:** Estrada Forte do Alto do Duque Lt 1587, 1400-157 Lisbon, phone +351 21 301 0840; consular queries consular.lisbon@mofa.gov.bd or +351 21 26 97 037 [OD0160, OD0161].
 
 In October 2025 a Chega party billboard in Montijo with its leader André Ventura read "This is not Bangladesh", part of its anti-immigration campaign [GO0145]. The Casa do Bangladesh organisation said the matter had come to the attention of the Bangladesh embassy and government [GO0146].
 
 > **Need to know**
-> - Is the new immigration law in force, and what does it now require for family reunification?
+> - Does AIMA apply Law 61/2025's 2-year wait to the spouse of an ordinary work-permit holder, and how long is the wait for an AIMA reunification appointment in 2026?
+> - Does a Bangladeshi relative need an Indian visa to hand in the D6 application at VFS in India, or can VFS Dhaka take it?
 
 ## South Africa
 
@@ -335,27 +373,46 @@ Six Bangladeshis died in a fire at a supershop in Queenstown, Eastern Cape, on t
 
 The Bangladesh High Commission in South Africa is at 410 Farenden Street, Sunnyside, Pretoria 0002, phone 012 343 2105 [OD0111, OD0112].
 
+**The legal work route.** South Africa's General Work Visa needs a certificate or waiver from the Minister of Labour confirming that, despite a diligent search, the employer could not find a suitable South African citizen or permanent resident, that the worker's pay and benefits are not below those of locals in similar jobs, and that a signed contract exists [OD0226]. The worker also needs qualifications evaluated by SAQA (the South African Qualifications Authority), a medical report, police clearance from every country lived in for 12 months or more in the last 5 years, and the employer's written undertaking to pay deportation costs if needed [OD0227, OD0228].
+
 > **Need to know**
-> - Is there any legal work visa route from Bangladesh to South Africa, and does BMET clear workers for it?
+> - Where do Bangladeshis lodge a South African work visa (a South African mission in Dhaka or New Delhi, or VFS), and does BMET give clearance for South Africa?
 
 ## Egypt
 
 ### Is it open, and how people go
 
-For 2026-27 Egypt's government offered Bangladeshi students 24 scholarships at Al-Azhar University's Al-Sharif Institute, 18 undergraduate and 6 master's [GO0281]. Applications ran online from 3 to 17 November 2026, with hard copies by 3:30 pm on 18 November [GO0282, GO0304]. Applicants need basic Arabic (proficiency gets priority); the latest certificate, police clearance, a doctor's fitness certificate and a negative PCR test, each attested by the ministry; the original birth registration, showing the mother's name and nationality and attested by the ministry; six photos; and the original passport, valid at least six months [GO0297, GO0298, GO0299]. Hard copies go in the box at the reception room by Gate 2 of the Bangladesh Secretariat, 9 am to 3:30 pm, addressed to the Deputy Secretary, Scholarship and Engineering University Branch, Room 1706, Building 6, Secondary and Higher Education Division, Ministry of Education [GO0283, GO0303].
+For 2026-27 Egypt's government offered Bangladeshi students 24 scholarships at Al-Azhar University's Al-Sharif Institutes, 18 undergraduate and 6 master's; Bangladesh's foreign ministry asked the Ministry of Education to nominate them, plus up to half as many again for a waiting list [GO0281, OD0212]. The Ministry of Education's notice of 2 November 2026 opened the online form from 3 November to midnight on 17 November 2026, with hard copies due by 3:30 pm on 18 November; anyone already nominated for another government scholarship was asked not to apply [OD0215]. Applicants need basic Arabic (proficiency gets priority); the latest certificate, police clearance, a doctor's fitness certificate and a negative PCR test, each attested by the ministry; the original birth certificate, showing the mother's name and nationality and attested by the ministry; six photos; and the original passport, valid at least six months [OD0211, GO0298]. Hard copies go in the box at the reception room by Gate 2 of the Bangladesh Secretariat, 9 am to 3:30 pm, addressed to the Deputy Secretary, Scholarship and Engineering University Branch, Room 1706, Building 6, Secondary and Higher Education Division, Ministry of Education [GO0283, GO0303, OD0215].
+
+Egypt's other government scholarships for international students are applied for directly on the Egyptian higher education ministry's "Study in Egypt" platform, study-in-egypt.gov.eg; for Al-Azhar scholarships the Egyptian Embassy in Dhaka (House NE(N) 9, Road 90, Gulshan-2, Dhaka 1212, egyptembassydhaka@gmail.com) asks for the documents by email [OD0213, OD0214]. The Bangladesh Embassy in Cairo is at House 03, Street 259, New Maadi, Cairo, phone +20 2 2516 2808, email mission.cairo@mofa.gov.bd [OD0216].
 
 ## Thailand
 
 ### Is it open, and how people go
 
-From 2 January 2025 Bangladeshis apply for Thai visas online at thaievisa.go.th: open an account, fill in the form, upload documents and pay; the e-visa comes by email within 10 working days and the printout is shown at immigration [GO0087, GO0088, GO0089]. The application centre stopped taking applications on 24 December 2024 [GO0090]. With India's tourist visas closed to Bangladeshis since the July 2024 uprising, Bangladeshis were looking elsewhere for travel, shopping and treatment [GO0091]. A Thai official advised patients to apply through the Thai embassy in Dhaka for the DT (Destination Thailand) visa: five years, up to six months a stay, one caregiver allowed, and no recommendation letter needed from the Bangladesh embassy in Bangkok [GO0084, GO0085].
+From 2 January 2025 Bangladeshis apply for Thai visas online at thaievisa.go.th: open an account, fill in the form, upload documents and pay; the e-visa comes by email and the printout is shown at immigration [GO0087, GO0088, GO0089]. The application centre stopped taking applications on 24 December 2024 [GO0090]. With India's tourist visas closed to Bangladeshis since the July 2024 uprising, Bangladeshis were looking elsewhere for travel, shopping and treatment [GO0091]. A Thai official advised patients to apply through the Thai embassy in Dhaka for the DT (Destination Thailand) visa: five years, up to six months a stay, one caregiver allowed, and no recommendation letter needed from the Bangladesh embassy in Bangkok [GO0084, GO0085].
+
+**Fees** (Royal Thai Embassy, Dhaka, from 1 September 2025; the embassy resets the taka amounts with the exchange rate, and the fee in force on the day of payment applies whatever the Payment Info Summary says) [OD0129]:
+
+- tourist visa: Tk 4,500 single entry, Tk 22,500 multiple entry [OD0126];
+- Non-Immigrant visa: Tk 9,000 single entry [OD0127];
+- Destination Thailand Visa (DTV): Tk 45,000 [OD0128].
+
+**How to apply for a tourist visa:**
+
+1. Gather the papers: a passport valid at least six months with two blank pages, one 3.5 x 4.5 cm photo on white, the original bank solvency letter and the last 6 months' bank statement showing at least Tk 60,000 per person (Tk 120,000 per family), a return or onward ticket, a visa request letter, and, if employed, the employer's no-objection certificate with salary proof; first-time applicants also submit any old passports [OD0135, OD0136, OD0133].
+2. For treatment, add the Thai hospital's appointment letter; an attendant needs a sponsorship letter with the sponsor's bank statement and solvency letter [OD0137].
+3. Apply on thaievisa.go.th and download the Payment Information Summary (PIS) [OD0131].
+4. Pay online through Commercial Bank of Ceylon (combank.net.bd/thaievisa) or Eastern Bank (onboarding.ebl-bd.com/thaipayment/start), 9:00 to 12:00 on the embassy's working days, and upload the PIS page; the amount must match the PIS exactly, in one payment, or the application is rejected, and nothing is refunded [OD0130, OD0131, OD0132].
+5. Allow 7 working days and apply at least two weeks before travel [OD0133].
+
+A DTV application must be approved by the embassy before the fee is paid; the DTV allows 180 days a stay, extendable once by 180 days, and needs a passport valid 24 months [OD0138, OD0139].
+
+**Contacts.** Royal Thai Embassy, 18 & 20 Madani Avenue, Baridhara, Dhaka 1212, Sunday to Thursday 9:00-13:00 and 14:00-17:00, visa enquiries 02-222291248 [OD0134]. Bangladesh Embassy in Bangkok: 47/8 Ekamai Soi 30, Sukhumvit 63, Bangkok 10110, phone +66 2 390 5107-8; labour and welfare matters fsbangkok@probashi.gov.bd; welfare hotline for Bangladeshis in Thailand and Cambodia +66 818 70 84 43 [OD0142, OD0140, OD0141].
 
 ### What goes wrong
 
 The Thai official warned that papers submitted through agents should be checked, that there could be fines, and that an applicant with forged or false documents may be blacklisted [GO0086]. In May 2026 tourism sector people said Thai visas were taking a long time and applications were regularly refused, some even from people who had held a Thai visa before [GO0362].
-
-> **Need to know**
-> - What is the Thai e-visa fee for Bangladeshis in 2026?
 
 ## Fiji
 
@@ -363,10 +420,15 @@ The Thai official warned that papers submitted through agents should be checked,
 
 In May 2026 BOESL advertised 105 jobs for men in Fiji in 38 categories, ages 22 to 35, applied for online by 10 May with no application fee [GO0188, GO0191]. Contracts were three years, renewable, 8 hours a day, 6 days a week [GO0191].
 
+**The work permit.** Fiji's long-term work permit covers a job with a locally registered company for one to three years; it is lodged online on Fiji Immigration's Immi Hub portal, and a first-time applicant must be outside Fiji [OD0191, OD0192]. It needs a police report from the country the worker lived in for 12 months or more, a medical report, a passport valid more than six months, a CV, academic qualifications and a signed employment contract [OD0193]. The fee is FJD 650.05 (Fiji dollars) to apply and FJD 185.00 to issue the permit [OD0194, OD0197]. False information in the application can bring prison, a fine or both [OD0195]. Fiji Immigration's website has a Permit Letter Verification service on Immi Hub (immihub.immigration.gov.fj) for checking a permit letter [OD0196].
+
 ### What it costs and pays
 
 - **Pay:** heavy vehicle drivers 250-350 Fiji dollars a week (Tk 13,750-19,250); most trades 6.50-7.50 Fiji dollars an hour (Tk 357.5-412.5) [GO0189, GO0190].
 - **Costs for those selected:** BOESL service charge Tk 44,850 by pay order, air fare Tk 2.2 to 2.4 lakh, agent fee Tk 20,000, job placement fee Tk 15,000, work permit legalisation Tk 15,000 and verification Tk 10,000; the employer pays the fare home [GO0192].
+
+> **Need to know**
+> - Who pays Fiji's FJD 650.05 application and FJD 185 issue fees for BOESL workers, the employer or the worker, and do they overlap with BOESL's Tk 15,000 "work permit legalisation" charge?
 
 ### What goes wrong
 
@@ -376,13 +438,13 @@ In 2025, 26 Bangladeshi workers at a supermarket complained in person to Fiji's 
 
 ### Is it open, and how people go
 
-Chinese government scholarships for 2027-28 (Type A, through China's embassy in Bangladesh) cover bachelor's to PhD and scholar programmes, closing 10 January 2027 [GO0301, GO0302]. They pay full tuition, free university housing, a monthly allowance and the return fare [GO0288]. Age limits: under 25 for bachelor's, 35 for master's, 40 for PhD, 45 and 50 for general and senior scholars [GO0287]. Apply on the scholarship website, choosing "Type A" and agency number 0501 [GO0289].
+Chinese government scholarships for 2027-28 (Type A, through China's embassy in Bangladesh) cover bachelor's to PhD and scholar programmes, closing on campuschina.org on 10 January 2027 [GO0301, GO0302, OD0200]. In the embassy's last call they paid full tuition, on-campus housing, medical insurance, a monthly allowance of about CNY 2,500-3,500 (Chinese yuan) depending on level, and the international return fare [OD0198]. Applications are made online only, at www.campuschina.org [OD0199]. Age limits: under 25 for bachelor's, 35 for master's, 40 for PhD, 45 and 50 for general and senior scholars [GO0287]. Apply on the scholarship website, choosing "Type A" and agency number 0501 [GO0289]. The Bangladesh Embassy in Beijing is at 42 Guang Hua Lu, Chaoyang District, Beijing 100600, phone +86 10 6532 2521, email mission.beijing@mofa.gov.bd [OD0201].
 
 ## Sri Lanka
 
 ### Is it open, and how people go
 
-Tourists can go to Sri Lanka after applying online; a direct ticket costs at least Tk 70,000, tourism sector people said in May 2026 [GO0364].
+Tourists can go to Sri Lanka after applying online; a direct ticket costs at least Tk 70,000, tourism sector people said in May 2026 [GO0364]. Every visitor needs an ETA (Electronic Travel Authorization) before arriving [OD0205]. For Bangladeshis, as SAARC (South Asian Association for Regional Cooperation) nationals, a 30-day double-entry tourist ETA costs US$20 applied for in advance and US$25 on arrival [OD0202, OD0203]. Bangladesh is not among the 40 countries whose nationals get the tourist ETA free from 25 May 2026 [OD0204]. The Bangladesh High Commission in Colombo is at No. 3, Srimath R.G. Senanayake Mawatha, Colombo 07, phone +94 11 2695 744 [OD0206].
 
 ### What goes wrong
 
@@ -392,16 +454,16 @@ On 1 November 2025 immigration police at Dhaka airport stopped 22 of 30 workers 
 
 ### Is it open, and how people go
 
-Nepal still gives Bangladeshis a visa on arrival, tourism sector people said in May 2026; a ticket under Tk 40,000 is hard to find [GO0363]. Brokers have flown young men promised Australia to Kathmandu instead and held them there for ransom (see Australia) [GO0187, GO0201].
+Nepal still gives Bangladeshis a visa on arrival, tourism sector people said in May 2026; a ticket under Tk 40,000 is hard to find [GO0363]. As SAARC citizens, Bangladeshis get a free visa of up to 30 days on their first visit in a visa year; after that a multiple-entry tourist visa costs US$30 for 15 days, US$50 for 30 days or US$125 for 90 days [OD0207, OD0208]. An extension costs US$45 for at least 15 days plus US$3 for each extra day, with a late fine of US$5 a day [OD0209]. The Bangladesh Embassy in Kathmandu is at Basundhara, Ward No. 3, Chakrapath, phone +977 1 4970130 [OD0210]. Brokers have flown young men promised Australia to Kathmandu instead and held them there for ransom (see Australia) [GO0187, GO0201].
 
 ## Mauritius
 
 ### Is it open, and how people go
 
-Mauritius's market for Bangladeshi workers has long been closed; on 8 June 2026 the two governments agreed in principle to sign an MoU quickly to reopen it [GO0221]. Mauritius said it wants skilled workers especially for textiles and would send a draft; Bangladesh offered doctors, engineers and nurses too [GO0222, GO0223]. Hiring more Bangladeshis had been discussed in April 2024 [GO0005].
+Mauritius's market for Bangladeshi workers has long been closed; on 8 June 2026 the two governments agreed in principle to sign an MoU quickly to reopen it [GO0221]. Mauritius said it wants skilled workers especially for textiles and would send a draft; Bangladesh offered doctors, engineers and nurses too [GO0222, GO0223]. Hiring more Bangladeshis had been discussed in April 2024 [GO0005]. The Bangladesh High Commission in Port Louis is on the 8th floor of Hennessey Court, Pope Hennessey Street, phone +230 212 9527; migrant worker matters go to fsportlouis@probashi.gov.bd and passport and other consular matters to consular.portlouis@mofa.gov.bd [OD0189, OD0190].
 
 > **Need to know**
-> - Has the Mauritius MoU been signed, and which agencies may recruit?
+> - Has the Bangladesh-Mauritius recruitment MoU been signed since the June 2026 agreement in principle, and which agencies may recruit under it?
 
 ## Indonesia
 
@@ -415,6 +477,8 @@ On Monday 31 August 2026 Indonesia's navy detained 16 migrants, 8 of them Bangla
 
 In December 2024 Bulgaria let Bangladeshi students apply for visas at its embassies in Hanoi and Jakarta, agreed to take work visa applications at convenient embassies, and confirmed a VFS visa service would start in Dhaka [GO0096, GO0097].
 
+Bulgaria has no functioning embassy in Bangladesh; its embassy in New Delhi covers Bangladesh [OD0182]. It is at 16/17 Chandragupta Marg, Chanakyapuri, New Delhi 110021; the consular office takes visa applications Monday to Thursday 10:00 to 15:00, by appointment booked only by email at consular.delhi@mfa.bg, phone +91 966 776 5100 [OD0184, OD0183]. Bangladesh's embassy in Bucharest, Romania, covers Bulgaria (see Romania) [OD0185].
+
 > **Need to know**
 > - Has the VFS centre for Bulgaria opened in Dhaka, and does BMET clear workers for Bulgaria?
 
@@ -422,10 +486,13 @@ In December 2024 Bulgaria let Bangladeshi students apply for visas at its embass
 
 ### Is it open, and how people go
 
-Romania's government offers a free summer course in Romanian language and culture; in 2026 applications went by email to ro.summercourses@edu.gov.ro and international@edu.gov.ro by 15 May, notified through Romania's embassy in New Delhi [GO0185, GO0186].
+Romania's government offers a free summer course in Romanian language and culture; in 2026 applications went by email to ro.summercourses@edu.gov.ro and international@edu.gov.ro by 15 May, notified through Romania's embassy in New Delhi [GO0185, GO0186]. Romania's embassy in New Delhi normally receives Bangladeshis' visa applications; since December 2025 student and family reunification visa files can also be handed in at Romania's missions in Kuala Lumpur, Hanoi and Bangkok [OD0188]. The Bangladesh Embassy in Bucharest is at Strada Dr. Burgehlea nr. 5, Sector 2, Bucharest 030167; office +40 374 469 050, consular service +40 753 385 877, email mission.bucharest@mofa.gov.bd [OD0187, OD0186].
+
+> **Need to know**
+> - Where do Bangladeshis now lodge Romanian work visas (only New Delhi, or also Kuala Lumpur, Hanoi or Bangkok), and how long is the wait for an appointment?
 
 ## Algeria
 
 ### Is it open, and how people go
 
-In June 2025 Algeria's ambassador said in Chapainawabganj that Bangladeshis who go to set up mango orchards would get land free, with electricity and gas, and that direct flights were being sought [GO0114, GO0115].
+In June 2025 Algeria's ambassador said in Chapainawabganj that Bangladeshis who go to set up mango orchards would get land free, with electricity and gas, and that direct flights were being sought [GO0114, GO0115]. The Bangladesh Embassy in Algiers is at 24 Chemin Cheikh Bachir El Ibrahimi, Poirson, El Biar, Algiers; reception +213 23 05 03 01, emergency +213 552 18 18 18, email mission.algiers@mofa.gov.bd [OD0220, OD0219].

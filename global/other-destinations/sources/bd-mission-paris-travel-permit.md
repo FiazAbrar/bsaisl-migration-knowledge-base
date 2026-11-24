@@ -1,8 +1,8 @@
 [![Office Logo](/site-assets/images/logo.png)](/)
 
-[ Embassy of the People's Republic of Bangladesh, Athens, Greece ](/ "Embassy of the People's Republic of Bangladesh, Athens, Greece")
+[ Embassy of the People’s Republic of Bangladesh, Paris ](/ "Embassy of the People’s Republic of Bangladesh, Paris")
 
-24 / 11 / 2026, 04:25 am
+24 / 11 / 2026, 03:20 am
 
 বাংলা
 
@@ -11,214 +11,116 @@
 Select Menu
 
 - [](/)
-- [About us]( " About us")
-  ###### [](# "About us")
+- [About Us]( " About Us")
+  ###### [](# "About Us")
 
-  About us
+  About Us
 
-  - [](/pages/static-pages/6952669235ce18e1c05aa1d3 " Roll of Honour")
+  - []( " Roll of Honour")
     Roll of Honour
-  - [](/pages/officers-profile " List of Officers")
-    List of Officers
-  - [](/pages/files/6952663fa31054345f102dbe " List of Holidays")
-    List of Holidays
-  - [](/pages/static-pages/695266a335ce18e1c05aa80e " Office Hour")
-    Office Hour
-  - [](/pages/static-pages/695266a535ce18e1c05aa8b8 " Consular Service Hour")
-    Consular Service Hour
-  - []( " Embassy Events")
-    Embassy Events
-  - []( " Consulates Generals")
-    Consulates Generals
-  - [](/pages/static-pages/6952667a35ce18e1c05a9683 " Honorary Consulates")
-    Honorary Consulates
 
-  ###### [](/pages/ambassadors/69526636c8954714e185ecbe "The Ambassador")
+  ###### [](/pages/static-pages/message-from-ambassador-d0d109-6952667c35ce18e1c05a97bb "The Ambassador")
 
   The Ambassador
 
-  - [](/pages/static-pages/6952669f35ce18e1c05aa68d " Her Excellency the Ambassador")
-    Her Excellency the Ambassador
+  - [](/pages/static-pages/6952667c35ce18e1c05a97bb " Message from Ambassador")
+    Message from Ambassador
 
-    - [](/pages/static-pages/6952669f35ce18e1c05aa68d " H.E. Nahida Rahman Shumona")
-      H.E. Nahida Rahman Shumona
-- [Bilateral Relations](/pages/static-pages/6952667b35ce18e1c05a9743 " Bilateral Relations")
-  ###### [](# "Bilateral Relations")
+  ###### [](# "The Embassy")
 
-  Bilateral Relations
+  The Embassy
 
-  - []( " History of Bangladesh Relation")
-    History of Bangladesh Relation
-  - []( " Trade, Commerce, and Investment")
-    Trade, Commerce, and Investment
-  - []( " People to People Contact")
-    People to People Contact
+  - [](/pages/officers-profile " List of Officials")
+    List of Officials
+  - [](/pages/public-holiday/list-of-holidays-for-2026-rwfwgb-6a7af71d6ab58a3743457142 " List of Holidays")
+    List of Holidays
+- [Bangladesh]( " Bangladesh")
+- [Consular Services](admin.shared.io " Consular Services")
+  ###### [](# "Consular Services")
 
-  ###### [](# "Relation with Accredited Countries")
+  Consular Services
 
-  Relation with Accredited Countries
+  - [](/pages/static-pages/6952667f35ce18e1c05a997f " Consular Service Hours & Fee Chart")
+    Consular Service Hours & Fee Chart
 
-  - [](/pages/static-pages/6952667135ce18e1c05a9241 " Bilateral Relations with Albania")
-    Bilateral Relations with Albania
-  - [](/pages/static-pages/6952667735ce18e1c05a9533 " Bilateral Relations with Malta")
-    Bilateral Relations with Malta
-  - [](/pages/static-pages/6952668935ce18e1c05a9e03 " Bilateral Relations with Greece")
-    Bilateral Relations with Greece
-- [Consular]( " Consular")
-  ###### [](# "Consular")
+  ###### [](admin.shared.io "e-Passport & MRP Services")
 
-  Consular
+  e-Passport & MRP Services
 
-  - [](/pages/static-pages/6952669235ce18e1c05aa1e4 " Other Consular Services & Fees")
-    Other Consular Services & Fees
-  - [](/pages/static-pages/6952668235ce18e1c05a9a85 " Bank Details to Pay Consular Fees")
-    Bank Details to Pay Consular Fees
+  - [](/pages/static-pages/695266a035ce18e1c05aa6e7 " e-Passport Guidelines")
+    e-Passport Guidelines
+  - [](/pages/static-pages/6ace9ca7011ef1fa8e228daf " e-Passport Attestation")
+    e-Passport Attestation
+  - [](https://epassport.gov.bd/ " Apply Online for e-Passport")
+    Apply Online for e-Passport
 
-  ###### [](# "Visa")
+  ###### [](admin.shared.io "Visa & NVR Services")
 
-  Visa
+  Visa & NVR Services
 
-  - []( " Government Delegate Visa")
-    Government Delegate Visa
-  - []( " Diplomatic and Official Visa")
-    Diplomatic and Official Visa
-  - []( " UN and IO visa")
-    UN and IO visa
-  - []( " Business Visa")
-    Business Visa
-  - []( " Investor Visa")
-    Investor Visa
-  - []( " Work Permint and Employment Visa")
-    Work Permint and Employment Visa
-  - []( " NGO Visa")
-    NGO Visa
-  - []( " Research Visa")
-    Research Visa
-  - []( " Tourist Visa")
-    Tourist Visa
-  - []( " Student Visa")
-    Student Visa
-  - []( " Intern Visa")
-    Intern Visa
-  - []( " Journalist Visa")
-    Journalist Visa
-  - []( " Tableague Jamat Visa")
-    Tableague Jamat Visa
-  - []( " Visa on Arrival")
+  - [](/pages/static-pages/6ad7fd00fde009fa70fe411b " Visa Information Paris")
+    Visa Information Paris
+  - [](/pages/static-pages/6a79d8a2ec071d5e26c3ddb3 " No Visa Required (NVR)")
+    No Visa Required (NVR)
+  - [](/pages/static-pages/6ad7fd2c9594596dad4a0e09 " Tourist Visa (T)")
+    Tourist Visa (T)
+  - [](/pages/static-pages/6ad7fd3eba7fabe195e4b6ef " Business Visa (B)")
+    Business Visa (B)
+  - [](/pages/static-pages/6ad7fd64011ef1fa8e25a8cc " Work Permit Visa (E)")
+    Work Permit Visa (E)
+  - [](/pages/static-pages/6ad7fd7a9422db94cd428231 " Student Visa (S)")
+    Student Visa (S)
+  - [](/pages/static-pages/6a7f16eb18224a6f09fdd573 " Visa on Arrival")
     Visa on Arrival
 
-  ###### [](# "e-Consular")
+  ###### [](admin.shared.io "Attestation & Consular Certificates")
 
-  e-Consular
+  Attestation & Consular Certificates
 
-  - []( " Book an Appointment")
-    Book an Appointment
+  - [](/pages/static-pages/6ad7fabf734da992ba75bfe9 " Attestation of Documents")
+    Attestation of Documents
+  - [](/pages/static-pages/6ad7fc8e5703c40cec82055c " Acte de Naissance")
+    Acte de Naissance
+  - [](/pages/static-pages/6ad7fca03c97e6c4ab6783a8 " Certificat de Coutume")
+    Certificat de Coutume
+  - [](/pages/static-pages/6ad7fcb565d13e4ec445c397 " Certificat de Célibat")
+    Certificat de Célibat
+  - [](/pages/static-pages/6ad7fcca2e520f8fc88d25aa " Attestation de Concordance")
+    Attestation de Concordance
 
-    - []( " Passport")
-      Passport
-    - []( " Visa")
-      Visa
-    - []( " Other Services")
-      Other Services
-  - []( " Check Status")
-    Check Status
+  ###### [](admin.shared.io "Power of Attorney & Nationality")
 
-    - []( " Passport")
-      Passport
-    - []( " Visa")
-      Visa
-    - []( " Other Services")
-      Other Services
+  Power of Attorney & Nationality
 
-  ###### [](# "Passport")
+  - [](/pages/static-pages/6ad7fcee94e4dab6748e7663 " Power of Attorney (PoA Act 2015)")
+    Power of Attorney (PoA Act 2015)
+  - [](/pages/static-pages/6ad7fcdc9422db94cd428214 " Dual Nationality Certificate")
+    Dual Nationality Certificate
 
-  Passport
+  ###### [](admin.shared.io "Birth & Death Registration")
 
-  - []( " New MRP Application")
-    New MRP Application
-  - []( " MRP Reissue")
-    MRP Reissue
-  - []( " Data Correction in MRP")
-    Data Correction in MRP
-  - []( " MRP for Newborn")
-    MRP for Newborn
-  - []( " MRP for Bangladesh Origin persons")
-    MRP for Bangladesh Origin persons
-  - []( " MRP Against Lost Passport")
-    MRP Against Lost Passport
-  - []( " Others")
-    Others
+  Birth & Death Registration
 
-  ###### [](# "Welfare Services")
+  - [](/pages/static-pages/6a7adcd3930df921bb640223 " Birth Registration Certificate")
+    Birth Registration Certificate
+  - [](/pages/static-pages/6a7add4bee403ad10610b381 " Death Registration Certificate")
+    Death Registration Certificate
 
-  Welfare Services
+  ###### [](admin.shared.io "Emergency & Police Clearance")
 
-  - []( " NVR")
-    NVR
-  - []( " Repatriation of Dead Body")
-    Repatriation of Dead Body
+  Emergency & Police Clearance
 
-  ###### [](# "Important Notices")
+  - [](/pages/static-pages/6a7ae4c7ee403ad10610bdfe " Emergency Travel Permit")
+    Emergency Travel Permit
+  - [](/pages/static-pages/6a7ae3eda03d02be5976be47 " Police Clearance Certificate")
+    Police Clearance Certificate
+- [July Documentary](/pages/static-pages/695266a135ce18e1c05aa73b " July Documentary")
 
-  Important Notices
-
-  - [](http://caab.gov.bd/covid19f.html " Travel Advisories")
-    Travel Advisories
-
-  ###### [](# "Download Forms")
-
-  Download Forms
-
-  - [](/pages/static-pages/695266b635ce18e1c05aae8f " Passport Application")
-    Passport Application
-  - [](/pages/static-pages/6952669135ce18e1c05aa183 " Visa Application")
-    Visa Application
-  - [](/pages/static-pages/695266b735ce18e1c05aaf05 " Other Forms")
-    Other Forms
-- [Notice](/pages/notices " Notice")
-- [News & Events]( " News & Events")
-  ###### [](# "News & Events")
-
-  News & Events
-
-  - [](/pages/press-releases " Press Release")
-    Press Release
-  - [](/pages/event-calendars " Events")
-    Events
-  - []( " Photo Gallery")
-    Photo Gallery
-  - []( " Useful links")
-    Useful links
-
-  ###### [](# "Video Gallery")
-
-  Video Gallery
-
-  - [](/pages/video-galleries/6952663dc4774958d7b6d9ee " ইউ ফেইলড টু কিল আবরার ফাহাদ")
-    ইউ ফেইলড টু কিল আবরার ফাহাদ
-- [Contact Us]( " Contact Us")
-  ###### [](# "Contact Us")
-
-  Contact Us
-
-  - [](/pages/static-pages/6952669035ce18e1c05aa148 " Address and Phone Number")
-    Address and Phone Number
-  - []( " Wing-wise Contact")
-    Wing-wise Contact
-  - [](/pages/web-forms/6952650cb71fc04b61482948 " Write to (Ambassador/High-Commissioner/Consular General)")
-    Write to (Ambassador/High-Commissioner/Consular General)
-  - []( " Important Links")
-    Important Links
-  - []( " Suggestion/Grievance Redress")
-    Suggestion/Grievance Redress
-  - []( " FAQ")
-    FAQ
-
-![MoFA](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-central-mofa/2024/12/09fc0d8006f34741810847cca5097d98.jpg%20) ![Banner 1](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-athens-mofa/2026/3/13dced76-03ba-4d9d-bfed-8811df795f5d.png%20)
+![MoFA](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-central-mofa/2024/12/09fc0d8006f34741810847cca5097d98.jpg%20) ![flag banner](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-paris-mofa/2026/7/db5732d6-def6-4a39-9a63-54cc93d30fb1.png%20) ![ParisEMB](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-paris-mofa/2026/7/8a761840-0048-4137-a504-66ee136e700f.jpg%20)
 
 [![Office Logo](/site-assets/images/logo.png)](/)
 
-# [Embassy of the People's Republic of Bangladesh, Athens, Greece](/)
+# [Embassy of the People’s Republic of Bangladesh, Paris](/)
 
 ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOCIgaGVpZ2h0PSIxMyIgdmlld2JveD0iMCAwIDggMTMiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxwYXRoIGQ9Ik02LjcwNTA4IDExLjc4NjhMMS43OTk3NiA2Ljg4MTUxTDYuNzA1MDggMS45NzYyIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIC8+IDwvc3ZnPg==)
 
@@ -250,31 +152,54 @@ Attachment (jpg, jpeg, png, pdf • max 2 MB) Invalid file. Allowed: JPG, JPEG, 
 
 Submit
 
-This content was last updated on: Wednesday, October 27, 2021 at 03:40 PM
+This content was last updated on: Wednesday, October 21, 2026 at 05:42 AM
 
-## Address and Phone Number
+## Travel Permit (Emergency Repatriation)
 
 Content: Pages
 
-**Embassy of the People's Republic of Bangladesh, Athens**
+## **Travel Permit**
 
-**119 Marathonodromon Str., 15452 Psychiko**
+A Travel Permit is issued to a Bangladeshi citizen who does not possess a valid Bangladeshi Passport but needs to travel to Bangladesh.
 
-**Athens, Greece**
+------------------------------------------------------------------------
 
-**Telephone Number: 0030 2106720250(PABX), 0030 2106720254, 0030 2106752580**
+## **Requirements**
 
-**Fax Number: 0030 2106754513**
+- Duly completed Travel Permit application form — download from [*https://paris.mofa.gov.bd*](https://paris.mofa.gov.bd).
 
-**Email: **[mission.athens@mofa.gov.bd](mailto:mission.athens@mofa.gov.bd,)****
+- Copy of previous Bangladeshi passport.
 
-\
+- Valid Digital Birth Registration Certificate (17-digit).
 
-For Consular related matter please email at: **<consular.athens@mofa.gov.bd>**
+- Three (3) recent passport-sized photographs.
 
-For Visa related matter please email at: **visa.beathens2021@gmail.com**
+- Physical presence of the applicant at the Embassy of Bangladesh, Paris for an interview.
 
-\
+------------------------------------------------------------------------
+
+## **Fee**
+
+**€20.00 (non-refundable).** Payment by Debit or Credit card at the counter only. Cash and cheques are not accepted.
+
+------------------------------------------------------------------------
+
+## **Counter Hours & Delivery**
+
+|                           | **Hours**                             |
+|---------------------------|---------------------------------------|
+| **Application Receiving** | 09:30 am – 12:30 pm (Monday – Friday) |
+| **Delivery**              | 03:00 pm – 04:30 pm (Monday – Friday) |
+
+**Processing Time:** At least 2–3 working days.
+
+**Note:** A Travel Permit is valid for **3 months** from the date of issue.
+
+**Embassy of the People's Republic of Bangladesh, Paris**
+
+109 Avenue Henri Martin, 75116 Paris, France
+
+Consular Counter: Monday – Friday \| 09:30 am – 12:30 pm (Receiving) & 03:00 pm – 04:30 pm (Delivery)
 
 Click to share this content
 
@@ -332,7 +257,7 @@ All information published on this website is regularly updated by the respective
 
 © 2026 All Rights Reserved to bangladesh.gov.bd(National Portal)
 
-Site last updated: Wednesday, August 12, 2026 at 17:48:59
+Site last updated: Wednesday, November 18, 2026 at 23:27:33
 
 Planning and implementation
 

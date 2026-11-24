@@ -148,7 +148,7 @@ bg-vfs-bangladesh,https://www.vfsglobal.com/one-pager/bulgaria/bangladesh/englis
 cy-highered-non-eu,https://highereducation.ac.cy/index.php/en/spoudes-cyprus/aitiseis-ektos-ee,2026-11-24,200,text/html; charset=utf-8,curl,cy-highered-non-eu.html;cy-highered-non-eu.md
 cy-eu-portal-student,https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/student-cyprus_en,2026-11-24,200,text/html; charset=utf-8,curl,cy-eu-portal-student.html;cy-eu-portal-student.md;cy-eu-portal-student.txt
 bd-mission-kathmandu,https://kathmandu.mofa.gov.bd/pages/static-pages/6952667c35ce18e1c05a97c7,2026-11-24,200,text/html; charset=utf-8,curl,bd-mission-kathmandu.html;bd-mission-kathmandu.md
-bd-mission-beijing,https://beijing.mofa.gov.bd/pages/static-pages/6952668e35ce18e1c05aa034,2026-11-24,200,text/html; charset=utf-8,curl,bd-mission-beijing.html;bd-mission-beijing.md
+bd-mission-beijing,https://beijing.mofa.gov.bd/pages/static-pages/6952668e35ce18e1c05aa034,2026-11-24,200,text/html; charset=utf-8,curl,bd-mission-beijing.html;bd-mission-beijing.md;bd-mission-beijing.txt
 bd-mission-canberra,https://canberra.mofa.gov.bd/pages/static-pages/695266ad35ce18e1c05aaba4,2026-11-24,200,text/html; charset=utf-8,curl,bd-mission-canberra.html;bd-mission-canberra.md
 np-ntb-tourist-visa,https://ntb.gov.np/plan-your-trip/before-you-come/tourist-visa,2026-11-24,200,text/html; charset=utf-8,curl,np-ntb-tourist-visa.html;np-ntb-tourist-visa.md
 np-embassy-delhi-visa,https://in.nepalembassy.gov.np/pages/Visa-1/,2026-11-24,200,text/html; charset=utf-8,curl,np-embassy-delhi-visa.html;np-embassy-delhi-visa.md
@@ -160,3 +160,17 @@ hu-sh-partners,https://stipendiumhungaricum.hu/partners/,2026-11-24,200,text/htm
 hu-sh-partner-bangladesh,https://stipendiumhungaricum.hu/partners/?partner=bangladesh,2026-11-24,200,text/html; charset=UTF-8,curl,hu-sh-partner-bangladesh.html;hu-sh-partner-bangladesh.md
 hu-delhi-consular,https://delhi.mfa.gov.hu/en/1_2-general-consular-information,2026-11-24,200,text/html; charset=utf-8,curl,hu-delhi-consular.html;hu-delhi-consular.md
 hu-delhi-d-permit,https://delhi.mfa.gov.hu/en/3-d-type-long-term-resident-permit-application,2026-11-24,200,text/html; charset=utf-8,curl,hu-delhi-d-permit.html;hu-delhi-d-permit.md
+ro-tbs-visa-points,https://www.tbsnews.net/node/1304511,2026-11-24,200,text/html; charset=utf-8,curl,ro-tbs-visa-points.html;ro-tbs-visa-points.md
+cn-bdnews-cgs-2027,https://bdnews24.com/education/nem2wgbzkl,2026-11-24,200,text/html; charset=utf-8,curl,cn-bdnews-cgs-2027.html;cn-bdnews-cgs-2027.md
+cn-embassy-cgs-2025,https://bd.china-embassy.gov.cn/eng/sghd/202512/t20251219_11776194.htm,2026-11-24,200,text/html,curl,cn-embassy-cgs-2025.html;cn-embassy-cgs-2025.md
+lk-immigration-visa,https://www.immigration.gov.lk/pages_e.php?id=45,2026-11-24,200,text/html; charset=UTF-8,curl,lk-immigration-visa.html;lk-immigration-visa.md;lk-immigration-visa.txt
+lk-free-visa-40,https://www.immigration.gov.lk/content/files/visa/Free%20Tourist%20Visas%20for%20Nationals%20of%2040%20Selected%20Countries.pdf,2026-11-24,200,application/pdf,curl,lk-free-visa-40.pdf;lk-free-visa-40.txt
+eg-shed-alazhar-2026,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-shed/2026/10/15077635-03be-4790-9cbb-599ccd3ff40f.pdf,2026-11-24,200,application/pdf,curl,eg-shed-alazhar-2026.pdf;eg-shed-alazhar-2026.txt
+fj-immigration-ltwp-FAILED,https://immigration.gov.fj/long-term-work-permit/,2026-11-24,403,text/html,curl,
+fj-immigration-fees-2025-FAILED,https://www.immigration.gov.fj/wp-content/uploads/2025/08/new-fees-for-2025.pdf,2026-11-24,403,text/html,curl,
+za-dirco-general-work-visa,https://dirco.gov.za/washingtondc/wp-content/uploads/sites/76/2025/04/GENERAL-WORK-VISA.pdf,2026-11-24,200,application/pdf,curl,za-dirco-general-work-visa.pdf;za-dirco-general-work-visa.txt
+fj-immigration-ltwp-wb,https://immigration.gov.fj/long-term-work-permit/,2026-11-24,200,text/html; charset=utf-8,wayback:20261012073807,fj-immigration-ltwp-wb.html;fj-immigration-ltwp-wb.md
+fj-immigration-fees-wb,https://www.immigration.gov.fj/wp-content/uploads/2025/08/new-fees-for-2025.pdf,2026-11-24,200,application/pdf,wayback:20261012073015,fj-immigration-fees-wb.pdf;fj-immigration-fees-wb.txt
+bd-mission-paris-travel-permit,https://paris.mofa.gov.bd/pages/static-pages/6a7ae4c7ee403ad10610bdfe,2026-11-24,200,text/html; charset=utf-8,curl,bd-mission-paris-travel-permit.html;bd-mission-paris-travel-permit.md
+pt-vfs-d6-checklist,https://www.vfsglobal.com/one-pager/portugal/india/english/pdf/CHECKLIST_FOR_D6.pdf,2026-11-24,200,application/pdf,curl,pt-vfs-d6-checklist.pdf;pt-vfs-d6-checklist.txt
+pt-andersen-lei-61-2025,https://pt.andersen.com/wp-content/uploads/2025/10/Andersen-Legal-Alert_Alteracao-a-Lei-de-Estrangeiros-2.pdf,2026-11-24,200,application/pdf,curl,pt-andersen-lei-61-2025.pdf;pt-andersen-lei-61-2025.txt

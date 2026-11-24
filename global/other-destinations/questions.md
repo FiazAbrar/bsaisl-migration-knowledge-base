@@ -35,24 +35,30 @@ These are the questions the Other destinations doc can't yet answer, grouped by 
 
 ## Cyprus
 
-- Which Bangladesh mission covers Cyprus, and how does a family there reach it?
+- Which Bangladesh embassy is accredited to Cyprus, and does the Bangladesh honorary consulate in Larnaca that directories list still help families?
+- Does the Cyprus High Commission in New Delhi take Bangladeshi students' entry-permit papers, or does the Cypriot college file everything with the Civil Registry and Migration Department in Nicosia?
 
 ## Portugal
 
-- Is the new immigration law in force, and what does it now require for family reunification?
+- Does AIMA apply Law 61/2025's 2-year wait to the spouse of an ordinary work-permit holder, and how long is the wait for an AIMA reunification appointment in 2026?
+- Does a Bangladeshi relative need an Indian visa to hand in the D6 application at VFS in India, or can VFS Dhaka take it?
 
 ## South Africa
 
-- Is there any legal work visa route from Bangladesh to South Africa, and does BMET clear workers for it?
-
-## Thailand
-
-- What is the Thai e-visa fee for Bangladeshis in 2026?
+- Where do Bangladeshis lodge a South African work visa (a South African mission in Dhaka or New Delhi, or VFS), and does BMET give clearance for South Africa?
 
 ## Mauritius
 
-- Has the Mauritius MoU been signed, and which agencies may recruit?
+- Has the Bangladesh-Mauritius recruitment MoU been signed since the June 2026 agreement in principle, and which agencies may recruit under it?
 
 ## Bulgaria
 
 - Has the VFS centre for Bulgaria opened in Dhaka, and does BMET clear workers for Bulgaria?
+
+## Fiji
+
+- Who pays Fiji's FJD 650.05 application and FJD 185 issue fees for BOESL workers, the employer or the worker, and do they overlap with BOESL's Tk 15,000 "work permit legalisation" charge?
+
+## Romania
+
+- Where do Bangladeshis now lodge Romanian work visas (only New Delhi, or also Kuala Lumpur, Hanoi or Bangkok), and how long is the wait for an appointment?
