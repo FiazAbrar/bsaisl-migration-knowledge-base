@@ -22,3 +22,53 @@ pa-2026-04-17-kxsw0sn7ak,https://www.prothomalo.com/world/europe/kxsw0sn7ak,2026
 pa-2026-10-12-g175g00tm3,https://www.prothomalo.com/world/europe/g175g00tm3,2026-11-23,200,,manual,pa-2026-10-12-g175g00tm3.md
 pa-2024-04-02-sjrdz52mhz,https://www.prothomalo.com/world/europe/sjrdz52mhz,2026-11-23,200,,manual,pa-2024-04-02-sjrdz52mhz.md
 pa-2024-07-04-6ngsgospii,https://www.prothomalo.com/education/higher-education/6ngsgospii,2026-11-23,200,,manual,pa-2024-07-04-6ngsgospii.md
+govuk-student-visa-print,https://www.gov.uk/student-visa/print,2026-11-23,200,text/html; charset=utf-8,curl,govuk-student-visa-print.html;govuk-student-visa-print.md
+govuk-graduate-visa-print,https://www.gov.uk/graduate-visa/print,2026-11-23,200,text/html; charset=utf-8,curl,govuk-graduate-visa-print.html;govuk-graduate-visa-print.md
+govuk-skilled-worker-print,https://www.gov.uk/skilled-worker-visa/print,2026-11-23,200,text/html; charset=utf-8,curl,govuk-skilled-worker-print.html;govuk-skilled-worker-print.md
+govuk-health-care-worker-print,https://www.gov.uk/health-care-worker-visa/print,2026-11-23,200,text/html; charset=utf-8,curl,govuk-health-care-worker-print.html;govuk-health-care-worker-print.md
+govuk-standard-visitor-print,https://www.gov.uk/standard-visitor/print,2026-11-23,200,text/html; charset=utf-8,curl,govuk-standard-visitor-print.html;govuk-standard-visitor-print.md
+govuk-ihs-print,https://www.gov.uk/healthcare-immigration-application/print,2026-11-23,200,text/html; charset=utf-8,curl,govuk-ihs-print.html;govuk-ihs-print.md
+govuk-claim-asylum-print,https://www.gov.uk/claim-asylum/print,2026-11-23,200,text/html; charset=utf-8,curl,govuk-claim-asylum-print.html;govuk-claim-asylum-print.md
+govuk-get-access-evisa,https://www.gov.uk/get-access-evisa,2026-11-23,200,text/html; charset=utf-8,curl,govuk-get-access-evisa.html;govuk-get-access-evisa.md
+govuk-tb-test-print,https://www.gov.uk/tb-test-visa/print,2026-11-23,200,text/html; charset=utf-8,curl,govuk-tb-test-print.html;govuk-tb-test-print.md
+govuk-tb-clinics-bangladesh-pub,https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-bangladesh,2026-11-23,200,text/html; charset=utf-8,curl,govuk-tb-clinics-bangladesh-pub.html;govuk-tb-clinics-bangladesh-pub.md
+govuk-find-vac,https://www.gov.uk/find-a-visa-application-centre,2026-11-23,200,text/html; charset=utf-8,curl,govuk-find-vac.html;govuk-find-vac.md
+govuk-bhc-dhaka,https://www.gov.uk/world/organisations/british-high-commission-dhaka,2026-11-23,200,text/html; charset=utf-8,curl,govuk-bhc-dhaka.html;govuk-bhc-dhaka.md
+govuk-admin-review-print,https://www.gov.uk/ask-for-a-visa-administrative-review/print,2026-11-23,200,text/html; charset=utf-8,curl,govuk-admin-review-print.html;govuk-admin-review-print.md
+govuk-nmw-rates,https://www.gov.uk/national-minimum-wage-rates,2026-11-23,200,text/html; charset=utf-8,curl,govuk-nmw-rates.html;govuk-nmw-rates.md
+govuk-find-immigration-adviser,https://www.gov.uk/find-an-immigration-adviser,2026-11-23,200,text/html; charset=utf-8,curl,govuk-find-immigration-adviser.html;govuk-find-immigration-adviser.md
+govuk-asylum-support-print,https://www.gov.uk/asylum-support/print,2026-11-23,200,text/html; charset=utf-8,curl,govuk-asylum-support-print.html;govuk-asylum-support-print.md
+bhc-london-home,https://bhclondon.org.uk/,2026-11-23,200,text/html; charset=UTF-8,curl,bhc-london-home.html;bhc-london-home.md
+govuk-tb-testing-bangladesh,https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-bangladesh/tuberculosis-testing-in-bangladesh,2026-11-23,200,text/html; charset=utf-8,curl,govuk-tb-testing-bangladesh.html;govuk-tb-testing-bangladesh.md
+vfs-bgd-gbr-attend-centre-FAILED,https://visa.vfsglobal.com/bgd/en/gbr/attend-centre,2026-11-23,403,application/json,curl,
+govuk-uk-bd-returns-agreement-2024,https://www.gov.uk/government/news/uk-and-bangladesh-sign-agreement-to-tackle-illegal-migration,2026-11-23,200,text/html; charset=utf-8,curl,govuk-uk-bd-returns-agreement-2024.html;govuk-uk-bd-returns-agreement-2024.md
+govuk-bd-visa-forgery-arrests,https://www.gov.uk/government/news/eight-arrests-as-bangladesh-visa-forgery-factory-is-shut-down,2026-11-23,200,text/html; charset=utf-8,curl,govuk-bd-visa-forgery-arrests.html;govuk-bd-visa-forgery-arrests.md
+govuk-bhc-work-visa-scams,https://www.gov.uk/government/news/beware-of-work-visa-scams-targeting-bangladesh-nationals,2026-11-23,200,text/html; charset=utf-8,curl,govuk-bhc-work-visa-scams.html;govuk-bhc-work-visa-scams.md
+govuk-rules-appendix-student,https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student,2026-11-23,200,text/html; charset=utf-8,curl,govuk-rules-appendix-student.html;govuk-rules-appendix-student.md
+bhc-london-hours,https://bhclondon.org.uk/list-of-holidays,2026-11-23,200,text/html; charset=UTF-8,curl,bhc-london-hours.html;bhc-london-hours.md
+mofa-missions-list-FAILED,https://mofa.portal.gov.bd/site/page/013ad4d9-5f3b-4b29-b772-6af04c351095,2026-11-23,000,,curl,
+bhc-london-officers,https://bhclondon.org.uk/list-of-officers,2026-11-23,200,text/html; charset=UTF-8,curl,bhc-london-officers.html;bhc-london-officers.md
+mofa-missions-list-wb,https://mofa.portal.gov.bd/site/page/013ad4d9-5f3b-4b29-b772-6af04c351095,2026-11-23,200,text/html; charset=utf-8,wayback:20220819172650,mofa-missions-list-wb.html;mofa-missions-list-wb.md
+bmet-old-stats-FAILED,http://www.old.bmet.gov.bd/BMET/stattisticalDataAction,2026-11-23,404,text/html,curl,
+bmet-stats-new-FAILED,https://bmet.gov.bd/pages/statistical-data,2026-11-23,404,text/html; charset=utf-8,curl,
+bdnews24-bmet-uk-2024,https://bdnews24.com/bangladesh/7b83038b1c49,2026-11-23,200,text/html; charset=utf-8,curl,bdnews24-bmet-uk-2024.html;bdnews24-bmet-uk-2024.md
+tbs-europe-job-migration-h1,https://www.tbsnews.net/node/1475796,2026-11-23,200,text/html; charset=utf-8,curl,tbs-europe-job-migration-h1.html;tbs-europe-job-migration-h1.md
+homeoffice-stats-asylum-claims-ye-jun2026,https://www.gov.uk/government/statistics/immigration-system-statistics-year-ending-june-2026/how-many-people-claim-asylum-in-the-uk,2026-11-23,200,text/html; charset=utf-8,curl,homeoffice-stats-asylum-claims-ye-jun2026.html;homeoffice-stats-asylum-claims-ye-jun2026.md
+homeoffice-stats-study-ye-jun2026-FAILED,https://www.gov.uk/government/statistics/immigration-system-statistics-year-ending-june-2026/why-do-people-come-to-the-uk-to-study,2026-11-23,404,text/html; charset=utf-8,curl,
+homeoffice-stats-irregular-ye-jun2026-FAILED,https://www.gov.uk/government/statistics/immigration-system-statistics-year-ending-june-2026/how-many-people-come-to-the-uk-irregularly,2026-11-23,404,text/html; charset=utf-8,curl,
+homeoffice-stats-work-ye-jun2026-FAILED,https://www.gov.uk/government/statistics/immigration-system-statistics-year-ending-june-2026/why-do-people-come-to-the-uk-to-work,2026-11-23,404,text/html; charset=utf-8,curl,
+homeoffice-stats-work-yejun2026,https://www.gov.uk/government/statistics/immigration-system-statistics-year-ending-june-2026/why-do-people-come-to-the-uk-work,2026-11-23,200,text/html; charset=utf-8,curl,homeoffice-stats-work-yejun2026.html;homeoffice-stats-work-yejun2026.md
+homeoffice-asylum-summary-tables-jun2026,https://assets.publishing.service.gov.uk/media/6a85c315b0504df9f2c89800/asylum-summary-jun-2026-tables.ods,2026-11-23,200,application/vnd.oasis.opendocument.spreadsheet,curl,homeoffice-asylum-summary-tables-jun2026.ods;homeoffice-asylum-summary-tables-jun2026.txt
+homeoffice-visas-summary-tables-jun2026,https://assets.publishing.service.gov.uk/media/6a85c6003d82f78d5c514552/visas-summary-jun-2026-tables.ods,2026-11-23,200,application/vnd.oasis.opendocument.spreadsheet,curl,homeoffice-visas-summary-tables-jun2026.ods;homeoffice-visas-summary-tables-jun2026.txt
+govuk-evisa-travel,https://www.gov.uk/evisa/travel-with-evisa,2026-11-23,200,text/html; charset=utf-8,curl,govuk-evisa-travel.html;govuk-evisa-travel.md
+govuk-rules-part-suitability,https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-suitability,2026-11-23,200,text/html; charset=utf-8,curl,govuk-rules-part-suitability.html;govuk-rules-part-suitability.md
+ico-data-protection-complaint-FAILED,https://ico.org.uk/make-a-complaint/data-protection-complaints/data-protection-complaints/,2026-11-23,403,text/html; charset=UTF-8,curl,
+csc-masters-ldc-FAILED,https://cscuk.fcdo.gov.uk/apply/masters-scholarships-least-developed-countries-and-fragile-states/,2026-11-23,404,text/html; charset=UTF-8,curl,
+ignore-test-FAILED,https://www.gov.uk/government/news/rwanda-scheme-scrapped,2026-11-23,404,text/html; charset=utf-8,curl,
+ico-data-protection-complaint-wb,https://ico.org.uk/make-a-complaint/data-protection-complaints/data-protection-complaints/,2026-11-23,200,text/html; charset=utf-8,wayback:20241001023811,ico-data-protection-complaint-wb.html;ico-data-protection-complaint-wb.md
+csc-masters,https://cscuk.fcdo.gov.uk/scholarships/commonwealth-masters-scholarships/,2026-11-23,200,text/html; charset=UTF-8,curl,csc-masters.html;csc-masters.md
+csc-national-nominating-agencies,https://cscuk.fcdo.gov.uk/national-nominating-agencies/,2026-11-23,200,text/html; charset=UTF-8,curl,csc-national-nominating-agencies.html;csc-national-nominating-agencies.md
+govuk-student-sponsor-compliance,https://www.gov.uk/government/publications/student-sponsor-guidance/student-sponsor-compliance-accessible,2026-11-24,200,text/html; charset=utf-8,curl,govuk-student-sponsor-compliance.html;govuk-student-sponsor-compliance.md
+govuk-visa-brake,https://www.gov.uk/guidance/visa-brake-changes-to-the-uk-visa-system,2026-11-24,200,text/html; charset=utf-8,curl,govuk-visa-brake.html;govuk-visa-brake.md
+govuk-asylum-helplines,https://www.gov.uk/asylum-helplines,2026-11-24,200,text/html; charset=utf-8,curl,govuk-asylum-helplines.html;govuk-asylum-helplines.md
+govuk-asylum-permission-to-work,https://www.gov.uk/government/publications/working-whilst-an-asylum-claim-is-considered/working-in-the-uk-whilst-an-asylum-case-is-considered,2026-11-24,200,text/html; charset=utf-8,curl,govuk-asylum-permission-to-work.html;govuk-asylum-permission-to-work.md
