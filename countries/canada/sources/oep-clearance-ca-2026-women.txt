@@ -1,0 +1,4 @@
+# OEP country-clearance report, Canada (country_id 32), women, 2026-01-01 to 2026-11-23, queried 2026-11-23
+Canada women 2026: total_employee 17
+https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2026-01-01&approval_date_to=2026-11-23&country_id%5B%5D=32&gender_id=2
+{"success":true,"code":null,"payload":{"data":[{"country_id":32,"country_name":"Canada","total_employee":17}],"recordsTotal":1,"recordsFiltered":1,"totalEmployee":17},"type":"success","fade":false}

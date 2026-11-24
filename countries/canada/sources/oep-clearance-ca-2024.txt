@@ -1,0 +1,4 @@
+# OEP country-clearance report, Canada (country_id 32), all workers, 2024-01-01 to 2024-12-31, queried 2026-11-23
+Canada all workers 2024: total_employee 534
+https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2024-01-01&approval_date_to=2024-12-31&country_id%5B%5D=32&gender_id=
+{"success":true,"code":null,"payload":{"data":[{"country_id":32,"country_name":"Canada","total_employee":534}],"recordsTotal":1,"recordsFiltered":1,"totalEmployee":534},"type":"success","fade":false}

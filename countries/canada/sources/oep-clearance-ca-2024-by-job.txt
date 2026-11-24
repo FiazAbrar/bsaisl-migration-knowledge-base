@@ -1,0 +1,78 @@
+# OEP country-clearance report, Canada (country_id 32), by job category, 2024-01-01 to 2024-12-31, queried 2026-11-23
+Sum of categories: 534; categories listed: 74
+Canada | Worker | 332
+Canada | Cook | 30
+Canada | Chef/Cook | 26
+Canada | Manager | 9
+Canada | Restaurant Labour | 9
+Canada | Kitchen Steward | 8
+Canada | Labour | 6
+Canada | Food Server | 6
+Canada | ANY JOB | 6
+Canada | Nurse | 5
+Canada | Supervisor | 5
+Canada | Cleaner | 5
+Canada | Accountant | 4
+Canada | Cook Helper | 4
+Canada | Assistant Manager | 4
+Canada | Kitchen Worker | 3
+Canada | Construction Worker | 2
+Canada | Baby Sitter | 2
+Canada | Baker | 2
+Canada | Banker | 2
+Canada | Carpenter | 2
+Canada | Cashier | 2
+Canada | Catering Handler | 2
+Canada | Director | 2
+Canada | Engineer | 2
+Canada | Management Information System | 2
+Canada | Officer | 2
+Canada | Plumber | 2
+Canada | Salesman | 2
+Canada | Welder/Fabricator | 2
+Canada | Finishing Man | 1
+Canada | Food Processing And Preservation | 1
+Canada | Cont. Cook | 1
+Canada | General Labour | 1
+Canada | General/SemiSkill | 1
+Canada | Hospital Management | 1
+Canada | Hotel boy | 1
+Canada | House Worker | 1
+Canada | ICT BUSINESS ANALYST | 1
+Canada | IT Professional | 1
+Canada | Consultant | 1
+Canada | Computer Programmer/Software Developer | 1
+Canada | Computer Operator | 1
+Canada | Loading Unloading Labour | 1
+Canada | Telephone Operator | 1
+Canada | Care Taker | 1
+Canada | Marble Technician | 1
+Canada | Butcher | 1
+Canada | Office Assistant | 1
+Canada | Textile Engineer | 1
+Canada | Operation Manager | 1
+Canada | Pipe Fitting Labour | 1
+Canada | Pipe Worker | 1
+Canada | Pipe-Fitter Landscape | 1
+Canada | Plastic Machine Operator | 1
+Canada | Waiter | 1
+Canada | Business | 1
+Canada | Sales Manager | 1
+Canada | Administrative Officer | 1
+Canada | Service Assistant | 1
+Canada | Software Engineer | 1
+Canada | Steel Worker | 1
+Canada | Steeple Jack | 1
+Canada | Store Keeper | 1
+Canada | Agriculture Labour | 1
+Canada | Supervisor(Operation) | 1
+Canada | Supervisor(Store) | 1
+Canada | Crew | 1
+Canada | Data Entry Operator | 1
+Canada | Teacher | 1
+Canada | Drafts Man | 1
+Canada | Driver | 1
+Canada | Electroplating Labour | 1
+Canada | Technician | 1
+https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=200&approval_date_from=2024-01-01&approval_date_to=2024-12-31&country_id%5B%5D=32&gender_id=&all_skills=1
+{"success":true,"code":null,"payload":{"data":[{"country_id":32,"country_name":"Canada","total_employee":332,"category_name":"Worker"},{"country_id":32,"country_name":"Canada","total_employee":30,"category_name":"Cook"},{"country_id":32,"country_name":"Canada","total_employee":26,"category_name":"Chef\/Cook"},{"country_id":32,"country_name":"Canada","total_employee":9,"category_name":"Manager"},{"country_id":32,"country_name":"Canada","total_employee":9,"category_name":"Restaurant Labour"},{"country_id":32,"country_name":"Canada","total_employee":8,"category_name":"Kitchen Steward"},{"country_id":32,"country_name":"Canada","total_employee":6,"category_name":"Labour"},{"country_id":32,"country_name":"Canada","total_employee":6,"category_name":"Food Server"},{"country_id":32,"country_name":"Canada","total_employee":6,"category_name":"ANY JOB"},{"country_id":32,"country_name":"Canada","total_employee":5,"category_name":"Nurse"},{"country_id":32,"country_name":"Canada","total_employee":5,"category_name":"Supervisor"},{"country_id":32,"country_name":"Canada","total_employee":5,"category_name":"Cleaner"},{"country_id":32,"country_name":"Canada","total_employee":4,"category_name":"Accountant"},{"country_id":32,"country_name":"Canada","total_employee":4,"category_name":"Cook Helper"},{"country_id":32,"country_name":"Canada","total_employee":4,"category_name":"Assistant Manager"},{"country_id":32,"country_name":"Canada","total_employee":3,"category_name":"Kitchen Worker"},{"country_id":32,"country_name":"Canada","total_employee":2,"category_name":"Construction Worker"},{"country_id":32,"country_name":"Canada","total_employee":2,"category_name":"Baby Sitter"},{"country_id":32,"country_name":"Canada","total_employee":2,"category_name":"Baker"},{"country_id":32,"country_name":"Canada","total_employee":2,"category_name":"Banker"},{"country_id":32,"country_name":"Canada","total_employee":2,"category_name":"Carpenter"},{"country_id":32,"country_name":"Canada","total_employee":2,"category_name":"Cashier"},{"country_id":32,"country_name":"Canada","total_employee":2,"category_name":"Catering Handler"},{"country_id":32,"country_name":"Canada","total_employee":2,"category_name":"Director"},{"country_id":32,"country_name":"Canada","total_employee":2,"category_name":"Engineer"},{"country_id":32,"country_name":"Canada","total_employee":2,"category_name":"Management Information System"},{"country_id":32,"country_name":"Canada","total_employee":2,"category_name":"Officer"},{"country_id":32,"country_name":"Canada","total_employee":2,"category_name":"Plumber"},{"country_id":32,"country_name":"Canada","total_employee":2,"category_name":"Salesman"},{"country_id":32,"country_name":"Canada","total_employee":2,"category_name":"Welder\/Fabricator"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Finishing Man"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Food Processing And Preservation"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Cont. Cook"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"General Labour"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"General\/SemiSkill"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Hospital Management"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Hotel boy"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"House Worker"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"ICT BUSINESS ANALYST"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"IT Professional"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Consultant"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Computer Programmer\/Software Developer"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Computer Operator"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Loading Unloading Labour"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Telephone Operator"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Care Taker"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Marble Technician"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Butcher"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Office Assistant"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Textile Engineer"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Operation Manager"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Pipe Fitting Labour"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Pipe Worker"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Pipe-Fitter Landscape"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Plastic Machine Operator"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Waiter"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Business"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Sales Manager"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Administrative Officer"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Service Assistant"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Software Engineer"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Steel Worker"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Steeple Jack"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Store Keeper"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Agriculture Labour"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Supervisor(Operation)"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Supervisor(Store)"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Crew"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Data Entry Operator"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Teacher"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Drafts Man"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Driver"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Electroplating Labour"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Technician"}],"recordsTotal":74,"recordsFiltered":74,"totalEmployee":534},"type":"success","fade":false}
