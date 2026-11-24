@@ -4,9 +4,9 @@
 
 Sources checked up to 24 Nov 2026.
 
-What happens to Bangladeshis who go to Lebanon for work, for Bangladesh passport holders, as of November 2026. It is built from Prothom Alo reporting (2024 to May 2026) and from the official pages of Lebanon's General Directorate of General Security and Ministry of Labour, the Bangladesh Embassy in Beirut, BMET and the Wage Earners' Welfare Board. A raised number such as 3 is an official source; N3 is a news, NGO (non-governmental organisation), research or guide source, listed under "Needs an official source"; a year, like N3 (2022), marks a source older than 2025. "Need to know" marks a point no source has yet confirmed.
+What happens to Bangladeshis who go to Lebanon for work, for Bangladesh passport holders, as of November 2026. It is built from Prothom Alo reporting (2024 to May 2026) and from the official pages of Lebanon's General Directorate of General Security and Ministry of Labour, the Bangladesh Embassy in Beirut, BMET (the Bureau of Manpower, Employment and Training, which clears Bangladeshis going abroad for work) and the Wage Earners' Welfare Board. A raised number such as 3 is an official source; N3 is a news, NGO (non-governmental organisation), research or guide source, listed under "Needs an official source"; a year, like N3 (2022), marks a source older than 2025. "Need to know" marks a point no source has yet confirmed.
 
-Tk is the Bangladeshi taka (1 lakh is Tk 100,000; 1 crore is 100 lakh). LBP is the Lebanese pound (also called the Lebanese lira). IOM is the International Organization for Migration, the UN migration agency, which helped bring Bangladeshis home from Lebanon in 2024 <sup>[N1 (2024)](#n1), [N2 (2024)](#n2), [N3 (2024)](#n3)</sup>. General Security (GS) is the Lebanese agency that issues visas and residence permits to foreigners and runs the borders; the Ministry of Labour (MoL) issues work permits <sup>[1](#o1)</sup>. The "kafil" is the sponsor, normally the employer, under whose name a worker's visa and residence permit are issued; the system is called kafala <sup>[N4](#n4), [N5 (2020)](#n5)</sup>. The "akama" is the residence permit <sup>[2 (2024)](#o2)</sup>.
+Tk is the Bangladeshi taka (1 lakh is Tk 100,000; 1 crore is 100 lakh). LBP is the Lebanese pound (also called the Lebanese lira). IOM is the International Organization for Migration, the UN migration agency, which helped bring Bangladeshis home from Lebanon in 2024 <sup>[N1 (2024)](#n1), [N2 (2024)](#n2), [N3 (2024)](#n3)</sup>. General Security (GS) is the Lebanese agency that issues visas and residence permits to foreigners and runs the border posts; the Ministry of Labour (MoL) issues work permits <sup>[1](#o1), [2](#o2)</sup>. The "kafil" is the sponsor, normally the employer, under whose name a worker's visa and residence permit are issued; the system is called kafala <sup>[N4](#n4), [N5 (2020)](#n5)</sup>. The "akama" is the residence permit <sup>[3 (2024)](#o3)</sup>.
 
 <a id="contents"></a>
 
@@ -63,7 +63,7 @@ Tk is the Bangladeshi taka (1 lakh is Tk 100,000; 1 crore is 100 lakh). LBP is t
 
 ### 1.1 In one minute
 
-Somewhere between 70,000 and 150,000 Bangladeshis live in Lebanon, by the government's and a research group's estimates, and by the research group's count more than half are women (see [The size of the community](#the-size-of-the-community)) <sup>[N6 (2024)](#n6), [N4](#n4)</sup>. Women can hold papers only as domestic workers in Lebanese homes; men work on farms, as building concierges (natur) or for companies <sup>[2 (2024)](#o2), [3 (2024)](#o3)</sup>. BMET cleared 119,169 workers for Lebanon in 2011 but no more than 4,225 a year since 2020 <sup>[4](#o4)</sup>. A Lebanese employer brings a worker through a Lebanese recruitment office and its partner agency in Dhaka, and under kafala the worker's legal stay depends on that employer: changing jobs needs the employer's signed waiver, and a worker who leaves the house can be reported to General Security (see [What ties you to the employer](#what-ties-you-to-the-employer)) <sup>[N7 (2015)](#n7), [5](#o5), [6](#o6)</sup>. Lebanon has twice been a war zone for them since 2024 <sup>[N1 (2024)](#n1), [N4](#n4)</sup>. In the Israeli strikes and ground attack of autumn 2024, about 1,800 Bangladeshis registered to come home, and only 167 of them had valid papers; the government and IOM flew 1,246 home free of charge by January 2025 (see [Leaving during a war: the 2024 evacuation](#leaving-during-a-war-the-2024-evacuation)) <sup>[N2 (2024)](#n2), [N6 (2024)](#n6), [N8 (2024)](#n8), [N9](#n9)</sup>. Many did not want to come home despite the danger, the Foreign Adviser said, because they had spent a lot of money to go and did not know what they would do at home <sup>[N6 (2024)](#n6)</sup>. In the 2026 war, a woman worker was killed with her employer and members of his family in Beirut in April and two men in south Lebanon in May; her body took a month to come home (see [If a worker dies](#if-a-worker-dies)) <sup>[N4](#n4), [N10](#n10), [N11](#n11)</sup>.
+Somewhere between 70,000 and 150,000 Bangladeshis live in Lebanon, by the government's and a research group's estimates, and by the research group's count more than half are women (see [The size of the community](#the-size-of-the-community)) <sup>[N6 (2024)](#n6), [N4](#n4)</sup>. Under the 2024 regularisation programme women could, for the time being, be regularised only as domestic workers; the other jobs it names are farm worker, building concierge (natur) and company worker <sup>[3 (2024)](#o3), [4 (2024)](#o4)</sup>. BMET cleared 119,169 workers for Lebanon in 2011 but no more than 4,225 a year since 2020 <sup>[5](#o5)</sup>. A Lebanese employer brings a worker through a Lebanese recruitment office and its partner agency in Dhaka, and under kafala the worker's legal stay depends on that employer: changing jobs needs the employer's signed waiver, and a worker who leaves the house can be reported to General Security (see [What ties you to the employer](#what-ties-you-to-the-employer)) <sup>[N7 (2015)](#n7), [N5 (2020)](#n5), [6](#o6), [7](#o7)</sup>. Lebanon has twice been a war zone for them since 2024 <sup>[N1 (2024)](#n1), [N4](#n4)</sup>. In the Israeli strikes and ground attack of autumn 2024, about 1,800 Bangladeshis registered to come home, and only 167 of them had valid papers; the government and IOM flew 1,246 home free of charge by January 2025 (see [Leaving during a war: the 2024 evacuation](#leaving-during-a-war-the-2024-evacuation)) <sup>[N2 (2024)](#n2), [N6 (2024)](#n6), [N8 (2024)](#n8), [N9](#n9)</sup>. Many did not want to come home despite the danger, the Foreign Adviser said, because they had spent a lot of money to go and did not know what they would do at home <sup>[N6 (2024)](#n6)</sup>. In the 2026 war, a woman worker was killed with her employer and members of his family in Beirut in April and two men in south Lebanon in May; her body took a month to come home (see [If a worker dies](#if-a-worker-dies)) <sup>[N4](#n4), [N10](#n10), [N11](#n11)</sup>.
 
 <a id="is-it-open-now-and-who-can-go"></a>
 
@@ -73,7 +73,7 @@ Somewhere between 70,000 and 150,000 Bangladeshis live in Lebanon, by the govern
 
 #### 1.2.1 Status
 
-Lebanon's General Security lists Bangladesh among the countries whose nationals may enter for work in Categories 3 and 4, with no special condition; it bars recruitment of domestic workers from Nepal, Myanmar, Indonesia and some others <sup>[7](#o7)</sup>. The Bangladesh government stopped sending workers to Lebanon by a notice of 13 August 2024 because of the war, and lifted the ban on 4 March 2025 <sup>[N12](#n12)</sup>. Since then each demand letter (the employer's job offer, which a Bangladeshi agency uses to recruit) must be certified by the Bangladesh Embassy in Beirut, and workers must not be placed in the south near the Israeli border <sup>[N12](#n12)</sup>.
+Lebanon's General Security lists Bangladesh among the countries whose nationals may enter for work in Categories 3 and 4, with no special condition; it bars recruitment of domestic workers from Nepal, Myanmar, Indonesia and some others <sup>[8](#o8)</sup>. The Bangladesh government stopped sending workers to Lebanon by a notice of 13 August 2024 because of the war, and lifted the ban on 4 March 2025 <sup>[N12](#n12)</sup>. Since then each demand letter (the employer's job offer, which a Bangladeshi agency uses to recruit) must be certified by the Bangladesh Embassy in Beirut, and workers must not be placed in the south near the Israeli border <sup>[N12](#n12)</sup>.
 
 In April 2026 Israel was still attacking Lebanon, and Bangladeshi workers there were living in fear; the Middle East war began on 28 February 2026, and the attacks on Lebanon did not stop with the US-Iran ceasefire of 8 April 2026 <sup>[N4](#n4), [N11](#n11)</sup>. On 11 May 2026 an Israeli drone strike killed two Bangladeshi workers in south Lebanon <sup>[N10](#n10)</sup>. In the earlier war, Israel began air strikes on Lebanon on 17 September 2024 and a ground attack across its southern border on 30 September 2024 <sup>[N1 (2024)](#n1)</sup>.
 
@@ -85,9 +85,9 @@ In April 2026 Israel was still attacking Lebanon, and Bangladeshi workers there 
 
 #### 1.2.2 The size of the flow
 
-- **BMET clearances:** 235 in 2021, 858 in 2022, 2,594 in 2023, 4,225 in 2024 and 2,181 from January to May 2025 <sup>[4](#o4)</sup>. BMET is the Bureau of Manpower, Employment and Training, which clears Bangladeshis going abroad for work.
-- **Earlier peak:** 119,169 in 2011, and 13,900 to 19,100 a year in the other years from 2009 to 2016 <sup>[4](#o4)</sup>.
-- **All years:** 273,770 from 2004 to May 2025, 1.96% of all Bangladeshis cleared for work abroad <sup>[4](#o4)</sup>.
+- **BMET clearances:** 235 in 2021, 858 in 2022, 2,594 in 2023, 4,225 in 2024 and 2,181 from January to May 2025 <sup>[5](#o5)</sup>. BMET is the Bureau of Manpower, Employment and Training, which clears Bangladeshis going abroad for work.
+- **Earlier peak:** 119,169 in 2011, and 13,900 to 19,100 a year in the other years from 2009 to 2016 <sup>[5](#o5)</sup>.
+- **All years:** 273,770 from 2004 to May 2025, 1.96% of all Bangladeshis cleared for work abroad <sup>[5](#o5)</sup>.
 
 <a id="the-size-of-the-community"></a>
 
@@ -100,13 +100,13 @@ In April 2026 Israel was still attacking Lebanon, and Bangladeshi workers there 
 
 #### 1.2.4 Who works there and where
 
-The embassy's papers for regularising workers name four kinds of job: domestic worker (the only one open to women), company worker, farm worker and concierge (natur, a building caretaker); no worker may be regularised under a cleaning company <sup>[3 (2024)](#o3), [2 (2024)](#o2)</sup>. The reporting shows a woman who worked as a domestic worker, and a woman worker who lived and moved with her employer's family <sup>[N15 (2024)](#n15), [N4](#n4)</sup>. It shows men working in Beirut (one was killed in the Hazmieh area on his way to work) and living in the south, in Nabatieh, one of them as a labourer in a fruit orchard <sup>[N16 (2024)](#n16), [N10](#n10), [N17](#n17)</sup>. One man lived there with his wife, and their son was born there (see [Family in Lebanon](#family-in-lebanon)) <sup>[N14 (2024)](#n14)</sup>.
+The embassy's papers for regularising workers name four kinds of job: domestic worker (the only one open to women), company worker, farm worker and concierge (natur, a building caretaker); no worker may be regularised under a cleaning company <sup>[4 (2024)](#o4), [3 (2024)](#o3)</sup>. The reporting shows a woman who worked as a domestic worker, and a woman worker who lived and moved with her employer's family <sup>[N15 (2024)](#n15), [N4](#n4)</sup>. It shows men working in Beirut (one was killed in the Hazmieh area on his way to work) and living in the south, in Nabatieh, one of them as a labourer in a fruit orchard <sup>[N16 (2024)](#n16), [N10](#n10), [N17](#n17)</sup>. One man lived there with his wife, and their son was born there (see [Family in Lebanon](#family-in-lebanon)) <sup>[N14 (2024)](#n14)</sup>.
 
 <a id="how-a-job-reaches-you-and-who-takes-a-cut"></a>
 
 ### 1.3 How a job reaches you, and who takes a cut
 
-Lebanon and Bangladesh have no bilateral labour agreement, so recruitment falls only under each country's own rules <sup>[N7 (2015)](#n7)</sup>. A Lebanese family pays a Lebanese recruitment office, which works with a partner agency in Dhaka; in an ILO (International Labour Organization) study of 2015, Lebanese offices charged employers US$1,300 to 1,500 for a Bangladeshi domestic worker, the cheapest of any nationality, and paid the Dhaka agency about US$300 a recruit <sup>[N7 (2015)](#n7)</sup>. The Dhaka agency finds women through village sub-agents (brokers), who collect the woman's fee in two or three instalments and keep a "tip"; the women in the study paid tips of Tk 2,500 to 5,000 <sup>[N7 (2015)](#n7)</sup>. Recruitment from Bangladesh to a Lebanese home took 45 to 70 days <sup>[N7 (2015)](#n7)</sup>.
+By 2015 Lebanon and Bangladesh had signed no bilateral labour agreement, leaving recruitment between them subject only to each country's own rules and the Standard Unified Contract for domestic workers <sup>[N7 (2015)](#n7)</sup>. A Lebanese family pays a Lebanese recruitment office, which works with a partner agency in Dhaka; in an ILO (International Labour Organization) study of 2015, Lebanese offices charged employers US$1,300 to 1,500 for a Bangladeshi domestic worker, the cheapest of any nationality, and paid the Dhaka agency about US$300 a recruit <sup>[N7 (2015)](#n7)</sup>. The Dhaka agency finds women through village sub-agents (brokers), who collect the woman's fee in two or three instalments and keep a "tip"; the women in the study paid tips of Tk 2,500 to 5,000 <sup>[N7 (2015)](#n7)</sup>. Recruitment from Bangladesh to a Lebanese home took 45 to 70 days <sup>[N7 (2015)](#n7)</sup>.
 
 In 2026 a Satkhira man went to Lebanon through a neighbour, his family said <sup>[N17](#n17)</sup>. The Foreign Adviser said in October 2024 that many did not want to come home from the war because they had spent a lot of money to go <sup>[N6 (2024)](#n6)</sup>.
 
@@ -118,7 +118,7 @@ In 2026 a Satkhira man went to Lebanon through a neighbour, his family said <sup
 
 ### 1.4 What you pay, and what you earn and keep
 
-General Security lists the only fees that may be paid to bring a domestic worker, all of them the employer's costs: the Ministry of Labour's prior authorisation (LBP 2,000,000) and work permit (LBP 6,000,000), a deposit at the Housing Bank, the GS residence permit (LBP 18,000,000 for a woman, LBP 24,000,000 for a man), notary fees for the guarantee and contract, insurance and medical tests <sup>[8](#o8)</sup>. GS says it refuses the visa if the recruitment office, an embassy or a consulate charged anything beyond these <sup>[8](#o8)</sup>. In the 2015 ILO study, Dhaka agencies said they charged women Tk 60,000 to 80,000, against a legal maximum of Tk 20,000 <sup>[N7 (2015)](#n7)</sup>.
+General Security lists the only fees that may be paid to bring a domestic worker: the Ministry of Labour's prior authorisation (LBP 2,000,000) and work permit (LBP 6,000,000), a deposit at the Housing Bank, the GS residence permit (LBP 18,000,000 for a woman, LBP 24,000,000 for a man), notary fees for the guarantee and contract, insurance and medical tests <sup>[9](#o9)</sup>. GS says it refuses the visa if the recruitment office, an embassy or a consulate charged anything beyond these <sup>[9](#o9)</sup>. In the 2015 ILO study, Dhaka agencies said they charged women Tk 60,000 to 80,000, against a legal maximum of Tk 20,000 <sup>[N7 (2015)](#n7)</sup>.
 
 In 2026 a Satkhira man who went to work in a fruit orchard spent about Tk 12 lakh, most of it borrowed, his family said: his father sold a cow, took a loan from an NGO and borrowed from relatives <sup>[N17](#n17)</sup>. A man who returned in October 2024 after 10 years in Lebanon said he came back empty-handed <sup>[N15 (2024)](#n15)</sup>.
 
@@ -134,9 +134,9 @@ Migrant domestic workers are outside Lebanon's Labour Law; their stay is governe
 
 - **To enter:** the employer gets the Ministry of Labour's approval and the GS visa; the worker does not apply (see [Step 1: The employer's papers in Lebanon](#step-1-the-employers-papers-in-lebanon)) <sup>[1](#o1)</sup>.
 - **To renew:** the employer renews the work permit and residence permit every year (see [Step 3: Work permit and residence permit](#step-3-work-permit-and-residence-permit)) <sup>[1](#o1)</sup>.
-- **To change employer:** the old sponsor signs a waiver, the new one an undertaking, and the worker signs the waiver in person at GS to show consent; the worker keeps working for the old sponsor until it is approved (see [Changing employer](#changing-employer)) <sup>[5](#o5)</sup>.
-- **To leave the job:** an employer whose worker leaves the house can file a "Leaving the Workplace" notice against her at GS, and fees for the time she is away still fall due when she is found (see [Being reported for leaving the workplace](#being-reported-for-leaving-the-workplace)) <sup>[6](#o6)</sup>.
-- **To leave Lebanon:** a worker whose papers have expired needs a Ministry of Labour clearance certificate and must settle fines at the border (see [Without valid papers](#without-valid-papers)) <sup>[9](#o9), [10](#o10)</sup>.
+- **To change employer:** the old sponsor signs a waiver, the new one an undertaking, and the worker signs the waiver in person at GS to show consent; the worker keeps working for the old sponsor until it is approved (see [Changing employer](#changing-employer)) <sup>[6](#o6)</sup>.
+- **To leave the job:** an employer whose worker leaves the house can file a "Leaving the Workplace" notice against her at GS, and the earlier rules on paying, or being exempted from, fees for the time she is away still apply when she is found (see [Being reported for leaving the workplace](#being-reported-for-leaving-the-workplace)) <sup>[7](#o7)</sup>.
+- **To leave Lebanon:** a worker whose papers have expired needs a Ministry of Labour clearance certificate and must settle fines at the border (see [Without valid papers](#without-valid-papers)) <sup>[10](#o10), [2](#o2)</sup>.
 
 In 2026 one woman worker moved with her employer's family from the Tyre area to Beirut to escape the war, where she, her employer and members of his family were killed in an air strike on his house <sup>[N4](#n4)</sup>. About 90% of those who registered to leave in 2024 had become irregular, the Foreign Adviser said <sup>[N6 (2024)](#n6)</sup>.
 
@@ -157,20 +157,20 @@ People who moved from south to north Lebanon in 2024 to escape the bombing were 
 
 #### 1.6.2 Losing papers
 
-Of the 1,800 who registered to leave in October 2024, no one except 167 had valid papers, the Foreign Adviser said <sup>[N6 (2024)](#n6)</sup>. The embassy warns that paying a broker to fix papers cancels a regularisation application (see [Regularising your papers](#regularising-your-papers)) <sup>[2 (2024)](#o2)</sup>.
+Of the 1,800 who registered to leave in October 2024, no one except 167 had valid papers, the Foreign Adviser said <sup>[N6 (2024)](#n6)</sup>. The embassy warns that paying a broker to fix papers cancels a regularisation application (see [Regularising your papers](#regularising-your-papers)) <sup>[3 (2024)](#o3)</sup>.
 
 <a id="work-visa-domestic-worker"></a>
 
 ## 2 Work visa: domestic worker
 
-More than half of the Bangladeshi workers in Lebanon are women, by RMMRU's count, and women can hold only domestic-worker papers <sup>[N4](#n4), [2 (2024)](#o2)</sup>. The employer applies for every permit, and GS lists the fees as the employer's <sup>[1](#o1), [8](#o8)</sup>.
+More than half of the Bangladeshi workers in Lebanon are women, by RMMRU's count, and under the 2024 regularisation programme women could, for the time being, be regularised only as domestic workers <sup>[N4](#n4), [3 (2024)](#o3)</sup>. The employer applies for every permit <sup>[1](#o1)</sup>.
 
 <a id="step-1-the-employers-papers-in-lebanon"></a>
 
 ### 2.1 Step 1: The employer's papers in Lebanon
 
 1. The employer gets the Ministry of Labour's initial approval, with a copy of the worker's passport valid for at least 18 months, the employer's ID and the house title deed showing at least 300 square metres <sup>[11](#o11)</sup>.
-2. The employer gets the Ministry's prior authorisation (LBP 2,000,000) and deposits LBP 1,500,000 at the Housing Bank, which the employer can withdraw when the worker leaves Lebanon, changes sponsor or runs away <sup>[8](#o8), [11](#o11)</sup>.
+2. The employer gets the Ministry's prior authorisation (LBP 2,000,000) and deposits LBP 1,500,000 at the Housing Bank, which the employer can withdraw when the worker leaves Lebanon, changes sponsor or runs away <sup>[9](#o9), [11](#o11)</sup>.
 3. The employer applies to GS for the entry visa, showing means: for example a blocked bank account of at least LBP 150,000,000 held for 3 months, or a bank-certified salary <sup>[12](#o12)</sup>. The work visa costs LBP 2,000,000 <sup>[13](#o13)</sup>.
 
 <a id="step-2-in-bangladesh"></a>
@@ -188,8 +188,8 @@ More than half of the Bangladeshi workers in Lebanon are women, by RMMRU's count
 
 ### 2.3 Step 3: Work permit and residence permit
 
-1. After arrival the employer gets the Ministry of Labour work permit (LBP 6,000,000), with an insurance policy, your medical laboratory tests and a work contract signed before a notary <sup>[1](#o1), [8](#o8)</sup>.
-2. The employer then gets your GS residence permit: LBP 18,000,000 a year for a woman, LBP 24,000,000 for a man <sup>[8](#o8)</sup>.
+1. After arrival the employer gets the Ministry of Labour work permit (LBP 6,000,000), with an insurance policy, your medical laboratory tests and a work contract signed before a notary <sup>[1](#o1), [9](#o9)</sup>.
+2. The employer then gets your GS residence permit: LBP 18,000,000 a year for a woman, LBP 24,000,000 for a man <sup>[9](#o9)</sup>.
 3. Each year the employer renews both; the passport must have a year's validity and the work permit 6 months <sup>[1](#o1)</sup>. No new medical test is needed unless you travelled and came back, when a tuberculosis test and chest X-ray from a government hospital are required <sup>[11](#o11)</sup>.
 4. If your passport is expiring, apply for a new one at the embassy (US$33, 6 weeks); with the embassy's receipt GS gives a free temporary residence permit while you wait, if your residence permit is still valid <sup>[14 (2021)](#o14), [15](#o15)</sup>.
 
@@ -212,9 +212,9 @@ More than half of the Bangladeshi workers in Lebanon are women, by RMMRU's count
 
 ### 2.5 Changing employer
 
-1. The old sponsor signs a waiver and the new sponsor an undertaking before a notary, or all three fill in a transfer form at a GS office <sup>[5](#o5), [11](#o11)</sup>.
-2. Notarised papers go to GS within 15 days, and the application goes to the GS office covering the new sponsor's home at least 15 days before your residence permit expires <sup>[5](#o5)</sup>. Instructions in force until further notice accept transfers after the 15 days and whatever the number of earlier waivers <sup>[10](#o10)</sup>.
-3. You go in person to sign the waiver; you keep working for the old sponsor until it is approved <sup>[5](#o5)</sup>. GS charges LBP 2,000,000 <sup>[17](#o17)</sup>.
+1. The old sponsor signs a waiver and the new sponsor an undertaking before a notary, or all three fill in a transfer form at a GS office <sup>[6](#o6), [11](#o11)</sup>.
+2. The application goes to the GS office covering the new sponsor's home at least 15 days before your residence permit expires <sup>[6](#o6)</sup>. Instructions in force until further notice accept transfers whatever the number of earlier waivers, even more than 15 days after the waiver and undertaking were made <sup>[2](#o2)</sup>.
+3. You go in person to sign the waiver; you keep working for the old sponsor until it is approved <sup>[6](#o6)</sup>. GS charges LBP 2,000,000 <sup>[17](#o17)</sup>.
 
 > **Need to know**
 > - GS's transfer page says sponsorship transfer is not permitted for domestic workers, while the Ministry of Labour describes how a domestic worker's sponsorship is transferred: can a Bangladeshi domestic worker change employer in 2026?
@@ -223,9 +223,9 @@ More than half of the Bangladeshi workers in Lebanon are women, by RMMRU's count
 
 ### 2.6 Being reported for leaving the workplace
 
-1. If you leave the employer's house, the employer can file a "Leaving the Workplace" notice (formerly an absconding notice) at a GS regional office, without going to a prosecutor unless he accuses you of a crime such as theft <sup>[6](#o6)</sup>.
-2. The notice is withdrawn if the employer asks, or when you transfer to a new sponsor <sup>[6](#o6)</sup>.
-3. Fees for the time away from the job still apply when you are found, arrested or transferred <sup>[6](#o6)</sup>.
+1. If you leave the employer's house, the employer can file a "Leaving the Workplace" notice (formerly an absconding notice) at a GS regional office, without going to a prosecutor unless he accuses you of a crime such as theft <sup>[7](#o7)</sup>.
+2. The notice is withdrawn if the employer asks, or when you transfer to a new sponsor <sup>[7](#o7)</sup>.
+3. The earlier rules on paying, or being exempted from, fees for the time away from the job still apply when you are found, arrested or transferred to a new sponsor <sup>[7](#o7)</sup>.
 
 <a id="without-valid-papers"></a>
 
@@ -237,21 +237,21 @@ About 90% of the Bangladeshis who registered to leave Lebanon in October 2024 ha
 
 ### 3.1 Regularising your papers
 
-In January 2024 the Lebanese authorities restarted a programme to regularise irregular Bangladeshi workers with a new sponsor, open until GS decides otherwise <sup>[2 (2024)](#o2)</sup>. You cannot be regularised if you are in a court case, if the sponsor is fake, or if the company is blacklisted <sup>[2 (2024)](#o2)</sup>.
+In January 2024 the Lebanese authorities restarted a programme to regularise irregular Bangladeshi workers with a new sponsor, open until GS decides otherwise <sup>[3 (2024)](#o3)</sup>. You cannot be regularised if you are in a court case, if the sponsor is fake, or if the company is blacklisted <sup>[3 (2024)](#o3)</sup>.
 
-1. Go to the embassy with your new sponsor on a Tuesday or Thursday of the 1st or 3rd week of the month, 11 am to 3 pm, and fill in GS's settlement form with the embassy's help <sup>[3 (2024)](#o3)</sup>.
-2. Bring 4 colour passport photos, 2 copies of your latest passport, 2 copies of the sponsor's ID, and 2 copies of the sponsor's salary certificate (domestic worker), commercial licence (company), land certificate (farm) or building ownership certificate (concierge); add copies of your visa and akama if you have them <sup>[3 (2024)](#o3)</sup>. Without the essential papers the application is not taken <sup>[3 (2024)](#o3)</sup>.
-3. The embassy interviews you and the sponsor separately and sends the file to GS, which accepts or rejects it <sup>[2 (2024)](#o2)</sup>.
-4. If your passport has less than 18 months left, renew it at the embassy (6 to 8 weeks); if GS has only a photocopy, it tries to retrieve the original <sup>[2 (2024)](#o2)</sup>.
-5. The sponsor attests the job contract at the embassy, gets the GS file number in writing, and completes the file at GS and the Ministry of Labour <sup>[2 (2024)](#o2)</sup>.
-6. GS issues an akama or temporary akama; give the embassy a copy to close the file <sup>[2 (2024)](#o2)</sup>.
+1. Go to the embassy with your new sponsor on a Tuesday or Thursday of the 1st or 3rd week of the month, 11 am to 3 pm, and fill in GS's settlement form with the embassy's help <sup>[4 (2024)](#o4)</sup>.
+2. Bring 4 colour passport photos, 2 copies of your latest passport, 2 copies of the sponsor's ID, and 2 copies of the sponsor's salary certificate (domestic worker), commercial licence (company), land certificate (farm) or building ownership certificate (concierge); add copies of your visa and akama if you have them <sup>[4 (2024)](#o4)</sup>. Without the essential papers the application is not taken <sup>[4 (2024)](#o4)</sup>.
+3. The embassy interviews you and the sponsor separately and sends the file to GS, which accepts or rejects it <sup>[3 (2024)](#o3)</sup>.
+4. If your passport has less than 18 months left, renew it at the embassy (6 to 8 weeks); if GS has only a photocopy, it tries to retrieve the original <sup>[3 (2024)](#o3)</sup>.
+5. The sponsor attests the job contract at the embassy, gets the GS file number in writing, and completes the file at GS and the Ministry of Labour <sup>[3 (2024)](#o3)</sup>.
+6. GS issues an akama or temporary akama; give the embassy a copy to close the file <sup>[3 (2024)](#o3)</sup>.
 
 **Fees in the January 2024 notice:**
-- GS: a one-time service charge, printed as "4900,000 (nine million)" LBP, and a fine for each year without an akama of LBP 400,000 for a man or LBP 300,000 for a woman <sup>[2 (2024)](#o2)</sup>.
-- Ministry of Labour: 5 million LBP for each year without an akama, for the work permit <sup>[2 (2024)](#o2)</sup>.
-- Embassy: US$70 for contract attestation and US$33 for a new passport if needed <sup>[2 (2024)](#o2)</sup>.
+- GS: a one-time service charge, printed as "4900,000 (nine million)" LBP, and a fine for each year without an akama of LBP 400,000 for a man or LBP 300,000 for a woman <sup>[3 (2024)](#o3)</sup>.
+- Ministry of Labour: 5 million LBP for each year without an akama, for the work permit <sup>[3 (2024)](#o3)</sup>.
+- Embassy: US$70 for contract attestation and US$33 for a new passport if needed <sup>[3 (2024)](#o3)</sup>.
 
-Do not pay any broker: dealing through a third person cancels the application <sup>[2 (2024)](#o2)</sup>.
+Do not pay any broker: dealing through a third person cancels the application <sup>[3 (2024)](#o3)</sup>.
 
 > **Need to know**
 > - Is the regularisation programme still open in 2026, and is the GS service charge 4.9 or 9 million LBP?
@@ -260,11 +260,11 @@ Do not pay any broker: dealing through a third person cancels the application <s
 
 ### 3.2 Leaving Lebanon with expired papers
 
-1. Get a clearance certificate on the Ministry of Labour website (www.labor.gov.lb), paid through the authorised payment company; since 1 November 2024 it is required to leave with an expired work visa or residence permit <sup>[9](#o9)</sup>.
-2. Settle your status at the border post, whatever the length of the violation, with your original residence permit; fines are counted to the day you leave <sup>[10](#o10)</sup>. You can also ask for a travel grace period at GS's Public Relations Department or a regional centre <sup>[10](#o10)</sup>.
+1. Get a clearance certificate on the Ministry of Labour website (www.labor.gov.lb), paid through the authorised payment company; since 1 November 2024 it is required to leave with an expired work visa or residence permit <sup>[10](#o10)</sup>.
+2. Settle your status at the border post, whatever the length of the violation, with your original residence permit; fines are counted to the day you leave <sup>[2](#o2)</sup>. You can also ask for a travel grace period at GS's Public Relations Department or a regional centre <sup>[2](#o2)</sup>.
 3. The embassy issues a travel permit for US$15 in 3 working days <sup>[14 (2021)](#o14)</sup>.
-4. In June 2025 GS let foreigners leave free for a time: from 13 June 2025 anyone with expired papers could settle free at the airport with a ticket <sup>[N20](#n20)</sup>.
-5. GS questions: 1717 (see [Contacts](#contacts)) <sup>[9](#o9)</sup>.
+4. From 13 June 2025, GS said, foreigners whose visas or residence permits had expired could settle their status free at the airport if they showed an airline ticket and left at once <sup>[N20](#n20)</sup>.
+5. GS questions: 1717 (see [Contacts](#contacts)) <sup>[10](#o10)</sup>.
 
 > **Need to know**
 > - What does the Ministry of Labour clearance certificate cost in 2026, and was the 2024 exit-fine waiver the Foreign Adviser sought granted?
@@ -392,8 +392,8 @@ The Faridpur centre's assistant director said the war and disrupted flights caus
 
 ### 8.2 What the family gets
 
-- **Tk 35,000 at the airport** for every migrant worker's body, for transport and burial; bring the heirship certificate from the union parishad chairman, mayor or councillor, and a photo and NID or passport copy of the family's nominee <sup>[21](#o21)</sup>.
-- **Tk 3 lakh grant** from the Wage Earners' Welfare Board, only if the worker had BMET emigration clearance or Board membership, and only for a death in the country the clearance was for <sup>[20](#o20)</sup>. It goes to the spouse, children and parents, or to full siblings if the worker was unmarried and both parents are dead <sup>[20](#o20)</sup>. A family that took the Tk 35,000 cheque need not apply separately; if the body was buried in Lebanon, apply within a year to the Board or the district probashi kallyan centre <sup>[20](#o20)</sup>. The papers include a family certificate countersigned by the UNO (upazila nirbahi officer, the head of the sub-district administration), an indemnity on Tk 400 stamp paper, the embassy's NOC or death certificate and a bank certificate <sup>[20](#o20)</sup>.
+- **Tk 35,000 at the airport** for every migrant worker's body, for transport and burial; bring the heirship certificate from the union parishad chairman, mayor or councillor, and a photo and national ID card (NID) or passport copy of the family's nominee <sup>[21](#o21)</sup>.
+- **Tk 3 lakh grant** from the Wage Earners' Welfare Board, only if the worker had BMET emigration clearance or Board membership, and only for a death in the country the clearance was for <sup>[20](#o20)</sup>. It goes to the spouse, children and parents, or to full siblings if the worker was unmarried and both parents are dead <sup>[20](#o20)</sup>. A family that took the Tk 35,000 cheque need not apply separately; if the body was buried in Lebanon, apply within a year to the Board or the district probashi kallyan centre <sup>[20](#o20)</sup>. The papers include a family certificate countersigned by the UNO (upazila nirbahi officer, the head of the sub-district administration), an indemnity on Tk 400 stamp paper, the embassy's NOC (no-objection certificate) or death certificate and a bank certificate <sup>[20](#o20)</sup>.
 - **Compensation from Lebanon,** if any, goes through the embassy: send it an original power of attorney in the embassy's favour and an original letter of succession, both attested by the Ministry of Foreign Affairs, and the recipient's bank details through the Wage Earners' Welfare Board <sup>[18 (2021)](#o18)</sup>.
 
 In the April 2026 case, Faridpur officials said the government would take the body home by free ambulance, give the family Tk 35,000 for burial at the airport and later Tk 3 lakh <sup>[N23](#n23), [N11](#n11)</sup>. When the body arrived in May, the Tk 35,000 was paid at the airport, with the Tk 3 lakh to follow under government rules <sup>[N25](#n25)</sup>. It could not be said whether any help would come from the Lebanese government, since she died in war, the district employment and manpower office said <sup>[N23](#n23)</sup>. The UNO gave the family Tk 10,000 and a dry-food package from the Ministry of Relief <sup>[N23](#n23)</sup>. The general rules for all countries are covered elsewhere (see "If a worker dies abroad" in the Services for migrants and their families doc).
@@ -422,7 +422,7 @@ Returnees of 2024 asked the government for help to restart: one, back with his w
 
 - **Hours:** 9:00 am to 4:30 pm, Monday to Friday, break 1:30 to 2:00 pm; closed Saturday and Sunday <sup>[22](#o22)</sup>.
 - **Labour officer:** Mohammad Anwar Hossain, First Secretary (Labour) and Head of Chancery, fslebanon@probashi.gov.bd, +961 1 486 312, 313 or 314 <sup>[23](#o23)</sup>. In May 2026 he headed the embassy <sup>[N11](#n11)</sup>.
-- **Phones in the January 2024 notice:** front desk 71217139, helpline 81744207, landline 01842586 <sup>[2 (2024)](#o2)</sup>.
+- **Phones in the January 2024 notice:** front desk 71217139, helpline 81744207, landline 01842586 <sup>[3 (2024)](#o3)</sup>.
 - **What it has done:** registered people to fly home in 2024; handled the papers to send a body home in 2026; held a special service week for consular and welfare services from 22 to 31 December 2023, with a public hearing, and a free health camp in June 2024 <sup>[N1 (2024)](#n1), [N11](#n11), [N22 (2024)](#n22), [N21 (2024)](#n21)</sup>.
 
 > **Need to know**
@@ -450,15 +450,15 @@ Returnees of 2024 asked the government for help to restart: one, back with his w
 ### Official sources
 
 1. <a id="o1"></a>General Directorate of General Security, Lebanon. [The documents required to obtain a domestic worker](https://www.general-security.gov.lb/en/posts/23). Accessed 23 Nov 2026. Undated: possibly outdated.
-2. <a id="o2"></a>Embassy of Bangladesh, Beirut, 29 Jan 2024. [Notice: regularisation (settlement) programme for irregular Bangladeshi workers in Lebanon](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-beirut-mofa/2024/12/a5bbf380d17241a89c5d7c96666e1392.pdf). Accessed 23 Nov 2026. Possibly outdated.
-3. <a id="o3"></a>Embassy of Bangladesh, Beirut, 30 Jan 2024. [Notice to irregular Bangladeshi workers: documents for regularisation (settlement)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-beirut-mofa/2024/12/0bda7f21656944eebc694a682bec7a6c.pdf). Accessed 23 Nov 2026. Possibly outdated.
-4. <a id="o4"></a>BMET (Bureau of Manpower, Employment and Training), 1 Jul 2025. [Overseas employment and remittances by country 2004 to May 2025 (Lebanon column)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bmet/2024/12/5a7da9cf93d747148e3069c06faa0370.jpg#lebanon). Accessed 24 Nov 2026. Possibly outdated.
-5. <a id="o5"></a>General Directorate of General Security, Lebanon. [Sponsorship Transfer Applications](https://www.general-security.gov.lb/en/posts/170). Accessed 23 Nov 2026. Undated: possibly outdated.
-6. <a id="o6"></a>General Directorate of General Security, Lebanon. [Complaint Regarding an Escaping Foreign Worker](https://www.general-security.gov.lb/en/posts/324). Accessed 23 Nov 2026. Undated: possibly outdated.
-7. <a id="o7"></a>General Directorate of General Security, Lebanon. [Entry of Nationals from Labour-Supplying Countries](https://www.general-security.gov.lb/en/posts/561). Accessed 23 Nov 2026. Undated: possibly outdated.
-8. <a id="o8"></a>General Directorate of General Security, Lebanon. [Fees for hiring a domestic worker](https://www.general-security.gov.lb/en/posts/168). Accessed 23 Nov 2026. Undated: possibly outdated.
-9. <a id="o9"></a>General Directorate of General Security, Lebanon. [Clearance Certificate for Violators of Work Visas and Residence Permits upon Departure](https://www.general-security.gov.lb/en/posts/431). Accessed 23 Nov 2026. Undated: possibly outdated.
-10. <a id="o10"></a>General Directorate of General Security, Lebanon. [Regularizing the status of Arab and foreign residents for departure and transfer of sponsorship (kafala transfer)](https://www.general-security.gov.lb/en/posts/444). Accessed 23 Nov 2026. Undated: possibly outdated.
+2. <a id="o2"></a>General Directorate of General Security, Lebanon. [Regularizing the status of Arab and foreign residents for departure and transfer of sponsorship (kafala transfer)](https://www.general-security.gov.lb/en/posts/444). Accessed 23 Nov 2026. Undated: possibly outdated.
+3. <a id="o3"></a>Embassy of Bangladesh, Beirut, 29 Jan 2024. [Notice: regularisation (settlement) programme for irregular Bangladeshi workers in Lebanon](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-beirut-mofa/2024/12/a5bbf380d17241a89c5d7c96666e1392.pdf). Accessed 23 Nov 2026. Possibly outdated.
+4. <a id="o4"></a>Embassy of Bangladesh, Beirut, 30 Jan 2024. [Notice to irregular Bangladeshi workers: documents for regularisation (settlement)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-beirut-mofa/2024/12/0bda7f21656944eebc694a682bec7a6c.pdf). Accessed 23 Nov 2026. Possibly outdated.
+5. <a id="o5"></a>BMET (Bureau of Manpower, Employment and Training), 1 Jul 2025. [Overseas employment and remittances by country 2004 to May 2025 (Lebanon column)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bmet/2024/12/5a7da9cf93d747148e3069c06faa0370.jpg#lebanon). Accessed 24 Nov 2026. Possibly outdated.
+6. <a id="o6"></a>General Directorate of General Security, Lebanon. [Sponsorship Transfer Applications](https://www.general-security.gov.lb/en/posts/170). Accessed 23 Nov 2026. Undated: possibly outdated.
+7. <a id="o7"></a>General Directorate of General Security, Lebanon. [Complaint Regarding an Escaping Foreign Worker](https://www.general-security.gov.lb/en/posts/324). Accessed 23 Nov 2026. Undated: possibly outdated.
+8. <a id="o8"></a>General Directorate of General Security, Lebanon. [Entry of Nationals from Labour-Supplying Countries](https://www.general-security.gov.lb/en/posts/561). Accessed 23 Nov 2026. Undated: possibly outdated.
+9. <a id="o9"></a>General Directorate of General Security, Lebanon. [Fees for hiring a domestic worker](https://www.general-security.gov.lb/en/posts/168). Accessed 23 Nov 2026. Undated: possibly outdated.
+10. <a id="o10"></a>General Directorate of General Security, Lebanon. [Clearance Certificate for Violators of Work Visas and Residence Permits upon Departure](https://www.general-security.gov.lb/en/posts/431). Accessed 23 Nov 2026. Undated: possibly outdated.
 11. <a id="o11"></a>Ministry of Labour, Lebanon. [Frequently asked questions (Arabic)](https://www.labor.gov.lb/FAQ.aspx). Accessed 23 Nov 2026. Archived copy, Wayback Machine, 10 Feb 2026: [https://web.archive.org/web/20260210055657/https://labor.gov.lb/FAQ.aspx](https://web.archive.org/web/20260210055657/https://labor.gov.lb/FAQ.aspx). Undated: possibly outdated.
 12. <a id="o12"></a>General Directorate of General Security, Lebanon. [Application for a domestic worker entry visa](https://www.general-security.gov.lb/en/posts/171). Accessed 23 Nov 2026. Undated: possibly outdated.
 13. <a id="o13"></a>General Directorate of General Security, Lebanon. [Types Of Visas](https://www.general-security.gov.lb/en/posts/37). Accessed 23 Nov 2026. Undated: possibly outdated.
