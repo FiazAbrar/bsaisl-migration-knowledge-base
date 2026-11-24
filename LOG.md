@@ -18,6 +18,14 @@ How to write an entry: add it at the top, under this line, in this shape. Keep i
 
 ---
 
+## 2026-11-24 · Bot reads indented Need to know blocks; open questions kept out of search and previews · agent for Angkon-Dutta-Joy
+
+- **Done:** the bot missed every `> **Need to know**` block indented under a numbered step (449 of 1,977 in the guides): their questions reached the AI as plain text without the "never state as fact" label. `src/kb/parse.ts` now finds them (sections flagged with open questions 1,487 → 1,686; raw blocks left 256 → 0; section count unchanged at 3,633). Open questions no longer match a search or appear in a test-mode preview, where the AI-only label "OPEN QUESTIONS (not confirmed…)" was being shown to people; the AI still gets them in full through `read_section`.
+- **Where:** `navigator-bot/src/kb/parse.ts`, `src/kb/index.ts`, tests in `test/kb/`. The rules file is not touched because pull request #17 moves `KB-STRUCTURE.md` into `CLAUDE.md` ("What the bot reads"); once it merges, its open-questions rule should say a block indented under a numbered step counts too.
+- **Checked by:** 105 tests pass (3 new); `npm run eval` unchanged (test mode 21/38, AI search 35/38); `npm run kb:check` against `main` passes.
+- **Tried and dropped:** retuning search ranking (BM25 length weight b = 0.75/0.5/0.3, heading boost 4/2/1) so the Saudi Wafid section beats "Medical treatment visa" for a Bangla medical question: no setting changed the eval for the better (one was worse) and none put Wafid first. The cause is word matching, not tuning; the AI path already finds Wafid for this question.
+- **Open:** test mode still lists "Medical treatment visa" first for "সৌদিতে মেডিকেল কিভাবে করব?".
+
 ## 2026-11-24 · Bot eval set corrected; Bangla and Banglish search words · agent for Angkon-Dutta-Joy
 
 - **Done:** `evals/questions.csv`: 8 out-of-date expected sections updated to the current headings and 4 expected answers that the guides now contradict rewritten (Malaysia Q02 and Q09, Saudi PDO Q17, house-driver price Q37); new `search_words` column with the English keywords a model would send, written blind to the answers. `evals/run.ts`: splits several expected sections on `;`, no longer counts a parent section as a hit, and reports test mode (top 3) and the AI's search (top 8 per query) per language. New `src/kb/synonyms.ts`: Bangla (with case endings) and Banglish words also search for the English words the guides use, and Banglish filler words are ignored. Result on the 38 questions with a section: test mode 14 → 21 (Bangla 3 → 10, English 9 → 10, Banglish 2 → 1); AI search words 35/38 before and after.

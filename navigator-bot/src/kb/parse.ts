@@ -71,14 +71,17 @@ export function cleanSection(
       .replace(CITE_RE, (_all, group: string) => citationMarker(splitIds(group), kinds))
       .trimEnd();
     const stripped = text.replace(/^[> ]+/, "").trim();
-    if (text.startsWith(">") && stripped.toLowerCase().includes("need to know")) {
+    // A Need to know block may sit inside a numbered step, indented under it ("   > **Need to know**").
+    const indent = /^ */.exec(text)?.[0] ?? "";
+    const quoted = text.trimStart().startsWith(">");
+    if (quoted && stripped.toLowerCase().includes("need to know")) {
       inNeedToKnow = true;
       openQuestions = true;
-      out.push(OPEN_QUESTIONS_LABEL);
+      out.push(`${indent}${OPEN_QUESTIONS_LABEL}`);
       continue;
     }
-    if (inNeedToKnow && text.startsWith(">")) {
-      out.push(`  ${stripped}`);
+    if (inNeedToKnow && quoted) {
+      out.push(`${indent}  ${stripped}`);
       continue;
     }
     inNeedToKnow = false;
@@ -89,6 +92,28 @@ export function cleanSection(
     .replace(/\n{3,}/g, "\n\n")
     .trim();
   return { body, facts: [...new Set(facts)], openQuestions };
+}
+
+/**
+ * A section's text without its OPEN QUESTIONS blocks: what search matches and what test mode shows.
+ * The questions are gaps, not content, and the label is written for the AI, not for people.
+ */
+export function withoutOpenQuestions(text: string): string {
+  const out: string[] = [];
+  let blockIndent: string | undefined;
+  for (const line of text.split("\n")) {
+    if (line.trim() === OPEN_QUESTIONS_LABEL) {
+      blockIndent = /^ */.exec(line)?.[0] ?? "";
+      continue;
+    }
+    if (blockIndent !== undefined && line.trim() !== "" && line.startsWith(`${blockIndent}  `)) continue;
+    blockIndent = undefined;
+    out.push(line);
+  }
+  return out
+    .join("\n")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
 }
 
 /** Split a long section into parts of at most MAX_WORDS, at blank lines (or at lines inside a long list). */

@@ -13,7 +13,7 @@ import { tokenizer as oramaTokenizer } from "@orama/orama/components";
 import { parse as parseCsv } from "csv-parse/sync";
 import { CountryMatcher } from "./countries.ts";
 import { discover, type GuideKind } from "./discover.ts";
-import { type FactKinds, parseDoc } from "./parse.ts";
+import { type FactKinds, parseDoc, withoutOpenQuestions } from "./parse.ts";
 import { BANGLISH_STOPWORDS, englishFor } from "./synonyms.ts";
 
 const run = promisify(execFile);
@@ -194,7 +194,13 @@ export class KnowledgeBase {
     const db = create({ schema, components: { tokenizer } });
     await insertMultiple(
       db,
-      sections.map((s) => ({ id: String(s.id), slug: s.slug, path: s.path, text: s.text })),
+      // Open questions are gaps, not content: they neither match a search nor show in a snippet.
+      sections.map((s) => ({
+        id: String(s.id),
+        slug: s.slug,
+        path: s.path,
+        text: withoutOpenQuestions(s.text),
+      })),
     );
 
     const meta: KbMeta = {
@@ -265,7 +271,7 @@ export class KnowledgeBase {
         path: s.path,
         part: s.part,
         openQuestions: s.openQuestions,
-        snippet: snippet(s.text, stemmed),
+        snippet: snippet(withoutOpenQuestions(s.text), stemmed),
         score: hit.score,
       };
     });

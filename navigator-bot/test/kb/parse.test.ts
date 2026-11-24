@@ -1,5 +1,12 @@
 import { describe, expect, it } from "vitest";
-import { citationMarker, MAX_WORDS, OPEN_QUESTIONS_LABEL, parseDoc, splitLong } from "../../src/kb/parse.ts";
+import {
+  citationMarker,
+  MAX_WORDS,
+  OPEN_QUESTIONS_LABEL,
+  parseDoc,
+  splitLong,
+  withoutOpenQuestions,
+} from "../../src/kb/parse.ts";
 import { SAUDI_DOC } from "../helpers/kb-fixture.ts";
 
 const kinds = new Map([
@@ -55,6 +62,25 @@ describe("parseDoc", () => {
     expect(doc.sections[2]?.openQuestions).toBe(false);
   });
 
+  it("finds a Need to know block indented inside a numbered step", () => {
+    const md = [
+      "# T",
+      "",
+      "## Step 1",
+      "",
+      "1. **Enrol** on OEP.",
+      "",
+      "   > **Need to know**",
+      "   > - Does the app still work?",
+      "",
+      "2. **Attend** all 3 days.",
+    ].join("\n");
+    const s = parseDoc(md, "x").sections[0];
+    expect(s?.openQuestions).toBe(true);
+    expect(s?.text).toContain(`   ${OPEN_QUESTIONS_LABEL}\n     - Does the app still work?`);
+    expect(s?.text).not.toContain("**Need to know**");
+  });
+
   it("removes citations from headings", () => {
     const d = parseDoc("# T\n\n## Fees [A0001]\n\nText\n", "x");
     expect(d.sections[0]?.path).toBe("Fees");
@@ -76,5 +102,34 @@ describe("splitLong", () => {
   it("splits one long list block by line", () => {
     const list = Array.from({ length: 200 }, (_, i) => `- item ${i} has five words`).join("\n");
     expect(splitLong(list).length).toBeGreaterThan(1);
+  });
+});
+
+describe("withoutOpenQuestions", () => {
+  it("drops open-question blocks, top-level and indented, and keeps the rest", () => {
+    const md = [
+      "# T",
+      "",
+      "## A",
+      "",
+      "Fees are Tk 200.",
+      "",
+      "> **Need to know**",
+      "> - Is it Tk 250?",
+      "",
+      "1. **Enrol** on OEP.",
+      "",
+      "   > **Need to know**",
+      "   > - Does the app work?",
+      "",
+      "2. **Attend** all 3 days.",
+    ].join("\n");
+    const text = parseDoc(md, "x").sections[0]?.text ?? "";
+    const clean = withoutOpenQuestions(text);
+    expect(clean).not.toContain(OPEN_QUESTIONS_LABEL);
+    expect(clean).not.toContain("Tk 250");
+    expect(clean).not.toContain("Does the app work");
+    expect(clean).toContain("Fees are Tk 200.");
+    expect(clean).toContain("2. **Attend** all 3 days.");
   });
 });

@@ -47,6 +47,13 @@ describe("KnowledgeBase.search", () => {
     expect(kb.search("calling visas", "malaysia")[0]?.path).toBe("Work visa > Step 1: Calling visa");
   });
 
+  it("doesn't match or show open questions", () => {
+    expect(kb.search("house driver Dhaka", "saudi-arabia")).toEqual([]);
+    const hit = kb.search("corridor open", "saudi-arabia")[0];
+    expect(hit?.path).toBe("Background > Is it open now?");
+    expect(hit?.snippet).not.toContain("OPEN QUESTIONS");
+  });
+
   it("returns nothing for stopwords only", () => {
     expect(kb.search("what is the")).toEqual([]);
   });
