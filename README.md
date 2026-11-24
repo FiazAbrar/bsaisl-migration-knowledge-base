@@ -49,6 +49,7 @@ Elsewhere:
 - tools: scripts that save sources, check each quote against its saved copy, and build the doc (numbered headings, linked references and a .pdf if LibreOffice is installed)
 - official-pdfs and data: Bangladesh-side documents and BMET's recruiting-agency list
 - datasets: raw collections behind the docs, such as the Prothom Alo migration archive, with the scripts that built them
+- MANUAL-DOWNLOADS.md: official pages that block automated reading, for someone to save by hand (most important first)
 - LOG.md: what has been done, by whom, how it was checked, what was tried and dropped, and what is open
 - CLAUDE.md: the rules every doc follows
 - PROMPT.md: the message to paste into Claude Code to start a new country
