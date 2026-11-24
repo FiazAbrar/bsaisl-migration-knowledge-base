@@ -49,3 +49,57 @@ pa-2026-05-23-fyepglv221,https://www.prothomalo.com/world/usa/fyepglv221,2026-11
 pa-2026-07-09-fjoqmc45y6,https://www.prothomalo.com/world/asia/fjoqmc45y6,2026-11-23,200,,manual,pa-2026-07-09-fjoqmc45y6.md
 pa-2026-09-20-ibh4nvgqz9,https://www.prothomalo.com/world/usa/ibh4nvgqz9,2026-11-23,200,,manual,pa-2026-09-20-ibh4nvgqz9.md
 pa-2026-10-21-wrrjv29x3f,https://www.prothomalo.com/world/usa/wrrjv29x3f,2026-11-23,200,,manual,pa-2026-10-21-wrrjv29x3f.md
+dos-visa-bonds-FAILED,https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/visa-bonds.html,2026-11-23,403,text/html; charset=UTF-8,curl,
+dos-student-visa-FAILED,https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html,2026-11-23,403,text/html; charset=UTF-8,curl,
+dos-visitor-visa-FAILED,https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html,2026-11-23,403,text/html; charset=UTF-8,curl,
+dos-visa-fees-FAILED,https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/fees-visa-services.html,2026-11-23,403,text/html; charset=UTF-8,curl,
+dos-student-visa,https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html,2026-11-23,200,text/html; charset=UTF-8,wayback:20260703082505,dos-student-visa.html;dos-student-visa.md
+dos-visitor-visa,https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html,2026-11-23,200,text/html; charset=UTF-8,wayback:20260711164245,dos-visitor-visa.html;dos-visitor-visa.md
+dos-visa-fees,https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/fees-visa-services.html,2026-11-23,200,text/html; charset=UTF-8,wayback:20260709185123,dos-visa-fees.html;dos-visa-fees.md
+dos-iv-pause-FAILED,https://travel.state.gov/en/newsroom/visas/2026/immigrant-visa-processing-updates-for-nationalities-at-high-risk-of-public-benefits-usage.html,2026-11-23,403,text/html; charset=UTF-8,curl,
+dos-iv-pause-old,https://travel.state.gov/content/travel/en/News/visas-news/immigrant-visa-processing-updates-for-nationalities-at-high-risk-of-public-benefits-usage.html,2026-11-23,200,text/html;charset=utf-8,wayback:20260714120748,dos-iv-pause-old.html;dos-iv-pause-old.md
+dos-visa-bond-countries,https://travel.state.gov/content/travel/en/News/visas-news/countries-subject-to-visa-bonds.html,2026-11-23,200,text/html;charset=utf-8,wayback:20260713145749,dos-visa-bond-countries.html;dos-visa-bond-countries.md
+fr-2026-08-03-visa-bond-final-rule,https://www.govinfo.gov/content/pkg/FR-2026-08-03/html/2026-15726.htm,2026-11-23,200,text/html,curl,fr-2026-08-03-visa-bond-final-rule.html;fr-2026-08-03-visa-bond-final-rule.md
+clinic-75-country-pause-vacated-FAILED,https://www.cliniclegal.org/resources/clinic-v-rubio-75-country-visa-pause-was-vacated,2026-11-23,403,text/html; charset=UTF-8,curl,
+usemb-dhaka-visas,https://bd.usembassy.gov/visas/,2026-11-23,200,text/html; charset=UTF-8,curl,usemb-dhaka-visas.html;usemb-dhaka-visas.md
+ice-sevis-i901-fee,https://www.ice.gov/sevis/i901,2026-11-23,200,text/html; charset=utf-8,curl,ice-sevis-i901-fee.html;ice-sevis-i901-fee.md
+uscis-opt,https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students,2026-11-23,200,text/html; charset=utf-8,curl,uscis-opt.html;uscis-opt.md
+uscis-h1b,https://www.uscis.gov/working-in-the-united-states/h-1b-specialty-occupations,2026-11-23,200,text/html; charset=utf-8,curl,uscis-h1b.html;uscis-h1b.md
+uscis-asylum,https://www.uscis.gov/humanitarian/refugees-and-asylum/asylum,2026-11-23,200,text/html; charset=utf-8,curl,uscis-asylum.html;uscis-asylum.md
+uscis-vawa,https://www.uscis.gov/humanitarian/abused-spouses-children-and-parents,2026-11-23,200,text/html; charset=utf-8,curl,uscis-vawa.html;uscis-vawa.md
+uscis-cspa,https://www.uscis.gov/green-card/green-card-processes-and-procedures/child-status-protection-act-cspa,2026-11-23,200,text/html; charset=utf-8,curl,uscis-cspa.html;uscis-cspa.md
+usemb-dhaka-immigrant-visas,https://bd.usembassy.gov/immigrant-visas/,2026-11-23,200,text/html; charset=UTF-8,curl,usemb-dhaka-immigrant-visas.html;usemb-dhaka-immigrant-visas.md
+usemb-dhaka-nonimmigrant-visas,https://bd.usembassy.gov/nonimmigrant-visas/,2026-11-23,200,text/html; charset=UTF-8,curl,usemb-dhaka-nonimmigrant-visas.html;usemb-dhaka-nonimmigrant-visas.md
+usemb-dhaka-fraud-warning,https://bd.usembassy.gov/fraud-prevention-warning/,2026-11-23,200,text/html; charset=UTF-8,curl,usemb-dhaka-fraud-warning.html;usemb-dhaka-fraud-warning.md
+usemb-dhaka-educationusa-FAILED,https://bd.usembassy.gov/education-culture/educationusa/,2026-11-23,404,text/html; charset=UTF-8,curl,
+educationusa-dhaka-center-FAILED,https://educationusa.state.gov/centers/educationusa-dhaka,2026-11-23,403,application/xml,curl,
+ustraveldocs-bd-FAILED,https://ustraveldocs.com/bd/en/,2026-11-23,404,text/html,curl,
+sitds-working-in-us,https://studyinthestates.dhs.gov/students/work/working-in-the-united-states,2026-11-23,200,text/html; charset=utf-8,curl,sitds-working-in-us.html;sitds-working-in-us.md
+uscis-ead-FAILED,https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-authorization-document,2026-11-23,404,text/html; charset=utf-8,curl,
+fr-2025-12-29-h1b-weighted-selection,https://www.govinfo.gov/content/pkg/FR-2025-12-29/html/2025-23853.htm,2026-11-23,200,text/html,curl,fr-2025-12-29-h1b-weighted-selection.html;fr-2025-12-29-h1b-weighted-selection.md
+uscis-options-after-termination-FAILED,https://www.uscis.gov/working-in-the-united-states/options-for-nonimmigrant-workers-following-termination-of-employment,2026-11-23,404,text/html; charset=utf-8,curl,
+uscis-affirmative-asylum-FAILED,https://www.uscis.gov/humanitarian/refugees-and-asylum/affirmative-asylum-process,2026-11-23,404,text/html; charset=utf-8,curl,
+uscis-i589,https://www.uscis.gov/i-589,2026-11-23,200,text/html; charset=utf-8,curl,uscis-i589.html;uscis-i589.md
+uscis-i765,https://www.uscis.gov/i-765,2026-11-23,200,text/html; charset=utf-8,curl,uscis-i765.html;uscis-i765.md
+uscis-fee-schedule,https://www.uscis.gov/g-1055,2026-11-23,200,text/html; charset=utf-8,curl,uscis-fee-schedule.html;uscis-fee-schedule.md
+uscis-alert-court-order-hold-policies,https://www.uscis.gov/newsroom/alerts/recent-court-order-on-hold-policies,2026-11-23,200,text/html; charset=utf-8,curl,uscis-alert-court-order-hold-policies.html;uscis-alert-court-order-hold-policies.md
+uscis-alert-fy2027-hr1-fees,https://www.uscis.gov/newsroom/alerts/uscis-announces-fy-2027-inflation-increase-for-certain-immigration-related-fees,2026-11-23,200,text/html; charset=utf-8,curl,uscis-alert-fy2027-hr1-fees.html;uscis-alert-fy2027-hr1-fees.md
+fr-2025-10-30-ead-auto-extension-removed,https://www.govinfo.gov/content/pkg/FR-2025-10-30/html/2025-19702.htm,2026-11-23,200,text/html,curl,fr-2025-10-30-ead-auto-extension-removed.html;fr-2025-10-30-ead-auto-extension-removed.md
+dhs-overstay-report-fy2024,https://www.dhs.gov/sites/default/files/2025-09/25_0912_cbp_entry-exit-overstay-report-fiscal-year-2024.pdf,2026-11-23,200,application/pdf,curl,dhs-overstay-report-fy2024.pdf;dhs-overstay-report-fy2024.txt
+ecfr-22cfr-62-14-insurance,https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-22?part=62&section=62.14,2026-11-23,200,text/html; charset=utf-8,curl,ecfr-22cfr-62-14-insurance.html;ecfr-22cfr-62-14-insurance.md
+uscode-8-1182-FAILED,https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&num=0&edition=prelim,2026-11-23,404,text/html,curl,
+bdemb-washington-home,https://washington.mofa.gov.bd/,2026-11-23,200,text/html; charset=utf-8,curl,bdemb-washington-home.html;bdemb-washington-home.md
+bdemb-washington-usf-students-press-FAILED,https://washington.mofa.gov.bd/pages/static-pages/যুক্তরাষ্ট্রে-দুই-বাংলাদেশি-শিক্ষার্থীর-নিখোঁজ-ও-মর্মান্তিক-হত্যাকাণ্ডের-ঘটনায়-সংবাদ-বিজ্ঞপ্তি-5o1j9k-69ee23e4151c95740b409767,2026-11-23,404,text/html; charset=utf-8,curl,
+bdcgny-contact,https://bdcgny.org/contact-us,2026-11-23,200,text/html; charset=UTF-8,curl,bdcgny-contact.html;bdcgny-contact.md
+bdcgny-phone-fax,https://bdcgny.org/phone-fax,2026-11-23,200,text/html; charset=UTF-8,curl,bdcgny-phone-fax.html;bdcgny-phone-fax.md
+bdcg-la-home,https://losangeles.mofa.gov.bd/,2026-11-23,200,text/html; charset=utf-8,curl,bdcg-la-home.html;bdcg-la-home.md
+bdemb-washington-address,https://washington.mofa.gov.bd/pages/static-pages/695266a835ce18e1c05aa9e7,2026-11-23,200,text/html; charset=utf-8,curl,bdemb-washington-address.html;bdemb-washington-address.md
+bdemb-washington-dead-body,https://washington.mofa.gov.bd/pages/static-pages/695266aa35ce18e1c05aaa8d,2026-11-23,200,text/html; charset=utf-8,curl,bdemb-washington-dead-body.html;bdemb-washington-dead-body.md
+bdemb-washington-dead-body-pdf,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-washington-mofa/2026/3/c944730c-0b8c-4fbc-be44-8b41f633a5fc.pdf,2026-11-23,200,application/pdf,curl,bdemb-washington-dead-body-pdf.pdf;bdemb-washington-dead-body-pdf.txt
+bdcg-la-address,https://losangeles.mofa.gov.bd/pages/static-pages/695266b835ce18e1c05aaf72,2026-11-23,200,text/html; charset=utf-8,curl,bdcg-la-address.html;bdcg-la-address.md
+legalaidnyc-75-country-ruling-2026-08,https://legalaidnyc.org/wp-content/uploads/2026/08/FOR-IMMEDIATE-RELEASE1.pdf,2026-11-23,200,application/pdf,curl,legalaidnyc-75-country-ruling-2026-08.pdf;legalaidnyc-75-country-ruling-2026-08.txt
+aila-26090106,https://assets.aila.org/files/2fb81f52-eae5-42a1-ba7a-79382912298c/26090106.pdf,2026-11-23,200,application/pdf,curl,aila-26090106.pdf;aila-26090106.txt
+bal-75-country-vacated,https://www.bal.com/immigration-news/united-states-federal-court-vacates-75-country-immigrant-visa-issuance-suspension/,2026-11-23,200,text/html; charset=UTF-8,curl,bal-75-country-vacated.html;bal-75-country-vacated.md
+usemb-dhaka-family-immigration,https://bd.usembassy.gov/family-based-immigration/,2026-11-23,200,text/html; charset=UTF-8,curl,usemb-dhaka-family-immigration.html;usemb-dhaka-family-immigration.md
+usemb-dhaka-educationusa-FAILED,https://bd.usembassy.gov/education-culture/educationusa-2/,2026-11-23,404,text/html; charset=UTF-8,curl,
+doj-saifullah-extradition-FAILED,https://www.justice.gov/opa/pr/bangladeshi-national-extradited-brazil-human-smuggling-charges,2026-11-23,404,text/html; charset=UTF-8,curl,

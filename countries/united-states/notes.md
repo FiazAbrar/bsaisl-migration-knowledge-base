@@ -46,3 +46,41 @@ The reporting covers students, Fulbright exchanges, the visit-visa bond, the Jan
 
 - a5926a77 (8 Jan 2026): a one-paragraph excerpt of 957286c0, analysts' view only.
 - f3699f8c (14 Sep 2026): opinion by the New York remittance fair convener on diaspora philanthropy and trade fairs; its one Bangladesh-side fact (foreign donations blocked unless the recipient is registered with the NGO Affairs Bureau) is held for the global Sending money home doc.
+
+## Official research pass, 23-24 November 2026
+
+**Searched:** travel.state.gov (student, visitor, fees, visa bond, immigrant visa pause), the Federal Register (visa bond final rule, H-1B weighted selection rule, EAD auto-extension rule), uscis.gov (H-1B, OPT, asylum, I-589, VAWA, CSPA, hold-policy court order, fee alerts), ICE SEVIS fee, Study in the States, eCFR 22 CFR 62.14 (J-1 insurance), DHS Entry/Exit Overstay Report FY2024, US Embassy Dhaka (visas, nonimmigrant, immigrant, family-based, fraud warning), the Bangladesh Embassy in Washington (contact, dead body repatriation and its PDF), the Consulates General in New York and Los Angeles, BMET statistics. 29 sources registered, 127 facts logged (OU0001 to OU0127).
+
+**Found and changed in the doc:**
+- Visa bond: made permanent by a final rule effective 3 August 2026 (91 FR 48757); amounts now USD 10,000, 15,000 (default) or 20,000; visas valid three to 12 months; entry and exit through any commercial airport (the three designated airports of the pilot are gone); refund rules, breach (including claiming asylum), no waiver application, appeal of breach. The Embassy's visas page (16 Nov 2026) says "up to $20,000" for Bangladeshis, so Bangladesh got no B-1 exemption.
+- Immigrant visa pause: ended 21 August 2026 under the court order in CLINIC v. Rubio (State Department page, Last Updated 28 August 2026, read from the copy AILA posted as Doc. 26090106 because travel.state.gov returns 403 and the Wayback copy predates the change). The plaintiffs' 26 August release reports a new global pause on immigrant visa appointments; whether Dhaka is issuing again is a Need to know.
+- Dhaka immigrant visa process: two-visit processing since 1 June 2026, documents, November 2026 priority dates, fees (I-130 USD 675, IV USD 325), DNA collection by USCIS Dhaka.
+- H-1B: the USD 100,000 payment's guidance was vacated by the District of Massachusetts on 8 June 2026; the First Circuit denied a stay on 24 July 2026; DHS says it complies but would collect if the order is lifted. Weighted selection (wage level I to IV entered 1 to 4 times) effective 27 February 2026 for the FY2027 round. Portability and return-fare rules added.
+- Asylum: PM-602-0192 hold enjoined on 24 August 2026 (Red Eagle Law v. Edlow, N.D. Cal.); one-year deadline, 150-day EAD wait, Annual Asylum Fee.
+- Student visa: I-20, SEVIS fee USD 350, visa fee USD 185, DS-160 7-day rule, on-campus 20 hours, off-campus hardship rule, OPT 12 months plus STEM 24 months, 60-day departure rule.
+- Overstay rates FY2024 (DHS): Bangladeshi B1/B2 5.73% vs 2.33% all non-VWP; Bangladeshi students 9.09% vs 3.23% all and 4.32% India.
+- VAWA self-petition and the Domestic Violence Hotline; CSPA age rules; J-1 insurance minimums; Bangladesh missions' contacts; body repatriation documents.
+
+**Resolved conflicts:**
+- Visa bond amounts and airports: Prothom Alo (January 2026) and the Embassy's nonimmigrant page (updated 18 August 2026) say up to USD 15,000 with USD 5,000/10,000/15,000 tiers; the final rule (3 August 2026) and the Embassy's visas page (16 November 2026) say up to USD 20,000 with 10,000/15,000/20,000 tiers. The final rule wins. The three designated airports (XU0066, XU0067) were replaced in the State Department's May 2026 list by all commercial airports, confirmed by the final rule.
+- **The global Illegal routes doc ("The visitor visa bond") still says up to USD 15,000, single-entry three-month visas and designated ports of entry.** It needs updating to the final rule; this pass did not edit global docs.
+- Immigrant visa pause "no end date" (XU0079): superseded by the 21 August 2026 court order.
+- H-1B fee yearly vs once, exemptions for doctors, salary-based selection announced September 2025, appeals court reviewing since June 2026 (XU0165, XU0167-XU0171, XU0174, XU0175, XU0211, XU0212): replaced by the USCIS H-1B page (21 September 2026) and the weighted-selection rule.
+- EAD (XU0180, XU0181): replaced by the Federal Register rule.
+- Children ageing out during the pause (XU0090): replaced by the USCIS CSPA rules.
+
+**Facts logged but not cited:** OU0040 (Affidavit of Support review fee, only when reviewed in the US), OU0065 (J SEVIS fee; Fulbright grantees are on government programmes, whose SEVIS fee was not confirmed), OU0086 (duplicate of OU0084), OU0089 (green card one year after asylum; left out because the asylum section is written to discourage). Superseded news facts left uncited: XU0021, XU0043, XU0061, XU0063, XU0065-XU0069, XU0072-XU0075, XU0077, XU0080, XU0090, XU0092, XU0098, XU0165, XU0167-XU0171, XU0174, XU0175, XU0180, XU0181, XU0211, XU0212, XU0218, XU0219.
+
+**Other finding:** bdembassyusa.org, the address many older pages give for the Bangladesh Embassy, now serves an unrelated Vietnamese gambling site; the Embassy's site is washington.mofa.gov.bd. Not saved as a source; worth a line in the Dalal scams doc if confirmed by a teammate.
+
+### Pages we could not download
+
+- https://travel.state.gov/en/newsroom/visas/2026/immigrant-visa-processing-updates-for-nationalities-at-high-risk-of-public-benefits-usage.html (403; no Wayback capture). Should prove the pause's end on the State Department's own site and any later update. Suggested name: dos-iv-pause-2026-11. AILA's copy (aila-26090106) is used meanwhile.
+- https://travel.state.gov/content/travel/en/News/visas-news/countries-subject-to-visa-bonds.html, current version (403; Wayback copy is 13 May 2026). Should show the list after the final rule and any bond refund timing. Suggested name: dos-visa-bond-countries-2026-11.
+- BMET statistics page on bmet.gov.bd (country-wise overseas employment, USA rows for 2024-2026): blocked for automated access. Should prove whether BMET clears any workers for the US. Suggested name: bmet-country-stats-2026.
+- EducationUSA Dhaka page on bd.usembassy.gov (404/403 on the guessed URLs) and https://educationusa.state.gov/centers (403). Should give the advising centre address, hours and whether advising is free. Suggested name: educationusa-dhaka.
+- https://www.cliniclegal.org/resources/clinic-v-rubio-75-country-visa-pause-was-vacated (403; no Wayback capture). Should give the plaintiffs' latest status on immigrant visa issuance. Suggested name: clinic-75-country-pause-vacated.
+- uscode.house.gov 8 U.S.C. 1182(a)(9) (404 on the URL tried). Should give the years a removed person must wait before a new visa. Suggested name: uscode-8-1182.
+- https://www.uscis.gov/working-in-the-united-states/options-for-nonimmigrant-workers-following-termination-of-employment (404). Should give the 60-day grace period after an H-1B job ends. Suggested name: uscis-options-after-termination.
+- US Justice Department press release on Saifullah Al-Mamun's extradition (July 2026): URL not found. Suggested name: doj-saifullah-extradition.
+- Web search hit its usage limit during the pass, so Open Doors 2025, Bangladesh Bank country-wise remittance and the WEWB rule for deaths of non-registered migrants were not searched.
