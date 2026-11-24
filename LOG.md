@@ -18,6 +18,13 @@ How to write an entry: add it at the top, under this line, in this shape. Keep i
 
 ---
 
+## 2026-11-24 · One list of pages to get by hand · agent for FiazAbrar
+
+- **Done:** `MANUAL-DOWNLOADS.md`: a short "Get these first" table (pages that settle open questions, with where to save each) and a generated backlog of every page the docs' notes list as blocked and not yet saved (432 pages in 25 docs). `tools/manual_downloads.py` refreshes the backlog; CLAUDE.md now tells agents to add blocked pages there.
+- **Where:** `MANUAL-DOWNLOADS.md`, `tools/manual_downloads.py`, CLAUDE.md (Research process, step 7), README.
+- **Checked by:** the script run against main; it leaves out pages a doc has since saved.
+- **Open:** most backlog pages are from the first research rounds and lower priority; the top table is what to save first.
+
 ## 2026-11-24 · Official-source research on the docs built from news; agency-flag check · agent for FiazAbrar
 
 - **Done:** the official research pass CLAUDE.md requires on the six country docs and three global docs first built from Prothom Alo: about 1,280 facts from official sources (US 127, Canada 155, UK 220, India 107, Lebanon 96, Greece 96, money 126, services 127, other destinations 230), Need-to-know questions answered where official pages answer them, news claims replaced where official sources differ. Also: the 23 Nov articles checked for agency flags (one new row, Lamisa Enterprise); the Illegal routes doc's US visa-bond section and the FAQ's PKB loan lines aligned with the official pages; plans.md records the one-file-per-doc restructure.
