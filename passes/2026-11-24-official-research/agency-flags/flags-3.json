@@ -1,0 +1,23 @@
+[
+ {
+  "article_id": "cea99676-0fbf-42fb-8010-cf4bb0acb867",
+  "url": "https://www.prothomalo.com/bangladesh/crime/kfsxj8h6fh",
+  "published": "2026-03-28",
+  "agency_as_printed": "মাসুদ উদ্দিনের প্রতিষ্ঠান (Masud Uddin's firm; the article does not print the firm's name)",
+  "rl_printed": null,
+  "oep_match": "RL1327 5M International ltd (Cancelled)",
+  "oep_match_confidence": "uncertain: the article names only the owner, not the firm; matched by owner (ex-MP Lt Gen (retd) Masud Uddin Chowdhury), as existing row PF0037 did",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "arrest",
+  "date": "2026-03-28 (article date; arrested the previous Monday, in the fourth day of a five-day DB remand)",
+  "summary": "Prothom Alo reports DB (Dhaka Metropolitan Police Detective Branch) is interrogating ex-Lt Gen Masud Uddin Chowdhury on remand in a human-trafficking case filed at Paltan police station; DB joint commissioner Mohammad Nasirul Islam said a manpower-export syndicate shut out other licensed agencies and took extra money from outgoing workers, and that Masud Uddin's firm was part of it (an allegation under investigation, not a verdict; corridor not named in this article).",
+  "quote": "এই সিন্ডিকেট জনশক্তি রপ্তানিতে বৈধ লাইসেন্সধারী অন্য প্রতিষ্ঠানগুলোকে বঞ্চিত করে বিদেশগামী শ্রমিকদের কাছ থেকে অতিরিক্ত টাকা নিয়েছিল। মাসুদ উদ্দিনের প্রতিষ্ঠানও এই সিন্ডিকেটে যুক্ত ছিল।",
+  "already_flagged": "PF0037;PF0038;PF0039",
+  "people": [
+   {
+    "name": "মাসুদ উদ্দিন চৌধুরী (Lt Gen (retd) Masud Uddin Chowdhury)",
+    "role": "owner of the firm (article: 'মাসুদ উদ্দিনের প্রতিষ্ঠান'); arrested, on DB remand"
+   }
+  ]
+ }
+]

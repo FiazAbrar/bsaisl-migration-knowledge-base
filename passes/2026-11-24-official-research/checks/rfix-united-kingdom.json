@@ -1,0 +1,65 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/united-kingdom/doc.md",
+  "section": "In one minute",
+  "old_str": "in the year to June 2026, 10,021 of 12,468 Bangladeshi student visa applications were granted, against 2,362 of 3,785 work visa applications and 17,568 of 37,254 visitor visa applications [OK0146, OK0147, OK0149].",
+  "new_str": "in the year to June 2026 Bangladeshis made 12,468 student visa applications, against 3,785 work visa and 37,254 visitor visa applications, and 86% of that year's student visa decisions were grants, against 60% for work visas and 45% for visitor visas [OK0146, OK0147, OK0149].",
+  "problem": "'10,021 of 12,468 applications were granted' presents grants as a subset of the same year's applications. Note 13 of the Home Office visas summary tables (sources/homeoffice-visas-summary-tables-jun2026.txt) says outcomes in a year do not necessarily relate to applications made in that year, and note 14 says the grant rate is grants as a share of decisions (grants plus refusals), not of applications. (17,568 is 47% of 37,254, but the official grant rate is 45%.)"
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/united-kingdom/doc.md",
+  "section": "In one minute",
+  "old_str": "to pass UKVI's yearly check on sponsors,",
+  "new_str": "to pass the yearly check on sponsors by UKVI (UK Visas and Immigration, the Home Office's visa department),",
+  "problem": "Acronym UKVI is used here before it is explained (first explained in the Status list, 1 June 2026 item)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/united-kingdom/doc.md",
+  "section": "The channels",
+  "old_str": "- **Student visa:** the main route; 12,468 Bangladeshi applications and 10,021 grants (86%) in the year to June 2026 (see Student visa) [OK0146].",
+  "new_str": "- **Student visa:** the main route; 12,468 Bangladeshi applications in the year to June 2026, and 10,021 grants, 86% of the decisions made that year (see Student visa) [OK0146].",
+  "problem": "'(86%)' reads as a share of the 12,468 applications (10,021/12,468 is 80%). Note 13 of the Home Office visas summary tables (sources/homeoffice-visas-summary-tables-jun2026.txt) says outcomes in a year do not necessarily relate to applications made in that year, and note 14 says the grant rate is grants as a share of decisions (grants plus refusals), not of applications."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/united-kingdom/doc.md",
+  "section": "The channels",
+  "old_str": "37,254 Bangladeshi applications in the year to June 2026, of which 17,568 (45%) were granted;",
+  "new_str": "37,254 Bangladeshi applications in the year to June 2026, and 17,568 grants, 45% of the decisions made that year;",
+  "problem": "'of which 17,568 (45%)' is arithmetically wrong (17,568 is 47% of 37,254) and makes grants a subset of applications. The table has 38,986 decisions; 45% is grants over decisions. Note 13 of the Home Office visas summary tables (sources/homeoffice-visas-summary-tables-jun2026.txt) says outcomes in a year do not necessarily relate to applications made in that year, and note 14 says the grant rate is grants as a share of decisions (grants plus refusals), not of applications."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/united-kingdom/doc.md",
+  "section": "The channels",
+  "old_str": "- **Skilled Worker visa:** 3,091 Bangladeshi applications in the year to June 2026, 64% granted;",
+  "new_str": "- **Skilled Worker and Health and Care Worker visas:** 3,091 Bangladeshi applications in the year to June 2026 in the Home Office's 'Worker' category, which includes both visas, and 64% of that year's decisions were grants;",
+  "problem": "OK0148 is the Home Office 'Worker' category (table Vis_03b), not the Skilled Worker visa alone; the work commentary page (sources/homeoffice-stats-work-yejun2026.md line 55) says the category 'includes Skilled Worker and Health and Care Worker visas' (log that line as a fact and cite it). The grant rate is a share of decisions, not applications."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/united-kingdom/doc.md",
+  "section": "The channels",
+  "old_str": "- **Family visas:** 2,069 Bangladeshi applications in the year to June 2026, 89% granted [OK0150].",
+  "new_str": "- **Family visas:** 2,069 Bangladeshi applications in the year to June 2026, and 89% of that year's decisions were grants [OK0150].",
+  "problem": "89% is grants over 1,851 decisions, not over the 2,069 applications (1,648/2,069 is 80%). Note 13 of the Home Office visas summary tables (sources/homeoffice-visas-summary-tables-jun2026.txt) says outcomes in a year do not necessarily relate to applications made in that year, and note 14 says the grant rate is grants as a share of decisions (grants plus refusals), not of applications."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/united-kingdom/doc.md",
+  "section": "Asylum",
+  "old_str": "Of 8,657 Bangladeshis who got a first decision that year, 822 were granted and 7,835 refused, an 11% grant rate [OK0151].",
+  "new_str": "Of 8,657 Bangladeshis who got a first decision that year, 822 were granted and 7,835 refused; the Home Office's grant rate, counted by case (main applicants only), was 11% [OK0151].",
+  "problem": "822 of 8,657 people is 9.5%, not 11%. The table (Asy_00b, note 12) counts people for grants and refusals but gives the grant rate by case, main applicants only; the sentence presents 11% as the share of the 8,657."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/united-kingdom/doc.md",
+  "section": "Care-worker and Skilled Worker visa",
+  "old_str": "care workers and home carers (code 6135) and senior care workers (6136) qualify only when extending, updating or switching inside the UK, after at least 3 months working legally for the sponsor [OK0104, OK0105].",
+  "new_str": "care workers and home carers (code 6135) and senior care workers (6136) qualify only when extending, updating or switching inside the UK, and someone switching from another visa must first have worked legally in the job for the sponsor for at least 3 months [OK0104, OK0105].",
+  "problem": "The 3-month condition applies only to switching from a different visa (OK0105 and the GOV.UK page), not to extending or updating; the sentence applies it to all three."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/united-kingdom/doc.md",
+  "section": "Online harassment from other Bangladeshis",
+  "old_str": "2. File online on the ICO website with the organisation's email address and that copy, plus a timeline and screenshots if you have them; the ICO helpline is 0303 123 1113 [OK0212, OK0214].",
+  "new_str": "2. File online on the ICO website with the organisation's email address and that copy; the ICO helpline is 0303 123 1113 [OK0212, OK0214].",
+  "problem": "'a timeline and screenshots' is in no cited fact; the archived ICO page lists 'a timeline of key events' and supporting information (emails, records) as helpful, and never mentions screenshots. Either log the timeline line as a fact or drop the clause."
+ }
+]

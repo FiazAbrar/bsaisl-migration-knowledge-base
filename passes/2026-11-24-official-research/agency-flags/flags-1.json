@@ -1,0 +1,42 @@
+[
+ {
+  "article_id": "1081c9f7-ad5e-41b0-81c0-a5f1cc21fe42",
+  "url": "https://www.prothomalo.com/bangladesh/district/3sbx500cfl",
+  "published": "2024-12-08",
+  "agency_as_printed": "Lamisa Enterprise (লামিসা এন্টারপ্রাইজ)",
+  "rl_printed": null,
+  "oep_match": null,
+  "firm_kind": "other",
+  "flag_type": "complaint",
+  "date": "2024-12-08",
+  "summary": "Prothom Alo reports families of 18 young men from Sadar upazila, Shariatpur, say Rashed Khan of Char Jadabpur, who runs a firm called Lamisa Enterprise and sends people abroad through two associates, took Tk 12-20 lakh each in 2022-23 to send them to Italy irregularly via the UAE, Egypt and Libya; some were jailed or held for ransom in Libya, none has been heard from since 21-22 Mar 2024, Rashed has locked his village house and his Paltan, Dhaka office is shut; the families held a human chain and gave the Deputy Commissioner a memorandum, and the police superintendent said a shadow investigation would start (no case filed yet; no OEP entry under this name)",
+  "quote": "স্বজনেরা জানান, আংগারিয়া ইউনিয়নের চরযাদবপুর গ্রামের রাশেদ খান দুই সহযোগীর মাধ্যমে শরীয়তপুরের বিভিন্ন এলাকা থেকে লোক সংগ্রহ করে বিভিন্ন দেশে পাঠান। লামিসা এন্টারপ্রাইজ নামের তাঁর একটি প্রতিষ্ঠান আছে।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "রাশেদ খান (Rashed Khan)",
+    "role": "owner of Lamisa Enterprise; described as a manpower trader (জনশক্তি ব্যবসায়ী) and broker (দালাল), Char Jadabpur, Angaria union, Shariatpur"
+   }
+  ]
+ },
+ {
+  "article_id": "0d3803b7-fcd7-453f-9cd8-646e9b272e9e",
+  "url": "https://www.prothomalo.com/bangladesh/j6t1c16oc7",
+  "published": "2024-10-27",
+  "agency_as_printed": "Madras Security Printers / Madras Printers (মাদ্রাজ সিকিউরিটি প্রিন্টার্স / মাদ্রাজ প্রিন্টার্স)",
+  "rl_printed": null,
+  "oep_match": null,
+  "firm_kind": "other",
+  "flag_type": "allegation",
+  "date": "2024-10-27",
+  "summary": "Prothom Alo reports, citing sources, that a 'syndicate' of local staff of Madras Printers (the Indian contractor printing BRTA driving-licence smart cards) and some BRTA officials takes extra money to print some licences during the backlog of over 6.25 lakh cards, which hits drivers going abroad hardest because they cannot leave without the smart card; one Saudi-bound driver paid a broker Tk 13,000 and a Paltan visa-processing firm owner says some clients paid brokers Tk 50,000 for a licence (Madras Printers' manager blames late BRTA payments)",
+  "quote": "এ ছাড়া মাদ্রাজ প্রিন্টার্সের স্থানীয় কর্মী ও বিআরটিএর কিছু কর্মকর্তার সমন্বয়ে একটা ‘সিন্ডিকেট’ তৈরি হয়েছে বলে জানা গেছে। তারা সংকটের সুযোগ নিয়ে বাড়তি টাকা নিয়ে কিছু কিছু লাইসেন্স প্রিন্ট করছে।",
+  "already_flagged": null,
+  "people": [
+   {
+    "name": "আহমেদ কানী (Ahmed Kani)",
+    "role": "manager, Madras Printers (denies fault; says BRTA pays late)"
+   }
+  ]
+ }
+]

@@ -1,0 +1,100 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/united-states/doc.md",
+  "section": "What you pay, and what you earn and keep",
+  "old_str": "students also pay a USD 350 SEVIS fee (see Step 1: Get admission and the I-20)",
+  "new_str": "students also pay a USD 350 SEVIS fee, for the Student and Exchange Visitor Information System (see Step 1: Get admission and the I-20)",
+  "problem": "SEVIS first appears here, unexplained; it is only spelled out later under Student visa, Step 1."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/united-states/doc.md",
+  "section": "Visit visa and the visa bond",
+  "old_str": "the rule began as a pilot and was made permanent from 3 August 2026 for countries with high overstay rates [OU0022, OU0001, OU0003].",
+  "new_str": "the rule began as a pilot and was made permanent from 3 August 2026 [OU0022, OU0001, OU0003].",
+  "problem": "The cited facts do not say the permanent rule targets 'countries with high overstay rates'; the final rule lists overstay rates alongside deficient information sharing, identity verification and screening, so the phrase is both uncited and incomplete."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/united-states/doc.md",
+  "section": "Business travellers",
+  "old_str": "There is no procedure for an applicant to apply for a waiver, and in November 2026 the US Embassy still required the bond of every Bangladeshi B1/B2 applicant [OU0019, OU0001].",
+  "new_str": "There is no procedure for an applicant to apply for a waiver, and in November 2026 the US Embassy still required the bond of every Bangladeshi found eligible for a B1/B2 visa [OU0019, OU0001].",
+  "problem": "Overstates OU0001: the embassy requires the bond only of nationals 'found otherwise eligible', not of every applicant."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/united-states/doc.md",
+  "section": "Scams",
+  "old_str": "- **Done to travellers:** fake \"visa fee\" and bond demands by phone or email (see Scams and mistakes); (see \"A visit or tourist visa sold as a job\" in the Dalal scams doc) [OU0048, OU0024].",
+  "new_str": "- **Done to travellers:** fake \"visa fee\" demands by phone or email (see Scams and mistakes), and third-party websites for posting the bond, which the State Department says not to use (see \"A visit or tourist visa sold as a job\" in the Dalal scams doc) [OU0048, OU0024].",
+  "problem": "OU0024 is about third-party bond websites, not bond demands by phone or email; no cited fact reports fake bond demands by phone or email."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/united-states/doc.md",
+  "section": "The 2026 pause",
+  "old_str": "the plaintiffs then reported a new global pause on immigrant visa appointments, which the State Department linked to training [OU0026, OU0027, OU0028].",
+  "new_str": "the plaintiffs then reported that the State Department had ordered a new global pause on immigrant visa appointments, citing a training programme [OU0026, OU0027, OU0028].",
+  "problem": "Drops attribution: the training reason comes only from the plaintiffs' press release (OU0028, unofficial), not from the State Department directly."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/united-states/doc.md",
+  "section": "Work visa: H-1B",
+  "old_str": "- The normal legal and filing costs to the employer are USD 2,000 to 5,000 [XU0210].",
+  "new_str": "- The normal H-1B fee is USD 2,000 to 5,000 [XU0210].",
+  "problem": "Rewritten sentence adds 'legal' costs and 'to the employer'; XU0210 says only that the visa's normal fee is USD 2,000 to 5,000."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/united-states/doc.md",
+  "section": "If a student or worker dies",
+  "old_str": "a copy of the deceased's Bangladesh passport (or US passport with the NVR page, NID or birth certificate),",
+  "new_str": "a copy of the deceased's Bangladesh passport (or US passport with the NVR (No Visa Required) page, Bangladeshi NID (national identity card) or Bangladeshi birth certificate),",
+  "problem": "NVR and NID first appear here unexplained (NVR is spelled out only later in Contacts); the source specifies Bangladeshi NID and Bangladeshi birth certificate."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/united-states/doc.md",
+  "section": "If a student or worker dies",
+  "old_str": "Include a prepaid, self-addressed USPS certified, priority or express envelope with tracking to get the original back [OU0109, OU0110, OU0111].",
+  "new_str": "Include a prepaid, self-addressed USPS (US Postal Service) certified, priority or express envelope with tracking to get the original back [OU0109, OU0110, OU0111].",
+  "problem": "USPS unexplained at first use."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/united-states/doc.md",
+  "section": "Step 2: Apply for the visa",
+  "old_str": "3. Pay the USD 185 visa fee at an Eastern Bank (EBL) branch, by BEFTN or EBL Skybanking transfer, or by card [OU0061, OU0046].",
+  "new_str": "3. Pay the USD 185 visa fee at an Eastern Bank (EBL) branch, by BEFTN (Bangladesh Electronic Funds Transfer Network) or EBL Skybanking transfer, or by card [OU0061, OU0046].",
+  "problem": "BEFTN unexplained at first use (the source spells it out)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/united-states/doc.md",
+  "section": "Can you work?",
+  "old_str": "a graduate in a listed STEM (science, technology, engineering and mathematics) subject working for an employer enrolled in E-Verify can get 24 months more.",
+  "new_str": "a graduate in a listed STEM (science, technology, engineering and mathematics) subject working for an employer enrolled in E-Verify (the US government's online check of a worker's right to work) can get 24 months more.",
+  "problem": "E-Verify unexplained at first use."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/united-states/doc.md",
+  "section": "How a job reaches you, and who takes a cut",
+  "old_str": "and on which visas (H-1B, H-2A, H-2B, EB-3)?",
+  "new_str": "and on which visas (H-1B; H-2A seasonal farm work; H-2B seasonal non-farm work; EB-3, an employer-sponsored green card for skilled and other workers)?",
+  "problem": "H-2A, H-2B and EB-3 are not explained anywhere in the doc."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/united-states/doc.md",
+  "section": "Work permits",
+  "old_str": "green card holders do not need one, and H-1B and L-1B holders generally do not either [XU0183].",
+  "new_str": "green card holders do not need one, and H-1B and L-1B (intra-company transfer) holders generally do not either [XU0183].",
+  "problem": "L-1B unexplained."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/united-states/doc.md",
+  "section": "If your husband abuses you",
+  "old_str": "- **Help:** call the National Domestic Violence Hotline on 800-799-7233 (TTY 800-787-3224) [OU0097].",
+  "new_str": "- **Help:** call the National Domestic Violence Hotline on 800-799-7233 (TTY, for deaf callers, 800-787-3224) [OU0097].",
+  "problem": "TTY unexplained."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/united-states/doc.md",
+  "section": "Status",
+  "old_str": "- **21 August 2026:** the immigrant visa pause for the 75 countries ended under a court order [OU0026].",
+  "new_str": "- **21 August 2026:** the immigrant visa pause for the 75 countries ended under a court order [OU0026].",
+  "problem": "HUMAN DECISION, no text change: OU0026 (cited here and in In one minute, Is it open now, Status 21 January, What people believe, The 2026 pause) is marked verified/official, but its URL in sources.csv is assets.aila.org (the American Immigration Lawyers Association's copy of the State Department page), not a government site; travel.state.gov returned 403 (notes.md). The quote does match the saved AILA copy. Either save the State Department page itself or downgrade OU0026's status."
+ }
+]

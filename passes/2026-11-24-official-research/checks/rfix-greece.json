@@ -1,0 +1,79 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/greece/doc.md",
+  "section": "In one minute",
+  "old_str": "The permits for people already in Greece were handed out: more than 10,000 got legal residence, and many went home to visit as soon as they had the card [XG0015, XG0012].",
+  "new_str": "The permits for people already in Greece were handed out: more than 10,000 got legal residence, Bangladesh's foreign minister said in April 2024, and many went home to visit as soon as they had the card, the Bangladesh ambassador at the time said [XG0015, XG0012].",
+  "problem": "The rewrite dropped the attributions the old sentence carried ('the Bangladesh ambassador said'); both figures are statements by named officials in news reports."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/greece/doc.md",
+  "section": "Is it open now, and who can go?",
+  "old_str": "The legal work route is open on paper: the MoU runs for an initial five years and can be extended, and the work visa can be applied for in Dhaka, but no source shows how many Bangladeshis have come on it [OG0017, OG0032].",
+  "new_str": "The legal work route exists: the MoU runs for an initial five years and can be extended, and the work visa can be applied for in Dhaka [OG0017, OG0032].",
+  "problem": "'open on paper' is the writer's judgement, and 'no source shows how many' is research narration; the gap is already a Need to know under Status."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/greece/doc.md",
+  "section": "Status",
+  "old_str": "Bangladesh asked Greece to implement the MoU's second part, the 4,000 permits a year for new workers [XG0013, XG0015].",
+  "new_str": "Bangladesh asked Greece to implement the MoU's second part [XG0013, XG0015].",
+  "problem": "The gloss 'the 4,000 permits a year for new workers' is the writer's interpretation; XG0015 says only 'the second part' (the old doc asked this as a Need to know)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/greece/doc.md",
+  "section": "Status",
+  "old_str": "- **June 2026:** the new EU migration and asylum pact was due to take effect [XG0029].\n- **August 2025:** Greece still had no embassy in Dhaka; its Embassy in New Delhi covers Bangladesh [OG0029].",
+  "new_str": "- **August 2025:** Greece still had no embassy in Dhaka; its Embassy in New Delhi covers Bangladesh [OG0029].\n- **June 2026:** the new EU migration and asylum pact was due to take effect [XG0029].",
+  "problem": "The dated Status list is out of order: the August 2025 item comes after June 2026 (it belongs before 3 September 2025; at minimum before June 2026)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/greece/doc.md",
+  "section": "Size",
+  "old_str": "- **Arrivals by sea of all nationalities, Bangladeshis among them:** 13,857 in the four months before 1 December 2025, against 27,324 in the same months a year earlier, the Greek migration minister said [OG0082].",
+  "new_str": "- **Arrivals by sea of all nationalities:** 13,857 in the four months before 1 December 2025, against 27,324 in the same months a year earlier, when they came from Afghanistan, Pakistan, Bangladesh, Sudan, Egypt and Syria, the Greek migration minister said [OG0082].",
+  "problem": "The minister names Bangladesh only among the origins of the year-earlier 27,324, not of the 13,857."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/greece/doc.md",
+  "section": "How a job reaches you, and who takes a cut",
+  "old_str": "On the legal route the root is a Greek employer's approval: the employer applies online to the Ministry of Migration and Asylum, pays EUR 100 per worker, and the approval names the worker from a copy of his passport, so there is no job without a named employer who already knows the worker's name [OG0061, OG0062, OG0067]. How Greek employers find Bangladeshi workers to name is not documented.",
+  "new_str": "On the legal route the root is a Greek employer's approval: the employer applies online to the Ministry of Migration and Asylum, pays EUR 100 per worker, and attaches a copy of the named worker's passport [OG0061, OG0062, OG0067].",
+  "problem": "'so there is no job without a named employer who already knows the worker's name' is the writer's conclusion; 'is not documented' is research narration with no citation. The open question is already the Need to know below."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/greece/doc.md",
+  "section": "What you pay, and what you earn and keep",
+  "old_str": "The legal visa costs the worker about EUR 135 in fees plus Tk 10,200 for the courier to New Delhi",
+  "new_str": "The legal visa costs the worker EUR 135 in fees for a seasonal work visa (EUR 240 for dependent employment) plus Tk 10,200 for the courier to New Delhi",
+  "problem": "EUR 135 (75 + 30 + 30) is the seasonal-work total only; the cited OG0044 also gives EUR 180 for dependent employment (180 + 30 + 30 = 240)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/greece/doc.md",
+  "section": "What people believe, and the facts",
+  "old_str": "From July to October 2025 people arriving by sea from North Africa could not claim asylum at all;",
+  "new_str": "From July to October 2025 people arriving by sea from North Africa could not lodge asylum claims, except vulnerable people and, from mid-September, Sudanese and Eritreans;",
+  "problem": "'at all' contradicts OG0080 (cited in the Asylum section): internal circulars exempted vulnerable people and, from mid-September, Sudanese and Eritreans."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/greece/doc.md",
+  "section": "Arrival on Crete",
+  "old_str": "4. **Moved to the mainland.** New arrivals on Gavdos and Crete used to be moved to mainland reception centres within a couple of days, up to 10; from mid-August 2025, during the asylum suspension, transfers were frozen and hundreds were held over a month in unsuitable buildings on the islands [OG0081].",
+  "new_str": "4. **Moved to the mainland.** New arrivals on Gavdos and Crete used to be moved to mainland reception centres within a couple of days, up to 10; from mid-August 2025, during the asylum suspension, transfers were frozen and hundreds were held over a month in unsuitable buildings on the islands, the Border Violence Monitoring Network (BVMN), a network of non-governmental organisations, reported to the EU asylum agency [OG0081].",
+  "problem": "OG0081 comes from an NGO briefing (BVMN), not an official source; 'unsuitable buildings' is its assessment, stated without attribution."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/greece/doc.md",
+  "section": "Living without papers and deportation",
+  "old_str": "The MoU binds Bangladesh to take back Bangladeshis who have no right to stay in Greece [OG0016].",
+  "new_str": "Under the MoU, Greece and Bangladesh cooperate on returning Bangladeshis who have no right to stay, under the EU-Bangladesh return procedures signed on 20 September 2017 [OG0016].",
+  "problem": "MoU Article 11 says only that the parties 'shall cooperate with each other for return' under the 2017 EU-Bangladesh procedures; 'binds Bangladesh to take back' overstates it."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/greece/doc.md",
+  "section": "Contacts",
+  "old_str": "Open Monday to Friday, 09:00 to 17:00; consular applications taken and delivered 09:00 to 16:00 [OG0087, OG0088]. E-passport applications 09:00 to 13:00, collection 10:30 to 15:00 [OG0092].",
+  "new_str": "Open Monday to Friday, 09:00 to 17:00 [OG0087]. E-passport applications 09:00 to 13:00, collection 10:30 to 15:00; attestation and certificate applications 09:00 to 13:00, delivery 15:00 to 17:00 [OG0092].",
+  "problem": "The same item gives two different times: 'consular applications 09:00 to 16:00' from the September 2024 web page (OG0088) and the embassy's August 2025 schedule (OG0092), which takes applications only 09:00 to 13:00. The newer schedule should replace the older line."
+ }
+]

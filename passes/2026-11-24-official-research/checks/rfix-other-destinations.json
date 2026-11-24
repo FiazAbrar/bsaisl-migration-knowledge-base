@@ -1,0 +1,86 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/other-destinations/doc.md",
+  "section": "Iraq > Is it open, and how people go",
+  "old_str": "in March 2024 Iraq's labour minister said tens of thousands had entered anyway, mostly undocumented, that few had used the ministry's 45-day regularisation window, and that foreign workers should come only as skilled workers, as carers for people with special needs, or matched one-to-one with an Iraqi worker on a project [OD0117, OD0118, OD0119].",
+  "new_str": "in March 2024 Iraq's labour minister said tens of thousands had entered anyway, especially undocumented workers, that the number who registered under the ministry's 45-day regularisation window (later extended) did not match the number in the country, and that foreign workers should come only as skilled workers, as assistants for people with special needs, or matched one-to-one with an Iraqi worker on a project [OD0117, OD0118, OD0119].",
+  "problem": "Overstates the source (Shafaq News, 31 Mar 2024): the minister said registrations 'do not match the actual number present', not that 'few' used the window, and said 'especially undocumented', not 'mostly'; the window was also extended."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/other-destinations/doc.md",
+  "section": "Spain > Is it open, and how people go",
+  "old_str": "- those who had never applied for international protection also had to show one of: work in Spain under a contract or self-employment, a family unit with minor or disabled children or parents, or vulnerability certified by a registered organisation or social services [OD0062].",
+  "new_str": "- those who had never applied for international protection also had to show one of: having worked in Spain under a contract or self-employed, a family unit made up of minor children or disabled adult children and first-degree ascendants (parents), or vulnerability certified by a registered organisation or social services [OD0062].",
+  "problem": "The official FAQ says 'unidad familiar compuesta con hijos menores de edad o mayores con discapacidad y los ascendientes de primer grado' (minor children or disabled adult children AND first-degree ascendants); the doc's 'minor or disabled children or parents' turns 'and' into 'or' and drops 'adult'; 'haber trabajado' is past work."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/other-destinations/doc.md",
+  "section": "Spain > Is it open, and how people go",
+  "old_str": "**Papers:** a full copy of the passport; proof of being in Spain before 1 January 2026 and through the last five months; and a criminal record certificate from Bangladesh, or from wherever you lived for the 5 years before Spain [OD0065].",
+  "new_str": "**Papers:** proof of being in Spain before 1 January 2026 and through the last five months [OD0060]; and a criminal record certificate from Bangladesh, or from wherever you lived for the 5 years before Spain [OD0065].",
+  "problem": "OD0065 supports only the criminal record certificate. The passport copy is in the saved FAQ (es-regularisation-faq.txt, 'Copia completa del pasaporte, cédula de inscripción o título de viaje') but no fact was logged for it; either log that fact and restore 'a full copy of the passport' with its id, or use the fix shown."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/other-destinations/doc.md",
+  "section": "France > Help and contacts",
+  "old_str": "4. Collect it after at least 2-3 working days; it is valid for 3 months [OD0224]. The French government offered partial-unemployment pay for workers, more time for taxes, interest-free loans up to 50,000 euros and a small-business fund [GO0277].",
+  "new_str": "4. Collect it after at least 2-3 working days; it is valid for 3 months [OD0224].",
+  "problem": "The sentence on the French government's support after the October 2026 looting (GO0277) was split off its paragraph and landed inside Travel Permit step 4, where it reads as part of the travel permit procedure. Move it back after the Chamber of Commerce sentence (see next item)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/other-destinations/doc.md",
+  "section": "France > Help and contacts",
+  "old_str": "The Paris and Île-de-France Chamber of Commerce and Industry helps damaged businesses with insurance papers and compensation claims [GO0276].",
+  "new_str": "The Paris and Île-de-France Chamber of Commerce and Industry helps damaged businesses with insurance papers and compensation claims [GO0276]. The French government offered partial-unemployment pay for workers, more time for taxes, interest-free loans up to 50,000 euros and a small-business fund [GO0277].",
+  "problem": "Restores the GO0277 sentence to the paragraph it belonged to in the old version (paired with the item above)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/other-destinations/doc.md",
+  "section": "In one minute",
+  "old_str": "while Portugal has made residence renewals harder and, since October 2025, makes most residents wait 2 years before bringing family [GO0140, OD0156].",
+  "new_str": "while Portugal has made residence renewals harder and, since October 2025, requires a resident to have held a residence permit for 2 years before bringing family, with exceptions including spouses and minor children [GO0140, OD0156, OD0157].",
+  "problem": "'Most residents wait 2 years' is not in the source and overstates it: the Andersen alert lists exceptions for spouses, minor children and highly qualified workers, which cover most family cases; the Portugal section itself states the exceptions and a Need to know asks how AIMA applies the wait to spouses."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/other-destinations/doc.md",
+  "section": "Portugal > Is it open, and how people go",
+  "old_str": "3. Before applying, have the police clearance certificate and the birth and marriage certificates legalised by Bangladesh's Ministry of Foreign Affairs and then by the embassy in New Delhi; originals are shown at VFS (the embassy's visa centre), which keeps copies [OD0150, OD0151].",
+  "new_str": "3. Before applying, have the police clearance certificate and the birth and marriage certificates legalised by Bangladesh's Ministry of Foreign Affairs and then by Bangladesh's mission in New Delhi; originals are shown at VFS (the Portuguese embassy's visa centre), which keeps copies [OD0150, OD0151].",
+  "problem": "The checklist says documents from Bangladesh must be legalised by 'the correspondent Ministry of Foreign Affairs and the respective embassy in New Delhi', i.e. the issuing country's mission (OD0150's claim says Bangladesh's embassy in New Delhi). 'The embassy in New Delhi' in this paragraph reads as Portugal's embassy."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/other-destinations/doc.md",
+  "section": "In one minute",
+  "old_str": "Hungary has given no work or guest-worker residence permits to Bangladeshis since 1 January 2025 [OD0172, OD0173].",
+  "new_str": "Since 1 January 2025 Hungary approves employment visa applications only from listed countries, and Bangladesh is not among them [OD0172, OD0173].",
+  "problem": "Overstates the source: the Hungarian embassy page says employment visa applications submitted after 1 January 2025 can be approved only for Annex 1 countries and Bangladesh is not one; it does not say no permit at all has been given to a Bangladeshi since that date."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/other-destinations/doc.md",
+  "section": "Australia > Is it open, and how people go",
+  "old_str": "- **English.** IELTS 6.0, or 5.5 with at least 10 weeks",
+  "new_str": "- **English.** IELTS (the International English Language Testing System) 6.0, or 5.5 with at least 10 weeks",
+  "problem": "Acronym not explained at first use: the new English bullet is now the first mention of IELTS; the expansion sits later, in the Australia Awards bullet."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/other-destinations/doc.md",
+  "section": "Australia > Is it open, and how people go",
+  "old_str": "IELTS (the International English Language Testing System) must be at least 6.5 with no band below 6 [GO0326, GO0327].",
+  "new_str": "IELTS must be at least 6.5 with no band below 6 [GO0326, GO0327].",
+  "problem": "Pairs with the item above: the expansion moves to the first use."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/other-destinations/doc.md",
+  "section": "Ireland > Is it open, and how people go",
+  "old_str": "4. Post the form, papers and draft to the embassy in New Delhi, or to a third-party agent in Kolkata who lodges them at VFS Kolkata [OD0034].",
+  "new_str": "4. Post the form, papers and draft to the embassy in New Delhi, or to a third-party agent in Kolkata who lodges them at VFS Kolkata, the embassy's visa application centre run by the contractor VFS Global [OD0034].",
+  "problem": "VFS is first used here (new text from this pass) without explanation; it is only explained later, in the Portugal section."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/other-destinations/doc.md",
+  "section": "Egypt > Is it open, and how people go",
+  "old_str": "the latest certificate, police clearance, a doctor's fitness certificate and a negative PCR test, each attested by the ministry;",
+  "new_str": "the latest certificate, police clearance, a doctor's fitness certificate and a negative PCR test, each attested by Bangladesh's Ministry of Foreign Affairs (documents authenticated by Bangladesh's Ministry of Foreign Affairs and certified by the Egyptian Embassy, per the embassy's guidelines, which also ask for the original birth certificate showing the mother's name and nationality) [OD0229, OD0230];",
+  "problem": "'Attested by the ministry' reads as the Ministry of Education, whose notice this paragraph describes. The notice copies the Egyptian embassy's note to Bangladesh's foreign ministry ('attested by your esteemed ministry'), and the embassy's nomination guidelines on page 4 of the same PDF say documents are authenticated by the candidate's Ministry of Foreign Affairs and certified by the Egyptian Embassy. Log a fact from page 4 to support the fix (and the Egyptian embassy certification, if wanted); the same applies to 'attested by the ministry' for the birth certificate in this sentence."
+ }
+]

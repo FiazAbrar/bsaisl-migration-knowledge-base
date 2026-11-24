@@ -1,0 +1,56 @@
+[
+ {
+  "article_id": "4c391ae9-55e6-4b82-b4a5-7c43955a5220",
+  "url": "https://www.prothomalo.com/bangladesh/duegn1tue4",
+  "published": "2026-10-14",
+  "agency_as_printed": "Jabale Noor International (জাবালে নূর ইন্টারন্যাশনাল)",
+  "rl_printed": null,
+  "oep_match": "RL2505 JABAL-E-NOOR INTERNATIONAL LTD. (Cancelled); spelling variant",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "arrest",
+  "date": "2026-10-14 (press conference; arrest date not stated in this article)",
+  "summary": "Prothom Alo reports the SRB (Special Response Battalion) said at a 14 Oct 2026 press conference that it arrested Jabale Noor International's founder Mizanur Rahman (55) and Abu Taher alias Lentu, called among the ringleaders of a trafficking ring that sent 30 Bangladeshis to Russia on 7 May 2026, charging about Tk 10 lakh each for promised construction jobs, after which they were handed to the Russian army and at least 20 died in drone strikes (an arrest, not a verdict).",
+  "quote": "এ ঘটনায় মানব পাচার চক্রের অন্যতম হোতা জাবালে নূর ইন্টারন্যাশনালের প্রতিষ্ঠাতা মিজানুর রহমান (৫৫) ও আবু তাহের ওরফে লেন্টুকে গ্রেপ্তার করা হয়েছে।",
+  "already_flagged": "PF0068;PF0069;PF0070",
+  "people": [
+   {
+    "name": "মিজানুর রহমান (Mizanur Rahman), 55",
+    "role": "founder (প্রতিষ্ঠাতা) of Jabale Noor International; arrested"
+   },
+   {
+    "name": "আবু তাহের ওরফে লেন্টু (Abu Taher alias Lentu)",
+    "role": "named with the founder as a ringleader; arrested; link to the firm not stated"
+   }
+  ]
+ },
+ {
+  "article_id": "4c391ae9-55e6-4b82-b4a5-7c43955a5220",
+  "url": "https://www.prothomalo.com/bangladesh/duegn1tue4",
+  "published": "2026-10-14",
+  "agency_as_printed": "RS International (আরএস ইন্টারন্যাশনাল)",
+  "rl_printed": null,
+  "oep_match": "RL1428 M/S RS INTERNATIONAL (Cancelled); exact",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "allegation",
+  "date": "2026-10-14",
+  "summary": "Prothom Alo reports the SRB said 30 Bangladeshis went to Russia on 7 May 2026 through Jabale Noor, RS International and TS Group, each charged about Tk 10 lakh on average for promised construction jobs, and on arrival had passports and phones taken and were handed to the Russian army, where at least 20 died.",
+  "quote": "এসআরবি জানিয়েছে, চলতি বছরের ৭ মে জাবালে নূর, আরএস ইন্টারন্যাশনাল ও টিএস গ্রুপ নামের তিন প্রতিষ্ঠানের মাধ্যমে ওই ৩০ জন বাংলাদেশি রাশিয়ায় যান। নির্মাণপ্রতিষ্ঠানে কাজের কথা বলে তাঁদের প্রত্যেকের কাছ থেকে গড়ে প্রায় ১০ লাখ টাকা করে নেওয়া হয়।",
+  "already_flagged": "PF0073;PF0069",
+  "people": []
+ },
+ {
+  "article_id": "4c391ae9-55e6-4b82-b4a5-7c43955a5220",
+  "url": "https://www.prothomalo.com/bangladesh/duegn1tue4",
+  "published": "2026-10-14",
+  "agency_as_printed": "TS Group (টিএস গ্রুপ)",
+  "rl_printed": null,
+  "oep_match": "RL1755 T S OVERSEAS LTD (Cancelled); uncertain: this article prints only 'TS Group'; a separate Prothom Alo article (21 Oct 2026, mkf2is07uv) identifies the third agency as TS Overseas",
+  "firm_kind": "licensed recruiting agency",
+  "flag_type": "allegation",
+  "date": "2026-10-14",
+  "summary": "Prothom Alo reports the SRB said 30 Bangladeshis went to Russia on 7 May 2026 through Jabale Noor, RS International and TS Group, each charged about Tk 10 lakh on average for promised construction jobs, and on arrival had passports and phones taken and were handed to the Russian army, where at least 20 died.",
+  "quote": "এসআরবি জানিয়েছে, চলতি বছরের ৭ মে জাবালে নূর, আরএস ইন্টারন্যাশনাল ও টিএস গ্রুপ নামের তিন প্রতিষ্ঠানের মাধ্যমে ওই ৩০ জন বাংলাদেশি রাশিয়ায় যান। নির্মাণপ্রতিষ্ঠানে কাজের কথা বলে তাঁদের প্রত্যেকের কাছ থেকে গড়ে প্রায় ১০ লাখ টাকা করে নেওয়া হয়।",
+  "already_flagged": "PF0078;PF0079",
+  "people": []
+ }
+]

@@ -1,0 +1,107 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/services/doc.md",
+  "section": "In one minute",
+  "old_str": "For returnees, the Welfare Board's World Bank-funded RAISE project, due to end in June 2026, registered returnees at district welfare centres and paid cash incentives that averaged Tk 13,500, a sum the state minister called far too little; BRAC's Prottasha project also works on rehabilitation [OV0097, OV0120, OV0121, GV0303, GV0305].",
+  "new_str": "For returnees, the Welfare Board's World Bank-funded RAISE project, set to run until June 2026, registered returnees at district welfare centres and paid cash incentives, about Tk 13,500 each on average; the state minister called the Tk 13,500 given for rehabilitation far too little; BRAC's Prottasha project also works on rehabilitation [OV0097, OV0120, OV0121, GV0303, GV0305].",
+  "problem": "Writer's inference: GV0303 has the minister calling 'the Tk 13,500 given for rehabilitation' too little without naming RAISE, and the RMMRU figure is a writer-computed average (Tk 39,84,93,000 / 29,518). 'A sum the state minister called' ties the two as established. The old doc kept this as an open question. Also 'due to end in June 2026' reads oddly in November 2026."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/services/doc.md",
+  "section": "Government and BRAC reintegration projects",
+  "old_str": "reported in January 2026 that Tk 39 crore 84 lakh 93 thousand had been paid to 29,518 returnees as cash incentives, Tk 13,500 each on average, and that",
+  "new_str": "reported in January 2026 that Tk 39 crore 84 lakh 93 thousand had been paid to 29,518 returnees as cash incentives (about Tk 13,500 each), and that",
+  "problem": "The Tk 13,500 average is not in the RMMRU brief (checked rmmru-policy-brief-39-2026-01.txt); it is the writer's division of the two figures, but the sentence attributes it to RMMRU's report."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/services/doc.md",
+  "section": "Government and BRAC reintegration projects",
+  "old_str": "A Bangladeshi returned from the United Kingdom under the UK Home Office's returns programme gets help through BRAC if he or she contacts BRAC within 3 months of return: BRAC Centre, 75 Mohakhali, Dhaka-1212, Sunday to Thursday 9 am to 5 pm, +8801964964292 or +8801329742981; the help lasts up to 12 months [OV0119]. Two returnees",
+  "new_str": "Separately from Prottasha, a Bangladeshi returned from the United Kingdom under the UK Home Office's Returns Reintegration Programme gets help through BRAC, the programme's partner in Bangladesh, if he or she contacts BRAC within 3 months of return: BRAC Centre, 75 Mohakhali, Dhaka-1212, Sunday to Thursday 9 am to 5 pm, +8801964964292 or +8801329742981; the help lasts up to 12 months [OV0119]. Two returnees",
+  "problem": "Merges two programmes: the UK Home Office scheme (run with IRARA, BRAC as partner) sits inside the 'Prottasha.' paragraph between Prottasha's figures and Prottasha's returnee stories, so it reads as part of Prottasha. The UK leaflet never mentions Prottasha."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/services/doc.md",
+  "section": "The PKB loan for language study and skills abroad",
+  "old_str": "> - The ministry's press release of March 2026 described this loan as collateral-free up to Tk 10 lakh, for up to 3 years, with N5 for Japan and tuition sent straight to the institution, unlike circular 22/2025: has PKB revised the circular, and which terms apply now [OV0037, OV0038, OV0039, OV0040, OV0032]?",
+  "new_str": "> - BSS, the state news agency, reported on 31 March 2026, citing PKB, that this loan was collateral-free up to Tk 10 lakh, for up to 3 years, with N5 for Japan and tuition sent straight to the institution, unlike circular 22/2025: has PKB revised the circular, and which terms apply now [OV0037, OV0038, OV0039, OV0040, OV0032]?",
+  "problem": "Wrong source named: OV0037-OV0040 are a BSS news report of 31 March 2026 quoting PKB (bss-pkb-bb-fund.txt), not a ministry press release."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/services/doc.md",
+  "section": "The Probashi Kallyan desk",
+  "old_str": "BMET lists the desks and their heads, all assistant directors [OV0066]:\n- **Hazrat Shahjalal International Airport, Dhaka:** mobile 01711228121, welfaredesk@gmail.com.\n- **Shah Amanat International Airport, Chattogram:** phone 02333300957, mobile 01913631797, pdkctg@gmail.com.\n- **Osmani International Airport, Sylhet:** mobile 01677555393, pkdsylhet@gmail.com.\n\nThe desk's hours and other phone numbers are under",
+  "new_str": "The desk's hours and phone numbers are under",
+  "problem": "Outdated, conflicting contacts. The BMET list (OV0066, a December 2024 PDF) gives Dhaka 01711228121, Chattogram 01913631797/pdkctg@gmail.com and Sylhet 01677555393, and says all three heads are assistant directors. The Welfare Board's own desk page (wewb-airport-desk, updated 9 June 2026) names a deputy director in charge in Dhaka (+88 02 8901040, +8801971430203), Chattogram +8801912542185 and pkd.chattogram@wewb.gov.bd, and Sylhet 01321158330 and 01973-898375. The Departure doc already gives the Welfare Board numbers, and this doc's own lounge paragraph names the Dhaka deputy director. Fix: drop the BMET list and point to Departure. Or, if the list stays here, log a new fact from wewb-airport-desk.txt and use its numbers. OV0066 stays cited in the Sylhet Need to know."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/services/doc.md",
+  "section": "The migrant lounge and helpers at Dhaka airport",
+  "old_str": "- **Where:** Lanjanipara, Barua, Ward 48, Khilkhet, Dhaka-1229; open round the clock on 01310 350555 and 01754 715720 [OV0072, OV0073].",
+  "new_str": "- **Where:** Lanjanipara, Barua, Ward 48, Khilkhet, Dhaka-1229; round-the-clock contact numbers 01310 350555 and 01754 715720 [OV0072, OV0073].",
+  "problem": "The source says the numbers are staffed round the clock ('সার্বক্ষণিক যোগাযোগের নম্বর'). It does not say the centre is open round the clock."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/services/doc.md",
+  "section": "If a worker dies abroad",
+  "old_str": "For a worker who was irregular, undocumented, destitute or helpless, the ministry pays under its 2022 policy on the cost of transporting such workers' bodies:",
+  "new_str": "For a worker who was irregular, undocumented, destitute or helpless, the ministry acts under its 2022 policy on the cost of transporting such workers' bodies and tells the family by letter:",
+  "problem": "Checked the ministry charter, p.11, service 18. The method is 'acts under the 2022 policy and informs the family by letter'. It does not say the ministry pays, or how much."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/services/doc.md",
+  "section": "If a worker dies abroad",
+  "old_str": "countersigned by the UNO (upazila nirbahi officer);",
+  "new_str": "countersigned by the UNO (upazila nirbahi officer), or in a city corporation area by the regional executive officer;",
+  "problem": "Incomplete. The Welfare Board page (wewb-3lakh-grant) has the regional executive officer, not the UNO, countersign for city corporation areas, and the same applies to the stamp-paper release. As written, urban families are pointed to the wrong officer."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/services/doc.md",
+  "section": "PKB loans to restart",
+  "old_str": "The guarantor can be anyone able to repay, such as a parent, sibling, spouse, close relative or a solvent person, gives two photos, an NID or passport copy, an address certificate and three cheques, and must have a clean CIB (credit bureau) report [OV0047, OV0045].",
+  "new_str": "The guarantor, who can be anyone able to repay, such as a parent, sibling, spouse, close relative or a solvent person, gives two photos, an NID or passport copy, an address certificate and three cheques, and must have a clean CIB (credit bureau) report [OV0047, OV0045].",
+  "problem": "The sentence does not parse (two main verbs, no subject for 'gives'). The facts are correct."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/services/doc.md",
+  "section": "How the services are paid for",
+  "old_str": "Tk 5.7 crore on treatment for sick and injured workers and Tk 1 crore for disabled children. In June 2025 Nahid Islam, convener of the National Citizen Party (NCP), condemned the halving of the Ministry of Expatriates' Welfare's budget in the budget the interim government announced [GV0131].",
+  "new_str": "Tk 5.7 crore on treatment for sick and injured workers and Tk 1 crore for disabled children.\n\nIn June 2025 Nahid Islam, convener of the National Citizen Party (NCP), condemned the halving of the Ministry of Expatriates' Welfare's budget in the budget the interim government announced [GV0131].",
+  "problem": "Merges two things. Nahid Islam's 2025 budget remark is joined to the 2023-24 'Out' bullet, so it reads as part of the Board's accounts and leaves the bullet without its own end. It needs its own paragraph."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/services/doc.md",
+  "section": "How the services are paid for",
+  "old_str": "The Board's own accounts for 2023-24, the latest annual report, show",
+  "new_str": "The Board's own accounts for 2023-24, in its annual report for that year, show",
+  "problem": "'The latest annual report' is unverified (the next Need to know asks whether a later one exists)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/services/doc.md",
+  "section": "The Probashi card",
+  "old_str": "- If cheated, tell the nearest police station or the government office concerned;",
+  "new_str": "- If cheated, tell the nearest law-enforcement agency or the government office concerned;",
+  "problem": "The press release says 'নিকটস্থ আইনশৃঙ্খলা রক্ষাকারী বাহিনী' (nearest law-enforcement force), not specifically a police station. Checked against the PDF image."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/faq/doc.md",
+  "section": "Can I get a government loan to go abroad?",
+  "old_str": "The same loan is offered for a re-entry visa over 2 years, with instalments starting after a two-month grace period [OA0110].",
+  "new_str": "The same loan is offered for a re-entry visa; PKB's own page gives up to 3 years for the migration loan, including the grace period [F0113].",
+  "problem": "Disagrees with the Services doc, which now uses PKB's own migration-loan page (OV0010): one term of up to 3 years including grace for every borrower, with no separate 2-year re-entry term and no fixed two-month grace. The FAQ states the news guide's terms as fact. Fix on the FAQ side, or delete the sentence. Resolved: PKB's own page (official) stands over the July 2025 guide; OA0110 is no longer cited here."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/faq/doc.md",
+  "section": "Can I get a government loan to go abroad?",
+  "old_str": "lends up to Tk 10 lakh without collateral for language courses abroad,",
+  "new_str": "lends Tk 1 lakh to Tk 10 lakh for language courses abroad, without collateral only up to Tk 3 lakh under its own loan policy (see \"The PKB loan for language study and skills abroad\" in the Services for migrants and their families doc),",
+  "problem": "Disagrees with the Services doc. PKB's circular 22/2025 (OV0032, checked on the scanned PDF, p.3) needs the original deed of property above Tk 3 lakh and a registered mortgage above Tk 5 lakh. 'Without collateral' up to Tk 10 lakh comes only from news (BSS/Prothom Alo, March-April 2026)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/faq/doc.md",
+  "section": "Can I get a government loan to go abroad?",
+  "old_str": "PKB's terms as reported in December 2025 differ: N4 for Japan, a term of two to five years, and land or a registered mortgage as security above Tk 3 lakh (see \"The PKB loan for language study and skills abroad\" in the Services for migrants and their families doc).",
+  "new_str": "PKB's own loan policy, circular 22/2025 of 16 November 2025, differs: N4 for Japan, a term of two to five years including a 6-month grace period, and property papers or a registered mortgage as security above Tk 3 lakh (see \"The PKB loan for language study and skills abroad\" in the Services for migrants and their families doc).",
+  "problem": "The Services doc now takes these terms from PKB's own circular 22/2025 (OV0025-OV0032), not a December 2025 news report. The FAQ presents the official terms as one report among others, below the April 2026 news terms."
+ }
+]

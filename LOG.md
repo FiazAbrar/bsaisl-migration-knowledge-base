@@ -18,6 +18,14 @@ How to write an entry: add it at the top, under this line, in this shape. Keep i
 
 ---
 
+## 2026-11-24 · Official-source research on the docs built from news; agency-flag check · agent for FiazAbrar
+
+- **Done:** the official research pass CLAUDE.md requires on the six country docs and three global docs first built from Prothom Alo: about 1,280 facts from official sources (US 127, Canada 155, UK 220, India 107, Lebanon 96, Greece 96, money 126, services 127, other destinations 230), Need-to-know questions answered where official pages answer them, news claims replaced where official sources differ. Also: the 23 Nov articles checked for agency flags (one new row, Lamisa Enterprise); the Illegal routes doc's US visa-bond section and the FAQ's PKB loan lines aligned with the official pages; plans.md records the one-file-per-doc restructure.
+- **Where:** the nine doc folders, `agencies/`, `global/illegal-routes`, `global/faq`; trace in `passes/2026-11-24-official-research/` (briefs, checker verdicts, agency-flag outputs, `PAGES-TO-DOWNLOAD.md`).
+- **Checked by:** an independent check of every new or changed sentence, including that each official quote is in its saved page, each official source is official, and OCR'd or scanned text matches the image; 102 fixes applied.
+- **Tried and dropped:** treating a third party's copy of an official page as official (AILA's copy of the State Department notice is now marked unofficial); deleting true statements that lacked a fact (the fact was logged from the saved source instead).
+- **Open:** about 30 pages blocked automated reading (`PAGES-TO-DOWNLOAD.md`; the most important are Bangladesh Bank's skills-loan circular, the live State Department pages and BMET's country statistics). Some quotes were retyped from scanned PDFs and checked by eye. The one-file-per-doc restructure waits for the wider repo restructure.
+
 ## 2026-11-23 · Prothom Alo archive into the global docs; three new global docs · agent for FiazAbrar
 
 - **Done:** about 2,115 new facts in the global docs: Illegal routes (465), FAQ (188), Departure bottlenecks (181), Dalal scams (116), and three new docs, Sending money home (428), Services for migrants and their families (357) and Other destinations (380, 24 countries). `questions.md` synced. The article-by-article coverage ledger added to the dataset: 1,904 stories, none unaccounted for.
