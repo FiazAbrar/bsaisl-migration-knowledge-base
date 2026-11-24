@@ -4,7 +4,7 @@ The government, BRAC and other services that help people before they go, while t
 
 ## In one minute
 
-Most of the state's help for migrants comes from two bodies funded by migrants themselves. The Wage Earners' Welfare Board runs on a fund formed from migrants' own money, and it provided 95% of the capital of Probashi Kallyan Bank (PKB), the government bank for migrants [GV0020, GV0003]. PKB lends up to Tk 3 lakh to go abroad at 9% simple interest, with no property mortgaged, and if the borrower dies the rest of the loan is written off [GV0005, GV0011, GV0041]. Since 3 December 2025 a worker can apply for it online on MyGov, the government's service portal; more than 10,000 had applied by November 2026, and approval was taking 3 to 4 days, according to a press release from the government's a2i programme [GV0258, GV0259]. Since late 2025 PKB also lends up to Tk 10 lakh at 11% for a language or skills course abroad, and by October 2026 Bangladesh Bank had launched a Tk 1,000 crore scheme through PKB that lends workers up to Tk 10 lakh, without collateral and at no more than 9%, for language or skills training in the destination country [GV0152, GV0153, GV0236, GV0238, GV0240]. The TTCs (technical training centres) of BMET (Bureau of Manpower, Employment and Training) teach languages from Japanese to Arabic and Portuguese, though a Cornell University language-centre coordinator estimated that only about 2,500 of some 13 lakh workers who went abroad in a year had learned Japanese, Korean, English or Chinese at a government centre [GV0172, GV0199, GV0183]. The Welfare Board's desk at the airport checks clearances on the way out, receives the sick and the dead on the way back, and pays the burial grant [GV0019, GV0023]. At home, the Board pays scholarships to migrants' children and a monthly allowance for a disabled child, for workers who left with BMET clearance or joined the Board, and for workers who died and whose family got its grant [GV0028, GV0037]. On one day in April 2025 the Board handed 103 people Tk 1 crore 93 lakh in grants, scholarships, insurance and other help, and said it had given Tk 273 crore 81 lakh to 12,158 people during the interim government's term [GV0123, GV0127]. Abroad, a worker in some Gulf countries, South Korea or Italy can finish SSC (Secondary School Certificate), HSC (Higher Secondary Certificate) or a degree through Bangladesh Open University via the embassy [GV0055, GV0061, GV0064]. In March 2024 the state minister promised welfare cells to take services to the grassroots, and an NGO project, Helvetas's SIMS, worked in 23 upazilas of three districts [GV0089, GV0090]. The 2026-27 budget announced a Probashi card to make government services and welfare benefits easier to get, and "Bangladesh Support Centres" at embassies to rescue workers in jail or cheated and give them legal help; Prothom Alo reported on 5 September 2026 that the card had not yet been introduced and was still being prepared, and on 13 October 2026 the state minister said it was being piloted in four to five countries [GV0213, GV0208, GV0209, GV0234, GV0235, GV0268]. In the 2026 Middle East war the ministry ran a round-the-clock hotline for migrant workers, and the Welfare Board paid to bring 186 people home from Iran [GV0284, GV0288]. For returnees, the government's RAISE project and BRAC's Prottasha project work on rehabilitation, though the state minister called the Tk 13,500 given for it far too little [GV0304, GV0305, GV0303]. The Centre for Women and Children Studies (CWCS), a women's advocacy group, said in May 2024 that some returnee women are not taken back by their husbands or families, and asked for guarantor-free loans for returnee women and free legal help for those who suffered sexual exploitation, abuse, forced labour or trafficking [GV0075, GV0093, GV0092].
+Most of the state's help for migrants comes from two bodies funded by migrants themselves. The Wage Earners' Welfare Board runs on a fund formed from migrants' own money, and it provided 95% of the capital of Probashi Kallyan Bank (PKB), the government bank for migrants [GV0020, GV0003]. PKB lends up to Tk 3 lakh to go abroad, at 9% simple interest for up to 3 years, without collateral but with two guarantors, and the borrower pays fees of 1% plus VAT and Tk 900 per lakh for a risk cover that writes off the rest of the loan if the borrower dies [OV0011, OV0012, OV0010, OV0003, OV0009, OV0014, GV0041]. Since 3 December 2025 a worker can apply for it online on MyGov, the government's service portal; more than 10,000 had applied by November 2026, and approval was taking 3 to 4 days, according to a press release from the government's a2i programme [GV0258, GV0259]. Under a policy of November 2025 PKB also lends Tk 1 lakh to Tk 10 lakh at 11% for a short language or skills course abroad, and by October 2026 Bangladesh Bank had launched a Tk 1,000 crore scheme through PKB that lends workers up to Tk 10 lakh, without collateral and at no more than 9%, for language or skills training in the destination country [OV0025, OV0029, OV0030, GV0236, GV0238, GV0240]. BMET (the Bureau of Manpower, Employment and Training) runs online evening courses in Japanese, German, Korean, English and Arabic for Tk 1,000 to Tk 3,000 at its Foreign Language and Skills Centre, and hires trainers for languages from Japanese to Portuguese at its TTCs (technical training centres), though a Cornell University language-centre coordinator estimated that only about 2,500 of some 13 lakh workers who went abroad in a year had learned Japanese, Korean, English or Chinese at a government centre [OV0109, GV0172, GV0199, GV0183]. The Welfare Board's desks at the three international airports check clearances on the way out, send the sick to hospital and receive the dead on the way back, and hand the family a Tk 35,000 cheque for transport and burial [OV0056, OV0059, OV0062, GV0019]. At home, the Board pays scholarships to migrants' children and a monthly allowance for a disabled child, for workers who left with BMET clearance or joined the Board, and for workers who died and whose family got its grant [GV0028, GV0037]. On one day in April 2025 the Board handed 103 people Tk 1 crore 93 lakh in grants, scholarships, insurance and other help, and said it had given Tk 273 crore 81 lakh to 12,158 people during the interim government's term [GV0123, GV0127]. Abroad, a worker in some Gulf countries, South Korea or Italy can finish SSC (Secondary School Certificate), HSC (Higher Secondary Certificate) or a degree through Bangladesh Open University via the embassy [GV0055, GV0061, GV0064]. In March 2024 the state minister promised welfare cells to take services to the grassroots, and an NGO project, Helvetas's SIMS, worked in 23 upazilas of three districts [GV0089, GV0090]. The 2026-27 budget announced a Probashi card to make government services and welfare benefits easier to get, and "Bangladesh Support Centres" at embassies to rescue workers in jail or cheated and give them legal help; on 12 November 2026 the ministry said the card had not been launched and no applications were being taken, and warned that brokers were taking money in its name [GV0213, GV0208, GV0209, OV0105, OV0106]. In the 2026 Middle East war the ministry ran a round-the-clock hotline for migrant workers, and the Welfare Board paid to bring 186 people home from Iran [GV0284, GV0288]. For returnees, the Welfare Board's World Bank-funded RAISE project, due to end in June 2026, registered returnees at district welfare centres and paid cash incentives that averaged Tk 13,500, a sum the state minister called far too little; BRAC's Prottasha project also works on rehabilitation [OV0097, OV0120, OV0121, GV0303, GV0305]. The Centre for Women and Children Studies (CWCS), a women's advocacy group, said in May 2024 that some returnee women are not taken back by their husbands or families, and asked for guarantor-free loans for returnee women and free legal help for those who suffered sexual exploitation, abuse, forced labour or trafficking [GV0075, GV0093, GV0092].
 
 ## Before you go
 
@@ -25,15 +25,17 @@ How far the state's own offices reach: Mohiuddin Ahmed, a Canada-based analyst, 
 
 ### The Probashi card
 
-The Probashi card, its announced benefits and the July 2026 pilot plan (Janata Bank first, then Probashi Kallyan Bank) are in "The Probashi Card" in the Sending money home doc [GV0213]. In short, as reported:
+The Probashi card, its announced benefits and the July 2026 pilot plan (Janata Bank first, then Probashi Kallyan Bank) are in "The Probashi Card" in the Sending money home doc [GV0213]. In short:
 - **Announced:** in the 2026-27 budget of 11 June 2026, for people going abroad and migrants already working abroad, to keep workers' information and make government services and welfare benefits easier to get [GV0213].
-- **5 September 2026:** Prothom Alo reported it had not yet been introduced and was still at the preparation stage, although the minister had announced in February 2026 that it would come soon [GV0234, GV0235].
 - **13 October 2026:** the state minister, Md. Nurul Haque, said it was being piloted in four to five countries, including Jordan, South Korea and several Middle Eastern countries, and that card holders were planned to get a 3% incentive on money sent home through legal channels, against the 2.5% paid now [GV0268, GV0269].
+- **12 November 2026:** the ministry said the card was at the final stage of preparation, had not been formally launched, and no application process had started [OV0105].
+
+**The card scam.** The ministry warned the same day that dishonest people and brokers at home and abroad were taking money from migrants in the card's name, promising a pension or a fast card [OV0106]:
+- Pay no one for the card; the ministry asks people not to [OV0106].
+- How to apply, who qualifies and the benefits will be announced only through official media, the ministry's website (probashi.gov.bd) and its official social media [OV0106].
+- If cheated, tell the nearest police station or the government office concerned; the ministry's contacts for the card are Md. Jasim Uddin, deputy secretary, 01712-870968, dsservice@probashi.gov.bd, and Md. Mahbubul Islam, assistant private secretary to the minister, 01331-116600, aps2minister@probashi.gov.bd [OV0107].
 
 The airport benefits promised to card holders are under At the airport (see The migrant lounge and helpers at Dhaka airport) [GV0216].
-
-> **Need to know**
-> - Who can get a card in the pilot, where does a worker apply, with which papers, and does it cost anything [GV0268]?
 
 ### Ami Probashi: CV builder and online doctors
 
@@ -71,8 +73,28 @@ A trainer for Japanese, Korean, German or Italian needs at least HSC and a set l
 How far this reaches: Bdjobs' chief executive, Fahim Masroor, said in December 2025 that 12 lakh people go abroad every year and 90 to 95% of them have only secondary education [GV0155]. Ahmed Shameem, a coordinator at Cornell University's Language Resource Center, wrote in April 2026 that of about 13 lakh workers who went abroad in a recent year an estimated 2,500 learned Japanese, Korean, English or Chinese at government centres, that organised Arabic courses are lacking although the Middle East is the largest destination, and, citing Dhaka Tribune and The Business Standard, that Arabic-speaking workers can demand 20 to 30% higher wages in the Gulf [GV0183, GV0184, GV0185].
 
 > **Need to know**
-> - Which TTCs run which language courses in 2026, for how long, and at what fee [GV0171, GV0186]?
+> - Apart from the Foreign Language and Skills Centre (see Online courses at BMET's Foreign Language and Skills Centre), which TTCs run language courses in 2026, for how long, and at what fee [GV0171, GV0186]?
 > - Were the language training centres the Prime Minister ordered in March 2026 opened, and where [GV0175]?
+
+#### Online courses at BMET's Foreign Language and Skills Centre
+
+BMET's Foreign Language and Skills Centre (FLSC), on the DTTTI (Dhaka Technical Teachers' Training Institute) campus, Technical More, Mirpur Road, Darus-Salam, Dhaka, runs language courses online in the evening, five days a week, Sunday to Thursday [OV0108, OV0109]. Its August 2026 call [OV0109]:
+- **Japanese:** level A1-A2, age 18 to 35, Tk 3,000, 6 months.
+- **German:** level A1-A2, age 18 to 35, Tk 3,000, 6 months.
+- **English:** level A1-B1, age 18 to 40, Tk 1,000, 3 months.
+- **Arabic:** beginner, age 18 to 40, Tk 1,000, 3 months.
+- **Korean:** TOPIK-2 (level 3), age 18 to 35, Tk 1,000, 4 months.
+
+Each course has 40 seats and needs at least an SSC pass; for Korean, the applicant must already have passed TOPIK-1 (level 2) or finished a 4-month TOPIK-1 course at a TTC [OV0109, OV0110]. To apply [OV0111]:
+1. Register with BMET by paying Tk 200 at https://employee.oep.gov.bd/employee/login-with-otp.
+2. From the profile that gives you, choose Training portal, then Training, Trade/Skill, Division, District, FLSC, select the course, Apply and Confirm.
+3. Sit the viva on Zoom; the schedule comes by SMS or email.
+4. If selected (by SMS), enrol online within the dates given, or the place goes to the waiting list.
+
+In 2026 applications ran from 16 to 30 August and classes began on 14 September [OV0111]. Contacts: 01883-208284 (English), 01864-595182 (Korean), 01968-613447 (Arabic), 01815-472675 (German), 01727-498659 (Japanese); dirflsc.bmet@gmail.com [OV0112].
+
+> **Need to know**
+> - When does FLSC open its next batch, and does it run classroom courses as well as online ones [OV0111]?
 
 #### Heavy-vehicle driver training
 
@@ -89,7 +111,7 @@ The finance adviser, Salehuddin Ahmed, said the drivers would be trained to driv
 
 #### A language course: Korean at the Dhaka Mohila TTC
 
-The Dhaka Mohila (women's) Technical Training Centre runs a Korean language course under the Ministry of Expatriates' Welfare and Overseas Employment, run by BMET; the ninth batch was the September-December 2025 session [GV0136, GV0143]. As announced for that batch:
+The Dhaka Mohila (women's) Technical Training Centre, at Darus Salam, Mirpur, Dhaka (principal's mobile 01710490997, sfmmttc@gmail.com), runs a Korean language course under the Ministry of Expatriates' Welfare and Overseas Employment, run by BMET; the ninth batch was the September-December 2025 session [OV0113, GV0136, GV0143]. As announced for that batch:
 - **Course:** four months, 40 trainees, women or men, with a government certificate at the end [GV0137].
 - **Who:** at least SSC or equivalent, aged 18 to 35; the admission fee is Tk 1,000 [GV0138].
 - **Bring:** two recent passport-size photos, a photocopy of your NID or birth registration, and photocopies of all your educational certificates [GV0139].
@@ -105,12 +127,12 @@ How the 2025 batch was filled:
 
 #### Training for jobs in Europe: the EU Talent Partnership
 
-An EU-funded Talent Partnership project of EUR 30 lakh (3 million) formally began in December 2024; the ILO (International Labour Organization), the Ministry of Expatriates' Welfare and Overseas Employment and BMET are to run it over 2024 to 2027 [GV0112, GV0113]. Its training aims to prepare 3,000 workers with the skills EU jobs need, and it is to make the ministry's online platform fit for finding jobs [GV0114, GV0115].
+An EU-funded Talent Partnership project of EUR 30 lakh (3 million) formally began in December 2024; BMET and the ILO (International Labour Organization) run it from 1 July 2024 to 30 June 2027 [GV0112, OV0115]. It aims to upgrade the skills of 3,000 migrant workers for EU jobs in sectors such as health, engineering, ICT, care, hospitality, construction and agriculture, and to upgrade the ministry's website for job matching [OV0114].
 
 On 10 June 2026 an EU delegation told the Prime Minister's adviser Mahdi Amin that the EU was interested in recruiting skilled workers from Bangladesh to meet labour demand in Europe [GV0205].
 
 > **Need to know**
-> - Which trades and EU countries does the Talent Partnership train for, and how does a worker apply [GV0114]?
+> - Which EU countries does the Talent Partnership train for, where is the training held, and how does a worker apply [OV0114]?
 
 ### The PKB migration loan
 
@@ -118,22 +140,43 @@ PKB was opened on 20 April 2011; helping jobless people go abroad and helping re
 
 #### What you get
 
-- **Amount and term:** up to Tk 3 lakh, set by the visa's duration; three years for a new visa, two years for a re-entry visa [GV0005].
-- **Interest:** 9% simple, with a two-month grace period before repayments [GV0005]. PKB's managing director, Mujibur Rahman, said in July 2024 the bank had kept the rate at 9% even as bank interest rates rose [GV0016].
-- **Security:** no land or other property is mortgaged [GV0011].
+- **Who can borrow:** a Bangladeshi citizen aged 18 to 60 who is not in default on any bank, financial institution or NGO loan; the borrower and both guarantors must be permanent residents of the branch's area [OV0001, OV0002].
+- **Amount and term:** up to Tk 3 lakh, for at most 3 years including the grace period, repaid in equal monthly instalments after it [OV0011, OV0010].
+- **Interest:** 9% simple a year, with penal interest under Bangladesh Bank rules on late instalments [OV0012]. PKB's managing director, Mujibur Rahman, said in July 2024 the bank had kept the rate at 9% even as bank interest rates rose [GV0016].
+- **Security:** no collateral; two guarantors instead [OV0003, OV0009].
+- **Decision:** within 7 working days of an application with the right papers [OV0013].
+
+#### What it costs
+
+The application form is free, but the borrower pays [OV0004, OV0014, OV0015, OV0016]:
+- a processing fee of 0.50% of the loan plus VAT;
+- a documentation fee of 0.50% plus VAT;
+- Tk 900 per lakh for the loan risk cover (see The loan risk cover), so Tk 2,700 on a Tk 3 lakh loan;
+- 16 revenue stamps of Tk 10, and three Tk 100 adhesive stamps for each guarantor.
 
 #### What to bring
 
-Applying costs nothing; you fill in the bank's own form, and you must first open an account at PKB [GV0007]. Bring:
-- **Your job papers:** a valid visa and the appointment letter from the company that will employ you [GV0007].
-- **Your own papers:** four attested passport-size photos; a certificate of present and permanent address from the municipality or union parishad; copies of the passport and visa; a photocopy of the manpower smart card (the BMET clearance card); a photocopy of your NID (national identity card) [GV0008].
-- **Two guarantors' papers:** for each, a passport-size photo, NID and a municipality or union parishad address certificate; and three bank cheque leaves signed by one of them [GV0009].
+Open a savings account at the PKB branch with at least Tk 500 before taking the loan [OV0005]. Bring [OV0003, OV0006, OV0008]:
+- **Your own papers:** three recent passport-size photos; a photocopy of your NID (national identity card); your passport and visa copy; a photocopy of the BMET manpower card (the clearance smart card), not needed for a re-entry visa; the labour contract if you have it.
+- **Your own cheques:** three signed MICR cheque leaves from an active bank account in your name, with its statement.
+- **Guarantor 1:** a person able to repay, who gives three signed MICR cheque leaves from an active account in his or her own name or sole business, the account statement and proof of income or occupation.
+- **Guarantor 2:** a member of your family or a close relative.
+- **For each guarantor:** a passport-size photo, an NID photocopy and proof of permanent address (a utility bill or similar).
 
-Because the visa and smart card are needed, you can apply only near the end of the process (see "When can I apply for the PKB loan?" in the Frequently asked questions about going abroad doc) [GV0007, GV0008].
+**Going back on a re-entry visa?** Also bring proof that you sent money home through legal channels, proof of your job abroad (contract, appointment letter, work permit, residence permit or pay slip) and an account of what going back costs (money receipt, contract, air ticket receipt or your own statement of costs) [OV0007].
+
+Because the visa and smart card are needed, you can apply only near the end of the process (see "When can I apply for the PKB loan?" in the Frequently asked questions about going abroad doc) [OV0003].
 
 #### Applying online on MyGov
 
-Since 3 December 2025 the migration loan can be applied for online through MyGov, the government's digital service platform; after a pilot, the service runs at 122 of PKB's branches [GV0258, GV0261]. The applicant applies and follows the application's progress from home, instead of going to the branch several times to hand in papers [GV0262]. The amount is set after PKB checks what the worker's migration actually costs, up to the Tk 3 lakh limit, at 9% interest [GV0260]. As reported in November 2026 [GV0258, GV0259, GV0263]:
+Since 3 December 2025 the migration loan can be applied for online through MyGov, the government's digital service platform; after a pilot, the service runs at 122 of PKB's branches, and PKB asks borrowers to apply this way [GV0258, GV0261, OV0023]. The amount is set after PKB checks what the worker's migration actually costs, up to the Tk 3 lakh limit, at 9% interest [GV0260]. How it works on MyGov [OV0019, OV0022, OV0020, OV0021, OV0018]:
+1. On mygov.bd, open "অভিবাসন ঋণ (প্রবাসী কল্যাণ ব্যাংক)" (migration loan, Probashi Kallyan Bank) and fill in the form.
+2. Upload your passport-size photo, passport copy, visa copy, BMET card and NID copy, and each guarantor's NID copy and photo, as JPEG, JPG or PNG files of at most 1 MB each.
+3. Click the button to submit the application to the office; a saved form that is not submitted does not reach the bank.
+4. Pay nothing yet: the fees (see What it costs) are paid after the bank decides, and the decision comes to your MyGov dashboard or by SMS.
+5. Follow progress with the application and tracking numbers MyGov sends by SMS.
+
+You can have only one application open until it is approved or rejected [OV0018]. As reported in November 2026 [GV0258, GV0259, GV0263]:
 - **Uptake:** more than 10,000 workers had applied online and PKB had approved more than Tk 200 crore in about a year.
 - **Speed:** approval was taking 3 to 4 days from application, according to a press release from the government's a2i programme.
 - **Cost to the applicant:** a survey PKB published found that applicants' time, travel and application costs each fell by 50%.
@@ -143,18 +186,21 @@ Since 3 December 2025 the migration loan can be applied for online through MyGov
 
 #### How the loan is decided and repaid
 
-1. If every paper is in order, the bank gives its decision within seven days of the application; for online applications on MyGov, a2i said in November 2026 that approval takes 3 to 4 days [GV0011, GV0259].
+1. If every paper is in order, the bank gives its decision within 7 working days of the application; for online applications on MyGov, a2i said in November 2026 that approval takes 3 to 4 days [OV0013, GV0259].
 2. Once the application is processed, PKB tells you by SMS that the loan is approved [GV0010].
 3. Repay the instalments at any PKB branch or at any Sonali Bank branch, under an agreement between the two banks [GV0013].
+4. While abroad, tell the bank if your address, mobile number or email changes [OV0023].
+
+For problems getting the loan, call PKB on 16238 from Bangladesh or +880 9677-787878 from abroad [OV0017]. If the branch does not resolve a complaint, write to PKB's General Manager (Administration and Accounts), +88-02-48321195, gm2@pkb.gov.bd, Probashi Kallyan Bhaban, 71-72 Eskaton Garden Road, Dhaka-1000, who has 30 working days; then the Deputy Managing Director, dmd@pkb.gov.bd (20 working days); then the Managing Director, md@pkb.gov.bd (60 working days) [OV0024].
 
 #### The loan risk cover
 
-Every migration-loan borrower must pay a premium to join PKB's loan risk cover scheme [GV0041]. It pays out in two cases:
+Every migration-loan borrower must pay Tk 900 per lakh of the loan to join PKB's loan risk cover scheme [GV0041, OV0014]. It pays out in two cases:
 - **The borrower dies during the loan term:** 100% of what is still owed is written off [GV0041]. By July 2024 the bank had written off Tk 2 crore 74 lakh owed by 168 borrowers who died at home or abroad, according to PKB sources [GV0015].
 - **The borrower comes back within six months of taking the loan:** half (50%) of what is still owed is written off [GV0042].
 
 > **Need to know**
-> - How much is the loan risk cover premium, and is it taken from the loan or paid separately [GV0041]?
+> - Is the Tk 900 per lakh risk-cover fee paid in cash at the branch or deducted from the loan before it is paid out [OV0014]?
 > - How does a family or a returnee claim the write-off: at which branch, with which papers (death certificate, passport with arrival stamp) [GV0041, GV0042]?
 
 #### Who uses it, and how it is going
@@ -172,28 +218,34 @@ In November 2026 the migration loan was still up to Tk 3 lakh [GV0260]; the two 
 
 ### The PKB loan for language study and skills abroad
 
-PKB lends Tk 1 lakh to Tk 10 lakh to students and trainees who want to take a language or skills course abroad as a route to work there, especially in Japan, Germany, South Korea, Italy and Russia; it can be taken at any PKB branch [GV0152, GV0154]. The terms below are those PKB announced, as reported in December 2025 [GV0152].
+PKB lends Tk 1 lakh to Tk 10 lakh to students and trainees who want to take a language or skills course abroad as a route to work there, especially in Japan, Germany, South Korea, Italy and Russia; it can be taken at any PKB branch [OV0029, GV0152, GV0154]. The terms below are those of PKB's loan policy, circular 22/2025 of 16 November 2025 [OV0025].
 
 **Who can borrow:**
-- a local resident of the branch's area, under 40 [GV0156, GV0158, GV0179];
-- with an offer letter (admission confirmation) from the institution in the destination country [GV0156];
-- with at least an intermediate-level language certificate accepted there, such as TOPIK level 3 for South Korea; the December 2025 report gives N-4 for Japan, the April 2026 report N5 [GV0157, GV0180];
-- for a short course of at most two years [GV0158].
+- a Bangladeshi citizen, permanent resident of the branch's area, under 40, not in default on any loan [OV0026];
+- with an offer letter from the institution in the destination country [OV0026];
+- with at least an intermediate-level language certificate accepted there, for example N4 for Japan or TOPIK level 3 for South Korea [OV0026];
+- for a short course of at most two years [OV0026].
 
-**Bring:** three recent passport-size photos, a photocopy of your NID, the offer letter, photocopies of your passport and latest academic certificate, and the language certificate; plus the name, address and papers of one guarantor able to repay the loan, who can be a family member or relative [GV0159, GV0160].
+**Bring** [OV0027, OV0028]:
+- three recent passport-size photos, an NID photocopy and one proof of present address;
+- the offer letter, and copies of your passport and latest academic certificate;
+- the language certificate;
+- one guarantor able to repay, who can be your father, mother, brother, sister, spouse or a close relative: a photo, NID photocopy and proof of address, three signed MICR cheque leaves and a bank statement or account-opening certificate.
 
-**Security, by amount** [GV0161, GV0162, GV0163]:
+**Security, by amount** [OV0032]:
 - **Tk 1 to 3 lakh:** no collateral; the guarantor's personal guarantee and three cheque leaves from the guarantor's active bank account.
-- **Tk 3 to 5 lakh:** the same, plus the original deed of land or other immovable property worth at least twice the loan, deposited at the branch.
-- **Tk 5 to 10 lakh:** a registered mortgage and an irrevocable power of attorney in PKB's favour on property worth at least twice the loan.
+- **Above Tk 3 to 5 lakh:** the same, plus the original deed of immovable property worth at least twice the loan, deposited with the bank.
+- **Above Tk 5 to 10 lakh:** a registered mortgage and an irrevocable power of attorney in PKB's favour on property worth at least twice the loan.
 
-**Interest and term:** 11% a year, which may change; the December 2025 report gives a term of two to five years, the April 2026 report up to three years [GV0153, GV0181]. The April 2026 report says the money is paid as tuition fees sent directly to the institution and as money sent for living costs abroad [GV0178].
+**Interest, fees and term:** 11% simple a year, which may change, plus 1.5% on any overdue amount; a 0.50% processing fee and a 0.50% documentation fee; at least 2 and at most 5 years including a 6-month grace period, repaid in equal monthly instalments; you must open a savings account [OV0030, OV0033, OV0031].
 
-**Apply** online or in person at the nearest branch only; PKB has warned of fraud in loan processing and says it has no agents [GV0164]. Helpline 16238 [GV0164, GV0182]. The student loan of up to Tk 10 lakh as proof of solvency for higher study is in "Can I get a government loan to go abroad?" in the Frequently asked questions about going abroad doc.
+**How it is paid and repaid:** the bank decides within 7 working days for Tk 1 to 3 lakh, 10 for up to Tk 5 lakh and 15 for up to Tk 10 lakh; it checks the visa and language certificate, then pays the whole loan by an account-payee cheque in your name or into your PKB account; while you are abroad, your closest relative or the guarantor pays the instalments [OV0035, OV0034, OV0036].
+
+**Apply** online or in person at the nearest branch only; PKB has warned of fraud in loan processing and says it has no agents [GV0164]. Helpline 16238 [OV0017, GV0182]. The student loan of up to Tk 10 lakh as proof of solvency for higher study is in "Can I get a government loan to go abroad?" in the Frequently asked questions about going abroad doc.
 
 > **Need to know**
-> - Is this 11% loan still offered alongside the 9% loan (see The skills and language loan funded by Bangladesh Bank), or has that scheme replaced it; and does PKB still take property collateral above Tk 3 lakh on it [GV0162, GV0236]?
-> - Which Japanese level does PKB accept, N4 or N5, and is the longest term three or five years [GV0157, GV0180, GV0153, GV0181]?
+> - The ministry's press release of March 2026 described this loan as collateral-free up to Tk 10 lakh, for up to 3 years, with N5 for Japan and tuition sent straight to the institution, unlike circular 22/2025: has PKB revised the circular, and which terms apply now [OV0037, OV0038, OV0039, OV0040, OV0032]?
+> - Is this 11% loan still offered alongside the 9% loan (see The skills and language loan funded by Bangladesh Bank), or has that scheme replaced it [OV0030, GV0236]?
 > - Is this the same loan as the Tk 10 lakh solvency loan for students announced in March 2026, and how many people have taken it?
 > - Has the special bank-loan programme for meritorious students going abroad for higher study, proposed in the 2026-27 budget, started, and is it separate from PKB's loan [GV0212]?
 
@@ -225,10 +277,10 @@ To apply [GV0244, GV0245]:
 
 ### Private insurance: Guardian Probashi Prohori
 
-In November 2024 BRAC and Guardian Life Insurance Limited signed an agreement and launched an insurance policy for migrant workers, Guardian Probashi Prohori; BRAC Microfinance's senior director signed for BRAC [GV0095, GV0096]. Guardian Life's chief executive said it would reduce migrants' financial risk and make their families' future more secure [GV0097]. The government's compulsory migrant insurance is in "What does the migrant insurance cover?" in the Frequently asked questions about going abroad doc.
+In November 2024 BRAC and Guardian Life Insurance Limited signed an agreement and launched an insurance policy for migrant workers, Guardian Probashi Prohori; BRAC Microfinance's senior director signed for BRAC [GV0095, GV0096]. Guardian Life's chief executive said it would reduce migrants' financial risk and make their families' future more secure [GV0097]. As The Financial Express reported it, the policy is bought for a one-time premium and pays the nominee if the worker dies while employed, covers hospital and medical care if the worker falls ill, and gives financial help if the worker loses the job abroad [OV0125, OV0124]. The government's compulsory migrant insurance is in "What does the migrant insurance cover?" in the Frequently asked questions about going abroad doc.
 
 > **Need to know**
-> - What does Guardian Probashi Prohori cost, what does it pay for, and where does a worker buy it: at a BRAC branch, or only as a BRAC microfinance member [GV0096]?
+> - What is the Guardian Probashi Prohori premium, how much does each benefit pay, and where does a worker buy it: at a BRAC branch, or only as a BRAC microfinance member [GV0096, OV0124]?
 
 ### Air tickets: the Remittance Fighter Fare
 
@@ -241,13 +293,19 @@ For May Day 2025 the online travel agency Flight Expert launched a "Remittance F
 
 ### The Probashi Kallyan desk
 
-The Welfare Board's Probashi Kallyan desk works at all three international airports (Dhaka, Chattogram and Sylhet) [GV0019, GV0020]. What it does, as officials described it in July 2024:
-- **On the way out:** checks each new worker's BMET clearance, so that no worker becomes a victim of human trafficking [GV0019, GV0021].
-- **For workers on leave from the Middle East:** a worker going back must carry the leave permission, which is printed at the desk, and the desk's staff check and put the worker's papers in order [GV0022].
-- **On the way back:** receives workers who come back physically or mentally ill, and those who come back on an outpass (a one-way travel permit) after arrest [GV0019, GV0023].
-- **Bodies:** receives the bodies of migrants who die abroad, hands them to the family and pays the grant for burial [GV0023].
+The Welfare Board runs a Probashi Kallyan desk at every international airport (Dhaka, Chattogram and Sylhet), under section 8(5) of the Wage Earners' Welfare Board Act 2018 [OV0056, GV0019]. What it does:
+- **On the way out:** checks each new worker's BMET clearance, so that no worker becomes a victim of human trafficking; helps workers get and fill in the boarding card; checks the re-entry visas of workers going back to Saudi Arabia [GV0019, GV0021, OV0057, OV0058].
+- **For workers on leave from the Middle East:** a worker going back must carry the leave permission, which is printed at the desk, and the desk's staff check and put the worker's papers in order, as officials described it in July 2024 [GV0022].
+- **On the way back:** sends a worker who arrives sick, or falls sick at the airport, to the nearest government hospital in the Board's own ambulance; gives food and drink to workers back from jail or on an outpass (a one-way travel permit); helps with customs and reports lost luggage to the airport's Lost and Found; takes complaints from workers who were abused or cheated abroad; can arrange a stay at the Wage Earners' Centre [OV0059, OV0060, OV0063, OV0064, OV0065].
+- **After a war, disaster or lay-off:** may give returning workers financial help [OV0061].
+- **Bodies:** receives the bodies of migrants who die abroad, hands them to the family and gives a Tk 35,000 cheque for transport and burial [OV0062].
 
-The desk's other services, its hours and phone numbers are under "At the airport: the welfare desk" in the Departure bottlenecks doc.
+BMET lists the desks and their heads, all assistant directors [OV0066]:
+- **Hazrat Shahjalal International Airport, Dhaka:** mobile 01711228121, welfaredesk@gmail.com.
+- **Shah Amanat International Airport, Chattogram:** phone 02333300957, mobile 01913631797, pdkctg@gmail.com.
+- **Osmani International Airport, Sylhet:** mobile 01677555393, pkdsylhet@gmail.com.
+
+The desk's hours and other phone numbers are under "At the airport: the welfare desk" in the Departure bottlenecks doc.
 
 **The third terminal.** At a meeting on 10 June 2024, the Civil Aviation Authority's chairman said that in Dhaka airport's new third terminal BMET clearance would not be checked as before but online, in an automated system, with BMET's database merged with the immigration department's, and the airport's executive director said all welfare work for migrants there would run through the terminal's information centre [GV0079, GV0080, GV0043]. On 24 June 2024 the desk wrote to BMET's director general asking for urgent action to secure it a place in the terminal [GV0024]. A Civil Aviation Authority member said the desk's services were planned within the terminal's own operations, which a Japanese company would run, and that space would have to be asked of that company [GV0025]. The Welfare Board's director, Shoaib Ahmad Khan, said three to four thousand new workers leave every day and that he hoped the desk would get space; Tasneem Siddiqui, founding chair of the migration research group RMMRU (Refugee and Migratory Movements Research Unit), called leaving the desk out a wrong decision [GV0044, GV0045, GV0046].
 
@@ -255,7 +313,7 @@ The desk's other services, its hours and phone numbers are under "At the airport
 
 > **Need to know**
 > - Does the third terminal have a Probashi Kallyan desk in 2026, and where in the terminal is it [GV0024, GV0025]?
-> - What help does Sylhet's Osmani airport give returning and departing migrants in 2026: is the Probashi Kallyan desk there staffed, and where [GV0019, GV0170]?
+> - BMET lists a desk at Osmani airport, Sylhet, but the minister said in February 2026 that Sylhet had no such service centre: is the Sylhet desk staffed in 2026, and where in the terminal is it [OV0066, GV0170]?
 > - Where does a worker on leave now print the leave permission if the third terminal has no desk [GV0022]?
 
 ### The migrant lounge and helpers at Dhaka airport
@@ -268,18 +326,25 @@ On 11 November 2024 the Chief Adviser, Muhammad Yunus, opened the first lounge f
 - **Priority check-in and boarding:** the civil aviation ministry would arrange them, said its state minister, M Rashiduzzaman Millat [GV0220].
 - **Hotels and motels of Bangladesh Parjatan Corporation (the state tourism corporation):** a discount was being considered [GV0219].
 
-The lounge was in use in March 2025: when Prothom Alo visited, 15 to 20 travellers were there, some talking to relatives, some eating food from the shop beside it and some charging their phones [GV0116]. The shop's worker said it was set up so migrants can buy food at low cost; Alif Hossain of Bancharampur, Brahmanbaria, in Kuwait since 1996, said he heard of the lounge after clearing immigration, and that it was much better than other places, with cheaper food [GV0118, GV0117]. On 16 April 2025 Asif Nazrul said the lounge offers quality food up to 30% cheaper, free Wi-Fi, a free telephone and mobile charging [GV0119].
+**What the lounge offers.** The Welfare Board lists free Wi-Fi, food at up to 30% off, a free telephone, television, newspapers, and photocopying and printing of urgent papers [OV0067]. To use it, show proof of BMET emigration clearance or Welfare Board membership [OV0068]. The officer in charge is the deputy director of the Probashi Kallyan desk, Dhaka: phone +8802 8901040, mobile +8801971430203 [OV0069].
 
-**The Wage Earners' Centre.** Prothom Alo reported in May 2024 that migrant workers can stay at the Bangabandhu Wage Earners' Centre, next to Hazrat Shahjalal International Airport, for Tk 200 a day, but that two years after opening, the centre, built for about Tk 30 crore, was largely empty for lack of publicity [GV0319]. How to book it: see "Who helps me at the airport?" in the Frequently asked questions about going abroad doc.
+The lounge was in use in March 2025: when Prothom Alo visited, 15 to 20 travellers were there, some talking to relatives, some eating food from the shop beside it and some charging their phones [GV0116]. The shop's worker said it was set up so migrants can buy food at low cost; Alif Hossain of Bancharampur, Brahmanbaria, in Kuwait since 1996, said he heard of the lounge after clearing immigration, and that it was much better than other places, with cheaper food [GV0118, GV0117].
+
+**The Wage Earners' Centre.** A worker leaving or coming back can stay at the Welfare Board's Wage Earners' Centre near Hazrat Shahjalal International Airport [OV0070]:
+- **Where:** Lanjanipara, Barua, Ward 48, Khilkhet, Dhaka-1229; open round the clock on 01310 350555 and 01754 715720 [OV0072, OV0073].
+- **Cost:** a Tk 100 admission fee and Tk 200 a night for a seat [OV0070].
+- **Book:** online at wec.wewb.gov.bd, or apply in person, with proof of BMET clearance or Board membership, a passport copy and an air ticket copy [OV0071, OV0070].
+
+Prothom Alo reported in May 2024 that two years after opening, the centre, built for about Tk 30 crore, was largely empty for lack of publicity [GV0319].
 
 > **Need to know**
-> - Where is the Probashi lounge (which terminal, before or after immigration), who may use it, and is it still open in 2026 [GV0026, GV0116]?
+> - Where exactly is the Probashi lounge (which terminal, before or after immigration), and is it open to returning workers as well as departing ones [GV0026, GV0116]?
 > - How does a migrant recognise and reach one of the IOM-sponsored helpers at the airport [GV0047]?
 > - Do card holders get the Biman discount and Balaka lounge in practice, and how large is the discount [GV0218]?
 
 ## While abroad
 
-The Welfare Board's Probash-Bondhu call centre answers questions on its services: 16135 toll-free from Bangladesh, +8809610102030 from abroad [GV0036]. Hotlines, the labour wings and legal help while abroad: see "Who can I call for help while abroad?" in the Frequently asked questions about going abroad doc. The ministry had 29 labour welfare wings in 27 countries, but no separate expatriate welfare wing anywhere, according to a reader's column in Prothom Alo in November 2024 [GV0302]. Boishommobirodhi Probashi Andolon (Anti-Discrimination Migrants' Movement), a migrants' rights group started in London during the July-August 2024 movement, asked in November 2024 for a direct way to complain from abroad to the relevant government offices and for a round-the-clock help desk for migrants in any emergency [GV0098, GV0102, GV0103]. Around National Expatriates' Day, 30 December, the embassy in Beirut ran a special service week from 22 to 31 December 2023, giving special consular and welfare services on top of its regular ones, and held a public hearing for migrants on 2 January 2024 [GV0356, GV0357].
+The Welfare Board's Probashi call centre (Probash-Bondhu) answers migrants and their families round the clock: 16135 toll-free from Bangladesh, +8809610102030 from abroad [OV0074, OV0075]. A worker abroad who left without BMET clearance can join the Welfare Board, and so get its services, by applying online at portal.wewb.gov.bd through the embassy's labour welfare wing with the passport and work permit, paying the local equivalent of Tk 6,500, which includes life insurance; a worker with BMET clearance need not join [OV0093, OV0094]. Hotlines, the labour wings and legal help while abroad: see "Who can I call for help while abroad?" in the Frequently asked questions about going abroad doc. The ministry had 29 labour welfare wings in 27 countries, but no separate expatriate welfare wing anywhere, according to a reader's column in Prothom Alo in November 2024 [GV0302]. Boishommobirodhi Probashi Andolon (Anti-Discrimination Migrants' Movement), a migrants' rights group started in London during the July-August 2024 movement, asked in November 2024 for a direct way to complain from abroad to the relevant government offices and for a round-the-clock help desk for migrants in any emergency [GV0098, GV0102, GV0103]. Around National Expatriates' Day, 30 December, the embassy in Beirut ran a special service week from 22 to 31 December 2023, giving special consular and welfare services on top of its regular ones, and held a public hearing for migrants on 2 January 2024 [GV0356, GV0357].
 
 The Welfare Board's director (finance and budget), ATM Mahbub-ul Karim, said in May 2026 that the Board stands by migrants abroad in illness, death or legal trouble [GV0194]. At the same event the state minister, Nurul Haque, spoke of a plan to hire legal firms to protect women workers abroad [GV0190].
 
@@ -352,7 +417,7 @@ Every outgoing parcel is scanned and opened if anything looks suspicious, and ev
 
 ### Finishing school or a degree from abroad
 
-Bangladesh Open University (BOU) runs overseas programmes (called NISH-2) that Bangladeshi migrants join through the Bangladesh embassy in their country [GV0055, GV0064]. As of the 2024 batch:
+Bangladesh Open University (BOU) runs overseas programmes (called NISH-2) that Bangladeshi migrants join through the Bangladesh embassy in their country [GV0055, GV0064]. Its International Academic Program Wing, set up in 2019, began them in South Korea and now offers them in Saudi Arabia, Qatar, Kuwait, Oman, the UAE and Italy [OV0123]. As of the 2024 batch:
 
 #### SSC
 
@@ -389,7 +454,14 @@ In 2024 admission closed on 30 March and classes began in April [GV0064]. Contac
 
 ## If a worker dies abroad
 
-What the family gets, and how the body comes home, are in "If a worker dies abroad, what does the family get?" and "How is the body brought home?" in the Frequently asked questions about going abroad doc [GV0023]. At the airport, the Probashi Kallyan desk receives the body, hands it to the family and pays the burial grant [GV0023]. Speakers at a May 2025 dialogue said handing bodies over at Dhaka airport had been made easier and faster than before [GV0312]. If the worker had a PKB migration loan, the loan risk cover writes off everything still owed (see The loan risk cover) [GV0041].
+What the family gets, and how the body comes home, are also in "If a worker dies abroad, what does the family get?" and "How is the body brought home?" in the Frequently asked questions about going abroad doc. The Welfare Board's steps:
+1. **To bring the body home:** a family member applies to the Welfare Board (form sample on www.wewb.gov.bd, or call 16135); the Board sends the family's wishes to the embassy and follows up until the body arrives; the service is free [OV0079]. For a worker who was irregular, undocumented, destitute or helpless, the ministry pays under its 2022 policy on the cost of transporting such workers' bodies: a close relative applies to the ministry (aswelfare@probashi.gov.bd) with what happened, the cause of death, proof that the dead person was a migrant worker (passport, work permit, smart card or foreign ID) and the death certificate; the ministry answers within 7 working days [OV0088].
+2. **At the airport:** the Probashi Kallyan desk hands the body to the family with a Tk 35,000 cheque for transport and burial, for every dead worker [OV0078, OV0062]. Bring an heirship (warish) certificate from the union parishad chairman, mayor or city councillor, and the nominated family member's photo and NID or passport photocopy; anyone else collecting the cheque brings their own photo and NID or passport copy [OV0076]. If the family does not collect the cheque within three months of the body's arrival, it is not paid [OV0077].
+3. **The Tk 3 lakh grant:** paid if the worker went abroad with BMET emigration clearance or Board membership and died in the country the clearance was for (any Schengen country, for a worker cleared for one; Saudi Arabia, for one who died on Hajj or Umrah) [OV0080, OV0087, OV0086]. A family that took the airport cheque need not apply: the Board writes asking for the papers [OV0081]. If the worker was buried abroad, apply within one year of the death to the Board's director general or through the district Probashi Kallyan centre [OV0082].
+4. **Papers for the grant:** a family-member certificate from the union parishad chairman, mayor or councillor, countersigned by the UNO (upazila nirbahi officer); a "release, undertaking and authorisation" on Tk 400 non-judicial stamp paper, countersigned the same way (samples on www.wewb.gov.bd); the embassy's NOC or the death certificate; the receiving bank's certificate or original statement with routing number (a minor child's own account, where there is one); each family member's colour photo, attested by the chairman and by the district Probashi Kallyan centre; and the dead worker's passport photocopy [OV0084, OV0085]. The money goes by electronic transfer to the bank account, with an SMS [OV0083].
+5. **Compensation and dues from the employer:** where the embassy reports that compensation can be claimed, the Board asks the family for a power of attorney and papers and sends them to the embassy, which runs the case abroad; the Board's legal cell helps prepare the power of attorney [OV0095].
+
+Speakers at a May 2025 dialogue said handing bodies over at Dhaka airport had been made easier and faster than before [GV0312]. If the worker had a PKB migration loan, the loan risk cover writes off everything still owed (see The loan risk cover) [GV0041].
 
 **What one family got.** The family of S M Tarek, killed in Bahrain in the Middle East war, was given Tk 35,000 for burial and Tk 50,000 at once by the Welfare Board, and was to get Tk 3 lakh in financial help and Tk 10 lakh of insurance, the minister said on 3 April 2026 [GV0286].
 
@@ -403,20 +475,20 @@ A Bangladeshi migrant in Doha wrote in June 2024 that sending a body home costs 
 > - How does a family get a second post-mortem in Bangladesh: whom do they apply to (police, the magistrate, the Welfare Board desk at the airport), and does it cost anything [GV0142, GV0310]?
 
 > **Need to know**
-> - When a body is sent home through the embassy, who pays the cost abroad (the employer, the Welfare Board or the family), and is a collection among workers still needed in 2026 [GV0076]?
+> - For a worker who was legal and had clearance, who pays the cost of sending the body home from abroad (the employer, the Welfare Board or the family), and is a collection among workers still needed in 2026 [GV0076, OV0079]?
 
 ## Help for the family at home
 
 ### Scholarships for migrants' children
 
-The Welfare Board pays scholarships to high-achieving children of migrants; the amounts are in "Is there help for my children?" in the Frequently asked questions about going abroad doc [GV0028]. The 2026 round takes online applications from 25 October to 24 November 2026 [GV0250]. Its rules:
-- **Whose children:** the father or mother must have taken BMET emigration clearance or be a Welfare Board member, and at most two children of one worker can apply [GV0252]. Earlier rounds also named children of a worker who died and whose family got or will get the Board's grant [GV0028].
+The Welfare Board pays scholarships to high-achieving children of migrants; the amounts are in "Is there help for my children?" in the Frequently asked questions about going abroad doc [GV0028]. The 2026 round, announced in the Board's notice of 8 October 2026, takes online applications from 25 October to 24 November 2026 [OV0098]. Its rules:
+- **Whose children:** the father or mother must have taken BMET emigration clearance or be a Welfare Board member, and at most two children of one worker can apply [OV0099]. Earlier rounds also named children of a worker who died and whose family got or will get the Board's grant [GV0028].
 - **Which students:** those who passed SSC in 2026 and are in class 11 or the first semester or year of a Diploma in Engineering; those who passed HSC in 2025 and are in the first semester or year at a university or medical college; and those who passed the Diploma in Engineering in 2025 and are in the first semester or year of a BSc in Engineering [GV0250, GV0266, GV0267, GV0251].
-- **Results needed, child of a worker abroad:** SSC GPA 5.00 in science or 4.75 in humanities and business studies; HSC GPA 4.80 in science or 4.50 in humanities and business studies; Diploma in Engineering GPA 3.25, down from 3.50 in the 2025 round [GV0264, GV0265, GV0253, GV0109].
-- **Results needed, child of a worker who died abroad:** GPA 4.00 in any group at SSC or HSC; GPA 3.00 for the diploma [GV0264, GV0265, GV0253].
+- **Results needed, child of a worker abroad:** SSC GPA 5.00 in science or 4.75 in humanities and business studies; HSC GPA 4.80 in science or 4.50 in humanities and business studies; Diploma in Engineering GPA 3.25, down from 3.50 in the 2025 round [OV0099, GV0109].
+- **Results needed, child of a worker who died abroad:** GPA 4.00 in any group at SSC or HSC; GPA 3.00 for the diploma [OV0099].
 - **How long it is paid:** from SSC, two years for classes 11 and 12 or four years for a diploma; from HSC, three years for a pass degree, four for honours and five for MBBS, BDS, DVM, B.Arch and similar courses, whatever the session delays; from the Diploma in Engineering, four years [GV0049, GV0050, GV0256, GV0110].
 
-Papers to scan, as listed for the 2026 round [GV0254, GV0255, GV0111]:
+Papers to scan, as listed for the 2026 round [OV0100]:
 - a copy of the migrant worker's passport, and the BMET emigration clearance or proof of Welfare Board membership;
 - a certificate from the student's institution, carrying the institution head's mobile number;
 - for a child of a worker who died abroad, an NOC (no-objection certificate) from the Bangladesh mission abroad;
@@ -425,15 +497,15 @@ Papers to scan, as listed for the 2026 round [GV0254, GV0255, GV0111]:
 - a copy of the student's birth registration or NID.
 
 To apply:
-1. Go to www.wewb.gov.bd or http://stipen.wewb.gov.bd/stipend; applications are online only, not in person or by post [GV0030, GV0032].
+1. Go to https://portal.wewb.gov.bd; applications are online only, not in person or by post [OV0098].
 2. Give the student's mobile number and a parent's or guardian's mobile number [GV0031].
-3. Upload the scanned papers [GV0034, GV0111].
-4. Check the parents' names on the student's certificate match the name in the migrant's passport: a mismatch, or an incomplete or wrong application, is rejected [GV0031].
+3. Upload the scanned papers [OV0100].
+4. Check the parents' names on the student's certificate match the name in the migrant's passport: a mismatch, or an incomplete or wrong application, is rejected [OV0101].
 
-Past rounds: the 2025 round closed on 25 November 2025; the 2024 round ran from 25 November to 24 December 2024; the round before closed on 31 January 2024, and its winners' lists were published in April 2024 [GV0106, GV0033, GV0035, GV0036]. At one Welfare Board event on 16 April 2025, 65 students were given scholarships [GV0124]. For details the Board asks people to call Probash-Bondhu: 16135 toll-free in Bangladesh, +8809610102030 from abroad [GV0036].
+Past rounds: the 2025 round closed on 25 November 2025, and its final lists of winners were published on the Welfare Board's website on 16 March 2026; the 2024 round ran from 25 November to 24 December 2024; the round before closed on 31 January 2024, and its winners' lists were published in April 2024 [GV0106, OV0102, GV0033, GV0035, GV0036]. At one Welfare Board event on 16 April 2025, 65 students were given scholarships [GV0124]. For details call the Probashi call centre, 16135 toll-free in Bangladesh or +8809610102030 from abroad, or the district Probashi Kallyan centre [OV0101].
 
 > **Need to know**
-> - When are the 2026 round's winners published, and when is the first payment made [GV0250]?
+> - When is a winner's first scholarship payment made after the list is published, and is it paid into the student's bank account [OV0102]?
 
 ### Allowance for a migrant's disabled child
 
@@ -448,7 +520,7 @@ To apply, either [GV0040, GV0053, GV0054]:
 1. apply online; or
 2. collect the form free from the Board's head office, its website, a Welfare Centre or the district employment and manpower office (DEMO), and send it with the papers to the Wage Earners' Welfare Board, 9th floor (despatch section), Probashi Kallyan Bhaban, Eskaton Garden, Ramna, Dhaka.
 
-In 2024 applications ran from 16 May to 27 June, and those who had already applied did not need to again [GV0040, GV0054].
+In 2024 applications ran from 16 May to 27 June, and those who had already applied did not need to again [GV0040, GV0054]. The list of children selected for the 2025 allowance, 228 names, was published on the Board's website on 26 January 2026 [OV0103, OV0104].
 
 > **Need to know**
 > - Is the disabled-child allowance open to new applicants in 2026, and when [GV0040]?
@@ -472,21 +544,38 @@ What the court can order, as she listed it:
 
 ### PKB loans to restart
 
-PKB lends to returnees for self-employment without any mortgage of property, deciding within seven days if the papers are in order [GV0018, GV0011]. In July 2024 its six loans were the migration loan, the rehabilitation loan, the special rehabilitation loan, the Bangabandhu migrant large-family loan, the self-employment loan, and the women's migration and rehabilitation loan [GV0012]. Its managing director said in July 2024 that it lends to returnee women for self-employment at 4 to 7% interest [GV0016]. The rehabilitation loan's limits and what returnees say about the help that reaches them: see "What help is there when I come back?" in the Frequently asked questions about going abroad doc and "Help after you get home" in the Departure bottlenecks doc. In November 2024 Boishommobirodhi Probashi Andolon asked for jobs for returnees, enough interest-free PKB loans for those who want to start a business, compensation for workers cheated by brokers, and a pension for Middle East workers who retire and come home [GV0101, GV0100].
+In July 2024 PKB's six loans were the migration loan, the rehabilitation loan, the special rehabilitation loan, the Bangabandhu migrant large-family loan, the self-employment loan, and the women's migration and rehabilitation loan [GV0012]. What returnees say about the help that reaches them: see "What help is there when I come back?" in the Frequently asked questions about going abroad doc and "Help after you get home" in the Departure bottlenecks doc.
+
+**The rehabilitation loan**, for a returnee starting any lawful business [OV0041, OV0042, OV0043, OV0044, OV0046, OV0049]:
+- **Amount and security:** up to Tk 50 lakh; no collateral up to Tk 3 lakh, collateral above Tk 3 to 5 lakh, and a registered mortgage on immovable property above Tk 5 lakh.
+- **Terms:** 9% simple interest, up to 10 years; fees of 0.50% for processing and 0.50% for documentation, each at most Tk 15,000, and no service charge.
+- **Where and how fast:** apply at the PKB branch in the area of the business, on the bank's free form; the bank decides within 15 working days of a complete application.
+
+Bring three recent photos, the passport, an NID photocopy and a municipality or union parishad certificate of present and permanent address; an up-to-date trade licence (compulsory); details of the business with two years' income and expenditure; the lease or ownership papers of the business premises; a declaration of your own investment and of any other loans; copies of all papers on your return from abroad; and three signed MICR cheques from the business's account [OV0045, OV0048]. The guarantor can be anyone able to repay, such as a parent, sibling, spouse, close relative or a solvent person, gives two photos, an NID or passport copy, an address certificate and three cheques, and must have a clean CIB (credit bureau) report [OV0047, OV0045].
+
+**For women returnees.** PKB's women's rehabilitation loan, for a woman who came home after harassment abroad and starts a business, carries 7% simple interest and no service charge, up to Tk 50 lakh, collateral-free up to Tk 3 lakh; it still needs a guarantor (a parent, spouse, sibling, close relative or a solvent, respected person) [OV0050, OV0051, OV0052, OV0053]. PKB's managing director said in July 2024 that it lends to returnee women for self-employment at 4 to 7% interest [GV0016].
+
+**Treatment for a returned sick or injured worker.** The Welfare Board gives up to Tk 2 lakh to treat a worker who came home injured, sick, disabled or dying, if he or she left with BMET clearance or Board membership [OV0091, OV0090]. Apply to the Board's director general within one year of return, with the medical reports and prescriptions, a bank statement, a copy of the passport's arrival stamp and the passport copy; a committee sees the worker on a WhatsApp video call before the director general approves [OV0090].
+
+**Legal help at home.** A migrant or the family who needs legal help in Bangladesh applies to the Probashi Kallyan branch of the deputy commissioner's office, to the DEMO (district employment and manpower office) or directly to the Welfare Board; the Board writes to the local administration or the embassy to act and tells the applicant [OV0092]. In November 2024 Boishommobirodhi Probashi Andolon asked for jobs for returnees, enough interest-free PKB loans for those who want to start a business, compensation for workers cheated by brokers, and a pension for Middle East workers who retire and come home [GV0101, GV0100].
 
 ### Government and BRAC reintegration projects
 
-RAISE, the government's returnee project, and BRAC's Prottasha project both work on rehabilitating returned workers [GV0304]. What RAISE offers through its district offices, and what returnees say about the help: see "Help after you get home" in the Departure bottlenecks doc. The state minister, Nurul Haque, said on 13 October 2026 that help, training and rehabilitation for workers who come home harmed within six months of going abroad is given through a project run with World Bank and donor support, which the report calls "RACE" [GV0270]. On 14 May 2026 he called the government's help to migrants perfunctory and said the Tk 13,500 given for rehabilitation is far too little and must be raised [GV0303].
+RAISE (Recovery and Advancement of Informal Sector Employment), the government's returnee project, and BRAC's Prottasha project both work on rehabilitating returned workers [GV0304]. What returnees say about the help: see "Help after you get home" in the Departure bottlenecks doc.
 
-Prottasha, run with European Union and BRAC support, works on rehabilitating returned migrants; IOM worked with BRAC in its first phase and gives policy support in the second [GV0305, GV0306]. Two returnees told a Prottasha event in May 2026 what it gave them:
+**RAISE.** The Welfare Board lists it as its project for July 2021 to June 2026, costing Tk 427.30 crore, of which Tk 425 crore is a World Bank loan; the project director is Dr A.T.M. Mahbub-ul Karim, 02-55138261, pdraise6841@gmail.com [OV0096, OV0097]. By the World Bank's April 2025 count, over 1,40,000 returnees had registered at 31 new district welfare centres and received counselling, cash transfers and referrals to job training [OV0120]. RMMRU, which ran four of the welfare centres covering eight districts, reported in January 2026 that Tk 39 crore 84 lakh 93 thousand had been paid to 29,518 returnees as cash incentives, Tk 13,500 each on average, and that many returnees were left on the waiting list because of the project's limited scope and time [OV0121, OV0122]. On 14 May 2026 the state minister, Nurul Haque, called the government's help to migrants perfunctory and said the Tk 13,500 given for rehabilitation is far too little and must be raised [GV0303]. On 13 October 2026 he said help, training and rehabilitation for workers who come home harmed within six months of going abroad is given through a project run with World Bank and donor support, which the report calls "RACE" [GV0270].
+
+> **Need to know**
+> - Has RAISE been extended or followed by a new project after June 2026, and where does a returnee register now [OV0097, OV0122]?
+
+**Prottasha.** Prottasha II is a four-year project funded by the European Union and co-financed by BRAC; IOM worked with BRAC in its first phase and gives policy support in the second [OV0118, GV0306]. BRAC describes help at the airport for vulnerable returnees, psychosocial counselling, skills training, material help to start a livelihood and referrals; by 30 September 2025 it had given airport help to 4,242 returnees, counselling to 1,159, skills training to 3,707 and material help to 3,091 [OV0118, OV0116]. A Bangladeshi returned from the United Kingdom under the UK Home Office's returns programme gets help through BRAC if he or she contacts BRAC within 3 months of return: BRAC Centre, 75 Mohakhali, Dhaka-1212, Sunday to Thursday 9 am to 5 pm, +8801964964292 or +8801329742981; the help lasts up to 12 months [OV0119]. Two returnees told a Prottasha event in May 2026 what it gave them:
 - **Selina Begum, Tangail, back empty-handed from Cyprus:** a scooter bought with BRAC's help, which she uses to supply tea across her thana [GV0307].
 - **Sohel Rana, Tangail, back from Italy unable even to walk:** a grocery shop set up with Prottasha's help [GV0308].
 
 A concept paper presented in August 2026 by BRAC's associate director (migration), Shariful Islam Hasan, put returnees' main problems as having no savings, no chance to use skills gained abroad and being unable to start a new livelihood at home [GV0318].
 
 > **Need to know**
-> - How does a returnee join Prottasha: where does he register, who qualifies, and what papers are needed [GV0305]?
-> - Which programme pays the Tk 13,500 for rehabilitation the state minister mentioned, and who qualifies for it [GV0303]?
+> - How does a returnee join Prottasha: in which districts does it work, where does he or she register, who qualifies, and what papers are needed [OV0118]?
 
 ### Farming after return: two cases
 
@@ -539,10 +628,14 @@ The Welfare Board's help is not government money but migrants' own: the fees wor
 - **Treatment help:** Tk 3 lakh 30 thousand to three people [GV0125].
 - **Disability allowance:** Tk 1 lakh 20 thousand to 10 children [GV0125].
 
-It was also said there that during the interim government's term the Board had given Tk 273 crore 81 lakh in various help to 12,158 people [GV0127]. In June 2025 Nahid Islam, convener of the National Citizen Party (NCP), condemned the halving of the Ministry of Expatriates' Welfare's budget in the budget the interim government announced [GV0131].
+It was also said there that during the interim government's term the Board had given Tk 273 crore 81 lakh in various help to 12,158 people [GV0127].
+
+The Board's own accounts for 2023-24, the latest annual report, show where the money comes from and goes [OV0126, OV0127]:
+- **In:** Tk 444 crore in welfare fees paid by departing workers, Tk 121 crore for workers' insurance, Tk 129 crore from 42 missions abroad and Tk 90 crore in interest on fixed deposits.
+- **Out, to migrants and families:** Tk 128 crore in grants to families of workers who died, Tk 121 crore on departing workers' insurance, Tk 18 crore on body transport and burial, Tk 13.6 crore on scholarships, Tk 5.7 crore on treatment for sick and injured workers and Tk 1 crore for disabled children. In June 2025 Nahid Islam, convener of the National Citizen Party (NCP), condemned the halving of the Ministry of Expatriates' Welfare's budget in the budget the interim government announced [GV0131].
 
 > **Need to know**
-> - How much of the Welfare Board's fund was spent on direct help to migrants and families in 2025-26, against what workers paid in [GV0126]?
+> - Has the Welfare Board published an annual report or accounts for 2024-25 or 2025-26, and what did it collect in welfare fees and spend on migrants and families [OV0126]?
 
 ## Women workers
 
@@ -555,12 +648,11 @@ In May 2024 CWCS asked the government for services that did not then exist [GV00
 - free legal help, through the government's legal aid service, for women who suffered sexual exploitation, abuse, forced labour or trafficking;
 - migrant service centres at people's doorsteps, and a separate database of returnee women.
 
-PKB's loan for returnee women: see PKB loans to restart [GV0016]. The airport payment to women back after abuse and PKB's eased conditions for returnee women: see "What help is there when I come back?" in the Frequently asked questions about going abroad doc.
+PKB's loans for returnee women, which need a guarantor: see PKB loans to restart [OV0053]. The airport payment to women back after abuse and PKB's eased conditions for returnee women: see "What help is there when I come back?" in the Frequently asked questions about going abroad doc.
 
 Selim Reza, coordinator of North South University's Centre for Migration Studies, wrote in August 2026 that returnee women's skills are not assessed, their chances of starting a business are limited, rehabilitation is weak and mental health care is almost absent [GV0223]. Fewer women are going: 1,05,466 in 2022, 76,108 in 2023, 61,158 in 2024 and 61,977 in 2025, about 41% below 2022, by his count [GV0221, GV0222].
 
 At a roundtable on 5 May 2026, the ILO's senior national programme manager, Rahnuma Salam Khan, spoke of a plan to introduce a special cash scheme for returnee women with ILO support, and a UNDP (United Nations Development Programme) Bangladesh gender expert, Sharmin Islam, called on the government to ensure psycho-social counselling for returnee women workers [GV0195, GV0196].
 
 > **Need to know**
-> - Does PKB lend to a returnee woman without a guarantor in 2026, and up to what amount [GV0093]?
 > - Has the ILO-backed cash scheme for returnee women started, and how does a woman apply [GV0195]?
