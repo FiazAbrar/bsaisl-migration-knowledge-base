@@ -17,12 +17,12 @@ Countries:
 - [South Korea](countries/south-korea/) (draft, under review)
 - [Japan](countries/japan/) (draft, under review)
 - [Brunei](countries/brunei/) (draft, under review)
-- [United States](countries/united-states/) (first version, from Prothom Alo reporting; needs official sources)
-- [Canada](countries/canada/) (first version, from Prothom Alo reporting; needs official sources)
-- [United Kingdom](countries/united-kingdom/) (first version, from Prothom Alo reporting; needs official sources)
-- [India](countries/india/) (first version, from Prothom Alo reporting; needs official sources)
-- [Lebanon](countries/lebanon/) (first version, from Prothom Alo reporting; needs official sources)
-- [Greece](countries/greece/) (first version, from Prothom Alo reporting; needs official sources)
+- [United States](countries/united-states/) (first version: Prothom Alo reporting plus an official-source pass, 24 Nov 2026)
+- [Canada](countries/canada/) (first version: Prothom Alo reporting plus an official-source pass, 24 Nov 2026)
+- [United Kingdom](countries/united-kingdom/) (first version: Prothom Alo reporting plus an official-source pass, 24 Nov 2026)
+- [India](countries/india/) (first version: Prothom Alo reporting plus an official-source pass, 24 Nov 2026)
+- [Lebanon](countries/lebanon/) (first version: Prothom Alo reporting plus an official-source pass, 24 Nov 2026)
+- [Greece](countries/greece/) (first version: Prothom Alo reporting plus an official-source pass, 24 Nov 2026)
 
 For all countries:
 

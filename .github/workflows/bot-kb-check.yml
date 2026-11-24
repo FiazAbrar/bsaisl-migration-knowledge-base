@@ -1,0 +1,42 @@
+name: Bot can read the guides
+# The WhatsApp, Telegram and web bot reads the guides straight from main (navigator-bot/src/kb/service.ts).
+# This check reads every guide the way the bot does on every pull request, and fails if a guide on main
+# would disappear, lose most of its sections, or have no text. Rules: KB-STRUCTURE.md.
+on:
+  pull_request:
+    paths:
+      - "countries/**"
+      - "global/**"
+      - "agencies/**"
+      - "navigator-bot/**"
+      - "KB-STRUCTURE.md"
+permissions:
+  contents: read
+jobs:
+  kb-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          # Only the guides and the bot, never the multi-GB source archives.
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            doc.md
+            facts.csv
+            sources.csv
+            /navigator-bot/
+            !sources/
+      - name: Fetch the base branch (file list only; guides are fetched as needed)
+        run: git fetch --depth=1 --filter=blob:none origin "${{ github.base_ref }}"
+      - uses: actions/setup-node@v5
+        with:
+          node-version-file: navigator-bot/.nvmrc
+          cache: npm
+          cache-dependency-path: navigator-bot/package-lock.json
+      - name: Install the bot
+        working-directory: navigator-bot
+        run: npm ci --ignore-scripts --omit=dev
+      - name: Check every guide on the base branch is still readable
+        working-directory: navigator-bot
+        run: npm run kb:check -- --base "origin/${{ github.base_ref }}"
