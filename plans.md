@@ -32,3 +32,15 @@ To decide first: who makes the calls and walk-throughs, whether insider answers 
 ## Repo size
 
 The repo is about 940 MB and grows with every country, mostly from saved sources (pages and PDFs kept as evidence). Everything ever pushed stays in history, so deleting files later doesn't shrink it. Options to decide before it gets much bigger: Git LFS for PDFs, or keeping saved sources outside the repo with a checksum list in it.
+
+## Repo restructure (agreed 24 Nov 2026, to do after the official research PR)
+
+One file per doc instead of `doc.md` plus a built `README.md`:
+- `README.md` becomes the hand-edited source (what `doc.md` is now), so GitHub shows it on opening the folder.
+- Citations stay as fact ids (`[F0343]`), stable for the bot and for review.
+- `build.py` writes a generated "Sources" block at the bottom of `README.md`, between marker lines, listing each fact id with its source, date and link, and makes each `[F0343]` a link to its line there; nobody edits that block by hand.
+- The `.docx` keeps the numbered footnotes for reading and printing.
+- The navigator bot reads `README.md` and skips the generated block.
+- Migration: delete the built `README.md` in all doc folders, rename `doc.md` to `README.md`, rebuild; update `build.py`, `navigator-bot/app/kb_index.py`, CLAUDE.md, METHOD.md, PROMPT.md and the agent briefs.
+Why: half the merge conflicts were in built README files; one file removes "which do I edit"; diffs show only real changes.
+More restructuring items will be added here before the work starts.
