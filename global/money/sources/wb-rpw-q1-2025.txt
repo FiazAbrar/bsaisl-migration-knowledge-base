@@ -1,0 +1,1062 @@
+     Remittance Prices Worldwide - Issue 49, March 2024
+
+
+
+
+03
+                            Remittance Prices Worldwide - Issue 53, March 2025
+
+
+
+
+This Report reflects the latest trends observed
+     in the data published in March 2025.
+
+ Remittance Prices Worldwide is available at
+  http://remittanceprices.worldbank.org
+
+           © The World Bank Group, 2025
+
+
+
+
+                       2
+                                                             Remittance Prices Worldwide - Issue 53, March 2025
+
+
+
+
+    Overview
+    Remittance Prices Worldwide (RPW) monitors remittance prices across all geographic regions of the
+    world. Launched in September 2008, RPW monitors the cost incurred by remitters when sending money
+    along major remittance corridors. RPW is used as a reference for measuring progress towards global
+    cost reduction objectives, including the G20 commitment to reduce the global average to 3 percent,
+    which is being pursued in partnership with governments, service providers, and other stakeholders.
+
+    RPW covers 49 remittance sending countries and 105 receiving countries, for a total of 358 country
+    corridors worldwide. RPW tracks the cost of sending remittances for four main RSP types: Banks, MTOs,
+    Mobile Operators, and Post Offices. MTOs include both traditional providers and innovative/fintech
+    players. On average, 19 services per corridor are tracked.
+
+    This Report uses data from RPW’s most recent release to analyze the global, regional, and country
+    specific trends in the average cost of migrant remittances.
+
+    FXC Intelligence provides the underlying data used in the RPW.
+
+
+Overview
+Key findings
+    Remittance Prices Worldwide (RPW) monitors remittance prices across all geographic regions of the
+   The Global
+• world.       Average
+         Launched in     increased
+                     September     from
+                                2008,   6.26monitors
+                                      RPW    percent in
+                                                     theQ4 2024
+                                                        cost     to 6.49
+                                                             incurred by percent.
+                                                                         remitters when sending money
+•
+ along
+   The major   remittance
+        International   MTOcorridors.  RPW is used
+                              Index experienced    a as a reference
+                                                     decrease         for measuring
+                                                                over the              progress
+                                                                          quarter to 5.91      towards
+                                                                                          percent,  from global
+                                                                                                         6.05
+ cost reduction   objectives,
+   percent in Q4 2024.        including  the  G20  commitment    to reduce  the  global average  to  5 percent,
+ which is being pursued in partnership with governments, service providers, and other stakeholders.
+• The Global SmaRT Average was recorded at 3.29 percent (up from 2.91 percent in Q4 2024).
+   Twenty-two
+ Since Q2 2016,  corridors
+                   RPW did
+                         coversnot48have any SmaRT
+                                     remittance       qualifying
+                                                 sending countriesservices.
+                                                                    and 105 receiving countries, for a total of
+ 367 country corridors worldwide. RPW tracks the cost of sending remittances for four main RSP types:
+• The Digital remittances index increased to 4.85 percent from 4.64 percent in Q4 2024.
+ Banks, MTOs, Mobile Operators, and Post Offices. MTOs include both traditional providers and
+• The   Digital-only MTO
+ innovative/fintech        index
+                     players.      experienced
+                              On average,       a services
+                                             21.7 decreaseper
+                                                            to 3.55  percent
+                                                               corridor  are from  3.68 percent in Q4 2024.
+                                                                             tracked.
+•     South Asia remains the lowest cost receiving region, with an average cost of 4.80 percent. Sub-
+    This Report uses data from RPW’s most recent release to analyze the global, regional, and country
+      Saharan Africa remains the most expensive region to send money to, recorded at 8.78 percent total
+    specific trends in the average cost of migrant remittances.
+      average cost.
+   Banks
+• FXC     remain the
+      Intelligence    most the
+                   providesexpensive type of
+                               underlying    service
+                                          data       provider,
+                                               used in the RPW.with an average cost of 14.55 percent.
+•    The proportion of corridors with average costs of less than 5 percent has increased considerably
+    Overview
+     since Q1 2009 (from 17 percent to 84 percent in Q1 2025).
+•  Mobile money remains the lowest cost instrument to originate remittances, averaging 3.63 percent,
+   while debitPrices
+ Remittance    card became   the (RPW)
+                      Worldwide  lowest cost  instrument
+                                         monitors           to receive
+                                                    remittance    pricesremittances,   at 3.44 percent.
+                                                                           across all geographic   regions of the
+• Due to the ongoing Russia-Ukraine war, RPW did not include any ata on corridors originating money
+ world. Launched   in September   2008, RPW   monitors   the  cost  incurred  by remitters  when sending  in the
+ along  major remittance  corridors. RPW   is used   as a  reference    for measuring   progress
+   Russian Federation in Q1 and Q2 2022. From Q3 2022 to Q1 2025, only publicly available online  towards  global
+ cost reduction  objectives, including the  G20  commitment       to  reduce  the  global  average  to 5
+   data on corridors originating in Russia were collected, i.e., mystery shopping or data collection via percent,
+ which is being pursued in partnership with governments, service providers, and other stakeholders.
+
+    Since Q2 2016, RPW covers 48 remittance sending countries and 105 receiving countries, for a total of
+                                                       3
+    367 country corridors worldwide. RPW tracks the cost of sending remittances for four main RSP types:
+    Banks, MTOs, Mobile Operators, and Post Offices. MTOs include both traditional providers and
+    innovative/fintech players. On average, 21.7 services per corridor are tracked.
+                                                       Remittance Prices Worldwide - Issue 53, March 2025
+
+
+    APIs were not employed. Due to this deviation in data collection methodology, these services were
+    not included in the main analysis in Q1 2025; instead, the data are presented in Annex V.
+•   In Q1 2025, thirty-one services were moved from the prospects index to the main analysis, after
+    demonstrating consistency, materiality and diversity. In the same quarter, 55 new services were
+    added to the prospects index. RPW will continue to monitor and include new services when and
+    where relevant using the prospects index.
+
+
+
+
+                                                  4
+                                                                                                Remittance Prices Worldwide - Issue 53, March 2025
+
+
+
+Table of Contents
+Overview........................................................................................................................... 3
+Key findings ...................................................................................................................... 3
+Progress tracker ............................................................................................................... 6
+Prospects index ................................................................................................................ 6
+Global trends .................................................................................................................... 6
+  Global average experiences an increase .............................................................................................................. 6
+  International MTO index ..................................................................................................................................... 8
+  Global weighted average ..................................................................................................................................... 8
+  Smart Remitter Target (SmaRT) ......................................................................................................................... 9
+  Trends in corridor average total costs ............................................................................................................... 11
+G8 and G20 countries ..................................................................................................... 11
+  Cost of sending remittances from G8 countries ................................................................................................ 11
+  Cost of sending remittances from and to G20 countries ................................................................................... 12
+Regional trends .............................................................................................................. 14
+  Cost of sending remittances by region of the world.......................................................................................... 14
+  Regional differences in speed of sending remittances ...................................................................................... 15
+Cost structure ................................................................................................................. 16
+  Cash vs. digital services .................................................................................................................................... 16
+  Costs by RSP type ............................................................................................................................................. 17
+  Figure B2.1 Average cost of sending $200 via mobile operators ..................................................................... 19
+  Costs by sending and receiving method ............................................................................................................ 19
+Annex I – Tables ($200) ................................................................................................. 21
+Annex II - Cost Trends for Sending $500 ........................................................................ 23
+  Global trends for sending $500 ......................................................................................................................... 23
+     Global average total cost ....................................................................................................................................................23
+     International MTO Index ....................................................................................................................................................24
+     SmaRT Remitter Indicator ..................................................................................................................................................24
+  G20 Countries ................................................................................................................................................... 24
+     Cost of sending remittances from and to G20 countries ...................................................................................................24
+
+Annex III – Tables ($500)................................................................................................ 27
+Annex IV – Prospects Index............................................................................................ 28
+Annex V – Corridors from Russia.................................................................................... 31
+
+                                                                                       5
+                                                                    Remittance Prices Worldwide - Issue 53, March 2025
+
+
+
+Progress tracker
+RPW indicators are used to measure the progress towards targets of global efforts for the reduction of
+remittance costs. The UN SDGs and the G20 have indicated a target of 3 percent for the Global Average
+to be reached by 2030.1 At the same time, the UN SDGs and the G20 have also committed to ensuring
+that in all corridors, remittances can be transferred for 5 percent or less.
+The figure below summarizes the progress towards these three targets.
+
+
+
+
+Prospects index
+Since Q1 2022, RPW data collection has been used to also monitor new services via a prospects
+index. These new services are candidates for inclusion in the main index in the future subject to them
+meeting certain requirements. In Q1 2025, thirty-one services were moved from the prospects index to
+the main analysis, after demonstrating consistency, materiality and diversity. In the same quarter, 55
+new services were added to the prospects index. Please see Annex IV for details.
+
+
+
+Global trends
+Global average experiences an increase
+In Q1 2025, the Global Average cost for sending remittances was 6.49 percent, a sizable increase from
+
+1
+ The G8 (L’Aquila, 2010) and the G20 (Cannes, 2011 and Brisbane, 2014) committed to reduce the Global Average Total
+Cost to 5 percent. The G20 aligned with the UN’s 2030 Agenda to include cost reduction targets set under SDG 10.c. In
+addition, through the G20 Roadmap for Enhancing Cross-Border Payments, the G20 reaffirmed SDG 10.c for remittance
+costs. World Bank’s Remittance Prices Worldwide database will be used to monitor several targets on remittances in the
+Roadmap, including those on cost, speed and transparency. See FSB (2021), Targets for addressing the four challenges of
+cross-border payments (https://www.fsb.org/wp-content/uploads/P131021-2.pdf) and FSB (2022), Developing the
+Implementation Approach for the Cross-Border Payments Targets (https://www.fsb.org/wp-content/uploads/P171122.pdf).
+Until now, RPW has been reporting on the G8/G20 remittance target of 5%. In line with the G20 affirmation of the SDG 10.c
+remittance price targets, starting with Q1 2023 edition of the RPW Quarterly Reports, the reporting is being adjusted to keep
+only SDG 10.c. There has been no change in the methodology.
+
+
+                                                              6
+                                                                            Remittance Prices Worldwide - Issue 53, March 2025
+
+
+6.26 in Q4 2024. The Global Average has remained below 7.00 percent since Q1 2019 (see Figure 1
+below and Table 1 in the Annex). Overall, this represents a decline of 3.18 percentage points since Q1
+2009, when the figure was recorded at 9.67 percent. In Q1 2025, the global average for digital remittances
+was recorded at 4.85 percent, while the global average for non-digital remittances was 7.16 percent.
+Digital services account for 29% of all services RPW collected in Q1 2025.2
+
+
+                      Figure 1 Trends in the global cost of sending $200 in remittances3
+
+
+
+
+2
+  A digital remittance must be sent via a payment instrument in an online or self-assisted manner, and received into a transaction account,
+i.e., bank account, transaction account maintained at a non-bank deposit taking institution (say a post office), mobile money or e-money
+account.
+3 Figures for the global average were adjusted in Q1 2014 following a clean-up of the entire database. Some values slightly vary from figures
+
+published prior to Q1 2014.
+
+
+
+                                                                     7
+                                                                          Remittance Prices Worldwide - Issue 53, March 2025
+
+
+
+International MTO index
+The International MTO Index tracks the prices of MTOs that are present in at least 85 percent of corridors
+covered in the RPW database.4 In Q1 2025, the International MTO Index recorded a decrease to 5.91
+percent from the previous value of 6.05 percent in Q4 2024. Over the year, this figure was down by 0.40
+of a percentage point, recorded at 6.30 percent in Q1 2024. This figure has come down by 4.45 percentage
+points from its first recorded value of 10.36 percent in Q1 2009. In Q1 2025, the digital-only MTO Index
+recorded at 3.55 percent, a decrease from 3.68 percent in Q4 2024.5 The digital-only MTO Index has
+consistently remained below both the International MTO Index and the global average.
+
+                    Figure 2 Trends in International MTO Index & Digital-only MTO Index
+
+
+
+
+Global weighted average
+The global weighted average total cost accounts for the relative size of the flows in each remittance
+
+
+
+
+4 The International MTOs Index includes all MTOs that are present in over 85 percent of RPW corridors. Thus far, it has included Western
+
+Union and MoneyGram, which operate in 95 percent and 90 percent of the country corridors covered in the database, respectively.
+5
+  A digital-only MTO refers to money transfer operators that send remittances predominantly through digital channels. The digital-only MTO
+index includes five digital-only MTOs, Wise, Remitly, WorldRemit, InstaReM and Xoom. Some of these providers also have physical channels.
+
+
+
+                                                                   8
+                                                                              Remittance Prices Worldwide - Issue 53, March 2025
+
+
+corridor.6 This, as illustrated in Figure 3 (see also Table 1 in the Annex), has at times shown a different
+pattern from the simple average. In light of the changes to the corridors collected in Q2 2024, RPW
+adjusted weights used to calculate the global weighted average. Under the new weights, the Global
+Weighted Average was recorded at 4.92 percent in Q1 2025.7
+
+
+                          Figure 3 Trends in Global weighted average & SmaRT average
+
+
+
+
+Smart Remitter Target (SmaRT)
+To complement the Global Average and Global Weighted Averages described above, the World Bank
+introduced the SmaRT indicator in Q2 2016, which aims to reflect the cost that a savvy consumer with
+access to sufficiently complete information could pay to transfer remittances in each corridor. SmaRT is
+calculated as the simple average of the three cheapest qualifying services for sending the equivalent of
+$200 in each corridor and is expressed as a percentage of the total amount sent. In addition to
+
+6 It is important to note that, while official data on remittance flows by bilateral corridors are currently not available, estimates (Ratha and
+
+Shaw 2007, the 2018 version, available at
+http://www.worldbank.org/en/topic/migrationremittancesdiasporaissues/brief/migration-remittances-data) have been used in this calculation.
+These estimates are based on the Balance of Payments (BOP) and factor in migrant stocks, destination country incomes, and source country
+incomes. The methodology for these estimates has been questioned, as well as the accuracy of official data on remittance flows and migrant
+stocks. However, this still represents the only available comprehensive dataset on bilateral remittance flows. It also seems likely that overall,
+the dataset is sufficiently accurate to reflect at least the proportion between the different corridors, hence offering a good approximation to
+weight the relevance of each corridor in terms of flow size.
+7 Without the weights adjustment, the global weighted average would be 4.57 percent.
+
+
+
+
+                                                                       9
+                                                                             Remittance Prices Worldwide - Issue 53, March 2025
+
+
+transparency, services must meet additional criteria to qualify for being included in the SmaRT calculation,
+including transaction speed (five days or less), and accessibility, determined by geographic proximity of
+branches for services that require physical presence, or access to any technology or device necessary to
+use the service, such as a bank account, mobile phone, or the Internet. 8 In Q1 2025, the Global SmaRT
+Average was recorded at 3.29 percent.
+The potential of SmaRT can be appreciated even more at the corridor level, where the indicators can
+inform policy actions by identifying limitations at a more granular level. In Q1 2025, 22 of the 3499 corridors
+did not have any SmaRT qualifying services, indicating that in these corridors there is an issue with either
+access or reach of services, or a lower level of competition. Of these 22 corridors, eleven are destined for
+Sub-Saharan Africa, seven for the Middle East and North Africa, two for South Asia, one for Europe &
+Central Asia, and one for Latin America and the Caribbean. An overwhelming majority of these corridors
+have low Internet penetration and/or have low transaction account penetration, which indicate that access
+to the Internet and accounts should be proactively targeted in these regions as a means of encouraging
+more diverse payment and remittance services offering. Majority of the receiving countries in this group
+have a “Green Light” SmaRT rating for accessibility to Cash (measured by availability of cash services),
+and majority (14 out of 22 – see Box 1) have a “Green Light” rating for Mobile services (measured by
+number of cellular subscriptions per 100 persons).
+
+       Box 1 - Corridors without SmaRT qualifying services with “Green Light” rating for mobile
+                                                services
+    Angola to Namibia            Belgium to Algeria               Qatar to Sudan
+    India to Sri Lanka           France to Algeria                Qatar to Egypt, Arab Rep
+    Germany to Tajikistan        Jordan to Syrian Arab Rep.       Saudi Arabia to Sudan
+    Ghana to Nigeria             Saudi Arabia to Syrian Arab Rep. United Arab Emirates to Sudan
+    Pakistan to Afghanistan      Netherlands to Suriname
+
+
+    Note: In Q1 2025, RPW continued to experience difficulties in collecting data on all outbound services from Pakistan. In
+    addition, data on services originating in the Russian Federation (9 corridors) were not included. Therefore, for Q4 2024,
+    RPW reports no qualifying services in these 10 corridors, one of which is listed in this Box in italics.
+
+The UN SDGs committed to ensure that, by 2030, it should be possible to send remittances for 5 percent
+or less in every corridor. The SmaRT averages are used as a reference for this indicator, reflecting the
+fact that in any given corridor there are services available to customers that meet the requirements
+described above, while also on average offering a cost that is in line with the UN SDG. As of Q1 2025, 76
+percent of all corridors covered in the RPW database had SmaRT corridor averages below 5 percent.10
+
+
+
+
+8
+  For additional information on the methodology used to calculate SmaRT see
+https://remittanceprices.worldbank.org/sites/default/files/smart_methodology.pdf
+9 The number of corridors excludes the 9 corridors originating in Russia.
+10 Please note that this figure excludes the 9 corridors which originate in Russia.
+
+
+
+
+                                                                     10
+                                                                           Remittance Prices Worldwide - Issue 53, March 2025
+
+
+
+Trends in corridor average total costs
+Figure 4 shows that compared to Q1 2009, the proportion of corridors with average costs of less than 10
+percent has increased considerably, showing an overall increase of share by 31 percentage points (53
+percent of corridors in Q1 2009, compared to 84 percent of corridors in Q1 2025). This shift is naturally
+accompanied by a decrease of share of corridors exhibiting total costs over 15 percent (18 percent of
+corridors compared to 3 percent of corridors in Q1 2025). In the 10-15 percent total cost category there
+are 10 percent of corridors in Q1 2025, compared to 29 percent of corridors in Q1 2009. Year over year
+since Q1 2019, this gradual shift is visible. Of the 8 corridors with costs above 20 percent in Q1 2025, six
+of them originate from Sub-Saharan Africa. In the figure below, corridor average total costs for all outbound
+services from Pakistan remain unavailable. Corridor average total costs for services originating from
+Russia are excluded. These 10 corridors are shown as “NA” in Figure 4.
+
+Figure 4 Distribution of Average Total Costs
+
+
+
+
+G8 and G20 countries
+Cost of sending remittances from G8 countries
+The G8 countries include several of the major remittance sending countries in the world. 11 The average
+cost for sending remittances from the G8 countries decreased from 6.08 percent in Q4 2024 to 5.99
+percent in Q1 2025. Over the year, this figure increased by 0.12 of a percentage point (from 5.87 percent
+in Q1 2024). The largest increase in total average cost to send remittances is seen in Italy (from 7.35
+percent to 8.45 percent), followed by France (from 5.07 percent to 5.14 percent). The largest decrease in
+total average cost to send remittances is seen in the United Kingdom (from 5.98 percent to 5.56 percent),
+
+11 As the dataset did not include data on corridors originating from Russia collected in the same way as from other sending countries, the
+
+G8 and G20 figures reported do not include data on these corridors from Russia.
+
+
+
+                                                                   11
+                                                       Remittance Prices Worldwide - Issue 53, March 2025
+
+
+followed by the United States (from 5.98 percent to 5.56 percent), Japan (from 7.26 percent to 7.11
+percent), Canada (from 6.10 percent to 5.98 percent), and Germany (from 6.14 percent to 6.02 percent).
+
+                         Figure 5 Total average over time in G8 countries
+
+
+
+
+Cost of sending remittances from and to G20 countries
+The cost of remitting from G20 countries experienced an increase to 6.79 percent in Q1 2025, as shown
+in Figure 6 (also see Table 3 in the Annex).
+
+                Figure 6 Average cost of sending $200 from G8 and G20 countries
+
+
+
+
+                                                 12
+                                                         Remittance Prices Worldwide - Issue 53, March 2025
+
+
+South Africa remains the costliest G20 country to send remittances from (see Figure 7). This is despite
+an overall decrease from its peak in Q1 2013, when the cost of sending from South Africa was more than
+20 percent. In Q1 2025, remitting from South Africa incurred an average cost of 15.23 percent, an increase
+from its recorded value of 10.8 percent in Q4 2024. The cost of sending from the second most expensive
+G20 sending country – Brazil – was recorded at 9.96 percent in Q1 2025. Australia the least expensive
+G20 sending country, recorded at 5.11 percent, followed by France (5.14 percent), United Kingdom (5.20
+percent), Saudi Arabia (5.23 percent), the United States (5.56 percent), the Korea Rep. (5.60 percent),
+Canada (5.98 percent), and Germany (6.02 percent).
+
+                       Figure 7 Average cost of remitting from G20 countries
+
+
+
+
+                      Figure 8 Average cost of sending $200 to G20 countries
+
+
+
+
+                                                  13
+                                                        Remittance Prices Worldwide - Issue 53, March 2025
+
+
+Figures 8 and 9 display the total average cost of sending $200 to G20 countries over time and in Q1 2025,
+respectively (see also Table 4 in the Annex). The average cost of sending money to the G20 countries
+that are included in RPW as receiving markets was recorded at 5.78 percent in Q1 2025.
+
+Apart from a few quarters, the average cost of sending money to the G20 countries has followed the
+pattern of the Global Average. Since Q2 2017, the cost of remitting to G20 countries is recorded below
+the Global Average. In Q1 2025, South Africa (6.95 percent) is the most expensive country in this group
+to remit to, followed by China (6.72 percent). Costs for sending remittances to India Indonesia, Türkiye,
+and Mexico were recorded below 6 percent. Mexico was the cheapest receiving market in the G20 group,
+recorded at 4.98 percent.
+
+                  Figure 9 Average cost of remitting to G20 countries, by Country
+
+
+
+
+Regional trends
+Cost of sending remittances by region of the world
+The cost for remittance services varies significantly depending on the region where the money is being
+sent to (see Figures 10 & 11 below and Table 5 in the Annex). In Q1 2025, most regions recorded an
+increase in average total costs. Europe and Central Asia (ECA) experienced the largest increase from
+7.12 percent to 7.94 percent, followed by Sub-Saharan Africa (SSA), South Asia (SA) and Middle East
+and North Africa (MNA). East Asia and Pacific (EAP) experienced the largest decrease from 6.01 percent
+to 5.76 percent, followed by Latin America and the Caribbean (LAC).
+
+
+
+
+                                                  14
+                                                          Remittance Prices Worldwide - Issue 53, March 2025
+
+
+
+                      Figure 10 Average costs over time by region of the world
+
+
+
+
+                            Figure 11 Average costs by region of the world
+
+
+
+
+Regional differences in speed of sending remittances
+Figure 12 compares the distribution of speed between digital and non-digital remittances across different
+regions and RSP types. In all regions, non-digital remittances appear faster than their digital counterparts.
+This is due to two reasons. First, digital remittances encompass traditional banking services, i.e. bank
+account to bank account services, that have a slower speed. Second, most non-bank RSPs included in
+RPW may be pre-funding the transactions, offering a fast service to the end users. It is also important to
+note that differences in the distribution of speed between digital and non-digital services within each RSP
+type is less observable than those across various RSP types. Bank and Post Office services are much
+
+
+
+                                                    15
+                                                          Remittance Prices Worldwide - Issue 53, March 2025
+
+
+slower than money transfer operator and mobile operator services.
+
+
+    Figure 12 Speed of sending remittances by region and RSP type: cash vs digital services
+                                           Panel A – By region
+
+
+
+
+                                         Panel B – By RSP type
+
+
+
+
+Cost structure
+Cash vs. digital services
+Figure 13 further compares the costs for remittance services among different regions, by breaking down
+the cost into two components: fee and foreign exchange (FX) margin. Within each region, Figure 13
+differentiates between digital and non-digital remittances. It shows fees account for a large portion of the
+costs for remittance services. Moreover, costs for non-digital services are consistently higher than those
+for digital services regardless of the region where the money is being sent to.
+
+
+
+                                                   16
+                                                         Remittance Prices Worldwide - Issue 53, March 2025
+
+
+
+
+                    Figure 13 Average costs by region: cash vs digital services
+
+
+
+
+Costs by RSP type
+RPW tracks the cost of sending remittances for four main RSP types: banks, MTOs, mobile operators,
+and post offices. Figure 14 provides a time series visual of all the RSP types included in the RPW dataset.
+
+                           Figure 14 Total averages over time by RSP type
+
+
+
+
+                                                   17
+                                                                           Remittance Prices Worldwide - Issue 53, March 2025
+
+
+Over time, banks, mobile operators, and MTOs have seen a general decline of total average costs, while
+post office services, due to the small number of services, have led a volatile trend and overall recorded
+periodic increases since the historic low recorded in Q3 2013. Banks have been firmly above the Global
+Average, whereas MTOs and mobile operators have remained below.
+Figure 15 provides an overview for each RSP type in Q1 2024 and Q1 2025. Banks continue to be the
+costliest RSP type, with an average cost of 14.55 percent in Q1 2025. Post offices’ costs are recorded at
+7.71 percent in Q1 2025.12 MTOs’ costs are recorded at 5.04 percent, while mobile operators are the
+cheapest RSP type with costs recorded at 4.97 percent. However, mobile operators only account for a
+very small share (less than 1%) of the sample size. Box 2 provides additional details on the average cost
+of sending $200 via mobile operators.
+
+                                           Figure 15 Total average by RSP type
+
+
+
+
+12 Several services originating in France via “La Poste” are provided by “La Banque Postale” which is a subsidiary of La Poste and is
+
+licensed as a bank. This recategorization seems to have impacted the average cost of sending via post offices in Q1 2022.
+
+
+
+                                                                   18
+                                                                           Remittance Prices Worldwide - Issue 53, March 2025
+
+
+
+                           Box 2 - Average cost of sending $200 via mobile operators
+
+ Average cost of sending $200 via mobile operators has been fluctuating around 3 percent over time,
+ until recently. At the same time, transfer fees charged by mobile operators have been around 1.5 – 2.0
+ percent on average (Figure B2.1 – the blue shaded portion in the chart shows share of fees in the
+ average cost).
+ RPW collects the total cost of services split into two components: transfer fee and foreign exchange
+ margin. As shown in the figure, the fluctuations in the average cost of sending via mobile operators
+ since 2021 have largely been due to the fluctuations in the average foreign exchange margin.
+
+
+
+                                                                                               Figure B2.1 Average cost of
+                                                                                               sending $200 via mobile
+                                                                                               operators
+
+                                                                                               A similar pattern is also
+                                                                                               observed for mobile money as
+                                                                                               the payment instrument.
+
+
+
+ * Please note that Malawi has been experiencing a currency crisis which led overtime to a large disparity between the official exchange
+ rate and the parallel market rate, causing large variations in foreign exchange margins from one quarter to the next at a provider and
+ service level in the South Africa to Malawi corridor. The sharp decline in the average foreign exchange margins in 2024 is mostly due to
+ this volatility. In Q1 2025, parallel rates were sourced to reflect the remittance market scene on the ground, hence the large rise in
+ foreign exchange margin and total cost.
+
+
+
+Costs by sending and receiving method
+RPW captures separately the payment instrument used to fund the transaction and the one used to
+disburse the funds to the receiver. This approach is reflected in the charts below. This approach allows
+for further refinement of the analysis and increases its adaptability to new products that might emerge and
+has proven particularly useful in monitoring innovative products and players.
+
+In Q1 2025, Mobile money was the cheapest method for funding a remittance transaction at 3.63 percent
+(50 services recorded in RPW) (Figure 16). The average cost when using Cash (1,636 services) was 6.92
+percent. Sending money using debit or credit card (2,919 services) cost 4.68 percent. Using a bank
+account incurred an average cost of 8.81 percent (2,041 services).
+
+The cost of sending remittances to a bank account within the same bank or to a partner of the originating
+bank (102 services) was recorded at 13.46 percent in Q1 2025 (Figure 17). In contrast, sending money to
+a bank account regardless of originating bank (2,447 services), was 7.99 percent. When funds are sent
+
+
+
+                                                                  19
+                                                      Remittance Prices Worldwide - Issue 53, March 2025
+
+
+to a mobile wallet (471 services) the average cost in Q1 2025 was 5.10 percent. Services where money
+is disbursed in cash (3,711 services) cost on average 5.70 percent. RPW data collection has picked up
+an emerging means of disbursement in 2023. In Q1 2025, disbursing using debit card (17 services)
+incurred a cost of 3.44 percent.
+
+               Figure 16 Average Cost by Instrument Used to Fund the Transaction
+
+
+
+
+                    Figure 17 Average cost by means of disbursing the funds
+
+
+
+
+                                                20
+                                                                        Remittance Prices Worldwide - Issue 53, March 2025
+
+
+
+Annex I – Tables ($200)
+Table 1 – Global Average (%), International MTO Index
+                2021   2021   2021   2022   2022   2022   2022   2023     2023   2023   2023   2024   2024   2024   2024   2025
+                 Q2     Q3     Q4     Q1     Q2     Q3     Q4     Q1       Q2     Q3     Q4     Q1     Q2     Q3     Q4     Q1
+ Global Avg.    6.30   6.30   6.04   6.09   6.01   6.30   6.24   6.25     6.20   6.18   6.39   6.35   6.65   6.62   6.26   6.49
+ MTO Index      6.57   6.37   6.39   6.44   6.17   5.93   6.34   6.37     6.46   6.29   6.45   6.30   6.56   6.65   6.05   5.91
+
+
+Table 2 – Total average in G8 Countries (%)
+               2021    2021   2021   2022   2022   2022   2022   2023     2023   2023   2023   2024   2024   2024   2024   2025
+                Q2      Q3     Q4     Q1     Q2     Q3     Q4     Q1       Q2     Q3     Q4     Q1     Q2     Q3     Q4     Q1
+ Canada        6.47    6.60   6.69   6.66   6.50   6.60   6.29   6.51     6.45   5.96   6.41   6.23   6.66   6.30   6.10   5.98
+  France       5.78    6.21   6.41   6.69   6.41   6.09   5.75   6.29     5.98   6.07   5.99   5.98   6.13   5.93   5.07   5.14
+ Germany       6.15    6.37   6.22   6.10   5.83   7.02   5.98   6.13     5.84   5.62   5.62   5.80   5.91   5.78   6.14   6.02
+    Italy      4.76    4.76   4.54   4.78   4.37   4.79   4.97   5.01     5.36   5.62   5.67   6.01   6.89   7.04   7.35   8.45
+  Japan        8.50    7.95   7.52   7.35   7.58   7.82   7.22   6.96     7.09   7.12   7.03   6.94   7.89   7.56   7.26   7.11
+  Russia       2.40    2.93   3.13
+    UK         6.25    6.06   5.65   5.64   5.62   6.33   6.34   6.25     5.82   5.97   5.97   5.69   6.13   5.75   5.98   5.20
+   USA         5.41    5.61   5.18   5.52   5.55   5.36   5.58   5.69     5.66   5.77   5.82   5.71   5.79   6.03   5.98   5.56
+    G8         5.79    5.83   5.61   5.80   5.68   5.98   5.88   5.97     5.83   5.87   5.92   5.87   6.22   6.14   6.08   5.99
+
+
+Table 3 – Total average in G20 sending countries (%)
+               2021    2021   2021   2022   2022   2022   2022   2023     2023   2023   2023   2024   2024   2024   2024   2025
+                Q2      Q3     Q4     Q1     Q2     Q3     Q4     Q1       Q2     Q3     Q4     Q1     Q2     Q3     Q4     Q1
+ Australia     6.56    7.25   6.40   6.23   5.76   5.82   5.88   5.77     5.98   5.72   5.51   5.40   5.48   5.35   5.35   5.11
+   Brazil      7.74    4.81   4.19   5.93   7.71   9.01   8.08   8.10     9.41   7.61   6.90   6.56   7.07   7.64   7.71   9.96
+ Canada        6.47    6.60   6.69   6.66   6.50   6.60   6.29   6.51     6.45   6.96   6.41   6.23   6.66   6.30   6.10   5.98
+  France       5.78    6.21   6.41   6.69   6.41   6.09   5.75   6.29     5.98   6.07   5.99   5.98   6.13   5.93   5.07   5.14
+ Germany       6.15    6.37   6.22   6.10   5.83   7.02   5.98   6.13     5.84   5.62   5.62   5.80   5.91   5.78   6.14   6.02
+    Italy      4.76    4.76   4.54   4.78   4.37   4.79   4.97   5.01     5.36   5.62   5.67   6.01   6.89   7.04   7.35   8.45
+  Japan        8.50    7.95   7.52   7.35   7.58   7.82   7.22   6.96     7.09   7.12   7.03   6.94   7.89   7.56   7.26   7.11
+ Korea, Rep.   4.15    4.18   3.46   2.98   2.93   2.07   2.28   3.30     3.55   4.72   5.27   5.20   5.27   5.59   5.6    5.60
+  Russia       2.40    2.93   3.13
+   Saudi
+   Arabia
+               4.82    4.87   4.20   4.43   4.87   4.22   4.83   4.54     4.69   5.52   5.49   5.56   5.65   6.16   5.36   5.23
+   South               14.8   13.0   13.9   14.7   15.0   13.1                   11.6   12.8   13.1   13.1   12.0          15.2
+               15.86                                             13.4     13.9                                      10.8
+   Africa               1      2      3      3      1      9                      2      2      8      2      3             3
+    UK         6.25    6.06   5.65   5.64   5.62   6.33   6.34   6.25     5.82   5.97   5.97   5.69   6.13   5.75   5.6    5.20
+   USA         5.41    5.61   5.18   5.52   5.55   5.36   5.58   5.69     5.66   5.77   5.82   5.71   5.79   6.03   5.98   5.56
+
+
+
+
+                                                             21
+                                                                            Remittance Prices Worldwide - Issue 53, March 2025
+
+
+ From G20        6.46    6.37    6.00    6.20   6.14   6.39   6.37   6.47     6.43   6.33   6.46   6.47   6.77   6.67   6.51   6.79
+
+
+Table 4 – Total average in G20 receiving countries (cost to send money to select countries %)
+                 2021    2021    2021    2022   2022   2022   2022   2023     2023   2023   2023   2024   2024   2024   2024   2025
+                  Q2      Q3      Q4      Q1     Q2     Q3     Q4     Q1       Q2     Q3     Q4     Q1     Q2     Q3     Q4     Q1
+   Brazil        6.10    6.43    6.35    6.56   6.27   6.17   5.87   5.90     6.28   5.97   6.12   6.39   7.04   7.08   6.23   6.59
+  China          7.14    6.78    6.35    6.52   6.28   6.37   6.12   6.30     6.45   6.46   6.59   6.61   6.86   7.17   7.11   6.72
+   India         5.18    5.31    4.94    4.98   4.70   4.65   4.57   4.72     4.77   4.95   5.04   5.01   5.02   5.30   5.15   5.12
+ Indonesia       6.16    6.15    5.62    5.61   5.57   5.26   5.51   5.34     5.58   5.32   5.44   6.00   6.05   5.71   5.83   5.57
+  Mexico         4.59    4.39    4.28    4.81   4.53   4.45   4.57   4.65     4.63   4.70   4.89   4.87   4.89   4.94   4.80   4.98
+   South
+   Africa
+                 7.16    8.21    6.20    6.36   6.56   6.68   6.43   6.64     6.73   7.17   7.20   7.08   7.37   7.40   7.41   6.95
+  Türkiye        7.54    6.93    6.54    6.08   6.55   6.20   6.40   6.28     6.01   5.62   5.81   6.07   6.19   5.47   4.76   5.31
+  To G20         6.06    6.02    5.62    5.69   5.53   5.46   5.42   5.48     5.58   5.55   5.67   5.79   5.93   6.00   5.82   5.78
+
+
+Table 5 – Total average by regions of the world (%)
+                  2021    2021    2021   2022   2022   2022   2022   2023     2023   2023   2023   2024   2024   2024   2024   2025
+                   Q2      Q3      Q4     Q1     Q2     Q3     Q4     Q1       Q2     Q3     Q4     Q1     Q2     Q3     Q4     Q1
+ East Asia &
+   Pacific
+                  6.24    6.21    5.91   5.85   5.76   5.70   5.85   5.70     5.87   5.73   5.83   5.96   6.19   6.36   6.01   5.76
+  Europe &
+ Central Asia     6.45    6.55    6.37   6.40   6.43   6.89   6.40   6.59     6.87   6.60   6.66   7.39   7.43   7.33   7.12   7.94
+ (excl. RUS)
+    Latin
+  America &       5.58    5.72    5.60   6.03   5.96   5.64   6.03   5.81     6.13   6.87   5.88   5.97   6.08   6.19   5.79   5.72
+  Caribbean
+ Middle East &
+  North Africa
+                  6.22    6.56    6.37   6.66   6.33   6.15   6.66   6.08     5.88   5.83   5.93   6.07   6.18   6.45   6.10   6.25
+ South Asia       4.30    4.49    4.30   4.21   4.05   4.94   4.21   4.58     4.31   5.44   5.79   5.16   5.53   5.01   4.48   4.80
+ Sub-Saharan
+    Africa
+                  8.72    8.27    7.83   7.84   7.84   8.46   7.84   8.35     7.92   7.39   7.90   7.73   8.37   8.45   8.16   8.78
+
+
+
+
+                                                                 22
+                                                         Remittance Prices Worldwide - Issue 53, March 2025
+
+
+
+
+Annex II - Cost Trends for Sending $500
+This Annex is a continued supplement to the ongoing Global Cost Reduction monitoring efforts established
+with the main RPW Quarterly Report. Global targets for reduction of remittances cost have focused on the
+$200 (or local currency equivalent) as the amount sent, which is believed to be an accurate representation
+of a typical remittance transaction size. However, data for $500 (or equivalent) have also been collected
+alongside the data for $200 and have been analyzed since Q4 2017 to complement the $200 analysis.
+The analysis in this annex shows again that, as expected, the average cost of sending $500 is lower as a
+percentage of amount sent compared to the average cost of sending $200. The analysis additionally
+confirms that the average cost of sending $500 has followed a similar trend to the one observed over the
+years for $200.
+
+Global trends for sending $500
+Global average total cost
+In Q1 2025, the Global Average cost for sending $500 was 4.26 percent. The average cost of sending
+$500 has remained below 5.00 percent since Q2 2014 and has never exhibited a value above 6 percent
+(the costliest period was in Q3 2011, where the total average cost of sending $500 was recorded at 5.59
+percent) (Figure 18). This represents a decline of 1.06 percentage point since Q1 2011, when the figure
+was first recorded at 5.32 percent. Over the preceding 5-year period (Q1 2020 – Q1 2025), the total cost
+of sending $500 has decreased by 0.26 percentage point.
+
+                        Figure 18 Global average total cost for sending $500
+
+
+
+
+                                                  23
+                                                                         Remittance Prices Worldwide - Issue 53, March 2025
+
+
+International MTO Index
+The International MTO Index tracks the prices of MTOs that are present in at least 85 percent of corridors
+covered in the RPW database.13 In Q1 2025, the International MTO Index for $500 decreased to 4.22
+percent. Over the preceding 5-year period (Q1 2020 – Q1 2025), the total cost of sending $500 has
+decreased by 1.07 percentage point.
+SmaRT Remitter Indicator
+The SmaRT index aims to reflect the cost that a savvy consumer with access to sufficiently complete
+information could pay to transfer remittances in each corridor. In Q1 2025, the Global SmaRT Average for
+$500 was recorded at 2.21 percent.
+
+G20 Countries
+Cost of sending remittances from and to G20 countries
+The cost of remitting $500 from G20 countries has remained below 5.00 percent since Q1 2014, when
+this figure was recorded at 5.10 percent. The total cost of remitting $500 from G20 countries has closely
+followed a similar trend as the Global Average of sending $500, as seen in Figure 19. The cost of remitting
+$500 from G20 countries in Q1 2025 experienced an increase, recorded at 4.54 percent.
+
+                          Figure 19 Average cost of sending $500 from G20 countries
+
+
+
+
+13
+  The International MTOs Index includes all MTOs that are present in over 85 percent of RPW corridors. Thus far, it has included Western
+Union and MoneyGram, which operate in 95 percent and 90 percent of the country corridors covered in the database, respectively.
+
+
+
+
+                                                                 24
+                                                          Remittance Prices Worldwide - Issue 53, March 2025
+
+
+In Q1 2025, South Africa is the most expensive G20 country to send $500 from (see Figure 20) at 10.70
+percent, followed by Brazil recorded at 7.45 percent. The Republic of Korea remains the least expensive
+sending country in this grouping, exhibiting a total average cost of sending $500 of 3.07 percent, followed
+by Saudi Arabia (3.14 percent), Australia (3.54 percent), France (3.61 percent), the United States (3.81
+percent), the United Kingdom (3.93 percent), Germany (4.10 percent), Japan (4.14 percent), and Canada
+(4.30 percent). Of this group, Brazil, Canada, Italy, and South Africa, exhibit costs higher than the Global
+Average in Q1 2025.
+
+                       Figure 20 Average cost of remitting from G20 countries
+
+
+
+
+Figures 21 and 22 display the total average cost of sending $500 to G20 countries over time and in Q1
+2025, respectively. The average cost of sending $500 to the G20 countries that are included in RPW as
+receiving markets decreased from 3.71 percent in Q4 2024 to 3.66 percent in Q1 2025.
+
+                        Figure 21 Average cost of remitting to G20 countries
+
+
+
+
+                                                   25
+                                                         Remittance Prices Worldwide - Issue 53, March 2025
+
+
+
+For the past 5 consecutive years, the cost of remitting $500 to G20 countries is recorded below the Global
+Average cost of sending $500. In Q1 2025, South Africa (5.13 percent) remains the most expensive
+country in this grouping to remit to, followed by Brazil (4.67 percent), and China (4.24 percent). Over the
+last 5 years, the total average cost of sending to G20 countries has decreased by 0.45 of a percentage
+point (in Q1 2010, this figure was recorded at 4.11 percent).
+
+              Figure 22 Average cost of remitting $500 to G20 countries, by Country
+
+
+
+
+                                                   26
+                                                                         Remittance Prices Worldwide - Issue 53, March 2025
+
+
+
+Annex III – Tables ($500)
+Table 6 – Global Average, International MTO Index ($500)
+                 2021   2021   2021   2022   2022   2022   2022   2023     2023   2023   2023   2024   2024   2024   2024   2025
+                  Q2     Q3     Q4     Q1     Q2     Q3     Q4     Q1       Q2     Q3     Q4     Q1     Q2     Q3     Q4     Q1
+ Global Avg.     4.21   4.23   4.10   4.09   4.04   4.28   4.37   4.33     4.21   4.29   4.45   4.32   4.55   4.44   4.11   4.26
+ MTO Index       4.80   4.73   4.83   4.86   4.65   4.52   4.84   4.86     4.86   4.75   4.86   4.68   4.89   4.93   4.43   4.22
+
+
+Table 7 – Cost of sending $500 from G20 countries
+                 2021   2021   2021   2022   2022   2022   2022   2023     2023   2023   2023   2024   2024   2024   2024   2025
+                  Q2     Q3     Q4     Q1     Q2     Q3     Q4     Q1       Q2     Q3     Q4     Q1     Q2     Q3     Q4     Q1
+  Australia      4.38   4.63   4.44   4.24   3.76   3.90   4.05   4.02     4.07   3.96   3.79   3.71   3.71   3.62   3.68   3.54
+    Brazil       7.65   4.50   3.96   6.01   7.20   9.26   7.88   7.68     8.76   7.57   6.88   6.60   6.36   6.64   7.04   7.45
+  Canada         4.58   4.70   4.54   4.55   4.43   4.59   4.74   4.94     4.81   4.36   4.69   4.47   5.00   4.58   4.44   4.30
+   France        4.28   4.63   4.68   4.54   4.42   4.10   4.15   4.47     4.39   4.25   4.22   4.27   4.19   4.32   3.69   3.61
+  Germany        4.08   3.97   4.11   3.93   3.94   4.63   4.09   4.23     3.88   3.89   3.85   3.99   4.12   3.95   4.28   4.10
+     Italy       3.20   3.25   3.12   3.31   3.00   3.40   3.62   3.59     3.63   3.87   4.09   3.79   4.43   4.40   4.28   4.73
+   Japan         4.60   4.36   4.30   4.16   4.13   4.39   4.19   3.89     4.01   3.98   3.95   3.88   4.56   4.22   4.09   4.14
+  Korea, Rep.    2.24   2.40   2.14   1.87   1.87   1.05   1.28   1.34     1.50   2.45   2.83   2.77   2.81   3.06   3.09   3.07
+   Russia        2.40   2.66   2.83
+ Saudi Arabia    2.88   2.91   2.64   2.88   3.13   2.54   3.18   2.86     2.95   3.62   3.61   3.62   3.75   4.07   3.26   3.14
+ South Africa    9.38   9.11   7.75   8.18   8.68   8.64   8.22   7.81     8.04   7.58   7.82   8.23   7.99   7.15   6.20   10.7
+     UK          4.62   4.54   4.21   4.09   3.99   4.80   4.86   4.76     4.27   4.46   4.58   4.25   4.72   4.38   4.25   3.93
+    USA          3.78   3.88   3.71   3.89   3.95   3.77   4.00   4.07     3.97   4.19   4.23   4.07   4.16   4.22   4.17   3.81
+  From G20       4.35   4.31   4.13   4.19   4.14   4.36   4.49   4.50     4.37   4.41   4.51   4.40   4.64   4.49   4.33   4.54
+
+
+Table 8 – Cost of receiving $500 in G20 countries
+                2021    2021   2021   2022   2022   2022   2022   2023     2023   2023   2023   2024   2024   2024   2024   2025
+                 Q2      Q3     Q4     Q1     Q2     Q3     Q4     Q1       Q2     Q3     Q4     Q1     Q2     Q3     Q4     Q1
+  Brazil        4.64    4.87   4.91   5.04   4.67   4.72   4.57   4.56     4.78   4.59   4.72   4.84   5.29   5.31   4.45   4.67
+  China         4.44    4.25   4.02   4.11   3.98   4.01   4.01   4.10     4.18   4.18   4.28   4.20   4.41   4.48   4.45   4.24
+   India        3.13    3.14   2.99   3.03   2.88   2.78   2.85   2.85     2.96   2.96   3.02   2.98   2.98   3.17   3.96   3.02
+ Indonesia      3.90    3.82   3.62   3.61   3.60   3.34   3.73   3.51     3.69   3.48   3.63   4.03   4.08   3.71   3.90   3.81
+  Mexico        2.83    2.76   2.86   3.21   3.09   2.94   3.12   3.15     3.05   3.01   3.27   3.27   3.30   2.99   3.03   3.22
+   South
+   Africa
+                5.47    6.28   4.62   4.75   5.03   5.24   4.91   5.13     4.99   5.48   5.60   5.46   5.61   5.55   5.56   5.13
+ Türkiye        5.24    4.81   4.64   4.18   4.76   4.58   4.67   4.70     4.57   4.13   4.29   4.38   4.24   3.66   3.12   3.27
+ To G20         3.90    3.86   3.67   3.71   3.64   3.56   3.67   3.66     3.73   3.65   3.77   3.81   3.89   3.84   3.71   3.66
+
+
+
+
+                                                              27
+                                                           Remittance Prices Worldwide - Issue 53, March 2025
+
+
+
+Annex IV – Prospects Index
+Since Q1 2022, RPW data collection would be used to also monitor new services via a prospects
+index. These new services could be candidates for inclusion in the main index in the future subject to
+them meeting certain requirements. In Q1 2025, 55 new services originating from fifteen sending countries
+were added to the prospects index, covering twenty-five destination countries.
+
+In Q1 2025, thirty-one services were moved from the Prospects Index and added to the main analysis.
+Taken together, the Prospects Index now includes 593 services. Figure 23 shows the distribution of these
+services by receiving region.
+
+                 Figure 23 Number of Prospects Index services by receiving region
+
+
+
+
+Average cost for sending $200 for the prospects index was 6.21 percent, lower than the global average
+of 6.49 percent in Q1 2025. Three hundred and sixty-five services were digital services, accounting for 62
+percent of all services in the prospects index. Average cost for digital remittances was 5.06 percent,
+slightly higher than the global digital remittances index of 4.85 percent. Figure 24 plots the average cost
+by receiving regions. Average cost for the prospects index in Q1 2025 stayed lower than the global
+average in Europe & Central Asia (ECA), South Asia (SA), and Sub-Saharan Africa (SSA). It is partly
+attributed to inclusion of services remitted via digital instruments, i.e. debit/credit cards, mobile money and
+bank account transfers.
+
+In Q1 2025, cheapest method to fund a remittance transaction among the services in the prospects index
+was debit/credit card at 4.40 percent. According to Table 9, average costs of sending $200 via various
+payment instruments in the prospects index are all lower than their main dataset counterparts, with the
+exception of services sent via bank account. Table 10 shows debit card is the cheapest method to disburse
+remittance among the services in the prospects index at 3.80 percent. Sending $200 to various pickup
+instruments in the prospects index are all more affordable than their counterparts in the main analysis,
+with the exception of services received via debit card and via the same bank.
+
+
+
+
+                                                     28
+                                                           Remittance Prices Worldwide - Issue 53, March 2025
+
+
+
+
+         Figure 24 Average cost of Prospects Index services by region, sending $200 (%)
+
+
+
+
+         Table 9 Average Cost by Instrument Used to Fund the Transaction, sending $200
+
+        Sending method                  Cash          Bank Account        Debit/Credit Card   Mobile Money
+        Prospects Index                   6.10             8.87                 4.40              na
+        Number of services                 27              229                  337               na
+
+              Table 10 Average cost by means of disbursing the funds, sending $200
+
+                                                           Bank Account
+       Receiving method       Cash       Bank Account                           Debit Card     Mobile Wallet
+                                                           (same bank)
+       Prospects Index           5.24          7.31               45.93             3.80           4.85
+       Number of services        192           310                  2                31             60
+
+Table 11 provides additional information for comparison, including the average costs using the services
+included in the prospects index only, the average costs without these services as shown elsewhere in this
+report, and the average costs if these services would instead be included in the main analysis.
+
+RPW will continue to monitor new services in the coming quarters as part of the prospects index. Over
+time, these services will be added to the main analysis and indices, based on a combination of materiality
+and diversity criteria.
+
+
+
+
+                                                      29
+                                                             Remittance Prices Worldwide - Issue 53, March 2025
+
+
+
+
+Table 11 A comparison of cost of sending $200 with/without the services in the prospects index
+
+                             Prospects   # of       Q1 2025 averages                 Would-be Q1 2025 averages
+                             Index       services   (Reported in the main section)   including prospects
+East Asia & Pacific            10.43       106                   5.76                            6.04
+Europe & Central Asia          4.57        141                   7.94                           7.38
+Latin America & Caribbean      6.17        108                   5.72                           5.77
+Middle East & North Africa     8.91        29                    6.25                           6.37
+South Asia                     4.53        44                    4.80                           4.79
+Sub-Saharan Africa             4.91        158                   8.78                           8.41
+Average total cost             6.21        593                   6.49                           6.47
+Digital remittances index      5.06        365                   4.85                           4.88
+
+
+
+
+                                                      30
+                                                                              Remittance Prices Worldwide - Issue 53, March 2025
+
+
+
+Annex V – Corridors from Russia
+Data collection has resumed in 9 corridors, with a total of 40 services. The number of services per corridor
+resumed to 4.4 services per corridor in Q1 2025. Table 12 presents a comparison of corridor averages in
+Q4 2021, Q3 2022, Q1 2024, and Q1 2025. Due to the ongoing Russia-Ukraine war, these services have
+been excluded from the main analysis.
+
+                          Table 12 Cost of sending $200 in Russian corridors comparison
+
+                                                     Q4         # of          Q3      # of      Q1     # of     Q4     # of
+                                                    2021      services       2022   services   2024 services14 2024 services15
+ Russian Federation to Armenia                      1.78         2           2.50      1       1.95     1      1.95     1
+ Russian Federation to
+ Azerbaijan                                         1.77          4          1.00      2       0.99     1       2.69      2
+ Russian Federation to Belarus                      1.15          5          0.96      3       0.95     2       5.77     11
+ Russian Federation to Georgia                      1.91          6          1.00      1       0.99     1       3.73      3
+ Russian Federation to
+ Kazakhstan                                         1.47          5          0.96      3       0.99     1       5.82      8
+ Russian Federation to Kyrgyz
+ Republic                                           0.90          6          4.14      4       0.92     2       5.29      9
+ Russian Federation to Moldova                      1.56          5          0.98      2       1.89     3       1.00      1
+ Russian Federation to Tajikistan                   2.13          4          2.10      3       0.90     2       4.23      2
+ Russian Federation to
+ Uzbekistan                                         2.65          7          3.60      5       2.46     3       3.61      3
+
+
+
+
+14
+     Please note that this column is based on the new data categorization.
+15
+     Please note that this column is based on the new data categorization.
+
+
+
+                                                                      31
+                                    Remittance Prices Worldwide - Issue 53, March 2025
+
+
+
+
+The World Bank Group 1818 H
+Street NW Washington, DC
+20433 USA
+
+www.worldbank.org
+
+
+paymentsystems@worldbank.org
+Telephone: +1 202 473-1000
+
+
+
+
+                               32
+

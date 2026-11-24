@@ -134,3 +134,37 @@ pa-2025-05-22-kx2k2qqlxj,https://www.prothomalo.com/business/bank/kx2k2qqlxj,202
 pa-2025-08-20-36uc8wfuuz,https://www.prothomalo.com/business/personal-finance/36uc8wfuuz,2026-11-23,200,,manual,pa-2025-08-20-36uc8wfuuz.md
 pa-2026-09-05-qgoar1unuj,https://www.prothomalo.com/bangladesh/qgoar1unuj,2026-11-23,200,,manual,pa-2026-09-05-qgoar1unuj.md
 pa-2026-07-24-2vbre27cip,https://www.prothomalo.com/bangladesh/2vbre27cip,2026-11-23,200,,manual,pa-2026-07-24-2vbre27cip.md
+bkash-remittance-atm-FAILED,https://www.bkash.com/en/page/remittance-atm,2026-11-24,403,text/html; charset=UTF-8,curl,
+bkash-remittance-faq-FAILED,https://www.bkash.com/en/page/rem-faq,2026-11-24,403,text/html; charset=UTF-8,curl,
+bkash-cashout-FAILED,https://www.bkash.com/en/products-services/cashout,2026-11-24,403,text/html; charset=UTF-8,curl,
+bkash-remittance-atm,https://www.bkash.com/en/page/remittance-atm,2026-11-24,200,text/html; charset=UTF-8,wayback:20250713182420,bkash-remittance-atm.html;bkash-remittance-atm.md
+bkash-cashout,https://www.bkash.com/en/products-services/cashout,2026-11-24,200,text/html; charset=UTF-8,wayback:20250919104503,bkash-cashout.html;bkash-cashout.md
+bkash-remittance,https://www.bkash.com/en/products-services/remittance,2026-11-24,200,text/html; charset=UTF-8,wayback:20250917120601,bkash-remittance.html;bkash-remittance.md
+bkash-remittance-cash-out-from-atm,https://www.bkash.com/en/products-services/remittance/remittance-cash-out-from-atm,2026-11-24,200,text/html; charset=UTF-8,wayback:20251013155002,bkash-remittance-cash-out-from-atm.html;bkash-remittance-cash-out-from-atm.md
+wb-rpw-q1-2025-FAILED,https://remittanceprices.worldbank.org/sites/default/files/rpw_main_report_and_annex_q125_1_0.pdf,2026-11-24,403,text/html; charset=UTF-8,curl,
+wb-rpw-q1-2025,https://remittanceprices.worldbank.org/sites/default/files/rpw_main_report_and_annex_q125_1_0.pdf,2026-11-24,200,application/pdf,wayback:20261103211516,wb-rpw-q1-2025.pdf;wb-rpw-q1-2025.txt
+wb-rpw-saudi-bangladesh,https://remittanceprices.worldbank.org/corridor/Saudi%20Arabia/Bangladesh?order=field_coverage&sort=asc,2026-11-24,200,text/html; charset=UTF-8,wayback:20260516022631,wb-rpw-saudi-bangladesh.html;wb-rpw-saudi-bangladesh.md
+wb-rpw-malaysia-bangladesh,https://remittanceprices.worldbank.org/corridor/Malaysia/Bangladesh?order=field_cc2_fee&sort=desc,2026-11-24,200,text/html; charset=UTF-8,wayback:20260518175144,wb-rpw-malaysia-bangladesh.html;wb-rpw-malaysia-bangladesh.md
+wb-rpw-qatar-bangladesh,https://remittanceprices.worldbank.org/corridor/Qatar/Bangladesh?order=field_speed_actual&sort=asc,2026-11-24,200,text/html; charset=UTF-8,wayback:20260516020753,wb-rpw-qatar-bangladesh.html;wb-rpw-qatar-bangladesh.md
+wb-rpw-oman-bangladesh,https://remittanceprices.worldbank.org/corridor/Oman/Bangladesh?order=field_speed_actual&sort=asc,2026-11-24,200,text/html; charset=UTF-8,wayback:20260422211359,wb-rpw-oman-bangladesh.html;wb-rpw-oman-bangladesh.md
+wb-rpw-kuwait-bangladesh,https://remittanceprices.worldbank.org/corridor/Kuwait/Bangladesh?order=field_cc2_total_cost_percent_cal&sort=asc,2026-11-24,200,text/html; charset=UTF-8,wayback:20260518115133,wb-rpw-kuwait-bangladesh.html;wb-rpw-kuwait-bangladesh.md
+nsd-savings-schemes-list,https://nationalsavings.gov.bd/pages/static-pages/6922e111933eb65569e29fed,2026-11-24,200,text/html; charset=utf-8,curl,nsd-savings-schemes-list.html;nsd-savings-schemes-list.md
+nsd-wedb-2026,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nationalsavings/2026/7/8a5b2fbf-b6aa-492f-a27d-b2e312910d45.pdf,2026-11-24,200,application/pdf,curl,nsd-wedb-2026.pdf;nsd-wedb-2026.txt
+nsd-profit-rates,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nationalsavings/2024/12/5123d60a893e49c2923d35d7e0c1b833.pdf,2026-11-24,200,application/pdf,curl,nsd-profit-rates.pdf;nsd-profit-rates.txt
+nsd-usd-premium-bond-2026,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nationalsavings/2026/3/bda1408b-f5a7-42a7-b02d-291b79c3bc19.pdf,2026-11-24,200,application/pdf,curl,nsd-usd-premium-bond-2026.pdf;nsd-usd-premium-bond-2026.txt
+nsd-usd-investment-bond-2026,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nationalsavings/2026/3/de507e84-ae61-4fed-a912-52c3f3ed627a.pdf,2026-11-24,200,application/pdf,curl,nsd-usd-investment-bond-2026.pdf;nsd-usd-investment-bond-2026.txt
+upension-home,https://www.upension.gov.bd/,2026-11-24,200,text/html; charset=utf-8,curl,upension-home.html;upension-home.md
+upension-probash,https://www.upension.gov.bd/Public/Packages?p=1,2026-11-24,200,text/html; charset=utf-8,curl,upension-probash.html;upension-probash.md
+upension-faq,https://www.upension.gov.bd/Public/HelpDesk,2026-11-24,200,text/html; charset=utf-8,curl,upension-faq.html;upension-faq.md
+upension-brief,https://www.upension.gov.bd/assets/public/files/UPS%20Brief%20Bangla.pdf,2026-11-24,200,application/pdf,curl,upension-brief.pdf;upension-brief.txt
+bb-fepd2-circular-07-2026-money-changers,https://www.bb.org.bd/mediaroom/circulars/fepd-2/oct172026fepd-207e.pdf,2026-11-24,200,application/pdf,curl,bb-fepd2-circular-07-2026-money-changers.pdf;bb-fepd2-circular-07-2026-money-changers.txt
+bb-fepd1-circular-03-2026-inward-remittance,https://www.bb.org.bd/mediaroom/circulars/fepd/jan082026fepd-103e.pdf,2026-11-24,200,application/pdf,curl,bb-fepd1-circular-03-2026-inward-remittance.pdf;bb-fepd1-circular-03-2026-inward-remittance.txt
+mof-budget-speech-2026-27,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/5/c229ec5f-66f8-4a4c-9beb-1e2e2ba71bce.pdf,2026-11-24,200,application/pdf,curl,mof-budget-speech-2026-27.pdf;mof-budget-speech-2026-27.txt
+nbr-income-tax-paripatra-2024-25-FAILED,https://nbr.gov.bd/uploads/paripatra/আয়কর_পরিপত্র_২০২৪-২৫_(চূড়ান্ত).pdf,2026-11-24,400,text/html; charset=UTF-8,curl,
+nbr-income-tax-paripatra-2026-27,https://nbr.gov.bd/uploads/paripatra/Aykor_Poripothro_2026-2027_BG_Press_Modify_Copy.pdf,2026-11-24,200,application/pdf,curl,nbr-income-tax-paripatra-2026-27.pdf;nbr-income-tax-paripatra-2026-27.txt
+nbr-income-tax-paripatra-2025-26,https://nbr.gov.bd/uploads/paripatra/Income-tax_Paripatra_2025-20261.pdf,2026-11-24,200,application/pdf,curl,nbr-income-tax-paripatra-2025-26.pdf;nbr-income-tax-paripatra-2025-26.txt
+nbr-income-tax-act-2023,https://nbr.gov.bd/uploads/acts/Income_tax_act_2023.pdf,2026-11-24,200,application/pdf,curl,nbr-income-tax-act-2023.pdf;nbr-income-tax-act-2023.txt
+bb-fepd1-circular-40-2026-outward-remittance,https://www.bb.org.bd/mediaroom/circulars/fepd/sep302026fepd-140e.pdf,2026-11-24,200,application/pdf,wayback:20261002222832,bb-fepd1-circular-40-2026-outward-remittance.pdf;bb-fepd1-circular-40-2026-outward-remittance.txt
+bb-fepd1-circular-41-2026,https://www.bb.org.bd/mediaroom/circulars/fepd/oct082026fepd-141e.pdf,2026-11-24,200,application/pdf,wayback:20261008125025,bb-fepd1-circular-41-2026.pdf;bb-fepd1-circular-41-2026.txt
+bb-fepd1-cl-21-2026,https://www.bb.org.bd/mediaroom/circulars/fepd/nov112026fepd-1l21e.pdf,2026-11-24,200,application/pdf,wayback:20261113045713,bb-fepd1-cl-21-2026.pdf;bb-fepd1-cl-21-2026.txt
+wb-rpw-singapore-bangladesh,https://remittanceprices.worldbank.org/corridor/Singapore/Bangladesh?order=field_cc2_fx_margin_calc&sort=desc,2026-11-24,200,text/html; charset=UTF-8,wayback:20260413205750,wb-rpw-singapore-bangladesh.html;wb-rpw-singapore-bangladesh.md
