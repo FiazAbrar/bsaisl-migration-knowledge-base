@@ -1,54 +1,57 @@
 # Greece: migration guide
 
-How Bangladeshis go to Greece, route by route, as of November 2026. A raised number such as 3 is an official source; N3 is a news, NGO (non-governmental organisation), research or guide source, listed under "Needs an official source"; a year, like N3 (2022), marks a source older than 2025. This first version is built only from Prothom Alo reporting (2024 to November 2026), so every fact in it is cited as N and still needs an official source. "Need to know" marks a point no source has yet confirmed.
+How Bangladeshis go to Greece, route by route, as of November 2026. A raised number such as 3 is an official source; N3 is a news, NGO (non-governmental organisation), research or guide source, listed under "Needs an official source"; a year, like N3 (2022), marks a source older than 2025. Built from Prothom Alo reporting (2024 to November 2026) and from official Greek, EU and Bangladesh sources. "Need to know" marks a point no source has yet confirmed.
 
-Tk is the Bangladeshi taka (1 lakh is Tk 100,000); EUR is the euro. The MoU (memorandum of understanding) is the migration and mobility agreement Bangladesh and Greece signed in February 2022 [XG0004, XG0015]. Frontex is the European Union's (EU's) border and coast guard agency [XG0070]. UNHCR is the United Nations refugee agency [XG0025]. The upazila nirbahi officer (UNO) is the government's chief administrative officer of an upazila, the subdistrict [XG0085].
+Tk is the Bangladeshi taka (1 lakh is Tk 100,000); EUR is the euro. The MoU (memorandum of understanding) is the agreement on migration and mobility that Greece's Minister of Migration and Asylum and Bangladesh's Minister of Expatriates' Welfare and Overseas Employment signed in Dhaka on 9 February 2022 [OG0001]. GVCW (Global Visa Center World) is the private company that takes Greek visa applications for the Greek Embassy in New Delhi, which also covers Bangladesh [OG0032, OG0027]. A D visa is Greece's national long-stay visa, for stays over three months, such as work or study [OG0036]. Frontex is the European Union's (EU's) border and coast guard agency [XG0070]. UNHCR is the United Nations refugee agency [XG0025]. The upazila nirbahi officer (UNO) is the government's chief administrative officer of an upazila, the subdistrict [XG0085].
 
 ## Background
 
 ### In one minute
 
-Greece has two doors for Bangladeshis. The legal door is the 2022 MoU: Greece is to give 4,000 Bangladeshis seasonal work visas a year, and to give 15,000 Bangladeshis already living there without papers temporary legal status for five years [XG0005]. The regularisation happened: more than 10,000 were given legal residence, and many went home to Bangladesh as soon as they got their resident card, the Bangladesh ambassador said [XG0015, XG0012]. In April 2024 Bangladesh was still asking Greece to implement the MoU's second part, and Greece had no embassy in Dhaka [XG0015, XG0014]. The other door is a rubber boat from Libya to Crete, sold to young men from Sunamganj and Habiganj for Tk 12 to 15 lakh, part of it paid only once the young man is in Libya [XG0076, XG0043, XG0083, XG0052]. Brokers call the crossing the "game" [XG0063]. In March 2026 a boat lost its way, drifted six days, and at least 22 people died for lack of food and water, at least 13 of them from Sunamganj; the bodies were thrown into the sea [XG0032, XG0036, XG0041, XG0037, XG0046, XG0057]. Those who reach Crete are registered and held in camps, and since September 2025 Greek law says that people not entitled to asylum must be sent home or detained for at least 24 months and fined up to EUR 10,000 [XG0070, XG0072, XG0022].
+Greece has two doors for Bangladeshis. The legal door is the 2022 MoU: up to 4,000 five-year work permits a year for Bangladeshis with a job contract in Greek farming or other sectors, plus 15,000 five-year permits for Bangladeshis who were already living in Greece when it was signed [OG0003, OG0002]. Both permits let the holder work nine months in any twelve and give no right to bring family; at the end of the five years the holder must leave [OG0008, OG0013, OG0010]. The permits for people already in Greece were handed out: more than 10,000 got legal residence, Bangladesh's foreign minister said in April 2024, and many went home to visit as soon as they had the card, the Bangladesh ambassador at the time said [XG0015, XG0012]. For new workers, the job comes first: a Greek employer applies online for approval, and only then does the worker apply for the visa at the GVCW centre in Banani, Dhaka; the file is decided by the Greek Embassy in New Delhi [OG0061, OG0041, OG0035, OG0056]. The other door is a rubber boat from Libya to Crete, sold to young men from Sunamganj and Habiganj for Tk 12 to 15 lakh, part of it paid only once the young man is in Libya [XG0076, XG0043, XG0083, XG0052]. Brokers call the crossing the "game" [XG0063]. In March 2026 a boat lost its way, drifted six days, and at least 22 people died for lack of food and water, at least 13 of them from Sunamganj; the bodies were thrown into the sea [XG0032, XG0036, XG0041, XG0037, XG0046, XG0057]. Those who reach Crete are registered and held in camps [XG0070, XG0072]. Since September 2025, staying in Greece without the right to stay is a crime punishable by 2 to 5 years in prison, and a person can be held in detention for up to 24 months before removal [OG0071, OG0073].
 
 ### Is it open now, and who can go?
 
-The legal route exists on paper through the 2022 MoU, and Bangladesh was still asking Greece to implement its second part in April 2024; the boat from Libya to Crete, now the main entry point for asylum seekers into Greece, was still carrying Bangladeshis at the end of October 2026 [XG0005, XG0015, XG0076, XG0079].
+The legal work route exists: the MoU runs for an initial five years and can be extended, and the work visa can be applied for in Dhaka [OG0017, OG0032]. The boat from Libya to Crete, now the main entry point for asylum seekers into Greece, was still carrying Bangladeshis at the end of October 2026 [XG0076, XG0079].
 
 #### Status
 
-- **9 February 2022:** Greek migration minister Notis Mitarachi visited Bangladesh and signed the MoU with Bangladesh's Ministry of Expatriates' Welfare and Overseas Employment [XG0004].
-- **12 January 2023:** Greece opened an online platform for the regularisation of Bangladeshis already in Greece and began issuing residence permits in phases (see Regularisation of Bangladeshis already in Greece) [XG0006].
+- **9 February 2022:** the MoU was signed in Dhaka [OG0001].
+- **22 July 2022:** the Greek parliament ratified the MoU as Law 4959/2022 [OG0018].
+- **12 January 2023:** Greece opened an online platform for Bangladeshis already in Greece to apply for the five-year permit, and began issuing permits in phases (see Regularisation of Bangladeshis already in Greece) [XG0006].
+- **1 July 2023:** set as the start date for seasonal-work permits under the MoU [OG0019].
 - **16 April 2024:** the Greek foreign minister, George Gerapetritis, told Bangladesh's foreign minister in Athens that Greece will recruit many Bangladeshi workers in agriculture, tourism, hospitality and construction, according to a Bangladesh foreign ministry press release; Bangladesh asked Greece to implement the MoU's second part [XG0013, XG0015].
-- **July 2025:** Greece temporarily suspended asylum applications from people arriving from North Africa [XG0021, XG0024].
-- **3 September 2025:** Greece's parliament passed a law toughening penalties for migrants whose claims are rejected and speeding up their return (see Asylum) [XG0020].
+- **17 March 2025:** Bangladeshis may lodge any Greek visa either at the GVCW centre in Dhaka or at any GVCW centre in India [OG0033].
+- **July to October 2025:** Greece suspended asylum applications from people arriving by sea from North Africa for three months (see Asylum) [OG0077, OG0078].
+- **3 September 2025:** Greece's parliament passed a law making illegal stay a crime (see Living without papers and deportation) [OG0071].
+- **August 2025:** Greece still had no embassy in Dhaka; its Embassy in New Delhi covers Bangladesh [OG0029].
 - **June 2026:** the new EU migration and asylum pact was due to take effect [XG0029].
 
 > **Need to know**
-> - Has any Bangladeshi received a Greek seasonal work visa under the 2022 MoU, and how many in each year since?
-> - Is the MoU's "second part" the 4,000 seasonal work visas a year, and has it started?
-> - Did Greece open its embassy in Dhaka after April 2024? If not, where does a Bangladeshi apply for a Greek visa?
+> - How many Bangladeshis have received a Greek seasonal or dependent-employment D visa through the Dhaka centre each year since 2023?
 
 #### The channels
 
-- **Seasonal work visa under the MoU:** 4,000 a year on paper (see Work visa: seasonal worker under the 2022 MoU) [XG0005].
-- **Regularisation:** for Bangladeshis already in Greece without papers (see Regularisation of Bangladeshis already in Greece) [XG0005].
+- **Work visa under the MoU:** up to 4,000 five-year permits a year, for a named job with a Greek employer (see Work visa: seasonal worker under the 2022 MoU) [OG0003].
+- **Regularisation:** for Bangladeshis who were in Greece without papers before 9 February 2022 (see Regularisation of Bangladeshis already in Greece) [OG0020].
+- **Other visas:** study and short visits (see Other visas) [OG0094, OG0055].
 - **Not a legal route:** the boat from Libya to Crete (see Irregular entry: Libya to Crete by boat) [XG0076].
 - **Not a legal route:** overland from the Gulf through Iran and Turkey (see Irregular entry: overland through Turkey).
 
 #### Size
 
-- **Regularised:** 10,833 had registered with the Bangladesh embassy in Greece in the first phase by January 2024, and Bangladesh's foreign minister said in April 2024 that more than 10,000 had been given legal residence [XG0007, XG0015].
-- **Arrivals of all nationalities:** about 61,000 in the year to August 2025 and 42,000 in the following 12 months, a fall of about 31%, according to Greek migration ministry figures reported by ANA, the Greek news agency [XG0077].
+- **Bangladeshis in Greece:** about 45,000 in 2023, of whom 15,000 had valid residence permits [OG0021].
+- **Regularised:** 10,337 Bangladeshis applied in 2023; 10,833 had registered with the Bangladesh embassy in Athens in the first phase by January 2024, and Bangladesh's foreign minister said in April 2024 that more than 10,000 had been given legal residence [OG0022, XG0007, XG0015].
+- **Arrivals by sea of all nationalities:** 13,857 in the four months before 1 December 2025, against 27,324 in the same months a year earlier, when they came from Afghanistan, Pakistan, Bangladesh, Sudan, Egypt and Syria, the Greek migration minister said [OG0082].
+- **Asylum claims:** Bangladeshis made 3,132 asylum applications in Greece in 2025 [OG0086].
 - **Bangladeshis on the boats:** of two boats of 56 people each that reached Crete in early August 2026, one carried 25 Bangladeshis and the other 47 [XG0071].
 
 > **Need to know**
-> - How many Bangladeshis live in Greece legally today, and how many without papers?
 > - How many Bangladeshis did BMET (Bureau of Manpower, Employment and Training) clear for Greece each year from 2022 to 2026?
-> - How many Bangladeshis arrived in Greece irregularly in 2025 and 2026?
 
 ### How a job reaches you, and who takes a cut
 
-For the legal seasonal route the reporting gives no chain at all; for the boat route it names brokers living in Libya, one broker's father collecting the money at home, brokers based in Dhaka, and payments split between home and Libya [XG0049, XG0059, XG0084, XG0043, XG0052].
+On the legal route the root is a Greek employer's approval: the employer applies online to the Ministry of Migration and Asylum, pays EUR 100 per worker, and attaches a copy of the named worker's passport [OG0061, OG0062, OG0067]. On the boat route the reporting names brokers living in Libya, one broker's father collecting the money at home, brokers based in Dhaka, and payments split between home and Libya [XG0049, XG0059, XG0084, XG0043, XG0052].
 
 - **The broker in Libya.** Akhlus Mia, father of Shayek Ahmad, said he paid broker Azizul Islam of Ichgaon village Tk 12 lakh to send his son, and that Azizul lives in Libya and sends local young men from Libya to Greece [XG0049]. Mohibur Rahman of Chhatak upazila went through Nabi Hossain of Pagla, Shantiganj upazila, who is also in Libya [XG0086, XG0059].
 - **The collector at home.** Nabi Hossain's father, Abdul Mannan, handled all the money in Bangladesh; he met Mohibur through masonry work and encouraged him to go to Greece, a cousin said [XG0059].
@@ -56,11 +59,11 @@ For the legal seasonal route the reporting gives no chain at all; for the boat r
 - **Brokers spread across three countries.** Of the 9 brokers named in two cases filed in Sunamganj in March 2026, some were in Libya, Greece and Italy [XG0064].
 
 > **Need to know**
-> - How does a Greek farm employer find a Bangladeshi seasonal worker under the MoU: through BMET, BOESL (Bangladesh Overseas Employment and Services Limited, the government's recruiting company), private agencies, or only by naming a person?
+> - How does a Greek farm employer get the name and passport copy of a Bangladeshi worker in Bangladesh: through relatives already in Greece, BOESL (Bangladesh Overseas Employment and Services Limited, the government's recruiting company), or private agencies, and what do they charge?
 
 ### What you pay, and what you earn and keep
 
-The boat route costs Tk 12 to 15 lakh per person, raised by selling land and cattle and borrowing at high interest [XG0083, XG0052, XG0060].
+The legal visa costs the worker EUR 135 in fees for a seasonal work visa (EUR 240 for dependent employment) plus Tk 10,200 for the courier to New Delhi (see Step 4: Lodge the application at the GVCW centre in Dhaka) [OG0044, OG0045, OG0046, OG0047]. The boat route costs Tk 12 to 15 lakh per person, raised by selling land and cattle and borrowing at high interest [XG0083, XG0052, XG0060].
 
 #### What people really pay for the boat
 
@@ -71,21 +74,25 @@ The boat route costs Tk 12 to 15 lakh per person, raised by selling land and cat
 
 How brokers stage payments to keep families paying is explained under "The staged-payment trap, and no receipts" in the Dalal scams doc, and the moneylender loans under "Loan sharks and land mortgages" in the same doc.
 
-#### The work
+#### The work and the pay
 
-A significant number of Bangladeshi workers live in western Manolada and work mainly on Greek farms: strawberries, olives, oranges and other crops [XG0002]. The embassy said regularised workers now send money home through legal channels [XG0009].
+The Bangladeshi diaspora in Greece works mostly in agriculture and hospitality [OG0030]. A significant number live in western Manolada and work on farms: strawberries, olives, oranges and other crops [XG0002]. From 1 April 2026 Greece's minimum wage for full-time work is EUR 920 a month for salaried employees and EUR 41.09 a day for manual workers, and a seasonal worker's contract may never pay less than an unskilled worker's pay [OG0093, OG0064]. The embassy said regularised workers now send money home through legal channels [XG0009].
 
 > **Need to know**
-> - What does a Bangladeshi farm worker in Manolada earn a day or a month, with papers and without?
-> - What does the seasonal visa cost, and what may an agency charge for it?
+> - What does a Bangladeshi farm worker in Manolada actually earn a day, with papers and without, and how much goes on housing?
+> - What does a broker or agency in Bangladesh charge for arranging a Greek employer's approval?
 
 ### What ties you to the employer
 
-Regularised Bangladeshis work freely in various firms, where before they were kept in hardship on farms and in factories, the January 2024 report said [XG0008].
+- **To enter:** tied; the visa needs an approval for a specific employer and a contract signed by that employer [OG0048, OG0050].
+- **To renew or come back each year:** the permit covers five years, but to come back each season the worker must show an active seasonal contract before leaving for Greece [OG0026, OG0024].
+- **To change employer:** allowed within the five years under a new contract with another employer [OG0009].
+- **To leave:** the worker must spend three months of every year outside Greece and must leave for good when the five years end [OG0023, OG0010].
+- **Which law:** workers have the same employment and social security rights as Greek law gives others [OG0012].
+- **Without a permit:** illegal stay is a crime punishable by 2 to 5 years in prison and a fine of at least EUR 5,000 (see Living without papers and deportation) [OG0071].
 
 > **Need to know**
-> - Is the seasonal work visa tied to one employer, and can a seasonal worker change employer or stay on after the season?
-> - Is the five-year regularisation permit tied to an employer, and can it be renewed after five years?
+> - How long may a seasonal worker whose contract ends early stay in Greece to find a new employer, and how is the new contract registered on the permit?
 
 ### What goes wrong most, and what people wrongly believe
 
@@ -94,32 +101,107 @@ Regularised Bangladeshis work freely in various firms, where before they were ke
 - **"The broker will put you on a proper boat."** Mohibur Rahman's father said the broker promised a wooden boat and put his son on a plastic one [XG0061]. The March 2026 boat was rubber, and the 31 October 2026 one an inflatable rubber boat [XG0032, XG0079].
 - **"There will be food for the trip."** These boats leave with food for 24 hours, and on the March 2026 boat the food and water ran out after one day, Shayek Ahmad's uncle said [XG0055].
 - **"The broker will tell the family the truth."** Broker Nabi Hossain told Mohibur's family he had reached Greece and was in a camp where he could not talk, while his body was already in the sea (see If a relative dies or goes missing on the crossing) [XG0066].
-- **"Once in Greece, you can claim asylum."** In July 2025 Greece suspended asylum applications from people arriving from North Africa, and since September 2025 those not entitled to asylum must be returned or detained (see Asylum) [XG0024, XG0022].
+- **"Once in Greece, you can claim asylum and stay."** From July to October 2025 people arriving by sea from North Africa could not lodge asylum claims, except vulnerable people and, from mid-September, Sudanese and Eritreans; everyone who enters is now told at once that if the claim is not justified, return follows [OG0077, OG0078, OG0083].
+- **"After seven years in Greece you can get papers."** The September 2025 law abolished that route [OG0072].
+- **"A Greek work permit lets you bring your family."** The MoU permit gives no right to family reunification [OG0013].
 
 #### Irregular routes, and where an irregular stay ends
 
-The boat crossing from Libya ends in death at sea for some (see Deaths on the crossing), in a camp on Crete for those who arrive (see Arrival on Crete), and, under the September 2025 law, in return or detention for those not entitled to asylum (see Asylum) [XG0032, XG0072, XG0022]. Before the regularisation, life without papers meant hiding from police raids in Athens and the risk of being sent home (see Living without papers and deportation) [XG0001].
+The boat crossing from Libya ends in death at sea for some (see Deaths on the crossing), in a camp on Crete for those who arrive (see Arrival on Crete), and for those not entitled to asylum, in detention and return or prison (see Living without papers and deportation) [XG0032, XG0072, OG0071, OG0073]. Before the regularisation, life without papers meant hiding from police raids in Athens and the risk of being sent home [XG0001].
 
 ## Work visa: seasonal worker under the 2022 MoU
 
-Under the MoU signed on 9 February 2022, Greece is to give 4,000 Bangladeshi workers seasonal work visas each year [XG0004, XG0005]. In April 2024 the Greek foreign minister said Greece would recruit many Bangladeshis in agriculture, tourism, hospitality and construction, and Bangladesh's foreign minister asked Greece to implement the MoU's second part [XG0013, XG0015]. Opening an embassy in Dhaka was on Greece's priority list at that time [XG0014].
+Under the MoU, Greece grants up to 4,000 Bangladeshis a year a five-year permit for temporary work in agriculture and other sectors; each year Greece may tell Bangladesh which sectors besides agriculture are included [OG0003, OG0004]. The holder works nine months in any 12-month period, may change employer under a new contract, cannot bring family and must leave at the end of the five years [OG0008, OG0009, OG0013, OG0010]. The visa goes into the passport only once; the residence permit then covers the whole five years [OG0026]. Seasonal permits are given only where an employer or farmer has signed a contract [OG0025].
+
+### Step 1: The Greek employer gets approval
+
+1. The employer applies online through the Ministry of Migration and Asylum's e-services, logging in with TAXISnet (Greek tax system) codes [OG0061].
+2. The employer uploads a contract with the worker that states the type and place of work, start date, duration, weekly or monthly hours and pay (never below an unskilled worker's pay), signed with the employer's signature authenticated by a public office [OG0064].
+3. The employer declares the housing it gives the worker, or proves the worker has housing that meets the legal standards; if the worker pays rent, the employer gives a lease [OG0065].
+4. The employer declares it will pay the worker's return costs where the law requires it, and names the Greek consular authority where the worker will get the visa (for Bangladesh, the Embassy in New Delhi) [OG0066, OG0027].
+5. The employer attaches a copy of the worker's passport pages with his details and photo, and pays EUR 100 per worker [OG0067, OG0062].
+6. The regional Directorate for Aliens and Migration has 10 days to decide, and emails the approval and the employer-signed contract to the Greek consulate [OG0063, OG0068].
+
+If the employer's application is refused, an administrative appeal can be lodged within two months with the office that decided, for EUR 50; it decides within 30 days [OG0069].
 
 > **Need to know**
-> - Where does a Bangladeshi apply for the Greek seasonal work visa, and through whom: a Greek embassy (in Dhaka or New Delhi), VFS Global (the company that runs visa application centres for many European embassies) or another visa centre, BMET or a recruiting agency?
-> - What papers does it need (a job offer from a named Greek employer, a contract, a skill certificate), what does it cost, and how long does it take?
-> - How long is a season, what does the job pay, and who pays the air ticket?
-> - Must the worker get BMET clearance, and is Greece one of the countries with a migration cost cap?
+> - Can the worker in Bangladesh get a copy or reference number of the employer's approval to check it is real before paying anyone?
+
+### Step 2: Check the approval has reached the Embassy
+
+1. Before applying, confirm that the approval has been issued in Greece and officially received by the Greek Embassy in New Delhi [OG0041]. The GVCW Bangladesh assistance desk answers on +88 09606 777999 and +88 09666 911381, 9:00 to 16:30, Sunday to Thursday, and at info.bdgr@gvc24assist.eu; the Embassy's visa section is at grcon.del@mfa.gr [OG0034, OG0095].
+2. The consular office calls the applicant to sign the contract and submit the application once it has the contract and approval [OG0050].
+
+### Step 3: Gather the papers
+
+**Bring:**
+- The long-stay visa application form, filled in and signed, and one recent colour passport photo on a white background [OG0051].
+- A passport valid at least 1 year and 6 months from the day you apply, with two blank pages and issued within the past ten years [OG0037, OG0051].
+- The approval from Greece for work with a specific employer [OG0048].
+- A certified copy of the employment contract, showing the kind and period of work and pay at least equal to the monthly salary of unskilled workers [OG0049].
+- Travel medical insurance starting two months after the day you apply and covering the whole visa (365 days for a one-year visa, 270 days for nine months, 180 days for six months) [OG0039].
+- A police clearance certificate no more than three months old, attested by Bangladesh's Ministry of Foreign Affairs in Dhaka [OG0038].
+- Originals with a copy of each, and an English translation of anything not in Greek or English [OG0053].
+
+The medical fitness certificate comes later (see Step 5: Interview, medical and signing the contract) [OG0052].
+
+> **Need to know**
+> - Must the worker also get BMET clearance and a smart card for Greece, and is a BMET permission letter issued for Greek employers?
+> - Does the Embassy apply the MoU's rules to Bangladeshis (passport valid two years after applying, contract of at least one year) or only GVCW's general 1.5-year passport rule?
+
+### Step 4: Lodge the application at the GVCW centre in Dhaka
+
+1. Book an appointment on the GVCW Bangladesh website (bd-gr.gvcworld.eu) [OG0059].
+2. Email the appointment confirmation to info.bdgr@gvc24assist.eu with your email, phone and the visa fee in Indian rupees, asking for a payment link; the link is valid 48 hours and takes only an international credit or debit card [OG0059].
+3. Print the payment receipt; without it the centre will not accept the application [OG0060].
+4. Go to the GVCW centre at Borak Mehnur, 51/B, 8th Floor, Kemal Ataturk Avenue, Banani, Dhaka [OG0035]. You may instead lodge at any GVCW centre in India [OG0033].
+
+**Fees:**
+- **Visa fee:** EUR 75 for seasonal work, EUR 180 for dependent employment, not refunded if refused [OG0044, OG0054].
+- **GVCW service fee:** EUR 30, paid in taka [OG0046].
+- **Courier to New Delhi:** Tk 10,200, in cash at the centre [OG0047].
+- **Signature attestation on the contract:** EUR 30, after the interview [OG0045].
+
+### Step 5: Interview, medical and signing the contract
+
+1. After the application is lodged, the Greek Embassy schedules an interview [OG0043].
+2. After the interview the consular office asks for a medical fitness certificate, issued at the Dente Medical Center, 14 Nizamuddin East, New Delhi 110013 (tel. 9811157759, 9811444469); the certificate reaches the Embassy in about a week [OG0052, OG0043].
+3. Processing time is entirely at the Embassy's discretion [OG0042].
+
+> **Need to know**
+> - Must a Bangladeshi applicant travel to New Delhi for the interview and the Dente medical, and what does the medical cost?
+> - How long does a seasonal work visa take from lodging in Dhaka to passport return?
+
+### Step 6: After you arrive
+
+1. Apply for the residence permit in Greece immediately after entering on the D visa [OG0036].
+
+> **Need to know**
+> - Where and how does a seasonal worker apply for the residence permit after arrival, and what does it cost?
+
+### Leaving each year and at the end
+
+The worker must spend three months of every year outside Greece, and to come back must show an active seasonal contract before leaving for Greece [OG0023, OG0024]. When the five years end the worker must leave Greece [OG0010]. Greece may make it easier to come back later for someone who complied fully with the MoU and Greek law [OG0011].
+
+### Bringing family
+
+The MoU permit gives no right to bring family to Greece [OG0013]. GVCW in Bangladesh has suspended family reunification visa applications until further notice [OG0040].
 
 ## Regularisation of Bangladeshis already in Greece
 
-The MoU gives 15,000 Bangladeshis living in Greece without papers temporary legal status for five years [XG0005]. Greece opened an online application platform on 12 January 2023 and issued residence permits in phases [XG0006]. By January 2024, 10,833 people had registered with the Bangladesh embassy in Greece in the first phase [XG0007]. Bangladesh's ambassador to Greece, Asud Ahmad, said the first phase had been implemented after two years of diplomatic effort and that regularisation was ongoing [XG0011].
+The MoU gave Bangladeshis who were already living in Greece when it was signed 15,000 five-year permits [OG0002]. It covered people in Greece before 9 February 2022 without legal status who had a binding job offer and posed no public order or security risk [OG0020]. Applicants needed a passport valid two years after applying, a work contract or an employer's certificate, and the fees set by Greek law, and had to apply within 180 days of the MoU taking effect [OG0014, OG0015]. Greece opened an online application platform on 12 January 2023 and issued permits in phases [XG0006]. The permit works like the seasonal permit: nine months of work a year, three months out of Greece, and departure for good after five years [OG0023]. By January 2024, 10,833 people had registered with the Bangladesh embassy in Athens in the first phase [XG0007].
 
-**What it changed.** Mohammad Kamal, regularised after 10 years in Greece, said he could not go home while irregular even when relatives died; with his card he came home, married, planned to go back after three months and could now come every year [XG0010]. The ambassador said many went to Bangladesh as soon as they got their resident card [XG0012].
+**What it changed.** Mohammad Kamal, regularised after 10 years in Greece, said he could not go home while irregular even when relatives died; with his card he came home, married, planned to go back after three months and could now come every year [XG0010]. The ambassador at the time said many went to Bangladesh as soon as they got their resident card [XG0012].
 
 > **Need to know**
-> - Is the regularisation still open in 2026, and to whom: only people who were in Greece before a cut-off date?
-> - What papers and fees did an applicant need, and what role did the Bangladesh embassy's registration play?
-> - What happens when the five-year permit ends?
+> - Has any second regularisation round for Bangladeshis opened since 2023?
+> - Can a regularised Bangladeshi whose five years end in 2028 move to another Greek permit, or must he leave?
+
+## Other visas
+
+- **Short visit (Schengen type C):** up to 90 days in any 180; fee EUR 90; decided in New Delhi, which may hold a Skype interview; up to 15 days, or 45 with consultation, plus at least 7 working days for the passport to come back to Dhaka; insurance of at least EUR 30,000 [OG0055, OG0056, OG0057, OG0058].
+- **Study (D):** acceptance from a Greek college or university, at least EUR 400 a month for living costs, a third of the tuition paid, attested police clearance and first-year insurance; fee EUR 90 [OG0094].
+- **Family reunification (D):** for the spouse over 18 and unmarried children under 18 of a legal resident; applications from Bangladesh are suspended [OG0096, OG0040].
 
 ## Irregular entry: Libya to Crete by boat
 
@@ -146,13 +228,14 @@ A BBC analysis of 15 incidents between May 2020 and May 2023 found that 43 peopl
 ### Arrival on Crete
 
 1. **Spotted and brought in.** In August 2026 a Frontex aircraft spotted a boat of 40 that was then brought into Ierapetra port with the help of a coast guard patrol ship and a fishing boat; later that month an EU drone spotted two boats near Kali Limenes port in south Crete, and the coast guard rescued 79 people from them near Crete, Bangladeshis and at least two women and two children among them [XG0070, XG0073, XG0074, XG0075].
-2. **Registered.** At the port the migrants are registered and identity checks begin [XG0070].
+2. **Registered and told the rule.** At the port the migrants are registered and identity checks begin, and everyone entering is told that if the asylum claim is not justified, return follows [XG0070, OG0083].
 3. **Held in a camp.** In August 2026 all those rescued were held at a temporary shelter camp at Heraklion port, as numbers on Crete rose; at least 202 people reached Crete from Libya in under 48 hours that month [XG0072, XG0069]. A Habiganj man who arrived on 6 March 2026 was kept in a camp, and the survivors of the 27 March boat were brought to the same camp [XG0044].
-4. **Health check, then asylum.** About 540 people rescued south of Crete in December 2025, Bangladeshis among them, were taken to Rethymno on Crete, where their asylum process was to begin after health checks [XG0027, XG0028].
-5. **Hospital.** Two seriously ill survivors of the March 2026 boat were taken to hospital on Crete [XG0039, XG0045].
+4. **Moved to the mainland.** New arrivals on Gavdos and Crete used to be moved to mainland reception centres within a couple of days, up to 10; from mid-August 2025, during the asylum suspension, transfers were frozen and hundreds were held over a month in unsuitable buildings on the islands, the Border Violence Monitoring Network (BVMN), a network of non-governmental organisations, reported to the EU asylum agency [OG0081].
+5. **Health check, then asylum.** About 540 people rescued south of Crete in December 2025, Bangladeshis among them, were taken to Rethymno on Crete, where their asylum process was to begin after health checks [XG0027, XG0028].
+6. **Hospital.** Two seriously ill survivors of the March 2026 boat were taken to hospital on Crete [XG0039, XG0045].
 
 > **Need to know**
-> - How long are new arrivals held in the Crete camps, and where are they sent next?
+> - Where are Bangladeshi arrivals from Crete sent on the mainland in 2026: an open camp or a pre-removal detention centre?
 > - Can a Bangladeshi in a camp phone home, and how do families find out who is in which camp?
 
 ### Deaths on the crossing
@@ -178,35 +261,49 @@ The overland route used by Bangladeshis working in the Gulf, its prices and what
 
 ## Asylum
 
-In 2025 Greece temporarily suspended asylum applications from people arriving from North Africa, and said hundreds of irregular migrants had been returned since the suspension in July [XG0021, XG0024]. On 3 September 2025 its parliament passed a law under which undocumented migrants who are not entitled to asylum must be returned to their own country, or detained for at least 24 months and fined up to EUR 10,000 [XG0020, XG0022]. UNHCR said the law could expose people who need protection to punishment [XG0025]. Greece planned return flights for some migrants from Pakistan, Bangladesh and Egypt in September 2025 [XG0024].
+On 11 July 2025 the Greek parliament suspended asylum applications from people arriving by sea from North Africa for three months and ordered their deportation without registration [OG0077]. The suspension was in force from July to October 2025; arrivals were moved to pre-removal detention centres on the mainland such as Amygdaleza near Athens, and internal circulars exempted vulnerable people and, from mid-September, Sudanese and Eritreans, while other nationalities stayed in detention [OG0078, OG0079, OG0080]. Everyone entering Greece is now told at once that if the asylum claim is not justified, return follows [OG0083]. The September 2025 law also limits repeat asylum applications [OG0076]. In January 2024, 15 Bangladeshis whose asylum claims had been rejected as unfounded were flown home on a Frontex-coordinated return flight from the Amygdaleza centre [OG0085]. Greece planned more return flights including Bangladeshis in September 2025 [XG0024]. UNHCR said the 2025 law could expose people who need protection to punishment [XG0025].
 
 Under the new EU migration and asylum pact, due in June 2026, Greece gets EU help with migration, and Prime Minister Kyriakos Mitsotakis said returning those whose asylum claims are rejected will be a priority [XG0029, XG0030]. Greece is in talks with Germany and other EU countries about return hubs outside the EU [XG0078]. What happened to one Bangladeshi who claimed asylum in Greece as a Rohingya is under "From the Gulf overland through Iran and Turkey to Greece" in the Illegal routes doc, and how false asylum stories are sold is under "Asylum claims built on a false story" in the same doc.
 
 > **Need to know**
-> - Is the suspension of asylum applications from North Africa arrivals still in force, and does it cover Bangladeshis who sailed from Libya?
-> - Does Greece treat Bangladesh as a safe country of origin, and what share of Bangladeshi asylum claims does it reject?
+> - Was the July 2025 suspension renewed after October 2025, or can a Bangladeshi landing on Crete in 2026 lodge an asylum claim?
+> - Does Greece list Bangladesh as a safe country of origin, and what share of Bangladeshi asylum claims did it reject in 2025?
 
 ## Living without papers and deportation
 
-Before the regularisation, Bangladeshis without papers in Greece lived in inhuman conditions and could not get treatment when sick [XG0003]. In 2022 Greek police were rounding up irregular migrants in Athens every day, and the government sent more than fifty Bangladeshis home in several rounds [XG0001]. In September 2025 Greece planned return flights that included Bangladeshis (see Asylum) [XG0024]. What happens on landing in Dhaka is under "Deportees and outpass holders" in the Departure bottlenecks doc.
+Since the law passed on 3 September 2025:
+- **Illegal stay is a crime:** 2 to 5 years in prison and a fine of at least EUR 5,000 [OG0071].
+- **Detention:** up to 24 months before removal, and an appeal does not stop it [OG0073].
+- **Leaving voluntarily:** 14 days after a return decision, possibly with electronic monitoring [OG0074].
+- **Entry ban:** up to ten years [OG0075].
+- **No papers after seven years:** the route to legal status through seven years of irregular stay was abolished [OG0072].
+
+Before the regularisation, Bangladeshis without papers lived in inhuman conditions and could not get treatment when sick [XG0003]. In 2022 Greek police were rounding up irregular migrants in Athens every day, and more than fifty Bangladeshis were sent home in several rounds [XG0001]. Under the MoU, Greece and Bangladesh cooperate on returning Bangladeshis who have no right to stay, under the EU-Bangladesh return procedures signed on 20 September 2017 [OG0016]. A Bangladeshi without a valid passport goes home on a Travel Permit from the Bangladesh Embassy in Athens, which costs EUR 11, or EUR 25 urgent [OG0089]. What happens on landing in Dhaka is under "Deportees and outpass holders" in the Departure bottlenecks doc.
 
 > **Need to know**
-> - How does a Bangladeshi without papers in Greece get a travel permit from the embassy to go home, and what does it cost?
-> - Does Greece run a voluntary return programme with IOM (the International Organization for Migration) for Bangladeshis?
+> - Does IOM (the International Organization for Migration) in Greece run a voluntary return programme with a ticket and reintegration grant for Bangladeshis in 2026?
 
 ## Work and life in Greece
 
-A significant number of Bangladeshi workers live in western Manolada, working mainly on Greek farms: strawberries, olives, oranges and other crops [XG0002]. Since the regularisation, regularised Bangladeshis work freely in various firms, and the embassy said they now send money home through legal channels [XG0008, XG0009]. How to send money and what each way costs is under "Ways to send money and what each costs" in the Sending money home doc.
+Workers under the MoU have the same employment and social security rights as Greek law gives others [OG0012]. From 1 April 2026 the minimum wage is EUR 920 a month for salaried employees and EUR 41.09 a day for manual workers [OG0093]. Since the regularisation, regularised Bangladeshis work freely in various firms, and the embassy said they now send money home through legal channels [XG0008, XG0009]. How to send money and what each way costs is under "Ways to send money and what each costs" in the Sending money home doc.
 
 > **Need to know**
-> - What are the minimum wage, working hours and housing for farm workers in Manolada, and where does a worker complain if not paid?
+> - Where does a farm worker in Manolada complain if not paid: the Labour Inspectorate (SEPE) office in Patras or Pyrgos, or elsewhere, and in which language?
+
+## If a worker dies in Greece
+
+For bringing a body home, the Bangladesh Embassy in Athens asks families and friends to contact Md. Saifuzzaman (+30 694 343 0352) or Ahammed Sharif (+30 694 207 8014), or to email mission.athens@mofa.gov.bd; it says it is not responsible for money paid to anyone other than the embassy [OG0091].
+
+> **Need to know**
+> - What does repatriating a body from Greece cost, and does the Wage Earners' Welfare Board pay it for a worker who left with BMET clearance?
 
 ## Contacts
 
-- **Bangladesh Embassy in Greece (Athens):** registered Bangladeshis for the regularisation; the ambassador in January 2024 was Asud Ahmad [XG0007, XG0011].
-- **Greek embassy in Bangladesh:** none as of April 2024; opening one in Dhaka was on Greece's priority list [XG0014].
+- **Bangladesh Embassy, Athens:** 119 Marathonodromon Street, 154 52 Palaio Psychiko, Athens; tel. +30 210 6720 250; mission.athens@mofa.gov.bd; athens.mofa.gov.bd [OG0090]. Open Monday to Friday, 09:00 to 17:00 [OG0087]. E-passport applications 09:00 to 13:00, collection 10:30 to 15:00; attestation and certificate applications 09:00 to 13:00, delivery 15:00 to 17:00 [OG0092]. Probashi Kallyan card (the Wage Earners' Welfare Board membership card): Ahammed Sharif (694 207 8014) and Md. Enamul Haque (694 598 2378) [OG0092]. The ambassador since September 2024 is Nahida Rahman Shumona [OG0031].
+- **GVCW visa centre for Greece, Dhaka:** Borak Mehnur, 51/B, 8th Floor, Kemal Ataturk Avenue, Banani; +88 09606 777999, +88 09666 911381, Sunday to Thursday 9:00 to 16:30; info.bdgr@gvc24assist.eu [OG0035, OG0034].
+- **Embassy of Greece in New Delhi (covers Bangladesh):** grcon.del@mfa.gr [OG0095, OG0027].
+- **Honorary General Consulate of Greece, Dhaka:** Giant Business Tower, Level 13, Plot 3, Uttara C/A, Dhaka 1230; +880 2 7911327-8, 7913980-1; faruque@giantbd.com; honorary consul general Faruque Hassan [OG0028].
 - **In Bangladesh, for a missing relative:** the upazila nirbahi officer, then a formal application to the relevant ministry (see If a relative dies or goes missing on the crossing) [XG0085].
 
 > **Need to know**
-> - The Bangladesh Embassy in Athens: address, phone, email and labour wing hours.
-> - Which embassy handles Greek visas for Bangladeshis, and its address.
+> - Does the Bangladesh Embassy in Athens have a labour welfare wing, and what is its phone number?

@@ -1,0 +1,38 @@
+# OEP country-clearance report, Canada (country_id 32), by job category, 2026-01-01 to 2026-11-23, queried 2026-11-23
+Sum of categories: 64; categories listed: 34
+Canada | A Casual Worker | 11
+Canada | Worker | 7
+Canada | Cook | 7
+Canada | Agent | 3
+Canada | Manager | 2
+Canada | Auditor | 2
+Canada | Cook/Chef | 2
+Canada | General Labour | 2
+Canada | Project Coordinator | 2
+Canada | Accountant | 2
+Canada | Hotel Boy | 1
+Canada | Kitchen Worker | 1
+Canada | Labour | 1
+Canada | Machine Technician | 1
+Canada | Metal Melters Reheater | 1
+Canada | Pickup Truck Driver | 1
+Canada | Project Manager | 1
+Canada | Resturant Crew | 1
+Canada | Teacher | 1
+Canada | Technician | 1
+Canada | Waiter | 1
+Canada | Carpenter | 1
+Canada | Process equipment adjuster | 1
+Canada | Executive Sales | 1
+Canada | GENERAL WORKER | 1
+Canada | Administrative Officer | 1
+Canada | Analyst | 1
+Canada | Building / Construction Helper | 1
+Canada | CEO | 1
+Canada | Coordinator | 1
+Canada | Electrical Engineer | 1
+Canada | Electronics Supervisor | 1
+Canada | Engineer | 1
+Canada | Fitter | 1
+https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=200&approval_date_from=2026-01-01&approval_date_to=2026-11-23&country_id%5B%5D=32&gender_id=&all_skills=1
+{"success":true,"code":null,"payload":{"data":[{"country_id":32,"country_name":"Canada","total_employee":11,"category_name":"A Casual Worker"},{"country_id":32,"country_name":"Canada","total_employee":7,"category_name":"Worker"},{"country_id":32,"country_name":"Canada","total_employee":7,"category_name":"Cook"},{"country_id":32,"country_name":"Canada","total_employee":3,"category_name":"Agent"},{"country_id":32,"country_name":"Canada","total_employee":2,"category_name":"Manager"},{"country_id":32,"country_name":"Canada","total_employee":2,"category_name":"Auditor"},{"country_id":32,"country_name":"Canada","total_employee":2,"category_name":"Cook\/Chef"},{"country_id":32,"country_name":"Canada","total_employee":2,"category_name":"General Labour"},{"country_id":32,"country_name":"Canada","total_employee":2,"category_name":"Project Coordinator"},{"country_id":32,"country_name":"Canada","total_employee":2,"category_name":"Accountant"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Hotel Boy"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Kitchen Worker"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Labour"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Machine Technician"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Metal Melters Reheater"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Pickup Truck Driver"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Project Manager"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Resturant Crew"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Teacher"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Technician"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Waiter"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Carpenter"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Process equipment adjuster"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Executive Sales"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"GENERAL WORKER"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Administrative Officer"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Analyst"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Building \/ Construction Helper"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"CEO"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Coordinator"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Electrical Engineer"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Electronics Supervisor"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Engineer"},{"country_id":32,"country_name":"Canada","total_employee":1,"category_name":"Fitter"}],"recordsTotal":34,"recordsFiltered":34,"totalEmployee":64},"type":"success","fade":false}

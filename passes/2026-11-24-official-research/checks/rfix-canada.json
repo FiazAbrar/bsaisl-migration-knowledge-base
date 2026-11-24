@@ -1,0 +1,37 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/canada/doc.md",
+  "section": "Size",
+  "old_str": "- **Workers cleared by BMET:** none in 2021, 99 in 2022, 548 in 2023 (196 women), 534 in 2024, 147 in 2025 and 64 from January to 23 November 2026 [OC0010, OC0001, OC0003, OC0004, OC0005, OC0007, OC0009].",
+  "new_str": "- **Workers cleared by BMET:** 548 in 2023 (196 women), 534 in 2024, 147 in 2025 and 64 from January to 23 November 2026, by BMET's online OEP clearance report [OC0003, OC0004, OC0005, OC0007, OC0009].",
+  "problem": "The 2021 zero and the 2022 figure are artefacts of the OEP report's coverage, not clearances: the same OEP country-clearance query returns 0 for every country for 2017-2021 and only 38,953 departures in total for 2022, against 1,302,488 for 2023 (see countries/qatar/sources/oep-country-clearance-2017..2023.json and countries/malaysia/sources/oep-country-clearance-*.json). 'None in 2021' presents missing data as no clearances. Drop OC0010 and OC0001 (and correct those facts' claims), or state that the OEP system holds no data before 2022 and only part of 2022."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/canada/doc.md",
+  "section": "Step 2: Apply for the study permit",
+  "old_str": "2. If selected, you get a letter of acceptance (LOA); IRCC asks the school to confirm it is genuine, and if the school does not answer in time IRCC returns the application and refunds the fee [OC0022].",
+  "new_str": "2. If selected, you get a letter of acceptance (LOA); IRCC asks the school to confirm it is genuine, and if the school does not answer in time IRCC returns the application and refunds the fee [OC0022, OC0153].",
+  "problem": "The return-and-refund clause is not in OC0022's claim or quote. It is true per sources/ircc-sp-get-documents.md line 26 ('If your school does not respond by the deadline, we'll return your application and refund your processing fee'); the better fix is to log that line as a fact and keep the clause with that citation."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/canada/doc.md",
+  "section": "Step 2: Apply for the study permit",
+  "old_str": "a CV if you left full-time study more than two years ago [OC0052];",
+  "new_str": "a CV (curriculum vitae, a summary of your education and work) if you left full-time study more than two years ago [OC0052];",
+  "problem": "Acronym CV not explained at first use. Also, OC0052's claim omits the CV condition, which the source states (sources/ircc-imm5850-study-bd.txt lines 47-48); add it to the fact."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/canada/doc.md",
+  "section": "How to apply",
+  "old_str": "   - copies of birth and, if married, marriage certificates;\n",
+  "new_str": "   - copies of birth and, if married, marriage certificates [OC0154];\n",
+  "problem": "Carries no supporting fact: the lead sentence cites OC0089-OC0093, none of which mention birth or marriage certificates. The item is true (sources/ircc-imm5890-visit-bd.txt lines 24-26: copy of birth certificate, and marriage certificate where applicable); preferred fix is to log that as a fact and cite it rather than delete."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/canada/doc.md",
+  "section": "How a genuine work permit is issued",
+  "old_str": " The employer must not be on IRCC's list of non-compliant employers [OC0113].",
+  "new_str": " The employer must not be on IRCC's list of non-compliant employers [OC0155].",
+  "problem": "OC0113 is about working without a permit and says nothing about non-compliant employers. The point is true per sources/ircc-employer-specific.md line 42 (job offer from an employer not on the list of non-compliant employers); preferred fix is to log that line as a fact and cite it."
+ }
+]

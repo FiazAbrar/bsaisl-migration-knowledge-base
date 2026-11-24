@@ -1,0 +1,86 @@
+
+ Working to RAISE the Prospects of Bangladesh’s Youth and Migrants
+Home
+https://www.worldbank.org/ext/en/home
+What We Do
+https://www.worldbank.org/ext/en/what-we-do
+Outcomes
+https://www.worldbank.org/ext/en/what-we-do/outcomes
+Working to RAISE the Prospects of Bangladesh’s Youth and Migrants
+https://www.worldbank.org/en/results/2025/04/15/working-to-raise-the-prospects-of-bangladesh-s-youth-and-migrants
+jcrtitle
+Working to RAISE the Prospects of Bangladesh’s Youth and Migrants
+jcrpagetitle
+Working to RAISE the Prospects of Bangladesh’s Youth and Migrants
+jcrdescription
+Enhanced job prospects for Bangladesh's youth, migrants, and women through skills training -- boosting economic opportunities and supporting sustainable growth with entrepreneurship.
+jcrimage
+content-type
+results-brief
+funding-mechanism
+ida, IDA
+sec-spacing
+section-none
+sec-spacing-bottom
+section-none
+sec-swoosh
+sec-swoosh-type6
+style
+bg-neutrals-20, two-col-variation-50-50
+sec-inside-container
+true
+Results
+280,000 beneficiaries have been reached through interventions that aim to improve earning opportunities for low-income urban youth and migrant workers returning to Bangladesh.
+This includes over 140,000 returning migrant workers who have been registered through 31 new district welfare centers and received counselling, cash transfers, and referrals to job training to upgrade their skills and increase their capacity for self-employment.
+So far, over 17,200 youth have graduated from a job apprenticeship program, and almost 90% are now employed in jobs or running their own microenterprise.
+Almost 115,000 microentrepreneurs have been supported to enhance their small businesses, leading some to expand their businesses and create jobs.
+As of January 2025, the project had resulted in nearly 45,000 new or better jobs for women.
+The Challenge
+Bangladesh’s informal sector accounts for up to 85% of employment and is characterized by low productivity and low wages. Youth in particular face significant challenges to accessing economic opportunity, and unemployment has traditionally been higher for them. With youth expected to account for 50% of Bangladesh’s working-age population by 2028, their labor market outcomes are critical for the country’s sustainable long-term growth and poverty reduction.
+International migration also is a major part of Bangladesh’s economy: on average, up to 1 million workers seek temporary employment opportunities overseas, where they could earn three to four times more than at home. However, the exorbitant cost of migration often requires workers to spend their life savings or take out large loans. When COVID-19 lowered demand for labor, forcing hundreds of thousands of working migrants to return to Bangladesh, they struggled with high debt burdens, social ostracization, and reintegration into the domestic labor market. To support these populations and invest in its economic future, Bangladesh sought to enhance employability and productivity for low-income urban youth, microentrepreneurs impacted by the pandemic, and returning migrants.
+WBG Approach
+The World Bank Group is supporting Bangladesh in enhancing earning opportunities for low-income urban youth and returning migrants. The project’s targeted economic inclusion program, for which the Partnership for Economic Inclusion provided technical inputs, is rooted in the communities it serves and tailored to fit beneficiaries’ individual needs.
+The World Bank
+Through the program, youth and low-income microentrepreneurs in urban and peri-urban areas receive a bundle of services to boost their job prospects, including counseling; on-the-job learning through informal apprenticeships; business management, technical skills, and life-skills training; microfinance for self-employment and informal micro-enterprises; and stipends. For returning migrants, the project helped establish 31 district welfare centers, where beneficiaries can register and receive services, ranging from counseling and psychosocial first aid to a one-time cash transfer, as well as referrals to relevant services. The project employs an extensive implementation network to deliver services at close proximity to clients, which facilitates case-by-case interaction and follow up, and enables greater responsiveness to local needs and preferences.
+true
+expert-quote, expert-quote-slider
+With the loan, we have expanded our business. But with the training, we have understood how to effectively use the money and manage the business. We are grateful to all the people related to this project for allowing young people like us to grow.
+Farzana Akter
+Business owner
+false
+Lesson Learned
+Collaboration with a range of partners has been crucial to strong results. Building the capacity of microfinance institutions has equipped them to deliver economic inclusion services to support not only traditional microfinance, but also entrepreneurial skills and employability. Partnerships with migration-focused non-government organizations allowed the project to achieve deeper community reach and to leverage the trust these organizations have built among migrant families. Through service agreements with a range of public and private organizations – banks, training institutions, healthcare providers, and legal aid – the project has been able to refer beneficiaries to services that are targeted to their needs.
+The World Bank
+Next Steps
+The project’s implementation arrangements permit it to be quickly scaled up, as implementing agencies work through partner organizations that have significant field-level presence. With this enhanced outreach and intake capacity available, a scaled-up program could achieve greater coverage with high-quality, targeted interventions. The expanded project would require additional employment support officers and case management officers to continued positive outcomes, global skills partnerships that would enable newly trained youth to seek international employment opportunities, and linkages with the private sector to facilitate labor intermediation.
+true
+expert-quote, expert-quote-slider
+I didn’t know what to do. I felt like I had failed. The project was like a lifeline for me. The counselling and guidance I received from RAISE helped me regain my confidence and find a new direction. I may have stumbled along the way, but with the help of RAISE … I am ready to create a better future for myself and my loved ones.
+Asid Miah
+Returned migrant worker
+false
+Download: Working to RAISE the Prospects of Bangladesh’s Youth and Migrants (PDF)
+sec-spacing
+section-padding-between
+sec-spacing-bottom
+section-padding-between
+style
+default, data-list-container, lp--body-content, add-style
+sec-inside-container
+false
+sec-width
+true
+Related
+lp-heading-bottom-large
+Outcomes on Job Creation: Spotlight on Stories of Impact
+lp lp-external-link
+sec-spacing
+section-none
+sec-spacing-bottom
+section-padding-between
+style
+default, related-2-cols
+sec-inside-container
+false
+sec-width
+false

@@ -1,0 +1,1418 @@
+                              Foreign Exchange Policy Department-2
+                                        Bangladesh Bank
+                                          Head Office
+                                             Dhaka
+                                             www.bb.org.bd
+
+FEPD-2 Circular No. 07                                                Date: October 17, 2026
+
+
+All Authorized Dealers and Licensed Money Changers in
+Foreign Exchange in Bangladesh
+
+Consolidated Circular - Licenses for Authorized Dealers, Money Changers and Gold Dealers
+
+Dear Sirs,
+
+Licenses for dealing in foreign exchange and gold are regulated under the Foreign Exchange
+Regulation (FER) Act, 1947 and the circulars/instructions issued thereunder from time to time.
+
+02. With a view to streamlining the operational procedures relating to the issuance and renewal of
+licenses for Authorized Dealers, Money Changers and Gold Dealers, the existing
+regulations/instructions have been consolidated into a single document, with necessary
+modifications and updates, as enclosed herewith.
+
+03. Upon issuance of this circular, the existing instructions in this regard shall stand repealed to the
+extent covered by this circular.
+
+04. This circular is issued in exercise of the powers conferred upon Bangladesh Bank under Section
+20(3) of the FER Act, 1947.
+
+05. The instructions contained in this circular shall remain valid for a period of one year from the
+date of its issuance. Any instructions, amendments or clarifications issued by Bangladesh Bank
+during this period shall be read in conjunction with this circular.
+
+Please bring the contents of this consolidated circular to the notice of your relevant constituents.
+
+
+                                                                  Yours faithfully,
+
+
+Encl. As stated.
+                                                                   Munira Islam
+                                                                 Director (FEPD-2)
+                                                                  Phone: 9530119
+                                                      Contents
+                                   PART-A: AUTHORIZED DEALERS
+
+
+1.    General………………………………………………………………………………                                                                                       1
+2.    Cancellation/Revocation of license …………..…………………………………….                                                                    1
+
+                                      PART-B: MONEY CHANGERS
+1.    Money changer license ………………………………………………………..........                                                                       2
+2.    Use of office space ………………………………………………………………….                                                                              2
+3.    Passport endorsement fee by money changers …….……………………………….                                                                 2
+4.    Buying of foreign currency notes and coins ……..…………………………………                                                                2
+5.    Releasing foreign currency notes and coins ………………………………………..                                                                2
+6.    Stock of foreign currency and foreign currency account..…………..………………                                                        3
+7.    Fixation/display of buying/selling rate …………...………………………………...                                                              4
+8.    Reporting ………………...........................................................................................                 4
+9.    Renewal of license……………………………………………………………..........                                                                         4
+10.   Change of office………………………………………..……………………………                                                                                5
+11.   Conversion to limited company and transfer of ownership ………………………..                                                         5
+12.   Cancellation of money changer license……………………………………………..                                                                    5
+
+                      PART-C: LIMITED MONEY CHANGERS
+1.    General………………………………………………………………………………                                                                                       6
+2.    Application procedure for obtaining a limited money changer license……………..                                                  6
+3.    Scope for licensed institutions ……………………………………………………...                                                                     7
+4.    License validity period and renewal procedure……………......................................                                    7
+5.    Authority of Bangladesh Bank to grant/reject permission and inspect…………….                                                   8
+6.    AML/CFT compliance ……………………………………………………………...                                                                               8
+7.    Visible notice board....................................................................................................    8
+8.    Cancellation of license ……………………………………………………………...                                                                          9
+
+                     PART-D: AUTHORIZED GOLD DEALER (AGD)
+
+1.     General …………………………………………………………………………….                                                                                    10
+2.     Scope for licensed institutions ……………….………………………………........                                                               10
+3.     Import of gold bars for the purpose of exporting gold under the Gold Ornaments                                            11
+       Export Scheme……………………………………………………..........................
+4.     License validity and renewal procedure …………………………...........................                                              11
+5.     Authority of Bangladesh Bank to grant/reject permission and inspect…………….                                                 11
+
+
+                                                                   i
+     PART-E: AUTHORIZED IMPORTER OF GOLD ORE/DORE FOR REFINING
+
+1.      General ……………………………………………………………………………                                                12
+2.      Eligibility criteria for obtaining permission as an authorized importer ………......    12
+3.      Application for permission ……………………………………………………….                                    12
+4.      Validity of permission…………………………………………….........................                     13
+5.      Authority of Bangladesh Bank to grant/reject permission and inspect…………...           13
+
+        PART-F: DEALING IN FOREIGN CURRENCY NOTES AND COINS ETC.
+
+1.       Unauthorized dealings ………………………………………………………….                                      14
+2.       Conditions under which ADs/authorized money changers may purchase                  14
+         foreign currency ………………………………………………………………..
+3.       Disposal of foreign currency notes and coins by the ADs……………………                    14
+4.       ADs requirement of foreign currency notes…………………………………….                           14
+5.       Responsibility for the realization of the value of foreign currency notes          15
+         purchased by ADs ………………………………………………………………
+6.       Release of foreign exchange in the form of USD notes to outgoing persons…...       15
+
+
+
+
+                                                ii
+                                   APPENDICES
+
+
+Appendix-1   Encashment certificate
+
+Appendix-2   Monthly returns of money changers
+
+Appendix-3   Monthly statement of foreign exchange transactions of limited ADs (bank
+             branch/booth)
+Appendix-4   Monthly Statement of foreign exchange transactions by limited money
+             changers
+Appendix-5   Gold Policy-2018 (Amended, 2021)
+
+Appendix-6   Foreign exchange declaration form
+
+
+
+
+                                      ANNEXURE
+
+Annexure-1   Application for authorized dealer (AD) license
+
+Annexure-2   Application for changing office address
+
+Annexure-3   Application for conversion to limited company and transfer of ownership
+
+Annexure-4   Application for limited money changer license
+
+Annexure-5   Application for obtaining permission as an authorized importer of ore/dore
+
+
+
+
+                                          iii
+                                             PART-A
+                                AUTHORIZED DEALERS
+1. General
+
+Bangladesh Bank issues licenses normally to scheduled banks to deal in foreign exchange. To
+obtain authorized dealer (AD) license for a branch, a scheduled bank operating in Bangladesh
+must submit a formal application through its Head Office to Director (FEPD-2), Foreign Exchange
+Policy Department-2, Bangladesh Bank, Head Office, Dhaka along with the following documents/
+Information (Annexure-1):
+
+(a) A declaration regarding compliance with the Foreign Exchange Risk Management Guidelines
+issued vide FE Circular Letter No. 12, dated February 20, 2025, and subsequent amendments
+thereto, as well as with the instructions contained in foreign exchange circulars/circular letters
+issued from time to time, including the prescribed reporting routines to Bangladesh Bank;
+
+(b) Year-wise data for the preceding 05 (Five) years in respect of all AD branches of the bank
+relating to import, export, non-funded exposure, forced loan/funded liabilities created against such
+exposure and remittances, showing the respective number and amount;
+
+(c) The number of overdue outstanding bills of entry against retired/settled import bills and the
+corresponding foreign currency amount, expressed in million USD;
+
+(d) A feasibility assessment report justifying the necessity and business potential of the proposed
+license for the concerned branch;
+
+(e) Certification/details regarding the availability of adequate skilled and experienced officers at
+the proposed branch for conducting foreign exchange transactions;
+
+(f) True copy of license issued by Banking Regulation and Policy Department-1 (BRPD-1) of
+Bangladesh Bank in favor of the proposed branch; and
+
+(g) The audited financial statements of the preceding financial year.
+
+2. Cancellation/ Revocation of license
+If a licensed AD bank fails to fulfill the duties assigned to it, and/or fails to comply with
+instructions issued under the Foreign Exchange Regulation (FER) Act, 1947 (as amended in
+2015), Bangladesh Bank reserves the absolute right to cancel or revoke the license granted to such
+bank at any time after giving a reasonable opportunity of explaining its position on the matter.
+
+
+
+
+                                                 1
+                                             PART-B
+                                   MONEY CHANGERS
+
+1. Money changer license
+
+Bangladesh Bank may issue "Money Changer" licenses to persons/firms desirous of undertaking,
+as their sole line of business, the purchase and sale of foreign currency notes and coins from and to
+incoming and outgoing tourists. ADs are advised to process applications for licenses on behalf of
+their customers provided Bangladesh Bank decides to issue new licenses and forward the same
+with recommendation to Director (FEPD-2), Foreign Exchange Policy Department-2, Bangladesh
+Bank, Head Office.
+
+2. Use of office space
+
+Money changer shall have no branch office. The premise to be used for money changing business
+shall not be used for any other business activity.
+
+3. Passport endorsement fee by money changers
+
+Money changers may charge maximum Tk. 300 (Three hundred) for the endorsement of an
+outgoing passenger's passport, irrespective of the amount. To ensure regulatory compliance and
+consumer transparency, the amount of the endorsement fee must be clearly displayed in a
+prominent place at the money changer’s business premises and a written receipt must be provided
+to the customer for this specific fee. Money changers must keep a proper record of all fees
+collected from customers for future auditing and inspection purposes.
+
+4. Buying of foreign currency notes and coins
+
+Money changers are allowed to buy foreign currency notes and coins from incoming foreign and
+Bangladesh nationals coming/returning from abroad. For each such purchase an encashment
+certificate shall be furnished to the seller in prescribed format as per Appendix-1.
+
+5. Releasing foreign currency notes and coins
+
+Money changers may sell foreign currency notes and coins only to outgoing Bangladesh nationals
+against their annual private travel entitlements (per calendar year) subject to a maximum limit of
+USD 3,000 (Three thousand) in the form of USD notes and coins at any one instance. The balance
+of the applicable entitlement may be sold in the form of notes and coins denominated in other
+freely convertible/usable foreign currencies subject to availability of the respective customer’s
+remaining travel entitlement. Release of foreign exchange up to USD 200 (Two hundred) or
+equivalent requires a valid ticket, while release in excess of USD 200 (Two hundred) or equivalent
+requires a valid visa, where applicable.
+
+Money changers may also sell foreign currency notes and coins to outgoing foreign nationals
+having duly issued encashment certificates, subject to a maximum limit of USD 500 (Five
+
+                                                 2
+hundred) or equivalent by reconversion of Bangladesh Taka proceeds of foreign exchange sold by
+a tourist during his/her stay in Bangladesh. Any licensed money changer whether it encashed
+earlier or not may reconvert the unspent Bangladesh Taka belonging to the foreign tourist, up to
+USD 500 (Five hundred) or equivalent provided that the tourist submits system generated
+encashment certificate provided by any licensed money changer. While providing reconversion,
+money changer shall stamp on the original encashment certificate to the effect that reconversion
+has been executed and preserve a copy thereof.
+
+With regard to Hajj Pilgrimage, licensed money changers shall follow the instructions issued for
+releasing foreign currency in terms of Hajj Policy of the Government. Money changers may
+release foreign exchange on account of overseas allowances of the cockpit and cabin crews
+allowed by Biman Bangladesh Airlines Ltd. as mentioned in paragraph 3(2), Part-B of FEPD-1
+Circular No. 40, dated September 30, 2026.
+
+While releasing foreign exchange for travel abroad, money changers shall verify and satisfy
+themselves that the travel for which the foreign exchange released earlier was actually undertaken
+or the issued foreign exchange was duly encashed. Each sale of foreign exchange shall be recorded
+in the passport and air ticket (in case of air travel) of the outgoing passenger with seal and
+signature of authorized person of the money changer. In each case of release of foreign exchange
+for travel abroad, photocopies of first six pages (in case of Machine Readable Passport,
+photocopies of two pages), pages containing visa (if available) and pages containing endorsement
+of foreign exchange of the passport duly signed by the authorized person of the money changer
+with seal shall be retained at least for 05 (Five) years for inspection by Bangladesh Bank officials.
+
+In case of release of foreign exchange to a foreign tourist against encashment certificate
+evidencing conversion of foreign currency into Taka, copy of the encashment certificate issued to
+the outgoing tourist shall be retained at least for 05 (Five) years along with the receipts/vouchers
+and other records of sale. The money changers shall verify to satisfy themselves that the journey is
+to be undertaken not later than 02 (two) weeks after the date on which the exchange is issued. In
+case of air travel the date of departure needs to be determined on the basis of air ticket and an
+undertaking from the passenger may be treated as the determining criterion for other cases. No
+foreign exchange should be sold unless the date of departure is specified within the stipulated
+time.
+
+6. Stock of foreign currency and foreign currency account
+
+The initial stock of foreign currency notes and coins shall be built up by the money changers as
+prescribed at paragraph 4 and 5 above. The maximum stock of cash foreign currency must not
+exceed USD 25,000 (Twenty five thousand) or equivalent at the close of each business day. Cash
+foreign currency beyond this limit shall either be encashed with any AD or deposited to the
+foreign currency (FC) account maintained with the designated AD of the concerned money
+changer. Cash foreign currency can be withdrawn from this FC account. The balance of that
+account must not exceed USD 50,000 (Fifty thousand) or equivalent at any point of time.
+Moreover, the maximum stock of Bangladesh Taka must not exceed Tk. 50.00 (Fifty) lac at any
+
+
+                                                 3
+point of time. Bangladesh Taka beyond this limit shall be deposited to money changers’ current
+deposit account.
+
+7. Fixation/display of buying/selling rate
+
+Money changers shall fix their own exchange rates for purchase and sale of foreign currency notes
+& coins and the rates shall be displayed prominently at their counters.
+
+8. Reporting
+
+(a) Submission of monthly statement
+
+Details of all sales and purchases shall be recorded in the books properly and completely. All such
+records and books of accounts of the licensee must be made available for inspection by
+Bangladesh Bank officials as and when directed. Periodical returns/statements in prescribed form
+(as per Appendix-2) shall be furnished to FEOD-2, Head Office or concerned office of Bangladesh
+Bank on monthly basis within 10 (Ten) days from the end of each month.
+
+(b) Online money changer monitoring system
+
+Bangladesh Bank has developed 'Online Money Changer Monitoring System', a web based real
+time transaction reporting platform. Each transaction of money changer with customers shall have
+to be reported to the above mentioned system. Such reporting will generate an acknowledgement
+in PDF format with unique transaction ID and Bangladesh Bank monogram for each transaction.
+The printed copy of the acknowledgement report shall have to be delivered to the client. For
+details, money changers shall follow the instructions mentioned in the user guide attached with the
+system.
+
+9. Renewal of license
+
+The license shall be valid for a period of 01 (one) year. For renewal, the licensee shall apply to
+Director (FEOD-2), Foreign Exchange Operation Department-2, Bangladesh Bank, Head Office,
+Dhaka (for Dhaka region) or to the Executive Director of concerned office of Bangladesh Bank
+(for other areas) through the concerned AD bank not later than 02 (two) months before the expiry
+of license.
+
+Bangladesh Bank may not consider prayer for renewal unless volume of transactions in the
+previous year as per statements submitted to Bangladesh Bank reaches the threshold amount fixed
+by Bangladesh Bank from time to time. Presently for renewal of license, the minimum required
+annual volume of foreign exchange transactions by money changers is USD 5.00 (Five) lac or
+equivalent foreign currency in the city corporation areas of Dhaka and Chattogram and USD 3.50
+(Three and a half) lac or equivalent foreign currency for other areas. Money changers failing to
+achieve the above target shall be considered ineligible for renewal of their licenses.
+
+
+
+                                                4
+Application for renewal shall be accompanied by copies of deed of house rent (in case of rented
+house) for the proposed renewal period, up-to-date tax payment certificate, VAT Payment
+Certificate, up-to-date trade license, updated membership certificate of relevant association
+representing the sector, return of asset-liability (Form IT-10B) submitted to Income Tax Office,
+audited balance sheet of the last year (where the applicant is a company). For non-submission of
+certificate evidencing payment of tax for the preceding year, an undertaking for submitting the
+same later on along with latest tax payment certificate should be furnished. The returns so
+submitted to tax authority must be accompanied by documents evidencing minimum net asset of
+the licensee of Tk. 10.00 (Ten) lac for sole proprietorship and partnership firms. For joint stock
+company, at the time of renewal, minimum paid up capital shall be Tk. 1.00 (One) crore or more
+as per audited balance sheet.
+
+Subject to satisfactory performance in the previous year, licensee shall be advised by Bangladesh
+Bank in writing to deposit non-refundable renewal fee Tk. 10,000 (Ten thousand) in favor of
+Bangladesh Bank through Bangladesh Electronic Fund Transfer Network (BEFTN) to A/c No-
+2316100055; Account name- BBGenA/cHO_FEOD. Certificate of renewal of license shall be
+provided through AD bank if renewal fee is deposited accordingly. Money changers must preserve
+the license and renewals issued by Bangladesh Bank with reasonable care.
+
+10. Change of office
+Any change in money changer's office address shall require prior approval of Bangladesh Bank.
+Applications for changing office address should be forwarded to Director (FEPD-2), Foreign
+Exchange Policy Department -2, Bangladesh Bank along with up-to-date money changer license,
+deed of rent (in case of rented house), reasons for change etc. along with the documents mentioned
+in Annexure-2.
+
+11. Conversion to limited company and transfer of ownership
+Conversion of the status of a money changer from sole proprietorship or partnership to joint stock
+company and transfer of ownership of a money changer may be done only with prior approval of
+the Bangladesh Bank. Such request may be accommodated by Bangladesh Bank upon establishing
+the bonafides of the cases. Money changers shall submit such requests to Director (FEPD-2),
+Foreign Exchange Policy Department-2, Bangladesh Bank, Head Office through their nominated
+ADs showing proper reasons along with the documents mentioned in Annexure-3.
+
+12. Cancellation of money changer license
+
+Any contravention of, violation of, or failure to comply with any term or condition of the license
+or any instruction issued by Bangladesh Bank from time to time shall render the concerned
+licensed money changer liable to cancellation or revocation of its license. Bangladesh Bank may,
+after providing a reasonable opportunity to explain its position, cancel or revoke the license and/or
+take any other regulatory or supervisory action as deemed appropriate.
+
+
+                                                 5
+                                            PART-C
+                              LIMITED MONEY CHANGERS
+
+1. General
+
+Under Section 3 of the FER Act, 1947, Bangladesh Bank issues AD licenses. As per the existing
+system, AD licenses are issued in favor of scheduled bank branches or their central processing
+centers. Limited money changer licenses are also issued to bank branches/bank booths, hotels, gift
+shops etc. The procedures for applying for a license, eligibility, scope of operations, license
+renewal process, responsibilities and other related matters are described below.
+
+2. Application procedure for obtaining a limited money changer license
+
+For the purpose of obtaining a limited money changer license, scheduled banks operating in
+Bangladesh shall submit the application through their head office, and in the case of other
+institutions, through an AD bank, to Director (FEPD-2), Foreign Exchange Policy Department-2,
+Bangladesh Bank, Head Office, Dhaka, along with the documents mentioned below (Annexure-4):
+
+(a) For bank branches/booths:
+
+   (i) Copy of license/approval issued by the Banking Regulation and Policy Department-1
+   (BRPD-1) of Bangladesh Bank in favor of the relevant branch/booth;
+   (ii) Details (with appropriate proof) on manpower experienced in foreign exchange,
+   infrastructure, security arrangements and use of ICT; and
+   (iii) Justification and evidence of foreign exchange related transactions.
+
+(b) For other institutions:
+
+   (i) Business type/nature and documents justifying the need for the license;
+   (ii) Copy of updated trade license;
+   (iii) TIN certificate, BIN certificate and all relevant and updated licenses/registrations;
+   (iv) If the applicant is a registered company: copy of registration certificate, Memorandum of
+   Association and Articles of Association and previous year’s financial statement;
+   (v) Ownership deed or lease agreement, depending on whether the business operates from
+   owned or rented premises;
+   (vi) Brief description on business experience, infrastructure, security and ICT capacity (with
+   evidence); and
+   (vii) Upon receiving initial clearance, submit a non-refundable pay order/bank draft of Tk.
+   50,000 (Fifty thousand) in favor of Director (FEPD-2), Foreign Exchange Policy Department-
+   2, Bangladesh Bank, Head Office, Dhaka.
+
+
+
+                                                6
+3. Scope for licensed institutions
+
+(a) For bank branches/booths:
+   (i) The license issued shall not be transferable under any circumstances;
+   (ii) A licensed institution may change its place of business with the approval of Bangladesh
+   Bank;
+   (iii) Branches/booths of licensed banks will be able to carry out other transactions specified in
+   the issued license, including buying and selling foreign currency, opening and maintenance of
+   admissible foreign currency accounts, dollar endorsement on the passports of citizens
+   travelling abroad and the encashment of foreign currency;
+   (iv) Authorized bank branches/booths in Dhaka region shall submit monthly statement of
+   foreign exchange transactions as per Appendix-3 through their AD Bank to Director (FEOD-
+   2), Foreign Exchange Operation Department-2, Bangladesh Bank, Head Office, Dhaka and in
+   the case of licensed institutions located in other regions to the relevant office of Bangladesh
+   Bank; and
+   (v) The licensed institution shall comply with all relevant instructions issued or to be issued by
+   Bangladesh Bank from time to time.
+
+(b) For other institutions:
+
+   (i) The license shall not be transferable under any circumstances;
+   (ii) A licensed institution shall not change its place of business without the prior approval of
+   Bangladesh Bank;
+   (iii) The licensed establishment may accept foreign currency in cash only from foreign
+   passport holders against the sale of its goods/services. The foreign currency received shall be
+   converted into local currency through an approved AD bank within the next working day.
+   However, for the convenience of transactions, a maximum of USD 1,000 (One thousand) or
+   other approved foreign currency of equivalent value may be retained;
+   (iv) Institutions located within Dhaka region shall submit monthly foreign exchange
+   transaction reports as per Appendix-4 on a monthly basis through their AD Bank to Director
+   (FEOD-2), Foreign Exchange Operation Department-2, Bangladesh Bank, Head Office, Dhaka
+   and in the case of licensed institutions located in other regions, to the relevant offices of
+   Bangladesh Bank; and
+   (v) The licensed institution shall comply with all relevant instructions issued or to be issued by
+   Bangladesh Bank from time to time.
+
+4. License validity period and renewal procedure
+
+(a) In the case of bank branches/booths, there is no need to renew the license.
+
+
+
+
+                                                  7
+(b) In case of other institutions, the license period will be 02 (two) years. All these institutions
+should apply through the concerned AD Bank to the Foreign Exchange Operation Department-2,
+Bangladesh Bank, Head Office, Dhaka and in case of licensed institutions located in other regions,
+to the relevant offices of Bangladesh Bank along with the following documents 02 (two) months
+before the expiry of the license for renewal for the next 02 (two) years :
+
+   (i) Copy of updated trade license;
+   (ii) Latest income certificate/income tax assessment as determined by the Income Tax
+   authority;
+   (iii) Authentic documents in support of payment of VAT against goods or services sold, such
+   as VAT payment certificate for the previous financial year;
+   (iv) Information on foreign exchange transactions for the last one year;
+   (v) License renewal fee of Tk. 10,000 (Ten thousand) (non-refundable) should be deposited
+   through EFT from the bank account maintained with AD Bank of the institution to Director
+   (FEOD-2), Foreign Exchange Operation Department-2, Bangladesh Bank, Head Office, Dhaka
+   and for institutions located outside Dhaka, the fee shall be deposited through the AD Bank to
+   the concerned regional office of Bangladesh Bank through EFT as per the prevailing
+   procedure;
+   (vi) Updated copies of all types of licenses/registrations/certificates etc. obtained under other
+   relevant authorities in the name of the applicant organization; and
+   (vii) Ownership documents if the organization is located in a self-owned location/copy of the
+   updated rental agreement executed with the owner of the relevant location if the organization
+   is located in a rented location.
+
+5. Authority of Bangladesh Bank to grant/reject permission and inspect
+
+Bangladesh Bank reserves the right to grant or refuse a license to conduct limited foreign
+exchange transactions. Bangladesh Bank may also conduct on-site inspections of the applicant
+bank branches/booths and other institutions. Information and supporting documents of foreign
+currency transactions must be properly preserved.
+
+6. AML/CFT compliance
+In order to prevent money laundering and terrorist financing, the licensed institution must ensure
+compliance with the prevailing laws, regulations of the country and the circulars, circular letters
+and other instructions issued by the Bangladesh Financial Intelligence Unit and Money
+Laundering & Terrorist Financing Prevention Department from time to time.
+
+7. Visible notice board
+
+Notice boards should be installed in a place easily visible to customers, clearly written in Bengali
+and English, which will contain notices regarding limited money changers with licenses and the
+daily exchange rate in foreign currencies.
+
+                                                 8
+8. Cancellation of license
+
+If a licensed bank branch/booth or institution fails to fulfill the duties assigned to it, and/or fails to
+comply with instructions issued under the FER Act, 1947, Bangladesh Bank reserves the absolute
+right to cancel or revoke the license granted to such bank/institution, without assigning any reason
+whatsoever.
+
+
+
+
+                                                    9
+                                            PART-D
+                       AUTHORIZED GOLD DEALER (AGD)
+
+1. General
+In accordance with paragraph 3.1 of the Gold Policy-2018 (amended, 2021) and section 8 of the
+FER Act, 1947, Bangladesh Bank may issue Authorized Gold Dealer licenses to AD banks or
+other eligible institutions for the import of gold bars and gold ornaments, subject to compliance
+with the applicable rules, regulations, and instructions of Bangladesh Bank. Subject to a decision
+by Bangladesh Bank to commence issuance of such licenses, ADs shall process license
+applications either on their own behalf or on behalf of their customers and forward the
+applications, along with their recommendations, to Director (FEPD-2), Foreign Exchange Policy
+Department-2, Bangladesh Bank, Head Office, Dhaka.
+2. Scope for licensed institutions
+(a) For AD bank
+    (i) Issued gold dealer license is non-transferable;
+    (ii) With Bangladesh Bank's prior approval, a licensee can change its business location;
+    (iii) Licensees must comply with import policy orders and other relevant import laws and
+    regulations to import gold bars and gold ornaments;
+    (iv) No other commercial activities are allowed at the licensed premises;
+    (v) Licensed institutions must follow all directives issued or to be issued by Bangladesh Bank;
+    (vi) Subject to following the directives of the Gold Policy-2018, the licensed AD bank can
+    import gold bars/ gold ornaments in accordance with the demand of licensed institutions under
+    Gold (Procurement, Storage and Distribution) Order, 1987 upon prior approval from
+    Bangladesh Bank;
+    (vii) Each import of gold bars/gold ornaments requires separate prior approval from
+    Bangladesh Bank, including details of the import demand and the foreign currency to be paid.
+    In this regard, holding a gold license does not automatically allow import in every case; and
+    (viii) Licensed institutions must comply with the conditions mentioned in the approval letter
+    issued by Bangladesh Bank for the import of gold bars/gold ornaments.
+
+(b) For other institutions
+   (i) Issued gold dealer license is non-transferable;
+   (ii) With Bangladesh Bank's prior approval, a licensee can change their business location
+   (Only within city corporation/Municipality area mentioned on the license);
+   (iii) Licensees must comply with import policy orders, other relevant import laws and
+   regulations to import gold bars/gold ornaments and obtain bond license following Customs
+   Act (if applicable);
+   (iv) No other commercial activities are allowed at the licensed premises;
+   (v) Licensed institutions must follow all directives issued or to be issued by Bangladesh Bank;
+   (vi) Subject to following the directives of the Gold Policy-2018, the licensed AD bank can
+   import gold bars/ gold ornaments in accordance with the demand of licensed institutions under
+
+
+                                                10
+   Gold (Procurement, storage and distribution) Order, 1987 upon prior approval of Bangladesh
+   Bank;
+   (vii) Each import of gold bars/gold ornaments requires separate prior approval from
+   Bangladesh Bank, including details of the import demand and the foreign currency to be paid.
+   In this regard, holding a gold license does not automatically allow import in every case; and
+   (viii) Licensed institutions must comply with the conditions mentioned in the approval letter
+   issued by Bangladesh Bank for the import of gold bars/gold ornaments.
+3. Import of gold bars for the purpose of exporting gold under the Gold Ornaments Export
+Scheme
+The instructions of paragraph 11, Part-O of FEPD-1 Circular No. 30, dated August 13, 2026 will
+be applied for the import of gold bars on back-to-back basis by the exporting organizations having
+bonded warehouse license under the Gold Ornaments Export Scheme.
+
+4. License validity and renewal procedure
+The license is valid for 02 (two) years from the date of issue. For renewal, the applicant must
+submit an application to Director (FEPD-2), Foreign Exchange Policy Department-2, Bangladesh
+Bank, Head Office, Dhaka at least 03 (three) months before expiry, along with the following
+documents:
+
+(a) For AD bank
+   (i) A non-refundable pay order or bank draft of Tk. 2.00 (Two) lac issued in favor of Director
+   (FEPD-2), Foreign Exchange Policy Department-2, Bangladesh Bank, Head Office, Dhaka as
+   renewal fee; and
+   (ii) Updated copies of all other relevant license/registrations/certificate.
+
+(b) For other institutions
+   (i) Copy of updated trade license;
+   (ii) Income tax payment certificate along with the latest income certificate/income tax
+   assessment order and copy of IT-10B as assessed by the Income Tax Authority;
+   (iii) A non-refundable pay order or bank draft of Tk. 2.00 (Two) lac issued in favor of
+   Director, FEPD-2, Bangladesh Bank, Head Office, Dhaka as renewal fee; and
+   (iv) Updated copies of all other relevant licenses/registrations/certificate.
+5. Authority of Bangladesh Bank to grant/reject permission and inspect
+Bangladesh Bank retains the authority to conduct on-site inspections of the applicant bank/
+institution prior to issuing permission. Bangladesh Bank also reserves the power to inspect the AD
+bank/institution. If a licensed AD bank/institution fails to fulfill the duties assigned to it, and/or
+fails to comply with instructions issued under the FER Act, 1947, Bangladesh Bank shall reserve
+the absolute right to cancel or revoke the license granted to such bank/institution, without
+assigning any reason whatsoever.
+
+
+                                                 11
+                                             PART-E
+    AUTHORIZED IMPORTER OF GOLD ORE/DORE FOR REFINING
+
+1. General
+
+In accordance with the directives of paragraph 3.2A of the Gold Policy-2018 (Amended, 2021)
+issued by Ministry of Commerce, Government of the People’s Republic of Bangladesh vide
+Notification No. 26.00.0000.100.42.008.21-112 dated 02 June 2021 (Appendix-5), a decision has
+been taken to grant permission as an authorized importer under Section 8 of the FER Act, 1947 for
+the purpose of importing unrefined gold (ore) and partially refined gold (dore) in favor of gold
+refinery establishments licensed by the Ministry of Commerce.
+
+2. Eligibility criteria for obtaining permission as an authorized importer
+
+   (a) The applicant entity must be approved by the Ministry of Commerce (MoC) as a gold
+   refinery establishment or to establish such a refinery;
+   (b) The applicant must be a resident sole proprietorship, a partnership concern or a registered
+   limited company in Bangladesh;
+   (c) The applicant shall undertake the necessary actions to establish a gold refinery at a location
+   as per the conditions approved by the MoC;
+   (d) Adequate arrangements for the storage of imported unrefined gold (ore) and partially
+   refined gold (dore) must be available at the refinery;
+   (e) The applicant shall be financially sound (in terms of capital/net worth, working capital,
+   etc.) as determined by the MoC;
+   (f) The applicant must have advanced and secured telecommunication system through which
+   regular reports can be submitted to Bangladesh Bank;
+   (g) The applicant must hold all up-to-date licenses and registrations required by the prevailing
+   laws of the country; and
+   (h) The applicant must be a valid member of a trade organization approved by the MoC.
+
+3. Application for permission
+
+To obtain permission as an authorized importer for the import of unrefined gold (ore) and partially
+refined gold (dore), an application shall be submitted to Director (FEPD-2), Foreign Exchange
+Policy Department-2, Bangladesh Bank, Head Office, Dhaka through an AD bank along with the
+following documents (Annexure-5):
+   (a) Copy of the MoC approval for establishment of the gold refinery;
+   (b) Updated copies of trade license, TIN certificate, VAT registration, BIN certificate, and
+   relevant trade association membership certificates;
+   (c) Latest income tax certificate/assessment order issued by the tax authority and IT-10B copy
+   along with tax payment certificate;
+   (d) Required supporting documents as per clause 2(e) above;
+
+
+                                                12
+   (e) Bank solvency report including detailed credit status (CIB report) of the applicant issued
+   by a scheduled bank;
+   (f) The resume of the applicant institution’s CEO and authorized officials involved in business
+   operations along with passport size photograph;
+   (g) The company's registration certificate, the MOA and AOA (for limited companies);
+   (h) Detailed information regarding owners/partners/directors, including police clearance
+   certificates, tax payment certificates, solvency certificates, and CIB reports (for demonstrating
+   fitness and propriety);
+   (i) Copy of the deed of ownership of the location designated for the gold refinery;
+   (j) A non-refundable pay order of Tk. 30.00 (Thirty) lac in favor of Director (FEPD-2),
+   Foreign Exchange Policy Department-2, Bangladesh Bank as the permission fee; and
+   (k) A brief description of the applicant's experienced personnel, infrastructure, security, and
+   communication systems (with appropriate documents).
+
+4. Validity of permission
+
+The permission shall remain valid for 05 (Five) years from the date of issuance. For renewal, the
+applicant must submit an application to Director (FEPD-2), Foreign Exchange Policy Department-
+2, Bangladesh Bank, Head Office, Dhaka at least 03 (three) months before expiry, along with the
+following documents:
+
+   (a) Copy of updated trade license;
+   (b) Latest income certificate/assessment order issued by the tax authority and IT-10B copy
+   along with tax payment certificate;
+   (c) A non-refundable pay order of Tk. 5.00 (Five) lac in favor of Director (FEPD-2), Foreign
+   Exchange Policy Department-2, Bangladesh Bank, Head Office, Dhaka as the renewal fee; and
+   (d) Updated copies of all other licenses/registrations/certificates required under the applicable
+   law in Bangladesh.
+
+5. Authority of Bangladesh Bank to grant/reject permission and inspect:
+
+Bangladesh Bank retains the authority to conduct an on-site inspection of the applicant gold
+refinery establishment prior to issuing permission. Bangladesh Bank also reserves the power to
+inspect the authorized institution and approve or reject permission of the authorized institution.
+
+
+
+
+                                                13
+                                             PART-F
+       DEALING IN FOREIGN CURRENCY NOTES AND COINS ETC.
+1. Unauthorized dealings
+
+No person, firm or company other than an AD or authorized money changer (money changer or
+limited money changer authorized by Bangladesh Bank to deal in certain foreign exchange
+transactions) is permitted to deal in foreign currency in any form. Other persons entering into
+transactions involving the buying or otherwise acquiring or borrowing from or selling or otherwise
+transferring or lending to or exchanging with, a person who is not an AD or authorized money
+changer any foreign currency, will, therefore, be deemed to be contravening the provisions of the
+FER Act, 1947.
+
+2. Conditions under which ADs/Authorized money changers may purchase foreign currency
+
+ADs and money changers may freely buy foreign currency from incoming passengers regardless
+of nationality and regardless of whether or not a declaration on form FMJ (Appendix-6) is
+produced at the time of encashment. If this form is produced, the amount encashed should be
+endorsed on it. ADs/Money changers shall also issue encashment certificate against purchase of
+foreign exchange from incoming passengers (Appendix-1).
+
+ADs may also purchase foreign currency notes, coins and other travel instruments freely from
+authorized money changers without the production of Form FMJ.
+
+3. Disposal of foreign currency notes and coins by ADs
+
+(a) ADs are permitted to dispose of foreign currency notes etc. by way of sales to other ADs and
+the general public in accordance with the instructions of Bangladesh Bank.
+
+(b) They may also export foreign currency notes and coins to agents or correspondents abroad for
+credit to their foreign currency accounts with the prior approval of Bangladesh Bank and office of
+the Chief Controller of Imports & Exports (CCI&E). Applications in duplicate with copy of duly
+attested agreement should be made to FEOD-1, Bangladesh Bank, Head Office; approval will be
+given in the duplicate copy. For reasons of security, strict confidentiality should be maintained in
+respect of communication with Bangladesh Bank; this may preferably be done through personal
+calls on the senior officials of the department.
+
+4. ADs requirement of foreign currency notes
+
+In addition to normal purchases from the public, authorized money changers and other ADs, an
+AD may supplement its holdings of foreign currency notes from abroad with approval from
+Bangladesh Bank.
+
+
+
+
+                                                14
+5. Responsibility for the realization of the value of foreign currency notes purchased by ADs
+
+All purchases of foreign currency notes and coins made by ADs and authorized money changers
+are entirely on their own responsibility and they must make their own arrangements for realizing
+the proceeds of surplus foreign currency notes and coins purchased by them which cannot be sold
+to their customers as permitted under the regulations. ADs may realize the value of surplus foreign
+currency notes and coins by repatriating them through their foreign branches or correspondents
+and having the proceeds credited to their appropriate foreign currency accounts.
+
+6. Release of foreign exchange in the form of USD notes to outgoing persons
+
+The following instructions shall be applicable for releasing foreign exchange in the form of
+foreign currency notes against different entitlements or balances held in different foreign currency
+accounts as stated in different circulars issued by Bangladesh Bank:
+
+(a) Foreign exchange in the form of USD notes & coins not exceeding USD 5,000 (Five thousand)
+may be issued in favor of outgoing Bangladesh nationals against their respective entitlements such
+as private travel quota/business travel quota/travel for treatment abroad/study abroad etc. or any
+other general or special permission per person per trip; the remainder amount of entitlement or the
+entire entitlement may be released in the form of notes/coins of other freely convertible foreign
+currencies. To mention, the entitlements may be utilized also through international cards
+(credit/debit/pre-paid as applicable) as mentioned in FEPD-1 Circular No.40, dated September 30,
+2026.
+
+(b) The limit mentioned in '(a)' shall also be applicable to outgoing Bangladesh/foreign nationals
+for issuing USD notes/coins against balances held in their respective foreign currency accounts
+(Private Foreign Currency Accounts, Resident Foreign Currency Deposit Accounts, Exporters'
+Retention Quota Accounts etc.) or from the balances of Convertible Taka accounts (or against
+equal amount of foreign exchange on a back-to-back basis) per person per trip; the remainder
+amount or the entire amount may be released in the form of notes/coins of other freely convertible
+foreign currencies from the balances of the respective foreign currency accounts in a trip. Other
+relevant regulations regarding issuance of foreign exchange against each entitlement shall have to
+be followed meticulously as stated in different circulars issued by Bangladesh Bank.
+
+
+
+
+                                                15
+ See        Paragraph 4, Part-B and Paragraph 2, Part-F                                                                          Appendix-1
+
+Serial No............................                                                                               Date: .............................
+
+                                                     ENCASHMENT CERTIFICATE
+
+
+                                                (Commercial name of the Money Changer)
+
+(Operating under the Money Changer's License No...................................... dt. .............................
+issued by Bangladesh Bank)
+
+Certified that we have encashed today the following amounts of foreign currency notes and coins from
+
+Mr./Ms. ...................................................................................................... ........................................ an/a
+
+...................................................... national, whose passport no. is ......................................................
+
+and whose date of last arrival in Bangladesh as recorded by immigration authorities in his passport is
+
+..................................................................................... :
+
+
+                                                                                Rate of exchange
+    Name of currency                              Amount                      applied in conversion           Amount paid in Taka
+                                                                                     to Taka
+
+
+
+
+                                                                                                              Authorized Signature and Seal
+
+
+Note : ADs/Booths shall issue encashment certificate to their clients against buying of foreign exchange
+       (Paragraph 4, Part-B and Paragraph 2, Part-F of this circular) using the above-mentioned format in their
+       own letter head pad.
+ See                       Paragraph 8(a), Part-B                                                                                                                                                                          Appendix-2
+
+                                                                                MONTHLY RETURNS OF MONEY CHANGERS
+Name of the Money Changer ..............................................................................................................................................................................................
+Statement of particulars of sales and purchases of foreign exchange for the month of ..............................................................................................................
+Name of foreign currency ...............................................................................................(separate statement is to be submitted for each foreign currency)
+                                                                                             Part -1: Purchase of Foreign Exchange
+                                                                                                                                                                                                          Receipt /Encashment Certificate
+                 Date of                                           Particulars of the Seller                                                  Particulars of Purchase (Amount)
+   Sl.                                                                                                                                                                                                                issued
+                Purchase
+                                                    Name                            Passport No                 Nationality                 Cash                   TC                  Total                    No                  Date
+    1                 2                                3                                    4                          5                       6                     7                    8                      9                     10
+
+
+
+
+                                                                                      Part 2 : Sale of Foreign Exchange to Customers
+                                                                             Particulars of the Buyer                                                                              Particulars of Sales (Amount)
+ Sl No.         Date of Sale
+                                                           Name                                 Passport No.                     Nationality                        Cash                             TC                          Total
+    1                  2                                       3                                        4                               5                                6                            7                            8
+
+                                                                                            Part 3: Sale of Foreign Exchange to ADs
+                                                                                            Name of the AD Bank and Branch                                                                 Amount Sold
+             Sl No                                      Date
+                                                                                                        (Buyer)                                                          Cash                                    From FC Account
+               1                                           2                                                      3                                                          4                                             5
+                                                                                                                                                                                                                               .... contd to page 2
+ See                      Paragraph 8(a), Part-B                                                                                                                                                                     Appendix-2
+                                                                                                                    Page-2
+
+                                                      Part -4: Particulars of Transactions with Authorized Dealer Bank Through FC Account
+In the Foreign Currency Account of .................................................................................................................................. (Name of the Money Changer)
+                                                                 Credit                                                                                        Debit
+                                                                                                                                                                                                                         Closing Balance
+                Opening                                                         Received from                                                                        Transfer to
+  Date                                                                          Foreign Currency             Issue of Cash                 Payment to Blank          Foreign Currency             Encashment to            (2+3+4+5) -
+                Balance         Deposit of Cash         Deposit of TC
+                                                                                Account of other             Foreign Currency              TC Supplier               Account of other             Cash with any AD          (6+7+8+9)
+                                                                                Money Changers                                                                       Money Changers
+    1                2                    3                       4                          5                            6                           7                         8                        9                     10
+
+                                                                      Part -5: Statement of Stock of Cash Foreign Exchange and Blank TC
+                                                                               Opening Balance                                                                                          Closing Balance
+             Date
+                                                     Cash                                                 Blank TC                                                    Cash                                    Blank TC
+               1                                       2                                                        3                                                       4                                            5
+
+Certification of Authorized Dealer Bank: ......................................................................................................................................................
+This is to certify that the information furnished on Part -4 are in order with records/books of accounts maintained in this branch.
+
+
+
+Signature of Authorized Person of the Authorized Dealer                                                                                      Signature of Authorized Person of the Money Changer
+Date : ...................................Seal :                                                                                             Date : ..............................Seal :
+ See                     Paragraph 3(a)(iv), Part-C                                                                                                                                                                       Appendix-3
+
+                      MONTHLY STATEMENT OF FOREIGN EXCHANGE TRANSACTIONS OF LIMITED ADs (BANK BRANCH/BOOTH)
+Name of the Limited Money Changer (Bank Branch/Booth) and Address: ..............................................................................................................
+Name of the AD: ......................................................................Reporting Month: ........................................Year: ........................................
+Currency Name: ..........................................................................................................................................................................
+Part A: Particulars of receiving against buy or deposit to accounts*
+                                                                                                                                                                                        Purpose (Buy or               Encashment certificate
+   Sl No.        Date of receipt                       Name of the client                           Passport no.                     Country                     Amount
+                                                                                                                                                                                        deposit to A/C)                      No.
+
+
+
+Part B: Particulars of sale or reconversion of FC
+                          Date of sale/                                                                                                                                                                                  Purpose (sale or
+   Sl No.                                                            Name of the client                             Passport no.                           Country                           Amount
+                          reconversion                                                                                                                                                                                    reconversion)
+
+
+
+Part C: Particulars of stock of FC
+                                FC Received during the                                                                                                   Transferred to Head
+  Opening stock                                                                 Total            Sale to customer        Reconversion                                                                Closing                   Remarks
+                                       month                                                                                                                 office/AD
+            1                                  2                              3 (1+2)                   4                        5                                    6                           7=(3-4-5-6)
+
+
+
+
+Signature :                                                                                                            Signature :
+Name of the authorized                                                                                                 Name of the authorized
+official of the AD: ......................................................................                             official of the limited money changer (bank branch/booth) :
+Designation: ................................................................................                          .............................................
+Phone No. ....................................................................................                         Designation : ............................................................................
+                                                                                                                       Phone No: ..................................................................................
+* Receipts will also include receiving FC for crediting FC A/C and NRTAs as mentioned in the prevailing instructions of Bangladesh Bank.
+Note : Separate set of statement shall have to be submitted for each currency.
+ See                     Paragraph 3(b)(iv), Part-C                                                                                                                                                                          Appendix-4
+
+                               MONTHLY STATEMENT OF FOREIGN EXCHANGE TRANSACTIONS BY LIMITED MONEY CHANGERS
+                                                  FOR THE MONTH OF ........................, 20…..............
+Name of the Limited Money Changer: ................................................................................................................................................................
+Address: ...................................................................................................................................................................................................
+Name of the Currency:....................................................................................................................................................................................
+Part -1 : Particulars of receiving foreign exchange from foreign nationals
+                                                                                                                                                                                                                     Particulars of encashment
+                                                                   Particulars of foreign nationals                                                  Particulars of foreign exchange received
+                    Date of                                                                                                                                                                                             certificate provided
+  Sl No.
+                    receipt                                                                                                                                             Volume in Eqv.               Exchange
+                                                   Name                               Country                      Passport No.               Volume in FC                                                             No.              Date
+                                                                                                                                                                            BDT                        Rate
+
+
+
+Part 2: Particulars of encashment of foreign exchange with AD
+                                                                                                                                                                                                 Particulars of encashment certificate issued by
+                     Date of                                                                                              Particulars of encashment
+  Sl No.                                      Name and address of AD                                                                                                                                                  AD
+                   encashment
+                                                                                               Volume in FC                   Volume in Eqv. BDT                         Ex. Rate                              No.                Date
+
+
+
+Part 3: Particulars of closing stock of foreign exchange at the end of .....................(month) 20….
+                 Balance at the beginning of               Amount Received during                  Encashment amount with                                                          Closing balance at the end
+  Sl No.                                                                                                                                    Other adjustment (if any)                                                         Remarks
+                         the month                              the month                                AD Bank                                                                         of the month
+
+
+
+
+Signature of the official of Limited Money Changer :                                                                             Signature of the official of AD :
+Name : ......................................................................                                                    Name : ......................................................................
+Designation: ................................................................                                                    Designation: ................................................................
+Phone No.: ..................................................................                                                    Phone No.: ..................................................................
+Note : Separate statement shall have to be submitted for each currency.
+ See        Paragraph 2, Part-F                                                                    Appendix-6
+
+ব াংলাদেশ ব্যাংকের কপি (Copy for Bangladesh Bank)                                            প্রথম কপি (First Copy)
+
+                                বৈদেশিক মুদ্রার ঘ োষণা ফরম                                       এফএমজে ফরম
+                         (FOREIGN EXCHANGE DECLARATION FORM)                                       FMJ FORM
+
+       (১৯৪৭ সালের বৈদেশিক মুদ্রা নিয়ন্ত্রণ আইন এর ৮(১) ধারা অনুযায়ী ব াংলাদেশ ব্যাংক কর্ত ৃক প্রবর্তিত)
+(Prescribed by Bangladesh Bank Under Section 8(1) of the Foreign Exchange Regulation Act, 1947)
+এই ফরমটি ব াংলাদেশে আগমনকারী ব্যক্তি কর্ত ৃক পূরণ করিতে হইবে।
+This form is to be filled in by a person entering Bangladesh.
+
+পূর্ ণনাম                                               জাতীয়তা
+(Full Name):                                            (Nationality)
+পাসপ োর্ট নং                                      ইস্যুর তারিখ                           ইস্যুর স্থান
+(Passport No)                                  (Date of Issue)                       (Place of Issue)
+আগমনের তারিখ ও সময়                                     ফ্লাইট নম্বর
+(Date & time of arrival)                                (Flight No.)
+ব াংলাদেশে ঠিকানা                                        বিদেশে অবস্থানের মেয়াদ
+(Address in Bangladesh)                                 (Duration of stay in abroad)
+পেশা                                                    য োগায োগ নম্বর
+(Profession)                                            (Contact No)
+                                                    ঘ োষণা
+                                               DECLARATION
+সংগে আনীত নগদ বৈদেশিক মুদ্রা এবং হস্তান্তরয োগ্য বাহকের দলিল (ড্রাফট, পে অর্ডার, ট্রাভেলারস চেক
+ইত্যাদি)/Cash and negotiable bearer instruments in foreign currency (drafts, pay orders, traveler's cheques etc)
+brought in:
+
+       বৈদেশিক মুদ্রার বর্ ণনা                      পরিমাণ                               কথায়
+   (Description of Foreign Currency)                (Amount)                           (In words)
+
+
+
+
+আমি নিম্নস্বাক্ষরকারী, এতদ্বারা প্রত্যয়ন করিতেছি যে, উপরে প্রদত্ত তথ্যসমূহ সঠিক।
+(I, the undersigned, hereby solemnly declare that the information given above is correct.)
+
+
+
+শুল্ক কর্ মকর্তার স্বাক্ষর :                                            ঘ োষণাকারীর স্বাক্ষর :
+Signature of Customs Official :                                         Signature of Declarant :
+তারিখ :                                                                 তারিখ :
+ See    Paragraph 2, Part-F                                                              Appendix-6
+                                                Page-2
+                                       Information for Declarant
+                                      (ঘ োষণাকারীর জন্য জ্ঞাতব্য)
+1. An incoming/outgoing passenger may bring in/take out upto Taka 10,000 (Ten thousand) in
+Bangladesh currency at the time of arrival into/departure from Bangladesh.
+১। ব াংলাদেশে আগমন/ব াংলাদেশ হইতে বহির্ গমনকালে ক োন ব্যক্তি ব াংলাদেশী মুদ্রা অনধিক ১০,০০০ (দশ হাজার)
+টাকা আনিতে/লইয়া যাইতে পারিবেন।
+
+2. Any amount of foreign currency may be brought in by an incoming passenger with declaration to
+the customs authorities in Form FMJ. No declaration, however, is necessary for amounts brought in
+upto USD 10,000 (Ten thousand) or equivalent. For a foreigner, the entire amount brought in with
+declaration or upto USD 10,000 (Ten thousand) brought in without declaration may be taken out freely
+at the time of departure. Upto USD 10,000 (Ten thousand) brought in without declaration by a
+Bangladeshi may also be retained and taken out freely while proceeding abroad. Amount in excess of
+USD 10,000 (Ten thousand) brought in by the resident Bangladeshis, should, however, be encashed or
+deposited in appropriate foreign currency account within 30 (thirty) days of arrival. Such amounts
+brought in by non-resident Bangladeshis can be encashed or deposited in foreign currency account any
+time after return to Bangladesh.
+২। শুল্ক কর্ত ৃপক্ষের নিকট এফএমজে ফরমে ঘ োষণা প্রদান করিয়া যে ক োন পরিমাণ বৈদেশিক মুদ্রা ব াংলাদেশে
+আগমনকালে সঙ্গে আনা যাইতে পারে। তবে আনীত বৈদেশিক মুদ্রার পরিমাণ অনধিক ম াঃডঃ ১০,০০০ (দশ হাজার)
+বা সমতু ল্য হইলে শুল্ক কর্ত ৃপক্ষের নিকট ঘ োষণা প্রদান আবশ্যক হইবে না। বিদেশীগণের ক্ষেত্রে ঘ োষণা প্রদান
+করিয়া আনীত সমুদয় বৈদেশিক মুদ্রা এবং ঘ োষণা প্রদান ব্যতিরেকে আনীত অনধিক ম াঃডঃ ১০,০০০ (দশ হাজার)
+ব াংলাদেশ ত্যাগকালে অবাধে প্রত্যাবাসনয োগ্য হইবে। ঘ োষণা প্রদান ব্যতিরেকে আনীত অনধিক ম াঃডঃ ১০,০০০
+(দশ হাজার) ব াংলাদেশী নাগরিকগণের ক্ষেত্রেও সঙ্গে রক্ষণয োগ্য এবং ব াংলাদেশ হইতে বর্হিগমনকালে সঙ্গে
+বহনয োগ্য হইবে; এতদ্ব্যতিরিক্ত যে ক োন অংক নিবাসী ব াংলাদেশীদের ক্ষেত্রে ব াংলাদেশে আগমনের ৩০ (ত্রিশ)
+দিনের মধ্যে টাকায় ভাঙ্গাইতে/প্রয োজ্য ধরণের বৈদেশিক মুদ্রা হিসাবে জমা করিতে হইবে। অনিবাসী ব াংলাদেশী
+কর্ত ৃক আনীত এইরূপ অংক ব াংলাদেশে ফেরত আসিবার পর যে ক োন সময় টাকায় ভাঙ্গাইতে পারিবেন অথবা
+বৈদেশিক মুদ্রা হিসাবে জমা করিতে পারিবেন।
+
+3. Encashment of foreign exchange brought in should be done with licensed Money Changers/
+Authorized Dealer bank branches.
+৩। সঙ্গে আনীত বৈদেশিক মুদ্রা টাকায় নগদায়ন লাইসেন্স প্রাপ্ত মানিচেঞ্জার/অনুম োদিত ডিলার ব্যাংক শাখার
+মাধ্যমে সম্পাদন করিতে হইবে।
+
+4. An incoming/outgoing adult female passenger may bring in/take out any quantity of personal
+jewellery worn on her person or as part of her accompanying personal baggage.
+৪। ব াংলাদেশে আগমন/ব াংলাদেশ হইতে বহির্ গমনকালে ক োন প্রাপ্ত বয়স্কা মহিলা যাত্রী স্বীয় পরিধানে অথবা
+ব্যক্তিগত ব্যাগেজের অংশরূপে যে ক োন পরিমাণ ব্যক্তিগত অলংকারাদি সঙ্গে আনিতে/লইয়া যাইতে পারিবেন।
+ See        Paragraph 2, Part-F                                                                  Appendix-6
+
+কাস্টমস্ এর কপি (Copy for Customs)                                                  দ্বিতীয় কপি (Second Copy)
+
+                                বৈদেশিক মুদ্রার ঘ োষণা ফরম                                     এফএমজে ফরম
+                         (FOREIGN EXCHANGE DECLARATION FORM)                                     FMJ FORM
+
+       (১৯৪৭ সালের বৈদেশিক মুদ্রা নিয়ন্ত্রণ আইন এর ৮(১) ধারা অনুযায়ী ব াংলাদেশ ব্যাংক কর্ত ৃক প্রবর্তিত)
+(Prescribed by Bangladesh Bank Under Section 8(1) of the Foreign Exchange Regulation Act, 1947)
+এই ফরমটি ব াংলাদেশে আগমনকারী ব্যক্তি কর্ত ৃক পূরণ করিতে হইবে।
+This form is to be filled in by a person entering Bangladesh.
+
+পূর্ ণনাম                                               জাতীয়তা
+(Full Name):                                            (Nationality)
+পাসপ োর্ট নং                                      ইস্যুর তারিখ                           ইস্যুর স্থান
+(Passport No)                                  (Date of Issue)                       (Place of Issue)
+আগমনের তারিখ ও সময়                                     ফ্লাইট নম্বর
+(Date & time of arrival)                                (Flight No.)
+ব াংলাদেশে ঠিকানা                                        বিদেশে অবস্থানের মেয়াদ
+(Address in Bangladesh)                                 (Duration of stay in abroad)
+পেশা                                                    য োগায োগ নম্বর
+(Profession)                                            (Contact No)
+                                                    ঘ োষণা
+                                               DECLARATION
+সংগে আনীত নগদ বৈদেশিক মুদ্রা এবং হস্তান্তরয োগ্য বাহকের দলিল (ড্রাফট, পে অর্ডার, ট্রাভেলারস চেক
+ইত্যাদি)/Cash and negotiable bearer instruments in foreign currency (drafts, pay orders, traveler's cheques etc)
+brought in:
+
+       বৈদেশিক মুদ্রার বর্ ণনা                      পরিমাণ                               কথায়
+   (Description of Foreign Currency)                (Amount)                           (In words)
+
+
+
+
+আমি নিম্নস্বাক্ষরকারী, এতদ্বারা প্রত্যয়ন করিতেছি যে, উপরে প্রদত্ত তথ্যসমূহ সঠিক।
+(I, the undersigned, hereby solemnly declare that the information given above is correct.)
+
+
+
+শুল্ক কর্ মকর্তার স্বাক্ষর :                                            ঘ োষণাকারীর স্বাক্ষর :
+Signature of Customs Official :                                         Signature of Declarant :
+তারিখ :                                                                 তারিখ :
+ See    Paragraph 2, Part-F                                                              Appendix-6
+                                                Page-2
+                                       Information for Declarant
+                                      (ঘ োষণাকারীর জন্য জ্ঞাতব্য)
+1. An incoming/outgoing passenger may bring in/take out upto Taka 10,000 (Ten thousand) in
+Bangladesh currency at the time of arrival into/departure from Bangladesh.
+১। ব াংলাদেশে আগমন/ব াংলাদেশ হইতে বহির্ গমনকালে ক োন ব্যক্তি ব াংলাদেশী মুদ্রা অনধিক ১০,০০০ (দশ হাজার)
+টাকা আনিতে/লইয়া যাইতে পারিবেন।
+
+2. Any amount of foreign currency may be brought in by an incoming passenger with declaration to
+the customs authorities in Form FMJ. No declaration, however, is necessary for amounts brought in
+upto USD 10,000 (Ten thousand) or equivalent. For a foreigner, the entire amount brought in with
+declaration or upto USD 10,000 (Ten thousand) brought in without declaration may be taken out freely
+at the time of departure. Upto USD 10,000 (Ten thousand) brought in without declaration by a
+Bangladeshi may also be retained and taken out freely while proceeding abroad. Amount in excess of
+USD 10,000 (Ten thousand) brought in by the resident Bangladeshis, should, however, be encashed or
+deposited in appropriate foreign currency account within 30 (thirty) days of arrival. Such amounts
+brought in by non-resident Bangladeshis can be encashed or deposited in foreign currency account any
+time after return to Bangladesh.
+২। শুল্ক কর্ত ৃপক্ষের নিকট এফএমজে ফরমে ঘ োষণা প্রদান করিয়া যে ক োন পরিমাণ বৈদেশিক মুদ্রা ব াংলাদেশে
+আগমনকালে সঙ্গে আনা যাইতে পারে। তবে আনীত বৈদেশিক মুদ্রার পরিমাণ অনধিক ম াঃডঃ ১০,০০০ (দশ হাজার)
+বা সমতু ল্য হইলে শুল্ক কর্ত ৃপক্ষের নিকট ঘ োষণা প্রদান আবশ্যক হইবে না। বিদেশীগণের ক্ষেত্রে ঘ োষণা প্রদান
+করিয়া আনীত সমুদয় বৈদেশিক মুদ্রা এবং ঘ োষণা প্রদান ব্যতিরেকে আনীত অনধিক ম াঃডঃ ১০,০০০ (দশ হাজার)
+ব াংলাদেশ ত্যাগকালে অবাধে প্রত্যাবাসনয োগ্য হইবে। ঘ োষণা প্রদান ব্যতিরেকে আনীত অনধিক ম াঃডঃ ১০,০০০
+(দশ হাজার) ব াংলাদেশী নাগরিকগণের ক্ষেত্রেও সঙ্গে রক্ষণয োগ্য এবং ব াংলাদেশ হইতে বর্হিগমনকালে সঙ্গে
+বহনয োগ্য হইবে; এতদ্ব্যতিরিক্ত যে ক োন অংক নিবাসী ব াংলাদেশীদের ক্ষেত্রে ব াংলাদেশে আগমনের ৩০ (ত্রিশ)
+দিনের মধ্যে টাকায় ভাঙ্গাইতে/প্রয োজ্য ধরণের বৈদেশিক মুদ্রা হিসাবে জমা করিতে হইবে। অনিবাসী ব াংলাদেশী
+কর্ত ৃক আনীত এইরূপ অংক ব াংলাদেশে ফেরত আসিবার পর যে ক োন সময় টাকায় ভাঙ্গাইতে পারিবেন অথবা
+বৈদেশিক মুদ্রা হিসাবে জমা করিতে পারিবেন।
+
+3. Encashment of foreign exchange brought in should be done with licensed Money Changers/
+Authorized Dealer bank branches.
+৩। সঙ্গে আনীত বৈদেশিক মুদ্রা টাকায় নগদায়ন লাইসেন্স প্রাপ্ত মানিচেঞ্জার/অনুম োদিত ডিলার ব্যাংক শাখার
+মাধ্যমে সম্পাদন করিতে হইবে।
+
+4. An incoming/outgoing adult female passenger may bring in/take out any quantity of personal
+jewellery worn on her person or as part of her accompanying personal baggage.
+৪। ব াংলাদেশে আগমন/ব াংলাদেশ হইতে বহির্ গমনকালে ক োন প্রাপ্ত বয়স্কা মহিলা যাত্রী স্বীয় পরিধানে অথবা
+ব্যক্তিগত ব্যাগেজের অংশরূপে যে ক োন পরিমাণ ব্যক্তিগত অলংকারাদি সঙ্গে আনিতে/লইয়া যাইতে পারিবেন।
+ See        Paragraph 2, Part-F                                                                     Appendix-6
+
+যাত্রীর কপি (Copy for Passenger)                                                      তৃতীয় কপি (Third Copy)
+                                                                                                        এফএমজে
+                                 বৈদেশিক মুদ্রার ঘ োষণা ফরম                                              ফরম
+                          (FOREIGN EXCHANGE DECLARATION FORM)                                      FMJ FORM
+
+       (১৯৪৭ সালের বৈদেশিক মুদ্রা নিয়ন্ত্রণ আইন এর ৮(১) ধারা অনুযায়ী ব াংলাদেশ ব্যাংক কর্ত ৃক প্রবর্তিত)
+(Prescribed by Bangladesh Bank Under Section 8(1) of the Foreign Exchange Regulation Act, 1947)
+এই ফরমটি ব াংলাদেশে আগমনকারী ব্যক্তি কর্ত ৃক পূরণ করিতে হইবে।
+This form is to be filled in by a person entering Bangladesh.
+
+পূর্ ণনাম                                               জাতীয়তা
+(Full Name):                                            (Nationality)
+পাসপ োর্ট নং                                      ইস্যুর তারিখ                           ইস্যুর স্থান
+(Passport No)                                  (Date of Issue)                       (Place of Issue)
+আগমনের তারিখ ও সময়                                     ফ্লাইট নম্বর
+(Date & time of arrival)                                (Flight No.)
+ব াংলাদেশে ঠিকানা                                        বিদেশে অবস্থানের মেয়াদ
+(Address in Bangladesh)                                 (Duration of stay in abroad)
+পেশা                                                    য োগায োগ নম্বর
+(Profession)                                            (Contact No)
+                                                    ঘ োষণা
+                                               DECLARATION
+সংগে আনীত নগদ বৈদেশিক মুদ্রা এবং হস্তান্তরয োগ্য বাহকের দলিল (ড্রাফট, পে অর্ডার, ট্রাভেলারস চেক
+ইত্যাদি)/Cash and negotiable bearer instruments in foreign currency (drafts, pay orders, traveler's cheques etc)
+brought in:
+
+       বৈদেশিক মুদ্রার বর্ ণনা                      পরিমাণ                               কথায়
+   (Description of Foreign Currency)                (Amount)                           (In words)
+
+
+
+
+আমি নিম্নস্বাক্ষরকারী, এতদ্বারা প্রত্যয়ন করিতেছি যে, উপরে প্রদত্ত তথ্যসমূহ সঠিক।
+(I, the undersigned, hereby solemnly declare that the information given above is correct.)
+
+
+
+শুল্ক কর্ মকর্তার স্বাক্ষর :                                            ঘ োষণাকারীর স্বাক্ষর :
+Signature of Customs Official :                                         Signature of Declarant :
+তারিখ :                                                                 তারিখ :
+ See    Paragraph 2, Part-F                                                              Appendix-6
+                                                Page-2
+                                       Information for Declarant
+                                      (ঘ োষণাকারীর জন্য জ্ঞাতব্য)
+1. An incoming/outgoing passenger may bring in/take out upto Taka 10,000 (Ten thousand) in
+Bangladesh currency at the time of arrival into/departure from Bangladesh.
+১। ব াংলাদেশে আগমন/ব াংলাদেশ হইতে বহির্ গমনকালে ক োন ব্যক্তি ব াংলাদেশী মুদ্রা অনধিক ১০,০০০ (দশ হাজার)
+টাকা আনিতে/লইয়া যাইতে পারিবেন।
+
+2. Any amount of foreign currency may be brought in by an incoming passenger with declaration to
+the customs authorities in Form FMJ. No declaration, however, is necessary for amounts brought in
+upto USD 10,000 (Ten thousand) or equivalent. For a foreigner, the entire amount brought in with
+declaration or upto USD 10,000 (Ten thousand) brought in without declaration may be taken out freely
+at the time of departure. Upto USD 10,000 (Ten thousand) brought in without declaration by a
+Bangladeshi may also be retained and taken out freely while proceeding abroad. Amount in excess of
+USD 10,000 (Ten thousand) brought in by the resident Bangladeshis, should, however, be encashed or
+deposited in appropriate foreign currency account within 30 (thirty) days of arrival. Such amounts
+brought in by non-resident Bangladeshis can be encashed or deposited in foreign currency account any
+time after return to Bangladesh.
+২। শুল্ক কর্ত ৃপক্ষের নিকট এফএমজে ফরমে ঘ োষণা প্রদান করিয়া যে ক োন পরিমাণ বৈদেশিক মুদ্রা ব াংলাদেশে
+আগমনকালে সঙ্গে আনা যাইতে পারে। তবে আনীত বৈদেশিক মুদ্রার পরিমাণ অনধিক ম াঃডঃ ১০,০০০ (দশ হাজার)
+বা সমতু ল্য হইলে শুল্ক কর্ত ৃপক্ষের নিকট ঘ োষণা প্রদান আবশ্যক হইবে না। বিদেশীগণের ক্ষেত্রে ঘ োষণা প্রদান
+করিয়া আনীত সমুদয় বৈদেশিক মুদ্রা এবং ঘ োষণা প্রদান ব্যতিরেকে আনীত অনধিক ম াঃডঃ ১০,০০০ (দশ হাজার)
+ব াংলাদেশ ত্যাগকালে অবাধে প্রত্যাবাসনয োগ্য হইবে। ঘ োষণা প্রদান ব্যতিরেকে আনীত অনধিক ম াঃডঃ ১০,০০০
+(দশ হাজার) ব াংলাদেশী নাগরিকগণের ক্ষেত্রেও সঙ্গে রক্ষণয োগ্য এবং ব াংলাদেশ হইতে বর্হিগমনকালে সঙ্গে
+বহনয োগ্য হইবে; এতদ্ব্যতিরিক্ত যে ক োন অংক নিবাসী ব াংলাদেশীদের ক্ষেত্রে ব াংলাদেশে আগমনের ৩০ (ত্রিশ)
+দিনের মধ্যে টাকায় ভাঙ্গাইতে/প্রয োজ্য ধরণের বৈদেশিক মুদ্রা হিসাবে জমা করিতে হইবে। অনিবাসী ব াংলাদেশী
+কর্ত ৃক আনীত এইরূপ অংক ব াংলাদেশে ফেরত আসিবার পর যে ক োন সময় টাকায় ভাঙ্গাইতে পারিবেন অথবা
+বৈদেশিক মুদ্রা হিসাবে জমা করিতে পারিবেন।
+
+3. Encashment of foreign exchange brought in should be done with licensed Money Changers/
+Authorized Dealer bank branches.
+৩। সঙ্গে আনীত বৈদেশিক মুদ্রা টাকায় নগদায়ন লাইসেন্স প্রাপ্ত মানিচেঞ্জার/অনুম োদিত ডিলার ব্যাংক শাখার
+মাধ্যমে সম্পাদন করিতে হইবে।
+
+4. An incoming/outgoing adult female passenger may bring in/take out any quantity of personal
+jewellery worn on her person or as part of her accompanying personal baggage.
+৪। ব াংলাদেশে আগমন/ব াংলাদেশ হইতে বহির্ গমনকালে ক োন প্রাপ্ত বয়স্কা মহিলা যাত্রী স্বীয় পরিধানে অথবা
+ব্যক্তিগত ব্যাগেজের অংশরূপে যে ক োন পরিমাণ ব্যক্তিগত অলংকারাদি সঙ্গে আনিতে/লইয়া যাইতে পারিবেন।
+See      Paragraph 1, Part-A                                                                     Annexure-1
+
+ZvwiLt
+
+cwiPvjK (GdBwcwW-2)
+d‡ib G·‡PÄ cwjwm wWcvU©‡g›U-2
+evsjv‡`k e¨vsK
+cÖavb Kvh©vjq, gwZwSj
+XvKv|
+
+wcÖq g‡nv`q,
+                                     A‡_vivBRW wWjvi (GwW) jvB‡m‡Ýi Av‡e`b
+Avwg/Avgiv Foreign Exchange Regulation Act, 1947Gi 3 avivi AvIZvq ------------------------------------
+---------------- ----------------Kvi‡Y GKwU A‡_vivBRW wWjvi (GwW) jvB‡mÝ cÖvwßi Rb¨ Av‡e`b KiwQ|
+
+GZØviv cÖZ¨qb Kiv hv‡”Q †h, Av‡e`bc‡Î DwjøwLZ Z_¨ Ges mshy³ KvMRcÎvw` h_vh_ Ges mwVK| Avwg/Avgiv A½xKvi
+KiwQ †h, Avgv‡`i AbyK~‡j A‡_vivBRW wWjvi (GwW) jvB‡mÝ cÖ`vb Kiv n‡j Foreign Exchange Regulation Act,
+1947 I Gi AvIZvq RvwiK…Z wewaweavb I cÖ‡hvR¨ Acivci mKj AvBb/wewa †g‡b Pje|
+
+ms‡hvRbxt
+01. GdB mvK©yjvi †jUvi bs 12; ZvwiL: 20 †deªyqvwi, 2025 Abyhvqx ‘Guidelines on Managing Core Risks in
+Banking’ m¤úwK©Z †NvlYvcÎ;
+02. cÖvw_©Z kvLvi AbyK~‡j GwW jvB‡mÝ Gi cÖ‡qvRbxqZv m¤úwK©Z m¤¢ve¨Zv hvPvB cÖwZ‡e`b;
+03. e¨vs‡Ki mKj GwW kvLvi weMZ 05 (cuvP) eQ‡ii Avg`vwb, ißvwb, bbdv‡ÛW G·‡cvRvi Gi wecix‡Z m„ó Forced
+Loan/ Funded `vq I †iwgU¨v‡Ýi eQi I kvLvIqvix Z_¨ (msL¨v I cwigvY);
+04. cwi‡kvwaZ Avg`vwb we‡ji wecix‡Z ‡gqv‡`vËxY© e‡Kqv wej Ae Gw›U«i msL¨v I weRwoZ ˆe‡`wkK gy`ªvi cwigvY (wgwjqb
+gvwK©b Wjv‡i);
+05. cÖvw_©Z kvLvq envjK…Z/envjZe¨ ˆe‡`wkK gy`ªv †jb‡`b Kvh©µ‡g ch©vß `ÿ I AwfÁ Kg©KZ©v‡`i ‡cÖvdvBj;
+06. cÖvw_©Z kvLvi AbyK~‡j G Kvh©vj‡qi e¨vswKs cÖwewa I bxwZ wefv‡Mi AbygwZ cÎ; Ges
+07. weMZ eQ‡ii wbixwÿZ Avw_©K cÖwZ‡e`‡bi mdU Kwc|
+
+(Av‡e`bKvix e¨vs‡Ki wefvMxq cÖavb/e¨e¯’vcbv cwiPvj‡Ki ¯^vÿi I bvg)
+c`ex t---------------------
+‡dvb t---------------------
+‡gvevBj t--------------------
+B‡gBj t--------------------
+        `vßwiK mxj
+See      Paragraph 10, Part-B                                                                       Annexure-2
+
+ZvwiLt
+
+cwiPvjK (GdBwcwW-2)
+d‡ib G·‡PÄ cwjwm wWcvU©‡g›U-2
+evsjv‡`k e¨vsK
+cÖavb Kvh©vjq, gwZwSj
+XvKv|
+
+
+         gva¨gt ------------------ e¨vsK, -------------- kvLv
+
+
+wcÖq g‡nv`q,
+
+                                      e¨emv¯’j/Awdm¯’j cwieZ©‡bi Av‡e`b
+Avwg/Avgiv ------------------------------- wVKvbv---------------------------- weMZ ----------------------------
+ZvwiL n‡Z eZ©gvb wVKvbvq e¨emv cwiPvjbv K‡i AvmwQ| eZ©gv‡b ---------------------------------------------------- -
+---------------Kvi‡Y Avgv‡`i e¨emv¯’j/Awdm¯’j cÖ¯ÍvweZ wVKvbv -----------------------------------------------------
+--------------¯’vbvšÍi Ki‡Z PvB|
+
+AZGe, Avgv‡`i‡K cÖ¯ÍvweZ wVKvbv----------------------------------------------------------------------------------
+‡Z e¨emv¯’j/Awdm¯’j ¯’vbvšÍi Kivi AbygwZ cÖ`v‡bi Rb¨ webxZ Aby‡iva KiwQ|
+
+ms‡hvRbxt
+1| g~j gvwb‡PwÄs jvB‡m‡Ýi d‡UvKwc;
+2| g~j bevqb mb‡`i d‡UvKwc;
+3| Awdm Qvovi †bvwUk; Ges
+4| cÖ¯ÍvweZ Awdm¯’jwU fvovq n‡j fvovPzw³/wbR gvwjKvbv n‡j gvwjKvbv `wjj|
+
+(Av‡e`bKvix cÖwZôv‡bi gvwjK/¯^Ë¡vwaKvix/g¨v‡bwRs cvU©bvi/e¨e¯’vcbv cwiPvj‡Ki ¯^vÿi I bvg)
+c`ex t---------------------
+‡dvb t---------------------
+‡gvevBjt--------------------
+B‡gBj t--------------------
+         `vßwiK mxj
+   See      Paragraph 11, Part-B                                                                     Annexure-3
+
+   ZvwiLt
+
+   cwiPvjK (GdBwcwW-2)
+   d‡ib G·‡PÄ cwjwm wWcvU©‡g›U-2
+   evsjv‡`k e¨vsK
+   cÖavb Kvh©vjq, gwZwSj
+   XvKv|
+
+            gva¨gt ------------------ e¨vsK, -------------- kvLv
+
+   wcÖq g‡nv`q,
+
+                                    gvwjKvbv/‡kqvi‡nvìvi/Askx`vi cwieZ©‡bi Av‡e`b
+
+   Avwg/Avgiv ------------------------------- wVKvbv---------------------------- weMZ ----------------------------
+   ZvwiL n‡Z e¨emv cwiPvjbv K‡i AvmwQ| eZ©gv‡b ---------------------------------------------------- ----------------
+   Kvi‡Y Avgv‡`i gvwjKvbv/‡kqvi‡nvìvi/Askx`vi wb¤œewY©Z QK Abymv‡i cwieZ©b Ki‡Z PvB:-
+
+µ.bs eZ©gvb         †kqvi c`ex               eZ©gvb     µwgK cÖ¯ÍvweZ                cÖ¯ÍvweZ     cÖ¯ÍvweZ †kqv‡ii msL¨v
+     ‡nvìviM‡Yi bvg                          †kqvi      bs   †kqvi‡nvìvi‡`i bvg      c`ex
+                                             msL¨v
+
+
+
+‡gvU                                                    ‡gvU
+
+   AZGe, Avgv‡`i‡K Dc‡i ewY©Z QK Abymv‡i gvwjKvbv/‡kqvi‡nvìvi/Askx`vi cwieZ©‡bi AbygwZ cÖ`v‡bi Rb¨ webxZ
+   Aby‡iva KiwQ|
+
+   ms‡hvRbxt
+   †kqvi UªvÝdv‡ii †¶‡Î cÖ‡qvRbxq `wjjvw`
+
+    K. bZzb hviv †kqvi MÖnY Ki‡eb Zv‡`i cÖ‡qvRbxq WKz‡g›Umt
+   1. RvZxq cwiPqcÎ
+   2. cvm‡cvU© mvB‡Ri 02 Kwc Qwe
+   3. me©‡kl AvqKi mb`
+   4. me©‡kl AvqKi AvBwU-10we, GK‡bv‡jR‡g›U w¯¬c
+   5. wm AvB we wi‡cvU©
+   6. †Kvb miKvix, Avav miKvix, ¯^vqË¡kvwmZ cÖwZôvb n‡Z eiLv¯Z bb Ges †Kvb †dŠR`vix gvgjvq mvRvcÖvß bb
+   GB g‡g© A½xKvibvgv
+   7. weMZ 01(GK) eQ‡ii e¨vsK †÷U†g›U
+L. GKK gvwjKvbv cÖwZôvb n†Z wjwg‡UW †Kv¤cvbx‡Z iƒcvšÍ‡i cÖ‡qvRbxq WKz‡g›Umt
+1. WªvdU †g‡gv‡iÛvg Ad G‡mvwm‡qkb
+2. WªvdU AvwU©‡Kj Ad G‡mvwm‡qkb
+3. eZ©gvb I cÖ¯ÍvweZ †kqvi‡nvìvi†`i ga¨Kvi Pzw³cÎ (Ab~¨b 300UvKvi ÷¨v‡¤c †bvUvwiK…Z)
+4. me©‡kl gvwb‡PÄvi jvB‡mÝ bevqb mb`
+5. K As‡k ewY©Z `wjjvw`
+
+M. wjwg‡UW †Kv¤cvbxi †¶‡Î †kqvi n¯ÍvšÍi Kivi Rb¨ cÖ‡qvRbxq WKz‡g›Umt
+1. Avi‡RGmwmi dg© 12 (Form XII) Gi Lmov
+2. Avi‡RGmwmi wkwWDj 10 (Schedule X) Gi Lmov
+3. Avi‡RGmwmi dg© 117 (Form 117)
+4. WªvdU †g‡gv‡iÛvg Ad G‡mvwm‡qkb
+5. WªvdU AvwU©‡Kj Ad G‡mvwm‡qkb
+6. hviv †kqvi †Q‡o w`‡”Qb Zv‡`i njdbvgv (Ab~¨b 300UvKvi ÷¨v‡¤c †bvUvwiK…Z)
+7. †ev‡W©i †iRy‡jkb
+8. me©‡kl gvwb‡PÄvi jvB‡mÝ bevqb mb`
+9. K As‡k ewY©Z `wjjvw`
+
+N. cvU©bviwkc e¨emvi †¶‡Î
+1. cÖwZ evi bZzb K‡i Askx`vi‡`i ga¨Kvi Pzw³ cÎ (Ab~¨b 4,000 UvKvi ÷¨v‡¤c †bvUvwiK…Z)
+2. me©‡kl gvwb‡PÄvi jvB‡mÝ bevqb mb`
+3. K As‡k ewY©Z `wjjvw`
+
+O. g„Z e¨vw³i †¶‡Î GKK gvwjKvbv/ wjwg‡UW †Kv¤cvbx/ cvU©bviwkc cÖwZôv‡bi †kqvi/gvwjKvbv n¯ÍvšÍi Kivi Rb¨
+cÖ‡qvRbxq WKz‡g›Umt
+1. g„Z e¨vw³i †W_ mvwU©wd‡K‡Ui Kwc
+2. Av`vjZ KZ©…K Bm¨yK…Z mvK‡mkb mvwU©wd‡KU
+3. me©‡kl gvwb‡PÄvi jvB‡mÝ bevqb mb`
+4. K As‡k ewY©Z `wjjvw`
+
+(Av‡e`bKvix cÖwZôv‡bi gvwjK/¯^Ë¡vwaKvix/g¨v‡bwRs cvU©bvi/e¨e¯’vcbv cwiPvj‡Ki ¯^vÿi I bvg)
+c`ex t---------------------
+‡dvb t---------------------
+‡gvevBj t--------------------
+B‡gBj t--------------------
+        `vßwiK mxj
+See      Paragraph 2, Part-C                                                                     Annexure-4
+ZvwiLt
+cwiPvjK (GdBwcwW-2)
+d‡ib G·‡PÄ cwjwm wWcvU©‡g›U-2
+evsjv‡`k e¨vsK
+cÖavb Kvh©vjq, gwZwSj
+XvKv|
+         gva¨gt ------------------ e¨vsK, -------------- kvLv
+wcÖq g‡nv`q,
+                                       mxwgZ gvwb‡PÄvi jvB‡m‡Ýi Av‡e`b
+Avwg/Avgiv GdBwcwW-2 mvKz©jvi bs ---, ZvwiL ------ Gi cvU©-C Gi AvIZvq GKwU mxwgZ gvwb‡PÄvi jvB‡mÝ cÖvwßi Rb¨
+Av‡e`b KiwQ| Av‡e`bKvix cÖwZôvb mswkøó Z_¨vewj wb‡¤œ mwbœ‡ek Kiv n‡jvt
+GZØviv cÖZ¨qb Kiv hv‡”Q †h, Av‡e`bc‡Î DwjøwLZ Z_¨ Ges mshy³ KvMRcÎvw` h_vh_ Ges mwVK| Avwg/Avgiv A½xKvi
+KiwQ †h, Avgv‡`i AbyK~‡j mxwgZ gvwb‡PÄvi jvB‡mÝ cÖ`vb Kiv n‡j Foreign Exchange Regulation Act, 1947 I
+Gi AvIZvq RvwiK…Z wewaweavb I cÖ‡hvR¨ Acivci mKj AvBb/wewa †g‡b Pje|
+ms‡hvRbxt
+(K) Aby‡gvw`Z e¨vsK kvLv/e¨vsK ey‡_i †ÿ‡Ît-
+1| evsjv‡`k e¨vsK, cÖavb Kvh©vj‡qi e¨vswKs †i¸‡jkb GÛ cwjwm wWcvU©‡g›U (weAviwcwW) KZ©„K mswkøó e¨vsK kvLv/ey‡_i
+AbyK~‡j cÖ`vbK…Z Aby‡gv`b/jvB‡m‡Ýi Kwc;
+2| Av‡e`bKvix e¨vs‡Ki kvLvq/ey‡_ ˆe‡`wkK †jb‡`b mswkøó Kv‡R AwfÁ †jvKej, AeKvVv‡gv, wbivcËv e¨e¯’v,
+†hvMv‡hvM/Z_¨cÖhyw³ e¨envi msµvšÍ wel‡q weeiYx (Dchy³ cÖgvYvw`mn); Ges
+3| ‰e‡`wkK gy`ªv wewbgq msµvšÍ †jb‡`‡bi ¯^c‡ÿ hyw³ I cÖ‡hvR¨ cÖgvYvw`|
+(L) Ab¨vb¨ cÖwZôv‡bi †ÿ‡Ît-
+1| Av‡e`bKvix cÖwZôv‡bi bvg I wVKvbv t
+2| e¨emv‡qi aiY/cÖK…wZ Ges jvB‡mÝ MÖn‡Yi Avek¨KZvi wel‡q cÖ‡qvRbxq `wjjvw`mn Z_¨;
+3| nvjbvMv` †UªW jvB‡mÝ Gi Kwc;
+4| U¨v· AvB‡WbwUwd‡Kkb bv¤^vi (wUAvBGb) mb`cÎ, weR‡bm AvB‡WbwUwd‡Kkb bv¤^vi (weAvBGb) mb`cÎ,
+e¨emv cÖwZôv‡bi bv‡g mswkøó Ab¨vb¨ KZ©„c‡ÿi AvIZvq cÖvß mKj ai‡bi jvB‡mÝ/wbeÜb/mb`cÎ BZ¨vw`i
+nvjbvMv` Kwc;
+5| Av‡e`bKvix cÖwZôvb wbewÜZ †Kv¤úvwb n‡j D³ †Kv¤úvwbi wbeÜb mb`, †g‡gv‡iÛvg Ae G‡mvwm‡qkb Ges
+AvwU©‡Kjm Ae G‡mvwm‡qk‡bi Kwc I weMZ eQ‡ii Avw_©K weeiYx;
+6| cÖwZôvb wbR gvwjKvbvaxb ¯’v‡b Aew¯’Z n‡j gvwjKvbv `wjj/fvovK…Z ¯’v‡b Aew¯’Z n‡j mswkøó ¯’v‡bi
+gvwjKc‡ÿi mv‡_ m¤úvw`Z fvovPzw³i Kwc; Ges
+7| e¨emvwqK AwfÁZvi mswÿß weeiYxmn Av‡e`bKvix cÖwZôv‡bi AeKvVv‡gv, wbivcËv e¨e¯’v, †hvMv‡hvM/
+Z_¨cÖhyw³ e¨env‡i mÿgZv msµvšÍ wel‡q weeiYx (Dchy³ cÖgvYvw`mn)|
+(Av‡e`bKvix cÖwZôv‡bi gvwjK/¯^Ë¡vwaKvix/g¨v‡bwRs cvU©bvi/e¨e¯’vcbv cwiPvj‡Ki ¯^vÿi I bvg)
+c`ex t---------------------
+‡dvb t---------------------
+‡gvevBj t--------------------
+B‡gBj t--------------------
+        `vßwiK mxj
+See      Paragraph 3, Part-E                                                                             Annexure-5
+
+                             [cÖvwaKvi‡hvM¨ Avg`vwbKviK wn‡m‡e AbygwZ cÖvwßi Av‡e`bcÎ]
+                                         (cÖwZôv‡bi †jUvi‡nW c¨v‡Wi gva¨‡g)
+
+cÎ bst                                                                                       ZvwiLt
+
+cwiPvjK (GdBwcwW-2)
+d‡ib G·‡PÄ cwjwm wWcvU©‡g›U-2
+evsjv‡`k e¨vsK
+cÖavb Kvh©vjq, gwZwSj
+XvKv|
+                            gva¨g t ------------------ e¨vsK, -------------- kvLv|
+wcÖq g‡nv`q,
+                       Acwi‡kvwaZ ¯^Y© AvKwiK (ore)/ AvswkK cwi‡kvwaZ ¯^Y© (dore) Avg`vwbi
+                            j‡ÿ¨ cÖvwaKvi‡hvM¨ Avg`vwbKviK wn‡m‡e AbygwZ Bmy¨ cÖms‡½|
+Avwg/Avgiv ............................................ ‰e‡`wkK gy`ªv wbqš¿Y AvBb, 1947 Gi 8 avivi AvIZvq Acwi‡kvwaZ ¯^Y©
+AvKwiK (ore)/ AvswkK cwi‡kvwaZ ¯^Y© (dore) Avg`vwbi j‡ÿ¨ cÖvwaKvi‡hvM¨ Avg`vwbKviK wn‡m‡e AbygwZ cÖvwßi Rb¨
+Av‡e`b KiwQ| Av‡e`bKvix cÖwZôvb mswkøó Z_¨vewj wb‡¤œ mwbœ‡ek Kiv n‡jv t
+1| Av‡e`bKvix cÖwZôv‡bi bvg I wVKvbv t
+2| e¨emv‡qi aib (GKK gvwjKvbvaxb/Askx`vwi/wbewÜZ wjwg‡UW ‡Kv¤úvbx) t
+3| evwYR¨ gš¿Yvj‡qi AbygwZc‡Îi b¤^i I ZvwiL t
+4| U¨v· AvB‡WbwUwd‡Kkb bv¤^vi (wUAvBGb) bs t
+5| g~mK wbeÜb bs t
+6| weAvBGb bs t
+7| GdBwcwW-2 mvKz©jvi bs ---, ZvwiL ------ Gi cvU©-E, 3 bs Aby‡”Q‡` D‡jøwLZ Z_¨/WKz‡g›U/‡c-AW©vi wb‡¤œ eY©bv Kiv
+n‡jv t
+         K)
+         L)
+         -------
+         -------
+GZØviv cÖZ¨qb Kiv hv‡”Q †h, Av‡e`bc‡Î D‡jøwLZ Z_¨ Ges mshy³ KvMRcÎvw` h_vh_ Ges mwVK| Avwg/Avgiv A½xKvi
+KiwQ ‡h, Avgv‡`i AbyK~‡j AbygwZ cÖ`vb Kiv n‡j ‰e‡`wkK gy`ªv wbqš¿Y AvBb, 1947 I Gi AvIZvq RvwiK…Z wewaweavb
+Ges cÖ‡hvR¨ Acivci mKj AvBb/wewa ‡g‡b Pje|
+ms‡hvRbxt ms‡hvwRZ `wjjvw`i ZvwjKv †gvZv‡eK|
+                                                                                             Avcbvi wek^¯Í,
+
+                                                                                   (Av‡e`bKvixi ¯^vÿi I bvg)
+                                                                                   c`ex t---------------------
+                                                                                   ‡dvb t---------------------
+                                                                                   ‡gvevBj t--------------------
+                                                                                   B‡gBj t--------------------
+                                                                                           `vßwiK mxj
+

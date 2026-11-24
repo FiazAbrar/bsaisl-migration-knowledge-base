@@ -1,0 +1,165 @@
+
+ Unlocking Jobs and Opportunity for Women in Bangladesh
+false
+Home
+https://www.worldbank.org/ext/en/home
+News
+https://www.worldbank.org/ext/en/news
+Feature Stories
+https://www.worldbank.org/en/news/feature
+Unlocking Jobs and Opportunity for Women in Bangladesh
+https://www.worldbank.org/en/news/feature/2025/12/17/raising-the-bar-for-women-in-bangladesh-s-informal-economy
+col-xs-12
+col-sm-12
+col-md-1
+col-lg-1
+col-xs-12
+col-sm-12
+col-md-10
+col-lg-10
+jcrtitle
+Unlocking Jobs and Opportunity for Women in Bangladesh
+jcrpagetitle
+Unlocking Jobs and Opportunity for Women in Bangladesh
+jcrnavtitle
+Unlocking Jobs and Opportunity for Women in Bangladesh
+jcrdescription
+Across Bangladesh, women in the informal sector—the heartbeat of the country’s economic growth—are experiencing positive changes. They refuse to allow personal adversity or physical disabilities to hinder their pursuit of life aspirations.
+jcrtags
+wbg:country/bangladesh
+wbg:regions/south-asia
+wbg:topic/fiscal-policy_broad/fiscal-policy_jobs-growth
+wbg:topic/gender_broad
+jcrimage
+https://delivery-p136806-e1377785.adobeaemcloud.com/adobe/assets/urn:aaid:aem:bcd7e4d4-a970-415f-87df-a7ba7800ee4a/as/WBG-Logo.jpg
+content-type
+Feature Story
+writer
+000503291
+first-appeared-in
+2025-12-17
+expert-id
+000540200
+country
+Bangladesh
+keyframe-img
+https://delivery-p136806-e1377785.adobeaemcloud.com/adobe/assets/urn:aaid:aem:bcd7e4d4-a970-415f-87df-a7ba7800ee4a/as/WBG-Logo.jpg
+result
+false
+content-date
+December 17, 2025
+col-xs-12
+col-sm-12
+col-md-1
+col-lg-1
+col-xs-12
+col-sm-12
+col-md-12
+col-lg-12
+videoType
+you-tube
+videoUrl
+_hSfh6T6T7M
+title
+Women Entrepreneurs are Growing Businesses and Creating Jobs in Bangladesh
+keyFrameImage
+https://i.ytimg.com/vi/_hSfh6T6T7M/maxresdefault.jpg
+description
+What happens when you #ClearHerPath to entrepreneurship? Entrepreneurship is a path to opportunity for women in #Bangladesh, where 97% of working women are in low-paying informal jobs. Microfinance, business training and other support are giving women entrepreneurs the confidence and skills to scale up their businesses. Sharmin Akhter, who runs a thriving waste fabric business in Malipara village, is powering economic growth, boosting incomes and creating dozens of jobs in her community. Akhter's family is prospering, and her employees are looking forward to a brighter future. ABOUT THE WORLD BANK 🌐 The World Bank is one of the world’s largest sources of funding and knowledge for low-income countries. Its five institutions share a commitment to reducing poverty, increasing shared prosperity, and promoting sustainable development on a livable planet. http://www.worldbank.org
+showTimestampAndTranscript
+no
+duration
+160
+lastUploadedDate
+2025-12-16T22:00:41Z
+sec-spacing
+section-none
+sec-spacing-bottom
+section-huge
+sec-swoosh
+sec-swoosh-type16
+style
+default, transparent-white-components, heading-center, add-style, bg-primary-blue-90-gradient, image-16by9, bg-dynamic-height
+col-xs-12
+col-sm-12
+col-md-3
+col-lg-3
+col-xs-12
+col-sm-12
+col-md-7
+col-lg-7
+font-medium
+bg_blue_05
+Story Highlights
+RAISE has resulted in nearly 45,000 new or improved jobs for women.
+280,000 people- including low-income urban youth and returning migrant workers--have benefited from improved prospects
+Over 200,000 returning migrant workers have recieved counseling, cash transfers, and job referrals.
+col-xs-12
+col-sm-12
+col-md-2
+col-lg-2
+sec-spacing
+section-none
+sec-spacing-bottom
+padding-wb-sections
+style
+default, lp--body-content
+col-xs-12
+col-sm-12
+col-md-3
+col-lg-3
+col-xs-12
+col-sm-12
+col-md-7
+col-lg-7
+lp-body-content
+first-letter
+Across Bangladesh, women in the informal sector—the heartbeat of the country’s economic growth—are experiencing positive changes. They refuse to allow personal adversity or physical disabilities to hinder their pursuit of life aspirations.
+Consider Muna from Mohammadpur, who was diagnosed with severe speech and language impairments at the age of three. Today, after completing a six-month tailoring program and thanks to her determination and remarkable skill in reading clients’ lips for better communication, Muna earns ten thousand takas monthly from her successful tailoring business.
+Sharmin has transformed her childhood hobby of turning waste into value by setting up a business selling ropes made from leftover fabric in her quiet village of Malipara. She received entrepreneurship training through Gram Unnayan Karma (GUK) and eventually sold her cows to fund her business. “Every person deserves to shine,” asserts Sharmin, her eyes gleaming with entrepreneurial spirit.
+Sultana, from the small village of Chanpara, did not let her unsuccessful stint as an overseas domestic worker in Lebanon diminish her ambitions. After acquiring financial literacy and business management skills, she purchased fabric and a sewing machine with a small loan. Today, she earns BDT 7,000 per month from her tailoring business.
+What defines these remarkable women is their fervent desire to break the cycle of poverty and lead a life of dignity. And being offered a chance for change and success through the Recovery and Advancement of Informal Sector Employment (RAISE) program. RAISE is a World Bank-funded initiative that provides a comprehensive suite of services for youth like Munna, low-income entrepreneurs like Sharmin, and returning migrant workers like Sultana, employed in Bangladesh's informal sector. To date, RAISE has benefited over 280,000 individuals across the nation. From small-scale vendors and roadside shops to home-based microenterprises such as those owned by Muna, Sharmin, and Sultana, Bangladesh’s vibrant informal economy accounts for 43 percent of the gross domestic product and generates 85 percent of employment, according to the Labour Force Survey 2022.
+Across South Asia, women face multiple constraints in entering the workforce due to conservative social norms, safety concerns, and caregiving responsibilities. RAISE addresses these barriers through its focused outreach to women and families. “Program staff and implementation partners talk through the program with women and their families, explaining how it would benefit them while also assuring them of their well-being during their participation,” explains Aneeka Rahman, Senior Social Protection Economist and Team Leader of RAISE. These targeted outreach efforts have enabled RAISE to ensure that 41 percent of its apprentices are women.
+Various tailored services are offered to meet the needs of its clients. These are informed by labor market assessments and global best practices in youth skilling and microentrepreneurship. This includes counseling, on-the-job learning through informal apprenticeships, business management, technical and life skills training, microfinance for self-employment and informal microenterprises, and stipends. Further, female apprentices who participate in the program are often paired with other younger women for on-the-job training. Muna, for example, was guided by a skilled dressmaker, Najma Akhter, and after completing her training, she secured her first job at Adabor Tailor, Najma’s own store. Thanks to this transition to a paying job, Muna was able to supplement her father’s income during a time of financial stress for her family.
+“For apprentices in RAISE, it’s often the first time they contribute financially to their households,” explains Dilip Chakravorty, Project Coordinator and General Manager for PKSF, an institution dedicated to alleviating poverty via employment generation. PKSF is also charged with administering part of the RAISE program. “What stands out most with these women is their remarkable transformation during and after the program. It significantly boosts their confidence and social standing.”
+Raising Marketability of Urban Youth and Women
+Bangladesh has made remarkable social and economic progress in recent decades, achieving lower-middle-income status by 2015. However, the pace of poverty reduction has slowed in recent years, particularly in urban areas. What is particularly worrisome is the rise in youth unemployment. Youth in Bangladesh comprise around 28% of the country’s total population and face multiple constraints, including limited market-ready skills, poor networks, and weak cognitive abilities. Self-employment and jobs in microenterprises are crucial sources of employment for them. However, many lack the necessary knowledge, experience, and access to capital for success in business.
+Furthermore, the labor participation rate of female youth is one-quarter that of males, at 29 percent compared to 66 percent for men. Yet, women who are persistent and persevere through challenges—like our protagonists above—are more likely to be self-employed.
+Liza Akhter is yet another female entrepreneur who turned the tide against adversity, with support from RAISE. The COVID-19 pandemic forced Liza to shut down a successful aluminum business she ran with her husband and move from Dhaka to Shariatpur. Female informal microentrepreneurs were particularly hard hit by the COVID-19 pandemic. Determined to succeed, Liza took a 200,000 taka loan from Naira Unnayan Samity, another PKSF partner organization, and enrolled in training on risk management and business continuity, helping her navigate future uncertainties and thrive in her new endeavor.
+Today, Liza not only manages a flourishing business but also employs 10 workers in her factory. “In our society, there are some perceptions of what jobs men can do and what jobs women can do. So, when I started the aluminum business with my husband, people thought I was being crazy. But now, everyone calls us ‘Company’,” she says with a smile, proud at having broken all conventional female stereotypes.
+Not Leaving the Female Migrant Workers Behind
+Bangladesh sends over one million workers abroad each year, but many are forced to return before their contracts are completed, as in the case of Sultana, and require support and multidimensional interventions to transition back to the domestic economy. According to a report by BRAC, more than 470,000 Bangladeshi migrant workers returned over the past six years after enduring various forms of mistreatment and hardship.
+The World Bank has partnered with the Wage Earners Welfare Board (WEWB), part of Bangladesh’s Ministry of Expatriate Welfare and Overseas Employment, to establish 31 Welfare Centers nationwide specifically designed to address their needs. These centers offer various services, including psycho-social counseling and support for accessing employment opportunities to help migrant workers reintegrate into the local community and economy.
+“Returnees engage in a cycle of income-generating activities to regain their economic power,” explains Dr. A. T. M. Mahbub-ul Karim, RAISE Project Director at WEWB. “The Welfare Centers have welcomed returnee migrant workers, especially women, by ensuring their safety and security.”
+For Sultana, having a Center dedicated explicitly to returning migrants like her is a lifeline. “Without the support and financial assistance from the Welfare Center, I would never have had the courage to dream of financial stability,” she explains. “With proper training and strong willpower, anyone can overcome life’s challenges.”
+Sultana’s words testify to how removing obstacles for women and providing them with tools to succeed can significantly transform adversity into opportunity, helping them lead successful lives. Sultana is now determined to ensure that her daughter receives the education she personally never had and achieves success in life. When women succeed, they pay it forward too, boosting local economies, supporting inclusive growth, and contributing to the overall prosperity of the nation. So, let’s #ClearHerPath.
+https://delivery-p136806-e1377785.adobeaemcloud.com/adobe/assets/urn:aaid:aem:e6f81f29-a34a-435f-8724-d0556e97b8f5/as/MA-9095.jpg
+Bangladesh
+Sharmin Akhter has grown her business and created dozens of jobs for the women in her community. Credit KM Asad, World Bank
+col-xs-12
+col-sm-12
+col-md-2
+col-lg-2
+lp-body-content
+first-letter
+sec-spacing
+section-none
+sec-spacing-bottom
+padding-wb-sections
+style
+default
+everything
+https://webapi.worldbank.org/aemsite/everything/search
+true
+{"facets":[],"orderby":"contentDate desc","select":"*","searchFields":"*","search":"*","filter":"contentType eq 'Feature Story'","top":20,"skip":0}
+4
+yes
+no
+yes
+more-on-this-topic
+sec-spacing
+section-none
+sec-spacing-bottom
+section-padding-between
+style
+default, bg-neutrals-15-gradient, remove-border, lp-mini-card-primary

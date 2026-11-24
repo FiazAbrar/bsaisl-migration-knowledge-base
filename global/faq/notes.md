@@ -168,3 +168,5 @@ About 330 cited sentences and list items were checked against the facts' quotes,
 ## Conflicts resolved, 22 Nov 2026 (from the bot's prompt test, carried over from the cross-country doc)
 
 - Debt payback example aligned with the Saudi guide's rate (SR 1 = Tk 33): Tk 8,250, about 55 months (was Tk 8,300 at Tk 33.20, 54 months).
+
+- **PKB migration loan term for re-entry visas (24 Nov 2026):** a July 2025 Prothom Alo guide (OA0110) gave 2 years with a two-month grace period; PKB's own page (F0113) gives up to 3 years including grace for the migration loan. PKB's page stands; OA0110 is no longer cited for the term.

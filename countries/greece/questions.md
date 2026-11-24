@@ -4,53 +4,51 @@ These are the questions the Greece doc can't yet answer, grouped by the doc's se
 
 ## Background
 
-- Has any Bangladeshi received a Greek seasonal work visa under the 2022 MoU, and how many in each year since?
-- Is the MoU's "second part" the 4,000 seasonal work visas a year, and has it started?
-- Did Greece open its embassy in Dhaka after April 2024? If not, where does a Bangladeshi apply for a Greek visa?
-- How many Bangladeshis live in Greece legally today, and how many without papers?
+- How many Bangladeshis have received a Greek seasonal or dependent-employment D visa through the Dhaka centre each year since 2023?
 - How many Bangladeshis did BMET (Bureau of Manpower, Employment and Training) clear for Greece each year from 2022 to 2026?
-- How many Bangladeshis arrived in Greece irregularly in 2025 and 2026?
-- How does a Greek farm employer find a Bangladeshi seasonal worker under the MoU: through BMET, BOESL (Bangladesh Overseas Employment and Services Limited, the government's recruiting company), private agencies, or only by naming a person?
-- What does a Bangladeshi farm worker in Manolada earn a day or a month, with papers and without?
-- What does the seasonal visa cost, and what may an agency charge for it?
-- Is the seasonal work visa tied to one employer, and can a seasonal worker change employer or stay on after the season?
-- Is the five-year regularisation permit tied to an employer, and can it be renewed after five years?
+- How does a Greek farm employer get the name and passport copy of a Bangladeshi worker in Bangladesh: through relatives already in Greece, BOESL (Bangladesh Overseas Employment and Services Limited, the government's recruiting company), or private agencies, and what do they charge?
+- What does a Bangladeshi farm worker in Manolada actually earn a day, with papers and without, and how much goes on housing?
+- What does a broker or agency in Bangladesh charge for arranging a Greek employer's approval?
+- How long may a seasonal worker whose contract ends early stay in Greece to find a new employer, and how is the new contract registered on the permit?
 
 ## Work visa: seasonal worker under the 2022 MoU
 
-- Where does a Bangladeshi apply for the Greek seasonal work visa, and through whom: a Greek embassy (in Dhaka or New Delhi), VFS Global (the company that runs visa application centres for many European embassies) or another visa centre, BMET or a recruiting agency?
-- What papers does it need (a job offer from a named Greek employer, a contract, a skill certificate), what does it cost, and how long does it take?
-- How long is a season, what does the job pay, and who pays the air ticket?
-- Must the worker get BMET clearance, and is Greece one of the countries with a migration cost cap?
+- Can the worker in Bangladesh get a copy or reference number of the employer's approval to check it is real before paying anyone?
+- Must the worker also get BMET clearance and a smart card for Greece, and is a BMET permission letter issued for Greek employers?
+- Does the Embassy apply the MoU's rules to Bangladeshis (passport valid two years after applying, contract of at least one year) or only GVCW's general 1.5-year passport rule?
+- Must a Bangladeshi applicant travel to New Delhi for the interview and the Dente medical, and what does the medical cost?
+- How long does a seasonal work visa take from lodging in Dhaka to passport return?
+- Where and how does a seasonal worker apply for the residence permit after arrival, and what does it cost?
 
 ## Regularisation of Bangladeshis already in Greece
 
-- Is the regularisation still open in 2026, and to whom: only people who were in Greece before a cut-off date?
-- What papers and fees did an applicant need, and what role did the Bangladesh embassy's registration play?
-- What happens when the five-year permit ends?
+- Has any second regularisation round for Bangladeshis opened since 2023?
+- Can a regularised Bangladeshi whose five years end in 2028 move to another Greek permit, or must he leave?
 
 ## Irregular entry: Libya to Crete by boat
 
-- How long are new arrivals held in the Crete camps, and where are they sent next?
+- Where are Bangladeshi arrivals from Crete sent on the mainland in 2026: an open camp or a pre-removal detention centre?
 - Can a Bangladeshi in a camp phone home, and how do families find out who is in which camp?
 - Which ministry takes the formal application for a missing migrant, and what papers must the family bring?
 - Can the family get the death of a man whose body was thrown into the sea recognised in Bangladesh, and does the Wage Earners' Welfare Board (the Bangladesh government board for the welfare of migrant workers and their families) pay anything for a man who left without BMET clearance?
 
 ## Asylum
 
-- Is the suspension of asylum applications from North Africa arrivals still in force, and does it cover Bangladeshis who sailed from Libya?
-- Does Greece treat Bangladesh as a safe country of origin, and what share of Bangladeshi asylum claims does it reject?
+- Was the July 2025 suspension renewed after October 2025, or can a Bangladeshi landing on Crete in 2026 lodge an asylum claim?
+- Does Greece list Bangladesh as a safe country of origin, and what share of Bangladeshi asylum claims did it reject in 2025?
 
 ## Living without papers and deportation
 
-- How does a Bangladeshi without papers in Greece get a travel permit from the embassy to go home, and what does it cost?
-- Does Greece run a voluntary return programme with IOM (the International Organization for Migration) for Bangladeshis?
+- Does IOM (the International Organization for Migration) in Greece run a voluntary return programme with a ticket and reintegration grant for Bangladeshis in 2026?
 
 ## Work and life in Greece
 
-- What are the minimum wage, working hours and housing for farm workers in Manolada, and where does a worker complain if not paid?
+- Where does a farm worker in Manolada complain if not paid: the Labour Inspectorate (SEPE) office in Patras or Pyrgos, or elsewhere, and in which language?
+
+## If a worker dies in Greece
+
+- What does repatriating a body from Greece cost, and does the Wage Earners' Welfare Board pay it for a worker who left with BMET clearance?
 
 ## Contacts
 
-- The Bangladesh Embassy in Athens: address, phone, email and labour wing hours.
-- Which embassy handles Greek visas for Bangladeshis, and its address.
+- Does the Bangladesh Embassy in Athens have a labour welfare wing, and what is its phone number?

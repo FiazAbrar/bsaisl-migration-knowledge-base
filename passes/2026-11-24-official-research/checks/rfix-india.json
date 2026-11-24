@@ -1,0 +1,65 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/india/doc.md",
+  "section": "What the law says",
+  "old_str": "- **In Bangladesh:** no one may leave Bangladesh without a valid passport, and doing so carries up to three months in jail, a fine of up to Tk 500, or both (see Cases at home) [OI0082, OI0083].",
+  "new_str": "- **In Bangladesh:** no one may leave Bangladesh without a valid passport, and doing so carries up to six months in jail, a fine of up to Tk 2,000, or both (see Cases at home) [OI0082, OI0107].",
+  "problem": "Wrong penalty. OI0083 quotes Article 11(3) of the Passport Order 1973 (three months, Tk 500), which applies only where 'no punishment is provided elsewhere'; Article 11(1)(a) of the saved source (bd-passport-order-1973.md) punishes contravening Article 3 (departing without a valid passport) with up to six months or a fine up to Taka two thousand, or both. Log a new fact for Article 11(1)(a) and cite it here; remove or correct OI0083."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/india/doc.md",
+  "section": "Cases at home",
+  "old_str": "- **The offence:** the Bangladesh Passport Order 1973 bars anyone from leaving Bangladesh without a valid passport, and breaking it carries up to three months in jail, a fine of up to Tk 500, or both [OI0082, OI0083].",
+  "new_str": "- **The offence:** the Bangladesh Passport Order 1973 bars anyone from leaving Bangladesh without a valid passport, and breaking it carries up to six months in jail, a fine of up to Tk 2,000, or both [OI0082, OI0107].",
+  "problem": "Same error as in What the law says: Article 11(1)(a) of the Passport Order sets six months / Tk 2,000 for contravening Article 3; OI0083 (Article 11(3), three months / Tk 500) is the residual penalty and does not apply. Needs a new fact for Article 11(1)(a)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/india/doc.md",
+  "section": "Status",
+  "old_str": "exempted Hindu, Sikh, Buddhist, Jain, Parsi and Christian people from Bangladesh who entered by 31 December 2024 from the passport and visa rules (see What the law says) [OI0102, OI0052].",
+  "new_str": "exempted Hindu, Sikh, Buddhist, Jain, Parsi and Christian people from Bangladesh who sought shelter in India for fear of religious persecution and entered by 31 December 2024 from the passport and visa rules (see What the law says) [OI0102, OI0052].",
+  "problem": "Drops the order's condition that the person sought shelter because of religious persecution, so it reads as a blanket exemption for the six communities."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/india/doc.md",
+  "section": "Which visas Bangladeshis can get",
+  "old_str": "- **Business, journalist, research, conference and employment visas** (see Work visas: professionals only) [OI0001].",
+  "new_str": "- **Employment:** for professionals only (see Work visas: professionals only) [OI0001].",
+  "problem": "OI0001 supports only the employment visa; business, journalist, research and conference visas are uncited (they are in the saved HCI table, hci-dhaka-visa-types-table.md, but no fact was logged), and the cross-reference covers only employment visas. Log facts for them and restore, or cut."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/india/doc.md",
+  "section": "The channels",
+  "old_str": "- **Medical, tourist, student, business and family visas:** the visas the High Commission of India in Dhaka lists for Bangladeshis (see Which visas Bangladeshis can get) [OI0003, OI0005, OI0007, OI0008].",
+  "new_str": "- **Medical, tourist, student and family visas:** the visas the High Commission of India in Dhaka lists for Bangladeshis (see Which visas Bangladeshis can get) [OI0003, OI0005, OI0007, OI0008].",
+  "problem": "'business' is not supported by any cited fact (no business-visa fact logged)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/india/doc.md",
+  "section": "Is it open now, and who can go?",
+  "old_str": "Not for work: Bangladeshis can get medical, tourist, student, business and family visas, but India's employment visa is only for professionals, and the people who work in India crossed irregularly (see Which visas Bangladeshis can get) [OI0001, OI0002, XI0120].",
+  "new_str": "Not for work: the High Commission of India lists medical, tourist, student and family visas for Bangladeshis, but India's employment visa is only for professionals, and the people who work in India crossed irregularly (see Which visas Bangladeshis can get) [OI0003, OI0005, OI0007, OI0008, OI0001, OI0002, XI0120].",
+  "problem": "The visa list carries no citation (OI0001/OI0002 cover only the employment visa); 'business' has no fact; 'can get' overstates while the doc's own Need to know says IVAC still advertised limited slots in November 2026."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/india/doc.md",
+  "section": "How to apply",
+  "old_str": "2. **Gather the papers** for every visa type:",
+  "new_str": "2. **Gather the papers** for a tourist visa (other visa types have their own lists):",
+  "problem": "The cited facts (OI0011-OI0016) come from the tourist (T-1) list; the saved HCI document list shows proof of funds and profession differ by visa type (e.g. business visas ask for income tax returns; some lists have no funds item), so 'every visa type' overstates."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/india/doc.md",
+  "section": "Contacts",
+  "old_str": "- The Bangladesh missions in India open 0900 to 1700, and close on Saturday and Sunday [OI0081].",
+  "new_str": "- The Deputy and Assistant High Commissions in Kolkata, Mumbai, Chennai, Agartala and Guwahati open 0900 to 1700, and close on Saturday and Sunday [OI0081].",
+  "problem": "OI0081's source (bdhc-delhi-deputy-missions-tables.md) gives these hours only for the Deputy and Assistant High Commissions, not for the High Commission in New Delhi."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/india/doc.md",
+  "section": "Work visas: professionals only",
+  "old_str": " No visa lets a Bangladeshi labourer, mason or domestic worker take a job in India [OI0001, OI0002].",
+  "new_str": "",
+  "problem": "Writer's own conclusion: OI0001/OI0002 state who the employment visa is for; they say nothing about labourers, masons or domestic workers. The preceding sentences already state the rule."
+ }
+]

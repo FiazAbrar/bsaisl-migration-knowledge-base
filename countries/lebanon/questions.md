@@ -4,30 +4,32 @@ These are the questions the Lebanon doc can't yet answer, grouped by the doc's s
 
 ## Background
 
-- Does BMET (the Bureau of Manpower, Employment and Training, which clears Bangladeshis going abroad for work) clear workers for Lebanon in 2026, and how many did it clear in 2024, 2025 and 2026, men and women separately?
-- Has the Bangladesh government restricted sending new workers, especially women domestic workers, to Lebanon since the 2024 or 2026 wars?
-- Which Lebanese work visa or permit does a Bangladeshi domestic worker or company worker get, and who applies for it?
-- How does a Lebanon domestic-worker job reach a woman in Bangladesh: through licensed agencies with BMET permission letters, through relatives already in Lebanon, or through brokers?
-- Do men go to Lebanon on visas sold with no real job behind them, and who sells them in Lebanon?
-- What does a woman pay to go to Lebanon as a domestic worker in 2026, and what does a man pay?
-- What is the monthly wage of a Bangladeshi domestic worker in Lebanon, and is it paid in US dollars or Lebanese pounds?
-- Can a Bangladeshi worker in Lebanon change employer or leave the country without the kafil's consent?
-- Does the kafil hold workers' passports, and what happens to a worker who leaves the employer's house?
+- Did the Ministry of Expatriates' Welfare stop or restrict sending workers to Lebanon again after the war resumed on 28 February 2026?
+- Of the workers BMET cleared for Lebanon in 2024 and 2025, how many were women?
+- In 2026, does a Lebanon domestic-worker job still come through a Dhaka agency and a village sub-agent, or mostly through relatives already in Lebanon?
+- Do men go to Lebanon on visas sold with no real job behind them, who sells them in Lebanon, and for how much?
+- What does a woman pay to go to Lebanon as a domestic worker in 2026, and what does a man pay for a farm, concierge or company job?
+- What monthly wage does a Bangladeshi domestic worker get in 2026, and is it paid in US dollars or Lebanese pounds?
+- Do Lebanese employers in 2026 still keep Bangladeshi domestic workers' passports, and how does a worker get hers back?
 
 ## Work visa: domestic worker
 
-- What are the steps from Bangladesh: who gets the Lebanese visa, which medical test, which BMET clearance, and is there a training course at a Technical Training Centre for Lebanon?
-- What are the minimum age, the contract length and the rules on rest days, the passport and phone for a domestic worker in Lebanon?
-- Where does a domestic worker complain if she is not paid or is mistreated, and what has worked in practice?
+- Which medical test centre does a Lebanon-bound worker use in Bangladesh, and is there a Technical Training Centre course for Lebanon?
+- What does BMET require to clear a woman for domestic work in Lebanon (minimum age, training certificate)?
+- What are the minimum age, the contract length and the rules on rest days and phone use in the contract a Bangladeshi domestic worker signs in 2026?
+- Does the 1740 hotline still answer in 2026, and in Bangla?
+- What has worked in practice for an unpaid Bangladeshi domestic worker: the embassy, a Ministry of Labour complaint, or a Lebanese NGO?
+- GS's transfer page says sponsorship transfer is not permitted for domestic workers, while the Ministry of Labour describes how a domestic worker's sponsorship is transferred: can a Bangladeshi domestic worker change employer in 2026?
 
 ## Without valid papers
 
-- How does a worker become irregular in Lebanon: an expired residence permit, leaving the employer, or the employer not renewing?
-- How large is the exit-pass fine, who issues the pass, and was the fine waiver of 2024 actually granted?
+- Is the regularisation programme still open in 2026, and is the GS service charge 4.9 or 9 million LBP?
+- What does the Ministry of Labour clearance certificate cost in 2026, and was the 2024 exit-fine waiver the Foreign Adviser sought granted?
+- Does GS accept the embassy's travel permit for a worker who leaves without a passport?
 
 ## Family in Lebanon
 
-- Which Lebanese visa lets a Bangladeshi worker bring a spouse, and can a child born in Lebanon get a Bangladesh passport from the embassy in Beirut?
+- Can a Bangladeshi worker in Category 3 or 4 sponsor a spouse's residence in Lebanon?
 
 ## Leaving during a war: the 2024 evacuation
 
@@ -35,7 +37,7 @@ These are the questions the Lebanon doc can't yet answer, grouped by the doc's s
 
 ## Health care
 
-- Does a domestic worker in Lebanon have health insurance through her employer, and who pays a hospital bill?
+- What does the work-permit insurance cover, and who pays a hospital bill when a domestic worker's insurance has lapsed?
 
 ## Sending money home
 
@@ -43,8 +45,8 @@ These are the questions the Lebanon doc can't yet answer, grouped by the doc's s
 
 ## If a worker dies
 
-- Who pays to fly a body home from Lebanon, and what does the employer, the embassy or the Wage Earners' Welfare Board (the Bangladesh government board that runs welfare services for migrant workers and their families) each cover?
+- Who pays the flight to bring a body home from Lebanon: the employer, the embassy or the Wage Earners' Welfare Board?
 
 ## Contacts
 
-- What are the embassy's address, phone, WhatsApp and emergency numbers, and its hours for workers?
+- What is the embassy's street address in 2026, and does it have a WhatsApp line for workers?

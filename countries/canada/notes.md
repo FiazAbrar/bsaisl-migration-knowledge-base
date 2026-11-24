@@ -51,3 +51,39 @@ First pass: none; all 110 facts were cited. Second pass: see above.
 - The Gujarat and Telangana student stories (Indian students' costs and jobs) in c4fe9969: about India, kept only the Haryana fake-college case as a pattern.
 - RCMP contact with Indian authorities and Henry Lotin's proposal to require full tuition before arrival (c4fe9969): proposals and other-country investigations.
 - Biman cargo share and cabin-crew ratios (69ddd1b9): no bearing on what a traveller does.
+
+## Official research pass, 2026-11-24
+
+**Searched and saved (all via fetch.py, registered in sources.csv, 152 facts logged as OC0001-OC0152):**
+- IRCC (canada.ca): study permit pages (who can apply, documents, PAL/TAL, proof of financial support, how to apply, after you apply), the Bangladesh visa office instructions (IMM 5850 study and IMM 5890 visit, both the Singapore office), DLI list, work on and off campus, PGWP (about, eligibility, field of study, apply), visitor visa (overview, eligibility, apply, after apply), where to give biometrics, fee list, processing-time data (JSON, updated 18 November 2026), asylum (overview, eligibility, 2026 changes, while you wait), news releases on Bill C-12 (March 2026) and the asylum regulations (3 November 2026), the 2027-2029 levels plan backgrounder, employer-specific work permits, changing employer, worker rights, open work permit for vulnerable workers, fraud pages (consequences, student scams, how to report, authorized representatives), IRCC open data on study permits by citizenship.
+- ESDC: reporting abuse of temporary foreign workers. CBSA: 22 October 2026 release on the Bangladeshi TRV fraud scheme (found through the Government of Canada news API, api.io.canada.ca).
+- Global Affairs Canada: High Commission of Canada in Dhaka contacts.
+- Bangladesh High Commission, Ottawa (home, address and contacts, death certificate for repatriation, FAQ) and Consulate General, Toronto (contact page).
+- BMET: OEP country-clearance report for Canada (country_id 32), 2021-2026, all workers and women, and by job category 2023-2026 (`work/oep_pull.py`).
+- VFS Global Bangladesh (Canada): live site blocks automated access (403); used the Wayback capture of 20 February 2026. The VAC addresses and hours sit in the page's embedded script data, so they were extracted to `sources/vfs-can-bgd-home.extract.txt` from the saved HTML.
+
+**Method notes:**
+- canada.ca hangs on fetch.py's browser user agent but answers curl's; pages were saved with fetch.py's own `fetch()` called with the curl user agent (`work/f.py`). bs4 is not installed, so fetch.py made no .txt copy; `work/totxt.py` makes the same kind of plain-text copy from the saved HTML (needed for tables pandoc drops, such as the fee list and the living-cost table).
+- Study permits for Bangladeshis by year (OC0014-OC0017) are sums of IRCC's monthly open-data rows, each rounded to the nearest 5; the sums are approximate and written to `sources/ircc-od-study-permits-citz.bangladesh.txt`. This counts permits that became effective, a different measure from Prothom Alo's 11,948 "students who went" [XC0021].
+- Processing times are IRCC's published figures for Bangladesh on 18 November 2026 (study 4 weeks, visit 30 days, work 30 weeks); they move weekly.
+- "No labour wing" at the Ottawa High Commission is read from its full service-email directory (OC0145), not from a statement.
+
+**Need to know answered and removed:** the 2027 student number (up to 150,000 a year, 2027-2029); whether the June 2026 asylum proposals passed (in force 3 November 2026) and what they change; study permits issued to Bangladeshis; whether BMET clears workers for Canada and how many; study permit, visit visa, work permit and biometrics fees; changing employer on an LMIA permit; how to check a DLI and the CIP list; where biometrics are given, fees and processing time; on-campus work; where and how to apply for a visit visa; whether the mass-cancellation power passed; the 33,000 PR question (replaced by the 2027 measure); the Ottawa and Toronto missions' addresses and phones; where to report trafficking and labour abuse.
+
+**Still open (13, in questions.md):** visit visa and work permit numbers and refusal rates for Bangladeshis (IRCC open data has TRV and work permit tables not yet pulled); agencies behind BMET's Canada clearances (BMET's permission-letter archive on bmet.gov.bd blocks automated reading); broker and agency prices; refusal reasons; use of the Bill C-12 cancellation power; boarding denials; 2027 worker cohort eligibility; Mahin Shahriar's Federal Court outcome; Biman baggage rules; who at the High Commission handles labour complaints.
+
+**Not done in this pass:** web search was unavailable for part of the session, so Biman's baggage page, the Federal Court decision, IRCC open data on TRVs and work permits, and the Saskatchewan court decision were not searched; these stay as "Need to know" or news-cited.
+
+### Resolved conflicts (official pass)
+
+- **PGWP field-of-study list changes "from early 2026" [XC0051]:** IRCC's field-of-study page says the list is frozen for 2026, with nothing added or removed (OC0083). The 119 added / 178 removed change reported by Prothom Alo cannot have been in 2026; the doc now states the 2026 freeze and no longer cites XC0051.
+- **Names of the accused in the CBSA case:** Prothom Alo spelled them Russell Mirza, Mohammad Aminul Islam, Kazi Nafiz Alam and Md Rakibul Hasan; CBSA's release spells them Rashel Mirza, Mohammed Aminul Islam, Kazi Nafeez Alam and Md Rakibul Hassan (OC0137). The official spellings are used; Prothom Alo kept only for where the accused live [XC0093].
+- **Proof of funds:** IRCC's student-fraud page (dated 6 January 2025) still says CAD 20,635; the proof-of-financial-support page (28 August 2026) gives CAD 23,448 for applications from 1 September 2026 (OC0032). The newer page stands; Prothom Alo's CAD 23,448 [XC0155] is confirmed and replaced by the official citation.
+- **Off-campus work hours:** confirmed at 24 hours a week in term, unlimited in breaks (OC0068, OC0069), matching the newer Prothom Alo reports.
+- **Asylum rule dates:** IRCC's 2026 changes page says the rules affect claims "started after June 2, 2025"; the March 2026 release says claims "made on or after June 3, 2025" (same date expressed two ways). The doc uses 3 June 2025.
+
+### Pages we could not download
+
+- https://visa.vfsglobal.com/bgd/en/can (and subpages: service charges, attend-centre): 403 to automated access; the Wayback capture of 20 February 2026 was used instead. A current copy should prove the VAC addresses, hours and charges are unchanged. Suggested name: vfs-can-bgd-home-2026-11.
+- https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-permit-spouse.html and the 2026-2028 supplementary levels notice: 404 at the guessed URLs; not needed once the spouse rule stayed news-cited and the 2027-2029 backgrounder was found.
+- bmet.gov.bd/pages/miscellaneous-infos (permission letters for Canadian employers): not tried in this pass; the site blocks automated reading. Should show which agencies and employers the Canada clearances belong to. Suggested name: bmet-permissions-canada.

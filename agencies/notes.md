@@ -873,3 +873,7 @@ Left unconfirmed, RL blank in `flags-press.csv`, listed under "Unconfirmed name 
 - **BMET smart cards**: did DMP cyber-crime police act on BMET's Feb 2024 letter about Alif Overseas?
 
 - Checker follow-up (23 Nov 2026): the Patgram case (PF0075-PF0077) was moved off RS International RL1428 to "Unconfirmed name matches". The four youths left on 8 May via Bahrain, separately from the 30 whose case led to RL1428's cancellation, and the article places the agency's office in Uttara while the licence address is in Ashulia, so the match rests on the name alone.
+
+## Agency-flag check of the 23 Nov 2026 archive passes
+
+The 1,110 Prothom Alo articles used in the 23 Nov 2026 country and global passes were checked for agency flags with the same rules as the earlier flag pass (`passes/2026-11-23-prothom-alo-agency-flags/`). 162 name a firm; read in full (a few very long live blogs searched by keyword). Result: one new row (Lamisa Enterprise, December 2024 complaint, PF0133). Four other rows were the same events as existing flags (RS International, Jabal-E-Noor, TS Overseas, 5M International). Left out as outside the list's scope: Madras Printers (prints driving-licence cards), Lifeway Bangladesh (jobs not abroad), Sandwip Marine Service (boat safety), Protik Group and Yunus Real Estate (money laundering only), a fake football club used for Pakistani visas.

@@ -1,0 +1,656 @@
+		
+	 
+	
+<!DOCTYPE html> 
+<!--[if lt IE 7]><html lang="en" class="no-js ie6"><![endif]-->
+<!--[if IE 7]><html lang="en" class="no-js ie7"><![endif]-->
+<!--[if IE 8]><html lang="en" class="no-js ie8"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en" class="no-js">
+<!--<![endif]-->
+ 
+  <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title></title>
+    <meta name="keywords" content="">
+    <!-- Tell the browser to be responsive to screen width -->
+    
+
+ <!-- Place favicon.ico in the root directory -->
+		<link rel="shortcut icon" type="image/x-icon" href="https://bdcgny.org/images/favicon.ico">
+		
+		<!-- google fonts -->
+		<link href="https://fonts.googleapis.com/css?family=Bree+Serif|Days+One|Lato|Roboto|Work+Sans" rel="stylesheet">
+      <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon"/>
+		<!-- all css here -->
+          
+    <link href="https://bdcgny.org/css/bootstrap.css" rel="stylesheet">
+    <link href="https://bdcgny.org/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://bdcgny.org/css/owl.carousel.css" rel="stylesheet">
+    <link href="https://bdcgny.org/css/animate.css" rel="stylesheet">
+    <link href="https://bdcgny.org/css/style.css" rel="stylesheet">
+    <link href="https://bdcgny.org/css/responsive.css" rel="stylesheet">
+
+
+    <script src="https://bdcgny.org/js/jQuery.min.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+ 
+         <noscript>
+           <meta http-equiv="refresh" content="0; url=https://bdcgny.org/errorjs" />
+         </noscript>
+            <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+         <link href="https://bdcgny.org/css/toastr.css" rel="stylesheet" type="text/css" />
+         <script src="https://bdcgny.org/js/toastr.js"></script>
+         <script src="https://bdcgny.org/js/jssor.slider-24.0.0.min.js"></script>
+         <style>
+         	#logo{
+				margin-top: 10px;
+				width: auto;
+				height:80px;
+				border: none;
+			}
+			
+			#header{
+				padding: 15px 0px;
+				background:url(images/header_bg.jpg);
+			    background-position: top center;
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+			}
+			#footer1{
+				background-image: url("images/backgroundhd14.jpg");
+				background-repeat: no-repeat;
+				background-position: center center;
+				padding: 50px 0px;
+			}
+			#copyright_area{
+				background-color: white;
+				color: #108710;
+				font-size: 12px;
+				padding: 20px 40px;
+			}
+			#copyright_area a{
+				color: #da0000;
+			}
+			#copyright_area a:hover{
+				color: #d2bd00;
+			}
+			
+			
+			
+			#multi_level{
+				background:rgba(16,135,16,.7);
+			}
+			#multi_level li{
+				border-top: 1px solid #fff;
+			}
+			#multi_level li:first-child{
+				border-top: 3px solid #ffe500;
+			}
+			
+			#multi_level a:hover{
+				background:rgba(218,0,0,.9);
+			}
+			
+			#topbottomline{
+				border-top: 1px solid rgba(255,255,255,.9);
+				border-bottom: 1px solid rgba(255,255,255,.9);
+			}
+			
+			#menuhead{
+				font-family: Verdana, Geneva, sans-serif;
+				/*font-weight: bold;*/
+			}
+			
+			
+			#multi_level_2{
+				width: 200px;
+				background:green;
+				opacity: 0.9;
+			}
+			
+			#multi_level_2 li{
+				border-top: 1px solid #fff;
+			}
+			
+			#multi_level_2 li:first-child{
+				border-top: 3px solid #ffe500;
+			}
+			
+			#multi_level_3{
+				width: 200px;
+				background:green;
+				opacity: 0.9;
+			}
+			
+			#multi_level_3 li{
+				border-top: 1px solid #fff;
+			}
+			
+			#multi_level_3 li:first-child{
+				border-top: 3px solid #ffe500;
+			}
+			
+			#row{
+				float: left;
+				margin-top: -20px;
+			 }
+			 
+			 #row li a {
+				font-size: 16px;
+				
+			 }
+			 
+			 
+          
+			
+			#clock-demo {
+				color:#fff;
+				font-color: fff;
+			}
+
+			.book-now-wrapper {
+                position: fixed;
+                right: 0;
+                top: 29.5%;
+                text-align: center;
+                z-index: 9999;
+            }
+            
+            .book-now-wrapper .toggle {
+    font-size: 14px;
+    color: #ff1100;
+    font-weight: 700;
+    letter-spacing: 2px;
+    width: 200px;
+    opacity: 1;
+    -webkit-transition: all ease 0.35s;
+    -o-transition: all ease 0.35s;
+    transition: all ease 0.35s;
+    -ms-transform: rotate(270deg);
+    -webkit-transform: rotate(270deg);
+    transform: rotate(270deg);
+    padding: 10px 0;
+    text-transform: uppercase;
+    background: #fff;
+    box-shadow: 0 -2px 3px rgba(0,0,0,0.3);
+    text-align: center;
+    border-radius: 5px 5px 0 0;
+    position: absolute;
+    left: -121px;
+    top: 45.5%;
+    cursor: pointer;
+}
+
+
+
+ .sticky {
+                display: block;
+                position: absolute;
+                margin-left: 40%;
+                height: 110px;
+                z-index: 1000;
+            }
+.sticky2 {
+                display: block;
+                position: absolute;
+                margin-left: 52%;
+                height: 110px;
+                z-index: 1000;
+            }
+            
+.sticky3 {
+                display: block;
+                position: absolute;
+                margin-left: 66%;
+                height: 110px;
+                z-index: 1000;
+            }
+            
+         </style>
+  </head>
+
+<body> 
+
+
+
+
+
+
+<script>
+	$(document).ready(function(){
+		$("#myModal").modal('show');
+	});
+</script>
+
+
+
+<div class="container"> 
+<!--
+<img class="sticky2" src="../images/50years-bd.jpeg"> 
+
+ <img class="sticky2" src="../images/mourning.png">
+
+<img class="sticky" src="../images/mujibborsho.png">  
+-->
+
+
+<div class="book-now-wrapper">
+                    <a href="blog?act=details&itemid=108">
+                    <p class="toggle">Emergency <br>Contact</p>
+</div>
+ 
+    	<!-- menu area -->
+         <!--Top Header End-->
+    <div class="mainmenu-area">
+        <nav class="navbarX=">
+            <div  id="header">
+                <div class="navbar-headerX ">
+                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12" align="center">
+						 
+			 <a  href="https://bdcgny.org/"><img src="images/Logo-white.png";?></a>
+					 </div> 
+                      
+                  <div class=" col-lg-7 col-md-7 col-sm-6 col-xs-12">           
+             
+                         <div class="header-right pull-right" > 
+                         <ul> 
+                             <li><a href="https://bdcgny.org/account?act=signup" ><i class="fa fa-lock"></i> Register to get Notification in your inbox</a></li>  
+						 </ul> 
+                        </div>
+                   
+                  </div>
+
+                  <div class="row">
+						<div class="col-lg-4 pull-right"  >
+
+<a href="https://token.sismoo.com/mail"><button class="button-top-right"style="float: right;><i class="fa fa-envelope-o"></i> Create Mail Token</button></a>
+<!--
+<a href="https://token.sismoo.com/appointment"><button class="button-top-right"style="float: right;><i class="fa fa-clock-o"></i> Apply for Appointment</button></a> 
+-->
+						</div>
+					
+                        </div>
+                   
+                </div>
+                </div> 
+                   
+        </nav>
+    </div>
+     <div class="navbar navbar-inverse navbar-fixed-topX mainmenu" role="navigation">
+       <div class="mainmenu-area" id="topbottomline">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+              <nav class="navbar">
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                   <ul class="nav navbar-nav navbar-left" id="row"> 
+
+                    <li><a id="menuhead" href="https://bdcgny.org/">Home</a></li>
+					<li class="dropdown">
+						<a id="menuhead" href="https://bdcgny.org/about-us">About us</a> 
+						<ul class="dropdown-menu" id="multi_level">
+					<!--	 <li><a href="https://bdcgny.org/message-from-the-consul-general-about">Message from the Consul General</a></li>  -->
+							 <li><a href="https://bdcgny.org/profile-of-the-consul-general-about">Profile of the Consul General</a></li>
+							 <li><a href="https://bdcgny.org/hours-of-service-about">Hours of Service</a></li>
+							 <li><a href="https://bdcgny.org/holidays">Holidays</a></li>
+							 <li><a href="https://bdcgny.org/jurisdiction">Jurisdiction</a></li>
+							 <li><a href="https://bdcgny.org/location">Location</a></li>
+							 <li><a href="https://bdcgny.org/list-of-officer-about-us">Lists of Officers</a></li>
+						</ul>
+					</li>
+					<li class="dropdown">
+						<a id="menuhead" href="#">Passport</a>
+				
+						<ul class="dropdown-menu" id="multi_level">
+							 <!--<li><a href="https://bdcgny.org/mrp">MRP</a></li>-->
+							 <li><a href="https://bdcgny.org/e-password">e-Passport</a></li>
+							 	<!--
+							 <li><a href="https://bdcgny.org/applying-passport">Applying Passport</a></li>
+							 <li><a href="https://bdcgny.org/fees-and-processing-time-passport">Fees and Processing Time</a></li>
+							 <li><a href="https://bdcgny.org/re-issue-passport">Re-Issue Passport</a></li>
+						     <li><a href="https://bdcgny.org/status-of-your-passport">Status of Your Passport</a></li>
+							 <li><a href="https://bdcgny.org/surrendering-passport">Surrendering Passport</a></li>   
+							 <li><a href="https://bdcgny.org/mail-in-service-passport">Mail-in Service (MRP/PP)</a></li> -->
+						</ul> 
+					</li>
+					<li class="dropdown">
+						<a id="menuhead" href="https://bdcgny.org/visa">Visa</a>
+						<ul class="dropdown-menu" id="multi_level">
+							 <li><a href="https://bdcgny.org/applying-for-visa">Applying for Visa</a></li> 
+							 <li><a href="https://bdcgny.org/type-and-category">Type and Category</a></li>
+							 <li><a href="https://bdcgny.org/fees-and-processing-time-visa">Visa Processing Time</a></li>
+							 <li><a href="https://bdcgny.org/fees-and-processing-time">Visa Fees</a></li>
+							 <li><a href="https://bdcgny.org/visa-on-arrival">Visa on Arrival</a></li>  
+
+							 <li><a href="https://bdcgny.org/mail-in-service-visa">Mail-in Service (Visa)</a></li>
+					<!--	 <li><a href="https://bdcgny.org/status-of-visa-application">Status of Visa Application</a></li>  -->
+						</ul>
+					</li>
+					<li class="dropdown">
+						<a id="menuhead" href="https://bdcgny.org/attestation">Attestation</a>
+						<ul class="dropdown-menu" id="multi_level">
+							<li><a href="https://bdcgny.org/attestation-of-bangladesh-documents">Attestation of Bangladesh Documents</a></li>
+							<li><a href="https://bdcgny.org/attestation-of-education-certificate">Attestation of Education Certificate</a></li>
+							<!--<li><a href="https://bdcgny.org/attestation-of-power-of-attorney">Attestation of Power of Attorney</a></li> -->
+							<li><a href="https://bdcgny.org/attestation-of-us-documents">Attestation of US Documents</a></li> 
+							<li><a href="https://bdcgny.org/mai-in-service-attestation">Mail-in Service (Attestation)</a></li>
+						</ul>
+					</li>
+
+					<li class="dropdown">
+						<a id="menuhead" href="https://bdcgny.org/nvr">NVR</a>
+						<ul class="dropdown-menu" id="multi_level">
+							<li><a href="https://bdcgny.org/applying-for-nvr">Applying for NVR</a></li> 
+					<!--	<li><a href="https://bdcgny.org/transfer-of-nvr">Transfer of NVR</a></li>  -->
+							<li><a href="https://bdcgny.org/validity-of-nvr">Validity of NVR</a></li> 
+							<li><a href="https://bdcgny.org/fees-and-processing-time-nvr">Fees and Processing Time (NVR)</a></li> 
+							<li><a href="https://bdcgny.org/mail-in-service-nvr">Mail-in Service (NVR)</a></li> 
+						</ul>
+					</li>
+					<li class="dropdown">
+						<a id="menuhead" href="https://bdcgny.org/dual-nationality">DNC</a>
+					<!--	<ul class="dropdown-menu" id="multi_level">
+							<li><a href="https://bdcgny.org/dual-national-certificate">Dual National Certificate</a></li>
+							<li><a href="https://bdcgny.org/application-for-dual-nationality">Applcation for Dual Nationality</a></li>
+							<li><a href="https://bdcgny.org/replacement-of-dnc">Replacement of DNC</a></li>
+							<li><a href="https://bdcgny.org/fees-and-processing-time-dnc">Fees and Processing Time (DNC)</a></li> 
+						<li><a href="https://bdcgny.org/status-of-dual-nationality-application">Status of Dual Nationality Application</a></li>
+							<li><a href="https://bdcgny.org/frequently-asked-questions-dnc">Frequently Asked Questions (DNC)</a></li>
+							
+							
+						</ul> -->
+					</li>
+					
+					<li><a href="https://bdcgny.org/nid">NID</a></li>
+					
+					<li class="dropdown">
+						<a id="menuhead" href="https://bdcgny.org/certification">Birth Registration</a>
+						<ul class="dropdown-menu" id="multi_level">
+							<li><a href="https://bdcgny.org/birth-registration-certificate">Birth Registration Certificate</a></li> 
+						</ul>
+					</li>
+					<li class="dropdown">
+						<a id="menuhead" href="https://bdcgny.org/attestation-of-power-of-attorney">Power of Attorney</a>
+					</li>
+					<li class="dropdown"> 
+					  	<a id="menuhead" href="https://bdcgny.org/letter-of-authorization">Letter of Authorization</a> 
+					</li> 
+					<li class="dropdown">
+						<a id="menuhead" href="https://bdcgny.org/gallery?act=video">July Revolution</a>
+						<ul class="dropdown-menu" id="multi_level">
+				     		<li><a href="https://bdcgny.org/gallery?act=video">Videos on July 2024 Uprising </a></li>
+							<!--<li><a href="https://bdcgny.org/gallery?act=celebration">Mission Activities</a></li>-->
+							
+						</ul>
+					</li>
+					
+					<li class="dropdown">
+						<a id="menuhead" href="https://bdcgny.org/phone-fax">Contacts</a>
+						<ul class="dropdown-menu" id="multi_level">
+			     			<li><a href="https://bdcgny.org/contact-us">Email</a></li>  
+							<li><a href="https://bdcgny.org/phone-fax">Phone/Fax</a></li>
+							<li><a href="https://bdcgny.org/direction">Direction</a></li>
+						</ul>
+					</li> 
+					 <!--<li><a href="https://bdcgny.org/press-release">Press Release</a></li>-->
+					 <li><a href="https://www.facebook.com/gobdcgny" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                    </ul> 
+                </div>      
+        </nav>
+    </div>
+ </div>       
+			
+
+      
+
+         <!--Mainmenu Area End--> 
+     <!--/#title-->      
+      <div class="white-bg">
+        <div class="row">
+        <div class="col-md-9">
+            <div style="background:transparent !important" class="jumbotron">
+        <header class="entry-header" style="box-sizing: border-box; color: rgb(61, 61, 61); font-family: Roboto; font-size: 16px;">
+<h2 bree="" class="entry-title" color:="" data-fontsize="44" data-lineheight="61" font-size:="" letter-spacing:="" line-height:="" style="box-sizing: border-box; margin-top: 0.67em; margin-bottom: 0.67em;"></h2>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:151px;">
+			<p align="center"><span style="font-size:22px;"><strong><span style="color:#FF0000;">Mode</span></strong></span></p>
+			</td>
+			<td colspan="2" style="width:426px;">
+			<p align="center"><span style="font-size:22px;"><strong><span style="color:#FF0000;">Contact</span></strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="width:151px;">
+			<p align="center"><strong><span style="font-size:20px;"><span style="color:#0000FF;">Phone</span></span></strong></p>
+			</td>
+			<td style="width:215px;">
+			<p align="center"><strong><span style="font-size:20px;"><span style="color:#0000FF;">(Monday - Friday, 09:30 am to 5:30 pm, Except Holidays)</span></span></strong></p>
+			</td>
+			<td style="width:211px;">
+			<p align="center"><span style="font-size:20px;"><span style="color:#FF0000;"><strong>844-861-1971</strong></span></span><br />
+			<strong><span style="font-size:20px;"><span style="color:#0000FF;">212-599-6767</span></span></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:215px;">
+			<p align="center"><strong><span style="font-size:20px;"><span style="color:#0000FF;">(</span></span></strong><strong style="color: rgb(61, 61, 61); font-family: Roboto; font-size: 16px; text-align: -webkit-center;"><span style="font-size: 20px;"><span style="color: rgb(0, 0, 255);">Emergency only, a</span></span></strong><strong><span style="font-size:20px;"><span style="color:#0000FF;">fter 5:30 pm during weekdays and also on Weekends & Holidays)</span></span></strong></p>
+			</td>
+			<td style="width:211px;">
+			<p align="center"><strong><span style="font-size:20px;"><span style="color:#0000FF;">646-645-7242</span></span></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px;">
+			<p align="center"><strong><span style="font-size:20px;"><span style="color:#0000FF;">Fax</span></span></strong></p>
+			</td>
+			<td colspan="2" style="width:426px;">
+			<p align="center"><strong><span style="font-size:20px;"><span style="color:#0000FF;">212-682-9211</span></span></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px;">
+			<p align="center"><strong><span style="font-size:20px;"><span style="color:#0000FF;">E-Mail</span></span></strong></p>
+			</td>
+			<td colspan="2" style="width:426px;">
+			<p align="center"><strong><span style="font-size:20px;"><a href="/cdn-cgi/l/email-protection#583b37362c393b2c183a3c3b3f362176372a3f"><span style="color:#0000FF;"><span class="__cf_email__" data-cfemail="1d7e7273697c7e695d7f797e7a736433726f7a">[email&#160;protected]</span></span></a></span></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px;">
+			<div align="center"><strong><span style="font-size:20px;"><span style="color:#0000FF;">Mailing Address</span></span></strong></div>
+			</td>
+			<td colspan="2" style="width:426px;">
+			<div align="center"><strong><span style="font-size:20px;"><span style="color:#0000FF;">Consulate General of Bangladesh in New York</span></span></strong></div>
+
+			<div align="center"><strong><span style="font-size:20px;"><span style="color:#0000FF;">31-10 37th Avenue, Suite 201</span></span></strong></div>
+
+			<div align="center"><strong><span style="font-size:20px;"><span style="color:#0000FF;">Long Island City, New York, NY-11101</span></span></strong></div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</header>
+
+<div class="entry-content" style="box-sizing: border-box; color: rgb(61, 61, 61); font-family: Roboto; font-size: 16px;">
+<p style="box-sizing: border-box; margin: 0px 0px 20px; text-align: center;"></p>
+
+<p style="text-align: center;"></p>
+
+<p style="box-sizing: border-box; margin: 0px 0px 20px;"></p>
+
+<p style="box-sizing: border-box; margin: 0px 0px 20px;"></p>
+</div> 
+            </div>
+        </div>
+        
+        <div class="col-md-3">
+                     
+                <div class="blog-right" id="blog">
+					<div class="well">
+					<div class="input-group">
+						<input type="text" class="form-control" placeholder="Search">
+						<span class="input-group-btn">
+							<button class="btn btn-default" type="button">
+								<span class="glyphicon glyphicon-search"></span>
+						</button>
+						</span>
+					</div>
+				</div>
+<!--						<div class="recent-news">
+				  <h2>Recent News</h2>
+				  <ul>
+				  					<li class="listy">
+					<a href="https://bdcgny.org/blog?act=details&itemid=384"><i class="fa fa-caret-right" aria-hidden="true"></i> একুশে পদক ২০২৭</a>
+					</li>
+				  					<li class="listy">
+					<a href="https://bdcgny.org/blog?act=details&itemid=383"><i class="fa fa-caret-right" aria-hidden="true"></i> Launching a Call Centre in the Consulate General of Bangladesh in New York</a>
+					</li>
+				  					<li class="listy">
+					<a href="https://bdcgny.org/blog?act=details&itemid=381"><i class="fa fa-caret-right" aria-hidden="true"></i> Mandatory Debit or Credit Card Payment for In-Person Consular Services</a>
+					</li>
+				  					<li class="listy">
+					<a href="https://bdcgny.org/blog?act=details&itemid=380"><i class="fa fa-caret-right" aria-hidden="true"></i> Office Schedule During Holy Ramadan-2026</a>
+					</li>
+				  					<li class="listy">
+					<a href="https://bdcgny.org/blog?act=details&itemid=379"><i class="fa fa-caret-right" aria-hidden="true"></i> Press Release, 30 December 2025</a>
+					</li>
+				  				  </ul>
+				</div>  -->
+								<div class="recent-news">
+				 
+				  <h2>Contact us</h2><div style="margin-bottom:20px;"><p>31-10 37th Avenue<br />
+Suite- 201</p>
+
+<p>Long Island City,</p>
+
+<p>NY 11101<br />
+Toll-Free: 844-861-1971<br />
+Phone: (212) 599 6767<br />
+Fax: (212) 682 9211<br />
+Email: <a href="/cdn-cgi/l/email-protection#9efdf1f0eafffdeadefcfafdf9f0e7b0f1ecf9" target="_top"><span class="__cf_email__" data-cfemail="cfaca0a1bbaeacbb8fadabaca8a1b6e1a0bda8">[email&#160;protected]</span></a><br />
+Web: <a href="#">www.bdcgny.org</a></p>
+</div>				</div>
+				                    
+                    </div>
+                     <br /><br />
+        </div>
+                
+        </div>
+        </div>
+ 
+ 
+ <footer class="footer-area">
+ <div id="footer1">
+ </div>
+ </footer>
+ 
+ <footer class="footer-copyright">
+        <div id="copyright_area">
+            <div class="row">
+				Copyright 2022  | All Rights Reserved | Design &amp; Developed by: <a href="https://datahostbd.com" target="_blank">Data Host IT</a>
+            </div>
+        </div>
+    </footer>
+
+    
+ 
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/javascript">
+   jQuery(function($) { 
+  
+	var forml = $('#pop-login');
+	forml.submit(function(event){ 
+ 
+		event.preventDefault();
+		 
+  
+		var form_status = $('<div class="form_status"></div>');
+		forml.prepend( form_status.html('<p><i class="fa fa-spinner fa-spin"></i> Waiting...</p>').fadeIn() );
+		$.ajax({
+			url: $(this).attr('action'),
+			type: 'POST',
+			dataType:"JSON",
+            data: forml.serialize(), 
+			success: function( response ) {   
+			        //  alert(response) 
+					}
+		}).done(function(data){  
+		    if(data.type=='success'){   
+			    window.location= data.url       
+				//eval(data.url
+				toastr["success"](data.message,"Success")
+			}else
+			 toastr["warning"](data.message,"Alert")
+			 form_status.html('<p class="text-success"></p>').delay(100).fadeOut();
+		});
+		
+		
+	});
+	 
+
+  });
+ </script> 
+     
+
+<script type="application/javascript">
+ 
+toastr.options = {
+  "closeButton": false,
+  "debug": false,
+  "newestOnTop": false,
+  "progressBar": false,
+  "rtl": false,
+  "positionClass": "toast-top-center",
+  "preventDuplicates": false,
+  "onclick": null,
+  "showDuration": 300,
+  "hideDuration": 1000,
+  "timeOut": 5000,
+  "extendedTimeOut": 1000,
+  "showEasing": "swing",
+  "hideEasing": "linear",
+  "showMethod": "fadeIn",
+  "hideMethod": "fadeOut"
+}
+
+
+$(document).ready(function() {
+	$('#example').DataTable();
+} );
+</script>
+
+<!-- Modal -->
+
+    <script src="https://bdcgny.org/js/bootstrap.js"></script>
+    <script src="https://bdcgny.org/js/jquery.nicescroll.min.js"></script>
+    <script src="https://bdcgny.org/js/jquery.waypoints.min.js"></script>
+    <script src="https://bdcgny.org/js/jquery.counterup.min.js"></script>
+    <script src="https://bdcgny.org/js/owl.carousel.min.js"></script>
+    <script src="https://bdcgny.org/js/main.js"></script>
+    
+    
+    <!-- Added for data table - Start -->
+    <!--<script src="https://code.jquery.com/jquery-1.12.4.js"></script>-->
+    <script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.15/js/dataTables.bootstrap.min.js"></script>
+    
+    <!--<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">-->
+    <link href="https://cdn.datatables.net/1.10.15/css/dataTables.bootstrap.min.css" rel="stylesheet">
+	<!-- Added for data table - End -->
+
+</div>             
+</body>
+</html>

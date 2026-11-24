@@ -1,0 +1,100 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/money/doc.md",
+  "section": "In one minute",
+  "old_str": "Sending USD 200 from the Gulf, Malaysia or Singapore cost from about 3.4% to 9% of the amount through money transfer firms in mid-2025, and up to about 16% through some banks (see What sending costs) [OM0048, OM0045, OM0022, OM0031].",
+  "new_str": "Sending USD 200 from Saudi Arabia, Qatar, Oman, Kuwait, Malaysia or Singapore cost from about 3.4% to 9% of the amount through money transfer firms in July to September 2025, and up to about 16% through some banks (see What sending costs) [OM0048, OM0045, OM0022, OM0031].",
+  "problem": "'The Gulf' overstates the World Bank coverage: the saved surveys cover Saudi Arabia, Qatar, Oman and Kuwait only, not the UAE or Bahrain (the section's own Need to know asks about the UAE). 'Mid-2025' made exact: the data were collected 8 July to 2 September 2025."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/money/doc.md",
+  "section": "What sending costs",
+  "old_str": "Its latest surveys of sending USD 200 to Bangladesh, made from July to early September 2025, found these total costs [OM0015, OM0024, OM0033, OM0037, OM0041, OM0046]:",
+  "new_str": "Its surveys of sending USD 200 to Bangladesh, made from July to early September 2025, found these total costs [OM0015, OM0024, OM0033, OM0037, OM0041, OM0046]:",
+  "problem": "'Latest' is not supported: the saved corridor pages are Wayback copies from April-May 2026, so nothing shows these were still the latest surveys in November 2026. Figures, amounts and dates otherwise match the saved pages (USD 200 tab)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/money/doc.md",
+  "section": "What sending costs",
+  "old_str": "Maybank 12.21% and CIMB's Cash Laju 15.81% (fee MYR 30, margin 10.89%, about two days) [OM0025, OM0026, OM0027, OM0028, OM0029, OM0030, OM0032, OM0031].",
+  "new_str": "Maybank 12.21% and CIMB's Cash Laju 15.81% (fee MYR 30, margin 10.89%, about two days), both sent from a bank branch [OM0025, OM0026, OM0027, OM0028, OM0029, OM0030, OM0032, OM0031].",
+  "problem": "The cited figures are the branch products only (OM0031, OM0032 quotes: 'Access point Bank branch'). The same survey prices Maybank online at 8.90% and CIMB Cash Laju online at 12.47%, so the unqualified bank names overstate what those banks charge."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/money/doc.md",
+  "section": "What sending costs",
+  "old_str": "Worldwide the average cost was 6.49% in early 2025, and South Asia was the cheapest region to send money to, at 4.80%; the G20 target is 3% [OM0119, OM0118, OM0117]. The 2.5% government incentive is paid to the family in Bangladesh on top (see The government cash incentive) [OM0001].",
+  "new_str": "Worldwide the average cost was 6.49% in early 2025, and South Asia was the cheapest region to send money to, at 4.80%; the G20 (Group of Twenty, the forum of the largest economies) target is 3% [OM0119, OM0118, OM0117]. The 2.5% government incentive is paid to the family in Bangladesh on top (see The government cash incentive) [OM0001, OM0105].",
+  "problem": "G20 not explained at first use. The government incentive was cited only to bKash's undated company page (OM0001, archived 2025); the official 2026-27 budget speech fact (OM0105) supports its continuation and should be cited alongside."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/money/doc.md",
+  "section": "Mobile wallets: bKash",
+  "old_str": "Money sent with a Western Union MTCN or a MoneyGram reference number (the secret number the sender is given) can be taken straight into a bKash account [OM0002].",
+  "new_str": "Money sent with a Western Union MTCN (Money Transfer Control Number) or a MoneyGram reference number (the secret number the sender is given) can be taken straight into a bKash account [OM0002].",
+  "problem": "Acronym MTCN not spelled out at first use."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/money/doc.md",
+  "section": "Mobile wallets: bKash",
+  "old_str": "A migrant can open his own bKash account from abroad, free, if he is 18 or older and has a valid NID, a picture",
+  "new_str": "A migrant can open his own bKash account from abroad, free, if he is 18 or older and has a valid NID (national ID card), a picture",
+  "problem": "First use of 'NID' in the doc (it is only explained later, under The Probashi Card)."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/money/doc.md",
+  "section": "Mobile wallets: bKash",
+  "old_str": "- **At a bank ATM:** Tk 7 per Tk 1,000 for remittance money received since 19 March 2024, at BRAC Bank, City Bank and Q-Cash ATMs [OM0005, OM0007];",
+  "new_str": "- **At a bank ATM:** Tk 7 per Tk 1,000 for remittance money received since 19 March 2024, at BRAC Bank, City Bank and some Q-Cash ATMs [OM0005, OM0007];",
+  "problem": "bKash's page says 'some specific Q-Cash ATM booths' (OM0005), not all Q-Cash ATMs."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/money/doc.md",
+  "section": "Foreign-currency accounts in Bangladeshi banks",
+  "old_str": "A taka account for migrants: since Bangladesh Bank's circular of 8 October 2026, a non-resident Bangladeshi can hold a Non-Resident Convertible Taka Account (NRCTA) [OM0089, OM0090, OM0091, OM0092, OM0093, OM0094, OM0095]:",
+  "new_str": "A taka account for migrants: under Bangladesh Bank's circular of 8 October 2026, a non-resident Bangladeshi can hold a Non-Resident Convertible Taka Account (NRCTA) [OM0089, OM0090, OM0091, OM0092, OM0093, OM0094, OM0095]:",
+  "problem": "'Since' is wrong: the 8 October 2026 circular (FEPD-1 No. 41) modifies FEPD-1 Circular No. 14 of 23 June 2026 on NRCTAs ('to modify the said circular'), so the account existed before; the circular broadened it."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/money/doc.md",
+  "section": "Paying for a language course abroad",
+  "old_str": "The bank sends the amount in the institution's estimate, paid to the institution itself, for no more than one academic year at a time, and all payments for the course must go through the same branch [OM0097, OM0100, OM0098, OM0099].",
+  "new_str": "The bank sends the amount in the institution's estimate, with whatever is owed to the institution paid to the institution itself, for no more than one academic year at a time, and all payments for the course must go through the same branch [OM0097, OM0100, OM0098, OM0099].",
+  "problem": "Overstates OM0100: the circular says foreign exchange 'payable to the educational institution' goes in its favour; board, lodging and incidental costs not payable to the institution may be issued to the student on an international card (circular 40, para (b)(iv))."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/money/doc.md",
+  "section": "The government cash incentive",
+  "old_str": "In the 2026-27 budget speech of 11 June 2026 the finance minister, Amir Khasru Mahmud Chowdhury, said the 2.5% cash incentive would continue, to encourage sending through legal channels [OM0105];",
+  "new_str": "In the 2026-27 budget speech of 11 June 2026 the finance minister, Amir Khasru Mahmud Chowdhury, said the 2.5% cash incentive would continue, to encourage sending through legal channels [OM0105, GM0307];",
+  "problem": "Rewrite dropped GM0307, which (with GM0305) carried the minister's name; OM0105's quote does not name him. Restore the news citation so the name stays supported."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/money/doc.md",
+  "section": "Wage Earners' Development Bond",
+  "old_str": "Profit is paid every six months (Tk 6,000 each half-year on Tk 1 lakh at 12%), and both the money invested and the profit are free of income tax [OM0057, GM0241, OM0113].",
+  "new_str": "Profit is paid every six months (Tk 6,000 each half-year on Tk 1 lakh at 12%), and both the money invested and the profit are free of income tax [OM0057, GM0224, OM0113].",
+  "problem": "Wrong citation: the Tk 6,000 per half-year example is in GM0224; GM0241 is about the switch from compound to simple interest and the government changing the rate."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/faq/doc.md",
+  "section": "Is there a list of good agencies?",
+  "old_str": "Its later status (not yet introduced on 5 September 2026; piloted in four to five countries by 13 October 2026) is in \"The Probashi Card\" in the Sending money home doc.",
+  "new_str": "Its later status (not yet introduced on 5 September 2026; being piloted in four to five countries, the state minister for expatriates' welfare said on 13 October 2026) is in \"The Probashi Card\" in the Sending money home doc; on 12 November 2026 the ministry said the card had not been formally launched and no application process had started (see \"The Probashi card\" in the Services for migrants and their families doc).",
+  "problem": "Disagrees with the money and services docs: the money doc attributes the piloting to the state minister's 13 October statement, and the services doc records the ministry's official 12 November 2026 press release (OV0105) that the card had not been formally launched and no application had started; the FAQ states piloting as fact and omits the newer official status. Fix is on the FAQ side, pointing to both docs."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/faq/doc.md",
+  "section": "Is there a list of good agencies?",
+  "old_str": "> - Has the Probashi card pilot started, who can get the card, where, and what does it give the holder [CQ0174]?",
+  "new_str": "> - When will the Probashi card be formally launched, and who will be able to apply for it, where and with which papers [CQ0174]?",
+  "problem": "Partly answered elsewhere: the announced benefits are listed in the money doc (The Probashi Card) and the pilot/launch status in the money and services docs; narrow the question to what is still open."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/global/faq/doc.md",
+  "section": "How do I send money home safely?",
+  "old_str": "Sending more at once costs less: in April to June 2026 the average cost was 2.94% for up to USD 200 and 0.50% above USD 500 [F0138].",
+  "new_str": "Sending more at once costs less: Bangladesh Bank put the average cost across all countries in April to June 2026 at 2.94% for up to USD 200 and 0.50% above USD 500 [F0138]; the World Bank's prices for sending USD 200 from each main country in 2025 are under \"What sending costs\" in the Sending money home doc.",
+  "problem": "Unattributed average sits beside the money doc's World Bank figures for the same USD 200 (3.37% to 15.91% by corridor and firm in July-September 2025); without saying whose measure it is and pointing to the corridor figures, the two docs read as contradicting each other."
+ }
+]

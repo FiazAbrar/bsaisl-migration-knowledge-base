@@ -2,14 +2,8 @@
 
 These are the questions the Other destinations doc can't yet answer, grouped by the doc's sections. Each is a "Need to know" in `doc.md`.
 
-## Australia
-
-- What is the student work limit now on the Department of Home Affairs site (hours per fortnight), and does it apply to Bangladeshi students from 2026?
-- What bank balance and IELTS score does a Bangladeshi student visa applicant need in 2026?
-
 ## Ireland
 
-- What are the 2026 Irish study visa fees in taka or rupees, and does a Bangladeshi still apply through New Delhi or now through a centre in Dhaka?
 - Does the Irish Medical Council now list any Bangladeshi medical degree as recognised?
 
 ## Iraq
@@ -20,49 +14,51 @@ These are the questions the Other destinations doc can't yet answer, grouped by 
 
 ## Spain
 
-- How many Bangladeshis applied under Spain's 2026 regularisation, and how many were approved?
-- What papers does Spain accept as proof of five months' residence (address registration, others)?
+- How many Bangladeshis applied under Spain's 2026 regularisation, and how many have been approved?
 
 ## Germany
 
-- What is the blocked-account amount for the Opportunity Card in 2026, and how many Bangladeshis have received the card?
+- How many Bangladeshis have received the Opportunity Card?
 
 ## Austria
 
 - Was the Austria-Bangladesh migration and mobility MoU signed, and does it open any work route?
+- What monthly amount must a student under 24 show for an Austrian residence permit in 2026?
 
 ## Taiwan
 
-- Who may act as guarantor for a Bangladeshi applicant if the student has no relative in Taiwan: can the university do it?
-
-## New Zealand
-
-- Has the Bangladesh high commission in Wellington opened, and at what address?
+- Can a Taiwanese university's international office sign the visa guarantee letter for a Bangladeshi student who has no relative in Taiwan?
 
 ## Bahrain
 
-- Since when have Bahrain's visas been closed to Bangladeshis, and which categories (if any) have reopened in 2026?
+- Has Bahrain's LMRA (Labour Market Regulatory Authority) issued any new work permits to Bangladeshis since the November 2025 talks?
 
 ## Cyprus
 
-- Which Bangladesh mission covers Cyprus, and how does a family there reach it?
+- Which Bangladesh embassy is accredited to Cyprus, and does the Bangladesh honorary consulate in Larnaca that directories list still help families?
+- Does the Cyprus High Commission in New Delhi take Bangladeshi students' entry-permit papers, or does the Cypriot college file everything with the Civil Registry and Migration Department in Nicosia?
 
 ## Portugal
 
-- Is the new immigration law in force, and what does it now require for family reunification?
+- Does AIMA apply Law 61/2025's 2-year wait to the spouse of an ordinary work-permit holder, and how long is the wait for an AIMA reunification appointment in 2026?
+- Does a Bangladeshi relative need an Indian visa to hand in the D6 application at VFS in India, or can VFS Dhaka take it?
 
 ## South Africa
 
-- Is there any legal work visa route from Bangladesh to South Africa, and does BMET clear workers for it?
-
-## Thailand
-
-- What is the Thai e-visa fee for Bangladeshis in 2026?
+- Where do Bangladeshis lodge a South African work visa (a South African mission in Dhaka or New Delhi, or VFS), and does BMET give clearance for South Africa?
 
 ## Mauritius
 
-- Has the Mauritius MoU been signed, and which agencies may recruit?
+- Has the Bangladesh-Mauritius recruitment MoU been signed since the June 2026 agreement in principle, and which agencies may recruit under it?
 
 ## Bulgaria
 
 - Has the VFS centre for Bulgaria opened in Dhaka, and does BMET clear workers for Bulgaria?
+
+## Fiji
+
+- Who pays Fiji's FJD 650.05 application and FJD 185 issue fees for BOESL workers, the employer or the worker, and do they overlap with BOESL's Tk 15,000 "work permit legalisation" charge?
+
+## Romania
+
+- Where do Bangladeshis now lodge Romanian work visas (only New Delhi, or also Kuala Lumpur, Hanoi or Bangkok), and how long is the wait for an appointment?

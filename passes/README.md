@@ -21,3 +21,5 @@ Inputs too large for git (the Prothom Alo article dumps, 319 MB raw and 23 MB fi
 | GM, GV, GO | global/money, services, other-destinations (new docs) | 2026-11-23-prothom-alo-global |
 | PU, PI, PJ, PQ, PO, PK, PS, PD, PR, PB, PY, PM, PC, SQ; MP0772 on | countries (existing docs) | 2026-11-23-prothom-alo-countries |
 | XU, XC, XK, XI, XL, XG | countries/united-states, canada, united-kingdom, india, lebanon, greece (new docs) | 2026-11-23-prothom-alo-countries |
+| OU, OC, OK, OI, OL, OG | countries/united-states, canada, united-kingdom, india, lebanon, greece | 2026-11-24-official-research |
+| OM, OV, OD | global/money, services, other-destinations | 2026-11-24-official-research |

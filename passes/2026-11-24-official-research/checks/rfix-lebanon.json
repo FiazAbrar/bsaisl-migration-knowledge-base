@@ -1,0 +1,93 @@
+[
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/lebanon/doc.md",
+  "section": "Lebanon: migration guide",
+  "old_str": "the Bangladesh Embassy in Beirut, BMET and the Wage Earners' Welfare Board.",
+  "new_str": "the Bangladesh Embassy in Beirut, BMET (the Bureau of Manpower, Employment and Training, which clears Bangladeshis going abroad for work) and the Wage Earners' Welfare Board.",
+  "problem": "BMET is used here, in In one minute and in Status before it is explained in The size of the flow; acronyms must be explained at first use."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/lebanon/doc.md",
+  "section": "Lebanon: migration guide",
+  "old_str": "General Security (GS) is the Lebanese agency that issues visas and residence permits to foreigners and runs the borders; the Ministry of Labour (MoL) issues work permits [OL0007].",
+  "new_str": "General Security (GS) is the Lebanese agency that issues visas and residence permits to foreigners and runs the border posts; the Ministry of Labour (MoL) issues work permits [OL0007, OL0025].",
+  "problem": "OL0007 covers visas, residence and work permits only; nothing cited supports GS running the borders. OL0025 (GS lets violators leave through its border departments and centres) does."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/lebanon/doc.md",
+  "section": "In one minute",
+  "old_str": "Women can hold papers only as domestic workers in Lebanese homes; men work on farms, as building concierges (natur) or for companies [OL0043, OL0040].",
+  "new_str": "Under the 2024 regularisation programme women could, for the time being, be regularised only as domestic workers; the other jobs it names are farm worker, building concierge (natur) and company worker [OL0043, OL0040].",
+  "problem": "OL0043 is a rule of the January 2024 regularisation programme ('for the time being'), not a general rule that women can hold papers only as domestic workers; OL0040 lists job categories for regularisation and says nothing about men."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/lebanon/doc.md",
+  "section": "In one minute",
+  "old_str": "and under kafala the worker's legal stay depends on that employer: changing jobs needs the employer's signed waiver, and a worker who leaves the house can be reported to General Security (see What ties you to the employer) [OL0083, OL0016, OL0020].",
+  "new_str": "and under kafala the worker's legal stay depends on that employer: changing jobs needs the employer's signed waiver, and a worker who leaves the house can be reported to General Security (see What ties you to the employer) [OL0083, OL0089, OL0015, OL0016, OL0020].",
+  "problem": "Kafala tying legal stay to the employer and the old sponsor's waiver are not in the cited facts (OL0083 is about agency fees, OL0016 about the worker's own signature); OL0089 and OL0015 support them."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/lebanon/doc.md",
+  "section": "How a job reaches you, and who takes a cut",
+  "old_str": "Lebanon and Bangladesh have no bilateral labour agreement, so recruitment falls only under each country's own rules [OL0082].",
+  "new_str": "By 2015 Lebanon and Bangladesh had signed no bilateral labour agreement, leaving recruitment between them subject only to each country's own rules and the Standard Unified Contract for domestic workers [OL0082].",
+  "problem": "A 2015 ILO finding stated as a present fact; the source also names the Standard Unified Contract alongside national rules, which the sentence dropped."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/lebanon/doc.md",
+  "section": "What you pay, and what you earn and keep",
+  "old_str": "General Security lists the only fees that may be paid to bring a domestic worker, all of them the employer's costs: the Ministry",
+  "new_str": "General Security lists the only fees that may be paid to bring a domestic worker: the Ministry",
+  "problem": "The GS fees page advises 'citizens, intermediary employment bureaus and domestic workers' not to pay other fees; it does not say who bears them, so 'all of them the employer's costs' is unsupported."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/lebanon/doc.md",
+  "section": "Work visa: domestic worker",
+  "old_str": "More than half of the Bangladeshi workers in Lebanon are women, by RMMRU's count, and women can hold only domestic-worker papers [XL0058, OL0043]. The employer applies for every permit, and GS lists the fees as the employer's [OL0007, OL0003].",
+  "new_str": "More than half of the Bangladeshi workers in Lebanon are women, by RMMRU's count, and under the 2024 regularisation programme women could, for the time being, be regularised only as domestic workers [XL0058, OL0043]. The employer applies for every permit [OL0007].",
+  "problem": "OL0043 is limited to the 2024 regularisation programme, not a general rule; the GS fee page (OL0003) does not say the fees are the employer's."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/lebanon/doc.md",
+  "section": "What ties you to the employer",
+  "old_str": "and fees for the time she is away still fall due when she is found (see Being reported for leaving the workplace) [OL0020, OL0022].",
+  "new_str": "and the earlier rules on paying, or being exempted from, fees for the time she is away still apply when she is found (see Being reported for leaving the workplace) [OL0020, OL0022].",
+  "problem": "GS says the previous provisions 'concerning the payment or exemption of fees' continue to apply; it does not say the fees fall due."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/lebanon/doc.md",
+  "section": "Being reported for leaving the workplace",
+  "old_str": "3. Fees for the time away from the job still apply when you are found, arrested or transferred [OL0022].",
+  "new_str": "3. The earlier rules on paying, or being exempted from, fees for the time away from the job still apply when you are found, arrested or transferred to a new sponsor [OL0022].",
+  "problem": "Same overstatement: the source keeps the earlier rules on payment or exemption of fees, not a rule that the fees are charged."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/lebanon/doc.md",
+  "section": "Changing employer",
+  "old_str": "2. Notarised papers go to GS within 15 days, and the application goes to the GS office covering the new sponsor's home at least 15 days before your residence permit expires [OL0017]. Instructions in force until further notice accept transfers after the 15 days and whatever the number of earlier waivers [OL0019].",
+  "new_str": "2. The application goes to the GS office covering the new sponsor's home at least 15 days before your residence permit expires [OL0017]. Instructions in force until further notice accept transfers whatever the number of earlier waivers, even more than 15 days after the waiver and undertaking were made [OL0019].",
+  "problem": "No cited fact sets a rule that notarised papers go to GS 'within 15 days'; OL0019 only mentions a 15-day period from the date of the waiver and undertaking, which the instructions now waive."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/lebanon/doc.md",
+  "section": "Leaving Lebanon with expired papers",
+  "old_str": "4. In June 2025 GS let foreigners leave free for a time: from 13 June 2025 anyone with expired papers could settle free at the airport with a ticket [OL0081].",
+  "new_str": "4. From 13 June 2025, GS said, foreigners whose visas or residence permits had expired could settle their status free at the airport if they showed an airline ticket and left at once [OL0081].",
+  "problem": "'for a time' is unsupported: the L'Orient Today report gives no end date. 'anyone with expired papers' also drops the condition of leaving immediately."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/lebanon/doc.md",
+  "section": "What the family gets",
+  "old_str": "bring the heirship certificate from the union parishad chairman, mayor or councillor, and a photo and NID or passport copy of the family's nominee [OL0072, OL0073].",
+  "new_str": "bring the heirship certificate from the union parishad chairman, mayor or councillor, and a photo and national ID card (NID) or passport copy of the family's nominee [OL0072, OL0073].",
+  "problem": "NID is not explained at first use."
+ },
+ {
+  "doc": "/Users/rarba/Programming/brac/bits-migration/kb-research/countries/lebanon/doc.md",
+  "section": "What the family gets",
+  "old_str": "the embassy's NOC or death certificate and a bank certificate [OL0070].",
+  "new_str": "the embassy's NOC (no-objection certificate) or death certificate and a bank certificate [OL0070].",
+  "problem": "NOC is not explained at first use."
+ }
+]

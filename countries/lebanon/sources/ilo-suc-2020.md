@@ -1,0 +1,41 @@
+Lebanon takes crucial first step towards dismantling Kafala in Lebanon
+
+The new Revised Standard Unified Contract for the Employment of Domestic Workers is a crucial first step in dismantling the kafala system in Lebanon
+
+10 September 2020
+
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://www.ilo.org/resource/news/lebanon-takes-crucial-first-step-towards-dismantling-kafala-lebanon "Facebook")
+- [X](https://x.com/intent/tweet?url=https://www.ilo.org/resource/news/lebanon-takes-crucial-first-step-towards-dismantling-kafala-lebanon "X")
+- [Linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https://www.ilo.org/resource/news/lebanon-takes-crucial-first-step-towards-dismantling-kafala-lebanon "Linkedin")
+
+Content also available in: [العربية](/ar/resource/news/%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%8A%D8%AA%D8%AE%D8%B0-%D8%A3%D9%88%D9%84-%D8%AE%D8%B7%D9%88%D8%A9-%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9-%D9%86%D8%AD%D9%88-%D8%A5%D9%84%D8%BA%D8%A7%D8%A1-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%83%D9%81%D8%A7%D9%84%D8%A9)
+
+**BEIRUT – (ILO News)** Lebanon has launched a new contract for the employment of domestic workers in the country, marking an important step in dismantling its “kafala” work sponsorship system that governs migration in Lebanon and elsewhere across the region.\
+\
+Caretaker Minister of Labour Lamia Yammine issued the revised Standard Unified Contract on 8 September.\
+\
+The contract, based on a reform action plan and a draft contract developed by the ILO and key national stakeholders, addresses many of the key elements of the kafala system that can lead to forced labour. The contract stipulates clearly that domestic workers can leave the household during their weekly day off and annual leave, and that they are not required to pay recruitment fees or related costs. It also prohibits employers from withholding wages and confiscating passports and other personal documents.\
+\
+“The contract is a crucial first step in dismantling the kafala system in Lebanon, which has been the subject of criticism by international human rights and labour bodies, trade unions, civil society and the media,” said ILO Acting Regional Director for Arab States Frank Hagemann.\
+\
+“The move will lead to better protection of migrant workers’ rights,” Hagemann said.\
+\
+At least 250,000 migrant domestic workers are estimated to be working in Lebanon. The kafala system comprises a suite of laws, policies, practices, and customs that characterize the governance and accommodation of the migrant workforce. It creates a heavily unbalanced employer-migrant worker relationship that impedes migrant workers’ freedom of movement and their right to terminate employment or change employers, among other negative practices, thus putting them at risk of forced labour.\
+\
+A key provision in the contract is the termination clause, which enables either the employer or employee to terminate the contract unilaterally by providing one month’s notice, and to terminate it immediately in the event of violations of the terms of the contract. Such violations on the employer’s part include withholding wages and confiscating passports, as well as other abuses and violations such as physical, psychological and sexual abuse and economic harm.\
+\
+Further important provisions employers of domestic workers must adhere to include: the payment of a wage linked to the national minimum wage, subject to possible deductions for accommodation and food; the provision of insurance that covers health care and accidents at work; payment of sick leave; the right of the domestic worker to remove herself from danger until the dangerous situation is fully addressed; the requirement that the employer provides a separate private room for the domestic worker, which is suitably furnished, adequately ventilated and equipped with a lock, the key to which shall be only provided to the worker; and a maximum 48-hour week, although overtime at a rate of pay of an additional 50 per cent over the regular hour is possible on an exceptional basis up to a maximum of 12 hours per day.\
+
+### Enforcement is key
+
+“Now that the revised contract has been adopted, a significant challenge will be to ensure its effective implementation and enforcement, including through labour inspection, given the current political and economic crisis in Lebanon, compounded by the recent blast in the port of Beirut and the COVID-19 pandemic”, said Hagemann.\
+\
+The ILO will work closely with the Ministry of Labour, trade unions, employers and other national and international partners to raise awareness on the revised contract and support the Ministry in ensuring that it is effectively enforced, including in the development of a mechanism enabling migrant domestic workers to change employers to give practical effect to the termination clause in the contract. ILO will also continue to advocate for the inclusion of domestic work in the Labour Law and grant them the right to organize, and for other measures to dismantle the kafala system, such as regulation of recruitment in line with the ILO General principles and operational guidelines for fair recruitment and facilitating a system of live-out/part time work for migrant domestic workers, which continues to be unlawful in Lebanon but nonetheless takes place in practice.\
+\
+“During this difficult period that Lebanon is witnessing, the new Standard Unified Contract provides hope that decent work for domestic workers may become a reality,” Hagemann said.\
+
+### Contract origins
+
+The revised Ministry of Labour contract has its origins in the efforts of the Working Group on Kafala Reform, established in April 2019 by the former Minister of Labour Camille Abousleiman, and coordinated by the ILO. The Working Group was tasked with drafting proposals for dismantling the kafala system in the country in line with international human rights and labour standards. The Working Group presented a Plan of Action to dismantle Kafala with a list of short-term and medium-term measures that would need to be taken.\
+\
+As a first step, the Working Group prepared a draft revised Standard Unified Contract for the Employment of Domestic Workers, taking care to ensure that its provisions were in line with the national labour law, international human rights standards, including fundamental principles and rights at work, and the ILO Domestic Workers Convention, 2011 (No. 189). The Plan of Action and revised draft contract were then discussed at a National Consultation on Kafala Reform in March 2020, co-organized by the Ministry of Labour and ILO, and involving all national stakeholders, including other relevant government ministries, worker and employer organizations, civil society organizations, academia and the media.\

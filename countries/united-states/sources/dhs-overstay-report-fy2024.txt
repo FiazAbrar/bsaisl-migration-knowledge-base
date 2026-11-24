@@ -1,0 +1,2545 @@
+Entry/Exit Overstay
+Report
+Fiscal Year 2024 Report to Congress
+
+
+
+
+  July 16, 2025
+  Fiscal Year 2024 Report to Congress
+
+
+                                  U.S. Customs and Border Protection
+Message from the Acting Deputy Commissioner of U.S.
+Customs and Border Protection
+                                         July 16, 2025
+
+U.S. Customs and Border Protection respectfully submits the Fiscal
+Year 2024 “Entry/Exit Overstay Report” as directed in the
+Immigration and Naturalization Service Data Management
+Improvement Act of 2000 (Public Law 106-215) and Section 2(e) Visa
+Waiver Permanent Program Act of 2000 (Public Law 106-396).
+
+This report provides data on expected departures and overstays, by
+country, for foreign travelers to the United States who were admitted
+as nonimmigrants at an air or seaport port of entry and were expected
+to depart in Fiscal Year 2024 (October 1, 2023 – September 30, 2024).
+
+Pursuant to congressional requirements, this report is being provided to the following Members
+of Congress:
+
+       The Honorable Mark Amodei
+       Chairman, House Appropriations Subcommittee on Homeland Security
+
+       The Honorable Lauren Underwood
+       Acting Ranking Member, House Appropriations Subcommittee on Homeland Security
+
+       The Honorable Katie Britt
+       Chair, Senate Appropriations Subcommittee on Homeland Security
+
+       The Honorable Chris Murphy
+       Ranking Member, Senate Appropriations Subcommittee on Homeland Security
+
+       The Honorable Rand Paul
+       Chairman, Senate Committee on Homeland Security and Governmental Affairs
+
+       The Honorable Gary C. Peters
+       Ranking Member, Senate Committee on Homeland Security and Governmental Affairs
+
+       The Honorable Mark E. Green
+       Chairman, House Committee on Homeland Security
+
+
+
+
+                                               i
+       The Honorable Bennie G. Thompson
+       Ranking Member, House Committee on Homeland Security
+
+I would be pleased to respond to any questions. Please do not hesitate to contact my office at
+(202) 344-2001.
+
+                                      Sincerely,
+
+
+
+                                     John Modlin
+                                     Acting Deputy Commissioner
+                                     U.S. Customs and Border Protection
+
+
+
+
+                                                   ii
+Executive Summary
+
+This report provides data on expected departures and overstays, by country, for foreign travelers
+to the United States who were admitted as nonimmigrants at an air or seaport port of entry (and
+were expected to depart in Fiscal Year 2024 (October 1, 2023 – September 30, 2024). In this
+report, expected departures are defined as entries by travelers who were lawfully admitted to the
+United States as a nonimmigrant and whose authorized period of admission expired within Fiscal
+Year 2024.
+
+An overstay is defined as a nonimmigrant who was lawfully admitted to the United States but
+remained in the United States beyond the authorized period of admission. This can be a fixed
+period or for the duration of a certain activity, such as the period during which a student is
+pursuing a full course of study or any authorized technical/practical training program. U.S.
+Customs and Border Protection identifies two types of overstays: 1) individuals for whom no
+departure was recorded (Suspected In-Country Overstays), and 2) individuals whose departure
+was recorded after their authorized period of admission expired (Out-of-Country Overstays).
+
+Determining lawful status requires more than matching entry and exit data. For example, a
+person may receive a 6-month period of admission upon entry and then subsequently apply for
+and receive an extension for the period of admission of up to 6 months from U.S. Citizenship and
+Immigration Services. Identifying extensions, changes, or adjustments of status are necessary
+steps to determine whether a person has overstayed their authorized period of admission; this
+report was generated with improvements to data analysis in an automated fashion to better
+account for these changes.
+
+Valid periods of admission to the United States vary; therefore, it was necessary to establish
+“cutoff dates” for the purposes of this report. Unless otherwise noted, the tables accompanying
+this report refer to departures that were expected to occur between October 1, 2023, and
+September 30, 2024.
+
+In Fiscal Year 2024, there were 46,657,108 expected departures, a 19.6 percent increase from the
+Fiscal Year 2023 figure of 39,005,712. The increase in the Fiscal Year 2024 expected departures
+population can be attributed to a multitude of factors including reduced impacts from travel
+restrictions associated with the Coronavirus Disease 2019 pandemic.
+
+This report presents the overstay rates of those who remained in the United States beyond their
+authorized period of admission with no evidence of an extension to their period of admission or
+adjustment to another immigration status. Overstay rates are provided for the major categories
+listed in the sections below.
+
+
+
+
+                                               iii
+Total Overstay Rate
+
+As noted, U.S. Customs and Border Protection determined there were 46,657,108 in-scope
+nonimmigrant admissions 1 to the United States through air or seaport port of entry with expected
+                                        0F
+
+
+
+
+departures occurring in Fiscal Year 2024, which represented the majority of air and sea annual
+nonimmigrant admissions. Of this number, U.S. Customs and Border Protection calculated a
+total overstay rate of 1.15 percent, or 538,548 overstay events. In other words, 98.85 percent of
+the in-scope nonimmigrant visitors departed the United States on-time and in accordance with the
+terms of their admission.
+
+This report breaks down the overstay rates further to provide a better picture of those overstays
+who remained in the United States beyond their period of admission and for whom there is no
+identifiable evidence of a departure, an extension of period of admission, or transition to another
+immigration status. At the end of Fiscal Year 2024, there were 482,954 Suspected In-Country
+Overstays, which represented 1.04 percent of expected departures, and there were 55,594 Out-of-
+Country Overstays, representing 0.11 percent of expected departures.
+
+Due to subsequent departures and adjustments of status to lawful permanent resident by
+individuals in this population, by February 6, 2025, the number of Suspected In-Country
+Overstays for Fiscal Year 2024 decreased to 427,204, resulting in the Suspected In-Country
+Overstay rate of .92 percent. As of February 6, 2025, the Department of Homeland Security was
+able to confirm the departures or adjustments of status of more than 99.08 percent of
+nonimmigrants scheduled to depart in Fiscal Year 2024, via air and seaport port of entry.
+
+Visa Waiver Program Country Overstay Rate
+
+This report separates Visa Waiver Program country overstay figures from non-Visa Waiver
+Program country figures. For Visa Waiver Program countries, the Fiscal Year 2024, Suspected
+In-Country Overstay rate is 0.43 percent of the 18,853,231 expected departures.
+
+Non-Visa Waiver Program Participant Countries Overstay Rate
+
+For non-Visa Waiver Program countries (excluding Canada and Mexico), the Fiscal Year 2024,
+Suspected In-Country Overstay rate is 2.22 percent of the 12,131,255 expected departures.
+
+Student or Exchange Visitor Overstay Rate
+
+For nonimmigrants who were admitted on a student or exchange visitor visa (F, M, or J visa), the
+Fiscal Year 2024 Suspected In-Country Overstay rate is 2.45 percent of the 1,412,627 students
+and exchange visitors scheduled to complete their program in the United States. 2           1F
+
+
+
+
+1
+    See Appendix A for a full list defining “in-scope nonimmigrant classes of admission.”
+2
+    Excludes Canada and Mexico students or exchange visitors.
+
+
+
+                                                                         iv
+All Other In-Scope Classes of Admission Overstay Rate
+
+For all other in-scope non-Visa Waiver Program classes of admission, the Fiscal Year 2024
+Suspected In-Country Overstay rate is 2.05 percent of the 1,141,821 expected departures.
+
+Canada and Mexico Overstay Rates
+
+Unlike other countries, the majority of travelers from Canada and Mexico enter the United States
+by land. Figures pertaining to Canada and Mexico are presented separately from the other
+countries since air and sea information represents a smaller portion of the Canadian and Mexican
+travel population. For Canada, the Fiscal Year 2024, Suspected In-Country Overstay rate for
+those traveling through air and seaport port of entry is 0.19 percent of 9,429,208 expected
+departures. For Mexico, the Fiscal Year 2024 Suspected In-Country Overstay rate for those
+traveling through air and seaport port of entry is 1.54 percent of 3,688,966 expected departures.
+This represents overstays by people who arrived by air and seaport port of entry and does not
+include overstays by people who arrived by land.
+
+The Fiscal Year 2024 report covers the same classes of admission as previous Entry and Exit
+Overstay Reports, those traveling to the United States temporarily for business and pleasure,
+including those from designated Visa Waiver Program countries traveling under an Electronic
+System for Travel Authorization, student travelers, worker classifications, and other classes of
+nonimmigrant admission. 3 The only excluded classes are diplomats, crewmembers, travelers in
+                                       2F
+
+
+
+
+transit, and special protected classes under Section 1367 (Appendix B). 4                                     3F
+
+
+
+
+In Fiscal Year 2024, Department of Homeland Security continued developing overstay mission
+capabilities. The use of advanced biometrics improved the Department of Homeland Security’s
+ability to confirm travelers’ identities at border crossings and enhanced our ability to identify
+overstays. The vetting unit responsible for assisting the review of Out-of-Country Overstay leads
+is continuing the notification process for Visa Waiver Program travelers who have overstayed
+their period of admission in the United States. This includes emailing overstayers regarding their
+noncompliance and informing them of the ramifications of their violation.
+
+U.S. Customs and Border Protection continues to notify Visa Waiver Program travelers in
+advance of the end date of their period of authorized admission. U.S. Customs and Border
+Protection plans to further expand these notifications to additional populations.
+Additionally, the Department of Homeland Security typically requires Visa Waiver Program
+countries with an overstay rate equal to or exceeding 2 percent to implement a public awareness
+campaign intended to educate their nationals on the importance of abiding by the terms of their
+admission to the United States.
+
+
+
+
+3
+    See Appendix A.
+4
+ Section 1367 of title 8, United States Code, establishes rules and penalties for the disclosure of information related to applicants for or
+beneficiaries of U visas, T visas, or Violence Against Women Act protections.
+
+
+
+                                                                          v
+Department of Homeland Security continues to improve its data collection of both biographic and
+biometric data on travelers arriving or departing the United States, and some of these
+improvements are discussed in this report.
+
+
+
+
+                                              vi
+                   Fiscal Year 2024 Entry/Exit Overstay Report
+Table of Contents
+I.       Legislative Language ............................................................................................................... 1
+
+II.      Background .............................................................................................................................. 2
+
+III.         Existing Operations .............................................................................................................. 4
+
+      A.   Air and Sea Environments ............................................................................................... 4
+      B. Land Environment ............................................................................................................... 4
+      C. Overstay Definition .............................................................................................................. 5
+      D.   Overstay Identification and Action .................................................................................. 6
+
+IV.          Overstay Rates ..................................................................................................................... 9
+
+      A.      Fiscal Year 2024 Overstay Rate Summary .................................................................... 11
+      B. Fiscal Year 2024 Visa Waiver Program Nonimmigrant Business or Pleasure Overstay
+      Rates .......................................................................................................................................... 12
+      C. Fiscal Year 2024 Non-Visa Waiver Program Country B1/B2 Overstay Rates .................. 14
+      D.      Fiscal Year 2024 Nonimmigrant Students and Exchange Visitors Overstay Rates ....... 19
+      E. Fiscal Year 2024 Overstay Rates for All Other In-scope Classes of Admission................ 25
+      F. Fiscal Year 2024 Canada and Mexico Nonimmigrant Overstay Rates .............................. 31
+      G.      Fiscal Year 2023 Suspected In-Country Overstay Trend ............................................... 31
+
+V.       Conclusion ............................................................................................................................. 34
+
+VI.          Appendices ......................................................................................................................... 35
+
+      Appendix A. In-Scope Nonimmigrant Classes of Admission .................................................. 35
+      Appendix B. Out-of-Scope Nonimmigrant Classes of Admission ........................................... 37
+      Appendix C. Fiscal Year 2023 Entry and Exit Overstay Data .................................................. 38
+
+
+
+
+                                                                           vii
+I.     Legislative Language
+
+This document responds to the legislative language set forth in the Immigration and
+Naturalization Service Data Management Improvement Act of 2000 (Public Law 106-215) and
+Section 2(e) Visa Waiver Permanent Program Act of 2000 (Public Law 106-396).
+
+Section-relevant part:
+
+       An annual report to the House and Senate Judiciary on the integrated entry and exit data
+       system for the preceding fiscal year. The report should include: (A) The number of aliens
+       for whom departure data was collected, with an accounting by country of the departing
+       alien’s nationality; (B) The number of departing aliens whose departure data was
+       successfully matched to the alien’s arrival data, with an accounting by the alien’s country
+       of nationality and by the alien’s classification as an immigrant or nonimmigrant; (C) The
+       number of aliens who arrived pursuant to a nonimmigrant visa, or as a visitor under the visa
+       waiver program, for whom no matching departure data have been obtained through the
+       system or through other means as of the end of the alien’s authorized period of stay, with
+       an accounting by the alien’s country of nationality and date of arrival in the United States;
+       (D) The number of lawfully admitted nonimmigrants identified as having remained in the
+       United States beyond the period authorized by the Attorney General, with an accounting
+       by the alien’s country of nationality; (E) the calculation, by each VWP country and each
+       fiscal year, of the portion of nationals [that arrive and depart by sea or air U.S. port of entry
+       and is provided a waiver under the program] and for whom no record of departure exists,
+       expressed as a percentage of the total number of such nationals who are so described.
+
+
+
+
+                                                  1
+II. Background
+
+The purpose of this report is to identify the Fiscal Year 2024, country-by-country overstay rates
+for all air and sea, in-scope 5 nonimmigrant classes of admission.
+                                          4F
+
+
+
+
+The overstay identification process is conducted utilizing arrival, departure, and immigration
+benefit information, which is consolidated to generate a complete history for individuals who
+traveled to the United States and were subsequently admitted, as described below.
+
+U.S. Customs and Border Protection receives advance manifests from commercial sea and air
+carriers and private aircraft operators for all arrivals to and departures from the United States.
+These manifests indicate who is aboard the aircraft or vessel. In the land environment, U.S.
+Customs and Border Protection gathers travel information directly on all persons who enter the
+United States from Canada or Mexico at land ports of entry. Furthermore, U.S. Customs and
+Border Protection receives travel data on persons who enter Canada from the United States via
+land through a reciprocal sharing agreement with the Canadian government, as well as gathering
+data directly on some persons who enter Mexico from the United States. Additionally, U.S.
+Customs and Border Protection reconciles a significant portion of travelers who enter through
+United States borders from Mexico since the majority of those travelers are frequent border
+crossers, and U.S Customs and Border Protection is able to close a previous arrival record when
+recording a new arrival.
+
+By law, U.S. Customs and Border Protection officers inspect aliens and examine U.S. citizens
+upon arrival at United States ports of entry, which may include conducting an interview to
+determine the purpose and intent of travel. U.S. Customs and Border Protection officers collect
+biographic information on all nonimmigrants applying for admission and confirm the accuracy of
+the biographic manifest data provided by the carriers, which are subject to fines for any missing
+or inaccurate data. For most aliens, U.S. Customs and Border Protection also collects
+fingerprints and digital photographs to conduct biometric comparisons against data previously
+provided to the United States. 6, 7            5F   6F
+
+
+
+
+For departing travelers, air and sea carriers provide biographic manifest data prior to all travelers
+leaving the United States. Federal regulation requires carriers to provide specific sets of data,
+which most often include name and passport number. Additionally, federal regulation subjects
+carriers to fines for missing or inaccurate data. U.S. Customs and Border Protection then
+matches this biographic departure data against arrival data to determine who has complied with
+the terms of admission and who has overstayed. U.S. Customs and Border Protection maintains
+a separate system specifically for this purpose. This system also receives other Department of
+Homeland Security data relevant to discern whether a person is lawfully present, such as
+immigration benefit information or information on student visitors to the United States.
+
+5
+    See Appendix A for a full list defining “In-Scope nonimmigrant classes of admission.”
+6
+ 8 Code of Federal Regulations § 235.1(f)(1)(ii).
+7
+  The Western Hemisphere Travel Initiative is a joint United States. State Department/Department of Homeland Security initiative that
+implemented § 7209 of the Intelligence Reform and Terrorism Prevention Act of 2004 (Pub. L. No. 108-458).
+
+                                                                         2
+In general, transportation hubs and border infrastructure in the United States were not constructed
+with exit processing in mind. For example, airports in the United States do not have areas
+designated exclusively for processing travelers leaving the United States. Instead, traveler
+departures are recorded biographically using outbound passenger manifests provided by
+commercial carriers. Carriers are also required to validate the manifest against the travel
+document presented by the traveler before the traveler is permitted to board the aircraft or sea
+vessel. U.S. Customs and Border Protection is continuing efforts for a biometric-based departure
+program to complement the biographic data collection that already exists for aliens for whom
+biometrics may be required under 8 Code of Federal Regulations § 215.8. This program matches
+live photos of travelers to images in U.S. Customs and Border Protection holdings, which may
+include photos from passports, visa photos, or from previous border crossings, to better confirm
+the traveler’s identity, as well as confirm exit crossings for aliens required to provide biometrics.
+
+Travelers arrive at land ports of entry via various modes of transportation, including cars, trains,
+buses, bicycles, trucks, and on foot. There are major physical, logistical, and operational
+obstacles to collecting an individual’s biographic and biometric data upon departure. Due to the
+existing limitations in collecting departure data in the land environment, this report provides
+limited departure and overstay information for land ports of entry. U.S. Customs and Border
+Protection’s ongoing efforts, described in this report, will continue to improve the existing
+process and availability of departure data.
+
+
+
+
+                                                  3
+III. Existing Operations
+
+A.         Air and Sea Environments
+In the air and sea environments, U.S. Customs and Border Protection obtains entry records
+through both carrier-provided manifest data and inspections conducted by U.S. Customs and
+Border Protection officers. U.S. Customs and Border Protection obtains biographic data on
+travelers who lawfully enter or depart the United States by air or sea. 8 Federal regulation          7F
+
+
+
+
+requires air and sea carriers to submit passenger manifests to U.S. Customs and Border
+Protection; this information is then recorded as arrivals to, or departures from, the United States. 9                                            8F
+
+
+
+
+Air carriers are required to provide data for not only who has made a reservation for a particular
+flight, but also who is actually on the aircraft at the time the aircraft departs. 10 Airlines are               9F
+
+
+
+
+subject to fines for making errors regarding who is or is not on any particular aircraft. 11                                   10F
+
+
+
+
+Although U.S. Customs and Border Protection currently obtains biographic arrival and departure
+information on most foreign nationals, and in many cases biometric data, U.S. Customs and
+Border Protection is committed to continuously improving existing biometric and biographic exit
+and entry processes. This work is providing new opportunities to verify an individual’s identity
+and facilitate collection of new biographic information on individuals where none previously
+existed.
+
+B.         Land Environment
+Collection of departure information in the land environment is more difficult than in air and sea
+environments due to the major physical, logistical, and operational obstacles involved with
+electronically collecting an individual’s biographic and biometric data. It is not currently feasible
+to obtain advance reporting of arrivals and departures, as the majority of travelers cross borders
+as a driver or passenger in a vehicle or as a pedestrian.
+
+Northern Border Departures from the United States
+
+In 2011, Canada and the United States developed an entry and exit initiative under which Canada
+and the United States agreed to exchange biographic entry records for land crossings between the
+two countries, so that an entry into one is recorded as an exit from the other. On June 30, 2013,
+Canada and the United States began exchanging biographic entry data for third-country nationals
+(including permanent residents of Canada and United States lawful permanent residents) who
+enter through land ports of entry along the shared border, where information is collected
+electronically. Through this initiative, the United States has a working biographic land border
+
+8
+  In addition, the Department obtains biometric information on all nonimmigrants who enter the United States via air and sea, except for those
+who are exempt by regulation, which includes those over the age of 79 or under 14, diplomats, and certain other discrete categories. See 8 Code
+of Federal Regulations §§ 235.1(f)(1)(ii); 235.1(f)(1)(iv).
+9
+  8 Code of Federal Regulations § 231.1, (describing the specific data elements for each passenger that carriers are required to provide).
+10
+   19 Code of Federal Regulations §§ 122.49a; 122.75a.
+11
+   8 United States Code § 1221(g).
+
+                                                                       4
+exit system for all Northern border crossings. U.S. Customs and Border Protection continually
+analyzes the additional crossing data provided by Canada for enhanced statistical capabilities
+regarding overstays.
+
+U.S. Customs and Border Protection currently matches 98.17 percent of the entry information
+received from Canada to corresponding entry information in the Arrival and Departure
+Information System. As of October 1, 2024, this data-sharing agreement has yielded over 195.4
+million departure records. U.S. Customs and Border Protection uses this information to resolve
+previous traveler air or sea arrivals into the United States for those cases where the traveler may
+then subsequently depart by land to Canada.
+
+C.         Overstay Definition
+An overstay is defined as a nonimmigrant who was lawfully admitted to the United States for an
+authorized period but stayed in the United States beyond their authorized admission period.
+Nonimmigrants admitted for “duration of status,” who fail to maintain their status, may also be
+considered overstays. “Duration of status” is a term used for aliens who are admitted for the
+duration of a specific program or activity, which may be variable, instead of for a set
+timeframe. 12 The authorized admission period ends when the alien has accomplished the purpose
+                1F
+
+
+
+
+for which they were admitted or is no longer engaged in authorized activities pertaining to that
+purpose. For example, a student who enters the United States for a program must leave when the
+program is completed, change to another immigration status, or go on to pursue another program
+of study.
+
+U.S. Customs and Border Protection classifies individuals as overstays by using the Arrival and
+Departure Information System to match records about departures and immigration benefits to
+arrival records collected during the admission process. U.S. Customs and Border Protection
+further identifies nonimmigrant status through manual vetting processes to support possible
+enforcement action. U.S. Customs and Border Protection identifies individuals as having
+overstayed if the individual’s departure record shows they departed the United States after their
+authorized admission period expired (i.e., Out of-Country Overstays). 13 U.S. Customs and                 12F
+
+
+
+
+Border Protection also identifies individuals as possible overstays if there are no records of a
+departure or change in status prior to the end of their authorized admission period (i.e., Suspected
+In-Country Overstays). 14 Improvements to reporting methodology now more accurately account
+                                   13F
+
+
+
+
+12
+  For example, “duration of status” for F nonimmigrants is defined as “the time during which an F-1 student is pursuing a full course of study at
+an [approved] educational institution . . . or engaging in authorized practical training following completion of studies ….” 8 Code of Federal
+Regulations § 214.2(f)(5)(i).
+13
+   In these cases, there are implications for the individual who overstayed the authorized period of stay in the United States according to
+immigration law. See, e.g., 8 United States Code § 1202(g) (nonimmigrant visa is voided at conclusion of authorized period of stay if an
+individual remains in the United States beyond the authorized period); 8 United States Code § 1187(a)(7) (referring to the Visa Waiver Program ,
+“if the alien previously was admitted without a visa under this section, the alien must not have failed to comply with the conditions of any
+previous admission as such a nonimmigrant”); and 8 United States Code § 1182(a)(9)(B)(i)(I) and (II) (alien inadmissible for 3 years if
+unlawfully present for more than 180 days but less than a year and voluntarily departs the United States prior to commencement of removal
+proceedings; alien inadmissible for 10 years if unlawfully present for a year or more and departs the United States).
+14
+   Pending immigration benefit applications and approved extensions of stay, change of nonimmigrant status, or adjustment of status to lawful
+permanent resident may extend or modify the authorized period of stay. For example, upon entering the United States a person may be granted a
+six-month period of admission, but thereafter lawfully change immigration status prior to the expiration of that period, and in turn be authorized to
+stay beyond the initial six months. These options are not available to all categories of alien. See 8 United States Code § 1258; 8 Code of Federal
+
+
+
+                                                                         5
+for individual travel histories or immigration benefit applications that collectively affect expected
+departure dates and possible overstay status.
+
+In this report, Department of Homeland Security presents Arrival and Departure Information
+System-generated overstay rates by country of citizenship for nonimmigrant visitors who were
+admitted to the United States through air or seaport port of entry, regardless of overstay type. 15                                            14 F
+
+
+
+
+The Arrival and Departure Information System-generated overstay rates produced for this report
+depict a snapshot of statistics reflecting the date the data was pulled for analysis. Although
+significant progress has been made, challenges remain with the integration of systems used in the
+travel continuum for reporting on classes of admission associated with land exits. It is
+anticipated these challenges will be mitigated in the future through improvements in land data
+collection for individuals exiting the United States and improvements in data exchanges with
+Mexico.
+
+The following nonimmigrant classes of admission are not included in the report due to
+unspecified authorized periods of stay and/or legal protections: diplomats and other
+representatives, crewmembers, aliens in transit, and Section 1367 special-protected classes
+(Appendix B).
+
+D.         Overstay Identification and Action
+U.S. Customs and Border Protection maintains arrival and departure information for all aliens
+based on border crossings and carrier data. Arrival and Departure Information System uses this
+information to generate daily overstay lists. These system-generated overstay lists include
+checks against the U.S. Customs and Border Protection Automated Targeting System- Passenger
+and information about immigration benefits held by U.S. Citizenship and Immigration Services,
+reducing the overall list size by identifying persons who have departed the United States or
+adjusted their status to another nonimmigrant or immigrant category. For Suspected In- Country
+Overstays, the U.S. Customs and Border Protection Automated Targeting System-Passenger then
+applies screening rules, as defined by U.S. Immigration and Customs Enforcement to determine
+the level of priority for each system-identified overstay.
+
+As part of the overstay enforcement mission, Department of Homeland Security operational units
+further analyze these system-identified Suspected In-Country and Out-of-Country Overstay
+leads. The In-Country Overstay leads are worked by Homeland Security Investigations’ Counter
+Threat Lead Development Unit. The Counter Threat Lead Development Unit is a national
+program dedicated to the investigation of nonimmigrant violators who pose a national security or
+public safety concern. Each year, the Counter Threat Lead Development Unit analyzes records
+of over one million potential status violators from various investigative databases and
+Department of Homeland Security entry/exit registration systems.
+
+Regulations § 248.2. For example, those who enter under the Visa Waiver Program are generally not eligible to change or extend their
+nonimmigrant status. 8 Code of Federal Regulations §§ 245.1(b)(8); 248.2(a)(6).
+15
+   The sea overstay rates are only reflective of the population that were admitted to the United States at a seaport of entry but is not reflective of
+all traveler arrivals where the vessel both departs from and subsequently returns to the same location on the same voyage (commonly referred to
+as “closed loop” cruises). For example, if an alien already within the United States departs from the Port Canaveral, Florida Seaport for a seven-
+day cruise in the Caribbean and subsequently re-enters at Port Canaveral on the same voyage, then that arrival would not be taken into account for
+the purposes of this report.
+
+                                                                          6
+To better manage investigative resources, the Counter Threat Lead Development Unit relies on a
+prioritization framework for these leads established in consultation with interagency partners
+within the national intelligence and federal law enforcement communities. Those nonimmigrant
+violators identified as posing a potential national security or public safety concern are prioritized
+and referred to Homeland Security Investigations field offices for investigation. Where
+nonimmigrant violators are identified, but do not meet the Counter Threat Lead Development
+Unit’s criteria for investigation, Homeland Security Investigations sends that information to U.S
+Immigration and Customs Enforcement’s Enforcement and Removal Operations National
+Criminal Analysis and Targeting Center. If the lead is credible and justifies further investigation,
+it is then forwarded to the respective United States Immigration and Customs Enforcement’s
+Enforcement and Removal Operations field offices for enforcement action.
+
+Homeland Security Investigations special agents and analysts monitor threat reports and
+proactively address emergent issues. This practice has contributed to Homeland Security
+Investigations’ counterterrorism mission by managing and supporting high-priority national
+security initiatives based on specific intelligence from intra- and inter-agency partners. The goal
+is to identify, locate, and where applicable, prosecute and remove those overstays posing current
+or potential national security and public safety concerns to the United States. Homeland Security
+Investigations accomplishes its mission by conducting specialized research and analysis,
+executing targeted operations and special initiatives, and leveraging Homeland Security
+Investigations’ expertise with partnering agencies. As part of the overstay enforcement mission,
+Homeland Security Investigations focuses its investigations on those subjects who pose a
+concern to national security or public safety.
+
+Throughout Fiscal Year 2024, U.S. Customs and Border Protection continued to review and vet
+Out-of-Country Overstays. The Arrival and Departure Information System Vetting Unit receives
+Out-of-Country Overstay leads for U.S. Customs and Border Protection officers and analysts to
+vet and review daily. If during the vetting process a traveler is confirmed to have overstayed, the
+traveler may lose his or her eligibility to participate in the Visa Waiver Program, or his or her
+nonimmigrant visa will no longer be recognized as valid by U.S. Customs and Border Protection.
+In addition, a 3-year or 10-year bar on admission may be placed on the traveler on subsequent
+entries to the United States. 16 As of October 1, 2024, the work of the Arrival and Departure
+                                   15F
+
+
+
+
+Information System Vetting Unit has resulted in over 402,244 actions taken of this kind.
+
+U.S. Customs and Border Protection notifies Visa Waiver Program travelers of violation of their
+period of authorized admission via email and through U.S. Customs and Border Protection’s
+public website providing Form I-94, Arrival/Departure Record and other immigration data. As
+part of this effort, the public I-94 website was updated to provide Visa Waiver Program travelers
+with a web portal where they can search their arrival and departure records. In January 2018,
+U.S. Customs and Border Protection began notifying Visa Waiver Program travelers in advance
+of the end date of their period of authorized admission. U.S. Customs and Border Protection
+plans to further expand these notifications to other populations.
+
+
+
+16
+     8 United States Code § 1182: Inadmissible aliens (house.gov)
+                                                           7
+As of October 1, 2024, 1,494,461 email notifications were sent. The goal is to improve traveler
+awareness, especially as it pertains to the length of time for which travelers are authorized
+admission to the United States. U.S. Customs and Border Protection expects these proactive
+communications and improvements will encourage travelers to be more cognizant of their
+immigration status, especially as it pertains to their period of admission while in the United
+States.
+
+
+
+
+                                               8
+IV. Overstay Rates
+
+Tables 1– 6 represent country overstay rates from Fiscal Year 2024. For this report, the term “in-
+scope” includes the following categories of nonimmigrant admissions: temporary workers and
+families (temporary workers and trainees, intracompany transferees, treaty traders, and
+investors), students, exchange visitors, temporary visitors for pleasure, temporary visitors for
+business, and other nonimmigrant classes of admission. 17 This report calculates overstays by
+                                                                                       16F
+
+
+
+
+entry rather than by individual. For example, if a traveler with a multiple entry visa enters
+multiple times during the reporting period and overstays more than once during this time, each
+time the traveler remains longer than the authorized period of admission is counted in this report
+as a separate overstay.
+
+In Tables 1 – 6, the term “Expected Departures” represents the entries by foreign travelers to the
+United States who were admitted as nonimmigrants at an air or seaport port of entry and were
+expected to depart within Fiscal Year 2024. The “Total Number of Overstays” for each country
+equals the summation of both the Out-of-Country and Suspected In-Country Overstays (based on
+number of overstay entries) for a specific country. The “Overstay Rate” is the percentage of
+entries by travelers from each country who overstayed their authorized period of admission to the
+United States, regardless of type. 18 This rate is the percentage of the Total Number of Overstays
+                                                   17F
+
+
+
+
+compared with the current fiscal year’s Expected Departures.
+
+U.S. Customs and Border Protection identified 46,657,108 19 in-scope nonimmigrants who were  18F
+
+
+
+
+expected to depart the United States via air or sea in Fiscal Year 2024. The Fiscal Year 2024
+nonimmigrant travel data identified a Suspected In-Country Overstay rate of 1.04 percent
+(482,954) and a total overstay rate of 1.15 percent (538,548) out of the overall expected
+departures of in-scope travelers in Fiscal Year 2024.
+
+Temporary Visitors for Business and Pleasure (Tables 2, 3, and 6)
+
+Tables 2 and 3 present the overstay rates for temporary visitors for business and pleasure. The
+overstay rates for temporary visitors for business and pleasure traveling under the Visa Waiver
+Program or on a B1 or B2 visa are identified in Table 2. Similarly, Table 3 identifies the
+overstay rates for temporary visitors for business and pleasure admitted to the United States
+under B1 or B2 classes of admission for non-Visa Waiver Program countries excluding Canada
+and Mexico. The B1 and B2 overstay rates for Canada and Mexico (Table 6) are separate due to
+the high percentage of land travelers who are admitted to the United States relative to the other
+
+17
+     See Appendix A for a full list of “In-Scope nonimmigrant classes of admission.”
+18
+   Rates are shown for countries as well as passport-issuing authorities and places of origin recognized by the United States. With respect to all
+references to “country” or “countries” in this document, Section 4(b)(1) of the Taiwan Relations Act of 1979 (Pub. L. No. 96-8) provides that
+“[w]henever the laws of the United States refer or relate to foreign countries, nations, states, governments, or similar entities, such terms shall
+include and such laws shall apply with respect to Taiwan.” 22 United States Code § 3303(b)(1). Accordingly, references to “country” or
+“countries” in the Visa Waiver Program authorizing legislation, Section 217 of the Immigration and Nationality Act (8 United States Code §
+1187), are read to include Taiwan. See also 8 Code of Federal Regulations § 217.1(a). Taiwan entered the Visa Waiver Program on October 2,
+2012.
+19
+   Includes CBP identified travelers with TPS eligibility. In Fiscal Year24 TPS eligible counts are 56,062 expected departures, 245 Out of Country
+Overstays, 28,282 Suspected In Country Overstays, 28,527 Total Overstays.
+
+                                                                         9
+countries. It is important to note that the total number of overstays, as identified in this report,
+does not equal the total number of overstays who currently remain in the United States during
+this reporting period. That number is lower because aliens identified as possible overstays can
+subsequently depart the United States or adjust their lawful status. For purposes of this report,
+these are still considered overstays.
+
+Visa Waiver Program Countries Business or Pleasure Visitors Air and Sea Overstay Rate
+Summary
+
+In Fiscal Year 2024, U.S. Customs and Border Protection calculated that there were 18,853,231
+B1, B2, Waiver-Business, and Waiver-Tourist expected departures for citizens of Visa Waiver
+Program countries. The Fiscal Year 2024 Visa Waiver Program countries’ total overstay rate is
+0.49 percent of the Visa Waiver Program countries expected departures, and the Suspected In-
+Country Overstay rate is 0.43 percent of the Visa Waiver Program countries expected departures.
+
+The 2017 Executive Enhancements to the Visa Waiver Program require Visa Waiver Program
+countries having a total overstay of 2 percent or greater for the previous fiscal year to initiate a
+public information campaign to educate their nationals on the conditions for admission into the
+United States. The Department of Homeland Security, in consultation with the Department of
+State, will engage with countries exceeding this threshold to undertake active efforts to reduce
+their overstay rates.
+
+Non-Visa Waiver Program Countries Business or Pleasure Visitors Air and Sea Overstay
+Rate Summary (excluding Canada and Mexico)
+
+For non-Visa Waiver Program countries in Fiscal Year 2024, U.S. Customs and Border Protection
+calculated 12,131,255 expected departures. The Fiscal Year 2024 non-Visa Waiver Program total
+overstay rate is 2.33 percent of the non-Visa Waiver Program expected departures, and the
+Suspected In-Country Overstay rate is 2.22 percent of the non-Visa Waiver Program expected
+departures.
+
+Students and Exchange Visitors
+
+For the purposes of this report, the term “Expected Departures” located in Table 4 refers to a date
+identified in the Student and Exchange Visitor Information System based on the authorized
+program or employment status of an F or M student or J exchange visitor. 20 The system-       19F
+
+
+
+
+generated overstay leads are created by Arrival and Departure Information System matching
+information against the Student and Exchange Visitor Information System data. However, one
+current challenge in this process is that Arrival and Departure Information System contains
+person-centric data, but the Student and Exchange Visitor Information System data is document-
+centric, meaning the system tracks a unique the Student and Exchange Visitor Information
+System identification number associated with each Form I-20 issued. In a person-centric
+environment an individual is either active or inactive, but in a document-centric environment a
+
+
+
+20
+     “F” includes (F1/F2), “M” includes (M1/M2), “J” includes (J1/J2) classes of admission.
+
+                                                                        10
+person could have multiple active and inactive records, making it difficult to determine if a
+person is in valid status.
+
+In Fiscal Year 2024, U.S. Customs and Border Protection calculated a total of 1,412,627 students
+and exchange visitors who were expected to change status or depart the United States. 21 The                                      20F
+
+
+
+
+total of 1,412,627 is composed of 965,467 F visa students; 10,417 M visa students; and 436,743 J
+visa categories of admission. The F, M, and J total overstay rate is 3.23 percent, and the
+Suspected In-Country Overstay rate is 2.45 percent of the total number of students and exchange
+visitors who were expected to change status or depart the United States. The Suspected In-
+Country Overstay rate is 2.44 percent for the F visa category, 2.85 percent for the M visa
+category, and 2.44 percent for the J visa category. The total overstay rate (i.e., both Suspected In-
+Country and Out-of-Country Overstays) for students and exchange visitors in Fiscal Year 2024 is
+3.23 percent of the total number of students and exchange visitors who were expected to have
+changed status or departed from the United States in Fiscal Year 2024. The total overstay rate is
+3.28 percent for the F visa category, 7.18 percent for the M visa category, and 3.03 percent for
+the J visa category.
+
+All Other In-scope Classes of Admission (excluding Mexico or Canada) Rate Summary
+
+In Fiscal Year 2024, for all other in-scope non-Visa Waiver Program classes of admission, U.S.
+Customs and Border Protection calculated 1,141,821 expected departures. The Fiscal Year 2024
+all other in-scope non-Visa Waiver Program total overstay rate is 2.62 percent of all other in-
+scope non-Visa Waiver Program expected departures, and the Suspected In Country Overstay rate
+is 2.05 percent of all other in-scope non-Visa Waiver Program expected departures.
+
+A. Fiscal Year 2024 Overstay Rate Summary
+Table 1 below provides a high-level summary of the country-by-country data identified in Tables
+2 through 6. Fiscal Year 2024 exhibited a high number of travelers expected to depart and
+identified as eligible for Temporary Protected Status. These travelers are included in these tables.
+
+Table 1
+    Fiscal Year 2024 Summary Overstay Rates for Nonimmigrants Admitted to the United
+                            States via Air and Seaport of Entry
+                                                                               Suspected
+                                  Out-of-     Suspected                Total
+                      Expected                              Total             In-Country
+  Admission Type                 Country In-Country                 Overstay
+                     Departures                           Overstays            Overstay
+                                 Overstays Overstays                   Rate
+                                                                                 Rate
+Visa Waiver Program 18,853,231 12,723       80,356        93,079    0.49%    0.43%
+Countries Business or
+Pleasure Visitors
+(Table 2)
+
+21
+   This figure does not include the F/M/J classes of admission for those visitors with a Mexican or Canadian country of citizenship; those figures
+are included in Table 4. With the inclusion of Canada and Mexico expected departure total is 1,530,013. The F/M/J total overstay count and rate
+are respectively: 47,524 and 3.11 percent (32,560, 3.12% F; 778, 6.72% M; and 14,186, 2.99% J).
+
+                                                                       11
+Non-Visa Waiver       12,131,255    13,739    269,382    283,121   2.33%     2.22%
+Program Countries
+Business or Pleasure
+Visitors (excluding
+Canada and Mexico)
+(Table 3)
+Student and Exchange 1,412,627      11,158    34,540     45,698    3.23%     2.45%
+Visitors (excluding
+Canada and Mexico)
+(Table 4)
+All Other In-Scope    1,141,821     6,538     23,361     29,899    2.62%     2.05%
+Nonimmigrant Visitors
+(excluding Canada
+and Mexico) (Table 5)
+Canada and Mexico 13,118,174        11,436    75,315     86,751    0.66%     0.57%
+Nonimmigrant Visitors
+(Table 6)
+Totals:              46,657,108 55,594        482,954    538,548   1.15%     1.04%
+
+B. Fiscal Year 2024 Visa Waiver Program Nonimmigrant Business or
+Pleasure Overstay Rates
+Table 2
+ Fiscal Year 2024 Overstay Rates for Nonimmigrant Visitors Admitted to the United States
+for Business or Pleasure (Waiver-Business / Waiver-Tourist/B-1/B-2) via Air and Seaport of
+                         Entry for Visa Waiver Program Countries
+                                                                                Suspected
+                                 Out-of-     Suspected                Total
+   Country of      Expected                                Total               In-Country
+                                Country     In-Country             Overstay
+   Citizenship    Departures                           Overstays                Overstay
+                                Overstays    Overstays                Rate
+                                                                                  Rate
+ANDORRA          1,427        -           16           16         1.12%       1.12%
+AUSTRALIA        965,320      804         2,351        3,155      0.33%       0.24%
+AUSTRIA          186,886      68          523          591        0.32%       0.28%
+BELGIUM          271,273      110         746          856        0.32%       0.27%
+BRUNEI           868          1           6            7          0.81%       0.69%
+CHILE            438,861      1,109       9,088        10,197     2.32%       2.07%
+CROATIA          10,971       19          30           49         0.45%       0.27%
+CZECH            120,648      89          381          470        0.39%       0.32%
+REPUBLIC
+DENMARK           230,107      63            537        600        0.26%     0.23%
+ESTONIA           23,883       27            93         120        0.50%     0.39%
+FINLAND           111,815      56            276        332        0.30%     0.25%
+
+
+                                              12
+FRANCE        1,851,197   800     8,924    9,724    0.53%   0.48%
+GERMANY       1,879,584   731     4,592    5,323    0.28%   0.24%
+GREECE        90,136      206     673      879      0.98%   0.75%
+HUNGARY       88,558      141     490      631      0.71%   0.55%
+ICELAND       43,169      18      46       64       0.15%   0.11%
+IRELAND       513,578     267     1,375    1,642    0.32%   0.27%
+ISRAEL        373,198     351     2,616    2,967    0.80%   0.70%
+ITALY         1,205,459   834     7,673    8,507    0.71%   0.64%
+JAPAN         1,517,793   219     1,290    1,509    0.10%   0.08%
+KOREA, SOUTH 1,083,123    787     1,983    2,770    0.26%   0.18%
+LATVIA        22,869      60      155      215      0.94%   0.68%
+LIECHTENSTEIN 1,558       -       9        9        0.58%   0.58%
+LITHUANIA     43,174      72      251      323      0.75%   0.58%
+LUXEMBOURG 14,514         3       48       51       0.35%   0.33%
+MALTA         8,222       7       39       46       0.56%   0.47%
+MONACO        928         1       3        4        0.43%   0.32%
+NETHERLANDS 670,104       305     2,900    3,205    0.48%   0.43%
+NEW ZEALAND 287,551       260     662      922      0.32%   0.23%
+NORWAY        163,872     104     388      492      0.30%   0.24%
+POLAND        364,348     407     1,513    1,920    0.53%   0.42%
+PORTUGAL      196,178     397     3,292    3,689    1.88%   1.68%
+SAN MARINO    582         -       3        3        0.52%   0.52%
+SINGAPORE     119,761     110     253      363      0.30%   0.21%
+SLOVAKIA      51,033      73      223      296      0.58%   0.44%
+SLOVENIA      29,277      13      108      121      0.41%   0.37%
+SPAIN         894,491     1,483   13,078   14,561   1.63%   1.46%
+SWEDEN        294,960     184     723      907      0.31%   0.25%
+SWITZERLAND 328,064       159     909      1,068    0.33%   0.28%
+TAIWAN        315,280     482     1,262    1,744    0.55%   0.40%
+UNITED        4,038,611   1,903   10,828   12,731   0.32%   0.27%
+KINGDOM
+Totals:       18,853,231 12,723   80,356   93,079   0.49%   0.43%
+
+
+
+
+                                   13
+C. Fiscal Year 2024 Non-Visa Waiver Program Country B1/B2 Overstay
+Rates
+Table 3
+  Fiscal Year 2024 Overstay Rates for Nonimmigrants Admitted to the United States for
+     Business or Pleasure via Air and Seaport of Entry for Non-Visa Waiver Program
+                        Countries (excluding Canada and Mexico)
+                                               Suspected                       Suspected
+                                                                      Total
+                        Expected Out-of-          In-       Total             In-Country
+Country of Citizenship              Country                         Overstay
+                       Departures               Country Overstays              Overstay
+                                    Overstays                          Rate
+                                               Overstays                         Rate
+AFGHANISTAN            1,949       10         178        188        9.65%    9.13%
+ALBANIA                24,310      24         569        593        2.44%    2.34%
+ALGERIA                18,057      80         1,072      1,152      6.38%    5.94%
+ANGOLA                 3,839       12         542        554        14.43% 14.12%
+ANTIGUA AND            16,706      18         199        217        1.30%    1.19%
+BARBUDA
+ARGENTINA             594,000     221       4,580      4,801      0.81%     0.77%
+ARMENIA               18,011      21        1,119      1,140      6.33%     6.21%
+AZERBAIJAN            6,523       8         124        132        2.02%     1.90%
+BAHAMAS, THE          299,354     250       2,427      2,677      0.89%     0.81%
+BAHRAIN               4,376       4         53         57         1.30%     1.21%
+BANGLADESH            38,590      51        2,162      2,213      5.73%     5.60%
+BARBADOS              51,015      30        223        253        0.50%     0.44%
+BELARUS               10,034      9         330        339        3.38%     3.29%
+BELIZE                36,888      16        1,139      1,155      3.13%     3.09%
+BENIN                 2,139       8         256        264        12.34%    11.97%
+BHUTAN                423         3         89         92         21.75%    21.04%
+BOLIVIA               70,772      97        3,853      3,950      5.58%     5.44%
+BOSNIA AND            7,965       22        52         74         0.93%     0.65%
+HERZEGOVINA
+BOTSWANA              2,017       4         142        146        7.24%     7.04%
+BRAZIL                1,708,258   1,172     20,168     21,340     1.25%     1.18%
+BULGARIA              31,482      19        115        134        0.43%     0.37%
+BURKINA FASO          2,752       12        240        252        9.16%     8.72%
+BURMA                 5,455       17        2,064      2,081      38.15%    37.84%
+BURUNDI               800         1         42         43         5.38%     5.25%
+CABO VERDE            3,694       14        490        504        13.64%    13.26%
+CAMBODIA              9,535       14        325        339        3.56%     3.41%
+CAMEROON              11,288      73        885        958        8.49%     7.84%
+
+                                          14
+CENTRAL AFRICAN    137         -        2        2        1.46%    1.46%
+REPUBLIC
+CHAD               991         12       272      284      28.66%   27.45%
+CHINA              1,042,047   2,055    14,920   16,975   1.63%    1.43%
+COLOMBIA           981,808     807      24,087   24,894   2.54%    2.45%
+COMOROS            43          -        -        -        -        -
+CONGO              1,369       5        271      276      20.16%   19.80%
+(BRAZZAVILLE)
+CONGO (KINSHASA)   8,339       27       609      636      7.63%    7.30%
+COSTA RICA         337,684     125      2,768    2,893    0.86%    0.82%
+COTE D'IVOIRE      6,871       28       554      582      8.47%    8.06%
+CUBA               13,124      15       898      913      6.96%    6.84%
+CYPRUS             8,708       4        45       49       0.56%    0.52%
+DJIBOUTI           273         -        54       54       19.78%   19.78%
+DOMINICA           7,368       15       301      316      4.29%    4.09%
+DOMINICAN          506,640     275      14,974   15,249   3.01%    2.96%
+REPUBLIC
+ECUADOR           471,299      311      16,161   16,472   3.50%    3.43%
+EGYPT             73,641       111      3,979    4,090    5.55%    5.40%
+EL SALVADOR       287,123      169      3,254    3,423    1.19%    1.13%
+EQUATORIAL GUINEA 964          6        203      209      21.68%   21.06%
+ERITREA           804          6        78       84       10.45%   9.70%
+ETHIOPIA          25,958       110      2,036    2,146    8.27%    7.84%
+FIJI              7,451        37       257      294      3.95%    3.45%
+GABON             1,414        10       184      194      13.72%   13.01%
+GAMBIA, THE       1,630        16       191      207      12.70%   11.72%
+GEORGIA           9,292        22       668      690      7.43%    7.19%
+GHANA             34,065       80       2,664    2,744    8.06%    7.82%
+GRENADA           14,693       14       246      260      1.77%    1.67%
+GUATEMALA         349,289      194      4,803    4,997    1.43%    1.38%
+GUINEA            2,837        17       189      206      7.26%    6.66%
+GUINEA-BISSAU     96           -        11       11       11.46%   11.46%
+GUYANA            73,123       112      2,814    2,926    4.00%    3.85%
+HAITI             64,345       253      15,728   15,981   24.84%   24.44%
+HOLY SEE          27           -        -        -        -        -
+HONDURAS          310,834      166      4,850    5,016    1.61%    1.56%
+INDIA             1,244,379    1,645    14,271   15,916   1.28%    1.15%
+INDONESIA         89,322       132      5,040    5,172    5.79%    5.64%
+IRAN              14,074       61       515      576      4.09%    3.66%
+                                       15
+IRAQ                6,659     35     315      350      5.26%    4.73%
+JAMAICA             308,173   309    10,251   10,560   3.43%    3.33%
+JORDAN              34,379    90     1,995    2,085    6.06%    5.80%
+KAZAKHSTAN          27,570    51     943      994      3.61%    3.42%
+KENYA               26,537    50     2,348    2,398    9.04%    8.85%
+KIRIBATI            66        -      1        1        1.52%    1.52%
+KOREA, NORTH        8         -      -        -        -        -
+KOSOVO              8,324     11     161      172      2.07%    1.93%
+KUWAIT              25,265    117    140      257      1.02%    0.55%
+KYRGYZSTAN          7,664     13     630      643      8.39%    8.22%
+LAOS                1,870     27     503      530      28.34%   26.90%
+LEBANON             27,732    31     449      480      1.73%    1.62%
+LESOTHO             331       -      1        1        0.30%    0.30%
+LIBERIA             1,741     10     247      257      14.76%   14.19%
+LIBYA               1,197     5      19       24       2.01%    1.59%
+MACEDONIA           9,463     14     84       98       1.04%    0.89%
+MADAGASCAR          1,454     1      59       60       4.13%    4.06%
+MALAWI              2,245     9      495      504      22.45%   22.05%
+MALAYSIA            61,668    37     425      462      0.75%    0.69%
+MALDIVES            278       -      4        4        1.44%    1.44%
+MALI                3,103     12     148      160      5.16%    4.77%
+MARSHALL ISLANDS    51        1      2        3        5.88%    3.92%
+MAURITANIA          548       7      45       52       9.49%    8.21%
+MAURITIUS           3,509     4      26       30       0.85%    0.74%
+MICRONESIA,         28        -      6        6        21.43%   21.43%
+FEDERATED STATES OF
+MOLDOVA             8,495     15     127      142      1.67%    1.49%
+MONGOLIA            13,595    20     351      371      2.73%    2.58%
+MONTENEGRO          4,480     12     147      159      3.55%    3.28%
+MOROCCO             33,851    61     456      517      1.53%    1.35%
+MOZAMBIQUE          1,473     3      84       87       5.91%    5.70%
+NAMIBIA             1,773     3      69       72       4.06%    3.89%
+NAURU               15        1      -        1        6.67%    -
+NEPAL               34,070    172    892      1,064    3.12%    2.62%
+NICARAGUA           76,905    58     1,260    1,318    1.71%    1.64%
+NIGER               574       1      76       77       13.41%   13.24%
+NIGERIA             124,443   216    6,701    6,917    5.56%    5.38%
+OMAN                3,232     10     20       30       0.93%    0.62%
+
+                                    16
+PAKISTAN            92,364    117    3,083   3,200   3.46%    3.34%
+PALAU               11        -      2       2       18.18%   18.18%
+PANAMA              127,873   70     811     881     0.69%    0.63%
+PAPUA NEW GUINEA    557       1      6       7       1.26%    1.08%
+PARAGUAY            21,114    32     530     562     2.66%    2.51%
+PERU                345,090   242    5,953   6,195   1.80%    1.73%
+PHILIPPINES         291,050   535    4,281   4,816   1.65%    1.47%
+QATAR               10,953    28     120     148     1.35%    1.10%
+ROMANIA             87,301    96     580     676     0.77%    0.66%
+RUSSIA              72,115    97     1,649   1,746   2.42%    2.29%
+RWANDA              4,360     11     216     227     5.21%    4.95%
+SAINT KITTS AND     11,920    8      148     156     1.31%    1.24%
+NEVIS
+SAINT LUCIA         16,957    23     254     277     1.63%    1.50%
+SAINT VINCENT AND   11,411    27     251     278     2.44%    2.20%
+THE GRENADINES
+SAMOA               2,238     20     159     179     8.00%    7.10%
+SAO TOME AND        6         -      1       1       16.67%   16.67%
+PRINCIPE
+SAUDI ARABIA        59,804    113    319     432     0.72%    0.53%
+SENEGAL             9,874     28     397     425     4.30%    4.02%
+SERBIA              28,656    30     288     318     1.11%    1.01%
+SEYCHELLES          246       -      2       2       0.81%    0.81%
+SIERRA LEONE        4,593     36     721     757     16.48%   15.70%
+SOLOMON ISLANDS     120       -      9       9       7.50%    7.50%
+SOMALIA             202       -      43      43      21.29%   21.29%
+SOUTH AFRICA        115,756   138    1,253   1,391   1.20%    1.08%
+SOUTH SUDAN         186       2      11      13      6.99%    5.91%
+SRI LANKA           16,636    19     387     406     2.44%    2.33%
+SUDAN               2,902     18     452     470     16.20%   15.58%
+SURINAME            13,217    9      4,107   4,116   31.14%   31.07%
+SWAZILAND           911       3      75      78      8.56%    8.23%
+SYRIA               5,314     9      368     377     7.09%    6.93%
+TAJIKISTAN          1,849     19     121     140     7.57%    6.54%
+TANZANIA            6,208     34     481     515     8.30%    7.75%
+THAILAND            69,445    85     2,021   2,106   3.03%    2.91%
+TIMOR-LESTE         44        -      1       1       2.27%    2.27%
+TOGO                2,589     21     396     417     16.11%   15.30%
+TONGA               2,358     12     140     152     6.45%    5.94%
+
+
+                                    17
+TRINIDAD AND   175,585      88        1,002     1,090     0.62%    0.57%
+TOBAGO
+TUNISIA        9,348        10        194       204       2.18%    2.08%
+TURKEY         159,538      218       2,354     2,572     1.61%    1.48%
+TURKMENISTAN   2,014        9         311       320       15.89%   15.44%
+TUVALU         43           -         5         5         11.63%   11.63%
+UGANDA         9,164        20        601       621       6.78%    6.56%
+UKRAINE        69,400       103       736       839       1.21%    1.06%
+UNITED ARAB    22,234       197       372       569       2.56%    1.67%
+EMIRATES
+URUGUAY        58,355       41        1,109     1,150     1.97%    1.90%
+UZBEKISTAN     10,223       55        406       461       4.51%    3.97%
+VANUATU        164          3         2         5         3.05%    1.22%
+VENEZUELA      222,151      335       18,706    19,041    8.57%    8.42%
+VIETNAM        105,184      277       1,458     1,735     1.65%    1.39%
+YEMEN          3,182        12        532       544       17.10%   16.72%
+ZAMBIA         4,223        8         445       453       10.73%   10.54%
+ZIMBABWE       9,154        24        698       722       7.89%    7.63%
+Totals:        12,131,255   13,739    269,382   283,121   2.33%    2.22%
+
+
+
+
+                                     18
+D. Fiscal Year 2024 Nonimmigrant Students and Exchange Visitors
+Overstay Rates
+Table 4
+Fiscal Year 2024 Overstay Rates for Nonimmigrant Students and Exchange Visitors (F, M,
+J) Admitted to the United States via Air and SeaportPorts of Entry (excluding Canada and
+                                          Mexico)
+                                                Suspected                        Suspected
+                                       Out-of-                          Total
+                          Expected                 In-       Total              In-Country
+Country of Citizenship                 Country                        Overstay
+                        Departures               Country Overstays               Overstay
+                                     Overstays                          Rate
+                                                Overstays                          Rate
+AFGHANISTAN            322           2         73         75         23.29% 22.67%
+ALBANIA                2,142         14        88         102        4.76%     4.11%
+ALGERIA                656           16        92         108        16.46% 14.02%
+ANDORRA                85            -         -          -          -         -
+ANGOLA                 707           14        141        155        21.92% 19.94%
+ANTIGUA AND            386           4         10         14         3.63%     2.59%
+BARBUDA
+ARGENTINA              15,642      74           313      387        2.47%     2.00%
+ARMENIA                986         9            52       61         6.19%     5.27%
+AUSTRALIA              11,852      123          62       185        1.56%     0.52%
+AUSTRIA                4,097       20           18       38         0.93%     0.44%
+AZERBAIJAN             1,139       7            44       51         4.48%     3.86%
+BAHAMAS, THE           6,018       70           101      171        2.84%     1.68%
+BAHRAIN                706         5            4        9          1.27%     0.57%
+BANGLADESH             7,413       63           611      674        9.09%     8.24%
+BARBADOS               621         9            10       19         3.06%     1.61%
+BELARUS                803         6            29       35         4.36%     3.61%
+BELGIUM                4,267       24           19       43         1.01%     0.45%
+BELIZE                 615         7            21       28         4.55%     3.41%
+BENIN                  310         2            112      114        36.77%    36.13%
+BHUTAN                 148         -            36       36         24.32%    24.32%
+BOLIVIA                2,597       21           74       95         3.66%     2.85%
+BOSNIA AND             1,234       7            29       36         2.92%     2.35%
+HERZEGOVINA
+BOTSWANA               418         2            12       14         3.35%     2.87%
+BRAZIL                 49,766      412          1,316    1,728      3.47%     2.64%
+BRUNEI                 91          2            3        5          5.49%     3.30%
+BULGARIA               5,631       46           62       108        1.92%     1.10%
+
+                                           19
+BURKINA FASO        366       3            81      84      22.95%   22.13%
+BURMA               2,246     37           1,291   1,328   59.13%   57.48%
+BURUNDI             141       1            14      15      10.64%   9.93%
+CABO VERDE          85        2            10      12      14.12%   11.76%
+CAMBODIA            599       8            33      41      6.84%    5.51%
+CAMEROON            670       5            142     147     21.94%   21.19%
+CENTRAL AFRICAN     28        -            1       1       3.57%    3.57%
+REPUBLIC
+CHAD                81        1            27      28      34.57%   33.33%
+CHILE               10,799    67           207     274     2.54%    1.92%
+CHINA               256,130   2,462        2,473   4,935   1.93%    0.97%
+COLOMBIA            39,020    399          2,259   2,658   6.81%    5.79%
+COMOROS             19        1            3       4       21.05%   15.79%
+CONGO               102       4            21      25      24.51%   20.59%
+(BRAZZAVILLE)
+CONGO (KINSHASA)    772       19           279     298     38.60%   36.14%
+COSTA RICA          4,440     21           59      80      1.80%    1.33%
+COTE D'IVOIRE       1,032     18           179     197     19.09%   17.34%
+CROATIA             2,988     26           15      41      1.37%    0.50%
+CUBA                100       1            8       9       9.00%    8.00%
+CYPRUS              905       2            4       6       0.66%    0.44%
+CZECH REPUBLIC      3,941     25           15      40      1.01%    0.38%
+DENMARK             4,169     33           15      48      1.15%    0.36%
+DJIBOUTI            19        -            4       4       21.05%   21.05%
+DOMINICA            501       4            18      22      4.39%    3.59%
+DOMINICAN           11,351    107          549     656     5.78%    4.84%
+REPUBLIC
+ECUADOR             13,991    115          965     1,080   7.72%    6.90%
+EGYPT               6,467     75           199     274     4.24%    3.08%
+EL SALVADOR         2,707     16           76      92      3.40%    2.81%
+EQUATORIAL GUINEA   216       5            122     127     58.80%   56.48%
+ERITREA             65        1            22      23      35.38%   33.85%
+ESTONIA             691       5            3       8       1.16%    0.43%
+ETHIOPIA            1,613     11           214     225     13.95%   13.27%
+FIJI                149       5            12      17      11.41%   8.05%
+FINLAND             2,039     10           8       18      0.88%    0.39%
+FRANCE              42,493    226          219     445     1.05%    0.52%
+GABON               242       5            38      43      17.77%   15.70%
+GAMBIA, THE         214       6            77      83      38.79%   35.98%
+
+
+                                      20
+GEORGIA         1,661     11           55      66      3.97%    3.31%
+GERMANY         38,981    220          141     361     0.93%    0.36%
+GHANA           3,262     36           642     678     20.78%   19.68%
+GREECE          5,650     14           23      37      0.65%    0.41%
+GRENADA         251       5            10      15      5.98%    3.98%
+GUATEMALA       3,521     15           64      79      2.24%    1.82%
+GUINEA          119       1            10      11      9.24%    8.40%
+GUINEA-BISSAU   22        -            -       -       -        -
+GUYANA          481       6            31      37      7.69%    6.44%
+HAITI           877       3            193     196     22.35%   22.01%
+HOLY SEE        -         -            -       -       -        -
+HONDURAS        4,731     39           132     171     3.61%    2.79%
+HUNGARY         4,177     25           17      42      1.01%    0.41%
+ICELAND         1,218     5            2       7       0.57%    0.16%
+INDIA           179,138   1,177        6,553   7,730   4.32%    3.66%
+INDONESIA       10,648    137          299     436     4.09%    2.81%
+IRAN            2,260     17           72      89      3.94%    3.19%
+IRAQ            787       8            47      55      6.99%    5.97%
+IRELAND         11,873    33           52      85      0.72%    0.44%
+ISRAEL          11,282    65           68      133     1.18%    0.60%
+ITALY           28,611    120          130     250     0.87%    0.45%
+JAMAICA         18,896    154          1,130   1,284   6.80%    5.98%
+JAPAN           38,147    244          185     429     1.12%    0.48%
+JORDAN          4,407     36           267     303     6.88%    6.06%
+KAZAKHSTAN      8,369     64           139     203     2.43%    1.66%
+KENYA           3,612     23           437     460     12.74%   12.10%
+KIRIBATI        14        -            -       -       -        -
+KOREA, NORTH    4         -            -       -       -        -
+KOREA, SOUTH    82,641    501          383     884     1.07%    0.46%
+KOSOVO          831       13           27      40      4.81%    3.25%
+KUWAIT          9,933     117          39      156     1.57%    0.39%
+KYRGYZSTAN      1,100     35           242     277     25.18%   22.00%
+LAOS            184       1            20      21      11.41%   10.87%
+LATVIA          795       5            5       10      1.26%    0.63%
+LEBANON         2,989     12           51      63      2.11%    1.71%
+LESOTHO         82        -            4       4       4.88%    4.88%
+LIBERIA         191       -            37      37      19.37%   19.37%
+LIBYA           345       5            67      72      20.87%   19.42%
+LIECHTENSTEIN   48        1            1       2       4.17%    2.08%
+
+                                  21
+LITHUANIA          1,824    5          11    16      0.88%    0.60%
+LUXEMBOURG         279      1          2     3       1.08%    0.72%
+MACEDONIA          1,239    13         44    57      4.60%    3.55%
+MADAGASCAR         240      5          29    34      14.17%   12.08%
+MALAWI             422      3          132   135     31.99%   31.28%
+MALAYSIA           6,421    113        64    177     2.76%    1.00%
+MALDIVES           54       1          6     7       12.96%   11.11%
+MALI               307      2          19    21      6.84%    6.19%
+MALTA              129      -          -     -       -        -
+MARSHALL ISLANDS   4        -          -     -       -        -
+MAURITANIA         102      1          2     3       2.94%    1.96%
+MAURITIUS          405      8          11    19      4.69%    2.72%
+MICRONESIA,        2        -          1     1       50.00%   50.00%
+FEDERATED STATES OF
+MOLDOVA             732     14         34    48      6.56%    4.64%
+MONACO             55       -          -     -       -        -
+MONGOLIA           3,891    48         140   188     4.83%    3.60%
+MONTENEGRO         1,699    15         77    92      5.41%    4.53%
+MOROCCO            2,698    24         120   144     5.34%    4.45%
+MOZAMBIQUE         246      2          15    17      6.91%    6.10%
+NAMIBIA            221      2          13    15      6.79%    5.88%
+NAURU              4        -          -     -       -        -
+NEPAL              4,937    44         462   506     10.25%   9.36%
+NETHERLANDS        9,530    57         40    97      1.02%    0.42%
+NEW ZEALAND        4,218    47         20    67      1.59%    0.47%
+NICARAGUA          919      6          18    24      2.61%    1.96%
+NIGER              164      5          22    27      16.46%   13.41%
+NIGERIA            8,311    92         897   989     11.90%   10.79%
+NORWAY             5,260    37         14    51      0.97%    0.27%
+OMAN               3,323    11         11    22      0.66%    0.33%
+PAKISTAN           10,941   76         408   484     4.42%    3.73%
+PALAU              4        -          -     -       -        -
+PANAMA             4,775    28         57    85      1.78%    1.19%
+PAPUA NEW GUINEA   142      5          17    22      15.49%   11.97%
+PARAGUAY           2,546    19         120   139     5.46%    4.71%
+PERU               18,533   162        608   770     4.15%    3.28%
+PHILIPPINES        9,042    88         928   1,016   11.24%   10.26%
+POLAND             7,931    34         61    95      1.20%    0.77%
+PORTUGAL           3,518    29         24    53      1.51%    0.68%
+
+                                  22
+QATAR                 1,059    11         2     13    1.23%    0.19%
+ROMANIA               9,427    81         169   250   2.65%    1.79%
+RUSSIA                7,088    56         223   279   3.94%    3.15%
+RWANDA                1,404    17         100   117   8.33%    7.12%
+SAINT KITTS AND NEVIS 266      2          6     8     3.01%    2.26%
+SAINT LUCIA           304      6          12    18    5.92%    3.95%
+SAINT VINCENT AND     162      -          9     9     5.56%    5.56%
+THE GRENADINES
+SAMOA                 50       -          5     5     10.00%   10.00%
+SAN MARINO            23       -          -     -     -        -
+SAO TOME AND          7        -          -     -     -        -
+PRINCIPE
+SAUDI ARABIA          31,355   463        306   769   2.45%    0.98%
+SENEGAL               635      9          74    83    13.07%   11.65%
+SERBIA                3,365    32         93    125   3.71%    2.76%
+SEYCHELLES            24       -          -     -     -        -
+SIERRA LEONE          240      4          82    86    35.83%   34.17%
+SINGAPORE             7,766    54         24    78    1.00%    0.31%
+SLOVAKIA              2,992    3          13    16    0.53%    0.43%
+SLOVENIA              670      1          3     4     0.60%    0.45%
+SOLOMON ISLANDS       34       1          -     1     2.94%    -
+SOMALIA               40       -          10    10    25.00%   25.00%
+SOUTH AFRICA          8,109    121        507   628   7.74%    6.25%
+SOUTH SUDAN           92       2          22    24    26.09%   23.91%
+SPAIN                 42,591   174        179   353   0.83%    0.42%
+SRI LANKA             1,966    17         44    61    3.10%    2.24%
+SUDAN                 386      9          37    46    11.92%   9.59%
+SURINAME              193      1          13    14    7.25%    6.74%
+SWAZILAND             167      2          8     10    5.99%    4.79%
+SWEDEN                8,129    42         30    72    0.89%    0.37%
+SWITZERLAND           5,919    33         14    47    0.79%    0.24%
+SYRIA                 289      3          24    27    9.34%    8.30%
+TAIWAN                27,516   183        133   316   1.15%    0.48%
+TAJIKISTAN            297      2          30    32    10.77%   10.10%
+TANZANIA              938      14         117   131   13.97%   12.47%
+THAILAND              16,007   76         267   343   2.14%    1.67%
+TIMOR-LESTE           56       1          -     1     1.79%    -
+TOGO                  218      2          54    56    25.69%   24.77%
+TONGA                 90       1          12    13    14.44%   13.33%
+
+                                     23
+TRINIDAD AND     2,600       20            43       63       2.42%    1.65%
+TOBAGO
+TUNISIA          1,296       15            109      124      9.57%    8.41%
+TURKEY           23,533      216           618      834      3.54%    2.63%
+TURKMENISTAN     342         4             62       66       19.30%   18.13%
+TUVALU           9           1             1        2        22.22%   11.11%
+UGANDA           1,163       12            143      155      13.33%   12.30%
+UKRAINE          4,803       19            121      140      2.91%    2.52%
+UNITED ARAB      2,890       29            13       42       1.45%    0.45%
+EMIRATES
+UNITED KINGDOM   43,441      282           215      497      1.14%    0.49%
+URUGUAY          1,125       10            9        19       1.69%    0.80%
+UZBEKISTAN       1,283       13            198      211      16.45%   15.43%
+VANUATU          14          -             -        -        -        -
+VENEZUELA        5,640       24            174      198      3.51%    3.09%
+VIETNAM          14,757      225           772      997      6.76%    5.23%
+YEMEN            436         5             107      112      25.69%   24.54%
+ZAMBIA           647         12            124      136      21.02%   19.17%
+ZIMBABWE         1,525       18            213      231      15.15%   13.97%
+Totals:          1,412,627   11,158        34,540   45,698   3.23%    2.45%
+
+
+
+
+                                      24
+E. Fiscal Year 2024 Overstay Rates for All Other In-scope Classes of
+Admission
+Table 5
+ Fiscal Year 2024 Overstay Rates for Other In-scope Nonimmigrant Classes of Admission
+    Admitted to the United States via Air and Seaport Portsof Entry for All Countries
+                             (excluding Canada and Mexico)
+                                                Suspected                      Suspected
+                                      Out-of-                          Total
+                          Expected                 In-       Total            In-Country
+Country of Citizenship                Country                        Overstay
+                        Departures               Country Overstays              Overstay
+                                    Overstays                          Rate
+                                                Overstays                        Rate
+AFGHANISTAN            279          -         80          80        28.67% 28.67%
+ALBANIA                540          2         20          22        4.07%     3.70%
+ALGERIA                312          3         26          29        9.29%     8.33%
+ANDORRA                13           -         -           -         -         -
+ANGOLA                 113          -         2           2         1.77%     1.77%
+ANTIGUA AND            108          1         1           2         1.85%     0.93%
+BARBUDA
+ARGENTINA             16,140       69          103      172       1.07%     0.64%
+ARMENIA               1,025        2           44       46        4.49%     4.29%
+AUSTRALIA             32,477       82          112      194       0.60%     0.34%
+AUSTRIA               4,772        16          8        24        0.50%     0.17%
+AZERBAIJAN            189          1           8        9         4.76%     4.23%
+BAHAMAS, THE          516          2           3        5         0.97%     0.58%
+BAHRAIN               85           1           1        2         2.35%     1.18%
+BANGLADESH            841          1           87       88        10.46%    10.34%
+BARBADOS              381          11          4        15        3.94%     1.05%
+BELARUS               770          4           30       34        4.42%     3.90%
+BELGIUM               6,075        13          11       24        0.40%     0.18%
+BELIZE                232          1           30       31        13.36%    12.93%
+BENIN                 84           -           8        8         9.52%     9.52%
+BHUTAN                17           -           -        -         -         -
+BOLIVIA               668          2           28       30        4.49%     4.19%
+BOSNIA AND            398          7           27       34        8.54%     6.78%
+HERZEGOVINA
+BOTSWANA              65           1           5        6         9.23%     7.69%
+BRAZIL                26,518       155         528      683       2.58%     1.99%
+BRUNEI                5            -           -        -         -         -
+BULGARIA              1,092        22          15       37        3.39%     1.37%
+BURKINA FASO          77           -           8        8         10.39%    10.39%
+
+                                          25
+BURMA              283      -          46      46      16.25%   16.25%
+BURUNDI            67       -          13      13      19.40%   19.40%
+CABO VERDE         209      1          50      51      24.40%   23.92%
+CAMBODIA           551      2          94      96      17.42%   17.06%
+CAMEROON           426      1          75      76      17.84%   17.61%
+CENTRAL AFRICAN    5        -          2       2       40.00%   40.00%
+REPUBLIC
+CHAD               6        -          1       1       16.67%   16.67%
+CHILE              11,098   110        138     248     2.23%    1.24%
+CHINA              32,858   121        308     429     1.31%    0.94%
+COLOMBIA           20,963   74         783     857     4.09%    3.74%
+COMOROS            1        -          -       -       -        -
+CONGO              26       -          6       6       23.08%   23.08%
+(BRAZZAVILLE)
+CONGO (KINSHASA)   290      4          81      85      29.31%   27.93%
+COSTA RICA         3,584    24         52      76      2.12%    1.45%
+COTE D'IVOIRE      203      -          39      39      19.21%   19.21%
+CROATIA            1,006    5          4       9       0.89%    0.40%
+CUBA               1,192    8          204     212     17.79%   17.11%
+CYPRUS             172      -          -       -       -        -
+CZECH REPUBLIC     2,206    6          8       14      0.63%    0.36%
+DENMARK            4,447    10         9       19      0.43%    0.20%
+DJIBOUTI           11       -          1       1       9.09%    9.09%
+DOMINICA           129      -          2       2       1.55%    1.55%
+DOMINICAN REPUBLIC 10,637   79         1,055   1,134   10.66%   9.92%
+
+ECUADOR           2,857     16         176     192     6.72%    6.16%
+EGYPT             2,439     6          90      96      3.94%    3.69%
+EL SALVADOR       9,053     668        1,068   1,736   19.18%   11.80%
+EQUATORIAL GUINEA 13        -          -       -       -        -
+ERITREA           95        1          17      18      18.95%   17.89%
+ESTONIA           495       -          2       2       0.40%    0.40%
+ETHIOPIA          1,024     -          138     138     13.48%   13.48%
+FIJI              53        -          6       6       11.32%   11.32%
+FINLAND           2,535     6          8       14      0.55%    0.32%
+FRANCE            39,776    97         136     233     0.59%    0.34%
+GABON             14        -          2       2       14.29%   14.29%
+GAMBIA, THE       129       -          24      24      18.60%   18.60%
+GEORGIA           293       2          7       9       3.07%    2.39%
+                                  26
+GERMANY         40,364    69         86      155     0.38%    0.21%
+GHANA           1,390     8          166     174     12.52%   11.94%
+GREECE          2,831     5          13      18      0.64%    0.46%
+GRENADA         166       -          13      13      7.83%    7.83%
+GUATEMALA       14,904    724        2,054   2,778   18.64%   13.78%
+GUINEA          139       1          34      35      25.18%   24.46%
+GUINEA-BISSAU   1         -          -       -       -        -
+GUYANA          285       2          31      33      11.58%   10.88%
+HAITI           1,261     2          418     420     33.31%   33.15%
+HOLY SEE        -         -          -       -       -        -
+HONDURAS        9,690     449        1,541   1,990   20.54%   15.90%
+HUNGARY         1,367     13         15      28      2.05%    1.10%
+ICELAND         300       1          -       1       0.33%    -
+INDIA           390,707   676        3,263   3,939   1.01%    0.84%
+INDONESIA       1,403     8          91      99      7.06%    6.49%
+IRAN            637       4          50      54      8.48%    7.85%
+IRAQ            503       4          80      84      16.70%   15.90%
+IRELAND         10,392    47         38      85      0.82%    0.37%
+ISRAEL          9,928     18         64      82      0.83%    0.64%
+ITALY           25,248    69         89      158     0.63%    0.35%
+JAMAICA         21,472    992        1,731   2,723   12.68%   8.06%
+JAPAN           75,132    92         136     228     0.30%    0.18%
+JORDAN          1,141     6          47      53      4.65%    4.12%
+KAZAKHSTAN      810       9          27      36      4.44%    3.33%
+KENYA           1,315     1          155     156     11.86%   11.79%
+KIRIBATI        1         -          -       -       -        -
+KOREA, NORTH    4         -          -       -       -        -
+KOREA, SOUTH    30,381    123        131     254     0.84%    0.43%
+KOSOVO          258       2          20      22      8.53%    7.75%
+KUWAIT          88        1          3       4       4.55%    3.41%
+KYRGYZSTAN      101       4          12      16      15.84%   11.88%
+LAOS            297       2          75      77      25.93%   25.25%
+LATVIA          354       7          4       11      3.11%    1.13%
+LEBANON         1,988     9          46      55      2.77%    2.31%
+LESOTHO         7         -          1       1       14.29%   14.29%
+LIBERIA         251       -          78      78      31.08%   31.08%
+LIBYA           30        -          1       1       3.33%    3.33%
+LIECHTENSTEIN   14        -          -       -       -        -
+LITHUANIA       881       32         15      47      5.33%    1.70%
+
+                                27
+LUXEMBOURG          96       3          -       3       3.13%    -
+MACEDONIA           421      18         21      39      9.26%    4.99%
+MADAGASCAR          41       -          9       9       21.95%   21.95%
+MALAWI              55       1          3       4       7.27%    5.45%
+MALAYSIA            2,058    7          19      26      1.26%    0.92%
+MALDIVES            2        -          -       -       -        -
+MALI                95       1          8       9       9.47%    8.42%
+MALTA               122      -          1       1       0.82%    0.82%
+MARSHALL ISLANDS    -        -          -       -       -        -
+MAURITANIA          25       -          1       1       4.00%    4.00%
+MAURITIUS           145      2          2       4       2.76%    1.38%
+MICRONESIA,         -        -          -       -       -        -
+FEDERATED STATES OF
+MOLDOVA             287      2          17      19      6.62%    5.92%
+MONACO              56       -          -       -       -        -
+MONGOLIA            431      21         47      68      15.78%   10.90%
+MONTENEGRO          178      -          12      12      6.74%    6.74%
+MOROCCO             785      2          41      43      5.48%    5.22%
+MOZAMBIQUE          50       1          3       4       8.00%    6.00%
+NAMIBIA             49       4          2       6       12.24%   4.08%
+NAURU               -        -          -       -       -        -
+NEPAL               1,482    5          64      69      4.66%    4.32%
+NETHERLANDS         10,186   32         28      60      0.59%    0.27%
+NEW ZEALAND         3,452    23         19      42      1.22%    0.55%
+NICARAGUA           1,869    3          76      79      4.23%    4.07%
+NIGER               49       -          5       5       10.20%   10.20%
+NIGERIA             4,034    8          251     259     6.42%    6.22%
+NORWAY              3,217    6          9       15      0.47%    0.28%
+OMAN                47       -          -       -       -        -
+PAKISTAN            3,911    17         166     183     4.68%    4.24%
+PALAU               -        -          -       -       -        -
+PANAMA              1,710    5          29      34      1.99%    1.70%
+PAPUA NEW GUINEA    7        -          -       -       -        -
+PARAGUAY            341      -          7       7       2.05%    2.05%
+PERU                5,129    24         291     315     6.14%    5.67%
+PHILIPPINES         19,511   275        3,326   3,601   18.46%   17.05%
+POLAND              4,261    16         33      49      1.15%    0.77%
+PORTUGAL            3,113    13         12      25      0.80%    0.39%
+
+                                   28
+QATAR                 24       -          -     -     -        -
+ROMANIA               3,358    92         60    152   4.53%    1.79%
+RUSSIA                5,179    33         160   193   3.73%    3.09%
+RWANDA                230      1          34    35    15.22%   14.78%
+SAINT KITTS AND NEVIS 76       2          3     5     6.58%    3.95%
+
+SAINT LUCIA           72       -          7     7     9.72%    9.72%
+SAINT VINCENT AND     57       -          2     2     3.51%    3.51%
+THE GRENADINES
+SAMOA                 8        -          1     1     12.50%   12.50%
+SAN MARINO            1        -          -     -     -        -
+SAO TOME AND          -        -          -     -     -        -
+PRINCIPE
+SAUDI ARABIA          851      5          4     9     1.06%    0.47%
+SENEGAL               229      10         28    38    16.59%   12.23%
+SERBIA                2,357    99         69    168   7.13%    2.93%
+SEYCHELLES            2        -          -     -     -        -
+SIERRA LEONE          189      1          45    46    24.34%   23.81%
+SINGAPORE             4,422    10         21    31    0.70%    0.47%
+SLOVAKIA              936      4          4     8     0.85%    0.43%
+SLOVENIA              410      2          1     3     0.73%    0.24%
+SOLOMON ISLANDS       3        -          -     -     -        -
+SOMALIA               59       -          11    11    18.64%   18.64%
+SOUTH AFRICA          18,294   246        220   466   2.55%    1.20%
+SOUTH SUDAN           26       -          8     8     30.77%   30.77%
+SPAIN                 24,671   66         69    135   0.55%    0.28%
+SRI LANKA             648      4          21    25    3.86%    3.24%
+SUDAN                 133      -          11    11    8.27%    8.27%
+SURINAME              92       -          -     -     -        -
+SWAZILAND             24       -          2     2     8.33%    8.33%
+SWEDEN                6,703    10         17    27    0.40%    0.25%
+SWITZERLAND           4,912    8          9     17    0.35%    0.18%
+SYRIA                 376      2          40    42    11.17%   10.64%
+TAIWAN                8,910    25         28    53    0.59%    0.31%
+TAJIKISTAN            75       -          18    18    24.00%   24.00%
+TANZANIA              230      1          14    15    6.52%    6.09%
+THAILAND              2,700    24         243   267   9.89%    9.00%
+TIMOR-LESTE           -        -          -     -     -        -
+TOGO                  146      -          33    33    22.60%   22.60%
+
+                                     29
+TONGA            34          3            4        7        20.59%   11.76%
+TRINIDAD AND     2,202       3            33       36       1.63%    1.50%
+TOBAGO
+TUNISIA          427         1            17       18       4.22%    3.98%
+TURKEY           6,193       85           174      259      4.18%    2.81%
+TURKMENISTAN     22          -            2        2        9.09%    9.09%
+TUVALU           -           -            -        -        -        -
+UGANDA           620         19           63       82       13.23%   10.16%
+UKRAINE          4,037       68           64       132      3.27%    1.59%
+UNITED ARAB      30          -            1        1        3.33%    3.33%
+EMIRATES
+UNITED KINGDOM   71,363      152          297      449      0.63%    0.42%
+URUGUAY          923         5            10       15       1.63%    1.08%
+UZBEKISTAN       280         8            32       40       14.29%   11.43%
+VANUATU          4           -            -        -        -        -
+VENEZUELA        9,224       32           324      356      3.86%    3.51%
+VIETNAM          3,191       11           253      264      8.27%    7.93%
+YEMEN            103         -            11       11       10.68%   10.68%
+ZAMBIA           84          -            11       11       13.10%   13.10%
+ZIMBABWE         487         -            18       18       3.70%    3.70%
+Totals:          1,141,821   6,538        23,361   29,899   2.62%    2.05%
+
+
+
+
+                                     30
+F. Fiscal Year 2024 Canada and Mexico Nonimmigrant Overstay Rates
+Table 6
+ Fiscal Year 2024 Overstay Rates for Canadian and Mexican Nonimmigrants Admitted to
+                   the United States via Air and Seaport Ports of Entry
+                                              Suspected                         Suspected
+                                   Out-of-                            Total
+    Country of        Expected                    In-      Total               In-Country
+                                  Country                           Overstay
+    Citizenship      Departures                Country Overstays                Overstay
+                                 Overstays                            Rate
+                                              Overstays                           Rate
+CANADA              9,131,306    5,937       17,707     23,644     0.26%     0.19%
+MEXICO              3,472,736    2,395       49,688     52,083     1.50%     1.43%
+B1/B2 Totals:       12,604,042 8,332         67,395     75,727     0.60%     0.53%
+CANADA              63,825       257         181        438        0.69%     0.28%
+MEXICO              53,561       334         1,054      1,388      2.59%     1.97%
+F, M, J Totals:     117,386      591         1,235      1,826      1.56%     1.05%
+CANADA              234,077      739         488        1,227      0.52%     0.21%
+MEXICO              162,669      1,774       6,197      7,971      4.90%     3.81%
+Other In-scope      396,746      2,513       6,685      9,198      1.68%     1.68%
+Totals:
+CANADA              9,429,208    6,933       18,376     25,309     0.27%     0.19%
+MEXICO              3,688,966    4,503       56,939     61,442     1.67%     1.54%
+Totals:             13,118,174 11,436        75,315     86,751     0.66%     0.57%
+
+Table 6 represents Canadian and Mexican nonimmigrant visitors admitted at air and seaport port
+of entry who were expected to depart in Fiscal Year 2024. Unlike all other countries, the
+majority of travelers from Canada or Mexico enter the United States by land. Overstay data
+concerning land exits from the United States along the Southern border will be further
+incorporated into future iterations of this report as additional exit data collection projects
+progress.
+
+G. Fiscal Year 2023 Suspected In-Country Overstay Trend
+This section presents the change in the Fiscal Year 2023 Suspected In-Country Overstay rates by
+groups of major admission classes over the course of Fiscal Year 2023. Table 7 provides a 7-, 9-,
+and 12-month snapshot of the Fiscal Year 2023 data, Suspected In-Country Overstay figures, and
+the associated rates. Complete Fiscal Year 2023 data appear in the appendix of this report.
+
+At the end of Fiscal Year 2023, the overall Suspected In-Country Overstay number was 510,363
+or 1.31 percent. At the end April 2024, the number further decreased to 399,708 or 1.02 percent.
+By the end of June 2024, the number decreased to 388,366 or 1.00 percent. Finally, as of
+October 1, 2024, the number of Suspected In-Country Overstays had further decreased to
+351,620 rendering the Fiscal Year 2023 Suspected In-Country Overstay rate 0.90 percent.
+
+                                               31
+32
+Table 7
+Fiscal Year 2023 Suspected In-Country Overstay rates over time for Nonimmigrants admitted to the United States via Air and
+                                                      Seaport Ports of Entry
+                                                                             Suspected In-Country Overstay
+                                             Expected
+             Admission Type                                 Fiscal Year       7 Months as       9 Months as   12 Months
+                                            Departures
+                                                           2023 Report         of 4/30/24        of 6/30/24  as of 10/1/24
+Visa Waiver Program Countries Business or 16,146,989     86,946 0.54% 71,473 0.44%           69,584 0.43%   63,291 0.39%
+Pleasure Visitors
+Non-Visa Waiver Program Countries          9,810,543    298,560 3.04% 237,180 2.42%      230,978 2.35%      210,369 2.14%
+Business or Pleasure Visitors (excluding
+Canada and Mexico)
+Student and Exchange Visitors (excluding   1,345,378    38,152   2.84% 29,210   2.17%    28,436   2.11%     26,100 1.94%
+Canada and Mexico)
+All Other In-Scope Nonimmigrant Visitors   760,047      16,896   2.22% 11,903   1.57%    11,421   1.50%     10,272 1.35%
+(excluding Canada and Mexico)
+Canada and Mexico Nonimmigrant Visitors    10,942,755   69,809 0.64% 49,942 0.46%        47,947 0.44%       41,588 0.38%
+Totals:                                    39,005,712   510,363 1.31% 399,708 1.02%      388,366 1.00%      351,620 0.90%
+V. Conclusion
+
+Identifying aliens who overstay their authorized periods of admission is important for national
+security, public safety, immigration enforcement, and maintaining the integrity of the
+immigration benefits system.
+
+Over the years, U.S. Customs and Border Protection has significantly improved data collection
+processes in the entry and exit environments. These improvements include the collection of data
+on all admissions to the United States by foreign nationals, reduced documentation for entry to
+the United States, collection of biometric data on most foreign travelers to the United States, and
+comparison of data against criminal and terrorist watchlists. Despite the different infrastructural,
+operational, and logistical challenges presented in the exit environment, U.S. Customs and
+Border Protection is working to resolve many issues regarding collection of departure
+information for foreign nationals. Further efforts, including partnerships with foreign
+governments and the private sector (e.g., airlines, airports, cruise lines), are ongoing and continue
+to improve data integrity.
+
+During recent years, U.S. Customs and Border Protection made significant progress in terms of
+the ability to accurately report data on overstays. U.S. Customs and Border Protection will
+continue to expand its entry and exit system, which will improve U.S. Customs and Border
+Protection’s ability to capture and accurately report this data. The Department of Homeland
+Security works to annually release overstay data and looks forward to providing updates to
+Members of Congress and their staff on future progress.
+
+
+
+
+                                                 34
+VI. Appendices
+
+Appendix A. In-Scope Nonimmigrant Classes of Admission
+ CLASS OF ADMISSION DESCRIPTION                                                                   CODE
+ Temporary Workers and Trainees
+        Commonwealth of the Northern Mariana Islands-only transitional workers                    CW1
+        Spouses and children of CW1                                                               CW2
+        Temporary workers in specialty occupations                                                H1B
+        Chile and Singapore Free Trade Agreement aliens                                           H1B1
+        Registered nurses participating in the Nursing Relief for Disadvantaged Areas             H1C
+        Agricultural workers                                                                      H2A
+        Nonagricultural workers                                                                   H2B
+        Returning H2B workers                                                                     H2R
+        Trainees                                                                                  H3
+        Spouse and unmarried child(ren) under 21 years of age of H1B, H1B1, H1C, H2A, H2B, H2R,   H4
+         or H3
+        Workers with extraordinary ability or achievement                                         O1
+        Workers accompanying and assisting in performance of O1 workers                           O2
+        Spouses and children of O1 and O2                                                         O3
+        Internationally recognized athletes or entertainers                                       P1
+        Artists or entertainers in reciprocal exchange programs                                   P2
+        Artists or entertainers in culturally unique programs                                     P3
+        Spouses and children of P1, P2, or P3                                                     P4
+        Workers in international cultural exchange programs                                       Q1
+        Workers in religious occupations                                                          R1
+        Spouses and children of R1                                                                R2
+        North American Free Trade Agreement professional workers                                  TN
+        Spouses and children of TN                                                                TD
+ Intracompany Transferees
+        Intracompany transferees                                                                  L1 2221F
+
+
+
+
+        Spouses and children of L1                                                                L2
+ Treaty Traders and Investors
+        Treaty traders and their spouses and children                                             E1
+        Treaty investors and their spouses and children                                           E2
+        Treaty investors and their spouses and children Commonwealth of the Northern Mariana      E2C
+         Islands- only
+        Australian Free Trade Agreement principals, spouses, and children                         E3 232F
+
+
+
+
+ Students
+        Academic students                                                                         F1
+        Spouses and children of F1                                                                F2
+        Vocational students                                                                       M1
+        Spouses and children of M1                                                                M2
+ Exchange Visitors
+        Exchange visitors                                                                         J1
+        Spouses and children of J1                                                                J2
+ Temporary Visitors for Pleasure
+
+
+22
+     Includes L1A and L1B classes of admission
+23
+     Includes E3D and E3R classes of admission
+
+                                                    35
+        Temporary visitors for pleasure                                                      B2
+        Visa Waiver Program – temporary visitors for pleasure                                Waiver-
+                                                                                             Tourist
+Temporary Visitors for Business
+      Temporary visitors for business                                                        B1
+      Visa Waiver Program – temporary visitors for business                                  Waiver-
+                                                                                             Business
+Alien Fiancées of United States Citizens and Children
+        Fiancées of United States citizens                                                   K1
+        Children of K1                                                                       K2
+Legal Immigration Family Equity LIFE Act
+        Spouses of United States citizens, visa pending                                      K3
+        Children of United States citizens, visa pending                                     K4
+        Spouses of permanent residents, visa pending                                         V1
+        Children of permanent residents, visa pending                                        V2
+        Dependents of V1 or V2, visa pending                                                 V3
+Other
+        Attendants, servants, or personal employees of A1 and A2 and their families          A3
+        Attendants, servants, or personal employees of diplomats or other representatives    G5
+        Attendant, servant, personal employer of North Atlantic Treaty Organization NATO-1   NATO-
+        through NATO-6 or Immediate Family                                                   7
+
+
+
+
+                                                     36
+Appendix B. Out-of-Scope Nonimmigrant Classes of Admission
+CLASS OF ADMISSION DESCRIPTION                                                             CODE
+Diplomats and Other Representatives
+        Representatives of foreign information media and spouses and children              I1
+        Ambassadors, public ministers, career diplomatic/consular officers and families    A1
+        Other foreign government officials or employees and their families                 A2
+        Principals of recognized foreign governments                                       G1
+        Other representatives of recognized foreign governments                            G2
+        Representatives of non-recognized or nonmember foreign governments                 G3
+        International organization officers or employees                                   G4
+        North Atlantic Treaty Organization officials, spouses, and children                NATO-1 to NATO-6
+Transit Aliens
+        Aliens in continuous and immediate transit through the United States               C1
+        Aliens in transit to the United Nations                                            C2
+        Foreign government officials, their spouses, children, and attendants in transit   C3
+Special Classes
+        Alien Witness or Informant                                                         S5
+        Alien Witness or Informant                                                         S6
+        Qualified Family Member of S5, S6                                                  S7
+        Victim of Trafficking, Special Protected Class                                     T1
+        Spouse of T1, Special Protected Class                                              T2
+        Spouse of T1, Special Protected Class                                              T3
+        Parent of T1, Special Protected Class                                              T4
+        Sibling unmarried of T1, Special Protected Class                                   T5
+        Victim of Criminal Activity, Special Protected Class                               U1
+        Spouse of U2, Special Protected Class                                              U2
+        Spouse of U1, Special Protected Class                                              U3
+        Parent of U1, Special Protected Class                                              U4
+        Sibling unmarried of U1, Special Protected Class                                   U5
+        Special Protected Class, Violence against Women Act                                VAWA
+Other
+        Crewmen                                                                            D1
+        Crewman-different vessel/flight                                                    D2
+
+
+
+
+                                                       37
+Appendix C. Fiscal Year 2023 Entry and Exit Overstay Data
+Fiscal Year 2023 Entry/Exit Overstay Data Overview
+Below are the tabulated rates from Fiscal Year 2023 entry and exit overstay data. Fiscal Year
+2023 data provide information on expected departures and overstays, by country, for foreign
+travelers to the United States who were admitted as nonimmigrants at an air or seaport port of
+entry and were expected to depart in Fiscal Year 2023 (October 1, 2022 – September 30, 2023).
+This is determined by examining the number of admissions, by country, for foreign travelers who
+arrived as nonimmigrants during this time as of October 1, 2023.
+
+At the end of Fiscal Year 2023, the overall Suspected In-Country Overstay number – i.e., those
+for whom Department of Homeland Security did not have evidence of a departure or transition to
+another immigration status – was 510,363 or 1.31 percent. As of October 1, 2024, the number of
+Suspected In-Country Overstays had further decreased to 351,620 rendering the Fiscal Year 2023
+Suspected In-Country Overstay rate 0.90 percent.
+
+Fiscal Year 2023 Overstay Rate Summary
+Table C-1 below provides a high-level summary of the country-by-country data identified in
+Tables C-2 through C-6.
+
+Table C-1
+   Fiscal Year 2023 Summary Overstay Rates for Nonimmigrants Admitted to the United
+                        States via Air and Seaport Ports of Entry
+                                                                              Suspected
+                                    Out-of- Suspected                Total
+                        Expected                            Total           In-Country
+    Admission Type                  Country In-Country             Overstay
+                       Departures                        Overstays           Overstay
+                                   Overstays Overstays                Rate
+                                                                                Rate
+Visa Waiver Program
+Countries
+Business or Pleasure
+Visitors (Table C-2)  16,157,939 12,529      86,987      99,516    0.62%    0.54%
+Non-Visa Waiver
+Program Countries
+Business or Pleasure
+Visitors (excluding
+Canada and Mexico)
+(Table C-3)           9,799,593 15,536       298,519     314,055 3.20%      3.05%
+Student and Exchange
+Visitors (excluding
+Canada and Mexico)
+(Table C-4)           1,345,378 11,262       38,152      49,414    3.67%    2.84%
+
+
+
+
+                                              38
+All Other In-Scope
+Nonimmigrant Visitors
+(excluding Canada and
+Mexico) (Table C-5)   760,047    5,831      16,896      22,727     2.99%    2.22%
+Canada and Mexico
+Nonimmigrant Visitors
+(Table C-6)           10,942,755 9,634      69,809      79,443     0.73%    0.64%
+Totals:               39,005,712 54,792     510,363     565,155    1.45%    1.31%
+
+Table C-2
+Fiscal Year 2023 Overstay Rates for Nonimmigrant Visitors Admitted to the United States
+ for Business or Pleasure (Waiver-Business/ Waiver-Tourist/B-1/B-2) via Air and Seaport
+                    Ports of Entry for Visa Waiver Program Countries
+                                Out-of- Suspected             Total    Suspected
+   Country of      Expected                          Total
+                               Country In-Country            Overstay In-Country
+   Citizenship    Departures                       Overstays
+                               Overstays Overstays            Rate Overstay Rate
+ANDORRA        1,210           -          11          11          0.91%    0.91%
+AUSTRALIA      841,665         774        2,444       3,218       0.38%    0.29%
+AUSTRIA        163,914         64         538         602         0.37%    0.33%
+BELGIUM        239,873         113        737         850         0.35%    0.31%
+BRUNEI         697             -          7           7           1.00%    1.00%
+CHILE          466,799         1,347      10,886      12,233      2.62%    2.33%
+CROATIA        10,950          15         41          56          0.51%    0.37%
+CZECH REPUBLIC 102,127         92         438         530         0.52%    0.43%
+DENMARK        228,138         78         521         599         0.26%    0.23%
+ESTONIA        20,681          14         64          78          0.38%    0.31%
+FINLAND        105,123         49         207         256         0.24%    0.20%
+FRANCE         1,672,440       726        8,456       9,182       0.55%    0.51%
+GERMANY        1,686,672       695        5,289       5,984       0.35%    0.31%
+GREECE         79,215          217        769         986         1.24%    0.97%
+HUNGARY        76,322          173        732         905         1.19%    0.96%
+ICELAND        43,541          18         50          68          0.16%    0.11%
+IRELAND        488,464         264        1,527       1,791       0.37%    0.31%
+ITALY          1,010,549       896        7,265       8,161       0.81%    0.72%
+JAPAN          872,061         195        1,135       1,330       0.15%    0.13%
+KOREA, SOUTH   871,142         620        1,975       2,595       0.30%    0.23%
+LATVIA         19,649          56         175         231         1.18%    0.89%
+LIECHTENSTEIN 1,218            -          2           2           0.16%    0.16%
+LITHUANIA      37,317          79         256         335         0.90%    0.69%
+
+
+                                          39
+LUXEMBOURG       11,605        -          37         37         0.32%    0.32%
+MALTA            6,784         6          40         46         0.68%    0.59%
+MONACO           731           2          1          3          0.41%    0.14%
+NETHERLANDS      601,197       315        2,154      2,469      0.41%    0.36%
+NEW ZEALAND      243,319       229        599        828        0.34%    0.25%
+NORWAY           165,503       65         359        424        0.26%    0.22%
+POLAND           294,424       381        1,533      1,914      0.65%    0.52%
+PORTUGAL         167,920       429        3,425      3,854      2.30%    2.04%
+SAN MARINO       360           1          -          1          0.28%    -
+SINGAPORE        109,634       84         221        305        0.28%    0.20%
+SLOVAKIA         42,325        63         247        310        0.73%    0.58%
+SLOVENIA         21,775        10         62         72         0.33%    0.28%
+SPAIN            841,671       1,837      18,192     20,029     2.38%    2.16%
+SWEDEN           280,292       151        736        887        0.32%    0.26%
+SWITZERLAND      272,287       128        921        1,049      0.39%    0.34%
+TAIWAN           209,689       447        1,119      1,566      0.75%    0.53%
+UNITED           3,848,656     1,896      13,816     15,712     0.41%    0.36%
+KINGDOM
+Totals:          16,157,939    12,529     86,987     99,516     0.62%    0.54%
+
+Table C-3
+  Fiscal Year 2023 Overstay Rates for Nonimmigrants Admitted to the United States for
+  Business or Pleasure via Air and Seaport Ports of Entry for Non-Visa Waiver Program
+                        Countries (excluding Canada and Mexico)
+                                               Suspected                      Suspected
+                                       Out-of-                         Total
+                          Expected                 In-                       In-Country
+ Country of Citizenship               Country                Total Overstay
+                         Departures             Country                       Overstay
+                                     Overstays            Overstays Rate
+                                               Overstays                        Rate
+AFGHANISTAN              1,227       8         111        119       9.70%    9.05%
+ALBANIA                  16,714      34        392        426       2.55%    2.35%
+ALGERIA                  8,404       34        469        503       5.99%    5.58%
+ANGOLA                   2,935       10        398        408       13.90% 13.56%
+ANTIGUA AND BARBUDA 13,368           19        166        185       1.38%    1.24%
+ARGENTINA                561,808     312       5,118      5,430     0.97%    0.91%
+ARMENIA                  11,928      38        989        1,027     8.61%    8.29%
+AZERBAIJAN               4,736       13        115        128       2.70%    2.43%
+BAHAMAS, THE             230,325     366       2,922      3,288     1.43%    1.27%
+BAHRAIN                  3,850       5         69         74        1.92%    1.79%
+BANGLADESH               29,041      54        1,939      1,993     6.86%    6.68%
+BARBADOS                 38,365      37        164        201       0.52%    0.43%
+
+                                          40
+BELARUS               5,736       14           505      519      9.05%    8.80%
+BELIZE                28,666      36           977      1,013    3.53%    3.41%
+BENIN                 1,508       14           160      174      11.54%   10.61%
+BHUTAN                181         1            22       23       12.71%   12.15%
+BOLIVIA               62,279      88           3,282    3,370    5.41%    5.27%
+BOSNIA AND            6,531       19           52       71       1.09%    0.80%
+HERZEGOVINA
+BOTSWANA              1,803       5            105      110      6.10%    5.82%
+BRAZIL                1,288,512   1,234        19,577   20,811   1.62%    1.52%
+BULGARIA              24,059      36           128      164      0.68%    0.53%
+BURKINA FASO          2,605       10           306      316      12.13%   11.75%
+BURMA                 2,006       13           530      543      27.07%   26.42%
+BURUNDI               808         1            123      124      15.35%   15.22%
+CABO VERDE            2,289       10           284      294      12.84%   12.41%
+CAMBODIA              7,657       11           189      200      2.61%    2.47%
+CAMEROON              8,537       83           830      913      10.69%   9.72%
+CENTRAL AFRICAN       117         1            9        10       8.55%    7.69%
+REPUBLIC
+CHAD                  761         6            371      377      49.54%   48.75%
+CHINA                 375,674     2,324        11,481   13,805   3.67%    3.06%
+COLOMBIA              944,995     1,103        39,781   40,884   4.33%    4.21%
+COMOROS               35          1            1        2        5.71%    2.86%
+CONGO (BRAZZAVILLE)   962         2            283      285      29.63%   29.42%
+CONGO (KINSHASA)      6,447       15           958      973      15.09%   14.86%
+COSTA RICA            268,822     138          6,113    6,251    2.33%    2.27%
+COTE D'IVOIRE         4,451       22           311      333      7.48%    6.99%
+CUBA                  11,612      20           873      893      7.69%    7.52%
+CYPRUS                6,673       5            33       38       0.57%    0.49%
+DJIBOUTI              159         1            37       38       23.90%   23.27%
+DOMINICA              5,654       11           199      210      3.71%    3.52%
+DOMINICAN REPUBLIC    440,894     321          19,938   20,259   4.59%    4.52%
+ECUADOR               365,857     282          13,822   14,104   3.86%    3.78%
+EGYPT                 58,071      100          2,318    2,418    4.16%    3.99%
+EL SALVADOR           227,146     178          3,823    4,001    1.76%    1.68%
+EQUATORIAL GUINEA     910         10           190      200      21.98%   20.88%
+ERITREA               667         5            129      134      20.09%   19.34%
+ETHIOPIA              15,809      75           1,150    1,225    7.75%    7.27%
+FIJI                  7,856       26           345      371      4.72%    4.39%
+GABON                 1,050       6            108      114      10.86%   10.29%
+
+                                          41
+GAMBIA, THE        1,258       12           127      139      11.05%   10.10%
+GEORGIA            7,378       18           718      736      9.98%    9.73%
+GHANA              25,454      60           1,850    1,910    7.50%    7.27%
+GRENADA            9,661       16           169      185      1.91%    1.75%
+GUATEMALA          271,320     194          5,405    5,599    2.06%    1.99%
+GUINEA             1,887       15           140      155      8.21%    7.42%
+GUINEA-BISSAU      88          -            5        5        5.68%    5.68%
+GUYANA             56,965      116          3,070    3,186    5.59%    5.39%
+HAITI              86,906      274          26,995   27,269   31.38%   31.06%
+HOLY SEE           15          -            -        -        -        -
+HONDURAS           253,410     220          10,117   10,337   4.08%    3.99%
+INDIA              1,000,020   2,064        10,818   12,882   1.29%    1.08%
+INDONESIA          74,847      81           3,091    3,172    4.24%    4.13%
+IRAN               9,561       69           408      477      4.99%    4.27%
+IRAQ               4,716       29           264      293      6.21%    5.60%
+ISRAEL             357,402     196          1,907    2,103    0.59%    0.53%
+JAMAICA            233,668     337          11,931   12,268   5.25%    5.11%
+JORDAN             25,560      90           1,414    1,504    5.88%    5.53%
+KAZAKHSTAN         20,240      55           810      865      4.27%    4.00%
+KENYA              20,351      67           1,536    1,603    7.88%    7.55%
+KIRIBATI           53          -            2        2        3.77%    3.77%
+KOREA, NORTH       1           -            -        -        -        -
+KOSOVO             4,960       9            112      121      2.44%    2.26%
+KUWAIT             23,001      126          149      275      1.20%    0.65%
+KYRGYZSTAN         4,640       9            504      513      11.06%   10.86%
+LAOS               1,898       11           649      660      34.77%   34.19%
+LEBANON            24,217      33           586      619      2.56%    2.42%
+LESOTHO            233         1            6        7        3.00%    2.58%
+LIBERIA            1,103       9            205      214      19.40%   18.59%
+LIBYA              850         6            51       57       6.71%    6.00%
+MACEDONIA          6,646       4            87       91       1.37%    1.31%
+MADAGASCAR         1,104       6            33       39       3.53%    2.99%
+MALAWI             1,655       3            234      237      14.32%   14.14%
+MALAYSIA           44,312      41           367      408      0.92%    0.83%
+MALDIVES           297         -            4        4        1.35%    1.35%
+MALI               2,545       4            130      134      5.27%    5.11%
+MARSHALL ISLANDS   34          -            1        1        2.94%    2.94%
+MAURITANIA         493         3            68       71       14.40%   13.79%
+
+                                       42
+MAURITIUS             2,760     3          22      25      0.91%    0.80%
+MICRONESIA,           27        -          -       -       -        -
+FEDERATED STATES OF
+MOLDOVA               7,194     15         183     198     2.75%    2.54%
+MONGOLIA              10,600    36         364     400     3.77%    3.43%
+MONTENEGRO            3,208     6          227     233     7.26%    7.08%
+MOROCCO               29,098    72         452     524     1.80%    1.55%
+MOZAMBIQUE            1,196     2          58      60      5.02%    4.85%
+NAMIBIA               1,528     5          133     138     9.03%    8.70%
+NAURU                 5         -          -       -       -        -
+NEPAL                 24,730    146        890     1,036   4.19%    3.60%
+NICARAGUA             59,037    79         2,717   2,796   4.74%    4.60%
+NIGER                 607       2          43      45      7.41%    7.08%
+NIGERIA               84,051    191        5,809   6,000   7.14%    6.91%
+OMAN                  3,138     6          23      29      0.92%    0.73%
+PAKISTAN              73,450    132        3,563   3,695   5.03%    4.85%
+PALAU                 8         -          -       -       -        -
+PANAMA                115,338   78         1,147   1,225   1.06%    0.99%
+PAPUA NEW GUINEA      435       -          21      21      4.83%    4.83%
+PARAGUAY              19,492    21         494     515     2.64%    2.53%
+PERU                  314,166   256        5,944   6,200   1.97%    1.89%
+PHILIPPINES           210,842   533        6,031   6,564   3.11%    2.86%
+QATAR                 9,206     24         73      97      1.05%    0.79%
+ROMANIA               64,937    99         558     657     1.01%    0.86%
+RUSSIA                54,016    170        3,887   4,057   7.51%    7.20%
+RWANDA                3,175     10         262     272     8.57%    8.25%
+SAINT KITTS AND NEVIS 8,176     11         100     111     1.36%    1.22%
+SAINT LUCIA           13,442    18         246     264     1.96%    1.83%
+SAINT VINCENT AND     8,169     19         245     264     3.23%    3.00%
+THE GRENADINES
+SAMOA                 1,714     12         165     177     10.33%   9.63%
+SAO TOME AND          13        -          -       -       -        -
+PRINCIPE
+SAUDI ARABIA          45,786    135        298     433     0.95%    0.65%
+SENEGAL               8,117     23         486     509     6.27%    5.99%
+SERBIA                20,176    26         217     243     1.20%    1.08%
+SEYCHELLES            225       -          9       9       4.00%    4.00%
+SIERRA LEONE          3,034     27         441     468     15.43%   14.54%
+SOLOMON ISLANDS       85        -          1       1       1.18%    1.18%
+
+                                      43
+SOMALIA              128         -             14        14        10.94%   10.94%
+SOUTH AFRICA         91,328      104           813       917       1.00%    0.89%
+SOUTH SUDAN          138         -             6         6         4.35%    4.35%
+SRI LANKA            12,980      24            416       440       3.39%    3.20%
+SUDAN                2,627       10            681       691       26.30%   25.92%
+SURINAME             14,218      5             478       483       3.40%    3.36%
+SWAZILAND            763         3             46        49        6.42%    6.03%
+SYRIA                4,442       11            419       430       9.68%    9.43%
+TAJIKISTAN           1,587       19            109       128       8.07%    6.87%
+TANZANIA             5,467       37            523       560       10.24%   9.57%
+THAILAND             60,042      130           1,860     1,990     3.31%    3.10%
+TIMOR-LESTE          43          -             -         -         -        -
+TOGO                 1,692       12            310       322       19.03%   18.32%
+TONGA                1,876       21            158       179       9.54%    8.42%
+TRINIDAD AND TOBAGO 136,504      102           951       1,053     0.77%    0.70%
+TUNISIA              8,416       20            359       379       4.50%    4.27%
+TURKEY               123,537     208           2,553     2,761     2.23%    2.07%
+TURKMENISTAN         925         6             136       142       15.35%   14.70%
+TUVALU               47          -             -         -         -        -
+UGANDA               6,652       23            537       560       8.42%    8.07%
+UKRAINE              51,329      268           1,321     1,589     3.10%    2.57%
+UNITED ARAB EMIRATES 20,393      237           391       628       3.08%    1.92%
+URUGUAY              55,642      59            990       1,049     1.89%    1.78%
+UZBEKISTAN           9,141       52            488       540       5.91%    5.34%
+VANUATU              120         -             1         1         0.83%    0.83%
+VENEZUELA            218,929     449           21,064    21,513    9.83%    9.62%
+VIETNAM              68,014      180           1,202     1,382     2.03%    1.77%
+YEMEN                1,984       9             383       392       19.76%   19.30%
+ZAMBIA               3,493       23            365       388       11.11%   10.45%
+ZIMBABWE             6,706       32            677       709       10.57%   10.10%
+Totals:              9,799,593   15,536        298,519   314,055   3.20%    3.05%
+
+
+
+
+                                          44
+Table C-4
+Fiscal Year 2023 Overstay Rates for Nonimmigrant Students and Exchange Visitors (F, M,
+J) Admitted to the United States via Air and Seaport Ports of Entry (excluding Canada and
+                                          Mexico)
+                                                Suspected                        Suspected
+                                                                        Total
+                          Expected Out-of-         In-       Total              In-Country
+ Country of Citizenship                Country                        Overstay
+                        Departures               Country Overstays               Overstay
+                                     Overstays                          Rate
+                                                Overstays                          Rate
+AFGHANISTAN             273          6         74         80         29.30% 27.11%
+ALBANIA                 1,511        8         114        122        8.07%     7.54%
+ALGERIA                 534          4         33         37         6.93%     6.18%
+ANDORRA                 75           -         -          -          -         -
+ANGOLA                  744          12        172        184        24.73% 23.12%
+ANTIGUA AND BARBUDA 379              7         11         18         4.75%     2.90%
+ARGENTINA               16,446       94        317        411        2.50%     1.93%
+ARMENIA                 898          9         65         74         8.24%     7.24%
+AUSTRALIA               10,915       123       66         189        1.73%     0.60%
+AUSTRIA                 4,262        19        19         38         0.89%     0.45%
+AZERBAIJAN              1,106        7         34         41         3.71%     3.07%
+BAHAMAS, THE            7,308        91        121        212        2.90%     1.66%
+BAHRAIN                 755          6         2          8          1.06%     0.26%
+BANGLADESH              6,237        53        556        609        9.76%     8.91%
+BARBADOS                599          7         8          15         2.50%     1.34%
+BELARUS                 731          7         39         46         6.29%     5.34%
+BELGIUM                 4,365        29        17         46         1.05%     0.39%
+BELIZE                  539          5         16         21         3.90%     2.97%
+BENIN                   227          -         76         76         33.48% 33.48%
+BHUTAN                  180          4         44         48         26.67% 24.44%
+BOLIVIA                 2,683        24        77         101        3.76%     2.87%
+BOSNIA AND              801          7         26         33         4.12%     3.25%
+HERZEGOVINA
+BOTSWANA                302         5           21       26        8.61%      6.95%
+BRAZIL                  47,794      506         1,692    2,198     4.60%      3.54%
+BRUNEI                  107         3           1        4         3.74%      0.93%
+BULGARIA                3,218       54          87       141       4.38%      2.70%
+BURKINA FASO            406         4           99       103       25.37%     24.38%
+BURMA                   1,954       35          789      824       42.17%     40.38%
+BURUNDI                 137         4           20       24        17.52%     14.60%
+CABO VERDE              70          5           13       18        25.71%     18.57%
+
+                                           45
+CAMBODIA            609       7            42      49      8.05%    6.90%
+CAMEROON            758       6            149     155     20.45%   19.66%
+CENTRAL AFRICAN     24        -            2       2       8.33%    8.33%
+REPUBLIC
+CHAD                133       5            69      74      55.64%   51.88%
+CHILE               10,910    83           224     307     2.81%    2.05%
+CHINA               250,788   2,243        3,012   5,255   2.10%    1.20%
+COLOMBIA            38,870    431          2,792   3,223   8.29%    7.18%
+COMOROS             8         -            -       -       -        -
+CONGO (BRAZZAVILLE) 148       5            47      52      35.14%   31.76%
+CONGO (KINSHASA)    777       13           376     389     50.06%   48.39%
+COSTA RICA          4,267     19           66      85      1.99%    1.55%
+COTE D'IVOIRE       1,083     29           193     222     20.50%   17.82%
+CROATIA             2,024     13           19      32      1.58%    0.94%
+CUBA                128       -            24      24      18.75%   18.75%
+CYPRUS              851       7            5       12      1.41%    0.59%
+CZECH REPUBLIC      3,438     24           40      64      1.86%    1.16%
+DENMARK             4,593     30           13      43      0.94%    0.28%
+DJIBOUTI            16        -            7       7       43.75%   43.75%
+DOMINICA            530       12           33      45      8.49%    6.23%
+DOMINICAN REPUBLIC 18,615     143          1,118   1,261   6.77%    6.01%
+ECUADOR             14,340    144          1,208   1,352   9.43%    8.42%
+EGYPT               6,471     55           219     274     4.23%    3.38%
+EL SALVADOR         2,408     10           94      104     4.32%    3.90%
+EQUATORIAL GUINEA 332         8            225     233     70.18%   67.77%
+ERITREA             92        1            50      51      55.43%   54.35%
+ESTONIA             868       6            5       11      1.27%    0.58%
+ETHIOPIA            1,660     20           308     328     19.76%   18.55%
+FIJI                188       5            15      20      10.64%   7.98%
+FINLAND             2,214     18           14      32      1.45%    0.63%
+FRANCE              36,604    244          201     445     1.22%    0.55%
+GABON               231       7            38      45      19.48%   16.45%
+GAMBIA, THE         209       2            67      69      33.01%   32.06%
+GEORGIA             1,438     9            101     110     7.65%    7.02%
+GERMANY             40,207    234          188     422     1.05%    0.47%
+GHANA               2,559     26           511     537     20.98%   19.97%
+GREECE              5,619     20           31      51      0.91%    0.55%
+GRENADA             222       3            15      18      8.11%    6.76%
+
+                                      46
+GUATEMALA       3,137     13           54      67      2.14%    1.72%
+GUINEA          108       1            15      16      14.81%   13.89%
+GUINEA-BISSAU   15        -            2       2       13.33%   13.33%
+GUYANA          503       2            25      27      5.37%    4.97%
+HAITI           1,046     5            257     262     25.05%   24.57%
+HOLY SEE        1         -            -       -       -        -
+HONDURAS        4,417     46           147     193     4.37%    3.33%
+HUNGARY         3,811     12           18      30      0.79%    0.47%
+ICELAND         1,397     6            4       10      0.72%    0.29%
+INDIA           151,719   1,263        5,818   7,081   4.67%    3.83%
+INDONESIA       9,539     125          331     456     4.78%    3.47%
+IRAN            2,872     20           109     129     4.49%    3.80%
+IRAQ            855       8            61      69      8.07%    7.13%
+IRELAND         11,410    30           43      73      0.64%    0.38%
+ISRAEL          11,100    88           61      149     1.34%    0.55%
+ITALY           27,308    101          131     232     0.85%    0.48%
+JAMAICA         11,750    119          1,117   1,236   10.52%   9.51%
+JAPAN           37,452    431          311     742     1.98%    0.83%
+JORDAN          4,205     43           379     422     10.04%   9.01%
+KAZAKHSTAN      6,684     64           163     227     3.40%    2.44%
+KENYA           3,281     47           344     391     11.92%   10.48%
+KIRIBATI        64        -            3       3       4.69%    4.69%
+KOREA, NORTH    12        -            -       -       -        -
+KOREA, SOUTH    79,483    400          455     855     1.08%    0.57%
+KOSOVO          598       6            32      38      6.35%    5.35%
+KUWAIT          12,759    101          63      164     1.29%    0.49%
+KYRGYZSTAN      890       14           207     221     24.83%   23.26%
+LAOS            185       3            9       12      6.49%    4.86%
+LATVIA          845       4            4       8       0.95%    0.47%
+LEBANON         2,715     12           46      58      2.14%    1.69%
+LESOTHO         74        -            6       6       8.11%    8.11%
+LIBERIA         192       4            43      47      24.48%   22.40%
+LIBYA           439       14           123     137     31.21%   28.02%
+LIECHTENSTEIN   21        -            -       -       -        -
+LITHUANIA       1,462     8            15      23      1.57%    1.03%
+LUXEMBOURG      237       -            -       -       -        -
+MACEDONIA       755       8            43      51      6.75%    5.70%
+MADAGASCAR      235       4            26      30      12.77%   11.06%
+MALAWI          345       2            66      68      19.71%   19.13%
+
+                                  47
+MALAYSIA            6,693    142        120     262     3.91%    1.79%
+MALDIVES            78       1          1       2       2.56%    1.28%
+MALI                356      3          25      28      7.87%    7.02%
+MALTA               193      -          -       -       -        -
+MARSHALL ISLANDS    2        -          -       -       -        -
+MAURITANIA          85       3          2       5       5.88%    2.35%
+MAURITIUS           447      7          13      20      4.47%    2.91%
+MICRONESIA,         3        -          1       1       33.33%   33.33%
+FEDERATED STATES OF
+MOLDOVA             850      4          29      33      3.88%    3.41%
+MONACO              37       1          -       1       2.70%    -
+MONGOLIA            2,241    36         125     161     7.18%    5.58%
+MONTENEGRO          1,348    24         166     190     14.09%   12.31%
+MOROCCO             2,319    24         115     139     5.99%    4.96%
+MOZAMBIQUE          239      5          10      15      6.28%    4.18%
+NAMIBIA             213      -          22      22      10.33%   10.33%
+NAURU               2        -          -       -       -        -
+NEPAL               4,391    23         425     448     10.20%   9.68%
+NETHERLANDS         9,864    79         61      140     1.42%    0.62%
+NEW ZEALAND         3,919    47         37      84      2.14%    0.94%
+NICARAGUA           908      7          20      27      2.97%    2.20%
+NIGER               158      -          43      43      27.22%   27.22%
+NIGERIA             7,556    90         1,089   1,179   15.60%   14.41%
+NORWAY              5,931    41         26      67      1.13%    0.44%
+OMAN                3,306    22         9       31      0.94%    0.27%
+PAKISTAN            9,838    63         394     457     4.65%    4.00%
+PALAU               1        -          -       -       -        -
+PANAMA              5,119    30         75      105     2.05%    1.47%
+PAPUA NEW GUINEA    119      3          9       12      10.08%   7.56%
+PARAGUAY            3,005    31         120     151     5.02%    3.99%
+PERU                20,286   148        755     903     4.45%    3.72%
+PHILIPPINES         6,993    101        1,023   1,124   16.07%   14.63%
+POLAND              6,817    30         70      100     1.47%    1.03%
+PORTUGAL            3,508    34         34      68      1.94%    0.97%
+QATAR               1,085    12         12      24      2.21%    1.11%
+ROMANIA             6,964    91         233     324     4.65%    3.35%
+RUSSIA              7,810    52         384     436     5.58%    4.92%
+RWANDA              1,282    11         92      103     8.03%    7.18%
+
+                                   48
+SAINT KITTS AND NEVIS 284     4          10    14      4.93%    3.52%
+SAINT LUCIA          250      5          9     14      5.60%    3.60%
+SAINT VINCENT AND    168      2          3     5       2.98%    1.79%
+THE GRENADINES
+SAMOA                61       -          8     8       13.11%   13.11%
+SAN MARINO           13       -          -     -       -        -
+SAO TOME AND         10       -          1     1       10.00%   10.00%
+PRINCIPE
+SAUDI ARABIA         34,699   477        402   879     2.53%    1.16%
+SENEGAL              649      10         100   110     16.95%   15.41%
+SERBIA               3,022    19         84    103     3.41%    2.78%
+SEYCHELLES           31       -          -     -       -        -
+SIERRA LEONE         187      5          62    67      35.83%   33.16%
+SINGAPORE            7,176    41         33    74      1.03%    0.46%
+SLOVAKIA             2,120    8          11    19      0.90%    0.52%
+SLOVENIA             685      1          1     2       0.29%    0.15%
+SOLOMON ISLANDS      19       -          1     1       5.26%    5.26%
+SOMALIA              32       -          11    11      34.38%   34.38%
+SOUTH AFRICA         6,802    102        502   604     8.88%    7.38%
+SOUTH SUDAN          81       3          16    19      23.46%   19.75%
+SPAIN                39,824   211        191   402     1.01%    0.48%
+SRI LANKA            1,740    13         47    60      3.45%    2.70%
+SUDAN                419      5          114   119     28.40%   27.21%
+SURINAME             120      3          8     11      9.17%    6.67%
+SWAZILAND            166      3          5     8       4.82%    3.01%
+SWEDEN               8,955    49         55    104     1.16%    0.61%
+SWITZERLAND          6,515    49         23    72      1.11%    0.35%
+SYRIA                204      -          25    25      12.25%   12.25%
+TAIWAN               23,809   152        153   305     1.28%    0.64%
+TAJIKISTAN           330      -          24    24      7.27%    7.27%
+TANZANIA             1,006    15         209   224     22.27%   20.78%
+THAILAND             17,341   86         459   545     3.14%    2.65%
+TIMOR-LESTE          76       -          -     -       -        -
+TOGO                 214      4          71    75      35.05%   33.18%
+TONGA                102      3          27    30      29.41%   26.47%
+TRINIDAD AND         2,196    18         57    75      3.42%    2.60%
+TOBAGO
+TUNISIA              1,248    13         104   117     9.38%    8.33%
+TURKEY               20,359   203        983   1,186   5.83%    4.83%
+
+                                    49
+TURKMENISTAN            207         4             41       45       21.74%    19.81%
+TUVALU                  5           -             1        1        20.00%    20.00%
+UGANDA                  1,035       10            163      173      16.71%    15.75%
+UKRAINE                 4,077       20            83       103      2.53%     2.04%
+UNITED ARAB             3,525       24            13       37       1.05%     0.37%
+EMIRATES
+UNITED KINGDOM          43,479      242           216      458      1.05%     0.50%
+URUGUAY                 880         2             6        8        0.91%     0.68%
+UZBEKISTAN              1,596       28            290      318      19.92%    18.17%
+VANUATU                 14          1             -        1        7.14%     -
+VENEZUELA               6,085       22            142      164      2.70%     2.33%
+VIETNAM                 13,531      186           686      872      6.44%     5.07%
+YEMEN                   501         6             199      205      40.92%    39.72%
+ZAMBIA                  501         11            69       80       15.97%    13.77%
+ZIMBABWE                1,354       13            233      246      18.17%    17.21%
+Totals:                 1,345,378   11,262        38,152   49,414   3.67%     2.84%
+
+Table C-5
+ Fiscal Year 2023 Overstay Rates for Other In-scope Nonimmigrant Classes of Admission
+    Admitted to the United States via Air and Seaport Ports of Entry for All Countries
+                             (excluding Canada and Mexico)
+                                                Suspected                        Suspected
+                                       Out-of                         Total
+                          Expected                 In-       Total              In-Country
+ Country of Citizenship               Country                       Overstay
+                        Departures               Country Overstays               Overstay
+                                     Overstays                         Rate
+                                                Overstays                          Rate
+AFGHANISTAN             243         1          49         50       20.58% 20.16%
+ALBANIA                 277         1          15         16       5.78%       5.42%
+ALGERIA                 156         -          4          4        2.56%       2.56%
+ANDORRA                 6           1          1          2        33.33% 16.67%
+ANGOLA                  102         -          -          -        -           -
+ANTIGUA AND BARBUDA 48              1          2          3        6.25%       4.17%
+ARGENTINA               10,507      45         69         114      1.08%       0.66%
+ARMENIA                 441         1          32         33       7.48%       7.26%
+AUSTRALIA               20,453      91         100        191      0.93%       0.49%
+AUSTRIA                 3,512       17         6          23       0.65%       0.17%
+AZERBAIJAN              129         -          -          -        -           -
+BAHAMAS, THE            391         2          8          10       2.56%       2.05%
+BAHRAIN                 53          -          -          -        -           -
+BANGLADESH              526         8          64         72       13.69% 12.17%
+BARBADOS                358         15         5          20       5.59%       1.40%
+
+                                             50
+BELARUS             455      3          23    26    5.71%    5.05%
+BELGIUM             4,193    17         19    36    0.86%    0.45%
+BELIZE              164      4          5     9     5.49%    3.05%
+BENIN               33       1          3     4     12.12%   9.09%
+BHUTAN              10       -          1     1     10.00%   10.00%
+BOLIVIA             508      1          14    15    2.95%    2.76%
+BOSNIA AND          210      1          13    14    6.67%    6.19%
+HERZEGOVINA
+BOTSWANA            31       3          2     5     16.13%   6.45%
+BRAZIL              20,348   176        338   514   2.53%    1.66%
+BRUNEI              8        -          -     -     -        -
+BULGARIA            1,176    20         21    41    3.49%    1.79%
+BURKINA FASO        43       -          4     4     9.30%    9.30%
+BURMA               88       1          16    17    19.32%   18.18%
+BURUNDI             11       -          4     4     36.36%   36.36%
+CABO VERDE          104      -          14    14    13.46%   13.46%
+CAMBODIA            142      -          14    14    9.86%    9.86%
+CAMEROON            256      1          46    47    18.36%   17.97%
+CENTRAL AFRICAN     6        -          1     1     16.67%   16.67%
+REPUBLIC
+CHAD                5        -          -     -     -        -
+CHILE               6,405    58         84    142   2.22%    1.31%
+CHINA               15,988   118        297   415   2.60%    1.86%
+COLOMBIA            13,370   61         481   542   4.05%    3.60%
+COMOROS             1        -          -     -     -        -
+CONGO (BRAZZAVILLE) 7        -          1     1     14.29%   14.29%
+CONGO (KINSHASA)    145      2          23    25    17.24%   15.86%
+COSTA RICA          2,966    18         38    56    1.89%    1.28%
+COTE D'IVOIRE       132      -          10    10    7.58%    7.58%
+CROATIA             625      4          4     8     1.28%    0.64%
+CUBA                1,136    14         219   233   20.51%   19.28%
+CYPRUS              163      -          1     1     0.61%    0.61%
+CZECH REPUBLIC      2,065    13         7     20    0.97%    0.34%
+DENMARK             3,448    4          15    19    0.55%    0.44%
+DJIBOUTI            2        -          -     -     -        -
+DOMINICA            131      -          4     4     3.05%    3.05%
+DOMINICAN REPUBLIC 7,829     52         586   638   8.15%    7.48%
+ECUADOR             1,863    21         97    118   6.33%    5.21%
+EGYPT               1,912    8          71    79    4.13%    3.71%
+
+                                   51
+EL SALVADOR         5,562     492        832     1,324   23.80%   14.96%
+EQUATORIAL GUINEA   1         -          -       -       -        -
+ERITREA             61        -          16      16      26.23%   26.23%
+ESTONIA             274       2          1       3       1.09%    0.36%
+ETHIOPIA            617       4          81      85      13.78%   13.13%
+FIJI                45        -          10      10      22.22%   22.22%
+FINLAND             1,994     15         4       19      0.95%    0.20%
+FRANCE              26,656    93         103     196     0.74%    0.39%
+GABON               15        1          5       6       40.00%   33.33%
+GAMBIA, THE         35        -          9       9       25.71%   25.71%
+GEORGIA             327       1          28      29      8.87%    8.56%
+GERMANY             25,102    93         66      159     0.63%    0.26%
+GHANA               818       6          122     128     15.65%   14.91%
+GREECE              2,121     8          10      18      0.85%    0.47%
+GRENADA             92        -          5       5       5.43%    5.43%
+GUATEMALA           9,659     451        1,503   1,954   20.23%   15.56%
+GUINEA              134       2          43      45      33.58%   32.09%
+GUINEA-BISSAU       1         -          -       -       -        -
+GUYANA              114       1          7       8       7.02%    6.14%
+HAITI               1,659     1          511     512     30.86%   30.80%
+HOLY SEE            -         -          -       -       -        -
+HONDURAS            6,936     420        1,170   1,590   22.92%   16.87%
+HUNGARY             1,279     19         5       24      1.88%    0.39%
+ICELAND             328       -          -       -       -        -
+INDIA               241,155   992        2,830   3,822   1.58%    1.17%
+INDONESIA           785       8          37      45      5.73%    4.71%
+IRAN                319       1          39      40      12.54%   12.23%
+IRAQ                282       6          33      39      13.83%   11.70%
+IRELAND             7,376     42         20      62      0.84%    0.27%
+ISRAEL              8,090     37         43      80      0.99%    0.53%
+ITALY               16,263    53         76      129     0.79%    0.47%
+JAMAICA             18,378    623        1,495   2,118   11.52%   8.13%
+JAPAN               53,630    116        110     226     0.42%    0.21%
+JORDAN              817       3          21      24      2.94%    2.57%
+KAZAKHSTAN          485       4          26      30      6.19%    5.36%
+KENYA               575       4          40      44      7.65%    6.96%
+KIRIBATI            -         -          -       -       -        -
+KOREA, NORTH        1         -          -       -       -        -
+
+                                    52
+KOREA, SOUTH        22,944   77        94   171   0.75%    0.41%
+KOSOVO              162      2         16   18    11.11%   9.88%
+KUWAIT              72       -         -    -     -        -
+KYRGYZSTAN          42       -         7    7     16.67%   16.67%
+LAOS                408      -         83   83    20.34%   20.34%
+LATVIA              326      1         5    6     1.84%    1.53%
+LEBANON             1,090    8         19   27    2.48%    1.74%
+LESOTHO             3        -         -    -     -        -
+LIBERIA             177      1         35   36    20.34%   19.77%
+LIBYA               34       2         6    8     23.53%   17.65%
+LIECHTENSTEIN       30       -         -    -     -        -
+LITHUANIA           581      32        5    37    6.37%    0.86%
+LUXEMBOURG          89       -         1    1     1.12%    1.12%
+MACEDONIA           348      4         10   14    4.02%    2.87%
+MADAGASCAR          16       1         2    3     18.75%   12.50%
+MALAWI              24       -         1    1     4.17%    4.17%
+MALAYSIA            1,476    5         18   23    1.56%    1.22%
+MALDIVES            1        -         -    -     -        -
+MALI                75       -         5    5     6.67%    6.67%
+MALTA               53       -         1    1     1.89%    1.89%
+MARSHALL ISLANDS    -        -         -    -     -        -
+MAURITANIA          24       -         2    2     8.33%    8.33%
+MAURITIUS           92       3         1    4     4.35%    1.09%
+MICRONESIA,         -        -         -    -     -        -
+FEDERATED STATES OF
+MOLDOVA             242      15        5    20    8.26%    2.07%
+MONACO              25       -         1    1     4.00%    4.00%
+MONGOLIA            413      35        40   75    18.16%   9.69%
+MONTENEGRO          112      1         17   18    16.07%   15.18%
+MOROCCO             504      2         19   21    4.17%    3.77%
+MOZAMBIQUE          31       1         1    2     6.45%    3.23%
+NAMIBIA             58       -         -    -     -        -
+NAURU               1        -         -    -     -        -
+NEPAL               983      4         26   30    3.05%    2.64%
+NETHERLANDS         7,648    34        28   62    0.81%    0.37%
+NEW ZEALAND         2,595    7         18   25    0.96%    0.69%
+NICARAGUA           1,446    5         89   94    6.50%    6.15%
+NIGER               18       -         2    2     11.11%   11.11%
+
+                                  53
+NIGERIA               2,299    4          185     189     8.22%    8.05%
+NORWAY                1,586    1          8       9       0.57%    0.50%
+OMAN                  49       -          -       -       -        -
+PAKISTAN              2,989    5          85      90      3.01%    2.84%
+PALAU                 -        -          -       -       -        -
+PANAMA                818      2          10      12      1.47%    1.22%
+PAPUA NEW GUINEA      3        1          -       1       33.33%   -
+PARAGUAY              195      -          6       6       3.08%    3.08%
+PERU                  3,553    29         249     278     7.82%    7.01%
+PHILIPPINES           13,720   268        1,834   2,102   15.32%   13.37%
+POLAND                3,778    30         26      56      1.48%    0.69%
+PORTUGAL              2,417    15         9       24      0.99%    0.37%
+QATAR                 27       -          -       -       -        -
+ROMANIA               3,029    62         61      123     4.06%    2.01%
+RUSSIA                4,504    21         96      117     2.60%    2.13%
+RWANDA                92       -          13      13      14.13%   14.13%
+SAINT KITTS AND NEVIS 28       -          -       -       -        -
+SAINT LUCIA           69       -          4       4       5.80%    5.80%
+SAINT VINCENT AND     27       -          1       1       3.70%    3.70%
+THE GRENADINES
+SAMOA                 16       -          3       3       18.75%   18.75%
+SAN MARINO            3        -          -       -       -        -
+SAO TOME AND          1        -          -       -       -        -
+PRINCIPE
+SAUDI ARABIA          489      5          3       8       1.64%    0.61%
+SENEGAL               130      1          18      19      14.62%   13.85%
+SERBIA                2,876    66         102     168     5.84%    3.55%
+SEYCHELLES            5        -          -       -       -        -
+SIERRA LEONE          101      2          25      27      26.73%   24.75%
+SINGAPORE             3,255    15         11      26      0.80%    0.34%
+SLOVAKIA              789      7          -       7       0.89%    -
+SLOVENIA              325      -          -       -       -        -
+SOLOMON ISLANDS       4        -          -       -       -        -
+SOMALIA               12       -          2       2       16.67%   16.67%
+SOUTH AFRICA          13,950   221        164     385     2.76%    1.18%
+SOUTH SUDAN           21       3          5       8       38.10%   23.81%
+SPAIN                 16,104   59         70      129     0.80%    0.43%
+SRI LANKA             426      6          4       10      2.35%    0.94%
+
+                                     54
+SUDAN               79        -            7        7        8.86%    8.86%
+SURINAME            38        -            -        -        -        -
+SWAZILAND           6         -            -        -        -        -
+SWEDEN              5,022     15           16       31       0.62%    0.32%
+SWITZERLAND         3,611     14           8        22       0.61%    0.22%
+SYRIA               195       1            15       16       8.21%    7.69%
+TAIWAN              6,363     20           22       42       0.66%    0.35%
+TAJIKISTAN          42        -            -        -        -        -
+TANZANIA            161       1            8        9        5.59%    4.97%
+THAILAND            1,575     16           86       102      6.48%    5.46%
+TIMOR-LESTE         2         -            -        -        -        -
+TOGO                69        1            14       15       21.74%   20.29%
+TONGA               28        1            9        10       35.71%   32.14%
+TRINIDAD AND TOBAGO 1,457     6            18       24       1.65%    1.24%
+TUNISIA             285       5            4        9        3.16%    1.40%
+TURKEY              4,618     37           172      209      4.53%    3.72%
+TURKMENISTAN        16        -            -        -        -        -
+TUVALU              -         -            -        -        -        -
+UGANDA              275       14           20       34       12.36%   7.27%
+UKRAINE             4,548     114          112      226      4.97%    2.46%
+UNITED ARAB         41        -            -        -        -        -
+EMIRATES
+UNITED KINGDOM      46,369    179          184      363      0.78%    0.40%
+URUGUAY             737       3            3        6        0.81%    0.41%
+UZBEKISTAN          212       9            18       27       12.74%   8.49%
+VANUATU             -         -            -        -        -        -
+VENEZUELA           7,201     27           352      379      5.26%    4.89%
+VIETNAM             1,622     19           129      148      9.12%    7.95%
+YEMEN               27        -            1        1        3.70%    3.70%
+ZAMBIA              63        2            3        5        7.94%    4.76%
+ZIMBABWE            385       2            12       14       3.64%    3.12%
+Totals:             760,047   5,831        16,896   22,727   2.99%    2.22%
+
+
+
+
+                                      55
+Table C-6
+ Fiscal Year 2023 Overstay Rates for Canadian and Mexican Nonimmigrants Admitted to
+                  the United States via Air and Seaports Ports of Entry
+                                                                              Suspected
+                                   Out-of- Suspected                  Total
+    Country of       Expected                              Total             In-Country
+                                  Country In-Country               Overstay
+    Citizenship     Departures                          Overstays             Overstay
+                                 Overstays Overstays                  Rate
+                                                                                Rate
+CANADA             7,705,004     4,698      17,160      21,858     0.28%    0.22%
+MEXICO             2,856,696     2,122      46,723      48,845     1.71%    1.64%
+B1/B2 Totals:      10,561,700 6,820         63,883      70,703     0.67%    0.60%
+CANADA             60,053        255        185         440        0.73%    0.31%
+MEXICO             53,082        425        1,277       1,702      3.21%    2.41%
+F, M, J Totals:    113,135       680        1,462       2,142      1.89%    1.29%
+CANADA             140,666       683        348         1,031      0.73%    0.25%
+MEXICO             127,254       1,451      4,116       5,567      4.37%    3.23%
+Other In-scope     267,920       2,134      4,464       6,598      1.67%    1.67%
+Totals:
+CANADA             7,905,723     5,636      17,693      23,329     0.30%    0.22%
+MEXICO             3,037,032     3,998      52,116      56,114     1.85%    1.72%
+Totals:            10,942,755 9,634         69,809      79,443     0.73%    0.64%
+
+
+
+
+                                          56
+
