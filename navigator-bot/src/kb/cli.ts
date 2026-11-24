@@ -42,7 +42,7 @@ async function main(): Promise<number> {
       console.log(
         "\nIf a guide was moved or renamed on purpose, say so in the pull request; the bot picks up the new " +
           "folder by itself, but the check flags the old one as gone. The structure the bot expects is in " +
-          "KB-STRUCTURE.md.",
+          "CLAUDE.md (What the bot reads).",
       );
       return 1;
     }

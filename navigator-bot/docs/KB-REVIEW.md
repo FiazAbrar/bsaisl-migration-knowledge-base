@@ -58,7 +58,7 @@ Read-only review of `knowledge/`. No source file was changed. The 12 country .do
 | `data/oep-agency-list-2026-10-28.csv` | BMET's full licence list: 2,859 agencies (RL, name, address, phone, status, expiry). |
 | `official-pdfs/` | 10 Bangladesh-side PDFs (Ministry, WEWB and PKB charters, the PKB loan page, the BMET safe-migration leaflet, Saudi notices). One (the skill-test notice) has no text layer, so it needs OCR. |
 | `tools/` | `fetch.py`, `facts.py`, `build.py`, `datepass.py`, `wayback.py`, `agency_counts.py`. |
-| `CLAUDE.md`, `PROMPT.md`, `plans.md` | The doc standard, the new-country prompt, and planned work (shared Bangladesh-side text, answering open questions, repo size). |
+| `CLAUDE.md`, `README.md`, `plans.md` | The doc standard (and what the bot reads), the new-country prompt (in README), and planned work (shared Bangladesh-side text, answering open questions, repo size). |
 
 ## 2. The 12 countries at a glance
 

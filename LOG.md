@@ -18,6 +18,13 @@ How to write an entry: add it at the top, under this line, in this shape. Keep i
 
 ---
 
+## 2026-11-24 · Simpler repo layout: scratch folders out of country folders, fewer top-level files · agent for FiazAbrar
+
+- **Done:** the first-build working folders of Cambodia, Italy, Kuwait and Kyrgyzstan (`work/`, `verify/`, `drafts/`, about 690 MB) moved unchanged into `passes/<date>-<country>-first-build/`, so every country folder now has the same files. Top-level guides cut from seven to five: the new-country prompt (was PROMPT.md) is now "Start a new country" in README.md; the bot's rules (was KB-STRUCTURE.md) are now "What the bot reads" in CLAUDE.md, with the PR check, two bot source comments and the bot README pointed there. plans.md gains the skills-doc idea.
+- **Where:** `passes/*-first-build/`, README.md, CLAUDE.md, METHOD.md (section 11 says where the traces went), plans.md, `.github/workflows/bot-kb-check.yml`, `navigator-bot/` (comments and one message string only).
+- **Checked by:** a search for every reference to the moved and merged files; none left outside the log and the pass records.
+- **Open:** one file per doc (README.md as the source) waits for the bot team, since the bot finds guides by their `doc.md`.
+
 ## 2026-11-24 · Official-source research on the docs built from news; agency-flag check · agent for FiazAbrar
 
 - **Done:** the official research pass CLAUDE.md requires on the six country docs and three global docs first built from Prothom Alo: about 1,280 facts from official sources (US 127, Canada 155, UK 220, India 107, Lebanon 96, Greece 96, money 126, services 127, other destinations 230), Need-to-know questions answered where official pages answer them, news claims replaced where official sources differ. Also: the 23 Nov articles checked for agency flags (one new row, Lamisa Enterprise); the Illegal routes doc's US visa-bond section and the FAQ's PKB loan lines aligned with the official pages; plans.md records the one-file-per-doc restructure.

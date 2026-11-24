@@ -1,6 +1,6 @@
 /**
  * Turn one guide's doc.md into sections the bot can search and quote. The rules are written down for the
- * knowledge-base team in KB-STRUCTURE.md; keep the two in step.
+ * knowledge-base team in CLAUDE.md ("What the bot reads"); keep the two in step.
  *
  * - `#` is the guide's title; every `##`..`######` heading starts a section whose path is its parent
  *   headings plus itself ("Work visa > Step 1 > Documents"). Text before the first heading is "Introduction".

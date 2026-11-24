@@ -41,6 +41,10 @@ One file per doc instead of `doc.md` plus a built `README.md`:
 - `build.py` writes a generated "Sources" block at the bottom of `README.md`, between marker lines, listing each fact id with its source, date and link, and makes each `[F0343]` a link to its line there; nobody edits that block by hand.
 - The `.docx` keeps the numbered footnotes for reading and printing.
 - The navigator bot reads `README.md` and skips the generated block.
-- Migration: delete the built `README.md` in all doc folders, rename `doc.md` to `README.md`, rebuild; update `build.py`, `navigator-bot/app/kb_index.py`, CLAUDE.md, METHOD.md, PROMPT.md and the agent briefs.
+- Migration: delete the built `README.md` in all doc folders, rename `doc.md` to `README.md`, rebuild; update `build.py`, `navigator-bot/app/kb_index.py`, CLAUDE.md, METHOD.md, the new-country prompt in README.md and the agent briefs; and the bot, which finds guides by their `doc.md` (tell the bot team first).
 Why: half the merge conflicts were in built README files; one file removes "which do I edit"; diffs show only real changes.
 More restructuring items will be added here before the work starts.
+
+## A skills doc (idea, 24 Nov 2026)
+
+A global doc on skills: skill training, upskilling, skill development and the Technical Training Centres. Material to start from: global/services (TTC language courses, BMET's Foreign Language and Skills Centre, heavy-vehicle driver training, the EU Talent Partnership, NSDA), global/faq (skills questions, TTC and NSDA certificates) and the skill-test steps in the country docs (Saudi SVP, Japan SSW and JFT, Korea EPS-TOPIK). Not started.

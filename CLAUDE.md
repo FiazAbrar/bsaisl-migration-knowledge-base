@@ -36,7 +36,7 @@ Two drafts exist: Saudi Arabia (`countries/saudi-arabia/`) and Malaysia (`countr
 - `global/`: docs that apply to every country, built and cited the same way as a country doc: `faq/` (the questions people ask most), `dalal-scams/` (broker tricks and where to complain), `departure/` (where people get stuck or asked for bribes leaving and coming back), `illegal-routes/` (irregular routes and how they end), `money/` (sending money home), `services/` (services for migrants and their families) and `other-destinations/` (countries with no doc of their own yet, one section each). A fact true for every country goes in the global doc; a fact specific to one country goes in that country's doc. Each country doc has its own FAQ, scams, departure and irregular-route parts for what is specific to it, and points to the global doc for the rest (for example "see "Fake BMET cards and fake clearance" in the Dalal scams doc"); the two must not contradict each other.
 - `agencies/`: the shared list of the most active recruiting agencies (`agencies.csv`), counted from BMET's permission letters, with cited red flags, and a readable doc built the same way as a country doc. Country docs name an agency's flags from here.
 - `tools/`: the shared scripts every country uses. Run them from inside your country folder.
-- `KB-STRUCTURE.md`: what the Migration Navigator bot (`navigator-bot/`) reads from `main`, every 15 minutes. Keep to it; a check on every pull request fails if a guide would disappear or lose most of its sections. Tell the bot team before renaming, moving or deleting a guide folder.
+- What the Migration Navigator bot (`navigator-bot/`) reads, and the rules that keep it working, are under "What the bot reads" below.
 - `official-pdfs/`: official Bangladesh-side documents. Most apply to every country: the Ministry of Expatriates' Welfare citizen charter, the Wage Earners' Welfare Board citizen charter and annual report, the Probashi Kallyan Bank (PKB) loan page and charter, and BMET's safe migration leaflet. The rest are Saudi-specific BMET notices (skill test, permission letter, Takamol warning), useful as examples of what to look for.
 - `data/oep-agency-list-2026-10-28.csv`: BMET's full recruiting-agency licence list (licence, name, address, phone, status, expiry), pulled 28 Oct 2026.
 
@@ -119,6 +119,46 @@ Restart Claude Code after logging in.
 ## Work log
 
 `LOG.md` records what was done, by whom, how it was checked, what was tried and dropped, and what is left open, newest first. Before you finish any piece of work that changes a doc, `tools/`, `agencies/`, `data/` or `datasets/`, add an entry at the top of `LOG.md` in the shape shown there and commit it with the work. This applies to every person and every agent: an agent's final step is the log entry, not the commit. A pull request that changes those folders without changing `LOG.md` fails its check. For a large pass, keep the entry short and put the full trace (briefs, drafts, checker verdicts, scripts) in `passes/`. Read the latest entries before starting, so you don't redo or undo someone else's work.
+
+## What the bot reads
+
+The Migration Navigator bot (WhatsApp, Telegram and the web chat, in `navigator-bot/`) reads the guides straight from `main` on GitHub. It checks for new commits every 15 minutes, so a merged change reaches people within about 15 minutes, with no redeploy. Keep to the structure below, and the bot picks up every change by itself.
+
+### The files it reads
+
+- **A guide is any folder with a `doc.md`.** Today:
+  - `countries/<country>/doc.md`: one per destination;
+  - `agencies/doc.md`;
+  - `global/<topic>/doc.md`: faq, dalal-scams, departure, illegal-routes, money, services, other-destinations.
+- **What kind of guide it is:**
+  - every folder directly under `countries/` is a destination;
+  - every other guide applies to all countries.
+  - The folder name is the guide's id (`saudi-arabia`, `faq`), so don't rename folders casually.
+- **Beside each `doc.md`:** `facts.csv` and `sources.csv`. The bot uses them to tell official facts from news reports and to show each fact's date.
+- **What it ignores:** `README.md`, the `.docx` files, `notes.md`, `questions.md`, `sources/`, `passes/`, `datasets/`, `tools/`, `official-pdfs/` and `data/`.
+
+### Inside `doc.md`
+
+- **Headings:** one `#` title, then `##`, `###` and `####` headings. The bot splits each guide into sections at the headings, and the heading path is what it searches and quotes, so headings should say what the section is about.
+- **Citations:** in square brackets, like `[A0123]` or `[A0123, N0045]`. The ids must match the `id` column of `facts.csv` beside the doc.
+- **Open questions:** in a quote block that starts `> **Need to know**`. The bot never states these as facts.
+- **Title:** for a country guide, starts with the country's name (`# Saudi Arabia: migration guide`). The bot uses it as the country's name in chats and on the web page.
+
+### `facts.csv`
+
+The bot reads these columns: `id`, `url`, `source_type` (`official`, `news`, `official-archived`, `news-archived`), `status` and `page_date` (`YYYY-MM-DD`, `YYYY-MM` or `undated`). Other columns are free to change.
+
+### Changes that need care
+
+- **New country:** add `countries/<country>/` with `doc.md`, `facts.csv` and `sources.csv`. Nothing else to do. To add Bangla names or city names people type for it (like "দুবাই" for the UAE), edit `ALIASES` and `DISPLAY` in `navigator-bot/src/kb/countries.ts`.
+- **Renaming, moving, splitting or deleting a guide:** the check on the pull request ("Bot can read the guides") will flag the old guide as gone. Say in the pull request that it's on purpose. Once merged, the live bot refuses the new version until someone confirms it (on the host: set `KB_ACCEPT_COMMIT` to that commit, then remove it), so tell the bot team first.
+- **Cutting a large part of a guide:** the same check fails if a guide with 20 or more sections loses more than half of them.
+
+### What protects the live bot
+
+- **Before merging:** the pull-request check reads every guide in the pull request the way the bot does and compares it with `main`.
+- **On the server:** a new version replaces the old one only if no guide vanished or lost most of its sections. Otherwise the bot keeps answering from the last good version (remembered across restarts) and alerts the bot team.
+- **Reporting:** `https://<bot address>/health` shows the commit the bot is using, how many guides it loaded, and any warning.
 
 ## Version control
 
