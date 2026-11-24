@@ -109,7 +109,7 @@ Open for students, visitors and workers with a genuine job offer, but with fewer
 
 - **Study permits for Bangladeshis:** about 9,810 took effect in 2023, 6,735 in 2024, 5,860 in 2025 and 4,305 from January to September 2026 <sup>[5](#o5)</sup>.
 - **Bangladeshi students who never showed up:** 11,948 went in the period covered by Canada's figures published in March-April 2024, and 7.5% of them never contacted their university or college after arriving <sup>[N3](#n3)</sup>.
-- **Workers cleared by BMET:** none in 2021, 99 in 2022, 548 in 2023 (196 women), 534 in 2024, 147 in 2025 and 64 from January to 23 November 2026 <sup>[13](#o13), [14](#o14), [2](#o2), [15](#o15), [16](#o16), [6](#o6), [17](#o17)</sup>. In 2023, 420 of the 548 were recorded under the job category "Worker"; in 2024 the largest named trade was cook (30) <sup>[18](#o18), [19](#o19)</sup>.
+- **Workers cleared by BMET:** 548 in 2023 (196 women), 534 in 2024, 147 in 2025 and 64 from January to 23 November 2026, by BMET's online OEP clearance report <sup>[2](#o2), [13](#o13), [14](#o14), [6](#o6), [15](#o15)</sup>. In 2023, 420 of the 548 were recorded under the job category "Worker"; in 2024 the largest named trade was cook (30) <sup>[16](#o16), [17](#o17)</sup>.
 - **Post-graduation work permits:** more than 105,000 were issued in the first half of 2024, 64% of them to college program graduates, according to the Toronto Star <sup>[N1 (2024)](#n1)</sup>.
 - **Stopped before boarding:** in 2024 CBSA recommended that about 11,050 passengers with suspicious travel documents not be boarded, 493 of them Bangladeshis (475 suspected of fraud) <sup>[N2](#n2)</sup>.
 - **World Cup visitor visas:** 45 issued from Bangladesh for the 2026 tournament, out of 26,111 FIFA-related permits or visas in all <sup>[N9](#n9)</sup>.
@@ -133,8 +133,8 @@ In this reporting a Bangladeshi reaches Canada through a college or university a
 
 ### 1.4 What you pay, and what you earn and keep
 
-- **Government fees:** study permit CAD 150, visitor visa CAD 100, work permit CAD 155, open work permit holder fee CAD 100 on top, biometrics CAD 85 per person (at most CAD 170 for a family applying together) <sup>[20](#o20)</sup>. The post-graduation work permit costs CAD 255 <sup>[21](#o21)</sup>.
-- **Visa centre extras:** booking a biometrics appointment is free; the premium lounge (Tk 8,409) and courier (Tk 5,096 a package) are optional (see [Step 2: Apply for the study permit](#step-2-apply-for-the-study-permit)) <sup>[22](#o22)</sup>.
+- **Government fees:** study permit CAD 150, visitor visa CAD 100, work permit CAD 155, open work permit holder fee CAD 100 on top, biometrics CAD 85 per person (at most CAD 170 for a family applying together) <sup>[18](#o18)</sup>. The post-graduation work permit costs CAD 255 <sup>[19](#o19)</sup>.
+- **Visa centre extras:** booking a biometrics appointment is free; the premium lounge (Tk 8,409) and courier (Tk 5,096 a package) are optional (see [Step 2: Apply for the study permit](#step-2-apply-for-the-study-permit)) <sup>[20](#o20)</sup>.
 - **Fake papers cost more than money:** a false document in any application can mean refusal, a ban of at least five years and a permanent fraud record (see [Lying on an application](#lying-on-an-application)) <sup>[4](#o4)</sup>.
 - **Unpaid wages:** in the Saskatchewan case the court ordered the two owners to pay the woman CAD 5,885.16 and CAD 12,268 as unpaid wages and restitution <sup>[N4](#n4)</sup>.
 - **Tuition:** international undergraduates paid on average about CAD 41,746 a year in 2025-26, about CAD 49,800 in Ontario and about CAD 18,900 in Newfoundland and Labrador, according to Statistics Canada; engineering and computer science can cost well above the average <sup>[N11](#n11)</sup>.
@@ -149,9 +149,9 @@ In this reporting a Bangladeshi reaches Canada through a college or university a
 
 ### 1.5 What ties you to the employer
 
-- **Students:** work off campus is limited to 24 hours a week during classes, unlimited in scheduled breaks (see [Can you work?](#can-you-work)) <sup>[23](#o23)</sup>.
+- **Students:** work off campus is limited to 24 hours a week during classes, unlimited in scheduled breaks (see [Can you work?](#can-you-work)) <sup>[21](#o21)</sup>.
 - **Graduates:** the post-graduation work permit is open, so the holder can work for any employer <sup>[N12](#n12)</sup>.
-- **Workers on an employer-specific permit:** the permit names the employer, place and job <sup>[12](#o12)</sup>. To change employer the worker needs a new work permit, and a worker who loses the job must stop working until it is approved (see [Changing employer](#changing-employer)) <sup>[24](#o24)</sup>. A worker who is abused can get an open permit to leave (see [If you are abused or not paid](#if-you-are-abused-or-not-paid)) <sup>[25](#o25)</sup>.
+- **Workers on an employer-specific permit:** the permit names the employer, place and job <sup>[12](#o12)</sup>. To change employer the worker needs a new work permit, and a worker who loses the job must stop working until it is approved (see [Changing employer](#changing-employer)) <sup>[22](#o22)</sup>. A worker who is abused can get an open permit to leave (see [If you are abused or not paid](#if-you-are-abused-or-not-paid)) <sup>[23](#o23)</sup>.
 - **Anyone without a work permit:** cannot work legally anywhere in Canada <sup>[12](#o12)</sup>.
 
 <a id="what-goes-wrong-most-and-what-people-wrongly-believe"></a>
@@ -164,9 +164,9 @@ The reported problems are fake documents in visit-visa files, students who never
 
 #### 1.6.1 What people believe, and the facts
 
-- **"Come on a visit or student visa, then claim asylum."** Asylum claims by temporary visa holders fell 84% from April 2024 to April 2026, and a claim that contradicts what was said in the visa application is now examined strictly; IRCC says asylum is not a shortcut to immigrate or stay longer (see [Asylum](#asylum)) <sup>[N15](#n15), [26](#o26)</sup>.
+- **"Come on a visit or student visa, then claim asylum."** Asylum claims by temporary visa holders fell 84% from April 2024 to April 2026, and a claim that contradicts what was said in the visa application is now examined strictly; IRCC says asylum is not a shortcut to immigrate or stay longer (see [Asylum](#asylum)) <sup>[N15](#n15), [24](#o24)</sup>.
 - **"The agent filled in the form, so the agent is responsible."** The applicant is responsible for everything in the application, whoever prepared it <sup>[4](#o4)</sup>.
-- **"A study permit lets me go and work."** A Prothom Alo education article said that chasing work instead of study makes staying in Canada hard, and work off campus is capped at 24 hours a week during classes <sup>[N5 (2024)](#n5), [23](#o23)</sup>.
+- **"A study permit lets me go and work."** A Prothom Alo education article said that chasing work instead of study makes staying in Canada hard, and work off campus is capped at 24 hours a week during classes <sup>[N5 (2024)](#n5), [21](#o21)</sup>.
 - **"Part-time work will pay the tuition."** Part-time income helps with daily costs but is not enough for tuition, a Canada-based researcher wrote; a Bangladeshi student in Manitoba said hundreds now queue for a job in an ordinary grocery shop <sup>[N11](#n11), [N10](#n10)</sup>.
 - **"Studying in Canada leads to a job and permanent residence."** It guarantees neither; that depends on skills, experience and the immigration policy of the time <sup>[N11](#n11)</sup>.
 - **"A work permit leads to permanent residence."** A woman was promised permanent residence through the temporary foreign worker process and was instead trafficked (see [The Saskatchewan restaurant case](#the-saskatchewan-restaurant-case)) <sup>[N4](#n4)</sup>.
@@ -198,15 +198,15 @@ Canada capped new international students in 2024 because of a housing crisis, cu
 1. Plan at least 10 to 12 months ahead, a November 2026 study guide advises, because September applications open late in the previous year and international deadlines are often earlier <sup>[N11](#n11)</sup>. The main intake is September (some institutions also take students in January or May), applications for September usually open late in the year before, and international deadlines are often earlier <sup>[N11](#n11)</sup>.
 2. Check the entry requirements: a Bangladeshi HSC (Higher Secondary Certificate) is enough to apply for a three- to four-year bachelor's degree; each university's website shows how it rates the HSC, the subjects it requires (higher mathematics and physics for engineering) and the minimum marks; a GPA 5 alone does not guarantee admission or a scholarship, because competitive programs look at subject marks <sup>[N11](#n11)</sup>.
 3. Take an English test: most English-medium universities accept IELTS Academic, TOEFL iBT or another test they recognise; many bachelor's programs ask for IELTS 6.5 overall, with minimums for each part that vary by department, and French-language institutions may require French <sup>[N11](#n11)</sup>.
-4. Check the school is a designated learning institution (DLI), a school a province has approved to host international students: search IRCC's DLI list on canada.ca by province, school name or city, note the school's DLI number (it goes on the study permit application) and check whether the list shows it as offering programs that lead to a post-graduation work permit <sup>[27](#o27)</sup>.
+4. Check the school is a designated learning institution (DLI), a school a province has approved to host international students: search IRCC's DLI list on canada.ca by province, school name or city, note the school's DLI number (it goes on the study permit application) and check whether the list shows it as offering programs that lead to a post-graduation work permit <sup>[25](#o25)</sup>.
 5. Check that the program leads to a post-graduation work permit if you want to work in Canada afterwards:
-   - a bachelor's, master's or doctoral degree qualifies in any field <sup>[28](#o28)</sup>;
-   - a college, polytechnic or other non-university program qualifies only if its field of study is on IRCC's list, for study permits applied for from 1 November 2024: about 966 programs in agriculture and agri-food, health care, STEM (science, technology, engineering and mathematics), skilled trades and transportation <sup>[28](#o28), [N1 (2024)](#n1)</sup>;
+   - a bachelor's, master's or doctoral degree qualifies in any field <sup>[26](#o26)</sup>;
+   - a college, polytechnic or other non-university program qualifies only if its field of study is on IRCC's list, for study permits applied for from 1 November 2024: about 966 programs in agriculture and agri-food, health care, STEM (science, technology, engineering and mathematics), skilled trades and transportation <sup>[26](#o26), [N1 (2024)](#n1)</sup>;
    - tourism, hospitality and business studies are not on the list <sup>[N1 (2024)](#n1)</sup>;
    - to check, find the program's 6-digit CIP (Classification of Instructional Programs) code on the school's website, from the school, or in Statistics Canada's CIP catalogue, and search it on IRCC's "Field of study requirement" page; the code must be on the list when you apply for the study permit or the work permit, and the list is frozen for 2026 <sup>[7](#o7)</sup>;
-   - programs a private college delivers on behalf of a public college, and programs done more than half online, do not qualify <sup>[28](#o28)</sup>;
+   - programs a private college delivers on behalf of a public college, and programs done more than half online, do not qualify <sup>[26](#o26)</sup>;
    - re-check the CIP code if you change program midway <sup>[N12](#n12)</sup>.
-6. Look for scholarships early: universities offer entrance and merit scholarships and some offer need-based aid, but full bachelor's scholarships are few and very competitive, and many scholarship deadlines close before the admission deadline <sup>[N11](#n11)</sup>. Applying for a scholarship is usually free, and nobody can guarantee one (see [Done to students](#done-to-students)) <sup>[29](#o29)</sup>.
+6. Look for scholarships early: universities offer entrance and merit scholarships and some offer need-based aid, but full bachelor's scholarships are few and very competitive, and many scholarship deadlines close before the admission deadline <sup>[N11](#n11)</sup>. Applying for a scholarship is usually free, and nobody can guarantee one (see [Done to students](#done-to-students)) <sup>[27](#o27)</sup>.
 7. Choose a reputable institution after researching it, as a Prothom Alo education article advised; it also said competition would be high in Ontario and British Columbia, so other provinces are worth trying <sup>[N5 (2024)](#n5)</sup>.
 
 **Quebec:** parts of Quebec's new secularism law took effect on 1 September 2026, banning prayer rooms at public universities and colleges there; institutions' published guidance also bars praying on campus and covering the face <sup>[N11](#n11)</sup>. Many universities outside Quebec have multifaith prayer rooms, and Muslim, Hindu and Bangladeshi student associations that help newcomers settle and find housing <sup>[N11](#n11)</sup>.
@@ -217,29 +217,29 @@ An admission letter can be from a college that does not really exist: an Indian 
 
 ### 3.2 Step 2: Apply for the study permit
 
-Study permit applications from Bangladesh are decided by the High Commission of Canada in Singapore, not in Dhaka; the Dhaka, Chittagong and Sylhet visa application centres (VACs), run by VFS Global, only take fingerprints and passports <sup>[30](#o30), [31](#o31)</sup>.
+Study permit applications from Bangladesh are decided by the High Commission of Canada in Singapore, not in Dhaka; the Dhaka, Chittagong and Sylhet visa application centres (VACs), run by VFS Global, only take fingerprints and passports <sup>[28](#o28), [29](#o29)</sup>.
 
 1. Apply to the university: most Ontario universities take applications through the Ontario Universities' Application Centre (OUAC); in other provinces apply to the institution directly <sup>[N11](#n11)</sup>. Send SSC (Secondary School Certificate) and HSC certificates and transcripts, your passport, the language test result and, where asked, a personal statement; some programs add a questionnaire, portfolio or interview <sup>[N11](#n11)</sup>.
-2. If selected, you get a letter of acceptance (LOA); IRCC asks the school to confirm it is genuine, and if the school does not answer in time IRCC returns the application and refunds the fee <sup>[32](#o32)</sup>.
-3. Get a provincial attestation letter (PAL), a letter from the province confirming a study space for you: accept the offer and pay part or all of the tuition, then ask the school how to apply; the school provides it <sup>[32](#o32), [33](#o33)</sup>. Master's and doctoral students at a public DLI do not need one from 1 January 2026 <sup>[33](#o33)</sup>. A PAL issued in 2026 is valid until 31 December 2026 unless it shows an earlier date, and after an approval or refusal you need a new one to apply again <sup>[33](#o33)</sup>. For Quebec, get a Quebec Acceptance Certificate (CAQ) from the Government of Quebec instead; the school explains how <sup>[33](#o33)</sup>.
+2. If selected, you get a letter of acceptance (LOA); IRCC asks the school to confirm it is genuine, and if the school does not answer in time IRCC returns the application and refunds the fee <sup>[30](#o30)</sup>.
+3. Get a provincial attestation letter (PAL), a letter from the province confirming a study space for you: accept the offer and pay part or all of the tuition, then ask the school how to apply; the school provides it <sup>[30](#o30), [31](#o31)</sup>. Master's and doctoral students at a public DLI do not need one from 1 January 2026 <sup>[31](#o31)</sup>. A PAL issued in 2026 is valid until 31 December 2026 unless it shows an earlier date, and after an approval or refusal you need a new one to apply again <sup>[31](#o31)</sup>. For Quebec, get a Quebec Acceptance Certificate (CAQ) from the Government of Quebec instead; the school explains how <sup>[31](#o31)</sup>.
 4. Prove the money, without counting any work in Canada: first-year tuition, living costs and travel both ways, and a plan for paying the later years <sup>[10](#o10)</sup>. For applications from 1 September 2026, living costs outside Quebec are CAD 23,448 for one person, CAD 29,192 for two and CAD 35,888 for three <sup>[10](#o10)</sup>. Accepted proof includes a tuition and housing receipt from the school, an education loan, a scholarship letter, a sponsor's letter with their job, relationship and amount, and 6 months of bank statements with the source of the money <sup>[10](#o10)</sup>.
-5. Prepare the Bangladesh extras the Singapore office asks for <sup>[30](#o30)</sup>:
-   - a one-page study plan: why this program in Canada, why not a similar one at home, how it helps your job prospects at home, and your ties to Bangladesh; a CV if you left full-time study more than two years ago <sup>[30](#o30)</sup>;
-   - notarized copies of diplomas and transcripts <sup>[30](#o30)</sup>;
-   - original police certificates for every country you lived in six months or more since age 18 <sup>[30](#o30)</sup>;
-   - bank statements showing at least 4 months of history and balance, with a written explanation of where the money came from <sup>[30](#o30)</sup>;
-   - each parent's employment letter (employer, date of hire, position, salary) or two years of income tax records; for a parent's business, the registration, two years' business tax and audited accounts <sup>[30](#o30)</sup>;
-   - IELTS Academic results from the last year, strongly recommended <sup>[30](#o30)</sup>.
-6. Apply online in an IRCC account, with a scanner or phone camera for the documents and a credit or debit card; pay CAD 150 for the permit and CAD 85 for biometrics at the same time <sup>[34](#o34), [20](#o20)</sup>.
-7. Give biometrics: within 30 days of IRCC's Biometric Instruction Letter, book a free appointment with VFS Global and go to a VAC, Sunday to Thursday, 09:00 to 14:00 <sup>[34](#o34), [22](#o22)</sup>:
-   - **Dhaka:** 4th floor, Delta Life Tower, Plot 37, Road 90, North Gulshan Avenue, Gulshan-2 <sup>[22](#o22)</sup>;
-   - **Chittagong:** 5th floor, World Trade Centre, 102-103 Agrabad C/A <sup>[22](#o22)</sup>;
-   - **Sylhet:** Merchant Tower, East Mirabazar <sup>[22](#o22)</sup>.
-   Biometrics given once last 10 years <sup>[34](#o34)</sup>.
-8. Wait: IRCC's published processing time for study permits from Bangladesh was 4 weeks in November 2026 <sup>[35](#o35), [36](#o36)</sup>. An interview may be required <sup>[30](#o30)</sup>.
-9. If approved, IRCC asks for your passport through the VAC and puts a visitor visa in it, and sends a port-of-entry letter of introduction; the study permit itself is issued at the Canadian airport on arrival <sup>[22](#o22), [37](#o37)</sup>.
+5. Prepare the Bangladesh extras the Singapore office asks for <sup>[28](#o28)</sup>:
+   - a one-page study plan: why this program in Canada, why not a similar one at home, how it helps your job prospects at home, and your ties to Bangladesh; a CV (curriculum vitae, a summary of your education and work) if you left full-time study more than two years ago <sup>[28](#o28)</sup>;
+   - notarized copies of diplomas and transcripts <sup>[28](#o28)</sup>;
+   - original police certificates for every country you lived in six months or more since age 18 <sup>[28](#o28)</sup>;
+   - bank statements showing at least 4 months of history and balance, with a written explanation of where the money came from <sup>[28](#o28)</sup>;
+   - each parent's employment letter (employer, date of hire, position, salary) or two years of income tax records; for a parent's business, the registration, two years' business tax and audited accounts <sup>[28](#o28)</sup>;
+   - IELTS Academic results from the last year, strongly recommended <sup>[28](#o28)</sup>.
+6. Apply online in an IRCC account, with a scanner or phone camera for the documents and a credit or debit card; pay CAD 150 for the permit and CAD 85 for biometrics at the same time <sup>[32](#o32), [18](#o18)</sup>.
+7. Give biometrics: within 30 days of IRCC's Biometric Instruction Letter, book a free appointment with VFS Global and go to a VAC, Sunday to Thursday, 09:00 to 14:00 <sup>[32](#o32), [20](#o20)</sup>:
+   - **Dhaka:** 4th floor, Delta Life Tower, Plot 37, Road 90, North Gulshan Avenue, Gulshan-2 <sup>[20](#o20)</sup>;
+   - **Chittagong:** 5th floor, World Trade Centre, 102-103 Agrabad C/A <sup>[20](#o20)</sup>;
+   - **Sylhet:** Merchant Tower, East Mirabazar <sup>[20](#o20)</sup>.
+   Biometrics given once last 10 years <sup>[32](#o32)</sup>.
+8. Wait: IRCC's published processing time for study permits from Bangladesh was 4 weeks in November 2026 <sup>[33](#o33), [34](#o34)</sup>. An interview may be required <sup>[28](#o28)</sup>.
+9. If approved, IRCC asks for your passport through the VAC and puts a visitor visa in it, and sends a port-of-entry letter of introduction; the study permit itself is issued at the Canadian airport on arrival <sup>[20](#o20), [35](#o35)</sup>.
 
-**If refused:** the letter gives the reasons, for example no valid acceptance letter, not enough money, a failed medical, or not convincing the officer that you mainly want to study and will leave at the end <sup>[37](#o37)</sup>. Reapplying with the same information does not change the decision <sup>[29](#o29)</sup>. Fees paid to a school before approval are paid at your own risk <sup>[30](#o30)</sup>.
+**If refused:** the letter gives the reasons, for example no valid acceptance letter, not enough money, a failed medical, or not convincing the officer that you mainly want to study and will leave at the end <sup>[35](#o35)</sup>. Reapplying with the same information does not change the decision <sup>[27](#o27)</sup>. Fees paid to a school before approval are paid at your own risk <sup>[28](#o28)</sup>.
 
 Every document must be genuine and every answer true: a forged education certificate or hidden fact is misrepresentation (see [Lying on an application](#lying-on-an-application)) <sup>[4](#o4)</sup>.
 
@@ -250,19 +250,19 @@ Every document must be genuine and every answer true: a forged education certifi
 
 ### 3.3 Step 3: Study full time in Canada
 
-1. Stay enrolled full time every semester; part-time is allowed only in the last semester <sup>[28](#o28)</sup>.
-2. Study in class in Canada: for students whose study permit application or program start is on or after 1 September 2024, at least half the program must be done in class in Canada, and time studied outside Canada is cut from the post-graduation work permit <sup>[28](#o28)</sup>.
+1. Stay enrolled full time every semester; part-time is allowed only in the last semester <sup>[26](#o26)</sup>.
+2. Study in class in Canada: for students whose study permit application or program start is on or after 1 September 2024, at least half the program must be done in class in Canada, and time studied outside Canada is cut from the post-graduation work permit <sup>[26](#o26)</sup>.
 3. Attend: under the International Student Compliance Regime, institutions report twice a year whether students are attending classes as their permits require <sup>[N3](#n3)</sup>. In the figures published in March-April 2024, about 50,000 international students had come on study permits without starting their studies, and 7.5% of 11,948 Bangladeshi students never contacted their institution after arriving <sup>[N3](#n3)</sup>.
 
 <a id="can-you-work"></a>
 
 ### 3.4 Can you work?
 
-1. Off campus: a full-time student in a post-secondary program of at least 6 months leading to a degree, diploma or certificate may work up to 24 hours a week during terms, without a work permit, once the program has started and with a social insurance number (SIN), the 9-digit number needed to work <sup>[23](#o23)</sup>.
-2. During scheduled breaks such as summer and winter holidays, off-campus hours are unlimited <sup>[23](#o23)</sup>.
-3. On campus (for the school, a faculty member, a student group or a business on campus), hours are unlimited, in term and in breaks <sup>[38](#o38)</sup>.
-4. Students only in English or French language courses or courses needed to enter a program cannot work off campus <sup>[23](#o23)</sup>.
-5. Working more than 24 hours a week in term breaks the permit conditions: you can lose student status, be refused future permits and have to leave Canada <sup>[23](#o23)</sup>.
+1. Off campus: a full-time student in a post-secondary program of at least 6 months leading to a degree, diploma or certificate may work up to 24 hours a week during terms, without a work permit, once the program has started and with a social insurance number (SIN), the 9-digit number needed to work <sup>[21](#o21)</sup>.
+2. During scheduled breaks such as summer and winter holidays, off-campus hours are unlimited <sup>[21](#o21)</sup>.
+3. On campus (for the school, a faculty member, a student group or a business on campus), hours are unlimited, in term and in breaks <sup>[36](#o36)</sup>.
+4. Students only in English or French language courses or courses needed to enter a program cannot work off campus <sup>[21](#o21)</sup>.
+5. Working more than 24 hours a week in term breaks the permit conditions: you can lose student status, be refused future permits and have to leave Canada <sup>[21](#o21)</sup>.
 
 **Finding work:** in April 2026 Statistics Canada put unemployment among 15- to 24-year-olds at 14.1%, more than double the 6.7% national rate; for South Asian youth, including Bangladeshis, it was 13%, against 11.2% for white youth <sup>[N10](#n10)</sup>. Canada lost about 109,000 jobs in January and February 2026, half of them full time, including 64,000 held by young people <sup>[N10](#n10)</sup>. Analysts said employers now prefer experienced workers, and newcomers without professional networks often get no interview <sup>[N10](#n10)</sup>. Ashiq Zaman, a Bangladeshi student at the University of Manitoba, said white classmates find jobs through references while South Asians send CVs to hundreds of places without reply <sup>[N10](#n10)</sup>. Competition is highest in Toronto, Montreal, Edmonton, Vancouver and Calgary, where many immigrants live, while smaller cities have fewer jobs <sup>[N10](#n10)</sup>. Part-time pay helps with daily costs but does not cover tuition, a Canada-based researcher wrote <sup>[N11](#n11)</sup>.
 
@@ -270,17 +270,17 @@ Every document must be genuine and every answer true: a forged education certifi
 
 ### 3.5 Step 4: Apply for the post-graduation work permit
 
-The post-graduation work permit (PGWP) is an open work permit for graduates of Canadian institutions <sup>[N12](#n12)</sup>. It lasts as long as a program of 8 months to under 2 years, 3 years after a program of 2 years or more, and 3 years after any master's of at least 8 months <sup>[39](#o39)</sup>. It is issued only up to the passport's expiry date, so renew the passport first <sup>[39](#o39)</sup>. Nobody gets a second PGWP <sup>[28](#o28)</sup>.
+The post-graduation work permit (PGWP) is an open work permit for graduates of Canadian institutions <sup>[N12](#n12)</sup>. It lasts as long as a program of 8 months to under 2 years, 3 years after a program of 2 years or more, and 3 years after any master's of at least 8 months <sup>[37](#o37)</sup>. It is issued only up to the passport's expiry date, so renew the passport first <sup>[37](#o37)</sup>. Nobody gets a second PGWP <sup>[26](#o26)</sup>.
 
 **You'll need:**
 - proof of program completion (degree, diploma or transcript) <sup>[N12](#n12)</sup>;
 - proof of full-time enrolment <sup>[N12](#n12)</sup>;
 - proof that the program is eligible <sup>[N12](#n12)</sup>;
-- language test results from an approved test in English or French, no more than two years old: CLB (Canadian Language Benchmarks) 7 or the French equivalent, NCLC 7, in all four skills for degree graduates; CLB 5 or NCLC 5 for college graduates <sup>[28](#o28), [N12](#n12)</sup>;
+- language test results from an approved test in English or French, no more than two years old: CLB (Canadian Language Benchmarks) 7 or the French equivalent, NCLC 7, in all four skills for degree graduates; CLB 5 or NCLC 5 for college graduates <sup>[26](#o26), [N12](#n12)</sup>;
 - medical results, where needed <sup>[N12](#n12)</sup>.
 
-1. Apply online within 180 days of the school's confirmation that you completed the program, while your study permit is still valid; the fee is CAD 255 <sup>[28](#o28), [21](#o21)</sup>.
-2. If the study permit has already expired, you have 90 days after expiry to apply for the PGWP and pay to restore your student status; you cannot work until approved, and after 90 days you must leave Canada <sup>[21](#o21)</sup>.
+1. Apply online within 180 days of the school's confirmation that you completed the program, while your study permit is still valid; the fee is CAD 255 <sup>[26](#o26), [19](#o19)</sup>.
+2. If the study permit has already expired, you have 90 days after expiry to apply for the PGWP and pay to restore your student status; you cannot work until approved, and after 90 days you must leave Canada <sup>[19](#o19)</sup>.
 3. Medical problems, insufficient funds, a criminal record, a security risk or false information can make you inadmissible, and so can a family member's inadmissibility <sup>[N12](#n12)</sup>.
 
 <a id="bringing-a-spouse"></a>
@@ -297,10 +297,10 @@ Since the 2024 cap, only spouses of master's, PhD and postdoctoral students get 
 
 #### 3.7.1 Done to students
 
-- **IRCC's warning signs:** someone who offers a study visa without a DLI acceptance letter, sells an acceptance letter, offers cheaper tuition for a fee, charges to guarantee a scholarship, says every program leads to a work permit, or promises a job or permanent residence <sup>[29](#o29)</sup>. Pay tuition only to the school, and have the school send the acceptance letter directly to you <sup>[29](#o29)</sup>.
-- **Undeclared or unlicensed agents:** any person who helps with the application must be declared on it, paid or not; hiding one counts as lying <sup>[29](#o29)</sup>. A paid consultant in Canada must be a member of the College of Immigration and Citizenship Consultants, a lawyer a member of a provincial law society; check the name on their websites <sup>[40](#o40)</sup>.
+- **IRCC's warning signs:** someone who offers a study visa without a DLI acceptance letter, sells an acceptance letter, offers cheaper tuition for a fee, charges to guarantee a scholarship, says every program leads to a work permit, or promises a job or permanent residence <sup>[27](#o27)</sup>. Pay tuition only to the school, and have the school send the acceptance letter directly to you <sup>[27](#o27)</sup>.
+- **Undeclared or unlicensed agents:** any person who helps with the application must be declared on it, paid or not; hiding one counts as lying <sup>[27](#o27)</sup>. A paid consultant in Canada must be a member of the College of Immigration and Citizenship Consultants, a lawyer a member of a provincial law society; check the name on their websites <sup>[38](#o38)</sup>.
 - **Fake colleges:** many Indian students found on arrival that their college was fake or lacked facilities, according to the Economic Times <sup>[N3](#n3)</sup>. One from Haryana dealt with his agent only by phone, and after he paid 4 lakh rupees the agent assured him he could pay the rest from part-time work; he had paid 4.2 lakh rupees of a 12 lakh rupee "tuition fee" before finding the college was an empty office <sup>[N3](#n3)</sup>.
-- **If it already happened:** a student who came to study genuinely, unknowingly used fake documents and has a removal order may get a temporary resident permit; contact IRCC's Client Support Centre and report to the Canadian Anti-Fraud Centre <sup>[41](#o41)</sup>.
+- **If it already happened:** a student who came to study genuinely, unknowingly used fake documents and has a removal order may get a temporary resident permit; contact IRCC's Client Support Centre and report to the Canadian Anti-Fraud Centre <sup>[39](#o39)</sup>.
 
 <a id="done-by-students"></a>
 
@@ -314,30 +314,30 @@ Since the 2024 cap, only spouses of master's, PhD and postdoctoral students get 
 
 ## 4 Visit visa
 
-The visit visa is the temporary resident visa (TRV), a sticker IRCC puts in the passport <sup>[42](#o42)</sup>. After COVID-19 Canada issued visit visas in large numbers, and lakhs of people from Bangladesh, India and other countries got them with fake documents, a Canada-based journalist wrote <sup>[N2](#n2)</sup>. Canada now screens temporary visa applications more carefully, and entry is limited for anyone whose purpose is unclear or suspicious <sup>[N15](#n15)</sup>. (For people sold Canadian visit visas as a way to work, see "Visit and tourist visas sold as jobs" in the Illegal routes doc.)
+The visit visa is the temporary resident visa (TRV), a sticker IRCC puts in the passport <sup>[40](#o40)</sup>. After COVID-19 Canada issued visit visas in large numbers, and lakhs of people from Bangladesh, India and other countries got them with fake documents, a Canada-based journalist wrote <sup>[N2](#n2)</sup>. Canada now screens temporary visa applications more carefully, and entry is limited for anyone whose purpose is unclear or suspicious <sup>[N15](#n15)</sup>. (For people sold Canadian visit visas as a way to work, see "Visit and tourist visas sold as jobs" in the Illegal routes doc.)
 
 <a id="how-to-apply"></a>
 
 ### 4.1 How to apply
 
-Visit visa applications from Bangladesh are also handled by the Singapore visa office <sup>[43](#o43)</sup>.
+Visit visa applications from Bangladesh are also handled by the Singapore visa office <sup>[41](#o41)</sup>.
 
-1. Check you can convince an officer of three things: ties at home (job, home, assets or family) that will bring you back, that you will leave at the end of the visit, and enough money for the stay <sup>[44](#o44)</sup>.
-2. Make sure your passport is valid for at least 6 months from the travel date <sup>[45](#o45)</sup>.
-3. Gather the documents the Singapore office asks for <sup>[43](#o43)</sup>:
-   - copies of birth and, if married, marriage certificates;
+1. Check you can convince an officer of three things: ties at home (job, home, assets or family) that will bring you back, that you will leave at the end of the visit, and enough money for the stay <sup>[42](#o42)</sup>.
+2. Make sure your passport is valid for at least 6 months from the travel date <sup>[43](#o43)</sup>.
+3. Gather the documents the Singapore office asks for <sup>[41](#o41)</sup>:
+   - copies of birth and, if married, marriage certificates <sup>[41](#o41)</sup>;
    - bank statements for the last 4 months and proof of income (employment letter, pay slips, business papers); if someone else pays, their signed letter, ID and a bank certificate, all dated within three months;
    - the Family Information Form (IMM 5707), filled in, dated and signed, required for residents of Bangladesh;
    - if visiting family or friends: the host's invitation letter with the purpose and length of the visit, proof of your relationship, and a copy of the host's Canadian citizenship or immigration status document;
    - if employed: a signed letter on company letterhead granting leave, with your position, salary and date of hire; if self-employed: business registration, licence and accounts;
    - provisional flight and hotel bookings.
-4. Apply online and pay CAD 100 for the visa and CAD 85 for biometrics <sup>[20](#o20)</sup>.
-5. Give biometrics at a VAC in Dhaka, Chittagong or Sylhet within 30 days of IRCC's letter (see [Step 2, item 7](#step-2-apply-for-the-study-permit)) <sup>[34](#o34), [31](#o31)</sup>.
-6. Wait: IRCC's published processing time for visitor visas from Bangladesh was 30 days in November 2026 <sup>[35](#o35), [36](#o36)</sup>.
-7. If approved, IRCC asks for your passport; you cannot travel until the visa is in it <sup>[46](#o46)</sup>. If refused, the letter in your IRCC account gives the reasons <sup>[46](#o46)</sup>.
-8. At the border the officer decides how long you may stay, normally up to six months <sup>[34](#o34)</sup>.
+4. Apply online and pay CAD 100 for the visa and CAD 85 for biometrics <sup>[18](#o18)</sup>.
+5. Give biometrics at a VAC in Dhaka, Chittagong or Sylhet within 30 days of IRCC's letter (see [Step 2, item 7](#step-2-apply-for-the-study-permit)) <sup>[32](#o32), [29](#o29)</sup>.
+6. Wait: IRCC's published processing time for visitor visas from Bangladesh was 30 days in November 2026 <sup>[33](#o33), [34](#o34)</sup>.
+7. If approved, IRCC asks for your passport; you cannot travel until the visa is in it <sup>[44](#o44)</sup>. If refused, the letter in your IRCC account gives the reasons <sup>[44](#o44)</sup>.
+8. At the border the officer decides how long you may stay, normally up to six months <sup>[32](#o32)</sup>.
 
-A complete file does not guarantee a visa, and false statements or fraudulent documents mean immediate refusal and a possible 5-year ban <sup>[43](#o43)</sup>.
+A complete file does not guarantee a visa, and false statements or fraudulent documents mean immediate refusal and a possible 5-year ban <sup>[41](#o41)</sup>.
 
 <a id="visa-cancellation-powers"></a>
 
@@ -380,17 +380,17 @@ Since March 2024 Canada has re-checked visas for fraud and stopped more than 2,0
 
 ## 5 Work permit
 
-Prime Minister Mark Carney said in September 2025 that the Temporary Foreign Worker Program must be restructured to match real labour demand in specific sectors and regions, and Canada cut its 2026 target for temporary foreign workers by 37% to 230,000 <sup>[N6](#n6)</sup>. From January to August 2025 only 42% of the targeted temporary foreign workers arrived <sup>[N6](#n6)</sup>. The 2027-2029 plan sets 220,000 new workers a year <sup>[11](#o11)</sup>. BMET cleared 147 Bangladeshi workers for Canada in 2025 and 64 in 2026 up to 23 November, spread over dozens of job titles (see [Size](#size)) <sup>[6](#o6), [17](#o17), [47](#o47)</sup>. How fake Canadian job offers are sold in Bangladesh is set out in the Dalal scams doc (see "Fake Australia and Canada work visas" in the Dalal scams doc).
+Prime Minister Mark Carney said in September 2025 that the Temporary Foreign Worker Program must be restructured to match real labour demand in specific sectors and regions, and Canada cut its 2026 target for temporary foreign workers by 37% to 230,000 <sup>[N6](#n6)</sup>. From January to August 2025 only 42% of the targeted temporary foreign workers arrived <sup>[N6](#n6)</sup>. The 2027-2029 plan sets 220,000 new workers a year <sup>[11](#o11)</sup>. BMET cleared 147 Bangladeshi workers for Canada in 2025 and 64 in 2026 up to 23 November, spread over dozens of job titles (see [Size](#size)) <sup>[6](#o6), [15](#o15), [45](#o45)</sup>. How fake Canadian job offers are sold in Bangladesh is set out in the Dalal scams doc (see "Fake Australia and Canada work visas" in the Dalal scams doc).
 
 <a id="how-a-genuine-work-permit-is-issued"></a>
 
 ### 5.1 How a genuine work permit is issued
 
 1. The Canadian employer checks whether the job needs an LMIA, applies for one if it does, and gives the worker the LMIA letter and its Annex A <sup>[12](#o12)</sup>. The employer must not be on IRCC's list of non-compliant employers <sup>[12](#o12)</sup>.
-2. The worker applies online to IRCC with the job offer and LMIA papers, pays CAD 155, and gives biometrics (CAD 85) at a VAC in Dhaka, Chittagong or Sylhet (see [Step 2, item 7](#step-2-apply-for-the-study-permit)) <sup>[20](#o20), [31](#o31)</sup>.
-3. IRCC's published processing time for work permits from Bangladesh was 30 weeks in November 2026 <sup>[35](#o35), [36](#o36)</sup>.
+2. The worker applies online to IRCC with the job offer and LMIA papers, pays CAD 155, and gives biometrics (CAD 85) at a VAC in Dhaka, Chittagong or Sylhet (see [Step 2, item 7](#step-2-apply-for-the-study-permit)) <sup>[18](#o18), [29](#o29)</sup>.
+3. IRCC's published processing time for work permits from Bangladesh was 30 weeks in November 2026 <sup>[33](#o33), [34](#o34)</sup>.
 4. The permit lists the employer, location and job, and the worker must keep to them <sup>[12](#o12)</sup>.
-5. The employer must give a signed employment agreement with the job, conditions, maximum weekly hours and pay; keep a copy <sup>[48](#o48)</sup>.
+5. The employer must give a signed employment agreement with the job, conditions, maximum weekly hours and pay; keep a copy <sup>[46](#o46)</sup>.
 
 > **Need to know**
 > - Which Bangladeshi recruiting agencies sent the workers BMET cleared for Canada in 2023-2026, and does BMET publish permission letters for Canadian employers?
@@ -400,24 +400,24 @@ Prime Minister Mark Carney said in September 2025 that the Temporary Foreign Wor
 
 ### 5.2 Rights at work
 
-Temporary foreign workers are covered by Canada's labour laws: the employer must pay for the work, keep the workplace safe and cannot take the worker's passport or work permit <sup>[48](#o48)</sup>. Each province has an employment or labour standards office for pay, hours and conditions; the worker needs no permission to contact it and cannot be punished or deported for doing so <sup>[48](#o48)</sup>.
+Temporary foreign workers are covered by Canada's labour laws: the employer must pay for the work, keep the workplace safe and cannot take the worker's passport or work permit <sup>[46](#o46)</sup>. Each province has an employment or labour standards office for pay, hours and conditions; the worker needs no permission to contact it and cannot be punished or deported for doing so <sup>[46](#o46)</sup>.
 
 <a id="changing-employer"></a>
 
 ### 5.3 Changing employer
 
-1. Get a new job offer, then apply for a new employer-specific work permit from inside Canada <sup>[24](#o24)</sup>.
-2. To start the new job before the decision, send IRCC's web form with the priority code PPCHANGEWORK2020 and the set text from IRCC's "Changing jobs or employers" page <sup>[24](#o24)</sup>.
-3. If you lost the job, stay in Canada and do not work for anyone until the new permit or IRCC's work authorization email arrives <sup>[24](#o24)</sup>.
+1. Get a new job offer, then apply for a new employer-specific work permit from inside Canada <sup>[22](#o22)</sup>.
+2. To start the new job before the decision, send IRCC's web form with the priority code PPCHANGEWORK2020 and the set text from IRCC's "Changing jobs or employers" page <sup>[22](#o22)</sup>.
+3. If you lost the job, stay in Canada and do not work for anyone until the new permit or IRCC's work authorization email arrives <sup>[22](#o22)</sup>.
 
 <a id="if-you-are-abused-or-not-paid"></a>
 
 ### 5.4 If you are abused or not paid
 
-1. In danger, call 911 <sup>[41](#o41)</sup>.
-2. Report the employer to Service Canada online or on the 24-hour tip line 1-866-602-9448 (live agents in over 200 languages, Monday to Friday 6:30 am to 8 pm Eastern time); the employer is never told who reported <sup>[49](#o49)</sup>. Abuse includes threats to your status, being kept at the work site, the employer keeping your passport, and wrong pay <sup>[49](#o49)</sup>.
-3. If you are on a valid employer-specific permit, apply from inside Canada for the free open work permit for vulnerable workers, which lets you leave and work for almost any other employer; abuse includes a third party charging you for the job or making false promises <sup>[25](#o25), [50](#o50), [51](#o51)</sup>.
-4. For trafficking, call the Canadian Human Trafficking Hotline, 1-833-900-1010 <sup>[41](#o41)</sup>.
+1. In danger, call 911 <sup>[39](#o39)</sup>.
+2. Report the employer to Service Canada online or on the 24-hour tip line 1-866-602-9448 (live agents in over 200 languages, Monday to Friday 6:30 am to 8 pm Eastern time); the employer is never told who reported <sup>[47](#o47)</sup>. Abuse includes threats to your status, being kept at the work site, the employer keeping your passport, and wrong pay <sup>[47](#o47)</sup>.
+3. If you are on a valid employer-specific permit, apply from inside Canada for the free open work permit for vulnerable workers, which lets you leave and work for almost any other employer; abuse includes a third party charging you for the job or making false promises <sup>[23](#o23), [48](#o48), [49](#o49)</sup>.
+4. For trafficking, call the Canadian Human Trafficking Hotline, 1-833-900-1010 <sup>[39](#o39)</sup>.
 
 <a id="the-saskatchewan-restaurant-case"></a>
 
@@ -452,28 +452,28 @@ Under IRPA, forging or altering a passport, visa, education certificate or simil
 
 For someone already in Canada, criminal charges are also possible <sup>[N16](#n16)</sup>. Reversing a fee payment by chargeback can bring a ban of up to 10 years <sup>[4](#o4)</sup>.
 
-**If you hold a fake document:** report it to CBSA's Border Watch line and the Canadian Anti-Fraud Centre, and to local police <sup>[41](#o41)</sup>.
+**If you hold a fake document:** report it to CBSA's Border Watch line and the Canadian Anti-Fraud Centre, and to local police <sup>[39](#o39)</sup>.
 
 <a id="asylum"></a>
 
 ## 8 Asylum
 
-Asylum claims by temporary visa holders (visitors and students) fell from 10,095 in April 2024 to 1,580 in April 2026, an 84% drop, according to IRCC <sup>[N15](#n15)</sup>. People used to enter on a visit or student visa and claim asylum later; now any mismatch between the reasons given for the visa and the asylum claim is examined strictly <sup>[N15](#n15)</sup>. IRCC says asylum is not a shortcut to immigrate or stay longer: people found not to need protection must leave, and lying on a claim can bring a ban on returning <sup>[26](#o26)</sup>. From January to August 2026, asylum claims fell 52% from the same period of 2025 <sup>[9](#o9)</sup>. Many visit-visa holders who claimed asylum after COVID-19 still had cases in the courts in June 2025 <sup>[N2](#n2)</sup>. Of the 45 Bangladeshis given visitor visas for the 2026 World Cup, 10 claimed asylum (see [World Cup visitors who claimed asylum](#world-cup-visitors-who-claimed-asylum)) <sup>[N9](#n9)</sup>. How false asylum stories are sold is covered in the Illegal routes doc (see "Asylum claims built on a false story" in the Illegal routes doc).
+Asylum claims by temporary visa holders (visitors and students) fell from 10,095 in April 2024 to 1,580 in April 2026, an 84% drop, according to IRCC <sup>[N15](#n15)</sup>. People used to enter on a visit or student visa and claim asylum later; now any mismatch between the reasons given for the visa and the asylum claim is examined strictly <sup>[N15](#n15)</sup>. IRCC says asylum is not a shortcut to immigrate or stay longer: people found not to need protection must leave, and lying on a claim can bring a ban on returning <sup>[24](#o24)</sup>. From January to August 2026, asylum claims fell 52% from the same period of 2025 <sup>[9](#o9)</sup>. Many visit-visa holders who claimed asylum after COVID-19 still had cases in the courts in June 2025 <sup>[N2](#n2)</sup>. Of the 45 Bangladeshis given visitor visas for the 2026 World Cup, 10 claimed asylum (see [World Cup visitors who claimed asylum](#world-cup-visitors-who-claimed-asylum)) <sup>[N9](#n9)</sup>. How false asylum stories are sold is covered in the Illegal routes doc (see "Asylum claims built on a false story" in the Illegal routes doc).
 
 One Bangladeshi refugee claimant's first claim was rejected because it was filed through a fraudulent immigration consultant (see [Crossing into the United States](#crossing-into-the-united-states)) <sup>[N13](#n13)</sup>.
 
 **Who is turned away before any hearing.** Under Bill C-12, law since 26 March 2026 and applied to claims made from 3 June 2025, a claim is not heard if it is made <sup>[8](#o8), [3](#o3)</sup>:
 - more than one year after the person first entered Canada after 24 June 2020, even if they left and came back;
 - more than 14 days after crossing into Canada between official border posts on the US land border.
-Also ineligible: anyone who ever made a claim in Canada that was rejected, withdrawn or abandoned, or claimed in a country that shares information with Canada <sup>[3](#o3)</sup>, and, under the Canada-US Safe Third Country Agreement, anyone arriving from the US at a land crossing, who is returned to the US unless an exception applies <sup>[3](#o3)</sup>. Unaccompanied minors, and people who register their intention to claim in the online portal within their first year, are exempt from the one-year rule <sup>[52](#o52)</sup>. People caught by the new rules still get a pre-removal risk assessment (PRRA) before removal <sup>[8](#o8)</sup>.
+Also ineligible: anyone who ever made a claim in Canada that was rejected, withdrawn or abandoned, or claimed in a country that shares information with Canada <sup>[3](#o3)</sup>, and, under the Canada-US Safe Third Country Agreement, anyone arriving from the US at a land crossing, who is returned to the US unless an exception applies <sup>[3](#o3)</sup>. Unaccompanied minors, and people who register their intention to claim in the online portal within their first year, are exempt from the one-year rule <sup>[50](#o50)</sup>. People caught by the new rules still get a pre-removal risk assessment (PRRA) before removal <sup>[8](#o8)</sup>.
 
-**How a claim works since 3 November 2026** <sup>[9](#o9), [52](#o52)</sup>:
+**How a claim works since 3 November 2026** <sup>[9](#o9), [50](#o50)</sup>:
 1. State the intention to claim in the IRCC Portal.
 2. Attend the in-person appointment IRCC gives you, where the claim is formally made.
 3. If the claim is eligible, submit the completed application and documents within 60 days (one 30-day extension on request).
 4. At the Immigration and Refugee Board (IRB) hearing, prove a fear of persecution for race, religion, nationality, political opinion or social group, or a danger of torture or risk to life, and that your own authorities cannot or will not protect you <sup>[3](#o3)</sup>.
 
-Claimants can get a free work permit after submitting a complete claim and passing the immigration medical exam <sup>[53](#o53)</sup>. A claimant who goes back to Bangladesh before the decision has the claim treated as abandoned <sup>[8](#o8)</sup>.
+Claimants can get a free work permit after submitting a complete claim and passing the immigration medical exam <sup>[51](#o51)</sup>. A claimant who goes back to Bangladesh before the decision has the claim treated as abandoned <sup>[8](#o8)</sup>.
 
 <a id="irregular-routes-and-undocumented-stay"></a>
 
@@ -516,20 +516,20 @@ Biman Bangladesh Airlines flies Dhaka to Toronto with a stopover in Rome; one fl
 
 ## 11 If a Bangladeshi dies in Canada
 
-To send the body home, the family or friends get a free death certificate for repatriation from the Bangladesh High Commission in Ottawa, with its form, a copy of the deceased's passport, the Canadian death certificate, and the next of kin's address and phone number in Bangladesh <sup>[54 (2022)](#o54)</sup>.
+To send the body home, the family or friends get a free death certificate for repatriation from the Bangladesh High Commission in Ottawa, with its form, a copy of the deceased's passport, the Canadian death certificate, and the next of kin's address and phone number in Bangladesh <sup>[52 (2022)](#o52)</sup>.
 
 <a id="contacts"></a>
 
 ## 12 Contacts
 
-- **Bangladesh High Commission, Ottawa:** 350 Sparks Street, Suite 1100, Ottawa, ON K1R 7S8; +1-613-236-0138; mission.ottawa@mofa.gov.bd; Monday to Friday 09:00 to 17:00; passports consular.ottawa@mofa.gov.bd <sup>[55](#o55)</sup>. It holds consular camps in other cities, such as Richmond (Vancouver) in November 2026 <sup>[56](#o56)</sup>. Its service list has no labour or welfare wing <sup>[55](#o55)</sup>.
-- **Bangladesh Consulate General, Toronto:** 1505-2235 Sheppard Avenue East, Toronto, ON M2J 5B5; call centre and WhatsApp +1 437 873 5019 (10:00 to 16:00 Toronto time, working days); consular@bdcgtoronto.ca <sup>[57](#o57)</sup>. Both missions give voter registration and NID (national identity card) services, since 11 September 2025 <sup>[N17](#n17)</sup>.
-- **High Commission of Canada, Dhaka:** United Nations Road, Baridhara, Dhaka 1212; +880 2 5566 8444; dhaka.consular@international.gc.ca <sup>[58](#o58)</sup>. Visa applications go online and through the VACs, not to the High Commission (see [Step 2: Apply for the study permit](#step-2-apply-for-the-study-permit)) <sup>[30](#o30), [31](#o31)</sup>.
-- **Canada visa application centres (VFS Global):** Dhaka (Delta Life Tower, Gulshan-2), Chittagong (World Trade Centre, Agrabad) and Sylhet (Merchant Tower, East Mirabazar), Sunday to Thursday 09:00 to 14:00 <sup>[22](#o22)</sup>.
-- **Abuse of a temporary foreign worker:** Service Canada tip line 1-866-602-9448, 24 hours <sup>[49](#o49)</sup>.
-- **Human trafficking:** Canadian Human Trafficking Hotline 1-833-900-1010; in danger, 911 <sup>[41](#o41)</sup>.
+- **Bangladesh High Commission, Ottawa:** 350 Sparks Street, Suite 1100, Ottawa, ON K1R 7S8; +1-613-236-0138; mission.ottawa@mofa.gov.bd; Monday to Friday 09:00 to 17:00; passports consular.ottawa@mofa.gov.bd <sup>[53](#o53)</sup>. It holds consular camps in other cities, such as Richmond (Vancouver) in November 2026 <sup>[54](#o54)</sup>. Its service list has no labour or welfare wing <sup>[53](#o53)</sup>.
+- **Bangladesh Consulate General, Toronto:** 1505-2235 Sheppard Avenue East, Toronto, ON M2J 5B5; call centre and WhatsApp +1 437 873 5019 (10:00 to 16:00 Toronto time, working days); consular@bdcgtoronto.ca <sup>[55](#o55)</sup>. Both missions give voter registration and NID (national identity card) services, since 11 September 2025 <sup>[N17](#n17)</sup>.
+- **High Commission of Canada, Dhaka:** United Nations Road, Baridhara, Dhaka 1212; +880 2 5566 8444; dhaka.consular@international.gc.ca <sup>[56](#o56)</sup>. Visa applications go online and through the VACs, not to the High Commission (see [Step 2: Apply for the study permit](#step-2-apply-for-the-study-permit)) <sup>[28](#o28), [29](#o29)</sup>.
+- **Canada visa application centres (VFS Global):** Dhaka (Delta Life Tower, Gulshan-2), Chittagong (World Trade Centre, Agrabad) and Sylhet (Merchant Tower, East Mirabazar), Sunday to Thursday 09:00 to 14:00 <sup>[20](#o20)</sup>.
+- **Abuse of a temporary foreign worker:** Service Canada tip line 1-866-602-9448, 24 hours <sup>[47](#o47)</sup>.
+- **Human trafficking:** Canadian Human Trafficking Hotline 1-833-900-1010; in danger, 911 <sup>[39](#o39)</sup>.
 - **Immigration fraud:** CBSA Border Watch line 1-888-502-9060 <sup>[1](#o1)</sup>.
-- **Checking a consultant:** College of Immigration and Citizenship Consultants member list; for lawyers, the provincial law society <sup>[40](#o40)</sup>.
+- **Checking a consultant:** College of Immigration and Citizenship Consultants member list; for lawyers, the provincial law society <sup>[38](#o38)</sup>.
 
 > **Need to know**
 > - Who at the Bangladesh High Commission in Ottawa handles a Bangladeshi worker's complaint against a Canadian employer or recruiter, given it lists no labour wing?
@@ -554,52 +554,50 @@ To send the body home, the family or friends get a free death certificate for re
 10. <a id="o10"></a>Immigration, Refugees and Citizenship Canada (IRCC), 28 Aug 2026. [Study permit: Proof of financial support](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html). Accessed 23 Nov 2026.
 11. <a id="o11"></a>Immigration, Refugees and Citizenship Canada (IRCC), 20 Nov 2026. [Backgrounder: Building a stronger Canada through a well-managed, predictable immigration system (2027-2029 Immigration Levels Plan)](https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/11/building-a-stronger-canada-through-a-well-managed-predictable-immigration-system.html). Accessed 24 Nov 2026.
 12. <a id="o12"></a>Immigration, Refugees and Citizenship Canada (IRCC), 31 Mar 2026. [Employer-specific work permits](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/employer-specific.html). Accessed 24 Nov 2026.
-13. <a id="o13"></a>BMET (OEP), 23 Nov 2026. [Country-wise clearance report: Canada, all workers, 2021](https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2021-01-01&approval_date_to=2021-12-31&country_id%5B%5D=32&gender_id=). Accessed 23 Nov 2026.
-14. <a id="o14"></a>BMET (OEP), 23 Nov 2026. [Country-wise clearance report: Canada, all workers, 2022](https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2022-01-01&approval_date_to=2022-12-31&country_id%5B%5D=32&gender_id=). Accessed 23 Nov 2026.
-15. <a id="o15"></a>BMET (OEP), 23 Nov 2026. [Country-wise clearance report: Canada, women, 2023](https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-01-01&approval_date_to=2023-12-31&country_id%5B%5D=32&gender_id=2). Accessed 23 Nov 2026.
-16. <a id="o16"></a>BMET (OEP), 23 Nov 2026. [Country-wise clearance report: Canada, all workers, 2024](https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2024-01-01&approval_date_to=2024-12-31&country_id%5B%5D=32&gender_id=). Accessed 23 Nov 2026.
-17. <a id="o17"></a>BMET (OEP), 23 Nov 2026. [Country-wise clearance report: Canada, all workers, 2026](https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2026-01-01&approval_date_to=2026-11-23&country_id%5B%5D=32&gender_id=). Accessed 23 Nov 2026.
-18. <a id="o18"></a>BMET (OEP), 23 Nov 2026. [Country-wise clearance report by job category: Canada, 2023](https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=200&approval_date_from=2023-01-01&approval_date_to=2023-12-31&country_id%5B%5D=32&gender_id=&all_skills=1). Accessed 23 Nov 2026.
-19. <a id="o19"></a>BMET (OEP), 23 Nov 2026. [Country-wise clearance report by job category: Canada, 2024](https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=200&approval_date_from=2024-01-01&approval_date_to=2024-12-31&country_id%5B%5D=32&gender_id=&all_skills=1). Accessed 23 Nov 2026.
-20. <a id="o20"></a>Immigration, Refugees and Citizenship Canada (IRCC), 10 Nov 2026. [Fee list](https://ircc.canada.ca/english/information/fees/fees.asp). Accessed 23 Nov 2026.
-21. <a id="o21"></a>Immigration, Refugees and Citizenship Canada (IRCC), 28 Aug 2026. [Post-graduation work permit: How to apply](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/apply.html). Accessed 23 Nov 2026.
-22. <a id="o22"></a>VFS Global (for the Government of Canada), via Wayback Machine, 20 Feb 2026. [Canada visa application centres in Bangladesh](https://visa.vfsglobal.com/bgd/en/can). Accessed 24 Nov 2026. Archived copy, Wayback Machine, 20 Feb 2026: [https://web.archive.org/web/20260220210144/https://visa.vfsglobal.com/bgd/en/can/](https://web.archive.org/web/20260220210144/https://visa.vfsglobal.com/bgd/en/can/).
-23. <a id="o23"></a>Immigration, Refugees and Citizenship Canada (IRCC), 15 Apr 2026. [Work off campus as an international student](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html). Accessed 23 Nov 2026.
-24. <a id="o24"></a>Immigration, Refugees and Citizenship Canada (IRCC), 8 Oct 2026. [Changing jobs or employers](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/extend/change-jobs-employers.html). Accessed 24 Nov 2026.
-25. <a id="o25"></a>Immigration, Refugees and Citizenship Canada (IRCC), 19 Dec 2025. [Open work permit for vulnerable workers: Who can apply](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions/vulnerable-workers/eligibility.html). Accessed 24 Nov 2026.
-26. <a id="o26"></a>Immigration, Refugees and Citizenship Canada (IRCC), 3 Nov 2026. [Refugee protection (asylum) in Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/claim-protection-inside-canada.html). Accessed 23 Nov 2026.
-27. <a id="o27"></a>Immigration, Refugees and Citizenship Canada (IRCC), 13 Nov 2026. [Designated learning institutions list](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html). Accessed 23 Nov 2026.
-28. <a id="o28"></a>Immigration, Refugees and Citizenship Canada (IRCC), 24 Jun 2026. [Post-graduation work permit: Who can apply](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html). Accessed 23 Nov 2026.
-29. <a id="o29"></a>Immigration, Refugees and Citizenship Canada (IRCC), 6 Jan 2025. [Know the rules before you apply to study in Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/protect-fraud/study-permit-fraud.html). Accessed 24 Nov 2026. Possibly outdated.
-30. <a id="o30"></a>Immigration, Refugees and Citizenship Canada (IRCC), 1 Feb 2026. [Visa office instructions, Study permit, Singapore office (IMM 5850, 02-2026), listed for Bangladesh](https://ircc.canada.ca/english/pdf/kits/forms/IMM5850E.pdf). Accessed 23 Nov 2026.
-31. <a id="o31"></a>Immigration, Refugees and Citizenship Canada (IRCC), 18 Nov 2026. [Where to give your biometrics](https://www.canada.ca/en/immigration-refugees-citizenship/campaigns/biometrics/where-to-give-biometrics.html). Accessed 23 Nov 2026.
-32. <a id="o32"></a>Immigration, Refugees and Citizenship Canada (IRCC), 6 Oct 2026. [Study permit: Get the right documents](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html). Accessed 23 Nov 2026.
-33. <a id="o33"></a>Immigration, Refugees and Citizenship Canada (IRCC), 2 Sep 2026. [Provincial attestation letter or territorial attestation letter](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/provincial-attestation-letter.html). Accessed 23 Nov 2026.
-34. <a id="o34"></a>Immigration, Refugees and Citizenship Canada (IRCC), 2 Sep 2026. [Study permit: How to apply](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/apply.html). Accessed 23 Nov 2026.
-35. <a id="o35"></a>Immigration, Refugees and Citizenship Canada (IRCC), 18 Nov 2026. [Processing times data by country (data-ptime-en.json, updated 18 November 2026)](https://www.canada.ca/content/dam/ircc/documents/json/data-ptime-en.json). Accessed 23 Nov 2026.
-36. <a id="o36"></a>Immigration, Refugees and Citizenship Canada (IRCC), 18 Nov 2026. [Processing times data, non-country (data-ptime-non-country-en.json)](https://www.canada.ca/content/dam/ircc/documents/json/data-ptime-non-country-en.json). Accessed 23 Nov 2026.
-37. <a id="o37"></a>Immigration, Refugees and Citizenship Canada (IRCC), 28 Aug 2026. [Study permit: After you apply](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/after-apply-next-steps.html). Accessed 23 Nov 2026.
-38. <a id="o38"></a>Immigration, Refugees and Citizenship Canada (IRCC), 1 May 2026. [Work on campus as an international student](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-on-campus.html). Accessed 23 Nov 2026.
-39. <a id="o39"></a>Immigration, Refugees and Citizenship Canada (IRCC), 9 Mar 2026. [Post-graduation work permit: About](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html). Accessed 23 Nov 2026.
-40. <a id="o40"></a>Immigration, Refugees and Citizenship Canada (IRCC), 4 Jun 2026. [Find out if your representative is authorized](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative/choose/authorized.html). Accessed 24 Nov 2026.
-41. <a id="o41"></a>Immigration, Refugees and Citizenship Canada (IRCC), 11 May 2026. [How to report scams, fraud or abuse](https://www.canada.ca/en/immigration-refugees-citizenship/services/protect-fraud/report-fraud.html). Accessed 24 Nov 2026.
-42. <a id="o42"></a>Immigration, Refugees and Citizenship Canada (IRCC), 16 Nov 2026. [Visitor visa (temporary resident visa)](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/visitor-visa.html). Accessed 23 Nov 2026.
-43. <a id="o43"></a>Immigration, Refugees and Citizenship Canada (IRCC), 1 May 2026. [Visa office instructions, Temporary resident visa, Singapore office (IMM 5890, 05-2026), listed for Bangladesh](https://ircc.canada.ca/english/pdf/kits/forms/imm5890e.pdf). Accessed 23 Nov 2026.
-44. <a id="o44"></a>Immigration, Refugees and Citizenship Canada (IRCC), 28 Aug 2026. [Visitor visa: Who can apply](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html). Accessed 23 Nov 2026.
-45. <a id="o45"></a>Immigration, Refugees and Citizenship Canada (IRCC), 16 Nov 2026. [Visitor visa: How to apply](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html). Accessed 23 Nov 2026.
-46. <a id="o46"></a>Immigration, Refugees and Citizenship Canada (IRCC), 28 Aug 2026. [Visitor visa: After you apply](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/after-apply-next-steps.html). Accessed 23 Nov 2026.
-47. <a id="o47"></a>BMET (OEP), 23 Nov 2026. [Country-wise clearance report by job category: Canada, 2025](https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=200&approval_date_from=2025-01-01&approval_date_to=2025-12-31&country_id%5B%5D=32&gender_id=&all_skills=1). Accessed 23 Nov 2026.
-48. <a id="o48"></a>Immigration, Refugees and Citizenship Canada (IRCC), 31 Mar 2026. [Temporary foreign worker rights and labour standards](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/worker-rights.html). Accessed 24 Nov 2026.
-49. <a id="o49"></a>Employment and Social Development Canada (ESDC), 5 Oct 2026. [How to report abuse of temporary foreign workers and get help](https://www.canada.ca/en/employment-social-development/services/foreign-workers/report-abuse.html). Accessed 24 Nov 2026.
-50. <a id="o50"></a>Immigration, Refugees and Citizenship Canada (IRCC), 14 Jul 2026. [Open work permit for vulnerable workers: How to apply](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions/vulnerable-workers/apply.html). Accessed 24 Nov 2026.
-51. <a id="o51"></a>Immigration, Refugees and Citizenship Canada (IRCC), 5 Mar 2026. [Open work permit for vulnerable workers who are victims of abuse](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit/temporary/vulnerable-workers.html). Accessed 23 Nov 2026.
-52. <a id="o52"></a>Immigration, Refugees and Citizenship Canada (IRCC), 3 Nov 2026. [Backgrounder: Canada modernizes the asylum system to support timely decisions](https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/11/canada-modernizes-the-asylum-system-to-support-timely-decisions.html). Accessed 23 Nov 2026.
-53. <a id="o53"></a>Immigration, Refugees and Citizenship Canada (IRCC), 3 Nov 2026. [Asylum: While you wait for your hearing](https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/asylum/while-you-wait.html). Accessed 23 Nov 2026.
-54. <a id="o54"></a>Bangladesh High Commission, Ottawa, 14 Apr 2022. [Death Certificate (repatriation of mortal remains)](https://ottawa.mofa.gov.bd/pages/static-pages/6952668435ce18e1c05a9b8b). Accessed 23 Nov 2026. Possibly outdated.
-55. <a id="o55"></a>Bangladesh High Commission, Ottawa, 5 Oct 2025. [Address and Contacts](https://ottawa.mofa.gov.bd/pages/static-pages/6952669435ce18e1c05aa286). Accessed 23 Nov 2026. Possibly outdated.
-56. <a id="o56"></a>Bangladesh High Commission, Ottawa, 7 Nov 2026. [Home page](https://ottawa.mofa.gov.bd/). Accessed 23 Nov 2026.
-57. <a id="o57"></a>Consulate General of Bangladesh, Toronto, 30 Sep 2026. [Contact Us](https://toronto.mofa.gov.bd/pages/static-pages/695266a835ce18e1c05aa9cf). Accessed 23 Nov 2026.
-58. <a id="o58"></a>Global Affairs Canada (travel.gc.ca), 18 Mar 2026. [Embassies and consulates: Bangladesh (High Commission of Canada, Dhaka)](https://travel.gc.ca/assistance/embassies-consulates/bangladesh). Accessed 23 Nov 2026.
+13. <a id="o13"></a>BMET (OEP), 23 Nov 2026. [Country-wise clearance report: Canada, women, 2023](https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-01-01&approval_date_to=2023-12-31&country_id%5B%5D=32&gender_id=2). Accessed 23 Nov 2026.
+14. <a id="o14"></a>BMET (OEP), 23 Nov 2026. [Country-wise clearance report: Canada, all workers, 2024](https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2024-01-01&approval_date_to=2024-12-31&country_id%5B%5D=32&gender_id=). Accessed 23 Nov 2026.
+15. <a id="o15"></a>BMET (OEP), 23 Nov 2026. [Country-wise clearance report: Canada, all workers, 2026](https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2026-01-01&approval_date_to=2026-11-23&country_id%5B%5D=32&gender_id=). Accessed 23 Nov 2026.
+16. <a id="o16"></a>BMET (OEP), 23 Nov 2026. [Country-wise clearance report by job category: Canada, 2023](https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=200&approval_date_from=2023-01-01&approval_date_to=2023-12-31&country_id%5B%5D=32&gender_id=&all_skills=1). Accessed 23 Nov 2026.
+17. <a id="o17"></a>BMET (OEP), 23 Nov 2026. [Country-wise clearance report by job category: Canada, 2024](https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=200&approval_date_from=2024-01-01&approval_date_to=2024-12-31&country_id%5B%5D=32&gender_id=&all_skills=1). Accessed 23 Nov 2026.
+18. <a id="o18"></a>Immigration, Refugees and Citizenship Canada (IRCC), 10 Nov 2026. [Fee list](https://ircc.canada.ca/english/information/fees/fees.asp). Accessed 23 Nov 2026.
+19. <a id="o19"></a>Immigration, Refugees and Citizenship Canada (IRCC), 28 Aug 2026. [Post-graduation work permit: How to apply](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/apply.html). Accessed 23 Nov 2026.
+20. <a id="o20"></a>VFS Global (for the Government of Canada), via Wayback Machine, 20 Feb 2026. [Canada visa application centres in Bangladesh](https://visa.vfsglobal.com/bgd/en/can). Accessed 24 Nov 2026. Archived copy, Wayback Machine, 20 Feb 2026: [https://web.archive.org/web/20260220210144/https://visa.vfsglobal.com/bgd/en/can/](https://web.archive.org/web/20260220210144/https://visa.vfsglobal.com/bgd/en/can/).
+21. <a id="o21"></a>Immigration, Refugees and Citizenship Canada (IRCC), 15 Apr 2026. [Work off campus as an international student](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html). Accessed 23 Nov 2026.
+22. <a id="o22"></a>Immigration, Refugees and Citizenship Canada (IRCC), 8 Oct 2026. [Changing jobs or employers](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/extend/change-jobs-employers.html). Accessed 24 Nov 2026.
+23. <a id="o23"></a>Immigration, Refugees and Citizenship Canada (IRCC), 19 Dec 2025. [Open work permit for vulnerable workers: Who can apply](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions/vulnerable-workers/eligibility.html). Accessed 24 Nov 2026.
+24. <a id="o24"></a>Immigration, Refugees and Citizenship Canada (IRCC), 3 Nov 2026. [Refugee protection (asylum) in Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/claim-protection-inside-canada.html). Accessed 23 Nov 2026.
+25. <a id="o25"></a>Immigration, Refugees and Citizenship Canada (IRCC), 13 Nov 2026. [Designated learning institutions list](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html). Accessed 23 Nov 2026.
+26. <a id="o26"></a>Immigration, Refugees and Citizenship Canada (IRCC), 24 Jun 2026. [Post-graduation work permit: Who can apply](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html). Accessed 23 Nov 2026.
+27. <a id="o27"></a>Immigration, Refugees and Citizenship Canada (IRCC), 6 Jan 2025. [Know the rules before you apply to study in Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/protect-fraud/study-permit-fraud.html). Accessed 24 Nov 2026. Possibly outdated.
+28. <a id="o28"></a>Immigration, Refugees and Citizenship Canada (IRCC), 1 Feb 2026. [Visa office instructions, Study permit, Singapore office (IMM 5850, 02-2026), listed for Bangladesh](https://ircc.canada.ca/english/pdf/kits/forms/IMM5850E.pdf). Accessed 23 Nov 2026.
+29. <a id="o29"></a>Immigration, Refugees and Citizenship Canada (IRCC), 18 Nov 2026. [Where to give your biometrics](https://www.canada.ca/en/immigration-refugees-citizenship/campaigns/biometrics/where-to-give-biometrics.html). Accessed 23 Nov 2026.
+30. <a id="o30"></a>Immigration, Refugees and Citizenship Canada (IRCC), 6 Oct 2026. [Study permit: Get the right documents](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html). Accessed 23 Nov 2026.
+31. <a id="o31"></a>Immigration, Refugees and Citizenship Canada (IRCC), 2 Sep 2026. [Provincial attestation letter or territorial attestation letter](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/provincial-attestation-letter.html). Accessed 23 Nov 2026.
+32. <a id="o32"></a>Immigration, Refugees and Citizenship Canada (IRCC), 2 Sep 2026. [Study permit: How to apply](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/apply.html). Accessed 23 Nov 2026.
+33. <a id="o33"></a>Immigration, Refugees and Citizenship Canada (IRCC), 18 Nov 2026. [Processing times data by country (data-ptime-en.json, updated 18 November 2026)](https://www.canada.ca/content/dam/ircc/documents/json/data-ptime-en.json). Accessed 23 Nov 2026.
+34. <a id="o34"></a>Immigration, Refugees and Citizenship Canada (IRCC), 18 Nov 2026. [Processing times data, non-country (data-ptime-non-country-en.json)](https://www.canada.ca/content/dam/ircc/documents/json/data-ptime-non-country-en.json). Accessed 23 Nov 2026.
+35. <a id="o35"></a>Immigration, Refugees and Citizenship Canada (IRCC), 28 Aug 2026. [Study permit: After you apply](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/after-apply-next-steps.html). Accessed 23 Nov 2026.
+36. <a id="o36"></a>Immigration, Refugees and Citizenship Canada (IRCC), 1 May 2026. [Work on campus as an international student](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-on-campus.html). Accessed 23 Nov 2026.
+37. <a id="o37"></a>Immigration, Refugees and Citizenship Canada (IRCC), 9 Mar 2026. [Post-graduation work permit: About](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html). Accessed 23 Nov 2026.
+38. <a id="o38"></a>Immigration, Refugees and Citizenship Canada (IRCC), 4 Jun 2026. [Find out if your representative is authorized](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative/choose/authorized.html). Accessed 24 Nov 2026.
+39. <a id="o39"></a>Immigration, Refugees and Citizenship Canada (IRCC), 11 May 2026. [How to report scams, fraud or abuse](https://www.canada.ca/en/immigration-refugees-citizenship/services/protect-fraud/report-fraud.html). Accessed 24 Nov 2026.
+40. <a id="o40"></a>Immigration, Refugees and Citizenship Canada (IRCC), 16 Nov 2026. [Visitor visa (temporary resident visa)](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/visitor-visa.html). Accessed 23 Nov 2026.
+41. <a id="o41"></a>Immigration, Refugees and Citizenship Canada (IRCC), 1 May 2026. [Visa office instructions, Temporary resident visa, Singapore office (IMM 5890, 05-2026), listed for Bangladesh](https://ircc.canada.ca/english/pdf/kits/forms/imm5890e.pdf). Accessed 23 Nov 2026.
+42. <a id="o42"></a>Immigration, Refugees and Citizenship Canada (IRCC), 28 Aug 2026. [Visitor visa: Who can apply](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html). Accessed 23 Nov 2026.
+43. <a id="o43"></a>Immigration, Refugees and Citizenship Canada (IRCC), 16 Nov 2026. [Visitor visa: How to apply](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html). Accessed 23 Nov 2026.
+44. <a id="o44"></a>Immigration, Refugees and Citizenship Canada (IRCC), 28 Aug 2026. [Visitor visa: After you apply](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/after-apply-next-steps.html). Accessed 23 Nov 2026.
+45. <a id="o45"></a>BMET (OEP), 23 Nov 2026. [Country-wise clearance report by job category: Canada, 2025](https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=200&approval_date_from=2025-01-01&approval_date_to=2025-12-31&country_id%5B%5D=32&gender_id=&all_skills=1). Accessed 23 Nov 2026.
+46. <a id="o46"></a>Immigration, Refugees and Citizenship Canada (IRCC), 31 Mar 2026. [Temporary foreign worker rights and labour standards](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/worker-rights.html). Accessed 24 Nov 2026.
+47. <a id="o47"></a>Employment and Social Development Canada (ESDC), 5 Oct 2026. [How to report abuse of temporary foreign workers and get help](https://www.canada.ca/en/employment-social-development/services/foreign-workers/report-abuse.html). Accessed 24 Nov 2026.
+48. <a id="o48"></a>Immigration, Refugees and Citizenship Canada (IRCC), 14 Jul 2026. [Open work permit for vulnerable workers: How to apply](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions/vulnerable-workers/apply.html). Accessed 24 Nov 2026.
+49. <a id="o49"></a>Immigration, Refugees and Citizenship Canada (IRCC), 5 Mar 2026. [Open work permit for vulnerable workers who are victims of abuse](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit/temporary/vulnerable-workers.html). Accessed 23 Nov 2026.
+50. <a id="o50"></a>Immigration, Refugees and Citizenship Canada (IRCC), 3 Nov 2026. [Backgrounder: Canada modernizes the asylum system to support timely decisions](https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/11/canada-modernizes-the-asylum-system-to-support-timely-decisions.html). Accessed 23 Nov 2026.
+51. <a id="o51"></a>Immigration, Refugees and Citizenship Canada (IRCC), 3 Nov 2026. [Asylum: While you wait for your hearing](https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/asylum/while-you-wait.html). Accessed 23 Nov 2026.
+52. <a id="o52"></a>Bangladesh High Commission, Ottawa, 14 Apr 2022. [Death Certificate (repatriation of mortal remains)](https://ottawa.mofa.gov.bd/pages/static-pages/6952668435ce18e1c05a9b8b). Accessed 23 Nov 2026. Possibly outdated.
+53. <a id="o53"></a>Bangladesh High Commission, Ottawa, 5 Oct 2025. [Address and Contacts](https://ottawa.mofa.gov.bd/pages/static-pages/6952669435ce18e1c05aa286). Accessed 23 Nov 2026. Possibly outdated.
+54. <a id="o54"></a>Bangladesh High Commission, Ottawa, 7 Nov 2026. [Home page](https://ottawa.mofa.gov.bd/). Accessed 23 Nov 2026.
+55. <a id="o55"></a>Consulate General of Bangladesh, Toronto, 30 Sep 2026. [Contact Us](https://toronto.mofa.gov.bd/pages/static-pages/695266a835ce18e1c05aa9cf). Accessed 23 Nov 2026.
+56. <a id="o56"></a>Global Affairs Canada (travel.gc.ca), 18 Mar 2026. [Embassies and consulates: Bangladesh (High Commission of Canada, Dhaka)](https://travel.gc.ca/assistance/embassies-consulates/bangladesh). Accessed 23 Nov 2026.
 
 <a id="needs-an-official-source"></a>
 

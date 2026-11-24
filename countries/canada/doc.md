@@ -43,7 +43,7 @@ Open for students, visitors and workers with a genuine job offer, but with fewer
 
 - **Study permits for Bangladeshis:** about 9,810 took effect in 2023, 6,735 in 2024, 5,860 in 2025 and 4,305 from January to September 2026 [OC0014, OC0015, OC0016, OC0017].
 - **Bangladeshi students who never showed up:** 11,948 went in the period covered by Canada's figures published in March-April 2024, and 7.5% of them never contacted their university or college after arriving [XC0021].
-- **Workers cleared by BMET:** none in 2021, 99 in 2022, 548 in 2023 (196 women), 534 in 2024, 147 in 2025 and 64 from January to 23 November 2026 [OC0010, OC0001, OC0003, OC0004, OC0005, OC0007, OC0009]. In 2023, 420 of the 548 were recorded under the job category "Worker"; in 2024 the largest named trade was cook (30) [OC0011, OC0013].
+- **Workers cleared by BMET:** 548 in 2023 (196 women), 534 in 2024, 147 in 2025 and 64 from January to 23 November 2026, by BMET's online OEP clearance report [OC0003, OC0004, OC0005, OC0007, OC0009]. In 2023, 420 of the 548 were recorded under the job category "Worker"; in 2024 the largest named trade was cook (30) [OC0011, OC0013].
 - **Post-graduation work permits:** more than 105,000 were issued in the first half of 2024, 64% of them to college program graduates, according to the Toronto Star [XC0019].
 - **Stopped before boarding:** in 2024 CBSA recommended that about 11,050 passengers with suspicious travel documents not be boarded, 493 of them Bangladeshis (475 suspected of fraud) [XC0035].
 - **World Cup visitor visas:** 45 issued from Bangladesh for the 2026 tournament, out of 26,111 FIFA-related permits or visas in all [XC0131, XC0129].
@@ -134,11 +134,11 @@ An admission letter can be from a college that does not really exist: an Indian 
 Study permit applications from Bangladesh are decided by the High Commission of Canada in Singapore, not in Dhaka; the Dhaka, Chittagong and Sylhet visa application centres (VACs), run by VFS Global, only take fingerprints and passports [OC0051, OC0044].
 
 1. Apply to the university: most Ontario universities take applications through the Ontario Universities' Application Centre (OUAC); in other provinces apply to the institution directly [XC0146]. Send SSC (Secondary School Certificate) and HSC certificates and transcripts, your passport, the language test result and, where asked, a personal statement; some programs add a questionnaire, portfolio or interview [XC0147].
-2. If selected, you get a letter of acceptance (LOA); IRCC asks the school to confirm it is genuine, and if the school does not answer in time IRCC returns the application and refunds the fee [OC0022].
+2. If selected, you get a letter of acceptance (LOA); IRCC asks the school to confirm it is genuine, and if the school does not answer in time IRCC returns the application and refunds the fee [OC0022, OC0153].
 3. Get a provincial attestation letter (PAL), a letter from the province confirming a study space for you: accept the offer and pay part or all of the tuition, then ask the school how to apply; the school provides it [OC0023, OC0024]. Master's and doctoral students at a public DLI do not need one from 1 January 2026 [OC0025]. A PAL issued in 2026 is valid until 31 December 2026 unless it shows an earlier date, and after an approval or refusal you need a new one to apply again [OC0026, OC0027]. For Quebec, get a Quebec Acceptance Certificate (CAQ) from the Government of Quebec instead; the school explains how [OC0028].
 4. Prove the money, without counting any work in Canada: first-year tuition, living costs and travel both ways, and a plan for paying the later years [OC0029, OC0030]. For applications from 1 September 2026, living costs outside Quebec are CAD 23,448 for one person, CAD 29,192 for two and CAD 35,888 for three [OC0032, OC0031]. Accepted proof includes a tuition and housing receipt from the school, an education loan, a scholarship letter, a sponsor's letter with their job, relationship and amount, and 6 months of bank statements with the source of the money [OC0033].
 5. Prepare the Bangladesh extras the Singapore office asks for [OC0051]:
-   - a one-page study plan: why this program in Canada, why not a similar one at home, how it helps your job prospects at home, and your ties to Bangladesh; a CV if you left full-time study more than two years ago [OC0052];
+   - a one-page study plan: why this program in Canada, why not a similar one at home, how it helps your job prospects at home, and your ties to Bangladesh; a CV (curriculum vitae, a summary of your education and work) if you left full-time study more than two years ago [OC0052];
    - notarized copies of diplomas and transcripts [OC0053];
    - original police certificates for every country you lived in six months or more since age 18 [OC0054];
    - bank statements showing at least 4 months of history and balance, with a written explanation of where the money came from [OC0055];
@@ -221,7 +221,7 @@ Visit visa applications from Bangladesh are also handled by the Singapore visa o
 1. Check you can convince an officer of three things: ties at home (job, home, assets or family) that will bring you back, that you will leave at the end of the visit, and enough money for the stay [OC0087].
 2. Make sure your passport is valid for at least 6 months from the travel date [OC0088].
 3. Gather the documents the Singapore office asks for [OC0089, OC0090, OC0091, OC0092, OC0093]:
-   - copies of birth and, if married, marriage certificates;
+   - copies of birth and, if married, marriage certificates [OC0154];
    - bank statements for the last 4 months and proof of income (employment letter, pay slips, business papers); if someone else pays, their signed letter, ID and a bank certificate, all dated within three months;
    - the Family Information Form (IMM 5707), filled in, dated and signed, required for residents of Bangladesh;
    - if visiting family or friends: the host's invitation letter with the purpose and length of the visit, proof of your relationship, and a copy of the host's Canadian citizenship or immigration status document;
@@ -270,7 +270,7 @@ Prime Minister Mark Carney said in September 2025 that the Temporary Foreign Wor
 
 ### How a genuine work permit is issued
 
-1. The Canadian employer checks whether the job needs an LMIA, applies for one if it does, and gives the worker the LMIA letter and its Annex A [OC0112]. The employer must not be on IRCC's list of non-compliant employers [OC0113].
+1. The Canadian employer checks whether the job needs an LMIA, applies for one if it does, and gives the worker the LMIA letter and its Annex A [OC0112]. The employer must not be on IRCC's list of non-compliant employers [OC0155].
 2. The worker applies online to IRCC with the job offer and LMIA papers, pays CAD 155, and gives biometrics (CAD 85) at a VAC in Dhaka, Chittagong or Sylhet (see Step 2: Apply for the study permit, item 7) [OC0038, OC0035, OC0044].
 3. IRCC's published processing time for work permits from Bangladesh was 30 weeks in November 2026 [OC0061, OC0062].
 4. The permit lists the employer, location and job, and the worker must keep to them [OC0111].
