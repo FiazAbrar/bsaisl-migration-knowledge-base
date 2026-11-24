@@ -1,7 +1,7 @@
 name: Bot can read the guides
 # The WhatsApp, Telegram and web bot reads the guides straight from main (navigator-bot/src/kb/service.ts).
 # This check reads every guide the way the bot does on every pull request, and fails if a guide on main
-# would disappear, lose most of its sections, or have no text. Rules: KB-STRUCTURE.md.
+# would disappear, lose most of its sections, or have no text. Rules: CLAUDE.md, "What the bot reads".
 on:
   pull_request:
     paths:
@@ -9,7 +9,7 @@ on:
       - "global/**"
       - "agencies/**"
       - "navigator-bot/**"
-      - "KB-STRUCTURE.md"
+      - "CLAUDE.md"
 permissions:
   contents: read
 jobs:

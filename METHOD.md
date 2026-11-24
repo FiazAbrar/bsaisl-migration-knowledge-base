@@ -164,9 +164,9 @@ Method: for each country, every row of each `work/<X>/sources/_fetchlog.csv` was
 
 ## 11. One place for pass traces
 
-Started on 23 Nov 2026 with the Prothom Alo passes, which now live in `passes/` (see passes/README.md). Existing country folders are unchanged; the rest of this section is the proposal for future passes.
+Started on 23 Nov 2026 with the Prothom Alo passes, which live in `passes/` (see passes/README.md). On 24 Nov 2026 the first-build traces of Cambodia, Italy, Kuwait and Kyrgyzstan moved there too, unchanged, as `passes/<date>-<country>-first-build/{drafts,verify,work}/`; paths in sections 4 to 10 that start `drafts/`, `verify/` or `work/` are inside those folders.
 
-Today the traces of a country's first build sit in `drafts/`, `verify/` and `work/`, sorted by file type, with rounds told apart only by file-name prefixes. Later passes add more prefixes to the same folders (`k-`, `m-`, `q-`, `restore-`). The archive passes live outside the repo altogether. Proposal:
+Until then the traces of a country's first build sat in `drafts/`, `verify/` and `work/` inside the country folder, sorted by file type, with rounds told apart only by file-name prefixes. Later passes add more prefixes to the same folders (`k-`, `m-`, `q-`, `restore-`). The archive passes live outside the repo altogether. Proposal:
 
 - **One folder per pass:** `passes/<yyyy-mm-dd>-<slug>/` at the repo root (for example `passes/2026-11-11-cambodia-build/`, `passes/2026-11-20-prothom-alo-malaysia/`). Root level because passes often touch several docs.
 - **Inside each pass folder:**

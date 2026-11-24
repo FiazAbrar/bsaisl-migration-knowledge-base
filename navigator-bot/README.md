@@ -134,7 +134,7 @@ testing.** Before a public launch, set the public values (names in `.env.example
 
 The bot never edits the guides. A guide is any folder with a `doc.md`; folders under `countries/` are
 destinations, the rest apply to every country. New guides need no code change. The rules the team keeps to are
-in `../KB-STRUCTURE.md`. Country names people type (English, Bangla, Banglish, cities) are in
+in `../CLAUDE.md` ("What the bot reads"). Country names people type (English, Bangla, Banglish, cities) are in
 `src/kb/countries.ts`.
 
 On a server, `KB_REPO` makes the bot fetch the guides from GitHub: a shallow, sparse copy of only the files it
